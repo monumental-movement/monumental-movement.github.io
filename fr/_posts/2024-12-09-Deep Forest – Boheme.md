@@ -17,7 +17,7 @@ title: Forêt Profonde – Bohème
 
 " Bohème " est le deuxième album du duo français Deep Forest, sorti en 1995. Cet album, qui échantillonne la bohème (chansons gitanes d'Europe de l'Est), est le chef-d'œuvre de Deep Forest, vendu à plus de 4 millions d'exemplaires, remportant des prix Diamant, Platine et Or dans 15 pays et remportant le Grammy Award du meilleur album de musique du monde.
 
-La troisième chanson met en vedette la musicienne folk hongroise Márta Sebestyén, et la 12ème chanson met en vedette Peter Gabriel, le chanteur fondateur du groupe de rock Genesis.
+La troisième chanson met en vedette la musicienne folk hongroise Márta Sebestyén, et la 12e chanson met en vedette Peter Gabriel, le chanteur fondateur du groupe de rock Genesis.
 
 #### Liste des chansons
 ```md

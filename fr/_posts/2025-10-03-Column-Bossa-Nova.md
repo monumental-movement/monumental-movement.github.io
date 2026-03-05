@@ -16,7 +16,7 @@ title: '[Chronique] Guide des charmes et des chefs-d''œuvre de la Bossa Nova :
 
 ## Le charme et l'histoire de la bossa nova
 
-Texte : mmr｜Thème : Discographie des artistes majeurs de la bossa nova tels que Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organisée par ordre chronologique et explication de chaque album.
+Texte : mmr｜Thème : Discographie des artistes majeurs de la bossa nova tels que Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organisée par ordre chronologique et explication de chaque album
 
 
 
@@ -42,7 +42,8 @@ color: #fff;
 
 #### Joao Gilberto
 
-- **ソロアルバム**: [『Chega de Saudade』（1959年）](https://amzn.to/3W7J1yt)、[『O Amor, o Sorriso e a Flor』（1960年）](https://amzn.to/4mXnymQ)
+- **ソロアルバム**: [『Chega de Saudade』（1959年）](https://amzn.to/3W7J1yt)、[『O Amor, o Sorriso e a Flor』（1960年）](https://amzn.to/4mXnymQ) 
+
 - **コラボレーション**: スタン・ゲッツとの共演アルバム[『Getz/Gilberto』（1964年）](https://amzn.to/4nAx9Ry) 
 ---
 
@@ -74,7 +75,7 @@ color: #fff;
 
 **Année de naissance** : 10 juin 1931 (Juazeiro, Bahia, Brésil)
 
-**Caractéristiques** : Connu comme le fondateur de la bossa nova, il est connu comme le « dieu de la bossa nova » pour son jeu de guitare unique et son style de chant modeste.
+**Caractéristiques** : Connu comme le fondateur de la bossa nova, il est connu comme le « dieu de la bossa nova » pour son jeu de guitare unique et son style de chant modeste.
 
 **逸話**: 1958年、アルバム[『Chega de Saudade』](https://amzn.to/3W7J1yt)の制作時、音響技師が彼のギターの音量が小さすぎると指摘した際、ジルベルトは「ギターの音量を上げるのではなく、他の音を下げれば良い」と返答し、彼の音楽哲学を体現しました。
 
@@ -110,7 +111,7 @@ color: #fff;
 
 **Année de naissance** : 11 février 1941 (Rio de Janeiro, Brésil)
 
-**Caractéristiques** : Pianiste, compositeur et arrangeur, il est l'un des acteurs incontournables de la diffusion de la musique brésilienne à travers le monde.
+**Caractéristiques** : Pianiste, compositeur et arrangeur, il est l'un des acteurs clés de la diffusion de la musique brésilienne à travers le monde.
 
 **逸話**: 1966年、セルジオ・メンデス & ブラジル'66のアルバム[『Herb Alpert Presents Sergio Mendes & Brasil'66』](https://amzn.to/4mR12fg)が大ヒットし、アメリカでのボサノバ人気を再燃させました。
 
@@ -204,7 +205,7 @@ flowchart TD
 
 ## L'influence de la bossa nova et son héritage jusqu'à nos jours
 
-La Bossa Nova a influencé divers genres tels que le jazz, la pop et la musique classique, et a eu une grande influence sur la scène musicale moderne. Ces dernières années, les artistes ont créé des chansons intégrant des éléments de bossa nova, et la fusion au-delà des frontières des genres progresse.
+La Bossa Nova a influencé divers genres tels que le jazz, la pop et la musique classique, et a eu une grande influence sur la scène musicale moderne. Ces dernières années, les artistes ont créé des chansons intégrant des éléments de la bossa nova, et la fusion qui transcende les frontières des genres progresse.
 
 ---
 
@@ -217,6 +218,14 @@ Aujourd'hui encore, le mot « Bossa Nova » va au-delà d'un simple genre musica
 Le charme de la bossa nova réside dans sa musicalité unique, qui allie la liberté du jazz, le rythme de la samba et le sens de l'harmonie de la musique classique. De plus, si l’on regarde son histoire, elle reflète également des contextes sociaux tels que les échanges culturels internationaux pendant la guerre froide, l’urbanisation au Brésil et l’interaction avec le marché musical américain.
 
 En suivant les albums et la discographie, ainsi qu'en découvrant des anecdotes de l'époque et de la vie des artistes, vous pourrez mieux comprendre la bossa nova. La musique elle-même résonne comme un son apaisant de « guérison », mais en même temps, elle peut également être appréciée comme un « document » qui reflète l'air du temps. C'est la vraie valeur du patrimoine culturel qu'est la Bossa Nova.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vix6v78xnH0?si=Z3TTlYeFjDtmTi_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

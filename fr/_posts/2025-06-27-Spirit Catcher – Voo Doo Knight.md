@@ -16,7 +16,7 @@ title: Attrape-esprit – Voo Doo Knight
 
 Spirit Catcher est un duo formé par les producteurs belges Jean Vanesse et Thomas Sohet. Il est également actif sous le nom de Only Freak.
 
-"Voo Doo Knight" est un morceau Tech House sorti en 2004 par le label Moodmusic du DJ et producteur finlandais Sasse.
+"Voo Doo Knight" est un morceau Tech House sorti en 2004 sur le label Moodmusic du DJ et producteur finlandais Sasse.
 
 #### Liste des chansons
 ```md

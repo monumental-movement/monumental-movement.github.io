@@ -16,7 +16,7 @@ title: Continuum espace-temps – Émettre des Ecaps
 ---
 
 
-Un double LP sorti en 1996 par Jonah Sharp, également connu sous le nom de Spacetime Continuum, un pilier de la scène underground techno/ambient/electronica des années 90, sur son propre label Reflective Records.
+Un double LP sorti en 1996 par Jonah Sharp, alias Spacetime Continuum, pilier de la scène underground techno/ambient/electronica des années 90, sur son propre label, réfléchissant Records.
 
 #### Liste des chansons
 ```md

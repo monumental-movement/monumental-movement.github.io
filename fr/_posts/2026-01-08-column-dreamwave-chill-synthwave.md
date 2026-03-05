@@ -10,21 +10,21 @@ permalink: /fr/column-dreamwave-chill-synthwave/
 tags:
 - Dreamwave
 - Chill Synthwave
-title: '[Chronique] Dreamwave / Chill Synthwave'
+title: 【コラム】 Dreamwave / Chill Synthwave（ドリームウェーブ／チルシンセウェーブ）
 ---
 
 
 
-## Présentation : Qu'est-ce que Dreamwave / Chill Synthwave ?
+## 概要：Dreamwave / Chill Synthwaveとは
 
-Texte : mmr｜Thème : À propos de Dreamwave/Chill Synthwave, un genre musical qui ne fait pas de revendications excessives dans la société actuelle surchargée d'informations.
+文：mmr｜テーマ：情報過多な現代社会において、過剰な主張をしない音楽ジャンルであるDreamwave / Chill Synthwaveについて
 
 
-Dreamwave et Chill Synthwave sont des styles musicaux dérivés de la synthwave qui se sont imposés depuis les années 2010. Bien qu'il soit basé sur la culture du synthétiseur, l'esthétique visuelle et la nostalgie urbaine des années 1980, il se distingue par le fait qu'il supprime l'agressivité et l'exagération rétro-futuriste et met l'accent sur l'émotion, la résonance et l'introspection. Il s’agit plus d’intentions esthétiques et d’idées de conception pour l’expérience d’écoute que de genres.
+Dreamwave（ドリームウェーブ）および Chill Synthwave（チルシンセウェーブ）は、2010年代以降に明確化したシンセウェーブ派生の音楽スタイルである。1980年代のシンセサイザー文化・映像美学・都市的ノスタルジーを基盤としながら、攻撃性やレトロフューチャー的誇張を抑え、情緒性・余韻・内省性を前面に出した点に特徴がある。これらはジャンルというよりも、美学的志向と聴取体験の設計思想に近い。
 
-Dreamwave a une forte tendance à construire des images sonores avec des thèmes psychologiques tels que la fantaisie, la mémoire et le rêve, tandis que Chill Synthwave peut être compris comme une forme qui simplifie le tempo et la structure et améliore l'écoute qui se fond dans les espaces de vie. Les deux se chevauchent, réinterprétant « l’émotion des années 80 » dans l’environnement numérique d’aujourd’hui.
+Dreamwaveは、幻想性・記憶・夢想といった心理的テーマを音像として構築する傾向が強く、Chill Synthwaveはテンポや構成を簡略化し、生活空間に溶け込むリスニング性を高めた形態として理解される。両者は重なり合いながら、現代のデジタル環境下における「80s的感情」を再解釈している。
 
-> Les deux styles n'ont pas de frontières claires et existent en permanence, centrés sur le design émotionnel.
+> 両スタイルは明確な境界を持たず、感情設計を軸に連続的に存在している。
 
 
 ---
@@ -43,33 +43,33 @@ color: #fff;
 </style>
 
 
-## Contexte historique : Réinterprétation de la culture des années 80
+## 歴史的背景：80年代文化の再解釈
 
-Les années 1980 ont été une période de transition de l'analogique au numérique, et le vocabulaire de la musique électronique s'est développé de manière explosive avec la diffusion des synthétiseurs polyphoniques, des sources sonores FM et du standard MIDI. Dans le même temps, le rôle croissant de la vidéo domestique, de la télévision par câble et de la musique de film a créé un lien étroit entre la musique et les images.
+1980年代は、アナログ・デジタル転換期にあたり、ポリフォニック・シンセサイザー、FM音源、MIDI規格の普及によって電子音楽の語彙が爆発的に拡張された時代である。同時に、家庭用ビデオ、ケーブルテレビ、映画音楽の役割拡大によって、音楽と映像は強く結び付いた。
 
-Vers 2010, à mesure que la culture du partage sur Internet mûrissait, les anciennes vidéos, sources sonores et éléments de conception ont commencé à être remis en circulation. Dans cette tendance, l’image sonore des années 1980 n’était pas seulement nostalgique, mais devenait un objet à reconstruire avec une sensibilité moderne. Dreamwave / Chill Synthwave se présente comme une réinterprétation qui se concentre en particulier sur la « mémoire de scène ».
+2010年前後、インターネット共有文化の成熟により、過去の映像・音源・デザイン資産が再流通し始めた。この流れの中で、80年代的音像は単なる懐古ではなく、現代的感性によって再構築される対象となった。Dreamwave / Chill Synthwaveは、その中でも特に「情景記憶」に焦点を当てた再解釈として形成されていく。
 
-> Les années 1980 évoquées ici relèvent davantage d'une mémoire collective que d'une époque réelle.
-
----
-
-## Caractéristiques musicales : son et structure
-
-Les caractéristiques musicales de Dreamwave/Chill Synthwave sont la transparence des harmonies, la stabilité du tempo et la lenteur des changements de timbre. Des tempos moyens à lents sont principalement utilisés, le rythme est répétitif et la boîte à rythmes est souvent placée de manière sobre.
-
-Les accords de septième majeure, add9 et sus sont souvent utilisés pour les harmonies, et l'accent est mis sur un sentiment de continuité plutôt que sur un sentiment de résolution. Bien que la mélodie ait un cœur chantant, elle évite les hauts et les bas excessifs et utilise de nombreuses notes soutenues et de longues notes des synthés principaux.
-
-En termes de tonalité, les pads Juno, le piano électrique DX, les basses traitées en chorus et les effets spatiaux utilisant le delay et la réverbération jouent un rôle important.
-
-> Les chansons fonctionnent plus comme un moyen de maintenir un certain espace émotionnel que comme une histoire qui se déroule.
+> ここで参照される80年代は、実在の時代というよりも集合的記憶としての80sである。
 
 ---
 
-## Relation avec l'esthétique visuelle
+## 音楽的特徴：サウンドと構造
 
-Dreamwave / Chill Synthwave peut être compris plus profondément lorsqu'il est combiné avec des images que avec la musique elle-même. Les villes au crépuscule, les néons, les côtes, les promenades nocturnes et les textures de type VHS sont fréquemment référencés.
+Dreamwave / Chill Synthwaveの音楽的特徴は、和声の透明性、テンポの安定、音色変化の緩慢さにある。主にミディアム〜スロー・テンポが用いられ、リズムは反復的で、ドラムマシンも主張を抑えた配置が多い。
 
-Ces éléments visuels sont synchronisés avec le tempo et la tonalité de la chanson, rappelant à l'auditeur une scène qu'il a déjà vue quelque part. Les images jouent le rôle de présenter la situation plutôt que de raconter une histoire.
+和声はメジャー7th、add9、sus系コードが頻繁に用いられ、解決感よりも持続感を重視する。メロディは歌心を持ちながらも、過剰な起伏を避け、持続音やリードシンセによる長音が多用される。
+
+音色面では、Juno系パッド、DX系エレピ、コーラス処理されたベース、ディレイとリバーブによる空間演出が重要な役割を果たす。
+
+> 楽曲は展開する物語というより、一定の感情空間を維持する装置として機能する。
+
+---
+
+## 映像美学との関係
+
+Dreamwave / Chill Synthwaveは、音楽単体よりも映像と結び付くことで理解が深まる。夕暮れの都市、ネオン、海岸線、夜間ドライブ、VHS的質感などが頻繁に参照される。
+
+これらの映像要素は、楽曲のテンポや音色設計と同期し、聴取者に「どこかで見たことのある情景」を想起させる。映像は物語を語るのではなく、状態を提示する役割を担う。
 
 <div class="mermaid">
 flowchart TD
@@ -78,69 +78,69 @@ B --> C[音色選択]
 C --> D[情緒的リスニング]
 </div>
 
-> Les images ne sont pas une aide, mais sont intégrées dans le cadre de la compréhension musicale.
+> 映像は補助ではなく、音楽理解の一部として組み込まれている。
 
 ---
 
-## Exemple d'artiste : FM-84
+## アーティスト事例：FM-84
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/riI0V0o5vH0?si=_wAnicGObqCuomS-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-FM-84 se positionne comme l'un des projets représentatifs de Dreamwave. Caractérisées par des nappes de synthé transparentes, des mélodies lyriques et des structures rythmiques sobres, les chansons sont souvent associées à des paysages nocturnes et à une sensation de mouvement.
+FM-84は、Dreamwaveを代表するプロジェクトの一つとして位置付けられる。透明感のあるシンセパッド、叙情的メロディ、抑制されたビート構造が特徴であり、楽曲はしばしば夜景や移動感覚と結び付けて語られる。
 
-Le travail de FM-84 fait référence aux sensibilités AOR et à la musique de film des années 80, mais utilise un mixage moderne pour éviter une sensation trop rétro. Cela crée à la fois de la nostalgie et du présent.
+FM-84の作品は、80年代AORや映画音楽的感性を参照しつつ、現代的ミキシングによって過剰なレトロ感を回避している。これにより、ノスタルジーと現在性が同時に成立する。
 
-> FM-84 a fait de Dreamwave une musique émotionnelle.
+> FM-84はDreamwaveを情緒音楽として確立した存在である。
 
 ---
 
-## Étude de cas d'artiste : Timecop1983
+## アーティスト事例：Timecop1983
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDMWVOq2J6E?si=u9tK-wBO1Czas8H_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Timecop1983 est un artiste aux forts aspects Chill Synthwave, et se caractérise par une structure simple et une image sonore douce. Le rythme est réduit au minimum, la mélodie et la progression des accords occupant le devant de la scène.
+Timecop1983は、Chill Synthwave的側面を強く持つアーティストであり、シンプルな構成と柔らかな音像が特徴である。リズムは最小限に抑えられ、旋律とコード進行が中心となる。
 
-Bien que la musique de Timecop1983 soit de type BGM, elle est conçue de telle sorte que si vous écoutez attentivement, vous serez en mesure de discerner d'infimes changements de tonalité et de choix harmoniques.
+Timecop1983の音楽は、BGM的でありながら、注意深く聴くことで細かな音色変化や和声の選択が認識される設計になっている。
 
-> L'essence de Chill Synthwave est qu'il se fond dans le quotidien de l'auditeur.
-
----
-
-## Environnement d'écoute et mode de consommation
-
-Dreamwave/Chill Synthwave a tendance à être consommé comme musique d'ambiance plutôt que comme écoute intensive. Ils sont souvent placés dans des espaces vides de la vie quotidienne, comme pendant le travail de nuit, les transports et les temps de repos.
-
-Ceci peut être réalisé avec des écouteurs ou des haut-parleurs, mais comme l'expansion de l'espace stéréo est particulièrement importante, un environnement de lecture avec une reproductibilité spatiale élevée est préféré.
-
-> Cette musique ne divise pas le temps, elle l'embrasse.
+> 聴取者の生活時間に溶け込む点がChill Synthwaveの本質である。
 
 ---
 
-## Chronologie : Historique de la formation Dreamwave / Chill Synthwave
+## リスニング環境と消費形態
 
-| Années | Événements |
-| -------- | -------------------------------- |
-| années 1980 | La fusion des synthétiseurs et de la culture vidéo progresse |
-| Fin des années 2000 | Réévaluation des années 80 à travers la culture Internet |
-| Début des années 2010 | Subdivision des styles dérivés de synthwave |
-| Milieu des années 2010 | Création de Dreamwave/Chill Synthwave |
-| Années 2020 | Progrès dans l'intégration des images et des espaces de vie |
+Dreamwave / Chill Synthwaveは、集中鑑賞よりも環境音楽的に消費される傾向が強い。夜間作業、移動、休息時間など、日常の隙間に配置されることが多い。
 
-> La chronologie montre un flux continu de réinterprétation culturelle.
+ヘッドフォンとスピーカーのどちらでも成立するが、特にステレオ空間の広がりが重視されるため、空間再現性の高い再生環境が好まれる。
+
+> この音楽は時間を区切るのではなく、時間を包み込む。
 
 ---
 
-## Résumé : Signification dans les temps modernes
+## 年表：Dreamwave / Chill Synthwave形成史
 
-Dreamwave / Chill Synthwave n'est pas une tentative de recréer des styles musicaux passés, mais une pratique culturelle qui réorganise la mémoire, l'émotion et la sensation visuelle. Ici, les années 1980 sont le matériau, pas le but.
+| 年代       | 出来事                            |
+| -------- | ------------------------------ |
+| 1980年代   | シンセサイザーと映像文化の融合が進行             |
+| 2000年代後半 | ネット文化による80s再評価                 |
+| 2010年代前半 | シンセウェーブ派生スタイルの細分化              |
+| 2010年代中盤 | Dreamwave / Chill Synthwaveの定着 |
+| 2020年代   | 映像・生活空間との融合が進展                 |
 
-La raison pour laquelle ce style est populaire est que, dans la société actuelle riche en informations, il existe un besoin pour une musique qui ne fasse pas de déclarations excessives. Dreamwave/Chill Synthwave existe en réponse à cette demande.
+> 年表は連続した文化再解釈の流れを示している。
 
-> Cette musique affecte doucement mais constamment les émotions.
+---
+
+## まとめ：現代における意味
+
+Dreamwave / Chill Synthwaveは、過去の音楽様式を再現する試みではなく、記憶・情緒・映像感覚を再編成する文化的実践である。そこでは80年代は素材であり、目的ではない。
+
+このスタイルが支持される理由は、情報過多な現代社会において、過剰な主張をしない音楽が求められている点にある。Dreamwave / Chill Synthwaveは、その要求に応える形で存在している。
+
+> この音楽は静かに、しかし持続的に感情に作用する。
 
 ---
 

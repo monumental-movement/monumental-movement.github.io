@@ -59,7 +59,7 @@ Le rythme est basé sur le **2-step** dérivé du garage, mais il inclut égalem
 - La grosse caisse varie de **110 à 130 BPM** au lieu d'environ 140
 - Snare a une tonalité d'attaque faible sans accentuer le backbeat
 - Les chapeaux sont souvent fabriqués à partir d'enregistrements de terrain traités plutôt qu'à partir de métal.
-- Utilisez de courts échantillons non seulement de boîtes à rythmes, mais aussi de sons de petits objets frappants, de sons de grattage de papier, etc.
+- En plus des boîtes à rythmes, vous pouvez utiliser des échantillons courts tels que le bruit de petits objets qui frappent, le bruit de grattage de papier, etc.
 
 ### 1-3 Espace acoustique : réverbération, particule, enregistrement sur le terrain
 Le post-dubstep peut être décrit comme un « genre qui crée de l'espace ». En particulier, les éléments suivants sont distinctifs.
@@ -83,7 +83,7 @@ Sa caractéristique la plus importante est sa capacité à extraire le sentiment
 - Mettre le craquement du vinyle (bruit d'enregistrement) au premier plan
 - Le coup de pied est une attaque basse comme un tonnerre lointain en pleine nuit
 - La caisse claire a une qualité sonore sèche, non métallique, mais comme des "morceaux de bois cassés"
-- Dans l'ensemble, un « médium brumeux » domine, et la mélodie reste un motif court.
+- Dans l'ensemble, un "médium brumeux" domine, et la mélodie reste un motif court.
 - Utilisation fréquente de tampons de libération courts qui disparaissent rapidement
 
 ### Méthode d'échantillonnage

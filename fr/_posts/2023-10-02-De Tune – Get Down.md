@@ -8,11 +8,11 @@ layout: post
 permalink: /fr/de-tune-get-down/
 tags:
 - House
-title: De Tune – Descendre
+title: De Tune – Get Down
 ---
 
 
-"Get Down" est un EP de De Tune sorti en 1995 sur le label Groove On.
+「Get Down」は、1995年にレーベル「Groove On」からリリースされたDe TuneによるEPです。
 
 #### Liste des chansons
 ```md

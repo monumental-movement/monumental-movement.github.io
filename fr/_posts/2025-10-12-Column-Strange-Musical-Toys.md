@@ -167,7 +167,7 @@ Les sons électroniques peuvent être facilement entendus sur les bureaux de la 
 En Scandinavie, de petits synthés très conçus sont apparus.
 
 - Ingénierie adolescente OP-1
-- Série Pocket Operator
+- Série Opérateur de poche
 
 Son fonctionnement simple et intuitif et son ton rappelant celui d'un dessin animé allient humour scandinave et sophistication. Il est unique car il conserve son caractère de jouet, mais il est également utilisé par des artistes professionnels.
 
@@ -207,7 +207,7 @@ Le concept de « jeu » revient une fois de plus au centre de la création music
 
 ## Annexe
 
-### Historique de l'évolution des jouets musicaux étranges à travers le monde (chronologie simple)
+### Histoire évolutive des jouets musicaux étranges à travers le monde (chronologie simple)
 
 <div class="mermaid">
 

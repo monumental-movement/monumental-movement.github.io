@@ -57,7 +57,7 @@ Tous les trois avaient de l'expérience en chantant à l'église, et Nate Dogg e
 Cette base du chant gospel a eu une influence décisive sur son style ultérieur.
 Même si sa voix était linéaire avec peu de vibrato, elle avait une résonance profonde et un sens du rythme naturellement ancré dans son corps.
 
-### Rejoindre le Corps des Marines
+### Rejoindre les Marines
 
 Après avoir obtenu son diplôme d'études secondaires, Nate Dogg ** s'est enrôlé dans le Corps des Marines des États-Unis ** et a été libéré après avoir servi pendant environ trois ans.
 Cette expérience a changé ses circonstances de vie, mais ce fut aussi une période qui l'a essentiellement obligé à retourner à Long Beach et à la musique.
@@ -109,7 +109,7 @@ Ce succès a valu à Nate Dogg d'être reconnu comme « le meilleur fabricant d'
 La voix chantée de Nate Dogg est distinctive à première vue, mais si vous la décomposez en ses éléments, elle peut être résumée comme suit.
 
 ### ■ Voix épaisse dérivée de la musique gospel
-La vibration des cordes vocales est forte et la résonance est profonde.
+Les cordes vocales vibrent fortement et le son est profond.
 
 ### ■ Chant en ligne droite avec peu de vibrato
 Cela le rendait extrêmement compatible avec les rythmes durs du hip-hop.
@@ -129,9 +129,9 @@ Ces caractéristiques ont fait de la voix de Nate Dogg une composante essentiell
 
 ## 6. Les œuvres solos et leur positionnement
 
-Nate Dogg est très apprécié pour ses apparitions en tant qu'invité, mais il a également sorti plusieurs albums solo.
+Nate Dogg est très apprécié pour ses performances en tant qu'invité, mais il a également sorti plusieurs albums solo.
 
-#### ■ « G-Funk Classics, Vol. 1 et 2 » (1998)
+#### ■ "G-Funk Classics, Vol. 1 et 2" (1998)
 
 Sorti après une longue période de problèmes de production et de transfert d'étiquettes.
 De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt y ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.
@@ -174,7 +174,7 @@ Bien qu'il s'agisse d'un doux son R&B, il est important que la voix de Nate Dogg
 
 ## 8. 213 « À la dure » : Le fruit de l'amitié
 
-213, composé de Snoop, Warren et Nate, ont sorti leur album studio officiel, The Hard Way, en 2004.
+213, le trio composé de Snoop, Warren et Nate, a sorti son album studio officiel, The Hard Way, en 2004.
 L'album a atteint le numéro un sur Billboard et a été le point culminant de la longue amitié et carrière des trois.
 
 ---

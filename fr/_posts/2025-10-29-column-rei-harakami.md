@@ -23,7 +23,7 @@ title: '[Chronique] Rei Harakami - Le son électronique silencieux né à Kyoto'
 ## Prologue : Kyoto qui vit dans la salle de son
 
 
-Texte : mmr｜Thème : La musique de Rei Harakami et l'atmosphère et l'esthétique de la ville de Kyoto
+Texte : mmr | Thème : La musique de Rei Harakami et l'atmosphère et l'esthétique de la ville de Kyoto
 
 
 Quand j'écoute la musique de Rei Harakami, la première chose que je ressens est la « tranquillité ».
@@ -31,7 +31,7 @@ Ce n'est pas seulement un silence ambiant, c'est comme un souffle flottant dans 
 Son son respire certainement « l'esthétique de l'espace » de la ville de Kyoto.
 
 Le son persistant d'une cloche de temple, l'humidité d'une averse d'été, le flux clair de Shirakawa en hiver.
-Même s'ils n'ont pas été directement samplés, le son de Rei Harakami transmet en quelque sorte l'atmosphère même de Kyoto.
+Même s'ils n'ont pas été directement samplés, le son de Rei Harakami transmet d'une manière ou d'une autre l'atmosphère même de Kyoto.
 
 ---
 

@@ -13,7 +13,7 @@ title: Knoc-Turn'al – Knoc
 ---
 
 
-Knoc-Turn'al, originaire de Long Beach, est apparu sur l'album Chronic 2001 de Dr. Dre, a co-écrit la bande originale de Dr. Dre et Snoop Dogg, The Wash, et a eu un succès retentissant, Bad Intentions.
+Knoc-Turn'al, originaire de Long Beach, est apparu sur l'album Chronic 2001 de Dr. Dre, a co-écrit la bande originale de Dr. Dre et Snoop Dogg, The Wash, et parmi eux se trouvait le hit Bad Intentions.
 
 Sorti en 2001 sur Elektra, "knoc" était le premier single de Knoc-Turn'al, avec Missy Elliott et Dr. Dre. (édition promotionnelle)
 

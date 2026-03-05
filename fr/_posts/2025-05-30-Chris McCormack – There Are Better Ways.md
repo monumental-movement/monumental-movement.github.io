@@ -11,12 +11,12 @@ tags:
 - House
 - Techno
 - 00s
-title: Chris McCormack – Il existe de meilleures façons
+title: Chris McCormack – There Are Better Ways
 ---
 
 
-Chris McCormack est un producteur techno britannique. "There Are Better Ways" est un coffret maison de deux disques.
-enregistrer.
+Chris McCormackはUKのテクノプロデューサー。「There Are Better Ways」は2枚組ハウス
+レコード。
 
 #### Liste des chansons
 ```md

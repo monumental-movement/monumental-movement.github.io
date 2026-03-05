@@ -31,7 +31,7 @@ Le son Shibuya-kei est un mouvement musical japonais qui s'est répandu dans les
 - Dans les années 1980, la city pop et la new wave japonaises ont commencé à être acclamées tant au niveau national qu'international.
 - Les magasins de disques importés tels que « CISCO » et « HMV Shibuya » ont rassemblé les derniers sons d'Europe et des États-Unis et ont cultivé les compétences musicales des jeunes.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 - [大滝詠一 — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)  
 - [山下達郎 — *FOR YOU* (1982)](https://amzn.to/4neQyHk)  
 - [Pizzicato Five初期作（インディー期, Late 1980s）](https://amzn.to/3W6W1UE)  
@@ -41,7 +41,7 @@ Le son Shibuya-kei est un mouvement musical japonais qui s'est répandu dans les
 - Les premières boîtes à rythmes telles que Roland TR-808
 - Culture d'enregistrement à domicile à l'aide de cassettes MTR
 
-### 10 chansons recommandées (années 1980)
+### 10 chansons recommandées (années 1980)
 
 <style type="text/css">
 
@@ -78,7 +78,7 @@ color: #fff;
 - Il a été présenté sur "Oricon" et "MTV Japan" et est devenu un succès majeur.
 - Liens vers des scènes de clubs étrangers.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 - [Pizzicato Five — *Made in USA* (1994)](https://amzn.to/3K92U5t)
 - [Flipper’s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)  
 - [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)  
@@ -88,7 +88,7 @@ color: #fff;
 - Multipiste numérique (ADAT, DAT)
 - Saisie avec Mac + Cubase
 
-### 10 chansons recommandées (années 1990)
+### 10 chansons recommandées (années 1990)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -110,7 +110,7 @@ color: #fff;
 - Alors que le Shibuya-kei s'est éteint commercialement, il a influencé l'électropop de Capsule et Yasutaka Nakata.
 - Le développement de la musique de club, également connue sous le nom de néo-Shibuya-kei, va s'accentuer.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 - [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)  
 - [Fantastic Plastic Machine — *beautiful.* (2001)](https://amzn.to/4msAFMo)  
 - [小沢健二 — *Eclectic* (2002)](https://amzn.to/4mtfA4k)  
@@ -142,7 +142,7 @@ color: #fff;
 - Il a été redécouvert par la génération Internet et est devenu un genre à l'étranger sous le nom de "Shibuya-kei".
 - Reprise en parallèle de la réévaluation de City Pop.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 - [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)  
 - [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)  
 - [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)  
@@ -174,7 +174,7 @@ color: #fff;
 - L'influence du "Shibuya-kei" attire à nouveau l'attention dans le contexte de la réévaluation de la K-POP et de la city pop.
 - Développez la base d'auditeurs étrangers via YouTube, Spotify, TikTok, etc.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 - [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)  
 - [cero — *e o* (2021)](https://amzn.to/46LD7sJ)  
 - [Various Artists — ネオ渋谷系コンピレーション *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)  
@@ -184,7 +184,7 @@ color: #fff;
 - Production basée sur logiciel
 - Hybride analogique et numérique
 
-### 10 chansons recommandées (années 2020)
+### 10 chansons recommandées (années 2020)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|

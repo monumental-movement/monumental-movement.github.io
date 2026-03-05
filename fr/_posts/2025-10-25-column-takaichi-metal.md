@@ -58,7 +58,7 @@ Tout comme le métal est « un art qui transforme le chaos en ordre », le disco
 
 ## Chapitre 2 : Construire une voix——La politique de la voix métallique
 
-Pour les hommes politiques, leur « voix » est un instrument qui incarne leurs idées. La vocalisation de Takaichi est particulièrement faible et stable parmi les femmes politiques. Acoustiquement, il est basé sur le médium-bas (environ 170-180 Hz), avec peu de variation de hauteur, rappelant le « contrôle d'acier » du chant métal.
+Pour les hommes politiques, leur « voix » est un instrument qui incarne leurs idées. La vocalisation de Takaichi est particulièrement faible et stable parmi les femmes politiques. Acoustiquement, il est basé sur le médium-bas (environ 170-180 Hz), avec peu de fluctuation de hauteur, rappelant le « contrôle d'acier » du chant métal.
 
 «La voix est l'art de faire résonner ses émotions sans les laisser se déchaîner.» Comme le symbolisent ces mots, elle vit la politique comme une «structure de fer».
 
@@ -121,7 +121,7 @@ Au sein de cette structure, Takaichi joue avec « l'intellect qui contrôle la p
 
 ## Chapitre final : Vers une politique qui n’a pas peur du bruit
 
-Tout comme le métal a évolué en acceptant le bruit, la politique mature devient également plus forte lorsqu'elle adopte des « sons inhabituels ». L'existence de Sanae Takaichi symbolise « l'acceptation du bruit » dans la politique japonaise. Le bruit ne ressemble pas à du chaos, mais à une distorsion créative.
+Tout comme le métal a évolué en acceptant le bruit, la politique mature devient également plus forte lorsqu'elle adopte des « sons contre nature ». L'existence de Sanae Takaichi symbolise « l'acceptation du bruit » dans la politique japonaise. Le bruit ne ressemble pas à du chaos, mais à une distorsion créative.
 
 « De nouveaux sons ne peuvent naître que du silence. » Cette phrase s'applique à la fois au métal et à la politique. À travers la personne de Sanae Takaichi, nous pouvons reconsidérer « une politique qui vit comme le son ».
 
@@ -176,7 +176,7 @@ flowchart LR
 
 ---
 
-### Black Sabbath, Deep Purple, Judas Priest Albums recommandés
+### Albums recommandés par Black Sabbath, Deep Purple, Judas Priest
 
 | Bande | Albums | Année de sortie | Caractéristiques et points forts |
 | ----------------- | ------------ | ---- | -------------------------- | --------------------------------------------- |

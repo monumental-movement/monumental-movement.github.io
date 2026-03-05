@@ -22,7 +22,7 @@ title: '[Chronique] Déclin et renaissance de la culture radiophonique interpré
 Texte : mmr｜Thème : Les médias de la voix qui se transforment à travers la musique - À propos de l'histoire culturelle de la radio aux podcasts
 
 
-La radio est souvent considérée comme un média musical, mais son essence, lorsqu'elle a été inventée, était le partage simultané de l'audio.
+La radio est souvent considérée comme un média musical, mais son essence, lorsqu’elle a été inventée, était le partage simultané de l’audio.
 Actualités, discours, lectures. La musique était l'un des contenus principaux, mais pas le but.
 
 Cependant, la musique était l’élément le plus compatible avec le dispositif radio.
@@ -87,14 +87,14 @@ Les créneaux de diffusion fixent les genres et la musique se standardise en fon
 Durée de la chanson, intro, placement du refrain.
 Le format musical lui-même a été optimisé pour la durée de diffusion.
 
-> La radio cultive les genres et les façonne en même temps.
+>La radio a favorisé les genres et les a façonnés en même temps.
 
 ---
 
 ## Changement de leadership grâce à la télévision et à la culture visuelle
 
 
-Depuis les années 1950, la télévision est devenue un média central de la culture musicale.
+À partir des années 1950, la télévision est devenue le média central de la culture musicale.
 La musique déplace le centre de gravité d’une expérience auditive vers une expérience visuelle.
 
 L’arrivée de MTV dans les années 1980 a déterminé cette tendance.
@@ -114,7 +114,7 @@ Dans la voiture, en travaillant, tard le soir.
 La radio survivra en tant que « voix qui ne nécessite pas de concentration ».
 
 Durant cette période, la musique devient musique d’ambiance et le récit se simplifie.
-Même si son influence a diminué, son omniprésence dans la vie quotidienne est restée.
+Même si son influence a diminué, son omniprésence dans la vie quotidienne est restée la même.
 
 > La radio a survécu comme fond sonore.
 
@@ -136,7 +136,7 @@ La radio n'a plus besoin d'être une « émission ».
 ## Réinventer le podcast
 
 Les podcasts étaient des radios sans station.
-Produit par des individus, parlé par des individus et atteignant des individus.
+Créé par des individus, parlé par des individus et atteignant des individus.
 
 Contrairement à la distribution musicale, les podcasts se concentrent sur la narration.
 La musique devient un objet à analyser, à mémoriser et à contextualiser.
@@ -161,7 +161,7 @@ Il s’agit d’une réinvention plus personnelle et plus longue de la culture D
 
 
 L'économie traditionnelle de la radio reposait sur la publicité.
-La structure dans laquelle la valeur était déterminée par les audiences et la portée des téléspectateurs a été optimisée pour une diffusion à grande échelle.
+La structure dans laquelle la valeur était déterminée par les audiences et le nombre de téléspectateurs a été optimisée pour une diffusion à grande échelle.
 
 Les cultures musicales de niche et les récits spécialisés sont difficiles à établir dans ce modèle.
 

@@ -9,11 +9,11 @@ permalink: /fr/adam-beyer-tasty-bits/
 tags:
 - Techno
 - Minimal
-title: Adam Beyer – Morceaux savoureux
+title: Adam Beyer – Tasty Bits
 ---
 
 
-Un set de deux disques sorti en 1997 par le label Drumcode dirigé par le DJ/producteur techno suédois Adam Beyer, qui était une figure centrale de la scène techno minimale suédoise à la fin des années 1990.
+90年代後期、スウェーデン・ミニマル・テクノ・シーンの中心人物として活躍するスウェーデンのテクノDJ/プロデューサーAdam Beyer（アダム・ベイヤー）が、自身が運営するレーベルDrumcode より1997年にリリースされた２枚組。
 
 #### Liste des chansons
 ```md

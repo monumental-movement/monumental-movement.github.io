@@ -66,7 +66,7 @@ Les groupes de hard rock mondiaux **AC/DC** et **KISS** ont captivé le public e
 - AC/DC, comme en témoignent des chansons telles que « Highway to Hell » et « Thunderstruck », des images superposées de « road », « Thunder » et « speeding » sur de la musique rock, liant directement la musique à la sensation de conduire.
 - Lors du live de KISS, le bruit d'un moteur Harley résonnait avec les flammes en arrière-plan, offrant au public une expérience comme si la scène elle-même avait été transformée en un road movie américain.
 
-Cela fait écho à la « culture de glorification de la vitesse » des années 1970 en Amérique, et le hard rock a fortement adopté les voitures et les motos comme icônes symboliques de la culture populaire.
+Cela fait écho à la « culture de la vitesse » américaine des années 1970, et le hard rock a fortement adopté les voitures et les motos comme icônes symboliques de la culture populaire.
 
 ---
 
@@ -140,7 +140,7 @@ Lorsque le rugissement du moteur et le riff de la guitare résonnent, la musique
 | As de pique | Motörhead | Chansons les plus étroitement associées à la culture moto. |
 | Panama | Van Halen | Une chanson représentative sur les voitures. |
 | Rock vous aimez un ouragan | Scorpions | Allier nature sauvage et culture automobile. |
-| Criez au diable | Mötley Crüe | Symbole du style de vie hors-la-loi. |
+| Criez au diable | Mötley Crüe | Symbole du mode de vie hors-la-loi. |
 | Je veux rocker | Soeur tordue | Rappelant la liberté de la jeunesse et la vitesse des voitures. |
 | Sperme sur Ressentez le bruit | Émeute tranquille | Une chanson synonyme de course et de rébellion. |
 | Tu m'as secoué toute la nuit | CA/CC | Une énergie compatible avec la culture routière. |
@@ -155,9 +155,9 @@ Aux États-Unis en particulier, la musicalité des groupes est devenue plus soph
 D'un autre côté, en Europe et au Japon, des styles mettant l'accent sur le lyrisme et la technique se sont développés, et le hard rock continue de symboliser « l'esprit hors-la-loi qui change avec le temps ».
 
 | Artiste | Albums | Année de sortie | Caractéristiques |
-|--------------|----------|---------|------|
+|-------------|----------|---------|------|
 | Guns N'Roses | Utilisez votre illusion I et II | 1991 | Un chef-d'œuvre qui allie hard rock et ballade |
-| Métallique | Album noir | 1991 | Briser les frontières entre métal et rock avec « Enter Sandman » |
+| Métallique | Album noir | 1991 | « Enter Sandman » brise la frontière entre métal et rock |
 | Foo combattants | La couleur et la forme | 1997 | Hymne rock nouvelle génération après le grunge |
 | Audioesclave | Audioesclave | 2002 | Crossover Rage x Soundgarden |
 | Revolver en velours | Contrebande | 2004 | Retour des anciens membres de GNR au rock classique après les années 90 |
@@ -168,8 +168,8 @@ D'un autre côté, en Europe et au Japon, des styles mettant l'accent sur le lyr
 ## Liste d'albums représentative
 
 | Artiste | Albums | Année de sortie | Caractéristiques |
-|--------------|----------|---------|------|
-| Led Zeppelin | Led Zeppelin IV | 1971 | Comprend « Stairway to Heaven », Être mythique |
+|-------------|----------|---------|------|
+| Led Zeppelin | Led Zeppelin IV | 1971 | Comprend « Stairway to Heaven », être mythique |
 | CA/CC | De retour en noir | 1980 | Hymne immortel du hard rock vendu dans le monde entier |
 | Violet profond | Tête de machine | 1972 | « Smoke on the Water » établit un riff classique |
 | Sabbat noir | Paranoïaque | 1970 | Un son sombre et lourd symbolise l'esprit hors-la-loi |
@@ -194,7 +194,7 @@ Des salles de concert aux autoroutes, le hard rock a toujours été indissociabl
 
 Le hard rock s'est progressivement implanté au Japon dans les années 1970 et, dans les années 1980, des groupes tels que LOUDNESS et EARTHSHAKER ont fait leur chemin vers le monde.
 Aussi, à partir des années 1990, des groupes comme X JAPAN, B'z et GLAY développent leurs propres interprétations du hard rock, qui ont une forte influence sur l'aspect visuel.
-La culture des Harley-Davidson et des muscle cars américains a imprégné la scène rock japonaise et elles sont fréquemment utilisées dans les productions live et les vidéoclips.
+La culture des Harley-Davidson et des muscle cars américains a imprégné la scène rock japonaise et elles sont souvent utilisées dans des productions live et des vidéoclips.
 
 | Artiste | Chanson | Année de sortie | Caractéristiques |
 |--------------|------|--------|------|

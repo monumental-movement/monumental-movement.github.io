@@ -10,11 +10,11 @@ tags:
 - House
 - Disco
 - 90s
-title: Gloria Gaynor – Je ne peux jamais dire au revoir '97
+title: Gloria Gaynor – Never Can Say Goodbye '97
 ---
 
 
-Un morceau House/Disco qui a été remixé par le label italien Nicolosi Productions de la célèbre chanson "Never Can Say Goodbye", reprise par Gloria Gaynor en 1974 et publiée par le label house italien Just Music.
+1974年にGloria Gaynor(グロリアゲイナー)がカバーした名曲「Never Can Say Goodbye」をイタリアのレーベルNicolosi Productionsがremixし、イタリアのハウスレーベルJust Music からリリースされたHouse・Discoトラック。
 
 #### Liste des chansons
 ```md

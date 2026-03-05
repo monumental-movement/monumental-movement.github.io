@@ -8,15 +8,15 @@ layout: post
 permalink: /fr/sounds-of-life-iii/
 tags:
 - Drum n Bass
-title: Les sons de la vie – III
+title: Sounds Of Life – III
 ---
 
 
-"Hidden Rooms" est l'un des meilleurs morceaux amen de Source Direct. Ce morceau a été magistralement produit par un certain nombre de grands producteurs et sera un succès dancefloor parfait dès le premier drop.
+「Hidden Rooms」は、Source Directの最高のアーメンチューンの1つです。このトラックは、数々の優れたプロデューサーによって見事に制作され、最初のドロップによってダンスフロアで完全に機能するでしょう。
 
-Le son métallique aigu qui annule l’embarquement rapide est l’un des échantillons les plus remarquables et vous donnera la chair de poule.
+急速なアメンブレイクの上に乗り越える尖った金属音は、特筆すべきサンプルの1つで鳥肌が立ちます。
 
-« Spice of Jazz » est également merveilleux et propose de nombreuses pauses.
+「Spice of Jazz」も素晴らしく、ブレイクの多い点が特徴です。
 
 #### Liste des chansons
 ```md

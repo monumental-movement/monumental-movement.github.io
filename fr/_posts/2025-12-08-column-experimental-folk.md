@@ -73,7 +73,7 @@ Bien que Comus n'ait pas été un succès commercial, Current 93 et ​​de nom
 Aux États-Unis, le psych-folk n’était pas aussi défini qu’un mouvement collectif au Royaume-Uni, mais les tendances suivantes sont importantes :
 
 - **John Fahey et la généalogie des primitifs américains**
-Fingerpicking avec des motifs d'improvisation, de drone et de bruit.
+Fingerpicking avec des motifs d'improvisation/drone/bruit.
 Fahey était un « expérimentateur de guitare folk » et a grandement influencé les artistes ultérieurs.
 
 - **Œuvres ultérieures de Tim Buckley**
@@ -86,7 +86,7 @@ Durant cette période, le folk expérimental américain était dispersé sous la
 
 ---
 
-# 3. Années 1980-90 : Influence des Industriels/Neofolk et rôle du Current 93
+# 3. Années 1980-90 : Influence de l'Industriel/Neofolk et rôle du Current 93
 
 Dans les années 1980 et 1990, le « neofolk » avec des éléments acoustiques a émergé de la scène post-industrielle britannique.
 L'un des acteurs centraux est **Current 93 (dirigé par David Tibet)**.

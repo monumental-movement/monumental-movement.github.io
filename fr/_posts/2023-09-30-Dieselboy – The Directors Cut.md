@@ -17,7 +17,7 @@ Il s'agit d'une cassette rare d'un mix drum and bass tech-moddy de Diesel Boy, u
 
 Ce mix est également génial, avec timing, EQ, niveaux et transitions tous au rendez-vous, un bel exemple de ses compétences.
 
-C'est un mix que vous aurez envie d'écouter encore et encore pour toujours.
+C'est un mix que vous aurez envie d'écouter encore et encore.
 
 #### Liste des chansons
 ```md

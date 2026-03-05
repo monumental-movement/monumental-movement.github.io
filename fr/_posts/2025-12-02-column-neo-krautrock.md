@@ -21,7 +21,7 @@ title: '[Chronique] Neo-Krautrock : réinterprétation moderne du Krautrock clas
 
 Texte : mmr｜Thème : Histoire du Krautrock, naissance du Néo-Krautrock, méthodes musicales des artistes majeurs, analyse album/chanson, exemples live
 
-Le néo-krautrock est un genre musical qui réinterprète le krautrock, né en Allemagne à la fin des années 1960 et dans les années 1970, en utilisant des méthodes modernes. Les caractéristiques du Krautrock que sont le **rythme répétitif (Motorik beat)**, l'**électroacoustique** et l'**esprit expérimental** ont été relancées sous de nouvelles formes par des artistes contemporains tels que Tropic of Cancer et Panda Lux, offrant une expérience sonore spatiale à plusieurs niveaux.
+Le néo-krautrock est un genre musical qui réinterprète le krautrock, né en Allemagne à la fin des années 1960 et dans les années 1970, en utilisant des méthodes modernes. Les caractéristiques du Krautrock, à savoir **rythmes répétitifs (battements Motorik)**, **électroacoustique** et **esprit expérimental**, ont été relancées sous de nouvelles formes par des artistes contemporains tels que Tropic of Cancer et Panda Lux, offrant une expérience sonore spatiale à plusieurs niveaux.
 
 
 ---
@@ -163,7 +163,7 @@ Le Neo-Krautrock est plus qu'une simple réédition, il influence la musique con
 - **Post-lock** : Introduction de structures répétitives et d'expressions spatiales.
 - **Electronica** : Une méthode de combinaison de sources sonores analogiques et numériques.
 - **Indie Rock** : Héritage de l'esprit de la production indépendante et des performances live.
-- **Diversification des expressions live** : Les performances live multimédia liées à la vidéo et à l'éclairage se multiplient également.
+- **Diversification des expressions live** : Les performances live multimédia liées à la vidéo et à l'éclairage ont également le vent en poupe.
 
 <div class="mermaid">
 flowchart TD

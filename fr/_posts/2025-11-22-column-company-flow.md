@@ -27,7 +27,7 @@ title: '[Chronique] Company Flow : L''horizon du hip-hop alternatif ouvert par l
 
 Texte : mmr｜Thème : De la formation à la dissolution de Company Flow, analyse de l'œuvre, structure solide, histoire des membres, signification historique
 
-À New York, à la fin des années 1990, le hip-hop était en train de devenir une énorme industrie commerciale, et en même temps, une énergie réactionnaire underground tourbillonnait autour d’elle.
+À New York, à la fin des années 1990, alors que le hip-hop devenait une immense industrie commerciale, une énergie réactionnaire underground tourbillonnait autour de lui.
 Les grands groupes de musique dirigés par Bad Boy Records élargissaient leurs sons scintillants, mais du côté de la rue, un nombre croissant d'artistes recherchaient un style d'expression plus rigide et politiquement chargé.
 
 **Company Flow** était au centre de cette démarche.
@@ -63,7 +63,7 @@ Les lieux suivants étaient importants dans l’underground new-yorkais au débu
 
 El-P a également perfectionné ses compétences dans ce milieu, augmentant progressivement sa présence clandestine.
 
-Vers 1993, il rencontre **Bigg Jus**, qui deviendra plus tard un partenaire clé de Company Flow, et ils commencent à travailler ensemble.
+Vers 1993, il rencontre **Bigg Jus**, qui deviendra plus tard un partenaire clé de Company Flow, et ils commencent à travailler ensemble.
 
 Ensuite, **M. Len** a rejoint le groupe en tant que DJ, complétant ainsi la structure à trois que nous connaissons aujourd'hui.
 
@@ -80,7 +80,7 @@ En 1995, Company Flow était le premier single de 12 pouces du label.
 **"Techniques juvéniles"** sorti.
 
 Ce single est devenu un sujet brûlant parmi les auditeurs underground de New York à l'époque.
-Ce fut l'occasion pour leur nom de se répandre rapidement.
+Ce fut l’occasion pour leur nom de se répandre rapidement.
 
 ---
 
@@ -108,7 +108,7 @@ Les battements construits par El-P ont la texture suivante.
 
 Le rap de Bigg Jus et El-P était plus idéologique et politique que la musique de rue.
 
-Les éléments suivants sont particulièrement visibles.
+Les éléments suivants sont particulièrement remarquables.
 
 * Critique de l'industrie musicale corporatisée
 * Doutes sur la société de manipulation de l'information et de surveillance
@@ -232,7 +232,7 @@ Il est composé de métaphores élaborées et d'expressions abstraites.
 * Des contenus qui symbolisent le hip-hop underground de la fin des années 90
 * De nombreux éléments prototypes des œuvres ultérieures de Def Jux (Cannibal Ox, etc.) peuvent être vus.
 
-On dit que « Funcrusher Plus » a établi « l'underground comme idéologie » autour de cette chanson.
+On dit que « Funcrusher Plus » a établi une « idéologie underground » autour de cette chanson.
 
 ---
 
@@ -396,7 +396,7 @@ Il a présenté une perspective qui est toujours d’actualité même après plu
 L’héritage de Company Flow est
 Cela va au-delà de la valeur des simples œuvres musicales.
 
-* Possibilité d'indépendant
+* Possibilités indépendantes
 *Autonomie de l'artiste
 * Importance de la politique
 * Le souterrain comme esthétique

@@ -11,17 +11,17 @@ tags:
 - Experimental
 - Ambient
 - 90s
-title: Mike & Rich – Twiddlers experts en boutons
+title: Mike & Rich – Expert Knob Twiddlers
 ---
 
 
-"Expert Knob Twiddlers" de Mike & Rich (1996) est un album collaboratif de Richard D. James, alias Aphex Twin, et Mike Paradinas, alias µ-Ziq, deux génies qui ont dirigé la scène de la musique électronique dans les années 90.
+Mike & Richの『Expert Knob Twiddlers』（1996年）は、エイフェックス・ツイン（Aphex Twin）ことRichard D. Jamesとµ-ZiqことMike Paradinasという、90年代エレクトロニック・ミュージックシーンを牽引した二人の鬼才によるコラボレーションアルバム。
 
-La chanson a été créée en quelques jours pendant la Coupe du Monde 1994 et serait née d'une jam session ivre. Ce fond crée une atmosphère légère et libre dans la musique.
+制作は1994年のワールドカップ期間中に数日間で終わり、酒に酔った状態でのジャムセッションから生まれたとされています。この背景が、音楽に漂う軽妙で奔放な雰囲気を形作っています。
 
-Décrit par Paradinas comme « une version mise à jour de l'easy listening et du funk », des mélodies rappelant la musique lounge des années 70 et la musique d'ascenseur sont fusionnées avec des rythmes déformés et les sons fantaisistes des synthés analogiques.
+Paradinasが「イージーリスニングとファンクのアップデート版」と形容したように、70年代のラウンジミュージックやエレベーター音楽を思わせるメロディが、歪んだビートやアナログシンセの奇抜な音色と融合しています。
 
-Ces morceaux sont le résultat d'une combinaison de l'expérimentation imprévisible d'Aphex Twin et de la structure mélodique de µ-Ziq, créant une aventure sonore qui va au-delà de la simple « musique écrite ».
+これらのトラックは、両者の持ち味であるAphex Twinの予測不能な実験性とµ-Ziqのメロディアスな構造が融合した結果であり、単なる「打ち込み音楽」を超えた音の冒険を感じさせます。
 
 #### Liste des chansons
 ```md

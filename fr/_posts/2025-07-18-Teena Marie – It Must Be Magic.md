@@ -11,14 +11,14 @@ tags:
 - Funk
 - Disco
 - 80s
-title: Teena Marie – Ça doit être magique
+title: Teena Marie – It Must Be Magic
 ---
 
 
-Teena Marie, également connue sous le nom de Lady T, est une chanteuse américaine de soul et de R&B. Elle a un style vocal de soprano unique et émouvant.
+Lady T(レディT)の愛称で知られるTeena Marie(ティーナ・マリー)はアメリカのソウルとR&Bのシンガー。ユニークでソウルフルなソプラノヴォーカルスタイルが特徴。
 
-It Must Be Magic, sorti en 1981, était le quatrième album studio de Teena Marie et son dernier avec Motown. Il comprend la chanson à succès Square Biz.
-Ce disque est sorti sur le sous-label Gordy de Motown.
+1981年にリリースされた「It Must Be Magic」は、Teena Marieの4枚目のスタジオアルバムであり、モータウンでの最後のアルバムとなった。ヒット曲Square Bizが収録されている。
+このレコードはMotownのサブレーベルGordyからのリリース盤。
 
 #### Liste des chansons
 ```md

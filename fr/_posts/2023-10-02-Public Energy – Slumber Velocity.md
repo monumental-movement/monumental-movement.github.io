@@ -9,13 +9,13 @@ permalink: /fr/public-energy-slumber-velocity/
 tags:
 - Techno
 - Acid
-title: Énergie publique – Vitesse du sommeil
+title: Public Energy – Slumber Velocity
 ---
 
 
-"Slumber" présente un groove fort et une basse presque disparaissante, laissant place à une mélodie de transe minimaliste avant de revenir à un son plus intense. Des gouttes d’acide supplémentaires sont également ajoutées tout au long de la piste.
+"Slumber" は、強烈なグルーヴと、ほぼ消え去るかのような低音ベースが特徴で、ミニマリスティックなトランスのメロディに変わり、さらに激しいサウンドに戻ります。追加のアシッドドロップもトラック全体にわたって絡みつきます。
 
-"Velocity", en revanche, a un style plus européen et comporte des roulements de tambour.
+一方で、"Velocity" は、よりヨーロッパスタイルでドラムロールが特徴です。
 
 #### Liste des chansons
 ```md

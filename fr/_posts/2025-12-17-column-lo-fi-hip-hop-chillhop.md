@@ -93,7 +93,7 @@ Ceci est un exemple de la façon dont la conception de la distribution a directe
 
 ## 7. Création de la catégorie Chillhop
 
-Le nom Chillhop a été créé lors du processus d'organisation des genres et d'optimisation des playlists sur les plateformes de distribution. Le tempo était modéré, la pression sonore était contenue et la mélodie était répétitive, en mettant l'accent sur le fait de ne pas trop attirer l'attention de l'auditeur.
+Le nom Chillhop a été créé lors du processus d’organisation des genres et d’optimisation des playlists sur les plateformes de distribution. Le tempo était modéré, la pression sonore était contenue et la mélodie était répétitive, en mettant l'accent sur le fait de ne pas trop attirer l'attention de l'auditeur.
 
 Cette catégorisation a amené un certain niveau de conscience du format du côté de la production et, par conséquent, l'homogénéisation musicale a progressé.
 
@@ -117,7 +117,7 @@ Si cette formalisation abaisse les barrières à l’entrée, elle limite égale
 
 ## 10. Commercialisation et perspective critique
 
-Lo‑Fi Hip Hop/Chillhop est fortement lié à un modèle de revenus basé sur les vues en streaming. Les structures adaptées à une lecture à long terme sont hautement compatibles avec les algorithmes et il existe de nombreux cas de succès commercial.
+Lo‑Fi Hip Hop/Chillhop était fortement lié à un modèle de revenus basé sur les vues en streaming. Les structures adaptées à une lecture à long terme sont hautement compatibles avec les algorithmes et il existe de nombreux cas de succès commercial.
 
 D’un autre côté, on critique également le fait que la consommation de musique en tant que fond rend difficile l’évaluation d’œuvres individuelles.
 
@@ -155,7 +155,7 @@ Cette culture ne se limite pas à une région spécifique, mais se forme simulta
 
 ### Années 2020
 
-* La consommation de musique environnementale devient monnaie courante
+* La consommation de musique environnementale est devenue monnaie courante
 
 ---
 
@@ -244,7 +244,7 @@ Cette culture de l’imitation a conduit à une homogénéisation des genres et 
 
 ### Début des années 2000
 
-* La diffusion de l'environnement DAW et la normalisation de la production individuelle
+* Diffusion de l'environnement DAW et normalisation de la production individuelle
 
 ### Fin des années 2000
 

@@ -9,13 +9,13 @@ permalink: /fr/holy-moses-queen-of-siam/
 tags:
 - Rock
 - Thrash
-title: Saint Moïse – Reine du Siam
+title: Holy Moses – Queen Of Siam
 ---
 
 
-Holy Moses est un groupe de thrash metal allemand actif depuis 1980. Le leader est Sabina Classen. Connu comme un groupe pionnier de chanteuses de voix de mort.
+1980年から活動するHoly Moses（ホーリー・モーゼス） は、ドイツのスラッシュメタルバンド。フロントはSabina Classen（サビナ クラッセン）。デスヴォイスの女性ボーカリストの先駆的グループとして知られる。
 
-"Queen Of Siam" est le premier album de Holy Moses, sorti en 1986 par le label de heavy metal allemand Aaarrg Records.
+「Queen Of Siam」は、Holy Mosesのデビューアルバムで、 ドイツのヘヴィメタルレーベルAaarrg Recordsより1986年にリリース。
 
 #### Liste des chansons
 ```md

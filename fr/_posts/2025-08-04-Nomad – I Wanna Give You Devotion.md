@@ -9,16 +9,16 @@ permalink: /fr/nomad-i-wanna-give-you-devotion/
 tags:
 - House
 - 90s
-title: Nomad – (Je veux te donner) Dévotion
+title: Nomad – (I Wanna Give You) Devotion
 ---
 
 
-Nomad est un duo house britannique des années 90.
+Nomadは、90年代を代表するUK House duo。
 
-"(I Wanna Give You) Devotion", sorti par Capitol Records en 1991, est la chanson signature de Nomad qui est devenue un succès mondial. Il est considéré comme l’un des hymnes de la musique dance des années 90 et est également connu comme la première composition du célèbre producteur britannique Steve Mac.
+1991年にCapitol Records からリリースされた「 (I Wanna Give You) Devotion」は、世界的にヒットしたNomadの代表曲。90sダンスミュージックのアンセムの一つとされており、UKの有名プロデューサーSteve Macの初めての作曲作品としても知られている。
 
-B1 est un remix du célèbre DJ britannique Dave Lee (Joey Negro).
-B2 est un remix du DJ House et DJ radio Paul Anderson, qui a influencé les débuts de la house britannique.
+B1は、UKの大御所DJ Dave Lee(Joey Negro)によるremix。
+B2は、初期のUKハウスに影響を与えたHouse DJ&Radio DJ Paul Andersonによるremix。
 
 #### Liste des chansons
 ```md

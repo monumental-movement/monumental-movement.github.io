@@ -49,9 +49,9 @@ color: #fff;
 
 ---
 
-## 1. De « passe » à « orbite » : la gradation de l'espace musical tracée par Eurobeat
+## 1. De la « passe » à la « trajectoire » : la gradation de l'espace musical tracée par Eurobeat
 
-Comme évoqué dans les deux ouvrages précédents, l'Eurobeat d'Initial D était indissociable de l'histoire de Touge.
+Comme mentionné dans les deux ouvrages précédents, l'Eurobeat d'Initial D était indissociable de l'histoire de Toge.
 Cependant, il ne s'agissait pas seulement d'une aide au terrain et à la production visuelle, mais d'un **dispositif qui traduisait la distorsion du temps en son**.
 
 Avec le recul, nous pouvons dire que l'Eurobeat était un genre qui visualisait acoustiquement le « temps interne d'un corps en marche ».
@@ -80,7 +80,7 @@ Ce qui les traverse, c'est l'idée d'un « son qui conçoit l'élévation ».
 Et l’origine de cette philosophie n’est autre que l’Eurobeat des années 90.
 
 > "La vitesse est le langage de l'époque."
-> — producteur anonyme d'Eurobeat, entretien de 1998
+> — producteur anonyme d'Eurobeat, interview de 1998
 
 Ce mot prend désormais un nouveau sens à l’ère de la musique générative.
 La vitesse n'est pas seulement un tempo, mais existe comme la vitesse à laquelle les émotions sont calculées.
@@ -106,14 +106,14 @@ Il s’agit d’une reconstitution technologique de ce qu’Initial D faisait av
 
 Les paysages sonores jouent un rôle important dans les environnements de conduite virtuels.
 Bruit du vent, frottement des pneus, échos des tunnels, fluctuations du moteur...
-En synchronisant tout cela sur un tempo de type Eurobeat, le sentiment d’immersion augmente considérablement.
+En synchronisant tout cela sur un tempo de type Eurobeat, le sentiment d'immersion augmente considérablement.
 
 « Touge » est désormais dans un casque VR.
 Et les sons émis à l'intérieur ne sont pas une reconstitution du passé, mais sont reconstruits comme des **futurs souvenirs de conduite**.
 
 ---
 
-## 4. Fusion du son et de l'espace : Installation comme musique courante, expérience live
+## 4. Fusion du son et de l'espace : installation comme musique courante, expérience live
 
 Un mouvement artistique reproduisant de manière audible la sensation de courir a commencé dans diverses régions du monde.
 
@@ -146,7 +146,7 @@ L'ère où « votre conduite devient une chanson » commence déjà à devenir
 
 ### ● La renaissance d'Eurobeat sur SNS
 
-Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x propre vidéo de conduite » a augmenté de manière explosive.
+Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x votre propre vidéo de conduite » a augmenté de manière explosive.
 Il ne s'agit pas seulement de nostalgie, mais fonctionnent comme un « nouveau format pour partager la sensation de conduire ».
 Il s'agit, pour ainsi dire, d'un « support de partage rapide ».
 
@@ -210,6 +210,14 @@ Nous parcourons désormais d’innombrables espaces virtuels via des écrans et 
 
 > L'Eurobeat n'est pas fini.
 > Il s'agit simplement de changer d'endroit où vous courez.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2It7HPi2Ing?si=0hZVnLYZfEdLFICn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

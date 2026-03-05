@@ -9,7 +9,7 @@ permalink: /fr/column-hearing-health/
 tags:
 - History
 - Ambient
-title: '[Chronique] Le miracle de l''écoute : l''avenir du « son » imaginé par la
+title: '[Chronique] Le miracle de l''écoute : l''avenir du « son » envisagé par la
   Hearing Health Foundation'
 ---
 
@@ -159,7 +159,7 @@ Protéger son audition est aussi une forme de « soin personnel artistique » qu
 - **Phil Collins** : En tournée malgré une perte auditive d'une oreille.
 - Thom Yorke de **Radiohead** : Malgré ses acouphènes, il a sublimé ses "sons intérieurs" dans des chansons.
 
-Ces anecdotes montrent que la musique ne s'arrête pas lorsque vos oreilles sont endommagées.
+Ces anecdotes montrent que la musique ne s'arrête pas même si vos oreilles sont abîmées.
 La philosophie de HHF apporte également un soutien scientifique à son esprit.
 
 ---

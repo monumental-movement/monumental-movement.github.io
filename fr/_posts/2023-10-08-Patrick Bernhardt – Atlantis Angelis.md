@@ -13,7 +13,7 @@ title: Patrick Bernhardt – Atlantis Angelis
 ---
 
 
-"Atlantis Angelis" est une cassette d'un album de Patrick Bernhardt sorti par le label canadien "Imagine Records".
+「Atlantis Angelis」は、カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
 
 
 #### Liste des chansons

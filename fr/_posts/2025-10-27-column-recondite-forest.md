@@ -17,7 +17,7 @@ title: '[Chronique] Recondite et bains de forêt - Quand la techno revient en fo
 ## Prologue : Un rythme qui s'enfonce dans la forêt
 
 
-Texte : mmr | Thème : Artiste techno minimal allemand Recondite. La musique permet d'entendre la respiration de la forêt dans ses séquences artificielles. Nous explorons ici l'intersection philosophique de son œuvre et des bains de forêt (Shinrin-yoku).
+Texte : mmr | Thème : Artiste techno minimal allemand Recondite. Dans la musique, on entend la respiration de la forêt dans ses séquences artificielles. Nous explorons ici l'intersection philosophique de son œuvre et des bains de forêt (Shinrin-yoku).
 
 Recondite――vrai nom Lorenz Brunner.
 Lorsque de nombreuses personnes entendent sa musique pour la première fois, elles ressentent un sentiment de « solitude » et de « tranquillité ».
@@ -183,7 +183,7 @@ En d’autres termes, il présente une nouvelle physicalité appelée **Music = 
 ## Chapitre 10 : Conclusion – La techno revient en forêt
 
 La musique de Recondite n'est pas de nature mécanique, mais
-**Il maintient un équilibre qui ressemble à une machine qui respire dans la nature**.
+**Il maintient un équilibre comme une machine qui respire dans la nature**.
 
 Si les bains de forêt sont un acte de « retour des humains à la nature »,
 La musique de Recondite est un acte de « retour de la techno à la nature ».

@@ -53,7 +53,7 @@ color: #fff;
 ### Travaux/projets représentatifs de Goldsworthy
 
 - **Série Boules de Neige** : Une énorme boule de neige est installée dans une ville et affichée au fur et à mesure qu'elle fond au fil du temps.
-- **Icicle Star** : Un morceau de glace transformé en forme d'étoile qui fond au lever du soleil.
+- **Icicle Star** : Un morceau de glace assemblé en forme d'étoile et qui fond au lever du soleil.
 - **Stone River (1997)** : Un mur de pierre sinueux installé à l'Université de Stanford aux États-Unis.
 - **Rowan Leaves and Hole** : Une œuvre dans laquelle des feuilles rouges sont disposées en cercle et flottent à la surface de l'eau.
 - **Storm King Wall (1997-98)** : Un long mur de pierre serpentine au Storm King Art Center de New York.
@@ -95,7 +95,7 @@ color: #fff;
 
 ---
 
-### Playlist structurée selon « l'écoulement du temps »
+### Playlist organisée selon « l’écoulement du temps »
 
 #### matin
 
@@ -133,6 +133,14 @@ color: #fff;
 ### Conclusion
 
 Les œuvres d'Andy Goldsworthy ont une qualité « unique » qui change et disparaît avec le temps et la nature. Son esthétique résonne fortement avec « l'ambiance », la « répétition » et le « silence » de la musique ambiante, de l'enregistrement sur le terrain et de la musique minimale. En expérimentant les deux en combinaison, naît un « dialogue avec la nature » qui traverse les sens visuels et auditifs.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tb-uIGywwqc?si=Ag_bqU4OVg_fE593" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

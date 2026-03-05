@@ -50,7 +50,7 @@ Au milieu des années 2020, le renouveau de l’an 2000 s’est étendu de la mo
 Parmi eux, le terme « Indie Sleaze » est une nouvelle fois à l’honneur.
 Au début des années 2000, une fête éclairée par des flashs d'appareils photo numériques,
 Des muses dont le maquillage est encore ruiné,
-Un romantisme ambigu qui habite la qualité d’image de MySpace.
+Un romantisme ambigu qui réside dans la qualité d'image de MySpace.
 Ce qui existait était la vérité parce qu’elle n’était pas en place.
 
 Et en 2024, cette « rugosité » a une fois de plus détruit l’ennui moderne.
@@ -124,7 +124,7 @@ Photos mal mises au point, enregistrements bruyants et vidéos non éditées.
 C’est en eux que je trouve des preuves de mon vrai moi.
 
 ### 4-2. Passer du mode en ligne au mode hors ligne
-« L’esthétique de l’imperfection » est
+"L'esthétique de l'imperfection" est
 Il ne s’agit pas seulement d’esthétique, il s’agit aussi de réinitialiser votre mode de vie.
 Les gens qui en ont assez de construire leur personnalité sur les SNS et qui retournent à nouveau dans leur « corps ».
 L'humidité du club, le rugissement du live house,
@@ -135,7 +135,7 @@ La musique revient une fois de plus sur la « scène humaine » plutôt que sur 
 
 ## 5. Un tournant dans la beauté ─ De « l’ajustement » à « l’effondrement »
 
-### 5-1. Le courage d'affirmer l'imperfection
+### 5-1. Le courage d’affirmer l’imperfection
 Les dix dernières années ont été dominées par les idées de minimalisme et de rangement.
 Nous avons eu peur de ce qui nous manquait.
 Mais désormais, ce qui manque, c’est l’espace vide pour la création.
@@ -145,7 +145,7 @@ C’est là la sensibilité d’une nouvelle ère.
 
 ### 5-2. « Réensauvagement » de la pop
 Après « brat », les artistes lâchent leurs micros.
-Enregistrement improvisé avec smartphone,
+Enregistrez de manière impromptue avec votre smartphone,
 J'ai commencé à télécharger des chansons inachevées.
 Ce qu’ils ont tous en commun, c’est l’attitude de « laisser les choses telles qu’elles sont ».
 La pop redevient sauvage.

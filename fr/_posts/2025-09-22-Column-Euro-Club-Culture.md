@@ -133,7 +133,7 @@ Un son nostalgique mais fonctionnel pour les scènes en plein air et les festiva
 ### Conclusion : l'Euro vivait à la frontière entre « pop » et « club »
 
 La musique européenne n’était pas seulement de la « musique facile à vivre » ou des « morceaux de club durs ».
-Sa véritable valeur réside dans le fait que c’est une musique qui maintient un équilibre entre média et underground, mélodie et rythme, système et physicalité.
+Sa véritable valeur réside dans la musique qui maintient un équilibre entre média et underground, mélodie et rythme, système et physicalité.
 
 Écoutez-le à la radio et dansez en club.
 C’était peut-être la manière la plus « correcte » de dépenser l’euro dans les années 1990.

@@ -42,7 +42,7 @@ color: #fff;
 ### Chapitre 1 : Les ombres de Manchester
 
 **"Mouvement embryonnaire post-punk"**
-À la fin des années 1970, la Grande-Bretagne était en proie à une récession économique et à un déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
+À la fin des années 1970, la Grande-Bretagne était en pleine récession économique et en déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
 
 **"L'aube de la formation du groupe"**
 En 1976, Bernard Sumner, Peter Hook et Stephen Morris se rencontrent et fondent Joy Division. Les premiers membres se sont connectés grâce à l'école et à la scène punk locale, et au début ils ont joué des reprises, mais ont finalement évolué vers des chansons originales qui reflétaient leur sentiment d'isolement et la morosité de la ville.
@@ -86,7 +86,7 @@ Amazonで購入 → [Closer](https://amzn.to/48mYLF8)
 
 ### Chapitre 4 : Reconstruire l'héritage : se transformer en un nouvel ordre
 
-**"Ceux qui sont laissés pour compte"**
+**"Ceux qui ont laissé derrière eux"**
 Après la mort de Curtis, les membres restants n'ont pas dissous le groupe et ont plutôt cherché une nouvelle direction. Avec Bernard Sumner au chant, une musicalité plus électronique et dansante se dessine.
 
 **"Fusion du synthé et de la danse"**
@@ -137,7 +137,7 @@ L'influence de Joy Division peut être observée dans de nombreux genres, notamm
 **"L'universalité du nouvel ordre"**
 C'est devenu un succès partout dans le monde, dans les clubs et à la radio. La musique a fini par être consommée dans le cadre de la danse et de la vie quotidienne, brouillant la frontière entre pop et underground.
 
-**«Un voyage sans fin»**
+** "Voyage sans fin" **
 Malgré la dissolution et la réforme, l'héritage de Joy Division perdure à travers New Order. La musique et les histoires humaines deviennent un miroir qui reflète les ombres et les espoirs d'une ville.
 
 Amazonで購入 → [Still](https://amzn.to/4mXpD1Z)

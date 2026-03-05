@@ -20,7 +20,7 @@ title: '[Chronique] Histoire de la Psy-Trance, chefs-d''œuvre et 10 morceaux re
 Texte : mmr｜Thème : Histoire de la Psy-Trance des origines à nos jours
 
 
-La transe Goa, issue de la culture hippie/rave de Goa, s'est répandue dans le monde entier au milieu des années 1990 sous le nom de « transe psychédélique ». Depuis, divers genres dérivés (Full-on, Darkpsy, Progressive, Psybient, etc.) ont été créés grâce au raffinement des images sonores et à la numérisation des équipements, et ils se sont mondialisés grâce à la culture des festivals et à la diffusion en ligne.
+La transe goa, issue de la culture hippie/rave de Goa, s'est répandue dans le monde entier au milieu des années 1990 sous le nom de « transe psychédélique ». Depuis, divers genres dérivés (Full-on, Darkpsy, Progressive, Psybient, etc.) ont été créés grâce au raffinement des images sonores et à la numérisation des équipements, et ils se sont mondialisés grâce à la culture des festivals et à la diffusion en ligne.
 
 Ci-dessous, nous résumerons les tendances par génération, les chefs-d'œuvre représentatifs, les changements d'équipement et **10 pistes recommandées de chaque époque**.
 
@@ -87,7 +87,7 @@ color: #fff;
 | 1 | Réacteur Juno – Transmissions | 1993 | Fusion Ethno + Transe |
 | 2 | Homme sans nom – Téléportation | 1994 | Goa Classique |
 | 3 | Le projet Infinity – Se sentir très bizarre | 1994 | Icône de scène Goa |
-| 4 | Doof – Allumons | 1994 | Riff Psychédélique |
+| 4 | Doof – Allumons | 1994 | Riff psychédélique |
 | 5 | Total Eclipse – Le Lotus Bleu | 1994 | Représentant psychédélique français |
 | 6 | Etnica – Voyage Tonite | 1994 | Synthé multicouche |
 | 7 | Sœurs Vertes de la Révolution – Conflit | 1994 | Énergique |
@@ -210,7 +210,7 @@ color: #fff;
 ---
 
 ### Vers le futur des psychédéliques
-La Psy-Trance est née de l'intersection de la culture hippie et de la technologie, s'est diversifiée sous diverses formes après son âge d'or dans les années 1990 et continue de dominer les festivals à travers le monde. Suivre l'évolution du design sonore et les changements d'équipement révèle le dynamisme de son son et la profondeur de sa culture.
+La Psy-Trance est née de l'intersection de la culture hippie et de la technologie, s'est diversifiée sous de nombreuses formes différentes après son âge d'or dans les années 90 et continue de dominer les festivals à travers le monde. Suivre l'évolution du design sonore et les changements d'équipement révèle le dynamisme de son son et la profondeur de sa culture.
 
 Nous avons commencé avec du matériel analogique, sommes passés par la numérisation et sommes maintenant dans une étape de fusion qui transcende les genres. **La spiritualité gore des années 1990**, **l'explosivité high-tech totale des années 2000**, **le crossover numérique des années 2010** et **l'évolution inter-genres des années 2020**. Chaque époque a créé sa propre esthétique.
 

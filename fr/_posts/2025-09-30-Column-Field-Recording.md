@@ -9,17 +9,16 @@ permalink: /fr/column-field-recording/
 tags:
 - Field Recording
 - Ambient
-title: '[Chronique] Enregistrement sur le terrain : techniques, historique et guide
-  de disque recommandé pour la collecte de sites sonores'
+title: 【コラム】 フィールドレコーディング：音の現場を採集する技術・歴史・おすすめ盤ガイド
 ---
 
 
-## Pourquoi l'enregistrement sur le terrain ?
+## なぜフィールドレコーディングか
 
-Texte : mmr｜Thème : couvre l'histoire de l'enregistrement sur le terrain, les caractéristiques des principaux équipements, les artistes/producteurs représentatifs et les albums recommandés par génération.
+文：mmr｜テーマ：フィールドレコーディングの歴史、主要機器の特徴、代表的な録音作家・プロデューサー、年代別おすすめアルバムを網羅
 
 
-L'enregistrement sur le terrain est l'acte de quitter le studio et d'enregistrer les « sons du terrain » tels qu'ils sont. Les sons naturels, les sons de l’environnement urbain, les chansons folkloriques, les bruits des chemins de fer et des machines d’usine : ce ne sont pas seulement des effets sonores, mais des archives culturelles et des matériaux musicaux. Il s'agit d'une technologie essentielle pour les films, les jeux, la production musicale et l'art sonore.
+フィールドレコーディング（field recording）は、スタジオを離れ“現場の音”をそのまま記録する行為です。自然音、都市の環境音、民俗歌唱、鉄道や工場の機械音──これらは単なる効果音にとどまらず、文化のアーカイブであり音楽的素材でもあります。映画・ゲーム・音楽制作・サウンドアートのいずれにも不可欠な技術です。
 
 ---
 
@@ -38,7 +37,7 @@ color: #fff;
 </style>
 
 
-### Chronologie (aperçu)
+### 年表（概観）
 
 <div class="mermaid">
 flowchart TD
@@ -51,180 +50,180 @@ flowchart TD
 
 ---
 
-### Guide des équipements : principaux fabricants et modèles
-L'enregistrement sur site est la trinité « microphone + enregistreur + alimentation ». Ici, nous présenterons brièvement la norme polyvalente et ses fonctionnalités.
+### 機材ガイド：主要メーカーとモデル
+現場録音は「マイク＋レコーダー＋電源」の三位一体です。ここでは多用途に使える定番とその特徴を簡潔に示します。
 
-| Marque | Modèle | Caractéristiques | Ère |
+| ブランド          | モデル                    | 特徴                      | 時代       |
 | ------------- | ---------------------- | ----------------------- | -------- |
 | Zoom          | [H6 / H6essential](https://amzn.to/46w7S4Z)       | 交換式マイクカプセル、多トラック        | 2010s〜現在 |
 | Tascam        | [DR-100MKIII](https://amzn.to/4mJay46)            | プロ仕様、外部マイク入力            | 2010s    |
 | Sound Devices | [MixPreシリーズ](https://amzn.to/46IPMeF)             | 32-bit float、高品位プリアンプ   | 2010s〜現在 |
 | Sony          | [PCM-D100](https://amzn.to/46stJds)               | ハイレゾ対応、堅牢性              | 2010s    |
 | Roland    | [R-09](https://amzn.to/4h7FWIp) / [R-26](https://amzn.to/42NZqLY) / [R-07](https://amzn.to/471CpHV) | 小型＆多機能、Bluetooth対応モデルあり | 2000s〜現在 |
-| NAGRA | Équipements analogiques/numériques | Les incontournables du cinéma et de la radiodiffusion | Années 1960 à aujourd'hui |
+| NAGRA         | アナログ/デジタル機             | 映画・放送の定番                | 1960s〜現在 |
 
 
 ---
 
 
-### Liste des artistes d'enregistrement sur le terrain et du matériel utilisé
+### フィールドレコーディング・アーティストと使用機材リスト
 
-| Artiste | Aperçu des activités/Travaux représentatifs | Équipement utilisé (typique) |
-| -------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------- |
-| **Alan Lomax** | Archives de musique folklorique du 20e siècle. Enregistrement d'enregistrements sur le terrain des États-Unis vers le monde. Œuvres représentatives : *La collection Alan Lomax* | Magnétophone Ampex, Nagra (années 1950 et après), divers microphones dynamiques |
-| **Chris Watson** | Ancien Cabaret Voltaire. Responsable de l'enregistrement des sons naturels pour la BBC et les productions documentaires. Œuvres représentatives : *El Tren Fantasma* (2011) | Sound Devices série 7, Nagra, microphones série Sennheiser MKH |
-| **Bernie Krause** | Un expert reconnu des sons environnementaux naturels (biophoniques). Œuvres représentatives : *Le Grand Orchestre Animalier* | Nagra IV, enregistreur Sound Devices, microphone Neumann & Sennheiser |
-| **Hildegarde Westerkamp** | Mouvement Soundwalk/Ecologie Acoustique. Travaux : *Kits Beach Soundwalk* | Initialement bande Nagra, maintenant tous les équipements numériques |
-| **Toshiya Tsunoda** | Artiste sonore japonais. Enregistrez des sons infimes provenant des conteneurs et de la ville. Œuvres représentatives : *Extrait de Field Recording Archive* | Enregistreur DAT, microphone à condensateur, microphone de contact |
-| **Francisco López** | Des sons environnementaux bruts ou traités provenant du monde entier pour créer des œuvres. Œuvres représentatives : *La Selva* | Enregistreur DAT (début), actuellement Sound Devices, microphone Schoeps |
-| **Anne Lockwood** | De nombreuses œuvres ont pour thème la nature et l'environnement. Œuvres représentatives : *Une carte sonore de la rivière Hudson* | Enregistreur de terrain (Nagra → numérique), microphone sous-marin (Hydrophone) |
-| **Ryuichi Sakamoto** | Dans ses dernières années, il collecta les sons environnementaux et les refléta dans ses œuvres. Œuvres représentatives : *async* | Série Zoom H, microphone DPA, microphone sous-marin |
+| アーティスト                     | 活動概要・代表作                                                                 | 使用機材（代表的なもの）                                          |
+| -------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------- |
+| **Alan Lomax**             | 20世紀の民俗音楽アーカイブ。米国〜世界のフィールド録音を記録。代表作：*The Alan Lomax Collection*          | Ampexテープレコーダー、Nagra（1950s以降）、各種ダイナミックマイク              |
+| **Chris Watson**           | 元Cabaret Voltaire。BBCやドキュメンタリー制作で自然音の録音を担当。代表作：*El Tren Fantasma* (2011) | Sound Devices 7シリーズ、Nagra、Sennheiser MKHシリーズマイク       |
+| **Bernie Krause**          | 自然環境音（バイオフォニクス）の第一人者。代表作：*The Great Animal Orchestra*                    | Nagra IV、Sound Devices レコーダー、Neumann & Sennheiser マイク |
+| **Hildegard Westerkamp**   | サウンドウォーク／アコースティック・エコロジー運動。作品：*Kits Beach Soundwalk*                      | 初期はNagraテープ、現在はデジタル機材全般                               |
+| **Toshiya Tsunoda（角田俊也）**  | 日本のサウンドアーティスト。コンテナや街中の微細音を録音。代表作：*Extract from Field Recording Archive*  | DATレコーダー、コンデンサマイク、接触マイク                               |
+| **Francisco López**        | 世界各地で環境音を無加工〜加工して作品化。代表作：*La Selva*                                      | DATレコーダー（初期）、現在はSound Devices系、Schoepsマイク             |
+| **Annea Lockwood**         | 自然と環境をテーマにした作品多数。代表作：*A Sound Map of the Hudson River*                   | フィールドレコーダー（Nagra → デジタル）、水中マイク（Hydrophone）            |
+| **Ryuichi Sakamoto（坂本龍一）** | 晩年は環境音を採取し作品に反映。代表作：*async*                                              | Zoom Hシリーズ、DPAマイク、水中マイク                               |
 
 
 
 ---
 
-### Des anecdotes d'artistes qui colorent les enregistrements sur le terrain
+### フィールドレコーディングを彩るアーティストの逸話
 
 #### Alan Lomax
 
-- La personne qui a popularisé le « folk Recording » avant le terme « Field Recording ».
+- 「フィールド録音」という言葉の前に「民俗録音」を広めた人物。
 
-- Lors de l'enregistrement de chants ouvriers dans une ferme du sud des États-Unis, il portait un enregistreur à bobine plus grand que la caméra.
+- アメリカ南部の農場で労働歌を録音する際、カメラよりも大きなリール式録音機を抱えて移動。
 
-- Même les sons de la vie quotidienne (le bruit des plats et les rires des gens) ont été enregistrés et transformés en « réalité de cette culture ».
+- 生活音（食器の音や人の笑い声）まで収録し、それを「その文化のリアリティ」とした。
 
 #### Annea Lockwood
 
-- La série "River Sound Map" est réalisée en parcourant minutieusement le terrain et en l'enregistrant comme une enquête scientifique.
+- 「川のサウンドマップ」シリーズは、科学調査のように徹底的にフィールドを歩き回って記録。
 
-- En raison de la longue durée d'enregistrement, l'équipement d'enregistrement a été produit en prenant soigneusement en compte son alimentation électrique et sa résistance aux intempéries.
+- 長時間録音のため、録音機材の電源や耐候性を工夫しながら制作。
 
-- L'écoute de ses œuvres vous donne l'expérience de « voyager à travers le mouvement géographique avec vos oreilles ».
+- 作品を聞くと「地理的移動を耳で旅する」体験が得られる。
 
-#### Hildegarde Westerkamp
+#### Hildegard Westerkamp
 
-- Lors de l'atelier de marche sonore, il était demandé aux participants de « Écouter attentivement les sons que vous entendez en ce moment ».
+- サウンドウォークのワークショップでは「今聞こえている音に耳を澄ませてください」と案内。
 
-- Diffuser l'idée de reconsidérer le bruit urbain comme une « poésie des villes modernes » plutôt que comme une « poubelle bruyante ».
+- 都市騒音を「騒がしいゴミ」ではなく「現代都市の詩」として捉え直す思想を広めた。
 
 #### Toshiya Tsunoda
 
-- Appréhender l'existence du son comme « résonance spatiale ».
+- 音の存在を「空間の共鳴」としてとらえる。
 
-- Exemple : Un microphone est installé dans une cavité sous l'asphalte d'une route pour enregistrer d'infimes vibrations.
+- 例：道路のアスファルト下の空洞にマイクを設置し、微細な振動を記録。
 
-- La méthode s'apparente à une expérience scientifique, mais les résultats sont convertis en une expérience esthétique.
+- 科学実験のような手法だが、その結果は美的体験へと変換される。
 
 #### Francisco López
 
-- Distribuez des « masques pour les yeux » au public et réalisez un spectacle dans lequel il peut écouter le son dans l'obscurité totale.
+- 聴衆に「アイマスク」を配り、真っ暗闇で音を聴かせるパフォーマンスを行う。
 
-- Vise à « effacer la frontière entre la musique et les sons environnementaux ».
+- 「音楽と環境音の境界を消す」ことを目指す。
 
-- Pour son œuvre « La Selva », il a enregistré la forêt tropicale telle qu'elle était, avec un montage minimal.
+- 作品『La Selva』では熱帯雨林をそのまま録音し、編集も最小限に留めた。
 
 #### Chris Watson
 
-- A exploré la musique électronique pendant ses années de groupe. Après cela, il rejoint la BBC et est chargé de l'enregistrement des programmes sur la nature.
+- バンド時代は電子音楽を探求。その後BBCに所属し、自然番組の録音を担当。
 
-- "El Tren Fantasma" vous emmène dans un voyage à travers une voie ferrée abandonnée, avec des enregistrements détaillés des bruits de train et des paysages.
+- 『El Tren Fantasma』では廃線の鉄道を旅し、列車の走行音と風景音を緻密に収録。
 
-- Dans les enregistrements d'oiseaux, il existe une anecdote d'un faucon pèlerin sauvage attendant immobile pendant plusieurs jours près de son nid.
+- 鳥類録音では、野生のハヤブサの巣近くで数日間動かずに待機した逸話が残っている。
 
 #### Bernie Krause
 
-- Ancien joueur de synthétiseur qui a également été impliqué dans The Byrds and Doors.
+- 元はThe ByrdsやDoorsとも関わったシンセ奏者。
 
-- Après cela, il s'est tourné vers l'enregistrement de la nature.
+- その後、自然録音に転向。
 
-- Proposition du concept de « Nature's Choir (Biophony) » et utilisation des enregistrements pour la protection de l'environnement.
+- 「自然界の合唱団（Biophony）」という概念を提案し、環境保護のために録音を活用。
 
 #### Ryuichi Sakamoto
 
-- Dans ses œuvres ultérieures, il précise l'idée selon laquelle « la musique est indissociable de l'environnement ».
+- 晩年の作品では「音楽は環境と切り離せない」という思想を明確化。
 
-- Depuis 2011, il enregistre également les sons locaux du grand tremblement de terre de l'est du Japon, approfondissant ainsi son intérêt pour les sons environnementaux.
+- 2011年以降、東日本大震災の現地音も記録し、環境音への関心を深めた。
 
-- Concernant « async », il a dit : « Une musique pour laisser derrière elle des fragments de temps. »
-
-
----
-
-### Anecdotes sur chaque artiste et matériel
-
-#### Alan Lomax et Ampex
-
-- L'Ampex des années 1950 était très gros et pesait plusieurs dizaines de kilogrammes.
-
-- Lomax l'a utilisé comme studio mobile pour enregistrer.
-
-- Le plus grand défi est d'assurer l'alimentation électrique, c'est pourquoi un générateur est utilisé.
-
-#### Chris Watson et Nagra / Appareils sonores
-
-- Tellement fiable qu'il dit : « Je n'ai jamais vu Nagra arrêter de travailler. »
-
-- J'utilise un microphone super directionnel (Sennheiser MKH 416/816) pour enregistrer des oiseaux et des animaux.
-
-- J'ai fabriqué mon propre "sac étanche + toile de sable" pour protéger mon matériel du sable dans le désert.
-
-#### Nagra par Bernie Krause
-
-- La batterie que je portais sur mon dos lors de mes premiers enregistrements nature pesait plus de 10 kg.
-
-- «J'ai plus peur de rater quelque chose que d'être fatigué», dit-il.
-
-- Plus tard, avec la diffusion des enregistreurs DAT et des équipements légers, les activités sont devenues considérablement plus efficaces.
-
-#### DAT de Francisco López
-
-- Les enregistreurs DAT sont appréciés pour leur haute qualité sonore, mais ils sont sensibles à l'humidité.
-
-- Les bandes se détériorent à cause de la moisissure dans la forêt tropicale et l'enregistrement peut échouer.
-
-- López relève le défi de « laisser l'équipement dans le milieu naturel ».
-
-#### Le microphone DIY de Toshiya Tsunoda
-
-- J'ai fabriqué mes propres capteurs et microphones de contact pour enregistrer les vibrations de l'espace lui-même.
-
-- L'idée est de « mesurer la résonance entre l'air et les objets » au lieu d'« écouter le son ».
-
-- Toujours essayer des « utilisations inattendues » pour les équipements disponibles dans le commerce.
-
-#### Ryuichi Sakamoto et son équipement quotidien
-
-- Dans ses dernières années, il portait toujours des enregistreurs de poche Zoom H2n et Sony PCM.
-
-- Créer des matières premières à partir de la foule de la ville, du bruit de la pluie, du bruit des trains, etc.
-
-- Considéré l'équipement comme un « outil pour relier la vie quotidienne et le travail ».
+- 『async』では「時間の断片を残すための音楽」と語った。
 
 
 ---
 
+### 各アーティストと機材の逸話
 
-### Historique des enregistrements sur le terrain et albums représentatifs
+#### Alan LomaxとAmpex
 
-| Âge | Artiste | Album représentatif | Commentaire | Lien |
-| --------------- | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+- 1950年代のAmpexは非常に大型で重量も数十kg。
+
+- Lomaxはこれを車ごと移動スタジオにして録音。
+
+- 電源の確保が最大の課題で、発電機を使用。
+
+#### Chris WatsonとNagra / Sound Devices
+
+- 「Nagraが動かなくなったのを見たことがない」と語るほど信頼。
+
+- 鳥や動物の録音では超指向性マイク（Sennheiser MKH 416/816）を愛用。
+
+- 砂漠で機材を砂から守るために「防水袋＋砂よけ布」を自作。
+
+#### Bernie KrauseのNagra
+
+- 初期の自然録音で背負ったバッテリーは10kg以上。
+
+- 「疲労よりも録り逃すことの方が恐怖」と語った。
+
+- その後DATレコーダーや軽量機材の普及で活動が飛躍的に効率化。
+
+#### Francisco LópezのDAT
+
+- DATレコーダーは高音質で人気だが、湿気に弱かった。
+
+- 熱帯雨林でカビによりテープが劣化、収録が失敗することも。
+
+- Lópezは「自然環境に機材を預ける」という発想で挑戦。
+
+#### Toshiya TsunodaのDIYマイク
+
+- 空間そのものの振動を録るため、センサーやコンタクトマイクを自作。
+
+- 「音を聴く」のではなく「空気と物体の共鳴を測る」という発想。
+
+- 市販機材の「想定外の使い方」を常に試みている。
+
+#### Ryuichi Sakamotoと日常機材
+
+- 晩年はポケットサイズのZoom H2nやSony PCMレコーダーを常に携帯。
+
+- 街の雑踏、雨音、電車の音などをそのまま素材化。
+
+- 「生活と作品をつなぐための道具」として機材を扱った。
+
+
+---
+
+
+### フィールドレコーディング史と代表アルバム
+
+| 年代              | アーティスト                 | 代表アルバム                                                  | コメント                                             | リンク                                        |
+| --------------- | ---------------------- | ------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **1950s–1960s** | Alan Lomax             | *The Alan Lomax Collection | 20世紀中葉の民俗録音を体系化。録音機材はAmpex/Nagra。フィールドレコーディングの礎。 | [Amazon](https://amzn.to/3IQh8rr) |
 | **1980s**       | Annea Lockwood         | *A Sound Map of the Hudson River* (1989)                | ハドソン川を「音」で地図化。アコースティック・エコロジーの先駆的作品。              | [Amazon](https://amzn.to/3Inx2cR) |
-| **Années 1990** | Hildegarde Westerkamp | *Transformations* (1996) | Travail basé sur la théorie de la marche sonore. Faites l’expérience d’une écoute urbaine/nature.                  | [archive.org](https://archive.org/details/transformationshwesterkamp) |
-| **Années 1990** | Toshiya Tsunoda (Toshiya Tsunoda) | *Extrait des archives d'enregistrement sur le terrain* (1997–2001) | Enregistre avec précision les sons infimes dans les ports et en ville. Amener l'enregistrement de terrain japonais aux normes internationales.                | [archive.org](https://archive.org/details/toshiya-tsunoda-extract-from-field-recording-archive-1) |
+| **1990s**       | Hildegard Westerkamp   | *Transformations* (1996)                                | サウンドウォーク理論を作品化。都市・自然のリスニングを体験化。                  | [archive.org](https://archive.org/details/transformationshwesterkamp) |
+| **1990s**       | Toshiya Tsunoda（角田俊也）  | *Extract from Field Recording Archive* (1997–2001)      | 港湾や街中の微細音を緻密に記録。日本のフィールド録音を国際水準へ。                | [archive.org](https://archive.org/details/toshiya-tsunoda-extract-from-field-recording-archive-1) |
 | **1990s**       | Francisco López        | *La Selva* (1998)                                       | コスタリカ熱帯雨林をそのまま音楽作品化。世界のサウンドスケープ研究に衝撃。            | [Amazon](https://amzn.to/46tHPeF) |
 | **2010s**       | Chris Watson           | *El Tren Fantasma* (2011)                               | メキシコ鉄道の旅を「音で追体験」させるBBC制作の傑作。                     | [Amazon](https://amzn.to/4nORXEo) |
-| **Années 2010** | Bernie Krause | *Le Grand Orchestre Animalier* (2012) | Présenter les sons naturels comme une « symphonie ». Fondements théoriques de la biophonique.                  | [YouTube](https://youtu.be/btrinTDDjnQ?si=KPCZCBfjewVfT9w0) |
+| **2010s**       | Bernie Krause          | *The Great Animal Orchestra* (2012)                     | 自然音を「交響楽」として提示。バイオフォニクスの理論的裏付け。                  | [YouTube](https://youtu.be/btrinTDDjnQ?si=KPCZCBfjewVfT9w0) |
 | **2010s**       | Ryuichi Sakamoto（坂本龍一） | *async* (2017)                                          | 環境音と電子音が融合する晩年の到達点。都市の音を詩的に再構成。                  | [Amazon](https://amzn.to/4nQdkW0) |
 
 
 
 ---
 
-### Le présent et l'avenir de l'enregistrement sur le terrain
+### フィールドレコーディングの現在と未来
 
-L'enregistrement sur le terrain n'est pas seulement une technique, mais un acte de création d'une « mémoire sonore ». Avec la diffusion d’équipements portables hautes performances et les progrès de la technologie d’archivage numérique, nous sommes entrés dans une ère dans laquelle n’importe qui peut réaliser des enregistrements sur place de haute qualité. En revanche, des questions telles que l'éthique (consentement du sujet, attribution culturelle) et le choix des formats de stockage demeurent. Si vous souhaitez intégrer l'enregistrement sur le terrain à votre passe-temps ou à votre travail, nous vous recommandons d'abord de vous rendre sur le terrain avec un équipement fiable et de créer un flux de travail pour gérer et partager correctement le son enregistré.
+フィールドレコーディングは単なる技術ではなく「音の記憶」を作る行為です。高性能なポータブル機器の普及とデジタル・アーカイブ技術の進展により、誰でも高品質な現場録音を行える時代になりました。一方で、倫理（被写体の同意、文化的帰属）や保存フォーマットの選択といった課題も残ります。フィールド録音を趣味や仕事に取り入れるなら、まずは信頼できる機材で現場に出ること、そして記録した音を正しく管理・共有するワークフローを作ることをおすすめします。
 
 
 ---

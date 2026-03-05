@@ -10,16 +10,16 @@ tags:
 - UK Garage
 - House
 - 00s
-title: Anthill Mob – Vous auriez dû le savoir
+title: Anthill Mob – You Should Have Known
 ---
 
 
-Anthill Mob est un groupe de garages britannique représentant l'Est de Londres.
+Anthill Mob(アントヒルモブ)は、ロンドン東部を代表するUKガレージグループ。
 
-Les membres clés sont le producteur et chanteur Tosh (Yoush) alias Andrew Alcee et le producteur Just Juice alias Justin Jones. Il est également sorti sous le nom de Studio 2.
+キーメンバーは、プロデューサー&ヴォーカルのTosh(Yoush)ことAndrew AlceeとプロデューサーのJust JuiceことJustin Jones。Studio 2名義でもリリースしている。
 
 
-A1, A2 et B2 sont des remixes du DJ et producteur américain Todd Edwards, qui serait l'un des créateurs du speed garage et du garage house au début des années 1990.
+A1, A2, B2は、1990年代初頭のスピードガラージ&ガラージハウスのオリジネーターの一人と言われるアメリカDJ・プロデューサーTodd Edwards(トッド・エドワーズ)によるremix。
 
 #### Liste des chansons
 ```md

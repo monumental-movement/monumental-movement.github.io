@@ -68,7 +68,7 @@ J'aimerais que les lecteurs écoutent attentivement le monde de l'œuvre tout en
 
 ### 1.1 Première apparition de Gundam et contexte historique
 
-En avril 1979, la série télévisée « Mobile Suit Gundam » commence à être diffusée. Contrairement à l'anime traditionnel "héros robot", il prône une vision de "vrai robot", dépeint la guerre comme un bourbier et plonge profondément dans le drame humain ainsi que l'action mecha à travers la croissance du garçon Amuro Ray et le décor de la guerre du Siècle Universel (U.C.) avec la Principauté de Zeon.
+En avril 1979, la série télévisée « Mobile Suit Gundam » a commencé à être diffusée. Contrairement à l'anime traditionnel "héros robot", il prône une vision de "vrai robot", dépeint la guerre comme un bourbier et plonge profondément dans le drame humain ainsi que l'action mecha à travers la croissance du garçon Amuro Ray et le décor de la guerre du Siècle Universel (U.C.) avec la Principauté de Zeon.
 
 En regardant l'environnement musical de l'époque, c'était aussi une époque où les chansons thématiques et les chansons d'insertion d'anime télévisés commençaient à passer de « chansons jouées pour enfants » à des « chansons à succès pour une diffusion générale ». À mesure que la base d'auditeurs de musique s'étendait de la pop légère aux orchestres de synthés, la musique de Gundam subissait également un changement.
 
@@ -106,7 +106,7 @@ De cette façon, on peut dire que les premières musiques de Gundam ont ouvert l
 
 ### 2.1 Expansion de la marque « Gundam » et changements sur la scène musicale
 
-Dans les années 1990, la marque Gundam s'est étendue au-delà des séries télévisées pour inclure des OVA, des versions cinématographiques, des jeux et des modèles en plastique. En termes de musique, les chansons d'anime (anisongs) ont été établies en tant que genre, et les chansons thématiques/chansons insérées sont devenues le « visage » de l'artiste.
+Dans les années 1990, la marque Gundam s'est étendue au-delà des séries télévisées pour inclure des OVA, des versions cinématographiques, des jeux et des modèles en plastique. En termes de musique, les chansons d'anime (anisongs) se sont imposées en tant que genre, et les chansons thématiques/chansons insérées sont devenues le « visage » des artistes.
 
 Dans le même temps, le nombre de chansons thématiques avec des sons de synthétiseur, des rythmes de danse et des structures de style pop a augmenté, et nous avons commencé à voir un changement de musicalité de la structure traditionnelle de « musique de fond sérieuse représentant des hymnes de guerre et de héros » vers le côté de la culture pop.
 
@@ -114,13 +114,13 @@ Dans le même temps, le nombre de chansons thématiques avec des sons de synthé
 
 Dans l'anime télévisé "Mobile Suit Gundam W" (New Mobile Suit Gundam W) diffusé en 1995, le thème d'ouverture "Just Communication" (chanté par TWO-MIX) a adopté un rythme de synthé et une mélodie pop, ce qui en fait une œuvre qui se démarque des chansons thématiques traditionnelles de Gundam.
 
-L'apparition de cette chanson a également été l'occasion d'ouvrir l'image conventionnelle de « Gundam = drame de guerre + musique lourde » à une « chanson de héros que l'on peut entendre dans la musique pop » légèrement plus légère.
+L'apparition de cette chanson a aussi été l'occasion de changer l'image conventionnelle de Gundam = drame de guerre + musique heavy vers une version un peu plus légère d'une chanson de héros que l'on peut entendre dans la musique pop.
 
 De plus, les versions OVA et cinématographiques proposent désormais une plus grande variété de produits musicaux, notamment des chansons thématiques, des chansons insérées, des chansons de personnages et des disques de remix. La musique est passée du statut « exclusif aux œuvres » à celui « exclusif aux marques ».
 
-### 2.3 Accompagnement dramatique, chansons thématiques et chansons insérées : l'évolution des goûts au fil du temps
+### 2.3 Accompagnement dramatique, chanson thème, chanson d'insertion : l'évolution des goûts de l'époque
 
-Au cours de cette période, l'éventail du développement musical s'est considérablement élargi. En plus des chansons thématiques, des chansons d'insertion, des chansons de personnages (chansons chantées sous des noms de personnages), des albums de remix, des albums best-of, des albums live, etc. sont sortis les uns après les autres et la catégorisation des produits musicaux a progressé.
+Au cours de cette période, l'éventail du développement musical s'est considérablement élargi. En plus des chansons thématiques, des chansons d'insertion, des chansons de personnages (chansons chantées sous le nom du personnage), des albums de remix, des meilleurs albums, des albums live, etc. sont sortis les uns après les autres et la catégorisation des produits musicaux a progressé.
 
 L'accompagnement musical (BGM) a également évolué. Il y avait un mouvement croissant pour fusionner audacieusement le piano, les cordes et les synthés, et une forte tendance a émergé du son « champ de bataille » des années 1980 pour exprimer les « sentiments d'un personnage » et la « représentation interne détaillée » à travers le son.
 
@@ -175,7 +175,7 @@ Puisque la série Mobile Suit Gundam est une œuvre qui remet en question la que
 
 Un autre aspect de la musique Gundam est sa relation étroite avec la culture des fans et la culture live. Par exemple, à l'occasion du 30e anniversaire de Gundam, un album intitulé « Gundam Rock » a été sorti, dans lequel des musiciens étrangers ont repris les chansons thématiques de Gundam. Cela montre que la musique a transcendé la production et est devenue une « culture mondiale ».
 
-De plus, les chansons thématiques de Gundam sont toujours incluses dans le répertoire des événements live de chansons d'anime interprétés par des artistes, et le nombre d'expériences où le public chante augmente. De cette manière, la musique s'est transformée en un contenu qui n'est pas seulement quelque chose à « écouter », mais aussi quelque chose à « participer ».
+De plus, les chansons thématiques de Gundam sont toujours incluses dans le répertoire des événements live de chansons d'anime interprétés par des artistes, et le nombre d'expériences où le public chante augmente. De cette manière, la musique s'est transformée en un contenu qui n'est pas seulement quelque chose à « écouter » mais aussi quelque chose à « participer ».
 
 ### 5.2 Gundam comme œuvre musicale : remix, arrangement, édition planifiée
 
@@ -252,13 +252,13 @@ Vous trouverez ci-dessous une section présentant des musiciens/chanteurs repré
 
 Compositeur et producteur qui a dirigé la scène musicale pop japonaise des années 1980 aux années 1990. Il a créé la chanson thème « Beyond the Time ~ Beyond the Mobius Universe ~ » pour « Mobile Suit Gundam : Char's Counterattack » sorti en 1988, créant un tournant dans l'histoire de la musique de Gundam.
 
-- **Neil Sedaka**
+-**Neil Sedaka**
 
 Compositeur/chanteur pop américain. En 1985, il a participé à la composition de la chanson d'ouverture de « Mobile Suit Zeta Gundam », « To the Planet of Water with Love », et constitue une présence significative dans le sens où il a fait appel à un compositeur étranger.
 
-- **DEUX‑MIX**
+- **DEUX‑MÉLANGES**
 
-Une unité pop qui représentait la scène des chansons d'anime à la fin des années 1990. Ils ont attiré l'attention avec la chanson d'ouverture "Just Communication" de "Mobile Suit Gundam W", et ont symbolisé la "pop-isation" de la musique Gundam avec une composition de chanson principalement composée de synth pop.
+Une unité pop qui représentait la scène des chansons d'anime à la fin des années 1990. Ils ont attiré l'attention avec la chanson d'ouverture « Just Communication » de « Mobile Suit Gundam W » et ont symbolisé la « pop-isation » de la musique Gundam avec une composition de chansons centrée sur la synth pop.
 
 -**Hiroko Moriguchi**
 

@@ -13,9 +13,9 @@ title: Tomita – Cosmos
 ---
 
 
-"Cosmos" est l'une des œuvres musicales d'Isao Tomita liées à l'espace. Elle a été composée en combinant la science et la musique pour exprimer le mystère et la grandeur de l'univers, en utilisant pleinement la musique électronique et les synthétiseurs pour exprimer musicalement l'image de l'univers.
+「宇宙幻想」（"Cosmos"）は、冨田勲による宇宙に関連する音楽作品の一つで、宇宙の神秘さや壮大さを科学と音楽を組み合わせ、宇宙のイメージを音楽的に表現するために電子音楽とシンセサイザーを駆使して作曲されました。
 
-"Space Fantasy" est une musique inspirée des étoiles, des galaxies et des planètes de l'univers, et est un album qui met en valeur la technique de synthétiseur et la conception sonore d'Isao Tomita.
+「宇宙幻想」は、宇宙の星々や銀河、惑星などにインスパイアを受けた音楽であり、冨田勲のシンセサイザーのテクニックとサウンドデザインが際立つアルバムです。
 
 #### Liste des chansons
 ```md

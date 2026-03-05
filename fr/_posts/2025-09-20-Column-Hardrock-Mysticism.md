@@ -108,7 +108,7 @@ Dans les temps modernes, la **production de bandes sonores** et la **génératio
 ##FAQ
 
 **Q1 : Quelle est la différence entre le hard rock et le heavy metal ? **
-A1 : Le hard rock est une extension du blues rock et conserve un fort sens du groove et des éléments rock'n'roll. Le heavy metal, en revanche, est plus agressif et a tendance à mettre l'accent sur les riffs et la vitesse.
+A1 : Le hard rock est une extension du blues rock et conserve un fort sens du groove et des éléments rock'n'roll. Le heavy metal, en revanche, est plus agressif et a tendance à mettre l'accent sur les riffs et la vitesse.
 
 **Q2 : Dans quels éléments musicaux spécifiques la pensée orientale apparaît-elle ? **
 A2 : Nous exprimons « l'exotisme » et le « mysticisme » en utilisant des gammes orientales telles que les gammes pentatoniques et les ragas (modes musicaux indiens).

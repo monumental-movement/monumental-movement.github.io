@@ -10,24 +10,23 @@ tags:
 - House
 - Deep House
 - 10s
-title: '[Chronique] Waajeed —— Un créateur qui ne cesse de renouveler la généalogie
-  de Détroit'
+title: 【コラム】 Waajeed —— デトロイトの系譜を継ぎ、更新し続ける創造者
 ---
 
 
 
 ## **Introduction**
 
-Texte : mmr｜Thème : La vie et l'œuvre de Waajeed, et son rôle dans la généalogie de Détroit
+文：mmr｜テーマ：Waajeed の生涯と作品、デトロイトの系譜における役割について 
 
 
-Lorsqu'on évoque l'histoire musicale de Détroit, l'accent est souvent mis sur les géants des débuts de la techno. Cependant, de nombreux artistes ont « réintégré » la **lignée de la musique noire** de la ville - hip-hop, gospel, soul, house, jazz et techno - et l'ont sublimée dans de nouvelles formes d'expression depuis les années 2000.
+デトロイトの音楽史を語るとき、しばしば焦点はテクノ黎明期の巨人たちに置かれる。しかし、都市そのものが持つ **ブラック・ミュージックの血脈**――ヒップホップ、ゴスペル、ソウル、ハウス、ジャズ、そしてテクノへ至る流れ――を “再統合” し、2000年代以降の新しい表現へと昇華させたアーティストの存在は少なくない。
 
-Une personne au centre de tout cela est **Waajeed**.
-Débutant sa carrière dans Slum Village, il a continué à faire de l'esthétique musicale de Détroit une « plateforme de connexion avec le futur » avec Platinum Pied Pipers (PPP), Tiny Hearts et son propre label **Dirt Tech Reck**.
+その中心の一人こそが、**Waajeed（ワジード）** である。
+Slum Village の周辺でキャリアをスタートし、Platinum Pied Pipers（PPP）、Tiny Hearts、そして自身のレーベル **Dirt Tech Reck** を軸に、デトロイトの音楽美学を “未来へ接続するプラットフォーム” として機能させ続けてきた。
 
-Depuis la fin des années 2010, il construit une œuvre qui suit plus directement le flow de la house/techno de Détroit, tout en mettant également au premier plan l’expression des racines noires.
-En particulier, **``Shango EP'' (2017)** et l'un de leurs chefs-d'œuvre actuels, **``Mother EP'' (2018)**, se positionnent comme des œuvres qui présentent fortement la spiritualité et la nature communautaire de la musique de club tout en héritant des traditions de Détroit.
+2010年代後半以降、彼はより直接的に **デトロイト・ハウス／テクノの流れに合流しながらも、ブラック・ルーツの表現を前面に押し出す作品群** を構築。
+特に **『Shango EP』（2017）** と、現段階での代表作の一つである **『Mother EP』（2018）** は、デトロイトの伝統を受け継ぎながら、クラブ・ミュージックの精神性とコミュニティ性を強烈に提示した作品として位置づけられている。
 
 
 ---
@@ -46,186 +45,186 @@ color: #fff;
 </style>
 
 
-# **1. Jeunesse et parcours : Détroit, la « ville des débuts »**
+# **1. 生い立ちと背景：デトロイトという “始まりの都市”**
 
-Waajeed (de son vrai nom Robert O'Bryant) est né à Détroit à la fin des années 1970.
-Le nom de l'artiste est d'origine arabe et dérive d'un mot signifiant « trouver » ou « découvrir ».
+Waajeed（本名 Robert O'Bryant）は、1970年代後半にデトロイトで生まれる。
+アーティスト名はアラビア語に由来し、「見つける」「発見する」という意味を持つ言葉から取られている。
 
-Dès son plus jeune âge, il a grandi dans un environnement influencé par la **culture soul/gospel de Détroit**, et est ensuite entré en contact avec Slum Village.
-À la fin des années 1990 et au début des années 2000, Détroit créait un nouveau standard pour le néo-soul/hip-hop, symbolisé par J Dilla. Waajeed était à l'avant-garde dans ce domaine et, tout en travaillant également comme photographe, il s'est tourné vers la production musicale.
+幼少期から **デトロイトのソウル／ゴスペル文化** に影響を受ける環境に育ち、後に Slum Village と交流を持つようになる。
+1990年代後半から2000年代初頭のデトロイトは、J Dilla が象徴する “ネオソウル／ヒップホップの新基準” を生み出していた。その現場の最前線で、Waajeed はフォトグラファーとしても活動しながら、音楽制作へと傾倒していった。
 
-### ** ● Relation avec le village des bidonvilles **
+### **● Slum Village との関係**
 
-* Impliqué en tant que personnel périphérique du groupe
-* Interagissez avec les membres T3 et Baatin
-* Directement influencé par la créativité de J Dilla
+* グループの周辺スタッフとして関わる
+* メンバーの T3、Baatin と交流
+* J Dilla の創造性から直接的な影響を受ける
 
-Ce que Waajeed a absorbé ici, c'était bien plus que la simple création de beats.
-**L'attitude est de « réaliser l'héritage de la musique noire comme une « réinvention » pour l'ère moderne. »**
-
----
-
-# **2. Période PPP (Platinum Pied Pipers) : Un nouveau point de connexion entre hip-hop et soul**
-
-Au début des années 2000, Waajeed et Saadiq ont formé **Platinum Pied Pipers (PPP)**.
-Il s'agit d'un projet qui fusionne organiquement le hip-hop, le R&B, la soul et la beat music, et qui a acquis une renommée mondiale alors qu'il est basé à Détroit.
-
-### **2005 « Triple P »**
-
-* Le premier album de PPP
-* Avec Georgia Anne Muldrow, Tiombe Lockhart, Saadiq et plus
-* Considérée comme l'une des « œuvres les plus radicales et les plus chaleureuses » dans le contexte de la néo-soul et du hip-hop de l'époque.
-* Une œuvre importante qui a fait connaître l'esthétique de la musique noire de Détroit à l'échelle internationale.
-
-Au cours de cette période, Waajeed a brouillé les frontières entre l'échantillonnage et la musique live et s'est orienté vers la création d'un style « soul futuriste » qui n'était pas de la musique de club. **
-
-PPP était l'un des projets les plus emblématiques de Détroit dans les années 2000 et a constitué la base de la carrière de Waajeed.
+ここで Waajeed が吸収したのは、単なるビートメイクにとどまらず――
+**「ブラック・ミュージックの継承を、現代における“再発明”として実行する」という姿勢** である。
 
 ---
 
-#**3. Création et mission du label Dirt Tech Reck**
+# **2. PPP（Platinum Pied Pipers）期：ヒップホップとソウルの新しい接続点**
 
-En 2012, Waajeed a lancé son propre label **Dirt Tech Reck**.
-Comme l’indiquent les trois mots « Dirt », « Tech » et « Reck »,
+2000年代初頭、Waajeed は Saadiq と共に **Platinum Pied Pipers（PPP）** を結成。
+これは、ヒップホップ、R&B、ソウル、ビートミュージックを有機的に融合したプロジェクトであり、デトロイトを拠点としながら世界的な評価を獲得した。
 
-* **DIRT de la culture de rue**
-* **L'avenir de la techno TECH**
-* **RECK (enregistrement) de la culture de l'enregistrement**
+### **2005年『Triple P』**
 
-L’intention est de les intégrer.
+* PPP のデビューアルバム
+* Georgia Anne Muldrow、Tiombe Lockhart、Saadiq などが参加
+* 当時のネオソウル、ヒップホップの文脈の中で “最も先鋭的かつ温度のある作品” のひとつと評価される
+* デトロイトのブラック・ミュージック美学を国際的に知らしめた重要作
 
-Ce qui rend Dirt Tech Reck unique, c'est qu'il va au-delà de la simple gestion d'un label.
-Il fonctionne comme une plateforme d’autonomie culturelle pour les artistes noirs.
+この時期の Waajeed は、**サンプリングと生演奏の境界を曖昧にし、クラブミュージックではない “未来系ソウル” を構築する方向に向かっていた。**
 
-De nombreuses versions comportent les éléments suivants :
-
-* Un son ancré à Détroit
-* Récit de la communauté noire et origine sociale
-* Le lien entre la piste de danse et la spiritualité
-* Structure qui croise le hip-hop, la house et la techno
-
-À partir de là, Waajeed entrera dans un domaine différent de la période PPP.
-**Déplacer l'attention vers le contexte de la musique de club. **
+PPP は2000年代のデトロイトを象徴するプロジェクトの一つであり、その後の Waajeed のキャリアの基盤を形作っていった。
 
 ---
 
-# **4. « Shango EP » (2017) : Rituel house/techno qui marque un tournant**
+# **3. レーベル Dirt Tech Reck の設立とミッション**
+
+2012年、Waajeed は自身のレーベル **Dirt Tech Reck（ダート・テック・レック）** を立ち上げる。
+“Dirt” “Tech” “Reck” の三語が示すように、
+
+* **ストリート文化の DIRT**
+* **テクノの未来性 TECH**
+* **レコーディング文化の RECK（record）**
+
+これらを一体化させるという意図がある。
+
+Dirt Tech Reck の特徴は、単なるレーベル運営に留まらず、
+**黒人アーティストによる文化的自治のプラットフォーム** として機能している点である。
+
+リリースの多くが次の要素を備えている：
+
+* デトロイトに根ざしたサウンド
+* ブラック・コミュニティの語りと社会的背景
+* ダンスフロアとスピリチュアリティの結びつき
+* ヒップホップ、ハウス、テクノを横断する構造
+
+ここから Waajeed は、PPP 期とは異なる領域――
+**クラブミュージックの文脈へ重心を移していく。**
+
+---
+
+# **4. 『Shango EP』（2017）：転換点となった儀式的ハウス／テクノ**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-LjbPYu32M?si=aO6LKbWEhxg-wsDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Sorti en 2017, **Shango EP** a marqué un tournant important dans la carrière de Waajeed.
+2017年に発表された **『Shango EP』** は、Waajeed のキャリアにおける重大なターニングポイントである。
 
-Le titre **« Shango »** est une divinité qui apparaît dans la religion traditionnelle ouest-africaine et est un symbole qui relie la spiritualité de la diaspora afro à l'histoire de la musique noire.
+タイトルの **“Shango（シャンゴ）”** は西アフリカの伝統宗教に登場する神格であり、アフロ・ディアスポラの精神性とブラック・ミュージックの歴史を結びつける象徴である。
 
-Sur cet EP, Waajeed :
+この EP で Waajeed は：
 
-* Structure house/techno beat de Détroit
-* Percussions afro
-* Appel spirituel noir
-* Nature rituelle des sons bruts et du rythme
+* デトロイト・ハウス／テクノのビート構造
+* アフロパーカッション
+* ブラック・スピリチュアルなコール
+* 生音とリズムの儀式性
 
-Il a clairement orienté le groupe vers « une représentation de la house/techno comme un retour à l'esprit du black art » en les fusionnant.
+を融合し、“ハウス／テクノをブラック・アートの精神の帰還として再提示” する方向へ明確に舵を切った。
 
-**Plutôt que d'être une extension de l'ère PPP et hip-hop, cette œuvre présente une nouvelle phase de la musique de Détroit** et a reçu des éloges dans le monde entier.
+**PPP やヒップホップ期の延長線ではなく、デトロイト・ミュージックの新しい局面を提示した作品** として、世界的に高い評価を得ることになる。
 
 ---
 
-#**5. « Mother EP » (2018) : Fusion de spiritualité, de clubbing et de noirceur**
+# **5. 『Mother EP』（2018）：精神性・クラブ・ブラックネスの融合**
 
-**Mother EP (2018)** est largement reconnu comme le chef-d'œuvre de Waajeed.
-Le thème de cette œuvre n'est pas seulement la house/techno, mais la musique de club en tant qu'archive de la mémoire et de la spiritualité de la communauté noire.
+ **『Mother EP』（2018）** は、Waajeed の代表作として広く認識されている。
+この作品は単なるハウス／テクノではなく、**ブラック・コミュニティの記憶と精神性のアーカイブとしてのクラブミュージック** をテーマにしている。
 
 ### Caractéristiques
 
-*Influence de l'Évangile de Détroit
-* Voix soul
-* Battement lourd et dynamique
-* Image sonore afro-futuriste
-* Repenser la culture communautaire qui symbolise la « maternité »
+* デトロイトのゴスペルの影響
+* ソウルフルなヴォーカル
+* 重厚かつ躍動的なビート
+* アフロ・フューチャリズム的な音像
+* “母性” を象徴とするコミュニティ文化の再考
 
-Il a une structure beaucoup plus linéaire et orientée dancefloor que le beatmaking des époques PPP et hip-hop, mais il a aussi une claire expression émotionnelle des racines noires.
-Il se trouve dans une position que l'on peut appeler **"la destination esthétique de Dirt Tech Rec"**.
+PPP やヒップホップ期のビートメイクよりも、はるかに **直線的でダンスフロアに向けた構造** を持ちながら、ブラック・ルーツの感情表現が明確であり、
+**“Dirt Tech Reck の美学の到達点”** と呼べる位置にある。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P2WNtZ1FpBw?si=BoNMZgbd5dG3E_Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#**6. Attitude de production : un praticien redéfinit Détroit**
+# **6. 制作姿勢：デトロイトを再定義する実践者**
 
-Pour résumer l'approche de production de Waajeed, les trois points suivants sont centraux.
-
----
-
-## **① Hériter et recréer le patrimoine de Détroit**
-
-* Influencé par J Dilla
-* Évangile/Tradition de l'âme
-* Esthétique hip hop
-* L'avenir de la techno
-
-Plutôt que de les fragmenter, ils sont intégrés comme « la mémoire musicale de la ville de Détroit elle-même ».
+Waajeed の制作姿勢を総括すると、以下の３点が軸になっている。
 
 ---
 
-## **② Production communautaire**
+## **① デトロイトの遺産の継承と再創造**
 
-Après la période Dirt Tech Reck, Waajeed a commencé à considérer la musique non pas comme un « art personnel », mais
-**Il existe une forte volonté de le faire fonctionner comme un dispositif culturel au sein de la communauté locale. **
+* J Dilla からの影響
+* ゴスペル／ソウルの伝統
+* ヒップホップの美学
+* テクノの未来性
 
-* Implication dans des projets pédagogiques
-* Développer les jeunes créateurs à Détroit
-* Une tentative de graver l'histoire de la communauté dans la musique
-
----
-
-## **③ Reconnecter avec la spiritualité noire**
-
-Surtout depuis l’EP Shango, la spiritualité de la diaspora afro est devenue un élément important.
-
-*Appel et réponse
-* Percussions rituelles
-* Expression évangélique
-* Rythme de transe
-
-Ce sont des actes qui représentent « d'où viennent la house/techno ».
+これらを断片化するのではなく、**“デトロイトという都市そのものの音楽的メモリ”** として統合している。
 
 ---
 
-#**7. Analyse des principales caractéristiques et musicalité de l'œuvre**
+## **② コミュニティに根ざした制作**
 
-### **■ Rythme et percussions**
+Dirt Tech Reck 期以降の Waajeed は、音楽を“個人的な芸術”ではなく、
+**地域社会における文化装置として機能させる姿勢が強い。**
 
-Les rythmes de Waajeed cohabitent avec la « dureté » et le « swing brut »,
-Ils apprécient davantage le **groove de la musique de danse noire** que le minimalisme de la techno.
-
-### **■ Voix et chœurs**
-
-Depuis la période PPP, il y a eu beaucoup de traitements vocaux de type gospel.
-Ceci est encore plus prononcé sur Mother, donnant au morceau du club une profondeur émotionnelle.
-
-### **weight Hybride de son live et de son électronique**
-
-La technique consistant à mélanger naturellement synthés, pads, piano électrique, batterie live, percussions, etc. est aussi le résultat de « l'entraînement de l'oreille » de l'ère hip-hop.
+* 教育プロジェクトへの関与
+* デトロイトの若いクリエイターの育成
+* コミュニティの歴史を音楽に刻む試み
 
 ---
 
-#**8. Discographie (œuvres principales)**
+## **③ ブラック・スピリチュアリティの再接続**
 
-(*Pas de liens externes, seulement des faits)
+『Shango EP』以降は特に、アフロ・ディアスポラの精神性が重要な要素となっている。
+
+* コール＆レスポンス
+* 儀式的パーカッション
+* 福音的表現
+* トランス性のあるリズム
+
+これらは “ハウス／テクノがどこから来たか” を再提示する行為でもある。
+
+---
+
+# **7. 作品の主な特徴と音楽性の分析**
+
+### **■ リズムとパーカッション**
+
+Waajeed のビートは “硬さ” と “生の揺れ” が共存しており、
+テクノのミニマリズムよりも **ブラック・ダンスミュージックのグルーヴ** を重視している。
+
+### **■ ヴォーカルとコーラス**
+
+PPP 期から一貫して、ゴスペル的なヴォーカル処理が多い。
+『Mother』ではこれがより強調され、クラブトラックに感情的な深みを与えている。
+
+### **■ 生音と電子音のハイブリッド**
+
+シンセ、パッド、エレピ、生ドラム、パーカッションなどを自然に溶け合わせる技術は、ヒップホップ時代の“耳の訓練”の成果でもある。
+
+---
+
+# **8. ディスコグラフィ（主要作品）**
+
+（※外部リンクなし・事実のみ）
 
 * **PPP『Triple P』(2005)**
-* **PPA『Abondance』(2009)**
-* **« La guerre LP » (2012)**
+* **PPP『Abundance』(2009)**
+* **『The War LP』(2012)**
 * **『Shango EP』(2017)**
-* **『De la saleté』(2017)**
-* **« Ten Toes Down EP » (2018)**
-* **« Mère » (2022)**
+* **『From The Dirt』(2017)**
+* **『Ten Toes Down EP』(2018)**
+* **『Mother』(2022)**
 
 ---
 
-#**9. Chronologie (Chronologie)**
+# **9. 年表（タイムライン）**
 
 <div class="mermaid">
 timeline
@@ -244,7 +243,7 @@ timeline
 
 ---
 
-#**10. Structure de travail/généalogie**
+# **10. 作品構造・系譜図**
 
 <div class="mermaid">
 graph TD

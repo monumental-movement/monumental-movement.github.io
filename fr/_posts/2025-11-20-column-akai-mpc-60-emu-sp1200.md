@@ -75,7 +75,7 @@ Entre le milieu et la fin des années 1980, les prix des mémoires à semi-condu
 * **Principales caractéristiques** : séquenceur 8 pistes, filtre (analogique), sorties individuelles
 
 **Philosophie et fonctionnalités de conception**
-Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et de la documentation technique d'E-mu de l'époque, nous pouvons confirmer que le chemin A/D et la conception du filtre du SP-1200 contribuent à sa coloration acoustique.
+Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et des documents techniques d'E-mu de l'époque, il peut être confirmé que le chemin A/D et la conception du filtre du SP-1200 contribuent à la coloration acoustique.
 
 **Utilisation pratique**
 
@@ -162,7 +162,7 @@ Dans la section d'analyse technique, la réponse en fréquence générale des é
 
 ### 7.1 Rôle du SP-1200 dans le Hip Hop
 
-Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient réalisé des échantillons de type SP.
+Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient effectué des échantillons de type SP.
 
 ### 7.2 Relation entre R&B et MPC
 
@@ -198,7 +198,7 @@ flowchart TD
 
 ## Chapitre 9 : UI/UX et instrumentation — Mise en place d'une démarche de performance à l'aide de MPC
 
-La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d'improviser, et son utilisation dans les performances live et les sessions impromptues s'est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l'accent sur le sens humain de la performance) et de la conception des produits d'Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.
+La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d'improviser, et son utilisation dans les performances live et les sessions impromptues s'est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l'accent sur le sens humain du jeu) et de la conception des produits d'Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.
 
 ---
 
@@ -210,14 +210,14 @@ Depuis les années 2010, le nombre de plug-ins et de produits de reproduction ma
 
 ## Chapitre 11 : Matériaux/Références
 
-* Manuel d'entretien E-mu SP-1200 (Spécifications techniques)
+* Manuel de service E-mu SP-1200 (Spécifications techniques)
 * Manuel d'utilisation Akai MPC60 (manuel du produit)
 * Magazine de technologie musicale de l'époque (numéro 1987-1995)
 * Interviews de producteurs (Pete Rock, DJ Premier, Dr. Dre, etc.)
 
 ---
 
-## Chapitre 12 : Résumé et perspectives
+## Chapitre 12 : Résumé et perspectives
 
 L'échantillonneur 12 bits est un excellent exemple de la façon dont les contraintes techniques peuvent conduire à l'ingéniosité. Le SP-1200 et le MPC60 sont allés plus loin que de simples outils et sont devenus l'expression musicale d'une époque particulière. Dans l'environnement de production actuel, il existe de nombreuses façons de recréer intentionnellement du « lo-fi » et du « grain », mais lorsque vous retrace leurs racines, vous revenez toujours à ces appareils.
 
@@ -445,7 +445,7 @@ graph LR
 
 ---
 
-### Ajout 2 : Concept de courbe de filtre SP-1200
+### Ajout 2 : Concept de courbe de filtre SP-1200
 
 <div class="mermaid">
     

@@ -207,7 +207,7 @@ L'hybridation des mouvements sociaux et des événements musicaux (soirées de c
 
 **Conversion d'espace** : Entrepôt/ruines/rue → club/site (problèmes de construction illégale, de bruit et d'occupation).
 
-**Périphérie économique** : Friction entre la distribution informelle (démarrage, mixage, vente manuelle) et le régime du droit d'auteur.
+**Périphérie économique** : Friction entre la distribution informelle (démarrage, mixage, vente manuelle) et le régime du droit d'auteur.
 
 **Techniques physiques** : mouvements qui semblent violents/obscènes à l'extérieur, tels que le moshing, le break et les liquidations.
 
@@ -252,3 +252,13 @@ L'hybridation des mouvements sociaux et des événements musicaux (soirées de c
 
 La relation entre la musique et les hors-la-loi n’est pas une glorification du crime. Il s’agit plutôt d’une visualisation de la dynamique du pouvoir de « qui, quoi et comment appeler la déviance » et en même temps d’une histoire de la créativité de la périphérie.
 Du rockabilly dans les années 1950 au micro-rave dans les années 2020, la musique a bousculé les normes, assoupli les rigidités sociales et expérimenté de nouvelles sensibilités du public. Bien que leur nature hors-la-loi soit dangereuse, les rythmes qui jaillissent de cette étincelle façonnent souvent le prochain mouvement mainstream – à tout moment.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEnLWtS3zcg?si=hjIeAyjhO4sw8kiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

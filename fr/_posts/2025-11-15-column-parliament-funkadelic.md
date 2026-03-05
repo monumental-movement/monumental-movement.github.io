@@ -22,7 +22,7 @@ title: '[Chronique] Parlement / Funkadelic : Toute l''histoire de la révolution
 Texte : mmr｜Thème : À propos de la vision du monde du P-Funk, qui existe toujours comme fondement du hip-hop, du R&B, de l'électro, de l'art et de la mode actuels.
 
 
-Dans l'histoire de la musique noire américaine de la seconde moitié du XXe siècle, **Parliament/Funkadelic (communément appelé P-Funk)** est le groupe qui combine le plus grand mythe et l'innovation sonore.
+Dans l'histoire de la musique noire américaine de la seconde moitié du XXe siècle, **Parliament/Funkadelic (communément appelé P-Funk)** est le groupe qui combine la plus grande mythologie et innovation sonore.
 Dirigé par George Clinton, ce collectif était plus qu'un simple groupe, c'était un projet gigantesque mêlant une histoire multivers, une sensibilité technologique futuriste et les rythmes profondément physiques du funk.
 
 Le P-Funk devient clair lorsqu’on le comprend en fonction des trois axes suivants.
@@ -84,7 +84,7 @@ Après la gifle de Larry Graham, le funk est rapidement devenu plus rythmé, mai
 * **Appel et réponse de l'Évangile de l'Église noire**
 * **Paroles avec de fortes critiques politiques**
 
-En particulier, on se souvient de "Maggot Brain" de 1971 pour le solo de guitare de plus de 10 minutes d'Eddie Hazell.
+En particulier, "Maggot Brain" de 1971 est célèbre pour le solo de guitare de plus de 10 minutes d'Eddie Hazell.
 Il a été décrit comme « l’incarnation musicale de la tristesse et de la colère noires ».
 
 ---
@@ -120,7 +120,7 @@ Ce qui rend P-Funk unique n'est pas seulement la force de son groove, mais aussi
 ### ■ 1. « Rubber Bass » de Bootsy Collins
 
 * Rebond d'octave
-* Nori décontracté
+* Ura nori décontracté
 * Utilisation intensive de la syncope
 *Utilisation de la distorsion et de l'Auto-Wah
 
@@ -130,7 +130,7 @@ La batterie de Jerome "Bigfoot" Braley et d'autres présente les caractéristiqu
 
 * Grosse caisse minimale
 * La caisse claire est profonde et arrière
-*Le charley a un peu de mélange
+*Le charley a un peu de remaniement
 
 En conséquence, le rythme donne l'impression d'avancer tout en flottant.
 
@@ -145,7 +145,7 @@ En conséquence, le rythme donne l'impression d'avancer tout en flottant.
 * Accent pointu à la James Brown
 * Mais il a plus de jeu que JB et plus d'harmonie que l'unisson.
 
-### ■ 5. Futur son du synthétiseur
+### ■ 5. Les futurs sons des synthétiseurs
 
 Le Minimoog de Barney Worrell a apporté pour la première fois des « sons électroniques cosmiques » à la musique noire.
 **L'origine du hip-hop, du G-funk et de l'électro**.
@@ -200,7 +200,7 @@ P-Funk a laissé trois impacts majeurs sur la culture noire.
 
 ### ■ (1) Expansion de l'expression de science-fiction noire (Afrofuturisme)
 
-Avec Sun Ra, P-Funk a créé une fondation culturelle pour l'avenir des Noirs.
+Avec Sun Ra, P-Funk a créé une fondation culturelle pour l’avenir noir.
 
 ### ■ (2) Réévaluation à travers le hip-hop
 
@@ -286,7 +286,7 @@ Tant que P-Funk restera au centre d’une musique noire qui parle du futur, leur
 
 ---
 
-### Annexe : Composition live (carte de reproduction du Mothership Tour de 1976)
+### Annexe : Composition live (schéma de reproduction du Mothership Tour de 1976)
 
 <div class="mermaid">
 flowchart TD

@@ -53,7 +53,7 @@ La structure la plus basique consiste à placer le coup de pied sur les 1er et 3
 
 La conception d’accents n’exige pas que toutes les notes soient jouées avec la même intensité. En rendant simplement le premier temps du coup de pied le plus fort et le troisième un peu plus faible, vous pouvez créer une impression d'avant et d'arrière dans l'écoulement du temps.
 
-### Cas : Correction d'un rythme fort et rythme fort décalé
+### Cas : rythme fort corrigé et rythme fort décalé
 
 * Battement fort fixe : les 1er et 3ème battements sont toujours à l'intensité maximale
 * Fort décalage de battement : 1er battement maximum, 3e battement supprimé
@@ -166,17 +166,17 @@ En réorganisant les boucles existantes, vous pouvez redessiner la structure tou
 
 ### Cas : Reconstruction complète de l'étape
 
-En l'organisant à partir de zéro, la structure temporelle reflète purement le concept de design.
+En l'organisant à partir de zéro, la structure temporelle reflète purement la philosophie du design.
 
 > L'idée de conception rythmique change selon qu'elle est axée sur le matériau ou sur la structure.
 
 ---
 
-## Chapitre 9 : Perception des boucles et temps psychologique
+## Chapitre 9 : Perception des boucles et temps psychologique
 
 Même les boucles courtes changent de longueur de manière perceptuelle.
 
-### Cas : Obfuscation du terminal
+### Cas : obscurcissement de la terminaison
 
 En affaiblissant la dernière note de la boucle, on ne sent plus le break.
 
@@ -202,7 +202,7 @@ Accent mis sur les backbeats et les fluctuations dérivées des échantillons. L
 
 Complexité structurelle et conception asymétrique. Les décalages dans les périodes et les signatures rythmiques irrégulières perturbent la notion du temps.
 
-> Genre est une collection d'idées de conception de rythme.
+> Un genre est une collection d'idées de conception rythmique.
 
 ---
 
@@ -249,7 +249,7 @@ Même avec les mêmes 16 pas, si votre point de départ est différent, la textu
 * Années 1960 : Introduction du temps mécanique
 * Années 1970 : Mise en place d'une structure répétitive
 * Années 1980 : Vulgarisation de la conception en 16 étapes
-* Années 1990 : désalignement et sensation humaine
+* Années 1990 : désalignement et sentiment humain
 * Années 2000 : abstraction logicielle
 * Années 2010 et au-delà : le design comme esthétique
 
@@ -311,7 +311,7 @@ Un type n’est pas meilleur que l’autre. L’important est d’être conscien
 
 La programmation rythmique ne consiste pas à arranger les sons. Il s’agit de concevoir une expérience basée sur la façon dont la perception auditive du temps est perçue.
 
-Même si la technologie évolue, cette essence reste la même. Le rythme n'est pas le son joué, mais plutôt la structure elle-même, y compris le moment où il n'est pas joué.
+Même si la technologie évolue, cette essence reste la même. Le rythme n’est pas le son joué, mais la structure elle-même, y compris le temps qui n’est pas joué.
 
 > La programmation rythmique est l'idée de concevoir un temps où l'on n'entend pas.
 

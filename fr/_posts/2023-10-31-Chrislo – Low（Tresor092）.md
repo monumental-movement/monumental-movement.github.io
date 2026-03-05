@@ -9,11 +9,11 @@ permalink: /fr/chrislo-low-tresor092/
 tags:
 - Techno
 - Mix
-title: Chrislo – Faible (Tresor092)
+title: Chrislo – Low（Tresor092）
 ---
 
 
-Chrislo Haas est un musicien allemand qui a eu une influence majeure sur la scène musicale allemande dans les années 1980 grâce à sa production de synthétiseurs (Korg MS-20) avec des groupes tels que Minus Delta t, D.A.F., CHBB/Liaisons Dangereuses et Crime & the City Solution, et est considéré comme l'un des fondateurs de la techno et de la dance music électronique moderne.
+Chrislo Haas（クリスロ・ハース/クリス・ハースは、ドイツ出身のミュージシャンで、Minus Delta t、D.A.F.、CHBB/Liaisons Dangereuses、Crime & the City Solution などのバンドとのシンセサイザー (Korg MS-20)の制作を通じて、1980 年代のドイツの音楽シーンに大きな影響を与え、テクノと現代のエレクトロニックダンスミュージックの創始者の一人とみなされています。
 
 #### Liste des chansons
 ```md

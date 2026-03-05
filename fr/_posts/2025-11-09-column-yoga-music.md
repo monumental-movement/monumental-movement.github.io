@@ -89,21 +89,21 @@ Au début du XXe siècle, la musicothérapie a commencé à attirer l’attentio
 
 ### Naissance de la musique new age
 
-Depuis les années 1970, la musique new age à des fins de méditation et de guérison est apparue. Des chansons utilisant des synthétiseurs et des sons naturels ont été incorporées aux asanas du yoga et à la méditation, apportant ainsi une profondeur spirituelle. La combinaison du yoga et de la musique a été établie comme une approche intégrée qui favorise la santé, la spiritualité et la croissance personnelle.
+Depuis les années 1970, la musique new age à des fins de méditation et de guérison est apparue. Des chansons utilisant des synthétiseurs et des sons naturels ont été incorporées aux asanas du yoga et à la méditation, apportant ainsi une profondeur spirituelle. La combinaison du yoga et de la musique a été établie comme une approche intégrée visant à promouvoir la santé, la spiritualité et la croissance personnelle.
 
 ---
 
 ## Chapitre 3 : Yoga moderne et musique {#chapter3}
 
-Au 21e siècle, le yoga est devenu très populaire dans le monde entier. Il est intégré dans la vie quotidienne via des studios urbains et des services en ligne. La musique soutient le rythme de la respiration et du mouvement et favorise la concentration et la relaxation.
+Au 21ème siècle, le yoga est devenu très populaire dans le monde entier. Il est intégré dans la vie quotidienne via des studios urbains et des services en ligne. La musique soutient le rythme de la respiration et du mouvement et favorise la concentration et la relaxation.
 
 ### Utilisation de la musique de fond en studio
 
-Dans les studios de yoga modernes, le choix de la musique d’ambiance influence l’ambiance du cours. Des sons ambiants doux et naturels aident les débutants à se concentrer sur leur respiration et à soulager les tensions psychologiques. Pour les flux dynamiques tels que le vinyasa yoga, une musique rythmée avec un tempo et des chansons avec des basses fortes conviennent.
+Dans les studios de yoga modernes, le choix de la musique d’ambiance influence l’ambiance du cours. Des sons ambiants doux et naturels permettent aux débutants de se concentrer plus facilement sur leur respiration et de soulager les tensions psychologiques. Pour les flux dynamiques tels que le vinyasa yoga, une musique rythmée avec un tempo et des chansons avec des basses fortes conviennent.
 
 ### Fusion avec EDM, Lo-Fi, Ambient
 
-Ces dernières années, les tentatives visant à combiner la musique EDM, Lo-Fi et Ambient avec le yoga se sont également multipliées. Le hip-hop Lo-Fi, en particulier, combine des rythmes apaisants avec des sons ambiants pour créer un espace propice à la méditation ou aux poses statiques.
+Ces dernières années, les tentatives visant à combiner la musique EDM, Lo-Fi et Ambient avec le yoga se sont également multipliées. Le hip-hop Lo-Fi en particulier combine des rythmes apaisants avec des sons ambiants pour créer un espace propice à la méditation ou aux poses statiques.
 
 ### Trinité de la respiration, du mouvement et de la musique
 

@@ -68,7 +68,7 @@ En d’autres termes, la musique d’ambiance n’est pas une musique de fond, m
 
 ---
 
-**• Années 1980-1990 : Fusion avec la musique électronique**
+** ● Années 1980-1990 : Fusion avec la musique électronique**
 
 [Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：ジャーマン・エレクトロニクスとの融合。
 
@@ -168,9 +168,9 @@ Musique d'ambiance pour la relaxation et la méditation.
 
 ### Ambient est un art spatial
 
-La musique d’ambiance n’est pas seulement une musique de fond, elle est également profondément liée aux idées et concepts artistiques suivants.
+La musique d’ambiance n’est pas seulement une musique de fond, mais est également profondément liée aux idées et concepts artistiques suivants.
 
-** ● Minimalisme et art du temps **
+** ● Minimalisme et Time Art **
 
 La musique d'ambiance met l'accent sur le « calme », « l'espace vide » et la « durabilité ».
 

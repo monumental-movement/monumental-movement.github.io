@@ -130,7 +130,7 @@ La philosophie de TOPLAP « ouvrir le processus » est
 Lorsque l'IA rejoint cette culture,
 Nous devons résister à la « boîte noire ».
 
-Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision doivent également être rendus publics.
+Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision devraient également être rendus publics.
 C’est la clé pour ouvrir l’avenir de la musique algorithmique.
 
 ---
@@ -144,7 +144,7 @@ L'IA improvise des centaines de modèles sonores.
 Le fait de sélectionner et d'éditer à partir de là est en soi une « performance ».
 
 De plus, en intégrant l'environnement Live Coding à l'IA,
-Il est également possible qu'elle devienne une "interface invite = performances".
+Il est également possible qu'elle devienne une "interface invite = performance".
 Plus besoin de souris ou de MIDI.
 **L'ère où le langage et les pensées elles-mêmes deviennent des sons** arrive.
 

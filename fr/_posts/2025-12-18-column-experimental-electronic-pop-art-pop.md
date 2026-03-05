@@ -57,9 +57,9 @@ Ce changement a entraîné les caractéristiques structurelles suivantes.
 
 * Hauteur et rythme non fixes
 * Structure basée sur des unités acoustiques plutôt que sur des unités de phrases
-* Intégrer les imprévus et les erreurs
+* Intégration des imprévus et des erreurs
 
-La Pop/Art Pop électronique expérimentale utilise activement ces caractéristiques.
+La Pop électronique expérimentale/Art Pop utilise activement ces caractéristiques.
 
 ---
 
@@ -131,7 +131,7 @@ Dans les chansons d'Arca, le timbre ne reste pas stable. Des tensions, des déch
 
 * Modulation extrême des basses
 * Insertion de bruit haute fréquence
-* Commutation rapide des changements de volume
+* Changement soudain de volume
 
 Ceux-ci sont utilisés pour perturber intentionnellement la continuité musicale.
 

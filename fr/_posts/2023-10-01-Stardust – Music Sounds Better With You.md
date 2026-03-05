@@ -13,7 +13,7 @@ title: Stardust – La musique sonne mieux avec vous
 ---
 
 
-Stardust est une unité composée de Thomas Bangalter (Daft Punk), du DJ Alan Braxe et de Benjamin Diamond.
+Stardust est une unité composée de Thomas Bangalter (Daft Punk), DJ Alan Braxe et Benjamin Diamond.
 
 "Music Sounds Better With You", sorti en 1998, échantillonne "Fate" de Chaka Khan et est la seule chanson de Stardust.
 

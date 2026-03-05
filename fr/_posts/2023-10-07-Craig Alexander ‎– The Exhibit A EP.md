@@ -19,7 +19,7 @@ Mon amour pour la musique a commencé au début des années 80 lorsque je l'ai e
 
 Il a commencé par promouvoir des soirées avec Ron Hardy au légendaire club AKA's, mais il a rapidement commencé à se produire lui-même en tant que disc-jockey, et de nombreuses personnes ayant entendu ses sets ont commencé à lui proposer des concerts en tête d'affiche.
 
-Il a joué avec de nombreux artistes dont Glenn Underground, Paul Johnson, DJ Rush, Lil Louis et Thomas Bangalter (Daft Punk).国々に連れて行きました。また、彼は2012年に「Oblique Records Digital」を再び立ち上げました
+Il a joué avec de nombreux artistes dont Glenn Underground, Paul Johnson, DJ Rush, Lil Louis et Thomas Bangalter (Daft Punk). Son parcours musical l'a conduit dans de nombreux pays différents, dont la France, la Suisse et l'Allemagne. Il a également relancé « Oblique Records Digital » en 2012.
 
 #### Liste des chansons
 ```md

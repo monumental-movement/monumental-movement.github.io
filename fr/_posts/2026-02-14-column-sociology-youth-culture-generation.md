@@ -71,7 +71,7 @@ Ceux qui sont familiers avec la culture musicale expérimentale et contestataire
 
 ## Chapitre 3 : Effets sur la conscience politique et la participation sociale
 
-Les recherches qui analysent la relation avec la conscience politique montrent que les personnes qui écoutaient de la musique avec des messages sociaux forts lorsqu'elles étaient jeunes avaient tendance à avoir des taux de vote et une participation aux mouvements sociaux plus élevés à l'âge adulte. L’étude est décomposée par génération et comparée sur plusieurs décennies.
+Les recherches analysant la relation avec la conscience politique montrent que les personnes qui écoutaient de la musique avec des messages sociaux forts lorsqu'elles étaient jeunes avaient tendance à avoir des taux de vote et de participation aux mouvements sociaux plus élevés à l'âge adulte. L’étude est décomposée par génération et comparée sur plusieurs décennies.
 
 D’un autre côté, ceux qui connaissent une culture musicale qui met l’accent sur le divertissement et l’individualisme sont plus susceptibles d’exprimer leurs valeurs à travers un comportement de consommation et un mode de vie plutôt que par une participation politique institutionnelle.
 
@@ -81,7 +81,7 @@ Il est important que la musique joue un rôle dans l’apprentissage des formes 
 
 ---
 
-## Chapitre 4 : Analyse du genre ① Rock
+## Chapitre 4 : Analyse par genre ① Rock
 
 Le rock est fortement associé à la culture des jeunes depuis les années 1950. La génération qui écoutait principalement de la musique rock dans sa jeunesse a tendance à considérer positivement l’expression de soi et les attitudes anti-autorité.
 
@@ -91,7 +91,7 @@ Des études à long terme ont montré que ce groupe est plus susceptible d'expri
 
 L'influence du rock est plus apparente entre 15 et 22 ans. Cet âge est une étape dans laquelle le développement personnel et la remise en question des normes sociales progressent simultanément, et l'attitude anti-autoritaire et le vocabulaire d'expression de soi présentés par Locke sont susceptibles d'être liés au développement de la personnalité.
 
-> Locke fonctionnait comme une culture qui enseignait aux gens la validité de l'affirmation de soi.
+> Locke fonctionnait comme une culture qui enseignait la validité de l'affirmation de soi.
 
 ---
 
@@ -127,7 +127,7 @@ La musique pop est la culture la plus largement partagée et fonctionne comme un
 
 ### Tranche d'âge ayant le plus grand impact
 
-L'influence de la pop est la plus grande entre 12 et 18 ans. À une époque où la vie scolaire et les relations avec les pairs sont centrales, les succès courants jouent le rôle de ciment social.
+L'influence de la pop est à son maximum entre 12 et 18 ans. À une époque où la vie scolaire et les relations avec les pairs sont centrales, les succès communs agissent comme un ciment social.
 
 > La pop joue le rôle de bâtisseur d'un terrain commun générationnel.
 
@@ -165,7 +165,7 @@ Pourtant, il s’est confirmé que la génération familière avec le rock et la
 
 Depuis les années 2000, à mesure que le système est devenu plus fluide, la relation entre les goûts musicaux et les visions du travail est devenue évidente. Ceux qui connaissent la musique sous-culturelle sont plus susceptibles d’être indépendants ou d’avoir plusieurs emplois.
 
-### Branche de J-POP/Subculture/Club Culture
+### Branchement de la J-POP/Subculture/Club Culture
 
 Depuis les années 2000 au Japon, les expériences musicales des jeunes se divisent largement en trois catégories. La J-POP constitue toujours un terrain d’entente générationnel et est partagée dans les contextes scolaires et médiatiques. D’un autre côté, la musique sous-culturelle liée à l’anime et à la culture Internet a joué un rôle dans l’intériorisation forte des goûts et des préférences individuels.
 
@@ -214,7 +214,7 @@ Ce que montrent les données empiriques n’est pas une simple cause et effet se
 
 Même si elle se manifeste différemment selon les pays et les systèmes, la musique que vous écoutez dans votre jeunesse continue de vous servir de référence tout au long de votre vie.
 
-> Les expériences musicales au début de la vie ne sont pas une carte de la vie, mais une boussole.
+> Les expériences musicales dans la petite enfance ne sont pas une carte de la vie, mais une boussole.
 
 ---
 
@@ -225,35 +225,41 @@ Cette colonne est construite sur la base des recherches empiriques, des enquête
 ### Goût musical et personnalité/psychologie
 
 ・Rentfrow, P. J. et Gosling, S. D. (2003) Préférences musicales et traits de personnalité. Journal de personnalité et de psychologie sociale.
+
 ・Rentfrow, P.J., et al. (2011) La structure des préférences musicales. Journal de personnalité et de psychologie sociale.
+
 ・North, A.C. et Hargreaves, D.J. (2008) La psychologie sociale et appliquée de la musique.
 
 ### Mémoire de la petite enfance/psychologie du développement
 
 ・Rubin, D.C., Rahhal, T.A. et Poon, L.W. (1998) On se souvient mieux des choses apprises au début de l'âge adulte. Mémoire et cognition.
+
 ・Arnett, J. J. (2000) L'âge adulte émergent : une théorie du développement de la fin de l'adolescence jusqu'à la vingtaine. Psychologue américain.
 
 ### Culture musicale et comportement social/participation politique
 
 ・Street, J. (2012) Musique et politique.
+
 ・Bennett, A. (2001) Cultures de musique populaire.
+
 ・Frith, S. (1996) Musique et identité.
 
-### Choix d’études/profession et capital culturel
+### Choix d’études/professionnel et capital culturel
 
 ・Bourdieu, P. (1984) Distinction : Une critique sociale du jugement de goût.
+
 ・Savage, M., et al. (2013) Un nouveau modèle de classe sociale. Sociologie.
 
 ### Enquête de longue durée par pays et génération
 
 ・Enquête sociale générale (enquête sociale américaine à long terme)
+
 ・Enquête sociale européenne
+
 ・Enquête sur les valeurs mondiales
 
 ### Culture musicale japonaise et recherche sur les générations
 
-・Mia Nakamura (2001) Sociologie de la sous-culture et de la culture des jeunes.
-・Toshiya Yoshimi (1994) Dramaturgie urbaine.
 ・Enquête d'opinion sur la culture réalisée par l'Agence des Affaires Culturelles (chaque année).
 
 > Cet article s'appuie sur une tendance de recherche qui considère la relation entre les genres musicaux et le comportement social comme un effet cumulatif plutôt que déterministe.

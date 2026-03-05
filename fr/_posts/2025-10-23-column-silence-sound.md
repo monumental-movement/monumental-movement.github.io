@@ -120,7 +120,7 @@ En d’autres termes, la valeur du silence à l’ère de la saturation numériq
 
 ---
 
-## Illustration : La structure de l'écoute — l'équilibre entre le son et le silence
+## Schéma : La structure de l'écoute — l'équilibre entre le son et le silence
 
 <div class="mermaid">
 
@@ -146,7 +146,7 @@ Surcharge d'informations, plaisir instantané et sélection musicale algorithmiq
 Dans ce contexte, l'écoute devient une sorte d'exercice d'**écoute lente**.
 
 Quand on retrouve le verbe « écouter »,
-La musique nous connecte à nouveau avec le monde.
+La musique nous connecte à nouveau au monde.
 
 ---
 

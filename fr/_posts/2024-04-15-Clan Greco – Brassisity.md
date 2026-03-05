@@ -10,29 +10,29 @@ tags:
 - House
 - Deep House
 - Future Jazz
-title: Clan Greco – Brassisité
+title: Clan Greco – Brassisity
 ---
 
 
-Clan Greco est une unité formée par Ricky Rinaldi, producteur et coproducteur de Neffa e Sud Sound System, DJ Rodriguez, Bossa Nostra, Gazzara, etc., et le trompettiste italien Massimo Greco.
+Clan Grecoは、Neffa e Sud Sound SystemやDJ Rodriguez、Bossa Nostra、Gazzaraなどのプロデューサー兼共同プロデューサーRicky Rinaldiと、イタリアのトランペット奏者Massimo Grecoによるユニット。
 
-≡ Artistes participants
+≡ 参加アーティスト
 
-Basse : Christian Lisi
+ベース：Christian Lisi
 
-Batterie : Roberto Ponzio, Roberto Rossi
+ドラム：Roberto Ponzio, Roberto Rossi
 
-Claviers : Maestro Garofalo, Michele Trombetti
+キーボード：Maestro Garofalo, Michele Trombetti
 
-Saxophone : Chicco Montefiori
+サックス：Chicco Montefiori
 
-Trompette : Massimo Greco
+トランペット： Massimo Greco
 
-Voix : Silvia Donati
+ヴォーカル：Silvia Donati
 
-Producteur Massimo Greco, Ohm Guru
+プロデューサー Massimo Greco, Ohm Guru
 
-Coproducteur : Brass Avengers
+共同プロデューサー：Brass Avengers 
 
 #### Liste des chansons
 ```md

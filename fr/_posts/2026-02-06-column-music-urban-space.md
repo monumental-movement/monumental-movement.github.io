@@ -45,11 +45,11 @@ color: #fff;
 
 ### La Nouvelle-Orléans et le Jazz
 
-Au début du XXe siècle, la Nouvelle-Orléans était une ville portuaire où se croisaient diverses cultures. Les communautés noires, la culture créole, les traditions des fanfares militaires et la musique religieuse se sont mêlées, et la musique jouée lors des défilés de rue et des salles de danse s'est cristallisée dans le jazz. Ici, les espaces publics de la ville étaient eux-mêmes des lieux de spectacle.
+Au début du XXe siècle, la Nouvelle-Orléans était une ville portuaire où se croisaient diverses cultures. Les communautés noires, la culture créole, les traditions des fanfares militaires et la musique religieuse se mélangent, et la musique jouée lors des défilés de rue et des salles de danse se cristallise en jazz. Ici, les espaces publics de la ville étaient eux-mêmes des lieux de spectacle.
 
 ### New York et Tin Pan Alley
 
-A New York, la musique s'organise comme une industrie avec une concentration de compositeurs et éditeurs.ド感と商業性を反映し、ポピュラー音楽のフォーマットを確立した。
+A New York, la musique s'organise comme une industrie avec une concentration de compositeurs et d'éditeurs. Broadway et l'industrie de la partition musicale ont établi un format de musique populaire qui reflétait la rapidité et le caractère commercial de la ville.
 
 > Les villes modernes avaient le pouvoir de faire passer la musique de l'improvisation à l'industrie.
 
@@ -125,7 +125,7 @@ Si les villes produisent de la musique, elles la régulent également. La surpop
 
 La radio, la télévision et Internet, qui semblaient séparer la musique de la ville, ont en réalité créé une nouvelle image de la ville. Certains noms de villes continuent de fonctionner comme des marques sonores.
 
-> Les médias ont agrandi la ville et ont fait paraître la musique libérée de la géographie.
+> Les médias ont agrandi la ville et donné l'impression que la musique s'affranchissait de la géographie.
 
 ---
 
@@ -142,7 +142,7 @@ Bien que la musique de club et le hip-hop aient des formats partagés au-delà d
 
 ## Chapitre 9 Chronologie Principaux jalons de la musique et de l'espace urbain
 
-### Histoire du monde
+### Histoire mondiale
 
 * Jazz formé à la Nouvelle-Orléans au début des années 1900
 * Années 1930 : L'industrie musicale concentrée à New York
@@ -151,15 +151,15 @@ Bien que la musique de club et le hip-hop aient des formats partagés au-delà d
 * Naissance du hip-hop à New York dans les années 1970
 * Années 1980 : House à Chicago, techno à Détroit
 * Culture club combinée à la réorganisation urbaine à Berlin dans les années 1990
-* Depuis les années 2000 : Redéfinir les musiques urbaines grâce à Internet
+* Depuis les années 2000 : Redéfinir la musique urbaine grâce à internet
 
 ### Histoire du Japon
 
-* Années 1960 : la culture importée du rock et des cafés jazz se développe à Tokyo
+* Années 1960 : La culture importée du rock et des cafés jazz se développe à Tokyo
 * La culture live house des années 1970 s'est implantée à Osaka et à Tokyo
 * Années 1980 : Propagation des discothèques et clubs urbains
 * Dans les années 1990, la culture des clubs s'est développée principalement à Shibuya et Shinsaibashi.
-* Dans les années 2000, festivals et clubs commencent à coexister dans les villes régionales.
+* Dans les années 2000, festivals et clubs commencent à cohabiter dans les villes régionales.
 * Depuis les années 2010, réorganisation spatiale due au réaménagement et au durcissement de la réglementation
 
 ---
@@ -188,7 +188,7 @@ Ici, la musique définit d'abord l'espace, suivie par les fonctions urbaines. Le
 
 La techno de Détroit est une extension des rythmes urbains façonnés par l'industrie automobile. Les mouvements mécaniques réguliers, les routes larges et le creusement qui a suivi l'exode de la population ont favorisé une sensation de rythme inorganique et persistante.
 
-La techno est ici devenue plus qu’un simple divertissement, elle est devenue un moyen d’abstraire l’état urbain. Le sens du temps que possédait une ville industrielle en déclin s’est cristallisé dans la musique.
+Ici, la techno est devenue plus qu’un simple divertissement, elle est devenue un moyen d’abstraire l’état urbain. Le sens du temps que possédait une ville industrielle en déclin s’est cristallisé dans la musique.
 
 > La musique de Détroit préserve sonorement la forme de ce que la ville a perdu.
 
@@ -267,7 +267,7 @@ Les clubs et les salles de concert ont toujours entretenu des relations tendues 
 ---
 
 
-## Dernier chapitre : Comment la musique représente-t-elle le futur des villes ?
+## Chapitre final : Comment la musique représente-t-elle l'avenir des villes ?
 
 La musique enregistre, critique et parfois anticipe la ville. Tant que l’espace urbain continuera à changer, de nouvelles musiques continueront à naître. Écouter de la musique, c'est écouter à la fois le présent et le futur de la ville.
 

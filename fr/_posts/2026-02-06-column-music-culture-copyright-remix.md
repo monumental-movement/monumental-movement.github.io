@@ -66,7 +66,7 @@ Le contexte était un environnement de production qui tirait le meilleur parti d
 
 Né à New York à la fin des années 1970, le hip-hop a amené la culture du remix au centre de la culture urbaine grâce au sampling. La répétition des breakbeats et la citation fragmentaire des sources sonores existantes séparent la production musicale de la formation professionnelle et la transforment en une pratique basée sur le matériel et la sensation.
 
-Aux débuts du hip-hop, la gestion des droits était peu connue. Une fois que l’échelle de distribution s’est élargie et que des liens ont été établis avec les principales industries, les problèmes juridiques deviennent évidents.
+Aux débuts du hip-hop, la gestion des droits était peu connue. Une fois que l’échelle de distribution s’est élargie et que des liens ont été établis avec les principales industries, les problèmes juridiques deviennent apparents.
 
 > Échantillonner les points exposés où les références culturelles se heurtent à l'économie.
 

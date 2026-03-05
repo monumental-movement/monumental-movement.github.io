@@ -54,7 +54,7 @@ Alors que tout le monde s’abandonne au son comme personne, les frontières de 
 ## Chapitre 2 : Du disco à la rave — la démocratisation de la nuit et la politique du corps
 
 Les discothèques des années 1970 servaient de plateforme d’expression de la communauté LGBTQ et de la culture noire.
-Le Studio 54 et Paradise Garage étaient des « zones d'émancipation sonore » pour les personnes marginalisées, mais ils étaient aussi des espaces politiques.
+Studio 54 et Paradise Garage étaient des « zones d'émancipation sonore » pour des personnes marginalisées, et en même temps des espaces politiques.
 
 À la fin des années 1980, la culture rave émerge avec l’acid house et s’enfuit hors de la ville.
 Entrepôts, champs, usines abandonnées, danser dans des espaces incontrôlés était aussi une forme de résistance au contrôle du temps par l’État et le capital.
@@ -66,7 +66,7 @@ La musique est à la fois protestation et célébration.
 
 ### Berlin
 Après la chute du mur, la ville en ruine est devenue un terrain d’essai pour la liberté. Des clubs comme Tresor, Berghain et Watergate sont nés du mélange chaotique des cultures orientales et occidentales.
-Les clubs ne sont pas seulement un divertissement ; ils fonctionnent comme une « nouvelle sphère publique de la société ».
+Les clubs ne sont pas seulement un divertissement, mais fonctionnent comme une « nouvelle sphère publique de la société ».
 
 ### Tokyo
 Les clubs de Tokyo constituaient un « dispositif d'évasion secret » dans une ville de réglementation et de contrôle.

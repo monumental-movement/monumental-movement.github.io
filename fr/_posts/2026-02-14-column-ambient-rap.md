@@ -64,7 +64,7 @@ timeline
 
 ## Mécanisme de fusion vu du solfège
 
-Dans Ambient x Rap, l'équilibre entre le rythme et la texture est important. Ambient utilise des sons soutenus, des pads et des enregistrements sur le terrain pour créer une profondeur spatiale. Le rap utilise des boîtes à rythmes et des échantillons pour fournir du rythme et du groove.
+Dans Ambient x Rap, l’équilibre entre rythme et texture est important. Ambient utilise des sons soutenus, des pads et des enregistrements sur le terrain pour créer une profondeur spatiale. Le rap utilise des boîtes à rythmes et des échantillons pour fournir du rythme et du groove.
 
 Les points sont les suivants :
 
@@ -118,7 +118,7 @@ Vous trouverez ci-dessous un exemple spécifique de structure de liste de lectur
 | 30h30-35h00 | Réflexion éternelle | Talib Kweli et Hi-Tek | Renforcer le rythme et guider l'auto-réflexion |
 | 35h00-40h30 | Rhapsodie de la fin du monde | Nujabés | Mélodies et échantillons méditatifs |
 | 40h30-45h00 | Beignets (Outro) | J Dilla | Maintenez l'immersion avec les beatloops |
-| 45h00-50h30 | Tombée de la nuit | Lotus volant | Ambiant et persistant |
+| 45h00-50h30 | Tombée de la nuit | Lotus volant | Arrière-goût ambiant |
 | 50h30-60h00 | Un long voyage | Union Marconi | Étape finale de relaxation, régulation du rythme cardiaque |
 
 <div class="mermaid">
@@ -167,7 +167,7 @@ pie
 
 La fusion de l'Ambient et du Rap crée une nouvelle expérience à l'intersection des genres musicaux. L'histoire, la théorie, les méthodes de production et l'expérience de l'auditeur interagissent pour offrir un espace introspectif qui va au-delà de la simple appréciation.
 
-Grâce aux avancées technologiques telles que la musique générée par l’IA et les enregistrements binauraux, les listes de lecture de méditation ont le potentiel de devenir plus personnalisées et d’offrir une expérience profondément immersive.
+Grâce aux avancées technologiques telles que la musique générée par l’IA et l’enregistrement binaural, les listes de lecture de méditation ont le potentiel de devenir plus personnalisées et d’offrir une expérience profondément immersive.
 
 > Notre voyage intérieur s'ouvre à l'intersection du silence et du rythme.
 

@@ -73,7 +73,7 @@ Son vrai nom est Thomas Moen Hermansen. Héritant de l'esprit du Detroit-Italo e
 
 ---
 
-### Lindstrom
+### Lindstrøm
 
 Son vrai nom est Hans-Peter Lindstrøm. Son son est appelé le porte-drapeau de la « disco cosmique » et combine des couches de synthé, un travail de batterie lourd et l'essence de l'ambient. Ses chefs-d'œuvre, tels que « Where You Go I Go Too » et « It's A Fidelity Affair », ont reçu un grand succès pour leurs compositions élégantes et dansantes.
 
@@ -94,7 +94,7 @@ Principalement actif en tant qu'unité DJ/producteur. Il est connu pour sa vaste
 
 Rôle : DJ/platine-platine/sélecteur
 
-Caractéristiques:
+特徴：
 
 Une présence importante dans la culture DJ underground norvégienne.
 
@@ -108,7 +108,7 @@ Connu comme un DJ qui brise les barrières des genres, il apporte un élément �
 
 Rôle : Producteur/Musicien
 
-Caractéristiques:
+特徴：
 
 Un ingénieur qui soutient le travail en studio.
 
@@ -160,7 +160,7 @@ Un film documentaire racontant l'histoire et le développement de la scène musi
 
 ---
 
-### Analyse : Pourquoi la discothèque norvégienne est-elle acclamée à l'échelle internationale
+### Analyse : Pourquoi la discothèque norvégienne est acclamée à l'échelle internationale
 
 1. **Esthétique de la texture** : La coexistence des méthodes scandinaves de création d'« espace » (réverbération et espace) avec une sensation analogique chaleureuse.
 2. **Culture du long track** : Un style qui met l'accent sur le « voyage » à travers les albums plutôt que les clubs.

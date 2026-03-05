@@ -10,13 +10,13 @@ tags:
 - Electronic
 - House
 - 90s
-title: Boucle Gamma – Yeux à rayons X
+title: Gamma Loop – X-Ray Eyes
 ---
 
 
-Gamma Loop est le nom utilisé par le producteur et sound designer allemand Jürgen Driessen pour son projet allemand hard trance/acid. Il est également actif sous divers autres noms tels que Bruce Wayne et Exit EEE.
+Gamma Loopは、ドイツのプロデューサー・サウンドデザイナーJürgen Driessenのジャーマンハードトランス／アシッドプロジェクト用名義。他にもBruce Wayne、Exit EEE等さまざまな名義で活動している。
 
-Ce disque est un morceau house sorti par Ugly Bug Records, un label fondé en 1993 par Pete Bones (The Shaker) spécialisé dans un style mêlant Pumping House funky et trance progressive. Ugly Bug Records est connu comme le label préféré de nombreux DJ, dont Tony De Vit.
+このレコードは、1993年にPete Bones（The Shaker）が設立したファンキーなポンピングハウスとプログレッシブトランスのブレンドスタイルを専門とするレーベル、Ugly Bug Recordsからリリースされたハウストラック。Ugly Bug RecordsはTony De Vit(トニー・デ・ヴィット)など多くのDJのお気に入りレーベルとして知られている。
 
 #### Liste des chansons
 ```md

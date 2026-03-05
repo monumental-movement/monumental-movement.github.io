@@ -12,16 +12,16 @@ tags:
 - Dub
 - Tribal
 - 00s
-title: Oxia – Réflexion
+title: Oxia – Reflexion
 ---
 
 
-Un morceau techno d'Olivier Raymond, également connu sous le nom d'Oxia, DJ et producteur français qui est l'un des fondateurs de GoodLife.
+GoodLifeの創設者のひとり、フランス人DJ・プロデューサーOxia（オクシア）ことOlivier Raymond（オリヴィエ・レイモンド）によるテクノトラック。
 
-Le premier morceau de la face A est un remix de Samuel Geiser, alias Deetron, DJ et producteur suisse qui dirige le label Techno/House Character.
+A面１曲目は、スイスのDJ・プロデューサーであり、Techno/HouseレーベルCharacterを運営するDeetronことSamuel Geiserによるremix。
 
-Le premier morceau de la face B est un remix du DJ/producteur français Techno/Electro/Melodic Techno Kiko et Stéphane Deschezeaux, qui dirigent le label nu disco français Springbok Records.
-La deuxième chanson de la face B est un remix du musicien/DJ français Michel Amato, alias The Hacker.
+B面１曲目は、フランスのTechno / Electro / Melodic Techno DJ ・プロデューサーKikoとフレンチnu discoレーベルSpringbok Recordsを運営するStephane Deschezeauxによるremix。
+B面２曲目は、フランスのミュージシャン・DJ、The HackerことMichel Amatoによるremix。
 
 #### Liste des chansons
 ```md

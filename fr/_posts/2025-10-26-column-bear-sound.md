@@ -122,7 +122,7 @@ G[高周波電子音] --> H[実験的回避]
 
 ---
 
-### 4.2 Exemple d'expérience
+### 4.2 Exemple d'expérimentation
 
 - **Hokkaido Orchard (2015-2018)** : taux d'invasion réduit de 40 % grâce à l'utilisation de pétards
 

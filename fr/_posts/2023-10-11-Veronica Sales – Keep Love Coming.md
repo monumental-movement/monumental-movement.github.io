@@ -8,13 +8,13 @@ layout: post
 permalink: /fr/veronica-sales-keep-love-coming/
 tags:
 - Euro Beat
-title: Veronica Sales – Continuez à aimer
+title: Veronica Sales – Keep Love Coming
 ---
 
 
-"Keep Love Coming" de Veronica Sales est sorti en 1995 sur le label Eurobeat A.Beat-C. Veronica Sales travaille également sous le pseudonyme d'Alexandra.
+ユーロビートレーベルA.Beat-Cから1995年にリリースされたVeronica Sales（ベロニカ セールス）の「 Keep Love Coming」。Veronica Salesは、Alexandraの別名義でも活動。
 
-Le producteur est Dave Rodgers, producteur italien et co-fondateur du label Eurobeat A.Beat-C.
+プロデューサーは、イタリアのプロデューサーでユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers（デイヴ ロジャース）。
 
 #### Liste des chansons
 ```md

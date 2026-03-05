@@ -10,13 +10,13 @@ tags:
 - Jazz
 - Rock
 - 00s
-title: Autres spéciaux – Étoile
+title: Special Others – Star
 ---
 
 
-Special Others est un groupe de jam japonais dont le style est un mélange de jazz improvisé et de post-rock. Chaque membre a un deuxième prénom qui lui a été donné par le fondateur et légendaire batteur d'Afrobeat, Tony Allen.
+Special Others (スペシャルアザーズ)は、即興jazzとポストロックをミックスさせたスタイルが特徴の日本のジャムバンド。各メンバーには、アフロビートの創始者にして伝説のドラマーTony Allen(トニー・アレン)が付けたというミドルネームがある。
 
-Ce mini-album est sorti par Victor en 2007.
+このミニアルバムは2007年にVictorからリリースされた。
 
 
 #### Liste des chansons

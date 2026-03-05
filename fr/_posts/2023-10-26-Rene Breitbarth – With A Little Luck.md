@@ -10,13 +10,13 @@ tags:
 - House
 - Minimal
 - Tech House
-title: René Breitbarth – Avec un peu de chance
+title: Rene Breitbarth – With A Little Luck
 ---
 
 
-"With A Little Luck" de René Breitbarth est sorti en 2005 sur le label irlandais Ork Recordings.
+Rene Breitbarth の「With A Little Luck」は、アイルランドのレーベル Ork Recordingsから2005年にリリースされました。
 
-René Breitbarth est un DJ et producteur allemand et l'un des fondateurs du label Treibstoff basé à Cologne, en Allemagne.
+René Breitbarth（ルネ・ブライトバルト）は、ドイツのDJ・プロデューサーであり、ドイツ・ケルンを拠点とするレーベルTreibstoffの創設者の1人。
 
 
 #### Liste des chansons

@@ -13,7 +13,7 @@ title: Orange 9mm – Orange 9mm
 ---
 
 
-Orange 9mm est un groupe post-hardcore américain formé par Chaka Malik et Chris Traynor en 1994 après la dissolution du groupe hardcore new-yorkais BURN.
+Orange 9mmは、NYハードコアバンドBURNの解散後、1994年にChaka Malik（ チャカ・マリック）とChris Traynor （クリス・トレイナー）によって結成されたUSポストハードコアバンド。
 
 #### Liste des chansons
 ```md

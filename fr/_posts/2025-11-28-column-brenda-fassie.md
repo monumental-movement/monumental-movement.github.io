@@ -25,7 +25,7 @@ title: '[Chronique] Brenda Fassie — La diva du township : un voyage de gloire 
 
 # Introduction
 
-Texte : mmr | Thème : Brenda Fassie (1964-2004), chanteuse originaire d'un township d'Afrique du Sud. Gloire et revers, politique et vie privée : retrace sa vie et son héritage à partir de faits
+Texte : mmr | Thème : Brenda Fassie (1964-2004), chanteuse originaire d'un township d'Afrique du Sud. Gloire et revers, politique et vie privée – sa vie et son héritage fondés sur des faits
 
 
 Le livre retrace soigneusement son parcours, qui a grandi dans un township et a dirigé la musique populaire sud-africaine des années 1980 aux années 2000, avec une chronologie, des classements et des explications de chansons.
@@ -134,7 +134,7 @@ Dans les œuvres de cette période, vous pouvez entendre les expressions vocales
 
 Le charme de Brenda réside dans la qualité de sa voix elle-même. Ses armes étaient un médium épais et ferme, une expressivité alliant puissance et lyrisme et une approche improvisée du rythme. La mise en scène impliquait souvent un dialogue avec le public et avait le pouvoir de l'unifier.
 
-Les costumes de scène, les expressions faciales et la direction du spectacle font également partie de son identité, et lorsque ceux-ci sont combinés avec la musique, le « monde de Brenda » s'est formé.
+Les costumes de scène, les expressions faciales et la direction du spectacle font également partie de son identité, et lorsque ceux-ci sont combinés avec la musique, le « monde de Brenda » est formé.
 
 ---
 

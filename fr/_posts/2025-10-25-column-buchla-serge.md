@@ -53,7 +53,7 @@ Au Tape Music Center de San Francisco, au début des années 1960, des artistes
 Ce qu'ils recherchaient, c'était «un instrument qui ne soit pas une extension du piano ou de la guitare».
 
 La **Série Buchla 100 (1963-1966)** est apparue en réponse à la demande de Subotnick.
-Il a intentionnellement évité le fonctionnement des instruments de musique conventionnels, comme la configuration du circuit acoustique utilisant des boutons et des câbles de raccordement, et le clavier à plaque tactile (en fait un dispositif d'entrée de tension sans échelle).
+L'opérabilité musicale traditionnelle a été intentionnellement évitée, comme la configuration du circuit acoustique utilisant des boutons et des câbles de raccordement, et le clavier à plaque tactile (en fait un dispositif d'entrée de tension sans échelle).
 
 > "Pas de touches noires et blanches." -Don Buchla
 
@@ -137,13 +137,13 @@ Cette philosophie se poursuit directement dans les correctifs Max/MSP actuels, l
 
 ---
 
-## 5. Impact sur la culture modulaire
+## 5. モジュラー文化への影響
 
-La philosophie de Buchler et Sarge a redéfini le son comme un « acte social ».
-En d’autres termes, il a déplacé son attention de « l’instrument » vers « l’environnement » et « l’interface ».
+ブックラとサージの哲学は、**音響そのものを“社会的行為”として再定義**した。  
+つまり、「楽器」から「環境」「インターフェース」へと視点を移したのだ。
 
-Les « combinaisons infinies » modulaires d'Eurorack ne sont pas simplement la liberté des pièces, mais la reconfiguration même du sens.
-La « physicalité » de Buchla et la « structuralité » de Serge ont fusionné, et la musique électronique d'aujourd'hui devient de plus en plus « décentrique ».
+Eurorackにおけるモジュラーの“無限の組み合わせ”は、単にパーツの自由ではなく、**意味の再構成**そのもの。  
+Buchlaの「身体性」、Sergeの「構造性」が融合し、今日の電子音楽はますます“非中心的”になっている。
 
 ---
 
@@ -163,14 +163,14 @@ timeline
 
 ---
 
-## 6. Se connecter à l'ère moderne : entre algorithmes et corps
+## 6. 現代への接続：アルゴリズムと身体のあいだで
 
-L’esprit Buchla/Serge est bien vivant dans Max/MSP, VCV Rack et même dans les outils musicaux générés par l’IA.
-Il ne s'agit pas simplement d'une « combinaison de modules », mais d'un cadre artistique qui relie le temps, l'espace, le corps et les probabilités.
+Max/MSPやVCV Rack、さらにはAI生成音楽ツールにおいても、Buchla/Sergeの精神は生きている。  
+それは単なる“モジュールの組み合わせ”ではなく、**時間・空間・身体・確率を接続するアート的フレーム**である。
 
-Les synthés modulaires ne sont pas de simples « outils » pour créer des sons ;
-C'est un médium qui génère des « événements » qui se produisent entre les sons et les personnes.
-La philosophie du design de Buchla et Serge continue d'être le germe de cette philosophie médiatique.
+モジュラーシンセは、音を作るための「道具」ではなく、  
+音と人とのあいだに生まれる「出来事」を生成するメディアだ。  
+BuchlaとSergeの設計思想は、まさにそのメディア哲学の萌芽であり続けている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,18 +179,18 @@ La philosophie du design de Buchla et Serge continue d'être le germe de cette p
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBVCa3RaR0c?si=VWdNaHjNBMK-r8Mj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-## Conclusion — Poétique de la « tension de contrôle »
+## 結語 — “Control Voltage” の詩学
 
-Don Buchler aurait dit cela avant sa mort.
-> "La tension n'est pas un nombre, c'est un geste."
+ドン・ブックラは生前、こう語ったという。  
+> “Voltage is not a number — it’s a gesture.”  
 
-Sarge dit également.
-> « Chaque patch est une composition. »
+サージもまた言う。  
+> “Every patch is a composition.”  
 
-Pour eux, la tension n’est pas seulement un signal ;
-**C'était « un langage poétique qui relie la volonté humaine et les machines. »**
+彼らにとって、電圧とは単なる信号ではなく、  
+**「人間の意志と機械のあいだを結ぶ詩的な言語」**だった。  
 
-Même aujourd’hui, en 2025, nous continuons d’écouter la poésie de cette tension.
+2025年の今もなお、私たちはその電圧の詩を聴き続けている。
 
 ---
 

@@ -9,13 +9,13 @@ permalink: /fr/black-4-white-so-i-love-you-baby/
 tags:
 - Italo
 - Euro House
-title: Noir 4 Blanc – Alors je t'aime bébé
+title: Black 4 White – So I Love You Baby
 ---
 
 
-"So I Love You Baby" est une chanson avec une mélodie accrocheuse, un rythme et des paroles positives, et son son pop et dansant divertira les auditeurs.
+「So I Love You Baby」は、キャッチーなメロディとリズム、ポジティブな歌詞が特徴の楽曲で、ポップで踊りやすいサウンドが聴く人々を楽しませます。
 
-"So I Love You Baby" est l'une des chansons les plus connues de Black 4 White, et c'est une chanson qui vous permet de découvrir leur style musical et leur charme.
+「So I Love You Baby」は、Black 4 Whiteの楽曲の中でも特に知名度が高く、彼らの音楽スタイルと魅力を体感することができる一曲です。
 
 #### Liste des chansons
 ```md

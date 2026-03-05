@@ -19,10 +19,10 @@ title: '[Chronique] Musique didgeridoo et culture indigène australienne'
 
 ## Qu'est-ce qu'un didgeridoo ?
 
-Texte : mmr｜Thème : Une histoire culturelle à plusieurs niveaux de la musique didgeridoo enracinée dans les sociétés autochtones du nord de l'Australie, basée sur les différences régionales, les différences linguistiques et les exemples tribaux.
+Texte : mmr｜Thème : Une histoire culturelle qui interprète la musique didgeridoo, enracinée dans les sociétés autochtones du nord de l'Australie, dans une perspective à plusieurs niveaux basée sur les différences régionales, les différences linguistiques et les exemples tribaux.
 
 
-Le didgeridoo est un instrument à vent traditionnel utilisé par les communautés aborigènes d'Australie, principalement de la côte nord jusqu'à l'intérieur. Généralement, le matériau est fabriqué à partir d'un tronc d'eucalyptus creusé par les termites, et la sensation en bouche est ajustée en appliquant de la cire d'abeille sur l'ouverture d'un côté. Bien que la structure soit extrêmement simple, les sons émis ne se limitent pas à des drones monophoniques, mais comportent des couches acoustiques complexes combinant harmoniques, rythmes et vocalisations.
+Le didgeridoo est un instrument à vent traditionnel utilisé par les communautés aborigènes d'Australie, principalement de la côte nord jusqu'à l'intérieur. Généralement, le matériau est fabriqué à partir d'un tronc d'eucalyptus creusé par les termites, et l'ouverture d'un côté est recouverte de cire d'abeille pour ajuster la sensation en bouche. Bien que la structure soit extrêmement simple, les sons émis ne se limitent pas à des drones monophoniques, mais comportent des couches acoustiques complexes combinant harmoniques, rythmes et vocalisations.
 
 Le nom « didgeridoo », courant aujourd'hui, ne provient pas de langues autochtones, mais a été créé par des anglophones au début du 20e siècle comme terme onomatopée. Dans les sociétés autochtones, les instruments de musique sont nommés en relation avec la terre et la langue, et les différents noms reflètent les différences culturelles.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Origine et aire de répartition historique
 
-Il n'existe aucun matériel archéologique montrant une date claire concernant l'origine du didgeridoo. Parce qu'il est fait de bois, il est difficile de le préserver physiquement, et la compréhension actuelle repose sur l'art rupestre, les traditions orales et les matériaux ethnographiques de la période coloniale. L'art rupestre du nord de la Terre d'Arnhem représente des personnages jouant de longs instruments tubulaires, et il a été suggéré que l'art rupestre pourrait avoir au moins plusieurs centaines d'années, voire plus de 1 000 ans.
+Il n’existe aucun matériel archéologique indiquant clairement l’origine du didgeridoo. Parce qu'il est fait de bois, il est difficile de le préserver physiquement, et la compréhension actuelle repose sur l'art rupestre, les traditions orales et les matériaux ethnographiques de la période coloniale. L'art rupestre du nord de la Terre d'Arnhem représente des personnages jouant de longs instruments tubulaires, et il a été suggéré que l'art rupestre pourrait avoir au moins plusieurs centaines d'années, voire plus de 1 000 ans.
 
 Il est important de noter que le didgeridoo n’existait pas naturellement dans toute l’Australie. Aucune culture d'instruments de musique pré-contact similaire n'a été identifiée dans le sud-est, en Tasmanie et dans une grande partie de la région désertique centrale. En d'autres termes, le didgeridoo n'était pas un symbole des « peuples autochtones en général », mais un produit culturel d'une région spécifique.
 
@@ -86,7 +86,7 @@ Un artiste de yidaki n’est pas seulement un musicien ; il ou elle doit être u
 
 ## Exemple tribal spécifique : Bininji (West Arnhem)
 
-Dans les groupes Bininji de l’ouest de la Terre d’Arnhem, le didgeridoo joue un rôle plus rythmique. Des techniques de jeu onomatopées utilisant des clics de langue et des voix se sont développées, et des motifs sonores rappelant des animaux et des phénomènes naturels sont souvent utilisés.
+Dans les groupes Bininji de l’ouest de la Terre d’Arnhem, le didgeridoo joue un rôle plus rythmique. Des techniques de jeu onomatopées utilisant des clics de langue et des voix se sont développées, et des modèles sonores rappelant des animaux et des phénomènes naturels sont souvent utilisés.
 
 La fabrication d'instruments de musique est également ici un domaine de connaissance important, et le type de bois choisi et le sens dans lequel il est coupé ont une signification rituelle. Dans de nombreux cas, production et performance ne sont pas séparées.
 
@@ -100,7 +100,7 @@ Dans de nombreuses régions, le didgeridoo a été considéré comme un instrume
 
 Il y avait également des restrictions d'âge, et les représentations de séries de chansons spécifiques n'étaient pas autorisées à moins que certains rites de passage à l'âge adulte ne soient respectés. De ce fait, la musique est naturellement devenue un outil d’éducation intergénérationnelle.
 
->La qualification de performance n'était pas un système d'exclusion, mais un système qui indiquait où se situe la responsabilité.
+> La qualification de performance n'était pas un système d'exclusion, mais un système qui indiquait où se situe la responsabilité.
 
 ---
 
@@ -116,7 +116,7 @@ De plus, il existe des différences régionales dans les techniques utilisées p
 
 ## Perturbations et réorganisations dues à la colonisation
 
-La colonisation à partir du 19e siècle a provoqué une grave rupture dans la culture du didgeridoo. En raison de la perte de terres et de la migration forcée, de nombreuses régions ont perdu leurs sites cérémoniels.
+La colonisation à partir du 19ème siècle a provoqué une rupture sévère dans la culture du didgeridoo. En raison de la perte de terres et de la migration forcée, de nombreuses régions ont perdu leurs sites cérémoniels.
 
 Au XXe siècle, alors que les ethnographes et les missionnaires commençaient à enregistrer de plus en plus, le didgeridoo a commencé à être traité comme une « culture qui doit être préservée ». Dans ce processus, les différences régionales ont été abstraites et une image unique s'est formée.
 
@@ -182,7 +182,7 @@ Ces différences ne sont pas des « interprétations erronées » mais des forme
 
 ## Différenciation des rôles du chant, de la danse et du didgeridoo
 
-Il est important de noter que le didgeridoo n’est pas toujours au cœur des comparaisons tribales. Dans certaines régions, le chant prend le dessus, tandis que dans d'autres, la danse détermine la structure. Dans ce contexte, le rôle du didgeridoo change.
+Il est important de noter que le didgeridoo n’est pas toujours au cœur des comparaisons tribales. Dans certaines régions, le chant prend le dessus, tandis que dans d'autres, la danse détermine la structure. Dans ce contexte, le didgeridoo change de rôle.
 
 Dans certaines parties de l'Est de la Terre d'Arnhem, le didgeridoo fonctionne comme un support stable qui maintient la tonalité aussi basse que possible et s'adapte au rythme des paroles. En revanche, en Occident, le didgeridoo fournit des indications rythmiques et guide les mouvements des danseurs.
 
@@ -192,7 +192,7 @@ Dans certaines parties de l'Est de la Terre d'Arnhem, le didgeridoo fonctionne c
 
 ## Représentation musicale vue dans les peintures rupestres
 
-L'art rupestre du nord de l'Australie représente des figures humaines tenant de longs instruments tubulaires, ainsi que des scènes de chasse et de cérémonie. Ceux-ci ont été interprétés comme faisant référence au didgeridoo ou à son prédécesseur.
+L'art rupestre du nord de l'Australie représente des figures humaines tenant de longs instruments de musique tubulaires, ainsi que des scènes de chasse et de cérémonie. Ceux-ci ont été interprétés comme faisant référence au didgeridoo ou à son prédécesseur.
 
 La représentation d’instruments de musique dans l’art rupestre est davantage un symbole d’action rituelle qu’un enregistrement réaliste. Les décorations corporelles et le placement des personnages suggèrent que la musique était une pratique collective.
 

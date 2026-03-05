@@ -9,11 +9,11 @@ permalink: /fr/believe-in-the-frequency-power/
 tags:
 - Techno
 - Acid
-title: Croyez en la puissance de la fréquence
+title: Believe In The Frequency Power
 ---
 
 
-"Believe In The Frequency Power" est une compilation publiée par le label britannique "North South" en 1994.
+「Believe In The Frequency Power」は、1994年にUKのレーベル「North South」からリリースされたコンピレーション・アルバムです。
 
 #### Liste des chansons
 ```md

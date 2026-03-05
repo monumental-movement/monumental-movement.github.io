@@ -57,7 +57,7 @@ Avec la diffusion de la technologie de l’imprimerie, la poésie s’est fixée
 
 ---
 
-## L'art d'avant-garde du XXe siècle et la libération de la voix
+## L'art d'avant-garde du XXe siècle et la libération des voix
 
 ### Dada et la poésie audio
 
@@ -103,7 +103,7 @@ Les poètes beat enregistraient leurs lectures et les publiaient sur disques. En
 
 ### Déviation de la musique
 
-Depuis les années 1960, l’art sonore s’éloigne du cadre de la musique et devient une forme d’expression mettant l’accent sur l’espace et l’environnement. Dans les œuvres développées dans des galeries et des espaces publics, le son change en fonction du mouvement du spectateur et du passage du temps.
+Depuis les années 1960, l’art sonore s’éloigne du cadre musical et devient une forme d’expression mettant l’accent sur l’espace et l’environnement. Dans les œuvres développées dans des galeries et des espaces publics, le son change en fonction du mouvement du spectateur et du passage du temps.
 
 ### Réarrangement de la voix
 
@@ -153,7 +153,7 @@ E --> F[1980s 詩×音響コラボ]
 F --> G[2000s デジタル朗読]
 </div>
 
->Tout au long de l'histoire, les voix et les sons ont été séparés et reconnectés à plusieurs reprises.
+>Tout au long de l’histoire, les voix et les sons ont été séparés et reconnectés à plusieurs reprises.
 
 ---
 
@@ -203,7 +203,7 @@ Lors de collaborations avec l’art sonore, les vocalisations et les réactions 
 
 ### Une voix qui transcende le sens
 
-La lecture à haute voix dans différentes langues met au premier plan le rythme et l’intonation de la voix, tandis que la compréhension du sens devient partielle. Cela a une grande affinité avec la poésie audio et l’art sonore.
+La lecture à haute voix dans une autre langue met au premier plan le rythme et l’intonation de la voix, tandis que la compréhension du sens devient partielle. Cela a une grande affinité avec la poésie audio et l’art sonore.
 
 ### Espace multiculturel
 
@@ -223,7 +223,7 @@ Un spectacle de lecture est essentiellement un événement ponctuel. Les enregis
 
 Pourtant, les archives audio constituent une source importante d’informations sur l’histoire de la poésie et de l’art sonore. En écoutant et en comparant les voix de différentes époques, les changements d’expression deviennent évidents.
 
-> Les voix enregistrées relient le passé au présent.
+> Les voix enregistrées connectent le temps passé au présent.
 
 ---
 

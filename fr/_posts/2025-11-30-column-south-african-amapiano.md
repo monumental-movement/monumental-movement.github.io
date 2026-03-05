@@ -84,7 +84,7 @@ graph LR
 
 ### Géographie et temps
 
-Le lieu de naissance d'Amapiano est **Gauteng** en Afrique du Sud. Les townships de **Johannesburg** et **Pretoria** sont particulièrement importants.
+Le lieu de naissance d’Amapiano est Gauteng, en Afrique du Sud. Les townships de **Johannesburg** et **Pretoria** sont particulièrement importants.
 
 Selon plusieurs sources, les expériences avec l'Amapiano ont commencé vers 2012, et le nom unifié « Amapiano » en tant que genre a été établi plus tard.
 
@@ -98,7 +98,7 @@ Selon plusieurs sources, les expériences avec l'Amapiano ont commencé vers 201
 
 ---
 
-### Figure 2 : Lieu de naissance et propagation initiale
+### Figure 2 : Lieu de naissance et diffusion initiale
 
 <div class="mermaid">
 graph TD
@@ -315,7 +315,7 @@ timeline
 ## Clôture
 
 L'Amapiano est un genre musical sud-africain emblématique qui s'est étendu de la culture underground des townships aux festivals de clubs du monde entier.
-À la base, « tambour à bûches x piano x percussions x expression de la culture de la jeunesse » reste une origine inébranlable, mais continue d'évoluer au milieu de la diversification et de l'internationalisation.
+À la base, « Log drum x piano x percussion x expression of Youth culture » reste une origine inébranlable, mais continue d'évoluer au milieu de la diversification et de l'internationalisation.
 
 ---
 

@@ -90,7 +90,7 @@ Ces philosophies environnementales étaient liées à la musique et constituaien
 
 ---
 
-# **2-1. Hiroshi Yoshimura - Compositeur qui a jeté les bases de la musique environnementale japonaise**
+#**2-1. Hiroshi Yoshimura - Compositeur qui a jeté les bases de la musique environnementale japonaise**
 
 Hiroshi Yoshimura (1940-2003) est le compositeur le plus important en matière de musique environnementale japonaise.
 
@@ -99,7 +99,7 @@ Hiroshi Yoshimura (1940-2003) est le compositeur le plus important en matière d
 Il a été créé en pensant à l’espace d’exposition d’un musée d’art. Phrase piano/synthé transparente.
 - **《Vert》(1986)**
 L'une des œuvres les plus appréciées. Une fusion de sons naturels et de sons électroniques doux.
-- Série **《Soundscape》 (1986~)**
+- **Série 《Soundscape》 (1986~)**
 « La musique comme paysage » à partir d'enregistrements de terrain.
 
 ## ● Fonctionnalités musicales
@@ -113,7 +113,7 @@ Nous recherchions « un son qui change la nature de l'espace, pas seulement pour
 
 ---
 
-#**2-2. Midori Takada - Musique du temps et de l'espace dessinée par des instruments à percussion**
+# **2-2. Midori Takada - Musique du temps et de l'espace dessinée par des instruments à percussion**
 
 Midori Takada (1951–) est mondialement reconnu en tant que percussionniste et compositeur japonais.
 
@@ -134,7 +134,7 @@ Elle traite les instruments à percussion non pas comme des symboles du « temps
 
 #**2-3. Takashi Kokubo - Explorateur du confort et de l'acoustique résidentielle**
 
-Takashi Kokubo (1956-), après une carrière dans la production d'effets sonores et la diffusion audio, a publié de nombreuses œuvres sur le thème de « l'acoustique confortable » depuis les années 1980.
+Takashi Kokubo (1956-), après une carrière dans la production d'effets sonores et la diffusion sonore, a publié depuis les années 1980 de nombreuses œuvres sur le thème de « l'acoustique confortable ».
 
 ## ● Œuvres représentatives
 - **《Série Ion》(années 1980 ~)**
@@ -149,7 +149,7 @@ Après récidive, le patient a été réévalué à l'étranger.
 
 ---
 
-# **2-4. Inoyama Land - Pastoralisme et description paysagère des sons électroniques**
+#**2-4. Inoyama Land - Pastoralisme et description paysagère des sons électroniques**
 
 Le duo « Inoyamaland » composé de Yasushi Yamashita et Makoto Inoue possède un style unique qui se situe à cheval entre la techno pop et la musique environnementale.
 
@@ -271,11 +271,11 @@ La musique environnementale japonaise n’est pas seulement une « guérison » 
 **Art sonore créé par la culture urbaine, le design et la philosophie de la vie**
 C'est.
 
-- Espace intermédiaire entre art et musique
+- Domaine intermédiaire entre l'art et la musique
 - Réponse à l'urbanisation
 - Culture de style de vie et technologie de l'électroménager
 - Innovation synthétiseur
-- Collaboration avec la conception spatiale
+- Coopération avec la conception spatiale
 
 Tous ces éléments étaient présents au Japon dans les années 1980.
 

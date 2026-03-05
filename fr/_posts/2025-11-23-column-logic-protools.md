@@ -104,7 +104,7 @@ Le montage non linéaire introduit par Pro Tools n'était plus le « concept de 
 
 * Migration d'Atari vers Mac/Windows
 * Equipé d'une fonction "Environnement" unique
-* Introduction active des synthés logiciels
+* Introduire activement les synthés logiciels
 
 emagic et Steinberg sont en concurrence comme deux DAW majeurs d'Allemagne.
 Digidesign est en passe de devenir le « roi absolu du montage audio ».
@@ -217,7 +217,7 @@ Au cours de cette période, les DAW sont devenus courants avec le **traitement n
 * Prix réduits (jusqu'à 10 000 yens)
 * Optimisation pour maximiser les performances Mac
 
-### ■ Avid : Migration vers HDX et AAX
+### ■ Avid : migrez vers HDX et AAX
 
 * DSP et intégration native
 * Pro Tools reste le standard du studio
@@ -229,7 +229,7 @@ Au cours de cette période, les DAW sont devenus courants avec le **traitement n
 *MOTU passe à un flux de travail moderne avec DP9/10
 * La pénétration d'Adobe Audition est due à la demande croissante de podcasts
 
-À cette époque, le mot « DAW » était devenu tout à fait courant,
+À cette époque, le mot « DAW » était devenu très populaire.
 Associé à l’expansion de la culture de l’enregistrement à domicile, le marché global connaîtra une expansion rapide.
 
 ---
@@ -262,7 +262,7 @@ Au cours des dernières années, l’histoire des DAW a connu un autre changemen
 
 ### ■ Adobe : Augmentation de la demande en matière de distribution et de diffusion
 
-* Avantage d'intégration avec Premiere
+* Avantages de l'intégration avec Premiere
 * Fort à l'ère YouTube/Podcast
 
 ---
@@ -307,7 +307,7 @@ timeline
 
 ---
 
-## 10. Conclusion : L'histoire de DAW est une immense histoire où se croisent « stratégie d'entreprise x normes techniques x besoins du marché »
+## 10. Conclusion : L'histoire de DAW est une histoire immense où se croisent « la stratégie d'entreprise x les normes techniques x les besoins du marché »
 
 Apple a acquis emagic et Avid a intégré Digidesign.
 Le marché des DAW a considérablement changé selon l'axe **OS x production vidéo x infrastructure de studio**.
@@ -316,7 +316,7 @@ MOTU maîtrise la **synchronisation vidéo**,
 Adobe a créé son propre marché avec **l'intégration avec la diffusion et le montage vidéo**.
 
 Bien que les six sociétés soient en concurrence les unes avec les autres,
-En conséquence, ensemble, ils ont façonné la « culture de la production musicale elle-même ».
+En conséquence, ils ont façonné ensemble la culture même de la production musicale.
 
 Après 2025, édition IA, collaboration cloud, expansion de la production mobile, etc.
 L’avenir des DAW prendra une nouvelle dimension.

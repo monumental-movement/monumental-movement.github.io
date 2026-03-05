@@ -45,7 +45,7 @@ color: #fff;
 ## Chapitre 1 : La structure originale du funk
 
 
-Le funk est une musique axée sur le rythme et les basses. Les progressions harmoniques sont réduites au minimum et les mêmes phrases sont répétées pendant de longues périodes. Cette répétition n'est pas stagnante, mais une structure dynamique qui est constamment mise à jour par les changements d'accent, de timing et de timbre de l'interprète.
+Le funk est une musique axée sur le rythme et la basse. Les progressions harmoniques sont réduites au minimum et les mêmes phrases sont répétées pendant de longues périodes. Cette répétition n'est pas stagnante, mais une structure dynamique qui est constamment mise à jour par les changements d'accent, de timing et de timbre de l'interprète.
 
 Dans le funk des années 1970, la batterie formait un groove basé sur des doubles croches et la basse manipulait le centre de gravité du rythme tout en s'entrelaçant avec le coup de pied. Les guitares et les claviers fonctionnaient comme des instruments rythmiques, l'accent étant mis sur les coupures et les coups plutôt que sur les accords.
 
@@ -67,13 +67,13 @@ Dans le funk des années 1970, la batterie formait un groove basé sur des doubl
 
 Au début des années 1980, la généralisation des boîtes à rythmes marque un tournant décisif. Le rythme passe du jeu à la programmation, et le tempo et la répétition deviennent entièrement contrôlables. Cela a supprimé certaines des fluctuations humaines du funk et lui a donné une précision mécanique.
 
-Cependant, une mécanisation complète mine l'attrait du funk, c'est pourquoi une « pseudo-physique » est introduite en utilisant des valeurs de swing et des changements de vitesse. Cette idée a été héritée de l'Electro-Funk au Modern Funk.
+Cependant, une mécanisation complète mine l'attrait du funk, c'est pourquoi une « pseudo-physique » est introduite en utilisant des valeurs de swing et des changements de vitesse. Cette idée a été héritée de l’Electro-Funk au Modern Funk.
 
 Dans le même temps, les lignes de basse des synthétiseurs sont devenues monnaie courante et les graves ont fini par être dominés par la conception tonale plutôt que par la technique de jeu.
 
 ---
 
-## Chapitre 4 : Environnement de production numérique et Modern Funk
+## Chapitre 4 : Environnement de production numérique et Modern Funk
 
 
 Depuis les années 1990, avec la généralisation des DAW, la production individuelle est devenue une option réaliste. Le funk ne s'appuie plus sur de grands groupes, mais évolue vers une musique qui peut être créée par un petit groupe de personnes ou par un seul producteur.

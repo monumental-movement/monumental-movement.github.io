@@ -14,11 +14,11 @@ title: Chelonis R. Jones – Le Bateau Ivre
 ---
 
 
-Chelonis R. Jones est un musicien, auteur-compositeur-interprète et artiste visuel américain actif sur la scène électro/tech house européenne depuis les années 2000.
+Chelonis R. Jonesは、2000年代からヨーロッパのエレクトロ／テックハウス・シーンで活躍したUS出身のミュージシャン、シンガーソングライター、ビジュアルアーティスト。
 
-"Le Bateau Ivre" est sorti par Electro/Tech House sur le label Get Physical Music en 2005 en tant que premier single de leur premier album "Dislocated Genius" (2005).
+「 Le Bateau Ivre」は、デビューアルバム 『Dislocated Genius』（2005）からの先行シングルとして2005年にレーベルGet Physical MusicからリリースされたElectro／Tech House。
 
-A1&B2 est un remix de l'unité The Fairy de Jesper Dahlbäck et Tiga Sontag.
+A1&B2は、Jesper DahlbäckとTiga SontagのよるユニットThe Fairyによるremix。
 
 
 

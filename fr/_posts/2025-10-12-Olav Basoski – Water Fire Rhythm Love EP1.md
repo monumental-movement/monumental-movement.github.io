@@ -10,13 +10,13 @@ tags:
 - House
 - Electro
 - 00s
-title: Olav Basoski – Eau Feu Rythme Amour EP1
+title: Olav Basoski – Water Fire Rhythm Love EP1
 ---
 
 
-Olav Basoski est une figure de proue de Holland House, active depuis la fin des années 1990.
+Olav Basoskiは、1990年代後半から活動するオランダ・ハウスの重鎮。
 
-"Water Fire Rhythm Love EP1", sorti en 2004 sur son propre label Rootz Records, permet d'apprécier le son House/Electro sophistiqué d'Olav Basoski.
+2004年に自身のレーベルRootz Recordsからリリースした「Water Fire Rhythm Love EP1」は、Olav Basoskiの洗練されたHouse／Electroサウンドを堪能できる仕上がりになっている。
 
 #### Liste des chansons
 ```md

@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 : Origine du 8 bits - Puce source sonore Famicom et Game Boy
+## Chapitre 1 : Les origines du 8 bits - Puces de source sonore Famicom et Game Boy
 
 ### 1-1. "Ricoh 2A03" qui a déterminé le son de la Famicom/NES
 
@@ -108,7 +108,7 @@ Le canal WAVE du Game Boy vous permet de créer des formes d'onde arbitraires pl
 
 ---
 
-## Chapitre 3 : Culture Tracker et production Chiptune - LSDj / Nanoloop / Famitracker
+## Chapitre 3 : Culture Tracker et production Chipune - LSDj / Nanoloop / Famitracker
 
 ### 3-1. Qu'est-ce que le traqueur ?
 
@@ -181,7 +181,7 @@ Chiptune ne se limite en aucun cas à une « reproduction de musique de jeu », 
 
 ## Chapitre 6 : Analyse technique Chiptune et méthode de composition
 
-### 6-1. Construisez une mélodie principale
+### 6-1. Construire une mélodie principale
 
 - Utilise une onde carrée avec un rapport cyclique de 25% / 50%
 - Slide et vibrato conservent les caractéristiques de la puce source sonore
@@ -250,8 +250,8 @@ Il n’est pas seulement considéré comme un genre musical, mais aussi comme un
 ## Chapitre 10 : L'avenir de Chiptune et l'avenir de l'esthétique 8 bits
 
 La musique 8 bits n’est plus un symbole du rétro ;
-**Une entité qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
-C’est devenu.
+**Une existence qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
+C'est devenu.
 
 - Utilisation en Hyperpop et EDM
 - Textures lo-fi hiphop 8 bits

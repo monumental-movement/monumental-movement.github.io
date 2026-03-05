@@ -12,11 +12,11 @@ tags:
 - Gangsta
 - Punk
 - Soundtrack
-title: VA – Fille de tank
+title: VA – Tank Girl
 ---
 
 
-Bande originale du film de science-fiction post-apocalyptique « Tank Girl » réalisé par Rachel Talalay, sorti en salles en 1995. Tank Girl est une adaptation en direct d'une bande dessinée culte au Royaume-Uni. La bande originale a été assemblée par Courtney Love et Graeme Revell de SPK a fourni la musique originale. Devo a enregistré une nouvelle version de "Girl U Want" pour le film parce qu'elle était une grande fan de la bande dessinée.
+1995年に劇場公開されたレイチェル・タラレイ監督による終末ものSF映画「Tank Girl」のサウンドトラック。タンクガールは、UKでカルト的人気を誇るコミックの実写映像化。サウンドトラックはCourtney Love(コートニー・ラブ)によって組み立てられ、SPKのGraeme Revell(グレーム・レヴェル)はオリジナル音楽を提供した。Devoは、コミックの大ファンだったため、映画のために「Girl U Want」の新しいバージョンを録音した。
 
 #### Liste des chansons
 ```md

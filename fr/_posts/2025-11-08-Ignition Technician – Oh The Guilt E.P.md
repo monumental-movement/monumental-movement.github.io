@@ -9,15 +9,15 @@ permalink: /fr/ignition-technician-oh-the-guilt-e-p/
 tags:
 - Techno
 - 00s
-title: Technicien d'allumage – Oh The Guilt E.P.
+title: Ignition Technician – Oh The Guilt E.P.
 ---
 
 
-Ignition Technician est une équipe de production techno fondée en 1999 par Pete Simpson et Richard Wilkinson de Leeds, au Royaume-Uni.
+Ignition Technicianは、1999年にスタート したUK・リーズ出身のPete SimpsonとRichard WilkinsonによるTechnoプロダクションチーム。
 
-Découverts très tôt par Carl Cox, des DJ tels que Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel et Colin Murry ont commencé à jouer les disques d'Ignition Technician.
+初期にCarl Cox に見い出され、Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel, Colin MurryなどのDJたちもIgnition Technicianのレコードをプレイするようになった。
 
-"Oh la culpabilité EP" est un morceau techno sorti en 2002 sur Ignition Records, un label dirigé par Ignition Technician.
+「Oh The Guilt E.P.」は、Ignition Technicianが運営するレーベルIgnition Recordsから2002年にリリースしたTechnoトラック。
 
 #### Liste des chansons
 ```md

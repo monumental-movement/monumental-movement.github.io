@@ -10,7 +10,7 @@ permalink: /fr/classified-union-dues-promo-12-2/
 tags:
 - Hiphop
 - Rare
-title: Classifié – Promo de cotisations syndicales 12-2
+title: Classifié – Promo des cotisations syndicales 12-2
 ---
 
 

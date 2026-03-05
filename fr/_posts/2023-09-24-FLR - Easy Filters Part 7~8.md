@@ -9,11 +9,11 @@ permalink: /fr/flr-easy-filters-part-7-8/
 tags:
 - Techno
 - Tech House
-title: FLR - Filtres faciles, parties 7 à 8
+title: FLR - Easy Filters Part 7~8
 ---
 
 
-Contient les parties 7 et 8 de la série "Easy Filters" de Ken Ishii, alias "FLR", qui publie des morceaux de type sol sortis sur Reel Musiq en 2000.
+2000年にReel Musiqからリリースされたケンイシイによるフロアライクなトラックをリリースする別名義「FLR」による"Easy Filters"シリーズのパート7&8収録。
 
 #### Liste des chansons
 ```md

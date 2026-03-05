@@ -15,7 +15,7 @@ title: Squeeze – Babylon et sur vinyle
 
 "Babylon and On" est un album sorti en 1987 par le groupe britannique "Squeeze".
 
-Squeeze était un groupe à succès dans les années 1980, connu pour ses chansons incorporant des éléments de pop rock et de new wave. L'album « Babylon and On » a également attiré l'attention pour son son pop distinctif et ses chansons sophistiquées. En particulier, des chansons telles que "Hourglass" sont connues comme les chansons emblématiques de Squeeze.
+Squeeze était un groupe à succès dans les années 1980, connu pour ses chansons incorporant des éléments de pop rock et de new wave. L'album « Babylon and On » a également attiré l'attention pour son son pop distinctif et ses chansons sophistiquées. En particulier, des chansons telles que "Hourglass" sont connues comme les chansons signature de Squeeze.
 
 #### Liste des chansons
 ```md

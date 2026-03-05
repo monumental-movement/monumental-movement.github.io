@@ -10,13 +10,13 @@ tags:
 - House
 - Garage House
 - 90s
-title: Robbie Craig – Spécial
+title: Robbie Craig – Special
 ---
 
 
-Robbie Craig est un auteur-compositeur-interprète originaire de Londres. Il est actif en tant que chanteur principal d'East17 depuis 2014 après que Brian Harvey a quitté le groupe.
+Robbie Craig はロンドン出身のシンガーソングライター。Brian Harvey(ブライアン・ハーヴェイ)の脱退後の2014年よりEast17(イースト17)のリードボーカリストとして活躍している。
 
-"Special" est un morceau house/garage house sorti en 1995 par Public Demand, un label important de la scène garage et 2-step britannique.
+「Special 」は、UKガレージと2ステップシーンの重要レーベルPublic Demand から1995年にリリースされたハウス・ガラージハウストラック。
 
 
 #### Liste des chansons

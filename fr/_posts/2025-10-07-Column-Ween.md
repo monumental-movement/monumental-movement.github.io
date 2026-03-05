@@ -85,7 +85,7 @@ Le son des débuts de Ween était la magie de l'enregistrement à domicile sur *
 Laisse le bruit et la distorsion intacts. Ce n’était pas de la « saleté », c’était de la « vérité ».
 Leurs enregistrements maison sont une sorte d’alchimie lo-fi.
 The Pod est un mélange bizarre de rires morbides et de structure psychédélique.
-Cela rendait les auditeurs anxieux, mais en même temps cela leur procurait un sentiment de plaisir addictif.
+Cela mettait les auditeurs mal à l’aise tout en leur procurant un sentiment de plaisir addictif.
 
 ### Contact avec la scène underground
 
@@ -103,7 +103,7 @@ Durant cette période, Ween vit « entre farces et musique expérimentale ».
 > — *Dean Ween, Entretien de 1994*
 
 1994年の[『Chocolate and Cheese』](https://amzn.to/46LSWQo)は、  
-C'est le premier chef-d'œuvre de Ween sorti de la caverne lo-fi et entré en studio.
+C'est la première percée de Ween depuis la caverne lo-fi jusqu'au studio.
 Pop, funk, country, rock progressif, soul... tout s'entrechoque,
 Vulgaire et noble cohabitent miraculeusement.
 
@@ -147,7 +147,7 @@ Un morceau monumental de pop psychédélique avec pour thème la mythologie océ
 La romance de Brian Wilson et la folie du capitaine Beefheart,
 C'est un album qui donne l'impression d'être enfermé dans une seule coque.
 
-Tous les enregistrements sont analogiques et utilisent une **bande 16 pistes**.
+Tous les enregistrements sont analogiques sur une **bande 16 pistes**.
 Même les fluctuations du bruit étaient contrôlées comme de la musique, créant un pseudo-son de fond marin.
 Des effets comme des échos de guitare, des harmoniques vocales et le bruit de la mer.
 Le son lui-même raconte le mythe des profondeurs marines.
@@ -159,7 +159,7 @@ Le son lui-même raconte le mythe des profondeurs marines.
 Live Ween était un chaos complet.
 ``**Live in Toronto 1996**'' ignore l'ordre des chansons.
 Le rire et le bruit se heurtent et les frontières avec le public fondent.
-C'était plus un rituel qu'un groupe.
+Cela ressemblait plus à un rituel qu'à un groupe.
 
 > « Chaque spectacle est un accident qui attend d'être beau. »
 > — *Dean Ween, 1997*

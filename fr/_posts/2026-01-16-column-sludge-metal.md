@@ -22,11 +22,11 @@ title: '[Chronique] Sludge Metal ─ Esthétique acoustique créée par le poids
 Texte : mmr｜Thème : À propos de l'esthétique sonore du sludge metal
 
 
-Le Sludge Metal n’est pas une musique destinée à progresser ou à élever. Le tempo est lent, les riffs sont implacablement répétitifs et les images sonores refusent d'être clairement séparées. On a l’impression que la musique remplit l’espace, enveloppe l’auditeur et ralentit ses mouvements.
+Le Sludge Metal n’est pas une musique destinée à progresser ou à élever. Le tempo est lent, les riffs sont implacablement répétitifs et les images sonores refusent d'être clairement séparées. Il y a une impression de musique remplissant l’espace, enveloppant l’auditeur et ralentissant ses mouvements.
 
 Ce qui est important dans ce genre, ce n’est pas la mélodie ou la technique, mais la qualité du son. L'épaisseur de la distorsion, la pression des basses et l'intervalle du rythme. Ces facteurs agissent de manière complexe et la musique existe non pas comme une progression linéaire, mais comme une substance précipitante.
 
-Comme le nom du genre l'indique, l'esthétique sonore du sludge metal réside dans la « stagnation ». Il s'éloigne délibérément du son clair, de la structure sophistiquée et d'une expérience d'écoute confortable, présentant la turbidité et la stagnation comme des valeurs. Cette attitude occupe une place unique dans la culture de la musique métal.
+Comme le nom du genre l'indique, l'esthétique sonore du sludge metal réside dans la « stagnation ». Il s'éloigne intentionnellement du son clair, de la structure sophistiquée et d'une expérience d'écoute confortable, présentant la turbidité et la stagnation comme des valeurs. Cette attitude occupe une place unique dans la culture de la musique métal.
 
 > Le bruit du sludge metal n'existe pas pour avancer, mais pour s'enfoncer dans un lieu.
 

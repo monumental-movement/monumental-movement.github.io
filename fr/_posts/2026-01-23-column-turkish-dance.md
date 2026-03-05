@@ -57,7 +57,7 @@ Les signatures rythmiques sont diverses, notamment 2, 5, 7 et 9 temps, ce qui a 
 
 ### Instruments et physicalité
 
-Des instruments tels que le saz (barama), la zurna et le daur séparent clairement la mélodie et le coup, et jouent le rôle d'impulsion directe des mouvements physiques des danseurs.
+Des instruments tels que le saz (barama), la zurna et le daur séparent clairement la mélodie et le coup, et jouent le rôle d'entraînement direct des mouvements physiques des danseurs.
 
 Ce principe de « musique pour bouger le corps » est resté constant même après l'introduction de la musique électronique.
 
@@ -104,7 +104,7 @@ La musique de danse organisée pour les villes incorporait des éléments popula
 
 ### Fusion de folk et de rock
 
-À la fin des années 1960, un mouvement a émergé visant à fusionner la musique folklorique anatolienne avec le rock.
+À la fin des années 1960, un mouvement a émergé pour fusionner la musique folklorique anatolienne et le rock.
 Des guitares électriques et des tambours étaient utilisés pour prolonger les rythmes de danse traditionnels.
 
 ### Maintenir la qualité de la danse
@@ -117,7 +117,7 @@ La musique fusion de cette période se distinguait par le fait que, même si ell
 
 ## Années 1980｜Diaspora et reconstruction
 
-### Rôle de la communauté immigrée allemande
+### Le rôle de la communauté immigrée allemande
 
 Dans les années 1980, la musique traditionnelle et la musique pop étaient rééditées dans les communautés d'immigrés turcs, principalement en Allemagne de l'Ouest.
 

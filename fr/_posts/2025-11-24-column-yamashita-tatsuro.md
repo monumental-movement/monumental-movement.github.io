@@ -67,12 +67,12 @@ Les arrangements et les enregistrements optimisés pour les caractéristiques an
 
 ---
 
-# 2. Fin des années 1970 : début de la période solo et version complète de « Analog Layer »
+# 2. Fin des années 1970 : début de la période solo et forme achevée de « Analog Layer »
 
 ## ■ « SPACY » (1977), « ALLEZ-Y ! » (1978)
-Cette période était l’époque où Tatsuro utilisait pleinement l’enregistrement analogique 24 pistes.
+Cette période était l'époque où Tatsuro utilisait pleinement l'enregistrement analogique 24 pistes.
 
-Caractéristiques:
+特徴：
 - **Compression de sensation de température** avec du ruban adhésif
 - Overdub du jeu des mains (guitare, clavier, percussions)
 - **Des dizaines de voix superposées**
@@ -90,7 +90,7 @@ Au centre de tout cela se trouvait **CBS Sony Shinanomachi Studio**.
 ### ▼ Pic d'enregistrement analogique
 - Matériel utilisé : Studer A80/A800 24tr, console NEVE
 - Rythme : Batterie live + enregistrement analogique
-- Guitare : Son chaud grâce au compresseur
+- Guitare : son chaud grâce au compresseur
 - Chorus : « Dense layering » propre à l'analogique
 - Reverb : plaque EMT 140 avec pré-delay Lexicon
 
@@ -155,7 +155,7 @@ Tatsuro déclare : « Même avec l'enregistrement numérique, vous pouvez créer
 # 6. Années 2000 : La maturité de la production numérique et l’implantation du « numérique analogique »
 
 ## ■ Philosophie d'enregistrement des années 2000
-- L'environnement de production est entièrement numérique
+- L'environnement de production est entièrement numérisé
 - Cependant, concentrez-vous sur la sélection du microphone et le son de la pièce pendant la phase d'enregistrement.
 - "Concevoir des textures analogiques même si elles sont numériques"
 
@@ -230,9 +230,9 @@ timeline
 # 11. City pop et culture de l'enregistrement : Pourquoi le son de l'ère analogique est-il « spécial » ?
 
 La raison pour laquelle les chefs-d'œuvre de Tatsuro Yamashita ont été réévalués dans le monde entier en tant que city pop est la suivante.
-Il ne s'agit pas seulement du charme des chansons, mais aussi de la texture de l'enregistrement analogique et de la culture des studios japonais des années 1980.
+Ce n'est pas seulement le charme des chansons, mais aussi la texture de l'enregistrement analogique et la culture des studios japonais des années 1980.
 
-indiquer:
+ポイント：
 
 - Compatibilité batterie live et enregistrement analogique
 - Jeu avancé avec des musiciens manuels (Tatsuo Hayashi, Hironori Ito, Jun Aoyama, etc.)

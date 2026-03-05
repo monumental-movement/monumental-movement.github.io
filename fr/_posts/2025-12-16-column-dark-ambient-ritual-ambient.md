@@ -56,7 +56,7 @@ De la fin des années 1970 aux années 1980, les gens autour de la musique indus
 * Conception de fréquence en gardant à l'esprit l'inconfort
 * Refus de répéter ou de développer
 
-Ces tentatives ont abouti à une « musique qui ne peut pas être entendue » et ont jeté les bases du son immersif recherché plus tard par Dark Ambient.
+Ces tentatives ont abouti à une « musique qui ne peut pas être entendue » et ont jeté les bases du son immersif auquel aspirait plus tard Dark Ambient.
 
 ---
 
@@ -79,7 +79,7 @@ Grâce à cette méthodologie, la musique est présentée comme un état d’êt
 
 ### 4.1 Déséquilibre des bandes de fréquences
 
-Le design, centré autour de la limite inférieure de la plage audible, crée une perception accompagnée d'une sensation vibratoire physique.
+Le design, centré autour de la limite inférieure de la plage audible, crée une perception accompagnée d'une sensation physique de vibration.
 
 ### 4.2 Gestion de l'enregistrement spatial
 
@@ -121,7 +121,7 @@ Ritual Ambient combine les éléments suivants :
 
 Raison d’être a établi Ritual Ambient comme un « système » plutôt que comme une œuvre individuelle.
 
-Sa production se distingue par le fait que plutôt que d'exprimer des thèmes religieux avec émotion, il les transforme en structures sonores.
+Sa production se distingue par le fait qu'il transforme des thèmes religieux en structures sonores plutôt que de les exprimer émotionnellement.
 
 ---
 

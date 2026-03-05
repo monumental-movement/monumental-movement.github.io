@@ -11,17 +11,17 @@ tags:
 - House
 - Deep House
 - 10s
-title: Crue-L Grand Orchestra – (You Are) More Than Paradise (Traduction Theo Parrish)
+title: Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation)
 ---
 
 
-Un remix de "(You Are) More Than Paradise" de Crue-L Grand Orchestra par Kenji Takimi et Tomoki Kanda.
+Kenji Takimi(瀧見憲司)とTomoki Kanda(神田朋樹)によるCrue-L Grand Orchestra「(You Are) More Than Paradise」のremix。
 
-Sorti en 2010 sous le nom de série Crue-L Classics 12 pouces.
+Crue-L Classics 12インチシリーズとして2010年にリリースされた。
 
-A1 & AA est un remix du DJ/producteur de disques basé à Détroit Theo Parrish.
+A1 & AAは、デトロイトを拠点に活動するDJ／レコードプロデューサーTheo Parrish (テオ・パリッシュ)によるremix。
 
-A2 est un remix de Freaks (Justin Harris & Luke Solomon), un groupe électronique londonien.
+A2は、ロンドン出身のエレクトロニックバンドFreaks (Justin Harris & Luke Solomon)によるremix。
 
 
 #### Liste des chansons

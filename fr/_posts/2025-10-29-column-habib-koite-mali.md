@@ -69,7 +69,7 @@ Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère faisait partie
 Dans sa jeunesse, il étudie à l'**Institut National des Arts (INA)** de Bamako, où il maîtrise la guitare classique et le solfège.
 Après avoir obtenu son diplôme, il a commencé à innover dans son style de jeu de guitare.
 
-Koité a conçu une technique de jeu unique dans laquelle il tirait les cordes avec ses ongles au lieu de ses doigts, reproduisant le son délicat du kamarengoni.
+Koité a conçu une technique de jeu unique dans laquelle il tirait les cordes avec ses ongles au lieu de ses doigts, reproduisant ainsi le son délicat du kamarengoni.
 Le son produit par cette guitare rejette l'accordage européen et se rapproche des rythmes africains. C'était comme le bruit du **vent du désert et du courant du fleuve Niger**.
 
 ---
@@ -140,13 +140,13 @@ Cette métaphore de la « racine et de la branche » décrit le mieux la philoso
 Les générations suivantes des Koité comprenaient les **Rokia Traoré**, **Fatoumata Diawara** et **Vieux Farka Touré**.
 Tous ont hérité du « contexte acoustique africain » instauré par Koité, tout en évoluant dans une direction plus personnelle et expérimentale.
 
-En d’autres termes, Habib Koité a été le premier à faire le lien entre la musique malienne et l’expression individuelle.
+En d’autres termes, Habib Koité a été le premier à faire le pont entre la musique malienne et l’expression individuelle.
 
 ---
 
 ## Chapitre 9 : Analyse sonore - Poétique structurale dans « Ma Ya »
 
-Prenons comme exemple la chanson « **Wassiye** » de « Ma Ya ».
+Prenons l'exemple de la chanson « **Wassiye** » de « Ma Ya ».
 
 * **Tempo** : environ 80 BPM (signature rythmique détendue 6/8)
 * **Structure du rythme** : polyrythmie à 3 couches (guitare/cajon/calebasse)

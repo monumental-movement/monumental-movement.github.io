@@ -46,7 +46,7 @@ Le **Prix Ig Nobel** est connu comme le « petit frère excentrique » du prix N
 Depuis sa création en 1991 par la revue scientifique satirique américaine *Annals of Improbable Research*,
 Le prix a été décerné à des recherches qui font rire et réfléchir.
 
-En plus de domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
+En plus des domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
 Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.
 En effet, la science du son n’est pas seulement un phénomène ondulatoire.
 C’est parce qu’il pénètre profondément dans les émotions humaines, la société et la physiologie.

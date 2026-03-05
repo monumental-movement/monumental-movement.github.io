@@ -21,10 +21,10 @@ title: '[Chronique] L''illusion de l''EDM : célébrer et reconstruire à l''è
 
 Texte : mmr | Thème : Festivals et villes, son et lumière, foules et technologie. Comment le phénomène de l’EDM a-t-il changé la forme des célébrations au 21e siècle ?
 
-Un éclair de lumière laser divise le ciel nocturne, la basse tremble profondément dans son corps et d'innombrables bras se lèvent à l'unisson.
+Un éclair de lumière laser divise le ciel nocturne, la basse vibre au plus profond de son corps et d'innombrables bras se lèvent à l'unisson.
 Le phénomène appelé « EDM » était plus qu’un simple genre musical, c’était une célébration de l’ère numérique.
 Dans les années 2010, les villes du monde entier ont été remodelées par le son. Le désert de Las Vegas, les forêts de Belgique, la baie de Tokyo.
-Dans cette chronique, nous examinerons la naissance, la transformation et « l'au-delà » de l'EDM, à l'intersection du son, de la lumière, du corps et de la technologie.
+Dans cette chronique, nous examinerons la naissance, la transformation et « l'au-delà » de l'EDM à l'intersection du son, de la lumière, du corps et de la technologie.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWb5Qc-fBvk?si=636O5zlmISbww-15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@ L'EDM était « l'architecture de festival » du 21e siècle.
 À l’origine, le mot EDM était plus un terme marketing qu’un nom de genre.
 Mais cette ambiguïté était un symbole de l’époque.
 Peu importe qu'il s'agisse de house, de techno ou de transe, ce qui comptait, c'était l'expérience.
-Tout le monde a cru au moins une fois à l’illusion qu’un seul son peut ébranler le monde.
+Tout le monde a cru au moins un jour à l’illusion qu’un seul son pouvait ébranler le monde.
 
 ---
 
@@ -174,7 +174,7 @@ Mais son héritage imprègne déjà tous les genres.
 Pop, hip hop, musique de jeux...
 Hérite de l'esthétique de la structure en chute et de la pression acoustique.
 
-Les célébrations ne se limiteront désormais plus aux scènes physiques.
+À l’avenir, les célébrations ne se limiteront plus aux scènes physiques.
 Métaverse, AR, DJ virtuel.
 La foule devient un avatar et la lumière circule comme un code.
 
@@ -231,7 +231,7 @@ flowchart TD
 | Synthé | Sérum Xfer | Symbolise le design tonal de l'EDM moderne |
 | Synthé | NI Massif | Pilier de la fin des années 2000 et du début des années 2010 |
 | Synthé | Sylenth1 | Fort dans les sons lead classiques |
-| Plugin | Waves L2/FabFilter Pro-L | Norme de mastering qui a soutenu les guerres du volume |
+| Plug-in | Waves L2/FabFilter Pro-L | Norme de mastering qui a soutenu les guerres du volume |
 | Matériel DJ | Série CDJ pionnière | Équipement de jeu DJ standard mondial |
 | Moniteur | KRK Rokit/Yamaha HS5 | Un moniteur indispensable pour les producteurs de chambres |
 

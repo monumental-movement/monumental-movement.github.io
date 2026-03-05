@@ -53,7 +53,7 @@ Afin de comprendre la noirceur du peuple nordique, il est nécessaire de confirm
 
 Les dieux ne sont pas immortels, mais ils font face à la vieillesse, à la trahison et à la mort. Odin sacrifie ses yeux pour acquérir des connaissances, et Loki devient un dieu, mais aussi un destructeur, menant à la fin du monde.
 
-Ce qui est important dans ce système mythologique, c’est qu’il n’y a aucune hypothèse selon laquelle l’ordre durera éternellement. Une vision du monde fondée sur l’extinction fait que les expressions musicales reflètent plus fortement le destin que l’espoir.
+Ce qui est important dans ce système mythologique, c’est qu’il n’y a aucune hypothèse selon laquelle l’ordre durera éternellement. Une vision du monde fondée sur la perdition fait que les expressions musicales reflètent plus fortement le destin que l’espoir.
 
 > La mythologie nordique contient l'idée d'accepter une fin inévitable plutôt que le salut.
 
@@ -75,7 +75,7 @@ Les paroles des chansons folkloriques racontent à plusieurs reprises des histoi
 ## Violence et mort dans les ballades
 
 
-De nombreuses ballades chantées dans toute la Scandinavie depuis le Moyen Âge sont extrêmement violentes au sens moderne du terme. Les meurtres entre frères et sœurs, les trahisons des amants, les infanticides des mères et les morts qui reviennent sous forme de fantômes sont tous racontés de manière concrète.
+De nombreuses ballades chantées dans toute la Scandinavie depuis le Moyen Âge sont extrêmement violentes au sens moderne. Les meurtres entre frères et sœurs, les trahisons des amants, les infanticides des mères et les morts qui reviennent sous forme de fantômes sont tous racontés de manière concrète.
 
 Ces ballades se déroulent souvent comme une liste de faits, sans excitation émotionnelle. La mélodie est également sobre, avec une structure qui laisse l'interprétation à l'auditeur.
 
@@ -101,7 +101,7 @@ La structure même de l’instrument forme un monde sonore qui évite une résol
 ## Christianisation et transformation de la mythologie noire
 
 
-Même après que le monde nordique soit devenu chrétien, les vieux mythes et l’animisme n’ont pas complètement disparu. Ceux-ci sont réinterprétés comme des hérésies, des superstitions et des contes populaires, et se glissent dans des chansons folkloriques.
+Même après que le monde nordique soit devenu chrétien, les vieux mythes et croyances animistes n’ont pas complètement disparu. Ceux-ci sont réinterprétés comme des hérésies, des superstitions et des contes populaires, et se glissent dans des chansons folkloriques.
 
 Des concepts chrétiens tels que le diable, l’enfer et le péché ont été combinés avec des entités sombres existantes pour former de nouveaux récits. En conséquence, le folk nordique se retrouve dans une double obscurité.
 
@@ -114,7 +114,7 @@ D’un autre côté, les êtres mythiques sont rarement considérés comme compl
 ## Redécouverte et réinterprétation après les temps modernes
 
 
-Après le XIXe siècle, avec la montée du nationalisme, le folklore nordique a été réévalué en tant que « patrimoine culturel ». Au fur et à mesure que la collecte et la notation progressaient, le contenu sombre a été classé comme symbolique et littéraire.
+Après le 19e siècle, avec la montée du nationalisme, le folklore nordique a été réévalué en tant que « patrimoine culturel ». Au fur et à mesure que la collecte et la notation progressaient, le contenu sombre a été classé comme symbolique et littéraire.
 
 Dans la seconde moitié du XXe siècle, la réinterprétation a progressé dans le contexte du dark folk, du neofolk et de l'ambient, et la mythicité et l'idée de vie et de mort sont revenues au premier plan.
 

@@ -109,7 +109,7 @@ Dérivé du système audio Bristol "Wild Bunch". 3D (Robert Del Naja) est égale
 
 #### Technologie de production
 
-Plutôt que d'utiliser une platine vinyle, il « transforme le studio en instrument » et mélange échantillons et musique live. Caractérisé par des basses profondes et un traitement spatial de type dub.
+Plutôt qu'une platine vinyle, il « transforme le studio en instrument » et mélange échantillons et performances live. Caractérisé par des basses profondes et un traitement spatial de type dub.
 
 #### La vidéo fonctionne
 
@@ -131,7 +131,7 @@ Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが�
 On dit que la voix ennuyeuse de Beth Gibbons reflète la tension et la solitude qu'elle ressent sur scène dans son son.
 
 #### Technologie de production
-Une fusion de platine et d'instruments live. Utilisation multicouche de l'échantillonnage et de l'enregistrement analogique.
+Une fusion de platines et d'instruments live. Utilisation multicouche de l'échantillonnage et de l'enregistrement analogique.
 
 #### La vidéo fonctionne
 Il existe des documentaires sur les tournées des années 90 comme "Welcome to Portishead".
@@ -154,7 +154,7 @@ Il existe des documentaires sur les tournées des années 90 comme "Welcome to P
 Endtroducing... est inscrit dans le Livre Guinness des records comme le « premier album entièrement construit à partir d'échantillons ». Terminé à l'aide d'un MPC et d'une platine vinyle.
 
 #### Technologie de production
-Utilise pleinement la reconstruction du breakbeat, le jonglage des rythmes et l'étirement du temps. Considérez le plateau tournant comme un « outil de collage ».
+Tirer pleinement parti de la reconstruction du breakbeat, du beat jonglerie et du time stretching. Considérez le plateau tournant comme un « outil de collage ».
 
 #### La vidéo fonctionne
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
@@ -175,7 +175,7 @@ Utilise pleinement la reconstruction du breakbeat, le jonglage des rythmes et l'
 Présenter la « tranquillité japonaise » à l'échelle mondiale à travers des tournées mondiales. Il est respecté par la scène hip-hop occidentale.
 
 #### Technologie de production
-Un style qui considère la platine comme un « instrument » et tente de la fusionner avec des instruments de musique japonais et des sons environnementaux. Spécialisé non seulement dans le scratch mais également dans la production spatiale.
+Un style qui considère la platine comme un « instrument » et tente de la combiner avec des instruments de musique japonais et des sons environnementaux. Spécialisé non seulement dans le scratch mais également dans la production spatiale.
 
 #### La vidéo fonctionne
 
@@ -196,6 +196,15 @@ La sensation cinématographique du trip hop est parfaite pour créer des bandes 
 
 Le trip hop a évolué à travers la lourdeur de Massive Attack, l'ennui de Portishead, l'esthétique sample de DJ Shadow et la sérénité japonaise de DJ Krush.
 Aujourd’hui, il évolue vers une nouvelle ère en combinant génération de musique IA et production de bandes sonores.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ay0HS8iWrI?si=BlgLowTv8OAg-Xn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

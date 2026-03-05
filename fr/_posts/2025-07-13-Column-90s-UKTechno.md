@@ -9,33 +9,33 @@ permalink: /fr/column-90s-uktechno/
 tags:
 - UK Techno
 - 90s
-title: '[Chronique] L''âge d''or de la techno britannique'
+title: 【コラム】 UKテクノの黄金時代
 ---
 
 
-## L'âge d'or de la techno britannique : un enregistrement des sons et des luttes des années 1990
+## UKテクノの黄金時代：1990年代の音と闘争の記録
 
-Texte : mmr｜Thème : Culture techno britannique
+文：mmr｜テーマ：UKテクノ・カルチャー
 
 
 <hr>
 
-### Techno, une autre révolution britannique
-Dans les années 1990, la techno s’est approfondie et a muté dans son son et son esprit, comme un enfant né à Détroit grandissant au Royaume-Uni. La Grande-Bretagne a non seulement adopté cette musique, mais l'a également étendue du monde underground aux clubs, aux raves et aux lieux d'expérimentation sonore. Dans cet article, nous couvrirons l’image globale de la techno britannique des années 90 du point de vue de la culture, de la musique, des gens et des labels.
+### テクノ、もうひとつのUK革命
+1990年代、テクノはデトロイトで生まれた子供がUKで育ったかのように、その音と精神を深化させ、変異させていく。イギリスはこの音楽をただ受け入れただけでなく、アンダーグラウンドからクラブ、レイヴ、そして音響実験の場へと拡張した。この記事では、90年代UKテクノの全体像を文化、音楽、人物、レーベルの視点から網羅していく。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Fusion de la culture rave et de l'underground
-Après le « Second Summer of Love » en 1988, le Royaume-Uni fut plongé dans une explosion d'acid house et de rave. Par la suite, diverses sous-espèces de hardcore, de breakbeat et de techno se sont développées sous terre au début des années 90.
+### レイヴカルチャーとアンダーグラウンドの融合
+1988年の“セカンド・サマー・オブ・ラブ”を経て、UKはアシッド・ハウスとレイヴの爆発的な熱狂に包まれる。その余波の中で、90年代初頭にはハードコア、ブレイクビート、そしてテクノの多様な亜種が地下で育っていった。
 
-D’un autre côté, la fin du gouvernement Thatcher et l’aggravation des disparités économiques ont imprimé l’insatisfaction et la rébellion des jeunes dans la musique. La techno britannique n’était pas seulement de la musique dance, c’était aussi un mouvement social armé de sound-systems et de raves illégales.
+一方でサッチャー政権の終焉と経済格差の広がりは、若者たちの不満と反抗心を音楽に刻ませた。UKテクノはただのダンスミュージックではなく、サウンドシステムと非合法レイヴを武器にした社会運動でもあった。
 
 
 <hr>
 
-### Lignée d'innovateurs
+### 革新者たちの系譜
 
 [**● The Black Dog**](https://amzn.to/3IHLfS5)
 
@@ -43,7 +43,7 @@ D’un autre côté, la fin du gouvernement Thatcher et l’aggravation des disp
 
 [**● Surgeon（アンソニー・チャイルド）**](https://amzn.to/3J8lKJC)
 
-Le porte-drapeau de la techno de Birmingham. Dur, industriel et solide. Il est devenu célèbre avec des sorties sur Tresor et Downwards et est toujours au cœur de la techno britannique.
+バーミンガム・テクノの旗手。ハードでインダストリアル、そしてソリッド。TresorやDownwardsからのリリースで名を上げ、現在でもUKテクノの中核にいる。
 
 [**● Luke Slater**](https://amzn.to/4mZWTpi)
 
@@ -51,46 +51,46 @@ Le porte-drapeau de la techno de Birmingham. Dur, industriel et solide. Il est d
 
 [**● Regis & British Murder Boys**](https://amzn.to/4mZWUtm)
 
-Une figure incontournable de la techno industrielle britannique. Regis a fondé le label Downwards et a créé le son dystopique de Birmingham.
+UKのインダストリアル・テクノの核心人物。RegisはDownwardsレーベルを設立し、バーミンガム独自のディストピア・サウンドを確立。
 
 [**● Autechre**](https://amzn.to/4q1OyUJ)
 
-Bien que plus IDM que pure techno, ils représentent le côté intellectuel de la techno britannique aux côtés de Warp Records. « Incunabula » et « Amber » sont des œuvres représentatives des années 90.
+純粋なテクノというよりIDMだが、Warp Recordsと共にUKテクノの知的側面を象徴。『Incunabula』『Amber』などは90年代を代表する作品。
 
 
 <hr>
 
-### La mère de la techno britannique
+### UKテクノの母胎
 
 [**● Warp Records（シェフィールド）**](https://amzn.to/3L81dp5)
 
-Très tôt, ils ont sorti de la techno bip rebondissante, puis ont déménagé en terre sainte de l'IDM. Comprend LFO, Nightmares on Wax, Autechre, The Black Dog, et plus encore.
+初期はバウンシーなブリープテクノをリリースし、後にIDMの聖地へ。LFO、Nightmares on Wax、Autechre、The Black Dogなどが所属。
 
 [**● Downwards（バーミンガム）**](https://amzn.to/4ocHKSr)
 
-Fondée par Régis. Avec Surgeon et d'autres, il a défini le « son de Birmingham », en se concentrant sur les sons industriels et ascétiques.
+Regisが設立。インダストリアルで禁欲的なサウンドを中心に、Surgeonらと共に「バーミンガム・サウンド」を定義。
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-Un sous-label de Mute Records. Avec des artistes tels que Luke Slater, Speedy J et Laurent Garnier, ils se sont répandus non seulement au Royaume-Uni mais aussi sur la scène techno dans toute l'Europe.
+Mute Recordsのサブレーベル。Luke Slater、Speedy J、Laurent Garnierなどを抱え、UKのみならずヨーロッパ全体のテクノシーンにも波及。
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 
-Un label qui a introduit une techno britannique plus profonde, basée à Détroit. La liste comprend Luke Slater, Stacey Pullen et Paul Mac.
+よりディープでデトロイト由来のUKテクノを紹介したレーベル。Luke Slater、Stacey Pullen、Paul Macらが名を連ねる。
 
 
 
 <hr>
 
-### Rigide, expérimental et rebelle
+### 硬質、実験的、そして反抗的
 
-La techno britannique des années 90 présente les caractéristiques sonores suivantes :
+90年代UKテクノは、次のような音的特徴を持つ：
 
-- Influence de l'industriel/EBM (notamment style Downwards)
+- インダストリアル／EBMからの影響（特にDownwards系）
 
-- Structure expérimentale et sound design (style Warp)
+- 実験的な構造とサウンドデザイン（Warp系）
 
-- Rainure dure et minimale (type Surgeon, Slater)
+- ハードでミニマルなグルーヴ（Surgeon、Slater系）
 
 - Internalisation des messages sociaux et politiques (influence de la culture rave)
 
@@ -178,7 +178,7 @@ La techno britannique de cette époque n’était pas jouée pour danser, mais p
 
 La techno britannique des années 90 n'était pas seulement un mouvement musical, c'était le cœur de la ville. Battements glacials et mélancolie brumeuse.
 
-Entre-temps, une frénésie underground est née. Une ancienne usine à Sheffield, un entrepôt à Birmingham, un club avant l'aube à Londres, ils vibraient tous au même rythme.
+Entre les deux, une frénésie underground est née. Une ancienne usine à Sheffield, un entrepôt à Birmingham, un club avant l'aube à Londres, ils vibraient tous au même rythme.
 
 La techno a créé de la poésie à partir des réverbérations de l’industrie, présentant une esthétique de destruction et de reconstruction. La techno britannique fait sonner « l'âme de la machine » tout en déconstruisant le son et le temps. C’est le souvenir d’une révolution tranquille et violente qui se poursuit encore aujourd’hui.
 

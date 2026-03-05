@@ -12,15 +12,15 @@ tags:
 - Soul
 - Hiphop
 - 90s
-title: Kele Le Roc – Faites-moi savoir
+title: Kele Le Roc – Let Me Know
 ---
 
 
-Kelly Biggs, également connue sous le nom de Kele Le Roc, est une chanteuse britannique de R&B/UK Garage/Britpop.
+Kele Le Roc（ケ・レル・ロック）ことKelly Biggs（ケリー・ビッグス）は、イギリスのR&B / UKガレージ/ ブリットポップシンガー。
 
-Sorti en 1995, "Let Me Know" est devenu un succès underground et club, et la chanson a catapulté Kele Le Roc vers la gloire.
+1995年にリリースされた「Let Me Know」は、アンダーグランド＆クラブヒットとなり、Kele Le Rocはこの曲で一躍有名になった。
 
-La deuxième chanson de la face B, "No.1", est un duo avec le chanteur britannique Lemar.
+B面２曲目の「No.1」は、UKのシンガーLemar（レマー）とのデュエット曲。
 
 #### Liste des chansons
 ```md

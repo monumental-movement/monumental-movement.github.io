@@ -168,4 +168,4 @@ SRL continue de se produire en utilisant des machines et des robots et a partici
 
 ### Conclusion
 
-Survival Research Laboratories est un groupe innovant qui questionne la relation entre les machines et les humains, la technologie et l’art, l’ordre et le chaos. Leur travail propose une critique pointue du rôle et de l’influence de la technologie dans la société moderne à travers des chocs visuels et auditifs. Les activités du SRL continueront d'inspirer de nombreux artistes et ingénieurs.
+Survival Research Laboratories est un groupe innovant qui questionne les relations entre les machines et les humains, la technologie et l’art, entre l’ordre et le chaos. Leur travail propose une critique pointue du rôle et de l’influence de la technologie dans la société moderne à travers des chocs visuels et auditifs. Les activités du SRL continueront d'inspirer de nombreux artistes et ingénieurs.

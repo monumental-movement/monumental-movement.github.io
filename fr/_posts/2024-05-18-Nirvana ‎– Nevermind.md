@@ -11,14 +11,14 @@ tags:
 - Grunge
 - Alternative Rock
 - 90s
-title: Nirvana – Peu importe
+title: Nirvana – Nevermind
 ---
 
-Nirvana est un groupe de rock américain connu comme un pionnier du rock alternatif et du grunge. "Nevermind" est le deuxième album de Nirvana et a été un énorme succès, atteignant le numéro un du Billboard. Le succès de cet album a déclenché le mouvement grunge/rock alternatif en Amérique.
+Nirvanaは、オルタナティブロック＆グランジの先駆者として知られているUSロックバンド。「Nevermind」はNirvana2枚目のアルバムで、ビルボード1位に輝く大ヒットとなった。このアルバムのヒットにより、アメリカでグランジ/オルタナティヴ・ロックムーブメントが起こった。
 
-"Smells Like Teen Spirit" est sorti en tant que premier single de "Nevermind" et est devenu la chanson signature de Nirvana.
+「Smells Like Teen Spirit（スメルズ・ライク・ティーン・スピリット）」は「Nevermind」先行シングルとしてリリースされ、ニルヴァーナの代表曲となった。
 
-La chanson « Something In The Way » sera utilisée dans le film « THE BATMAN » qui sortira en 2022.
+収録曲「Something In The Way」は2022年公開の映画『THE BATMAN-ザ・バットマン-』で使用されている。
 
 #### Liste des chansons
 ```md

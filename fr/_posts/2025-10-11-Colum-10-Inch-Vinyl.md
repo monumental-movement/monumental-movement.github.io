@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Ni 7 pouces ni 12 pouces. L'esthétique du son et les sou
 
 
 Disque de 10 pouces.
-Il y a une certaine ambiguïté dans ce mot. Il a une présence unique mais à moitié finie qui est différente de l'effet immédiat d'un single de 7 pouces ou de la sensation satisfaisante d'un LP de 12 pouces. Si l’on regarde l’histoire des records, on voit comment ce « format intermédiaire » a marqué un tournant dans les temps.
+Il y a une certaine ambiguïté dans ce mot. Il a une présence unique mais à moitié finie, différente de l'effet immédiat d'un single de 7 pouces ou de la sensation satisfaisante d'un LP de 12 pouces. Si l’on regarde l’histoire des records, on voit comment ce « format intermédiaire » a marqué un tournant dans les temps.
 
 10 pouces n’est pas seulement une question de taille. C'était aussi une autre philosophie qui redéfinissait la « durée » et la « densité du son ». La restriction d'environ 10 minutes par face obligeait les artistes et les ingénieurs du son à choisir la « condensation », et le résultat était un son étonnamment bien défini et une expérience d'écoute qui exigeait de la concentration.
 
@@ -57,9 +57,9 @@ De plus, la petite surface de la carte réduit la distorsion interne, rendant la
 
 ---
 
-### L'âge d'or du 10 pouces des années 1950 : le terrain d'expérimentation du jazz et de la musique classique
+### L'âge d'or du 10 pouces des années 1950 : terrain d'expérimentation pour le jazz et la musique classique
 
-Le 10 pouces connaît son apogée à l’aube du jazz au début des années 1950.
+Le 10 pouces connaît son apogée à l’aube du jazz, au début des années 1950.
 Des labels comme Blue Note, Prestige et Clef ont limité l'expérimentation des artistes au format 10 pouces.
 
 Miles Davis [« Jeune homme avec une corne »](https://amzn.to/4qkdGGC) (1952), Thelonious Monk [« Thelonious Monk Trio »](https://amzn.to/4ol2uI1) (1954), Charlie Parker [« C'est le moment »](https://amzn.to/4qkfrUe) (1953). Toutes ces œuvres étaient comme des « courts métrages » qui recherchaient la meilleure composition dans les limites de 10 pouces.
@@ -72,7 +72,7 @@ Ce qu’il ne faut pas négliger, c’est l’évolution du design des vestes. B
 
 ### Le retour de la taille oubliée : dans le contexte du punk, de l'alternatif et de l'indie
 
-Finalement, les LP de 12 pouces ont dominé le marché et les 10 pouces ont été relégués aux marges de l'histoire.
+Finalement, les disques vinyles de 12 pouces ont dominé le marché et les disques de 10 pouces ont été relégués aux marges de l'histoire.
 Cependant, dans les années 1980, les tendances punk et indie ont ramené le format.
 
 La raison était simple.
@@ -111,7 +111,7 @@ C’est une expérience musicale consciente de la fin, contrairement à une play
 
 ---
 
-### Chapitre final : Le temps dans la paume de votre main, 10 pouces parle de la « densité du son »
+### Dernier chapitre : Le temps dans la paume de votre main, la « densité sonore » de 10 pouces
 
 10 pouces est incomplet mais complet.
 Il ne s'agit pas d'une longue histoire ou d'une nouvelle, mais d'un format « nouvelle ».

@@ -10,13 +10,13 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Good Groove avec Soul – Funkin' You4
+title: Good Groove w Soul – Funkin' You4
 ---
 
 
-Good Groove (Klaus Löschner) est un DJ/producteur techno originaire de Munich, en Allemagne. Il a débuté sa carrière en 1985 et a organisé la première soirée techno de Munich au Babalu Club, alors branché, avec Sven Väth, Westbam et Dr. Motte.
+Good Groove(Klaus Löschner)は、ドイツ・ミュンヘン出身のテクノDJ／プロデューサー。1985年に活動を始め、当時流行のBabalu ClubでSven Väth、Westbam、Dr. Motteと一緒にミュンヘンで最初のミュンヘンテクノパーティーをオーガナイズした。
 
-A2 est un remix du musicien/DJ/producteur électronique britannique Luke Slater.
+A2は、UKのエレクトロニックミュージシャン／DJ／プロデューサー Luke Slater (ルーク•スレーター )によるremix。
 
 
 #### Liste des chansons

@@ -110,7 +110,7 @@ Il s'agit de ses premiers travaux après avoir étudié à l'étranger à Londre
 #### Début des années 1970 : période de création de l'afrobeat
 - **Gentilhomme (1973)**
 Un chef-d'œuvre qui critique le colonialisme. Un message social s'ajoute au groove funk.
-- **"Confusion" (1975)**
+- **Confusion (1975)**
 Une chanson de 20 minutes qui dépeint de manière figurative le chaos urbain de Lagos.
 
 #### Fin des années 1970 : apogée politique
@@ -209,9 +209,9 @@ Il dirige les années 80 égyptiennes et hérite directement du style de son pè
 ### résumé
 
 Fela Kuti n'était pas seulement le « père des Afrobeats » mais aussi un symbole de résistance politique à travers la musique. Cet héritage continue de se refléter à travers ses fils Femi Kuti et Soon Kuti, ainsi que dans le travail d'artistes du monde entier.
-Si vous souhaitez en savoir plus sur l'Afrobeat, nous vous recommandons de commencer par « Gentleman », « Expensive Shit » et « Zombie ».
+Si vous souhaitez en savoir plus sur l'afrobeat, nous vous recommandons de commencer par « Gentleman », « Expensive Shit » et « Zombie ».
 
-Les paroles et les rythmes de Fela résonnent encore dans les brises de Lagos et sur les scènes du monde.
+Les paroles et les rythmes de Fela résonnent encore dans les vents de Lagos et sur les scènes du monde.
 
 ---
 

@@ -10,17 +10,17 @@ tags:
 - House
 - French House
 - 90s
-title: Glaubitz & Roc – Sunshine Day Les Remixes Français
+title: Glaubitz & Roc – Sunshine Day The French Remixes
 ---
 
 
-Un remix français de "Sunshine Day" par le DJ et producteur Electro/Tech-House/Minimal Carsten Glaubitz d'Allemagne et le producteur Electro/Tech-House/Minimal Oliver Rockstedt (Chris Powell).
+ドイツ出身のElectro/Tech-House/Minimal DJ &プロデューサーCarsten GlaubitzとElectro/Tech-House/Minimal プロデューサーOliver Rockstedt(Chris Powell )による「Sunshine Day 」のフレンチリミックス。
 
-Il est sorti en 1999 sur le label house French & Filter Full House.
+1999年にフレンチ&フィルターハウスレーベルFull Houseからリリースされた。
 
-A1 est un remix de Robert Collado et Stéphane Bonan.
+A1は、Robert Collado とStéphane Bonanによるremix。
 
-B est un remix du DJ Richard Gray, qui a contribué au succès mondial de la « French Touch » en house music.
+Bは、ハウスミュージックにおける「フレンチ・タッチ」の世界的成功に貢献したDJ Richard Greyによるremix。
 
 #### Liste des chansons
 ```md

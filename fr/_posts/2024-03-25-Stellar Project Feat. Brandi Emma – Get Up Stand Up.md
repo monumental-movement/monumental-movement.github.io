@@ -10,17 +10,17 @@ tags:
 - House
 - Trance
 - 00s
-title: Projet Stellar Feat. Brandi Emma – Lève-toi, debout
+title: Stellar Project Feat. Brandi Emma – Get Up Stand Up
 ---
 
 
-Stellar Project est un projet house/dance du producteur italien Stefano Sorrentino.
+Stellar Projectは、イタリアのプロデューサーのStefano Sorrentinoによるハウス/ダンスプロジェクト。
 
-Side A est un remix du duo de DJ italien house/techno Phunk Investigation.
+A面はイタリアのハウス/テクノ DJデュオPhunk Investigationによるremix。
 
-Le premier morceau de la face B est un remix du projet de transe F&W du producteur danois Lars Frederiksen et Søren Weile.
+B面１曲目はデンマークのプロデューサーLars FrederiksenとSøren WeileのトランスプロジェクトF&Wによるremix。
 
-La deuxième chanson de la face B est un remix du DJ britannique Paul Jackson.
+B面２曲目はUKのDJ Paul Jacksonによるremix。
 
 #### Liste des chansons
 ```md

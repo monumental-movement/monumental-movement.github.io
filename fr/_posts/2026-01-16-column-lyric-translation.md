@@ -68,7 +68,7 @@ Dans le domaine de la traduction de paroles, le choix entre traduction littéral
 Les traductions littérales sont efficaces pour préserver le sens, mais perdent souvent le rythme et l'émotion.
 Les traductions parallèles préservent le sens de l’ouïe et de l’émotion, mais tendent à s’écarter du sens du texte original.
 
-En particulier, la musique populaire impose de fortes restrictions en matière de mélodie et de nombre de mots, et la logique de la traduction en prose ne s'applique pas.
+En particulier dans la musique populaire, il existe de fortes restrictions sur la mélodie et le nombre de mots, et la logique de la traduction en prose ne s'applique pas.
 L’ajout ou la soustraction d’une seule syllabe perturbe toute la mélodie, obligeant les traducteurs à constamment réduire et reconstruire le sens.
 
 Dans ce processus, la compréhension culturelle et les jugements de valeur du traducteur interviennent inévitablement.
@@ -124,7 +124,7 @@ Cependant, cette traduction bilingue n’était qu’une aide à la compréhensi
 ## Chapitre 6 Lecture erronée et réinterprétation comme transfert culturel
 
 Les erreurs de lecture sont inévitables dans le transfert culturel par la traduction.
-Toutefois, cette lecture erronée n’a pas nécessairement de conséquences négatives.
+Toutefois, cette lecture erronée n’a pas forcément que des conséquences négatives.
 
 Il existe de nombreux exemples de paroles mal comprises dans une culture, acquérant un nouveau sens dans un autre contexte et formant des histoires de réception uniques.
 La réception du rock et du hip-hop au Japon s'est également établie à travers cette chaîne de réinterprétations.
@@ -147,13 +147,13 @@ Cela a fait du hip-hop un cas particulier d’importance culturelle sans aucune 
 
 ---
 
-## Chapitre 8 Le rap japonais et le transfert culturel inverse
+## Chapitre 8 : Rap japonais et importation culturelle en sens inverse
 
-L’établissement du rap japonais n’a pas progressé grâce à la traduction de paroles en anglais, mais grâce à la transplantation de formes et d’attitudes.
+L’établissement du rap japonais n’a pas progressé grâce à la traduction de paroles en anglais, mais à travers la transplantation de formes et d’attitudes.
 Ici, l’accent est mis sur l’imitation et la reconstruction plutôt que sur la traduction.
 
 Dans le processus d’adaptation de la prosodie anglaise au japonais, le sens unique du rythme japonais a été mis en valeur et un nouveau système d’expression est né.
-Il ne s’agit pas d’une traduction, mais d’une localisation d’un transfert culturel.
+Il ne s'agit pas d'une traduction, mais d'une localisation d'un transfert culturel.
 
 > Le transfert culturel ne passe pas nécessairement par la langue.
 

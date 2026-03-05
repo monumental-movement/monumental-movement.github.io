@@ -15,9 +15,9 @@ title: Autechre – Peel Séance 2
 ---
 
 
-Peel Session 2 est la deuxième session John Peel d'Autechre, diffusée le 8 septembre 1999, et le CD est sorti sur Warp Records en 2000.
+Peel Session 2 est la deuxième session John Peel d'Autechre, diffusée le 8 septembre 1999, et un CD sorti sur Warp Records en 2000.
 
-Lorsque John Peel a reçu cet enregistrement pour la première fois, on dit qu'il a nommé lui-même les morceaux, car aucun des morceaux, à l'exception du quatrième, « 19 Headaches », n'avait de nom.
+Lorsque John Peel a reçu cet enregistrement pour la première fois, on dit qu'il a nommé lui-même les morceaux, car aucun des morceaux, à l'exception du quatrième, « 19 Headaches », n'a été nommé.
 
 #### Liste des chansons
 ```md

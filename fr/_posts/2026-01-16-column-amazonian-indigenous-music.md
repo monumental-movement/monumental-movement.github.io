@@ -20,7 +20,7 @@ title: '[Chronique] Culture musicale des indigènes amazoniens : un univers sono
 
 ## Prologue : Un monde de sons qui remplit la forêt
 
-Texte : mmr｜Thème : Une culture musicale qui n'est pas un héritage figé, mais qui s'est héritée en changeant de forme en réponse aux changements de l'environnement et de la société.
+Texte : mmr｜Thème : La culture musicale n'est pas un héritage figé, mais a été héritée en changeant de forme en réponse aux changements de l'environnement et de la société.
 
 Le bassin du fleuve Amazone est l’une des régions les plus diversifiées culturellement au monde. Des centaines de groupes autochtones ont vécu ensemble, chacun avec ses propres langues, mythes et structures sociales. Dans ce contexte, la musique s’est développée non pas comme une forme indépendante de divertissement ou d’art, mais comme un acte indissociable de la vie elle-même.
 
@@ -71,7 +71,7 @@ Ces musiques ne « décrivent » pas la nature. Il s’agit d’un acte visant �
 
 ---
 
-## Symbolisme de l'instrumentation et des matériaux
+## Symbolisme des systèmes d'instruments et des matériaux
 
 
 Les instruments utilisés sont fabriqués à partir de matériaux obtenus du milieu environnant. Les principaux matériaux sont le bois, le bambou, les os, les graines, les coquillages et l'argile, chacun ayant une symbolique spécifique.

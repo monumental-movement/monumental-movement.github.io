@@ -9,13 +9,13 @@ permalink: /fr/krafty-kuts-uptight/
 tags:
 - Breakbet
 - 00s
-title: Krafty Kuts – Uptight / Où est le bruit
+title: Krafty Kuts – Uptight / Where's The Noise
 ---
 
 
-Martin Reeves, également connu sous le nom de Krafty Kuts, est un DJ et producteur de Brighton. En 2006, il a remporté le prix du meilleur DJ aux Breakspoll Awards, qui sont considérés comme la plus haute récompense dans le monde du break.
+Krafty Kuts（クラフティー カッツ）こと Martin Reeves（マーティン・リーヴス）はブライトン出身のブレイクDJ＆プロデューサー。2006年にはブレイクス界最高賞ともいわれるBreakspoll AwardsでベストDJを受賞。
 
-"Uptight / Where's The Noise" est un morceau breakbeat sorti par Deepcut Recordings en 2004.
+「Uptight / Where's The Noise」は2004年にDeepcut Recordingsからリリースされたブレイクビーツトラック。
 
 #### Liste des chansons
 ```md

@@ -11,13 +11,13 @@ tags:
 - Folk
 - Psychedelic
 - Spiritual
-title: Esprit de l'arbre – Esprit de l'arbre
+title: Tree Spirit – Tree Spirit
 ---
 
 
-Tree Spirit est un groupe californien. Le groupe énergique et respectueux de la terre a un style unique qu'il appelle « earth rock », qui est une fusion de rock, de folk et de psychédélique.
+Tree Spiritは、カリフォルニア出身のグループ。ハイエナジーで地球を愛する彼らが「アース・ロック」と呼ぶ独自のスタイルはロック、フォーク、サイケデリックが融合した音楽となっている。
 
-« Tree Spirit », qui porte le titre du nom du groupe, est une sortie privée sortie en 1985 sur leur propre label Tree Spirit Records. Une source sonore assez rare et une cassette rare.
+グループ名をタイトルとした「Tree Spirit」は、自主レーベルTree Spirit Recordsから1985年にリリースしたプライベートリリース。かなりのレア音源＆希少カセットテープ。
 
 #### Liste des chansons
 ```md

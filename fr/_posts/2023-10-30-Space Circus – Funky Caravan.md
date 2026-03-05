@@ -10,7 +10,7 @@ tags:
 - Rock
 - Progressive
 - Fusion
-title: Space Circus – Caravane Funky
+title: Space Circus – Funky Caravane
 ---
 
 

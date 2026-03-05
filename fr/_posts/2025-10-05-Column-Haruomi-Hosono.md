@@ -59,7 +59,7 @@ Un ami a ajouté des effets sonores et des rires aux enregistrements, et son sen
 ### Chapitre 1 : Happy End - L'aube du rock japonais (1969-1972)
 
 #### Œuvre représentative : « Kazamachi Roman » (1971)
-Une œuvre monumentale qui dépeint pour la première fois l’atmosphère poétique de la ville de Tokyo dans le contexte du rock.
+Une œuvre monumentale qui dépeint pour la première fois l'atmosphère poétique de la ville de Tokyo dans le contexte du rock.
 Durant cette période, Hosono a joué un rôle important dans la composition musicale tout en jouant de la basse.
 Des chansons telles que « It's Summer » et « Gather the Wind » ont un son urbain mais nostalgique.
 
@@ -84,7 +84,7 @@ Après cela, c’est devenu la base pour lui permettre de poursuivre ses propres
 
 #### Chef-d'œuvre
 
-- « Maman caramel » (1975)
+- "Maman caramel" (1975)
   
 Ils fusionnent des éléments de folk et de rock psychédélique et montrent une musicalité directement liée au Happy End ultérieur.
 Hosono a participé à la basse et au clavier, démontrant ses talents d'improvisation et d'arrangement.
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) est une unité révolutionnaire qui a fait connaît
 En tant que leader, Hosono a utilisé des machines à rythmes et des séquenceurs pour fusionner humour asiatique et sons futuristes.
 
 #### Contexte historique
-Au début des années 1980, le Japon atteint le sommet de sa croissance technologique et économique.
+Au début des années 1980, le Japon atteint l’apogée de sa prospérité technologique et économique.
 Une époque où le développement des ordinateurs, des jeux vidéo et des instruments de musique électroniques fusionnait avec la musique.
 Le son de YMO était un symbole du Japon en tant que nation électronique.
 
@@ -204,7 +204,7 @@ Le salon servait de cabine d’enregistrement et même les échos des meubles de
 
 #### Anecdote
 On raconte que dans l'enregistrement de « Philharmonie », il a utilisé le son d'un cri de chat, qu'il a entendu par hasard, comme « matériau sonore ».
-Hosono a dit en plaisantant : « La musique, c'est vivre avec le hasard. »
+Hosono a dit en plaisantant : « La musique, c'est vivre avec le hasard. »
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCAt_v_VDEc?si=JNiOG-MhlGPzdQxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -218,7 +218,7 @@ Hosono a dit en plaisantant : « La musique, c'est vivre avec le hasard. »
 - "EMI" (1995)
 
 C'était une époque où il travaillait sur la musique pour une grande variété de médias, notamment l'animation, les films et les publicités.
-``Night on the Galaxy Express'' brille par des compositions délicates qui semblent traduire en son la littérature fantastique de Kenji Miyazawa.
+``Night on the Galactic Railway'' brille par des compositions délicates qui semblent traduire en son la littérature fantastique de Kenji Miyazawa.
 
 #### Contexte historique
 Après l'éclatement de la bulle économique, les valeurs du Japon ont été ébranlées.

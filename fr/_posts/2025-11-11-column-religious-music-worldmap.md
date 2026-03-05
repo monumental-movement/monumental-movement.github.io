@@ -214,7 +214,7 @@ timeline
 La musique religieuse touche profondément l'esprit humain et apporte **l'harmonie entre le corps, l'esprit et la société**.
 Des mantras anciens à la musique ambiante moderne, le thème sous-jacent est une expérience transcendantale à travers le son.
 
-Même si les religions changent, le pouvoir du son va dans la même direction.
+Même si les religions changent, le pouvoir du son reste dans la même direction.
 C'est le **rythme universel de la prière**.
 
 ---

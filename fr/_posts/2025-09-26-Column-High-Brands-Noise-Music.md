@@ -14,7 +14,7 @@ title: '[Chronique] Grandes marques et musique noise : l''intersection du luxe e
 ---
 
 
-## À première vue, les deux semblent sans rapport.
+## À première vue, les deux ne semblent pas liés.
 
 Texte : mmr｜Thème : L'affinité entre les défilés de mode récents et la musique noise
 
@@ -76,7 +76,7 @@ Mais ironiquement, c’est cette attitude « anti-commerciale » qui en fait un 
 
 ### Importance contemporaine : le bruit crée de l'instabilité
 
-La mode du 21ème siècle est confrontée aux risques de la « consommation de masse » et de la « circulation à grande vitesse ».
+La mode du 21e siècle est confrontée aux risques de la « consommation de masse » et de la « circulation à grande vitesse ».
 Par conséquent, le bruit met l’accent sur « l’instabilité » et le « caractère unique » pour contrecarrer l’homogénéisation.
 Les rugissements et les bruits mettent le public mal à l'aise et l'excitent, prouvant que la marque est un « provocateur ».
 
@@ -249,13 +249,13 @@ Du côté de la musique noise/expérimentale, le contact avec des marques haut d
 
 ### COMME des GARÇONS / Gucci / Prada
 
-Archives de documents liés aux « artistes du bruit/expérimentaux/acoustiques qui ont été réellement utilisés dans des spectacles/campagnes (ou dont la relation a été clairement signalée) »
+Archives de documents liés aux « artistes du bruit/expérimentaux/acoustiques qui ont été réellement utilisés dans des spectacles/campagnes (ou dont la relation a été clairement signalée) »
 
 COMME des GARÇONS — Une tradition d'incorporation de sons/bruit expérimentaux dans la « musique de spectacle »
 
 | Spectacle / Matériaux | Artistes en vedette | Points supplémentaires | Références |
 | ------------------------------------ | ------------------------------------------------- : | ------------------------------------------------------------------------------------ | ----------------- |
-| Comme des Garçons SS15 (épisode de collection tel que "Red") | **Sons de type drone, dont Sunn O))), Terre (drone/drone metal)** | Dazed a rapporté dans un article spécial que « des groupes de type drone (Sunn O))), Earth) ont été utilisés dans la bande originale de SS15. » Un exemple typique où l'esthétique sombre et le son de la série sont fortement liés. ([Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 (Épisodes de la collection tels que "Red") | **Sons de type drone, dont Sunn O))), Terre (drone/drone metal)** | Dazed a rapporté dans un article spécial que « des groupes de type drone (Sunn O))), Earth) ont été utilisés dans la bande originale de SS15. » Un exemple typique où l'esthétique sombre et le son de la série sont fortement liés. ([Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
 | Comme des Garçons (son réalisé pour les défilés de mode) | **Florian Hecker** (produit de la musique pour la mode/sorties 12" disponibles) | Selon certaines informations, Hecker aurait produit plusieurs chansons pour Comme des Garçons, et une édition limitée a été publiée par les Editions Mego. Une pièce "son contemporaine" exclusivement pour le spectacle. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | PE14/Playlist d'archives, etc. | Afficher la playlist (mélange de sons expérimentaux, de sons environnementaux et de bruit) | Exemple de collage sonore pour une émission téléchargée sur le SoundCloud/playlist de Dazed, etc. Pratique pour « vérifier » les sources sonores de l'émission. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 

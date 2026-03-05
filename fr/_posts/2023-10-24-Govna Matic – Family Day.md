@@ -9,11 +9,11 @@ permalink: /fr/govna-matic-family-day/
 tags:
 - Hiphop
 - Hardcore
-title: Govna Matic – Journée de la famille
+title: Govna Matic – Family Day
 ---
 
 
-Govna Matic est un autre nom pour Gov Matic (Tha Governer) de Diezzle Don & Tha Governer. Ce disque présente Redman, Pacewon, Roz, Runt Dog, Tame One, Young Zee, Commander Jesse, et plus encore.
+Govna Maticは、Diezzle Don & Tha GovernerのGov Mattic（Tha Governer）の別名義。このレコードでは、Redman、Pacewon、Roz、Runt Dog、Tame One、Young Zee、Commander Jesseなどが参加。
 
 #### Liste des chansons
 ```md

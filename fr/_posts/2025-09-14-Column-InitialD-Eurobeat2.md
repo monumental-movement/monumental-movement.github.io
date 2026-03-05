@@ -120,7 +120,7 @@ Coup de pied : █▄█▄█▄█▄█▄█▄
 Caisse claire : ▄▄▄▄██▄▄▄▄
 Charleston : -x-x-x-x-x-
 Basse : ▂▄▆█▇▆▄▂
-Synthétique : °°°██°°██°°██°° </div>
+Synthé : ░ ░██°°██°°██°° </div>
 
 
 ### Le morceau emblématique d'Initial D dans le style "Deja Vu"
@@ -229,6 +229,14 @@ Après tout, Eurobeat n’est pas seulement un nom de genre.
 Je pense qu'il fonctionne comme un.
 
 Chaque fois que vous appuyez sur le bouton de lecture, cette courbe vous attend.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W35DsVjmqvk?si=Jw5rO9dgqxftYSj6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

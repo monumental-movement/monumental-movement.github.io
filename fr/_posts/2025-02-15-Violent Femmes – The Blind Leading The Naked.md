@@ -10,13 +10,13 @@ tags:
 - Alternative Rock
 - Rock
 - 80s
-title: Femmes violentes – Les aveugles menant les nus
+title: Violent Femmes – The Blind Leading The Naked
 ---
 
 
-Violent Femmes est un groupe folk-punk américain de Milwaukee, Wisconsin. Considérés comme faisant partie intégrante des scènes underground folk-punk et rock alternatif des années 1980, ils ont eu une influence majeure sur les mouvements ultérieurs, en particulier sur les scènes folk rock, indie rock, grunge, pop-punk, emo et rock alternatif de la fin des années 1980 et 1990.
+Violent Femmes(バイオレントファムズ)は、ウィスコンシン州ミルウォーキー出身のUSフォークパンクバンド。1980年代のアンダーグラウンドフォークパンクとオルタナティヴロックシーンの不可欠なバンドとされており、特にフォークロック、インディーロック、グランジ、ポップパンク、エモ、および1980年代後半から1990年代のオルタナティヴロックシーンにおいて、その後のムーブメントに大きな影響を与えた。
 
-Cet album, sorti en 1986, était le troisième album des Violent Femmes et a été produit par Jerry Harrison des Talking Heads.
+1986年にリリースされたこのアルバムは、Violent Femmes3枚目のアルバムで、Talking Heads(トーキングヘッズ)のJerry Harrison(ジェリー・ハリソン)がプロデュースした。
 
 #### Liste des chansons
 ```md

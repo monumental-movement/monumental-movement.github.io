@@ -10,13 +10,13 @@ tags:
 - Trip Hop
 - Hiphop
 - 00s
-title: Dodge City Productions – Libérez votre amour
+title: Dodge City Productions – Unleash Your Love
 ---
 
 
-Dodge City Productions (DCP) est un projet des premiers innovateurs de Broken Beat, Ian Grant (IG Culture) et Roger Drakes (Dodge). Ils sont connus comme le duo responsable du mouvement Acid Jazz.
+Dodge City Productions(DCP)は、Broken Beatの初期のイノベーターIan Grant(IG Culture)とRoger Drakes(Dodge)によるプロジェクト。Acid Jazzモーブメントを担ったデュオとして知られている。
 
-"Unleash Your Love" est un morceau de Trip Hop sorti sur le sous-label (label de danse) 4th & Broadway d'Island Records en 1993.
+「Unleash Your Love」は、1993年にIsland Records のサブレーベル(ダンスレーベル) 4th & BroadwayからリリースされたTrip Hopトラック。
 
 #### Liste des chansons
 ```md

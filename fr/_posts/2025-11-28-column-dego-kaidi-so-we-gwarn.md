@@ -67,7 +67,7 @@ Des artistes tels que Dego, Kaidi Tatham, IG Culture, Bugz in the Attic et Neon 
 
 ### Dego (Dennis McFarlane)
 
-Dego a commencé sa carrière au sein du groupe pionnier britannique Jungle/Drum & Bass 4Hero. Grâce à son expérience avec 4Hero, il a recherché la complexité rythmique et l'expression électronique tout en incorporant des éléments de jazz et de funk. En 1998, il crée son propre label, 2000Black, et construit une nouvelle base pour la musique noire britannique centrée sur Broken Beat. À travers ses activités en solo et sous divers pseudonymes, Dego a présenté une gamme variée de styles musicaux dans des genres tels que le jazz, le funk, la house, la drum and bass et le Broken Beat.
+Dego a commencé sa carrière au sein du groupe pionnier britannique Jungle/Drum & Bass 4Hero. Grâce à son expérience avec 4Hero, il a recherché la complexité rythmique et l'expression électronique tout en incorporant des éléments de jazz et de funk. En 1998, il crée son propre label, 2000Black, et construit une nouvelle base pour la musique noire britannique centrée sur Broken Beat. À travers ses activités en solo et sous divers pseudonymes, Dego a présenté une gamme variée de styles musicaux dans des genres tels que le jazz, le funk, la house, la drum & bass et le Broken Beat.
 
 ### Kaidi Tatham
 
@@ -77,7 +77,7 @@ Kaidi Tatham est un multi-instrumentiste, producteur et compositeur qui connaît
 
 ## Scène Broken Beat et 2000Black
 
-Broken Beat est un produit de la culture des clubs qui s'est développée dans l'ouest de Londres. Des pionniers tels que IG Culture, Bugz in the Attic, Neon Phusion et Afronaught ont formé la scène et, en combinant librement des éléments de jazz, de soul, de funk, de latin, de hip-hop et de house, ils ont établi une position unique en tant que musique de club pour adultes.
+Broken Beat est un produit de la culture des clubs qui s'est développée dans l'ouest de Londres. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught et d'autres ont été les pionniers de la scène et, en combinant librement des éléments de jazz, de soul, de funk, de latin, de hip-hop et de house, ils ont établi une position unique en tant que musique de club pour adultes.
 
 <div class="mermaid">
 flowchart LR
@@ -112,7 +112,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-Ce label a fonctionné comme une plateforme pour poursuivre la « sculpture sonore » en tant que collage créatif, transcendant les formes et les genres musicaux. Les artistes britanniques Broken Beat, notamment Dego & Kaidi, ont été attirés par le label et ont trouvé un endroit pour exprimer leur musique dans de nouveaux contextes.
+Ce label a fonctionné comme une plateforme pour poursuivre la « sculpture sonore » en tant que collage créatif, transcendant les formes et les genres musicaux. Les artistes britanniques Broken Beat, en particulier Dego & Kaidi, ont été attirés par le label et ont trouvé un endroit pour exprimer leur musique dans de nouveaux contextes.
 
 ---
 
@@ -152,7 +152,7 @@ flowchart TD
 
 « A So We Gwarn » a fusionné la culture Broken Beat/jazz/soul du Royaume-Uni avec la culture house de Détroit. Ils ont représenté au monde le « instruments acoustiques + beat + jazz/funk/soul groove » établi par Broken Beat et ont encouragé une réévaluation de la musique noire britannique.
 
-L'album ne fonctionne pas comme une nostalgie du passé, mais comme une proposition pour l'avenir. Dego & Kaidi se sont taillé une « signature sonore » qui traverse différents axes : passé et présent, Royaume-Uni et États-Unis, club et jazz.
+L'album ne fonctionne pas comme une nostalgie du passé, mais comme une proposition pour l'avenir. Dego & Kaidi ont créé une « signature sonore » qui traverse différents axes : passé et présent, Royaume-Uni et États-Unis, club et jazz.
 
 ---
 
@@ -182,7 +182,7 @@ La collaboration entre Dego & Kaidi et Sound Signature était plus que la simple
 | 1999 | Kaidi & 2000Black collaboration initiale |
 | 2003 | Annonce de l'hymne du club par Dego & Kaidi |
 | 2006 | Bugz dans le grenier « De retour dans la niche » |
-| 2015 | Dego et Kaidi « ADAM ROCK DISSÉ !! » Sortie EP |
+| 2015 | Dego & Kaidi «ADAM ROCK DISSED !!» Sortie EP |
 | 2017 | Sortie de l'album « A So We Gwarn » |
 | 2017 à aujourd'hui | Les activités solo et collaboratives se poursuivent, Sound Signature évolue |
 

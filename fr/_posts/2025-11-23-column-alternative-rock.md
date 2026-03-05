@@ -25,9 +25,9 @@ Texte : mmr｜Thème : 40 ans d'histoire jusqu'à ce que la contre-culture dev
 
 Bien que le terme « rock alternatif » soit devenu populaire au début des années 1990, ses origines remontent aux scènes underground des États-Unis et de Grande-Bretagne au début des années 1980.
 
-Dans les années 1980, le rock grand public était centré sur le hard rock bruyant de la taille d'une arène, l'AOR commercialement poli et le pop rock associé à MTV. D'autre part, dans les villes régionales et les villes universitaires, un nouveau mouvement de groupes ancrés dans l'esprit DIY et non fondés sur le succès commercial commence à émerger.
+Dans les années 1980, le rock grand public était centré sur le hard rock bruyant de la taille d'une arène, l'AOR commercialement raffiné et le pop rock associé à MTV. D'autre part, dans les villes régionales et les villes universitaires, un nouveau mouvement de groupes ancrés dans l'esprit DIY et non fondés sur le succès commercial commence à émerger.
 
-Aux États-Unis, à l'époque, des labels indépendants tels que SST Records, Twin/Tone et Touch and Go produisaient une variété de styles qui ne dépendaient pas du genre. Il s'agissait d'un mouvement appelé « college rock », un groupe qui héritait de la vitesse et de l'anti-autoritarisme du punk hardcore, mais avait un esprit expérimental plus libre.
+Aux États-Unis, à l'époque, des labels indépendants tels que SST Records, Twin/Tone et Touch and Go produisaient une variété de styles qui ne dépendaient pas du genre. Il s'agissait d'un mouvement connu sous le nom de « college rock », un groupe qui avait hérité de la vitesse et de l'anti-autoritarisme du punk hardcore, mais avait un esprit expérimental plus libre.
 
 À peu près à la même époque, en Grande-Bretagne, la scène post-punk se développait de manière compliquée dans l’underground.
 Des labels comme Factory, 4AD et Creation avaient tous leur propre esthétique, sortant un large éventail de groupes allant de la guitar pop au shoegaze en passant par le rock gothique.
@@ -52,9 +52,9 @@ color: #fff;
 
 ## **Chapitre 1 : Du Postpunk au College Rock (1980-1987)**
 
-Le Murmur de R.E.M. de 1983 est particulièrement important en tant que point de départ d'une approche alternative. Tout en s'éloignant du commercialisme, ils présentent des mélodies influencées par le folk rock et des paroles ambiguës, et gagnent un large public, notamment dans les villes universitaires américaines. Le succès de R.E.M. a été le moment qui a prouvé qu'« un nouveau type de rock, différent du mainstream, mais avec un public fiable », pouvait être créé.
+Le Murmur de R.E.M. de 1983 est particulièrement important en tant que point de départ d'une approche alternative. Tout en s'éloignant du commercialisme, ils présentent des mélodies influencées par le folk rock et des paroles ambiguës, et gagnent un large public, notamment dans les villes universitaires américaines. Le succès de R.E.M. a été le moment qui a prouvé qu'« un nouveau type de rock, différent du courant dominant, mais disposant d'un public fiable » pouvait être créé.
 
-À peu près à la même époque, des groupes tels que The Replacements, Hüsker Dü, The Feelies et Sonic Youth ont émergé, mélangeant avec souplesse bruit, mélodie et expérimentation. En particulier, l'exploration par Sonic Youth de l'accordage de la guitare et de la structure du bruit a eu une influence majeure sur la musique alternative ultérieure.
+À la même époque, des groupes tels que The Replacements, Hüsker Dü, The Feelies et Sonic Youth ont émergé, mélangeant avec souplesse bruit, mélodie et expérimentation. En particulier, l'exploration par Sonic Youth de l'accordage de la guitare et de la structure du bruit a eu une influence majeure sur la musique alternative ultérieure.
 
 Au Royaume-Uni, The Smiths a fait ses débuts en 1984. Combinant la délicatesse de la guitar pop avec des thèmes sociaux, il a déterminé les valeurs du rock indépendant ultérieur.
 
@@ -90,13 +90,13 @@ caractéristique du grunge
 ・Éthique punk
 Cependant, il présentait un ensemble de valeurs différent du rock commercial et devint un mouvement mondial avec des diffusions massives sur MTV.
 
-À la même époque, des groupes de Seattle tels que Pearl Jam, Soundgarden et Alice in Chains connurent le succès les uns après les autres et furent reconnus dans le monde entier comme « représentants du grunge/alternatif ».
+À peu près à la même époque, des groupes de Seattle tels que Pearl Jam, Soundgarden et Alice in Chains connurent le succès les uns après les autres et furent reconnus dans le monde entier comme « représentants du grunge/alternatif ».
 
 Cependant, il n’est pas exact de parler d’alternative dans son ensemble en termes uniquement de grunge. À peu près à la même époque, des groupes aux styles variés tels que Pavement, Smashing Pumpkins, Breeders et Belly sont apparus, et le domaine de la musique alternative s'est rapidement développé.
 
 ---
 
-## **Chapitre 4 : Diversification et fragmentation (1995-1999)**
+## **Chapitre 4 : Diversification et fragmentation (1995-1999)**
 
 Depuis 1995, l’alternative est passée du statut de « genre » à celui de « méthodologie qui traverse les genres ».
 
@@ -118,7 +118,7 @@ Ce mouvement se connecte à des groupes lyriques et expérimentaux comme Radiohe
 La montée de Tortue, Mogwai, Godspeed You ! Black Emperor et d’autres ont repoussé les limites du rock.
 
 L’alternative n’est plus un style unique ;
-**"Un ​​terme général désignant la créativité qui n'est pas récupérée par le commercialisme"**
+**"Un ​​terme général désignant la créativité qui n'est pas capturé par le commercialisme"**
 Il est désormais compris comme.
 
 ---
@@ -133,7 +133,7 @@ Dans le même temps, des groupes tels que Arcade Fire, Modest Mouse, The Nationa
 
 ---
 
-## **Chapitre 6 : Alternatives à l'ère du streaming (2010-2020)**
+## **Chapitre 6 : Alternatives à l'ère du streaming (2010-2020)**
 
 Depuis les années 2010, les frontières des genres rock se sont estompées en raison de la diffusion du streaming, et l’alternative a fini par avoir des significations plus diverses.
 
@@ -179,7 +179,7 @@ flowchart TD
 # **Chapitre 7 : Localisation actuelle et avenir des alternatives**
 
 Dans les années 2020, le mot « alternative » est de plus en plus utilisé pour désigner un « lieu » ou une « communauté » plutôt qu'un genre.
-Avec une distribution indépendante centrée sur Bandcamp, l'expansion de Bedroom Pop et la diffusion d'environnements de production multi-genres, l'alternative continue d'être un concept qui symbolise « l'esprit de production indépendante ».
+Avec une distribution indépendante centrée sur Bandcamp, l'expansion de Bedroom Pop et la diffusion d'environnements de production inter-genres, l'alternative continue d'être un concept qui symbolise « l'esprit de production indépendante ».
 
 Même s'il est peu probable qu'un mouvement aussi important que celui du passé se produise, on peut dire que « l'esprit d'indépendance » s'est enraciné plus largement.
 Ce qui a commencé comme un petit mouvement underground dans les années 1980 continue de se répandre dans tous les genres musicaux à travers le monde, 40 ans plus tard.

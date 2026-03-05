@@ -9,13 +9,13 @@ permalink: /fr/various-daybreak/
 tags:
 - Hiphop
 - Downtempo
-title: Divers – Aube
+title: Various – Daybreak
 ---
 
 
-"Daybreak" est un album de Break It Or Leave It (la branche breakbeat de Wally's Groove World, fondée en 1997 par DJ Koenie).
+「Daybreak」は、Break It Or Leave It (1997年にDJ Koenieにより設立されたWally's Groove Worldのブレイクビート部門)からのリリース。
 
-DVL (Davy Van Laere) d'A4 est également célèbre pour son projet After Hours avec DJ AME. DVL est actuellement le photographe de skateboard le plus populaire.
+A4のDVL(Davy Van Laere)はDJ AMEとのプロジェクトAfter Hoursとしても有名。現在DVLは最も人気のスケートボード写真家として活動中。
 
 #### Liste des chansons
 ```md

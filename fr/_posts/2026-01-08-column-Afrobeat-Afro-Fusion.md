@@ -21,7 +21,7 @@ title: '[Chronique] Afrobeat / Afro-Fusion - Changements structurels et expansio
 Texte : mmr｜Thème : Le fait que l'Afrobeat s'est développé autour de la culture live du Nigeria, comment l'Afro-Fusion a été utilisée dans un environnement de production et de distribution transfrontalier, et l'histoire de l'industrie musicale et des mouvements de la diaspora.
 
 
-L'afrobeat et l'afro-fusion sont des cultures musicales originaires d'Afrique de l'Ouest, notamment du Nigeria et du Ghana. Bien que les deux soient souvent confondus, ils ont des contextes historiques, des structures musicales et des rôles sociaux différents. Cet article organise l'histoire depuis la création de l'Afrobeat jusqu'au développement de l'Afro-Fusion, sur la base uniquement de faits vérifiables, et décrit de manière exhaustive les changements dans les caractéristiques musicales, les techniques de production, le contexte social et la réception internationale.
+L'afrobeat et l'afro-fusion sont des cultures musicales originaires d'Afrique de l'Ouest, notamment du Nigeria et du Ghana. Bien que les deux soient souvent confondus, ils ont des contextes historiques, des structures musicales et des rôles sociaux différents. Cet article organise l'histoire depuis la création de l'Afrobeat jusqu'au développement de l'Afro-Fusion sur la base uniquement de faits vérifiables, et décrit de manière exhaustive les changements dans les caractéristiques musicales, les techniques de production, le contexte social et la réception internationale.
 
 > "Cet article évite l'évaluation et l'interprétation subjective et se compose uniquement d'informations basées sur des documents historiques, des témoignages et des faits historiques enregistrés."
 
@@ -53,7 +53,7 @@ La mélodie met l'accent sur le rythme et la circulation des phrases plutôt que
 
 ### Période coloniale et musique urbaine
 
-La domination coloniale de la fin du 19e siècle au 20e siècle a introduit en Afrique de l’Ouest des instruments et des concepts harmoniques d’origine européenne. Des fanfares, de la musique religieuse et des fanfares militaires jouaient dans tout le pays, les mélangeant aux rythmes traditionnels. Le highlife qui s'est développé au Ghana est un exemple représentatif de ce type d'hybridation et constitue une préhistoire importante pour la formation ultérieure de l'Afrobeat.
+La domination coloniale de la fin du 19e siècle au 20e siècle a introduit en Afrique de l’Ouest des instruments et des concepts harmoniques d’origine européenne. Des fanfares, de la musique religieuse et des fanfares militaires jouaient dans tout le pays, les mélangeant aux rythmes traditionnels. Le highlife qui s'est développé au Ghana est un exemple représentatif de cette hybridation et constitue une préhistoire importante pour la formation ultérieure de l'Afrobeat.
 
 ---
 
@@ -67,7 +67,7 @@ Ses groupes, Africa 70 et plus tard Egypt 80, ont établi une forme distincte de
 
 ### Fonctionnalités musicales
 
-Une composition Afrobeat typique se compose d’une batterie, de plusieurs instruments de percussion, d’une basse électrique, d’une guitare, d’une section de cuivres, de claviers et de voix. Bien que le rythme soit basé sur une mesure 4/4, chaque instrument joue un motif répétitif indépendant, créant ainsi une polyrythmie complexe dans son ensemble.
+Une composition Afrobeat typique se compose d’une batterie, de plusieurs instruments de percussion, d’une basse électrique, d’une guitare, d’une section de cuivres, de claviers et de voix. Bien que le rythme soit basé sur une mesure à 4/4, chaque instrument joue un motif répétitif indépendant, créant ainsi une polyrythmie complexe dans son ensemble.
 
 Les chansons durent souvent plus de 10 minutes et comprennent une intro, un développement de groove, un solo improvisé et une partie vocale. Les paroles étaient écrites en anglais, en anglais pidgin et en yoruba et critiquaient souvent la situation politique, l'injustice et la structure du pouvoir dans la société nigériane.
 

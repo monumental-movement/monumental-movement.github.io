@@ -124,7 +124,7 @@ Chanson représentative
 
 * *Fondu*
 * *Mon amour*
-* *L'amour pour toujours*
+* *Amour pour toujours*
 
 ## ■ « Champ de bataille d'action » (1981)
 
@@ -239,7 +239,7 @@ Et cette pensée
 *Éthique de collaboration
 Il est encore profondément vivant aujourd'hui sous la forme de
 
-Le prototype de la « création multi-genres » dans laquelle les musiciens du 21ème siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
+Le prototype de la « création multi-genres » dans laquelle les musiciens du 21e siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
 
 ---
 
@@ -249,7 +249,7 @@ Le prototype de la « création multi-genres » dans laquelle les musiciens du 2
 1979 Adrian Sherwood commence les préparatifs pour lancer On-U Sound
 1980 Début de l'enregistrement de New Age Steppers (Ari Up, Mark Stewart, Roots Radics participent)
 1981 Sortie de « New Age Steppers »
-1981 Sortie de « Action Battlefield »
+1981 Sortie de « Action Battlefield »
 1983 Sortie de « Foundation Steppers »
 1984-2000 Les activités du NAS ont pratiquement cessé
 2010　Ari Up est décédé
@@ -295,7 +295,7 @@ C’est le principe de la production musicale après Internet.
 
 NAS, pionnier de ces tendances au début des années 1980, peut être considéré comme le prototype de la musique moderne.
 
-Le son qu’ils ont laissé derrière eux était intense, rugueux, swinguant, rebondissant et parfois destructeur, mais à la base, il s’agissait d’être libre.
+Leur son était intense, rugueux, swinguant, rebondissant et parfois destructeur, mais fondamentalement, il s'agissait de liberté.
 Cette liberté continue de se ressentir dans le travail d'On-U Sound et sur les scènes underground du monde entier.
 
 ---

@@ -186,7 +186,7 @@ Si vous comparez les chansons par décennie, vous pouvez voir un cycle « indust
 La techno allemande d'aujourd'hui a beaucoup évolué, passant de tendances dures et industrielles à des expressions mélodiques et lyriques, tout en conservant son statut emblématique de « Berlin, la capitale de la techno ».
 
 En conclusion, la Techno allemande est à la fois un produit culturel du passé et un terrain d’essai pour l’avenir du design sonore.
-Ecouter ses œuvres tout en retraçant leur histoire n’est rien d’autre que comprendre le dynamisme de la musique, où s’entremêlent villes et humains, machines et émotions.
+Ecouter ses œuvres tout en retraçant leur histoire n'est rien d'autre que comprendre le dynamisme de la musique, où s'entremêlent villes et humains, machines et émotions.
 
 
 ---

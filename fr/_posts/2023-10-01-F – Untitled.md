@@ -9,13 +9,13 @@ permalink: /fr/f-untitled/
 tags:
 - House
 - Rare
-title: F – Sans titre
+title: F – Untitled
 ---
 
 
-"F – Untitled" est sorti en 1998 sur le label allemand Sense Music.
+「F – Untitled」は、1998年にドイツのレーベルSense Musicからリリースされました。
 
-F est un projet du DJ et producteur allemand Frank Lotz.
+Fは、ドイツのDJ・プロデューサーFrank Lotz（フランク・ロッツ）のプロジェクトです。
 
 
 #### Liste des chansons

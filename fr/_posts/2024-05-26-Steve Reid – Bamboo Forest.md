@@ -11,15 +11,15 @@ tags:
 - Healing
 - Spiritual
 - 80s
-title: Steve Reid – Forêt de bambous
+title: Steve Reid – Bamboo Forest
 ---
 
 
-Steve Reid est un percussionniste et producteur de jazz américain. Il a été co-fondateur de The Rippingtons et membre de Supertramp.
+Steve Reid （スティーヴンリード ）は、アメリカのジャズパーカッショニスト＆プロデューサー。The Rippingtons（ザ・リッピントンズ）の共同創設者であり、Supertramp（スーパートランプ）のメンバーとしても活躍した。
 
-« Bamboo Forest », sorti en 1994, était son premier album solo, influencé par le rythme mondial, et durant cette période, il a été nommé à deux reprises percussionniste de l'année par le magazine Jazz.
+1994年にリリースされた「Bamboo Forest」は、ワールドビートの影響を受けて制作したソロデビューアルバムであり、この時期に米ジャズ誌Jazzizのパーカッショニスト・オブ・ザ・イヤーに２度選ばれた。
 
-Les membres participant à cet album sont Jeff Kashiwa, un saxophoniste américain actif dans le monde du jazz fusion, et le bassiste Kim Stone, actif dans The Rippingtons.
+このアルバムの参加メンバーは、US出身のジャズ・フュージョン界で活躍するサックス奏者Jeff Kashiwa（ジェフ・カシワ）、The Rippingtonsで活躍したベーシストKim Stone。
 
 #### Liste des chansons
 ```md

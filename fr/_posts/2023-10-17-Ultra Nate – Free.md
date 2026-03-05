@@ -17,7 +17,7 @@ Sorti en 1997 sur le label Strictly Rhythm, « Ultra Naté – Free » est consi
 
 Les première et deuxième chansons de la face A sont des remix de M&S, un projet du DJ garage britannique Ricky Morrison et Fran Sidoli.
 Le troisième morceau de la face A est un remix du groupe house allemand Tiefschwarz.
-Le premier morceau de la face B est un remix du DJ/producteur né à Miami George Acosta.
+La première chanson de la face B est un remix du DJ/producteur né à Miami George Acosta.
 
 #### Liste des chansons
 ```md

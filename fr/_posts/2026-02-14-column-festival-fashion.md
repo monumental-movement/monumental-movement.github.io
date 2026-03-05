@@ -117,7 +117,7 @@ timeline
 
 ---
 
-## Chronologie : Grands festivals et tendances de la mode
+## Chronologie : Grands festivals et tendances de la mode
 
 <div class="mermaid">
 timeline

@@ -88,7 +88,7 @@ Dans les années 1980, l’environnement du studio est rapidement devenu numéri
 
 Du côté des radios, les formats de programmes sont désormais clairement définis et les listes de sélection de chansons sont partagées. Même si les DJ disposaient encore d'un certain degré de discrétion, les normes de tempo et d'ambiance sont devenues plus strictes et la cohérence du R&B nocturne a été mise en avant. Cela vous permet de vivre une expérience similaire quelle que soit la ville dans laquelle vous vous trouvez.
 
-D’un autre côté, une sophistication excessive suscite également des critiques. Il a été souligné qu'il existait un risque que le message social et le caractère improvisé s'effacent et que la musique devienne une musique de fond. Pourtant, pour les auditeurs de fin de soirée, une expérience musicale stable avait une valeur irremplaçable.
+D’un autre côté, une sophistication excessive suscite également des critiques. Il a été souligné qu'il existait un risque que le message social et le caractère improvisé disparaissent et que la musique devienne une musique de fond. Pourtant, pour les auditeurs de fin de soirée, une expérience musicale stable avait une valeur irremplaçable.
 
 > Le conflit entre homogénéisation et sécurité a façonné Quiet Storm dans les années 1980.
 

@@ -10,51 +10,50 @@ tags:
 - Techno
 - German Techno
 - 90s
-title: '[Chronique] Tresor - La Mecque de la techno qui a changé le monde de l''underground
-  à Berlin'
+title: 【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地
 ---
 
 
-## Une présence indispensable lorsqu'on parle de la culture club berlinoise et de la scène techno européenne -- **Tresor**
+## ベルリンのクラブ文化、そしてヨーロッパのテクノ・シーンを語るうえで避けて通れない存在――**Tresor（トレゾア）**
 
 
-Texte : mmr｜Thème : Culture club berlinoise et scène techno européenne
+文：mmr｜テーマ：ベルリンのクラブ文化、そしてヨーロッパのテクノ・シーン
 
 <hr>
 
-### Qu'est-ce que Trésor ?
+### Tresorとは何か
 
-Tresor (qui signifie « sûr » en allemand) est un club fondé à Berlin, en Allemagne, en 1991, et est un centre de culture techno qui héberge également un label du même nom. Au milieu du chaos qui a suivi la fin de la guerre froide, il a été le centre le plus important pour relier la techno de Détroit et la culture underground de Berlin, et continue de maintenir son influence internationale jusqu'à aujourd'hui.
+Tresor（ドイツ語で「金庫」の意）は、1991年にドイツ・ベルリンで誕生したクラブであり、同名のレーベルをも擁するテクノ・カルチャーの中心地。冷戦終結後の混沌の中で、デトロイト・テクノとベルリンの地下文化を結びつけた最重要拠点として、今日まで国際的に影響力を保ち続けている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Contexte de sa naissance : Berlin et le vide de l'après-guerre froide
+### 誕生の背景：ベルリンと冷戦後の空白
 
-En 1989, le mur de Berlin tombait. Les espaces qui étaient autrefois contrôlés par l'État se sont transformés en « zones de non-droit » et sont devenus des terrains d'essai pour la culture clandestine des jeunes.
+1989年、ベルリンの壁が崩壊。かつて国家に管理されていた空間は「無法地帯」と化し、アンダーグラウンドな若者文化の実験場となった。
 
-Des bâtiments abandonnés, des usines désaffectées et des espaces souterrains ont été transformés en clubs.
+廃墟ビル、使われなくなった工場、地下空間がクラブ化。
 
-Les cultures occidentales et orientales ont fusionné et la musique de danse, symbole de liberté, a résonné.
-Parmi eux, Trésor a ouvert dans un caveau rénové d'un ancien grand magasin. Le son grave et profond émanant de derrière la porte en fer fermée symbolisait le début d’une nouvelle ère.
+西と東のカルチャーが融合し、自由の象徴としてのダンス・ミュージックが鳴り響いた。
+その中でTresorは、旧百貨店の金庫室を改装してオープン。閉ざされた鉄の扉の中から放たれる重低音は、新しい時代の幕開けを象徴していた。
 
 <hr>
 
-### Importance musicale : le pont entre Détroit et Berlin
+### 音楽的意義：デトロイトとベルリンの架け橋
 
-Tresor, en particulier, a servi de tremplin à l'expansion de la techno de Détroit en Europe.
+Tresorは特にデトロイト・テクノのヨーロッパ進出の足場として機能した。
 
 [Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
 
 [Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
-En conséquence, la techno futuriste et politique née aux États-Unis a été liée à la culture des clubs européens, créant ainsi les bases d'un « réseau techno mondial ».
+これにより、アメリカで生まれた未来的かつ政治性を帯びたテクノが、ヨーロッパのクラブ文化と結びつき、「グローバルなテクノ・ネットワーク」の基盤を築いた。
 
 <hr>
 
-### Label « Trésor Records »
+### レーベル「Tresor Records」
 
-Créé en 1991 en tant que club rattaché, Tresor Records fonctionne comme un important label techno.
+クラブに併設する形で1991年に設立されたTresor Recordsは、テクノの重要レーベルとして機能。
 
 [Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
@@ -62,74 +61,74 @@ Créé en 1991 en tant que club rattaché, Tresor Records fonctionne comme un im
 
 [Drexciya – Neptune’s Lair](https://amzn.to/4nAnhqI)
 
-Il a publié de nombreuses œuvres symbolisant la fusion de Détroit et de Berlin.
-Leur son minimal et dur a notamment constitué le « squelette de la techno européenne » dans les années 1990.
+など、デトロイト勢とベルリンの融合を象徴する作品を数多くリリース。
+特にミニマルかつ硬質なサウンドは、90年代の「ヨーロッパ・テクノの骨格」を形成した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Q09nP62VnU?si=omgAmTm-Qfz58UQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Symbolisme du trésor et influence culturelle
+### Tresorの象徴性と文化的影響
 
-**Fusion de ruines industrielles et de musique**
+**産業廃墟と音楽の融合**
 
-Tresor est un symbole de « la culture de réutilisation des ruines urbaines ». C’est devenu l’origine d’une esthétique héritée de toute la scène des clubs berlinois.
+Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラブシーン全体に受け継がれる美学の原点となった。
 
-**Culture de club 24 heures sur 24**
+**24時間クラブカルチャー**
 
-À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l'objet d'envie dans le monde entier.
+規制が緩かったベルリンでは、朝も昼も夜も踊り続けられる空間が誕生。そのスタイルは今も世界的に羨望の対象。
 
-**Techno = identité urbaine**
+**テクノ＝都市アイデンティティ**
 
-L'influence de Tresor est à l'origine de la reconnaissance officielle par la ville de Berlin de la culture des clubs comme marque de la ville.
-
-<hr>
-
-### Déménagement et situation actuelle
-
-En 2005, le site d'origine a fermé ses portes, mais en 2007, il a déménagé dans une ancienne centrale électrique à Berlin-Est.
-
-L’immense espace industriel inorganique correspond davantage à la vision du monde techno.
-
-Aujourd'hui, des DJ du monde entier s'y produisent et il continue de servir de lieu de pèlerinage.
+ベルリン市が公式に「クラブカルチャーを都市ブランド」と認識する背景にはTresorの影響がある。
 
 <hr>
 
-### Comparaison de Tresor avec d'autres clubs
+### 移転と現在
 
-**Berghain** : Une icône des années 2000 qui a également hérité de la culture de la ruine.
+2005年、オリジナルの場所が閉鎖されるも、2007年に東ベルリンの旧発電所に移転。
+
+巨大で無機質な産業空間は、むしろテクノの世界観にさらにマッチ。
+
+現在も世界中のDJが出演し、「巡礼地」としての役割を果たし続けている。
+
+<hr>
+
+### Tresorと他クラブとの比較
+
+**Berghain**：同じく廃墟文化を継承、2000年代以降のアイコン。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0buhM4bbAx4?si=GJQwz5IQiaf9wYeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**E-Werk, WMF** : les deux noms ont été répertoriés dans les années 90, mais c'est Tresor qui a eu l'influence la plus durable sur le long terme.
+**E-Werk, WMF**：90年代に並び称されたが、長期的にはTresorが最も持続的な影響力を保った。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zej35KafTZs?si=JiOgYJNaSh5dnTEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-→ Tresor est souvent évoqué comme le « fondateur » et Berghain comme le « successeur ».
+→ Tresorは「始祖」、Berghainは「後継者」として語られることが多い。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iiuJhq-z2LE?si=5b_nN9GcPSAo27SZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### L'héritage de Trésor
+### Tresorが残したもの
 
-- Réseau international reliant Détroit et Berlin
+- デトロイトとベルリンを結んだ国際的ネットワーク
 
-- La valeur culturelle de « techno = future image de la ville »
+- 「テクノ＝都市の未来像」という文化的価値観
 
-- Des chefs-d'œuvre historiques à travers des étiquettes
+- レーベルを通じた歴史的名盤群
 
-- Esthétique du « lieu » qui réutilise les ruines
+- 廃墟を再利用する「場所性」の美学
 
-- La raison pour laquelle Berlin est appelée la "capitale mondiale de la techno"
+- ベルリンが「世界のテクノ首都」と呼ばれる基盤
 
 <hr>
 
-### À écouter absolument pour découvrir Tresor (10 sélections recommandées)
+### Tresorを体感するための必聴盤（おすすめ10選）
 
 - [Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
 
@@ -153,10 +152,10 @@ Aujourd'hui, des DJ du monde entier s'y produisent et il continue de servir de l
 
 <hr>
 
-### Élever la musique techno d’une « mode passagère » à une « culture universelle »
+### テクノという音楽を「一過性の流行」から「普遍的な文化」へと昇華
 
-Plus qu'un simple club ou label, Tresor est un carrefour culturel qui relie l'histoire de Berlin, l'espace urbain de l'après-guerre froide et l'avenir de la musique noire à Détroit.
-Les sons émis par ce coffre-fort résonnent encore dans la culture des clubs du monde entier, élevant la musique techno d'une « mode passagère » à une « culture universelle ».
+Tresorは単なるクラブやレーベルではなく、ベルリンの歴史・冷戦後の都市空間・デトロイトの黒人音楽の未来像を結びつけた「文化的交差点」である。
+その金庫室から解き放たれた音は、今なお世界中のクラブカルチャーに鳴り響き、テクノという音楽を「一過性の流行」から「普遍的な文化」へと昇華させたのだ。
 
 ---
 

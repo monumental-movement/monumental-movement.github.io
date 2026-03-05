@@ -16,7 +16,7 @@ title: Imbaya – Un pas pour l’éternité
 ---
 
 
-Imbaya est un trio bolivien qui joue de la musique traditionnelle sud-américaine à base de flûte et de guitare, avec du chant occasionnel. Les membres sont Jaime Vega, Carlos Vega et Mario Vega, qui jouent d'instruments de la culture andine tels que la quena, le quenacho, la flauta de pan (flûte de pan) et la sampona.
+Imbaya est un trio bolivien qui joue de la musique traditionnelle sud-américaine à base de flûte et de guitare, avec du chant occasionnel. Les membres sont Jaime Vega, Carlos Vega et Mario Vega, qui jouent des instruments de la culture andine tels que la quena, le quenacho, la flauta de pan (flûte de pan) et la sampona.
 
 "Un Paso A La Eternidad" est un album basé sur la musique indigène réalisée par le peuple Quechua du Pérou, et est une cassette sortie en 1993.
 

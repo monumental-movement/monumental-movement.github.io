@@ -40,7 +40,7 @@ color: #fff;
 ## Chapitre 1 : Début de carrière et début de carrière
 
 ### 1.1 Enfance et origine du surnom
-- **Vrai nom/Naissance**
+- **Vrai nom/naissance**
 Le vrai nom de M. Vegas est **Clifford Smith**. Né le 29 septembre 1974 à Kingston, Jamaïque.
 - **Pseudo "M. Vegas"**
 Enfant, elle jouait au football en short rose à l'école et ses camarades de classe la comparaient à une « fille de Vegas ». Le surnom de « Mr.Vegas » a été adopté comme nom de scène.

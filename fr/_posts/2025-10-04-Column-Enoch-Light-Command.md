@@ -45,7 +45,7 @@ Command Records visait clairement le marché en tant que « disque de démonstra
 
 - **Gatefold et esthétique graphique**
 
-Les pochettes de LP de Command étaient visuellement fortes, comportant parfois une couverture de l'artiste abstrait Josef Albers. La conception du CD comme quelque chose qui allait au-delà d'un simple disque de démonstration pour devenir quelque chose que les gens voudraient posséder a stimulé la culture des collectionneurs qui a suivi.
+Les pochettes de LP de Command étaient visuellement fortes, comportant parfois une couverture du peintre abstrait Josef Albers. La conception du CD comme quelque chose qui allait au-delà d'un simple disque de démonstration pour devenir quelque chose que les gens voudraient posséder a stimulé la culture des collectionneurs qui a suivi.
 
 
 - **Slogan promotionnel : « Vous serez surpris dès que vous l'entendrez pour la première fois »**
@@ -55,7 +55,7 @@ Les notes de doublure et les promotions de Stereo 35/MM utilisaient des phrases 
 
 - **Le conflit entre le commerce et l'art**
 
-La qualité sonore, proche de celle d'une version « de démonstration », a été saluée par les audiophiles, mais certains ont remis en question son universalité en tant que chanson pop. Malgré cela, il y a eu quelques succès sur Chart (Stereo 35/MM, etc.), et Wright était l'un des rares producteurs à pouvoir rendre « l'attrait technique » commercialement viable.
+La qualité sonore, proche de celle d'une version « démonstration », a été saluée par les audiophiles, mais certains ont remis en question son universalité en tant que chanson pop. Malgré cela, il y a eu quelques succès sur Chart (Stereo 35/MM, etc.), et Wright était l'un des rares producteurs à pouvoir rendre « l'attrait technique » commercialement viable.
 
 ---
 
@@ -156,7 +156,7 @@ Il se produit dans un large éventail de genres, y compris non seulement le jazz
 
 ### Rencontre et relation avec Enoch Light
 
-- **Grand Award → Guitariste régulier à l'époque de Command Records**
+- **Grand Award → Guitariste régulier pendant la période Command Records**
 
 Lorsque Enoch Light a fondé Grand Award and Command, il a rassemblé les meilleurs talents de New York. Parmi eux, le guitariste régulier est Tony Mottola.
 
@@ -180,8 +180,8 @@ Mottola était l'un des piliers qui soutenaient le « parcours lounge/écoute fa
 
 - **Guitariste régulier de Command Records**
 
-Il participe presque toujours aux enregistrements du Grand Award~Command établi par Light.
-Il était chargé de mener des expériences de localisation de guitare dans la série « Persuasive Percussion » et d'autres œuvres.
+Il participe presque toujours aux enregistrements de Grand Award~Command, fondé par Light.
+Il était en charge des expériences de localisation de guitare dans la série "Persuasive Percussion".
 
 - **Sortie d'un album solo**
 

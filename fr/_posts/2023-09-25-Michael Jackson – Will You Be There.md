@@ -9,15 +9,15 @@ permalink: /fr/michael-jackson-will-you-be-there/
 tags:
 - Pops
 - Soul
-title: Michael Jackson – Serez-vous là
+title: Michael Jackson – Will You Be There
 ---
 
 
-"Will You Be There" est tiré de l'album Dangerous de l'icône de la musique pop américaine Michael Jackson de 1991.
+「Will You Be There」は、アメリカのポップミュージックのアイコン、マイケル・ジャクソンの1991年のアルバム『Dangerous』に収録されています。
 
-« Will You Be There » est une ballade émouvante et épique avec des thèmes religieux et un message d'espoir. La voix puissante et les expressions émotionnelles de Michael Jackson se démarquent, ce qui en fait une chanson qui touche profondément le cœur des auditeurs.
+「Will You Be There」は、感動的で壮大なバラード曲であり、宗教的なテーマや希望に満ちたメッセージが込められています。マイケル・ジャクソンの力強いヴォーカルや情感豊かな表現が際立ち、聴く人の心に深く響く曲です。
 
-Cette chanson est également connue comme la bande originale du film « Free Willy » et a été appréciée par beaucoup comme chanson thème du film. Elle a également été fréquemment interprétée lors des performances live de Michael Jackson, ce qui en fait l'une des chansons les plus importantes de sa carrière.
+この曲は、映画『フリー・ウィリー』のサウンドトラックとしても知られており、映画のテーマ曲として多くの人々に愛されました。また、マイケル・ジャクソンのライブパフォーマンスでも頻繁に披露され、彼のキャリアにおける重要な楽曲の一つとなっています。
 
 #### Liste des chansons
 ```md

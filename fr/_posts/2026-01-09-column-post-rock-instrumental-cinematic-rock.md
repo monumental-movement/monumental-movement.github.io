@@ -50,7 +50,7 @@ color: #fff;
 
 Le terme « post-rock » s’est imposé au milieu des années 1990. Il a commencé à être utilisé pour décrire la musique qui utilise des instruments rock mais qui se distancie des riffs dérivés du blues, de la concentration vocale et des structures de chansons classiques. Ce concept ne faisait pas référence à un son spécifique, mais plutôt à une attitude ou une méthodologie.
 
-Le contexte réside dans les multiples cultures musicales qui se sont accumulées depuis les années 1970. La répétition et les changements subtils présentés par la musique minimale, l'idée de musique environnementale présentée par l'ambient, l'attitude déconstructrice apportée par le post-punk et même le sens du traitement spatial dans la musique dub et électronique. Le post-rock s'est formé à la suite de leur intersection avec le contexte rock.
+Le contexte réside dans les multiples cultures musicales qui se sont accumulées depuis les années 1970. La répétition et les changements infimes présentés par la musique minimale, l'idée de musique environnementale présentée par l'ambient, l'attitude déconstructrice apportée par le post-punk et même le sens du traitement spatial dans la musique dub et électronique. Le post-rock s'est formé à la suite de leur intersection avec le contexte rock.
 
 Ce qui est important, c'est que le post-rock n'était pas une « négation du rock ». Même si la formation de guitare, basse et batterie a été maintenue, leurs rôles ont été redéfinis. La guitare est devenue un appareil permettant de créer des sons et des textures soutenus plutôt que de créer des riffs, et la batterie est passée du statut d'appareil de réglage du rythme à celui de contrôle du flux du temps et de la tension.
 
@@ -88,7 +88,7 @@ Explosions in the Sky est un groupe de rock instrumental formé à Austin, au Te
 
 Ce qui est symbolique dans leurs premières activités est un événement fortuit survenu immédiatement après leurs débuts. La sortie de l’œuvre qui a tant attiré l’attention sur leur musique a coïncidé avec une période d’une importance particulière pour la société américaine, suscitant involontairement de fortes associations émotionnelles. Cette expérience leur aurait fait prendre conscience que « la musique prend un sens selon son contexte ».
 
-La structure de la chanson d’Explosions in the Sky est claire. Des arpèges simples et des phrases à note unique sont présentés et, à mesure qu'ils sont répétés, le nombre et le volume des notes augmentent progressivement. La batterie visualise la montée de l'émotion par étapes, pour finalement former un grand point culminant.
+La structure de la chanson d’Explosions in the Sky est claire. Des arpèges simples et des phrases à note unique sont présentés et, à mesure qu'ils sont répétés, le nombre de notes et le volume augmentent progressivement. La batterie visualise la montée de l'émotion par étapes, pour finalement former un grand point culminant.
 
 La raison pour laquelle leur musique a été utilisée dans tant de productions vidéo est la façon dont ils ouvrent leurs émotions. Plutôt que d'imposer un récit spécifique, l'espace est maintenu pour évoquer naturellement les propres souvenirs et expériences de l'auditeur.
 
@@ -102,7 +102,7 @@ La raison pour laquelle leur musique a été utilisée dans tant de productions 
 
 Bonne chance à vous ! Black Emperor est un collectif musical né à Montréal à la fin des années 1990. Il a un fort caractère de collectif fluide plutôt que de composition fixe, et se caractérise par une grande composition qui utilise plusieurs guitares, basses, batterie, instruments à cordes et enregistrements sur le terrain.
 
-Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Les chansons n'ont souvent pas de refrain ou de résolution claire, ce qui nécessite de la patience et de la concentration de la part de l'auditeur.
+Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Il n’y a souvent pas d’accroches ou de résolutions claires, ce qui nécessite de la patience et de la concentration de la part de l’auditeur.
 
 Quelle bonne chance pour vous ! Black Emperor présenté était une tentative d'enregistrer le temps social et historique avec des sentiments sonores plutôt que personnels. Les sons, les annonces et les récits fragmentés de la ville évoquent un sentiment collectif d’anxiété et de tension plutôt que de manifester un message spécifique.
 

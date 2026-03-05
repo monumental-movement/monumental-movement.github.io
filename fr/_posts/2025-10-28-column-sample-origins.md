@@ -142,7 +142,7 @@ Le groove lisse a un niveau de perfection qui donne l’impression qu’il a ét
 ---
 
 #### 14. Montagne – « Long Rouge » (1972)
-Le chant « Tu vois ce que je veux dire ! » était souvent utilisé par Public Enemy et De La Soul lors de performances live.
+Le chant « Tu vois ce que je veux dire ! » a été fréquemment utilisé par Public Enemy et De La Soul lors de performances live.
 C'est un excellent exemple de la façon dont une simple chanson rock devient une "partie" hip-hop grâce à l'échantillonnage vocal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -195,8 +195,8 @@ Utilisé par The Roots, Eric B. & Rakim, Arrested Development, et plus encore. L
 
 ### Chronologie : histoire évolutive de l'échantillonnage
 
-| Années | Événements |
-|------|---------|
+| 年代 | 出来事 |
+|------|--------------|
 | années 1960 | La technologie d'enregistrement soul/funk se développe. La culture naissante du drum break. |
 | 1973 | Kool Herc joue deux exemplaires de "Apache" lors d'une fête de quartier. Naissance du hip hop. |
 | 1984 | Exécuter-D.M.C. réalise son premier succès d'échantillonnage commercial. |

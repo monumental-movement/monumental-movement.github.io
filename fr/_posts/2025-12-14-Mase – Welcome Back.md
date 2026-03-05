@@ -15,7 +15,7 @@ title: Mase – Bon retour
 
 Mase (Ma$e) est un rappeur de Floride connu pour son album à succès Harlem World de 1997, qui mettait en vedette Jay-Z, DMX, Lil' Kim et bien d'autres.
 
-Après avoir sorti leur deuxième album, « Double Up », en 1999, ils ont pris leur retraite, mais sont revenus en 2004 avec « Welcome Back ».
+Après avoir sorti leur deuxième album "Double Up" en 1999, ils prennent leur retraite, mais reviennent en 2004 avec "Welcome Back".
 
 "Welcome Back" est sorti par Bad Boy Entertainment et "Breathe, Stretch, Shake" de B présente P. Diddy.
 

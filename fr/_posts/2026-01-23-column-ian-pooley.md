@@ -25,7 +25,7 @@ Ian Pooley est né à Mayence, en Allemagne, en 1973. Ses parents étaient origi
 
 Dès le plus jeune âge, la musique noire comme le jazz, la soul et le funk était jouée à la maison plutôt que le rock. Très tôt, il a développé une oreille attentive non seulement à la dynamique rythmique, mais également aux progressions d'accords et aux intervalles d'interprétation. En particulier, les lignes de basse électrique et l'expansion spatiale créée par les accords sont devenues des bases importantes pour les productions ultérieures.
 
-À l'adolescence, il devient fortement attiré par la musique dance en plein essor à l'époque, comme le hip-hop, l'électro et l'acid house. Ce qui le fascinait ici n'était pas la qualité des stars ou les paroles, mais la « structure » du morceau lui-même. Pour Pooley, les changements infimes qui se produisent grâce à la répétition et la plasticité de la musique réarrangée par les DJ présentent une nouvelle façon de voir la musique.
+À l'adolescence, il devient fortement attiré par la musique dance en plein essor à l'époque, comme le hip-hop, l'électro et l'acid house. Ce qui le fascinait ici n'était pas la qualité des stars ou les paroles, mais la « structure » du morceau lui-même. Pour Pooley, les changements subtils qui se produisent grâce à la répétition et à la plasticité de la musique réarrangée par les DJ présentent une nouvelle façon de voir la musique.
 
 > Les racines musicales à plusieurs niveaux confèrent systématiquement une profondeur intellectuelle au travail de Ian Pooley.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Début de carrière et scène house britannique des années 1990
 
-Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, le son minimal influencé par la techno de Détroit se croisant avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
+Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, où le son minimal influencé par la techno de Détroit se croisait avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
 
 Vers 1994, son travail attire progressivement l'attention des DJ de clubs. La philosophie de conception consistant à se fondre dans le flux du mix sans utiliser de breaks flashy ou d'échantillons excessifs avait une valeur différente de celle des hits instantanés.
 
@@ -90,7 +90,7 @@ Le mixeur n'était pas seulement un dispositif de contrôle du volume, mais fonc
 
 De nombreux artistes travaillant dans le même contexte house britannique des années 90 se sont tournés vers une production davantage axée sur les échantillons ou centrée sur la voix. Pooley, de son côté, a continué à rechercher la beauté structurelle de la musique instrumentale.
 
-Par exemple, alors que les producteurs fortement influencés par la house américaine mettent l'accent sur les pics d'émotion, Pooley met l'accent sur le changement de groove au fil du temps. Cette approche est possible en raison de l'environnement de production dans lequel des différences infimes s'accumulent lors du fonctionnement des équipements.
+Par exemple, alors que les producteurs fortement influencés par la house américaine mettent l'accent sur les pics d'émotion, Pooley met l'accent sur le changement de groove au fil du temps. Il s’agit d’une approche rendue possible grâce à l’environnement de production dans lequel d’infimes différences s’accumulent lors du fonctionnement des équipements.
 
 ### Poste au sein de la UK House
 
@@ -126,7 +126,7 @@ Les DJ ne « jouent » pas de chansons, ils les « arrangent ». Pooley a profon
 
 Les chansons de Pooley, en revanche, suppriment intentionnellement le pic de réaction. Cela a permis aux DJ de concevoir eux-mêmes la dynamique de l’ensemble du set, et les chansons sont devenues un matériau réutilisable encore et encore.
 
-### Rôle dans la culture house DJ britannique
+### Rôle dans la culture des DJ house au Royaume-Uni
 
 Pour les DJ house britanniques, les chansons de Pooley ont servi de plaque tournante inter-genres. Il peut être intégré naturellement dans des décors deep house, tech house ou minimalistes, et sa flexibilité est très appréciée.
 

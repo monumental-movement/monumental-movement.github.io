@@ -144,7 +144,7 @@ Les humains eux-mêmes sont le plus gros Glitch.
 
 ---
 
-### Conclusion : l'espoir dans le bug
+### Conclusion : l'espoir à l'intérieur du bug
 
 Le monde continue de s'effondrer.
 Nos réseaux, nos villes et nous-mêmes.

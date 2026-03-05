@@ -20,7 +20,7 @@ title: '[Chronique] Chillstep / Liquid Dubstep'
 
 Texte : mmr｜Thème : À propos du « dubstep émotionnel » né entre silence et basse
 
-Chillstep et Liquid Dubstep sont des genres dérivés qui ont commencé à prendre forme sur Internet vers 2010, mettant l'accent sur les aspects mélodiques et ambiants du dubstep. Contrairement aux basses wobbleuses agressives du dubstep traditionnel, à la modulation de filtre dure et aux leads métalliques post-brostep, Chillstep met en avant « le calme, la transparence et un contour doux du grave ».
+Chillstep et Liquid Dubstep sont des genres dérivés qui ont commencé à prendre forme sur Internet vers 2010, mettant l'accent sur les aspects mélodiques et ambiants du dubstep. Contrairement aux basses wobbleuses agressives du dubstep traditionnel, à la modulation de filtre dure et aux leads métalliques post-brostep, Chillstep met en avant « le silence, la transparence et une gamme basse définie en douceur ».
 
 Le flux de fond est le suivant.
 
@@ -60,7 +60,7 @@ Les fonctionnalités incluent les éléments suivants :
 * Donne une dynamique respiratoire sans rendre la chaîne latérale extrêmement profonde
 * Concentrez-vous sur « construire ~ mélodie » plutôt que de laisser tomber
 
-Bien que l'influence du Mont Eden soit grande, le nom du genre « Chillstep » est apparu naturellement dans la culture Internet.
+Bien que l'influence du Mont Eden soit grande, le nom « Chillstep » en tant que genre est apparu spontanément dans la culture Internet.
 
 ---
 
@@ -80,7 +80,7 @@ Le symbole du Chillstep est « des basses douces ».
 
 * Centre d'onde sinusoïdale
 * Ajustez la chaleur avec une légère distorsion (écrêtage doux)
-* Produisez des fluctuations semblables à celles d'une respiration avec un LFO léger (1/4, 1/8, etc.)
+* Produisez des fluctuations ressemblant à une respiration avec un LFO léger (1/4, 1/8, etc.)
 * Ajoutez de l'émotion grâce aux changements de volume sans utiliser de modulation de filtre excessive
 
 ### 2-3 Conception de mélodies et de synthés
@@ -104,7 +104,7 @@ Le symbole du Chillstep est « des basses douces ».
 Liquid Dubstep hérite de la sensation du Liquid Drum’n’Bass, avec une texture plus « transparente, semblable à de l’eau ».
 
 * Impression claire haut de gamme et pétillante
-*Rapport de coupe vocale élevé
+* Rapport de coupe vocale élevé
 *La base est plus lisse et moins instable
 * Utilise souvent des effets ponctuels comme des bulles
 
@@ -140,7 +140,7 @@ Le style de Blackmill est devenu le modèle de Chillstep et a créé un large pu
 
 MitiS a une formation en piano classique et apporte une émotion unique au Chillstep/Melodic Dubstep.
 
-*Mélodie principale du piano
+* Mélodie principale du piano
 * Mélange transparent et incassable
 * Sentiment de montée semblable à une transe
 * Coupe vocale soigneusement traitée
@@ -232,7 +232,7 @@ L'accent est mis sur la « durabilité » et la « résonance persistante »
 
 ### Mélange 5-6
 
-* Supprimer et adoucir la stimulation de 5 à 7 kHz
+* Supprime en douceur la stimulation de 5 à 7 kHz
 * Minimiser le bruit de fond (sifflement analogique, vent, pluie, etc.)
 * Texture semblable à du brouillard avec réverbération haute
 * Sidechain est suppressif, crée uniquement du mouvement
@@ -291,7 +291,7 @@ Chillstep, qui est une combinaison de « musique + visuels + histoire », est su
 Chillstep / Liquid Dubstep est une musique qui supprime les aspects agressifs du dubstep et le restructure autour de l'émotion, du décor et de la tranquillité. Des artistes tels que Blackmill et MitiS ont défini le genre par leur lyrisme et leur traitement sonore soigné, créant de nombreux adeptes.
 
 Sa musicalité ne repose pas sur la « force » mais sur « la température, la respiration et les espaces vides ».
-Une fin de nuit tranquille, la lumière d'une vidéo, un paysage brumeux : Chillstep continue d'avoir une solide présence en se nichant dans ces scènes.
+Une fin de nuit calme, la lumière d'une vidéo, un paysage brumeux : Chillstep continue d'avoir une solide présence en se nichant dans ces scènes.
 
 ---
 

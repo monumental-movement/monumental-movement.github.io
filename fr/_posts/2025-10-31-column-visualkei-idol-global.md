@@ -52,7 +52,7 @@ Ce genre, qui ajoutait de l'esthétisme, de la théâtralité et de l'ambiguït�
 
 Pour les auditeurs étrangers, l’attrait du Visual Kei réside dans son expressivité qui transcende les genres musicaux.
 Le maquillage et les costumes ne sont pas que des apparences ; ils brouillent les frontières entre l’individu et la société et sont considérés comme des symboles d’auto-reconstruction.
-Surtout en Europe, il est considéré comme une extension de la culture gothique, androgyne et post-punk.
+En Europe notamment, il est considéré comme une extension de la culture gothique, androgyne et post-punk.
 En Amérique, il a été recontextualisé à travers la culture anime et les sensibilités otaku.
 
 > "Ils ne prétendent pas être des rock stars - ils *jouent* leur identité."
@@ -67,7 +67,7 @@ Cette « identité performée » a trouvé un écho auprès des jeunes du monde 
 Les idoles sont souvent considérées comme quelque chose d’unique au Japon, mais leur soutien de l’étranger est plus fort que prévu.
 L'une des raisons à cela est que nous avons clairement conçu une « expérience de fan communautaire ».
 
-Les "Idoles que vous pouvez rencontrer" d'AKB48, la propreté de Nogizaka46, l'imitation de la grammaire métallique par BABYMETAL...
+Les "Idoles que vous pouvez rencontrer" d'AKB48, la propreté de Nogizaka46, l'imitation de la grammaire métallique de BABYMETAL...
 Il ne s’agit pas simplement d’un divertissement, mais d’un modèle astucieux de « traduction culturelle ».
 La raison du succès de BABYMETAL dans les festivals à l'étranger est
 Il y avait une stratégie structurelle pour intégrer le concept d'« idoles japonaises » dans le style mondial du métal.
@@ -97,7 +97,7 @@ En raison de cette « réédition », la musique de la sous-culture japonaise es
 
 ## Chapitre 4 : Identité post-nationale et croisement de genre
 
-Ce que les fans de visual kei et d’idols étrangers ont en commun, c’est leur empathie pour la fluidité du genre et de l’identité.
+Ce que les fans de visual kei et d’idoles étrangers ont en commun, c’est leur empathie pour la fluidité du genre et de l’identité.
 L'esthétique androgyne du Visual Kei et la grammaire du « mignon = renversement du pouvoir » dans la culture idole,
 Il se connecte également à la communauté LGBTQ+ et à la théorie queer.
 
@@ -105,7 +105,7 @@ Par exemple, YOSHIKI de X JAPAN et HYDE de L'Arc~en~Ciel portent des expressions
 Cela a été sublimé sous le nom de « direction ».
 Cette ambiguïté est la raison pour laquelle il a été accepté dans le monde entier comme une figure expressive de l’ère post-genre.
 
-De plus, la manière dont de jeunes idoles féminines comme BABYMETAL « subvertissent cérémonieusement » la scène metal dominée par les hommes,
+De plus, la manière dont de jeunes idoles féminines comme BABYMETAL « subvertissent cérémonieusement » la scène métal dominée par les hommes,
 Cela a également permis une interprétation féministe.
 En d’autres termes, la musique de la sous-culture japonaise exprime des expressions « non nationales » et « non sexuelles ».
 En conséquence, il s’est transformé en une structure empathique post-nationale.
@@ -119,7 +119,7 @@ On disait que la culture pop japonaise était temporairement tombée dans l’ob
 Cependant, le visual kei et la culture des idoles ont survécu avec une « grammaire différente ».
 
 Si la force de la K-POP réside dans sa précision en tant que « produit achevé »,
-La musique de la sous-culture japonaise parle d'« imperfection » et de « proximité ».
+La musique de la sous-culture japonaise est axée sur « l'imperfection » et la « proximité ».
 En d’autres termes, la valeur correspond à la marge d’intervention du ventilateur.
 La raison pour laquelle les fans étrangers sont attirés par les idoles underground japonaises et le visual kei indépendant est que
 C'est parce que je sympathise avec sa « nature ouverte et inachevée ».

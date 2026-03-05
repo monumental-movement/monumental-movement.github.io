@@ -18,7 +18,7 @@ title: '[Chronique] Desert City : histoire, anecdotes et signification moderne 
 
 Texte : mmr｜Thème : Connaître l’histoire de Burning Man, c’est comprendre que c’est plus qu’un simple festival, c’est une « ville du futur et une expérience humaine »
 
-Burning Man est plus qu'un simple festival, c'est un terrain d'essai pour créer en collaboration une Black Rock City. Il a débuté sur les plages de la région de la baie de San Francisco en 1986 et, depuis les années 1990, il a lieu chaque année dans le désert de Black Rock, au Nevada. C'est un lieu où se croisent l'art, le feu, la technologie et une culture du cadeau, recoupant profondément la culture d'entreprise et de startup de la Bay Area.
+Burning Man est plus qu'un simple festival, c'est un terrain d'essai pour créer en collaboration une Black Rock City. Il a débuté sur les plages de la baie de San Francisco en 1986 et, depuis les années 1990, il a lieu chaque année dans le désert de Black Rock, au Nevada. C'est un lieu où se croisent l'art, le feu, la technologie et une culture du cadeau, recoupant profondément la culture d'entreprise et de startup de la Bay Area.
 
 ---
 
@@ -71,7 +71,7 @@ Burning Man attire depuis longtemps les célébrités – entrepreneurs, artiste
 
 ### Anecdote/Légende
 
-Lorsqu'il a été déplacé en 1990, l'interdiction par la police de brûler les plages a constitué un tournant et la décision a été prise de déménager dans le désert.
+Lorsqu'il a été déplacé en 1990, l'interdiction par la police de brûler les plages a constitué un tournant et la décision a été prise de s'installer dans le désert.
 Homme brûlant
 
 Une histoire intéressante selon laquelle les racines de "Google Doodle" sont liées à l'annonce de vacances du fondateur à Burning Man (le carrefour de la culture d'entreprise et des festivals).
@@ -197,7 +197,7 @@ Par exemple, il a été rapporté qu'il existe une œuvre intitulée « Flotteu
 
 #### 1999 : La Roue du Temps
 
-Le thème de la roue du temps/circularité. The city blocks and streets have been renovated with planet motifs.
+Le thème de la roue du temps/circularité. Les pâtés de maisons et les rues ont été rénovés avec des motifs planétaires.
 
 ---
 
@@ -273,7 +273,7 @@ Cependant, cette année-là, son art brûlant « Crude Awakening », qui imitait
 
 #### 2008 : Le rêve américain
 
-Rêve américain/Questions sur la société de consommation. Il existe de nombreuses œuvres d'art abordant les thèmes du consumérisme, de la mythologie et de la structure sociale.
+Rêve américain/Question pour la société de consommation. Il existe de nombreuses œuvres d'art abordant les thèmes du consumérisme, de la mythologie et de la structure sociale.
 
 ---
 

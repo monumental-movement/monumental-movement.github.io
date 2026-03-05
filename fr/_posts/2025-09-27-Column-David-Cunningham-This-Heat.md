@@ -83,7 +83,7 @@ En particulier, travailler au **Cold Storage Studio** (un studio expérimental c
 #### «Cette chaleur» (1979)
 
 - **"Not Waving"** : Le titre rappelle un poème de Stevie Smith. Symbolisant la solitude individuelle et l’aliénation nationale.
-- **"24 Track Loop"** : Pas de paroles, mais exprime la "répétition mécanique du capitalisme" avec le son. La boucle infinie est une métaphore de « l’ère de la stagnation ».
+- **"24 Track Loop"** : Pas de paroles, mais exprime la "répétition mécanique du capitalisme" avec le son. La boucle infinie est une métaphore de la « stagnation des temps ».
 - **"Horizontal Hold"** : extrait de la terminologie télévisée. Une satire de la « manipulation de l'information » et du « contrôle des médias » pendant la guerre froide.
 
 ---
@@ -176,7 +176,7 @@ flowchart TD
 ### Conclusion
 
 - **Interprétation lyrique** : This Heat critique la guerre froide à la fois sur le plan lyrique et sonore.
-- **Philosophie d'enregistrement de Cunningham** : utilise des équipements tels que Revox, Studer et EQ comme « dispositifs métaphoriques politiques ».
+- **Philosophie d'enregistrement de Cunningham** : utilise des équipements tels que Revox, Studer et EQ comme « dispositif métaphorique politique ».
 - **Importance historique de la musique expérimentale** : au-delà du post-punk, elle est directement liée aux fondements de la culture moderne d'échantillonnage/DAW et même à la production musicale IA.
 
 Leur musique est toujours un ensemble d'œuvres qui devraient être réévaluées comme « enregistrement = critique = expérience ».

@@ -62,7 +62,7 @@ C --> D[インド北部音楽文化]
 
 ## Une présence hérétique dans la musique classique indienne
 
-Le sitar, le sarod et le bansuri, qui sont les principaux instruments de la musique hindoustani, mettent tous l'accent sur des sons soutenus et doux. D'un autre côté, le santur étant un instrument à percussion, la durée du son est courte, ce qui rend difficile l'expression directe du méandre (sons doux).
+Le sitar, le sarod et le bansuri, qui sont les principaux instruments de la musique hindoustani, mettent tous l'accent sur des sons soutenus et doux. En revanche, le santoor étant un instrument à percussion, la durée du son est courte, ce qui rend difficile l'expression directe du méandre (sons doux).
 
 Pour cette raison, le santour a longtemps été considéré comme « incomplet en tant qu'instrument classique ». Cependant, cette restriction est devenue la base d'interprétations uniques ultérieures.
 
@@ -92,11 +92,11 @@ Une fois dans le tala, le santoor commence à prendre une force motrice percussi
 
 ## Technologie d'enregistrement et expansion de Santour
 
-Depuis la fin du XXe siècle, les progrès de la technologie d'enregistrement ont eu un impact significatif sur la réputation du Santour. Les détails du santour, qui a un son court et déclinant, ont été soulignés par le microphone, lui donnant un son tridimensionnel.
+Depuis la fin du XXe siècle, les progrès de la technologie d'enregistrement ont eu un impact significatif sur la réputation du santoor. Les détails du santour, qui a une tonalité courte et décroissante, ont été soulignés par le microphone, lui donnant un son tridimensionnel.
 
 Cela a conduit à son application non seulement aux performances solos, mais également aux ensembles et à la musique de film.
 
-> La technologie a accru la présence de Santour, pas son volume.
+> La technologie a élargi la présence de Santour, pas son volume.
 
 ---
 
@@ -122,7 +122,7 @@ Les performances commencent souvent par une note douce. Au moment où le maillet
 
 ## Relation symbiotique entre les chansons folkloriques du Cachemire et le santoor
 
-Au Cachemire, le santoor était profondément associé à la culture folklorique avant même la musique classique. Il était souvent joué sur l'air d'une chanson lors des cérémonies de mariage, des fêtes saisonnières, des rassemblements religieux et d'autres occasions.
+Au Cachemire, le santoor était profondément associé à la culture folklorique avant même la musique classique. Il était souvent joué sur l'air d'une chanson lors des cérémonies de mariage, des fêtes saisonnières et des rassemblements religieux.
 
 Lorsque l’on joue du santour en accompagnement de chansons folkloriques, l’intonation de la mélodie et le style de parole ont la priorité sur les gammes musicales strictes. Le maillet n'est pas basculé avec une force constante, mais change subtilement sa vitesse et son angle pour s'adapter à la respiration du chanteur.
 
@@ -183,7 +183,7 @@ timeline
 
 ## Chapitre final : La mémoire culturelle comme vibration
 
-Le santur n'est pas qu'un instrument folklorique. C’est une réponse à la question de savoir comment le son mémorise le temps. Lorsque d'innombrables cordes frappent en même temps, les notes individuelles disparaissent et seule la résonance globale demeure.
+Le santur n'est pas seulement un instrument folklorique. C’est une réponse à la question de savoir comment le son mémorise le temps. Lorsque d'innombrables cordes frappent en même temps, les notes individuelles disparaissent et seule la résonance globale demeure.
 
 Cette caractéristique est la raison pour laquelle le Santour continue d'être mis à jour même à l'époque moderne.
 

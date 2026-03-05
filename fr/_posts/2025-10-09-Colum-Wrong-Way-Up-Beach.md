@@ -20,7 +20,7 @@ title: '[Chronique] Wrong Way Up et « The Beach » – Réverbérations de l’
 
 Texte : mmr | Thème : Explorer les sons de l'utopie et s'évader à travers "Wrong Way Up" et "The Beach" de Brian Eno et John Cale avec Leonardo DiCaprio
 
-À la fin des années 1990, le monde croyait encore au mot « paradis ». La fin de la guerre froide, la naissance d’Internet et les rêves de mondialisation.
+À la fin des années 1990, le monde croyait encore au mot « paradis ». La fin de la guerre froide, la naissance d’Internet et le rêve de la mondialisation.
 Cependant, des fissures apparaissaient déjà derrière ce rêve. **« Wrong Way Up » (1990)** de Brian Eno et John Cale et **« The Beach » (2000)** de Leonardo DiCaprio se situent aux extrémités opposées de ce gouffre.
 
 Les deux histoires parlent de se diriger vers le sud. Il dépeint la solitude et la désillusion qui se cachent dans la tentative de trouver le paradis au bout de l'évasion.
@@ -138,7 +138,7 @@ Où irons-nous au 21ème siècle ?
 À une époque où les médias sociaux connectent le monde et où l’IA joue un rôle dans l’imagination, l’expression **« Wrong Way Up »** semble encore plus réaliste.
 La « fausse ascension » est désormais une métaphore de la civilisation.
 
-L'album d'Eno & Cale avait une prémonition de « musique après avoir abandonné le paradis ».
+L'album d'Eno & Cale avait une prémonition de "musique après avoir abandonné le paradis".
 La mélodie demande doucement. "Si vous ne trouvez pas le paradis, construisez-le en musique."
 
 Le moment à la fin de "La Plage" où Richard regarde son écran d'ordinateur avec un sourire aux lèvres.
@@ -147,7 +147,7 @@ Cependant, les « réverbérations de sons lointains » demeurent dans son cœur
 
 ---
 
-## Dernier chapitre : Le bruit de la plage qui s'éloigne, une collaboration comme réverbération utopique
+## Dernier chapitre : Le bruit de la plage qui s'éloigne, une collaboration comme une réverbération utopique
 
 La décennie 1990-2000 a été une période où la frontière entre réalité et fantasme s’est estompée.
 « Wrong Way Up » et « The Beach » documentent ce changement de manière sonore et visuelle.

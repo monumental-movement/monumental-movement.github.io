@@ -15,7 +15,7 @@ title: Famille Phare – Au revoir le chagrin
 
 Lighthouse Family était un duo pop-soul britannique actif du milieu des années 1990 au début des années 2000. Leur premier album de 1995, Ocean Drive, a été un succès non seulement au Royaume-Uni mais aussi en Europe.
 
-Ce disque est un morceau Downtempo remixé par Linslee Campbell et DJ Barry B du single "Goodbye Heartbreak" de l'album "Ocean Drive". Un album promo sorti par le label Wildcard en 1996.
+Ce disque est un morceau Downtempo remixé par Linslee Campbell et DJ Barry B du single "Goodbye Heartbreak" de l'album "Ocean Drive". Un album promotionnel sorti par le label Wildcard en 1996.
 
 
 #### Liste des chansons

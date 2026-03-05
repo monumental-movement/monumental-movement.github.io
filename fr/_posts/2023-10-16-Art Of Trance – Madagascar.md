@@ -8,13 +8,13 @@ layout: post
 permalink: /fr/art-of-trance-madagascar/
 tags:
 - Trance
-title: Art De La Transe – Madagascar
+title: Art Of Trance – Madagascar
 ---
 
 
-Side A est un remix du projet de transe allemand Cygnus X de Matthias Hoffmann et Ralf Hildenbeutel.
+A面はMatthias HoffmannとRalf HildenbeutelのジャーマントランスプロジェクトCygnus Xによるremix。
 
-Le premier morceau de la face B est un remix du DJ/producteur néerlandais Ferry Corsten (System F).
+B面１曲目は、オランダの DJ/プロデューサーFerry Corsten（フェリー・コーステン/System F）によるremix。
 
 #### Liste des chansons
 ```md

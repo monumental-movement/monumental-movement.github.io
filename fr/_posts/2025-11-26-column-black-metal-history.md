@@ -113,9 +113,9 @@ L'accent était mis sur les jeunes musiciens underground norvégiens.
 * Faire de l'enregistrement lo-fi une « esthétique »
 *Riff de trémolo
 * Crier Vo
-* Expression du « désert de glace » par la répétition et la vitesse
+* Expression de « Ice Wasteland » par la répétition et la vitesse
 * Peinture de cadavre
-* Vue naturelle sur l'hiver, la forêt et la solitude
+* Vue sur la nature de l'hiver, de la forêt et de la solitude
 
 ## ■ Bande représentative
 
@@ -129,7 +129,7 @@ L'accent était mis sur les jeunes musiciens underground norvégiens.
 ### ■ Incident grave
 
 * 1991 : Décès de Dead of Mayhem.
-* 1992 : incendie criminel d'une église
+* 1992 : Incendie criminel d'une église
 * 1993 : affaire de meurtre euronyme
 * 1993-1994 : sorties d'albums majeurs en même temps
 
@@ -153,7 +153,7 @@ Depuis 1998, l'internationalisation et la diversification ont progressé rapidem
 * Fusion avec la musique folk
 
 Le black metal est considéré comme une « diversification des idées, de la musique et des domaines culturels ».
-Passez à une nouvelle phase.
+Passer à une nouvelle phase.
 
 ---
 
@@ -211,7 +211,7 @@ Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierr
 * Structure minimale du riff
 * Rythme plus rapide (surtout 1985-87)
 * La ligne mélodique rappelle le « froid » et l'« humidité » uniques de la Suède et est directement liée aux mouvements ultérieurs.
-* Dans les années 90, ils sont passés à la période du métal viking et ont dépassé le cadre du black metal pour recréer l'esthétique de la mythologie nordique.
+* Dans les années 1990, ils sont passés à la période du metal viking et ont dépassé le cadre du black metal pour recréer l'esthétique de la mythologie nordique.
 
 ---
 
@@ -224,7 +224,7 @@ Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierr
 **Un événement décisif qui a introduit des éléments rituels de "mort et d'inhumanité" dans le black metal**.
 * Euronymous est basé à Helvete (un magasin de disques à Oslo).
 **Formation d'un cercle restreint de black metal (petite communauté proche). **
-* Plus tard, l'affaire du meurtre d'Euronymous (1993) et l'incendie criminel d'une église ont attiré l'attention du monde entier.
+* Plus tard, il a attiré l'attention du monde entier pour l'affaire du meurtre d'Euronymous (1993) et l'incendie criminel d'une église.
 
 ---
 
@@ -250,7 +250,7 @@ En raison d'une couverture médiatique excessive, « l'image dangereuse » du bl
 * L'enregistrement est extrêmement lo-fi,
 
 * Mur de guitare vertical
-* Frappes monotones de charleston et de caisse claire
+* Coups de charleston et de caisse claire monotones
 * Base extrêmement légère
 devient la version définitive du « son du black metal scandinave » = « son froid ».
 
@@ -286,7 +286,7 @@ Un pionnier qui a étendu le black metal au son orchestral**.
 *Contexte culturel
 
 * Discontinuation entre le christianisme (luthéranisme) comme religion nationale et l'ancienne culture nordique
-* Blocage de la culture des jeunes au début des années 1990
+* Blocus de la culture des jeunes au début des années 1990
 * Friction historique entre politique et religion
 * Caractéristiques musicales
 
@@ -314,7 +314,7 @@ Un pionnier qui a étendu le black metal au son orchestral**.
 
 * Bruit, primitifs, satanisme brut, etc.
 **Le black metal le plus « hérétique » est concentré**.
-* L'accent est mis sur le « cérémonial » plutôt que sur la qualité de l'enregistrement.
+* L'accent est mis sur le « caractère cérémonial » plutôt que sur la qualité de l'enregistrement.
 
 ---
 
@@ -333,7 +333,7 @@ Un pionnier qui a étendu le black metal au son orchestral**.
 * Axe principal : Léviathan / Xasthur / Loups dans la salle du trône
 * Caractéristiques
 
-* BM cascadien (type culte de la nature)
+* Cascadian BM (type culte de la nature)
 * DSBM (Dépression)
 * BM ambiante
 Chaque style a été subdivisé et a mené son expansion mondiale.
@@ -353,7 +353,7 @@ Chaque style a été subdivisé et a mené son expansion mondiale.
 
 — Grands événements + liste des chefs-d'œuvre par année —**
 
-Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les travaux sont basés sur l'année de publication officielle et l'année d'occurrence.
+Vous trouverez ci-dessous une **chronologie basée sur des faits**. Les incidents et les travaux sont basés sur l'année de publication officielle et l'année d'occurrence.
 
 ---
 

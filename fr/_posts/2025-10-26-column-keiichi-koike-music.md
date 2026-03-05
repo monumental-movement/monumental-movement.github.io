@@ -58,7 +58,7 @@ Au cours de cette période, les bases de l'**expression temporelle/rythmique** d
 
 - **1986** : Publication du premier livre "SPINOZA" (Sakushasha).
 Caractérisé par des thèmes philosophiques et des visuels abstraits.
-**La musicalité visuelle** est révélée en ajustant la densité des lignes, la composition de l'écran et le rythme temporel.
+En ajustant la densité des lignes, la composition de l'écran et le rythme temporel, la **musicalité visuelle** est révélée.
   
 - **1988** : Publication de ``Katajikenai'' (Hakusensha) et ``G (GATE 1)'' (Schola).
 Les lignes tendues du décor de science-fiction et l'expression du corps humain sont comme des polyrythmies musicales.

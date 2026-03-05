@@ -70,7 +70,7 @@ Les membres de la guitare, de la basse et de la batterie étaient également ét
 
 La musique de SOA n'est pas orientée vers la technique d'interprétation ou la complexité. La plupart des chansons durent environ une minute et il n’y a presque pas d’introductions ou d’éléments de développement. La batterie sert à faire avancer le rythme plutôt qu'à le conduire, et la guitare est plus à la frontière entre le bruit et le rythme qu'un riff.
 
-Cette musicalité est différente de la « lourdeur » et du « groove » du hardcore new-yorkais ultérieur, et est plutôt plus proche des premières impulsions du hardcore de DC. Cependant, le son de S.O.A a une tension sèche typique du New York urbain, et l'effusion immédiate d'émotion est plus au premier plan que la politique.
+Cette musicalité est différente de la « lourdeur » et du « groove » du hardcore new-yorkais ultérieur, et est plutôt plus proche des premières impulsions du hardcore de DC. Cependant, le son de S.O.A a une tension sèche typique du New York urbain, et l'éruption immédiate d'émotion est plus au premier plan que la politique.
 
 > Les chansons de S.O.A existent comme le résultat d'une excision plutôt que d'une construction.
 
@@ -102,7 +102,7 @@ Aucune politique n’est pas une œuvre évaluée pour son exhaustivité ou sa q
 
 Les activités live de SOA ont été de courte durée et les lieux étaient limités. Ils se produisaient principalement dans de petits clubs et des espaces de bricolage, et n'étaient alors connus que sur la scène punk new-yorkaise. Lors des performances live, l'accent était mis sur l'énergie de la collision plutôt que sur la perfection musicale, et la distance avec le public était extrêmement étroite.
 
-Le groupe s'est dissous vers 1981. La raison de la dissolution du groupe ressemble plus à une disparition spontanée due au mouvement des membres et à des changements dans leurs intérêts qu'à un incident spécifique. Cependant, cette dissolution ne met pas fin à S.O.A. Au lieu de cela, il se propage d’une manière différente.
+Le groupe s'est dissous vers 1981. La raison de la dissolution du groupe ressemble plus à une disparition naturelle due au mouvement des membres et à des changements dans leurs intérêts, qu'à un incident spécifique. Cependant, cette dissolution ne met pas fin à S.O.A. Au lieu de cela, il se propage d’une manière différente.
 
 > S.O.A était un groupe live et était plus présent sur le terrain que sur disque.
 
@@ -157,7 +157,7 @@ E --> G[Cro-Mags]
 ---
 
 
-## Conclusion : les sons restent en alerte
+## Conclusion : les sons sont laissés en alerte
 
 > S.O.A n'était pas une œuvre achevée, mais une alarme qui retentissait.
 

@@ -159,7 +159,7 @@ Chicago House recoupe des domaines apparemment sans rapport.
 ## Chapitre 9 : Contexte historique de Chicago House
 
 La structure économique et urbaine de Chicago, les inégalités sociales et le déclin industriel ont jeté les bases de la naissance de la house music.
-Les clubs étaient plus que de simples divertissements ; ils étaient des terrains d'expérimentation sociale et culturelle et des symboles de liberté et de solidarité entre les citadins.
+Les clubs étaient plus qu'un simple divertissement ; ils étaient des terrains d'expérimentation sociale et culturelle et des symboles de liberté et de solidarité entre les citadins.
 La Chicago House, ainsi née, s'est répandue dans le monde entier en tant que phénomène culturel qui croisait la culture urbaine, la technologie, les mouvements sociaux et l'histoire de la musique.
 
 ---

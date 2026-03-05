@@ -47,7 +47,7 @@ color: #fff;
 Le reggae a été créé vers 1968 après le ska et le rock stable. Les paroles avec des rythmes plus lourds, l'accent mis sur la basse et les messages sont devenus populaires. C'est également durant cette période que des artistes tels que Bob Marley, Peter Tosh et Burning Spear acquièrent une renommée internationale.
 
 - **Rôle de la sonorisation**
-En Jamaïque, il était difficile de posséder des tourne-disques et des chaînes stéréo coûteuses, c'est pourquoi d'immenses systèmes de sonorisation, ou des groupes de haut-parleurs installés aux coins des rues, sont devenus le centre de l'expérience musicale. Les producteurs et les DJ ont joué indépendamment les derniers singles de 7 pouces pour plaire au public.
+En Jamaïque, il était difficile de posséder des tourne-disques et des chaînes stéréo coûteuses, c'est pourquoi d'énormes haut-parleurs (systèmes audio) installés aux coins des rues sont devenus le centre de l'expérience musicale. Les producteurs et les DJ ont joué indépendamment les derniers singles de 7 pouces pour plaire au public.
 
 - **L'avènement des cassettes**
 Les cassettes compactes, introduites au début des années 1970 sous la norme Philips, ont rapidement trouvé leur place en Jamaïque. Même s’il en était encore à ses débuts, les fans de reggae et les DJ locaux ont commencé à s’intéresser au potentiel de ce petit média.
@@ -64,7 +64,7 @@ Lors des événements sound system et des salles de danse, est née une culture 
 Par exemple, les enregistrements de confrontations spécifiques au sound system (sound clashs) et leur diffusion ultérieure sur cassette étaient un moyen précieux de partage d'expériences pour les fans.
 
 - **Diaspora et Cassette**
-Pour les communautés d'immigrants caribéens de Grande-Bretagne et des États-Unis, les cassettes envoyées depuis la Jamaïque constituaient un média en temps réel qui transmettait « l'état actuel de leur pays d'origine ». Par le courrier et les réseaux informels, la dernière musique reggae et dancehall jamaïcaine s'est rapidement répandue à l'étranger.
+Pour les communautés d'immigrants caribéens de Grande-Bretagne et des États-Unis, les cassettes envoyées depuis la Jamaïque constituaient un média en temps réel qui transmettait « l'état actuel de leur pays d'origine ». Par le biais du courrier et des réseaux informels, la dernière musique reggae et dancehall jamaïcaine s'est rapidement répandue à l'étranger.
 
 ---
 
@@ -102,7 +102,7 @@ Une liste d'enregistrements célèbres qui symbolisent la culture des cassettes 
 |------------------|------|------|
 | Stone Love Sound System en direct à Kingston | 1982 | Un enregistrement représentatif des débuts de Sound Clash. Les acclamations du public étaient également vives. |
 | Killamanjaro contre Black Scorpio Clash | 1985 | La tension de la confrontation sonore et des échanges de MC improvisés. |
-| Ensemble Dancehall des années 90 Silverhawk Sound System | 1992 | L’engouement du dancehall aux grandes heures du riddim numérique est un condensé. |
+| Ensemble Dancehall des années 90 Silverhawk Sound System | 1992 | L’engouement pour le dancehall à l’époque des grandes heures du riddim numérique s’est condensé. |
 | Bass Odyssey en direct à Clarendon | 1994 | Contient l’excitation vive des événements locaux. |
 | Bandes de fête d’anniversaire Stone Love | 1997 | Une cassette commémorative résumant les moments forts de la scène. |
 
@@ -110,11 +110,11 @@ Une liste d'enregistrements célèbres qui symbolisent la culture des cassettes 
 
 ## Artistes reggae représentatifs par époque
 
-Les sons d'artistes représentatifs étroitement liés à la culture de la cassette sont organisés par décennie.
+Organise les sons d'artistes représentatifs étroitement liés à la culture de la cassette par décennie.
 
 | Ère | Artistes/sons représentatifs | Caractéristiques |
 |------|----------------------------|------|
-| années 1970 | Bob Marley, Lance brûlante, Augustus Pablo | Principalement des disques, mais répandus dès les premiers jours des cassettes. Spiritualité Roots Reggae. |
+| années 1970 | Bob Marley, Burning Spear, Augustus Pablo | Principalement des disques, mais répandus dès les premiers jours des cassettes. Spiritualité Roots Reggae. |
 | années 1980 | Yellowman, Barrington Levy, Stone Love, Killamanjaro | L'âge d'or des cassettes. Une figure clé de l’enregistrement de Sound Clash. |
 | années 1990 | Buju Banton, Beenie Man, Bounty Killer, Silverhawk | L'âge d'or du dancehall. Les enregistrements sur cassette se sont répandus au Japon et au Royaume-Uni. |
 | Années 2000 | Sizzla, Capleton, Bass Odyssée | La veille de la diffusion numérique. Le dernier enthousiasme de la cassette. |
@@ -127,7 +127,7 @@ Les sons d'artistes représentatifs étroitement liés à la culture de la casse
 La culture de la cassette, originaire de la Jamaïque, a eu une influence majeure sur la scène reggae japonaise depuis les années 1980. Parallèlement aux disques importés, les **cassettes enregistrées localement** sont devenues une source d'informations extrêmement importante pour les fans et les DJ japonais.
 
 - **Années 1980 : l'aube**
-Dans les magasins de disques de Shibuya, Tokyo, et de Minami, Osaka, les cassettes d'enregistrement de systèmes audio ramenées de Jamaïque étaient commercialisées de manière clandestine. Il ne s'agissait pas de produits authentiques, mais de copies d'« enregistrements live » réalisés localement en Jamaïque et qui soutenaient les premières expériences dancehall de la scène des clubs japonais.
+Dans les magasins de disques de Shibuya, Tokyo, et Minami, Osaka, des cassettes d'enregistrement de systèmes audio ramenées de Jamaïque étaient commercialisées de manière clandestine. Il ne s'agissait pas de produits authentiques, mais de copies d'« enregistrements live » réalisés localement en Jamaïque et qui soutenaient les premières expériences dancehall de la scène des clubs japonais.
 
 - **Années 1990 : L'apogée des cassettes importées**
 Dans les années 1990, alors que le nombre de fans de reggae japonais augmentait rapidement, les cassettes locales étaient indispensables pour en savoir plus sur les derniers riddim. Il a été ramené par des voyageurs en Jamaïque et vendu dans les coins des magasins de disques et des lieux d'événements. Autour du **CLUB JAH JAH** à Osaka et du **CLUB Citta'** à Shibuya, les cassettes faisaient office de « première ligne d'information ».
@@ -151,12 +151,12 @@ La diffusion du reggae et de la culture de la cassette s'organisera parallèleme
 |------|---------|-------------|
 | 1968 | La naissance du reggae. Il est passé du ska au rock stable, et un rythme basé sur la basse a été établi. | L’existence du reggae a été introduite dans une mesure limitée et il n’existe encore pratiquement pas de reconnaissance générale. |
 | années 1970 | La culture du sound system se développe. Les cassettes compactes commencent à affluer. | Bob Marley est présenté à travers certains magazines de musique et magasins de disques importés. |
-| 1980-82 | L'enregistrement sur cassettes s'est rapidement développé dans le domaine des systèmes audio. Distribué dans la rue. | Certains disquaires de Tokyo et d'Osaka commencent à distribuer officieusement des cassettes ramenées de Jamaïque. |
+| 1980-82 | L'enregistrement sur cassettes a rapidement augmenté dans les paramètres des systèmes audio. Distribué dans la rue. | Certains disquaires de Tokyo et d'Osaka commencent à distribuer officieusement des cassettes ramenées de Jamaïque. |
 | 1985 | Le riddim « Sleng Teng » est introduit et l’ère numérique commence. Accélère l'enregistrement sur cassette. | L'importation de cassettes d'enregistrement locales par les voyageurs étrangers et les DJ est en augmentation et elles sont utilisées dans les clubs. |
-| 1990-92 | L'âge d'or du dancehall. Stone Love, Killamanjaro et d'autres sont populaires. Les cassettes sont devenues un média incontournable. | Mighty Crown formé (1991). J'ai recherché des cassettes locales et commencé à travailler sur un système audio unique au Japon. |
+| 1990-92 | L'âge d'or du dancehall. Stone Love, Killamanjaro et d'autres sont populaires. Les cassettes sont devenues un média incontournable. | Mighty Crown est formé (1991). J'ai recherché des cassettes locales et commencé à travailler sur un système audio unique au Japon. |
 | 1994-96 | Les enregistrements de Sound Clash sont distribués dans le monde entier. | Les événements reggae sont populaires principalement à Shibuya et Osaka Minami. Les cassettes importées sont une source d'informations sur les derniers riddims. |
 | 1997-99 | La période de pointe de la culture sur cassette. De nombreux enregistrements in situ circulent. | Japanese Sound System vend des cassettes de mix produites indépendamment. Élargir la base de fans. |
-| 2000-05 | Avec l’essor des CD-R et MP3, le déclin des cassettes commence. | Les CD-R deviennent monnaie courante dans les clubs et les magasins. Cependant, dans certaines régions, les efforts visant à préserver la culture des cassettes se poursuivent. |
+| 2000-05 | Avec l’essor des CD-R et MP3, le déclin des cassettes commence. | Les CD-R deviennent monnaie courante dans les clubs et les magasins. Cependant, dans certaines régions, les efforts visant à préserver la culture sur cassette se poursuivent. |
 | Années 2010 | La distribution numérique est courante. Les cassettes sont réévaluées en tant que mémoire culturelle. | Collectionneurs et chercheurs numérisent des cassettes des années 90. La réévaluation se poursuit. |
 | Années 2020 | Les lecteurs de cassettes et les réimpressions apparaissent dans le contexte du retour analogique. | Au Japon, des projets de recherche et de réédition sont menés pour approfondir la « culture des cassettes reggae ». |
 

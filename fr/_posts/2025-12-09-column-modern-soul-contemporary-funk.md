@@ -261,7 +261,7 @@ flowchart TD
 ### 6-3. Partage international via Internet
 
 * La culture du groupe se propage via YouTube, Bandcamp, etc.
-* La diffusion des DAW et de l'enregistrement à domicile a rendu possible le partage de la production au-delà des frontières.
+* La diffusion des DAW et de l'enregistrement à domicile a permis de partager la production au-delà des frontières.
 
 ---
 
