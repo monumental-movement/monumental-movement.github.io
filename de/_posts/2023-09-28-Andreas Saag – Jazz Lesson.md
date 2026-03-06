@@ -16,7 +16,7 @@ title: Andreas Saag – Jazzunterricht
 
 Es erschien 2002 auf dem schwedischen Label „SLS“.
 
-Überraschend anders als der Markensound von SLS, ist es Jazz, wobei Saag einen wunderschönen, von einem Flügel getragenen Track liefert.
+Überraschenderweise unterscheidet es sich vom typischen SLS-Sound, es ist Jazz, wobei Saag einen wunderschönen und großartigen, klavierzentrierten Track liefert.
 
 #### Trackliste
 ```md

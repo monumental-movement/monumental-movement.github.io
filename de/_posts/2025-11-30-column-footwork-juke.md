@@ -21,7 +21,7 @@ title: '[Kolumne] Footwork / Juke: Eine Geschichte der Hochgeschwindigkeits-Tanz
 
 Text: mmr｜Thema: Jukes Ursprünge, musikalische Eigenschaften, Hauptkünstler, Beziehung zur Tanzkultur und internationale Verbreitung
 
-Footwork/Juke ist eine aus Chicago stammende Tanzmusik mit einem charakteristischen schnellen Rhythmus, fragmentiertem Sampling und einer komplexen Step-Dance-Kultur. Es handelt sich um ein Musikgenre, das ursprünglich aus den Ghetto-Gemeinschaften Chicagos hervorgegangen ist und vom Ende des 20. Jahrhunderts bis zum Beginn des 21. Jahrhunderts eine einzigartige Entwicklung durchgemacht hat.
+Footwork/Juke ist eine Tanzmusik, die ihren Ursprung in Chicago hat und über eine Tanzkultur mit ausgeprägten schnellen Rhythmen, fragmentiertem Sampling und komplexen Schritten verfügt. Es handelt sich um ein Musikgenre, das ursprünglich aus den Ghetto-Gemeinschaften Chicagos hervorgegangen ist und vom Ende des 20. Jahrhunderts bis zum Beginn des 21. Jahrhunderts eine einzigartige Entwicklung durchgemacht hat.
 
 
 ---

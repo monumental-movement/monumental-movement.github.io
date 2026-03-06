@@ -20,7 +20,7 @@ title: '[Chronique] Supplément sur la technologie du disque 10 pouces : La vé
 ## Concept de design 10 pouces : la précision dans le format
 
 
-Texte : mmr｜Thème : Plonger dans le contexte technique des disques 10 pouces, comme leur structure, leur vitesse de rotation et leur mastering, et reconsidérer le caractère unique du son produit par le format.
+Texte : mmr | Thème : Plonger dans le contexte technique des disques 10 pouces, comme leur structure, leur vitesse de rotation et leur mastering, et reconsidérer le caractère unique du son produit par le format.
 
 
 La structure physique d'un disque incarne la philosophie du format musical dans sa forme la plus pure.
@@ -51,7 +51,7 @@ color: #fff;
 L'un des facteurs qui déterminent la qualité sonore d'un disque est le nombre de tours (RPM) et la vitesse linéaire.
 
 - **7 pouces simple : 45 tr/min**
-Il y a beaucoup de force dans le son à la périphérie externe et une excellente reproduction des hautes fréquences. Cependant, la distorsion augmente au niveau de la circonférence intérieure.
+Il y a beaucoup de force dans le son en périphérie externe et la reproduction des hautes fréquences est excellente. Cependant, la distorsion augmente au niveau de la circonférence intérieure.
 
 - **LP 12 pouces : 33⅓RPM**
 Il convient à une lecture à long terme et garantit une qualité sonore stable, mais les hautes fréquences sont quelque peu atténuées.
@@ -60,7 +60,7 @@ Il convient à une lecture à long terme et garantit une qualité sonore stable,
 La limite est d'environ 12 minutes par côté à 33⅓ et d'environ 8 à 9 minutes à 45 tr/min.
 Autrement dit, la force du 10 pouces, c’est qu’il est possible de concevoir un système privilégiant la qualité sonore dans le temps.
 
-La vitesse linéaire moyenne est d'environ 15 % supérieure à celle de 12 pouces et il y a moins de distorsion sur la périphérie intérieure.
+La vitesse linéaire moyenne est d'environ 15 % supérieure à celle de 12 pouces et il y a moins de distorsion sur la périphérie interne.
 Surtout dans les musiques avec une forte attaque, comme le jazz ou le rock indépendant, cette caractéristique de vitesse crée une impression claire de rythme et de séparation spatiale.
 
 ---
@@ -84,7 +84,7 @@ Cette caractéristique le rend adapté aux enregistrements live et aux mixages b
 
 ### Processus de maîtrise : du vernis au tampon
 
-Le point clé du processus de production de disques 10 pouces est l’étape de **découpe de laque**.
+Le point clé du processus de production de disques 10 pouces est l'étape de **découpe de laque**.
 En raison du diamètre plus petit du disque de 10 pouces, il y a moins d’erreur de suivi de la tête de coupe.
 Cela améliore la précision du groove sonore et rend la localisation stéréo plus stable.
 
@@ -161,7 +161,7 @@ Il ne s'agit plus d'un format du passé, mais d'un **appareil de 10 pouces au no
 
 ### Conclusion : Philosophie musicale dans la physique d'un disque
 
-Lorsqu’on parle de l’attrait technique des disques de 10 pouces, ce qui ressort derrière c’est la « liberté créée par les contraintes ».
+Lorsqu'on parle de l'attrait technique des disques de 10 pouces, ce qui ressort derrière c'est la « liberté créée par les contraintes ».
 Limites de conception, contraintes de temps et contraintes de taille.
 Tout cela rend la musique « condensée » et lui redonne son « ressenti ».
 

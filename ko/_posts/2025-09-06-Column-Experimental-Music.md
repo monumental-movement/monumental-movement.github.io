@@ -95,7 +95,7 @@ Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 
 ---
 
-## 1970s: 소음, 산업의 싹
+## 1970s : 노이즈, 산업의 싹싹
 - **배경:** 펑크나 아방가르 예술과 교차하면서 '소음'을 음악에 담는다. 산업 문화의 탄생.
 - **기재:** EMS Synthi A, ARP 2600, Roland System 100, 자작 노이즈 제너레이터.
 
@@ -116,7 +116,7 @@ Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | Philip Glass | Music in Twelve Parts (Part 1) | 1974 |
 | Laurie Anderson | O Superman (라이브 원곡) | 1979 |
 | Tangerine Dream | Phaedra | 1974 |
-| Kraftwerk | Autobahn | 1974 |
+| 크라프트베르크 | 아우토반 | 1974년 |
 | Suicide | 고스트 라이더 | 1977 |
 | Charlemagne Palestine | Strumming Music | 1974 |
 | Robert Ashley | Automatic Writing | 1979 |
@@ -272,7 +272,7 @@ Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 실험 음악의 본질은 "예측 불가능성"과 "탐구의 정신"입니다. 상업음악의 외측이라도 그 영향은 록, 클럽뮤직, 현대음악, 팝에까지 침투하고 있어 더 이상 무시할 수 없는 존재입니다.
 
 향후는 AI나 뇌파 인터페이스, VR/AR와의 융합에 의해 「음악」이라고 하는 개념조차 바뀔 가능성이 있습니다.
-**실험 음악은 미래를 차지하는 거울이며, 듣는 사람·창성하는 사람 쌍방에 「소리의 새로운 지평」을 계속 제시할 것입니다. **
+**실험 음악은 미래를 차지하는 거울이며, 듣는 자·창성자 양쪽에게 「소리의 새로운 지평」을 계속 제시할 것입니다. **
 
 ---
 

@@ -108,7 +108,7 @@ Mit dem WAVE-Kanal des Game Boy können Sie statt fester Wellenformen beliebige 
 
 ---
 
-## Kapitel 3: Tracker-Kultur und Chiptune-Produktion – LSDj / Nanoloop / Famitracker
+## Kapitel 3: Tracker-Kultur und Chipune-Produktion – LSDj / Nanoloop / Famitracker
 
 ### 3-1. Was ist Tracker?
 
@@ -200,7 +200,7 @@ Chiptune beschränkt sich keineswegs auf eine „Reproduktion von Spielemusik“
 
 ---
 
-## Kapitel 7: Genealogie von Chiptune
+## Kapitel 7: Chipune-Genealogie
 
 <div class="mermaid">
 flowchart TD
@@ -234,7 +234,7 @@ Es wird nicht nur als Musikgenre betrachtet, sondern als umfassende Ausdrucksfor
 ### 9-1. Produktion mit realer Ausrüstung
 
 - Game Boy DMG-01-Modifikation
-- EverDrive・Flash-Wagen
+- EverDrive/Flash-Wagen
 - Austausch zerbrechlicher Teile
 - Methode zur Aufnahme von jeweils einem Kanal in Stereo
 
@@ -250,7 +250,7 @@ Es wird nicht nur als Musikgenre betrachtet, sondern als umfassende Ausdrucksfor
 ## Kapitel 10: Die Zukunft von Chiptune und die Zukunft der 8-Bit-Ästhetik
 
 8-Bit-Musik ist kein Symbol mehr für Retro;
-**Eine Einheit, die der Moderne als „Cluster eingeschränkter Ästhetik“ neue Ideen verleiht**
+**Eine Existenz, die der Moderne als „Cluster eingeschränkter Ästhetik“ neue Ideen gibt**
 Es ist geworden.
 
 - Verwendung in Hyperpop und EDM

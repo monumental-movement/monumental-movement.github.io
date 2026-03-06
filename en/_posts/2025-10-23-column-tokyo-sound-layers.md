@@ -61,7 +61,7 @@ The live house ""LOFT'' opened in 1976, establishing Shinjuku as a free zone for
 ## Chapter 2: Shibuya - Between the club and the street
 
 ### 1. The illusion of Shibuya-kei
-In the 1990s, Shibuya was in the spotlight as a ""music city connected to the world.''
+In the 1990s, Shibuya was in the spotlight as a "music city connected to the world."
 A network of sounds spreading from the 7th floor of Tower Records. Pizzicato Five, Cornelius, Kenji Ozawa.
 The pop sensibilities imported from overseas were simultaneously redefined as Japanese cool.
 
@@ -90,7 +90,7 @@ The lineage of electronic sounds built by YMO in the 1980s evolved once again in
 Game music, vocaloids, chip tunes, anime song remixes.
 Although it is a melting pot of subculture, it has formed a new context that connects to the world's electronic scene.
 
-### 2. The sounds of Akihabara are "augmented reality"
+### 2. The sound of Akihabara is "augmented reality"
 A city where "music" and "technology" are fused. Live streaming, VTuber, AI music.
 Akihabara is a ""futuristic pop testing ground,'' and is evolving on a different timeline than other areas of Tokyo.
 

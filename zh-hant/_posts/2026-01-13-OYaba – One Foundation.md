@@ -10,7 +10,7 @@ tags:
 - Reggae
 - African
 - 90s
-title: O'Yaba – One Foundation
+title: O'Yaba——同一個基金會
 ---
 
 

@@ -46,7 +46,7 @@ color: #fff;
 
 ### Musique électronique intelligente après les breakbeats
 
-Au début des années 1990, les tentatives de subdiviser et de reconstruire les breakbeats ont progressé, et les rythmes contenant des changements plutôt que des répétitions ont fini par être valorisés. Dans un domaine appelé IDM, l'accent est moins mis sur la stabilité du tempo que sur ce qui se passe à l'intérieur du rythme. Le rythme est passé du statut de fondement pour la danse à celui de structure d'information pour l'écoute.
+Au début des années 1990, les tentatives de subdivision et de reconstruction des breakbeats ont progressé, et les rythmes contenant des changements plutôt que des répétitions ont fini par être valorisés. Dans un domaine appelé IDM, l'accent est moins mis sur la stabilité du tempo que sur ce qui se passe à l'intérieur du rythme. Le rythme est passé du statut de fondement pour la danse à celui de structure d'information pour l'écoute.
 
 ### Redéfinir la signature rythmique et le tempo
 

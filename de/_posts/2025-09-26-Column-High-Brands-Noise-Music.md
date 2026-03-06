@@ -18,7 +18,7 @@ title: '[Kolumne] Hohe Marken und Lärmmusik – die Schnittstelle zwischen Luxu
 
 Text: mmr｜Thema: Die Affinität zwischen aktuellen Modenschauen und Noise-Musik
 
-Bei Noise-Musik dreht sich alles um Underground-Live-Häuser, Schweiß- und Rückkopplungsgeräusche und extreme Darbietungen. High-End-Marken hingegen sind die Laufstege von Paris, Mailand und Tokio, glänzende Textilien und höchste Raffinesse.
+Bei Noise-Musik dreht sich alles um Underground-Live-Houses, Schweiß- und Feedback-Sounds und extreme Performances. High-End-Marken hingegen sind die Laufstege von Paris, Mailand und Tokio, glänzende Textilien und höchste Raffinesse.
 Es ist leicht zu glauben, dass sich die beiden nicht überschneiden können.
 Schaut man sich jedoch die Modenschauen der letzten Jahre an, stellt man fest, dass die beiden eine überraschend enge Beziehung aufgebaut haben.
 
@@ -106,7 +106,7 @@ Ausführliche Beispiele großer Marken und Lärm
 
 Rei Kawakubo geht der Affinität zwischen „Dekonstruktion der Schönheit“ und Lärm nach.
 
-Einführung von Drones, metallischen Klängen und experimenteller Musik in die Show.
+Einführung von Drohnen, metallischen Klängen und experimenteller Musik in die Show.
 
 Verwandte Künstler: Merzbow, Keiji Haino, David Tudor, Alva Noto.
 
@@ -255,7 +255,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 
 | Anzeigen / Materialien | Ausgewählte Künstler | Ergänzende Punkte | Referenzen |
 | ------------------------------------ | -------------------------------------------------: | ------------------------------------------------------------------------------------ | ----------------- |
-| Comme des Garçons SS15 (Sammlungsepisode wie „Rot“) | **Drohnenartige Geräusche, einschließlich Sunn O))), Erde (Drohne/Drohnenmetall)** | Dazed berichtete in einem Sonderbeitrag, dass „Drohnenartige Bands (Sunn O))), Erde) im SS15-Soundtrack verwendet wurden.“ Ein typisches Beispiel dafür, dass die dunkle Ästhetik und der Sound der Show eng miteinander verbunden sind. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 (Sammlungsepisoden wie „Red“) | **Drohnenartige Geräusche, einschließlich Sunn O))), Erde (Drohne/Drohnenmetall)** | Dazed berichtete in einem Sonderbeitrag, dass „Drohnenartige Bands (Sunn O))), Erde) im SS15-Soundtrack verwendet wurden.“ Ein typisches Beispiel dafür, dass die dunkle Ästhetik und der Sound der Show eng miteinander verbunden sind. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
 | Comme des Garçons (Ton für Modenschauen produziert) | **Florian Hecker** (produziert Musik für Mode/12"-Veröffentlichungen verfügbar) | Es gibt Berichte, dass Hecker mehrere Songs für Comme des Garçons produziert hat und eine limitierte Auflage von Editions Mego veröffentlicht wurde. Ein „zeitgenössisches Sound"-Stück exklusiv für die Show. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | SS14/Archiv-Playlist usw. | Playlist anzeigen (Mischung aus experimentellen Sounds, Umgebungsgeräuschen und Lärm) | Beispiel einer Soundcollage für eine Show, hochgeladen auf Dazeds SoundCloud/Playlist usw. Praktisch zum „Überprüfen“ der Soundquellen einer Show. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
@@ -272,7 +272,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 ### Gucci – „Gemischte“ Tonproduktion mit großen Produzenten (klassisch x modern)
 
 | Anzeigen / Materialien | Künstler | Ergänzungen | Referenzen |
-| ------------- | -----------------------------------------------------: | --------------------------------------------------------------------------------- | --------------- |
+| ------------- | -----------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------- |
 | [Gucci](https://amzn.to/4gIXl9X) (Debütshow von Sabato De Sarno usw.) | **[Mark Ronson](https://amzn.to/46nSdEG) (Musikproduktion/Mix anzeigen)** | Mark Ronson produziert die Showmusik von Gucci. Ein Beispiel für die Mischung klassischer Musik mit zeitgenössischem Pop/Remix, um die Erzählung einer Show zu erstellen (ausführliches Interview im Artikel enthalten). ([Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)) | [Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com) |
 | Gucci-Kampagne/Sondervideo (regional begrenztes Tonmaterial) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (z. B. Bereitstellung von Musik für einige Projekte)** | [Cortini](https://amzn.to/3WaGPWF)(Nine Inch Nails Related) und elektronische Musik derselben Generation werden in Markenvideos verwendet (es gibt Beispiele für Musik, die für Projekte bereitgestellt wird, die auf China ausgerichtet sind). *Dies bedeutet nicht, dass alle Shows der Marke auf Lärm ausgerichtet sind, sondern vielmehr eine „lokale Auswahl an Produktionen“. ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
 

@@ -61,7 +61,7 @@ Erst zu Beginn des 21. Jahrhunderts entstand die Idee, diesen natürlichen Segen
 
 ---
 
-## Kapitel 2: Geburt des Alkohols, der auf Geräusche hört
+## Kapitel 2: Geburt des Alkohols, der es Ihnen ermöglicht, Geräuschen zuzuhören
 
 ### ● Ursprung der Idee
 Der Auslöser war die „akustische Alterung“ von Wein, die ein Weinbrauer in Tokio beobachtete.
@@ -147,12 +147,12 @@ Dieser Tag naht.
 | Jahre | Veranstaltungen |
 |------|---------|
 | 1600er | Der Zuckerrohranbau beginnt in Amami |
-| 1800er | Beginn der Produktion von lokalem Shochu aus braunem Zucker |
+| 1800er | Die Produktion von lokalem Shochu aus braunem Zucker als Rohstoff beginnt |
 | 1949 | Rückgabe der Amami-Inseln an Japan, Sondergenehmigung für „Braunzucker-Shochu“ |
 | 2005 | Amami Oshimas erster akustisch gealterter Shochu-Test beginnt |
 | 2008 | Universität Kagoshima beginnt mit wissenschaftlicher Forschung zur akustischen Reifung |
 | 2015 | Jede Brauerei entwickelt ihre eigene Musikalterungsmarke |
-| 2020er | Akustische Alterung wird in Sake-Brauereien in Japan und im Ausland immer beliebter, KI-Steuerungstechnologie wird eingeführt |
+| 2020er Jahre | Akustische Alterung wird in Sake-Brauereien in Japan und im Ausland immer beliebter, KI-Steuerungstechnologie wird eingeführt |
 | 2025 | Amami-Shochu mit braunem Zucker in Vorbereitung auf die Bewerbung als immaterielles UNESCO-Kulturerbe |
 
 ---

@@ -105,7 +105,7 @@ Der ästhetische Rahmen (Satan, Anti-Religion, Dark Recording, Anti-Kommerzialis
 
 # **Kapitel 3: Zweite Welle (1990-1998) – Norwegen hat die Welt verändert**
 
-Die wichtigste Ära in der Geschichte des Black Metal war 1990-1998.
+Die wichtigste Ära in der Geschichte des Black Metal war 1990–1998.
 Der Fokus lag auf jungen norwegischen Underground-Musikern.
 
 ## ■ Schlüsselkonzepte
@@ -113,7 +113,7 @@ Der Fokus lag auf jungen norwegischen Underground-Musikern.
 * Etablierung von Lo-Fi-Aufnahmen als „Ästhetik“
 *Tremolo-Riff
 * Scream Vo
-* Ausdruck von „Eisödland“ durch Wiederholung und Geschwindigkeit
+* Ausdruck von „Ice Wasteland“ durch Wiederholung und Geschwindigkeit
 * Leichenbemalung
 * Naturblick auf Winter, Wald und Einsamkeit
 
@@ -128,20 +128,20 @@ Der Fokus lag auf jungen norwegischen Underground-Musikern.
 
 ### ■ Schwerer Vorfall
 
-* 1991: Dead of Mayhem ist verstorben.
+* 1991: Dead of Mayhem stirbt.
 * 1992: Brandstiftung in der Kirche
 * 1993: Mordfall Euronymous
 * 1993–1994: Große Albumveröffentlichungen auf einmal
 
 Die norwegische Szene vereint Gewalt und Ästhetik.
-Black Metal ist mehr als nur Musik und löst eine weltweite Debatte aus.
+Black Metal ist mehr als nur Musik und löst weltweite Debatten aus.
 Es ist zu einem **kulturellen Phänomen** geworden.
 
 ---
 
 # **Kapitel 4: Dritte Welle (1998-2005) – Globale Ausbreitung und Mutation**
 
-Während das Klangbild der zweiten Welle geerbt wurde,
+Während das Klangbild der zweiten Welle geerbt wird,
 Seit 1998 schreiten Internationalisierung und Diversifizierung rasant voran.
 
 ## ■ Haupttrends
@@ -153,7 +153,7 @@ Seit 1998 schreiten Internationalisierung und Diversifizierung rasant voran.
 * Fusion mit Volksmusik
 
 Black Metal soll eine „Diversifizierung von Ideen, Musik und Kulturbereichen“ sein.
-Gehen Sie in eine neue Phase.
+Wechseln Sie in eine neue Phase.
 
 ---
 
@@ -224,7 +224,7 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 **Ein entscheidendes Ereignis, das rituelle Elemente von „Tod und Unmenschlichkeit“ in den Black Metal brachte**.
 * Euronymous hat seinen Sitz in Helvete (einem Plattenladen in Oslo).
 **Bildung eines Black-Metal-Innenkreises (enge kleine Gemeinschaft). **
-* Später erregte der Mordfall Euronymous (1993) und der Kirchenbrandvorfall weltweite Aufmerksamkeit.
+* Später erregte der Mordfall Euronymous (1993) und der Brandstiftungsvorfall in der Kirche weltweite Aufmerksamkeit.
 
 ---
 
@@ -234,7 +234,7 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * Die Musik zielt auf gründlichen Minimalismus ab,
-**Ein Stil, der darauf abzielt, durch Wiederholung eine tranceartige Natur und den Zusammenbruch des Zeitgefühls zu erzeugen**.
+**Ein Stil, der darauf abzielt, durch Wiederholung eine tranceartige Natur und den Zusammenbruch des eigenen Zeitgefühls zu erzeugen**.
 * Weiterhin ein starkes Statement in der norwegischen Kultur- und Religionsdebatte Anfang der 1990er Jahre setzend,
 Aufgrund der übermäßigen Berichterstattung in den Medien wurde das „gefährliche Image“ des Black Metal etabliert.
 * Nach dem Vorfall (Mord an Euronymous) und der Verhaftung wurde Burzums Tonquelle stärker auf die Umgebung ausgerichtet.
@@ -314,7 +314,7 @@ Ein Pionier, der Black Metal zum Orchesterklang erweiterte**.
 
 * Lärm, Primitive, roher Satanismus usw.
 **Das „ketzerischste“ Black Metal ist konzentriert**.
-* Der Schwerpunkt liegt eher auf „Zeremonialität“ als auf der Qualität der Aufnahme.
+* Betonung des „zeremoniellen Charakters“ statt der Qualität der Aufnahme.
 
 ---
 
@@ -480,7 +480,7 @@ Kälte, Dunkelheit, Spiritualität, Rebellion, Einsamkeit, Feier, Ritual.
 All dies existiert gleichzeitig im Black Metal.
 * Black-Metal-Musik entstand als Spiegelbild des Klimas, der Kultur und der Geschichte einer bestimmten Region.
 * Seit den 1990er Jahren hat die **Multipolarisierung (von Norwegen als Zentrum auf den Rest der Welt)** Fortschritte gemacht.
-* Vorfälle, Ideen und soziale Hintergründe hatten einen starken Einfluss auf die Genrebewertung und Bildbildung,
+* Vorkommnisse, Ideen und soziale Hintergründe hatten einen starken Einfluss auf die Genrebewertung und Bildbildung,
 **Im Hinblick auf die Musikgeschichte liegt das Wesentliche in den Veränderungen in der Arbeitsstruktur und der Aufnahmeästhetik jeder Band**.
 * Seit den 2000er Jahren wird es in **Avantgarde, Naturverehrung, DSBM und Post-BM** unterteilt.
 Der Ausbau dauert bis in die 2020er Jahre.

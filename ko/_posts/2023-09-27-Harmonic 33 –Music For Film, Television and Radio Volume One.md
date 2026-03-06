@@ -15,15 +15,15 @@ title: Harmonic 33 –Music For Film, Television & Radio Volume One
 
 2005년에 발매된 이 앨범은, Warp의 릴리스 중에서도 클래식인 내용입니다.
 
-"Optigan"의 스윙과 같은 외부 우주의 그루브에서 "Carousel"의 회전하는 놀이 공원과 같은 분위기에 이르기까지 Harmonic 33은 짧은 시간 동안 최대한의 분위기를 담고 있습니다.
+"Optigan"의 스윙과 같은 외부 우주의 그루브에서 "Carousel"의 회전하는 놀이 공원과 같은 분위기에 이르기까지 Harmonic 33은 짧은 시간 안에 최대한의 분위기를 담고 있습니다.
 
 "Bossa Nova Supernova"와 "Departure Lounge"처럼 이지 청취가 원활하게 흐릅니다.
 
-반대로 철저한 기발함을 추구한다면 "Funky Duck"을 들어보자.
+반대로 철저한 기발함을 요구한다면, "Funky Duck"을 들어보자.
 
 스파이 드라마를 좋아한다면 "Paranoia"와 "Long Shadow"가 준비되어 있습니다.
 
-"Marionette"와 같은 짧은 악곡에서도, 그 존재감은 제대로 주장해, 생각깊고 멜랑콜릭인 "Planet 54"로, 이 앨범은 마무리됩니다.
+"Marionette"와 같은 짧은 악곡에서도, 그 존재감은 제대로 주장하고, 생각깊고 멜랑콜릭인 "Planet 54"로, 이 앨범은 마무리됩니다.
 
 #### Tracklist
 ```md

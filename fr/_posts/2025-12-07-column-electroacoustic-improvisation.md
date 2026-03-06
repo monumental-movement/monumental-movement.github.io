@@ -88,7 +88,7 @@ Son chef-d'œuvre "Endless Summer" (2001) a été très apprécié comme exemple
 Du point de vue de l’EAI, les points suivants sont importants :
 
 - Traitez le son brut de la guitare et le son traité sur le même plan
-- Introduire du bruit de glitch pour improviser
+- Introduction du glitch noise pour improviser
 - Traitez votre ordinateur portable comme un « deuxième instrument »
 - Intégrer le traitement du signal (filtrage, granulaire) comme acte de performance
 
@@ -101,7 +101,7 @@ En particulier lors des performances live, le processus de capture, de traitemen
 #3-2. **Rafael Toral**
 Originaire du Portugal. Au départ, il a produit des œuvres électro-acoustiques orientées ambiance, mais vers 2003, il a développé un projet collectivement connu sous le nom de « Space Program » et s'est concentré sur les **performances d'improvisation utilisant manuellement des équipements électroniques**.
 
-Caractéristiques:
+特徴：
 
 - Circuits synthétiseurs faits maison/modifiés, générateurs de signaux, etc.
 - Lit des "signaux électroniques contrôlables" au lieu du bruit
@@ -212,7 +212,7 @@ flowchart TD
 
 # 8. État actuel et développement futur de l'EAI
 
-Bien que l’EAI ne soit pas aussi concentrée qu’elle l’était au début des années 2000 en tant que scène distincte, elle continue de créer de nouvelles formes à mesure que l’équipement évolue.
+Bien que l’EAI ne soit plus aussi concentrée qu’elle l’était au début des années 2000 en tant que scène distincte, elle continue de créer de nouvelles formes à mesure que l’équipement évolue.
 Les connexions progressent notamment avec les domaines suivants :
 
 - Codage en direct

@@ -21,7 +21,7 @@ Crue-L Classics 12인치 시리즈로 2010년에 출시되었다.
 
 A1 & AA는 디트로이트를 거점으로 활동하는 DJ/레코드 프로듀서 Theo Parrish(테오 패리시)에 의한 remix.
 
-A2는 런던 출신의 일렉트로닉 밴드 Freks (Justin Harris & Luke Solomon)에 의한 remix.
+A2는 런던 출신의 일렉트로닉 밴드 Freaks (Justin Harris & Luke Solomon)에 의한 remix.
 
 
 #### Tracklist

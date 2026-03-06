@@ -9,15 +9,15 @@ permalink: /fr/modjo-lady-hear-me-tonight/
 tags:
 - House
 - Disco
-title: Modjo – Lady (Écoutez-moi ce soir)
+title: Modjo – Lady (Hear Me Tonight)
 ---
 
 
-"Modjo - Lady (Hear Me Tonight)" est un single sorti en 2000 par le duo disco français Modjo. La chanson a connu un énorme succès dans le monde entier et a atteint le sommet de nombreux charts.
+「Modjo - Lady (Hear Me Tonight)」は、フランスのディスコデュオであるModjoが2000年にリリースしたシングルです。この曲は世界中で大ヒットし、多くのチャートで上位にランクインしました。
 
-"Lady (Hear Me Tonight)" est un morceau qui combine des éléments de dance-pop et de house française, avec un rythme rythmé, une mélodie entraînante et une production sophistiquée.
+「Lady (Hear Me Tonight)」は、ダンスポップとフレンチハウスの要素を組み合わせたトラックであり、リズミカルなビート、キャッチーなメロディ、そして洗練されたプロダクションが特徴です。
 
-Il est considéré comme un classique pour les fans de dance music et pour de nombreux amateurs de musique pop des années 2000.
+ダンスミュージックのファンや2000年代のポップミュージックを愛する多くの人々にとってクラシックとされています。
 
 
 #### Liste des chansons

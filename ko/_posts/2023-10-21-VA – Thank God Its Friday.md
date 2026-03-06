@@ -13,7 +13,7 @@ title: VA – Thank God It's Friday
 ---
 
 
-VA – Thank God It's Friday는 1978년 Casablanca에서 출시되었습니다.
+"VA - Thank God It's Friday"는 1978 년 Casablanca에서 출시되었습니다.
 
 #### Tracklist
 ```md

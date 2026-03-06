@@ -23,7 +23,7 @@ title: '[Chronique] Madvillain « Madvillainy » ─ Mythe hip-hop du 21e siècl
 Au printemps 2004, un album sorti par un petit label de Los Angeles, **Stones Throw Records**, bouleversait discrètement les idées reçues du hip-hop.
 **Madvillain [『Madvillainy』](https://amzn.to/3JhySfH)**――それは、**ラップアルバムでありながら、詩集でもあり、電波を通じたサウンド・コラージュでもある。**
 
-Au début du XXIe siècle, le hip-hop américain s'oriente vers l'extravagante « culture de marque » symbolisée par Jay-Z et 50 Cent. D’un autre côté, cet album parle d’anonymat et de poétique des fragments, et il a de profondes racines dans l’underground du monde.
+Au début du XXIe siècle, le hip-hop américain s'oriente vers l'extravagante « culture de marque » symbolisée par Jay-Z et 50 Cent. D'un autre côté, cet album parle d'anonymat et de poétique des fragments, et il a de profondes racines dans l'underground du monde.
 Ce qui captive l'auditeur n'est pas le degré de perfection, mais plutôt la « beauté inachevée ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ru2IrTY2UG0?si=TOIzzbHB9GSmWrvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -54,11 +54,11 @@ Surtout dans ce travail, **SP-303 Dr. Sample** détient la clé. Bien qu'il s'ag
 
 ### MF DOOM : Le poète masqué
 MF DOOM (de son vrai nom Daniel Dumile) est né d'une tragédie.
-Au début des années 1990, alors qu'il fait ses débuts sous le nom de KMD, il perd son jeune frère Subroc dans un accident et son contrat avec le label prend fin.
+Au début des années 1990, alors qu'il fait ses débuts sous le nom de KMD, il perd son jeune frère Subroc dans un accident et son contrat avec le label est annulé.
 Il est resté silencieux pendant plusieurs années et est revenu avec un masque métallique. **
 
 DOOM a fait du masque un symbole de « création » plutôt que d'« évasion ».
-Ses paroles sont pleines de rythmes complexes, de rimes internes et de métaphores, et sont un mélange de structure littéraire et de style de rue.
+Ses paroles sont pleines de métriques complexes, de rimes internes et de métaphores, et sont un mélange de structure littéraire et de style de rue.
 Par exemple, dans « Figaro », la chaîne de voyelles et le rythme des consonnes sonnent comme un instrument. C'était un rappeur qui manipulait les mots non pas comme des « significations » mais comme des « sons ».
 
 ---
@@ -83,7 +83,7 @@ Les caractéristiques acoustiques peuvent être résumées dans les trois points
 2. **Compression spatiale** : minimisez la réverbération et le traitement spatial pour rapprocher la distance entre les échantillons de zéro.
 3. **Distorsion de fréquence** : Crée un **son de type VHS** où les hautes fréquences sont supprimées en utilisant largement les effets SP-303.
 
-Il s'agit également d'une « **reconstitution de disque** » par Madlib. Considérant le bruit et les crépitements des vieux enregistrements comme des « composants » plutôt que des « matériaux », il a transformé le hip-hop en une archéologie du son.
+Il s'agit également d'une « **reconstitution de disque** » par Madlib. Considérant le bruit et les crépitements des vieux enregistrements comme des « éléments constitutifs » plutôt que des « matériaux », il a transformé le hip-hop en une archéologie du son.
 
 ---
 
@@ -104,7 +104,7 @@ Par exemple, le passage suivant :
 
 > "Le reste est vide, sans cerveau sauf le nerd intelligent"
 
-Les rimes internes de « vide », « cerveau » et « intelligent » s’enchaînent, transcendant le contexte et créant un sens en elles-mêmes.
+Les rimes internes de « vide », « cerveau » et « intelligent » sont enchaînées, transcendant le contexte et créant un sens en elles-mêmes.
 Son rap fonctionne comme un dispositif sonore plutôt que comme de la poésie.
 
 ### Tout en majuscules
@@ -166,7 +166,7 @@ Mais son absence a également favorisé « l’héritage des masques ».
 Désormais, **DOOM n'existe pas en tant que personne mais en tant que « méthode »**. Relier des fragments, cacher des noms et parler à travers des sons.
 
 [『Madvillainy』](https://amzn.to/3JhySfH)を再生するたびに、リスナーは“誰でもない誰か”になる。  
-C'est le plaisir de l'anonymat du 21ème siècle.
+C'est le plaisir de l'anonymat du 21e siècle.
 
 ---
 

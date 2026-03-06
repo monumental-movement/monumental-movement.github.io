@@ -10,13 +10,13 @@ tags:
 - House
 - Acid
 - 80s
-title: PCC – Travail acharné
+title: CCP – Hard Work
 ---
 
 
-CCP est un groupe composé de Chris Hilbert, David Palmer et Peter Chapman.
+CCPは、Chris Hilbert, David Palmer, Peter Chapmanからなるグループです。
 
-Le mix de la face A est médiocre, mais le remix C+C (mix de New York City) est très bon, très similaire à leur premier single "CCP - A Solution".
+A面のミックスは、平凡ですが、C+Cリミックス（ニューヨークシティミックス）は非常に優れており、彼らのファーストシングル「CCP - A Solution」に非常に似ています。
 
 #### Liste des chansons
 ```md

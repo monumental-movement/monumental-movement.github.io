@@ -13,7 +13,7 @@ title: Def Con 6 – Bum Rush The Sound
 ---
 
 
-Def Con 6은 Brandon Smith와 John Sexton에 의한 유닛.
+Def Con 6은 Brandon Smith와 John Sexton의 유닛입니다.
 
 Bum Rush The Sound는 1998년 Tweak! Records에서 출시된 Def Con 6의 애시드 브레이크 비트 브레이크 트랙.
 

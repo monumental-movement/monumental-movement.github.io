@@ -14,7 +14,7 @@ title: Guter Groove mit Soul – Funkin' You4
 ---
 
 
-Good Groove (Klaus Löschner) ist ein Techno-DJ/Produzent aus München, Deutschland. Er startete seine Karriere 1985 und organisierte zusammen mit Sven Väth, Westbam und Dr. Motte die erste Münchner Techno-Party im damals angesagten Babalu Club.
+Good Groove (Klaus Löschner) ist ein Techno-DJ/Produzent aus München, Deutschland. Er startete seine Karriere 1985 und organisierte mit Sven Väth, Westbam und Dr. Motte die erste Münchner Techno-Party in München im damals angesagten Babalu Club.
 
 A2 ist ein Remix des britischen Elektronikmusikers/DJ/Produzenten Luke Slater.
 

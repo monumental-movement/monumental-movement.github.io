@@ -171,7 +171,7 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-## 7. Extensions since 2010s: Clipping. / Milo / Open Mike Eagle
+## 7. Expansion since 2010s: Clipping. / Milo / Open Mike Eagle
 
 ### ● Clipping. (2010~)
 

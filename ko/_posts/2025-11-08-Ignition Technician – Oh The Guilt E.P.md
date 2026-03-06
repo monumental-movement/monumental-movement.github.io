@@ -13,7 +13,7 @@ title: Ignition Technician – Oh The Guilt E.P.
 ---
 
 
-Ignition Technician은 1999년에 시작된 UK 리즈 출신의 Pete Simpson과 Richard Wilkinson의 Techno 프로덕션 팀.
+Ignition Technician은 1999년에 시작된 UK 리즈 출신의 Pete Simpson과 Richard Wilkinson에 의한 Techno 프로덕션 팀.
 
 초기에 Carl Cox에서 발견되어 Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel, Colin Murry 등의 DJ들도 Ignition Technician의 레코드를 플레이하게 되었다.
 

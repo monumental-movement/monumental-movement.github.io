@@ -173,7 +173,7 @@ B1. When I Rock (Santos Remix)
 
 
 
-### Schlechte Zuhälter – Geben Sie es
+### Böse Zuhälter – Geben Sie es
 <a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp"></a>
 
 

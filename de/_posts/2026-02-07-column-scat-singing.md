@@ -128,7 +128,7 @@ Auf den Aufnahmen von Chet Baker ist die Verzerrung fast ein Flüstern. Es gibt 
 
 In den 1960er Jahren dienten Studios als Labore für Free-Jazz-Aufnahmen. Sänger werden von Melodien und Akkordfolgen befreit und erforschen selbst die Möglichkeiten ihrer Stimme.
 
-Ein improvisierter Take hat keine traditionelle Refrainstruktur. Der Anfang beginnt mit fast lautlosen Atemzügen, nach und nach mischen sich friktive Laute wie „ha“ und „uh“ ein. Es gibt kein festes Tempo, und die Stimmen erklingen zeitweise als Reaktion auf das Flattern des Saxophons oder das Hämmern des Schlagzeugs.
+Ein improvisierter Take hat keine traditionelle Refrainstruktur. Der Anfang beginnt mit fast lautlosen Atemzügen, nach und nach mischen sich friktive Laute wie „ha“ und „uh“ hinein. Es gibt kein festgelegtes Tempo und die Stimmen erklingen zeitweise als Reaktion auf das Flattern des Saxophons oder das Hämmern des Schlagzeugs.
 
 Scat ist hier keine Abfolge von Silben, sondern eine Abfolge von Stimmhandlungen selbst. Die Tonhöhe ist undefiniert, die Vokale sind verzerrt und der Atem dringt in das Innere der Phrase ein. Durch die Aufnahme entsteht die Stimme als drittes Wesen, das weder ein Melodieinstrument noch ein Schlaginstrument ist.
 

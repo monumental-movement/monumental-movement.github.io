@@ -55,7 +55,7 @@ Après la dissolution du disco, un son garage soul enraciné dans la culture noi
 
 ### Fin des années 1980 : création de la NY House
 - **Arrière-plan**
-Influencée par la house de Chicago, New York a développé un style plus soul et sophistiqué. La culture du club se développe.
+Influencée par la house de Chicago, New York a développé un style plus soul et sophistiqué. La culture du club s'est développée.
 - **Œuvres représentatives**
 -Todd Terry – *Bango* (1988)
 - Blaze – *Si vous avez besoin d'un ami* (1988)

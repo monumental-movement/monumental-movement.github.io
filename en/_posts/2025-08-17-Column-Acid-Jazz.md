@@ -132,7 +132,7 @@ In Japan, United Future Organization (UFO) in particular received worldwide accl
 
 #### Western Europe
 
-- **France/Germany**: In France, it was incorporated into "Nouvelle Scène Jazz" and club culture in Paris, and in Germany, it was incorporated into the experimental spirit of jazz/clubs centered on West Berlin around the time of reunification (1990).
+- **France/Germany**: In France, it was incorporated into "Nouvelle Scène Jazz" and club culture in Paris, and in Germany, it was incorporated into the experimental spirit of jazz/clubs centered in West Berlin around the time of reunification (1990).
 
 - **Italy/Spain**: Linked with tourism, Acid Jazz is established in resort culture and club scene. Particularly in Ibiza, it was mixed with house and Balearic.
 

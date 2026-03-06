@@ -16,7 +16,7 @@ title: '[Chronique] Illusions tropicales — le monde des psychédéliques brés
 
 ## Prologue : L'aube des psychédéliques brésiliens
 
-Texte : mmr | Thème : Retracer la généalogie de la musique psychédélique née au Brésil, du mouvement Tropicália au renouveau moderne
+Texte : mmr | Thème : Retracer la généalogie de la musique psychédélique née au Brésil, du mouvement Tropicália au revival moderne
 
 À la fin des années 1960, tensions politiques et expérimentations culturelles cohabitent étrangement à Rio de Janeiro et à São Paulo. Alors que la parole était de plus en plus contrôlée sous le régime militaire, les jeunes s'inspiraient du rock britannique et américain et recherchaient une nouvelle liberté sonore. À l’avant-garde de ce mouvement se trouvait le mouvement Tropicália.
 
@@ -63,7 +63,7 @@ Os Mutantes était particulièrement innovant. La guitare fuzz de **Sergio Diaz*
 À l'époque, le studio d'enregistrement **Phonogram Studios (Rio)** ne pouvait pas se procurer d'équipement multipiste de fabrication occidentale, ils ont donc adopté la méthode artisanale consistant à superposer des enregistreurs deux pistes.
 Cette restriction est à l'origine de l'image sonore unique "saignée". En particulier, l'ingénieur **Arnaldo Baptista** d'Os Mutuntes a construit son propre circuit de fuzz et a subtilement fait fluctuer la hauteur, recréant la sensation de flottement hallucinatoire unique à l'Amérique du Sud.
 
-Une autre innovation importante était la fusion d'instruments ethniques et de sons électroniques. Combinant des sons indigènes comme le cavaquinho et le bell imbau avec des synthés Moog et de la bande inversée, la musique brésilienne s'est étendue aux « tropiques psychédéliques ».
+Une autre innovation importante était la fusion d'instruments ethniques et de sons électroniques. Combinant des sons indigènes comme le cavaquinho et le bell imbau avec des synthés Moog et des bandes inversées, la musique brésilienne s'est étendue aux « tropiques psychédéliques ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6ZQcOZ4FJg?si=l5wWpYMS3fpaeGiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -48,7 +48,7 @@ color: #fff;
 
 ## Kapitel 1: Der erste Kontaktpunkt zwischen Musikern und Ayahuasca
 
-In der zweiten Hälfte des 20. Jahrhunderts wurde die südamerikanische Ritualkultur durch Ethnologie und Literatur in die westliche Gesellschaft eingeführt. Zunächst wurde Ayahuasca nicht als Mittel zur Musikproduktion verstanden, sondern als eine Erfahrung, die die eigene Wahrnehmung der Welt herausforderte.
+In der zweiten Hälfte des 20. Jahrhunderts wurde die südamerikanische Ritualkultur durch Ethnologie und Literatur in die westliche Gesellschaft eingeführt. Ursprünglich wurde Ayahuasca nicht als Mittel zur Musikproduktion verstanden, sondern als eine Erfahrung, die die eigene Wahrnehmung der Welt herausforderte.
 Erst in den 1990er Jahren begannen Musiker, ihre Erfahrungen öffentlich zu teilen. Durch die Schaffung eines Kontextes, in dem elektronische Musik und experimentelle Musik mit Spiritualität und Körperlichkeit verbunden werden, wurde ein Ort des Geschichtenerzählens geschaffen.
 
 > Ayahuasca war eher eine Frage der Wahrnehmung als der Technik mit Musik verbunden.

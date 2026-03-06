@@ -13,7 +13,7 @@ title: Synthesys – Your Fantasy
 ---
 
 
-"Your Fantasy"는
+「Your Fantasy」는,
 1994년에 이탈리아의 라벨 「In Out」에서 발매된 Synthesys의 EP입니다.
 
 

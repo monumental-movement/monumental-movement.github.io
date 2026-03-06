@@ -82,7 +82,7 @@ Es kommt der Moment, in dem eine Reihe von Geräuschen das Bewusstsein erweitert
 ## Das Schlachtfeld des Studios
 
 Die Produktionsumgebung von Ben Frost ähnelt eher einem Schlachtfeld als nur einem Aufnahmestudio.
-Eine Fülle modularer Synthesizer, modifizierter Mikrofone und übertriebener Kompressoren.
+Eine Menge modularer Synthesizer, modifizierte Mikrofone und übertriebene Kompressoren.
 Anstatt den Ton „aufzunehmen“, **erfassen Sie ihn, als würden Sie ihn schlagen**.
 
 Er lehnt den Zufall nicht ab, sagt aber gleichzeitig: „Jede Frequenz hat einen Grund für ihre Existenz.“
@@ -115,7 +115,7 @@ Es weckt die „Erinnerung an die Stille“, die der Mensch in der Zivilisation 
 
 ## Lichtexplosion: A U R O R A und die Kritikalität des Klangs
 
-**A U R O R A**, das 2014 veröffentlicht wurde, war ein Wendepunkt in Ben Frosts Karriere.
+**A U R O R A** wurde 2014 veröffentlicht und war ein Wendepunkt in Ben Frosts Karriere.
 Mit diesem Werk verabschiedete er sich von seinem bisherigen Ansatz „akustischer + elektronischer Klang“,
 **Ich habe eine Welt fast ausschließlich aus elektronischen Klangpartikeln aufgebaut**.
 
@@ -145,7 +145,7 @@ Verwandeln Sie die Bühne in einen rituellen Raum aus Licht und Lärm.
 Extremer Schalldruck, niederfrequente Wellen, weißes Licht.
 Sie betäuben die Sinne des Publikums und machen es zu einem **heiligen Erlebnis**.
 
-Der Aufbau gleicht einem Laibach, einem Schwäne oder sogar einer religiösen Zeremonie.
+Der Aufbau gleicht einem Laibach, einem Schwäne oder gar einer religiösen Zeremonie.
 „Die Ruhe, die jenseits des Übermaßes liegt“——
 Frost findet darin eine Art **Erleichterung**.
 

@@ -20,7 +20,7 @@ title: '[Chronique] Tango - Des marges de la société à la culture mondiale, s
 
 ## Prologue Le tango était la société avant d'être la « musique »
 
-Texte : mmr｜Thème : Retracer le sens social du tango, depuis sa naissance en marge de la société, jusqu'à son oubli, jusqu'à sa renaissance en tant que culture mondiale
+Texte : mmr｜Thème : Retracer le sens social du tango, depuis sa naissance en marge de la société jusqu'à son oubli et sa renaissance en tant que culture mondiale.
 
 Le tango n’est pas né comme un art dès le début.
 C'est le résultat de la traduction sonore des distorsions et des tensions de la structure sociale de la ville portuaire argentine de Buenos Aires.
@@ -54,7 +54,7 @@ color: #fff;
 ## Contexte social de la naissance du tango
 
 
-À la fin du XIXe siècle, l’Argentine connaissait une croissance économique rapide et en même temps de graves divisions sociales.
+L'Argentine de la fin du XIXe siècle a connu une croissance économique rapide et en même temps de graves divisions sociales.
 Le pays a prospéré grâce aux exportations agricoles, mais seule une petite partie de la classe des propriétaires fonciers en a bénéficié.
 
 Alors qu’un grand nombre d’hommes immigrés affluaient vers les villes à la recherche de travail, le rapport hommes-femmes s’est effondré.

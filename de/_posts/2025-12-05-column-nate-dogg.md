@@ -56,7 +56,7 @@ Alle drei hatten Erfahrung als Sänger in der Kirche, und insbesondere Nate Dogg
 Diese Grundlage des Gospelgesangs hatte entscheidenden Einfluss auf seinen späteren Stil.
 Obwohl ihre Stimme linear und wenig Vibrato war, hatte sie eine tiefe Resonanz und ein Rhythmusgefühl, das von Natur aus in ihrem Körper verwurzelt war.
 
-### Beitritt zum Marine Corps
+### Beitritt zu den Marines
 
 Nach seinem High-School-Abschluss meldete sich Nate Dogg zum US Marine Corps und wurde nach etwa drei Jahren Dienst entlassen.
 Diese Erfahrung veränderte seine Lebensumstände, aber es war auch eine Zeit, die ihn im Wesentlichen dazu zwang, nach Long Beach und zur Musik zurückzukehren.
@@ -77,7 +77,7 @@ Dieser Stil sollte später zum Kern der Gastspielkultur werden.
 
 ## 3. Teilnahme und Durchbruch in Dr. Dres „The Chronic“
 
-Der entscheidende Wendepunkt in Nate Doggs Aufstieg zu nationalem Ruhm war **Dr. Dre's „The Chronic“** aus dem Jahr 1992.
+Der entscheidende Wendepunkt in Nate Doggs Aufstieg zu nationaler Berühmtheit war **Dr. Dre's „The Chronic“** aus dem Jahr 1992.
 Nachdem Warren G sein Talent mit Dre geteilt hatte, wirkte Nate Dogg an mehreren Songs des Albums mit.
 
 Seine Singstimme passt perfekt zu den schweren Bässen und Synthesizern von G-Funk und verleiht ihm einen anderen Charme als Rap.
@@ -108,7 +108,7 @@ Dieser Erfolg brachte Nate Dogg die Anerkennung als „bester Hakenmacher an der
 Die Singstimme von Nate Dogg ist auf den ersten Blick unverwechselbar, zerlegt man sie jedoch in ihre Elemente, lässt sie sich wie folgt zusammenfassen.
 
 ### ■ Dicke Stimme, abgeleitet von Gospelmusik
-Die Schwingung der Stimmbänder ist stark und die Resonanz ist tief.
+Die Stimmbänder vibrieren stark und der Klang ist tief.
 
 ### ■ Geradliniger Gesang mit wenig Vibrato
 Dadurch war es äußerst kompatibel mit den harten Beats des Hip-Hop.
@@ -128,7 +128,7 @@ Diese Eigenschaften machten Nate Doggs Stimme zu einem wesentlichen Bestandteil 
 
 ## 6. Solowerke und ihre Positionierung
 
-Nate Dogg ist für seine Gastauftritte hochgelobt, hat aber auch mehrere Soloalben veröffentlicht.
+Nate Dogg wird für seine Gastauftritte hochgelobt, hat aber auch mehrere Soloalben veröffentlicht.
 
 #### ■ „G-Funk Classics, Vol. 1 & 2“ (1998)
 
@@ -173,7 +173,7 @@ Obwohl es sich um einen süßen R&B-Sound handelt, ist es wichtig, dass Nate Dog
 
 ## 8. 213 „The Hard Way“: Die Frucht der Freundschaft
 
-213, bestehend aus Snoop, Warren und Nate, veröffentlichten 2004 ihr offizielles Studioalbum „The Hard Way“.
+213, das Trio aus Snoop, Warren und Nate, veröffentlichte 2004 ihr offizielles Studioalbum „The Hard Way“.
 Das Album erreichte Platz eins der Billboard-Charts und war der Höhepunkt der langen Freundschaft und Karriere der drei.
 
 ---

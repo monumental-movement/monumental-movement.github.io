@@ -74,7 +74,7 @@ The members are in their late teens to early 20s.
 **Dan Catsis (bass)**, **John Waddington (guitar)** were the main players.
 
 Unlike the London punks, they were conscious of being **political and artistic**.
-Their debut album ""**Y**'' (1979) was a heresy among heretics even at the time.
+Their debut album, ""**Y**'' (1979), was a heresy of a heresy even at the time.
 The disorder of free jazz, the deep space of dub, the destructive impulse of punk...
 These intersect as **socially critical poems and poetic cries**.
 
@@ -111,7 +111,7 @@ After that, each member takes a different path.
 - Mark Stewart: Collaborated with Adrian Sherwood as a solo artist and established **Industrial Dub**.
 - Gareth Sager and Bruce Smith: Formed **Rip Rig + Panic**.
 A young **Neneh Cherry** was also there.
-- Dan Catsis: He later became involved with Massive Attack and remained a cornerstone of Bristol music.
+- Dan Catsis: He remained at the foundation of Bristol music, later becoming involved with Massive Attack.
 
 This divergence gave rise to the diversity of the Bristol sound.
 Trip hop, dub, experimental music, political hip hop...

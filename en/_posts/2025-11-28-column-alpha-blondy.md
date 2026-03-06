@@ -222,7 +222,7 @@ graph LR
 
 ## 11. Conclusion
 
-Alpha Blondy's music went beyond entertainment and functioned as social media. Through his activities during the apartheid era, he showed that music can be a means of political and social resistance.
+Alpha Blondy's music went beyond entertainment and functioned as social media. Through his activities during the apartheid period, he showed that music can be a means of political and social resistance.
 Considering the message of each song and the local reactions, his music is a symbol of the universal values ​​of freedom and peace, and is an important teaching material for thinking about music and social justice even in modern times.
 
 ---

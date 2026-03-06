@@ -17,7 +17,7 @@ title: Dummy Run – Dummy Run
 
 Dummy Run (더미 런)은 Andrew Sharpley, Nick Birmingham에 의한 경험 일렉트로 Duo.
 
-1996년에 UK의 라벨 Hot Air에서 발표한 세풀 타이틀 앨범은, 드럼 베이스+레프트 필드인 Dummy Run 독자적인 스타일을 즐길 수 있는 한 장.
+1996년에 UK의 라벨 Hot Air에서 발표한 세풀 타이틀 앨범은, 드럼 베이스+레프트 필드인 Dummy Run 독자적인 스타일을 만끽할 수 있는 한 장.
 
 #### Tracklist
 ```md

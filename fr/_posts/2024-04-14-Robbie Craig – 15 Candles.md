@@ -9,15 +9,15 @@ permalink: /fr/robbie-craig-15-candles/
 tags:
 - House
 - UK Garage
-title: Robbie Craig – 15 bougies
+title: Robbie Craig – 15 Candles
 ---
 
 
-"15 Candles / L.O.V.E. Feeling" est un morceau de garage britannique du chanteur d'East17 (2014-) Robbie Craig.
+「15 Candles / L.O.V.E. Feeling」は、East17のヴォーカル（2014年〜）Robbie Craig（ロビークレイグ）によるUKガラージトラック。
 
-Edition promotionnelle limitée à 700 exemplaires.
+700枚限定のプロモ盤。
 
-Side A est un remix de l'artiste garage britannique Laurence Bagnall et du membre des Stanton Warriors et producteur britannique de garage/house/bass music Mark Yardley.
+A面はUKガラージアーティストLaurence BagnallとStanton Warriorsのメンバーであり、UKガラージ・ハウス・ベースミュージックのプロデューサーMark Yardleyによるremix。
 
 #### Liste des chansons
 ```md

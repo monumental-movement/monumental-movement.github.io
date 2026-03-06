@@ -13,7 +13,7 @@ tags:
 - 80s
 - 90s
 - 00s
-title: アウトロー（Outlaw）作品をピックアップ
+title: 挑選Outlaw的作品
 ---
 
 
@@ -170,7 +170,7 @@ title: アウトロー（Outlaw）作品をピックアップ
 
 類型： Acid / Techno / Trance
 
-概要：1992年リリース、Tresor初期の名コンピ。「家族の響き」を音にした歴史的一枚。
+簡介： 1992 年發行，是 Tresor 早年的精彩合輯。這是體現「家庭迴響」的歷史作品。
 
 
 亡命之徒的感覺：關於城市社區即興創作和圍繞場景誕生的黑暗鬥爭的記憶。
@@ -259,7 +259,7 @@ B. Cosmic Minefield
 
 
 ### Skrillex – 可怕的怪物和漂亮的精靈
-<a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%200%20%E2%80%93%20Scary%20Monsters%200%200.
+<a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
 格式：CD
 

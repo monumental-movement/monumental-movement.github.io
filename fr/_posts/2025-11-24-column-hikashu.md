@@ -160,7 +160,7 @@ La tonalité instable du thérémine perturbe la structure du chant tout en lui 
 # 8. Aperçu des principaux membres
 
 - **Koichi Makigami** : Voix : Thérémine. le centre du groupe. Un large éventail d'activités allant de la musique d'avant-garde au théâtre en passant par la musique folklorique.
-- **Mita Chojin** : Guitare. Utilise un traitement acoustique et des techniques de jeu irrégulières.
+- **Mita Chojin** : Guitare. Habile en traitement acoustique et en techniques de jeu irrégulières.
 - **Akira Toyama** (participation temporaire) : Batterie. Introduire un sens du jazz/improvisation dans le groupe.
 - **Masami Sakaide** : Basse. Contribue à la complexité de la structure rythmique.
 - **Makoto Inoue** (initiale) : Clavier. Cela a déterminé le côté techno/new wave de Hikashu au début.

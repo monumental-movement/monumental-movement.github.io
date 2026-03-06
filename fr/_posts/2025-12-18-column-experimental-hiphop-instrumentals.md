@@ -20,7 +20,7 @@ title: '[Chronique] Instrumentaux Hip Hop Expérimentaux'
 
 Texte : mmr｜Thème : L'histoire de l'établissement de la musique instrumentale hip-hop expérimentale, le processus de production, les techniques d'échantillonnage, la structure sonore et les pratiques de production de Knxwledge et Madlib.
 
-Le hip-hop est essentiellement une culture dans laquelle l'expression verbale du MC et la structure répétitive du rythme se complètent. Cependant, depuis les années 1990, alors que les œuvres instrumentales sans rap commençaient à circuler de manière indépendante, les rythmes sont apparus au premier plan comme thème plutôt que comme accompagnement. En particulier dans les instruments expérimentaux, il n’est pas nécessaire d’avoir une structure de battement homogène ou une conception de développement pour le rap, et le temps, la texture et la fragmentation deviennent les principales cibles de conception.
+Le hip-hop est essentiellement une culture dans laquelle l'expression verbale du MC et la structure répétitive du rythme se complètent. Cependant, depuis les années 1990, alors que les œuvres instrumentales sans rap commençaient à circuler de manière indépendante, les rythmes sont apparus au premier plan comme thème plutôt que comme accompagnement. En particulier dans les instruments expérimentaux, il n’est pas nécessaire d’avoir une structure de rythme ou une conception de développement homogène pour le rap, et le temps, la texture et la fragmentation deviennent les principales cibles de conception.
 
 > "L'absence d'emballage n'est pas une omission, mais une expansion de la liberté de conception."
 
@@ -169,3 +169,10 @@ Experimental Hip Hop Instrumentals est une forme musicale qui valorise l'acte de
 
 ---
 
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dp25yxhOFf4?si=zqT3OPROYPeS4qrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

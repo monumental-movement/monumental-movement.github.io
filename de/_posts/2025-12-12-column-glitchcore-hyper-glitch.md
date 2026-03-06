@@ -21,7 +21,7 @@ title: '[Kolumne] Glitchcore / Hyper-Glitch Pop bricht weiter zusammen, die Zuku
 Text: mmr｜Thema: Entstehungsprozess von Glitchcore/Hyper-Glitch, akustische Techniken, kultureller Hintergrund, repräsentative Künstler, Entwicklung in den 2020er Jahren und Zukunftsaussichten
 
 Glitchcore und Hyper-Glitch sind ein seit Ende der 2010er Jahre auftretender Trend in der internetgenerierten Pop-/Elektronikmusik, bei dem „Korruption“, „Fragmentierung“ und „Überlastung“ im Mittelpunkt seiner Ästhetik stehen.
-Klickgeräusche, Rauschen, digitale Verzerrung, Tonhöhenverschiebungen, Vocaloid-ähnliche Verarbeitung, schnelle Songentwicklung, bizarre Temposchwankungen – das herausragendste Merkmal dieses Albums ist, dass es versucht, ein „Gleichgewicht zwischen Exzess und Verfall“ auszudrücken, indem es diese Elemente in einem äußerst poppigen Kontext verschmilzt.
+Klickgeräusche, Rauschen, digitale Verzerrung, Tonhöhenverschiebungen, Vocaloid-ähnliche Verarbeitung, schnelle Songentwicklung, seltsame Temposchwankungen – das herausragendste Merkmal dieses Albums ist, dass es versucht, ein „Gleichgewicht zwischen Exzess und Verfall“ auszudrücken, indem es diese Elemente in einem äußerst poppigen Kontext verschmilzt.
 
 Acts wie SOPHIE, A. G. Cook und 100 Gecs brachten diesen „Broken Pop“ auf ein internationales Niveau und bewiesen, dass viele Künstler mithilfe von DAWs und Sample-Packs „aus ihren eigenen Räumen heraus eine globale Musiksprache erschaffen“ konnten.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 Die Idee von Glitch selbst geht auf die Ästhetik der Electronica in den späten 1990er Jahren zurück (Oval, Alva Noto, Ryoji Ikeda usw.). Er behandelte CD-Lesefehler und digitale Signalstörungen als musikalisches Material und zitierte aktiv die „Ästhetik des Scheiterns“.
 
-Glitch-Musik aus dieser Zeit war experimenteller und legte den Schwerpunkt eher auf Textur, Raum und Struktur als auf Rhythmus. Andererseits unterscheidet sich der spätere Glitchcore entscheidend dadurch, dass er stark mit der populären Pop- und Internetkultur verbunden ist.
+Glitch-Musik aus dieser Zeit war experimenteller und legte den Schwerpunkt eher auf Textur, Raum und Struktur als auf Rhythmus. Andererseits unterschied sich der spätere Glitchcore definitiv dadurch, dass er stark mit der Pop- und Internetkultur verbunden war.
 
 ---
 
@@ -94,7 +94,7 @@ Typische Verarbeitung:
 * Hinzufügen eines Charaktergefühls durch Formantenmanipulation
 * Gemischte Verwendung von Vocaloid-Soundquellen
 
-Die Methode, „mehrere Stimmenebenen gleichzeitig abzuspielen“, wie etwa 100 Gecs, gilt als Symbol für Hyper-Glitch.
+Die Methode, „mehrere Stimmenebenen gleichzeitig abzuspielen“ wie 100 Gecs, gilt als Symbol für Hyper-Glitch.
 
 ---
 
@@ -147,7 +147,7 @@ Merkmale:
 
 ### 3-3　Dylan Brady Solo Works
 
-Dylan Bradys Solowerk war noch traplastiger und erweiterte die aggressivere Seite von Hyper-Glitch durch die Kombination von ultratiefen Bässen und extremem Clipping.
+Dylan Bradys Solowerk war noch traplastiger und erweiterte die aggressivere Seite von Hyper-Glitch durch die Kombination von extrem tiefen Bässen und extremem Clipping.
 
 ---
 
@@ -180,7 +180,7 @@ Beispielmethode:
 * Teilen Sie die Proben in Millisekunden
 * Zufällige Platzierung von Rauschfragmenten
 * Transienten absichtlich zerstören
-* Häufiger Einsatz von Reverse und Time Stretch
+* Häufige Verwendung von Reverse und Time Stretch
 
 ---
 
@@ -268,7 +268,7 @@ Ein weiteres wichtiges Merkmal ist, dass Ausdrücke im Anime-Stil, Vocaloid-Kult
 
 ### 7-3 SoundCloud-Persönlichkeit
 
-Osquinn und Glaive brachten Emo-Akkordfolgen, Gitarreneinschläge und luftigen Gesang in Glitchcore. Dies stellt eine introvertiertere, melodischere Richtung des „kantigen“ Charakters von Hyperpop dar.
+Osquinn und Glaive brachten Emo-Akkordfolgen, Gitarreneinschläge und leichten Gesang in Glitchcore. Dies stellt eine introvertiertere, melodischere Richtung des „kantigen“ Charakters von Hyperpop dar.
 
 ---
 
@@ -288,7 +288,7 @@ Die beschleunigte Version von auf TikTok populären Songs hat eine hohe Affinit�
 
 ---
 
-### 9-2 Ansatz zwischen KI-Gesang und Glitchcore
+### 9-2 Ansatz von KI-Gesang und Glitchcore
 
 Die Synthese von Gesangsstimmen und die Generierung von Charakterstimmen mithilfe von KI sind eine Erweiterung von Glitchcores „nichtmenschlicher Stimme“.
 Die Tonhöhenschwankungen und die Unnatürlichkeit von KI-Stimmen sind ästhetisch akzeptabel.
@@ -311,7 +311,7 @@ Diese stimmen vollständig mit Glitchcore-Techniken überein.
 
 ### 10-1 Weitere Beschleunigung der Fragmentierung
 
-Da Musik kürzer wird und eher in Fragmenten als in Alben verbreitet wird, geht man davon aus, dass sich Glitchcore-Ideen weiter verbreiten werden.
+Da Musik immer kürzer wird und eher in Fragmenten als in Alben verbreitet wird, geht man davon aus, dass sich Glitchcore-Ideen weiter verbreiten werden.
 
 ---
 

@@ -18,7 +18,7 @@ title: T99 – Anasthasia
 T99는 80년대 후반부터 90년대 전반에 활동한 벨기에의 듀오.
 T99는 당초 Patrick De Meyer의 솔로 프로젝트였지만 Patrick이 Olivier Abbeloos가 제작하고 있던 곡 'Anasthasia'를 듣고 Abbeloos에게 T99로 출시하도록 제안한 것으로 T99는 Patrick De Meyer와 Olivier Abbeloos의 디오가 되었다.
 
-「Anasthasia(아나스타샤)」는, 레이브 뮤직 & 댄스 뮤직을 릴리스 하는 UK의 인디펜덴트레이블 XL Recordings로부터 1991년에 릴리스된 테크노·브레이크비츠·하드 코어 트럭.
+「Anasthasia(아나스타샤)」는, 레이브 뮤직 & 댄스 뮤직을 릴리스 하는 UK의 인디펜덴트레이블 XL Recordings로부터 1991년에 릴리스된 테크노·브레이크 비트·하드 코어 트랙.
 
 AA면은, Nick Halkes와 Richard Russell에 의한 remix.
 

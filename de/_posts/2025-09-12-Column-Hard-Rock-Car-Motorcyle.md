@@ -66,7 +66,7 @@ Die globalen Hardrock-Bands **AC/DC** und **KISS** haben ihr Publikum fasziniert
 - AC/DC, am Beispiel von Songs wie „Highway to Hell“ und „Thunderstruck“, überlagerte Rockmusik mit Bildern von „Road“, „Thunder“ und „Speeding“, wodurch Musik direkt mit dem Fahrgefühl verknüpft wurde.
 - Beim Live-Auftritt von KISS hallte das Geräusch eines Harley-Motors mit den Flammen im Hintergrund wider und vermittelte dem Publikum ein Erlebnis, als wäre die Bühne selbst in ein amerikanisches Roadmovie verwandelt worden.
 
-Dies spiegelte die „Geschwindigkeitsverherrlichungskultur“ der 1970er Jahre in Amerika wider, und im Hardrock wurden Autos und Motorräder stark als symbolische Ikonen der Populärkultur akzeptiert.
+Dies spiegelte die amerikanische „Kultur der Geschwindigkeit“ der 1970er Jahre wider, und im Hardrock wurden Autos und Motorräder stark als symbolische Ikonen der Populärkultur akzeptiert.
 
 ---
 
@@ -134,7 +134,7 @@ Wenn das Dröhnen des Motors und das Gitarrenriff mitschwingen, erschüttert die
 
 | Songtitel | Künstler | Kommentar |
 |------|---------------|------|
-| Kickstart My Heart | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
+| Kickstart mein Herz | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
 | Verrückter Zug | Ozzy Osbourne | Ein rasantes Riff, das zum Fahren geeignet ist. |
 | Von einem Gebet leben | Bon Jovi | Singt über Jugend- und Roadmovie-Szenen. |
 | Pik-Ass | Motörhead | Lieder, die am engsten mit der Motorradkultur verbunden sind. |
@@ -155,9 +155,9 @@ Vor allem in den USA ist die Musikalität der Bands anspruchsvoller geworden und
 Andererseits haben sich in Europa und Japan Stile entwickelt, die Lyrik und Technik betonen, und Hardrock symbolisiert weiterhin den „Outlaw-Geist, der sich mit der Zeit verändert“.
 
 | Künstler | Album | Erscheinungsjahr | Funktionen |
-|--------------|----------|---------|------|
+|-------------|----------|---------|------|
 | Guns N‘ Roses | Benutze deine Illusion I & II | 1991 | Ein Meisterwerk, das Hardrock und Balladen vereint |
-| Metallica | Schwarzes Album | 1991 | Mit „Enter Sandman“ | durchbrechen sie die Grenzen zwischen Metal und Rock
+| Metallica | Schwarzes Album | 1991 | „Enter Sandman“ durchbricht die Grenze zwischen Metal und Rock |
 | Foo Fighters | Die Farbe und die Form | 1997 | Rockhymne der neuen Generation nach Grunge |
 | Audioslave | Audioslave | 2002 | Rage x Soundgarden Crossover |
 | Samtrevolver | Schmuggelware | 2004 | Rückkehr ehemaliger GNR-Mitglieder zum klassischen Rock nach den 90ern |
@@ -168,7 +168,7 @@ Andererseits haben sich in Europa und Japan Stile entwickelt, die Lyrik und Tech
 ## Repräsentative Albumliste
 
 | Künstler | Album | Erscheinungsjahr | Funktionen |
-|--------------|----------|---------|------|
+|-------------|----------|---------|------|
 | Led Zeppelin | Led Zeppelin IV | 1971 | Enthält „Stairway to Heaven“, Mythical Being |
 | AC/DC | Zurück in Schwarz | 1980 | Unsterbliche Hardrock-Hymne mit weltweiten Verkäufen |
 | Tiefviolett | Maschinenkopf | 1972 | „Smoke on the Water“ etabliert ein klassisches Riff |
@@ -200,7 +200,7 @@ Die Kultur von Harley-Davidson und amerikanischen Muscle-Cars hat die japanische
 |--------------|------|--------|------|
 | LAUTHEIT | Verrückte Nächte | 1985 | Ein monumentales Stück japanischer Hardrock, das sich in der ganzen Welt ausgebreitet hat |
 | X JAPAN | Rostiger Nagel | 1994 | Symphonischer und lyrischer Hardrock |
-| B'z | LIEBE PHANTOM | 1995 | Fusion aus Hardrock- und J-POP-Melodien |
+| B’z | LIEBE PHANTOM | 1995 | Fusion aus Hardrock- und J-POP-Melodien |
 | SEX-MASCHINENGEWEHRE | Deutsche Macht | 1998 | Japanischer HR-Vertreter der 90er Jahre mit Humor und Spannung |
 | Dir und grau | Unklar | 2003 | Düster und avantgardistisch, international gefeiert |
 

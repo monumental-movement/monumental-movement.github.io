@@ -9,12 +9,12 @@ permalink: /fr/illuminatae-xvx-vs-monotone-tremora-del-terra-the-remixes/
 tags:
 - Techno
 - Hard Trance
-title: Illuminatae – XVX contre Monotone Tremora Del Terra Les remixes
+title: Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes
 ---
 
 
-"XVX contre Monotone Tremora Del Terra Les remixes"
-Il s'agit d'un EP de l'unité Illuminatae de Doug Osborne et Gordon Matthewman, sorti en 1993 sur le label allemand "Mono Tone".
+「XVX vs. Monotone Tremora Del Terra The Remixes」は、
+1993年にドイツのレーベル「Mono Tone」からリリースされたDoug OsborneとGordon MatthewmanによるユニットIlluminataeのEPです。
 
 #### Liste des chansons
 ```md

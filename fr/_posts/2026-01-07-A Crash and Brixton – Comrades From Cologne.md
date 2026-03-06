@@ -17,7 +17,7 @@ title: A. Crash et Brixton – Camarades de Cologne
 
 Split single par A. Crash (Andreas Kremer) et Brixton (Norbert Georg Brixton Wieschollek) d'Allemagne.
 
-"Comrades From Cologne" est un morceau Techno/Minimal/Acid sorti en 1997 par Electric Music Foundation, un label de Minneapolis axé sur les synthétiseurs analogiques/modulaires et les boîtes à rythmes 808/909, lancé en tant que division d'Analog Records par Freddy Fresh et Auto Kinetic fin 1993.
+"Comrades From Cologne" est un morceau Techno/Minimal/Acid sorti en 1997 par Electric Music Foundation, un label de Minneapolis axé sur les synthétiseurs analogiques/modulaires et les boîtes à rythmes 808/909, lancé en tant que division d'Analog Records par Freddy Fresh et Auto Kinetic à la fin de 1993.
 
 #### Liste des chansons
 ```md

@@ -9,13 +9,13 @@ permalink: /fr/various-keepintime-12-series-no1-of-3/
 tags:
 - Break Beat
 - Jazz
-title: Divers – Keepintime 12 Série No1 De 3
+title: Various – Keepintime 12 Series No1 Of 3
 ---
 
 
-Il s'agit d'une série de 12 pouces tirée du documentaire "Keepintime" qui comprend des sessions entre DJ Shadow et d'autres batteurs légendaires.
+DJ シャドウらとレジェンドのドラマーたちのセッションを収録したドキュメンタリー"Keepintime"の12インチ・シリーズです。
 
-B2 comprend également un enregistrement en direct de la session.
+そしてB2にはセッションのライヴ録音も収録されています。
 
 
 #### Liste des chansons

@@ -45,16 +45,16 @@ color: #fff;
 | **位置** |作品與其創作的自然環境密不可分|透過現場錄音捕捉「當地聲音」的音樂 |
 | **轉瞬即逝** |因風雨日曬而倒塌的作品|消失的混響和持續聲音的淡出 |
 | **循環** |強調季節和自然現象的循環|透過無人機和重複結構來感知時間的循環 |
-| **沉默** |空間與間隔的重要性|約翰凱吉與環境作品中「沉默」的存在 |
+| **沈黙** | 空間や間合いの重要性 | ジョン・ケージやアンビエント作品における「無音」の存在 |
 
 ---
 
-### 高茲沃西的代表作品/項目
+### Goldsworthyの代表的な作品・プロジェクト
 
 - **雪球系列**：在城市中立起一個巨大的雪球，並展示它隨著時間的推移而融化。
 - **冰柱星**：一塊製成星形的冰，在日出時融化。
 - **石河（1997）**：美國史丹佛大學安裝的蜿蜒石牆。
-- **花楸葉與洞**：紅葉排列成圓圈並漂浮在水面上的作品。
+- **Rowan Leaves and Hole**: 赤い葉を円形に配置し、水面に浮かべる作品。
 - **風暴王牆（1997-98）**：紐約風暴王藝術中心的一道長蛇形石牆。
 
 ---
@@ -132,6 +132,14 @@ color: #fff;
 ### 結論
 
 安迪·高茲沃西 (Andy Goldsworthy) 的作品具有「一次性」的品質，會隨著時間和自然而變化和消失。他的美學與環境、現場錄音和簡約音樂的「氛圍」、「重複」和「沉默」產生強烈共鳴。透過兩者的結合體驗，一場跨越視覺和聽覺的「與自然的對話」就誕生了。
+
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tb-uIGywwqc?si=Ag_bqU4OVg_fE593" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

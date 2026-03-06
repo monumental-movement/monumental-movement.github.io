@@ -46,7 +46,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 <hr>
 
-### Was ist Parapara? ──Vergnügen an gleichförmiger Wiederholung
+### Was ist Parapara? ──Die Freude an der einheitlichen Wiederholung
 ● Herkunft von Parapara
 
 - Trat Ende der 1980er Jahre in Diskotheken in Roppongi und Shibuya, Tokio auf (Maharaja, Juliana Tokyo usw.)
@@ -65,7 +65,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - Klare Melodie-/Refrain-Struktur → Einfache Erstellung von Tanz-Choreografien
 
-- Dramatische Songentwicklung → Passend zum Höhepunkt des Swings
+- Dramatische Songentwicklung → Passt zur Spannung des Swings
 
 
 <hr>
@@ -80,7 +80,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - Erläuterungen zur Choreographie werden auf Jacken und Broschüren veröffentlicht.
 
-● Signiert mit einem exklusiven Eurobeat-Label
+● Signiert mit einem speziellen Eurobeat-Label
 
 Italienische Labels wie Time, A-Beat C und Delta haben Exklusivverträge mit avex unterzeichnet, um Musik speziell für den japanischen Markt zu produzieren.
 

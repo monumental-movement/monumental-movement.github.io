@@ -10,19 +10,19 @@ tags:
 - House
 - Remix
 - 90s
-title: Joi Cardwell - Vous devez prier
+title: Joi Cardwell – You Got To Pray
 ---
 
 
-Joi Cardwell (Joi Bernadette Cardwell) est une chanteuse, compositrice, productrice et artiste américaine née en 1967 à New York, New York, États-Unis.
+Joi Cardwell（ジョイ・バーナデット・カードウェル）は、アメリカの歌手、ソングライター、プロデューサー、アーティストで、1967年にアメリカ合衆国ニューヨーク州ニューヨーク市に生まれました。
 
-Elle a participé à divers concours de chant dès son plus jeune âge et est devenue célèbre au début des années 1990 en tant que chanteuse invitée de Lil Lewis avec les singles de danse numéro un "Club Lonely" et "Saved My Life" avant de se lancer dans une carrière solo et de sortir plusieurs albums.
+幼い頃から様々な歌唱コンテストに出場し、1990年代初頭にはリル・ルイスのゲストボーカリストとして、ナンバーワンダンスシングル「Club Lonely」と「Saved My Life」で名声を得た後に、ソロキャリアをスタートさせ、数枚のアルバムをリリースしています。
 
-Sa musique est un mélange de genres house, soul et R&B, et elle est connue pour sa voix puissante et soul.
+彼女の音楽は、ハウス、ソウル、R&Bなどのジャンルを融合させたもので、そのパワフルでソウルフルな歌声で知られています。
 
-En 2017, elle ouvre son propre centre de bien-être, Jump for Joi Wellness Center.
+2017年には、自身のウェルネスセンター「Jump for Joi Wellness Center」をオープンしました。
 
-Actuellement, il participe activement à des activités de musique et de bien-être.
+現在も精力的に音楽活動とウェルネス活動に取り組んでいます。
 
 #### Liste des chansons
 ```md

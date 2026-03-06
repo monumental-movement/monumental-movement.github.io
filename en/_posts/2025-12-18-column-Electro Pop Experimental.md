@@ -74,7 +74,7 @@ These will later serve as a basis for enhanced experimentation.
 * Sound image design that does not hide artificiality
 * Simultaneous visual expression and music production
 
-This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only activity.''
+This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only act.''
 
 ---
 
@@ -197,7 +197,7 @@ However, rather than simply merging these elements, it is distinctive in that it
 By including the production process and visual information, listeners simultaneously experience the following:
 
 * Listening to music
-* Imagining the production process
+*Imagination of the production process
 * Observation of creator personality
 * Visual narrative interpretation
 

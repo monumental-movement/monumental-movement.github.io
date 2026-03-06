@@ -20,7 +20,7 @@ title: 拾取噪音音樂作品
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 - **背景**：Merzbow 是日本噪音中最重要的人物。這張專輯於 2004 年在重要唱片公司發行，是鳥類主題歌曲排列時期的專輯之一。
-- **亮點**：高密度頻段改變的「聲音洪流」。決定性的一擊，讓您體驗噪音的「雕塑本質」。
+- **亮點**：高密度頻段發生變化的「聲音洪流」。決定性的一擊，讓您體驗噪音的「雕塑本質」。
 
 #### 曲目表
 ```md

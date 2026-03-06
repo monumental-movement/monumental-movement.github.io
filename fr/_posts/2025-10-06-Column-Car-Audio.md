@@ -64,7 +64,7 @@ color: #fff;
 
 ###Nissan/Infiniti
 
-- **Modèle représentatif** : Infiniti QX80 (système de haut-parleurs Bose 16)
+- **Modèle représentatif** : Infiniti QX80 (système d'enceintes Bose 16)
 - **Technologie** : analysez le placement des enceintes et les réflexions des matériaux et effectuez les réglages en collaboration avec BOSE pour optimiser l'acoustique de la voiture
 
 ---
@@ -256,7 +256,7 @@ color: #fff;
 ## Résumé : Du son du moteur à l'art sonore : une vision du futur des voitures et du son
 
 Les voitures étaient autrefois des « machines de transport ». Cependant, c'est désormais un « espace qui embrasse le son » et constitue une extension de la culture.
-L’Allemagne a imprégné le son d’ingénierie de précision, l’Angleterre de tradition et de formalité, l’Amérique de liberté et de puissance et le Japon d’harmonie délicate.
+L’Allemagne a imprégné le son d’ingénierie de précision, la Grande-Bretagne de tradition et de formalité, l’Amérique de liberté et de puissance et le Japon d’harmonie délicate.
 L'audio automobile dans chaque pays est également une cristallisation du sens esthétique et de la philosophie industrielle de cette société.
 
 La « scène silencieuse » de Rolls-Royce est le summum du silence.

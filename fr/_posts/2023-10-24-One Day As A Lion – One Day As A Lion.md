@@ -16,7 +16,7 @@ title: Un jour en tant que lion – Un jour en tant que lion
 
 One Day As A Lion est une collaboration entre le chanteur de Rage Against the Machine, Zack de la Rocha, et l'ancien batteur de The Mars Volta et actuel batteur de Queens of the Stone Age, Jon. Un supergroupe de duo puissant formé en 2008 par Theodore (John Theodore).
 
-One Day As A Lion se caractérise par un style qui mélange rock alternatif et rap.
+One Day As A Lion se caractérise par un style mêlant rock alternatif et rap.
 
 #### Liste des chansons
 ```md

@@ -11,11 +11,11 @@ tags:
 - Leftfield
 - IDM
 - Experimental
-title: Radiohead - Enfant A
+title: Radiohead - Kid A
 ---
 
 
-Le quatrième album studio du groupe de rock britannique Radiohead, sorti en 2000. Le producteur est Nigel Godrich.
+UKのロックバンドRadiohead の2000年にリリースした4枚目のスタジオアルバム。プロデューサーはNigel Godrich(ナイジェル・ゴッドリッチ)。
 
 #### Liste des chansons
 ```md

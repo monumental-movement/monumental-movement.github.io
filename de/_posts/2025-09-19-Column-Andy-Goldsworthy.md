@@ -53,7 +53,7 @@ color: #fff;
 ### Goldsworthys repräsentative Werke/Projekte
 
 - **Schneeballserie**: Ein riesiger Schneeball wird in einer Stadt aufgestellt und zeigt, wie er mit der Zeit schmilzt.
-- **Eiszapfenstern**: Ein sternförmiges Stück Eis, das bei Sonnenaufgang schmilzt.
+- **Eiszapfenstern**: Ein Stück Eis, das sich zu einem Stern zusammenfügt und bei Sonnenaufgang schmilzt.
 - **Stone River (1997)**: Eine gewundene Steinmauer, die an der Stanford University in den Vereinigten Staaten errichtet wurde.
 - **Rowan Leaves and Hole**: Ein Werk, bei dem rote Blätter kreisförmig angeordnet sind und auf der Wasseroberfläche schwimmen.
 - **Storm King Wall (1997–98)**: Eine lange schlangenförmige Steinmauer im Storm King Art Center in New York.
@@ -100,7 +100,7 @@ color: #fff;
 #### Morgen
 
 - Brian Eno ― *Ambient 1: Musik für Flughäfen*
-- Chris Watson ― *Morning at the River*
+- Chris Watson – *Morning at the River*
 - Steve Reich ― *Musik für 18 Musiker*
 
 #### Mittag
@@ -133,6 +133,14 @@ color: #fff;
 ### Abschluss
 
 Andy Goldsworthys Werke haben eine „einmalige“ Qualität, die sich mit der Zeit und der Natur verändert und verschwindet. Seine Ästhetik spiegelt stark das „Ambiente“, die „Wiederholung“ und die „Stille“ von Ambient-, Field-Recording- und Minimal-Musik wider. Durch das Erleben beider in Kombination entsteht ein „Dialog mit der Natur“, der die visuellen und auditiven Sinne kreuzt.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tb-uIGywwqc?si=Ag_bqU4OVg_fE593" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

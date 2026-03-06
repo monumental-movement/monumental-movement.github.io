@@ -13,7 +13,7 @@ title: Black – More Than The Sun
 ---
 
 
-Black은 UK의 싱가송 작가 ColinVearncombe(콜린 밴콤)의 일명이며, 자신의 밴드명.
+Black은 UK의 싱가송 라이터 ColinVearncombe(콜린 밴콤)의 일명이며, 자신의 밴드명.
 
 #### Tracklist
 ```md

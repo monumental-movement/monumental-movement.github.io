@@ -90,7 +90,7 @@ Das bedeutet, dass Euromusic eine Musikkultur ist, die Sinnesfreuden über polit
 
 <hr>
 
-### Mainstream-Erfolgsgeschichten (1990-1999)
+### Mainstream-Erfolgsgeschichten (1990–1999)
 
 ● [2 Unlimited – “Get Ready For This” (1991)](https://amzn.to/4mXEgCl)
 
@@ -164,7 +164,7 @@ Produziert in Italien und Deutschland, geplant in Japan, inländische CD (z. B. 
 
 <hr>
 
-### Warum haben die Kritiker es ignoriert? ──„Leichtigkeit“ und „Anti-Kunst“
+### Warum haben die Kritiker es ignoriert? ─ „Leichtigkeit“ und „Anti-Kunst“
 
 Euro-Musik kam bei Kritikern lange Zeit nicht gut an. Der Grund ist wie folgt:
 
@@ -172,7 +172,7 @@ Euro-Musik kam bei Kritikern lange Zeit nicht gut an. Der Grund ist wie folgt:
 
 - Massenproduktion/Anonymität (die Präsenz bestimmter Künstler ist schwach)
 
-- Kommerzieller Erfolg = Missachtung der Kunstfertigkeit
+- Kommerzieller Erfolg = Missachtung der Kunst
 
 Andererseits beweist es aber auch, dass Musik jeden erreichen kann.
 
@@ -189,7 +189,7 @@ In den letzten Jahren wurde Euromusic auf folgende Weise neu bewertet:
 
 - Eurobeat aus Japan wurde wie City Pop von der Internet-Generation wiederentdeckt.
 
-Darüber hinaus erreicht 90's Euro mit verstärkter Wiedergabe auf Spotify und YouTube ein neues Publikum.
+Darüber hinaus erreicht 90's Euro durch die verstärkte Wiedergabe auf Spotify und YouTube ein neues Publikum.
 
 
 

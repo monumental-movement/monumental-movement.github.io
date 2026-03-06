@@ -9,15 +9,15 @@ permalink: /fr/aquasky-tranquility-kauna/
 tags:
 - Drum n Bass
 - Acid
-title: Aquasky – Tranquillité Kauna
+title: Aquasky – Tranquility Kauna
 ---
 
 
-Il s'agit d'un EP d'Aquasky sorti en 1996 sur le label britannique "Moving Shadow".
+1996年にUKのレーベル「Moving Shadow」からリリースされたAquaskyによるEPです。
 
-Aquasky a travaillé avec des alias 4/4 Black Noise, tels que Southern Fried et Wearhouse Music, mais cette fois, ils reviennent à leurs racines avec un morceau qui les ramène à leurs années Acid House.
+AquaskyはSouthern FriedやWearhouse Musicといった4/4エイリアスのBlack Noiseに取り組んできましたが、今度は彼らのルーツに戻り、Acid Houseの時代に戻ったトラックです。
 
-Un EP incontournable de cette époque, de ce trio dont la carrière s'est déroulée entre acid, jungle, drum and bass, breakbeat, et englobe désormais toutes les formes de bass music.
+Acid、ジャングル、ドラムアンドベース、ブレイクビートを経て、現在ではあらゆるベースミュージックの形態を包括するキャリアを持つこのトリオによるこの時代のEPは必聴。
 
 #### Liste des chansons
 ```md

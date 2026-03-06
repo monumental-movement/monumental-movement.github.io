@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/kagami-guardians-hammer/
 tags:
 - Techno
-title: Kagami – Guardians Hammer
+title: 加賀美 – 守護者之鎚
 ---
 
 

@@ -9,14 +9,14 @@ permalink: /fr/divine-inspiration-the-way/
 tags:
 - Trance
 - 00s
-title: Inspiration divine – La voie
+title: Divine Inspiration – The Way
 ---
 
 
 
-Divine Inspiratio est un projet de transe de David Lewin, Lee Robinson, Paul Crawley et Sarah-Jane Scott basé à Fochabers, en Écosse.
+Divine Inspiratioは、スコットランドのFochabersを拠点とする　David Lewin、Lee Robinson、Paul Crawley、Sarah-Jane Scottによるトランス・プロジェクト。
 
-Ce disque est un remix Trance de "The Way" des producteurs belges de trance Svenson et Johan Gielen, sorti en 2002 sur le label britannique Heat Recordings. Tableau promotionnel.
+このレコードは、2002年にUKのレーベルHeat Recordingsからリリースされた、ベルギーのトランスプロデューサー Svenson と Johan Gielenによる「The Way」のTranceリミックス。プロモ盤。
 
 #### Liste des chansons
 ```md

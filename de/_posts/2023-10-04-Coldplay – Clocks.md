@@ -15,7 +15,7 @@ title: Coldplay – Uhren
 
 Dieser Titel erschien ursprünglich auf dem 2002 erschienenen Album A Rush of Blood to the Head. „Clocks“ wurde auch als Lead-Single des Albums veröffentlicht und war ein weltweiter Erfolg.
 
-„Clocks“ ist ein Lied mit Klavierriff und einzigartigem Rhythmus, einer meditativen Atmosphäre und einem großartigen Klang.
+„Clocks“ ist ein Lied, das sich durch ein Klavierriff und einen einzigartigen Rhythmus auszeichnet, mit einer meditativen Atmosphäre und einem großartigen Klang.
 
 #### Trackliste
 ```md

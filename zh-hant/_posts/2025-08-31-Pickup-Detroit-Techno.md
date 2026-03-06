@@ -47,7 +47,7 @@ B2. Fade
 
 
 ### 型號 500 – 深空
-<a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
+<a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deepges/Model%20500%20%E2%80%93%20Deep%">20.webp</a>Spacep</a>
 
 
 特色：《Milky Way》、《Orbit》和《The Flow》等歌曲的特點是漂浮的合成器作品，感覺就像穿越深空，以及空曠、硬朗的節奏。
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 特色： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡風格的歌曲。
 
-推薦重點： 可以體驗90年代初地下感覺的收藏家必備的一張唱片，聲音粗獷卻渾厚。
+推薦重點：可以體驗90年代初期地下感覺的收藏家必備的一張碟，粗獷卻又堅固的感覺。
 
 
 #### 曲目表

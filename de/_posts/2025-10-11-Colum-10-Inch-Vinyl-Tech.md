@@ -20,7 +20,7 @@ title: '[Kolumne] Ergänzung zur 10-Zoll-Schallplattentechnologie: Die Wahrheit 
 ## 10-Zoll-Designkonzept: Präzision im Medium Format
 
 
-Text: mmr｜Thema: Eintauchen in den technischen Hintergrund von 10-Zoll-Schallplatten, wie z. B. deren Struktur, Rotationsgeschwindigkeit und Mastering, und Überdenken der Einzigartigkeit des durch das Format erzeugten Klangs.
+Text: mmr | Thema: Eintauchen in den technischen Hintergrund von 10-Zoll-Schallplatten, wie z. B. deren Struktur, Rotationsgeschwindigkeit und Mastering, und Überdenken der Einzigartigkeit des durch das Format erzeugten Klangs.
 
 
 Die physische Struktur einer Schallplatte verkörpert die Philosophie des Musikformats in ihrer reinsten Form.
@@ -51,7 +51,7 @@ color: #fff;
 Einer der Faktoren, die die Klangqualität einer Schallplatte bestimmen, ist die Anzahl der Umdrehungen (U/min) und die lineare Geschwindigkeit.
 
 - **7 Zoll Single: 45 U/min**
-Der Klang ist an der Außenperipherie sehr kraftvoll und die hohen Frequenzen werden hervorragend wiedergegeben. Allerdings nimmt die Verzerrung am Innenumfang zu.
+Am äußeren Rand liegt viel Kraft im Klang und die Wiedergabe hoher Frequenzen ist hervorragend. Allerdings nimmt die Verzerrung am Innenumfang zu.
 
 - **12 Zoll LP: 33⅓U/min**
 Es eignet sich für die Langzeitwiedergabe und sorgt für eine stabile Klangqualität, allerdings sind die hohen Frequenzen etwas gedämpft.
@@ -95,7 +95,7 @@ Optimieren Sie Ihre digitalen oder analogen Quellen für Lack.
 Passen Sie Schalldruck, Stereobreite und Phase an.
 
 2. **Lackschneiden**
-Schnitzen Sie Rillen auf einer 10-Zoll-Lackplatte.
+Schnitzen Sie Rillen in eine 10-Zoll-Lackplatte.
 Rillenbreite und Tonhöhenkontrolle sind wichtig.
 „Innerhalb von 12 Minuten bei 33⅓ U/min“ ist eines der Designkriterien.
 

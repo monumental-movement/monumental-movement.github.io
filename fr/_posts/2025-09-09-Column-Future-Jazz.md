@@ -21,7 +21,7 @@ title: '[Chronique] Histoire du Future Jazz, disques célèbres et changements d
 
 Texte : mmr｜Thème : Un genre qui combine la nature improvisée du jazz et l'innovation de la musique électronique
 
-Le Future Jazz est apparu au début des années 1990 comme un genre combinant la nature improvisée du jazz avec l’innovation de la musique électronique. Il a évolué avec le développement de la culture club et d'une nouvelle génération de technologie musicale, et est étroitement lié à des tendances telles que **Acid Jazz, Nu-Jazz et Broken Beat**. Ci-dessous, nous suivrons les progrès du groupe au fil des années et expliquerons les changements dans les chefs-d'œuvre représentatifs et l'équipement utilisé.
+Le Future Jazz est apparu au début des années 1990 comme un genre combinant la nature improvisée du jazz avec l’innovation de la musique électronique. Il a évolué avec le développement de la culture club et d'une nouvelle génération de technologie musicale, et est étroitement lié à des tendances telles que **Acid Jazz, Nu-Jazz et Broken Beat**. Ci-dessous, nous suivrons les progrès du groupe par décennie et expliquerons les changements dans les chefs-d'œuvre représentatifs et l'équipement utilisé.
 
 ---
 
@@ -121,7 +121,7 @@ La scène Broken Beat de l'ouest de Londres fait évoluer Future Jazz. Une fusio
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Changement | Fusion d'électro et de jazz. |
 | 2 | 4héros | Les Fleurs | Orchestral et grandiose. |
-| 3 | Nicolas Conté | Bossa Per Due | Une fusion de bossa nova et de jazz du futur. |
+| 3 | Nicolas Conté | Bossa Per Due | Une fusion de Bossa Nova et de Future Jazz. |
 | 4 | Viktor Duplaix | Messages | Un son néo-soul. |
 | 5 | Jazzanova | AMOUR. et toi et moi | Une chanson qui représente le rythme brisé. |
 | 6 | Kyoto Jazz Massif | Esprit du Soleil | Œuvres importantes du Japon. |
@@ -132,7 +132,7 @@ La scène Broken Beat de l'ouest de Londres fait évoluer Future Jazz. Une fusio
 
 ---
 
-## Fin des années 2000 : Du club jazz à l’électro
+## Fin des années 2000 : Du club jazz à l'électro
 - **Arrière-plan**
 Le Nu-Jazz a fusionné avec l'électro et a renforcé le style d'écoute.
 
@@ -217,7 +217,7 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 | 3 | Clapiers Shabaka | Agitation | Spirituel et puissant. |
 | 4 | Nubya Garcia | Rythme | Le saxophone se démarque. |
 | 5 | Battements du laboratoire bleu | Ananas | Une fusion de hip-hop et de jazz. |
-| 6 | Kokoroko | Jonction Abusey | Melancholic and beautiful. |
+| 6 | Kokoroko | Jonction Abusey | Mélancolique et beau. |
 | 7 | Points flottants | LesAlpx | Électronique et jazz fusion. |
 | 8 | Tom Misch et Yussef Dayes | Quel genre de musique | Interprétations modernes de la pop et du jazz. |
 | 9 | Makaya McCraven | L'automne à New York | Une fusion d'improvisation et de montage. |
@@ -226,7 +226,7 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 ---
 
 # Un genre toujours à l'avant-garde de son temps
-Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par Broken Beat et Nu-Jazz, et s'étend maintenant vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
+Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par Broken Beat et Nu-Jazz, et s'étend aujourd'hui vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
 
 Comme il sied au nom de « jazz futuriste », c'est un genre toujours à l'avant-garde de son temps.
 

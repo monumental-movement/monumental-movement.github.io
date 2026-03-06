@@ -19,7 +19,7 @@ title: '[Chronique] Plastikman | Richie Hawtin - Les profondeurs du minimalisme 
 
 Texte : mmr｜Thème : Réflexions sur la façon dont Plastikman, qui a hérité de l'esprit de la deuxième génération de la techno de Détroit, a dépouillé le son jusqu'à l'extrême et l'a sublimé en un art qui permet d'entendre la « réverbération » du rythme lui-même.
 
-Richie Hawtin redéfinit la « techno » depuis le début des années 1990, non seulement comme une musique de danse, mais aussi comme un « appareil de méditation sonore ». Ses œuvres sous le nom de Plastikman, en particulier « _Sheet One_ » (1993) et « _Consumed_ » (1998), sont **une expérience de visualisation de l'espace interne du corps humain à l'aide du son électronique.** Le son, qui ressemble à un liquide froid, est également appelé « sculpture abstraite du son ».
+Richie Hawtin redéfinit la « techno » depuis le début des années 1990, non seulement comme une musique de danse, mais aussi comme un « appareil de méditation sonore ». Ses œuvres sous le nom de Plastikman, en particulier « _Sheet One_ » (1993) et « _Consumed_ » (1998), sont des **expériences de visualisation de l'espace interne du corps humain avec un son électronique**, et le son, qui ressemble à un liquide froid, est également appelé « sculpture abstraite du son ».
 
 
 
@@ -47,7 +47,7 @@ Hawtin a été influencé par **l'esprit qui réside dans les rythmes mécanique
 ---
 
 ## Chapitre 2 : La naissance de Plastikman – Vestiges d'acide et introspection techno
-En 1993, "_Sheet One_" est sorti. Le son traditionnel du TB-303 de l'acid house a été blanchi à l'extrême, créant un espace acoustique qui ressemble à des **battements cardiaques et signaux nerveux**. Au contraire, le silence qui dérive entre les sons peut être entendu comme le personnage principal.
+En 1993, "_Sheet One_" est sorti. Le son traditionnel de l'acid house TB-303 a été blanchi à l'extrême, créant un espace acoustique qui ressemble à des **battements cardiaques et signaux nerveux**. Au contraire, le silence qui dérive entre les sons peut être entendu comme le personnage principal.
 
 そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
@@ -89,9 +89,9 @@ Avec cette œuvre, Hawtin devient le premier artiste à assimiler « minimalisme
 
 ---
 
-## Chapitre 4 : La technologie et le corps - Reconstruire le concept LIVE
+## Chapitre 4 : La technologie et le corps - Reconstruire le concept LIVE
 Hawtin a également été un pionnier dans la fusion de la technologie et de la performance.
-Dans les années 2000, il **redéfinit le DJ play** avec la série DE9 et établit le « prototype de DJ numérique** », qui utilise Ableton Live et Traktor pour reconstruire les morceaux en temps réel.
+Dans les années 2000, il **redéfinit le jeu DJ** avec la série « DE9 », établissant le « **prototype de DJ numérique** » qui utilisait Ableton Live et Traktor pour reconstruire les pistes en temps réel.
 
 Sur sa scène, un environnement a été construit dans lequel MacBook, contrôleur MIDI, éclairage et vidéo étaient complètement synchronisés, présentant un nouveau concept de **``live = données respiratoires''**.
 
@@ -188,7 +188,7 @@ flowchart TD
 
 ## Analyse détaillée de la série DE9
 
-### 1. DE9 : Plus près de l'édition (2001)
+### 1. DE9 : Plus près de l'édition (2001)
 - **Concept** : Une œuvre innovante qui réédite la forme d'onde de la piste échantillon par échantillon pour lui donner un potentiel de performance live.
 - **Analyse de piste représentative** :
 - *Spastik* : Boucle ultra rapide de charleys continus. Dans le diagramme de forme d'onde, vous pouvez voir comment la densité d'impulsion change progressivement.
@@ -242,7 +242,7 @@ graph TD
 ---
 
 
-## Illustration : Structure du son Plastikman
+## Illustration : Structure sonore Plastikman
 
 <div class="mermaid">
 

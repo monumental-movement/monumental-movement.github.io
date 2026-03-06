@@ -14,7 +14,7 @@ title: '[Chronique] L''impact de la Drum & Bass : Une poétique urbaine tissée 
 ---
 
 
-## Beat hybride né en ville
+## Un rythme hybride né en ville
 
 Texte : mmr｜Thème : Réflexions sur le son Drum & Bass/Jungle/UK
 
@@ -30,7 +30,7 @@ Son évolution a été incroyable, avec de nombreuses branches allant de la jung
 
 **• 1990-1993 : Mouvement Jungle**
 
-Les racines de D&B se situent dans le genre jungle. Il s'agissait d'une musique rythmique chaotique, un mélange d'acid house, de rave, de hip-hop et de reggae, centrée sur un échantillonnage d'Amen Break.
+Les racines de D&B se situent dans le genre jungle. C'était une musique rythmée chaotique, un mélange d'acid house, de rave, de hip-hop et de reggae, et centrée autour d'un échantillonnage d'Amen Break.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -112,7 +112,7 @@ Un son sombre, industriel et inorganique. Les représentants incluent Ed Rush & 
 
 ** ● Neurofunk **
 
-Évolution de l'étape technologique. Des lignes de basse principalement nerveuses et déformées. Noisia, Phace, Mefjus, etc.
+Évolution de l'étape technologique. Des lignes de basse principalement nerveuses et distordues. Noisia, Phace, Mefjus, etc.
 
 ** ● Liquid Funk **
 
@@ -176,7 +176,7 @@ Actuellement, D&B règne comme la base de la bass music dans le monde. Les scèn
 
 ** ● Artistes contemporains en vedette **
 
-**Noisia (dissous)** : compétences de production au niveau de Dieu.
+**Noisia (dissous)** : technologie de production au niveau de Dieu.
 
 **Alix Perez** : Une alchimiste sonique qui peut tout faire, du dub au demi-pas.
 

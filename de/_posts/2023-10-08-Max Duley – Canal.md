@@ -13,7 +13,7 @@ title: Max Duley – Kanal
 ---
 
 
-„Canal“ ist ein Lied des britischen Technomusikers Max Duley. Dieses Lied ist auf seiner EP „Canal“ enthalten.
+„Canal“ ist ein Lied des britischen Techno-Musikers Max Duley. Dieses Lied ist auf seiner EP „Canal“ enthalten.
 
 Max Dury ist als Techno-Musikproduzent bekannt und erlangte Aufmerksamkeit für seinen einzigartigen Ansatz und Sound. „Canal“ ist einer seiner am meisten gefeierten Songs.
 

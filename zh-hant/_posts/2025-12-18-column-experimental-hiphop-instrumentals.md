@@ -153,7 +153,7 @@ flowchart LR
 
 ## 與其他流派的交叉
 
-實驗樂器透過節拍的存在被識別為嘻哈音樂，同時與環境、噪音和爵士即興創作相聯繫。
+實驗性樂器透過節拍的存在被識別為嘻哈音樂，同時與環境、噪音和爵士即興創作相聯繫。
 
 ---
 
@@ -169,3 +169,10 @@ flowchart LR
 
 ---
 
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dp25yxhOFf4?si=zqT3OPROYPeS4qrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

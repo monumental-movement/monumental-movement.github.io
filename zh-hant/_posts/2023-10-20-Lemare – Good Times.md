@@ -9,11 +9,11 @@ permalink: /zh-hant/lemare-good-times/
 tags:
 - UK Garage
 - Funk
-title: Lemare – Good Times
+title: 勒馬爾—美好時光
 ---
 
 
-「Good Times」は、
+「美好時光」是
 英國R&B藝術家LEMARE（勒馬爾·奧比卡）的《Good Times》於1998年發行。
 
 #### 曲目表

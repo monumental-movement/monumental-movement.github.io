@@ -15,14 +15,14 @@ title: '[Kolumne] DJ Harvey und Plattensammlung: DJ als Körper, der „Sound“
 ---
 
 
-## Prolog: Der Mythos von DJ Harvey
+## Prolog: Die mythische DJ-Harvey-Statue
 
 
 Text: mmr｜Thema: Nicht nur ein DJ, sondern eine Betrachtung des letzten „Schamane“ der analogen Ära
 
 
 DJ Harvey – Wenn man nur diesen Namen hört, werden die Gesichter vieler Clubfreaks schlaff.
-Als Mitbegründer des legendären Londoner Clubs „Tonka Sound System“ erlangte er in den 90er Jahren als Resident des „Ministry of Sound“ Berühmtheit, zog in den 2000er Jahren nach „Ibiza“ und lebt heute in „Los Angeles“.
+Als Mitbegründer des legendären Londoner Clubs **Tonka Sound System** erlangte er in den 90er Jahren als Resident bei **Ministry of Sound** Berühmtheit, zog in den 2000er Jahren nach **Ibiza** und lebt derzeit in **Los Angeles**.
 
 Harvey sagt. „Aufzeichnungen sind Fragmente meiner Seele. Wenn die Nadel fällt, wohnt Gott dort.“
 Diese Worte sagen uns alles über seine Sicht auf das DJing. Auch im 21. Jahrhundert, wo die Digitalisierung voranschreitet, glaubt er immer noch an „Musik als Substanz“. Dieser Glaube macht DJ Harvey zu einer Legende.
@@ -73,7 +73,7 @@ Seine DJ-Tasche ist wie ein Reisetagebuch. Jede Aufzeichnung enthält Erinnerung
 
 ## Kapitel 3: London – Ibiza – LA, eine bewegende Plattenkiste
 
-Harveys Aufzeichnungen waren schon immer in Bewegung.
+Harveys Platten waren schon immer in Bewegung.
 Von Underground-Clubs in London über das **Pikes Hotel** auf Ibiza bis hin zu Lagerhaus-Events in LA.
 Wenn sich Städte verändern, ändern sich auch die Geräusche. Je nach Stimmung stellt er das Set neu zusammen.
 

@@ -15,7 +15,7 @@ title: Chew-Fu Phat – Warum können wir uns nicht ändern?
 
 Chew Fu, auch bekannt als Chew-Fu Phat, ist ein in den Niederlanden geborener Produzent/Remixer/DJ mit Sitz in New York. Er hat auch offizielle Remixe für Popkünstler wie Lady Gaga, Rihanna, Timbaland, Far East Movement und Robin erstellt.
 
-Chew Fu zeichnet sich durch einen originellen Stil aus, der Elektro-House und Hip-Hop vermischt. Zu seinen weiteren Namen gehören DJ Mac Attack, Pay Tur P.K. und Phantom 309.
+Der ursprüngliche Stil von Chew Fu ist eine Mischung aus Elektro-House und Hip-Hop. Zu seinen weiteren Namen gehören DJ Mac Attack, Pay Tur P.K. und Phantom 309.
 
 „Why Can’t We Change“ ist ein House-Track, der 2005 auf dem niederländischen Label Bomboza veröffentlicht wurde.
 

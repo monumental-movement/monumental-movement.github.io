@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Comment la remise en question de la house française des 
 À propos des synthés analogiques, de la culture du disque et des techniques de filtrage
 
 À la fin des années 2020, la **French Touch** (French House) est réévaluée à la fois dans la culture des clubs et sur Internet. En termes de performances de DJ, des chansons comme « Music Sounds Better With You » de Stardust et « 1999 » de Cassius émeuvent à nouveau le jeune public, et les premières œuvres de Daft Punk trouvent de nouveaux publics grâce aux rééditions de vinyles.
-De plus, alors que les producteurs nationaux et étrangers incorporent activement des *synthés analogiques, des textures de bande, la rugosité de l'échantillonnage et la texture des lèvres en vinyle*, ils se connectent naturellement au contexte de **Nu Disco**, créé à la fin des années 2000.
+De plus, alors que les producteurs nationaux et étrangers intègrent activement des *synthés analogiques, des textures de bande, la rugosité de l'échantillonnage et la texture des lèvres en vinyle*, ils se connectent naturellement au contexte de **Nu Disco**, créé à la fin des années 2000.
 
 Ce phénomène n’est pas seulement de la nostalgie.
 C’est précisément parce que l’environnement numérique est devenu complètement omniprésent que
@@ -79,7 +79,7 @@ Les plus représentatifs sont :
 Ces modules de filtrage ont une structure analogique, de sorte que les fluctuations harmoniques pendant le balayage sont riches. L'image sonore de la French Touch consistant à « fermer et ouvrir le filtre » est créée avec une texture unique au matériel.
 
 ### ● ② Enregistrement d'échantillonnage et travail d'égalisation/filtrage
-Daft Punk utilise activement le bruit et les textures du vinyle dans sa musique en laissant l'image sonore de l'échantillon « brute ».
+Daft Punk utilise activement le bruit et la texture du vinyle dans sa musique en laissant l'image sonore de l'échantillon "rugueuse".
 Surtout pendant la période de « Découverte », au lieu de peaufiner l'échantillon pour obtenir une haute qualité,
 **L'esthétique de la création de musique pop « telle qu'elle a été extraite des disques** » est une constante.
 
@@ -94,7 +94,7 @@ Au contraire, il est devenu un élément déterminant dans la création du **kic
 En 1998, l'unité "Stardust" de Thomas Bangalter + Alan Braxe + Benjamin Diamond
 **Enregistré un succès mondial avec la sortie d'une seule chanson**.
 
-Caractéristiques:
+特徴：
 - Samples le riff de "Fate" de Chaka Khan
 - Traitement du filtre de type étiquette Roulé
 - Mélodie extrêmement sophistiquée et sensation disco
@@ -138,7 +138,7 @@ Caractéristiques de Nu Disco :
 - Lent (105-120 BPM)
 - Synthés épais et mélodieux
 - Voir le funk électronique des années 1980
-- Réexpansion de la culture de recherche de disques
+- Réexpansion de la culture de la fouille de disques
 
 Dans ce contexte, « l’esthétique de l’échantillonnage », le « travail de filtrage » et la « température analogique » de French Touch constituent une base importante.
 
@@ -151,7 +151,7 @@ Dans ce contexte, « l’esthétique de l’échantillonnage », le « travail d
 
 ---
 
-- Reconnaissance mondiale en tant qu'« inspecteur nordique », etc.
+- Mondialement acclamé comme « Inspecteur Norse », etc.
 - Utilisation intensive de synthés analogiques Roland et Korg
 - Moderniser ** la construction longue semblable à une maison de filtre **
 
@@ -190,7 +190,7 @@ Le balayage du filtre de French Touch reposait sur des changements harmoniques a
 
 ### ◆ ② Culture du disque : production musicale basée sur l'échantillonnage
 Une grande partie de la French Touch commence avec des échantillons de vinyles.
-C'est là que réside la « joie de découvrir » la musique**.
+Voici la « joie de découvrir » la musique**.
 C’était l’ambiance de l’époque où la culture des clubs et la culture du disque étaient directement liées.
 Creuser des archives en soi était la porte d’entrée vers la création.
 
@@ -258,7 +258,7 @@ En incorporant le **renouveau disco~80s**,
 Les sons de la house française suscitent un regain d’intérêt.
 
 ### ● 3) « Re-creuser » chez les jeunes
-sur YouTube, SoundCloud et TikTok
+Sur YouTube, SoundCloud et TikTok
 Les classiques de la French Touch ont été redécouverts et diffusés auprès d’une génération peu familière avec la culture club.
 
 ---

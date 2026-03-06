@@ -39,7 +39,7 @@ color: #fff;
 }
 </style>
 
-# 1. Présentation
+# 1. Introduction
 
 L’instrument de musique le plus primitif de l’histoire de l’humanité est la voix, et l’expression collaborative de plusieurs personnes par la voix s’est développée en étroite collaboration avec les rituels religieux et les structures communautaires.
 Cependant, l'image moderne du « chœur = harmonie disciplinée et homogène » n'est en réalité qu'un ensemble de valeurs devenues dominantes au cours d'une période limitée du 19e au 20e siècle.
@@ -169,7 +169,7 @@ L'analyse spectrale électroacoustique a été introduite, permettant une constr
 * Onomatopée/bourdonnement/chuchotement
 Une technique qui utilise activement les voix sans hauteur comme matériau musical.
 
-##4-6. Traitement électronique/spatialisation
+## 4-6. Traitement électronique/spatialisation
 
 Des expériences récentes utilisent parfois le traitement en temps réel et la diffusion multicanal.
 
@@ -177,7 +177,7 @@ Des expériences récentes utilisent parfois le traitement en temps réel et la 
 * Changement de hauteur
 * Traitement granulaire
 
-Avec ceux-ci, l’image statique du chœur est complètement démantelée, et la particuleisation et la répartition spatiale des voix deviennent le centre de la structure musicale.
+Avec ceux-ci, l'image statique du chœur est complètement démantelée, et la **distribution particulaire/spatiale des voix** devient le centre de la structure musicale.
 
 ---
 

@@ -68,7 +68,7 @@ Das Erlebnis, zur gleichen Zeit dasselbe Lied zu hören, hat Musik zu einem sozi
 Das Radio hat eine Existenz geschaffen, die nicht nur die Musik selbst präsentiert, sondern auch „wie man Musik hört“.
 Der DJ war der Musikwähler, Kommentator und Geschichtenerzähler.
 
-Songreihenfolge, Zeit und Kommentare.
+Songreihenfolge, Zeitzone und Kommentare.
 Diese geben der Musik einen Kontext und definieren das Genre.
 
 Das Phänomen, dass die von einem bestimmten DJ eingeführte Musik als Genre anerkannt wird, wiederholt sich auf der ganzen Welt.
@@ -87,14 +87,14 @@ Sendeplätze legen Genres fest und Musik wird entsprechend den Erwartungen der H
 Songlänge, Intro, Platzierung des Refrains.
 Das Musikformat selbst wurde für die Sendezeit optimiert.
 
-> Das Radio hat Genres gepflegt und zugleich geprägt.
+>Das Radio hat Genres gefördert und gleichzeitig geprägt.
 
 ---
 
 ## Führungswechsel durch Fernsehen und visuelle Kultur
 
 
-Seit den 1950er Jahren hat sich das Fernsehen zu einem zentralen Medium der Musikkultur entwickelt.
+Ab den 1950er Jahren wurde das Fernsehen zum zentralen Medium der Musikkultur.
 Musik verschiebt den Schwerpunkt von einem Hörerlebnis zu einem visuellen Erlebnis.
 
 Die Einführung von MTV in den 1980er Jahren bestimmte diesen Trend.
@@ -114,7 +114,7 @@ Im Auto, bei der Arbeit, spät in der Nacht.
 Das Radio wird als „Stimme, die keine Konzentration erfordert“ überleben.
 
 Während dieser Zeit wird die Musik zur Hintergrundmusik und die Erzählung wird vereinfacht.
-Obwohl sein Einfluss abgenommen hat, ist seine Verbreitung im Alltag geblieben.
+Obwohl sein Einfluss abgenommen hat, ist seine Verbreitung im Alltag gleich geblieben.
 
 > Radio blieb als Hintergrundgeräusch erhalten.
 
@@ -129,7 +129,7 @@ Diese sind zu unnötigen Elementen für die Audioverteilung geworden.
 Durch die On-Demand-Wiedergabe entfällt die Notwendigkeit der Gleichzeitigkeit und des Organisationskonzepts.
 Radio muss keine „Sendung“ mehr sein.
 
-> Die Stimme wurde von Radiowellen befreit.
+>Der Ton wurde von Radiowellen befreit.
 
 ---
 
@@ -161,7 +161,7 @@ Dies ist eine persönlichere, umfassendere Neuinterpretation der DJ-Kultur aus d
 
 
 Die traditionelle Radiowirtschaft war auf Werbung angewiesen.
-Die Struktur, in der der Wert anhand von Einschaltquoten und Zuschauerzahlen ermittelt wurde, wurde für die Ausstrahlung im großen Maßstab optimiert.
+Die Struktur, in der der Wert anhand der Einschaltquoten und der Anzahl der Zuschauer ermittelt wurde, wurde für die Ausstrahlung im großen Maßstab optimiert.
 
 Nischenmusikkulturen und spezialisierte Narrative lassen sich in diesem Modell nur schwer etablieren.
 

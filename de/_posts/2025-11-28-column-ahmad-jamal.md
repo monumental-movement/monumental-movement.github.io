@@ -158,7 +158,7 @@ Jamals Spiel mit Leerstellen hatte einen starken Einfluss auf Miles‘ Modeära 
 - **Minimalistische Themenpräsentation**
 Jamals Sinn für Struktur spiegelt sich auch in Miles' Arrangements aus seiner Quintettzeit wider.
 - **Trio-Dynamik**
-Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles' Band-Zusammenspiel bei.
+Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles‘ Bandzusammenspiel bei.
 
 Jamals Einfluss ist so bedeutend, dass man sagen kann, dass er ihn nicht nur „mochte“, sondern tatsächlich die Struktur von Miles‘ Musik veränderte.
 
@@ -174,7 +174,7 @@ Diese Innovation legte den Grundstein für das moderne Klaviertrio, das später 
 
 ### 3. Internationale Aktivitäten und kultureller Einfluss
 Seit den 1960er Jahren treten sie aktiv in Europa, dem Nahen Osten und Asien auf und haben außerhalb der Vereinigten Staaten eine große Fangemeinde gewonnen.
-Die Auswirkungen spiegeln sich wider in:
+Die Auswirkungen sind zu sehen in:
 
 - Auftritte auf internationalen Jazzfestivals
 - Großer Einfluss auf nichtamerikanische Pianisten
@@ -186,7 +186,7 @@ Insbesondere die Tatsache, dass er in den 1950er Jahren konvertierte und den Nam
 ### 4. „Die Kunst des Weltraums“ erben
 Jamals charakteristischer Stil, die Ästhetik der Ruhe, wurde an die folgenden Generationen weitergegeben:
 
-- Herbie Hancock
+-Herbie Hancock
 - McCoy Tyner
 - Keith Jarrett
 - Brad Mehldau

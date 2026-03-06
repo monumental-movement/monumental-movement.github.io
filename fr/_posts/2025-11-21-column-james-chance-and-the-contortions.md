@@ -85,7 +85,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 - La ligne de basse est répétitive et funky, et le saxophone tourbillonne librement.
 - **Analyse des battements** :
 - Keynote 4/4, mais le placement décalé de la caisse claire et les changements d'accent donnent toujours une impression d'oscillation.
-- Met l'accent sur l'improvisation tout en conservant une sensation de danse
+- Met l'accent sur l'improvisation tout en conservant le sens de la danse
 
 ### Chanson « Fais fondre toi-même »
 

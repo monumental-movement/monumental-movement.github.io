@@ -76,7 +76,7 @@ Ihr frühes Werk war eine dichte Mischung aus der Geschwindigkeit des Hardcore u
 Im Jahr 1988 erregten sie in der Indie-Szene im Ausland Aufmerksamkeit und wurden zu einem heißen Thema in der Underground-Community der Vereinigten Staaten.
 1989 wurden sie von Sonic Youth stark unterstützt und durch die Interaktion mit ihnen wurden sie mit den großen amerikanischen Indies verbunden.
 
-### Musikalische Struktur der frühen Boredoms
+### Musikalische Struktur früher Boredoms
 
 <div class="mermaid">
 flowchart TD
@@ -102,7 +102,7 @@ Live-Auftritte waren in dieser Zeit immer unvorhersehbar und das Bühnengeschehe
 
 ---
 
-„Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, jedoch großen Wert auf Klangordnung, Wiederholung und Minimalismus legt.
+„Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, aber Klangordnung, Wiederholung und Minimalismus stark betont.
 Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Atmosphäre anzunehmen.
 
 ### 3-2. Der Höhepunkt von „Vision Creation Newsun“
@@ -111,7 +111,7 @@ Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiede
 
 ---
 
-Die Vision Creation Newsun des darauffolgenden Jahres 1999 war eines der prägenden Werke in Boredoms‘ Karriere.
+Im folgenden Jahr war „Vision Creation Newsun“ aus dem Jahr 1999 eines der prägenden Werke in Boredoms‘ Karriere.
 Natürliche Klänge, ethnische Percussion, anhaltende Klänge und zyklische Strukturen, Gitarrendrohnen, vielschichtige Rhythmen ...
 
 Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sich stattdessen in kosmischen Minimalismus und rituellen Trance.
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Kapitel 5: Aktivitäten seit 2010er Jahren
-Seit den 2010er Jahren gibt Boredoms weiterhin zeitweise Live-Auftritte, während sich die kreativen Aktivitäten jedes Mitglieds vertieft haben.
+Seit den 2010er Jahren führt Boredoms weiterhin zeitweise Live-Auftritte auf, während sich die kreativen Aktivitäten jedes Mitglieds vertiefen.
 Insbesondere **Eyes visuelle Kunstaktivitäten** und **Yoshimis Aktivitäten mit OIOOO/SAICOBABA** nahmen zu, was den Eindruck erweckte, dass Boredoms eher ein „kollektives Projekt“ als eine „Band“ sei.
 
 ---
@@ -239,7 +239,7 @@ In diesem Kapitel werden wir die Musik von Boredoms strukturell organisieren.
 1. **Zerstörerische/plötzliche Elemente**
 2. **Wiederholung und Strukturgewinn**
 
-Durch das Hin- und Herpendeln zwischen diesen Polaritäten ist ihre Arbeit von einzigartiger Fließfähigkeit.
+Durch das Hin- und Herpendeln zwischen diesen beiden Polaritäten entsteht in ihrer Arbeit eine einzigartige Fließfähigkeit.
 
 ### 8.2 Rhythmusstruktur
 In späteren „Boredoms“ wurde der Rhythmus zum Thema und Melodie und Text rückten in eine Nebenrolle.

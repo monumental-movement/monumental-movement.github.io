@@ -10,12 +10,12 @@ tags:
 - House
 - Deep House
 - 00s
-title: Bougie Soliterre – Outre Toi
+title: Bougie Soliterre – Besides You
 ---
 
 
 
-Bougie Soliterre est un projet solo de la productrice britannique Bettina Costanzo (qui a sorti des œuvres sur le label britannique Flipside et le prestigieux German Compost Records).
+Bougie Soliterreは、イギリスのプロデューサー Bettina Costanzo（ によるソロ・プロジェクト。イギリスのレーベル Flipside や、ドイツの名門 Compost Recordsから作品をリリースしている。
 
 #### Liste des chansons
 ```md

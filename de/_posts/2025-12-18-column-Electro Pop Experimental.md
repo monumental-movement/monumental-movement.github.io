@@ -43,7 +43,7 @@ color: #fff;
 
 ## Kapitel 1 Prämisse der elektronischen Musik vor dem Elektropop
 
-Um die Entstehung des elektronischen Pop-Experimentsystems zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
+Um die Entstehung elektronischer Pop-Experimente zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
 
 ### Kombination von Synthesizer- und Pop-Strukturen
 
@@ -115,7 +115,7 @@ Die zur Musik präsentierten Visuals dienen nicht dazu, das Weltbild des Liedes 
 
 Carpenter Brut repräsentiert eine andere Richtung im Elektropop-Experiment.
 
-### Akustische Merkmale
+### Akustische Eigenschaften
 
 * Synthwave-Tondesign
 * Extrem betonter Rhythmus und Verzerrung
@@ -198,7 +198,7 @@ Anstatt diese Elemente einfach zu verschmelzen, zeichnet es sich jedoch dadurch 
 Durch die Einbeziehung des Produktionsprozesses und visueller Informationen erleben die Zuhörer gleichzeitig Folgendes:
 
 * Musik hören
-* Vorstellung des Produktionsprozesses
+*Vorstellung des Produktionsprozesses
 * Beobachtung der Schöpferpersönlichkeit
 * Visuelle narrative Interpretation
 

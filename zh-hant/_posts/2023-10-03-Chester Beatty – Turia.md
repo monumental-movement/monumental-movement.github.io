@@ -13,7 +13,7 @@ title: 切斯特比蒂——圖裡亞
 
 
 「圖裡亞」是
-這是 Robert Armani 計畫 Chester Beatty 的一張 EP，於 2001 年在英國唱片公司 Disq 上發行。
+這是 Robert Armani 的 Chester Beatty 計畫的一張 EP，於 2001 年在英國唱片公司 Disq 上發行。
 
 #### 曲目表
 ```md

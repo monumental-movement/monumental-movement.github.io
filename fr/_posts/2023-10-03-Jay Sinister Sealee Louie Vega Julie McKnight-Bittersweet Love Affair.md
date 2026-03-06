@@ -9,11 +9,11 @@ layout: post
 permalink: /fr/jay-sinister-sealee-louie-vega-julie-mcknight-bittersweet-love-affair/
 tags:
 - House
-title: Jay Sinister Sealee Louie Vega Julie McKnight-Affaire d'amour douce-amère
+title: Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair
 ---
 
 
-"Bittersweet Love Affair" est un EP de Jay "Sinister" Sealée & Louie Vega sorti sur le label britannique "Atal" en 2009.
+「Bittersweet Love Affair」は、2009年にUKのレーベル「Atal」からリリースされたJay "Sinister" Sealée  & Louie VegaによるEPです。
 
 #### Liste des chansons
 ```md

@@ -109,7 +109,7 @@ Ce changement a transformé la relation entre la musique et soi en une relation 
 
 ### Formation de l'identité générationnelle
 
-Dans la seconde moitié du XXe siècle, les genres musicaux sont devenus des indicateurs centraux de l’identité générationnelle. Le jazz symbolisait l'urbanisation et la modernité, et le rock incarnait la rébellion et la liberté. Le punk a exprimé son rejet de l’ordre établi par des sons brefs et aigus, et le hip-hop est devenu un moyen de parler d’expériences marginalisées.
+Dans la seconde moitié du XXe siècle, les genres musicaux sont devenus des marqueurs centraux de l’identité générationnelle. Le jazz symbolisait l'urbanisation et la modernité, et le rock incarnait la rébellion et la liberté. Le punk a exprimé son rejet de l’ordre établi par des sons brefs et aigus, et le hip-hop est devenu un moyen de parler d’expériences marginalisées.
 
 Pour les jeunes, la musique qu’ils ont choisie était un acte de montrer à quelles valeurs ils résonnaient. Tout comme la façon dont nous nous habillons et dont nous parlons, nos goûts musicaux sont au cœur de notre expression personnelle.
 

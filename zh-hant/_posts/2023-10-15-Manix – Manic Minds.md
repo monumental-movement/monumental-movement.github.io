@@ -32,7 +32,7 @@ Synth：模組化擴充 - 立方體
 追蹤AAi
 
 鋼琴 Sterling Void - 不想走。
-ヴォーカル：Extortion Featuring Dihan Brooks - How Do You See Me Now.
+演唱：《勒索》，迪漢布魯克斯 (Dihan Brooks) 演唱 - How Do You See Me Now。
 
 #### 曲目表
 ```md

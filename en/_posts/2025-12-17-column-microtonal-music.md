@@ -95,7 +95,7 @@ Just intonation uses interval ratios based on harmonic series.
 * Modulation structure is limited
 * Difficult to understand theory and implementation
 
-This choice transforms the music from a "transposable structure" to a "local acoustic structure".
+This choice transforms the music from a ""transposable structure" to a ""local acoustic structure."
 
 ---
 
@@ -234,7 +234,7 @@ Microtonal music retrains your hearing.
 * Fluctuations in tonal sense
 * Calling attention to pitch
 
-This is established not through intellectual understanding but through repeated listening.
+This is established not through intellectual understanding, but through repeated listening.
 
 ---
 
@@ -243,7 +243,7 @@ This is established not through intellectual understanding but through repeated 
 Microtonal music does not form a single genre.
 
 * Experimental music
-* Electronic music
+* electronic music
 * Inside Jazz/Pop
 * Video/Installation
 
@@ -257,7 +257,7 @@ It exists not as a "genre" but as a production philosophy.
 graph TD
 A[Temperament concept] --> B[equal temperament]
 A --> C[Just intonation]
-A --> D[non-equal scale]
+A --> D[non-equal temperament]
 C --> E[harmonic structure]
 D --> F[cultural pitch]
 </div>

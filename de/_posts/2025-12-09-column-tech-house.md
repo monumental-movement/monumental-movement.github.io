@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1. Was ist Tech House?
 
-Unter Tech House versteht man im Allgemeinen „Tanzmusik, die die Struktur und Klangverarbeitung von Techno vereint und gleichzeitig die Wärme von House beibehält“. Sie kombiniert den Minimalismus, die metallischen Texturen und die sich wiederholenden Strukturen von Techno und behält dabei die Funkigkeit und Fettigkeit von House bei.
+Tech House wird im Allgemeinen als „Tanzmusik verstanden, die die Struktur und Klangverarbeitung von Techno vereint und gleichzeitig die Wärme von House beibehält“. Sie kombiniert den Minimalismus, die metallischen Texturen und die sich wiederholenden Strukturen von Techno und behält dabei die Funkigkeit und Fettigkeit von House bei.
 
 Die Merkmale lassen sich wie folgt zusammenfassen.
 
@@ -85,7 +85,7 @@ Von besonderer Bedeutung sind:
 * Wiggle (Party und Label)
 * Swag Records
 
-Während sie House-Wurzeln hatten, experimentierten sie aktiv mit technoähnlicher Klangverarbeitung, der Minimierung des Grooves und der Straffung des Basses.
+Obwohl sie House-Wurzeln hatten, experimentierten sie aktiv mit technoähnlicher Klangverarbeitung, der Minimierung des Grooves und der Straffung des Basses.
 Einer der Gründe, warum der Name Tech House so beliebt wurde, waren ihre DJ-Mixe und langjährigen Auftritte in den Clubs The End und Fabric.
 
 Das Folgende ist ein prägnantes Diagramm der Genealogie des frühen Tech House.
@@ -131,7 +131,7 @@ Insbesondere die folgenden Künstler sind wichtig, da sie die Lücke zwischen Te
 
 * Steve Bug (Poker Flat)
 * Booka Shade
-*M.A.N.D.Y.
+* M.A.N.D.Y.
 * Ricardo Villalobos (minimal, überschneidet sich aber auch mit Tech House)
 * Lokwürfel
 *Luciano
@@ -151,7 +151,7 @@ flowchart TD
 
 ---
 
-## 6. Klangveränderungen
+## 6. Änderungen im Klangaspekt
 
 Gegen Ende der 2000er Jahre erfuhr Tech House die folgenden Veränderungen.
 

@@ -17,7 +17,7 @@ title: Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2
 
 Sir Piers(Piers Penfold)가 자신이 운영하는 라벨 Curius에서 2003년에 발매한 Monique Bingham의 「Don't You Love Me」하우스·차고 하우스 리믹스.
 
-A면은, SoulShine Recordings나 Thompson Studios를 운영하는 Louis Benedetti에 의한 remix.
+A면은 SoulShine Recordings나 Thompson Studios를 운영하는 Louis Benedetti에 의한 remix.
 
 B면은 호주 멜버른을 거점으로 활동하는 DJ / 프로듀서 DJ Jorj(Jorj Patsalides)에 의한 remix.
 

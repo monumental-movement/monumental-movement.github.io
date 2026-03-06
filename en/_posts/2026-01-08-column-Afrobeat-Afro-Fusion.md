@@ -52,7 +52,7 @@ Melody emphasizes rhythm and the circulation of phrases rather than scale, and s
 
 ### Colonial period and urban music
 
-Colonial rule from the end of the 19th century to the 20th century brought European-derived instruments and harmonic concepts to West Africa. Brass bands, church music, and military bands played throughout the country, blending them with traditional rhythms. The highlife that developed in Ghana is a representative example of this hybridization, and serves as an important prehistory for the later formation of Afrobeat.
+Colonial rule from the end of the 19th century to the 20th century brought European-derived instruments and harmonic concepts to West Africa. Brass bands, church music, and military bands played throughout the country, blending them with traditional rhythms. The highlife that developed in Ghana is a representative example of this kind of hybridization, and serves as an important prehistory for the later formation of Afrobeat.
 
 ---
 

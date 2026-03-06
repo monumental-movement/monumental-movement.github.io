@@ -10,11 +10,11 @@ tags:
 - Classical
 - Soundtrack
 - 90s
-title: Joe Hisaishi - BRAIN&MIND Bande originale Vol.1
+title: 久石譲 - BRAIN&MIND サウンドトラック Vol.1
 ---
 
 
-Bande originale de l'émission spéciale de la NHK « Amazing Microcosm : Human Body 2 : Brain and Mind », composée par Joe Hisaishi, un compositeur connu pour l'anime Hayao Miyazaki. Bien que sorti en 1993, cet album qui exprime le microcosme à travers le son est un album qui s'écoutera à travers les âges.
+宮崎駿アニメでお馴染みの作曲家 久石譲 が手がけた、NHKスペシャル「驚異の小宇宙 人体2・脳と心」のサントラ。1993年リリースだが、ミクロコスモスを音で表現したこのアルバムは時代を超えて聴き継がれる一枚。
 
 #### Liste des chansons
 ```md

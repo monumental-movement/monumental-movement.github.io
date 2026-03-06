@@ -9,7 +9,7 @@ permalink: /zh-hant/croisette-nothing-but-blackmail/
 tags:
 - Disco
 - 80s
-title: Croisette－除了勒索之外什麼都沒有
+title: Croisette－除了勒索什麼都沒有
 ---
 
 

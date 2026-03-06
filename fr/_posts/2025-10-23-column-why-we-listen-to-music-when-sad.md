@@ -60,7 +60,7 @@ C’est l’une des principales raisons pour lesquelles les gens recherchent de 
 ## Chapitre 2 : La musique comme outil d'empathie
 
 Selon la psychologue Catherine Mercier,
-«La musique est un outil d'imitation de l'empathie.»
+«La musique est un outil d'imitation pour l'empathie.»
 Lorsque les auditeurs écoutent de la musique triste, ils « s'identifient » aux émotions du compositeur et du chanteur, et
 Ressentir la présence des autres dans la solitude.
 
@@ -196,7 +196,7 @@ La musique est un médium qui transforme la tristesse en amour.
 | Régénération | Cortex cingulaire | Structure crescendo | Augmentation de la dopamine |
 
 
->« Quand tu es triste, tu écoutes de la musique, ce n'est pas parce que tu as peur du silence.
+> « Quand tu es triste, tu écoutes de la musique non pas parce que tu as peur du silence.
 >Écouter le son de votre propre cœur au plus profond de ce silence. »
 
 ---

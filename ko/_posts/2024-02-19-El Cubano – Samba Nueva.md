@@ -14,7 +14,7 @@ title: El Cubano – Samba Nueva
 ---
 
 
-El Cubano (엘 쿠바노)의 Samba Nueva (삼바 누에바)는 1998 년 이탈리아 라벨 "Muzic Without Control Records"에서 출시 된 라틴 유로 하우스 트랙입니다.
+El Cubano (엘 쿠바노)의 Samba Nueva (삼바 누에바)는 이탈리아 라벨 "Muzic Without Control Records"에서 1998 년에 발표 된 라틴 유로 하우스 트랙입니다.
 
 #### Tracklist
 ```md

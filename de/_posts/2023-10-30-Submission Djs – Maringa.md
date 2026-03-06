@@ -9,7 +9,7 @@ permalink: /de/submission-djs-maringa/
 tags:
 - House
 - Tribal
-title: Einreichungs-DJs – Maringa
+title: Submission-DJs – Maringa
 ---
 
 

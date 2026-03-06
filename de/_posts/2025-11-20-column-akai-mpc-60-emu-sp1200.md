@@ -75,7 +75,7 @@ Mitte bis Ende der 1980er Jahre waren die Preise für Halbleiterspeicher um Grö
 * **Hauptmerkmale**: 8-Spur-Sequenzer, Filter (analog), einzelne Ausgänge
 
 **Designphilosophie und Funktionen**
-Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Basierend auf den Spezifikationen und der technischen Dokumentation von E-mu aus dieser Zeit können wir bestätigen, dass der A/D-Pfad und das Filterdesign des SP-1200 zu seiner akustischen Färbung beitragen.
+Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Anhand der Spezifikationen und technischen Unterlagen von E-mu aus dieser Zeit kann bestätigt werden, dass der A/D-Pfad und das Filterdesign des SP-1200 zur akustischen Färbung beitragen.
 
 **Praktische Anwendung**
 
@@ -198,7 +198,7 @@ flowchart TD
 
 ## Kapitel 9: UI/UX und Instrumentierung – Etablierung eines Leistungsansatzes mithilfe von MPC
 
-Die MPC-Serie machte das Konzept eines „Samplers = eines zu spielenden Instruments“ populär. Insbesondere die 16 Pads, die Pad-Empfindlichkeit, die geringe Latenz für sofortige Wiedergabe und der integrierte Sequenzer ermöglichen das Improvisieren, und der Einsatz bei Live-Auftritten und spontanen Sessions hat zugenommen. Die Tatsache, dass die Verschmelzung der Designphilosophie von Roger Linn (die den menschlichen Sinn für Leistung betont) und des Produktdesigns von Akai zum Erfolg des MPC60 beitrug, wird durch mehrere Entwicklerinterviews untermauert.
+Die MPC-Serie machte das Konzept eines „Samplers = eines zu spielenden Instruments“ populär. Insbesondere die 16 Pads, die Pad-Empfindlichkeit, die geringe Latenz für sofortige Wiedergabe und der integrierte Sequenzer ermöglichen das Improvisieren, und der Einsatz bei Live-Auftritten und spontanen Sessions hat zugenommen. Die Tatsache, dass die Verschmelzung von Roger Linns Designphilosophie (die den menschlichen Spielsinn betont) und Akais Produktdesign zum Erfolg des MPC60 beitrug, wird durch mehrere Entwicklerinterviews untermauert.
 
 ---
 
@@ -373,7 +373,7 @@ flowchart TD
 
 ---
 
-## Abschnitt zur Spur-/Wellenform-/Frequenzanalyse
+## Abschnitt „Spur-/Wellenform-/Frequenzanalyse“.
 
 ### Ebenenanalyse von Public Enemy (Bomb Squad) SP-1200
 
@@ -418,7 +418,7 @@ graph LR
 
 ---
 
-### DJ Shadow – Endtroducing (MPC60) tiefe Analyse
+### DJ Shadow – Endtroducing (MPC60) Tiefenanalyse
 
 <div class="mermaid">
     

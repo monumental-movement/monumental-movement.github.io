@@ -16,7 +16,7 @@ Flick of the Switch is the ninth studio album by Australian hard rock band AC/DC
 
 The album sold poorly compared to the band"s previous albums, 1980"s Back in Black and 1981"s For Those About to Rock, and was seen as marking the beginning of the band"s commercial decline.
 
-This is AC/DC's third album with lead vocalist Brian Johnson, and the last before drummer Phil Rudd temporarily leaves.
+It is AC/DC's third album with lead vocalist Brian Johnson, and the last before drummer Phil Rudd temporarily leaves.
 
 #### Tracklist
 ```md

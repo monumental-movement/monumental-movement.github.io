@@ -10,7 +10,7 @@ tags:
 - Minimal
 - Tech House
 - 00s
-title: Samim Feat. Big Bully – The Lick
+title: 薩米姆壯舉。大惡霸——舔
 ---
 
 

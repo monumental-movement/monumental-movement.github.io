@@ -20,7 +20,7 @@ title: '[Column] Madvillain "Madvillainy" ─ 21st century hip-hop myth woven fr
 Text: mmr｜Theme: A study of "Madvillainy" (https://amzn.to/3JhySfH), a "labyrinth of sound" that reconstructs the hip-hop form itself after deconstructing it.
 
 In the spring of 2004, an album released by a small label in Los Angeles, **Stones Throw Records**, quietly overturned the conventional wisdom of hip-hop.
-**Madvillain [""Madvillainy"'](https://amzn.to/3JhySfH)** ---It"s a rap album, a poetry collection, and a sound collage through radio waves. **
+**Madvillain [""Madvillainy''](https://amzn.to/3JhySfH)** ---It is a rap album, a poetry collection, and a sound collage transmitted through radio waves. **
 
 At the beginning of the 21st century, American hip-hop was moving toward the extravagant "brand culture" symbolized by Jay-Z and 50 Cent. On the flip side, this album is about anonymity and the poetics of fragments, and it has deep roots in the world's underground.
 What captivates the listener is not the degree of perfection, but rather the ""unfinished beauty''.
@@ -53,7 +53,7 @@ Especially in this work, **SP-303 Dr. Sample** holds the key. Although it is che
 
 ### MF DOOM: The Masked Poet
 MF DOOM (real name Daniel Dumile) was born out of tragedy.
-In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc in an accident, and his contract with the label was canceled.
+In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc in an accident, and his contract with the label came to an end.
 He remained silent for several years and returned wearing a metal mask. **
 
 DOOM made the mask a symbol of "creation" rather than "escape."
@@ -80,7 +80,7 @@ The acoustic characteristics can be summarized into the following three points.
 
 1. **Time Disconnect**: The song is short and ends abruptly. The transitions are intentionally rough.
 2. **Spatial Compression**: Minimize reverb and spatial processing to bring the distance between samples close to zero.
-3. **Frequency distortion**: Creates a **VHS-like sound** with removed high frequencies by using SP-303 effects extensively.
+3. **Frequency distortion**: Creates a **VHS-like sound** where the high frequencies are removed by making extensive use of SP-303 effects.
 
 This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as ""components" rather than ""materials," he transformed hip-hop into an archeology of sound.
 

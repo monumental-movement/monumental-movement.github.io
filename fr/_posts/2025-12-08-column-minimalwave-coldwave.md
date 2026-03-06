@@ -156,7 +156,7 @@ Les disques et cassettes Minimal Wave/Coldwave partagent une esthétique commune
 
 ### ● 5-2. Comment utiliser les photos
 - Les photos d'artistes sont sans expression et présentent un fort contraste
-- De nombreux arrière-plans sont des zones industrielles/souterraines/ruines, etc.
+- De nombreux arrière-plans incluent des zones industrielles/souterraines/ruines, etc.
 
 ### ● 5-3. Texture d'impression bricolage
 - Risographie, sérigraphie, rugosité photocopieuse
@@ -179,7 +179,7 @@ Compilation représentative :
 - *The Minimal Wave Tapes Vol.2 (2012, Stones Throw)*
 
 ### ● 6-2. Internet et redécouverte
-- Avec la diffusion des Discogs, des sources sonores rares de l'époque des cassettes se partagent.
+- Avec la diffusion des Discogs, des sources sonores rares de l'ère des cassettes se partagent.
 - D'anciens enregistrements téléchargés sur YouTube se sont répandus parmi les jeunes
 - La culture des blogs (par exemple Mutant Sounds) introduit des sources sonores rares
 

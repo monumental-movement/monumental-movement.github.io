@@ -64,7 +64,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 
 ---
 
-## 第2章：節奏空洞－「Phylyps Trak」的影響
+## 第2章 節奏空洞－「Phylyps Trak」的影響
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JU4dXv5ohbc?si=t394Uurx52afS_tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,7 +84,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 
 ---
 
-## 第3章：Dubの再発明──ジャマイカからベルリンへ
+## 第 3 章：重塑配音：從牙買加到柏林
 
 Basic Channel 引用的是 70 年代**牙買加配音**的想法。
 King Tubby 和 Lee “Scratch” Perry 的混響雕塑已透過數位流程重新創作。
@@ -150,7 +150,7 @@ Basic Channel 的理念深植於當代柏林俱樂部文化，包括 Berghain/Pa
 |:--|:--|:--|
 | **深和弦/迴聲空間** |底特律的太空技術|有機擴張延遲|
 | **通量** |來自希臘的最小配音|建築感覺直接源自連鎖反應|
-| **天然氣（沃夫岡·沃伊特）** |氛圍+古典的融合 |用混響比喻“森林” |
+| **天然氣（沃夫岡·沃伊特）** |氛圍+古典的融合|用混響比喻“森林” |
 | **亞格亞** |冰島淨度|節奏透氣|
 | **cv313** |面向模擬的聲壓結構|基礎頻道的精神傳承 |
 
@@ -193,7 +193,7 @@ graph TD
 | **1999** |創辦 Rhythm & Sound，開始與牙買加歌手合作 |
 | **2003** | “藝術家的節奏與聲音”發佈|
 | **2010** |莫里茲·馮·奧斯瓦爾德三重奏組開始（與馬克斯·洛德鮑爾和托尼·艾倫） |
-| **2020年代** |重新評價風潮，Dub Techno復興，以Bandcamp為主蔓延|
+| **2020年代** |重評風潮，Dub Techno復興，以Bandcamp為主蔓延|
 
 ---
 

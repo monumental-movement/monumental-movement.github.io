@@ -30,7 +30,7 @@ G1. Major North – Annihilate (Timo Maas Mix)
 H1. Timo Maas – M.A.A.S.M.E.L.L.O.W.
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61344314465?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61344314465?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9h4I2x7wrQ?si=GOsmGxc-Iica0py1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

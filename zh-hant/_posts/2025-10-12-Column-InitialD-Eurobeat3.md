@@ -60,7 +60,7 @@ color: #fff;
 這不是一種流派的傳承，而是一種加速感的傳承。
 
 - 節奏超過 150
-- 合成主音的極高亮度
+- 合成器引線的極高亮度
 - 空間殘響和拍手聲過度重複
 
 這些特質正是Eurobeat的呼應。
@@ -99,7 +99,7 @@ EDM 的累積、Hyperpop 的聲樂節奏、Trance 的旋律提升。
 換句話說，汽車的行為播放音樂的時代已經到來。
 
 透過聲學參數再現 Eurobeat 的「漂移感」。
-這是頭文字 D 過去對影片和音樂所做的技術重現。
+這是頭文字 D 過去對影片和音樂所做的技術再現。
 
 ### ● VR/AR駕駛空間
 
@@ -152,7 +152,7 @@ EDM 的累積、Hyperpop 的聲樂節奏、Trance 的旋律提升。
 ### ● NFT/區塊鏈與重新定義音樂所有權
 
 將駕駛數據和聲音產生結果轉換為NFT，
-一次性體驗「這曲線、這速度、這聲音」。
+「このカーブ、この速度、この音」という一回限りの体験を所有する。  
 Eurobeat 因此變成了**保存的加速**。
 
 ---
@@ -196,7 +196,7 @@ flowchart TD
 |年份|標題 |藝人 |連結 |
 | ---- | -------------------- | ---------------- | -------------------------------------------------- |
 | 1994 |超級 Eurobeat Vol.50 | VA | [亞馬遜](https://amzn.to/46K1kzK) |
-| 1998 | 90年代跑步 |馬克斯·科維裡 | [亞馬遜](https://amzn.to/46OQ98U) |
+| 1998 |90年代跑步|馬克斯·科維裡 | [亞馬遜](https://amzn.to/46OQ98U) |
 | 2000 | 2000似曾相識|戴夫羅傑斯 | [亞馬遜](https://amzn.to/4q6JDSA) |
 | 2015 | 2015夜核現實 |各種藝術家| [亞馬遜](https://amzn.to/47iXlu1) ​​|
 
@@ -209,6 +209,14 @@ flowchart TD
 
 > 歐洲節拍還沒結束。
 > 這只是改變你跑步的地方的問題。
+
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2It7HPi2Ing?si=0hZVnLYZfEdLFICn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

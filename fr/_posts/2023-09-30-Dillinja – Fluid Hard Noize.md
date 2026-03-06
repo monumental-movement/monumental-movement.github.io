@@ -8,15 +8,15 @@ layout: post
 permalink: /fr/dillinja-fluid-hard-noize/
 tags:
 - Drum n Bass
-title: Dillinja – Fluide Hard Noize
+title: Dillinja – Fluid Hard Noize
 ---
 
 
-C’est un morceau que tous les fans de drum & bass adoreront. Ce que personne n'a compris, c'est comment le son "Reese" de la chanson, un son de synthétiseur vrombissant, a été créé. Il a probablement été traité par le filtre plan Z de l'échantillonneur E-MU.
+すべてのドラム＆ベースのファンが大好きなトラックでしょう。誰もが理解できなかったのは、この曲の中で使われている"Reese"サウンド、つまり唸るようなシンセサイザーサウンドがどのように作成されたのか、ということです。おそらくE-MUサンプラーのZプレーンフィルターで処理されていたかもしれません。
 
-Ce son Reese a été utilisé sur une variété de morceaux, notamment « Nasty Ways », « Take My Life », « Love Is Not a Game Remix » et « Bambaata Remix », et des variantes de celui-ci ont également été utilisées sur « Tudor Rose » et « Go Dillinja ».
+このReeseサウンドは「Nasty Ways」、「Take My Life」、「Love Is Not a Game Remix」、「Bambaata Remix」など、さまざまなトラックで使用され、そのバリエーションは「Tudor Rose」や「Go Dillinja」でも使われました。
 
-Il n'est pas exagéré de dire que ce son Reese est probablement le son de drum & bass le plus cool jamais créé. Et cela semble fou de penser qu'en 1998, sur les ondes de Britpop, quelqu'un comme Dillinja était underground, complètement indifférent à la vente de disques et produisait des trucs plus cool.
+このReeseサウンドがおそらくドラム＆ベースで作られた中で最もクールなサウンドであると言っても過言ではありません。そして1998年にはブリットポップがエアウェーブに溢れていた時期に、Dillinjaのような人物がアンダーグラウンドでレコードを売ることなどにまったく無頓着で、よりクールなものを制作していたと考えると、それは狂気に思えます。
 
 #### Liste des chansons
 ```md

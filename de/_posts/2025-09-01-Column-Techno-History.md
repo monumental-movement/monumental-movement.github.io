@@ -67,7 +67,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Britische Rave-Kultur und Clubbing
 
 **Meisterwerk**
-- Untergrundwiderstand – *X-101/X-102* (1991–)
+- Underground Resistance – *X-101/X-102* (1991–)
 - Aphex Twin – *Selected Ambient Works 85–92* (1992)
 - Basic Channel – *BCD* (1994)
 - Robert Hood – *Minimal Nation* (1994)
@@ -75,7 +75,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Jeff Mills – „The Bells“ (1997)
 
 **Ausrüstung**
--Akai S3000/S3200
+- Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
 - Mackie 1604/8-Bus
@@ -88,7 +88,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 ### 2000er: Minimalismus – der Beginn von Micro-House und „in the box“
 **Hintergrund der Zeit**
 - PC-Produktion wird populär, VST wird alltäglich
-- Kölner, Berliner und chilenische Künstler machen es vor
+- Angetrieben von Kölner, Berliner und chilenischen Künstlern
 
 **Meisterwerk**
 - Ricardo Villalobos – *Alcachofa* (2003)
@@ -101,7 +101,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Grund (2000–)
 - Native Instruments Reaktor / Absynth
 - Elektron Machinedrum / Monomachine
-- Pioneer CDJ (populäre Periode)
+- Pioneer CDJ (populäre Zeit)
 
 ---
 
@@ -135,7 +135,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 **Soundtrends**
 - Kraftvolle Kicks und Riff-Wiederholungen
-- Hard Techno ~ Schranz-Comeback
+- Harter Techno ~ Schranz-Comeback
 - Rekontextualisierung von Trans-Motiven
 
 **Ausrüstung**
@@ -144,7 +144,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - ASM Hydrasynth
 - Polyend Tracker / Dirtywave M8
 - Akai MPC One/Live II
-- KI-Mastering, Stammtrennungstool
+- KI-Mastering, Stammtrennungswerkzeuge
 
 ---
 

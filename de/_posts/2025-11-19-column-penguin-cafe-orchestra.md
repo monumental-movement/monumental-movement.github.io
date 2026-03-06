@@ -54,7 +54,7 @@ Die Ursprünge von PCO gehen auf ein seltsames Ereignis im Jahr 1972 zurück, al
 Dabei hatte er eine tagtraumartige Inspiration, die später als „Penguin Café-Vision“ bekannt wurde.
 Es gab eine „Utopie“, in der sich Menschen frei versammeln und ohne Disziplin oder Form weiter Musik machen konnten.
 
-Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitiven Strukturen der Minimal Music vereint.
+Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitive Struktur minimaler Musik verbindet.
 Die Musik war weder traditionell noch avantgardistisch, sondern kristallisierte sich als ein Klang heraus, der nur hier zu finden war.
 
 ---
@@ -84,7 +84,7 @@ Unter der Leitung von Simon Jeffes nehmen ehemalige klassische Musiker, Volksmus
 ### ● Der Kern ihrer Ideologie
 
 Jeffes beschrieb seine Musik als „spontane Strukturen“.
-Es handelt sich nicht um die Regeln der westlichen Musik oder die Traditionen der Volksmusik, sondern um einen **organischen Prozess**, bei dem eine Anhäufung von Klängen durch Zufall entsteht.
+Es handelt sich nicht um die Regeln der westlichen Musik oder die Traditionen der Volksmusik, sondern um einen **organischen Prozess**, bei dem eine Ansammlung von Klängen durch Zufall entsteht.
 Diese „Spontaneität“ ist der Grund dafür, dass der Sound von PCO zwar manchmal magisch ist, aber dennoch ein warmes, alltägliches Gefühl hat.
 
 ---
@@ -116,7 +116,7 @@ Es hat eine sich wiederholende Struktur ähnlich der Minimal Music, ist aber nic
 
 **Struktur**
 
-* Wiederholendes Arpeggio auf der Tastatur
+* Wiederholendes Tastatur-Arpeggio
 * Schaffen Sie Raum mit langen Noten von Saiteninstrumenten
 * Percussion wird von der Mitte aus hinzugefügt, um die treibende Kraft zu verstärken
 * „Reziproke Struktur“, die am Ende zur Ruhe zurückkehrt
@@ -133,7 +133,7 @@ Ein seltsames Musikstück, in dem plötzlich ein zweifarbiges Telefon über eine
 
 * Looping von Telefonaudio durch Bandmanipulation
 * Elektronischer Klang, der als „Fremdkörper“ über dem Ensemble existiert
-* Humorvoll und gleichzeitig postmodern
+* Humorvoll und zugleich postmodern
 
 In Bezug auf Minimal + Found Sound überschneidet sich dieses Werk mit der Abstammung von Brian Eno.
 
@@ -165,7 +165,7 @@ Ein Album, das mit dem hellen Sound, der für PCO einzigartig ist, seinen Höhep
 Die Atmosphäre ist kammermusikalischer geworden und hat sich zu einer filmischeren Welt entwickelt.
 Enthält „Perpetuum Mobile“.
 
-### ● *Union Café* (1993)
+### ● *Union Cafe* (1993)
 
 Simon Jeffes' letzte Studioarbeit vor seinem Tod.
 Der Gesamtaufbau ist meditativer, die Akustik transparenter.
@@ -180,7 +180,7 @@ Die Musik von PCO wurde in vielen Ländern auf unterschiedliche Weise rezipiert,
 ### ● Affinität zur Café-/Lounge-Kultur
 
 Während des „Café-Musik“-Booms Ende der 1990er Jahre wurde es neu bewertet.
-Die „Ambient-Musik mit Aussage“, die leicht und leicht zu hören war, aber dennoch nicht in den Hintergrund trat, erregte Aufmerksamkeit.
+Die „Ambient-Musik mit Aussage“, die leicht und angenehm zu hören war, aber dennoch nicht in den Hintergrund geriet, erregte Aufmerksamkeit.
 
 ### ● Starke Mediennutzung
 
@@ -194,7 +194,7 @@ Die Musik von PCO ist emotional, aber nicht beschreibend, daher wird sie als „
 ### ● Auswirkungen auf nachfolgende Generationen
 
 * Max Richter
-*Olafur Arnalds
+* Olafur Arnalds
 * Penguin Cafe (Nachfolgeprojekt von Sohn Arthur Jeffes)
 * Folk-/Minimalisten-Künstler
 

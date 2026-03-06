@@ -16,7 +16,7 @@ title: Robert Drewek – Acidition
 
 Robert Drewek은 독일 프랑크푸르트에 본사를 둔 Electronic Music Distributor DBH Music의 총괄 매니저입니다. Robin Scholz와의 듀오 RDRS로도 활동하고 있다.
 
-「Acidition」은 2005년에 독일의 라벨 i220에서 릴리스된 어시드하우스 미니멀 테크하우스 트럭.
+'Acidition'은 2005년 독일의 라벨 i220에서 출시된 어시드하우스 미니멀 테크하우스 트럭.
 
 A면 1곡째는 Keno Records의 창설자이며 DJ 프로듀서의 David Keno에 의한 remix.
 

@@ -18,7 +18,7 @@ title: '[Kolumne] Von den Ursprüngen des NY House bis zur Gegenwart ─ Geschic
 
 ## Von den Ursprüngen des NY House bis zur Gegenwart ─ Geschichte, Meisterwerke und Veränderungen in der Ausstattung
 
-Text: mmr｜Thema: Die Entwicklung der gefühlvollen New Yorker House-Stimmen und urbanen Grooves
+Text: mmr｜Thema: Die Entwicklung von New Yorker House-Soul-Stimmen und urbanen Grooves
 
 
 New York House entstand aus den Echos der Disco und der Aufregung der Underground-Clubkultur und entwickelte sich schließlich zu einer globalen Hauptstadt der Tanzmusik. In diesem Artikel werden wir die Geschichte der Musik von ihren Anfängen bis heute Jahr für Jahr nachzeichnen, einschließlich historischer Hintergründe, repräsentativer Meisterwerke und Veränderungen in der Ausstattung.
@@ -55,7 +55,7 @@ Nachdem sich die Disco aufgelöst hatte, dominierte ein gefühlvoller Garagensou
 
 ### Ende der 1980er Jahre: Gründung von NY House
 - **Hintergrund**
-Beeinflusst vom Chicago House hat New York einen gefühlvolleren und anspruchsvolleren Stil entwickelt. Die Clubkultur expandiert.
+Beeinflusst vom Chicago House hat New York einen gefühlvolleren und anspruchsvolleren Stil entwickelt. Clubkultur ausgebaut.
 - **Repräsentative Werke**
 - Todd Terry – *Bango* (1988)
 - Blaze – *If You Should Need A Friend* (1988)

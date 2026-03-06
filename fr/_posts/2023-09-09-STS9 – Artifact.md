@@ -12,7 +12,7 @@ tags:
 - Drum n Bass
 - Jazz
 - STS9
-title: STS9 – Artefact
+title: STS9 – Artifact
 ---
 
 
@@ -22,13 +22,13 @@ title: STS9 – Artefact
 
 
 
-"Artifact" est le troisième album studio de Sound Tribe Sector 9 (STS9), sorti en 2005. Cette œuvre met en valeur le son et la créativité de STS9 au maximum et a été très appréciée sur la scène de la musique électronique et des jam bands pour son son unique et son approche innovante.
+「Artifact」は、2005年にリリースされたサウンド・トライブ・セクター9（Sound Tribe Sector 9 [STS9]）の3枚目のスタジオアルバムです。STS9のサウンドとクリエイティビティを最大限に発揮した作品であり、その独特なサウンドと革新的なアプローチによって、エレクトロニックミュージックやジャムバンドシーンで高い評価を得ています。
 
-Leur son combine des éléments de divers genres, notamment l'ambient, l'électro, le jazz, le funk et le dubstep.
+アンビエント、エレクトロニカ、ジャズ、ファンク、ダブステップなど、さまざまなジャンルの要素を組み合わせたサウンドが特徴です。
 
-"Tokyo" d'A2 est connue comme la chanson signature de STS9 et est souvent jouée lors de performances live.
+A2の「Tokyo」は、STS9の代表的な楽曲として知られており、ライブパフォーマンスでも頻繁に演奏されます。
 
-"Artifact" est un album important dans la carrière de STS9, et constitue un incontournable pour les fans du groupe.
+「Artifact」は、STS9のキャリアの中でも重要な位置を占めるアルバムであり、バンドのファンにとっては欠かせない作品となっています。
 
 
 #### Liste des chansons

@@ -11,15 +11,15 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: FAIRE – Manquer de temps
+title: DO – Running Out Of Time
 ---
 
 
-DO (Digital Orgasm) est un groupe techno belge formé par le M.N.O. trio de production Maurice Engelen (Somora/Praga Khan), Nikkie van Lierop (Jade 4 U, Miss Lie) et Oliver Adams.
+DO (Digital Orgasm /デジタルオーガズム )は、M.N.O. productionトリオ　Maurice Engelen (Somora/Praga Khan)、Nikkie van Lierop (Jade 4 U, Miss Lie) 、Oliver AdamsによるベルギーのTechnoアクト。
 
-Digital Orgasm était l'un de leurs projets les plus anciens, avec Lords Of Acid et Channel X.
+Digital Orgasmは、Lords Of AcidとChannel Xと並び、彼らの数多くのプロジェクトの中で最も長く続いたプロジェクトの1つだった。
 
-A est un remix de Todd Terry. B4 est un remix de Josh Wink.
+Aは、Todd Terryによるremix。B4は、Josh Winkによるremix。
 
 #### Liste des chansons
 ```md

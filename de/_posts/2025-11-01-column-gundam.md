@@ -114,13 +114,13 @@ Gleichzeitig nahm die Zahl der Titelsongs mit Synthesizer-Sounds, Dance-Beats un
 
 Im TV-Anime „Mobile Suit Gundam W“ (New Mobile Suit Gundam W), der 1995 ausgestrahlt wurde, übernahm das Eröffnungsthema „Just Communication“ (gesungen von TWO-MIX) einen Synthesizer-Beat und eine Pop-Melodie, was es zu einem Werk macht, das sich von den traditionellen Gundam-Titelliedern abhebt.
 
-Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild von „Gundam = Kriegsdrama + schwere Musik“ zu einem etwas leichteren „Heldenlied, das in der Popmusik zu hören ist“ zu öffnen.
+Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild von Gundam = Kriegsdrama + schwere Musik zu einer etwas leichteren Version eines Heldenliedes zu ändern, das in der Popmusik zu hören ist.
 
 Darüber hinaus verfügen OVA- und Filmversionen jetzt über eine größere Auswahl an Musikprodukten, darunter Titelsongs, Insert-Songs, Charaktersongs und Remix-Discs. Musik hat sich von „exklusiv für Werke“ zu „exklusiv für Marken“ entwickelt.
 
-### 2.3 Theaterbegleitung, Titellieder und Einfügungslieder: Geschmacksveränderungen im Laufe der Zeit
+### 2.3 Theaterbegleitung, Titellied, Einlegelied: Wandel des Zeitgeschmacks
 
-In dieser Zeit erweiterte sich das Spektrum der Musikentwicklung erheblich. Neben Titelsongs wurden nacheinander Insert-Songs, Charaktersongs (unter Charakternamen gesungene Lieder), Remix-Alben, Best-Of-Alben, Live-Alben usw. veröffentlicht und die Kategorisierung von Musikprodukten schritt voran.
+In dieser Zeit erweiterte sich das Spektrum der Musikentwicklung erheblich. Neben Titelsongs wurden nacheinander Insert-Songs, Charakter-Songs (unter dem Namen des Charakters gesungene Lieder), Remix-Alben, beste Alben, Live-Alben usw. veröffentlicht und die Kategorisierung von Musikprodukten schritt voran.
 
 Auch die musikalische Begleitung (BGM) hat sich weiterentwickelt. Es gab eine wachsende Bewegung, Klavier, Streicher und Synthesizer mutig zu verschmelzen, und aus dem „Schlachtfeld“-Sound der 1980er Jahre entwickelte sich ein starker Trend, die „Gefühle einer Figur“ und „detaillierte innere Darstellung“ durch Klang auszudrücken.
 
@@ -173,7 +173,7 @@ Da es sich bei der Mobile Suit Gundam-Reihe um ein Werk handelt, das die Frage n
 
 ### 5.1 Live-/Coverversion des Titelsongs/Insert-Songs
 
-Ein weiterer Aspekt der Gundam-Musik ist ihre enge Beziehung zur Fan-/Live-Kultur. Anlässlich des 30-jährigen Jubiläums von Gundam wurde beispielsweise das Album „Gundam Rock“ veröffentlicht, in dem ausländische Musiker Gundam-Titellieder coverten, was zeigt, dass Musik über das Werk selbst hinausgegangen ist und zu einer „globalen Kultur“ geworden ist.
+Ein weiterer Aspekt der Gundam-Musik ist ihre enge Beziehung zur Fan-/Live-Kultur. Anlässlich des 30-jährigen Jubiläums von Gundam wurde beispielsweise ein Album namens „Gundam Rock“ veröffentlicht, in dem ausländische Musiker Gundam-Titellieder coverten. Dies zeigt, dass Musik über die Produktion hinausgegangen ist und zu einer „globalen Kultur“ geworden ist.
 
 Darüber hinaus gehören Gundam-Titellieder immer zum Repertoire von Anime-Song-Live-Events, die von Künstlern aufgeführt werden, und die Zahl der Erlebnisse, bei denen das Publikum mitsingt, nimmt zu. Auf diese Weise ist Musik zu einem Inhalt geworden, der nicht nur etwas zum „Hören“, sondern auch etwas zum „Mitmachen“ ist.
 
@@ -184,7 +184,7 @@ Diese Remixe/Arrangements tragen dazu bei, das „Hören von Gundam“ zu förde
 
 ---
 
-## Kapitel 6: Diskussion und Zukunftsaussichten
+## Kapitel 6: Diskussion und Zukunftsausblick
 
 ### 6.1 Was ist die Universalität der Gundam-Musik?
 
@@ -201,13 +201,13 @@ Darüber hinaus wird „Musik als Erlebnis“ wie Live-Shows, VR und Konzerte im
 ### 6.3 Die Zukunft von Gundam/Musik: Erwartete Entwicklungen nach 2025
 
 Ab 2023 wird die musikalische Qualität der Gundam-Werke durch Neuveröffentlichungen wie „The Witch of Mercury“ noch höhere Höhen erreichen. Beispielsweise sind Orchesteraufnahmen, Studioaufnahmen im Ausland und Vinyl-Neuveröffentlichungen in Arbeit.
-Nach 2025 wird erwartet, dass sich die Ära des „Musikhörens“ durch den Ausbau von Vertriebsplattformen, die Verknüpfung mit 4K/VR-Video, Live-Auftritten + Videoproduktion usw. vom „Musikhören“ zum „Musikerleben“ verschieben wird.
+Nach 2025 wird erwartet, dass wir durch den Ausbau der Vertriebsplattformen, die Verknüpfung mit 4K/VR-Video, Live-Auftritte + Videoproduktion usw. vom „Musikhören“ zum „Musikerleben“ übergehen.
 
 ---
 
 ## Anstelle einer Schlussfolgerung
 
-Man kann sagen, dass „Gundam noch einmal hören“ gleichbedeutend mit „Gundam noch einmal schauen“ ist. Dies liegt daran, dass Musik die Emotionen der Charaktere repräsentiert und den Verlauf der Geschichte vorgibt. Wir hoffen, dass Sie durch diesen Artikel Ihren Lieblings-Gundam-Titelsong wieder aufgreifen und der Geschichte und Geschichtenwelt, die er geschaffen hat, erneut lauschen können.
+Man kann sagen, dass „Gundam noch einmal hören“ gleichbedeutend mit „Gundam noch einmal schauen“ ist. Dies liegt daran, dass Musik die Emotionen der Charaktere repräsentiert und den Verlauf der Geschichte vorgibt. Wir hoffen, dass Sie durch diesen Artikel Ihren „Lieblings-Gundam-Titelsong“ noch einmal in die Hand nehmen und der Geschichte und Geschichtenwelt, die er geschaffen hat, noch einmal zuhören können.
 Um schließlich tiefer in die Musik von Gundam einzutauchen, sollten Sie unbedingt CD-Hüllen, Live-Videos, Komponisteninterviews und mehr suchen und sammeln. Die Reise des Klangs geht weit über Ihr Sichtfeld hinaus.
 
 ---
@@ -220,7 +220,7 @@ Nachfolgend finden Sie eine Chronologie mit Werken, Titelliedern/Einfügeliedern
 |-----|--------|------------------|------------------|--------|
 | 1979 | Mobile Suit Gundam (TV-Version) | Fliegen! Gundam | Yuji Matsuyama/Ko Ikeda | Erstes Titellied der TV-Serie |
 | 1985 | Mobiler Anzug Zeta Gundam | Mit Liebe zum Planeten des Wassers | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Eröffnungslied |
-| 1988 | Mobile Suit Gundam: Char's Counterattack (Film) | Jenseits der Zeit ~Jenseits des Mobius-Universums~ | Tetsuya Komuro/TM NETZWERK | Filmtitellied |
+| 1988 | Mobile Suit Gundam: Char's Counterattack (Film) | Jenseits der Zeit | Tetsuya Komuro／TM NETZWERK | Filmtitellied |
 | 1995 | Neuer mobiler Bericht Gundam Wing | Nur Kommunikation | Minami Takayama・Shiina Nagano/TWO-MIX | Eröffnung der TV-Fassung |
 | 2002 | Mobiler Anzug Gundam SEED | Wir waren so zusammen | Komponist: Hiroyuki Kono und andere/See-Saw | Die Entwicklung der Serienmusik beginnt |
 | 2022 | Mobile Suit Gundam: Hexe des Merkur | (Titellied/Drama-Begleitung) | Ko Omama/(Sänger) | Neueste Arbeit/überarbeitete Musikkomposition |
@@ -250,7 +250,7 @@ Nachfolgend finden Sie einen Abschnitt, in dem repräsentative Musiker/Sänger v
 
 - **・Tetsuya Komuro**
 
-Ein Komponist und Produzent, der die japanische Popmusikszene von den 1980er bis 1990er Jahren anführte. Er schuf den Titelsong „Beyond the Time~Beyond the Moebius Universe“ für „Mobile Suit Gundam: Char's Counterattack“, das 1988 veröffentlicht wurde, und markierte damit einen Wendepunkt in der Geschichte der Gundam-Musik.
+Ein Komponist und Produzent, der die japanische Popmusikszene von den 1980er bis 1990er Jahren anführte. Er schuf den Titelsong „Beyond the Time ~Beyond the Mobius Universe~“ für „Mobile Suit Gundam: Char's Counterattack“, das 1988 veröffentlicht wurde, und markierte damit einen Wendepunkt in der Geschichte der Gundam-Musik.
 
 - **Neil Sedaka**
 

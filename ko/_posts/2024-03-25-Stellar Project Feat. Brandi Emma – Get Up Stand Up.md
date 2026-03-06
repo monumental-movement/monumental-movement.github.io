@@ -16,7 +16,7 @@ title: Stellar Project Feat. Brandi Emma – Get Up Stand Up
 
 Stellar Project는 이탈리아 프로듀서인 Stefano Sorrentino의 하우스/댄스 프로젝트입니다.
 
-A면은 이탈리아의 하우스/테크노 DJ듀오Phunk Investigation에 의한 remix.
+A면은 이탈리아의 하우스/테크노 DJ 듀오 Phunk Investigation에 의한 remix.
 
 B면 1곡째는 덴마크의 프로듀서 Lars Frederiksen과 Søren Weile의 트랜스 프로젝트 F&W에 의한 remix.
 

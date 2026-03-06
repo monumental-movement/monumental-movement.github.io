@@ -10,13 +10,13 @@ tags:
 - House
 - Euro House
 - 90s
-title: Kid Creole And The Coconuts – J’ai mis la main à la pâte
+title: Kid Creole And The Coconuts – I Got My Handy On
 ---
 
 
-Kid Creole And The Coconuts est un groupe américain fondé par August Darnell avec Andy Hernandez et Adriana Kaegi. Son style est un mélange d'éléments de style disco, latin, caribéen et Callaway.
+Kid Creole And The Coconuts は、August DarnellがAndy Hernandez & Adriana Kaegiとともにはじめたアメリカのグループ。ディスコ、ラテン、カリブ海、キャロウェイスタイルの要素をミックスさせたスタイルが特徴。
 
-"I Got My Handy On" est un morceau House, Euro House sorti en 1997 par le label allemand SPV Recordings.
+「I Got My Handy On」は、ドイツのレーベルSPV Recordingsから1997年にリリースされたHouse, Euro Houseトラック。
 
 #### Liste des chansons
 ```md

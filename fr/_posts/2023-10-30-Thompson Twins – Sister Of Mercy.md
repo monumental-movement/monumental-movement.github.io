@@ -9,11 +9,11 @@ permalink: /fr/thompson-twins-sister-of-mercy/
 tags:
 - Pops
 - Synth-Pop
-title: Thompson Twins – Sœur de la Miséricorde
+title: Thompson Twins – Sister Of Mercy
 ---
 
 
-Thompson Twins est un groupe pop britannique formé en 1977. Initialement formé d'un groupe de sept musiciens, il est devenu en 1982 un groupe de trois musiciens composé de Tom Bailey, Joe Leeway et Alana Curry.
+Thompson Twins(トンプソン・ツインズ)は、1977年に結成されたイギリスのポップバンド。結成当初は7人編成だったが、1982年からはトム・ベイリー、ジョー・リーウェイ、アラナ・カリーの3人編成となった。
 
 #### Liste des chansons
 ```md

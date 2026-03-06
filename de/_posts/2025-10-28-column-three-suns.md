@@ -121,7 +121,7 @@ Das „Ma“, bei dem die Klangdichte dünn ist und wie Luft existiert, war der 
 | Luft | Französisches Duo | Analoges Feeling und schwebende Melodie |
 | Kornelius | Japan | Heimakustischer Klangbau |
 | Stereolab | Britisch und Französisch | Retro-Future-Sound |
-| Beirut | Amerika | Fahnenträger der Wiederbelebung des Akkordeons |
+| Beirut | Amerika | Fahnenträger der Akkordeon-Restaurierung |
 
 ---
 

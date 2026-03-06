@@ -78,13 +78,13 @@ Ash Ra Tempel begann als Projekt, das elektronische Klänge, Gitarre und Improvi
 
 ### Struktur mit Sequenzer wiederholen
 
-Das markanteste Element der Berliner Schule ist das wiederholte Klangmuster, das von analogen Sequenzern erzeugt wird. Ein festes Muster, das lange anhält und sich durch Filter- und Hüllkurvenoperationen allmählich ändert. Diese Methode betont eher das Zeitgefühl als das Taktgefühl.
+Das markanteste Element der Berliner Schule ist das sich wiederholende Klangmuster, das von analogen Sequenzern erzeugt wird. Ein festes Muster, das lange anhält und sich durch Filter- und Hüllkurvenoperationen allmählich ändert. Diese Methode betont eher das Zeitgefühl als das Taktgefühl.
 
 ### Langformat
 
-Während traditionelle Pop- und Rockmusik auf mehrminütige Liedstrukturen setzt, ist es in der Berliner Schulmusik keine Seltenheit, dass ein einzelnes Lied über 20 Minuten dauert. Dies ist eine Form, die durch die Entwicklung improvisatorischer Darbietungs- und Aufnahmetechnologien ermöglicht wurde.
+Während traditionelle Pop- und Rockmusik auf einem mehrminütigen Songaufbau basiert, ist es in der Berliner Schulmusik keine Seltenheit, dass ein einzelner Song mehr als 20 Minuten dauert. Dies ist eine Form, die durch die Entwicklung improvisatorischer Darbietungs- und Aufnahmetechnologien ermöglicht wurde.
 
-### Tondesign
+### Sounddesign
 
 Die Instabilität und Fluktuation analoger Synthesizer wurden Teil der Klangästhetik der Berliner Schule. Die winzigen Abweichungen, die durch Temperaturänderungen und Spannungsschwankungen verursacht werden, verleihen der mechanischen Wiederholung ein organisches Aussehen.
 
@@ -114,7 +114,7 @@ Im 21. Jahrhundert werden modulare Synthesizer neu bewertet. Die Methode der Ber
 
 ## Kapitel 7 Detaillierte Analyse der technischen Grundlagen
 
-Dieses Kapitel organisiert die spezifischen technischen Elemente, die die Berliner Schule begründeten, indem es sie in drei Schichten unterteilt: Musikinstrumente, Steuerungssysteme und Aufnahmetechniken.
+In diesem Kapitel werden wir die spezifischen technischen Elemente, die die Berliner Schule begründeten, organisieren, indem wir sie in drei Schichten unterteilen: Musikinstrumente, Steuerungssysteme und Aufnahmetechniken.
 
 ### Analoger modularer Synthesizer
 
@@ -130,7 +130,7 @@ Wichtig ist, dass die Sequenz auf einem „Zyklus“ und nicht auf einem „Takt
 
 ### Bandaufzeichnung und mehrschichtiger Aufbau
 
-Mehrspuraufnahmen und Tonbandbearbeitung spielten in der frühen Berliner Schule eine wichtige Rolle. Durch die Aufzeichnung langer Zeiträume improvisatorischer Darbietungen, die Bearbeitung und Überlagerung von Teilen davon wurde eine nichtlineare Struktur aufgebaut. Dies ist eine Einstellung, die das Studio als Kompositionsraum betrachtet und als Präzedenzfall für spätere DAW-ähnliche Produktionsdenken angesehen werden kann.
+Mehrspuraufnahmen und Tonbandbearbeitung spielten in der frühen Berliner Schule eine wichtige Rolle. Durch die Aufzeichnung langer Zeiträume improvisatorischer Darbietungen, die Bearbeitung und Überlagerung von Teilen davon wurde eine nichtlineare Struktur konstruiert. Dies ist eine Einstellung, die das Studio als Kompositionsraum betrachtet und als Präzedenzfall für spätere DAW-ähnliche Produktionsdenken angesehen werden kann.
 
 ---
 
@@ -146,7 +146,7 @@ Ein Format, bei dem sich eine bestimmte Sequenz durch den gesamten Song zieht un
 
 Eine Form, die auf anhaltenden Noten und langsamen Wechseln basiert, ohne eine klare Reihenfolge. Es spielt eine herausragende Rolle in den Werken von Klaus Schulze und wurde zum Prototyp für spätere Ambient- und Drone-Musik.
 
-### Bearbeitungstyp für Improvisationsaufnahmen
+### Art der spontanen Aufnahmebearbeitung
 
 Ein Format, das Live- oder Studioimprovisationen als Material nutzt und durch Post-Editing strukturiert wird. Diese Methode verwischt die Grenzen zwischen Komposition und Aufführung und positioniert das Werk als Aufzeichnung eines Ereignisses.
 
@@ -158,7 +158,7 @@ Ab Ende der 1970er Jahre weiteten Komponisten der Berliner Schule ihre Aktivitä
 
 Die Methode der Filmmusik der Berliner Schule zeichnet sich dadurch aus, dass sie eher auf räumliche Gestaltung als auf melodiegetriebene Musik setzt. Anstatt eine Geschichte zu illustrieren, spielt Musik eine Rolle beim Aufbau einer psychologischen und physischen Umgebung.
 
-Diese Praxis wurde in die spätere filmische Ambient- und Sounddesign-orientierte elektronische Musik übernommen.
+Diese Praxis wurde von der späteren filmischen Ambient- und Sounddesign-orientierten elektronischen Musik übernommen.
 
 ---
 
@@ -168,7 +168,7 @@ Um die Berliner Schule genau zu verstehen, ist es notwendig, ihre Beziehung zu K
 
 ### Vor Kraftwerk
 
-Vor Kraftwerk legte die Berliner Schule Wert auf Improvisation und lange Formen. Der Rhythmus ist fließend und das Stück wird eher als Übergang denn als Fortschritt wahrgenommen. Zu diesem Zeitpunkt war elektronische Musik ein Ausweg aus dem Rock und auch eine Befreiung von der akademischen elektronischen Musik.
+Vor Kraftwerk legte die Berliner Schule Wert auf Improvisation und lange Formen. Der Rhythmus ist fließend und das Stück wird eher als Übergang denn als Fortschritt wahrgenommen. Zu diesem Zeitpunkt war elektronische Musik ein Ausweg aus Rock und akademischer elektronischer Musik.
 
 ### Nach Kraftwerk
 

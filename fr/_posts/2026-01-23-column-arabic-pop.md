@@ -25,7 +25,7 @@ La pop arabe est un terme général désignant la musique populaire produite dan
 
 Cette musique a longtemps reposé sur la consommation locale, mais au 21ème siècle, à mesure que l'environnement de distribution changeait, l'exposition au marché mondial s'est rapidement développée.
 
-> L'internationalisation de la pop arabe a été accélérée par des changements dans la structure de distribution plutôt que par des changements dans les styles musicaux.
+> L'internationalisation de la pop arabe a été accélérée par des changements dans la structure de distribution plutôt que par des changements de style musical.
 
 ---
 

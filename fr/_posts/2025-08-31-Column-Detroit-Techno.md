@@ -37,7 +37,7 @@ Dirigés par Juan Atkins, Derrick May et Kevin Saunderson (pas le soi-disant « 
 
 ### Contexte culturel et social : l'ombre de la ville industrielle de Détroit
 
-Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y a grandi.
+Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y poussait.
 
 D’un autre côté, la culture des DJ radio afro-américains (par exemple des curateurs comme Electrifying Mojo) et la culture des clubs se sont mélangées à la musique électronique européenne (en particulier Kraftwerk) pour créer une direction unique (l’influence de Kraftwerk et d’autres est souvent soulignée).
 
@@ -79,7 +79,7 @@ La frontière entre DJ et producteur était floue et les chansons étaient affin
 
 #### **Kevin Saunderson / Centre-ville**
 
-Kevin a développé une approche pop de la techno club, et "Big Fun" et "Good Life" d'Inner City (1988) sont devenus des succès mondiaux et des réussites commerciales pour la musique de Détroit.
+Kevin a développé une approche pop de la techno de club, et "Big Fun" et "Good Life" d'Inner City (1988) sont devenus des succès mondiaux et des réussites commerciales pour la musique de Détroit.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr-zG-IXDyo?si=4WxnonAAN-XCcRet" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -93,7 +93,7 @@ L'un des chefs-d'œuvre de Jeff Mills, « The Bells », s'est vendu à plus de 5
 
 ---
 
-#### **Autre (extension de la scène)**
+#### **Autre (extension de scène)**
 
 Diverses générations ont suivi, dont Richie Hawtin (une deuxième génération dont les travaux ultérieurs ont comblé le fossé entre Détroit et la scène internationale).
 

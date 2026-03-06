@@ -13,7 +13,7 @@ title: Miss Monday – Neugierig
 ---
 
 
-„Curious“ ist einer der Signature-Songs der japanischen Singer-Songwriterin Miss Mandy. Sie ist auf Popmusik spezialisiert, die Elemente aus Jazz und Soul enthält, und ist bekannt für ihren kraftvollen Gesang und ihren emotionalen Ausdruck.
+„Curious“ ist einer der Signature-Songs der japanischen Singer-Songwriterin Miss Mandy. Sie ist auf Popmusik spezialisiert, die Elemente von Jazz und Soul enthält, und ist bekannt für ihren kraftvollen Gesang und ihren emotionalen Ausdruck.
 
 Dieses Lied vereint anspruchsvolle Produktion und reichhaltige musikalische Elemente, und Miss Mandys einzigartige Kunstfertigkeit und Ausdruckskraft verleihen dem Lied seinen ganz eigenen Charme.
 

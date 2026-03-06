@@ -82,7 +82,7 @@ Il arrive un moment où une série de sons élargit la conscience et transforme 
 ## Le champ de bataille du studio
 
 L'environnement de production de Ben Frost ressemble plus à un champ de bataille qu'à un simple studio d'enregistrement.
-Une pléthore de synthés modulaires, de micros modifiés et de compresseurs exagérés.
+Une tonne de synthés modulaires, de micros modifiés et de compresseurs exagérés.
 Au lieu d'"enregistrer" le son, vous **le saisissez comme si vous le frappiez**.
 
 Il ne rejette pas le hasard, mais affirme en même temps : « Chaque fréquence a une raison d'être ».
@@ -115,7 +115,7 @@ Il évoque la « mémoire du silence » que les humains ont perdue dans la civil
 
 ## Explosion de lumière : A U R O R A et la criticité du son
 
-**A U R O R A**, sorti en 2014, a marqué un tournant dans la carrière de Ben Frost.
+Sorti en 2014, **A U R O R A** a marqué un tournant dans la carrière de Ben Frost.
 Avec ce travail, il abandonne son approche précédente « son acoustique + électronique »,
 **J'ai construit un monde presque entièrement avec des particules sonores électroniques**.
 

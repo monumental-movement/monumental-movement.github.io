@@ -86,7 +86,7 @@ Une diva qui a défini le genre avec sa chanson signature « High Energy ». Il 
 ### Hi-NRG et la crise du VIH/SIDA
 
 Dans les années 1980, le VIH/SIDA a frappé la communauté LGBTQ et fait de nombreuses victimes.
-Durant cette période, Hi-NRG est devenu à la fois une évasion pour oublier ses chagrins et une bande-son de vie et de mort à la mémoire des camarades tombés au combat.
+Durant cette période, Hi-NRG est devenu à la fois une évasion pour oublier ses chagrins et une bande-son de vie et de mort pour commémorer les camarades tombés au combat.
 
 Sylvester lui-même est mort du sida, mais sa musique continue aujourd'hui d'être jouée dans les clubs.
 
@@ -110,3 +110,14 @@ Hi-NRG est plus qu'une simple « musique de danse » ; c'est un genre qui incarn
 Les rythmes entraînants et les synthés chatoyants étaient une célébration de la vie et un moyen d'échapper à l'oppression sociale pour les clubs gays des années 1980.
 
 Aujourd’hui encore, Hi-NRG continue d’être réévalué comme une présence essentielle lorsqu’on discute de la relation entre musique et sexualité.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1GDA17poIo?si=5xCGaeSoSqNLE74g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

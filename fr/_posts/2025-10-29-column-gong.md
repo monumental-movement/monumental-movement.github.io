@@ -47,7 +47,7 @@ color: #fff;
 * [Chapitre 4 Trilogie Radio Gnomes - Mythes et albums] (#chapitre4)
 * [Chapitre 5 Le Gong en tant que communauté - vie, création, membres fluides] (#chapitre5)
 * [Chapitre 6 Société et Gong – le point de contact avec la contre-culture](#chapitre6)
-* [Chapitre 7 Transformation et héritage——Gong Moellan et renaissance](#chapitre7)
+* [Chapitre 7 Transformation et héritage——Gong Moellan et Renaissance](#chapitre7)
 * [Chapitre 8 Le monde de la mythologie Gong — Personnages, iconographie et vision du monde] (#chapitre8)
 * [Chapitre 9 Épisodes et anecdotes] (#chapitre9)
 * [Chapitre 10 Chronologie et chiffres de référence](#chapitre10)
@@ -114,7 +114,7 @@ Une trilogie sortie entre 1973 et 1974.
 
 Ce ne sont pas de simples albums, mais des épopées mythologiques de « Planet Gong ». Prenant la forme d'une émission de radio, Zero the Hero et Pot Head Pixies apparaissent, et le voyage à travers l'espace et la conscience est représenté.
 
-|Caractère |Caractéristiques |
+| Caractère | Caractéristiques |
 | :-- | :-- |
 | Zéro le héros | Un voyageur qui voyage entre la Terre et la planète Gong |
 | Pixies à tête de pot | Esprits du bonheur et du chaos |
@@ -151,7 +151,7 @@ Le Gong était le symbole d’une pratique contre-culturelle qui ne séparait pa
 
 ---
 
-## Chapitre 7 Transformation et héritage —— Gong Moellan et renaissance {#chapter7}
+## Chapitre 7 Transformation et héritage——Moellan-Gong et renaissance {#chapter7}
 
 Après 1976, David Allen part.
 Pierre Moerlan prend le relais et le **Pierre Moerlan's Gong**, orienté jazz fusion, est né.
@@ -250,7 +250,7 @@ timeline
 
 ---
 
-## Qu'est-ce que Gong ?
+## Qu'était-ce que Gong ?
 
 Plutôt qu'un « groupe de musique », c'était **une autre façon d'être au monde**.
 Et même maintenant, à une certaine fréquence en nous,

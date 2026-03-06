@@ -20,7 +20,7 @@ Zeni Geva ist eine japanische Band, die 1987 in Tokio gegründet wurde.
 
 Ihr Musikstil beinhaltet Elemente aus Prog Rock, Hardcore, Heavy Metal, Noise Rock usw.
 
-Die Kernmitglieder sind KK.Null, der auch für seine Soloaktivitäten bekannt ist, und Mitsuru Tabata, der für seine Arbeit mit Acid Mothers Temple bekannt ist, aber die anderen Mitglieder haben sich im Laufe der Jahre verändert.
+Die Kernmitglieder sind KK.Null, bekannt für seine Soloarbeit, und Mitsuru Tabata, bekannt für seine Arbeit mit Acid Mothers Temple, aber die anderen Mitglieder haben sich im Laufe der Jahre verändert.
 
 Nach einer langen Pause kamen sie 2007 wieder zusammen und nahmen ihre Aktivitäten 2009 wieder auf.
 

@@ -9,12 +9,12 @@ permalink: /fr/synthesys-your-fantasy/
 tags:
 - Italo
 - Disco
-title: Synthesys – Votre fantaisie
+title: Synthesys – Your Fantasy
 ---
 
 
-"Votre fantasme" est
-Il s'agit d'un EP Synthesys sorti en 1994 par le label italien "In Out".
+「Your Fantasy」は、
+1994年にイタリアのレーベル「In Out」からリリースされたSynthesysのEPです。
 
 
 #### Liste des chansons

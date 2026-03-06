@@ -68,7 +68,7 @@ En 1991, Zeni Geva franchit un tournant majeur. Il s'agit d'une collaboration av
 Le premier album complet enregistré par Albini.
 La violence de Zeni Geva et le son sec et direct d'Albini s'accordent parfaitement, ce qui leur vaut de très bonnes critiques à l'étranger.
 
-### « Désir d'agonie (1993) »
+### "Désir d'agonie (1993)"
 - Sorti du label américain **Alternative Tentacles** (organisé par Jello Biafra)
 - La tournée à l'étranger commence sérieusement
 - A sorti de nombreux EP et singles à peu près à la même époque (Nai-Ha, Disgraceland, etc.)
@@ -93,7 +93,7 @@ Durant cette période, les chansons de Zeni Geva sont devenues plus longues et p
 
 ### « 10 000 années-lumière (2001) »
 - Augmentation des textures électroniques
-- Bruit/guitare métallique/signature rythmique inhabituelle/sons électroniques s'entrelacent en plusieurs couches
+- Combinaison multicouche de bruit/guitare métallique/signature rythmique inhabituelle/sons électroniques
 - Zeni Geva comme sculpture sonore, différente de la période des années 1980-90
 
 Le groupe a atteint sa maturité musicale au cours de cette période, mais en même temps, les activités solo et d'autres projets de Null ont augmenté et le temps entre les sorties en tant que groupe est devenu plus long.
@@ -113,7 +113,7 @@ Pour Zeni Geva, l'arrivée de Yoshida a encore une fois eu un fort impact.
 
 ---
 
-## 5. Deuxième période Zeni Geva (2010–) : Réévaluation et réattention globale
+## 5. Deuxième période Zeni Geva (2010–) : Réévaluation et attention mondiale renouvelée
 ### « Vivant et montant (2010) »
 - Source sonore en direct de la gamme 2009
 - La batterie perverse de Tatsuya Yoshida et le duel de guitares de Null & Tabata sont spectaculaires

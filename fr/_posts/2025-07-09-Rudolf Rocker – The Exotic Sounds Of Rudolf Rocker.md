@@ -10,13 +10,13 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: Rudolf Rocker – Les sons exotiques de Rudolf Rocker
+title: Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker
 ---
 
 
-Rudolf Rocker est un groupe de pop de chambre situationniste britannique formé par Jeremy Dyson, Mark Goodall et Steven Goodall. Jeremy Dyson, le claviériste, est également membre de la production de la sitcom de la BBC « The League of Gentlemen » et est actif en tant que scénariste et comédien.
+Rudolf Rocker(ルドルフ・ロッカー)は、Jeremy Dyson, Mark Goodall, Steven GoodallによるUKのシチュエーショニズムチェンバーポップアンサンブルバンド。キーボード担当のJeremy Dyson(ジェレミー・ダイソン)は、BBCのシットコム『リーグ・オブ・ジェントルマン 奇人同盟!』の制作メンバーでもあり脚本家・コメディアンとして活動している。
 
-"The Exotic Sounds Of Rudolf Rocker" est un album de rock indépendant sorti par le label Mook Records en 1998.
+「The Exotic Sounds Of Rudolf Rocker」は、1998年にレーベルMook Records からリリースされたインディーロックアルバム。
 
 #### Liste des chansons
 ```md

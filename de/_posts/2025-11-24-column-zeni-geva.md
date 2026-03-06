@@ -62,7 +62,7 @@ In ihren frühen Werken, die sich auf Noise Rock und Hardcore konzentrieren, kö
 ---
 
 ## 2. Leap (1991–1995): Begegnung mit Albini und internationale Anerkennung
-Im Jahr 1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
+1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
 
 ### „Totale Kastration (1991)“
 Das erste von Albini aufgenommene Album in voller Länge.
@@ -93,7 +93,7 @@ In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darun
 
 ### „10.000 Lichtjahre (2001)“
 - Erhöhte elektronische Texturen
-- Noise/metallische Gitarre/ungewöhnliche Taktart/elektronische Klänge verflechten sich in mehreren Schichten
+- Vielschichtige Kombination aus Noise/metallischer Gitarre/ungewöhnlicher Taktart/elektronischen Klängen
 - Zeni Geva als Klangskulptur, anders als in den 1980er-90er Jahren
 
 In dieser Zeit erreichte die Band ihre musikalische Reife, doch gleichzeitig nahmen Nulls Soloaktivitäten und andere Projekte zu und die Zeit zwischen den Veröffentlichungen als Band wurde länger.
@@ -158,7 +158,7 @@ Es wird sowohl im Inland als auch international weiterhin als eine Einheit bewer
 
 ---
 
-# Chronologie (Hauptchronologie von Zeni Geva)
+# Chronologie (Zeni Geva Hauptchronologie)
 
 | Jahr | Veranstaltungen |
 |---|---|

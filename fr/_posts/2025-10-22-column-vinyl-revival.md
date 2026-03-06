@@ -78,7 +78,7 @@ L’augmentation des ventes de disques n’est pas seulement une question de nos
 C'est un symbole du nouveau comportement de consommation des « expériences d'achat ».
 
 En particulier, de nombreux acheteurs de la génération Z appartiennent eux-mêmes à la « génération numérique ».
-Pour eux, les disques fonctionnent comme des « classiques inconnus » – un nouveau dispositif narratif.
+Pour eux, les disques fonctionnent comme des « classiques inconnus » = un nouveau dispositif narratif.
 
 ---
 

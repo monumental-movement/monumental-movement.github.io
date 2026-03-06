@@ -122,7 +122,7 @@ Die Einführung von ReBirth war nicht nur der Erfolg eines einzelnen Software-Sy
 
 ### „Modularisierung“ und Koordination der Produktionswerkzeuge
 ReBirth war nicht nur als eigenständige Software vollständig, sondern verfügte auch über „Verbindungsfunktionen“ wie MIDI-Kompatibilität, Sequenzer-Verknüpfung und Synchronisierung mit anderer Software, die das spätere ReWire-Protokoll nutzte. ReWire beispielsweise ist eine Technologie, die den Austausch von Audio/MIDI zwischen mehreren Anwendungen ermöglicht und diese Art der Erweiterbarkeit bereits seit den Tagen von ReBirth zeigt.
-Auf diese Weise entstand in der ReBirth-Ära natürlich die Richtung, „eine Kombination von Software/Modulen zu verwenden“ statt „komplett mit einer einzigen Software“.
+Auf diese Weise entstand während der ReBirth-Ära natürlich die Richtung, „eine Kombination von Software/Modulen zu verwenden“ statt „komplett mit einer einzigen Software“.
 
 ### Beschleunigung der Verbreitung von Plug-Ins/VST/Software-Synthesizern
 Von Ende der 1990er bis in die 2000er Jahre verbreiteten sich Plug-in-Formate wie VST (Virtual Studio Technology) und AU (AudioUnits). Man kann sagen, dass ReBirth das Software-Synthesizer-Genre „praktiziert“ hat und den Grundstein für den Übergang von einer Produktionsumgebung, die sich auf Hardware-Ausrüstung konzentriert, zu einer, die sich auf Software konzentriert, gelegt hat. Im Testbericht wird auch von der „ersten Soft-Synth-Emulation“ gesprochen.
@@ -130,7 +130,7 @@ Von Ende der 1990er bis in die 2000er Jahre verbreiteten sich Plug-in-Formate wi
 Diese industriellen Veränderungen stellten auch einen Wendepunkt dar, an dem Musikproduktionssoftware als „gleichwertig oder sogar besser als Ausrüstung“ positioniert wurde. Infolgedessen hat sich der Software-Instrumenten-/Effektmarkt erweitert und viele Unternehmen sind in den Markt eingetreten.
 
 ### Umstrukturierung des Produktionsprozesses/Workflows
-Noch wichtiger ist, dass sich der Produktionsablauf selbst geändert hat. In der Vergangenheit bestand der Hauptablauf darin, „die Ausrüstung zusammenzustellen, sie einzurichten und aufzuführen/aufzunehmen“, aber nach ReBirth ist ein „vollständig im Computer durchgeführter“ Ablauf Realität geworden: „Starten Sie die Software, erstellen Sie ein Muster, synchronisieren Sie MIDI und Audio und geben Sie es dann aus.“
+Noch wichtiger ist, dass sich der Produktionsablauf selbst geändert hat. In der Vergangenheit bestand der Hauptablauf darin, „die Ausrüstung zusammenzustellen, sie einzurichten und aufzuführen/aufzunehmen“, aber nach ReBirth ist ein „vollständig im Computer durchgeführter“ Ablauf Realität geworden: „Starten Sie die Software, erstellen Sie ein Muster, synchronisieren Sie MIDI und Audio und geben Sie es aus.“
 Diese Änderung war besonders bedeutsam im Kontext des „Heim-/persönlichen Studios“. Durch die Schaffung einer Umgebung, in der Platz, Ausrüstung und Aufwand bis zu einem gewissen Grad eingespart werden können, hat sich das Spektrum der Kreativen erweitert.
 
 ---
@@ -151,9 +151,9 @@ Nach dem Ende des Supports für ReBirth wurden seine Ideen und Funktionen von an
 Andererseits wurde die mobile Version einige Jahre nach der Veröffentlichung aufgrund von IP-Rechten/Markenproblemen auch aus dem App Store entfernt. Dieser Vorfall zeigte einmal mehr, dass softwarebasierte Geräte die „Grenze des geistigen Eigentums“ berühren.
 
 ### „Das Ende“ und seine Lesart
-Obwohl die ReBirth-Software in ihrer jetzigen Form nicht weiter weiterentwickelt wurde, hat ihr „Tod“ selbst mehrere Bedeutungsebenen.
+Obwohl die Software namens ReBirth im aktiven Einsatz nicht weiter ausgebaut wurde, hat ihr „Tod“ selbst mehrere Bedeutungsebenen.
 - Ein Grund dafür ist, dass der Trend von der Ausrüstung zur Software einen gewissen Reifegrad erreicht hat und in die „nächste Stufe“ übergegangen ist.
-- Darüber hinaus sind Probleme mit geistigem Eigentum, Emulation, Eigentum und Zugriff offensichtlicher als erwartet.
+- Darüber hinaus sind Fragen des geistigen Eigentums, der Emulation, des Eigentums und des Zugriffs offensichtlicher geworden als erwartet.
 - Und da persönliche Produktions-/Software-zentrierte Umgebungen alltäglich geworden sind, beginnt man, das Thema der „Reproduktion von Hardware-Geräten mit Software“ neu zu überdenken.
 Daher ist es sinnvoll, das „Ende“ von ReBirth nicht einfach als das Ende des Dienstes zu betrachten, sondern als einen „Punkt der Veränderung“ in der Produktionsumgebung.
 

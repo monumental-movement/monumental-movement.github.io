@@ -54,7 +54,7 @@ Cette période voit également l'essor des labels indépendants, des apparitions
 - **Merzbau** : En passant des équipements analogiques au bruit des ordinateurs portables, cela reflète les droits des animaux et le végétarisme.
 - **Firefighter** : Une existence qui brouille la frontière entre « groupe de bruit » et « art de la performance ».
 - **Boredoms** : Fusion psychédélique et noise, influençant la scène alternative américaine.
-- **Melt-Banana** : "Nano Core" combine la vitesse du hardcore et la texture du bruit.
+- **Melt-Banana** : "Nano Core" combine vitesse hardcore et texture sonore.
 
 ---
 
@@ -77,7 +77,7 @@ Cette période voit également l'essor des labels indépendants, des apparitions
 
 - **Caractéristiques** : Synonyme de « musique bruitiste ». Du rugissement chaotique des équipements analogiques, il est passé aux ordinateurs portables à la fin des années 1990.
 - **Modifications** : Acclamé internationalement avec des œuvres sur cassettes dans les années 80 et des sorties sur CD dans les années 90. Dans les années 2000, il intègre la « protection de l’environnement » et les « droits des animaux » dans sa musique.
-- **Anecdote** : L'album « Pulse Demon » est appelé « l'album le plus inécoutable » à l'étranger, et est considéré comme un morceau de bruit monumental.
+- **Anecdote** : L'album « Pulse Demon » est appelé « l'album le plus inécoutable » à l'étranger, et est considéré comme un morceau de noise monumental.
 
 | Albums | Caractéristiques | Liens |
 |--------------|------|--------------|
@@ -89,7 +89,7 @@ Cette période voit également l'essor des labels indépendants, des apparitions
 
 ### Escaliers de secours
 
-- **Caractéristiques** : Le premier « groupe de bruit » au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
+- **Caractéristiques** : Le premier "groupe de bruit" au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
 - **Changements** : Ils ont commencé leurs activités dans les années 80 et ont enregistré principalement des albums live dans les années 90. Depuis les années 2000, il développe des activités expérimentales comme le co-vedette avec des idoles.
 - **Anecdote** : Le fait de « dépecer un poulet » lors d'un spectacle live a provoqué un énorme débat dans les médias étrangers et a été traité comme un scandale social.
 

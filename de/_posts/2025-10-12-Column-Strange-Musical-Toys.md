@@ -11,8 +11,8 @@ tags:
 - History
 - 90s
 - 00s
-title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Klängen aus der
-  ganzen Welt'
+title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Geräuschen aus
+  der ganzen Welt'
 ---
 
 
@@ -95,8 +95,8 @@ Eine Fusion aus subtilen elektronischen Klängen und analogem Feeling. Das zarte
 
 ## Ⅳ. Europäische seltsame Tongeräte
 
-### Stylophone und Optigan
-Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein deutlicher Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
+### Stylophon und Optigan
+Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein markanter Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
 Der Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspielt und sich durch unvorhersehbare Muster und Rhythmen auszeichnet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -188,7 +188,7 @@ Es nimmt die Atmosphäre einer kleinen elektronischen Klangquelle vorweg, ähnli
 
 **Flying Lotus – Cosmogramma (2010)**
 
-Eine komplexe Textur, die elektronisches Spielzeug und kleine Synthesizer-Sounds kombiniert.
+Eine komplexe Textur, die elektronisches Spielzeug und kleine Synthesizer-ähnliche Klänge kombiniert.
 
 ---
 

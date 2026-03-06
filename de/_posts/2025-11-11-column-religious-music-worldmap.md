@@ -214,7 +214,7 @@ timeline
 Religiöse Musik berührt den menschlichen Geist zutiefst und sorgt für **Harmonie zwischen Körper, Geist und Gesellschaft**.
 Von alten Mantras bis hin zu moderner Ambient-Musik ist das zugrunde liegende Thema ein transzendentales Erlebnis durch Klang.
 
-Auch wenn sich die Religionen ändern, weist die Kraft des Klangs in die gleiche Richtung.
+Auch wenn sich die Religionen ändern, bleibt die Kraft des Klangs in derselben Richtung.
 Es ist der **universelle Gebetsrhythmus**.
 
 ---

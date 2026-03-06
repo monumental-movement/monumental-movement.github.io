@@ -24,7 +24,7 @@ Text: mmr｜Thema: Über Butthole Surfers‘ **Tonquelle, Live-Auftritt, Aufnahm
 
 
 Nur wenige Figuren im amerikanischen Untergrund der 1980er Jahre waren so bizarr, gewalttätig und halluzinatorisch wie die Butthole Surfers.
-Ihre Live-Shows werden oft mit den Begriffen „Shock Rock“, „Heavy Psychedelic“ und „Mayhem“ beschrieben, aber ihr Wesen ist viel komplexer.
+Ihre Live-Auftritte werden oft als „Shock Rock“, „Heavy Psychedelic“ und „Chaos“ beschrieben, ihr Wesen ist jedoch viel komplexer.
 
 *Verwirrung entsteht durch Berechnung,
 Dissonanz entsteht durch Improvisation,
@@ -54,7 +54,7 @@ Die Band wurde in Texas gegründet und hatte von Anfang an Elemente, die zum Syn
 
 Obwohl sich die Mitglieder im Laufe der Zeit ändern, sind die anfänglichen Kernmitglieder wie folgt.
 
-* **Gibby Haynes** – Gesang, Gitarre, visuelle Regie
+* **Gibby Haynes** – Gesang, Gitarre, visuelle Leitung
 * **Paul Leary** – Gitarre
 * **King Coffey** – Schlagzeug
 * **Teresa Taylor** – Schlagzeug (Doppeltrommelkonfiguration)

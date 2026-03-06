@@ -18,7 +18,7 @@ title: '[Column] History and evolution of DTM (DAW) — How the sound production
 
 Text: mmr｜Theme: A cultural device symbolizing the "democratization of music production"
 
-DTM (DeskTop Music) - The workflow, called "DTM" in Japanese and DAW (Digital Audio Workstation) in English-speaking countries, refers to a culture in which recording, editing, mixing, and production are completed using computers and software. In this article, we will organize the flow from its emergence to the present, along with a chronology, with a focus on "technological turning points" and "cultural impact."
+DTM (DeskTop Music) - Called ""DTM'' in Japanese and DAW (Digital Audio Workstation) in English-speaking countries, the workflow refers to a culture in which recording, editing, mixing, and production are completed using computers and software. In this article, we will organize the flow from its emergence to the present, along with a chronology, with a focus on "technological turning points" and "cultural impact."
 
 <hr>
 

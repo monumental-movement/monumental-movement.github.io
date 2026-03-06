@@ -15,7 +15,7 @@ title: Ito & Star – Sudoko Kid
 
 「Ito & Star – Sudoko Kid」는, Cr2 Records보다 2007년에 릴리스된 Ito(Itamar Levy)와 Star(Ophir Star)에 의한 미니멀 테크노.
 
-A면 2곡째는, 미니멀테크노/테크하우스 프로듀서 듀오 Alexi Delano & Xpansul에 의한 remix. B면은, 영국 출신의 DJ/프로듀서＆Saved Records의 창립자 Nic Fanciulli에 의한 remix.
+A면 2곡째는, 미니멀테크노/테크하우스 프로듀서 듀오 Alexi Delano & Xpansul에 의한 remix. B면은, 영국 출신의 DJ/프로듀서＆Saved Records의 창설자 Nic Fanciulli에 의한 remix.
 
 #### Tracklist
 ```md

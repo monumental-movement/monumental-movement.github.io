@@ -19,7 +19,7 @@ title: '[Kolumne] Taj Mahal Travel Group und Takehisa Kosugi – Eine Reise, um 
 ## I. Ausgangspunkt in den 1960er Jahren: Jenseits musikalischer Institutionen
 
 
-Text: mmr｜Thema: Eine Klangpilgerreise, bei der Improvisation und Umgebungsgeräusche ineinandergreifen – Eine Aufzeichnung einer Reise in die Außenseite der Musik, gezeichnet von Takehisa Kosugi und der Taj Mahal Travel Group
+Text: mmr｜Thema: Eine Klangpilgerreise, bei der Improvisation und Umgebungsgeräusche ineinandergreifen – Eine Aufzeichnung einer Reise an die Außenseite der Musik, gezeichnet von Takehisa Kosugi und der Taj Mahal Travel Group
 
 
 In den frühen 1960er Jahren blühte Japans Avantgarde-Musikszene in aller Stille auf.
@@ -133,7 +133,7 @@ Es wird hoch gelobt als „Klanglandschaft“, die Zeit, Raum und Klang perfekt 
 
 Auf dem Album gibt es weder Rhythmus noch Melodie.
 Stattdessen kreuzen sich der Klang von Bläsern, elektronischen Klängen, Stimmen und der Resonanz von Saiten sanft,
-Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang einzutauchen“.
+Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang hinein“ zu gehen.
 
 ---
 
@@ -147,7 +147,7 @@ Er beeinflusste auch Brian Eno und Robert Ashley.
 
 ---
 
-## IX. Spätere Aktivitäten und Auswertung
+## IX. Aktivitäten und Auswertung in späteren Jahren
 
 Seit den 1980er Jahren ist Kosugi Musikdirektor der Merce Cunningham Dance Company.
 Während er die Philosophie von John Cage übernahm, vertiefte er die Integration von Tanz und Klang.
@@ -158,7 +158,7 @@ Basierend auf seiner Überzeugung, dass „Klang ein natürliches Phänomen ist�
 ## X. Das Erbe von Takehisa Kosugi und der Taj Mahal Tourist Group
 
 Heute umfassen ihre Aktivitäten „Klangkunst“, „Feldaufnahmen“ und „Ambient-Musik“.
-Es wird als Quelle verschiedener musikalischer Trends neu bewertet.
+Es wird als Quelle verschiedener Musiktrends neu bewertet.
 Eine Einstellung, Schall als „Phänomen“ und nicht als „Material“ oder „Information“ zu hören.
 Das ist die wichtigste Botschaft, die Kosugi uns hinterlassen hat.
 

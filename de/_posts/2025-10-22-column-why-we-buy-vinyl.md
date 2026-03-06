@@ -70,7 +70,7 @@ Diese **Beschwerlichkeit erzeugt tatsächlich Bindung**.
 
 ## Kapitel 2: Erinnerungen im Lärm – Analog und Nostalgie
 
-In dem Moment, in dem die Nadel fällt, ertönt ein „Sah“-Geräusch.
+Das „knallende“ Geräusch in dem Moment, in dem die Nadel fällt.
 Aus irgendeinem Grund verspüren viele Menschen schon beim Hören Nostalgie.
 
 Dieses Phänomen wird psychologisch als „Proust-Effekt“ bezeichnet.
@@ -178,6 +178,14 @@ Der analoge Geist ist mehr als nur ein Retro-Hobby.
 Es ist ein Symbol für die Frage, wie Menschen mit Erinnerung, Berührung und Zeit interagieren.
 
 Die „Seele des Klangs“, die an der Spitze der Nadel sitzt, dreht sich leise weiter.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pxh2SnpHVc?si=C86GU4bYwAA_J9Rl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

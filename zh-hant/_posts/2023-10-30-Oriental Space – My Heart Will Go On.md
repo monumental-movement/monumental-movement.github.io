@@ -12,7 +12,7 @@ title: 東方空間－我心永恆
 ---
 
 
-Trance 翻唱泰坦尼克號主題曲 CELINE DION 的《MY HEART WILL GO ON》。
+タイタニック主題歌 CELINE DION(セリーヌ・ディオン)のMY HEART WILL GO ONのトランスカバー。
 
 Oriental Space 是岡本康介（trance 製作人、DJ）的一個計畫。
 

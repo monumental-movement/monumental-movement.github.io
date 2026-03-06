@@ -19,7 +19,7 @@ Dave Lee, également connu sous le nom d'Akabu, est un DJ, producteur et remixeu
 
 Dave Lee s'est produit sous de nombreux pseudonymes, dont Jakatta, Doug Willis, Raven Maize et Sessomatto.
 
-Ce disque, basé sur Little Tournesol de l'album The Love Connection de Freddie Hubbard, est un morceau house sorti par le label britannique NRK Sound Division en 2001.
+Ce disque, basé sur Little Tournesol de Freddie Hubbard tiré de son album The Love Connection, est un morceau house sorti par le label britannique NRK Sound Division en 2001.
 
 #### Liste des chansons
 ```md

@@ -15,7 +15,7 @@ title: Mouvement humain avec Sophie Moleta – L’amour est revenu
 
 Human Movement est un projet de Marc Mitchell et Paul Mack des îles Anglo-Normandes (Jersey Island) au Royaume-Uni.
 
-"Love Has Come Again" est sorti en 2001 par le label britannique de house progressive Renaissance.
+"Love Has Come Again" est sorti en 2001 par le label house progressif britannique Renaissance.
 
 Remix est réalisé par DJ Angel Moraes de Brooklyn, qui a travaillé sur des remix pour Pet Shop Boys et d'autres.
 

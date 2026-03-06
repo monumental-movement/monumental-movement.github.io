@@ -24,7 +24,7 @@ Arab pop is a general term for popular music produced in Arabic-speaking countri
 
 This music had long been premised on local consumption, but in the 21st century, as the distribution environment changed, exposure to the global market rapidly expanded.
 
-> The internationalization of Arab pop was accelerated by changes in the distribution structure rather than changes in musical styles.
+> The internationalization of Arab pop was accelerated by changes in the distribution structure rather than changes in musical style.
 
 ---
 
@@ -49,7 +49,7 @@ color: #fff;
 
 In the mid-20th century, Egypt had the largest film industry in the Arab world, and music was an integral part of film. The songs of Umm Kulthum and Abdel Haleem Hafez were widely distributed through movies and radio, creating a star image common to the Arab-speaking world.
 
-The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop gained the character of ""regional standard music'' from an early stage.
+The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop acquired the character of ""regional standard music'' from an early stage.
 
 > The concentration of mass media quickly connected Arab pop to a broader market.
 

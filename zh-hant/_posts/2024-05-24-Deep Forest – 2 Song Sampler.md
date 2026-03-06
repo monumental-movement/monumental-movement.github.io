@@ -16,7 +16,7 @@ title: Deep Forest – 2 首歌曲取樣器
 ---
 
 
-Deep Forest 是一個法國樂隊，由 Eric Mouquet 和 Michel Sanchez 組成。
+Deep Forest （ディープフォレスト）は、Eric Mouquet（エリック・ムケ） とMichel Sanchez（ミシェル・サンチェス）からなるフランスグループ。 
 
 Deep Forest 幫助普及了所謂的“全球流行音樂”，它結合了民族聲音和氛圍音樂。這張錄音帶中收錄的歌曲《Sweet Lullaby》大受歡迎，專輯在美國銷售超過 200 萬張。
 

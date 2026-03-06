@@ -17,7 +17,7 @@ title: Christiane F. Christiana – Wunderbar Health Dub
 
 자전적 서적 「Christiane F. 」 원제 「Wir Kinder vom Bahnhof Zoo」나 영화 등으로 알려진 Christane Vera Felscherinow에 의한 Christiane F. /Christiana 명의로의 Electro/Synth-pop/Leftfield 트랙. 독일 라벨 Playhouse에서 2003 년에 출시되었습니다.
 
-Christiane F의 음악 활동에는 Einstürzende Neubauten (아인슈투르젠 데 노이 바우 텐)의 Alexander Hacke (알렉산더 하케)와 F.M. Einheit가 깊이 관여했다.
+Christiane F의 음악 활동에는 Einstürzende Neubauten(아인슈투르젠데 노이바우텐)의 Alexander Hacke(알렉산더 하케)와 F.M. Einheit가 깊이 관여하고 있었다.
 
 
 #### Tracklist

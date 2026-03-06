@@ -63,7 +63,7 @@ Charakteristische Elemente sind wie folgt:
 - Rhythmus-Sektion mit ausgeprägtem Groove-Gefühl
 - Verwendung von E-Pianos und Synthesizern
 - Anspruchsvolle Chorarbeit
-- Liedtext über Stadtleben und Liebe
+- Songtext über Stadtleben und Liebe
 
 Zu den repräsentativen Künstlern gehören **Tim Maia, Cassiano, Hyldon und Carlos Dafé**.
 
@@ -117,7 +117,7 @@ timeline
 
 ## 4. Hintergrund der Neubewertung
 
-### 4-1. Sammler aus Übersee und der Markt für seltene Grooves
+### 4-1. Sammler aus Übersee und der Markt für seltene Rillen
 
 Seit den 1990er Jahren werden brasilianische Rare-Groove-Schallplatten zu hohen Preisen gehandelt, vor allem in Großbritannien und Japan. Insbesondere Cassianos *Realce* und Tim Maias frühe Disco-Werke erfreuten sich bei DJs und Sammlern im In- und Ausland großer Beliebtheit.
 

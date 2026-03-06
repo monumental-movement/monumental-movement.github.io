@@ -14,7 +14,7 @@ title: Famille Newton – Don Quichotte
 ---
 
 
-«Famille Newton – Don Quijote»
+«Famille Newton – Don Quichotte»
 Newton Family était un groupe disco hongrois actif du milieu des années 70 à la fin des années 80.
 
 #### Liste des chansons

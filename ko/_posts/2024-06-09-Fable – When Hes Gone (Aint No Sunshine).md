@@ -15,7 +15,7 @@ title: Fable – When He's Gone (Ain't No Sunshine)
 
 Fable Gez Dewar는 영국 출신의 음악/TV 프로듀서. Nick Hale과의 유닛 Heliotropic으로도 알려져 있습니다.
 
-UK를 거점으로 하는 레코드 라벨 3 Beat Music Ltd로부터 2000년에 릴리스된 「When He's Gone」은, 빌 위저스의 「Ain't No Sunshine」을 샘플링해, 80년대 초기의 파라다이스 차고 장면에서 하우스 보컬로서 캐리어를 스타트한 Carolyn Harding(캐롤라인 하딩)을
+UK를 거점으로 하는 레코드 라벨 3 Beat Music Ltd로부터 2000년에 릴리스된 「When He's Gone」은, 빌 위저스의 「Ain't No Sunshine」을 샘플링해, 80년대 초기의 파라다이스 차고 장면에서 하우스 보컬로서 캐리어를 스타트한 Carolyn Harding(캐롤라인 하딩)을 보컬
 
 #### Tracklist
 ```md

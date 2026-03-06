@@ -50,7 +50,7 @@ Sa ville natale est Orcas Island, dans l'État de Washington, au nord-ouest des 
 
 La brise de l'île, le bruissement du vent dans les arbres, le chant des oiseaux, les ondulations de l'eau... ces sensations naturelles et ces sons environnementaux ont été inculqués dans ses oreilles et son corps au fur et à mesure qu'elle grandissait.
 
-Parallèlement, il est exposé dès son plus jeune âge aux instruments traditionnels tels que le piano et la guitare et s'essaye à la composition musicale, développant ainsi son sens de la hauteur et de la musique. Cet environnement de « nature x instruments traditionnels x apprentissage indépendant » est devenu la base du passage ultérieur au module.
+At the same time, he was exposed to traditional instruments such as the piano and guitar from an early age, and tried composing music, developing his sense of pitch and music. Cet environnement de « nature x instruments traditionnels x apprentissage indépendant » est devenu la base du passage ultérieur au module.
 
 Ces expériences lui ont fourni les axes du « naturel », de la « spatialité » et de la « physicalité » alors qu'elle s'est ensuite tournée vers la musique électronique/modulaire.
 
@@ -62,7 +62,7 @@ En grandissant, elle a étudié la composition et la théorie du son dans un ét
 
 Cependant, après avoir quitté le cadre de ses années d'étudiant et être retourné dans sa ville natale, un changement inattendu se produit : il rencontre une Buchla 100 que lui a prêtée un voisin. Lorsqu’elle a acheté pour la première fois un synthétiseur modulaire, elle ne l’a pas vu comme un « outil fragile », mais comme une « co-star », « un être vivant » et « un corps électrique ».
 
-L'instabilité, le patch manuel et les changements sonores imprévisibles de Buchla - à travers une telle contingence et instabilité, elle choisit de faire ressortir le « son vivant », la « vibration », « l'espace » et la « physique » du synthé.
+L'instabilité de Buchla, les patchs manuels et les changements sonores imprévisibles - à travers une telle contingence et instabilité, elle choisit de faire ressortir le « son vivant », la « vibration », « l'espace » et la « physique » du synthé.
 
 Cette transformation est à la base de toutes ses œuvres ultérieures.
 
@@ -74,7 +74,7 @@ Cette transformation est à la base de toutes ses œuvres ultérieures.
 
 Ses premiers travaux comprenaient des morceaux folk et expérimentaux autoproduits. Cependant, ce n'est que lorsqu'il a commencé à enregistrer avec le Buchla Music Easel qu'il a commencé à explorer sérieusement la musique modulaire/électronique.
 
-Cet enregistrement a ensuite été publié sous la forme de Tides : Music for Meditation and Yoga. Carillons éoliens, bruissements d'arbres, chants d'oiseaux, bruits d'eau, petits bruits naturels - cette œuvre combine des sons environnementaux/enregistrements sur le terrain avec des formes d'onde électroniques modulaires.
+Cet enregistrement a ensuite été publié sous forme d'œuvre intitulée Tides: Music for Meditation and Yoga. Carillons éoliens, bruissements d'arbres, chants d'oiseaux, bruits d'eau, petits bruits naturels - cette œuvre combine des sons environnementaux/enregistrements sur le terrain avec des formes d'onde électroniques modulaires.
 
 À ce stade, cela n’a pas encore fait sensation. Cependant, la direction « modulaire + sons naturels/sons environnementaux + spatialité » était déjà claire et le sentiment sous-jacent de sa musique émergeait.
 
@@ -125,7 +125,7 @@ En mélangeant les formes d'onde électroniques de Buchla avec le bruissement de
 L'instabilité de Buchla, la nature manuelle des correctifs, les écarts et fluctuations incontrôlables - tout cela n'est pas accueilli comme des « défauts », mais plutôt comme des « marges créatives », des « changements chimiques inattendus » et des « coïncidences sonores ».
 
 - **Sensation corporelle et expérience vibratoire**
-Plutôt que de considérer le son comme quelque chose que vous entendez avec vos oreilles, nous le considérons comme quelque chose que vous ressentez avec votre corps et que vous ressentez sous forme de vibrations. Voix, respiration, mouvement, vibration : en les reliant aux vibrations électriques du synthétiseur, la musique est élargie en une perception qui utilise non seulement le sens auditif mais aussi le corps tout entier.
+Plutôt que de considérer le son comme quelque chose que vous entendez avec vos oreilles, nous le considérons comme quelque chose que vous ressentez avec votre corps et que vous ressentez sous forme de vibrations. Voix, respiration, mouvement, vibration : en les connectant aux vibrations électriques du synthétiseur, la musique est élargie en une perception qui utilise non seulement le sens de l'ouïe mais aussi le corps tout entier.
 
 - **Plusieurs couches de temporalité, de spatialité et de mémoire**
 Les drones, les ondulations, les pads et les enregistrements sur le terrain prolongent le temps, épaississent l'espace et créent des souvenirs, des émotions et des liens avec la nature dans le son.
@@ -136,7 +136,7 @@ Cette philosophie redéfinit les synthés modulaires non seulement comme des sou
 
 ## Evolution sonore — séries chronologiques et trajectoire sonore
 
-Ce qui suit est une histoire de son son, centrée autour de ses œuvres principales, oscillant entre « électronique/expérimental ⇔ organique/physique/spatial ».
+Ce qui suit est une trajectoire de son son, centrée autour de ses œuvres principales, alors qu'elle oscille entre « électronique/expérimental ⇔ organique/physique/spatial ».
 
 <div class="mermaid">
 graph TD

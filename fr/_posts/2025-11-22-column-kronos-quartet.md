@@ -11,8 +11,8 @@ tags:
 - 70s
 - 80s
 - 90s
-title: '[Chronique] Kronos Quartet : La trajectoire d''un quatuor à cordes qui continue
-  d''innover et de relever des défis'
+title: '[Chronique] Kronos Quartet : La trajectoire d''un quatuor à cordes qui ne
+  cesse d''innover et de relever des défis'
 ---
 
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## 2. De la formation aux premières activités (années 1973-années 1980)
 
-Depuis sa création à San Francisco, le Quatuor Kronos explore un style d'interprétation sortant du cadre traditionnel de la musique classique. Le fondateur David Harris a étudié la musique classique à l'Université de Californie à Berkeley, puis est devenu actif sur la scène musicale de San Francisco, formant un quatuor avec des amis partageant les mêmes idées.
+Depuis sa création à San Francisco, le Quatuor Kronos explore un style d'interprétation qui sort du cadre traditionnel de la musique classique. Le fondateur David Harris a étudié la musique classique à l'Université de Californie à Berkeley, puis est devenu actif sur la scène musicale de San Francisco, formant un quatuor avec des amis partageant les mêmes idées.
 
 Outre les œuvres baroques et classiques, le premier répertoire comprenait de nouvelles œuvres de compositeurs contemporains. Leur premier album, « Kronos Quartet », sorti en 1976, a été très apprécié par la critique pour sa combinaison de la nature ésotérique de la musique contemporaine et du haut niveau technique d'interprétation. Durant cette période, ils se produisent partout aux États-Unis, principalement à San Francisco, et se forgent une réputation de quatuor innovant.
 
@@ -59,7 +59,7 @@ Outre les œuvres baroques et classiques, le premier répertoire comprenait de n
 
 ## 3. Le défi de la musique moderne (années 1980-1990)
 
-Dans les années 1980, le Quatuor Kronos est devenu une présence importante dans le monde de la musique contemporaine américaine. Le Quatuor Kronos a commencé à collaborer avec des maîtres de la musique contemporaine tels que Philip Glass, Steve Reich et Terry Riley, et en interprétant et en enregistrant leurs œuvres, le Quatuor Kronos a acquis une renommée mondiale.
+Dans les années 1980, le Quatuor Kronos est devenu une présence importante dans la musique américaine contemporaine. Le Quatuor Kronos a commencé à collaborer avec des maîtres de la musique contemporaine tels que Philip Glass, Steve Reich et Terry Riley, et en interprétant et en enregistrant leurs œuvres, le Quatuor Kronos a acquis une renommée mondiale.
 
 Cette période a été caractérisée par des **innovations dans les techniques de performance**. En plus des techniques de jeu traditionnelles des instruments à cordes, le travail en studio s'est développé, utilisant l'électronique, introduisant des rythmes et des gammes de musique non occidentale et utilisant pleinement l'échantillonnage et l'enregistrement multipiste.
 
@@ -74,7 +74,7 @@ Cette période a été caractérisée par des **innovations dans les techniques 
 
 Des années 1990 aux années 2000, le Quatuor Kronos a commencé à dépasser les frontières de la musique classique, fusionnant avec des genres tels que la musique du monde, la pop, la musique de film et le jazz.
 
-L'innovation dans la musique de film est particulièrement remarquable avec le film « Requiem for a Dream » sorti en 2000. Composé par Clint Mansell, interprété par le Quatuor Kronos. « Lux Aeterna » du quatuor à cordes et d'autres pièces ont été extrêmement efficaces dans leur motivation répétée, créant des tensions et amplifiant l'émotion, tout cela est lié à la représentation psychologique du film.
+L'innovation dans la musique de film est particulièrement remarquable avec le film « Requiem for a Dream » sorti en 2000. Composé par Clint Mansell, interprété par le Quatuor Kronos. « Lux Aeterna » du quatuor à cordes et d'autres pièces ont été extrêmement efficaces dans leur motif répétitif, créant de la tension et amplifiant l'émotion, tout cela est lié à la représentation psychologique du film.
 
 ### Fonctionnalités de la bande originale du film
 
@@ -123,7 +123,7 @@ L'innovation dans la musique de film est particulièrement remarquable avec le f
 
 ---
 
-### Intégrer la musique de film dans la chronologie
+### Intégrer la musique du film dans la timeline
 
 
 <div class="mermaid">
@@ -166,7 +166,7 @@ En plus de se produire, le Quatuor Kronos se concentre également sur des projet
 
 * **Atelier/Programme pédagogique** : Orientation dans les universités et écoles de musique, formation de jeunes musiciens.
 * **Activités d'échange culturel** : Concerts à travers le monde, performances communes avec des musiciens locaux.
-* **Œuvres traitant de thèmes sociaux** : Production d'œuvres musicales liées aux conflits, aux questions environnementales et aux droits de l'homme.
+* **Œuvres traitant de thèmes sociaux** : Production d'œuvres musicales liées aux conflits, aux problèmes environnementaux et aux droits de l'homme.
 
 Leur dernier album approfondit encore leur collaboration avec la musique traditionnelle, combinant enregistrement et performance techniquement avancés.
 

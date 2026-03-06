@@ -15,7 +15,7 @@ title: David Bowie – 1. Outside
 ---
 
 
-프로듀서에게 Brian Eno를 맞아 1995년에 발표된 David Bowie의 18번째 앨범. 20곡째는 첫회반＋일본반 한정의 보너스 트랙.
+프로듀서에게 Brian Eno를 맞아 1995년에 출시된 David Bowie의 18번째 앨범. 20곡째는 첫회반＋일본반 한정의 보너스 트랙.
 
 #### Tracklist
 ```md

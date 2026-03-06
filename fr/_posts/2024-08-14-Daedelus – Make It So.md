@@ -12,18 +12,18 @@ tags:
 - Breaks
 - Electro
 - 00s
-title: Daedelus – Faites en sorte qu’il en soit ainsi
+title: Daedelus – Make It So
 ---
 
 
-Le producteur de musique américain Alfred Weisberg-Roberts, connu sous le nom de Daedelus, basé à Los Angeles, est un artiste qui construit un son unique grâce à des méthodes expérimentales mélangeant divers éléments musicaux. "Make It So" est un single extrait de l'album studio "Love to Make Music To" sorti par le prestigieux label britannique Ninja Tune en 2008.
+Daedelus名義で知られる、LAを拠点とするUS音楽プロデューサーAlfred Weisberg-Robertsは、様々な音楽要素を混ぜ合わせたエクスペリメント手法でユニークなサウンドを構築するアーティスト。「Make It So」は, 2008年にUKの名門レーベルNinja Tuneからリリースされスタジオアルバム「Love to Make Music To」からのシングルカット。
 
-La première chanson de la face A est un remix de XXXchange, ancien membre de Spank Rock.
+A面１曲目は、元Spank Rock（スパンク・ロック）のメンバーのXXXchangeによるremix。
 
-La première chanson de la face B est celle du vétéran de la musique électronique DJ Moonstarr.
-remixé par
+B面１曲目は、エレクトロニックミュージック界のベテランDJ Moonstarr
+によるremix。
 
-La deuxième chanson de la face B est un remix de Samiyam, un producteur hip-hop américain basé à Los Angeles qui travaille également avec le duo de production FLYamSAM avec Flying Lotus.
+B面２曲目は、LAを拠点とするUSヒップホッププロデューサーであり、Flying Lotus（フライング・ロータス）とのプロダクションデュオFLYamSAMとしても活動するSamiyamによるremix。
 
 #### Liste des chansons
 ```md

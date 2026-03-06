@@ -81,7 +81,7 @@ At the Sound Clash scene, the audience's reaction was everything. The improvisat
 
 ## Chapter 4 Digitalization and the rise of the dancehall generation
 
-In the mid-1980s, the conditions for music production changed completely with the spread of digital riddim. The environment in which music could be produced by a small number of people, in a short time, and at low cost gave the younger generation a decisive freedom.
+In the mid-1980s, the conditions for music production changed completely with the spread of digital riddim. The environment in which music could be produced by a small number of people, in a short period of time, and at low cost gave a decisive freedom to the younger generation.
 
 Dancehall artists such as Shabba Ranks value immediate reaction over long-term evaluation. Lyrics became everyday and direct, and music became completely connected to life.
 

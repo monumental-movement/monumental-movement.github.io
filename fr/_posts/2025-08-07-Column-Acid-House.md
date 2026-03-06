@@ -163,7 +163,7 @@ L’acid house a continué à évoluer de diverses manières à travers le monde
 
 ### Positionnement et réévaluation à l'époque moderne
 
-Aujourd’hui, l’acid house est réévaluée au milieu de la culture rétro et du renouveau des équipements analogiques. Il se démarque notamment des manières suivantes :
+Aujourd’hui, l’acid house est réévaluée au milieu de la culture rétro et du renouveau du matériel analogique. Il se démarque notamment des manières suivantes :
 
 - Retour classique aux festivals et raves
 
@@ -173,16 +173,16 @@ Aujourd’hui, l’acid house est réévaluée au milieu de la culture rétro et
 
 - Propagation explosive d'un avion clone TB-303 (reproduction d'équipement analogique)
 
-Plus qu’un simple genre musical, l’acid house reste au carrefour de la musique électronique et de la contre-culture.
+Plus qu’un simple genre musical, l’acid house continue d’être au carrefour de la musique électronique et de la contre-culture.
 
 
 <hr>
 
 ### L'acide ne tue jamais
 
-L’acid house est une culture musicale rare née de l’intersection de l’innovation technologique accidentelle et de l’air du temps. Plus de 30 ans plus tard, le son du TB-303 continue de résonner dans les clubs et les espaces numériques et continue d'inspirer les futurs musiciens.
+アシッド・ハウスは、偶発的な技術革新と時代の精神が交錯して生まれた、稀有な音楽文化です。30年以上が経過してもなお、TB-303のうねりはクラブフロアやデジタル空間に響き続け、未来の音楽家たちを刺激し続けています。
 
-Acid n’est pas une réverbération du passé, mais un mutant sonore qui continue d’évoluer.
+アシッドは、過去の残響ではなく、今もなお進化し続ける音のミュータントなのです。
 
 ---
 

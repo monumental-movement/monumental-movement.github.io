@@ -9,7 +9,8 @@ layout: post
 tags:
 - Hiphop
 - classic
-title: '[Column] Nate Dogg: The trajectory of the "king of hooks" who symbolizes G-Funk'
+title: '[Column] Nate Dogg: The trajectory of the "king of hooks" that symbolizes
+  G-Funk'
 ---
 
 
@@ -189,7 +190,7 @@ Snoop Dogg and Warren G, in particular, have said that their sound would not hav
 
 ---
 
-## 10. Nate Dogg Chronology
+## 10. Nate Dogg Timeline
 
 <div class="mermaid">
 timeline

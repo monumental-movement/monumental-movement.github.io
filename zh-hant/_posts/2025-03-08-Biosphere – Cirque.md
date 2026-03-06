@@ -17,7 +17,7 @@ title: 生物圈 – 馬戲團
 
 Geir Jenssen，也被稱為 Biosphere，是一位來自挪威的電子環境音樂家。生活在北極圈內的特羅姆瑟，我們的特徵是環境和環境房屋風格，靈感來自北極圈的自然和山脈。
 
-《Cirque》是英国厂牌 Touch 于 2000 年发行的一张专辑。這張專輯的靈感來自美國冒險家 Chris McCandless，他也是登山家兼作家 Jon Krakauer 的作品《Into the Wild》的靈感來源。第二首歌 Le Grand Dôme 出现在法国电子 DJ Miss Kittin 2006 年的混音专辑 A Bugged Out Mix 中。
+《Cirque》是英國廠牌 Touch 於 2000 年發行的專輯。這張專輯的靈感來自美國冒險家 Chris McCandless，他也是登山家兼作家 Jon Krakauer 的作品《Into the Wild》的靈感來源。第二首曲 Le Grand Dôme 出現在法國電子 DJ Miss Kittin 2006 年的混音專輯 A Bugged Out Mix 中。
 
 
 #### 曲目表

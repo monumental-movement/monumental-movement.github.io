@@ -10,26 +10,26 @@ tags:
 - Psy-Trance
 - Goa
 - Trance
-title: Récupérez des œuvres Psy-Trance
+title: Psy-Trance（サイケデリックトランス）作品をピックアップ
 ---
 
 
 
-« Un chamanisme sonore où s'entremêlent futur et mythologie, la Psy-Trance fonctionne »
+「未来と神話が交錯する音のシャーマニズム、Psy-Trance（サイケデリックトランス）作品群」
 
 ---
 
-## Œuvres en vedette de Psy-Trance
+## Psy-Trance（サイケデリックトランス）の注目作品
 
-Présentation des albums **Psy-Trance** recommandés répertoriés sur Monumental-Movement.jp avec des explications.
-La collection s'étend des chefs-d'œuvre de la transe gore des années 90 aux œuvres intégrant un design sonore moderne.
+Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリックトランス）** のおすすめ盤を解説付きで紹介します。  
+90年代のゴア・トランスの名作から、現代的なサウンドデザインを取り入れた作品まで幅広く揃っています。
 
 ---
 
 ### Shpongle / GMS & 1300 Mics – *The Crystal Skulls EP*
 <a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.webp"></a>
 
-- **Commentaire** : Une fusion des éléments fantastiques de Shpongle et de l'énergie totale de GMS. Un morceau représentatif de la Psy-Trance publié par TIP.World en 2001.
+- **解説**：Shpongleの幻想的な要素とGMSによるフルオン的エネルギーが融合。TIP.Worldから2001年に発表された、Psy-Tranceを代表する一枚。
 
 #### Liste des chansons
 ```md
@@ -51,12 +51,12 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 
 ---
 
-### SOLEIL. Projet – *Zwork*
+### S.U.N. Project – *Zwork*
 <a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
-- **Date de publication de la sortie** : 2025-09-05
+- **リリース掲載日**：2025-09-05  
 
-- **Explication** : Projet Gore/Psy-Trance formé en Allemagne. Une œuvre qui revient aux sources avec un son qui n'est pas sans rappeler l'âge d'or des années 90.
+- **解説**：ドイツ結成のゴア／Psy-Tranceプロジェクト。90年代黄金期を彷彿とさせるサウンドで、原点回帰的な一作。
 
 #### Liste des chansons
 ```md
@@ -92,11 +92,11 @@ F2. Deeper And Deeper
 
 ---
 
-### Psycomex – *Compilation de transe mexicaine EP4*
+### Psycomex – *Mexican Trance Compilation EP4*
 <a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
-- **Commentaire** : Une compilation qui résume la scène trance mexicaine. Une œuvre qui permet de profiter des caractéristiques régionales et de la diversité des styles.
+- **解説**：メキシコのトランス・シーンを集約したコンピレーション。地域性と多様なスタイルを味わえる作品。
 
 #### Liste des chansons
 ```md
@@ -119,11 +119,11 @@ B2  Teen Sluts–Foust On Doust
 
 ---
 
-### Projet Akasha – *Toujours*
+### Akasha Project – *Always*
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
  
 
-- **Commentaire** : Une fusion d'approches gore transe et techno. Un morceau expérimental qui comprend des éléments ambiants et procure une profonde sensation immersive.
+- **解説**：ゴアトランスとテクノ的アプローチが融合。アンビエント的な要素を含み、深い没入感を与える実験的トラック。
 
 #### Liste des chansons
 ```md
@@ -147,11 +147,11 @@ B2. Whales 'n' Wave (Edit)
 
 ---
 
-### Total Eclipse – *Mettre à jour les fichiers*
+### Total Eclipse – *Update Files*
 <a href="https://monumental-movement.jp/Total-Eclipse-Update-Files/"><img src="../assets/images/Total%20Eclipse%20%E2%80%93%20Update%20Files.webp"></a>
 
 
-- **Commentaire** : Une unité légendaire de France. Avec ses couches lourdes et sa composition majestueuse, c'est un album incontournable pour la génération Goa Trance.
+- **解説**：フランス発の伝説的ユニット。重厚なレイヤーと荘厳な構成で、ゴアトランス世代には必携のアルバム。
 
 #### Liste des chansons
 ```md
@@ -180,11 +180,11 @@ B2. Whales 'n' Wave (Edit)
 
 ---
 
-### Tim Schuldt – *EP Animatronique*
+### Tim Schuldt – *Animatronic EP*
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **Description** : Artiste allemand. Un travail ambitieux qui montre une Psy-Trance moderne avec un design sonore astucieux.
+- **解説**：ドイツ出身のアーティスト。クラフト感あるサウンドデザインで、現代的なPsy-Tranceを示す意欲作。
 
 #### Liste des chansons
 ```md
@@ -206,12 +206,12 @@ AA. Inner Child
 
 ---
 
-### Divers – *Ambiance de résonance*
+### Various – *Resonance Mood*
 <a href="https://monumental-movement.jp/Various-Resonance-Mood/"><img src="../assets/images/Various%20%E2%80%93%20Resonance%20Mood.webp"></a>
 
-- **Date de publication de la sortie** : 2024-05-13
+- **リリース掲載日**：2024-05-13  
 
-- **Commentaire** : Compilation du label MATSURI par DJ Tsuyoshi. Une superbe œuvre qui relie l’héritage transe des années 90 à la modernité.
+- **解説**：DJ Tsuyoshiが手掛けるMATSURIレーベルのコンピレーション。90年代からのトランス遺産と現代性を繋ぐ良作。
 
 #### Liste des chansons
 ```md
@@ -239,11 +239,11 @@ F. Sandman – Target Eye
 
 ---
 
-### Cotes – *Cotes E.P*
+### Odds – *Odds E.P*
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 
-- **Commentaire** : Sorti en 1995 par Flying Rhino Records. Une pièce classique représentant l’âge d’or de Goa Trance.
+- **解説**：Flying Rhino Recordsから1995年にリリース。ゴアトランス黄金期を代表するクラシックな一枚。
 
 #### Liste des chansons
 ```md
@@ -261,5 +261,5 @@ AA. Umbellikilisis
 <hr>
 <br>
 
-### **Charme de Psy-Trance**
-Fantastique, spirituel et parfois expérimental. Venez découvrir le monde de la transe psychédélique qui s'est poursuivi sans interruption depuis les années 90 jusqu'à nos jours.
+###  **Psy-Tranceの魅力**  
+幻想的でスピリチュアル、時に実験的。90年代から現代まで脈々と続くサイケデリック・トランスの世界を、ぜひ体感してみてください。

@@ -192,7 +192,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 ### 環境在現代的作用
 
-**ゲーム音楽**： [Silent Hill](https://amzn.to/3IzI2nf), [Journey](https://amzn.to/4nrbICj), [No Man's Sky](https://amzn.to/3W14b0P) などで使用。
+**遊戲音樂**：用於《寂靜嶺》(https://amzn.to/3IzI2nf)、《征途》(https://amzn.to/4nrbICj)、《無人深空》(https://amzn.to/3W14b0P)等。
 
 **ASMR/冥想/壓力緩解**：也用於心理健康和保健行業。
 

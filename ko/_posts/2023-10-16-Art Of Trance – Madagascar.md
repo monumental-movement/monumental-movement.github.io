@@ -14,7 +14,7 @@ title: Art Of Trance – Madagascar
 
 A면은 Matthias Hoffmann과 Ralf Hildenbeutel의 독일 트랜스 프로젝트 Cygnus X에 의한 remix.
 
-B면 1곡째는, 네덜란드의 DJ/프로듀서 Ferry Corsten(페리 코스텐/System F)에 의한 remix.
+B면 1곡째는 네덜란드 DJ/프로듀서 Ferry Corsten(페리 코스텐/System F)에 의한 remix.
 
 #### Tracklist
 ```md

@@ -10,22 +10,21 @@ tags:
 - Experimental
 - Tribal
 - 70s
-title: '[Chronique] Shoji Yamashiro (Riki Ohashi) et le groupe de divertissement Yamashiro
-  - Exploration du son, du groupe et de l''environnement en tant qu''art global'
+title: 【コラム】 山城祥二（大橋力）と芸能山城組 ― 音響・群れ・環境の総合芸術としての探求
 ---
 
 
-## Prologue : Là où le cyber et le primitif se croisent - Une personne nommée Shoji Yamashiro
+## 序章：電脳と原始が交差する場所 ― 山城祥二という人物
 
 
-Texte : mmr｜Thème : À propos du divertissement Yamashiro-gumi formé au début des années 1970
+文：mmr｜テーマ：1970年代初頭に結成された芸能山城組について
 
 
-Dans les années 1970, il y avait une personne qui se démarquait à la frontière entre la musique et le visuel japonais.
-**Shoji Yamashiro (vrai nom : Riki Ohashi)**. Il est diplômé du Département de chimie agricole de la Faculté d'agriculture de l'Université de Tohoku et s'intéresse aux sciences de la vie, à l'information et au son. Avec un fond de spéculation et de sensibilité scientifiques, il a positionné l'art comme « une expérience pour explorer la relation entre les humains et l'environnement ».
+1970年代、日本の音楽と映像の境界で異彩を放った存在がいる。  
+**山城祥二（本名：大橋力）**。東北大学農学部農芸化学科を卒業し、生命科学・情報・音響に関心を持った彼は、科学的な思索と感性を背景に、芸術を「人間と環境の関係を探る実験」として位置づけた。
 
-Le lieu de cette expérience était Geinoh Yamashirogumi, créé au début des années 1970.
-Plus qu'un simple groupe de musique, c'était une « communauté pour explorer de manière globale la relation entre le son, les humains et la société » et un « lieu » qui intégrait la musique, l'ethnologie, la théorie de l'information et l'anthropologie.
+その実験の場こそが、1970年代初頭に結成された**芸能山城組（Geinoh Yamashirogumi）**である。  
+単なる音楽グループではなく、「音と人間と社会の関係を総合的に探るための共同体」として、音楽・民族学・情報理論・人類学を統合する“場”であった。
 
 ---
 
@@ -43,111 +42,111 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 : Naissance du divertissement Yamashiro Gumi - L'art en "groupe"
+## 第一章：芸能山城組の誕生 ― 「群れ」としての芸術
 
-Le point de départ du Geino Yamashiro Gumi a été la formation d'un « collectif » de personnes réunies à travers les universités, les entreprises et les professions.
-Médecins, enseignants, ingénieurs, étudiants, femmes au foyer – des personnes de professions et de philosophies différentes partageaient un désir intuitif de « vivre dans le son ».
+芸能山城組の出発点は、大学・企業・職業を越えて集まった人々による「群れ（コレクティヴ）」の形成だった。  
+医師、教師、技術者、学生、主婦――職業も思想も異なる人々が、「音の中で生きる」という直観的な欲求を共有していた。
 
-Dès le début, Yamashiro a défini l’art non pas comme un acte d’expression individuelle, mais comme l’expression d’un groupe.
-Par conséquent, leurs répétitions n’étaient pas seulement des performances, mais le processus de « génération sonore d’un champ ».
-Le moment où le corps, la voix, l'espace et le temps se réunissent pour résonner, tel est le point de départ de Geino Yamashiro Gumi.
+当初から山城は、芸術を個人の表現行為ではなく、**「群れ」の表現**と定義した。  
+そのため、彼らの稽古は単なる演奏ではなく、「音が場を生成する」プロセスそのものだった。  
+身体、声、空間、時間が一体となって共鳴する瞬間――それが芸能山城組の出発点である。
 
-> "La musique est la structure même de la conscience humaine. C'est pourquoi les sons d'un groupe sont liés aux sons de la société."
-> — Shoji Yamashiro (1982)
-
----
-
-## Chapitre 2 : 80 types de « sons de groupes » du monde entier – Quête d'une structure musicale universelle
-
-Geino Yamashiro-gumi a été actif de la fin des années 1970 aux années 1980.
-Il a en fait interprété et étudié **``80 types de spectacles ethniques du monde entier''**.
-Il ne s'agissait pas simplement d'une collection de musique folklorique, mais d'une exploration de la question fondamentale : « Quel est le son que les humains émettent en tant que groupe ? »
-
-### ◇ Exemples d'objectifs de recherche/performance
-
-| Région | Musique/Rituels | Axe de recherche |
-|------|-------------|------------|
-| Bali, Indonésie | Kecak, Gamelan | Transe collective et structure temporelle |
-| Forêt tropicale africaine | Chant de la forêt pygmée | Synchronisation des sons environnementaux et du corps |
-| Europe de l'Est Bulgarie | Chœur de femmes | Structure métrique et harmonique inégale |
-| Caucase Géorgie | Chœur d'hommes | Résonance spatiale et socialité |
-| Tibet/Mongolie | Homie chantant | Résonance laryngée et séparation harmonique |
-
-Plutôt que de les traiter comme des « matériaux », Yamashiro et al. observé et reconstruit leur structure, leur fonction et leur signification sociale.
-En particulier, la « structure acoustique qui transcende le temps et l'espace » de la musique gamelan à Bali est fondamentale pour la « création de groupe », l'« environnement informationnel » et les « études environnementales sonores » de Geino Yamashiro Gumi.
-
-> "Les gens forment des groupes basés sur le son. Le son évolue à travers les groupes."
-> — Shoji Yamashiro
+> 「音楽とは人間の意識の構造そのものだ。だからこそ、群れの音は、社会の音に通じる。」  
+> — 山城祥二（1982年）
 
 ---
 
-## Chapitre 3 : Atteindre « AKIRA » – Fusion de l’électronique et de l’ethnicité
+## 第二章：世界80系統の「群れの音」 ― 普遍的音楽構造への探求
 
-En 1988, Geino Yamashiro Gumi compose la musique du film d'animation de renommée mondiale « AKIRA » (réalisé par Katsuhiro Otomo).
-C'est là que la philosophie acoustique de Yamashiro atteint son apogée.
+芸能山城組は、1970年代後半から1980年代にかけて、  
+**「世界80系統に及ぶ民族パフォーマンス」**を実際に演奏・研究してきた。  
+それは単なる民族音楽の収集ではなく、**「人間が群れとして発する音とは何か」**という根源的問いへの探求であった。
 
-### ◇ Philosophie de conception acoustique
+### ◇ 研究・演奏対象の例
 
-- Polyrythmie gamelan de Bali × impulsion électronique
-- Chant ésotérique tibétain x audio échantillonné
-- Réverbérations urbaines et bruits de foule × rythme de construction spatiale
+| 地域 | 音楽・儀礼 | 研究焦点 |
+|------|-------------|-----------|
+| インドネシア・バリ島 | ケチャ、ガムラン | 集団的トランスと時間構造 |
+| アフリカ熱帯林 | ピグミーの森林歌唱 | 環境音と身体の同期 |
+| 東欧ブルガリア | 女声合唱 | 不均等拍子と倍音構造 |
+| コーカサス・ジョージア | 男声合唱 | 空間共鳴と社会性 |
+| チベット・モンゴル | ホーミー唱法 | 喉頭共鳴と倍音分離 |
 
-Il ne s'agissait pas seulement d'un accompagnement théâtral, mais d'une « construction de mythes par le son », une tentative de relier la ville et le primitif, l'avenir et la mémoire.
-La bande originale de « AKIRA » a été réévaluée au niveau international comme une fusion de musique électronique et de sons ethniques.
-Il a également influencé des artistes de renommée mondiale tels que Aphex Twin, Ryuichi Sakamoto et Cornelius.
+山城らは、これらを「素材」として扱うのではなく、**構造・機能・社会的意義を観察し再構築**した。  
+特にバリ島ガムラン音楽の「時間／空間を超える音響構造」は、芸能山城組の「群れ創り」「情報環境」「音の環境学」に通底している。
+
+> 「人は音によって群れを形成する。群れによって音は進化する。」  
+> — 山城祥二
 
 ---
 
-## Chapitre 4 : Environnement Sonore – Science et Philosophie de « l'Écoute »
+## 第三章：『AKIRA』への到達 ― 電子と民族の融合
 
-Après « AKIRA », Yamashiro développe le concept des « études environnementales du son » en parallèle de ses activités artistiques.
-Il a reconsidéré le son non seulement comme un stimulus auditif, mais comme un « point de contact entre l'information et l'écologie ».
+1988年、世界的アニメーション映画『AKIRA』（監督：大友克洋）の音楽を芸能山城組が担当。  
+ここで山城の音響哲学は頂点を迎える。
 
-### ◇ Principaux travaux et idées
+### ◇ 音響設計の理念
 
-| Titre du livre | Éditeur/année | Résumé du contenu | Lien |
-|------|-------------|------------|
+- バリ島ガムランのポリリズム × 電子パルス  
+- チベット密教の唱法 × サンプリング音声  
+- 都市の残響と群集音 × 空間構築的リズム  
+
+それは単なる劇伴ではなく、「音による神話構築」であり、都市と原始、未来と記憶を接続する試みだった。  
+『AKIRA』のサウンドトラックは、**電子音楽と民族音響の融合点**として国際的に再評価され、  
+のちの世界的アーティストたち――Aphex Twin、坂本龍一、コーネリアス――にも影響を与えた。
+
+---
+
+## 第四章：音の環境学 ― 「聴くこと」の科学と哲学
+
+『AKIRA』以降、山城は芸術活動と並行して「音の環境学」という概念を展開した。  
+音を単なる聴覚刺激ではなく、「情報と生態の接点」として捉え直したのである。
+
+### ◇ 主な著作と思想
+
+| 書名 | 出版社／年 | 内容概要 | リンク |
+|------|-------------|-----------|
 | 『音と文明―音の環境学ことはじめ』 | 岩波書店, 2003 | 熱帯雨林の音やガムラン音楽が脳に与える活性を調査 | [Amazon](https://amzn.to/4oOyqoh) |
 | 『ハイパーソニック・エフェクト』 | 岩波書店, 2017 | 健康と文明のあり方までを鋭く問いかける記念碑的著作 | [Amazon](https://amzn.to/3JADOfD) |
 
-Ici, Yamashiro a défini le son comme un « protocole de communication entre les humains et l'environnement ».
-Le son n’est pas un symbole, mais une activité écologique et sociale en soi.
-Cette idée fait écho à des recherches ultérieures sur le « paysage sonore » et « l’écologie des médias ».
+ここで山城は、音を「人間と環境の通信プロトコル」として定義した。  
+音は記号ではなく、生態的・社会的活動そのもの――。  
+この思想は、後の「サウンドスケープ」や「メディア・エコロジー」研究とも共鳴する。
 
-> « Le son est une interface entre l'environnement et l'information.
->La musique est un algorithme par lequel un troupeau se synchronise avec son environnement. »
-
----
-
-## Chapitre 5 : La sensibilité en tant que scientifique - Physiologie de l'audition et son social
-
-Sa formation scientifique à la Faculté d'Agriculture de l'Université du Tohoku a donné à Yamashiro une perspective analytique unique.
-Fort d'une compréhension de la chimie, de la biologie et de l'environnement, il a eu l'idée de considérer le son non seulement comme un phénomène physique, mais également comme faisant partie des activités de la vie.
-
-Sa démarche est un aller-retour entre observation scientifique et pratique artistique.
-Plutôt qu'un laboratoire, le groupe humain lui-même est traité comme un « système acoustique ».
-Il existait une « éthique expérimentale » qui cherchait à s'adapter aux rythmes de la vie et de la société.
-
-> « Les sons que nous entendons sont des images du monde reconstruit dans notre cerveau.
-> La musique est donc l'acte de répéter la structure même du monde. »
+> 「音とは環境と情報のインターフェースである。  
+>  音楽とは、群れが自己を環境と同調させるアルゴリズムなのだ。」
 
 ---
 
-## Chapitre 6 : Les foules au 21e siècle - L'importance des arts du spectacle dans la société de l'information
+## 第五章：科学者としての感性 ― 聴覚の生理と社会の音
 
-À l’ère moderne des médias sociaux et de l’IA, le concept d’« essaim » redevient important.
-On peut dire que les pratiques du Geino Yamashiro Gumi anticipaient la « régénération de la résonance communautaire ».
+東北大学農学部での理系的訓練は、山城に独自の分析視点を与えた。  
+化学・生物・環境の理解を背景に、「音を物理現象としてだけでなく、生命活動の一部」として捉える発想が生まれた。
 
-De « l’individu » au « groupe ».
-De « l’information » à la « résonance ».
-Les idéaux défendus par Geino Yamashiro Gumi dans les années 1970 sont aussi le prototype d'une « nouvelle communauté » dans une société en réseau.
+彼のアプローチは、科学的観察と芸術的実践の往還である。  
+実験室ではなく、人間集団そのものを“音響系”として扱う。  
+そこには、生命のリズムと社会のリズムを一致させようとする「実験的倫理」があった。
 
-La musique n'est pas quelque chose qui « communique », mais quelque chose qui « résonne avec ».
-Shoji Yamashiro a exploré les arts du spectacle en tant qu’écologie de l’information et de l’émotion.
+> 「我々が聴く音とは、脳の中で再構築された世界の写像である。  
+>  だから音楽とは、世界の構造そのものをリハーサルする行為だ。」
 
 ---
 
-## Chronologie : L'histoire de Shoji Yamashiro et du groupe de divertissement Yamashiro
+## 第六章：21世紀の群れ ― 情報社会における芸能の意義
+
+現代のSNSやAI時代において、「群れ」という概念は再び重要になりつつある。  
+芸能山城組の実践は、**共同体的共鳴の再生**を先取りしていたともいえる。
+
+「個」から「群れ」へ。  
+「情報」から「共鳴」へ。  
+芸能山城組が1970年代に唱えた理想は、ネットワーク社会における「新しい共同体」の原型でもある。
+
+音楽は「伝える」ものではなく、「響き合う」もの。  
+山城祥二が探求したのは、**情報と情動のエコロジー**としての芸能だった。
+
+---
+
+## 年表：山城祥二と芸能山城組の歩み
 
 <div class="mermaid">
 
@@ -169,7 +168,7 @@ timeline
 
 ---
 
-### Chaîne Youtube officielle
+### 公式Youtubeチャンネル
 
 [芸能山城組](https://www.youtube.com/@芸能山城組)
 

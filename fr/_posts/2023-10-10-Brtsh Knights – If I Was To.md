@@ -9,13 +9,13 @@ permalink: /fr/brtsh-knights-if-i-was-to/
 tags:
 - House
 - UK Garage
-title: Brtsh Knights – Si je devais le faire
+title: Brtsh Knights – If I Was To
 ---
 
 
-Sweyn Jupiter (David Barseghian), également connu sous le nom de Brtsh Knights, est un compositeur/claviériste basé à Londres.
+Brtsh KnightsことSweyn Jupiter（David Barseghian）は、ロンドンを拠点に活動するコンポーザー／キーボード奏者。
 
-"If I Was To" est sorti en 2013 sur le label de singles Technicolor de Ninja Tune.
+「If I Was To」は、Ninja TuneのシングルレーベルTechnicolorより2013年にリリースされた。
 
 #### Liste des chansons
 ```md

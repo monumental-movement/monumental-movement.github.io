@@ -151,7 +151,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 
 ---
 
-### Anekdoten zu jedem Künstler und seiner Ausrüstung
+### Anekdoten über jeden Künstler und seine Ausrüstung
 
 #### Alan Lomax und Ampex
 

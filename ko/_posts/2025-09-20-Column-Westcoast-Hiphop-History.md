@@ -62,7 +62,7 @@ color: #fff;
 *** 주요 라벨**: Death Row Records, Priority, Ruthless
 * **문화적 배경**: G-Funk는 70s 펑크 샘플링과 두꺼운 신디베이스로 저 라이더와 자동차 문화와 밀접하게 연결되어 있습니다.
 ***동서 대립**: 동해안과의 항쟁(East Coast vs West Coast)이 격화되어 2Pac과 The Notorious B.I.G.라는 비극이 일어난다.
-* **영상・패션**：로우 라이더, 비치, 사우스 센트럴의 거리를 무대로 한 MV가 정착. Dickies, Chuck Taylor, 두건이 상징적입니다.
+* **영상·패션**: 로우 라이더, 비치, 사우스 센트럴의 거리 풍경을 무대로 한 MV가 정착. Dickies, Chuck Taylor, 두건이 상징적입니다.
 
 **추천 앨범(발췌)**
 
@@ -97,7 +97,7 @@ color: #fff;
 *** 대표적인 프로듀서**: DJ Mustard, Hit-Boy, Flying Lotus
 *** 주요 라벨**: Top Dawg Entertainment (TDE), Stones Throw
 * ** 문화적 배경 ** : Kendrick Lamar 등의 등장으로 "콘셔스"한 표현이 복권. 인터넷과 SNS가 음악·패션 유통을 가속시켜 세계적 영향력이 강해진다.
-***영상·패션**: MV는 영화적이고 메시지성이 강하고, 패션은 하이브랜드와 스트리트의 융합(Gucci, Off-White, Supreme 등).
+* **영상·패션**: MV는 영화적이고 메시지성이 강하고, 패션은 하이브랜드와 스트리트의 융합(Gucci, Off-White, Supreme 등).
 
 **추천 앨범(발췌)**
 
@@ -127,7 +127,7 @@ color: #fff;
 * [Jeff Chang『Can’t Stop Won’t Stop: A History of the Hip‑Hop Generation』](https://amzn.to/4gCxTmv)
 * [Eithne Quinn『Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap』](https://amzn.to/4pxcP4X)
 * [Cheryl Keyes『Rap Music and Street Consciousness』](https://amzn.to/3IuNrMj)
-* 『The Source』『XXL』『OG Magazine』 아카이브 기사(선정)
+*『The Source』『XXL』『OG Magazine』 아카이브 기사(선정)
 
 ---
 
@@ -180,7 +180,7 @@ flowchart TD
 
 2000년대 이후는, Madlib나 The Game등 인디펜던트·언더그라운드세의 활약에 의해 다양성이 확대. 게다가 Kendrick Lamar를 필두로, SNS와 인터넷을 구사한 세계적 영향력을 가지는 아티스트가 등장해, 컨셔스한 메세지를 포함한 악곡이나 영상 표현이 서해안 힙합의 새로운 조류를 형성하고 있습니다.
 
-이 지역의 힙합은 단순한 음악 장르를 넘어 사회적 메시지, 패션, 영화, 문화 전체에 계속 영향을 미치고 있으며, 현재도 전세계 아티스트와 팬들에게 영감을 제공하고 있습니다.
+이 지역의 힙합은 단순한 음악 장르를 넘어 사회적 메시지, 패션, 영화, 문화 전체에 계속 영향을 미치고 있으며 현재도 전세계 아티스트와 팬들에게 영감을 제공하고 있습니다.
 
 
 ---

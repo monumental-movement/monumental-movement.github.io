@@ -10,17 +10,17 @@ tags:
 - Techno
 - JPop
 - 00s
-title: Takkyu Ishino – Karaokéjack
+title: Takkyu Ishino – Karaokejack
 ---
 
 
-Album solo de Takkyu Ishino sorti en 2001. Premier CD à pochette papier limitée.
-La neuvième chanson "Creatures Of The Night" a été co-écrite avec Beroshima.
+2001年にリリースされた石野卓球(Takkyu Ishino)のソロアルバム。初回限定紙ジャケCD。
+9曲目「Creatures Of The Night 」は、Beroshimaとの共作。
 
 
-Takkyu Ishino - Karaoké Jack
+石野卓球 - カラオケジャック
 
-Spécifications de la première pochette en papier en édition limitée
+初回限定盤　紙ジャケ仕様
 
 
 

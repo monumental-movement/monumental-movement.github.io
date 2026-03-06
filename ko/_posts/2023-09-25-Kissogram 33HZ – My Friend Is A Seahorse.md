@@ -13,7 +13,7 @@ title: Kissogram / 33HZ – My Friend Is A Seahorse / Hot Flashes
 ---
 
 
-'My Friend Is A Seahorse / Hot Flashes'는 퀴소그램과 33HZ가 공동 제작한 곡입니다. 퀴소그램은 독일의 일렉트로닉 음악 듀오, 33HZ는 미국의 일렉트로닉 팝 밴드입니다.
+'My Friend Is A Seahorse/Hot Flashes'는 퀴소그램과 33HZ가 공동 제작한 곡입니다. 퀴소그램은 독일의 일렉트로닉 음악 듀오, 33HZ는 미국의 일렉트로닉 팝 밴드입니다.
 
 'My Friend Is A Seahorse'는 퀴소그램의 시그니처 사운드인 일렉트로닉 뮤직과 팝의 요소를 조합한 곡으로, 캐치한 멜로디와 리듬, 독특한 보컬 등 악곡 전체에 장난기와 긍정적인 에너지가 넘치고 있습니다.
 

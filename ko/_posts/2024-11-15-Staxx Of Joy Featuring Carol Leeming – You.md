@@ -13,7 +13,7 @@ title: Staxx Of Joy Featuring Carol Leeming – You
 ---
 
 
-Staxx Of Joy는 하우스 갈라지 프로듀서의 Simon Thorne과 Tom Jones의 유닛.
+Staxx Of Joy는 하우스 갤러지 프로듀서인 Simon Thorne과 Tom Jones의 유닛.
 
 별명의로 staxx, Katch, So Damn Tuff, Tuff Boys, Tuff Productions 등이 있다.
 

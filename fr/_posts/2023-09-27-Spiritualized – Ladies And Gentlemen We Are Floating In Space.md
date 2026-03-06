@@ -9,19 +9,19 @@ permalink: /fr/spiritualized-ladies-and-gentlemen-we-are-floating-in-space/
 tags:
 - Rock
 - Post Rock
-title: Spiritualisé – Mesdames et messieurs, nous flottons dans l’espace
+title: Spiritualized – Ladies And Gentlemen We Are Floating In Space
 ---
 
 
-" Spiritualized – Mesdames et messieurs, nous flottons dans l'espace " est un album du groupe de rock britannique Spiritualized .
+「Spiritualized – Ladies And Gentlemen We Are Floating In Space」は、イギリスのロックバンド、スピリチュアライズド（Spiritualized）のアルバムです。
 
-Cet album est connu comme le chef-d'œuvre de Spiritualized et se caractérise par son son expérimental et ses arrangements magnifiques. L'album est connu pour son style musical unique, combinant des éléments de rock, de shoegaze et de rock psychédélique.
+このアルバムは、スピリチュアライズドの代表作として知られ、実験的なサウンドや壮大なアレンジが特徴です。アルバムは、ロック、シューゲイザー、サイケデリックロックなどの要素を組み合わせた独自の音楽スタイルで知られています。
 
-Spiritualized a été formé à Rugby, dans le Warwickshire, en Angleterre, en 1990, et à part le membre principal Jason Pearce, le groupe a toujours eu un casting de soutien fluide.
+スピリチュアライズドは、1990年にイギリスのウォーウィックシャー州ラグビーで結成され、中心メンバーのジェイソン・ピアース以外は、常に流動的なサポートメンバーで構成されています。
 
-Ils sont également reconnus comme l'un des groupes qui ont eu une influence majeure sur le rock alternatif et le rock indépendant à partir des années 1990.
+また、90年代以降のオルタナティブロックやインディーロックに大きな影響を与えたバンドの一つとして評価されています。
 
-Le nom du groupe vient du vaisseau spatial fictif « Spiritualized » qui apparaît dans le film 2001 : L'Odyssée de l'espace, et Jason Pearce est également connu comme l'ancien chanteur de Spacemen 3.
+バンド名は、映画『2001年宇宙の旅』に登場する架空の宇宙船「スピリチュアライズド号」に由来しており、ジェイソン・ピアースは、Spacemen 3（スペースメン3）の元ボーカルとしても知られています。
 
 #### Liste des chansons
 ```md

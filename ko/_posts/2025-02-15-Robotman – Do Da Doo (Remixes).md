@@ -15,7 +15,7 @@ title: Robotman – Do Da Doo (Remixes)
 ---
 
 
-"Robotman - Do Da Doo (Remixes)"는 1994 년에 발표 된 리치 호틴 (Richie Hawtin)의 프로젝트 "Robotman"의 리믹스 앨범입니다. 이 앨범에는 여러 가지 다른 리믹스가 포함되어 있습니다.
+"Robotman - Do Da Doo (Remixes)"는 1994 년에 출시 된 리치 호틴 (Richie Hawtin)의 프로젝트 "Robotman"의 리믹스 앨범입니다. 이 앨범에는 여러 가지 다른 리믹스가 포함되어 있습니다.
 
 Plastikman's Acid House Remix -
 
@@ -27,7 +27,7 @@ David Holmes Remix -
 
 Exploding Plastic Remix -
 
-이 리믹스는 보다 실험적인 접근법을 채택하고 있으며, 다른 텍스처를 노래에 제공합니다.
+이 리믹스는 보다 실험적인 접근법을 채택하고, 다른 텍스처를 노래에 제공합니다.
 
 J.Acquaviva's Flare For Disco Mix -
 

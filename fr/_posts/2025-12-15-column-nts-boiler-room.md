@@ -22,7 +22,7 @@ title: '[Chronique] Artistes diffusés en direct sur NTS/Boiler Room et culture 
 
 Texte : mmr｜Thème : Comment les DJ sets, la musique expérimentale et les performances live inconnues ont été formés et étendus autour des plateformes de streaming en direct.
 
-Au début du 21e siècle, les espaces de représentation musicale se sont progressivement étendus, passant de lieux physiques tels que les clubs et les salles de concert à des espaces où la musique est distribuée via Internet. Depuis les années 2010 en particulier, le streaming musical en direct s’est imposé comme une forme indépendante de performance, plutôt que comme un simple enregistrement ou diffusion.
+Au début du 21e siècle, les espaces de représentation musicale se sont progressivement étendus, passant de lieux physiques tels que les clubs et les salles de concert à des espaces où la musique est distribuée via Internet. Surtout depuis les années 2010, le streaming musical en direct s’est imposé comme une forme indépendante de performance, plutôt que comme un simple enregistrement ou diffusion.
 
 NTS Radio et Boiler Room ont des origines et des philosophies différentes au sein de ce flux, mais ce sont elles qui ont rendu la culture du streaming en direct visible à l'échelle internationale. Ce qu’ils ont tous deux en commun, c’est le cross-genre, l’improvisation et une attitude de prise de distance par rapport au cadre existant de l’industrie musicale.
 
@@ -42,13 +42,13 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 : Création de la culture de la radio NTS et de la radiodiffusion
+## Chapitre 1 Création de la culture de la radio et de la radiodiffusion NTS
 
 NTS Radio est une radio internet basée à Londres qui diffuse des programmes DJ et des performances live 24h/24. Le contenu diffusé est très varié, comprenant de la musique de club, de la musique expérimentale, de la musique folk et des performances d'improvisation.
 
 Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre particulier dans la programmation des programmes. Les artistes disposent de droits de conservation programme par programme et sont autorisés à inclure non seulement des sets de DJ, mais également des enregistrements sur le terrain, des sources sonores inédites et des performances en direct.
 
-> "La diffusion en direct sur NTS a été positionnée comme un acte de partage du processus de sélection et d'interprétation des chansons lui-même, plutôt que comme la présentation d'œuvres terminées."
+> "La diffusion en direct sur NTS a été positionnée comme un acte de partage du processus de sélection et d'interprétation des chansons lui-même, plutôt que comme une présentation de l'œuvre terminée."
 
 ---
 
@@ -66,11 +66,11 @@ Les DJ sets du NTS et du Boiler Room ont tendance à être différents des confi
 
 En particulier dans NTS, les longs sets de plus de deux heures sont courants, et un style qui construit doucement un récit tout en traversant les genres est souvent observé. En revanche, Boiler Room comporte de nombreux décors relativement courts, mettant l'accent sur l'évolution en phase avec la chaleur de l'espace.
 
-> « Les conditions du live streaming ont fait passer le DJ set d'une « technique qui fait fonctionner l'espace » à une « structure qui s'écoute ».
+> "La condition du live streaming a fait évoluer le DJ set d'une "technique qui fait fonctionner l'espace" à une "structure qui s'écoute".
 
 ---
 
-## Chapitre 4 : Compatibilité de la musique expérimentale et du live streaming
+## Chapitre 4 : Compatibilité de la musique expérimentale et du streaming en direct
 
 La musique expérimentale est traditionnellement jouée dans de petites salles, des musées et des établissements universitaires. Cependant, avec la diffusion du streaming en direct, l’environnement de présentation s’est élargi.
 
@@ -178,7 +178,7 @@ Il s’agit davantage du résultat d’une évolution des conditions d’écoute
 
 Les DJ de NTS et Boiler Room ne sont pas de simples sélecteurs de musique. Il joue plusieurs rôles en tant que gestionnaire de sources sonores, monteur, improvisateur et conteur.
 
-Sur NTS notamment, les DJ créent des archives musicales en poursuivant leurs programmes sur de longues périodes. Cette accumulation fonctionne comme l’histoire musicale d’un individu.
+Sur NTS notamment, les DJ créent des archives musicales en poursuivant leurs programmes sur de longues périodes. L’accumulation fonctionne comme une histoire musicale personnelle.
 
 > "Les DJ sets sont des enregistrements fragmentaires d'une histoire personnelle"
 

@@ -19,7 +19,7 @@ title: '[Kolumne] Beeinflusst das Musikgenre, das Sie in Ihrer Jugend gehört ha
 
 ## Prolog: Warum bleibt die „Musik, die ich gehört habe, als ich jung war“ bestehen?
 
-Text: mmr｜Thema: Überprüfung der langfristigen Auswirkungen von im Jugend- und jungen Erwachsenenalter gehörter Musik auf Werte, Berufsauffassungen und soziale Teilhabe anhand empirischer Forschungsdaten aus verschiedenen Ländern
+Text: mmr｜Thema: Untersuchung der langfristigen Auswirkungen von Musik, die im Jugend- und jungen Erwachsenenalter gehört wird, auf Werte, Karriereauffassungen und soziale Teilhabe anhand empirischer Forschungsdaten aus verschiedenen Ländern.
 
 Wenn viele Menschen an eine bestimmte Zeit in ihrem Leben zurückdenken, rufen sie Erinnerungen wach, die stark mit einer bestimmten Musik verbunden sind. Es ist nicht nur Nostalgie. Psychologie und Neurowissenschaften haben wiederholt gezeigt, dass Erfahrungen aus unserem späten Teenager- bis frühen Zwanzigeralter dazu neigen, die Grundlage unseres Selbstverständnisses und unserer Werturteile zu bilden.
 
@@ -51,7 +51,7 @@ Der Zusammenhang zwischen Musikpräferenzen und Persönlichkeitsmerkmalen wurde 
 
 Repräsentative Analysen haben bestätigt, dass Menschen, die in ihren prägenden Jahren abwechslungsreiche Musik abseits des Mainstreams bevorzugten, tendenziell aufgeschlossener sind. Wer hingegen hauptsächlich Mainstream-Genres mit klaren Strukturen hörte, war ehrlicher und normorientierter.
 
-Wichtig ist, dass „prägende Geschmäcker“ stärker mit Persönlichkeitsmerkmalen im Erwachsenenalter korrelieren als aktuelle Musikgeschmäcker. Dies deutet darauf hin, dass die durch Musik geformten Werte langfristig erhalten bleiben, anstatt dass sich die Persönlichkeit geschmacklich verändert.
+Wichtig ist, dass „prägende Geschmäcker“ stärker mit Persönlichkeitsmerkmalen im Erwachsenenalter korrelieren als aktuelle Musikgeschmäcker. Dies deutet darauf hin, dass die durch Musik gebildeten Werte langfristig erhalten bleiben, anstatt dass sich die Persönlichkeit verändert.
 
 > Musik bestimmt nicht die Persönlichkeit, sondern stärkt die Richtung der Persönlichkeitsentwicklung.
 
@@ -59,7 +59,7 @@ Wichtig ist, dass „prägende Geschmäcker“ stärker mit Persönlichkeitsmerk
 
 ## Kapitel 2: Auswirkungen auf Bildungs- und Berufswahl
 
-Längsschnittstudien aus mehreren Ländern haben gezeigt, dass die Beschäftigung mit der Musikkultur im frühen Leben statistisch mit der Bildungs- und Berufswahl im Erwachsenenalter verbunden ist. Die Stichprobengröße reicht von einigen Tausend bis 10.000 Personen und wird seit mehr als 10 Jahren verfolgt.
+Längsschnittstudien aus mehreren Ländern haben gezeigt, dass der Grad der Beteiligung an der Musikkultur im frühen Leben statistisch mit der Bildungs- und Berufswahl im Erwachsenenalter zusammenhängt. Die Stichprobengröße reicht von einigen Tausend bis 10.000 Personen und wird seit mehr als 10 Jahren verfolgt.
 
 Wer mit der experimentellen und Anti-Establishment-Musikkultur vertraut ist, verfolgt eher Bereiche der Kreativität und Selbstbestimmung wie Kunst, Forschung, IT und Medien. Andererseits hatten diejenigen, die hauptsächlich kommerzielle und traditionelle Genres hörten, tendenziell Jobs mit hoher institutioneller Stabilität.
 
@@ -71,7 +71,7 @@ Da diese Beziehung auch nach Berücksichtigung des familiären Umfelds und des B
 
 ## Kapitel 3: Auswirkungen auf politisches Bewusstsein und gesellschaftliche Teilhabe
 
-Untersuchungen, die den Zusammenhang mit dem politischen Bewusstsein analysieren, zeigen, dass Menschen, die in jungen Jahren Musik mit starken sozialen Botschaften hörten, als Erwachsene tendenziell höhere Wahlquoten und Beteiligungsquoten an sozialen Bewegungen hatten. Die Studie wird nach Generationen aufgeschlüsselt und über mehrere Jahrzehnte verglichen.
+Untersuchungen, die den Zusammenhang mit politischem Bewusstsein analysieren, zeigen, dass Menschen, die in jungen Jahren Musik mit starken sozialen Botschaften hörten, als Erwachsene tendenziell höhere Wahlquoten und Beteiligungsquoten an sozialen Bewegungen hatten. Die Studie wird nach Generationen aufgeschlüsselt und über mehrere Jahrzehnte verglichen.
 
 Andererseits neigen diejenigen, die mit einer Musikkultur vertraut sind, die Unterhaltung und Individualismus in den Vordergrund stellt, eher dazu, ihre Werte durch Konsumverhalten und Lebensstil auszudrücken als durch institutionelle politische Partizipation.
 
@@ -81,7 +81,7 @@ Es ist wichtig, dass Musik beim Erlernen von Formen der Beteiligung und des Dist
 
 ---
 
-## Kapitel 4: Genreanalyse ① Rock
+## Kapitel 4: Analyse nach Genre ① Rock
 
 Rock ist seit den 1950er Jahren stark mit der Jugendkultur verbunden. Die Generation, die in ihrer Jugend hauptsächlich Rockmusik hörte, sieht Selbstdarstellung und autoritätsfeindliche Einstellungen tendenziell positiv.
 
@@ -91,7 +91,7 @@ Langzeitstudien haben gezeigt, dass diese Gruppe auch nach dem Erwachsenenalter 
 
 Der Einfluss von Rock zeigt sich am deutlichsten im Alter zwischen 15 und 22 Jahren. Dieses Alter ist ein Stadium, in dem die Selbstentwicklung und die Infragestellung sozialer Normen gleichzeitig voranschreiten und die von Locke präsentierte antiautoritäre Haltung und das Vokabular des Selbstausdrucks wahrscheinlich mit der Persönlichkeitsentwicklung verbunden sind.
 
-> Locke fungierte als eine Kultur, die den Menschen die Gültigkeit der Selbstbehauptung lehrte.
+> Locke fungierte als eine Kultur, die die Gültigkeit der Selbstbehauptung lehrte.
 
 ---
 
@@ -127,7 +127,7 @@ Popmusik ist die am weitesten verbreitete Kultur und fungiert als Synonym und ge
 
 ### Altersgruppe mit der größten Auswirkung
 
-Der Einfluss von Pop ist im Alter zwischen 12 und 18 Jahren am größten. In einer Zeit, in der das Schulleben und die Beziehungen zu Gleichaltrigen im Mittelpunkt stehen, dienen gemeinsame Hits als sozialer Kitt.
+Der Einfluss von Pop ist im Alter zwischen 12 und 18 Jahren am größten. In einer Zeit, in der das Schulleben und die Beziehungen zu Gleichaltrigen im Mittelpunkt stehen, fungieren gemeinsame Hits als sozialer Kitt.
 
 > Pop spielt die Rolle, eine generationsübergreifende Gemeinsamkeit zu schaffen.
 
@@ -165,7 +165,7 @@ Dennoch hat sich bestätigt, dass die Generation, die mit Rock- und Volksmusik v
 
 Seit den 2000er Jahren, als das System flexibler wurde, ist der Zusammenhang zwischen Musikgeschmack und Berufsansichten deutlicher geworden. Wer sich mit subkultureller Musik auskennt, ist eher freiberuflich tätig oder hat mehrere Jobs.
 
-### Zweig von J-POP/Subkultur/Clubkultur
+### Verzweigung von J-POP/Subkultur/Clubkultur
 
 Seit den 2000er Jahren unterscheiden sich die musikalischen Erfahrungen junger Menschen in Japan weitgehend in drei Kategorien. J-POP bietet immer noch eine generationsübergreifende Gemeinsamkeit und wird in schulischen und medialen Kontexten geteilt. Andererseits hat subkulturelle Musik, die mit der Anime- und Internetkultur verbunden ist, eine Rolle bei der starken Verinnerlichung individueller Geschmäcker und Vorlieben gespielt.
 
@@ -214,7 +214,7 @@ Was die empirischen Daten zeigen, ist keine einfache Ursache und Wirkung dafür,
 
 Obwohl sie sich je nach Land und System unterschiedlich manifestiert, dient die Musik, die Sie in Ihrer Jugend gehört haben, weiterhin als Bezugspunkt für Ihr ganzes Leben.
 
-> Musikalische Erfahrungen im frühen Leben sind keine Landkarte des Lebens, sondern ein Kompass.
+> Musikalische Erlebnisse in der frühen Kindheit sind keine Lebenskarte, sondern ein Kompass.
 
 ---
 
@@ -225,35 +225,41 @@ Diese Kolumne basiert auf den folgenden empirischen Untersuchungen, Langzeitbefr
 ### Musikgeschmack und Persönlichkeit/Psychologie
 
 ・Rentfrow, P. J. & Gosling, S. D. (2003) Musikpräferenzen und Persönlichkeitsmerkmale. Zeitschrift für Persönlichkeits- und Sozialpsychologie.
+
 ・Rentfrow, P. J., et al. (2011) Die Struktur musikalischer Vorlieben. Zeitschrift für Persönlichkeits- und Sozialpsychologie.
+
 ・North, A. C. & Hargreaves, D. J. (2008) Die soziale und angewandte Psychologie der Musik.
 
 ### Frühkindliches Gedächtnis/Entwicklungspsychologie
 
 ・Rubin, D. C., Rahhal, T. A. & Poon, L. W. (1998) Dinge, die man im frühen Erwachsenenalter lernt, behält man am besten im Gedächtnis. Gedächtnis und Erkenntnis.
+
 ・Arnett, J. J. (2000) Aufstrebendes Erwachsenenalter: Eine Theorie der Entwicklung vom späten Teenageralter bis in die Zwanzigerjahre. Amerikanischer Psychologe.
 
 ### Musikkultur und Sozialverhalten/politische Partizipation
 
 ・Street, J. (2012) Musik und Politik.
+
 ・Bennett, A. (2001) Kulturen der Popmusik.
+
 ・Frith, S. (1996) Musik und Identität.
 
 ### Bildung/Berufswahl und kulturelles Kapital
 
 ・Bourdieu, P. (1984) Unterscheidung: Eine soziale Kritik des Geschmacksurteils.
+
 ・Savage, M., et al. (2013) Ein neues Modell der sozialen Klasse. Soziologie.
 
 ### Langzeitbefragung nach Ländern und Generationen
 
 ・General Social Survey (US-amerikanische langfristige Sozialumfrage)
+
 ・Europäische Sozialumfrage
+
 ・Umfrage zu Weltwerten
 
 ### Japanische Musikkultur und Generationenforschung
 
-・Mia Nakamura (2001) Soziologie der Subkultur und Jugendkultur.
-・Toshiya Yoshimi (1994) Urbane Dramaturgie.
 ・Von der Agentur für kulturelle Angelegenheiten durchgeführte öffentliche Meinungsumfrage zum Thema Kultur (jedes Jahr).
 
 > Dieses Papier stützt sich auf einen Forschungstrend, der die Beziehung zwischen Musikgenres und sozialem Verhalten als einen kumulativen Effekt und nicht als einen deterministischen betrachtet.

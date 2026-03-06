@@ -15,7 +15,7 @@ title: Winx – Don't Laugh (Remix)
 
 B면은 Richie Hawtin(리치호틴/리치호틴)에 의한 remix.
 
-Richie Hawtin Remix는 진정한 클래식이라고도 할 수 있는 트랙으로 드럼 프로그래밍, 패닝, 볼륨의 사용법이 특필해야 할 점입니다.
+Richie Hawtin Remix는 진정한 클래식이라고도 할 수 있는 트랙으로 드럼 프로그래밍, 패닝, 볼륨 사용법이 특필해야 할 점입니다.
 
 #### Tracklist
 ```md

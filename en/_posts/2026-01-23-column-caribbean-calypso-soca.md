@@ -120,7 +120,7 @@ This change can be seen not as a result of the Fall, but as a result of the divi
 
 In the late 20th century, soca and calypso spread to London, New York, and Toronto due to the increase in Caribbean immigrants. In these cities, carnival has been reinvented, and music functions as an identity maintainer for immigrant communities.
 
-At the same time, cross-fertilization with local music progressed, and fusion with hip-hop and house was also born. But the core celebratory and repetitive structure is maintained, maintaining continuity with its origins.
+At the same time, cross-fertilization with local music progressed, and fusion with hip-hop and house was also born. But the core festivity and repetitive structure is maintained, maintaining continuity with its origins.
 
 > Soca and calypso are music that moves but never loses its core.
 

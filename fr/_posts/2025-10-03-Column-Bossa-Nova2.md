@@ -59,9 +59,9 @@ De plus, le nouveau matériel d'enregistrement de l'époque soutenait l'orchestr
 
 Dans les années 1960, les plages d'Ipanema et de Copacabana à Rio étaient l'épicentre du style de vie et de la mode des jeunes. Sa tenue vestimentaire, qui comprenait des chemises blanches, des robes légères, des chapeaux de paille et des sandales, s'est imposée comme un style symbolisant la « modernité brésilienne », avec le son léger de la bossa nova.
 
-Heloisa Pinheiro, le mannequin de « La Fille d'Ipanema », marchait le long de la plage et était un parfait exemple de la fusion de la mode et de la musique. Les costumes de scène de Sergio Mendes et les tenues urbaines simples vues lors des spectacles de bossa nova aux États-Unis ont contribué à créer une image de « Brésil cool » sur le marché international.
+L'image d'Heloisa Pinheiro, le mannequin de « La Fille d'Ipanema », marchant le long de la plage était la fusion parfaite de la mode et de la musique. Les costumes de scène de Sergio Mendes et les tenues urbaines simples vues lors des spectacles de bossa nova aux États-Unis ont contribué à créer une image de « Brésil cool » sur le marché international.
 
-Ce qui est encore plus intéressant, c'est que la diffusion de la bossa nova était en phase avec les tendances de la mode mondiale des années 1960, comme la mode mod et minimale. Avec leurs mélodies sophistiquées et leurs costumes simples, ils partageaient tous deux une « esthétique épurée ».
+Ce qui est encore plus intéressant, c'est que la diffusion de la bossa nova était en phase avec les tendances de la mode mondiale des années 1960, comme la mode mod et minimale. Avec leurs mélodies sophistiquées et leurs costumes simples, tous deux partageaient une « esthétique épurée ».
 
 ---
 
@@ -77,7 +77,7 @@ En regardant les choses de cette façon, nous pouvons voir que la bossa nova n'�
 
 Tout cela est condensé dans une note de la guitare de João Gilberto, les harmonies de Jobim et la mélodie de « La Fille d'Ipanema ».
 
-La bossa nova que vous entendez aujourd’hui dans les cafés et les salons est bien plus qu’une simple musique de fond apaisante. Derrière cela se cache le désir de « nouveauté » du Brésil dans la seconde moitié du XXe siècle et une résonance culturelle qui va au-delà de la musique.
+La Bossa Nova, que l’on entend aujourd’hui dans les cafés et les salons, est bien plus qu’une simple musique de fond apaisante. Derrière cela se cache le désir de « nouveauté » du Brésil dans la seconde moitié du XXe siècle et une résonance culturelle qui va au-delà de la musique.
 
 
 ---

@@ -10,7 +10,7 @@ permalink: /fr/buffalo-daughter-wxbd/
 tags:
 - Break Beat
 - Big Beat
-title: Fille de buffle – WXBD
+title: Buffalo Daughter – WXBD
 ---
 
 
@@ -20,13 +20,13 @@ title: Fille de buffle – WXBD
 
 
 
-"Buffalo Daughter - WXBD" est un album du groupe de rock expérimental japonais Buffalo Daughter.
+「Buffalo Daughter - WXBD」は、日本のエクスペリメンタルロックバンドであるバッファロー・ドーターによるアルバムです。
 
-Leur musique se caractérise par un son expérimental qui incorpore des éléments de divers genres, notamment le rock alternatif, l'électro, le psychédélique et le post-rock. Leurs chansons sont construites avec des approches innovantes, notamment des motifs rythmiques uniques, un échantillonnage et l'utilisation de synthétiseurs.
+彼らの音楽は、オルタナティブロック、エレクトロニカ、サイケデリック、ポストロックなど、さまざまなジャンルの要素を取り入れた実験的なサウンドが特徴です。彼らの楽曲は、ユニークなリズムパターン、サンプリング、シンセサイザーの使用など、斬新なアプローチで構築されています。
 
-"WXBD" offre une expérience musicale qui utilise pleinement des sons et des bruits artistiques et audacieux, avec la participation de nombreux remixeurs.
+「WXBD」は、多くのリミキサーが参加したアーティスティックで大胆なサウンドとノイズを駆使した音楽体験を提供しています。
 
-C'est un album intéressant pour ceux qui veulent profiter de la musique de Buffalo Daughter. Leur style sonore unique et leur expérimentation musicale créeront une expérience fascinante pour les fans de musique alternative et les chercheurs de musique.
+バッファロー・ドーターの音楽を堪能したい人にとっても興味深いアルバムです。彼らの独自のサウンドスタイルと音楽の実験性は、オルタナティブ音楽のファンや音楽探求者にとって魅力的な体験をもたらすことでしょう。
 
 #### Liste des chansons
 ```md

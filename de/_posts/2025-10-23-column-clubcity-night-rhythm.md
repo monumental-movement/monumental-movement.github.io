@@ -13,7 +13,7 @@ title: '[Kolumne] Rhythmus der Stadtnacht: Soziologie der Clubkultur'
 ---
 
 
-## Der Moment, in dem die Nacht der Stadt zu läuten beginnt
+## Der Moment, in dem die Nacht der Stadt einzuläuten beginnt
 
 
 Text: mmr｜Thema: Entschlüsselung der Clubkultur, die sich zusammen mit Veränderungen in der sozialen Struktur von Städten entwickelt hat, aus soziologischer, kulturgeschichtlicher und technologischer Perspektive.
@@ -54,7 +54,7 @@ Da sich jeder als Niemand dem Klang hingibt, verschwinden vorübergehend die Gre
 ## Kapitel 2: Von der Disco zum Rave – die Demokratisierung der Nacht und die Politik des Körpers
 
 Diskotheken dienten in den 1970er Jahren als Plattform für den Ausdruck der LGBTQ-Community und der schwarzen Kultur.
-Studio 54 und Paradise Garage waren „klangliche Emanzipationszonen“ für Menschen, die an den Rand der Gesellschaft gedrängt wurden, aber auch politische Räume.
+Studio 54 und Paradise Garage waren „Sound-Emanzipationszonen“ für Menschen, die an den Rand der Gesellschaft gedrängt wurden, und gleichzeitig politische Räume.
 
 Ende der 1980er Jahre entstand mit Acid House die Rave-Kultur und flüchtete aus der Stadt.
 Lagerhäuser, Felder, verlassene Fabriken – das Tanzen in unkontrollierten Räumen war auch eine Form des Widerstands gegen die Kontrolle der Zeit durch Staat und Kapital.
@@ -66,7 +66,7 @@ Musik ist sowohl Protest als auch Feier.
 
 ### Berlin
 Nach dem Fall der Mauer wurde die zerstörte Stadt zum Versuchsfeld für die Freiheit. Clubs wie Tresor, Berghain und Watergate entstanden aus der chaotischen Vermischung östlicher und westlicher Kulturen.
-Clubs dienen nicht nur der Unterhaltung; Sie fungieren als „neue öffentliche Sphäre der Gesellschaft“.
+Clubs dienen nicht nur der Unterhaltung, sondern fungieren als „neuer öffentlicher Raum der Gesellschaft“.
 
 ### Tokio
 Tokios Clubs seien ein „geheimes Fluchtmittel“ in einer Stadt der Regulierung und Kontrolle.

@@ -61,7 +61,7 @@ In den späten 2000er Jahren erweiterten MySpace und DatPiff die Mixtape-Kultur 
 
 ---
 
-Um 2009 herum entwickelte Lil B einen Rap-Stil, der sehr gut mit der Internetkultur kompatibel war, und die Produzenten, die seine Musik unterstützten, bildeten den Prototyp von Cloud Rap.
+Um 2009 herum entwickelte Lil B einen Rap-Stil, der sehr gut mit der Internetkultur kompatibel war, und die Gruppe von Produzenten, die seine Musik unterstützten, bildete den Prototyp von Cloud Rap.
 
 ---
 
@@ -184,10 +184,10 @@ timeline
 
 ---
 
-## Fazit: Wohin steuert „Cloud Rap“?
+## Fazit: Wohin entwickelt sich „Cloud Rap“?
 
 Cloud Rap ist nicht nur ein Genre, es ist zu einem Symbol für Post-Internet-Hip-Hop-Produktionsmethoden, -Ästhetik und -Vertriebskultur geworden. Die Fusion mit Vaportrap weist weiterhin auf eine Richtung hin, in der sich Musik eher um die Online-Ästhetik als um den physischen Kontext dreht.
 
-Es wird erwartet, dass die Cloud-Rap-ähnliche Textur in Zukunft durch die Verknüpfung mit der KI der Generation noch abstrakter wird und sich zu einem atmosphärischeren und „unmenschlicheren“ Klangbild entwickelt.
+Es wird erwartet, dass die Cloud-Rap-ähnliche Textur in Zukunft durch die Verknüpfung mit der KI der Generation noch abstrakter wird und sich zu einem atmosphärischeren und „unmenschlicheren“ Klangbild ausweitet.
 
 ---

@@ -111,7 +111,7 @@ flowchart TD
 
 #### ELLEGARDEN（成立於1998年）
 - 受到melocore America的影響，他在歌詞中巧妙地使用了日語和英語。
-- 隨著主要首張專輯《Bring Your Board!!》的推出，人氣進一步擴大(2001)
+- 隨著主要首張專輯《Bring Your Board!!》的推出，人氣進一步擴大。 (2001)
 - 代表歌曲：《嫁給我》、《我最喜歡的歌》
 
 #### BRAHMAN（成立於1995年）
@@ -147,7 +147,7 @@ flowchart TD
 | 1988 | 《受苦》上映 |壞宗教|
 | 1991 | “羅紋” | NOFX |
 | 1994 |龐克復興 |綠日，後代 |
-| 1995 | Fat Wreck 和弦的創立 |以NOFX為中心 |
+| 1995 | Fat Wreck 和弦的創立 |以NOFX為中心|
 | 1999 | Melocore 商業上的成功 | Blink-182，後代 |
 
 ---

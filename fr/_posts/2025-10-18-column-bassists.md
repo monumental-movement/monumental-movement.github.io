@@ -202,7 +202,7 @@ Elle a été transmise comme une « sculpture sonore » qui fait résonner l’e
 
 ---
 
-## VI. Conclusion : la basse est « le subconscient de la société »
+##VI. Conclusion : la basse est « le subconscient de la société »
 
 La basse n'est pas le centre de la musique.
 Cependant, il continue d'être le « sol » sur lequel reposent tous les sons.

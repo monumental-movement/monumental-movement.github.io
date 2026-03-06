@@ -16,7 +16,7 @@ title: Ben Sims – Theory Of Interpretation A Mastermix By Ben Sims
 
 Ben Sims(벤·시무스)는, 80년대의 UK레이브 신, 90년대의 UK댄스 신과 오랜 세월에 걸쳐 제일선에서 활약하는 테크노계의 중진.
 
-2001년에 릴리스된 이 앨범은, Ben Sims 자신의 음원을 포함해 총 33곡을 수록한 mix CD.
+2001년에 발표된 이 앨범은, Ben Sims 자신의 음원을 포함해 총 33곡을 수록한 mix CD.
 
 
 #### Tracklist

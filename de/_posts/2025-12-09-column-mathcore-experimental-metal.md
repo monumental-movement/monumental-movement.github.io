@@ -62,8 +62,8 @@ Im Folgenden sind die Merkmale ihrer Liedstrukturen aufgeführt.
 
 ### 1. Ultraschnelle und fragmentierte Struktur
 
-Bemerkenswert ist die Technik, Phrasen von 1-2 Schlägen mit hoher Geschwindigkeit und nicht in Takteinheiten zu ändern.
-Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente immer wieder ins Wanken gebracht.
+Bemerkenswert ist die Technik des schnellen Wechsels von Phrasen von ein oder zwei Schlägen statt in Takten.
+Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente ständig erschüttert.
 
 ### 2. Einfluss vom Jazz
 
@@ -84,7 +84,7 @@ Meshuggah aus Schweden ist eine von Mathcore getrennte Gruppe, ist jedoch äuße
 ### Typische Methoden:
 
 * Die Grundtaktart ist 4/4
-* Aber Gitarrenriffs haben Zyklen von **5 Schlägen, 7 Schlägen, 9 Schlägen** usw.
+* Aber Gitarrenriffs finden in Zyklen von **5 Schlägen, 7 Schlägen, 9 Schlägen** usw. statt.
 *Infolgedessen „verschieben“ sich die Riff- und Drum-Akzente regelmäßig.
 
 Dadurch kann der Hörer gleichzeitig einen linearen Groove und einen nichtlinearen Akzent erleben.
@@ -188,7 +188,7 @@ Die fragmentierte Struktur von DEP und Car Bomb wurde in viele moderne Metal-Ban
 
 ### Post-Metal / Noise
 
-Während die komplexe rhythmische Struktur gleich blieb, kam es immer häufiger vor, dass Musik mit räumlichen Klängen und Umgebungselementen kombiniert wurde und die Struktur vielschichtiger wurde.
+Während die komplexe rhythmische Struktur gleich blieb, kam es immer häufiger vor, dass Musik mit räumlichen Klängen und Umgebungselementen kombiniert wurde, was zu einer vielschichtigeren Struktur führte.
 
 ---
 

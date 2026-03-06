@@ -22,7 +22,7 @@ Text: mmr｜Thema: Hintergrund der Entstehung von Pan Sonic, akustischer Ansatz,
 
 Wenn man über die Geschichte der elektronischen Musik seit den 1990er Jahren spricht, gibt es nur wenige Künstler, die die Materialität des Klangs so sehr verändert haben wie **Pan Sonic (ehemals Panasonic)**. Das in Helsinki ansässige Duo Mika Vainio und Ilpo Väisänen hat die Grenzen zwischen Techno, Industrial, Noise und Minimalismus gründlich aufgehoben und Werke mit hochreinen elektronischen Schwingungen geschaffen, die man als „die Rohheit der Elektrizität“ bezeichnen kann.
 
-Ihre Aktivitäten von Mitte bis Ende der 1990er Jahre fanden insbesondere bei der Berliner Minimal-Techno-Szene, der elektronischen Soundszene von Warp Records in Großbritannien und der japanischen Noise-Kultur großen Anklang und erweiterten den Horizont des experimentellen Sounds erheblich. Das Besondere an Pan Sonic ist, dass er sich nicht auf allgemeine Synthesizer oder Computer verlässt, sondern **selbstgebaute analoge Geräte, modifizierte Elektronik und minimale Schrittsequenzen** verwendet, um Klangskulpturen von durch und durch struktureller Schönheit zu schaffen.
+Insbesondere ihre Aktivitäten von Mitte bis Ende der 1990er Jahre fanden großen Anklang bei der Berliner Minimal-Techno-Szene, der elektronischen Soundszene von Warp Records in Großbritannien und der japanischen Noise-Kultur und erweiterten den Horizont des experimentellen Sounds erheblich. Das Besondere an Pan Sonic ist, dass er sich nicht auf allgemeine Synthesizer oder Computer verlässt, sondern **selbstgebaute analoge Geräte, modifizierte Elektronik und minimale Schrittsequenzen** verwendet, um Klangskulpturen von durch und durch struktureller Schönheit zu schaffen.
 
 ---
 
@@ -47,7 +47,7 @@ Als Pan Sonic Anfang der 90er Jahre in Finnland gegründet wurde, war die elektr
 Mika Vainio war ursprünglich im Industrial/Noise-Genre aktiv und wandte sich Anfang der 1990er Jahre elektrischen Klangexperimenten zu. Auch Ilpo Vaisanen bewegte sich zwischen den Bereichen DIY-Elektronik und Performance-Kunst.
 
 ### Debüt unter dem Namen Panasonic
-Etwa 1993 begannen die beiden unter dem Namen **Panasonic** zusammenzuarbeiten und brachten 1994 ihre erste Klangquelle heraus. Ein Großteil der Ausrüstung bestand aus modifizierten analogen Schaltkreisen, Rückkopplungssystemen und Oszillatoren, und die Hauptkomponente waren „physikalische elektronische Schwingungen“, die sich völlig von bestehenden Formen der Clubmusik unterschieden.
+Um 1993 begannen die beiden unter dem Namen **Panasonic** zusammenzuarbeiten und brachten 1994 ihre erste Klangquelle heraus. Ein Großteil der Ausrüstung bestand aus modifizierten analogen Schaltkreisen, Rückkopplungssystemen und Oszillatoren, und die Hauptkomponente waren physikalische elektronische Schwingungen, die sich völlig von bestehenden Formen der Clubmusik unterschieden.
 In der damaligen Musikszene gab es nur wenige, die den elektroakustischen Minimalismus in so reiner Form präsentierten.
 
 ### Namensproblem mit Matsushita Electric
@@ -68,7 +68,7 @@ Er verwendet selten handelsübliche Synthesizer, sondern konzentriert sich statt
 - Spannungssteuerkreis
 - Physikalische Materialien wie Verstärker, Metallteile, Magnetspulen usw.
 
-Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und er ist überwältigend körperlich.
+Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und es fühlt sich überwältigend körperlich an.
 
 ## 2-2. Minimale Struktur
 Obwohl das Klangmaterial äußerst einfach ist, weist der Song eine detaillierte Struktur auf.
@@ -119,7 +119,7 @@ Die Live-Auftritte von Pan Sonic wurden als ein noch kraftvolleres Erlebnis besc
 - Extrem tiefe Frequenzen lassen die Luft erzittern
 - Minimal und doch brutal
 - Gefühl, als würde der Klang den „Raum“ selbst verändern
-- Impromptu-Feedback-Operationen
+- Improvisierte Feedback-Operationen
 
 Es gibt wenig visuelle Präsentation und minimale Beleuchtung. Vielmehr wird das Publikum mit der Materialität von Klang konfrontiert.
 Während des Live-Auftritts konzentrierte er sich auf seine Hände, während er die elektronischen Schaltkreise bediente, und die Veränderungen im Klang selbst wurden zu einer Performance.
@@ -131,7 +131,7 @@ Während des Live-Auftritts konzentrierte er sich auf seine Hände, während er 
 Der Einfluss von Pan Sonic geht über ein bestimmtes Genre hinaus.
 
 ### 5-1. Minimaler Techno
-Berlins Minimalisten (Basic Channel, Thomas Brinkmann usw.) fanden Resonanz in der Klangstruktur von Pan Sonic.
+Die Berliner Minimalisten (Basic Channel, Thomas Brinkmann usw.) fanden Resonanz in der Klangstruktur von Pan Sonic.
 Seine **Reinheit der Wiederholung** markierte einen neuen Weg für die Clubmusik.
 
 ### 5-2. Experimentell/Lärm
@@ -145,7 +145,7 @@ Mika Vainio hat zahlreiche Werke unter dem Solonamen Ø (Zero) veröffentlicht. 
 
 ---
 
-# 6. Aussetzung und Ende der Aktivitäten, was zurückbleibt
+# 6. Aussetzung und Ende der Aktivitäten und was zurückbleibt
 
 Um 2010 legte Pan Sonic eine Pause ein und Mika Vainio verstarb 2017.
 Damit endeten die Aktivitäten von Pan Sonic, doch die verbleibenden Werke beeinflussen weiterhin elektronische Musiker auf der ganzen Welt.

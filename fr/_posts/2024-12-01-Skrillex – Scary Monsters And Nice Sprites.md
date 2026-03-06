@@ -11,13 +11,13 @@ tags:
 - Electro
 - Dubstep
 - Electro House
-title: Skrillex – Monstres effrayants et jolis sprites
+title: Skrillex – Scary Monsters And Nice Sprites
 ---
 
 
-Version japonaise sortie en 2012. Les pistes 1 à 6 sont des chansons originales de Skrillex. La septième chanson est un remix du trio néerlandais de batterie et de basse Noisia. La 8ème chanson est un remix du DJ et producteur Zedd, célèbre pour « Clarity » et la chanson à succès d'Ariana Grande « Break Free ».
+2012年にリリースされた日本盤。1〜6曲目まではSkrillexオリジナル曲。7曲目はオランダのドラムンベーストリオNoisia(ノイジア)のremix。8曲目は「Clarity」や、アリアナ・グランデのヒット曲「Break Free」で有名なDJ&プロデューサーZedd(ゼッド)によるremix。
 
-Le neuvième morceau est un remix de Bare Noize, le duo de production composé de Daniel Brown et Oliver Pile.
+9曲目はDaniel Brown とOliver PileによるプロダクションデュオBare Noizeによるremix。
 
 #### Liste des chansons
 ```md

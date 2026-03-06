@@ -20,7 +20,7 @@ title: '[Kolumne] Tango – Von den Rändern der Gesellschaft zur Weltkultur, ih
 
 ## Prolog Tango war Gesellschaft, bevor er „Musik“ war
 
-Text: mmr｜Thema: Auf den Spuren der sozialen Bedeutung des Tangos, von seiner Entstehung am Rande der Gesellschaft über das Vergessen bis hin zu seiner Wiederbelebung als globale Kultur
+Text: mmr｜Thema: Auf den Spuren der sozialen Bedeutung des Tangos, von seiner Entstehung am Rande der Gesellschaft bis zu seinem Vergessen und seiner Wiederbelebung als globale Kultur.
 
 Tango wurde nicht von Anfang an als Kunst geboren.
 Es war das Ergebnis der klanglichen Übersetzung der Verzerrungen und Spannungen der sozialen Struktur der argentinischen Hafenstadt Buenos Aires.
@@ -121,7 +121,7 @@ Seine poetischen Darstellungen persönlicher Traurigkeit, Nostalgie und verloren
 
 
 Tango hatte auch eine komplizierte Beziehung zur politischen Macht.
-Obwohl sie selten eine bestimmte politische Partei direkt unterstützten, prägten sie das Image der Nation.
+Obwohl sie selten eine bestimmte politische Partei direkt unterstützten, prägten sie doch das Image der Nation.
 
 Andererseits gab es Zeiten, in denen es von Zensur und kultureller Kontrolle betroffen war.
 Insbesondere unter Militärherrschaft ist die Meinungsäußerung im öffentlichen Raum eingeschränkt und die Tangokultur muss eingeschränkt werden.

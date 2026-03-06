@@ -53,7 +53,7 @@ color: #fff;
 ## Social background of the birth of tango
 
 
-Argentina in the late 19th century experienced rapid economic growth and at the same time serious social divisions.
+Argentina in the late 19th century was experiencing rapid economic growth and at the same time serious social divisions.
 The country prospered through agricultural exports, but only a small portion of the landowning class benefited.
 
 As large numbers of immigrant men flocked to cities in search of work, the male-female ratio collapsed.

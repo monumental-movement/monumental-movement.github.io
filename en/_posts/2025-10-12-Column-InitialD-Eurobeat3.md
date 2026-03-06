@@ -80,7 +80,7 @@ And the origin of that philosophy is none other than the Eurobeat of the 90s.
 > "Speed ​​is the language of the times."
 > — anonymous Eurobeat producer, 1998 interview
 
-This word now takes on new meaning in the era of generative music.
+This word now takes on new meaning in the age of generative music.
 Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---
@@ -208,6 +208,14 @@ We now run through countless virtual spaces through displays and speakers.
 
 > Eurobeat is not over.
 > It's just a matter of changing where you run.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2It7HPi2Ing?si=0hZVnLYZfEdLFICn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

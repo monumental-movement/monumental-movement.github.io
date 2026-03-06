@@ -28,7 +28,7 @@ title: Radiohead – 安全氣囊 / 我如何駕駛？
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
 #### Youtube

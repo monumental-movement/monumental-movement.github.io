@@ -14,7 +14,7 @@ title: Various – Environments
 
 
 "Environments"는
-2001년에 라벨 「OM Records」로부터 릴리스된 컴파일·앨범입니다.
+2001년에 라벨 「OM Records」로부터 릴리스된 컴파일 앨범입니다.
 
 #### Tracklist
 ```md

@@ -16,7 +16,7 @@ title: Donna Summer – Dim All The Lights
 ---
 
 
-Dim All The Lights는 1979년 라벨 Casablanca에서 출시된 Disco 트럭.
+Dim All The Lights는 1979년에 레이블 Casablanca에서 출시된 Disco 트럭.
 
 프로듀서는 Giorgio Moroder (조르지오 모로다) & Pete Bellotte (피트 벨롯). 어레인지는 Harold Faltermeyer(해롤드 포르타 메이어).
 

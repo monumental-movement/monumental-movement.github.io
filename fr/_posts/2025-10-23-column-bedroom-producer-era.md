@@ -67,7 +67,7 @@ Les compositeurs disposent désormais de studios de bureau et la musique coule d
 
 ### La révolution appelée DAW
 
-Dans les années 2000, avec l'avènement de Pro Tools, Cubase, Logic Pro et Ableton Live, le DTM a évolué vers un DAW (Digital Audio Workstation).
+Dans les années 2000, avec l’avènement de Pro Tools, Cubase, Logic Pro et Ableton Live, le DTM a évolué vers un DAW (Digital Audio Workstation).
 L'enregistrement, le montage, le mixage et le mastering peuvent tous être effectués sur un seul PC.
 De plus, la prolifération des **sources sonores plug-in** et des **packs d'échantillons** a rendu inutile l'équipement physique du studio.
 
@@ -128,7 +128,7 @@ Leurs activités présentaient une nouvelle structure appelée « musique pop sa
 
 ### L'intersection de Niconico Douga et YouTube
 
-Alors que la culture du commentaire et les œuvres dérivées s’entrelacent en plusieurs couches, la chambre s’est transformée en un lieu de production collaborative.
+Alors que la culture du commentaire et les œuvres dérivées s’entremêlent en plusieurs couches, la chambre s’est transformée en un lieu de production collaborative.
 « Créer par une seule personne » a finalement pris un sens dans un réseau où « de nombreuses personnes résonnaient ensemble ».
 
 ---
@@ -181,7 +181,7 @@ Et ces mains ne sont plus connectées via la souris ou le clavier MIDI.
 Directement connecté au monde entier.
 
 > « De ma chambre à votre monde. »
->- C'est peut-être l'image la plus honnête de la musique du 21ème siècle.
+>- C'est peut-être l'image la plus honnête de la musique au 21ème siècle.
 
 ---
 

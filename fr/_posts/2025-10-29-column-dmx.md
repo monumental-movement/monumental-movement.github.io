@@ -71,7 +71,7 @@ Il existe souvent une structure dans laquelle ils parlent à leurs démons inté
 > ― * Slippin' * (1998)
 
 ### 2. Métaphore animale
-DMX se présente souvent comme un « chien ».
+DMX se présente souvent comme « chien ».
 C'est un symbole de violence et indique en même temps **la loyauté, la solitude et la sauvagerie**.
 Le chien était le seul compagnon en qui il pouvait avoir confiance et l'objet de ses prières.
 
@@ -134,7 +134,7 @@ Sa foi n'est pas une foi de pardon mais une **foi dans la bataille**.
 
 ---
 
-## VI. DMX humain : anecdotes et essence
+##VI. DMX humain : anecdotes et essence
 
 ### 1. Un homme qui couche avec un chien
 
@@ -148,7 +148,7 @@ Cette fois-là, ce n'était pas un divertissement, c'était une **cérémonie**.
 
 ### 3. Chaîne du droit et drogue
 
-Il a été arrêté des dizaines de fois. Cependant, cela est en grande partie le résultat d'une toxicomanie et d'un traumatisme émotionnel, et il dit lui-même : « Mon corps s'est brisé avant que mon esprit ne meure. »
+A été arrêté des dizaines de fois. Cependant, cela est en grande partie le résultat d'une toxicomanie et d'un traumatisme émotionnel, et il dit lui-même : « Mon corps s'est brisé avant que mon esprit ne meure. »
 
 ---
 
@@ -239,7 +239,7 @@ timeline
 
 ---
 
-## Annexe : Analyse de la structure sonore (relation entre le rythme et la voix)
+## Annexe : Analyse de la structure sonore (relation entre le rythme et la voix)
 
 <div class="mermaid">
 
@@ -257,7 +257,7 @@ D -->|静寂| F[祈りの独白]
 
 ## Chapitre final : Prière d'aboiement
 
-La musique de DMX n'est pas un « témoignage de la rue » mais un « disque de l'âme ».
+La musique de DMX n'est pas un « témoignage de rue » mais un « disque de l'âme ».
 Ce cri est la vérité même de ceux qui ont vécu leur vie en s’accrochant à leur foi sans céder à la violence.
 
 > "Si tu es réel, tu vas le ressentir." -DMX

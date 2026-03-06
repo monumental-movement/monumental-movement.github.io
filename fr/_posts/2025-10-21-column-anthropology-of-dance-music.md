@@ -114,7 +114,7 @@ C'était une version moderne d'un ancien rituel.
 
 Immédiatement après la chute du Mur, Berlin était une zone de non-droit et un terrain d’essai pour la liberté.
 Des clubs comme Trésor et Berghain
-Une nouvelle communauté physique a été créée dans une ville en attente de restructuration politique et économique.
+Il a créé une nouvelle communauté physique dans une ville en attente de restructuration politique et économique.
 Là, la « danse » elle-même est
 C'était un acte politique de mémoire et de renaissance.
 
@@ -152,7 +152,7 @@ flowchart TB
 
 ## Chapitre 4 : Transe et extase - La danse comme transformation de la conscience
 
-### 1. Couche ancienne en état de transe
+### 1. Couches anciennes en transe
 
 La danse n’est pas seulement un divertissement ; c'est aussi une technique pour changer de conscience.
 Dans les rituels chamaniques,

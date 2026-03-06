@@ -17,7 +17,7 @@ title: Masterboy – Couleurs
 
 Masterboy, dirigé par Tommy Schleh et Enrico Zabler, est le groupe de danse euro le plus connu d'Europe, avec une série de chansons à succès mondial dans les années 90. Ils ont été actifs de 1990 à 2004, ont pris une pause et ont repris leurs activités en 2013.
 
-"Colours" est le cinquième album de Masterboy sorti en 1996, et est un CD house européen qui comprend des chansons à succès telles que "Show Me Colours".
+"Colours" est le cinquième album de Masterboy sorti en 1996, et est un CD euro house qui comprend des chansons à succès telles que "Show Me Colours".
 La 13ème chanson est un remix du DJ et producteur américain David Morales.
 
 #### Liste des chansons

@@ -14,7 +14,7 @@ title: Crushed Insect – The Yellow Blood
 
 
 "The Yellow Blood"는
-1996년에 스웨덴의 레베루 「Audio Pollution」에서 릴리스된 본명 Kari Pekka Lekebusch Cari Lekebusch에 의한 프로젝트 Crushed Insect의 EP입니다.
+1996년에 스웨덴의 레베루 「Audio Pollution」에서 발매된 본명 Kari Pekka Lekebusch Cari Lekebusch에 의한 프로젝트 Crushed Insect의 EP입니다.
 
 #### Tracklist
 ```md

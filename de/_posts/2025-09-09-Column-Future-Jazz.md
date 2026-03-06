@@ -22,7 +22,7 @@ title: '[Kolumne] Geschichte des Future Jazz, berühmte Platten und Änderungen 
 
 Text: mmr｜Thema: Ein Genre, das den improvisatorischen Charakter des Jazz und die Innovation elektronischer Musik verbindet
 
-Future Jazz entstand in den frühen 1990er Jahren als ein Genre, das den improvisatorischen Charakter des Jazz mit der Innovation elektronischer Musik verbindet. Es entwickelte sich mit der Entwicklung der Clubkultur und einer neuen Generation von Musiktechnologie und ist eng mit Trends wie **Acid Jazz, Nu-Jazz und Broken Beat** verbunden. Im Folgenden werden wir die Entwicklung der Band im Laufe der Jahre verfolgen und die Veränderungen bei repräsentativen Meisterwerken und der verwendeten Ausrüstung erläutern.
+Future Jazz entstand in den frühen 1990er Jahren als ein Genre, das den improvisatorischen Charakter des Jazz mit der Innovation elektronischer Musik verbindet. Es entwickelte sich mit der Entwicklung der Clubkultur und einer neuen Generation von Musiktechnologie und ist eng mit Trends wie **Acid Jazz, Nu-Jazz und Broken Beat** verbunden. Im Folgenden werden wir die Entwicklung der Band im Laufe der Jahrzehnte verfolgen und die Veränderungen bei repräsentativen Meisterwerken und der verwendeten Ausrüstung erläutern.
 
 ---
 
@@ -58,7 +58,7 @@ color: #fff;
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
 | 1 | Galliano | Prinz des Friedens | Ein ikonischer Track des frühen Acid Jazz. |
-| 2 | Brandneue Heavys | Ein Traum wird wahr | Eine Fusion aus Funk und Soul. |
+| 2 | Brandneue Heavys | Ein Traum wird wahr | A fusion of funk and soul. |
 | 3 | Junge Jünger | Anscheinend nichts | Ein repräsentatives Lied der britischen Szene. |
 | 4 | US3 | Cantaloop (Flip Fantasia) | Rekonstruktion des berühmten Liedes von Blue Note. |
 | 5 | Jamiroquai | Wenn du lernen wirst | Ansatz des Early Future Jazz. |

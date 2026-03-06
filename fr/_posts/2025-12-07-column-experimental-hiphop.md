@@ -132,7 +132,7 @@ Shabazz Palaces a été lancé vers 2009, dirigé par Ishmael Butler (ancienneme
 
 ---
 
-## 5. Expérience de battement : « désalignement » et grooves non linéaires d'après J Dilla
+## 5. Expérience de battement : « désalignement » et grooves non linéaires d'après J Dilla
 
 Au cœur du hip-hop expérimental depuis les années 2000 se trouve la « réinvention du rythme ».
 
@@ -156,8 +156,8 @@ Au cœur du hip-hop expérimental depuis les années 2000 se trouve la « réinv
 ## 6. Culture du sample : de l'analogique au numérique
 
 ### ● Années 1990-2000 : culture MPC
-- MPC2000/2000XL est courant.
-- L'accent est mis sur la « culture hachée », dans laquelle des échantillons analogiques sont découpés en petits morceaux et reconstruits.
+- MPC2000/2000XL est le grand public.
+- L'accent est mis sur la « culture hachée », dans laquelle des échantillons analogiques sont découpés en petits morceaux et reconstruits.
 -Madlib et J Dilla sont des exemples représentatifs.
 
 ### ● Fin des années 2000 : accélération de l'introduction des DAW

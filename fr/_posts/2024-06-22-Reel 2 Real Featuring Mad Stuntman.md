@@ -9,13 +9,13 @@ permalink: /fr/reel-2-real-featuring-mad-stuntman/
 tags:
 - House
 - 90s
-title: Reel 2 Real avec Mad Stuntman – Go On Move / I'm The Mad Stuntman
+title: Reel 2 Real Featuring Mad Stuntman – Go On Move / I'm The Mad Stuntman
 ---
 
 
-Reel 2 Real est un projet américain de musique house branché actif dans les années 1990.
+Reel 2 Real は、1990年代に活躍したアメリカのヒップハウスミュージックプロジェクト。
 
-"Go On Move", avec Mad Stuntman, est sorti par Strictly Rhythm en 1993 et ​​est devenu un succès grâce à la voix unique et énergique de style reggae de Mad Stuntman.
+Mad Stuntman（マッド・スタントマン）をフィーチャーした「Go On Move」は、1993年にStrictly Rhythm（ストリクトリー・リズム）からリリースされ、Mad Stuntmanの独特でエネルギッシュなレゲエスタイルボーカルが評価されヒット曲となった。
 
 #### Liste des chansons
 ```md

@@ -18,7 +18,7 @@ title: '[Chronique] Le squelette afro-cubain - La généalogie du battement de c
 ## Introduction : Une autre histoire de la musique américaine racontée par les tambours taiko
 
 
-Texte : mmr｜Thème : D'après Sabu Martinez et Arsenio Rodríguez
+Texte : mmr｜Thème : Centré sur Sabu Martinez et Arsenio Rodríguez
 Retracer longitudinalement les tournants de l’histoire de la musique latine
 
 Dans les années 1950, un rythme échangé à l’arrière d’un club de jazz a ébranlé le tissu même de la musique américaine.
@@ -50,11 +50,11 @@ Cependant, derrière l’agitation de la Guerre d’Indépendance, une autre ré
 Les rythmes rituels yoruba et congolais se croisent avec les mélodies espagnoles, créant des chansons telles que « son », « rumba » et « abakua ».
 Cela a créé une structure rythmique à plusieurs niveaux.
 
-* **Éléments religieux : ** Les rythmes rituels tels que le « tambour bata » de la Santería et le « makuta » congolais sont devenus de la musique urbaine.
+* **Éléments religieux : ** Les rythmes de festival tels que le « tambour bata » de la Santería et le « makuta » congolais sont devenus de la musique urbaine.
 * **Facteurs sociaux :** Après l'abolition de l'esclavage, une communauté afro-américaine s'est formée à La Havane et la professionnalisation des musiciens noirs a progressé.
 * **Éléments techniques :** La standardisation du tres (guitare à trois cordes) et des congas a rendu possible la structure ultérieure du montuno.
 
-C’est dans ce contexte qu’apparaît un révolutionnaire aveugle nommé **Arsenio Rodríguez** (1911-1970).
+C’est dans ce contexte qu’émerge un révolutionnaire aveugle nommé **Arsenio Rodríguez** (1911-1970).
 
 ---
 
@@ -63,7 +63,7 @@ C’est dans ce contexte qu’apparaît un révolutionnaire aveugle nommé **Ars
 ### « El Ciego Maravilloso (Le joueur aveugle miraculeux) »
 
 Né à La Havane, Arsenio a perdu la vue dans un accident alors qu'il était enfant.
-En échange de cette sensation, il acquiert la capacité surnaturelle d'entendre la « structure interne du rythme ».
+En échange de ce sens, il acquiert la capacité surnaturelle d’entendre la « structure interne du rythme ».
 
 ### Ses innovations :
 
@@ -160,7 +160,7 @@ Sa physicalité allait au-delà de la musique et était aussi un dispositif de r
 * **Sabu :** Symbole de la réafricanisation de la culture noire américaine.
 
 > "Taiko n'oubliera jamais les paroles de sa mère"
-> — D'après un proverbe afro-cubain
+> — D'un proverbe afro-cubain
 
 ---
 

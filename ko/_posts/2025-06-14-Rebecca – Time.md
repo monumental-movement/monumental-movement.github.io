@@ -16,7 +16,7 @@ title: Rebecca – Time
 ---
 
 
-「Time」은, 라벨 FITZBEAT(피츠비트)로부터 1986년에 릴리스된 Rebecca(레베카) 5장째의 앨범. 이 앨범의 캐치 카피는, 「리굴이 아니고…
+「Time」은, 라벨 FITZBEAT(피츠비트)로부터 1986년에 릴리스 된 Rebecca(레베카) 5번째의 앨범. 이 앨범의 캐치 카피는, 「리굴이 아니고…
 
 히트곡, 「LONELY BUTTERFLY(론리・버터플라이)」, 「CHEAP HIPPIES(치프・히피즈)」가 수록되어 있다.
 

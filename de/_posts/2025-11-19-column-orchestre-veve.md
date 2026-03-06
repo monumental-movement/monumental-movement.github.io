@@ -85,7 +85,7 @@ Der Grund, warum dieses „Koexistenz von Quantität und Qualität“ möglich w
 
 - **Systematisierung zur Maximierung der Betriebsrate Ihres eigenen Studios**
 - **Rotationssystem zwischen den Darstellern**
-- **Reduzierte Aufnahmezeit pro Song (ein Song ist in mehreren Stunden fertig)**
+- **Reduzierte Aufnahmezeit pro Song (ein Song wurde in mehreren Stunden fertiggestellt)**
 - **Verbesserte Reproduzierbarkeit durch die Erstellung von Ensemble-Vorlagen**
 
 Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentative Lieder, die in diesem goldenen Zeitalter entstanden sind.
@@ -117,7 +117,7 @@ Verglichen mit der einzeiligen Musik von ZAïko und der auf tiefen Harmonien bas
 
 ## Innovation in der Rhythmusgruppe
 
-Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter als die Soukous aus derselben Zeit wird und eine Textur beibehält, die der einer Rumba ähnelt.
+Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter ist als die Soukous aus derselben Zeit und eine Textur beibehält, die der einer Rumba ähnelt.
 
 ---
 
@@ -202,14 +202,14 @@ flowchart LR
 # Kapitel 7 Aufnahmetechnik, Studioumgebung, Produktionssystem
 
 Veves Aufnahmeumgebung war zu dieser Zeit eine der fortschrittlichsten in Afrika.
-Es verfügte über ein eigenes Studio, in dem immer mehrere Toningenieure anwesend waren, und verfügte über die folgenden technischen Merkmale.
+Es verfügte über ein eigenes Studio, mehrere Toningenieure und verfügte über folgende technische Merkmale:
 
 - **Nutzen Sie schnell die Übergangszeit von der 2- bis 4-Spur-Aufnahme zur 4- bis 8-Spur-Aufnahme**
 - **Stereo-Methode zum Schwingen der Gitarre nach links und rechts**
 - **Mixing, das das Saxophon in den Vordergrund stellt**
 - **Ein bahnbrechender Ansatz, der mehrere Takes des Refrains aufnimmt und sie beim Bearbeiten kombiniert**
 
-Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für den Schnitt aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
+Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für die Bearbeitung aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
 
 ---
 
@@ -224,7 +224,7 @@ Besonders beliebt ist es in Bars (Tanzlokalen) und jedes Mal, wenn die Aufnahme 
 
 So sehr, dass der Tanz für jedes Lied definiert wurde.
 
-Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und das Vereinigte Königreich) weit verbreitet, wo Aufnahmen von Veve oft im Mittelpunkt von Tanzveranstaltungen in Einwanderergemeinschaften standen.
+Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und Vereinigtes Königreich) weit verbreitet, wo Aufnahmen von Veve oft im Mittelpunkt von Tanzveranstaltungen in Einwanderergemeinschaften standen.
 
 ---
 
@@ -233,7 +233,7 @@ Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und das Vereinig
 ## Unterschied zu Zaïko Langa Langa
 
 * **Zaïko: leicht, schnell, percussionlastig, lange Seben**
-* **Veve: sanft, Rumba-artig, saxofonischer Schwerpunkt, Chorpolyphonie**
+* **Veve: sanft, Rumba-artig, saxophonischer Schwerpunkt, Chorpolyphonie**
 
 Obwohl beide aus derselben Zeit stammen, sind ihre Richtungen sehr unterschiedlich.
 

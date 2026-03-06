@@ -17,7 +17,7 @@ title: Prince Rahiem – Rock Wit' It
 
 Prince Rahiem과 Rahiem Thomas(라힘 토마스)는 1988년 The Get Funky Crew의 멤버로 데뷔한 마이애미 출신의 미국 래퍼. 1990년의 앨범 「Pullit All the Way Down」에서는 Beatmaster Clay D(비트 마스터 클레이 D.)와 콜라보레이션. 솔로에서는 Loose My Money(1992년)와 On a Ride(1994년)의 두 앨범을 발표했다.
 
-'Rock Wit' It'는 앨범 On A Ride의 싱글 컷.
+'Rock Wit' It'은 앨범 On A Ride의 싱글 컷.
 
 #### Tracklist
 ```md

@@ -92,7 +92,7 @@ At the same time, it became a pioneer of ""fusion with hip-hop'' for the Japanes
 
 ---
 
-## Chapter 4: A new horizon for hip-hop opened up by an anime-like worldview
+## Chapter 4: A new horizon for hip-hop opened up by an anime worldview
 
 After Wu-Tang Clan, hip-hop acquired the ""language to talk about anime.''
 Tyler, The Creator references "Akira" and "Neon Genesis Evangelion",
@@ -115,7 +115,7 @@ It emphasized the "Zen" aspect of hip-hop and resonated with RZA's spiritual wor
 In particular, Nujabes' music combines sampling and the aesthetics of ma.
 He was spiritually connected to the Wu-Tang Clan, the "Samurai of Sound."
 
-In the 2020s, clear references appear in Japanese anime works.
+In the 2020s, clear references appear in Japanese anime works as well.
 The influence of lo-fi hip-hop can be seen in the BGM of "Jujutsu Kaisen".
 Multiple hip-hop artists will participate in the ending of "Chainsaw Man."
 Here, anime once again reconnects with the language of the "street."
@@ -209,5 +209,13 @@ Anime characters and rappers are all facing the same question.
 **"How to train yourself and how to fight against the world"**
 
 That is the greatest legacy left by the Wu-Tang Clan.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S46YQYuxx_I?si=-fAD-tm5XD8It5kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

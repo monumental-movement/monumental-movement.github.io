@@ -49,7 +49,7 @@ Zu Beginn des 20. Jahrhunderts war New Orleans eine Hafenstadt, in der sich vers
 
 ### New York und Tin Pan Alley
 
-In New York organisiert sich die Musik als Industrie mit einer Konzentration von Komponisten und Verlegern. Der Broadway und die Musikmusikindustrie definierten das Format der Popmusik und spiegelten die Geschwindigkeit und Kommerzialität der Stadt wider.
+In New York organisiert sich die Musik als Industrie mit einer Konzentration von Komponisten und Verlegern. Der Broadway und die Musikmusikindustrie etablierten ein Format für Popmusik, das die Geschwindigkeit und Kommerzialität der Stadt widerspiegelte.
 
 > Moderne Städte hatten die Macht, die Musik von der Improvisation zur Industrie zu drängen.
 
@@ -125,7 +125,7 @@ Während Städte Musik produzieren, regulieren sie sie auch. Überfüllung, Lär
 
 Radio, Fernsehen und Internet, die die Musik scheinbar von der Stadt trennten, schufen tatsächlich ein neues Bild der Stadt. Bestimmte Städtenamen fungieren weiterhin als Klangmarken.
 
-> Die Medien erweiterten die Stadt und ließen die Musik scheinbar unabhängig von der Geographie erscheinen.
+> Die Medien erweiterten die Stadt und erweckten den Eindruck, als sei die Musik von der Geographie befreit.
 
 ---
 
@@ -148,7 +148,7 @@ Obwohl Clubmusik und Hip-Hop grenzüberschreitend gemeinsame Formate haben, nehm
 * 1930er Jahre: Die Musikindustrie konzentriert sich auf New York
 *Elektrifizierter Blues, der in den 1950er Jahren in Chicago etabliert wurde
 * 1960er Jahre: Motown boomt in Detroit
-* Geburt des Hip-Hop in New York in den 1970er Jahren
+* Geburtsstunde des Hip-Hop in New York in den 1970er Jahren
 * 1980er Jahre: House in Chicago, Techno in Detroit
 * Clubkultur gepaart mit urbaner Neuordnung im Berlin der 1990er Jahre
 * Seit den 2000er Jahren: Urbane Musik durch das Internet neu definiert
@@ -166,7 +166,7 @@ Obwohl Clubmusik und Hip-Hop grenzüberschreitend gemeinsame Formate haben, nehm
 
 ## Kapitel 10 Osaka: Verschiedenes und körperlicher Rhythmus
 
-Osaka hat eine Stadtstruktur, in der Gewerbe- und Wohngebiete, Straßen und Innenbereiche relativ gemischt sind. Selbst in der Musikkultur steht eher die Körperlichkeit als die Logik im Vordergrund. Die Akzeptanz von Live-House-Kultur, Tanzmusik und Rockmusik wird mit dem materialistischen Charakter der Stadt in Verbindung gebracht.
+Osaka hat eine städtische Struktur, in der Gewerbe- und Wohngebiete, Straßen und Innenbereiche relativ gemischt sind. Selbst in der Musikkultur steht eher die Körperlichkeit als die Logik im Vordergrund. Die Akzeptanz von Live-House-Kultur, Tanzmusik und Rockmusik wird mit dem materialistischen Charakter der Stadt in Verbindung gebracht.
 
 Die Größe der Stadt ist kleiner als die von Tokio, was es einfacher macht, sich den Menschenstrom vorzustellen. Daher zirkuliert Musik als gemeinsames Erlebnis innerhalb der Gemeinschaft und Szenen werden in Einheiten sichtbarer Gesichter etabliert.
 
@@ -188,7 +188,7 @@ Hier definiert die Musik zunächst den Raum, gefolgt von städtischen Funktionen
 
 Detroit Techno ist eine Erweiterung der von der Automobilindustrie geprägten urbanen Rhythmen. Regelmäßige mechanische Bewegungen, breite Straßen und die Aushöhlung, die der Bevölkerungsflucht folgte, förderten ein anorganisches und anhaltendes Gefühl für den Rhythmus.
 
-Techno wurde hier zu mehr als nur Unterhaltung, es wurde zu einem Mittel zur Abstraktion des Stadtstaates. Das Zeitgefühl einer im Niedergang begriffenen Industriestadt kristallisierte sich in der Musik heraus.
+Hier wurde Techno zu mehr als nur Unterhaltung, er wurde zu einem Mittel zur Abstraktion des Stadtstaates. Das Zeitgefühl einer im Niedergang begriffenen Industriestadt kristallisierte sich in der Musik heraus.
 
 > Detroits Musik bewahrt im Klang die Form dessen, was die Stadt verloren hat.
 
@@ -250,7 +250,7 @@ Die Größe der Stadt ist kleiner als in Tokio und die Musikszene zirkuliert in 
 
 Die Musikkultur in den örtlichen Städten hat sich nach ihrem eigenen Zeitplan entwickelt und wurde gleichzeitig von der Zentralregierung beeinflusst. Aufgrund der geografischen Nähe zu Asien und seines Charakters als Hafenstadt hat Fukuoka die fremde Kultur schnell akzeptiert und Clubs und Veranstaltungsorte für Live-Musik häufen sich in der Regel im Stadtzentrum.
 
-Aufgrund des Klimas und der Größe der Stadt ist Sapporo stark auf Innenräume ausgerichtet und genreübergreifende Veranstaltungen finden über einen langen Zeitraum statt. Die Stadtränder fungierten als Räume für experimentellen Ausdruck.
+Aufgrund des Klimas und der Größe der Stadt ist Sapporo stark auf Innenräume ausgerichtet und genreübergreifende Veranstaltungen finden über einen langen Zeitraum statt. Die Stadtränder fungierten als Raum für experimentellen Ausdruck.
 
 > Regionalstädte haben die Musik in einem anderen Tempo entwickelt als die Zentralregion.
 
@@ -267,7 +267,7 @@ Da die Grundstückspreise aufgrund der Sanierung steigen, rücken kleine Musikr�
 ---
 
 
-## Letztes Kapitel: Wie stellt Musik die Zukunft der Städte dar?
+## Schlusskapitel: Wie stellt Musik die Zukunft der Städte dar?
 
 Musik nimmt auf, kritisiert und nimmt manchmal die Stadt vorweg. Solange sich der städtische Raum weiter verändert, wird auch weiterhin neue Musik entstehen. Musik hören ist der Akt, gleichzeitig auf die Gegenwart und Zukunft der Stadt zu hören.
 

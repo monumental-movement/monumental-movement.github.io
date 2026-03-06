@@ -142,7 +142,7 @@ Dahinter verbirgt sich eine durchgängige technologische Ästhetik von YMO bis P
 
 ---
 
-## Kapitel 6 Technologie und Emotionen: Wenn Maschinen Menschen anziehen
+## Kapitel 6 Technologie und Emotionen: Wenn Maschinen Menschen darstellen
 
 Sequenzer, Sampler, Autotune.
 Dabei handelte es sich nicht um Werkzeuge für „Genauigkeit“, sondern um Pinsel, die dazu dienten, „menschliche Mehrdeutigkeit“ hervorzuheben.
@@ -256,13 +256,13 @@ A1. Synthpop ist ein Genre, das elektronische Klänge in Popsongs integriert, un
 
 A2. Beispiele hierfür sind Depeche Mode, New Order, Pet Shop Boys und Human League.
 
-- **Q3. Welchen Einfluss hat japanischer Synth-Pop auf Übersee? **
+- **Q3. Wie hat japanischer Synthie-Pop das Ausland beeinflusst? **
 
 A3. Der experimentelle Geist von YMO und Ryuichi Sakamoto beeinflusste Daft Punk und Radiohead und wurde zum Ursprung der „elektronischen Menschheit“ im KI-Zeitalter.
 
-- **Q4. Was zeichnet den Neo-Synth-Pop der letzten Jahre aus? **
+- **Q4. Was zeichnet den Neo-Synthpop in den letzten Jahren aus? **
 
-A4. Der Punkt ist, dass wir „digitale Verzerrungen“ wie Hyperpop und KI-Musik aktiv einbauen. Beispiele hierfür sind Charli XCX und Grimes.
+A4. Der Punkt ist, dass wir „digitale Verzerrungen“ wie Hyperpop und KI-Musik aktiv einbauen. Beispiele dafür sind Charli XCX und Grimes.
 
 - **Q5. Welches Einsteigeralbum würden Sie Einsteigern empfehlen? **
 
@@ -274,5 +274,5 @@ A5. „Solid State Survivor“ (YMO) und „Violator“ (Depeche Mode) sind unab
 
 Wer der Geschichte des elektronischen Klangs nachspürt, geht auch den Aufzeichnungen menschlicher Emotionen nach.
 Es ist eine kontinuierliche „Poesie der Technologie“, von YMOs frühen Experimenten bis hin zu Charli XCXs digitaler Traurigkeit.
-Synthpop endet nie. Tatsächlich wird das Wesentliche im Zeitalter der KI erneut in Frage gestellt.
+Synth-Pop hört nie auf. Tatsächlich wird das Wesentliche im Zeitalter der KI erneut in Frage gestellt.
 

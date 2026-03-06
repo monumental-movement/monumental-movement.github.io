@@ -25,7 +25,7 @@ Die Neurowissenschaften haben auch gezeigt, dass Musik den Hippocampus (Gedächt
 Aber darüber hinaus ist Musik eine „Kunst der Zeit“ und eine „Nachstellung der Vergangenheit“.
 
 Musik hören ist nicht nur Unterhaltung, sondern ein körperlicher Akt der Wiederholung der Vergangenheit.
-Es existierte bereits, bevor die Aufnahmetechnik erfunden wurde; Es war eine Möglichkeit für Menschen, „Erinnerungen“ durch Stimme und Rhythmus zu teilen.
+Es existierte bereits, bevor die Aufnahmetechnik erfunden wurde – es war eine Möglichkeit für Menschen, „Erinnerungen“ durch Stimme und Rhythmus zu teilen.
 
 ---
 
@@ -74,7 +74,7 @@ Musik zeichnet die „Temperatur der Zeit“ direkter auf als Geschichtsbücher.
 
 ---
 
-## Kapitel 3: Die Wissenschaft der Nostalgie und des emotionalen Gedächtnisses
+## Kapitel 3: Die Wissenschaft von Nostalgie und emotionalem Gedächtnis
 
 Musik bringt Menschen zum Weinen, nicht so sehr wegen des Klangs selbst, sondern weil sie mit ihrem „vergangenen Selbst“ wieder vereint sind.
 Psychologisch gesehen fungieren Melodien und Harmonien als Erinnerungs-„Tags“.
@@ -120,7 +120,7 @@ Was Benedict Anderson eine „imaginierte Gemeinschaft“ nennt, ist
 Unterstützt wurde es durch „gemeinsame Musik“ wie die Nationalhymne und das Schullied.
 
 Allerdings entsteht in der heutigen Zeit das „kollektive Gedächtnis“ auf den Bühnen von Festivals und Clubs, nicht in Ländern.
-Sobald Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
+In dem Moment, in dem Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
 
 Es ist ein neues „Ritual“ des 21. Jahrhunderts und eine Erneuerung der Erinnerung.
 

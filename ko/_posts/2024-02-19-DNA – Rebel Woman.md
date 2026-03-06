@@ -14,7 +14,7 @@ title: DNA – Rebel Woman
 ---
 
 
-DNA는 UK댄스 뮤직 프로듀서이며 Nick Batt(닉 버트)와 Neal Slateford(닐 슬레이트 포드)의 듀오.
+DNA는 UK 댄스 뮤직 프로듀서이며 Nick Batt(닉 버트)와 Neal Slateford(닐 슬레이트 포드)의 듀오.
 
 2명은 1990년에 Suzanne Vega(수잔 베가)의 「Tom's Diner」의 리믹스를 발표한 것으로 잘 알려져 있습니다.
 

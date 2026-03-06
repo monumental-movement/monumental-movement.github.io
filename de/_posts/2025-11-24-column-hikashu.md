@@ -160,7 +160,7 @@ Die instabile Tonhöhe des Theremins stört die Struktur des Liedes und verleiht
 # 8. Übersicht der Hauptmitglieder
 
 - **Koichi Makigami**: Stimme: Theremin. die Mitte der Band. Ein breites Angebot an Aktivitäten von Avantgarde-Musik über Theater bis hin zu Volksmusik.
-- **Mita Chojin**: Gitarre. Verwendet akustische Verarbeitung und unregelmäßige Spieltechniken.
+- **Mita Chojin**: Gitarre. Versiert in akustischer Verarbeitung und unregelmäßigen Spieltechniken.
 - **Akira Toyama** (vorübergehende Teilnahme): Schlagzeug. Der Band ein Gefühl für Jazz/Improvisation vermitteln.
 - **Masami Sakaide**: Bass. Trägt zur Komplexität der Rhythmusstruktur bei.
 - **Makoto Inoue** (initial): Tastatur. Es bestimmte in den frühen Tagen Hikashus Techno-/New-Wave-Feeling.
@@ -208,7 +208,7 @@ Diese Werke entwickeln Hikashus einzigartige Weltanschauung unabhängig von Tren
 Die Einzigartigkeit von Hikashu liegt in der Tatsache, dass es sich weiterhin um eine natürliche Kunstgruppe handelt, die sich im Laufe der Zeit verändert.
 
 1. Wechseln Sie frei zwischen Haupt- und U-Bahn
-2. Streben nach akustischer Kunst mit Schwerpunkt auf der Stimme
+2. Akustische Kunst mit Schwerpunkt auf der Stimme verfolgen
 3. Die Einstellung, unabhängig von den Trends der Zeit weiterhin kreativ zu sein
 4. Befreiung aus dem Rahmen traditioneller Rockbands
 5. Live-Philosophie, die immer genreübergreifend ist und auch Wiederaufführungen zum „Experiment“ macht

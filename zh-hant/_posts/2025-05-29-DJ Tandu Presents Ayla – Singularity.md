@@ -14,7 +14,7 @@ title: DJ Tandu 推出 Ayla – Singularity Brainchild II
 ---
 
 
-DJ Tandu 和 Ayla 是德國 DJ 兼製作人 Ingo Kunzi 的 trance 項目的名字。
+DJ TanduとAylaは、ドイツのDJ・プロデューサーIngo Kunziのトランスプロジェクト名義。
 
 這張唱片由德國廠牌 Unsubmissive Records 於 2000 年發行。
 

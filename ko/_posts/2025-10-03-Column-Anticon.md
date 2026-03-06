@@ -40,8 +40,8 @@ color: #fff;
 
 ## 역사와 정신 — '반(anti)'으로서의 출자
 
-Anticon은 1998년, **Sole(Tim Holland)**나 **Doseone(Adam Drucker)**, **Jel(Jeffrey Logan)**, **Odd Nosdam(David Madson)**, **Pedestrian(James Brandon Best)**, **Yoni Wolf(Why?)**
-이름은 "ant-icon(반·아이콘)"의 어감에서 채취되어 기성품 장르와 상업적 규범에 대한 저항을 상징하고 있다.
+Anticon은 1998년 **Sole(Tim Holland)**과 **Doseone(Adam Drucker)**, **Jel(Jeffrey Logan)**, **Odd Nosdam(David Madson)**, **Pedestrian(James Brandon Best)**, **Yoni Wolf(Why?)** 등
+이름은 「ant-icon(반·아이콘)」의 어감에서 채취되어 기성품 장르나 상업적 규범에 대한 저항을 상징하고 있다.
 
 대표적인 프로젝트로는 **cLOUDDEAD**, **Themselves**, **Subtle**, **Deep Puddle Dynamics** 등이 있다.
 
@@ -245,7 +245,7 @@ Anticon은 1998년, **Sole(Tim Holland)**나 **Doseone(Adam Drucker)**, **Jel(Je
 
 ### 프로듀스/객연에서의 영향력
 
-Anticon의 멤버는 자신들의 라벨 밖에서도 폭넓게 콜라보레이션을 실시했다. 예를 들면 Odd Nosdam의 리믹스 일이나 Alias의 프로듀스/콜라보는, 포스트 락이나 인디계 쿠마의 아티스트와도 교차하고 있다. 또한 안티콘은 외부에서 Buck 65나 Sage Francis 등의 릴리스나 투어의 허브가 되어 독자적인 장면 형성에 기여했다.
+Anticon의 멤버들은 자신들의 라벨 밖에서도 폭넓게 콜라보레이션을 실시했다. 예를 들면 Odd Nosdam의 리믹스 일이나 Alias의 프로듀스/콜라보는, 포스트 락이나 인디계 쿠마의 아티스트와도 교차하고 있다. 또한 안티콘은 외부에서 Buck 65나 Sage Francis 등의 릴리스나 투어의 허브가 되어 독자적인 장면 형성에 기여했다.
 
 
 ---

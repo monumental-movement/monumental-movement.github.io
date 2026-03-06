@@ -9,7 +9,7 @@ layout: post
 permalink: /fr/finesse-a2r-whylin-fools-and-p-r-pride/
 tags:
 - Hiphop
-title: Finesse A2r – Whylin Fools & PR Pride
+title: Finesse A2r – Whylin Fools & P.R. Pride
 ---
 
 

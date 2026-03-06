@@ -13,7 +13,7 @@ title: Deep Side – What I Need
 
 
 "Deep Side – What I Need"의
-B면 1곡째는, 뉴올리언스 출신의 MC/힙합 아티스트/래퍼 Juvenile(쥬비나일)를 피쳐링.
+B면 1곡째는 뉴올리언스 출신의 MC/힙합 아티스트/래퍼 Juvenile(주비나일)을 피처링.
 
 
 #### Tracklist

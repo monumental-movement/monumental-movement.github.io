@@ -19,18 +19,18 @@ title: 【칼럼】 The Mekons — 반역과 재발명의 궤적
 
 문장 : mmr | 테마 : 리즈의 펑크에서 미국의 황야로. The Mekons가 보여준 음악과 공동체의 45년사
 
-> ** "시작은 반항이 아니라 웃음이었다."**
+>** "시작은 반항이 아니라 웃음이었다."**
 
 1977년, 영국 북부 리즈 대학.
-학생들이 강의실 한 구석에서 "자신들도 밴드를 할 수 있지 않을까"라고 농담 교제에 시작한 것이 메콴스였다. Jon Langford, Tom Greenhalgh, Kevin Lycett 등, 나중에 포스트펑크의 문화권을 상징하는 면면이다. 그들은 연주 기술을 갖지 못했고, 악기조차 차용물이었다고 한다.
-당시 펑크란 '누구나 시작할 수 있는 혁명'이었다. Mekons의 이름은 바이런의 연극 'The Curse of Minerva'에 등장하는 '반역자'에서 유래한다고 한다.
+학생들이 강의실 한쪽 구석에서 "자신들도 밴드를 할 수 있지 않을까"라고 농담 교제에 시작한 것이 메콘스였다. Jon Langford, Tom Greenhalgh, Kevin Lycett 등, 나중에 포스트펑크의 문화권을 상징하는 면면이다. 그들은 연주 기술을 갖지 못했고, 악기조차 차용물이었다고 한다.
+당시 펑크는 '누구나 시작할 수 있는 혁명'이었다. Mekons의 이름은 바이런의 연극 'The Curse of Minerva'에 등장하는 '반역자'에서 유래한다고 한다.
 
-1978년 출시의 **싱글《Where Were You/I'll ​​Have To Dance Then(On My Own)》**은 그들의 초기 펑크 정신을 상징하는 작품이다.
+1978년 발매의 **싱글《Where Were You/I'll ​​Have To Dance Then(On My Own)》**은 그들의 초기 펑크 정신을 상징하는 작품이다.
 《Where Were You?》는, 젊은이의 외로움과 사회에의 의심을, 예리한 날카로운 기타 리프와 노이즈 마지리의 보컬로 묘사. B면《I'll Have To Dance Then(On My Own)》은 자기 소외와 자유에 대한 희구를 펑크적 에너지로 표현하고 있다.
 녹음은 거칠어지면서도 대학 친구들과의 즉흥성으로 가득 메커스가 나중에 추구하는 '불완전 미학'의 원점을 볼 수 있다.
 
 초기 싱글《Never Been in a Riot》과 나란히, 이 싱글은 Mekons 초기의 사회 비평과 유머, 그리고 자기 탐구의 삼위일체를 나타내는 중요작으로 여겨진다.
-당시의 라이브에서는 이 곡이 끝날 때마다 관객이 웃고 혼란스러워 때로 논란이 일어난다는 광경이 일상이었다.
+당시의 라이브에서는, 이 곡이 끝날 때마다 관객이 웃고, 혼란해, 때로 논의가 일어난다고 하는 광경이 일상이었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71s-T8oUTQs?si=JRL_vF4jjerlZhUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

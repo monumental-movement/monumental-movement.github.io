@@ -115,7 +115,7 @@ Wir strebten nach „Klang, der die Natur des Raumes verändert, nicht nur zur W
 
 # **2-2. Midori Takada – Musik aus Zeit und Raum, gezeichnet von Schlaginstrumenten**
 
-Midori Takada (1951–) hat als japanische Perkussionistin und Komponistin weltweite Anerkennung gefunden.
+Midori Takada (1951–) hat als japanische Perkussionistin und Komponistin weltweite Anerkennung erlangt.
 
 ## ● Repräsentative Werke
 - **《Through the Looking Glass》 (1983)**
@@ -134,7 +134,7 @@ Sie behandelt Schlaginstrumente nicht als Symbole der „Zeit“, sondern als �
 
 # **2-3. Takashi Kokubo – Entdecker von Komfort und Wohnakustik**
 
-Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunkaudio seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
+Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunkton seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
 
 ## ● Repräsentative Werke
 - **《Ion-Serie》(1980er-Jahre)**
@@ -170,7 +170,7 @@ Ein elektronisches und zugleich idyllisches Meisterwerk.
 ## ● 3-1. Synthesizer-Kultur
 In den 1980er Jahren dominierten japanische Hersteller elektronischer Musikinstrumente den Weltmarkt und hatten großen Einfluss auf die Ambient-Musik.
 
-Geräte, die häufig genutzt wurden (innerhalb des nachweisbaren Bereichs)
+Geräte, die häufig verwendet wurden (innerhalb des nachweisbaren Bereichs)
 - Yamaha DX7
 - Roland Juno-Serie
 - Roland RE-201 (Bandecho)
@@ -198,7 +198,7 @@ Umweltmusik ging in diesem Zusammenhang über die bloße Hintergrundmusik hinaus
 
 ## ● 4-2. Verbindung mit „Komfortfunktionen“ von Haushaltsgeräten
 
-Die Musik von Takashi Kokubo, die Luftreinigern beiliegt, ist ein Symbol dafür.
+Ein Symbol dafür ist die Musik von Takashi Kokubo, die Luftreinigern beiliegt.
 Haushaltsgeräte x Umweltakustik
 Er begründete eine einzigartige japanische Idee.
 
@@ -245,7 +245,7 @@ Das liegt daran, dass es äußerst modern ist.
 | 1987 | Takashi Kokubo „A Dream Sails Out To Sea“ |
 | 1990er Jahre | Vertrieb einiger Werke eingestellt / Am Vorabend der Neubewertung |
 | 2010er | Wiederholung in Europa und Amerika, globale Neubewertung |
-| 2020er | Ausstellungen und Nachdrucke gehen weiter und es wird zu einem internationalen Genre |
+| 2020er Jahre | Ausstellungen und Nachdrucke gehen weiter und es wird zu einem internationalen Genre |
 
 ---
 
@@ -271,7 +271,7 @@ Japanische Umweltmusik ist nicht nur „heilend“ oder „Hintergrundgeräusch�
 **Klangkunst geschaffen durch urbane Kultur, Design und Lebensphilosophie**
 Es ist.
 
-- Zwischenbereich zwischen Kunst und Musik
+- Zwischenfeld zwischen Kunst und Musik
 - Reaktion auf die Urbanisierung
 - Lebensstilkultur und Hausgerätetechnik
 - Synthesizer-Innovation
@@ -283,7 +283,7 @@ Die Welt hat das neu bewertet
 **Nicht nur die Schönheit der Musik selbst, sondern auch die darin enthaltene einzigartige japanische Philosophie**
 Es ist.
 
-Ambient-Musik erhält auf der ganzen Welt immer wieder neue Bedeutungen, und die Werke aus den 1980er-Jahren, aus denen sie hervorgegangen ist, dürften weiterhin ein wichtiges Fundament der Musikgeschichte bleiben.
+Ambient-Musik hat auf der ganzen Welt immer wieder neue Bedeutungen, und die Werke aus den 1980er Jahren, aus denen sie hervorgegangen ist, werden wahrscheinlich ein wichtiges Fundament der Musikgeschichte bleiben.
 
 ---
 

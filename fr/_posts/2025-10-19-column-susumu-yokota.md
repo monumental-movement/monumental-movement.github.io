@@ -49,7 +49,7 @@ Acid Mt. Fuji (1994) était une œuvre révolutionnaire mêlant sons naturels et
 
 Sa méthode n'est pas seulement la création de morceaux, mais aussi la « poésie acoustique ». Reconstruire le matériel échantillonné et faire flotter de minuscules boucles comme l'air. On a l’impression que le son change avec le temps et finit par s’enfoncer dans les profondeurs de la mémoire. C'était sa propre vision de la musique.
 
-Ce qui est remarquable, c'est qu'il a publié ses œuvres sous plusieurs noms. Parmi eux, "**Anima Mundi**" était un alias important et développait un son plus introspectif et méditatif. Sous ce nom, il explore le thème métaphysique de « Anima Mundi » (l'âme du monde) à travers une pure expérience acoustique sans rythme.
+Ce qui est remarquable, c'est qu'il a publié ses œuvres sous plusieurs noms. Parmi eux, "**Anima Mundi**" était un alias important et développait un son plus introspectif et méditatif. Sous ce nom, il explore le thème métaphysique de « l'âme du monde » = Anima Mundi à travers une pure expérience acoustique sans rythme.
 
 ---
 
@@ -72,7 +72,7 @@ Il y a un sentiment de jeu qui dépasse le cadre de la simple musique d’ambian
 
 ### « Le garçon et l'arbre » (2003)
 Il y a une atmosphère qui donne l’impression d’avoir été enregistrée dans une forêt et un rythme qui fait penser aux battements de cœur de la vie.
-La « musique de la vie » unique de Yokota, flottant entre nature et électronique. Il présente un haut degré de perfection en tant que chef-d'œuvre de sa période ultérieure.
+La « musique de vie » unique de Yokota flottant entre nature et électronique. Il présente un haut degré de perfection en tant que chef-d'œuvre de sa période ultérieure.
 
 ---
 
@@ -121,7 +121,7 @@ La performance live de Yokota n'était pas seulement une reconstitution, mais un
 Il a éliminé autant que possible l'éclairage et les images, transformant l'espace avec la « densité de l'air » que possède le son.
 Le public est enveloppé de particules sonores et perd la notion du temps. C’était une expérience où chaque personne se fondait dans le son.
 
-Sa position était un exemple rare de combinaison de la physicalité dansante de la techno avec la nature méditative de l’ambient.
+Sa position était un exemple rare de réalisation simultanée de la physicalité dansante de la techno et de la nature méditative de l’ambient.
 
 ---
 
@@ -163,7 +163,7 @@ De plus, l'esprit de Yokota a certainement été hérité par des artistes ambie
 
 ---
 
-## Chapitre 9 : Conclusion — Musique en silence
+## Chapitre 9 : Conclusion — Musique en silence
 
 La musique de Susumu Yokota n'est pas racontée à travers des mélodies et des rythmes flashy, mais à travers le silence et les espaces vides.
 Dans ce silence habitent le bruit de la ville, le souffle de la nature et la mémoire humaine.

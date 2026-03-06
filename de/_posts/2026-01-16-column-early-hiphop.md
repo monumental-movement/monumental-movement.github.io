@@ -77,7 +77,7 @@ DJs spielten in der frühen Hip-Hop-Kultur die zentrale Rolle. Allerdings waren 
 
 Der DJ war dafür verantwortlich, die Tontechnik vorzubereiten, die Stromversorgung sicherzustellen, Schallplatten einzubringen und die Party auf die Beine zu stellen. Neben der „Auswahl“ der Musik galt es auch, „den Raum zu schaffen“.
 
-Der Vorgang, rhythmische Teile aus Funk- und Soul-Platten zu extrahieren und sie zu wiederholen, während man die Reaktion des Publikums beobachtete, wurde spontan verfeinert.
+Der Vorgang, rhythmische Teile aus Funk- und Soul-Platten zu extrahieren und sie zu wiederholen, während man die Reaktion des Publikums beobachtete, wurde spontan und raffiniert.
 
 Zu diesem Zeitpunkt waren DJs weniger Schöpfer als vielmehr Zeitkontrolleure.
 

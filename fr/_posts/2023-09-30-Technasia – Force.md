@@ -16,7 +16,7 @@ title: Technasia – Force
 
 "Force" est un grand classique, avec le chant qui rend ce morceau typique de Technasia spécial.
 
-Découvrez le mix breakbeat au dos, ça vaut le détour.
+裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
 
 #### Liste des chansons
 ```md

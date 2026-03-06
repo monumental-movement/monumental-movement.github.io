@@ -16,7 +16,7 @@ title: Oxia – Reflexion
 ---
 
 
-GoodLife의 창립자 중 한 명, 프랑스 DJ 프로듀서 Oxia (옥시아)와 Olivier Raymond (올리비에 레이몬드)의 테크노 트랙.
+GoodLife의 창립자 중 한 명인 프랑스인 DJ 프로듀서 Oxia(옥시아)와 Olivier Raymond(올리비에 레이몬드)의 테크노 트랙.
 
 A면 1곡째는, 스위스의 DJ·프로듀서이며, Techno/House 라벨 Character를 운영하는 Deetron과 Samuel Geiser에 의한 remix.
 

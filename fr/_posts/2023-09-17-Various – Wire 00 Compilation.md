@@ -9,13 +9,13 @@ permalink: /fr/various-wire-00-compilation/
 tags:
 - Techno
 - Compilation
-title: Divers – Compilation Fil 00
+title: Various – Wire 00 Compilation
 ---
 
 
-Il s'agit d'une compilation des artistes de "WIRE 00", la plus grande rave en salle de l'histoire organisée en 2000.
+2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
 
-L'ensemble de 2 LP comprend également des morceaux de Sven Väth, DJ Hell et WestBam.
+2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
 
 #### Liste des chansons
 ```md

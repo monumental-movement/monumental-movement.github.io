@@ -16,7 +16,7 @@ title: '[Chronique] Rock progressif et anime : Une histoire épique qui se crois
 
 ## Rock progressif et anime : un grand récit qui se croise
 
-Texte : mmr｜Thème : Rock progressif qui a une forte affinité avec l'anime
+Texte : mmr｜Thème : Rock progressif qui a une forte affinité avec l'anime
 
 Lorsque nous parlons de la relation entre l'anime et la musique, nous pensons à des genres directement liés, comme la J-Pop, les chansons d'idoles, l'Eurobeat et l'électro. Cependant, si vous creusez un peu plus, vous constaterez qu’il a une affinité étonnamment forte avec le **rock progressif**. En surface, cela peut sembler éloigné des « chansons d’anime », mais sa longue structure, ses rythmes difficiles et sa narration semblable à un album concept résonnent en fait à bien des égards avec les caractéristiques du médium anime.
 
@@ -81,14 +81,14 @@ Bien qu’il y ait peu de contacts directs entre les deux, il est intéressant d
 
 La bande originale de Shiro Sagisu est parsemée de développements profonds et dissonants qui rappellent King Crimson et Yes. En particulier, des chansons telles que « Decisive Battle » et « Thanatos » utilisent fréquemment des signatures rythmiques étranges et des changements de tonalité, et au lieu de donner à l'auditeur un plaisir facile, elles suscitent anxiété et tension. C'est exactement la méthode d'expression pour laquelle le rock progressif est doué, et elle résonne avec la « difficulté » et la « philosophie » de l'œuvre dans son ensemble.
 
-De plus, les idées occidentales et les motifs religieux auxquels Eva rend hommage sont également des éléments qui apparaissent fréquemment dans les albums concepts de rock progressif. En conséquence, on peut dire qu’Evangelion incarne une vision du monde du rock progressif non seulement visuellement et narrativement, mais aussi musicalement.
+De plus, les idées occidentales et les motifs religieux auxquels Eva rend hommage sont également des éléments qui apparaissent fréquemment dans les albums concept de rock progressif. En conséquence, on peut dire qu’Evangelion incarne une vision du monde du rock progressif non seulement visuellement et narrativement, mais aussi musicalement.
 
 ---
 
 ### ■ Pourquoi le rock progressif n'est-il pas devenu courant dans l'anime ?
 Cependant, le courant dominant de la musique animée est la J-POP, le rock, l’électro, etc., et il existe peu d’exemples de rock progressif poussé au premier plan. L'une des raisons à cela peut être la **différence avec la commercialité**. Les chansons de rock progressif sont souvent difficiles à comprendre, longues et peu accrocheuses. Cela ne va pas bien avec le « crochet court et percutant » requis pour les ouvertures et les fins.
 
-Cependant, d'un autre côté, il est encore possible que les techniques du rock progressif continuent d'exister dans des « lieux dotés d'un haut degré de liberté » comme les bandes sonores, les OAV et les versions cinématographiques. Compte tenu de la montée du post-rock et du métal progressif ces dernières années, les possibilités sont encore plus larges.
+Cependant, d'un autre côté, il est encore possible que les techniques du rock progressif continuent d'exister dans des « lieux dotés d'un haut degré de liberté » comme les bandes sonores, les OAV et les versions cinématographiques. Compte tenu de la montée du post-rock et du metal progressif ces dernières années, les possibilités sont encore plus larges.
 
 ---
 
@@ -139,7 +139,7 @@ L’affinité entre l’anime et le rock progressif n’est pas seulement une co
 ### ■Conclusion
 Le rock progressif n’est jamais devenu « mainstream » dans l’animation commerciale. Cependant, sa longue composition, son rythme difficile et sa nature conceptuelle ont une grande affinité avec le développement semblable à la taïga des œuvres d'anime centrées sur la science-fiction et la fantasy.
 
-Des exemples comme Neon Genesis Evangelion, qui intègrent directement des techniques de rock progressif, ne sont que la pointe de l’iceberg. À l’avenir, l’illusion du « et si l’anime était raconté en rock progressif » continuera de montrer de nouvelles intersections entre la musique et la vidéo.
+Des exemples comme Neon Genesis Evangelion, qui intègrent directement des techniques de rock progressif, ne sont que la pointe de l’iceberg. À l’avenir, l’illusion du « et si l’anime était raconté à travers le rock progressif » continuera de montrer de nouvelles intersections entre la musique et la vidéo.
 
 
 ---

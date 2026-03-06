@@ -48,7 +48,7 @@ color: #fff;
 ## Chapitre 1 Records et California Air
 
 Steve Jobs est un produit de la contre-culture californienne de la fin des années 1960 et des années 1970.
-Son admiration pour Bob Dylan et les Beatles dès son plus jeune âge est confirmée par de nombreuses biographies.
+De nombreuses biographies confirment qu'il admirait Bob Dylan et les Beatles dès son plus jeune âge.
 
 Dans la biographie de Walter Isaacson "Steve Jobs" (2011), il a un **amplificateur à tube et un tourne-disque** dans son salon.
 On raconte qu'il écoutait tous les soirs des albums de Bob Dylan et de Joan Baez.
@@ -63,7 +63,7 @@ La musique n’était pas seulement un passe-temps pour Jobs, mais un art qui co
 ## Chapitre 2 L'esthétique et le son tranquille de I've
 
 Jonathan Ive est originaire de Londres. Après des études de design industriel, il rejoint Apple en 1992.
-Son sens esthétique est enraciné dans le rationalisme du Bauhaus, mais il a aussi une profonde obsession pour le son.
+Son sens esthétique est ancré dans le rationalisme du Bauhaus, mais il a aussi une profonde obsession pour le son.
 
 Dans son podcast de 2024, Life in Seven Songs, il partage sept chansons qui ont façonné sa vie.
 Il s’agit notamment de « 40 »** de **U2 et de **« Papa Was a Rollin’ Stone »** de The Temptations.
@@ -150,7 +150,7 @@ En fait, ils sont unis par la philosophie de « libérer les gens grâce à la m
 
 ## Chapitre 8 Le langage de conception du « son »
 
-Après le décès de Jobs, je l'ai décrit comme suit.
+Après le décès de Jobs, je l'ai décrit comme suit :
 
 > "Il regardait les produits comme on écoute de la musique : il y a le rythme, il y a l'harmonie, il y a le silence."
 

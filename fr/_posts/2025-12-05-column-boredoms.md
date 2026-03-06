@@ -73,7 +73,7 @@ Les performances live de Hanatarash sont connues pour leur caractère extrême e
 L'ennui a commencé à Osaka vers 1986, et les premiers membres comprenaient **Ai Yamazuka, Mitsuru Tabata, Toyohito Yoshikawa et HIRA**.
 Leurs premiers travaux étaient un mélange dense de la vitesse du hardcore et du pouvoir destructeur du bruit, avec des structures alternant entre cris, rythmes fragmentés et silences soudains.
 
-En 1988, ils ont commencé à attirer l’attention sur la scène indépendante étrangère et sont devenus un sujet brûlant dans la communauté underground des États-Unis.
+En 1988, ils ont commencé à attirer l’attention sur la scène indépendante d’outre-mer et sont devenus un sujet brûlant dans la communauté underground des États-Unis.
 En 1989, ils ont été fortement soutenus par **Sonic Youth** et grâce à leurs interactions, ils ont été connectés aux grands groupes indépendants américains.
 
 ### Structure musicale des premiers ennuis
@@ -111,7 +111,7 @@ Le son s'est superposé, un sentiment de transe s'est glissé dans le rythme ré
 
 ---
 
-L'année suivante, Vision Creation Newsun, en 1999, fut l'une des œuvres déterminantes de la carrière de Boredoms.
+L'année suivante, Vision Creation Newsun de 1999 était l'une des œuvres déterminantes de la carrière de Boredoms.
 Sons naturels, percussions ethniques, sons soutenus et structures cycliques, drones de guitare, rythmes multicouches...
 
 Les Boredoms n'étaient même pas un "groupe de rock" ici, mais s'enfonçaient plutôt dans le minimalisme cosmique et la transe rituelle.
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Chapitre 5 : Activités depuis les années 2010
-Depuis les années 2010, Boredoms continue de se produire en direct par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
+Depuis les années 2010, Boredoms continue de donner des performances live par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
 En particulier, **les activités d'art visuel de Eye** et **les activités de Yoshimi avec OOIOO/SAICOBABA** se sont développées, donnant l'impression que Boredoms était plus un « projet collectif » qu'un « groupe ».
 
 ---
@@ -239,7 +239,7 @@ Dans ce chapitre, nous organiserons structurellement la musique de Boredoms.
 1. **Éléments destructeurs/soudains**
 2. **Répétition et gain de structure**
 
-En oscillant entre ces polarités, leur travail revêt une fluidité unique.
+En oscillant entre ces deux polarités, leur travail revêt une fluidité unique.
 
 ### 8.2 Structure du rythme
 Dans Boredoms ultérieurs, le rythme est devenu le sujet, et la mélodie et les paroles sont passées à un rôle de soutien.

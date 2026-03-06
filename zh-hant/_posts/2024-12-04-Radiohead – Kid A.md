@@ -32,7 +32,7 @@ title: Radiohead - Kid A
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
 
 
 #### Youtube

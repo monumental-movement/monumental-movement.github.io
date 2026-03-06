@@ -15,7 +15,7 @@ title: Bel Amour – Bel Amour
 
 Bel Amour(벨 아무르)는 Édouard de Tricasse & Jean-Claude Sindress에 의한 프랑스 출발의 일렉트로/하우스 듀오.
 
-2001년에 릴리스된 데뷔 싱글 「Bel Amour」는 세계적으로 대히트가 된 House 트랙. 이 레코드는 Time Records의 House 부문 Rise에서 출시된 이탈리아판.
+2001년에 릴리스된 데뷔 싱글 「Bel Amour」는 세계적으로 대히트가 된 House 트랙. 이 레코드는 Time Records의 House 부문 Rise에서 발표된 이탈리아판.
 
 
 

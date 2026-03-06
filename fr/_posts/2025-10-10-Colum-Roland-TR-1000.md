@@ -10,18 +10,17 @@ tags:
 - Techno
 - Hiphop
 - House
-title: '[Chronique] Roland TR-1000 : Redéfinir le rythme ─ Gènes analogiques et battement
-  de cœur de l''ère de l''IA'
+title: 【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動
 ---
 
 
-## Quand Roland réécrit encore la « définition de la boîte à rythme »
+## Rolandが再び「リズムマシンの定義」を書き換える時
 
 
-Texte : mmr｜Thème : TR-1000, le dernier produit de la série TR publiée par Roland. Examinez en profondeur la conception de ses circuits analogiques, le comportement de l'IA et sa signification culturelle à partir des trois axes de la technologie, de l'idéologie et de l'histoire culturelle.
+文：mmr｜テーマ：Rolandが送り出したTRシリーズ最新作TR-1000。そのアナログ回路設計、AI的挙動、文化的意味を技術・思想・文化史の三軸から徹底的に掘り下げる
 
 
-Le nouveau rythme cardiaque de Roland, le TR-1000, est un "Rhythm Creator" qui combine la chaleur de l'analogique, la précision du numérique et la liberté de l'échantillonnage. Cet article dévoilera son noyau technique, son contexte idéologique et sa position dans la culture musicale.
+ローランドの新たな鼓動、TR-1000は、アナログの温もり・デジタルの精緻さ・サンプリングの自由を融合した“Rhythm Creator”。本稿では、その技術的核心と思想的背景、そして音楽文化における位置付けを解き明かす。
 
 ---
 
@@ -38,7 +37,7 @@ color: #fff;
 </style>
 
 
-### Chapitre 1 « La boîte à rythme n'est pas terminée »
+### 第1章　「リズムマシンは終わっていない」  
 #### ── L'incident de l'apparition du TR-1000
 
 Le **TR-1000** sorti par Roland en 2025 n'est pas qu'une extension de la série.
@@ -78,7 +77,7 @@ Réactivité comme si le rythme était une « respiration ». C'est pourquoi Rol
 
 ---
 
-### Chapitre 4 Structure acoustique : évolution du grave et de la texture du rythme
+### Chapitre 4 Structure acoustique : Evolution des basses fréquences et texture rythmique
 #### ── Pour vaincre le « fantôme du coup de pied 808 »
 
 Au cœur du TR-1000 se trouve une philosophie de conception bas de gamme.
@@ -87,7 +86,7 @@ En conséquence, nous avons obtenu une « basse fréquence tridimensionnelle » 
 
 La caisse claire est construite à l'aide d'un circuit discret + méthode de mise en forme du bruit, et le charleston est construit à l'aide d'une source de bruit analogique qui comprend un micro-retard infime.
 Il a réalisé une « coexistence de réalisme acoustique et d'abstraction » qui va au-delà de la reproduction du 808/909.
-En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient un riche sentiment de séparation même sur les moniteurs de studio.
+En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient une riche sensation de séparation même sur les moniteurs de studio.
 
 ---
 
@@ -100,7 +99,7 @@ Le fondateur de Roland, **Ikutaro Kakei**, a dit un jour :
 Le TR-1000 hérite de cette philosophie dans le contexte de l'ère de l'IA.
 La fonction « Humaniser » analyse l'historique des performances et modélise les habitudes du joueur, pas seulement les fluctuations de tempo.
 Il « apprend » le rythme du bout des doigts du joueur et le restitue sous forme de son.
-En d’autres termes, le TR-1000 est aussi une « machine à l’écoute des performances humaines ».
+En d’autres termes, le TR-1000 est aussi une « machine qui écoute les performances humaines ».
 
 Ce dialogue a évolué depuis l'époque où le 808 offrait un « groove mécanique » à un « rythme résonant ».
 
@@ -113,7 +112,7 @@ Dans les années 1980, le TR-808 a donné naissance au hip-hop, le 909 a donné 
 La série TR a toujours marqué un tournant dans l’histoire de la musique.
 
 Le TR-1000 se taille également un nouveau symbole dans la culture des clubs modernes, où cohabitent IA et performances live.
-Le DJ Bone de Détroit décrit le TR-1000 comme une « machine à rythme respiratoire », et le producteur de Tokyo Seiho déclare : « Le rythme a commencé à susciter des émotions ».
+Le DJ Bone de Détroit décrit le TR-1000 comme une « machine à rythme respiratoire », et le producteur de Tokyo Seiho déclare : « Le rythme a commencé à susciter de l'émotion ».
 Dans un contexte culturel, le TR-1000 ne signifie pas une « extension de la nostalgie » mais une « expansion de la conscience rythmique ».
 
 ---
@@ -154,7 +153,7 @@ Et au centre de tout cela se trouve toujours un être humain. **
 ---
 
 
-### ▷ Chronologie principale de la série TR (Sirène)
+### ▷ Chronologie principale de la série TR
 
 <div class="mermaid">
 

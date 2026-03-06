@@ -28,7 +28,7 @@ title: '[Chronique] Morton Subotnick : Un innovateur de la musique électronique
 Texte : mmr｜Thème : À propos du « futur contrôlable » lancé par les innovateurs de la musique électronique
 
 Morton Subotnick (1933–) est un musicien contemporain américain et compositeur de musique électronique, largement connu comme la personne qui a sorti le premier disque commercial au monde entièrement produit à l'aide de synthétiseurs, Silver Apples of the Moon (1967).
-Cette œuvre est sortie chez Nonesuch Records, un label spécialisé dans la musique classique, et était révolutionnaire dans la mesure où elle présentait les sons électroniques comme une « œuvre » d'une manière inédite à l'époque.
+Cette œuvre est sortie chez Nonesuch Records, un label spécialisé dans la musique classique, et était révolutionnaire dans la mesure où elle présentait le son électronique comme une « œuvre » d'une manière inédite à l'époque.
 
 Les innovations de Subotnick vont au-delà de la simple composition de musique électronique ; il est également important en tant que personnage clé dans le développement du synthétiseur Buchla de la côte ouest et a eu une influence à long terme sur la culture des synthés modulaires modernes.
 
@@ -94,7 +94,7 @@ L’idée selon laquelle la modulation et les commandes complexes déterminent l
 # **4. "Silver Apples of the Moon" (1967) : Une œuvre qui a changé l'histoire de la musique électronique**
 
 Le chef-d'œuvre et l'œuvre symbolique de Subotnick dans l'histoire de la musique électronique.
-**``Pommes d'argent de la Lune''**.
+**``Pommes d'argent de la lune''**.
 
 <div class="mermaid">
 flowchart LR
@@ -228,7 +228,7 @@ graph TD
 
 ---
 
-# **Conclusion : Quel héritage les réalisations de Subotnick ont-elles laissé ?**
+# **Conclusion : quel héritage les réalisations de Subotnick ont-elles laissé ?**
 
 La réussite de Morton Subotnick réside dans la réinvention du cadre même de la musique électronique.
 Il a élevé le son électronique de la « manipulation du timbre » à la « génération structurelle », et le système qu'il a créé avec Buchla est le fondement de la culture des synthés modulaires d'aujourd'hui.

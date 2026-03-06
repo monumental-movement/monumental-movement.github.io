@@ -83,7 +83,7 @@ En d’autres termes, l’euro des années 1990 était « l’image pop de l’E
 
 ### Langage commun entre l'Europe et la pop après la guerre froide
 
-Après la chute du mur de Berlin en 1989, l’Europe s’est rapidement transformée en un marché du divertissement transfrontalier. L'« euro-pop chantée en anglais » a commencé à pénétrer le marché international, même en provenance de pays non anglophones (comme l'Allemagne, les Pays-Bas, l'Italie et la Suède).
+Après la chute du mur de Berlin en 1989, l’Europe s’est rapidement transformée en un marché du divertissement transfrontalier. L'« euro-pop chantée en anglais » a commencé à entrer sur le marché international, même en provenance de pays non anglophones (comme l'Allemagne, les Pays-Bas, l'Italie et la Suède).
 
 Cela signifie qu’Euromusic est une culture musicale qui donne la priorité au plaisir sensoriel plutôt qu’aux frontières politiques. Du rythme, des synthés et un refrain simple et répétable. Celles-ci sont devenues un « langage commun » qui transcende les langues et les frontières.
 
@@ -138,7 +138,7 @@ Une base de « culture de la danse visuelle » qui vend de la vidéo et de la mu
 
 Une série développée indépendamment au Japon par Avex. Également lié à la culture Initial D.
 
-** ● Disque réimporté produit en Europe et distribué au Japon **
+**QuantityDisque réimporté produit en Europe et distribué au Japon**
 
 Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAHARAJA NIGHT)
 
@@ -159,12 +159,12 @@ Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAH
 
 **Fusion avec la culture visuelle** : culture européenne non occidentale
 
-- Il a également été incorporé dans les OP d’anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l’euro ».
+- Il a également été incorporé dans les OP d'anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l'euro ».
 
 
 <hr>
 
-### Pourquoi les critiques l'ont-ils ignoré ? ──"Légèreté" et "Anti-Art"
+### Pourquoi les critiques l'ont-ils ignoré ? ─ « Légèreté » et « Anti-Art »
 
 Pendant longtemps, la musique européenne n’a pas été bien accueillie par la critique. La raison est la suivante :
 

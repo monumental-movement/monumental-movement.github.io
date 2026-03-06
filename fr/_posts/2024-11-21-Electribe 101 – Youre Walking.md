@@ -11,15 +11,15 @@ tags:
 - Downtempo
 - Deep House
 - 90s
-title: Electribe 101 – Vous marchez
+title: Electribe 101 – You're Walking
 ---
 
 
-Electribe 101 était un groupe actif de 1988 à 1992. Le leader est Billie Ray Martin.
+Electribe 101は、1988年〜1992年に活動したグループ。フロントはBillie Ray Martin(ビリー・レイ・マーティン)。
 
-Spécialisé dans la soul house sombre, psychédélique, bluesy et électronique, il a soutenu Depeche Mode lors de leur « World Violation Tour » de 1990.
+ダーク、サイケデリック、ブルージー、エレクトロニックソウルフルハウスを得意とし、1990年のDepeche Mode のツアー'World Violation Tour' ではサポートを務めた。
 
-"You're Walking" est un single du premier album d'Electribal 101 "Electribal Memories" sorti en 1990, et la face A est un remix de David Morales.
+「You're Walking 」は、1990年にリリースされたElectribe 101 のファーストアルバム「Electribal Memories」からのシングルカットで、A面はDavid Moralesのremix。
 
 #### Liste des chansons
 ```md

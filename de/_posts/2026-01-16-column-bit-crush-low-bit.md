@@ -162,7 +162,7 @@ Low-Bit-Rauschen und Glitches haben gemeinsam, dass beide auf digitale Unvollkom
 
 ### IDM und akustische Ästhetik
 
-Im sogenannten IDM-Kontext wurde die Textur des Klangs selbst als kompositorisches Element hervorgehoben.
+Im sogenannten IDM-Kontext wurde die Textur des Klangs selbst als kompositorisches Element betont.
 Bit-Crushing spielte bei der Gestaltung der Textur eine größere Rolle als Rhythmus und Melodie.
 
 Low-Bit-Sounds sind wie Pinselstriche in abstrakter Musik.
@@ -179,7 +179,7 @@ Low-Bit-Sounds sind wie Pinselstriche in abstrakter Musik.
 In den letzten Jahren wurden 8-Bit-/12-Bit-Sampler und Lo-Fi-orientierte Klangquellen neu bewertet.
 Das ist nicht nur Nostalgie; Gerade weil die Musikproduktionsumgebung so hochauflösend geworden ist, ist die entgegengesetzte Richtung eine klare Option geworden.
 
-> Eine niedrige Klangqualität wird gerade deshalb gewählt, weil wir in einer Zeit hoher Klangqualität leben.
+> Eine niedrige Klangqualität wird genau deshalb gewählt, weil wir in einer Zeit hoher Klangqualität leben.
 
 ---
 

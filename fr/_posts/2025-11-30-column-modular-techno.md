@@ -26,7 +26,7 @@ Texte : mmr｜Thème : À propos de la scène Techno Modulaire
 
 Bien que ses origines en tant que genre remontent au début des années 2000, ses éléments fondateurs sont profondément enracinés dans l'émergence des synthés modulaires analogiques dans les années 1970 et dans la formation de la techno de Détroit dans les années 1980. En raison du haut degré de liberté des synthés modulaires, il est souvent possible de développer des sons uniques qui mettent l'accent sur la texture et l'étendue spatiale du son, plutôt que de simplement jouer des morceaux techno.
 
-Dans son live, il manipule module par module le rythme, la ligne de basse, les percussions et les effets de bruit pour créer un espace musical improvisé. En conséquence, les auditeurs peuvent vivre une expérience qui ressemble davantage à « vivre une performance » qu'à « écouter un morceau ».
+Dans son live, il manipule le rythme, la ligne de basse, les percussions et les effets de bruit dans chaque module pour créer un espace musical improvisé qui change. En conséquence, les auditeurs peuvent vivre une expérience qui ressemble davantage à « vivre une performance » qu'à « écouter un morceau ».
 
 
 ---
@@ -49,7 +49,7 @@ color: #fff;
 
 ## Début de la techno et du synthétiseur analogique
 
-Dans les années 1970, les synthétiseurs modulaires développés par Robert Moog, ARP et d'autres offraient de nouvelles possibilités pour la production musicale. Ces synthés étaient révolutionnaires dans la mesure où ils permettaient la connexion individuelle de modules de sources sonores, de filtres, de LFO, de générateurs d'enveloppe, etc., ainsi que la possibilité de construire librement des structures sonores.
+Dans les années 1970, les synthétiseurs modulaires développés par Robert Moog, ARP et d'autres offraient de nouvelles possibilités pour la production musicale. Ces synthés étaient révolutionnaires dans la mesure où ils permettaient la connexion individuelle de modules de sources sonores, de filtres, de LFO, de générateurs d'enveloppe, etc., et la possibilité de construire librement des structures sonores.
 
 Au début des années 1980, Juan Atkins, Derrick May, Kevin Saunderson et d'autres ont fondé la musique électronique appelée « techno » à Détroit. La première Techno de Detroit était principalement basée sur des séquenceurs et des machines à rythmes, mais les sons chauds et les techniques de séquençage complexes propres aux synthés analogiques sont devenus un pont vers la Techno Modulaire ultérieure.
 
@@ -108,7 +108,7 @@ Surgeon, d'origine britannique, est connu comme l'un des premiers artistes à in
 
 Richie Hawtin, profondément impliqué dans la techno de Détroit et la techno minimale, a également incorporé des synthés modulaires dans ses performances depuis les années 2010. Son set est un composite de mixeurs, d'effets, d'ordinateurs et de modules Eurorack, et en manipulant finement la dynamique sonore, il crée une structure plus fluide que la techno minimale traditionnelle.
 
-## SNTS
+##SNTS
 
 SNTS, connu comme un artiste très anonyme, est fortement présent dans les domaines de la dark techno et de la techno industrielle. Dans son live, il exploite pleinement la saturation analogique, les modules de distorsion, les sources de bruit, etc. pour créer un espace acoustique tridimensionnel et violent. Ce son a gagné de nombreux adeptes et a eu une forte influence sur la texture des lignes de basse et des kicks.
 
@@ -207,7 +207,7 @@ Modular Techno présente plusieurs caractéristiques acoustiques et structurelle
 
 ## 1. « Fluctuations » du rythme et changements stochastiques
 
-La techno traditionnelle est centrée sur un rythme 4/4 régulier. D'un autre côté, les synthés modulaires utilisent souvent des séquenceurs stochastiques qui changent de valeurs à chaque étape.
+La techno traditionnelle est centrée sur un rythme 4/4 régulier. D'un autre côté, les synthés modulaires utilisent souvent des séquenceurs stochastiques qui changent de valeurs à chaque étape, donc
 - Un charley légèrement différent à chaque fois
 - Attaque de base aléatoire
 - Modulation qui s'écarte de la grille rythmique
@@ -261,7 +261,7 @@ timeline
 
 # Critique/Réception des médias
 
-Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à prêter attention à sa sophistication sonore.
+Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à s'intéresser à sa sophistication sonore.
 
 - Dans les critiques, l'image sonore complexe et tridimensionnelle unique de Modular a reçu de nombreux éloges.
 - Dans le reportage en direct, la performance improvisée et physique a été mise en avant.
@@ -303,7 +303,7 @@ La Techno Modulaire est un genre extrêmement unique et innovant formé par l'in
 
 # Liste détaillée des équipements (modules Modular Techno fréquemment utilisés)
 
-Vous trouverez ci-dessous une liste de catégories d'équipement couramment utilisées par les véritables artistes de Modular Techno, avec un accent sur Eurorack.
+Ce qui suit est une compilation de catégories d'équipements souvent utilisées par de véritables artistes de Modular Techno, avec un accent sur Eurorack.
 
 ## VCO (oscillateur)
 - Faire du bruit – DPO
@@ -335,7 +335,7 @@ Vous trouverez ci-dessous une liste de catégories d'équipement couramment util
 - Ingénierie du bruit – Digitale mimétique (CV aléatoire)
 
 ## Module batterie et percussions
-- Erica Synths – Série Bassline/Drum
+- Erica Synths – Série Bassline / Drum
 - Ingénierie du bruit – Basimilus Iteritas Alter (BIA)
 - Tiptop Audio – Série de batterie 808/909
 -Jomox-ModBase 09

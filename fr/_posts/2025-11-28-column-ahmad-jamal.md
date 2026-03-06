@@ -48,7 +48,7 @@ color: #fff;
 
 Le premier album de Jamal en tant que leader fut New Talent en 1951, un album centré autour d'un petit format trio. À l’époque, les big bands étaient la norme dans le monde du jazz, mais Jamal proposait une approche unique de l’utilisation de l’espace et du rythme à travers son trio avec piano de trois musiciens.
 
-### 1955-1956 — Le succès de At the Pershing : But Not for Me
+### 1955-1956 — Le succès de At the Pershing : mais pas pour moi
 
 Formé en 1955, le trio Ahmad Jamal (Israel Crosby à la basse, Vernel Fournier à la batterie) se produit régulièrement au Pershing Lounge de Chicago. Un enregistrement de cette performance live, sorti en 1958, At the Pershing : But Not for Me, fut un énorme succès commercial et critique. L'interprétation de "Poinciana" en particulier a été un succès et a eu un grand impact non seulement sur les fans de jazz mais aussi sur le grand public.
 
@@ -174,7 +174,7 @@ Cette innovation a jeté les bases du trio avec piano moderne qui sera plus tard
 
 ### 3. Activités internationales et influence culturelle
 Depuis les années 1960, ils se sont produits activement en Europe, au Moyen-Orient et en Asie, et ont gagné un large public en dehors des États-Unis.
-L’impact se reflète dans :
+L’impact peut être constaté dans :
 
 - Apparition dans des festivals internationaux de jazz
 - Forte influence sur les pianistes non américains

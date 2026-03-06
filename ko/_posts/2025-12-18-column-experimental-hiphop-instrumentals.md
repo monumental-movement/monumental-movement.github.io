@@ -44,7 +44,7 @@ color: #fff;
 
 본 논문에서 Experimental Hip Hop Instrumentals는 다음과 같은 제작 특징을 공유하는 악기 그룹을 의미합니다.
 
-* 박동 구조는 4/4을 기반으로 하면서도 반복주기가 부정
+* 박동 구조는 4/4를 기반으로 하지만 반복주기가 부정
 * 샘플은 원곡 식별을 목적으로 하지 않고, 소재로서 처리된다
 * 완성형보다 생성 과정이 작품 가치로 제시된다
 
@@ -98,7 +98,7 @@ flowchart LR
 
 ---
 
-Knxwledge는 DAW를 제작 기반으로 하며 극단적으로 짧은 루프와 차단적 편집을 특징으로 한다. 시각적 타임라인에서의 배치 조작은 박동감을 수치로부터 분리하는 역할을 한다.
+Knxwledge는 DAW를 제작 기반으로 하고 극단적으로 짧은 루프와 차단적 편집을 특징으로 한다. 시각적 타임라인에서의 배치 조작은 박동감을 수치로부터 분리하는 역할을 한다.
 
 * 몇 초 이하의 루프 단위
 * 수동 배치에 의한 그루브 형성
@@ -124,7 +124,7 @@ flowchart LR
 * 피치 변경에 의한 음색 정보의 박리
 * 역 재생이나 순간적 페이드 처리
 
-> "샘플은 기호가 아니라 음향 물질입니다"
+> "샘플은 기호가 아닌 음향 물질입니다"
 
 ---
 
@@ -169,3 +169,10 @@ Experimental Hip Hop Instrumentals는 완성도보다 생성 행위를 가치화
 
 ---
 
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dp25yxhOFf4?si=zqT3OPROYPeS4qrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

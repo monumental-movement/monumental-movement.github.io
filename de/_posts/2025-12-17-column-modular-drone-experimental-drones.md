@@ -24,7 +24,7 @@ Text: mmr｜Thema: Modulare Drohnen als Schnittstelle zwischen der Geschichte de
 
 Modulare Drohnen/experimentelle Drohnen (im Folgenden „modulare Drohnen“ genannt) sind ein Trend akustischer Experimente, der sich auf anhaltende Klänge konzentriert und sich in engem Zusammenhang mit den strukturellen Eigenschaften modularer Synthesizer entwickelt hat. Ein Klangkontinuum, das weder eine Melodie noch einen Takt voraussetzt, erzeugt Zeit, indem es Elemente wie Tonhöhe, Klangfarbe, Intensität, Phase und räumliche Anordnung minutiös verändert. Diese Musik betont eher „Existenz“ als „Fortschritt“, und Veränderungen erscheinen eher als Zustandsübergänge denn als Ereignisse.
 
-Bei modularen Drohnen ist es wichtig, dass das Ziel des Hörens nicht das Fortbestehen eines einzelnen Tons ist, sondern der Prozess, durch den mehrere Signalpfade miteinander interagieren. Mit modularen Synthesizern können Sie Elemente wie Oszillatoren, Filter, Verstärker, Hüllkurven, LFOs und Zufallsspannungen frei verbinden und so die Grenzen zwischen Stabilität und Instabilität, Kontrolle und Zufall hörbar machen. Durch die Kombination dieser Eigenschaft mit der Form eines Drones entstand ein akustischer Ausdruck, der das Zeitgefühl erweitert.
+Wichtig bei modularen Drohnen ist, dass das Ziel des Hörens nicht das Fortbestehen eines einzelnen Klangs ist, sondern der Prozess, durch den mehrere Signalpfade miteinander interagieren. Mit modularen Synthesizern können Sie Elemente wie Oszillatoren, Filter, Verstärker, Hüllkurven, LFOs und Zufallsspannungen frei verbinden und so die Grenzen zwischen Stabilität und Instabilität, Kontrolle und Zufall hörbar machen. Durch die Kombination dieser Eigenschaft mit der Form eines Drones entstand ein akustischer Ausdruck, der das Zeitgefühl erweitert.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 
 ## Historische Prämissen des Drohnenkonzepts
 
-Das Konzept einer Drohne existierte schon vor der elektronischen Musik. Zu seinen Prototypen gehören anhaltender Bass in traditioneller Musik, anhaltende Harmonie in religiöser Musik und stationäre Klänge in mechanischen und Umgebungsgeräuschen. In der Geschichte der westlichen Musik spielten die anhaltenden Klänge mittelalterlicher Orgeln und Dudelsäcke eine Rolle bei der räumlichen Unterstützung der Musik.
+Das Konzept einer Drohne existierte schon vor der elektronischen Musik. Zu seinen Prototypen gehören anhaltender Bass in traditioneller Musik, anhaltende Harmonie in religiöser Musik und stationäre Klänge in mechanischen und Umgebungsgeräuschen. In der Geschichte der westlichen Musik spielten die anhaltenden Klänge mittelalterlicher Orgeln und Dudelsäcke eine Rolle bei der räumlichen Unterstützung von Musik.
 
 Im 20. Jahrhundert schritten Industrialisierung und Elektrifizierung voran und anhaltender mechanischer Lärm drang in unsere tägliche Umgebung ein. Diese Umweltveränderung bot Musikern die Möglichkeit, ihre Klangwahrnehmung zu ändern. Von einer melodiezentrierten Sichtweise der Musik hin zu einem Fokus auf die Textur und zeitliche Dauer des Klangs selbst wurden Drohnen als wichtiges Element experimenteller Musik neu definiert.
 
@@ -52,9 +52,9 @@ Im 20. Jahrhundert schritten Industrialisierung und Elektrifizierung voran und a
 
 ## Kombination aus elektroakustischen und anhaltenden Klängen
 
-In den Anfängen der elektronischen Musik waren anhaltende Töne das Element, das die Eigenschaften elektronischer Klänge am deutlichsten anzeigte. Die von einem Oszillator erzeugte kontinuierliche Wellenform kann im Gegensatz zu einem physikalischen Instrument theoretisch unbegrenzt aufrechterhalten werden. Diese Eigenschaft ermöglichte es, sich von der traditionellen musikalischen Struktur zu lösen, die die Zeit in Takte unterteilt.
+In den Anfängen der elektronischen Musik waren anhaltende Töne das Element, das die Eigenschaften elektronischer Klänge am deutlichsten anzeigte. Im Gegensatz zu physikalischen Instrumenten kann die von einem Oszillator erzeugte kontinuierliche Wellenform theoretisch unbegrenzt aufrechterhalten werden. Diese Eigenschaft ermöglichte es, sich von der traditionellen musikalischen Struktur zu lösen, die die Zeit in Takte unterteilt.
 
-In der Tonbandmusik und der elektroakustischen Musik wurde versucht, Klänge über lange Zeiträume anzuhalten oder allmähliche Veränderungen vorzunehmen, allerdings gab es Einschränkungen bei der Echtzeitsteuerung. Hier kommt das Konzept der Spannungsregelung ins Spiel. Der Mechanismus zur Steuerung von Tonhöhe und Klangfarbe mithilfe von Spannung wurde zur Grundlage späterer modularer Synthesizer und bot die Möglichkeit, anhaltende Klänge dynamisch zu verändern.
+In der Tonbandmusik und der elektroakustischen Musik wurde versucht, Klänge über lange Zeiträume anzuhalten oder allmähliche Veränderungen zu erzeugen, allerdings gab es Einschränkungen bei der Echtzeitsteuerung. Hier kommt das Konzept der Spannungsregelung ins Spiel. Das System zur Steuerung von Tonhöhe und Klangfarbe mittels Spannung wurde zur Grundlage späterer modularer Synthesizer und bot die Möglichkeit, anhaltende Klänge dynamisch zu verändern.
 
 ---
 
@@ -62,7 +62,7 @@ In der Tonbandmusik und der elektroakustischen Musik wurde versucht, Klänge üb
 
 ### Struktur und Philosophie des Moog-Systems
 
-Der Moog-Synthesizer basiert auf einem spannungsgesteuerten Oszillator und Filter mit einem relativ klaren Signalfluss. Die Struktur, die für den Anschluss an eine Tastatur konzipiert war und auf Tonhöhenstabilität und Reproduzierbarkeit ausgerichtet war, spielte eine Rolle bei der Etablierung elektronischer Klänge als spielbares Instrument.
+Der Moog-Synthesizer basiert auf einem spannungsgesteuerten Oszillator und Filter mit einem relativ klaren Signalfluss. Die Struktur, die für den Anschluss an eine Tastatur konzipiert war und auf Tonhöhenstabilität und Reproduzierbarkeit Wert legte, spielte eine Rolle bei der Etablierung elektronischer Klänge als spielbares Instrument.
 
 Dieser Aufbau ist auch bei der Drohnenproduktion wichtig. Ein stabiler Oszillator bildet die Grundlage für einen über einen langen Zeitraum anhaltenden Klang, und die innere Struktur des Klangs verändert sich im Laufe der Zeit durch allmähliche Modulation von Filter und Verstärker. Modulare Geräte im Moog-Stil boten eine geeignete Umgebung für die Erzeugung kontrollierter, anhaltender Klänge.
 
@@ -184,7 +184,7 @@ Lange Nachhallzeiten sind nicht nur ein Effekt bei Drohnen, sondern sind Teil de
 
 ---
 
-## Steuerspannung und Kompositionsgesetz neu definiert
+## Steuerspannung und Kompositionsakt neu definiert
 
 ### Von der Partitur zum System
 
@@ -194,7 +194,7 @@ In diesem Sinne ist ein modularer Synthesizer sowohl ein Musikinstrument als auc
 
 ### Balance zwischen Autonomie und Intervention
 
-Vollständig autonome Patches weisen im Laufe der Zeit unvorhersehbare Änderungen auf. Andererseits kann durch menschliches Eingreifen die Richtung des Klangs angepasst werden. Das Gleichgewicht zwischen diesen beiden ist ein wichtiger Entscheidungspunkt bei der Produktion modularer Drohnen.
+Vollständig autonome Patches weisen im Laufe der Zeit unvorhersehbare Änderungen auf. Andererseits kann durch menschliches Eingreifen die Richtung des Klangs angepasst werden. Das Gleichgewicht zwischen beiden ist ein wichtiger Entscheidungspunkt bei der Produktion modularer Drohnen.
 
 > „Eingriff erfolgt als Dialog mit dem System, nicht als Kontrolle“
 
@@ -216,7 +216,7 @@ Nachhaltiger Klang hat eine hohe Affinität zu Galerien und Installationsräumen
 
 ## Monumental Movement Records-Perspektive
 
-Im Kontext von Monumental Movement Records werden modulare Drones nicht nur als experimentelle Musik positioniert, sondern als eine Klangpraxis, die Zeit, Struktur und Instrumentalität kritisch darstellt. Hier sind lange Dauern und unterschiedliche Veränderungen wertvoller als auffällige Veränderungen oder unmittelbare Effekte.
+Im Kontext von Monumental Movement Records sind modulare Drones nicht einfach nur experimentelle Musik, sondern werden als Klangpraktiken positioniert, die Zeit, Struktur und Instrumentalität kritisch darstellen. Hier sind lange Dauern und unterschiedliche Veränderungen wertvoller als auffällige Veränderungen oder unmittelbare Effekte.
 
 Der Wortschatz ist eher beschreibend als dekorativ, und die Strukturanalyse hat Vorrang vor dem emotionalen Ausdruck. Klang ist sowohl ein Sinnesobjekt als auch ein Medium zum Denken.
 

@@ -68,7 +68,7 @@ Deshalb fühlt sich die instabile Schönheit, die durch JPEG-Beschädigung und S
 
 Glitch hat auch Mode und Werbung durchdrungen.
 Die Methode, die ungeordneten Pixel in das Design zu integrieren, eroberte Ende der 2010er Jahre als „kaputtes Design“ die Straßenkultur im Sturm.
-Endlich können wir uns über die Tatsache freuen, dass es nicht perfekt ist und dass sogar das Digitale „Rauschen“ hat.
+Endlich können wir uns an der Tatsache erfreuen, dass es nicht perfekt ist und dass sogar das Digitale „Rauschen“ hat.
 
 ---
 
@@ -139,7 +139,7 @@ Vielleicht leben wir in dieser „Welt voller Insekten“.
 Ich bin mir sicher, dass ich immer mehr daran hängen werde.
 Weil wir Glitch sind.
 Eine perfekte und unmögliche Existenz. Eine Existenz, die sich trotz aller Widersprüche und Geräusche weiterbewegt.
-Der Mensch selbst ist der größte Glitch.
+Der Mensch selbst ist der größte Fehler.
 
 
 ---
@@ -198,7 +198,7 @@ color: #fff;
 
 #### Glitch-Must-Listen-Diskographie
 
-| Jahr | Künstler | Titel der Arbeit (Amazon-Link) | Notizen |
+| Jahr | Künstler | Werktitel (Amazon-Link) | Notizen |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Oval       | [94diskont](https://amzn.to/47k6D9b)           | “CD傷音”の金字塔      |
 | 1996 | Ryoji Ikeda                  | [+/-](https://amzn.to/46NnTU7)                 | ミニマル音響の頂点       |

@@ -10,13 +10,13 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Boys Noize - Tuez l'enfant
+title: Boys Noize – Kill The Kid
 ---
 
 
-Boys Noize (Alexander Ridha) est un DJ/producteur allemand basé à Berlin. Il a également sorti sous des noms tels que Elax, Einzeller, Morgentau et 909d1sco.
+Boys Noize (Alexander Ridha)は、ベルリンを拠点に活動するドイツのDJ／プロデューサー。Elax、Einzeller、Morgentau、909d1scoなどの名義でもリリースしている。
 
-"Kill The Kid" est un morceau Techno/Electro sorti en 2006 sur son propre label Boysnoize Records.
+「Kill The Kid」は、自身のレーベルBoysnoize Recordsから2006年にリリースしたTechno／Electroトラック。
 
 #### Liste des chansons
 ```md

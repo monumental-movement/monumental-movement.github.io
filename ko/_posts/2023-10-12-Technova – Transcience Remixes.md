@@ -13,7 +13,7 @@ title: Technova – Transcience Remixes
 ---
 
 
-Technova David Harrow (데이비드 할로우)는 영국의 키보드 연주자이며 Anne Clark (앤 클락)와의 직업으로도 알려진 뮤지션.
+Technova David Harrow (데이비드 할로우)는 영국의 키보드 연주자이며 Anne Clark (앤 클라크)와의 직업으로도 알려진 뮤지션.
 
 #### Tracklist
 ```md

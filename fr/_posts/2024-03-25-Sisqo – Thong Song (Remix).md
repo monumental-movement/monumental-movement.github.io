@@ -20,7 +20,7 @@ Elle a commencé très tôt à chanter à l’église et a développé une passi
 
 Pendant ses études universitaires, il a commencé à se produire dans des clubs et des événements locaux, gagnant progressivement en reconnaissance et, au début des années 2000, il a signé avec un label majeur et a sorti son premier album.
 
-Depuis, il a sorti plusieurs albums et s'est forgé une position forte sur la scène R&B, et continue de collaborer activement avec d'autres artistes et de créer des chansons en plus de sa carrière solo.
+Depuis, il a sorti plusieurs albums et s'est imposé sur la scène R&B, et continue de collaborer activement avec d'autres artistes et de créer des chansons en plus de sa carrière solo.
 
 #### Liste des chansons
 ```md

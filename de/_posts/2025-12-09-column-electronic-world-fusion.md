@@ -21,7 +21,7 @@ title: '[Kolumne] Electronic World Fusion: Der Punkt, an dem sich elektronische 
 
 Text: mmr｜Thema: Von den Ursprüngen von Electronic World Fusion bis zu seinen technischen Aspekten, repräsentativen Werken, regionalen Besonderheiten und zeitgenössischer Bedeutung
 
-In der zweiten Hälfte des 20. Jahrhunderts entwickelte sich die elektronische Musik rund um Synthesizer und Sampler, doch gleichzeitig begann auch traditionelle Musik aus aller Welt Einzug in die westliche Popkultur zu halten. Electronic World Fusion ist ein Bereich, in dem die beiden vollständig miteinander verbunden sind, und ein seltenes Genre, in dem sich Geschichte, Kultur und Ideologie von Technologie und Volksmusik überschneiden.
+In der zweiten Hälfte des 20. Jahrhunderts entwickelte sich die elektronische Musik rund um Synthesizer und Sampler, doch gleichzeitig begann auch traditionelle Musik aus aller Welt Einzug in die westliche Popkultur zu halten. Electronic World Fusion ist ein Bereich, in dem die beiden wirklich miteinander verbunden sind, und es ist ein seltenes Genre, in dem sich Geschichte, Kultur und Ideologie von Technologie und Volksmusik überschneiden.
 
 Zu den repräsentativen Künstlern zählen **Nitin Sawhney**, der indische klassische Musik und soziale Themen einbezieht, und **Thievery Corporation**, der Downtempo mit verschiedenen musikalischen Elementen aus Lateinamerika, dem Nahen Osten und Asien verbindet.
 
@@ -79,7 +79,7 @@ flowchart TD
 
 ### 2-2 Thievery Corporation: Downtempo-Rekonstruktion multiregionaler Musik
 
-Ein Produzentenduo mit Sitz in Washington DC, USA. Es verbindet eine Vielzahl von Weltmusik, darunter Reggae, Bossa Nova, Musik aus dem Nahen Osten, indische Musik und asiatische Percussion, mit Downtempo/Trip-Hop.
+Ein Produzentenduo mit Sitz in Washington DC, USA. Sie verbinden Downtempo/Trip-Hop mit einer Vielzahl von Weltmusikstücken wie Reggae, Bossa Nova, Musik aus dem Nahen Osten, indischer Musik und asiatischer Percussion.
 
 #### Musikalische Features
 
@@ -211,7 +211,7 @@ In der heutigen Zeit schreitet die Analyse und Erzeugung von Schallquellen mithi
 
 * Sollten wir ethnische Rhythmen so verwenden, wie sie sind?
 * Sollte es zu elektronischen 4/4-Takten synchronisiert werden?
-* Der Eindruck verändert sich stark, je nachdem, wie viel Bearbeitung durchgeführt wird.
+* Der Eindruck verändert sich je nach Bearbeitungsgrad stark.
 
 ### 8-2 Behandlung von Skalen und Modi
 
@@ -221,7 +221,7 @@ In der heutigen Zeit schreitet die Analyse und Erzeugung von Schallquellen mithi
 ### 8-3 Bedeutung der Zusammenarbeit
 
 * Live-Aufnahme mit traditionellen Instrumentalisten
-*Muss mit einem Verständnis für den kulturellen Hintergrund regionaler Musik produziert werden.
+*Muss mit einem Verständnis für den kulturellen Hintergrund der lokalen Musik produziert werden.
 
 ---
 

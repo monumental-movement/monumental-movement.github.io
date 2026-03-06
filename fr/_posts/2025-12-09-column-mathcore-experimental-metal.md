@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Histoire, caractéristiques techniques, œuvres majeure
 
 Caractérisé par une complexité mathématique, une progression non linéaire et une dynamique extrême, le **Mathcore** est l'un des styles de musique heavy les plus difficiles qui a rapidement évolué de la fin des années 1990 aux années 2000. Bien que ce genre soit basé sur l'agressivité du hardcore et du metalcore, il incorpore des éléments de jazz, de musique expérimentale et de métal progressif, subvertissant activement le temps 4/4 traditionnel et poursuivant une structure de signature rythmique étrange qui peut être décrite comme mathématique.
 
-**Le Dillinger Escape Plan (DEP)** et **Meshuggah** sont des représentants de ce domaine, et bien qu'ils aient été actifs en même temps, ils sont extrêmement intéressants dans le sens où ils ont défié « l'extrême complexité » depuis des directions différentes.
+**Le Dillinger Escape Plan (DEP)** et **Meshuggah** sont des représentants de ce domaine, et bien qu'ils aient été actifs en même temps, ils sont extrêmement intéressants dans la mesure où ils ont défié « l'extrême complexité » depuis des directions différentes.
 
 
 ---
@@ -54,7 +54,7 @@ Le DEP est apparu dans le nord-est des États-Unis à la fin des années 1990, �
 
 ---
 
-## Innovation du plan d'évasion de Dillinger
+## L'innovation du plan d'évasion de Dillinger
 
 DEP a été formé en 1997. Son premier EP *Under the Running Board* (1998) et son premier album révolutionnaire *Calculating Infinity* (1999) lui ont valu une reconnaissance immédiate.
 
@@ -62,7 +62,7 @@ Voici les caractéristiques de leurs structures de chansons.
 
 ### 1. Structure ultra-rapide et fragmentée
 
-La technique consistant à changer des phrases de 1 à 2 temps à grande vitesse, plutôt qu'en unités de mesures, est remarquable.
+La technique consistant à changer rapidement de phrases d'un ou deux temps, plutôt que par mesures, est remarquable.
 Le sens de l’orientation auditive est constamment ébranlé par les pauses insérées, les polyrythmies et les accents mal alignés.
 
 ### 2. Influence du jazz
@@ -169,7 +169,7 @@ En particulier, les sons d'attaque ont tendance à être concentrés dans la ban
 
 ### Enregistrement de batterie
 
-* Met l'accent sur le « noyau » du kick et de la caisse claire
+* Met l'accent sur le « noyau » de la grosse caisse et de la caisse claire
 *La localisation de Tom n'est pas linéaire et est souvent arrangée de manière unique pour correspondre à la complexité de la chanson.
 
 ---
@@ -188,7 +188,7 @@ La structure fragmentée de DEP et Car Bomb a été incorporée dans de nombreux
 
 ### Post-Metal / Bruit
 
-Alors que la structure rythmique complexe est restée la même, il y a eu une augmentation du nombre de cas dans lesquels la musique était combinée avec des sons spatiaux et des éléments ambiants, et la structure est devenue plus multicouche.
+Même si la structure rythmique complexe est restée la même, il y a eu une augmentation du nombre de cas dans lesquels la musique a été combinée avec des sons spatiaux et des éléments ambiants, ce qui a donné lieu à une structure plus multicouche.
 
 ---
 

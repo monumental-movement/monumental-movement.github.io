@@ -65,7 +65,7 @@ Le public participe en applaudissant et en dansant, et les rires résonnent à t
 
 Joué pour la première fois en 1966, « Do the Reggay » a instantanément électrisé le public lors des spectacles des clubs en Jamaïque. Le public chante, danse et rit en cercle sur le sol, remplissant la salle. Chaque fois que Toots crie « Faites le Reggay ! », une réaction en chaîne d'applaudissements et d'acclamations s'ensuit.
 
-Cette chanson n’était pas seulement un spectacle, mais un rituel culturel avec la participation du public. Le mot reggae s’est répandu dans le monde entier, créant un moment où le public agissait comme un transmetteur de culture.
+Cette chanson n’était pas seulement un spectacle, mais un rituel culturel avec la participation du public. Le mot reggae s'est répandu dans le monde entier, créant un moment où le public a fonctionné comme un transmetteur de culture.
 
 ---
 
@@ -86,7 +86,7 @@ En 1970, Toots and the Maytals entreprennent leur première tournée européenne
 **Représentation en direct** :
 
 * Lorsque l'intro de "Monkey Man" commence à jouer, le public secoue naturellement les épaules et danse en cercle.
-* Toots crie : "Chante-le avec moi !" et tout le public chante.
+* Toots crie : « Chante-le avec moi ! et tout le public chante.
 
 * Les riffs de guitare et d'orgue résonnent sur le sol, créant une danse impromptue.
 

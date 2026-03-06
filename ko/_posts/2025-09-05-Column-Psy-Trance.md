@@ -56,7 +56,7 @@ color: #fff;
 | # | 아티스트 / 노래 이름 | 년 | 비고 |
 |----|--------------------|----|------|
 | 1 | Kraftwerk – Numbers | 1981 | 초기 일렉트로의 기초 |
-| 2 | Tangerine Dream – Exit | 1981 | 우주 신디사운드 |
+| 2 | Tangerine Dream – Exit | 1981 | 우주 신디사이즈 |
 | 3 | Charanjit Singh – Ten Ragas to a Disco Beat | 1982 | TB-303 선구적 사용 |
 | 4 | Klaus Schulze – Trance 4 | 1983 | 유럽 전자 음향 |
 | 5 | Psychic TV – Tune In | 1982 | 사이키 문화의 상속 |
@@ -100,7 +100,7 @@ color: #fff;
 ---
 
 ## 1990년대 후반: Psy-Trance 설립
-- **시대 배경**: 고아트랜스가 유럽에 퍼져 더욱 딱딱하고 하이테크한 소리 만들기에. 이스라엘의 장면이 크게 약진.
+- **시대 배경**: 고아트랜스가 유럽에 퍼져 더욱 딱딱하고 하이테크한 소리 만들기에. 이스라엘 장면이 크게 약진.
 - ** 대표적인 장비**: Access Virus, Clavia Nord Lead, Roland KR-8000
 
 ### 명반

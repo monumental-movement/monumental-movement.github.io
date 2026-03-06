@@ -62,13 +62,13 @@ Hintergrund hierfür war eine Produktionsumgebung, die die begrenzten Ressourcen
 
 ---
 
-## Hip Hop- und Sampling-Erweiterung
+## Erweiterung von Hip Hop und Sampling
 
 Hip-Hop wurde Ende der 1970er Jahre in New York geboren und brachte die Remix-Kultur durch Sampling in den Mittelpunkt der urbanen Kultur. Die Wiederholung von Breakbeats und das fragmentarische Zitieren vorhandener Klangquellen trennte die Musikproduktion von der professionellen Ausbildung und verwandelte sie in eine auf Geräten und Empfindungen basierende Praxis.
 
 In den Anfängen des Hip-Hop gab es wenig Bewusstsein für den Umgang mit Rechten. Sobald sich der Umfang des Vertriebs vergrößert und Verbindungen zu wichtigen Branchen hergestellt werden, werden rechtliche Probleme deutlich.
 
-> Untersuchung exponierter Punkte, an denen kulturelle Bezüge mit Ökonomie kollidieren.
+> Beprobung exponierter Punkte, an denen kulturelle Bezüge mit Ökonomie kollidieren.
 
 ---
 
@@ -78,7 +78,7 @@ Das Urheberrechtssystem zielt darauf ab, kreative Aktivitäten zu fördern, inde
 
 Gleichzeitig gibt es Ausnahmen wie Zitate, persönliche Nutzung und Bildungsnutzung, sodass nicht jede Weiterverwendung verboten ist. Das Problem ist, dass Grenzen immer einer Interpretation bedürfen.
 
-> Das Urheberrecht ist keine feste Verbotsregel, sondern ein Rahmenwerk zur Anpassung.
+> Das Urheberrecht ist keine feste Verbotsregel, sondern ein Rahmen zur Anpassung.
 
 ---
 
@@ -104,7 +104,7 @@ Die Richtlinie zum digitalen Binnenmarkt klärte die Verantwortlichkeiten der Pl
 
 ## Übersetzung und Zitierung nach japanischem Recht
 
-Das japanische Urheberrecht legt großen Wert auf das Recht zur Anpassung, und eine Nutzung, die eine Änderung mit sich bringt, erfordert im Allgemeinen eine Genehmigung. Zitate müssen strenge Anforderungen erfüllen und passen nicht unbedingt zu Remixen.
+Das japanische Urheberrecht legt großen Wert auf das Recht zur Anpassung, und eine Verwendung, die eine Änderung mit sich bringt, erfordert im Allgemeinen eine Genehmigung. Zitate müssen strenge Anforderungen erfüllen und passen nicht unbedingt zu Remixen.
 
 Andererseits wurden in den letzten Jahren Anstrengungen unternommen, um auf das digitale Zeitalter zu reagieren, beispielsweise durch die Einführung flexibler Regelungen zur Einschränkung von Rechten und die Einführung einer Nichtstraftat. Die Kultur der abgeleiteten Schöpfung hat sich auf einzigartige Weise zwischen Systemen und Praktiken entwickelt.
 

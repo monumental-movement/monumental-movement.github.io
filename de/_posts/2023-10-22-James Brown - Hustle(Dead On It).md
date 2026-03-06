@@ -22,7 +22,7 @@ Auf dem gesamten Album stellt Brown sein Talent für die Verschmelzung verschied
 
 Der Text von „Hustle!!! (Dead On It)“ befasst sich mit Themen wie harter Arbeit, Ausdauer und dem Streben nach Erfolg.
 
-James Browns charakteristische flotte, dynamische Songs und Auftritte schaffen eine insgesamt positive Atmosphäre.
+James Browns charakteristische flotte und dynamische Songs und Auftritte schaffen eine insgesamt positive Atmosphäre.
 
 Der Song ist nicht nur für seine Musikalität, sondern auch für seine motivierende Botschaft bekannt, was ihn zu einem Favoriten unter Funk- und Soul-Musikliebhabern unter seinen Fans macht.
 

@@ -135,13 +135,13 @@ Le studio est désormais considéré comme un espace de conception sonore plutô
 
 La musique sur bande ne nécessite pas nécessairement un début, un développement et une fin.
 
-### 9.2 Rééducation à l'écoute
+### 9.2 Recyclage de l'écoute
 
 Le processus par lequel les sons réels étaient abstraits obligeait les auditeurs à diriger leur attention d’une nouvelle manière.
 
 ---
 
-## 10. Diffusion d'influence
+## 10. Diffusion de l'influence
 
 ### 10.1 Musique expérimentale et au-delà
 

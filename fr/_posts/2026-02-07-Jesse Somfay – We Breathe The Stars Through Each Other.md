@@ -11,14 +11,14 @@ tags:
 - Minimal
 - Acid
 - 00s
-title: Jesse Somfay – Nous respirons les étoiles les unes à travers les autres
+title: Jesse Somfay – We Breathe The Stars Through Each Other
 ---
 
 
 
-Jesse Somfay est un producteur canadien actif auprès des prestigieux labels Archipel et Traum Schallplatten depuis le milieu des années 2000. Son style est une fusion de techno minimale, d'ambient et de shoegaze. Il est également bien connu pour ses activités sous le nom de Borealis.
+Jesse Somfay（ジェシー・ソムフェイ）は、2000年代半ばから名門レーベルArchipelやTraum Schallplattenを中心に活動しているカナダ出身のプロデューサー。ミニマル・テクノ、アンビエント、シューゲイザーを融合させたスタイルが特徴。Borealis（ボレアリス）名義での活動でもよく知られている。
 
-"We Breathe The Stars Through Each Other" est le morceau Techno/Minimal/Acid signature de Jesse Somfay sorti sur le label Traum Schallplatten en 2005. Il est inclus dans l'album "Between The Dark And The Light".
+「We Breathe The Stars Through Each Other」は、2005年にレーベルTraum Schallplattenからリリースされた、Jesse Somfayの代表作的Techno／Minimal／Acidトラック。アルバム『Between The Dark And The Light』に収録されている。
 
 #### Liste des chansons
 ```md

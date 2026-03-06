@@ -13,7 +13,7 @@ title: Asian Dub Foundation – Tank
 ---
 
 
-"Tank"는 AsianDubFoundation의 다섯 번째 앨범. 이 앨범에서는 Dub Music 전문 프로듀서 Adrian Sherwood(에드리안 셔우드)의 협력을 얻어 Ghetto Priest(게토 프리스트)가 보컬로 참가했다.
+"Tank"는 AsianDubFoundation의 다섯 번째 앨범. 이 앨범에서는 Dub Music 전문 프로듀서 Adrian Sherwood(에드리안 셔우드)의 협력을 얻어 Ghetto Priest(게토 프리스트)가 보컬로 참여했다.
 
 #### Tracklist
 ```md

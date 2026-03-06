@@ -18,7 +18,7 @@ BMR은 독일 하우스의 개척자로도 알려진 DJ&프로듀서 Boris Dlugo
 
 Level 42(레벨 42)는 'Something about you' 'Lessons in love'로 알려진 영국의 퓨전 팝 밴드.
 
-"Starchild"는 독일 DJ 프로듀서 Mousse T가 설립한 라벨 Peppermint Jam에서 2001 년에 출시 된 House / Disco 트랙.
+「Starchild」는 독일의 DJ 프로듀서 Mousse T가 설립한 라벨 Peppermint Jam으로부터 2001년에 릴리스된 House/Disco 트럭.
 
 #### Tracklist
 ```md

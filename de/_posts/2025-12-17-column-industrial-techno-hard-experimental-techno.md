@@ -21,7 +21,7 @@ title: '[Spalte] Industrial Techno / Hard Experimental Techno'
 Text: mmr｜Thema: Industrial Techno/harte experimentelle Struktur, Geschichte und Akustiktechnologie
 
 
-Industrial Techno / Hard Experimental Techno ist eine Musikform, die akustische Materialien, Schalldruck, Verzerrung und Lärm extrem in den Vordergrund stellt und gleichzeitig die repetitive zeitliche Struktur von Techno beibehält. Dieses Genre unterscheidet sich von einer musikalischen Perspektive, die sich auf emotionalen Ausdruck und Melodie konzentriert, und basiert auf den physikalischen Eigenschaften des Klangs selbst und der Kontrolle der Zeit durch Wiederholung.
+Industrial Techno / Hard Experimental Techno ist eine Musikform, die akustische Materialien, Schalldruck, Verzerrung und Lärm extrem in den Vordergrund stellt und gleichzeitig die repetitive zeitliche Struktur von Techno beibehält. Dieses Genre unterscheidet sich von einer musikalischen Perspektive, die sich auf emotionalen Ausdruck und Melodie konzentriert und auf den physikalischen Eigenschaften des Klangs selbst und der Kontrolle der Zeit durch Wiederholung basiert.
 
 Bei diesem Trend geht es nicht nur um „intensive Clubmusik“. Es entstand als Ergebnis der Anpassung der über viele Jahre in der Industriemusik, EBM, Noise und experimenteller elektronischer Musik kultivierten Vorstellungen von materieller Orientierung, Unpersönlichkeit und struktureller Überlegenheit an den streng funktionalen Raum der Tanzfläche.
 
@@ -57,7 +57,7 @@ Der Rhythmus ist linear, Swing und Funk sind äußerst zurückhaltend. Anhaltend
 
 ---
 
-## 3. Neudefinition nach 2010er Jahren
+## 3. Neudefinition nach 2010
 
 In den 2010er Jahren erlangte Industrial Techno erneut eine starke Präsenz. Die klangliche Raffinesse von Post-Minimal-Techno und industrieller Gewalt wurden verschmolzen und auf kontrollierte Weise neu definiert.
 
@@ -67,7 +67,7 @@ Ein Merkmal dieser Ära ist, dass Verzerrungen und Rauschen nicht zufällig plat
 
 ## 4. Mathematische Rhythmusanalyse
 
-Der Rhythmus von Industrial Techno mag oberflächlich wie eine einfache 4/4-Wiederholung erscheinen, doch darunter verbirgt sich ein präzises Zeitschema. Wenn die Zeitachse t ist und der Zeitpunkt des Auftretens des Tritts K_i ist, wird die Grundperiode T_K wie folgt ausgedrückt.
+Oberflächlich betrachtet scheint der Rhythmus von Industrial Techno eine einfache 4/4-Wiederholung zu sein, doch darunter verbirgt sich ein präzises Zeitschema. Wenn die Zeitachse t ist und der Zeitpunkt des Auftretens des Tritts K_i ist, wird die Grundperiode T_K wie folgt ausgedrückt.
 
 K_{i+1} - K_i = T_K
 
@@ -149,13 +149,13 @@ Der Körper ist vorhersehbaren Schlägen ausgesetzt und das Gehör ist unvorhers
 | 1980er Jahre | Techno etabliert eine sich wiederholende Zeitstruktur |
 | 1990er Jahre | Fusion aus hartem Techno und Industrial |
 | 2010er | Neudefinition von modernem Industrial Techno |
-| 2020er | Integration von präzisem akustischem Design und Körperlichkeit |
+| 2020er Jahre | Integration von präzisem akustischem Design und Körperlichkeit |
 
 ---
 
 ## Abschluss
 
-Industrial Techno / Hard Experimental Techno ist kein chaotischer Lärm, sondern eine extrem kontrollierte Struktur. Dort werden Gewalt, Verzerrung und sogar Druck zu Gestaltungsobjekten.
+Industrial Techno / Hard Experimental Techno ist kein chaotischer Lärm, sondern eine äußerst kontrollierte Struktur. Dort werden Gewalt, Verzerrung und sogar Druck zu Gestaltungsobjekten.
 
 Praktiken wie Perc und Ancient Methods verschieben die Grenzen der Techno-Form und verwandeln Musik in ein Gerät, das Körper und Räume neu organisiert. Dieses Genre wird sich sowohl hinsichtlich der Struktur als auch des Klangs weiter vertiefen.
 

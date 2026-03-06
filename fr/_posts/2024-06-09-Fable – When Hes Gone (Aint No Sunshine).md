@@ -9,7 +9,7 @@ permalink: /fr/fable-when-hes-gone-aint-no-sunshine/
 tags:
 - Trance
 - 00s
-title: Fable – Quand il est parti (Ain’t No Sunshine)
+title: Fable - Quand il est parti (Ain't No Sunshine)
 ---
 
 

@@ -20,7 +20,7 @@ title: '[Chronique] Rara : Festival de musique et de mémoire sociale résonnant
 
 ## Prologue : Un cortège de sons emplissant la route
 
-Texte : mmr｜Thème : L'histoire et le présent de la culture de rue où se croisent religion, politique et communauté, décryptés à travers la musique du festival haïtien Rara
+Texte : mmr｜Thème : L'histoire et le présent de la culture de rue où se croisent religion, politique et communauté, décryptés à travers la musique du festival haïtien rara
 
 La saison est arrivée sur la terre ferme d'Haïti, où se chevauchent des sons métalliques aigus et des tambours graves et ondulants. Rara n’a pas de lieu spécifique. La musique se déplace le long des routes, pénètre dans les villages et transforme les espaces de vie des gens en scènes. Le groupe continue de marcher jusqu'à l'aube, accompagné de costumes, de danses et de symboles religieux. Cette musique n’est pas un divertissement, mais une prière, une déclaration politique et un conteur d’histoire.
 
@@ -45,11 +45,11 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 Origine historique de Lala
+## Chapitre 1 Origines historiques de Lala
 
 L’origine du lala est étroitement liée aux couches profondes de la société haïtienne qui s’est formée entre le XVIIIe et le XIXe siècle. À Saint-Domingue, pendant la période coloniale française, des personnes venues de diverses régions d'Afrique maintenaient leurs propres rituels religieux et leur propre culture musicale. Bien que ces traditions aient été supprimées sous le contrôle des plantations, elles ont été héritées en fragments lors de rassemblements nocturnes et de festivals.
 
-Après l'indépendance en 1804, le catholicisme et les religions africaines se sont mélangés en Haïti et se sont systématisés sous le nom de vaudou. Le Rara s'est imposé dans ce mélange religieux comme un rituel de procession en plein air, notamment pendant le Carême. Il a été souligné que la forme de la marche reflète les souvenirs des déplacements forcés pendant la période coloniale et les expériences de soulèvements armés pendant la période révolutionnaire.
+Après l'indépendance en 1804, le catholicisme et les religions africaines se sont mélangés en Haïti et se sont systématisés sous le nom de vaudou. Le Rara s'est imposé dans ce mélange religieux comme un rituel de procession en plein air, notamment pendant le Carême. Il a été souligné que la forme de la marche reflète la mémoire des déplacements forcés pendant la période coloniale et l'expérience des soulèvements armés pendant la période révolutionnaire.
 
 La procession de Rara n'était pas simplement une célébration, mais avait pour objectif clair d'offrir aux esprits, d'appeler les esprits des ancêtres et d'affirmer l'unité de la communauté. La musique s'est développée comme partie intégrante de la marche et se caractérisait par un rythme continu sans arrêt.
 
@@ -133,7 +133,7 @@ Pourtant, chaque année pendant le Carême, Lara réapparaît dans les rues. Mê
 
 ## Chapitre 7 Structure spatiale et sensation physique de marche
 
-L'essence de Lala est le « mouvement ». Les artistes et les participants ne restent pas sur une scène fixe, mais traversent des routes, des carrefours, des limites de villages et des zones autour des cimetières. Ces espaces ont une signification fonctionnelle dans la vie quotidienne, mais à l'époque Rara, ils prennent une signification cérémonielle. Les lieux traversés par la musique sont temporairement sanctifiés et gravés dans la mémoire de la communauté.
+L'essence de Lala est le « mouvement ». Les artistes et les participants ne restent pas sur une scène fixe, mais traversent les routes, les carrefours, les limites des villages et les abords des cimetières. Ces espaces ont une signification fonctionnelle dans la vie quotidienne, mais à l'époque Rara, ils prennent une signification cérémonielle. Les lieux traversés par la musique sont temporairement sanctifiés et gravés dans la mémoire de la communauté.
 
 Ce qui est important dans une marche, c'est la continuité acoustique plutôt que l'ordre visuel. Même si les rangs sont désorganisés, la marche continuera tant que le bruit ne se brisera pas. Les participants s'appuient sur le son pour déterminer leur emplacement et synchroniser leur corps. Pour cette raison, chez Lara, l’audition est plus centrale dans la reconnaissance spatiale que la ligne de vue.
 
@@ -153,7 +153,7 @@ D --> E[帰還または別拠点]
 
 Lara dure longtemps. Des marches ont été enregistrées durant de quelques heures à toute la nuit, et parfois sur plusieurs jours. Même si les artistes font des pauses, ils continuent essentiellement à marcher, à souffler et à taper. La fatigue est inévitable et partager cette limite devient une partie du rituel lui-même.
 
-Les exigences physiques sont soutenues par la simplicité et le caractère répétitif de la musique. C'est pourquoi les modèles durables sont privilégiés par rapport aux mélodies complexes et aux techniques avancées. La musique n’est pas conçue pour surcharger le corps, mais est optimisée pour être une forme que le corps peut supporter.
+Les exigences physiques sont soutenues par la simplicité et le caractère répétitif de la musique. C'est pourquoi les modèles durables sont privilégiés par rapport aux mélodies complexes et aux techniques avancées. La musique n’est pas conçue pour surmener le corps, mais est optimisée pour être une forme que le corps peut supporter.
 
 > La structure musicale de Lala est conçue sur le principe que le corps peut continuer à marcher.
 

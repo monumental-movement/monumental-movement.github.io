@@ -224,35 +224,41 @@ This column is constructed based on the following empirical research, long-term 
 ### Music taste and personality/psychology
 
 ・Rentfrow, P. J., & Gosling, S. D. (2003) Music preferences and personality traits. Journal of Personality and Social Psychology.
+
 ・Rentfrow, P. J., et al. (2011) The structure of musical preferences. Journal of Personality and Social Psychology.
+
 ・North, A. C., & Hargreaves, D. J. (2008) The social and applied psychology of music.
 
 ### Early childhood memory/developmental psychology
 
 ・Rubin, D. C., Rahhal, T. A., & Poon, L. W. (1998) Things learned in early adulthood are best remembered. Memory & Cognition.
+
 ・Arnett, J. J. (2000) Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist.
 
 ### Music culture and social behavior/political participation
 
 ・Street, J. (2012) Music and politics.
+
 ・Bennett, A. (2001) Cultures of popular music.
+
 ・Frith, S. (1996) Music and identity.
 
 ### Education/occupational choice and cultural capital
 
 ・Bourdieu, P. (1984) Distinction: A social critique of the judgment of taste.
+
 ・Savage, M., et al. (2013) A new model of social class. Sociology.
 
 ### Long-term survey by country and generation
 
 ・General Social Survey (U.S. long-term social survey)
+
 ・European Social Survey
+
 ・World Values ​​Survey
 
 ### Japanese music culture and generation research
 
-・Mia Nakamura (2001) Sociology of subculture and youth culture.
-・Toshiya Yoshimi (1994) Urban dramaturgy.
 ・Public opinion survey on culture conducted by the Agency for Cultural Affairs (each year).
 
 > This paper relies on a research trend that views the relationship between music genres and social behavior as a cumulative effect rather than a deterministic one.

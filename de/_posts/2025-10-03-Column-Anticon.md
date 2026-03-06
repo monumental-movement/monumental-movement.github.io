@@ -151,7 +151,7 @@ In den frühen Tagen bestand der Kern der Band aus fragmentarischen, abstrakten 
 ### ■ Alias ​​​​(Brendon Whitney)
 
 | Jahr | Titel | Notizen | Link |
-| ---- | ------------------------------------- | -------- | --------------------------------------------------------------- |
+| ---- | ------------------------------------- | -------- | ----------------------------------------------------- |
 | 2000 | *The Other Side of the Looking Glass* | デビュー作    | [Amazon](https://amzn.to/4o9dFDz) |
 | 2003 | *Muted*                               | 抑制された音世界 | [Amazon](https://amzn.to/4mPkFUO)                    |
 | 2008 | *Resurgam*                            | ポストロック寄り | [Amazon](https://amzn.to/3Wsfz65)                 |

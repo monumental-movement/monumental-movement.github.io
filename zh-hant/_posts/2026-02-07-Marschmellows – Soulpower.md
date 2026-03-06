@@ -18,7 +18,7 @@ title: 棉花糖 – 靈魂力量
 
 Marschmellows 是 1990 年代末至 2000 年代總部位於德國的電子音樂計畫。他們的聲音融合了Future Jazz、Broken Beat和downtempo，被稱為德國法蘭克福著名廠牌INFRACom!的代表藝術家之一。
 
-《Soulpower》是一首 House/Broken Beat/Future Jazz 曲目，由 INFRACom 廠牌發行！ 1998年，並收錄在專輯《Rebound》。
+《Soulpower》是一首 House/Broken Beat/Future Jazz 曲目，由 INFRACom 廠牌發行！ 1998年，這首歌也收錄在專輯《Rebound》。
 
 B 是 Jazzanova 的混音版，Jazzanova 是一家位於柏林的德國 DJ/製作人團體。
 

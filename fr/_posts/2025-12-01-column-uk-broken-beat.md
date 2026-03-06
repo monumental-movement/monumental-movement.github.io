@@ -61,7 +61,7 @@ Les débuts de Broken Beat mettent en vedette des artistes et des labels princip
 - **Dego (4hero)** : Bien qu'il soit actif en tant que membre de 4hero, il poursuit également des éléments de Broken Beat dans ses œuvres solo. En particulier, "Live in Tokyo" se caractérise par la méthode consistant à appliquer directement la sensation d'une performance live aux morceaux de club.
 - **IG Culture** : Un pionnier du style Broken Beat, qui allie jazz-funk et soul. Nous avons élargi le genre avec des phrases complexes sur claviers et synthés.
 - **Kaidi Tatham** : Avec ses performances polyvalentes au clavier et ses rythmes de signature rythmique étranges, elle a joué un rôle dans l'élargissement de la gamme des genres.
-- **2000Black** : Label et collectif d'artistes, siège de la communauté Broken Beat. En plus des sorties, des interactions animées ont également eu lieu lors d'événements réguliers.
+- **2000Black**: Label and artist collective, home to the Broken Beat community. En plus des sorties, des interactions animées ont également eu lieu lors d'événements réguliers.
 
 Etiquettes représentatives :
 

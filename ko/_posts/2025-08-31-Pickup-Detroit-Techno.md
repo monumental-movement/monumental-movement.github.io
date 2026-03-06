@@ -9,7 +9,7 @@ permalink: /ko/pickup-detroit-techno/
 tags:
 - Detroit Techno
 - 90s
-title: 디트로이트 테크노(Detroit Techno) 작품을 픽업
+title: 디트로이트 테크노(Detroit Techno) 작품 픽업
 ---
 
 
@@ -142,7 +142,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-특징 : 댄서블 그루브와 추상 실험성을 양립. 트랙 예: "Tangible-Theory Proliferation (Ultradyne Remix)" "Fantasy Era".
+특징 : 댄서블 그루브와 추상 실험성을 양립. 트랙 예 : "Tangible-Theory Proliferation (Ultradyne Remix)" "Fantasy Era".
 
 추천 포인트 : 탐구적인 테크노 체험을 요구하는 청취자에게 최적. 바닥이나 헤드폰 모두 실험적인 사운드로 끌려갑니다.
 
@@ -283,7 +283,7 @@ B2. Scout
 
 특징 : 2 트랙을 수록하고 하드하고 산업적인 분위기를 자아내는 EP.
 
-추천 포인트: 그 강렬한 소리의 압력은, 피크 타임에 투입하는 것으로 플로어를 단번에 폭발시키는 파워를 가집니다.
+추천 포인트 : 그 강렬한 소리의 압력은, 피크 타임에 투입하는 것으로 플로어를 단번에 폭발시키는 파워를 가집니다.
 
 #### Tracklist
 ```md

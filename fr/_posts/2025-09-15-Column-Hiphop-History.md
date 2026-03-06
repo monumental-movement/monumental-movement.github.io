@@ -21,7 +21,7 @@ title: '[Chronique] Histoire du hip-hop américain : aperçu général, y compr
 Texte : mmr｜Thème : À propos du hip-hop, où différents styles se sont formés dans chaque région des États-Unis
 
 Le hip-hop est né dans le Bronx, à New York, à la fin des années 1970 et est devenu plus qu'un simple genre musical, il est également devenu une culture liée à la danse, au graffiti, à la mode et aux mouvements sociaux.
-Aux États-Unis, différents styles se sont formés dans chaque région et le développement a été soutenu par la scène des clubs, la radio, les cassettes démo et la culture du disque. De plus, le développement de la technologie d'échantillonnage et la tendance ultérieure au déséchantillonnage symbolisaient l'innovation musicale dans le hip-hop.
+En Amérique, différents styles se sont formés dans chaque région et le développement a été soutenu par la scène des clubs, la radio, les cassettes démo et la culture du disque. De plus, le développement de la technologie d'échantillonnage et la tendance ultérieure au déséchantillonnage symbolisaient l'innovation musicale dans le hip-hop.
 
 ---
 
@@ -50,7 +50,7 @@ Les clubs et les fêtes de quartier étaient bien plus que de simples salles de 
 À l'époque, le hip-hop était popularisé grâce à des programmes de radio (par exemple « The Show » de WBLS) et les cassettes démo étaient un moyen important de découvrir des artistes.
 DJ Kool Herc et Afrika Bambaataa ont diffusé leurs mixtapes à la radio locale et lors de soirées, contribuant ainsi à faire passer le message.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 [The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
@@ -73,7 +73,7 @@ Un style G-funk unique a été affiné dans les clubs et les soirées roulantes 
 ### Rôle des cassettes de démonstration et de la radio
 La nouvelle chanson a été diffusée sur les stations de radio locales (KDAY, KMEL) et les jeunes qui ont écouté la démo l'ont diffusée de bouche à oreille. Les DJ des radios locales ont notamment fait office d’arbitres de la scène.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 [Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
@@ -92,7 +92,7 @@ Extrayez des phrases de disques soul, funk et jazz à l'aide d'un échantillonne
 
 ### Côte Est contre Côte Ouest
 Les tensions régionales influencent la musique, comme en témoigne le conflit entre The Notorious B.I.G. et 2Pac.
-Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de rap battles et de premières nouveautés, favorisant une culture rap battle.
+Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de battles de rap et de premières nouveautés, favorisant une culture de battle de rap.
 
 ### Sud (Atlanta, Houston, Nouvelle-Orléans)
 OutKast et UGK ont émergé et ont établi leur propre son unique. La distribution de cassettes dans les clubs a soutenu la diffusion du hip-hop régional.
@@ -101,7 +101,7 @@ OutKast et UGK ont émergé et ont établi leur propre son unique. La distributi
 En raison des problèmes de droits d'auteur et de la hausse des coûts, un nombre croissant d'artistes se tournent vers la production de sources sonores originales et les performances live.
 « The Chronic » (1992) de Dr. Dre utilise habilement l'échantillonnage, tandis que le G-funk utilise beaucoup de synthés et de lignes de basse originales.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 **East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
@@ -121,7 +121,7 @@ Déséchantillonnage et changements d’équipement
 Avec la diffusion des DAW (Pro Tools, Ableton Live), il est désormais possible de créer des sources sonores uniques à l'aide de synthés et de plug-ins sans recourir à l'échantillonnage.
 Cela augmente la proportion de rythmes originaux.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 [Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
@@ -129,7 +129,7 @@ Cela augmente la proportion de rythmes originaux.
 
 ---
 
-## Des années 2010 à aujourd'hui : l'ère du streaming et la mondialisation
+## Des années 2010 à aujourd'hui : l'ère du streaming et la mondialisation
 
 ### Combiner culture club et culture en ligne
 Principalement diffusé en version numérique sur SoundCloud, YouTube, Spotify, etc. Le club a immédiatement changé son rôle de lieu d'observation des réactions.
@@ -143,7 +143,7 @@ DAW (Ableton Live, FL Studio)
 
 Extension de l'utilisation des plugins et des packs d'échantillons
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 [Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 
@@ -195,7 +195,7 @@ Un incident impliquant une utilisation non autorisée de la boucle de guitare de
 | années 1980 | *Payé en totalité*, *Il faut une nation de millions* | James Brown, Funk, période d'abus d'échantillonnage d'âme |
 | années 1990 | *La Chronique*, *Tous les regards sur moi* | Parlement-Funkadelic, G-Funk |
 | Années 2000 | *Stakonia*, *Tha Carter III* | Échantillonnage réduit/synthé mainstream |
-| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement maison + Auto-Tune |
+| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement fait maison + Auto-Tune |
 | Années 2020 | *M. Moral et les Big Steppers*, *L'intersaison* | Exemple de régression + expérience de battement générée par l'IA |
 
 ---

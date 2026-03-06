@@ -25,7 +25,7 @@ Text: mmr｜Thema: Eine ausführliche Analyse, die die Geschichte der Ausbreitun
 
 Vom Ende des 20. Jahrhunderts bis zum Beginn des 21. Jahrhunderts veränderte das Internet den Kern der Musikkultur. Traditionell waren Plattenfirmen, Radiosender und CD-Läden die Hauptvertriebsquellen, doch das Internet hat eine Ära eingeläutet, in der Einzelpersonen Songs direkt vertreiben können. In Clubs und Festivals in Städten ist es mittlerweile üblich, dass sich lokale Lieder über das Internet sofort in andere Städte verbreiten.
 
-In den Techno-Clubs Berlins und der Clubszene Tokios teilten DJs und Künstler ihre Sets und Songs informell auf Mixcloud und SoundCloud und machten sie so Fans und DJs auf der ganzen Welt zugänglich. Auf diese Weise wurde eine Struktur geschaffen, in der lokale urbane Musik globale Trends direkt beeinflusste.
+In den Techno-Clubs Berlins und der Clubszene Tokios teilten DJs und Künstler ihre Sets und Songs informell auf Mixcloud und SoundCloud und machten sie so Fans und DJs auf der ganzen Welt zugänglich. In this way, a structure was created in which local urban music directly influenced global trends.
 
 
 ---
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Ende der 1990er-Anfang der 2000er: MP3-Revolution und Filesharing
 
-> Die Verbreitung des MP3-Formats und das Aufkommen von P2P-Diensten wie Napster, die in den frühen Tagen des Internets stattfanden, stellten die herkömmliche Meinung der Musikverbreitung auf den Kopf.
+> Die Verbreitung des MP3-Formats und das Aufkommen von P2P-Diensten wie Napster zu Beginn des Internets stellten den gesunden Menschenverstand im Musikvertrieb auf den Kopf.
 
 Die Einführung des MP3-Formats im Jahr 1995 erleichterte das Komprimieren und Teilen von Musikdateien und schuf eine Umgebung, in der Menschen Musik genießen konnten, ohne auf den Kauf von CDs angewiesen zu sein. Die Indie-Band The Postal Service aus Los Angeles und Berliner Underground-Techno-Tracks erreichten DJs und Hörer auf der ganzen Welt über MP3.
 
@@ -81,7 +81,7 @@ Auch die Zahl unabhängiger Künstler, die in die Charts einsteigen, ist gestieg
 
 ## Ende der 2010er-2020er Jahre: Kurze Videos und algorithmisch gesteuert
 
-> Die virale Kraft von Kurzvideos wie TikTok und YouTube Shorts ist zum Ausgangspunkt für neue Hits geworden, auch die traditionelle Chartstruktur hat sich verändert.
+> Die virale Kraft von Kurzvideos wie TikTok und YouTube Shorts ist zum Ausgangspunkt für neue Hits geworden und die traditionelle Chartstruktur hat sich verändert.
 
 Seit 2016 sind TikTok und YouTube Shorts zu den wichtigsten Mitteln zur Verbreitung von Musik geworden. „Old Town Road“ der amerikanischen Rapperin Lil Nas Auch in der Berliner Clubszene wurden Techno-Tracks, die auf TikTok Aufmerksamkeit erregten, von Fans und DJs in der ganzen Stadt geteilt.
 

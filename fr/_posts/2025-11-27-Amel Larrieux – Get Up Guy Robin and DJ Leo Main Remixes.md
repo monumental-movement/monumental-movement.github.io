@@ -21,9 +21,9 @@ title: Amel Larrieux – Get Up (Guy Robin & DJ Leo Main Remixes)
 
 
 
-Amel Larrieux est une chanteuse américaine qui a été membre fondatrice de Groove Theory avec Bryce Wilson au milieu des années 1990. "Get Up" est un single de son premier album solo Infinite Possibilities sorti en 1999.
+Amel Larrieux (アメール・ラリュー)は、1990年代半ばに、Bryce WilsonとともにGroove Theoryの創設メンバーとして活躍したアメリカのシンガー。「Get Up」は、1999年にリリースしたソロデビューアルバムInfinite Possibilitiesからのシングルカット。
 
-Ce disque est une sortie non officielle d'un mix House/Deep House du producteur britannique Guy Robin et DJ Leo en 2009.
+このレコードは、2009年にUKのプロデューサーGuy RobinとDJ LeoがHouse／Deep Houseミックスした非公式リリース盤。
 
 #### Liste des chansons
 ```md

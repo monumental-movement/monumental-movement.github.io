@@ -11,24 +11,23 @@ tags:
 - History
 - Avatar
 - Metaverse
-title: '[Chronique] Possibilités de groupes virtuels : comment la musique intangible
-  a élargi le monde'
+title: 【コラム】 バーチャルバンドの可能性――実体なき音楽が世界を拡張してきた軌跡
 ---
 
 
 
-## Qu'est-ce qu'un groupe virtuel ?
+## バーチャルバンドとは何か
 
-Texte : mmr｜Thème : Décrypter à partir de faits historiques comment les groupes virtuels combinant technologie numérique et narration ont changé la façon dont la musique est créée, entendue et crue.
+文：mmr｜テーマ：デジタル技術と物語性が融合したバーチャルバンドが、音楽の作り方・聴かれ方・信じられ方をどのように変えてきたのかを歴史的事実から読み解く
 
 
-### L’invention d’une « unité musicale » sans substance
+### 実体を持たない「音楽ユニット」という発明
 
-Un groupe virtuel est un projet musical qui ne met en scène aucune personne réelle, mais utilise plutôt des personnages fictifs ou des avatars comme acteurs principaux. Ce qui est important ici, ce n’est pas qu’il n’y ait personne. De véritables compositeurs, interprètes et producteurs existent. Cependant, ce à quoi le public est confronté, ce ne sont pas les personnages eux-mêmes, mais les personnages et la vision du monde du décor.
+バーチャルバンドとは、実在の人物が前面に立たず、架空のキャラクターやアバターを主体として活動する音楽プロジェクトを指す。ここで重要なのは「人が存在しない」ことではない。実際の作曲家、演奏家、プロデューサーは存在する。ただし観客が向き合う対象は、彼ら自身ではなく、設定されたキャラクターや世界観である。
 
-Ce format n'est pas seulement une présentation visuelle. Il se caractérise par le fonctionnement cohérent d'un « sujet fictif » doté d'une personnalité et d'une histoire, incluant la production musicale, les performances live, le développement des médias et la formation de communautés de fans. Autrement dit, un groupe virtuel s’apparente plus à une structure de transport de musique qu’à un genre musical.
+この形式は単なる視覚的演出ではない。音楽制作、ライブ、メディア展開、ファンコミュニティの形成まで含めて、人格や物語を持つ「虚構の主体」が一貫して機能する点に特徴がある。つまりバーチャルバンドとは、音楽ジャンルというより、音楽を運ぶための構造そのものだと言える。
 
-> Les groupes virtuels ont été créés comme des entités qui reconsidèrent fondamentalement le principe de « qui chante ? » en musique.
+> バーチャルバンドは、音楽における「誰が歌っているのか」という前提を根底から問い直す存在として成立してきた。
 
 ---
 
@@ -47,25 +46,25 @@ color: #fff;
 
 
 
-## Groupes d'animation et de concept comme origines
+## 起源としてのアニメーションとコンセプトバンド
 
-### La prémisse de l'empathie avec les êtres fictifs
+### 架空の存在に感情移入するという前提
 
-Les origines du groupe virtuel se trouvent dans la culture de l’animation et des albums concepts de la fin du 20e siècle. Dans les films d’animation et les séries télévisées, des personnages inexistants ont chanté les chansons et le public les a naturellement acceptées. Ici, « qui chante dans l'histoire » a eu la priorité sur « qui chante ? »
+バーチャルバンドの原型は、20世紀後半のアニメーションやコンセプトアルバム文化に見いだせる。アニメ映画やテレビシリーズでは、実在しないキャラクターが歌い、観客はそれを自然に受け入れてきた。ここでは「歌っているのが誰か」という事実より、「物語の中で誰が歌っているか」が優先されていた。
 
-En outre, de la fin des années 1960 aux années 1970, des œuvres utilisant des décors de groupes fictifs et des alter ego sont apparues dans la musique rock et pop. C'était aussi une façon pour l'artiste de se distancier de lui-même et d'accroître sa liberté d'expression.
+また1960年代後半から70年代にかけて、ロックやポップスでは架空のバンド設定や別人格を用いた作品が登場する。これはアーティスト自身が自分の実像から距離を取り、表現の自由度を高めるための方法でもあった。
 
-Ces boîtiers contenaient déjà deux éléments nécessaires aux groupes virtuels ultérieurs. Premièrement, la réceptivité du public à sympathiser avec un être fictif. Deuxièmement, il y a la reconnaissance du fait que l’histoire et le décor prolongent l’expérience musicale.
+これらの事例は、後のバーチャルバンドに必要な二つの要素をすでに備えていた。第一に、架空の存在に感情移入する観客の受容性。第二に、物語や設定が音楽体験を拡張するという認識である。
 
-> Les groupes virtuels ne sont pas apparus soudainement, mais sont le prolongement d'une longue histoire d'histoires et de musique entremêlées.
+> バーチャルバンドは突然現れたのではなく、物語と音楽が結びついてきた長い歴史の延長線上にある。
 
 ---
 
-## Un tournant rendu possible par le numérique
+## デジタル技術が可能にした転換点
 
-### Mise en place d'un environnement où les personnages peuvent « s'activer »
+### キャラクターが「活動」できる環境の成立
 
-De la fin des années 1990 au début des années 2000, l’infographie, Internet et l’environnement de production musicale numérique se sont rapidement développés. En conséquence, les personnages ne sont pas seulement des illustrations, mais des personnages qui bougent et grandissent au sein de la vidéo, et deviennent des entités qui peuvent être continuellement exposées.
+1990年代後半から2000年代初頭にかけて、CG、インターネット、デジタル音楽制作環境が急速に発展した。これにより、キャラクターは単なるイラストではなく、映像内で動き、成長し、継続的に露出できる存在となる。
 
 En termes de production musicale, avec la diffusion des DAW et de la technologie d’échantillonnage, une production musicale séparée de la dimension physique de la performance est devenue monnaie courante. Les voix chantées peuvent également être modifiées et traitées pour ne plus savoir à qui elles appartiennent. Il s’agit d’un changement important qui a conduit plus tard à la culture de la synthèse vocale.
 
@@ -81,7 +80,7 @@ En termes de distribution, les personnages et les chansons peuvent désormais ê
 
 Dans les années 2000, des groupes virtuels aux caractères et à la musicalité distincts connaissent un succès international. Grâce à des vidéoclips animés, une programmation fictive et un décor narratif continu, ils sont devenus des « objets à encourager » au même titre que de vrais groupes.
 
-Ce qui est important, c'est que ces projets n'étaient pas des œuvres ponctuelles et d'actualité, mais impliquaient des sorties d'albums, des tournées et un développement médiatique sur une longue période. Le public commence progressivement à accorder plus d’attention aux relations et aux changements entre les personnages qu’aux créateurs derrière eux.
+Ce qui est important, c'est que ces projets n'étaient pas des œuvres ponctuelles et d'actualité, mais impliquaient des sorties d'albums, des tournées et un développement médiatique sur une longue période. Le public commence progressivement à accorder plus d’attention aux relations et aux changements entre les personnages qu’aux créateurs qui se cachent derrière eux.
 
 Ici, le groupe virtuel ne s'est pas caché derrière l'anonymat, mais a plutôt acquis une forte personnalité. Un état paradoxal d’anonymat mais avec une individualité claire a été créé.
 
@@ -95,7 +94,7 @@ Ici, le groupe virtuel ne s'est pas caché derrière l'anonymat, mais a plutôt 
 
 Les progrès de la technologie de synthèse vocale ont encore élargi les possibilités des bandes virtuelles. Les voix qui ne dépendent pas du corps d'un chanteur spécifique seront traitées comme un attribut du personnage lui-même. Ici, la voix n’est pas quelque chose qui se joue, mais quelque chose qui se conçoit.
 
-Ce changement a également affecté la relation entre créateurs et consommateurs. La musique ne sera plus un produit fourni unilatéralement, mais commencera à fonctionner comme une ressource partagée qui pourra être élargie grâce à des œuvres dérivées et des remixes. Les personnages ne sont plus des idoles fixes, mais sont devenus des entités pouvant être mises à jour au sein de la communauté.
+Ce changement a également affecté la relation entre les créateurs et les consommateurs. La musique ne sera plus un produit fourni unilatéralement, mais commencera à fonctionner comme une ressource partagée qui pourra être élargie grâce à des œuvres dérivées et des remixes. Les personnages ne sont plus des idoles fixes, mais sont devenus des entités pouvant être mises à jour au sein de la communauté.
 
 En conséquence, les groupes virtuels ressemblent davantage à des plateformes de création décentralisées qu’à des artistes individuels.
 
@@ -109,7 +108,7 @@ En conséquence, les groupes virtuels ressemblent davantage à des plateformes d
 
 Les performances live d’un groupe virtuel n’exigent pas nécessairement que les artistes et le public se réunissent au même endroit. Diverses formes ont été établies, notamment via un écran, AR, VR et des plateformes de distribution. Ce qui est important ici, c’est la simultanéité et l’expérience partagée plutôt que la distance physique.
 
-Plutôt que de voir la « personne à l'intérieur » du personnage, le public recherche une expérience où il sent que le personnage lui-même est là. Pour cette raison, la mise en scène, les visuels et le cadre de l’histoire sont aussi importants, sinon plus, que la technique d’interprétation.
+Plutôt que de voir la personne « à l'intérieur » du personnage, le public recherche une expérience où il sent que le personnage lui-même est là. Pour cette raison, la mise en scène, les visuels et le cadre de l’histoire sont aussi importants, sinon plus, que la technique d’interprétation.
 
 Ce format relativise les contraintes géographiques et les limites du nombre de personnes, et élargit le concept même d'événement musical.
 

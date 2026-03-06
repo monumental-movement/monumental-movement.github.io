@@ -141,8 +141,8 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 ---
 
 ## Liste représentative des chefs-d'œuvre
-- Luigi Russolo — *The Art of Noises* (1913, théorie/performance)
-- Pierre Schaeffer — œuvres *musique concrète*
+- Luigi Russolo — *L'Art des Bruits* (1913, théorie/performance)
+- Pierre Schaeffer — *musique concrète* œuvres
 - Lou Reed — *Musique Metal Machine* (1975)
 - Throbbing Gristle — premiers travaux
 -Einstürzende Neubauten — *Kollaps*

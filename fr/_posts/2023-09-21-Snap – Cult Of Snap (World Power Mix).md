@@ -9,17 +9,17 @@ permalink: /fr/snap-cult-of-snap-world-power-mix/
 tags:
 - House
 - Euro Beat
-title: Instantané! – Cult Of Snap (Mélange de puissance mondiale)
+title: Snap! – Cult Of Snap (World Power Mix)
 ---
 
 
-"Snap ! – Cult Of Snap (World Power Mix)" est une chanson de Snap ! Instantané! est un groupe d'eurodance allemand actif dans les années 1980 et 1990, connu pour ses tubes tels que « The Power » et « Rhythm Is a Dancer ». « Cult Of Snap (World Power Mix) » présente un son accrocheur et une énergie pop.
+「Snap! – Cult Of Snap (World Power Mix)」は、Snap!による曲です。Snap!は1980年代と1990年代に活躍したドイツのユーロダンスグループであり、ヒット曲「The Power」や「Rhythm Is a Dancer」などで知られています。「Cult Of Snap (World Power Mix)」は、キャッチーなサウンドとポップなエネルギーが特徴です。
 
-"Cult Of Snap (World Power Mix)" est l'une des chansons les plus populaires de Snap! et est familière aux fans de musique dance et aux amateurs de musique pop.
+「Cult Of Snap (World Power Mix)」は、Snap!の人気曲の一つでありダンスミュージックファンやポップミュージック愛好家にとってはお馴染みの曲です。
 
-Mélangeant des éléments de musique pop et de musique de danse, il fait non seulement danser les auditeurs, mais offre également une expérience musicale agréable.
+ポップミュージックとダンスミュージックの要素を融合させ、聴く人を踊らせるだけでなく、楽しい音楽体験を提供します。
 
-Comme vous pouvez le voir dans le texte et le titre de la chanson, Snap ! il s'agit de construire une sorte de « culte » ou de communauté de fans, et ce sens se reflète tout au long de la chanson.
+曲のテキストやタイトルからもわかるように、Snap!は一種の「カルト」やファンのコミュニティを築くことをテーマにしており曲全体にその意味が反映されています。
 
 #### Liste des chansons
 ```md

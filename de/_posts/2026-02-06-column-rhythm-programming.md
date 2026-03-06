@@ -23,7 +23,7 @@ Text: mmr｜Thema: Betrachten Sie Rhythmusprogrammierung als Designkonzept und n
 
 Bei der Rhythmusprogrammierung geht es nicht darum, die Punkte genau auszurichten. Es ist ein gestalterischer Akt: wie man die Zeit einteilt, wo man Akzente setzt und wo man Leerraum lässt. Wenn es sich bei der Leistung um eine Reihe augenblicklicher Entscheidungen handelt, ähnelt das Programmieren dem Denken aus der Vogelperspektive auf die Zeit als Ganzes.
 
-Mit dem Aufkommen von Drumcomputern und Sequenzern wurde der Rhythmus vom Körper getrennt und zu einem Objekt, das visuell und numerisch behandelt werden musste. Dieser Wandel führte zu der Notwendigkeit, das vage Konzept des Grooves auf Kosten der Präzision neu zu definieren.
+ドラムマシンやシーケンサーの登場によって、リズムは身体から切り離され、視覚的・数値的に扱われる対象となった. Dieser Wandel führte zu der Notwendigkeit, das vage Konzept des Grooves auf Kosten der Präzision neu zu definieren.
 
 > Rhythmusprogrammierung ist der Akt der Gestaltung der Art und Weise, wie wir Zeit wahrnehmen.
 
@@ -88,7 +88,7 @@ Beim Rhythmusdesign sind mehr Sounds nicht immer besser. Unter Dichte versteht m
 
 Wenn Sie eine Hi-Hat auf allen 16 Stufen platzieren, wird die Zeit verkürzt, aber es geht Platz verloren. Allein durch das Weglassen eines Tons alle vier Schritte entsteht Atmung.
 
-### Fall: Pseudopolyrhythmus durch Akzent
+### Fall: Pseudo-Polyrhythmus durch Akzent
 
 Durch die Verschiebung der Akzente in regelmäßigen Abständen werden mehrere Perioden wahrgenommen, obwohl es sich tatsächlich um eine einzelne Periode handelt.
 
@@ -122,7 +122,7 @@ Durch die Kombination eines kurzen Kicks und eines langen Subbasses werden Beat 
 
 ### Fall: Rollenaufteilung nach Frequenzband
 
-Der niedrige Bereich legt den Beat fest und der hohe Bereich zeigt den Flow. Wenn diese Arbeitsteilung zusammenbricht, fühlt sich der Rhythmus instabil an.
+Der niedrige Bereich legt den Beat fest und der hohe Bereich zeigt den Fluss. Wenn diese Arbeitsteilung zusammenbricht, fühlt sich der Rhythmus instabil an.
 
 > Ton ist kein Ornament, sondern die Struktur der Zeit selbst.
 
@@ -166,7 +166,7 @@ Durch die Neuanordnung vorhandener Schlaufen können Sie die Struktur neu gestal
 
 ### Fall: Vollständige Stufenrekonstruktion
 
-Durch die Neugestaltung spiegelt die Zeitstruktur lediglich das Designkonzept wider.
+Durch die Neugestaltung spiegelt die Zeitstruktur lediglich die Designphilosophie wider.
 
 > Die Idee der Rhythmusgestaltung ändert sich je nachdem, ob sie materialgetrieben oder strukturgetrieben ist.
 
@@ -176,7 +176,7 @@ Durch die Neugestaltung spiegelt die Zeitstruktur lediglich das Designkonzept wi
 
 Sogar kurze Schleifen ändern wahrnehmungsmäßig ihre Länge.
 
-### Fall: Terminalverschleierung
+### Fall: Verschleierung der Kündigung
 
 Durch das Abschwächen der letzten Note des Loops ist der Bruch nicht mehr zu spüren.
 
@@ -202,7 +202,7 @@ Der Schwerpunkt liegt auf aus Samples abgeleiteten Backbeats und Fluktuationen. 
 
 Strukturelle Komplexität und asymmetrisches Design. Unstimmigkeiten in der Periode und unregelmäßige Taktarten stören das Zeitgefühl.
 
-> Genre ist eine Sammlung von Rhythmus-Design-Ideen.
+> Ein Genre ist eine Sammlung von Rhythmus-Design-Ideen.
 
 ---
 
@@ -311,7 +311,7 @@ Ein Typ ist nicht besser als der andere. Wichtig ist, dass Sie sich Ihres eigene
 
 Bei der Rhythmusprogrammierung geht es nicht darum, Klänge zu arrangieren. Hierbei handelt es sich um die Gestaltung eines Erlebnisses, das auf der Wahrnehmung des auditiven Zeitempfindens basiert.
 
-Auch wenn sich die Technologie weiterentwickelt, bleibt diese Essenz dieselbe. Rhythmus ist nicht der Klang, der abgespielt wird, sondern die Struktur selbst, einschließlich der Zeit, in der er nicht abgespielt wird.
+Auch wenn sich die Technologie weiterentwickelt, bleibt diese Essenz dieselbe. Rhythmus ist nicht der Klang, der gespielt wird, sondern die Struktur selbst, einschließlich der Zeit, die nicht gespielt wird.
 
 > Rhythmusprogrammierung ist die Idee, Zeit zu gestalten, in der man nicht hören kann.
 

@@ -14,7 +14,7 @@ title: Charles Siegling – Star Tracks 01
 ---
 
 
-Amil Khan(아밀 칸)과의 테크노 유닛 Technasia(테크네이지아)로도 알려져, 파리를 거점으로 활동하는 DJ/프로듀서 Charles Siegling(샤르 시그링)이, 2000년에 설립한 자신의 라벨 Star Tracks로부터 릴리스 한 Tribal/Techno 트랙.
+Amil Khan(아밀 칸)과의 테크노 유닛 Technasia(테크네이지아)로도 알려져, 파리를 거점으로 활동하는 DJ/프로듀서 Charles Siegling(샤르 시그링)이, 2000년에 설립한 자신의 라벨 Star Tracks로부터 릴리스 한 Tribal/Techno트랙.
 
 #### Tracklist
 ```md

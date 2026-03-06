@@ -151,7 +151,7 @@ flowchart TD
 ## 5-2. Internet-era Vocal Chain
 
 * Auto-Tune
-* 포르만트 인상(가벼운)
+* 포먼트 인상(가벼운)
 * Doubler / Slapback
 * OTT (가벼운)
 
@@ -236,7 +236,7 @@ flowchart LR
 
 ---
 
-#9. 시각·문화적 특징
+# 9. 시각 · 문화적 특징
 
 * Discord 서버를 기반으로 한 공동 제작 문화
 * TikTok 발의 바이럴 구조

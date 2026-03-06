@@ -49,7 +49,7 @@ Afin de comprendre la formation des expériences pop électroniques, il est néc
 
 Depuis les années 1970, avec la miniaturisation et la distribution commerciale des synthétiseurs analogiques, le son électronique est passé du domaine de l'expérimentation en studio à celui de la production musicale populaire. À ce stade, les sons électroniques servaient principalement à renforcer les structures pop existantes.
 
-Dans les années 1980, avec la diffusion des synthétiseurs numériques, des boîtes à rythmes et du standard MIDI, le processus de production lui-même a commencé à influencer la structure des chansons. À ce stade, la musique est devenue de plus en plus un « processus conçu » plutôt qu'un « résultat joué ».
+Dans les années 1980, avec la diffusion des synthétiseurs numériques, des boîtes à rythmes et du standard MIDI, le processus de production lui-même a commencé à influencer la structure des chansons. À ce stade, la musique est devenue de plus en plus un « processus conçu » plutôt qu’un « résultat joué ».
 
 ---
 
@@ -75,7 +75,7 @@ Ceux-ci serviront plus tard de base à une expérimentation renforcée.
 * Une conception d'image sonore qui ne cache pas l'artificialité
 * Expression visuelle et production musicale simultanées
 
-Cette nature expérimentale décompose l'expérience de l'auditeur en plusieurs couches et élargit l'écoute musicale d'un « acte uniquement auditif ».
+Cette nature expérimentale décompose l'expérience de l'auditeur en plusieurs couches et élargit l'écoute musicale d'une « activité uniquement auditive ».
 
 ---
 
@@ -198,7 +198,7 @@ Cependant, plutôt que de simplement fusionner ces éléments, il se distingue p
 En incluant le processus de production et les informations visuelles, les auditeurs font simultanément l'expérience de ce qui suit :
 
 * Écouter de la musique
-* Imaginer le processus de production
+*Imagination du processus de production
 * Observation de la personnalité du créateur
 * Interprétation narrative visuelle
 

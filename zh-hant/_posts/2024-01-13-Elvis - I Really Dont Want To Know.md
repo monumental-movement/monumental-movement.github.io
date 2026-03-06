@@ -14,7 +14,7 @@ title: 貓王 - 我真的不想知道
 ---
 
 
-「I Really Don't Want To Know（知りたくないの）」は、元々Don Robertson（ドン ロバートソン）とHoward Barnes（ハワード バーンズ）が制作し、1953年にリリースされた。
+《我真的不想知道》最初由唐羅伯遜和霍華德巴恩斯創作，於 1953 年發行。
 
 它被許多藝術家翻唱過，包括 Les Paul & Mary Ford、Andy Williams、Eddie Arnold、Johnny Rodriguez、Tommy Edwards、Ronnie Dove、Jason & the Scorchers、Anne Murray 和 Jerry Lee Lewis。
 

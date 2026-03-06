@@ -15,7 +15,7 @@ title: Coldplay – Horloges
 
 Ce morceau est apparu à l'origine sur l'album A Rush of Blood to the Head, sorti en 2002. "Clocks" est également sorti en tant que premier single de l'album et a été un succès mondial.
 
-"Clocks" est une chanson qui présente un riff de piano et un rythme unique, ainsi qu'une atmosphère méditative et un son magnifique.
+"Clocks" est une chanson caractérisée par un riff de piano et un rythme unique, avec une atmosphère méditative et un son magnifique.
 
 #### Liste des chansons
 ```md

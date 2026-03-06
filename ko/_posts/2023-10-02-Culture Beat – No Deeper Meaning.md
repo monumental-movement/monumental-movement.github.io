@@ -15,9 +15,9 @@ title: Culture Beat – No Deeper Meaning
 
 'No Deeper Meaning'은 Jay Supreme과 Nosie Katzmann의 독일 유로 댄스 밴드 Culture Beat에 의해 녹음되었으며 첫 스튜디오 앨범인 'Horizon'(1991)에서 네 번째로 마지막 싱글로 출시되었습니다.
 
-여성의 보컬은 Lana Earl이 담당하고 네덜란드에서 4위, 포르투갈에서 9위에 달했다. 유럽 ​​외에서는 캐나다의 RPM Dance/Urban 차트에서 3위를 차지했다.
+여성의 보컬은 Lana Earl이 담당하고 네덜란드에서 4위, 포르투갈에서 9위에 달했다. 유럽 ​​외에서는 캐나다의 RPM Dance/Urban 차트에서 3위에 랭크 인.
 
-이 노래는 나이트 클럽에 가서 연애 관계를 시작하고 싶지 않은 여성에 대해 노래하고 있으며, 그녀는 단순히 춤을 추고 싶습니다. 녹 부분은 영국 록그룹 Tears for Fears의 1983년 곡 'Change'를 샘플링하고 있습니다.
+이 노래는 나이트 클럽에 가서 연애 관계를 시작하고 싶지 않은 여성에 대해 노래하고 있으며, 그녀는 단순히 춤을 추고 싶습니다. 녹 부분은 영국의 록그룹 Tears for Fears의 1983년 곡 'Change'를 샘플링하고 있습니다.
 
 #### Tracklist
 ```md

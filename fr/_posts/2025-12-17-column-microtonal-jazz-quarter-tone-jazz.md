@@ -42,7 +42,7 @@ color: #fff;
 
 ## Chapitre 1 : Les microtones et la préhistoire du jazz
 
-### 1-1 Position historique de l'intervalle microtonal
+### 1-1 Position historique des intervalles microtonaux
 
 Les intervalles microtonaux existaient dans la musique occidentale avant le 20e siècle. La différence de virgule dans le tempérament pythagoricien et l'intonation juste du Moyen Âge et de la Renaissance comprend une différence d'intervalle de moins d'un demi-ton. Cependant, avec l'établissement du tempérament égal à 12 dans le but de simplifier la notation musicale et l'enseignement, ces idées ont reculé dans un contexte théorique.
 
@@ -56,11 +56,11 @@ Les tierces, quintes et septièmes du blues sont théoriquement décrites comme 
 
 ## Chapitre 2 : Le concept du jazz quart de ton
 
-### 2-1 Définition du système quart de ton
+### 2-1 Définition du système de quarts de ton
 
 Les quarts de ton font souvent référence à 24 tempéraments égaux, soit 12 demi-tons divisés en deux. En divisant une octave en 24 parties égales, de nouvelles hauteurs sont insérées entre les demi-tons. Théoriquement, des divisions de hauteur plus fines sont possibles, mais à des fins pratiques en matière de performance et d'éducation, le quart de ton est devenu un point de référence.
 
-### 2-2 Raison de l'adoption dans le contexte du jazz
+### 2-2 Raison d'adoption dans le contexte du jazz
 
 Les raisons pour lesquelles le système des quarts de ton a attiré l'attention dans le jazz peuvent être résumées comme suit.
 
@@ -72,7 +72,7 @@ En particulier dans les performances d'improvisation, les intervalles qui étaie
 
 ---
 
-## Chapitre 3 : La théorie et la pratique de Joe Maneri
+## Chapitre 3 : La théorie et la pratique de Joe Maneri
 
 ### 3-1 Contexte et positionnement
 
@@ -142,7 +142,7 @@ Dans l'approche de Collier, les voix individuelles peuvent avoir des hypothèses
 
 ---
 
-## Chapitre 5 : Utilisation du microton dans l'improvisation
+## Chapitre 5 : Fonctionnement du microton en improvisation
 
 ### 5-1 Construction de phrases
 
@@ -199,7 +199,7 @@ Les disciples de Joe Maneri dispensent une formation microtonale dans des établ
 * Application pratique dans de petits et grands ensembles
 * Activités d'enregistrement et d'édition de jazz microtonal
 
-Ce réseau éducatif, souvent reconnu comme l'école Manneri, constitue la pointe de l'enseignement de l'improvisation et de la composition du jazz contemporain.
+Ce réseau éducatif, souvent reconnu comme l'école manuélienne, constitue la pointe de l'enseignement de l'improvisation et de la composition du jazz contemporain.
 
 ---
 

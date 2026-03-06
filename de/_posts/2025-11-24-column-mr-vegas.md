@@ -135,7 +135,7 @@ Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Alb
 - Der Kontrast zwischen dem melodischen Refrain und dem rauen Gesang ist beeindruckend.
 - Stärken Sie die Botschaft und verbreiten Sie sie durch die Zusammenarbeit mit Ayo.
 
-### 5.4 Andere wichtige Lieder
+### 5.4 Weitere wichtige Lieder
 - „Pull Up“: Coolie Dance Riddim. In internationalen Charts bewertet.
 - „Hot Wuk“: Partyhymne.
 - „Bruk It Down“: Für die Tanzfläche.
@@ -173,7 +173,7 @@ Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Alb
 
 ## Fazit: Ein Sänger, der Tradition und Innovation verbindet
 
-Mr.Vegas ist ein Musiker, dessen Arbeit eine komplexe Mischung aus Kingstons Soundsystem-Kultur, den Kämpfen der Jugend, dem Glauben, sozialer Verantwortung und einer Vision für die Zukunft ist.
+Mr.Vegas ist ein Musiker, dessen Arbeit eine komplexe Mischung aus Kingstons Soundsystem-Kultur, den Kämpfen der Jugend, dem Glauben, der sozialen Verantwortung und einer Vision für die Zukunft ist.
 
 Seine Signature-Songs „Nike Air“ und „Heads High“ symbolisieren den Startpunkt seiner Karriere, während „Kokane“ eine Warnung vor Versuchung und Gefahr darstellt. Sein neuestes Album „Ghetto Reggae“ verbindet eine Hommage an die Zeit und den Ort, in der er aufgewachsen ist, mit einer zeitgenössischen Botschaft.
 

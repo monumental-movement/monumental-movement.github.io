@@ -35,7 +35,7 @@ D2. 802 Flava - 犧牲 - Instrumental
 D3. DJ Flesh & Kohei Japan - Funky Flow - Instrumental
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GTH4pHF04ao?si=K7jXbuhVLROYeJfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

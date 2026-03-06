@@ -38,7 +38,7 @@ color: #fff;
 
 ### Father Yod/James Edward Baker — Trajectoire et légende
 
-#### Première vie et carrière
+#### Première vie et transition
 
 Né le 4 juillet 1922 à Cincinnati, Ohio. Il parle plus tard de son expérience en tant que Marine (bien que certains soulignent que sa médaille Silver Star ne figure pas dans les documents officiels).
 
@@ -76,7 +76,7 @@ Après cela, les membres de la congrégation se sont dispersés, mais celle-ci a
 Programmation principale : principalement Djin Aquarian (guitare), Octavius ​​​​​​Aquarian (batterie) et Tournesol Aquarian (basse), ainsi que d'autres musiciens croyants du « nom de famille Aquarian » tels que Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
-Initialement publié sous le nom de « Father Yod & The Spirit of '76 ». Après cela, la notation telle que « Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13 » a été utilisée avec quelques fluctuations.
+Initialement publié sous le nom de « Father Yod & The Spirit of '76 ». Après cela, des orthographes telles que « Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13 » ont été utilisées avec quelques fluctuations.
 
 
 Il fut également un temps où ils étaient actifs dans des groupes sous différents noms tels que « Savage Sons of Ya Ho Wa », « Fire, Water, Air » et « Yodship ».
@@ -128,7 +128,7 @@ Durant cette période, il explore la fusion des expérimentations acoustiques et
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I'm Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (inédit en 1975 → sorti plus tard), etc.
 
 
-Au cours de cette période, des tentatives ont également été faites pour incorporer davantage de « structuralité » et de « musicalité », avec un style comprenant des riffs de guitare déformés, des phrases répétées et une poésie et un chant fragmentés.
+Au cours de cette période, des tentatives ont également été faites pour incorporer davantage de « structuralité » et de « musicalité », avec un style qui comprenait un mélange de riffs de guitare déformés, de phrases répétitives et de poésie et de chant fragmentés.
 
 
 En particulier, Penetration: An Aquarian Symphony est considéré comme l'œuvre la plus populaire et la plus réévaluée de l'histoire du groupe, et a été rééditée à plusieurs reprises.
@@ -143,7 +143,7 @@ Après 1975, le groupe se sépare en raison du décès de Father Yod. Cependant,
 En 1977, Golden Sunrise (sous le nom de Fire Water Air) et Yodship Suite (Private Press) sont sortis. Il y a aussi une collaboration avec Sky Saxon (ancien de The Seeds) et une participation vocale.
 
 
-Depuis les années 2000, il y a eu des rééditions et des réimpressions d'archives, de nouveaux enregistrements fragmentaires et des réunions de membres (comme Sonic Portation de Djin, Tournesol, Octavius, etc.).
+Depuis les années 2000, il y a eu des rééditions et des réimpressions d'archives, de nouveaux enregistrements fragmentaires et des retrouvailles de membres (Sonic Portation de Djin, Tournesol, Octavius, etc.).
 
 
 ---
@@ -217,7 +217,7 @@ En 2012, la sortie du film documentaire The Source Family (réalisé par Jodi Wi
 ---
 
 
-#### Réunions/Activités
+#### Réunions/activités
 
 En 2007, les membres originaux (Sunflower, Octavius, Djin) se seraient produits en live pour la première fois en 33 ans.
 
@@ -310,16 +310,16 @@ Fait : De nombreux morceaux sont centrés sur des chants, des lignes fragmenté
 
 Motif principal :
 
-Répétition de « Ya Ho Wha / Ya Ho Wa / YHWH (similitude consonantique) » - Nom divin/rôle sacré.
+Répétition de « Ya Ho Wha / Ya Ho Wa / YHWH (similitude consonantique) » - nom divin/rôle sacré.
 
 
-Références à l’archétype « voyage/purification/éléments (feu/eau/air/terre) » – un symbole qui apparaît également dans les titres des albums/chansons.
+Références à l’archétype « voyage/purification/éléments (feu/eau/air/terre) » — un symbole qui apparaît également dans les titres des albums/chansons.
 
 
 Phrases doctrinales/rituelles (mots indiqués par des noms de morceaux expurgés tels que « l'homme le messie ») – mots improvisés et superposés comme la déclaration d'un leader.
 
 
-Comment analyser : Plutôt que de simplement lire les paroles comme « paroles = transmission de sens », il est plus utile de les lire comme suit : « (1) Le son lui-même est un rituel / (2) Les mots sont des déclencheurs suggestifs et poétiques qui génèrent une expérience communautaire sur place. » En d'autres termes, l'orientation religieuse participative à travers le « son/répétition » est au cœur de l'album.
+Comment analyser : Plutôt que de simplement lire les paroles comme « paroles = transmission de sens », il est plus utile de les lire comme suit : « (1) Les sons eux-mêmes sont des rituels / (2) Les mots sont des déclencheurs suggestifs et poétiques qui génèrent une expérience communautaire sur place. » En d'autres termes, l'orientation religieuse participative à travers le « son/répétition » est au cœur de l'album.
 
 ---
 
@@ -440,7 +440,7 @@ Le son « Ya Ho Wha » lui-même est un mantra sacré de la Famille Source, une 
 
 #### 🇺🇸 Amérique
 
-**Situation initiale** : Dans les années 1970, il n'existait que des disques autoproduits (très petits lots), et cela restait culte.
+**Situation initiale** : Dans les années 70, il n'y avait que des disques autoproduits (très petits lots), et le groupe restait culte.
 
 **Années 1990** : Rééditions de labels indépendants tels que Drag City et Swordfish dans le contexte d'une réinterprétation psychédélique.
 
@@ -452,7 +452,7 @@ Le son « Ya Ho Wha » lui-même est un mantra sacré de la Famille Source, une 
 
 #### 🇩🇪 Allemagne
 
-**Réévalué dans un contexte krautrock** : Les fans d'Amon Düül II et Can découvrent Yahowha 13 comme un "acid jam".
+**Réévalué dans un contexte krautrock** : Amon Düül II et la base de fans de Can ont découvert Yahowha 13 comme un « acid jam ».
 
 **Nombreuses rééditions** : Depuis 1998, de nombreuses rééditions ont été réalisées via Captain Trip (en fait un label japonais) et des distributeurs allemands.
 
@@ -506,7 +506,7 @@ Selon les récits familiaux, Yod (James Edward Baker) était à l'origine un res
 
 On dit qu'il était conscient de son rôle dans la musique en tant que « conduit d'énergie » plutôt que « interprète ».
 
-Le membre Octavius ​​​​témoigne : "Il nous laissait jouer, mais en même temps il nous "écoutait". Son regard et sa respiration déterminaient la direction de la séance."
+Le membre Octavius ​​​​​​dit : « Il nous laissait jouer, mais en même temps il nous "écoutait". Son regard et sa respiration déterminaient la direction de la séance. »
 
 ---
 
@@ -557,10 +557,10 @@ Même après sa mort, sa musique continue de vivre comme un « héritage spiritu
 
 ### En conclusion
 
-Plus qu'un simple « groupe culte », Yahowha13/Father Yod a laissé une forte impression sur les générations futures en tant que projet inhabituel fusionnant musique, religion et pratiques communautaires. Son son, à cheval entre improvisation, rituel, folie et mystère, provoque encore aujourd'hui les auditeurs.
+Plus qu'un simple « groupe culte », Yahowha13/Father Yod a laissé une forte impression sur les générations futures en tant que projet inhabituel mêlant musique, religion et pratiques communautaires. Son son, à cheval entre improvisation, rituel, folie et mystère, provoque encore aujourd'hui les auditeurs.
 
 Plus qu'un simple rock psychédélique, la musique de Yahowha 13 et de Father Yod était un rituel sonore qui incarnait la culture hippie et l'esprit communautaire des années 1970. Sous la direction du Père Yod, les membres de la Famille Source ont traduit l'énergie spirituelle en sons par l'improvisation, avec des paroles et des chants qui fonctionnaient davantage comme des vibrations de type mantra que comme une signification littéraire.
 
 Ses enregistrements, tels que les albums Penetration: An Aquarian Symphony et I'm Gonna Take You Home, documentent une fusion de rituel religieux et d'improvisation psychédélique qui reste évocatrice même pour les auditeurs modernes. Il a été réévalué aux États-Unis en tant que document de l'histoire du culte, en Allemagne en tant qu'expérience acoustique et au Japon en tant que religion psychédélique ésotérique, chaque culture développant ses propres interprétations.
 
-Aujourd'hui, grâce au streaming et aux rééditions, la musique de Yahowha 13 est largement accessible, et leur passé culte a culminé dans leur influence sur la scène musicale contemporaine. L'esprit de Father Yod et l'esprit expérimental de Source Family vont au-delà de la simple musique et continuent de défier les nouvelles générations aux possibilités de communauté, d'improvisation et de spiritualité.
+Aujourd'hui, grâce au streaming et aux rééditions, la musique de Yahowha 13 est largement accessible, et leur passé culte a culminé dans leur influence sur la scène musicale contemporaine. L'esprit de Father Yod et l'esprit expérimental de Source Family vont au-delà de la simple musique et continuent de défier les nouvelles générations aux possibilités de la communauté, de l'improvisation et de la spiritualité.

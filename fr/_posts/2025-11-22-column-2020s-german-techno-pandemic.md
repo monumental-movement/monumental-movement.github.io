@@ -79,7 +79,7 @@ Ce « signe d’accélération » a été brusquement interrompu par la pandémi
 
 # Chapitre 2 : Mars 2020 – Premier « confinement national des clubs »
 ## ● Les clubs allemands doivent fermer leurs portes
-En mars 2020, le gouvernement allemand a annoncé ce qui suit comme mesure de contrôle des infections :
+En mars 2020, le gouvernement allemand a annoncé les mesures suivantes pour prévenir l'infection :
 **Fermeture complète annoncée des clubs, bars et installations de loisirs**.
 
 Il s'agissait d'une action en justice et tous les clubs ont été immédiatement fermés.
@@ -137,7 +137,7 @@ Par conséquent, la production des EP/albums se déroulera dans la direction sui
 - Drone de bruit
 - Breakbeats/Électro
 
-En fait, les œuvres sorties en 2020-2021 sont plus destinées à l’écoute qu’aux sommets des clubs.
+En fait, les œuvres sorties en 2020-2021 sont davantage destinées à l’écoute qu’aux sommets des clubs.
 
 ## ● 2) La techno à grande vitesse se développe grâce aux réseaux sociaux
 Un renversement intéressant s’est également produit.
@@ -160,7 +160,7 @@ Cet étrange phénomène a progressé en 2020-2021.
 ## ● Les clubs seront légalement reclassés en « équipements culturels » (2021)
 En 2021, le Bundestag allemand a pris une décision historique.
 
-**Protection juridique des clubs en tant qu'« institutions culturelles » (Kultureinrichtung)**
+**Protéger légalement les clubs en tant qu'« institutions culturelles »**
 
 Il s’agit en fait d’un tournant majeur.
 Jusqu’alors, les clubs étaient considérés comme une industrie de la vie nocturne.
@@ -194,7 +194,7 @@ A partir de là, la musique change radicalement.
 ### Fonctionnalités après redémarrage :
 - 150-170 BPM est courant
 - Des éléments de transe plus forts
-- Les tons rave des années 90 sont de retour
+- Le ton du style rave des années 90 est de retour
 - L'hybride industriel x transformateur est établi
 - Le « 4 temps à grande vitesse » est devenu courant dans le monde entier
 
@@ -286,7 +286,7 @@ timeline
 On ne sait pas si cela va continuer, mais cela pourrait continuer en raison des facteurs suivants :
 
 - La présentation visuelle sur SNS se marie bien avec la musique à grande vitesse
-- Les jeunes esthétiques préfèrent la « haute densité d'informations »
+- Les esthétiques plus jeunes préfèrent une « haute densité d'informations »
 - Le marché international de la hard techno est en expansion
 
 ## ● 2) Le club sera protégé en tant que ressource culturelle de la ville.

@@ -13,7 +13,7 @@ title: 腦殘者－腦殘者
 ---
 
 
-Brainkillerは、Michael Bogdanski、Frank Behrens、MiBo（Michael B.）のハードテクノアクト。
+Brainkiller 是由 Michael Bogdanski、Frank Behrens 和 MiBo (Michael B.) 創作的硬科技表演。
 
 《Brainkiller》於 1994 年由 Mike Hoppe（Roy Batty）創立的德國唱片公司 F%@#ing Loud! 發行。
 

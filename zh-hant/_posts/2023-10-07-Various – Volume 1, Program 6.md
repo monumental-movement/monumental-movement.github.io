@@ -9,11 +9,11 @@ permalink: /zh-hant/various-volume-1-program-6/
 tags:
 - New-Wave
 - House
-title: Various – Volume 1, Program 6
+title: 各種 – 第 1 卷，節目 6
 ---
 
 
-「Various – Volume 1, Program 6」は、
+「各種 - 第 1 卷，節目 6」是
 這是一張來自「Disco Tracks Program Service」廠牌於 1986 年發行的 EP。
 
 #### 曲目表

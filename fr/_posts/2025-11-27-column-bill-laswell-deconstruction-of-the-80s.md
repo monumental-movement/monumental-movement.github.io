@@ -162,7 +162,7 @@ flowchart TD
 - 1985 : Produit « Album » par Public Image Ltd.
 - 1986 : Début de la dernière sortie
 - 1987 : Sly & Robbie « Rhythm Killers »
-- 1988 : Herbie Hancock "Machine parfaite"
+- 1988 : Herbie Hancock « Machine parfaite »
 - 1989 : Période de préparation du label Axiom
 
 ---

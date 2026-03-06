@@ -20,7 +20,7 @@ title: '[Chronique] Noise Desert : De la scène texane des années 2000 à nos j
 Texte : mmr｜Thème : De Charalambides à Black Leather Jesus, retraçant la généalogie du son expérimental sudiste – Le bruit texan des années 2000 et son état actuel
 
 
-C’est de la fin des années 1990 au début des années 2000 que la musique dite noise a pris racine dans le vaste paysage du sud des États-Unis.
+C’est entre la fin des années 1990 et le début des années 2000 que la musique noise s’est implantée dans le vaste paysage du sud des États-Unis.
 Alors que New York et Los Angeles étaient des « villes d'art » qui développaient la musique noise dans les galeries d'art et les clubs underground, le Texas a développé sa grammaire comme un lieu d'isolement géographique et d'expérimentation personnelle.
 
 Houston, Austin et San Antonio – ces villes sont peut-être les « patries de la country et du blues » en surface, mais dans les coulisses, le **collage sur bande, la non-musique et le drone** étaient tranquillement cultivés.

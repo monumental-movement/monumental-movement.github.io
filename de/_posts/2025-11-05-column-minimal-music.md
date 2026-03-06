@@ -82,7 +82,7 @@ Diese „freie Wiederholung“ ist eine Idee, die später zur elektronischen Mus
 
 Steve Reichs nächstes Werk, Piano Phase (1967), kontrollierte die „Diskrepanzen“ in der Wiederholung streng.
 Indem zwei Pianisten dieselbe Phrase spielen und einer das Tempo leicht beschleunigt,
-Das Klangmuster verschiebt sich allmählich. Diese „Phasenverschiebung“ ist was
+Das Klangmuster verschiebt sich allmählich. Diese „Phasenverschiebung“ ist es
 Es sah die Ästhetik von Loop-Strukturen im späteren Techno voraus.
 
 ---
@@ -134,7 +134,7 @@ Durch die Wiederholung und den Nachhall niedriger Frequenzen entstand ein akusti
 
 Brian Enos Musik für Flughäfen (1978)
 Es ist nicht nur der Vater der Ambient-Musik, sondern auch der Ursprung des „statischen Minimalismus“.
-Die zufällige Überlappung von Looptapes erweiterte die auditive Zeitlinie.
+Die zufällige Überlappung von Loop-Tapes erweiterte die auditive Zeitachse.
 
 Später, in Radioheads „Everything in Its Right Place“ (2000),
 Sich wiederholende Synthesizer und Gesangsloops verleihen der Popmusik ein Reichsches Phasengefühl.

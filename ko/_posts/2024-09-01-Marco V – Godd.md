@@ -14,7 +14,7 @@ title: Marco V – Godd
 ---
 
 
-Marco V와 Marinus Verkuijlen은 네덜란드의 전자 음악 DJ. Tech-Trance(테크트랜스)의 선구자이며, 가장 중요한 트랜스 아티스트의 1명으로 평가받고 있다. 별명의로 VISION20/20등에서도 활동하고 있다.
+Marco V와 Marinus Verkuijlen은 네덜란드의 전자 음악 DJ. Tech-Trance(텍 트랜스)의 선구자이며, 가장 중요한 트랜스 아티스트의 1명으로 평가받고 있다. 별명의로 VISION20/20등에서도 활동하고 있다.
 
 Godd는 2002년 독일 인디펜던트 레코드 라벨 Superstar Recordings에서 출시된 하드 트랜스 테크 트랜스 트랙.
 

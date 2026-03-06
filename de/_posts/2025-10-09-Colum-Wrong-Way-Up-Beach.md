@@ -20,7 +20,7 @@ title: '[Kolumne] Wrong Way Up und „The Beach“ – Nachhall der Utopie und d
 
 Text: mmr | Thema: Erkundung der Klänge von Utopie und Flucht durch Brian Eno & John Cales „Wrong Way Up“ und „The Beach“ mit Leonardo DiCaprio in der Hauptrolle
 
-Ende der 1990er Jahre glaubte die Welt noch an das Wort „Paradies“. Das Ende des Kalten Krieges, die Geburt des Internets und Träume von der Globalisierung.
+Ende der 1990er Jahre glaubte die Welt noch an das Wort „Paradies“. Das Ende des Kalten Krieges, die Geburt des Internets und der Traum von der Globalisierung.
 Doch hinter diesem Traum zeichneten sich bereits Risse ab. **Brian Eno und John Cales „Wrong Way Up“ (1990)** und **Leonardo DiCaprios „The Beach“ (2000)** stehen an entgegengesetzten Enden dieser Kluft.
 
 In beiden Geschichten geht es um die Reise nach Süden. Es zeigt die Einsamkeit und Ernüchterung, die am Ende der Flucht im Versuch lauert, das Paradies zu finden.
@@ -44,7 +44,7 @@ color: #fff;
 
 ## Kapitel 1: Das Wunder der Zusammenarbeit – Eno und Cale, die Schnittstelle zweier Gehirne
 
-In den 1970er Jahren verließ Eno Roxy Music und wurde zu einem führenden Vertreter der experimentellen Musik.
+In den 1970er Jahren verließ Eno Roxy Music und wurde zu einem führenden Anbieter experimenteller Musik.
 John Cale hingegen hatte den Einfluss des Velvet Underground verlassen und schwankte zwischen Klassik und Avantgarde.
 In den 1980er Jahren fühlten sich die beiden distanziert voneinander, trafen sich aber schließlich 1990 in einem Londoner Studio.
 
@@ -75,7 +75,7 @@ Klanglich ist Enos charakteristisches, sanftes Ambiente von Cales melodischer Ab
 > Mit meinem Bleistift, der Momente in Linien verwandelt…“
 
 Die Melodie ist wie eine „Erinnerungsskizze“.
-Dieses Album war ein Vorläufer von Enos „Environmental Pop“ ab den 1990er Jahren und wurde von den Klängen von Coldplay und Moby übernommen.
+Dieses Album war ein Vorläufer von Enos „Environmental Pop“-Bewegung ab den 1990er Jahren und wurde von den Klängen von Coldplay und Moby übernommen.
 „Falscher Aufstieg“ kann sich auf den Weg beziehen, den wir einschlagen, von dem wir glauben, dass er der richtige Weg ist.
 
 ---
@@ -142,7 +142,7 @@ Das Album von Eno & Cale hatte eine Vorahnung von „Musik, nachdem man das Para
 Die Melodie fragt leise. „Wenn Sie das Paradies nicht finden können, bauen Sie es in der Musik.“
 
 Der Moment am Ende von „The Beach“, als Richard mit einem Lächeln im Gesicht auf seinen Computerbildschirm starrt.
-Es gibt keine tropischen Lichter und keine Träume mehr von Gemeinschaft.
+Es gibt keine tropischen Lichter oder Träume von Gemeinschaft mehr.
 Der „Nachhall ferner Klänge“ bleibt jedoch in seinem Herzen.
 
 ---

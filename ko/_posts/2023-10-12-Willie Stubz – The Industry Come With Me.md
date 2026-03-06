@@ -14,7 +14,7 @@ title: Willie Stubz – The Industry Come With Me
 
 
 "Willie Stubz – The Industry Come With Me"
-A면 1, 2곡째는 Musaliny와 N.O.R.E.를 피처링. 프로듀서는 전곡 SPK(SPKilla). 앨범 'The Industry'를 위해 Hydra Entertainment에서 출시된 promo반.
+A면 1, 2곡째는 Musaliny와 N.O.R.E.를 피쳐링. 프로듀서는 전곡 SPK(SPKilla). 앨범 'The Industry'를 위해 Hydra Entertainment에서 출시된 promo반.
 
 #### Tracklist
 ```md

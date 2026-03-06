@@ -18,7 +18,7 @@ title: '[Column] Didgeridoo music and Australian indigenous culture'
 
 ## What is a didgeridoo?
 
-Text: mmr｜Theme: A multi-layered cultural history of didgeridoo music, which is rooted in indigenous societies in northern Australia, from regional differences, linguistic differences, and tribal examples.
+Text: mmr｜Theme: A multi-layered cultural history of didgeridoo music rooted in indigenous societies in northern Australia, based on regional differences, linguistic differences, and tribal examples.
 
 
 The didgeridoo is a traditional wind instrument that has been used by Australia's Aboriginal communities, mainly from the northern coast to the interior. Generally, the material is made from a eucalyptus tree trunk that has been hollowed out by termites, and the opening on one side is coated with beeswax to adjust the mouthfeel. Although the structure is extremely simple, the sounds emitted are not limited to monophonic drones, but have complex acoustic layers that combine overtones, rhythm, and vocalizations.
@@ -99,7 +99,7 @@ In many regions, the didgeridoo has been considered a male instrument, but this 
 
 There were also age restrictions, and performances with specific song series were not allowed unless certain rites of coming of age were passed. As a result, music naturally became a device for intergenerational education.
 
->Performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
+> The performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
 
 ---
 
@@ -107,7 +107,7 @@ There were also age restrictions, and performances with specific song series wer
 
 Circular breathing is a widely shared technique, but its use varies by region. In the east, the stability of sustained sounds is emphasized, while in the west, intermittent rhythmic changes are prominent.
 
-There are also regional differences in the techniques used to make simultaneous voices, such as adding a low growl or emphasizing tongue sounds. These are not improvised, but are stylized for each song series.
+Additionally, there are regional differences in the techniques used to make simultaneous voices, such as adding a low growl or emphasizing tongue sounds. These are not improvised, but are stylized for each song series.
 
 > The difference in technique is not the improvisational nature, but the difference in the tradition system.
 
@@ -181,7 +181,7 @@ These differences are not ""misinterpretations'' but are legitimate forms of inh
 
 ## Role differentiation of singing, dancing, and didgeridoo
 
-It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo changes its role.
+It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo's role changes.
 
 In parts of East Arnhem Land, the didgeridoo functions as a stable support that keeps the pitch as low as possible and matches the rhythm of the lyrics. In contrast, in the West, the didgeridoo provides rhythmic cues and guides the dancers' movements.
 

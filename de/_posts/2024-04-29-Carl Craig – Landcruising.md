@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Carl Craig – Landcruising
+title: Carl Craig – Landkreuzfahrt
 ---
 
 

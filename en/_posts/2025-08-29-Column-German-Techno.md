@@ -15,7 +15,7 @@ title: '[Column] Genealogy and present of German Techno - Aesthetics of sound sp
 ---
 
 
-## An inorganic heartbeat that shakes the world from Berlin.
+## ベルリン発、世界を震わせる無機質な鼓動。
 
 
 Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and silence.

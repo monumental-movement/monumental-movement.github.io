@@ -75,12 +75,12 @@ color: #fff;
 * **主要特點**：8 軌音序器、濾波器（類比）、獨立輸出
 
 **設計理念及特色**
-SP-1200 在設計時考慮了採樣器的時間限制，並針對「切割和排列短樣本」的工作流程進行了最佳化。與內部類比電路結合，結果是具有“粗糙度”或“波動”的厚低頻範圍。根據當時的規格和E-mu的技術文件，可以確認SP-1200的A/D路徑和濾波器設計對聲音染色有所貢獻。
+SP-1200 在設計時考慮了採樣器的時間限制，並針對「切割和排列短樣本」的工作流程進行了最佳化。與內部類比電路結合，結果是具有“粗糙度”或“波動”的厚低頻範圍。根據當時的規格和E-mu的技術文件，可以確認SP-1200的A/D路徑和濾波器設計對聲染色有所貢獻。
 
 **實際使用**
 
-* ブレイクのサンプリングとチョップ
-* 高速サンプリング後のピッチダウン（ローパス的効果を誘発）
+* 布萊克採樣和斬波
+* 快速取樣後音高降低（引起低通效應）
 * 使用循環調整和定時擺動創建凹槽
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6-FLx_gIVCE?si=fHXFlga4-I9RphJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -95,7 +95,7 @@ SP-1200 在設計時考慮了採樣器的時間限制，並針對「切割和排
 * **主要特點**：16 個打擊墊、內建音序器、MIDI 相容
 
 **設計理念及特色**
-在 Roger Linn 的設計幫助下，MPC60 的目標是成為「可玩的取樣器」。大打擊墊和強調律動感的音序器極大地提高了即興表演和現場製作的可用性。規格表強調了 MPC60 的音序器精度和焊盤檢測機制。
+Roger Linnの設計協力により、MPC60は"演奏しうるサンプラー"を目指した。大型パッドとグルーブ感重視のシーケンサーにより、即興演奏やライブ制作での使い勝手が大きく向上した。仕様書では、MPC60のシーケンサー精度とパッド検出機構が強調されている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vnRc56hEMsw?si=65ZvsCS8iGBWfeZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -198,7 +198,7 @@ flowchart TD
 
 ## 第 9 章：UI/UX 和儀表 - 使用 MPC 建立效能方法
 
-MPC 系列普及了「採樣器=要演奏的樂器」的概念。特別是，16 個打擊墊、打擊墊靈敏度、即時播放的低延遲和內置音序器使即興演奏成為可能，並且其在現場表演和即興演奏中的用途已擴大。 Roger Linn 的設計理念（強調人性化的演奏感）與 Akai 的產品設計的融合支持了 MPC60 的成功，這一事實得到了多個開發人員訪談的支持。
+MPC 系列普及了「採樣器=要演奏的樂器」的概念。特別是，16 個打擊墊、打擊墊靈敏度、即時播放的低延遲和內置音序器使即興演奏成為可能，並且其在現場表演和即興演奏中的用途已擴大。 Roger Linn 的設計理念（強調人類的性能感）與 Akai 的產品設計的融合支持了 MPC60 的成功，這一事實得到了多個開發人員訪談的支持。
 
 ---
 
@@ -418,7 +418,7 @@ graph LR
 
 ---
 
-### DJ Shadow - Endtroducing（MPC60）深層解析
+### DJ Shadow - Endtroducing (MPC60) 深度解析
 
 <div class="mermaid">
     
@@ -428,12 +428,12 @@ flowchart TD
     C --> D["Shadowのレイヤー: 複数パッドに分解"]
     D --> E["ミックスで空間が圧縮される"]
 
-</div> 
+</div>
 
 ---
 
 
-### 追加 1: 12bitと16bitの量子化比較
+### 加註1：12bit和16bit量化的比較
 
 <div class="mermaid">
     
@@ -441,11 +441,11 @@ graph LR
     A["12bit 4096段階"] --> C["粗いステップ"]
     B["16bit 65536段階"] --> D["滑らかなステップ"]
 
-</div> 
+</div>
 
 ---
 
-### 追加 2: SP-1200フィルタのカーブ概念
+### 補充2：SP-1200濾波器曲線概念
 
 <div class="mermaid">
     
@@ -453,29 +453,29 @@ flowchart TD
     A["入力音"] --> B["LPF 12kHz付近で急激減衰"]
     B --> C["出力: 暗いトーン"]
 
-</div> 
+</div>
 
 ---
 
-### 追加 3: MPC60シーケンサー構造
+### 補充3：MPC60音序器結構
 
 <div class="mermaid">
     
 graph LR
     A["Pad Input"] --> B["CPU"] --> C["Timing Correct"] --> D["Output Groove"]
 
-</div> 
+</div>
 
 ---
 
-### 追加 4: Sampler Signal Path（世代別）
+### 新增 4：採樣器訊號路徑（按產生）
 
 <div class="mermaid">
     
 flowchart TD
     A["Early 8bit"] --> B["12bit Sampler"] --> C["16bit Sampler"] --> D["Software Era"]
 
-</div> 
+</div>
 
 ---
 
@@ -490,7 +490,7 @@ flowchart TD
 
 ---
 
-### 追加 6: MPC60のドラムレイヤーモデル
+### 附加6：MPC60鼓層模型
 
 <div class="mermaid">
     
@@ -499,7 +499,7 @@ flowchart TD
     B["Kick Layer2"] --> D
     C["Room Layer"] --> D
 
-</div> 
+</div>
 
 ---
 

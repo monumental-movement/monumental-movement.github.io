@@ -22,11 +22,11 @@ title: '[Kolumne] Die vielschichtige Struktur des Tokioter Klangs – die Klangk
 
 Text: mmr｜Thema: Jazz in Shinjuku, Clubkultur in Shibuya, Indie-Musik in Shimokitazawa, elektronische Musik in Akihabara. Auf den Spuren der Geschichte und Gegenwart der vielschichtigen Klänge, die in Tokio produziert werden.
 
-Die Stadt Tokio hat ihre Konturen durch Klang kontinuierlich verändert.
+Die Stadt Tokio hat ihre Konturen durch den Klang kontinuierlich verändert.
 Die Geräusche von Zügen, Menschenmengen, das Summen von Neonreklamen, Straßengitarren und Underground-Beats.
 Jeder Klang existiert nebeneinander und setzt sich aus verschiedenen Epochen und unterschiedlichen Schichten zusammen.
 
-In dieser Kolumne konzentrieren wir uns auf vier Bereiche in Tokio, in denen sich die Musikkulturen besonders überschneiden: Shinjuku, Shibuya, Shimokitazawa und Akihabara, und verfolgen die Entwicklung des Klangs von der Nachkriegszeit bis heute.
+In dieser Kolumne konzentrieren wir uns auf vier Bereiche in Tokio, in denen sich die Musikkulturen besonders überschneiden: Shinjuku, Shibuya, Shimokitazawa und Akihabara, und verfolgen die Klangveränderungen von der Nachkriegszeit bis heute.
 Es ist nicht nur ein Stück lokaler Geschichte, sondern eine Aufzeichnung der „Klanglandschaft“ der Stadt, ein durch Musik vermitteltes Spiegelbild der Gesellschaft.
 
 ---
@@ -91,7 +91,7 @@ Die Linie elektronischer Klänge, die YMO in den 1980er Jahren aufgebaut hatte, 
 Spielemusik, Vocaloids, Chiptunes, Anime-Song-Remixe.
 Obwohl es ein Schmelztiegel der Subkultur ist, hat es einen neuen Kontext geschaffen, der eine Verbindung zur elektronischen Szene der Welt herstellt.
 
-### 2. Der Klang von Akihabara ist „Augmented Reality“
+### 2. Die Klänge von Akihabara sind „Augmented Reality“
 Eine Stadt, in der „Musik“ und „Technologie“ verschmelzen. Live-Streaming, VTuber, KI-Musik.
 Akihabara ist ein „futuristisches Pop-Testgelände“ und entwickelt sich in einem anderen Zeitrahmen als andere Gegenden Tokios.
 
@@ -120,7 +120,7 @@ Sie alle bilden das riesige Klangarchiv von Tokio.
 Woher kommt der nächste Tokio-Sound?
 KI-generierte Musik, virtuelle Clubs und Live-Musik auf der Straße.
 Obwohl sich die Form ändern kann, bleibt die Struktur einer „Stadt, die mit Klang spricht“ dieselbe.
-Die Nächte in Shinjuku, die Clubs in Shibuya und der Cyberspace in Akihabara werden als ein einziger „Tokyo-Beat“ auch in Zukunft nachhallen.
+Die Nächte von Shinjuku, die Clubs von Shibuya und der Cyberspace von Akihabara werden als ein einziger „Tokyo-Beat“ auch in Zukunft nachhallen.
 
 ---
 

@@ -26,7 +26,7 @@ Le chant scat est une expression vocale qui s'éloigne temporairement du langage
 
 Aux États-Unis du début du XXe siècle, le jazz était une musique soutenue par le corps et la mémoire plutôt que par des partitions. L'improvisation n'était pas un ornement, mais une pratique au cœur de la musique. Scat est le résultat naturel de cette nature improvisée qui s'étend à la voix. En abandonnant temporairement les mots porteurs de sens, les chanteurs ont pu se mettre au même niveau que les interprètes.
 
-Les développements dans la technologie d'enregistrement étaient également importants. En passant des cylindres de cire aux disques de gomme-laque, l'improvisation est passée d'un événement ponctuel à quelque chose qui est écouté, analysé et imité à plusieurs reprises. Le Scat était également une forme d’expression extrêmement moderne, où des éclairs d’inspiration momentanés devenaient figés dans l’histoire.
+Les développements dans la technologie d'enregistrement étaient également importants. En passant des cylindres de cire aux disques de gomme-laque, l'improvisation est passée d'un événement ponctuel à quelque chose qui est écouté, analysé et imité à plusieurs reprises. Le Scat était également une forme d'expression extrêmement moderne, où des éclairs d'inspiration momentanés devenaient figés dans l'histoire.
 
 > Lorsque la voix est dénuée de sens, la liberté d'improvisation s'accroît pleinement pour la première fois.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ## Chapitre 1 L'improvisation vocale comme préhistoire
 
-Bien qu’il soit difficile d’identifier les origines directes du chant scat, sa préhistoire existe clairement. Dans les cultures musicales africaines, la voix n’était pas seulement un outil de communication de mots, mais aussi un acte physique contrôlant le rythme et la hauteur. Le sentiment qu’un langage significatif et des vocalisations dénuées de sens coexistent dans le même espace était profondément enraciné dans l’appel-réponse et la musique rituelle.
+Bien qu’il soit difficile d’identifier les origines directes du chant scat, sa préhistoire existe clairement. Dans les cultures musicales originaires d’Afrique, la voix n’était pas seulement un outil de communication de mots, mais aussi un acte physique responsable du rythme et de la hauteur. Le sentiment qu’un langage significatif et des vocalisations dénuées de sens coexistent dans le même espace était profondément enraciné dans l’appel-réponse et la musique rituelle.
 
 Dans les chants de travail et les horreurs des champs chantés dans les plantations du sud des États-Unis, des voyelles allongées et des cris improvisés formaient le rythme du travail. Ces vocalisations ressemblaient plus à du mouvement qu’à des mélodies, et la voix fonctionnait comme une extension du corps.
 
@@ -60,7 +60,7 @@ Dans les vaudevilles et les music-halls du début du XXe siècle, il était cour
 
 ## Chapitre 2 Louis Armstrong et le moment de l'officialisation
 
-Au milieu des années 1920, l’enregistrement one-shot était la norme dans les studios d’enregistrement de Chicago et de New York. Les interprètes devaient terminer plusieurs minutes parfaitement en même temps que le signal du début de l'enregistrement. La tension du scat de Louis Armstrong est indissociable de cet environnement d'enregistrement.
+Au milieu des années 1920, l’enregistrement one-shot était la norme dans les studios d’enregistrement de Chicago et de New York. Les interprètes devaient terminer plusieurs minutes parfaitement en même temps que le signal de début de l'enregistrement. La tension du scat de Louis Armstrong est indissociable de cet environnement d'enregistrement.
 
 Dans son scat, les syllabes n'ont aucun sens, mais la disposition rythmique est très claire. Le début de la phrase est l'attaque de la trompette, et la fin converge naturellement avec le souffle. Ici, la voix agit comme un instrument mélodique et l’absence de paroles devient une condition préalable plutôt qu’une omission.
 
@@ -94,7 +94,7 @@ Le scat de Cab Calloway, en revanche, était plus une extension de scène qu'un 
 
 ---
 
-## Chapitre 4 Bebop et instrumentation vocale
+## Chapitre 4 Bebop et instrumentalisation vocale
 
 Les enregistrements Bebop de la fin des années 1940 avaient une tension similaire à celle d’une performance live, même en studio. Le tempo est rapide, les harmonies sont complexes et il existe toujours de multiples options d'improvisation. Scat nécessite ici un jugement instrumental complet.
 
@@ -160,7 +160,7 @@ Les idées scat se sont répandues, depuis les légères improvisations vocales 
 
 ## Chapitre supplémentaire : Scat pour les japonais
 
-La raison pour laquelle les japonais trouvent le scat difficile n'est pas tant la technique que la structure de la langue. La langue japonaise est centrée sur les voyelles, comporte peu de consonnes consécutives et présente des ruptures nettes entre les syllabes. En conséquence, les expressions rythmiques détaillées utilisant des plosives et des fricatives sont difficiles à incarner.
+La raison pour laquelle les japonais trouvent le scat difficile n'est pas tant la technique que la structure de la langue. La langue japonaise est centrée sur les voyelles, avec peu de consonnes consécutives et des coupures nettes entre les syllabes. En conséquence, les expressions rythmiques détaillées utilisant des plosives et des fricatives sont difficiles à incarner.
 
 De plus, les vocalisations japonaises ont un lien étroit entre le sens et le son, et il est facile de ressentir une résistance psychologique à prononcer des syllabes dénuées de sens. Scat nécessite le courage de ne pas prononcer la syllabe, et ce sentiment peut être plus facile à acquérir pour les locuteurs non natifs.
 

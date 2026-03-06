@@ -258,7 +258,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electropop-oriented |
+| I Feel Better | Hot Chip | Electro-pop |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
 
 

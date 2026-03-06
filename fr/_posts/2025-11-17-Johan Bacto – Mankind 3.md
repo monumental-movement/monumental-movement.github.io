@@ -9,13 +9,13 @@ permalink: /fr/johan-bacto-mankind-3/
 tags:
 - Techno
 - 90s
-title: Johan Bacto – L'humanité 3
+title: Johan Bacto – Mankind 3
 ---
 
 
 Johan Bacto (Johan Svensson) est un producteur techno suédois. Il dirige des labels tels que Mankind, Zync et Countdown 2000.
 
-"Mankind 3" est une chanson techno sortie par le label MANKIND de Johan Bacto en 1998.
+「Mankind 3」は、1998年にJohan BactoのレーベルMANKINDからリリースされたTechno。
 
 #### Liste des chansons
 ```md

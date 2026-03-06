@@ -13,7 +13,7 @@ title: 托尼庫克 (Tony Cook) 和 Trunk-O-Funk – 現金預支
 ---
 
 
-The Trunk-O-Funk は、70年代後半からJAMES BROWN（ジェームス・ブラウン）バンドのドラマーとして活躍したTONY COOK（トニー・クック）のバンド。ハウスに現代的なファンク・グルーヴが特徴の一曲。
+Trunk-O-Funk 是 TONY COOK 的樂隊，他自 70 年代末以來一直擔任 JAMES BROWN 樂隊的鼓手。一首以 house 和現代放克節奏為特色的歌曲。
 
 #### 曲目表
 ```md

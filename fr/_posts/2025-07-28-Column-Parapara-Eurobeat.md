@@ -46,7 +46,7 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 <hr>
 
-### Qu'est-ce que Parapara ? ──Plaisir de la répétition uniforme
+### Qu'est-ce que Parapara ? ──Le plaisir de la répétition uniforme
 ● Origine du Parapara
 
 - Présenté à la fin des années 1980 dans les discothèques de Roppongi et Shibuya, Tokyo (Maharaja, Juliana Tokyo, etc.)
@@ -65,7 +65,7 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 - Une structure mélodie/refrain claire → Une « chorégraphie » de danse facile à créer
 
-- Développement de chansons dramatiques → Correspond au point culminant du swing
+- Développement de chansons dramatiques → Correspond à l'excitation du swing
 
 
 <hr>
@@ -80,7 +80,7 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 - Des explications de chorégraphie seront publiées sur des jaquettes et des livrets.
 
-● Signé avec un label exclusif Eurobeat
+● Signé avec un label Eurobeat dédié
 
 Des labels italiens tels que Time, A-Beat C et Delta ont signé des contrats exclusifs avec avex pour produire de la musique spécifiquement destinée au marché japonais.
 
@@ -96,7 +96,7 @@ C'est ainsi que le « marché Eurobeat » unique au Japon s'est formé et s'est 
 
 - Distribution de vidéos chorégraphiques (VHS, puis DVD)
 
-- Des séries telles que « Parapara Paradise » et « Parapara Kyonen » sont également disponibles.
+- Des séries telles que « Parapara Paradise » et « Parapara Kyonen » apparaissent également
 
 ● Production médiatique
 
@@ -121,7 +121,7 @@ C'est ainsi que le « marché Eurobeat » unique au Japon s'est formé et s'est 
 
 - Un deuxième boom parapara se produit localement alors que des vidéos et des chansons de chorégraphies passées sont partagées en ligne.
 
-- Il existe aussi des phénomènes où les fans étrangers se redécouvrent et reçoivent des éloges comme s'ils étaient réimportés.
+- Il existe également des phénomènes où les fans étrangers se redécouvrent et reçoivent des éloges comme s'ils étaient réimportés.
 
 
 <hr>

@@ -13,7 +13,7 @@ title: Palm Skin Productions – Getting Out Of Hell
 ---
 
 
-Palm Skin Productions는 영국 출신의 뮤지션 프로듀서 DJ Simon Richmond의 프로젝트로 일렉트로닉 뮤직, 하우스, 테크노, 트립홉 등의 요소를 조합한 독자적인 스타일을 가지고 있습니다.
+Palm Skin Productions는 영국 출신의 뮤지션 프로듀서 DJ Simon Richmond의 프로젝트로 일렉트로닉 음악, 하우스, 테크노, 트립 홉 등의 요소를 조합한 독자적인 스타일을 가지고 있습니다.
 
 「Getting Out Of Hell」은 일렉트로닉 비트, 더브 요소, 독특한 샘플링 등이 특징으로, 그 독자성과 실험성에 의해 일렉트로닉 음악의 팬이나 독창적인 사운드를 요구하는 사람 등 많은 사람들에게 사랑받고 있습니다.
 

@@ -112,7 +112,7 @@ Ein Werk, das die Apartheid direkt kritisiert.
 - Japanische Übersetzung: „Unterdrückung und Hass, es ist wie in den dunklen Tagen Europas.“
 - Kommentar: Apartheid mit Nationalsozialismus vergleichen und internationale Sympathie wecken. Es machte schwarzen Zuhörern in Südafrika Mut.
   
-- **„Frieden in Simbabwe“**
+- **"Frieden in Simbabwe"**
 - Englischer Text: „Frieden muss in jedes Land kommen, Simbabwe und darüber hinaus“
 - Japanische Übersetzung: „Frieden wird in allen Ländern kommen, in Simbabwe und darüber hinaus.“
 - Kommentar: Ein Lied über die Unabhängigkeitsbewegungen der umliegenden Länder und Hoffnungen auf Frieden.
@@ -126,8 +126,8 @@ Ein Werk, das die Apartheid direkt kritisiert.
 
 ## 4. Nachrichten und Reaktionen in Südafrika zu dieser Zeit
 
-- Im Jahr 1986 erregte die internationale Tour von Alpha Blondy Aufmerksamkeit und Aufnahmen ihres Konzerts in Johannesburg verbreiteten sich im Untergrund in nicht-weißen Gemeinden.
-- Südafrikanische inländische Medien gaben dem weißen Establishment eine niedrige Bewertung des Konzerts, aber die schwarze Gemeinschaft begrüßte es als „Symbol der Hoffnung“.
+- Im Jahr 1986 erregte die internationale Tournee von Alpha Blondy Aufmerksamkeit und Aufnahmen ihres Konzerts in Johannesburg verbreiteten sich im Untergrund in nicht-weißen Gemeinden.
+- Südafrikanische inländische Medien gaben dem Konzert eine niedrige Bewertung für das weiße Establishment, aber die schwarze Gemeinschaft begrüßte es als „Symbol der Hoffnung“.
 - Lokaler Zeitungsartikel (damals übersetzt): „Ein Sänger vom afrikanischen Kontinent hat unseren Wunsch nach Freiheit gesungen. Seine Musik ermutigt uns.“
 
 ---
@@ -223,7 +223,7 @@ graph LR
 
 ## 11. Fazit
 
-Die Musik von Alpha Blondy ging über die Unterhaltung hinaus und fungierte als soziales Medium. Durch seine Aktivitäten während der Apartheidszeit zeigte er, dass Musik ein Mittel des politischen und sozialen Widerstands sein kann.
+Die Musik von Alpha Blondy ging über die Unterhaltung hinaus und fungierte als soziales Medium. Durch seine Aktivitäten während der Apartheid-Ära zeigte er, dass Musik ein Mittel des politischen und sozialen Widerstands sein kann.
 In Anbetracht der Botschaft jedes Liedes und der lokalen Reaktionen ist seine Musik ein Symbol für die universellen Werte von Freiheit und Frieden und ein wichtiges Lehrmaterial für das Nachdenken über Musik und soziale Gerechtigkeit auch in der Neuzeit.
 
 ---

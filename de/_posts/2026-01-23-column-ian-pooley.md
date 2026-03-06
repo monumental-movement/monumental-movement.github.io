@@ -25,7 +25,7 @@ Ian Pooley wurde 1973 in Mainz, Deutschland, geboren. Seine Eltern stammten aus 
 
 Schon in jungen Jahren wurde zu Hause eher schwarze Musik wie Jazz, Soul und Funk gespielt als Rock. Schon früh entwickelte er ein Gespür dafür, nicht nur auf die rhythmische Dynamik, sondern auch auf Akkordfolgen und Spielintervalle zu achten. Insbesondere die E-Basslinien und die räumliche Ausdehnung durch die Akkorde wurden zu wichtigen Grundlagen für spätere Produktionen.
 
-Als er Teenager war, fühlte er sich stark von der damals wachsenden Tanzmusik angezogen, wie Hip-Hop, Electro und Acid House. Was ihn hier faszinierte, war nicht die Starqualität oder der Text, sondern die „Struktur“ des Tracks selbst. Für Pooley stellen die winzigen Veränderungen, die durch Wiederholungen entstehen, und die Plastizität der Musik, die von DJs neu arrangiert wird, eine neue Sichtweise auf Musik dar.
+Als er Teenager war, fühlte er sich stark von der damals wachsenden Tanzmusik angezogen, wie Hip-Hop, Electro und Acid House. Was ihn hier faszinierte, war nicht die Starqualität oder der Text, sondern die „Struktur“ des Tracks selbst. Für Pooley stellen die subtilen Veränderungen, die durch Wiederholungen und die Plastizität der von DJs neu arrangierten Musik entstehen, eine neue Sichtweise auf Musik dar.
 
 > Die vielschichtigen musikalischen Wurzeln verleihen Ian Pooleys Werk stets intellektuelle Tiefe.
 
@@ -90,7 +90,7 @@ Der Mixer war nicht nur ein Lautstärkeregler, sondern fungierte als Teil der So
 
 Viele Künstler, die im gleichen britischen House-Kontext der 90er Jahre arbeiteten, tendierten zu einer eher auf Samples oder Gesang ausgerichteten Produktion. Pooley hingegen verfolgte weiterhin die strukturelle Schönheit der Instrumentalmusik.
 
-Während beispielsweise stark vom US-House beeinflusste Produzenten emotionale Höhepunkte betonten, betont Pooley die Veränderung der Grooves im Laufe der Zeit. Dieser Ansatz ist aufgrund der Produktionsumgebung möglich, in der sich durch den Betrieb der Geräte winzige Unterschiede ansammeln.
+Während beispielsweise stark vom US-House beeinflusste Produzenten emotionale Höhepunkte betonten, betont Pooley die Veränderung der Grooves im Laufe der Zeit. Dies ist ein Ansatz, der aufgrund der Produktionsumgebung möglich ist, in der sich durch den Betrieb der Geräte winzige Unterschiede ansammeln.
 
 ### Position im britischen Repräsentantenhaus
 

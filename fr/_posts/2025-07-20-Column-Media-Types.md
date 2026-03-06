@@ -16,7 +16,7 @@ title: '[Chronique] « Du bruit d''une aiguille au streaming, le son continue d
 ---
 
 
-## Evolutions et comparaisons des supports musicaux : ventes de disques, cassettes, CD et MD, caractéristiques de fréquence, tendances futures et émergence du Dolby Atmos
+## Evolutions et comparaisons des supports musicaux : ventes de disques, cassettes, CD et MD, caractéristiques de fréquence, tendances futures et émergence du Dolby Atmos
 
 
 Texte : mmr｜Thème : Comparaison historique des médias musicaux et perspectives des dernières technologies

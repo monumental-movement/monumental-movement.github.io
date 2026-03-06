@@ -14,7 +14,7 @@ title: Mauro Picotto & Riccardo Ferri – Alchemist EP
 
 „New Time, New Place“ war sowohl in Techno- als auch in britischen Hard-Dance-Clubs ein Riesenerfolg.
 
-Die anderen Songs sind ziemlich solider Techno und „Pandoro“ ist ein ziemlich lustiger Track. Während sich der Track mit dem harten Beat entwickelt, entsteht ein schöner, sanfter Sound.
+Die anderen Songs sind ziemlich solider Techno und „Pandoro“ ist ein ziemlich lustiger Track. Während sich der Track mit dem harten Beat entwickelt, entsteht ein schöner, sanfter Klang.
 
 Es ist wie Mauro Picot, alter Stil und neuer Stil.
 

@@ -256,9 +256,9 @@ D4. The End Game
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 Genre : Ambient/Downtempo/New Age
 
-Sortie : 1992
+Sortie : 1992
 
-Format : CD
+Format : CD
 
 Caractéristiques : Fusion de musique folk et de sons électroniques, nominé aux Grammy Awards, chanson signature "Sweet Lullaby" incluse
 

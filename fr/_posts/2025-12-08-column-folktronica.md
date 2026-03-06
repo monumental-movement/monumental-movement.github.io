@@ -24,7 +24,7 @@ Folk-Tronica/Indietronica est une tendance musicale hybride du 21e siècle et au
 Il est né du mariage de mélodies folk, d’arpèges de guitare, d’enregistrements sur le terrain de sons naturels et de culture d’échantillonnage électronique sur ordinateur portable.
 
 Four Tet (Kieran Hebden), Caribou (Daniel Snaith) et Bonobo (Simon Green) font partie de ceux qui ont clairement présenté ce genre au monde.
-Bien qu’ils aient tous une formation en musique électronique, ils ont échantillonné et reconstruit une variété de musiques telles que le jazz, le folk, la musique ethnique et le post-rock, élargissant ainsi le contexte de l’électro depuis les années 2000.
+Bien qu’ils aient tous une formation en musique électronique, ils ont élargi le contexte de l’électro depuis les années 2000 en échantillonnant et en reconstruisant une variété de musiques telles que le jazz, le folk, la musique ethnique et le post-rock.
 
 ---
 
@@ -53,7 +53,7 @@ Principales caractéristiques :
 - Montage numérique (découpage, traitement granulaire)
 - Texture d'enregistrement sur le terrain
 - Mélodie simple mais émotionnelle
-- Coexistence du « toucher » et des « objets artificiels »
+- Coexistence du « toucher » et de « l'objet artificiel »
 
 ### ■ Qu'est-ce qu'Indietronica ?
 Le flux d'introduction de la musique électronique dans le contexte du rock indépendant.
@@ -67,7 +67,7 @@ Exemples : Le service postal, Hot Chip, Múm, etc.
 
 ### ■ Quatre Têt (Kieran Hebden)
 - Début des activités à la fin des années 1990.
-- Reconstruire des échantillons de jazz et de musique folk et les re-présenter sous forme électronique.
+- Reconstruire des échantillons de jazz et de musique folk et les présenter sous forme électronique.
 - Son chef-d'œuvre "Rounds" (2003) a été très apprécié en tant qu'œuvre symbolique d'échantillons acoustiques et de montage sur ordinateur portable.
 
 Quatre points du Têt :
@@ -127,7 +127,7 @@ Exemple : Four Tet est connu pour son édition de sons du quotidien.
 
 ---
 
-## 4. Histoire du genre
+## 4. Historique des genres
 
 <div class="mermaid">
 timeline

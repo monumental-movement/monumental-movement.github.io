@@ -19,7 +19,7 @@ title: '[Chronique] DEVO et Energy Dome ─ Utopie et théorie de la dégénére
 ## Prologue : Que signifie le dôme rouge ?
 
 
-Texte : mmr｜Thème : Utiliser le symbole de DEVO « Energy Dome » comme indice, déchiffrer la théorie de la dégénérescence, la technologie, la pensée DIY et la transformation de la culture pop
+Texte : mmr｜Thème : Utiliser le symbole "Energy Dome" de DEVO comme indice, déchiffrer la théorie de la dégénérescence, la technologie, la pensée DIY et la transformation de la culture pop
 
 À la fin des années 1970, le groupe new wave américain **DEVO** incarnait une nouvelle ère du pop art, non seulement avec sa musique mais aussi avec son iconographie visuelle.
 Le symbole en est le chapeau en plastique rouge qu'ils portaient sur scène et dans leurs clips -- **Energy Dome**.
@@ -146,12 +146,12 @@ Ce style visuel a ensuite influencé l'esthétique de la production des films ja
 Dans les années 1990, elle a été réévaluée comme pionnière de l’ère Internet.
 Leur stratégie de marque auto-satirique préfigurait l’auto-marchandisation post-Web 2.0.
 
-Ils se sont réunis dans les années 2000 et ont écrit « Something for Everybody » (2010), une satire sur « la démocratie à l’ère des algorithmes ».
+Ils se réunissent dans les années 2000 avec « Something for Everybody » (2010), une satire sur « la démocratie à l’ère des algorithmes ».
 Dans les années 2020, il continue d’actualiser sa théorie de la dégénérescence pour inclure les NFT et la culture de l’IA.
 
 ---
 
-## Chapitre 9 : La trajectoire de DEVO vue dans la chronologie
+## Chapitre 9 : La trajectoire de DEVO en chronologie
 
 <div class="mermaid">
 
@@ -176,10 +176,10 @@ timeline
 ## Chapitre 10 : L'importance actuelle du dôme énergétique
 
 L'Energy Dome est toujours apprécié par les fans de DEVO comme un « casque de pensée ».
-Pendant la pandémie de coronavirus, des **dômes énergétiques avec écran facial** sont vendus,
+Pendant la pandémie de coronavirus, **Dôme énergétique avec écran facial** est vendu,
 Il a une fois de plus attiré l'attention en tant qu'avertissement sur les problèmes environnementaux.
 
-En d'autres termes, le **Energy Dome est un dispositif social qui se « transforme » à chaque époque**.
+Autrement dit, l’Energy Dome est un dispositif social qui se « transforme » à chaque époque.
 Chaque fois, en se moquant de nos illusions « d’évolution »,
 Cela nous montre la sagesse hérétique de « l’affirmation de la dégénérescence ».
 

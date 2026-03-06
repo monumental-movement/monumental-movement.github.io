@@ -14,9 +14,9 @@ title: Lee Burridge 和 Dan F – 善待他們，保持熱情
 ---
 
 
-Lee Burridge 是一位英國 DJ 和製作人。 1990年代初，他幫助開創了香港的地下俱樂部。
+Lee Burridge（リー バリッジ）は、イギリス出身の DJ 兼プロデューサー。1990 年代初頭は、香港のアンダーグラウンドクラブシーンの立ち上げに貢献した。 
 
-他還與 DJ Craig Richards 和 Sasha 一起作為 Tyrant Soundsystem 活躍。
+また、 DJ Craig Richards（DJ クレイグ・リチャーズ）とSasha（サシャ）と共にTyrant Soundsystem としても活動している。
 
 Dan Findlay，也稱為 Dan F，是香港的 DJ 和酒吧老闆。
 

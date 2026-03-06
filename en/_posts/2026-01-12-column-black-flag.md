@@ -61,7 +61,7 @@ The initial members changed drastically, with vocals, bass, and drums frequently
 
 ---
 
-The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, with an aggressiveness that was outstanding on the West Coast at the time.
+The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, and had an aggressiveness that was outstanding on the West Coast at the time.
 
 The title track, "Nervous Breakdown," is about mental breakdown, but it's full of urgent energy rather than introspection. The lyrics are concise, presenting emotions as raw rather than descriptive. This approach became the basis for later hardcore punk.
 
@@ -127,7 +127,7 @@ This DIY model set a realistic precedent for later indie rock and hardcore scene
 
 ## Change in musicality: From speed to weight
 
-In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated and the noisy texture became emphasized.
+In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated, and the noisy texture became emphasized.
 
 This change was not just an experiment, but also a reflection of life on the road, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
 
@@ -153,9 +153,9 @@ flowchart TD
 
 ---
 
-## Impact and Legacy
+## Impact and legacy
 
-Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to make musical compromises became a reference point for countless bands.
+Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to compromise musically became a reference point for countless bands.
 
 The 7-inch songs ""Nervous Breakdown" and ""Jealous Again" are still talked about as the basic form of hardcore. On the other hand, the heavier, slower songs of the band's latter half dissolved genre boundaries and influenced audiences beyond punk.
 

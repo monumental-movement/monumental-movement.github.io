@@ -108,7 +108,7 @@ La diffusion de l’Acid Jazz était également étroitement liée à la géopol
 
 #### Scène américaine
 
-L'Acid Jazz était perçu comme une « réimportation ». Aux États-Unis, le jazz funk et soul original des années 70 existait, c'est pourquoi le label « Acid Jazz » venu du Royaume-Uni semblait frais et a été adopté dans les scènes des clubs de New York et de Chicago.
+L'Acid Jazz était perçu comme une « réimportation ». Aux États-Unis, le jazz funk et la soul des années 70 existaient en tant qu'originaux, c'est pourquoi le label « Acid Jazz » venu du Royaume-Uni semblait frais et a été adopté dans les scènes des clubs de New York et de Chicago.
 
 そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
 一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
@@ -122,7 +122,7 @@ L'Acid Jazz était perçu comme une « réimportation ». Aux États-Unis, le ja
 
 日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-Il avait une affinité avec la culture de consommation de la période de bulle économique et de la scène Shibuya-kei, et est devenu un pont entre l'Europe et l'Asie.
+Elle avait une affinité avec la culture de consommation de l’économie bulle et de la scène Shibuya, et est devenue un pont entre l’Europe et l’Asie.
 
 Il a progressivement été accepté dans des pays comme la Corée du Sud et Taiwan à partir de la fin des années 1990, à mesure que la culture des clubs se développait.
 

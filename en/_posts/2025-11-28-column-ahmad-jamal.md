@@ -153,7 +153,7 @@ Miles Davis repeatedly cited Jamal as his ""most influential pianist'' during hi
 In particular, the following points are important:
 
 - **The concept of "Space"**
-Jamal's use of blank spaces had a strong influence on Miles during his fashion era from the late 1950s.
+Jamal"s playing with blank spaces had a strong influence on Miles"s fashion era from the late 1950s.
 - **Minimalistic theme presentation**
 Jamal's sense of structure is also reflected in Miles' arrangements from his quintet period.
 - **Trio dynamism**

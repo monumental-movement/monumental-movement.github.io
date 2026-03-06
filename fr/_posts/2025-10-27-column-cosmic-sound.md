@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Retrace la philosophie sonore unique créée par un méla
 Fin des années 1970, sur les rives du lac de Garde, dans le nord de l'Italie.
 Personne ne savait que cet endroit, qui n'était qu'un lieu de villégiature pour touristes, deviendrait plus tard le centre d'un phénomène acoustique appelé **Cosmic Sound**.
 Le personnage central est **Daniele Baldelli**.
-Il n'est pas seulement un DJ, mais il est également connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
+Il est devenu plus qu'un simple DJ, il est devenu connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
 
 La scène disco de l'époque était dominée par le rythme 4/4, représenté par la soul et la house music américaines.
 Cependant, Baldelli entremêle musique ethnique, sons électroniques, rock progressif, batterie africaine et même krautrock.
@@ -64,7 +64,7 @@ Cela fait que la même piste sonne comme un signal provenant d’une planète in
 Un mélange de krautrock allemand (Can, Neu !), de musique africaine, d'ambiance électronique et de synth disco italien.
 C'est comme un juke-box extraterrestre.
 
-- **Rituel** :
+- **Rituels** :
 Au Cosmic Club, les lumières et les boules à facettes sont supprimées et la fumée et les projecteurs dominent l'espace.
 Plutôt que de danser, le public a eu l'impression d'être « immergé » dans le son.
 
@@ -78,7 +78,7 @@ il parle.
 > ``C'est facile de mélanger les genres musicaux.
 > Cependant, les « cosmosiser » à une seule vitesse est une question de sensibilité et non de technologie. »
 
-Ses mix vont du funk à 110 BPM aux percussions afro à 85 BPM en passant par le synthé ambiant ralenti.
+Ses mix vont du funk à 110 BPM aux percussions afro à 85 BPM en passant par un synthé ambiant ralenti.
 **Transferts en douceur**. On ne sent même pas les frontières entre les chansons.
 Tout au long de la nuit, on a l'impression qu'un vaisseau spatial descend et sort de son orbite.
 
@@ -87,11 +87,11 @@ Tout au long de la nuit, on a l'impression qu'un vaisseau spatial descend et sor
 ## 4. Science des matériaux sonores – Délocalisation des sources sonores dans Cosmic
 
 Baldelli était un pionnier des DJ qui traitaient les chansons comme du « matériel ».
-J'avais l'impression de « composer » à nouveau les sons enregistrés sur la platine.
+Il y avait une forte impression de « composer » à nouveau les sons enregistrés sur la platine.
 
 | Sources utilisées | Exemples spécifiques |
 |:--|:--|
-| Usine Kraft | Kraftwerk, Canette, Ash Ra Tempel |
+| Kraftwerk, Can, Ash Ra Tempel |
 | Musique électronique italienne | Claudio Gizzi, Tullio De Piscopo |
 | Sons afro/ethniques | Manu Dibango, Fela Kuti |
 | Thème spatial | Espace, fusées, Cerrone |

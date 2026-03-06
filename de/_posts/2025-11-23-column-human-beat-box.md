@@ -57,7 +57,7 @@ Seit den 2000er Jahren hat sich eindeutig eine globale Turnierkultur herausgebil
 Eine Weltmeisterschaft in Deutschland. Es wird mehrere Kategorien geben, z. B. Solo, Tag und Crew.
 
 - **Grand Beatbox Battle (GBB)**
-Obwohl es zunächst relativ klein war, ist es seit Ende der 2010er Jahre schnell gewachsen. Bildung großer internationaler Divisionen wie Solo-, Loop-Station-, Tag- und Crew-Teams.
+Obwohl es zunächst relativ klein war, ist es seit Ende der 2010er Jahre schnell gewachsen. Bildung großer internationaler Abteilungen wie Solo-, Loop-Station-, Tag- und Crew-Teams.
 
 Diese Wettbewerbe steigerten weltweit das Niveau der technischen Fähigkeiten, standardisierten Bewertungskriterien, unterteilten Genres und steigerten die Komplexität der Aufführungsformate.
 
@@ -122,14 +122,14 @@ Das rasante Wachstum war in den letzten Jahren bemerkenswert.
 - Hohe Klangqualität
 - Geschwindigkeit der Anpassung an Genres
 
-Zu den Stärken Japans gehören insbesondere „Tongenauigkeit“, „Kompositionsfähigkeit“ und „Kompatibilität mit Bildern und Produktion“.
+Japans Stärken sind insbesondere „Genauigkeit des Tons“, „Kompositionsfähigkeit“ und „Kompatibilität mit Bildern und Produktion“.
 
 ---
 
 # 5. Japanische Beatbox-Kultur und Eigenschaften
 
 ## ◆ 1. Gemeinschaftskultur
-In Japan hat es sich seit Mitte der 2000er Jahre auf den Straßen und bei Veranstaltungen verbreitet, und Techniken werden zwischen Künstlern durch Übungsstunden und die Teilnahme an Wettbewerben weitergegeben.
+In Japan hat es sich seit Mitte der 2000er Jahre auf den Straßen und bei Veranstaltungen verbreitet, und die Techniken werden zwischen den Künstlern durch Übungsstunden und die Teilnahme an Wettbewerben weitergegeben.
 
 ## ◆ 2. Starke technische Ausrichtung
 Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus und werden sogar von ausländischen Spielern gelobt.
@@ -137,7 +137,7 @@ Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus
 ## ◆ 3. Fusion mit Video- und Bearbeitungskultur
 Hauptsächlich auf YouTube und SNS,
 **"Video x Musik x Performance"**
-Ein weiteres Merkmal ist, dass sich die komplexe Beatbox-Technik schon früh entwickelt hat.
+Bemerkenswert ist auch, dass sich das komplexe Beatbox-System schon früh entwickelt hat.
 
 ---
 
@@ -240,7 +240,7 @@ timeline
 
 # 9. Beatbox-Trends auf der ganzen Welt und in der Zukunft
 
-## ◆ 1. Die Grenze zwischen Musikproduktion verschwimmt
+## ◆ 1. Die Grenze zwischen Musikproduktion ist fließend
 Mit der Entwicklung von Loopstation, Beatboxen
 **"Echtzeitversion der Musikproduktion"**
 Hin zu einem Bereich, der angerufen werden kann
@@ -254,7 +254,7 @@ Japan ist
 
 - Technische Präzision
 - Präzision
-- Arrangementfähigkeit
+- Organisationstalent
 - Visueller Ausdruck
 
 In dieser Hinsicht verfügt es über eine internationale Stärke.

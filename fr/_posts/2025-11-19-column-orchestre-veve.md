@@ -41,7 +41,7 @@ color: #fff;
 
 # Chapitre 1 Contexte de la formation et de la situation de la scène musicale congolaise
 
-À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que plusieurs groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et des parties polyphoniques vocales s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
+À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que des groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et de la polyphonie vocale s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
 
 Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. En particulier, c'était une époque où plusieurs groupes émergents émergeaient en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars des coins de rue.
 
@@ -104,7 +104,7 @@ Ces chansons montrent le cœur de la musique dance de Veve, tout en montrant cla
 
 La guitare solo de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
 
-- Montée chromatique
+- montée en tête chromatique
 - trémolo rapide
 - Courtes répétitions de motifs de 2 à 4 mesures
 
@@ -117,7 +117,7 @@ Comparé à la musique monoligne de ZAïko et à la musique basée sur les harmo
 
 ## Innovation dans la section rythmique
 
-La section rythmique de Veve a un rebond distinctif. Le charley ne sculpte pas fortement le dos de la 16e minute, mais crée plutôt un groove dans la plage de la 8e minute avec un large balancement horizontal, le rendant plus doux que le soukous de la même période et conservant une texture proche de celle d'une rumba.
+La section rythmique de Veve a un rebond distinctif. Le charleston ne sculpte pas fortement le dos de la 16e minute, mais crée plutôt un groove dans la plage de la 8e minute avec un large balancement horizontal, le rendant plus doux que le soukous de la même période et conservant une texture proche de celle d'une rumba.
 
 ---
 
@@ -177,7 +177,7 @@ sequenceDiagram
 
 ## Chanson C : Nitarudia — Réveillon de soukous orienté danse
 
-Dans cette chanson, une guitare plus rapide et plus segmentée apparaît comme un précurseur du style soukousu. On dit que c'est le son le plus tourné vers l'avenir des œuvres de Veve.
+Dans cette chanson, une guitare plus rapide et plus fragmentée apparaît comme un précurseur de la chanson devenant sokusu. On dit que c'est le son le plus tourné vers l'avenir des œuvres de Veve.
 
 ### Analyse technique
 
@@ -202,7 +202,7 @@ flowchart LR
 # Chapitre 7 Technologie d'enregistrement, environnement studio, système de production
 
 L'environnement d'enregistrement de Veve était à l'époque l'un des plus avancés d'Afrique.
-Il possédait son propre studio et plusieurs ingénieurs du son étaient toujours présents et présentait les caractéristiques techniques suivantes.
+Il possédait son propre studio, comptait plusieurs ingénieurs du son parmi son personnel et présentait les caractéristiques techniques suivantes :
 
 - **Profitez rapidement de la période de transition de l'enregistrement 2-4 pistes à l'enregistrement 4-8 pistes**
 - **Méthode stéréo pour balancer la guitare à gauche et à droite**
@@ -296,7 +296,7 @@ L'héritage musical de Veve est
 
 * **Augmentation de la vitesse de Soukusu**
 * **Musique urbaine dirigée par le saxophone**
-* **Subdivision de l'ensemble de guitares**
+* **Subdivision ensemble de guitares**
 Il a eu une profonde influence sur la musique congolaise contemporaine.
 
 En outre, le modèle de production musicale basé sur un système, qui créait une infrastructure d’enregistrement et formait de manière dynamique de jeunes interprètes, a servi de ligne directrice majeure pour la gestion ultérieure des labels.

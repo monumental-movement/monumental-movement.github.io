@@ -22,7 +22,7 @@ title: '[Kolumne] Open-Reel-Revival-Theorie: Magnetismus zeichnet erneut die Zuk
 Text: mmr｜Thema: Was kann uns die analoge Technologie des Magnetismus im postdigitalen Zeitalter sagen? – Die Zukunft von „Reel to Real“, gesehen durch die Neuauflage von Rhino High Fidelity
 
 
-2025. Die von Rhino High Fidelity im Rahmen ihrer analogen Nachdruckreihe angekündigten Neuigkeiten haben in der Welt der Audiokultur für Aufsehen gesorgt.
+2025. Die Nachricht, die Rhino High Fidelity im Rahmen ihrer analogen Nachdruckserie bekannt gab, hat in der Welt der Audiokultur für Aufsehen gesorgt.
 „Electric Warrior“ von T. Rex und „The Yes Album“ von Yes, beide Meisterwerke aus dem Jahr 1971, werden im **Reel-to-Reel-Tape**-Format erneut veröffentlicht.
 
 Schallplatten wurden zurückgegeben und Kassetten wiederbelebt. Das nächste, was zurückgespult wird, ist **Reel to Reel**.
@@ -50,7 +50,7 @@ Aber es gibt keinen Tastsinn. Der Klang wurde auf der Wolke zu einer abstrakten 
 
 Reel-to-Reel ist das genaue Gegenteil.
 Die Zuhörer wechseln die Walzen, beobachten die Rotation und „spielen“ den magnetischen Fluss.
-Es ist ein Akt des physischen Umgangs mit der Zeit. Schall ist nicht nur eine reproduzierte Information, sondern wird wieder zu einem Phänomen, das mit Bewegung und Reibung verbunden ist.
+Es ist ein Akt des physischen Umgangs mit der Zeit. Schall ist nicht nur reproduzierte Information, sondern wird zu einem Phänomen, das Bewegung und Reibung beinhaltet.
 
 Was moderne Menschen suchen, könnte dieser „regenerierende Körper“ sein.
 Reel-to-Reel ist ein Gerät, das die Rematerialisierung des Zuhörens fördert.

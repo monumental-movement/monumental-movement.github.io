@@ -119,7 +119,7 @@ Bob James是流暢爵士樂的象徵，這首歌所產生的「hardbreak」在19
 
 #### 11. Charmels – 「只要我有你」 (1967)
 Wu-Tang Clan 的“C.R.E.A.M.”中使用的原始旋律。甜美的弦樂和憂鬱的歌聲支撐著這條街的詩意。
-RZAの「陰影のサンプリング哲学」を象徴する名素材。
+象徵RZA「色調採樣哲學」的著名材料。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gp9uZjPaB4w?si=Le4XVqm-CtR_mIkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -133,7 +133,7 @@ RZAの「陰影のサンプリング哲学」を象徴する名素材。
 ---
 
 #### 13. 艾斯利兄弟 – 《床單之間》(1983)
-以Notorious B.I.G.的《Big Poppa》和Jay-Z的《Ignorant Shit》等歌曲而聞名。性感而憂鬱的醇厚是90年代R&B的起源。
+以Notorious B.I.G.的《Big Poppa》和Jay-Z的《Ignorant Shit》等歌曲而闻名。性感而憂鬱的醇厚是90年代R&B的起源。
 光滑的凹槽有一種完美的程度，感覺像是在採樣的前提下寫的。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pf_si60K9nM?si=wxf1QS5Iv_Io8ngi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +171,7 @@ RZAの「陰影のサンプリング哲学」を象徴する名素材。
 ---
 
 #### 18. 巴瑞懷特（Barry White）－「寶貝，我要多愛你一點」（1973）
-在取样世界里，它是爱情的象征。 《夢想》和肯伊威斯特引用過，它跨越了靈魂和慾望之間的界限。
+在取樣世界裡，它是愛情的象徵。 《夢想》和肯伊威斯特引用過，它跨越了靈魂和慾望之間的界限。
 甜美弦樂的「持續聲音」為嘻哈音樂帶來了奢華的感覺。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -197,9 +197,9 @@ RZAの「陰影のサンプリング哲学」を象徴する名素材。
 |年 |活動 |
 |------|---------|
 | 20 世紀 60 年代 |靈魂樂/放克錄音技術不斷發展。新興的鼓樂文化。 |
-| 1973 |庫爾·赫克 (Kool Herc) 在街區聚會上演奏了兩首《阿帕奇》。嘻哈音樂的誕生。 |
+| 1973 |庫爾·赫克 (Kool Herc) 在街區聚會上演奏了兩首《阿帕奇》。嘻哈音乐的诞生。 |
 | 1984 |運行-D.M.C.實現首次商業採樣命中。 |
-| 1989 |公眾之敵的「對黑色星球的恐懼」建立了多種採樣技術。 |
+| 1989 |公众之敌的“对黑色星球的恐惧”建立了多种采样技术。 |
 | 1994 |武當派，RZA的「噪音採樣」創造了新趨勢。 |
 | 2000 年代 | Daft Punk 和 Kanye West 將靈魂樂樣本轉化為流行音樂。 |
 | 2020 年代 |邁向人工智慧採樣和版權問題的新時代。 |

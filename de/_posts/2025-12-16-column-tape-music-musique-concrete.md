@@ -65,7 +65,7 @@ Durch die extrem nahe Platzierung des Mikrofons an der Schallquelle wurden winzi
 
 ### 3.2 Mehrpunkt-Soundsammlung
 
-Die Tonaufnahme mit mehreren Mikrofonen war der Vorgang, eine einzelne Tonquelle aus verschiedenen Perspektiven einzufangen und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Schnittprozess.
+Die Tonaufnahme mit mehreren Mikrofonen war der Vorgang, eine einzelne Tonquelle aus verschiedenen Perspektiven einzufangen und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Bearbeitungsprozess.
 
 ---
 
@@ -135,7 +135,7 @@ Das Studio wird mittlerweile eher als Sound-Design-Raum denn als Aufführungsrau
 
 Tonbandmusik erforderte nicht unbedingt einen Anfang, eine Entwicklung und ein Ende.
 
-### 9.2 Umerziehung des Hörens
+### 9.2 Umschulung des Zuhörens
 
 Der Prozess der Abstraktion realer Geräusche erforderte von den Zuhörern, ihre Aufmerksamkeit auf eine neue Art und Weise zu lenken.
 

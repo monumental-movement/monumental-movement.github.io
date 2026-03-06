@@ -84,7 +84,7 @@ RZA 負責音樂。
 這部作品是日本和美國文化真正的“相互混搭”，由一家日本工作室創作，由美國黑人藝術家講述。
 「Samurai」不再是外國武士，而是被重新定義為嘻哈倫理的體現。
 
-> 「刀＝マイク」「戦＝ラップバトル」  
+> “劍=麥克”“戰爭=說唱戰”
 >  這種象徵性的轉變是自武當派以來嘻哈美學的核心。
 
 對RZA來說，《非洲武士》是最具體體現他的「東方取向」的作品。
@@ -115,7 +115,7 @@ DJ Krush、Nujabes 和 Shing02 等藝術家。
 尤其是Nujabes的音樂結合了取樣和ma的美學。
 他與「聲音武士」武當派有著精神上的連結。
 
-2020年代に入ると、日本のアニメ作品にも明確なリファレンスが現れる。  
+2020年代，日本動漫作品中出現了明確的參考。
 Lo-Fi嘻哈的影響在《柔術會戰》的BGM中可見一斑。
 多位嘻哈藝人將參與《電鋸男》的結局。
 在這裡，動漫再次與「街道」的語言重新建立聯繫。
@@ -209,5 +209,13 @@ flowchart TD
 **《如何修練自己，如何對抗世界》**
 
 這是武當派留下的最偉大的遺產。
+
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S46YQYuxx_I?si=-fAD-tm5XD8It5kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

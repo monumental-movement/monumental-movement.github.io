@@ -17,10 +17,10 @@ title: '[Chronique] Buchla Music Easel et la philosophie de la « performance so
 
 ## Introduction : Qu'est-ce que le chevalet musical Buchla ?
 
-Texte : mmr｜Thème : Chevalet musical, qui, même à l'époque moderne, est salué par de nombreux artistes live comme le « plus petit orchestre pouvant être joué seul »
+Texte : mmr｜Thème : Chevalet musical, qui, même à l'époque moderne, est salué par de nombreux artistes live comme le « plus petit orchestre pouvant être joué seul ».
 
 
-Le **Buchla Music Easel**, apparu en 1973, est une version portable de la célèbre **série Buchla 200** modulaire analogique.
+Le **Buchla Music Easel**, introduit en 1973, est une version portable de la célèbre **série Buchla 200** modulaire analogique.
 Le concepteur **Don Buchla** a qualifié l'instrument d'« environnement de composition portable ».
 Il ne s'agissait pas simplement d'un petit module, mais d'un « appareil personnel improvisé ».
 
@@ -129,7 +129,7 @@ Le public a l'illusion que « l'air lui-même est diffusé ».
 | -------------------------------- | ------------- | ------------ |
 | Changement de la quantité FM de l'oscillateur de modulation | La forme d'onde fluctue de manière non linéaire dans le temps | Fluctuation organique |
 | Connexion Pulseur + Enveloppe | Génération de cycles sans sensation de rythme | Sens du temps comme « respiration » |
-| Auto-interférence de la réverbération de réverbération | Génération de phases opposées d'harmoniques | Sensation de flottement/diffusion réverbérante |
+| Auto-interférence de la réverbération Reverb | Génération de phases opposées d'harmoniques | Sensation de flottement/diffusion réverbérante |
 
 ---
 
@@ -170,7 +170,7 @@ Cohen dit que la musique naît simplement en « s'abandonnant » au flux du cour
 
 ### Suzanne Ciani
 
-→ L'incarnation du féminisme sonique. Je confie ma physicalité au doux courant électrique de Buchla.
+→ L'incarnation du féminisme sonore. Je confie ma physicalité au doux courant électrique de Buchla.
 
 ###Todd Barton
 

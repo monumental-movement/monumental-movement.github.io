@@ -23,7 +23,7 @@ title: '[Chronique] Psychic TV : L''histoire complète d''un groupe multimédia 
 Texte : mmr｜Thème : Histoire, philosophie, musicalité, activités live, rituels et influence sur les générations futures de Psychic TV depuis sa formation jusqu'à sa disparition
 
 
-Formé en Angleterre en 1981, Psychic TV est plus qu'un simple groupe de musique ; c'est un collectif artistique complet qui intègre la musique, la vidéo, la performance et l'occultisme. Construits autour des idées et de la vision de Genesis Breyer P-Orridge, les efforts de Psychic TV sont restés à l'avant-garde de la contre-culture des années 1980 aux années 2000, fusionnant musique industrielle, psychédéliques, acid house, art de la performance et culture rituelle.
+Formé en Angleterre en 1981, Psychic TV est plus qu'un simple groupe de musique ; c'est un collectif artistique complet qui intègre la musique, la vidéo, la performance et l'occultisme. Construits autour des idées et de la vision de Genesis Breyer P‑Orridge, les efforts de Psychic TV sont restés à l'avant-garde de la contre-culture des années 1980 aux années 2000, fusionnant musique industrielle, psychédéliques, acid house, art de la performance et culture rituelle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -55,7 +55,7 @@ Grâce à son travail avec COUM Transmissions, Genesis a développé un fort int
 
 Throbbing Gristle a été formé en 1976 et a choqué le monde de la musique à la fin des années 1970 avec sa musique noise, industrielle et ses performances live de style guérilla. Cependant, en 1981, le groupe se dissout. Peu de temps après, Genesis débute un nouveau projet musical et artistique avec Peter Christopherson et Alex Fergusson. C'est Psychic TV.
 
-Psychic TV a été conçu non seulement comme un groupe de musique, mais comme un « collectif multimédia » intégrant musique, vidéo, performance et occultisme, et avait dès le début une structure qui mettait l'accent sur l'expérimentation et la provocation.
+Psychic TV n'était pas seulement un groupe de musique, mais a été conçu comme un « collectif multimédia » intégrant musique, vidéo, performance et occultisme, et avait dès le début une structure qui mettait l'accent sur l'expérimentation et la provocation.
 
 ---
 
@@ -63,7 +63,7 @@ Psychic TV a été conçu non seulement comme un groupe de musique, mais comme u
 
 #### 3.1 Composition des membres et premiers travaux
 
-La programmation initiale de Psychic TV était composée de Genesis P‑Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
+La programmation initiale de Psychic TV était composée de Genesis P-Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
 
 La musique ancienne était caractérisée par une innovation qui transcendait les frontières traditionnelles des genres, combinant l'agressivité punk, la liberté psychédélique et le bruit expérimental.
 
@@ -89,7 +89,7 @@ Au cours de cette période intermédiaire, en plus du noise industriel tradition
 
 #### 4.3 Magie, magie du chaos et pensée approfondie
 
-La pratique de la magie du chaos et de l'occultisme à travers T.O.P.Y. a atteint son niveau le plus profond au cours de cette période. Genesis P‑Orridge explore l'auto-transformation et la construction d'une communauté à travers la magie et les rituels, liant indissociablement le travail d'un groupe et la pratique idéologique.
+La pratique de la magie du chaos et de l'occultisme à travers T.O.P.Y. a atteint son niveau le plus profond au cours de cette période. Genesis P‑Orridge explore la transformation personnelle et la construction d'une communauté à travers la magie et les rituels, liant indissociablement le travail d'un groupe et la pratique idéologique.
 
 ---
 

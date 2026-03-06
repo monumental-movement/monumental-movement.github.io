@@ -21,7 +21,7 @@ title: '[Chronique] Vocal Expérimental / Manipulation Vocale — Histoire et te
 
 Texte : mmr｜Thème : Des voix expérimentales qui traitent, génèrent et réorganisent la voix en tant que matériau/histoire, techniques, représentants et tendances contemporaines de la manipulation vocale
 
-Au 21ème siècle, la voix chantée est passée du simple fait de transmettre des mélodies à un matériau acoustique modifiable. Avec la disponibilité d’outils tels que la technologie d’enregistrement/édition, les effets, l’échantillonnage, le traitement en temps réel et la technologie de génération, la voix a acquis un rôle diversifié en tant qu’instrument, texture, description spatiale et même ressource de données. Des artistes comme Bjork et Imogen Heap, qui utilisent leur propre voix comme matériau principal pour leurs expériences, et les expressions créées par des avancées technologiques telles que la synthèse granulaire et la resynthèse basée sur l'IA, ont considérablement élargi les possibilités de la voix.
+Au 21e siècle, la voix chantée est passée du simple fait de transmettre une mélodie à un matériau acoustique modifiable. Avec la disponibilité d’outils tels que la technologie d’enregistrement/édition, les effets, l’échantillonnage, le traitement en temps réel et la technologie de génération, la voix a acquis un rôle diversifié en tant qu’instrument, texture, description spatiale et même ressource de données. Des artistes comme Bjork et Imogen Heap, qui utilisent leur propre voix comme matériau principal pour leurs expériences, et les expressions créées par des avancées technologiques telles que la synthèse granulaire et la resynthèse basée sur l'IA ont considérablement élargi les possibilités de la voix.
 
 ---
 
@@ -116,7 +116,7 @@ La transformation de la voix en matériau est une expansion de l'expression et s
 
 ### 5-1. Identité et voix
 
-La voix reflète les caractéristiques physiques d'un individu, mais elle est facilement modifiée par les techniques de traitement. Cela permet aux artistes d’élargir leur éventail d’expressions personnelles et aux auditeurs de mettre à jour leur conscience des voix.
+La voix reflète les caractéristiques physiques d'un individu, mais elle est facilement modifiée par les techniques de traitement. Cela permet aux artistes d’élargir leur éventail d’expression personnelle et aux auditeurs de mettre à jour leur conscience de la voix.
 
 ### 5-2. Éthique de la performance et technologie de génération
 

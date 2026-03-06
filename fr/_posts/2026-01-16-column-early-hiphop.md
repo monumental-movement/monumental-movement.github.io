@@ -77,7 +77,7 @@ Les DJ ont joué le rôle le plus central dans les débuts de la culture hip-hop
 
 Le DJ était chargé de préparer l'équipement de sonorisation, d'assurer l'alimentation électrique, d'apporter les disques et de faire en sorte que la fête ait lieu. En plus de « sélectionner » la musique, il fallait également « créer l'espace ».
 
-Le fait d'extraire des parties rythmiques de disques funk et soul et de les répéter tout en observant la réaction du public s'est spontanément affiné.
+Le fait d'extraire des parties rythmiques de disques funk et soul et de les répéter tout en observant la réaction du public est devenu spontané et sophistiqué.
 
 A cette époque, les DJ étaient moins des créateurs que des contrôleurs du temps.
 
@@ -90,7 +90,7 @@ A cette époque, les DJ étaient moins des créateurs que des contrôleurs du te
 
 Les disques funk et soul comportaient souvent de courts intermèdes composés uniquement de musique instrumentale. A ce moment, le DJ remarque que les mouvements des danseurs sont les plus intenses.
 
-En utilisant deux copies du même disque et en en jouant alternativement des parties, une technique a été créée pour allonger intentionnellement le rythme. C'est devenu le prototype de la structure qui sera plus tard appelée breakbeat.
+En utilisant deux copies du même disque et en en jouant alternativement des parties, une technique a été créée pour allonger intentionnellement le rythme. C’est devenu le prototype de la structure qui sera plus tard appelée breakbeat.
 
 Ce qui est important, c’est que cette méthode n’était pas une invention théorique, mais qu’elle a été créée à la suite de l’observation des réactions du public. La structure musicale a été réorganisée par des réponses corporelles.
 

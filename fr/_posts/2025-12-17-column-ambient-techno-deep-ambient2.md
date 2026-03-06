@@ -49,7 +49,7 @@ Lorsqu'ils sont joués sur une longue période, les stimuli à court terme et le
 
 Les boucles d'Ambient Techno/Deep Ambient ne sont pas un gadget pour vous faire entendre la répétition elle-même. Il s’agit plutôt d’un dispositif permettant de créer artificiellement un état dans lequel il semble qu’aucun changement n’existe.
 
-Il n’y a pas de boucle parfaite ; il y a toujours une certaine fluctuation. Ouverture/fermeture du filtre, augmentation/diminution des composantes du bruit, longueur de la queue de réverbération. Ces infimes différences sont les seuls indices qui donnent à l’auditeur une idée du passage du temps.
+Il n’y a pas de boucle parfaite ; il y a toujours une certaine fluctuation. Ouverture et fermeture des filtres, augmentation/diminution des composantes du bruit, longueur de la queue de réverbération. Ces infimes différences sont les seuls indices qui donnent à l’auditeur une idée du passage du temps.
 
 ---
 
@@ -73,7 +73,7 @@ Pour cette raison, dans de nombreuses œuvres, le silence complet est évité et
 
 Le caractère d'Ambient Techno / Deep Ambient change considérablement en fonction du support de lecture. Grands haut-parleurs, écouteurs et petits appareils. Chacun crée une profondeur différente.
 
-Dans les écouteurs, la pression physique des basses fréquences est réduite, mais la densité de l'espace interne est augmentée. En revanche, lors de la lecture sur haut-parleur, l’espace lui-même devient un résonateur.
+Dans les écouteurs, la pression physique dans les basses fréquences est réduite, mais la densité de l'espace interne augmente. En revanche, lors de la lecture sur haut-parleur, l’espace lui-même devient un résonateur.
 
 ---
 
@@ -105,7 +105,7 @@ Même s'il s'agit d'un son artificiel, si la sensation de distance, de réflexio
 
 Dans ce genre de musique, l’auditeur n’est pas une entité passive. C'est toujours à l'auditeur de décider quelle attention accorder et quand laisser la musique devenir un arrière-plan.
 
-Ambient Techno/Deep Ambient est une musique extrêmement démocratique dans le sens où elle ne force pas l'intensité d'écoute.
+Ambient Techno / Deep Ambient est une musique extrêmement démocratique dans le sens où elle ne force pas l'intensité d'écoute.
 
 ---
 

@@ -15,7 +15,7 @@ title: Danny Clark & ​​Jay Benham Featuring Carla Prather – Into You
 ---
 
 
-MR. ALI나 QUENTIN HARRIS, VICK LAVENDER, LOFTSOUL, DJ SPEN 등 수많은 아티스트와 콜라보하고 있는 보컬 프로듀서 Carla Prather를 피처한, UK하우스 뮤직 프로듀서 Danny Clark & ​​Jay Benham에 의한 딥하우스 갤러지 하우스 트랙.
+MR. ALI나 QUENTIN HARRIS, VICK LAVENDER, LOFTSOUL, DJ SPEN 등 수많은 아티스트와 콜라보하고 있는 보컬 프로듀서 Carla Prather를 피처한, UK하우스 뮤직 프로듀서 Danny Clark & ​​Jay Benham에 의한 딥 하우스 갤러지 하우스 트랙.
 
 'Into You'는 Danny Clark & ​​Jay Benham이 운영하는 Solid Ground Recordings에서 2010년에 발매되었다.
 

@@ -13,7 +13,7 @@ title: The Junkies & Nathan Barato – The Big Smoke
 ---
 
 
-The Junkies는 캐나다 토론토를 거점으로 활동하는 DJ / 프로듀서 Valentino Colavecchia와 Vincenzo Nicolazzo의 듀오.
+The Junkies는 캐나다 토론토에 본사를 둔 DJ/프로듀서 Valentino Colavecchia와 Vincenzo Nicolazzo의 듀오.
 
 Nathan Barato(네이산 바라토)는 캐나다 출신의 DJ.
 

@@ -15,7 +15,7 @@ title: 天堂軍刀 – 鬧鬼的舞廳
 ---
 
 
-Sabers Of Paradise 是一支來自倫敦的英國電子音樂團體。成員：安德魯韋瑟羅爾、賈格茲庫納、蓋瑞伯恩斯。
+The Sabres Of Paradise(セイバーズ・オブ・パラダイス)は、ロンドン出身のUKエレクトロニックミュージックグループ。メンバーは、Andrew Weatherall(アンドリュー・ウェザーオール)、Jagz Kooner、Gary Burns。
 
 《Haunted Dancehall》是The Sabers Of Paradise的第二張專輯，由Warp Records於1995年發行，多年來一直受到好評，包括在2007年被英國衛報評選為“你死前必聽的1000張專輯”之一。
 

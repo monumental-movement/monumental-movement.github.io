@@ -88,7 +88,7 @@ Rolle: Ingenieur/Elektronikdesign
 
 Hintergrund: Eine Person, die auch als Hardware-Hacker bekannt ist.
 
-Erfolge: Beteiligt an der Entwicklung der Maschinensteuerungsinfrastruktur und speziellen Schnittstellen von SRL.
+Erfolge: Mitwirkung an der Entwicklung der Maschinensteuerungsinfrastruktur und der speziellen Schnittstellen von SRL.
 
 
 ---
@@ -168,4 +168,4 @@ SRL führt seine Auftritte weiterhin mit Maschinen und Robotern durch und hat in
 
 ### Abschluss
 
-Survival Research Laboratories ist eine innovative Gruppe, die die Beziehung zwischen Maschinen und Menschen, Technologie und Kunst sowie Ordnung und Chaos hinterfragt. Ihre Arbeit bietet durch visuelle und akustische Schocks eine scharfe Kritik an der Rolle und dem Einfluss der Technologie in der modernen Gesellschaft. Die Aktivitäten von SRL werden weiterhin viele Künstler und Ingenieure inspirieren.
+Survival Research Laboratories ist eine innovative Gruppe, die die Beziehungen zwischen Maschinen und Menschen, Technologie und Kunst sowie Ordnung und Chaos hinterfragt. Ihre Arbeit bietet durch visuelle und akustische Schocks eine scharfe Kritik an der Rolle und dem Einfluss der Technologie in der modernen Gesellschaft. Die Aktivitäten von SRL werden weiterhin viele Künstler und Ingenieure inspirieren.

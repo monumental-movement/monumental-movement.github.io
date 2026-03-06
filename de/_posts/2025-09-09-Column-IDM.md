@@ -129,7 +129,7 @@ Soft-Synthesizer wie **Reaktor und FM7** sind zum Standard geworden.
 ---
 
 ## 2010er Jahre: Wiederverbindung mit dem Club
-Gemischt mit Bassmusik, Grime und Ambient-Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
+Gemischt mit Bassmusik, Grime und Ambient Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
 
 - **Repräsentatives Meisterwerk**
 - Oneohtrix Point Never – *Replica* (2011)
@@ -171,7 +171,7 @@ Im Streaming-Zeitalter verschwimmen die Grenzen zwischen den Genres zunehmend. E
 **Verwendung von KI-Unterstützungstools und generativer Musiksoftware**.
 Hybride Produktion, die Modularität und Software kombiniert.
 
-### Liste mit 10 empfohlenen Songs (2020er-heute)
+### Liste mit 10 empfohlenen Songs (seit 2020)
 
 | Nein | Künstler | Songtitel | Kommentar |
 |---|---|---|---|

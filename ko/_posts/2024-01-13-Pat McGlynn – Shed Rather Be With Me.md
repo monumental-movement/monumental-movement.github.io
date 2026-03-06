@@ -14,7 +14,7 @@ title: Pat McGlynn – She'd Rather Be With Me
 ---
 
 
-스코틀랜드 출신인 퍼트 매그린은 1976년 후반에 베이 시티 롤러스(Bay City Rollers)의 기타리스트로 활동한 후 자신의 밴드 Pat McGlynn's Scotties(퍼트 맥그린스 스코티즈)를 결성.
+스코틀랜드 출신의 퍼트 맥그린은 1976년 후반에 Bay City Rollers(베이 시티 롤러스)의 기타리스트로 활동한 후, 자신의 밴드 Pat McGlynn's Scotties(퍼트 맥그린스 스코티즈)를 결성.
 
 「She'd Rather Be With Me(그 딸은 아이돌)」는, 1977년에 London Records보다 발매되었다. 프로듀서는 Nick Raymonde.
 

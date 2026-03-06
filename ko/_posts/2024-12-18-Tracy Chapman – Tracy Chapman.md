@@ -14,9 +14,9 @@ title: Tracy Chapman – Tracy Chapman
 ---
 
 
-Tracy Chapman(트레이시 챕맨)은, 히트 싱글 「Fast Car」(1988년)와 「Give Me One Reason」(1995년)으로 널리 알려진 US의 싱어 송 라이터.
+Tracy Chapman(트레이시 챕맨)은 히트 싱글 'Fast Car'(1988년)와 'Give Me One Reason'(1995년)으로 널리 알려진 US의 싱어송 라이터.
 
-'Tracy Chapman'은 1988년 Elektra 레코즈에서 발매된 데뷔 앨범. 넬슨 만델라의 70세 생일 트리뷰트 콘서트에 출연하여 성공을 거두고 플래티넘 인증, 앨범 오브 더 이어를 포함한 6개의 그래미상에 후보로 선정되었으며, 그 중 3개는 베스트 뉴 아티스트, 싱글 'Fast Car'로 베스트 여성 팝 포보컬 퍼포먼스.
+'Tracy Chapman'은 1988년 Elektra 레코즈에서 발매된 데뷔 앨범. 넬슨 만델라의 70세 생일 트리뷰트 콘서트에 출연하여 성공을 거두고 플래티넘 인증, 앨범 오브 더 이어를 포함한 6개의 그래미상에 후보로 선정되었으며, 그 중 3개는 베스트 뉴 아티스트, 싱글 'Fast Car'로 베스트 페미닌 팝 보컬 퍼포먼스.
 
 #### Tracklist
 ```md

@@ -15,7 +15,7 @@ title: Sanjiva – Secret Rooms Over Flowing Delight
 ---
 
 
-Sanjiva와 Charles Reix의 테크노 앰비언트 트랜스 트럭. 1996년에 Sanjiva 자신의 라벨 Ninetysix Sounds에서 발매되었다. Charles Kyosan 명의에서도 활동하고 있었다.
+Sanjiva와 Charles Reix의 테크노 앰비언트 트랜스 트럭. 1996 년 Sanjiva 자신의 라벨 Ninetysix Sounds에서 출시되었습니다. Charles Kyosan 명의에서도 활동하고 있었다.
 
 #### Tracklist
 ```md

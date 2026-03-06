@@ -76,7 +76,7 @@ In den Vereinigten Staaten führte die Verbreitung von Macintosh zum Aufstieg vo
 * **1985: MOTU „Performer“**
 * Kompatibel mit der grafischen Benutzeroberfläche des Macintosh, viele Komponisten haben sie übernommen.
 
-Vor dem digitalen Audio begannen MOTU und Steinberg als Werkzeuge des Komponisten.
+Vor digitalem Audio begannen MOTU und Steinberg als Werkzeuge des Komponisten.
 
 ---
 
@@ -104,7 +104,7 @@ In diesem Moment begann eine Kultur der Software-Akzeptanz externer Plugins.
 
 * Migration von Atari auf Mac/Windows
 * Ausgestattet mit einer einzigartigen „Umgebungs“-Funktion
-* Aktive Einführung von Soft-Synthesizern
+* Soft-Synthesizer aktiv einführen
 
 Mit emagic und Steinberg konkurrieren zwei große DAWs aus Deutschland.
 Digidesign ist auf dem Weg, der „absolute König der Audiobearbeitung“ zu werden.
@@ -122,7 +122,7 @@ Im Jahr 1996 kam es zum größten Wendepunkt in der DAW-Geschichte.
 * Eine Kultur geschaffen, in der Tonquellen und Effekte auf einem PC laufen
 
 VST wurde später zu Apple AU, Digidesign RTAS/AAX, Propellerhead Rack Extensions usw.
-Es ist der „Vorfahre“ aller Plug-In-Standards.
+Es ist der „Vorfahre“ aller Plug-in-Standards.
 
 ### ■ MOTU: Verbessern Sie die Videosynchronisierung mit Digital Performer 2.0
 
@@ -229,7 +229,7 @@ In dieser Zeit wurden DAWs mit **CPU-abhängiger nativer Verarbeitung** zum Main
 *MOTU geht mit DP9/10 in den modernen Workflow über
 * Die Marktdurchdringung von Adobe Audition ist auf die steigende Nachfrage nach Podcasts zurückzuführen
 
-Zu diesem Zeitpunkt war das Wort „DAW“ völlig gebräuchlich,
+Zu diesem Zeitpunkt war das Wort „DAW“ völlig populär.
 In Verbindung mit der Ausweitung der Homerecording-Kultur wird der Gesamtmarkt schnell wachsen.
 
 ---
@@ -262,7 +262,7 @@ In den letzten Jahren hat die Geschichte der DAWs einen weiteren großen Wandel 
 
 ### ■ Adobe: Steigende Nachfrage nach Vertrieb und Rundfunk
 
-* Integrationsvorteil mit Premiere
+* Vorteile der Integration mit Premiere
 * Stark im YouTube-/Podcast-Zeitalter
 
 ---
@@ -316,7 +316,7 @@ MOTU beherrscht die **Videosynchronisation**,
 Adobe hat mit der **Integration in Rundfunk und Videobearbeitung** einen eigenen Markt geschaffen.
 
 Obwohl die sechs Unternehmen miteinander konkurrieren,
-Dadurch haben sie gemeinsam die „Kultur der Musikproduktion selbst“ geprägt.
+Dadurch haben sie gemeinsam die Kultur der Musikproduktion geprägt.
 
 Nach 2025 KI-Bearbeitung, Cloud-Kollaboration, Ausbau der mobilen Produktion usw.
 Die Zukunft von DAWs wird eine neue Dimension annehmen.

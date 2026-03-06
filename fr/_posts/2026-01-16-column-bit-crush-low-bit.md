@@ -101,7 +101,7 @@ Ce son était considéré comme « pour enfants » et « simple », mais en mêm
 
 ### La mise en place de chiptune
 
-À la fin des années 1990, la musique qui utilisait intentionnellement des sources sonores provenant de consoles de jeux et de vieux ordinateurs est devenue connue sous le nom de « chip tunes ».
+À la fin des années 1990, la musique qui utilisait intentionnellement des sources sonores provenant de consoles de jeux et de vieux ordinateurs a été appelée « chip tunes ».
 Ce n’était pas un passe-temps nostalgique, mais impliquait une méthodologie claire de composition avec un nombre limité de notes et de timbres.
 
 Le son grave n’est pas seulement une question de qualité sonore, mais est devenu un élément qui définit la structure elle-même.
@@ -121,7 +121,7 @@ Cette tendance est également liée à la musique plus tardive orientée lo-fi e
 
 ---
 
-## Opération appelée bit crush
+## Opération appelée Bit Crush
 
 
 ### Définition de l'écrasement des bits
@@ -238,7 +238,7 @@ Il s’agit de choisir comment présenter précisément le son au monde.
 C'est pourquoi le fait de réduire intentionnellement la résolution implique une idéologie claire.
 
 Les bits faibles ne sont pas une relique du passé.
-C’est une esthétique qui ne verra le jour qu’une fois que la musique numérique aura mûri.
+C’est une esthétique qui ne se concrétisera qu’une fois que la musique numérique aura mûri.
 
 > Choisir la résolution du son équivaut à choisir la position d'expression.
 

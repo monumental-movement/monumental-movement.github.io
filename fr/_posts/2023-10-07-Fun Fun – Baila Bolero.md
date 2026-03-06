@@ -19,7 +19,7 @@ Cette chanson est une chanson de piste de danse qui combine des éléments de bo
 
 "Baila Bolero" est l'une des chansons devenues populaires lors du boom disco et eurodisco de l'époque, et est connue comme un chef-d'œuvre parmi les fans. Son son optimiste et son rythme dansant en font une chanson populaire dans les soirées dansantes et les clubs.
 
-Le "Baila Bolero" de Fan Fan est un régal pour les amateurs de disco et d'eurodisco en raison de sa qualité amusante et dansante. En écoutant la chanson, vous pouvez ressentir le charme de la musique dance des années 80 et l'énergie de cette époque.
+Le « Baila Bolero » de Fan Fan est un régal pour les amateurs de disco et d'eurodisco en raison de sa qualité amusante et dansante. En écoutant la chanson, vous pouvez ressentir le charme de la musique dance des années 80 et l'énergie de cette époque.
 
 #### Liste des chansons
 ```md

@@ -18,7 +18,7 @@ title: '[Kolumne] Apokalypse der Bilder und Töne: „Koyanisqatsi“ und die We
 ## Prolog: Was ein Film ohne Worte sagt
 
 
-Text: mmr｜Thema: Über den künstlerischen Meilenstein der zweiten Hälfte des 20. Jahrhunderts, als Bilder und Minimal Music verschmolzen
+Text: mmr｜Thema: Über den künstlerischen Meilenstein der zweiten Hälfte des 20. Jahrhunderts, als Video und Minimal Music verschmolzen
 
 „Koyanisqatsi, inszeniert von Godfrey Reggio und mit Musik von Philip Glass, ist ein Werk, das den Horizont von Film und Musik in der zweiten Hälfte des 20. Jahrhunderts grundlegend veränderte.“
 
@@ -56,7 +56,7 @@ color: #fff;
 Der Titel des Films, „Koyaanisqatsi“, ist ein Hopi-Wort und bedeutet „Leben aus dem Gleichgewicht“.
 Reggio hielt dieses Wort für ein Symbol der Industrie- und Informationsgesellschaft in der zweiten Hälfte des 20. Jahrhunderts.
 
-Im Eröffnungsvideo ist ein rötlich-brauner, felsiger Berg zu sehen, der in der Wildnis aufragt, und der tiefe **Refrain „Koyaanisqatsi“** hallt in der Stille wider.
+Im Eröffnungsvideo ist ein rötlich-brauner, felsiger Berg zu sehen, der in der Wildnis aufragt, und ein tiefer Refrain „Koyaanisqatsi“** hallt in der Stille wider.
 Schließlich beginnen sich die Geräusche der Maschinen der menschlichen Zivilisation, die Hektik der Stadt und die Beschleunigung der Konsumgesellschaft zu einem Rhythmus zu überschneiden.
 
 > Natürlich und künstlich. Stille und Überfüllung. Licht und Geschwindigkeit.
@@ -110,7 +110,7 @@ timeline
 
 ## Kapitel 4: Minimalismus und Spiritualität
 
-Die Musik von Glass hat eine westliche klassische Form, ist jedoch stark von östlicher Philosophie und meditativer Musik beeinflusst.
+Die Musik von Glass hat eine westliche klassische Form, ist jedoch stark von östlichem Denken und meditativer Musik beeinflusst.
 Die Rhythmusstruktur ist insbesondere von der Vokalmusik des indischen Musikers Ravi Shankar und tibetischer Mönche beeinflusst.
 
 Reggio ist auch eine spirituelle Figur mit Erfahrung in einem Kloster, und der gesamte Film ist als „Gebet ohne Gebet“ für die moderne Gesellschaft strukturiert.
@@ -126,7 +126,7 @@ Reggio ist auch eine spirituelle Figur mit Erfahrung in einem Kloster, und der g
 | Nahaufnahme des Gesichts | Refrain und Entschleunigung | Fragen zur Genesung der Menschheit |
 | Zusammenbrechende Rakete | Stille und Verfall | Ende der Zivilisation und Wiedergeburt |
 
-Wie diese Tabelle zeigt, ist Musik nicht nur eine Begleitung, sondern bildet die „emotionale Syntax“ des Videos.
+Wie diese Tabelle zeigt, ist Musik nicht nur eine Begleitung, sondern bildet die „emotionale Syntax“ des Bildes.
 
 ---
 
@@ -140,7 +140,7 @@ Zum Beispiel:
 * **Zeitgenössische Komponisten wie Sigur Rós, Max Richter, Brian Eno**
 * Direkter Einfluss auf **Umweltfilme und VJ-Kultur**
 
-Dieses Werk ist nicht nur ein Film, sondern hat sich zu etwas entwickelt, das man als „**audiovisuelles Philosophiebuch**“ bezeichnen kann.
+Dieses Werk ist nicht nur ein Film, sondern ist zu etwas geworden, das man als „Audiovisuelles Philosophiebuch“ bezeichnen kann.
 
 ---
 

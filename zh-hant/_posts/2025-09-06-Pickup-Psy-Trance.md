@@ -10,7 +10,7 @@ tags:
 - Psy-Trance
 - Goa
 - Trance
-title: 挑選 Psy-Trance 作品
+title: Psy-Trance（サイケデリックトランス）作品をピックアップ
 ---
 
 
@@ -19,7 +19,7 @@ title: 挑選 Psy-Trance 作品
 
 ---
 
-## Psy-Trance 精選作品
+## Psy-Trance（サイケデリックトランス）の注目作品
 
 介紹 Monumental-Movement.jp 上列出的推薦 **Psy-Trance** 專輯並附有說明。
 收藏從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
@@ -54,7 +54,7 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ### 太陽。項目 – *Zwork*
 <a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
-- **發布發布日期**：2025-09-05
+- **リリース掲載日**：2025-09-05  
 
 - **評論**：Gore/Psy-Trance 計畫在德國成立。一部回歸根源的作品，聲音讓人想起 90 年代的黃金時代。
 
@@ -239,7 +239,7 @@ F. Sandman – Target Eye
 
 ---
 
-### 賠率 – *賠率 E.P*
+### Odds – *Odds E.P*
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 

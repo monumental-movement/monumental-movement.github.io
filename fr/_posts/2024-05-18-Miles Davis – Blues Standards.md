@@ -10,21 +10,21 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: Miles Davis – Blues/Standards
+title: Miles Davis – Blues / Standards
 ---
 
 
-L'une des compilations de quatre cassettes de Miles Davis sortie en 1988. La bande est une bande chromée.
+1988年にリリースされたマイルスデイヴィスの4本カセットコンピレーションの中の一つ。テープはクロームテープ。
 
-Le piano pour G-1 et G-5 est Keith Jarrett.
+G-1とG-5のpianoは、Keith Jarrett（キース・ジャレット）。
 
-Le saxophone pour G-2 et H-1 est Bill Evans.
+G-2とH-1のSaxは、Bill Evans（ビル・エヴァンス）。
 
-La basse des G-2 et G-3 est Darryl Jones.
+G-2とG-3のbassは、Darryl Jones（ダリル・ジョーンズ）
 
-La basse des G-1, G-5 et H-2 est Michael Henderson.
+G-1,G-5とH-2のbassは、Michael Henderson(マイケル・ヘンダーソン)。
 
-Les tambours de G-2 et H-1 sont Al Foster.
+G-2とH-1のdrumは、Al Foster（アル・フォスター）。
 
 #### Liste des chansons
 ```md

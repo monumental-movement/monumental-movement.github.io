@@ -79,7 +79,7 @@ color: #fff;
 
 ---
 
-#### Inside The Outrageous Mutant Vehicles Of Burning Man 2022 | Forbes
+#### 2022 年火人節裡那些令人髮指的突變車輛 |福布斯
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -90,7 +90,7 @@ color: #fff;
 
 
 |年份|雜誌/媒體 |筆記/關係 |連結 |
-| ----：| ------------------------ | | ------------------------ | ----------------- |
+| ----: | ------------------------ | | ------------------------ | ----------------- |
 |書籍 | *火人節：燃燒的藝術*（照片書）|一本涵蓋節日藝術的經典書籍| [亞馬遜](https://amzn.to/3VFFwNge) |
 |書籍 | *塵埃中的往事*（羅克珊傑西）|一部走近全球燃燒文化的遊記| [亞馬遜](https://amzn.to/4nv3MQw) |
 
@@ -230,7 +230,7 @@ flowchart TD
 
 #### 2003：難以置信
 
-對宗教、信仰、神秘、幻覺和超越的探索。無論是主題或藝術，都更體現了儀式、祈禱和儀式空間的意義。
+對宗教、信仰、神秘、幻覺和超越的探索。無論是主題或藝術，都更體現了儀式、祈禱和儀式空間的意識。
 
 今年，主題藝術登記項目數量快速增長。
 
@@ -354,15 +354,15 @@ flowchart TD
 
 ---
 
-#### 2020年：The Multiverse
+#### 2020：多元宇宙
 
-最初的主題是多元宇宙的概念。然而，由於 COVID-19，當地的節日被取消。探索虚拟/在线空间的发展。
+最初的主題是多元宇宙的概念。然而，由於 COVID-19，當地的節日被取消。探索虛擬/線上空間的發展。
 
 ---
 
 #### 2021：反思
 
-現地開催が制限される中で、「反射・省察」をテーマとしたハイブリッド／仮想・物理融合型のアプローチ。
+在現場活動限制的情況下，以「反思與反思」為主題的混合/虛擬/物理融合方式。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KEbaZmcBOVU?si=NwUa9jui19bGIC44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -392,7 +392,7 @@ flowchart TD
 
 #### 2025：明天今天
 
-關注不久的將來、未來的發明和社會計劃。體現「從明天到今天」的藝術、原型設計和引發未來對話空間的設計。
+關注不久的將來、未來的發明和社會概念。體現「從明天到今天」的藝術、原型設計和引發未來對話空間的設計。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

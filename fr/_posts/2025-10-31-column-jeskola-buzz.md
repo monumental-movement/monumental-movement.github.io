@@ -21,7 +21,7 @@ title: '[Chronique] L''héritage de Jeskola Buzz : Le miracle de la musique éle
 
 Texte : mmr｜Thème : Retracez les caractéristiques techniques et l'histoire de Buzz, puis organisez ce qui était possible du point de vue de l'utilisateur/de la communauté, et tracez des exemples spécifiques d'utilisation par les artistes et de son influence musicale.
 
-Au milieu des années 1990, le monde de la production de musique électronique/musique sur PC se trouvait à un tournant majeur. Traditionnellement, les synthétiseurs matériels, les équipements dédiés et les studios d'enregistrement étaient au centre de l'attention, limitant l'environnement dans lequel les individus pouvaient librement produire et présenter des chansons. Cependant, les progrès de la technologie des PC (Windows) et des logiciels ont marqué le début d’une ère dans laquelle les gens peuvent créer librement des sons à la maison.
+Au milieu des années 1990, le monde de la production de musique électronique/musique sur PC se trouvait à un tournant majeur. Traditionnellement, les synthétiseurs matériels, les équipements dédiés et les studios d'enregistrement étaient au centre de l'attention, limitant l'environnement dans lequel les individus pouvaient librement produire et présenter des chansons. Cependant, avec les progrès de la technologie des PC (Windows) et des logiciels, une ère dans laquelle les gens pouvaient librement créer des sons à la maison a commencé à prendre de l'ampleur.
 
 Pendant ce temps, "Jeskola Buzz" du développeur finlandais Oskari Tammelin est apparu vers 1997 (ou aurait eu une version alpha avant cette date).
 Buzz est un tracker/séquenceur modulaire gratuit (distribution gratuite) pour Windows qui a été pris en charge par de nombreux utilisateurs. Le plus grand attrait était l'environnement dans lequel « les sources sonores (générateurs), les effets (machines) et le routage (câblage) pouvaient être librement assemblés pour recréer un « équipement modulaire » sur logiciel. »
@@ -63,7 +63,7 @@ Ce qui était distinctif, c'est que le logiciel lui-même se composait d'une mac
 ### Pourquoi « modulaire + tracker » était révolutionnaire
 
 * Conventionnellement, la méthode traditionnelle des trackers consistait à séquencer les échantillons dans un format de défilement vertical, et le routage des sources sonores et des effets était fixe/limité. Buzz a élargi ce concept pour inclure un concept de « câble de brassage », permettant aux utilisateurs de créer leurs propres circuits tels que « source sonore -> filtre -> effet -> sortie ».
-* De plus, il était léger et ses paramètres pouvaient être manipulés en temps réel, ce qui en faisait une plateforme populaire pour créer des œuvres sonores expérimentales.
+* De plus, il était léger et ses paramètres pouvaient être manipulés en temps réel, ce qui en faisait une base populaire pour créer des œuvres sonores expérimentales.
 * L'esprit ouvert de la distribution gratuite et de l'extensibilité des utilisateurs a encouragé les créateurs individuels à créer une culture de « modification de leurs propres sons pour les créer/partager ».
 
 De cette manière, Buzz a joué à l’époque un rôle hérétique et novateur en « réalisant un environnement modulaire sur PC ».
@@ -76,7 +76,7 @@ Dans ce chapitre, nous analyserons en détail « ce qui était technologiquement
 
 ### 3.1 Les sources sonores et les effets peuvent être gérés dans des unités « machine »
 
-Buzz dispose d'une machine « Générateur » qui produit du son et d'une machine « Effet » qui traite le son, et les utilisateurs peuvent les organiser et les connecter sur la « Vue Machine ».
+Buzz dispose d'une machine « Générateur » qui crée du son et d'une machine « Effet » qui traite le son, et les utilisateurs peuvent les organiser et les connecter sur la « Vue Machine ».
 Par exemple, j'ai pu visualiser et construire un flux machine de génération de forme d'onde (Oscillateur)/machine d'échantillonnage (Sampler) → filtre → enveloppe/LFO → réverbération/délai → sortie.
 Cette configuration permet un « routage libre » rarement vu dans les trackers/séquenceurs conventionnels.
 
@@ -92,11 +92,11 @@ Cela a conduit aux tendances suivantes :
 
 * Les développeurs individuels publient des sources/effets sonores, et vous pouvez profiter de nouveaux sons/traitements simplement en les téléchargeant et en les incorporant.
 * Les utilisateurs ont commencé à relever le défi de « jusqu'où ils pouvaient créer des circuits » et « jusqu'où ils pouvaient obtenir des sons expérimentaux ».
-* Les personnes qui créent des œuvres expérimentales qui traversent les genres musicaux choisissent de plus en plus Buzz comme « outil ».
+* Il y a eu une augmentation du nombre de cas dans lesquels des personnes créant des œuvres expérimentales qui traversent les genres musicaux choisissent Buzz comme « outil ».
 
 ### 3.4 Léger, immédiat et supérieur en tant qu'environnement expérimental
 
-Il fonctionnait relativement confortablement dans l'environnement PC de l'époque (Windows 95/98, Atom/ancienne classe Pentium), et il était également possible de modifier le son en temps réel. De plus, grâce au format tracker, il avait l'avantage de pouvoir saisir des motifs à grande vitesse en utilisant uniquement une souris et un clavier, et de permettre des performances improvisées et de type live.
+Il fonctionnait relativement confortablement dans l'environnement PC de l'époque (Windows 95/98, Atom/ancienne classe Pentium), et il était également possible de modifier le son en temps réel. De plus, grâce au format tracker, il avait l'avantage de pouvoir saisir des motifs à grande vitesse en utilisant uniquement une souris et un clavier, et de permettre des performances d'improvisation et des performances en direct.
 Ce point était très attractif pour les créateurs qui ne disposaient ni de matériel ni de studio, mais souhaitaient explorer les sons chez eux.
 
 ---
@@ -118,7 +118,7 @@ Pour cette raison, le style de « création de vos propres sources sonores et cr
 ### 4.3 Création d'un forum/tutoriel en ligne
 
 Des informations sur l'utilisation de Buzz, des conseils de câblage de la machine, des exemples de traitement d'échantillons/de construction de chaînes d'effets, etc. ont été accumulées sur des forums, des blogs et YouTube. En conséquence, nous avons créé un environnement dans lequel même les débutants peuvent apprendre relativement facilement « ce que Buzz peut faire ».
-Cette culture de l'apprentissage a créé une tendance consistant à « apprendre à utiliser/modifier/partager » et a élevé Buzz du statut d'« outil » à celui de « plateforme ».
+Cette culture de l'apprentissage a créé une tendance à « apprendre à utiliser/modifier/partager » et a élevé Buzz du statut d'« outil » à celui de « plateforme ».
 
 ### 4.4 Utilisation dans tous les genres musicaux et création d'une sous-culture
 
@@ -157,7 +157,7 @@ Ainsi, les premières œuvres de Holden ont un langage sonore hautement compatib
 
 ### 5.2 Utilisation possible mentionnée : Aphex Twin
 
-Concernant Aphex Twin (de son vrai nom Richard D. James), aucun document primaire fiable (interviews officielles, etc.) n'a été trouvé indiquant qu'il "a utilisé Buzz", et il n'y a que des mentions de "il a utilisé/pourrait utiliser Buzz" dans les messages du forum et les témoignages d'utilisateurs. Par exemple, sur le forum KVR, un utilisateur a déclaré : "...mon tracker préféré est Jeskola Buzz...", suggérant qu'AFX (Aphex Twin) utilise peut-être un logiciel de tracker.
+Concernant Aphex Twin (de son vrai nom Richard D. James), aucun document primaire solide (interviews officielles, etc.) n'a été trouvé indiquant qu'il "a utilisé Buzz", et il n'y a que des mentions de "il a utilisé/pourrait utiliser Buzz" dans les messages du forum et les témoignages d'utilisateurs. Par exemple, sur le forum KVR, un utilisateur a déclaré : "...mon tracker préféré est Jeskola Buzz...", suggérant qu'AFX (Aphex Twin) utilise peut-être un logiciel de tracker.
 Également indiqué dans le fil HackerNews :
 
 > "Le flux de travail productif rapide de Jeskola Buzz de l'époque me manque toujours. Synthé logiciel modulaire + tracker avec séquençage de motifs. "
@@ -178,7 +178,7 @@ Dans ce chapitre, nous résumerons la manière dont Buzz a influencé les genres
 Buzz est plus qu'un simple DAW pour la techno et la house, il a joué un rôle important dans les genres et applications suivants :
 
 * **Breakcore/IDM (Intellectual Dance Music)** : un genre qui utilise des rythmes complexes, un traitement des glitchs et des chaînes d'effets profondes, et les connexions modulaires et le format de suivi de Buzz étaient idéaux pour ce genre.
-* **Système Chiptune/8 bits** : En tant qu'environnement léger et hautement improvisé, Buzz est devenu un outil permettant d'essayer rapidement la configuration « échantillonneur + génération de forme d'onde + filtre ».
+* **Système Chiptune/8 bits** : En tant qu'environnement léger et hautement improvisé, Buzz est devenu un outil permettant d'essayer rapidement la configuration « échantillonneur + génération de forme d'onde + filtre ».
 * **Musique ambiante/expérimentale** : au-delà des signatures rythmiques et des structures fixes, la possibilité de patch de Buzz a été utilisée pour explorer les espaces acoustiques, les textures et la conception sonore.
 * **Performance/Improvisation Live** : Comme mentionné ci-dessus, il était également utilisé comme outil d'improvisation sur ordinateur portable et de sets live car il était léger et très réactif.
 
@@ -197,7 +197,7 @@ Même après l'arrêt du développement officiel de Buzz, « l'héritage » suiv
 
 * Projets d'imitation/dérivés sans licence (par exemple BuzzTrak/Buzz clone), environnement de module Tracker fonctionnant sous Linux, etc.
 * Maturation de la culture logicielle modulaire/plugin. Le style selon lequel « les utilisateurs ajoutent des extensions et les partagent en ligne » est devenu monnaie courante.
-* L'esprit « modulaire + improvisation » de Buzz est référencé dans la renaissance de la modularité matérielle (par exemple Eurorack). Dans l'article précédent « Dreaming Of Wires », Holden a déclaré que « la pensée du câblage qu'il a apprise de Buzz » est devenue le point de départ de sa transition vers le modulaire dur.
+* L'esprit « modulaire + improvisation » de Buzz est référencé dans la renaissance du matériel modulaire (par exemple Eurorack). Dans l'article précédent « Dreaming Of Wires », Holden a déclaré que « la pensée du câblage qu'il a apprise de Buzz » est devenue le point de départ de sa transition vers le modulaire dur.
 
 ### 6.4 Contribuer à la production musicale/à l'éducation/à la culture du bricolage
 
@@ -280,7 +280,7 @@ flowchart LR
 **Explication**:
 
 * A : Source sonore (génération de forme d'onde ou échantillonneur)
-* B : filtre (passe-haut/passe-bas)
+* B : Filtre (passe-haut/passe-bas)
 * C : Enveloppe/LFO (changement d'heure/changement de période)
 * D : Retard (traitement spatial/temporel)
 * E : Reverb (espace de réverbération)

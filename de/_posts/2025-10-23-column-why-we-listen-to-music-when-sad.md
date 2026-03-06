@@ -60,7 +60,7 @@ Dies ist einer der Hauptgründe, warum Menschen traurige Musik suchen.
 ## Kapitel 2: Musik als Mittel der Empathie
 
 Laut der Psychologin Catherine Mercier
-„Musik ist ein Nachahmungsmittel für Empathie.“
+„Musik ist ein Mittel zur Nachahmung von Empathie.“
 Wenn Zuhörer traurige Musik hören, „identifizieren“ sie sich mit den Emotionen des Komponisten und Sängers und
 Die Anwesenheit anderer in der Einsamkeit spüren.
 
@@ -196,7 +196,7 @@ Musik ist ein Medium, das Traurigkeit in Liebe verwandelt.
 | Regeneration | Cingulärer Cortex | Crescendo-Struktur | Dopamin-Anstieg |
 
 
->„Wenn du traurig bist, hörst du Musik, nicht weil du Angst vor der Stille hast.
+> „Wenn du traurig bist, hörst du Musik, nicht weil du Angst vor der Stille hast.
 >In den Tiefen dieser Stille dem Klang deines eigenen Herzens zu lauschen. ”
 
 ---

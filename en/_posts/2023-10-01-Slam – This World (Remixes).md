@@ -18,9 +18,9 @@ Wighnomy Bros has accomplished this highly unthinkable. Created hip and thrillin
 
 Slam are a Scottish DJ-producer duo (Orde Meikle, Stuart McMillan) from Glasgow.
 
-Co-founder of Soma Quality Recordings and promoter of the Atlantis parties (1989-1992) and Slam parties (1991-) in Glasgow.
+Soma Quality Recordings の共同設立者であり、グラスゴーで開催された Atlantis パーティー (1989-1992) と Slam パーティー (1991-) のプロモーターでもあります。
 
-We met in Sheffield in 1986. At the time, Ord was studying geography at university and Stuart was working in a bar.
+出会いは1986年のシェフィールド。当時、オードは大学で地理学を専攻しており、スチュアートはバーで働いていました。
 
 The group is named after Phuture's legendary track.
 

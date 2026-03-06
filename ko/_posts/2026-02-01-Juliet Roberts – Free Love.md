@@ -15,7 +15,7 @@ title: Juliet Roberts – Free Love
 
 
 
-Juliet Roberts는 1980년대부터 활동하는 UK의 재즈/록/서울/하우스 뮤직 싱어. 1984년~1988년은 재즈그룹 Working Week의 보컬로 활동했으며, 1990년경에는 영국 하우스그룹 L.A.Mix의 두 앨범에서 콜라보레이션하고 있다.
+Juliet Roberts는 1980년대부터 활동하는 UK의 재즈/록/서울/하우스 뮤직 싱어. 1984년~1988년은 재즈그룹 Working Week의 보컬로 활동했으며, 1990년경에는 영국 하우스그룹 L.A.Mix의 두 앨범으로 콜라보레이션하고 있다.
 
 「Free Love」는, 1992년에 댄스 라벨 Slam Jam Records로부터 릴리스 된 Garage House 트랙.
 

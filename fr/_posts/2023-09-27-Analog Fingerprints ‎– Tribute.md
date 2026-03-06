@@ -9,15 +9,15 @@ permalink: /fr/analog-fingerprints-tribute/
 tags:
 - Techno
 - Electro
-title: Empreintes digitales analogiques – Hommage
+title: Analog Fingerprints – Tribute
 ---
 
 
-"Tribute" d'Analog Fingerprints est un morceau électro house cahoteux avec une ambiance rave sur la face A. B1 et B2 sont des morceaux très minimes.
+Analog Fingerprintsによる「Tribute」は、A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。
 
-Le vrai nom d'Analog Fingerprints est Marco Passarani.
+Analog Fingerprintsの本名は、Marco Passarani。
 
-DJ et producteur italien.
+イタリアのDJであり、プロデューサーです。
 
 #### Liste des chansons
 ```md

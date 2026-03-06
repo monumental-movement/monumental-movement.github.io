@@ -178,11 +178,11 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 | 1990er Jahre | Roland TR-909 | Fahrhilfe |
 | 2000er | DAW (Cubase, Pro Tools) | Digitale Bearbeitung/Mischung |
 | 2010er | FL Studio, Ableton Live | Trap/EDM-Ansatz |
-| 2020er | Soft-Synth (Serum, Massiv) | Moderner Leadbass |
+| 2020er Jahre | Soft-Synth (Serum, Massiv) | Moderner Leadbass |
 
 ---
 
-### Zusammenfassungstabelle zum Hintergrund des Zeitalters
+### Übersichtstabelle zum Hintergrund des Zeitalters
 
 | Ära | Musikalische Besonderheiten | Verwandte Künstler | Beziehung zu Initial D |
 | ----- | ------------------- | ------------------------ | ----------- |
@@ -191,7 +191,7 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 | 1990er Jahre | Avex Eurobeat goldenes Zeitalter | Dave Rodgers, Max Coveri | Erster D-Soundtrack |
 | 2000er | Verbreitung im Internet, Parapara-Kultur | Niko, Domino | Kombination mit Spiel- und Anime-Kultur |
 | 2010er | Meme, Wiederbelebung | Internet-Memes (Deja Vu) | Weltweite Neuausrichtung |
-| 2020er | EDM / Synthwave-Fusion | Aktuelle DJs, Produzenten | Auf dem Weg zu einem neuen Klang |
+| 2020er Jahre | EDM / Synthwave-Fusion | Aktuelle DJs, Produzenten | Auf dem Weg zu einem neuen Klang |
 
 ---
 
@@ -230,6 +230,14 @@ Schließlich ist Eurobeat nicht nur ein Genrename.
 Ich denke, es funktioniert als.
 
 Jedes Mal, wenn Sie die Wiedergabetaste drücken, wartet diese Kurve auf Sie.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W35DsVjmqvk?si=Jw5rO9dgqxftYSj6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

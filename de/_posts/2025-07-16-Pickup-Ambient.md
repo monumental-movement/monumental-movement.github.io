@@ -28,7 +28,7 @@ Veröffentlicht: 2012 (US-Label Kimochi)
 
 Format: Limitiert auf 200 Alben (Vinyl)
 
-Features: Werke, die tiefe Grooves und räumliche Klanglandschaften verbinden
+Features: Werke, die tiefe Grooves und räumliche Klanglandschaften kombinieren
 
 #### Trackliste
 ```md

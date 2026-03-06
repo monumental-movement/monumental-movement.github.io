@@ -11,8 +11,7 @@ tags:
 - Ambient
 - Black Metal
 - Lo-Fi
-title: '[Chronique] Dungeon Synth ─ Une esthétique ambient underground qui s''éloigne
-  du black metal'
+title: 【コラム】 Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学
 ---
 
 
@@ -23,12 +22,12 @@ title: '[Chronique] Dungeon Synth ─ Une esthétique ambient underground qui s'
 
 
 
-## Dungeon Synth ─ Une esthétique ambiante underground qui s'éloigne du black metal
+## Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学
 
-Texte : mmr｜Thème : À propos de l'histoire, des techniques de production et de la position culturelle de Dungeon Synth, un genre ambient underground dérivé du black metal
+文：mmr｜テーマ：ブラックメタルから派生した地下アンビエント・ジャンル Dungeon Synth の歴史、制作技法、文化的位置づけについて
 
-Dungeon Synth est un genre musical qui exprime la spiritualité du black metal et la vision du monde fantastique/médiévale à travers des sons de synthétiseur minimalistes.
-Ses origines remontent à la scène musicale extrême européenne du début des années 1990, mais les deuxième et troisième générations se sont rapidement développées depuis la fin des années 2010 avec l'expansion de la culture Bandcamp, et elle s'est désormais développée en un gigantesque réseau de bricolage.
+Dungeon Synth（ダンジョン・シンセ）は、**ブラックメタルの精神性とファンタジー／中世世界観をミニマルなシンセサウンドで表現する音楽ジャンル**である。  
+その始まりは1990年代前半のヨーロッパ極端音楽シーンに求められるが、2010年代後半からBandcamp文化の拡大とともに第二／第三世代が急伸し、今や巨大なDIYネットワークへと発展した。
 
 ---
 
@@ -65,7 +64,7 @@ En conséquence, la musique est souvent décrite comme « une bande originale sa
 
 ---
 
-## ■ 2. Histoire ─ Des temps les plus reculés à nos jours
+## ■ 2. Histoire – des origines à nos jours
 
 Ci-dessous, nous résumerons les tendances importantes depuis la naissance du genre jusqu’à nos jours.
 
@@ -78,7 +77,7 @@ Ancien membre de l'Empereur. Création d'un style médiéval fantastique "Dark D
 - **Premières pièces pour clavier de Burzum (Norvège)**
 La chanson finale de « Hvis Lyset Tar Oss » et les morceaux ambiants de « Filosofem » ont laissé un symbolisme fort pour Dungeon Synth plus tard.
 
-Bien qu'il s'agisse de sources sonores antérieures au terme « Dungeon Synth en tant que nom de genre », elles sont clairement traitées comme la source par les générations ultérieures.
+Bien qu’il s’agisse de sources sonores antérieures à « Dungeon Synth en tant que nom de genre », elles sont clairement traitées comme la source par les générations ultérieures.
 
 ### ● 2-2. Première vague (1995-2000)
 De 1995 à 2000, un jeune projet européen qui a précédé "Era I" de Mortii, Cernunnos Woods, Depressive Silence et Old Tower a sorti des œuvres distribuées principalement sur bande.
@@ -86,7 +85,7 @@ De 1995 à 2000, un jeune projet européen qui a précédé "Era I" de Mortii, C
 
 ### ● 2-3. Vierge ~ Réévaluation (2001-2010)
 S'écartant du courant dominant de la scène metal, le genre est resté au sein d'une petite communauté jusqu'au milieu des années 2000.
-Cependant, à la fin des années 2000, alors que les débuts du black metal étaient réévalués, **Mortiis Era I a été réédité** et a commencé à recevoir une attention renouvelée dans le monde entier.
+Cependant, à la fin des années 2000, alors que les premiers black metal étaient réévalués, **Mortiis Era I a été réédité** et a commencé à recevoir une attention renouvelée dans le monde entier.
 
 ### ● 2-4. Deuxième vague (2010-2015)
 Les changements dans l’environnement Internet et la diffusion de Bandcamp sont devenus le facteur décisif.
@@ -101,7 +100,7 @@ Au cours de cette période, parallèlement au Black Metal atmosphérique, des œ
 La période la plus importante où le genre connaît une croissance rapide.
 
 - **Vieille Tour (Pays-Bas)**
-Avec son style majestueux et superposé, il joue un rôle central dans Dungeon Synth moderne.
+Avec son style majestueux et superposé, il joue le rôle central dans Dungeon Synth moderne.
 - **Thangorodrim (Portugal)**
 Re-présentant la première sensation lo-fi et la vision du monde fantastique classique.
 - **Fief (États-Unis)**
@@ -193,14 +192,14 @@ Même s’il y en avait, les seuls sons étaient de petits toms, des percussions
 Une technique importante pour créer l'ambiance "underground" de Dungeon Synth.
 
 ### ■ Réduction de bits (Bit Crusher)
-L'ajout d'une rugosité d'environ 8 à 12 bits améliorera l'ambiance des années 90.
+L'ajout d'une rugosité d'environ 8 à 12 bits améliore l'ambiance des années 90.
 
 ### ■ Simulation de bande
 - Saturation (légère distorsion)
 - Waouh et flottement
 - Bruit (sifflement de bande)
 
-De nombreux artistes enregistrent leurs chansons sur cassettes.
+De nombreux artistes enregistrent leurs chansons sur cassette.
 
 ### ■ Traitement de l'égalisation
 - **Supprimer les basses (en dessous de 100 Hz)** → Vers une texture monaurale/ancien équipement
@@ -222,7 +221,7 @@ Sont spécifiquement utilisés :
 
 ---
 
-## ■ 5. Schéma sirène : Structure acoustique
+## ■ 5. Diagramme sirène : Structure acoustique
 
 <div class="mermaid">
 flowchart TD
@@ -277,14 +276,14 @@ L'influence visuelle est extrêmement importante et joue un rôle complémentair
 - **Fief (États-Unis)**
 
 ## ● Temps modernes (2024–)
-- Forte multinationalisation et segmentation.
+- Forte multinationalisation et fragmentation.
 Des thèmes tels que Forêt / Hiver / Héroïque / Cosmic Synth ont augmenté.
 
 ---
 
 # ■ 8. Processus de production de Dungeon Synth (guide pratique)
 
-Vous trouverez ci-dessous un plan pour créer réellement une chanson.
+Vous trouverez ci-dessous un plan pour créer une chanson.
 
 ## ● Étape 1 : Préparer le clavier
 - Un clavier MIDI de 25 à 49 touches suffit
@@ -329,7 +328,7 @@ Il est même surnommé « le genre DIY le plus puissant de Bandcamp » depuis le
 
 Synthé de donjon
 **・ Spiritualité du black metal
-・Récit fantastique
+・ Récit fantastique
 ・La nature DIY de la musique synthétisée lo-fi**
 Il s’agit d’un espace culturel unique né de la combinaison de ces trois éléments.
 

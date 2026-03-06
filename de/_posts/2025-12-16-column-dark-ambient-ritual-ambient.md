@@ -29,7 +29,7 @@ Die charakteristischen Elemente der Musik, wie Metrum, Melodie und Instrumentali
 * Räumlicher Nachhall
 *Unbekannte Tonquelle
 
-Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Gestaltung der Anordnung von Klängen und ihrer Dauer.
+Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Anordnung von Klängen und die Gestaltung ihrer Dauer.
 
 
 ---
@@ -83,7 +83,7 @@ Das Design konzentriert sich auf die untere Grenze des Hörbereichs und erzeugt 
 
 ### 4.2 Umgang mit räumlicher Aufnahme
 
-In Höhlen, unterirdischen Anlagen und Ruinen aufgenommene Materialien werden als Hauptbestandteile der Musik eingesetzt und nicht nur als Hintergrundgeräusche.
+Materialien, die in Höhlen, unterirdischen Anlagen und Ruinen aufgenommen wurden, werden als Hauptbestandteile der Musik eingesetzt und nicht nur als Hintergrundgeräusche.
 
 ### 4.3 Effektverarbeitung unterdrücken
 
@@ -121,7 +121,7 @@ Ritual Ambient vereint folgende Elemente:
 
 Raison d’être etablierte Ritual Ambient als „System“ und nicht als Einzelwerk.
 
-Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen nicht emotional ausdrückt, sondern in Klangstrukturen umwandelt.
+Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen in Klangstrukturen umwandelt, anstatt sie emotional auszudrücken.
 
 ---
 
@@ -131,7 +131,7 @@ Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen nicht emot
 
 Obwohl alle Lieder unabhängig voneinander sind, bilden sie je nach Reihenfolge, in der sie arrangiert werden, einen rituellen Fluss.
 
-### 8.2 Auswahl des Klangmaterials
+### 8.2 Auswahl des Tonmaterials
 
 * Pfeifenorgelklang
 * Glockenharmonische
@@ -201,7 +201,7 @@ Gemeinsam ist ihnen, dass der Ton keine Erklärungen liefert.
 
 ## 13. Zu beachtende Punkte in der zeitgenössischen Produktion
 
-* Zu viele Geräusche behindern das Eintauchen
+* Eine zu große Anzahl an Geräuschen behindert das Eintauchen
 * Der Einsatz kann strukturell destruktiv sein
 * Schalldruckwettbewerb ist nicht unbedingt erforderlich
 
@@ -237,7 +237,7 @@ Obwohl die produzierte Stückzahl begrenzt ist, behält es seinen Wert als Refer
 
 ## 16. Fazit
 
-Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründeten.
+Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründet haben.
 
 Ihr Einfluss ist keine musikalische Nachahmung;
 

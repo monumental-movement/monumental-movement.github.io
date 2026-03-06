@@ -69,7 +69,7 @@ color: #fff;
 - 1997年的《Funcrusher Plus》是抽象嘻哈的代表作。
 - 平衡產業結構和實驗生產的重要性。
 
-### ● Anti-Pop Consortium（1997–）
+### ●反流行聯盟 (1997–)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYeC-s8sZLc?si=HnjDLiLC91E61Clq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

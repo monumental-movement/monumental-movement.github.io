@@ -11,17 +11,17 @@ tags:
 - Electro
 - Progressive House
 - 00s
-title: Deadmau5 – La récompense n’est pas exactement le fromage
+title: Deadmau5 – The Reward Is Cheese Not Exactly
 ---
 
 
-Joel Thomas Zimmerman, également connu sous le nom de Deadmau5, est un DJ et producteur canadien. Ses œuvres sous le nom de Deadmau5 se caractérisent par un style mélange de Progressive House et d'Electro House. Il a déjà été nominé pour six Grammy Awards.
+Deadmau5(デッドマウス)ことJoel Thomas Zimmermanはカナダ出身のDJ・プロデューサー。Deadmau5 名義での作品はProgressive HouseとElectro Houseをミックスさせたスタイルが特徴。これまでにグラミー賞に6回ノミネートされている。
 
-"The Reward Is Cheese / Not Exactly" est un morceau tech house électro progressif house sorti sur le label house français Royal Flush Records en 2008.
+「The Reward Is Cheese / Not Exactly」は、2008年にフレンチハウスレーベルRoyal Flush Recordsからリリースされたテックハウス・エレクトロ・プログレッシブハウストラック。
 
-A est une coproduction avec le DJ et producteur canadien Jelo.
+Aは、カナダのDJ・プロデューサーJeloとの共同制作。
 
-B est inclus dans le troisième album studio du groupe, « Random Album Title ».
+Bは、3枚目のスタジオアルバム『Random Album Title』（ランダム・アルバム・タイトル）に収録されている。
 
 #### Liste des chansons
 ```md

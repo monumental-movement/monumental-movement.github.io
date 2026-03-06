@@ -9,13 +9,13 @@ permalink: /zh-hant/band-aid-do-they-know-its-christmas/
 tags:
 - Rock
 - Pops
-title: 創可貼－他們知道今天是聖誕節嗎
+title: Band Aid – Do They Know It's Christmas
 ---
 
 
 Band Aid 是一個慈善計畫組織，由 Bob Geldof 和 Midge Ure 於 1984 年成立，旨在為埃塞俄比亞消除飢餓的工作籌集資金，匯集了英國和愛爾蘭的搖滾和流行巨星。
 
-[參與藝術家]如下。
+ 【参加アーティスト】は以下の通りです。
 
 ・菲爾柯林斯（創世紀）
 

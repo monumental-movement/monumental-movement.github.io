@@ -16,7 +16,7 @@ title: Benji Candelario Presents Arnold Jarvis – Learn To Give
 
 Benji Candelario는, 1990년대~2000년대 초, 서울풀한 DeepHouse 사운드로 평가되어 언더그라운드 하우스 씬으로 인기를 얻은 뉴욕 출신의 House DJ/프로듀서.
 
-2000년에 Frankie Knuckles와의 악곡 「Whistle Song」(1992)로 유명한 Eric Kupper 주재의 House/Deep House 라벨 Hysteria로부터 발매된 「Learn To Give」는, 소울 풀 하우스/갈라지의 보컬리스트 Arnold Jarvis를 피처한 딥 하우스 트랙.
+2000년에 Frankie Knuckles와의 악곡 「Whistle Song」(1992)로 유명한 Eric Kupper 주재의 House/Deep House 라벨 Hysteria로부터 발매된 「Learn To Give」는, 소울 풀 하우스/갈라지의 보컬리스트 Arnold Jarvis를 피처한 딥 하우스 트럭.
 
 
 

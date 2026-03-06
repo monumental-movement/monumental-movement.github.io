@@ -24,7 +24,7 @@ VHS, veröffentlicht im Jahr 2002 von PSF Records, das viele japanische Undergro
 
 Der Regisseur ist Soichiro Nobiki, ein Videokünstler, der für Hiroshi Mikamis „From Jomon to Space: Jomon Rock“ (VHS) verantwortlich war.
 
-Die künstlerische Leitung liegt bei Yasuyoshi Arai, der Jacken für Keiji Haino, Fushisha, John Zorn, Motoharu Yoshizawa und mehr entworfen hat.
+Die künstlerische Leitung liegt bei Yasuyuki Arai, der Jacken für Keiji Haino, Fushisha, John Zorn, Motoharu Yoshizawa und andere entworfen hat.
 
 Der Produzent ist Hideo Ikuetsu, Inhaber von P.S.F. Aufzeichnungen.
 

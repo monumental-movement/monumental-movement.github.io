@@ -30,7 +30,7 @@ Deep House ist eine House-Variante, die Ende der 1980er Jahre im Raum Chicago-Ne
 
 **1985–90: Early Early (Chicago/NJ)**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. Dem Fluss von [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) folgend, verschmilzt das süße Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. In Anlehnung an [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) eine Fusion aus dem süßen Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
 **1990er Jahre: Vertiefung und Diversifizierung**
 
@@ -49,7 +49,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musikalische Features
 
-**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠tragisch“.
+**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠Tragik“.
 
 **Beat**: Der Kick hat einen runden und tiefen Nachgeschmack. Die Hi-Hat ist ein Shuffle zu einem leichten Swing. Die Texturen 909/707/727 und 808 sind Standard.
 
@@ -82,7 +82,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 - Mr. Fingers – Amnesie
 
-- Ron Trent – ​​​​Veränderte Zustände
+- Ron Trent – ​​​​Veränderte Staaten
 
 - Kerri Chandler – Atmosphäre
 
@@ -155,7 +155,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Früher Höhepunkt**: Ron Trent/Chez Damiers treibende Kraft
 
-**Plateau**: Verfeinerung von Jimpster ~ Freerange
+**Plateau**: Verfeinerung von Jimpster zu Freerange
 
 **Farbwechsel**: Henrik Schwarzs Live-Feeling
 
@@ -183,7 +183,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ・Larry Heard präsentiert Mr. White – „The Sun Can’t Compare“
 
-・Kerri Chandler – „Atmosphere“
+・Kerri Chandler – „Atmosphäre“
 
 ・Ron Trent – ​​„Altered States“
 
@@ -204,4 +204,4 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musik, die man im Laufe der Zeit genießen kann, nicht in einem Moment
 
-Deep House ist Musik, die man im Laufe der Zeit genießen kann. Anstelle eines einzelnen, auffälligen Hits gibt es eine „bequeme Fortsetzung“, die Publikum und Zuhörer miteinander synchron hält. Wenn Sie alles verstehen, von historischen Ursprüngen bis hin zu aktuellen Substilen und den Geheimnissen der Produktion und des DJings, können Sie Ihre Auswahl und Wertschätzung erheblich vertiefen.
+Deep House ist Musik, die man im Laufe der Zeit genießen kann. Anstelle eines einzelnen, auffälligen Hits gibt es eine „bequeme Fortsetzung“, die Publikum und Zuhörer miteinander synchron hält. Wenn Sie alles verstehen, von historischen Ursprüngen bis hin zu aktuellen Substilen und den Geheimnissen der Produktion und des DJings, können Sie Ihre Auswahl und Ihr Verständnis erheblich vertiefen.

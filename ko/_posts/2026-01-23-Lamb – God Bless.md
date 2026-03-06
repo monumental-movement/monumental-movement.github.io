@@ -15,7 +15,7 @@ title: Lamb – God Bless
 
 
 
-Lamb(램)은, 트립 홉, 정글, 더브, 드럼&베이스, 재즈를 융합시킨 스타일이 특징의, 영국 맨체스터의 일렉트로닉·듀오. 히트 싱글 「Gorecki」 「Gabriel」로 잘 알려져 있다.
+Lamb(램)은, 트립 홉, 정글, 더브, 드럼&베이스, 재즈를 융합시킨 스타일이 특징의, 영국 맨체스터의 일렉트로닉 듀오. 히트 싱글 「Gorecki」 「Gabriel」로 잘 알려져 있다.
 
 'God Bless'는 1996년 라벨 Fontana 출시된 데뷔 스튜디오 앨범 'Lamb'에서 맥시 싱글로 출시된 Drum n Bass/Trip Hop 트랙.
 

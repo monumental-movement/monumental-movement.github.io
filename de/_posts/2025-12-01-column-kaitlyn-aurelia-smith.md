@@ -74,7 +74,7 @@ Diese Transformation ist die Grundlage für alle seine nachfolgenden Werke.
 
 Ihr frühes Werk umfasste selbstproduzierte Folk- und experimentelle Tracks. Doch erst als er begann, mit dem Buchla Music Easel aufzunehmen, begann er, sich ernsthaft mit modularer/elektronischer Musik zu beschäftigen.
 
-Diese Aufnahme wurde später in Form von Tides: Music for Meditation and Yoga veröffentlicht. Windspiele, raschelnde Bäume, Vogelgezwitscher, Wassergeräusche, kleine Naturgeräusche – dieses Werk kombiniert Umgebungsgeräusche/Feldaufnahmen mit modularen elektronischen Wellenformen.
+Diese Aufnahme wurde später als Werk mit dem Titel Tides: Music for Meditation and Yoga veröffentlicht. Windspiele, raschelnde Bäume, Vogelgezwitscher, Wassergeräusche, kleine Naturgeräusche – dieses Werk kombiniert Umgebungsgeräusche/Feldaufnahmen mit modularen elektronischen Wellenformen.
 
 Zu diesem Zeitpunkt hat es noch keine große Sensation hervorgerufen. Allerdings war die Richtung „modular + natürliche Klänge/Umgebungsgeräusche + Räumlichkeit“ bereits klar und das Grundgefühl ihrer Musik zeichnete sich ab.
 
@@ -125,7 +125,7 @@ Indem er Buchlas elektronische Wellenformen mit dem Rauschen des Waldes, dem Kla
 Die Instabilität von Buchla, die manuelle Natur des Patchens, die unkontrollierbaren Abweichungen und Schwankungen – diese werden nicht als „Fehler“, sondern eher als „kreative Spielräume“, „unerwartete chemische Veränderungen“ und „gute Zufälle“ begrüßt.
 
 - **Körpergefühl und Vibrationserlebnis**
-Wir betrachten Schall nicht als etwas, das Sie mit Ihren Ohren hören, sondern als etwas, das Sie mit Ihrem Körper spüren und als Vibrationen wahrnehmen. Stimme, Atmung, Bewegung, Vibration – durch die Verknüpfung mit den elektrischen Schwingungen des Synthesizers wird Musik zu einer Wahrnehmung erweitert, die nicht nur den Hörsinn, sondern den gesamten Körper nutzt.
+Anstatt Schall als etwas zu betrachten, das Sie mit Ihren Ohren hören, betrachten wir ihn als etwas, das Sie mit Ihrem Körper spüren und als Vibrationen wahrnehmen. Stimme, Atmung, Bewegung, Vibration – durch die Verbindung dieser mit den elektrischen Schwingungen des Synthesizers wird Musik zu einer Wahrnehmung erweitert, die nicht nur den Hörsinn, sondern den gesamten Körper nutzt.
 
 - **Mehrere Ebenen von Zeitlichkeit, Räumlichkeit und Erinnerung**
 Drohnen, Wellen, Flächen und Feldaufnahmen verlängern die Zeit, verdichten den Raum und schaffen im Klang Erinnerungen, Emotionen und Verbindungen zur Natur.
@@ -136,7 +136,7 @@ Diese Philosophie definiert modulare Synthesizer nicht nur als Klangquellen oder
 
 ## Schallentwicklung – Zeitreihen und Schallbahn
 
-Das Folgende ist eine Geschichte ihres Sounds, der sich um ihre Hauptwerke dreht und sich zwischen „elektronisch/experimentell ⇔ organisch/physisch/räumlich“ hin und her bewegt.
+Das Folgende ist ein Verlauf ihres Klangs, der sich auf ihre Hauptwerke konzentriert und sich zwischen „elektronisch/experimentell ⇔ organisch/physisch/räumlich“ hin und her bewegt.
 
 <div class="mermaid">
 graph TD
@@ -170,9 +170,9 @@ Auf diese Weise hat sich ihr Klang nicht linear entwickelt, sondern auf komplexe
 
 ---
 
-## Abschluss – Eine Nachricht an diejenigen, die Buchla lieben
+## Fazit – Nachricht an diejenigen, die Buchla lieben
 
-Kaitlyn Aurelia Smiths Reise war nie ein technisches Experiment oder eine Zurschaustellung ihres Könnens. Ihr Ziel ist es, eine reichhaltige und poetische „Welt der Empfindungen“ zu schaffen, die „Körper, Natur, Elektrizität, Zeit und Raum“ durch das „technische Gerät“ eines modularen Synthesizers miteinander verbindet.
+Kaitlyn Aurelia Smiths Reise war nie ein technisches Experiment oder eine Zurschaustellung ihrer Fähigkeiten. Ihr Ziel ist es, eine reichhaltige und poetische „Welt der Empfindungen“ zu schaffen, die „Körper, Natur, Elektrizität, Zeit und Raum“ durch das „technische Gerät“ eines modularen Synthesizers miteinander verbindet.
 
 Wenn Sie Buchla und modulare Synthesizer nicht nur als Ausrüstung, sondern als „lebende Klanggefäße“, „vibrierende Körper“ und „eine Mischung aus Zufall und Notwendigkeit“ lieben, wird ihre Arbeit Ihnen als Wegweiser für Ihre Erkundung dienen.
 

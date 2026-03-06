@@ -13,7 +13,7 @@ title: Sound Associates – Rock The Beat Slipstream
 ---
 
 
-UK 테크노 씬으로 활약하는 DJ Daz Saund(DJ 다즈·쏘드)와 Ben Tisdall(벤·티스달)에 의한 유닛 Sound Associates(사운드 어소시에이츠)가 1999년에 벨기에의 테크노 라벨 Music Man Records로부터 릴리스 한 테크노 트랙.
+UK 테크노 씬으로 활약하는 DJ Daz Saund(DJ다즈·쏘드)와 Ben Tisdall(벤·티스달)에 의한 유닛 Sound Associates(사운드 어소시에이츠)가 1999년에 벨기에의 테크노 라벨 Music Man Records로부터 릴리스 한 테크노 트랙.
 
 Sound Associates는 일명 Daz Saund & Ben Tisdall과 Housewerk로도 알려져 있습니다.
 

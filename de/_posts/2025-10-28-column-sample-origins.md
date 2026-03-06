@@ -141,7 +141,7 @@ Der sanfte Groove hat ein Maß an Perfektion, das sich anfühlt, als wäre er mi
 ---
 
 #### 14. Berg – „Long Red“ (1972)
-The chant "You know what I mean!" wurde oft von Public Enemy und De La Soul bei Live-Auftritten verwendet.
+Der Gesang „Du weißt, was ich meine!“ wurde häufig von Public Enemy und De La Soul bei Live-Auftritten verwendet.
 Dies ist ein großartiges Beispiel dafür, wie ein einfacher Rocksong durch Vocal-Sampling zu einem Hip-Hop-„Teil“ wird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -202,7 +202,7 @@ Wird von The Roots, Eric B. & Rakim, Arrested Development und anderen verwendet.
 | 1989 | „Fear of a Black Planet“ von Public Enemy etabliert mehrere Sampling-Techniken. |
 | 1994 | Wu-Tang Clan, RZAs „Noise Sampling“ schafft einen neuen Trend. |
 | 2000er | Daft Punk und Kanye West verwandeln Soul-Samples in Pop. |
-| 2020er | Auf dem Weg zu einer neuen Ära der KI-Sampling- und Urheberrechtsfragen. |
+| 2020er Jahre | Auf dem Weg zu einer neuen Ära der KI-Sampling- und Urheberrechtsfragen. |
 
 ---
 

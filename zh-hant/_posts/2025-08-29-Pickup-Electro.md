@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp;
 
-重點：《Side B》是一首黑暗的歌曲，電子感特別強。寧靜的氛圍中瀰漫著一種“機械的張力”，將你帶入一個冷靜而深刻的世界觀。
+重點：《Side B》是一首電子感特別強烈的黑暗歌曲。寧靜的氛圍中瀰漫著一種“機械的張力”，將你帶入一個冷靜而深刻的世界觀。
 
 魅力：黑暗而緊張的電子樂
 
@@ -124,7 +124,7 @@ B. Video Hi 8 (Instrumental)
 ### Beroshima – 機器舞
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp">Machine.webp">
 
-重點：由 Frank Muller 於 1994 年組成的德國電子專案 Beroshima 發行。 Ulrich Schnauss 也參與其中，他們的電子音樂融合了極簡主義和迪斯科風格。
+ポイント：1994年に結成されたジャーマン・エレクトロプロジェクトBeroshimaのFrank Mullerによるリリース。Ulrich Schnaussも参加していたことがあり、ミニマル＆ディスコ的アプローチが融合されたエレクトロサウンドが特徴です。
 
 魅力：簡約與迪斯可電子
 
@@ -177,7 +177,7 @@ B. Schmetterball
 
 
 ### 德爾科斯塔 & 佩德羅·戈雅 – 《怪異麥克》
-<a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%73%200%173%>
+<a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%73%20093%</webp.
 
 亮點：葡萄牙資深製作人二人組的作品。包含原始版本和混音版本，讓您享受簡約且適合跳舞的電子曲目。
 

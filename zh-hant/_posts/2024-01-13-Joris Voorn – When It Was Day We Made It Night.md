@@ -14,7 +14,7 @@ title: Joris Voorn – 當白天我們變成夜晚
 ---
 
 
-Joris Voorn 是來自荷蘭阿姆斯特丹的 DJ、製作人和混音師。自1997年以来，他致力于house和techno。
+Joris Voorn 是來自荷蘭阿姆斯特丹的 DJ、製作人和混音師。自1997年以來，他致力於house和techno。
 
 Green and Rejected 品牌的創辦人之一。
 

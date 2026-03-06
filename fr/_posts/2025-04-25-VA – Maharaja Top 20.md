@@ -16,9 +16,9 @@ title: VA – Maharaja Top 20 Vol. III
 ---
 
 
-Maharaja TOP20 vol.Ⅲ
+マハラジャ TOP20 vol.Ⅲ
 
-Pas à vendre
+非売品
 
 
 #### Liste des chansons

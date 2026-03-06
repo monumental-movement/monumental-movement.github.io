@@ -51,7 +51,7 @@ color: #fff;
 
 Von Ende der 1970er bis Anfang der 1980er Jahre löste sich die Post-Punk-Musikszene vom herkömmlichen Rockformat und begann, introspektivere und abstraktere Ausdrucksformen anzunehmen. Die Einführung von Synthesizern und Drum Machines, minimalistische Strukturen und die Betonung des Bassbereichs bildeten die Grundlage für spätere Dark-Wave-Sounds.
 
-Etwa zur gleichen Zeit erwachte insbesondere in Europa das Interesse an mittelalterlicher Musik und religiöser Musik wieder und es wurden die Grundlagen für Versuche gelegt, zeitgenössische Musikproduktion mit historischen Klangmaterialien zu verbinden.
+Etwa zur gleichen Zeit erwachte vor allem in Europa das Interesse an mittelalterlicher und religiöser Musik wieder und es wurden die Grundlagen für Versuche gelegt, zeitgenössische Musikproduktion mit historischen Klangmaterialien zu verbinden.
 
 ### Ende der 1980er Jahre: Entstehung des Prototyps
 
@@ -74,7 +74,7 @@ In diesem Genre werden neben Dur- und Moll-Tonarten häufig auch Kirchentonarten
 
 ### Rhythmus und Tempo
 
-Das Tempo ist überwiegend mittel bis niedrig und selbst wenn der Rhythmus klar ist, wird die treibende Kraft unterdrückt. Der sich wiederholende Rhythmus betont den rituellen Charakter und dient dazu, das Zeitgefühl zu verschleiern.
+Das Tempo ist meist mittel bis niedrig und selbst wenn der Rhythmus klar ist, wird die treibende Kraft unterdrückt. Der sich wiederholende Rhythmus betont den rituellen Charakter und dient dazu, das Zeitgefühl zu verschleiern.
 
 ### Organisation
 

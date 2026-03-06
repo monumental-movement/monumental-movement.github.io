@@ -16,7 +16,7 @@ title: Ramirez – Terapia (Hocus Pocus Remixes + DMC UK Rmx)
 
 
 
-Ramirez는 90년대 초반 이탈리아 DFC 라벨에 의한 일렉트로닉 댄스 뮤직 프로젝트. DFC의 프로덕션 팀, Davide Rizzatti, Elvio Moratto, Ricki Persi, 가수 Alex Quiroz Buelvas 등이 참가하고 있다.
+Ramirez는 90년대 초에 이탈리아 DFC 라벨에 의한 일렉트로닉 댄스 뮤직 프로젝트. DFC의 프로덕션 팀, Davide Rizzatti, Elvio Moratto, Ricki Persi, 가수 Alex Quiroz Buelvas 등이 참가하고 있다.
 
 Terapia는 1993년 라벨 DFC에서 출시된 Trance/Hardcore/Techno 트랙.
 

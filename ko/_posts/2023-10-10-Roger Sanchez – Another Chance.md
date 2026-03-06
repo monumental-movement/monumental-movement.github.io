@@ -15,7 +15,7 @@ title: Roger Sanchez – Another Chance
 
 Roger Sanchez(로저 산체스)는 US 하우스 DJ/리믹서/프로듀서. 2003년에 No Doubt(노다우트) 「Hella Good」의 리믹스로 그래미상을 수상.
 
-2001년에 Defectod에서 발표된 「Another Chance 어나더 찬스」는, 세계적으로 히트가 된 Roger Sanchez의 대표곡.
+2001년에 Defectod에서 발표된 「Another Chance 어나더 찬스」는 세계적으로 히트가 된 Roger Sanchez의 대표곡.
 
 #### Tracklist
 ```md

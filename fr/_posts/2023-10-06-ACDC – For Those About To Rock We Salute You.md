@@ -15,7 +15,7 @@ title: ACDC – Pour ceux qui sont sur le point de rocker, nous vous saluons
 
 "For These About to Rock We Salute You" est le huitième album d'AC/DC. L'album présente les riffs de guitare lourds, les rythmes de batterie explosifs et la voix puissante de Brian Johnson.
 
-Cet album s'appuie sur le succès de leur précédent album, Back in Black, et continue son énergie et sa gloire.
+Cet album s'appuie sur le succès de leur précédent album « Back in Black » et continue son énergie et sa gloire.
 
 L'album comprend la chanson à succès "For These About to Rock (We Salute You)", ainsi que des chansons telles que "Let's Get It Up", "Inject the Venom" et "Evil Walks".
 

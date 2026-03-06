@@ -156,7 +156,7 @@ Minimal Wave/Coldwave-Schallplatten und -Kassetten haben eine gemeinsame Ästhet
 
 ### ● 5-2. So verwenden Sie Fotos
 - Künstlerfotos sind ausdruckslos und haben einen starken Kontrast
-- Viele Hintergründe sind Industriegebiete/Untergrund/Ruinen usw.
+- Viele Hintergründe umfassen Industriegebiete/Untergrund/Ruinen usw.
 
 ### ● 5-3. DIY-Drucktextur
 - Risograph, Siebdruck, Kopiermaschinenrauheit

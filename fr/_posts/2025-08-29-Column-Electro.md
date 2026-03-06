@@ -24,7 +24,7 @@ Texte : mmr｜Thème : Battement de cœur électronique né du breakdance
 
 ### Introduction
 
-L'électro est une tendance de la musique électronique apparue au début des années 1980. Basés sur des rythmes funk et hip-hop, ils ont réalisé une évolution unique en utilisant les rythmes des machines à rythmes, notamment la Roland TR-808, comme noyau. Le son futuriste des basses profondes, des caisses claires sèches et des synthétiseurs a laissé une forte influence sur la techno, la house, l'électroclash et même la bass music moderne.
+L'électro est une tendance de la musique électronique apparue au début des années 1980. Basés sur des rythmes funk et hip-hop, ils ont réalisé une évolution unique en utilisant les rythmes des boîtes à rythmes, notamment la Roland TR-808, comme noyau. Le son futuriste des basses profondes, des caisses claires sèches et des synthétiseurs a laissé une forte influence sur la techno, la house, l'électroclash et même la bass music moderne.
 
 <hr>
 

@@ -9,7 +9,7 @@ permalink: /de/carbine-house-your-booty-funky-old-cortina/
 tags:
 - Techno
 - Acid
-title: Karabiner – Bringen Sie Ihren Hintern unter, Funky Old Cortina
+title: Karabiner – Bringen Sie Ihre Beute unter, Funky Old Cortina
 ---
 
 

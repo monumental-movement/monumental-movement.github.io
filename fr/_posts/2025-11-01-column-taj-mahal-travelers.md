@@ -19,7 +19,7 @@ title: '[Chronique] Taj Mahal Travel Group et Takehisa Kosugi - Un voyage pour l
 ## I. Point de départ dans les années 1960 : Au-delà des institutions musicales
 
 
-Texte : mmr｜Thème : Un pèlerinage sonore où s'entremêlent improvisation et sons environnementaux - Un enregistrement d'un voyage vers l'extérieur de la musique dessiné par Takehisa Kosugi et le Taj Mahal Travel Group
+Texte : mmr｜Thème : Un pèlerinage sonore où s'entremêlent improvisation et sons environnementaux - Un enregistrement d'un voyage vers l'extérieur de la musique, dessiné par Takehisa Kosugi et le Taj Mahal Travel Group
 
 
 Au début des années 1960, la scène musicale d’avant-garde japonaise était tranquillement florissante.
@@ -86,7 +86,7 @@ Il a mis en pratique la philosophie selon laquelle « le lieu lui-même devient 
 
 En 1971, le Taj Mahal Tour Group part pour une tournée en Europe.
 Leur voyage n’était pas seulement une tournée, mais un « pèlerinage sonore ».
-En extérieur, sans source d’énergie ni scène, le spectacle a été improvisé et résonné avec le vent, l’eau, la foule et les ondes radio.
+En extérieur, sans source d’électricité ni scène, le spectacle a été improvisé et résonné avec le vent, l’eau, la foule et les ondes radio.
 
 ### Itinéraire (carte Sirène)
 
@@ -112,7 +112,7 @@ Les performances d'improvisation dans divers lieux allaient des installations cu
 
 ---
 
-## VI. Déconstruction et expansion du son : le rituel de l'improvisation
+##VI. Déconstruction et expansion du son : le rituel de l'improvisation
 
 Les performances des touristes du Taj Mahal n'ont pas les « chansons » ou la « structure » habituelles.
 Il s’agit plutôt de l’acte d’émettre du son dans l’environnement et d’attendre une résonance fortuite.
@@ -133,7 +133,7 @@ Il est très apprécié comme un « paysage sonore » qui combine parfaitement l
 
 Il n'y a ni rythme ni mélodie sur l'album.
 Au lieu de cela, le son du vent, les sons électroniques, les voix et la résonance des cordes se croisent doucement,
-Il présente une expérience qui invite l'auditeur « à l'intérieur du son ».
+Il présente une expérience qui invite l'auditeur à entrer « à l'intérieur du son ».
 
 ---
 
@@ -147,7 +147,7 @@ Il a également influencé Brian Eno et Robert Ashley.
 
 ---
 
-##IX. Activités ultérieures et évaluation
+##IX. Activités et évaluation au cours des années suivantes
 
 Depuis les années 1980, Kosugi est directeur musical de la Merce Cunningham Dance Company.
 Tout en héritant de la philosophie de John Cage, il approfondit l'intégration de la danse et du son.
@@ -172,7 +172,7 @@ C’est le message le plus important que Kosugi nous a laissé.
 | 1960 | Diplômé de la Faculté de Musique de l'Université des Arts de Tokyo |
 | 1961-63 | Participation à des activités de musique expérimentale d'avant-garde avec Kei Ichiyanagi, Toru Takemitsu et d'autres |
 | 1964 | ``Musique Collective'' formée, interprétée avec Cage & Tudor |
-| 1965-68 | Performances de type Fluxus (Sogetsu Art Center, etc.) |
+| 1965-1968 | Performances de type Fluxus (Sogetsu Art Center, etc.) |
 | 1969 | Création du « Taj Mahal Travel Group » |
 | 1971-1972 | Pèlerinage musical de l'Inde à l'Europe |
 | 1972 | 《Voyageurs du Taj Mahal – 15 juillet 1972》 Annonce |
@@ -204,7 +204,7 @@ C’était un voyage spirituel qui transcendait l’institution musicale et rés
 > « Nous sommes des voyageurs, pas des artistes. »
 > – Takehisa Kosugi
 
-Aujourd’hui encore, un demi-siècle plus tard, les sons qu’ils émettaient résonnent encore.
+Même aujourd’hui, un demi-siècle plus tard, les sons qu’ils émettaient résonnent encore.
 Il continue de vibrer doucement dans l’air, dans les souvenirs et au plus profond du cœur des auditeurs.
 
 ---

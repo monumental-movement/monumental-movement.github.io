@@ -9,11 +9,11 @@ permalink: /fr/dmx-krew-showroom-dummies/
 tags:
 - Electro
 - Techno
-title: DMX Krew – Mannequins de salle d’exposition
+title: DMX Krew – Showroom Dummies
 ---
 
 
-DMX Krew (Ed Upton) EP sorti en 1998 sur le label allemand International Deejay Gigolo Records.
+1998年にドイツのレーベルInternational Deejay Gigolo RecordsからリリースされたDMX Krew（Ed Upton / エド・アップトン）のEP。
 
 #### Liste des chansons
 ```md

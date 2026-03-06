@@ -9,15 +9,15 @@ permalink: /fr/various-dance-panic/
 tags:
 - House
 - Rare
-title: Divers – Danse Panique
+title: Various – Dance Panic
 ---
 
 
-Scorccio (Mark Summers) et Jay Williams remixent Number One de la chanteuse britannique Billie Godfrey.
+UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
 
-DJ Visage est un projet de transe dirigé par le DJ danois Martin Sig et produit par l'Autrichien Norbert Reichart.
+DJ Visageは、デンマーク人のDJ Martin Sigがフロントを務め、オーストリア人のNorbert Reichartがプロデュースするトランスプロジェクト。
 
-Airplay est un duo de transe électronique composé de Danny Corten et Eddy Weyns.
+Airplayは、Danny CortenとEddy Weynsによるエレクトロニックトランスデュオ。
 
 #### Liste des chansons
 ```md

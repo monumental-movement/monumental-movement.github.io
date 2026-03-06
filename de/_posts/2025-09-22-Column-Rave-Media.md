@@ -79,7 +79,7 @@ Rave war keine Klangquelle oder Partitur, sondern ein Phänomen selbst. Daher st
 
 ### Wer archiviert? Medienverfall
 
-**● Spontane Archive aus dem Untergrund**
+**● Spontanes Archiv aus dem Untergrund**
 
 Seit den 2000er Jahren haben weltweit die folgenden Versuche begonnen.
 

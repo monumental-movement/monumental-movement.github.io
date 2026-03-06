@@ -19,7 +19,7 @@ Das Album ist vollgepackt mit den charakteristischen Post-Punk- und New-Wave-Ele
 
 Es enthält viele Hits wie „Burning Down the House“ und „This Must Be the Place (Naive Melody)“.
 
-Dieses Album ist ein Muss für jeden Talking Heads-Fan und sein einzigartiger Sound und die intelligenten Texte machen „Speaking In Tongues“ zu einem Meilenstein in der Geschichte der Rockmusik.
+Dieses Album ist ein Muss für jeden Talking Heads-Fan und der einzigartige Sound und die intelligenten Texte von „Speaking In Tongues“ machen es zu einem Meilenstein in der Geschichte der Rockmusik.
 
 
 #### Trackliste

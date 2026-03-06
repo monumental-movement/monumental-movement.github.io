@@ -15,7 +15,7 @@ title: VA – Mad Maxx
 ---
 
 
-라파아리야의 MC Q가 중심이 되어 시작한 라벨 주마당 Entertainment로부터 2000년에 릴리스 된 「Hardcore x HipHop」의 기획 앨범.
+라파아리야의 MC Q가 중심이 되어 시작한 라벨 주마당 Entertainment로부터 2000년에 릴리스된 「Hardcore x HipHop」의 기획 앨범.
 
 참가 아티스트: 우마키, 리얼 스타일러, Cocobat, You The Rock, Wrench, Egg Man, Three Side, Pochomkin, Low IQ 01, UBG Family, Chest Hole, Backgamon, Anarch, Rappa Reya
 

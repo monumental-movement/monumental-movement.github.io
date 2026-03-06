@@ -19,7 +19,7 @@ title: Récupérer des œuvres de techno allemande
 
 <hr>
 
-### Trésor Compilation Vol. 7
+### Tresor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 

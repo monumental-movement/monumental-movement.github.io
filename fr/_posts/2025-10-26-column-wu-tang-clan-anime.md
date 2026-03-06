@@ -24,7 +24,7 @@ De là est né un groupe appelé « Xiaolin » qui a bouleversé l’histoire du
 **Wu-Tang Clan** - La chaîne de mots combatifs et philosophiques tissés par neuf MC était une forme d'art étrange qui combinait la violence de rue avec la tranquillité bouddhiste.
 
 Au cœur de leur vision du monde, **les films de kung-fu, la philosophie orientale et « l’imagination animée »** coexistaient.
-Pour la jeunesse noire américaine des années 1990, la culture asiatique était une « arme spirituelle exotique » et un moyen d’échapper à l’oppression sociale.
+Pour la jeunesse noire américaine des années 1990, la culture asiatique était à la fois une « arme spirituelle exotique » et un moyen d’échapper à l’oppression sociale.
 Wu-Tang Clan a échantillonné Bruce Lee, Sun Tzu et Lao Tzu, et a ensuite résonné fortement avec l'esthétique de l'anime japonais.
 
 ---
@@ -56,7 +56,7 @@ RZA (le chef spirituel du Wu-Tang) a déclaré plus tard :
 > « Les guerriers animés étaient notre vie.
 > Ils se sont entraînés dans la solitude et ont lutté contre le monde. »
 
-Ce « shaolin spirituel = histoire d'entraînement » a une structure similaire à la lutte de rue.
+Ce « shaolin spirituel = histoire d'entraînement » a une structure similaire à celle des luttes de rue.
 L'« image de soi du samouraï » défendue par les membres du Wu-Tang Clan est devenue le prototype du « stoïcisme de type anime » qui s'est ensuite répandu dans le hip-hop.
 
 ---
@@ -68,7 +68,7 @@ L'audio du film de kung-fu « Shaolin Thirty-Six Chambers » est échantillonné
 Depuis, les motifs sonores asiatiques sont fréquemment apparus dans la musique du Wu-Tang.
 Mokugyo, le koto, le shakuhachi, le son des cloches des temples, tels étaient les symboles de « l'Orient » en tant que sons.
 
-Cependant, dans les années 2000, son intérêt s'est étendu aux « anime japonais ».
+Cependant, dans les années 2000, son intérêt s’est étendu aux « anime japonais ».
 RZA a montré un grand respect pour **Nujabes**, qui était le superviseur musical de "Samurai Champloo".
 Ghostface Killah a étendu son pseudonyme de « Tony Starks » à « Iron Man ».
 Il s'est ensuite impliqué dans la production de la bande originale d'Afro Samurai.
@@ -76,7 +76,7 @@ Il s'est ensuite impliqué dans la production de la bande originale d'Afro Samur
 
 ---
 
-## Chapitre 3 : « Afro Samurai » et la chaîne des réimportations
+## Chapitre 3 : « Afro Samurai » et la chaîne de réimportation
 
 En 2007, l'anime japonais « Afro Samurai » a été diffusé dans tout le pays.
 Le doubleur est Samuel L. Jackson.
@@ -210,5 +210,13 @@ Les personnages d’anime et les rappeurs sont tous confrontés à la même ques
 **« Comment s'entraîner et comment lutter contre le monde »**
 
 C’est le plus grand héritage laissé par le clan Wu-Tang.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S46YQYuxx_I?si=-fAD-tm5XD8It5kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

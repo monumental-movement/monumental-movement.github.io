@@ -50,7 +50,7 @@ Leurs racines musicales se situent dans la culture Public Enemy, Electro Funk et
 Ses premiers travaux, Incunabula (1993), sentent bon les débuts de l'IDM, où les mélodies subsistent encore.
 La suite, « Amber » (1994), a captivé de nombreux auditeurs par son lyrisme et sa spatialité. En combinant un synthétiseur analogique (Roland SH-101, Oberheim Matrix-6) et un échantillonneur numérique, ils ont créé un espace entre l'humain et la machine.
 
-> "Nous n'avons pas oublié la piste de danse. Nous voulions juste réimaginer pourquoi nos corps bougent."
+> "Nous n'avons pas oublié la piste de danse. Nous voulions juste réimaginer la raison pour laquelle nos corps bougent."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pU7-yr70ntw?si=sEwVtn1PRCrpcwbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

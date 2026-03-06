@@ -22,7 +22,7 @@ title: '[Chronique] Strictly Rhythm — De ses origines à nos jours : contexte
 Texte : mmr｜Thème : De la création du légendaire label house new-yorkais **Strictly Rhythm** à nos jours, organisé par époque du point de vue du contexte historique, des chefs-d'œuvre représentatifs et des tendances des équipements de production de l'époque.
 
 
-Strictly Rhythm (communément appelé Strictly) est un label spécialisé house fondé à New York en 1989. Avec leur sens A&R aiguisé dans la rue et leur sélection de chansons orientée club, ils ont dominé la scène house des années 90 à New York et dans le monde. Le label excellait dans la découverte et le développement de DJ/producteurs tout en trouvant un équilibre entre les « sons » underground et les succès commerciaux.
+Strictly Rhythm (communément appelé Strictly) est un label spécialisé house fondé à New York en 1989. Avec leur sens A&R aiguisé dans la rue et leur sélection de chansons orientée club, ils ont dominé la scène house à New York et dans le monde dans les années 1990. Le label excellait dans la découverte et le développement de DJ/producteurs tout en trouvant un équilibre entre les « sons » underground et les succès commerciaux.
 
 ---
 
@@ -50,7 +50,7 @@ color: #fff;
 - Roger Sanchez — *Luv Dancin'* (1990, sous le nom de Underground Solution)
 
 **Tendances d'équipement**
-Il y avait de nombreuses productions utilisant des platines vinyles et des échantillonneurs (les premières séries SP et Akai) qui tiraient parti de la « sensation de boucle » des disques.
+De nombreuses productions utilisaient des platines vinyles et des échantillonneurs (les premières séries SP et Akai) pour profiter de la « sensation de boucle » des disques.
 
 ---
 
@@ -61,7 +61,7 @@ Il y avait de nombreuses productions utilisant des platines vinyles et des écha
 | 3 | Disque dur | Au plus profond de moi | Une chanson deep house classique avec une mélodie émouvante. |
 | 4 | Georges Morel | Groovons | House des débuts de New York avec un groove minimaliste mais exceptionnel. |
 | 5 | Maîtres au travail | La danse Ha | Une œuvre qui met l'accent sur les éléments percussifs de la house. |
-| 6 | Kenny Dope | L'EP Bucketheads | Utilisation impressionnante d’échantillons et de rythmes innovants. |
+| 6 | Kenny Dope | L'EP Bucketheads | Utilisation impressionnante d'échantillons et de rythmes innovants. |
 | 7 | Le réseau souterrain | Tout va bien | Un hit club avec un équilibre parfait entre mélodie et rythme. |
 | 8 | Groove Armada | La musique house ne mourra jamais | Hommage à House, influençant les versions ultérieures. |
 | 9 | Logique | L'avertissement (Juan Atkins Remix) | Une fusion rafraîchissante d'approche techno et de house. |
@@ -164,7 +164,7 @@ L'orientation DAW, les sources sonores plug-in et la modélisation logicielle/an
 
 **Contexte de l'époque** : La valeur d'investissement des catalogues musicaux est en expansion. Le catalogue de danse des années 90 est réévalué avec du matériel échantillonné, des rééditions et des licences.
 
-**Que s'est-il passé** : En 2013, BMG a acquis le catalogue principal Strictly Rhythm. Les droits de publication ont ensuite été transférés.
+**Que s'est-il passé** : En 2013, BMG a acquis le catalogue principal Strictly Rhythm. Après cela, les droits de publication ont également été transférés.
 
 **Position actuelle**
 La marque/catalogue est toujours active et est utilisée comme « atout » pour les rééditions, les compilations, les licences, etc.
@@ -173,7 +173,7 @@ La marque/catalogue est toujours active et est utilisée comme « atout » pour 
 
 | Non | Artiste | Piste | Commentaires |
 |---|---|---|---|
-| 1 | Rois de demain | Enfin (Remasterisé 2014) | Deep house traditionnelle remasterisée avec une qualité sonore fluide. |
+| 1 | Rois de demain | Enfin (Remasterisé 2014) | Deep house traditionnelle remasterisée, qualité sonore douce. |
 | 2 | Denis Ferrer | Maniaque 3000 | Présente un rythme house moderne et sophistiqué. |
 | 3 | Quentin Harris | Ma joie (réédition) | Deep house rééditée pour les clubs. |
 | 4 | Barbara Tucker | Pensez (à ce sujet) 2015 Mix | Une réinterprétation de la house vocale, pleine d'émotion. |

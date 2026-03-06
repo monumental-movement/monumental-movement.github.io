@@ -87,7 +87,7 @@ Japan hat seit Ende der 1990er Jahre einen großen Einfluss auf die DMC-Welt.
 ### Wichtigste historische Themen
 - **1997: DJ KRUSH tritt der Jury bei (Symbol internationaler Anerkennung)**
 - **2000: DJ KENTARO gewinnt als erster Japaner die Weltmeisterschaft (höchste Punktzahl in der Geschichte)**
-- Seitdem haben DJ YASA, DJ HI-C, Kireek (5 Siege in Folge in der Teamkategorie) usw. weltweite Anerkennung erlangt.
+- Seitdem haben DJ YASA, DJ HI-C, Kireek (5 Siege in Folge in der Teamkategorie) und andere weltweite Anerkennung erlangt.
 
 Insbesondere KENTAROs Routine gilt als „hervorragend in Geschwindigkeit, Genauigkeit, Komposition und Musikalität“, was es zu einem der symbolträchtigsten Jahre in der Geschichte von DMC macht.
 
@@ -100,7 +100,7 @@ Mitte der 2000er Jahre, als **DVS (Digital Vinyl System)** populär wurde, gab e
 Im Jahr 2006 wurde die Verwendung von DVS in verschiedenen Formaten erlaubt, und das Turnier, das zuvor auf analoge Formate beschränkt war, akzeptierte den Stil der „Manipulation digitaler Tonquellen mit einem Plattenspieler“.
 
 Daraus ergibt sich
-- Nutzen Sie frei Ihre eigenen bearbeiteten Tonquellen
+- Nutzen Sie frei Originaltonquellen
 - Erweitert den Bereich der Routinekonfigurationen erheblich
 - Erhöhtes Tonspiel und melodischer Ausdruck
 Eine solche Entwicklung findet statt.
@@ -124,7 +124,7 @@ Insbesondere Ende der 2010er Jahre, als die Belastung durch die Betriebskosten z
 Infolgedessen entwickelte sich DMC eher zu einem von der Gemeinschaft geführten und geschützten Kulturgut als zu einer „kommerziellen Veranstaltung“.
 
 ## 5-2　Pandemiezeit: Umstellung auf Fernwettbewerb
-Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, weshalb DMC das Weltturnier vollständig online abhielt.
+Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, sodass DMC das Weltturnier vollständig online abhielt.
 Ausrüstungsunternehmen wie Rane und Technics unterstützten den Wettbewerb und leiteten eine Ära ein, in der Routinen als Videoarbeiten geschätzt wurden.
 
 ---
@@ -189,8 +189,8 @@ DMC etablierte den Ablauf der nationalen Vorrunden → nationale Meister → Wel
 Turntablism gibt es seit den 2000er Jahren.
 - DJ-Schule
 - Werkstatt
-- Universitätsfakultät für Musik- und Medienwissenschaften
-Es wurde auch in den Club integriert und als Musikgenre und nicht nur als Clubtechnik bewertet.
+- Abteilung für Musik und Medien der Universität
+Es ist mittlerweile als Musikgenre und nicht nur als Clubtechnik anerkannt.
 
 ---
 
@@ -336,7 +336,7 @@ flowchart LR
 
 ## **⑤ Trends der DMC-Weltkonferenz „Anzahl der teilnehmenden Länder“ (Konzeptdiagramm)**
 
-(Detaillierte jährliche Daten werden nicht veröffentlicht, daher nur steigende Trends und Periodenklassifizierungen)
+(Detaillierte Jahresdaten werden nicht veröffentlicht, daher nur steigende Trends und Periodenklassifizierungen)
 
 ### Veränderungen in der Anzahl der DMC-Teilnehmerländer (konzeptionelles Diagramm)
 

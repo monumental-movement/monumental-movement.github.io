@@ -160,7 +160,7 @@ During the alternative rock era of the 1990s, girl bands became genre-crossing e
 
 The European girl band scene has a different cultural background than America's. In Britain, class society and youth culture were closely linked, and for women to form a band was an expression of their social position.
 
-The post-punk era of the late 1970s and 1980s saw an increase in bands based in art schools and school networks, combining musical experimentation with political awareness. Within this context, female bands became a presence that played a role in the musical avant-garde and social critique.
+The post-punk era of the late 1970s and 1980s saw an increase in bands based in art schools and school networks, combining musical experimentation with political consciousness. Within this context, female bands became a presence that played a role in the musical avant-garde and social critique.
 
 In continental Europe, a scene is forming around Berlin and Paris where the boundaries between art and music are blurred. Female bands developed their own unique expressions while intersecting with club culture and performance art.
 

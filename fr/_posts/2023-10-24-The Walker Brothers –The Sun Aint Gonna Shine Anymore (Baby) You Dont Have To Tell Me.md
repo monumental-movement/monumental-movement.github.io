@@ -11,12 +11,12 @@ tags:
 - Rock
 - Pops
 - 60s
-title: The Walker Brothers – Le soleil ne brillera plus (bébé), tu n'es pas obligé
-  de me le dire
+title: The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have
+  To Tell Me
 ---
 
 
-Les Walker Brothers sont un groupe vocal formé à Los Angeles dans les années 1960.
+The Walker Brothers(ザ・ウォーカー・ブラザーズ )は、1960年代にロサンゼルスで結成されたボーカルグループ。
 
 #### Liste des chansons
 ```md

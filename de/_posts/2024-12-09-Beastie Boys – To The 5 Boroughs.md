@@ -15,7 +15,7 @@ title: Beastie Boys – Zu den 5 Bezirken
 ---
 
 
-„To the 5 Boroughs“ ist das sechste Studioalbum der US-Hip-Hop-Gruppe Beastie Boys, das 2004 veröffentlicht wurde. Das Album debütierte auf Platz eins der Billboard 200, verkaufte sich in der ersten Woche 360.000 Mal und wurde von der RIAA mit Platin ausgezeichnet.
+„To the 5 Boroughs“ ist das sechste Studioalbum der US-amerikanischen Hip-Hop-Gruppe Beastie Boys, das 2004 veröffentlicht wurde. Das Album debütierte auf Platz eins der Billboard 200, verkaufte sich in der ersten Woche 360.000 Mal und wurde von der RIAA mit Platin ausgezeichnet.
 Der 12. Titel ist ein Bonustrack, der nur in der japanischen Version verfügbar ist.
 
 #### Trackliste

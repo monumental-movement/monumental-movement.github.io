@@ -61,7 +61,7 @@ color: #fff;
 
 ---
 
-Vers 2009, Lil B a développé un style de rap hautement compatible avec la culture Internet, et les producteurs qui ont soutenu sa musique ont formé le prototype du Cloud Rap.
+Vers 2009, Lil B a développé un style de rap hautement compatible avec la culture Internet, et le groupe de producteurs qui soutenait sa musique a formé le prototype du Cloud Rap.
 
 ---
 
@@ -105,7 +105,7 @@ Centrées sur SoundCloud, la production et la consommation à grande vitesse se 
 
 ### ● Méthodologie Lo-Fi HipHop
 
-* Culture d'échantillonneurs tels que MPC
+* Culture d'échantillonneur telle que MPC
 * Bruit, texture analogique, distorsion de la cassette
 * Expansion de la culture du streaming sous le nom de Chillhop / Study Beats
 
@@ -135,7 +135,7 @@ XXXTENTACION a pratiqué un large éventail de styles, du cloud rap au hardcore,
 
 ---
 
-## VI. Vaportrap moderne / Cloud Rap (2019-2025)
+##VI. Vaportrap moderne / Cloud Rap (2019-2025)
 
 ### ● Internationalisation et élimination des différences régionales
 

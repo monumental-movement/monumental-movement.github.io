@@ -18,7 +18,7 @@ title: Various – Best Of Berlin Independence Days Volume II
 
 Mudhoney(매드 허니)는 NIRVANA 등 그런지/얼터너티 블록 뮤지션들에게 다대한 영향을 준 미국 시애틀 출신의 밴드.
 
-Young Gods(영 고츠)는, 1985년에 결성된 스위스의 인더스트리얼 록 밴드. 밴드명은, 미국의 포스트 펑크/엑스페리멘탈 록 밴드 Swans(스완즈)의 「Young God」로부터 취했다.
+Young Gods(영 고츠)는, 1985년에 결성된 스위스의 인더스트리얼 록 밴드. 밴드명은, 미국의 포스트 펑크/엑스페리멘탈 락 밴드 Swans(스완즈)의 「Young God」로부터 취했다.
 
 (전편 42분)
 

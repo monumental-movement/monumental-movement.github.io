@@ -109,7 +109,7 @@ Friedrich Kittler l'a déclaré dans « Media Archaeology ».
 Alors que le son évolue de « l'enregistrement » à la « lecture »,
 Le disque reste le seul support permettant de toucher le temps.
 
-Lorsque vous posez l’aiguille, elle émet un son, et lorsque vous la relevez, le silence revient.
+Lorsque vous posez l’aiguille, elle émet un son et lorsque vous la relevez, le silence revient.
 Au sein de ce mécanisme simple, il y a un **dialogue entre le temps et le corps**.
 
 ---
@@ -178,6 +178,14 @@ Le fantôme analogique est bien plus qu’un simple passe-temps rétro.
 C'est un symbole de la question de savoir comment les humains interagissent avec la mémoire, le toucher et le temps.
 
 L'« âme du son » qui réside au bout de l'aiguille continue de tourner tranquillement.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pxh2SnpHVc?si=C86GU4bYwAA_J9Rl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

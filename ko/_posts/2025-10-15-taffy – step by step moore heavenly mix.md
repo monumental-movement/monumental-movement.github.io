@@ -16,7 +16,7 @@ title: Taffy – Step By Step (Moore Heavenly Mix)
 
 Taffy (Katherine Quaye)는, 히트곡 「I Love My Radio 」로 알려진 UK의 이타로/하이에너지 싱어.
 
-이 레코드는 라벨 Rhythm King의 Sublave Transglobal에서 1987 년에 발표 된 Moore Heavenly의 Italodance Mix.
+이 레코드는 라벨 Rhythm King의 서브 레이브 Transglobal에서 1987 년에 발표 된 Moore Heavenly의 Italodance Mix.
 
 #### Tracklist
 ```md

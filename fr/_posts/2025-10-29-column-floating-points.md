@@ -69,7 +69,7 @@ Il s'agit d'une « improvisation réalisée par une machine » et c'est aussi un
 
 ### 4. Résonance de la lumière - Période des promesses (2021)
 Promises, co-écrit avec Pharoah Sanders, est une œuvre dans laquelle la pensée sonore scientifique de Floating Points atteint le royaume de l'âme.
-Cet album croise la « mesure du son » physique et le « sens du temps » métaphysique.
+Cet album croise la « mesure physique du son » et le « sens métaphysique du temps ».
 Le motif qui traverse la suite de neuf chapitres est la répétition de quelques notes seulement, qui changent comme des modèles d'interférence quantique.
 
 Le saxophone de Pharoah Sanders se fond dans les sons électroniques tout en conservant sa qualité de « respiration » humaine.

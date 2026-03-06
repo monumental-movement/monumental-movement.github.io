@@ -9,7 +9,7 @@ permalink: /zh-hant/dj-savage-greek-style-e-p/
 tags:
 - Techno
 - 00s
-title: DJ Savage – Greek Style E.P
+title: DJ Savage – 希臘風格 E.P
 ---
 
 

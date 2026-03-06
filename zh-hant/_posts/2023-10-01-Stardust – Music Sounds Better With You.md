@@ -13,7 +13,7 @@ title: 星塵 – 有你音樂聽起來更好
 ---
 
 
-Stardust 是一個由 Thomas Bangalter（Daft Punk）、DJ Alan Braxe 和 Benjamin Diamond 組成的樂團。
+Stardustは、トーマ・バンガルテル(ダフト・パンク)、DJのアラン・ブラックス(DJ Alan Braxe)、ベンジャミン・ダイアモンドによるユニットです。
 
 1998 年發行的《Music Sounds Better With You》採樣了 Chaka Khan 的《Fate》，是 Stardust 唯一的歌曲。
 

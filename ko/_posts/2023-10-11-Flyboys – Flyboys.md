@@ -15,7 +15,7 @@ title: Flyboys – Flyboys
 
 Flyboys(플라이보이즈)는, 1975년부터 1980년까지 활동한 US 펑크 록 밴드.
 
-1975년 결성 당시 멤버는 John Curry/존 칼리(일명 Jon Boy/존 보이), David Wilson/데이비드 윌슨(일명 David Way/데이비드 웨이), Dennis Walsh/데니스 월시(일명 Dennis Rackett/데니스 라켓).
+1975년 결성 당시의 멤버는 John Curry/존 칼리(일명 Jon Boy/존 보이), David Wilson/데이비드 윌슨(일명 David Way/데이비드 웨이), Dennis Walsh/데니스 월시(일명 Dennis Rackett/데니스 라켓).
 
 #### Tracklist
 ```md

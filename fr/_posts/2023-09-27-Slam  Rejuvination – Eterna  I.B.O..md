@@ -9,12 +9,12 @@ permalink: /fr/slam-rejuvination-eterna-i-b-o/
 tags:
 - House
 - Tech House
-title: Slam Rejuvination – Eterna I.B.O.
+title: Slam  Rejuvination – Eterna  I.B.O.
 ---
 
 
-par Slam Rejuvination
-"I.B.O." est une excellente piste. Eterna et ses reprises sont connues depuis des années et sont de bonnes chansons, mais "I.B.O." est une piste spéciale.
+Slam  Rejuvinationによる
+"I.B.O." は素晴らしいトラックです。Eternaとそのカバー曲は何年も前から知られており、それも良い曲ですが、"I.B.O." は格別のトラックです。
 
 
 #### Liste des chansons

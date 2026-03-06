@@ -90,7 +90,7 @@ Cela influencera plus tard Radiohead, The Fall et même Aphex Twin.
 
 ## Chapitre 3 : NEU ! - Minimalisme et course vers le futur
 
-NOUVEAU! a été formé après que les premiers membres de Kraftwerk, **Klaus Dinger** et **Michael Lotter**, ont quitté le groupe.
+NOUVEAU ! a été formé après que les premiers membres de Kraftwerk, **Klaus Dinger** et **Michael Lotter**, ont quitté le groupe.
 Le son était un "pur mouvement" avec toutes les décorations inutiles supprimées.
 
 Le tambour de Dinger continue de tourner à une vitesse constante, comme un convoyeur sans fin.
@@ -98,8 +98,8 @@ Ce rythme est finalement devenu connu sous le nom de « Motorik ».
 La guitare et la basse de Rotor glissent comme un courant,
 La musique a fait d'"avancer" un objectif.
 
-NOUVEAU! enregistré en studio faute de fonds.
-Faites pivoter la bande vers l'arrière, changez la vitesse, coupez et collez les sons,
+NOUVEAU ! enregistré en studio faute de fonds.
+Faire tourner la bande en sens inverse, changer la vitesse, couper et coller les sons,
 Cela a ébranlé la frontière entre « vie » et « machine ».
 
 > "Motorik est le son d'une "continuation humaine", pas d'une machine."
@@ -201,12 +201,12 @@ L'esprit sonore né de Forst s'est transmis à la musique ambiante, post-rock et
 
 ## Chapitre 8 : Popol Vuh – Spiritualité et son en images
 
-**Popol Vuh** se démarque parmi les krautrocks.
+**Popol Vuh** se démarque parmi le krautrock.
 Le leader **Florian Fricke** était profondément dévoué à la musique et à la philosophie religieuses et fut l'un des premiers à adopter le synthétiseur Moog.
 Cependant, ce qu'il visait n'était pas la froideur de l'électronique, mais le **mystère et le son intérieur**.
 
 ### Résonance avec Herzog
-Le réalisateur **Werner Herzog** est tombé amoureux de leurs sons spirituels et les a utilisés dans plusieurs de ses films, notamment « Aguirre : La colère de Dieu », « Nosferatu » et « Fitzcarraldo ».
+Le réalisateur **Werner Herzog** est tombé amoureux de leurs sons spirituels et les a utilisés dans plusieurs de ses films, notamment « Aguirre », « Nosferatu » et « Fitzcarraldo ».
 La musique d'« Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
 
 > « Le son du Popol Vu était les paroles de prière que l'âme entendait. »
@@ -236,7 +236,7 @@ Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains Techno, il de
 
 À la fin des années 1970, la jeunesse allemande était à nouveau en pleine mutation.
 L'esprit expérimental de Krautrock se manifeste dans le punk et la new wave.
-À Berlin, David Bowie et Brian Eno ont créé la « Berlin Trilogy » et ont absorbé l'esthétique de Kraut.
+À Berlin, David Bowie et Brian Eno ont produit la « Berlin Trilogy » et ont absorbé l'esthétique de Kraut.
 
 - "Low" de Bowie (1977) est une fusion de Neu! et grappe.
 - Joy Division et The Fall ont réinjecté les rythmes motorik dans le rock.
@@ -247,7 +247,7 @@ C'est l'esprit même de « trouver son propre son ».
 
 ---
 
-## Chronologie des grands groupes de krautrock
+## Chronologie des principaux groupes de krautrock
 
 <div class="mermaid">
 

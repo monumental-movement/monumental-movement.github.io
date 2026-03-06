@@ -28,7 +28,7 @@ Als diese Musik Ende der 1990er Jahre aufkam, schien der Rock seine vielen Forme
 
 Explosionen am Himmel und viel Glück! Black Emperor sind in diesem Zusammenhang ikonisch. Ersteres nähert sich persönlichen Erlebnissen durch Melodien und gesteigerte Emotionen, während letzteres soziale und kollektive Zeit in Form von Klängen einprägt. Während beide Künstler gleichzeitig aktiv waren, demonstrierten sie die Breite und Tiefe des Post-Rock-Rahmens.
 
-> Post-Rock-Instrumentalstücke bieten dem Hörer die Möglichkeit, mit dem Sprechen zu beginnen, statt dass die Musik spricht.
+> Post-Rock-Instrumentalstücke bieten dem Zuhörer die Möglichkeit zu sprechen und nicht die Musik.
 
 ---
 
@@ -50,7 +50,7 @@ color: #fff;
 
 Der Begriff „Post-Rock“ etablierte sich Mitte der 1990er Jahre. Es begann damit, Musik zu beschreiben, die Rockinstrumente verwendet, sich aber von Blues-Riffs, Gesangsschwerpunkten und formelhaften Songstrukturen distanziert. Dieses Konzept bezog sich nicht auf einen bestimmten Klang, sondern auf eine Haltung oder Methodik.
 
-Der Hintergrund liegt in den vielfältigen Musikkulturen, die sich seit den 1970er Jahren angesammelt haben. Die Wiederholungen und subtilen Veränderungen der Minimal Music, die Idee der Umweltmusik durch Ambient, die dekonstruktive Haltung des Post-Punk und sogar das Gefühl der räumlichen Verarbeitung in Dub und elektronischer Musik. Als Ergebnis dieser Überschneidungen mit dem Gesteinskontext entstand Postgestein.
+Der Hintergrund liegt in den vielfältigen Musikkulturen, die sich seit den 1970er Jahren angesammelt haben. Die Wiederholungen und winzigen Veränderungen der Minimal Music, die Idee der Umweltmusik durch Ambient, die dekonstruktive Haltung des Post-Punk und sogar das Gefühl der räumlichen Verarbeitung in Dub und elektronischer Musik. Als Ergebnis dieser Überschneidungen mit dem Gesteinskontext entstand Postgestein.
 
 Wichtig ist, dass Post-Rock keine „Negation des Rock“ war. Während die Gitarren-, Bass- und Schlagzeugbesetzung beibehalten wurde, wurden ihre Rollen neu definiert. Die Gitarre wurde zu einem Gerät zur Erzeugung nachhaltiger Klänge und Texturen, anstatt Riffs auszuarbeiten, und das Schlagzeug entwickelte sich von einem Gerät, das den Takt vorgab, zu einem Gerät, das den Fluss von Zeit und Spannung kontrollierte.
 
@@ -88,7 +88,7 @@ Explosions in the Sky ist eine Instrumental-Rockband, die 1999 in Austin, Texas,
 
 Das Symbolische an ihren frühen Aktivitäten ist ein zufälliges Ereignis, das sich unmittelbar nach ihrem Debüt ereignete. Die Veröffentlichung des Werks, das ihrer Musik so viel Aufmerksamkeit verschaffte, fiel mit einer Zeit von besonderer Bedeutung für die amerikanische Gesellschaft zusammen und weckte ungewollt starke emotionale Assoziationen. Diese Erfahrung soll ihnen deutlich bewusst gemacht haben, dass „Musik je nach Kontext eine Bedeutung erhält.“
 
-Die Songstruktur von Explosions in the Sky ist klar. Es werden einfache Arpeggien und Einzelnotenphrasen präsentiert, und bei deren Wiederholung nimmt die Anzahl und Lautstärke der Noten allmählich zu. Die Trommeln visualisieren den stufenweisen Aufstieg der Emotionen, der schließlich einen großen Höhepunkt bildet.
+Die Songstruktur von Explosions in the Sky ist klar. Es werden einfache Arpeggien und Einzelnotenphrasen präsentiert, und bei deren Wiederholung nimmt die Anzahl der Noten und die Lautstärke allmählich zu. Die Trommeln visualisieren den stufenweisen Aufstieg der Emotionen, der schließlich einen großen Höhepunkt bildet.
 
 Der Grund, warum ihre Musik in so vielen Videoproduktionen verwendet wurde, liegt in der Art und Weise, wie sie ihre Emotionen zum Ausdruck bringen. Anstatt eine bestimmte Erzählung aufzuzwingen, wird der Raum beibehalten, um auf natürliche Weise die eigenen Erinnerungen und Erfahrungen des Zuhörers hervorzurufen.
 
@@ -102,7 +102,7 @@ Der Grund, warum ihre Musik in so vielen Videoproduktionen verwendet wurde, lieg
 
 Viel Glück! Black Emperor ist ein Musikkollektiv, das Ende der 1990er Jahre in Montreal gegründet wurde. Es hat den starken Charakter eines fließenden Kollektivs und nicht einer festen Zusammensetzung und zeichnet sich durch eine große Komposition aus, die mehrere Gitarren, Bässe, Trommeln, Streichinstrumente und Feldaufnahmen verwendet.
 
-Ihre Arbeit weicht stark vom Rahmen eines typischen Rockalbums ab. Das Stück ist lang und mehrsätzig aufgebaut, es wechselt zwischen Stille und Lärm, Melodie und Chaos. Den Liedern fehlt oft ein klarer Refrain oder eine klare Auflösung, was vom Hörer Geduld und Konzentration erfordert.
+Ihre Arbeit weicht stark vom Rahmen eines typischen Rockalbums ab. Das Stück ist lang und mehrsätzig aufgebaut, es wechselt zwischen Stille und Lärm, Melodie und Chaos. Es gibt oft keine klaren Anknüpfungspunkte oder Lösungen, was vom Zuhörer Geduld und Konzentration erfordert.
 
 Was für ein Glück! „Black Emperor“ war ein Versuch, gesellschaftliche und historische Zeit eher in Tönen als in persönlichen Gefühlen festzuhalten. Die Geräusche, Ankündigungen und fragmentierten Erzählungen der Stadt rufen ein kollektives Gefühl von Angst und Spannung hervor, anstatt eine bestimmte Botschaft zu manifestieren.
 
@@ -151,7 +151,7 @@ timeline
     2000s : 映像作品との結びつきが一般化
 </div>
 
-Dieser Trend stellt keinen abrupten Bruch dar, sondern kann als Kontinuum verstanden werden, in dem sich mehrere kulturelle Elemente überschneiden.
+Dieser Trend ist kein plötzlicher Bruch, sondern kann als Kontinuum verstanden werden, in dem sich mehrere kulturelle Elemente überschneiden.
 
 > Die Geschichte des Post-Rock ist wie eine Welle, die sich still und leise weiter ausbreitet.
 

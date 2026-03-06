@@ -10,13 +10,13 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Ditch – Ensemble de liens EP
+title: Ditch – Link Set EP
 ---
 
 
-Shinichiro Kono, également connu sous le nom de Ditch, est un producteur japonais basé à Sendai qui travaille comme DJ Minimal House & Techno depuis 2001. Il a sorti sur de nombreux labels, dont Minibar, Safari Electronique, Microcosm, Goosehound, Kalimari et op.disc.
+Ditch ことShinichiro Konoは、2001年からMinimal House&TechnoのDJとして活動している仙台を拠点とする日本のプロデューサー。Minibar 、Safari Electronique、Microcosm、Goosehound、Kalimari 、op.disc など多数のレーベルからリリースしている。
 
-"Link Set EP" est un morceau Techno/Minimal sorti sur le label britannique Safari Electronique en 2006.
+「Link Set EP」は、2006年にUKのレーベルSafari ElectroniqueからリリースされたTechno／Minimalトラック。
 
 #### Liste des chansons
 ```md

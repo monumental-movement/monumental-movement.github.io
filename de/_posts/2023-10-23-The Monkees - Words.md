@@ -10,11 +10,11 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: Die Affen – Worte
+title: Die Monkees – Worte
 ---
 
 
-The Monkees sind eine amerikanische Rockband, die von Davy Jones, Micky Dolenz, Mike Nesmith und Peter Tork gegründet wurde. Sie verfolgten eine Media-Mix-Strategie, die Plattenverkäufe mit „The Monkees Show“ verband, einer einteiligen Slapstick-Comedy-TV-Show, in der die Monkees selbst auftraten.
+The Monkees ist eine amerikanische Rockband, die von Davy Jones, Micky Dolenz, Mike Nesmith und Peter Tork gegründet wurde. Sie verfolgten eine Media-Mix-Strategie, die Plattenverkäufe mit „The Monkees Show“ verband, einer einteiligen Slapstick-Comedy-TV-Show, in der die Monkees selbst auftraten.
 
 #### Trackliste
 ```md

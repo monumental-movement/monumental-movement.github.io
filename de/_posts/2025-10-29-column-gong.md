@@ -18,7 +18,7 @@ title: '[Kolumne] Gong-Legende: Ära, Mythos, Klang und Gemeinschaft'
 ## 1. Einführung: Musiker als Wissenschaftler
 
 
-Text: mmr｜Thema: Gong, die „kosmische Gemeinschaft“, gegründet von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
+Text: mmr | Thema: Gong, die „kosmische Gemeinschaft“, aufgebaut von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
 
 > „Wir waren eine fliegende Teekanne, die durch die Revolution segelte.“
 > - Daevid Allen
@@ -114,10 +114,10 @@ Eine zwischen 1973 und 1974 veröffentlichte Trilogie.
 
 Dabei handelt es sich nicht nur um Alben, sondern um mythologische Epen von „Planet Gong“. In Form einer Radiosendung treten Zero the Hero und Pot Head Pixies auf und die Reise durch Raum und Bewusstsein wird geschildert.
 
-|Charakter |Eigenschaften |
+| Charakter | Funktionen |
 | :-- | :-- |
 | Zero the Hero | Ein Reisender, der zwischen der Erde und dem Gong-Planeten reist |
-| Pot Head Pixies | Geister des Glücks und des Chaos |
+| Pot Head Pixies | Spirits of Happiness and Chaos |
 | Oktavdoktor | Wissenschaftler, der Klang und Ordnung manipuliert |
 
 > „Ich bin dein Funkzwerg, direkt vom Planeten Gong …“

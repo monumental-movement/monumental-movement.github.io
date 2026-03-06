@@ -21,7 +21,7 @@ title: 하이에너지(Hi-NRG) 작품 픽업
 ### E-Rotic – “Willy Use A Billy... Boy”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-독일 출발의 섹시한 캐치 유로 팝. 90년대 이후의 Hi-NRG의 해석으로서, 무심코 질투하고 싶어지는 중독성이 높은 트럭입니다.
+독일발의 섹시한 캐치·유로·팝. 90년대 이후의 Hi-NRG의 해석으로서, 무심코 질투하고 싶어지는 중독성이 높은 트럭입니다.
 
 #### Tracklist
 ```md

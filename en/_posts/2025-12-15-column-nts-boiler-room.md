@@ -80,7 +80,7 @@ Boiler Room also featured experimental performances other than dance music, crea
 
 ## Chapter 5 The concept of unknown live performance
 
-In a live streaming environment, while the audience's reaction is physically limited, an unspecified number of listeners exist at the same time. This situation creates a situation where the outcome is difficult for the performer to predict.
+In a live streaming environment, while the audience's reaction is physically limited, an unspecified number of listeners exist at the same time. This situation creates an environment in which the outcome is difficult for the performer to predict.
 
 For this reason, many of the artists appearing at NTS and Boiler Room choose unknown compositions that are predicated on improvisation. Rather than having a set list fixed, the act of selecting and processing sound sources on the spot is central to the performance.
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 
@@ -218,7 +218,7 @@ NTS and Boiler Room have demonstrated a model different from the traditional eco
 
 ## Supplementary Chapter 9 Connection to music history
 
-These live streaming cultures are continuous with the history of improvisational music, experimental music, and DJ culture. New technologies reposition existing practices rather than making them invisible.
+These live streaming cultures are continuous with the history of improvisational music, experimental music, and DJ culture. New technologies do not make existing practices invisible, but reposition them.
 
 ---
 

@@ -17,7 +17,7 @@ title: Pseudonym – You Have The Right To Remain Silent
 
 프로듀서는 영국 출신의 DJ 프로듀서 Ian Levine(이안 레빈)과 하이에너지의 프로듀서 Steven Wagner. Ian Levine은 UK의 Northern soul music(노던·소울 뮤직)을 현대화해 Hi NRG 스타일의 개발자로도 알려져 있다.
 
-「You Have The Right To Remain Silent」는, Nightmare Records의 서브 라벨이며, Hi-NRG 전문의 Saturday Records로부터 1988년에 릴리스 된 하이에너지·유로하우스·디스코 트랙.
+「You Have The Right To Remain Silent」는, Nightmare Records의 서브 라벨이며, Hi-NRG 전문의 Saturday Records로부터 1988년에 릴리스된 하이에너지·유로하우스·디스코 트랙.
 
 #### Tracklist
 ```md

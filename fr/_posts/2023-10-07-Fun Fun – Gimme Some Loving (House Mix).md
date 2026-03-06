@@ -9,12 +9,12 @@ permalink: /fr/fun-fun-gimme-some-loving-house-mix/
 tags:
 - Italo
 - Disco
-title: Fun Fun – Gimme Some Loving (Mélange maison)
+title: Fun Fun – Gimme Some Loving (House Mix)
 ---
 
 
-«Gimme Some Loving (House Mix)» est
-Il s'agit d'un EP de Fun Fun sorti en 1988.
+「Gimme Some Loving (House Mix)」は、
+1988年にリリースされたFun FunによるEPです。
 
 #### Liste des chansons
 ```md

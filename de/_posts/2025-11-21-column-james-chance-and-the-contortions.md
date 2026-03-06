@@ -85,7 +85,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 - Die Basslinie ist repetitiv und funky, und das Saxophon wirbelt frei.
 - **Beat-Analyse**:
 - 4/4-Grundton, aber die unkonventionelle Platzierung der Snare und Akzentwechsel vermitteln immer ein Gefühl von Oszillation.
-- Betont die Improvisation und behält gleichzeitig das Tanzgefühl bei
+- Betont die Improvisation und bewahrt gleichzeitig den Sinn für Tanz
 
 ### Lied „Melt Yourself Down“
 

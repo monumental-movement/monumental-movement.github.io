@@ -13,7 +13,7 @@ title: 史蒂維旺德 – 比七月更熱
 ---
 
 
-「Hotter Than July」には多くのヒット曲が含まれており、「Master Blaster (Jammin')」や「Happy Birthday」などが特に知られています。特に「Happy Birthday」は、マーティン・ルーサー・キング・ジュニアの誕生日を祝う曲として作られ、アメリカの公民権運動を象徴する曲となりました。
+《Hotter Than July》收錄了許多熱門歌曲，其中最著名的是《Master Blaster (Jammin')》和《Happybirthday》。特別是《生日快樂》作為慶祝馬丁路德金生日的歌曲而創作，成為美國民權運動的象徵。
 
 其他著名歌曲包括“I Ain't Gonna Stand for It”和“Latly”。這些歌曲展示了史蒂夫旺德豐富的音樂性和情感表現。
 

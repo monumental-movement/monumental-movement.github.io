@@ -21,7 +21,7 @@ title: '[Kolumne] Die Entwicklung des japanischen Underground-Rock und Noise von
 Text: mmr｜Thema: Weltweite Aufmerksamkeit für die japanische Underground-Musikszene der 1990er bis 2000er Jahre
 
 Die 1990er und 2000er Jahre waren die Blütezeit der **Noise-Musik** und dienten auch als Schnittstelle zwischen Alternative Rock und Avantgarde-Punk.
-Insbesondere Künstler wie Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms und Violent Onsen Geisha zerstörten bestehende Musikgenres und eröffneten neue Ausdrucksbereiche.
+Insbesondere Künstler wie Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms und Violent Onsen Geisha zerstörten bestehende Musikgenres und eröffneten neue Ausdrucksbereiche.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) unter der Leitung von Keiji Haino, Masami Akitas [**Merzbow**](https://amzn.to/46qEmxw), Ai Yamazuka und Seiichi Yamamotos [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Gruppen wie //amzn.to/3IsJjwx) und [Violence Onsen Geisha](https://amzn.to/4gJWXbk) durchbrachen die Grenzen von konventionellem Rock und Punk und schufen eine Klangwelt, die Lärm und experimentellen Geist vereinte.
 
-In diese Zeit fielen auch der Aufstieg von Indie-Labels, Auftritte auf internationalen Festivals und beschleunigte Interaktionen mit dem amerikanischen und europäischen Underground. Darüber hinaus wurden innovative Aktivitäten entwickelt, die die Film- und Soundtrackproduktion sowie später die **KI-Musikgenerierung** beeinflussten.
+In dieser Zeit gab es auch den Aufstieg von Indie-Labels, Auftritte auf internationalen Festivals und beschleunigte Interaktionen mit dem amerikanischen und europäischen Underground. Darüber hinaus wurden innovative Aktivitäten entwickelt, die die Film- und Soundtrackproduktion sowie später die **KI-Musikgenerierung** beeinflussten.
 
 ---
 
@@ -54,7 +54,7 @@ In diese Zeit fielen auch der Aufstieg von Indie-Labels, Auftritte auf internati
 - **Merzbau**: Beim Übergang von analogen Geräten zu Laptop-Lärm spiegelt es Tierrechte und Vegetarismus wider.
 - **Feuerwehrmann**: Eine Existenz, die die Grenze zwischen „Lärmband“ und „Performance-Kunst“ verwischt.
 - **Boredoms**: Eine Mischung aus Psychedelik und Noise, die die amerikanische Alternative-Szene beeinflusst.
-- **Melt-Banana**: „Nano Core“ vereint die Geschwindigkeit von Hardcore und die Textur von Noise.
+- **Melt-Banana**: „Nano Core“ kombiniert Hardcore-Geschwindigkeit und Noise-Textur.
 
 ---
 
@@ -89,9 +89,9 @@ In diese Zeit fielen auch der Aufstieg von Indie-Labels, Auftritte auf internati
 
 ### Nottreppe
 
-- **Features**: Das weltweit erste „Lärmband“. Neben Lärmauftritten wurden sie durch ihre extremen Darbietungen (Essenwerfen, Funkenwerfen, Nackttanzen) legendär.
+- **Features**: Das weltweit erste „Lärmband“. Neben Lärmauftritten wurden sie auch durch ihre extremen Darbietungen (Essenwerfen, Funkenwerfen, Nackttanzen) legendär.
 - **Änderungen**: Begannen ihre Aktivitäten in den 80er Jahren und nahmen in den 90er Jahren hauptsächlich Live-Alben auf. Seit den 2000er Jahren entwickelt er experimentelle Aktivitäten wie Co-Stars mit Idolen.
-- **Anekdote**: Der Akt des „Zerlegens eines Huhns“ während eines Live-Auftritts löste in ausländischen Medien eine große Diskussion aus und wurde als sozialer Skandal behandelt.
+- **Anekdote**: Der Akt des „Zerlegens eines Huhns“ während eines Live-Auftritts sorgte in ausländischen Medien für große Diskussionen und wurde als sozialer Skandal behandelt.
 
 | Album | Funktionen | Links |
 |----------|------|--------------|
@@ -170,7 +170,7 @@ A2: Der Einstieg in Super æ von Boredoms und Merzbeat von Merzbow ist relativ e
 
 **F3: Wie kamen Noise und Rock zusammen? **
 
-A3: Durch den Einfluss von Psychedelika und Punk ist ein neuer Ausdruck entstanden, der dröhnende Klänge und Improvisation vereint.
+A3: Durch den Einfluss von Psychedelika und Punk ist ein neuer Ausdruck entstanden, der dröhnende Klänge und Improvisation verbindet.
 
 **F4: Wie hängt es mit der Soundtrack-Produktion und der KI-Musikgenerierung zusammen? **
 

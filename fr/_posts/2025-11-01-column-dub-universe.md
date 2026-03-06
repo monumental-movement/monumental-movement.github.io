@@ -116,7 +116,7 @@ Dans cette veine, **On-U Sound** dirigé par **Adrian Sherwood** est apparu.
 Il combine le chaos de Perry avec la sophistication de Tubby,
 Ils ont créé un « dub britannique » plus industriel et abstrait.
 
-Des œuvres telles que **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
+Des œuvres telles que **African Head Charge**, **Dub Syndicate**, **New Age Steppers** sont
 Ce sera un lieu où se croisent les racines spirituelles jamaïcaines et l’esprit post-punk européen.
 
 À peu près à la même époque, le **Ariwa Studio** de **Mad Professor** a également ouvert ses portes dans le sud de Londres.
@@ -150,7 +150,7 @@ C'est l'esthétique du manque et l'idée de reproduction.
 - Utiliser la technologie comme « expression d’improvisation ».
 - Redéfinir « original » dans le processus de reproduction.
 
-Ce type de réflexion de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
+Ce type de pensée de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
 L'acte de « éditer » et de « recomposer » le son lui-même est
 C'est la base des actes créatifs du 21ème siècle.
 

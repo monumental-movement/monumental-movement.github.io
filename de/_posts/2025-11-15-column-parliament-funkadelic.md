@@ -22,7 +22,7 @@ title: '[Kolumne] Parliament / Funkadelic: Die ganze Geschichte der P-Funk-Revol
 Text: mmr｜Thema: Über die Weltanschauung des P-Funk, der immer noch als Grundlage des aktuellen Hip-Hop, R&B, Elektro, Kunst und Mode existiert.
 
 
-In der Geschichte der amerikanischen schwarzen Musik in der zweiten Hälfte des 20. Jahrhunderts ist **Parliament/Funkadelic (allgemein bekannt als P-Funk)** die Gruppe, die den großartigsten Mythos und Klanginnovationen vereint.
+In der Geschichte der schwarzen amerikanischen Musik in der zweiten Hälfte des 20. Jahrhunderts ist **Parliament/Funkadelic (allgemein bekannt als P-Funk)** die Gruppe, die die großartigste Mythologie und Klanginnovation vereint.
 Unter der Leitung von George Clinton war dieses Kollektiv mehr als nur eine Band, es war ein gigantisches Projekt, das eine Multiversum-Geschichte, ein futuristisches technologisches Gespür und die durch und durch physischen Rhythmen des Funk verband.
 
 P-Funk wird klar, wenn man es im Hinblick auf die folgenden drei Achsen versteht.
@@ -84,7 +84,7 @@ Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic
 * **Aufruf und Antwort zum Evangelium der schwarzen Kirche**
 * **Texte mit starker politischer Kritik**
 
-Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist wegen Eddie Hazells über 10-minütigem Gitarrensolo in Erinnerung geblieben.
+Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist berühmt für Eddie Hazells über 10-minütiges Gitarrensolo.
 Es wurde als „musikalische Verkörperung schwarzer Traurigkeit und Wut“ beschrieben.
 
 ---
@@ -130,7 +130,7 @@ Das Trommeln von Jerome „Bigfoot“ Braley und anderen weist die folgenden Mer
 
 * Minimale Bassdrum
 * Snare ist tief und zurück
-*Hi-Hat hat ein wenig Shuffle
+*Hi-Hat hat ein bisschen Shuffle
 
 Dadurch fühlt es sich an, als würde sich der Beat vorwärts bewegen, während er schwebt.
 
@@ -140,12 +140,12 @@ Dadurch fühlt es sich an, als würde sich der Beat vorwärts bewegen, während 
 * Ordnen Sie mehrere Sänger mit unterschiedlichen Stimmqualitäten an
 * Antwort im Gospel-Stil
 
-### ■ 4. Horns funkiger „Anweisungssound“
+### ■ 4. Horns funkiger „Anweisungsklang“
 
 * Scharfer Akzent im James-Brown-Stil
 * Aber es hat mehr Spiel als JB und mehr Harmonie als Unisono.
 
-### ■ 5. Zukünftiger Synthesizer-Sound
+### ■ 5. Zukünftige Klänge von Synthesizern
 
 Barney Worrells Minimoog brachte zum ersten Mal „kosmische elektronische Klänge“ in die schwarze Musik.
 **Der Ursprung von Hip-Hop, G-Funk und Elektro**.
@@ -162,7 +162,7 @@ Barney Worrells Minimoog brachte zum ersten Mal „kosmische elektronische Klän
 
 ### ■ Parlament „Mothership Connection“ (1975)
 
-* Das zentrale Werk der P-Funk-Mythologie
+* Das zentrale Werk des P-Funk-Mythos
 * Welthits wie „Give Up the Funk“ und „Mothership Connection“
 * Maximiert die Live-Theatralik
 
@@ -200,7 +200,7 @@ P-Funk hat drei große Auswirkungen auf die schwarze Kultur hinterlassen.
 
 ### ■ (1) Ausweitung des schwarzen Science-Fiction-Ausdrucks (Afrofuturismus)
 
-Zusammen mit Sun Ra schuf P-Funk eine kulturelle Grundlage für die Zukunft der Schwarzen.
+Zusammen mit Sun Ra schuf P-Funk eine kulturelle Grundlage für die schwarze Zukunft.
 
 ### ■ (2) Neubewertung durch Hip-Hop
 
@@ -286,7 +286,7 @@ Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft sprich
 
 ---
 
-### Anhang: Live-Komposition (Reproduktionskarte der Mothership Tour 1976)
+### Anhang: Live-Komposition (Reproduktionsdiagramm der Mothership Tour 1976)
 
 <div class="mermaid">
 flowchart TD

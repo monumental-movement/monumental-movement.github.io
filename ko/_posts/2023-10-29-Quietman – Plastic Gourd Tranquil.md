@@ -14,7 +14,7 @@ title: Quietman – Plastic Gourd Tranquil
 ---
 
 
-"Quietman - Plastic Gourd / Tranquil"은 UK 트랜스 테크노의 노포 라벨 Platipus보다 94년에 릴리스된 애시드 트랜스.
+"Quietman - Plastic Gourd / Tranquil"는 UK 트랜스 테크노의 노포 라벨 Platipus보다 94년에 릴리스된 애시드 트랜스.
 Quietma는 트랜스 프로듀서 Laurence Elliot-Potter (로렌스 엘리엇 포터)와 Wilf Frost (윌프 프로스트)에 의한 프로젝트.
 
 B면은 Simon Berry(사이몬 베리)의 별명의 Art Of Trance(아트 오브 트랜스)에 의한 REMIX.

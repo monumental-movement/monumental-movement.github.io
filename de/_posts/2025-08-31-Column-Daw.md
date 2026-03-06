@@ -64,7 +64,7 @@ MIDI (Musical Instrument Digital Interface) ist ein Standard zum Austausch von N
 
 ### Der Aufstieg von Computern und Software (1990er Jahre)
 
-Verbesserungen der Computerleistung und der praktische Einsatz der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
+Verbesserungen der Computerleistung und der praktische Nutzen der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
 
 <hr>
 
@@ -128,7 +128,7 @@ DAWs haben sich von Werkzeugen zum einfachen „Aufnehmen, Arrangieren und Misch
 
 ### Aktuelle Trends und nahe Zukunft
 
-**Einführung von KI**: KI-Tools beginnen, einen Teil der Arbeit zu übernehmen, wie etwa die Unterstützung beim Songwriting, die Mix-Korrektur und die Mastering-Automatisierung. Es besteht die Möglichkeit, dass sich die Rolle von Werkzeugen von „Unterstützung“ zu „Mitgestalter“ verschiebt.
+**Einführung von KI**: KI-Tools beginnen, einen Teil der Arbeit zu übernehmen, etwa die Unterstützung beim Songwriting, die Mix-Korrektur und die Mastering-Automatisierung. Es besteht die Möglichkeit, dass sich die Rolle von Werkzeugen von „Unterstützung“ zu „Mitgestalter“ verschiebt.
 
 **Cloud/Zusammenarbeit**: Die Online-Synchronisierung und die kollaborative Bearbeitung von DAW-Projekten in Echtzeit nehmen zu.
 

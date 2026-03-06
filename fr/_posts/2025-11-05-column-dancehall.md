@@ -70,7 +70,7 @@ Cet espace, où circulaient musique, alcool et nourriture, deviendra plus tard l
 
 ## Chapitre 2 Roots Rock et Dub Era (années 1970)
 
-### ▪ Les ingénieurs du son deviennent « compositeurs »
+### ▪ Les ingénieurs du son deviennent des « compositeurs »
 
 King Tubby, Lee Perry, Errol Thompson et d'autres ont utilisé la table de mixage comme un instrument de musique et ont inventé une nouvelle expression sonore appelée « dub ».
 **Effacer les voix et reconstruire le rythme avec des échos**—Cette idée est devenue le point de départ de la culture du remix ultérieure.
@@ -90,7 +90,7 @@ Cette idée a ensuite été héritée par le **UK dub** (Jah Shaka, Aba Shanti-I
 ### ▪ Lacune et explosion d'argot
 
 En 1985, « Under Mi Sleng Teng » de **Wayne Smith** a tout changé.
-Cette chanson, qui utilisait les préréglages rythmiques du Casio MT-40, est considérée comme le premier reggae entièrement numérique de l'histoire, et à partir de ce moment-là, le « dancehall numérique » est devenu courant.
+Cette chanson, qui utilise les préréglages rythmiques du Casio MT-40, est considérée comme le premier reggae entièrement numérique de l'histoire, et à partir de ce moment-là, le « dancehall numérique » est devenu courant.
 
 | Année | Chanson représentative | Artiste | Remarques |
 |----|--------|---------------|------|
@@ -156,7 +156,7 @@ Principaux acteurs japonais :
 ### ▪ Esprit DIY et héritage moderne
 
 Ces dernières années, il a croisé le dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** sont actuellement actifs.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** et d'autres sont actuellement actifs.
 À la base de tout cela se trouve la philosophie du sound system consistant à « produire nos propres sons de nos propres mains ».
 
 ---
@@ -170,7 +170,7 @@ Ces dernières années, il a croisé le dubstep/techno.
 | années 1960 | Ska → Solide comme le roc → Reggae | Les Skatalites |
 | années 1970 | Naissance du Dub, pénétration de l'idéologie Rasta | Roi Tubby, Lee Perry |
 | années 1980 | Révolution numérique, « Sleng Teng » | Wayne Smith |
-| années 1990 | Âge d'or du dancehall, Mighty Crown émerge | Rangs Shabba, Beenie Man |
+| années 1990 | L'âge d'or du Dancehall, Mighty Crown Rise | Rangs Shabba, Beenie Man |
 | Années 2000 | Pop mondiale | Sean Paul, Elephant Man |
 | Années 2010 | L'ère Global Dancehall / Reggaeton | Popcaan, Drake |
 | Années 2020 | Montée du son DIY local | Système Mura Masa et autres |

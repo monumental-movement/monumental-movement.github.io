@@ -10,11 +10,11 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: Les singes - Mots
+title: The Monkees - Words
 ---
 
 
-The Monkees est un groupe de rock américain formé par Davy Jones, Micky Dolenz, Mike Nesmith et Peter Tork. Ils avaient une stratégie de mix média qui associait les ventes de disques à « The Monkees Show », une émission télévisée comique en un épisode dans laquelle les Monkees eux-mêmes apparaissaient.
+The Monkees(ザ・モンキーズ)は、Davy Jones（デイビー・ジョーンズ) 、Micky Dolenz（ミッキー・ドレンツ) 、Mike Nesmith （マイク・ネスミス) Peter Tork（ピーター・トーク) の４人で結成されたUSロックバンド。The Monkeesが自ら出演する一話完結型のドタバタコメディTV番組『ザ・モンキーズ・ショー』とレコード販売を連動するメディアミックス戦略をとっていた。
 
 #### Liste des chansons
 ```md

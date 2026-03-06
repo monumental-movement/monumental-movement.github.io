@@ -10,15 +10,15 @@ tags:
 - Rock
 - Indie Rock
 - 00s
-title: Souris modeste – Nous étions morts avant
+title: Modest Mouse – We Were Dead Before
 ---
 
 
-Modest Mouse est un groupe américain de rock alternatif et de rock indépendant formé dans l'État de Washington en 1992 et actuellement basé à Portland, Oregon.
+Modest Mouse（モデストマウス）は、1992年にワシントン州で結成され、現在はオレゴン州ポートランドを拠点として活動するUSオルタナティブロック&インディーロックバンド。
 
-Cet album, sorti par Epic en 2007, est le chef-d'œuvre de Modest Mouse, atteignant la première place du palmarès des albums Billboard.
+2007年にEpic からリリースされたこのアルバムは、ビルボードアルバムチャート第1位を獲得したモデストマウスの代表作。
 
-Le producteur est Dennis Herring, qui a travaillé sur des groupes tels que The Hives, Elvis Costello et Counting Crows.
+プロデューサーはThe Hives(ザ・ハイヴス)、Elvis Costello(エルヴィス・コステロ)、Counting Crows(Counting Crows)などを手掛けるDennis Herring。
 
 
 #### Liste des chansons

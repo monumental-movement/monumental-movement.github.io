@@ -8,13 +8,13 @@ layout: post
 permalink: /fr/dusty-kid-beyond-that-hill/
 tags:
 - Techno
-title: Dusty Kid – Au-delà de cette colline
+title: Dusty Kid – Beyond That Hill
 ---
 
 
-Dusty Kid est le pseudonyme de Paolo Alberto Lodde, producteur et DJ italien de musique électronique.
+Dusty Kid(ダスティ・キッド)は、イタリアの電子音楽プロデューサー兼DJ、Paolo Alberto Lodde(パオロ・アル ベルト・ロッデ)の別名です。
 
-"Beyond That Hill" est un album sorti par Dusty Kid en 2009. Des lignes de basse palpitantes, des textures atmosphériques et des mélodies complexes combinent les goûts techno, house et progressifs pour créer la vision du monde unique de Dusty Kid.
+「Beyond That Hill」は、Dusty Kidが2009年にリリースしたアルバムです。パルシングするベースライン、大気的なテクスチャ、複雑なメロディなど、テクノ、ハウス、プログレッシブなどのあらゆるテイストが融合し、ダスティ・キッド独特の世界観を作り出しています。
 
 #### Liste des chansons
 ```md

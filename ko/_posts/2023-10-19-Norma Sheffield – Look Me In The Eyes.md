@@ -13,7 +13,7 @@ title: Norma Sheffield – Look Me In The Eyes
 ---
 
 
-Norma Sheffield (노마 셰필드)는 이탈리아의 유로 비트 프로젝트. 공공 인격은 작곡가로도 활동한 프란체스카 콘티니
+Norma Sheffield (노마 셰필드)는 이탈리아의 유로 비트 프로젝트. 공공의 인격은 작곡가로도 활동한 Francesca Contini
 (프란체스카 콘티니)였지만, 보컬은 Chiara De Pieri (키아라 데 피에리)가 담당.
 
 제작/프로듀서는 이탈리아의 프로듀서 & 유로비 트래블 A.Beat-C의 공동 창립자 Dave Rodgers(데이브 로저스).

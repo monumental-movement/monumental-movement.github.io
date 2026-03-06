@@ -16,7 +16,7 @@ title: Swod – Sekunden
 
 Swod ist ein Aufnahmeprojekt der Musiker Oliver Doerell und Stephan Wöhrmann.
 
-Oliver Doerell ist ein Multiinstrumentalist aus der elektronischen Musik, der auch unter dem Namen Cummi Flu arbeitet. Stephan Wöhrmann ist ein moderner klassischer Klavier- und Schlagzeugspieler. Beide sind Solokünstler, die Musik für Tanz, Film und Klanginstallationen komponieren.
+Oliver Doerell ist ein auf elektronischer Musik basierender Multiinstrumentalist, der auch unter dem Namen Cummi Flu aktiv ist. Stephan Wöhrmann ist ein moderner klassischer Klavier- und Schlagzeugspieler. Beide sind Solokünstler, die Musik für Tanz, Film und Klanginstallationen komponieren.
 
 „Sekunden“ ist ein minimalistisches, modernes, klassisches Experimentalalbum, das 2007 vom deutschen Label City Centre Offices veröffentlicht wurde.
 

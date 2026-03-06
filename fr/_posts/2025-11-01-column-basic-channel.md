@@ -84,7 +84,7 @@ C'était juste un **changement climatique sonore**.
 
 ---
 
-## Chapitre 3 : Réinventer le Dub - De la Jamaïque à Berlin
+## Chapitre 3 : Réinventer le dub - De la Jamaïque à Berlin
 
 Ce que Basic Channel citait, c'était l'idée du **dub jamaïcain** des années 70.
 Les sculptures réverbérantes de King Tubby et Lee « Scratch » Perry ont été recréées selon un processus numérique.
@@ -106,7 +106,7 @@ Caractéristiques de la réaction en chaîne :
 - Un sentiment d'unité comme si toutes les sources sonores partageaient le « même espace »
 - Pas une production de masse, mais un **réseau idéologique basé sur une chaîne de sons**
 
-En conséquence, Basic Channel est devenu plus une **plateforme pour la philosophie sonore** qu'un « label ».
+En conséquence, Basic Channel est devenu plus une plate-forme de philosophie sonore qu'un label.
 
 ---
 
@@ -193,7 +193,7 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 | **1999** | A lancé Rhythm & Sound, a commencé à collaborer avec des chanteurs jamaïcains |
 | **2003** | Sortie de « Rythme et son avec les artistes » |
 | **2010** | Moritz von Oswald Trio a commencé (avec Max Loderbauer et Tony Allen) |
-| **Années 2020** | Vague de remise en question, revival de la Dub Techno, se propageant principalement sur Bandcamp |
+| **Années 2020** | Vague de remise en question, renaissance de la Dub Techno, se propageant principalement sur Bandcamp |
 
 ---
 

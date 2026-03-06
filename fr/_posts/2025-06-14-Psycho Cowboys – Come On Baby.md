@@ -15,7 +15,7 @@ title: Psycho Cowboys – Allez bébé
 ---
 
 
-Psycho Cowboys (alias Hedfu_k) est un projet du producteur/compositeur britannique Aaron Gilbert et du DJ/producteur électronique londonien Stretch Silvester, alias Stuart Collins.
+Psycho Cowboys (également connu sous le nom de Hedfu_k) est un projet du producteur/compositeur britannique Aaron Gilbert et du DJ/producteur électronique londonien Stretch Silvester, alias Stuart Collins.
 
 
 Ce disque est un morceau Breaks/Big Beat sorti en 1999 par le label indépendant londonien Wall Of Sound.

@@ -67,7 +67,7 @@ Zu dieser Zeit waren sich die Mekons bewusst, dass sie „handeln“ wollten, an
 > **„Was nach der Wut blieb, war ein beobachtender Blick.“**
 
 In den frühen 1980er Jahren, als Punk immer beliebter wurde, änderten die Mekons nach und nach ihre Form.
-Sie verlassen London und verwandeln sich in eine gesellschaftskritische Gruppe, die Politik und Kultur miteinander verbindet. Im Kontext der Theatre of Hate- und Red Wedge-Bewegungen entschied sich Mekons für „Gemeinschaft statt Musik“.
+Sie verlassen London und verwandeln sich in eine gesellschaftskritische Gruppe, die Politik und Kultur miteinander verbindet. Im Kontext der Bewegungen „Theater of Hate“ und „Red Wedge“ entschied sich Mekons für „Gemeinschaft statt Musik“.
 Die Mitgliederzahl ist nicht festgelegt, Freunde aus der Studienzeit kommen und gehen und nehmen manchmal mit bis zu 10 Leuten auf. Sein Charakter als Kunstkollektiv wird immer stärker.
 
 1989年の代表作[『The Mekons Rock ’n’ Roll』](https://amzn.to/4nIWLMc)は、その総括だった。  
@@ -110,7 +110,7 @@ Obwohl er für diese Arbeit Pro Tools verwendete, verwendete er zum Mischen absi
 ---
 
 ### Kapitel 5: Feminismus und Solidarität, Perspektiven weiblicher Mitglieder
-> **„Während sich die Stimmen vermehren, spaltet sich die Wahrheit.“**
+> **„Je mehr Stimmen lauter werden, desto gespaltener wird die Wahrheit.“**
 
 Sally Timms verdient in der Geschichte von Mekons besondere Erwähnung.
 Als sie der Gruppe 1985 offiziell beitrat, fungierte sie nicht nur als Sängerin, sondern auch als „Geschichtenerzählerin“.
@@ -131,15 +131,15 @@ Bei Live-Auftritten gibt es viele Szenen, in denen Sally laut vorliest und Langf
 2013年のドキュメンタリー映画[『Revenge of the Mekons』](https://amzn.to/3KJVhCA)は、その活動の核心を映し出した。  
 Regisseur Joe Angio beschreibt sie als „lebende Kunstwerke“.
 Diese Arbeit zeigt, wie Mekons verschiedene Ausdrucksformen durchlaufen haben, darunter nicht nur Musik, sondern auch Malerei, Fotografie, Poesie und politischen Aktivismus.
-Jon Langford war selbst als Maler tätig und zeichnete ein „antiromantisches Bild Amerikas“, indem er die Landschaften des Mittleren Westens der USA symbolisch darstellte.
+Jon Langford war selbst als Maler tätig und vermittelte ein „antiromantisches Bild Amerikas“, indem er die Landschaften des Mittleren Westens der USA symbolisch darstellte.
 
-Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauheit“.
+Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauigkeit“.
 Langford sagte: „Lärm liegt uns im Blut“, und bei der Aufnahme zog er es vor, das Noise Gate zu entfernen und die Umgebungsgeräusche intakt zu lassen.
 Dieser „vernarbte Klang“ war der Realismus, an den Mekons glaubte.
 
 ---
 
-### Kapitel 7: Jenseits von Dekonstruktion und Reorganisation
+### Kapitel 7: Jenseits von Dekonstruktion und Wiedervereinigung
 > **„Selbst wenn wir uns auflösen, wird es nicht enden. Denn es wird nicht enden, es ist Mekons.“**
 
 Die Mekons lösten sich mehrmals auf und formierten sich neu.

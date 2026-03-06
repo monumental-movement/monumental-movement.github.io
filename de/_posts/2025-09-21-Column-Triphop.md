@@ -109,7 +109,7 @@ Abgeleitet vom Bristol-Soundsystem „Wild Bunch“. 3D (Robert Del Naja) ist au
 
 #### Produktionstechnik
 
-Anstatt einen Plattenspieler zu verwenden, „verwandelt er das Studio in ein Instrument“ und mischt Samples und Live-Musik. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
+Statt eines Plattenspielers „verwandelt er das Studio in ein Instrument“ und vermischt Samples und Live-Auftritte. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
 
 #### Video funktioniert
 
@@ -154,7 +154,7 @@ Es gibt Dokumentationen über Tourneen aus den 90er-Jahren wie „Welcome to Por
 Endtroducing... steht im Guinness-Buch der Rekorde als „erstes Album, das vollständig aus Samples besteht“. Vervollständigt mit MPC und Plattenspieler.
 
 #### Produktionstechnik
-Nutzt die Breakbeat-Rekonstruktion, das Beat-Jonglieren und das Time-Stretching voll aus. Behandeln Sie den Plattenspieler als „Collage-Tool“.
+Vollständige Nutzung der Breakbeat-Rekonstruktion, des Beat-Jonglierens und des Time-Stretchings. Behandeln Sie den Plattenspieler als „Collage-Tool“.
 
 #### Video funktioniert
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
@@ -175,7 +175,7 @@ Nutzt die Breakbeat-Rekonstruktion, das Beat-Jonglieren und das Time-Stretching 
 Weltweite Präsentation der „japanischen Ruhe“ durch Welttourneen. Er wird von der westlichen Hip-Hop-Szene respektiert.
 
 #### Produktionstechnik
-Ein Stil, der den Plattenspieler als „Instrument“ betrachtet und versucht, ihn mit japanischen Musikinstrumenten und Umgebungsgeräuschen zu verschmelzen. Spezialisiert nicht nur auf das Scratchen, sondern auch auf die Raumproduktion.
+Ein Stil, der den Plattenspieler als „Instrument“ betrachtet und versucht, ihn mit japanischen Musikinstrumenten und Umgebungsgeräuschen zu kombinieren. Spezialisiert nicht nur auf das Scratchen, sondern auch auf die Raumproduktion.
 
 #### Video funktioniert
 
@@ -196,6 +196,15 @@ Das Kinogefühl von Trip Hop eignet sich perfekt für die Erstellung von Soundtr
 
 Trip Hop entwickelte sich durch die Härte von Massive Attack, die Langeweile von Portishead, die Sample-Ästhetik von DJ Shadow und die japanische Gelassenheit von DJ Krush.
 Heute läutet eine neue Ära ein, indem KI-Musikgenerierung und Soundtrack-Produktion kombiniert werden.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ay0HS8iWrI?si=BlgLowTv8OAg-Xn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

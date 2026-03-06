@@ -42,13 +42,13 @@ color: #fff;
 ### Kapitel 1: Schatten von Manchester
 
 **„Embryonale Post-Punk-Bewegung“**
-Ende der 1970er Jahre befand sich Großbritannien mitten in einer wirtschaftlichen Rezession und einem industriellen Niedergang, und in städtischen Gebieten entwickelte sich die Jugendkultur eigenständig. Manchester war keine Ausnahme, und unter dem Rauch der Fabrik und dem grauen Himmel existierte Musik als Medium, um Verzweiflung und Hoffnung zugleich auszudrücken.
+Ende der 1970er Jahre befand sich Großbritannien mitten in einer wirtschaftlichen Rezession und einem industriellen Niedergang, und die Jugendkultur entwickelte sich in städtischen Gebieten eigenständig. Manchester war keine Ausnahme, und unter dem Rauch der Fabrik und dem grauen Himmel existierte Musik als Medium, um Verzweiflung und Hoffnung zugleich auszudrücken.
 
 **"Anbruch der Bandgründung"**
 1976 trafen sich Bernard Sumner, Peter Hook und Stephen Morris und gründeten Joy Division. Die frühen Mitglieder verbanden sich durch die Schule und die lokale Punkszene und spielten zunächst Coversongs, entwickelten sich aber schließlich zu eigenen Songs, die ihr Gefühl der Isolation und der Düsterkeit der Stadt widerspiegelten.
 
 **"Einflussfaden"**
-Kraftrock von Kraftwerk und Neu!, die kalten, harten Klänge von Velvet Underground und die avantgardistischen Elemente von David Bowie und Roxy Music bildeten die Grundlage für den frühen Sound von Joy Division.
+Kraftrock von Kraftwerk und Neu!, die kalten, harten Klänge des Velvet Underground und die avantgardistischen Elemente von David Bowie und Roxy Music bildeten die Grundlage für den frühen Sound von Joy Division.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -86,7 +86,7 @@ Amazonで購入 → [Closer](https://amzn.to/48mYLF8)
 
 ### Kapitel 4: Wiederaufbau des Vermächtnisses – Umwandlung in eine neue Ordnung
 
-**„Die Zurückgebliebenen“**
+**„Diejenigen, die zurückgelassen haben“**
 Nach Curtis‘ Tod lösten die verbliebenen Mitglieder die Band nicht auf und suchten stattdessen eine neue Richtung. Mit Bernard Sumner am Gesang entsteht eine elektronischere und tanzbarere Musikalität.
 
 **"Fusion aus Synthesizer und Tanz"**

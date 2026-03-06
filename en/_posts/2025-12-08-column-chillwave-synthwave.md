@@ -49,7 +49,7 @@ The characteristics are as follows.
 
 - **Lo-fi recording**
 - **Soft texture centered on synth + sampler**
-- **Vocals melting into reverb**
+- **Vocal melts into reverb**
 - **Influenced by 80's city pop and dream pop**
 - **Visuals such as pale colors and blurry photos**
 
@@ -147,7 +147,7 @@ The equipment used in Chillwave and Synthwave is also very different.
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet series
--Korg Polysix
+- Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
 -Roland TR-707, TR-808

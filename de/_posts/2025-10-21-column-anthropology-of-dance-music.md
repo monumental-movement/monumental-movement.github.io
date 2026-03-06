@@ -152,7 +152,7 @@ flowchart TB
 
 ## Kapitel 4: Trance und Ekstase – Tanz als Bewusstseinstransformation
 
-### 1. Uralte Schicht im Trancezustand
+### 1. Uralte Schichten in Trance
 
 Tanz ist nicht nur Unterhaltung; Es ist auch eine Technik zur Bewusstseinsveränderung.
 Bei schamanistischen Ritualen

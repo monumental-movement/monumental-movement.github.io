@@ -19,7 +19,7 @@ title: '[Chronique] Korla Pandit et la vision d''Exotica : rêves et masques de
 ## Prologue : Qu'est-ce que l'exotisme ?
 
 
-Texte : mmr｜Thème : Explorer le rôle de Korla Pandit dans la période naissante de l'exotisme et l'esthétique de l'orientalisme dans la culture américaine d'après-guerre
+Texte : mmr｜Thème : Explorer le rôle des pandits Korla dans la création de l'exotisme et l'esthétique de l'orientalisme dans la culture américaine d'après-guerre
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -56,7 +56,7 @@ color: #fff;
 1. [Chapitre 1 : L'homme mystérieux nommé Korla Pandit] (#Chapitre 1)
 2. [Chapitre 2 : L'Amérique d'après-guerre et les « rêves étrangers »] (#Chapitre 2)
 3. [Chapitre 3 : La naissance de la musique exotique - De Les Baxter à Martin Denny] (#Chapitre 3)
-4. [Chapitre 4 : Les idoles de l'ère de la télévision - Le choc du « Korla Pandit Show »] (#Chapitre 4)
+4. [Chapitre 4 : Idoles de l'ère de la télévision - Le choc du « Korla Pandit Show »] (#Chapitre 4)
 5. [Chapitre 5 : La vérité derrière le masque - Confessions de John Rowland] (#Chapitre 5)
 6. [Chapitre 6 : Réverbérations d'Exotica - De la Longines Symphonette au Lo-Fi Revival] (#Chapitre 6)
 7. [Chapitre 7 : Réévaluation moderne et bouleversement culturel] (#Chapitre 7)

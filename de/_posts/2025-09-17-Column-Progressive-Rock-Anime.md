@@ -72,7 +72,7 @@ In den 1970er Jahren produzierten Progressive-Rock-Bands wie Pink Floyd und Yes 
 
 同時期のアニメは[『宇宙戦艦ヤマト』](https://amzn.to/4pxqmcR)[『機動戦士ガンダム』](https://amzn.to/3IpgXmS)など「スペースオペラ」的作品が登場。
 
-Obwohl es kaum direkten Kontakt zwischen den beiden gibt, ist es interessant, dass sie sich parallel zu ihrer „Einstellung, Geschichten aus einer kosmischen Perspektive zu schreiben“ entwickelten.
+Obwohl zwischen den beiden kaum ein direkter Kontakt besteht, ist es interessant, dass sie sich parallel zu ihrer „Einstellung, Geschichten aus einer kosmischen Perspektive zu schreiben“ entwickelten.
 
 ---
 
@@ -95,7 +95,7 @@ Andererseits gibt es jedoch immer noch Raum dafür, dass Progressive-Rock-Techni
 ### ■ Was wäre, wenn Progressive Rock in den Anime eingedrungen wäre?
 Stellen Sie sich das einfach vor.
 - Symphonischer Progressive Rock, der die Fantasiewelt von Hayao Miyazakis Werken unterstützt.
-- King-Crimson-artiges schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
+- King-Crimson-ähnliches, schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
 - Stellen Sie sich langfristige Serienwerke als Alben vor und entwerfen Sie Musik mit Progressive-Rock-Suiten für jede Staffel.
 
 Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombination aus Musikgenres und visuellen Ausdrucksformen, sondern hat das Potenzial, sich auf die strukturelle Gestaltung der gesamten Geschichte auszudehnen.
@@ -139,7 +139,7 @@ Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombinatio
 ### ■ Fazit
 Progressive Rock wurde im kommerziellen Anime nie zum „Mainstream“. Seine lange Komposition, sein schwieriger Rhythmus und seine konzeptionelle Natur weisen jedoch eine hohe Affinität zur Taiga-ähnlichen Entwicklung von Anime-Werken auf, die sich auf Science-Fiction und Fantasy konzentrieren.
 
-Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Wahnvorstellung „Was wäre, wenn Anime im Progressive Rock erzählt würde“ weiterhin neue Überschneidungen zwischen Musik und Video aufzeigen.
+Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Illusion „Was wäre, wenn Anime durch Progressive Rock erzählt würde“ weiterhin neue Schnittstellen zwischen Musik und Video aufzeigen.
 
 
 ---

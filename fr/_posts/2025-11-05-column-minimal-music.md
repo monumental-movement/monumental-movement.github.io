@@ -164,7 +164,7 @@ L'espace acoustique a été présenté comme un « minimalisme numérique ».
 
 ### Liste des artistes minimalistes japonais
 
-| Artiste | Travaux principaux | Caractéristiques |
+| Artiste | Principaux travaux | Caractéristiques |
 |------|------------|------|
 | Isão Tomita | 《Clair de lune》《Planète》 | Musique classique électronique/raffinement acoustique |
 | Ryoji Ikeda | 《dataplex》《modèle de test》 | Minimalisme mathématique/fréquentiel |

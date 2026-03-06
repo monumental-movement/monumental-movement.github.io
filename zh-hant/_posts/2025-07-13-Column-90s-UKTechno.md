@@ -43,7 +43,7 @@ title: '[專欄]英國Techno的黃金時代'
 
 [**● 外科醫生（安東尼·柴爾德）**](https://amzn.to/3J8lKJC)
 
-伯明翰科技的旗手。堅硬、工業、堅固。他因發行《Tresor》和《Downwards》而聲名鵲起，至今仍是英國 techno 的核心人物。
+伯明翰科技的旗手。堅硬、工業、堅固。他因发行《Tresor》和《Downwards》而声名鹊起，至今仍是英国 techno 的核心人物。
 
 [**● 盧克·斯萊特**](https://amzn.to/4mZWTpi)
 

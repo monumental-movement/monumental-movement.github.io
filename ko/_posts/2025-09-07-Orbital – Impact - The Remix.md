@@ -13,13 +13,13 @@ title: Orbital – Impact - The Remix
 ---
 
 
-The Chemical Brothers(케미컬 브라더스), Underworld(언더월드), The Prodigy(프로디지) 등과 함께 90년대 테크노 씬을 대표하는 UK 일렉트로/테크노 뮤직의 대장소 Orbital(오비탈)의 가장 칭찬된 앨범 'Orbital 2(Brown Album)
+The Chemical Brothers(케미컬 브라더스), Underworld(언더월드), The Prodigy(프로디지) 등과 함께 90년대의 테크노 씬을 대표하는 UK 일렉트로/테크노 뮤직의 대장소 Orbital(오비탈)의 가장 칭찬된 앨범 'Orbital 2(Brown Album)
 
 A의 "Impact USA"는 "Impact (The Earth Is Burning)"의 셀프 리믹스.
 
 B의 "Lush"는 EDM DJ / 프로듀서 Francis Prève와 Cochise (Jeremy Ball)에 의한 remix.
 
-댄스 뮤직 라벨 FFRR Records에서 1993 년에 출시 된 Techno 트랙.
+댄스 뮤직 라벨 FFRR Records에서 1993 년에 발표 된 Techno 트랙.
 
 
 #### Tracklist

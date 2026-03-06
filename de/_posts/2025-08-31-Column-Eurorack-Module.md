@@ -48,13 +48,13 @@ Eurorack ist kleiner und erschwinglicher als die traditionellen Modelle Moog und
 
 **Repräsentative Module**: Plonk, Metropolis, Tetrapad
 
-Merkmale: Wir produzieren viele hochwertige digitale Module und sind besonders stark bei Sequenzern und Performance-Schnittstellen.
+Features: Wir produzieren viele hochwertige digitale Module und sind besonders stark bei Sequenzern und Performance-Interfaces.
 
 #### Veränderliche Instrumente
 
 **Repräsentative Module**: Braids, Rings, Clouds
 
-**Funktionen**: Als Open Source entwickelt, bietet Module, die eine flexible Klangerstellung ermöglichen. Es verfügt über eine besonders hervorragende Klangvielfalt.
+**Funktionen**: Als Open Source entwickelt, bietet Module, die eine flexible Klangerstellung ermöglichen. Besonders hervorzuheben ist die Klangvielfalt.
 
 ---
 
