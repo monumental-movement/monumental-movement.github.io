@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 灰野敬二 ― 境界を越える音の巡礼"
 author: mmr
 categories: [ Column ]
-tags: [ experimental, improvisation, psychedelic ]
+tags: [ experimental, improvisation ]
 image: ../assets/images/column-keiji-haino.webp
 date: 2026-03-06 00:00:00 +0900
 ---
