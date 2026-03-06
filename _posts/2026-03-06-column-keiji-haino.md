@@ -388,17 +388,44 @@ D --> E
 
 以下はその中でも広く知られる重要作品の流れである。
 
-| 年    | 作品                           | 名義        | 概要         |
-| ---- | ---------------------------- | --------- | ---------- |
-| 1981 | Watashi Dake?                | 灰野敬二      | 初期ソロ作品     |
-| 1981 | Tori                         | 不失者       | 不失者名義の初期録音 |
-| 1991 | Affection                    | 灰野敬二      | 静謐な歌とギター   |
-| 1993 | Nijiumu                      | 灰野敬二      | 声と音響の実験    |
-| 1994 | Hitorri                      | 灰野敬二      | アコースティック中心 |
-| 2001 | I Said This Already          | 灰野敬二      | ギター即興      |
-| 2008 | Purple Trap                  | 灰野敬二      | 電子的音響を導入   |
-| 2016 | Nazoranai                    | Nazoranai | 即興トリオ作品    |
-| 2019 | Ichi To Ichi Ga Kasanariatte | 灰野敬二      | ソロ音響作品     |
+以下、複数の信頼できる情報源（Discogs、Wikipedia、Red Bull Music Academy、Vinyl Factory等）を元にまとめました。
+
+---
+
+## 灰野敬二 重要作品リスト
+
+### ソロ名義
+
+| 年 | タイトル | レーベル | 備考 |
+|---|---|---|---|
+| 1981 | **わたしだけ？** | Pinakotheca | ソロ・デビュー作。2017年にBlack Editionsが高品質リイシュー |
+| 1990 | **滲有無（Nijiumu）** | PSF | ソロ声楽・音響作品の代表作 |
+| 1992 | **慈（Itsukushimi / Affection）** | PSF | 1992年リリースのライブ録音盤 |
+| 1993 | **A Challenge to Fate（運命への挑戦）** | PSF | 1994年リリース。ソロ名義の重要作 |
+| 1995 | **I Said, This Is the Son of Nihilism** | Table of the Elements | アメリカでの重要リリース |
+| 1995 | **Tenshi No Gijinka** | Tzadik | パーカッションのみによるソロ作。儀式的な響きを持つ |
+| 2003 | **C'est parfait, le parfum de l'amour...** | PSF | 2002年のライブ録音。声とリズムマシンによる90分の傑作 |
+
+### 不失者（Fushitsusha）名義
+
+| 年 | タイトル | レーベル | 備考 |
+|---|---|---|---|
+| 1989 | **不失者 Double Live（Live I）** | PSF | PSFレーベル最初期のリリースのひとつ。2枚組ライブLP |
+| 1990 | **Live in the First Year of Heisei, Vol.1 & 2**（三上寛・吉沢元治と共演） | PSF | 三上寛・吉沢元治とのトリオによる即興の傑作 |
+| 1991 | **不失者（Double Live / Live II）** | PSF | 1990年代日本サイケデリック・ロックの重要文書のひとつ |
+| 1993 | **寓意的な誤解（Allegorical Misunderstanding）** | Avant（John Zorn主宰） | John ZornのAvantレーベルからリリース |
+| 1994 | **悲愴（Pathétique）** | PSF | Oren Ambarchiが「最も好きなFushitsusha作品のひとつ」と評する |
+
+### コラボレーション・その他名義
+
+| 年 | タイトル | 共演者 | 備考 |
+|---|---|---|---|
+| 2000頃 | **Aihiyo** | 川口雅己・高橋いくろ | 日本のポップスや洋楽のカバーを壊滅的に再解釈したトリオ作 |
+| 2012〜 | **Nazoranai（なぞらない）** | Stephen O'Malley、Oren Ambarchi | O'Rourke・Ambarchiとは別に、O'Malley・Ambarchiとの即興トリオ。複数作をリリース |
+| 2010〜 | **Haino / O'Rourke / Ambarchi** シリーズ | Jim O'Rourke、Oren Ambarchi | 毎年のようにアルバムをリリースする長期継続プロジェクト |
+
+---
+
 
 これらの作品は、ロック、ドローン、即興、民族音楽の要素などを横断しながら、常に異なる表情を見せている。
 
@@ -704,7 +731,7 @@ Haino --> DJStyle[DJ灰野敬二]
 それらがすべて同時に存在するのが灰野の音楽である。
 
 ギターの轟音と静寂の間。
-儀式のような演奏と、個人的な祈りのような歌。
+演奏と歌。
 そこではジャンルという言葉が意味を失う。
 
 灰野敬二という存在そのものが、一つの音楽ジャンルになっていると言っても過言ではない。
