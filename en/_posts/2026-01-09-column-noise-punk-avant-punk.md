@@ -72,7 +72,7 @@ DNA was a band active in New York in the late 1970s, and was a core member of th
 
 The guitar does not form chords, but emit single notes or irregular noises. The bass and drums don't share a beat, and the performance is always on the verge of collapse. The vocals reject the melody and are released as fragmented words and screams.
 
-Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established''.
+Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established.''
 
 > DNA achieved the paradox of denying rock by performing.
 
@@ -137,7 +137,7 @@ timeline
 
 This trend occurred intensively in a short period of time and left a deep influence on subsequent alternative music.
 
-> The history of noise punk is short, but its aftershocks are long lasting.
+> Although the history of noise punk is short, its aftershocks continue for a long time.
 
 ---
 

@@ -137,7 +137,7 @@ The multi-layered style of drums and percussion centered around Yoshimi P-We wou
 ### 4-2. New phase with "Seadrum / House of Sun"
 
 In 2004, released "Seadrum / House of Sun".
-Elements of beach recording, long drones, meditative structures, ambient sounds and repetition combine to create a world that feels like a ""sonic ritual''.
+Elements of beach recordings, long drones, meditative structures, ambient sounds and repetition combine to create a world that feels like a ""sonic ritual''.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ObBwAq-Nx0A?si=Rg_siWf8KjzNuZaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

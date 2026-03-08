@@ -64,7 +64,7 @@ A mix of German krautrock (Can, Neu!), African music, electronic ambient, and It
 It's like an extraterrestrial jukebox.
 
 - **Ritual**:
-At Cosmic Club, the lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
+At Cosmic Club, lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
 Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
 ---

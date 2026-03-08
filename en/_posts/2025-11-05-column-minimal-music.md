@@ -30,7 +30,7 @@ Abandoning the drama and emotional expression that traditional Western music has
 Instead, it has transformed into an art that allows us to listen to "time and structure" itself.
 Terry Riley"s "In C", Steve Reich"s "Piano Phase",
 And Philip Glass's "Einstein on the Beach"——
-They elevated the repetition of sound to a meditative experience rather than a boring experience.
+They elevated the repetition of sound to a meditative experience rather than a boring one.
 
 Eventually, this philosophy permeated the world of electronic music.
 In the constant rhythm of TR-808 and 909,

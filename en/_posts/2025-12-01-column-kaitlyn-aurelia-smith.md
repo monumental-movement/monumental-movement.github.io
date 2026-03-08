@@ -124,7 +124,7 @@ By mixing Buchla's electronic waveforms with the rustling of the forest, the sou
 The instability of Buchla, the manual nature of patching, the uncontrollable deviations and fluctuations - these are not welcomed as ""flaws", but rather as ""creative margins", ""unexpected chemical changes", and ""sound coincidences".
 
 - **Body sensation and vibration experience**
-Rather than viewing sound as something you hear with your ears, we consider it to be something you feel with your body and something you experience as vibrations. Voice, breathing, movement, vibration - by connecting these with the electric vibrations of the synthesizer, music is expanded into a perception that uses not only the auditory sense but also the entire body.
+Rather than thinking of sound as something you hear with your ears, we consider it something that you feel with your body and something that you experience as vibrations. Voice, breathing, movement, vibration - by connecting these with the electric vibrations of the synthesizer, music is expanded into a perception that uses not only the auditory sense but also the entire body.
 
 - **Multiple layers of temporality, spatiality, and memory**
 Drones, undulations, pads, and field recordings extend time, thicken space, and create memories, emotions, and connections to nature in sound.
@@ -169,9 +169,9 @@ In this way, her sound has not evolved in a linear manner, but has continued to 
 
 ---
 
-## Conclusion — Message to those who love Buchla
+## Closing — A message to those who love Buchla
 
-Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-off of skills. Her goal is to create a rich and poetic ""world of sensations" that interweaves ""the body, nature, electricity, time, and space" through the ""technical device'' of a modular synth.
+Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-off of skill. Her goal is to create a rich and poetic ""world of sensations" that interweaves ""the body, nature, electricity, time, and space" through the ""technical device'' of a modular synth.
 
 If you love Buchla and modular synths not just as equipment, but as ""living sound vessels," ""vibrating bodies," and ""a mixture of chance and necessity,'' her work will serve as a guidepost for your exploration.
 

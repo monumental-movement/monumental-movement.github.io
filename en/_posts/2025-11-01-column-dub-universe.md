@@ -133,7 +133,7 @@ They spatially processed rhythmic particles and established **dub techno**.
 Its successors include **Deepchord**, **Rhythm & Sound**, and **Echospace**.
 
 In the ambient field, **The Orb**, **Bill Laswell**, **Kode9**, **Burial** and others
-He continued to explore the dub-like space.
+He continued to explore the dub space.
 Burial's "Untrue" (2007)
 It can truly be called a **lonely dub of the post-digital era**.
 

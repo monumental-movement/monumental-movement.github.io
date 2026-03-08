@@ -215,7 +215,7 @@ It is composed of elaborate metaphors and abstract expressions.
 ## ● Sound composition
 
 * Low, growling bass
-* Ominous sample loop
+* ominous sample loop
 * Intermittent synth noise
 * Detailed percussion with MPC chop
 * A mix of cool textures throughout

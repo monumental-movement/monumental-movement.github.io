@@ -116,7 +116,7 @@ While this formalization lowers the barrier to entry, it also limits the range o
 
 ## 10. Commercialization and critical perspective
 
-Lo‑Fi Hip Hop / Chillhop was strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
+Lo‑Fi Hip Hop/Chillhop is strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
 
 On the other hand, there is also criticism that consuming music as a background makes it difficult to evaluate individual works.
 
@@ -130,7 +130,7 @@ Lo‑Fi Hip Hop has connections with genres such as jazz, soul, ambient, and dow
 
 ## 12. Regionality and globalization
 
-This culture is not limited to a specific region, but is formed simultaneously over the internet. Therefore, it is characterized by the fact that it does not have a clear geographical center.
+This culture is not limited to a specific region, but is formed simultaneously over the Internet. Therefore, it is characterized by the fact that it does not have a clear geographical center.
 
 ---
 

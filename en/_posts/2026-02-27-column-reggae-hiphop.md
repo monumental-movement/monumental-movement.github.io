@@ -162,7 +162,7 @@ Reggae presented a postcolonial identity in sound. Hip-hop visualized urban real
 * Commercial success of dancehall
 * International standardization of hip-hop
 
-> Reggae × Hip-Hop is a microcosm of the cultural circulation created by cities.
+> Reggae x Hip-Hop is a microcosm of the cultural circulation created by cities.
 
 ---
 

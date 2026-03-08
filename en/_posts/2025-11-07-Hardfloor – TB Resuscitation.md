@@ -17,7 +17,7 @@ title: Hardfloor – TB Resuscitation
 Hardfloor was formed in 1991.
 German acid techno/tech house duo.
 
-Hardfloor"s first album was released in 1993 on the UK independent label Moonshine Music. Hardfloor"s masterpiece, which is considered a masterpiece of techno/acid techno.
+Hardfloor's first album was released in 1993 on the UK independent label Moonshine Music.テクノ・アシッドテクノの名盤されるHardfloorの代表作。
 
 #### Tracklist
 ```md

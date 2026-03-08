@@ -13,7 +13,7 @@ title: Chip Chip – Let Me Give You All My Love
 
 
 
-Chip Chip is an Italian duo project. The vocals are different for each release, and the vocals for "Let Me Give You All My Love", released in 1989 on the Italo Disco/Hi NRG label Flea Records, are performed by Elena Ferretti and Daniela Rando.
+Chip Chip is an Italian duo project. The vocals are different for each release, and the vocals for "Let Me Give You All My Love," released in 1989 on the Italo Disco/Hi NRG label Flea Records, are performed by Elena Ferretti and Daniela Rando.
 
 Arranged by Giuliano Crivellente, Mauro Farina, Michael Gordon. The producer is FCF (Farina/Crivellente/Fadinger).
 

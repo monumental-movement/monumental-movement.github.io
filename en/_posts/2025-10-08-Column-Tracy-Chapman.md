@@ -19,7 +19,7 @@ title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
 
 
-""Speaking for the voiceless"' - this is perhaps one of the most appropriate expressions to describe Tracy Chapman"s music and life.
+""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
 Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
@@ -57,7 +57,7 @@ These experiences later led to the social awareness and focus on the weak that c
 ---
 
 ### ● Between academics and music
-After attending local schools, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
+After attending a local school, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
 
 He later took his passion for music and literature to Tufts University, where he studied art and humanities while continuing his musical career.
 It is said that during his university days, his daily activities included live performances on campus, improvisational performances with friends, and the fusion of poetry and music.
@@ -116,7 +116,7 @@ However, this song contains the will to resist oppression, an eye toward social 
 
 ### ● Voices that resonate with character relationships
 Chapman"s musical worlds often depict other people"s perspectives and characters' stories.
-"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she says.
+"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she said.
 This way of speaking has an affinity with folk and blues traditions.
 
 She cites gospel, soul, and folk singers as her musical influences, and has a strong sense of forming a collective voice rather than an individual voice.
@@ -229,7 +229,7 @@ I hope that through this column you will be able to reconsider the contours of T
 
 ---
 
-### Tracy Chapman complete album discography
+### Tracy Chapman Complete Album Discography
 
 | Year | Title | Notes/Features | Link |
 | ---- | --------------------- | ------------------ | ---------------------------------- |

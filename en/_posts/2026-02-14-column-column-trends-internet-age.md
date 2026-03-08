@@ -50,7 +50,7 @@ color: #fff;
 
 In 1995, the introduction of the MP3 format made it easier to compress and share music files, creating an environment in which people could enjoy music without having to rely on purchasing CDs. Los Angeles indie band The Postal Service and Berlin's underground techno tracks reached DJs and listeners around the world via MP3.
 
-In 1999, Napster was introduced and P2P music exchange exploded. New York college students swapped Jay-Z and Eminem albums, which became a hot topic at clubs in London and Tokyo. These movements have led to the formation of new hits that cannot be measured using traditional charts.
+In 1999, Napster was introduced, and P2P music exchange exploded. New York college students swapped Jay-Z and Eminem albums, which became a hot topic at clubs in London and Tokyo. These movements have led to the formation of new hits that cannot be measured using traditional charts.
 
 In Tokyo, the movement to reevaluate Shibuya-kei and city pop reached overseas fans via the internet, and there were even cases where it was featured in DJ sets in New York and Paris.
 
@@ -80,7 +80,7 @@ There has also been an increase in the number of independent artists entering th
 
 ## Late 2010s-2020s: Short videos and algorithm-driven
 
-> The viral power of short videos such as TikTok and YouTube Shorts has become the starting point for new hits, and the traditional chart structure has also changed.
+> The viral power of short videos such as TikTok and YouTube Shorts has become the starting point for new hits, and the traditional chart structure has changed.
 
 Since 2016, TikTok and YouTube Shorts have become the main means of spreading music. "Old Town Road" by American rapper Lil Nas Even in Berlin's club scene, techno tracks that gained attention on TikTok were shared across the city by fans and DJs.
 

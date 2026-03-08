@@ -18,7 +18,7 @@ Tomas Andersson is an electro/techno/synthwave producer from Sweden. He is also 
 
 A1 is a remix by DJ/producer Tim Deluxe from Belfast, Northern Ireland.
 
-B1は、モントリオールを拠点とするカナダのプロデューサー/DJ Tigaによるremix。
+B1 is a remix by Montreal-based Canadian producer/DJ Tiga.
 
 B2 is a remix by David Parr and James Day.
 

@@ -128,7 +128,7 @@ These characteristics made Nate Dogg's voice an essential component of G-Funk.
 
 ## 6. Solo works and their positioning
 
-Nate Dogg is highly acclaimed for his guest appearances, but he has also released several solo albums.
+Nate Dogg is highly acclaimed for his guest performances, but he has also released several solo albums.
 
 #### ■ "G-Funk Classics, Vol. 1 & 2" (1998)
 
@@ -173,7 +173,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-213, consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
+Snoop、Warren、Nate の三人による 213 は、2004年に **正式なスタジオアルバム『The Hard Way』** をリリース。  
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---
@@ -236,9 +236,9 @@ Nate Dogg is the source of Ty Dolla $ign, Akon, Anderson .Paak, and T-Pain.
 
 ### ■ The voice itself has become a symbol of the genre.
 
-The relationship between G-Funk and the voice of Nate Dogg remains strong even today.
+G-Funk＝Nate Dogg の声、という関係は現在も揺るがない。
 
-### ■ A rare example of defining the "voice texture" of a specific genre
+### ■ 特定ジャンルの“声の質感”を定義した希有な例
 
 The golden age of West Coast hip-hop cannot be talked about without his voice.
 
@@ -252,7 +252,7 @@ But it remained part of hip-hop's most central sound.
 He drifted between genres while giving the beat a solid foundation.
 There is no one else with a voice that balances sweetness and hardness, smoothness and streetness.
 
-**Nate Dogg is a symbol of G-Funk and a vocal revolution in hip-hop history. **
+**Nate Dogg は G-Funk の象徴であり、ヒップホップ史における"声の革命"そのものである。 **
 The hooks he left behind continue to live on in hip-hop around the world.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfA6jewSunU?si=RC-arUXmBDq_mAje" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

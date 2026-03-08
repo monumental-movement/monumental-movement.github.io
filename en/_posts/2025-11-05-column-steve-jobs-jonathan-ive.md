@@ -49,7 +49,7 @@ color: #fff;
 Steve Jobs was a product of the California counterculture of the late 1960s and 1970s.
 His admiration for Bob Dylan and the Beatles from a young age is confirmed by numerous biographies.
 
-In Walter Isaacson's biography "Steve Jobs" (2011), he has a **tube amplifier and record player** in his living room.
+In Walter Isaacson's biography "Steve Jobs" (2011), his living room has a **tube amplifier and a record player**.
 It is said that he listened to albums by Bob Dylan and Joan Baez every night.
 
 > "Dylan's words have soul. They are not the sounds of a machine."

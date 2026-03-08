@@ -10,17 +10,17 @@ tags:
 - TB‑303
 - TR‑808
 - TR‑909
-title: '[Column] Make your equipment softer—The impact of ReBirthRB‑338'
+title: 【コラム】 機材をソフトに──ReBirthRB‑338の衝撃
 ---
 
 
-## Introduction: Why ReBirth was "shocking"
+## はじめに：なぜReBirthが“衝撃”だったのか  
 
 
 Text: mmr｜Theme: Re-thinking ReBirth not only as ""innovation as a tool" but also as an opportunity for ""changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
 
-In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
-What this software offered was the possibility of ""making those legendary equipment (Roland TB‑303, Roland TR‑808, Roland TR‑909) usable on your personal computer.''
+1990年代後半、電子音楽制作のフロンティアには、ひとつの鮮やかな変化が訪れていました。ハードウェア・シンセサイザーやドラムマシンを使ったアナログ／機材ベースの制作が当たり前だった中で、ひとつのソフトウェアがその“当たり前”を揺さぶったのです。それが、スウェーデン発のソフトウェア／音楽制作ツール・メーカー Propellerhead Software によるReBirthRB‑338。  
+このソフトウェアが提示したのは、「あの伝説の機材（Roland TB‑303、Roland TR‑808、Roland TR‑909）を、手元のパソコンで使えるようにする」という可能性でした。  
 ReBirth bypassed the hurdles of obtaining hardware, the cost of maintaining it, and the difficulty of transporting and operating it, and introduced a new wave of ""democratization through software," which is why it was an event that could be called a ""shock".
 
 
@@ -43,26 +43,26 @@ color: #fff;
 ## Prehistory: Context of the analog equipment/hardware synth era
 Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among them, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalysts that changed the tone, performance style, and culture.
 
-### Birth of TB‑303 and "acid"
-The TB‑303 was a bass line synthesizer released around 1981. Although it was originally designed as a ""equipment to imitate bass playing,'' it failed to fulfill its purpose in the early years and was a failure in the market, and it began to be distributed second-hand at a low price.
-However, in the late 1980s, in the context of club house/acid house, the TB-303's "distorted filter" and "grilling bassline" tones were rediscovered, and became the signature sound of acid house, as exemplified by Acid Tracks (Phuture).
+### TB‑303と“アシッド”の誕生  
+TB‑303は1981年頃に発売されたベース・ライン・シンセサイザーでした。元々「ベース演奏を模する機材」として設計されたものの、初期ではその目的を果たせず市場的には失敗機となり、廉価で中古流通するようになっていました。 
+しかしながら、1980年代後半、クラブ・ハウス／アシッド・ハウスの文脈で、TB‑303の“歪んだフィルター”、“グリグリと変化するベースライン”という音色が再発見され、たとえば Acid Tracks（Phuture）などに代表されるように、アシッド・ハウスを象徴するサウンドとなりました。 
 
-However, handling the TB-303 required unique habits and skill in setting the number of notes, accents, slides, and operating the step sequencer. Furthermore, it was not a piece of equipment that anyone could easily use, as there were few in circulation and the price was soaring.
+とは言え、TB‑303を扱うにはノート数・アクセント・スライドの設定・ステップ・シーケンサー操作という、独特の癖と熟練が要求されました。 Furthermore, it was not a piece of equipment that anyone could easily use, as there were few in circulation and the price was soaring.
 
-### TR‑808/TR‑909 and standard rhythm equipment
+### TR‑808／TR‑909とリズム機材の定石  
 Around the same time, the TR‑808 (early 1980s) and TR‑909 (mid 1980s) were gaining acclaim as rhythm machines. In particular, the 808"s "boom-bon" kick sound, snap, and sharp hi-hat, and the 909"s punchy kick and cymbal sound have become standard tones in house, techno, and hip-hop.
-However, these devices also had problems, and there were practical constraints such as maintenance, repair, sound stability, and transportation, which posed hurdles to their use.
+しかしながら、これらの機材もまた問題を抱えており、保守・修理・音の安定・運搬といった実務面で制約があり、使用にはハードルがありました。
 
-### Signs of changes in the production environment
-In the 1990s, the performance of personal computers (PC/Mac) gradually improved, and MIDI/sequencer software/samplers began to become popular. As a result, an environment in which ""creating music on a computer'' was gradually becoming established.
-However, the culture was still centered on ""owning equipment" and ""operating hardware," and a production environment that consisted solely of software was not yet common.
+### 制作環境の変化の兆し  
+1990年代に入り、パソコン（PC／Mac）の性能が徐々に向上し、MIDI／シーケンサー・ソフト／サンプラーなどが普及し始めます。これにより「コンピューター上で音楽を作る」という環境が少しずつ成立し始めていました。  
+しかしながら、依然として“機材を所有する”“ハードウェアを操作する”という文化が中心で、ソフトウェアだけで完結する制作環境はまだ一般的ではありませんでした。  
 In this context, the bottleneck of ""the cost and effort of owning hardware and equipment'' became a barrier to production for creators who did not own or could not afford the equipment.
 
 ---
 
-## Development background and appearance: Propellerhead Software's challenge
-Founded in Sweden in 1994, Propellerhead Software has focused on computer/software music production environments from the beginning. They published an alpha version of ReBirth for MacOS in October 1996 and released the official version in 1997.
-ReBirth rebuilt two TB‑303s, one TR‑808 in software, and later added TR‑909 in version 2.0.
+## 開発背景と登場：Propellerhead Softwareの挑戦  
+1994年にスウェーデンで設立されたPropellerhead Softwareは、当初からコンピューター／ソフトウェアを用いた音楽制作環境に注力していました。彼らは、1996年10月にMacOS向けにReBirthのアルファ版を公開し、1997年に正式版をリリースしました。 
+ReBirthは、2台のTB‑303、1台のTR‑808をソフトウェア上で再構築し、後のバージョン2.0ではTR‑909も加えられました。 
 
 The approach that Propellerhead chose was to ""reinterpret the sound, operability, and experience on a computer" rather than ""copying the hardware as is".
 In other words, the "equipment" such as the TB-303 and TR-808/909 is transformed into a "software tool" in response to changes in the times and environment. It can be said that this idea itself shook up the traditional production style that centered on owning equipment.
@@ -79,27 +79,27 @@ Let's sort out some of the characteristics that ReBirth had.
 - Featuring 2 x TB-303, 1 x TR-808 (first edition), and later 1 x TR-909.
 - A "pattern selector" is included with each emulated device. This allows you to quickly switch between different patterns and avoids the trouble of reprogramming to play a different pattern, which was a hassle with the original hardware equipment.
 - Integrated mixer, effects (delay, distortion, compressor) and pattern sequencer functions. Users were able to experience the flow of "construction → performance → output" within one software.
-- Expandability with MIDI/sync function and cooperation with other software (later compatible with ReWire).
-- Because the price and operating environment were relatively low, it was easily accessible to creators who could not own hardware equipment.
+- MIDI／シンク機能、他ソフトとの連携（後年のReWire対応）による拡張性。
+- 価格・動作環境が比較的低めだったため、ハード機材を所有できないクリエイターにも手が届きやすかったこと。 
 
-### "Democratization" of user experience and operability
+### ユーザー体験と操作性の“民主化”  
 What these features meant was that ""even if you didn't own the equipment, you could obtain, program, and transmit sounds similar to the equipment," or in other words, ""the entrance to music production has expanded."
-At the time, acquiring, maintaining, and operating the TB-303 and TR-808/909 was a major hurdle for many creators and producers. However, with ReBirth, you can generate "similar" sounds as long as you have a computer environment, and operability such as "pattern switching" and "sequencer configuration" has become much easier.
+At the time, acquiring, maintaining, and operating the TB-303 and TR-808/909 was a major hurdle for many creators and producers. However, with ReBirth, you can generate sounds that sound like that with just a computer environment, and operability such as pattern switching and sequencer configuration has become much easier.
 For example, one user said (via Reddit):
 > "The 303s are definitely software synths… The 808 and 909 were definitely samples and not synth emulations. I spent a ridiculous amount of time using Rebirth and many, many of its mods."
 
-It is also interesting that this kind of "mod (user modification) culture" was born. ReBirth also has functions such as ""skin change" and ""sound change (user mod)", and a culture has developed where users can enjoy modifying and sharing the interface and sounds themselves.
+このような"モッズ（ユーザー改変）文化"が生まれたのも興味深い点です。 ReBirth also has functions such as ""skin change" and ""sound change (user mod)", and a culture has developed where users can enjoy modifying and sharing the interface and sounds themselves.
 
 ### Technological limitations and skillful avoidance
 Furthermore, ReBirth was not a panacea either. PC processing power, sound card performance, latency (delay), and sonic reality (physical characteristics of analog circuits) were inferior in some respects to hardware equipment. For example, there are criticisms that it does not completely reproduce the "noise/habits/distortion" of the real TB-303.
-However, ReBirth had achieved the best balance at that time in terms of providing a ""sufficiently usable" quality and a ""cheap, easy, and integrated software environment." In fact, reviews say it's "a considerable software success story of 1997."
+However, ReBirth had achieved the best balance at that time in terms of providing a ""sufficiently usable" quality and a ""cheap, easy, and integrated software environment."実際、レビューでは "a considerable software success story of 1997" と評価されています。
 
 In this way, ReBirth was not only a technological innovation, but also a tool that changed the user experience.
 
 ---
 
-## Influence on music culture: from the perspective of techno/acid/PC music production
-ReBirth's impact goes beyond just being a software synthesizer. Rather, what is important is that it restructured the "possibilities of access and expression" in the cultural fields of electronic music, clubs, techno, and DIY production.
+## 音楽カルチャーへの影響：テクノ／アシッド／PC音楽制作の視点から  
+ReBirth's impact goes beyond just being a software synthesizer.むしろ、電子音楽・クラブ・テクノ・DIY制作という文化領域において、"アクセスと表現の可能性"を再構築した点が重要です。
 
 ### Acid techno again: popularizing the TB‑303 sound
 The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more maniacal. Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
@@ -116,7 +116,7 @@ In this way, ReBirth brought about changes in the production scene through the t
 
 ---
 
-## Changes in industry/software/ecosystem (ReWire/VST/pluginization)
+## Changes in industry, software, and ecosystems (ReWire, VST, plug-ins)
 The introduction of ReBirth was not just the success of a single software synthesizer, but also prompted a structural change in the music production environment itself.
 
 ### "Modularization" and coordination of production tools
@@ -124,22 +124,22 @@ ReBirth was not only complete as a standalone software, but also had "linkage fu
 In this way, the direction of ""using a combination of software/modules" rather than ""complete with a single software" naturally emerged during the ReBirth era.
 
 ### Accelerating the spread of plug-ins/VST/software synths
-From the late 1990s to the 2000s, plug-in formats such as VST (Virtual Studio Technology) and AU (AudioUnits) spread. ReBirth can be said to have "practicalized" the software synth genre and laid the foundation for the transition from a production environment centered on hardware equipment to one centered on software. The phrase "the first soft-synth emulation" is also used in the review.
+1990年代末から2000年代にかけて、VST（VirtualStudioTechnology）やAU（AudioUnits）といったプラグイン形式が広がりました。ReBirthは、ソフトウェア・シンセというジャンルを“実用化”し、ハード機材中心の制作環境からソフト中心の環境へと移行する礎を築いたと言えます。レビューでも“the first soft‑synth emulation”という言葉が用いられています。 
 
 These industrial changes were also a turning point where music production software was positioned as ""equal to, or even better than, equipment.'' As a result, the software instrument/effects market has expanded and many companies have entered the market.
 
-### Restructuring of production process/workflow
-More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality: ""Start up the software, create a pattern, synchronize MIDI and audio, and output.''
-This change was especially significant in the context of the "home/personal studio." By creating an environment in which space, equipment, and effort can be saved to some extent, the range of creators has expanded.
+### 制作プロセス／ワークフローの再構築  
+More importantly, the production workflow itself has changed.かつては"機材を揃えてセッティングして演奏・録音"という流れが中心だったところ、ReBirth以降は"ソフトを起動して→パターンを組んで→MIDIやオーディオを同期して→出力"という"コンピュータ内完結"型の流れが現実化しました。
+This change was especially significant in the context of the "home/personal studio."場所・機材・手間をある程度省略できる環境が整ったことで、クリエイターの裾野が拡がったのです。
 
 ---
 
 ## Turning point and end: From desktop to mobile to the end of ReBirth development
-While ReBirth became widely popular in the few years after its introduction, it reached a "turning point" over time and eventually ended its development. By tracing its trajectory, we can more objectively grasp the changes in the music production environment.
+ReBirthは、その登場から数年で広く普及した一方で、時間とともに"転換期"を迎え、最終的には開発終了という道を辿ります。 By tracing its trajectory, we can more objectively grasp the changes in the music production environment.
 
 ### Main milestones
 - October 1996: Alpha version released for MacOS.
-- 1997: Official version released.
+- 1997: Official release.
 - November 1998: Version 2.0 (TR‑909 added) released.
 - September 1, 2005: Official support for the desktop version ended.
 - April 2010: iOS (iPhone/iPad) version released.
@@ -150,10 +150,10 @@ After ReBirth's support ended, its ideas and functionality were inherited by oth
 On the other hand, several years after the mobile version was released, it was also removed from the App Store due to IP rights/trademark issues. This incident once again demonstrated that software-based equipment touches the "boundary of intellectual property."
 
 ### "The End" and its reading
-Although the software called ReBirth did not continue to be expanded in active use, its "death" itself has multiple layers of meaning.
-- One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
-- And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
+Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
+- ひとつには、機材→ソフトという潮流が一定の成熟を得て、“次の段階”へ移行したこと。  
+- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
+- そして、個人制作／ソフトウェア中心の環境が当たり前になる中で、“ハード機材をソフトで再現する”というテーマが再び問い直されるようになったこと。  
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 
 ---

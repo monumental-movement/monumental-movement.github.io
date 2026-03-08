@@ -58,9 +58,11 @@ Around the same time, bands such as The Replacements, Hüsker Dü, The Feelies, 
 In the UK, The Smiths debuted in 1984. Combining the delicacy of guitar pop with social themes, it determined the values ​​of later indie rock.
 
 The common feature of this period is that ""ideology preceded music.''
-・Distance from commercialism
-・Rising from local cities and university towns
+
+- distance from commercialism
+- Rising from regional cities and university towns
 - Pick up emotions and voices that are not covered by the majors
+
 These three became the basis for later Alterna.
 
 ---
@@ -84,9 +86,11 @@ During this period, the core of what would become "Alternative" was assembled.
 Nirvana's ""Nevermind'' reached number one in the United States, catapulting the underground scene into the mainstream.
 
 characteristic of grunge
-・Lyrics full of instability
-・Mixture of roar and melody
-・Punk ethics
+
+- Lyrics full of instability
+- Mixture of roar and melody
+- Punk Ethics
+
 However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts on MTV.
 
 Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as "representatives of grunge/alternative."

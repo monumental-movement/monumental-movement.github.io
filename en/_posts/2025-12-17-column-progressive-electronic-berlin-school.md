@@ -19,7 +19,7 @@ title: '[Column] Progressive Electronic / Berlin School'
 Text: mmr｜Theme: Progressive electronic and Berlin School electronic music from the late 1960s to the present
 
 
-20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic musical instruments in the 1920s and 1930s, magnetic tape technology after the war, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside of the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
+20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic instruments in the 1920s and 1930s, magnetic tape technology after the war, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
 
 The Berlin School is not a unified movement or an official school in the strict sense of the word. It is a name that was unified in later music history research and criticism as a result of multiple composers working in a common metropolitan area, technological environment, and musical interests. At its core are composers and projects such as Tangerine Dream, Klaus Schulze, and Ash Ra Tempel (later Ashra).
 
@@ -113,7 +113,7 @@ In the 21st century, modular synthesizers are being reevaluated. The Berlin Scho
 
 ## Chapter 7 Detailed analysis of technical foundations
 
-This chapter organizes the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
+In this chapter, we will organize the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
 
 ### Analog modular synthesizer
 

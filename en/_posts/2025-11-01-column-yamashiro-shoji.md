@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Birth of the entertainment Yamashiro Gumi - Art as a "group"
 
 The starting point for the Geino Yamashiro Gumi was the formation of a ""collective'' of people who came together across universities, companies, and professions.
-Doctors, teachers, engineers, students, housewives - people with different occupations and philosophies shared an intuitive desire to ""live within sound.''
+Doctors, teachers, engineers, students, housewives - people with different professions and philosophies shared an intuitive desire to ""live in sound''.
 
 From the beginning, Yamashiro defined art not as an act of individual expression, but as the expression of a group.
 Therefore, their rehearsals were not just performances, but the process of ""sound generating a field.''

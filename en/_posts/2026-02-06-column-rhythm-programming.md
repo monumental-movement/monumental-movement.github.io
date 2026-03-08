@@ -20,11 +20,11 @@ title: '[Column] Design theory of rhythm programming'
 Text: mmr｜Theme: View rhythm programming as a design concept rather than a performance technique, and decipher the overall picture of modern beat aesthetics from the design of 16 steps, loops, and tone arrangement.
 
 
-リズムプログラミングとは、打点を正確に並べる作業ではない。時間をどのように分割し、どの位置を強調し、どこに余白を残すかという設計行為である。演奏が瞬間的判断の連続だとすれば、プログラミングは時間全体を俯瞰する思考に近い。
+Rhythm programming is not a matter of lining up the dots accurately. It is an act of design: how to divide time, where to emphasize, and where to leave blank space. If performance is a series of instantaneous decisions, programming is similar to thinking from a bird's-eye view of time as a whole.
 
-With the advent of drum machines and sequencers, rhythm became separated from the body and became an object to be treated visually and numerically.この変化は、正確さと引き換えに、グルーヴという曖昧な概念を再定義する必要を生んだ。
+With the advent of drum machines and sequencers, rhythm became separated from the body and became an object to be treated visually and numerically. This shift created a need to redefine the vague concept of groove at the expense of precision.
 
-> リズムプログラミングは、時間の感じ方そのものを設計する行為である。
+> Rhythm programming is the act of designing the very way we perceive time.
 
 ---
 
@@ -42,19 +42,19 @@ color: #fff;
 </style>
 
 
-## 第1章：機械的時間と4/4・16ステップ設計
+## Chapter 1: Mechanical time and 4/4/16 step design
 
 The basic unit of electronic rhythm design is 16 steps, which are divided into 16 4/4 time signatures. This equal division functions not as an aid to performance, but as a coordinate system for design.
 
-### 4/4・16ステップ基本配置例
+### 4/4・16 steps basic layout example
 
-キックを1拍目と3拍目、スネアを2拍目と4拍目に置く配置は、最も基本的な骨格である。この配置は安定感を生むが、それ以上でも以下でもない。
+The most basic structure is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
 
-アクセント設計では、全音を同一強度で鳴らす必要はない。キックの1拍目を最強、3拍目をやや弱めにするだけで、時間の流れに前後感が生まれる。
+Accent design does not require all notes to be played at the same intensity. By simply making the first beat of the kick the strongest and the third beat a little weaker, you can create a sense of front and back in the flow of time.
 
 ### Case: Fixed strong beat and shifted strong beat
 
-* 強拍固定：1・3拍目を常に最大強度
+* Strong beat fixed: 1st and 3rd beats are always at maximum intensity
 *Strong beat shift: 1st beat maximum, 3rd beat suppressed
 
 In the latter, the second half feels lighter and the loop gives the impression of rolling forward.
@@ -63,7 +63,7 @@ In the latter, the second half feels lighter and the loop gives the impression o
 
 ---
 
-## 第2章：グリッドとヒューマンフィールの設計
+## Chapter 2: Grid and Human Feel Design
 
 An arrangement that perfectly follows the grid fixes time, but does not move it. This is where intentional deviations are introduced.
 
@@ -71,17 +71,17 @@ An arrangement that perfectly follows the grid fixes time, but does not move it.
 
 By delaying the snare on the fourth beat by a few milliseconds, the rhythm feels pulled back. This is a structured version of the movements that human drummers perform unconsciously.
 
-### ケース：ハイハットの前ノリ設計
+### Case: Hi-hat front groove design
 
-8分または16分ハイハットの裏側をわずかに前に出すと、全体が前進的に感じられる。重要なのは、全音を同じ量だけ動かさないことである。
+If you move the back of the 8-minute or 16-minute hi-hat slightly forward, the whole thing will feel progressive. The important thing is not to move all the tones by the same amount.
 
-> 人間らしさとは、均等さを壊す場所を選ぶ設計である。
+> Humanity is a design that chooses places that break evenness.
 
 ---
 
 ## Chapter 3: Density control with accents and thinning
 
-リズム設計において、音の数は多ければ良いわけではない。密度は情報量であり、聴覚の負荷でもある。
+In rhythm design, more sounds are not always better. Density is the amount of information and also the auditory load.
 
 ### Case: 16 minutes full placement and thinning
 
@@ -89,19 +89,19 @@ If you place a hi-hat on all 16 steps, time will be chopped up, but space will b
 
 ### Case: Pseudo-polyrhythm by accent
 
-一定の間隔でアクセントをずらすことで、実際には単一周期でも複数周期が知覚される。
+By shifting the accents at regular intervals, multiple periods are perceived even though they are actually a single period.
 
-> リズムの骨格は、鳴らさない音によって浮かび上がる。
+> The framework of the rhythm emerges from the sounds that are not played.
 
 ---
 
-## 第4章：反復と変化の階層設計
+## Chapter 4: Hierarchical design of iteration and change
 
-ループは反復によって成立するが、完全な反復は時間感覚を停止させる。
+A loop is established through repetition, but complete repetition suspends the sense of time.
 
 ### Case: Change within one measure
 
-最後の16分だけハイハットを抜く、またはゴーストノートを入れることで、ループ終端が示される。
+The end of the loop is signaled by removing the hi-hat or adding a ghost note in the final 16 minutes.
 
 ### Case: 4-bar fill design
 
@@ -117,19 +117,19 @@ Even if the arrangement is the same, if the timbre changes, the perception of rh
 
 ### Case: Mix of short and long sounds
 
-短いキックと長いサブベースを組み合わせることで、拍と余韻が分離され、奥行きが生まれる。
+By combining a short kick and a long sub-bass, the beat and lingering sound are separated and depth is created.
 
 ### Case: Division of roles by frequency band
 
 The low range fixes the beat, and the high range shows the flow. When this division of labor breaks down, the rhythm feels unstable.
 
-> 音色は装飾ではなく、時間構造そのものである。
+> Tone is not an ornament, but the structure of time itself.
 
 ---
 
-## 第6章：ポリリズムと位相設計
+## Chapter 6: Polyrhythm and phase design
 
-複数周期の重なりは、リズムを立体化する。
+The overlapping of multiple cycles makes the rhythm three-dimensional.
 
 ### Case: 3 vs 4 step arrangement
 
@@ -147,9 +147,9 @@ By layering the same pattern one step later, a new rhythm is perceived due to in
 
 Tempo is a numerical value, but the experience is designed.
 
-### ケース：BPM一定・体感変化
+### Case: BPM constant/perception change
 
-同じ120BPMでも、裏拍を強調すれば速く感じ、間を広げれば遅く感じる。
+Even with the same 120 BPM, if you emphasize the backbeat, it will feel faster, and if you widen the interval, it will feel slower.
 
 > Tempo is not a numerical value, but a perceptual design result.
 
@@ -159,13 +159,13 @@ Tempo is a numerical value, but the experience is designed.
 
 Sample-based design includes temporal information in the sound itself. Step-based design, on the other hand, defines time first.
 
-### ケース：ブレイクビート切り出し
+### Case: Breakbeat extraction
 
 By rearranging existing loops, you can redesign the structure while preserving the original groove.
 
 ### Case: Complete step reconstruction
 
-By arranging it from scratch, the time structure purely reflects the design philosophy.
+By arranging it from scratch, the time structure purely reflects the design concept.
 
 > The idea of ​​rhythm design changes depending on whether it is material-driven or structure-driven.
 
@@ -191,9 +191,9 @@ By placing strong sounds outside the period, the sense of time is stretched.
 
 ### Techno
 
-反復性と微細変化による没入設計。16ステップの均質性を保ったまま、音色やアクセントで時間を揺らす。
+Immersive design with repeatability and minute changes. While maintaining the homogeneity of the 16 steps, time is varied with tones and accents.
 
-### ヒップホップ
+### Hip Hop
 
 Emphasis on backbeats and fluctuations derived from samples. The texture of the loop takes priority over the grid.
 
@@ -209,9 +209,9 @@ Structural complexity and asymmetric design. Discrepancies in the period and irr
 
 The design philosophy of rhythm programming is greatly influenced by the interface used. MPC, TR-type step sequencers, and piano rolls each assume a different view of time.
 
-### MPC思考：パッドと身体の再接続
+### MPC Thinking: Reconnecting Pads and Body
 
-MPCは16パッドを通じて、身体的演奏感覚をプログラミングに持ち込む設計である。打鍵の強弱やタイミングは、数値ではなく身体感覚として入力される。
+The MPC is designed to bring a physical sense of performance to programming through 16 pads. The strength and timing of keystrokes are input as physical sensations rather than numerical values.
 
 In this way of thinking, the grid is subject to post-processing, and the rhythm is played first and then organized.
 
@@ -225,7 +225,7 @@ Here, structure takes precedence over playability, and rhythms are constructed l
 
 Piano Roll handles pitch and time on the same plane. Rhythms are visualized as lines, and their length and overlap can be directly manipulated.
 
-この思考では、時間は完全に抽象化され、設計者の意図が即座に反映される。
+In this way of thinking, time is completely abstracted and the designer's intentions are immediately reflected.
 
 ### Mini section: 16 steps thinking difference for the same task
 
@@ -239,7 +239,7 @@ In piano roll thinking, you visually align the starting points and lengths of th
 
 Even with the same 16 steps, if your starting point is different, the texture of the completed rhythm will vary greatly.
 
-> インターフェースは、リズムの入力方法ではなく思考の型である。
+> The interface is a type of thinking, not a method of rhythmic input.
 
 ---
 
@@ -247,9 +247,9 @@ Even with the same 16 steps, if your starting point is different, the texture of
 
 * 1960s: Introduction of mechanical time
 * 1970s: Establishment of repetitive structure
-* 1980年代：16ステップ設計の一般化
+* 1980s: Popularization of 16-step design
 * 1990s: Misalignment and human feeling
-* 2000年代：ソフトウェア抽象化
+* 2000s: Software abstraction
 * 2010s and beyond: Design as aesthetics
 
 ---
@@ -278,19 +278,19 @@ B --> C[16 bar development]
 
 <div class="mermaid">
 flowchart LR
-A[sample base] --> C[音由来の時間]
+A[sample base] --> C[time of sound origin]
 B[step base] --> D[Design derived time]
 </div>
 
 ---
 
-## 第12章：設計者タイプ別リズム思考
+## Chapter 12: Rhythm thinking by designer type
 
 Differences in rhythm programming arise from the designer's thinking type rather than technical differences.
 
-### 演奏型設計者
+### Performance pattern designer
 
-身体感覚を起点にリズムを組み立てるタイプで、ズレや強弱は自然発生的に生まれる。MPC的思考と相性が良い。
+He is the type who constructs rhythms based on his physical sensations, and the deviations and dynamics arise spontaneously. It goes well with MPC thinking.
 
 ### Structural Designer
 
@@ -300,7 +300,7 @@ View time as a block and construct a rhythm through placement and omission. High
 
 Treat time completely as a design object and determine the structure through visual manipulation. Based on piano roll thinking.
 
-どのタイプが優れているわけではない。重要なのは、自身の思考型を自覚し、目的に応じて切り替えることである。
+One type is not better than the other. The important thing is to be aware of your own thinking style and switch depending on your goals.
 
 > Rhythm design is not a technical choice but a thinking choice.
 

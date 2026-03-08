@@ -121,7 +121,7 @@ G[high frequency electronic sound] --> H[experimental avoidance]
 
 ---
 
-### 4.2 Experiment example
+### 4.2 Experimental example
 
 - **Hokkaido Orchard (2015–2018)**: Invasion rate reduced by 40% due to use of firecrackers
 
@@ -135,7 +135,7 @@ G[high frequency electronic sound] --> H[experimental avoidance]
 
 ### 5.1 Sensor-linked warning sound
 
-Automatically generates a sound when a bear approaches. Encourage avoidance actions before damage occurs.
+Automatically generates sound when a bear approaches. Encourage evasive action before damage occurs.
 
 ### 5.2 Regular patrol sound
 

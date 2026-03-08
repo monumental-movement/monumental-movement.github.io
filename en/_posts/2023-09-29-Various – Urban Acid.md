@@ -14,7 +14,7 @@ title: Various – Urban Acid
 
 
 "Various – Urban Acid" is
-1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。
+This is an acid house compilation album released by the UK label "Urban" in 1988.
 
 #### Tracklist
 ```md

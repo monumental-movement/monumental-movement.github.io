@@ -159,7 +159,7 @@ Scat ideas have become widespread, from the light vocal improvisations of bossa 
 
 ## Supplementary chapter: Scat for Japanese speakers
 
-The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered on vowels, has few consecutive consonants, and has clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
+The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered around vowels, with few consecutive consonants and clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
 
 In addition, Japanese vocalizations have a strong connection between meaning and sound, and it is easy to feel psychological resistance to uttering meaningless syllables. Scat requires the courage not to say the syllable, and this feeling may be easier for non-native speakers to acquire.
 

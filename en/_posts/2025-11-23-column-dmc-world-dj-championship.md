@@ -60,7 +60,7 @@ At the 1986 tournament, he performed a routine that emphasized scratching and be
 
 From this moment on, the world began to share the value that ""turntablism, including scratching, decides the game.''
 
-## 2-2　1988-1990: Towards the era of sampling, beat juggling, and composition
+## 2-2　1988-1990: Toward the era of sampling, beat juggling, and composition
 After Cheese, DJs didn't just play songs;
 - Manually reconfigure beats
 - chop the pieces
@@ -88,7 +88,7 @@ Japan has had a major influence on the DMC world since the late 1990s.
 - **2000: DJ KENTARO becomes the first Japanese to win the world championship (highest score in history)**
 - Since then, DJ YASA, DJ HI-C, Kireek (5 consecutive wins in the team category), etc. have gained worldwide acclaim.
 
-In particular, KENTARO"s routine is said to be ""outstanding in speed, accuracy, composition, and musicality,'' making it one of the most symbolic years in DMC"s history.
+In particular, KENTARO"s routine is said to be ""outstanding in its speed, accuracy, composition, and musicality,'' making it one of the most symbolic years in DMC"s history.
 
 ---
 
@@ -189,7 +189,7 @@ Turntablism has been around since the 2000s.
 - DJ School
 - Workshop
 - University Music and Media Department
-It was also incorporated into the club, and came to be evaluated as a genre of music rather than just a club technique.
+It has come to be recognized as a genre of music rather than just a club technique.
 
 ---
 

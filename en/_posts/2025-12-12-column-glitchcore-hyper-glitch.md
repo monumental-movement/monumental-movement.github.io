@@ -75,7 +75,7 @@ Glitchcore's BPM is not fixed and often fluctuates over a wide range of 100-180 
 **Characteristic elements:**
 
 * Extreme tempo changes
-* Editing that suddenly transitions to another song in the middle of the song
+* Editing that suddenly transitions to a different song in the middle of a song
 * Short hooks and fragmented melodies
 *Focus on strong 15-30 second hooks for TikTok
 

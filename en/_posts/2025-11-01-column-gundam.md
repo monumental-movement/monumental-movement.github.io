@@ -73,7 +73,7 @@ Looking back at the music environment at the time, it was also a time when TV an
 
 ### 1.2 Characteristics of theme songs, insert songs, and musical accompaniment
 
-The opening song for the original Mobile Suit Gundam, ""Fly! Gundam (sung by Kou Ikeda)" (lyrics by Tsutomu Isoya/composed by Yuji Matsuyama), was a simple yet catchy song that conveyed the image of a Gundam flying through outer space, embodying the scale of the work"s world and the boy"s sense of adventure through sound. In addition, Hiroyuki Osaka, Chuaaki Watanabe, and others provided the background music that supported the depiction of battle, space, and psychology, and used sound to convey themes such as the tense atmosphere of the ""battlefield" and the awakening of ""new types.''
+The opening song for the original Mobile Suit Gundam, ""Fly! Gundam (sung by Kou Ikeda)" (lyrics by Tsutomu Isogaya/music by Yuji Matsuyama), simply and catchily conveys the image of Gundam flying through outer space, embodying the scale of the work"s world and the boy"s sense of adventure through sound. In addition, Hiroyuki Osaka, Chuaaki Watanabe, and others provided the background music that supported the depiction of battle, space, and psychology, and used sound to convey themes such as the tense atmosphere of the ""battlefield" and the awakening of ""new types.''
 
 At this stage, there are three main innovations that Gundam music has shown.
 
@@ -174,7 +174,7 @@ Since the Mobile Suit Gundam series is a work that questions the question of ""m
 
 Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture."
 
-Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
+Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into content that is not only something to be "listened to" but also something to "participate in".
 
 ### 5.2 Gundam as a musical work: remix, arrangement, planning edition
 
@@ -183,7 +183,7 @@ These remixes/arrangements play a role in promoting ""listening to Gundam"' and 
 
 ---
 
-## Chapter 6: Discussion and future prospects
+## Chapter 6: Discussion and future outlook
 
 ### 6.1 What is the universality of Gundam music?
 
@@ -200,7 +200,7 @@ In addition, "music as an experience" such as live shows, VR, and concerts is be
 ### 6.3 The future of Gundam/music: Expected developments after 2025
 
 From 2023 onwards, the musical quality of Gundam works will continue to reach even higher heights through new releases such as ""The Witch of Mercury.'' For example, orchestral recordings, overseas studio recordings, and vinyl reissues are in progress.
-After 2025, it is expected that we will move from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc.
+After 2025, it is expected that the era of "listening to music" will shift from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc.
 
 ---
 
@@ -221,7 +221,7 @@ Below is a chronology including works, theme songs/insert songs, composers/singe
 | 1985 | Mobile Suit Zeta Gundam | To the Planet of Water with Love | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Opening song |
 | 1988 | Mobile Suit Gundam: Char's Counterattack (movie) | Beyond the Time | Tetsuya Komuro／TM NETWORK | Movie theme song |
 | 1995 | New Mobile Report Gundam Wing | Just Communication | Minami Takayama・Shiina Nagano/TWO-MIX | TV version opening |
-| 2002 | Mobile Suit Gundam SEED | We were together like that | Composer: Hiroyuki Kono and others/See-Saw | Series music development begins |
+| 2002 | Mobile Suit Gundam SEED | We were together like that | Composer: Hiroyuki Kono et al./See-Saw | Series music development begins |
 | 2022 | Mobile Suit Gundam: Witch of Mercury | (Theme song/Drama accompaniment) | Ko Omama/(Singer) | Latest work/revamped music composition |
 
 

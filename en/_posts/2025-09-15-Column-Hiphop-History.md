@@ -114,7 +114,7 @@ Dr. Dre's ""The Chronic'' (1992) skillfully uses sampling, while G-funk uses a l
 
 ### Club culture
 DJ sets evolved at clubs in New York and LA. In an era before radio and streaming, songs became a buzz on club floors.
-Before demo tapes and the internet, rap battles were centered around clubs.
+Before demo tapes and the Internet, rap battles were centered around clubs.
 
 De-sampling and equipment changes
 With the spread of DAWs (Pro Tools, Ableton Live), it is now possible to create unique sound sources using synths and plug-ins without relying on sampling.
@@ -333,7 +333,7 @@ Bass: ▂▄▅▄▂
 <tr>
 <td>
 - Akai MPC60
--Akai MPC3000
+- Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
 </td>
@@ -443,7 +443,7 @@ The map of power visualizes which region the center of the scene has shifted to 
 
 ## Conclusion
  
-Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles that have influenced not only music, but also fashion, language, social movements, and more. Hip-hop will continue to evolve as new techniques and expression methods emerge.
+Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles, which have influenced not only music, but also fashion, language, and social movements. Hip-hop will continue to evolve as new techniques and expression methods emerge.
 
 ---
 

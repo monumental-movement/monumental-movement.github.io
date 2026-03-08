@@ -19,7 +19,7 @@ This record was released in 2000 by the German label Unsubmissive Records.
 
 The second song on side A is a remix by Luiz O'Brian & Miss Thunderpussy.
 
-The first track on side B is a remix by German DJ and producer Pulsedriver, who runs Aqualoop Records and Feed My Beat Records.
+The first track on side B is a remix by German DJ and producer Pulsedriver, who operates Aqualoop Records and Feed My Beat Records.
 
 #### Tracklist
 ```md

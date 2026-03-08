@@ -156,7 +156,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 
 Industrial Techno / Hard Experimental Techno is not chaotic noise, but extremely controlled structure. There, violence, distortion, and even pressure become objects of design.
 
-Practices such as Perc and Ancient Methods push the boundaries of the techno form, transforming music into a device that reorganizes bodies and spaces. This genre will continue to deepen in terms of both structure and sonics.
+Practices such as Perc and Ancient Methods push the limits of the techno form, transforming music into a device that reorganizes bodies and spaces. This genre will continue to deepen in terms of both structure and sonics.
 
 ---
 

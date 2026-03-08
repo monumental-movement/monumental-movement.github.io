@@ -13,7 +13,7 @@ title: Arrow – Groove Master
 ---
 
 
-Alphonsus Cassell, also known as Arrow, was a Montserratian calypso and soca musician and the first soca superstar from Montserrat. Their 1982 song "Hot Hot Hot" is famous as an international hit.
+Alphonsus Cassell, also known as Arrow, was a Montserratian calypso and soca musician and the first soca superstar from Montserrat. ""Hot Hot Hot'' in 1982 is famous as an international hit.
 
 Side A Groove Master (Acid Soca House Dub) is a popular song among house music and club music lovers.
 

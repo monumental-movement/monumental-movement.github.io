@@ -24,7 +24,7 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 ## Pandemic: A true history of everything from lockdown to reopening to redefining music
 
 
-Text: mmr | Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained
+Text: mmr｜Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained?
 
 
 German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.

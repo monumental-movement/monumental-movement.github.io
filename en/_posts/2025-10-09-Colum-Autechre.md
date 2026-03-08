@@ -221,7 +221,7 @@ The journey to find the answer is far from over.
 
 🔗 [[Column] From the origins of IDM to the present - Between intellectual exploration and the dance floor](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 

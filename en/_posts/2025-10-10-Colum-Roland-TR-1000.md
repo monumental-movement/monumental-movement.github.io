@@ -77,7 +77,7 @@ Responsiveness as if the rhythm was "breathing". This is why Roland is so partic
 
 ---
 
-### Chapter 4 Acoustic Structure: Evolution of Low Range and Rhythm Texture
+### Chapter 4 Acoustic structure: Evolution of low frequencies and rhythmic texture
 #### ── To overcome the "ghost of the 808 kick"
 
 At the heart of the TR-1000 is a low-end design philosophy.
@@ -101,7 +101,7 @@ The "Humanize" function analyzes the performance history and models the player's
 It "learns" the rhythm of the player's fingertips and returns it as a sound.
 In other words, the TR-1000 is also a ""machine that listens to human performances.''
 
-This dialogue has evolved from the days when the 808 provided a "mechanical groove" to a "resonant rhythm."
+This dialogue has evolved from the days when the 808 provided a ""mechanical groove" to a ""resonant rhythm."
 
 ---
 

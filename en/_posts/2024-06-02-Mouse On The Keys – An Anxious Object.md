@@ -16,7 +16,7 @@ title: Mouse On The Keys – An Anxious Object
 
 Mouse On The Keys was formed in 2006 by former members of the post-hardcore/post-rock band Nine Days Wonder, Akira Kawasaki (drums, piano) and Atsushi Kiyota (piano, keyboards), and became a trio in 2007 with the addition of Daisuke Shindome (piano, keyboards). Mouse On The Keys is characterized by a unique style that fuses jazz, funk, post-rock, and electronic music.
 
-"An anxious object", released in 2009 by the label Machupicchu Industrias, is Mouse On The Keys' first full-length album.
+"An anxious object", released in 2009 on the label Machupicchu Industrias, is Mouse On The Keys' first full-length album.
 
 #### Tracklist
 ```md
