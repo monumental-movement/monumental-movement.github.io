@@ -72,12 +72,13 @@ color: #fff;
 
 ## ● 録音手法（図）
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["ギター直録り"] --> B["ディストーション処理"]
     B --> C["サックス即興録音"]
     C --> D["ドラム変拍子1テイク録り"]
     D --> E["全体ミックス（Lo-Fi）"]
+</div>
 
 ---
 
@@ -97,12 +98,13 @@ flowchart TD
 * ギターとサックスの不協和音
 * 録音はアナログ4〜8トラック
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["マルチトラック録音"] --> B["ギター/サックスエフェクト"]
     B --> C["ドラム変拍子録音"]
     C --> D["即興パート追加"]
     D --> E["ミキシング・マスタリング（Lo-Fi）"]
+</div>
 
 ---
 
@@ -115,12 +117,13 @@ flowchart TD
 
 ---
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["ギターリフ/ノイズ"] --> B["多層ドラム録音"]
     B --> C["サックス即興"]
     C --> D["ステレオフィールド調整"]
     D --> E["ミキシングとマスタリング"]
+</div>
 
 ---
 
@@ -129,12 +132,13 @@ flowchart TD
 長尺曲と短尺曲を交互に配置し、従来より “曲としての輪郭” が顕著になる。
 ライブ再現性を高めるため、スタジオ録音も明確な役割分担で進んだ。
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["長編曲録音"] --> B["短編曲録音"]
     B --> C["サックス/ボーカル変化"]
     C --> D["ノイズ重ね"]
     D --> E["ステージ向けミックス"]
+</div>
 
 ---
 
@@ -144,23 +148,26 @@ flowchart TD
 
 メジャーレーベル期に入り、音質・演奏ともに明瞭化。
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["ギター/ベース/ドラム分離録音"] --> B["エフェクト処理"]
     B --> C["サックス即興録音"]
     C --> D["ミキシング・ステレオ調整"]
+</div>
+
 
 ## Electriclarryland（1996）
 
 代表曲 **Pepper** を含む。
 メロディを前面に出しつつも、ノイズ感と奇妙さは保持される。
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["メロディ重視録音"] --> B["ギター/サックス加工"]
     B --> C["リズムパターン最適化"]
     C --> D["ノイズ・サイケエフェクト調整"]
     D --> E["ミックス・マスタリング"]
+</div>
 
 ---
 
@@ -188,12 +195,13 @@ flowchart TD
 
 #### 録音手法
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["ギター直録り"] --> B["ディストーション処理"]
     B --> C["サックス即興録音"]
     C --> D["ドラム変拍子1テイク録り"]
     D --> E["全体ミックス（Lo-Fi）"]
+</div>
 
 ---
 
@@ -207,12 +215,13 @@ flowchart TD
 
 #### 録音手法
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["マルチトラック録音"] --> B["ギター/サックスエフェクト"]
     B --> C["ドラム変拍子録音"]
     C --> D["即興パート追加"]
     D --> E["ミキシング・マスタリング（Lo-Fi）"]
+</div>
 
 ---
 
@@ -222,12 +231,13 @@ flowchart TD
 * サックスは全曲で即興演奏を継続
 * スタジオではドラムを多層録音、音場の奥行きを強調
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["ギターリフ/ノイズ"] --> B["多層ドラム録音"]
     B --> C["サックス即興"]
     C --> D["ステレオフィールド調整"]
     D --> E["ミキシングとマスタリング"]
+</div>
 
 ---
 
@@ -237,12 +247,13 @@ flowchart TD
 * 曲ごとに録音スタイルを変更（長編曲・短編曲の対比）
 * ライブ再現性を重視しつつ、実験的パートも残存
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["長編曲録音"] --> B["短編曲録音"]
     B --> C["サックス/ボーカル変化"]
     C --> D["ノイズ重ね"]
     D --> E["ステージ向けミックス"]
+</div>
 
 ---
 
@@ -252,11 +263,12 @@ flowchart TD
 * スタジオマルチトラック使用、曲構成を整備
 * ギター・ベース・ドラム・サックスを分離録音し、ノイズやエフェクトを精密制御
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["ギター/ベース/ドラム分離録音"] --> B["エフェクト処理"]
     B --> C["サックス即興録音"]
     C --> D["ミキシング・ステレオ調整"]
+</div>
 
 ---
 
@@ -267,12 +279,13 @@ flowchart TD
 * ボーカルメロディを前面に出すミックス手法
 * ライブ再現性を最大化する録音設計
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["メロディ重視録音"] --> B["ギター/サックス加工"]
     B --> C["リズムパターン最適化"]
     C --> D["ノイズ・サイケエフェクト調整"]
     D --> E["ミックス・マスタリング"]
+</div>
 
 ---
 
@@ -282,12 +295,13 @@ flowchart TD
 * 従来のアナログサウンドとの融合
 * 実験性を維持しつつ、メジャーレーベル基準に準拠
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["電子音/サンプラー導入"] --> B["アナログ楽器融合"]
     B --> C["ギター/サックス即興"]
     C --> D["ドラムパターン多層録音"]
     D --> E["最終ミキシング・マスタリング"]
+</div>
 
 ---
 
@@ -306,35 +320,38 @@ Butthole Surfers の最も重要な要素は **ライブ** である。
 * ツインドラムがステージ中央に陣取る構成
 * サックスは不協和音即興
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart LR
     A["ステージ中央：ツインドラム"] --> B["ギター（フィードバック）"]
     A --> C["サックス（即興・不協和音）"]
     B --> D["ストロボライト"]
     C --> E["16mmフィルム投影"]
     D --> F["PA卓：リバーブ/ディレイ強化"]
+</div>
 
 ---
 
 ## **8.2 1990–1993：サイケ拡張期**
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["ギター：高出力アンプ"] --> B["ノイズレイヤー"]
     B --> C["PA：中高域ブースト"]
     C --> D["ステージ後方：映像投影"]
     D --> E["観客体験：没入型サイケ空間"]
+</div>
 
 ---
 
 ## **8.3 電子音導入期（2001–）**
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["電子音・サンプラー"] --> B["ライブPA同期"]
     B --> C["映像：デジタルプロジェクション"]
     C --> D["バンド演奏に同期"]
     D --> E["高解像度照明システム"]
+</div>
 
 ---
 
@@ -350,12 +367,13 @@ flowchart TD
 
 ### ● ライブ演出図（2001–）
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["電子音・サンプラー"] --> B["ライブPA同期"]
     B --> C["映像：デジタルプロジェクション"]
     C --> D["バンド演奏に同期"]
     D --> E["高解像度照明システム"]
+</div>
 
 ---
 
@@ -397,7 +415,7 @@ Butthole Surfers の機材は年代により大きく変化するが、文献に
 
 # **10. 全活動年表（事実に基づく簡易編）**
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
     A["1981：テキサスで結成"] --> B["1983：初EPリリース"]
     B --> C["1984–1986：北米ツアー拡大"]
@@ -406,6 +424,7 @@ flowchart TD
     E --> F["1996：Electriclarryland 期"]
     F --> G["2001：電子音導入"]
     G --> H["以降：不定期活動継続"]
+</div>
 
 ---
 
