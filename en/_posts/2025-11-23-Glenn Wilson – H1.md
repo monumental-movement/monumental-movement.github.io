@@ -14,7 +14,7 @@ title: Glenn Wilson – H1
 
 Glenn Wilson is a techno DJ/producer from Sweden. Other names include COG, Sump Pump, Urban Warrior, and Ventilator. He co-runs the label Punish with Mike Humphries and releases under the names Mike Humphries & Glenn Wilson.
 
-「H1」は、Glenn Wilsonが運営するレーベルHeroesから2002年にリリースされたTechnoトラック。
+"H1" is a Techno track released in 2002 on Heroes, a label run by Glenn Wilson.
 
 #### Tracklist
 ```md

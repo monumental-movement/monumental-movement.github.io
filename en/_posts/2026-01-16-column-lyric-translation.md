@@ -80,7 +80,7 @@ The resulting translated lyrics are a compromise between the original song and t
 ## Chapter 3 Translations that can be sung and "translations that cannot be sung"
 
 Lyric translations are divided into translations for reading and translations for singing.
-In the latter case, ease of pronunciation, vowel sequence, and accent position are important.
+In the latter case, ease of pronunciation, vowel continuity, and accent position are important.
 
 Japanese has a simple syllable structure and many vowels, making it difficult to reproduce the consonant sequence and stress structure of English.
 Therefore, when singing English lyrics in Japanese, the meaning of the words is often simplified or the grammar is rearranged.
@@ -97,7 +97,7 @@ As a result, Japanese lyrics tend to prioritize sound over meaning.
 After the war, with the spread of radio and records, a large amount of Western popular music flowed into Japan.
 During this period, many songs were introduced in their original language or with simple translations.
 
-On the other hand, in many cases it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
+On the other hand, there are many cases where it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
 These are not strictly translations, but cultural re-creations.
 
 The custom of ""Japanese lyrics that are separate from the original songs'' that was formed during this period had a long-lasting influence.
@@ -123,7 +123,7 @@ However, this bilingual translation was only an aid to understanding, and transl
 ## Chapter 6 Misreading and reinterpretation as cultural transfer
 
 Misreadings are inevitable in cultural transfer through translation.
-However, this misreading does not necessarily have only negative consequences.
+However, this misreading does not necessarily have negative consequences.
 
 There are many examples of lyrics that are misunderstood in one culture, acquiring new meaning in another context and forming unique reception histories.
 The reception of rock and hip-hop in Japan has also been established through this chain of reinterpretations.
@@ -146,7 +146,7 @@ This has made hip-hop a special case of cultural import without any translation.
 
 ---
 
-## Chapter 8: Japanese rap and cultural import in the opposite direction
+## Chapter 8 Japanese rap and the opposite culture transfer
 
 The establishment of Japanese rap progressed not through the translation of English lyrics, but through the transplantation of form and attitude.
 Here, the focus is on imitation and reconstruction rather than translation.

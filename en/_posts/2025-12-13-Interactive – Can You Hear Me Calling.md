@@ -12,7 +12,7 @@ title: Interactive – Can You Hear Me Calling
 ---
 
 
-Interactiveは、90年代前半に活躍したドイツのエレクトロニックミュージックグループ。メンバーの一人、Jens LissatはプロダクションデュオOff-Shoreでも活動していた。
+Interactive is a German electronic music group active in the early 90's. One of the members, Jens Lissat, was also active in the production duo Off-Shore.
 
 A is a remix by German producer duo JLRZ (Jens Lissat & Ramon Zenker).
 

@@ -169,7 +169,7 @@ Since the 2000s, his videos and records have been rediscovered as collector's it
 | 1948 | Starts appearing on TV, using the name "Korla Pandit" on KTLA |
 | 1951 | "Korla Pandit Show" begins broadcasting |
 | 1957 | Martin Denny's "Exotica" tops the charts |
-| 1960 | The height of the exotica boom in America |
+| 1960 | アメリカでエキゾチカブーム最盛期 |
 | 1970 | Fewer TV appearances, performing in Las Vegas and other places |
 | 1998 | True identity revealed |
 | 2014 | Movie "Korla" released |

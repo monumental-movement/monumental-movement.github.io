@@ -56,7 +56,7 @@ The original manga ""AKIRA'' began serialization in 1982, and the story unfolds 
 
 The story is set in Neo Tokyo in 2019. Military experiments, anti-government demonstrations, motorcycle gangs, and the development of supernatural powers. It depicts the collapse and rebirth of a city, strongly reflecting the atmosphere at the end of the Cold War.
 
-The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental, religious sound rather than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
+The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental and religious sound than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
 
 ### Positional relationship with Cyberpunk
 
@@ -116,7 +116,7 @@ D --> E[A sense of the future that transcends time axis]
 
 The motorcycle chase at the beginning of the movie is more than just an action scene. The emphasis on rhythm, synchronization with the sound of the engine, and the beat of the drums create physical excitement.
 
-Sound does not follow vision, but instead represents the heartbeat of the body. The audience subconsciously synchronizes with the rhythm.
+Sound does not follow vision, but instead represents the heartbeat of the body. The audience unconsciously synchronizes with the rhythm.
 
 ### Tetsuo's transformation and sound
 

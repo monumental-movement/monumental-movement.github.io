@@ -23,7 +23,7 @@ Text: mmr｜Theme: Positioning modular drones as an intersection of the history 
 
 Modular Drone/Experimental Drones (hereinafter referred to as "modular drones") is a trend of acoustic experiments centered on sustained sounds, and has developed in close connection with the structural characteristics of modular synthesizers. A continuum of sound that does not assume a melody or beat creates time by minutely changing elements such as pitch, timbre, intensity, phase, and spatial arrangement. This music emphasizes "existence" rather than "progression," and changes appear as state transitions rather than events.
 
-What is important about modular drones is that the object of listening is not the persistence of a single sound, but the process by which multiple signal paths interact with each other. Modular synthesizers allow you to freely connect elements such as oscillators, filters, amplifiers, envelopes, LFOs, and random voltages, making the boundaries between stability and instability, control and chance audible. By combining this characteristic with the form of a drone, an acoustic expression that expands the sense of time was created.
+What is important in modular drones is that the object of listening is not the persistence of a single sound, but the process by which multiple signal paths interact with each other. Modular synthesizers allow you to freely connect elements such as oscillators, filters, amplifiers, envelopes, LFOs, and random voltages, making the boundaries between stability and instability, control and chance audible. By combining this characteristic with the form of a drone, an acoustic expression that expands the sense of time was created.
 
 ---
 
@@ -116,7 +116,7 @@ Modular drones share many elements with ambient, minimal music, and experimental
 * 1950s: Exploration of sustained sound in electronic acoustics
 * 1960s: Establishment of modular systems by Moog and Buchla
 * 1970s: Increase in long-duration drone works in experimental music
-* 1990s: Modular regression and reappraisal of drones
+* 1990s: Modular regression and reassessment of drones
 * 2010s: Expansion of experimental drone production due to the spread of Eurorack
 
 ---
@@ -171,7 +171,7 @@ In a stable Moog-style VCO, this beat has a relatively predictable period. On th
 
 ### Stereo placement and pseudo spatial movement
 
-Modular drones often use extremely slow panning modulation. By shifting the left and right localization every few minutes, the sound is perceived not as a fixed entity in space, but as a floating sound field.
+Modular drones often use extremely slow panning modulation. By shifting the left and right localization every few minutes, the sound is perceived not as a fixed entity in space, but as a drifting sound field.
 
 Furthermore, by applying different spectral changes to the left and right sides, the sound image does not have a clear position and is diffused throughout the space. This dismantles the traditional listening position of receiving music from the front, creating an experience closer to that of environmental sounds.
 
@@ -215,7 +215,7 @@ Sustained sound has a high affinity with galleries and installation spaces. Visi
 
 ## Monumental Movement Records perspective
 
-In the context of Monumental Movement Records, modular drones are positioned not just as experimental music, but as a sonic practice that critically presents time, structure, and instrumentality. Here, long durations and differential changes are more valuable than flashy changes or immediate effects.
+In the context of Monumental Movement Records, modular drones are not simply experimental music, but are positioned as sonic practices that critically present time, structure, and instrumentality. Here, long durations and differential changes are more valuable than flashy changes or immediate effects.
 
 Vocabulary is descriptive rather than decorative, and structural analysis is prioritized over emotional expression. Sound is both a sensory object and a medium for thought.
 

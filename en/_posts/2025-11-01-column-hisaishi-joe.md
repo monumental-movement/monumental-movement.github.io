@@ -16,7 +16,7 @@ title: '[Column] Joe Hisaishi and Studio Ghibli - 40 years of music-woven storie
 ## Prologue: When music moves the story
 
 
-Text: mmr | Theme: A long column that looks back on the history of collaboration between Joe Hisaishi and Studio Ghibli, based on facts. A 40-year musical journey, from the origin of the name to the main soundtrack.
+Text: mmr | Theme: A long column that looks back on the history of collaboration between Joe Hisaishi and Studio Ghibli, based on facts. Tracing 40 years of musical history, from the origin of the name to the main soundtrack
 
 
 In the history of Japanese film, the existence of composer Joe Hisaishi (English name: Joe Hisaishi) is unique.

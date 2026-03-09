@@ -59,7 +59,7 @@ In the 1980s, the spread of synthesizers, drum machines, and the MIDI standard m
 
 Multiple regions are involved in the formation of EBM.
 
-In Belgium, the connection between electronic music and avant-garde art has developed from a relatively early stage, and the activities centered on Front 242 provided the framework for EBM. In the UK, post-punk minimalism and physical expression combined to create the stoic style of Nitzer Ebb. In Germany, the foundations of electronic music technology and club culture supported the acceptance and development of EBM.
+In Belgium, the connection between electronic music and avant-garde art developed from a relatively early stage, and the activities centered on Front 242 provided the framework for EBM. In the UK, post-punk minimalism and physical expression combined to create the stoic style of Nitzer Ebb. In Germany, the foundations of electronic music technology and club culture supported the acceptance and development of EBM.
 
 What these regions have in common is an industrialized urban environment and the existence of spaces that physically accept repetitive music.
 

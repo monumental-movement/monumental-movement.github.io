@@ -100,7 +100,7 @@ Tango, which was once rejected, began to be reinterpreted as a ""national cultur
 
 ---
 
-## Golden Age and popular culture
+## Golden Age and Popular Culture
 
 
 From the 1930s to the 1950s, tango entered its "golden age."

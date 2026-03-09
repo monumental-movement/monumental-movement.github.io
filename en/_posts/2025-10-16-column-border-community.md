@@ -17,13 +17,13 @@ title: '[Column] Border Community — A community of sound that transcends bound
 ## I. Prologue: A story that begins at the border
 
 
-Text: mmr｜Theme: Tracing the music philosophy of "Border Community" established by James Holden and the trajectory of the label that transcends that "boundary"
+Text: mmr｜Theme: Tracing the musical philosophy of "Border Community" established by James Holden and the trajectory of the label that transcends that "boundary"
   
 The name Border Community is more than just a label.
 It was a statement of ""a community connected through music" and a desire to ""transcend existing genres and commercial structures."
 
 In the early 2000s, the club scene was in the midst of major changes. Trance was formalizing and progressive house was becoming rigid.
-In it, James Holden was exploring sounds that move back and forth between melody and noise, analog and digital, intelligence and emotion.
+In it, James Holden was exploring sounds that go back and forth between melody and noise, analog and digital, intelligence and emotion.
 
 "Border Community" was born as his "border laboratory."
 

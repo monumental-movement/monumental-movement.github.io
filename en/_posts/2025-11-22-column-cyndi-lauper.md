@@ -134,7 +134,7 @@ It is said that the feelings of a time when a relationship with a lover is not g
 
 ### **She Bop**
 
-It was a very daring song for its time, a pop song about sexuality.
+It was a very bold song for its time, a pop song about sexuality.
 
 ---
 
@@ -204,7 +204,7 @@ In 2013, he was in charge of the lyrics and composition for the musical "Kinky B
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 
-In this work, she strongly conveys the message that it's okay to live your life the way you are. It is also her own life philosophy, and has received great support from the LGBTQ community.
+In this work, she strongly conveys the message that it's okay to live your life the way you are. This is also her own life philosophy, and has received great support from the LGBTQ community.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

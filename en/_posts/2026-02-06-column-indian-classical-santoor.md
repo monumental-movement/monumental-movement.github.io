@@ -61,7 +61,7 @@ C --> D[northern india music culture]
 
 ## A heretical presence in Indian classical music
 
-The sitar, sarod, and bansuri, which are the main instruments of Hindustani music, all emphasize sustained and smooth sounds. On the other hand, since the santur is a percussion instrument, the duration of the sound is short, making it difficult to directly express meand (smooth sounds).
+The sitar, sarod, and bansuri, which are the main instruments of Hindustani music, all emphasize sustained and sliding sounds. On the other hand, since the santur is a percussion instrument, the duration of the sound is short, making it difficult to directly express meand (smooth sounds).
 
 For this reason, the santour has long been considered ""incomplete as a classical instrument.'' However, this restriction became the basis for later unique interpretations.
 
@@ -95,7 +95,7 @@ Since the late 20th century, advances in recording technology have had a signifi
 
 This has led to its application not only to solo performances but also to ensembles and film music.
 
-> Technology has expanded Santour's presence, not volume.
+> Technology has expanded Santour's presence, not its volume.
 
 ---
 
@@ -184,7 +184,7 @@ timeline
 
 The santur is not just a folk instrument. This is one answer to the question of how sound remembers time. When countless strings strike at the same time, the individual notes disappear and only the overall resonance remains.
 
-This characteristic is the reason why santour continues to be updated even in modern times.
+This characteristic is the reason why santours continue to be updated even in modern times.
 
 > The santour is not an instrument that preserves the past, but a device that transforms the past into the present.
 

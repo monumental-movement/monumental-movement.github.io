@@ -168,7 +168,7 @@ Due to its affinity with the cyberpunk worldview, interest in the genre itself h
 
 After the anime was distributed, it was also confirmed that related playlists and similar artists were affected.
 
-> It also influenced the re-evaluation of music genres themselves.
+> It also influenced the re-evaluation of the music genre itself.
 
 ---
 

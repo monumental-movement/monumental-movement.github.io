@@ -87,7 +87,7 @@ More than six tape recorders were running at the same time, making the studio fe
 Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
-> "I chopped up sounds and reconstructed them. It was the same act as composing."
+> "I chopped up the sounds and reconstructed them. It was the same act as composing."
 > — Teo Macero
 
 His method was similar to musique concrète, but also connected to the free improvisation of jazz.
@@ -236,7 +236,7 @@ For him, improvisation was the ""generation of materials," and editing was the "
 
 ## Chapter 10: Acoustic analysis —— "Auditory structure" created by editing
 
-Teo Macero's editing did not just change the song structure, but also transformed the acoustic space and the very structure of listening.
+Teo Macero's editing not only changed the composition of the music, but also transformed the acoustic space and the very structure of listening.
 Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a clear sonic philosophy in the editing direction.
 
 | Elements | "In a Silent Way" (1969) | "Bitches Brew" (1970) |
@@ -283,7 +283,7 @@ It can be said that Macero's edited sound was already putting into practice the 
 
 ---
 
-## Supplementary figure: Masero-style "composition by editing" model
+## Supplementary figure: Macero-style "composition by editing" model
 
 <div class="mermaid">
 

@@ -46,7 +46,7 @@ color: #fff;
 
 ## 1970s-1980s: Disco and punk, rebellion and expansion of expression
 
-By the 1970s, the sheen and glitter of disco had permeated club culture, and attendees at New York's Studio 54 were routinely seen dancing in body-conscious dresses, bell-bottoms, and platform shoes. Music and clothing went hand in hand, with costumes chosen to emphasize disco dance moves. Men also sought visual impact with flashy shirts, slim pants, and shiny jackets.
+By the 1970s, the sheen and glitter of disco had permeated club culture, and at New York's Studio 54, attendees were routinely seen dancing in body-conscious dresses, bell-bottoms, and platform shoes. Music and clothing went hand in hand, with costumes chosen to emphasize disco dance moves. Men also sought visual impact with flashy shirts, slim pants, and shiny jackets.
 
 Meanwhile, with the punk rock movement that broke out in London in 1976, the anti-establishment spirit was reflected in fashion. At Sex Pistols and Clash shows, studded leather, handmade badges, torn T-shirts, and mohawks were shared by both audience and artist, making DIY individuality visible at the festival. Punk fashion became a means to embody music's rebellious message, accelerating the ""clarification of genre-specific costumes'' at clubs and outdoor festivals.
 

@@ -186,7 +186,7 @@ With these, the static image of the chorus is completely dismantled, and the par
 
 Ligeti was a composer who symbolized 20th century acoustic thinking and brought about the most radical innovations in choral music.
 
-### Characteristics of representative works
+### Features of representative works
 
 *《Lux Aeterna》: Micropolyphony without accompaniment
 * 《Requiem》: Dense texture and tension in "Kyrie"

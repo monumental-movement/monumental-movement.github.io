@@ -46,7 +46,7 @@ Hawtin was influenced by the **spirit that resides in the mechanical rhythms** o
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the limit, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeats and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
@@ -110,7 +110,7 @@ His minimalism evolved, completely dissolving the boundaries between music and a
 Plastikman"s genes permeate Villalobos, Donato Dozzy, Cio D"Or, and the modern modular scene.
 ""Pleasure of structure," ""introspection of sound," and ""temporization of space'' -- these elements now form the basis of techno.
 
-In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground as a dialogue between piano and minimalism. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
+In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground in **a dialogue between piano and minimalism**. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
 
 ---
 

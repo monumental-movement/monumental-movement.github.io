@@ -107,7 +107,7 @@ The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than
 
 ---
 
-## Chapter 3: Tracker culture and Chipune production - LSDj / Nanoloop / Famitracker
+## Chapter 3: Tracker culture and Chiptune production - LSDj / Nanoloop / Famitracker
 
 ### 3-1. What is Tracker?
 

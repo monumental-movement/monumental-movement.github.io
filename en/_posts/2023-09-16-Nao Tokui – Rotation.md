@@ -14,7 +14,7 @@ title: Nao Tokui – Rotation
 
 Released in 2004, it contains 4 minimal tracks.
 
-Nao Tokui's songs, including "Rotation", are appealing to fans of electronic music and are recognized for his musical talent.
+「Rotation」を含むNao Tokuiの楽曲は、エレクトロニック・ミュージックのファンにとって魅力的で、彼の音楽的な才能が認められています。
 
 #### Tracklist
 ```md

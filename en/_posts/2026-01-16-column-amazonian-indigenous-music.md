@@ -19,7 +19,7 @@ title: '[Column] Musical culture of indigenous Amazonians: a universe of sounds 
 
 ## Prologue: A world of sounds that fills the forest
 
-Text: mmr｜Theme: Music culture that is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
+Text: mmr｜Theme: Music culture is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
 
 The Amazon River Basin is one of the most culturally diverse regions in the world. Hundreds of indigenous groups have lived together, each with their own distinct languages, myths, and social structures. In this context, music has developed not as an independent form of entertainment or art, but as an act that is inseparable from life itself.
 
@@ -88,7 +88,7 @@ For some instruments, it may not even be possible to see them; only the sound is
 
 Rites of passage and healing use long, repetitive songs and rhythms. These changes the participants' state of consciousness and shift them from the everyday world to ritual time.
 
-Shamans communicate with spirits through song and seek out the causes of illness and illness. Lyrics are often symbolic and have no direct meaning. What is important is not the content of the words, but the vibration and repetition of the sound itself.
+Shamans communicate with spirits through song and seek out the causes of illness and disorder. Lyrics are often symbolic and have no direct meaning. What is important is not the content of the words, but the vibration and repetition of the sound itself.
 
 Music is a therapy, a medium, and a technique for crossing boundaries.
 

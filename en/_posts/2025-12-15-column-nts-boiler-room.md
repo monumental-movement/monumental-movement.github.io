@@ -166,7 +166,7 @@ On NTS, it has been confirmed that there are many cases in which material in the
 
 ## Supplementary Chapter 3 Example density across genres
 
-Looking at the activities of live streaming artists, cross-genre is the norm rather than the exception. Fragments of dance music, noise, jazz, folk music, and pop are concatenated within the same set.
+Looking at the activities of live streaming artists, cross-genre is the norm rather than the exception. Fragments of dance music, noise, jazz, folk music, and pop are concatenated in the same set.
 
 This is more a result of changing listening conditions in the distribution environment than an intentional avant-garde. Listening for long periods of time in a private environment allows for rapid genre changes.
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 

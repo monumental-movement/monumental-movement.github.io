@@ -79,7 +79,7 @@ flowchart LR
 A[Vaxin] --> B[rhythm layer]
 C[drum] --> B
 D[shaker] --> B
-B --> E[collective sound]
+B --> E[group acoustics]
 </div>
 
 > Rara's sound is created not as an individual performance, but as a collective breath.
@@ -132,7 +132,7 @@ Still, every year during Lent, Lara reappears on the streets. Even in situations
 
 ## Chapter 7 Spatial structure and physical sensation of marching
 
-The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and the vicinity of cemeteries. These spaces have a functional meaning in everyday life, but during the Rara period they take on a ceremonial meaning. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
+The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and areas around cemeteries. These spaces have a functional meaning in everyday life, but during the Rara period they take on a ceremonial meaning. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
 
 What is important in marching is acoustic continuity rather than visual order. Even if the ranks are disorganized, the march will continue as long as the sound does not break up. Participants rely on sound to determine their location and synchronize their bodies. For this reason, in Lara, hearing is more central to spatial recognition than line of sight.
 

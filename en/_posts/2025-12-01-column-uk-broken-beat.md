@@ -42,7 +42,7 @@ color: #fff;
 In the mid-1990s, jazz-funk and drum and bass were rapidly developing in the UK club scene. In this context, music with freer and irregular rhythms emerged as an offshoot of traditional four-on-the-floor house and jazz-funk. This formed the basis of the genre that would later be called Broken Beat.
 
 - **Jazz-funk swing feel**: Complex chord progressions and odd time signature rhythms
-- **Complex drum and bass and jungle rhythms**: fast breakbeats and irregular snare placements
+- **Drum and bass and jungle rhythm complexity**: high-speed breakbeats and irregular snare placements
 - **Fusion with hip-hop sampling culture**: Simultaneous use of live music and sampling
 
 > "At that time, it wasn't just dancing or listening to music, it was more fun to feel the swing and groove that was born behind the rhythm."

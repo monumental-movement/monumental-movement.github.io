@@ -266,7 +266,7 @@ C --> C2[Mashira Sake Brewery<br>🌾 Traditional fermentation/silence]
 D[Okinoerabu Island] --> D1[Okinoerabu Sake Brewery<br>🌊 Ocean current aging]
 
 E[Yoron Island] --> E1[Arimura Sake Brewery<br>🌺 Traditional storage only]
-E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI acoustic test from 2024]
+E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024]
 
 </div>
 

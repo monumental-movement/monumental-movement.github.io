@@ -21,7 +21,7 @@ Text: mmr｜Theme: From Leeds punk to the American wilderness. The Mekons' 45-ye
 > **"It started with laughter, not rebellion."**
 
 1977, University of Leeds, Northern England.
-The Mekons were started by students in a corner of a lecture room, jokingly thinking, ""Maybe we could form a band ourselves.'' Jon Langford, Tom Greenhalgh, Kevin Lycett, and others would become symbols of the post-punk culture. They had no musical skills and even borrowed instruments.
+The Mekons were started by students in a corner of a lecture hall, jokingly thinking, ""Maybe we could form a band ourselves.'' Jon Langford, Tom Greenhalgh, Kevin Lycett, and others would become symbols of the post-punk culture. They had no musical skills and even borrowed instruments.
 At that time, punk was a revolution that anyone could start. The name Mekons is said to come from the "rebel" character in Byron's play The Curse of Minerva.
 
 The single ""Where Were You / I'll Have To Dance Then (On My Own)'', released in 1978, symbolizes their early punk spirit.
@@ -87,7 +87,7 @@ During this period, Jon Langford rediscovered that ""country is the blues of the
 
 Recorded at Woodlands, Leeds, an indie studio at the time. The guitar, recorded directly on line to analog tape, has a natural saturation that takes advantage of the distortion of the amplifier, and room mics are often used for vocals.
 This lo-fi sound creates a "poetic sense of distance" rather than a "muddy smell."
-This album would later be reevaluated as a precursor to the "alt-country" genre of artists such as Uncle Tupelo and Wilco.
+This album would later be reevaluated as a precursor to "alt-country" artists such as Uncle Tupelo and Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
