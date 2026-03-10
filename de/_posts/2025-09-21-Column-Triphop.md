@@ -109,7 +109,7 @@ Abgeleitet vom Bristol-Soundsystem „Wild Bunch“. 3D (Robert Del Naja) ist au
 
 #### Produktionstechnik
 
-Statt eines Plattenspielers „verwandelt er das Studio in ein Instrument“ und vermischt Samples und Live-Auftritte. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
+Anstatt einen Plattenspieler zu verwenden, „verwandelt er das Studio in ein Instrument“ und mischt Samples und Live-Musik. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
 
 #### Video funktioniert
 

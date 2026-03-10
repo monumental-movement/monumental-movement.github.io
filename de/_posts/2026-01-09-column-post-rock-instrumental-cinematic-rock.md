@@ -26,7 +26,7 @@ Post-Rock-Instrumental- und Cinematic-Rock sind Musikrichtungen, die den Zuhöre
 
 Als diese Musik Ende der 1990er Jahre aufkam, schien der Rock seine vielen Formen erschöpft zu haben. Alternative Rock wurde zum Mainstream und Grunge-Impulse gehörten der Vergangenheit an. Unter solchen Umständen vermittelte die Post-Rock-Instrumentalmusik durch die Verwendung von Felsformationen ein völlig anderes Gefühl von Zeit und Struktur.
 
-Explosionen am Himmel und viel Glück! Black Emperor sind in diesem Zusammenhang ikonisch. Ersteres nähert sich persönlichen Erlebnissen durch Melodien und gesteigerte Emotionen, während letzteres soziale und kollektive Zeit in Form von Klängen einprägt. Während beide Künstler gleichzeitig aktiv waren, demonstrierten sie die Breite und Tiefe des Post-Rock-Rahmens.
+Explosionen am Himmel und viel Glück! Black Emperor sind in diesem Zusammenhang ikonisch. Ersteres nähert sich persönlichen Erfahrungen durch Melodien und gesteigerte Emotionen, während letzteres soziale und kollektive Zeit in Form von Klängen einprägt. Während beide Künstler gleichzeitig aktiv waren, demonstrierten sie die Breite und Tiefe des Post-Rock-Rahmens.
 
 > Post-Rock-Instrumentalstücke bieten dem Zuhörer die Möglichkeit zu sprechen und nicht die Musik.
 
@@ -50,7 +50,7 @@ color: #fff;
 
 Der Begriff „Post-Rock“ etablierte sich Mitte der 1990er Jahre. Es begann damit, Musik zu beschreiben, die Rockinstrumente verwendet, sich aber von Blues-Riffs, Gesangsschwerpunkten und formelhaften Songstrukturen distanziert. Dieses Konzept bezog sich nicht auf einen bestimmten Klang, sondern auf eine Haltung oder Methodik.
 
-Der Hintergrund liegt in den vielfältigen Musikkulturen, die sich seit den 1970er Jahren angesammelt haben. Die Wiederholungen und winzigen Veränderungen der Minimal Music, die Idee der Umweltmusik durch Ambient, die dekonstruktive Haltung des Post-Punk und sogar das Gefühl der räumlichen Verarbeitung in Dub und elektronischer Musik. Als Ergebnis dieser Überschneidungen mit dem Gesteinskontext entstand Postgestein.
+Der Hintergrund liegt in den vielfältigen Musikkulturen, die sich seit den 1970er Jahren angesammelt haben. Die Wiederholungen und subtilen Veränderungen der Minimal Music, die Idee der Umweltmusik durch Ambient, die dekonstruktive Haltung des Post-Punk und sogar das Gefühl der räumlichen Verarbeitung in Dub und elektronischer Musik. Als Ergebnis dieser Überschneidungen mit dem Gesteinskontext entstand Postgestein.
 
 Wichtig ist, dass Post-Rock keine „Negation des Rock“ war. Während die Gitarren-, Bass- und Schlagzeugbesetzung beibehalten wurde, wurden ihre Rollen neu definiert. Die Gitarre wurde zu einem Gerät zur Erzeugung nachhaltiger Klänge und Texturen, anstatt Riffs auszuarbeiten, und das Schlagzeug entwickelte sich von einem Gerät, das den Takt vorgab, zu einem Gerät, das den Fluss von Zeit und Spannung kontrollierte.
 
@@ -60,7 +60,7 @@ Wichtig ist, dass Post-Rock keine „Negation des Rock“ war. Während die Gita
 
 ## Veränderungen im Hörerlebnis durch Instrumentalisierung
 
-Einer der großen Wendepunkte im Post-Rock war die Abschaffung des Gesangs bzw. dessen extreme Verdrängung in den Hintergrund. Durch die Entfernung der Texte aus dem Bild wurde die Musik von konkreten Bedeutungen und Geschichten befreit und in ein abstrakteres Erlebnis verwandelt.
+Einer der großen Wendepunkte im Post-Rock war die Abschaffung des Gesangs bzw. dessen extreme Verdrängung in den Hintergrund. Da der Text im Vordergrund stand, wurde die Musik von konkreten Bedeutungen und Erzählungen befreit und zu einem abstrakteren Erlebnis gemacht.
 
 Bei Instrumentalmusik muss der Zuhörer nicht den Worten folgen. Stattdessen wird die Aufmerksamkeit auf die sich überschneidenden Geräusche, Veränderungen in Stärke und Schwäche und den Zeitablauf selbst gelenkt. Dies ist ein Hörerlebnis, das aktives Eintauchen und nicht passiven Konsum erfordert.
 
@@ -100,9 +100,9 @@ Der Grund, warum ihre Musik in so vielen Videoproduktionen verwendet wurde, lieg
 
 ## Viel Glück! Black Emperor: Eine Gruppe, die Gesellschaft und Zeit prägt
 
-Viel Glück! Black Emperor ist ein Musikkollektiv, das Ende der 1990er Jahre in Montreal gegründet wurde. Es hat den starken Charakter eines fließenden Kollektivs und nicht einer festen Zusammensetzung und zeichnet sich durch eine große Komposition aus, die mehrere Gitarren, Bässe, Trommeln, Streichinstrumente und Feldaufnahmen verwendet.
+Viel Glück! Black Emperor ist ein Musikkollektiv, das Ende der 1990er Jahre in Montreal gegründet wurde. Es hat einen starken Charakter als fließendes Kollektiv und nicht als feste Zusammensetzung und zeichnet sich durch eine große Formation aus, die mehrere Gitarren, Bässe, Schlagzeug, Streichinstrumente und Feldaufnahmen verwendet.
 
-Ihre Arbeit weicht stark vom Rahmen eines typischen Rockalbums ab. Das Stück ist lang und mehrsätzig aufgebaut, es wechselt zwischen Stille und Lärm, Melodie und Chaos. Es gibt oft keine klaren Anknüpfungspunkte oder Lösungen, was vom Zuhörer Geduld und Konzentration erfordert.
+Ihre Arbeit weicht stark vom Rahmen eines typischen Rockalbums ab. Das Stück ist lang und mehrsätzig aufgebaut, es wechselt zwischen Stille und Lärm, Melodie und Chaos. Den Liedern fehlt oft ein klarer Refrain oder eine klare Auflösung, was vom Hörer Geduld und Konzentration erfordert.
 
 Was für ein Glück! „Black Emperor“ war ein Versuch, gesellschaftliche und historische Zeit eher in Tönen als in persönlichen Gefühlen festzuhalten. Die Geräusche, Ankündigungen und fragmentierten Erzählungen der Stadt rufen ein kollektives Gefühl von Angst und Spannung hervor, anstatt eine bestimmte Botschaft zu manifestieren.
 
@@ -151,7 +151,7 @@ timeline
     2000s : 映像作品との結びつきが一般化
 </div>
 
-Dieser Trend ist kein plötzlicher Bruch, sondern kann als Kontinuum verstanden werden, in dem sich mehrere kulturelle Elemente überschneiden.
+Dieser Trend stellt keinen abrupten Bruch dar, sondern kann als Kontinuum verstanden werden, in dem sich mehrere kulturelle Elemente überschneiden.
 
 > Die Geschichte des Post-Rock ist wie eine Welle, die sich still und leise weiter ausbreitet.
 

@@ -90,7 +90,7 @@ Zu Beginn des 20. Jahrhunderts begann die Musiktherapie im Westen in den Bereich
 
 ### Geburt der New-Age-Musik
 
-Seit den 1970er Jahren taucht New-Age-Musik zu Meditations- und Heilzwecken auf. Lieder mit Synthesizern und natürlichen Klängen wurden in Yoga-Asanas und Meditation integriert und sorgten für spirituelle Tiefe. Die Kombination von Yoga und Musik hat sich als integrierter Ansatz zur Förderung von Gesundheit, Spiritualität und persönlichem Wachstum etabliert.
+Seit den 1970er Jahren gibt es New-Age-Musik zu Meditations- und Heilzwecken. Lieder mit Synthesizern und natürlichen Klängen wurden in Yoga-Asanas und Meditation integriert und sorgten für spirituelle Tiefe. Die Kombination von Yoga und Musik hat sich als integrierter Ansatz etabliert, der Gesundheit, Spiritualität und persönliches Wachstum fördert.
 
 ---
 
@@ -100,7 +100,7 @@ Im 21. Jahrhundert erfreut sich Yoga weltweit großer Beliebtheit. Durch urbane 
 
 ### Hintergrundmusik-Nutzung im Studio
 
-In modernen Yogastudios beeinflusst die Wahl der Hintergrundmusik die Atmosphäre des Unterrichts. Sanfte Umgebungs- und Naturgeräusche erleichtern Anfängern die Konzentration auf ihre Atmung und lösen psychische Spannungen. Für dynamische Abläufe wie Vinyasa Yoga eignen sich rhythmische Musik mit Tempo und Lieder mit starkem Bass.
+In modernen Yogastudios beeinflusst die Wahl der Hintergrundmusik die Atmosphäre des Unterrichts. Sanfte Umgebungs- und Naturgeräusche helfen Anfängern, sich auf ihre Atmung zu konzentrieren und psychische Spannungen abzubauen. Für dynamische Abläufe wie Vinyasa Yoga eignen sich rhythmische Musik mit Tempo und Lieder mit starkem Bass.
 
 ### Fusion mit EDM, Lo-Fi, Ambient
 

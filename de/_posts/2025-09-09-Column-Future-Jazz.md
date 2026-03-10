@@ -37,7 +37,7 @@ Acid Jazz ist vor allem in Großbritannien populär geworden und interpretiert J
 
 - **Ausstattungsmerkmale**
 -Akai MPC60/S1000
-- Roland TR-808 / TR-909
+-Roland TR-808 / TR-909
 - Hauptsächlich Plattenspieler und Sampler
 
 <style type="text/css">
@@ -58,7 +58,7 @@ color: #fff;
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
 | 1 | Galliano | Prinz des Friedens | Ein ikonischer Track des frühen Acid Jazz. |
-| 2 | Brandneue Heavys | Ein Traum wird wahr | A fusion of funk and soul. |
+| 2 | Brandneue Heavys | Ein Traum wird wahr | Eine Fusion aus Funk und Soul. |
 | 3 | Junge Jünger | Anscheinend nichts | Ein repräsentatives Lied der britischen Szene. |
 | 4 | US3 | Cantaloop (Flip Fantasia) | Rekonstruktion des berühmten Liedes von Blue Note. |
 | 5 | Jamiroquai | Wenn du lernen wirst | Ansatz des Early Future Jazz. |
@@ -214,7 +214,7 @@ Im Zeitalter von Streaming und KI wurde Future Jazz neu bewertet und mit modular
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
 | 1 | Alfa Mist | Weiter so | Melancholischer Future Jazz. |
-| 2 | Kamaal Williams | Warte | Ein repräsentatives zeitgenössisches Jazzstück aus London. |
+| 2 | Kamaal Williams | Warte | Ein repräsentativer zeitgenössischer Jazzsong aus London. |
 | 3 | Shabaka Hutchings | Hektik | Spirituell und kraftvoll. |
 | 4 | Nubya Garcia | Tempo | Saxophon sticht heraus. |
 | 5 | Blue Lab Beats | Ananas | Eine Fusion aus Hip-Hop und Jazz. |

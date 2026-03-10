@@ -91,12 +91,12 @@ Aktuelle New-Age-Musik ist nicht mehr nur „heilende Musik“ und wird im folge
 
 <hr>
 
-### Verkörperung einer „Oase des Klangs“
+### Eine „Oase des Klangs“ verkörpern
 
 New-Age-Musik wurde, um es deutlich auszudrücken, oft als „Hintergrundmusik“ beschrieben. Sein meditativer und nicht aggressiver Klang verkörpert jedoch mittlerweile die „Klangoase“, die die Menschen im Zuge der fortschreitenden Urbanisierung und Informationstechnologie suchen.
 In der Neuzeit wurde es wieder in Genres wie Ambient und Chillout aufgenommen, aber seine Ideale – Harmonie mit der Natur, Selbstbeobachtung und Heilung – sind noch dringlicher geworden.
 
-New Age ist keine Modeerscheinung der Vergangenheit; Es ist eine Musikkultur, die stillschweigend, aber sicher weiterhin eine Rolle im Leben der Menschen spielt.
+New Age ist keine Modeerscheinung der Vergangenheit, sondern eine Musikkultur, die stillschweigend, aber sicher weiterhin eine Rolle im Leben der Menschen spielt.
 
 ---
 

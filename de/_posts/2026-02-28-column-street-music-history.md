@@ -71,7 +71,7 @@ In Brasilien wurde Samba in den 1930er Jahren als Symbol nationaler Identität i
 
 In der Karibik verbreitete sich Trinidads Calypso als Straßenlied mit politischer Satire und bildete unter der Kolonialherrschaft einen Diskursraum.
 
-### 3. 1950er–60er Jahre: Reggae und urbane Einwandererkultur
+### 3. 1950–60er Jahre: Reggae und urbane Einwandererkultur
 
 Die Soundsystem-Kultur wird in Kingston, Jamaika, geboren.
 Coxsone Dodd

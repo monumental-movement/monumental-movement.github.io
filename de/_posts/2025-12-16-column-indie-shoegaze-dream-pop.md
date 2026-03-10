@@ -21,10 +21,10 @@ title: '[Kolumne] Indie Shoegaze / Dream Pop'
 
 Text: mmr｜Thema: Zur Geschichte der Rekonstruktion von Klangbildern und Empfindungen
 
-Shoegaze und Dream Pop, die zwischen Ende der 1980er und Anfang der 1990er Jahre vor allem im Vereinigten Königreich aufkamen, veränderten den Ausdrucksbereich der Rockmusik erheblich von „Performance“ hin zu „Klangbild“.
-Diese Musik konzentriert sich auf den Raum, den Nachhall und den sinnlichen Sustain, der durch überlappende Klänge entsteht, und nicht auf den unmittelbaren Reiz der Melodie oder die klare Wiedergabe von Texten.
+Shoegaze und Dream Pop, die in den späten 1980er bis frühen 1990er Jahren vor allem im Vereinigten Königreich aufkamen, veränderten den Ausdrucksbereich der Rockmusik erheblich von „Performance“ hin zu „Klangbild“.
+Diese Musik konzentriert sich auf den Raum, den Nachhall und die sinnliche Dauer, die durch überlappende Klänge entstehen, und nicht auf den unmittelbaren Reiz der Melodie oder die klare Wiedergabe von Texten.
 
-Der Begriff „Shoegaze“ entstand aus der Art und Weise, wie Menschen während der Aufführung auf die Effektorbretter zu ihren Füßen blickten, und der Begriff etablierte sich als Symbol für die introvertierte Natur der Aufführung. Dream Pop hingegen entstand als Ergebnis der Verschmelzung einer früheren Ambient-Pop-Sensibilität mit der Post-Punk-Klangorientierung des Post-Punks.
+Der Begriff „Shoegaze“ entstand aus der Art und Weise, wie Menschen während der Aufführung auf die Effektorbretter zu ihren Füßen blickten, und der Begriff etablierte sich als Symbol für die introvertierte Natur der Aufführung. Dream Pop hingegen entstand als Ergebnis der Verschmelzung einer früheren Ambient-Pop-Sensibilität mit der klanglichen Ausrichtung des Post-Punk.
 
 Obwohl die beiden unterschiedlichen Ursprungs sind, sind sie hinsichtlich der Klangverarbeitung, der Stimmverarbeitung und der visuellen Sensibilität eng miteinander verbunden.
 
@@ -50,7 +50,7 @@ color: #fff;
 
 ### 1-1. Akustische Sensation nach Post-Punk
 
-In den späten 1970er und frühen 1980er Jahren dekonstruierte der Postpunk die Strukturen des Rock und verlagerte sein Augenmerk auf Klangfarbe, Textur und räumliche Behandlung.
+In den späten 1970er und frühen 1980er Jahren dekonstruierte der Postpunk die Struktur des Rock und verlagerte sein Augenmerk auf Klangfarbe, Textur und räumliche Behandlung.
 Synthesizer, Hall und Delay sind nicht länger bloße Dekoration, sondern fungieren als Elemente, die die Struktur des Songs selbst prägen.
 
 In diesem Prozess wandelte sich die Singstimme von der Hauptfigur, die die Geschichte erzählte, zu einem bloßen Teil des Klangs.
@@ -104,8 +104,8 @@ Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinu
 
 ### 4-1. Struktur der Dehnungsschicht
 
-In den Liedern von My Bloody Valentine sind mehrere verzerrte Gitarren übereinander geschichtet, die jeweils eine andere Band besetzen.
-Dadurch geht die Klarheit einzelner Töne verloren, es entsteht aber insgesamt eine dickere Klangmasse.
+In den Liedern von My Bloody Valentine sind mehrere verzerrte Gitarren geschichtet, die jeweils eine andere Besetzung besetzen.
+Dadurch geht die Klarheit einzelner Töne verloren, insgesamt entsteht aber eine dickere Klangmasse.
 
 ### 4-2. Stimmplatzierung
 
@@ -251,7 +251,7 @@ Die niedrige Sichtlinie, die gedämpfte Beleuchtung und das ausdruckslose Ersche
 ### D-2. Fehlen eines Themas im Video
 
 In Musikvideos und Bildmaterialien werden Personen oft nicht klar dargestellt oder absichtlich unscharf dargestellt.
-Dies ist ein Versuch, ähnlich wie bei Musik, visuelle Anonymität zu gewährleisten.
+Dies ist ein Versuch, die visuelle Anonymität ähnlich wie bei der Musik sicherzustellen.
 
 [„Es geht nicht darum, wer den Ton erzeugt, sondern darum, was den Ton erzeugt“]
 
@@ -262,7 +262,7 @@ Dies ist ein Versuch, ähnlich wie bei Musik, visuelle Anonymität zu gewährlei
 ### E-1. Nachfolge bis Ende der 1990er Jahre und darüber hinaus
 
 Auch nachdem Shoegaze und Dream Pop vorübergehend die kommerzielle Aufmerksamkeit verloren, blieben ihre Techniken im Untergrund bestehen.
-Die Betonung des Klangbildes wird in Alternative Rock, Post-Rock und Ambient-Pop neu interpretiert.
+Der Schwerpunkt auf Klangbildern wird in Alternative Rock, Post-Rock und Ambient-Pop neu interpretiert.
 
 ---
 

@@ -197,12 +197,12 @@ Wird von The Roots, Eric B. & Rakim, Arrested Development und anderen verwendet.
 | Jahre | Veranstaltungen |
 |------|---------|
 | 1960er Jahre | Die Soul/Funk-Aufnahmetechnologie entwickelt sich. Die aufkeimende Drum-Break-Kultur. |
-| 1973 | Kool Herc spielt auf einer Blockparty zwei Exemplare von „Apache“. Geburtsstunde des Hip Hop. |
+| 1973 | Kool Herc spielt auf einer Blockparty zwei Kopien von „Apache“. Geburtsstunde des Hip Hop. |
 | 1984 | Run-D.M.C. erzielt den ersten kommerziellen Sampling-Hit. |
 | 1989 | „Fear of a Black Planet“ von Public Enemy etabliert mehrere Sampling-Techniken. |
 | 1994 | Wu-Tang Clan, RZAs „Noise Sampling“ schafft einen neuen Trend. |
 | 2000er | Daft Punk und Kanye West verwandeln Soul-Samples in Pop. |
-| 2020er Jahre | Auf dem Weg zu einer neuen Ära der KI-Sampling- und Urheberrechtsfragen. |
+| 2020er | Auf dem Weg zu einer neuen Ära der KI-Sampling- und Urheberrechtsfragen. |
 
 ---
 

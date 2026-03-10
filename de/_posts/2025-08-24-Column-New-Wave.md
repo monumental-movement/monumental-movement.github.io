@@ -101,7 +101,7 @@ Die Vielfalt der neuen Welle ist eng mit dem sozialen Kontext verknüpft, in dem
 
 - **Großbritannien**: Wirtschaftskrise Ende der 1970er Jahre, steigende Arbeitslosenquote unter der Thatcher-Regierung. Junge Menschen verspürten ein „Gefühl der Stagnation ohne Morgen“ und übertrugen dies auf Musik und Mode.
 
-- **Amerika**: Verbunden mit der New Yorker Kunstszene (CBGB, Mudd Club) verbreitete es sich als intellektuelle experimentelle Musik nach dem Punk.
+- **Amerika**: Verbunden mit der New Yorker Kunstszene (CBGB, Mudd Club) verbreitete es sich nach dem Punk als intellektuelle experimentelle Musik.
 
 - **Japan**: Vor dem Hintergrund des hohen Wirtschaftswachstums und des technologischen Fortschritts erlangten „Techno New Wave“ wie YMO und Plastics internationale Anerkennung.
 
@@ -129,7 +129,7 @@ New Wave war ein wichtiger Wendepunkt in der Musikgeschichte, da es „Genregren
 
 ### Kunstbewegung der Post-Punk-Ära, kein Genre
 
-New Wave entstand in den 1970er Jahren aus dem Punk und war eine wichtige Bewegung in der Musikgeschichte, die elektronische Technologie einbezog, genreübergreifend war und gesellschaftskritisch war. Gleichzeitig war es eine umfassende kulturelle Bewegung, die die urbane Kultur der 1980er Jahre symbolisierte und Mode, Video, Kunst und Lebensstil umfasste.
+New Wave entstand in den 1970er Jahren aus dem Punk und war eine wichtige Bewegung in der Musikgeschichte, die elektronische Technologie einbezog, genreübergreifend war und gesellschaftskritisch war. Gleichzeitig handelte es sich um eine umfassende kulturelle Bewegung, die die urbane Kultur der 1980er Jahre symbolisierte und Mode, Video, Kunst und Lebensstil umfasste.
 
 New Wave ist eine „umfassende Kunst der Ära“, in der Musik, Kunst, Gesellschaftskritik und Mode eng miteinander verbunden sind.
 

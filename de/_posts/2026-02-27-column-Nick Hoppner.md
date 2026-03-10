@@ -77,13 +77,13 @@ D --> E[国際流通]
 
 ---
 
-## Bodenübung: Long-Set-Methodik
+## Bodenpraxis: Long-Set-Methodik
 
 ### Resident-Stelle
 
 Die Resident-DJs des Berghains sind mehr als nur Gäste. Sie müssen über längere Zeiträume sitzen und es ist notwendig, ihren psychischen Zustand zu jeder Tageszeit abzulesen.
 
-Höppners Spiel betont eher anhaltende Grooves als plötzliche Spitzen. Das BPM-Spektrum reicht von House bis Techno mit fließenden Übergängen.
+Höppners Spiel betont eher anhaltende Grooves als plötzliche Spitzen. Das BPM-Spektrum reicht von House bis Techno, mit fließenden Übergängen.
 
 ### Struktur zur Montage des Bodens
 
@@ -108,7 +108,7 @@ C --> D[再び削ぎ落とす]
 
 ## Akustische Philosophie: Produktion basierend auf der Prämisse des Klangs
 
-### Konzipiert für die Club-Akustik
+### Entwickelt für die Club-Akustik
 
 Berghain verfügt über ein Soundsystem, das für seine hohe Leistung bekannt ist. Der Bass ist tief, der Nachhall lang und der Raum riesig. Unter diesen Bedingungen führt übermäßige Dekoration zu Trübungen.
 

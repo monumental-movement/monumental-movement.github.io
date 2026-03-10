@@ -62,7 +62,7 @@ graph TD
 
 ## Entwicklung modularer Synthesizer
 
-In den 1990er Jahren erschienen hybride Analog-/Digitalmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
+In den 1990er Jahren erschienen analog/digitale Hybridmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
 
 Insbesondere seit 1995 sorgt der von Doepfer vorgeschlagene Eurorack-Standard dafür, dass Module kompatibel und kompakt sind und es für Einzelpersonen einfacher ist, modulare Sets zusammenzustellen. Dies führt direkt zur Erweiterung der Modular Techno-Szene ab den 2000er Jahren.
 
@@ -201,13 +201,13 @@ Diese „Build-your-own-Kultur“ entspricht dem DIY-Geist des Techno und ist ei
 
 ---
 
-# Musikalische Charakteristika und Analyse
+# Musikalische Eigenschaften und Analyse
 
 Modular Techno weist mehrere gemeinsame akustische und strukturelle Eigenschaften auf. Im Folgenden werden wir die typischen Elemente klassifizieren und erklären, welche Funktionen sie innerhalb des Techno-Frameworks spielen.
 
 ## 1. Rhythmus-„Schwankungen“ und stochastische Veränderungen
 
-Traditioneller Techno basiert auf einem gleichmäßigen 4/4-Takt. Andererseits verwenden modulare Synthesizer häufig stochastische Sequenzer, die bei jedem Schritt Werte ändern
+Traditioneller Techno basiert auf einem gleichmäßigen 4/4-Takt. Andererseits verwenden modulare Synthesizer häufig stochastische Sequenzer, die bei jedem Schritt Werte ändern.
 - Jedes Mal eine etwas andere Hi-Hat
 - Zufälliger Basisangriff
 - Vom Rhythmusraster abweichende Modulation
@@ -271,7 +271,7 @@ Der Wandel von der „Spurwiedergabe“ zur „Klangerzeugung“ hat auch die Au
 
 ---
 
-# Zukunftsausblick
+# Zukunftsaussichten
 
 Es wird erwartet, dass sich Modular Techno weiterentwickeln wird, und zwar in mehrere Richtungen.
 
@@ -301,7 +301,7 @@ Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „d
 
 ---
 
-# Detaillierte Ausstattungsliste (häufig verwendete Module von Modular Techno)
+# Detaillierte Ausstattungsliste (häufig verwendete Module in Modular Techno)
 
 Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig von echten Modular-Techno-Künstlern verwendet werden, mit Schwerpunkt auf Eurorack.
 
@@ -329,7 +329,7 @@ Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig
 
 ## Hüllkurve / Modulation / Zufall
 - Lärm machen – Mathematik
-- Veränderliche Instrumente – Stufen
+- Veränderliche Instrumente – Bühnen
 - Massenvernichtungswaffen – Speerwurf
 - Intellijel – Quadrax
 - Noise Engineering – Mimetic Digitalis (zufälliger CV)
@@ -347,7 +347,7 @@ Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig
 - Lärm machen – Mimeophon
 - Industrielle Musikelektronik – Bionic Lester (digitales Filter-/Verzerrungssystem)
 
-## Utility (Mixer/VCAs/Clock/Schalter)
+## Utility (Mixer/VCAs/Clock/Switch)
 - ALM Busy Circuits – Pamelas neues Workout (Uhr)
 - Intellijel – Mixup / Quad VCA
 - Veränderliche Instrumente – Links / Kinks
@@ -367,7 +367,7 @@ Eine hardwarebasierte Live-Einheit, die durch die Kombination von Drumcomputern 
 
 ## Surgeon & Daniel Bean (Live)
 
-Der Live-Auftritt des Surgeon-Duos mit Daniel Bean zeichnet sich durch einen Ansatz aus, bei dem die beiden ein groß angelegtes modulares System konstruieren, das weiterhin Klang in Echtzeit erzeugt. Ihr Live-Set, das Techno-Rhythmus mit Improvisation verbindet, gilt als typisches Beispiel für modulare Live-Performance.
+Der Live-Auftritt des Duos Surgeon mit Daniel Bean zeichnet sich durch einen Ansatz aus, bei dem die beiden ein groß angelegtes modulares System konstruieren, das weiterhin Klang in Echtzeit erzeugt. Ihr Live-Set, das Techno-Rhythmus mit Improvisation verbindet, gilt als typisches Beispiel für modulare Live-Performance.
 
 ## Alte Methoden
 
@@ -408,7 +408,7 @@ flowchart TD
 
 ---
 
-### Patch-Beispiel 2: Rhythmuserzeugung mit Zufallselementen
+### Patch-Beispiel 2: Rhythmusgenerierung mit Zufallselementen
 
 <div class="mermaid">
 flowchart TD

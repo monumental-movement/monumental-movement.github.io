@@ -21,7 +21,7 @@ title: Echter McCoy – noch einmal
 
 
 
-„One More Time“ erschien 1997 und ist das vierte Studioalbum der deutschen Eurohouse-Band Real McCoy.
+One More Time, veröffentlicht 1997, ist das vierte Studioalbum der deutschen Eurohouse-Band Real McCoy.
 
 #### Trackliste
 ```md

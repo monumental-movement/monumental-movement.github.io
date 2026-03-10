@@ -20,7 +20,7 @@ title: '[Kolumne] Die Geburt der DUB-Musik und des erweiterten Universums – ei
 ## Prolog: Eine Revolution, die aus dem „Nachhall“ des Klangs entsteht
 
 
-Text: mmr｜Thema: Von der jamaikanischen Soundsystem-Kultur zu Lee „Scratch“ Perry, King Tubby und seinem Erbe im britischen Dub und zeitgenössischer elektronischer Musik
+Text: mmr｜Thema: Von der jamaikanischen Soundsystemkultur zu Lee „Scratch“ Perry, King Tubby und seinem Erbe im britischen Dub und zeitgenössischer elektronischer Musik
 
 
 
@@ -113,10 +113,10 @@ Die Legende verbreitete sich in allen Teilen der Welt, auch im Vereinigten Köni
 In den späten 1970er Jahren wurde von Einwanderern aus Jamaika
 Doves Ideen verbreiteten sich nach London, Bristol und Birmingham.
 In diesem Sinne erschien **On-U Sound** unter der Leitung von **Adrian Sherwood**.
-Er kombiniert das Chaos von Perry mit der Raffinesse von Tubby.
+Er verbindet das Chaos von Perry mit der Raffinesse von Tubby.
 Sie schufen einen industrielleren und abstrakteren „UK-Dub“.
 
-Werke wie **African Head Charge**, **Dub Syndicate**, **New Age Steppers** sind
+Werke wie **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
 Es wird ein Ort sein, an dem sich jamaikanische spirituelle Wurzeln und europäischer Post-Punk-Geist kreuzen.
 
 Etwa zur gleichen Zeit wurde auch das **Ariwa Studio** von **Mad Professor** im Süden Londons eröffnet.
@@ -134,9 +134,9 @@ Sie verarbeiteten rhythmische Partikel räumlich und etablierten **Dub-Techno**.
 Zu seinen Nachfolgern gehören **Deepchord**, **Rhythm & Sound** und **Echospace**.
 
 Im Ambient-Bereich **The Orb**, **Bill Laswell**, **Kode9**, **Burial** und andere
-Er erkundete weiterhin den Dub-Bereich.
+Er erkundete weiterhin den Dub-ähnlichen Raum.
 Burials „Untrue“ (2007)
-Es kann wahrlich als **einsamer Dub des postdigitalen Zeitalters** bezeichnet werden.
+Es kann durchaus als **einsamer Dub des postdigitalen Zeitalters** bezeichnet werden.
 
 ---
 
@@ -146,7 +146,7 @@ Das Wesentliche beim Überspielen ist nicht nur das Anwenden von Effekten.
 Die Idee besteht darin, durch die Reduzierung des Schalls einen neuen Raum zu schaffen.
 Es ist die Ästhetik des Mangels und die Idee der Reproduktion.
 
-- Dem „weißen Raum“ des Klangs Bedeutung geben.
+- Den „Rändern“ des Klangs Bedeutung verleihen.
 - Technologie als „improvisatorischen Ausdruck“ nutzen.
 - Neudefinition von „Original“ im Prozess der Reproduktion.
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Diagramm: Struktur des Dub-ähnlichen Denkens
+## Diagramm: Struktur des Dove-Denkens
 
 <div class="mermaid">
 

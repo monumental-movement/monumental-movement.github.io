@@ -177,11 +177,11 @@ Aktuelle Experimente verwenden manchmal Echtzeitverarbeitung und Mehrkanalvertei
 * Tonhöhenverschiebung
 * Granulare Verarbeitung
 
-Damit wird das statische Bild des Chores vollständig aufgelöst und die **partikuläre/räumliche Verteilung der Stimmen** zum Zentrum der musikalischen Struktur.
+Damit wird das statische Bild des Chores vollständig aufgelöst und die Partikelisierung und räumliche Verteilung der Stimmen zum Zentrum der musikalischen Struktur.
 
 ---
 
-# 5. Vorstellung der Hauptfiguren
+# 5. Einführung der Hauptfiguren
 
 ## 5-1. György Ligeti
 

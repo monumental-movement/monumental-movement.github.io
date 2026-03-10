@@ -53,7 +53,7 @@ color: #fff;
 
 Die Ursprünge der virtuellen Band liegen in der Animations- und Konzeptalbumkultur des späten 20. Jahrhunderts. In Zeichentrickfilmen und Fernsehserien haben nicht existierende Charaktere die Lieder gesungen, und das Publikum hat sie natürlich akzeptiert. Hier wurde der Frage „Wer singt in der Geschichte“ Vorrang vor der Tatsache „Wer singt?“ eingeräumt.
 
-Auch in der Rock- und Popmusik tauchten von Ende der 1960er bis 1970er Jahre Werke mit fiktiven Bandsettings und Alter Egos auf. Dies war für den Künstler auch eine Möglichkeit, sich von seinem wahren Selbst zu distanzieren und seine Meinungsfreiheit zu erhöhen.
+Auch in der Rock- und Popmusik tauchten von Ende der 1960er bis 1970er Jahre Werke mit fiktiven Bandsettings und Alter Egos auf. Dies war für den Künstler auch eine Möglichkeit, sich von seinem wahren Bild zu distanzieren und seine Meinungsfreiheit zu erhöhen.
 
 Diese Hüllen enthielten bereits zwei Elemente, die für spätere virtuelle Bands notwendig waren. Erstens die Empfänglichkeit des Publikums, sich in ein fiktives Wesen hineinzuversetzen. Zweitens ist die Erkenntnis, dass Geschichte und Setting das musikalische Erlebnis erweitern.
 
@@ -65,7 +65,7 @@ Diese Hüllen enthielten bereits zwei Elemente, die für spätere virtuelle Band
 
 ### Einrichtung einer Umgebung, in der Charaktere „aktiviert“ werden können
 
-Von Ende der 1990er bis Anfang der 2000er Jahre entwickelten sich CG, das Internet und die digitale Musikproduktionsumgebung rasant. Dadurch handelt es sich bei den Charakteren nicht nur um Illustrationen, sondern um Charaktere, die sich im Video bewegen und wachsen und zu Einheiten werden, die kontinuierlich zur Schau gestellt werden können.
+Von Ende der 1990er bis Anfang der 2000er Jahre entwickelten sich Computergrafik, das Internet und die digitale Musikproduktionsumgebung rasant. Dadurch handelt es sich bei den Charakteren nicht nur um Illustrationen, sondern um Charaktere, die sich im Video bewegen und wachsen und zu Einheiten werden, die kontinuierlich zur Schau gestellt werden können.
 
 Was die Musikproduktion anbelangt, ist mit der Verbreitung von DAWs und Sampling-Technologie eine Musikproduktion üblich geworden, die von der Körperlichkeit der Aufführung losgelöst ist. Auch Singstimmen können bearbeitet und bearbeitet werden, um deutlich zu machen, zu wem sie gehören. Dies war eine wichtige Veränderung, die zur späteren Sprachsynthesekultur führte.
 
@@ -89,7 +89,7 @@ Dabei versteckte sich die virtuelle Band nicht hinter der Anonymität, sondern e
 
 ---
 
-## Stimmsynthese und stimmliche Entkörperlichung
+## Sprachsynthese und stimmliche Entkörperlichung
 
 ### Das Phänomen, dass Stimmen Persönlichkeiten haben
 
@@ -109,7 +109,7 @@ Dadurch werden virtuelle Bands eher zu dezentralen Kreativplattformen als zu ein
 
 Bei Live-Auftritten virtueller Bands müssen sich Künstler und Publikum nicht unbedingt am selben Ort versammeln. Es haben sich verschiedene Formen etabliert, unter anderem über einen Bildschirm, AR, VR und Vertriebsplattformen. Dabei kommt es auf Gleichzeitigkeit und gemeinsames Erleben an, nicht auf physische Distanz.
 
-Anstatt die Person „in“ der Figur zu sehen, sucht das Publikum nach einer Erfahrung, bei der es das Gefühl hat, dass die Figur selbst da ist. Aus diesem Grund sind Regie, Bildmaterial und Story-Setting genauso wichtig, wenn nicht sogar wichtiger als die Aufführungstechnik.
+Anstatt die „Person in“ der Figur zu sehen, sucht das Publikum nach einer Erfahrung, bei der es das Gefühl hat, dass die Figur selbst da ist. Aus diesem Grund sind Regie, Bildmaterial und Story-Setting genauso wichtig, wenn nicht sogar wichtiger als die Aufführungstechnik.
 
 Dieses Format relativierte geografische Zwänge und Beschränkungen der Personenzahl und erweiterte den eigentlichen Begriff einer Musikveranstaltung.
 
@@ -127,7 +127,7 @@ Dies relativierte die Vorstellung von der Lebensspanne eines Künstlers und den 
 
 Virtuelle Bands sind zu einem Beispiel für den Wandel der Musik vom „individuellen Ausdruck“ zum „betriebenen geistigen Eigentum“ geworden.
 
-> Virtuelle Bands haben die Einheit des Musikgeschäfts von Menschen auf Strukturen verlagert.
+> Virtuelle Bands haben die Einheit des Musikgeschäfts von Menschen zu Strukturen verlagert.
 
 ---
 

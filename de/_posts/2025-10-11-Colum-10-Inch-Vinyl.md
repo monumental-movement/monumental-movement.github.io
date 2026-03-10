@@ -57,7 +57,7 @@ Darüber hinaus reduziert die kleine Platinenoberfläche interne Verzerrungen, w
 
 ---
 
-### 10-Zoll-Goldenes Zeitalter der 1950er Jahre: Experimentierfeld für Jazz und klassische Musik
+### 10-Zoll-Goldenes Zeitalter der 1950er Jahre: Das Experimentierfeld für Jazz und klassische Musik
 
 Das 10-Zoll-Format erreichte seinen Höhepunkt zu Beginn des Jazz in den frühen 1950er Jahren.
 Labels wie Blue Note, Prestige und Clef beschränkten die Experimente der Künstler auf das 10-Zoll-Format.
@@ -117,7 +117,7 @@ Es ist ein Musikerlebnis, das sich des Endes bewusst ist, im Gegensatz zu einer 
 Es handelt sich nicht um eine lange Geschichte oder eine Kurzgeschichte, sondern um ein „Kurzgeschichten“-Format.
 Musik in Ihrer Handfläche. Seine Dichte ist jedoch nicht schlechter als 12 Zoll.
 
-Ein Format ist nicht nur ein Container, es ist eine Idee.
+Ein Format ist nicht nur ein Container, sondern eine Idee.
 Die Neubewertung des 10-Zoll-Geräts ist ein Akt des Überdenkens der Art und Weise, wie Musik gehört wird.
 
 Es gibt immer eine „Mitte“ zwischen Technologien.

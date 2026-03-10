@@ -21,7 +21,7 @@ title: '[Kolumne] Die Illusion von EDM: Feiern und Wiederaufbau im digitalen Zei
 
 Text: mmr | Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
 
-Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass vibriert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
+Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass zittert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
 Das Phänomen „EDM“ war mehr als nur ein Musikgenre, es war eine Feier des digitalen Zeitalters.
 In den 2010er Jahren wurden Städte auf der ganzen Welt durch den Klang neu geformt. Die Wüste von Las Vegas, die Wälder Belgiens, die Bucht von Tokio.
 In dieser Kolumne werfen wir einen Blick auf die Entstehung, Transformation und „Darüber hinaus“ von EDM aus der Schnittstelle von Klang, Licht, Körper und Technologie.
@@ -53,7 +53,7 @@ EDM war die „Festivalarchitektur“ des 21. Jahrhunderts.
 Ursprünglich war das Wort EDM eher ein Marketingbegriff als ein Genrename.
 Diese Zweideutigkeit war jedoch ein Symbol der Zeit.
 Egal ob House, Techno oder Trance – wichtig war das Erlebnis.
-Jeder glaubte mindestens einmal an die Illusion, dass ein einziger Ton die Welt erschüttern kann.
+Jeder hat mindestens einmal an die Illusion geglaubt, dass ein einziger Ton die Welt erschüttern kann.
 
 ---
 
@@ -114,13 +114,13 @@ In den späten 2010er Jahren wurde EDM zu einem Meme.
 Der Drop wird auf TikTok geschnitten und der Rhythmus geht viral wie ein GIF.
 Der „Closer“ der Chainsmokers ist ein Symbol dafür.
 Ein DJ ist sowohl Produzent als auch **Marke**.
-Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Sound-bezogenen Branchen“ geworden.
+Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Industrien rund um den Klang“ geworden.
 
 ---
 
 ### Ⅵ. Verzweigung und Mutation: Post-EDM-Horizont
 
-Irgendwann schwächeln die Feierlichkeiten.
+Irgendwann klingen die Feierlichkeiten ab.
 Die Leute, die das grelle Licht der Hauptbühne satt hatten, kehrten in die dunklen Clubs zurück.
 
 „Introspektives EDM“, demonstriert von Porter Robinson und Madeon——
@@ -137,7 +137,7 @@ Die Resonanz zwischen Mensch und Maschine, dieses Vergnügen, war die Essenz von
 
 ### VII. EDM-Akzeptanz in Japan
 
-EDM hat sich in Japan etwa im Jahr 2013 ernsthaft etabliert.
+EDM hat in Japan um das Jahr 2013 herum Fuß gefasst.
 Als ULTRA JAPAN landete und ZEDD und Hardwell nach Japan kamen,
 Der Himmel über der Bucht war voller Licht.
 
@@ -147,7 +147,7 @@ Dies könnte ein Ausdruck ihres „Wunsches nach Gemeinschaft“ gewesen sein.
 Yasutaka Nakata, Parfüm, Ado——
 J-POP übernahm die Struktur von EDM und entwickelte sich zu einem dramatischeren und visuelleren Sound.
 Für die TikTok-Generation kommt es beim Tanzen möglicherweise nicht auf den Körper an, sondern auf die Bewegung der Fingerspitzen.
-Licht springt digital umher, Menschenmassen hinter Smartphones.
+Licht, das digital umherspringt, Menschenmassen hinter Smartphones.
 Der japanische EDM hat eine neue Form angenommen: eine introvertierte Feier.
 
 ---
@@ -174,7 +174,7 @@ Aber sein Erbe durchdringt bereits alle Genres.
 Pop, Hip Hop, Gamemusik...
 Erbt die Ästhetik der Tropfenstruktur und des Schalldrucks.
 
-Feiern werden sich in Zukunft nicht mehr nur auf physische Bühnen beschränken.
+Von nun an werden Feierlichkeiten nicht mehr auf physische Bühnen beschränkt sein.
 Metaverse, AR, virtueller DJ.
 Die Menge wird zum Avatar und das Licht fließt als Code.
 

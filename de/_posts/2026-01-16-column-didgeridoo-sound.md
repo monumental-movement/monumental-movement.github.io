@@ -19,12 +19,12 @@ title: '[Kolumne] Didgeridoo-Musik und australische indigene Kultur'
 
 ## Was ist ein Didgeridoo?
 
-Text: mmr｜Thema: Eine Kulturgeschichte, die Didgeridoo-Musik, die in indigenen Gesellschaften im Norden Australiens verwurzelt ist, aus einer vielschichtigen Perspektive interpretiert, die auf regionalen Unterschieden, sprachlichen Unterschieden und Stammesbeispielen basiert.
+Text: mmr｜Thema: Eine vielschichtige Kulturgeschichte der Didgeridoo-Musik, die in indigenen Gesellschaften im Norden Australiens verwurzelt ist, ausgehend von regionalen Unterschieden, sprachlichen Unterschieden und Stammesbeispielen.
 
 
 Das Didgeridoo ist ein traditionelles Blasinstrument, das von den australischen Aborigine-Gemeinschaften hauptsächlich von der Nordküste bis ins Landesinnere verwendet wird. Im Allgemeinen besteht das Material aus einem von Termiten ausgehöhlten Eukalyptusbaumstamm und die Öffnung auf einer Seite ist mit Bienenwachs beschichtet, um das Mundgefühl anzupassen. Obwohl die Struktur äußerst einfach ist, beschränken sich die abgegebenen Klänge nicht auf monophone Borduntöne, sondern bestehen aus komplexen akustischen Schichten, die Obertöne, Rhythmus und Lautäußerungen kombinieren.
 
-Der heute gebräuchliche Name „Didgeridoo“ stammt nicht aus indigenen Sprachen, sondern wurde zu Beginn des 20. Jahrhunderts von englischsprachigen Personen als lautmalerische Bezeichnung geschaffen. In indigenen Gesellschaften werden Musikinstrumente im Zusammenhang mit Land und Sprache benannt, und unterschiedliche Namen spiegeln Unterschiede in der Kultur wider.
+Der heute gebräuchliche Name „Didgeridoo“ stammt nicht aus einer indigenen Sprache, sondern ist ein lautmalerisch geprägter Name, der zu Beginn des 20. Jahrhunderts von englischsprachigen Personen geprägt wurde. In indigenen Gesellschaften werden Musikinstrumente im Zusammenhang mit Land und Sprache benannt, und unterschiedliche Namen spiegeln Unterschiede in der Kultur wider.
 
 > Das Didgeridoo ist kein einzelnes Musikinstrument, sondern eine Sammlung kultureller Praktiken, die je nach Region unterschiedlich sind.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Herkunft und historische Reichweite
 
-Es gibt keine archäologischen Materialien, die eindeutig auf die Herkunft des Didgeridoos hinweisen. Da es aus Holz besteht, ist es schwierig, es physisch zu erhalten, und das derzeitige Wissen stützt sich auf Felsmalereien, mündliche Überlieferungen und ethnografische Materialien aus der Kolonialzeit. Felsmalereien im nördlichen Arnhemland zeigen Figuren, die lange Röhreninstrumente spielen, und es wurde vermutet, dass die Felskunst mindestens mehrere hundert Jahre und möglicherweise mehr als 1.000 Jahre alt sein könnte.
+Es gibt keine archäologischen Materialien, die eine eindeutige Datierung bezüglich der Entstehung des Didgeridoos belegen. Da es aus Holz besteht, ist es schwierig, es physisch zu erhalten, und das derzeitige Wissen stützt sich auf Felsmalereien, mündliche Überlieferungen und ethnografische Materialien aus der Kolonialzeit. Felsmalereien im nördlichen Arnhemland zeigen Figuren, die lange Röhreninstrumente spielen, und es wurde vermutet, dass die Felskunst mindestens mehrere hundert Jahre und möglicherweise mehr als 1.000 Jahre alt sein könnte.
 
 Wichtig ist, dass das Didgeridoo nicht in ganz Australien natürlich vorkam. Im Südosten, in Tasmanien und in weiten Teilen der zentralen Wüstenregion wurden keine ähnlichen Musikinstrumentenkulturen aus der Zeit vor dem Kontakt identifiziert. Mit anderen Worten: Das Didgeridoo war kein Symbol „der Aborigines im Allgemeinen“, sondern ein kulturelles Produkt einer bestimmten Region.
 
@@ -86,7 +86,7 @@ Ein Yidaki-Darsteller ist nicht nur ein Musiker; Er oder sie muss sich mit Texte
 
 ## Spezifisches Stammesbeispiel: Bininji (West-Arnheim)
 
-In den Bininji-Gruppen im westlichen Arnhemland spielt das Didgeridoo eine eher rhythmische Rolle. Es haben sich lautmalerische Spieltechniken mit Zungenschnalzen und Stimmen entwickelt, häufig kommen Klangmuster zum Einsatz, die an Tiere und Naturphänomene erinnern.
+In den Bininji-Gruppen im westlichen Arnhemland spielt das Didgeridoo eine rhythmischere Rolle. Es haben sich lautmalerische Spieltechniken mit Zungenschnalzen und Stimmen entwickelt, häufig kommen Klangmuster zum Einsatz, die an Tiere und Naturphänomene erinnern.
 
 Auch der Bau von Musikinstrumenten ist hier ein wichtiges Wissensgebiet, wobei die gewählte Holzart und die Schnittrichtung rituelle Bedeutung haben. In vielen Fällen sind Produktion und Leistung nicht getrennt.
 
@@ -100,7 +100,7 @@ In vielen Regionen gilt das Didgeridoo als männliches Instrument, dies beruht j
 
 Es gab auch Altersbeschränkungen und Auftritte mit bestimmten Liedreihen waren nicht erlaubt, es sei denn, bestimmte Rituale der Volljährigkeit wurden durchgeführt. Dadurch wurde Musik ganz natürlich zu einem Instrument der generationenübergreifenden Bildung.
 
-> Die Leistungsqualifizierung war kein Ausschlusssystem, sondern ein System, das anzeigte, wo die Verantwortung liegt.
+>Leistungsqualifizierung war kein Ausschlusssystem, sondern ein System, das anzeigte, wo die Verantwortung liegt.
 
 ---
 
@@ -192,7 +192,7 @@ In Teilen des östlichen Arnhemlandes fungiert das Didgeridoo als stabile Stütz
 
 ## Musikalische Darstellung in Felsmalereien
 
-Felskunst in ganz Nordaustralien zeigt menschliche Figuren mit langen, röhrenförmigen Musikinstrumenten sowie Jagd- und Zeremonienszenen. Diese wurden so interpretiert, dass sie sich auf das Didgeridoo oder seinen Vorgänger beziehen.
+Felskunst in ganz Nordaustralien zeigt menschliche Figuren mit langen, röhrenförmigen Instrumenten sowie Jagd- und Zeremonienszenen. Diese wurden so interpretiert, dass sie sich auf das Didgeridoo oder seinen Vorgänger beziehen.
 
 Die Darstellung von Musikinstrumenten in der Felskunst ist eher ein Symbol ritueller Handlung als eine realistische Aufzeichnung. Der Körperschmuck und die Platzierung der Figuren lassen darauf schließen, dass Musik als kollektive Praxis ausgeübt wurde.
 
@@ -212,7 +212,7 @@ Auch die Klangmuster des Didgeridoos werden nicht als bloße Begleitung betracht
 
 ---
 
-## Beziehung zwischen Felskunst, mündlicher Überlieferung und modernen Schallplatten
+## Beziehung zwischen Felskunst, mündlicher Überlieferung und modernen Aufzeichnungen
 
 Moderne Forschung umfasst Querverweise zwischen Felskunst, mündlichen Überlieferungen und Audioaufnahmen ab dem 20. Jahrhundert. Es ist nicht möglich, das Gesamtbild der Kultur zu erfassen, wenn man nur einen von ihnen betrachtet.
 

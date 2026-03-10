@@ -28,7 +28,7 @@ Techno ist eine Musikkultur, die in den frühen 1980er Jahren in Detroit entstan
 
 ### Übertragung und Mutation nach Europa
 
-In den späten 1980er und frühen 1990er Jahren gelangte Techno nach Europa und wurde in jeder Stadt anders interpretiert. Insbesondere in Städten wie Berlin, Frankfurt und London wurde der Clubraum selbst zum prägenden Element der Musik und Techno begann nicht nur als Genre, sondern als Betriebssystem für die urbane Kultur zu fungieren.
+In den späten 1980er und frühen 1990er Jahren gelangte Techno nach Europa und wurde in jeder Stadt anders interpretiert. Vor allem in Städten wie Berlin, Frankfurt und London wurde der Clubraum selbst zum prägenden Element der Musik und Techno begann nicht nur als Genre, sondern als Betriebssystem für die urbane Kultur zu fungieren.
 
 >Bevor es Musik gab, war Techno eine gemeinsame Sprache, um Städte und Körper zu verbinden.
 
@@ -66,7 +66,7 @@ Berlin war damals stark vom Post-Bauhaus-Funktionalismus und dem Minimalismus de
 
 ### Die Anzahl der Töne begrenzen und das Zeitgefühl erweitern
 
-Minimal Techno verwendet extrem wenige Sounds. Es ist nicht ungewöhnlich, dass Tracks nur aus Kicks, Hi-Hats und kurzen Synthesizer-Phrasen bestehen. Allerdings ist die Wiederholung nicht eintönig und der Hörsinn wird ständig durch winzige Änderungen der Lautstärke, des EQs und Schwankungen im Timing aktualisiert.
+Minimal Techno verwendet extrem wenige Sounds. Es ist nicht ungewöhnlich, dass Tracks nur aus Kicks, Hi-Hats und kurzen Synthesizer-Phrasen bestehen. Allerdings ist die Wiederholung nicht eintönig und der Hörsinn wird ständig durch winzige Änderungen der Lautstärke, des EQ und Schwankungen im Timing aktualisiert.
 
 ### Interaktion mit dem Clubraum
 
@@ -164,7 +164,7 @@ C --> G[過剰レゾナンス]
 
 ## Fazit Reduktion und Exzess in Einklang bringen
 
-Minimal Techno und Acid Techno verwendeten die gleiche Sprache, Techno, erreichten aber völlig gegensätzliche Ausdrucksformen. Der Minimalismus gewann an Tiefe, indem er Dinge auf das Wesentliche reduzierte, und Acid erzeugte Aufregung, indem er sie verzerrte. Die Existenz dieser beiden Extreme ermöglicht es Techno, über bloße Tanzmusik hinauszugehen und weiterhin als Teil der urbanen Kultur selbst zu existieren.
+Minimal Techno und Acid Techno verwendeten die gleiche Sprache, Techno, erreichten aber völlig gegensätzliche Ausdrucksformen. Der Minimalismus gewann an Tiefe, indem er Dinge auf das Wesentliche reduzierte, und Acid erzeugte Begeisterung, indem er sie verzerrte. Die Existenz dieser beiden Extreme ermöglicht es Techno, über bloße Tanzmusik hinauszugehen und weiterhin als Teil der urbanen Kultur selbst zu existieren.
 
 > Die Stärke von Techno liegt darin, dass er gleichzeitig Ruhe und Raserei beinhaltet.
 

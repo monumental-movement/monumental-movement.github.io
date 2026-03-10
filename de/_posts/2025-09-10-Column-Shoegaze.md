@@ -30,7 +30,7 @@ Im Folgenden blicken wir jahrzehntelang auf die Geschichte von Shoegaze zurück 
 - Während man den Trends von Post-Punk und New Wave folgte, wurde nach einem neuen Ansatz gesucht, um Gitarrengeräusche und Popmelodien zu verschmelzen.
 – Indie-Labels wie Creation Records sind führend in der Szene.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
 - [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)  
 - [The Jesus and Mary Chain – *Psychocandy* (1985)](https://amzn.to/3IyW48K)  
@@ -40,7 +40,7 @@ Im Folgenden blicken wir jahrzehntelang auf die Geschichte von Shoegaze zurück 
 - **Effektor**: Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
 - **Verstärker**: Vox AC30, Fender Twin Reverb
 
-### 10 empfohlene Songs (1980er)
+### Empfohlene 10 Songs (1980er)
 
 <style type="text/css">
 
@@ -77,7 +77,7 @@ color: #fff;
 - Ride, Slowdive, Lush und andere veröffentlichten nacheinander Meisterwerke.
 - Obwohl es mit dem Aufstieg des Britpop vorübergehend zurückging, wurde es von späteren Generationen hoch gelobt.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)  
 - [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)  
 - [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)  
@@ -104,13 +104,13 @@ color: #fff;
 
 ---
 
-## 2000er Jahre – Revival-Periode
+## 2000er – Revival-Periode
 ### Historischer Hintergrund
 - Fusion mit Post-Rock-Bands wie Mogwai und Sigur Rós.
 - Eine neue Generation des Shoegaze-Revivals schreitet hauptsächlich in Amerika voran.
 - Mit der Verbreitung der Internetkultur beschleunigt sich die Neubewertung.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)](https://amzn.to/46Qy7D5)  
 - [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)  
 - [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)  
@@ -139,11 +139,11 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 
 ## 2010er – Neo Shoegaze
 ### Historischer Hintergrund
-- Von der Generation Internet entdeckt und neue Unterstützung gewonnen.
+- Von der Internet-Generation entdeckt und neue Unterstützung gewonnen.
 - Bands der neuen Generation wie DIIV und Nothing entstehen.
 - Fusion mit Dreampop und Chillwave.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)  
 - [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)  
 - [Ringo Deathstarr – *Colour Trip* (2011)](https://amzn.to/3IynMCB)  
@@ -176,7 +176,7 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 - Aufgrund seiner Verbreitung über Festivals und Streaming ist es auch bei der jüngeren Generation beliebt.
 - Shoegaze-Techniken sind auch mit K-POP und der Neubewertung des japanischen City-Pop verbunden.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Nothing – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)  
 - [Slowdive – *Everything Is Alive* (2023) ](https://amzn.to/46PP5l8) 
 - [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)  
@@ -186,7 +186,7 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 - Popularisierung der **Home-Recording-/Verteilungsumgebung**
 - **Hybridbetrieb aus Vintage-Geräten und neuester Technologie**
 
-### 10 empfohlene Songs (2020er)
+### Empfohlene 10 Songs (2020er)
 
 | Songtitel | Künstler | Kommentare |
 |------|--------------|----------|

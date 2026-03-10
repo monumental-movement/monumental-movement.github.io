@@ -22,7 +22,7 @@ title: '[Kolumne] Penguin Cafe Orchestra – Ein imaginäres Paradies, das zwisc
 Text: mmr｜Thema: **Von der Gründung von PCO bis zum Verlauf seiner Aktivitäten, akustische Struktur, Analyse wichtiger Werke, Gedanken von Simon Jeffes**
 
 Das Penguin Cafe Orchestra (PCO) ist eine Musikgruppe, die Ende der 1970er Jahre plötzlich in England auftauchte.
-Sie sind keine Band, sondern ein „musikalisches Gedankengut“, und ihr einzigartiger Sound, der die Grenzen von Ensembleform, Instrumentierung und Genre überschreitet, wird bis heute als „einzigartig“ gefeiert.
+Sie sind keine Band, sondern ein „musikalisches Gedankengut“, und ihr einzigartiger Sound, der die Grenzen von Ensembleform, Instrumentierung und Genres überschreitet, wird immer noch als „einzigartig“ gefeiert.
 
 Es ist keine Folk-, Klassik-, Ambient- oder Weltmusik.
 Obwohl es alle Elemente umfasst, gehört es keiner Kategorie vollständig an.
@@ -54,7 +54,7 @@ Die Ursprünge von PCO gehen auf ein seltsames Ereignis im Jahr 1972 zurück, al
 Dabei hatte er eine tagtraumartige Inspiration, die später als „Penguin Café-Vision“ bekannt wurde.
 Es gab eine „Utopie“, in der sich Menschen frei versammeln und ohne Disziplin oder Form weiter Musik machen konnten.
 
-Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitive Struktur minimaler Musik verbindet.
+Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitiven Strukturen der Minimal Music vereint.
 Die Musik war weder traditionell noch avantgardistisch, sondern kristallisierte sich als ein Klang heraus, der nur hier zu finden war.
 
 ---
@@ -84,7 +84,7 @@ Unter der Leitung von Simon Jeffes nehmen ehemalige klassische Musiker, Volksmus
 ### ● Der Kern ihrer Ideologie
 
 Jeffes beschrieb seine Musik als „spontane Strukturen“.
-Es handelt sich nicht um die Regeln der westlichen Musik oder die Traditionen der Volksmusik, sondern um einen **organischen Prozess**, bei dem eine Ansammlung von Klängen durch Zufall entsteht.
+Es handelt sich nicht um die Regeln der westlichen Musik oder die Traditionen der Volksmusik, sondern um einen **organischen Prozess**, bei dem eine Anhäufung von Klängen durch Zufall entsteht.
 Diese „Spontaneität“ ist der Grund dafür, dass der Sound von PCO zwar manchmal magisch ist, aber dennoch ein warmes, alltägliches Gefühl hat.
 
 ---
@@ -133,7 +133,7 @@ Ein seltsames Musikstück, in dem plötzlich ein zweifarbiges Telefon über eine
 
 * Looping von Telefonaudio durch Bandmanipulation
 * Elektronischer Klang, der als „Fremdkörper“ über dem Ensemble existiert
-* Humorvoll und zugleich postmodern
+* Humorvoll und gleichzeitig postmodern
 
 In Bezug auf Minimal + Found Sound überschneidet sich dieses Werk mit der Abstammung von Brian Eno.
 
@@ -180,7 +180,7 @@ Die Musik von PCO wurde in vielen Ländern auf unterschiedliche Weise rezipiert,
 ### ● Affinität zur Café-/Lounge-Kultur
 
 Während des „Café-Musik“-Booms Ende der 1990er Jahre wurde es neu bewertet.
-Die „Ambient-Musik mit Aussage“, die leicht und angenehm zu hören war, aber dennoch nicht in den Hintergrund geriet, erregte Aufmerksamkeit.
+Die „Ambient-Musik mit Aussage“, die leicht und leicht zu hören war, aber dennoch nicht in den Hintergrund trat, erregte Aufmerksamkeit.
 
 ### ● Starke Mediennutzung
 
@@ -194,7 +194,7 @@ Die Musik von PCO ist emotional, aber nicht beschreibend, daher wird sie als „
 ### ● Auswirkungen auf nachfolgende Generationen
 
 * Max Richter
-* Olafur Arnalds
+*Olafur Arnalds
 * Penguin Cafe (Nachfolgeprojekt von Sohn Arthur Jeffes)
 * Folk-/Minimalisten-Künstler
 

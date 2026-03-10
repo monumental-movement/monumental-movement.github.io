@@ -60,7 +60,7 @@ Außerdem veröffentlichte er eine EP und veröffentlichte frühe Werke auf Labe
 
 ## Unter seinem richtigen Namen arbeiten und sich dem Techno zuwenden (2015–2018)
 
-Im **2015** gab Charlotte den Namen „Raving George“ auf und begann unter ihrem richtigen Namen **Charlotte de Witte** zu arbeiten.
+Im **2015** gab Charlotte den Namen „Raving George“ auf und begann unter ihrem richtigen Namen **Charlotte de Witte** aufzutreten.
 In dieser Zeit nahm ihr Sound einen dunkleren, minimalistischeren Stil an, der Acid-Techno- und Industrial-Elemente enthielt.
 
 Zu den repräsentativen Werken gehören:
@@ -173,10 +173,10 @@ Er hat auch experimentelle Werke wie „The Heads That Know (feat. Comma Dee)“
 | 2015 | Startete Aktivitäten unter echtem Namen, kündigte Weltschmerz EP | an
 | 2017 | EP „Closer, Wisdom“ veröffentlicht, erregt Aufmerksamkeit in Europa und Amerika |
 | 2018 | BBC Radio 1 Essential Mix-Auftritt |
-| 2019 | Gründung von KNTXT |
+| 2019 | KNTXT gegründet |
 | 2022 | Abschluss der Hauptbühne von Tomorrowland |
 | 2023 | Abschluss des Bewegungsfestivals |
-| 2024 | KNTXT-Store eröffnet, Époque-Label gegründet |
+| 2024 | KNTXT-Store eröffnet, Label Époque gegründet |
 | 2025,4 | Single „The Realm“ angekündigt |
 | 2025,7 | Zeitplan für den Eröffnungs- und Abschlussauftritt von Tomorrowland |
 | 2025.11 | Debütalbum „Charlotte de Witte“ veröffentlicht |

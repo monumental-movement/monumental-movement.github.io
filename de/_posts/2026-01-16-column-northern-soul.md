@@ -17,12 +17,12 @@ title: '[Kolumne] Ursprung des Northern Soul und seine Popularität in Japan'
 
 ## Was ist Northern Soul?
 
-Text: mmr｜Thema: Wie Northern Soul, das in den 1960er Jahren in England geboren wurde, sich nach Japan ausbreitete und einzigartige Akzeptanz und Unterstützung erlangte, über die Geschichte, Kultur und die lokale Szene.
+Text: mmr｜Thema: Wie sich Northern Soul, das in den 1960er Jahren in England geboren wurde, nach Japan ausbreitete und einzigartige Akzeptanz und Unterstützung erlangte, über die Geschichte, Kultur und die lokale Szene.
 
 
 Der Begriff Northern Soul ist sowohl ein Musikgenre als auch ein Konzept, das sich auf bestimmte kulturelle Einstellungen und Praktiken bezieht. Es handelt sich um eine Musikkultur, die in der Clubszene Nordenglands enthusiastisch unterstützt wurde und sich hauptsächlich auf schnelle Soulmusik konzentrierte, die Mitte bis Ende der 1960er Jahre in Amerika produziert wurde, insbesondere auf Songs kleinerer Labels, die keinen kommerziellen Erfolg hatten.
 
-Seine Eigenschaften sind klar. Der BPM ist schnell, der 4-Takt ist betont, eine Hornsektion und eine lebhafte Basslinie sind enthalten und der Song ist so konzipiert, dass er dem erhebenden Gefühl auf der Tanzfläche oberste Priorität einräumt. Viele der Texte handeln von Liebe oder Herzschmerz, der Schwerpunkt lag jedoch auf Rhythmen und Grooves, die eher körperliche Reaktionen als soziale Botschaften hervorrufen.
+Seine Eigenschaften sind klar. Der BPM ist schnell, der 4-Takt ist betont, eine Hornsektion und eine dynamische Basslinie sind enthalten und der Song ist so konzipiert, dass er dem erhebenden Gefühl auf der Tanzfläche oberste Priorität einräumt. Viele der Texte handeln von Liebe oder Herzschmerz, der Schwerpunkt lag jedoch auf Rhythmen und Grooves, die eher körperliche Reaktionen als soziale Botschaften hervorrufen.
 
 Es ist wichtig anzumerken, dass Northern Soul nicht als „nostalgische Musik“ begann. Für die jungen Leute im Norden Englands war das damals keine Musik der Vergangenheit, sondern Standmusik, die ständig aktualisiert wurde.
 
@@ -48,9 +48,9 @@ color: #fff;
 
 Der Hintergrund für die Geburt von Northern Soul waren die regionalen Unterschiede, die die britische Gesellschaft in den 1960er Jahren plagten, und der Wandel der Jugendkultur. Im Süden, mit Schwerpunkt auf London, wurden Mod-, Psychedelic- und später Rockkultur sichtbar, während in den industriellen Metropolregionen des Nordens ein anderes Interesse an schwarzer amerikanischer Musik bestand.
 
-In Städten wie Manchester, Wigan, Blackpool und Sheffield entwickelte sich eine Kultur, in der junge Menschen aus der Arbeiterklasse an Wochenendabenden in die Clubs strömten und stundenlang tanzten. Dort waren Lieder, die niemand kannte, die aber überwiegend tanzbar waren, wertvoller als die neuesten Hits.
+In Städten wie Manchester, Wigan, Blackpool und Sheffield etablierte sich eine Kultur, in der junge Menschen aus der Arbeiterklasse an Wochenendabenden in die Clubs strömten und stundenlang tanzten. Dort waren Lieder, die niemand kannte, die aber überwiegend tanzbar waren, wertvoller als die neuesten Hits.
 
-Wichtig ist in diesem Zusammenhang die physische und psychische Distanz zwischen Nordengland und Amerika. Soulmusik, die ihren Ursprung im amerikanischen Süden und in Detroit hatte, fand im Norden stärkeren Anklang bei den jungen Menschen als in London. Dies liegt daran, dass Themen wie Arbeit, Unterdrückung und Solidarität als alltägliche Sensibilitäten geteilt wurden.
+Wichtig ist in diesem Zusammenhang die physische und psychische Distanz zwischen Nordengland und Amerika. Soulmusik, die ihren Ursprung im amerikanischen Süden und in Detroit hatte, fand bei jungen Menschen im Norden stärkeren Anklang als in London. Dies liegt daran, dass Themen wie Arbeit, Unterdrückung und Solidarität als alltägliche Sensibilitäten geteilt wurden.
 
 > Northern Soul entstand spontan an der Schnittstelle der sozialen Struktur Nordenglands und der Körperkultur junger Menschen.
 
@@ -65,7 +65,7 @@ Das musikalische Fundament von Northern Soul liegt in der in Amerika produzierte
 
 Ein britischer Club-DJ entdeckt Werke unbekannter Künstler, die in Detroit, Chicago, Los Angeles, Philadelphia und sogar südlichen Regionen wie Alabama und Texas aufgenommen wurden. Obwohl diese Songs in den Vereinigten Staaten nie in die Charts gelangten, hatten sie die Macht, die Tanzflächen im Norden Englands in Brand zu setzen.
 
-DJs reisten direkt in die Vereinigten Staaten, um Einkäufe zu tätigen, und fanden dort versteckte Waren in Lagerhallen, Radiosendern und Plattenläden. Dadurch wurde die Seltenheit, die gleiche Platte zu haben, wertvoll und es entstand eine „einzigartige Kultur“, die es nur bei Northern Soul gibt.
+DJs reisten direkt in die Vereinigten Staaten, um Einkäufe zu tätigen, und fanden dort versteckte Waren in Lagerhallen, Radiosendern und Plattenläden. Dadurch wurde die Rarität von Platten, in denen sie sonst niemand hatte, wertvoll und es entstand eine „einzigartige Kultur“, die es nur bei Northern Soul gibt.
 
 > Northern Soul war eine grenzüberschreitende Kultur, die durch die Wiederentdeckung und Neubewertung schwarzer amerikanischer Musik entstand.
 
@@ -93,7 +93,7 @@ Der Northern Soul entwickelte sich nicht nur mit der Musik, sondern auch mit sei
 
 Um diesen körperlichen Ausdruck zu ermöglichen, wurde bei der Kleidung Wert auf Funktionalität gelegt. Enge Jeans, weite Oberteile und Schuhe mit rutschigen Sohlen wurden zur Norm, und eine Kultur, die Individualität durch Aufnäher und Abzeichen zum Ausdruck brachte, etablierte sich.
 
-Wichtig ist, dass diese Stile nicht als Trends von oben überliefert wurden, sondern aus der Praxis auf der Tanzfläche entstanden sind.
+Wichtig ist, dass es sich bei diesen Stilen nicht um von oben überkommene Trends handelte, sondern um die Praxis auf der Tanzfläche.
 
 > Die Körperkultur des Northern Soul entstand als Ergebnis der Anpassung an Musik und Raum.
 
@@ -124,7 +124,7 @@ Japanische Soul-Funk-Enthusiasten und DJs haben Northern Soul als Teil ihrer Sam
 ## Japans einzigartige Akzeptanz- und Clubszene
 
 
-In Japan wurde Northern Soul nicht in der gleichen Form reproduziert wie in Großbritannien. Anstelle eines exklusiven All-Night-Clubs entwickelte sich daraus eine Community rund um DJ-Events, Bars und Plattenläden.
+In Japan wurde Northern Soul nicht in der gleichen Form reproduziert wie in Großbritannien. Anstelle eines exklusiven All-Night-Clubs entwickelte es sich zu einer Community rund um DJ-Events, Bars und Plattenläden.
 
 Es betont tendenziell die Klangqualität von Schallplatten, die Seltenheit von Schallplatten und das Bekenntnis zu Originalschallplatten statt zum Tanz und zeichnet sich durch seine starke Verbindung zur Sammlerkultur aus. Andererseits bleibt der Kern der tanzbaren Musik erhalten und es finden weiterhin tanzorientierte Veranstaltungen statt.
 

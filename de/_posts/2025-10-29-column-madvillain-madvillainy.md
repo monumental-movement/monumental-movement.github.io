@@ -54,12 +54,12 @@ Besonders in dieser Arbeit ist **SP-303 Dr. Sample** der Schlüssel. Obwohl es g
 
 ### MF DOOM: Der maskierte Dichter
 MF DOOM (richtiger Name Daniel Dumile) wurde aus einer Tragödie geboren.
-Als er Anfang der 1990er Jahre als KMD debütierte, verlor er seinen jüngeren Bruder Subroc bei einem Unfall und sein Vertrag mit dem Label wurde gekündigt.
+Als er Anfang der 1990er Jahre als KMD debütierte, verlor er seinen jüngeren Bruder Subroc bei einem Unfall und sein Vertrag mit dem Label endete.
 Er schwieg mehrere Jahre lang und kehrte mit einer Metallmaske zurück. **
 
 DOOM machte die Maske zu einem Symbol für „Schöpfung“ und nicht für „Flucht“.
 Seine Texte sind voller komplexer Versmaße, Binnenreime und Metaphern und eine Mischung aus literarischer Struktur und Streetstyle.
-Im „Figaro“ zum Beispiel klingen die Vokalkette und der Rhythmus der Konsonanten wie ein Instrument. Er war ein Rapper, der Wörter nicht als „Bedeutungen“, sondern als „Geräusche“ manipulierte.
+Im „Figaro“ beispielsweise klingen die Vokalkette und der Konsonantenrhythmus wie ein Instrument. Er war ein Rapper, der Wörter nicht als „Bedeutungen“, sondern als „Geräusche“ manipulierte.
 
 ---
 
@@ -83,7 +83,7 @@ Die akustischen Eigenschaften lassen sich in den folgenden drei Punkten zusammen
 2. **Räumliche Komprimierung**: Minimieren Sie Hall und räumliche Verarbeitung, um den Abstand zwischen Samples nahe Null zu bringen.
 3. **Frequenzverzerrung**: Erzeugt einen **VHS-ähnlichen Klang**, bei dem die hohen Frequenzen durch den umfassenden Einsatz von SP-303-Effekten entfernt werden.
 
-Auch hier handelt es sich um eine „**Rekordrekonstruktion**“ von Madlib. Er betrachtete den Lärm und das Knistern alter Aufnahmen als „Bestandteile“ und nicht als „Materialien“ und verwandelte Hip-Hop in eine Archäologie des Klangs.
+Auch hier handelt es sich um eine „**Rekordrekonstruktion**“ von Madlib. Er betrachtete den Lärm und das Knistern alter Aufnahmen als „Komponenten“ und nicht als „Materialien“ und verwandelte Hip-Hop in eine Archäologie des Klangs.
 
 ---
 
@@ -121,7 +121,7 @@ Das Jackenfoto (aufgenommen von Eric Coleman) ist eine Nahaufnahme der Metallmas
 Die Komposition, bei der die Hälfte des Gesichts in Schatten getaucht ist, symbolisiert die Kluft zwischen Anonymität und Enthüllung, Mythos und Realität.
 Diese Maske diente sowohl als Mittel zur Selbstdarstellung als schwarzer Künstler als auch als Form des Widerstands gegen kommerzielle Medien.
 
-Die Maske von DOOM ist eine Anspielung auf Marvels Dr. Doom in der Popkultur, stellt aber im Grunde eine Umkehrung von Macht und Identität dar.
+Die Maske von DOOM ist eine Anspielung auf Marvels „Dr. Doom“ in der Popkultur, stellt aber im Kern eine Umkehrung von Macht und Identität dar.
 Hier besteht ein Paradoxon, dass „Bösewicht = Person, die die Freiheit hat zu sprechen“**.
 
 ---
@@ -152,10 +152,10 @@ Madlib, J Dilla, Aloe Blacc und andere traten auf dem Label auf und schlugen ein
 - Flying Lotus: Eine Fusion aus Jazz und Beat-Wissenschaft.
 - Earl Sweatshirt: Fragmentierter introspektiver Rap, entlehnt von DOOM.
 - Tyler, der Schöpfer: Charakterbildung und die Vererbung von Ironie.
-- Lo-Fi-Hip-Hop-Kultur: Übernahme des SP-Sounds und sogar Erstellung von „Study BGM“ auf YouTube.
+- Lo-Fi-Hiphop-Kultur: Übernahme des SP-Sounds und sogar Erstellung von „Study BGM“ auf YouTube.
 
 Darüber hinaus hat die Maskenkultur von DOOM das Image von Künstlern nach dem Internet beeinflusst.
-Anonyme Konten, VTuber, KI-generierte Musik usw. – die Werteachse hat sich von „Wer hat es gemacht“ zu „Wie es ankommt“ verschoben**.
+Anonyme Konten, VTuber, KI-generierte Musik usw. – die Wertachse hat sich von „Wer hat es gemacht“ zu „Wie es ankommt“ verschoben**.
 
 ---
 

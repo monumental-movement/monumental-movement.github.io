@@ -23,7 +23,7 @@ Text: mmr | Thema: Eine lange Kolumne, die faktenbasiert auf die Geschichte der 
 In der Geschichte des japanischen Films ist die Existenz des Komponisten Joe Hisaishi (englischer Name: Joe Hisaishi) einzigartig.
 Seine Musik ist nicht nur „Filmbegleitung“, sondern fungiert als wichtiger Bestandteil, der die Welt des Werkes selbst formt.
 
-Seit „Nausicaa aus dem Tal des Windes“ aus dem Jahr 1984 ist das in Zusammenarbeit mit dem Regisseur Hayao Miyazaki entstandene Musikuniversum über den Kontext von Animationsfilmen hinausgegangen und hat internationale Anerkennung gefunden.
+Seit „Nausicaa aus dem Tal des Windes“ aus dem Jahr 1984 hat das in Zusammenarbeit mit Regisseur Hayao Miyazaki geschaffene Musikuniversum den Kontext von Animationsfilmen überschritten und internationale Anerkennung gefunden.
 Diese Kolumne zeichnet anhand von Fakten sorgfältig die Beziehung zwischen Joe Hisaishis Musikgeschichte und den Werken von Studio Ghibli nach.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ Joe Hisaishi (richtiger Name: Mamoru Fujisawa) wurde am 6. Dezember 1950 in Naka
 Schon früh lernte er das Klavier kennen und studierte an der Fakultät für Komposition des Tokyo National College of Music. Während seiner Studienzeit interessierte er sich für zeitgenössische Musik, insbesondere Minimal Music, und soll von Steve Reich und Philip Glass beeinflusst worden sein.
 
 Nach seinem Abschluss arbeitete er als zeitgenössischer Musiker unter dem Namen Mamoru Fujisawa und produzierte zahlreiche elektronische akustische Werke und Lieder für Fernsehprogramme.
-Ab dieser Zeit entstand die Idee der Verschmelzung von elektronischem Sound und Live-Musik, die zum Stil der späteren Filmmusik führen sollte.
+Ab dieser Zeit entstand die Idee, elektronische Klänge und Live-Musik zu verschmelzen, was zum Stil der späteren Filmmusik führen sollte.
 
 ---
 
@@ -138,7 +138,7 @@ In diesem Jahr komponierte Hisaishi auch die Musik für Takeshi Kitanos „HANA-
 ## Kapitel 9: Spirited Away (2001) – Aufbau eines weltweiten Rufs
 
 Im Jahr 2001 erschien „Chihiros Reise ins Zauberland“ von Studio Ghibli und Hisaishis Musik erregte internationale Aufmerksamkeit.
-Der Titelsong „Itsou Dogode“ (komponiert von Joe Hisaishi, gesungen von Yumi Kimura) gewann den Preis für die beste Musik bei den 25. Japan Academy Awards.
+Der Titelsong „Always Again and Again“ (komponiert von Joe Hisaishi, gesungen von Yumi Kimura) gewann den Best Music Award bei den 25. Japan Academy Awards.
 
 Die Musik zeichnet sich durch die Klarheit der Melodie und die Schönheit des „ma“ aus, was die Fantasie der Geschichte verstärkt.
 Dieses Werk gewann 2003 den Oscar für den besten Animationsfilm und Hisaishis Name verbreitete sich auf der ganzen Welt.
@@ -159,7 +159,7 @@ In diesen Werken wird Hisaishis Musik zu einem Element, das die „innere Zeit d
 
 ## Kapitel 11: „Wie lebst du?“ (2023) – Klangabstraktion und neue Herausforderungen
 
-„How do you live“, der 2023 in die Kinos kommt, ist der erste abendfüllende Film von Regisseur Hayao Miyazaki seit 10 Jahren.
+„How do you live?“, der 2023 in die Kinos kommt, ist der erste abendfüllende Film von Regisseur Hayao Miyazaki seit 10 Jahren.
 Für die Musik war erneut Joe Hisaishi verantwortlich.
 
 Dieses Werk verwendet eine abstrakte Klangstruktur und betont eher Resonanz und Textur als Melodie.
@@ -173,7 +173,7 @@ Dieses Werk ist das jüngste Beispiel für Hisaishis kontinuierliche Verbindung 
 
 | Jahr | Titel | Regisseur | Titellied/Repräsentationslied | Notizen |
 |----|---------|------|----------------|------|
-| 1984 | Nausikaa aus dem Tal des Windes | Hayao Miyazaki | „Legende vom Wind“ | Erste Zusammenarbeit |
+| 1984 | Nausicaa aus dem Tal des Windes | Hayao Miyazaki | „Legende vom Wind“ | Erste Zusammenarbeit |
 | 1986 | Schloss im Himmel | Hayao Miyazaki | „Zieh dich an“ | Symphonische Komposition |
 | 1988 | Mein Nachbar Totoro | Hayao Miyazaki | „Walk“ und „Der Weg des Windes“ | Ausdruck der Kindheit |
 | 1989 | Kikis Lieferservice | Hayao Miyazaki | „Stadt mit Meerblick“ | Urbaner Rhythmus |

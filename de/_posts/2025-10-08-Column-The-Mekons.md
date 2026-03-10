@@ -57,7 +57,7 @@ Aufgenommen in den Virgin Studios in London. Damals sagten sie: „Es war das er
 Die Akustik ist rau und der Mikrofonabstand und die Balance sind instabil. Dennoch wurden die heulende Gitarre und die Verzerrung des Gesangs als „aus Unwissenheit geborene Kreativität“ aufgenommen. Es gibt keinen Produzenten und das Klangbild basiert auf dem DIY-Geist.
 
 „Wir waren weder politisch noch romantisch, wir waren nur verwirrt“, sagt Jon Langford.
-Zu dieser Zeit waren sich die Mekons bewusst, dass sie „handeln“ wollten, anstatt eine Rebellion auszuleben. Deshalb spiegelte ihr Sound den „Zweifel“ wider, den andere Punkbands losgelassen hatten.
+Zu dieser Zeit waren sich die Mekons bewusst, dass sie eher „handeln“ als eine Rebellion auszuleben. Deshalb spiegelte ihr Sound den „Zweifel“ wider, den andere Punkbands losgelassen hatten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -79,7 +79,7 @@ Mit diesem Album präsentierten sie das Paradoxon: „Ist Rock nicht das System 
 
 ---
 
-### Kapitel 3: Begegnung mit amerikanischer Musik und dem Beginn des „Alt-Country“
+### Kapitel 3: Begegnung mit amerikanischer Musik und dem Beginn des „Alternative Country“
 > **„Inmitten von Wein und Staub war die Wahrheit.“**
 
 1985年の[『Fear and Whiskey』](https://amzn.to/4mV4QMk)で、Mekonsは完全に新しい地平へ踏み出す。  
@@ -110,7 +110,7 @@ Obwohl er für diese Arbeit Pro Tools verwendete, verwendete er zum Mischen absi
 ---
 
 ### Kapitel 5: Feminismus und Solidarität, Perspektiven weiblicher Mitglieder
-> **„Je mehr Stimmen lauter werden, desto gespaltener wird die Wahrheit.“**
+> **„Während sich die Stimmen vermehren, spaltet sich die Wahrheit.“**
 
 Sally Timms verdient in der Geschichte von Mekons besondere Erwähnung.
 Als sie der Gruppe 1985 offiziell beitrat, fungierte sie nicht nur als Sängerin, sondern auch als „Geschichtenerzählerin“.
@@ -131,15 +131,15 @@ Bei Live-Auftritten gibt es viele Szenen, in denen Sally laut vorliest und Langf
 2013年のドキュメンタリー映画[『Revenge of the Mekons』](https://amzn.to/3KJVhCA)は、その活動の核心を映し出した。  
 Regisseur Joe Angio beschreibt sie als „lebende Kunstwerke“.
 Diese Arbeit zeigt, wie Mekons verschiedene Ausdrucksformen durchlaufen haben, darunter nicht nur Musik, sondern auch Malerei, Fotografie, Poesie und politischen Aktivismus.
-Jon Langford war selbst als Maler tätig und vermittelte ein „antiromantisches Bild Amerikas“, indem er die Landschaften des Mittleren Westens der USA symbolisch darstellte.
+Jon Langford war selbst als Maler tätig und zeichnete ein „antiromantisches Bild Amerikas“, indem er die Landschaften des Mittleren Westens der USA symbolisch darstellte.
 
 Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauigkeit“.
-Langford sagte: „Lärm liegt uns im Blut“, und bei der Aufnahme zog er es vor, das Noise Gate zu entfernen und die Umgebungsgeräusche intakt zu lassen.
-Dieser „vernarbte Klang“ war der Realismus, an den Mekons glaubte.
+Langford sagte: „Lärm liegt uns im Blut“, und bei der Aufnahme zog er es vor, das Noise Gate zu entfernen und die Umgebungsgeräusche beizubehalten.
+Dieses „vernarbte Geräusch“ war der Realismus, an den Mekons glaubte.
 
 ---
 
-### Kapitel 7: Jenseits von Dekonstruktion und Wiedervereinigung
+### Kapitel 7: Jenseits von Dekonstruktion und Reorganisation
 > **„Selbst wenn wir uns auflösen, wird es nicht enden. Denn es wird nicht enden, es ist Mekons.“**
 
 Die Mekons lösten sich mehrmals auf und formierten sich neu.

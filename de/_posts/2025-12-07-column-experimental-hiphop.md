@@ -75,7 +75,7 @@ Die Grundlagen des experimentellen/abstrakten Hip Hop wurden Ende der 1990er Jah
 
 ---
 
-– Eine wichtige Rolle im New Yorker Underground Ende der 1990er Jahre.
+– Eine wichtige Rolle im New Yorker Untergrund der späten 1990er Jahre.
 - Einführung von lauten Klängen, segmentiertem Rap und elektronischer Musik.
 - Erweitert die Verbindung zwischen elektronischer Musik und Hip-Hop durch die Unterzeichnung bei Warp Records.
 
@@ -140,7 +140,7 @@ Im Mittelpunkt des experimentellen Hip-Hop seit den 2000er Jahren steht die „N
 
 ### ● Einfluss von J Dilla
 - Der „humanisierte Swing“ und der „Drunk Beat“ in „Donuts“ aus dem Jahr 2006 hatten einen entscheidenden Einfluss auf spätere Generationen.
-- Sein Stil, nicht ganz dem Raster zu folgen und absichtliche Abweichungen und Störungen zu hinterlassen, durchdrang die LA-Beat-Szene und die Arbeit von Flying Lotus.
+- Sein Stil, dem Raster nicht vollständig zu folgen und absichtliche Abweichungen und Störungen zu hinterlassen, durchdrang die LA-Beat-Szene und die Arbeit von Flying Lotus.
 
 ### ● Struktur von „Drunk Beat“
 - Kick und Snare sind einige Millisekunden außerhalb der Reihenfolge.
@@ -156,7 +156,7 @@ Im Mittelpunkt des experimentellen Hip-Hop seit den 2000er Jahren steht die „N
 ## 6. Sampling-Kultur: von analog zu digital
 
 ### ● 1990–2000er: MPC-Kultur
-- MPC2000/2000XL ist der Mainstream.
+- MPC2000/2000XL ist Mainstream.
 - Der Schwerpunkt liegt auf der „Chop-Kultur“, bei der analoge Samples in kleine Stücke gehackt und rekonstruiert werden.
 -Madlib und J Dilla sind repräsentative Beispiele.
 
@@ -191,9 +191,9 @@ Daraus entstand ein Trend, der sich auf die Textur konzentrierte.
 
 ---
 
-- Poesie/philosophische Sprache.
+- Poesie/philosophischer Gebrauch.
 - Beats kreuzen Jazz/Abstract/Lo-Fi.
-- Hohe Dichte und Abstraktion der Wörter.
+- Die Dichte und Abstraktion der Wörter ist hoch.
 
 ---
 

@@ -34,5 +34,5 @@ Eric B. & Rakim sind ein amerikanisches Hip-Hop-Duo, das 1986 in Long Island, Ne
 
 [メルカリで購入](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXF7ux_ES3E?si=5z4SlxD9d2yxBZnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

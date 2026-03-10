@@ -79,7 +79,7 @@ Der DJ war dafür verantwortlich, die Tontechnik vorzubereiten, die Stromversorg
 
 Der Vorgang, rhythmische Teile aus Funk- und Soul-Platten zu extrahieren und sie zu wiederholen, während man die Reaktion des Publikums beobachtete, wurde spontan und raffiniert.
 
-Zu diesem Zeitpunkt waren DJs weniger Schöpfer als vielmehr Zeitkontrolleure.
+Zu diesem Zeitpunkt waren DJs eher Zeitmanipulatoren als Schöpfer.
 
 > Die Aufgabe des DJs bestand nicht darin, Musik zu spielen, sondern die Energie der Gruppe zu kontrollieren.
 
@@ -90,7 +90,7 @@ Zu diesem Zeitpunkt waren DJs weniger Schöpfer als vielmehr Zeitkontrolleure.
 
 Funk- und Soul-Platten hatten oft kurze Zwischenspiele, die nur aus Instrumentalmusik bestanden. In diesem Moment bemerkt der DJ, dass die Bewegungen der Tänzer am intensivsten sind.
 
-Durch die Verwendung zweier Kopien derselben Schallplatte und das abwechselnde Abspielen von Teilen davon wurde eine Technik entwickelt, um den Rhythmus absichtlich zu verlängern. Dies wurde zum Prototyp für die Struktur, die später als Breakbeat bezeichnet wurde.
+Durch die Verwendung zweier Kopien derselben Schallplatte und das abwechselnde Abspielen von Teilen davon wurde eine Technik entwickelt, um den Rhythmus absichtlich zu verlängern. Dies wurde zum Prototyp der Struktur, die später als Breakbeat bezeichnet wurde.
 
 Wichtig ist, dass diese Methode keine theoretische Erfindung war, sondern als Ergebnis der Beobachtung der Reaktionen des Publikums entstand. Die musikalische Struktur wurde durch körperliche Reaktionen neu organisiert.
 

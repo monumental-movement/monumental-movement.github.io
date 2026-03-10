@@ -65,7 +65,7 @@ Die von Eddie Prévost und Keith Rowe demonstrierte „Befreiung nichtinstrument
 
 ### 2-3. Herkunft ③: Noise/alternativer elektronischer Sound der 1980er-1990er Jahre
 Japanischer Lärm (Merzbow, Incapacitants usw.) enthüllte die „Materialität des Klangs“ durch die ultimative Suche nach akustischen Materialien.
-Andererseits führten Otomo Yoshihide und Sachiko M minimale und raffinierte elektronische Klänge (Sinuswellen) in ihre Improvisationen ein und schufen damit die Grundlagen von EAI: „Reduzierung der Anzahl von Klängen“ und „Betonung des Raums“.
+Andererseits improvisierten Otomo Yoshihide und Sachiko M minimale und anspruchsvolle elektronische Klänge (Sinuswellen) und legten die Grundlagen von EAI fest: „Reduzierung der Anzahl von Klängen“ und „Betonung des Raums“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ Sein Meisterwerk „Endless Summer“ (2001) wurde als Beispiel für die Verschm
 Aus EAI-Sicht sind folgende Punkte wichtig:
 
 - Behandeln Sie rohen Gitarrensound und verarbeiteten Sound auf derselben Ebene
-- Einführung von Glitch-Noise zum Improvisieren
+- Füge Störgeräusche zum Improvisieren ein
 - Behandeln Sie Ihren Laptop als „zweites Instrument“
 - Integrieren Sie die Signalverarbeitung (Filterung, Granularität) als Leistungsakt
 
@@ -106,7 +106,7 @@ Merkmale:
 - Selbstgebaute/modifizierte Synthesizerschaltungen, Signalgeneratoren usw.
 - Spielt „steuerbare elektronische Signale“ anstelle von Rauschen
 - Behandeln Sie elektronische Klänge wie Jazzphrasen
-- Verfolgung des Zusammenspiels zwischen körperlichen Bewegungen und elektronischen Reaktionen
+- Verfolgung der Übereinstimmung zwischen körperlichen Bewegungen und elektronischen Reaktionen
 
 Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen elektronischer Klänge“ und ist ein repräsentatives Beispiel für die Improvisationsmöglichkeiten des modularen Betriebs.
 

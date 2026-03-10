@@ -14,7 +14,7 @@ title: Fiona – Ups...ich habe es schon wieder getan
 ---
 
 
-„Fiona – Oops...I Did It Again“ ist ein Cover des berühmten Britney Spears-Songs.
+„Fiona – Oops...I Did It Again“ ist ein Cover des gleichnamigen berühmten Liedes von Britney Spears.
 
 Veröffentlicht vom jamaikanischen Label Joe Frasier.
 

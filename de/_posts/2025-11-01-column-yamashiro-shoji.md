@@ -18,11 +18,11 @@ title: '[Kolumne] Shoji Yamashiro (Riki Ohashi) und die Unterhaltungsgruppe Yama
 ## Prolog: Wo sich Cyber ​​und Primitivität überschneiden – Eine Person namens Shoji Yamashiro
 
 
-Text: mmr｜Thema: Über die Unterhaltungsgruppe Yamashiro-gumi, die in den frühen 1970er Jahren gegründet wurde
+Text: mmr｜Thema: Über die Unterhaltung, die Yamashiro-gumi in den frühen 1970er Jahren gründete
 
 
-In den 1970er Jahren gab es eine Person, die an der Grenze zwischen japanischer Musik und Film hervorstach.
-**Shoji Yamashiro (richtiger Name: Riki Ohashi)**. Er absolvierte die Abteilung für Agrarchemie der Fakultät für Landwirtschaft der Universität Tohoku und interessierte sich für Biowissenschaften, Information und Ton. Mit einem Hintergrund wissenschaftlicher Spekulation und Sensibilität positionierte er Kunst als „ein Experiment zur Erforschung der Beziehung zwischen Mensch und Umwelt“.
+In den 1970er Jahren gab es eine Person, die an der Grenze zwischen japanischer Musik und Visuals hervorstach.
+**Shoji Yamashiro (richtiger Name: Riki Ohashi)**. Er absolvierte die Abteilung für Agrarchemie der Fakultät für Landwirtschaft der Universität Tohoku und interessierte sich für Biowissenschaften, Information und Ton. Mit einem Hintergrund wissenschaftlichen Denkens und Sensibilität positionierte er Kunst als „ein Experiment zur Erforschung der Beziehung zwischen Mensch und Umwelt“.
 
 Der Ort für dieses Experiment war Geinoh Yamashirogumi, das Anfang der 1970er Jahre gegründet wurde.
 Es war mehr als nur eine Musikgruppe, es war eine „Gemeinschaft zur umfassenden Erforschung der Beziehung zwischen Klang, Mensch und Gesellschaft“ und ein „Ort“, der Musik, Ethnologie, Informationstheorie und Anthropologie integrierte.
@@ -74,7 +74,7 @@ Dies war nicht nur eine Sammlung von Volksmusik, sondern eine Untersuchung der g
 | Tibet/Mongolei | Homie singt | Kehlkopfresonanz und Obertontrennung |
 
 Anstatt diese als „Materialien“ zu behandeln, haben Yamashiro et al. beobachteten und rekonstruierten ihre Struktur, Funktion und soziale Bedeutung.
-Insbesondere die „akustische Struktur, die Zeit und Raum überschreitet“ der Gamelan-Musik auf Bali ist von grundlegender Bedeutung für Geino Yamashiro Gumis „Gruppenbildung“, „Informationsumgebung“ und „gesunde Umweltstudien“.
+Insbesondere die „akustische Struktur, die Zeit und Raum überschreitet“ der Gamelan-Musik auf Bali ist von grundlegender Bedeutung für die „Gruppenbildung“, „Informationsumgebung“ und „gesunde Umweltstudien“ des Geino Yamashiro Gumi.
 
 > „Menschen bilden Gruppen basierend auf Klang. Klang entwickelt sich durch Gruppen.“
 > — Shoji Yamashiro

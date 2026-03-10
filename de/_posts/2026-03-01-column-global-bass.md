@@ -64,7 +64,7 @@ Seit den 2000er Jahren hat der Ausbau der DJ-Kultur und der digitalen Vertriebsi
 
 In den 1990er Jahren entstand in Großbritannien eine Basskultur, die Jungle, UK Garage, Grime und Dubstep umfasste. Die Betonung von Tiefbass und Subbass hatte direkten Einfluss auf das spätere Sounddesign von Global Bass.
 
-Etwa zur gleichen Zeit entwickelte sich Baile Funki in den Favelas von Rio de Janeiro, Brasilien. Es handelte sich um eine einzigartige Clubkultur mit portugiesischem Rap und lokaler Beat-Sensibilität, mit Anspielungen auf Miami-Bass und Hip-Hop.
+Etwa zur gleichen Zeit entwickelte sich in den Favelas von Rio de Janeiro, Brasilien, der Baile Funki. Es handelte sich um eine einzigartige Clubkultur mit portugiesischem Rap und lokaler Beat-Sensibilität, mit Anspielungen auf Miami-Bass und Hip-Hop.
 
 Mitte der 2000er Jahre führte der amerikanische Produzent Diplo brasilianische Musik ein und beschleunigte damit die Verbindung zum internationalen Clubmarkt. Seine Aktivitäten sind insofern wichtig, als sie lokale Musik als „Clubmusik“ und nicht als „Weltmusik“ darstellten.
 
@@ -138,7 +138,7 @@ Obwohl es kommerzielle Erfolge gibt, hat es seine Wurzeln ursprünglich in der U
 **Q. Wie unterscheidet es sich von Weltmusik? **
 Der Unterschied besteht darin, dass es im Kontext einer Club-Tanzfläche rekonstruiert wird und nicht im Kontext von Anerkennungsmusik.
 
-**Q. Expandieren Sie gerade? **
+**Q. 現在も拡張しているか？ **
 Über TikTok und Streaming werden laufend neue regionale Rhythmen verknüpft.
 
 > Global Bass ist eine fortlaufende Bewegung.
@@ -153,7 +153,7 @@ Der Unterschied besteht darin, dass es im Kontext einer Club-Tanzfläche rekonst
 | Um 2004 | Internationale Einführung in Baile Funki |
 | 2007 | „Kala“ angekündigt |
 | 2010er | Kuduro Qom Diffusion |
-| 2020er Jahre | Weltweiter Vertrieb von Amapiano |
+| 2020er | Weltweiter Vertrieb von Amapiano |
 
 ---
 

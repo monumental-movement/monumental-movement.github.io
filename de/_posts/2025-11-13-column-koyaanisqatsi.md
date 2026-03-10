@@ -56,8 +56,8 @@ color: #fff;
 Der Titel des Films, „Koyaanisqatsi“, ist ein Hopi-Wort und bedeutet „Leben aus dem Gleichgewicht“.
 Reggio hielt dieses Wort für ein Symbol der Industrie- und Informationsgesellschaft in der zweiten Hälfte des 20. Jahrhunderts.
 
-Im Eröffnungsvideo ist ein rötlich-brauner, felsiger Berg zu sehen, der in der Wildnis aufragt, und ein tiefer Refrain „Koyaanisqatsi“** hallt in der Stille wider.
-Schließlich beginnen sich die Geräusche der Maschinen der menschlichen Zivilisation, die Hektik der Stadt und die Beschleunigung der Konsumgesellschaft zu einem Rhythmus zu überschneiden.
+Im Eröffnungsvideo ist ein rötlich-brauner, felsiger Berg zu sehen, der in der Wildnis aufragt, und der tiefe **Refrain „Koyaanisqatsi“** hallt in der Stille wider.
+Schließlich beginnen sich die Geräusche der Maschinen der menschlichen Zivilisation, die Hektik der Stadt und die Beschleunigung der Konsumgesellschaft zu einem Rhythmus zu überlagern.
 
 > Natürlich und künstlich. Stille und Überfüllung. Licht und Geschwindigkeit.
 > Dieser Film ist eine Reihe von Kontrasten, und das ist die Botschaft.
@@ -70,7 +70,7 @@ Die Musik von Glass basiert auf Wiederholung, aber sie ist nicht nur Wiederholun
 Durch die Überlagerung winziger Veränderungen entsteht ein **„Unterschied zwischen Stille und Bewegung“**.
 
 Seine Partitur stimmt exakt mit den Schnitten und dem Tempo des Filmmaterials überein, als ob das Filmmaterial zu Musik verarbeitet worden wäre.
-Tatsächlich umfasste der Produktionsprozess von Reggio und Glass eine Bearbeitung, bei der die Bilder und Töne miteinander harmonierten.
+Tatsächlich umfasste der Produktionsprozess von Reggio und Glass einen Schnitt, bei dem die Bilder und Töne miteinander in Resonanz standen.
 
 > „Ich habe die Musik geschnitten und das Video komponiert.“
 > ― Godfrey Reggio
@@ -110,7 +110,7 @@ timeline
 
 ## Kapitel 4: Minimalismus und Spiritualität
 
-Die Musik von Glass hat eine westliche klassische Form, ist jedoch stark von östlichem Denken und meditativer Musik beeinflusst.
+Die Musik von Glass hat eine westliche klassische Form, ist jedoch stark von östlicher Philosophie und meditativer Musik beeinflusst.
 Die Rhythmusstruktur ist insbesondere von der Vokalmusik des indischen Musikers Ravi Shankar und tibetischer Mönche beeinflusst.
 
 Reggio ist auch eine spirituelle Figur mit Erfahrung in einem Kloster, und der gesamte Film ist als „Gebet ohne Gebet“ für die moderne Gesellschaft strukturiert.
@@ -140,7 +140,7 @@ Zum Beispiel:
 * **Zeitgenössische Komponisten wie Sigur Rós, Max Richter, Brian Eno**
 * Direkter Einfluss auf **Umweltfilme und VJ-Kultur**
 
-Dieses Werk ist nicht nur ein Film, sondern ist zu etwas geworden, das man als „Audiovisuelles Philosophiebuch“ bezeichnen kann.
+Dieses Werk ist nicht nur ein Film, sondern hat sich zu etwas entwickelt, das man als „**audiovisuelles Philosophiebuch**“ bezeichnen kann.
 
 ---
 

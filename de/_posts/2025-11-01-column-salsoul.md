@@ -19,7 +19,7 @@ title: '[Kolumne] Salsoul Orchestra und MFSB – Entwicklung von Philadelphia zu
 
 Text: mmr｜Thema: Über die musikalische Revolution, die die Grundlage der „Disco“ bildete
 
-In den frühen 1970er Jahren kam es in Philadelphia, einer Stadt an der Ostküste der Vereinigten Staaten, zu einer musikalischen Revolution, die später zum Prototyp der „Disco“ werden sollte.
+In den frühen 1970er Jahren kam es in Philadelphia, einer Stadt an der Ostküste der Vereinigten Staaten, zu einer musikalischen Revolution, die später zum Prototyp der „Disco“ wurde.
 Im Mittelpunkt standen **MFSB (Mother Father Sister Brother)** und **Salsoul Orchestra**.
 
 Sie etablierten einen neuen Sound namens „Orchestra Soul“, indem sie wunderschöne Arrangements mit vielen Streichern und Hörnern, einer detaillierten Rhythmussektion und einem gefühlvollen Geist verbanden.

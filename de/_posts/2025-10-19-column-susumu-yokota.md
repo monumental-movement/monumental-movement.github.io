@@ -21,7 +21,7 @@ title: '[Kolumne] Susumu Yokota – Ein Universum in Stille: Eine von elektronis
 Text: mmr｜Thema: Susumu Yokota. Ein einsamer Künstler, der die Seele des Klangs an der Grenze zwischen Clubkultur und Ambient erforscht. Auf der Spur seiner Ruhe und kosmischen Natur
 
 
-Anfang der 1990er Jahre steckte Japans elektronische Musikszene noch in den Kinderschuhen. Während Techno und House als importierte Kultur populär wurden, war Ambient-Musik, die sich auf „Umgebungsgeräusche“ und „Stille“ konzentrierte, immer noch ein experimentelles Genre in der Minderheit.
+Anfang der 1990er Jahre steckte die elektronische Musikszene Japans noch in den Kinderschuhen. Während Techno und House als importierte Kultur populär wurden, war Ambient-Musik, die sich auf „Umgebungsgeräusche“ und „Stille“ konzentrierte, immer noch ein experimentelles Genre in der Minderheit.
 Susumu Yokota war ein Dichter, der in diesem ruhigen Ort lebte. Seine Musik ist eine Erweiterung der Clubkultur, aber irgendwie „außerhalb“ davon. Er war ein seltener Künstler, der elektronische Teilchen nutzte, um den Atem der Natur, die Entfernung des Windes und den Nachhall von Erinnerungen darzustellen.
 
 Obwohl Yokota in der Clubszene Tokios begann, überschritt er diesen Kontext schnell. Seine Musik konzentrierte sich mehr auf „Pause“ als auf den „Rhythmus“ der Tanzmusik und strebte danach, die Ruhe und Organizität elektronischer Musik zu verfolgen. Dies ähnelt der japanischen Bedeutung von „Wabi-Sabi“.
@@ -49,7 +49,7 @@ Acid Mt. Fuji (1994) war ein bahnbrechendes Werk, das natürliche Klänge und Ac
 
 Seine Methode ist nicht nur das Erstellen von Tracks, sondern „akustische Poesie“. Er rekonstruiert das gesampelte Material und lässt winzige Loops wie Luft schweben. Es fühlt sich an, als ob sich der Klang mit der Zeit verändert und schließlich in den Tiefen der Erinnerung versinkt. Das war seine eigene Sicht auf Musik.
 
-Bemerkenswert ist, dass er seine Werke unter mehreren Namen veröffentlichte. Unter ihnen war „**Anima Mundi**“ ein wichtiger Pseudonym und entwickelte einen eher introspektiven und meditativen Klang. Unter diesem Namen erkundet er das metaphysische Thema „der Seele der Welt“ = Anima Mundi durch ein rein akustisches Erlebnis ohne Rhythmus.
+Bemerkenswert ist, dass er seine Werke unter mehreren Namen veröffentlichte. Unter ihnen war „**Anima Mundi**“ ein wichtiger Pseudonym und entwickelte einen eher introspektiven und meditativen Klang. Unter diesem Namen erkundet er das metaphysische Thema „Anima Mundi“ (die Seele der Welt) durch ein rein akustisches Erlebnis ohne Rhythmus.
 
 ---
 
@@ -60,7 +60,7 @@ Susumu Yokotas Meisterwerk und ein monumentales Werk in der Geschichte der Ambie
 Die leise Melodie und die Umgebungsgeräusche sind überlagert und führen das Bewusstsein des Zuhörers sanft nach innen. Es hat eine Vergänglichkeit, die den Moment fallender Kirschblüten im Klang einfängt, und es ist eine Verschmelzung japanischer Lyrik und universeller Schönheit.
 
 Das Album hat eine hervorragende Struktur und das ganze Album fließt wie ein einziger „Atemzug“. Es beginnt leise, erzeugt einen schwachen Rhythmus und verschwindet dann. Es ist wie der Kreislauf des Lebens und der Jahreszeiten.
-Der Grund, warum „Sakura“ weiterhin bei Ambient-Musikfans auf der ganzen Welt so beliebt ist, liegt wahrscheinlich darin, dass es dieses „Zeitgefühl“ durch den Klang perfekt abbildet.
+Der Grund, warum „Sakura“ weiterhin von Ambient-Musikfans auf der ganzen Welt geliebt wird, liegt wahrscheinlich darin, dass es dieses „Zeitgefühl“ durch den Klang perfekt abbildet.
 
 ### „Symbol“ (2001)
 Erstellen Sie Ihr eigenes Klangbild und nutzen Sie dabei das Sampling klassischer Musik voll aus.
@@ -85,7 +85,7 @@ Die Songs konzentrieren sich auf Drohnen, Umgebungsgeräusche und harmonische St
 Für Yokota könnte man sagen, dass dieser Name ein „Kanal ist, der das Unbewusste und das Universum verbindet“.
 Wenn die Musik unter dem Namen Susumu Yokota „irdische Poesie“ ist, ist Anima Mundi „himmlisches Gebet“.
 
-Das 12-Zoll-Lied „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen verbindet. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
+Das 12-Zoll-Lied „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen kombiniert. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
 
 #### Trackliste
 ```md
@@ -118,10 +118,10 @@ Im Ausland wurde er als „Japans Brian Eno“ beschrieben, aber Yokotas Musik w
 ## Kapitel 6: Leben und Körperlichkeit
 
 Yokotas Live-Auftritt war nicht nur eine Nachstellung, sondern ein Versuch, „den Raum selbst auszuspielen“.
-Er verzichtete so weit wie möglich auf Beleuchtung und Bilder und verwandelte den Raum mit der „Luftdichte“, die der Klang hat.
+Er verzichtete so weit wie möglich auf Beleuchtung und Bilder und verwandelte den Raum mit der „Luftdichte“, die der Klang besitzt.
 Das Publikum wird von Klangpartikeln umhüllt und verliert sein Zeitgefühl. Es war eine Erfahrung, bei der es sich anfühlte, als würde jeder Mensch mit dem Klang verschmelzen.
 
-Seine Haltung war ein seltenes Beispiel für die gleichzeitige Verwirklichung der tänzerischen Körperlichkeit von Techno und der meditativen Natur von Ambient.
+Seine Haltung war ein seltenes Beispiel für die Kombination der tänzerischen Körperlichkeit von Techno mit der meditativen Natur von Ambient.
 
 ---
 

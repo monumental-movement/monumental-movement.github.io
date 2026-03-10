@@ -77,7 +77,7 @@ An diesem Wendepunkt wurde der Avantgarde-Metal geboren. Anstatt die Geschwindig
 
 ## Etablierung von strukturellem Avantgarde-Metall
 
-Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase über. Riffs werden zu Fragmenten und nicht zu sich wiederholenden Einheiten, Taktarten werden zu Störungen statt zu Standards, und Songs entwickeln sich eher als irreversible Veränderungen als als Zyklen.
+Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase ein. Riffs werden zu Fragmenten und nicht zu sich wiederholenden Einheiten, Taktarten werden zu Störungen statt zu Standards, und Songs entwickeln sich eher als irreversible Veränderungen als als Zyklen.
 
 ---
 
@@ -113,7 +113,7 @@ Dieser Rhythmus ist kein Polyrhythmus, sondern sollte als beat-dekonstruierter R
 
 ## Albumanalyse: Gorguts „Obscura“
 
-In Obscura werden Gorguts' Strukturideen in extremer Form umgesetzt. Die Songs sind keine Ansammlung von Riffs, sondern eine Kette fragmentierter Tonhöhenanordnungen und instabiler Rhythmen.
+In Obscura werden Gorguts‘ Strukturideen in extremer Form umgesetzt. Die Songs sind keine Ansammlung von Riffs, sondern eine Kette fragmentierter Tonhöhenanordnungen und instabiler Rhythmen.
 
 * Es gibt keine hierarchische Beziehung zwischen den Riffs
 * Eine Änderung der Taktart weist nicht auf eine strukturelle Änderung hin
@@ -152,7 +152,7 @@ flowchart TD
 
 ---
 
-## Rhythmusatmung
+## Atemrhythmus
 
 Ihr Rhythmus ist kein Takt, sondern eher ein Atemzug oder die Länge einer Geschichte. Das Tempo ist nicht festgelegt und das Schlagzeug spielt eher eine Rolle bei der Regulierung der räumlichen Dichte als als Zeitmesser.
 
@@ -177,7 +177,7 @@ In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind e
 | Methode | Abriss | Schichtung |
 | Zeit | Bruch | Parallel |
 | Rhythmus | Zerstörung des Pulsgefühls | Atemkontrolle |
-| Dissonanz | Strukturelle Bewaffnung | Raumrichtung |
+| Dissonanz | Strukturelle Bewaffnung | Raumproduktion |
 
 ---
 

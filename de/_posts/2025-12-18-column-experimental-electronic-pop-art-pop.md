@@ -131,7 +131,7 @@ In Arcas Liedern bleibt die Klangfarbe nicht stabil. Es kommt ständig zu Zerrun
 
 * Extreme Bassmodulation
 * Einfügen von hochfrequentem Rauschen
-* Plötzliche Lautstärkeänderung
+* Schnelles Umschalten von Lautstärkeänderungen
 
 Diese werden verwendet, um die musikalische Kontinuität absichtlich zu stören.
 
@@ -149,13 +149,13 @@ Dies versetzt den Zuhörer in einen Zustand körperlicher Anspannung.
 
 In Arcas visuellen Ausdrucksformen wird der Körper als wandelbares Material behandelt. Der menschliche Körper, künstliche Objekte und digital verarbeitete Bilder überlagern sich und stehen in einem entsprechenden Zusammenhang mit akustischen Verzerrungen.
 
-Körperdarstellungen weisen nicht auf feste Identitäten hin, sondern werden als sich ständig verändernde Strukturen präsentiert.
+Körperdarstellungen weisen nicht auf feste Identitäten hin, sondern werden als sich ständig verändernde Strukturen dargestellt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4LaCgzhidY?si=3Ml1wlUr-tNSts8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 14. Gemeinsame Strukturmerkmale beider
+## 14. Strukturelle Merkmale, die beiden gemeinsam sind
 
 FKA Twigs und Arca haben gemeinsam, dass sie so konzipiert sind, dass Ton und Video nicht getrennt werden können. Beide basieren auf der Prämisse eines umfassenden Präsentationsformats und nicht auf der Grundlage eines einzelnen Musikstücks.
 

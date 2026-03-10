@@ -14,7 +14,7 @@ title: Realität – Yolanda
 ---
 
 
-Reality ist ein angesagtes House-Trio, dessen Gesang von Afrika Bambaataas Cousin Kool Rock Steady, auch bekannt als Edward Rudolph, stammt.
+Reality ist ein angesagtes House-Trio, dessen Gesang von Afrika Bambaataas Cousin Kool Rock Steady, alias Edward Rudolph, stammt.
 
 „Yolanda“, 1993 auf dem House-Label Strictly Rhythm veröffentlicht, ist ein House-Track, der weltweit ein großer Hit wurde.
 

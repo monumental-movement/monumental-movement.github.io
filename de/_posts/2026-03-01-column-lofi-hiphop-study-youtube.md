@@ -90,7 +90,7 @@ Bekannt für seine Lo-Fi-Texturen und experimentellen Beats. Obwohl sie nicht di
 
 ### Tompbeats
 
-Vertreter der SoundCloud-Generation der 2010er Jahre. Aufgrund seiner kurzen Schlaufenstruktur und nostalgischen Textur erfreute es sich großer Beliebtheit.
+Vertreter der SoundCloud-Generation der 2010er Jahre. Aufgrund seiner kurzen Schlingenstruktur und nostalgischen Textur erfreute es sich großer Beliebtheit.
 
 ### Idealismus
 
@@ -119,7 +119,7 @@ flowchart LR
     F --> G
 </div>
 
-> Akustische Merkmale haben eine Struktur, die gut mit der psychologischen Konzentration vereinbar ist.
+> Akustische Merkmale haben eine Struktur, die mit der psychologischen Konzentration gut vereinbar ist.
 
 ---
 
@@ -127,7 +127,7 @@ flowchart LR
 
 Lo-Fi-Hip-Hop ist über ein reines Musikgenre hinaus zu einem Symbol der Arbeitskultur im digitalen Zeitalter geworden. Insbesondere nach der Corona-Pandemie ist durch die zunehmende Verbreitung von Homeoffice und Online-Lernen die Nachfrage nach Hintergrundmusik, die für längere stationäre Arbeiten geeignet ist, gestiegen.
 
-Der Live-Chat von YouTube ermöglicht es Zuschauern aus der ganzen Welt, mitzuteilen, wo sie sich befinden und was sie gerade tun, und schafft so einen pseudo-kollaborativen Raum. Dabei handelt es sich eher um „Environmental Sharing Media“ als um ein musikalisches Erlebnis.
+Der Live-Chat von YouTube ermöglicht es Zuschauern aus aller Welt, mitzuteilen, wo sie sich befinden und was sie gerade tun, und schafft so einen pseudo-kollaborativen Raum. Dabei handelt es sich eher um „Environmental Sharing Media“ als um ein musikalisches Erlebnis.
 
 Lo-Fi ist auch mit visueller Ästhetik verbunden. Wiederkehrende Motive wie Illustrationen im Anime-Stil, Regengeräusche, Fensterbänke und Laptops vermitteln gleichzeitig ein Gefühl von Einsamkeit und Geborgenheit. Durch die Kombination von Ton und Video wurde eine Markenikone geschaffen.
 

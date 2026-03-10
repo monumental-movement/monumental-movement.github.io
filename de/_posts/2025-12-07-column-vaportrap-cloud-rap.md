@@ -61,7 +61,7 @@ In den späten 2000er Jahren erweiterten MySpace und DatPiff die Mixtape-Kultur 
 
 ---
 
-Um 2009 herum entwickelte Lil B einen Rap-Stil, der sehr gut mit der Internetkultur kompatibel war, und die Gruppe von Produzenten, die seine Musik unterstützten, bildete den Prototyp von Cloud Rap.
+Um 2009 herum entwickelte Lil B einen Rap-Stil, der sehr gut mit der Internetkultur kompatibel war, und die Produzenten, die seine Musik unterstützten, bildeten den Prototyp von Cloud Rap.
 
 ---
 
@@ -71,7 +71,7 @@ Um 2009 herum entwickelte Lil B einen Rap-Stil, der sehr gut mit der Internetkul
 
 ---
 
-Die um 2011 veröffentlichte Instrumentalsammlung von Clams Casino und die Musik, die sie A$AP Rocky zur Verfügung stellten, bestimmten mit ihren „nebligen Pads“, „ambienten Melodien“ und „tiefer räumlicher Verarbeitung“ das Klangbild von Cloud Rap.
+Die um 2011 veröffentlichten Instrumentalsammlungen von Clams Casino und die Musik, die sie A$AP Rocky zur Verfügung stellten, bestimmten mit ihren „nebligen Pads“, „ambienten Melodien“ und „tiefer räumlicher Verarbeitung“ das Klangbild von Cloud Rap.
 
 ---
 

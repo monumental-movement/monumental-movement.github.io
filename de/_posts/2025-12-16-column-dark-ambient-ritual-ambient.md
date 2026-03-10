@@ -29,7 +29,7 @@ Die charakteristischen Elemente der Musik, wie Metrum, Melodie und Instrumentali
 * Räumlicher Nachhall
 *Unbekannte Tonquelle
 
-Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Anordnung von Klängen und die Gestaltung ihrer Dauer.
+Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Gestaltung der Anordnung von Klängen und ihrer Dauer.
 
 
 ---
@@ -48,7 +48,7 @@ color: #fff;
 </style>
 
 
-## 2. Experimenteller Hintergrund vor der Gründung
+## 2. Experimenteller Hintergrund vor der Bildung
 
 Von den späten 1970er bis in die 1980er Jahre experimentierten Menschen im Umfeld der Industrial-Musik damit, „die Funktionen der Musik zu stoppen“.
 
@@ -83,7 +83,7 @@ Das Design konzentriert sich auf die untere Grenze des Hörbereichs und erzeugt 
 
 ### 4.2 Umgang mit räumlicher Aufnahme
 
-Materialien, die in Höhlen, unterirdischen Anlagen und Ruinen aufgenommen wurden, werden als Hauptbestandteile der Musik eingesetzt und nicht nur als Hintergrundgeräusche.
+In Höhlen, unterirdischen Anlagen und Ruinen aufgenommene Materialien werden als Hauptbestandteile der Musik eingesetzt und nicht nur als Hintergrundgeräusche.
 
 ### 4.3 Effektverarbeitung unterdrücken
 
@@ -121,7 +121,7 @@ Ritual Ambient vereint folgende Elemente:
 
 Raison d’être etablierte Ritual Ambient als „System“ und nicht als Einzelwerk.
 
-Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen in Klangstrukturen umwandelt, anstatt sie emotional auszudrücken.
+Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen nicht emotional ausdrückt, sondern in Klangstrukturen umwandelt.
 
 ---
 
@@ -131,7 +131,7 @@ Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen in Klangst
 
 Obwohl alle Lieder unabhängig voneinander sind, bilden sie je nach Reihenfolge, in der sie arrangiert werden, einen rituellen Fluss.
 
-### 8.2 Auswahl des Tonmaterials
+### 8.2 Auswahl des Klangmaterials
 
 * Pfeifenorgelklang
 * Glockenharmonische
@@ -201,7 +201,7 @@ Gemeinsam ist ihnen, dass der Ton keine Erklärungen liefert.
 
 ## 13. Zu beachtende Punkte in der zeitgenössischen Produktion
 
-* Eine zu große Anzahl an Geräuschen behindert das Eintauchen
+* Zu viele Geräusche erschweren das Eintauchen
 * Der Einsatz kann strukturell destruktiv sein
 * Schalldruckwettbewerb ist nicht unbedingt erforderlich
 

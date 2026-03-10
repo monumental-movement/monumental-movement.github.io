@@ -13,7 +13,7 @@ title: Spaß, Spaß – Baila Bolero
 ---
 
 
-„Baila Bolero“ entwickelt den unverwechselbaren Dance-Pop-Sound von Fun Fun weiter. Der Liedtitel „Baila Bolero“ bedeutet auf Spanisch „den Bolero tanzen“, und wie der Name schon sagt, ist das Lied voller Energie und einem fröhlichen Rhythmus, der das Tanzen erleichtert.
+„Baila Bolero“ entwickelt den unverwechselbaren Dance-Pop-Sound von Fun Fun weiter. Der Liedtitel „Baila Bolero“ bedeutet auf Spanisch „den Bolero tanzen“, und wie der Name schon sagt, ist das Lied voller Energie und einem fröhlichen Rhythmus, zu dem man leicht tanzen kann.
 
 Bei diesem Song handelt es sich um einen Dancefloor-Song, der Bolero- und Disco-Elemente vereint und sich durch einen coolen Rhythmus und eine eingängige Melodie auszeichnet. Auch der lebhafte Gesang der Fan-Fan-Mitglieder unterstreicht den Charme des Liedes.
 

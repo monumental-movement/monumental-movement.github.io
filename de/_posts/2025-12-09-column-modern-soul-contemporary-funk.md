@@ -76,7 +76,7 @@ Besonders hervorzuheben sind „minimaler Funk mit einer reduzierten Anzahl von 
 
 ### 2-1. Ende der 1990er Jahre: Aufstieg des Neo-Souls
 
-Die von D'Angelo, Erykah Badu, Lauryn Hill und Maxwell ins Leben gerufene Neo-Soul-Musik verwischte die Grenzen zwischen Jazz, Funk und R&B und eröffnete neue Horizonte mit einer Produktion, die den Schwerpunkt auf ein analoges Feeling legte.
+Die von D'Angelo, Erykah Badu, Lauryn Hill und Maxwell ins Leben gerufene Neo-Soul-Musik verwischte die Grenzen zwischen Jazz, Funk und R&B und eröffnete neue Horizonte mit einer Produktion, die ein analoges Gefühl betonte.
 
 hier etabliert
 
@@ -201,7 +201,7 @@ Die Produktion von Modern Soul/Contemporary Funk ist eine perfekte Fusion aus DA
 * Die Songstruktur ist eine suiteartige Struktur, in der mehrere Abschnitte miteinander verbunden sind.
 * Komplexe Akzente am Schlagzeug
 * Atypische Synthesizer-/Gitarrenstimmen
-* Starker Gebrauch von Offbeat
+* Starker Einsatz von Offbeat
 
 #### Struktur von Hiatus Kaiyote
 
@@ -304,7 +304,7 @@ flowchart TD
 | 2016 | Anderson .Paak „Malibu“ angekündigt |
 | 2017 | Thundercat „Drunk“ angekündigt |
 | 2021 | Hiatus Kaiyote „Mood Valiant“ angekündigt |
-| 2020er Jahre | Bandkultur und DAW-Bearbeitung werden stärker integriert und weltweit verbreitet |
+| 2020er | Bandkultur und DAW-Bearbeitung werden stärker integriert und weltweit verbreitet |
 
 ---
 

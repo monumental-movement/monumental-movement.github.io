@@ -55,7 +55,7 @@ color: #fff;
 
 Die Serialisierung des ursprünglichen Mangas „AKIRA“ begann 1982 und die Geschichte spielt sich in Neo-Tokio nach einem Atomkrieg ab. Die Filmversion wurde 1988 veröffentlicht. Die Gesamtproduktionskosten waren damals beispiellos und machten es zu einem herausragenden Projekt in der Geschichte des japanischen Animationsfilms.
 
-Die Geschichte spielt im Neo-Tokio im Jahr 2019. Militärexperimente, regierungsfeindliche Demonstrationen, Motorradbanden und die Entwicklung übernatürlicher Kräfte. Es zeigt den Zusammenbruch und die Wiedergeburt einer Stadt und spiegelt stark die Atmosphäre am Ende des Kalten Krieges wider.
+Die Geschichte spielt im Neo-Tokio im Jahr 2019. Militärexperimente, Demonstrationen gegen die Regierung, Motorradbanden und die Entwicklung übernatürlicher Kräfte. Es zeigt den Zusammenbruch und die Wiedergeburt einer Stadt und spiegelt stark die Atmosphäre am Ende des Kalten Krieges wider.
 
 Die Musik wurde parallel zur Produktion des Films konzipiert. Regisseur Otomo suchte nach einem fundamentaleren, religiöseren Klang statt der bestehenden animeähnlichen Begleitung. Aus diesem Grund wurde die Unterhaltungsgruppe Yamashiro als Gruppe ausgewählt.
 
@@ -121,9 +121,9 @@ Der Ton folgt nicht dem Sehen, sondern repräsentiert den Herzschlag des Körper
 
 ### Tetsuos Transformation und Sound
 
-In der zweiten Hälfte der Geschichte werden Tetsuos ungezügelte Fähigkeiten und seine körperliche Transformation kraftvoll durch den Klang dargestellt. Die Kombination aus hochfrequenten elektronischen Klängen, wogenden Bässen und der Spannung des Refrains erzeugt ein hörbares Gefühl des Unbehagens.
+In der zweiten Hälfte der Geschichte werden Tetsuos ungezügelte Fähigkeiten und seine körperliche Verwandlung klanglich kraftvoll dargestellt. Die Kombination aus hochfrequenten elektronischen Klängen, wogenden Bässen und der Spannung des Refrains erzeugt ein hörbares Gefühl des Unbehagens.
 
-Wichtig dabei ist, dass der Sound nicht nur eine Performance ist, sondern „Teil der Geschichte“ ist.
+Wichtig dabei ist, dass der Sound nicht nur eine Performance ist, sondern „Teil der Geschichte“.
 
 Musik ist nicht der Hintergrund. Sie existiert als Stimme, die den Willen der Stadt, den Druck des Staates und den Zusammenbruch des Einzelnen symbolisiert.
 
@@ -170,7 +170,7 @@ Besonders wichtig ist, dass es mit dem Klischee „Zukunft = kalte elektronische
 
 ### Echte Städte haben aufgeholt
 
-Zufälligerweise war 2019 das Bühnenjahr für AKIRA. Pandemien, soziale Unruhen und Spannungen zwischen Nationen und Einzelpersonen. Es schien, als hätte die reale Stadt die Fiktion eingeholt.
+Zufälligerweise war 2019 das Bühnenjahr für AKIRA. Pandemien, soziale Unruhen, nationale und persönliche Spannungen. Es schien, als hätte die reale Stadt die Fiktion eingeholt.
 
 ### Rückkehr von Cyberpunk
 
@@ -180,13 +180,13 @@ Aber noch wichtiger als das Sehen ist der Klang.
 
 Im Zeitalter des Digitalen klingt die vielschichtige physische Stimme und Percussion paradox frisch.
 
-Der Sound von AKIRA wurde nicht durch KI oder Algorithmen erzeugt, sondern durch kollektive Lautäußerungen und Atmung der Menschen.
+Der Sound von AKIRA wurde nicht durch KI oder Algorithmen erzeugt, sondern durch kollektive menschliche Lautäußerungen und Atmung.
 
 > Da wir in einem digitalen Zeitalter leben, klingen die physischen Klänge von AKIRA wie die Zukunft.
 
 ---
 
-## Fazit: Ein Werk, das weiterhin in die Zukunft strahlt
+## Fazit: Ein Werk, das weiterhin zukunftsweisend ist
 
 AKIRAs Musik ist nicht auf eine bestimmte Epoche festgelegt. Der experimentelle Geist von 1988, die Ergebnisse ethnischer Musikforschung und der Wendepunkt in der Anime-Geschichte. Sie haben sich kristallisiert und schwingen immer noch auf neue Weise mit.
 

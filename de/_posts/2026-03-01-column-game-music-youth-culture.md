@@ -23,9 +23,9 @@ Text: mmr | Thema: Wo sind die Ohren der digitalen Generation geblieben? - Der S
 
 
 Unter Game-Musik versteht man eine Gruppe von Musikwerken, die für Videospiele geschaffen wurden.
-Es handelt sich um ein breites Genre, das alles von Chip-Soundquellen mit Hardware-Einschränkungen bis hin zu vollständigen Orchesteraufnahmen, elektronischer Musik, Popmusik und Volksmusik umfasst.
+Es handelt sich um ein breites Genre, das alles von Chip-Soundquellen mit Hardware-Einschränkungen bis hin zu kompletten Orchesteraufnahmen, elektronischer Musik, Popmusik und Volksmusik umfasst.
 
-Traditionell war es als Hintergrundmusik positioniert, die das Spielerlebnis ergänzte, doch mittlerweile hat es sich zu einem unabhängigen Zuschauerziel, zu einem verbreiteten Inhalt und einem Live-Markt entwickelt.
+Traditionell war es als Hintergrundmusik positioniert, die das Spielerlebnis ergänzte, doch mittlerweile hat es sich zu einem unabhängigen Zuschauerziel, verbreiteten Inhalten und einem Live-Markt entwickelt.
 
 ---
 
@@ -35,7 +35,7 @@ Traditionell war es als Hintergrundmusik positioniert, die das Spielerlebnis erg
 * Sichtbarkeit und Branding des Komponisten
 * Explosion von abgeleiteten Werken aufgrund der Internetkultur
 * Streaming und Playlist-Generierung
-* eSports und Großserienproduktion
+* E-Sport und Großserienproduktion
 *Änderungen in der Musikexpositionszeit bei jungen Menschen
 * Entscheidende Phase des Mainstreamings
 
@@ -92,7 +92,7 @@ Das Lied wurde später von Orchestern auf der ganzen Welt aufgeführt.
 
 Begonnen im Jahr 2002
 **Distant Worlds: Musik aus FINAL FANTASY**
-ist wiederholt in Nordamerika, Europa und Japan aufgetreten und hat die Spielemusik in klassischen Sälen etabliert.
+trat in Nordamerika, Europa und Japan auf und etablierte die Spielemusik in klassischen Sälen.
 
 Zu diesem Zeitpunkt wandelte sich Spielemusik von einem „häuslichen Erlebnis“ zu einer „Performance-Kunst im öffentlichen Raum“.
 
@@ -147,7 +147,7 @@ Spielemusik wird in Playlists für „Konzentration“, „Lernen“ und „Schl
 
 Der Vertrieb beginnt im Jahr 2020
 **Genshin**
-Vollständige Orchesteraufnahmen wurden in London, Shanghai und anderen Orten gemacht.
+wurde mit einem kompletten Orchester in London, Shanghai und anderen Orten aufgenommen.
 Das offizielle Konzertvideo wurde gleichzeitig weltweit verbreitet und von Millionen Zuschauern angesehen.
 
 Bei E-Sport-Turnieren sind Großproduktionen Teil der Eröffnungsfeierlichkeiten.
@@ -225,7 +225,7 @@ Die Spielmusik ist
 Da es untrennbar mit dem emotionalen Gedächtnis verbunden ist, weist es eine hohe Retentionsrate im emotionalen Gedächtnis auf.
 
 Auch für die Generation Z
-In vielen Fällen wird Spielemusik häufiger verwendet als Anime-Titellieder.
+In vielen Fällen kommen Menschen häufiger mit Spielemusik in Berührung als mit Anime-Titelliedern.
 
 > Für Jugendliche ist Spielemusik kein Hintergrundgeräusch, sondern eine Hauptmelodie, die in das Erlebnis integriert wird.
 

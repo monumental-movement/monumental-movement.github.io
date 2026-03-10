@@ -117,7 +117,7 @@ Die Improvisationsaufführungen an verschiedenen Orten reichten von lokalen Kult
 Die Aufführungen der Taj Mahal Tourists haben nicht die übliche „Lieder“ oder „Struktur“.
 Vielmehr ähnelt es eher dem Vorgang, Schall in die Umgebung auszusenden und auf eine zufällige Resonanz zu warten.
 
-Sie nutzen Beschallungsanlagen und Mikrofone kreativ,
+Sie setzen Beschallungsanlagen und Mikrofone kreativ ein,
 Der gesamte Raum wurde als eine Art „Resonator“ behandelt.
 Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und die Funkgeräusche.
 Wir haben ein Ökosystem geschaffen, in dem Schall „vorkommt und verschwindet“.
@@ -132,8 +132,8 @@ Dies ist eine Live-Aufnahme einer Improvisationsaufführung rund um das Taj Maha
 Es wird hoch gelobt als „Klanglandschaft“, die Zeit, Raum und Klang perfekt vereint.
 
 Auf dem Album gibt es weder Rhythmus noch Melodie.
-Stattdessen kreuzen sich der Klang von Bläsern, elektronischen Klängen, Stimmen und der Resonanz von Saiten sanft,
-Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang hinein“ zu gehen.
+Stattdessen kreuzen sich sanft Windgeräusche, elektronische Klänge, Stimmen und die Resonanz der Saiten,
+Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang einzutauchen“.
 
 ---
 
@@ -205,6 +205,6 @@ Es war eine spirituelle Reise, die über die Institution Musik hinausging und in
 > ― Takehisa Kosugi
 
 Selbst heute, ein halbes Jahrhundert später, sind die Geräusche, die sie von sich gaben, immer noch nachhallend.
-Es vibriert weiterhin leise in der Luft, in den Erinnerungen und tief in den Herzen der Zuhörer.
+Es vibriert weiterhin leise in der Luft, in der Erinnerung und tief in den Herzen der Zuhörer.
 
 ---

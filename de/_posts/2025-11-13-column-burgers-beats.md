@@ -103,13 +103,13 @@ Frühe Einführung des Konzepts „Musik unterstützt den Geschmack“.
 
 ---
 
-## Kapitel 5 Das digitale Zeitalter neu definieren: „Sound Brand Power“, vermittelt in 5 Sekunden (2010–2020er Jahre)
+## Kapitel 5 Das digitale Zeitalter neu definieren: „Sound-Markenkraft“, vermittelt in 5 Sekunden (2010–2020er Jahre)
 
 ### 5-1 Rekonstruktion des Soundlogos
-- McDonald's: Universeller pentatonischer Jingle (betreut von Pharrell, Hiroshi Kawabe)
-- Tempo-/Tonart-/Arrangement-Änderungen für jedes Land
+- McDonald's: Universeller pentatonischer Jingle (betreut von Pharrell und Hiroshi Kawabe)
+- Ändern Sie Tempo/Tonartanordnung für jedes Land
 
-### 5-2 Trends in der Zusammenarbeit zwischen SNS und Künstlern
+### 5-2　Trend der Zusammenarbeit zwischen SNS und Künstlern
 
 | Jahr | Marke | Künstler | Songtitel/-eigenschaften |
 |----|------------|----------------|-------------|

@@ -21,7 +21,7 @@ title: '[Kolumne] Vollständige Geschichte der Vaporwave-Kultur – Etikettenges
 Text: mmr｜Thema: Vaporwave, eine Bewegung, die als Musikgenre begann, ist ein riesiger kultureller Bereich rund um Erinnerung, Geschichte, Medien und Sozialpsychologie.
 
 
-Vaporwave ist ein kulturelles Phänomen, das um 2010 an der Schnittstelle von Internetkultur, Emotionen nach der Finanzkrise und archivierten Bildern der Vergangenheit entstand. Dieser Artikel fasst die Etikettengeschichte, Ästhetik, akustische Struktur, soziokulturelle Theorie, abgeleitete Genres, Semiotik, Chronologie und Illustrationen zusammen und interpretiert Vaporwave als „eine umfassende Kunst, die in einer Ära der verlorenen Zukunft geboren wurde“.
+Vaporwave ist ein kulturelles Phänomen, das um 2010 an der Schnittstelle von Internetkultur, Emotionen nach der Finanzkrise und archivierten Bildern der Vergangenheit entstand. Dieser Artikel fasst die Etikettengeschichte, Ästhetik, akustische Struktur, soziokulturelle Theorie, abgeleitete Genres, Semiotik, Chronologie und Illustrationen zusammen und definiert Vaporwave neu als „umfassende Kunst, die in einer Ära der verlorenen Zukunft geboren wurde“.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 
 ### 1-1 Kontext der frühen Tage der Vaporwave- und Internetkultur
 
-Die Gründung von Vaporwave ist eng mit der Blogging-Kultur der späten 2000er Jahre, der Bildersammelkultur von Tumblr und dem Beginn der Algorithmus-Ära von YouTube verbunden. Insbesondere die übermäßige Verlangsamung der Verarbeitung durch Eccojams (Oneohtrix Point Never) wurde zum Keim nachfolgender Genres und etablierte sich als „Methode zur Zerstörung der Echtzeit“.
+Die Gründung von Vaporwave ist eng mit der Blogging-Kultur der späten 2000er Jahre, der Bildersammelkultur von Tumblr und dem Beginn der Algorithmus-Ära von YouTube verbunden. Insbesondere die übermäßige Verlangsamungsverarbeitung von Eccojams (Oneohtrix Point Never) wurde zum Keim für nachfolgende Genres und etablierte sich als „Methode zur Zerstörung der Echtzeit“.
 
 ### 1-2 Hauptetiketten (Beer On The Rug / Constellation Tatsu / Dream Catalog / Orange Milk)
 
@@ -95,7 +95,7 @@ Vaporwave-Sound basiert auf den Prinzipien „Dämpfung, Verlängerung, Verschle
 * Verschlechterung der Verarbeitung aufgrund der tatsächlichen VHS-Aufnahme
 * EQ-Schnitt und Komprimierungsunterdrückung in DAW
 
-Man kann sagen, dass es sich dabei um Techniken zur Rekonstruktion „verlorener Materialität“ handelt.
+Man kann sagen, dass es sich hierbei um Techniken zur Rekonstruktion „verlorener Materialität“ handelt.
 
 ## Kapitel 4: Soziokulturelle Theorie – Konsumkritik, Semiotik und Psychologie der Internetgeneration
 

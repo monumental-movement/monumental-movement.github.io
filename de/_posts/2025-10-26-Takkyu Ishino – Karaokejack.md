@@ -15,12 +15,12 @@ title: Takkyu Ishino – Karaokejack
 
 
 Takkyu Ishinos Soloalbum erschien 2001. Erste limitierte Papercover-CD.
-Der neunte Song „Creatures Of The Night“ wurde gemeinsam mit Beroshima geschrieben.
+Das neunte Lied „Creatures Of The Night“ wurde gemeinsam mit Beroshima geschrieben.
 
 
 Takkyu Ishino – Karaoke Jack
 
-Erste limitierte Papierhüllen-Spezifikation
+Erste limitierte Auflage einer Papierhülle
 
 
 

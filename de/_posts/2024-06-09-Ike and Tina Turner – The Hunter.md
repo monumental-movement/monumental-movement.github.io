@@ -12,7 +12,7 @@ tags:
 - Blues
 - 70s
 - Rare
-title: Ike & Tina Turner – Der Jäger
+title: Ike und Tina Turner – Der Jäger
 ---
 
 

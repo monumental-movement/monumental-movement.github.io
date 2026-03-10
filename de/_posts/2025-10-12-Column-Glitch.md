@@ -79,14 +79,14 @@ Philosophisch gesehen ist es eine Sehnsucht nach dem Unkontrollierbaren.
 
 Heidegger nannte das Wesen der Technik die „Offenbarung des Seins“.
 Glitch ist genau der Moment, in dem die Technologie ihre eigenen „Grenzen“ offenbart – mit anderen Worten: die Welt bricht zusammen.
-Die Menschen finden Schönheit in der „anderen Ordnung“, die durch die Lücken hindurchschaut.
+Menschen finden Schönheit in der „anderen Ordnung“, die durch die Lücken hindurchschaut.
 
 Glitch ist auch eine Ästhetik der **Generativität**.
 Unerwartete Zufälle greifen in einen Algorithmus ein, der vollständig kontrolliert arbeitet.
 Der Mensch findet in dieser „Unsicherheit“ eine lebensechte Realität.
 
 Eine Landschaft, die man nur sehen kann, wenn man die Kontrolle verliert.
-Hier liegt die moderne Kreativität.
+Hier liegt die Heimat moderner Kreativität.
 
 ---
 
@@ -103,7 +103,7 @@ Das Aufkommen von NFT-Kunst ist auch ein Lärm, der den Begriff „Eigentum“ i
 Obwohl Daten unbegrenzt kopierbar sein sollten, wird Knappheit dadurch als „einmaliges Element“ neu definiert.
 Widersprüche bestehen weiterhin als Widersprüche – darum geht es bei Glitch.
 
-Die Gesellschaft wird zunehmend „optimiert“.
+Die Gesellschaft wird immer „optimierter“ werden.
 Allerdings ist die optimierte Welt irgendwie erdrückend.
 Deshalb empfinden wir bei unbeabsichtigten Geräuschen und Geräuschen ein Gefühl der Freiheit.
 
@@ -128,7 +128,7 @@ Glitch hat die Grenzen der Kunst überschritten und ist zu unserem „Alltagssou
 
 ### Zukunft: Die Zukunft von Post-Glitch
 
-„Kaputt“ zu sein ist nichts Besonderes mehr.
+„kaputt“ zu sein ist nichts Besonderes mehr.
 Wir leben in einer Zeit, in der KI „simulierte Fehler“ erzeugt und Lärm erzeugt.
 Wie schaffen Menschen „Zufälle“ in einer perfekt kontrollierten Simulation?
 

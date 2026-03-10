@@ -14,7 +14,7 @@ title: Die Beatles – Let It Be
 ---
 
 
-„Let It Be“ der Beatles erschien im März 1970 und war die letzte Single, die die Beatles während ihrer aktiven Karriere veröffentlichten, da sie sich im darauffolgenden Monat auflösten.
+„Let It Be“ der Beatles erschien im März 1970 und war die letzte Single, die die Beatles während ihrer aktiven Karriere veröffentlichten, da sie sich im folgenden Monat auflösten.
 
 #### Trackliste
 ```md

@@ -25,7 +25,7 @@ Text: mmr｜Thema: Geschichte von STS9 von seiner Gründung bis zur Gegenwart, m
 Sound Tribe Sector 9 (*STS9*) ist als Vertreter der „Livetronica“ bekannt, die in der amerikanischen Live-Szene von den späten 1990er Jahren bis heute eine einzigartige Entwicklung durchgemacht hat.
 Ihre Musik ist eine Mischung aus dem improvisatorischen Charakter einer Jam-Band, der Struktur und Textur elektronischer Musik und dem Groove der Clubkultur, was sie von einer einfachen Rockband oder einer Einheit für elektronische Musik unterscheidet.
 
-Ihr Standpunkt war schon immer, dass „Musik ein Erlebnis in einem Live-Raum ist“, und sie haben Wert auf die Bildung einer autonomen Gemeinschaft gelegt, von der Produktion über das Tourmanagement, die Regie bis hin zu sozialen Aktivitäten.
+Ihr Standpunkt war schon immer, dass „Musik ein Erlebnis in einem lebendigen Raum ist“, und sie haben Wert auf die Bildung einer autonomen Gemeinschaft gelegt, von der Produktion über das Tourmanagement, die Regie bis hin zu sozialen Aktivitäten.
 
 ---
 
@@ -89,8 +89,8 @@ Repräsentatives Lied:
 - „Atlas“
 - "Etwas"
 - „Arigato“
--"Tokio"
-- "Menschen"
+- „Tokio“
+-„Völker“
 
 Diese werden in der aktuellen Setlist häufig gespielt und symbolisieren am besten das musikalische Image von STS9.
 
@@ -130,7 +130,7 @@ Die Live-Struktur der gleichen Zeit war
 Das Publikum wechselte zu einem Floor-/Festival-ähnlichen Erlebnis mit der Prämisse des „Tanzens“.
 
 Wichtig hierbei ist, dass STS9 eine Technik verfolgte, um die „Textur elektronischer Musik“ mit Gitarre und Bass zu reproduzieren.
-Viele Teile durchliefen die Effektkette, wodurch sich die Eigenschaft ergab, dass sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
+Viele Teile durchliefen die Effektkette und schufen so eine Charakteristik, in der sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
 
 ---
 
@@ -148,7 +148,7 @@ Seit Beginn von STS9
 - Pädagogische Unterstützung
 - Umweltschutz
 - Lokale Aktivitäten
-Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen, wie z
+Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen wie:
 
 Es gibt auch viele Auftritte, bei denen ein Teil des Live-Ticket-Erlöses gespendet wird, und viele Lieder, die soziale Themen zum Thema haben.
 Insbesondere „Peaceblaster“ (2008) wird als konzeptionelle Arbeit mit politischen und ökologischen Themen als Hintergrund positioniert.
@@ -168,7 +168,7 @@ Bei den Live-Arrangements gab es viele Versuche, vergangene Songs im EDM-Stil zu
 
 ## 5-3. Aktueller STS9
 
-In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner behauptet, veranstaltete aber auch seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine gemeinschaftsähnlichen Aktivitäten.
+In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner behauptet, veranstaltete aber auch seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine Community-ähnlichen Aktivitäten.
 
 ---
 
@@ -276,7 +276,7 @@ Sie haben ein neues Genre etabliert, das eine Brücke zwischen elektronischer Mu
 
 ## 11-2. Starke Bindung zur Festivalkultur
 
-Die Live-Shows von STS9 passen gut zu Festivals,
+Die Live-Shows von STS9 passen gut zu Festivals.
 - Bonnaroo
 - Elektrischer Wald
 - Suwannee Hulaween
@@ -298,7 +298,7 @@ Er ist eine seltene Person, die dies seit über 20 Jahren fortsetzt.
 Die Musik ist nie nur mit aufgenommenen Werken vollständig,
 Es wird ständig mit dem „Hier und Jetzt“-Erlebnis einer Live-Aufführung aktualisiert.
 
-ihre Schritte sind
+Ihre Schritte sind
 ** „Wie nah kann eine Live-Band an elektronische Musik herankommen?“
 „Inwieweit kann elektronische Musik die Dynamik von Live-Musik einfangen?“**
 Es ist ein fortlaufendes Experiment zur Beantwortung dieser Frage und kann als eines der Symbole der Musikkultur des 21. Jahrhunderts selbst bezeichnet werden.

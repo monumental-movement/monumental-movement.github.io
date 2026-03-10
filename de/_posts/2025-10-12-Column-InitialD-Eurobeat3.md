@@ -49,9 +49,9 @@ color: #fff;
 
 ---
 
-## 1. Von „Pass“ zu „Trajectory“: die Abstufung des von Eurobeat nachgezeichneten musikalischen Raums
+## 1. Von „Pass“ zu „Orbit“: die Abstufung des von Eurobeat nachgezeichneten musikalischen Raums
 
-Wie in den beiden vorherigen Werken erwähnt, war der Eurobeat in Initial D untrennbar mit Toges Geschichte verbunden.
+Wie in den beiden vorherigen Werken erwähnt, war der Eurobeat in Initial D untrennbar mit Touges Geschichte verbunden.
 Allerdings war es nicht nur ein Hilfsmittel für das Gelände und die visuelle Produktion, sondern ein **Gerät, das die Verzerrung der Zeit in Ton übersetzte**.
 
 Rückblickend können wir sagen, dass Eurobeat ein Genre war, das die „innere Zeit eines laufenden Körpers“ akustisch visualisierte.
@@ -105,7 +105,7 @@ Dies ist eine technologische Nachstellung dessen, was Initial D früher mit Vide
 ### ● VR/AR-Fahrraum
 
 Soundscapes spielen in virtuellen Fahrumgebungen eine wichtige Rolle.
-Windgeräusche, Reifenreibung, Tunnelechos, Motorschwankungen ...
+Windgeräusche, Reifenreibung, Tunnelechos, Motorschwankungen...
 Durch die Synchronisierung all dessen mit einem Eurobeat-ähnlichen Tempo verstärkt sich das Gefühl des Eintauchens dramatisch.
 
 „Touge“ steckt jetzt in einem VR-Headset.
@@ -146,7 +146,7 @@ Die Ära, in der „Ihr Auto zum Song wird“, beginnt auf dem Prüfstand bereit
 
 ### ● Eurobeat-Revival von SNS
 
-Auf TikTok und YouTube ist die Zahl der Posts, die „Eurobeat x dein eigenes Fahrvideo“ kombinieren, explosionsartig gestiegen.
+Auf TikTok und YouTube ist die Zahl der Posts, die „Eurobeat x eigenes Fahrvideo“ kombinieren, explosionsartig gestiegen.
 Dabei handelt es sich nicht nur um Nostalgie, sondern um ein „neues Format zum Teilen des Fahrgefühls“.
 Es handelt sich sozusagen um ein „Speed-Sharing-Medium“.
 

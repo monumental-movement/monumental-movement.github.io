@@ -71,7 +71,7 @@ Hier organisieren wir die Merkmale auf der Ebene des Produktionsprozesses.
 ### 2-1 BPM/Struktur
 
 * BPM liegt am häufigsten bei etwa **140** (Dubstep-Standard)
-* Halbzeittrommel (Snare-Beat 2)
+* Halftime Drum (Snare Beat 2)
 * Es gibt Drops, aber sie verwenden „Leerraum“ statt Aggression
 
 ### 2-2 Basisdesign
@@ -85,7 +85,7 @@ Das Symbol von Chillstep ist „sanfter Subbass“.
 
 ### 2-3 Melodie und Synthesizer-Design
 
-* Lead: Sanfte Sägewelle oder analoge Emulation
+* Leitung: Sanfte Sägewelle oder analoge Emulation
 * Pad: Breites Stereo, hochdichte Textur mit unterdrückten Obertönen
 * Klavier: Hall mit langem Nachhall und weniger Vorverzögerung
 * Streicher: Verstärken Sie das Legato und verbinden Sie die obere Linie reibungslos
@@ -104,7 +104,7 @@ Das Symbol von Chillstep ist „sanfter Subbass“.
 Liquid Dubstep übernimmt das Spielgefühl von Liquid Drum’n’Bass, mit einer „transparenteren, wasserähnlichen“ Textur.
 
 * Klarer High-End- und funkelnder Eindruck
-* Hohes Stimm-Chop-Verhältnis
+*Hohes Stimm-Chop-Verhältnis
 *Die Basis ist glatter und weniger nervös
 * Verwendet oft einmalige Effekte wie Blasen
 
@@ -144,7 +144,7 @@ MitiS hat einen Hintergrund im klassischen Klavier und bringt eine einzigartige 
 * Transparente und unzerbrechliche Mischung
 * Tranceartiges aufsteigendes Gefühl
 * Sorgfältig verarbeiteter Stimmschnitt
-* Überlagert mit einem Stakkato-Synth-Lead
+* Überlagert mit einem Stakkato-Synthesizer-Lead
 
 Die Arbeit von MitiS überspannt sanft die Grenze zwischen Chillstep und Melodic Dubstep und weist eine dramatischere Struktur auf.
 
@@ -200,8 +200,8 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 #### Lead Synth
 
 * Sägewelle + Rauschen-Mischung
-* Langsamerer Angriff, längeres Release
-* Analogen Stildrift hinzufügen
+* Langsamerer Angriff, längere Freigabe
+* Fügen Sie einen analogen Stildrift hinzu
 
 #### Unterlage
 
@@ -225,7 +225,7 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 
 ### 5-5 Trommeln
 
-* Kick: Reduzieren Sie den Tieftonbereich nicht zu sehr
+* Kick: Reduzieren Sie den Tieftonbereich nicht zu stark
 * Snare: Dünner, tiefer Hall
 * Hut: Reduziert Verwacklungen und glättet Höhen
 * Percussion: Wassertropfen-FX aktiviert
@@ -273,7 +273,7 @@ flowchart TD
 
 ## 8. Aktueller Stand und Zukunftsaussichten des Genres
 
-Chillstep/Liquid Dubstep ist nicht nur ein Ableger von Dubstep, sondern ein typisches Beispiel dafür, wie das Internet und die visuelle Kultur ein Musikgenre geprägt haben. Selbst in den 2020er Jahren hat es sich nahtlos in Genres wie Lo-Fi-Kultur, Ambient, melodischer Bass und Future Garage integriert und wurde weithin als eine Form der „ruhigen Elektronik“ akzeptiert.
+Chillstep/Liquid Dubstep ist nicht nur ein Ableger von Dubstep, sondern ein repräsentatives Beispiel dafür, wie das Internet und die visuelle Kultur ein Musikgenre bilden. Selbst in den 2020er Jahren hat es sich nahtlos in Genres wie Lo-Fi-Kultur, Ambient, melodischer Bass und Future Garage integriert und wurde weithin als eine Form der „ruhigen Elektronik“ akzeptiert.
 
 Darüber hinaus wurden in den letzten Jahren folgende Trends beobachtet.
 

@@ -15,7 +15,7 @@ title: Chirurg – Kraft+Form (Tresor 117)
 
 Eine CD des britischen Elektronikmusikers und DJs Surgeon, die 1999 auf Tresor veröffentlicht wurde.
 
-Surgeon gilt auch als einer der ersten DJs, die Ableton Live und Final Scratch in seinen DJ-Sets verwendeten.
+Surgeon ist auch als einer der ersten DJs bekannt, der Ableton Live und Final Scratch in seinen DJ-Sets verwendete.
 
 
 #### Trackliste

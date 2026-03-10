@@ -178,11 +178,11 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 | 1990er Jahre | Roland TR-909 | Fahrhilfe |
 | 2000er | DAW (Cubase, Pro Tools) | Digitale Bearbeitung/Mischung |
 | 2010er | FL Studio, Ableton Live | Trap/EDM-Ansatz |
-| 2020er Jahre | Soft-Synth (Serum, Massiv) | Moderner Leadbass |
+| 2020er | Soft-Synth (Serum, Massiv) | Moderner Leadbass |
 
 ---
 
-### Übersichtstabelle zum Hintergrund des Zeitalters
+### Zusammenfassungstabelle zum Hintergrund des Zeitalters
 
 | Ära | Musikalische Besonderheiten | Verwandte Künstler | Beziehung zu Initial D |
 | ----- | ------------------- | ------------------------ | ----------- |
@@ -191,7 +191,7 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 | 1990er Jahre | Avex Eurobeat goldenes Zeitalter | Dave Rodgers, Max Coveri | Erster D-Soundtrack |
 | 2000er | Verbreitung im Internet, Parapara-Kultur | Niko, Domino | Kombination mit Spiel- und Anime-Kultur |
 | 2010er | Meme, Wiederbelebung | Internet-Memes (Deja Vu) | Weltweite Neuausrichtung |
-| 2020er Jahre | EDM / Synthwave-Fusion | Aktuelle DJs, Produzenten | Auf dem Weg zu einem neuen Klang |
+| 2020er | EDM / Synthwave-Fusion | Aktuelle DJs, Produzenten | Auf dem Weg zu einem neuen Klang |
 
 ---
 
@@ -213,8 +213,8 @@ Drift: ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (Rutschgeräusch) </
 
 | Bereich | Repräsentative Elemente | Verbindung mit Eurobeat |
 | ------- | ------------------------------------ | -------------------- |
-| Toge-Läufer-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
-| Clubkultur | Parapara, Velfarre | Direkt mit Avex Eurobeat | verbunden
+| Toge Runner-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
+| Clubkultur | Parapara, Velfarre | Direkt verbunden mit Avex Eurobeat |
 | Internetkultur | Deja Vu Memes | Wiederexplosion auf YouTube/TikTok |
 | Spielkultur | Initial D Arcade Stage, Gran Turismo | Eurobeat wird zur Standard-Hintergrundmusik |
 | Drift-Wettbewerb | D1 Grand Prix, Formel Drift | Die Fahrerkultur wird international und koexistiert mit EDM in BGM |

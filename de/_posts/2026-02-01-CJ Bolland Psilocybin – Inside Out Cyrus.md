@@ -16,7 +16,7 @@ title: CJ Bolland / Psilocybin – Inside Out /Cyrus
 
 „Inside Out / Cyrus“ ist ein Split-Album, das im Jahr 2000 von UCMG UKs Sublabel Rewind The Classics veröffentlicht wurde.
 
-A ist ein Titel aus C.J. Bollands Album The 4th Sign aus dem Jahr 1992, produziert vom belgischen Techno-Pionier Kris Vanderheyden.
+A ist ein Titel aus C.J. Bollands Album „The 4th Sign“ aus dem Jahr 1992, das vom belgischen Techno-Pionier Kris Vanderheyden produziert wurde.
 
 B ist ein Titel der Psilocybin EP, die 1993 von Psilocybin veröffentlicht wurde, einem Projekt der deutschen Techno-DJs/Produzenten Jörg Henze und Oliver Lieb.
 

@@ -21,7 +21,7 @@ title: '[Kolumne] Die Entwicklung des japanischen Underground-Rock und Noise von
 Text: mmr｜Thema: Weltweite Aufmerksamkeit für die japanische Underground-Musikszene der 1990er bis 2000er Jahre
 
 Die 1990er und 2000er Jahre waren die Blütezeit der **Noise-Musik** und dienten auch als Schnittstelle zwischen Alternative Rock und Avantgarde-Punk.
-Insbesondere Künstler wie Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms und Violent Onsen Geisha zerstörten bestehende Musikgenres und eröffneten neue Ausdrucksbereiche.
+Insbesondere Künstler wie Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms und Violent Onsen Geisha zerstörten bestehende Musikgenres und eröffneten neue Ausdrucksbereiche.
 
 ---
 
@@ -63,7 +63,7 @@ In dieser Zeit gab es auch den Aufstieg von Indie-Labels, Auftritte auf internat
 
 ### Keiji Haino
 - **Features**: Ein „Klangritual“, das Gitarre, Gesang und Feedback voll ausnutzt. Eine Klangwelt rund um Improvisation, die man als religiös oder magisch bezeichnen kann.
-- **Wandel**: Von Soloarbeiten in den 1970er Jahren zu aktiven Aktivitäten in Bands wie Fushitsusha seit den 1990er Jahren. Weiter erforschen über den Rahmen der Improvisation hinaus.
+- **Veränderung**: Von Soloarbeiten in den 1970er Jahren zu aktiven Aktivitäten in Bands wie Fushitsusha seit den 1990er Jahren. Weiter erforschen über den Rahmen der Improvisation hinaus.
 - **Anekdote**: Er ist als „Klangschamane“ bekannt, weil er vor einem Konzert alle Saiten seiner Gitarre wechselt und den Klang wie in einem Ritual loslässt.
 
 | Album | Funktionen | Links |
@@ -91,7 +91,7 @@ In dieser Zeit gab es auch den Aufstieg von Indie-Labels, Auftritte auf internat
 
 - **Features**: Das weltweit erste „Lärmband“. Neben Lärmauftritten wurden sie auch durch ihre extremen Darbietungen (Essenwerfen, Funkenwerfen, Nackttanzen) legendär.
 - **Änderungen**: Begannen ihre Aktivitäten in den 80er Jahren und nahmen in den 90er Jahren hauptsächlich Live-Alben auf. Seit den 2000er Jahren entwickelt er experimentelle Aktivitäten wie Co-Stars mit Idolen.
-- **Anekdote**: Der Akt des „Zerlegens eines Huhns“ während eines Live-Auftritts sorgte in ausländischen Medien für große Diskussionen und wurde als sozialer Skandal behandelt.
+- **Anekdote**: Der Akt des „Zerlegens eines Huhns“ während eines Live-Auftritts löste in ausländischen Medien eine große Diskussion aus und wurde als sozialer Skandal behandelt.
 
 | Album | Funktionen | Links |
 |----------|------|--------------|
@@ -170,7 +170,7 @@ A2: Der Einstieg in Super æ von Boredoms und Merzbeat von Merzbow ist relativ e
 
 **F3: Wie kamen Noise und Rock zusammen? **
 
-A3: Durch den Einfluss von Psychedelika und Punk ist ein neuer Ausdruck entstanden, der dröhnende Klänge und Improvisation verbindet.
+A3: Durch den Einfluss von Psychedelika und Punk ist ein neuer Ausdruck entstanden, der dröhnende Klänge und Improvisation vereint.
 
 **F4: Wie hängt es mit der Soundtrack-Produktion und der KI-Musikgenerierung zusammen? **
 

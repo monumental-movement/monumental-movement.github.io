@@ -87,7 +87,7 @@ Japan hat seit Ende der 1990er Jahre einen großen Einfluss auf die DMC-Welt.
 ### Wichtigste historische Themen
 - **1997: DJ KRUSH tritt der Jury bei (Symbol internationaler Anerkennung)**
 - **2000: DJ KENTARO gewinnt als erster Japaner die Weltmeisterschaft (höchste Punktzahl in der Geschichte)**
-- Seitdem haben DJ YASA, DJ HI-C, Kireek (5 Siege in Folge in der Teamkategorie) und andere weltweite Anerkennung erlangt.
+- Seitdem haben DJ YASA, DJ HI-C, Kireek (5 Siege in Folge in der Teamkategorie) usw. weltweite Anerkennung erlangt.
 
 Insbesondere KENTAROs Routine gilt als „hervorragend in Geschwindigkeit, Genauigkeit, Komposition und Musikalität“, was es zu einem der symbolträchtigsten Jahre in der Geschichte von DMC macht.
 
@@ -100,7 +100,7 @@ Mitte der 2000er Jahre, als **DVS (Digital Vinyl System)** populär wurde, gab e
 Im Jahr 2006 wurde die Verwendung von DVS in verschiedenen Formaten erlaubt, und das Turnier, das zuvor auf analoge Formate beschränkt war, akzeptierte den Stil der „Manipulation digitaler Tonquellen mit einem Plattenspieler“.
 
 Daraus ergibt sich
-- Nutzen Sie frei Originaltonquellen
+- Nutzen Sie frei Ihre eigenen bearbeiteten Tonquellen
 - Erweitert den Bereich der Routinekonfigurationen erheblich
 - Erhöhtes Tonspiel und melodischer Ausdruck
 Eine solche Entwicklung findet statt.
@@ -315,7 +315,7 @@ flowchart TB
 
 ## **④ „Ausrüstungsabhängigkeitsdiagramm“ der Turntablism-Technik**
 
-(Analogabhängigkeit → Einordnung von Technikveränderungen durch die Digitalisierung)
+(Analogabhängigkeit → Einordnung von Technikänderungen durch die Digitalisierung)
 
 ### Technik- und ausrüstungsabhängiger Aufbau
 

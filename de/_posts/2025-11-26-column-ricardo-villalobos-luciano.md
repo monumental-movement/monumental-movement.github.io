@@ -44,13 +44,13 @@ color: #fff;
 
 ### Die Flugbahn von Villalobos
 
-Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene Musiksprache.
+Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene musikalische Sprache.
 
-Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und verfügen über Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
+Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und haben Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
 
 ### Lucianos Flugbahn
 
-Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung und beschäftigte sich mit Disco, House und Techno, während er nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
+Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung, als er sich mit Disco, House und Techno beschäftigte und gleichzeitig nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
 
 Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die südamerikanische Begeisterung mit europäischem Minimalismus verbanden. Lucianos Musik steht stets im „Dialog mit der Tanzfläche“ und stellt die körperlichen Empfindungen des Tänzers in den Mittelpunkt.
 
@@ -64,7 +64,7 @@ Die Philosophie des Sense Clubs war klar. „Tanzen ist nicht nur eine Bewegung,
 
 ### Sense Club frühe Live-Anekdoten
 
-Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Titel nacheinander ab und nimmt dabei winzige Anpassungen am Plattenteller vor. Währenddessen mischte Luciano in Echtzeit Samples von Schlaginstrumenten. Das Publikum tanzte lange und am Ende des Sets schien es, als sei es mit dem Fluss der Zeit verschmolzen. Dieses Erlebnis war ein Moment, der die musikalischen Philosophien der beiden symbolisierte.
+Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Titel nacheinander ab und nimmt dabei winzige Anpassungen am Plattenspieler vor. Währenddessen mischte Luciano in Echtzeit Samples von Schlaginstrumenten. Das Publikum tanzte lange und am Ende des Sets schien es, als sei es mit dem Fluss der Zeit verschmolzen. Dieses Erlebnis war ein Moment, der die musikalischen Philosophien der beiden symbolisierte.
 
 ---
 
@@ -96,7 +96,7 @@ Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos�
 
 ### Revolution von Rhythmus und Körper
 
-Die langen Stücke von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
+Die langen Tracks von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
 
 ---
 
@@ -124,7 +124,7 @@ Beide treten live in ganz Europa, Südamerika und Nordamerika auf. Vor allem Auf
 - *Rise of Angel* (2002, Cadenza)
 - *No Friends* (2004, Cadenza)
 - *Crimen* (2005, Cadenza)
-- *Luciano DJ Mix*-Serie (2003–2010, Cadenza)
+- *Luciano DJ Mix*-Reihe (2003–2010, Cadenza)
 
 ---
 
@@ -149,7 +149,7 @@ timeline
 ## Musikalität und Klanganalyse
 
 - **Rhythmus**: Eine Fusion aus subtiler Percussion aus Südamerika und europäischen Minimal-Beats
-- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und Körpervertiefung zu fördern
+- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und körperliches Eintauchen zu fördern
 - **Transkulturalität**: Als Brücke zwischen den Kulturen des Nordens und des Südens koexistieren die Wärme des Lateinischen und die Präzision des Techno.
 
 ---

@@ -21,7 +21,7 @@ Das Lied entstand innerhalb weniger Tage während der Weltmeisterschaft 1994 und
 
 Von Paradinas als „eine aktualisierte Version von Easy Listening und Funk“ beschrieben, werden Melodien, die an Lounge-Musik und Aufzugsmusik der 70er Jahre erinnern, mit verzerrten Beats und den skurrilen Tönen analoger Synthesizer verschmolzen.
 
-Diese Tracks sind das Ergebnis einer Kombination aus dem unvorhersehbaren Experimentalismus von Aphex Twin und der melodischen Struktur von µ-Ziq und schaffen ein Klangabenteuer, das über bloße „geschriebene Musik“ hinausgeht.
+Diese Tracks sind das Ergebnis einer Verschmelzung des unvorhersehbaren Experimentalismus von Aphex Twin und der melodischen Struktur von µ-Ziq und schaffen so ein Klangabenteuer, das über bloße „geschriebene Musik“ hinausgeht.
 
 #### Trackliste
 ```md
@@ -39,5 +39,5 @@ Diese Tracks sind das Ergebnis einer Kombination aus dem unvorhersehbaren Experi
 
 [メルカリで購入](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

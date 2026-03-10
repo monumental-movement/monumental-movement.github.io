@@ -20,7 +20,7 @@ title: '[Kolumne] Tango – Von den Rändern der Gesellschaft zur Weltkultur, ih
 
 ## Prolog Tango war Gesellschaft, bevor er „Musik“ war
 
-Text: mmr｜Thema: Auf den Spuren der sozialen Bedeutung des Tangos, von seiner Entstehung am Rande der Gesellschaft bis zu seinem Vergessen und seiner Wiederbelebung als globale Kultur.
+Text: mmr｜Thema: Auf den Spuren der sozialen Bedeutung des Tangos, von seiner Entstehung am Rande der Gesellschaft über das Vergessen bis hin zu seiner Wiederbelebung als globale Kultur
 
 Tango wurde nicht von Anfang an als Kunst geboren.
 Es war das Ergebnis der klanglichen Übersetzung der Verzerrungen und Spannungen der sozialen Struktur der argentinischen Hafenstadt Buenos Aires.
@@ -28,8 +28,8 @@ Es war das Ergebnis der klanglichen Übersetzung der Verzerrungen und Spannungen
 Vom Ende des 19. bis Anfang des 20. Jahrhunderts entstand Buenos Aires durch einen raschen Zustrom von Einwanderern und entwickelte sich zu einer weltweit einzigartigen multiethnischen Stadt.
 Im Mittelpunkt standen Spanien und Italien, in denen sich osteuropäische, afrikanische und indigene Kulturen vermischten und Arbeit, Armut und Einsamkeit an der Tagesordnung waren.
 
-Tango wuchs auf der „Unterseite“ dieser Stadt auf.
-Es wurde nicht auf den Bällen der High Society getanzt, sondern in den Innenhöfen von Hafenarbeiterkneipen, Pensionen und Bordellen.
+Der Tango wuchs auf der „Unterseite“ dieser Stadt auf.
+Es wurde nicht auf den Bällen der gehobenen Gesellschaft aufgeführt, sondern in den Innenhöfen von Hafenarbeiterkneipen, Pensionen und Bordellen.
 Körperliche Distanz, Blickkontakt und Improvisation waren wichtiger als musikalische Raffinesse.
 
 > Tango ist eine Kultur, die immer an der Peripherie und nicht im Zentrum der Gesellschaft ihren Anfang nahm.
@@ -91,7 +91,7 @@ Dieser Ausschluss schuf ein einzigartiges Gefühl der Einheit und des Stolzes im
 Zu Beginn des 20. Jahrhunderts erlangte der Tango auf unerwartete Weise gesellschaftlichen Status.
 Es geschah nicht in Argentinien, sondern in Europa.
 
-Tango wurde hauptsächlich von Künstlern und Tänzern, die von Buenos Aires nach Europa reisten, nach Paris gebracht.
+Tango wurde hauptsächlich von Künstlern und Tänzern, die von Buenos Aires nach Europa reisten, nach Paris eingeführt.
 Als exotischer und sinnlicher Tanz wurde er in gesellschaftlichen Kreisen der Oberschicht populär.
 
 Dieser Erfolg in Europa hat den Ruf Argentiniens in Argentinien völlig verändert.
@@ -121,7 +121,7 @@ Seine poetischen Darstellungen persönlicher Traurigkeit, Nostalgie und verloren
 
 
 Tango hatte auch eine komplizierte Beziehung zur politischen Macht.
-Obwohl sie selten eine bestimmte politische Partei direkt unterstützten, prägten sie doch das Image der Nation.
+Obwohl sie selten eine bestimmte politische Partei direkt unterstützten, prägten sie das Image der Nation.
 
 Andererseits gab es Zeiten, in denen es von Zensur und kultureller Kontrolle betroffen war.
 Insbesondere unter Militärherrschaft ist die Meinungsäußerung im öffentlichen Raum eingeschränkt und die Tangokultur muss eingeschränkt werden.

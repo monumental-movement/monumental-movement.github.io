@@ -46,7 +46,7 @@ color: #fff;
 
 ## 2. Von der Ausbildung zu frühen Aktivitäten (1973–1980er Jahre)
 
-Seit seiner Gründung in San Francisco erforscht das Kronos Quartett einen Aufführungsstil, der außerhalb des traditionellen Rahmens der klassischen Musik liegt. Gründer David Harris studierte klassische Musik an der University of California in Berkeley und wurde dann in der Musikszene von San Francisco aktiv, wo er mit gleichgesinnten Freunden ein Quartett gründete.
+Seit seiner Gründung in San Francisco erforscht das Kronos Quartett einen Aufführungsstil außerhalb des traditionellen Rahmens der klassischen Musik. Gründer David Harris studierte klassische Musik an der University of California in Berkeley und wurde dann in der Musikszene von San Francisco aktiv, wo er mit gleichgesinnten Freunden ein Quartett gründete.
 
 Das frühe Repertoire umfasste neben barocken und klassischen Werken auch neue Werke zeitgenössischer Komponisten. Ihr 1976 veröffentlichtes Debütalbum „Kronos Quartet“ wurde von Kritikern für seine Kombination aus der esoterischen Natur zeitgenössischer Musik und dem hohen Niveau der Aufführungstechnik hoch gelobt. Während dieser Zeit traten sie in den gesamten Vereinigten Staaten auf, hauptsächlich in San Francisco, und bauten sich einen Ruf als innovatives Quartett auf.
 
@@ -59,7 +59,7 @@ Das frühe Repertoire umfasste neben barocken und klassischen Werken auch neue W
 
 ## 3. Herausforderung an die moderne Musik (1980er–1990er)
 
-In den 1980er Jahren wurde das Kronos Quartett zu einem wichtigen Vertreter der zeitgenössischen amerikanischen Musik. Das Kronos Quartett begann mit Meistern der zeitgenössischen Musik wie Philip Glass, Steve Reich und Terry Riley zusammenzuarbeiten und erlangte durch die Aufführung und Aufnahme ihrer Werke weltweite Anerkennung.
+In den 1980er Jahren wurde das Kronos Quartett zu einer wichtigen Präsenz in der amerikanischen Welt der zeitgenössischen Musik. Das Kronos Quartett begann mit Meistern der zeitgenössischen Musik wie Philip Glass, Steve Reich und Terry Riley zusammenzuarbeiten und erlangte durch die Aufführung und Aufnahme ihrer Werke weltweite Anerkennung.
 
 Diese Zeit war geprägt von **Innovationen in der Aufführungstechnik**. Zusätzlich zu den traditionellen Spieltechniken für Streichinstrumente hat die Studioarbeit zugenommen, wobei Elektronik zum Einsatz kam, Rhythmen und Tonleitern aus nicht-westlicher Musik eingeführt wurden und Sampling und Mehrspuraufnahmen voll ausgeschöpft wurden.
 
@@ -96,7 +96,7 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 
 #### 1. Lux Aeterna
 
-* **Features**: Filmtitellied. Das Stück ist knapp 8 Minuten lang und die Spannung wird durch die immer wiederkehrende Wiederholung derselben Phrase verstärkt.
+* **Features**: Film-Titellied. Das Stück ist knapp 8 Minuten lang und die Spannung wird durch die immer wiederkehrende Wiederholung derselben Phrase verstärkt.
 * **Leistungspunkte**:
 
 * Minimale rhythmische Wiederholung durch Streichquartett
@@ -123,7 +123,7 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 
 ---
 
-### Filmmusik in die Timeline integrieren
+### Integrieren Sie Filmmusik in die Chronologie
 
 
 <div class="mermaid">
@@ -166,7 +166,7 @@ Neben der Auftrittstätigkeit liegt der Schwerpunkt des Kronos Quartetts auch au
 
 * **Workshop/Ausbildungsprogramm**: Betreuung an Universitäten und Musikschulen, Ausbildung junger Musiker.
 * **Aktivitäten zum kulturellen Austausch**: Konzerte auf der ganzen Welt, gemeinsame Auftritte mit lokalen Musikern.
-* **Werke, die sich mit sozialen Themen befassen**: Produktion von Musikwerken mit Bezug zu Konflikten, Umweltthemen und Menschenrechten.
+* **Werke zu sozialen Themen**: Produktion von Musikwerken mit Bezug zu Konflikten, Umweltthemen und Menschenrechten.
 
 Ihr neuestes Album vertieft ihre Zusammenarbeit mit traditioneller Musik weiter und kombiniert technisch fortschrittliche Aufnahme und Performance.
 

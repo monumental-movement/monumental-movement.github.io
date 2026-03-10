@@ -19,7 +19,7 @@ title: '[Spalte] Musikähnlicher Manga-Künstler Keiichi Koike – Visueller Rhy
 ## Prolog: The Line Rings – Keiichi Koike, ein „musikalischer Manga-Künstler“
 
 
-Text: mmr｜Thema: Gedanken zur Tatsache, dass Keiichi Koikes Manga „Comics sind, die wie Musik sind“
+Text: mmr｜Thema: Gedanken darüber, dass Keiichi Koikes Manga „Comics sind, die wie Musik sind“
 
 
 Der Manga von Keiichi Koike ist eher ein Hörerlebnis als ein Leseerlebnis.
@@ -58,7 +58,7 @@ In dieser Zeit wurden die Grundlagen des **zeitlichen/rhythmischen Ausdrucks** i
 
 - **1986**: Erstes Buch „SPINOZA“ veröffentlicht (Sakushasha).
 Gekennzeichnet durch philosophische Themen und abstrakte Bilder.
-Durch die Anpassung der Liniendichte, der Bildkomposition und des zeitlichen Rhythmus kommt **visuelle Musikalität** zum Vorschein.
+**Visuelle Musikalität** wird durch die Anpassung der Liniendichte, der Bildschirmkomposition und des zeitlichen Rhythmus sichtbar.
   
 - **1988**: Veröffentlichung von „Katajikenai“ (Hakusensha) und „G (GATE 1)“ (Schola).
 Die spannungsgeladenen Linien im Science-Fiction-Setting und der Ausdruck des menschlichen Körpers wirken wie musikalische Polyrhythmen.
@@ -109,7 +109,7 @@ Obwohl Koike von diesen Einflüssen beeinflusst ist, ist er insofern einzigartig
 
 ---
 
-## Kapitel 6: Vergleich von Arbeitsmotiven und Techniken
+## Kapitel 6: Vergleich von Arbeitsmotiven und -techniken
 
 <div class="mermaid">
 

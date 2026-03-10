@@ -31,7 +31,7 @@ Shibuya-kei-Sound ist eine japanische Musikbewegung, die sich Anfang der 1990er 
 – In den 1980er Jahren begannen japanischer City-Pop und New Wave sowohl im Inland als auch international Anerkennung zu finden.
 - Importierte Plattenläden wie „CISCO“ und „HMV Shibuya“ brachten die neuesten Klänge aus Europa und den Vereinigten Staaten zusammen und förderten die musikalischen Fähigkeiten junger Menschen.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [大滝詠一 — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)  
 - [山下達郎 — *FOR YOU* (1982)](https://amzn.to/4neQyHk)  
 - [Pizzicato Five初期作（インディー期, Late 1980s）](https://amzn.to/3W6W1UE)  
@@ -41,7 +41,7 @@ Shibuya-kei-Sound ist eine japanische Musikbewegung, die sich Anfang der 1990er 
 - Frühe Drum-Maschinen wie Roland TR-808
 - Homerecording-Kultur mit Kassetten-MTR
 
-### 10 empfohlene Songs (1980er)
+### Empfohlene 10 Songs (1980er)
 
 <style type="text/css">
 
@@ -78,7 +78,7 @@ color: #fff;
 - Es wurde auf „Oricon“ und „MTV Japan“ gezeigt und wurde ein großer Hit.
 - Links zu Clubszenen im Ausland.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Pizzicato Five — *Made in USA* (1994)](https://amzn.to/3K92U5t)
 - [Flipper’s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)  
 - [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)  
@@ -110,7 +110,7 @@ color: #fff;
 - Während Shibuya-kei kommerziell ausstarb, beeinflusste es den Elektropop von Capsule und Yasutaka Nakata.
 - Die Entwicklung der Clubmusik, auch bekannt als Neo-Shibuya-kei, wird zunehmen.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)  
 - [Fantastic Plastic Machine — *beautiful.* (2001)](https://amzn.to/4msAFMo)  
 - [小沢健二 — *Eclectic* (2002)](https://amzn.to/4mtfA4k)  
@@ -137,12 +137,12 @@ color: #fff;
 
 ---
 
-## 2010er Jahre – Neubewertung und Erweiterung
+## 2010er – Neubewertung und Erweiterung
 ### Historischer Hintergrund
 - Es wurde von der Internet-Generation wiederentdeckt und wurde im Ausland als „Shibuya-kei“ zu einem Genre.
 - Wiederbelebung parallel zur Neubewertung von City Pop.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)  
 - [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)  
 - [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)  
@@ -174,7 +174,7 @@ color: #fff;
 - Der Einfluss von „Shibuya-kei“ erregt im Kontext der K-POP- und City-Pop-Neubewertung erneut Aufmerksamkeit.
 - Erweitern Sie die Hörerbasis im Ausland durch YouTube, Spotify, TikTok usw.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)  
 - [cero — *e o* (2021)](https://amzn.to/46LD7sJ)  
 - [Various Artists — ネオ渋谷系コンピレーション *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)  
@@ -184,7 +184,7 @@ color: #fff;
 - Softwarebasierte Produktion
 - Analoger und digitaler Hybrid
 
-### 10 empfohlene Songs (2020er)
+### Empfohlene 10 Songs (2020er)
 
 | Songtitel | Künstler | Kommentare |
 |------|--------------|----------|

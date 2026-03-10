@@ -50,7 +50,7 @@ Der Bandname DEVO kommt von „De-Evolution“ – dem paradoxen Konzept, dass �
 Diese Idee entstand als Reaktion auf die Unruhen in Amerika in den späten 1960er bis 1970er Jahren: den Vietnamkrieg, die Umweltverschmutzung und die außer Kontrolle geratene Konsumgesellschaft.
 
 **Mark Mothersbaugh** und **Gerald Casale** aus Akron, Ohio, entwickelten während ihres Kunst- und Politikstudiums „Zweifel am Mythos der Evolution“.
-Sie erkannten, dass religiöser Progressivismus und Technologieglaube letztendlich Variationen derselben Fantasie waren, und erfanden „entarteten Pop“, um dies zu persiflieren.
+Sie erkannten, dass religiöser Progressivismus und Technologieglaube letztendlich Variationen derselben Fantasie waren, und erfanden „entarteten Pop“, um dies zu verspotten.
 
 > „Wir sind alle DEVO.“
 > — Mark Mothersbaugh
@@ -146,12 +146,12 @@ In den späten 1980er Jahren erlebte DEVO einen Niedergang, als sich die MTV-Kul
 In den 1990er Jahren wurde es als Pionier des Internetzeitalters neu bewertet.
 Ihre selbstsatirische Markenstrategie kündigte die Selbstkommerzialisierung nach Web 2.0 an.
 
-In den 2000er Jahren kamen sie mit „Something for Everybody“ (2010) wieder zusammen, einer Satire über „Demokratie im Zeitalter der Algorithmen“.
+In den 2000er Jahren kamen sie wieder zusammen und schrieben „Something for Everybody“ (2010), eine Satire über „Demokratie im Zeitalter der Algorithmen“.
 In den 2020er Jahren aktualisiert er seine Degenerationstheorie weiter, um NFTs und die KI-Kultur einzubeziehen.
 
 ---
 
-## Kapitel 9: DEVOs Flugbahn in Chronologie
+## Kapitel 9: DEVOs Flugbahn in der Chronologie
 
 <div class="mermaid">
 
@@ -176,10 +176,10 @@ timeline
 ## Kapitel 10: Die heutige Bedeutung von Energy Dome
 
 Der Energy Dome wird von DEVO-Fans immer noch als „Helm des Denkens“ geliebt.
-Während der Coronavirus-Pandemie wird **Energiekuppel mit Gesichtsschutz** verkauft,
+Während der Coronavirus-Pandemie werden **Energiekuppeln mit Gesichtsschutz** verkauft,
 Als Warnung vor Umweltproblemen hat es erneut Aufmerksamkeit erregt.
 
-Mit anderen Worten, der Energy Dome ist ein soziales Gerät, das sich mit jeder Ära „transformiert“.
+Mit anderen Worten, der **Energy Dome ist ein soziales Gerät, das sich mit jeder Ära „transformiert“**.
 Jedes Mal, während wir uns über unsere Illusionen der „Evolution“ lustig machten,
 Es zeigt uns die ketzerische Weisheit der „Bekräftigung der Degeneration“.
 
@@ -195,7 +195,7 @@ Vielmehr wird diese Entscheidung zu einem Mittel zur Wiederherstellung der mensc
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy Dome ist kein Helm, der die Zukunft verschließt.
-**Es könnte eine Ikone für uns sein, wieder die Freiheit zu wählen.**
+**Vielleicht ist es ein Symbol dafür, dass wir wieder die Freiheit haben zu wählen.**
 ---
 
 ## Verwandte Materialien/Referenzen
@@ -206,7 +206,7 @@ Energy Dome ist kein Helm, der die Zukunft verschließt.
 
 #### Devo – Neue Traditionalisten
 
-„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo aus dem Jahr 1981 und das erste komplett selbstproduzierte Album der Band.
+„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo, das 1981 veröffentlicht wurde, und das erste komplett selbstproduzierte Album der Band.
 
 Nach dem Erfolg ihres vorherigen Albums Freedom Of Choice (Desire Psychology), das „Whip It“ enthielt, hat dieses Album eine minimalistische Atmosphäre mit einem Schwerpunkt auf Synthesizer-Riffs, Rhythmus und elektronischer Percussion, mit dem Konzept der „Deevolution“.
 

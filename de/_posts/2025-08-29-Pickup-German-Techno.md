@@ -23,7 +23,7 @@ title: Aufgreifen deutscher Techno-Werke
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Tresor mit einer luxuriösen Auswahl an Titeln einiger der größten Namen des Techno, darunter Sven Väth, Maurizio, Ben Sims, James Ruskin und Pacou. Dies ist ein Stück, das es Ihnen ermöglicht, den Charme des harten, minimalistischen und innovativen Techno, der Berlin – Deutschland, symbolisiert, voll und ganz zu erleben.
+Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Tresor mit einer luxuriösen Auswahl an Titeln einiger der größten Namen des Techno, darunter Sven Väth, Maurizio, Ben Sims, James Ruskin und Pacou. Dies ist ein Stück, das es Ihnen ermöglicht, den Charme des harten, minimalistischen und innovativen Techno, der Berlin-Deutschland symbolisiert, voll und ganz zu erleben.
 
 
 #### Trackliste
@@ -173,7 +173,7 @@ B1. When I Rock (Santos Remix)
 
 
 
-### Böse Zuhälter – Geben Sie es
+### Schlechte Zuhälter – Geben Sie es
 <a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp"></a>
 
 

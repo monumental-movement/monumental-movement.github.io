@@ -18,9 +18,9 @@ title: '[Kolumne] Avantgardistische Instrumental-/Klangkunst'
 
 ## Einleitung: Wie Klang zum Kunstwerk wird
 
-Text: mmr｜Thema: Mit Schwerpunkt auf Alvin Lucier und Christian Fennesz werden wir die kontinuierliche Linie von analogen Klangexperimenten bis hin zur digitalen Verarbeitung organisieren und die Struktur der Klangkunst, einschließlich ihrer Beziehung zu Bildern, klären.
+Text: mmr｜Thema: Mit Fokus auf Alvin Lucier und Christian Fennesz werden wir die kontinuierliche Linie von analogen Klangexperimenten bis hin zur digitalen Verarbeitung organisieren und die Struktur der Klangkunst, einschließlich ihrer Beziehung zu Bildern, klären.
 
-Seit dem 20. Jahrhundert hat sich die Musik vom Rahmen der zeitlichen Kunst, die sich auf Melodie und Harmonie konzentriert, entfernt und sich zu einem umfassenden Ausdrucksbereich ausgeweitet, der physische Phänomene, den Raum und das Aufnahmemedium selbst umfasst. Avantgardistische Instrumental- und Klangkunst ist keine Form, die das Können oder die Leistungsfähigkeit eines Instruments zur Schau stellt, sondern stellt vielmehr den gesamten Prozess dar, durch den Klang erzeugt, verbreitet, reflektiert, verändert und als Werk wahrgenommen wird.
+Seit dem 20. Jahrhundert hat sich die Musik vom Rahmen der zeitlichen Kunst, die sich auf Melodie und Harmonie konzentriert, entfernt und sich zu einem umfassenden Ausdrucksbereich ausgeweitet, der physische Phänomene, den Raum und das Aufnahmemedium selbst umfasst. Avantgardistische Instrumental- und Klangkunst ist keine Form, die das Können und die Leistungsfähigkeit eines Instruments zur Schau stellt, sondern stellt vielmehr den gesamten Prozess dar, durch den Klang erzeugt, verbreitet, reflektiert, verändert und als Werk wahrgenommen wird.
 
 Musikalische Werke werden in diesem Bereich nicht zwangsläufig auf Partituren reduziert, noch wird von der Möglichkeit der Wiederspielbarkeit ausgegangen. Vielmehr besteht die Arbeit aus einer Reihe von Bedingungen, die jedes Mal zu unterschiedlichen Ergebnissen führen. Hier kommt es nicht auf die Intentionen des Komponisten an, sondern auf die Struktur selbst, auf die Art und Weise, wie das akustische Phänomen steht und sich mit Raum und Technik verbindet.
 
@@ -56,7 +56,7 @@ In der Klangkunst ist die räumliche Anordnung wichtiger als die zeitliche Entwi
 
 ## Kapitel 2: Avantgardistische Instrumentalkonzepte
 
-### 2-1 Instrumente neu definieren
+### 2-1 Neudefinition von Musikinstrumenten
 
 In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder verändert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
 
@@ -72,7 +72,7 @@ Bei der Leistung geht es nicht darum, körperliche Fähigkeiten zu demonstrieren
 
 Alvin Lucier ist ein Komponist, der das physikalische Verhalten von Schallwellen in den Mittelpunkt seiner Werke stellt. In seinen Werken ist die absichtliche Manipulation des Komponisten auf ein Minimum beschränkt und die akustischen Phänomene entfalten sich autonom.
 
-In seinem Meisterwerk „I Am Sitting in a Room“ wird der rezitierte Ton wiederholt im selben Raum abgespielt und neu aufgenommen, wobei die für den Raum spezifischen Resonanzfrequenzen betont werden, bis die Sprache verschwindet. Dieser Prozess zeigt deutlich, wie sich Schall von einer Information zu einem physikalischen Phänomen entwickelt.
+In seinem berühmtesten Werk „I Am Sitting in a Room“ werden durch die wiederholte Wiedergabe und erneute Aufnahme des gesprochenen Wortes im selben Raum die für den Raum spezifischen Resonanzfrequenzen betont, und die Sprache verschwindet schließlich. Dieser Prozess zeigt deutlich, wie sich Schall von einer Information zu einem physikalischen Phänomen entwickelt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,11 +97,11 @@ flowchart LR
 
 ### 4-1 Architekturakustik
 
-Luciers Arbeit basiert stark auf räumlichen Dimensionen, Materialien und reflektierenden Eigenschaften. Selbst wenn das Stück gleich ist, werden die akustischen Ergebnisse stark variieren, wenn es an einem anderen Ort installiert wird.
+Luciers Arbeit basiert stark auf räumlichen Dimensionen, Materialien und reflektierenden Eigenschaften. Selbst wenn das Stück gleich ist, können die akustischen Ergebnisse stark variieren, wenn der Installationsort unterschiedlich ist.
 
 ### 4-2 Zuschauerposition
 
-Die Position und Bewegung des Publikums ist ein Faktor, der das akustische Erlebnis verändert. Das Werk ist nicht dazu gedacht, von einem festen Punkt aus gehört zu werden.
+Die Standposition und Bewegung des Publikums sind Faktoren, die das akustische Erlebnis verändern. Das Werk ist nicht dazu gedacht, von einem festen Punkt aus gehört zu werden.
 
 ---
 
@@ -125,7 +125,7 @@ Faktoren wie Verzerrung, Komprimierung und fehlende Daten werden als Komponenten
 
 ### 6-1 Parallele Platzierung mit Video
 
-In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Klang. Ton und Video sind oft nicht synchronisiert.
+In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Ton. Ton und Video sind oft nicht synchronisiert.
 
 <div class="mermaid">
 flowchart LR
@@ -156,7 +156,7 @@ Stromversorgung, Verkabelung und Geräteplatzierung werden als Teil der Arbeit b
 
 ## Kapitel 9: Transformation des Hörverhaltens
 
-In der Klangkunst ist Zuhören kein passiver Akt. Der Zuschauer bewegt sich, wählt und erlebt teilweise. Das Gesamtbild kann nur als Sammlung einzelner Erfahrungen geformt werden.
+In der Klangkunst ist Zuhören kein passiver Akt. Der Zuschauer bewegt sich, wählt und erlebt teilweise. Das Gesamtbild ist nur als Sammlung einzelner Erfahrungen möglich.
 
 ---
 

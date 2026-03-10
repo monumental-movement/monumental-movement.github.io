@@ -37,7 +37,7 @@ color: #fff;
 </style>
 
 
-## 2. Designkonzept für Langzeitmusik
+## 2. Designkonzept der Langzeitmusik
 
 Eines der wichtigen Merkmale von Deep Ambient und Ambient Techno besteht darin, dass sie der „Wiedergabezeit“ Vorrang vor einzelnen Songs einräumen. Das Durchhalten für 10, 20 oder mehr Minuten ist ein Design-Gebot und kein Mangel an Bereitstellung.
 
@@ -73,7 +73,7 @@ Aus diesem Grund wird in vielen Werken völlige Stille vermieden und sehr leise 
 
 Der Charakter von Ambient Techno / Deep Ambient verändert sich je nach Wiedergabemedium stark. Große Lautsprecher, Kopfhörer und kleine Geräte. Jeder erzeugt eine andere Tiefe.
 
-Bei Kopfhörern wird der physikalische Druck in den tiefen Frequenzen verringert, die Dichte des Innenraums nimmt jedoch zu. Bei der Lautsprecherwiedergabe hingegen wird der Raum selbst zum Resonator.
+Bei Kopfhörern wird der physikalische Druck der tiefen Frequenzen verringert, aber die Dichte des Innenraums erhöht. Bei der Lautsprecherwiedergabe hingegen wird der Raum selbst zum Resonator.
 
 ---
 

@@ -18,7 +18,7 @@ title: '[Kolumne] Basic Channel──Der Ursprung des Berliner Dub Techno'
 ## Prolog: Vom anonymen Lärm zur stillen Revolution
 
 
-Text: mmr｜Thema: Der „Abgrund des Klangs“, geboren aus dem Berliner Untergrund der 1990er Jahre – Die Entstehungsgeschichte von Basic Channel und Dub Techno
+Text: mmr｜Thema: „Abgrund des Klangs“, geboren aus dem Berliner Untergrund der 1990er Jahre – Entstehungsgeschichte von Basic Channel und Dub Techno
 
 
 1993, nur wenige Jahre nach dem Fall der Berliner Mauer.
@@ -27,7 +27,7 @@ Inmitten dieses Chaos verursachte **Basic Channel** still und leise eine seismis
 
 Ihre Musik war weder Minimal noch Techno oder House.
 **Der Raum schwingt in den Tiefen des Rhythmus mit**.
-──Dies schuf eine neue „Tiefe“ in der Clubkultur auf der ganzen Welt.
+──Dies hat eine neue Tiefe in der Clubkultur auf der ganzen Welt geschaffen.
 
 
 > Der Rhythmus atmet zwischen Stille und Nachhall.
@@ -78,7 +78,7 @@ Der Sound, der die harten Rhythmen des Detroit Techno mit der räumlichen Verarb
 - „Verfall“, nicht Melodie, baut Musik auf.
 
 Der Musikkritiker Simon Reynolds sagte später:
-> „Ihre Musik verwandelte Techno von „Architektur“ in „Wetterphänomen“.
+> „Ihre Musik verwandelte Techno von „Architektur“ in ein „Wetterphänomen“.
 
 Es war nur **Schallklimawandel**.
 
@@ -106,7 +106,7 @@ Funktionen der Kettenreaktion:
 - Ein Gefühl der Einheit, als ob alle Schallquellen den „gleichen Raum“ teilen würden
 - Keine Massenproduktion, sondern ein **ideologisches Netzwerk basierend auf einer Klangkette**
 
-Dadurch wurde Basic Channel eher zu einer Plattform für Klangphilosophie als zu einem Label.
+Infolgedessen wurde Basic Channel eher zu einer **Plattform für Klangphilosophie** als zu einem „Label“.
 
 ---
 
@@ -214,7 +214,7 @@ Der Grund dafür ist, dass sie nicht nur Techno geschaffen haben, sondern den Ak
 Das Echo hört nie auf.
 Es ist ein anhaltender Duft der Zeit und ein Tunnel, der den Zuhörer an die Außenseite des Raums führt.
 
-Und die Wellen, die am Ende des 20. Jahrhunderts von Berlin ausgingen, hallen weiterhin lautlos im Untergrund auf der ganzen Welt nach.
+Und die Wellen, die am Ende des 20. Jahrhunderts von Berlin ausgingen, hallen weiterhin lautlos im Untergrund auf der ganzen Welt wider.
 
 > „Wenn Sie den Ton von Basic Channel hören, hören Sie den Raum selbst, nicht die Musik.“
 

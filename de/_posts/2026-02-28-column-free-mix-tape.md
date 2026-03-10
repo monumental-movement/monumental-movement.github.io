@@ -53,9 +53,9 @@ color: #fff;
 
 ### Ende der 1970er-1980er Jahre: Blockpartys und Kassettenkultur
 
-Die Ursprünge der Free-Mixtape-Kultur liegen im New York der späten 1970er Jahre. DJs aus den Blockpartys der Bronx entwickelten die Kunst, immer wieder Funk- und Disco-Breaks zu spielen.
+Die Ursprünge der Free-Mixtape-Kultur liegen im New York der späten 1970er Jahre. DJs der Bronx-Blockpartys entwickelten die Kunst, immer wieder Funk- und Disco-Breaks zu spielen.
 
-Die repräsentativen Künstler Kool Herc und Grandmaster Flash haben ihre Live-Auftritte aufgezeichnet und als Kassetten verteilt, um die Energie ihrer Auftritte in physischen Medien einzufangen.
+Die repräsentativen Künstler Kool Herc und Grandmaster Flash haben ihre Live-Auftritte aufgezeichnet und als Kassetten verteilt, um die Energie ihrer Auftritte in physischen Medien festzuhalten.
 
 Damals waren Mixtapes keine kommerziellen Produkte, sondern Aufnahmemedien, die sich durch Handverkäufe und Mundpropaganda verbreiteten. Die „Atmosphäre des Abends“ war wichtiger als die Qualität der Aufnahme.
 
@@ -93,7 +93,7 @@ In den 2010er Jahren wurde das Konzept der „kostenlosen Verbreitung“ mit dem
 
 Ein typisches Beispiel ist „Acid Rap“ von Chance the Rapper. Obwohl es ohne kommerziellen Verkauf veröffentlicht wurde, erhielt es Kritikerlob und gewann später einen Grammy.
 
-Obwohl Mixtapes „kostenlos“ sind, erlangen sie in der Evaluationsökonomie eine enorme Bedeutung.
+Obwohl Mixtapes „kostenlos“ sind, werden sie in der Evaluierungsökonomie äußerst wichtig.
 
 > Kostenlos bedeutet nicht länger geringer Wert.
 
@@ -196,7 +196,7 @@ Erstens das Vertriebsmodell der Musikindustrie. Wir haben eine Struktur etablier
 
 Zweitens hat sich der Status von DJs als Redakteure verbessert. Er wird als Kurator und nicht nur als Reproduzierer anerkannt.
 
-Drittens: gemeinschaftsorientierte Wertebildung. Es entstand eine Bewertungsachse, die sich von Charts und Verkäufen unterscheidet.
+Drittens: gemeinschaftsorientierte Wertebildung. Es wurde eine andere Bewertungsachse als Charts und Verkäufe erstellt.
 
 Heutzutage gewinnen manuelle Bearbeitung und thematische Mischungen als Gegenkultur zu algorithmischen Empfehlungssystemen erneut an Bedeutung.
 

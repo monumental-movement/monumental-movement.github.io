@@ -21,7 +21,7 @@ title: '[Spalte] Experimentelle Stimm-/Stimmanipulation – Geschichte und Techn
 
 Text: mmr｜Thema: Experimenteller Gesang, der die Stimme als Material/Geschichte, Techniken, Repräsentanten und zeitgenössische Trends der Stimmmanipulation verarbeitet, erzeugt und neu ordnet
 
-Im 21. Jahrhundert hat sich die Singstimme von der reinen Melodieübertragung zu einem bearbeitbaren akustischen Material entwickelt. Mit der Verfügbarkeit von Werkzeugen wie Aufnahme-/Bearbeitungstechnologie, Effekten, Sampling, Echtzeitverarbeitung und Erzeugungstechnologie hat die Stimme eine vielfältige Rolle als Instrument, Textur, räumliche Beschreibung und sogar Datenressource übernommen. Künstler wie Björk und Imogen Heap, die ihre eigenen Stimmen als Hauptmaterial für ihre Experimente verwenden, und Ausdrucksformen, die durch technologische Durchbrüche wie Granularsynthese und KI-basierte Resynthese geschaffen wurden, haben die Möglichkeiten der Stimme erheblich erweitert.
+Im 21. Jahrhundert hat sich die Singstimme von einem bloßen Überbringer von Melodien zu einem bearbeitbaren akustischen Material entwickelt. Mit der Verfügbarkeit von Werkzeugen wie Aufnahme-/Bearbeitungstechnologie, Effekten, Sampling, Echtzeitverarbeitung und Erzeugungstechnologie hat die Stimme eine vielfältige Rolle als Instrument, Textur, räumliche Beschreibung und sogar Datenressource übernommen. Künstler wie Björk und Imogen Heap, die ihre eigenen Stimmen als Hauptmaterial für ihre Experimente und durch technologische Durchbrüche wie Granularsynthese und KI-basierte Resynthese geschaffene Ausdrucksformen verwenden, haben die Möglichkeiten der Stimme erheblich erweitert.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### 1-1. Aufnahmetechnik und Tonbanderzeugung
 
-Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und frequenzmäßigen Eigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen teilweise von ihren bestehenden sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
+Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und Frequenzeigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen manchmal von ihren vorhandenen sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
 
 ### 1-2. Die Ära der Synthese und der analogen Ausrüstung
 
@@ -81,7 +81,7 @@ Imogen Heap demonstrierte, dass die Stimme durch Live-Ausdruck mithilfe von Echt
 
 ## Kapitel 4: Klassifizierung von Techniken und akustischen Effekten
 
-Im Folgenden fassen wir die wichtigsten Techniken zusammen, die häufig beim experimentellen Gesang verwendet werden, und ihre akustischen und ausdrucksstarken Auswirkungen.
+Im Folgenden fassen wir die wichtigsten Techniken zusammen, die häufig im experimentellen Gesang verwendet werden, und ihre akustischen und ausdrucksstarken Auswirkungen.
 
 ### 4-1. Pitch-Verarbeitung
 
@@ -120,7 +120,7 @@ Die Stimme spiegelt die körperlichen Merkmale einer Person wider, kann jedoch d
 
 ### 5-2. Leistungsethik und Generationstechnik
 
-Die Reproduktion von Stimmen und die Nachahmung der Stimmen anderer mithilfe von KI wirft ethische Fragen auf. Fragen der Einwilligung und Zuschreibung, etwa die Frage, wessen Stimme verwendet wird und wie sie verwendet wird, müssen parallel zur Entwicklung der Ausdruckstechnologie erörtert werden.
+Die Reproduktion von Stimmen und die Nachahmung der Stimmen anderer mithilfe von KI wirft ethische Fragen auf. Fragen der Einwilligung und Zuschreibung, etwa die Frage, wessen Stimme wie verwendet wird, müssen parallel zur Entwicklung der Ausdruckstechnologie erörtert werden.
 
 ---
 

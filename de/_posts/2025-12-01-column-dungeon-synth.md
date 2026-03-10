@@ -27,8 +27,8 @@ title: '[Kolumne] Dungeon Synth – Eine Underground-Ambient-Ästhetik, die vom 
 
 Text: mmr｜Thema: Über die Geschichte, Produktionstechniken und die kulturelle Stellung von Dungeon Synth, einem vom Black Metal abgeleiteten Underground-Ambient-Genre
 
-Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung mit minimalistischen Synthesizer-Sounds zum Ausdruck bringt.
-Seine Ursprünge liegen in der europäischen Extremmusikszene der frühen 1990er Jahre, doch ab Ende der 2010er Jahre, mit der Ausbreitung der Bandcamp-Kultur, wuchs die zweite und dritte Generation rasch an und hat sich mittlerweile zu einem riesigen DIY-Netzwerk entwickelt.
+Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung durch minimalistische Synthesizer-Sounds zum Ausdruck bringt.
+Seine Ursprünge lassen sich auf die europäische Extremmusikszene der frühen 1990er-Jahre zurückführen, doch seit Ende der 2010er-Jahre hat sich die zweite und dritte Generation mit der Ausweitung der Bandcamp-Kultur rasant vergrößert und hat sich inzwischen zu einem gigantischen DIY-Netzwerk entwickelt.
 
 ---
 
@@ -65,7 +65,7 @@ Daher wird die Musik oft als „Soundtrack ohne Film“, „Ambient-Musik für e
 
 ---
 
-## ■ 2. Geschichte – von den Anfängen bis zur Gegenwart
+## ■ 2. Geschichte ─ Von den Anfängen bis zur Gegenwart
 
 Im Folgenden fassen wir die wichtigen Trends von der Geburt des Genres bis zur Gegenwart zusammen.
 
@@ -89,7 +89,7 @@ Da das Genre außerhalb des Mainstreams der Metal-Szene lag, blieb es bis Mitte 
 Doch Ende der 2000er Jahre, als der frühe Black Metal neu bewertet wurde, wurde **Mortiis Era I neu aufgelegt** und begann weltweit erneute Aufmerksamkeit zu erregen.
 
 ### ● 2-4. Zweite Welle (2010–2015)
-Veränderungen im Internetumfeld und die Verbreitung von Bandcamp waren der entscheidende Faktor.
+Ausschlaggebend waren Veränderungen im Internetumfeld und die Verbreitung von Bandcamp.
 
 - **Rise of Bandcamp (Anfang der 2010er Jahre)**
 - **Der Name „Dungeon Synth“ hat sich auf Reddit/Forum etabliert**
@@ -101,7 +101,7 @@ Parallel zum Atmospheric Black Metal entstanden in dieser Zeit in Übersee immer
 Die wichtigste Zeit, in der das Genre schnell wuchs.
 
 - **Alter Turm (Niederlande)**
-Mit seinem majestätischen, vielschichtigen Stil spielt es die zentrale Rolle im modernen Dungeon Synth.
+Mit seinem majestätischen, vielschichtigen Stil spielt es eine zentrale Rolle im modernen Dungeon Synth.
 - **Thangorodrim (Portugal)**
 Neuinterpretation des frühen Lo-Fi-Feelings und der klassischen Fantasy-Weltanschauung.
 - **Lehen (USA)**
@@ -149,9 +149,9 @@ Im Folgenden fassen wir die Klangquellen, MIDI-Bedienung und Effektmethoden zusa
 ### ■ Klassische PCM-Tonquelle
 Viele Künstler suchten das Gefühl von Spielekonsolen und PCM-Tastaturen aus den 90er Jahren.
 
-- **Roland JV/XP-Serie (aktuell oder als Probe)**
+- **Roland JV/XP-Serie (aktuell oder Probenahme)**
 - **Yamaha PSR-Serie** (günstige Heimtastatur)
-- **Korg Triton / M1 Beispiel-Soundquelle**
+- **Korg Triton / M1 Beispieltonquelle**
 - **General MIDI-Ton (GM-Klangquelle)**
 
 GM-Klaviere, Chor-Aahs, Streicher, Pads usw. Billigkeit und Nostalgie werden als Werte behandelt.
@@ -203,7 +203,7 @@ Das Hinzufügen einer Rauheit von etwa 8 bis 12 Bit verstärkt das 90er-Jahre-Fe
 Viele Künstler nehmen ihre Songs tatsächlich auf Kassette auf.
 
 ### ■ EQ-Verarbeitung
-- **Niedrig (unter 100 Hz) entfernen** → In Richtung Mono/Textur alter Geräte
+- **Low (unter 100 Hz) entfernen** → In Richtung Mono/Altgeräte-Feeling
 - **Hohe Frequenzen (über 6–8 kHz) entfernen** → Digitalgeruch entfernen
 
 ### ■ Hall
@@ -315,7 +315,7 @@ Nachfolgend finden Sie einen Plan für die tatsächliche Erstellung eines Songs.
 
 # ■ 9. Kulturelle Bedeutung von Dungeon Synth
 
-Dungeon Synth ist eine seltene Musikrichtung, die die intensive Weltanschauung des Black Metal mit der Ruhe des Ambient verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
+Dungeon Synth ist eine seltene Musikrichtung, die die intensive Weltanschauung des Black Metal mit der Ruhe der Ambient-Musik verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
 
 - Einzelne Schöpfer erzählen ihre eigenen Geschichten, ohne sich auf groß angelegte Szenen verlassen zu müssen
 – Stark verbunden mit der Ästhetik von Fantasy-Literatur, TRPGs und Spielemusik

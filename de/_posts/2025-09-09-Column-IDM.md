@@ -64,7 +64,7 @@ color: #fff;
 | 7 | Die Kugel | Kleine flauschige Wolken | Ein Meisterwerk, das das Sampling voll ausnutzt |
 | 8 | Schneller J | De-Orbit | Der Ursprung des Ambient Techno |
 | 9 | Seefeel | Plainsong | Gitarrenlärm und IDM-Ansatz |
-| 10 | Globale Kommunikation | 14:31 | Meditative Ambient-Werke |
+| 10 | Globale Kommunikation | 14:31 | Meditative Ambient-Arbeiten |
 
 ---
 
@@ -92,7 +92,7 @@ Hardware-Synthesizer wie **Nord Lead** und **Access Virus** wurden populär.
 | 5 | Gremien von Kanada | Roygbiv | Nostalgischer und warmer Klang |
 | 6 | Kariert | Abla Eedio | Geometrische und Pop-Melodie |
 | 7 | Bogdan Raczynski | Samurai Math Beats | Intensives Beat-Experiment |
-| 8 | Zylob | Schneiden Sie den Mitteltonbereich ab, senken Sie den Bass | Ein humorvolles Juwel aus der Aphex-Gruppe |
+| 8 | Zylob | Reduzieren Sie den Mitteltonbereich, senken Sie den Bass | Ein humorvolles Juwel aus der Aphex-Gruppe |
 | 9 | Luke Vibert | Ich liebe Säure | Der Schnittpunkt von IDM und Säure |
 | 10 | Venezianische Schlingen | Hajnal | Fusion aus Klassik und Breakcore |
 
@@ -171,7 +171,7 @@ Im Streaming-Zeitalter verschwimmen die Grenzen zwischen den Genres zunehmend. E
 **Verwendung von KI-Unterstützungstools und generativer Musiksoftware**.
 Hybride Produktion, die Modularität und Software kombiniert.
 
-### Liste mit 10 empfohlenen Songs (seit 2020)
+### Liste mit 10 empfohlenen Songs (2020er-heute)
 
 | Nein | Künstler | Songtitel | Kommentar |
 |---|---|---|---|

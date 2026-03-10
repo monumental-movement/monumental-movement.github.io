@@ -90,7 +90,7 @@ Der Mixer war nicht nur ein Lautstärkeregler, sondern fungierte als Teil der So
 
 Viele Künstler, die im gleichen britischen House-Kontext der 90er Jahre arbeiteten, tendierten zu einer eher auf Samples oder Gesang ausgerichteten Produktion. Pooley hingegen verfolgte weiterhin die strukturelle Schönheit der Instrumentalmusik.
 
-Während beispielsweise stark vom US-House beeinflusste Produzenten emotionale Höhepunkte betonten, betont Pooley die Veränderung der Grooves im Laufe der Zeit. Dies ist ein Ansatz, der aufgrund der Produktionsumgebung möglich ist, in der sich durch den Betrieb der Geräte winzige Unterschiede ansammeln.
+Während beispielsweise stark vom US-House beeinflusste Produzenten emotionale Höhepunkte betonten, betont Pooley die Veränderung der Grooves im Laufe der Zeit. Dieser Ansatz ist aufgrund der Produktionsumgebung möglich, in der sich durch den Betrieb der Geräte winzige Unterschiede ansammeln.
 
 ### Position im britischen Repräsentantenhaus
 

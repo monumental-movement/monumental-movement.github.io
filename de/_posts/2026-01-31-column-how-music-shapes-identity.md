@@ -66,7 +66,7 @@ C --> D[共同体意識]
 
 ### Verinnerlichung von Glauben und Klang
 
-In einer Zeit, in der Religion die zentrale Norm der Gesellschaft war, war Musik ein wichtiges Mittel zur Verinnerlichung des Glaubens. Die einzige Melodie des gregorianischen Chorals soll die Emotionen des Einzelnen unterdrücken und das Eintauchen in Gott fördern. Buddhistische Gesänge bringen Atmung und Lautäußerungen in Einklang und verändern so die körperlichen Empfindungen des Praktizierenden. Bei der Rezitation des islamischen Korans sind Melodie und Bedeutung untrennbar miteinander verbunden, und der Akt des Zuhörens selbst wird zu einer Glaubenspraxis.
+In einer Zeit, in der Religion die zentrale Norm der Gesellschaft war, war Musik ein wichtiges Mittel zur Verinnerlichung des Glaubens. Die einzige Melodie des gregorianischen Chorals soll die Emotionen des Einzelnen unterdrücken und das Eintauchen in Gott fördern. Buddhistische Gesänge bringen Atmung und Lautäußerungen in Einklang und verändern so die körperlichen Empfindungen des Praktizierenden. Im Islam sind Melodie und Bedeutung beim Rezitieren des Korans untrennbar miteinander verbunden, und der Akt des Zuhörens selbst wird zu einer Glaubenspraxis.
 
 Diese Musik funktioniert jenseits des persönlichen Geschmacks. Indem Sie es wiederholt anhören, singen und es in Ihren Körper eindringen lassen, wird der Glaube im Inneren als Voraussetzung verankert und nicht als etwas, an dem man zweifeln muss. Musik war ein Übersetzungsgerät, das äußere Lehren in eine innere Stimme verwandelte.
 
@@ -109,7 +109,7 @@ Diese Veränderung verwandelte die Beziehung zwischen Musik und dem Selbst in ei
 
 ### Bildung der Generationenidentität
 
-In der zweiten Hälfte des 20. Jahrhunderts wurden Musikgenres zu zentralen Markern der Generationenidentität. Jazz symbolisierte Urbanisierung und Modernität, Rock verkörperte Rebellion und Freiheit. Punk drückte in kurzen, scharfen Klängen eine Ablehnung der etablierten Ordnung aus und Hip-Hop wurde zu einer Möglichkeit, über marginalisierte Erfahrungen zu sprechen.
+In der zweiten Hälfte des 20. Jahrhunderts wurden Musikgenres zu zentralen Indikatoren der Generationenidentität. Jazz symbolisierte Urbanisierung und Modernität, Rock verkörperte Rebellion und Freiheit. Punk drückte in kurzen, scharfen Klängen eine Ablehnung der etablierten Ordnung aus und Hip-Hop wurde zu einer Möglichkeit, über marginalisierte Erfahrungen zu sprechen.
 
 Für junge Menschen war die von ihnen gewählte Musik ein Akt, um zu zeigen, mit welchen Werten sie in Resonanz stehen. Ebenso wie die Art und Weise, wie wir uns kleiden und wie wir sprechen, ist unser Musikgeschmack der Kern unseres Selbstausdrucks.
 

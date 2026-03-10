@@ -24,7 +24,7 @@ title: '[Kolumne] Brenda Fassie – Die Township-Diva: Eine Reise voller Ruhm un
 
 # Einführung
 
-Text: mmr | Thema: Brenda Fassie (1964–2004), eine Sängerin aus einem Township in Südafrika. Ruhm und Rückschläge, Politik und Privatleben – sein Leben und Vermächtnis auf der Grundlage von Fakten
+Text: mmr | Thema: Brenda Fassie (1964–2004), eine Sängerin aus einem Township in Südafrika. Ruhm und Rückschläge, Politik und Privatleben – verfolgen Sie sein Leben und Vermächtnis anhand von Fakten
 
 
 Das Buch zeichnet sorgfältig ihre Reise nach, die sie in einem Township aufwuchs und die südafrikanische Popmusik von den 1980er bis in die 2000er Jahre führte, mit Chronologie, Diagrammen und Liederklärungen.
@@ -77,7 +77,7 @@ color: #fff;
 
 # 2. Kindheit und Township-Landschaft
 
-Brenda Fassie ist in einem südafrikanischen Township (Ranga) geboren und aufgewachsen. Die Gemeinde war ein Produkt des städtischen Raums der Apartheid-Ära und ein Ort institutioneller Segregation und wirtschaftlicher Unterdrückung. Das Leben, die Religion, die gemeinschaftlichen Netzwerke und die Unterhaltung der dort lebenden Menschen stellten eine einzigartige Kultur dar, und Musik war ein Ausdrucksmittel, das tief im täglichen Leben verwurzelt war.
+Brenda Fassieは南アフリカのタウンシップ（ラングァ）で生まれ育ちました.タウンシップはアパルトヘイト期の都市空間の産物であり、制度的な隔離と経済的抑圧の現場でした. Das Leben, die Religion, die gemeinschaftlichen Netzwerke und die Unterhaltung der dort lebenden Menschen stellten eine einzigartige Kultur dar, und Musik war ein Ausdrucksmittel, das tief im täglichen Leben verwurzelt war.
 
 Da sie mit einer Mutter aufwuchs, die gerne Klavier spielte und sang, und schon früh ihr Taschengeld mit dem Singen in der Kirche und vor Touristen verdiente, erhielt sie eine frühe praktische Ausbildung, die den Grundstein für ihre Auftrittsfähigkeiten legte. Dieses Umfeld führte direkt zu späterer musikalischer Vielfalt (Gesang, der Englisch, Zulu und Xhosa mischte, Rhythmusgefühl und Improvisation).
 
@@ -93,7 +93,7 @@ Anschließend begann er seine Karriere als Leadsänger von Brenda and the Big Du
 
 # 4. Nationaler Erfolg und Meisterwerke (1983–1990)
 
-In den 1980er Jahren veröffentlichte sie eine Reihe von Singles und Alben und wurde zu einer führenden Figur des Black Pop in Südafrika. Ihr Ausdruck war reich an Bühnenkostümen, Choreografien und Darbietungen, die das Publikum einbezogen, und sie erfreute sich großer Beliebtheit in Bezug auf Medien und Konzertmobilisierung.
+In den 1980er Jahren veröffentlichte sie eine Reihe von Singles und Alben und wurde zu einer führenden Figur des Black Pop in Südafrika. Ihr Ausdruck war reich an Bühnenkostümen, Choreografien und Darbietungen, die das Publikum einbezogen, und sie war in Bezug auf Medien und Konzertmobilisierung sehr beliebt.
 
 Einige der repräsentativen Lieder
 
@@ -139,9 +139,9 @@ Bühnenkostüme, Mimik und Aufführungsregie sind ebenfalls Teil ihrer Identitä
 
 # 9. Vor und nach Tod und Vermächtnis
 
-Im April 2004 brach Brenda zu Hause zusammen und wurde ins Krankenhaus gebracht. Nach mehrtägiger Behandlung verstarb er am 9. Mai. Es gab mehrere Berichte über die Todesursache, aber der Schlussbericht besagte, dass Asthmaanfälle und Komplikationen eine Rolle spielten.
+Im April 2004 brach Brenda zu Hause zusammen und wurde ins Krankenhaus gebracht. Nach mehrtägiger Behandlung verstarb er am 9. Mai. Es gab mehrere Berichte über die Todesursache, aber der Schlussbericht lautete, dass Asthmaanfälle und Komplikationen dazu beigetragen hätten.
 
-Ihr Tod löste einen tiefen Schock in der südafrikanischen Musikwelt aus und erntete zahlreiche Ehrungen aus dem In- und Ausland. Eine posthume Best-Of-Zusammenstellung und eine retrospektive Zusammenstellung bewahren Brendas Musik für Generationen von Künstlern und Hörern. In einigen Fällen führen ihre Söhne und Musikschüler ihr Erbe fort.
+Ihr Tod löste in der südafrikanischen Musikwelt einen tiefen Schock aus und erntete zahlreiche Ehrungen aus dem In- und Ausland. Eine posthume Best-Of-Zusammenstellung und eine retrospektive Zusammenstellung bewahren Brendas Musik für Generationen von Künstlern und Hörern. In einigen Fällen führen ihre Söhne und Musikschüler ihr Erbe fort.
 
 ---
 
@@ -150,8 +150,8 @@ Ihr Tod löste einen tiefen Schock in der südafrikanischen Musikwelt aus und er
 ## Hauptalben
 
 * Frühe Bandalben
-* Schwarzer Präsident
-*Jetzt ist die Zeit gekommen
+*Schwarzer Präsident
+* Jetzt ist die Zeit gekommen
 *Paparazzi
 *Memeza
 * Nomakanjani

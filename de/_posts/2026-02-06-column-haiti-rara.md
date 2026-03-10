@@ -133,7 +133,7 @@ Dennoch taucht Lara jedes Jahr in der Fastenzeit wieder auf der Straße auf. Auc
 
 ## Kapitel 7 Raumstruktur und körperliches Marschgefühl
 
-Die Essenz von Lala ist „Bewegung“. Die Darsteller und Teilnehmer bleiben nicht auf einer festen Bühne, sondern passieren Straßen, Kreuzungen, Dorfgrenzen und die Umgebung von Friedhöfen. Diese Räume haben im Alltag eine funktionale Bedeutung, während der Rara-Zeit erhalten sie jedoch eine zeremonielle Bedeutung. Die Orte, durch die die Musik geht, werden vorübergehend geheiligt und prägen sich in das Gedächtnis der Gemeinschaft ein.
+Die Essenz von Lala ist „Bewegung“. Die Darsteller und Teilnehmer bleiben nicht auf einer festen Bühne, sondern passieren Straßen, Kreuzungen, Dorfgrenzen und Bereiche rund um Friedhöfe. Diese Räume haben im Alltag eine funktionale Bedeutung, während der Rara-Zeit erhalten sie jedoch eine zeremonielle Bedeutung. Die Orte, durch die die Musik geht, werden vorübergehend geheiligt und prägen sich in das Gedächtnis der Gemeinschaft ein.
 
 Wichtig beim Marschieren ist eher die akustische Kontinuität als die visuelle Ordnung. Auch wenn die Reihen unorganisiert sind, wird der Marsch fortgesetzt, solange der Lärm nicht abreißt. Die Teilnehmer verlassen sich auf Geräusche, um ihren Standort zu bestimmen und ihre Körper zu synchronisieren. Aus diesem Grund ist bei Lara das Hören wichtiger für die räumliche Wahrnehmung als die Sichtlinie.
 
@@ -151,7 +151,7 @@ D --> E[帰還または別拠点]
 
 ## Kapitel 8 Elemente von Körper, Müdigkeit und Dauer
 
-Lara hält lange durch. Es wurden Märsche aufgezeichnet, die einige Stunden bis über Nacht dauerten und manchmal mehrere Tage dauerten. Obwohl die Darsteller Pausen einlegen, laufen, blasen und klopfen sie im Grunde weiter. Müdigkeit ist unvermeidlich und das Teilen dieser Grenze wird Teil des Rituals selbst.
+Lara hält lange durch. Es wurden Märsche aufgezeichnet, die einige Stunden bis über Nacht und manchmal mehrere Tage dauerten. Obwohl die Darsteller Pausen einlegen, laufen, blasen und klopfen sie im Grunde weiter. Müdigkeit ist unvermeidlich und das Teilen dieser Grenze wird Teil des Rituals selbst.
 
 Die körperlichen Anforderungen werden durch die Einfachheit und Wiederholbarkeit der Musik unterstützt. Aus diesem Grund haben nachhaltige Muster einen höheren Stellenwert als komplexe Melodien und fortgeschrittene Techniken. Musik ist nicht darauf ausgelegt, den Körper zu überanstrengen, sondern ist so optimiert, dass sie eine Form darstellt, die der Körper aushalten kann.
 

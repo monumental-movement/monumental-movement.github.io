@@ -152,7 +152,7 @@ Eine niedrige Auflösung wird nicht mehr als Einschränkung, sondern als Ausdruc
 ### Kontingenz und digitales Rauschen
 
 Phänomene wie CD-Lesefehler, Datenbeschädigung und Verarbeitungsfehler sollten beseitigt sein.
-Einige elektronische Musiker beginnen jedoch, dies als Klangmaterial zu betrachten.
+Einige elektronische Musiker beginnen jedoch, dies als Klangmaterial zu behandeln.
 
 Low-Bit-Rauschen und Glitches haben gemeinsam, dass beide auf digitale Unvollkommenheit schließen lassen.
 
@@ -162,7 +162,7 @@ Low-Bit-Rauschen und Glitches haben gemeinsam, dass beide auf digitale Unvollkom
 
 ### IDM und akustische Ästhetik
 
-Im sogenannten IDM-Kontext wurde die Textur des Klangs selbst als kompositorisches Element betont.
+Im sogenannten IDM-Kontext wurde die Textur des Klangs selbst als kompositorisches Element hervorgehoben.
 Bit-Crushing spielte bei der Gestaltung der Textur eine größere Rolle als Rhythmus und Melodie.
 
 Low-Bit-Sounds sind wie Pinselstriche in abstrakter Musik.

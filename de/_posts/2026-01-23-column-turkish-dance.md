@@ -104,7 +104,7 @@ Für Städte organisierte Tanzmusik enthielt populäre Elemente und wurde zur Gr
 
 ### Fusion aus Folk und Rock
 
-In den späten 1960er Jahren entstand eine Bewegung, die anatolische Volksmusik und Rock verbinden wollte.
+In den späten 1960er Jahren entstand eine Bewegung, die anatolische Volksmusik mit Rock verbinden wollte.
 Als Instrumente zur Erweiterung traditioneller Tanzrhythmen dienten E-Gitarren und Trommeln.
 
 ### Tanzqualität erhalten
@@ -117,7 +117,7 @@ Die Fusion-Musik dieser Zeit zeichnete sich dadurch aus, dass sie zwar experimen
 
 ## 1980er Jahre｜Diaspora und Wiederaufbau
 
-### Die Rolle der deutschen Einwanderergemeinschaft
+### Rolle der deutschen Einwanderergemeinschaft
 
 In den 1980er Jahren wurde traditionelle Musik und Popmusik in türkischen Einwanderergemeinschaften, hauptsächlich in Westdeutschland, neu aufgelegt.
 

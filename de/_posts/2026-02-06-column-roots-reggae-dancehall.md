@@ -100,7 +100,7 @@ Spiritualit채t ist nicht verschwunden, sondern hat sich in Selbstbest채tigung, �
 
 ---
 
-## Erg채nzungskapitel Erweiterung der Geschichte der Reggae-Rezeption in Japan (ab den 1990er Jahren)
+## Erg채nzungskapitel: Erweiterung der Geschichte der Reggae-Rezeption in Japan (ab den 1990er Jahren)
 
 In den 1990er Jahren, als sich Reggae in Japan weit verbreitete, war eine Besonderheit die gleichzeitige Einf체hrung von Roots und Dancehall. Importierte Plattenl채den, Clubs und Zeitschriften stellten beides redaktionell gegen체ber und relativierten so den Generationenkonflikt.
 

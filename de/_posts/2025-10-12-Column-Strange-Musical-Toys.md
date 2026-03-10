@@ -19,7 +19,7 @@ title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Geräusch
 ## „Klangspielzeuge“ auf der ganzen Welt
 
 
-Text: mmr | Thema: Von Kinderspielzeug zu Künstlerinstrumenten – Auf dem Weg in die Ära von KI-Spielzeug, taktilen Instrumenten und sozialem Spielzeug
+Text: mmr | Thema: Vom Kinderspielzeug zum Künstlerinstrument – ​​Auf dem Weg in die Ära von KI-Spielzeug, taktilen Instrumenten und sozialem Spielzeug
 
 Es gibt Orte, an denen die Grenze zwischen Musik und Spiel verschwimmt. Wir leben in einer Welt, in der die elektronischen Klänge von Spielzeugen, die in Kinderhänden gehalten werden, irgendwann als kreative Werkzeuge für professionelle Bühnen und Künstler anerkannt werden. Seltsame Klangquellen wie Radel, Omnichord, Stylophone und Circuit Bending, die selbstgebaute Schaltkreise modifizierten, wurden zu mehr als nur Spielzeug und wurden zu kulturellen Experimentiergeräten.
 
@@ -149,7 +149,7 @@ In den 1970er und 1980er Jahren wurden tragbare Synthesizer und elektronische Mu
 - CASIO VL-TONE
 - Pädagogische Synthesizer wie der SX-150 von Gakken
 
-Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder haben sich mit der Kultur des „Spielens mit Klängen“ vertraut gemacht. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
+Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder sind mit der Kultur des „Spielens mit Klängen“ vertraut geworden. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -188,7 +188,7 @@ Es nimmt die Atmosphäre einer kleinen elektronischen Klangquelle vorweg, ähnli
 
 **Flying Lotus – Cosmogramma (2010)**
 
-Eine komplexe Textur, die elektronisches Spielzeug und kleine Synthesizer-ähnliche Klänge kombiniert.
+Eine komplexe Textur, die elektronisches Spielzeug und kleine Synthesizer-Sounds kombiniert.
 
 ---
 

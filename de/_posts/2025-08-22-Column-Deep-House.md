@@ -82,7 +82,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 - Mr. Fingers – Amnesie
 
-- Ron Trent – ​​​​Veränderte Staaten
+- Ron Trent – ​​​​Veränderte Zustände
 
 - Kerri Chandler – Atmosphäre
 
@@ -144,7 +144,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Hörkontext**: Nachtfahrt, Hintergrundmusik bei der Arbeit/Lernen, Cocktailzeit.
 
-**Ästhetik**: „Emotional vor Funktionalität“. Mehr Schatten als Glanz.
+**Ästhetik**: „Emotional vor Funktionalität“. Mehr Schatten als Glitzer.
 
 
 <hr>
@@ -155,7 +155,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Früher Höhepunkt**: Ron Trent/Chez Damiers treibende Kraft
 
-**Plateau**: Verfeinerung von Jimpster zu Freerange
+**Plateau**: Verfeinerung von Jimpster ~ Freerange
 
 **Farbwechsel**: Henrik Schwarzs Live-Feeling
 
@@ -183,7 +183,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ・Larry Heard präsentiert Mr. White – „The Sun Can’t Compare“
 
-・Kerri Chandler – „Atmosphäre“
+・Kerri Chandler – „Atmosphere“
 
 ・Ron Trent – ​​„Altered States“
 

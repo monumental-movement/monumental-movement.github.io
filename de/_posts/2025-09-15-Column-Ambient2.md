@@ -282,7 +282,7 @@ color: #fff;
 - Die Einsamkeit der Stadt mit Umgebungsgeräuschen umgeben.
 
 ### Museum/Installation
-- **Brian Eno „77 Million Paintings“** (2006~)
+- **Brian Eno „77 Millionen Gemälde“** (2006~)
 - Eine generative Installation, die Video und Ton kombiniert.
 - **Ryoji Ikeda „Datamatics“** (2006~)
 - Konvertieren Sie Daten in Audio und Video. Schaffen Sie einen minimalistischen, immersiven Raum.
@@ -306,7 +306,7 @@ Ambient hat den Aspekt einer „akustischen Architektur“.
 
 - Verwendung im medizinischen Bereich (Entspannung vor und nach Operationen, Verbesserung der Konzentration).
 - Unverzichtbare Musik für Meditation und Yoga.
-- Forschungsberichte zeigen, dass „binaurale Beats“ mit natürlichen Klängen und niedrigen Frequenzen eine stressreduzierende Wirkung haben.
+- Forschungsberichte zufolge haben „binaurale Beats“ mit natürlichen Klängen und niedrigen Frequenzen eine stressreduzierende Wirkung.
 - Durch die Verschmelzung mit Psychotherapie und Musiktherapie hat sich Ambient-Musik als „therapeutische Musik“ etabliert.
 
 ---

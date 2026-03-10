@@ -43,7 +43,7 @@ color: #fff;
 </style>
 
 
-## Die Geschichte der Stimme beginnt mit der Rezitation von Gedichten
+## Die Geschichte der Stimme beginnt mit dem Lesen von Gedichten
 
 ### Poesie vor Buchstaben
 
@@ -57,7 +57,7 @@ Mit der Verbreitung der Drucktechnik wurde die Poesie auf Papier fixiert und der
 
 ---
 
-## Avantgarde-Kunst des 20. Jahrhunderts und die Befreiung der Stimmen
+## Avantgarde-Kunst des 20. Jahrhunderts und die Befreiung der Stimme
 
 ### Dada und Audio-Poesie
 
@@ -203,7 +203,7 @@ Bei der Zusammenarbeit mit Klangkunst sind improvisatorische Lautäußerungen un
 
 ### Eine Stimme, die über die Bedeutung hinausgeht
 
-Das Vorlesen in einer anderen Sprache rückt den Rhythmus und die Intonation der Stimme in den Vordergrund, während das Verständnis der Bedeutung unvollständig wird. Dies hat eine hohe Affinität zur Audiopoesie und Klangkunst.
+Das Vorlesen in verschiedenen Sprachen rückt den Rhythmus und die Intonation der Stimme in den Vordergrund, während das Verständnis der Bedeutung unvollständig wird. Dies hat eine hohe Affinität zur Audiopoesie und Klangkunst.
 
 ### Multikultureller Raum
 

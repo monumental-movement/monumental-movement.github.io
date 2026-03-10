@@ -18,13 +18,13 @@ title: '[Spalte] Border Community – Eine Klanggemeinschaft, die Grenzen übers
 ## I. Prolog: Eine Geschichte, die an der Grenze beginnt
 
 
-Text: mmr｜Thema: Verfolgung der Musikphilosophie der von James Holden gegründeten „Border Community“ und der Entwicklung des Labels, das diese „Grenze“ überschreitet
+Text: mmr｜Thema: Verfolgung der musikalischen Philosophie der von James Holden gegründeten „Border Community“ und der Entwicklung des Labels, das diese „Grenze“ überschreitet
   
 Der Name Border Community ist mehr als nur ein Label.
 Es war ein Statement „einer durch Musik verbundenen Gemeinschaft“ und dem Wunsch, „bestehende Genres und kommerzielle Strukturen zu überwinden“.
 
 Zu Beginn der 2000er Jahre befand sich die Clubszene mitten in großen Veränderungen. Trance wurde formalisiert und Progressive House wurde starr.
-Darin erforschte James Holden Klänge, die sich zwischen Melodie und Lärm, analog und digital, Intelligenz und Emotion hin und her bewegen.
+Darin erforschte James Holden Klänge, die zwischen Melodie und Lärm, analog und digital, Intelligenz und Emotion hin und her pendeln.
 
 „Border Community“ wurde als sein „Grenzlabor“ geboren.
 
@@ -50,7 +50,7 @@ color: #fff;
 Im Jahr 2001 machte Holden mit dem auf Silver Planet veröffentlichten Song „A Break in the Clouds“ auf sich aufmerksam.
 Ihr Sound sprengte damals die Grenzen des Progressive House. Melancholisch und doch architektonisch. Die schwebenden Melodien machten Clubabende zu einem poetischen Erlebnis.
 
-Beginnend mit diesem Song schafft er einen Klangraum, der weder Trance noch House ist.
+Beginnend mit diesem Song entwickelt er einen Sound, der weder Trance noch House ist.
 Dieser Fluss kristallisierte sich später in der Form der Grenzgemeinschaft heraus.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -97,7 +97,7 @@ Mehreren Quellen zufolge begannen die Experimente mit Amapiano um 2012, und spä
 
 ---
 
-### Abbildung 2: Geburtsort und anfängliche Verbreitung
+### Abbildung 2: Geburtsort und anfängliche Ausbreitung
 
 <div class="mermaid">
 graph TD
@@ -136,7 +136,7 @@ Infolgedessen hat sich Amapiano von reiner Underground-Musik zu einem Genre entw
 * Förderung des Durchbruchs und der Kommerzialisierung des Genres im ganzen Land
 * Fortsetzung **Die Rückkehr der Skorpionkönige (November 2019)** war ebenfalls ein Erfolg
 
-In dieser Zeit wurde Amapiano mehr als nur eine Township-Musik, es wurde zu einem landesweit und kommerziell anerkannten Genre.
+Diese Zeit machte Amapiano nicht nur zu einer Township-Musik, sondern zu einem landesweit und kommerziell anerkannten Genre.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

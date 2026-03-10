@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - 10s
-title: '[Kolumne] Waajeed – Ein Schöpfer, der die Genealogie von Detroit immer wieder
+title: '[Kolumne] Waajeed – Ein Schöpfer, der die Genealogie von Detroit weiterhin
   erneuert'
 ---
 
@@ -75,7 +75,7 @@ Dabei handelt es sich um ein Projekt, das Hip-Hop, R&B, Soul und Beat-Musik auf 
 * PPPs Debütalbum
 * Mit Georgia Anne Muldrow, Tiombe Lockhart, Saadiq und mehr
 * Gilt als eines der „radikalsten und wärmsten Werke“ im damaligen Neo-Soul- und Hip-Hop-Kontext.
-* Ein wichtiges Werk, das Detroits schwarze Musikästhetik international bekannt machte.
+* Ein wichtiges Werk, das Detroits Ästhetik der schwarzen Musik international bekannt machte.
 
 In dieser Zeit verwischte Waajeed die Grenzen zwischen Sampling und Live-Musik und entwickelte einen „futuristischen Soul“-Stil, der keine Clubmusik war. **
 
@@ -119,12 +119,12 @@ Die 2017 veröffentlichte **Shango EP** war ein bedeutender Wendepunkt in Waajee
 
 Der Titel **„Shango“** ist eine Gottheit, die in der traditionellen westafrikanischen Religion vorkommt und ein Symbol ist, das die Spiritualität der Afro-Diaspora mit der Geschichte der schwarzen Musik verbindet.
 
-Auf dieser EP Waajeed:
+Auf dieser EP, Waajeed:
 
 * Detroit House/Techno-Beat-Struktur
 * Afro-Percussion
 * Schwarzer spiritueller Ruf
-* Ritualischer Charakter roher Klänge und Rhythmen
+* Ritualistischer Charakter roher Klänge und Rhythmen
 
 Er lenkte die Band eindeutig in die Richtung, „House/Techno als eine Rückkehr zum Geist der schwarzen Kunst darzustellen“, indem er sie verschmolz.
 
@@ -158,7 +158,7 @@ Um Waajeeds Produktionsansatz zusammenzufassen, sind die folgenden drei Punkte z
 
 ---
 
-## **① Das Erbe Detroits erben und neu erschaffen**
+## **① Detroits Erbe erben und neu erschaffen**
 
 * Beeinflusst von J Dilla
 * Evangelium/Seelentradition
@@ -207,7 +207,7 @@ Dies ist bei „Mother“ noch deutlicher ausgeprägt und verleiht dem Club-Trac
 
 ### **■ Hybrid aus Live-Sound und elektronischem Sound**
 
-Die Technik, Synthesizer, Pads, E-Piano, Live-Schlagzeug, Percussion usw. auf natürliche Weise zu vermischen, ist auch ein Ergebnis der „Gehörschulung“ der Hip-Hop-Ära.
+Die Technik, Synthesizer, Pads, E-Piano, Live-Schlagzeug, Percussion usw. auf natürliche Weise zu vermischen, ist auch das Ergebnis der „Gehörschulung“ der Hip-Hop-Ära.
 
 ---
 
@@ -220,7 +220,7 @@ Die Technik, Synthesizer, Pads, E-Piano, Live-Schlagzeug, Percussion usw. auf na
 * **„The War LP“ (2012)**
 * **『Shango EP』(2017)**
 * **『From The Dirt』 (2017)**
-* **『Ten Toes Down EP』 (2018)**
+* **„Ten Toes Down EP“ (2018)**
 * **„Mutter“ (2022)**
 
 ---

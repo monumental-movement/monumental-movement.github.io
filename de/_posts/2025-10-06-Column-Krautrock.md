@@ -19,7 +19,7 @@ title: '[Kolumne] Eine komplette Geschichte des Krautrock – Deutsche Experimen
 
 Text: mmr｜Thema: Krautrock ist ein wichtiger Trend, der spätere Musikgenerationen wie experimentelle Musik, elektronische Musik, Post-Rock und Techno mit Ursprung in Deutschland stark beeinflusst hat.
 
-„Krautrock“——. Es handelte sich ursprünglich um einen abfälligen Namen, der von einem britischen Musikmagazin vergeben wurde.
+„Krautrock“——.
 „Sauerkraut“ ist eine umgangssprachliche Bezeichnung für Deutsche.
 In den späten 1960er-Jahren kehrten junge Leute diese Bezeichnung jedoch um und nutzten sie als Banner für die Schaffung ihrer eigenen Musik.
 
@@ -64,7 +64,7 @@ Diese Haltung der Suche nach dem „Sound des eigenen Landes“ war der Ursprung
 
 „Inner Space Studio“ ist ein altes Schloss am Stadtrand von Köln.
 Hier wurde der Mythos von CAN geboren.
-**Jaki Liebezeit**'s metronomartiges Schlagzeug,
+**Jaki Liebezeit**s metronomartiges Schlagzeug,
 **Michael Caroli** Gitarre,
 Und **Damo Suzuki**, ein Sänger, der aus Japan eingewandert ist.
 
@@ -75,7 +75,7 @@ Am Ende wurde er Mitglied der Band.
 
 Ihre Musik ist ein „fließender Rhythmus“, der Struktur ablehnt.
 Vor allem auf dem Album „Tago Mago“ (1971) wurden die Lieder durch Bearbeitung neu arrangiert.
-Daraus entstand die Vorstellung, dass „das Tonband selbst ein Instrument ist“.
+Daraus entstand die Vorstellung, dass das Aufnahmeband selbst ein Instrument ist.
 Shukais Bearbeitungstechniken ähnelten dem späteren Hip-Hop-Sampling.
 
 > „Rhythmus regiert die Zeit. Aber Improvisation befreit dich von der Zeit.“
@@ -99,13 +99,13 @@ Rotors Gitarre und Bass gleiten wie eine Stromlinie,
 Die Musik hat sich das „Weitermachen“ zum Ziel gemacht.
 
 NEU! aus Geldmangel im Studio aufgenommen.
-Das Band rückwärts drehen, die Geschwindigkeit ändern, die Töne ausschneiden und einfügen,
+Drehen Sie das Band rückwärts, ändern Sie die Geschwindigkeit, schneiden Sie die Sounds aus und fügen Sie sie ein.
 Es erschütterte die Grenze zwischen „Leben“ und „Maschine“.
 
 > „Motorik ist der Klang der „menschlichen Fortsetzung“, nicht einer Maschine.“
 > — Klaus Dinger
 
-Diese einfache rhythmische Struktur ähnelt David Bowies Berlin-Trilogie.
+Diese einfache rhythmische Struktur ähnelt der Berlin-Trilogie von David Bowie.
 Er hinterließ auch großen Einfluss auf Brian Enos Ambient-Werke.
 Im Klang von NEU! wird dem Zuhörer bewusst, dass die Zeit keine gerade Linie, sondern ein Kreis ist.
 
@@ -122,7 +122,7 @@ Sie schufen neue Musik, indem sie das „Rockformat“ völlig zerstörten.
 Mitglied **Jan Ermler** sagt.
 „Wir haben nicht an Rock geglaubt. Das Einzige, woran wir geglaubt haben, war ‚Aufnahmeband‘.“
 
-Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und ähnelte einem pulsierenden Herzen.
+Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und erinnert an ein pulsierendes Herz.
 Auch die Musik war fragmentiert.
 Die Lieder haben keine Melodie und ähneln eher dem Anhören einer Radiosendung.
 Es war jedoch eine Herausforderung für das eigentliche Gerüst der Popmusik.
@@ -236,7 +236,7 @@ Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum 
 
 Ende der 1970er Jahre erlebte die Jugend in Deutschland erneut einen Wandel.
 Der experimentelle Geist des Krautrock manifestiert sich in Punk und New Wave.
-In Berlin produzierten David Bowie und Brian Eno die „Berlin-Trilogie“ und nahmen Krauts Ästhetik auf.
+In Berlin schufen David Bowie und Brian Eno die „Berlin-Trilogie“ und nahmen Krauts Ästhetik auf.
 
 - Bowies „Low“ (1977) ist eine Fusion von Neu! und Cluster.
 - Joy Division und The Fall haben motorische Rhythmen wieder in den Rock eingebracht.

@@ -16,7 +16,7 @@ title: '[Kolumne] Die Schnittstelle zwischen Hard Rock, orientalischer Philosoph
 
 ## „West“ und „Ost“ im harten Fels versteckt
 
-Text: mmr | Thema: Erforschung der Beziehung zwischen Hardrock, östlicher Philosophie und Mystik anhand der Beispiele von Led Zeppelin und Deep Purple
+Text: mmr | Thema: Erforschung der Beziehung zwischen Hard Rock, östlicher Philosophie und Mystik anhand der Beispiele von Led Zeppelin und Deep Purple
 
 Hardrock ist ein bedeutendes Rockgenre, das in den späten 1960er- bis 1970er-Jahren eine explosionsartige Entwicklung erlebte. Seine Musikalität zeichnet sich durch die kühne Einbeziehung östlicher Philosophie und mystischer Elemente sowie westlichem Machoismus und Stärke aus.
 
@@ -48,7 +48,7 @@ Andererseits lässt sich ein weiterer Trend im Hard Rock in der Einführung orie
 
 Noch deutlicher wird dieser Trend bei **Rainbow**, das von Blackmore gegründet wurde. Ihr Signature-Song „Stargazer“ verbindet orientalische Tonleitern mit mystischen Texten und großartiger Orchestrierung. Dieses Lied geht über reinen Hardrock hinaus; es hat einen Sinn für Maßstäbe, als wäre es der musikalische Ausdruck eines großen Mythos oder eines epischen Gedichts. Darüber hinaus nutzte die Produktion während der Live-Aufführung Feuer und Licht voll aus, um die mystische Sicht auf die Welt zu betonen und dem Publikum ein „außerweltliches Erlebnis“ zu bieten.
 
-Auf diese Weise war die Musik von Deep Purple und Rainbow nicht einfach eine Erweiterung des westlichen Rocks, sondern man könnte sagen, dass sie eine neue Musiksprache geschaffen hat, indem sie aktiv östliches Denken und mystische Bilder eingeführt hat. Ihre Bemühungen hatten großen Einfluss auf den späteren Metal und Progressive Rock und begründeten eine Linie des „mystischen Hard Rock“, die bis heute andauert.
+Auf diese Weise war die Musik von Deep Purple und Rainbow nicht einfach eine Erweiterung des westlichen Rocks, sondern man könnte sagen, dass sie eine neue Musiksprache geschaffen hat, indem sie aktiv östliches Denken und mystische Bilder einführte. Ihre Bemühungen hatten großen Einfluss auf den späteren Metal und Progressive Rock und begründeten eine Linie des „mystischen Hard Rock“, die bis heute anhält.
 
 So gesehen sind Led Zeppelins okkulte Erkundungen und die Einführung östlicher Musikskalen durch Deep Purple und Rainbow beides Elemente, die Hard Rock zu mehr als nur einem Musikgenre, sondern zu einem kulturellen Phänomen gemacht haben.
 
@@ -68,7 +68,7 @@ flowchart LR
 
 </div>
 
-Wie in diesem Diagramm gezeigt, kombiniert Hardrock die Kraft des westlichen Rocks mit Einflüssen aus der östlichen Philosophie und dem Okkultismus. Als Ergebnis haben wir eine „reiche musikalische Grundlage“ geschaffen, die auf die Produktion von Filmsoundtracks und die neueste KI-Musikgeneration angewendet werden kann.
+Wie in diesem Diagramm gezeigt, kombiniert Hardrock die Kraft des westlichen Rocks mit Einflüssen aus östlichem Denken und Okkultismus. Als Ergebnis haben wir eine „reiche musikalische Grundlage“ geschaffen, die auf die Produktion von Filmsoundtracks und die neueste KI-Musikgeneration angewendet werden kann.
 
 ---
 
@@ -95,7 +95,7 @@ Diese Eigenschaften vermitteln dem Hörer ein „außerweltliches Erlebnis“ un
 
 ## Einfluss von Hardrock auf KI-Musik
 
-In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-Musikgenerierung** mithilfe von KI weiter. Die „mystischen Akkordfolgen“ und die „Einführung orientalischer Tonleitern“, die man im Hard Rock findet, können der KI beigebracht werden und geben Hinweise für die Erstellung einzigartiger Songs.
+In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-Musikgenerierung** mithilfe von KI weiter. Die „mystischen Akkordfolgen“ und die „Einführung orientalischer Tonleitern“, die man im Hardrock findet, können der KI beigebracht werden und geben Hinweise für die Erstellung einzigartiger Songs.
 
 ### Tatsächliches Anwendungsbeispiel
 
@@ -123,7 +123,7 @@ A4: Ja. Ideal, um eine kraftvolle und geheimnisvolle Atmosphäre zu schaffen, in
 
 ## Zusammenfassung
 
-Hard Rock ist mehr als nur „Loud Rock“; Es handelt sich um ein einzigartiges kulturelles Phänomen, das eine Verschmelzung von westlichem Machismo und östlichem Mystizismus darstellt. Seine Essenz wird auch heute noch in der Welt der **Soundtrack-Produktion** für Filme und Spiele und der sich ständig weiterentwickelnden Welt der **KI-Musikgenerierung** angewendet. Dadurch können wir das musikalische Erbe der Vergangenheit mit der Technologie der Zukunft verbinden und so neue musikalische Möglichkeiten eröffnen.
+Hard Rock ist mehr als nur „Loud Rock“; Es handelt sich um ein einzigartiges kulturelles Phänomen, das eine Mischung aus westlichem Machismo und östlichem Mystizismus darstellt. Seine Essenz wird auch heute noch in der Welt der **Soundtrack-Produktion** für Filme und Spiele und in der sich ständig weiterentwickelnden Welt der **KI-Musikgenerierung** angewendet. Dadurch können wir das musikalische Erbe der Vergangenheit mit der Technologie der Zukunft verbinden und so neue musikalische Möglichkeiten eröffnen.
 
 
 ---

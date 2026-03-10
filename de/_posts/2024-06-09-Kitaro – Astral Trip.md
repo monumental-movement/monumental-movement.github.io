@@ -15,7 +15,7 @@ title: Kitaro – Astralreise
 ---
 
 
-Kitaro spielte Anfang der 1970er Jahre Keyboard als Mitglied der japanischen Progressive-Rock-Band „Far East Family Band“. Als er Europa besuchte, um mit seiner Band Aufnahmen zu machen, lernte er den deutschen Synthesizer-Spieler Klaus Schulze kennen und entwickelte ein Interesse an Synthesizern.
+Kitaro spielte Anfang der 1970er Jahre Keyboard als Mitglied der japanischen Progressive-Rock-Band „Far East Family Band“. Als er Europa besuchte, um mit seiner Band aufzunehmen, lernte er den deutschen Synthesizer-Spieler Klaus Schulze kennen und interessierte sich für Synthesizer.
 
 Nachdem er die Band 1976 verlassen hatte und durch Asien (China, Laos, Thailand und Indien) gereist war, veröffentlichte Kitaro 1978 sein erstes Soloalbum „Tenkai“.
 

@@ -21,9 +21,9 @@ title: '[Kolumne] Grenzgeschichte von Performancekunst und Musik | Praktiken sei
 
 Text: mmr｜Thema: Eine ausführliche Studie, die die Geschichte nachzeichnet, wie sich Performancekunst und Musik überschnitten und Körper, Zeit und Raum neu definiert haben, und zwar ausschließlich auf der Grundlage von Fakten.
 
-Musik wird seit langem als eine Kombination aus dem Gestaltungsakt der Komposition und dem Reproduktionsakt der Aufführung verstanden. Dort standen Partituren im Mittelpunkt und Ton war lediglich die Umsetzung visualisierter Informationen. Im 20. Jahrhundert geriet diese Annahme jedoch schnell ins Wanken. Stadtlärm aufgrund der Industrialisierung, der Verbreitung der Aufnahmetechnologie und der Ausbreitung der Populärkultur haben den Klang von „einem zu kontrollierenden Objekt“ zu „etwas, das in der Umgebung existiert“ verwandelt.
+Musik wird seit langem als eine Kombination aus dem Gestaltungsakt der Komposition und dem Reproduktionsakt der Aufführung verstanden. Dort standen Partituren im Mittelpunkt und Ton war lediglich die Umsetzung visualisierter Informationen. Im 20. Jahrhundert geriet diese Annahme jedoch schnell ins Wanken. Stadtlärm aufgrund der Industrialisierung, der Verbreitung der Aufnahmetechnologie und der Ausweitung der Populärkultur haben Klang von „einem zu kontrollierenden Objekt“ zu „etwas, das in der Umgebung existiert“ verwandelt.
 
-Gleichzeitig gibt es im Bereich der Kunst eine zunehmende Tendenz, mehr Wert auf den Produktionsprozess und die Handlung selbst zu legen als auf das fertige Objekt. Ereignisse, die außerhalb des Gemäldes oder der Skulptur stattfinden, der Zeitablauf und die Reaktionen des Publikums werden mittlerweile als Teil des Werks erkannt. Auch die Musik hatte mit diesem Trend nichts zu tun.
+Gleichzeitig gibt es im Bereich der Kunst eine wachsende Tendenz, mehr Wert auf den Produktionsprozess und die Handlung selbst zu legen als auf das fertige Objekt. Ereignisse, die außerhalb von Gemälden und Skulpturen stattfinden, der Lauf der Zeit und die Reaktionen des Publikums werden mittlerweile als Teil des Werks erkannt. Auch die Musik hatte mit diesem Trend nichts zu tun.
 
 In diesem Kapitel werden wir den historischen Hintergrund ordnen, der dazu führte, dass Klang über den Rahmen der Musik hinausging und als Handlungen und Situationen neu gedacht wurde, und die Prämissen jedes nachfolgenden Kapitels klären.
 
@@ -46,7 +46,7 @@ color: #fff;
 </style>
 
 
-## Kapitel 1: Futurismus und die Befreiung von Lärm
+## Kapitel 1: Futurismus und die Freisetzung von Lärm
 
 In Italien veränderten zu Beginn des 20. Jahrhunderts die rasche Industrialisierung und Urbanisierung die Sinneswelt der Menschen. Die Geräusche von Dampfmaschinen, Verbrennungsmotoren und Fabriken erfüllten die Stadt mit einem Schalldruck und einer Beständigkeit, die bis dahin in der Musik unvorstellbar waren. Futuristische Künstler betrachteten diesen Wandel eher als Fortschritt denn als Dekadenz und versuchten aktiv, ihn von künstlerischer Seite zu bestätigen.
 
@@ -62,7 +62,7 @@ Schon hier wurde Musik nicht nur als etwas Hörbares, sondern als Gesamtakt auf 
 
 Dada-Aktivitäten haben keinen einheitlichen Stil oder eine einheitliche Technik. Stattdessen wurde ein Misstrauen gegenüber dem bestehenden Wertesystem geteilt. Bei einer Soirée im Cabaret Voltaire verwandelten sich Gedichtlesungen in Rufe, Musik löste sich in Lärm auf und plötzliche körperliche Bewegungen mischten sich ein.
 
-Wichtig ist, dass diese nicht im Voraus streng entworfen wurden. Die Kette der Zufälle, die Stimmung des Darstellers und die Reaktionen des Publikums wurden zu kompositorischen Elementen des Werkes. Musik ist nicht länger ein zu reproduzierendes Objekt, sondern wird als Ad-hoc-Ereignis generiert.
+Wichtig ist, dass diese nicht im Voraus streng entworfen wurden. Die Kette der Zufälle, die Stimmung des Darstellers und die Reaktionen des Publikums wurden zu kompositorischen Elementen des Stücks. Musik ist nicht länger ein zu reproduzierendes Objekt, sondern wird als Ad-hoc-Ereignis generiert.
 
 Diese Haltung wurde später zum Prototyp für offene Strukturen in der improvisierten Musik und Performancekunst.
 
@@ -70,9 +70,9 @@ Diese Haltung wurde später zum Prototyp für offene Strukturen in der improvisi
 
 ---
 
-## Kapitel 3: John Cage und der Wendepunkt der Stille
+## Kapitel 3: John Cage und der Wendepunkt des Schweigens
 
-John Cage stellte grundsätzlich die Prämisse in Frage, dass der Komponist die Hauptperson ist, die Musik komponiert. In „4 Minuten 33 Sekunden“ ist der Darsteller auf der Bühne anwesend, macht aber keine absichtliche Aussprache. Dadurch wird das Publikum gezwungen, auf Umgebungsgeräusche zu achten, die es zuvor ignoriert hat.
+John Cage stellte grundsätzlich die Prämisse in Frage, dass der Komponist das Subjekt der Musik sei. In „4 Minuten 33 Sekunden“ ist der Darsteller auf der Bühne anwesend, macht aber keine absichtliche Aussprache. Dadurch wird das Publikum gezwungen, auf Umgebungsgeräusche zu achten, die es zuvor ignoriert hat.
 
 Diese Struktur verlagerte den Schwerpunkt vom Akt des „Schaffens“ von Musik zum Akt des „Hörens“. Ein Werk entsteht nicht durch seinen klanglichen Inhalt, sondern durch seinen Zeitrahmen und die Art und Weise, wie es die Aufmerksamkeit lenkt.
 
@@ -84,7 +84,7 @@ Diese Idee steht in direktem Zusammenhang mit der späteren Idee des Framings in
 
 ## Kapitel 4: Fluxus und die Musikalisierung alltäglicher Handlungen
 
-Der größte Wendepunkt, den Fluxus darstellte, war der Abbau der besonderen Fähigkeit des „Musikspielens“. Die Event-Partitur wurde als eine Reihe von Anweisungen geschrieben, die von jedem ohne spezielle Ausbildung ausgeführt werden können. Dabei wird Wert auf die Tatsache gelegt, dass die Handlung ausgeführt wird, und nicht auf Genauigkeit oder Vollständigkeit.
+Der größte Wendepunkt, den Fluxus darstellte, war der Abbau der besonderen Fähigkeit des „Musikspielens“. Die Event-Partitur wurde als eine Reihe von Anweisungen geschrieben, die von jedem ohne spezielle Ausbildung ausgeführt werden können. Dabei kommt es eher auf die Tatsache an, dass die Handlung ausgeführt wird, als auf Genauigkeit oder Vollständigkeit.
 
 Beispielsweise weichen Handlungen wie das Stehen über einen bestimmten Zeitraum, das Bewegen eines Gegenstands oder das Öffnen und Schließen eines Deckels völlig von herkömmlichen musikalischen Werturteilen ab. Die subtilen Klänge, die Stille und die visuelle Spannung, die dieser Auftritt erzeugte, fesselten jedoch die Aufmerksamkeit des Publikums stark.
 
@@ -108,7 +108,7 @@ In dieser Struktur ist der Klang eine Erweiterung des Körpers und der Körper w
 
 ## Kapitel 6: Resonanz experimenteller Musik und Performance
 
-Im Bereich der experimentellen Musik wurden neben der akustischen Struktur auch die Kontinuität und der Konzentrationszustand des Aufführungsakts als Teil des Werkes behandelt. Sich über einen längeren Zeitraum wiederholende Phrasen oder Strukturen, die sich nur geringfügig verändern, stellen eine starke Belastung für den Körper des Darstellers dar.
+Im Bereich der experimentellen Musik wurden neben der akustischen Struktur auch die Kontinuität und der Konzentrationszustand des Aufführungsaktes als Teil des Werkes behandelt. Sich über einen längeren Zeitraum wiederholende Phrasen oder Strukturen, die sich nur geringfügig verändern, stellen eine starke Belastung für den Körper des Darstellers dar.
 
 Während das Publikum darauf wartet, dass sich der Klang ändert, achtet es auch auf die Körperhaltung, Atmung und Augenbewegungen des Darstellers. Das Musikerlebnis wandelt sich von einer auditorisch-zentrierten Wertschätzung zu einem Erlebnis des Zeitvertreibs.
 

@@ -47,7 +47,7 @@ color: #fff;
 
 Die 1980er Jahre waren eine Zeit des Übergangs von analog zu digital, und das Vokabular der elektronischen Musik erweiterte sich explosionsartig mit der Verbreitung polyphoner Synthesizer, FM-Klangquellen und des MIDI-Standards. Gleichzeitig schuf die wachsende Bedeutung von Heimvideos, Kabelfernsehen und Filmmusik eine starke Verbindung zwischen Musik und Bildern.
 
-Etwa im Jahr 2010, als die Internet-Sharing-Kultur ausgereifter wurde, begannen frühere Video-, Tonquellen und Designressourcen wieder in Umlauf zu kommen. In diesem Trend war das Klangbild der 1980er Jahre nicht nur nostalgisch, sondern wurde zu einem Objekt, das mit modernem Feingefühl rekonstruiert werden musste. Dreamwave / Chill Synthwave ist als Neuinterpretation entstanden, die sich insbesondere auf das „Szenengedächtnis“ konzentriert.
+Etwa im Jahr 2010, als die Internet-Sharing-Kultur ausgereifter wurde, begannen frühere Video-, Tonquellen und Designressourcen wieder in Umlauf zu kommen. In diesem Trend war das Klangbild der 1980er Jahre nicht nur nostalgisch, sondern wurde zu einem Objekt, das mit modernem Feingefühl rekonstruiert werden musste. Dreamwave / Chill Synthwave ist als Neuinterpretation entstanden, die insbesondere das „szenische Gedächtnis“ in den Mittelpunkt stellt.
 
 > Die hier genannten 1980er Jahre sind eher eine kollektive Erinnerung als eine tatsächliche Ära.
 
@@ -128,7 +128,7 @@ Dies kann sowohl mit Kopfhörern als auch mit Lautsprechern erreicht werden, da 
 | Ende der 2000er | Neubewertung der 80er Jahre durch Internetkultur |
 | Anfang der 2010er Jahre | Unterteilung der von Synthwave abgeleiteten Stile |
 | Mitte der 2010er Jahre | Dreamwave / Chill Synthwave gegründet |
-| 2020er Jahre | Fortschritte bei der Integration von Bildern und Lebensräumen |
+| 2020er | Fortschritte bei der Integration von Bildern und Lebensräumen |
 
 > Die Chronologie zeigt einen kontinuierlichen Fluss kultureller Neuinterpretationen.
 

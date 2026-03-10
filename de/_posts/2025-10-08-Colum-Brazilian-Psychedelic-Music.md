@@ -49,7 +49,7 @@ color: #fff;
 1968 erschien das Compilation-Album **Tropicália: ou Panis et Circencis**. Dies war nicht nur ein Album, es war ein kulturelles Bekenntnis.
 Gilberto Gil, Caetano Veloso, Os Mutuntes, Gal Costa, Nara León und andere nahmen teil und präsentierten eine brasilianische Avantgarde, die Ton, Video und Poesie integriert.
 
-Os Mutantes war besonders innovativ. **Sergio Diaz**s Fuzz-Gitarre, **Rita Lees süßer, aber provokanter Gesang und improvisatorische Geräuschmanipulation waren mit dem britischen Pink Floyd und Soft Machine vergleichbar. Ihr 1970 erschienenes Album A Divina Comédia ou Ando Meio Desligado gilt als klanglicher Wendepunkt in der Geschichte der brasilianischen Musik.
+Os Mutantes war besonders innovativ. **Sergio Diaz**s Fuzz-Gitarre, **Rita Lees süßer, aber provokativer Gesang und improvisatorische Geräuschmanipulation waren mit dem britischen Pink Floyd und Soft Machine vergleichbar. Ihr 1970 erschienenes Album A Divina Comédia ou Ando Meio Desligado gilt als klanglicher Wendepunkt in der Geschichte der brasilianischen Musik.
 
 > „Os Mutantes aßen Steine, schluckten Bossa Nova und spuckten die Zukunft aus.“
 > — Rolling Stone Brasilien (1971)
@@ -91,7 +91,7 @@ Im 21. Jahrhundert haben junge brasilianische Bands ihre „tropische Illusion�
 
 ## Kapitel 5: Live-Rezension – Tropical Trance Experience
 
-Die Show von Boogarins 2018 im Cine Joia in São Paulo war der Moment, in dem der Geist von Tropicália wieder zum Leben erweckt wurde.
+Die Show der Boogarins im Cine Joia in São Paulo im Jahr 2018 war der Moment, in dem der Geist von Tropicália wieder zum Leben erweckt wurde.
 Hinter der Bühne befinden sich bewegte Bilder tropischer Pflanzen, eine Beleuchtung, die ein Gefühl von Feuchtigkeit vermittelt, und ein endloser Gitarrendröhn. Anstatt zu tanzen, „schwebte“ das Publikum und tauchte in den Klang ein.
 
 Die Zugabe von „Lucifernandis“ erzeugte einen chaotischen Sound, der wie das zweite Kommen von Os Mutantes klang, und der Jubel des Publikums erschütterte die Luft.
@@ -135,7 +135,7 @@ flowchart TD
 
 Der Geist von Tropicalia entwickelt sich auch nach einem halben Jahrhundert weiter. Durch die Verschmelzung von digitaler Aufnahme, KI-generierter Musik und bildender Kunst schaffen brasilianische Künstler „neue Halluzinationen“.
 Es ist keine Flucht vor der Realität, sondern eine Rekonstruktion der Realität.
-Die „Tropical Vision“ hallt immer noch irgendwo auf der Welt wider.
+Die „Tropical Vision“ hallt immer noch irgendwo auf der Welt nach.
 
 > „Psychedelia betrachtet die Realität in deinem Kopf.“
 > — Gilberto Gil

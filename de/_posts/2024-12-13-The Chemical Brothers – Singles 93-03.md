@@ -15,7 +15,7 @@ title: The Chemical Brothers – Singles 93-03
 ---
 
 
-„Singles 93–03“ ist ein Best-of-Single-Collection-Album, das an den 10. Jahrestag der Gründung des britischen Duos für elektronische Musik The Chemical Brothers erinnert und 2003 veröffentlicht wurde. Es handelt sich um eine Sammlung von Singles, die von 1993 bis 2003 veröffentlicht wurden. Wird mit einem speziellen Aufkleber geliefert, der nur für die erste Produktion enthalten ist.
+„Singles 93–03“ ist ein Best-of-Single-Sammlungsalbum, das an den 10. Jahrestag der Gründung des britischen Duos für elektronische Musik The Chemical Brothers erinnert und 2003 veröffentlicht wurde. Es handelt sich um eine Sammlung von Singles, die von 1993 bis 2003 veröffentlicht wurden. Wird mit einem speziellen Aufkleber geliefert, der nur für die erste Produktion enthalten ist.
 
 
 #### Trackliste

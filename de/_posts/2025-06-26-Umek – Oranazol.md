@@ -13,7 +13,7 @@ title: Umek – Oranazol
 ---
 
 
-Umek ist ein legendärer DJ in der slowenischen Techno-Welt, der jährlich über 100 Veranstaltungsorte auf der ganzen Welt spielt, von Underground-Clubs in Berlin bis hin zum EDC Las Vegas.
+Umek ist ein legendärer DJ in der slowenischen Techno-Welt, der jährlich an über 100 Veranstaltungsorten auf der ganzen Welt auftritt, von Underground-Clubs in Berlin bis hin zum EDC Las Vegas.
 
 Als Produzent war er an einer Vielzahl von Aktivitäten beteiligt, unter anderem an dem Album „WAT“, das 2003 von der slowenischen postindustriellen, avantgardistischen und experimentellen Musikband Laibach veröffentlicht wurde, die 1980 gegründet wurde, als Slowenien Teil der Sozialistischen Föderativen Republik Jugoslawien war. Seit 2007 betreibt er sein eigenes Techno-Label 1605 Music Therapy.
 

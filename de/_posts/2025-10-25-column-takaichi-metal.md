@@ -22,7 +22,7 @@ title: '[Kolumne] Premierminister Sanae Takaichi und Metal: Eiserner Wille und P
 Text: mmr｜Thema: Eine Politikerin, die Heavy Metal liebt – Sanae Takaichi. Wie hat ihr musikalisches Gespür ihren Worten, Richtlinien und Ideen eine eiserne Resonanz verliehen?
 
 
-Sanae Takaichi wird oft als „konservativ“, „stark gesinnt“ und „kämpferische Frau“ beschrieben. Im Grunde liegt jedoch der Einfluss der Heavy-Metal-Musik, die er in seiner Jugend hörte. Metal ist eine Musik der Leidenschaft und des Aufbaus, eine Kunst, die Leidenschaft in Ordnung bringt. Ihre Schulband spielte Lieder von Black Sabbath und Deep Purple, und sie hört auch gerne Bands wie Judas Priest, und diese Sensibilität bildet das „akustische Grundgerüst“ ihrer politischen Sprache und kulturellen Einstellung.
+Sanae Takaichi wird oft als „konservativ“, „stark gesinnt“ und „kämpferische Frau“ beschrieben. Die Wurzel liegt jedoch in der Wirkung der Heavy-Metal-Musik, die er in jungen Jahren hörte. Metal ist eine Musik der Leidenschaft und des Aufbaus, eine Kunst, die Leidenschaft in Ordnung bringt. Ihre Schulband spielte Lieder von Black Sabbath und Deep Purple, und sie hört auch gerne Bands wie Judas Priest, und diese Sensibilität bildet das „akustische Grundgerüst“ ihrer politischen Sprache und kulturellen Einstellung.
 
 ---
 
@@ -56,7 +56,7 @@ So wie Metal „eine Kunst ist, die Chaos in Ordnung verwandelt“, schwingt Tak
 
 ---
 
-## Kapitel 2: Aufbau einer Stimme – Die Politik der metallischen Stimme
+## Kapitel 2: Aufbau der Stimme – Die Politik der metallischen Stimme
 
 Für Politiker ist ihre „Stimme“ ein Instrument, das ihre Ideen verkörpert. Takaichis Lautäußerung ist bei Politikerinnen besonders leise und stabil. Akustisch basiert es auf dem Mittel-Tief-Bereich (ca. 170–180 Hz) mit geringen Tonhöhenschwankungen, was an die „Steel Control“ bei Metal-Gesang erinnert.
 
@@ -78,7 +78,7 @@ Auf den ersten Blick scheinen konservative Ideologie und Metal ein Widerspruch z
 
 Wie Judas Priest, Musik, die explosive Leidenschaft in einen geordneten Rhythmus einschließt. Das entspricht genau der politischen Haltung von Herrn Takaichi. Obwohl die logische Struktur kalt ist, steckt dahinter eine intensive „Verbrennung“.
 
-**„Im kalten Bau liegt wahre Hitze.“** Dieser Satz gilt sowohl für Metall als auch für Politik. Durch die Person von Sanae Takaichi können wir „eine Politik, die wie Klang lebt“ überdenken.
+**„Im kalten Bau liegt wahre Hitze.“** Dieser Satz gilt sowohl für Metall als auch für Politik. Durch die Figur Sanae Takaichi können wir „Politik, die wie Klang lebt“ überdenken.
 
 ---
 
@@ -121,9 +121,9 @@ Innerhalb dieser Struktur spielt Takaichi mit „dem Intellekt, der die Leidensc
 
 ## Schlusskapitel: Auf dem Weg zu einer Politik, die keine Angst vor Lärm hat
 
-So wie sich Metal durch die Akzeptanz von Lärm weiterentwickelt hat, wird auch die reife Politik stärker, wenn sie „unnatürliche Klänge“ akzeptiert. Die Existenz von Sanae Takaichi symbolisiert die „Akzeptanz von Lärm“ in der japanischen Politik. Der Lärm klingt nicht nach Chaos, sondern nach kreativer Verzerrung.
+So wie sich Metal durch die Akzeptanz von Lärm weiterentwickelt hat, wird auch die reife Politik stärker, wenn sie sich „ungewöhnliche Klänge“ zu eigen macht. Die Existenz von Sanae Takaichi symbolisiert die „Akzeptanz von Lärm“ in der japanischen Politik. Der Lärm klingt nicht nach Chaos, sondern nach kreativer Verzerrung.
 
-„Neue Klänge können nur aus der Stille entstehen.“ Dieser Satz gilt sowohl für Metal als auch für Politik. Durch die Person von Sanae Takaichi können wir „eine Politik, die wie Klang lebt“ überdenken.
+„Neue Klänge können nur aus der Stille entstehen.“ Dieser Satz gilt sowohl für Metal als auch für Politik. Durch die Figur Sanae Takaichi können wir „Politik, die wie Klang lebt“ überdenken.
 
 ---
 
@@ -180,13 +180,13 @@ flowchart LR
 
 | Band | Album | Erscheinungsjahr | Funktionen und Highlights |
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
-| **Black Sabbath** | **Black Sabbath** | 1970 | Ein Werk, das als Geburtsstunde des ersten Heavy Metal der Welt gilt. Die Verdunkelung des Blaus und die Kirchenglocke SE sind symbolisch.            |
-| | **Paranoid** | 1970 | Ein Meisterwerk, das den Prototyp des Metalls begründete. Geschwindigkeit, Geselligkeit und Ernsthaftigkeit existieren alle nebeneinander.    |
-| | **Meister der Realität** | 1971 | Entwicklung tiefer Bässe mit Drop-D-Stimmung. Der Vater des Doom Metal.      |
+| **Schwarzer Sabbath** | **Schwarzer Sabbath** | 1970 | Ein Werk, das als Geburtsstunde des ersten Heavy Metal der Welt gilt. Die Verdunkelung des Blaus und die Kirchenglocke SE sind symbolisch.            |
+| | **Paranoid** | 1970 | Ein Meisterwerk, das den Prototyp des Metalls begründete. Geschwindigkeit, Geselligkeit und Ernsthaftigkeit existieren nebeneinander.    |
+|                   | **Meister der Realität** | 1971 | Der Vater des Doom Metal.      |
 | **Tiefes Lila** | **Deep Purple in Rock** | 1970 | Ein Meisterwerk, das den Grundstein für Hard Rock legte. Eine Mischung aus klassischer kompositorischer Schönheit und explosiver Kraft.                    |
 | | **Feuerball** | 1971 | Aggressiver und experimenteller. Es hat einen starken Tempowechsel und ein Blues-Feeling.                  |
 | | **Maschinenkopf** | 1972 | Ein Maß an Perfektion, das in der Rockgeschichte erhalten bleibt. Das goldene Verhältnis von Riff und Groove.          |
-| **Judas Priester** | **Traurige Flügel des Schicksals** | 1976 | Es entsteht eine Metal-Ästhetik aus Melancholie und Lyrik. Der Prototyp von Twin Leads.                           |
+| **Judas Priester** | **Traurige Flügel des Schicksals** | 1976 | Es entsteht eine Metal-Ästhetik der Melancholie und Lyrik. Der Prototyp von Twin Leads.                           |
 | | **Sünde nach Sünde** | 1977 | Großes Debütwerk. Produziert von Roger Glover (Deep Purple). Eine dramatische Entwicklung. |
 | | **Gefleckte Klasse** | 1978 | Die Anfänge des Speed ​​Metal. Präzises und kaltes Klangbild.          |
 

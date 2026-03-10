@@ -171,7 +171,7 @@ graph TD
 
 ---
 
-## 8. Beispiel einer Musikanalyse
+## 8. Beispiel für eine Musikanalyse
 
 ### 8-1. Aus „Racional“ von Tim Maia
 

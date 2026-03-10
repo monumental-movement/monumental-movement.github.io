@@ -15,7 +15,7 @@ title: '[Kolumne] Das goldene Zeitalter des britischen Techno'
 
 ## Das goldene Zeitalter des britischen Techno: eine Aufzeichnung der Sounds und Kämpfe der 1990er Jahre
 
-Text: mmr｜Thema: UK Techno Culture
+Text: mmr｜Thema: Britische Technokultur
 
 
 <hr>
@@ -94,7 +94,7 @@ Der UK-Techno der 90er hat die folgenden klanglichen Eigenschaften:
 
 - Verinnerlichung sozialer und politischer Botschaften (Einfluss der Rave-Kultur)
 
-Es ist anzumerken, dass im Vereinigten Königreich nicht nur ein stärkeres Bewusstsein für die „Funktionalität“ von Techno bestand, sondern auch für „Ausdruckskraft“ und „Nachdenklichkeit“.
+Es ist anzumerken, dass es im Vereinigten Königreich nicht nur ein stärkeres Bewusstsein für die „Funktionalität“ von Techno gab, sondern auch für „Ausdruckskraft“ und „Nachdenklichkeit“.
 
 
 <hr>

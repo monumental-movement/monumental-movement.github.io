@@ -70,7 +70,7 @@ Auch die Gitarren-, Bass- und Schlagzeugmitglieder waren eng mit der New Yorker 
 
 Die Musik von S.O.A. ist nicht auf Spieltechnik oder Komplexität ausgerichtet. Die meisten Songs dauern etwa eine Minute und es gibt fast keine Einleitungen oder Durchführungselemente. Das Schlagzeug dient eher dazu, den Beat voranzutreiben, als ihn voranzutreiben, und die Gitarre bewegt sich eher an der Grenze zwischen Lärm und Rhythmus als ein Riff.
 
-Diese Musikalität unterscheidet sich von der „Heaviness“ und dem „Groove“ des späteren New Yorker Hardcore und ist den frühen Impulsen des D.C. Hardcore eher ähnlich. Allerdings hat der Sound von S.O.A. eine trockene Spannung, die typisch für das urbane New York ist, und der unmittelbare Ausbruch von Emotionen steht mehr im Vordergrund als die Politik.
+Diese Musikalität unterscheidet sich von der „Heaviness“ und dem „Groove“ des späteren New Yorker Hardcore und ist den frühen Impulsen des D.C. Hardcore eher ähnlich. Der Sound von S.O.A. hat jedoch eine trockene Spannung, die typisch für das urbane New York ist, und das unmittelbare Ausströmen von Emotionen steht mehr im Vordergrund als die Politik.
 
 > Die Lieder von S.O.A. entstehen eher durch Ausschneiden als durch Konstruktion.
 
@@ -112,11 +112,11 @@ Die Band löste sich um 1981 auf. Der Grund für die Auflösung der Gruppe ist e
 ## Fluss abgeleitet von S.O.A
 
 
-Henry Rollins schließt sich Black Flag an, nachdem sich S.O.A. auflöst. Dort erlangte er einen nachhaltigeren und strukturierteren Ausdruck. Andererseits waren Mitglieder der New Yorker Seite und umliegende Persönlichkeiten an der Bildung der Szene beteiligt, die zu Agostic Front und Cro-Mags führte.
+Henry Rollins schließt sich Black Flag an, nachdem sich S.O.A. auflöst. Dort erlangte er einen nachhaltigeren und strukturierteren Ausdruck. Andererseits beteiligten sich Mitglieder der New Yorker Seite und umliegende Persönlichkeiten an der Bildung der Szene, die zu Agostic Front und Cro-Mags führte.
 
 S.O.A selbst wird selten als Vertreter des New Yorker Hardcore erwähnt. Als Aufzeichnung dieser „Niemandsphase“ liefert es jedoch wichtige Hinweise zum Verständnis dessen, was nachfolgende Bands geerbt und was sie verworfen haben.
 
-> S.O.A fungierte eher als Wendepunkt als als Endpunkt.
+> S.O.A fungierte als Wendepunkt, nicht als Endpunkt.
 
 ---
 

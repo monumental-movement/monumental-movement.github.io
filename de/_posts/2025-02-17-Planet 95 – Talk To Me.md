@@ -18,7 +18,7 @@ Planet 95 ist eine Einheit bestehend aus Antonio D'Ambrosio, Claudio Ferrante, P
 „Talk To Me“ ist ein Zwei-CD-Set mit House-Tracks, das 1996 beim Glasgower Label Limbo Records veröffentlicht wurde.
 
 B-Seite ist ein Remix von Cotton Club.
-Der zweite Titel auf der C&D-Seite ist ein Remix von Michael Kilkie, einem in Glasgow ansässigen DJ und Produzenten, der lange Zeit in Schottlands legendärem Tunnel Club lebte.
+Der zweite Titel auf der C&D-Seite ist ein Remix von Michael Kilkie, einem in Glasgow ansässigen DJ und Produzenten, der viele Jahre lang im legendären Tunnel Club in Schottland ansässig war.
 Der erste Titel auf Seite D ist ein Remix des Ingenieurs und Produzenten Andy Haldane von Apollo Studios in Glasgow.
 
 
@@ -34,5 +34,5 @@ D2. Take To Me (Kilkie's Percapella)
 
 [メルカリで購入](https://jp.mercari.com/item/m57495525852?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdffdIZAsm0?si=xualZwnB7fNXKUXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

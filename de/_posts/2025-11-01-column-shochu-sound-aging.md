@@ -18,7 +18,7 @@ title: '[Kolumne] Shochu, gewachsen durch Klang: Die Harmonie der Gärung, die i
 ## Prolog: Auf der Insel des Wellenrauschens und des Shochu
 
 
-Text: mmr｜Thema: Ein an Amami Oshima durchgeführtes Experiment, um die Alterung von Shochu zu fördern, indem man es dazu bringt, Musik zu hören. Entdecken Sie die wissenschaftlichen Grundlagen und den kulturellen Hintergrund
+Text: mmr｜Thema: Ein an Amami Oshima durchgeführtes Experiment, um die Alterung von Shochu zu fördern, indem man es dazu bringt, Musik zu hören. Erkundung der wissenschaftlichen Grundlagen und des kulturellen Hintergrunds
 
 
 Amami Oshima, der äußerste Punkt der Nansei-Inseln.
@@ -61,7 +61,7 @@ Erst zu Beginn des 21. Jahrhunderts entstand die Idee, diesen natürlichen Segen
 
 ---
 
-## Kapitel 2: Geburt des Alkohols, der es Ihnen ermöglicht, Geräuschen zuzuhören
+## Kapitel 2: Geburt des Alkohols, der auf Geräusche hört
 
 ### ● Ursprung der Idee
 Der Auslöser war die „akustische Alterung“ von Wein, die ein Weinbrauer in Tokio beobachtete.
@@ -147,12 +147,12 @@ Dieser Tag naht.
 | Jahre | Veranstaltungen |
 |------|---------|
 | 1600er | Der Zuckerrohranbau beginnt in Amami |
-| 1800er | Die Produktion von lokalem Shochu aus braunem Zucker als Rohstoff beginnt |
+| 1800er | Beginn der Produktion von lokalem Shochu aus braunem Zucker |
 | 1949 | Rückgabe der Amami-Inseln an Japan, Sondergenehmigung für „Braunzucker-Shochu“ |
 | 2005 | Amami Oshimas erster akustisch gealterter Shochu-Test beginnt |
 | 2008 | Universität Kagoshima beginnt mit wissenschaftlicher Forschung zur akustischen Reifung |
 | 2015 | Jede Brauerei entwickelt ihre eigene Musikalterungsmarke |
-| 2020er Jahre | Akustische Alterung wird in Sake-Brauereien in Japan und im Ausland immer beliebter, KI-Steuerungstechnologie wird eingeführt |
+| 2020er | Akustische Alterung wird in Sake-Brauereien in Japan und im Ausland immer beliebter, KI-Steuerungstechnologie wird eingeführt |
 | 2025 | Amami-Shochu mit braunem Zucker in Vorbereitung auf die Bewerbung als immaterielles UNESCO-Kulturerbe |
 
 ---
@@ -286,7 +286,7 @@ E --> E2[南之風酒造<br>🎧 AI音響テスト導入 2024年～]
 
 Die Topographie von Amami erstreckt sich über 160 km von Norden nach Süden und die Luftfeuchtigkeit, Windrichtung und akustischen Eigenschaften der Küste variieren von Region zu Region.
 Ein Lagerhaus mit Blick auf die Tatsugo-Bucht nutzt beispielsweise das Rauschen der Wellen.
-In Berggebieten gelegene Lagerhäuser schaffen eine Reifeumgebung, die den natürlichen Nachhall nutzt.
+Ein Lagerhaus in einer Bergregion nutzt den natürlichen Nachhall, um eine Reifeumgebung zu schaffen.
 
 Akustische Reifung ist nicht nur ein „Gerät“;
 **Dies ist die „Resonanz der Insel“, bei der die Topographie selbst zum Instrument wird**.

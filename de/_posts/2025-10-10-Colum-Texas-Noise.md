@@ -21,7 +21,7 @@ Text: mmr｜Thema: Von Charalambides bis Black Leather Jesus, eine Nachverfolgun
 
 
 Von Ende der 1990er bis Anfang der 2000er Jahre hat sich Noise-Musik in der weiten Landschaft des amerikanischen Südens etabliert.
-Während New York und Los Angeles „Kunststädte“ waren, die in Kunstgalerien und Underground-Clubs Noise-Musik entwickelten, entwickelte Texas seine Grammatik als Ort der geografischen Isolation und des persönlichen Experimentierens.
+Während New York und Los Angeles „Kunststädte“ waren, die Noise-Musik in Kunstgalerien und Underground-Clubs entwickelten, entwickelte Texas seine Grammatik als Ort der geografischen Isolation und des persönlichen Experimentierens.
 
 Houston, Austin und San Antonio – oberflächlich betrachtet mögen diese Städte die „Heimatländer von Country und Blues“ sein, doch hinter den Kulissen wurden in aller Stille **Tape-Collage, Nicht-Musik und Drone** kultiviert.
 

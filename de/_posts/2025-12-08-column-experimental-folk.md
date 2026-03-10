@@ -58,7 +58,7 @@ Schottisches Duo. Einführung östlicher Instrumente, eines mikrotonalen Ansatze
 Es soll die Gruppe sein, die den Prototyp von Psych Folk geschaffen hat.
 
 - **Comus** (1969–)
-Sein 1971 erschienenes Debüt „First Utterance“* spielte im Kontext des britischen Folk, aber
+Sein Debüt „First Utterance“ aus dem Jahr 1971 spielte im Kontext des britischen Folk, aber
 ・Gruseliger Gesang
 ・Dissonante Akustikgitarre
 ・Verrücktes Arrangement für Flöte und Violine
@@ -70,10 +70,10 @@ Obwohl Comus kein kommerzieller Erfolg war, haben die aktuellen 93 und viele and
 
 # 2. 1970er Jahre: Die Entstehung des amerikanischen introspektiven Folk und des Experimentierens
 
-In den Vereinigten Staaten war Psych-Folk nicht so definiert wie im Vereinigten Königreich als kollektive Bewegung, aber die folgenden Trends sind wichtig:
+In Amerika wurde Psych-Folk nicht so als kollektive Bewegung definiert wie in Großbritannien, aber die folgenden Trends sind wichtig:
 
 - **John Fahey und die Genealogie der amerikanischen Primitiven**
-Fingerpicking mit Improvisations-/Drone-/Lärm-Motiven.
+Fingerpicking mit Improvisations-, Drone- und Noise-Motiven.
 Fahey war ein „Folk-Gitarren-Experimentator“ und beeinflusste nachfolgende Künstler stark.
 
 - **Tim Buckleys spätere Werke**

@@ -43,7 +43,7 @@ color: #fff;
 
 ## Kapitel 1 Prämisse der elektronischen Musik vor dem Elektropop
 
-Um die Entstehung elektronischer Pop-Experimente zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
+Um die Entstehung des elektronischen Pop-Experimentsystems zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
 
 ### Kombination von Synthesizer- und Pop-Strukturen
 
@@ -93,11 +93,11 @@ In diesem Umfeld nehmen Musikwerke den Charakter von Aufzeichnungen des Produkti
 
 ## Kapitel 5 Produktionsprozess und visuelle Darstellung in Grimes
 
-Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den Produktionsprozess und den visuellen Ausdruck als untrennbar darstellt.
+Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den Produktionsprozess und den visuellen Ausdruck als untrennbar dargestellt hat.
 
 ### Musikalische Features
 
-* Tondesign mit Schwerpunkt auf digitalen Synthesizern
+* Klangdesign mit Schwerpunkt auf digitalen Synthesizern
 * Koexistenz von Popmelodie und instabiler Struktur
 * Vielschichtige Stimmverarbeitung und unrealistisches Klangbild
 
@@ -107,7 +107,7 @@ Grimes' Produktion zeichnet sich dadurch aus, dass er in seinen Werken bewusst S
 
 ### Visuelle Integration
 
-Die zur Musik präsentierten Visuals dienen nicht dazu, das Weltbild des Liedes zu erklären, sondern vielmehr dazu, die Produktionsidee selbst zu visualisieren.
+Die zur Musik präsentierten Visuals dienen nicht dazu, das Weltbild des Songs zu erklären, sondern vielmehr dazu, die Produktionsphilosophie selbst zu visualisieren.
 
 ---
 
@@ -117,7 +117,7 @@ Carpenter Brut repräsentiert eine andere Richtung im Elektropop-Experiment.
 
 ### Akustische Eigenschaften
 
-* Synthwave-Tondesign
+* Synthwave-Klangdesign
 * Extrem betonter Rhythmus und Verzerrung
 * Koexistenz von Pop-Stil und exzessiver Produktion
 
@@ -198,7 +198,7 @@ Anstatt diese Elemente einfach zu verschmelzen, zeichnet es sich jedoch dadurch 
 Durch die Einbeziehung des Produktionsprozesses und visueller Informationen erleben die Zuhörer gleichzeitig Folgendes:
 
 * Musik hören
-*Vorstellung des Produktionsprozesses
+* Vorstellung des Produktionsprozesses
 * Beobachtung der Schöpferpersönlichkeit
 * Visuelle narrative Interpretation
 

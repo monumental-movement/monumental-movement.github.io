@@ -64,7 +64,7 @@ Das Wesentliche ist, dass die Konstruktion des Rhythmus selbst mit der Videobear
 
 Die 1988 veröffentlichte Filmversion von AKIRA war ein wichtiger Wendepunkt in der Geschichte der Anime-Musik.
 
-Die Geino Yamashiro Gumi, die für die Musik verantwortlich war, sind eine Gruppe, deren Aktivitäten auf der Erforschung ethnischer Musik basieren. Sie schufen ein groß angelegtes Soundsystem, das Shomyo, Gamelan, Schlaginstrumente und elektronische Verarbeitung kombinierte.
+Der Geino Yamashiro Gumi, der für die Musik verantwortlich war, ist eine Gruppe, deren Aktivitäten auf der Erforschung ethnischer Musik basieren und ein groß angelegtes Soundsystem geschaffen haben, das Shomyo, Gamelan, Schlaginstrumente und elektronische Verarbeitung kombiniert.
 Die vielschichtigen Polyrhythmen, die Betonung der Obertöne und der kollektive Chor stellten symbolisch das Chaos der Stadt Neo-Tokio der nahen Zukunft dar.
 
 Im Gegensatz zur herkömmlichen symphonischen Begleitung ist es wichtig, dass der Rhythmus eine Struktur hat, die das Bild „antreibt“.
@@ -77,7 +77,7 @@ Im Gegensatz zur herkömmlichen symphonischen Begleitung ist es wichtig, dass de
 
 Kenji Kawai, der für die Musik von GHOST IN THE SHELL aus dem Jahr 1995 verantwortlich war, kombinierte elektronische Klänge und religiöse Melodien.
 
-Ein polyphoner Refrain, der auf bulgarische Stimmen verweist, ein anorganisches Synthesizer-Pad und ein niederfrequenter Beat.
+Polyphoner Refrain, der sich auf bulgarische Stimmen, anorganische Synthesizer-Pads und niederfrequente Beats bezieht.
 Dies ist ein Beispiel dafür, wie man die Spannung zwischen Körperlichkeit und Mechanik durch Klang zum Ausdruck bringt.
 
 In „Cowboy Bebop“, das 1998 ausgestrahlt wurde, bewegte sich Yoko Kanno frei zwischen Jazz, Big Band, Funk und Electronica.
@@ -192,7 +192,7 @@ I[インダストリアル/EDM] --> J[Cyberpunk: Edgerunners]
 * PSYCHO-PASS-Hauptthema
 * Cyberpunk: Edgerunners fügen Songs ein
 
-Das sind nicht nur beliebte Lieder.
+Dabei handelt es sich nicht nur um beliebte Lieder.
 Dies ist ein Beispiel dafür, wie rhythmische Struktur, Tongestaltung und räumliche Verarbeitung direkt mit dem Tempo und dem Schnittsinn der Geschichte verknüpft sind.
 
 Bei der Animation wird die Videobearbeitung Bild für Bild verwaltet.

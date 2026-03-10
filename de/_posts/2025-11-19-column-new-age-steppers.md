@@ -24,7 +24,7 @@ Text: mmr｜Thema: Über die Geschichte des „gemischten Teams“, das On-U Sou
 Auch wenn die Punk-Explosion Ende der 1970er Jahre in London nachgelassen hatte, war die Gesellschaft immer noch von vielen Spaltungen wie Arbeitslosigkeit, Spaltung, Streiks und Diskriminierung von Einwanderern geplagt. Die Szene wirkte wie eine Einöde, doch ihre Spalten wurden zu einer Brutstätte der Musik.
 Post-Punk-Künstler gingen schnell über das Rockformat hinaus und widmeten sich Dub, Reggae, afrikanischer Percussion, Noise, elektronischen Klängen und DIY-Aufnahmetechniken.
 
-Genau in dieser komplexen Zeit erhob sich ein junger Produzent namens **Adrian Sherwood** und begann mit dem Aufbau des riesigen Netzwerks, das später als **On-U Sound** bekannt wurde.
+Genau in dieser komplexen Zeit erhob sich ein junger Produzent namens **Adrian Sherwood** und begann, das riesige Netzwerk aufzubauen, das später als **On-U Sound** bekannt wurde.
 Und die frühesten „Symbole“ und „Gedanken selbst“ waren nichts anderes als **New-Age-Stepper**.
 
 ---
@@ -133,7 +133,7 @@ Die Teilnahme von Mark Stewart verstärkte die Aufregung.
 
 ## ■ „Foundation Steppers“ (1983)
 
-Es ist der „Reggae-artigeste“ Song als NAS, und das Gefühl eines stabilen Grooves nimmt zu.
+Es ist der Reggae-ähnlicheste Song von NAS, mit einem stabileren Groove-Gefühl.
 Diese Arbeit hat auch starke gesellschaftspolitische Themen.
 
 ## ■ „Liebe für immer“ (2012)
@@ -204,7 +204,7 @@ Auch wenn NAS politische Texte nicht direkt veröffentlichte, war „Musik mache
 Nach „Foundation Steppers“ von 1983 wurden die Arbeiten unter dem Namen NAS eingestellt.
 Aber sein Einfluss breitete sich weit und breit aus.
 
-## ● Betroffener Bereich
+## ● Betroffenes Gebiet
 
 * Bristols Massive Attack, Tricky, Smith & Mighty
 * UK Dub, Digital Dub
@@ -250,7 +250,7 @@ Der Prototyp für die „genreübergreifende Schöpfung“, mit der sich Musiker
 1980 Beginn der Aufnahme von New Age Steppers (Ari Up, Mark Stewart, Roots Radics nehmen teil)
 1981 „New Age Steppers“ erscheint
 1981 erscheint „Action Battlefield“.
-1983 erscheint „Foundation Steppers“.
+1983 „Foundation Steppers“ erscheint
 1984-2000 Die NAS-Aktivitäten wurden praktisch eingestellt
 2010　Ari Up ist verstorben
 2012 „Love Forever“ veröffentlicht (Gedenkwerk inklusive unveröffentlichtem Material)
@@ -295,7 +295,7 @@ Dies ist die Prämisse der Musikproduktion nach dem Internet.
 
 NAS, das diesen Trends in den frühen 1980er Jahren Pionierarbeit leistete, kann als Prototyp der modernen Musik bezeichnet werden.
 
-Ihr Sound war intensiv, rau, schwungvoll, federnd und manchmal destruktiv, aber im Kern ging es um Freiheit.
+Der Sound, den sie hinterließen, war intensiv, rau, schwungvoll, federnd und manchmal destruktiv, aber im Kern ging es darum, frei zu sein.
 Diese Freiheit ist in der Arbeit von On-U Sound und in Underground-Szenen auf der ganzen Welt weiterhin spürbar.
 
 ---

@@ -15,14 +15,14 @@ title: '[Kolumne] DJ Harvey und Plattensammlung: DJ als Körper, der „Sound“
 ---
 
 
-## Prolog: Die mythische DJ-Harvey-Statue
+## Prolog: Der Mythos von DJ Harvey
 
 
 Text: mmr｜Thema: Nicht nur ein DJ, sondern eine Betrachtung des letzten „Schamane“ der analogen Ära
 
 
-DJ Harvey – Wenn man nur diesen Namen hört, werden die Gesichter vieler Clubfreaks schlaff.
-Als Mitbegründer des legendären Londoner Clubs **Tonka Sound System** erlangte er in den 90er Jahren als Resident bei **Ministry of Sound** Berühmtheit, zog in den 2000er Jahren nach **Ibiza** und lebt derzeit in **Los Angeles**.
+Die Gesichter vieler Clubfreaks erschlaffen, wenn sie den Namen von DJ Harvey hören.
+Als Mitbegründer des legendären Londoner Clubs „Tonka Sound System“ erlangte er in den 90er Jahren als Resident des „Ministry of Sound“ Berühmtheit, zog in den 2000er Jahren nach „Ibiza“ und lebt heute in „Los Angeles“.
 
 Harvey sagt. „Aufzeichnungen sind Fragmente meiner Seele. Wenn die Nadel fällt, wohnt Gott dort.“
 Diese Worte sagen uns alles über seine Sicht auf das DJing. Auch im 21. Jahrhundert, wo die Digitalisierung voranschreitet, glaubt er immer noch an „Musik als Substanz“. Dieser Glaube macht DJ Harvey zu einer Legende.
@@ -187,7 +187,7 @@ flowchart TD
 
 ## Abschluss
 
-DJ Harvey spielt die Platten der Vergangenheit als Klänge der Zukunft.
+DJ Harvey spielt Platten aus der Vergangenheit als Klänge der Zukunft.
 Zu diesen Techniken gehört die Magie der Manipulation des **Zeitgeräts** namens Musik.
 Seine Existenz ist keine Wiederbelebung des Analogen im digitalen Zeitalter;
 **Dies ist eine Neudefinition von „lebendiger Musik“ selbst**.
@@ -212,7 +212,7 @@ pie title DJ Harvey's Vinyl Box Composition
 **Erläuterung**:
 Harveys Plattenbox ist ein organisches Archiv, das auf der Mischung verschiedener Genres basiert.
 Bemerkenswert ist, dass „Rock“ und „House“ gleichberechtigt platziert sind.
-Dies symbolisiert die Tatsache, dass er ein DJ ist, der immer nach Stimmung und nicht nach Genre verbindet.
+Dies symbolisiert die Tatsache, dass er ein DJ ist, der sich immer mit Vibes und nicht mit Genres verbindet.
 Der „Oddities“-Slot ist Harveys Geheimwaffe. Wird während der Abend- und Sonnenaufgangseinstellungen aktiviert.
 
 ---

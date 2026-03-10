@@ -15,7 +15,7 @@ title: Londonbeat – Ich habe an dich gedacht
 
 
 Londonbeat ist eine britische Dance-Pop-Band, die Anfang der 1990er Jahre viele Pop- und Dance-Hits produzierte.
-Die Mitglieder sind Jimmy Helms, Jimmy Chambers und Charles Pierrer.
+Mitglieder sind Jimmy Helms, Jimmy Chambers und Charles Pierrer.
 
 „I've Been Thinking About You“ ist ihr Signature-Song und erreichte 1991 Platz 1 der Billboard Hot 100- und Hot Dance Music/Club Play-Charts.
 

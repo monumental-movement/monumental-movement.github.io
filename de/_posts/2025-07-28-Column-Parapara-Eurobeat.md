@@ -46,7 +46,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 <hr>
 
-### Was ist Parapara? ──Die Freude an der einheitlichen Wiederholung
+### Was ist Parapara? ──Vergnügen an gleichförmiger Wiederholung
 ● Herkunft von Parapara
 
 - Trat Ende der 1980er Jahre in Diskotheken in Roppongi und Shibuya, Tokio auf (Maharaja, Juliana Tokyo usw.)
@@ -65,7 +65,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - Klare Melodie-/Refrain-Struktur → Einfache Erstellung von Tanz-Choreografien
 
-- Dramatische Songentwicklung → Passt zur Spannung des Swings
+- Dramatische Songentwicklung → Passend zum Höhepunkt des Swings
 
 
 <hr>
@@ -96,7 +96,7 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 - Vertrieb von Choreografie-Videos (VHS, später DVD)
 
-- Es erscheinen auch Serien wie „Parapara Paradise“ und „Parapara Kyonen“.
+- Serien wie „Parapara Paradise“ und „Parapara Kyonen“ sind ebenfalls erhältlich.
 
 ● Medienproduktion
 

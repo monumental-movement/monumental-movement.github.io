@@ -47,7 +47,7 @@ Als Pan Sonic Anfang der 90er Jahre in Finnland gegründet wurde, war die elektr
 Mika Vainio war ursprünglich im Industrial/Noise-Genre aktiv und wandte sich Anfang der 1990er Jahre elektrischen Klangexperimenten zu. Auch Ilpo Vaisanen bewegte sich zwischen den Bereichen DIY-Elektronik und Performance-Kunst.
 
 ### Debüt unter dem Namen Panasonic
-Um 1993 begannen die beiden unter dem Namen **Panasonic** zusammenzuarbeiten und brachten 1994 ihre erste Klangquelle heraus. Ein Großteil der Ausrüstung bestand aus modifizierten analogen Schaltkreisen, Rückkopplungssystemen und Oszillatoren, und die Hauptkomponente waren physikalische elektronische Schwingungen, die sich völlig von bestehenden Formen der Clubmusik unterschieden.
+Etwa 1993 begannen die beiden unter dem Namen **Panasonic** zusammenzuarbeiten und brachten 1994 ihre erste Klangquelle heraus. Ein Großteil der Ausrüstung bestand aus modifizierten analogen Schaltkreisen, Rückkopplungssystemen und Oszillatoren, und die Hauptkomponente waren „physikalische elektronische Schwingungen“, die sich völlig von bestehenden Formen der Clubmusik unterschieden.
 In der damaligen Musikszene gab es nur wenige, die den elektroakustischen Minimalismus in so reiner Form präsentierten.
 
 ### Namensproblem mit Matsushita Electric
@@ -145,7 +145,7 @@ Mika Vainio hat zahlreiche Werke unter dem Solonamen Ø (Zero) veröffentlicht. 
 
 ---
 
-# 6. Aussetzung und Ende der Aktivitäten und was zurückbleibt
+# 6. Aussetzung und Ende der Aktivitäten, was zurückbleibt
 
 Um 2010 legte Pan Sonic eine Pause ein und Mika Vainio verstarb 2017.
 Damit endeten die Aktivitäten von Pan Sonic, doch die verbleibenden Werke beeinflussen weiterhin elektronische Musiker auf der ganzen Welt.

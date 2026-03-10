@@ -71,14 +71,14 @@ Diese Musik „beschreibt“ nicht die Natur. Dies ist ein Akt, um zu bekräftig
 
 ---
 
-## Symbolik von Instrumentensystemen und Materialien
+## Symbolik von Instrumentierung und Materialien
 
 
 Die verwendeten Instrumente werden aus Materialien hergestellt, die aus der Umgebung stammen. Die Hauptmaterialien sind Holz, Bambus, Knochen, Samen, Muscheln und Ton, jedes mit spezifischer Symbolik.
 
 Die Flöte ist eines der wichtigsten Musikinstrumente und soll oft die Stimmen mythischer Wesen oder Vorfahren wiedergeben. Taiko-Trommeln dienen als Grundlage für Tänze und Märsche und dienen der Vereinheitlichung der Bewegung der Gemeinschaft. Shaker werden mit Regen und Fruchtbarkeit in Verbindung gebracht und sind ein wesentlicher Bestandteil von Ritualen.
 
-Bei einigen Instrumenten ist es möglicherweise nicht einmal möglich, sie zu sehen; Nur der Ton ist erlaubt. Musik hat eine Bedeutung in einem Bereich, der über visuelle Informationen hinausgeht.
+Bei einigen Instrumenten ist es möglicherweise nicht einmal möglich, sie zu sehen. nur der Ton ist erlaubt. Musik hat eine Bedeutung, die über visuelle Informationen hinausgeht.
 
 >Der Klang von Musikinstrumenten selbst wurde als Manifestation spiritueller Wesen angesehen.
 

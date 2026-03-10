@@ -9,7 +9,7 @@ permalink: /de/cross-my-heart-the-reason-i-failed-history/
 tags:
 - Rock
 - Emo
-title: Cross My Heart – Der Grund, warum ich in der Geschichte versagt habe
+title: Cross My Heart – Der Grund, warum ich versagt habe. Geschichte
 ---
 
 
