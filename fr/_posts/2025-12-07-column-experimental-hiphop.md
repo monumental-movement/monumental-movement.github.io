@@ -123,7 +123,7 @@ Ceux-ci ont créé le terrain musical qui a directement conduit aux Shabazz Pala
 
 ---
 
-Shabazz Palaces a été lancé vers 2009, dirigé par Ishmael Butler (anciennement de Digable Planets).
+Shabazz Palaces a été créé vers 2009, dirigé par Ishmael Butler (anciennement de Digable Planets).
 
 ### Caractéristiques
 - Une combinaison de percussions ouest-africaines, de psychédélisme, de son ambiant et expérimental.
@@ -156,8 +156,8 @@ Au cœur du hip-hop expérimental depuis les années 2000 se trouve la « réinv
 ## 6. Culture du sample : de l'analogique au numérique
 
 ### ● Années 1990-2000 : culture MPC
-- MPC2000/2000XL est le grand public.
-- L'accent est mis sur la « culture hachée », dans laquelle des échantillons analogiques sont découpés en petits morceaux et reconstruits.
+- MPC2000/2000XL est courant.
+- L'accent est mis sur la « culture hachée », dans laquelle des échantillons analogiques sont découpés en petits morceaux et reconstruits.
 -Madlib et J Dilla sont des exemples représentatifs.
 
 ### ● Fin des années 2000 : accélération de l'introduction des DAW
@@ -191,9 +191,9 @@ Cela a donné naissance à une tendance axée sur la texture.
 
 ---
 
-- Poésie/langage philosophique.
+- Poésie/usage philosophique.
 - Beats cross jazz/abstrait/lo-fi.
-- Haute densité et abstraction des mots.
+- La densité et l'abstraction des mots sont élevées.
 
 ---
 
@@ -272,6 +272,6 @@ flowchart TD
 Le hip hop expérimental/abstrait n'est pas seulement un genre dérivé du hip hop, mais un projet intellectuel qui déconstruit les structures rythmiques, les récits, la culture des échantillons et les approches de la musique électronique, et se poursuit encore aujourd'hui.
 
 La musique électronique multicouche de Flying Lotus, la poésie rap abstraite lancée par Shabazz Palaces, le swing non linéaire de J Dilla, les expériences noise de Clipping.
-Ils continuent de fonctionner aujourd'hui comme un « laboratoire pour l'avenir du hip-hop ».
+Ils continuent de fonctionner comme des « laboratoires pour l’avenir du hip-hop ».
 
 ---

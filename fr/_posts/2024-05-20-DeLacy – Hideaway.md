@@ -16,7 +16,7 @@ title: De'Lacy – Refuge
 
 De'Lacy est un groupe de house music américain des années 1990. Les membres sont De'Lacy Davis, Gary Griffin, Glen Branch et Rainie Lassiter. "Hideaway" est la chanson signature de De'Lacy.
 
-Le remix de la face A est réalisé par l'artiste irano-américain Ali Shirazinia (alias Dubfire) et le duo électro de Sharam, Deep Dish.
+Le remix de la face A est réalisé par l'artiste irano-américain Ali Shirazinia, également connu sous le nom de Dubfire, et le duo électro de Sharam, Deep Dish.
 
 #### Liste des chansons
 ```md

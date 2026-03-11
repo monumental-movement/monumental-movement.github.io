@@ -13,7 +13,7 @@ title: Key Largo – Cha Cha Cha
 ---
 
 
-Morceau Italo-Disco sorti en 1986, version japonaise.
+1986年にリリースされたItalo-Discoトラック、日本盤。
 
 #### Liste des chansons
 ```md

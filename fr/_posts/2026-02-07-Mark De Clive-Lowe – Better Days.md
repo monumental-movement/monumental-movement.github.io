@@ -10,18 +10,18 @@ tags:
 - Future Jazz
 - Deep House
 - 00s
-title: Mark De Clive-Lowe – Better Days
+title: Mark De Clive-Lowe – Des jours meilleurs
 ---
 
 
 
-Mark De Clive-Lowe は、現在日本を拠点に活動する日系ニュージーランド人ミュージシャン／作曲家／DJ／プロデューサー。オルタナティブジャズ、エレクトロニカ、ブロークンビーツなどを融合させたスタイルが特徴。
+Mark De Clive-Lowe est un musicien/compositeur/DJ/producteur japonais-néo-zélandais actuellement basé au Japon. Son style est une fusion de jazz alternatif, d'électro et de beats brisés.
 
-「Better Days」は、2000年にUKのレーベルPeople からリリースされたFuture Jazz／Deep Houseトラック。
+"Better Days" est un morceau Future Jazz/Deep House sorti par le label britannique People en 2000.
 
-A1＆A２：Chip Matthews（Bass ）、Nick Gaffaney（Drums）、Kim Paterson（Trumpet）、Thomas Stowers（Vocals）
+A1 & A2 : Chip Matthews (basse), Nick Gaffaney (batterie), Kim Paterson (trompette), Thomas Stowers (chant)
 
-B： Nick Gaffaney（Drums）、Andre Upston（Mixed）、Kim Paterson（Trumpet）
+B : Nick Gaffaney (batterie), Andre Upston (mixte), Kim Paterson (trompette)
 
 #### Liste des chansons
 ```md

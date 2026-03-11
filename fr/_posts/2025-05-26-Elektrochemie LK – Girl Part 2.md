@@ -15,7 +15,7 @@ title: Elektrochimie LK – Fille ! Partie 2
 ---
 
 
-Elektrochemie LK est le pseudonyme du DJ Thomas Schumacher, un musicien techno allemand actif depuis les années 90.
+Elektrochemie LK est le pseudonyme du DJ Thomas Schumacher, un musicien techno allemand actif depuis les années 1990.
 
 "Girl! / Part 2" est un morceau techno-électro sorti en 2001 par le label allemand Leaded.
 

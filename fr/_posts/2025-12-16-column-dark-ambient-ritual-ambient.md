@@ -18,7 +18,7 @@ title: '[Chronique] Ambiance sombre / Ambiance rituelle'
 
 ## 1. Redéfinir la notion de genre
 
-Texte : mmr｜Thème : Formation d'une expérience immersive à travers l'acoustique, l'espace et la structure rituelle
+Texte : mmr｜Thème : Formation d'une expérience immersive à travers le son, l'espace et la structure rituelle
 
 Dark Ambient n'est pas une extension sémantique de la musique ambiante, mais une expression sonore créée en réduisant intentionnellement des éléments musicaux.
 
@@ -29,7 +29,7 @@ Les éléments d’identification de la musique, tels que la mesure, la mélodie
 * Réverbération spatiale
 *Source sonore inconnue
 
-Ritual Ambient se distingue par le fait qu'il utilise cette méthode de type Dark Ambient tout en introduisant une « structure progressive » claire. Le ritualisme s'établit non pas à travers des symboles, mais à travers l'agencement des sons et la conception de leur durée.
+Ritual Ambient se distingue par le fait qu'il utilise cette méthode de type Dark Ambient tout en introduisant une « structure progressive » claire. Le ritualisme ne s’établit pas à travers des symboles, mais à travers l’agencement des sons et la conception de leur durée.
 
 
 ---
@@ -54,7 +54,7 @@ De la fin des années 1970 aux années 1980, les gens autour de la musique indus
 
 * Utilisation de sons d'usine, de sons médicaux et de sons environnementaux
 * Conception de fréquence en gardant à l'esprit l'inconfort
-* Refus de répéter ou de développer
+* Refus de répéter ou d'élargir
 
 Ces tentatives ont abouti à une « musique qui ne peut pas être entendue » et ont jeté les bases du son immersif auquel aspirait plus tard Dark Ambient.
 
@@ -121,7 +121,7 @@ Ritual Ambient combine les éléments suivants :
 
 Raison d’être a établi Ritual Ambient comme un « système » plutôt que comme une œuvre individuelle.
 
-Sa production se distingue par le fait qu'il transforme des thèmes religieux en structures sonores plutôt que de les exprimer émotionnellement.
+Sa production se distingue par le fait que plutôt que d'exprimer des thèmes religieux avec émotion, il les transforme en structures sonores.
 
 ---
 

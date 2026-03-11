@@ -17,7 +17,7 @@ Bruno Pronsato (Steven Ford) est un DJ/producteur américain vivant à Berlin.
 
 "Wuorinen / Live In Cascadia" est sorti en 2005 par Orac Records, un label basé à Seattle qui publie de la techno expérimentale à minimale pour les pistes de danse.
 
-Le deuxième morceau de la face A est un remix de Michel Baumann, un DJ/producteur basé à Stuttgart, en Allemagne.
+Le deuxième morceau de la face A est un remix de Michel Baumann, DJ/producteur basé à Stuttgart, en Allemagne.
 
 #### Liste des chansons
 ```md

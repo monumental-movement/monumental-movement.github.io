@@ -21,7 +21,7 @@ title: '[Chronique] Quatre Allemagnes, quatre technos — réverbérations mural
 Texte : mmr | Thème : Si vous regardez l'Allemagne en la divisant en quatre zones métropolitaines, vous verrez que la techno n'est pas seulement de la musique, mais une « carte culturelle » qui fait écho aux souvenirs géographiques et historiques.
   
 Novembre 1989. De l'autre côté du béton en ruine, quelqu'un a sorti un haut-parleur et a fait exploser un rythme. À ce moment-là, le pays allemand entamait une **reconstruction rythmique** avant la « réunification ».
-Usines abandonnées, entrepôts vides, tunnels souterrains : les sons qui y circulent ne sont pas des copies des sons britanniques et américains. **« Fabriqué après le mur »**. Ce n’était pas une musique pour traverser les frontières, mais une musique née sur le site de la frontière.
+Usines abandonnées, entrepôts vides, tunnels souterrains : les sons qui y circulent ne sont pas des copies des sons britanniques et américains. **« Fabriqué d'après le mur »**. Ce n’était pas une musique pour traverser les frontières, mais une musique née sur le site de la frontière.
 
 ---
 
@@ -146,7 +146,7 @@ La techno était une prière, un autre battement de cœur derrière l’économi
 Dial Records, Pantha du Prince, Lawrence.
 La techno du Nord est pleine de **solitude et de poésie**.
 Une mélancolie introspective, aux antipodes du Berlin scintillant.
-Pas « de la musique pour danser », mais des « rythmes pour réfléchir ».
+Pas de « musique pour danser », mais des « rythmes pour réfléchir ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8KylRW2SNc?si=cgZ8SEtZQIceTH6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -154,7 +154,7 @@ Pas « de la musique pour danser », mais des « rythmes pour réfléchir ».
 
 ### 4-2. Scène locale dans l'est de Leipzig
 
-L’esprit DIY qui perdure depuis l’ère est-allemande est bien vivant dans les sous-sols de cette ville.
+L’esprit DIY qui remonte à l’époque est-allemande est bien vivant dans les sous-sols de cette ville.
 Transformer un bâtiment abandonné en club et produire du son à l'aide d'un système fait maison.
 Ce qui existe là-bas, c'est de la **techno en tant que communauté**, sans rapport avec la commercialisation.
 Pour eux, la musique est à la fois politique et quotidienne.
@@ -188,7 +188,7 @@ La techno allemande continue de rythmer les villes et les corps.
 
 ## Dernier chapitre « Country » dans une boucle infinie
 
-La techno est une « caractéristique rythmique nationale » qui perdure même après avoir traversé les frontières nationales.
+La techno est une « caractéristique rythmique nationale » qui persiste même après avoir traversé les frontières nationales.
 Plus de 30 ans se sont écoulés depuis la chute du mur de Berlin.
 L’Allemagne est devenue un pays unifié par le son et non par la politique.
 Et son cœur bat toujours à 4/4.

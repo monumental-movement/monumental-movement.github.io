@@ -153,7 +153,7 @@ Basse : ███ ███ ███ ███
 Synthétique : ░█°°██°°█°°██°°
 Son de voiture : ▒▒▒▒▒▒→ Son de dérive RX-7 </div>
 
-### Nuit de feu (Niko)
+### Nuit de Feu (Niko)
 
 <div class="oscilloscope"> 
 Coup de pied : ▮---▮---▮---▮---
@@ -216,7 +216,7 @@ Dérive : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (bruit de glisse
 | Culture du club | Parapara, Velfarre | Directement connecté à Avex Eurobeat |
 | Culture Internet | Mèmes de déjà vu | Ré-explosion sur YouTube/TikTok |
 | Culture du jeu | Étape initiale D Arcade, Gran Turismo | Eurobeat devient une BGM standard |
-| Compétition de drift | Grand Prix D1, Formule Drift | La culture du cavalier devient internationale et coexiste avec l'EDM dans BGM |
+| Compétition de dérive | Grand Prix D1, Formule Drift | La culture du cavalier devient internationale et coexiste avec l'EDM dans BGM |
 
 ---
 

@@ -42,7 +42,7 @@ color: #fff;
 
 ### 2. Science de la structure - Période Elaenia (2015)
 Son premier album « Elaenia » marque un tournant dans la réorganisation scientifique du contexte du jazz ambiant.
-Le son est une combinaison de formes d'onde de synthétiseur modulaire, d'harmoniques de Rhodes et de réverbérations de cordes superposées pour créer un dialogue de fréquence.
+Le son se compose de formes d'onde de synthétiseur modulaire, d'harmoniques Rhodes et de réverbérations de cordes superposées pour créer un dialogue de fréquence.
 Ce dialogue s'apparente davantage à une « résonance en tant que phénomène physique » comme l'interférence des ondes qu'à une improvisation.
 
 > « Silhouettes (I, II & III) » est une expérience sonore de 10 minutes,

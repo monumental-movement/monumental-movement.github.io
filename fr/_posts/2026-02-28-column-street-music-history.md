@@ -52,7 +52,7 @@ color: #fff;
 
 ## Histoire
 
-### 1. Fin du 19ème siècle : urbanisation et divertissement de rue
+### 1. Fin du 19e siècle : urbanisation et divertissement de rue
 
 L'urbanisation rapide a progressé à la fin du 19e siècle
 À la Nouvelle-Orléans, fanfares, musique funéraire et blues original se mélangeaient dans les rues. Les célébrations et les défilés de la communauté noire ont eu une influence décisive sur la formation ultérieure du jazz.

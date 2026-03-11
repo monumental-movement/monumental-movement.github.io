@@ -18,7 +18,7 @@ title: '[Chronique] Pourquoi le hip-hop Lo-Fi est devenu un standard pour étudi
 
 
 
-## Qu'est-ce que le hip hop Lo-Fi ?
+## Qu'est-ce que le hip-hop Lo-Fi ?
 
 Texte : mmr｜Thème : Examiner le contexte historique du hip-hop Lo-Fi devenu mondialement soutenu en tant que « musique de fond pour étudier et travailler » et la structure de sa popularité.
 
@@ -88,13 +88,13 @@ Producteur basé à Tokyo. En fusionnant jazz et hip-hop, ils présentent un son
 
 Connu pour ses textures lo-fi et ses rythmes expérimentaux. Même si elles ne relèvent pas directement du genre Lo-Fi, les influences sont évoquées dans le contexte de l'esprit DIY.
 
-### Battements de tomp
+### Battements de tomppa
 
 Représentant de la génération SoundCloud des années 2010. Il a gagné en popularité en raison de sa structure en boucle courte et de sa texture nostalgique.
 
 ### Idéalisme
 
-Leurs rythmes Lo-Fi mélodiques basés sur le piano ont élargi leur soutien à l'ère du streaming.
+Leurs rythmes Lo-Fi mélodieux basés sur le piano ont élargi leur soutien à l'ère du streaming.
 
 > Les artistes majeurs partageaient une attitude consistant à mettre l'accent sur l'esthétique de la production plutôt que sur le commercialisme.
 
@@ -107,7 +107,7 @@ Leurs rythmes Lo-Fi mélodiques basés sur le piano ont élargi leur soutien à 
 *Toppabeats « Monday Loop »
 * Idéalisme "Chutes de neige"
 
-Ces chansons partagent la caractéristique d’éviter les développements complexes et de présenter la texture et l’atmosphère dans de courtes boucles. Les changements de volume sont faibles et il n'y a pas de paroles, il est donc difficile de se distraire.
+Ces chansons partagent la caractéristique d’éviter les développements complexes et de présenter la texture et l’atmosphère dans de courtes boucles. Les changements de volume sont faibles et il n'y a pas de paroles, donc cela ne vous distrait pas.
 
 <div class="mermaid">
 flowchart LR

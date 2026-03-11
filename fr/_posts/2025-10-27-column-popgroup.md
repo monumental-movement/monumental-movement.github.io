@@ -19,7 +19,7 @@ title: '[Chronique] The Pop Group - Le son rebelle et le background historique n
 ## Prologue : Les germes d'une explosion dont l'époque est enceinte
 
 
-Texte : mmr | Thème : Un mouvement musical rebelle qui a explosé à Bristol, en Angleterre, à la fin des années 1970 - retraçant l'intersection de la politique et de l'art joué par The Pop Group, et son impact ainsi que le contexte historique.
+Texte : mmr | Thème : Un mouvement musical rebelle qui a explosé à Bristol, en Angleterre, à la fin des années 1970 – retraçant l'intersection de la politique et de l'art joué par The Pop Group, et son impact ainsi que le contexte historique.
 
 En 1978, un groupe inhabituel apparaît dans la ville portuaire de Bristol, dans le sud-ouest de l'Angleterre.
 Son nom est **The Pop Group**.
@@ -58,7 +58,7 @@ Une « déconnexion entre l'État et la rue » est devenue la norme.
 
 En tant que ville portuaire, Bristol avait une culture **reggae et dub** enracinée en raison des immigrants jamaïcains.
 Le rythme, le centre de gravité bas de la basse et l'esprit de rébellion,
-Cela a également imprégné la jeunesse du rocher blanc.
+Cela a également imprégné la jeunesse de White Rock.
 
 C’est dans ce mélange culturel que les jeunes de The Pop Group ont grandi.
 À l’école, il écoutait du punk et du funk, et le soir, il fréquentait les sound-systems des quartiers d’immigrés.
@@ -120,7 +120,7 @@ L’influence de The Pop Group est gravée dans chacun d’eux.
 
 ---
 
-## Chapitre 5 : Réévaluation et renouveau au 21ème siècle
+## Chapitre 5 : Réévaluation et renouveau au 21e siècle
 
 Le groupe Pop est depuis longtemps une figure culte.
 Depuis les années 2000, il a été réévalué dans le contexte du revival post-punk.
@@ -156,7 +156,7 @@ Autrement dit, **``L'éthique du Pop Group'' = résistance sonore**.
 ## Conclusion : Pensées explosives, politique silencieuse
 
 Le groupe Pop
-Il a posé les questions : « Qu'est-ce que la musique ? » et « Que peut faire l'art en matière de politique ? »
+Il a posé les questions : « Qu'est-ce que la musique ? » et « Que peut faire l'art sur la politique ? »
 Leur son continue de refuser de répondre à cette question.
 
 Ce qu’ils ont laissé derrière eux n’était pas une réponse mais la question elle-même.

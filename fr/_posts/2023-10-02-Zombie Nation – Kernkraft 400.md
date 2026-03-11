@@ -13,7 +13,7 @@ title: Nation Zombie – Kernkraft 400
 ---
 
 
-"Kernkraft 400" (allemand : Kernkraft 400) est une chanson du groupe techno allemand Zombie Nation, et est le premier single de leur album "Leichenschmaus". Sorti en 1999, il a culminé au numéro 22 en Allemagne en février 2000. Il a atteint le top 10 en Belgique et aux Pays-Bas, et a fait ses débuts au numéro 2 au Royaume-Uni, se vendant à plus de 400 000 exemplaires et recevant une certification disque d'or de la British Recording Industry Association.
+Type : Kernkraft 400) Il s'agit d'une Leichenschmaus. Sorti en 1999, il a atteint la 22e place en Allemagne en février. 2000. Année 2000. Année 10, 2000.その後40万枚以上を売り上げて英国レコード産業協会からゴールドディスク認定を受けた。
 
 La chanson est largement utilisée comme chanson d'encouragement dans les stades sportifs du monde entier (baseball, basket-ball, football américain, hockey sur glace, etc.) et a été classée 8e sur la liste des 10 meilleurs hymnes de stade de Sports Illustrated en 2014. Au Japon, il est devenu largement connu après que le lanceur des Yokohama DeNA BayStars, Yasuaki Yamazaki, l'ait utilisé comme chanson lorsqu'il a pris le monticule, et parce que Rui Hachimura, de l'équipe nationale japonaise de basket-ball, soutenait la célèbre équipe de l'université de Gonzaga, dont il était membre à l'époque.
 

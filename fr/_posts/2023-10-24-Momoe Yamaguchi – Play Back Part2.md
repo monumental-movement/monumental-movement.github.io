@@ -10,17 +10,17 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: Momoe Yamaguchi – Lecture, partie 2
+title: 山口百恵 – プレイバックPart2
 ---
 
 
-"Momoe Yamaguchi – Playback Part 2" est sorti en 1978.
+「山口百恵 – プレイバックPart2」は、1978年にリリースされました。
 
-Arrangement : Mitsuo Hagita
+アレンジ：萩田光雄
 
-Paroles : Yoko Aki
+歌詞：阿木燿子
 
-Compositeur : Ryudo Uzaki
+作曲：宇崎竜童
 
 #### Liste des chansons
 ```md

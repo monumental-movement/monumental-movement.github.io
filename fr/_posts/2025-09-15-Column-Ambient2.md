@@ -256,7 +256,7 @@ color: #fff;
 | années 1960 | Synthétiseur modulaire Moog | Le premier synthétiseur modulaire disponible dans le commerce au monde. Utilisé pour générer des sons soutenus et des drones. |
 | années 1970 | EMS VCS3 / Synthi A | Utilisé par Brian Eno et d'autres. Traitement du son compact mais polyvalent. |
 | années 1970 | Magnétophone Revox | Traitement du son ambiant avec boucle de bande et système flipback. |
-| années 1980 | YamahaDX7 | Son transparent provenant d'une source sonore FM. Un symbole de l'ambiance des années 80. |
+| années 1980 | YamahaDX7 | Son transparent de la source sonore FM. Un symbole de l'ambiance des années 80. |
 | années 1980 | Roland Juno-60 | Ton de corde chaud adapté à l'espace méditatif. |
 | années 1980 | Fairlight CMI | Échantillonneur coûteux. Introduire des sons naturels et des effets sonores dans la musique ambiante. |
 | années 1990 | Akai S1000/S3000 | Un échantillonneur classique prenant en charge la musique ambiante de club. |

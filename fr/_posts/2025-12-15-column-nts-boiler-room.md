@@ -42,13 +42,13 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 Création de la culture de la radio et de la radiodiffusion NTS
+## Chapitre 1 : Création de la culture de la radio NTS et de la radiodiffusion
 
 NTS Radio est une radio internet basée à Londres qui diffuse des programmes DJ et des performances live 24h/24. Le contenu diffusé est très varié, comprenant de la musique de club, de la musique expérimentale, de la musique folk et des performances d'improvisation.
 
 Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre particulier dans la programmation des programmes. Les artistes disposent de droits de conservation programme par programme et sont autorisés à inclure non seulement des sets de DJ, mais également des enregistrements sur le terrain, des sources sonores inédites et des performances en direct.
 
-> "La diffusion en direct sur NTS a été positionnée comme un acte de partage du processus de sélection et d'interprétation des chansons lui-même, plutôt que comme une présentation de l'œuvre terminée."
+> "La diffusion en direct sur NTS a été positionnée comme un acte de partage du processus de sélection et d'interprétation des chansons lui-même, plutôt que comme la présentation d'œuvres terminées."
 
 ---
 
@@ -56,7 +56,7 @@ Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre 
 
 Boiler Room a commencé comme un projet visant à diffuser de petits événements DJ en salle à Londres. La caméra pénètre dans le même espace que le DJ et se caractérise par un format qui inclut la présence du public.
 
-Ce format diffère de l'enregistrement vidéo traditionnel dans lequel une caméra est installée derrière la cabine du DJ et présente une structure dans laquelle le public, l'espace et les interprètes sont tous dans le même cadre. En conséquence, la performance des DJ a été visualisée comme une expression qui inclut « un comportement physique et social » plutôt que comme un acte « uniquement sonore ».
+Ce format diffère de l'enregistrement vidéo traditionnel, où une caméra est placée derrière la cabine du DJ, dans le sens où le public, l'espace et les artistes sont tous dans le même cadre. En conséquence, la performance des DJ a été visualisée comme une expression qui inclut « un comportement physique et social » plutôt que comme un acte « uniquement sonore ».
 
 ---
 
@@ -178,7 +178,7 @@ Il s’agit davantage du résultat d’une évolution des conditions d’écoute
 
 Les DJ de NTS et Boiler Room ne sont pas de simples sélecteurs de musique. Il joue plusieurs rôles en tant que gestionnaire de sources sonores, monteur, improvisateur et conteur.
 
-Sur NTS notamment, les DJ créent des archives musicales en poursuivant leurs programmes sur de longues périodes. L’accumulation fonctionne comme une histoire musicale personnelle.
+Sur NTS notamment, les DJ créent des archives musicales en poursuivant leurs programmes sur de longues périodes. Cette accumulation fonctionne comme l’histoire musicale d’un individu.
 
 > "Les DJ sets sont des enregistrements fragmentaires d'une histoire personnelle"
 
@@ -186,7 +186,7 @@ Sur NTS notamment, les DJ créent des archives musicales en poursuivant leurs pr
 
 ## Chapitre supplémentaire 5 Intervention vidéo et refus
 
-Alors que Boiler Room intègre activement la vidéo, NTS a conservé une conception centrée sur l'audio. Cette différence affecte directement la direction de la performance.
+Alors que Boiler Room intègre activement la vidéo, NTS a conservé une conception centrée sur l'audio. Cette différence a un impact direct sur le sens de la performance.
 
 Lorsque les images existent, les mouvements physiques et les configurations spatiales ont un sens. Lorsque les images sont limitées, la disposition des sons et la structure temporelle passent au premier plan.
 

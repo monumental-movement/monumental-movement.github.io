@@ -10,18 +10,18 @@ tags:
 - Acid
 - Acid House
 - 90s
-title: アシッドハウス作品をピックアップ
+title: Ramassez les œuvres acides
 ---
 
 
-「TB-303のうねるサウンドと恍惚感あふれるビートで時代を揺さぶった、注目すべきアシッドハウス作品群」
+"Un groupe remarquable d'œuvres acid house qui ont secoué l'époque avec les sons roulants du TB-303 et les rythmes extatiques."
 
 <hr>
 
-### Stylus Trouble – That Acid Track
+### Problème de stylet – Cette piste acide
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
-TR-303が唸る、王道アシッドラインを持つクラブクラシック。Pete Hellerの隠れた名義作。
+Un classique du club avec une ligne acide classique qui fait rugir le TR-303. Le chef-d'œuvre caché de Pete Heller.
 
 
 #### Liste des chansons
@@ -40,10 +40,10 @@ B.  That Acid Track (Dub Version)
 <hr>
 <br>
 
-### Various – Urban Acid
+### Divers – Acide urbain
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-1988年の本物。アシッド・ハウスの発火点を捉えた重要コンピ。シカゴ影響強し。
+Authentique de 1988. Une compilation importante qui capture le point d’allumage de l’acid house. Forte influence de Chicago.
 
 #### Liste des chansons
 ```md
@@ -67,10 +67,10 @@ B4. Charm–Walk On The Wild Side
 <hr>
 
 
-### Petter – Untitled Acid EP
+### Petter – EP acide sans titre
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-モダンな音作りでアシッドを再構築。ミニマル～プログレの間に漂う。
+Reconstruire l'acide avec une création sonore moderne. Flottant entre rock minimal et progressif.
 
 #### Liste des chansons
 ```md
@@ -89,10 +89,10 @@ B2. Everyday Balloon
 <hr>
 
 
-### Bomb The Bass – Say A Little Prayer
+### Bomb The Bass – Dites une petite prière
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
-アシッド×ダブ×ポップ。ジャンルを越境した'88年産アートピース。
+Acide x dub x pop. Une œuvre d’art de 1988 qui transcende les frontières des genres.
 
 #### Liste des chansons
 ```md
@@ -178,7 +178,7 @@ B2. 900lb Man (Original Mix)
 #### Aquasky – Tranquillité / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Un morceau unique qui injecte des éléments acides dans la drum'n'bass. Une sensation de course et une sensation de trip sont les deux à la fois.
+Un morceau unique qui injecte des éléments acides dans la drum'n'bass. Une sensation de vitesse et une sensation de voyage sont toutes deux présentes.
 
 #### Liste des chansons
 ```md

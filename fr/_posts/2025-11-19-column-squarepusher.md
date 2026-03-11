@@ -56,7 +56,7 @@ Il a reçu une formation de jazz classique et maîtrisé des rythmes et des acco
 
 ### 2.3 Rencontre avec la musique électronique
 
-Après avoir expérimenté l'Acid House et les débuts de la techno, il a commencé à enregistrer chez lui en utilisant des Akai S1000 et TR-808/909.
+Après avoir été exposé à l'Acid House et aux débuts de la techno, il a commencé à enregistrer chez lui en utilisant des Akai S1000 et TR-808/909.
 
 ---
 
@@ -101,7 +101,7 @@ graph TD
 
 ### 4.2 Influence du jazz fusion
 
-* Performance de basse hautement improvisée
+* Jeu de basse hautement improvisé
 * Éléments de fusion dans les progressions d'accords et les phrases
 
 ### 4.3 Fusion analogique + numérique

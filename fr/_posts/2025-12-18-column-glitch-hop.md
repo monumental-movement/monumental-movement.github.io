@@ -163,7 +163,7 @@ Dans le Glitch Hop typique, un coup de pied fort est souvent placé sur le premi
 
 La caisse claire est souvent placée sur les deuxième et quatrième temps, mais les parties d'attaque et de queue peuvent être composées d'échantillons séparés. Cela permet de contrôler indépendamment la sensation de frappe et de réverbération, rendant le groove à la fois stable et instable.
 
-Le charleston n'est pas qu'un simple tick, il fonctionne comme un dispositif de réglage de la densité rythmique. En créant une section dans laquelle le nombre de notes est intentionnellement réduit dans une mesure, et immédiatement après cette section, la musique est subdivisée en morceaux extrêmes, la notion du temps de l'auditeur est perturbée.
+Le charleston n'est pas qu'un simple tick, il fonctionne comme un dispositif de réglage de la densité rythmique. En créant une section dans laquelle le nombre de notes est intentionnellement réduit au sein d'une mesure, et immédiatement après cette section, la musique est subdivisée en morceaux extrêmes, la notion du temps de l'auditeur est perturbée.
 
 <div class="mermaid">
 flowchart LR

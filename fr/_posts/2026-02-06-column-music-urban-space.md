@@ -45,11 +45,11 @@ color: #fff;
 
 ### La Nouvelle-Orléans et le Jazz
 
-Au début du XXe siècle, la Nouvelle-Orléans était une ville portuaire où se croisaient diverses cultures. Les communautés noires, la culture créole, les traditions des fanfares militaires et la musique religieuse se mélangent, et la musique jouée lors des défilés de rue et des salles de danse se cristallise en jazz. Ici, les espaces publics de la ville étaient eux-mêmes des lieux de spectacle.
+Au début du XXe siècle, la Nouvelle-Orléans était une ville portuaire où se croisaient diverses cultures. Les communautés noires, la culture créole, les traditions des fanfares militaires et la musique religieuse se sont mêlées, et la musique jouée lors des défilés de rue et des salles de danse s'est cristallisée dans le jazz. Ici, les espaces publics de la ville étaient eux-mêmes des lieux de spectacle.
 
 ### New York et Tin Pan Alley
 
-A New York, la musique s'organise comme une industrie avec une concentration de compositeurs et d'éditeurs. Broadway et l'industrie de la partition musicale ont établi un format de musique populaire qui reflétait la rapidité et le caractère commercial de la ville.
+A New York, la musique s'organise comme une industrie avec une concentration de compositeurs et d'éditeurs. Broadway et l'industrie de la partition musicale ont défini le format de la musique populaire, reflétant la rapidité et le caractère commercial de la ville.
 
 > Les villes modernes avaient le pouvoir de faire passer la musique de l'improvisation à l'industrie.
 
@@ -73,7 +73,7 @@ Dans le Londres d’après-guerre, la culture de la jeunesse ouvrière est deven
 
 ### Détroit et Motown
 
-À Detroit, le centre de l’industrie automobile, la Motown a exporté la main-d’œuvre urbaine et l’espoir sous forme de pop sophistiquée. Le studio était aussi un dispositif permettant de neutraliser temporairement l’instabilité de la ville.
+À Detroit, le centre de l’industrie automobile, la Motown a exporté la main-d’œuvre et l’espoir urbains sous forme de pop sophistiquée. Le studio était aussi un dispositif permettant de neutraliser temporairement l’instabilité de la ville.
 
 ### New York et le Hip Hop
 
@@ -125,7 +125,7 @@ Si les villes produisent de la musique, elles la régulent également. La surpop
 
 La radio, la télévision et Internet, qui semblaient séparer la musique de la ville, ont en réalité créé une nouvelle image de la ville. Certains noms de villes continuent de fonctionner comme des marques sonores.
 
-> Les médias ont agrandi la ville et donné l'impression que la musique s'affranchissait de la géographie.
+> Les médias ont agrandi la ville et ont fait paraître la musique libérée de la géographie.
 
 ---
 
@@ -151,15 +151,15 @@ Bien que la musique de club et le hip-hop aient des formats partagés au-delà d
 * Naissance du hip-hop à New York dans les années 1970
 * Années 1980 : House à Chicago, techno à Détroit
 * Culture club combinée à la réorganisation urbaine à Berlin dans les années 1990
-* Depuis les années 2000 : Redéfinir la musique urbaine grâce à internet
+* Depuis les années 2000 : Redéfinir les musiques urbaines grâce à Internet
 
 ### Histoire du Japon
 
-* Années 1960 : La culture importée du rock et des cafés jazz se développe à Tokyo
+* Années 1960 : la culture importée du rock et des cafés jazz se développe à Tokyo
 * La culture live house des années 1970 s'est implantée à Osaka et à Tokyo
 * Années 1980 : Propagation des discothèques et clubs urbains
 * Dans les années 1990, la culture des clubs s'est développée principalement à Shibuya et Shinsaibashi.
-* Dans les années 2000, festivals et clubs commencent à cohabiter dans les villes régionales.
+* Dans les années 2000, festivals et clubs commencent à coexister dans les villes régionales.
 * Depuis les années 2010, réorganisation spatiale due au réaménagement et au durcissement de la réglementation
 
 ---
@@ -188,7 +188,7 @@ Ici, la musique définit d'abord l'espace, suivie par les fonctions urbaines. Le
 
 La techno de Détroit est une extension des rythmes urbains façonnés par l'industrie automobile. Les mouvements mécaniques réguliers, les routes larges et le creusement qui a suivi l'exode de la population ont favorisé une sensation de rythme inorganique et persistante.
 
-Ici, la techno est devenue plus qu’un simple divertissement, elle est devenue un moyen d’abstraire l’état urbain. Le sens du temps que possédait une ville industrielle en déclin s’est cristallisé dans la musique.
+La techno est ici devenue plus qu’un simple divertissement, elle est devenue un moyen d’abstraire l’état urbain. Le sens du temps que possédait une ville industrielle en déclin s’est cristallisé dans la musique.
 
 > La musique de Détroit préserve sonorement la forme de ce que la ville a perdu.
 
@@ -250,7 +250,7 @@ L'échelle de la ville est plus petite que celle de Tokyo et la scène musicale 
 
 La culture musicale des villes locales a mûri selon sa propre chronologie, tout en étant influencée par le gouvernement central. En raison de la proximité géographique de Fukuoka avec l'Asie et de son caractère de ville portuaire, elle a rapidement accepté la culture étrangère, et les clubs et les salles de concert ont tendance à se regrouper dans le centre-ville.
 
-En raison du climat et de la taille de la ville, Sapporo a une forte orientation intérieure et des événements multi-genres sont organisés depuis longtemps. Les marges urbaines ont fonctionné comme un espace d’expression expérimentale.
+En raison du climat et de la taille de la ville, Sapporo a une forte orientation intérieure et des événements multi-genres sont organisés depuis longtemps. Les marges urbaines ont fonctionné comme des espaces d’expression expérimentale.
 
 > Les villes régionales ont mûri la musique à un rythme différent de celui de la région centrale.
 

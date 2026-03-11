@@ -101,7 +101,7 @@ Il a donné au reggae une dimension mythique et cosmique.
 > J'écoute juste la voix et je la mixe. »
 > ― Lee « Scratch » Perry
 
-Son chef-d'œuvre, **The Upsetters ``Super Ape'' (1976)**, est
+Son chef-d'œuvre, **The Upsetters "Super Ape" (1976)**, est
 C'est une « jungle sonore » où s'entremêlent la gravité des basses et le brouillard de la réverbération.
 L'Arche Noire a été détruite dans un incendie en 1979.
 La légende s'est répandue dans toutes les régions du monde, y compris au Royaume-Uni.
@@ -116,7 +116,7 @@ Dans cette veine, **On-U Sound** dirigé par **Adrian Sherwood** est apparu.
 Il combine le chaos de Perry avec la sophistication de Tubby,
 Ils ont créé un « dub britannique » plus industriel et abstrait.
 
-Des œuvres telles que **African Head Charge**, **Dub Syndicate**, **New Age Steppers** sont
+Des œuvres telles que **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
 Ce sera un lieu où se croisent les racines spirituelles jamaïcaines et l’esprit post-punk européen.
 
 À peu près à la même époque, le **Ariwa Studio** de **Mad Professor** a également ouvert ses portes dans le sud de Londres.
@@ -146,7 +146,7 @@ L’essence du doublage ne consiste pas simplement à appliquer des effets.
 L'idée est de créer un nouvel espace en réduisant le son.
 C'est l'esthétique du manque et l'idée de reproduction.
 
-- Donner du sens à « l'espace blanc » du son.
+- Donner du sens aux « marges » du son.
 - Utiliser la technologie comme « expression d’improvisation ».
 - Redéfinir « original » dans le processus de reproduction.
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Diagramme : Structure de la pensée de type Dub
+## Diagramme : Structure de la pensée de Dove
 
 <div class="mermaid">
 

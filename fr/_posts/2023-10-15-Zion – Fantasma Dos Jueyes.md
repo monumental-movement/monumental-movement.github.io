@@ -9,7 +9,7 @@ permalink: /fr/zion-fantasma-dos-jueyes/
 tags:
 - Speedcore
 - Hardcore
-title: Sion – Fantasma Dos Jueyes
+title: Sion – Fantasma Dos Juifs
 ---
 
 

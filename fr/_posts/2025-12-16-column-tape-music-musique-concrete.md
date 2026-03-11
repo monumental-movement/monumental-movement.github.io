@@ -141,7 +141,7 @@ Le processus par lequel les sons réels étaient abstraits obligeait les auditeu
 
 ---
 
-## 10. Diffusion de l'influence
+## 10. Diffusion d'influence
 
 ### 10.1 Musique expérimentale et au-delà
 
@@ -156,7 +156,7 @@ C’est à cette époque que s’est enracinée la reconnaissance du fait que le
 ## 11. Chronologie
 
 * Années 1940 : diffusion de l'enregistrement sur bande magnétique
-* Années 1950 : Systématisation de la musique Gutai
+* Années 1950 : Systématisation de la musique Gutai
 * Années 1960 : Développement des studios de musique électronique
 * Années 1970 : Réévaluation par la fusion de l'improvisation, de la noise et de la musique électronique
 

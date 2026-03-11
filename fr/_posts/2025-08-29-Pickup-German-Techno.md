@@ -15,7 +15,7 @@ title: Récupérer des œuvres de techno allemande
 ---
 
 
-"Un rythme qui pénètre la nuit, l'âme de Berlin, la techno allemande marche"
+"Le rythme qui pénètre la nuit, l'âme de Berlin, la techno allemande marche"
 
 <hr>
 
@@ -58,7 +58,7 @@ Point attractif : Une compilation du prestigieux label allemand Tresor, avec une
 
 
 
-Point attractif : Un chef-d'œuvre de Zombie Nation, un projet du DJ/producteur allemand Splank ! (Florian Senfter). En particulier, la face A "Souls At Zero (Original Album Version)" est associée à une face B remixée de Sven Väth. Le remix de Sven Väth a une finale puissante qui combine la profondeur et le drame de la techno allemande.
+Point attractif : Un chef-d'œuvre de Zombie Nation, un projet du DJ/producteur allemand Splank ! (Florian Senfter). En particulier, la face A "Souls At Zero (Original Album Version)" est associée à une face B remixée de Sven Väth. Le remix de Sven Väth possède une finale puissante qui combine la lourdeur et le drame de la techno allemande.
 
 
 #### Liste des chansons
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Point attractif : Une œuvre de Johannes Heil, caractérisée par une mise en scène sombre et dramatique. C'est une expérience techno futuriste avec des rythmes profonds et une approche psychédélique. L'histoire est impressionnante car elle oscille entre silence et explosion.
+Point attractif : Une œuvre de Johannes Heil, caractérisée par une mise en scène sombre et dramatique. Un morceau qui invite à une expérience techno futuriste avec des rythmes profonds et une approche psychédélique. L'histoire est impressionnante car elle oscille entre silence et explosion.
 
 
 #### Liste des chansons

@@ -19,7 +19,7 @@ title: '[Chronique] DMC World DJ Championship : La trajectoire du platinisme ve
 
 # DMC World DJ Championship——Histoire mondiale du platinisme
 
-Texte : mmr｜Thème : Histoire du DMC World DJ Championship, innovation technologique, financement participatif, histoire du championnat du monde, réalisations des joueurs japonais, culture de l'équipement, Turntablism
+Texte : mmr｜Thème : Histoire du DMC World DJ Championship, innovation technologique, financement participatif, évolution du championnat du monde, réalisations des joueurs japonais, culture de l'équipement, Turntablism
 
 Connu comme l'une des plus grandes batailles de DJ au monde, le **DMC World DJ Championship (ci-après dénommé DMC)** a progressé avec la croissance de la culture du platinisme depuis sa création en 1985.
 Le processus par lequel les techniques des DJ hip-hop sont devenues indépendantes en tant qu'« expression musicale » et ont été institutionnalisées en tant que « compétition mondiale » est une histoire unique, sans précédent dans aucun autre genre.
@@ -87,7 +87,7 @@ Le Japon a eu une influence majeure sur le monde DMC depuis la fin des années 1
 ### Principaux sujets historiques
 - **1997 : DJ KRUSH rejoint le jury (symbole de reconnaissance internationale)**
 - **2000 : DJ KENTARO devient le premier Japonais à remporter le championnat du monde (score le plus élevé de l'histoire)**
-- Depuis, DJ YASA, DJ HI-C, Kireek (5 victoires consécutives dans la catégorie équipe) et d'autres ont acquis une renommée mondiale.
+- Depuis, DJ YASA, DJ HI-C, Kireek (5 victoires consécutives dans la catégorie équipe), etc. ont acquis une renommée mondiale.
 
 En particulier, la routine de KENTARO est considérée comme « exceptionnelle en termes de vitesse, de précision, de composition et de musicalité », ce qui en fait l'une des années les plus symboliques de l'histoire de DMC.
 
@@ -100,7 +100,7 @@ Au milieu des années 2000, lorsque le **DVS (Digital Vinyl System)** est devenu
 En 2006, l'utilisation du DVS dans divers formats a été autorisée et le tournoi, auparavant limité à l'analogique, a accepté le style de « manipulation de sources sonores numériques avec une platine vinyle ».
 
 Cela se traduit par
-- Utiliser librement les sources sonores originales
+- Utilisez librement vos propres sources sonores éditées
 - Élargit considérablement la gamme de configurations de routine
 - Augmentation du jeu de tonalité et de l'expression mélodique
 Une telle évolution est en train de se produire.
@@ -190,7 +190,7 @@ Le turntablism existe depuis les années 2000.
 - École de DJ
 - Atelier
 - Département Universitaire de Musique et Médias
-Il est désormais reconnu comme un genre de musique plutôt que comme une simple technique de club.
+Il a également été intégré au club et a fini par être évalué comme un genre de musique plutôt que comme une simple technique de club.
 
 ---
 
@@ -401,7 +401,7 @@ flowchart LR
 
 ## **⑧ Diagramme de structure du tournoi mondial DMC « Modifications des règles historiques »**
 
-### Historique des règles DMC (principaux changements)
+### Historique des règles DMC (principales modifications)
 
 <div class="mermaid">
 timeline

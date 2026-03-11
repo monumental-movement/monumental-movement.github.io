@@ -38,7 +38,7 @@ color: #fff;
 
 ### Father Yod/James Edward Baker — Trajectoire et légende
 
-#### Première vie et transition
+#### Première vie et carrière
 
 Né le 4 juillet 1922 à Cincinnati, Ohio. Il parle plus tard de son expérience en tant que Marine (bien que certains soulignent que sa médaille Silver Star ne figure pas dans les documents officiels).
 
@@ -61,7 +61,7 @@ Des articles de journalisme et de non-fiction ont exploré cette double nature, 
 Pendant que la commune fonctionnait, il existe des documents faisant état de conflits typiques des opérations sectaires, tels que « l'abandon de biens personnels », « la séparation des parents » et « l'autorisation de marier de jeunes membres ».
 
 
-Le 25 août 1975, il est décédé dans un accident alors qu'il tentait son premier vol en deltaplane à Hawaï (il se serait écrasé et serait décédé environ 9 heures plus tard). Cet accident est effectivement devenu un événement symbolisant la « fin » de Yahooha13.
+Le 25 août 1975, il décède dans un accident alors qu'il tentait son premier vol en deltaplane à Hawaï (il s'écrase et meurt environ 9 heures plus tard). Cet accident est effectivement devenu un événement symbolisant la « fin » de Yahooha13.
 
 
 Après cela, les membres de la congrégation se sont dispersés, mais celle-ci a été réévaluée à travers les archives sonores et le folklore. En particulier, le coffret de 13 disques God and Hair (Yahowha Collection), sorti par le label japonais Captain Trip en 1998, reprenait de manière exhaustive les sources sonores de Yahowha13/Source Family et devint l'occasion de faire revivre la légende.
@@ -73,10 +73,10 @@ Après cela, les membres de la congrégation se sont dispersés, mais celle-ci a
 
 #### Membres constituants et historique de dénomination
 
-Programmation principale : principalement Djin Aquarian (guitare), Octavius ​​​​​​Aquarian (batterie) et Tournesol Aquarian (basse), ainsi que d'autres musiciens croyants du « nom de famille Aquarian » tels que Lovely, Hom, Rhythm, Pythias, Aquarian.
+Programmation principale : principalement Djin Aquarian (guitare), Octavius ​​​​​​Aquarian (batterie) et Sunflower Aquarian (basse), ainsi que d'autres musiciens portant des noms de famille Verseau tels que Lovely, Hom, Rhythm, Pythias et Aquarian.
 
 
-Initialement publié sous le nom de « Father Yod & The Spirit of '76 ». Après cela, des orthographes telles que « Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13 » ont été utilisées avec quelques fluctuations.
+Initialement publié sous le nom de « Father Yod & The Spirit of '76 ». Après cela, la notation telle que « Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13 » a été utilisée avec quelques fluctuations.
 
 
 Il fut également un temps où ils étaient actifs dans des groupes sous différents noms tels que « Savage Sons of Ya Ho Wa », « Fire, Water, Air » et « Yodship ».
@@ -87,7 +87,7 @@ Il fut également un temps où ils étaient actifs dans des groupes sous différ
 
 - **Djin Aquarian (Tournesol)** : "Notre performance n'était pas une chanson, mais une prière."
 - **Octavius** : "La perspective et la respiration de Père Yod ont déterminé la direction de l'improvisation."
-- **Réminiscences de la famille source** : L'enregistrement était un rituel quotidien et la musique était une communion avec Dieu.
+- **Réminiscences de la Famille Source** : L'enregistrement était un rituel quotidien et la musique était une communion avec Dieu.
 
 De cette façon, les paroles et les performances de Yahowha 13 se sont concentrées sur les « vagues » et le « mantra » plutôt que sur le « sens ».
 
@@ -238,7 +238,7 @@ On avance que son orientation vers l’improvisation, la spatialité et la trans
 
 Dans des domaines tels que la culture communale, les mouvements sectaires et la recherche musicale étrangère, l’existence de Yahowha13/Source Family est devenue un exemple typique et un sujet de recherche.
 
-D'un autre côté, il aborde également des sujets controversés tels que la critique éthique et historique concernant les mérites et les démérites des croyants et des musiciens, la fragmentation des archives, ainsi que les anecdotes et légendes dont l'authenticité est inconnue.
+D’un autre côté, cela inclut également une approche controversée qui inclut une critique éthique et historique concernant les mérites et les démérites des croyants et des musiciens, la fragmentation des archives, ainsi que des anecdotes et des légendes dont l’authenticité est inconnue.
 
 ---
 
@@ -277,7 +277,7 @@ Point : Le cœur de l’auto-enregistrement. Lors de l'enregistrement au Garage
 
 [Penetration: An Aquarian Symphony（1974）](https://amzn.to/4hdcYa5)
 
-Chansons et moments forts : contient de longs morceaux tels que "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" et "Ya Ho Wha". C'est la cristallisation du "ritualistic" et du "psychedelic jam", et c'est l'album représentatif le plus facilement disponible avec de nombreuses rééditions. Il a une grande dynamique semblable à un paysage sonore, et nous recommandons aux nouveaux auditeurs de commencer ici.
+Chansons et moments forts : contient de longs morceaux tels que "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" et "Ya Ho Wha". C'est la cristallisation du "ritualistic" et du "psychedelic jam", et c'est l'album représentatif le plus facilement disponible avec de nombreuses rééditions. Il a une grande dynamique semblable à un paysage sonore, et nous recommandons de commencer ici pour les nouveaux auditeurs.
 
 
 ---
@@ -313,7 +313,7 @@ Motif principal :
 Répétition de « Ya Ho Wha / Ya Ho Wa / YHWH (similitude consonantique) » - nom divin/rôle sacré.
 
 
-Références à l’archétype « voyage/purification/éléments (feu/eau/air/terre) » — un symbole qui apparaît également dans les titres des albums/chansons.
+Références à l’archétype « voyage/purification/éléments (feu/eau/air/terre) » – un symbole qui apparaît également dans les titres des albums/chansons.
 
 
 Phrases doctrinales/rituelles (mots indiqués par des noms de morceaux expurgés tels que « l'homme le messie ») – mots improvisés et superposés comme la déclaration d'un leader.
@@ -440,7 +440,7 @@ Le son « Ya Ho Wha » lui-même est un mantra sacré de la Famille Source, une 
 
 #### 🇺🇸 Amérique
 
-**Situation initiale** : Dans les années 70, il n'y avait que des disques autoproduits (très petits lots), et le groupe restait culte.
+**Situation initiale** : Dans les années 1970, il n'existait que des disques autoproduits (très petits lots), et cela restait culte.
 
 **Années 1990** : Rééditions de labels indépendants tels que Drag City et Swordfish dans le contexte d'une réinterprétation psychédélique.
 
@@ -452,7 +452,7 @@ Le son « Ya Ho Wha » lui-même est un mantra sacré de la Famille Source, une 
 
 #### 🇩🇪 Allemagne
 
-**Réévalué dans un contexte krautrock** : Amon Düül II et la base de fans de Can ont découvert Yahowha 13 comme un « acid jam ».
+**Réévalué dans un contexte krautrock** : Les fans d'Amon Düül II et Can découvrent Yahowha 13 comme un "acid jam".
 
 **Nombreuses rééditions** : Depuis 1998, de nombreuses rééditions ont été réalisées via Captain Trip (en fait un label japonais) et des distributeurs allemands.
 
@@ -467,7 +467,7 @@ Le son « Ya Ho Wha » lui-même est un mantra sacré de la Famille Source, une 
 
 ** Boom des rééditions psychédéliques des années 90 ** : P.S.F. Records et Captain Trip Records ont activement introduit Yahooha 13.
 
-Il a été présenté comme un « psychédélique culte fantôme » dans des magazines tels que « Eureka » et « Eurorock Press », et les auditeurs japonais le collectionnent avidement.
+Il a été présenté comme un « psychédélique culte mystérieux » dans des magazines tels que « Eureka » et « Eurorock Press », et est avidement collectionné par les auditeurs japonais.
 
 **Tendances d'évaluation** : Au Japon, il est apprécié comme « hérétique » et « psychédélique ésotérique », et est devenu un objet de collection dans les magasins de disques importés (Disc Union, Melon, Manhattan Records, etc.).
 

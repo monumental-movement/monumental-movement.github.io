@@ -51,7 +51,7 @@ Les points de contact entre les deux sont la culture du sound system, le toastin
 *Migration culturelle par diaspora
 * Expression de soi depuis la périphérie urbaine
 
-> Le reggae et le hip-hop sont des « cultures sœurs » avec la même structure développées dans des villes différentes.
+> Le reggae et le hip-hop sont des « cultures sœurs » avec la même structure développée dans des villes différentes.
 
 ---
 
@@ -79,7 +79,7 @@ Le hip-hop était une réinvention de la culture du sound system jamaïcain dans
 
 ---
 
-### Numérisation et fusion : années 1980-90
+### Digitalisation et fusion : années 1980-90
 
 En 1985, **Under Mi Sleng Teng** est sorti. Cette chanson, qui utilisait des préréglages sur le Casio MT-40, a inauguré l'ère du dancehall numérique.
 
@@ -110,7 +110,7 @@ De plus, des artistes tels que **Rihanna** et **Drake** ont introduit des élém
 | 1973 | DJ Kool Herc développe des breakbeats dans le Bronx |
 | 1985 | Sous l'annonce de Mi Sleng Teng |
 | années 1990 | Progrès dans la fusion du dancehall et du hip-hop |
-| Années 2000 | Le dancehall devient pop mondiale |
+| Années 2000 | Le dancehall devient une pop mondiale |
 
 ---
 

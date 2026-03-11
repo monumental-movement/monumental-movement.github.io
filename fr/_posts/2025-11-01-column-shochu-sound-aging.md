@@ -10,8 +10,7 @@ tags:
 - Culture
 - Spirits
 - Alchohol
-title: '[Chronique] Shochu cultivé par le son : L''harmonie de la fermentation qui
-  résonne chez Amami Oshima'
+title: 【コラム】 音が育てる焼酎：奄美大島に響く発酵のハーモニー
 ---
 
 

@@ -17,7 +17,7 @@ The Call est un groupe de rock américain formé à Santa Cruz, en Californie, e
 
 Sorti en 1983, Modern Romans était le deuxième album de The Call et montrait leur maturité musicale et leur sophistication. Bien que l'album soit influencé par le post-punk et la new wave, il présente un son unique et des mélodies magnifiques. Il comprend les singles « Walls Came Down » et « Everywhere I Go ».
 
-« Modern Romans » a reçu les éloges des critiques et le soutien enthousiaste de certains fans. Bien que l'album n'ait pas été un succès commercial à sa sortie, il a ensuite développé un culte.
+« Modern Romans » a reçu les éloges des critiques et le soutien enthousiaste de certains fans. Bien que l'album n'ait pas été un succès commercial lors de sa sortie initiale, il a ensuite développé un culte.
 
 
 #### Liste des chansons

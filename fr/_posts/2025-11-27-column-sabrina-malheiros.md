@@ -25,7 +25,7 @@ Texte : mmr｜Thème : Comment la musique brésilienne a évolué et a été rec
 Alors que la musique brésilienne continue d'être réévaluée dans le monde entier, Sabrina Mallheiros est la personne qui a combiné avec souplesse les sensibilités de la samba soul, du funk, de la bossa nova et de la néo-soul. Descendants d'Azimuth, dirigés par Aza Mallheiros, ils ont été soutenus avec enthousiasme par les communautés musicales de Londres, du Japon et d'Europe.
 
 En particulier, son album **Clareia** de 2017 a été le moment où son univers musical s'est le plus clairement épanoui.
-Sa chanson titre **« Clareia »** a ensuite trouvé une nouvelle vie dans la communauté de la danse underground, donnant naissance à des remix de personnalités clés du jazz/broken beat britannique, notamment **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** et **IG Culture**.
+Son titre **« Clareia »** a ensuite trouvé une nouvelle vie dans la communauté de la danse underground, donnant naissance à des remix de personnalités clés du jazz/broken beat britannique, notamment **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** et **IG Culture**.
 
 
 ---
@@ -57,7 +57,7 @@ Cependant, la musique de Sabrina n'est pas une imitation directe de son père, m
 
 ## **2. Premiers travaux : signes d’une nouvelle génération de samba soul**
 
-### ● **« Équilibres » (2005)**
+### ● **« Équilibres » (2005)**
 
 Dans cette première œuvre, la combinaison de la « voix chantante transparente » de Sabrina et du « rythme moderne » était déjà établie. Tout en mêlant samba, MPB et soul, il présente une texture qui brouille les frontières entre acoustique et électrique.
 
@@ -77,7 +77,7 @@ Depuis ses débuts, Sabrina a toujours visé une « coexistence de la tradition 
 
 Il y a des moments de jazz-funk doux qui vous donnent une impression directe de la lignée d'Azimuth, tandis que les mélodies sophistiquées, les belles cordes et les percussions légères de MPB sont délicieusement combinées.
 
-### ● Chanson titre « Clareia »
+### ● Chanson titre « Clareia »
 
 Cette chanson, qui peut être considérée comme un symbole de l'album, combine la voix douce de Sabrina, les percussions dynamiques et les lignes fluides du clavier pour créer une texture claire de lumière.
 
@@ -98,7 +98,7 @@ En particulier, le remix de « Clareia » par les trois groupes suivants qui ont
 
 Henry Wu était une figure centrale du mouvement de renaissance du jazz du sud de Londres, également connu sous le nom de Yussef Kamaal.
 
-Son remix met l'accent sur un travail de batterie complexe dans la veine du rythme brisé et de la sophistication du jazz électrique. Tout en conservant la « lumière » de la chanson originale, en ajoutant une touche urbaine à la London, elle a une finition plus club-friendly.
+Son remix met l'accent sur un travail de batterie complexe dans la veine du rythme brisé et de la sophistication du jazz électrique. Tout en conservant la « lumière » de la chanson originale, en y ajoutant une touche urbaine à la londonienne, elle a une finition plus club-friendly.
 
 ・ Battement rebondissant
 ・Rhodes doux

@@ -53,7 +53,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Beat** : Le kick a un arrière-goût rond et profond. Le charleston est un mélange avec un léger swing. Les textures 909/707/727 et 808 sont standard.
 
-**Basse** : Notes longues principalement ondulantes avec des sous-bandes soigneusement contrôlées.
+**Basse** : notes longues principalement ondulantes avec des sous-bandes soigneusement contrôlées.
 
 **Clavier/Texture** : orgue Rhodes/M1/cordes douces, le type d'espace (delay/reverb) est long mais pas dense.
 
@@ -91,7 +91,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 ### Sous-genres et lignées périphériques
 
-**Chicago Deep** : coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
+**Chicago Deep** : Coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
 
 **Type Jersey/garage** : Piano/orgue et chant de type gospel. Exemple : Kerri Chandler, Blaze.
 
@@ -125,7 +125,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Code** : "Marge douce" avec maj7, min9, sus2/4, 6th. Même les deux notes fondamentales + 9ème sont « profondes ».
 
-**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charleston est légèrement ouvert et fin.
+**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charley est légèrement ouvert et fin.
 
 **Groove** : « Respirez » avec un léger swing (+5 à +15 %) et des changements infimes de vélocité.
 
@@ -155,7 +155,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Early Peak** : le moteur de Ron Trent/Chez Damier
 
-**Plateau** : raffinement de Jimpster à Freerange
+**Plateau** : Raffinement du Jimpster ~ Freerange
 
 **Changement de couleur** : la sensation live d'Henrik Schwarz
 

@@ -170,7 +170,7 @@ Usure à la surface du disque, écriture et bandes pliées. Ce sont des traces d
 
 ## Épilogue : L'avenir de la propriété
 
-Subscriptions offer maximum convenience. Mais l'accès ne remplace pas la propriété. Les algorithmes offrent des options infinies, mais des centaines de disques sur les étagères visualisent une histoire sélective.
+Les abonnements offrent un maximum de commodité. Mais l'accès ne remplace pas la propriété. Les algorithmes offrent des options infinies, mais des centaines de disques sur les étagères visualisent une histoire sélective.
 
 Les supports physiques peuvent diminuer. Mais cela ne disparaîtra pas. En effet, il ne s’agit pas simplement d’un appareil de lecture de musique, mais d’un objet imprégné de signification culturelle.
 

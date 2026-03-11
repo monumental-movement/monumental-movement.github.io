@@ -57,7 +57,7 @@ Cette direction a été formée et le nom Sound Tribe Sector 9 a été lancé.
 
 ---
 
-# 2. 1998-2002 : Premiers travaux et adaptation à la culture des tournées
+# 2. 1998–2002 : Premiers travaux et adaptation à la culture des tournées
 ##2-1. Debut Era ― *Véhicule d'évasion interplanétaire* (1998)
 
 Leur premier album, Interplanetary Escape Vehicle, sorti en 1998, avait une sensation de performance live plus forte que le STS9 actuel, avec un mélange d'étendues de guitare de type post-rock, de rythmes de type Afrobeat et d'ensembles de type jazz.
@@ -90,7 +90,7 @@ Chanson représentative :
 - "Quelque chose"
 - "Arigato"
 - « Tokyo »
-- "Personnes"
+- « Les peuples »
 
 Ceux-ci sont fréquemment joués dans la setlist actuelle et symbolisent le mieux l’image musicale de STS9.
 
@@ -130,7 +130,7 @@ La structure live de la même période était
 Le public est passé à une expérience de type plancher/festival avec pour principe de « danser ».
 
 Ce qui est important ici, c'est que STS9 a développé une technique permettant de reproduire la « texture de la musique électronique » avec une guitare et une basse.
-De nombreux éléments passaient par la chaîne d'effets, ce qui donnait l'impression que la pensée éditoriale de la DAW se reflétait directement dans la performance live.
+De nombreux éléments sont passés par la chaîne d'effets, créant une caractéristique dans laquelle la pensée éditoriale de la DAW se reflétait directement dans la performance live.
 
 ---
 
@@ -148,7 +148,7 @@ Depuis le début de STS9
 - Accompagnement pédagogique
 - Protection de l'environnement
 - Activités locales
-Il a participé activement à des activités caritatives telles que
+Il a participé activement à des activités caritatives telles que :
 
 Il existe également de nombreux spectacles qui reversent une partie des recettes des billets en direct, et de nombreuses chansons ayant pour thème des problèmes sociaux.
 En particulier, « Peaceblaster » (2008) se positionne comme une œuvre conceptuelle ayant pour toile de fond des thèmes politiques et environnementaux.
@@ -276,7 +276,7 @@ Ils ont établi un nouveau genre qui relie la musique électronique et les group
 
 ##11-2. Des liens forts avec la culture des festivals
 
-Les concerts de STS9 se marient bien avec les festivals,
+Les spectacles live de STS9 se marient bien avec les festivals.
 -Bonnaroo
 - Forêt électrique
 - Suwannee Hulaween

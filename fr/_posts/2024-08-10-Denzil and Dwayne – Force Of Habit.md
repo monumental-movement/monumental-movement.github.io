@@ -10,15 +10,15 @@ tags:
 - Trance
 - Anthem
 - 90s
-title: Denzil & Dwayne – Force Of Habit
+title: Denzil & Dwayne – Force de l’habitude
 ---
 
 
-Denzil & Dwaynは、オランダのトランスプロデューサーでありArmada Musicの創設者の1人Maykel Pironとオランダのミュージシャン・音楽プロデューサーMichiel Van Der Kuyによるプロジェクト。
+Denzil & Dwayn est un projet de Maykel Piron, producteur de transe néerlandais et l'un des fondateurs d'Armada Music, et Michiel Van Der Kuy, musicien et producteur de musique néerlandais.
 
-「Force Of Habit」は、オランダのレーベルFlammableから1999年にリリースされたトランストラック。
+"Force Of Habit" est un morceau de transe sorti en 1999 par le label néerlandais Flammable.
 
-A面は、オランダ人のトランスアーティストVincent de Moor（ヴィンセント・デ・ムーア）によるremix。Vincent de Moorは、音楽プロデューサーのFerry Corsten（フェリー・コーステン）とのユニット「Veracocha」としても活動している。
+Side A est un remix de l'artiste de transe néerlandais Vincent de Moor. Vincent de Moor est également actif en tant qu'unité appelée « Veracocha » avec le producteur de musique Ferry Corsten.
 
 #### Liste des chansons
 ```md

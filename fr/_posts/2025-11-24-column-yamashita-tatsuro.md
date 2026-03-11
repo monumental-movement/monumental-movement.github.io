@@ -90,7 +90,7 @@ Au centre de tout cela se trouvait **CBS Sony Shinanomachi Studio**.
 ### ▼ Pic d'enregistrement analogique
 - Matériel utilisé : Studer A80/A800 24tr, console NEVE
 - Rythme : Batterie live + enregistrement analogique
-- Guitare : son chaud grâce au compresseur
+- Guitare : Son chaud grâce au compresseur
 - Chorus : « Dense layering » propre à l'analogique
 - Reverb : plaque EMT 140 avec pré-delay Lexicon
 
@@ -155,7 +155,7 @@ Tatsuro déclare : « Même avec l'enregistrement numérique, vous pouvez créer
 # 6. Années 2000 : La maturité de la production numérique et l’implantation du « numérique analogique »
 
 ## ■ Philosophie d'enregistrement des années 2000
-- L'environnement de production est entièrement numérisé
+- L'environnement de production est entièrement numérique
 - Cependant, concentrez-vous sur la sélection du microphone et le son de la pièce pendant la phase d'enregistrement.
 - "Concevoir des textures analogiques même si elles sont numériques"
 

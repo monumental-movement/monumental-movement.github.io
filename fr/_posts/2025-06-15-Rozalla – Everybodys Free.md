@@ -11,13 +11,13 @@ tags:
 - House
 - Euro House
 - 90s
-title: Rozalla – Everybody's Free (To Feel Good)
+title: Rozalla – Tout le monde est libre (pour se sentir bien)
 ---
 
 
-Rozalla(ロザラ)ことRozalla Millerは、現在のザンビア出身のジンバブエのエレクトロニックミュージックパフォーマー。「Queen of Rave(レイヴの女王)」の異名を持つ、世界的に成功したダンスアーティスト。
+Rozalla Miller, également connue sous le nom de Rozalla, est une artiste de musique électronique zimbabwéenne originaire de l'actuelle Zambie. Une artiste de danse à succès mondial connue sous le nom de « Reine du Rave ».
 
-1991年にUKのハウス／レイヴレーベルPulse 8からリリースされた「Everybody's Free (To Feel Good)」は、世界的な大ヒットとなった。この曲は、1990年代初頭のポップシーン＆クラブシーン両方のアンセムとして知られ、現在までに何度もremixされている。他にも「Faith (In the Power of Love)」、「Are You Ready to Fly」等のヒット曲がある。
+Sorti en 1991 sur le label house/rave britannique Pulse 8, « Everybody's Free (To Feel Good) » est devenu un succès mondial. Cette chanson est connue comme un hymne à la fois sur la scène pop et dans les clubs du début des années 1990, et a été remixée à plusieurs reprises jusqu'à présent. Parmi les autres chansons à succès figurent « Faith (In the Power of Love) » et « Are You Ready to Fly ».
 
 
 #### Liste des chansons

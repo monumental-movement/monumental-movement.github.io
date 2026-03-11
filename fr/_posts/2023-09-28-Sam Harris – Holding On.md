@@ -9,13 +9,13 @@ permalink: /fr/sam-harris-holding-on/
 tags:
 - House
 - Remix
-title: Sam Harris – Holding On
+title: Sam Harris – Tenir le coup
 ---
 
 
-「Sam Harris – Holding On」は、本名Samuel Kent Harrisのタイトル曲をJunior Vasquezがリミックスした1999年のリリース作品です。
+"Sam Harris - Holding On" est un album de Junior Vasquez sorti en 1999, remixant la chanson titre de Samuel Kent Harris.
 
-Remix – Junior Vasquez(ジュニア・ヴァスケス)
+Remix – Junior Vasquez
 
 #### Liste des chansons
 ```md

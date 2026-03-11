@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Comment la remise en question de la house française des 
 À propos des synthés analogiques, de la culture du disque et des techniques de filtrage
 
 À la fin des années 2020, la **French Touch** (French House) est réévaluée à la fois dans la culture des clubs et sur Internet. En termes de performances de DJ, des chansons comme « Music Sounds Better With You » de Stardust et « 1999 » de Cassius émeuvent à nouveau le jeune public, et les premières œuvres de Daft Punk trouvent de nouveaux publics grâce aux rééditions de vinyles.
-De plus, alors que les producteurs nationaux et étrangers intègrent activement des *synthés analogiques, des textures de bande, la rugosité de l'échantillonnage et la texture des lèvres en vinyle*, ils se connectent naturellement au contexte de **Nu Disco**, créé à la fin des années 2000.
+De plus, alors que les producteurs nationaux et étrangers incorporent activement des *synthés analogiques, des textures de bande, la rugosité de l'échantillonnage et la texture des lèvres en vinyle*, ils se connectent naturellement au contexte de **Nu Disco**, créé à la fin des années 2000.
 
 Ce phénomène n’est pas seulement de la nostalgie.
 C’est précisément parce que l’environnement numérique est devenu complètement omniprésent que
@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Implantation de la French Touch : Situation à Paris à la fin des années 1990
 ### ● Contexte : Une rencontre entre house et disco
 Au milieu des années 1990, la scène club parisienne absorbe la house américaine tout en formant une structure unique mettant en avant les samples disco/soul.
-Alors que l'influence de la Chicago House était forte, la house a commencé à fonctionner comme un nouveau type de « musique pop » en y intégrant la « sensation mélodique sophistiquée » unique à l'Europe.
+Bien que fortement influencée par la Chicago House, la house a commencé à fonctionner comme un nouveau type de « musique pop » en se mélangeant à une « sensation mélodique sophistiquée » unique à l'Europe.
 
 ### ● Existence d'étiquette/base
 - **Roulé (Thomas Bangalter)**
@@ -79,7 +79,7 @@ Les plus représentatifs sont :
 Ces modules de filtrage ont une structure analogique, de sorte que les fluctuations harmoniques pendant le balayage sont riches. L'image sonore de la French Touch consistant à « fermer et ouvrir le filtre » est créée avec une texture unique au matériel.
 
 ### ● ② Enregistrement d'échantillonnage et travail d'égalisation/filtrage
-Daft Punk utilise activement le bruit et la texture du vinyle dans sa musique en laissant l'image sonore de l'échantillon "rugueuse".
+Daft Punk utilise activement le bruit et les textures du vinyle dans sa musique en laissant l'image sonore de l'échantillon « brute ».
 Surtout pendant la période de « Découverte », au lieu de peaufiner l'échantillon pour obtenir une haute qualité,
 **L'esthétique de la création de musique pop « telle qu'elle a été extraite des disques** » est une constante.
 
@@ -102,7 +102,7 @@ En 1998, l'unité "Stardust" de Thomas Bangalter + Alan Braxe + Benjamin Diamond
 Ce succès a établi la culture de la French Touch selon laquelle « la pop est une extension du jeu et de l'expérimentation ».
 Bien qu’il ne s’agisse que d’une chanson, elle est devenue un mythe car elle résume toute l’esthétique de la French Touch.
 
-Cette chanson est un classique pour les fans de house music et de dance music électronique.
+この楽曲は、ハウスミュージックやエレクトロニックダンスミュージックのファンにとってはクラシックとも言える作品です。
 
 #### Liste des chansons
 ```md
@@ -119,7 +119,7 @@ A. Music Sounds Better With You
 ## 5. Cassius : Un sentiment de liberté et d'art à Paris
 **Cassius "1999"** de Philippe Zdar et Boom Bass a encore accru la popularité de la French Touch.
 
-- Utilisation intensive d'échantillonnage funk/soul
+- Utilisation intensive du sample funk/soul
 - Profondément connecté à la culture de rue et à la scène artistique parisienne
 - Haute densité de mélange et centre de gravité qui le fait toujours danser
 
@@ -151,7 +151,7 @@ Dans ce contexte, « l’esthétique de l’échantillonnage », le « travail d
 
 ---
 
-- Mondialement acclamé comme « Inspecteur Norse », etc.
+- Reconnaissance mondiale en tant qu'« inspecteur nordique », etc.
 - Utilisation intensive de synthés analogiques Roland et Korg
 - Moderniser ** la construction longue semblable à une maison de filtre **
 
@@ -258,7 +258,7 @@ En incorporant le **renouveau disco~80s**,
 Les sons de la house française suscitent un regain d’intérêt.
 
 ### ● 3) « Re-creuser » chez les jeunes
-Sur YouTube, SoundCloud et TikTok
+sur YouTube, SoundCloud et TikTok
 Les classiques de la French Touch ont été redécouverts et diffusés auprès d’une génération peu familière avec la culture club.
 
 ---

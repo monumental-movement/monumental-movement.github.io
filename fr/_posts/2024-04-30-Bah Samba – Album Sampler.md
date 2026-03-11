@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - Garage House
-title: Bah Samba – Échantillonneur d’album
+title: Bah Samba – Album échantillonneur
 ---
 
 

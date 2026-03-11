@@ -48,7 +48,7 @@ Un quartier résidentiel calme de Pennsylvanie au milieu des années 1980.
 Deux garçons s'emparent d'une cassette et d'un enregistreur 4 pistes et entament un étrange rituel.
 **Aaron Freeman (Gene Ween)** et **Mickey Melchiondo (Dean Ween)**.
 
-L'existence de « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
+Le « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
 Dieu fictif du rire et de la folie, il était un symbole de la musique de Ween elle-même.
 Les bruits, les voix étranges et les changements de tonalité inhabituels qui étaient dispersés dans les enregistrements personnels ont tous été bénis par Boognish.
 
@@ -103,7 +103,7 @@ Durant cette période, Ween vit « entre farces et musique expérimentale ».
 > — *Dean Ween, Entretien de 1994*
 
 1994年の[『Chocolate and Cheese』](https://amzn.to/46LSWQo)は、  
-C'est la première percée de Ween depuis la caverne lo-fi jusqu'au studio.
+C'est le premier chef-d'œuvre de Ween sorti de la caverne lo-fi et entré en studio.
 Pop, funk, country, rock progressif, soul... tout s'entrechoque,
 Vulgaire et noble cohabitent miraculeusement.
 
@@ -147,7 +147,7 @@ Un morceau monumental de pop psychédélique avec pour thème la mythologie océ
 La romance de Brian Wilson et la folie du capitaine Beefheart,
 C'est un album qui donne l'impression d'être enfermé dans une seule coque.
 
-Tous les enregistrements sont analogiques sur une **bande 16 pistes**.
+Tous les enregistrements sont analogiques et utilisent une **bande 16 pistes**.
 Même les fluctuations du bruit étaient contrôlées comme de la musique, créant un pseudo-son de fond marin.
 Des effets comme des échos de guitare, des harmoniques vocales et le bruit de la mer.
 Le son lui-même raconte le mythe des profondeurs marines.
@@ -159,7 +159,7 @@ Le son lui-même raconte le mythe des profondeurs marines.
 Live Ween était un chaos complet.
 ``**Live in Toronto 1996**'' ignore l'ordre des chansons.
 Le rire et le bruit se heurtent et les frontières avec le public fondent.
-Cela ressemblait plus à un rituel qu'à un groupe.
+C'était plus un rituel qu'un groupe.
 
 > « Chaque spectacle est un accident qui attend d'être beau. »
 > — *Dean Ween, 1997*

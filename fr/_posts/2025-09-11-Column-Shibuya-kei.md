@@ -41,7 +41,7 @@ Le son Shibuya-kei est un mouvement musical japonais qui s'est répandu dans les
 - Les premières boîtes à rythmes telles que Roland TR-808
 - Culture d'enregistrement à domicile à l'aide de cassettes MTR
 
-### 10 chansons recommandées (années 1980)
+### 10 chansons recommandées (années 1980)
 
 <style type="text/css">
 
@@ -61,7 +61,7 @@ color: #fff;
 |------|--------------|--------------|
 | Vous êtes couleur naturelle | Eiichi Otaki | Monument pop de la ville |
 | Étincelle | Tatsuro Yamashita | Son urbain sophistiqué |
-| septembre | Mariya Takeuchi | Pop AOR légère |
+| Septembre | Mariya Takeuchi | Pop AOR légère |
 | Numéro de téléphone | Miki Matsubara | Des chefs-d'œuvre réévalués à l'étranger |
 | L'amour parle | Tatsuro Yamashita | Fusion d'éléments de boogie |
 | Centre-ville | Bébé de sucre | Origine de la pop urbaine |
@@ -120,7 +120,7 @@ color: #fff;
 - Synthé logiciel (Native Instruments, Arturia)
 - Culture DJ sur ordinateur portable
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -184,7 +184,7 @@ color: #fff;
 - Production basée sur logiciel
 - Hybride analogique et numérique
 
-### 10 chansons recommandées (années 2020)
+### 10 chansons recommandées (années 2020)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|

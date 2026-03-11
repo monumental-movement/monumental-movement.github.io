@@ -9,11 +9,11 @@ permalink: /fr/fresh-lab-afrodisiacs-ep/
 tags:
 - Hiphop
 - Triphop
-title: Fresh Lab – EP Afrodisiacs
+title: Fresh Lab – Afrodisiacs EP
 ---
 
 
-Afrodisiacs EP est un EP de l'unité "Fresh Lab" de Jeff Flambeau & Stéphane Dupoup, sorti en 1995 sur le label français "Yellow Productions".
+Afrodisiacs EPは、1995年にフランスのレーベル「Yellow Productions」からリリースされたJeff Flambeau & Stéphane Dupoupによるユニット「Fresh Lab」のEPです。
 
 #### Liste des chansons
 ```md

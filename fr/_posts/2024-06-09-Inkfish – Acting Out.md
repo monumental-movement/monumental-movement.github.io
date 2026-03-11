@@ -12,15 +12,15 @@ tags:
 - Tribal
 - House
 - 00s
-title: Inkfish – Acting Out
+title: Inkfish – Agir
 ---
 
 
-アンダーグラウンド ハウス シーンの重鎮Inkfishは、90年代から活動するプロデューサー＆DJ集団。メンバーは、ウェーデン出身のMattias Lindblom、Jesper Lindquist、Andreas Hermansson、Johan Hermansson の 4 人。
+Inkfish, poids lourd de la scène house underground, est un collectif de producteurs et DJ actif depuis les années 90. Les membres sont Mattias Lindblom, Jesper Lindquist, Andreas Hermansson et Johan Hermansson de Suède.
 
-Inkfish は、さまざまな名義で、David West、Hardy Heller、Tomas Andersson、プログレッシブ界の伝説 Ian Ossia などの大物プロデューサー/DJ と共演している。また、Medway、Tom Novy & Jerome Isma-ae、Matt Darey などをプロデュースしている。
+Inkfish a travaillé sous divers noms avec des producteurs/DJ de renom tels que David West, Hardy Heller, Tomas Andersson et la légende progressive Ian Ossia. Il a également produit des artistes tels que Medway, Tom Novy & Jerome Isma-ae et Matt Darey.
 
-「Acting Out」は、2003年に500枚限定でリリースされたInkfishのプログレッシブ・トライバルハウストラック。
+"Acting Out" est un morceau de house tribal progressif d'Inkfish sorti en 2003 dans une édition limitée à 500 exemplaires.
 
 #### Liste des chansons
 ```md

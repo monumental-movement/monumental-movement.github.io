@@ -78,7 +78,7 @@ Pour les fans, le son du moteur lui-même était « un autre type de rock'n'roll
 - **Le rugissement du moteur V8** résonne avec le riff de guitare, donnant à l'auditeur une sensation de libération physique.
 - Le bruit d'un moteur est un « bruit incontrôlé » et il recoupe l'esprit rebelle du rock, car il perturbe l'ordre social et le silence.
 
-Le rugissement des voitures et des motos qui passaient était une expérience musicale en soi, une « rébellion par le son » contre les valeurs existantes.
+Le rugissement des voitures et des motos qui s'éloignaient était en soi une expérience musicale, une « rébellion par le son » contre les valeurs existantes.
 
 ---
 
@@ -127,7 +127,7 @@ Lorsque le rugissement du moteur et le riff de la guitare résonnent, la musique
 | Amour radar | Boucle d'oreille dorée | Synonyme de chansons de conduite. |
 | Tout l’amour Lotta | Led Zeppelin | Le bruit rugueux résonne avec le rugissement des voitures. |
 | Tush | Haut ZZ | Une chanson liée à la culture automobile du Sud. |
-| Courir avec le diable | Van Halen | Incarner l’esprit hors-la-loi. |
+| Courir avec le Diable | Van Halen | Incarner l’esprit hors-la-loi. |
 | Kickstart My Heart (version live précédente) | Mötley Crüe (première version) | Un spectacle qui met l'accent sur les voitures et la sensation de vitesse. |
 
 ### Années 1980
@@ -140,7 +140,7 @@ Lorsque le rugissement du moteur et le riff de la guitare résonnent, la musique
 | As de pique | Motörhead | Chansons les plus étroitement associées à la culture moto. |
 | Panama | Van Halen | Une chanson représentative sur les voitures. |
 | Rock vous aimez un ouragan | Scorpions | Allier nature sauvage et culture automobile. |
-| Criez au diable | Mötley Crüe | Symbole du mode de vie hors-la-loi. |
+| Criez au diable | Mötley Crüe | Symbole du style de vie hors-la-loi. |
 | Je veux rocker | Soeur tordue | Rappelant la liberté de la jeunesse et la vitesse des voitures. |
 | Sperme sur Ressentez le bruit | Émeute tranquille | Une chanson synonyme de course et de rébellion. |
 | Tu m'as secoué toute la nuit | CA/CC | Une énergie compatible avec la culture routière. |
@@ -194,7 +194,7 @@ Des salles de concert aux autoroutes, le hard rock a toujours été indissociabl
 
 Le hard rock s'est progressivement implanté au Japon dans les années 1970 et, dans les années 1980, des groupes tels que LOUDNESS et EARTHSHAKER ont fait leur chemin vers le monde.
 Aussi, à partir des années 1990, des groupes comme X JAPAN, B'z et GLAY développent leurs propres interprétations du hard rock, qui ont une forte influence sur l'aspect visuel.
-La culture des Harley-Davidson et des muscle cars américains a imprégné la scène rock japonaise et elles sont souvent utilisées dans des productions live et des vidéoclips.
+La culture des Harley-Davidson et des muscle cars américains a imprégné la scène rock japonaise et elles sont fréquemment utilisées dans les productions live et les vidéoclips.
 
 | Artiste | Chanson | Année de sortie | Caractéristiques |
 |--------------|------|--------|------|

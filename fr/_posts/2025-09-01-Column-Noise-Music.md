@@ -53,7 +53,7 @@ Après la Seconde Guerre mondiale, le développement de la bande magnétique et 
 - musique concrète (1948-) de Pierre Schaeffer.
 
 ### Œuvres représentatives
-- Œuvres de Pierre Henry et Tod Dockstader.
+- Œuvres de Pierre Henri et Tod Dockstader.
 
 ### Équipement/Technologie
 - Montage de bandes (rotation inversée, bouclage, découpage/épissure).
@@ -154,7 +154,7 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 ---
 
 ## A la fin
-La musique noise est toujours un défi pour l’esthétique existante et une tentative d’élargir les frontières de la musique. Des sons mécaniques de Russolo aux synthés modulaires, même après plus de 100 ans d'histoire, leur essence réside dans « l'écoute du son lui-même ».
+La musique noise est toujours un défi pour l’esthétique existante et une tentative d’élargir les frontières de la musique. Des sons mécaniques de Russolo aux synthés modulaires, même après plus de 100 ans d'histoire, l'essence de tous les instruments est « d'écouter le son lui-même ».
 
 ---
 

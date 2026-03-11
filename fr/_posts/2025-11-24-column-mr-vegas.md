@@ -40,7 +40,7 @@ color: #fff;
 ## Chapitre 1 : Début de carrière et début de carrière
 
 ### 1.1 Enfance et origine du surnom
-- **Vrai nom/naissance**
+- **Vrai nom/Naissance**
 Le vrai nom de M. Vegas est **Clifford Smith**. Né le 29 septembre 1974 à Kingston, Jamaïque.
 - **Pseudo "M. Vegas"**
 Enfant, elle jouait au football en short rose à l'école et ses camarades de classe la comparaient à une « fille de Vegas ». Le surnom de « Mr.Vegas » a été adopté comme nom de scène.
@@ -69,7 +69,7 @@ Il a enregistré « Nike Air » avec un producteur, même avec la mâchoire tend
 - **Thème des paroles**
 Il contient des messages critiques et moraux sur le comportement sexuel et met en lumière le respect d'elles-mêmes des femmes et la force de leur insistance à dire « non ».
 - **Reconnaissance internationale**
-Ce fut un succès non seulement en Jamaïque, mais aussi en Angleterre et aux États-Unis.
+Ce fut un succès non seulement en Jamaïque mais aussi en Angleterre et aux États-Unis.
 - **Prix**
 A remporté le titre de « Meilleur artiste reggae » aux MOBO Awards.
 
@@ -122,14 +122,14 @@ Signature d'un contrat avec un label à Los Angeles et sortie de l'album « Pull
 
 ### 5.1 « Nike Air »
 - Utilise le riddim Playground. Une chanson qui utilise les baskets comme symbole d’expression de soi.
-- Les enregistrements réalisés après une blessure à la mâchoire ont créé une intonation et une personnalité uniques.
+- Les enregistrements réalisés après une blessure à la mâchoire ont créé une intonation unique et formé une personnalité.
 
 ### 5.2 « La tête haute »
 - Le riddim Filthy de Danny Browne.
 - Affirmer le droit des femmes à l'autodétermination et à la dignité sexuelles.
 - Se propage au-delà du marché dancehall/pop à la fin des années 1990.
 
-### 5.3 « Kokane (Kokane feat. Ayo) »
+### 5.3 « Kokane (Kokane feat. Ayo) »
 -BPM env. 96. Il existe des remix et plusieurs versions.
 - Dans les paroles, il symbolise la séduction, la manipulation, le plaisir et le caractère destructeur. Utiliser des drogues (cocaïne) comme métaphore.
 - Le contraste entre le refrain mélodique et le chant rugueux est impressionnant.
@@ -175,7 +175,7 @@ Signature d'un contrat avec un label à Los Angeles et sortie de l'album « Pull
 
 M. Vegas est un musicien dont le travail est un mélange complexe de la culture du sound system de Kingston, des luttes de la jeunesse, de la foi, de la responsabilité sociale et d'une vision de l'avenir.
 
-Ses chansons phares « Nike Air » et « Heads High » symbolisent le point de départ de sa carrière, tandis que « Kokane » présente un avertissement de tentation et de danger. Son dernier album, « Ghetto Reggae », combine un hommage à l'époque et au lieu où il a grandi avec un message contemporain.
+Ses chansons phares « Nike Air » et « Heads High » symbolisent le point de départ de sa carrière, tandis que « Kokane » présente un avertissement de tentation et de danger. Son dernier album, « Ghetto Reggae », combine un message moderne avec le respect de l'époque et du lieu dans lesquels il a grandi.
 
 Passionné par l'éducation, les commentaires sociaux et la préservation de la culture, il est non seulement musicien, mais également porteur, messager et leader culturel.
 
@@ -186,7 +186,7 @@ Passionné par l'éducation, les commentaires sociaux et la préservation de la 
 | Année | Événements |
 |---|---|
 | 1974 | Clifford Smith (M. Vegas), né à Kingston |
-| 1997 | "Nike Air" enregistré malgré une blessure à la mâchoire |
+| 1997 | « Nike Air » enregistré malgré une blessure à la mâchoire |
 | 1998 | Sortie du single « Heads High » et du premier album « Heads High » |
 | 2001 | Sortie de l’album « Damn Right » |
 | 2004 | Sortie de l'album « Pull Up » |

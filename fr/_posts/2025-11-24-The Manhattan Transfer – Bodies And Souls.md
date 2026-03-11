@@ -10,13 +10,13 @@ tags:
 - Jazz-Funk
 - Contemporary Jazz
 - 80s
-title: Le transfert de Manhattan – Corps et âmes
+title: The Manhattan Transfer – Bodies And Souls
 ---
 
 
-Manhattan Transfer est un groupe vocal américain formé à New York en 1969. Il a interprété une variété de genres musicaux, notamment l'a cappella, le jazz brésilien, le swing, le vocalese, le rythme et le blues, la pop et les standards.
+マンハッタン・トランスファーは、1969年にニューヨークで結成されたアメリカのボーカルグループ。アカペラ、ブラジリアンジャズ、スウィング、ボーカレーズ、リズム&ブルース、ポップ、スタンダードなど様々な音楽ジャンルを演奏した。
 
-" Bodies and Souls " est le septième album studio sorti par le label Atlantic Records en 1983.
+「Bodies and Souls」は、1983年にレーベル Atlantic Recordsからリリースされた7枚目のスタジオアルバム。
 
 #### Liste des chansons
 ```md

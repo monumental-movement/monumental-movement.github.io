@@ -91,11 +91,11 @@ La culture du bouche-à-oreille et des commentaires générée par les utilisate
 
 > Myspace n'était pas seulement une plateforme pour la musique, mais aussi une plateforme qui soutenait l'expression personnelle et la formation culturelle des utilisateurs.
 
-Myspace était plus qu'un simple endroit pour partager de la musique ; il a également servi de toile permettant aux individus d’exprimer leur culture et leurs passe-temps. La personnalisation des pages de profil était un élément important qui reflétait le sens esthétique et les goûts des utilisateurs. Il était possible de sélectionner des images d'arrière-plan, des couleurs, des polices et même de décorer en utilisant HTML et CSS, permettant aux artistes de présenter une vision visuelle du monde avec de la musique.
+Myspace était plus qu'un simple endroit pour partager de la musique ; il a également servi de toile permettant aux individus d’exprimer leur culture et leurs passe-temps. La personnalisation des pages de profil était un élément important qui reflétait le sens esthétique et les goûts des utilisateurs. Il était possible de sélectionner des images d'arrière-plan, des couleurs, des polices et de décorer à l'aide de HTML et CSS, permettant aux artistes de présenter une vision visuelle du monde avec de la musique.
 
 Des communautés ancrées dans des genres et des régions spécifiques se sont également activement formées. Des utilisateurs partageant les mêmes passe-temps et valeurs, comme l'emo, le punk, l'indie rock et le hip-hop, se sont connectés les uns aux autres via des demandes d'amis et des commentaires, et une scène en ligne a été créée. Il s’agit d’un réseau mondial qui transcende les contraintes géographiques, contrairement aux scènes musicales traditionnelles limitées à certaines régions. Des événements en direct et des CD autoproduits ont également été activement annoncés, et une culture s'est formée dans laquelle les communautés en ligne étaient directement connectées aux activités hors ligne.
 
-Cette expansion de la communauté représentait le prototype de la culture SNS en tant que lieu d'expression de soi centré sur la musique. Plutôt que de simplement consommer passivement de la musique, les utilisateurs ont pu interagir avec des artistes et faire eux-mêmes partie de la culture. Grâce à son interactivité et à son haut degré de liberté d'expression, Myspace a construit une sphère culturelle unique et différente des autres réseaux sociaux.
+L’expansion de cette communauté représentait le prototype de la culture SNS en tant que lieu d’expression de soi centré sur la musique. Plutôt que de simplement consommer passivement de la musique, les utilisateurs ont pu interagir avec des artistes et faire eux-mêmes partie de la culture. Avec son interactivité et son haut degré de liberté d'expression, Myspace a construit une sphère culturelle unique et différente des autres réseaux sociaux.
 
 ---
 
@@ -111,7 +111,7 @@ Bien que Myspace ait tenté de se renommer au cours de cette période, elle n'a 
 
 ---
 
-## Réévaluation de la culture musicale Myspace dans les années 2000
+## Réévaluation de la culture musicale Myspace des années 2000
 
 > La musique indépendante moderne et la culture Internet ne seraient pas possibles sans les efforts de Myspace, et leur importance est en train d'être réévaluée.
 

@@ -17,7 +17,7 @@ title: Genecom – EP Quaternaire
 
 Genecom est un projet du DJ/producteur techno suédois Adam Beyer et du compositeur Peter Benisch. Il travaille également sous les noms d'Audicom, Mental Glue, Rubber Duck et The Syncapator.
 
-"Quaternary EP" est une chanson Trance/Techno/Acid sortie par le label techno néerlandais Planet Rhythm Records en 1994.
+"Quaternary EP" est Trance/Techno/Acid sorti par le label techno néerlandais Planet Rhythm Records en 1994.
 
 #### Liste des chansons
 ```md

@@ -152,7 +152,7 @@ D2. Optic
 ### Chirurgien – Sec
 <a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.webp"></a>
 
-Sortie : 1999
+Sortie : 1999
 
 Track techno intense sous le nom de Surgeon
 

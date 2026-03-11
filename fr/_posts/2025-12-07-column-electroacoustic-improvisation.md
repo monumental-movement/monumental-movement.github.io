@@ -65,7 +65,7 @@ La « libération des sons non instrumentaux » démontrée par Eddie Prévost e
 
 ### 2-3. Origine ③ : bruit des années 1980-1990/son électronique alternatif
 Le bruit japonais (Merzbow, Incapacitants, etc.) a exposé la « matérialité du son » à travers la recherche ultime des matériaux acoustiques.
-De leur côté, Otomo Yoshihide et Sachiko M ont introduit des sons électroniques minimaux et sophistiqués (ondes sinusoïdales) dans leurs improvisations, créant ainsi les fondements de l'EAI : « réduire le nombre de sons » et « mettre l'accent sur l'espace ».
+De leur côté, Otomo Yoshihide et Sachiko M ont improvisé des sons électroniques minimaux et sophistiqués (ondes sinusoïdales) et ont posé les bases de l'EAI : « réduire le nombre de sons » et « mettre l'accent sur l'espace ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ Son chef-d'œuvre "Endless Summer" (2001) a été très apprécié comme exemple
 Du point de vue de l’EAI, les points suivants sont importants :
 
 - Traitez le son brut de la guitare et le son traité sur le même plan
-- Introduction du glitch noise pour improviser
+- Introduire du bruit de glitch pour improviser
 - Traitez votre ordinateur portable comme un « deuxième instrument »
 - Intégrer le traitement du signal (filtrage, granulaire) comme acte de performance
 
@@ -156,7 +156,7 @@ L'exemple du Sachiko M est un exemple typique dans lequel seule la tonalité de 
 Le traitement en temps réel utilisant Max/MSP et Pure Data est caractérisé par le style de Fennesz.
 Il est important de noter que l’ordinateur portable n’est pas un capteur ; le traitement lui-même est un acte de performance.
 
-##4-4. Effecteur / Bruit physique
+##4-4. Effecteur / Bruit Physique
 Les techniques qui utilisent des signaux au-delà de l'intention musicale, tels que les microphones de contact, le retour du mixeur et le bruit de l'alimentation électrique, sont également courantes.
 
 ---

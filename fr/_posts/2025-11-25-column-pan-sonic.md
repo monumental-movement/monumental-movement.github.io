@@ -20,7 +20,7 @@ title: '[Chronique] Pan Sonic - Minimalisme acoustique extrême : le courant noi
 
 Texte : mmr｜Thème : Contexte de la formation de Pan Sonic, approche acoustique, caractéristiques de leurs œuvres, impact des performances live, influence sur l'histoire de la musique électronique
 
-Lorsqu'on parle de l'histoire de la musique électronique depuis les années 1990, rares sont les artistes qui ont autant changé la matérialité même du son que **Pan Sonic (anciennement Panasonic)**. Le duo Mika Vainio et Ilpo Väisänen, basé à Helsinki, a complètement détruit les frontières entre techno, industriel, noise et minimalisme, créant des œuvres de vibrations électroniques très pures qui peuvent être décrites comme « la crudité de l'électricité ».
+Lorsqu'on parle de l'histoire de la musique électronique depuis les années 1990, rares sont les artistes qui ont autant changé la matérialité même du son que **Pan Sonic (anciennement Panasonic)**. Le duo Mika Vainio et Ilpo Väisänen, basé à Helsinki, a complètement détruit les frontières entre techno, industriel, noise et minimalisme, créant des œuvres aux vibrations électroniques d'une grande pureté qui peuvent être décrites comme « la crudité de l'électricité ».
 
 En particulier, leurs activités du milieu à la fin des années 1990 ont trouvé un écho auprès de la foule techno minimale de Berlin, de la scène sonore électronique de Warp Records au Royaume-Uni et de la culture noise japonaise, élargissant considérablement les horizons du son expérimental. La particularité de Pan Sonic est qu'il ne s'appuie pas sur des synthétiseurs ou des ordinateurs généraux, mais utilise **des équipements analogiques faits maison, des composants électroniques modifiés et des séquences de pas minimales** pour créer des sculptures sonores d'une beauté structurelle approfondie.
 
@@ -47,7 +47,7 @@ Lorsque Pan Sonic a été formé en Finlande au début des années 90, la scène
 Mika Vainio était à l'origine actif dans le genre industriel/noise, et au début des années 1990, il s'est tourné vers les expériences sonores électriques. Ilpo Vaisanen a également évolué entre les domaines de l'électronique DIY et de l'art de la performance.
 
 ### Débuts sous le nom de Panasonic
-Vers 1993, les deux hommes ont commencé à collaborer sous le nom **Panasonic** et ont sorti leur première source sonore en 1994. Une grande partie de l'équipement était constituée de circuits analogiques modifiés, de systèmes de rétroaction et d'oscillateurs, et le composant principal était des vibrations électroniques physiques, qui étaient complètement différentes des formes existantes de musique de club.
+Vers 1993, les deux hommes ont commencé à collaborer sous le nom de **Panasonic** et ont sorti leur première source sonore en 1994. Une grande partie de l'équipement était constituée de circuits analogiques modifiés, de systèmes de rétroaction et d'oscillateurs, et le composant principal était des « vibrations électroniques physiques » qui étaient complètement différentes des formes existantes de musique de club.
 Sur la scène musicale de l’époque, rares étaient ceux qui présentaient le minimalisme électroacoustique sous une forme aussi pure.
 
 ### Problème de nom avec Matsushita Electric
@@ -145,7 +145,7 @@ Mika Vainio a sorti de nombreuses œuvres sous le nom de solo Ø (Zéro). Il par
 
 ---
 
-# 6. Suspension et fin des activités, et ce qui reste
+# 6. Suspension et fin des activités, ce qui reste
 
 Vers 2010, Pan Sonic a fait une pause et Mika Vainio est décédé en 2017.
 Cela a mis fin aux activités de Pan Sonic, mais les œuvres restantes continuent d'influencer les musiciens électroniques du monde entier.

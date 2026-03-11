@@ -15,7 +15,7 @@ title: Soeur Plus! – Agio
 ---
 
 
-1996年にリリースされたオランダ出身の男女デュオ Soeur Plus! (スール・プリュ!)のデビューアルバム。
+Le premier album du duo néerlandais Soeur Plus !, sorti en 1996.
 
 #### Liste des chansons
 ```md

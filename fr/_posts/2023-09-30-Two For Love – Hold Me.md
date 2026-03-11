@@ -9,11 +9,11 @@ permalink: /fr/two-for-love-hold-me/
 tags:
 - Italo
 - Euro Beat
-title: Two For Love – Hold Me
+title: Deux pour l'amour - Tiens-moi
 ---
 
 
-「Hold Me」は、1989年にイタリアのレーベル「Euroenergy」からリリースされたAlessia AquilaniによるプロジェクトTwo For LoveのEPです。
+"Hold Me" est un EP du projet Two For Love d'Alessia Aquilani, sorti en 1989 sur le label italien "Euroenergy".
 
 #### Liste des chansons
 ```md

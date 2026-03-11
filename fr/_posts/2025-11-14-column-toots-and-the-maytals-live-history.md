@@ -86,7 +86,7 @@ En 1970, Toots and the Maytals entreprennent leur première tournée européenne
 **Représentation en direct** :
 
 * Lorsque l'intro de "Monkey Man" commence à jouer, le public secoue naturellement les épaules et danse en cercle.
-* Toots crie : « Chante-le avec moi ! et tout le public chante.
+* Toots crie : "Chante-le avec moi !" et tout le public chante.
 
 * Les riffs de guitare et d'orgue résonnent sur le sol, créant une danse impromptue.
 

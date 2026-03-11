@@ -22,7 +22,7 @@ title: '[Chronique] Musique didgeridoo et culture indigène australienne'
 Texte : mmr｜Thème : Une histoire culturelle qui interprète la musique didgeridoo, enracinée dans les sociétés autochtones du nord de l'Australie, dans une perspective à plusieurs niveaux basée sur les différences régionales, les différences linguistiques et les exemples tribaux.
 
 
-Le didgeridoo est un instrument à vent traditionnel utilisé par les communautés aborigènes d'Australie, principalement de la côte nord jusqu'à l'intérieur. Généralement, le matériau est fabriqué à partir d'un tronc d'eucalyptus creusé par les termites, et l'ouverture d'un côté est recouverte de cire d'abeille pour ajuster la sensation en bouche. Bien que la structure soit extrêmement simple, les sons émis ne se limitent pas à des drones monophoniques, mais comportent des couches acoustiques complexes combinant harmoniques, rythmes et vocalisations.
+Le didgeridoo est un instrument à vent traditionnel utilisé par les communautés aborigènes d'Australie, principalement de la côte nord jusqu'à l'intérieur. Généralement, le matériau est fabriqué à partir d'un tronc d'eucalyptus creusé par les termites, et la sensation en bouche est ajustée en appliquant de la cire d'abeille sur l'ouverture d'un côté. Bien que la structure soit extrêmement simple, les sons émis ne se limitent pas à des drones monophoniques, mais comportent des couches acoustiques complexes combinant harmoniques, rythmes et vocalisations.
 
 Le nom « didgeridoo », courant aujourd'hui, ne provient pas de langues autochtones, mais a été créé par des anglophones au début du 20e siècle comme terme onomatopée. Dans les sociétés autochtones, les instruments de musique sont nommés en relation avec la terre et la langue, et les différents noms reflètent les différences culturelles.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Origine et aire de répartition historique
 
-Il n’existe aucun matériel archéologique indiquant clairement l’origine du didgeridoo. Parce qu'il est fait de bois, il est difficile de le préserver physiquement, et la compréhension actuelle repose sur l'art rupestre, les traditions orales et les matériaux ethnographiques de la période coloniale. L'art rupestre du nord de la Terre d'Arnhem représente des personnages jouant de longs instruments tubulaires, et il a été suggéré que l'art rupestre pourrait avoir au moins plusieurs centaines d'années, voire plus de 1 000 ans.
+Il n'existe aucun matériel archéologique montrant une date claire concernant l'origine du didgeridoo. Parce qu'il est fait de bois, il est difficile de le préserver physiquement, et la compréhension actuelle repose sur l'art rupestre, les traditions orales et les matériaux ethnographiques de la période coloniale. L'art rupestre du nord de la Terre d'Arnhem représente des personnages jouant de longs instruments tubulaires, et il a été suggéré que l'art rupestre pourrait avoir au moins plusieurs centaines d'années, voire plus de 1 000 ans.
 
 Il est important de noter que le didgeridoo n’existait pas naturellement dans toute l’Australie. Aucune culture d'instruments de musique pré-contact similaire n'a été identifiée dans le sud-est, en Tasmanie et dans une grande partie de la région désertique centrale. En d'autres termes, le didgeridoo n'était pas un symbole des « peuples autochtones en général », mais un produit culturel d'une région spécifique.
 
@@ -60,7 +60,7 @@ Le noyau de la culture du didgeridoo est la région de la Terre d'Arnhem qui s'�
 
 Dans l'ouest de la Terre d'Arnhem, il y avait de nombreux instruments relativement courts et épais, et un style de jeu axé sur le rythme s'est développé. En revanche, dans l’Est de la Terre d’Arnhem, on a tendance à mettre l’accent sur les performances qui maintiennent un drone long, étroit et stable. Ces différences ne sont pas simplement une question de préférence, mais découlent de leur relation avec le style de chant et la structure de la danse.
 
-> Les différences régionales n'apparaissent pas uniquement dans la musique, mais dans le système rituel dans son ensemble.
+> Les différences régionales n'apparaissent pas seulement dans la musique, mais dans le système rituel dans son ensemble.
 
 ---
 
@@ -108,7 +108,7 @@ Il y avait également des restrictions d'âge, et les représentations de série
 
 La respiration circulaire est une technique largement partagée, mais son utilisation varie selon les régions. À l’est, l’accent est mis sur la stabilité des sons soutenus, tandis qu’à l’ouest, les changements rythmiques intermittents sont prédominants.
 
-De plus, il existe des différences régionales dans les techniques utilisées pour produire des voix simultanées, comme l'ajout d'un grognement sourd ou l'accentuation des sons de langue. Celles-ci ne sont pas improvisées, mais stylisées pour chaque série de chansons.
+Il existe également des différences régionales dans les techniques utilisées pour produire des voix simultanées, comme l'ajout d'un grognement sourd ou l'accentuation des sons de langue. Celles-ci ne sont pas improvisées, mais stylisées pour chaque série de chansons.
 
 > La différence de technique n'est pas la nature de l'improvisation, mais la différence du système traditionnel.
 
@@ -212,7 +212,7 @@ Les modèles sonores du didgeridoo sont également traités non pas comme un sim
 
 ---
 
-## Relation entre l'art rupestre, la tradition orale et les archives modernes
+## Relation entre l'art rupestre, l'histoire orale et les archives modernes
 
 La recherche moderne implique des références croisées à l’art rupestre, aux traditions orales et aux enregistrements audio du XXe siècle. Il n’est pas possible d’appréhender l’ensemble de la culture en ne s’intéressant qu’à l’une d’entre elles.
 

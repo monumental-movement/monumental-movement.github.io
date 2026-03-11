@@ -64,7 +64,7 @@ Au milieu des années 1920, l’enregistrement one-shot était la norme dans les
 
 Dans son scat, les syllabes n'ont aucun sens, mais la disposition rythmique est très claire. Le début de la phrase est l'attaque de la trompette, et la fin converge naturellement avec le souffle. Ici, la voix agit comme un instrument mélodique et l’absence de paroles devient une condition préalable plutôt qu’une omission.
 
-Si vous écoutez attentivement les disques de cette époque, vous verrez que le sentiment de distance par rapport au groupe était également important. Le scat ne se perd pas dans l'accompagnement, mais il ne ressort pas trop non plus. Le sens de l'improvisation au sein de l'ensemble était déjà perfectionné.
+Si vous écoutez attentivement les disques de cette époque, vous vous rendrez compte que le sentiment de distance entre vous et le groupe était également important. Le scat ne se perd pas dans l'accompagnement, mais il ne ressort pas trop non plus. Le sens de l'improvisation au sein de l'ensemble était déjà perfectionné.
 
 <div class="mermaid">
 timeline

@@ -9,15 +9,15 @@ permalink: /fr/funkadelic-lets-take-it-to-the-stage/
 tags:
 - Funk
 - Soul
-title: Funkadelic – Let's Take It To The Stage
+title: Funkadelic – Montons sur scène
 ---
 
 
-「Let's Take It to the Stage」は、ファンカデリックの7枚目のスタジオアルバムでエネルギッシュなリズム、ファンキーなギターリフ、独特なヴォーカルハーモニーなど、ファンカデリックの要素が凝縮されています。
+"Let's Take It to the Stage" est le septième album studio de Funkadelic, et il résume les éléments de Funkadelic, tels que des rythmes énergiques, des riffs de guitare funky et des harmonies vocales uniques.
 
-「Let's Take It to the Stage」は、グルーヴィーなファンクビートとパワフルなギタープレイが特徴的でファンカデリックの実験的なアプローチとダイナミックなパフォーマンスを反映しています。
+"Let's Take It to the Stage" présente un rythme funk groovy et un jeu de guitare puissant, reflétant l'approche expérimentale et la performance dynamique de Funkadelic.
 
-「Get Off Your Ass and Jam」や「Stuffs and Things」は、ファンカデリックの音楽の多様性と創造性を示しており、彼らの実験的なサウンドと独自のスタイルを体現しています。
+"Get Off Your Ass and Jam" et "Stuffs and Things" mettent en valeur la diversité musicale et la créativité de Funkadelic, incarnant leur son expérimental et leur style unique.
 
 #### Liste des chansons
 ```md

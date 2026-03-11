@@ -46,7 +46,7 @@ B2. Fade
 
 
 
-### Modèle 500 – Espace profond
+### Modèle 500 – Espace lointain
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
@@ -283,7 +283,7 @@ B2. Scout
 
 Caractéristiques : Un EP qui contient 2 titres et crée une ambiance dure et industrielle.
 
-Point recommandé : La pression sonore intense a le pouvoir de faire exploser le sol d’un seul coup lorsqu’elle est utilisée aux heures de pointe.
+Point recommandé : Sa pression sonore intense a le pouvoir de faire exploser le sol d'un seul coup lors d'une utilisation aux heures de pointe.
 
 #### Liste des chansons
 ```md
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 Caractéristiques : Piste sorti sous le nom de « M » par Axis en 1992. Une chanson qui représente les débuts du minimalisme de Détroit.
 
-Points recommandés : Un disque incontournable pour les collectionneurs qui peuvent ressentir l'ambiance underground du début des années 90, avec un côté brut mais robuste.
+Points recommandés : Un disque incontournable pour les collectionneurs qui peuvent ressentir l'ambiance underground du début des années 90, avec un son brut mais robuste.
 
 
 #### Liste des chansons

@@ -9,12 +9,12 @@ permalink: /fr/gigi-dagostino-noise-maker-theme-2000/
 tags:
 - Trance
 - Progressive
-title: Gigi D'Agostino – Noise Maker Theme 2000
+title: Gigi D'Agostino – Thème Noise Maker 2000
 ---
 
 
-「Gigi D'Agostino – Noise Maker Theme 2000」は、
-素晴らしい'94年のオリジナルがB面に収録されています。
+"Gigi D'Agostino - Thème Noise Maker 2000" est
+Le grand original de 1994 est inclus sur la face B.
 
 
 #### Liste des chansons

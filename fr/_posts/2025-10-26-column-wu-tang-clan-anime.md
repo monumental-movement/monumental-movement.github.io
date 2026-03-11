@@ -24,7 +24,7 @@ De là est né un groupe appelé « Xiaolin » qui a bouleversé l’histoire du
 **Wu-Tang Clan** - La chaîne de mots combatifs et philosophiques tissés par neuf MC était une forme d'art étrange qui combinait la violence de rue avec la tranquillité bouddhiste.
 
 Au cœur de leur vision du monde, **les films de kung-fu, la philosophie orientale et « l’imagination animée »** coexistaient.
-Pour la jeunesse noire américaine des années 1990, la culture asiatique était à la fois une « arme spirituelle exotique » et un moyen d’échapper à l’oppression sociale.
+Pour la jeunesse noire américaine des années 1990, la culture asiatique était une « arme spirituelle exotique » et un moyen d’échapper à l’oppression sociale.
 Wu-Tang Clan a échantillonné Bruce Lee, Sun Tzu et Lao Tzu, et a ensuite résonné fortement avec l'esthétique de l'anime japonais.
 
 ---
@@ -53,10 +53,10 @@ Cette structure est similaire aux anime japonais, en particulier « Dragon Ball 
 Son Goku et Kenshiro se transcendent en combattant des ennemis extérieurs.
 RZA (le chef spirituel du Wu-Tang) a déclaré plus tard :
 
-> « Les guerriers animés étaient notre vie.
+> « Les guerriers anime étaient notre vie.
 > Ils se sont entraînés dans la solitude et ont lutté contre le monde. »
 
-Ce « shaolin spirituel = histoire d'entraînement » a une structure similaire à celle des luttes de rue.
+Ce « shaolin spirituel = histoire d'entraînement » a une structure similaire à la lutte de rue.
 L'« image de soi du samouraï » défendue par les membres du Wu-Tang Clan est devenue le prototype du « stoïcisme de type anime » qui s'est ensuite répandu dans le hip-hop.
 
 ---
@@ -68,7 +68,7 @@ L'audio du film de kung-fu « Shaolin Thirty-Six Chambers » est échantillonné
 Depuis, les motifs sonores asiatiques sont fréquemment apparus dans la musique du Wu-Tang.
 Mokugyo, le koto, le shakuhachi, le son des cloches des temples, tels étaient les symboles de « l'Orient » en tant que sons.
 
-Cependant, dans les années 2000, son intérêt s’est étendu aux « anime japonais ».
+Cependant, dans les années 2000, son intérêt s'est étendu aux « anime japonais ».
 RZA a montré un grand respect pour **Nujabes**, qui était le superviseur musical de "Samurai Champloo".
 Ghostface Killah a étendu son pseudonyme de « Tony Starks » à « Iron Man ».
 Il s'est ensuite impliqué dans la production de la bande originale d'Afro Samurai.
@@ -97,7 +97,7 @@ En même temps, il devient un pionnier de la « fusion avec le hip-hop » pour l
 
 Après le Wu-Tang Clan, le hip-hop a acquis le « langage pour parler d’anime ».
 Tyler, The Creator fait référence à "Akira" et "Neon Genesis Evangelion",
-Kanye West dépeint un monde semblable à un anime dans le MV de "Strong Feeling",
+Kanye West dépeint un monde semblable à celui d'un anime dans le MV de "Strong Feeling",
 Lil Uzi Vert et Megan Thee Stallion intègrent fièrement la « culture otaku » dans leur identité.
 
 Tous ces phénomènes sont une extension de la « fenêtre sur la fantaisie orientale » ouverte par le Wu-Tang.
@@ -116,8 +116,8 @@ Il mettait l'accent sur l'aspect « zen » du hip-hop et résonnait avec le mond
 En particulier, la musique de Nujabes combine échantillonnage et esthétique du ma.
 Il était spirituellement connecté au clan Wu-Tang, le « Samouraï du Son ».
 
-Dans les années 2020, des références claires apparaissent également dans les œuvres d’animation japonaises.
-L'influence du hip-hop lo-fi peut être vue dans la musique de fond de "Jujutsu Kaisen".
+Dans les années 2020, des références claires apparaissent dans les œuvres d’animation japonaises.
+L'influence du hip-hop lo-fi est visible dans la musique de fond de "Jujutsu Kaisen".
 Plusieurs artistes hip-hop participeront à la fin de « Chainsaw Man ».
 Ici, l’anime renoue une fois de plus avec le langage de la « rue ».
 

@@ -52,9 +52,9 @@ Au XXe siècle, l’industrialisation et l’électrification progressent, et le
 
 ## Combinaison de sons électroacoustiques et soutenus
 
-Aux débuts de la musique électronique, les sons soutenus étaient l’élément qui indiquait le plus directement les caractéristiques des sons électroniques. Contrairement aux instruments physiques, la forme d’onde continue produite par un oscillateur peut théoriquement être maintenue indéfiniment. Cette caractéristique a permis de rompre avec la structure musicale traditionnelle qui divise le temps en temps.
+Aux débuts de la musique électronique, les sons soutenus étaient l’élément qui indiquait le plus directement les caractéristiques des sons électroniques. La forme d’onde continue générée par un oscillateur, contrairement à un instrument physique, peut théoriquement être maintenue indéfiniment. Cette caractéristique a permis de rompre avec la structure musicale traditionnelle qui divise le temps en temps.
 
-Dans la musique sur bande et la musique électroacoustique, des tentatives ont été faites pour maintenir les sons sur de longues périodes ou pour créer des changements graduels, mais le contrôle en temps réel présentait des limites. C’est là qu’intervient le concept de contrôle de tension. Le système de contrôle de la hauteur et du timbre à l'aide de la tension est devenu la base des synthétiseurs modulaires ultérieurs et a fourni un moyen de modifier dynamiquement les sons soutenus.
+Dans la musique sur bande et la musique électroacoustique, des tentatives ont été faites pour maintenir les sons sur de longues périodes ou pour effectuer des changements progressifs, mais le contrôle en temps réel présentait des limites. C’est là qu’intervient le concept de contrôle de tension. Le mécanisme de contrôle de la hauteur et du timbre à l'aide de la tension est devenu la base des synthétiseurs modulaires ultérieurs et a fourni un moyen de modifier dynamiquement les sons soutenus.
 
 ---
 
@@ -62,7 +62,7 @@ Dans la musique sur bande et la musique électroacoustique, des tentatives ont �
 
 ### Structure et philosophie du système Moog
 
-Le synthétiseur Moog a été conçu autour d'un oscillateur et d'un filtre contrôlés en tension, avec un flux de signal relativement clair. La structure, conçue pour être connectée à un clavier et mettant l'accent sur la stabilité et la reproductibilité de la tonalité, a joué un rôle dans l'établissement du son électronique en tant qu'instrument jouable.
+Le synthétiseur Moog a été conçu autour d'un oscillateur et d'un filtre contrôlés en tension, avec un flux de signal relativement clair. La structure, conçue pour être connectée à un clavier et axée sur la stabilité et la reproductibilité de la tonalité, a joué un rôle dans l'établissement du son électronique en tant qu'instrument jouable.
 
 Cette structure est également importante dans la production de drones. Un oscillateur stable constitue la base d'un son soutenu sur une longue période, et la structure interne du son change au fil du temps grâce à la modulation progressive du filtre et de l'amplificateur. L'équipement modulaire de style Moog fournissait un environnement approprié pour produire des sons soutenus et contrôlés.
 
@@ -216,7 +216,7 @@ Le son soutenu a une grande affinité avec les galeries et les espaces d’insta
 
 ## Perspective des enregistrements de mouvements monumentaux
 
-Dans le contexte de Monumental Movement Records, les drones modulaires ne sont pas simplement de la musique expérimentale, mais se positionnent comme des pratiques sonores qui présentent de manière critique le temps, la structure et l’instrumentalité. Ici, les longues durées et les changements différentiels ont plus de valeur que les changements flashy ou les effets immédiats.
+Dans le contexte de Monumental Movement Records, les drones modulaires se positionnent non seulement comme de la musique expérimentale, mais aussi comme une pratique sonore qui présente de manière critique le temps, la structure et l'instrumentalité. Ici, les longues durées et les changements différentiels ont plus de valeur que les changements flashy ou les effets immédiats.
 
 Le vocabulaire est descriptif plutôt que décoratif, et l’analyse structurelle est prioritaire sur l’expression émotionnelle. Le son est à la fois un objet sensoriel et un support de pensée.
 

@@ -10,11 +10,11 @@ tags:
 - Disco
 - Euro
 - 80s
-title: Kim Taylor – Feel So Fine
+title: Kim Taylor – Sentez-vous si bien
 ---
 
 
-アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
+Arrangé et composé par Michiel Van Eijk de Proxyon. Les producteurs sont Erik van Vliet et Rob Van Eijk.
 
 #### Liste des chansons
 ```md

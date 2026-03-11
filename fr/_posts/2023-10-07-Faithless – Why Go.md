@@ -17,7 +17,7 @@ title: Infidèle – Pourquoi y aller
 
 "Pourquoi y aller?" est un morceau énergique et dansant qui présente les voix de Caroline Wheeler et Bo Ramsden. La chanson est composée de rythmes vibrants, d'un échantillonnage unique et de paroles émotionnelles, représentant le style caractéristique de Faithless.
 
-"Pourquoi y aller?" a également été un single à succès après sa sortie, atteignant le sommet du classement des singles britanniques. The song has become one of their signature songs for dance music fans and Faithless fans.
+"Pourquoi y aller?" a également été un single à succès après sa sortie, atteignant le sommet du classement des singles britanniques. La chanson est devenue l'une de leurs chansons emblématiques pour les fans de dance music et les fans de Faithless.
 
 Faithless a produit de nombreuses chansons à succès dans les années 1990 et 2000, se produisant dans des clubs et des festivals du monde entier. Leur musique était dansante, mais contenait un message qui captivait les gens.
 

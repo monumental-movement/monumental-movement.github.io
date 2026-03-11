@@ -9,11 +9,11 @@ permalink: /fr/alek-stark-we-love-you/
 tags:
 - Electro
 - Synth-Pop
-title: Alek Stark – We Love You
+title: Alek Stark – Nous t’aimons
 ---
 
 
-「Alek Stark – We Love You」は、ミュンヘンを拠点とする電子音楽レーベルDisko Bombs(Disko B)から2002年にリリースされたスペイン出身のエレクトロプロデューサー/アーティストAlek Stark(Serafín Gallego)によるエレクトロ/シンセポップトラック。
+« Alek Stark – We Love You » est un morceau électro/synth pop du producteur/artiste électro espagnol Alek Stark (Serafín Gallego), sorti en 2002 sur le label de musique électronique basé à Munich Disko Bombs (Disko B).
 
 #### Liste des chansons
 ```md

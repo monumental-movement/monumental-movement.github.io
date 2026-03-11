@@ -82,7 +82,7 @@ En particulier, *Black Earth* est traité comme un chef-d'œuvre du genre, avec 
 
 ---
 
-### ● L'ensemble Kilimanjaro Darkjazz (TKDE)
+### ● L'Ensemble Kilimanjaro Darkjazz (TKDE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zhaVSloxRmk?si=7SQMyYqa_WfQ6YCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -205,7 +205,7 @@ flowchart TD
 - Soirées piano (2014)
 
 ### ● L'Ensemble Kilimanjaro Darkjazz
-- L'ensemble Kilimanjaro Darkjazz (2006)
+- L'Ensemble Kilimanjaro Darkjazz (2006)
 - Voici les dragons (2009)
 - De la cage d'escalier (2011)
 

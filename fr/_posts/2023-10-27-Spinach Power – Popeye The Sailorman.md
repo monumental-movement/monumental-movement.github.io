@@ -15,7 +15,7 @@ title: Le pouvoir des épinards – Popeye le marin
 
 
 
-Une chanson disco sur le thème de "Popeye" sortie en 1978. Une chanson célèbre qui commence par les vers "3, 2, 1, 0". Le chanteur principal est Tetsuo Nishihama (ancien chanteur principal de Trans Am), le chœur est Tetsuro Oda et Yumi Murata, et Ryuichiro Senoo participe à l'harmonica.
+Une chanson disco sur le thème de "Popeye" sortie en 1978. Une chanson célèbre qui commence par les lignes "3, 2, 1, 0". Le chanteur principal est Tetsuo Nishihama (ancien chanteur principal de Trans Am), le chœur est Tetsuro Oda et Yumi Murata, et Ryuichiro Senoo participe à l'harmonica.
 
 
 #### Liste des chansons

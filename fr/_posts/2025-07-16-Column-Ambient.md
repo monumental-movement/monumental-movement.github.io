@@ -168,7 +168,7 @@ Musique d'ambiance pour la relaxation et la méditation.
 
 ### Ambient est un art spatial
 
-La musique d’ambiance n’est pas seulement une musique de fond, mais est également profondément liée aux idées et concepts artistiques suivants.
+La musique d’ambiance n’est pas seulement une musique de fond, elle est également profondément liée aux idées et concepts artistiques suivants.
 
 ** ● Minimalisme et Time Art **
 

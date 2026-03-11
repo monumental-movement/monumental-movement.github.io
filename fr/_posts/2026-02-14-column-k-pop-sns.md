@@ -18,15 +18,15 @@ title: '[Chronique] Relation entre la K-POP et la stratégie SNS | Pourquoi a-t-
 
 ## Pourquoi la K-POP est-elle si populaire ? - Facteurs de réussite vus de la structure
 
-Texte : mmr｜Thème : Comprendre le contexte derrière le succès mondial de la K-POP du point de vue d'une stratégie SNS basée sur des faits
+Texte : mmr｜Thème : Comprendre le contexte derrière le succès mondial de la K-POP du point de vue de la stratégie SNS
 
 ### La K-POP comme « système » qui transcende les genres musicaux
 
 La K-POP n'est pas seulement un genre musical. Il s'agit d'un modèle de divertissement complet qui intègre la production, la formation, les visuels, les performances et même le fonctionnement des SNS.
 
-En Corée du Sud, un système de formation dirigé par des agences de divertissement a été créé à la fin des années 1990, et des formations en chant, danse, langue, relations avec les médias, etc. ont été dispensées pendant plusieurs années par le biais du système de stagiaires. Les agences représentatives incluent SM Entertainment, YG Entertainment et JYP Entertainment.
+En Corée du Sud, un système de formation dirigé par des agences artistiques a été créé à la fin des années 1990, et des formations en chant, danse, langue, relations avec les médias, etc. ont été dispensées pendant plusieurs années par le biais du système de stagiaires. Les agences représentatives incluent SM Entertainment, YG Entertainment et JYP Entertainment.
 
-Ce flux de « nourriture → débuts → fourniture continue de contenu » a une grande affinité avec l'ère SNS, qui est une condition préalable importante au succès de la K-POP.
+Ce flux de « nourriture → débuts → fourniture continue de contenu » avait une grande affinité avec l'ère SNS, qui est devenue une condition préalable importante au succès de la K-POP.
 
 > La force de la K-POP ne réside pas dans des chansons individuelles, mais dans un « modèle stratégique » global qui inclut la conception opérationnelle.
 
@@ -88,7 +88,7 @@ En communiquant activement sur Twitter, ils façonnaient les tendances à l’é
 
 ### Événements majeurs
 
-* 1996 : CHAUD. début
+* 1996 : CHAUD. début
 * 2009 : Girls' Generation entre au Japon
 * 2012 : « Gangnam Style » un succès planétaire
 * 2018 : BTS classé premier au Billboard 200 américain

@@ -22,7 +22,7 @@ Texte : mmr | Thème : Autechre de Sean Booth et Rob Brown. Retracer l'évolutio
 Autechre est bien plus qu'un simple duo de musique électronique.
 Leur son est à la fois mathématique et brut. Cela paraît froid et laisse une aspérité un peu humaine. Sean Booth et Rob Brown, deux jeunes hommes qui se sont rencontrés dans le nord de Manchester, se sont engagés sur la voie d'une redéfinition de la structure même du son, en utilisant le hip-hop et la curiosité de l'ingénierie comme points de départ.
 
-Au début des années 1990, Autechre se fait remarquer dans la série Intelligence Artificielle de Warp Records. Ils cherchaient un moyen de « convertir les sons mécaniques en émotion ». Sean Booth a déclaré plus tard dans une interview :
+Au début des années 1990, Autechre se démarque parmi les séries sur l'intelligence artificielle de Warp Records. Ils cherchaient un moyen de « convertir les sons mécaniques en émotion ». Sean Booth a déclaré plus tard dans une interview :
 
 > « Pour nous, la techno ne consiste pas à éliminer l'émotion, mais à l'exprimer à travers une structure. »
 
@@ -105,7 +105,7 @@ Les performances live d'Autechre excluent complètement la présentation visuell
 Les lumières s'éteignent et la scène est sombre. Le public sera enveloppé dans un **espace de son pur**.
 Cette nature totalement inorganique est la preuve qu'ils visent à « dominer le corps par le son seul ».
 
-Dans les années 2010, ils ont sorti la **série AE_LIVE**. Nous avons enregistré tels quels les sons improvisés par le programme et présenté une structure différente pour chaque ville.
+Dans les années 2010, ils ont sorti la **série AE_LIVE**. Les sons improvisés par le programme ont été enregistrés tels quels et différentes structures ont été présentées pour chaque ville.
 De plus, « NTS Sessions 1–4 » (2018) est un chef-d’œuvre de plus de 8 heures. Il s'agit d'une réalisation monumentale dans laquelle Autechre a construit un « univers d'algorithmes acoustiques ».
 
 > « L'improvisation, c'est aussi emprunter la pensée d'un programme. »

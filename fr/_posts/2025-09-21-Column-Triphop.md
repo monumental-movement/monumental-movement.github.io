@@ -50,7 +50,7 @@ Le trip hop est plus qu'un simple genre musical, il s'est répandu dans le monde
 
 ---
 
-### Généalogie du trip hop
+### La généalogie du trip hop
 
 <div class="mermaid">
 flowchart TD
@@ -109,7 +109,7 @@ Dérivé du système audio Bristol "Wild Bunch". 3D (Robert Del Naja) est égale
 
 #### Technologie de production
 
-Plutôt qu'une platine vinyle, il « transforme le studio en instrument » et mélange échantillons et performances live. Caractérisé par des basses profondes et un traitement spatial de type dub.
+Plutôt que d'utiliser une platine vinyle, il « transforme le studio en instrument » et mélange échantillons et musique live. Caractérisé par des basses profondes et un traitement spatial de type dub.
 
 #### La vidéo fonctionne
 
@@ -154,7 +154,7 @@ Il existe des documentaires sur les tournées des années 90 comme "Welcome to P
 Endtroducing... est inscrit dans le Livre Guinness des records comme le « premier album entièrement construit à partir d'échantillons ». Terminé à l'aide d'un MPC et d'une platine vinyle.
 
 #### Technologie de production
-Tirer pleinement parti de la reconstruction du breakbeat, du beat jonglerie et du time stretching. Considérez le plateau tournant comme un « outil de collage ».
+Utilise pleinement la reconstruction du breakbeat, le jonglage des rythmes et l'étirement du temps. Traitez le plateau tournant comme un « outil de collage ».
 
 #### La vidéo fonctionne
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。

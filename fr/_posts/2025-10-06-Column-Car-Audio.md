@@ -65,7 +65,7 @@ color: #fff;
 ###Nissan/Infiniti
 
 - **Modèle représentatif** : Infiniti QX80 (système d'enceintes Bose 16)
-- **Technologie** : analysez le placement des enceintes et les réflexions des matériaux et effectuez les réglages en collaboration avec BOSE pour optimiser l'acoustique de la voiture
+- **Technologie** : Pour optimiser l'acoustique de la voiture, le placement des haut-parleurs et les réflexions des matériaux ont été analysés et réglés en collaboration avec BOSE.
 
 ---
 
@@ -136,7 +136,7 @@ color: #fff;
 ### Chrysler/Jeep
 
 - **Modèle représentatif** : Wrangler (enceintes Alpine 9, 480W)
-- **Technologie** : Ajustement pour maintenir la qualité sonore même sous le bruit extérieur
+- **Technologie** : Ajustement pour maintenir la qualité sonore même en cas de bruit extérieur
 
 ---
 
@@ -268,7 +268,7 @@ Maintenant que le passage aux véhicules électriques progresse, l'élément sym
 L’acoustique embarquée commence à jouer un nouveau rôle.
 C'est une « salle d'écoute mouvante » et un « univers acoustique personnel ».
 Les fabricants du monde entier ne recherchent plus la puissance ou le silence ;
-**"Quels types de sons pouvez-vous entendre en courant ?"** Il s'agit d'une nouvelle valeur d'expérience.
+**"Quels types de sons pouvez-vous entendre lorsque vous courez ?"** Il s'agit d'une nouvelle valeur d'expérience.
 
 L’audio automobile ne cesse d’évoluer.
 La conception acoustique est corrigée par l'IA et le siège devient une plaque résonante, modifiant le champ sonore en fonction du rythme cardiaque et de l'humeur du conducteur.

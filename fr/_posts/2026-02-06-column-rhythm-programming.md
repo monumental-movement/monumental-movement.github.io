@@ -53,14 +53,14 @@ La structure la plus basique consiste à placer le coup de pied sur les 1er et 3
 
 La conception d’accents n’exige pas que toutes les notes soient jouées avec la même intensité. En rendant simplement le premier temps du coup de pied le plus fort et le troisième un peu plus faible, vous pouvez créer une impression d'avant et d'arrière dans l'écoulement du temps.
 
-### Cas : rythme fort corrigé et rythme fort décalé
+### Cas : Correction d'un rythme fort et rythme fort décalé
 
 * Battement fort fixe : les 1er et 3ème battements sont toujours à l'intensité maximale
 * Fort décalage de battement : 1er battement maximum, 3e battement supprimé
 
 Dans ce dernier cas, la seconde moitié semble plus légère et la boucle donne l'impression d'avancer.
 
-> Les 16 divisions égales ne constituent pas un dessin final, mais une ébauche de dessin.
+> Les 16 divisions égales ne constituent pas une conception finale, mais une ébauche de conception.
 
 ---
 
@@ -166,7 +166,7 @@ En réorganisant les boucles existantes, vous pouvez redessiner la structure tou
 
 ### Cas : Reconstruction complète de l'étape
 
-En l'organisant à partir de zéro, la structure temporelle reflète purement la philosophie du design.
+En l'organisant à partir de zéro, la structure temporelle reflète purement le concept de design.
 
 > L'idée de conception rythmique change selon qu'elle est axée sur le matériau ou sur la structure.
 
@@ -202,7 +202,7 @@ Accent mis sur les backbeats et les fluctuations dérivées des échantillons. L
 
 Complexité structurelle et conception asymétrique. Les décalages dans les périodes et les signatures rythmiques irrégulières perturbent la notion du temps.
 
-> Un genre est une collection d'idées de conception rythmique.
+> Genre est une collection d'idées de conception de rythme.
 
 ---
 
@@ -289,7 +289,7 @@ B[ステップベース] --> D[設計由来の時間]
 
 Les différences dans la programmation rythmique proviennent du type de pensée du concepteur plutôt que de différences techniques.
 
-### Concepteur de performances
+### Concepteur de modèles de performances
 
 Il est du genre à construire des rythmes à partir de ses sensations physiques, et les déviations et les dynamiques surgissent spontanément. Cela va bien avec la pensée MPC.
 
@@ -299,7 +299,7 @@ Considérez le temps comme un bloc et construisez un rythme par placement et omi
 
 ### Concepteur abstrait
 
-Traitez le temps entièrement comme un objet de design et déterminez la structure grâce à une manipulation visuelle. Basé sur la pensée du piano roll.
+Traitez le temps entièrement comme un objet de design et déterminez la structure par une manipulation visuelle. Basé sur la pensée du piano roll.
 
 Un type n’est pas meilleur que l’autre. L’important est d’être conscient de votre propre style de pensée et de changer en fonction de vos objectifs.
 
@@ -307,11 +307,11 @@ Un type n’est pas meilleur que l’autre. L’important est d’être conscien
 
 ---
 
-## Dernier chapitre : Réflexions sur la conception rythmique
+## Dernier chapitre : Réflexions sur la conception du rythme
 
 La programmation rythmique ne consiste pas à arranger les sons. Il s’agit de concevoir une expérience basée sur la façon dont la perception auditive du temps est perçue.
 
-Même si la technologie évolue, cette essence reste la même. Le rythme n’est pas le son joué, mais la structure elle-même, y compris le temps qui n’est pas joué.
+Même si la technologie évolue, cette essence reste la même. Le rythme n'est pas le son joué, mais plutôt la structure elle-même, y compris le moment où il n'est pas joué.
 
 > La programmation rythmique est l'idée de concevoir un temps où l'on n'entend pas.
 

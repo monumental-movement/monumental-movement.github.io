@@ -47,7 +47,7 @@ color: #fff;
 
 ## Début de carrière et scène house britannique des années 1990
 
-Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, où le son minimal influencé par la techno de Détroit se croisait avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
+Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, le son minimal influencé par la techno de Détroit se croisant avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
 
 Vers 1994, son travail attire progressivement l'attention des DJ de clubs. La philosophie de conception consistant à se fondre dans le flux du mix sans utiliser de breaks flashy ou d'échantillons excessifs avait une valeur différente de celle des hits instantanés.
 
@@ -126,7 +126,7 @@ Les DJ ne « jouent » pas de chansons, ils les « arrangent ». Pooley a profon
 
 Les chansons de Pooley, en revanche, suppriment intentionnellement le pic de réaction. Cela a permis aux DJ de concevoir eux-mêmes la dynamique de l’ensemble du set, et les chansons sont devenues un matériau réutilisable encore et encore.
 
-### Rôle dans la culture des DJ house au Royaume-Uni
+### Rôle dans la culture house DJ britannique
 
 Pour les DJ house britanniques, les chansons de Pooley ont servi de plaque tournante inter-genres. Il peut être intégré naturellement dans des décors deep house, tech house ou minimalistes, et sa flexibilité est très appréciée.
 

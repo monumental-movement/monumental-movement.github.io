@@ -132,7 +132,7 @@ Jazz, hip-hop, ambient, art sonore - il ne rentre dans aucun d'entre eux, mais c
   - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
   - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
-- **Œuvres musicales**
+- **La musique fonctionne**
 - *Instruments de musique nouveaux et redécouverts* (avec Max Eastley, 1975)
 - *Cérémonies d'écran* (1990)
 - *Musée du Fruit* (1996)

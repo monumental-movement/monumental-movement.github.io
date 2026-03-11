@@ -14,7 +14,7 @@ title: Fiona - Oups... je l'ai encore fait
 ---
 
 
-"Fiona – Oops... I Did It Again" est une reprise de la célèbre chanson de Britney Spears.
+"Fiona – Oops... I Did It Again" est une reprise de la même chanson célèbre de Britney Spears.
 
 Publié par le label jamaïcain Joe Frasier.
 

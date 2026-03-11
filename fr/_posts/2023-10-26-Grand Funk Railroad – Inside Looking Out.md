@@ -10,13 +10,13 @@ tags:
 - Rock
 - Hard Rock
 - 7inch
-title: Grand Funk Railroad – Inside Looking Out
+title: Grand Funk Railroad – Vue de l’intérieur vers l’extérieur
 ---
 
 
-Grand Funk Railroad（グランド ファンク レイルロード/グランドファンク/GFR) は、1970 年代に活躍したアメリカのハードロックバンドです。
+Grand Funk Railroad (Grand Funk Railroad/Grand Funk/GFR) est un groupe de hard rock américain actif dans les années 1970.
 
-「Inside Looking Out（孤独の叫び）」は、は彼らからリリースされた7インチです。
+"Inside Looking Out" est un 7 pouces qu'ils ont sorti.
 
 #### Liste des chansons
 ```md

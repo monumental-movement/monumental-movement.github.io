@@ -75,7 +75,7 @@ Un rythme qui parle entre les sons, c'est ce qui a élevé le jazz au rang d'art
 ---
 
 Yoshio Suzuki et Kunimitsu Inaba, qui ont soutenu les cafés de jazz d'après-guerre au Japon,
-Profitant de cette « liberté des sons de basse » avec les sensibilités de votre propre pays,
+Profitant de cette « liberté des sons graves » avec les sensibilités de notre propre pays,
 En peu de temps, ils créaient leur propre groove unique la nuit à Tokyo.
 
 ---
@@ -127,7 +127,7 @@ Ce qu’il a établi, c’est l’esthétique du « groove en japonais ».
 ---
 
 Hironori Ito du groupe Tatsuro Yamashita, Tsugutoshi Goto, Akira Okazawa──
-Ils ont créé un son de classe mondiale entre chansons populaires et AOR.
+Ils ont créé un son qui relie le monde entre les chansons populaires et AOR.
 La guitare basse ne joue plus un rôle en coulisses, mais devient un élément qui soutient la « dignité » de la musique.
 
 ---
@@ -202,7 +202,7 @@ Elle a été transmise comme une « sculpture sonore » qui fait résonner l’e
 
 ---
 
-##VI. Conclusion : la basse est « le subconscient de la société »
+## VI. Conclusion : la basse est « le subconscient de la société »
 
 La basse n'est pas le centre de la musique.
 Cependant, il continue d'être le « sol » sur lequel reposent tous les sons.

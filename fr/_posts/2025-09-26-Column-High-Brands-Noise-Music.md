@@ -154,7 +154,7 @@ Artistes associés : Sex Pistols (Johnny Rotten), premier groupe industriel.
 
 Les bruits environnementaux et le bruit blanc ont été introduits dans les années 2000.
 
-Fusionner le bruit urbain avec « l'élégance ».
+Fusionner le bruit urbain avec « l’élégance ».
 
 Artistes associés : Ryoji Ikeda, Oval.
 
@@ -255,7 +255,7 @@ COMME des GARÇONS — Une tradition d'incorporation de sons/bruit expérimentau
 
 | Spectacle / Matériaux | Artistes en vedette | Points supplémentaires | Références |
 | ------------------------------------ | ------------------------------------------------- : | ------------------------------------------------------------------------------------ | ----------------- |
-| Comme des Garçons SS15 (Épisodes de la collection tels que "Red") | **Sons de type drone, dont Sunn O))), Terre (drone/drone metal)** | Dazed a rapporté dans un article spécial que « des groupes de type drone (Sunn O))), Earth) ont été utilisés dans la bande originale de SS15. » Un exemple typique où l'esthétique sombre et le son de la série sont fortement liés. ([Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 (épisode de collection tel que "Red") | **Sons de type drone, dont Sunn O))), Terre (drone/drone metal)** | Dazed a rapporté dans un article spécial que « des groupes de type drone (Sunn O))), Earth) ont été utilisés dans la bande originale de SS15. » Un exemple typique où l'esthétique sombre et le son de la série sont fortement liés. ([Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
 | Comme des Garçons (son réalisé pour les défilés de mode) | **Florian Hecker** (produit de la musique pour la mode/sorties 12" disponibles) | Selon certaines informations, Hecker aurait produit plusieurs chansons pour Comme des Garçons, et une édition limitée a été publiée par les Editions Mego. Une pièce "son contemporaine" exclusivement pour le spectacle. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | PE14/Playlist d'archives, etc. | Afficher la playlist (mélange de sons expérimentaux, de sons environnementaux et de bruit) | Exemple de collage sonore pour une émission téléchargée sur le SoundCloud/playlist de Dazed, etc. Pratique pour « vérifier » les sources sonores de l'émission. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
@@ -311,12 +311,12 @@ COMME des GARÇONS — Une tradition d'incorporation de sons/bruit expérimentau
 
 ### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior (chaque vidéo + artiste associé)
 
-| Marque | Vidéo représentative | Artiste en vedette (reportage/crédit) |
+| Marque | Vidéo représentative | Artiste vedette (reportage/crédit) |
 | ------------------- | -------------------- |------------------------------- |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga hiver 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4) ; Affiche la liste de lecture – [Liste de lecture YouTube](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Conception sonore : **BFRND** (Afficher la partition exclusive)/Exemple d'utilisation du son industriel |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能  |
 | **Alexander McQueen**    | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)  | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）   | 
-| **Louis Vuitton** | Divers enregistrements de spectacles et d'afterparty (exemples d'archives) — Questions liées aux DJ de Daft Punk / Virgil Abloh (multiples) | Dans le passé, **Daft Punk** assurait l'édition des chansons sur LV et utilisait également **Dev Hynes (Blood Orange)** pour la partition (période Virgil Abloh) |
+| **Louis Vuitton** | Divers enregistrements de show & afterparty (exemples d'archives) — Relations DJ Daft Punk / Virgil Abloh, etc. (multiples) | Dans le passé, **Daft Punk** assurait l'édition des chansons sur LV et utilisait également **Dev Hynes (Blood Orange)** pour la partition (période Virgil Abloh) |
 | **Dior** | Dior (diverses campagnes/vidéos de spectacle) | Il existe de nombreux cas dans lesquels des sound designers comme Frédéric Sanchez sont impliqués, et il y a un lien avec la production de type ambient/drone |
 
 ---

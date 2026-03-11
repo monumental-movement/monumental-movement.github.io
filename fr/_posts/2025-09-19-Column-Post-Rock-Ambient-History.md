@@ -69,7 +69,7 @@ color: #fff;
 |------|--------------|----|------|
 | *La Perle* | Harold Budd et Brian Eno | 1984 | Piano + Sons ambiants |
 | *Trésor* | Jumeaux Cocteau | 1984 | Ambiance pop de rêve |
-| *Esprit d'Eden* | Parler Parler | 1988 | Le post-rock naissant |
+| *Esprit d'Éden* | Parler Parler | 1988 | Le post-rock naissant |
 | *Apollo : Ambiances et bandes sonores* | Brian Eno | 1983 | Ambiance cosmique |
 
 **Équipement principal**

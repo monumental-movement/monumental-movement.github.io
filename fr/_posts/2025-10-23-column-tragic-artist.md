@@ -14,7 +14,7 @@ title: '[Chronique] Comment percevoir le charme des artistes destructeurs - Entr
 ---
 
 
-## Prologue : Un cœur attiré par la tragédie
+## Prologue : Un cœur attiré par la tragédie
 
 
 Texte : mmr｜Thème : Génie et destruction, création et autodestruction. De Kurt Cobain à Amy Winehouse en passant par Yukio Mishima. Découvrez pourquoi les gens sont attirés par les artistes destructeurs du point de vue de la psychologie, de l’histoire culturelle et de la science du cerveau.
@@ -112,7 +112,7 @@ Même après la mort, la souffrance est « divinisée ».
 
 Cependant, l'empathie est censée signifier « comprendre leur douleur et souhaiter leur rétablissement ».
 Plutôt que de nous enivrer de la destruction, que pouvons-nous en tirer et comment pouvons-nous en guérir ?
-C’est la nouvelle éthique de l’acceptation de l’art au 21e siècle.
+C’est la nouvelle éthique de l’acceptation de l’art au 21ème siècle.
 
 ---
 

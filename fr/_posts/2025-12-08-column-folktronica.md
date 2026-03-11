@@ -23,7 +23,7 @@ Texte : mmr｜Thème : À propos de l'histoire, des techniques, des influences, 
 Folk-Tronica/Indietronica est une tendance musicale hybride du 21e siècle et au-delà, où les sons simples des instruments acoustiques se croisent avec les textures des sons électroniques.
 Il est né du mariage de mélodies folk, d’arpèges de guitare, d’enregistrements sur le terrain de sons naturels et de culture d’échantillonnage électronique sur ordinateur portable.
 
-Four Tet (Kieran Hebden), Caribou (Daniel Snaith) et Bonobo (Simon Green) font partie de ceux qui ont clairement présenté ce genre au monde.
+Certains des artistes qui ont clairement présenté ce genre au monde incluent **Four Tet (Kieran Hebden)**, **Caribou (Daniel Snaith)** et **Bonobo (Simon Green)**.
 Bien qu’ils aient tous une formation en musique électronique, ils ont élargi le contexte de l’électro depuis les années 2000 en échantillonnant et en reconstruisant une variété de musiques telles que le jazz, le folk, la musique ethnique et le post-rock.
 
 ---
@@ -53,7 +53,7 @@ Principales caractéristiques :
 - Montage numérique (découpage, traitement granulaire)
 - Texture d'enregistrement sur le terrain
 - Mélodie simple mais émotionnelle
-- Coexistence du « toucher » et de « l'objet artificiel »
+- Coexistence du « toucher » et des « objets artificiels »
 
 ### ■ Qu'est-ce qu'Indietronica ?
 Le flux d'introduction de la musique électronique dans le contexte du rock indépendant.
@@ -127,7 +127,7 @@ Exemple : Four Tet est connu pour son édition de sons du quotidien.
 
 ---
 
-## 4. Historique des genres
+## 4. Histoire du genre
 
 <div class="mermaid">
 timeline

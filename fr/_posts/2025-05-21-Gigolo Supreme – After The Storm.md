@@ -11,15 +11,15 @@ tags:
 - Deep House
 - House
 - 90s
-title: Gigolo Supreme – After The Storm
+title: Gigolo Supreme – Après la tempête
 ---
 
 
-「Gigolo Supreme – After The Storm」は、1996年にNervous Recordsからリリースされたハウスミュージックのクラシックな12インチシングルで、フランキー・フェリシアーノ（Frankie Feliciano）のプロデュースによるものです。
+"Gigolo Supreme - After The Storm" est un single classique de 12 pouces de musique house sorti par Nervous Records en 1996 et produit par Frankie Feliciano.
 
-ジャズとハウスの融合が特徴で、スムースでグルーヴィーなサウンドが魅力。サックスやキーボード、力強いドラムが織りなす「Vinyl Saturday Mix」は特に人気で、ジャズハウスやアシッドジャズのファンに愛されています。
+Caractérisé par une fusion de jazz et de house, il a un son doux et groovy. Le « Vinyl Saturday Mix », qui comprend un saxophone, des claviers et une batterie puissante, est particulièrement populaire et apprécié des fans de jazz house et d'acid jazz.
 
-この曲は、20年以上経った今もDJやハウスミュージック愛好者に重宝され、パーティーの盛り上げやチルアウトに最適とされています。
+Plus de 20 ans plus tard, cette chanson est toujours l'une des préférées des DJ et des amateurs de musique house, et est considérée comme parfaite pour faire la fête ou se détendre.
 
 #### Liste des chansons
 ```md

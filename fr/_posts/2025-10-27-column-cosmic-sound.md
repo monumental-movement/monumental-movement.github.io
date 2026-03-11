@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Retrace la philosophie sonore unique créée par un méla
 Fin des années 1970, sur les rives du lac de Garde, dans le nord de l'Italie.
 Personne ne savait que cet endroit, qui n'était qu'un lieu de villégiature pour touristes, deviendrait plus tard le centre d'un phénomène acoustique appelé **Cosmic Sound**.
 Le personnage central est **Daniele Baldelli**.
-Il est devenu plus qu'un simple DJ, il est devenu connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
+Il n'est pas seulement un DJ, mais il est également connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
 
 La scène disco de l'époque était dominée par le rythme 4/4, représenté par la soul et la house music américaines.
 Cependant, Baldelli entremêle musique ethnique, sons électroniques, rock progressif, batterie africaine et même krautrock.
@@ -64,7 +64,7 @@ Cela fait que la même piste sonne comme un signal provenant d’une planète in
 Un mélange de krautrock allemand (Can, Neu !), de musique africaine, d'ambiance électronique et de synth disco italien.
 C'est comme un juke-box extraterrestre.
 
-- **Rituels** :
+- **Rituel** :
 Au Cosmic Club, les lumières et les boules à facettes sont supprimées et la fumée et les projecteurs dominent l'espace.
 Plutôt que de danser, le public a eu l'impression d'être « immergé » dans le son.
 
@@ -91,7 +91,7 @@ Il y avait une forte impression de « composer » à nouveau les sons enregistr�
 
 | Sources utilisées | Exemples spécifiques |
 |:--|:--|
-| Kraftwerk, Can, Ash Ra Tempel |
+| Usine Kraft | Kraftwerk, Can, Ash Ra Tempel |
 | Musique électronique italienne | Claudio Gizzi, Tullio De Piscopo |
 | Sons afro/ethniques | Manu Dibango, Fela Kuti |
 | Thème spatial | Espace, fusées, Cerrone |

@@ -42,7 +42,7 @@ color: #fff;
 ## 1. Origine : La germination du folk Takuroku (années 1970-1990)
 
 ### 1-1. Années 1970 : essor de la culture de l'enregistrement à domicile
-Les magnétophones grand public sont devenus populaires à la fin des années 1970 et, avec l’avènement des platines cassettes bon marché, la culture de l’enregistrement à domicile s’est répandue. Même dans le monde de la musique folk, le prototype du « folk enregistré à la maison » a émergé, dans lequel les artistes s'enregistrent en train de jouer et de chanter dans leur propre chambre.
+Les magnétophones grand public sont devenus populaires à la fin des années 1970 et, avec l’avènement des platines cassettes bon marché, la culture de l’enregistrement à domicile s’est répandue. Dans le monde de la musique folk, le prototype du « folk enregistré à la maison » est apparu, dans lequel les artistes eux-mêmes s'enregistrent en train de jouer et de chanter dans leur propre chambre.
 
 #### Principales pratiques
 - Branchez le microphone dynamique directement sur la platine cassette
@@ -50,10 +50,10 @@ Les magnétophones grand public sont devenus populaires à la fin des années 19
 - Enregistrement en une seule prise avec presque aucun mixage
 - Création sonore qui conserve les échos naturels de la pièce
 
-Bien que la qualité sonore ne soit pas excellente, elle a été louée pour sa capacité à préserver la distance entre la voix chantée et la guitare et l'atmosphère de la pièce.
+Même si la qualité sonore n'était en aucun cas excellente, elle a été louée pour sa capacité à préserver la distance entre la voix chantée et la guitare et l'atmosphère de la pièce.
 
 ### 1-2. Années 1980-1990 : connexion entre le folk indie et le Takuroku
-À la fin des années 1980, des MTR à cassettes 4 pistes bon marché (TASCAM Portastudio, etc.) sont apparus et la qualité de l'enregistrement à domicile s'est considérablement améliorée.
+À la fin des années 1980, des MTR à cassettes 4 pistes bon marché (tels que TASCAM Portastudio) sont apparus et la qualité de l'enregistrement à domicile s'est considérablement améliorée.
 
 L'enregistrement s'est imposé comme un moyen d'expression personnelle,
 - Multi-enregistrement
@@ -82,7 +82,7 @@ De nombreux enregistrements sont réalisés au domicile de l'artiste et comprenn
 - Voix chuchotée
 - Laissant des bruits de guitare acoustique et des éraflures de doigts
 - Enregistrez l'air ambiant et la réverbération des minutes tels quels
-- « Proximité » unique à l'enregistrement à domicile à faible volume
+- « Sentiment de proximité » propre à l'enregistrement à domicile à faible volume
 
 Ces éléments ont défini l’image sonore du Lo-Fi Folk à partir des années 2000.
 

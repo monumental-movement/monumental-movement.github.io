@@ -9,13 +9,13 @@ permalink: /fr/sexual-harrassment-i-need-a-freak/
 tags:
 - Electro
 - Anthem
-title: Sexual Harrassment – I Need A Freak
+title: Harcèlement sexuel – J'ai besoin d'un monstre
 ---
 
 
-Sexual Harrassmentは、DJ兼プロデューサーのLynn Tolliver, Jr（リン・トリバー・ジュニア　別名：David Payto/デヴィッド・ペイトン）を中心とした米国発のプロジェクト。
+Sexual Harrassment est un projet américain centré sur la DJ et productrice Lynn Tolliver, Jr. (également connue sous le nom de David Payto).
 
-「I Need A Freak」のオリジナル盤は1989年リリース。このレコードは2004年リリースのReissue盤。
+La version originale de "I Need A Freak" est sortie en 1989. Ce disque est une réédition sortie en 2004.
 
 #### Liste des chansons
 ```md

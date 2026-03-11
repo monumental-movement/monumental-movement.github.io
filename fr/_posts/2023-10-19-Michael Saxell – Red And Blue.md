@@ -9,11 +9,11 @@ permalink: /fr/michael-saxell-red-and-blue/
 tags:
 - Rock
 - Pops
-title: Michael Saxell – Red And Blue
+title: Michael Saxell – Rouge et bleu
 ---
 
 
-Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
+Michael Saxell est un auteur-compositeur/compositeur/parolier/multi-instrumentiste/producteur suédois.
 
 #### Liste des chansons
 ```md

@@ -216,7 +216,7 @@ Réévalué à l'international avec la série Éthiopiques.
 
 ### ■ Tilahun Gessesse
 
-Un chanteur connu comme le « roi de la musique éthiopienne ». Il est un ancien membre d'un orchestre militaire et possède des compétences avancées en chant.
+Un chanteur connu comme le « roi de la musique éthiopienne ». Il est un ancien membre d'un orchestre militaire et possède de grandes compétences en chant.
 
 ### ■ Hailu Mergia
 
@@ -238,7 +238,7 @@ Il a ensuite été redécouvert à Washington, D.C., et a fait le tour du monde.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Élargir l'interprétation des modes jazz
+* Expansion de l'interprétation du mode jazz
 * Fréquemment utilisé comme échantillon dans le hip-hop
 * Influence sur l'Afrobeat/Afrofusion
 

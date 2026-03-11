@@ -71,7 +71,7 @@ Ces musiques ne « décrivent » pas la nature. Il s’agit d’un acte visant �
 
 ---
 
-## Symbolisme des systèmes d'instruments et des matériaux
+## Symbolisme de l'instrumentation et des matériaux
 
 
 Les instruments utilisés sont fabriqués à partir de matériaux obtenus du milieu environnant. Les principaux matériaux sont le bois, le bambou, les os, les graines, les coquillages et l'argile, chacun ayant une symbolique spécifique.

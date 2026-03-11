@@ -10,14 +10,14 @@ permalink: /fr/bobby-dambrosio-presents-with-kelli-sae-the-todd-terry-project-he
 tags:
 - House
 - 90s
-title: Bobby D'Ambrosio Presents With Kelli Sae / The Todd Terry Project – Here I
-  Am / For You
+title: Bobby D'Ambrosio présente avec Kelli Sae / Le projet Todd Terry – Me voici
+  / Pour vous
 ---
 
 
-Aは、1994年〜2006年までDef Mix Productionsのメンバーとして活動したDJ／プロデューサーBobby D'AmbrosioとシンガーKelli Saeの「Here I Am」を、Aretha Franklin、Pet Shop Boys、Jamiroquaiなど、そうそうたるアーティストのリミックス作品を手がけたDJ／プロデューサーDavid Morales（デヴィッド・モラレス）がremix。
+A est un remix de "Here I Am" du DJ/producteur Bobby D'Ambrosio, membre de Def Mix Productions de 1994 à 2006, et de la chanteuse Kelli Sae, du DJ/producteur David Morales, qui a travaillé sur des remix pour des artistes notables tels que Aretha Franklin, Pet Shop Boys et Jamiroquai.
 
-Bは、ハウスミュージックの大御所DJ／プロデューサーTodd Terry (トッドテリー)によるもの。
+B est de Todd Terry, un important DJ/producteur de musique house.
 
 #### Liste des chansons
 ```md

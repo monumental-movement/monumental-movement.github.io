@@ -22,7 +22,7 @@ Ce morceau représente les changements survenus sur la scène techno depuis la s
 
 Inutile de dire que le succès de « Knights Of The Jaguar » a eu un impact énorme sur la scène techno, et de nombreux artistes ont commencé à rechercher des sons plus durs et plus agressifs, conduisant la techno à évoluer vers une musique plus expérimentale et avant-gardiste.
 
-« Day n' Night » de Samuel L est une œuvre représentative du son techno après le révolutionnaire « Knights Of The Jaguar », qui a marqué un tournant dans la scène techno et a également été une influence majeure.
+« Day n' Night » de Samuel L est une œuvre représentative du son techno après le révolutionnaire « Knights Of The Jaguar », qui a marqué un tournant dans la scène techno et a également eu une grande influence.
 
 Parmi les morceaux techno de 2001, c'est un son techno juste après le millénaire, avec des éléments funky entrelacés avec un rythme droit, une grosse caisse agréable, pas de breaks ni de chant, juste de la musique qui joue.
 

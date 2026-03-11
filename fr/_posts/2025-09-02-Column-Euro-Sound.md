@@ -141,30 +141,30 @@ color: #fff;
 | アーティスト | アルバム/シングル | 特徴・ヒット曲 |
 |---|---|---|
 | Ace of Base | *Happy Nation / The Sign* (1993/1994) | 「All That She Wants」「The Sign」など全米ヒット |
-| Roxette | *Joyride* (1991) | ポップ・ロック融合。「Joyride」「Fading Like a Flower」収録 |
-| Dr. Alban | *One Love* (1992) | ユーロ・レゲエ融合。「Sing Hallelujah!」ヒット |
-| Rednex | *Sex & Violins* (1995) | カントリー×テクノ融合。「Cotton Eye Joe」世界的ヒット |
-| Army of Lovers | *Massive Luxury Overdose* (1991) | キャンプ＆耽美ユーロポップ。「Crucified」が代表曲 |
+| Roxette | *Joyride* (1991) | Fusion pop-rock. « Joyride » et « Fading Like a Flower » inclus |
+| Dr Alban | *Un amour* (1992) | Fusion euro-reggae. « Chantez Alléluia ! » frappé |
+| Rednex | *Sexe et violons* (1995) | Fusion country x techno. « Cotton Eye Joe » à succès mondial |
+| Armée des Amoureux | *Surdose massive de luxe* (1991) | Camp & Esthétique Europop. « Crucified » est la chanson représentative |
 
 ---
 
-### 比較表まとめ：制作国別「ユーロの個性」
+### Récapitulatif du tableau comparatif : « Personnalité européenne » par pays de production
 
 
 
-|   | イタリア | ドイツ | スウェーデン |
+| | Italie | Allemagne | Suède |
 |---|---|---|---|
-| **BPM** | 高速（140〜160） | 標準〜やや速め（128〜140） | ミドル（110〜130） |
-| **美意識** | 派手・感情的・劇的 | 機械的・構造的 | ソフト・ポップ・洗練 |
-| **主戦場** | 日本市場・アニメ・パラパラ | クラブ／レイヴ | 国際ポップ市場 |
-| **メロディ傾向** | 明快・派手・リードシンセ | 繰り返し・暗め | 親しみやすく歌メロ中心 |
-| **文化的特徴** | Italo Discoの継承 | 精密工業的クラブ思考 | 北欧ポップの輸出志向 |
+| **BPM** | Rapide (140-160) | Standard à légèrement rapide (128-140) | Milieu (110-130) |
+| **Esthétique** | Flashy, émouvant, dramatique | Mécanique, structurel | Doux, pop, sophistiqué |
+| **Champ de bataille principal** | Marché japonais/Anime/Parapara | Club/Rave | Marché international de la pop |
+| **Tendance mélodique** | Synthé lead clair, flashy | Répétitif, sombre | Convivial, surtout des mélodies |
+| **Caractéristiques culturelles** | Héritage d'Italo Disco | Pensée de club industriel de précision | Orientation vers l'exportation de la pop nordique |
 
 
 ---
 
-### ユーロ・ミュージックは“国境の音楽”ではなく、“国民性の音”だった
-90年代ユーロ・ミュージックの最大の魅力は、「世界共通語」的に機能しながら、実はその中に各国の文化や美学が濃厚に埋め込まれていることだ。  
-同じような4つ打ちでも、イタリアの熱、ドイツの硬質さ、スウェーデンの清涼感は明らかに違う。  
+### La musique européenne n'était pas une « musique nationale » mais un « son national »
+Le plus grand attrait de la musique européenne des années 1990 est que, même si elle fonctionne comme un « langage universel », elle est en réalité profondément ancrée dans la culture et l’esthétique de chaque pays.
+Même si elles se ressemblent toutes, la chaleur de l’Italie, la dureté de l’Allemagne et la fraîcheur de la Suède sont clairement différentes.
 
-グローバルとローカルの交差点に生まれた音楽。 それが、90年代ユーロの本質なのかもしれない。
+Une musique née à l'intersection du global et du local. C’est peut-être là l’essence de l’euro des années 1990.

@@ -43,7 +43,7 @@ color: #fff;
 
 À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que des groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et de la polyphonie vocale s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
 
-Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. En particulier, c'était une époque où plusieurs groupes émergents émergeaient en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars des coins de rue.
+Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. C'est en particulier à cette époque que plusieurs groupes émergents ont émergé en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars des coins de rue.
 
 ---
 
@@ -102,9 +102,9 @@ Ces chansons montrent le cœur de la musique dance de Veve, tout en montrant cla
 
 ## Rôle de la guitare solo
 
-La guitare solo de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
+La guitare principale de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
 
-- montée en tête chromatique
+- Montée chromatique
 - trémolo rapide
 - Courtes répétitions de motifs de 2 à 4 mesures
 
@@ -296,7 +296,7 @@ L'héritage musical de Veve est
 
 * **Augmentation de la vitesse de Soukusu**
 * **Musique urbaine dirigée par le saxophone**
-* **Subdivision ensemble de guitares**
+* **Subdivision de l'ensemble de guitares**
 Il a eu une profonde influence sur la musique congolaise contemporaine.
 
 En outre, le modèle de production musicale basé sur un système, qui créait une infrastructure d’enregistrement et formait de manière dynamique de jeunes interprètes, a servi de ligne directrice majeure pour la gestion ultérieure des labels.

@@ -137,7 +137,7 @@ Cela a entraîné la démocratisation de l'enseignement musical et la diversific
 D'un autre côté, la division entre l'éducation systématique et l'auto-apprentissage a également été soulignée.
 Même si l’on s’inquiète d’un déclin des capacités de base en théorie et en lecture musicale, les résultats d’apprentissage qui mettent l’accent sur la créativité ont également été confirmés.
 
-L’environnement numérique a fait passer l’éducation musicale d’une carrière à voie unique à un modèle d’apprentissage à voies multiples.
+L’environnement numérique a fait évoluer l’éducation musicale d’une carrière à voie unique vers un modèle d’apprentissage à voies multiples.
 
 > La numérisation élargit la portée de l'éducation musicale et change en même temps la façon dont nous percevons l'éducation elle-même.
 

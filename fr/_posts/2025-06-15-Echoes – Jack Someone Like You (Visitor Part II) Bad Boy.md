@@ -21,7 +21,7 @@ A. Jack -Bienvenue au club des enfants perdus〜Jack-
 B1. Quelqu'un comme toi (Visiteur Partie II)
 B2. Mauvais garçon
 
-Echoes est un groupe de rock japonais formé en 1981 et dirigé par Hitoshi Tsuji. Ils ont sorti sept albums originaux et se sont dissous en 1991.
+Echoes est un groupe de rock japonais formé en 1981 par Hitoshi Tsuji. Ils ont sorti sept albums originaux et se sont dissous en 1991.
 
 Ce disque est un maxi single sorti par CBS/Sony en 1985. Le producteur est Akira Inoue.
 

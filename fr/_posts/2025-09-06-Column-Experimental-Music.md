@@ -10,24 +10,25 @@ tags:
 - Experimental
 - Avant-garde
 - Noise
-title: 【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで
+title: '[Chronique] Histoire et chefs-d''œuvre de la musique expérimentale : des origines
+  à nos jours'
 ---
 
 
 
-## Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤  
+## Histoire et chefs-d'œuvre de la musique expérimentale
 
 
-文：mmr｜テーマ：実験音楽に関する前衛からポスト・デジタル時代までの変遷
+Texte : mmr｜Thème : Les mutations des musiques expérimentales de l'avant-garde à l'ère post-numérique
 
 
-「エクスペリメンタル・ミュージック（実験音楽）」は、伝統的な和声や形式から逸脱し、**音そのものの可能性を探求する試み**として誕生しました。クラシックの枠組みを超えた20世紀初頭の前衛運動から始まり、電子音響、インダストリアル、ノイズ、現代のデジタル音楽まで広がり続けています。ここでは、**年代ごとの時代背景、名盤、機材の変遷**を整理し、エクスペリメンタルの軌跡をたどります。
+La « musique expérimentale » est née comme une tentative de s'écarter des harmonies et des formes traditionnelles et d'explorer les possibilités du son lui-même. Cela a commencé avec le mouvement d'avant-garde du début du 20e siècle, qui a transcendé le cadre de la musique classique et continue de s'étendre pour inclure l'acoustique électronique, l'industrie, le bruit et la musique numérique moderne. Ici, nous organiserons le contexte historique, les disques célèbres et les changements d'équipement par décennie, et tracerons la trajectoire de la musique expérimentale.
 
 ---
 
-## 1940s〜1950s：実験音楽の胎動
-- **背景:** 戦後ヨーロッパとアメリカで、音楽の再構築が模索される。ジョン・ケージによる「偶然性の音楽」、シェーフェールによるミュージック・コンクレートが登場。  
-- **機材:** テープレコーダー、プリペアド・ピアノ、初期オシレーター。  
+## Années 1940-1950 : La naissance de la musique expérimentale
+- **Contexte :** L'Europe et l'Amérique d'après-guerre cherchent à reconstruire la musique. Apparaissent «Music of Chance» de John Cage et musique concrète de Schaeffer.
+- **Équipement :** Magnétophone, piano préparé, premier oscillateur.
 
 ### Chef-d'œuvre
 - [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)  
@@ -36,7 +37,7 @@ title: 【コラム】 Experimental Music（エクスペリメンタル・ミュ
 
 ---
 
-## おすすめ10選
+## 10 sélections recommandées
 
 
 <style type="text/css">
@@ -52,24 +53,24 @@ color: #fff;
 }
 </style>
 
-| アーティスト | トラック | 年 |
+| Artiste | Piste | Année |
 |--------------|----------|----|
 | Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4’33’’ | 1952 |
-| John Cage | Williams Mix | 1952 |
-| Pierre Henry | Symphonie pour un homme seul | 1950 |
-| Karlheinz Stockhausen | Studie II | 1954 |
+| John Cage | Mélange Williams | 1952 |
+| Pierre Henri | Symphonie pour un homme seul | 1950 |
+| Karlheinz Stockhausen | Étude II | 1954 |
 | Edgard Varèse | Poème électronique | 1958 |
-| John Cage | Imaginary Landscape No.4 | 1951 |
-| Luigi Russolo（再録音作品） | Intonarumori Demo | 1940s再現 |
+| John Cage | Paysage Imaginaire No.4 | 1951 |
+| Luigi Russolo (réenregistrement) | Démo Intonarumori | reproduction des années 1940 |
 | Morton Feldman | Projection I | 1950 |
-| Earle Brown | December 1952 | 1952 |
+| Earle Brown | décembre 1952 | 1952 |
 
 ---
 
-## 1960s：アヴァンギャルドと電子音楽の開花
-- **背景:** ミニマリズム、アヴァンギャルド芸術運動、サイケデリック文化と共振。モジュラーシンセの誕生。  
-- **機材:** Moog Modular, Buchla, EMS VCS3, テープループ。  
+## Années 1960 : L’épanouissement de l’avant-garde et de la musique électronique
+- **Contexte :** Résonne avec le minimalisme, les mouvements artistiques d'avant-garde et la culture psychédélique. La naissance du synthétiseur modulaire.
+- **Équipement :** Moog Modular, Buchla, EMS VCS3, boucle de bande.
 
 ### Chef-d'œuvre
 - [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)  
@@ -78,26 +79,26 @@ color: #fff;
 
 ---
 
-## おすすめ10選
+## 10 sélections recommandées
 
-| アーティスト | トラック | 年 |
+| Artiste | Piste | Année |
 |--------------|----------|----|
-| La Monte Young | The Second Dream of the High-Tension Line Stepdown Transformer | 1962 |
-| Terry Riley | In C | 1968 |
-| Steve Reich | Piano Phase | 1967 |
-| Pauline Oliveros | Bye Bye Butterfly | 1965 |
-| Silver Apples | Oscillations | 1968 |
-| Stockhausen | Kontakte | 1960 |
-| Alvin Lucier | Music for Solo Performer | 1965 |
-| Cornelius Cardew | Treatise | 1967 |
-| Morton Subotnick | Silver Apples of the Moon | 1967 |
-| AMM | AMMMusic | 1966 |
+| La Monte Jeune | Le deuxième rêve du transformateur abaisseur de ligne haute tension | 1962 |
+| Terry Riley | En C | 1968 |
+| Steve Reich | Phase de piano | 1967 |
+| Pauline Oliveros | Au revoir papillon | 1965 |
+| Pommes d'argent | Oscillations | 1968 |
+| Stockhausen | Contacter | 1960 |
+| Alvin Lucier | Musique pour artiste solo | 1965 |
+| Corneille Cardew | Traité | 1967 |
+| Morton Subotnick | Pommes d'argent de la lune | 1967 |
+| AMM | AMMMusique | 1966 |
 
 ---
 
-## 1970s：ノイズ、インダストリアルの萌芽
-- **背景:** パンクや前衛芸術と交差しながら「騒音」を音楽に取り込む。インダストリアル・カルチャーの誕生。  
-- **機材:** EMS Synthi A, ARP 2600, Roland System 100, 自作ノイズジェネレーター。  
+## Années 1970 : Le bruit, l’émergence de l’industriel
+- **Contexte :** Incorporer le « bruit » dans la musique tout en croisant le punk et l'art d'avant-garde. La naissance de la culture industrielle.
+- **Équipement :** EMS Synthi A, ARP 2600, Roland System 100, générateur de bruit maison.
 
 ### Chef-d'œuvre
 - [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)  
@@ -106,18 +107,18 @@ color: #fff;
 
 ---
 
-## おすすめ10選
+## 10 sélections recommandées
 
-| アーティスト | トラック | 年 |
+| Artiste | Piste | Année |
 |--------------|----------|----|
-| Throbbing Gristle | Hamburger Lady | 1978 |
-| Brian Eno | Discreet Music | 1975 |
+| Cartilage palpitant | Dame de hamburger | 1978 |
+| Brian Eno | Musique discrète | 1975 |
 | Faust | Krautrock | 1973 |
-| Philip Glass | Music in Twelve Parts (Part 1) | 1974 |
-| Laurie Anderson | O Superman (ライブ原曲) | 1979 |
-| Tangerine Dream | Phaedra | 1974 |
-| Kraftwerk | Autobahn | 1974 |
-| Suicide | Ghost Rider | 1977 |
+| Philippe Verre | Musique en douze parties (Partie 1) | 1974 |
+| Laurie Anderson | Ô Superman (original en direct) | 1979 |
+| Rêve de mandarine | Phèdre | 1974 |
+| Usine Kraft | Autoroute | 1974 |
+| Suicide | Cavalier fantôme | 1977 |
 | Charlemagne Palestine | Musique à gratter | 1974 |
 | Robert Ashley | Écriture automatique | 1979 |
 
@@ -135,11 +136,11 @@ color: #fff;
 
 ---
 
-## おすすめ10選
+## 10 sélections recommandées
 
-| アーティスト | トラック | 年 |
+| Artiste | Piste | Année |
 |--------------|----------|----|
-| Merzbow | Musique acoustique métal | 1981 |
+| Arc de Merz | Musique Acoustique Métallique | 1981 |
 | Infirmière avec plaie | Yagga Blues | 1982 |
 | Glenn Branca | Leçon n°1 | 1980 |
 | Actuel 93 | Le sang des chiens monte | 1984 |
@@ -164,9 +165,9 @@ color: #fff;
 
 ---
 
-## おすすめ10選
+## 10 sélections recommandées
 
-| アーティスト | トラック | 年 |
+| Artiste | Piste | Année |
 |--------------|----------|----|
 | Ovale | Faire pendant | 1995 |
 | Aphex Jumeau | Rhubarbe | 1994 |
@@ -177,7 +178,7 @@ color: #fff;
 | Scanner | Observation de masse | 1994 |
 | Matmos | Rhinoplastie en Californie | 1998 |
 | Ikeda + Alva Noto | Acronyme universitaire | 1999 |
-| Merzbow | Démon Pulse (piste 1) | 1996 |
+| Arc de Merz | Démon Pulse (piste 1) | 1996 |
 
 ---
 
@@ -193,9 +194,9 @@ color: #fff;
 
 ---
 
-## おすすめ10選
+## 10 sélections recommandées
 
-| アーティスト | トラック | 年 |
+| Artiste | Piste | Année |
 |--------------|----------|----|
 | Fennesz | Été sans fin | 2001 |
 | Yeux de loup | Poignardé au visage | 2004 |
@@ -222,9 +223,9 @@ color: #fff;
 
 ---
 
-## おすすめ10選
+## 10 sélections recommandées
 
-| アーティスト | トラック | 年 |
+| Artiste | Piste | Année |
 |--------------|----------|----|
 | Oneohtrix Point Jamais | Réplique | 2011 |
 | Tim Hecker | Vierges | 2013 |
@@ -249,9 +250,9 @@ color: #fff;
 - [Caterina Barbieri – *Spirit Exit* (2022)](https://amzn.to/3W4Hg4M)  
 
 ---
-## おすすめ10選
+## 10 sélections recommandées
 
-| アーティスト | トラック | 年 |
+| Artiste | Piste | Année |
 |--------------|----------|----|
 | Houx Herndon | Frontière | 2019 (chœur IA) |
 | Kali Malone | Torche vivante I | 2022 |

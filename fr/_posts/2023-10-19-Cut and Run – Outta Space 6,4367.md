@@ -9,11 +9,11 @@ permalink: /fr/cut-and-run-outta-space-6-4367/
 tags:
 - Breaks
 - Break Beat
-title: Couper et courir – Hors de l'espace 6,4367
+title: Cut & Run – Outta Space 6,4367
 ---
 
 
-"Outta Space 6,4367" échantillonne "Out Of Space" de The Prodigy.
+「Outta Space 6,4367」は、The Prodigy 「 Out Of Space 」をサンプリング。
 
 #### Liste des chansons
 ```md

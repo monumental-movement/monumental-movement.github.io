@@ -52,7 +52,7 @@ color: #fff;
 # Chapitre 1 : Jeune MC de Brooklyn – Le point de départ d'El-P (1990-1993)
 
 Le personnage principal de Company Flow, **El-P (El Producto)**, est originaire de Brooklyn, New York.
-Il a passé son enfance à une époque où le mouvement hip-hop se développait de manière explosive à New York et travaillait déjà au rap et à la production de cassettes lorsqu'il était adolescent.
+Il a passé son enfance à une époque où le mouvement hip-hop se développait de manière explosive à New York et travaillait déjà au rap et à la réalisation de cassettes indépendantes lorsqu'il était adolescent.
 
 Les lieux suivants étaient importants dans l’underground new-yorkais au début des années 1990.
 
@@ -108,7 +108,7 @@ Les battements construits par El-P ont la texture suivante.
 
 Le rap de Bigg Jus et El-P était plus idéologique et politique que la musique de rue.
 
-Les éléments suivants sont particulièrement remarquables.
+Les éléments suivants sont particulièrement visibles.
 
 * Critique de l'industrie musicale corporatisée
 * Doutes sur la société de manipulation de l'information et de surveillance
@@ -262,7 +262,7 @@ En éliminant le rap, l'esthétique beat d'El-P passe au premier plan.
 
 ### ● Expansion de l'expérimentation
 
-* Élimine le cri du DJ
+* Éliminez les cris du DJ
 * Le BPM, la structure et le nombre de couches sont plus complexes qu'avant
 * Augmentation des éléments électroniques
 * Mélange de textures Lo-Fi et Hi-Fi
@@ -393,10 +393,10 @@ Il a présenté une perspective qui est toujours d’actualité même après plu
 
 # Le dernier chapitre : une existence éphémère mais décisive
 
-L’héritage de Company Flow est
+Ce que Company Flow laisse derrière lui, c'est
 Cela va au-delà de la valeur des simples œuvres musicales.
 
-* Possibilités indépendantes
+* Possibilité d'indépendant
 *Autonomie de l'artiste
 * Importance de la politique
 * Le souterrain comme esthétique

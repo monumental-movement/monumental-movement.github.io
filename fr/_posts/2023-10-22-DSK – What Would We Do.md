@@ -17,7 +17,7 @@ title: DSK – Que ferions-nous
 
 Il est devenu populaire sur la scène dance music des années 1990 et a été joué dans de nombreux clubs et à la radio.
 
-"What Should We Do" est largement connue comme une chanson qui a été soutenue par de nombreux auditeurs pour sa facilité de danse sur la piste de danse et son son unique.
+"What Should We Do" est largement connu comme une chanson qui a été soutenue par de nombreux auditeurs pour sa facilité de danse sur la piste de danse et son son unique.
 
 #### Liste des chansons
 ```md

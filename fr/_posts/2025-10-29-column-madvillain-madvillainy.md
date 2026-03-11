@@ -104,7 +104,7 @@ Par exemple, le passage suivant :
 
 > "Le reste est vide, sans cerveau sauf le nerd intelligent"
 
-Les rimes internes de « vide », « cerveau » et « intelligent » sont enchaînées, transcendant le contexte et créant un sens en elles-mêmes.
+Les rimes internes de « vide », « cerveau » et « intelligent » s’enchaînent, transcendant le contexte et créant un sens en elles-mêmes.
 Son rap fonctionne comme un dispositif sonore plutôt que comme de la poésie.
 
 ### Tout en majuscules
@@ -166,7 +166,7 @@ Mais son absence a également favorisé « l’héritage des masques ».
 Désormais, **DOOM n'existe pas en tant que personne mais en tant que « méthode »**. Relier des fragments, cacher des noms et parler à travers des sons.
 
 [『Madvillainy』](https://amzn.to/3JhySfH)を再生するたびに、リスナーは“誰でもない誰か”になる。  
-C'est le plaisir de l'anonymat du 21e siècle.
+C'est le plaisir de l'anonymat du 21ème siècle.
 
 ---
 

@@ -12,9 +12,9 @@ title: Technasia – Force
 ---
 
 
-"Force" de Technasia peut être qualifié d'hymne techno.
+このTechnasiaによる「Force」はテクノのアンセムといってもよいでしょう。
 
-"Force" est un grand classique, avec le chant qui rend ce morceau typique de Technasia spécial.
+"Force"は、ボーカルがこの典型的なTechnasiaのトラックを特別なものにし、素晴らしいクラシックとなっています。
 
 裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
 

@@ -71,7 +71,7 @@ C'est **213 (deux un trois)**.
 Le nom est dérivé de l'indicatif régional de Long Beach, 213, et marque clairement leur identité locale.
 
 Des enregistrements locaux de l'époque montraient déjà que la voix chantée de Nate Dogg se démarquait de celle des rappeurs qui l'entouraient.
-Sa voix avait l'air de la rue, et en chantant la mélodie, il donnait à l'ensemble de la chanson une agréable sensation de flottement.
+Sa voix avait une ambiance de rue et en chantant la mélodie, il donnait à toute la chanson une agréable sensation de flottement.
 Ce style deviendra plus tard le cœur de la culture des performances invitées.
 
 ---
@@ -109,7 +109,7 @@ Ce succès a valu à Nate Dogg d'être reconnu comme « le meilleur fabricant d'
 La voix chantée de Nate Dogg est distinctive à première vue, mais si vous la décomposez en ses éléments, elle peut être résumée comme suit.
 
 ### ■ Voix épaisse dérivée de la musique gospel
-Les cordes vocales vibrent fortement et le son est profond.
+La vibration des cordes vocales est forte et la résonance est profonde.
 
 ### ■ Chant en ligne droite avec peu de vibrato
 Cela le rendait extrêmement compatible avec les rythmes durs du hip-hop.
@@ -129,7 +129,7 @@ Ces caractéristiques ont fait de la voix de Nate Dogg une composante essentiell
 
 ## 6. Les œuvres solos et leur positionnement
 
-Nate Dogg est très apprécié pour ses performances en tant qu'invité, mais il a également sorti plusieurs albums solo.
+Nate Dogg est très apprécié pour ses apparitions en tant qu'invité, mais il a également sorti plusieurs albums solo.
 
 #### ■ "G-Funk Classics, Vol. 1 et 2" (1998)
 
@@ -212,7 +212,7 @@ timeline
 
 ---
 
-## 11. Schéma du réseau musical de Nate Dogg
+## 11. Diagramme du réseau musical de Nate Dogg
 
 <div class="mermaid">
 flowchart TD

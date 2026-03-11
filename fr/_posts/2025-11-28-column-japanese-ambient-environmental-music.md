@@ -113,7 +113,7 @@ Nous recherchions « un son qui change la nature de l'espace, pas seulement pour
 
 ---
 
-# **2-2. Midori Takada - Musique du temps et de l'espace dessinée par des instruments à percussion**
+#**2-2. Midori Takada - Musique du temps et de l'espace dessinée par des instruments à percussion**
 
 Midori Takada (1951–) est mondialement reconnu en tant que percussionniste et compositeur japonais.
 
@@ -134,7 +134,7 @@ Elle traite les instruments à percussion non pas comme des symboles du « temps
 
 #**2-3. Takashi Kokubo - Explorateur du confort et de l'acoustique résidentielle**
 
-Takashi Kokubo (1956-), après une carrière dans la production d'effets sonores et la diffusion sonore, a publié depuis les années 1980 de nombreuses œuvres sur le thème de « l'acoustique confortable ».
+Takashi Kokubo (1956-), après une carrière dans la production d'effets sonores et la diffusion audio, a publié de nombreuses œuvres sur le thème de « l'acoustique confortable » depuis les années 1980.
 
 ## ● Œuvres représentatives
 - **《Série Ion》(années 1980 ~)**
@@ -271,11 +271,11 @@ La musique environnementale japonaise n’est pas seulement une « guérison » 
 **Art sonore créé par la culture urbaine, le design et la philosophie de la vie**
 C'est.
 
-- Domaine intermédiaire entre l'art et la musique
+- Espace intermédiaire entre art et musique
 - Réponse à l'urbanisation
 - Culture de style de vie et technologie de l'électroménager
 - Innovation synthétiseur
-- Coopération avec la conception spatiale
+- Collaboration avec la conception spatiale
 
 Tous ces éléments étaient présents au Japon dans les années 1980.
 

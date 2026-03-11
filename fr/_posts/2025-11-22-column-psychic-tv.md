@@ -53,9 +53,9 @@ Grâce à son travail avec COUM Transmissions, Genesis a développé un fort int
 
 #### 2.2 Dissolution de Throbbing Gristle et formation de télévision psychique
 
-Throbbing Gristle a été formé en 1976 et a choqué le monde de la musique à la fin des années 1970 avec sa musique noise, industrielle et ses performances live de style guérilla. Cependant, en 1981, le groupe se dissout. Peu de temps après, Genesis débute un nouveau projet musical et artistique avec Peter Christopherson et Alex Fergusson. C'est Psychic TV.
+Throbbing Gristle a été formé en 1976 et a choqué le monde de la musique à la fin des années 1970 avec sa musique noise, industrielle et ses performances live de style guérilla. Cependant, en 1981, le groupe se sépare. Peu de temps après, Genesis débute un nouveau projet musical et artistique avec Peter Christopherson et Alex Fergusson. C'est Psychic TV.
 
-Psychic TV n'était pas seulement un groupe de musique, mais a été conçu comme un « collectif multimédia » intégrant musique, vidéo, performance et occultisme, et avait dès le début une structure qui mettait l'accent sur l'expérimentation et la provocation.
+Psychic TV a été conçu non seulement comme un groupe de musique, mais comme un « collectif multimédia » intégrant musique, vidéo, performance et occultisme, et avait dès le début une structure qui mettait l'accent sur l'expérimentation et la provocation.
 
 ---
 
@@ -89,7 +89,7 @@ Au cours de cette période intermédiaire, en plus du noise industriel tradition
 
 #### 4.3 Magie, magie du chaos et pensée approfondie
 
-La pratique de la magie du chaos et de l'occultisme à travers T.O.P.Y. a atteint son niveau le plus profond au cours de cette période. Genesis P‑Orridge explore la transformation personnelle et la construction d'une communauté à travers la magie et les rituels, liant indissociablement le travail d'un groupe et la pratique idéologique.
+La pratique de la magie du chaos et de l'occultisme à travers T.O.P.Y. a atteint son niveau le plus profond au cours de cette période. Genesis P‑Orridge explore l'auto-transformation et la construction d'une communauté à travers la magie et les rituels, liant indissociablement le travail d'un groupe et la pratique idéologique.
 
 ---
 

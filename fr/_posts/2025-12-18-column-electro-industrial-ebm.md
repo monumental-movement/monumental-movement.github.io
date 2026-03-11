@@ -22,7 +22,7 @@ Texte : mmr｜Thème : Électro-industriel/À propos de la formation, de la st
 
 L'électro-industriel et l'EBM (Electronic Body Music) sont des tendances de la musique électronique qui se sont formées entre la fin des années 1970 et les années 1980 et se caractérisent par leur combinaison de l'esprit expérimental de la musique industrielle avec des mouvements physiques répétitifs sur la piste de danse. Ce genre n'est pas seulement un style musical, mais a émergé comme un système d'expression complet qui reflète les changements dans les méthodes de production, la conception sonore, les formes de performance et même les changements dans la culture urbaine et l'environnement technologique.
 
-L’EBM n’est pas apparu de manière unidirectionnelle à partir d’un pays ou d’une ville en particulier. Il s'est formé à l'intersection de la technologie post-punk, industrielle, de la musique électronique et de la culture des clubs dans plusieurs régions, principalement en Belgique, en Angleterre et en Allemagne. Front 242 et Nitzer Ebb sont des exemples représentatifs de formulations structurelles et esthétiques dans ce processus.
+L’EBM n’est pas né d’un seul pays ou d’une seule ville de manière unidirectionnelle. Il s'est formé à l'intersection de la technologie post-punk, industrielle, de la musique électronique et de la culture des clubs dans plusieurs régions, principalement en Belgique, en Angleterre et en Allemagne. Front 242 et Nitzer Ebb sont des exemples représentatifs de formulations structurelles et esthétiques dans ce processus.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 
 ## 1. EBM et Electro-Industriel comme termes
 
-Le terme EBM a été introduit au début des années 1980 et fonctionnait initialement davantage comme un concept désignant une attitude créative et une direction musicale que comme un nom de genre. Comme le suggère le nom Electronic Body Music, l’accent est mis sur la conduite directe du mouvement physique à travers des sons électroniques.
+Le terme EBM a été introduit au début des années 1980 et fonctionnait initialement davantage comme un concept désignant une attitude créative et une direction musicale que comme un nom de genre. Comme le nom « Electronic Body Music » le suggère, l'accent est mis sur la conduite directe du mouvement physique à travers des sons électroniques.
 
 D'un autre côté, Electro-Industrial est un nom qui s'est développé à partir de la structure d'EBM, incorporant un traitement acoustique plus complexe, des éléments sonores et des thèmes psychologiques et introspectifs. Les deux genres ne sont pas discontinus, mais se distinguent par un développement continu avec l'EBM comme colonne vertébrale.
 
@@ -68,9 +68,9 @@ Ce que ces régions ont en commun, c'est un environnement urbain industrialisé 
 
 ## 4. Analyse détaillée de la structure du rythme
 
-La structure rythmique d'EBM est basée sur le temps 4/4 et se caractérise par un arrangement clair et linéaire. La grosse caisse indique fortement chaque battement, et la caisse claire et les claps font partie de la structure plutôt que de la décoration.
+La structure rythmique d'EBM est basée sur la mesure 4/4 et se caractérise par un arrangement clair et linéaire. La grosse caisse indique fortement chaque battement, et la caisse claire et les claps font partie de la structure plutôt que de la décoration.
 
-La sensation swing que l'on retrouve dans le funk et le disco a été intentionnellement évitée et un arrangement a été choisi qui minimise les fluctuations temporelles. Cela permet au rythme d’agir sur le corps plus comme une pression que comme un groove.
+La sensation swing du funk et du disco a été intentionnellement évitée et un arrangement a été choisi pour minimiser les fluctuations temporelles. Cela permet au rythme d’agir sur le corps plus comme une pression que comme un groove.
 
 <div class="mermaid">
 flowchart LR
@@ -142,7 +142,7 @@ Depuis la fin des années 1980, un groupe d'œuvres est apparu qui maintient la 
 
 ## 12. Interaction avec la culture du club
 
-EBM a été développé avec pour principe la lecture dans les espaces des clubs. La pression sonore, la répétition et la réactivité immédiate ont été mises en valeur, et les structures des chansons ont été adaptées pour fonctionner au sol.
+EBM a été développé avec pour principe la lecture dans les espaces des clubs. L'accent a été mis sur la pression forte, la répétition et la réactivité immédiate, et les structures des chansons ont été adaptées pour fonctionner sur le sol.
 
 ---
 
@@ -164,7 +164,7 @@ EBM et Electro-Industrial ont eu une influence structurelle sur la techno, la te
 | -------- | ------------------------------------ |
 | Fin des années 1970 | Développement expérimental de la musique industrielle |
 | Début des années 1980 | Présentation du concept EBM |
-| Début des années 1980 | Création d'EBM compatible avec les clubs |
+| Début des années 1980 | Mise en place d'EBM compatible avec les clubs |
 | Fin des années 1980 | Expansion électro-industrielle |
 
 ---

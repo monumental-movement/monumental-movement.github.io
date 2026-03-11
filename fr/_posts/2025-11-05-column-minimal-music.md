@@ -31,7 +31,7 @@ Abandonnant le drame et l'expression émotionnelle recherchés par la musique oc
 Au lieu de cela, il s'est transformé en un art qui nous permet d'écouter « le temps et la structure » eux-mêmes.
 "In C" de Terry Riley, "Piano Phase" de Steve Reich,
 Et "Einstein sur la plage" de Philip Glass——
-Ils ont élevé la répétition du son au rang d’expérience méditative plutôt que d’expérience ennuyeuse.
+Ils ont élevé la répétition du son au rang d’expérience méditative plutôt qu’ennuyeuse.
 
 Finalement, cette philosophie a imprégné le monde de la musique électronique.
 Au rythme constant des TR-808 et 909,
@@ -120,7 +120,7 @@ Créer une tension extrême à partir de modèles minimaux.
 |------|------|
 | Battre | 4/4 |
 | temporisation | 128 |
-| Composition sonore | Kick, Charleston, Caisse Claire, Subbasse |
+| Composition sonore | Kick, charleston, caisse claire, subbasse |
 | Changements | Fluctuations psychologiques dues à des changements infimes de filtres et à une perte de rythme |
 
 ### Reconstruction de l'ambiance berlinoise et répétition
@@ -164,10 +164,10 @@ L'espace acoustique a été présenté comme un « minimalisme numérique ».
 
 ### Liste des artistes minimalistes japonais
 
-| Artiste | Principaux travaux | Caractéristiques |
+| Artiste | Travaux principaux | Caractéristiques |
 |------|------------|------|
 | Isão Tomita | 《Clair de lune》《Planète》 | Musique classique électronique/raffinement acoustique |
-| Ryoji Ikeda | 《dataplex》《modèle de test》 | Minimalisme mathématique/fréquentiel |
+| Ryoji Ikeda | 《dataplex》《modèle de test》 | Minimalisme mathématique/fréquence |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion de l'électroacoustique et du piano |
 | Rei Harakami | 《Bordure Rouge》《lust》 | Répétition chaleureuse de l'électronique Lo-fi |
 | Asa-Chang et pèlerinage | 《Fleurs》 | Intersection du minimalisme et de la voix humaine |

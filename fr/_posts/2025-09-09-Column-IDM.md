@@ -26,7 +26,7 @@ Un labyrinthe de sons qui chatouille la curiosité intellectuelle - IDM (Intelli
 ---
 
 ## Début des années 1990 : Naissance – Le germe de la « musique dance à écouter »
-À la fin des années 1980, au milieu de la culture rave et de l'engouement techno au Royaume-Uni, les labels et artistes underground ont commencé à explorer la « musique électronique pour une écoute à domicile » plutôt qu'un simple outil de club.
+À la fin des années 1980, au milieu de la culture rave et de l'engouement techno au Royaume-Uni, les labels et artistes underground ont commencé à explorer la musique électronique pour une écoute à domicile, plutôt que comme un simple outil de club.
 La série « Artificial Intelligence » publiée par Warp Records en 1992 marque un tournant décisif et le nom « IDM » se généralise.
 
 - **Chef-d'œuvre représentatif**
@@ -149,7 +149,7 @@ Développement d'instruments originaux à l'aide de **Max for Live**.
 | 2 | Actrice | Hubble | IDM sombre et abstrait |
 | 3 | Arca | Vol | Acoustique avant-gardiste et sensuelle |
 | 4 | Aphex Jumeau | Minipops 67 | Un chef-d'œuvre qui annonce le renouveau |
-| 5 | James Blake | CMJN | Faire le pont entre le post-dubstep et l'IDM |
+| 5 | James Blake | CMJN | Faire le lien entre le post-dubstep et l'IDM |
 | 6 | Halo de Laurier | La lumière du soleil sur les fanés | Chant expérimental et acoustique |
 | 7 | Tim Hecker | Vierges | Bruit et construction IDM |
 | 8 | Andy Stott | Problèmes de luxe | IDM sombre et profond orienté club |

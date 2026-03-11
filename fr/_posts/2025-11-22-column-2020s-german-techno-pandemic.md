@@ -79,7 +79,7 @@ Ce « signe d’accélération » a été brusquement interrompu par la pandémi
 
 # Chapitre 2 : Mars 2020 – Premier « confinement national des clubs »
 ## ● Les clubs allemands doivent fermer leurs portes
-En mars 2020, le gouvernement allemand a annoncé les mesures suivantes pour prévenir l'infection :
+En mars 2020, le gouvernement allemand a annoncé ce qui suit comme mesure de contrôle des infections :
 **Fermeture complète annoncée des clubs, bars et installations de loisirs**.
 
 Il s'agissait d'une action en justice et tous les clubs ont été immédiatement fermés.
@@ -88,7 +88,7 @@ Pour la première fois de son histoire, la ville techno de renommée mondiale a 
 
 ### Impact:
 - Tous les clubs fermés (mars 2020 à début 2021)
-- Tous fermés y compris Berghain et Trésor
+- Tous fermés incluant Berghain et Trésor
 - Les revenus du tourisme des clubs sont réduits à zéro
 - Des professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
 - Aide du gouvernement avec le « Kurzarbeitegeld » (indemnité de chômage partiel)
@@ -97,7 +97,7 @@ Les statistiques et les médias confirment que des dizaines de milliers de trava
 
 ---
 
-# Chapitre 3 : L'ère du ligne et « United We Stream » (2020-2021)
+# Chapitre 3 : L’ère du ligne et « United We Stream » (2020-2021)
 La pandémie a poussé la culture des clubs en ligne.
 
 ## ● Lancement de « United We Stream »
@@ -114,7 +114,7 @@ Aller en ligne a bousculé le stéréotype selon lequel les clubs sont une cultu
 Cela a prouvé que la culture des clubs peut également fonctionner comme un support numérique.
 
 ## ● La musique devient introvertie à cause des DJ sets sans public
-Puisqu'il n'y a pas de plancher,
+Puisqu'il n'y a pas de sol,
 Les DJ sets se sont orientés vers les tendances suivantes :
 
 - Le BPM diminue
@@ -137,7 +137,7 @@ Par conséquent, la production des EP/albums se déroulera dans la direction sui
 - Drone de bruit
 - Breakbeats/Électro
 
-En fait, les œuvres sorties en 2020-2021 sont davantage destinées à l’écoute qu’aux sommets des clubs.
+En fait, les œuvres sorties en 2020-2021 sont plus destinées à l’écoute qu’aux sommets des clubs.
 
 ## ● 2) La techno à grande vitesse se développe grâce aux réseaux sociaux
 Un renversement intéressant s’est également produit.
@@ -160,7 +160,7 @@ Cet étrange phénomène a progressé en 2020-2021.
 ## ● Les clubs seront légalement reclassés en « équipements culturels » (2021)
 En 2021, le Bundestag allemand a pris une décision historique.
 
-**Protéger légalement les clubs en tant qu'« institutions culturelles »**
+**Protection juridique des clubs en tant qu'« institutions culturelles » (Kultureinrichtung)**
 
 Il s’agit en fait d’un tournant majeur.
 Jusqu’alors, les clubs étaient considérés comme une industrie de la vie nocturne.

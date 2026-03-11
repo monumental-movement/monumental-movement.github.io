@@ -71,7 +71,7 @@ Ceux qui sont familiers avec la culture musicale expérimentale et contestataire
 
 ## Chapitre 3 : Effets sur la conscience politique et la participation sociale
 
-Les recherches analysant la relation avec la conscience politique montrent que les personnes qui écoutaient de la musique avec des messages sociaux forts lorsqu'elles étaient jeunes avaient tendance à avoir des taux de vote et de participation aux mouvements sociaux plus élevés à l'âge adulte. L’étude est décomposée par génération et comparée sur plusieurs décennies.
+Les recherches qui analysent la relation avec la conscience politique montrent que les personnes qui écoutaient de la musique avec des messages sociaux forts lorsqu'elles étaient jeunes avaient tendance à avoir des taux de vote et de participation aux mouvements sociaux plus élevés à l'âge adulte. L’étude est décomposée par génération et comparée sur plusieurs décennies.
 
 D’un autre côté, ceux qui connaissent une culture musicale qui met l’accent sur le divertissement et l’individualisme sont plus susceptibles d’exprimer leurs valeurs à travers un comportement de consommation et un mode de vie plutôt que par une participation politique institutionnelle.
 
@@ -91,7 +91,7 @@ Des études à long terme ont montré que ce groupe est plus susceptible d'expri
 
 L'influence du rock est plus apparente entre 15 et 22 ans. Cet âge est une étape dans laquelle le développement personnel et la remise en question des normes sociales progressent simultanément, et l'attitude anti-autoritaire et le vocabulaire d'expression de soi présentés par Locke sont susceptibles d'être liés au développement de la personnalité.
 
-> Locke fonctionnait comme une culture qui enseignait la validité de l'affirmation de soi.
+> Locke fonctionnait comme une culture qui enseignait aux gens la validité de l'affirmation de soi.
 
 ---
 
@@ -165,7 +165,7 @@ Pourtant, il s’est confirmé que la génération familière avec le rock et la
 
 Depuis les années 2000, à mesure que le système est devenu plus fluide, la relation entre les goûts musicaux et les visions du travail est devenue évidente. Ceux qui connaissent la musique sous-culturelle sont plus susceptibles d’être indépendants ou d’avoir plusieurs emplois.
 
-### Branchement de la J-POP/Subculture/Club Culture
+### Branche de J-POP/Subculture/Club Culture
 
 Depuis les années 2000 au Japon, les expériences musicales des jeunes se divisent largement en trois catégories. La J-POP constitue toujours un terrain d’entente générationnel et est partagée dans les contextes scolaires et médiatiques. D’un autre côté, la musique sous-culturelle liée à l’anime et à la culture Internet a joué un rôle dans l’intériorisation forte des goûts et des préférences individuels.
 
@@ -214,7 +214,7 @@ Ce que montrent les données empiriques n’est pas une simple cause et effet se
 
 Même si elle se manifeste différemment selon les pays et les systèmes, la musique que vous écoutez dans votre jeunesse continue de vous servir de référence tout au long de votre vie.
 
-> Les expériences musicales dans la petite enfance ne sont pas une carte de la vie, mais une boussole.
+> Les expériences musicales au début de la vie ne sont pas une carte de la vie, mais une boussole.
 
 ---
 

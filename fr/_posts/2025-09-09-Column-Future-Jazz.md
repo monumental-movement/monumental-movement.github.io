@@ -21,7 +21,7 @@ title: '[Chronique] Histoire du Future Jazz, disques célèbres et changements d
 
 Texte : mmr｜Thème : Un genre qui combine la nature improvisée du jazz et l'innovation de la musique électronique
 
-Le Future Jazz est apparu au début des années 1990 comme un genre combinant la nature improvisée du jazz avec l’innovation de la musique électronique. Il a évolué avec le développement de la culture club et d'une nouvelle génération de technologie musicale, et est étroitement lié à des tendances telles que **Acid Jazz, Nu-Jazz et Broken Beat**. Ci-dessous, nous suivrons les progrès du groupe par décennie et expliquerons les changements dans les chefs-d'œuvre représentatifs et l'équipement utilisé.
+Le Future Jazz est apparu au début des années 1990 comme un genre combinant la nature improvisée du jazz avec l’innovation de la musique électronique. Il a évolué avec le développement de la culture club et d'une nouvelle génération de technologie musicale, et est étroitement lié à des tendances telles que **Acid Jazz, Nu-Jazz et Broken Beat**. Ci-dessous, nous suivrons les progrès du groupe au fil des années et expliquerons les changements dans les chefs-d'œuvre représentatifs et l'équipement utilisé.
 
 ---
 
@@ -36,7 +36,7 @@ L'Acid Jazz est devenu populaire principalement au Royaume-Uni, réinventant le 
 
 - **Caractéristiques de l'équipement**
 -Akai MPC60/S1000
--Roland TR-808 / TR-909
+-Roland TR-808/TR-909
 - Principalement platine et sampler
 
 <style type="text/css">
@@ -132,7 +132,7 @@ La scène Broken Beat de l'ouest de Londres fait évoluer Future Jazz. Une fusio
 
 ---
 
-## Fin des années 2000 : Du club jazz à l'électro
+## Fin des années 2000 : Du club jazz à l’électro
 - **Arrière-plan**
 Le Nu-Jazz a fusionné avec l'électro et a renforcé le style d'écoute.
 
@@ -213,7 +213,7 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 | Non | Artiste | Piste | Commentaires |
 |---|---|---|---|
 | 1 | Brume Alfa | Continuez | Jazz futur mélancolique. |
-| 2 | Kamal Williams | Attendez | Une pièce représentative du jazz contemporain de Londres. |
+| 2 | Kamal Williams | Attendez | Une chanson de jazz contemporaine représentative de Londres. |
 | 3 | Clapiers Shabaka | Agitation | Spirituel et puissant. |
 | 4 | Nubya Garcia | Rythme | Le saxophone se démarque. |
 | 5 | Battements du laboratoire bleu | Ananas | Une fusion de hip-hop et de jazz. |
@@ -226,7 +226,7 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 ---
 
 # Un genre toujours à l'avant-garde de son temps
-Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par Broken Beat et Nu-Jazz, et s'étend aujourd'hui vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
+Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par Broken Beat et Nu-Jazz, et s'étend maintenant vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
 
 Comme il sied au nom de « jazz futuriste », c'est un genre toujours à l'avant-garde de son temps.
 

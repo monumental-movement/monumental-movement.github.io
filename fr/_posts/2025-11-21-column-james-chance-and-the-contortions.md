@@ -158,7 +158,7 @@ B --> F["Don Christensen → 離脱"]
 
 - Suspendu au début des années 1980
 - Retrouvailles avec les membres originaux en 2001
-- Sortie du single "Melt Yourself Down" en 2016
+- Sortie du single « Melt Yourself Down » en 2016
 - Représentation finale en 2019
 
 ---

@@ -9,13 +9,13 @@ permalink: /fr/photon-project-enlightenment-illumination/
 tags:
 - Trance
 - Progressive
-title: Projet Photon – Illumination des Lumières
+title: Photon Project – Enlightenment Illumination
 ---
 
 
-Photon Project est un projet du producteur et compositeur de transe néerlandais Geert Huinink et Alco Lammers. Geert Huinink est connu pour avoir collaboré avec DJ Tiësto de 2001 à 2007 sur ses trois premiers albums, In My Memory, Just Be et Elements of Life, et pour avoir co-écrit des chansons telles que « Magik Journey », « Forever Today » et « A Tear In The Open ».
+Photon Projectは、オランダのトランスプロデューサー兼作曲家Geert HuininkとAlco Lammersによるプロジェクト。Geert Huininkは、2001年から2007年まで、DJ Tiëstoと最初の3枚のアルバム『In My Memory』、『Just Be』、『Elements of Life』で協力し、「Magik Journey」、「Forever Today」、「A Tear In The Open」などの曲を共作した事でも知られている。
 
-Outre Photon Project, Geert Huinink et Alco Lammers travaillent également sous d'autres noms, notamment 2 Souls, Dawnseekers, G & A Project, Headstrong, Magik Muzik, Modus Operandi et Twenty-Something.
+Geert HuininkとAlco Lammersは、Photon Project以外にも、2 Souls, Dawnseekers, G & A Project, Headstrong, Magik Muzik, Modus Operandi, Twenty-Somethingなどの別名義でも活動している。
 
 #### Liste des chansons
 ```md

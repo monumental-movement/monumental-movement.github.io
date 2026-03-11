@@ -13,7 +13,7 @@ title: L’art du bruit – sans aucune absurdité
 ---
 
 
-"In No Sense Nonsense" est un album cassette d'Art Of Noise sorti en 1987 par China Records.
+"In No Sense Nonsense" est un album cassette d'Art Of Noise publié par China Records en 1987.
 
 #### Liste des chansons
 ```md

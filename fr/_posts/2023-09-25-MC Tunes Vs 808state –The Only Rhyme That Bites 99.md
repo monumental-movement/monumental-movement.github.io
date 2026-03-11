@@ -10,15 +10,15 @@ tags:
 - House
 - Techno
 - Tribal
-title: MC Tunes Vs 808state – La seule rime qui mord 99
+title: MC Tunes Vs 808state –The Only Rhyme That Bites 99
 ---
 
 
-"The Only Rhyme That Bites 99" est un remake de la chanson "The Only Rhyme That Bites", sortie en 1990 par l'artiste hip-hop britannique MC Tunes et le groupe de musique électronique 808 State.
+「The Only Rhyme That Bites 99」は、イギリスのヒップホップアーティストMCチューンズとエレクトロニックミュージックグループ808ステートが1990年にリリースした楽曲「The Only Rhyme That Bites」のリメイクバージョンです。
 
-L'original est connu comme un hymne de fête combinant des éléments de hip-hop et de techno, et est considéré comme l'une des œuvres les plus représentatives de la fusion britannique du hip-hop et de la musique électronique des années 90.
+オリジナルは、ヒップホップとテクノの要素を組み合わせたパーティーアンセムとして知られおり、イギリスの90年代ヒップホップとエレクトロニックミュージックの融合を代表する作品の一つとされています。
 
-Ce remake conserve le charme de l'original avec de nouveaux arrangements et productions.
+このリメイクは、オリジナルの魅力を保ちながら、新たなアレンジとプロダクションが加えられています。
 
 #### Liste des chansons
 ```md

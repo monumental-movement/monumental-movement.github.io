@@ -152,7 +152,7 @@ flowchart TB
 
 ## Chapitre 4 : Transe et extase - La danse comme transformation de la conscience
 
-### 1. Couches anciennes en transe
+### 1. Couche ancienne en état de transe
 
 La danse n’est pas seulement un divertissement ; c'est aussi une technique pour changer de conscience.
 Dans les rituels chamaniques,
@@ -182,7 +182,7 @@ La question est plutôt de savoir comment les humains sympathisent avec les ryth
 
 Lorsque le corps humain répond aux battements créés par l'IA,
 Il ne s'agit plus d'une relation homme-machine.
-**Un « corps étendu » en tant qu'être résonant** est né.
+**Un « corps étendu » en tant qu'être résonnant** est né.
 Le rythme deviendra le nouveau langage de communication.
 
 ---

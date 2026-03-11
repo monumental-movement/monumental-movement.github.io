@@ -21,7 +21,7 @@ title: '[Chronique] Electronic World Fusion : le point d''intersection de l''ac
 
 Texte : mmr｜Thème : Des origines de l'Electronic World Fusion à ses aspects techniques, ses œuvres représentatives, ses caractéristiques régionales et sa signification contemporaine
 
-Dans la seconde moitié du XXe siècle, la musique électronique s’est développée autour des synthétiseurs et des échantillonneurs, mais dans le même temps, les musiques traditionnelles du monde entier ont commencé à entrer dans la culture pop occidentale. L'Electronic World Fusion est un domaine dans lequel les deux sont véritablement liés et constitue un genre rare où se croisent l'histoire, la culture et l'idéologie de la technologie et de la musique folk.
+Dans la seconde moitié du XXe siècle, la musique électronique s’est développée autour des synthétiseurs et des échantillonneurs, mais dans le même temps, les musiques traditionnelles du monde entier ont commencé à entrer dans la culture pop occidentale. L'Electronic World Fusion est un domaine où les deux sont entièrement connectés et constitue un genre rare où se croisent l'histoire, la culture et l'idéologie de la technologie et de la musique folk.
 
 Les artistes représentatifs incluent **Nitin Sawhney**, qui intègre de la musique classique indienne et des thèmes sociaux, et **Thievery Corporation**, qui fusionne le downtempo avec divers éléments musicaux d'Amérique latine, du Moyen-Orient et d'Asie.
 
@@ -79,7 +79,7 @@ flowchart TD
 
 ### 2-2 Thievery Corporation : reconstruction downtempo de la musique multirégionale
 
-Un duo de producteurs basé à Washington DC, USA. Ils fusionnent le downtempo/trip-hop avec une variété de musiques du monde telles que le reggae, la bossa nova, la musique du Moyen-Orient, la musique indienne et les percussions asiatiques.
+Un duo de producteurs basé à Washington DC, USA. Il fusionne une variété de musiques du monde, notamment le reggae, la bossa nova, la musique du Moyen-Orient, la musique indienne et les percussions asiatiques, avec du downtempo/trip-hop.
 
 #### Fonctionnalités musicales
 
@@ -211,7 +211,7 @@ Les drones d’instruments folkloriques, les sons soutenus multicouches et les e
 
 * Faut-il utiliser les rythmes ethniques tels qu'ils sont ?
 * Doit-il être synchronisé sur les temps électroniques 4/4 ?
-* L'impression change considérablement en fonction du degré de transformation.
+* L'impression change considérablement en fonction de la quantité de traitement effectuée.
 
 ### 8-2 Traitement des échelles et des modes
 
@@ -231,7 +231,7 @@ Electronic World Fusion ne se contente pas de remplacer la musique folk par des 
 **"Le processus par lequel le son traduit la culture et relie différentes valeurs"**
 peut être compris comme
 
-Le genre incarne le dialogue sonore, puisque Nitin Sawhney dépeint les sociétés multiculturelles à travers son travail, et que Thievery Corporation connecte la musique du monde entier aux contextes de musique électronique urbaine.
+Le genre incarne le dialogue sonore, puisque Nitin Sawhney dépeint les sociétés multiculturelles à travers son travail, et que Thievery Corporation connecte la musique du monde entier aux contextes musicaux électroniques urbains.
 
 ---
 

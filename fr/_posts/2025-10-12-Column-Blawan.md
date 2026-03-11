@@ -18,7 +18,7 @@ title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la n
 ## Prologue Rythme qui s'est développé à l'ombre des usines, du parfum persistant de l'industrie
 
 
-Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir ses racines dans l'underground britannique
+Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir des racines dans l'underground britannique
 
 Autrefois, les zones industrielles du nord de l’Angleterre étaient remplies d’odeurs de vapeur et de métal.
 Jamie Roberts – ou Blawan – a peut-être grandi en inhalant inconsciemment ses réverbérations.
@@ -162,7 +162,7 @@ Derrière les bruits mécaniques froids se cache le bruit respiratoire de la per
 Après avoir eu un impact avec «Pourquoi ils cachent leurs corps sous mon garage», il est arrivé après plus de 10 ans à «une prière qui demeure dans la destruction».
 
 A l’heure où la techno devient plus abstraite et où les clubs se fondent dans le monde numérique, Blawan ose faire revenir la « gravité ».
-Un rythme coule dans les veines de la Steel City.
+Le rythme qui coule dans les veines de la Steel City.
 Dans ce document, il demande doucement : le son peut-il encore être humain ? **
 
 ---
@@ -272,7 +272,7 @@ flowchart TD
 
 ### Chapitre final : Prière d'acier – Danser, c'est survivre
 
-Le son de Blawan est tantôt froid, tantôt rugueux.
+Le son de Blawan est tantôt froid, tantôt dur.
 Cependant, au plus profond de nous, il y a certainement une « prière humaine ».
 L'acte de danser est un rituel pour « survivre » dans le bruit de la ville.
 "Pourquoi cachent-ils leurs corps sous mon garage." attire toujours les gens parce que
@@ -280,7 +280,7 @@ Parce qu’il y a à la fois de la peur et du soulagement.
 
 Un bruit comme de l'acier.
 Mais à chaque fois que je l’écoute, ma température monte.
-Blawan est un artiste dont le sang coule à travers le monde froid.
+Blawan est un artiste dont le sang coule à flot dans le monde froid.
 
 > "Le son est l'ombre du corps"
 >——Blawan (d'après une interview)

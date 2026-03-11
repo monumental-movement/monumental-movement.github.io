@@ -54,7 +54,7 @@ Caractéristiques : Nous produisons de nombreux modules numériques de haute qu
 
 **Modules représentatifs** : Tresses, Anneaux, Nuages
 
-**Caractéristiques** : Développé en open source, fournit des modules qui permettent une création sonore flexible. Il est particulièrement excellent dans la diversité tonale.
+**Caractéristiques** : Développé en open source, fournit des modules qui permettent une création sonore flexible. Il présente une diversité tonale particulièrement excellente.
 
 ---
 

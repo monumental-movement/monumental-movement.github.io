@@ -15,7 +15,7 @@ title: Prêtre voyou – Cœur des ténèbres
 
 "Heart of Darkness" est une chanson qui se démarque parmi les œuvres de Fudrum Priest. Hudrum Priest est le projet du musicien britannique Derek Thompson. Sa musique est expérimentale, incorporant des éléments de divers genres, et se caractérise par des atmosphères sombres et des paysages sonores expérimentaux.
 
-Comme son nom l'indique, "Heart of Darkness" est une chanson qui traite des thèmes du conflit intérieur et des profondeurs des ténèbres, et la progression de la chanson est pleine de tension, combinée à des effets sonores étranges et à des rythmes lourds. Les paroles explorent un contenu profond et introspectif en accord avec des thèmes sombres.
+Comme son nom l'indique, "Heart of Darkness" est une chanson qui traite des conflits intérieurs et des profondeurs des ténèbres, et la progression de la chanson est pleine de tension, combinant des effets sonores étranges et des rythmes lourds. Les paroles explorent un contenu profond et introspectif en accord avec des thèmes sombres.
 
 "Heart of Darkness" est un album qui incarne véritablement le style musical et l'expression artistique uniques de Fudrum Priest.
 

@@ -9,13 +9,13 @@ permalink: /fr/ugly-duckling-i-did-it-like-this-friday-night/
 tags:
 - Hiphop
 - 00s
-title: Ugly Duckling – I Did It Like This Friday Night
+title: Le vilain petit canard – Je l'ai fait comme ce vendredi soir
 ---
 
 
-Ugly Duckling (アグリーダックリング)は、1993年にLong Beachで結成されたアメリカ・アンダーグラウンドヒップホップグループの代表格。メンバーは、Andy Cooper, Dustin McFarland, Rodney Pleasant。
+Ugly Duckling est un groupe de hip-hop underground américain représentatif formé à Long Beach en 1993. Les membres sont Andy Cooper, Dustin McFarland et Rodney Pleasant.
 
-「I Did It Like This / Friday Night」は、2000年にUKのHipHopレーベルBad Magicからリリースされた。
+"I Did It Like This / Friday Night" est sorti en 2000 sur le label hip hop britannique Bad Magic.
 
 #### Liste des chansons
 ```md

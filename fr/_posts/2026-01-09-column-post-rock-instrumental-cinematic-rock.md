@@ -26,7 +26,7 @@ Le post-rock instrumental et le rock cinématographique sont des musiques qui on
 
 Lorsque cette musique émerge à la fin des années 1990, le rock semble avoir épuisé ses multiples formes. Le rock alternatif devenait courant et les impulsions grunge devenaient une chose du passé. Dans de telles circonstances, la musique instrumentale post-rock présentait une perception du temps et de la structure complètement différente lorsqu’elle utilisait des formations rock.
 
-Explosions dans le ciel et Godspeed You ! Black Emperor est emblématique dans ce contexte. Le premier aborde les expériences personnelles à travers des mélodies et des émotions exacerbées, tandis que le second imprime le temps social et collectif sous forme sonore. Tout en étant actifs en même temps, les deux artistes ont démontré l'ampleur et la profondeur du cadre post-rock.
+Explosions dans le ciel et Godspeed You ! Black Emperor est emblématique dans ce contexte. Le premier aborde les expériences personnelles à travers des mélodies et des émotions exacerbées, tandis que le second imprime le temps social et collectif sous forme sonore. Tout en étant actifs au même moment, les deux artistes ont démontré l’étendue et la profondeur du cadre post-rock.
 
 > Les instrumentaux post-rock offrent un espace permettant à l'auditeur de commencer à parler, plutôt qu'à la musique de parler.
 
@@ -100,9 +100,9 @@ La raison pour laquelle leur musique a été utilisée dans tant de productions 
 
 ## Bonne chance à vous ! Black Emperor : Un groupe qui façonne la société et le temps
 
-Bonne chance à vous ! Black Emperor est un collectif musical né à Montréal à la fin des années 1990. Il a un fort caractère de collectif fluide plutôt que de composition fixe, et se caractérise par une grande composition qui utilise plusieurs guitares, basses, batterie, instruments à cordes et enregistrements sur le terrain.
+Bonne chance à vous ! Black Emperor est un collectif musical né à Montréal à la fin des années 1990. Il a un fort caractère de collectif fluide plutôt que de composition fixe, et se caractérise par une grande formation qui utilise plusieurs guitares, basses, batterie, instruments à cordes et enregistrements sur le terrain.
 
-Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Il n’y a souvent pas d’accroches ou de résolutions claires, ce qui nécessite de la patience et de la concentration de la part de l’auditeur.
+Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Les chansons n'ont souvent pas de refrain ou de résolution claire, ce qui nécessite de la patience et de la concentration de la part de l'auditeur.
 
 Quelle bonne chance pour vous ! Black Emperor présenté était une tentative d'enregistrer le temps social et historique avec des sentiments sonores plutôt que personnels. Les sons, les annonces et les récits fragmentés de la ville évoquent un sentiment collectif d’anxiété et de tension plutôt que de manifester un message spécifique.
 
@@ -161,7 +161,7 @@ Cette tendance ne constitue pas une rupture brutale, mais peut être comprise co
 
 Actuellement, le rock instrumental et cinématographique post-rock s'est imposé comme une méthode d'expression plutôt que comme un nom de genre spécifique. Sa structure continue d'être référencée dans différents contextes tels que des vidéos, des jeux et des installations.
 
-Deux directions énoncées par Explosions in the Sky et Godspeed You! Black Emperor sert toujours de points de référence créatifs. La musique, qui n'a pas de paroles, continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
+Deux directions énoncées par Explosions in the Sky et Godspeed You ! Black Emperor sert toujours de points de référence créatifs. La musique sans paroles continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
 
 > La musique instrumentale post-rock continuera de créer de nouvelles histoires à travers le silence et le temps.
 

@@ -16,7 +16,7 @@ title: Andreas Saag – Cours de Jazz
 
 Il est sorti en 2002 sur le label suédois "SLS".
 
-Étonnamment différent du son caractéristique de SLS, c'est du jazz, avec Saag livrant un magnifique et magnifique morceau centré sur le piano.
+Étonnamment différent du son caractéristique de SLS, c'est du jazz avec Saag livrant un magnifique morceau piloté par un piano à queue.
 
 #### Liste des chansons
 ```md

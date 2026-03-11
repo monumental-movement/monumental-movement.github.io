@@ -8,7 +8,7 @@ layout: post
 permalink: /fr/oriental-space-my-heart-will-go-on/
 tags:
 - Trance
-title: Espace Oriental – Mon cœur continuera
+title: Oriental Space – My Heart Will Go On
 ---
 
 

@@ -22,7 +22,7 @@ Texte : mmr｜Thème : À propos de la généalogie du cloud rap qui croise le L
 
 Le Cloud Rap est né vers 2010, centré autour de la Bay Area et de l'U.S. Internet Underground, et s'est développé en se connectant à l'esthétique de la sous-culture post-vaporwave, Chopped & Screwed, Lo-Fi Hip-Hop et le rap emo moderne. En particulier, les activités de **Lil B**, **Clams Casino** et **Main Attrakionz** symbolisent les premiers jours, formant la base d'une lignée qui mènera plus tard à **Lil Peep**, **XXXTENTACION**, **Bones** et **Yung Lean**.
 
-Le Cloud Rap était beaucoup plus orienté ambiant que le Hip Hop traditionnel, avec un son plus ambiant, un traitement vocal avec une forte réverbération et des textures oniriques avec des effets spatiaux, et a ensuite évolué vers Vaportrap, absorbant la musique électronique et la culture des mèmes Vaporwave.
+Le Cloud Rap était beaucoup plus orienté ambiant que le Hip Hop traditionnel, avec un son plus ambiant, un traitement vocal avec une forte réverbération et des textures oniriques avec des effets spatiaux, et a ensuite évolué vers Vaportrap, absorbant la musique électronique et la culture mème de type Vaporwave.
 
 
 ---
@@ -61,7 +61,7 @@ color: #fff;
 
 ---
 
-Vers 2009, Lil B a développé un style de rap hautement compatible avec la culture Internet, et le groupe de producteurs qui soutenait sa musique a formé le prototype du Cloud Rap.
+Vers 2009, Lil B a développé un style de rap hautement compatible avec la culture Internet, et les producteurs qui ont soutenu sa musique ont formé le prototype du Cloud Rap.
 
 ---
 
@@ -121,7 +121,7 @@ Le traitement vocal de Cloud Rap se mélange facilement avec le Lo-Fi Hip Hop, e
 
 ---
 
-Lil Peep a développé un style mêlant des éléments d'emo, de punk et de cloud rap, formant le cœur de l'esthétique post-SoundCloud Rap. En particulier, la combinaison de **échantillon de guitare x réverbération x mélodie triste** a eu une forte influence sur les chansons suivantes.
+Lil Peep a développé un style mêlant des éléments d'emo, de punk et de cloud rap, formant le cœur de l'esthétique post-SoundCloud Rap. En particulier, la combinaison **échantillon de guitare x réverbération x mélodie triste** a eu une forte influence sur les chansons suivantes.
 
 ---
 
@@ -135,7 +135,7 @@ XXXTENTACION a pratiqué un large éventail de styles, du cloud rap au hardcore,
 
 ---
 
-##VI. Vaportrap moderne / Cloud Rap (2019-2025)
+## VI. Vaportrap moderne / Cloud Rap (2019-2025)
 
 ### ● Internationalisation et élimination des différences régionales
 

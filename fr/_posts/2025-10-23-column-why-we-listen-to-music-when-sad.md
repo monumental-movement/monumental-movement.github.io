@@ -196,7 +196,7 @@ La musique est un médium qui transforme la tristesse en amour.
 | Régénération | Cortex cingulaire | Structure crescendo | Augmentation de la dopamine |
 
 
-> « Quand tu es triste, tu écoutes de la musique non pas parce que tu as peur du silence.
+>« Quand tu es triste, tu écoutes de la musique, ce n'est pas parce que tu as peur du silence.
 >Écouter le son de votre propre cœur au plus profond de ce silence. »
 
 ---

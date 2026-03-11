@@ -17,10 +17,10 @@ title: '[Chronique] Buchla Music Easel et la philosophie de la « performance so
 
 ## Introduction : Qu'est-ce que le chevalet musical Buchla ?
 
-Texte : mmr｜Thème : Chevalet musical, qui, même à l'époque moderne, est salué par de nombreux artistes live comme le « plus petit orchestre pouvant être joué seul ».
+Texte : mmr｜Thème : Chevalet musical, qui, même à l'époque moderne, est salué par de nombreux artistes live comme le « plus petit orchestre pouvant être joué seul »
 
 
-Le **Buchla Music Easel**, introduit en 1973, est une version portable de la célèbre **série Buchla 200** modulaire analogique.
+Le **Buchla Music Easel**, apparu en 1973, est une version portable de la célèbre **série Buchla 200** modulaire analogique.
 Le concepteur **Don Buchla** a qualifié l'instrument d'« environnement de composition portable ».
 Il ne s'agissait pas simplement d'un petit module, mais d'un « appareil personnel improvisé ».
 
@@ -123,7 +123,7 @@ Ciani dit : « Buchla est un instrument respiratoire. »
 Sur le plan sonore, la **modulation asynchrone** d'Easel crée un flux d'harmoniques qui semble flotter dans l'espace.
 Le public a l'illusion que « l'air lui-même est diffusé ».
 
-### Analyse de forme d'onde : Caractéristiques des structures improvisées
+### Analyse de forme d'onde : Caractéristiques de la structure d'improvisation
 
 | Éléments | Points techniques | Impressions auditives |
 | -------------------------------- | ------------- | ------------ |
@@ -170,7 +170,7 @@ Cohen dit que la musique naît simplement en « s'abandonnant » au flux du cour
 
 ### Suzanne Ciani
 
-→ L'incarnation du féminisme sonore. Je confie ma physicalité au doux courant électrique de Buchla.
+→ L'incarnation du féminisme sonique. Je confie ma physicalité au doux courant électrique de Buchla.
 
 ###Todd Barton
 
