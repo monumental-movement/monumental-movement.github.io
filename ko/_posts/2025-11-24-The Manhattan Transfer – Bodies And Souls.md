@@ -16,7 +16,7 @@ title: The Manhattan Transfer – Bodies And Souls
 
 맨해튼 트랜스퍼는 1969년 뉴욕에서 결성된 미국의 보컬 그룹. 아카펠라, 브라질 재즈, 스윙, 보컬레즈, 리듬&블루스, 팝, 스탠다드 등 다양한 음악 장르를 연주했다.
 
-'Bodies and Souls'는 1983년 라벨 Atlantic Records에서 발표된 7번째 스튜디오 앨범.
+'Bodies and Souls'는 1983년 라벨 Atlantic Records에서 발매된 7번째 스튜디오 앨범.
 
 #### Tracklist
 ```md

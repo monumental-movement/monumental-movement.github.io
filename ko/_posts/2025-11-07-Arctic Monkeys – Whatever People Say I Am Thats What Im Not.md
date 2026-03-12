@@ -17,7 +17,7 @@ title: Arctic Monkeys – Whatever People Say I Am, That's What I'm Not
 
 Arctic Monkeys(아크틱 원숭이)는 2002년에 결성된 잉글랜드 셰필드 출신의 록 밴드. 아크틱 몽키스는 인터넷을 통해 세간의 주목을 받은 '블로그 록' 시대의 대표격.
 
-이 앨범은 2006년 라벨 Domino에서 발표된 데뷔 스튜디오 앨범.
+이 앨범은 2006년 라벨 Domino에서 출시된 데뷔 스튜디오 앨범.
 
 #### Tracklist
 ```md

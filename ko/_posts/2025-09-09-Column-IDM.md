@@ -10,7 +10,7 @@ tags:
 - IDM
 - 90s
 - 00s
-title: 【칼럼】 IDM의 발상부터 현재까지 ― 지적 탐구와 댄스 플로어의 틈 사이에서
+title: 【칼럼】 IDM 발상부터 현재까지 - 지적 탐구와 댄스 플로어 사이
 ---
 
 
@@ -107,7 +107,7 @@ color: #fff;
 - Venetian Snares – *Rossz Csillag Alatt Született* (2005)
 
 - **기재의 특징**
-**Ableton Live**가 등장하여 실시간 조작과 제작이 융합.
+**Ableton Live**가 등장해, 리얼타임 조작과 제작이 융합.
 **Reaktor, FM7** 등의 소프트 신디가 정평화.
 
 ### 추천 10곡 리스트(2000년대)
@@ -117,7 +117,7 @@ color: #fff;
 | 1 | Boards of Canada | Dayvan Cowboy | 서정적인 음향미 |
 | 2 | Four Tet | My Angel Rocks Back and Forth | 포크트로니카의 명곡 |
 | 3 | Plaid | Zeal | 일렉트로니카 시대의 상징 |
-| 4 | Venetian Snares | Szamar Madar | 클래식과 IDM의 경계 |
+| 4 | Venetian Snares | Szamar Madar | 클래식과 IDM 테두리 |
 | 5 | Amon Tobin | Verbal | 샘플의 숙련 된 재구성 |
 | 6 | Prefuse 73 | One Word Extinguisher | 힙합과 IDM의 만남 |
 | 7 | Telefon Tel Aviv | Fahrenheit Fair Enough | 부드러운 음향 및 비트 |
@@ -176,7 +176,7 @@ color: #fff;
 |---|---|---|---|
 | 1 | Autechre | M4 Lema | 복잡하고 유기적인 진화 |
 | 2 | Kelly Lee Owens | Night | 꿈꾸는 사운드 스케이프 |
-| 3 | Floating Points, Pharoah Sanders | Movement 1 | 재즈와 IDM의 최고 융합 |
+| 3 | Floating Points, Pharoah Sanders | Movement 1 | 재즈와 IDM의 융합 |
 | 4 | Skee Mask | Rev8617 | 브레이크 비트와 앰비언트의 융합 |
 | 5 | Caterina Barbieri | Fantas | 모듈러에 의한 최면적 반복 |
 | 6 | Rian Treanor | Ataxia | 리듬 실험의 최전선 |

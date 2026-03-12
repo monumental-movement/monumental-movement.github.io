@@ -15,7 +15,7 @@ title: Absolum – Regenerate D-Generate
 
 Absolum(압솔람)은 프랑스의 사이트랜스 아티스트 Christof Drouillet(크리스토프 드루예)의 별명의.
 
-「Absolum – Regenerate / D-Generate」는, TIP Records 종료로부터 약 1년 후의 1999년에 Raja Ram(라자 램)에 의해 설립된 영국의 사이트랜스 라벨 TIP.World보다, 2000년에 릴리스.
+「Absolum – Regenerate / D-Generate」는, TIP Records 종료로부터 약 1년 후의 1999년에 Raja Ram(라자 람)에 의해 설립된 영국의 사이트랜스 라벨 TIP.World보다, 2000년에 릴리스.
 
 #### Tracklist
 ```md

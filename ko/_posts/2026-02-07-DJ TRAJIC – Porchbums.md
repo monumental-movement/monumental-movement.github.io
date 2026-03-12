@@ -18,7 +18,7 @@ title: DJ TRAJIC – Porchbums
 DJ TRAJIC은 시카고에 본사를 둔 1990년대 하드하우스의 선구자
 & 전설. 히트곡 'Show Me Your Face' 등으로 잘 알려져 있다.
 
-Porchbums는 라벨 Underground Construction에서 1996년에 출시된 Hard House 트럭.
+Porchbums는 라벨 Underground Construction에서 1996년에 발매된 Hard House 트럭.
 
 #### Tracklist
 ```md

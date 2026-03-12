@@ -14,7 +14,7 @@ title: Riot – Inishmore
 ---
 
 
-'Inishmore'는 1997년 일본에서 선행 발매된 미국의 하드록/헤비메탈 밴드 Riot(라이오트)의 10번째 스튜디오 앨범. 이 앨범은 켈트 신화와 아일랜드 신화의 사가를 컨셉으로 하고 있다. 12곡째는 일본반만의 보너스 트랙. 출시 당시 멤버는 Mike DiMeo, Mark Reale, Mike Flyntz, Pete Perez, Boby Jarzombek.
+‘Inishmore’는 1997년 일본에서 선행 발매된 미국 하드록/헤비메탈 밴드 Riot(라이오트)의 10번째 스튜디오 앨범. 이 앨범은 켈트 신화와 아일랜드 신화의 사가를 컨셉으로 하고 있다. 12곡째는 일본반만의 보너스 트랙. 출시 당시 멤버는 Mike DiMeo, Mark Reale, Mike Flyntz, Pete Perez, Boby Jarzombek.
 
 #### Tracklist
 ```md

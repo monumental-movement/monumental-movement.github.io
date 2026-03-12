@@ -34,7 +34,7 @@ Olivier Abbeloos는 승낙, 이후 T99는 듀오로 활동하게 되었습니다
 
 두 사람은 나중에 유일한 앨범 "Children Of Chaos"를 발표했습니다.
 
-여담이지만, 아브리 로스의 의리의 형제는 Olivier Pieters이며, 레코드 숍 「타겟 레코즈」의 수입 부문에서도 일하고있었습니다.
+여담이지만, 아브리 로스의 의리 형제는 Olivier Pieters이며 레코드 숍 "타겟 레코즈"의 수입 부문에서도 일하고있었습니다.
 
 #### Tracklist
 ```md

@@ -13,7 +13,7 @@ title: Marco Bailey – Ipanema EP
 ---
 
 
-'이파네마 EP'는 2001년 스웨덴의 라벨 'Zync'에서 출시된 마르코 베일리의 EP입니다.
+'이파네마 EP'는 2001년 스웨덴 라벨 'Zync'에서 출시된 마르코 베일리의 EP입니다.
 
 보컬 샘플 소스는 "Mamborama - Cuba Te Llama"입니다.
 

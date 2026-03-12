@@ -40,7 +40,7 @@ color: #fff;
 
 ### 도요타 / 렉서스
 
-- **대표 모델 오디오 사양**
+-** 대표 모델의 오디오 사양**
 - 렉서스 LS: Mark Levinson 3D 서라운드, 17 스피커, 1,200W
 - 소프트웨어로 방 보정 기능 포함
 
@@ -64,14 +64,14 @@ color: #fff;
 ### 닛산/인피니티
 
 - **대표 모델**: 인피니티 QX80(Bose 16 스피커 시스템)
-- **기술**: 차내 음향을 최적화하기 위해 스피커 배치 및 소재 반사를 분석하고 BOSE와 공동으로 튜닝
+- **기술**: 차량 내 음향을 최적화하기 위해 스피커 배치 및 소재 반사를 분석하고 BOSE와 공동으로 튜닝
 
 ---
 
 ### 혼다
 
 - **대표 모델**: 어코드(ELS Studio 14 스피커)
-- **기술**: 음악가 감수에 의한 자연스러운 사운드 재현
+-**기술**: 음악가 감수에 의한 자연스러운 사운드 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_OMh104IWw?si=TI7U_7JShGuRlnFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -80,7 +80,7 @@ color: #fff;
 ### 마쓰다 스바루
 
 - **대표 모델**: CX-5(Bose 12 스피커)
-- **기술**: 차내 공간의 음향 특성을 측정하고 최적화
+-**기술**: 차내 공간의 음향 특성을 측정하고 최적화
 
 ---
 
@@ -108,7 +108,7 @@ color: #fff;
 ### 아우디
 
 - **대표 모델**: A8(Bang & Olufsen Advanced Sound System, 19 스피커, 1,650W)
--**기술**: 멀티채널 DSP로 입체음향 재현
+- **기술**: 멀티채널 DSP로 입체음향 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -118,7 +118,7 @@ color: #fff;
 
 ### 포드/쉐보레
 
-- **대표 모델**: 카마로(Bose 12 스피커, 1,000W)
+- **대표 모델**: 카마로(보스 12 스피커, 1,000W)
 - **기술**: 저음을 강조하고 차내 전체에 박력 있는 사운드를 재현
 
 ---
@@ -150,10 +150,10 @@ color: #fff;
 
 ---
 
-### 마세라티 / 알파 로메오
+### 마세라티/알파로메오
 
 - **대표 모델**: 기브리(Bowers & Wilkins 15 스피커, 1,170W)
--**기술**: Nautilus 트위터로 고화질 사운드 재현
+- **기술**: Nautilus 트위터로 고화질 사운드 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -191,7 +191,7 @@ color: #fff;
 ### 재규어
 
 - **대표 모델**: F-Pace, XJ (Meridian 14~20 스피커, 825W)
--**기술**: Trifield 3D 음향 기술로 입체 음장 재현
+- **기술**: Trifield 3D 음향 기술로 입체 음장 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xivG_93VM8?si=8yi2LhhvGz2sRA9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -252,10 +252,10 @@ color: #fff;
 
 ---
 
-## 요약 : 엔진 사운드에서 음향 예술로 - 자동차와 사운드의 미래 그림
+## 요약: 엔진 사운드에서 음향 예술로 — 자동차와 사운드의 미래 그림
 
 차는 한때 "이동을위한 기계"였다. 그러나 이제는 '소리를 감싸는 공간'이며 문화의 연장선 위에 있다.
-독일은 정밀 공학의 연장으로서 영국은 전통과 격식을, 미국은 자유와 파워를, 일본은 섬세한 조화를 소리에 담아 왔다.
+독일은 정밀 공학의 연장으로 영국은 전통과 격식을, 미국은 자유와 파워를, 일본은 섬세한 조화를 소리에 담아 왔다.
 각 나라의 자동차 오디오는 그 사회의 미의식과 산업철학의 결정이기도 하다.
 
 정적을 다한 롤스 로이스의 「무음의 무대」.

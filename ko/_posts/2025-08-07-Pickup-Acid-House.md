@@ -21,7 +21,7 @@ title: 애시드 하우스 작품 픽업
 ### Stylus Trouble – That Acid Track
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
-TR-303이 씹는 왕도 어시드 라인을 가진 클럽 클래식. Pete Heller의 숨겨진 명의작.
+TR-303이 씹는 왕도 어시드 라인을 가진 클럽 클래식. Pete Heller의 숨겨진 명작.
 
 
 #### Tracklist
@@ -70,7 +70,7 @@ B4. Charm–Walk On The Wild Side
 ### Petter – Untitled Acid EP
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-현대적인 소리 만들기로 어시드를 재구축. 미니멀~프로그레의 사이에 감돈다.
+현대적인 소리 만들기로 어시드를 재구축. 미니멀~프로그레의 사이에 감돌린다.
 
 #### Tracklist
 ```md

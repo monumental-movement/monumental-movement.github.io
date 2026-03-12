@@ -44,7 +44,7 @@ color: #fff;
 
 ## 1. 록의 발화점(1950~60년대)
 
-**Chuck Berry**는 리듬 기타와 프레이즈의 융합을 통해 로큰롤의 골격을 구축했다. 그의 오른손에 의한 커팅은 댄스 비트의 기반을 만들고, 왼손의 프레이즈는 블루스 유래하면서 독자적인 선율을 그린다. Berry의 음악은 일렉트릭 기타가 젊은이들의 반항과 자유를 상징하는 수단이 될 수 있음을 보여주었습니다.
+**Chuck Berry**는 리듬 기타와 프레이즈의 융합을 통해 로큰롤 골격을 구축했다. 그의 오른손에 의한 커팅은 댄스 비트의 기반을 만들고, 왼손의 프레이즈는 블루스 유래하면서 독자적인 선율을 그린다. Berry의 음악은 일렉트릭 기타가 젊은이들의 반항과 자유를 상징하는 수단이 될 수 있음을 보여주었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -65,9 +65,9 @@ color: #fff;
 
 ## 2. 실험과 반역의 기타리즘(1970~80년대)
 
-**Robert Fripp(King Crimson)**은 복잡한 리듬과 즉흥 레이어를 활용하여 프로그레시블록에 대한 혁신적인 접근법을 수립했다.
+**Robert Fripp(King Crimson)**은 복잡한 리듬과 즉흥 레이어를 구사하여 프로그레시블록에 대한 혁신적인 접근을 확립했다.
 
-**Thurston Moore & Lee Ranaldo(Sonic Youth)**는 특수 튜닝과 준비된 기타를 사용하여 우연성을 작품에 적극적으로 도입했다. 소음을 표현 수단의 일부로 하고, 기타가 선율이나 화음뿐만 아니라 공간이나 감정을 그리는 도구임을 나타내었다.
+**Thurston Moore & Lee Ranaldo(Sonic Youth)**는 특수 튜닝과 준비된 기타를 사용하여 우연성을 작품에 적극적으로 도입했다. 노이즈를 표현 수단의 일부로 하고, 기타가 선율이나 화음뿐만 아니라 공간이나 감정을 그리는 도구임을 나타내었다.
 
 **Glenn Branca**는 기타 오케스트라를 편성하여 도시적인 음향 표현을 가능하게 했다. 다수의 기타에 의한 하모니와 노이즈의 중층 구조는, 후의 슈게이저나 노이즈 락에 큰 영향을 주었다.
 
@@ -83,7 +83,7 @@ color: #fff;
 
 ## 3. 침묵과 포효의 틈(1990~2000년대)
 
-** Kevin Shields (My Bloody Valentine) **는 포효 벽을 이용한 슈게이저의 대표. 피드백과 모듈레이션으로 소리를 공간화하고 소리의 '질감'으로 감정을 표현하는 새로운 스타일을 만들어냈다.
+**Kevin Shields(My Bloody Valentine)**는 포효 벽을 이용한 슈게이저의 대표. 피드백과 모듈레이션으로 소리를 공간화하고 소리의 '질감'으로 감정을 표현하는 새로운 스타일을 만들어냈다.
 
 ** David Pajo (Slint / Papa M) **는 고요함을 구조화하는 포스트 락의 선구자. 섬세한 아르페지오와 리듬의 조합으로 정적과 움직임의 콘트라스트를 만들어 내어 이야기적인 소리 세계를 구축했다.
 
@@ -128,8 +128,8 @@ color: #fff;
 ---
 
 **야마모토 세이이치(Boredoms/Omoide Hatoba)**:
--**Boredoms기**: 리듬과 파괴의 의식적 연주. 소음, 즉흥, 환각을 융합.
-- **솔로 ~ 오모이드 하토바 ** : 내성적 선율과 사이키델릭 표현. 가심과 소음의 공존을 실현.
+- **Boredoms기**: 리듬과 파괴의 의식적 연주. 소음, 즉흥, 환각을 융합.
+-**솔로~오모이드 하토바기**: 내성적 선율과 사이키델릭 표현. 가심과 소음의 공존을 실현.
 - 일본어 락에 숨어있는 무의식적 표현을 구현하고 후속 기타리스트에 대한 영향은 헤아릴 수 없다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/abitotmLo18?si=FQfZaRVCWwtFEldI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,7 +168,7 @@ color: #fff;
 
 **envy**는 격정 하드 코어에 서정 기타 워크를 융합시켜 독자적인 감정 표현을 확립.
 
-**Boris**는 포효와 다채로운 장르 융합으로 국제적 평가를 획득.
+**Boris**는 굉음과 다채로운 장르 융합으로 국제적 평가를 획득.
 
 **Zeni Geva**는 메탈과 노이즈를 융합해, 파괴적 즉흥 표현을 실시한다.
 
@@ -182,13 +182,13 @@ color: #fff;
 
 **나나오여인**은 기타와 가사를 융합시켜 현대시적 음악표현을 전개.
 
-**야마모토 세이치 이후의 영향**：내향·즉흥·언더그라운드 표현을 계승하는 젊은 기타리스트가 등장.
+**야마모토 세이이치 이후의 영향**：내향・즉흥・언더그라운드 표현을 계승하는 젊은 기타리스트가 등장.
 
 ---
 
 # IV. 기타 재정의 : 장비, 신체,기도
 
-기타는 단순한 악기가 아니라 ** 자기 표현의 장치 **입니다.
+기타는 단순한 악기가 아니라 ** 자기 표현 장치 **입니다.
 
 - **페달 보드의 사상**: 소리 만들기 = 자아 디자인. 개별 페달이 연주자의 인격의 확장이 된다.
 - **루프 글리치 DAW**: 확장된 “손가락 기억”. 단일 연주자가 오케스트라 표현을 가능하게.

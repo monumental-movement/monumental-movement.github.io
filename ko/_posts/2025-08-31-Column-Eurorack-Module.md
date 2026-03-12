@@ -88,7 +88,7 @@ title: 【칼럼】 유로 락 모듈러 신디사이저의 변천과 음악 장
 
 #### 체험 / 앰비언트
 
-알레산드로 코르티니 (Alessandro Cortini)와 케이트 풀턴 휘트먼 (Keith Fullerton Whitman)과 같은 아티스트는 유로 랙을 사용하여 복잡하고 심오한 사운드 세계를 구축합니다.
+알레산드로 코르티니 (Alessandro Cortini)와 케이트 풀턴 휘트먼 (Keith Fullerton Whitman)과 같은 아티스트는 유로 랙을 사용하여 복잡하고 심오한 사운드 세계를 구축하고 있습니다.
 
 
 #### 테크노/IDM

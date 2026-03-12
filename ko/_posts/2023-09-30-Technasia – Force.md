@@ -12,11 +12,11 @@ title: Technasia – Force
 ---
 
 
-이 Technasia에 의한 「Force」는 테크노의 앙셈이라고 해도 좋을 것입니다.
+이 Technasia의 "Force"는 테크노의 앙셈이라고 할 수 있습니다.
 
 "Force"는 보컬이이 전형적인 Technasia 트랙을 특별하게 만들고 훌륭한 클래식이되었습니다.
 
-뒷면의 브레이크 비트 믹스도 꼭 체크하면 듣는 가치가 있습니다.
+뒷면의 브레이크 비트 믹스도 꼭 체크하여 듣는 가치가 있습니다.
 
 #### Tracklist
 ```md

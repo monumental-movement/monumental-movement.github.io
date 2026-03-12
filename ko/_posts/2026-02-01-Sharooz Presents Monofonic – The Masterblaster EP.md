@@ -17,7 +17,7 @@ title: Sharooz Presents Monofonic – The Masterblaster EP
 
 Sharooz와 Sharooz Raoofi는 Principleasure 명의로 알려진 뮤지션. 40khz, Monofonic, Vails 명의에서도 발표하고 있다.
 
-'The Masterblaster EP'는 2006년 독일 라벨 Rotor Records에서 출시된 Electro/House 트랙.
+"The Masterblaster EP"는 2006년 독일 라벨 Rotor Records에서 출시된 Electro/House 트랙.
 
 #### Tracklist
 ```md

@@ -14,7 +14,7 @@ title: Cpen – Monsters
 ---
 
 
-CPEN과 Chris Penny는 WestCoast House의 대표 아티스트 중 한 명으로 Seasons Recordings, Naked Music, Icon Recordings, Transfusion 등의 라벨에서 많은 작품을 발표하는 일렉트로닉/하우스 프로듀서. J.T. Donaldson과의 유닛 Untitled Orchestra나, Lance DeSardi와의 유닛 Curb Feelers로서도 활동하고 있다.
+CPEN과 Chris Penny는 WestCoast House의 대표적인 아티스트 중 한 명으로 Seasons Recordings, Naked Music, Icon Recordings, Transfusion 등의 라벨에서 많은 작품을 출시하는 일렉트로닉/하우스 프로듀서. J.T. Donaldson과의 유닛 Untitled Orchestra나, Lance DeSardi와의 유닛 Curb Feelers로서도 활동하고 있다.
 
 "Monsters"는 라벨 Memorabilia에서 2006 년에 릴리스 된 Deep House / Tech House.
 

@@ -15,7 +15,7 @@ title: Peter Presta – Sensation
 ---
 
 
-Peter Presta는 브루클린 출신 DJ 프로듀서 리믹서. Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer, DJ Chus 등 다양한 아티스트와 협업하거나 remix를 다루고 있다.
+Peter Presta는 브루클린 출신의 DJ 프로듀서 리믹서. Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer, DJ Chus 등 다양한 아티스트와 협업하거나 remix를 다루고 있다.
 
 「Sensation」은, 2005년에 Apple Jaxx Recordings로부터 릴리스된 프로그레시브하우스 트라이벌하우스 테크하우스 트럭.
 

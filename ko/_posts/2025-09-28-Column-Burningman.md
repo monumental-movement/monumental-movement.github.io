@@ -49,7 +49,7 @@ color: #fff;
 
 #### 2004년 '10개의 원칙'과 그 영향
 
-조직적인 발전 속에서 2004년에 Larry Harvey가 제창한 '10의 원칙(Radical Inclusion, Gifting, Decommodification 등)'이 커뮤니티의 가치관을 정리하고 이벤트의 문화적 틀을 주었다. 이것이 Burning Man의 '이념적 핵'으로서 전세계의 지역 번에 파급되고 있다.
+조직적인 발전 속에서, 2004년에 Larry Harvey가 제창한 「10의 원칙(Radical Inclusion, Gifting, Decommodification 등)」이 커뮤니티의 가치관을 정리해, 이벤트의 문화적 틀을 주었다. 이것이 Burning Man의 '이념적 핵'으로서 전세계의 지역 번에 파급되고 있다.
 
 ---
 
@@ -73,7 +73,7 @@ Burning Man은 수년 동안 유명 인사를 끌어 왔습니다. 기업가와 
 1990년 이전 시 경찰에 의한 해변에서의 연소 금지가 전기가 되어 사막으로의 이동이 정해졌다.
 Burning Man
 
-Google Doodle의 뿌리에 Burning Man에서 창업자의 휴가 고지가 관련되어 있다는 재미있는 이야기 (기업 문화와 축제의 교차).
+Google Doodle의 뿌리에 Burning Man에서 창업자의 휴가 고지가 관련되어 있다는 재미있는 이야기(기업 문화와 축제의 교차).
 
 2000년대 이후 거대한 '아트 자동차(mutant vehicles)'나 불을 사용한 조각이 주목을 받고 전세계 미디어에서 소개되게 된다.
 
@@ -200,7 +200,7 @@ flowchart TD
 
 ---
 
-#### 2000년: The Body
+#### 2000: The Body
 
 인체·육체의 표현·상징이 주제. 신체성과 미학, 육체의 한계를 시험하는 설치가 많이.
 
@@ -264,7 +264,7 @@ flowchart TD
 
 자연과 문명의 관계를 묻는 테마. 「그린맨(식물・자연생기성의 의인상)」을 모티브로 한 구성.
 
-다만 이 해에는 거대한 석유굴착탑을 본뜬 연소아트 “Crude Awakening”이 논쟁을 불러 비판되었다.
+다만, 이 해에는 거대한 석유 굴착탑을 본뜬 연소 아트 “Crude Awakening”이 논쟁을 불러 비판되었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -272,7 +272,7 @@ flowchart TD
 
 #### 2008년: American Dream
 
-미국적 꿈 / 소비 사회에 대한 질문. 소비주의·신화·사회구조를 테마화한 아트가 많이 등장.
+미국적 꿈 / 소비 사회에 대한 질문. 소비주의·신화·사회 구조를 테마화한 아트가 많이 등장.
 
 ---
 
@@ -306,7 +306,7 @@ flowchart TD
 
 #### 2013: Cargo Cult
 
-카고 컬트(물질문화와 신앙의 어긋남)를 모티브로 현대소비사회, 화물유통, 의례화를 묻는다.
+카고·컬트(물질문화와 신앙의 어긋남)를 모티브로 현대소비사회·화물유통·의례화를 묻는다.
 
 많은 캠프와 구조물이 「신앙되는 물질」 「증여 경제」의 어긋남을 표현.
 

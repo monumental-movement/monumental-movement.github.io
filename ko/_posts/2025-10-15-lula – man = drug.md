@@ -16,7 +16,7 @@ title: Lula – Man = Drug
 
 Lula ( Claudia Radbauer )는 오스트리아 출신의 Progressive house/house/minimal 프로듀서.
 
-Man = Drug는 1999 년 라벨 Star 69 Records에서 출시 된 Hard House / Tribal House. 프로듀서는 Peter Rauhofer.
+"Man = Drug"는 1999 년 라벨 Star 69 Records에서 출시 된 Hard House / Tribal House. 프로듀서는 Peter Rauhofer.
 
 #### Tracklist
 ```md

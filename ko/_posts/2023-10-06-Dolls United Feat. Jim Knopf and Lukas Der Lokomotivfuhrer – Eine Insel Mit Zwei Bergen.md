@@ -15,7 +15,7 @@ title: Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel
 ---
 
 
-Dolls United는 독일의 유로 댄스 그룹입니다. 이들은 0~10세 어린이들에게 인기 있는 TV 프로그램 '아우크스부르거 푸펜키스테'의 캐릭터와 곡의 목소리를 샘플링합니다.
+Dolls United는 독일의 유로 댄스 그룹입니다. 이들은 0세부터 10세 사이의 어린이들에게 인기 있는 TV 프로그램 '아우크스부르거 푸펜키스테'의 캐릭터와 음악의 목소리를 샘플링합니다.
 
 그들의 릴리스에서는 샘플링 된 캐릭터를 "추가 아티스트"로 언급하고, 예를 들어 "Dolls United feat. Jim Knopf & Lukas Der Lokomotivführer"나 "Dolls United feat. Die Blechbüchsenarmee"와 같은 형태로 표시됩니다.
 

@@ -16,7 +16,7 @@ title: Gerardo Frisina – Saeta
 
 Gerardo Frisina는 주로 라틴 재즈 음악을 다루는 이탈리아 출신의 뮤지션 / 프로듀서. The Motion Collective의 멤버로도 활동하고 있다.
 
-「Saeta」는, 2001년에 이탈리아의 Jazz 라벨 Schema로부터 릴리스된 Latin/Future Jazz 트랙.
+「Saeta」는, 2001년에 이탈리아의 Jazz 레이블 Schema로부터 릴리스된 Latin/Future Jazz 트랙.
 
 #### Tracklist
 ```md

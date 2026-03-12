@@ -17,7 +17,7 @@ title: Teena Marie – It Must Be Magic
 
 Lady T(레이디 T)의 애칭으로 알려진 Teena Marie(티나 마리)는 미국의 서울과 R&B의 가수. 독특하고 소울풀한 소프라노 보컬 스타일이 특징.
 
-1981년에 발매된 'It Must Be Magic'은 티에나 마리의 네 번째 스튜디오 앨범이자 모타운에서 마지막 앨범이 됐다. 히트곡 Square Biz가 수록되어 있다.
+1981년에 발매된 ‘It Must Be Magic’은 티에나 마리의 네 번째 스튜디오 앨범으로 모타운에서 마지막 앨범이 됐다. 히트곡 Square Biz가 수록되어 있다.
 이 레코드는 Motown의 서브 라벨 Gordy에서 출시판.
 
 #### Tracklist

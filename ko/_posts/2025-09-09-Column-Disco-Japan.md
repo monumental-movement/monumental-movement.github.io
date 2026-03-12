@@ -40,14 +40,14 @@ title: 【칼럼】 디스코와 일본 문화의 교차부터 현재까지 — 
 - ** 대표적인 명반(일본)**
 - 핑크 레이디 — *UFO* (1977)
 - 와다 아키코 - *오래된 일기(디스코·어레인지판)* (1974)
-- 이노우에 순서 - * 신세를 졌습니다 (디스코 스타일 어레인지) *
+- 이노우에 순 - * 신세를 졌습니다 (디스코 스타일 어레인지) *
 
 - **일본문화와의 관계**
 젊은이의 패션(벨바텀, 사이키 무늬), 긴자나 롯폰기의 나이트 라이프 문화와 연결된다. 영화 '새터데이 나이트 피버'(1977)는 일본에서도 사회 현상에.
 
 - **주요 장비**
 - Technics SL-1200(턴테이블/1972년 등장)
-- Urei 1620(클럽용 믹서)
+- Urei 1620 (클럽용 믹서)
 - JBL 4350 스피커
 
 - **일본 대표 클럽/디스코**
@@ -74,7 +74,7 @@ color: #fff;
 | 트랙 | 아티스트 | 코멘트 |
 |----------|--------------|----------|
 | Love to Love You Baby | Donna Summer | |
-| I Feel Love | Donna Summer & Giorgio Moroder | 신디 디스코의 혁명 트랙. |
+| I Feel Love | Donna Summer & Giorgio Moroder | 신디 디스코의 혁명적인 트럭. |
 | Stayin’ Alive | Bee Gees | 세계적인 디스코 앤셈. |
 | Le Freak | Chic | 그루브와 세련의 상징. |
 | UFO | 핑크 레이디 | 일본의 가요 디스코를 상징하는 한 곡. |
@@ -126,7 +126,7 @@ color: #fff;
 | Let’s Groove | Earth, Wind & Fire | 펑크에서 디스코까지 다리. |
 | Word Up! | Cameo | 펑크 기반 디스코 클래식. |
 | Celebration | Kool & The Gang | 축제 클래식 노래. |
-| Holiday | Madonna | 전세계 댄스 플로어를 열광시킨 명곡. |
+| Holiday | Madonna | 전세계의 댄스 플로어를 열광시킨 명곡. |
 
 ---
 
@@ -197,7 +197,7 @@ color: #fff;
 - Pioneer CDJ-2000
 
 - **일본 대표 클럽/디스코**
-- 롯폰기: Velfarre(~2007), AgeHa(신기장)
+- 롯폰기 : Velfarre (~2007), AgeHa (신키바)
 - 시부야: WOMB, Club Asia
 - 오사카 미나미 : Underlounge, MOTHER HALL
 

@@ -28,7 +28,7 @@ title: 아웃로우(Outlaw) 작품 픽업
 
 장르：Experimental Noise
 
-개요 : 2004 년 Important Records에서 출시 된 노이즈 아티스트 Merzbow에 의한 파괴적인 표현의 극치 작품.
+개요 : 2004 년 Important Records에서 출시 된 노이즈 아티스트 Merzbow의 파괴적인 표현의 극치 작품.
 
 
 아웃로우감 : 소리의 파괴를 예술에까지 밀어 올린 도전성은 음악 그 자체를 규범에서 일탈시키는 "합법적 폭력". 주변에서 자유로운 파괴의 상징.

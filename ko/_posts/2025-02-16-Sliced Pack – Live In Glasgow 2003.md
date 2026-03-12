@@ -15,7 +15,7 @@ title: Sliced ​​Pack – Live In Glasgow 2003
 
 Sliced ​​Pack은 이탈리아 DJ 프로듀서 Danilo Rispoli와 Vincenzo Callea의 듀오. 별명의로 Callea & Rispoli, Junk Yard Dog, Le Soleil로도 활동하고 있다.
 
-'Live In Glasgow 2003'은 이탈리안 하우스 라벨 Sound Division에서 2003년에 발매된 하우스 트럭.
+"Live In Glasgow 2003"은 이탈리아 하우스 라벨 Sound Division에서 2003 년에 릴리스 된 하우스 트랙.
 
 
 #### Tracklist

@@ -14,7 +14,7 @@ title: Daddy Freddy DJ Honda – Rough and Rugged (Remix) Travellin' Man (Remix)
 ---
 
 
-"Rough and Rugged (Remix) Travellin' Man (Remix)"는
+"Rough and Rugged (Remix) Travellin 'Man (Remix)"는
 2005년에 라벨 「Jacked Recordings」로부터 발매된 Daddy Freddy/DJ Honda의 악곡의 드럼 베이스 리믹스입니다.
 
 

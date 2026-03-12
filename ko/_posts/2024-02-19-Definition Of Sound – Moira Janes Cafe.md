@@ -16,7 +16,7 @@ title: Definition Of Sound – Moira Jane's Café
 
 Definition Of Sound(디피니션 오브 사운드)는 런던을 거점으로 하는 Donald Weekes와 Kevin Clark의 댄스 뮤직 그룹.
 
-1992년에 릴리스된 4번째의 싱글 「Moira Jane's Café」는, 영국 뿐만이 아니라 전세계에서 히트한 하우스 트럭.
+1992년에 발매된 4번째 싱글 「Moira Jane's Café」는 영국뿐만 아니라 전 세계에서 히트한 하우스 트럭.
 
 #### Tracklist
 ```md

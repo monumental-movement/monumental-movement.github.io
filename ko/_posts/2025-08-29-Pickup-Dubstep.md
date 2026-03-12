@@ -10,11 +10,11 @@ tags:
 - Dubstep
 - 90s
 - 00s
-title: Dubstep 작품 픽업
+title: Dubstep 작품을 픽업
 ---
 
 
-"페스티벌의 주역으로 뛰어오른 폭발하는 기준선의 충동, 주목할 만한 Dubstep 작품군"
+"페스의 주역으로 뛰어오른 폭발하는 기준선의 충동, 주목할 만한 덥스텝(Dubstep) 작품군"
 
 <hr>
 
@@ -100,7 +100,7 @@ B. Traffic (Goth-Trad Remix)
 
 특징: 본작은 Skrillex의 이름을 세계적으로 확립한 EP로, 특히 "Scary Monsters And Nice Sprites"는 Dubstep를 메인 스트림에 밀어 올린 금자탑이라고도 불립니다.
 
-매력: Noisia, Zedd, Bare Noize 등 제일선의 프로듀서들에 의한 리믹스가 수록되어 있어, 각각의 아티스트 시점으로부터 악곡의 새로운 매력이 끌려가고 있습니다.
+매력 : Noisia, Zedd, Bare Noize 등 제일선의 프로듀서들에 의한 리믹스가 수록되어 있어, 각각의 아티스트 시점으로부터 악곡의 새로운 매력이 끌어내지고 있습니다.
 
 #### Tracklist
 ```md

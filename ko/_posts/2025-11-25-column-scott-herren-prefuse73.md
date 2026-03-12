@@ -100,7 +100,7 @@ Herren은 **Eastern Developments Music**을 설립하여 공동으로 라벨 운
 
 ---
 
-# 복귀 및 최근 출시
+# 복귀 및 최근 릴리스
 
 2015년 앨범 Rivington Não Rio와 EP Forsyth Gardens, Every Color of Darkness를 동시 발표.
 

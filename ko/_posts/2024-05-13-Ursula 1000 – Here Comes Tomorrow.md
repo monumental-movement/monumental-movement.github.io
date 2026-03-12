@@ -18,7 +18,7 @@ title: Ursula 1000 – Here Comes Tomorrow
 
 뉴욕의 프로듀서&라운지계 DJ 울슬라 1000일 Alex Gimeno는 60년대의 사운드트랙, 90년대의 라운지 리바이벌, 시부야계, 영국의 빅 비트, 펑크, 디스코 등, 다양한 사운드를 융합시켜, 레트로/퓨처.
 
-「Here Comes Tomorrow」는 2006년에 발매된 보사노바 일렉트로트랙.
+「Here Comes Tomorrow」는 2006년에 릴리스된 보사노바 일렉트로트랙.
 
 #### Tracklist
 ```md

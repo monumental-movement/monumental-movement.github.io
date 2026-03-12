@@ -14,7 +14,7 @@ title: Elvis - I Really Don't Want To Know
 ---
 
 
-'I Really Don't Want To Know(알고 싶지 않은)'는 원래 Don Robertson(돈 로버트슨)과 Howard Barnes(하워드 번즈)가 제작해 1953년에 발매되었다.
+'I Really Don't Want To Know(알고 싶지 않은 것)'는 원래 Don Robertson(돈 로버트슨)과 Howard Barnes(하워드 번즈)가 제작해 1953년에 발매되었다.
 
 지금까지 레스 폴 & 메리 포드, 앤디 윌리엄스, 에디 아놀드, 조니 로드리게스, 토미 에드워즈, 로니 도브, 제이슨 & 더 스코어스, 앤 말레이, 제리 리 루이스 등 많은 아티스트가 커버하고있다.
 

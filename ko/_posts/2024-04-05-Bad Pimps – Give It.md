@@ -14,7 +14,7 @@ title: Bad Pimps – Give It
 ---
 
 
-Bad Pimps(배드 핀프스)는 라벨 Kanzleramt의 창립자인 Patrick Lindsey와 벨기에의 테크노 씬을 대표하는 아티스트의 한명 Stanny Franssen(aka. G-Force)의 프로젝트.
+Bad Pimps(배드 핀프스)는 라벨 Kanzleramt의 창립자인 Patrick Lindsey와 벨기에의 테크노 씬을 대표하는 아티스트의 1명 Stanny Franssen(aka. G-Force)의 프로젝트.
 
 Monika Kruse (모니카 크루즈)의 라벨 Terminal M에서 2002 년에 출시 된 테크노 테크 하우스 트랙.
 

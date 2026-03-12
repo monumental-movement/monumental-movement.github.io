@@ -13,7 +13,7 @@ title: Simon & Garfunkel – Sounds Of Silence
 ---
 
 
-'Sounds Of Silence'는 1966년에 출시되었습니다. 이 앨범은 사이먼 & 가펑클 경력에서 중요한 위치를 차지하는 작품으로, 그들의 음악적 성숙과 재능을 보여주었습니다.
+'Sounds Of Silence'는 1966년에 출시되었습니다. 이 앨범은 사이먼 & 가펑클 경력에서 중요한 위치를 차지하는 작품으로 그들의 음악적 성숙과 재능을 보여주었습니다.
 
 앨범에는, 싱글 히트곡 「The Sound of Silence」나 「I Am a Rock」등이 수록되어 있습니다. 이 노래는 멜로디스한 포크 사운드와 폴 사이먼(Paul Simon)과 아트 가펑클(Art Garfunkel)의 아름다운 하모니가 특징입니다.
 

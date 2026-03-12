@@ -12,7 +12,7 @@ title: Soul Purpose – Indulge
 ---
 
 
-Soul Purpose, Martin Ikin(일명 DJ Mayhem)은 90년대 초반부터 Basement, Face, Precious Materials 등의 라벨로 하드 코어, 정글 테크노, 드럼 베이스 기반 트랙을 프로듀스해 활약했다.
+Soul Purpose, Martin Ikin(일명 DJ Mayhem)은 90년대 초반부터 Basement, Face, Precious Materials 등의 라벨로 하드 코어, 정글 테크노, 드럼 기반의 트랙을 프로듀스해 활약했다.
 
 그 후, US 스타일의 하우스 뮤직이나, DJ Phantasy와 콜라보레이션으로 정글 트럭 등을 릴리스 하고 있다.
 

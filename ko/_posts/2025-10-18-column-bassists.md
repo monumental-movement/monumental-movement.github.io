@@ -117,7 +117,7 @@ color: #fff;
 
 ### 1. 호소노 하루미와 일본어 리듬의 번역자들
 
-YMO 이전 호소노 하루미는 이미 일본어 팝스의 '중심'을 바꾸고 있었다.
+YMO 이전 호소노 하루신은 이미 일본어 팝스의 '중심'을 바꾸고 있었다.
 영어의 노리가 아니라 말의 리듬에 어울리는 저음.
 그가 세운 것은 "일본어로 그루브한다"는 미학이었다.
 
@@ -160,7 +160,7 @@ STUTS나 yahyel이 치고 생연주를 융합시켰다.
 
 ---
 
-King Gnu나 millenium parade와 같은 현재 밴드에서는
+King Gnu나 millenium parade와 같은 현재 밴드에서,
 베이스가 곡의 「이야기성」을 제어하고 있다.
 하마 오카모토는 전통과 현대성의 결절점으로,
 플레이어빌리티 앞에 "음악적 예절"을 제시하고 있다.
@@ -169,7 +169,7 @@ King Gnu나 millenium parade와 같은 현재 밴드에서는
 
 ## IV. 세계 지하 : 저음으로 이어지는 카운터 문화
 
-Joy Division의 Peter Hook, PIL의 Jah Wobble,
+Joy Division의 피터 후크, PIL의 Jah Wobble,
 그리고 Talking Heads의 티나 웨이머스.
 그들이 보여준 것은 베이스가 '지적 반역'의 상징이라는 것이었다.
 
@@ -190,7 +190,7 @@ Joy Division의 Peter Hook, PIL의 Jah Wobble,
 ## V. 장비와 미학 : 악기가 말하는 또 다른 역사
 
 Fender Precision, 재즈베이스, 리켄 배커.
-각 형태는 음악 사상 자체의 차이를 나타냅니다.
+각각의 형태는 음악 사상 자체의 차이를 나타낸다.
 
 신디 기반의 진화도 저음의 민주화를 진행했다.
 Moog, Roland, Novation──기계가 감정을 가지게 되어,

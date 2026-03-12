@@ -50,7 +50,7 @@ color: #fff;
 - 애니메이션 전송 개시: 2022년 9월
 - 제작 스튜디오: TRIGGER
 - 배달 플랫폼: Netflix
-- 재히트 곡 : I Really Want to Stay at Your House
+- 재히트 곡: I Really Want to Stay at Your House
 - 아티스트 : Rosa Walton
 
 ---
@@ -131,7 +131,7 @@ Netflix는 190개국 이상에서 동시 전달을 실시한다.
 지역별 공개 시차가 존재하지 않기 때문에 시청 체험이 거의 동시에 공유된다.
 
 그 결과, SNS 투고·자르기 동영상·리액션 동영상이 단기간에 집중.
-알고리즘이 반응하고 음악이 자동으로 추천 영역으로 확산되었습니다.
+알고리즘이 반응하고 노래가 자동으로 추천 영역으로 확산되었습니다.
 
 <div class="mermaid">
 graph TD
@@ -180,7 +180,7 @@ Netflix 시리즈 「Stranger Things」에서는 Running Up That Hill이 다시 
 * 2022년 가을: 여러 국가에서 차트 재부상
 * 2023: 지속적인 긴 꼬리 재생
 
-> 2년 동안 자고 있던 곡이 이야기를 통해 재기동했다.
+> 2년 동안 잠들었던 곡이 이야기를 통해 재기동했다.
 
 ---
 

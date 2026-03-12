@@ -52,9 +52,9 @@ color: #fff;
 
 ---
 
-## 1990년대: 황금기와 현실주의 심화
+## 1990년대: 황금기와 리얼리즘의 심화
 
-*** 대표적인 프로듀서**: DJ Premier, Pete Rock, RZA, Large Professor
+*** 대표 프로듀서**: DJ Premier, Pete Rock, RZA, Large Professor
 *** 주요 라벨**: Def Jam, Bad Boy Records, Loud Records
 ***문화적 배경**: 샘플링을 구사한 비트와 사회 비평적이고 스트리트의 리얼리즘을 그리는 리릭. 브루클린, 퀸즈, 할렘이 거점에.
 ***동서 항쟁**: 2Pac과 The Notorious B.I.G.의 비극적 죽음을 포함한 동서 대립이 격화.
@@ -74,7 +74,7 @@ color: #fff;
 
 *** 대표적인 프로듀서**: Just Blaze, The Alchemist, Swizz Beatz
 *** 주요 라벨**: Roc-A-Fella, Rawkus Records, G-Unit Records
-* **문화적 배경**: Jay-Z, DMX, 50 Cent 등이 상업적 성공을 거두는 한편, 지하에서는 Mos Def, Talib Kweli 등이 '콘셔스 랩'을 전개. 믹스테이프 문화가 융성.
+* ** 문화적 배경 ** : Jay-Z, DMX, 50 Cent 등이 상업적 성공을 거두는 한편, 지하에서는 Mos Def, Talib Kweli 등이 '콘셔스 랩'을 전개. 믹스테이프 문화가 융성.
 ***영상·패션**: 대규모 MV 제작, Rocawear나 Sean John, Ecko등의 브랜드가 유행.
 
 **추천 앨범**
@@ -89,9 +89,9 @@ color: #fff;
 
 ## 2010년대~현재: 다양화와 세계적 영향력
 
-* ** 대표 프로듀서 ** : Metro Boomin (남부 지역이지만 NY에도 영향), Hit-Boy, Statik Selektah
+*** 대표적인 프로듀서**: Metro Boomin(남부 근처지만 NY에도 영향), Hit-Boy, Statik Selektah
 *** 주요 라벨**: Top Dawg(NY와도 연결), Griselda Records
-***문화적 배경**: 켄드릭 라마르의 영향과 병행하여 뉴욕에서는 그리스엘다(Westside Gunn, Conway, Benny the Butcher)가 90년대적 질감을 부활. 인터넷발의 아티스트도 증가.
+***문화적 배경**: 켄드릭 라마르의 영향과 병행하여 뉴욕에서는 그리스엘다(Westside Gunn, Conway, Benny the Butcher)가 90년대적 질감을 부활. 인터넷 출발 아티스트도 증가.
 ***영상·패션**: 하이브랜드와 스트리트가 융합(Supreme, Off-White, Balenciaga). 다큐멘터리적 MV가 증가.
 
 **추천 앨범**

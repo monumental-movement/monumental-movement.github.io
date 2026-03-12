@@ -14,7 +14,7 @@ title: Steve Alexander – Isometric 1
 ---
 
 
-Steve Alexander(스티브 알렉산더)는 웨일즈 출신의 드러머/컴포저. Jeff Beck(자프 벡)과 Duran Duran의 드러머로도 활동했다.
+Steve Alexander(스티브 알렉산더)는 웨일즈 출신의 드러머/컴포저. Jeff Beck(재프 벡)과 Duran Duran의 드러머로도 활동했다.
 
 "Isometric 1"은 라벨 Reinforced Records에서 1998 년에 출시 된 Future Jazz / Drum n Bass 트랙.
 

@@ -13,7 +13,7 @@ title: Hertz – Look Back To See The Future EP
 ---
 
 
-Hertz(헤르츠)는 2001년부터 활동하고 있는 Pierre Jerksten의 테크노 프로젝트.
+Hertz(헤르츠)는 2001년부터 활동하고 있는 Pierre Jerksten에 의한 테크노 프로젝트.
 
 2009년부터 2012년까지는 Peter B와의 듀오에서 활동하고 있던 Hertz는 Defected, Toolroom Records, Underwater Records, Drumcode, Craft Music, Tresor, Virgin & Universal 등 수많은 라벨에서 출시하고 있다.
 

@@ -47,7 +47,7 @@ B2. Wonderfull Days (Radio Mix)
 ### Scooter – Call Me Mañana
 <a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp"></a>
 
-출시 : 1998 년 "No Time to Chill"수록 싱글
+출시 : 1998 년, "No Time to Chill"수록 싱글
 
 특징 : "James Brown Is Dead"(L.A. Style)의 강렬한 샘플 사용이 빛나는 해피 하드 코어 트랜스. 해외 밴드 Scooter에 의한 이색작.
 
@@ -125,7 +125,7 @@ B2. Forevermore (Original)
 
 아티스트：영국의 인기 DJ／프로듀서 Mark Breeze
 
-특징 : 업 리프팅 멜로디와 활기찬 비트, 심지어 "Kick Your Legs In The Air" "Don’t Make Me Wait (Special Version)"의 샘플링을 살린 많은 클럽에서 지지되어 온 한 곡.
+특징 : 업 리프팅 멜로디와 활기찬 비트, 심지어 'Kick Your Legs In The Air', 'Don’t Make Me Wait (Special Version)'의 샘플링을 살린 많은 클럽에서 지지를 받은 한 곡.
 
 #### Tracklist
 ```md

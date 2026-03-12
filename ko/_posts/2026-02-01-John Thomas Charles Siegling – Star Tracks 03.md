@@ -17,7 +17,7 @@ title: John Thomas Charles Siegling – Star Tracks 03
 
 John Thomas는 프랑스의 일렉트로닉 뮤직 프로듀서이며 Ginga Music의 공동 창립자. 미니멀 일렉트로닉 뮤직 프로듀서/DJ Jean-Guillaume Cabanne과 Jeff Lasson과의 프로젝트 The Collective로도 활동했다.
 
-Charles Siegling(샬 실링)은 Technasia로도 알려진 DJ/뮤지션.
+Charles Siegling(샤르 실링)은 Technasia로도 알려진 DJ/뮤지션.
 
 Star Tracks 03은 2001년 홍콩을 거점으로 하는 인디펜덴트레이블 technasia의 서브 라벨 Star Tracks에서 출시한 Techno/Tech House 트랙.
 

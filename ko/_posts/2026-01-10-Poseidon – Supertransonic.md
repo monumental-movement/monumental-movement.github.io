@@ -13,7 +13,7 @@ title: Poseidon – Supertransonic
 ---
 
 
-DJ Poseidon (Emilio Bongarzone)이 2000년에 UK의 레이블 Hope Recordings에서 출시한 Trance 트랙.
+DJ Poseidon(Emilio Bongarzone)이 2000년에 UK의 레이블 Hope Recordings에서 출시한 Trance 트랙.
 
 A는 브리스톨 출신의 DJ / 프로듀서이며, Nick Warren과의 듀오 Way Out West (웨이 아웃 웨스트)로 활동하는 Jody Wisternoff의 리믹스.
 

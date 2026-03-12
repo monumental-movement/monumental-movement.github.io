@@ -13,7 +13,7 @@ title: Alek Stark – We Love You
 ---
 
 
-"Alek Stark – We Love You"는 뮌헨을 거점으로 하는 전자 음악 라벨 Disko Bombs(Disko B)에서 2002년에 발매된 스페인 출신의 일렉트로 프로듀서/아티스트 Alek Stark(Serafín Gallego)에 의한 일렉트로/신디팝 트랙.
+'Alek Stark – We Love You'는 뮌헨을 거점으로 하는 전자 음악 라벨 Disko Bombs(Disko B)에서 2002년 발매된 스페인 출신의 일렉트로 프로듀서/아티스트 Alek Stark(Serafín Gallego)에 의한 일렉트로/신디팝 트랙.
 
 #### Tracklist
 ```md

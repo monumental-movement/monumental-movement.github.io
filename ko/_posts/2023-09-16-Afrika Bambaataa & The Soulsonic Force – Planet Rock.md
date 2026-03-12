@@ -20,7 +20,7 @@ title: Afrika Bambaataa & The Soulsonic Force – Planet Rock
 
 브레이크 댄스와 스트리트 문화의 융성과 함께 큰 인기를 얻고 힙합의 클래식으로 인식되고 있습니다. 또, 이 곡은 샘플링의 대상이 되어, 수많은 아티스트나 프로듀서에 의해 재해석되어, 다양한 장르의 곡에 영향을 주었습니다.
 
-Planet Rock은 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 칭찬되고 있으며, 혁신적인 사운드와 선구적인 접근법은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하고 있습니다.
+Planet Rock은 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 칭찬되고 있으며, 혁신적인 사운드와 선구적인 접근 방식은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하고 있습니다.
 
 #### Tracklist
 ```md

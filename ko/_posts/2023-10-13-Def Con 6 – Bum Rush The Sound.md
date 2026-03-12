@@ -13,9 +13,9 @@ title: Def Con 6 – Bum Rush The Sound
 ---
 
 
-Def Con 6은 Brandon Smith와 John Sexton의 유닛입니다.
+데프콘 6(Def Con 6)는 브랜든 스미스(Brandon Smith)와 존 섹스턴(John Sexton)으로 구성된 유닛이다.
 
-Bum Rush The Sound는 1998년 Tweak! Records에서 출시된 Def Con 6의 애시드 브레이크 비트 브레이크 트랙.
+"Bum Rush The Sound"는 Tweak에서 공개된 Def Con 6의 애시드 브레이크비트 브레이크 트랙입니다! 1998년의 기록.
 
 #### Tracklist
 ```md

@@ -14,7 +14,7 @@ title: 애시드 재즈 작품 픽업
 ---
 
 
-「재즈의 즉흥성과 클럽 그루브가 융합해, 세련된 도시적 사운드를 울리는 주목할 만한 애시드 재즈 작품군」
+「재즈의 즉흥성과 클럽 그루브가 융합해, 세련된 도시적 사운드를 울리는 주목할만한 어시드 재즈 작품군」
 
 <hr>
 
@@ -129,7 +129,7 @@ B2. Flight To Havana
 ### Various – Totally Wired Nine
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
-개요 : 1992 년 UK의 Acid Jazz 레이블에서 출시 된 어시드 재즈의 올스타 편집 앨범입니다. 댄스 플로어에서 인기를 얻은 다채로운 아티스트의 대표적인 트랙을 수록.
+개요: 1992년, UK의 Acid Jazz 라벨에서 발매된 어시드 재즈의 올스타 컴필레이션 앨범입니다. 댄스 플로어에서 인기를 얻은 다채로운 아티스트의 대표적인 트랙을 수록.
 m.m.r
 
 추천 포인트 : Corduroy, Mother Earth, Sons Of Judah 등, 어시드 재즈의 초기를 물들인 명곡이 늘어선 귀중한 한 장. 장르의 퍼짐과 그루브감을 단번에 맛볼 수 있습니다.

@@ -15,7 +15,7 @@ title: Sonic Insomniac – Impermanence EP
 
 Sonic Insomniac David Ball (D Ball)은 영국 맨체스터 출신의 일렉트로닉 뮤지션.
 
-커버 일러스트는, 디트로이트 출신의 미국인 DJ/프로듀서/일러스트레이터로, 현재는 베를린에 거점 활동하는 Alan Oldham(알란 올덤).
+커버 일러스트는, 디트로이트 출신의 미국인 DJ/프로듀서/일러스트레이터로, 현재는 베를린에 거점 활동하는 Alan Oldham(앨런 올덤).
 
 #### Tracklist
 ```md

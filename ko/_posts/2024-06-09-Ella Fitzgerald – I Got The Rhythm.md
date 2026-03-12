@@ -15,7 +15,7 @@ title: Ella Fitzgerald – I Got The Rhythm
 ---
 
 
-Ella Fitzgerald (엘라 피츠제럴드)는 "The First Lady of Song (노래의 첫 레이디)", "Lady Ella (레이디 엘라)"라고도 불리는 미국 재즈 가수. 빌리 홀리데이, 사라 본과 나란히 칭한 20 세기 여성 탑 재즈 보컬리스트 중 하나.
+Ella Fitzgerald (엘라 피츠제럴드)는 "The First Lady of Song (노래의 첫 레이디)", "Lady Ella (레이디 엘라)"라고도 불리는 미국 재즈 가수. 빌리 홀리데이, 사라 본과 나란히 칭해지는 20 세기 여성 탑 재즈 보컬리스트 중 하나.
 
 엘라 피츠제럴드는 60년 가까이 경력 중 14회 그래미상, 전미예술상, NAACP의 초대 대통령상, 대통령 자유훈장 등의 영예를 받았다.
 

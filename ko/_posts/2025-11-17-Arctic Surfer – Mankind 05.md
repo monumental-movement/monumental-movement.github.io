@@ -15,7 +15,7 @@ title: Arctic Surfer – Mankind 05
 
 Arctic Surfer Johan Bacto(Johan Svensson)는 스웨덴의 Techno 프로듀서입니다. Mankind, Zync, Countdown 2000 등의 라벨을 운영하고 있다.
 
-Mankind 05는 1999년 Johan Bacto의 레이블 Mankind에서 출시된 Techno.
+Mankind 05는 1999년 Johan Bacto의 레이블 Mankind에서 발표된 Techno.
 
 #### Tracklist
 ```md

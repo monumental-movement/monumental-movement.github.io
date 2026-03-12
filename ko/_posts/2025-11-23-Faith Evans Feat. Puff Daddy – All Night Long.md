@@ -15,7 +15,7 @@ title: Faith Evans Feat. Puff Daddy – All Night Long
 ---
 
 
-US의 R&B 싱어이며, Notorious B.I.G.(노트리아스 BIG)의 아내였던 Faith Evans가 Puff Daddy와 콜라보레이션해, 1999년에 레이블 Bad Boy Entertainment로부터 릴리스된 R&B/House.
+US의 R&B 싱어이며, Notorious B.I.G.(노트리아스 BIG)의 아내였던 Faith Evans가 Puff Daddy와 콜라보레이션해, 1999년에 라벨 Bad Boy Entertainment로부터 릴리스된 R&B/House.
 
 #### Tracklist
 ```md

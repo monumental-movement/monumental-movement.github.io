@@ -157,7 +157,7 @@ graph LR
 
 ## 7. 현대의 영향
 
-- Nu-Disco, Future Funk, Lo-Fi Brazilian 등으로 샘플링되는 것이 증가
+- Nu-Disco, Future Funk, Lo-Fi Brazilian 등에서 샘플링되는 것이 증가
 - 영화, CM, 드라마 등 미디어에 음원 사용 확대
 - 일본·유럽 클럽에서 재평가 DJ 세트에서 인기
 

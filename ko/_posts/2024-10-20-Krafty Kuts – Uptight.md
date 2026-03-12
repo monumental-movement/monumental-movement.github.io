@@ -15,7 +15,7 @@ title: Krafty Kuts – Uptight / Where's The Noise
 
 Krafty Kuts (크래프티 커츠) 것 Martin Reeves (마틴 리브스)는 브라이튼 출신의 브레이크 DJ & 프로듀서. 2006년에는 브레이크스계 최고상이라고도 불리는 Breakspoll Awards에서 베스트 DJ를 수상.
 
-'Uptight/Where's The Noise'는 2004년 Deepcut Recordings에서 출시된 브레이크 비트 트랙.
+'Uptight/Where's The Noise'는 2004년 Deepcut Recordings에서 발표된 브레이크 비트 트랙.
 
 #### Tracklist
 ```md

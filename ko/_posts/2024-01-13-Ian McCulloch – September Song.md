@@ -14,7 +14,7 @@ title: Ian McCulloch – September Song
 ---
 
 
-Ian McCulloch는 가수이며 기타리스트 (1959 년 5 월 5 일생)에서 정서적 이미지로 알려져 있으며 주로 Echo And The Bunnymen의 보컬리스트로 알려져 있습니다.
+Ian McCulloch는 가수이며 기타리스트 (1959 년 5 월 5 일 출생)에서 정서적 이미지로 알려져 있으며 주로 Echo And The Bunnymen의 보컬리스트로 알려져 있습니다.
 
 그의 경력에는 1970년대에 Pete Wylie와 Julian Cope와 함께 The Crucial Three에서 활동한 시기와 90년대에 Bunnymen의 파생 밴드인 Electrofixion에서의 활동도 포함되어 있습니다.
 

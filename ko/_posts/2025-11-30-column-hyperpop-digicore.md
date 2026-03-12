@@ -50,7 +50,7 @@ Hyperpop:
 
 Digicore:
 
-* SoundCloud/Discord 출시의 젊은층에 의한 DIY 팝
+* SoundCloud/Discord 출시의 청년층에 의한 DIY 팝
 * Lo-fi 기타 및 이모적 가창, 간단한 비트, 보컬 체인의 인공적 처리
 * glaive와 ericdoa로 대표되는 "internet-core"미학
 
@@ -151,7 +151,7 @@ flowchart TD
 ## 5-2. Internet-era Vocal Chain
 
 * Auto-Tune
-* 포먼트 인상(가벼운)
+* 포르만트 인상(가벼운)
 * Doubler / Slapback
 * OTT (가벼운)
 
@@ -179,7 +179,7 @@ flowchart LR
 ## 사용 DAW
 
 * **FL Studio** (가장 많습니다. 특히 Digicore)
-* **Ableton Live**(Hyperpop의 사운드 디자인에 강함)
+* **Ableton Live**(Hyperpop 사운드 디자인에 강함)
 * GarageBand / Logic도 일부에서 사용
 
 ## Hyperpop 측 제작 예

@@ -16,7 +16,7 @@ title: Rino Cerrone – Exact Moment EP
 
 Rino Cerrone은 1990년부터 나폴리를 거점으로 활동한 이탈리아 테크노/테크하우스 DJ 프로듀서. (2024년 몰)
 
-Exact Moment EP는 2002년 스위스 베른의 라벨 Phont Music에서 출시된 Techno Tech House 트랙.
+'Exact Moment EP'는 2002년 스위스 베른의 라벨 Phont Music에서 출시된 Techno Tech House 트랙.
 A2 & B1의 마지막은 locked groove(락드 그루브)가 되어 있다.
 
 #### Tracklist

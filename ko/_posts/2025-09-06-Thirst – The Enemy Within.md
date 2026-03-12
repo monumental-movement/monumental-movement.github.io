@@ -16,7 +16,7 @@ title: Thirst – The Enemy Within
 
 Thirst(서스트)는, 1980년대 후반부터 1990년 초에 걸쳐 활동한 Jake Reilly(J. Reilly), M. Thompson, S. Francis에 의한 UK의 하우스/힙 하우스계 유닛.
 
-'The Enemy Within'은 1991년 라벨 10 Records에서 출시된 House/Hip House. A&B1의 remix&공동 프로듀서는 댄스 플로어의 히트곡 'Let Me Hear You (Say Yeah)'에서 가장 잘 알려진 1990년대 프로그레시브 하우스 프로듀서&DMC의 리믹서인 PKA(Philip Kelsey).
+The Enemy Within은 1991년 라벨 10 Records에서 출시된 House/Hip House. A&B1의 remix&공동 프로듀서는 댄스 플로어의 히트곡 'Let Me Hear You (Say Yeah)'에서 가장 잘 알려진 1990년대 프로그레시브 하우스 프로듀서&DMC의 리믹서인 PKA(Philip Kelsey).
 
 #### Tracklist
 ```md

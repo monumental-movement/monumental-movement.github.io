@@ -17,7 +17,7 @@ title: Da Techno Bohemian – Bangin' Bass
 
 Da Techno Bohemian은 로테르담 출신의 DJ 일렉트로닉 음악 프로듀서 Koen Groeneveld와 (하드) 하우스 DJ 프로듀서 Addy van der Zwan의 스튜디오 프로젝트. 두 사람은 그 밖에도 The Ultimate Seduction과 Klubbheads 등 다수의 명의로 활동하고 있다.
 
-A면 2곡째는 Todd Terry(토드 테리), Junior Vasquez(주니어 바스케스), David Morales(데이비드 모랄레스), Roger Sanchez(로저 산체스) 등의 리믹스를 다루는 UK 하우스 뮤직 듀오 Rhythm Masters(리듬 마스터스)에 의한 remix.
+A면 2곡째는 Todd Terry(토드 테리), Junior Vasquez(주니어 바스케스), David Morales(데이비드 모랄레스), Roger Sanchez(로저 산체스) 등의 리믹스를 다루는 UK하우스 뮤직 듀오 Rhythm Masters(리듬 마스터스)에 의한 remix.
 
 #### Tracklist
 ```md

@@ -19,7 +19,7 @@ title: 【칼럼】 Chillwave / Synthwave 재평가 - 80s 사운드와 인터넷
 
 ## 80년대 사운드와 인터넷 문화 재연결
 
-글：mmr｜테마：Washed Out, FM-84, Com Truise 등을 단서로, Chillwave/Synthwave의 탄생으로부터 미학, 아트워크, 인터넷 문화와의 연결에 대해서
+문장：mmr｜테마：Washed Out, FM-84, Com Truise 등을 단서로, Chillwave/Synthwave의 탄생으로부터 미학, 아트워크, 인터넷 문화와의 연결에 대해서
 
 2000년대 후반부터 2010년대에 걸쳐 급속히 퍼진 **Chillwave**와 **Synthwave**는 모두 1980년대의 전자 음악·신디사이저·VHS 문화·레트로 게임 미학에 영감을 받은 장르이다. 그러나 양자에게는 명확한 분기가 있어 '애매한 기억의 소리'와 '80s 리바이벌의 영화적 사운드'라는 다른 축을 가진다.
 
@@ -55,7 +55,7 @@ Chillwave의 일반적인 성립시기는 **2009년 전후**로 된다.
 
 대표 아티스트:
 
-- **Washed Out** (Ernest Greene)
+- **Washed Out**(Ernest Greene)
 - 2009년 EP 'Life of Leisure'가 장르의 대표작으로 여겨진다.
 - **Neon Indian** (Alan Palomo)
 - 2009년 'Psychic Chasms'가 장면의 상징적 작품.
@@ -125,7 +125,7 @@ Synthwave는 그래픽 디자이너와 영상 크리에이터와 밀접하게.
 
 - 네온 사인
 - 핑크×블루의 '아웃런 배색'
-- 와이어 프레임의 수평선
+- 와이어 프레임 수평선
 - 스포츠카, 일몰
 - VHS 노이즈, CRT 바람 왜곡
 
@@ -144,7 +144,7 @@ Chillwave와 Synthwave에서는 사용되는 장비도 크게 다르다.
 
 ## Synthwave에서 자주 사용되는 것
 - **아날로그/아날로그 모델링 신디**
-- Roland Juno-106
+- 롤랜드 주노-106
 - Yamaha DX7
 - Sequential Prophet 시리즈
 - Korg Polysix

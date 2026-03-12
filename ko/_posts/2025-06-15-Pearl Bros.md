@@ -11,7 +11,7 @@ tags:
 - Rock
 - Pop
 - 80s
-title: 진주 형제 Pearl Bros. – 철 딱정벌레 여자
+title: 진주 형제 Pearl Bros. – 철 카부트 여자
 ---
 
 

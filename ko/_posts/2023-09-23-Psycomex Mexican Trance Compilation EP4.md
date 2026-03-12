@@ -17,7 +17,7 @@ Psycomex - Mexican Trance Compilation - EP4는 여러 아티스트가 참여한 
 
 EP4에는 멕시코 트랜스 아티스트들의 오리지널 트랙이 포함되어 있습니다. 각 트랙은 강력한 기준선, 감정적 인 멜로디, 역동적 인 비트 등 변압기 음악의 특징을 가지고 있습니다.
 
-Psycomex - Mexican Trance Compilation - EP4는 트랜스뮤직 팬들과 멕시코 음악 장면에 관심이 있는 사람들에게 매력적인 작품입니다.
+Psycomex - Mexican Trance Compilation - EP4는 트랜스뮤직 팬과 멕시코 음악 장면에 관심이 있는 사람들에게 매력적인 작품입니다.
 
 #### Tracklist
 ```md

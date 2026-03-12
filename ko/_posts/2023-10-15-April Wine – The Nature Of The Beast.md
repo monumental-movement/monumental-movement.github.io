@@ -13,7 +13,7 @@ title: April Wine – The Nature Of The Beast
 ---
 
 
-'The Nature Of The Beast'는 캐나다의 록 밴드 April Wine이 1981년에 발표한 앨범. 이 앨범은 밴드의 대표작 중 하나로 높은 평가를 받고 있으며, 특히 'Just Between You and Me'와 'Sign of the Gypsy Queen'은 상업적으로도 성공을 거두어 지금도 에이프릴 와인의 대표곡으로 유명하다.
+'The Nature Of The Beast'는 캐나다의 록 밴드 April Wine이 1981년에 발표한 앨범. 이 앨범은 밴드의 대표작 중 하나로 높게 평가되고 있으며, 특히 'Just Between You and Me'와 'Sign of the Gypsy Queen'은 상업적으로도 성공을 거두어 지금도 에이프릴 와인의 대표곡으로 유명하다.
 
 이 앨범의 성공으로 밴드는 국제적인 지명도를 높여 캐나다의 록 씬에서 중요한 위치를 차지하게 되었다.
 

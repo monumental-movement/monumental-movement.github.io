@@ -158,14 +158,14 @@ DMX는 노숙자 개를 보호하고 거리에서 함께 살았던 적이 있다
 | --------------------- | ----- | -------------------------------------------------------------------------------- | --------------- |
 | *Ruff Ryders’ Anthem* | 항쟁·단결 | “Stop, drop, shut ‘em down open up shop!” | 공격성과 거리 규율의 공존 |
 | *Slippin’* | 내성·재생 | “See, to live is to suffer, but to survive is to find meaning in the suffering.” | 니체적 고뇌철학의 음악화 |
-| *Lord Give Me a Sign* | 신앙·구제 | “I really need to talk to you Lord.” | 하나님에 대한 절망적인 부름
+| *Lord Give Me a Sign* | 신앙·구제 | “I really need to talk to you Lord.” | 하나님에 대한 절망적인 호소 |
 | *Who We Be* | 사회적 인식 | “The pain, the struggle, the friends, the trouble.” | 리듬 카탈로그 시법의 극치 |
 
 ---
 
 ## VIII. DMX와 시대: 2000년대 이후의 영향
 
-DMX의 등장은, Jay-Z나 Nas와는 다른 **'감정의 리얼리즘'**을 가져왔다.
+DMX의 등장은 Jay-Z나 Nas와는 다른 **'감정의 리얼리즘'**을 가져왔다.
 그 후, Kanye West나 Kendrick Lamar가 「신앙과 고뇌」를 말하는 구성을 도입한 것은, DMX의 연장선상에 있다.
 
 * Kendrick Lamar 「DAMN.」의 내성적 구조

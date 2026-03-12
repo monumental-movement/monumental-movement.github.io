@@ -14,7 +14,7 @@ title: REO Speedwagon – Hi Infidelity
 ---
 
 
-REO Speedwagon(REO 스피드 왜건/얼·이·오·스피드 왜건)은, 1967년에 일리노이주에서 결성된 US 락 밴드. 1980년에 발매한 앨범 'Hi Infidelity(금지된 밤)'는 그들의 대표작.
+REO Speedwagon(REO 스피드 왜건/아르 이오 스피드 왜건)은 1967년 일리노이주에서 결성된 US 록 밴드. 1980년에 발매한 앨범 'Hi Infidelity(금지된 밤)'는 그들의 대표작.
 
 #### Tracklist
 ```md

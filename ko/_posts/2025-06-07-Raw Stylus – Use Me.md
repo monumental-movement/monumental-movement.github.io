@@ -16,7 +16,7 @@ title: Raw Stylus – Use Me
 ---
 
 
-1990년대에 활동한 UK의 어시드 재즈 밴드 Raw Stylus(로우·스타일러스)가 Bill Withers(빌·위저즈)의 1972년의 soul·R&B 명곡 「Use Me」를 커버.
+1990년대에 활동한 UK의 어시드 재즈 밴드 Raw Stylus(로우·스타일러스)가 Bill Withers(빌·위저즈)의 1972년의 soul·R&B 명곡 “Use Me”를 커버.
 
 1993년에 영국의 라벨 Acid Jazz 로부터 릴리스 된 싱글.
 

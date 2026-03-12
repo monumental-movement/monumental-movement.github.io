@@ -17,7 +17,7 @@ Audiowhores는 UK의 프로듀서 Adam Unsworth와 Graham Lord의 유닛.
 
 Roland Clark는 미국의 House DJ & 프로듀서. Jesus Jackson, Digital Pimps, Dark Clark, Urban Soul 등의 명의에서도 활동하고 있었다.
 
-'I'm Inspired'는 영국 댄스 뮤직 라벨 Defectd에서 2007년에 발매된 House 트랙.
+'I'm Inspired'는 영국 댄스 뮤직 라벨 Defectd에서 2007년에 출시된 House 트랙.
 
 #### Tracklist
 ```md
