@@ -18,7 +18,7 @@ title: '[Kolumne] Roland TR-1000: Rhythmus neu definieren ─ Analoge Gene und d
 ## Wenn Roland die „Definition einer Rhythmusmaschine“ erneut umschreibt
 
 
-Text: mmr｜Thema: TR-1000, das neueste Produkt der TR-Serie von Roland. Befassen Sie sich eingehend mit dem analogen Schaltkreisdesign, dem KI-Verhalten und der kulturellen Bedeutung auf den drei Achsen Technologie, Ideologie und Kulturgeschichte.
+Text: mmr｜Thema: TR-1000, das neueste Produkt der TR-Serie von Roland. Befassen Sie sich eingehend mit dem analogen Schaltungsdesign, dem KI-Verhalten und der kulturellen Bedeutung auf den drei Achsen Technologie, Ideologie und Kulturgeschichte.
 
 
 Rolands neuer Herzschlag, der TR-1000, ist ein „Rhythm Creator“, der die Wärme des Analogen, die Präzision des Digitalen und die Freiheit des Samplings vereint. Dieser Artikel wird seinen technischen Kern, seinen ideologischen Hintergrund und seine Position in der Musikkultur entschlüsseln.
@@ -42,7 +42,7 @@ color: #fff;
 #### ── Der Vorfall des Erscheinens von TR-1000
 
 Der 2025 von Roland herausgebrachte **TR-1000** ist nicht nur eine Erweiterung der Serie.
-808, 909, 707 ... Diese Maschine, die am Ende der Geschichte auftauchte und den Groove der Zeit symbolisierte, ist eine „intellektuelle Rhythmusmaschine“, die das „menschliche Gefühl für Takt“ lernt und neu interpretiert.
+808, 909, 707... Diese Maschine, die am Ende der Geschichte auftauchte und den Groove der Zeit symbolisierte, ist eine „intellektuelle Rhythmusmaschine“, die „menschliche Beats“ lernt und neu interpretiert.
 
 In den 1980er Jahren wurden elektronische Rhythmen als „mechanischer Herzschlag“ bezeichnet. Was der TR-1000 jedoch bietet, ist das Gegenteil: **„Eine Maschine versteht den menschlichen Herzschlag“**.
 Digital und analog, KI und Emotionen. An dieser Grenze liegt die Philosophie, die Roland ein halbes Jahrhundert lang kultiviert hat.
@@ -52,7 +52,7 @@ Digital und analog, KI und Emotionen. An dieser Grenze liegt die Philosophie, di
 
 ---
 
-### Kapitel 2 Designphilosophie: analoge Rekonstruktion und intelligente Steuerung
+### Kapitel 2 Designphilosophie: Analoge Rekonstruktion und intelligente Steuerung
 #### ─ „Während wir das Blut von 808 und 909 abnahmen, übertreffen wir sie.“
 
 Der TR-1000 strukturiert die von Roland entwickelte ACB-Technologie (Analog Circuit Behavior) neu und modelliert das „Verhalten“ analoger Schaltkreise.
@@ -102,7 +102,7 @@ Die „Humanize“-Funktion analysiert den Leistungsverlauf und modelliert die G
 Es „lernt“ den Rhythmus der Fingerspitzen des Spielers und gibt ihn als Klang zurück.
 Mit anderen Worten, der TR-1000 ist auch eine „Maschine, die auf menschliche Leistungen hört“.
 
-Dieser Dialog hat sich von den Tagen, als der 808 einen „mechanischen Groove“ lieferte, zu einem „resonanten Rhythmus“ entwickelt.
+Dieser Dialog hat sich seit den Tagen entwickelt, als die 808 einen „mechanischen Groove“ zu einem „resonanten Rhythmus“ lieferte.
 
 ---
 
@@ -113,7 +113,7 @@ In den 1980er Jahren brachte der TR-808 den Hip-Hop hervor, der 909 den Techno u
 Die TR-Serie stand schon immer an einem Wendepunkt in der Musikgeschichte.
 
 Der TR-1000 schafft auch ein neues Symbol in der modernen Clubkultur, in der KI und Live-Performance nebeneinander existieren.
-Detroits DJ Bone beschreibt den TR-1000 als „atmende Rhythmusmaschine“, und der Tokioter Produzent Seiho sagt: „Rhythmus hat begonnen, Emotionen zu entwickeln.“
+Detroits DJ Bone beschreibt den TR-1000 als „atmende Rhythmusmaschine“, und der Tokioter Produzent Seiho sagt: „Rhythmus hat begonnen, Emotionen zu erzeugen.“
 Im kulturellen Kontext bedeutet der TR-1000 keine „Erweiterung der Nostalgie“, sondern eine „Erweiterung des rhythmischen Bewusstseins“.
 
 ---

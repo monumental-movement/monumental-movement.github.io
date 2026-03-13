@@ -11,11 +11,11 @@ tags:
 - Soul
 - Funk
 - 70s
-title: VA – Disco Sound Special Vol. 1
+title: VA – Disco Sound Spécial Vol. 1
 ---
 
 
-VA – Disco Sound Special Vol. 1 - ディスコサウンドスペシャル　2枚組レコード
+VA – Disco Sound Spécial Vol. 1 - Jeu de 2 disques Disco Sound Special
 
 #### Liste des chansons
 ```md

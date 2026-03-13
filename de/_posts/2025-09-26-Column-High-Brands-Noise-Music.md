@@ -18,7 +18,7 @@ title: '[Kolumne] Hohe Marken und Lärmmusik – die Schnittstelle zwischen Luxu
 
 Text: mmr｜Thema: Die Affinität zwischen aktuellen Modenschauen und Noise-Musik
 
-Bei Noise-Musik dreht sich alles um Underground-Live-Houses, Schweiß- und Feedback-Sounds und extreme Performances. High-End-Marken hingegen sind die Laufstege von Paris, Mailand und Tokio, glänzende Textilien und höchste Raffinesse.
+Bei Noise-Musik dreht sich alles um Underground-Live-Häuser, Schweiß- und Rückkopplungsgeräusche und extreme Darbietungen. High-End-Marken hingegen sind die Laufstege von Paris, Mailand und Tokio, glänzende Textilien und höchste Raffinesse.
 Es ist leicht zu glauben, dass sich die beiden nicht überschneiden können.
 Schaut man sich jedoch die Modenschauen der letzten Jahre an, stellt man fest, dass die beiden eine überraschend enge Beziehung aufgebaut haben.
 
@@ -98,7 +98,7 @@ Brüllen und Lärm verunsichern und erregen das Publikum und beweisen, dass die 
 
 ---
 
-### Der Umgang jeder Marke mit Lärm
+### Die Herangehensweise jeder Marke an Lärm
 
 Ausführliche Beispiele großer Marken und Lärm
 
@@ -255,7 +255,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 
 | Anzeigen / Materialien | Ausgewählte Künstler | Ergänzende Punkte | Referenzen |
 | ------------------------------------ | -------------------------------------------------: | ------------------------------------------------------------------------------------ | ----------------- |
-| Comme des Garçons SS15 (Sammlungsepisoden wie „Red“) | **Drohnenartige Geräusche, einschließlich Sunn O))), Erde (Drohne/Drohnenmetall)** | Dazed berichtete in einem Sonderbeitrag, dass „Drohnenartige Bands (Sunn O))), Erde) im SS15-Soundtrack verwendet wurden.“ Ein typisches Beispiel dafür, dass die dunkle Ästhetik und der Sound der Show eng miteinander verbunden sind. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 (Sammlungsepisode wie „Rot“) | **Drohnenartige Geräusche, einschließlich Sunn O))), Erde (Drohne/Drohnenmetall)** | Dazed berichtete in einem Sonderbeitrag, dass „Drohnenartige Bands (Sunn O))), Erde) im SS15-Soundtrack verwendet wurden.“ Ein typisches Beispiel dafür, dass die dunkle Ästhetik und der Sound der Show eng miteinander verbunden sind. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
 | Comme des Garçons (Ton für Modenschauen produziert) | **Florian Hecker** (produziert Musik für Mode/12"-Veröffentlichungen verfügbar) | Es gibt Berichte, dass Hecker mehrere Songs für Comme des Garçons produziert hat und eine limitierte Auflage von Editions Mego veröffentlicht wurde. Ein „zeitgenössisches Sound"-Stück exklusiv für die Show. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | SS14/Archiv-Playlist usw. | Playlist anzeigen (Mischung aus experimentellen Sounds, Umgebungsgeräuschen und Lärm) | Beispiel einer Soundcollage für eine Show, hochgeladen auf Dazeds SoundCloud/Playlist usw. Praktisch zum „Überprüfen“ der Soundquellen einer Show. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
@@ -316,7 +316,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 – [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); Zeigt die Playlist an – [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Sounddesign: **BFRND** (Exklusive Partitur anzeigen)/Beispiel für die Verwendung von Industriesound |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能  |
 | **Alexander McQueen**    | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)  | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）   | 
-| **Louis Vuitton** | Verschiedene Show- und Afterparty-Platten (Beispielarchive) – Daft Punk / Virgil Ablohs DJ-bezogene Angelegenheiten (mehrere) | In der Vergangenheit lieferte **Daft Punk** die Songbearbeitung für LV und verwendete auch **Dev Hynes (Blood Orange)** für die Partitur (Virgil Abloh-Zeit) |
+| **Louis Vuitton** | Diverse Show- und Afterparty-Aufzeichnungen (Beispielarchive) – Daft Punk / Virgil Ablohs DJ-Beziehungen usw. (mehrere) | In der Vergangenheit lieferte **Daft Punk** die Songbearbeitung für LV und verwendete auch **Dev Hynes (Blood Orange)** für die Partitur (Virgil Abloh-Zeit) |
 | **Dior** | Dior (verschiedene Kampagnen/Showvideos) | Es gibt viele Fälle, in denen Sounddesigner wie Frédéric Sanchez beteiligt sind, und es besteht ein Zusammenhang mit Ambient-/Drohnenproduktionen |
 
 ---

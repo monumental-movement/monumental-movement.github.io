@@ -9,7 +9,7 @@ permalink: /de/audio-active-return-of-the-red-i/
 tags:
 - Reggae
 - Dub
-title: Audio aktiv – Return Of The Red I
+title: Audio Aktiv – Return Of The Red I
 ---
 
 

@@ -18,7 +18,7 @@ title: Kele Le Roc – Lass es mich wissen
 
 Kelly Biggs, auch bekannt als Kele Le Roc, ist eine britische R&B/UK Garage/Britpop-Sängerin.
 
-„Let Me Know“ erschien 1995 und wurde ein Underground- und Club-Hit, und der Song katapultierte Kele Le Roc zu Ruhm.
+„Let Me Know“ erschien 1995 und wurde ein Underground- und Clubhit, und der Song katapultierte Kele Le Roc zu Ruhm.
 
 Der zweite Song auf der B-Seite, „No.1“, ist ein Duett mit dem britischen Sänger Lemar.
 

@@ -13,11 +13,11 @@ title: Janet Jackson – Cela n’a pas vraiment d’importance
 ---
 
 
-「Doesn't Really Matter」は、映画『ナッティ・プロフェッサー2』のサウンドトラックとして制作された曲です。この曲は、アップテンポでポップなサウンドとキャッチーなメロディが特徴で、ジャネット・ジャクソンのダイナミックなヴォーカルが際立っています。
+"Doesn't Really Matter" est une chanson créée comme bande originale du film "The Nutty Professor 2". La chanson présente un son pop rapide et une mélodie entraînante, et la voix dynamique de Janet Jackson se démarque.
 
-ジャネット・ジャクソンの力強い歌声と、リズミカルでエネルギッシュなサウンドが相まって、リスナーに自信と前向きな気持ちを与える曲となっています。
+La voix puissante de Janet Jackson, combinée au son rythmé et énergique, crée une chanson qui donne confiance et positivité aux auditeurs.
 
-「Doesn't Really Matter」はリリース後すぐに人気を博し、ビルボードHot 100チャートで1位を獲得。グラミー賞にもノミネートされジャネット・ジャクソンのキャリアにおいて重要な楽曲の一つとなりました。
+"Does't Really Matter" a rapidement gagné en popularité dès sa sortie, atteignant le numéro un du classement Billboard Hot 100. Elle a été nominée pour un Grammy Award et est devenue l'une des chansons les plus importantes de la carrière de Janet Jackson.
 
 #### Liste des chansons
 ```md

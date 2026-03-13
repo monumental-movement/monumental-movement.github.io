@@ -84,7 +84,7 @@ Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic
 * **Aufruf und Antwort zum Evangelium der schwarzen Kirche**
 * **Texte mit starker politischer Kritik**
 
-Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist berühmt für Eddie Hazells über 10-minütiges Gitarrensolo.
+Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist wegen Eddie Hazells über 10-minütigem Gitarrensolo in Erinnerung geblieben.
 Es wurde als „musikalische Verkörperung schwarzer Traurigkeit und Wut“ beschrieben.
 
 ---
@@ -120,7 +120,7 @@ Was P-Funk einzigartig macht, ist nicht nur die Stärke seines Grooves, sondern 
 ### ■ 1. „Rubbery Bass“ von Bootsy Collins
 
 * Oktavsprung
-* Entspanntes Ura Nori
+* Entspanntes Nori
 * Starker Einsatz von Synkopen
 *Mit Verzerrung und Auto-Wah
 
@@ -130,7 +130,7 @@ Das Trommeln von Jerome „Bigfoot“ Braley und anderen weist die folgenden Mer
 
 * Minimale Bassdrum
 * Snare ist tief und zurück
-*Hi-Hat hat ein bisschen Shuffle
+*Hi-Hat hat ein wenig Shuffle
 
 Dadurch fühlt es sich an, als würde sich der Beat vorwärts bewegen, während er schwebt.
 
@@ -140,12 +140,12 @@ Dadurch fühlt es sich an, als würde sich der Beat vorwärts bewegen, während 
 * Ordnen Sie mehrere Sänger mit unterschiedlichen Stimmqualitäten an
 * Antwort im Gospel-Stil
 
-### ■ 4. Horns funkiger „Anweisungsklang“
+### ■ 4. Horns funkiger „Anweisungssound“
 
 * Scharfer Akzent im James-Brown-Stil
 * Aber es hat mehr Spiel als JB und mehr Harmonie als Unisono.
 
-### ■ 5. Zukünftige Klänge von Synthesizern
+### ■ 5. Zukünftiger Synthesizer-Sound
 
 Barney Worrells Minimoog brachte zum ersten Mal „kosmische elektronische Klänge“ in die schwarze Musik.
 **Der Ursprung von Hip-Hop, G-Funk und Elektro**.
@@ -200,7 +200,7 @@ P-Funk hat drei große Auswirkungen auf die schwarze Kultur hinterlassen.
 
 ### ■ (1) Ausweitung des schwarzen Science-Fiction-Ausdrucks (Afrofuturismus)
 
-Zusammen mit Sun Ra schuf P-Funk eine kulturelle Grundlage für die schwarze Zukunft.
+Zusammen mit Sun Ra schuf P-Funk eine kulturelle Grundlage für die Zukunft der Schwarzen.
 
 ### ■ (2) Neubewertung durch Hip-Hop
 
@@ -269,7 +269,7 @@ timeline
 ## Fazit: P-Funk ist ein „riesiges Archiv schwarzer Futures“
 
 George Clinton ist mehr als nur ein Funk-Leader.
-Er war ein „Kulturarchitekt“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
+Er war ein „Kulturdesigner“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
 
 Die Weltanschauung von P-Funk ist bis heute lebendig und bildet die Grundlage für aktuellen Hip-Hop, R&B, Elektrokunst und Mode.
 Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft spricht, wird ihr Raumschiff „Mothership“ niemals landen.

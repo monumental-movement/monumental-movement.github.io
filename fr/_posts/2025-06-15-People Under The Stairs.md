@@ -14,7 +14,7 @@ title: Les gens sous les escaliers
 ---
 
 
-Réédité par DJ Bossy Boots (Elinah) basé à New York. Version promotionnelle non officielle.
+Réédité par le DJ Bossy Boots (Elinah) basé à New York. Version promotionnelle non officielle.
 
 La face A est une réédition de "Tuxedo Rap" de People Under The Stairs, un duo hip-hop de Los Angeles actif de 1997 à 2019, composé de Christopher Portugal (Thes One) et Michael Turner (Double K).
 

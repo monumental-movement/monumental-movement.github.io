@@ -232,7 +232,7 @@ Es besteht aus aufwändigen Metaphern und abstrakten Ausdrücken.
 * Inhalte, die den Underground-Hip-Hop der späten 90er Jahre symbolisieren
 * Viele Prototypelemente späterer Werke von Def Jux (Cannibal Ox usw.) sind zu sehen.
 
-Es wird gesagt, dass „Funcrusher Plus“ um dieses Lied herum eine „Underground-Ideologie“ etabliert hat.
+Es heißt, dass „Funcrusher Plus“ um dieses Lied herum eine „Underground-Ideologie“ etabliert habe.
 
 ---
 
@@ -244,7 +244,7 @@ Company Flow hat der Wahrung der Künstlerautonomie Priorität eingeräumt.
 Die Meinungsverschiedenheiten mit dem Label nahmen nach und nach zu,
 1999 verließen sie Rawkus Records.
 
-Abstand zu „Großsystemen“ halten,
+Abstand zu „Großsystemen“ wahren,
 Die erneute Hinwendung zum Indie war ein Ereignis, das die Ästhetik von Company Flow prägte.
 
 ---
@@ -396,7 +396,7 @@ Er präsentierte eine Perspektive, die auch nach mehr als 20 Jahren noch aktuell
 Das Erbe von Company Flow ist
 Es geht über den Wert bloßer Musikwerke hinaus.
 
-* Indie-Möglichkeiten
+* Möglichkeit von Indie
 * Autonomie des Künstlers
 * Bedeutung der Politik
 * Untergrund als Ästhetik

@@ -104,7 +104,7 @@ James Blake est unique en ce qu'il sort le post-dubstep du contexte de la cultur
 
 ### Caractéristiques acoustiques
 - Minimalisme extrême centré autour du piano et du chant
-- Les basses sont minimales et disposées en douceur autour de 50-70 Hz.
+- Les basses sont minimes et disposées en douceur autour de 50 à 70 Hz.
 - La progression d'accords a une sensation harmonique classique.
 - Supprime la manipulation des formants et brouille la frontière entre les sons naturels et les sons électroniques
 - En fonction de la profondeur de la compression, la « respiration » fonctionne comme le rythme de la chanson

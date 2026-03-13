@@ -46,7 +46,7 @@ color: #fff;
 
 ## Le nom « jungle » et la formation de la scène initiale
 
-Le mot « jungle » proviendrait de l’argot utilisé dans le reggae et le dancehall, et était également appelé ragga jungle à ses débuts. La combinaison de rythmes rapides, de basses lourdes, de cris et de toasts du MC lui a donné une atmosphère nettement différente de la musique rave existante.
+Le mot « jungle » proviendrait de l’argot utilisé dans le reggae et le dancehall, et était également appelé ragga jungle à ses débuts. Combinant des rythmes rapides, des basses lourdes, des cris et des toasts du MC, il y avait une atmosphère nettement différente de la musique rave existante.
 
 De 1992 à 1993, la radio londonienne Pirates a joué un rôle clé dans la promotion de ce nouveau son. La musique qui n’était pas diffusée sur les médias officiels pénétrait dans les communautés locales grâce aux ondes radio.
 
@@ -86,7 +86,7 @@ Malgré cela, la culture de l’échantillon centrée autour de l’Amen Blake a
 
 ## Déclin temporaire et intégration
 
-Au milieu des années 2000, la drum'n'bass a été intégrée à la musique pop et à la musique publicitaire, et certains la considéraient comme surconsommée. Dans le même temps, d’autres genres ont émergé sur la scène des clubs et le niveau d’attention a relativement diminué.
+Au milieu des années 2000, la drum'n'bass a été intégrée à la musique pop et à la musique publicitaire, et certains la considéraient comme surconsommée. Dans le même temps, d’autres genres ont émergé sur la scène des clubs et le niveau d’attention qui leur est accordé a relativement diminué.
 
 Cependant, le genre lui-même n’a pas disparu durant cette période, et la scène underground a continué à connaître des sorties et des événements. En fait, d’une certaine manière, le manque d’attention extérieure a conduit à un approfondissement de l’introversion.
 
@@ -106,7 +106,7 @@ De plus, avec la diffusion d’Internet et des plateformes de distribution, il e
 
 ## Influence sur la musique contemporaine
 
-Il existe de nombreuses structures rythmiques dans la musique électronique actuelle, le hip-hop et la musique expérimentale qui ont clairement une influence jungle/drum'n'bass. Le rythme irrégulier et propulsif en particulier a été cité dans tous les genres.
+Il existe de nombreuses structures rythmiques dans la musique électronique actuelle, le hip-hop et la musique expérimentale qui ont des influences claires de la jungle/drum'n'bass. Le rythme irrégulier et propulsif en particulier a été cité dans tous les genres.
 
 Cette influence est souvent plus structurelle que timbrale et s'étend aux réinterprétations des breakbeats.
 

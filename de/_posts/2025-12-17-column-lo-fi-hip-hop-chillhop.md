@@ -56,7 +56,7 @@ Damals konzentrierte sich die Produktionsumgebung auf Hardware wie MPC, SP-1200 
 
 Von Ende der 1990er bis in die 2000er Jahre erfreuten sich DAW-Software und PCs immer größerer Beliebtheit. Dies hat es auch Personen ohne professionelles Studio ermöglicht, Beats zu Hause zu produzieren.
 
-In dieser Home-Recording-Umgebung ist es üblich geworden, dass die Produktion nur mit einem einfachen Audio-Interface, einem kostengünstigen MIDI-Controller und Kopfhörern durchgeführt wird. Es wird angenommen, dass der private Charakter des Produktionsraums eine introspektivere und zurückhaltendere Tendenz zum Klang gefördert hat.
+In dieser Home-Recording-Umgebung ist es üblich geworden, dass die Produktion nur mit einem einfachen Audio-Interface, einem kostengünstigen MIDI-Controller und Kopfhörern durchgeführt wird. Es wird angenommen, dass der private Charakter des Produktionsraums eine introspektivere und unauffälligere Tendenz zum Klang gefördert hat.
 
 Die Produktionsbedingungen des Homerecordings prägten das Gefühl des Genres.
 
@@ -85,7 +85,7 @@ Durch die Verknüpfung mit konzentrierten Aktivitäten wie Lernen, Lesen und Arb
 
 ## 6. Veränderungen in der Internet- und Vertriebsstruktur
 
-Seit den späten 2000er Jahren, mit dem Aufkommen von Video-Sharing-Sites und Musikvertriebsdiensten, ist Lo-Fi Hip Hop schnell sichtbarer geworden. Hochgradig anonyme Account-Verwaltung, 24-Stunden-Streaming und eine auf Loop-Playback basierende Konfiguration bildeten eine in diesem Genre einzigartige Vertriebsform.
+Seit Ende der 2000er Jahre ist Lo-Fi Hip Hop mit dem Aufkommen von Video-Sharing-Sites und Musikvertriebsdiensten schnell sichtbarer geworden. Hochgradig anonyme Accountverwaltung, 24-Stunden-Streaming und eine auf Loop-Playback basierende Konfiguration bildeten eine in diesem Genre einzigartige Vertriebsform.
 
 Dies ist ein Beispiel dafür, wie das Vertriebsdesign das Musikformat direkt beeinflusst hat.
 
@@ -117,7 +117,7 @@ Während diese Formalisierung die Eintrittsbarriere senkt, schränkt sie auch di
 
 ## 10. Kommerzialisierung und kritische Perspektive
 
-Lo‑Fi Hip Hop/Chillhop war stark an ein Umsatzmodell gebunden, das auf gestreamten Aufrufen basierte. Für die Langzeitwiedergabe geeignete Strukturen sind sehr gut mit Algorithmen kompatibel und es gibt viele Fälle von kommerziellem Erfolg.
+Lo‑Fi Hip Hop/Chillhop ist stark an ein Umsatzmodell gebunden, das auf gestreamten Aufrufen basiert. Für die Langzeitwiedergabe geeignete Strukturen sind sehr gut mit Algorithmen kompatibel und es gibt viele Fälle von kommerziellem Erfolg.
 
 Andererseits wird auch kritisiert, dass der Konsum von Musik als Hintergrund die Bewertung einzelner Werke erschwert.
 
@@ -155,7 +155,7 @@ Diese Kultur ist nicht auf eine bestimmte Region beschränkt, sondern wird gleic
 
 ### 2020er Jahre
 
-* Der Konsum von Umweltmusik ist alltäglich geworden
+* Der Konsum von Umweltmusik wird alltäglich
 
 ---
 
@@ -197,7 +197,7 @@ Diese basieren auf der Annahme, dass der Verbrauch in Stream-Einheiten und nicht
 
 ## 17. Umgang mit Stille und Leerraum
 
-Lo-Fi Hip Hop zeichnet sich durch Stille und eine geringe Anzahl an Klängen aus. Hierbei handelt es sich nicht nur um eine Vereinfachung, sondern auch darum, die Aufmerksamkeit des Zuhörers nicht übermäßig zu stehlen.
+Lo-Fi Hip Hop zeichnet sich durch Stille und eine geringe Anzahl an Klängen aus. Hierbei handelt es sich nicht nur um eine Vereinfachung, sondern auch um eine Gestaltung, die die Aufmerksamkeit des Zuhörers nicht übermäßig stehlen soll.
 
 Phasen, in denen kein Ton vorhanden ist oder extrem unterdrückte Bänder, fungieren als Leerstellen, die die Konzentration nicht stören.
 
@@ -244,7 +244,7 @@ Diese Nachahmungskultur führte zu einer Homogenisierung der Genres und gleichze
 
 ### Anfang der 2000er Jahre
 
-* Verbreitung der DAW-Umgebung und Normalisierung der individuellen Produktion
+* Die Verbreitung der DAW-Umgebung und die Normalisierung der individuellen Produktion
 
 ### Ende der 2000er Jahre
 

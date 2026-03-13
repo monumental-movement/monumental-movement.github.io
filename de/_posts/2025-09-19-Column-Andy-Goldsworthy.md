@@ -100,7 +100,7 @@ color: #fff;
 #### Morgen
 
 - Brian Eno ― *Ambient 1: Musik für Flughäfen*
-- Chris Watson – *Morning at the River*
+- Chris Watson ― *Morning at the River*
 - Steve Reich ― *Musik für 18 Musiker*
 
 #### Mittag
@@ -123,7 +123,7 @@ color: #fff;
 
 ### Saisonaler Fluss
 
-– Frühling: Ryuichi Sakamoto – *Async*
+- Frühling: Ryuichi Sakamoto - *Async*
 - Sommer: Chris Watson ― *Wetterbericht*
 - Herbst: Johann Johannsson - *Orphée*
 - Winter: Alva Noto & Ryuichi Sakamoto - *Vrion*

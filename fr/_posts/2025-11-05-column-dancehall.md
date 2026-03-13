@@ -70,7 +70,7 @@ Cet espace, où circulaient musique, alcool et nourriture, deviendra plus tard l
 
 ## Chapitre 2 Roots Rock et Dub Era (années 1970)
 
-### ▪ Les ingénieurs du son deviennent des « compositeurs »
+### ▪ Les ingénieurs du son deviennent « compositeurs »
 
 King Tubby, Lee Perry, Errol Thompson et d'autres ont utilisé la table de mixage comme un instrument de musique et ont inventé une nouvelle expression sonore appelée « dub ».
 **Effacer les voix et reconstruire le rythme avec des échos**—Cette idée est devenue le point de départ de la culture du remix ultérieure.
@@ -131,7 +131,7 @@ Depuis lors, des sons locaux sont nés dans tout le Japon et un espace culturel 
 ### ▪ Impact sur la pop mondiale
 
 Sean Paul, Vybz Kartel, Popcaan et d'autres ont pris d'assaut le courant dominant.
-Dans les années 2010, « One Dance »** de **Drake et « Lean On »** de **Major Lazer ont fait de la pop dancehall.
+Dans les années 2010, « One Dance »** de **Drake et « Lean On »** de **Major Lazer ont fait la pop dancehall.
 Le motif rythmique « Dem Bow » a été étendu au reggaeton, aux Afrobeats et à la K-Pop.
 
 ### ▪ Bass en tant que diaspora
@@ -170,7 +170,7 @@ Ces dernières années, il a croisé le dubstep/techno.
 | années 1960 | Ska → Solide comme le roc → Reggae | Les Skatalites |
 | années 1970 | Naissance du Dub, pénétration de l'idéologie Rasta | Roi Tubby, Lee Perry |
 | années 1980 | Révolution numérique, « Sleng Teng » | Wayne Smith |
-| années 1990 | L'âge d'or du Dancehall, Mighty Crown Rise | Rangs Shabba, Beenie Man |
+| années 1990 | Âge d'or du dancehall, Mighty Crown émerge | Rangs Shabba, Beenie Man |
 | Années 2000 | Pop mondiale | Sean Paul, Elephant Man |
 | Années 2010 | L'ère Global Dancehall / Reggaeton | Popcaan, Drake |
 | Années 2020 | Montée du son DIY local | Système Mura Masa et autres |
@@ -256,7 +256,7 @@ graph TD
 </div>
 
 Ce diagramme montre le réseau de cultures de sound system indépendantes formé par région.
-Les caractéristiques suivantes sont claires : « Yokohama = orientation vers la compétitivité internationale », « Osaka = connexion directe avec les rues » et « Okinawa = point de connexion entre les Caraïbes et l'Asie ».
+Les caractéristiques suivantes sont claires : « Yokohama = orienté vers la compétitivité internationale », « Osaka = connexion directe avec les rues » et « Okinawa = le point de connexion entre les Caraïbes et l'Asie ».
 
 ---
 

@@ -79,7 +79,7 @@ King Tubby, Lee Perry, Errol Thompson und andere nutzten den Mischtisch wie ein 
 
 ### ▪ Lautsprecher-Bass-Philosophie
 
-Der „Bass“ des Soundsystems hatte einen religiösen Oberton.
+Der „Bass“ des Soundsystems hatte einen religiösen Klang.
 Verbunden mit dem Rastafari-Geist drücken sie ihre Sicht auf das Universum als „tiefer Ton = Erde“ und „hoher Ton = Himmel“ aus.
 Diese Idee wurde später von **UK Dub** (Jah Shaka, Aba Shanti-I) und **Soundclash Culture** übernommen.
 
@@ -137,7 +137,7 @@ Das Rhythmusmuster „Dem Bow“ wurde auf Reggaeton, Afrobeats und K-Pop erweit
 ### ▪ Bass als Diaspora
 
 Dancehall ist auch ein Symbol der Einwandererkultur.
-London, Toronto, Tokio – Schwarze Gemeinschaften in Städten auf der ganzen Welt bringen ihre Wurzeln mit leisen Tönen zum Ausdruck.
+London, Toronto, Tokio – schwarze Gemeinden in Städten auf der ganzen Welt haben ihre Wurzeln mit leisen Tönen zum Ausdruck gebracht.
 
 ---
 
@@ -170,10 +170,10 @@ Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound m
 | 1960er Jahre | Ska → Rocksteady → Reggae | Die Skataliten |
 | 1970er Jahre | Geburt des Dub, Durchdringung der Rasta-Ideologie | King Tubby, Lee Perry |
 | 1980er Jahre | Digitale Revolution, „Sleng Teng“ | Wayne Smith |
-| 1990er Jahre | Dancehalls goldenes Zeitalter, mächtiger Kronenaufstieg | Shabba Ranks, Beenie Man |
+| 1990er Jahre | Dancehalls goldenes Zeitalter, Mighty Crown entsteht | Shabba Ranks, Beenie Man |
 | 2000er | Globaler Pop | Sean Paul, Elefantenmensch |
 | 2010er | Globale Dancehall-/Reggaeton-Ära | Popcaan, Drake |
-| 2020er Jahre | Aufstieg des lokalen DIY-Sounds | Mura Masa System und andere |
+| 2020er | Aufstieg des lokalen DIY-Sounds | Mura Masa System und andere |
 
 ---
 
@@ -256,7 +256,7 @@ graph TD
 </div>
 
 Dieses Diagramm zeigt das Netzwerk unabhängiger Soundsystemkulturen, die nach Regionen gebildet werden.
-Folgende Merkmale sind klar erkennbar: „Yokohama = international wettbewerbsfähig ausgerichtet“, „Osaka = direkte Verbindung zu den Straßen“ und „Okinawa = Verbindungspunkt zwischen der Karibik und Asien.“
+Folgende Merkmale sind klar erkennbar: „Yokohama = international wettbewerbsfähig ausgerichtet“, „Osaka = direkte Verbindung zu den Straßen“ und „Okinawa = der Verbindungspunkt zwischen der Karibik und Asien“.
 
 ---
 

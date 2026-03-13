@@ -14,7 +14,7 @@ title: Phil Stumpf – Stumpfam Apparat
 ---
 
 
-Ein Minimal-Track von Phil Stumpf, der auch Mitglied der deutschen Post-Rock-Band „OH“ ist und auch als Gruppe „DUPLEX 100“ mit Sam Rouanet aktiv ist.
+Ein Minimal-Track von Phil Stumpf, der auch Mitglied der deutschen Post-Rock-Band „OH“ ist und außerdem mit Sam Rouanet in der Gruppe „DUPLEX 100“ aktiv ist.
 
 Veröffentlicht 2005 auf dem deutschen House-Label Tom Bone Vibrating Music.
 
@@ -24,7 +24,7 @@ Phil Stumpf (*1973 in Deutschland) ist seit 1993 als Musiker aktiv und hat in ve
 
 In den späten 1980ern und frühen 90ern war ich im Indie-Rock-Bereich tätig und war fasziniert und beeinflusst von Bands wie Mouse on Mars und Tortoise sowie von elektronischer Musik und ihrer minimalistischen Struktur.
 
-Nachdem er vor allem über seine Band oh. den Weg auf die Tanzfläche gefunden hatte, entdeckte er Minimal Grooves und begann 1999 unter eigenem Namen Clubtracks zu produzieren.
+Nachdem er vor allem über seine Band oh. den Weg auf die Tanzfläche gefunden hatte, entdeckte er den Minimal Groove und begann 1999 unter seinem eigenen Namen Clubtracks zu produzieren.
 
 Er wird auch als Duplex 100 mit seinem französischen Partner Samuel Rouanat arbeiten.
 

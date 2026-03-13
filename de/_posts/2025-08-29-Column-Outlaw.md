@@ -214,7 +214,7 @@ Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, 
 
 **Radikalisierung der Erzählung**: Der Realismus/die Übertreibung der Texte wird von den Medien als Kriminalwarnung missverstanden.
 
-**Medienapparat**: Berichterstattung schafft einen „populären Teufel“ (Cohens Moral Panic).
+**Medienapparat**: Berichterstattung schafft einen „Volksteufel“ (Cohens moralische Panik).
 
 **Reflexion mit dem System**: Der Kreislauf von Razzia → Untergrund → Stärkung der Solidarität → kommerzielle Erholung → erneute Abweichung.
 

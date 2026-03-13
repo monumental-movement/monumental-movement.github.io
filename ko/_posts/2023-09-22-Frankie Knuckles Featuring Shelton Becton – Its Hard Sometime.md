@@ -13,7 +13,7 @@ title: Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime
 ---
 
 
-프랭키 너클은 디스코와 하우스 뮤직의 선구자이며, 쉘튼 벡턴은 싱어 송 작가 / 보컬리스트입니다.
+프랭키 너클은 디스코와 하우스 뮤직의 선구자이며 쉘튼 벡턴은 가수 작곡가 / 보컬리스트입니다.
 
 "It's Hard Sometime"은 그들의 공동 제작에 의한 한 곡으로, 소울풀한 멜로디, 섬세한 리듬, 마음에 울리는 가사와 우아한 하우스 사운드가 특징입니다.
 

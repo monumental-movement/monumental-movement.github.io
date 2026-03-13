@@ -10,13 +10,13 @@ tags:
 - Deep House
 - Downtempo
 - 90s
-title: Ursula Rucker – Circé
+title: Ursula Rucker – Circe
 ---
 
 
-Ursula Rucker est une artiste de création parlée de Philadelphie. Elle a collaboré avec divers artistes tels que Wax Tailor, King Britt, 4hero, Incognito, Jamaaladeen Tacuma, Josh Wink et Alix Perez, et sa collaboration avec The Roots en particulier a fait largement connaître le nom d'Ursula.
+Ursula Rucker(アースラ・ラッカー)は、フィラデルフィア出身のスポークンワード・アーティスト。Wax Tailor, King Britt, 4hero, Incognito, Jamaaladeen Tacuma, Josh Wink, Alix Perez,など様々なアーティストとコラボしており、特にThe RootsとのコラボはUrsulaの名が広く知れ渡るきっかけとなった。
 
-"Circé", sorti en 1999, est un morceau Deep House/Downtempo produit par King Britt. A1 est un remix de Jazzanova. A2, B1 est un remix de Rob Yancey.
+1999年にリリースされた「Circe」は、King BrittプロデュースによるDeep House／Downtempoトラック。A1はJazzanovaによるremix。あ2、B1はRob Yancey によるremix。
 
 #### Liste des chansons
 ```md

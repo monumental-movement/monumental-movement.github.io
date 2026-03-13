@@ -148,7 +148,7 @@ Dans les années 1970 et 1980, les synthés portables et les jouets musicaux él
 - CASIO VL-TONE
 - Des synthés pédagogiques comme le SX-150 de Gakken
 
-Les sons électroniques peuvent être facilement entendus sur les bureaux de la maison ou de l'école, et les enfants se sont familiarisés avec la culture du « jeu avec les sons ». Dans les temps modernes, les jouets numériques comme Otamatone sont connectés à la culture YouTube, créant un nouveau monde de « sons mignons ».
+Les sons électroniques peuvent être facilement entendus sur les bureaux à la maison ou à l'école, et les enfants se sont familiarisés avec la culture du « jeu avec les sons ». Dans les temps modernes, les jouets numériques comme Otamatone sont connectés à la culture YouTube, créant un nouveau monde de « sons mignons ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

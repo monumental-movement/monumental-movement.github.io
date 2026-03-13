@@ -10,13 +10,13 @@ tags:
 - House
 - Acid
 - Latin
-title: Arrow – Groove Master
+title: Flèche – Groove Master
 ---
 
 
-Arrow（アロー）こと、Alphonsus Cassell（アルフォンサス・カッセル）は、モントセラトのカリプソおよびソカの音楽家であり、モントセラト出身のソカの最初のスーパースター。1982年の「ホット・ホット・ホット」が国際的ヒット曲として有名。
+Alphonsus Cassell, également connu sous le nom d'Arrow, était un musicien de calypso et de soca montserratien et la première superstar de la soca de Montserrat. Leur chanson "Hot Hot Hot" de 1982 est connue comme un succès international.
 
-A面Groove Master (Acid Soca House Dub)はハウスミュージックやクラブミュージック愛好家の間で人気の一曲。
+Side A Groove Master (Acid Soca House Dub) est une chanson populaire parmi les amateurs de musique house et de musique de club.
 
 #### Liste des chansons
 ```md

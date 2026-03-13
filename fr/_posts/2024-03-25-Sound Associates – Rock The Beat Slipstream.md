@@ -13,9 +13,9 @@ title: Sound Associates – Rock The Beat Slipstream
 ---
 
 
-UKテクノシーンで活躍すDJ Daz Saund（DJダズ・ソーンド）とBen Tisdall（ベン・ティスダル）によるユニットSound Associates（サウンド・アソシエイツ）が1999年にベルギーのテクノレーベルMusic Man Recordsからリリースしたテクノトラック。
+Un morceau techno publié par Sound Associates, une unité composée de DJ Daz Saund et Ben Tisdall, actifs sur la scène techno britannique, sur le label techno belge Music Man Records en 1999.
 
-Sound Associatesは、別名でDaz Saund & Ben TisdallやHousewerkとしても知られています。
+Sound Associates est également connu sous les noms de Daz Saund & Ben Tisdall et Housewerk.
 
 #### Liste des chansons
 ```md

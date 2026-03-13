@@ -86,7 +86,7 @@ Il a mis en pratique la philosophie selon laquelle « le lieu lui-même devient 
 
 En 1971, le Taj Mahal Tour Group part pour une tournée en Europe.
 Leur voyage n’était pas seulement une tournée, mais un « pèlerinage sonore ».
-En extérieur, sans source d’électricité ni scène, le spectacle a été improvisé et résonné avec le vent, l’eau, la foule et les ondes radio.
+En extérieur, sans source d’énergie ni scène, le spectacle a été improvisé et résonné avec le vent, l’eau, la foule et les ondes radio.
 
 ### Itinéraire (carte Sirène)
 
@@ -112,7 +112,7 @@ Les performances d'improvisation dans divers lieux allaient des installations cu
 
 ---
 
-##VI. Déconstruction et expansion du son : le rituel de l'improvisation
+## VI. Déconstruction et expansion du son : le rituel de l'improvisation
 
 Les performances des touristes du Taj Mahal n'ont pas les « chansons » ou la « structure » habituelles.
 Il s’agit plutôt de l’acte d’émettre du son dans l’environnement et d’attendre une résonance fortuite.
@@ -172,7 +172,7 @@ C’est le message le plus important que Kosugi nous a laissé.
 | 1960 | Diplômé de la Faculté de Musique de l'Université des Arts de Tokyo |
 | 1961-63 | Participation à des activités de musique expérimentale d'avant-garde avec Kei Ichiyanagi, Toru Takemitsu et d'autres |
 | 1964 | ``Musique Collective'' formée, interprétée avec Cage & Tudor |
-| 1965-1968 | Performances de type Fluxus (Sogetsu Art Center, etc.) |
+| 1965-68 | Performances de type Fluxus (Sogetsu Art Center, etc.) |
 | 1969 | Création du « Taj Mahal Travel Group » |
 | 1971-1972 | Pèlerinage musical de l'Inde à l'Europe |
 | 1972 | 《Voyageurs du Taj Mahal – 15 juillet 1972》 Annonce |
@@ -204,7 +204,7 @@ C’était un voyage spirituel qui transcendait l’institution musicale et rés
 > « Nous sommes des voyageurs, pas des artistes. »
 > – Takehisa Kosugi
 
-Même aujourd’hui, un demi-siècle plus tard, les sons qu’ils émettaient résonnent encore.
+Aujourd’hui encore, un demi-siècle plus tard, les sons qu’ils émettaient résonnent encore.
 Il continue de vibrer doucement dans l’air, dans les souvenirs et au plus profond du cœur des auditeurs.
 
 ---

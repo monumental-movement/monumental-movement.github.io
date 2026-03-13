@@ -17,7 +17,7 @@ title: Yellowman – Rambo
 
 „Rambo“ ist auf Yellowmans 1982 erschienenem Album „King Yellowman“ enthalten. Dieses Lied ist für seinen Stil namens Yellowman’s Toast Style bekannt. Der Toast-Stil ist ein Rap-Stil, der Texte zu einem Rhythmus improvisiert und sich aus der Soundsystem-Kultur der jamaikanischen Musik entwickelt hat.
 
-„Rambo“ ist vom Actionhelden John J. Rambo aus der gleichnamigen Filmreihe inspiriert. Im Liedtext vergleicht sich Yellowman mit Lambeau und demonstriert damit dessen selbstbewusste Haltung und kraftvolle Leistung.
+„Rambo“ ist vom Actionhelden John J. Rambo aus der gleichnamigen Filmreihe inspiriert. Im Liedtext vergleicht sich Yellowman mit Lambeau und demonstriert damit seine selbstbewusste Haltung und kraftvolle Leistung.
 
 Dieses Lied gilt als eines der Signature-Songs von Yellowman, der für seinen Dancehall-Reggae-Stil und seine kraftvollen Darbietungen bekannt ist. Sein einzigartiger Stil und sein einzigartiger künstlerischer Ansatz haben Yellowman zu einem großen Einfluss auf die jamaikanische Musikszene gemacht.
 

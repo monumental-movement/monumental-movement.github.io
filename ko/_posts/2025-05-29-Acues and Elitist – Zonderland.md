@@ -14,7 +14,7 @@ title: Acues & Elitist – Zonderland
 ---
 
 
-Acues & Elitist는 Fernando Moreno Menargues와 Sergio Sala Garcia의 듀오입니다. "Zonderland"는 2005 년 네덜란드 라벨 profuse에서 출시 된 트랜스 트럭.
+Acues & Elitist는 Fernando Moreno Menargues와 Sergio Sala Garcia의 듀오입니다. 'Zonderland'는 2005년 네덜란드 라벨 profuse에서 출시된 트랜스트랙.
 
 B면은 캐나다 출신의 프로그레시브 트랜스/트랜스 DJ·프로듀서 Arnej의 8 Wonders 명의로의 remix.
 

@@ -11,7 +11,7 @@ tags:
 - Detroit Techno
 - Minimal
 title: '[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – Eine chronologische
-  Geschichte, die anhand berühmter Platten und Geräte nachgezeichnet wird'
+  Geschichte anhand berühmter Platten und Geräte'
 ---
 
 
@@ -56,7 +56,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Roland TR-808 / TR-909 / TB-303
 - SH-101 / Juno-106
 - Yamaha DX7
--Akai S900/S950
+- Akai S900/S950
 - Atari ST + Cubase/Notator
 
 ---
@@ -88,7 +88,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 ### 2000er: Minimalismus – der Beginn von Micro-House und „in the box“
 **Hintergrund der Zeit**
 - PC-Produktion wird populär, VST wird alltäglich
-- Angetrieben von Kölner, Berliner und chilenischen Künstlern
+- Kölner, Berliner und chilenische Künstler machen es vor
 
 **Meisterwerk**
 - Ricardo Villalobos – *Alcachofa* (2003)
@@ -144,7 +144,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - ASM Hydrasynth
 - Polyend Tracker / Dirtywave M8
 - Akai MPC One/Live II
-- KI-Mastering, Stammtrennungswerkzeuge
+- KI-Mastering, Stammtrennungstool
 
 ---
 
@@ -169,7 +169,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 ### Zusammenfassung
 Der Kern von Techno ist „Wiederholung“ und „Sounddesign“.
-Rhythmen, die direkt von x0x abstammen, Klangbilddesign von Samplern, Bearbeitungsästhetik der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
+Rhythmen stammen direkt von x0x ab, Klangbilddesign von Samplern, Bearbeitungsästhetik aus der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
 
 
 ---

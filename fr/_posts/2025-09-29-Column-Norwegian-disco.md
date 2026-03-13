@@ -128,7 +128,7 @@ Les albums et mix de Mungolian Jet Set présentent également des chanteurs et i
 
 #### Caractéristiques sonores
 
-Cross-genre : Un mélange d'éléments disco, cosmiques, house, jazz, afro et même rock et progressif.
+Cross-genre : Un mélange d'éléments disco, cosmiques, house, jazz, afro et même rock et prog.
 
 Sens du remix : Il est connu pour ses remix de « voyage dans l’espace » qui changent audacieusement la structure de la chanson originale et la prolongent sur plus de 10 minutes.
 

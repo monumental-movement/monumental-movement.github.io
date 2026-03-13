@@ -117,7 +117,7 @@ Attraktiver Punkt: Enthält ein luxuriöses Lineup, das die Berliner Technoszene
 Zusammenfassung: Die 7. Tresor-Compilation, veröffentlicht im Jahr 1999. Eine wunderschöne Sammlung von Songs weltberühmter Künstler wie Sven Väth, Ben Sims, James Ruskin, Daniel Bell und DJ Shufflemaster.
 
 
-Attraktiver Punkt: Deckt ein breites Spektrum an Stilen wie Dub Techno und Ambient ab und ermöglicht es Ihnen, die Essenz des Tresor-Labels voll und ganz zu erleben. Empfohlen für Anfänger.
+Attraktiver Punkt: Ein Stück, das ein breites Spektrum an Stilen wie Dub Techno und Ambient abdeckt und es Ihnen ermöglicht, die Essenz des Tresor-Labels voll und ganz zu erleben. Empfohlen für Anfänger.
 
 #### Trackliste
 ```md
@@ -151,7 +151,7 @@ Attraktiver Punkt: Deckt ein breites Spektrum an Stilen wie Dub Techno und Ambie
 Zusammenfassung: Tresors frühes Compilation-Werk, das 1992 veröffentlicht wurde. Es handelt sich um einen komprimierten Inhalt voller Songs verschiedener Künstler von Seite A bis D.
 
 
-Reizvoller Punkt: Wie der Titel schon vermuten lässt, handelt es sich bei „Klang Der Familie“ um ein historisches Meisterwerk, das die Entstehungszeit der Berliner Technokultur realistisch darstellt. Besonders empfehlenswert für Analog-Fans.
+Reizvoller Punkt: Wie der Titel schon sagt, handelt es sich bei „Klang Der Familie“ um ein historisches Meisterwerk, das die Entstehungszeit der Berliner Techno-Kultur realistisch nachempfindet. Besonders empfehlenswert für Analog-Fans.
 
 #### Trackliste
 ```md

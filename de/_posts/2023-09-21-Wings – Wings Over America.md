@@ -12,7 +12,7 @@ title: Wings – Wings Over America
 ---
 
 
-„Wings – Wings Over America“ ist ein Live-Album (3-LP-Set) der britischen Rockband Wings, das 1976 veröffentlicht wurde. Wings ist eine vom ehemaligen Beatle Paul McCartney gegründete Band, deren Aktivitäten nach der Auflösung der Beatles begannen.
+„Wings – Wings Over America“ ist ein Live-Album (3-LP-Set) der britischen Rockband Wings, das 1976 veröffentlicht wurde. Wings ist eine Band, die vom ehemaligen Beatle Paul McCartney gegründet wurde und deren Aktivitäten nach der Auflösung der Beatles begannen.
 
 Mit Live-Aufnahmen von Wings‘ Amerika-Tournee 1976 fängt es die Leistung und Energie der Band eindringlich ein. Das Album enthält eine große Auswahl an Songs, darunter Wings-Hits und Paul McCartneys Solowerk.
 

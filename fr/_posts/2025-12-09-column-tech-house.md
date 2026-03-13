@@ -56,7 +56,7 @@ La Tech House est souvent confondue avec « un sous-genre de techno » ou « un 
 
 ---
 
-## 2. Années 1980-1990 : Contexte de la création
+## 2. Années 1980 à 1990 : Contexte de la création
 
 Les origines de Tech House seraient la culture des clubs du début des années 1990 en Grande-Bretagne, en particulier autour de Londres.
 À l'époque, l'Acid House et le Rave étaient populaires en Grande-Bretagne, et une variété de styles tels que la Hard House, la Progressive House, la Techno et la Tribal House étaient mélangés.
@@ -66,7 +66,7 @@ En particulier, les tendances suivantes ont été à la base de la création de 
 * Minimalisme de la techno britannique (Surgeon, Regis, Dave Clarke, etc.)
 * Une version britannique du groove de l'US House (Chicago/NY)
 * Mélange de Tribal House, Garage et Progressive House
-* Styles DJ multi-genres issus de Pirate Radio et de la scène club londonienne (The End, etc.)
+* Styles DJ multi-genres de Pirate Radio et de la scène club londonienne (The End, etc.)
 
 Les gens réunis au club ne recherchaient pas seulement de la techno ou de la house, mais appréciaient de longues pièces de DJ mêlant des éléments des deux. Grâce à ce processus, il a développé un sens du mixage qui allie naturellement la « dureté de la techno » et la « chaleur de la house ».
 
@@ -131,7 +131,7 @@ En particulier, les artistes suivants sont importants car ils comblent le fossé
 
 * Steve Bug (Poker plat)
 * Booka Ombre
-* M.A.N.D.Y.
+*M.A.N.D.Y.
 * Ricardo Villalobos (minimal mais recoupe également Tech House)
 * Dés de locomotive
 *Lucien
@@ -151,7 +151,7 @@ flowchart TD
 
 ---
 
-## 6. Modifications de l'aspect sonore
+## 6. Changements de son
 
 Vers la fin des années 2000, Tech House a connu les changements suivants.
 
@@ -230,7 +230,7 @@ Voici les labels qui définissent Tech House.
 
 * Se tortiller
 * Enregistrements de butin
-*La fin des enregistrements
+*Les enregistrements de fin
 * Poker plat
 *Mobile
 * Bedrock (plus progressif, mais recoupe Tech House)

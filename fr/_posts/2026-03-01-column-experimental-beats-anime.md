@@ -60,11 +60,11 @@ L’essentiel est que la construction du rythme lui-même est liée au montage v
 
 ## Histoire
 
-### Années 1980 : Fusion de musique d'avant-garde et d'animation théâtrale
+### Années 1980 : Fusion de musique d'avant-garde et d'animation théâtrale
 
 La version cinématographique d’AKIRA, sortie en 1988, a marqué un tournant majeur dans l’histoire de la musique animée.
 
-Le Geino Yamashiro Gumi, en charge de la musique, est un groupe dont les activités sont basées sur la recherche sur les musiques ethniques et qui a créé un système sonore à grande échelle combinant shomyo, gamelan, instruments à percussion et traitement électronique.
+Le Geino Yamashiro Gumi, en charge de la musique, est un groupe dont les activités sont basées sur la recherche sur les musiques ethniques et a créé un système sonore à grande échelle combinant shomyo, gamelan, instruments à percussion et traitement électronique.
 Les polyrythmies superposées, l'accent mis sur les harmoniques et le refrain collectif représentaient symboliquement le chaos de la ville du futur proche de Néo-Tokyo.
 
 Contrairement à l’accompagnement symphonique classique, il est important que le rythme ait une structure qui « propulse » l’image.
@@ -77,11 +77,11 @@ Contrairement à l’accompagnement symphonique classique, il est important que 
 
 Kenji Kawai, qui s'est chargé de la musique de GHOST IN THE SHELL sorti en 1995, combinait sonorités électroniques et mélodies religieuses.
 
-Un refrain polyphonique qui fait référence à des voix bulgares, à un synthétiseur inorganique et à un rythme basse fréquence.
+Chœur polyphonique faisant référence à des voix bulgares, des nappes de synthé inorganiques et des rythmes basses fréquences.
 Ceci est un exemple d’expression de la tension entre la physicalité et la mécanique à travers le son.
 
 Dans Cowboy Bebop, diffusé en 1998, Yoko Kanno traverse librement le jazz, le big band, le funk et l'électro.
-La chanson d'ouverture « Tank ! » est une chanson de big band à grande vitesse, mais sa déconnexion rythmique et sa structure éditoriale résonnent avec les sensibilités de la culture post-club.
+La chanson d'ouverture, « Tank ! », est une chanson de big band à grande vitesse, mais sa déconnexion rythmique et sa structure éditoriale résonnent avec les sensibilités de la culture post-club.
 
 > Les années 1990 ont été une époque où le son électronique et le croisement des genres ont fait leur entrée pour de bon dans l'anime télévisé.
 

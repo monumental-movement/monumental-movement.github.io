@@ -14,9 +14,9 @@ title: '[Chronique] Définition du punk et du hardcore : le tournant de la colè
 ---
 
 
-## Définition du punk et du hardcore : le carrefour de la colère et de l'expression
+## Définition du punk et du hardcore ─ Le carrefour de la colère et de l'expression
 
-Texte : mmr｜Thème : Punk Hardcore
+Texte : mmr｜Thème : Punk/Hardcore
 
 À la fin des années 1970, les jeunes se sentaient saturés de musique rock commercialisée, et « une musique simple, brute et, par-dessus tout, qui exprime ses vrais sentiments » était née. C'est punk. Cependant, même ce style punk a finalement commencé à se replier sur lui-même, parfois de manière formelle. C’est le punk hardcore qui a une fois de plus déclenché les flammes de la colère.
 Dans cette chronique, nous approfondirons les définitions et les différences entre le punk et le hardcore du point de vue de la musique, de l'idéologie, de la mode et de l'histoire.
@@ -61,7 +61,7 @@ Politiquement, c’était l’étape naissante du thatchérisme. La musique fonc
 
 - Plus rapide, plus dur, plus court (souvent moins d'une minute)
 
-- Souligne la distorsion de la guitare et le caractère destructeur du rythme
+- Souligne la distorsion de la guitare et le caractère destructeur du rythme.
 
 - Voix basée sur les cris et les cris
 
@@ -143,7 +143,7 @@ Depuis le 21ème siècle, le punk et le hardcore ont été hérités sous divers
 
 Il s'est diversifié dans divers sous-genres tels que le post-hardcore, l'emo, le crustcore et le hardcore mélodique.
 
-Le punk hardcore (GAUZE, Lip Cream, G.I.S.M., etc.) a également construit sa propre culture au Japon.
+Au Japon, le punk hardcore (GAUZE, Lip Cream, G.I.S.M., etc.) a créé une culture unique.
 
 De nos jours, il y a une réévaluation parmi la génération Z et les festivals DIY, et ils continuent de maintenir leur force en tant que sous-culture.
 

@@ -17,7 +17,7 @@ title: Yumi Matsutoya – Da・Di・Da
 
 Musiciens participants
 ・Basse : Kenji Takamizu
-・Batterie : Tatsuo Hayashi, Mike Baird
+・Batterie : Tatsuo Hayashi, Mike Baird
 ・Guitare : Masaki Matsubara
 ・Clavier : Masataka Matsutoya
 ・Percussions : Nobu Saito, Shigeru Hamaguchi

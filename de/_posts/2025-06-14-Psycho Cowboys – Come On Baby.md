@@ -15,7 +15,7 @@ title: Psycho Cowboys – Komm schon, Baby
 ---
 
 
-Psycho Cowboys (auch bekannt als Hedfu_k) ist ein Projekt des in Großbritannien ansässigen Produzenten/Komponisten Aaron Gilbert und des in London geborenen Elektronik-DJ/Produzenten Stretch Silvester, alias Stuart Collins.
+Psycho Cowboys (alias Hedfu_k) ist ein Projekt des britischen Produzenten/Komponisten Aaron Gilbert und des in London geborenen Elektronik-DJ/Produzenten Stretch Silvester, alias Stuart Collins.
 
 
 Bei dieser Platte handelt es sich um einen Breaks/Big Beat-Track, der 1999 vom Londoner unabhängigen Plattenlabel Wall Of Sound veröffentlicht wurde.

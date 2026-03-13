@@ -66,7 +66,7 @@ Als Brücke zwischen experimenteller Musik und Popkultur hinterließen sie einzi
 
 London in den späten 1970er Jahren.
 **This Heat** ließ die Ängste des Kalten Krieges klingen und **David Cunningham** unterstützte seine Aufnahmen.
-Hier analysieren wir die Texte jedes Liedes aus sozialkritischer Sicht und tauchen tiefer in Cunninghams Aufnahmetechniken und -ausrüstung ein.
+Hier analysieren wir die Texte jedes Liedes aus gesellschaftskritischer Sicht und befassen uns eingehender mit Cunninghams Aufnahmetechniken und -ausrüstung.
 
 ---
 
@@ -74,7 +74,7 @@ Hier analysieren wir die Texte jedes Liedes aus sozialkritischer Sicht und tauch
 
 This Heat (1976–82) war eine experimentelle Rockband aus London, bestehend aus Charles Hayward, Charles Burrell und Gareth Williams. Cunningham war maßgeblich an der Aufnahme und Bearbeitung beteiligt und leistete technische Unterstützung bei der Einführung von Bandschleifen, Feedback und akustischen Collagen.
 
-Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio, das aus einem Kühllager umgebaut wurde) wurde für Cunningham zu einem Ort, an dem er seine technischen Fähigkeiten unter Beweis stellen konnte. Durch das Schneiden und Zusammenfügen von Bändern, das Rückwärtsabspielen und das Zerlegen der Aufnahme in 24 Spuren entstanden Klänge, die später direkt mit den Post-Rock- und Noise-Szenen verbunden werden sollten.
+Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio, das aus einem Kühllager umgebaut wurde) wurde für Cunningham zu einem Ort, an dem er seine technischen Fähigkeiten unter Beweis stellen konnte. Durch das Schneiden und Zusammenfügen von Bändern, das Rückwärtsabspielen und das Zerlegen der Aufnahme in 24 Spuren entstanden Klänge, die später direkt mit der Post-Rock- und Noise-Szene verbunden werden sollten.
 
 ---
 
@@ -83,12 +83,12 @@ Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio
 #### „Diese Hitze“ (1979)
 
 - **„Not Waving“**: Der Titel erinnert an ein Gedicht von Stevie Smith. Symbol für individuelle Einsamkeit und nationale Entfremdung.
-- **„24 Track Loop“**: Kein Liedtext, sondern drückt die „mechanische Wiederholung des Kapitalismus“ mit Ton aus. Die Endlosschleife ist eine Metapher für den „Stillstand der Zeit“.
+- **„24 Track Loop“**: Kein Liedtext, drückt aber die „mechanische Wiederholung des Kapitalismus“ mit Ton aus. Die Endlosschleife ist eine Metapher für das „Zeitalter der Stagnation“.
 - **„Horizontales Halten“**: Aus der TV-Terminologie zitiert. Eine Satire auf „Informationsmanipulation“ und „Massenmedienkontrolle“ während des Kalten Krieges.
 
 ---
 
-#### „Gesundheit und Effizienz“ (1980)
+#### „Gesundheit und Leistungsfähigkeit“ (1980)
 
 - **„Gesundheit und Effizienz“**: Obwohl der Titel auf den ersten Blick positiv erscheint, sind die Texte voller ironischer Phrasen über die „Energiekrise“ und den „Gesundheitsmythos der Industriegesellschaft“. Eine ironische Hymne, die einen Slogan aus der Zeit des Kalten Krieges auf den Kopf stellt.
 
@@ -126,7 +126,7 @@ Der Text war klarer als in der Studioversion und der soziale Kommentar wurde üb
 ---
 
 #### Analoger EQ und Outboard
-- Verwendet EQ im Neve- und Trident-Stil.
+- Verwendet einen EQ im Neve- und Trident-Stil.
 - Der lebhafte Auftritt der Band wird gezielt „verzerrt“ und „räumlich arrangiert“, um seinen experimentellen Charakter zu betonen.
 - Es wurde verwendet, um ein „akustisches Unbehagen“ zu erzeugen, und nicht für eine Standardkorrektur.
 

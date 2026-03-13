@@ -23,7 +23,7 @@ Text: mmr｜Thema: Das Medium der Stimme, das sich durch Musik verwandelt – Ü
 
 
 Radio wird oft als Musikmedium bezeichnet, doch als es erfunden wurde, bestand seine Essenz im gleichzeitigen Teilen von Audio.
-Nachrichten, Reden, Lesungen. Musik war einer der Hauptinhalte, aber nicht der Zweck.
+Nachrichten, Reden, Lesungen.
 
 Musik war jedoch das Element, das am besten mit dem Radiogerät kompatibel war.
 Es geht über die Sprache hinaus, ist langlebig, wiederholbar und hat eine direkte Wirkung auf Emotionen.
@@ -68,7 +68,7 @@ Das Erlebnis, zur gleichen Zeit dasselbe Lied zu hören, hat Musik zu einem sozi
 Das Radio hat eine Existenz geschaffen, die nicht nur die Musik selbst präsentiert, sondern auch „wie man Musik hört“.
 Der DJ war der Musikwähler, Kommentator und Geschichtenerzähler.
 
-Songreihenfolge, Zeitzone und Kommentare.
+Songreihenfolge, Zeit und Kommentare.
 Diese geben der Musik einen Kontext und definieren das Genre.
 
 Das Phänomen, dass die von einem bestimmten DJ eingeführte Musik als Genre anerkannt wird, wiederholt sich auf der ganzen Welt.
@@ -87,7 +87,7 @@ Sendeplätze legen Genres fest und Musik wird entsprechend den Erwartungen der H
 Songlänge, Intro, Platzierung des Refrains.
 Das Musikformat selbst wurde für die Sendezeit optimiert.
 
->Das Radio hat Genres gefördert und gleichzeitig geprägt.
+> Das Radio hat Genres gepflegt und zugleich geprägt.
 
 ---
 
@@ -114,9 +114,9 @@ Im Auto, bei der Arbeit, spät in der Nacht.
 Das Radio wird als „Stimme, die keine Konzentration erfordert“ überleben.
 
 Während dieser Zeit wird die Musik zur Hintergrundmusik und die Erzählung wird vereinfacht.
-Obwohl sein Einfluss abgenommen hat, ist seine Verbreitung im Alltag gleich geblieben.
+Obwohl sein Einfluss abgenommen hat, ist seine Verbreitung im Alltag geblieben.
 
-> Radio blieb als Hintergrundgeräusch erhalten.
+> Das Radio blieb als Hintergrundgeräusch erhalten.
 
 ---
 
@@ -129,7 +129,7 @@ Diese sind zu unnötigen Elementen für die Audioverteilung geworden.
 Durch die On-Demand-Wiedergabe entfällt die Notwendigkeit der Gleichzeitigkeit und des Organisationskonzepts.
 Radio muss keine „Sendung“ mehr sein.
 
->Der Ton wurde von Radiowellen befreit.
+> Die Stimme wurde von Radiowellen befreit.
 
 ---
 

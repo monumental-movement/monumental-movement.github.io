@@ -43,7 +43,7 @@ color: #fff;
 
 ## 2. Relation historique entre musique pop et expérimentation
 
-Bien que la musique pop ait été fondée sur le principe d’une distribution massive et d’une compréhension immédiate, des éléments expérimentaux y ont toujours été introduits. Depuis les années 1960, avec les progrès de la technologie en studio, l’enregistrement lui-même est reconnu comme un acte créatif. La manipulation de bande, la lecture inversée et la réverbération artificielle ont été utilisées pour étendre la structure de la chanson.
+Bien que la musique pop ait été fondée sur le principe d’une distribution de masse et d’une compréhension immédiate, des éléments expérimentaux y ont toujours été introduits. Depuis les années 1960, avec les progrès de la technologie en studio, l’enregistrement lui-même est reconnu comme un acte créatif. La manipulation de bande, la lecture inversée et la réverbération artificielle ont été utilisées pour étendre la structure de la chanson.
 
 Dans les années 1970, les synthétiseurs sont devenus populaires et les sons électroniques se sont imposés dans le vocabulaire pop. Durant cette période, les sons électroniques fonctionnaient comme des images futuristes et des symboles d’artificialité, et la musique et la représentation visuelle étaient étroitement liées.
 
@@ -59,7 +59,7 @@ Ce changement a entraîné les caractéristiques structurelles suivantes.
 * Structure basée sur des unités acoustiques plutôt que sur des unités de phrases
 * Intégration des imprévus et des erreurs
 
-La Pop électronique expérimentale/Art Pop utilise activement ces caractéristiques.
+La Pop/Art Pop électronique expérimentale utilise activement ces caractéristiques.
 
 ---
 
@@ -131,7 +131,7 @@ Dans les chansons d'Arca, le timbre ne reste pas stable. Des tensions, des déch
 
 * Modulation extrême des basses
 * Insertion de bruit haute fréquence
-* Changement soudain de volume
+* Commutation rapide des changements de volume
 
 Ceux-ci sont utilisés pour perturber intentionnellement la continuité musicale.
 

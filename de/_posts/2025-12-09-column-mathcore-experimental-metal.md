@@ -48,13 +48,13 @@ color: #fff;
 
 Die Wurzeln von Mathcore liegen im **Hardcore-Punk** und **Metalcore** der späten 1980er und frühen 90er Jahre. Insbesondere Bands wie Converge, Botch und Coalesce begannen, nicht nur Aggression, sondern auch **unregelmäßige Riffstrukturen, Akkordausbrüche und plötzliche Tempowechsel** einzuführen und bereiteten damit die Bühne für das, was später Mathcore werden sollte.
 
-### Untergrundszene aus Boston und New Jersey
+### Untergrundszene Boston-New Jersey
 
-DEP entstand Ende der 1990er Jahre im Nordosten der USA, zu einer Zeit, als die Fusion von Hardcore- und Noise-Rock aktiv war, und durch die Kombination mit „Technokratismus“ entstanden neue Variationen mit beispielloser Geschwindigkeit und Komplexität.
+DEP entstand Ende der 1990er Jahre im Nordosten der USA, zu einer Zeit, als die Fusion von Hardcore- und Noise-Rock aktiv war, und durch die Kombination dieser mit „Technokratismus“ entstanden neue Variationen mit beispielloser Geschwindigkeit und Komplexität.
 
 ---
 
-## Die Innovation des Dillinger Escape Plan
+## Innovation des Dillinger Escape Plans
 
 DEP wurde 1997 gegründet. Seine Debüt-EP „Under the Running Board“ (1998) und sein bahnbrechendes Debütalbum „Calculated Infinity“ (1999) brachten ihm sofort große Anerkennung ein.
 
@@ -62,8 +62,8 @@ Im Folgenden sind die Merkmale ihrer Liedstrukturen aufgeführt.
 
 ### 1. Ultraschnelle und fragmentierte Struktur
 
-Bemerkenswert ist die Technik des schnellen Wechsels von Phrasen von ein oder zwei Schlägen statt in Takten.
-Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente ständig erschüttert.
+Bemerkenswert ist die Technik, Phrasen von 1-2 Schlägen mit hoher Geschwindigkeit und nicht in Takteinheiten zu ändern.
+Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente immer wieder ins Wanken gebracht.
 
 ### 2. Einfluss vom Jazz
 
@@ -130,7 +130,7 @@ flowchart TD
 
 * Umgang mit **metrischer Modulation** (der Illusion des Tempos)
 * Mehrstufige Anordnung von Snare-Akzenten
-* Polyrhythmische gleichzeitige Aussprache (z. B. 5 verbundene Figuren über 4/4)
+*Polyrhythmische simultane Aussprache (z. B. 5 verbundene Figuren über 4/4)
 
 ### Basis
 
@@ -188,7 +188,7 @@ Die fragmentierte Struktur von DEP und Car Bomb wurde in viele moderne Metal-Ban
 
 ### Post-Metal / Noise
 
-Während die komplexe rhythmische Struktur gleich blieb, kam es immer häufiger vor, dass Musik mit räumlichen Klängen und Umgebungselementen kombiniert wurde, was zu einer vielschichtigeren Struktur führte.
+Während die komplexe rhythmische Struktur gleich blieb, kam es immer häufiger vor, dass Musik mit räumlichen Klängen und Umgebungselementen kombiniert wurde und die Struktur vielschichtiger wurde.
 
 ---
 

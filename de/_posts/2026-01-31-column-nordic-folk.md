@@ -53,7 +53,7 @@ Um die Dunkelheit des nordischen Volkes zu verstehen, ist es notwendig, die grun
 
 Götter sind nicht unsterblich, aber sie müssen mit Alter, Verrat und Tod rechnen. Odin opfert seine Augen, um Wissen zu erlangen, und Loki wird zum Gott, aber auch zum Zerstörer, was zum Ende der Welt führt.
 
-Das Wichtige an diesem mythologischen System ist, dass es keine Annahme gibt, dass die Ordnung ewig bestehen wird. Eine Weltanschauung, die auf dem Verderben basiert, lässt musikalische Ausdrucksformen stärker das Schicksal als die Hoffnung widerspiegeln.
+Das Wichtige an diesem mythologischen System ist, dass es keine Annahme gibt, dass die Ordnung ewig bestehen wird. Eine Weltanschauung, die auf dem Aussterben basiert, lässt musikalische Ausdrucksformen stärker das Schicksal als die Hoffnung widerspiegeln.
 
 > Die nordische Mythologie enthält die Idee, eher ein unausweichliches Ende als eine Erlösung zu akzeptieren.
 
@@ -101,7 +101,7 @@ Die Struktur des Instruments selbst bildet eine Klangwelt, die eine klare Auflö
 ## Christianisierung und Transformation der dunklen Mythologie
 
 
-Auch nachdem die nordische Welt christlich wurde, verschwanden alte Mythen und animistische Überzeugungen nicht vollständig. Diese werden als Häresien, Aberglauben und Volksmärchen umgedeutet und in Volkslieder eingearbeitet.
+Auch nachdem die nordische Welt christlich wurde, verschwanden alte Mythen und animistische Überzeugungen nicht vollständig. Diese werden als Häresien, Aberglauben und Volksmärchen umgedeutet und in Volkslieder überführt.
 
 Christliche Konzepte wie Teufel, Hölle und Sünde wurden mit bestehenden dunklen Wesenheiten kombiniert, um neue Erzählungen zu bilden. Dadurch erhält der nordische Folk eine doppelte Dunkelheit.
 

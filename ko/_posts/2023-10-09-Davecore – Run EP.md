@@ -14,7 +14,7 @@ title: Davecore – Run! EP
 
 
 「Run! EP」는,
-2002년 스웨덴의 라벨 "Kône Records"에서 출시된 Davecore의 EP입니다.
+2002년 스웨덴의 라벨 「Kône Records」에서 발매된 Davecore의 EP입니다.
 
 
 #### Tracklist

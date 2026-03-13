@@ -20,7 +20,7 @@ title: '[Chronique] Black Flag - Le tournant du hardcore du sud de la Californie
 Texte : mmr｜Thème : À propos d'un groupe qui a laissé un héritage de méthode et d'attitude plutôt que de succès commercial
 
 
-Black Flag était plus qu'un simple nom de groupe, c'était une sorte de changement structurel qui a imprégné l'underground de la côte ouest américaine de la fin des années 1970 au début des années 1980. Bien qu'ils soient connus pour leur jeu rapide, dur et simple, ils étaient imprégnés de pratiques qui allaient avoir une influence décisive sur les générations à venir : le bricolage, les tournées autosuffisantes et l'indépendance en matière de création de disques. Musicalement, ils ont continué à rejeter l'image linéaire du punk, passant de leur premier hardcore à trois accords au son expérimental plus lourd, plus lent de leurs dernières années.
+Black Flag était plus qu'un simple nom de groupe, c'était une sorte de changement structurel qui a imprégné l'underground de la côte ouest américaine de la fin des années 1970 au début des années 1980. S'ils étaient connus pour leur jeu rapide, dur et simple, ils étaient également confrontés à des pratiques qui allaient avoir une influence décisive sur les générations à venir : le bricolage, les tournées autosuffisantes et l'indépendance en matière de création de disques. Musicalement, ils ont continué à rejeter l'image linéaire du punk, passant de leur premier hardcore à trois accords au son expérimental plus lourd, plus lent de leurs dernières années.
 
 Les caractéristiques locales de la Californie du Sud, la culture des banlieues, la vie quotidienne répressive et les relations tendues avec la police. La musique de Black Flag est indissociable de ces environnements spécifiques. La colère et le vide n’étaient pas des choses abstraites, mais une prolongation de la vie. Chacune de leurs chansons, tournées et disques existe comme une réponse pratique à leur environnement.
 
@@ -90,7 +90,7 @@ Surtout pendant cette période de transition, Greg Ginn a pris le contrôle tota
 
 ---
 
-Le moment important suivant fut l'arrivée de Ron Reis (plus tard connu sous le nom de Chavo Pederast). Un exemple représentatif de la source sonore enregistrée pendant la période où il était chanteur est le "Jealous Again" de 7 pouces. Ce travail est particulièrement apprécié parmi les premiers Black Flag.
+Le moment important suivant fut l'arrivée de Ron Reis (plus tard connu sous le nom de Chavo Pederast). Un exemple représentatif de la source sonore enregistrée pendant la période où il était chanteur est le 7 pouces « Jealous Again ». Ce travail est particulièrement apprécié parmi les premiers Black Flag.
 
 "Jealous Again" parle de simple jalousie et a une expression agressive mais quelque peu sarcastique. La voix de Ron Reis est un peu plus sobre que celle de Keith Morris et le contour de ses paroles est plus clair. En conséquence, la structure et le rythme des chansons deviennent plus prononcés.
 
@@ -156,7 +156,7 @@ flowchart TD
 
 ## Impact et héritage
 
-Black Flag était un groupe dont l'héritage reposait davantage sur la méthode et l'attitude que sur le succès commercial. Leur philosophie DIY, leurs tournées épuisantes et leur refus de faire des compromis musicaux sont devenus une référence pour d’innombrables groupes.
+Black Flag était un groupe dont l'héritage reposait davantage sur la méthode et l'attitude que sur le succès commercial. Leur philosophie DIY, leurs tournées épuisantes et leur refus de faire des compromis musicalement sont devenus une référence pour d'innombrables groupes.
 
 Les chansons de 7 pouces « Nervous Breakdown » et « Jealous Again » sont toujours considérées comme la forme de base du hardcore. D'un autre côté, les chansons plus lourdes et plus lentes de la seconde moitié du groupe ont dissous les frontières des genres et influencé le public au-delà du punk.
 

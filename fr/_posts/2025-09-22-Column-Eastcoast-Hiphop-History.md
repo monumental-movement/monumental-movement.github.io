@@ -43,10 +43,10 @@ color: #fff;
 * **Contexte culturel** : né de la culture festive des communautés noires et latino-américaines du Bronx. Le rap, le DJing, le breakdance et le graffiti se sont réunis pour former une culture hip-hop.
 * **Vidéo/Mode** : MV à petit budget, Adidas, Kangol et les chaînes en or sont symboliques.
 
-**Albums recommandés**
+**おすすめアルバム**
 
-| Albums | Artiste | Lien Amazon | Points recommandés |
-|--------------|-------------|-------------|----------------|
+| アルバム | アーティスト | Amazonリンク | おすすめポイント |
+|----------|-------------|--------------|----------------|
 | *Rapper’s Delight* (1979) | The Sugarhill Gang | [Amazon](https://amzn.to/4gxF3s2) | 世界初のヒット・ヒップホップシングル |
 | *Paid in Full* (1987) | Eric B. & Rakim | [Amazon](https://amzn.to/48s2voA) | ラップのフロウを刷新した革命作 |
 | *Criminal Minded* (1987) | Boogie Down Productions | [Amazon](https://amzn.to/46gSv0b) | ハードコアと社会的リアリズムの先駆 |
@@ -61,10 +61,10 @@ color: #fff;
 * **Conflit Est-Ouest** : le conflit Est-Ouest s'intensifie, avec notamment la mort tragique de 2Pac et de The Notorious B.I.G.
 * **Vidéo/Mode** : MV se déroulant dans une boutique haut de gamme à Harlem et au coin d'une rue de New York. Timberland, Carhartt, AverX et les jeans baggy sont les plus courants.
 
-**Albums recommandés**
+**おすすめアルバム**
 
-| Albums | Artiste | Lien Amazon | Points recommandés |
-|--------------|-------------|-------------|----------------|
+| アルバム | アーティスト | Amazonリンク | おすすめポイント |
+|----------|-------------|--------------|----------------|
 | *Illmatic* (1994) | Nas | [Amazon](https://amzn.to/3IwRSX4) | ニューヨークの叙事詩。リリシズムの頂点 |
 | *Ready to Die* (1994) | The Notorious B.I.G. | [Amazon](https://amzn.to/3It03Um) | ストリートのリアルを描いた傑作 |
 | *Enter the Wu-Tang (36 Chambers)* (1993) | Wu-Tang Clan | [Amazon](https://amzn.to/47PTQMw) | 武侠映画とストリートを融合した革命的作品 |
@@ -78,36 +78,36 @@ color: #fff;
 * **Contexte culturel** : Alors que Jay-Z, DMX, 50 Cent et d'autres ont connu un succès commercial, l'underground Mos Def, Talib Kweli et d'autres ont développé le « rap conscient ». La culture mixtape a prospéré.
 * **Vidéo/Mode** : production de vidéoclips à grande échelle, des marques telles que Rocawear, Sean John et Ecko sont populaires.
 
-**Albums recommandés**
+**おすすめアルバム**
 
-| Albums | Artiste | Lien Amazon | Points recommandés |
-|--------------|-------------|-------------|----------------|
+| アルバム | アーティスト | Amazonリンク | おすすめポイント |
+|----------|-------------|--------------|----------------|
 | *The Blueprint* (2001) | Jay-Z | [Amazon](https://amzn.to/46ho0Hs) | ソウルサンプリングの美学を確立 |
 | *Get Rich or Die Tryin’* (2003) | 50 Cent | [Amazon](https://amzn.to/46gmSUj) | ストリートとメジャーをつなぐ決定打 |
 | *Black on Both Sides* (1999) | Mos Def | [Amazon](https://amzn.to/4gA2mBJ) | コンシャスな視点とジャズ感覚の融合 |
 
 ---
 
-## Années 2010 à aujourd’hui : Diversification et influence mondiale
+## 2010年代〜現在：多様化と世界的影響力
 
 * **Producteurs représentatifs** : Metro Boomin (penchant sudiste, mais également influencé par New York), Hit-Boy, Statik Selektah
 * **Major labels** : Top Dawg (également lié à NY), Griselda Records
 * **Contexte culturel** : Parallèlement à l'influence de Kendrick Lamar, à New York, Griselda (Westside Gunn, Conway, Benny the Butcher) fait revivre l'ambiance des années 90. Le nombre d’artistes issus d’Internet augmente également.
 * **Vidéo/Mode** : Une fusion de grandes marques et de streetwear (Supreme, Off-White, Balenciaga). Les vidéoclips documentaires ont le vent en poupe.
 
-**Albums recommandés**
+**おすすめアルバム**
 
-| Albums | Artiste | Lien Amazon | Points recommandés |
-|--------------|-------------|-------------|----------------|
+| アルバム | アーティスト | Amazonリンク | おすすめポイント |
+|----------|-------------|--------------|----------------|
 | *My Beautiful Dark Twisted Fantasy* (2010) | Kanye West | [Amazon](https://amzn.to/3IcnnFT) | 芸術性と商業性の極致 |
 | *Pray for Paris* (2020) | Westside Gunn | [Amazon](https://amzn.to/46OyiyL) | アートとラップを結ぶ美学的作品 |
 | *King’s Disease* (2020) | Nas | [Amazon](https://amzn.to/3Icom93) | ベテランの成熟を示す名盤 |
 
 ---
 
-## Liste de films
+## 映画リスト
 
-| Titre du film | Année | Lien Amazon |
+| 映画タイトル | 年 | Amazonリンク |
 |--------------|----|--------------|
 | *Wild Style* | 1983 | [Amazon](https://amzn.to/423FBju) |
 | *Beat Street* | 1984 | [Amazon](https://amzn.to/3W1AT2c) |
@@ -117,7 +117,7 @@ color: #fff;
 
 ---
 
-## Références/lectures complémentaires
+## 参考文献・さらなる読み物
 
 * [Jeff Chang『Can’t Stop Won’t Stop: A History of the Hip-Hop Generation』](https://amzn.to/4gCxTmv)  
 * [Tricia Rose『Black Noise: Rap Music and Black Culture in Contemporary America』](https://amzn.to/4gwwIF4)  
@@ -126,26 +126,26 @@ color: #fff;
 
 ---
 
-## Discographie représentative (extrait)
+## 代表的ディスコグラフィー（抜粋）
 
 ### Nas
 
-| Albums | Lien Amazon |
-|--------------|--------------|
+| アルバム | Amazonリンク |
+|----------|--------------|
 | *Illmatic* (1994) | [Amazon](https://amzn.to/3IwRSX4) |
 | *King’s Disease* (2020) | [Amazon](https://amzn.to/3Icom93) |
 
 ### Le notoire B.I.G.
 
-| Albums | Lien Amazon |
-|--------------|--------------|
+| アルバム | Amazonリンク |
+|----------|--------------|
 | *Ready to Die* (1994) | [Amazon](https://amzn.to/3It03Um) |
 | *Life After Death* (1997) | [Amazon](https://amzn.to/48pnlVB) |
 
 ### Clan Wu-Tang
 
-| Albums | Lien Amazon |
-|--------------|--------------|
+| アルバム | Amazonリンク |
+|----------|--------------|
 | *Enter the Wu-Tang (36 Chambers)* (1993) | [Amazon](https://amzn.to/47PTQMw) |
 | *Wu-Tang Forever* (1997) | [Amazon](https://amzn.to/46yGDFE) |
 
@@ -153,7 +153,7 @@ color: #fff;
 
 ## résumé
 
-Le hip-hop de la côte Est est né des fêtes de quartier du Bronx, a connu un succès commercial dans les années 80 et a atteint son âge d'or dans les années 90. Caractérisés par des paroles combinant critique sociale et réalisme de la rue, ainsi que par des rythmes d'échantillonnage précis, ils ont influencé la vidéo, la mode, le cinéma et même l'expression littéraire.
+Le hip-hop de la côte Est est né des fêtes de quartier du Bronx, a connu un succès commercial dans les années 80 et a atteint son âge d'or dans les années 90. Il se caractérise par des paroles qui combinent critique sociale et réalisme de la rue, ainsi que par des rythmes d'échantillonnage détaillés, et a influencé la vidéo, la mode, le cinéma et même l'expression littéraire.
 Depuis les années 2000, on y trouve des succès majeurs comme Jay-Z et 50 Cent, et des artistes conscients comme Mos Def et Talib Kweli. Depuis les années 2010, New York attire à nouveau l'attention grâce au renouveau de Griselda et Nas, et le hip hop dur et lyrique typique de la côte Est est hérité.
 
 ---

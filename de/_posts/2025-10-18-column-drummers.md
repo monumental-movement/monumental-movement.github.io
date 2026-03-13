@@ -48,7 +48,7 @@ color: #fff;
 ## Einführung: Was ist Rhythmus? Eine Kulturgeschichte des Blasens und Atmens
 
 Schlaginstrumente sind der Beginn der Musik und der Herzschlag der Welt.
-Die Trommeln in afrikanischen Dörfern ersetzen Worte und die lateinamerikanischen Congas sind eine Fortsetzung des Gebets.
+Die Trommeln in afrikanischen Dörfern ersetzen Worte und die lateinamerikanische Conga ist eine Fortsetzung des Gebets.
 Und in den Städten wurde es nach der Industriellen Revolution mit dem Rhythmus der Maschinen synchronisiert.
 Das Schlagzeug wurde im frühen 20. Jahrhundert geboren.
 Die Kombination aus Snare, Kick und Hi-Hat wurde als Verlängerung menschlicher Gliedmaßen konzipiert.
@@ -103,7 +103,7 @@ Doch gleichzeitig wirbelten im Untergrund **Trommeln, die von der Disziplin abwe
 
 Tony Allen, besser bekannt als Fela Kutis Kumpel, ist der Mann, der „Afrobeat“ erfunden hat.
 Der Rhythmus war ein Symbol für „Anti-Establishment“ und visualisierte die Energie der Menschen in Nigeria unter Militärherrschaft.
-Das Schlagzeug war Politik. Der Ton war ein Protest.
+Die Trommeln waren Politik. Der Ton war ein Protest.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -143,7 +143,7 @@ Sie definierten die Schwerkraft der Musik neu, indem sie „die Lücken verschob
 
 Yoshimi Yokota = YOSHIMIO ist einer der freizügigsten Schlagzeuger der Welt.
 Das riesige Trommelensemble „77BOADRUM“ von Boredoms war ein Ritual, das die Stadt erschütterte.
-Für sie ist das Schlagzeug nicht nur ein Schlaginstrument, sondern die „Wellen des Lebens“.
+Für sie ist das Schlagzeug nicht nur ein Schlaginstrument, sondern die „Schwingung des Lebens“.
 
 Darüber hinaus ist **Yo2ro** in Boredoms und anderen experimentellen Musikprojekten aktiv.
 Indem er die vertikalen und horizontalen Aspekte des Polyrhythmus frei manipuliert, spiegelt er den kosmischen Beat von YOSHIMIO wider.

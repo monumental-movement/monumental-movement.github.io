@@ -174,7 +174,7 @@ Diese Innovation legte den Grundstein für das moderne Klaviertrio, das später 
 
 ### 3. Internationale Aktivitäten und kultureller Einfluss
 Seit den 1960er Jahren treten sie aktiv in Europa, dem Nahen Osten und Asien auf und haben außerhalb der Vereinigten Staaten eine große Fangemeinde gewonnen.
-Die Auswirkungen sind zu sehen in:
+Die Auswirkungen spiegeln sich wider in:
 
 - Auftritte auf internationalen Jazzfestivals
 - Großer Einfluss auf nichtamerikanische Pianisten
@@ -186,7 +186,7 @@ Insbesondere die Tatsache, dass er in den 1950er Jahren konvertierte und den Nam
 ### 4. „Die Kunst des Weltraums“ erben
 Jamals charakteristischer Stil, die Ästhetik der Ruhe, wurde an die folgenden Generationen weitergegeben:
 
--Herbie Hancock
+- Herbie Hancock
 - McCoy Tyner
 - Keith Jarrett
 - Brad Mehldau
@@ -212,7 +212,7 @@ Ahmad Jamal war nicht nur ein „begabter Jazzpianist“, sondern ein Innovator,
 - Wie man mit Platz umgeht
 - Das Trio neu definieren
 - Prähistorische Rolle des modalen Ansatzes
-- Großer Einfluss auf die nächste Generation
+- Riesiger Einfluss auf die nächste Generation
 - Globale Aktivitäten
 
 Durch diese Bemühungen gilt Jamal als eine der wichtigsten Persönlichkeiten, die den Jazz vom 20. bis 21. Jahrhundert geprägt haben.

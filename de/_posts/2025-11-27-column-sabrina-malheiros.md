@@ -50,7 +50,7 @@ color: #fff;
 Sabrina Mallheiros kommt aus Rio de Janeiro.
 Sein Vater ist **Alex Malheiros**, der Bassist von Azimuth (später auch bekannt als Azymuth). Azimuths Musik, mit der sie seit ihrer Kindheit vertraut ist, bewegt sich frei zwischen Funk, Jazz, Samba und Fusion.
 
-Azimuth ist seit den 1970er Jahren weltweit beliebt und wurde von einer Vielzahl von Künstlern aus den Bereichen Club Jazz, Future Jazz, House und Hip-Hop gesampelt. Das „schwebende Gefühl“, der „sanfte Groove“ und das „kosmische Akkordgefühl“ der Live-Performance sind stark von Sabrinas Werken übernommen.
+Azimuth ist seit den 1970er Jahren weltweit beliebt und wurde von einer Vielzahl von Künstlern aus den Bereichen Club Jazz, Future Jazz, House und Hip-Hop gesampelt. Das „schwebende Gefühl“, der „sanfte Groove“ und das „kosmische Akkordgefühl“ von Live-Auftritten sind stark in Sabrinas Werken vererbt.
 
 Allerdings ist Sabrinas Musik keine direkte Nachahmung ihres Vaters, sondern hat ein starkes Gespür für „Eleganz als Sängerin“ und „urbanen Soul“. Während sie die rhythmische Geschmeidigkeit von Azimuth als ihre DNA übernommen haben, haben sie sie in eine lyrischere und weichere Textur umgewandelt.
 
@@ -80,7 +80,7 @@ Es gibt Momente sanften Jazz-Funks, die einem ein direktes Gefühl von Azimuths 
 
 ### ● Titelsong „Clareia“
 
-Dieses Lied, das man als Symbol des Albums bezeichnen kann, kombiniert Sabrinas sanfte Singstimme, dynamische Percussion und fließende Linien des Keyboards zu einer klaren Lichttextur.
+Dieses Lied, das als Symbol des Albums gelten kann, kombiniert Sabrinas sanfte Singstimme, dynamische Percussion und fließende Linien des Keyboards zu einer klaren Lichttextur.
 
 „Clareia“ erregte vom Zeitpunkt seiner Veröffentlichung an Aufmerksamkeit in der europäischen Jazz-/Clubwelt und führte zu einem späteren Remix-Projekt.
 
@@ -140,7 +140,7 @@ Man kann sagen, dass es sich um das „untergründigste“ Finish mit einer krä
 
 ## **5. UK Jazz ~ Resonanz mit gebrochenem Beat**
 
-Es ist leicht zu verstehen, warum Sabrinas Lieder bei britischen Künstlern so großen Anklang fanden.
+Es ist leicht zu erkennen, warum Sabrinas Lieder bei britischen Künstlern so großen Anklang fanden.
 
 * Azimuth ~ Ein „schwingender“ Groove, der zu brasilianischer Musik führt
 * Jazzsprache und sanfte Akkordarbeit

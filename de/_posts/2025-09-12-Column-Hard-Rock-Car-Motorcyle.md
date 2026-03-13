@@ -73,12 +73,12 @@ Dies spiegelte die amerikanische „Kultur der Geschwindigkeit“ der 1970er Jah
 ## ■ Motorgeräusch = ein weiterer Rock-Sound
 
 Hardrock wird von mehr als nur explosiven Gitarren und schwerem Schlagzeug getragen.
-Für die Fans war der Klang des Motors selbst „eine andere Art von Rock’n’Roll“.
+Für die Fans war der Sound des Motors selbst „eine andere Art von Rock’n’Roll“.
 
 - **Das Dröhnen des V8-Motors** schwingt mit dem Gitarrenriff mit und vermittelt dem Hörer ein Gefühl der körperlichen Befreiung.
 - Das Geräusch eines Motors ist „unkontrollierter Lärm“ und überschneidet sich mit dem rebellischen Geist des Rock, da er die soziale Ordnung und Stille stört.
 
-Das Dröhnen vorbeifahrender Autos und Motorräder war ein musikalisches Erlebnis für sich, eine „Rebellion durch Klang“ gegen bestehende Werte.
+Das Dröhnen der wegfahrenden Autos und Motorräder war selbst ein musikalisches Erlebnis, eine „Rebellion durch Klang“ gegen bestehende Werte.
 
 ---
 
@@ -134,7 +134,7 @@ Wenn das Dröhnen des Motors und das Gitarrenriff mitschwingen, erschüttert die
 
 | Songtitel | Künstler | Kommentar |
 |------|---------------|------|
-| Kickstart mein Herz | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
+| Kickstart My Heart | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
 | Verrückter Zug | Ozzy Osbourne | Ein rasantes Riff, das zum Fahren geeignet ist. |
 | Von einem Gebet leben | Bon Jovi | Singt über Jugend- und Roadmovie-Szenen. |
 | Pik-Ass | Motörhead | Lieder, die am engsten mit der Motorradkultur verbunden sind. |

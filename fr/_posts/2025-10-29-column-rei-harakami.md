@@ -23,7 +23,7 @@ title: '[Chronique] Rei Harakami - Le son électronique silencieux né à Kyoto'
 ## Prologue : Kyoto qui vit dans la salle de son
 
 
-Texte : mmr | Thème : La musique de Rei Harakami et l'atmosphère et l'esthétique de la ville de Kyoto
+Texte : mmr｜Thème : La musique de Rei Harakami et l'atmosphère et l'esthétique de la ville de Kyoto
 
 
 Quand j'écoute la musique de Rei Harakami, la première chose que je ressens est la « tranquillité ».
@@ -104,7 +104,7 @@ C'est comme l'automne à Kyoto, et c'est une tristesse qui fait rire en regardan
 
 ## Chapitre 4 : Harakami et ses amis - UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-La collaboration avec UA « Milk Tea » et Ryuichi Sakamoto est
+La collaboration avec UA « Milk Tea » et Ryuichi Sakamoto,
 Un nouvel élément de « voix humaine » a été ajouté à la musique de Rei Harakami.
 
 Ryuichi Sakamoto l'aurait décrit comme « le révolutionnaire le plus silencieux ».

@@ -84,7 +84,7 @@ Anita Bakers Aufnahmen konzentrierten sich auf die Distanz zwischen dem Auftritt
 
 ## Expansion und Wandel seit den 1980er Jahren
 
-In den 1980er Jahren wurde die Studioumgebung rasch digitalisiert. Die Mehrspuraufnahme wurde weiter unterteilt, wobei Synthesizer und Drum Machines im Mittelpunkt der Produktion standen. Auch Quiet Storm berücksichtigt diese Änderung und das Klangbild wird homogener und weicher.
+In den 1980er Jahren wurde die Studioumgebung rasch digitalisiert. Die Mehrspuraufnahme wurde weiter unterteilt, wobei Synthesizer und Drumcomputer im Mittelpunkt der Produktion standen. Auch Quiet Storm berücksichtigt diese Änderung und das Klangbild wird homogener und weicher.
 
 Auf Seiten der Radiosender sind Programmformate nun klar definiert und Songauswahllisten werden gemeinsam genutzt. Obwohl DJs immer noch über ein gewisses Maß an Diskretion verfügten, wurden die Standards für Tempo und Stimmung strenger und die Konsistenz wurde betont, da nächtlicher R&B im Vordergrund stand. Dies ermöglicht Ihnen ein ähnliches Erlebnis, egal in welcher Stadt Sie sich befinden.
 
@@ -110,7 +110,7 @@ Quiet Storm wurde in Japan durch importierte Alben und UKW-Radio bekannt. Durch 
 
 Der Einfluss zeigte sich auch in der Studioproduktion. In der heimischen R&B- und Popmusik begann man, in Balladen für den Abend auf Distanz und Zurückhaltung bei der Anzahl der Gesangsstimmen zu achten. Quiet Storm wurde nicht direkt nachgeahmt, sondern als Leitfaden für die Produktion herangezogen.
 
-> Trotz unterschiedlicher kultureller Hintergründe war der Wunsch nach nächtlicher Musik geteilt.
+> Trotz unterschiedlicher kultureller Hintergründe war der Wunsch nach Musik in der Nacht geteilt.
 
 ---
 
@@ -134,7 +134,7 @@ A --> B --> C --> D --> E
 
 Das größte Vermächtnis von Quiet Storm in der Musikgeschichte ist die Idee, Musik basierend auf der Hörumgebung zu entwerfen. Seine Perspektive, Studio, Radio und Hörerraum als zusammenhängenden Raum zu betrachten, hatte großen Einfluss auf die spätere Musikproduktion.
 
-Im Streaming-Zeitalter sind Playlists, die nach Stimmung oder Tageszeit kategorisiert sind, alltäglich geworden. Wenn wir seinen Ursprung auf Quiet Storm zurückführen, das spät in der Nacht leise im Radio gespielt wurde.
+Im Streaming-Zeitalter sind Playlists, die nach Stimmung oder Tageszeit kategorisiert sind, alltäglich geworden. Wenn wir seinen Ursprung auf „Quiet Storm“ zurückführen, das spätnachts leise im Radio gespielt wurde.
 
 > Silent Storm hat das Verhältnis von Musik und Zeit entscheidend verändert.
 

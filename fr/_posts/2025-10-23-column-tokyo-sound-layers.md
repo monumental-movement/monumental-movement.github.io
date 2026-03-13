@@ -91,7 +91,7 @@ La lignée de sons électroniques construite par YMO dans les années 1980 évol
 Musique de jeu, vocaloids, chip tunes, remix de chansons d'anime.
 Bien qu'il s'agisse d'un creuset de sous-cultures, il a formé un nouveau contexte qui se connecte à la scène électronique mondiale.
 
-### 2. Les sons d'Akihabara sont de la « réalité augmentée »
+### 2. Le son d'Akihabara est une « réalité augmentée »
 Une ville où « musique » et « technologie » fusionnent. Diffusion en direct, VTuber, musique AI.
 Akihabara est un « terrain d'essai pop futuriste » et évolue selon une chronologie différente de celle des autres quartiers de Tokyo.
 

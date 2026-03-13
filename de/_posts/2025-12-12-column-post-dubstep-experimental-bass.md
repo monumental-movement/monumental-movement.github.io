@@ -22,9 +22,9 @@ Text: mmr｜Thema: Über die neue Basskultur, die aus urbanen Nachhall entsteht
 
 Post-Dubstep ist eine Bewegung, die den Bass-Ausdruck nach Dubstep erweiterte und sich Ende der 2000er Jahre hauptsächlich in London formierte. Ausgehend vom tiefen Bass, der vom Dub abgeleiteten räumlichen Verarbeitung und der Garagenrhythmusstruktur des traditionellen Dubstep zeichnet es sich dadurch aus, dass es sich auf R&B, Soul, experimentelle elektronische Musik, Ambient und kunstorientierte Beatmusik ausgeweitet hat.
 
-In Südlondon (Croydon, Brixton usw.), dem Zentrum des frühen Dubstep, gab es einen „dunklen Subbass-Sound“, der durch die DMZ-Partykultur etabliert wurde, aber etwa von 2006 bis 2009 begannen junge Produzenten, vielfältigere Elemente einzuführen. Zu den Vertretern dieser Generation zählen **Burial**, **Mount Kimbie** und **James Blake**, die später weltweite Anerkennung erlangten.
+In Südlondon (Croydon, Brixton usw.), dem Zentrum des frühen Dubstep, gab es einen „dunklen Subbass-Sound“, der sich durch die DMZ-Partykultur etablierte, aber etwa von 2006 bis 2009 begannen junge Produzenten, vielfältigere Elemente einzuführen. Zu den Vertretern dieser Generation zählen **Burial**, **Mount Kimbie** und **James Blake**, die später weltweite Anerkennung erlangten.
 
-Indem sie nicht nur die Clubkultur, sondern auch „urbane Nachhallzeiten“ wie Stadtlärm, Nachtverkehr, Handyaufnahmen und Feldaufnahmen als Beispielmaterialien einbezog, schufen sie eine neue Emotionalität, die in herkömmlicher Bassmusik nicht vorhanden war.
+Durch die Einbeziehung nicht nur der Clubkultur, sondern auch „urbaner Nachhall“ wie Stadtlärm, Nachtverkehr, Handyaufnahmen und Feldaufnahmen als Beispielmaterialien schufen sie eine neue Emotionalität, die in herkömmlicher Bassmusik nicht vorhanden war.
 
 ---
 
@@ -181,7 +181,7 @@ Seit den 2010er Jahren hat sich Post-Dubstep über ein vom Dubstep abgeleitetes 
 ### 6-1 Typische Frequenzbandverteilung
 - 20~60Hz: Sinuswellenbasis
 - 200–800 Hz: Feldaufnahme/Geräusch/Gesangsfragmente
-- 1~3kHz: Chirp-Sound, verarbeitete Percussion
+- 1~3 kHz: Chirp-Sound, verarbeitete Percussion
 - 8~12 kHz: Luftgefühl, Zerstäubungsgeräusch
 
 ### 6-2 Liedkomposition

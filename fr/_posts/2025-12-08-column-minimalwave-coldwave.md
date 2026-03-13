@@ -156,7 +156,7 @@ Les disques et cassettes Minimal Wave/Coldwave partagent une esthétique commune
 
 ### ● 5-2. Comment utiliser les photos
 - Les photos d'artistes sont sans expression et présentent un fort contraste
-- De nombreux arrière-plans incluent des zones industrielles/souterraines/ruines, etc.
+- De nombreux arrière-plans sont des zones industrielles/souterraines/ruines, etc.
 
 ### ● 5-3. Texture d'impression bricolage
 - Risographie, sérigraphie, rugosité photocopieuse
@@ -262,7 +262,7 @@ timeline
 - **Minimalisme + charme primitif des sons électroniques analogiques**
 - **Force spirituelle DIY**
 - **Solitude et froideur héritées du post-punk**
-- **Esthétique lo-fi de la culture des cassettes**
+- **Esthétique lo-fi de la culture cassette**
 
 Ceux-ci sont également communs à la culture moderne des producteurs de chambres à coucher et à Synthwave/Vaporwave.
 Parallèlement à la réévaluation des équipements analogiques, Minimal Wave/Coldwave continuera d’être exploré et mis à jour.

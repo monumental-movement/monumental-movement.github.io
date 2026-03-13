@@ -14,7 +14,7 @@ title: Aerial – Star Of The Show EP
 ---
 
 
-Aerial은 1990년대 후반부터 스코틀랜드의 인디 씬에서 활약한 파워팝 밴드. 2000년 런던의 라벨 Fantastic Plastic Records에서 'Signal E.P.'를 발매하고 2001년에는 일본 라벨 Syft Records에서 데뷔 앨범 'Back Within Reach'를 발표했다.
+Aerial은 1990년대 후반부터 스코틀랜드의 인디 씬에서 활약한 파워팝 밴드. 2000년 런던 라벨 Fantastic Plastic Records에서 'Signal E.P.'를 발매하고 2001년에는 일본 라벨 Syft Records에서 데뷔 앨범 'Back Within Reach'를 발표했다.
 
 'Star Of The Show EP'는 데뷔 앨범 'Back Within Reach'에 수록되어 있으며, 다른 3곡은 미수록곡.
 

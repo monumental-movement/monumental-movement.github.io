@@ -31,5 +31,5 @@ Dieses Mini-Album wurde 2007 von Victor veröffentlicht.
 
 [メルカリで購入](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/INZo6eIFzuc?si=G63hMbf7RxlK7Hnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

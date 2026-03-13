@@ -89,7 +89,7 @@ C'est le début d'une rupture avec le genre, et ne peut être catégorisé comme
 # 4. Expansion des activités de Koichi Makigami (fin des années 1980 – années 1990)
 —À la techno, à la musique folk, au thérémine et aux arts du spectacle
 
-Parallèlement aux activités de groupe, le leader Koichi Makigami élargit le champ de ses activités en mettant l'accent sur **l'expansion de la voix**.
+Parallèlement aux activités du groupe, le leader Koichi Makigami élargit le champ de ses activités en mettant l'accent sur **l'expansion de la voix**.
 
 - Exploration plus approfondie du chant diphonique
 - Collaboration avec la danse contemporaine
@@ -222,7 +222,7 @@ Il ne suffit pas de parler simplement de Hikashu comme d’une « légende de la
 —L'« état » de Hikashu
 
 Hikashu est plus qu'un « groupe », c'est un terrain d'expérimentation du son, du corps et de l'humour.
-Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « maintenant ».
+Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « présent ».
 
 Cette attitude est d’une valeur unique dans l’histoire de la musique japonaise.
 Hikashu ne se termine jamais. Ils existent toujours comme un « État » permanent.

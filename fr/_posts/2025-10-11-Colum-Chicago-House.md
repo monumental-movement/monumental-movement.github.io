@@ -122,7 +122,7 @@ Can You Feel It, produit par Larry Heard, est une anecdote qui symbolise la dém
 
 ---
 
-## Chapitre 6 : Des relations surprenantes
+## Chapitre 6 : Relations inattendues
 
 Chicago House recoupe des domaines apparemment sans rapport.
 

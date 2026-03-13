@@ -15,9 +15,9 @@ title: Supertramp – Crime Of The Century
 
 Supertramp (슈퍼 트럼프)는 영국의 프로그레시브 록 밴드.
 
-1974년 출시된 'Crime Of The Century'는 슈퍼 트럼프의 세 번째 스튜디오 앨범으로 밴드의 대표작 중 하나로 높은 평가를 받고 있으며, 특히 앨범에 수록된 'Dreamer'와 'Bloody Well Right'는 밴드의 대표곡으로 잘 알려져 있습니다.
+1974년 출시된 'Crime Of The Century'는 슈퍼 트럼프의 세 번째 스튜디오 앨범으로 밴드 대표작 중 하나로 높은 평가를 받았으며, 특히 앨범에 수록된 'Dreamer'와 'Bloody Well Right'는 밴드의 대표곡으로 잘 알려져 있습니다.
 
-프로그레시브 록과 아트 락의 요소를 도입한 'Crime Of The Century'는 음악 비평가와 팬들로부터 높은 평가를 받고 슈퍼 트럼프의 성공의 초석이 된 중요한 앨범으로 되어 있으며, 70년대 록 음악의 걸작 중 하나로 유명한 한 장.
+프로그레시브 락과 아트 락의 요소를 도입한 'Crime Of The Century'는 음악 비평가와 팬들로부터 높은 평가를 받고 슈퍼 트럼프의 성공의 초석이 된 중요한 앨범으로 되어 있으며, 70년대 록 음악의 걸작 중 하나로 유명한 한 장.
 
 #### Tracklist
 ```md

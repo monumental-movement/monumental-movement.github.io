@@ -19,7 +19,7 @@ title: '[Chronique] Déclin et renaissance de la culture radiophonique interpré
 
 ## Un appareil appelé radio qui existait avant la musique
 
-Texte : mmr｜Thème : Les médias de la voix qui se transforment à travers la musique - À propos de l'histoire culturelle de la radio aux podcasts
+Texte : mmr｜Thème : Les médias de la voix qui se transforment à travers la musique - L'histoire culturelle de la radio aux podcasts
 
 
 La radio est souvent considérée comme un média musical, mais son essence, lorsqu’elle a été inventée, était le partage simultané de l’audio.
@@ -68,7 +68,7 @@ L’expérience d’écouter la même chanson en même temps a élevé la musiqu
 La radio a créé une existence qui présente non seulement la musique elle-même, mais aussi « comment écouter de la musique ».
 Le DJ était le sélecteur de musique, le commentateur et le conteur.
 
-Ordre des chansons, fuseau horaire et commentaires.
+Ordre des chansons, heure et commentaires.
 Ceux-ci donnent un contexte à la musique et définissent le genre.
 
 Le phénomène de la musique introduite par un DJ particulier étant reconnu comme un genre s'est répété partout dans le monde.
@@ -87,14 +87,14 @@ Les créneaux de diffusion fixent les genres et la musique se standardise en fon
 Durée de la chanson, intro, placement du refrain.
 Le format musical lui-même a été optimisé pour la durée de diffusion.
 
->La radio a favorisé les genres et les a façonnés en même temps.
+> La radio cultive les genres et les façonne en même temps.
 
 ---
 
 ## Changement de leadership grâce à la télévision et à la culture visuelle
 
 
-À partir des années 1950, la télévision est devenue le média central de la culture musicale.
+Depuis les années 1950, la télévision est devenue un média central de la culture musicale.
 La musique déplace le centre de gravité d’une expérience auditive vers une expérience visuelle.
 
 L’arrivée de MTV dans les années 1980 a déterminé cette tendance.
@@ -114,7 +114,7 @@ Dans la voiture, en travaillant, tard le soir.
 La radio survivra en tant que « voix qui ne nécessite pas de concentration ».
 
 Durant cette période, la musique devient musique d’ambiance et le récit se simplifie.
-Même si son influence a diminué, son omniprésence dans la vie quotidienne est restée la même.
+Même si son influence a diminué, son omniprésence dans la vie quotidienne est restée.
 
 > La radio a survécu comme fond sonore.
 
@@ -129,7 +129,7 @@ Ceux-ci sont devenus des éléments inutiles pour la distribution audio.
 La lecture à la demande élimine le besoin de simultanéité et le concept d’organisation.
 La radio n'a plus besoin d'être une « émission ».
 
->Le son s'est affranchi des ondes radio.
+> La voix s'est libérée des ondes radio.
 
 ---
 
@@ -161,7 +161,7 @@ Il s’agit d’une réinvention plus personnelle et plus longue de la culture D
 
 
 L'économie traditionnelle de la radio reposait sur la publicité.
-La structure dans laquelle la valeur était déterminée par les audiences et le nombre de téléspectateurs a été optimisée pour une diffusion à grande échelle.
+La structure dans laquelle la valeur était déterminée par les audiences et la portée des téléspectateurs a été optimisée pour une diffusion à grande échelle.
 
 Les cultures musicales de niche et les récits spécialisés sont difficiles à établir dans ce modèle.
 

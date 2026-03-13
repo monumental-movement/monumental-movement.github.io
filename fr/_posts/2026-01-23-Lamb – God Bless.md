@@ -10,18 +10,18 @@ tags:
 - Drum n Bass
 - Trip Hop
 - 90s
-title: Agneau – Que Dieu vous bénisse
+title: Lamb – God Bless
 ---
 
 
 
-Lamb est un duo électronique de Manchester, en Angleterre, dont le style est une fusion de trip-hop, de jungle, de dub, de drum & bass et de jazz. Il est surtout connu pour ses singles à succès « Gorecki » et « Gabriel ».
+Lamb(ラム)は、トリップホップ、ジャングル、ダブ、ドラム&ベース、ジャズを融合させたスタイルが特徴の、イギリス・マンチェスターのエレクトロニック・デュオ。ヒットシングル「Gorecki」「Gabriel」でよく知られている。
 
-"God Bless" est un morceau Drum n Bass/Trip Hop sorti en maxi single du premier album studio "Lamb" sorti par le label Fontana en 1996.
+「God Bless 」は、1996年にレーベルFontanaリリースされたデビュースタジオアルバム『Lamb』からのマキシシングルとしてリリースされたDrum n Bass／Trip Hopトラック。
 
-B1 est un remix du producteur britannique Luke Vibert, également connu sous le nom de Plug and Wagon Christ.
+B1は、 Plug や Wagon Christ名義でも知られるUKのプロデューサーLuke Vibertによるリミックス。
 
-B2 est un remix d'Andrea Parker, connue pour l'album "Kiss My Arp" sorti sur Mo'Wax.
+B2は、Mo' Waxからリリースしたアルバム『Kiss My Arp』で知られるAndrea Parkerによるリミックス。
 
 #### Liste des chansons
 ```md

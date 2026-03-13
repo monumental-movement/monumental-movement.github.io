@@ -13,11 +13,11 @@ title: Staxx Of Joy Featuring Carol Leeming – You
 ---
 
 
-Staxx Of Joy는 하우스 갤러지 프로듀서인 Simon Thorne과 Tom Jones의 유닛.
+Staxx Of Joy는 하우스 갈라지 프로듀서의 Simon Thorne과 Tom Jones의 유닛.
 
 별명의로 staxx, Katch, So Damn Tuff, Tuff Boys, Tuff Productions 등이 있다.
 
-"You"는 UK의 가수 Carol Leeming을 특징으로 한 하우스 트랙. 1995년에 Columbia에서 발매되었다.
+"You"는 UK의 가수 Carol Leeming을 특징으로 한 하우스 트럭. 1995년에 Columbia에서 발매되었다.
 
 B면 1곡째는, 하우스 DJ·프로듀서 Junior Vasquez(주니어·바스케스)에 의한 remix.
 

@@ -15,7 +15,7 @@ title: The Cage avec Nona Hendryx – Fais ce que tu veux faire
 
 The Cage est un groupe formé principalement par Nona Hendryx, avec la participation de Rusty Egan (batterie), Steve Barnacle (basse/guitare) et Gary Barnacle (saxophone/synthé), qui étaient membres du groupe synth pop britannique Visage, célèbre pour être le berceau du mouvement New Romantic.
 
-"Do What Ya Wanna Do", sorti en 1982, est une reprise d'un morceau disco sorti par T-Connection en 1977, arrangé dans un style Funk Disco. Il est très apprécié comme un croisement entre la scène disco et post-punk.
+1982年にリリースされた「Do What Ya Wanna Do」は、1977年にT-ConnectionがリリースしたDiscoトラックをFunk Discoテイストにアレンジしたカヴァーヴァージョン。ディスコ・シーンとポストパンクのクロスオーバーとして高く評価されている。
 
 
 #### Liste des chansons

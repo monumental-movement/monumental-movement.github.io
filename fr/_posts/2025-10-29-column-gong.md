@@ -168,7 +168,7 @@ Même après le décès d'Allen en 2015, Gong continue de vivre comme une « con
 ## Chapitre 8 Le monde de la mythologie Gong : personnages, iconographie et vision du monde {#chapter8}
 
 Le Gong est un art complet qui intègre la musique, la mythologie et l'art.
-Centrés autour de la trilogie Radio Gnome, les personnages, les planètes, les langues, les stations de diffusion, etc. sont intimement liés.
+Centrés autour de la trilogie Radio Gnomes, les personnages, les planètes, les langues, les stations de diffusion, etc. sont intimement liés.
 
 Vous trouverez ci-dessous un diagramme montrant sa structure symbolique :
 
@@ -250,7 +250,7 @@ timeline
 
 ---
 
-## Qu'était-ce que Gong ?
+## Qu'est-ce que Gong ?
 
 Plutôt qu'un « groupe de musique », c'était **une autre façon d'être au monde**.
 Et même maintenant, à une certaine fréquence en nous,

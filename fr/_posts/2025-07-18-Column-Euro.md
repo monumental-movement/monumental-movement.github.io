@@ -9,7 +9,7 @@ permalink: /fr/column-euro/
 tags:
 - Euro
 - 90s
-title: '[Chronique] Qu''était-ce que la musique européenne des années 90 ? ──Un festin
+title: '[Chronique] Qu''était-ce que la musique européenne des années 90 ? ──Un festin
   de pistes de danse et de mélodies'
 ---
 
@@ -138,7 +138,7 @@ Une base de « culture de la danse visuelle » qui vend de la vidéo et de la mu
 
 Une série développée indépendamment au Japon par Avex. Également lié à la culture Initial D.
 
-**QuantityDisque réimporté produit en Europe et distribué au Japon**
+** ● Disque réimporté produit en Europe et distribué au Japon **
 
 Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAHARAJA NIGHT)
 
@@ -164,7 +164,7 @@ Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAH
 
 <hr>
 
-### Pourquoi les critiques l'ont-ils ignoré ? ─ « Légèreté » et « Anti-Art »
+### Pourquoi les critiques l'ont-ils ignoré ? ──"Légèreté" et "Anti-Art"
 
 Pendant longtemps, la musique européenne n’a pas été bien accueillie par la critique. La raison est la suivante :
 
@@ -189,7 +189,7 @@ Ces dernières années, Euromusic a été réévalué des manières suivantes :
 
 - Comme City Pop, l'Eurobeat du Japon a été redécouvert par la génération Internet.
 
-De plus, l'euro des années 90 touche un nouveau public grâce à une lecture accrue sur Spotify et YouTube.
+De plus, l'euro des années 90 touche un nouveau public grâce à une écoute accrue sur Spotify et YouTube.
 
 
 

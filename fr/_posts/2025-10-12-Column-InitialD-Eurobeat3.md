@@ -24,7 +24,7 @@ title: '[Chronique] Au-delà de la dérive : Eurobeat/EDM et la future forme de 
 Texte : mmr｜Thème : Initial D, Eurobeat, et le sort de « l'accélération du son » qui s'ensuit.
 
 
-«Initial D» et Eurobeat. L’époque où ces liens fonctionnaient comme un dispositif culturel ne peut plus être évoquée uniquement par « nostalgie ».
+« Initiale D » et Eurobeat. L’époque où ces liens fonctionnaient comme un dispositif culturel ne peut plus être évoquée uniquement par « nostalgie ».
 De la fin des années 1990 au début des années 2000, la résonance des images de voitures traversant des cols de montagne et des sons au tempo élevé ont créé une expérience inconsciente et partagée.
 Vitesse = musique, et musique = accélération des émotions.
 
@@ -49,7 +49,7 @@ color: #fff;
 
 ---
 
-## 1. De la « passe » à la « trajectoire » : la gradation de l'espace musical tracée par Eurobeat
+## 1. De « passe » à « orbite » : la gradation de l'espace musical tracée par Eurobeat
 
 Comme mentionné dans les deux ouvrages précédents, l'Eurobeat d'Initial D était indissociable de l'histoire de Toge.
 Cependant, il ne s'agissait pas seulement d'une aide au terrain et à la production visuelle, mais d'un **dispositif qui traduisait la distorsion du temps en son**.
@@ -146,9 +146,9 @@ L'ère où « votre conduite devient une chanson » commence déjà à devenir
 
 ### ● La renaissance d'Eurobeat sur SNS
 
-Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x votre propre vidéo de conduite » a augmenté de manière explosive.
+Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x propre vidéo de conduite » a augmenté de manière explosive.
 Il ne s'agit pas seulement de nostalgie, mais fonctionnent comme un « nouveau format pour partager la sensation de conduire ».
-Il s'agit, pour ainsi dire, d'un « support de partage rapide ».
+Il s'agit, pour ainsi dire, d'un « média de partage rapide ».
 
 ### ● NFT/Blockchain et redéfinition de la propriété musicale
 

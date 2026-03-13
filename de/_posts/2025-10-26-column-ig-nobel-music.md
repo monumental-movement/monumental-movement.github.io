@@ -46,7 +46,7 @@ Der **Ig-Nobelpreis** ist als „exzentrischer kleiner Bruder“ des Nobelpreise
 Seit seiner Gründung im Jahr 1991 durch die amerikanische satirische Wissenschaftszeitschrift *Annals of Improbable Research*
 Der Preis wird an Forschung verliehen, die Menschen zum Lachen und Nachdenken anregt.
 
-Neben Bereichen wie Physik, Medizin, Frieden und Literatur wird dieser Preis auch in Bereichen wie Physik, Medizin, Frieden und Literatur vergeben.
+Neben Bereichen wie Physik, Medizin, Frieden und Literatur wird dieser Preis auch in Bereichen wie Physik, Medizin, Frieden und Literatur verliehen.
 Forschungen zu „Klang“ und „Musik“ haben oft Aufmerksamkeit erregt.
 Dies liegt daran, dass die Wissenschaft des Schalls nicht nur ein Wellenphänomen ist.
 Dies liegt daran, dass es tief in die menschlichen Emotionen, die Gesellschaft und die Physiologie eindringt.
@@ -84,12 +84,12 @@ Es wurde als eine Idee hoch gelobt, die die Grenzen zwischen Kunst und Wissensch
 ### 2.2 2017: Forschung zum „Vaginal Music Player“.
 
 Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​Spanien, durchgeführt
-Er gewann den Ig-Nobelpreis für Medizin.
+Gewinner des Ig-Nobelpreises für Medizin.
 Dieses Team entwickelte einen **intravaginalen Lautsprecher** namens „Babypod“,
 Wir haben untersucht, wie Föten im Mutterleib auf musikalische Reize reagieren.
 
 Untersuchungen zufolge ist es im Vergleich dazu, wenn der Ton über einen Lautsprecher von außerhalb des Körpers der Mutter abgespielt wird,
-Es wird gesagt, dass der Fötus darauf reagierte, indem er seinen Mund und seine Zunge bewegte, wenn die Vibrationen direkt über den Babypod angewendet wurden.
+Es heißt, dass der Fötus darauf reagierte, indem er seinen Mund und seine Zunge bewegte, wenn die Vibrationen direkt über den Babypod angewendet wurden.
 Dieses Ergebnis deutet auf eine „frühe Entwicklung der fötalen Hörreaktion“ hin.
 Wissenschaftlich bestätigte die Möglichkeit, dass Musik mit der physiologischen Entwicklung zusammenhängt.
 Es erregte auch große gesellschaftliche Aufmerksamkeit als Beispiel für die Visualisierung der „Verbindung zwischen Leben und Klang“.

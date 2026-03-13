@@ -58,7 +58,7 @@ color: #fff;
 | Pierre Schäffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4’33’’ | 1952 |
 | John Cage | Williams-Mix | 1952 |
-| Pierre Henry | Symphonie für einen Mann seines Herzens | 1950 |
+| Pierre Henry | Symphonie für einen Menschen | 1950 |
 | Karlheinz Stockhausen | Studie II | 1954 |
 | Edgard Varèse | Poème électronique | 1958 |
 | John Cage | Imaginäre Landschaft Nr.4 | 1951 |
@@ -154,7 +154,7 @@ color: #fff;
 ---
 
 
-## 1990er: Digitale Experimente und Glitches
+## 1990er Jahre: Digitale Experimente und Glitches
 - **Hintergrund:** Mit der Verbreitung von PCs und Samplern schritt die akustische Dekonstruktion und Rekonstruktion voran. Verbindet sich auch mit IDM und Ambient-Musik.
 - **Ausrüstung:** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## 2000er: Laptops und Globalisierung
-- **Hintergrund:** Noise, Electronica und Field Recordings verbreiten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
+- **Hintergrund:** Noise, Electronica und Field Recording verbreiteten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
 - **Ausrüstung:** Ableton Live, SuperCollider, Kontakt, Laptop.
 
 ### Meisterwerk
@@ -231,7 +231,7 @@ color: #fff;
 | Tim Hecker | Jungfrauen | 2013 |
 | Holly Herndon | Chor | 2014 |
 | Ben Frost | Venter | 2014 |
-| Yves-Tumor | Eine Orchidee lecken | 2018 |
+| Yves Tumor | Eine Orchidee lecken | 2018 |
 | Caterina Barbieri | Fantasien | 2019 |
 | Kaitlyn Aurelia Smith | Eine Absicht | 2016 |
 | Roly Porter | 4101 | 2016 |

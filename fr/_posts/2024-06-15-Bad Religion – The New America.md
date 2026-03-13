@@ -11,13 +11,13 @@ tags:
 - Rock
 - US Punk
 - 00s
-title: Mauvaise religion – La nouvelle Amérique
+title: Bad Religion – The New America
 ---
 
 
-Bad Religion est un groupe de punk rock formé à Los Angeles et est une figure de proue du punk rock moderne, connu comme l'un des groupes qui ont créé le style hardcore mélodique.
+Bad Religion（バッドレリジョン）は、ロサンゼルスで結成されたパンクロックバンドで、メロディック・ハードコアのスタイルを生み出したグループの一つとして知られる現代パンク・ロックの重鎮。
 
-"The New America", sorti en 2000, est leur 11ème album studio, les pistes 14 et 15 étant des pistes bonus sur la version japonaise.
+2000年にリリースされた「The New America」は、11枚目のスタジオアルバムで、14、15曲目は日本盤ボーナストラック。
 
 #### Liste des chansons
 ```md

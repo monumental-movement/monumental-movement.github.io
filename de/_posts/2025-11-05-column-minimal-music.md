@@ -22,7 +22,7 @@ title: '[Kolumne] Expandierende Entwicklung der Minimal Music: Ästhetik der Wie
 Text: mmr｜Thema: „Ästhetik von Wiederholung und Veränderung“ – Eine Querschnittsinterpretation von Minimal Music, dem reichsten Ausdruck von Musik, der durch „Knappheit“ erreicht wird, von Klassik über Techno bis zum zeitgenössischen Japan.
 
 Ein einzelner Ton erklingt und verschwindet dann lautlos.
-Der nächste Ton erscheint erneut, aus einem etwas anderen Winkel.
+Der nächste Ton erscheint erneut, nur aus einem etwas anderen Blickwinkel.
 Wenn diese Serie Gestalt annimmt, hören wir nicht mehr auf die „Geschichte“ der Musik, sondern auf ihre „Existenz selbst“.
 – Das war der Beginn der Minimal Music.
 
@@ -46,7 +46,7 @@ Wir verfolgen, wie daraus ein einziger sinnlicher und philosophischer Trend wurd
 Minimalismus bedeutet nicht nur „Entkleiden“.
 Es ist ein Akt des Betrachtens der „Ewigkeit“, die in der kleinsten Klangeinheit steckt.
 Eine unendliche Fluktuation, die zwischen Stille und Rhythmus entsteht.
-In dieser Umgebung spüren Menschen „Präsenz“ durch das Hören.
+In dieser Umgebung spüren Menschen „Präsenz“ durch Hören.
 
 ---
 
@@ -82,7 +82,7 @@ Diese „freie Wiederholung“ ist eine Idee, die später zur elektronischen Mus
 
 Steve Reichs nächstes Werk, Piano Phase (1967), kontrollierte die „Diskrepanzen“ in der Wiederholung streng.
 Indem zwei Pianisten dieselbe Phrase spielen und einer das Tempo leicht beschleunigt,
-Das Klangmuster verschiebt sich allmählich. Diese „Phasenverschiebung“ ist es
+Das Klangmuster verschiebt sich allmählich. Diese „Phasenverschiebung“ ist was
 Es sah die Ästhetik von Loop-Strukturen im späteren Techno voraus.
 
 ---
@@ -134,7 +134,7 @@ Durch die Wiederholung und den Nachhall niedriger Frequenzen entstand ein akusti
 
 Brian Enos Musik für Flughäfen (1978)
 Es ist nicht nur der Vater der Ambient-Musik, sondern auch der Ursprung des „statischen Minimalismus“.
-Die zufällige Überlappung von Loop-Tapes erweiterte die auditive Zeitachse.
+Die zufällige Überlappung von Looptapes erweiterte die auditive Zeitlinie.
 
 Später, in Radioheads „Everything in Its Right Place“ (2000),
 Sich wiederholende Synthesizer und Gesangsloops verleihen der Popmusik ein Reichsches Phasengefühl.
@@ -170,7 +170,7 @@ Der akustische Raum wurde als „digitaler Minimalismus“ präsentiert.
 | Ryoji Ikeda | 《Dataplex》《Testmuster》 | Mathematischer/Frequenz-Minimalismus |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion von Elektroakustik und Klavier |
 | Rei Harakami | 《Red Curb》《lust》 | Warme Wiederholung der Lo-Fi-Elektronik |
-| Asa-Chang & Pilgerfahrt | 《Blumen》 | Schnittstelle zwischen Minimalismus und menschlicher Stimme |
+| Asa-Chang & Pilgerreise | 《Blumen》 | Schnittstelle zwischen Minimalismus und menschlicher Stimme |
 
 ---
 

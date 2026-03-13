@@ -29,7 +29,7 @@ Goa Gil ist ein amerikanischer DJ und eine der zentralen Figuren aus den Anfäng
 * Bekannt für lange Sets von über 10 Stunden
 * Gestorben im Jahr 2023
 
-> Für ihn war DJing ein Akt der Demontage und Rekonstruktion der Zeit.
+> DJing war für ihn ein Akt der Demontage und Rekonstruktion der Zeit.
 
 ---
 
@@ -113,7 +113,7 @@ Seit den 1990er Jahren tritt er auf Festivals auf der ganzen Welt auf.
 
 An beiden Veranstaltungsorten wurden lange Sets beibehalten. Eine Spieldauer von mehr als 12 Stunden ist keine Seltenheit.
 
-Das Publikum tanzt die ganze Nacht lang und empfindet bei Sonnenaufgang ein Gefühl der Einheit. Zur Bühnendekoration gehörten oft Statuen hinduistischer Gottheiten, psychedelische Kunst und fluoreszierende Stoffe.
+Das Publikum tanzt durch die Nacht und teilt ein Gefühl der Einheit, während die Sonne aufgeht. Zur Bühnendekoration gehörten oft Statuen hinduistischer Gottheiten, psychedelische Kunst und fluoreszierende Stoffe.
 
 >Selbst wenn die Partei das Land wechselte, blieb der Zeitfluss derselbe.
 
@@ -197,7 +197,7 @@ Die Partykultur in Goa bot ein anderes Zeitdesign als kommerzielle Clubs.
 * DJ ist die Person, die den Abend gestaltet
 * Dawn ist ein wichtiges Produktionselement
 * Gemeinschaftsaufbau durch Tanz
-* Nichtkommerzielle/mobile Kultur
+* Nicht-kommerzielle/mobile Kultur
 
 Die 24-Stunden-Termine der heutigen großen Psychedelic-Festivals sind eine Erweiterung dieser Kultur.
 

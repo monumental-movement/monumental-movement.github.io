@@ -92,7 +92,7 @@ flowchart LR
 
 ### J Dilla
 
-Donuts (2006)는 짧은 루프의 연속으로 구성되며, 앰비언트 요소를 가진 비트는 명상 집중을 초래합니다.
+Donuts (2006)는 짧은 루프의 연속으로 구성되어 앰비언트 요소를 가진 비트가 명상 집중을 초래합니다.
 
 ### Flying Lotus
 
@@ -130,7 +130,7 @@ sequenceDiagram
     T->>L: Ambientで余韻
 </div>
 
-> 재생목록 설계로 청취자는 단순한 음악 감상을 넘어 내면적인 여행을 체험할 수 있다
+> 재생목록 디자인으로 청취자는 단순한 음악 감상을 넘어 내면적인 여행을 체험할 수 있다
 
 ---
 
@@ -147,7 +147,7 @@ sequenceDiagram
 
 ## 스트리밍 문화와 재생목록 확산
 
-2010년대 이후 Spotify나 YouTube에서 Lo-Fi Hip Hop/Ambient Rap 플레이리스트가 확대. '집중', '명상', '작업용' 태그에 의해 리스너는 선곡 망설이지 않고 액세스 가능하게 되었다.
+2010년대 이후 Spotify나 YouTube에서 Lo-Fi Hip Hop/Ambient Rap 플레이리스트가 확대. '집중', '명상', '작업용' 태그로 청취자는 선곡 망설이지 않고 액세스 가능하게 되었다.
 
 <div class="mermaid">
 pie

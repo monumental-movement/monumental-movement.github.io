@@ -113,13 +113,13 @@ Für Zeni Geva hatte die Hinzufügung von Yoshida erneut einen starken Einfluss.
 
 ---
 
-## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und weltweit erneuerte Aufmerksamkeit
+## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und globale Neuaufmerksamkeit
 ### „Lebendig und aufstrebend (2010)“
 - Live-Soundquelle aus dem Lineup von 2009
 - Tatsuya Yoshidas perverses Schlagzeug und Null & Tabatas Gitarrenduell sind spektakulär
 
 Seitdem wurden die Live-Aktivitäten in Asien und Europa wieder aufgenommen.
-Zeni Geva erfährt erneut Aufmerksamkeit in der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
+Zeni Geva erhält erneut Aufmerksamkeit aus der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
 
 ---
 

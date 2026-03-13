@@ -10,20 +10,19 @@ permalink: /fr/column-glitchcore-hyper-glitch/
 tags:
 - Glitchcore
 - Hyper-Glitch
-title: '[Chronique] Glitchcore / Hyper-Glitch Pop continue de s''effondrer, le futur
-  du son s''accélère'
+title: 【コラム】 Glitchcore / Hyper-Glitch 壊れ続けるポップ、加速する音の未来
 ---
 
 
 
 ## aperçu
 
-Texte : mmr｜Thème : Processus de formation du Glitchcore/Hyper-Glitch, techniques acoustiques, contexte culturel, artistes représentatifs, développement dans les années 2020 et perspectives d'avenir
+文：mmr｜テーマ：Glitchcore / Hyper-Glitch の成立過程、音響技法、文化的背景、代表的アーティスト、2020年代の発展、そして今後の展望について
 
-Le Glitchcore et l'Hyper-Glitch sont une tendance de la musique pop/électronique générée sur Internet qui se produit depuis la fin des années 2010, avec la « corruption », la « fragmentation » et la « surcharge » au centre de son esthétique.
-Clics, bruit, distorsion numérique, pitch shifts, traitement de type Vocaloid, développement rapide des chansons, étranges fluctuations de tempo - la caractéristique la plus distinctive de cet album est qu'il tente d'exprimer un « équilibre entre excès et déclin » en fusionnant ces éléments dans un contexte hautement pop.
+Glitchcore（グリッチコア）および Hyper-Glitch（ハイパーグリッチ）は、2010年代後半以降のインターネット発生型ポップ／エレクトロニック音楽の中でも、とりわけ「破損」「断片」「過負荷」を美学の中心に据えた潮流である。
+クリック、ノイズ、デジタル歪み、ピッチシフト、ボーカロイド的処理、急速すぎる曲展開、異様なテンポ変動──これらを高度にポップな文脈で融合させ、「過剰と崩壊のバランス」を表現しようとした点が最大の特徴と言える。
 
-Des groupes tels que SOPHIE, A. G. Cook et 100 gecs ont porté cette « pop brisée » à un niveau international, prouvant que de nombreux artistes pouvaient « créer un langage musical global depuis leur propre chambre » grâce à des DAW et des packs d'échantillons.
+SOPHIE、A. G. Cook、100 gecs などの活動は、こうした「壊れたポップ」を国際的なレベルに押し上げ、多くのアーティストが DAW やサンプルパックを通じて「自室から世界的な音楽言語を作れる」ことを証明した。
 
 ---
 
@@ -41,78 +40,78 @@ color: #fff;
 </style>
 
 
-## 1. Origine et contexte
+## 1. 起源と背景
 
-### 1-1 Préhistoire de la musicalisation des sons d'échecs numériques
+### 1-1　デジタル故障音の音楽化という前史
 
-L'idée même du glitch remonte à l'esthétique présentée par l'électro à la fin des années 1990 (Oval, Alva Noto, Ryoji Ikeda, etc.). Il traitait les erreurs de lecture des CD et les dysfonctionnements des signaux numériques comme des matériaux musicaux, et citait activement « l’esthétique de l’échec ».
+グリッチの発想自体は 1990年代後半のエレクトロニカ（Oval、Alva Noto、Ryoji Ikeda など）が提示した美学に遡る。CD の読み取りエラーやデジタル信号の誤作動を音楽素材として扱い、「故障の美学（Aesthetics of Failure）」を積極的に引用した。
 
-La musique glitch de cette époque était plus expérimentale, mettant l'accent sur la texture, l'espace et la structure plutôt que sur le rythme. D’un autre côté, le Glitchcore ultérieur était définitivement différent dans la mesure où il était fortement lié à la culture pop populaire et à Internet.
-
----
-
-### 1-2 Écosphère Internet et esthétique de la surcharge
-
-À la fin des années 2010, l’interconnectivité de TikTok, SoundCloud, Discord, Bandcamp et YouTube a fortement stimulé les artistes qui créent et distribuent seuls. À mesure que la culture de la consommation instantanée et du montage à grande vitesse via les smartphones se généralise, les auditeurs se sont habitués aux « fragments », aux « courts métrages », à la « démesure » et au « changement rapide ».
-
-Cet environnement a créé un terrain fertile pour que la musique exige vitesse, destruction et prolifération d’informations, et on peut dire que le Glitchcore est né naturellement.
+この時代のグリッチは実験音楽寄りで、リズムよりもテクスチャ、空間、構造が重視された。一方、のちの Glitchcore は **大衆向けポップやインターネット文化と強く結びついた点** が決定的に異なる。
 
 ---
 
-### 1-3　Innovation musicale sur PC
+### 1-2　インターネット生態圏と過負荷の美学
 
-PC Music (de Londres), à laquelle appartenaient SOPHIE, A. G. Cook et GFOTY, présentait de l'« hyper pop » (appelée plus tard Hyperpop) depuis le début des années 2010. Le traitement extrême du pitch, les textures artificielles et la conception sonore plastique et irréaliste ont été des influences directes sur Glitchcore.
+2010年代後半、TikTok・SoundCloud・Discord・Bandcamp・YouTube の相互接続が、一人で制作・配信を行うアーティストを強烈に後押しした。スマートフォンによる即時消費・高速編集文化が普及するにつれ、リスナーは「断片」「短尺」「過剰」「爆速変化」に慣れていった。
 
-Les sons aigus de SOPHIE, la matérialité des synthés, la coexistence de sons destructeurs et de mélodies pop sont devenus la base de la méthode de production elle-même du Glitchcore.
-
----
-
-## 2. Caractéristiques du Glitchcore / Hyper-Glitch
-
-### 2-1　Tempo rapide et fragmentation
-
-Le BPM de Glitchcore n'est pas fixe et fluctue souvent sur une large plage de 100 à 180 BPM. De plus, le BPM change soudainement au milieu de la chanson et certaines compositions basculent rapidement entre plusieurs genres au sein d'une même chanson.
-
-**Éléments caractéristiques :**
-
-* Changements de tempo extrêmes
-* Montage qui passe soudainement à une chanson différente au milieu d'une chanson
-* Des refrains courts et des mélodies fragmentées
-* Concentrez-vous sur des accroches solides de 15 à 30 secondes pour TikTok
+この環境は、音楽にも「速度」「破壊」「情報量の増殖」を求める土壌となり、結果として Glitchcore が自然発生したと言える。
 
 ---
 
-### 2-2 Traitement de la voix : pitch shift, manipulation des formants, accélération/double vitesse
+### 1-3　PC Music の革新
 
-Le traitement audio est au cœur du Glitchcore, avec des « voix déformées numériquement » et des « voix anormalement rapides » prédominantes sur les voix chantées de type humain.
+SOPHIE、A. G. Cook、GFOTY らが属していた PC Music（ロンドン発）は、2010年代前半からすでに「ハイパー・ポップ」（後に Hyperpop として語られる）を提示していた。極端なピッチ処理、人工的なテクスチャ、プラスチック的で非現実的なサウンドデザインは、Glitchcore に直接的影響を与えた。
 
-Traitement typique :
-
-* Réglage automatique extrême
-* Secouez le terrain de haut en bas à grande vitesse
-* Traitement à double vitesse (accéléré)
-* Ajout d'un sentiment de caractère grâce à la manipulation des formants
-* Utilisation mixte de sources sonores Vocaloid
-
-La méthode consistant à « jouer plusieurs couches de voix en même temps », comme 100 gecs, est considérée comme un symbole de l'Hyper-Glitch.
+SOPHIE の鋭角的なサウンド、シンセの物質感、破壊音とポップメロディの同居は Glitchcore の制作手法そのものの基礎となった。
 
 ---
 
-### 2-3 Mix qui suppose distorsion, destruction et écrêtage
+## 2. Glitchcore / Hyper-Glitch の特徴
 
-Glitchcore utilise activement l'écrêtage et le crépitement qui peuvent être évités dans la production musicale normale. Il existe de nombreuses scènes où le but est de fournir une expérience qui donne l'impression que l'écran explose, plutôt que de la musique.
+### 2-1　高速テンポと断片化
 
-* Broyeur de bits
-*Clip dur
-* Distorsion numérique
-* Stotter (hachage du son à grande vitesse)
-* Plugins Glitch (Glitch2, Fracture, etc.)
+Glitchcore の BPM は固定されず、100〜180 BPM と広い範囲を行き来することが多い。さらに、曲の途中で BPM が急変したり、1曲のなかで複数ジャンルがめまぐるしく切り替わる構成が見られる。
+
+**特徴的な要素：**
+
+* 極端なテンポ変化
+* 曲の途中で「突然別曲」へ移行するような編集
+* 短いサビや断片的なメロディ
+* TikTok 向けの 15〜30秒の強烈なフック重視
 
 ---
 
-### 2-4　Réinterprétation de la structure pop
+### 2-2　声の加工：ピッチシフト、フォルマント操作、加速・倍速
 
-Malgré une acoustique perturbatrice, les mélodies sont souvent « très pop » et faciles à retenir. C'est l'essence du Glitchcore ; il ne s’agit pas seulement de musique noise, mais d’un genre qui déverse des effets surchargés dans un vaisseau pop.
+音声処理は Glitchcore の中核であり、人間的な歌声よりも、「デジタル的に歪んだ声」「不自然に速い声」が優勢である。
+
+代表的処理：
+
+* Extreme Auto-Tune
+* ピッチの上下を高速で揺らす
+* 倍速処理（sped-up）
+* フォルマント操作によるキャラクター感付加
+* ボカロ音源の混合使用
+
+100 gecs のように「多重レイヤーの声を一斉に鳴らす」手法は Hyper-Glitch の象徴とされる。
+
+---
+
+### 2-3　歪み・破壊・クリッピングを前提としたミックス
+
+通常の音楽制作では避けられるクリッピングや音割れを、Glitchcore では積極的に使う。音楽というより「画面が破裂するような体験」を与えることを目的とする場面も多い。
+
+* ビットクラッシャー
+* ハードクリップ
+* デジタルディストーション
+* ストッター（音を高速で刻む）
+* グリッチ系プラグイン（Glitch2、Fracture など）
+
+---
+
+### 2-4　ポップ構造の再解釈
+
+破壊的な音響にもかかわらず、メロディはしばしば「非常にポップ」で覚えやすい。ここが Glitchcore の本質であり、単なるノイズ音楽ではなく、「ポップの器に過負荷のエフェクトを流し込んだジャンル」である。
 
 ---
 

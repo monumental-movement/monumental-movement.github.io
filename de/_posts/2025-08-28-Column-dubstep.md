@@ -28,7 +28,7 @@ Dubstep wurde Ende der 1990er und Anfang der 2000er Jahre in der Underground-Sze
 
 London war damals ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
 
-Dubstep, das auf diesem Boden geboren wurde, hat eine einzigartige Entwicklung durchgemacht, die auf schwerem Subbass, dunkler und enger Räumlichkeit und unterteilten Rhythmen basiert.
+Dubstep, das auf diesem Boden geboren wurde, hat eine einzigartige Entwicklung durchgemacht, die sich auf starken Subbass, dunkle und enge Räumlichkeit und unterteilte Rhythmen konzentriert.
 
 <hr>
 
@@ -77,7 +77,7 @@ Ab etwa 2008 verbreitete sich Dubstep über den britischen Untergrund hinaus und
 
 ### Dubstep in Japan
 
-In den späten 2000er Jahren wurde es in Japan allmählich populär und Goth-Trad erregte weltweite Aufmerksamkeit. Sein Sound hat eine einzigartige Entwicklung durchgemacht, indem er den Kontext von Noise-/Experimentalmusik einbezieht und gleichzeitig eine Verbindung zur Londoner Szene herstellt.
+Ende der 2000er Jahre wurde es in Japan allmählich populär und Goth-Trad erregte weltweite Aufmerksamkeit. Sein Sound hat eine einzigartige Entwicklung durchgemacht, indem er den Kontext von Noise-/experimenteller Musik einbezieht und gleichzeitig eine Verbindung zur Londoner Szene herstellt.
 Durch Veranstaltungen in Clubs in Shibuya und Veröffentlichungen inländischer Labels entstand eine einzigartige japanische Dubstep-Kultur.
 
 <hr>

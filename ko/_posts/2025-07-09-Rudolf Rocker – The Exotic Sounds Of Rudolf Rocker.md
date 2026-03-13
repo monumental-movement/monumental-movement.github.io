@@ -16,7 +16,7 @@ title: Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker
 
 Rudolf Rocker(루돌프 로커)는 Jeremy Dyson, Mark Goodall, Steven Goodall에 의한 UK의 시츄에이션 챔버 팝 앙상블 밴드. 키보드 담당 Jeremy Dyson(제레미 다이슨)은 BBC의 시트콤 '리그 오브 젠틀맨 기인 동맹!'의 제작 멤버이자 각본가 코미디언으로 활동하고 있다.
 
-The Exotic Sounds Of Rudolf Rocker는 1998년 라벨 Mook Records에서 발표된 인디락 앨범.
+'The Exotic Sounds Of Rudolf Rocker'는 1998년 라벨 Mook Records에서 발표된 인디락 앨범.
 
 #### Tracklist
 ```md

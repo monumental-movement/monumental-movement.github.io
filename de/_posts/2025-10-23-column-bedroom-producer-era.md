@@ -129,7 +129,7 @@ Ihre Aktivitäten präsentierten eine neue Struktur namens „Popmusik ohne Auto
 ### Die Schnittstelle von Niconico Douga und YouTube
 
 Da Kommentarkultur und abgeleitete Werke auf mehreren Ebenen ineinandergreifen, hat sich das Schlafzimmer in einen Ort der gemeinschaftlichen Produktion verwandelt.
-„Das Schaffen durch eine Person“ wurde schließlich in einem Netzwerk bedeutsam, in dem „viele Menschen gemeinsam Resonanz fanden“.
+„Das Schaffen durch eine Person“ erlangte schließlich in einem Netzwerk Bedeutung, in dem „viele Menschen gemeinsam Resonanz fanden“.
 
 ---
 

@@ -151,14 +151,14 @@ Diese Kette ist ein einzigartiges Diffusionsmodell im Streaming-Zeitalter.
 
 ## Kultureller Spillover
 
-### Anime x bestehendes Song-Neubewertungsmodell
+### Anime x vorhandenes Song-Neubewertungsmodell
 
 In den letzten Jahren kommt es immer häufiger vor, dass in Videoarbeiten vergangene Lieder wieder zum Vorschein kommen.
 In der Netflix-Serie „Stranger Things“ wurde „Running Up That Hill“ erneut ein Welthit.
 
 Allerdings ist Edgerunners insofern einzigartig, als es über eine dreistufige Struktur verfügt, in der die In-Game-Songs basierend auf dem Anime neu bewertet werden.
 
-Spiele → Anime → Streaming-Re-Explosion
+Spiele → Anime → Streaming Re-Explosion
 
 Dieser Trend wurde als erfolgreiches Beispiel einer Cross-IP-Strategie analysiert.
 
@@ -169,7 +169,7 @@ Aufgrund seiner Affinität zur Cyberpunk-Weltanschauung ist das Interesse am Gen
 
 Nach der Verbreitung des Animes wurde auch bestätigt, dass verwandte Playlists und ähnliche Künstler betroffen waren.
 
-> Es beeinflusste auch die Neubewertung der Musikgenres selbst.
+> Es beeinflusste auch die Neubewertung des Musikgenres selbst.
 
 ---
 

@@ -13,9 +13,9 @@ title: Ugly Duckling – I Did It Like This Friday Night
 ---
 
 
-Ugly Duckling(아그리닥크링)은, 1993년에 Long Beach에서 결성된 미국·언더그라운드 힙합 그룹의 대표격. 회원은 Andy Cooper, Dustin McFarland, Rodney Pleasant.
+Ugly Duckling(아그리닥크링)은, 1993년에 Long Beach에서 결성된 미국 언더그라운드 힙합 그룹의 대표격. 회원은 Andy Cooper, Dustin McFarland, Rodney Pleasant.
 
-'I Did It Like This/Friday Night'는 2000년 UK의 HipHop 라벨 Bad Magic에서 발표되었다.
+'I Did It Like This/Friday Night'는 2000년 UK의 HipHop 라벨 Bad Magic에서 발매되었다.
 
 #### Tracklist
 ```md

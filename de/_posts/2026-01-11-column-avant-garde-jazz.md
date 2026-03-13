@@ -19,7 +19,7 @@ title: '[Kolumne] Avantgarde-Jazz – eine Bewegung, die Strukturen auflöste un
 
 ## Prolog: Der Moment, als der Jazz ins „Unbekannte“ vordrang
 
-Text: mmr｜Thema: Über die Essenz des Avantgarde-Jazz, der als Lösungsmusik oft von anderen distanziert wird.
+Text: mmr｜Thema: Zum Wesen des Avantgarde-Jazz, der sich als Lösungsmusik oft vom Mainstream distanziert.
 
 
 Mitte des 20. Jahrhunderts schien Jazz eine ausgereifte Musik zu sein. Es gab unterschiedliche Stile: Swing, Bebop und Hard Bop sowie eine gemeinsame Sprache aus Akkordfolgen, Taktarten und Solostrukturen. Doch in den späten 1950er Jahren begann eine Bewegung, still aber sicher an genau dieser Prämisse zu zweifeln. Muss Musik wirklich Harmonie und Form folgen? Wie frei kann Improvisation sein? Aus diesen Fragen entstand die Bewegung, die später „Avantgarde-Jazz“ genannt wurde.
@@ -89,7 +89,7 @@ In der Harmonik hat jeder Spieler die gleichen melodischen Rechte. Es ist nicht 
 
 Cecil Taylor verkörpert die ultimative Konstruktion im Avantgarde-Jazz. Obwohl seine Darbietungen oft als Ausdruck von Emotionen beschrieben werden, handelt es sich in Wirklichkeit um hochorganisierte Zeitkunst. Obwohl es improvisiert ist, ist sein größtes Merkmal, dass es die Dichte und Ordnung eines Gebäudes aufweist.
 
-### Klavierspielen neu definiert
+### Klavierspieltechniken neu definiert
 
 Taylors Spielstil behandelt die Tastatur nicht als eine Reihe von Melodien, sondern als eine Klangmasse. Hochgeschwindigkeits-Cluster mit beiden Händen und komplexe Polyrhythmen verwandelten das Klavier von einem Melodieinstrument in ein Schlaginstrument.
 
@@ -188,7 +188,7 @@ timeline
 
 ## Nachfolgende Einflüsse: Erweiterung der improvisierten Musik
 
-Der Avantgarde-Jazz hatte großen Einfluss auf die spätere freie Improvisation, Noise und experimentelle Musik. Auch in den Bereichen Rock und elektronische Musik hat sich die Idee der Befreiung von der Form vererbt.
+Der Avantgarde-Jazz hatte großen Einfluss auf die spätere freie Improvisation, Noise und experimentelle Musik. Die Idee der Freiheit von der Form hat sich auch in den Bereichen Rock und elektronische Musik vererbt.
 
 Besonders wichtig ist, dass er Improvisation als einen Ausdruck positioniert, der nicht an einen bestimmten Gebrauch gebunden ist. Dies hat Auswirkungen, die über Musikgenres hinausgehen.
 

@@ -62,7 +62,7 @@ Die erste Kompaktkassette wurde für monaurale Aufnahmen eingeführt.
 
 #### 1980er Jahre: Die Entstehung von Hochposition (Typ II) und Metall (Typ IV)
 
-- Verbesserung des Bandmaterials zur Verbesserung der Klangqualität
+- Verbesserungen am Bandmaterial zur Verbesserung der Klangqualität
 
 - Verbesserte Höheneigenschaften und erweiterter Dynamikbereich
 

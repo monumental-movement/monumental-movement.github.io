@@ -22,7 +22,7 @@ title: '[Chronique] Le moment où les musiques de jeux deviennent mainstream che
 Texte : mmr | Thème : Où sont passées les oreilles de la génération numérique ? - Le changement structurel dans lequel la musique de jeu est devenue la culture fondamentale des jeunes
 
 
-La musique de jeu fait référence à un groupe d’œuvres musicales créées pour les jeux vidéo.
+La musique de jeu fait référence à un groupe d'œuvres musicales créées pour les jeux vidéo.
 Il s'agit d'un genre vaste qui comprend tout, depuis les sources sonores sur puce soumises à des contraintes matérielles jusqu'aux enregistrements orchestraux complets, en passant par la musique électronique, la musique pop et la musique folk.
 
 Traditionnellement, il était positionné comme une musique de fond complétant l’expérience de jeu, mais il constitue désormais une cible de visionnage indépendante, un contenu distribué et un marché en direct.
@@ -35,7 +35,7 @@ Traditionnellement, il était positionné comme une musique de fond complétant 
 * Visibilité et image de marque du compositeur
 * Explosion d'œuvres dérivées due à la culture Internet
 * Génération de streaming et de playlist
-* eSports et production à grande échelle
+* E-sports et production à grande échelle
 *Évolution du temps d'exposition à la musique chez les jeunes
 * Phase décisive du mainstreaming
 
@@ -147,8 +147,8 @@ La musique du jeu sera intégrée aux listes de lecture pour la « concentration
 
 La distribution commence en 2020
 **Genshin**
-Des enregistrements d'orchestre complet ont été réalisés à Londres, Shanghai et ailleurs.
-La vidéo officielle du concert a été simultanément distribuée dans le monde entier et vue par des millions de téléspectateurs.
+a été enregistré avec un orchestre complet à Londres, Shanghai et ailleurs.
+La vidéo officielle du concert a été simultanément distribuée dans le monde entier et visionnée par des millions de téléspectateurs.
 
 Lors des tournois d'e-sport, des productions à grande échelle sont incluses dans les cérémonies d'ouverture.
 **Ligue des Légendes**
@@ -225,7 +225,7 @@ La musique du jeu est
 Parce qu’elle est indissociable de la mémoire émotionnelle, elle présente un taux de rétention élevé dans la mémoire émotionnelle.
 
 Aussi, pour la génération Z
-Dans de nombreux cas, la musique de jeu est utilisée plus fréquemment que les chansons thématiques d’anime.
+Dans de nombreux cas, les gens entrent plus fréquemment en contact avec la musique de jeux qu’avec les chansons à thème d’anime.
 
 > Pour les jeunes, la musique de jeu n'est pas un fond sonore, mais une mélodie principale assimilée à l'expérience.
 

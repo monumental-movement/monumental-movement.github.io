@@ -55,7 +55,7 @@ Les notes de doublure et les promotions de Stereo 35/MM utilisaient des phrases 
 
 - **Le conflit entre le commerce et l'art**
 
-La qualité sonore, proche de celle d'une version « démonstration », a été saluée par les audiophiles, mais certains ont remis en question son universalité en tant que chanson pop. Malgré cela, il y a eu quelques succès sur Chart (Stereo 35/MM, etc.), et Wright était l'un des rares producteurs à pouvoir rendre « l'attrait technique » commercialement viable.
+La qualité sonore, proche de celle d'une version « de démonstration », a été saluée par les audiophiles, mais certains ont remis en question son universalité en tant que chanson pop. Malgré cela, il y a eu quelques succès sur Chart (Stereo 35/MM, etc.), et Wright était l'un des rares producteurs à pouvoir rendre « l'attrait technique » commercialement viable.
 
 ---
 
@@ -162,7 +162,7 @@ Lorsque Enoch Light a fondé Grand Award and Command, il a rassemblé les meille
 
 Il a également joué un rôle important dans les séries « Persuasive Percussion » et « Provocative Percussion ».
 
-Dans les expériences avec les rythmes latins et le positionnement stéréo, la guitare s'est avérée utile en tant qu'instrument pouvant être facilement assigné à la gauche et à la droite, et le jeu flexible de Mottola a été mis à profit.
+Dans les expériences avec les rythmes latins et le positionnement stéréo, la guitare était utile comme instrument pouvant être facilement assigné à gauche et à droite, et le jeu flexible de Mottola a été utilisé.
 
 - **Sortie d'un album solo (de Command)**
 
@@ -180,8 +180,8 @@ Mottola était l'un des piliers qui soutenaient le « parcours lounge/écoute fa
 
 - **Guitariste régulier de Command Records**
 
-Il participe presque toujours aux enregistrements de Grand Award~Command, fondé par Light.
-Il était en charge des expériences de localisation de guitare dans la série "Persuasive Percussion".
+Il participe presque toujours aux enregistrements du Grand Award~Command établi par Light.
+Il était responsable des expériences de localisation de guitare dans la série "Persuasive Percussion".
 
 - **Sortie d'un album solo**
 

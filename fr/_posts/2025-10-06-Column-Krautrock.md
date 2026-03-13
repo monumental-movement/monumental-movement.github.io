@@ -56,7 +56,7 @@ Leur esprit expérimental se connecte à la culture communautaire qui a suivi le
 > "Nous n'avons pas le blues. Nous devons juste créer notre propre son."
 > — Holger Czukay (CAN)
 
-Cette attitude de recherche du « son de son propre pays » est à l'origine du krautrock.
+Cette attitude de recherche du « son de son propre pays » est à l’origine du krautrock.
 
 ---
 
@@ -75,7 +75,7 @@ Il a fini par devenir membre du groupe.
 
 Leur musique est un « rythme fluide » qui rejette toute structure.
 Surtout sur l'album "Tago Mago" (1971), les chansons ont été réarrangées grâce au montage.
-Cela a donné naissance au concept selon lequel « l’enregistrement sur bande est en soi un instrument ».
+Cela a donné naissance au concept selon lequel la bande d’enregistrement elle-même est un instrument.
 Les techniques d'édition de Shukai étaient similaires à celles de l'échantillonnage hip-hop ultérieur.
 
 > "Le rythme régit le temps. Mais l'improvisation libère du temps."
@@ -90,7 +90,7 @@ Cela influencera plus tard Radiohead, The Fall et même Aphex Twin.
 
 ## Chapitre 3 : NEU ! - Minimalisme et course vers le futur
 
-NOUVEAU ! a été formé après que les premiers membres de Kraftwerk, **Klaus Dinger** et **Michael Lotter**, ont quitté le groupe.
+NOUVEAU! a été formé après que les premiers membres de Kraftwerk, **Klaus Dinger** et **Michael Lotter**, ont quitté le groupe.
 Le son était un "pur mouvement" avec toutes les décorations inutiles supprimées.
 
 Le tambour de Dinger continue de tourner à une vitesse constante, comme un convoyeur sans fin.
@@ -98,7 +98,7 @@ Ce rythme est finalement devenu connu sous le nom de « Motorik ».
 La guitare et la basse de Rotor glissent comme un courant,
 La musique a fait d'"avancer" un objectif.
 
-NOUVEAU ! enregistré en studio faute de fonds.
+NOUVEAU! enregistré en studio faute de fonds.
 Faire tourner la bande en sens inverse, changer la vitesse, couper et coller les sons,
 Cela a ébranlé la frontière entre « vie » et « machine ».
 
@@ -130,7 +130,7 @@ Cependant, cela représentait un défi pour le cadre même de la musique pop.
 Ils ont été fortement influencés par le pop art et le dadaïsme.
 Les cultures punk, industrielle et sample qui ont suivi étaient toutes basées sur les gènes de Faust.
 
-> "La destruction est le début de la création."
+> « La destruction est le début de la création. »
 > — Jan Ermler (Faust)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbMvXFZ-20E?si=fszGR2gPh979qz7h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -201,7 +201,7 @@ L'esprit sonore né de Forst s'est transmis à la musique ambiante, post-rock et
 
 ## Chapitre 8 : Popol Vuh – Spiritualité et son en images
 
-**Popol Vuh** se démarque parmi le krautrock.
+**Popol Vuh** se démarque parmi les krautrocks.
 Le leader **Florian Fricke** était profondément dévoué à la musique et à la philosophie religieuses et fut l'un des premiers à adopter le synthétiseur Moog.
 Cependant, ce qu'il visait n'était pas la froideur de l'électronique, mais le **mystère et le son intérieur**.
 
@@ -298,7 +298,7 @@ flowchart TD
 | **Motorik** | Battement constant à 4/4 établi par Neu! Un rythme linéaire, proche de la transe.           |
 | **Musique cosmique** | Musique électronique orientée vers l'espace par Tangerine Dream, Klaus Schulze et d'autres. |
 | **Rocher continental** | Expression musicale dans une perspective européenne, par opposition au rock anglo-américain.                |
-| **Croute** | Argot britannique à l’origine. C'était à l'origine un terme péjoratif, mais il a ensuite été redéfini comme un mot de fierté.         |
+| **Croute** | Argot britannique à l’origine. C’était à l’origine un terme péjoratif, mais il a ensuite été redéfini comme un mot de fierté.         |
 | **Motorik Groove** | Le rythme de "Ein-zwei-drei-vier...". Un symbole de minimalisme et d'euphorie.    |
 
 

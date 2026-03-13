@@ -53,10 +53,10 @@ Das „Schaffen“ von Musik ist keine Spezialkompetenz mehr, sondern hat sich z
 
 #### KI „macht Geräusche“, Menschen „wählen Bedeutungen“
 
-Der Electronica-Künstler Arca nutzt beispielsweise KI-Sound als Material und kombiniert ihn mit seiner eigenen echten Stimme. Was sie macht, ist „Kontextdesign, das fragt, warum man sich für eine der unzähligen Möglichkeiten der KI entscheiden sollte.“
+Der Electronica-Künstler Arca beispielsweise behandelt KI-Sound als Material und kombiniert ihn mit seiner eigenen echten Stimme. Was sie macht, ist „Kontextdesign, das fragt, warum man sich für eine der unzähligen Möglichkeiten der KI entscheiden sollte.“
 同様に、UK発のJames BlakeはAIを「共作者」として扱いながら、“人間の脆さ”をテーマにアルバム[『Playing Robots Into Heaven』（2024）](https://amzn.to/3L1hE6D)を構築した。
 
-Diese Beispiele zeigen, dass KI immer weniger zu einem „Klangerzeuger“ wird, sondern eher zu einem „Spiegel, der hervorhebt, was Menschen wählen“.
+Diese Beispiele zeigen, dass KI immer weniger zu einem „Klangerzeuger“ und mehr zu einem „Spiegel, der hervorhebt, was Menschen wählen“ wird.
 Gerade weil die Werkzeuge allen offen stehen, wird die kontextuelle Macht des Einzelnen = die Bedeutung der Wahl in Frage gestellt.
 
 ---
@@ -76,17 +76,17 @@ Mit anderen Worten: Wir inszenieren die „Zukunft von damals“ unter Verwendun
 
 #### Auf dem Weg zu „Nostalgie, die das Alter nicht imitiert“
 
-Wichtig hierbei ist die Haltung „Neubearbeitung, nicht Nachahmung“.
+Wichtig hierbei ist die Haltung „Neubearbeitung statt Nachahmung“.
 Wie Playlists wie „Retro-Future Pop“ und „Y2K Wave“ auf Spotify zeigen, bringt die aktuelle Nostalgie die „Klangtextur“ in die Vergangenheit, aber der „Produktionskontext“ ist modern.
 „BRAT“ (2024) von Charli XCX beispielsweise ist ein Beispiel für die Clubkultur der 90er Jahre und beschäftigt sich gleichzeitig mit dem Thema des Selbstbewusstseins nach dem Internet.
-Man kann sagen, dass ihre „Methode, vergangene Klänge in Materialien umzuwandeln“, ein Sampling der Musikgeschichte selbst ist.
+Man kann sagen, dass ihre „Methode, vergangene Klänge in Material umzuwandeln“, ein Sampling der Musikgeschichte selbst ist.
 
 ---
 
 ### Kapitel 3: Lokale Musik überschreibt den globalen Kontext
 
 Die Geschwindigkeit, mit der Musik Grenzen überschreitet, hat sich im Zeitalter der sozialen Medien dramatisch verändert.
-Im Mittelpunkt steht eine Welle lokaler Ursprünge wie Afrobeats, Amapiano, Latin Trap, K-Pop und eine Neubewertung von City Pop.
+Im Mittelpunkt steht eine Welle lokaler Ursprünge wie Afrobeats, Amapiano, Latin Trap, K-Pop und eine Neubewertung des City Pop.
 
 #### Afrobeats und Amapiano: Mainstream-Sounds aus dem Süden
 
@@ -123,7 +123,7 @@ Dieser Wandel vom „Zuhören“ zum „Mitmachen“ verwandelt Musik in ein „
 
 ### Kapitel 5: Klangtrends – Koexistenz von Stille und Dichte
 
-Auch die Klangtrends selbst ändern sich.
+Auch die Klangtrends selbst verändern sich.
 Charakteristisch für das Jahr 2025 ist das Nebeneinander von Stille (Minimal) und Dichte (Maximum).
 
 #### „Quiet Club“ und „introspektive Electronica“
@@ -156,7 +156,7 @@ Zuhörer suchen nach „Liedern, die die Atmosphäre verändern“, und Künstle
 #### Das Albumformat neu definieren
 
 Bemerkenswert ist auch, dass das Album als „Sammlung von Geschichten“ neu gedacht wird.
-Billie Eilishs „HIT ME HARD AND SOFT“ (2024) beispielsweise legte Wert auf „ein tiefgreifendes Erlebnis während des gesamten Werks“ und nicht auf die Viralität jedes einzelnen Songs.
+Billie Eilishs „HIT ME HARD AND SOFT“ (2024) beispielsweise legte Wert auf „ein tiefgreifendes Erlebnis während des gesamten Werks“ und nicht auf die Viralität jedes Songs.
 Der Akt des „Albenhörens“ ist im Streaming-Zeitalter paradoxerweise zu einer luxuriösen Art geworden, Zeit zu verbringen.
 
 ---

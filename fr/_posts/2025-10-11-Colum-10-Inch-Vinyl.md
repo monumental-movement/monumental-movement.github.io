@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Ni 7 pouces ni 12 pouces. L'esthétique du son et les sou
 
 
 Disque de 10 pouces.
-Il y a une certaine ambiguïté dans ce mot. Il a une présence unique mais à moitié finie, différente de l'effet immédiat d'un single de 7 pouces ou de la sensation satisfaisante d'un LP de 12 pouces. Si l’on regarde l’histoire des records, on voit comment ce « format intermédiaire » a marqué un tournant dans les temps.
+Il y a une certaine ambiguïté dans ce mot. Il a une présence unique mais à moitié finie qui est différente de l'effet immédiat d'un single de 7 pouces ou de la sensation satisfaisante d'un LP de 12 pouces. Si l’on regarde l’histoire des records, on voit comment ce « format intermédiaire » a marqué un tournant dans les temps.
 
 10 pouces n’est pas seulement une question de taille. C'était aussi une autre philosophie qui redéfinissait la « durée » et la « densité du son ». La restriction d'environ 10 minutes par face obligeait les artistes et les ingénieurs du son à choisir la « condensation », et le résultat était un son étonnamment bien défini et une expérience d'écoute qui exigeait de la concentration.
 
@@ -72,7 +72,7 @@ Ce qu’il ne faut pas négliger, c’est l’évolution du design des vestes. B
 
 ### Le retour de la taille oubliée : dans le contexte du punk, de l'alternatif et de l'indie
 
-Finalement, les disques vinyles de 12 pouces ont dominé le marché et les disques de 10 pouces ont été relégués aux marges de l'histoire.
+Finalement, les LP de 12 pouces ont dominé le marché et les 10 pouces ont été relégués aux marges de l'histoire.
 Cependant, dans les années 1980, les tendances punk et indie ont ramené le format.
 
 La raison était simple.
@@ -111,13 +111,13 @@ C’est une expérience musicale consciente de la fin, contrairement à une play
 
 ---
 
-### Dernier chapitre : Le temps dans la paume de votre main, la « densité sonore » de 10 pouces
+### Chapitre final : Le temps dans la paume de votre main, 10 pouces parle de la « densité du son »
 
 10 pouces est incomplet mais complet.
 Il ne s'agit pas d'une longue histoire ou d'une nouvelle, mais d'un format « nouvelle ».
 La musique dans la paume de votre main. Cependant, sa densité n’est pas inférieure à 12 pouces.
 
-Un format n'est pas seulement un conteneur, c'est une idée.
+Un format n'est pas seulement un conteneur, mais une idée.
 Réévaluer le 10 pouces, c'est reconsidérer la façon dont la musique est écoutée.
 
 Il y a toujours un « juste milieu » entre les technologies.

@@ -46,7 +46,7 @@ color: #fff;
 
 ## 1950–60er Jahre: Der Vorabend des Rock und die Entstehung von Frauenensembles
 
-In den 1950er Jahren entstand in den USA der Rock'n'Roll und die Bandform wurde zum Zentrum der Jugendkultur. Andererseits standen damals oft Musikerinnen als Sängerinnen im Vordergrund und der Auftritt wurde in der Regel von Männern übernommen. Eine Ausnahme bildete eine rein weibliche Gruppe, die Musikinstrumente spielte.
+In den 1950er Jahren entstand in den USA der Rock'n'Roll und die Bandform wurde zum Zentrum der Jugendkultur. Andererseits traten damals oft Musikerinnen als Sängerinnen in den Vordergrund und der Auftritt wurde in der Regel von Männern übernommen. Eine Ausnahme bildete eine rein weibliche Gruppe, die Musikinstrumente spielte.
 
 Die Shirelles und die Ronettes, die 1964 auftraten, waren technisch gesehen Gesangsgruppen, aber als von Frauen dominiertes Kollektiv hatten sie einen starken Einfluss auf ihre Nachfolger. Schließlich, in den späten 1960er Jahren, wurde an der Westküste der Vereinigten Staaten und in England allmählich der Anblick von Frauen sichtbar, die Gitarren und Schlagzeug in die Hand nahmen.
 
@@ -161,7 +161,7 @@ Während der Alternative-Rock-Ära der 1990er Jahre wurden Girlbands zu genreüb
 
 Die europäische Girlband-Szene hat einen anderen kulturellen Hintergrund als die amerikanische. In Großbritannien waren Klassengesellschaft und Jugendkultur eng miteinander verbunden, und für Frauen war die Gründung einer Band ein Ausdruck ihrer sozialen Stellung.
 
-In der Post-Punk-Ära der späten 1970er und 1980er Jahre gab es immer mehr Bands, die in Kunstschulen und Schulnetzwerken ansässig waren und musikalisches Experimentieren mit politischem Bewusstsein verbanden. In diesem Kontext wurden Frauenbands zu einer Präsenz, die in der musikalischen Avantgarde und Gesellschaftskritik eine Rolle spielten.
+In der Post-Punk-Ära der späten 1970er und 1980er Jahre gab es immer mehr Bands aus Kunstschulen und Schulnetzwerken, die musikalisches Experimentieren mit politischem Bewusstsein verbanden. In diesem Kontext wurden Frauenbands zu einer Präsenz, die in der musikalischen Avantgarde und Gesellschaftskritik eine Rolle spielten.
 
 In Kontinentaleuropa formiert sich rund um Berlin und Paris eine Szene, in der die Grenzen zwischen Kunst und Musik verschwimmen. Frauenbands entwickelten ihre eigenen einzigartigen Ausdrucksformen und vermischten sich dabei mit Clubkultur und Performance-Kunst.
 

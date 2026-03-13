@@ -96,7 +96,7 @@ Ses rythmes sont méditatifs et conçus pour se synchroniser avec les battements
 
 De la psychologie musicale, on sait qu'un certain tempo favorise un état dans lequel le système nerveux parasympathique est dominant.
 Par conséquent, l’expérience live Recondite est plus qu’un simple événement de club ;
-On peut dire qu'il fonctionne comme « **Bain de forêt dans la ville** ».
+On peut dire qu'il fonctionne comme un "**bain de forêt en ville**".
 
 ---
 
@@ -149,7 +149,7 @@ timeline
 ## Chapitre 8 : Analyse acoustique - Structure rythmique de la forêt
 
 Lorsque vous analysez la forme d'onde de la piste de Recondite,
-**Conçu pour faire fluctuer organiquement la gamme moyenne-haute dans la bande 2-6 kHz**.
+**Conçu pour faire fluctuer organiquement les médiums-aigus dans la bande 2-6 kHz**.
 Ceci est proche du spectre des sons du vent et du bruissement des arbres.
 
 <div class="mermaid">
@@ -171,7 +171,7 @@ Il imite le processus par lequel les sons naturels stabilisent la psyché humain
 
 Le fait d'écouter les œuvres de Recondite est
 Il s'agit non seulement d'une expérience consistant non seulement à « ressentir la nature », mais également à « s'assimiler à la nature ».
-C'est comme un **bain auditif de forêt**.
+C'est comme un **bain de forêt auditif**.
 
 Le philosophe Maurice Merleau-Ponty
 «Le corps fait partie du monde et les sensations sont des phénomènes d'interaction avec le monde.»

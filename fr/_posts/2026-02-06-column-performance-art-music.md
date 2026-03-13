@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Une étude longue qui retrace l'histoire de la façon d
 
 La musique a longtemps été comprise comme une combinaison de l’acte de conception, de composition, et de l’acte de reproduction, d’interprétation. Là-bas, les partitions musicales étaient centrales et le son n'était que la réalisation d'informations visualisées. Cependant, au XXe siècle, cette hypothèse a commencé à être rapidement ébranlée. Le bruit urbain dû à l'industrialisation, à la diffusion de la technologie d'enregistrement et à l'expansion de la culture populaire a transformé le son d'un « objet à contrôler » à « quelque chose qui existe dans l'environnement ».
 
-Dans le même temps, dans le domaine de l’art, on observe un mouvement croissant visant à accorder davantage de valeur au processus de production et à l’acte lui-même qu’à l’objet achevé. Les événements qui se produisent en dehors de la peinture ou de la sculpture, le passage du temps et les réactions du public sont désormais reconnus comme faisant partie de l'œuvre. La musique n’était pas non plus étrangère à cette tendance.
+Dans le même temps, dans le domaine de l’art, on observe un mouvement croissant visant à accorder davantage de valeur au processus de production et à l’acte lui-même qu’à l’objet achevé. Les événements qui se produisent en dehors des peintures et des sculptures, le passage du temps et les réactions du public sont désormais reconnus comme faisant partie de l'œuvre. La musique n’était pas non plus étrangère à cette tendance.
 
 Dans ce chapitre, nous organiserons le contexte historique qui a conduit à ce que le son transcende le cadre de la musique et soit reconsidéré en tant qu'actions et situations, et clarifierons les prémisses de chaque chapitre suivant.
 
@@ -72,7 +72,7 @@ Cette attitude est devenue plus tard le prototype des structures ouvertes dans l
 
 ## Chapitre 3 : John Cage et le tournant du silence
 
-John Cage a fondamentalement remis en question le principe selon lequel le compositeur est la principale personne qui compose de la musique. En « 4 minutes 33 secondes », l'interprète est présent sur scène, mais ne fait aucun acte intentionnel de prononciation. En conséquence, le public est obligé de prêter attention aux sons environnementaux qu’il avait auparavant ignorés.
+John Cage a fondamentalement remis en question l’idée selon laquelle le compositeur est le sujet de la musique. En « 4 minutes 33 secondes », l'interprète est présent sur scène, mais ne fait aucun acte intentionnel de prononciation. En conséquence, le public est obligé de prêter attention aux sons environnementaux qu’il avait auparavant ignorés.
 
 Cette structure a déplacé le centre de gravité de l'acte de « créer » de la musique vers l'acte d'« écouter ». Une œuvre est créée non pas par son contenu sonore, mais par son cadre temporel et la manière dont elle oriente l'attention.
 

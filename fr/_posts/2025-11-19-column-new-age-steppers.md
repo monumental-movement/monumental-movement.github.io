@@ -52,7 +52,7 @@ Les membres changeaient à chaque album et le style, mélange de musiciens post-
 
 * **Adrian Sherwood** : Producteur/Réalisateur de On-U Sound
 * **Ari Up** (The Slits) : chant
-* **Mark Stewart** (The Pop Group) : chant
+* **Mark Stewart** (The Pop Group) : chant
 * **George 'Bingy Bunny' Valentine** (Roots Radics) : Guitare
 * **Style Scott** (Roots Radics) : Batterie
 * **Bruce Smith** (The Pop Group) : Batterie
@@ -124,7 +124,7 @@ Chanson représentative
 
 * *Fondu*
 * *Mon amour*
-* *Amour pour toujours*
+* *L'amour pour toujours*
 
 ## ■ « Champ de bataille d'action » (1981)
 
@@ -133,10 +133,10 @@ La participation de Mark Stewart a renforcé l'agitation.
 
 ## ■ « Fondation Steppers » (1983)
 
-C'est la chanson la plus « reggae-like » comme NAS, et la sensation de groove stable augmente.
+C'est la chanson la plus "reggae-like" de NAS, avec un sens du groove plus stable.
 Ce travail a également des thèmes socio-politiques forts.
 
-## ■ « L'amour pour toujours » (2012)
+## ■ « L'amour pour toujours » (2012)
 
 Après la mort d'Ari Up, Sherwood a publié une œuvre commémorative comprenant des enregistrements inédits.
 Un document très important qui contient l'énergie finale d'Ari.
@@ -165,7 +165,7 @@ Il est également emblématique de l’histoire culturelle britannique pour sa c
 
 # Chapitre 7 Technologie d'enregistrement et esthétique du studio
 
-La méthode du studio de Sherwood est
+La méthode de Sherwood en studio est
 **« Environ la moitié de l'œuvre est créée après l'enregistrement »**
 C’était tellement dub que l’ingénierie elle-même était un acte de composition.
 
@@ -239,7 +239,7 @@ Et cette pensée
 *Éthique de collaboration
 Il est encore profondément vivant aujourd'hui sous la forme de
 
-Le prototype de la « création multi-genres » dans laquelle les musiciens du 21e siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
+Le prototype de la « création multi-genres » dans laquelle les musiciens du 21ème siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
 
 ---
 

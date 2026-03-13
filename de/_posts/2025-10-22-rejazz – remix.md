@@ -15,7 +15,7 @@ title: '[re:jazz] – (re:mix)'
 ---
 
 
-[re:jazz] ist ein Jazzprojekt von Matthias Vogt, auch bekannt als DJ Matt, und verschiedenen Künstlern.
+[re:jazz] ist ein Jazzprojekt von Matthias Vogt, alias DJ Matt, und verschiedenen Künstlern.
 
 (re:mix) ist Downtempo/Future Jazz/Deep House, das 2003 vom japanischen Jazzlabel Nebula veröffentlicht wurde.
 

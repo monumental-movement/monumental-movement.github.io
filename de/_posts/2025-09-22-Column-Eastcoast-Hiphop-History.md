@@ -90,7 +90,7 @@ color: #fff;
 
 ## 2010er-heute: Diversifizierung und globaler Einfluss
 
-* **Repräsentative Produzenten**: Metro Boomin (südländisch geprägt, aber auch von New York beeinflusst), Hit-Boy, Statik Selektah
+* **Repräsentative Produzenten**: Metro Boomin (südländisch, aber auch von New York beeinflusst), Hit-Boy, Statik Selektah
 * **Große Labels**: Top Dawg (auch mit NY verbunden), Griselda Records
 * **Kultureller Kontext**: Parallel zu Kendrick Lamars Einfluss ließ Griselda (Westside Gunn, Conway, Benny the Butcher) in New York das 90er-Jahre-Feeling wieder aufleben. Auch die Zahl der Künstler, die aus dem Internet stammen, nimmt zu.
 * **Video/Mode**: Eine Fusion aus High-Marken und Streetwear (Supreme, Off-White, Balenciaga). Dokumentarische Musikvideos sind auf dem Vormarsch.
@@ -153,7 +153,7 @@ color: #fff;
 
 ## Zusammenfassung
 
-Der Ostküsten-Hip-Hop entstand auf den Blockpartys der Bronx, erzielte in den 80er-Jahren kommerziellen Erfolg und erreichte in den 90er-Jahren sein goldenes Zeitalter. Gekennzeichnet durch Texte, die Gesellschaftskritik und Straßenrealismus sowie präzise Sampling-Beats verbinden, beeinflussten sie Video, Mode, Film und sogar den literarischen Ausdruck.
+Der Ostküsten-Hip-Hop entstand auf den Blockpartys der Bronx, erzielte in den 80er-Jahren kommerziellen Erfolg und erreichte in den 90er-Jahren sein goldenes Zeitalter. Es zeichnet sich durch Texte aus, die Gesellschaftskritik und Straßenrealismus sowie detaillierte Sampling-Beats verbinden, und hat Video, Mode, Film und sogar den literarischen Ausdruck beeinflusst.
 Seit den 2000er Jahren gab es große Erfolge wie Jay-Z und 50 Cent sowie bewusste Künstler wie Mos Def und Talib Kweli. Seit den 2010er Jahren hat New York durch das Revival von Griselda und Nas erneut Aufmerksamkeit erregt und den für die Ostküste typischen harten und lyrischen Hip-Hop übernommen.
 
 ---

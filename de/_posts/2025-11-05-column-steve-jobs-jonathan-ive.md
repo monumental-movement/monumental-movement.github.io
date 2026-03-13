@@ -11,7 +11,7 @@ tags:
 - iPod
 - Mac
 - Design
-title: '[Kolumne] Steve Jobs und Jonathan Ive – Resonanz zwischen Sound und Design'
+title: '[Kolumne] Steve Jobs und Jonathan Ive – Resonanz zwischen Klang und Design'
 ---
 
 
@@ -47,10 +47,10 @@ color: #fff;
 
 ## Chapter 1 Records und die California Air
 
-Steve Jobs war ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
+Steve Jobs ist ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
 Viele Biografien bestätigen, dass er Bob Dylan und die Beatles schon in jungen Jahren bewunderte.
 
-In Walter Isaacsons Biografie „Steve Jobs“ (2011) hat er einen **Röhrenverstärker und einen Plattenspieler** in seinem Wohnzimmer.
+In Walter Isaacsons Biografie „Steve Jobs“ (2011) gibt es in seinem Wohnzimmer einen **Röhrenverstärker und einen Plattenspieler**.
 Es heißt, er habe jeden Abend Alben von Bob Dylan und Joan Baez gehört.
 
 > „Dylans Worte haben Seele. Sie sind nicht die Geräusche einer Maschine.“
@@ -84,7 +84,7 @@ Im Jahr 2001 stellte Apple ein Produkt vor, das die Ära der digitalen Musik ein
 
 
 Der **iPod** repräsentiert die Verschmelzung der Ästhetik von Jobs und Ive.
-Jobs sagte: „1000 Songs in deiner Tasche.“
+Jobs sagte: „1000 Songs in der Tasche.“
 Ich habe mich auf die „Fingertaktilität“ der Radbetätigung konzentriert.
 
 Die Einführung des iTunes Store (2003) markierte die erste Revolution im Musikkonsum seit der Plattenära.
@@ -123,7 +123,7 @@ Ive sagt: „Das Gehäuse selbst prägt den Klang“ (Interview mit Fast Company
 
 ## Kapitel 6 Von Schallplatten in die Cloud – Vererbung klanglicher Erinnerungen
 
-Als Jobs über das iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
+Als Jobs über sein iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
 Im Kern geht es um das Konzept der Wolke als Erweiterung des Vorgangs, eine Schallplatte in die Hand zu nehmen und die Nadel fallen zu lassen.
 
 Andererseits habe ich durch LoveFrom,
@@ -150,7 +150,7 @@ Tatsächlich eint sie die Philosophie, „Menschen durch Musik zu befreien“.
 
 ## Kapitel 8 Die Designsprache von „Sound“
 
-Nachdem Jobs gestorben war, habe ich ihn wie folgt beschrieben:
+Nachdem Jobs gestorben war, habe ich ihn wie folgt beschrieben.
 
 > „Er betrachtete Produkte so, wie man Musik hört: Es gibt Rhythmus, es gibt Harmonie, es gibt Stille.“
 
@@ -171,7 +171,7 @@ Durch Musik und Design brachten sie die Technologie wieder in die menschliche Wa
 
 ## Fazit – Klänge, die mit Liebe beginnen (LoveFrom)
 
-Die offizielle Stellungnahme von LoveFrom lautet:
+Die offizielle Erklärung von LoveFrom lautet:
 
 > „Wir sind ein kreatives Kollektiv. Wir entwerfen für die Liebe, nicht für Märkte.“
 

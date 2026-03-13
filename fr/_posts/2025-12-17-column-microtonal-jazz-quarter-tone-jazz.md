@@ -42,7 +42,7 @@ color: #fff;
 
 ## Chapitre 1 : Les microtones et la préhistoire du jazz
 
-### 1-1 Position historique des intervalles microtonaux
+### 1-1 Position historique de l'intervalle microtonal
 
 Les intervalles microtonaux existaient dans la musique occidentale avant le 20e siècle. La différence de virgule dans le tempérament pythagoricien et l'intonation juste du Moyen Âge et de la Renaissance comprend une différence d'intervalle de moins d'un demi-ton. Cependant, avec l'établissement du tempérament égal à 12 dans le but de simplifier la notation musicale et l'enseignement, ces idées ont reculé dans un contexte théorique.
 
@@ -56,11 +56,11 @@ Les tierces, quintes et septièmes du blues sont théoriquement décrites comme 
 
 ## Chapitre 2 : Le concept du jazz quart de ton
 
-### 2-1 Définition du système de quarts de ton
+### 2-1 Définition du système quart de ton
 
 Les quarts de ton font souvent référence à 24 tempéraments égaux, soit 12 demi-tons divisés en deux. En divisant une octave en 24 parties égales, de nouvelles hauteurs sont insérées entre les demi-tons. Théoriquement, des divisions de hauteur plus fines sont possibles, mais à des fins pratiques en matière de performance et d'éducation, le quart de ton est devenu un point de référence.
 
-### 2-2 Raison d'adoption dans le contexte du jazz
+### 2-2 Raison de l'adoption dans le contexte du jazz
 
 Les raisons pour lesquelles le système des quarts de ton a attiré l'attention dans le jazz peuvent être résumées comme suit.
 
@@ -150,7 +150,7 @@ Dans l'improvisation jazz microtonale, la direction de la transition de hauteur 
 
 ### 5-2 Relation avec le rythme
 
-En subdivisant la hauteur, le rôle du rythme change également. Une méthode de présentation d'infimes différences de hauteur de note à l'aide de valeurs de notes longues et une méthode d'augmentation de la densité de hauteur de note en créant une série de valeurs de notes courtes sont utilisées en combinaison.
+Au fur et à mesure que les intervalles sont subdivisés, le rôle du rythme change également. Une méthode de présentation d'infimes différences de hauteur de note à l'aide de valeurs de notes longues et une méthode d'augmentation de la densité de hauteur de note en créant une série de valeurs de notes courtes sont utilisées en combinaison.
 
 ### 5-3 Approfondissement de l'analyse acoustique
 
@@ -199,7 +199,7 @@ Les disciples de Joe Maneri dispensent une formation microtonale dans des établ
 * Application pratique dans de petits et grands ensembles
 * Activités d'enregistrement et d'édition de jazz microtonal
 
-Ce réseau éducatif, souvent reconnu comme l'école manuélienne, constitue la pointe de l'enseignement de l'improvisation et de la composition du jazz contemporain.
+Ce réseau éducatif, souvent reconnu comme l'école Manneri, constitue la pointe de l'enseignement de l'improvisation et de la composition du jazz contemporain.
 
 ---
 

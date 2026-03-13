@@ -9,11 +9,11 @@ permalink: /fr/brainkiller-brainkiller/
 tags:
 - Speedcore
 - Hardcore
-title: Brainkiller – Brainkiller
+title: Tueur de cerveau – Tueur de cerveau
 ---
 
 
-Brainkillerは、Michael Bogdanski、Frank Behrens、MiBo（Michael B.）のハードテクノアクト。
+Brainkiller est un groupe de hard techno composé de Michael Bogdanski, Frank Behrens et MiBo (Michael B.).
 
 "Brainkiller" est sorti en 1994 sur le label allemand F%@#ing Loud !, fondé par Mike Hoppe (Roy Batty).
 

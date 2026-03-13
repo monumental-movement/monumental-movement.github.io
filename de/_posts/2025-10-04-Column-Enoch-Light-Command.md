@@ -45,7 +45,7 @@ Command Records zielte eindeutig auf den Markt als „Audio-Demo-Platte“ ab un
 
 - **Gatefold und grafische Ästhetik**
 
-Die LP-Cover von Command waren optisch stark und enthielten manchmal ein Cover des abstrakten Malers Josef Albers. Das Design der CD als etwas, das über eine bloße Demo-CD hinausging und zu etwas wurde, das die Leute besitzen wollten, stimulierte die darauffolgende Sammlerkultur.
+Die LP-Cover von Command waren optisch stark und enthielten manchmal ein Cover des abstrakten Künstlers Josef Albers. Das Design der CD als etwas, das über eine bloße Demo-CD hinausging und zu etwas wurde, das die Leute besitzen wollten, stimulierte die darauffolgende Sammlerkultur.
 
 
 - **Werbe-Slogan: „Sie werden überrascht sein, sobald Sie es zum ersten Mal hören“**
@@ -156,7 +156,7 @@ Er tritt in einem breiten Spektrum von Genres auf, darunter nicht nur Jazz, sond
 
 ### Begegnung und Beziehung mit Enoch Light
 
-- **Grand Award → Regelmäßiger Gitarrist während der Command Records-Zeit**
+- **Grand Award → Regelmäßiger Gitarrist bei Command Records**
 
 Als Enoch Light Grand Award and Command gründete, versammelte er New Yorks Top-Session-Talente. Unter ihnen ist Tony Mottola der Stammgitarrist.
 
@@ -164,7 +164,7 @@ Er spielte auch eine wichtige Rolle in den Serien „Persuasive Percussion“ un
 
 Bei Experimenten mit lateinamerikanischen Rhythmen und Stereopositionierung erwies sich die Gitarre als Instrument, das sich leicht links und rechts zuordnen ließ, und Mottolas flexibles Spiel kam gut zur Geltung.
 
-- **Soloalbum-Veröffentlichung (von Command)**
+- **Veröffentlichung eines Soloalbums (von Command)**
 
 Command Records veröffentlicht auch viele Solowerke von Mottola.
 
@@ -180,8 +180,8 @@ Mottola war eine der Säulen, die Commands „Lounge/Easy-Listening-Route“ unt
 
 - **Command Records Stammgitarrist**
 
-Er ist fast immer an den Aufnahmen von Grand Award~Command beteiligt, das von Light gegründet wurde.
-Er war verantwortlich für Gitarrenlokalisierungsexperimente in der Reihe „Persuasive Percussion“.
+Er nimmt fast immer an den Aufnahmen des von Light ins Leben gerufenen Grand Award~Command teil.
+Er war verantwortlich für die Durchführung von Gitarrenlokalisierungsexperimenten in der Reihe „Persuasive Percussion“ und anderen Werken.
 
 - **Veröffentlichung eines Soloalbums**
 
@@ -213,13 +213,13 @@ Betont die Auswirkungen von Hall und Nachhallverarbeitung
 
 ### Aktuelle Situation und Auswirkungen
 
-Command Records selbst endete praktisch um 1970, aber ihre Werke sind immer noch durch Neuauflagen, hochwertige Remaster und Neuauflagen für Audiophile im Umlauf. Überzeugende/provokative Lieder und Jacken werden weiterhin im Kontext von „Mid-Century-Design“ und Junggesellenabschiedskultur zitiert und sind auch Gegenstand von Sampling und Remixen. Sein Einfluss auf die moderne Hörkultur (Vintage-Audio-Hobbys, virtuelle Raumsimulationen usw.) ist beträchtlich.
+Command Records selbst endete praktisch um 1970, aber ihre Werke sind immer noch in Form von Neuauflagen, hochwertigen Remastern und Neuauflagen für Audiophile im Umlauf. Überzeugende/provokative Lieder und Jacken werden weiterhin im Kontext von „Mid-Century-Design“ und Junggesellenabschiedskultur zitiert und sind auch Gegenstand von Sampling und Remixen. Sein Einfluss auf die moderne Hörkultur (Vintage-Audio-Hobbys, virtuelle Raumsimulationen usw.) ist beträchtlich.
 
 
 ---
 
 ### Zusammenfassung: Legacy of Enoch Light
 
-Enoch Light war ein Mann, der nicht nur „guten Klang“ anstrebte, sondern auch ein Objekt namens Schallplatte entwarf und damit das „Hörerlebnis“ im Stereo-Zeitalter neu definierte. Die Werke von Command Records werden auch heute noch im Kontext der Audiogeschichte, Designgeschichte und Popkultur neu bewertet. Die „Überraschung“, die man spürt, wenn man zum ersten Mal Musik hört, ist Wrights wahres Wesen, und seine Werke bewahren immer noch diese magische Kraft.
+Enoch Light war ein Mann, der nicht nur „guten Klang“ anstrebte, sondern auch ein Objekt namens Schallplatte entwarf und damit das „Hörerlebnis“ im Stereozeitalter neu definierte. Die Werke von Command Records werden auch heute noch im Kontext der Audiogeschichte, Designgeschichte und Popkultur neu bewertet. Die „Überraschung“, die man verspürt, wenn man zum ersten Mal Musik hört, ist Wrights wahres Wesen, und seine Werke bewahren immer noch diese magische Kraft.
 
 Außerdem ging die Beziehung zwischen Enoch Light und Tony Mottola über die reine Beziehung zwischen „Produzent und Gitarrist“ hinaus. Durch die Kombination von Lights Aufnahmeästhetik mit Mottolas flexiblem und vielseitigem Gitarrenspiel wurde Command Records zu einer Pop-Ikone des Weltraumzeitalters, die weiterhin Audiophile auf der ganzen Welt in ihren Bann zieht.

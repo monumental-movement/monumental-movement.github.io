@@ -13,7 +13,7 @@ title: Kay Sand – Too Funghi
 ---
 
 
-2009년에 출시된 독일 라벨 Deep Moves에서 이탈리아 DJ의 Francesco Sperotto에 의한 프로젝트 "Kay Sand".
+2009년에 출시된 독일 라벨 Deep Moves로부터 이탈리아 DJ의 Francesco Sperotto에 의한 프로젝트 「Kay Sand」.
 
 리믹스는 마찬가지로 이탈리아의 「Minimono」라고 본명 Domenico Cipriani 「Lucreito」도 뛰어난.
 

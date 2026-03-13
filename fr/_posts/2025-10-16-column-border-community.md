@@ -11,22 +11,22 @@ tags:
 - Techno
 - UK Techno
 - 00s
-title: '[Chronique] Border Community — Une communauté sonore qui transcende les frontières'
+title: 【コラム】 Border Community — 境界を越える音の共同体
 ---
 
 
-## I. Prologue : Une histoire qui commence à la frontière
+## I. 序章：境界線から始まる物語
 
 
-Texte : mmr｜Thème : Retrace la philosophie musicale de la « Border Community » établie par James Holden et la trajectoire du label qui transcende cette « frontière »
+文：mmr｜テーマ：ジェームス・ホールデンが築いた〈Border Community〉という音楽思想と、その“境界”を越えるレーベルの軌跡を辿る
   
-Le nom Border Community est plus qu’un simple label.
-C'était l'expression d'une « communauté connectée par la musique » et d'un désir de « transcender les genres et les structures commerciales existants ».
+「Border Community」という名前には、単なるレーベル以上の意味がある。  
+それは“音楽を通じてつながる共同体”であり、同時に“既存のジャンルや商業構造を超える”という意志の表明だった。  
 
-Au début des années 2000, le monde des clubs était en pleine mutation. La trance se formalisait et la house progressive devenait rigide.
-James Holden y explorait des sons qui oscillaient entre mélodie et bruit, analogique et numérique, intelligence et émotion.
+2000年代初頭、クラブシーンは大きな変化の渦中にあった。トランスは形式化し、プログレッシヴ・ハウスは硬直化していた。  
+その中で、ジェームス・ホールデン（James Holden）は、メロディとノイズ、アナログとデジタル、知性と感情を往還する音を模索していた。  
 
-« Border Community » est né comme son « laboratoire frontalier ».
+「Border Community」は、そんな彼の“境界の実験室”として生まれた。  
 
 ---
 
@@ -45,9 +45,9 @@ color: #fff;
 
 
 
-## II. Paysage de 2001 : l’aube du post-progressiste
+## II. 01年の風景：ポスト・プログレッシヴの夜明け
 
-En 2001, Holden a attiré l'attention avec la chanson "A Break in the Clouds" sortie sur Silver Planet.
+2001年、Holdenは〈Silver Planet〉から発表した“A Break in the Clouds”で注目を浴びる。  
 そのサウンドは、当時のプログレッシヴ・ハウスの定型を破るものだった。メランコリックでありながら、構築的。浮遊感のあるメロディが、クラブの夜を詩的な体験へと変えていった。  
 
 この楽曲を皮切りに、彼は“トランスでもハウスでもない”音の場所を切り拓く。  

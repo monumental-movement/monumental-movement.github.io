@@ -23,7 +23,7 @@ Text: mmr | Thema: Eine rebellische Musikbewegung, die Ende der 1970er Jahre in 
 
 1978 trat eine ungewöhnliche Band in der Hafenstadt Bristol im Südwesten Englands auf.
 Ihr Name ist **The Pop Group**.
-Obwohl sie sich selbst Pop nannten, war ihre Musik kein Funk, Punk oder Jazz, sondern ein Experiment, bei dem alle Genres explosionsartig aufeinander prallten.
+Obwohl sie sich selbst Pop nannten, war ihre Musik kein Funk, Punk oder Jazz, sondern ein Experiment, bei dem alle Genres explosionsartig aufeinanderprallten.
 
 Ihr Sound erinnert an die **Arbeitslosigkeit, Klasse, politische Korruption und Entfremdung junger Menschen**, die England in den 1970er Jahren beherrschte.
 Es wurde als „Schrei“ des Klangs selbst sublimiert.
@@ -200,7 +200,7 @@ timeline
 
 ---
 
-## Zugehöriges Diagramm: Genealogie der Bristol-Musik
+## Verwandtes Diagramm: Genealogie der Bristol-Musik
 
 <div class="mermaid">
 
@@ -226,6 +226,6 @@ Diese Einstellung beeinflusst weiterhin die Underground-Kultur nicht nur in Bris
 
 > „Das ist keine Unterhaltung. Das ist Widerstand.“
 
-Ihre Schreie hallen immer noch in der Stille wider.
+Ihre Schreie hallen noch immer in der Stille wider.
 
 ---

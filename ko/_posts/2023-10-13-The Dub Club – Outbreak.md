@@ -21,7 +21,7 @@ title: The Dub Club – Outbreak
 
 
 "Outbreak"는
-1994년에 네덜란드의 라벨 「Urban Sound Of Amsterdam」에서 발매된 본명 Nathanael Heres에 의한 프로젝트 The Dub Club에 의한 EP입니다.
+1994년에 네덜란드의 라벨 「Urban Sound Of Amsterdam」에서 발매된 본명 Nathanael Heres의 프로젝트 The Dub Club의 EP입니다.
 
 
 #### Tracklist

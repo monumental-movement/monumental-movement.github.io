@@ -17,7 +17,7 @@ title: Deep Forest – Deep Forest
 
 Deep Forest는 1992년에 Michel Sanchez(미셸 산체즈)와 Éric Mouquet(에릭 무케)에 의해 결성된 듀오. 에스닉, 일렉트로닉, 댄스 비트, 칠아웃 비트를 믹스한, 에스닉 일렉트로니카라고 불리는 월드 뮤직의 스타일이 특징.
 
-1992년에 발매된 이 앨범은, 그래미상의 노미네이트 되어 「Sweet Lullaby」는 세계적인 대히트가 되었다.
+1992년에 발표된 이 앨범은, 그래미상의 후보로 되어, 「Sweet Lullaby」는 세계적인 대히트가 되었다.
 
 
 #### Tracklist

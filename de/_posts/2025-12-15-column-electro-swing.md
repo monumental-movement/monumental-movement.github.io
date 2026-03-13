@@ -101,7 +101,7 @@ Diese reproduzieren nicht unbedingt exakte Swing-Rhythmen, sondern werden passen
 
 ## 7. Visuelle Kultur und Mode
 
-Electro Swing verbreitete sich nicht nur durch die Musik, sondern auch durch die Mode der 1920er und 1930er Jahre, Art-Deco-Grafiken und retro-futuristische visuelle Ausdrucksformen. Dadurch erweiterte sich das Genreverständnis von einem Hörerlebnis zu einem ganzheitlichen Kulturerlebnis.
+Electro Swing verbreitete sich nicht nur durch die Musik, sondern auch durch Mode im Stil der 1920er und 1930er Jahre, Art-Déco-Grafiken und retro-futuristische visuelle Ausdrucksformen. Dadurch erweiterte sich das Genreverständnis von einem Hörerlebnis zu einem ganzheitlichen Kulturerlebnis.
 
 ---
 
@@ -172,9 +172,9 @@ Diese Methode steht im Einklang mit der Sampling-Kultur nach dem Hip-Hop, aber E
 
 ## 16. Klangverarbeitung und Produktionstechniken
 
-Auf der Produktionsseite spielen Sample-Extraktion und Time-Stretching, Beat-Quantisierung und Bass-Low-End-Design eine wichtige Rolle. Der Schwung des Schwungs wird nicht vollständig reproduziert, sondern im Vier-auf-der-Vier oder geraden Breakbeat absorbiert.
+Auf der Produktionsseite spielen Sample-Cutting und Time-Stretching, Beat-Quantisierung und Bass-Low-End-Design eine wichtige Rolle. Der Schwung des Schwungs wird nicht vollständig reproduziert, sondern im Vier-auf-der-Vier oder geraden Breakbeat absorbiert.
 
-Infolgedessen hat Electro Swing eine Struktur, die für Jazz unnatürlich ist, für Tanzmusik jedoch sehr ansprechend ist. Dieses Kompromissdesign ist der technische Kern der Entstehung des Genres.
+Dadurch hat Electro Swing eine Struktur, die für Jazz unnatürlich ist, für Tanzmusik jedoch sehr ansprechend ist. Dieses Kompromissdesign ist der technische Kern der Entstehung des Genres.
 
 ---
 

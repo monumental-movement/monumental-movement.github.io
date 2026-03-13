@@ -14,7 +14,7 @@ title: Marco Bailey & Redhead – 2 3
 ---
 
 
-Ein Techno-Track, der im Jahr 2000 auf dem Label Invasion von Marco Bailey und Redhead (Steve Vangilbergen), einem Top-DJ-Duo in der belgischen Techno-Welt, veröffentlicht wurde.
+Ein Techno-Track, der im Jahr 2000 von Marco Bailey und Redhead (Steve Vangilbergen), einem Top-DJ-Duo der belgischen Techno-Welt, auf dem Label Invasion veröffentlicht wurde.
 
 #### Trackliste
 ```md

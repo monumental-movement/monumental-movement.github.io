@@ -13,9 +13,9 @@ title: '[Kolumne] Definition von Punk und Hardcore: der Wendepunkt von Wut und A
 ---
 
 
-## Definition von Punk und Hardcore: der Schnittpunkt von Wut und Ausdruck
+## Definition von Punk und Hardcore ─ Der Schnittpunkt von Wut und Ausdruck
 
-Text: mmr｜Thema: Punk Hardcore
+Text: mmr｜Thema: Punk/Hardcore
 
 In den späten 1970er Jahren fühlten sich junge Menschen mit kommerzialisierter Rockmusik übersättigt und es entstand „Musik, die einfach und rau ist und vor allem ihre wahren Gefühle zum Ausdruck bringt“. Es ist Punk. Allerdings begann auch dieser Punk-Stil irgendwann, sich nach innen zu wenden, manchmal sogar formal. Es war Hardcore-Punk, der erneut die Flammen der Wut entfachte.
 In dieser Kolumne befassen wir uns mit den Definitionen und Unterschieden zwischen Punk und Hardcore aus der Perspektive von Musik, Ideologie, Mode und Geschichte.
@@ -60,7 +60,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 
 - Schneller, härter, kürzer (oft weniger als eine Minute)
 
-- Betont die Verzerrung der Gitarre und die Zerstörungskraft des Rhythmus
+- Betont die Verzerrung der Gitarre und die Zerstörungskraft des Rhythmus.
 
 - Scream- und Shout-basierter Gesang
 
@@ -76,7 +76,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 
 ▍Kultureller Hintergrund
 
-– In den frühen 1980er Jahren in den Vereinigten Staaten entwickelt, insbesondere in Kalifornien und Washington D.C.
+– In den frühen 1980er Jahren in den USA entwickelt, insbesondere in Kalifornien und Washington D.C.
 
 – Symbol für Polizeirepression, Wut auf die konservative Gesellschaft und gewalttätige Live-Kultur.
 
@@ -142,9 +142,9 @@ Seit dem 21. Jahrhundert wurden Punk und Hardcore in verschiedenen Formen übern
 
 Es hat sich in verschiedene Subgenres wie Post-Hardcore, Emo, Crustcore und Melodic Hardcore verzweigt.
 
-Hardcore-Punk (GAUZE, Lip Cream, G.I.S.M. usw.) hat auch in Japan eine eigene Kultur aufgebaut.
+In Japan hat Hardcore-Punk (GAUZE, Lip Cream, G.I.S.M. usw.) eine einzigartige Kultur geschaffen.
 
-Mittlerweile gibt es eine Neubewertung der Generation-Z- und DIY-Festivals und sie behalten weiterhin ihre Stärke als Subkultur.
+Heutzutage gibt es eine Neubewertung der Festivals der Generation Z und der DIY-Generation und sie behalten weiterhin ihre Stärke als Subkultur.
 
 
 <hr>

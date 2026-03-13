@@ -19,7 +19,7 @@ title: '[Chronique] L''ennui : la trajectoire du bâtisseur du chaos et de l''u
 
 ## Prologue : Qui étaient les Ennuis ?
 
-Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment leur forme de travail, leurs performances live et leurs unités dérivées se sont développées.
+Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment sa forme d'œuvre, ses performances live et ses unités dérivées se sont développées.
 
 Dans l'histoire de la musique japonaise, les **ennuis** occupent une position unique en tant qu'entité qui ne peut être pleinement expliquée dans aucun contexte.
 Formés à Osaka à la fin des années 1980, ils ont influencé les musiciens du monde entier, se transformant en ensembles noise, hardcore, avant-garde, psychédélique et plus tard rythmiques.
@@ -111,7 +111,7 @@ Le son s'est superposé, un sentiment de transe s'est glissé dans le rythme ré
 
 ---
 
-L'année suivante, Vision Creation Newsun de 1999 était l'une des œuvres déterminantes de la carrière de Boredoms.
+L'année suivante, Vision Creation Newsun, en 1999, fut l'une des œuvres déterminantes de la carrière de Boredoms.
 Sons naturels, percussions ethniques, sons soutenus et structures cycliques, drones de guitare, rythmes multicouches...
 
 Les Boredoms n'étaient même pas un "groupe de rock" ici, mais s'enfonçaient plutôt dans le minimalisme cosmique et la transe rituelle.
@@ -144,7 +144,7 @@ Des éléments d'enregistrement sur la plage, de longs drones, des structures m�
 
 ---
 
-Ici, le nom du groupe s'écrit souvent V∞redoms, et le concept de Boredoms lui-même se transforme en un « corps créatif collectif » plutôt qu'en une unité musicale.
+Ici, le nom du groupe est souvent écrit comme V∞redoms, et le concept de Boredoms lui-même se transforme en un « corps créatif collectif » plutôt qu'en une unité musicale.
 Dans les années 2000, Boredoms a connu de nouveaux développements, y compris le nom **V∞redoms**, et le plus emblématique était l'ensemble de batterie à grande échelle qui a débuté avec le live « 7x7x7 » tenu le 7 juillet**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Chapitre 5 : Activités depuis les années 2010
-Depuis les années 2010, Boredoms continue de donner des performances live par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
+Depuis les années 2010, Boredoms continue de se produire en direct par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
 En particulier, **les activités d'art visuel de Eye** et **les activités de Yoshimi avec OOIOO/SAICOBABA** se sont développées, donnant l'impression que Boredoms était plus un « projet collectif » qu'un « groupe ».
 
 ---
@@ -212,7 +212,7 @@ Dans ce chapitre, j'organiserai systématiquement les activités personnelles de
 ### 7.1 Intérêt initial
 - Collage, Manga, Art Concret
 - Performances destructrices
-- Intéressé par le « lieu » plutôt que par le son
+- Plus intéressé par le « lieu » que par le son
 
 ### 7.2 Formation du sens d'échantillonnage
 Depuis le début des années 1990, Ai utilise des platines vinyles et des cassettes comme matériaux, se spécialisant dans le « montage tactile » qui relie des fragments de son physique.
@@ -220,7 +220,7 @@ Depuis le début des années 1990, Ai utilise des platines vinyles et des casset
 ## 7.3 Inclinaison au rythme (années 2000)
 Pendant la période du bore drum, l'intérêt d'Ai s'est considérablement déplacé vers les aspects physiques du rythme, et son rôle de chef d'orchestre est devenu central.
 
-### Evolution de l'expression des yeux
+### Évolution de l'expression des yeux
 
 <div class="mermaid">
 flowchart TD
@@ -239,7 +239,7 @@ Dans ce chapitre, nous organiserons structurellement la musique de Boredoms.
 1. **Éléments destructeurs/soudains**
 2. **Répétition et gain de structure**
 
-En oscillant entre ces deux polarités, leur travail revêt une fluidité unique.
+En oscillant entre ces polarités, leur travail revêt une fluidité unique.
 
 ### 8.2 Structure du rythme
 Dans Boredoms ultérieurs, le rythme est devenu le sujet, et la mélodie et les paroles sont passées à un rôle de soutien.

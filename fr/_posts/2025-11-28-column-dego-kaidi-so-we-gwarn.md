@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Le noir a joué un rôle central dans cette tendance. La gestion du label par Dego a donné naissance à de nombreux artistes et sorties Broken Beat, ce qui en fait un centre culturel pour la musique noire britannique. La collaboration entre Kaidi et Dego a également été favorisée dans cet environnement, produisant de nombreux succès en club et en studio.
+2000Le noir a joué un rôle central dans cette tendance. La gestion du label par Dego a donné naissance à de nombreux artistes et sorties Broken Beat, ce qui en fait un centre culturel pour la musique noire britannique. La collaboration entre Kaidi et Dego s'est également nourrie dans cet environnement, produisant de nombreux succès en club et en studio.
 
 ---
 
@@ -152,7 +152,7 @@ flowchart TD
 
 « A So We Gwarn » a fusionné la culture Broken Beat/jazz/soul du Royaume-Uni avec la culture house de Détroit. Ils ont représenté au monde le « instruments acoustiques + beat + jazz/funk/soul groove » établi par Broken Beat et ont encouragé une réévaluation de la musique noire britannique.
 
-L'album ne fonctionne pas comme une nostalgie du passé, mais comme une proposition pour l'avenir. Dego & Kaidi ont créé une « signature sonore » qui traverse différents axes : passé et présent, Royaume-Uni et États-Unis, club et jazz.
+L'album ne fonctionne pas comme une nostalgie du passé, mais comme une proposition pour l'avenir. Dego & Kaidi se sont taillé une « signature sonore » qui traverse différents axes : passé et présent, Royaume-Uni et États-Unis, club et jazz.
 
 ---
 
@@ -182,7 +182,7 @@ La collaboration entre Dego & Kaidi et Sound Signature était plus que la simple
 | 1999 | Kaidi & 2000Black collaboration initiale |
 | 2003 | Annonce de l'hymne du club par Dego & Kaidi |
 | 2006 | Bugz dans le grenier « De retour dans la niche » |
-| 2015 | Dego & Kaidi «ADAM ROCK DISSED !!» Sortie EP |
+| 2015 | Dego et Kaidi « ADAM ROCK DISSÉ !! » Sortie EP |
 | 2017 | Sortie de l'album « A So We Gwarn » |
 | 2017 à aujourd'hui | Les activités solo et collaboratives se poursuivent, Sound Signature évolue |
 

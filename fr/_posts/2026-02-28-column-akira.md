@@ -57,7 +57,7 @@ Le manga original « AKIRA » a commencé à être publié en série en 1982 et 
 
 L'histoire se déroule à Neo Tokyo en 2019. Expériences militaires, manifestations antigouvernementales, gangs de motards et développement de pouvoirs surnaturels. Il dépeint l’effondrement et la renaissance d’une ville, reflétant fortement l’atmosphère de la fin de la guerre froide.
 
-La musique a été conçue en parallèle de la production du film. Le réalisateur Otomo recherchait un son religieux plus fondamental plutôt que l'accompagnement existant de type anime. En conséquence, le groupe qui a été distingué était le groupe de divertissement Yamashiro.
+La musique a été conçue en parallèle de la production du film. Le réalisateur Otomo recherchait un son plus fondamental et religieux que l'accompagnement existant de type anime. En conséquence, le groupe qui a été distingué était le groupe de divertissement Yamashiro.
 
 ### Relation positionnelle avec Cyberpunk
 
@@ -148,7 +148,7 @@ Au 21e siècle, il est réévalué avec la remasterisation Blu-ray et 4K.
 
 De plus, ces dernières années, la résurgence des jeux et des animes a renforcé le contexte cyberpunk. L’un des symboles en est Cyberpunk : Edgerunners.
 
-Au milieu de cette résurgence, AKIRA est une fois de plus considéré comme la « forme complétée » plutôt que « l'original ».
+Au milieu de cette résurgence, AKIRA est une fois de plus considéré comme la « forme complétée » plutôt que « l’original ».
 
 > AKIRA n'était pas à l'avant-garde de son époque, mais plutôt une œuvre qui remettait en question son époque à plusieurs reprises.
 
@@ -170,7 +170,7 @@ Il est particulièrement important de briser le stéréotype selon lequel « le 
 
 ### Les vraies villes ont rattrapé leur retard
 
-Par coïncidence, 2019 a été l’année de la scène pour AKIRA. Pandémies, troubles sociaux et tensions entre les nations et les individus. Il semblait que la ville réelle avait rattrapé la fiction.
+Par coïncidence, 2019 a été l’année de la scène pour AKIRA. Pandémies, troubles sociaux, tensions nationales et personnelles. Il semblait que la ville réelle avait rattrapé la fiction.
 
 ### Le retour du Cyberpunk
 
@@ -180,7 +180,7 @@ Mais le son est encore plus important que la vue.
 
 À l’ère du numérique, la voix physique et les percussions à plusieurs niveaux semblent paradoxalement fraîches.
 
-Le son d'AKIRA n'a pas été créé par l'IA ou des algorithmes, mais par les vocalisations et la respiration collectives des humains.
+Le son d'AKIRA n'a pas été créé par l'IA ou des algorithmes, mais par des vocalisations et des respirations humaines collectives.
 
 > Parce que nous vivons à l'ère du numérique, les sons physiques d'AKIRA sonnent comme l'avenir.
 

@@ -69,7 +69,7 @@ Acid House, 초기 테크노에 접해, Akai S1000이나 TR-808/909를 이용한
 ### 3.2 Warp Records 계약
 
 - 1996년: *Feed Me Weird Things* 데뷔
-- IDM + 재즈 + 드럼 베이스 융합
+- IDM+재즈+드럼 베이스 융합
 
 <div class="mermaid">
 

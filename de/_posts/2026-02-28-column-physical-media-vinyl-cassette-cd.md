@@ -24,7 +24,7 @@ Text: mmr｜Thema: Die Dynamik von Eigentum und kulturellem Kapital, die durch p
 
 Selbst in einer Zeit, in der Musik und Videos sofort per Streaming bereitgestellt werden können, sind physische Medien wie Schallplatten, Kassetten, CDs und Blu-rays nicht verschwunden. Vielmehr wird es bei einem bestimmten Personenkreis immer wieder mit großer Begeisterung neu bewertet.
 
-Besitz ist eine andere Erfahrung als bloßer Zugang. Die Haptik, das Gewicht, der Geruch der Hülle, der Typ in den Linernotes, die Kratzer auf der CD. Darin ist Zeit eingemeißelt. Die Daten werden aktualisiert, aber die Dinge verblassen. Das Paradoxon, dass Verwitterung Werte schafft, ist das Herzstück der Sammlerkultur.
+Besitz ist eine andere Erfahrung als bloßer Zugang. Die Haptik, das Gewicht, der Geruch der Hülle, der Typ in den Linernotes, die Kratzer auf der CD. Darin ist Zeit eingemeißelt. Die Daten werden aktualisiert, aber die Dinge verblassen. Das Paradoxon, dass Verwitterung Werte schafft, ist der Kern der Sammlerkultur.
 
 Seit dem 20. Jahrhundert haben sich die Medien mit der Entwicklung der Aufnahmetechnik verändert. Mit jeder Veränderung verschwanden die „alten Medien“ jedoch nicht, sondern blieben und bekamen eine andere Bedeutung. Schallplatten sind zu Antiquitäten geworden, Schallplatten sind zu Audio-Hobbys geworden, Kassetten sind zu einer DIY-Kultur geworden und CDs wurden neu bewertet.
 
@@ -70,7 +70,7 @@ In den späten 1960er Jahren produzierten die Beatles „Sgt. „Pepper's Lonely
 
 1982 wurde die von Sony und Philips gemeinsam entwickelte Compact Disc auf den Markt gebracht. Es wurde in den 1990er Jahren aufgrund seiner Haltbarkeit, seines geringen Geräuschpegels und seiner einfachen Cue-Einstellung populär.
 
-> Technologische Innovationen ordnen die Rolle traditioneller Medien immer neu, anstatt sie zu beseitigen.
+> Technologische Innovationen ordnen die Rollen traditioneller Medien immer neu, anstatt sie zu beseitigen.
 
 ---
 

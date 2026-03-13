@@ -15,7 +15,7 @@ title: DJ Chus And David Penn Feat. Caterina – Baila
 ---
 
 
-DJ Chus & David Penn의 명곡 "Baila"를 "Hey Hey"로 유명한 US 하우스 DJ & 프로듀서 Dennis Ferrer (데니스 페라)가 remix.
+DJ Chus&David Penn의 명곡 「Baila」를 「Hey Hey」로 유명한 US하우스 DJ＆프로듀서 Dennis Ferrer(데니스・펠러)가 remix.
 
 UK의 명문 댄스 뮤직 라벨 Defectd에서 2003년에 발매된 트라이벌 하우스·딥 하우스 트럭.
 

@@ -18,7 +18,7 @@ title: '[Kolumne] Warum Visual Kei und Idol-Kultur Grenzen überschreiten: Die i
 ## Prolog: Wenn Japans „periphere Musik“ die Welt bewegt
 
 
-Text: mmr｜Thema: Warum erreicht japanische Subkulturmusik die Welt? Entschlüsselung der Entstehungsgeschichte und kulturellen Übersetzung ausländischer Fangemeinden mit Schwerpunkt auf Visual Kei und Idolkultur
+Text: mmr｜Thema: Warum erreicht japanische Subkulturmusik die Welt? - Verständnis der Geschichte der Entstehung ausländischer Fandoms und der kulturellen Übersetzung, mit Schwerpunkt auf Visual Kei und Idol-Kultur
 
 
 „X JAPAN“ „BABYMETAL“ „Parfüm“ „Dir en grey“
@@ -52,7 +52,7 @@ Dieses Genre, das einer westlichen Rockstruktur Ästhetizismus, Theatralik und G
 
 Für ausländische Zuhörer liegt der Reiz von Visual Kei in seiner Ausdruckskraft, die über Musikgenres hinausgeht.
 Make-up und Kostüme sind nicht nur Schein; Sie verwischen die Grenzen zwischen Individuum und Gesellschaft und gelten als Symbole der Selbstrekonstruktion.
-Insbesondere in Europa wird es als Erweiterung der Gothic-, Androgynen- und Post-Punk-Kultur verstanden.
+Vor allem in Europa wird es als Erweiterung der Gothic-, Androgynen- und Post-Punk-Kultur verstanden.
 In Amerika wurde es durch die Anime-Kultur und die Otaku-Sensibilität neu kontextualisiert.
 
 > „Sie geben nicht vor, Rockstars zu sein – sie *spielen* ihre Identität.“
@@ -72,7 +72,7 @@ Dabei handelt es sich nicht nur um Unterhaltung, sondern um eine clevere Blaupau
 Der Grund für den Erfolg von BABYMETAL auf Festivals in Übersee ist
 Es gab eine strukturelle Strategie, um das Konzept der „japanischen Idole“ in den globalen Metal-Stil einzubetten.
 
-Der Export der Götzenkultur ist auch eine Verschmelzung von religiösem Ritual und technologischer Gemeinschaft.
+Der Export der Götzenkultur ist auch eine Verschmelzung von **religiösem Ritual und technologischer Gemeinschaft**.
 Handshake-Events, Übertragungen und SNS-Live-Events digitalisieren den zeremoniellen „Kontakt“ und machen Fans zu „Followern“.
 Diese Struktur wurde im Ausland als „partizipative Kultur“ übersetzt und in der Folge wurden kulturelle Grenzen aufgehoben.
 
@@ -119,8 +119,8 @@ Es hieß, die japanische Popkultur sei vorübergehend in Vergessenheit geraten.
 Allerdings überlebte die Visual Kei- und Idol-Kultur mit einer „anderen Grammatik“.
 
 Wenn die Stärke von K-POP in seiner Präzision als „fertiges Produkt“ liegt,
-In der Musik der japanischen Subkultur dreht sich alles um „Unvollkommenheit“ und „Nähe“.
-Mit anderen Worten: Der Wert ist der Spielraum für den Lüftereingriff.
+In der Musik der japanischen Subkultur geht es um „Unvollkommenheit“ und „Nähe“.
+Mit anderen Worten: Der Wert ist der Spielraum für den Eingriff des Ventilators.
 Der Grund, warum ausländische Fans von japanischen Underground-Idolen und Indie-Visual Kei angezogen werden, ist dieser
 Das liegt daran, dass ich mit seiner „offenen und unvollendeten Natur“ sympathisiere.
 

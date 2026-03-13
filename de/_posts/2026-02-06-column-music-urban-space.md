@@ -125,7 +125,7 @@ Während Städte Musik produzieren, regulieren sie sie auch. Überfüllung, Lär
 
 Radio, Fernsehen und Internet, die die Musik scheinbar von der Stadt trennten, schufen tatsächlich ein neues Bild der Stadt. Bestimmte Städtenamen fungieren weiterhin als Klangmarken.
 
-> Die Medien erweiterten die Stadt und erweckten den Eindruck, als sei die Musik von der Geographie befreit.
+> Die Medien erweiterten die Stadt und ließen die Musik scheinbar unabhängig von der Geographie erscheinen.
 
 ---
 
@@ -188,7 +188,7 @@ Hier definiert die Musik zunächst den Raum, gefolgt von städtischen Funktionen
 
 Detroit Techno ist eine Erweiterung der von der Automobilindustrie geprägten urbanen Rhythmen. Regelmäßige mechanische Bewegungen, breite Straßen und die Aushöhlung, die der Bevölkerungsflucht folgte, förderten ein anorganisches und anhaltendes Gefühl für den Rhythmus.
 
-Hier wurde Techno zu mehr als nur Unterhaltung, er wurde zu einem Mittel zur Abstraktion des Stadtstaates. Das Zeitgefühl einer im Niedergang begriffenen Industriestadt kristallisierte sich in der Musik heraus.
+Techno wurde hier zu mehr als nur Unterhaltung, es wurde zu einem Mittel zur Abstraktion des Stadtstaates. Das Zeitgefühl einer im Niedergang begriffenen Industriestadt kristallisierte sich in der Musik heraus.
 
 > Detroits Musik bewahrt im Klang die Form dessen, was die Stadt verloren hat.
 
@@ -230,7 +230,7 @@ Tokio ist eine der am dichtesten besiedelten Städte der Welt und ihre Musikkult
 
 Seit den 1960er Jahren, mit der Verbreitung importierter Schallplatten und der Verbreitung von Audiogeräten, hat die „Hörumgebung“ selbst in Tokio einen kulturellen Wert erlangt. Musik ist sowohl zu einem gemeinsamen Erlebnis als auch zu einem Objekt geworden, das der Einzelne auswählen, sammeln und spielen kann. Aufgrund der geringen Größe der Stadt interessieren sich die Menschen mehr für die Auflösung von Tonbildern und für genreübergreifendes Wissen als für die Lautstärke.
 
-Während die Clubkultur in den 1980er bis 1990er Jahren importiert wurde, entwickelte sie sich unabhängig und passte sich an das für Städte spezifische regulatorische Umfeld an. Während kurze Betriebszeiten, der Untergrund und die Verkleinerung Einschränkungen darstellten, sorgten sie auch für ein selektives Publikum und ein intensives Erlebnis.
+Während die Clubkultur in den 1980er bis 1990er Jahren importiert wurde, entwickelte sie sich unabhängig und passte sich an das regulatorische Umfeld an, das für Städte einzigartig ist. Während kurze Betriebszeiten, der Untergrund und die Verkleinerung Einschränkungen darstellten, sorgten sie auch für ein selektives Publikum und ein intensives Erlebnis.
 
 > Tokios Musikkultur hat die Zwänge der Überfüllung durch Verfeinerung überwunden.
 
@@ -250,7 +250,7 @@ Die Größe der Stadt ist kleiner als in Tokio und die Musikszene zirkuliert in 
 
 Die Musikkultur in den örtlichen Städten hat sich nach ihrem eigenen Zeitplan entwickelt und wurde gleichzeitig von der Zentralregierung beeinflusst. Aufgrund der geografischen Nähe zu Asien und seines Charakters als Hafenstadt hat Fukuoka die fremde Kultur schnell akzeptiert und Clubs und Veranstaltungsorte für Live-Musik häufen sich in der Regel im Stadtzentrum.
 
-Aufgrund des Klimas und der Größe der Stadt ist Sapporo stark auf Innenräume ausgerichtet und genreübergreifende Veranstaltungen finden über einen langen Zeitraum statt. Die Stadtränder fungierten als Raum für experimentellen Ausdruck.
+Aufgrund des Klimas und der Größe der Stadt ist Sapporo stark auf Innenräume ausgerichtet und genreübergreifende Veranstaltungen finden über einen langen Zeitraum statt. Die Stadtränder fungierten als Räume für experimentellen Ausdruck.
 
 > Regionalstädte haben die Musik in einem anderen Tempo entwickelt als die Zentralregion.
 
@@ -267,7 +267,7 @@ Da die Grundstückspreise aufgrund der Sanierung steigen, rücken kleine Musikr�
 ---
 
 
-## Schlusskapitel: Wie stellt Musik die Zukunft der Städte dar?
+## Letztes Kapitel: Wie stellt Musik die Zukunft der Städte dar?
 
 Musik nimmt auf, kritisiert und nimmt manchmal die Stadt vorweg. Solange sich der städtische Raum weiter verändert, wird auch weiterhin neue Musik entstehen. Musik hören ist der Akt, gleichzeitig auf die Gegenwart und Zukunft der Stadt zu hören.
 

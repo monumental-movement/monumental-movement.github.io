@@ -14,7 +14,7 @@ title: Klaxons – Golden Skans
 ---
 
 
-2005年にUKのニュークロスで結成されたロックバンドKlaxons (クラクソンズ)「Golden Skans」のremix。
+Un remix de « Golden Skans » du groupe de rock Klaxons, formé à New Cross, Royaume-Uni en 2005.
 
 Le premier morceau de la face A est un remix de SebastiAn, musicien électronique et DJ affilié à Ed Banger Records/Ed Rec.
 

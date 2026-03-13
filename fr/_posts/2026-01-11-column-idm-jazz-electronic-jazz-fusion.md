@@ -19,7 +19,7 @@ title: '[Chronique] IDM × Jazz / Jazz Fusion Electronique'
 
 ## Introduction : L'intersection de l'IDM et du jazz
 
-Texte : mmr｜Thème : À propos de la musique présentée comme la structure du temps lui-même
+文：mmr｜テーマ：時間構造そのものとして提示されている音楽について
 
 
 La fusion de l’IDM et du jazz a progressé non pas comme une addition de genres, mais comme une refonte du sens du temps et de la philosophie de l’interprétation. En brouillant les frontières entre improvisation et composition, groove et programmation, et puissance humaine et machines, une esthétique différente de la fusion traditionnelle se forme. Depuis les années 1990, alors que la culture club et le jazz expérimental se sont approfondis simultanément, la structure rythmique elle-même est devenue le sujet de la musique.

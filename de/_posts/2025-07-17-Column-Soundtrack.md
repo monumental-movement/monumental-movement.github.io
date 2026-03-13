@@ -40,13 +40,13 @@ Ein Pianist und ein Orchester sorgten für Live-Musik im Kino. Daher gab es zu d
 
 [『ジャズ・シンガー』（1927）](https://amzn.to/3Wn4CTH)を皮切りに**光学式録音（Optical Sound）**が導入され、映像フィルムの中に音声情報（スコア）を記録する時代へ。
 
-Etwa zu dieser Zeit wurde die Bedeutung von „Soundtrack = Film-Audiomaterial“ klar.
+Etwa zu dieser Zeit wurde klar, was „Soundtrack = Audiomaterial eines Films“ bedeutet.
 
 **●Wichtige Medien für Filmmusik: technologische Veränderungen bei Aufnahme und Wiedergabe**
 
 ■Aufnahme auf dem Film selbst (Ton auf Film)
 
-- Optischer Soundtrack
+- Optisches Aufnahmeverfahren (Optical Soundtrack)
 
 Zwischen den 1930er und 1950er Jahren populär gemacht.
 
@@ -74,7 +74,7 @@ Seit den 1980er Jahren erfreut es sich als Format mit hoher Klangqualität, lang
 
 Es wurde möglich, vollständige Partituren aufzunehmen, was ein goldenes Zeitalter für die Wertschätzung von Filmmusik einläutete.
 
-Es sind auch auf Soundtracks spezialisierte Labels erschienen (La-La Land Records, Intrada, Varese Sarabande usw.).
+Es treten auch auf Soundtracks spezialisierte Labels auf (La-La Land Records, Intrada, Varese Sarabande usw.).
 
 ■DVD/Blu-ray: Video + Musik
 
@@ -88,7 +88,7 @@ Verkauf von Musikquellen auf iTunes und Amazon MP3.
 
 Auch unabhängige Filmkomponisten werden auf Plattformen wie Bandcamp vorgestellt.
 
-Vollständige Partituren, unveröffentlichte Songs und alternative Takes können in hoher Auflösung verbreitet werden.
+Vollständige Partituren, unveröffentlichte Songs und Alternativaufnahmen können in hoher Auflösung geliefert werden.
 
 ■Abonnement (Spotify / Apple Music usw.)
 
@@ -173,7 +173,7 @@ Partituren werden zum Zweck der Aufführung und Recherche von Filmmusik veröffe
 
 ### Veränderungen im Medium aus der Sicht eines Komponisten
 
-**● John-Williams-Generation (analog zur CD)**
+**● John Williams-Generation (analog zur CD)**
 
 Analoger Master für Orchesteraufnahmen → Digitalisierung
 

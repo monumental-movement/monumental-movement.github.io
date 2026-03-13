@@ -117,7 +117,7 @@ Nachfolgend finden Sie ein konkretes Beispiel für die Struktur einer Meditation
 | 30:30-35:00 | Ewige Reflexion | Talib Kweli & Hi-Tek | Rhythmus stärken und Selbstreflexion anleiten |
 | 35:00-40:30 | World's End Rhapsody | Nujabes | Meditative Melodien und Samples |
 | 40:30-45:00 | Donuts (Outro) | J Dilla | Behalten Sie die Immersion mit Beat-Loops bei |
-| 45:00-50:30 | Einbruch der Dunkelheit | Fliegender Lotus | Ambient Nachgeschmack |
+| 45:00-50:30 | Einbruch der Dunkelheit | Fliegender Lotus | Ambient und verweilend |
 | 50:30-60:00 | Eine lange Reise | Marconi-Union | Endphase Entspannung, Regulierung des Herzschlags |
 
 <div class="mermaid">
@@ -166,7 +166,7 @@ pie
 
 Die Verschmelzung von Ambient und Rap schafft ein neues Erlebnis an der Schnittstelle der Musikgenres. Geschichte, Theorie, Produktionsmethoden und Hörererfahrung interagieren und bieten einen introspektiven Raum, der über die bloße Wertschätzung hinausgeht.
 
-Mit technologischen Fortschritten wie KI-generierter Musik und binauraler Aufnahme haben Meditations-Playlists das Potenzial, personalisierter zu werden und ein zutiefst immersives Erlebnis zu bieten.
+Mit technologischen Fortschritten wie KI-generierter Musik und binauralen Aufnahmen haben Meditations-Playlists das Potenzial, personalisierter zu werden und ein zutiefst immersives Erlebnis zu bieten.
 
 > Unsere innere Reise beginnt an der Schnittstelle von Stille und Takt.
 

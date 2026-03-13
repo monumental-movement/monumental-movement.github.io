@@ -102,7 +102,7 @@ Für einen Moment, in dem alles verschmilzt, wird Musik zur „Substanz“.
 
 ---
 
-## Kapitel 4 Nass wird immer trocken – Eine Aufzeichnung von Emotionen ohne Emotionen
+## Kapitel 4 Nass wird immer trocknen – Aufzeichnung von Emotionen ohne Emotionen
 
 Im Jahr 2018 veröffentlichte Blawan schließlich ein Album in voller Länge, Wet Will Always Dry.
 Wie der Titel schon sagt: **Nass, trocken. **
@@ -162,7 +162,7 @@ Hinter den kalten mechanischen Geräuschen verbirgt sich das Atemgeräusch von V
 Nachdem er mit „Why They Hide Their Bodies Under My Garage“ Eindruck gemacht hat, ist er nach mehr als zehn Jahren zu „einem Gebet, das in der Zerstörung wohnt“ gelangt.
 
 In einer Zeit, in der Techno immer abstrakter wird und Clubs mit der digitalen Welt verschmelzen, wagt Blawan es, die „Schwerkraft“ zurückzubringen.
-Ein Beat fließt durch die Adern der Steel City.
+Der Beat, der durch die Adern der Steel City fließt.
 Darin fragt er leise: Kann Klang noch menschlich sein? **
 
 ---
@@ -210,7 +210,7 @@ flowchart TD
 ---
 
 > „Als ich zum ersten Mal hörte, dass „Why They Hide Their Bodys…“
-> Der Verein fühlte sich für einen Moment wie „eingefroren“.
+> Der Verein hatte für einen Moment das Gefühl, „eingefroren“ zu sein.
 > Angst und Vergnügen kommen gleichzeitig.
 > So einen Lkw gibt es alle 10 Jahre. ”
 > —— **Ben UFO (Hessle Audio)**
@@ -241,7 +241,7 @@ flowchart TD
 
 > „Ich habe Karenns Live-Auftritt von der Seitenlinie aus verfolgt,
 > Es fühlte sich an, als wäre man in einem Stahlwerk.
->Klingt, als würden Funken fliegen.
+> Hört sich an, als würden Funken fliegen.
 >Trotzdem waren die Gesichter des Publikums irgendwie freundlich. ”
 > —— **Chirurg (Anthony Child)**
 

@@ -9,7 +9,7 @@ permalink: /fr/davecore-run-ep/
 tags:
 - Electro
 - Breaks
-title: Davecore – Courez ! PE
+title: Davecore – Courez ! EP
 ---
 
 

@@ -11,15 +11,15 @@ tags:
 - Tech House
 - House
 - 90s
-title: Common Factor – Dreams Of Elsewhere
+title: Facteur commun – Rêves d’ailleurs
 ---
 
 
-Common Factor ことNick Calingaertは、シカゴ出身のDJ。90年代半ばには、Saint Nick名義でドラムンベースのDJとして活動していた。
+Nick Calingaert, également connu sous le nom de Common Factor, est un DJ originaire de Chicago. Au milieu des années 90, il était actif en tant que DJ drum and bass sous le nom de Saint Nick.
 
-「Dreams Of Elsewhere」は、Carl Craig(カール・クレイグ)のクラシックテクノレーベルPlanet E から1999年にリリースされたアルバム。
+"Dreams Of Elsewhere" est un album sorti en 1999 par le label techno classique de Carl Craig, Planet E.
 
-「Get Down」「will」「Horizons」など、Common Factorの代表曲が多数収録された名盤。
+Un chef-d'œuvre qui comprend de nombreuses chansons emblématiques de Common Factor telles que « Get Down », « Will » et « Horizons ».
 
 #### Liste des chansons
 ```md

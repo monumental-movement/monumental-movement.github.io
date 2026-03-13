@@ -239,7 +239,7 @@ Electro Maloya ist ein experimenteller Stil, der die traditionelle Musik der Ins
 | BPM | 100-140 BPM, traditioneller langsamer Maloya-Rhythmus |
 | Rhythmus | Looping-Percussion-Polyrhythmus |
 | Melodie | Synthesizer-Rekonstruktion traditioneller Melodien und Refrains |
-| Gesang | Hauptsächlich Chor, Sampling + Hall |
+| Gesang | Hauptsächlich Chorus, Sampling + Hall |
 | Songstruktur | Traditionelle Gründung + Clubaufbau/-unterbrechung/-abbruch |
 | Ton | Erweitern Sie den Raum mit analogen Synth-Loop-Effekten |
 

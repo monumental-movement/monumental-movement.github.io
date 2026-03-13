@@ -12,21 +12,21 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Chronique] Buchla et Serge : Une autre généalogie de l''acoustique électronique'
+title: 【コラム】 BuchlaとSerge：電子音響のもうひとつの系譜
 ---
 
 
-## « Introduction – Qu'est-ce que le modulaire ? »
+## 「はじめに — モジュラーとは何か」
 
 
-Texte : mmr | Thème : Histoire spirituelle des synthés modulaires de la côte Ouest. Comment les idées de Don Buchler et Serge Tocheny ont été transposées dans la conception sonore d'aujourd'hui
+文：mmr｜テーマ：西海岸モジュラーシンセの精神史。ドン・ブックラとサージ・トチェーニーの思想が、どのように今日のサウンドデザインへ継承されたのか
 
-Début des années 1970, côte ouest américaine.
-Il y a des gens qui ont quitté le studio de musique électronique de leur université et ont essayé de réintégrer **un appareil de conception sonore** dans leurs espaces de création personnels.
-Leurs noms sont **Don Buchla** et **Serge Tcherepnin**.
+1970年代初頭、アメリカ西海岸。  
+大学の電子音楽スタジオを離れ、**「音をデザインする装置」**を個人の創造空間へと持ち帰ろうとした人々がいた。  
+彼らの名前は **Don Buchla（ドン・ブックラ）** と **Serge Tcherepnin（サージ・トチェーニン）**。  
 
-Buchla et Serge sont souvent considérés comme les « ancêtres des synthés modulaires », mais ils se distinguent en réalité par le fait qu'ils ont cherché à créer des outils philosophiques plutôt que des instruments commerciaux.
-Leur philosophie de conception contenait une perspective sonore « anti-normative » qui est commune à la musique générée aujourd'hui par Eurorack, Max/MSP et même par l'IA.
+BuchlaとSergeは、いわゆる「モジュラーシンセの始祖」として語られることが多いが、実際には**商業楽器ではなく、哲学的な道具**を作ろうとした点で異彩を放っている。  
+彼らの設計思想は、今日のEurorackやMax/MSP、あるいはAIを用いた生成音楽にも通底する“反・規範的”な音響観を宿していた。
 
 ---
 
@@ -45,23 +45,23 @@ color: #fff;
 
 
 
-## 1. Don Buchler : Poétique du son électronique
+## 1. ドン・ブックラ：電子音の詩学
 
-### 1-1. De San Francisco Tape Music Center
+### 1-1. サンフランシスコ・テープ・ミュージック・センターから
 
-Au Tape Music Center de San Francisco, au début des années 1960, des artistes comme **Morton Subotnick** et **Pauline Oliveros** exploraient de nouvelles relations entre la musique expérimentale et la technologie.
-Ce qu'ils recherchaient, c'était «un instrument qui ne soit pas une extension du piano ou de la guitare».
+1960年代初期、サンフランシスコのテープ・ミュージック・センターでは、**Morton Subotnick** や **Pauline Oliveros** らが、実験音楽とテクノロジーの新しい関係を模索していた。  
+彼らが求めたのは、「ピアノやギターの延長ではない楽器」だった。
 
-La **Série Buchla 100 (1963-1966)** est apparue en réponse à la demande de Subotnick.
-L'opérabilité musicale traditionnelle a été intentionnellement évitée, comme la configuration du circuit acoustique utilisant des boutons et des câbles de raccordement, et le clavier à plaque tactile (en fait un dispositif d'entrée de tension sans échelle).
+Subotnickの依頼に応えて登場したのが、**Buchla Series 100（1963–1966）**である。  
+ノブとパッチケーブルによる音響回路の構成、タッチプレート式キーボード（実際には「音階を持たない電圧入力デバイス」）など、従来の楽器的操作性を意図的に排していた。
 
-> "Pas de touches noires et blanches." -Don Buchla
+> “No black and white keys.” — Don Buchla
 
-### 1-2. La philosophie de Buchla : l'électronique performative
+### 1-2. Buchlaの思想：Performative Electronics
 
-Buchla a conçu les instruments de musique comme « un écosystème dans lequel coexistent contrôle et génération ».
-Le son ne provient pas directement du corps de l'interprète, mais est généré par le comportement abstrait des changements de tension.
-La performance devient alors un « acte » d’improvisation et le son est fluide.
+Buchlaは楽器を**「制御と生成が同居する生態系」**として設計した。  
+音は演奏者の身体から直接出るのではなく、電圧変化という**抽象的な振る舞い**によって生成される。  
+そのため、演奏は即興的な“行為”となり、音は流動する。
 
 ---
 
@@ -79,61 +79,61 @@ flowchart LR
 
 </div>
 
-Cette structure symbolise la vision du monde de Buchla consistant à « catalyser le son plutôt que de le manipuler ».
-Le Low Pass Gate (un élément qui contrôle à la fois le volume et le timbre) est devenu plus tard un dispositif philosophique standard dans la culture Eurorack.
+この構造こそが、「**音を操作するのではなく、音を触媒する**」というBuchlaの世界観を象徴している。  
+Low Pass Gate（音量と音色を一体制御する素子）は、後にEurorack文化でも定番の哲学装置となった。
 
 ---
 
-## 2. Serge Tochenin : module démocratisé
+## 2. サージ・トチェーニン：民主化されたモジュール
 
-### 2-1. Naissance du « Synthétiseur du peuple »
+### 2-1. “The People’s Synthesizer” の誕生
 
-À la fin des années 1970, le jeune musicien Serge Tochenin a été impressionné par la philosophie de conception de Don Buchla et, alors qu'il étudiait la musique électronique à l'UCLA, il a imaginé un « appareil de type Buchla auquel davantage de gens pourraient avoir accès ».
-Il s'agit du **Serge Modular Music System (1974–)**.
+1970年代後半、ドン・ブックラの設計思想に感銘を受けた若き音楽家サージ・トチェーニンは、UCLAで電子音楽を学びながら「より多くの人が手にできるBuchla的装置」を構想した。  
+それが **Serge Modular Music System（1974–）**である。
 
-Alors que Buchler créait des machines personnalisées pour les artistes, Serge est enraciné dans la culture du bricolage et dans la communauté universitaire, avec une philosophie consistant à « ouvrir les schémas pour que tout le monde puisse les construire ».
-Cette attitude open source était une révolution conceptuelle qui a précédé la diffusion ultérieure d'Eurorack.
+ブックラが芸術家のための特注機を作ったのに対し、SergeはDIY文化と大学コミュニティに根ざし、**「回路図を公開し、誰でも作れる」**という精神を掲げた。  
+このオープンソース的な姿勢は、後のEurorack普及に先駆けた概念的革命だった。
 
-### 2-2. La philosophie de Serge : Programmabilité des Patchs
+### 2-2. Sergeの哲学：Patch Programmability
 
-La philosophie fondamentale de Serge est **« Un module, plusieurs fonctions »**.
-Autrement dit, l’idée est qu’un seul circuit peut avoir une infinité de modes de fonctionnement selon la manière dont il est connecté.
-Par exemple, le Dual Universal Slope Generator (communément appelé « DSG »)
-- enveloppe
--LFO
-- délai de déclenchement
-- diviseur d'horloge
--Module Chaos
-La fonctionnalité change en fonction de la configuration du correctif.
+Sergeの根本思想は、**“One module, many functions”**。  
+つまり、単一の回路が接続方法次第で無数の動作モードを持つという考えだ。  
+たとえばDual Universal Slope Generator（通称「DSG」）は、  
+- エンベロープ  
+- LFO  
+- トリガーディレイ  
+- クロックディバイダ  
+- カオスモジュール  
+と、パッチ構成次第で機能が変容する。
 
-Cette philosophie se poursuit directement dans les correctifs Max/MSP actuels, les Reaktor Blocks et les « Maths » Make Noise d'Eurorack.
-
----
-
-## 3. Comparaison de Buchla et Serge : structure et idéologie
-
-| Élément | Bouchla | Serge |
-|------|---------|---------|
-| Point de départ | Instruments expérimentaux pour artistes | Éducation et culture du bricolage |
-| Philosophie opérationnelle | Performatif (le son comme action) | Fonctionnel (le son comme structure) |
-| Conception fonctionnelle | Configuration du module dédié | Combinaison de modules à usage général |
-| Contrôle | Fonctionnement en tension abstraite | Manipulation concrète du signal |
-| Tendances acoustiques | Organique, dynamique, fluide | Réponse linéaire, claire et rapide |
-| Influences culturelles | Art sonore, installation | Noise, techno, musique électronique DIY |
+この思想は今日のMax/MSPパッチング、Reaktor Blocks、あるいはEurorackのMake Noise「Maths」へと直系で受け継がれている。
 
 ---
 
-## 4. Chronologie technologique
+## 3. BuchlaとSergeの比較：構造と思想
 
-| Année | Événements | Remarques |
+| 要素 | Buchla | Serge |
+|------|--------|--------|
+| 出発点 | 芸術家向け実験楽器 | 教育・DIY文化 |
+| 操作思想 | Performative（行為としての音） | Functional（構造としての音） |
+| 機能設計 | 専用モジュール構成 | 汎用モジュールを組み合わせ |
+| コントロール | 抽象的電圧動作 | 具体的信号操作 |
+| 音響傾向 | 有機・動的・滑らか | 線形・明快・高速レスポンス |
+| 文化的影響 | アートサウンド、インスタレーション | ノイズ、テクノ、DIY電子音楽 |
+
+---
+
+## 4. 技術年表
+
+| 年 | 出来事 | 備考 |
 |----|--------|------|
-| 1963 | Début du développement de la Buchla Series 100 | Premier modulaire commandé par Subotnick |
-| 1966 | Début du prototype du Buchla Music Easel | Le fondateur des synthés portables |
-| 1974 | Annonce modulaire Serge | Slogan « Synthétiseur populaire » |
-| 1980 | Présentation du générateur à double pente Serge | Philosophie du patch terminé |
-| années 1990 | Serge Période de réévaluation | Reprise analogique et rechute |
-| 2004 | Le boom de l'Eurorack commence | Hérité de Doepfer, Make Noise, etc. |
-| Années 2020 | Buchla USA / Serge réimpression | Recontextualisation de la pensée originale |
+| 1963 | Buchla Series 100 開発開始 | Subotnick委託による最初のモジュラー |
+| 1966 | Buchla Music Easel 原型登場 | ポータブル・シンセの始祖 |
+| 1974 | Serge Modular 発表 | “People’s Synthesizer”のスローガン |
+| 1980 | Serge Dual Slope Generator 登場 | パッチ哲学の完成形 |
+| 1990s | Serge再評価期 | アナログリバイバルと再発 |
+| 2004 | Eurorackブーム開始 | Doepfer, Make Noiseなどに継承 |
+| 2020s | Buchla USA / Serge復刻 | オリジナル思想の再文脈化 |
 
 ---
 

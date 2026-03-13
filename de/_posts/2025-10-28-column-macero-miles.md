@@ -21,9 +21,9 @@ title: '[Kolumne] Teo Macero und Miles Davis —— Der Moment, in dem die Bearb
 
 Text: mmr | Thema: „Musikalische Revolution durch Bearbeitung“, zusammengestellt von Miles Davis und Teo Macero – Erforschung neuer Horizonte in der Aufnahmekunst durch die Magie des Bandspleißens und der Komposition.
 
-Ende der 1960er Jahre war die Musik von Miles Davis nicht mehr eine Erweiterung seiner Live-Auftritte, sondern verwandelte sich in eine durch Aufnahme und Bearbeitung konstruierte „Klangarchitektur“. Hinter der Änderung steht Produzent und Herausgeber **Teo Macero**.
+Ende der 1960er Jahre war die Musik von Miles Davis nicht mehr eine Erweiterung seiner Live-Auftritte, sondern verwandelte sich in eine „Klangarchitektur“, die durch Aufnahme und Bearbeitung konstruiert wurde. Hinter der Änderung steht Produzent und Herausgeber **Teo Macero**.
 
-Macero war nicht nur eine Person „hinter den Kulissen“. Unter seinen Händen wurde eine große Anzahl von Sitzungskassetten ausgeschnitten, zusammengefügt und wieder zusammengesetzt, was zu einem Gesamtwerk führte, das man als „Komposition durch Bearbeitung“ bezeichnen könnte.
+Masero war nicht nur eine Person „hinter den Kulissen“. Unter seinen Händen wurde eine große Anzahl von Sitzungskassetten ausgeschnitten, zusammengefügt und wieder zusammengesetzt, was zu einer Werkgruppe führte, die man als „Komposition durch Bearbeitung“ bezeichnen kann.
 „In a Silent Way“ (1969) und „Bitches Brew“ (1970) sind Paradebeispiele. Es gibt eine **Revolution in der Bearbeitungsästhetik**, die über die Grenzen zwischen „Aufführung“ und „Komposition“ hinausgeht.
 
 ---
@@ -58,7 +58,7 @@ Was ihn jedoch von anderen Produzenten unterschied, war, dass er den Schnitt sel
 ## Kapitel 2: „In a Silent Way“ – Die Magie der Zeitbearbeitung
 
 „In a Silent Way“, aufgenommen im Jahr 1969, kann als „Ausgangspunkt der Bearbeitung“ in der Geschichte des Jazz bezeichnet werden.
-Miles, John McLaughlin, Chick Corea, Wayne Shorter und andere improvisierten die Session, aber Theo Macero rekonstruierte die Aufnahme mutig.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter und andere improvisierten die Sessions, aber Theo Macero strukturierte die Aufnahmen mutig um.
 
 Besonders beeindruckend ist die „Ringstruktur“, bei der am Anfang und am Ende der gleiche Take verwendet wird.
 Phrasen, die in der eigentlichen Aufnahme nur einmal gespielt wurden, „tauchten“ durch Maceros Bearbeitung wieder auf und verkörperten musikalisch das Konzept einer **Zeitschleife**.
@@ -83,13 +83,13 @@ flowchart LR
 
 ## Kapitel 3: „Bitches Brew“ – Der Operationstisch, der Ordnung aus dem Chaos schafft
 
-Mit „Bitches Brew“ aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch weiter.
+Mit Bitches Brew aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch mehr.
 Mehr als sechs Tonbandgeräte liefen gleichzeitig, sodass das Studio wie ein Labor wirkte.
 
 Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer Flut fragmentierter Improvisationen führt.
 Macero fügte diese Fragmente zu Einheiten von mehreren Metern zusammen und gestaltete durch Bearbeitung den rhythmischen Fluss und den akustischen „Ort“.
 
-> „Ich habe Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
+> „Ich habe die Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
 > — Teo Macero
 
 Seine Methode ähnelte der Musique Concrète, war aber auch mit der freien Improvisation des Jazz verbunden.
@@ -137,14 +137,14 @@ Die Beziehung zwischen Miles Davis und Macero war schon immer von Zusammenarbeit
 Während Miles die Freiheit der Improvisation anstrebte, versuchte Macero, die Ergebnisse durch Bearbeitung zu gestalten.
 Die Spannung zwischen den beiden ist das Lebenselixier der Arbeit.
 
-In gewisser Weise wäre Miles‘ „Revolution“ ohne Macero nicht möglich gewesen, und Maceros Schnittmagie wäre nur aufgrund von Miles‘ **subversivem Material** möglich gewesen.
+In gewisser Weise wäre Miles‘ „Revolution“ ohne Macero nicht möglich gewesen, und Macellos Schnittmagie wäre nur aufgrund von Miles‘ **subversivem Material** möglich gewesen.
 Die Beziehung zwischen beiden war eine Dialektik von „Aufbau und Abriss“.
 
 ---
 
 ## Kapitel 6: Auf dem Weg zur Post-Masero-Ära – Erbe und Einfluss
 
-In den späten 1970er Jahren verließ Macero Columbia, doch sein Einfluss breitete sich während seiner gesamten Musikproduktion weiter aus.
+In den späten 1970er Jahren verließ Macero Columbia, doch sein Einfluss breitete sich während seiner späteren Musikproduktion weiter aus.
 Insbesondere in den folgenden Bereichen wurde Maseros redaktionelle Philosophie eindeutig übernommen.
 
 | Feld | Repräsentativer Künstler | Vererbung |
@@ -161,7 +161,7 @@ Auf diese Weise lebt Maceros „Editing-Geist“ auch im digitalen Zeitalter wei
 ## Kapitel 7: Vom Band zur DAW – Kontinuität und Diskontinuität in der Technologie
 
 Die DAW (Digital Audio Workstation), die wir heute verwenden, ist eine Umgebung, die die Bandbearbeitung aus Maceros Ära zerstörungsfrei nachbildet.
-Was jedoch entscheidend anders ist, ist das „Gefühl“ von Bearbeitung und Zeit.
+Was jedoch entscheidend anders ist, ist das „Gefühl“ der Bearbeitung und der Zeit.
 
 Der Schnitt war im Bandzeitalter irreversibel und jeder Schnitt war immer ein Risiko.
 Diese Spannung gab der Musik „Leben“.
@@ -216,9 +216,9 @@ Es war ein Akt des Komponierens, so wie ein Architekt einen Raum entwirft.
 
 ---
 
-## Kapitel 9: Philosophische Aspekte von Bearbeitungstechniken —— Die Idee des „Komponierens von Ohren“
+## Kapitel 9: Philosophische Aspekte der Bearbeitungstechnologie —— Die Idee des „Komponierens von Ohren“
 
-Maceros redaktionelle Philosophie besteht darin, Aufnahmen nicht als „objektive Aufzeichnungen“, sondern als „rekonstruierte Erfahrungen“ zu betrachten.
+Macellos redaktionelle Philosophie besteht darin, Aufnahmen nicht als „objektive Aufzeichnungen“, sondern als „rekonstruierte Erfahrungen“ zu betrachten.
 Hier gibt es eine philosophische Grundlage, die sich durch die gesamte Kunst des 20. Jahrhunderts zieht.
 
 | Ideologische Elemente | Inhalt | Verwandte Bereiche |
@@ -285,7 +285,7 @@ Man kann sagen, dass Maceros bearbeiteter Sound bereits die „Skulptur der Zeit
 
 ---
 
-## Ergänzende Abbildung: „Komposition durch Bearbeitung“-Modell im Masero-Stil
+## Ergänzende Abbildung: „Komposition durch Bearbeitung“-Modell im Macero-Stil
 
 <div class="mermaid">
 
@@ -387,7 +387,7 @@ flowchart LR
 | ------ | --------- | -------------------------- |
 | Spleiß ① | Erzwungener Übergang vom Drum/Bass-Layer zum Trompetensolo | So schneiden, dass es wie eine „spontane“ Komposition aussieht |
 | Spleiß ② | Verbindung der Sitzungen B und C (Tempoinkongruenz) | Hörverwirrung → Trance-Effekt |
-| Spleiß ③ | Überlagerung verschiedener Rhythmusebenen | Mehrschichtige Rillen |
+| Spleiß ③ | Übereinanderlegen verschiedener Rhythmusebenen | Mehrschichtige Rillen |
 | Spleißen ④ | Rekursives Einfügen eines Themas | Strukturelle Zirkularisierung (In a Silent Way-Technik) |
 
 
@@ -461,7 +461,7 @@ sequenceDiagram
 </div>
 
 Der Schnitt in „Bitches Brew“ ist eine „Post-Recording-Erweiterung“ der Jazzimprovisation.
-Masellos Kunst liegt an der Grenze zwischen der Unmittelbarkeit der Aufführung und der Konstruktion des Schnitts.
+Maseros Kunst liegt an der Grenze zwischen der Unmittelbarkeit der Aufführung und der Konstruktion des Schnitts.
 Es war ein Versuch, den Studioraum als „ein weiteres Instrument“ zu nutzen.
 
 ---

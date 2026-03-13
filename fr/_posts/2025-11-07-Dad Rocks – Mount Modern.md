@@ -10,13 +10,13 @@ tags:
 - Alternative Rock
 - Folk Rock
 - 10s
-title: Papa est génial ! – Mont Moderne
+title: Dad Rocks! – Mount Modern
 ---
 
 
-Papa est génial ! est un projet formé en 2010 par le musicien islandais Snaevar Albertsson, devenu célèbre avec le groupe de rock indépendant danois Mimas.
+Dad Rocks!は、デンマークのインディーロックバンドMimasで有名になったアイスランドのミュージシャン、Snaevar Albertssonが2010年に結成したプロジェクト。
 
-"Mount Modern" est le premier album de Dad Rocks! sorti en 2011.
+「Mount Modern」は2011年にリリースされたDad Rocks! のデビューアルバム。
 
 #### Liste des chansons
 ```md

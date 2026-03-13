@@ -51,7 +51,7 @@ color: #fff;
 
 ## Chapitre 1 : Souvenirs du « toucher » emportés par le numérique
 
-Lorsque le CD a été introduit en 1982, le monde s’est réjoui.
+Lorsque le CD a été introduit en 1982, le monde s'est réjoui.
 Silencieux, durable et très résistant. La musique est devenue des données et les médias sont devenus transparents.
 
 Cependant, **cette transparence était le « problème »**.
@@ -70,7 +70,7 @@ Ces **troubles créent en fait de l'attachement**.
 
 ## Chapitre 2 : Souvenirs dans le bruit -- Analogique et nostalgie
 
-Le bruit sourd au moment où l'aiguille tombe.
+Au moment où l'aiguille tombe, il y a un bruit « sah ».
 Pour une raison quelconque, beaucoup de gens se sentent nostalgiques rien qu’en l’écoutant.
 
 Ce phénomène est psychologiquement appelé « effet Proust ».

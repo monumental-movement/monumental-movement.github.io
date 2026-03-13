@@ -15,7 +15,7 @@ title: Elektrochemie LK – Mädchen! Teil 2
 ---
 
 
-Elektrochemie LK ist das Pseudonym von DJ Thomas Schumacher, einem Technomusiker aus Deutschland, der seit den 90er Jahren aktiv ist.
+Elektrochemie LK ist das Pseudonym von DJ Thomas Schumacher, einem deutschen Technomusiker, der seit den 1990er Jahren aktiv ist.
 
 „Girl! / Part 2“ ist ein Techno-Elektro-Track, der 2001 vom deutschen Label Leaded veröffentlicht wurde.
 
@@ -23,7 +23,7 @@ Der erste Song auf Seite A ist ein Remix von Christopher Just, bekannt für sein
 
 Der zweite Track auf Seite A ist ein Remix des deutschen Techno-DJs und Produzenten Stephan Bodzin.
 
-Der erste Song auf Seite B ist ein Remix von ALEXANDER KOWALSKI, einem seit den 90er Jahren aktiven Techno-Produzenten und Performer.
+Der erste Song auf der B-Seite ist ein Remix von ALEXANDER KOWALSKI, einem seit den 90er Jahren aktiven Techno-Produzenten und Performer.
 
 #### Trackliste
 ```md

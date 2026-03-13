@@ -13,7 +13,7 @@ title: Samboa – Samboa
 ---
 
 
-Dieses Album ist eine Neuauflage des zweiten Albums „Samboa“, das 1983 vom brasilianischen Jazzduo Sambôa veröffentlicht wurde.
+Dieses Album ist eine Neuauflage des zweiten Albums „Samboa“ des brasilianischen Jazz-Duos Sambôa, das 1983 veröffentlicht wurde.
 
 #### Trackliste
 ```md

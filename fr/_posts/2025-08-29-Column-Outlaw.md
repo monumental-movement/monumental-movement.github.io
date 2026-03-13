@@ -116,7 +116,7 @@ Le hip-hop repose sur les « quatre piliers » que sont les block parties, le gr
 
 ---
 
-Le métal a reçu l'image d'être « diabolisé » et a suscité des controverses sur l'autorégulation comme le PMRC. Selon le sous-genre, cela peut également créer des conflits sociaux liés à des incidents violents et à des déclarations discriminatoires.
+Le métal a reçu l'image d'être « diabolisé » et a suscité des controverses sur l'autorégulation comme celle du PMRC. Selon le sous-genre, cela peut également créer des conflits sociaux liés à des incidents violents et à des déclarations discriminatoires.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -207,7 +207,7 @@ L'hybridation des mouvements sociaux et des événements musicaux (soirées de c
 
 **Conversion d'espace** : Entrepôt/ruines/rue → club/site (problèmes de construction illégale, de bruit et d'occupation).
 
-**Périphérie économique** : Friction entre la distribution informelle (démarrage, mixage, vente manuelle) et le régime du droit d'auteur.
+**Périphérie économique** : Friction entre la distribution informelle (démarrage, mixage, vente manuelle) et le régime du droit d'auteur.
 
 **Techniques physiques** : mouvements qui semblent violents/obscènes à l'extérieur, tels que le moshing, le break et les liquidations.
 

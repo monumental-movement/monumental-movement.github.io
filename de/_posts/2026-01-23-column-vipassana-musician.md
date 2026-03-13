@@ -51,9 +51,9 @@ color: #fff;
 > Vipassana ist eine alte Meditationsmethode, die bedeutet, „die Dinge so zu sehen, wie sie wirklich sind“, und wird auch heute noch häufig praktiziert, um durch Selbstbeobachtung und geistige Reinigung einen ausgeglichenen Geist zu kultivieren.
 
 Die Vipassana-Meditation hat ihre Wurzeln in der buddhistischen Tradition, hat sich jedoch als universelle Technik unabhängig von der Religion weit verbreitet.
-Die Grundlagen sind **sorgfältiges Beobachten Ihrer Atmung und Körperempfindungen sowie das Erkennen des natürlichen Gedanken- und Gefühlsflusses**.
+Die Grundlagen bestehen darin, **sorgfältig Ihre Atmung und Ihre Körperempfindungen zu beobachten und den natürlichen Fluss von Gedanken und Emotionen zu erkennen**.
 
-Moderne Praktiker berichten oft, dass Beobachtung und Achtsamkeit die Reaktionen des Geistes beruhigen, was zu **erhöhter Kreativität und Konzentration** führt.
+Moderne Praktiker berichten oft, dass sie ihre mentalen Reaktionen durch Beobachtung und Achtsamkeit beruhigen können und dadurch **Kreativität und Konzentration verbessern**.
 
 ---
 
@@ -121,7 +121,7 @@ graph LR
     E --> F[音楽の質の向上]
 </div>
 
-> Das obige Diagramm veranschaulicht den Prozess, durch den Meditation Aufmerksamkeit und Bewusstsein fördert, was letztendlich die Kreativität und den musikalischen Ausdruck beeinflusst.
+> Das obige Diagramm veranschaulicht den Prozess, durch den Meditation Aufmerksamkeit und Bewusstsein fördert, was letztlich die Kreativität und den musikalischen Ausdruck beeinflusst.
 
 ---
 

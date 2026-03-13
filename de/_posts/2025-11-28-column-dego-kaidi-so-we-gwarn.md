@@ -24,12 +24,12 @@ title: '[Spalte] Dego & Kaidi und Sound Signature'
 
 
 
-## Einleitung – Geburt und Kontext von Broken Beat
+## Einleitung – Entstehung und Kontext von Broken Beat
 
 Text: mmr｜Thema: EUK Über die Schnittstelle von Broken Beat und globaler schwarzer Musik
 
 
-In den späten 1990er Jahren entstand eine neue Musikbewegung in der Clubkultur im Westen Londons. Es handelt sich um ein Genre namens „Broken Beat“ (auch bekannt als „Bruk“), das sich vom traditionellen 4/4 House oder Drum and Bass unterscheidet und mutig komplexe, springende Rhythmen und Elemente aus Jazz, Funk und Soul einbezieht. Broken Beat ist mehr als nur ein Musikstil. Er entwickelte sich aus der schwarzen Community im Westen Londons, der Clubkultur und kreativen Underground-Netzwerken.
+In den späten 1990er Jahren entstand eine neue Musikbewegung in der Clubkultur im Westen Londons. Es handelt sich um ein Genre namens „Broken Beat“ (auch bekannt als „Bruk“), das sich vom traditionellen 4/4 House oder Drum and Bass unterscheidet und mutig komplexe, springende Rhythmen und Elemente aus Jazz, Funk und Soul einbezieht. Broken Beat ist mehr als nur ein Musikstil. Er entwickelte sich aus den schwarzen Communities im Westen Londons, der Clubkultur und kreativen Underground-Netzwerken.
 
 <div class="mermaid">
 flowchart TD
@@ -177,7 +177,7 @@ In der heutigen Zeit, in der die Grenzen zwischen den Genres verschwimmen, ist i
 | Jahr | Veranstaltungen |
 |---|---|
 | 1997 | Theo Parrish gründet Sound Signature |
-| 1998 | Dego establishes 2000Black |
+| 1998 | Dego gründet 2000Black |
 | 1998–00er | Kaidi Tatham schließt sich der Broken Beat-Szene an |
 | 1999 | Kaidi & 2000Black erste Zusammenarbeit |
 | 2003 | Ankündigung der Clubhymne von Dego & Kaidi |

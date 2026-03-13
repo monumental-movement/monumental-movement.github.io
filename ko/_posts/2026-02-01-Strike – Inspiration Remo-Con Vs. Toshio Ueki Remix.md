@@ -14,7 +14,7 @@ title: Strike – Inspiration (Remo-Con Vs. Toshio Ueki Remix)
 ---
 
 
-영국의 일렉트로닉 댄스 뮤직 그룹 스트라이크가 1996년에 발매한 「Inspiration」의 Trance/Euro House 리믹스. 2004년에 일본의 라벨 Trance Paradise로부터 릴리스된 프로모션 판.
+영국의 일렉트로닉 댄스 뮤직 그룹 스트라이크가 1996년에 발매한 「Inspiration」의 Trance/Euro House 리믹스. 2004년에 일본의 라벨 Trance Paradise에서 릴리스된 프로모션 판.
 
 DJ Remo-con이란 Tetsuya Tamura는, 세계의 하드 댄스나 테크노의 페스티벌, ULTRA Japan등에서도 자주 라이브를 실시하고 있는, 일본의 하드 댄스계를 대표하는 아티스트의 한 사람.
 

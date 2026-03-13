@@ -24,7 +24,7 @@ Während ihrer Aktivitäten nahmen der Cellist Dan Weaver und die Schlagzeuger R
 
 Im Jahr 1990 trat er auf Wunsch von Derek Bailey auch bei „Company Week“ auf.
 
-Nachdem Caswell nach Dänemark gezogen war und Weaver wegen Tanz- und Theaterarbeit eine Aufnahmepause eingelegt hatte, arbeitete Wand weiter und produzierte ihre vielleicht erfolgreichsten Alben, Organ Transplants vol. 1 & 2. Sharpley trug auch musikalisch bei.
+Auch nachdem Caswell nach Dänemark gezogen war und Weaver aufgrund seiner Tanz- und Theaterarbeit eine Aufnahmepause eingelegt hatte, arbeitete Wand weiter und produzierte ihre vielleicht erfolgreichsten Alben, Organ Transplants vol. 1 & 2. Sharpley trug auch musikalisch bei.
 
 Wand gründete und betrieb Hot Air Records, um S,H&W-Platten zu promoten, und veröffentlichte eine breite Palette ihrer eigenen Werke sowie die anderer Künstler auf dem Label.
 

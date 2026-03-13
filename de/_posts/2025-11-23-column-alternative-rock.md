@@ -25,9 +25,9 @@ Text: mmr｜Thema: 40 Jahre Geschichte, bis die Gegenkultur zum Mainstream wurde
 
 Obwohl der Begriff „Alternative Rock“ in den frühen 1990er Jahren populär wurde, lassen sich seine Ursprünge auf die Underground-Szenen der Vereinigten Staaten und Großbritanniens in den frühen 1980er Jahren zurückführen.
 
-In den 1980er Jahren konzentrierte sich der Mainstream-Rock auf lauten, arenagroßen Hardrock, kommerziell aufpolierten AOR und Pop-Rock im Zusammenhang mit MTV. Andererseits begann in regionalen Städten und Universitätsstädten eine neue Bewegung von Bands zu entstehen, die im DIY-Geist verwurzelt waren und nicht auf kommerziellen Erfolg basierten.
+In den 1980er Jahren konzentrierte sich der Mainstream-Rock auf lauten, arenagroßen Hardrock, kommerziell polierten AOR und Pop-Rock im Zusammenhang mit MTV. Andererseits begann in regionalen Städten und Universitätsstädten eine neue Bewegung von Bands zu entstehen, die im DIY-Geist verwurzelt waren und nicht auf kommerziellen Erfolg basierten.
 
-In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung, die als „College-Rock“ bekannt war, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
+In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung namens „College Rock“, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
 
 Etwa zur gleichen Zeit verzweigte sich in Großbritannien die Post-Punk-Szene auf komplizierte Weise im Untergrund.
 Labels wie Factory, 4AD und Creation hatten alle ihre eigene, einzigartige Ästhetik und veröffentlichten eine breite Palette von Bands von Gitarrenpop über Shoegaze bis hin zu Gothic Rock.
@@ -59,9 +59,11 @@ Etwa zur gleichen Zeit entstanden Bands wie The Replacements, Hüsker Dü, The F
 In Großbritannien debütierten The Smiths 1984. Durch die Kombination der Zartheit des Gitarrenpops mit sozialen Themen bestimmten sie die Werte des späteren Indie-Rock.
 
 Das gemeinsame Merkmal dieser Zeit ist, dass „die Ideologie der Musik vorausging“.
-・Abstand vom Kommerz
-・Aufstieg aus lokalen Städten und Universitätsstädten
+
+- Distanz zum Kommerzialismus
+- Aufstieg aus Regionalstädten und Universitätsstädten
 - Nehmen Sie Emotionen und Stimmen auf, die nicht von den Hauptfächern abgedeckt werden
+
 Diese drei wurden zur Grundlage für das spätere Alterna.
 
 ---
@@ -85,9 +87,11 @@ In dieser Zeit wurde der Kern dessen zusammengestellt, was später zur „Altern
 Nirvanas „Nevermind“ erreichte Platz eins in den Vereinigten Staaten und katapultierte die Underground-Szene in den Mainstream.
 
 charakteristisch für Grunge
-・Texte voller Instabilität
-・Mischung aus Brüllen und Melodie
-・Punk-Ethik
+
+- Texte voller Instabilität
+- Mischung aus Brüllen und Melodie
+- Punk-Ethik
+
 Allerdings stellte er andere Werte dar als kommerzieller Rock und wurde zu einer weltweiten Bewegung mit Massenübertragungen auf MTV.
 
 Etwa zur gleichen Zeit erzielten Bands aus Seattle wie Pearl Jam, Soundgarden und Alice in Chains nacheinander Erfolge und wurden weltweit als „Vertreter des Grunge/Alternative“ anerkannt.
@@ -137,7 +141,7 @@ In den späten 2000er Jahren wurde die amerikanische Festivalkultur (Coachella, 
 
 Seit den 2010er Jahren verschwimmen die Genregrenzen des Rock durch die Verbreitung von Streaming und Alternative erhält vielfältigere Bedeutungen.
 
-Mit Tame Impalas psychedelischer Route, Bon Ivers digitaler/Folk-Fusion, Deerhunters Experimenten und dem Aufstieg weiblicher Künstler (St. Vincent, Mitski, Phoebe Bridgers) hat sich der Alternatismus vollständig zu „Altera als ästhetische Haltung“ gewandelt.
+Mit Tame Impalas psychedelischer Route, Bon Ivers Digital/Folk-Fusion, Deerhunters Experimenten und dem Aufstieg weiblicher Künstler (St. Vincent, Mitski, Phoebe Bridgers) hat sich der Alternatismus vollständig zu „Altera als ästhetische Haltung“ gewandelt.
 
 Anstelle des „Anti-Kommerzialismus“ der Vergangenheit,
 **„Eine Produktionshaltung, die Unabhängigkeit und Experimentierfreude betont“**

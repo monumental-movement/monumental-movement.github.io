@@ -15,7 +15,7 @@ title: Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück
 ---
 
 
-Kimusawea est un groupe hardcore/post-hardcore/expérimental formé par Alexandra Petrović et Hajo Greif de Francfort, en Allemagne. Bien que le groupe se soit dissous en 1998, Alexandra Petrović est devenue membre du groupe de grindcore/metal expérimental allemand Bolz'n de 2003 à 2007, et de 2007 en tant que membre d'Idiot Switch.
+Kimusawea est un groupe hardcore/post-hardcore/expérimental formé par Alexandra Petrović et Hajo Greif de Francfort, en Allemagne. Bien que le groupe se soit dissous en 1998, Alexandra Petrović est devenue membre du groupe de grindcore/metal expérimental allemand Bolz'n de 2003 à 2007, et membre d'Idiot Switch à partir de 2007.
 
 Le troisième morceau de la face A comprend des extraits de "Wild at Heart" et "Elephant Man" de David Lynch, "Brazil" de Terry Gilliam et "Phase IV: Insect Panic" de Saul Bass.
 

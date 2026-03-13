@@ -72,7 +72,7 @@ Dans l’Amérique d’après la Seconde Guerre mondiale, « White Christmas » 
 
 **Caractéristiques**
 - de superbes cordes et cornes
-- Reprise de chanson classique + original
+- Couverture de chanson classique + original
 - Organisation de soirées dansantes
 - Un pont vers des chansons de Noël synth pop/R&B ultérieures
 
@@ -182,7 +182,7 @@ En 1994, "All I Want For Christmas Is You" de Mariah Carey est devenu un succès
 
 ---
 
-## L'ère SNS/streaming des années 2010 à 2020
+## Ère SNS/streaming des années 2010 à 2020
 
 * Lecture grand public sur Spotify, Apple Music et YouTube
 * Une vieille reprise de chanson devient virale sur TikTok

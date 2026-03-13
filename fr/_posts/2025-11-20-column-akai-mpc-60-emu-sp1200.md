@@ -118,7 +118,7 @@ Bien que Mirage ne soit pas 12 bits, il est très influent en tant qu'échantill
 
 *Année de sortie : 1985
 * Profondeur de bits : 12 bits
-* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de "synthétiser des échantillons de tonalités".
+* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de « synthétiser des échantillons de tonalités ».
 
 ---
 

@@ -15,7 +15,7 @@ title: Baby Ford – Children Of The Revolution
 
 Baby Ford Peter Frank Adshead는 애시드 하우스의 탄생에 기여한 것으로 알려진 영국의 일렉트로닉 뮤직 프로듀서. 1988년에 발표된 클럽 트럭 'Oochy Koochy (F.U. Baby Yeah Yeah)'는 UK 싱글 차트에서 히트한 UK 최초의 애시드 하우스 레코드로 간주되고 있다.
 
-이 레코드는 1989년에 발매된 Marc Bolan & T. Rex의 히트곡 'Children of the Revolution'을 BabyFord가 하우스/어시드하우스/일렉트로하우스풍으로 샘플링&커버한 House 믹스로, UK의 인디펜던트 트래블 Rhythm King에서 1989년에 발매되었다.
+이 레코드는 1989년에 발표된 Marc Bolan & T. Rex의 히트곡 'Children of the Revolution'을 BabyFord가 하우스/어시드하우스/일렉트로하우스풍으로 샘플링&커버한 House 믹스로, UK의 인디펜던트 트래블 Rhythm King에서 1989년에 발매되었다.
 
 #### Tracklist
 ```md

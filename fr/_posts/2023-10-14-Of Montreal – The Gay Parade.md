@@ -9,11 +9,11 @@ permalink: /fr/of-montreal-the-gay-parade/
 tags:
 - Rock
 - Psychedelic
-title: De Montréal – La Gay Parade
+title: Of Montreal – The Gay Parade
 ---
 
 
-of Montreal est un groupe de rock américain formé en Géorgie en 1996, dirigé par Kevin Burns.
+of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。
 
 #### Liste des chansons
 ```md

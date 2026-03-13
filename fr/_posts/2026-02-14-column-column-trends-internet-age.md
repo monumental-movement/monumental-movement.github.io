@@ -11,8 +11,8 @@ tags:
 - Histoy
 - Global
 - Internet
-title: '[Chronique] Suivre l''histoire des tendances musicales qui se propagent à
-  l''ère d''Internet et le mécanisme de diffusion mondiale'
+title: '[Chronique] Suivre l''histoire des tendances musicales qui se sont propagées
+  à l''ère d''Internet et le mécanisme de diffusion mondiale'
 ---
 
 
@@ -47,13 +47,13 @@ color: #fff;
 
 ## Fin des années 1990-début des années 2000 : révolution du MP3 et partage de fichiers
 
-> La diffusion du format MP3 et l'émergence de services P2P comme Napster à l'aube d'Internet ont bouleversé le bon sens dans la distribution musicale.
+> La diffusion du format MP3 et l'émergence de services P2P tels que Napster, survenue aux débuts d'Internet, ont bouleversé les idées reçues en matière de distribution musicale.
 
 En 1995, l'introduction du format MP3 a facilité la compression et le partage de fichiers musicaux, créant ainsi un environnement dans lequel les gens peuvent profiter de la musique sans avoir à acheter des CD. Le groupe indépendant de Los Angeles The Postal Service et les morceaux techno underground de Berlin ont atteint les DJ et les auditeurs du monde entier via MP3.
 
 En 1999, Napster a été introduit et les échanges musicaux P2P ont explosé. Les étudiants new-yorkais ont échangé les albums de Jay-Z et d'Eminem, ce qui est devenu un sujet brûlant dans les clubs de Londres et de Tokyo. Ces mouvements ont conduit à la formation de nouveaux succès qui ne peuvent être mesurés à l'aide des graphiques traditionnels.
 
-À Tokyo, le mouvement visant à réévaluer le Shibuya-kei et la city pop a atteint les fans étrangers via Internet, et il y a même eu des cas où il a été présenté dans des DJ sets à New York et Paris.
+À Tokyo, le mouvement visant à réévaluer le Shibuya-kei et la city pop a atteint les fans étrangers via Internet, et il y a même eu des cas où il a été présenté dans des DJ sets à New York et à Paris.
 
 ---
 

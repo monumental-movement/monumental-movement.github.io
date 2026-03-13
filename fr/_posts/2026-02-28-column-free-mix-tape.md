@@ -29,7 +29,7 @@ Elle est étroitement liée à la culture hip-hop depuis les années 1980 et a �
 * Distribution hors distribution commerciale (cassette, CD-R, distribution de données)
 * Accent sur la réédition, le mixage et le scratch par DJ
 * Rôle de passerelle vers le succès pour les artistes non signés
-* Axe d'évaluation axé sur la rue et la communauté
+* Axe d'évaluation de rue et communautaire
 *Réactivation à l'ère du numérique avec SoundCloud, Bandcamp, etc.
 
 > Les mixtapes gratuites ont toujours stimulé l'industrie musicale en dehors du monde « officiel ».
@@ -67,7 +67,7 @@ Les artistes représentatifs Kool Herc et Grandmaster Flash ont enregistré leur
 
 Dans les années 1990, les mixtapes ont formé une économie souterraine à grande échelle centrée à New York. Les cassettes, éditées par les DJ eux-mêmes, étaient vendues dans les salons de coiffure et sur les marchés de rue, servant ainsi à promouvoir la nouvelle musique.
 
-DJ Clue symbolise cette époque. Il a distribué une grande quantité de cassettes contenant des inédits et des freestyles radio, et a fait connaître les rappeurs avant même qu'ils ne signent sur un label majeur.
+DJ Clue symbolise cette époque. Il a distribué une grande quantité de cassettes contenant des inédits et des freestyles radiophoniques, et a fait connaître les rappeurs avant même qu'ils ne signent sur un label majeur.
 
 Une culture mixtape unique s'est également développée à Atlanta et dans le Sud, formant la base de la montée ultérieure du trap.
 
@@ -77,7 +77,7 @@ Une culture mixtape unique s'est également développée à Atlanta et dans le S
 
 ### Années 2000 : numérisation et expansion du P2P
 
-Au début des années 2000, la distribution des CD-R et la diffusion d’Internet ont accéléré la culture du mixtape. Grâce aux services de partage de fichiers et aux blogs, il est devenu possible de s’étendre au-delà des contraintes physiques.
+Au début des années 2000, la distribution des CD-R et la diffusion d’Internet ont accéléré la culture du mixtape. Grâce aux services de partage de fichiers et aux blogs, il est devenu possible de s’étendre au-delà des limites physiques.
 
 50 Cent a pris de l'importance à cette époque. Il a sorti un certain nombre de mixtapes gratuites et a établi sa popularité dans la rue, ce qui lui a valu un contrat majeur.
 
@@ -101,7 +101,7 @@ Bien que les mixtapes soient « gratuites », elles deviennent extrêmement impo
 
 ### Années 2020 : archives et réévaluation
 
-Dans les années 2020, avec la résurgence des cassettes physiques, les mixtapes sont réévaluées en tant que patrimoine culturel. Les réimpressions de cassettes en édition limitée et la distribution officielle en streaming de mix DJ se sont multipliées.
+Dans les années 2020, avec la résurgence des cassettes physiques, les mixtapes sont réévaluées en tant que patrimoine culturel. Les réimpressions de cassettes en édition limitée et la distribution officielle en streaming de mix DJ ont augmenté.
 
 Une structure se dessine dans laquelle cohabitent publication sur le cloud et nostalgie des supports physiques.
 
@@ -196,7 +196,7 @@ Premièrement, le modèle de distribution de l’industrie musicale. Nous avons 
 
 Deuxièmement, le statut des DJ en tant que monteurs s’est amélioré. Il est désormais reconnu comme conservateur, et non seulement comme reproducteur.
 
-Troisièmement, la formation de valeurs axées sur la communauté. Un axe d'évaluation différent des graphiques et des ventes était né.
+Troisièmement, la formation de valeurs axées sur la communauté. Un axe d'évaluation différent des graphiques et des ventes est né.
 
 Aujourd’hui, l’édition manuelle et les combinaisons thématiques suscitent un regain d’intérêt en tant que contre-culture des systèmes de recommandation basés sur des algorithmes.
 

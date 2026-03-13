@@ -24,7 +24,7 @@ Daraus entstand eine Gruppe namens „Xiaolin“, die die Geschichte des Hip-Hop
 **Wu-Tang Clan** – Die Kette kämpferischer und philosophischer Worte, die von neun MCs gewebt wurde, war eine seltsame Kunstform, die Straßengewalt mit buddhistischer Ruhe verband.
 
 Im Kern ihrer Weltanschauung existierten **Kung-Fu-Filme, orientalische Philosophie und „Anime-Fantasie“** nebeneinander.
-Für die schwarze amerikanische Jugend der 1990er Jahre war die asiatische Kultur sowohl eine „exotische spirituelle Waffe“ als auch ein Mittel, um der sozialen Unterdrückung zu entkommen.
+Für die schwarze amerikanische Jugend der 1990er Jahre war die asiatische Kultur eine „exotische spirituelle Waffe“ und ein Mittel, um der sozialen Unterdrückung zu entkommen.
 Der Wu-Tang-Clan probierte Bruce Lee, Sun Tzu und Lao Tzu aus und lehnte sich später stark an die Ästhetik japanischer Animes an.
 
 ---
@@ -56,7 +56,7 @@ RZA (Wu-Tangs spiritueller Führer) sagte später:
 > „Anime-Krieger waren unser Leben.
 > Sie trainierten sich in der Einsamkeit und kämpften gegen die Welt. ”
 
-Diese „spirituelle Shaolin = Trainingsgeschichte“ hat eine ähnliche Struktur wie Straßenkämpfe.
+Diese „spirituelle Shaolin = Trainingsgeschichte“ hat eine ähnliche Struktur wie der Straßenkampf.
 Das „Samurai-Selbstbild“ der Wu-Tang-Clan-Mitglieder wurde zum Prototyp für den „animeartigen Stoizismus“, der sich später im gesamten Hip-Hop verbreitete.
 
 ---
@@ -76,7 +76,7 @@ An diesem Punkt bewegt sich die asiatische Kultur vom bloßen Zitat in den Berei
 
 ---
 
-## Kapitel 3: „Afro Samurai“ und die Kette der Reimportation
+## Kapitel 3: „Afro Samurai“ und die Kette der Reimporte
 
 Im Jahr 2007 wurde der japanische Anime „Afro Samurai“ landesweit ausgestrahlt.
 Der Synchronsprecher ist Samuel L. Jackson.
@@ -93,7 +93,7 @@ Gleichzeitig wurde es zum Pionier der „Fusion mit Hip-Hop“ für die japanisc
 
 ---
 
-## Kapitel 4: Ein neuer Horizont für Hip-Hop, eröffnet durch eine animeartige Weltanschauung
+## Kapitel 4: Ein neuer Horizont für Hip-Hop, eröffnet durch eine Anime-Weltanschauung
 
 Nach dem Wu-Tang-Clan erlangte Hip-Hop die „Sprache, um über Anime zu sprechen“.
 Tyler, The Creator bezieht sich auf „Akira“ und „Neon Genesis Evangelion“,

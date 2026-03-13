@@ -118,7 +118,7 @@ ATB, Fragma, Darude und andere präsentieren einen Sound, der sich zwischen Pop 
 
 ### Warum wird es jetzt neu bewertet?
 
-In den 2020er Jahren wird der 90er-Jahre-Euro auf TikTok und YouTube wiederentdeckt. Die Gründe hierfür sind folgende.
+In den 2020er Jahren wird der 90er-Jahre-Euro auf TikTok und YouTube wiederentdeckt. Die folgenden Faktoren stecken dahinter.
 
 Melodische und klare Struktur **passt zur „Instant-Viewing-Ära“**
 
@@ -132,7 +132,7 @@ Nostalgischer und dennoch funktionaler Sound für Open-Air- und Festivalszenen
 ### Fazit: Euro lebte an der Grenze zwischen „Pop“ und „Club“
 
 Euro-Musik war nicht nur „lässige Chartmusik“ oder „harte Club-Tracks“.
-Ihr wahrer Wert liegt in der Musik, die ein Gleichgewicht zwischen Medien und Underground, Melodie und Rhythmus, System und Körperlichkeit aufrechterhält.
+Ihr wahrer Wert liegt in der Tatsache, dass es Musik war, die ein Gleichgewicht zwischen Medien und Untergrund, Melodie und Rhythmus, System und Körperlichkeit aufrechterhielt.
 
 Hören Sie es im Radio und tanzen Sie im Club.
 Das war vielleicht die „richtigste“ Art, den Euro in den 1990er Jahren auszugeben.

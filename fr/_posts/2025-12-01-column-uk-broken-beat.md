@@ -39,12 +39,12 @@ color: #fff;
 </style>
 
 
-## 1. Origine et contexte
+## 1. 起源と背景
 
 Au milieu des années 1990, le jazz-funk et la drum and bass se développaient rapidement sur la scène des clubs britanniques. Dans ce contexte, une musique aux rythmes plus libres et irréguliers est apparue comme une émanation de la house traditionnelle à quatre sur le sol et du jazz-funk. Cela constitue la base du genre qui sera plus tard appelé Broken Beat.
 
 - **Sensation swing jazz-funk** : progressions d'accords complexes et rythmes de signature rythmique étranges
-- **Complexité rythmique de la batterie et de la basse et de la jungle** : breakbeats à grande vitesse et placements irréguliers de la caisse claire
+- **Rythmes complexes de drum and bass et de jungle** : breakbeats rapides et placements irréguliers de la caisse claire
 - **Fusion avec la culture du sampling hip-hop** : Utilisation simultanée de musique live et d'échantillonnage
 
 > "A cette époque, il ne s'agissait pas seulement de danser ou d'écouter de la musique, c'était plus amusant de ressentir le swing et le groove qui naissaient derrière le rythme."
@@ -58,10 +58,10 @@ La fusion de ce sens du rythme à plusieurs niveaux et des harmonies de type jaz
 
 Les débuts de Broken Beat mettent en vedette des artistes et des labels principaux.
 
-- **Dego (4hero)** : Bien qu'il soit actif en tant que membre de 4hero, il poursuit également des éléments de Broken Beat dans ses œuvres solo. En particulier, "Live in Tokyo" se caractérise par la méthode consistant à appliquer directement la sensation d'une performance live aux morceaux de club.
+- **Dego (4hero)** : Tout en étant actif en tant que membre de 4hero, il poursuit également des éléments de Broken Beat dans ses œuvres solo. En particulier, "Live in Tokyo" se caractérise par la méthode consistant à appliquer directement la sensation d'une performance live aux morceaux de club.
 - **IG Culture** : Un pionnier du style Broken Beat, qui allie jazz-funk et soul. Nous avons élargi le genre avec des phrases complexes sur claviers et synthés.
 - **Kaidi Tatham** : Avec ses performances polyvalentes au clavier et ses rythmes de signature rythmique étranges, elle a joué un rôle dans l'élargissement de la gamme des genres.
-- **2000Black**: Label and artist collective, home to the Broken Beat community. En plus des sorties, des interactions animées ont également eu lieu lors d'événements réguliers.
+- **2000Black** : Label et collectif d'artistes, siège de la communauté Broken Beat. En plus des sorties, des interactions animées ont également eu lieu lors d'événements réguliers.
 
 Etiquettes représentatives :
 
@@ -120,7 +120,7 @@ graph LR
 |---|----|------|
 | 1994 | 4hero album "Univers Parallèle" | Avec Dego, pionnier du jazz électronique |
 | 1996 | Début des activités d'IG Culture | Une œuvre soul qui combine jazz et funk |
-| 1998 | Création du label 2000Black | Début des activités en tant que base communautaire |
+| 1998 | Création de 2000Black label | Début des activités en tant que base communautaire |
 | 1999 | Sortie initiale de Kaidi Tatham | Présentation d'une variété d'œuvres pour clavier |
 | 2000 | Travail solo de Dego "Live in Tokyo" | Mettre l'accent sur la sensation live de Broken Beat |
 | 2002 | Culture IG « Donnez-moi du temps » | Le single représentatif de Broken Beat |

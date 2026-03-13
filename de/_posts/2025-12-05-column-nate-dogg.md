@@ -20,7 +20,7 @@ title: '[Kolumne] Nate Dogg: Die Flugbahn des „King of Hooks“, der G-Funk sy
 Text: mmr｜Thema: Die Stimme, der Groove und das Erbe im Herzen des Westküsten-Hip-Hops
 
 Es gibt eine Reihe von Elementen, die den amerikanischen Westküsten-Hip-Hop in den 1990er Jahren charakterisieren.
-Dr. Dre-Produktion, P-Funk-inspirierte Synthesizer-Schwellungen, dicke Basslinien und sanfte Sanftheit.
+Dr. Dre-Produktion, P-Funk-inspirierte Synthesizer-Wellen, dicke Basslinien und sanfte Sanftheit.
 Aber die Stimme von **Nate Dogg (richtiger Name Nathaniel Dwayne Hale, 1969-2011)** hat eine besondere Bedeutung.
 
 Seine Singstimme ist weder Rap noch R&B, sondern irgendwo dazwischen und doch anders als beides.
@@ -108,7 +108,7 @@ Dieser Erfolg brachte Nate Dogg die Anerkennung als „bester Hakenmacher an der
 Die Singstimme von Nate Dogg ist auf den ersten Blick unverwechselbar, zerlegt man sie jedoch in ihre Elemente, lässt sie sich wie folgt zusammenfassen.
 
 ### ■ Dicke Stimme, abgeleitet von Gospelmusik
-Die Stimmbänder vibrieren stark und der Klang ist tief.
+Die Schwingung der Stimmbänder ist stark und die Resonanz ist tief.
 
 ### ■ Geradliniger Gesang mit wenig Vibrato
 Dadurch war es äußerst kompatibel mit den harten Beats des Hip-Hop.
@@ -173,7 +173,7 @@ Obwohl es sich um einen süßen R&B-Sound handelt, ist es wichtig, dass Nate Dog
 
 ## 8. 213 „The Hard Way“: Die Frucht der Freundschaft
 
-213, das Trio aus Snoop, Warren und Nate, veröffentlichte 2004 ihr offizielles Studioalbum „The Hard Way“.
+213, bestehend aus Snoop, Warren und Nate, veröffentlichten 2004 ihr offizielles Studioalbum „The Hard Way“.
 Das Album erreichte Platz eins der Billboard-Charts und war der Höhepunkt der langen Freundschaft und Karriere der drei.
 
 ---
@@ -190,7 +190,7 @@ Insbesondere Snoop Dogg und Warren G haben gesagt, dass ihr Sound ohne Nate Dogg
 
 ---
 
-## 10. Nate Dogg Chronologie
+## 10. Nate Dogg-Zeitleiste
 
 <div class="mermaid">
 timeline

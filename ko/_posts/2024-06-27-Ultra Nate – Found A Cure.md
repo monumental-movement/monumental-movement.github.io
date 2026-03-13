@@ -14,7 +14,7 @@ title: Ultra Naté – Found A Cure
 ---
 
 
-Ultra Nate(울트라나테)는, 「Free」 「If You Could Read My Mind」 「Automatic」등의 히트곡으로 알려진 US의 싱어송 라이터 프로듀서 DJ.
+Ultra Nate(울트라 나테)는, 「Free」 「If You Could Read My Mind」 「Automatic」등의 히트곡으로 알려진 US의 싱어송 라이터 프로듀서 DJ.
 
 「Found a Cure」는 1998년에 발매한 3번째 앨범 「Situation: Critical」의 2번째 싱글로 발매되었다. 미국의 Billboard Hot Dance Club Songs 차트에서 1위를 차지하고 세계적으로 히트한 하우스 딥 하우스 트럭.
 

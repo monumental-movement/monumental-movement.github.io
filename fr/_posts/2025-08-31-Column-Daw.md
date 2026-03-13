@@ -64,7 +64,7 @@ MIDI (Musical Instrument Digital Interface) est une norme permettant d'échanger
 
 ### L'essor des ordinateurs et des logiciels (années 1990)
 
-Les améliorations des performances informatiques et l'utilisation pratique de l'enregistrement sur disque dur ont rendu possible l'édition numérique des formes d'onde audio. Pro Tools d'Avid (à l'époque Digidesign) a activé numériquement les flux de travail d'enregistrement et de montage professionnels et est devenu la norme de l'industrie pour la production de films, de diffusion et de musique. Dans le même temps, les séquenceurs logiciels/DAW complets tels que Cubase de Steinberg et Logic d'Emagic (acquis plus tard par Apple) sont devenus populaires. De plus, le plug-in VST (Virtual Studio Technology) proposé par Steinberg a élargi l'écosystème en fournissant un mécanisme permettant à des tiers de développer des sources sonores et des effets logiciels.
+Les améliorations des performances informatiques et l'utilisation pratique de l'enregistrement sur disque dur ont rendu possible l'édition numérique des formes d'onde audio. Pro Tools d'Avid (à l'époque Digidesign) a permis des flux de travail d'enregistrement et de montage professionnels et est devenu la norme de l'industrie pour la production de films, de diffusion et de musique. Dans le même temps, les séquenceurs logiciels/DAW complets tels que Cubase de Steinberg et Logic d'Emagic (acquis plus tard par Apple) sont devenus populaires. De plus, le plug-in VST (Virtual Studio Technology) proposé par Steinberg a élargi l'écosystème en fournissant un mécanisme permettant à des tiers de développer des sources sonores et des effets logiciels.
 
 <hr>
 

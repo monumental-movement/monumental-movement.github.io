@@ -53,36 +53,36 @@ color: #fff;
 
 1970年代のゴアでは、アンジュナやバガなどのビーチで小規模な集まりが自然発生的に行われていた。電源は簡易的な発電機、装飾は手作り、照明も最低限。夜が深まるにつれて人が集まり、夜明けとともに静かに解散する。
 
-初期に流されていたのはロック、サイケデリック・ロック、プログレッシブ・ロック、ファンク、ディスコなど。レコードは欧米から持ち込まれた。
+Au début, le rock, le rock psychédélique, le rock progressif, le funk et le disco étaient populaires. Les disques provenaient d'Europe et d'Amérique.
 
-やがてシンセサイザー主体のヨーロッパ産エレクトロニック・ミュージックが増え、1980年代にはアシッドやEBMの要素が混ざり始める。
+Au fil du temps, la musique électronique européenne basée sur des synthétiseurs s'est développée et, dans les années 1980, des éléments d'acide et d'EBM ont commencé à s'y mélanger.
 
-パーティーは基本的に“非商業的”で、入場料も曖昧だった。フライヤーもなく、口コミで広がる。開催日は満月や特定の祝祭日に合わせられることが多かった。
+La fête était essentiellement « non commerciale » et le prix d'entrée était vague. Il n’y a pas de dépliants et la nourriture se propage de bouche à oreille. Les dates étaient souvent alignées sur les pleines lunes ou sur des jours fériés spécifiques.
 
-> ゴアのパーティーはイベントではなく、季節のように訪れるものだった。
+> Les fêtes de Goa n'étaient pas un événement, mais une saison.
 
 ---
 
-### 2. DJセットの長さという概念
+### 2. Le concept de durée du DJ set
 
-彼のプレイの最大の特徴はセットの長さである。
+La plus grande caractéristique de son jeu est la longueur de ses sets.
 
-一般的なクラブDJが1〜2時間で交代するのに対し、彼のセットは8時間、10時間、時には24時間に及んだ。特定のパーティーでは夜から翌日の夕方まで一人でプレイすることもあった。
+Ses sets duraient huit, dix et même 24 heures, alors que les rotations d'un DJ de club moyen duraient une à deux heures. Lors de certaines soirées, il jouait parfois seul de la nuit jusqu'au soir du lendemain.
 
-構成は明確なフェーズを持つ。
+La composition a des phases claires.
 
-1. 導入（ウォームアップ）
-   ミッドテンポで空間を整える
-2. 深夜の加速
-   BPMを徐々に上げ、トランス状態へ誘導
-3. 夜明けのピーク
-   サイケデリックで高揚感の強い楽曲
-4. 日中の深化
-   ダークで実験的なトラックへ移行
+1. Introduction (échauffement)
+Organiser l'espace avec un tempo moyen
+2. Accélération nocturne
+Augmentez progressivement le BPM et induisez un état de transe
+3. Pic de l'aube
+Une chanson psychédélique et entraînante
+4. Approfondissement du jour et du jour
+Vers des morceaux sombres et expérimentaux
 
-彼はこれを「サイケデリック・ヨガ」と呼び、ダンスを通じた意識の変容を目指したと語っている。
+Il appelle cela du « yoga psychédélique » et dit vouloir transformer la conscience par la danse.
 
-> セットは時間ではなく、儀式の曲線で設計されていた。
+> Le décor a été conçu autour de courbes rituelles et non du temps.
 
 ---
 
@@ -90,73 +90,73 @@ color: #fff;
 
 ---
 
-### 3. 音源と選曲の特徴
+### 3. Caractéristiques de la source sonore et sélection des chansons
 
-1980年代から1990年代にかけて、彼は主にアナログ・レコードを使用していた。ヨーロッパ、とくにドイツやイギリスで制作されたアシッド・トラックやテクノが重要な素材となった。
+Au cours des années 1980 et 1990, il utilisait principalement des disques analogiques. Les morceaux acides et la techno produits en Europe, notamment en Allemagne et en Angleterre, en étaient des sources importantes.
 
-1990年代にゴア・トランス専用のレーベルが増えると、より特化したサウンドが流通する。彼は未発表トラックやテスト盤をいち早く入手し、ビーチで試すこともあった。
+Dans les années 1990, à mesure que le nombre de labels dédiés à la Goa Trance augmentait, des sons plus spécialisés étaient distribués. Il est le premier à acquérir des titres inédits et à tester des disques, les testant parfois sur la plage.
 
-BPMは130台前半から始まり、ピーク時には150前後に達することもある。シンセのアルペジオは多層的で、長いブレイクダウンは少ない。持続的なグルーヴが重視された。
+Le BPM commence dans les années 130 et peut atteindre environ 150 aux heures de pointe. Les arpèges de synthé sont superposés et n'ont pas de longues pannes. L'accent était mis sur un groove soutenu.
 
-> 彼のフロアは“踊るため”というより“没入するため”の空間だった。
-
----
-
-### 4. 世界各地のロングセット
-
-1990年代以降、彼は世界各地のフェスティバルに出演する。
-
-* ヨーロッパ各国の野外フェス
-* イスラエルのトランス・イベント
-* ブラジルの大規模パーティー
-* アメリカ西海岸の砂漠フェス
-
-いずれの会場でもロングセットは維持された。12時間以上のプレイは珍しくない。
-
-夜通し踊り続ける観客は、日の出とともに一体感を共有する。ステージ装飾にはヒンドゥー神像、サイケデリック・アート、蛍光色の布が使われることが多かった。
-
-> パーティーは国が変わっても、時間の流れは同じだった。
+> Son sol était un espace d'« immersion » plutôt que de « danse ».
 
 ---
 
-### 5. ゴア・トランスからPsytranceへ
+### 4. De longs sets du monde entier
 
-1990年代後半、サウンドはよりダークで高速なPsytranceへ移行する。彼もその流れの中でセットを進化させた。
+Depuis les années 1990, il se produit dans des festivals à travers le monde.
 
-より重低音が強調され、ベースラインは複雑化。音数は増え、空間は密度を増す。それでもロングセットの構造は維持された。
+* Festivals en plein air à travers l'Europe
+* Événements de transe en Israël
+* Grande fête au Brésil
+* Festival du désert sur la côte ouest de l'Amérique
 
-彼にとって重要だったのは“旅”であり、ジャンル名ではなかった。
+De longs sets ont été maintenus sur les deux sites. Jouer pendant plus de 12 heures n’est pas rare.
 
-> 彼は常に変化しながら、儀式性だけは手放さなかった。
+Le public danse toute la nuit, partageant un sentiment d’unité alors que le soleil se lève. Les décorations de scène comprenaient souvent des statues de divinités hindoues, de l'art psychédélique et des tissus fluorescents.
+
+>Même si le parti changeait de pays, le déroulement du temps restait le même.
 
 ---
 
-### 6. 晩年まで続いた長時間プレイ
+### 5. De la Goa Trance à la Psytrance
 
-2000年代以降も、彼は長時間セットを続けた。年齢を重ねても、スタイルは変わらない。
+À la fin des années 1990, le son est passé à la Psytrance, plus sombre et plus rapide. Il a également fait évoluer son set en fonction de cette tendance.
 
-がんと診断された後も出演を続けた記録がある。2023年に死去。享年72。
+Les basses sont plus accentuées et la ligne de basse est plus complexe. Le nombre de sons augmente et l'espace devient plus dense. Cependant, la structure établie depuis longtemps a été maintenue.
 
-世界各地で追悼パーティーが行われ、彼の長時間セットの録音が共有された。
+Ce qui lui importait, c’était le voyage, pas le nom du genre.
 
-> 最後まで、彼はダンスフロアの中心に立ち続けた。
+> Même s'il changeait constamment, il n'a jamais abandonné sa nature rituelle.
+
+---
+
+### 6. Jeu à long terme qui s'est poursuivi plus tard dans la vie
+
+Même après les années 2000, il continue à réaliser de longs sets. Quel que soit votre âge, votre style ne change pas.
+
+Il existe un record selon lequel il a continué à jouer même après avoir reçu un diagnostic de cancer. Décédé en 2023. Il est décédé à l'âge de 72 ans.
+
+Des soirées hommage ont eu lieu partout dans le monde et les enregistrements de ses longs sets ont été partagés.
+
+> Jusqu'au bout, il est resté au centre de la piste de danse.
 
 ---
 
 ## Chronologie
 
-| 年        | 出来事               |
+| Année | Événements |
 | -------- | ----------------- |
-| 1951     | サンフランシスコ生まれ       |
-| 1970年代初頭 | ゴアへ移住             |
-| 1980年代   | ビーチ・パーティーでDJ活動本格化 |
-| 1990年代   | ゴア・トランス国際化、世界ツアー  |
-| 2000年代   | 大規模フェスでのロングセット継続  |
-| 2023     | 死去                |
+| 1951 | Né à San Francisco |
+| Début des années 1970 | Déménager à Goa |
+| années 1980 | L'activité DJ bat son plein lors des fêtes sur la plage |
+| années 1990 | Goa Trans Internationalisation, Tournée Mondiale |
+| Années 2000 | Poursuite des longs sets dans les festivals à grande échelle |
+| 2023 | Décédé |
 
 ---
 
-## パーティー構造モデル
+## Modèle de structure du parti
 
 <div class="mermaid">
 flowchart TD
@@ -170,54 +170,54 @@ D --> E[Daytime Psychedelic Phase]
 
 ## Artistes clés
 
-* Goa Gil
-* Astral Projection
-* Infected Mushroom
-* Hallucinogen
+*Goa Gil
+*Projection astrale
+* Champignon infecté
+* Hallucinogène
 
-> ゴアから広がった音は、各地で独自の進化を遂げた。
+> Le son diffusé depuis Goa a évolué à sa manière dans chaque région.
 
 ---
 
 ## Pistes essentielles
 
-* Astral Projection – “Mahadeva”
-* Hallucinogen – “LSD”
-* Man With No Name – “Teleport”
-* Infected Mushroom – “Becoming Insane”
+* Projection astrale – « Mahadeva »
+* Hallucinogène – « LSD »
+* Homme sans nom – « Téléportation »
+* Champignon infecté – « Devenir fou »
 
-> これらはロングセットのピークで頻繁に機能した楽曲群である。
+> Ce sont des chansons qui fonctionnaient fréquemment au sommet de longs sets.
 
 ---
 
 ## Impact culturel
 
-ゴア・パーティー文化は、商業クラブとは異なる時間設計を提示した。
+La culture festive de Goa offrait une conception temporelle différente de celle des clubs commerciaux.
 
-* DJは一晩を設計する存在
-* 夜明けが重要な演出要素
-* ダンスを通じた共同体形成
-* 非商業的・移動型文化
+* DJ est la personne qui conçoit la soirée
+* L'aube est un élément de production important
+* Construction d'une communauté par la danse
+* Culture non commerciale/mobile
 
-今日の大型サイケデリック・フェスティバルに見られる24時間体制のタイムテーブルは、この文化の延長線上にある。
+Les horaires de 24 heures observés dans les grands festivals psychédéliques d'aujourd'hui sont une extension de cette culture.
 
-> 彼が残した最大の遺産は、終わらないセットという概念そのものだ。
+>Son plus grand héritage est le concept même de décors sans fin.
 
 ---
 
 ##FAQ
 
-### Q1. 本当に24時間プレイしたことはあるのか？
+### Q1. Avez-vous déjà vraiment joué pendant 24 heures ?
 
-記録上、10〜24時間規模のセットを複数回行っている。
+Officiellement, il a réalisé plusieurs sets d'une durée de 10 à 24 heures.
 
-### Q2. パーティーは合法だったのか？
+### Q2. La fête était-elle légale ?
 
-時期や場所により状況は異なる。初期ゴアでは半ば非公式な形態だった。
+La situation diffère selon le moment et le lieu. C'était une forme semi-informelle au début de Goa.
 
-### Q3. なぜそこまで長時間が必要だったのか？
+### Q3. Pourquoi cela a-t-il pris si longtemps ?
 
-彼はダンスを通じた意識変容を重視しており、時間の持続が重要と考えていた。
+Il mettait l’accent sur la transformation de la conscience par la danse et croyait que la persistance du temps était importante.
 
 > La fête de Goa Gil était un terrain d'essai pour l'expansion du temps.
 

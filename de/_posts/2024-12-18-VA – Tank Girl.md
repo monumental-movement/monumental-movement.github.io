@@ -16,7 +16,7 @@ title: VA – Panzermädchen
 ---
 
 
-Soundtrack des postapokalyptischen Science-Fiction-Films „Tank Girl“ von Rachel Talalay, der 1995 in die Kinos kam. Tank Girl ist eine Live-Action-Adaption des britischen Kultcomics. Der Soundtrack wurde von Courtney Love zusammengestellt und Graeme Revell von SPK lieferte die Originalmusik. Devo hat für den Film eine neue Version von „Girl U Want“ aufgenommen, weil sie ein großer Fan des Comics war.
+Soundtrack des postapokalyptischen Science-Fiction-Films „Tank Girl“ von Rachel Talalay, der 1995 in die Kinos kam. Tank Girl ist eine Live-Action-Adaption eines Comics, der in Großbritannien Kultstatus genießt. Der Soundtrack wurde von Courtney Love zusammengestellt und Graeme Revell von SPK lieferte die Originalmusik. Devo hat für den Film eine neue Version von „Girl U Want“ aufgenommen, weil sie ein großer Fan des Comics war.
 
 #### Trackliste
 ```md

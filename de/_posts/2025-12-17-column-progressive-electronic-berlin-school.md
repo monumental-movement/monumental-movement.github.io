@@ -20,7 +20,7 @@ title: '[Kolumne] Progressive Electronic / Berliner Schule'
 Text: mmr｜Thema: Progressive elektronische und elektronische Musik der Berliner Schule von den späten 1960ern bis zur Gegenwart
 
 
-Die elektronische Musik des 20. Jahrhunderts begann im Bereich akademischer Forschung und experimenteller Kunst. Nach der Entwicklung elektronischer Instrumente in den 1920er und 1930er Jahren, der Magnetbandtechnik nach dem Krieg und der Gründung von Musique Concrète- und elektronischen Musikstudios in den 1950er Jahren begann sich Ende der 1960er Jahre ein Umfeld zu entwickeln, das es einzelnen Komponisten ermöglichte, außerhalb des Studios elektronische Musik zu schaffen. Inmitten dieser Veränderung entstand vor allem in Westdeutschland eine Reihe progressiver elektronischer Musik, die später unter dem Sammelbegriff „Berliner Schule“ bekannt wurde.
+Die elektronische Musik des 20. Jahrhunderts begann im Bereich akademischer Forschung und experimenteller Kunst. Nach der Entwicklung elektronischer Musikinstrumente in den 1920er und 1930er Jahren, der Magnetbandtechnologie nach dem Krieg und der Gründung von Musique Concrète- und elektronischen Musikstudios in den 1950er Jahren begann sich in den späten 1960er Jahren ein Umfeld zu entwickeln, das es einzelnen Komponisten ermöglichte, elektronische Musik außerhalb des Studios zu schaffen. Inmitten dieser Veränderung entstand vor allem in Westdeutschland eine Reihe progressiver elektronischer Musik, die später unter dem Sammelbegriff „Berliner Schule“ bekannt wurde.
 
 Die Berliner Schule ist keine einheitliche Bewegung und keine offizielle Schule im eigentlichen Sinne. Es handelt sich um einen Namen, der in der späteren Musikgeschichtsforschung und -kritik als Ergebnis der Arbeit mehrerer Komponisten in einem gemeinsamen Ballungsraum, einem gemeinsamen technologischen Umfeld und gemeinsamen musikalischen Interessen vereinheitlicht wurde. Im Mittelpunkt stehen Komponisten und Projekte wie Tangerine Dream, Klaus Schulze und Ash Ra Tempel (später Ashra).
 
@@ -78,13 +78,13 @@ Ash Ra Tempel begann als Projekt, das elektronische Klänge, Gitarre und Improvi
 
 ### Struktur mit Sequenzer wiederholen
 
-Das markanteste Element der Berliner Schule ist das sich wiederholende Klangmuster, das von analogen Sequenzern erzeugt wird. Ein festes Muster, das lange anhält und sich durch Filter- und Hüllkurvenoperationen allmählich ändert. Diese Methode betont eher das Zeitgefühl als das Taktgefühl.
+Das markanteste Element der Berliner Schule ist das wiederholte Klangmuster, das von analogen Sequenzern erzeugt wird. Ein festes Muster, das lange anhält und sich durch Filter- und Hüllkurvenoperationen allmählich ändert. Diese Methode betont eher das Zeitgefühl als das Taktgefühl.
 
 ### Langformat
 
-Während traditionelle Pop- und Rockmusik auf einem mehrminütigen Songaufbau basiert, ist es in der Berliner Schulmusik keine Seltenheit, dass ein einzelner Song mehr als 20 Minuten dauert. Dies ist eine Form, die durch die Entwicklung improvisatorischer Darbietungs- und Aufnahmetechnologien ermöglicht wurde.
+Während traditionelle Pop- und Rockmusik auf mehrminütige Liedstrukturen setzt, ist es in der Berliner Schulmusik keine Seltenheit, dass ein einzelnes Lied über 20 Minuten dauert. Dies ist eine Form, die durch die Entwicklung improvisatorischer Darbietungs- und Aufnahmetechnologien ermöglicht wurde.
 
-### Sounddesign
+### Tondesign
 
 Die Instabilität und Fluktuation analoger Synthesizer wurden Teil der Klangästhetik der Berliner Schule. Die winzigen Abweichungen, die durch Temperaturänderungen und Spannungsschwankungen verursacht werden, verleihen der mechanischen Wiederholung ein organisches Aussehen.
 
@@ -114,11 +114,11 @@ Im 21. Jahrhundert werden modulare Synthesizer neu bewertet. Die Methode der Ber
 
 ## Kapitel 7 Detaillierte Analyse der technischen Grundlagen
 
-In diesem Kapitel werden wir die spezifischen technischen Elemente, die die Berliner Schule begründeten, organisieren, indem wir sie in drei Schichten unterteilen: Musikinstrumente, Steuerungssysteme und Aufnahmetechniken.
+Dieses Kapitel organisiert die spezifischen technischen Elemente, die die Berliner Schule begründeten, indem es sie in drei Schichten unterteilt: Musikinstrumente, Steuerungssysteme und Aufnahmetechniken.
 
 ### Analoger modularer Synthesizer
 
-Der Kern der Berliner Schule war der spannungsgesteuerte analoge modulare Synthesizer. Durch die Struktur der freien Verbindung von Oszillatoren, Filtern, Verstärkern und Hüllkurven mittels Patchkabeln entstand eine Produktionsumgebung, in der das musikalische Ergebnis nicht vollständig im Vorhinein festgelegt war.
+Der Kern der Berliner Schule war der spannungsgesteuerte analoge modulare Synthesizer. Durch die Struktur der freien Verbindung von Oszillatoren, Filtern, Verstärkern und Hüllkurven mittels Patchkabeln entstand eine Produktionsumgebung, in der das musikalische Ergebnis nicht im Vorfeld vollständig festgelegt war.
 
 Dieser Nichtdeterminismus ist eng mit dem kompositorischen Konzept der „Zeitproduktion“ der Berliner Schule verbunden. Da Tonhöhe und Rhythmus nicht durch die Notenschrift, sondern als Kette von Spannungsänderungen verwaltet werden, existiert Musik eher als Prozess als als Blaupause.
 
@@ -146,7 +146,7 @@ Ein Format, bei dem sich eine bestimmte Sequenz durch den gesamten Song zieht un
 
 Eine Form, die auf anhaltenden Noten und langsamen Wechseln basiert, ohne eine klare Reihenfolge. Es spielt eine herausragende Rolle in den Werken von Klaus Schulze und wurde zum Prototyp für spätere Ambient- und Drone-Musik.
 
-### Art der spontanen Aufnahmebearbeitung
+### Bearbeitungstyp für Improvisationsaufnahmen
 
 Ein Format, das Live- oder Studioimprovisationen als Material nutzt und durch Post-Editing strukturiert wird. Diese Methode verwischt die Grenzen zwischen Komposition und Aufführung und positioniert das Werk als Aufzeichnung eines Ereignisses.
 
@@ -158,7 +158,7 @@ Ab Ende der 1970er Jahre weiteten Komponisten der Berliner Schule ihre Aktivitä
 
 Die Methode der Filmmusik der Berliner Schule zeichnet sich dadurch aus, dass sie eher auf räumliche Gestaltung als auf melodiegetriebene Musik setzt. Anstatt eine Geschichte zu illustrieren, spielt Musik eine Rolle beim Aufbau einer psychologischen und physischen Umgebung.
 
-Diese Praxis wurde von der späteren filmischen Ambient- und Sounddesign-orientierten elektronischen Musik übernommen.
+Diese Praxis wurde in die spätere filmische Ambient- und Sounddesign-orientierte elektronische Musik übernommen.
 
 ---
 

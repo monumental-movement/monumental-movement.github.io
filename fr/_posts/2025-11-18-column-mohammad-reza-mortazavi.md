@@ -92,103 +92,103 @@ color: #fff;
 
 やがて彼はベルリンに拠点を定め、国際舞台での活動を本格化。ベルリンはモルタザヴィにとって、実験音楽、電子音楽、パフォーマンス・アートとの出会いの場であり、彼の芸術的探求が加速する都市となった。
 
-2003年には、600人を超える競合者の中から **RUTH（ルース）賞、新人部門** を受賞。この受賞は、彼の国際的認知を決定づけるものとなった。
+En 2003, il a remporté le **RUTH Award, Newcomer Category** parmi plus de 600 concurrents. Ce prix scelle sa reconnaissance internationale.
 
-2010年には、彼のソロ公演が **ベルリン・フィルハーモニー** で行われるという夢が現実化。同年、アルバム『Green Hands』をリリース。
-彼にとって、この年は象徴的なターニングポイントであり、伝統と実験の狭間に立つ彼自身の音楽アイデンティティが世界に明確に示されることになった。
+En 2010, son rêve est devenu réalité lors de sa performance solo à la **Philharmonie de Berlin**. La même année, il sort l'album "Green Hands".
+Pour lui, cette année a été un tournant symbolique, car son identité musicale, entre tradition et expérimentation, est devenue claire aux yeux du monde.
 
 ---
 
-### 7. 主要作品の分析と音楽世界
+### 7. Analyse des œuvres majeures et du monde musical
 
-モルタザヴィのディスコグラフィは、彼の探求の進化を物語る地図のようなものだ。以下、それぞれの主要作品を深掘りしながら、彼の音楽的ビジョンと技術を読み解く。
+La discographie de Mortazavi est une carte de l'évolution de ses explorations. Ci-dessous, nous approfondirons chacune de ses œuvres majeures pour décrypter sa vision musicale et sa technique.
 
-#### 7.1 『Green Hands』
+#### 7.1 « Mains vertes »
 
-2010年リリースのこのアルバムは、モルタザヴィの象徴的な出発点である。 伝統楽器（タムバック／ダフ）のみを使ったソロ演奏でありながら、彼の技術革新と音響設計がすでに鮮明に刻み込まれている。各トラックには、指や掌、爪などを駆使した繊細で多層のリズムが展開され、ひとつの楽器が複数の音声を持つかのような錯覚を聴き手に与える。
+Sorti en 2010, cet album constitue un départ symbolique pour Mortazavi. Bien qu'il s'agisse d'une performance solo utilisant uniquement des instruments traditionnels (tamback/duff), son innovation technologique et son design sonore sont déjà clairement imprimés. Chaque morceau présente des rythmes délicats et multicouches qui utilisent pleinement les doigts, les paumes et les ongles, donnant à l'auditeur l'illusion qu'un seul instrument a plusieurs voix.
 
-特筆すべきは、彼の打ち方が単に速いだけではなく、非常にダイナミックである点だ。静かなタッチの中にある共鳴、強打による鋭い切れ味、そしてその中間を滑らかに行き交うグラデーション。彼の手が皮面を滑り、胴の木を叩き、指が爪を使って跳ねるたび、異なる音色が階層的に交差し、強い存在感を持つ。
+Ce qui est remarquable, c'est que son style de frappe est non seulement rapide, mais aussi très dynamique. La résonance d’un toucher doux, la netteté d’un coup puissant et la douce gradation entre eux. Chaque fois que ses mains glissent sur la surface du cuir, touchent le bois du corps et que ses doigts rebondissent avec leurs ongles, différents tons se croisent en couches, créant une forte présence.
 
-また、このアルバムの録音／ミキシングの妙も無視できない。彼の打楽器がマイクを通じて空間に再構築される際、その余韻と反響が鮮やかに捉えられており、まるで小宇宙を聴いているかのようなサウンドスケープが生成されている。
+Aussi, l’enregistrement/mixage de cet album ne peut être ignoré. Lorsque ses instruments de percussion sont recréés dans l’espace grâce à un microphone, leurs échos et réverbérations sont capturés avec vivacité, créant un paysage sonore qui donne l’impression d’écouter un microcosme.
 
-#### 7.2 『Codex』
+#### 7.2 « Codex »
 
-『Codex』はモルタザヴィがさらに自己の技術的言語を体系化し、書き記す（コード化する）挑戦のひとつである。伝統奏法と彼自身の革新的奏法の融合がさらに進み、楽曲構造が高度に練られている。彼はただ即興するのではなく、作品として設計された時間とリズムを聴き手に提示する。
+Le « Codex » est l'une des tentatives de Mortazavi pour systématiser et écrire (encoder) davantage son propre langage technique. La fusion des méthodes de jeu traditionnelles et de ses propres méthodes de jeu innovantes a encore progressé et les structures des chansons ont été très élaborées. Il ne se contente pas d'improviser, mais présente à l'auditeur le temps et le rythme conçus comme une œuvre.
 
-このアルバムにおいては、打点の選択、リズムの周期性、反復と変化のバランスなどが非常に緻密に構成されており、演奏者自身の内的対話がそのまま外化されているように感じられる。
+Cet album est structuré de manière très précise en termes de sélection des points forts, de périodicité du rythme, d'équilibre entre répétition et changement, et on a l'impression que le propre dialogue interne de l'interprète s'extériorise tel quel.
 
-#### 7.3 『Transformation』
+#### 7.3 « Transformation »
 
-『Transformation』は、モルタザヴィの芸術性におけるスピリチュアルな深化を示す重要な作品。彼のメディア掲載でもこのアルバムが大きく取り上げられており、彼の哲学的探求と身体性が音として開かれていく過程が明確に見える。
+« Transformation » est une œuvre importante qui montre l'approfondissement spirituel du talent artistique de Mortazavi. Cet album a été largement présenté dans sa couverture médiatique, et le processus de son exploration philosophique et de son ouverture physique en tant que son est clairement visible.
 
-この作品では、タムバックのみならず、ダフや他のアコースティックな物体を使った演奏も含まれる。彼は音楽を、単なるリズムの連続ではなく、時間そのものを変容させるプロセスとして提示しており、聴く者にトランス的な体験をもたらす。
+Ce travail comprend des performances utilisant non seulement des tombacks mais aussi des duffs et autres objets acoustiques. Il présente la musique non pas comme une simple séquence de rythmes, mais comme un processus qui transforme le temps lui-même, créant une expérience de transe pour l'auditeur.
 
 #### 7.4 『Ritme Jaavdanegi』
 
-Latency レーベルからリリースされたこのアルバムは、モルタザヴィの中核的テーマである「永続性 (jaavdanegi)」への深い探求を反映している。 タイトルはペルシア語の “永遠のリズム (rhythm of eternity)” を表す言葉であり、楽曲には反復、循環、微妙な変化が持続的に重なってゆく構造がある。
+L'album, sorti sur le label Latency, reflète une exploration profonde du thème central de Mortazavi, le jaavdanegi. Le titre vient du mot persan signifiant « rythme de l'éternité » et la chanson a une structure de répétition continue, de circulation et de changements subtils.
 
-批評家からは、「メトロノームとは異なり、人間の鼓動 (pulse) は柔軟で固定されていない」という彼の見解が取り上げられている。 彼のライブでもこのテーマは顕著であり、彼は観客との間に「共通の拍動 (common pulse)」を作り出すことを重要視してきた。
+Les critiques ont cité son point de vue selon lequel « contrairement à un métronome, le pouls humain est flexible et non fixe ». Ce thème est également évident dans ses spectacles en direct, où il accorde de l'importance à la création d'un « pouls commun » avec le public.
 
-#### 7.5 『Prisma』
+#### 7.5 "Prisma"
 
-2022年にリリースされたこのアルバムは、モルタザヴィの音楽のさらなる拡張を示す作品だ。Flussbad の公演情報などによれば、タムバックとダフに加えて、鳥の笛、小型マリンバ、カリンバ、小さなシンバルなど、さまざまな音響オブジェクトが導入されている。 これにより音色の幅が広がり、より立体的で精神的な空間表現が可能になっている。
+Sorti en 2022, cet album représente une nouvelle expansion de la musique de Mortazavi. Selon les informations sur les performances de Flussbad, en plus du tombback et du duff, divers objets sonores ont été introduits, notamment un sifflet d'oiseau, un petit marimba, un kalimba et de petites cymbales. Cela élargit la gamme de tons et permet une expression spatiale plus tridimensionnelle et spirituelle.
 
-彼はこの作品を通じて、自らの演奏スタイルを “ミニマリズム + 多層性” の融合に昇華させており、技巧の華やかさよりも、音の余白、静寂と響きのバランスを探ることに重きを置いている。
+À travers cette œuvre, il a élevé son style de performance à une fusion de « minimalisme + multicouche », en mettant davantage l'accent sur l'exploration des espaces vides du son et de l'équilibre entre silence et résonance plutôt que sur l'éclat de la technique.
 
-#### 7.6 最新作および今後への展望
+#### 7.6 Derniers travaux et perspectives d'avenir
 
-彼の最新作 『Nexus』 （Latency） は、ベルリンで録音され、彼の新たな方向性を示す重要なマイルストーンである。この作品では、彼が従来用いてきたアコースティックな手打ち太鼓に加えてエフェクト処理やサウンド・トリートメントを導入し、彼のリズム・言語をさらに未来へと押し上げている。
+Son dernier album, Nexus (Latency), enregistré à Berlin, constitue une étape importante dans sa nouvelle orientation. Dans cette œuvre, en plus des tambours à main acoustiques qu'il utilise traditionnellement, il introduit des traitements d'effets et des traitements sonores, poussant son rythme et son langage encore plus loin dans le futur.
 
-「Nexus（結節点）」というタイトルが示す通り、過去と未来、伝統と革新、身体と電子音響の交差点を探る作品として構想されており、今後のライブや共演、さらなる録音活動でも中心的な役割を果たすだろう。
-
----
-
-### 8. コラボレーションとジャンル横断的活動
-
-モルタザヴィはソロ演奏だけでなく、さまざまなアーティストやジャンルとの共演を通じて、自身のリズム・哲学を広げてきた。
-
-特に注目されるのは、エレクトロニック／実験音楽との共演だ。彼は **Burnt Friedman** との EP（例：*Yek*）で、伝統打楽器と電子ビートを融合させ、反復・循環リズムを探求。
-この共演は、彼の多声音テクニックと電子音楽の構造的リズムが調和する、ユニークな融合を生み出した。
-
-また **Mark Fell** などとの交流も報じられており、これは彼が実験音楽コミュニティにも深く受け入れられてきた証である。
-
-舞台芸術との連携も彼の重要な活動の一つだ。バレエやダンス公演、劇場との協働により、彼のリズムは身体表現の中核となる。実際、彼はリンツ地方歌劇場 (Landestheater Linz) などで振付家とともに作品を作ってきたという報告もある。
-
-さらに、世界各地のフェスティバルやワークショップにも定期的に登場し、伝統と実験の橋渡しを担っている。
+Comme le titre « Nexus » le suggère, il est conçu comme une œuvre qui explore l'intersection du passé et du futur, de la tradition et de l'innovation, ainsi que du corps et de l'acoustique électronique, et jouera un rôle central dans les futures performances live, collaborations et autres activités d'enregistrement.
 
 ---
 
-### 9. ライブ体験 ― 身体性・精神性・トランス性
+### 8. Collaboration et activités inter-genres
 
-モルタザヴィのライブ演奏は、非常に身体的かつ精神的な体験である。彼の手が皮面を叩くたびに空間が震え、観客の呼吸や集中がそのリズムに引き込まれてゆく。彼自身が言うように、「リズムは精神 (spirit)、旋律は身体 (body)、身体と精神が合わさって初めて音楽になる」。
+Mortazavi a élargi son rythme et sa philosophie non seulement à travers des performances en solo mais également à travers des collaborations avec divers artistes et genres.
 
-彼の演奏には、瞑想的な反復構造と、高速かつ複雑な変化パターンが混在し、聴き手はしばしば時間感覚を忘れる。テンポが緩やかになる瞬間、音が残響をともなって持続し、その持続が次第に重なって身体内に共鳴を生む。逆に、急激にリズムが加速すると、聴衆の集中はピークに達し、一種のトランス状態へ導かれる。
+La collaboration avec la musique électronique/expérimentale est particulièrement remarquable. Ses EP avec **Burnt Friedman** (par exemple *Yek*) explorent des rythmes répétitifs et cycliques, fusionnant percussions traditionnelles et rythmes électroniques.
+Cette collaboration a créé une fusion unique de ses techniques polyphoniques et des rythmes structurels de la musique électronique.
 
-このようなライブ体験は、単に耳で聴くものではなく、身体で「感じる」体験だ。モルタザヴィは、演奏と同時に観客との共鳴 (resonance) を創出し、瞬間ごとに「共通の拍動 (common pulse)」を共有させる。そのプロセスは、楽器と人間、演奏と聴衆を結ぶ儀式のような側面を持っている。
+Il a également été rapporté qu'il interagissait avec des personnes telles que **Mark Fell**, ce qui prouve qu'il a été profondément accepté par la communauté de la musique expérimentale.
 
----
+La collaboration avec les arts du spectacle fait également partie de ses activités importantes. À travers ses collaborations avec le ballet, les spectacles de danse et le théâtre, son rythme devient le cœur de son expression physique. En fait, il semblerait qu'il ait créé des œuvres avec des chorégraphes dans des lieux tels que l'Opéra régional de Linz (Landestheater Linz).
 
-### 10. 批評、受賞、評価の軌跡
-
-モルタザヴィは、技術・芸術性・革新性において国際的な評価を受けてきた。2003年には **RUTH 新人賞** を受賞。また、メディアからも高い関心が寄せられており、ドイツの Deutschlandfunk や Pitchfork、Hardwax、Boomkat など、多様な媒体で彼のスタイルや哲学が取り上げられてきた。
-
-特に Pitchfork では、人間の拍動 (pulse) の柔軟性と彼の演奏するリズムの即興性が注目され、「人間らしさと時間の可塑性を体現する音楽」と評された。 Hardwax などは、彼の 30 以上の新テクニックが作り出す音の精緻さと精神的な深みに強い賛辞を送っている。
-
-また、ライブレビューでもその身体性と精神性がたびたび強調される。Drummerszone などは、彼が使用する打点、手の部分、共鳴操作などを詳細に記述し、まるで彼の手が “音響システム” を演奏しているかのようだと指摘している。
-
-これらの評価は、彼が単なる技巧派奏者ではなく、音楽的思想家、そしてリズムの哲学者としても高い地位を得ていることを示している。
+De plus, il apparaît régulièrement dans des festivals et des ateliers à travers le monde, faisant le lien entre tradition et expérimentation.
 
 ---
 
-### 11. 哲学・スピリチュアリティ：リズム、時間、意識
+### 9. Expérience en direct - physicalité, spiritualité, transe
 
-モルタザヴィの音楽を語る上で、技術以上に重要なのはその **哲学的視座** である。彼はリズムを単なる時間の区切りやグルーヴとしてではなく、**精神 (spirit)** と深く結びついたものとして捉えている。
+Jouer Mortazavi en live est une expérience très physique et spirituelle. Chaque fois que sa main touche la peau, l'espace tremble et la respiration et la concentration du public sont entraînées dans le rythme. Comme il le dit lui-même : « Le rythme est l'esprit, la mélodie est le corps, et ce n'est que lorsque le corps et l'esprit s'unissent qu'ils deviennent musique. »
+
+Son jeu mélange des structures méditatives et répétitives avec des schémas de changement rapides et complexes qui font souvent perdre la notion du temps aux auditeurs. Au moment où le tempo ralentit, le son continue avec la réverbération, et ces durées se superposent progressivement, créant une résonance au sein du corps. A l'inverse, lorsque le rythme s'accélère brusquement, la concentration du public atteint son paroxysme, l'entraînant dans une sorte d'état de transe.
+
+Une expérience en direct comme celle-ci n'est pas seulement quelque chose que vous entendez avec vos oreilles, mais une expérience que vous pouvez « ressentir » avec votre corps. Mortazavi crée une résonance avec le public à mesure qu'il se produit, lui faisant partager un « pouls commun » à chaque instant. Le processus a un aspect rituel qui relie l’instrument et la personne, l’interprète et le public.
+
+---
+
+### 10. Historique des critiques, récompenses et reconnaissances
+
+Mortazavi a reçu une reconnaissance internationale pour ses compétences, son sens artistique et son innovation. En 2003, il a remporté le **RUTH Newcomer Award**. Il a également suscité beaucoup d'intérêt de la part des médias, et son style et sa philosophie ont été présentés dans divers médias tels que le Deutschlandfunk allemand, Pitchfork, Hardwax et Boomkat.
+
+Pitchfork a particulièrement attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et l'a décrit comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la précision sonore et la profondeur spirituelle de ses plus de 30 nouvelles techniques.
+
+De plus, leur aspect physique et leur spiritualité sont souvent soulignés dans les critiques en direct. Drummerszone et d'autres ont décrit en détail les points de frappe, les parties des mains et les opérations de résonance qu'il utilise, notant que ses mains semblent jouer sur un « système audio ».
+
+Ces évaluations démontrent qu'il n'est pas seulement un interprète talentueux, mais également un penseur musical et un philosophe du rythme très apprécié.
+
+---
+
+### 11. Philosophie/Spiritualité : Rythme, Temps, Conscience
+
+Lorsqu'on parle de la musique de Mortazavi, ce qui est plus important que sa technique est sa **perspective philosophique**. Il considère le rythme non seulement comme des divisions temporelles ou des grooves, mais comme quelque chose de profondément lié à l'**esprit**.
 
 Ses structures répétitives rappellent la méditation, et son traitement du sustain et de la résonance des sons emporte l'auditeur à travers le temps. Cycles de tempo, changements subtils, changements et persistance simultanée - ce sont autant de moyens pour lui de « sculpter » le temps et des dispositifs pour transformer l'espace en un royaume rempli de spiritualité.
 
 Il considère également la résonance avec le public (co-pulse) comme un élément important de la performance. Lors de ses performances live, le public n'est pas seulement un auditeur, mais un co-créateur qui participe à la génération rythmique de la scène. Il construit un dialogue rythmé entre lui et le public, créant un sentiment de « communauté » même lorsqu'il joue seul.
 
-Dans cette approche, on peut sentir une profonde volonté de dépasser les dualités telles que tradition et modernité, corps et conscience, individualité et résonance, immobilité et dynamisme. Ses rythmes ne sont pas seulement des expositions de techniques, mais émergent comme des pratiques philosophiques qui remettent en question le sens de l'enquête sur soi, de la communauté et du temps.
+Dans cette approche, on peut sentir une profonde volonté de surmonter les dualités telles que la tradition et la modernité, le corps et la conscience, l'individualité et la résonance, et l'immobilité et le dynamisme. Ses rythmes ne sont pas seulement des expositions de techniques, mais émergent comme des pratiques philosophiques qui remettent en question le sens de l'enquête sur soi, de la communauté et du temps.
 
 ---
 
@@ -235,7 +235,7 @@ Le voyage de Mohammad Reza Mortazavi est un voyage qui redéfinit la tradition, 
 
 Il ne se contente pas de préserver l'instrument classique, le tamback, mais le transforme pour l'avenir. Dans le processus de transformation, la musique, le corps, la communauté et la conscience se croisent et de nouveaux horizons s'ouvrent.
 
-Le chemin qu’il empruntera désormais est clair. Exploration technique plus poussée, nouvelles collaborations et expansion dans des espaces sonores inconnus. Cependant, ce qui est plus important que cela, c'est qu'il continue d'être quelqu'un qui demande constamment : « Qu'est-ce que le rythme ? »
+Le chemin qu’il empruntera désormais est clair. Exploration technologique plus poussée, nouvelles collaborations et expansion dans des espaces sonores inconnus. Cependant, ce qui est plus important que cela, c'est qu'il continue d'être quelqu'un qui demande constamment : « Qu'est-ce que le rythme ? »
 
 Écouter sa musique, ce n'est pas seulement s'abandonner au rythme, mais c'est un voyage pour trouver la résonance entre son propre battement de cœur intérieur et celui du monde. Mortazavi est le guide, la carte et la destination de ce voyage.
 

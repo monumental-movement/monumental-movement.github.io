@@ -43,7 +43,7 @@ color: #fff;
 
 ## Chapitre 1 Prémisse de la musique électronique avant l'électropop
 
-Afin de comprendre la formation des expériences pop électroniques, il est nécessaire d’avoir une vue d’ensemble de l’histoire de la combinaison de la musique électronique et de la musique populaire dans la seconde moitié du 20e siècle.
+Afin de comprendre la formation du système d’expérimentation pop électronique, il est nécessaire d’avoir une vue d’ensemble de l’histoire de la combinaison de la musique électronique et de la musique populaire dans la seconde moitié du 20e siècle.
 
 ### Combiner des structures de synthétiseur et de pop
 
@@ -75,7 +75,7 @@ Ceux-ci serviront plus tard de base à une expérimentation renforcée.
 * Une conception d'image sonore qui ne cache pas l'artificialité
 * Expression visuelle et production musicale simultanées
 
-Cette nature expérimentale décompose l'expérience de l'auditeur en plusieurs couches et élargit l'écoute musicale d'une « activité uniquement auditive ».
+Cette nature expérimentale décompose l'expérience de l'auditeur en plusieurs couches et élargit l'écoute musicale d'un « acte uniquement auditif ».
 
 ---
 
@@ -198,7 +198,7 @@ Cependant, plutôt que de simplement fusionner ces éléments, il se distingue p
 En incluant le processus de production et les informations visuelles, les auditeurs font simultanément l'expérience de ce qui suit :
 
 * Écouter de la musique
-*Imagination du processus de production
+* Imaginer le processus de production
 * Observation de la personnalité du créateur
 * Interprétation narrative visuelle
 

@@ -17,7 +17,7 @@ title: A. Crash and Brixton – Comrades From Cologne
 
 독일 출신의 A. Crash (Andreas Kremer)와 Brixton (Norbert Georg Brixton Wieschollek)의 스플릿 싱글.
 
-'Comrades From Cologne'은 1993년 후반에 Freddy Fresh와 Auto Kinetic에 의해 Analog Records의 부문으로 시작한 아날로그/모듈러 신디사이저&808/909 드럼 머신에 중점을 둔 미네아폴리스의 라벨 Electric Music Foundation에서 1997년에 출시된 Techno/M.
+'Comrades From Cologne'은 1993년 후반에 Freddy Fresh와 Auto Kinetic에 의해 Analog Records의 부문으로 시작한 아날로그/모듈러 신디사이저&808/909 드럼 머신에 중점을 둔 미네아폴리스의 라벨 Electric Music Foundation에서 1997년에 발표된 Techno/M.
 
 #### Tracklist
 ```md

@@ -40,7 +40,7 @@ Ci-dessous, nous reviendrons sur l'histoire de Shoegaze par décennie et présen
 - **Effet** : Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
 - **Ampli** : Vox AC30, Fender Twin Reverb
 
-### 10 chansons recommandées (années 1980)
+### 10 chansons recommandées (années 1980)
 
 <style type="text/css">
 
@@ -94,7 +94,7 @@ color: #fff;
 | Seulement peu profond | Ma sanglante Saint-Valentin | Pop rugissante qui a défini le genre |
 | Quand le soleil frappe | Plongée lente | Un symbole d'une belle sensation de flottement |
 | Alison | Plongée lente | Une célèbre ballade éphémère et transparente |
-| Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sentiment de rêve |
+| Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sensation de rêve |
 | Laissez-les tous derrière | Balade | Un chef-d'œuvre aux évolutions du rock progressif |
 | De Luxe | Luxuriant | Bruit de guitare léger et vif |
 | Lignes de désir | Luxuriant | Paysage sonore profond |
@@ -120,7 +120,7 @@ color: #fff;
 - **Synthétiseur logiciel et DAW** (Pro Tools, Logic)
 - **Guitare** : Fender Stratocaster, Telecaster également augmentées
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -186,12 +186,12 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 - Vulgarisation de **l'environnement d'enregistrement/distribution à domicile**
 - **Fonctionnement hybride d'équipements vintage et de dernières technologies**
 
-### 10 chansons recommandées (années 2020)
+### 10 chansons recommandées (années 2020)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
 | Asile contre la famine | Rien | Rugissement moderne et profond |
-| Attrapez la brise (refonte) | Plongée lente | Symbole du nouveau Slowdive |
+| Attrapez la brise (Rework) | Plongée lente | Symbole du nouveau Slowdive |
 | Bisous | Plongée lente | Beauté mélodique transparente |
 | Dites moins | Rien | Mur de son sombre et écrasant |
 | Ne vous fanez pas | Ringo Étoile de la Mort | Beauté rugissante rafraîchie |

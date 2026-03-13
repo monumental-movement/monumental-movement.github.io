@@ -22,7 +22,7 @@ Texte : mmr｜Thème : À propos du jalon artistique de la seconde moitié du 
 
 "Koyanisqatsi, réalisé par Godfrey Reggio et mis en musique par Philip Glass, est une œuvre qui a fondamentalement changé les horizons du cinéma et de la musique dans la seconde moitié du XXe siècle."
 
-> « La vie déséquilibrée. »
+> « La vie déséquilibrée. »
 > ― Koyaanisqatsi (Hopi)
 
 
@@ -56,7 +56,7 @@ color: #fff;
 Le titre du film, « Koyaanisqatsi », est un mot Hopi signifiant « la vie déséquilibrée ».
 Reggio a présenté ce mot comme un symbole de la société industrielle et de l'information de la seconde moitié du XXe siècle.
 
-Dans la vidéo d'ouverture, une montagne rocheuse brun rougeâtre dominant la nature sauvage est montrée, et un **refrain grave « Koyaanisqatsi »** résonne dans le silence.
+Dans la vidéo d'ouverture, une montagne rocheuse brun rougeâtre dominant la nature sauvage est montrée, et le **refrain grave « Koyaanisqatsi »** résonne dans le silence.
 Finalement, les bruits des machines de la civilisation humaine, l'agitation de la ville et l'accélération de la société de consommation commencent à se chevaucher pour former un rythme.
 
 > Naturel et artificiel. Silence et surpopulation. lumière et vitesse.
@@ -110,7 +110,7 @@ timeline
 
 ## Chapitre 4 : Minimalisme et spiritualité
 
-La musique de Glass a une forme classique occidentale, mais est profondément influencée par la pensée orientale et la musique méditative.
+La musique de Glass a une forme classique occidentale, mais est profondément influencée par la philosophie orientale et la musique méditative.
 La structure rythmique est particulièrement influencée par la musique vocale du musicien indien Ravi Shankar et des moines tibétains.
 
 Reggio est également une figure spirituelle ayant vécu dans un monastère, et l'ensemble du film est structuré comme une « prière sans prière » pour la société moderne.
@@ -123,10 +123,10 @@ Reggio est également une figure spirituelle ayant vécu dans un monastère, et 
 | ----------- | -------- | ---------- |
 | Nature sauvage et lancement de fusée | Son d'orgue soutenu | Contraste entre la vie et la machine |
 | Transports urbains/usines | Répétition de séquences | Cycle de travail sans fin |
-| Gros plan du visage | Chorus et décélération | Questions sur le rétablissement de l'humanité |
+| Gros plan du visage | Chorus et décélération | Questions sur la restauration de l'humanité |
 | Fusée qui s'effondre | Silence et décadence | Fin de la civilisation et renaissance |
 
-Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de l'image.
+Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de la vidéo.
 
 ---
 
@@ -140,7 +140,7 @@ Par exemple:
 * **Compositeurs contemporains tels que Sigur Rós, Max Richter, Brian Eno**
 * Directement influencé **films environnementaux et culture VJ**
 
-Cet ouvrage n'est pas seulement un film, mais est devenu quelque chose que l'on peut appeler un « livre de philosophie audiovisuelle ».
+Cet ouvrage n'est pas seulement un film, mais est devenu quelque chose que l'on peut appeler un « **livre de philosophie audiovisuelle** ».
 
 ---
 
@@ -169,7 +169,7 @@ Il a une structure dans laquelle le nombre de notes augmente ou diminue progress
 exemple:
 `123 → 1234 → 12345 → 2345 → 345`
 
-Ces changements infimes créent l’illusion du temps, où l’objet se déplace même s’il est immobile.
+Ces changements infimes créent l’illusion du temps, dans lequel l’objet se déplace même s’il est immobile.
 Cela correspond parfaitement à la sensation du temps dans les films au ralenti et en accéléré.
 
 ---

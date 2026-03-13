@@ -75,7 +75,7 @@ Le son, qui combinait les rythmes durs de la techno de Détroit avec le traiteme
 
 - Le coup de pied n'est pas boueux, mais il suinte comme de l'air.
 - La caisse claire est sur le point de disparaître, et la réverbération du delay devient la mélodie principale.
-- "Decay", et non la mélodie, construit la musique.
+- "Decay", pas la mélodie, construit la musique.
 
 Le critique musical Simon Reynolds a déclaré plus tard :
 > « Leur musique a transformé la techno d'« architecture » en « phénomène météorologique ».
@@ -84,7 +84,7 @@ C'était juste un **changement climatique sonore**.
 
 ---
 
-## Chapitre 3 : Réinventer le dub - De la Jamaïque à Berlin
+## Chapitre 3 : Réinventer le Dub - De la Jamaïque à Berlin
 
 Ce que Basic Channel citait, c'était l'idée du **dub jamaïcain** des années 70.
 Les sculptures réverbérantes de King Tubby et Lee « Scratch » Perry ont été recréées selon un processus numérique.
@@ -106,7 +106,7 @@ Caractéristiques de la réaction en chaîne :
 - Un sentiment d'unité comme si toutes les sources sonores partageaient le « même espace »
 - Pas une production de masse, mais un **réseau idéologique basé sur une chaîne de sons**
 
-En conséquence, Basic Channel est devenu plus une plate-forme de philosophie sonore qu'un label.
+En conséquence, Basic Channel est devenu plus une **plateforme pour la philosophie sonore** qu'un « label ».
 
 ---
 
@@ -128,7 +128,7 @@ C'était une « spiritualité anonyme » et une **prière post-humaine** qui all
 
 ---
 
-## Chapitre 6 : Philosophie du sound system et Berghain et au-delà
+## Chapitre 6 : La philosophie du sound system et le Berghain et au-delà
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/691Bw3f2NNg?si=AmVEYFoIGmCr0syV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -17,7 +17,7 @@ title: ACDC – Parlons argent
 
 "Moneytalks" est une chanson qui se caractérise par son riff et sa mélodie rapides et entraînants. La chanson dans son ensemble transmet la performance puissante et la voix puissante d'AC/DC, et a un charme qui attire l'auditeur.
 
-Cette chanson est connue comme l’une des chansons emblématiques d’AC/DC et constitue l’un des succès de leur carrière. Cette chanson est populaire parmi les fans de rock car c'est une chanson passionnante qui comprend de la guitare aérienne et des coups de tête. De plus, ses mélodies entraînantes et ses performances puissantes sont appréciées par un large éventail de fans de musique.
+Cette chanson est connue comme l’une des chansons emblématiques d’AC/DC et constitue l’un des succès de leur carrière. C'est une chanson populaire pour les fans de rock qui aiment la guitare aérienne et les coups de tête. De plus, ses mélodies entraînantes et ses performances puissantes sont appréciées par un large éventail de fans de musique.
 
 #### Liste des chansons
 ```md

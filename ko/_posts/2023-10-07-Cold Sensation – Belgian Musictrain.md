@@ -12,7 +12,7 @@ title: Cold Sensation – Belgian Musictrain
 ---
 
 
-Belgian Musictrain은 Cold Sensation(콜드 센세이션)이라는 벨기에의 음악 그룹에 의한 곡입니다. 이 노래는 1991년에 출시되었습니다.
+Belgian Musictrain은 Cold Sensation(콜드 센세이션)이라는 벨기에의 음악 그룹에 의한 곡입니다. 이 노래는 1991년에 발표되었습니다.
 
 벨기에 뮤직트레인은 일렉트로닉 댄스 뮤직의 요소를 도입한 업비트한 곡입니다. 노래 제목에서 알 수 있듯이 벨기에의 음악 장면과 파티 문화를 축복하는 주제가 담겨 있습니다.
 

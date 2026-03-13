@@ -44,9 +44,9 @@ Die Vibrationen meines Körpers, die ich auf dem Clubboden spürte. Ein illegale
 
 Sie werden oft nicht erfasst. Es wird weder in den Medien berichtet noch in der Geschichte aufgezeichnet.
 
-Allerdings macht derzeit ein DIY-Medium namens „Zine“ auf sich aufmerksam, das diese Fragmente aufgreift und neu erzählt.
+Derzeit erregt jedoch ein DIY-Medium namens „Zine“ Aufmerksamkeit, das die Fragmente aufgreift und die Geschichte neu erzählt.
 
-Ein Zine ist keine Zeitschrift, kein Tagebuch oder Bericht. Es ist jedoch näher an den „Stimmen der beteiligten Personen“ als alle anderen. In der Rave-Kultur, die sich von Natur aus der Aufzeichnung widersetzt, haben Zines das Potenzial, als „Erinnerungshilfen“ zu dienen.
+Ein Zine ist keine Zeitschrift, kein Tagebuch oder Bericht. Es ist jedoch näher an den „Stimmen der beteiligten Personen“ als alle anderen. In der Rave-Kultur, die sich von Natur aus der Aufnahme widersetzt, haben Zines das Potenzial, als „Erinnerungshilfen“ zu dienen.
 
 ---
 
@@ -112,7 +112,7 @@ flowchart TD
 
 ---
 
-### Warum sollte man im digitalen Zeitalter die Dinge auf Papier behalten?
+### Warum sollte man im digitalen Zeitalter alles auf Papier behalten?
 
 | Funktionen | Digital | Papier (Zine) |
 | --------- | --------------------------------- | ---------------------------------------- |

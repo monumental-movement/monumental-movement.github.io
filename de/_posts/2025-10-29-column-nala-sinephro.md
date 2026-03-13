@@ -20,7 +20,7 @@ title: '[Kolumne] Nala Sinephro – Klangatmung und kosmische Stille: Der aktuel
 
 Text: mmr｜Thema: Beim Jazz geht es nicht um Technik oder Genreerweiterung, sondern um die grundlegende Frage, was Klang dem Menschen bringen kann.
 
-Wenn wir Nala Sinephros Musik zum ersten Mal hören, sind wir gezwungen, das Konzept eines „Liedes“ aufzugeben.
+Wenn wir zum ersten Mal mit der Musik von Nala Sinephro in Berührung kommen, sind wir gezwungen, das Konzept eines „Liedes“ loszulassen.
 Sein Debütalbum Space 1.8, das 2021 bei Warp Records erschien, war ein Werk, das die Grenzen zwischen Jazz und Ambient, modularer Synthese und Improvisation verschmolz, als ob es atmen würde.
 
 Harfe, Tenorsaxophon, modularer Synthesizer und der Raum selbst.
@@ -46,7 +46,7 @@ color: #fff;
 ## Kapitel 1: Die Geburt der Londoner Szene – Wind aus dem Süden
 
 Wenn man über das Wiederaufleben des Jazz in London spricht, kommt einem immer die geografische Energie Südlondons in den Sinn.
-Die Söhne von Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd und andere haben ein neues Jazz-Vokabular etabliert, aber Nala Sinephro ist diejenige, die den Sound von der „stillen Seite“ her neu aufgebaut hat.
+Die Söhne von Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd und anderen haben ein neues Jazz-Vokabular etabliert, aber Nala Sinephro ist diejenige, die den Sound von der „stillen Seite“ her neu aufgebaut hat.
 
 Sie hat st. Lucianische und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.
 Bei einer Session im Londoner Jazzclub „Total Refreshment Centre“
@@ -83,8 +83,8 @@ Dies ist ein Fluss, der das von Brian Eno vorgeschlagene Konzept der „Umweltmu
 Nala Sinephros Musik steht im Geiste von Harold Budd, Alice Coltrane und Laraaji.
 Es ist der „kontemplative Modernismus“, der in der Post-Club-Ära des 21. Jahrhunderts neu definiert wurde.
 
-Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum und fügen Klangebenen hinzu.
-Der Rhythmus verschwindet, die Melodie driftet ab und alles, was bleibt, ist das Gefühl von Zeit und Raum.
+Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum, indem sie Klangebenen hinzufügen.
+Der Rhythmus verschwindet, die Melodie driftet und alles, was bleibt, ist das **Gefühl von Zeit und Raum**.
 
 
 <div class="mermaid">
@@ -114,7 +114,7 @@ Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper 
 > - Ableton Live (zur Loop-Verarbeitung)
 
 Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.
-Wellenformen umhüllen die Echos der Harfe, die analoge Temperatur neutralisiert die elektronische Klarheit.
+Wellenformen umhüllen die Echos der Harfe, analoge Temperaturen neutralisieren die elektronische Transparenz.
 Es ist auch ein Akt der Sublimierung von Musik zu einem **Technologiegebet**.
 
 ---
@@ -139,9 +139,9 @@ Gleichzeitig ist es aber auch ein Zeichen der Langsamkeit als Reaktion auf die G
 | 1998 | Geboren als Belgier mit St.-Lucian-Abstammung |
 | 2015 | Übersiedelte nach London und begann in der Jazzszene zu arbeiten |
 | 2018 | Treten Sie dem Total Refreshment Center bei und beginnen Sie mit Improvisationssitzungen |
-| 2021 | „Space 1.8“ von Warp Records veröffentlicht |
+| 2021 | „Space 1.8“ veröffentlicht von Warp Records |
 | 2022 | Internationale Anerkennung durch Gilles Peterson und andere |
-| 2024 | Start neuer Produktion/modulares Live-Projekt |
+| 2024 | Neue Produktion/modulares Live-Projekt gestartet |
 
 ---
 

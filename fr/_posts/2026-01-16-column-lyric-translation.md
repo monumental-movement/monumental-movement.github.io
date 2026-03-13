@@ -81,7 +81,7 @@ Les paroles traduites qui en résultent sont un compromis entre la chanson origi
 ## Chapitre 3 Traductions chantables et « traductions qui ne peuvent pas être chantées »
 
 Les traductions de paroles sont divisées en traductions pour la lecture et traductions pour le chant.
-Dans ce dernier cas, la facilité de prononciation, la continuité des voyelles et la position de l’accent sont importantes.
+Dans ce dernier cas, la facilité de prononciation, la séquence de voyelles et la position de l’accent sont importantes.
 
 Le japonais a une structure syllabique simple et de nombreuses voyelles, ce qui rend difficile la reproduction de la séquence de consonnes et de la structure d'accentuation de l'anglais.
 Par conséquent, lorsque l’on chante des paroles anglaises en japonais, le sens des mots est souvent simplifié ou la grammaire est réorganisée.
@@ -147,7 +147,7 @@ Cela a fait du hip-hop un cas particulier d’importance culturelle sans aucune 
 
 ---
 
-## Chapitre 8 : Rap japonais et importation culturelle en sens inverse
+## Chapitre 8 Le rap japonais et le transfert culturel inverse
 
 L’établissement du rap japonais n’a pas progressé grâce à la traduction de paroles en anglais, mais à travers la transplantation de formes et d’attitudes.
 Ici, l’accent est mis sur l’imitation et la reconstruction plutôt que sur la traduction.

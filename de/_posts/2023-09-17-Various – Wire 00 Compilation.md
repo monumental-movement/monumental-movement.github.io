@@ -15,7 +15,7 @@ title: Verschiedenes – Wire 00 Compilation
 
 Dies ist ein Zusammenstellungsalbum der Interpreten von „WIRE 00“, dem größten Indoor-Rave der Geschichte, der im Jahr 2000 stattfand.
 
-Die Doppel-LP enthält außerdem Titel von Sven Väth, DJ Hell und WestBam.
+Das 2-LP-Set enthält außerdem Titel von Sven Väth, DJ Hell und WestBam.
 
 #### Trackliste
 ```md

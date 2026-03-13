@@ -133,7 +133,7 @@ En d’autres termes, sa musique est un terrain d’expérimentation pour l’hu
 
 | Article | Début (1990-1995) | Actuel (2014-2025) |
 |------|------------------|--------------------|
-| Technologie | Équipement analogique, principalement des échantillonneurs | Algorithmes modulaires + numériques |
+| Technologie | Équipements et échantillonneurs principalement analogiques | Algorithmes modulaires + numériques |
 | Texture du son | Organique, accidentel, matériel | Géométrique, informatif, transparent |
 | Esthétique | Coexistence du bruit et du rythme | Symbiose des données et de l'émotion |
 | Sujet d'expression | Monde intérieur/corps de l'individu | Frontière entre humains et machines |
@@ -167,7 +167,7 @@ Sa musique actuelle n'est plus un acte d'« écoute », mais plutôt une « phil
 
 ---
 
-##VI. Chronologie : trajectoire d'évolution acoustique de l'Aphex Twin
+## VI. Chronologie : trajectoire d'évolution acoustique de l'Aphex Twin
 
 <div class="mermaid">
 
@@ -195,7 +195,7 @@ La musique d'Aphex Twin n'est pas seulement une collection de sons électronique
 Il s'agit d'une expérience pour visualiser la "**métastructure de l'écoute**".
 C'est aussi un **événement philosophique** où les émotions humaines et la perception des machines se rencontrent.
 
-Dans ses premiers travaux, on procédait à « l'électronisation des émotions »,
+Dans ses premiers travaux, on pratiquait « l'électronisation des émotions »,
 Aujourd'hui, la tendance s'est inversée vers « l'émotionnalisation de l'électronique ».
 Son voyage peut présager un avenir dans lequel la musique elle-même deviendra consciente.
 

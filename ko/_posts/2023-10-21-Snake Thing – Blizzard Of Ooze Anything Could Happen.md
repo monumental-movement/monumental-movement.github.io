@@ -15,7 +15,7 @@ title: Snake Thing – Blizzard Of Ooze Anything Could Happen
 
 Snake Thing은 Nick Taylor의 솔로 프로젝트.
 
-「Blizzard Of Ooze」는, Raja Ram(라자·램)이 운영하는 UK 고어 트랜스 라벨 TIP보다, 1998년에 릴리스.
+"Blizzard Of Ooze"는 Raja Ram (라자 람)가 운영하는 UK 고어 트랜스 벨 TIP보다 1998 년에 릴리스.
 
 #### Tracklist
 ```md

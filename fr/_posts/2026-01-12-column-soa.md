@@ -10,21 +10,20 @@ permalink: /fr/column-soa/
 tags:
 - Hardcore Punk
 - Punk
-title: '[Chronique] S.O.A (State Of Alert) — La première sonnette d''alarme aux débuts
-  du hardcore'
+title: 【コラム】 S.O.A（State Of Alert）— ハードコア黎明期に刻まれた最初の警鐘
 ---
 
 
 
-## Prologue : Que signifiait le nom S.O.A
+## 序章：S.O.Aという名前が意味したもの
 
-Texte : mmr｜Thème : À propos de la musique présentée comme la structure du temps lui-même
+文：mmr｜テーマ：時間構造そのものとして提示されている音楽について
 
-S.O.A est un groupe de punk hardcore formé à New York en 1980. Leur période active est extrêmement courte et leur discographie officielle est limitée. Cependant, son existence ne peut être considérée comme une simple préhistoire ou une étape préparatoire. S.O.A est apparu à la frontière entre le punk des années 70 et le hardcore des années 80, capturant la tension, la violence et l'étouffement des jeunes de la ville de New York d'une manière qui ne pouvait plus être effacée.
+S.O.Aは1980年、ニューヨークで結成されたハードコア・パンク・バンドである。活動期間は極めて短く、正式なディスコグラフィーも限られている。しかし、その存在は単なる前史や準備段階として片付けられるものではない。S.O.Aは、70年代パンクと80年代ハードコアの境界線上に現れ、都市ニューヨークが抱えていた緊張、暴力性、若者の閉塞感を、これ以上削れない形で音に封じ込めた。
 
-Le nom du groupe, « State of Alert », est un mot qui signifie vigilance constante. Plutôt que d’être un slogan politique, il s’agissait d’une expression littérale de l’état d’esprit des jeunes vivant à New York à l’époque. Instabilité économique, détérioration de l'ordre public, ruine urbaine et division au sein de la scène punk. S.O.A leur a présenté la vitesse et la brièveté du son sans les expliquer.
+バンド名である「State Of Alert」は、常時警戒態勢を意味する言葉である。これは政治的スローガンというより、当時のニューヨークに生きる若者たちの精神状態をそのまま言語化したものであった。経済不安、治安悪化、都市の荒廃、そしてパンク・シーン内部の断絶。S.O.Aは、それらを説明することなく、音速と短さで提示した。
 
-> S.O.A (State Of Alert) fut un groupe éphémère mais définitif qui existait juste avant que le hardcore new-yorkais ne prenne sa propre définition.
+> S.O.A（State Of Alert）は、ニューヨーク・ハードコアが自らの輪郭を獲得する直前に存在した、短命でありながら決定的なバンドである。
 
 
 ---
@@ -43,106 +42,106 @@ color: #fff;
 </style>
 
 
-## Tournant du punk new-yorkais au hardcore
+## ニューヨーク・パンクからハードコアへの転換点
 
-Le punk new-yorkais de la fin des années 1970 avait formé sa propre sphère culturelle autour du CBGB. Le style présenté par des groupes comme les Ramones, Television et Patti Smith avait déjà une influence internationale. D'un autre côté, le vocabulaire et les expressions musicales se standardisaient rapidement et devenaient déjà « chose faite » pour la jeune génération.
+1970年代後半のニューヨーク・パンクは、CBGBを中心に独自の文化圏を形成していた。Ramones、Television、Patti Smithといったバンドが提示したスタイルは、既に国際的な影響力を持っていた。一方で、その音楽的語彙や表現は急速に定型化し、若い世代にとっては既に「出来上がったもの」になりつつあった。
 
-À peu près à la même époque, une nouvelle expression du punk émergeait à Los Angeles et à Washington, D.C. : plus rapide, plus courte et plus agressive. Ce mouvement, appelé plus tard hardcore, s'est progressivement répandu à New York. L’entité qui incarnait le plus clairement cette impulsion initiale était S.O.A.
+同時期、ロサンゼルスやワシントンD.C.では、より速く、より短く、より攻撃的な新しいパンク表現が生まれていた。後にハードコアと呼ばれるこの動きは、ニューヨークにも確実に浸透していく。その初期衝動を最も端的に体現した存在がS.O.Aであった。
 
 
-> Vers 1980, lorsque S.O.A apparaît à New York, le punk s'impose comme style, et en même temps, ses limites commencent à être exposées.
+> S.O.Aが現れた1980年前後のニューヨークは、パンクが様式として固定され、同時に限界を露呈し始めていた時代であった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c5k0OpmN1g4?si=ZMNmS5pIqB33l_Wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Composition des membres et historique de formation
+## メンバー構成と結成の経緯
 
-Le personnage central de SOA est Henry Rollins. Rollins, plus tard connu comme le leader de Black Flag, était à cette époque un jeune homme de Washington, D.C., et a rejoint SOA alors qu'il était à New York. Bien que son style de chanteur soit immature par rapport à ses expressions ultérieures, il possédait déjà un sens extrême d'urgence et de franchise.
+S.O.Aの中心人物はヘンリー・ロリンズである。後にBlack Flagのフロントマンとして知られるロリンズは、この時点ではワシントンD.C.出身の若者であり、ニューヨーク滞在中にS.O.Aへ参加した。ボーカルとしての彼のスタイルは、後年の表現に比べれば未成熟であるが、既に極端な切迫感と直接性を備えていた。
 
-Les membres de la guitare, de la basse et de la batterie étaient également étroitement liés à la scène punk underground new-yorkaise et sont ensuite passés à d'autres groupes importants. Cette structure consistant à être « démantelée en peu de temps et reconstruite sous une forme différente » était elle-même une caractéristique de la scène hardcore du début des années 1980.
+ギター、ベース、ドラムのメンバーも、ニューヨーク・アンダーグラウンドのパンク・シーンと密接に結びついており、のちに他の重要バンドへ流動していく。この「短期間で解体し、別の形で再構築される」という構造自体が、80年代初頭のハードコア・シーンの特徴であった。
 
-> S.O.A fonctionne comme un corps mère qui donne naissance à de multiples bandes successives, et son influence en réseau est disproportionnée par rapport à sa courte période d'activité.
-
----
-
-## Fonctionnalités sonores : vitesse et réduction
-
-La musique de SOA n'est pas orientée vers la technique d'interprétation ou la complexité. La plupart des chansons durent environ une minute et il n’y a presque pas d’introductions ou d’éléments de développement. La batterie sert à faire avancer le rythme plutôt qu'à le conduire, et la guitare est plus à la frontière entre le bruit et le rythme qu'un riff.
-
-Cette musicalité est différente de la « lourdeur » et du « groove » du hardcore new-yorkais ultérieur, et est plutôt plus proche des premières impulsions du hardcore de DC. Cependant, le son de S.O.A a une tension sèche typique du New York urbain, et l'éruption immédiate d'émotion est plus au premier plan que la politique.
-
-> Les chansons de S.O.A existent comme le résultat d'une excision plutôt que d'une construction.
+> S.O.Aは複数の後続バンドを生む母体として機能し、その人脈的影響力は活動期間の短さと比例しない。
 
 ---
 
-## Paroles et position d'expression
+## サウンドの特徴：速さと削減
 
-Les paroles de SOA sont courtes et directes, avec peu de métaphore ou de récit. Ce qui est dépeint ici est un sentiment fragmenté d’oppression, de colère et de légitime défense. Il ne prescrit pas explicitement une idéologie politique ou un mouvement social particulier, mais se concentre plutôt sur des réactions réflexives aux circonstances dans lesquelles se trouvent les individus.
+S.O.Aの音楽は、演奏技術や複雑さを志向しない。楽曲の多くは1分前後で終わり、イントロや展開といった要素はほとんど存在しない。ドラムはビートを刻むというより、前方に押し出す役割を担い、ギターはリフというよりノイズとリズムの境界に位置している。
 
-Cette attitude diffère de la ligne droite et du hardcore politique ultérieurs. La S.O.A existait à un stade antérieur au développement de son idéologie et émettait une anxiété et une violence inexprimées sous forme de son.
+この音楽性は、後のニューヨーク・ハードコアにおける「重さ」や「グルーヴ」とは異なり、むしろD.C.ハードコアの初期衝動に近い。しかし、S.O.Aの音には都市ニューヨーク特有の乾いた緊張感があり、政治性よりも即時的な感情の噴出が前面に出ている。
 
-> Les paroles de S.O.A n'expliquent pas le message, ne laissant que la pression émotionnelle.
-
----
-
-## No Policy E.P. : La seule source sonore officielle
-
-La seule source sonore officielle laissée par SOA est **No Policy E.P.**, qui est sorti sous forme de disque de 7 pouces. Cette œuvre condense les caractéristiques musicales de S.O.A. Toutes les chansons sont extrêmement courtes, les enregistrements sont grossiers et il n'y a aucune décoration.
-
-Aucune politique n’est pas une œuvre évaluée pour son exhaustivité ou sa qualité sonore. Sa valeur réside dans le fait qu’il préserve l’état initial du hardcore new-yorkais de l’époque sous une forme brute. 7inch est devenu un point de référence important lorsque l’on considère la manière dont le hardcore est devenu structuré et institutionnalisé au cours des années suivantes.
-
-> Pas de politique E.P. est le seul enregistrement définitif de l'existence de S.O.A.
+> S.O.Aの楽曲は、構築というより切除の結果として存在している。
 
 ---
 
-## Activités en direct et dissolution
+## 歌詞と表現のスタンス
+
+S.O.Aの歌詞は短く、直接的であり、比喩や物語性はほとんど用いられない。そこに描かれるのは、抑圧、怒り、自己防衛といった断片的な感覚である。特定の政治思想や社会運動を明確に指示することはなく、むしろ個人が置かれた状況への反射的な反応が中心となっている。
+
+この姿勢は、後年のストレートエッジや政治的ハードコアとは異なる。S.O.Aは、思想を構築する前段階に存在し、まだ言葉にならない不安や暴力性を、そのまま音として放出していた。
+
+> S.O.Aの歌詞はメッセージを説明せず、感情の圧力だけを残す。
+
+---
+
+## No Policy E.P.：唯一の公式音源
+
+S.O.Aが残した公式音源は、7inch盤としてリリースされた **No Policy E.P.** のみである。この作品には、S.O.Aの音楽的特徴が凝縮されている。全曲が極めて短く、録音も粗削りで、装飾は一切ない。
+
+No Policy E.P.は、完成度や音質で評価される作品ではない。その価値は、当時のニューヨークにおけるハードコアの初期状態を、加工されていない形で保存している点にある。この7inchは、後年のハードコアがどれほど構造化され、制度化されていったかを考える上で、重要な基準点となっている。
+
+> No Policy E.P.は、S.O.Aの存在を現在に伝える唯一の確定した記録である。
+
+---
+
+## ライブ活動と解散
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-13jO7QKlU?si=R9wljIejBr65O4Lt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Les activités live de SOA ont été de courte durée et les lieux étaient limités. Ils se produisaient principalement dans de petits clubs et des espaces de bricolage, et n'étaient alors connus que sur la scène punk new-yorkaise. Lors des performances live, l'accent était mis sur l'énergie de la collision plutôt que sur la perfection musicale, et la distance avec le public était extrêmement étroite.
+S.O.Aのライブ活動は短期間で、会場も限られていた。主に小規模なクラブやDIY的なスペースで演奏し、当時のニューヨーク・パンク・シーン内部でのみ知られる存在であった。ライブでは、音楽的完成度よりも衝突のエネルギーが重視され、観客との距離は極端に近かった。
 
-Le groupe s'est dissous vers 1981. La raison de la dissolution du groupe ressemble plus à une disparition naturelle due au mouvement des membres et à des changements dans leurs intérêts, qu'à un incident spécifique. Cependant, cette dissolution ne met pas fin à S.O.A. Au lieu de cela, il se propage d’une manière différente.
+バンドは1981年頃に解散する。解散理由は特定の事件というより、メンバーの移動と関心の変化による自然消滅に近い。だが、この解散によってS.O.Aは終わるのではなく、別の形で拡散していく。
 
-> S.O.A était un groupe live et était plus présent sur le terrain que sur disque.
+> S.O.Aはライブ・バンドであり、記録よりも現場に存在した。
 
 
 ---
 
-## Flux dérivé de S.O.A
+## S.O.Aから派生した流れ
 
 
-Henry Rollins rejoint Black Flag après la dissolution de SOA. Il y acquiert une expression plus soutenue et structurée. D’un autre côté, des membres du côté new-yorkais et des personnalités environnantes se sont impliqués dans la formation de la scène qui a conduit à Agostic Front et Cro-Mags.
+ヘンリー・ロリンズはS.O.A解散後、Black Flagへ加入する。そこで彼は、より持続的で構造化された表現を獲得していく。一方、ニューヨーク側のメンバーや周辺人物は、Agostic FrontやCro-Magsへと連なるシーン形成に関与していく。
 
-S.O.A lui-même est rarement considéré comme un représentant du hardcore new-yorkais. Cependant, en tant que témoignage de cette « phase de personne », il fournit des indices importants pour comprendre ce dont les bandes ultérieures ont hérité et ce qu'elles ont abandonné.
+S.O.A自体はニューヨーク・ハードコアの代表格として語られることは少ない。しかし、その「何者でもない段階」の記録として、後続のバンドが何を引き継ぎ、何を捨てたのかを理解するための重要な手がかりを提供している。
 
-> La S.O.A a fonctionné comme un tournant plutôt que comme un point final.
+> S.O.Aは終点ではなく分岐点として機能した。
 
 ---
 
-## Position dans l'histoire du hardcore à New York
+## ニューヨーク・ハードコア史における位置付け
 
 
-Le hardcore new-yorkais a un style et une esthétique distincts depuis le milieu des années 1980. Cependant, S.O.A existait à un stade antérieur, incarnant une musique qui n’avait même pas encore reçu de nom.
+ニューヨーク・ハードコアは、1980年代半ば以降、明確なスタイルと美学を持つようになる。しかしS.O.Aは、その前段階に存在し、まだ名称すら定着していない状態の音楽を体現していた。
 
-Il est donc difficile d’évaluer la SOA de manière indépendante. Cependant, S.O.A est indispensable pour comprendre ce qui se passait avant que le hardcore ait une norme selon laquelle « c'est ainsi que les choses devraient être ».
+そのため、S.O.Aを単独で評価することは難しい。しかし、ハードコアが「こうでなければならない」という規範を持つ以前に、何が起きていたのかを知る上で、S.O.Aは欠かせない存在である。
 
-> S.O.A capture le genre à son moment le plus volatile, avant sa définition.
+> S.O.Aはジャンルの定義が固まる前の、最も不安定な瞬間を切り取っている。
 
 ---
 
 ## Chronologie
 
 
-1980 Création de SOA à New York
-1980 Début des activités live
-1981 7 pouces sans politique E.P. libéré
-1981 Suspension des activités/dissolution de fait
-Après 1981, les membres se sont dispersés dans des groupes hardcore à travers le pays.
+1980年　ニューヨークにてS.O.A結成
+1980年　ライブ活動開始
+1981年　7inch盤 No Policy E.P. リリース
+1981年　活動停止・事実上の解散
+1981年以降　メンバーが各地のハードコア・バンドへ分散
 
-> Bien que les activités de S.O.A soient courtes, elles s'inscrivent étroitement dans l'évolution des temps.
+> S.O.Aの活動は短いが、時代の変化と密接に重なっている。
 
-## Schéma relationnel centré sur S.O.A
+## S.O.Aを中心とした関係図
 
 <div class="mermaid">
 graph TD
@@ -157,11 +156,11 @@ E --> G[Cro-Mags]
 ---
 
 
-## Conclusion : les sons sont laissés en alerte
+## 結語：警戒態勢のまま残された音
 
-> S.O.A n'était pas une œuvre achevée, mais une alarme qui retentissait.
+> S.O.Aは完成された作品ではなく、警報音そのものであった。
 
-S.O.A ne vise ni le succès ni la pérennité. Cependant, son existence éphémère montre le plus directement le sentiment d’urgence qui a donné naissance à la musique hardcore. Les quelques minutes sonores qui composent No Policy E.P. conserver l'impulsion brute et brute qui a précédé l'institutionnalisation du genre.
+S.O.Aは、成功も持続も目指していない。だが、その一瞬の存在は、ハードコアという音楽がどのような切迫感から生まれたのかを、最も直接的に示している。No Policy E.P.に刻まれた数分間の音は、ジャンルが制度化される以前の、生身の衝動を今も保ち続けている。
 
 
 ---

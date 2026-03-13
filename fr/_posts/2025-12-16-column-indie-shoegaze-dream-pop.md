@@ -24,7 +24,7 @@ Texte : mmr｜Thème : À propos de l'histoire de la reconstruction des images e
 Le Shoegaze et la dream pop, qui ont émergé principalement au Royaume-Uni entre la fin des années 1980 et le début des années 1990, ont considérablement modifié le domaine expressif de la musique rock de la « performance » à l'« image sonore ».
 Ces musiques se concentrent sur l'espace, la réverbération et le sustain sensuel créés par des sons qui se chevauchent, plutôt que sur l'attrait immédiat de la mélodie ou la clarté des paroles.
 
-Le terme « shoegaze » vient de la façon dont les gens regardaient les planches effectrices à leurs pieds pendant qu'ils jouaient, et le terme s'est imposé comme un symbole de la nature introvertie de la performance. La dream pop, quant à elle, est née de la fusion d'une sensibilité pop ambiante antérieure avec l'orientation sonore post-punk du post-punk.
+Le terme « shoegaze » vient de la façon dont les gens regardaient les planches effectrices à leurs pieds pendant qu'ils jouaient, et le terme s'est imposé comme un symbole de la nature introvertie de la performance. La dream pop, quant à elle, est née de la fusion d'une sensibilité pop ambiante antérieure avec l'orientation sonore du post-punk.
 
 Bien que les deux aient des origines différentes, ils sont étroitement liés en termes de traitement du son, de traitement de la voix et de sensibilité visuelle.
 
@@ -50,7 +50,7 @@ color: #fff;
 
 ### 1-1. Sensation acoustique après le post-punk
 
-À la fin des années 1970 et au début des années 1980, le postpunk a déconstruit les structures du rock et a porté son attention sur le timbre, la texture et le traitement spatial.
+À la fin des années 1970 et au début des années 1980, le postpunk a déconstruit la structure du rock et a porté son attention sur le timbre, la texture et le traitement spatial.
 Les synthétiseurs, la réverbération et le delay ne sont plus de simples décorations, mais fonctionnent comme des éléments qui façonnent la structure de la chanson elle-même.
 
 Au cours de ce processus, la voix chantée est passée du statut de corps principal racontant l’histoire à celui de simple partie du son.
@@ -77,7 +77,7 @@ Le delay est utilisé pour créer des réverbérations superposées plutôt que 
 ### 2-2. Rythme en arrière-plan
 
 La batterie et la basse n'agissent pas comme la force motrice de la chanson, mais fonctionnent comme un centre de gravité pour soutenir l'image sonore.
-Le rythme est relativement constant et l’accent est mis sur la continuation d’un État plutôt que sur des développements dramatiques.
+Le rythme est relativement constant et l’accent est mis sur la continuation d’un État plutôt que sur un développement spectaculaire.
 
 ---
 
@@ -134,7 +134,7 @@ Le travail de caméra et le montage évitent également une mise au point claire
 
 | Éléments | Pop de rêve | Regard sur les chaussures |
 | ---- | ------- | ------- |
-| Volumes | Relativement supprimé | Volume fort/haute densité |
+| Volume | Relativement supprimé | Volume fort/haute densité |
 | Distorsion | Moins | Multicouche |
 | Traitement des voix | Flottant | Enterré |
 | Sensations | Rêve/Introspection | Oppression/Euphorie |
@@ -158,7 +158,7 @@ timeline
 
 ## Dernier chapitre : Quand la musique devient décor
 
-Le shoegaze indie et la dream pop ont transformé la musique d'un objet à écouter en un espace dans lequel s'immerger.
+L'indie shoegaze et la dream pop ont transformé la musique d'un objet à écouter en un espace dans lequel s'immerger.
 Il ne s’agit pas d’une démonstration d’habileté, mais d’une conception des sens, d’une expression globale qui relie les sensations visuelles et physiques.
 
 My Bloody Valentine et Cocteau Twins, dans leurs directions différentes, ont montré jusqu'où la musique pouvait être abstraite.
@@ -262,7 +262,7 @@ Il s’agit d’une tentative d’assurer un anonymat visuel similaire à celui 
 ### E-1. Succession jusqu'à la fin des années 1990 et au-delà
 
 Même après que le shoegaze et la dream pop aient temporairement perdu leur attention commerciale, leurs techniques sont restées clandestines.
-L'accent mis sur l'image sonore est réinterprété dans le rock alternatif, le post-rock et la pop ambiante.
+L'accent mis sur les images sonores est réinterprété dans le rock alternatif, le post-rock et la pop ambiante.
 
 ---
 
@@ -279,7 +279,7 @@ Cette superposition de type shoegaze et le traitement spatial dream-pop ont ét�
 
 | Point de vue | Ma sanglante Saint-Valentin | Jumeaux Cocteau |
 | ----- | ------------------- | ------------- |
-| Volumes | Extrêmement fort | Relativement supprimé |
+| Volume | Extrêmement fort | Relativement supprimé |
 | Fluctuation du son | Physique/Performance | Spatial/Traitement |
 | Rôle de la voix | Partie d'un instrument de musique | Moyen d'émotion |
 | Vision du monde | Étanchéité/Compression | Diffusion/Flottant |

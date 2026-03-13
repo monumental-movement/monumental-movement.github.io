@@ -13,7 +13,7 @@ title: Public Enemy – Fear Of A Black Planet
 ---
 
 
-Public Enemy의 'Fear of a Black Planet'은 음악적으로나 컨셉츄얼에도 뛰어난 앨범으로 높이 평가되고 있습니다.
+Public Enemy의 'Fear of a Black Planet'은 음악적으로나 컨셉츄얼에 뛰어난 앨범으로 높이 평가되고 있습니다.
 
 
 #### Tracklist

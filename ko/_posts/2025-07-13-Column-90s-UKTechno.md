@@ -15,7 +15,7 @@ title: 【칼럼】 UK 테크노의 황금 시대
 
 ## UK 테크노의 황금 시대: 1990년대 소리와 투쟁 기록
 
-문장：mmr｜테마：UK 테크노・컬쳐
+문장: mmr｜테마:UK 테크노·컬쳐
 
 
 <hr>
@@ -51,7 +51,7 @@ title: 【칼럼】 UK 테크노의 황금 시대
 
 [**● Regis & British Murder Boys**](https://amzn.to/4mZWUtm)
 
-UK의 인더스트리얼 테크노의 핵심 인물. Regis는 Downwards 레이블을 설립하여 버밍엄 독자적인 디스토피아 사운드를 확립.
+UK의 인더스트리얼 테크노의 핵심 인물. Regis는 Downwards 레이블을 설립하고 버밍엄의 독자적인 디스토피아 사운드를 확립.
 
 [**● Autechre**](https://amzn.to/4q1OyUJ)
 
@@ -72,7 +72,7 @@ Regis가 설립. 인더스트리얼로 금욕적인 사운드를 중심으로, S
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-Mute Records의 서브 라벨. Luke Slater, Speedy J, Laurent Garnier 등을 안고 UK뿐만 아니라 유럽 전체의 테크노 씬에도 파급.
+Mute Records의 서브 라벨. Luke Slater, Speedy J, Laurent Garnier 등을 안고, UK뿐만 아니라 유럽 전체의 테크노 씬에도 파급.
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 
@@ -94,7 +94,7 @@ Mute Records의 서브 라벨. Luke Slater, Speedy J, Laurent Garnier 등을 안
 
 - 사회적·정치적 메시지의 내재화(레이브 문화의 영향)
 
-테크노의 '기능성'뿐만 아니라 '표현성' '사상성'이 UK에서는 보다 강하게 의식되고 있던 점은 주목해야 할 것이다.
+테크노의 '기능성'뿐만 아니라 '표현성' '사상성'이 UK에서는 더 강하게 의식되고 있던 점은 주목해야 할 것이다.
 
 
 <hr>

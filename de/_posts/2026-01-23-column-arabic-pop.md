@@ -25,7 +25,7 @@ Arabischer Pop ist ein allgemeiner Begriff für populäre Musik, die in arabisch
 
 Diese Musik war lange Zeit auf den lokalen Konsum ausgerichtet, aber im 21. Jahrhundert, als sich das Vertriebsumfeld veränderte, weitete sich die Präsenz auf dem globalen Markt rasch aus.
 
-> Die Internationalisierung des arabischen Pops wurde eher durch Veränderungen in der Vertriebsstruktur als durch Veränderungen im Musikstil beschleunigt.
+> Die Internationalisierung des arabischen Pops wurde eher durch Veränderungen in der Vertriebsstruktur als durch Veränderungen in den Musikstilen beschleunigt.
 
 ---
 

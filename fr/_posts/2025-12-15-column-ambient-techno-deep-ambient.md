@@ -21,7 +21,7 @@ Texte : mmr｜Thème : Plutôt que de séparer les deux en tant que noms de ge
 
 Ambient Techno est un domaine de la musique électronique créé au début des années 1990 et est un style musical qui combine la structure rythmique répétitive de la techno avec la spatialité et la durabilité de la musique ambiante. Sa particularité est qu'il conserve la notion de temps de la musique de club tout en fonctionnant également comme une musique d'appréciation.
 
-Deep Ambient (appelé deep-sea ambient) a un niveau d'abstraction plus élevé et ne nécessite pas la présence de rythmes. L'accent est mis sur des images sonores extrêmement profondes, des sons soutenus centrés sur les basses fréquences et des compositions qui obscurcissent les contours du temps.
+Deep Ambient (appelé deep-sea ambient) a un niveau d'abstraction plus élevé et ne nécessite pas la présence de rythmes. L'accent est mis sur des images sonores extrêmement profondes, des sons soutenus centrés sur des bandes de basses fréquences et des compositions qui obscurcissent les contours du temps.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 La musique d'ambiance, née dans les années 1970, a embrassé l'idée que la musique fonctionne dans le cadre de l'environnement. Ce qui est important, c'est que l'acoustique a été conçue pour dominer l'espace et le temps, minimisant les mélodies et les développements dramatiques.
 
-D’un autre côté, la techno, apparue à la fin des années 1980, s’est développée comme une musique qui induit un mouvement physique, avec des rythmes répétitifs et une précision mécanique en son centre. Bien que ces deux tendances semblent à première vue opposées, elles partagent des éléments communs de « persistance », de « répétition » et de « non-récit ».
+D’un autre côté, la techno, apparue à la fin des années 1980, s’est développée comme une musique qui induit un mouvement physique, avec des rythmes répétitifs et une précision mécanique en son cœur. Bien que ces deux tendances semblent à première vue opposées, elles partagent des éléments communs de « persistance », de « répétition » et de « non-récit ».
 
 De la fin des années 1980 au début des années 1990, à mesure que la culture des clubs se développait, il y avait un besoin pour une musique pouvant fonctionner en dehors de la piste de danse, ou une musique capable de supporter les heures creuses, et les deux se sont rapprochés en termes pratiques.
 
@@ -56,7 +56,7 @@ L'Orb intègre le traitement spatial de l'ambiant, de la techno et du dub, prés
 
 Ce qui est remarquable, c'est que même dans les scènes où le rythme est au premier plan, il ne montre jamais sa force motrice. Le battement n'est pas un appareil qui dirige le mouvement, mais sert plutôt de point de référence pour mesurer la profondeur.
 
-Ce concept de design est devenu la base de l'Ambient Techno et a eu une influence décisive sur les expressions ultérieures de Deep Ambient et de deep-sea techno.
+Cette philosophie de conception est devenue la base de l'Ambient Techno et a eu une influence décisive sur les expressions ultérieures de Deep Ambient et de deep-sea techno.
 
 
 ---
@@ -130,7 +130,7 @@ Alors qu'Ambient Techno/Deep Ambient se démarque de la nature du club, Deep Tec
 
 Dans la production techno moderne, les expressions à vitesse lente et à faible stimulation qui diffèrent des styles orientés vers les heures de pointe sont répandues. Il ne s’agit pas d’un déclin du genre, mais d’un élargissement de ses usages.
 
-L'acoustique des grands fonds est devenue un langage commun dans les clubs, les galeries et les espaces de travail privés.
+L’acoustique des grands fonds est devenue un langage commun dans les clubs, les galeries et les espaces de travail privés.
 
 
 ---

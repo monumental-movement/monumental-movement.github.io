@@ -46,7 +46,7 @@ Le **Prix Ig Nobel** est connu comme le « petit frère excentrique » du prix N
 Depuis sa création en 1991 par la revue scientifique satirique américaine *Annals of Improbable Research*,
 Le prix a été décerné à des recherches qui font rire et réfléchir.
 
-En plus des domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
+En plus de domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
 Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.
 En effet, la science du son n’est pas seulement un phénomène ondulatoire.
 C’est parce qu’il pénètre profondément dans les émotions humaines, la société et la physiologie.
@@ -74,7 +74,7 @@ L’étude a comparé des souris dans les groupes suivants :
 
 En conséquence, il a été rapporté que la période de survie après une transplantation cardiaque était prolongée d'une moyenne de 7 jours à 27 jours dans le groupe Opera (*Teikyo Univ. Med. J.*, 2013).
 La musique, en particulier la structure et le rythme classiques,
-Il semblerait que cela puisse affecter la réponse immunitaire et la tolérance au stress.
+On dit que cela pourrait affecter la réponse immunitaire et la tolérance au stress.
 
 Cette recherche vise à traiter la musique comme un stimulus médical.
 Cette idée a été très appréciée et transcende les frontières entre l’art et la science.
@@ -84,7 +84,7 @@ Cette idée a été très appréciée et transcende les frontières entre l’ar
 ### 2.2 2017 : Recherche « Lecteur de musique vaginale »
 
 En 2017, une étude de l'**Institut Marquès** de Barcelone, Espagne
-Il a remporté le prix Ig Nobel de médecine.
+Lauréat du prix Ig Nobel de médecine.
 Cette équipe a développé un **haut-parleur intravaginal** appelé "Babypod",
 Nous avons étudié comment les fœtus réagissent aux stimuli musicaux dans l'utérus.
 
@@ -137,7 +137,7 @@ Les deux partagent le même esprit d’enquête avec des méthodologies différe
 
 ---
 
-### 3.3 Le public comme « sujet » – entre émotion et données
+### 3.3 Le public comme « sujet » – entre émotions et données
 
 Dans des recherches récentes en neurosciences, l’IRMf a été utilisée pour mesurer l’activité cérébrale tout en écoutant de la musique.
 Des efforts sont en cours pour analyser les mécanismes par lesquels le plaisir et l’empathie se produisent.

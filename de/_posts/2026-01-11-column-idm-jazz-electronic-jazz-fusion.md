@@ -46,7 +46,7 @@ color: #fff;
 
 ### Intelligente elektronische Musik nach Breakbeats
 
-In den frühen 1990er-Jahren machten die Versuche, Breakbeats zu unterteilen und zu rekonstruieren, Fortschritte, und Rhythmen, die eher Veränderungen als Wiederholungen enthielten, wurden geschätzt. In einem Bereich namens IDM liegt der Fokus weniger auf der Stabilität des Tempos als vielmehr auf dem, was im Takt passiert. Der Rhythmus hat sich von einer Grundlage des Tanzens zu einer Informationsstruktur des Zuhörens gewandelt.
+In den frühen 1990er-Jahren machten die Versuche, Breakbeats zu unterteilen und zu rekonstruieren, Fortschritte, und Rhythmen, die eher Veränderungen als Wiederholungen enthielten, gewannen an Bedeutung. In einem Bereich namens IDM liegt der Fokus weniger auf der Stabilität des Tempos als vielmehr auf dem, was im Takt passiert. Der Rhythmus hat sich von einer Grundlage des Tanzens zu einer Informationsstruktur des Zuhörens gewandelt.
 
 ### Taktart und Tempo neu definieren
 

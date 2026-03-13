@@ -218,7 +218,7 @@ flowchart TD
 
 ## 8. Aktueller Stand des Dark Jazz
 Durch lange Mixe auf YouTube und „Night View + Dark Jazz“-Videos von Zuschauern,
-Seit den 2020er Jahren kommt es vor allem bei jungen Hörern zu einer Neubewertung der Musik.
+Seit den 2020er Jahren kommt es zu einer Aufarbeitung bei jungen Hörern.
 
 - „Leise Musik“ erfreut sich neben dem Trend des Lo-Fi-Hip Hop zunehmender Beliebtheit
 - Wird als Hintergrundmusik für Videoproduktionen, VJ und unabhängige Filme verwendet
@@ -231,7 +231,7 @@ Als „Musik, die Atmosphäre schafft“ wird sie immer weiter ausgebaut.
 
 ## 9. Wohin entwickelt sich der Dark Jazz?
 Mit der Verbreitung von KI-generierten Videos, VJ-Software und Indie-Spielen
-Wir sind in eine Ära eingetreten, in der Bild und Ton in einem Atemzug gesprochen werden.
+Wir befinden uns jetzt in einer Zeit, in der Bild und Ton in einem Atemzug gesprochen werden.
 
 Aufgrund der Natur des Dark Jazz, der „langsam ist und viele Leerstellen aufweist“
 Man geht davon aus, dass es durch die Vermischung mit Bildern weiterhin einen neuen Wert erhält.

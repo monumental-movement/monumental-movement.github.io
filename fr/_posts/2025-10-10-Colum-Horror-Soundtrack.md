@@ -154,28 +154,28 @@ Netflix作品が世界市場を統合するなか、
 音はほとんど音楽ではなく、“残響の残滓”にすぎない。  
 しかしその**欠落した音**こそが、最も人間的な恐怖を喚起する。
 
-AI生成音楽はすでにホラー音響の領域に足を踏み入れている。  
-ディープラーニングによって人間の恐怖反応を模倣し、  
-「何かがおかしい」と感じる**不気味の谷音響**を生成することが可能になった。  
+La musique générée par l’IA s’aventure déjà dans le domaine du son d’horreur.
+Utiliser l'apprentissage profond pour imiter les réactions de peur humaines,
+Il est désormais possible de générer des **sons étranges de vallée** qui vous donnent l'impression que quelque chose ne va pas.
 
-映画館のサラウンドからイヤホンの空間音響まで──  
-恐怖はもはや“個人の耳の中”に閉じこめられていく。
-
----
-
-### 終章：恐怖は聴こえている — 現代ホラー音響の文化的意義
-
-2010年以降のホラー映画において、音は単なる演出を超え、**存在そのものを問うメディア**となった。  
-Colin Stetsonの低音ブレス、Disasterpeaceの電子的緊張、Bobby Krlicの儀式的リズム──  
-それらはすべて、「恐怖とは何か」という問いの音響的翻訳である。  
-
-ホラーの音は、社会の不安と個人の孤独を共鳴させる。  
-それはポップミュージックが失った“深層の感情”を取り戻すための音楽でもある。  
-次の世代のホラー作曲家たちは、すでに**恐怖を芸術に変える耳**を持っている。
+Du son surround dans les salles de cinéma au son spatial dans les écouteurs──
+La peur ne se limite plus aux oreilles des individus.
 
 ---
 
-#### 現代ホラー主要作品年表
+### Dernier chapitre : La peur est audible – la signification culturelle de l'audio d'horreur moderne
+
+Dans les films d’horreur depuis 2010, le son dépasse la simple présentation et devient un médium qui remet en question l’existence même du film.
+Le souffle de basse de Colin Stetson, la tension électronique de Disasterpeace, le rythme rituel de Bobby Krlic.
+Toutes ces traductions sont des traductions acoustiques de la question « Qu'est-ce que la peur ? »
+
+Les sons de l’horreur résonnent avec l’anxiété sociale et la solitude individuelle.
+C'est aussi une musique qui vise à retrouver « l'émotion profonde » que la musique pop a perdue.
+La prochaine génération de compositeurs d’horreur a déjà l’oreille pour transformer l’horreur en art.
+
+---
+
+#### Chronologie des grandes œuvres d'horreur contemporaines
 
 <div class="mermaid">
 
@@ -198,10 +198,10 @@ flowchart TD
 ---
 
 
-### サウンドトラック・ディスコグラフィー
+### Discographie de la bande originale
 
-| 年    | 作品名                 | 作曲者                           | レーベル           | リンク                                            |
-| ---- | ------------------- | ----------------------------- | -------------- | ---------------------------------------------- |
+| Année | Titre | Compositeur | Étiquette | Lien |
+| ---- | ------------------- | ----------------------------- | ---------- | ---------------------------------------------- |
 | 2014 | *It Follows*        | Disasterpeace                 | Milan Records  | [Amazon](https://amzn.to/4nIdRcN) |
 | 2018 | *Hereditary*        | Colin Stetson                 | Milan Records  | [Amazon](https://amzn.to/4mY7XDe) |
 | 2019 | *Midsommar*         | Bobby Krlic (The Haxan Cloak) | Milan Records  | [Amazon](https://amzn.to/4h66SrF) |
@@ -210,8 +210,8 @@ flowchart TD
 
 ---
 
-> “Horror films no longer scream — they hum, resonate, and breathe.”
->― A24プロデューサーの言葉より
+> "Les films d'horreur ne crient plus, ils bourdonnent, résonnent et respirent."
+>― D'après les mots du producteur d'A24
 
 
 ---

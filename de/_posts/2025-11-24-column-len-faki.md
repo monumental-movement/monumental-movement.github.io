@@ -77,7 +77,7 @@ Dies ist eine typische Vereinskonfiguration, bei der das Spielfeld in der Pause 
 
 #### Akustische Eigenschaften (geschätzt)
 - Die Trittenergie ist auf den niedrigen Bereich (40–60 Hz) konzentriert.
-- Subbass- und Percussion-Layer im Mitteltonbereich
+- Subbass- und Percussion-Ebenen im Mitteltonbereich
 - Weißes Rauschen, Sirene und Synth-Pads schaffen einen Raum im oberen Bereich
 
 #### Rolle im DJ-Set

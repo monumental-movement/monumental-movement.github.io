@@ -14,7 +14,7 @@ title: Hiroyuki Oda – Rise Cataract
 
 
 Hiroyuki Oda(히로유키 오다), 칸자키 히로 (Hiro Kanzaki)
-클럽 뮤직 크리에이터 겸 애니메이터.
+는 클럽 뮤직 크리에이터 겸 애니메이터.
 
 Rise / Cataract는 2007 년 네덜란드 출신의 트랜스 DJ / 프로듀서 Armin van Buuren (아민 밴 부렌)이 운영하는 Armada Music의 서브 라벨 A State Of Trance에서 출시 된 트랜스 트랙.
 

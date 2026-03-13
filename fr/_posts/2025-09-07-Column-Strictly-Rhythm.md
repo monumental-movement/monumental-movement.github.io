@@ -19,10 +19,10 @@ title: '[Chronique] Strictly Rhythm — De ses origines à nos jours : contexte
 ## Pourquoi Strictly Rhythm était spécial
 
 
-Texte : mmr｜Thème : De la création du légendaire label house new-yorkais **Strictly Rhythm** à nos jours, organisé par époque du point de vue du contexte historique, des chefs-d'œuvre représentatifs et des tendances des équipements de production de l'époque.
+Texte : mmr｜Thème : De la création du légendaire label maison new-yorkais **Strictly Rhythm** à nos jours, organisé par époque du point de vue du contexte historique, des chefs-d'œuvre représentatifs et des tendances des équipements de production de l'époque.
 
 
-Strictly Rhythm (communément appelé Strictly) est un label spécialisé house fondé à New York en 1989. Avec leur sens A&R aiguisé dans la rue et leur sélection de chansons orientée club, ils ont dominé la scène house à New York et dans le monde dans les années 1990. Le label excellait dans la découverte et le développement de DJ/producteurs tout en trouvant un équilibre entre les « sons » underground et les succès commerciaux.
+Strictly Rhythm (communément appelé Strictly) est un label spécialisé house fondé à New York en 1989. Avec leur sens A&R aiguisé dans la rue et leur sélection de chansons orientée club, ils ont dominé la scène house des années 90 à New York et dans le monde. Le label excellait dans la découverte et le développement de DJ/producteurs tout en trouvant un équilibre entre les « sons » underground et les succès commerciaux.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 
 **Contexte historique** : La house/techno, qui a germé à Chicago et à Détroit, est entrée dans les clubs new-yorkais au début des années 1990. C’était une époque où la culture des clubs était sur le point d’être commercialisée et où un esprit d’expérimentation underground subsistait.
 
-**Ce qui s'est passé** : Fondée en 1989 par Mark Finkelstein et Gladys Pizarro. Depuis sa création, la société s'est concentrée sur la musique 12 pouces orientée DJ, produisant un son directement connecté à la piste de danse et populaire dans les clubs locaux.
+**Ce qui s'est passé** : Fondée en 1989 par Mark Finkelstein et Gladys Pizarro. Depuis notre création, nous nous sommes concentrés sur la musique 12 pouces orientée DJ, produisant un son directement connecté à la piste de danse et populaire dans les clubs locaux.
 
 **Chef-d'œuvre représentatif (début)**
 - Roger Sanchez — *Luv Dancin'* (1990, sous le nom de Underground Solution)
@@ -164,7 +164,7 @@ L'orientation DAW, les sources sonores plug-in et la modélisation logicielle/an
 
 **Contexte de l'époque** : La valeur d'investissement des catalogues musicaux est en expansion. Le catalogue de danse des années 90 est réévalué avec du matériel échantillonné, des rééditions et des licences.
 
-**Que s'est-il passé** : En 2013, BMG a acquis le catalogue principal Strictly Rhythm. Après cela, les droits de publication ont également été transférés.
+**Que s'est-il passé** : En 2013, BMG a acquis le catalogue principal Strictly Rhythm. Les droits de publication ont ensuite été transférés.
 
 **Position actuelle**
 La marque/catalogue est toujours active et est utilisée comme « atout » pour les rééditions, les compilations, les licences, etc.

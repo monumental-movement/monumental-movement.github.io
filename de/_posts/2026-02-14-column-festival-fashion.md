@@ -134,7 +134,7 @@ timeline
 
 ## Zukunftsaussichten für Festivalmode
 
-Fortschritte in der AR- und VR-Technologie werden neue Festivalerlebnisse erweitern, die physische Kostüme und digitale Produktion kombinieren. Durch die Verschmelzung von Aufführungen, bei denen Kostüme in Echtzeit mit Licht und Video synchronisiert werden, der Einführung von recycelten und nachhaltigen Materialien und der Selbstdarstellung in einem digitalen Raum wird eine Welt entstehen, in der die Teilnehmer ihre Kostüme als Teil ihres Musikerlebnisses sehen können.
+Fortschritte in der AR- und VR-Technologie werden neue Festivalerlebnisse erweitern, die physische Kostüme und digitale Produktion kombinieren. Durch die Verschmelzung von Aufführungen, bei denen Kostüme in Echtzeit mit Licht und Video synchronisiert werden, der Einführung von recycelten und nachhaltigen Materialien und der Selbstdarstellung in einem digitalen Raum wird eine Welt entstehen, in der die Teilnehmer ihre Kostüme als Teil ihres musikalischen Erlebnisses sehen können.
 
 > Festivalmode ist mehr als nur ein Kostüm; Es entwickelt sich weiter als Symbol für musikalische Erlebnisse und Kultur.
 

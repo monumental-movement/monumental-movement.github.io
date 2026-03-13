@@ -9,11 +9,11 @@ permalink: /fr/studio-voice-vol230/
 tags:
 - Disk Guide
 - Studio Voice
-title: Studio Voice Vol230 (Studio Voice)Bob Dylan
+title: Studio Voice Vol230 (Studio Voix) Bob Dylan
 ---
 
 
-Studio Voice Vol230 (Studio Voice)Bob Dylan
+Studio Voice Vol230 (Studio Voix) Bob Dylan
 
 Couverture : Bob Dylan
 

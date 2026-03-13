@@ -46,7 +46,7 @@ color: #fff;
 
 ## Punk nach Punk: Zusammenbruch der Voraussetzungen
 
-Um 1977 verbreitete sich Punk rasant und wurde gleichzeitig schnell formalisiert. 3 Akkorde, kurze Lieder, aggressive Einstellung. Sie entwickelten sich schnell zu einem Stil und begannen, reproduziert zu werden. Noise Punk/Avan Punk entstand aus einem starken Gefühl des Unbehagens in dieser Situation.
+Um 1977 verbreitete sich Punk rasant und wurde gleichzeitig schnell formalisiert. 3 Akkorde, kurze Lieder, aggressive Einstellung. Sie entwickelten sich schnell zu einem Stil und begannen, reproduziert zu werden. Noise Punk/Avant Punk entstand aus einem starken Gefühl des Unbehagens in dieser Situation.
 
 Das Problem für sie bestand darin, dass Rock erneut auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird zur Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
 
@@ -118,7 +118,7 @@ B --> D[DNA]
 C --> E[The Pop Group]
 </div>
 
-Obwohl DNA und The Pop Group im selben Avant-Punk-Kontext stehen, ist ihr Fokus unterschiedlich. Die einen konzentrierten sich auf die Zerstörung der Felsstruktur selbst, die anderen musikalisierten ihre Wut auf gesellschaftliche Strukturen.
+Obwohl DNA und The Pop Group im selben Avant-Punk-Kontext angesiedelt sind, ist ihr Fokus unterschiedlich. Die einen konzentrierten sich auf die Zerstörung der Felsstruktur selbst, die anderen musikalisierten ihre Wut auf gesellschaftliche Strukturen.
 
 Dieser Unterschied zeigt, dass Avant-Punk keine einheitliche Methodik war.
 

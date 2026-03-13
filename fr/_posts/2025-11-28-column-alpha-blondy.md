@@ -199,15 +199,15 @@ flowchart TB
    - 直接的メッセージと比喩を併用し、抑圧の現実を描く
 3. **多言語の効果**  
    - 異なる文化・国のリスナーにも理解可能
-   - 国際的共感を呼ぶ
+- Suscite la sympathie internationale
 
 ---
 
-## 10. Alpha Blondyの社会的意義
+## 10. La signification sociale d'Alpha Blondy
 
-- 音楽を通じてアパルトヘイトの不正を世界に知らせた
-- 黒人コミュニティへの勇気と連帯を支援
-- 現代における音楽と社会正義の関係を示す象徴
+- A informé le monde des injustices de l'apartheid à travers la musique.
+- Soutenir le courage et la solidarité pour la communauté noire
+- Un symbole de la relation entre musique et justice sociale à l'époque moderne
 
 <div class="mermaid">
 graph LR
@@ -220,10 +220,10 @@ graph LR
 
 ---
 
-## 11. 結論
+## 11. Conclusion
 
-Alpha Blondyの音楽は、娯楽を超えた**社会的メディア**として機能した。アパルトヘイト期の活動を通じて、音楽が政治・社会的抵抗の手段となることを示した。  
-曲ごとのメッセージや現地での反応を踏まえると、彼の音楽は自由と平和を求める普遍的価値の象徴であり、現代においても音楽と社会正義を考える上で重要な教材である。
+La musique d'Alpha Blondy allait au-delà du divertissement et fonctionnait comme un média social. A travers ses activités pendant la période de l'apartheid, il a montré que la musique peut être un moyen de résistance politique et sociale.
+Compte tenu du message de chaque chanson et des réactions locales, sa musique est un symbole des valeurs universelles de liberté et de paix et constitue un matériel pédagogique important pour réfléchir sur la musique et la justice sociale même à l'époque moderne.
 
 ---
 

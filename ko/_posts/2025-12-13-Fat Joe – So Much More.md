@@ -14,7 +14,7 @@ title: Fat Joe – So Much More
 
 
 'So Much More'는 2005년에 발매된 Fat Joe의 Hip Hop 트랙. (프로모 보드)
-프로듀서는, 마이애미를 거점으로 하는 프로듀서 듀오 Cool & Dre.
+프로듀서는 마이애미에 기반을 둔 프로덕션 듀오 Cool & Dre입니다.
 
 #### Tracklist
 ```md

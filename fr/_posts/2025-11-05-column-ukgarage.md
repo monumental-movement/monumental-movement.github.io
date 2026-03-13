@@ -95,7 +95,7 @@ La tradition du « toast » héritée de la culture jamaïcaine du sound system 
 
 Représentant MC/équipage :
 - **MC Neat et DJ Chance**
-- **Équipage si solide**
+- **Un équipage si solide**
 - **Mme Dynamite**
 - **Équipage sans cœur**
 
@@ -107,7 +107,7 @@ Ce phénomène selon lequel « le son et la voix ne font plus qu'un » est deven
 ## Chapitre 5 : Début des années 2000 : intégration et fragmentation
 
 Vers 2000, le garage britannique entre dans son âge d’or dans les charts.
-« Born To Do It » (2000) de **Craig David** a atteint le numéro un au Royaume-Uni et 2-Step est devenu populaire dans la musique pop. Cependant, en même temps, une réaction négative contre la « commercialisation » est apparue.
+« Born To Do It » (2000) de **Craig David** a atteint le numéro 1 au Royaume-Uni et 2-Step est devenu populaire dans la musique pop. Cependant, en même temps, une réaction négative contre la « commercialisation » est apparue.
 
 De 2001 à 2003, un son plus agressif et plus sombre émerge dans les clubs. C'est devenu le point de départ de **Grime** et **Dubstep** ultérieurs.
 
@@ -143,7 +143,7 @@ Disclosure, Burial, Jamie xx et d'autres le réinventent de manière moderne, re
 -**Joy Orbison – « Hyph Mngo » (2009)**
 
 De plus, avec le hit **Eliza Rose – « B.O.T.A. » ​​(2022)**, les rythmes 2-Step ont encore une fois dominé les charts.
-Il a commencé à toucher les jeunes non seulement dans les clubs mais aussi via les réseaux sociaux tels que TikTok.
+Il a commencé à toucher les jeunes non seulement dans les clubs mais aussi via des sites de réseaux sociaux tels que TikTok.
 
 ---
 

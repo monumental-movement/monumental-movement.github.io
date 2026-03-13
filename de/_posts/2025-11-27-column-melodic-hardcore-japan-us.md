@@ -52,7 +52,7 @@ color: #fff;
 ### 2.1 Frühe Pioniere
 
 #### Descendents (gegründet 1978)
-- 1979 erschien „Milo Goes to College“.
+- 1979 erscheint „Milo Goes to College“.
 - Bauen Sie die Grundlage für Pop und melodischen Hardcore
 - Features: kurze Lieder, eingängige Refrains, persönliche Texte
 - Repräsentative Lieder: „Myage“, „Suburban Home“
@@ -188,7 +188,7 @@ flowchart TD
 
 - Fusion mit Pop-Punk
 - Screamo Melocore (A Day to Remember usw.)
-- In Japan wird der Schwerpunkt auf die Melodie gelegt, während die jugendlichen/alltäglichen Texte beibehalten werden.
+- In Japan liegt der Schwerpunkt auf der Melodie, während die jugendlichen/alltäglichen Texte beibehalten werden.
 - In Amerika stehen politische Botschaften und kraftvolle Live-Auftritte im Mittelpunkt
 
 ---

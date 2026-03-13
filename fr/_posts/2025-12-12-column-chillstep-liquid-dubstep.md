@@ -20,7 +20,7 @@ title: '[Chronique] Chillstep / Liquid Dubstep'
 
 Texte : mmr｜Thème : À propos du « dubstep émotionnel » né entre silence et basse
 
-Chillstep et Liquid Dubstep sont des genres dérivés qui ont commencé à prendre forme sur Internet vers 2010, mettant l'accent sur les aspects mélodiques et ambiants du dubstep. Contrairement aux basses wobbleuses agressives du dubstep traditionnel, à la modulation de filtre dure et aux leads métalliques post-brostep, Chillstep met en avant « le silence, la transparence et une gamme basse définie en douceur ».
+Chillstep et Liquid Dubstep sont des genres dérivés qui ont commencé à prendre forme sur Internet vers 2010, mettant l'accent sur les aspects mélodiques et ambiants du dubstep. Contrairement aux basses wobbleuses agressives du dubstep traditionnel, à la modulation de filtre dure et aux leads métalliques post-brostep, Chillstep met en avant « le calme, la transparence et un contour doux du grave ».
 
 Le flux de fond est le suivant.
 
@@ -80,13 +80,13 @@ Le symbole du Chillstep est « des basses douces ».
 
 * Centre d'onde sinusoïdale
 * Ajustez la chaleur avec une légère distorsion (écrêtage doux)
-* Produisez des fluctuations ressemblant à une respiration avec un LFO léger (1/4, 1/8, etc.)
+* Produisez des fluctuations semblables à celles d'une respiration avec un LFO léger (1/4, 1/8, etc.)
 * Ajoutez de l'émotion grâce aux changements de volume sans utiliser de modulation de filtre excessive
 
 ### 2-3 Conception de mélodies et de synthés
 
 * Lead : onde de scie douce ou émulation analogique
-* Pad : texture stéréo large et haute densité avec des harmoniques supprimées
+* Pad : texture stéréo large et haute densité avec harmoniques supprimées
 * Piano : Reverb avec une longue réverbération et moins de pré-délai
 * Cordes : renforcez le legato et connectez la ligne supérieure en douceur
 
@@ -104,7 +104,7 @@ Le symbole du Chillstep est « des basses douces ».
 Liquid Dubstep hérite de la sensation du Liquid Drum’n’Bass, avec une texture plus « transparente, semblable à de l’eau ».
 
 * Impression claire haut de gamme et pétillante
-* Rapport de coupe vocale élevé
+*Rapport de coupe vocale élevé
 *La base est plus lisse et moins instable
 * Utilise souvent des effets ponctuels comme des bulles
 
@@ -219,7 +219,7 @@ L'accent est mis sur la « durabilité » et la « résonance persistante »
 
 * Centre d'onde sinusoïdale
 * Mélangez des vagues triangulaires pour ajouter de la chaleur si vous le souhaitez
-*LFO est doux
+* Le LFO est doux
 * La chaîne latérale est fine
 * La version est courte et serrée
 
@@ -273,7 +273,7 @@ flowchart TD
 
 ## 8. Statut actuel et perspectives d'avenir du genre
 
-Le Chillstep/Liquid Dubstep n'est pas seulement une émanation du dubstep, mais un exemple typique de la façon dont Internet et la culture visuelle ont façonné un genre musical. Même dans les années 2020, il s'est parfaitement intégré à des genres tels que la culture lo-fi, l'ambient, la basse mélodique et le futur garage, et a été largement accepté comme une forme « d'électronique silencieuse ».
+Le Chillstep/Liquid Dubstep n'est pas seulement une émanation du dubstep, mais un cas représentatif d'Internet et de la culture visuelle formant un genre musical. Même dans les années 2020, il s'est parfaitement intégré à des genres tels que la culture lo-fi, l'ambient, la basse mélodique et le futur garage, et a été largement accepté comme une forme « d'électronique silencieuse ».
 
 De plus, les tendances suivantes ont été observées ces dernières années.
 

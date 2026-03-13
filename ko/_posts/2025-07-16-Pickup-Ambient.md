@@ -59,7 +59,7 @@ B2. Equalizer
 
 장르: Ambient/IDM/Techno
 
-출시: 1996년(Reflective Records)
+출시: 1996년 (Reflective Records)
 
 포맷: 2매 세트 LP
 
@@ -219,7 +219,7 @@ B. Our Ghosts
 
 포맷: 2매 세트 Vinyl
 
-특징 : Steve Miller의 일명 작품. 다양한 장르가 섞인 깊은 칠아웃 사운드
+특징 : Steve Miller의 별명의 작품. 다양한 장르가 섞인 깊은 칠아웃 사운드
 
 #### Tracklist
 ```md

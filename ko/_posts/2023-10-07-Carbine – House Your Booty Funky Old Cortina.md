@@ -21,7 +21,7 @@ title: Carbine – House Your Booty Funky Old Cortina
 
 Carbine의 음악은 댄스 플로어를 의식한 하우스 뮤직의 스타일이며, 그루브감과 긍정적인 에너지가 특징입니다. 그의 음악은 클럽과 축제에서 연주되었으며 댄스 뮤직 애호가에게는 친숙한 존재였습니다.
 
-'House Your Booty/Funky Old Cortina'는 Carbine의 음악의 일부를 체험할 수 있는 특별한 릴리스이며, 하우스 뮤직 팬들에게 흥미로운 작품이 되었습니다.
+'House Your Booty/Funky Old Cortina'는 Carbine 음악의 일부를 경험할 수 있는 특별한 출시로 하우스 음악 팬들에게 흥미로운 작품이 되었습니다.
 
 #### Tracklist
 ```md

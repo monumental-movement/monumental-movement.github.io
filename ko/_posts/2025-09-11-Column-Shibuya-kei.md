@@ -58,8 +58,8 @@ color: #fff;
 
 | 노래 이름 | 아티스트 | 코멘트 |
 |------|--------------|----------|
-| 당신은 천연색 | 오타키 시이치 | 시티팝의 금자탑 |
-| Sparkle | 야마시타 타츠로 | 세련된 도시 사운드 |
+| 너는 천연색 | 오타키 시이치 | 시티팝의 금자탑 |
+| Sparkle | 야마시타 타츠로 | 정교한 도시 사운드 |
 | September | 타케우치 마리야 | 경쾌한 AOR 팝 |
 | Telephone Number | 마츠바라 미키 | 해외에서도 재평가 된 명곡 |
 | Love Talkin '| 야마시타 타츠로 | 부기적 요소의 융합 |
@@ -92,7 +92,7 @@ Sweet Soul Revue (원형) | Pizzicato Five |
 | 노래 이름 | 아티스트 | 코멘트 |
 |------|--------------|----------|
 | Sweet Soul Revue | Pizzicato Five | 시부야계를 대표하는 화려한 번호 |
-| Baby Love Child | Pizzicato Five | 해외에서도 인기 명곡 |
+| Baby Love Child | Pizzicato Five | 해외에서도 인기의 명곡 |
 | Camera Talk | Flipper’s Guitar | 팝과 인디의 융합 |
 | Young, Alive, in Love | Flipper’s Guitar | 청춘감과 서양지향 |
 | Perfect Ray | Cornelius | 실험성과 팝감 |

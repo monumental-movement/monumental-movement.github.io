@@ -116,7 +116,7 @@ Sie symbolisierten eine Ära, in der „mechanisch sein“ zu „niedlich“ wur
 ---
 
 Cornelius, Denki Groove und tofubeats haben den Techno-Pop ebenfalls diversifiziert und lokale Gefühle mit globalen Beats kombiniert.
-Der japanische Synthie-Pop ist zu einer „Übersetzung“ und nicht nur zu einer bloßen Nachahmung geworden.
+Der japanische Synthie-Pop hat sich zu einer „Übersetzung“ und nicht nur zu einer bloßen Nachahmung entwickelt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fK2q8WKp91A?si=fU9HTDZOL09vuyM-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -142,7 +142,7 @@ Dahinter verbirgt sich eine durchgängige technologische Ästhetik von YMO bis P
 
 ---
 
-## Kapitel 6 Technologie und Emotionen: Wenn Maschinen Menschen darstellen
+## Kapitel 6 Technologie und Emotionen: Wenn Maschinen Menschen anziehen
 
 Sequenzer, Sampler, Autotune.
 Dabei handelte es sich nicht um Werkzeuge für „Genauigkeit“, sondern um Pinsel, die dazu dienten, „menschliche Mehrdeutigkeit“ hervorzuheben.
@@ -193,7 +193,7 @@ Synthpop ist sowohl der „Sound der Zukunft“ als auch der „Sound der Nostal
 Warum berühren uns die kalten elektronischen Klänge der 1980er Jahre so sehr? Denn sie enthalten die „Temperatur einer Zeit, als die Menschen an die Zukunft glaubten“.
 Selbst jetzt, wo die digitale Technologie voranschreitet und KI beginnt, Musik zu komponieren, suchen Menschen weiterhin in den Geräuschen von Maschinen nach ihrem „Selbst“.
 
-Die „Beziehung zwischen Technologie und Emotion“, die Ryuichi Sakamoto bis zum Schluss immer wieder fragte, ist nun wieder ein vordergründiges Thema.
+Die „Beziehung zwischen Technologie und Emotion“, nach der Ryuichi Sakamoto bis zum Schluss immer wieder gefragt hat, ist nun wieder ein vordergründiges Thema.
 Und irgendwo in dieser Linie liegen YMOs elektronisches Lächeln, Perfumes Polyrhythmen und Charli XCXs pixelige Tränen.
 
 Die Zukunft klingelt immer in elektronischen Träumen.
@@ -260,7 +260,7 @@ A2. Beispiele hierfür sind Depeche Mode, New Order, Pet Shop Boys und Human Lea
 
 A3. Der experimentelle Geist von YMO und Ryuichi Sakamoto beeinflusste Daft Punk und Radiohead und wurde zum Ursprung der „elektronischen Menschheit“ im KI-Zeitalter.
 
-- **Q4. Was zeichnet den Neo-Synthpop in den letzten Jahren aus? **
+- **Q4. Was zeichnet den Neo-Synth-Pop der letzten Jahre aus? **
 
 A4. Der Punkt ist, dass wir „digitale Verzerrungen“ wie Hyperpop und KI-Musik aktiv einbauen. Beispiele dafür sind Charli XCX und Grimes.
 
@@ -274,5 +274,5 @@ A5. „Solid State Survivor“ (YMO) und „Violator“ (Depeche Mode) sind unab
 
 Wer der Geschichte des elektronischen Klangs nachspürt, geht auch den Aufzeichnungen menschlicher Emotionen nach.
 Es ist eine kontinuierliche „Poesie der Technologie“, von YMOs frühen Experimenten bis hin zu Charli XCXs digitaler Traurigkeit.
-Synth-Pop hört nie auf. Tatsächlich wird das Wesentliche im Zeitalter der KI erneut in Frage gestellt.
+Synthpop endet nie. Tatsächlich wird das Wesentliche im Zeitalter der KI erneut in Frage gestellt.
 

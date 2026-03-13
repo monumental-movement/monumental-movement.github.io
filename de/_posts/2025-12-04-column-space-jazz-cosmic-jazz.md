@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1. Ursprung: Sun Ra und die Entstehung des Afrofuturismus
 
-Von den späten 1950er bis 1960er Jahren entwickelte Sun Ra einen Sound und eine Ideologie, die deutlich von den traditionellen Jazzformen abwichen. Er beschrieb sich selbst als „ein Wesen, das vom Saturn kam“ und entwickelte eine durch und durch kosmische Weltanschauung. Das Kostüm besteht aus metallisch glänzenden Gewändern, Helmen und abstrakten geometrischen Mustern. Auf der Bühne entfaltete sich eine Performance, die an ein extradimensionales Ritual oder eine futuristische Stadt erinnerte und Musik und visuellen Ausdruck vollständig integrierte.
+Von den späten 1950er bis in die 1960er Jahre entwickelte Sun Ra einen Sound und eine Ideologie, die deutlich von den traditionellen Jazzformen abwichen. Er beschrieb sich selbst als „ein Wesen, das vom Saturn kam“ und entwickelte eine durch und durch kosmische Weltanschauung. Das Kostüm hat metallisch glänzende Gewänder, Helme und abstrakte geometrische Muster. Auf der Bühne entfaltete sich eine Performance, die an ein extradimensionales Ritual oder eine futuristische Stadt erinnerte und Musik und visuellen Ausdruck vollständig integrierte.
 
 Was die Auftritte angeht, war die Band zu dieser Zeit voll von sehr innovativen Experimenten, wie kollektiver Improvisation durch eine Orchesterformation, dem Einsatz elektrischer Instrumente und früher Synthesizer. Insbesondere Sun Ra Arkestra schuf einen Sound, der weitgehend frei von konventionellen Harmonien und Songstrukturen war und sich zwischen Free-Jazz-artigem Chaos und kosmischer Stille bewegte.
 
@@ -51,7 +51,7 @@ Was die Auftritte angeht, war die Band zu dieser Zeit voll von sehr innovativen 
 
 In den späten 1960er und 1970er Jahren erweiterte Pharoah Sanders seine Musik um eine breitere Kosmologie und baute dabei auf seinen spirituellen Jazz-Wurzeln auf. Einführung von Volksinstrumenten, langen Borduntönen, sich wiederholenden Ritualen und ausgedehnten Klanglandschaften. Anstatt das physische Universum darzustellen, gingen sie dazu über, den „Kosmos im Geist“ darzustellen.
 
-Eines seiner Meisterwerke, „Der Schöpfer hat einen Masterplan“, zeichnet sich durch eine sich wiederholende Struktur aus, die einen tranceähnlichen Zustand auszulösen scheint und eine kosmische meditative Qualität hat. Obwohl sich die Musik von Pharoah Sanders von Sun Ras außerkosmischer Weltanschauung unterscheidet, hatte sie gleichermaßen eine große spirituelle Skala, die das „Universum“ lenkte.
+Eines seiner Meisterwerke, „Der Schöpfer hat einen Masterplan“, zeichnet sich durch eine sich wiederholende Struktur aus, die Sie in einen tranceähnlichen Zustand einlädt und eine kosmische meditative Qualität hat. Obwohl sich die Musik von Pharoah Sanders von Sun Ras außerkosmischer Weltanschauung unterscheidet, hatte sie gleichermaßen eine große spirituelle Skala, die das „Universum“ lenkte.
 
 ---
 

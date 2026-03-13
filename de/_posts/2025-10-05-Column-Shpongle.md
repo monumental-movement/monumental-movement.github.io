@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-Shpongles Lieder erschaffen, zerstören und regenerieren Universen in einem einzigen Lied.
+Shpongles Lieder erschaffen, zerstören und regenerieren Universen in einem Lied.
 Zuhören selbst ist ein philosophischer Akt.
 
 ---
@@ -142,9 +142,9 @@ flowchart TD
 
 ---
 
-#### Shpongletron: Mandala aus Klang und Licht
+#### Shpongletron: Mandala aus Ton und Licht
 
-Während des Live-Auftritts kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
+Während der Live-Performance kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
 Die Bilder von Android Jones werden mit dem Ton synchronisiert.
 Raja Ram wird als „zeremonieller Guru“ auf der Bühne stehen und Posford wird als „Klangalchemist“ auf der Bühne stehen.
 Die Live-Performance selbst wird zu einer Erweiterung des meditativen Erlebnisses.
@@ -217,7 +217,7 @@ Seine Werke haben eine konsistente dreischichtige Struktur: tiefer Ton = Körper
 
 - Rekonstruktion im 3D-Raum (Ambisonics)
 
-> „Anstatt Klänge zu erzeugen, geht es mir eher darum, die Klänge zu steuern, die erscheinen.“
+> „Anstatt Klänge zu erzeugen, geht es mir eher darum, die Klänge zu steuern, die auftauchen.“
 > — Simon Posford
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -309,7 +309,7 @@ Diese Struktur verursacht ein psychologisches Phänomen, das als „akustischer 
 ---
 
 | Akustische Elemente | Physiologische Wirkungen | Psychologische Erfahrungen |
-| ------ | -------- | --------- |
+| ------ | -------- | -------- |
 | Niederfrequenzbasis | Synchronisation von Atmung und Herzschlag | Erdungsgefühl |
 | Hochfrequente Obertöne | Aktivität der Zirbeldrüse | Visuelle Halluzinationen/Zeitdilatation |
 | Nachhall | Nachhall | Erweiterung der räumlichen Lokalisierung | Auflösung des Ego |

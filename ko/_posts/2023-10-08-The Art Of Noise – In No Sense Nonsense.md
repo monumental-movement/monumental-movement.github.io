@@ -13,7 +13,7 @@ title: The Art Of Noise – In No Sense Nonsense
 ---
 
 
-'In No Sense Nonsense'는 1987년 China Records에서 발표된 Art Of Noise의 앨범 카세테 테이프입니다.
+'In No Sense Nonsense'는 1987년 China Records에서 출시된 Art Of Noise의 앨범 카세테 테이프입니다.
 
 #### Tracklist
 ```md

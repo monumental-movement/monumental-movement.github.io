@@ -82,7 +82,7 @@ Es kommt der Moment, in dem eine Reihe von Geräuschen das Bewusstsein erweitert
 ## Das Schlachtfeld des Studios
 
 Die Produktionsumgebung von Ben Frost ähnelt eher einem Schlachtfeld als nur einem Aufnahmestudio.
-Eine Menge modularer Synthesizer, modifizierte Mikrofone und übertriebene Kompressoren.
+Eine Fülle modularer Synthesizer, modifizierter Mikrofone und übertriebener Kompressoren.
 Anstatt den Ton „aufzunehmen“, **erfassen Sie ihn, als würden Sie ihn schlagen**.
 
 Er lehnt den Zufall nicht ab, sagt aber gleichzeitig: „Jede Frequenz hat einen Grund für ihre Existenz.“
@@ -115,7 +115,7 @@ Es weckt die „Erinnerung an die Stille“, die der Mensch in der Zivilisation 
 
 ## Lichtexplosion: A U R O R A und die Kritikalität des Klangs
 
-**A U R O R A** wurde 2014 veröffentlicht und war ein Wendepunkt in Ben Frosts Karriere.
+**A U R O R A**, das 2014 veröffentlicht wurde, war ein Wendepunkt in Ben Frosts Karriere.
 Mit diesem Werk verabschiedete er sich von seinem bisherigen Ansatz „akustischer + elektronischer Klang“,
 **Ich habe eine Welt fast ausschließlich aus elektronischen Klangpartikeln aufgebaut**.
 
@@ -159,7 +159,7 @@ In den letzten Jahren nutzte Frost KI-Komposition und Echtzeitverarbeitung, um
 Ihn interessiert die „unkontrollierbare Autonomie des Klangs“.
 
 Der Klang verlässt seine Hände und verändert sich auf selbsterzeugte Weise.
-Eine Zukunftsvision wie Tarkovsky oder William Gibson.
+Eine Zukunftsvision im Stil von Tarkowski und William Gibson.
 Es gibt eine Poetik der verfallenen Technologie und des Nachhalls.
 
 Frosts Sound versucht, das Erhabene im digitalen Zeitalter neu zu definieren.
@@ -178,7 +178,7 @@ Lärm ist keine Zerstörung, sondern die Stimme der Umwelt.
 Er sagt:
 > „Der Akt des Zuhörens ist ein Gefühl des Überlebens.“
 
-Klang ist keine Unterhaltung oder Kunst mehr.
+Sound ist keine Unterhaltung oder Kunst mehr.
 Es ist ein „physiologisches Werkzeug“, das es dem Menschen ermöglicht, sich wieder mit der Welt zu verbinden.
 
 ---

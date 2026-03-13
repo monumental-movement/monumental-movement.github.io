@@ -184,7 +184,7 @@ Un incident impliquant une utilisation non autorisée de la boucle de guitare de
 
 - Les mixtapes de **DJ Clue, DJ Drama, DJ Screw** et d'autres sont devenues un pont entre l'underground et le mainstream dans les années 90 et au-delà.
 - **Southern (Houston, ATL)** ``Screw Tape'' et ``Gangsta Grillz'' formaient la scène, permettant de découvrir des artistes indépendants des labels.
-- Dans les années 2000, Mixtape s'est déplacé vers "SoundCloud" et "DatPiff" et est devenu un moyen de promotion à l'ère d'Internet.
+- Dans les années 2000, Mixtape est passé à « SoundCloud » et « DatPiff » et est devenu un moyen de promotion à l'ère d'Internet.
 
 ---
 
@@ -195,7 +195,7 @@ Un incident impliquant une utilisation non autorisée de la boucle de guitare de
 | années 1980 | *Payé en totalité*, *Il faut une nation de millions* | James Brown, Funk, période d'abus d'échantillonnage d'âme |
 | années 1990 | *La Chronique*, *Tous les regards sur moi* | Parlement-Funkadelic, G-Funk |
 | Années 2000 | *Stakonia*, *Tha Carter III* | Échantillonnage réduit/synthé mainstream |
-| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement fait maison + Auto-Tune |
+| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement maison + Auto-Tune |
 | Années 2020 | *M. Moral et les Big Steppers*, *L'intersaison* | Exemple de régression + expérience de battement générée par l'IA |
 
 ---
@@ -379,7 +379,7 @@ Bass : ▂▂▄▆██▆▄▂
 
 ---
 
-## Années 2010 (Trap era/sub bass et HiHat haute vitesse)
+## Années 2010 (ère Trap/sub bass et HiHat haute vitesse)
 
 <table class="table-wave">
 <tr>
@@ -434,7 +434,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 **Considérations supplémentaires**
 
-Les diagrammes généalogiques permettent aux étudiants de comprendre intuitivement les « relations maître-élève » et les « relations d'influence ».
+Un tableau généalogique vous permet de comprendre intuitivement les « relations maître-élève » et les « relations d'influence ».
 
 La comparaison des formes d'onde vous permet de capturer visuellement l'évolution musicale.
 

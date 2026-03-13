@@ -21,7 +21,7 @@ Texte : mmr｜Thème : Comment les femmes ont actualisé l'histoire de la musi
 
 
 
-Dans l’histoire du rock et de la pop, les groupes de filles ont longtemps été considérés comme une anomalie. Cependant, en réalité, les groupes exclusivement féminins ont toujours été en conflit avec les systèmes, la technologie et les normes sociales de l’époque, tout en construisant leurs propres expressions uniques. Les groupes de filles ne sont pas simplement classés par sexe, mais constituent un ensemble de pratiques entourant la production, la performance et l'autodétermination.
+Dans l’histoire du rock et de la pop, les groupes de filles ont longtemps été considérés comme une anomalie. Cependant, en réalité, les groupes exclusivement féminins ont toujours été en conflit avec les systèmes, la technologie et les normes sociales de l’époque, tout en construisant leurs propres expressions. Les groupes de filles ne sont pas simplement classés par sexe, mais constituent un ensemble de pratiques entourant la production, la performance et l'autodétermination.
 
 Même avant le développement de l’industrie musicale, les femmes se produisaient dans des ensembles à la maison et dans les communautés locales. Au 20e siècle, avec l'établissement de l'industrie du disque et de la culture du live house, la présence même des femmes en public en tant que groupe a commencé à prendre une signification sociale. Cet article reconstruit ces tendances comme une histoire mondiale.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 Dans les années 1950, le rock and roll est né aux États-Unis et le groupe est devenu le centre de la culture des jeunes. D’un autre côté, les musiciennes de l’époque étaient souvent au premier plan en tant que chanteuses, et les performances étaient généralement interprétées par des hommes. Un groupe qui est apparu comme une exception était un groupe entièrement féminin qui jouait d’instruments de musique.
 
-Les Shirelles et les Ronettes, apparus en 1964, étaient techniquement des groupes vocaux, mais en tant que collectif à prédominance féminine, ils eurent une forte influence sur leurs successeurs. Finalement, à la fin des années 1960, le spectacle de femmes jouant de la guitare et de la batterie est progressivement devenu visible sur la côte ouest des États-Unis et en Angleterre.
+Les Shirelles et les Ronettes, apparus en 1964, étaient techniquement des groupes vocaux, mais en tant que collectif à prédominance féminine, ils eurent une forte influence sur leurs successeurs. Finalement, à la fin des années 1960, on a commencé à voir des femmes jouer de la guitare et de la batterie sur la côte ouest des États-Unis et au Royaume-Uni.
 
 <div class="mermaid">
 flowchart LR

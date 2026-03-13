@@ -114,7 +114,7 @@ Mit dem Aufstieg von MTV traten wir in eine Ära ein, in der Bilder die Musik be
 
 ---
 
-## **7-1. Tauchen Sie tief in repräsentative Songs ein**
+## **7-1. Ein tiefer Einblick in repräsentative Songs**
 
 ### **Mädchen wollen einfach nur Spaß haben**
 
@@ -135,7 +135,7 @@ Es heißt, dass sich in dem Lied die Gefühle einer Zeit widerspiegeln, in der d
 
 ### **She Bop**
 
-Es war für seine Zeit ein sehr gewagtes Lied, ein Popsong über Sexualität.
+Für die damalige Zeit war es ein sehr kühnes Lied, ein Popsong über Sexualität.
 
 ---
 
@@ -152,7 +152,7 @@ Es gibt drei Gründe.
 
 Sie genießt jedes Mal, wenn sie Japan besucht, japanisches Essen und freundet sich schnell mit den Mitarbeitern vor Ort an. Als er während der Japan-Tournee 1994 hörte, dass sich im Publikum ein Fan mit einer Behinderung befand, nahm er sich nach der Bühne Zeit, um ihn persönlich zu treffen.
 
-Darüber hinaus wurde das Album „Shine“ aus dem Jahr 2001 nur in Japan veröffentlicht. Dies soll eine Möglichkeit gewesen sein, „den japanischen Fans etwas zurückzugeben“.
+Darüber hinaus wurde das 2001er Album „Shine“ nur in Japan veröffentlicht. Dies soll eine Möglichkeit gewesen sein, „den japanischen Fans etwas zurückzugeben“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61cwXn85sxk?si=NMR2yKfbhBEPlTIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -171,7 +171,7 @@ Währenddessen verursacht Cindy einen „Zwischenfall“.
 Die zahlreichen Accessoires, die sie um den Hals trug, trafen das Mikrofon und verursachten ein klapperndes Geräusch.
 
 Ingenieur: „Was ist das für ein Geräusch?“
-Quincy Jones: „Cindy, kannst du... das ertragen?“
+Quincy Jones: „Cindy, kannst du... das nehmen?“
 
 Cindy brach in Gelächter aus und sagte: „Oh, tut mir leid!“ Als sie ihre Accessoires abnahm, soll sich die Atmosphäre sofort entspannt haben.
 
@@ -183,7 +183,7 @@ Dieser Vorfall wurde als eine Episode überliefert, die Cindys „Fähigkeit, Sp
 
 # **10. Ende der 80er bis 90er: Vom Popstar zum Künstler**
 
-Von Ende der 80er bis in die 90er Jahre war Cindy hin- und hergerissen zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
+Von den späten 80ern bis in die 90er Jahre schwankte Cindy zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
 
 ### **Der Hut voller Sterne (1993)**
 
@@ -205,7 +205,7 @@ Cindy legte keinen Wert darauf, „erfolgreiche Formen zu wiederholen“ und leg
 
 Ursprünglich wuchs Cindy nicht nur als Sängerin auf, sondern war auch stark von der Ausdruckskultur wie Film und Theater beeinflusst. Dies wurde in Form des Broadway verwirklicht.
 
-In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Es ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
+In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Dies ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

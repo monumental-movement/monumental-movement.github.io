@@ -93,7 +93,7 @@ B9. Goodbye Selina
 
 형식: Cassette
 
-작품 : 1996년 릴리스, 영화 '미션 : 임포시블'의 테마곡을 수록한 카세트.
+작품：1996년 릴리스, 영화 「미션：임포시블」의 테마곡을 수록한 카세트.
 
 #### Tracklist
 ```md
@@ -116,7 +116,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 
 형식: CD
 
-작품：1989년의 명작 영화 『뉴 시네마 파라다이스』의 사운드 트랙.
+작품 : 1989 년의 명작 영화 "뉴 시네마 파라다이스"의 사운드 트랙.
 
 #### Tracklist
 ```md

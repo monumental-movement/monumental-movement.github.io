@@ -80,7 +80,7 @@ Die Handlung ist einfach, aber bemerkenswert ist die Integration von Produktion 
 
 Nach dem Erfolg von „Disco Dancer“ (1982, Hindi) und „Ilamai Oonjal Aadukirathu“ (1978, Tamil) verbreitete sich die Disco-Kultur in ganz Indien als Symbol für „Tanz = Freiheit“.
 
-In Südindien nahm dieser Trend seine eigenen Variationen an. Während Mumbais Diskotheken einen „städtischen Traum“ darstellten, waren Diskotheken in Kannada-Filmen Ausdruck von „Regionalstolz“**.
+In Südindien nahm dieser Trend eine einzigartige Variante an. Während Mumbais Diskotheken einen „städtischen Traum“ darstellten, waren Diskotheken in Kannada-Filmen Ausdruck von „Regionalstolz“**.
 
 Vijaya Anands Musik verbindet ländliche und städtische Rhythmen, indem sie Elektronik mit Folk-Percussion-Instrumenten (Thaviru, Dhol, Nadaswaram) verbindet.
 Diese „Hybridität“ ist der Kern der südindischen Musik.
@@ -99,7 +99,7 @@ Dieses „südindische MTV-Feeling“ wurde später von A.R. geerbt. Rehman und 
 
 ## Kapitel 5: Veränderungen im sozialen Hintergrund und in der Demografie des Publikums
 
-In den späten 1980er Jahren erlebte Südindien eine Phase der Expansion der Fernsehkultur und eine Welle der Urbanisierung.
+In den späten 1980er Jahren erlebte Südindien eine Phase der Expansion der Fernsehkultur, begleitet von einer Urbanisierungswelle.
 Es war eine Zeit, in der sich der staatliche Sender Doordarshan dem kommerziellen Rundfunk öffnete und junge Menschen aus ländlichen Gebieten davon träumten, Stars zu werden.
 
 Die Kulisse, in der die Hauptfigur von „Dance Raja Dance“, Raja, durch eine TV-Show berühmt wird, symbolisiert wirklich die Entstehung neoliberaler Werte.
@@ -124,7 +124,7 @@ Insbesondere der **aufsteigende Bläser-Synthesizer-Sound**, der im Intro von �
 ## Kapitel sieben: Vermächtnis von Vijaya Anand
 
 Vijaya Anand hat seit den 1990er Jahren Filmmusiken für viele Filme komponiert, aber nur wenige waren so innovativ wie Dance Raja Dance.
-Allerdings eröffnete seine Musik jüngeren Musikregisseuren die Perspektive, „Film als Testgelände für Popmusik“ zu sehen.
+Allerdings eröffnete seine Musik jüngeren Musikdirektoren die Perspektive, „Filme als Testgelände für Popmusik“ zu betrachten.
 
 A.R. Rehmans frühe Werke Roja (1992) und die Grundlagen urbaner Soundtracks wie Gentleman (1993) sind eindeutig eine Erweiterung der Experimente von Vijaya Anand und Bappi Lahiri.
 

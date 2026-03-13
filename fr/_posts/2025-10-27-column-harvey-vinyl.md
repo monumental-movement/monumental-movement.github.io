@@ -16,14 +16,14 @@ title: '[Chronique] DJ Harvey et la collection de disques : le DJ comme corps qu
 ---
 
 
-## Prologue : La mythique statue de DJ Harvey
+## Prologue : Le mythe de DJ Harvey
 
 
 Texte : mmr｜Thème : Pas seulement un DJ, mais une considération du dernier « chaman » de l'ère analogique
 
 
 DJ Harvey - Le simple fait d'entendre ce nom donne un air relâché à de nombreux amateurs de club.
-Co-fondateur du légendaire club londonien **Tonka Sound System**, il est devenu célèbre dans les années 90 en tant que résident au **Ministry of Sound**, a déménagé à **Ibiza** dans les années 2000 et est actuellement basé à **Los Angeles**.
+Co-fondateur du légendaire club londonien **Tonka Sound System**, il s'est fait connaître dans les années 90 en tant que résident au **Ministry of Sound**, a déménagé à **Ibiza** dans les années 2000 et est désormais basé à **Los Angeles**.
 
 dit Harvey. "Les disques sont des fragments de mon âme. Quand l'aiguille tombe, Dieu y demeure."
 Ces mots nous disent tout sur sa vision du DJing. Au 21e siècle, où la numérisation a progressé, il croit encore à « la musique comme substance ». Cette foi est ce qui fait de DJ Harvey une légende.
@@ -65,7 +65,7 @@ Pour lui, un document est « l’acte de conserver une trace de la vie de quelqu
 Flâner dans les marchés et les brocantes, dénicher des dossiers poussiéreux. Il n'y a pas que des sons mais aussi des **traces du temps** gravées là-bas.
 
 Harvey dit : « Plus un disque comporte d'empreintes digitales humaines, plus le son est vivant. »
-Son set comprend un mélange de disco italo inconnu, de rock des années 70, de boogie synthétisé des années 80 et même d'AOR hawaïen.
+Son set comprend un mélange de disco italo inconnu, de rock des années 70, de synth boogie des années 80 et d'AOR hawaïen.
 La sélection des chansons n'est pas aléatoire, mais basée sur une intuition de lecture du « flux d'air du son ».
 
 Son sac de DJ est comme un carnet de voyage. Chaque disque contient des souvenirs d'une nuit.
@@ -75,7 +75,7 @@ Son sac de DJ est comme un carnet de voyage. Chaque disque contient des souvenir
 ## Chapitre 3 : Londres - Ibiza - LA, une boîte à disques en mouvement
 
 Les disques d'Harvey ont toujours été en mouvement.
-Des clubs underground de Londres au **Pikes Hotel** à Ibiza en passant par les événements en entrepôt à Los Angeles.
+Des clubs underground de Londres au **Pikes Hotel** d'Ibiza en passant par les événements dans les entrepôts de Los Angeles.
 À mesure que les villes changent, les sons évoluent également. Il reconfigure le décor en fonction de l'ambiance.
 
 Pendant son séjour à Ibiza, Harvey a redéfini le mot « Baléares ».

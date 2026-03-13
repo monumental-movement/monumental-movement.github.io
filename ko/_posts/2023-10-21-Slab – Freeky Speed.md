@@ -15,7 +15,7 @@ title: Slab – Freeky Speed
 
 Slab은 Lol Hammond와 Nina Walsh에 의한 유닛.
 
-B면의 1곡째는 영국의 DJ&프로듀서 Andrew Weatherall(앤드류 웨자올)이, 2곡째는 UK 테크노 DJ&프로듀서 Carl Cox(칼·콕스)에 의한 remix.
+B면의 1곡째는 영국의 DJ&프로듀서 Andrew Weatherall(앤드류 웨자올)이, 2곡째는 UK테크노 DJ&프로듀서 Carl Cox(칼·콕스)에 의한 remix.
 
 D면 2곡째는 Monkey Mafia(몽키 마피아)에 의한 remix.
 

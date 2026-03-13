@@ -273,7 +273,7 @@ Cependant, cette année-là, son art brûlant « Crude Awakening », qui imitait
 
 #### 2008 : Le rêve américain
 
-Rêve américain/Question pour la société de consommation. Il existe de nombreuses œuvres d'art abordant les thèmes du consumérisme, de la mythologie et de la structure sociale.
+Rêve américain/Questions sur la société de consommation. Il existe de nombreuses œuvres d'art abordant les thèmes du consumérisme, de la mythologie et de la structure sociale.
 
 ---
 
@@ -285,7 +285,7 @@ Les thèmes sont l'évolution, les écosystèmes, les métissages et les interre
 
 ---
 
-#### 2010 : Métropole – La vie des villes
+#### 2010 : Métropole – La vie des villes
 
 Théorie urbaine : Un thème qui explore la vitalité des villes. L'art s'est développé en remettant en question les éléments architecturaux, le microcosme et la disposition des structures urbaines, ainsi que les relations entre les villes et les humains.
 
@@ -393,7 +393,7 @@ Le thème est inconnu et imprévisible, et une composition stimulante est dével
 
 #### 2025 : Demain aujourd'hui
 
-Se concentrer sur le futur proche, les inventions futures et les plans sociaux. Un art qui incarne "Demain à aujourd'hui", un prototypage et un design qui induit un espace de dialogue futuriste.
+Se concentrer sur le futur proche, les inventions futures et les concepts sociaux. Un art qui incarne "Demain à aujourd'hui", un prototypage et un design qui induit un espace de dialogue futuriste.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

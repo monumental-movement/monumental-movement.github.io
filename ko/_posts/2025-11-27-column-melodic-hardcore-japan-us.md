@@ -112,7 +112,7 @@ flowchart TD
 #### ELLEGARDEN (1998 결성)
 - 멜로코아의 미국 영향을 받으면서 가사에 일본어와 영어를 능숙하게 구분
 - 메이저 데뷔 앨범 'Bring Your Board!!'(2001)로 인기 확대
-- 대표곡 : “Marry Me”, ”My Favorite Song”
+- 대표곡 : "Marry Me", "My Favorite Song"
 
 #### BRAHMAN (1995 결성)
 - 하드코어와 멜로코어의 중간 존재
@@ -164,7 +164,7 @@ flowchart TD
 
 ---
 
-## 5. 미일 멜로코어의 음악적 비교
+## 5. 미일 멜로코어의 음악 비교
 
 | 항목 | 일본 | 미국 |
 |------|------|----------|

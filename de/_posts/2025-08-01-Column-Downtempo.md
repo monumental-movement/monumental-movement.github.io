@@ -28,7 +28,7 @@ Text: mmr｜Thema: Chill-out und die Ästhetik des tiefen Rhythmus
 Zwischen dem pochenden Herzschlag und der Hektik herrscht plötzlich Stille. Wenn es um Musik geht, ist Downtempo der Moment des tiefen Durchatmens. In der Welt der Clubkultur und der elektronischen Musik ist es ein Musikgenre, das am anderen Ende des Spektrums der schnellen Beats von Techno und House steht, aber nah an den Emotionen des Zuhörers ist und sich in die Stadtnacht einfügt. Das ist Downtempo.
 
 Downtempo entsteht durch die Schnittstelle mehrerer Genres, darunter das schwebende Gefühl von Ambient, die Grooves von Hip-Hop und die organischen Elemente von Jazz und Soul.
-Obwohl es sich oft mit Stilen wie Chillout, Trip Hop und Lounge-Musik überschneidet, wird es auch als allgemeiner Begriff für einen sanften Groove verwendet, der diese Stile umfasst.
+Obwohl es sich häufig mit Stilen wie Chillout, Trip Hop und Lounge-Musik überschneidet, wird es auch als allgemeiner Begriff für einen sanften Groove verwendet, der diese Stile umfasst.
 
 
 <hr>
@@ -76,7 +76,7 @@ Die Struktur von Downtempo-Songs ist unterschiedlich, der gemeinsame Nenner ist 
 
 <hr>
 
-### Ableitung und Diversifizierung: Downtempo rund um die Welt
+### Ableitung und Diversifikation: Downtempo rund um die Welt
 Downtempo hat durch seine Verschmelzung mit lokaler Kultur und ethnischer Musik verschiedene Entwicklungen durchlaufen.
 
 **Lounge-Musik**: Entwickelt als Musik, die in Hotels und Cafés gespielt wird (z. B. Thievery Corporation)

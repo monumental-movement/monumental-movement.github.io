@@ -12,8 +12,8 @@ tags:
 - Subculture
 - Psychology
 - Sociology
-title: '[Kolumne] Psychologie der Festival-Subkultur: Empirische Struktur kollektiver
-  Euphorie, Körpersynchronisation und Grenzzustände'
+title: '[Kolumne] Psychologie der Festival-Subkultur: Empirische Struktur von Gruppeneuphorie,
+  Körpersynchronisation und Grenzzuständen'
 ---
 
 
@@ -64,7 +64,7 @@ Die Festivalkultur übernimmt diese Struktur in säkularisierter Form.
 ### Gegenkultur der 1960er Jahre
 
 Das Woodstock Festival 1969 ist ein historisches Ereignis, an dem etwa 400.000 Menschen teilnahmen.
-Antikriegsbewegungen, Hippie-Kultur und Rockmusik überschnitten sich, und Musikveranstaltungen wurden mit sozialen Bewegungen verknüpft.
+Die Antikriegsbewegung, die Hippie-Kultur und die Rockmusik überschnitten sich, und Musikveranstaltungen wurden mit sozialen Bewegungen verknüpft.
 
 Zu diesem Zeitpunkt erweiterte sich die Bedeutung von Festivals vom „Musikhören“ zum „Teilen von Werten“.
 
@@ -244,7 +244,7 @@ Denn gemeinsame Ziele und synchronisierte Aktionen verringern die psychologische
 
 ### Warum gehen wir immer wieder zum selben Festival?
 
-Denn das Zugehörigkeitsgefühl und die Reaktivierung des Gedächtnisses stimulieren das Belohnungssystem.
+Denn das Zugehörigkeitsgefühl und die Erinnerungsreaktivierung stimulieren das Belohnungssystem.
 
 ### Werden Subkulturen durch die Kommerzialisierung verschwinden?
 

@@ -46,7 +46,7 @@ Un pianiste et un orchestre ont assuré la musique live au cinéma. Par conséqu
 
 ■Enregistrement sur le film lui-même (son sur film)
 
-- Bande sonore optique
+- Méthode d'enregistrement optique (Optical Soundtrack)
 
 Popularisé entre les années 1930 et 1950.
 
@@ -181,7 +181,7 @@ Master analogique pour enregistrement orchestral → numérisation
 
 Composition complète, enregistrement et mixage à l'aide d'une base DAW.
 
-Une partition conçue en pensant au développement des médias.
+Une partition conçue pour le développement des médias.
 
 ** ● Compositeur contemporain (axé sur la distribution) **
 

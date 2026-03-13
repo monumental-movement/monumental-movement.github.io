@@ -15,7 +15,7 @@ title: Justin Timberlake – Like I Love You
 
 저스틴 팀버 레이크(Justin Randall Timberlake)는 미국 출신의 팝 싱어, R&B 싱어, 배우. 그래미상을 여러 번 수상하고 있습니다.
 
-예전에는 보이그룹 인싱크의 프론트맨으로 인기를 얻었습니다.
+예전에는 보이그룹 '인싱크'의 프론트맨으로 인기를 얻었습니다.
 
 2002년 솔로 데뷔 앨범 'Justified'를 발표해 전세계 1천만장 이상의 판매를 기록.
 

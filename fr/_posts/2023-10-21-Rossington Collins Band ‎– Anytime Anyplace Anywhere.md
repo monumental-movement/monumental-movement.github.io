@@ -9,11 +9,11 @@ permalink: /fr/rossington-collins-band-anytime-anyplace-anywhere/
 tags:
 - Rock
 - Hard Rock
-title: Rossington Collins Band – Anytime Anyplace Anywhere
+title: Rossington Collins Band – À tout moment, n’importe où, n’importe où
 ---
 
 
-『Anytime, Anyplace, Anywhere』は、1980年にリリースされたRossington Collins Band（ロッシントン・コリンズ・バンド）の最初のスタジオ・アルバムで、彼らの代表曲「Don't Misunderstand Me」が収録されている。
+Anytime, Anyplace, Anywhere est le premier album studio du Rossington Collins Band, sorti en 1980, et comprend leur chanson signature, « Don't Misunderstand Me ».
 
 #### Liste des chansons
 ```md

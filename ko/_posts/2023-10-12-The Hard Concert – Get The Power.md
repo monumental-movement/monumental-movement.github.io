@@ -13,7 +13,7 @@ title: The Hard Concert – Get The Power
 ---
 
 
-The Hard Concert는 이탈리아 프로듀서 Paolo Armaroli, 이탈리아 댄스 라벨 DJ Movement의 창시자이자 DJ/프로듀서 Pieras Dis Rossini, 댄스 뮤직 프로듀서/DJ Graziano Fanelli, 이탈리아 프로듀서 Marco Rizzi에 의한 이타로 유로 댄스 프로젝트.
+The Hard Concert는 이탈리아 프로듀서 Paolo Armaroli, 이탈리아 댄스 라벨 DJ Movement의 창시자이자 DJ/프로듀서 Pieras Dis Rossini, 댄스 뮤직 프로듀서/DJ Graziano Fanelli, 이탈리아 프로듀서 Marco Rizzi의 이타로 유로 댄스 프로젝트.
 
 「Get The Power」는 The Hard Concert의 최고 걸작으로 알려져 있다.
 

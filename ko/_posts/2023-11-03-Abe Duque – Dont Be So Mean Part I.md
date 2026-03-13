@@ -16,7 +16,7 @@ title: Abe Duque – Don't Be So Mean Part I
 
 NY 언더그라운드 어시드 씬에서 활약하는 Abe Duque(아베 듀크).
 
-90년대 초반은 당시 NY 클럽 씬에서 주목받은 PROGRAM2에 참가.
+90년대 초반은 당시의 NY 클럽 씬에서 주목받은 PROGRAM2에 참가.
 
 그 후, KILRIAN 명의로 활동한 후, 2002년에는 DJ Matuss와 함께 Abe Duque Records를 설립.
 

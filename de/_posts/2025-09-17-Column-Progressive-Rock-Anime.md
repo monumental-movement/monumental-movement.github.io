@@ -62,7 +62,7 @@ Progressive Rock (im Folgenden Progressive Rock genannt) ist als „evolutionär
 - **Schwierige Rhythmen und ungewöhnliche Taktarten**: Eine komplexe Rhythmusstruktur, die den Hörer herausfordert, bringt intellektuelle Anregungen mit sich, die sich vom „Komfort“ normaler Popmusik unterscheiden.
 - **Konzeptualität**: In vielen Fällen erzählt das gesamte Album eine einzige Geschichte oder ein einziges Thema, oft begleitet von einer Science-Fiction-/Fantasy-Weltanschauung.
 
-Diese Elemente überschneiden sich natürlich mit Animes „langfristigem Geschichtenerzählen“ und „komplexen menschlichen Beziehungen und der Konstruktion von Weltanschauungen“. Insbesondere in Genres wie Science-Fiction und Fantasy kann die „Taiga-Epos“-Struktur des Prog-Rock effektiv als musikalisches Mittel wirken, das die visuelle und erzählerische Breite ergänzt.
+Diese Elemente überschneiden sich natürlich mit Animes „langfristigem Geschichtenerzählen“ und „komplexen menschlichen Beziehungen und der Konstruktion von Weltanschauungen“. Besonders in Genres wie Science-Fiction und Fantasy kann die „Taiga-Epos“-Struktur des Prog-Rock effektiv als musikalisches Mittel wirken, das die visuelle und erzählerische Breite ergänzt.
 
 ---
 
@@ -72,7 +72,7 @@ In den 1970er Jahren produzierten Progressive-Rock-Bands wie Pink Floyd und Yes 
 
 同時期のアニメは[『宇宙戦艦ヤマト』](https://amzn.to/4pxqmcR)[『機動戦士ガンダム』](https://amzn.to/3IpgXmS)など「スペースオペラ」的作品が登場。
 
-Obwohl zwischen den beiden kaum ein direkter Kontakt besteht, ist es interessant, dass sie sich parallel zu ihrer „Einstellung, Geschichten aus einer kosmischen Perspektive zu schreiben“ entwickelten.
+Obwohl es kaum direkten Kontakt zwischen den beiden gibt, ist es interessant, dass sie sich parallel zu ihrer „Einstellung, Geschichten aus einer kosmischen Perspektive zu schreiben“ entwickelten.
 
 ---
 
@@ -88,7 +88,7 @@ Darüber hinaus sind die westlichen Ideen und religiösen Motive, denen Eva huld
 ### ■ Warum wurde Progressive Rock im Anime nicht zum Mainstream?
 Der Mainstream der Anime-Musik ist jedoch J-POP, Rock, Elektro usw., und es gibt nur wenige Beispiele dafür, dass Progressive Rock in den Vordergrund gerückt wird. Einer der Gründe dafür könnte der **Unterschied zur Kommerzialität** sein. Progressive-Rock-Songs sind oft schwer zu verstehen, lang und haben keine eingängigen Hooks. Es passt nicht gut zu dem „kurzen, wirkungsvollen Haken“, der für Eröffnungen und Enden erforderlich ist.
 
-Andererseits gibt es jedoch immer noch Raum dafür, dass Progressive-Rock-Techniken an „Orten mit einem hohen Maß an Freiheit“ wie Soundtracks, OVAs und Filmversionen weiterbestehen. Angesichts des Aufstiegs von Post-Rock und Progressive Metal in den letzten Jahren sind die Möglichkeiten sogar noch größer.
+Andererseits besteht jedoch immer noch Raum dafür, dass Progressive-Rock-Techniken an „Orten mit einem hohen Maß an Freiheit“ wie Soundtracks, OVAs und Filmversionen weiterbestehen. Angesichts des Aufstiegs von Post-Rock und Progressive Metal in den letzten Jahren sind die Möglichkeiten sogar noch größer.
 
 ---
 
@@ -139,7 +139,7 @@ Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombinatio
 ### ■ Fazit
 Progressive Rock wurde im kommerziellen Anime nie zum „Mainstream“. Seine lange Komposition, sein schwieriger Rhythmus und seine konzeptionelle Natur weisen jedoch eine hohe Affinität zur Taiga-ähnlichen Entwicklung von Anime-Werken auf, die sich auf Science-Fiction und Fantasy konzentrieren.
 
-Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Illusion „Was wäre, wenn Anime durch Progressive Rock erzählt würde“ weiterhin neue Schnittstellen zwischen Musik und Video aufzeigen.
+Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Illusion „Was wäre, wenn Anime durch Progressive Rock erzählt würde“ weiterhin neue Überschneidungen zwischen Musik und Video aufzeigen.
 
 
 ---

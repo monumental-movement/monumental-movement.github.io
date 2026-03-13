@@ -18,7 +18,7 @@ Maji Na Damu (머지 나 다무)는, JUN JUN(뉴뉴)과 Ta(타)에 의한 일본
 
 「L3D(Last Three Days)」는, 전 피치카트 파이브의 타카나미 게이타로가 설립한 라벨 Out Of Tune으로부터 2000년에 릴리스 되었다.
 
-A면 B면 모두 Remix는, DJ 19와, 오가와 히로시와 쿠로사와 나가키에 의한 H.Garden(Master Mind/마스터 마인드).
+A면 B면 모두 Remix는, DJ 19와, 오가와 히로시와 쿠로사와 에이키에 의한 H.Garden(Master Mind/마스터 마인드).
 
 #### Tracklist
 ```md

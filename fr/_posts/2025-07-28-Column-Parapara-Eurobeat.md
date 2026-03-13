@@ -46,7 +46,7 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 <hr>
 
-### Qu'est-ce que Parapara ? ──Le plaisir de la répétition uniforme
+### Qu'est-ce que Parapara ? ──Plaisir de la répétition uniforme
 ● Origine du Parapara
 
 - Présenté à la fin des années 1980 dans les discothèques de Roppongi et Shibuya, Tokyo (Maharaja, Juliana Tokyo, etc.)
@@ -65,7 +65,7 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 - Une structure mélodie/refrain claire → Une « chorégraphie » de danse facile à créer
 
-- Développement de chansons dramatiques → Correspond à l'excitation du swing
+- Développement de chansons dramatiques → Correspond au point culminant du swing
 
 
 <hr>
@@ -121,7 +121,7 @@ C'est ainsi que le « marché Eurobeat » unique au Japon s'est formé et s'est 
 
 - Un deuxième boom parapara se produit localement alors que des vidéos et des chansons de chorégraphies passées sont partagées en ligne.
 
-- Il existe également des phénomènes où les fans étrangers se redécouvrent et reçoivent des éloges comme s'ils étaient réimportés.
+- Il existe aussi des phénomènes où les fans étrangers se redécouvrent et reçoivent des éloges comme s'ils étaient réimportés.
 
 
 <hr>

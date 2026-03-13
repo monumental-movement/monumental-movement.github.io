@@ -100,7 +100,7 @@ Son bruit est devenu un symbole du « chaos non algorithmique de la conscience h
 Plus la musique générative devient ordonnée et belle, plus le « chaos » de Merzbow apparaît comme des traces de la vie réelle.
 
 La « distorsion de la conscience » qui ne peut être reproduite avec le bruit de l'IA est la réalité humaine qu'émet son son.
-C'est la dernière mesure sauvage contre la « musique sans corps » du 21ème siècle.
+C'est la dernière mesure sauvage contre la « musique sans corps » du 21e siècle.
 
 ---
 

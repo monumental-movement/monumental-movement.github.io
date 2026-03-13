@@ -20,7 +20,7 @@ Cosmic Sandwich 명의로도 잘 알려져 있습니다.
 
 Kosuke Anamizu는 일본 출신의 일렉트로닉 뮤직 사운드 디자이너 & 컴포저.
 
-이 레코드는 2004년에 독일의 명문 라벨 Traum Schallplatten(트라움 샤르플라텐)로부터 릴리스된 컴필레이션.
+이 레코드는 2004년에 독일의 명문 라벨 Traum Schallplatten(트라움 샤르플라텐)에서 릴리스된 편집.
 
 #### Tracklist
 ```md

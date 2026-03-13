@@ -275,5 +275,5 @@ Das akustische Design wird durch KI korrigiert und der Sitz wird zu einer Resona
 Am Ende werden wir einen Bereich klanglicher Gleichheit haben, der über Länder und Marken hinausgeht.
 Das Zuhören beim Laufen schärft die menschlichen Sensibilitäten noch einmal.
 
-Was Autos uns erzählen, ist nicht die Straße, sondern die Reise des Klangs.
+Was uns Autos erzählen, ist nicht die Straße, sondern die Reise des Klangs.
 Und diese Reise hat gerade erst begonnen.

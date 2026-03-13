@@ -10,11 +10,11 @@ tags:
 - Techno
 - Tech House
 - Electro
-title: Adam Kroll – Sylphen
+title: Adam Kroll – Sylphène
 ---
 
 
-GODZILLAネタで知られるAdam Kroll （アダムクロール）がドイツのケルンを拠点に置くレーベルTraum Schallplattenから2004年にリリースしたエレクトロ・テックハウス・ミニマルトラック。
+Un morceau minimal house électro-tech sorti en 2004 par Adam Kroll, connu pour ses trucs GODZILLA, sur le label Traum Schallplatten basé à Cologne, en Allemagne.
 
 #### Liste des chansons
 ```md

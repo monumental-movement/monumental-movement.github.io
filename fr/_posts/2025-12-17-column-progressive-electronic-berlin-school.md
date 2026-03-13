@@ -20,7 +20,7 @@ title: '[Chronique] Electronique Progressive / Berlin School'
 Texte : mmr｜Thème : Musique électronique progressive et musique électronique de la Berlin School de la fin des années 1960 à nos jours
 
 
-La musique électronique du XXe siècle a vu le jour dans le domaine de la recherche universitaire et de l’art expérimental. Suite au développement des instruments électroniques dans les années 1920 et 1930, à la technologie des bandes magnétiques après la guerre et à la création de studios de musique concrète et de musique électronique dans les années 1950, un environnement a commencé à émerger à la fin des années 1960 permettant aux compositeurs individuels de créer de la musique électronique en dehors du studio. Au milieu de ce changement, une série de musique électronique progressive, connue plus tard collectivement sous le nom d'« École de Berlin », s'est établie principalement en Allemagne de l'Ouest.
+La musique électronique du XXe siècle a vu le jour dans le domaine de la recherche universitaire et de l’art expérimental. Suite au développement des instruments de musique électroniques dans les années 1920 et 1930, à la technologie des bandes magnétiques après la guerre et à la création de studios de musique concrète et de musique électronique dans les années 1950, un environnement a commencé à émerger à la fin des années 1960 permettant aux compositeurs individuels de créer de la musique électronique en dehors du studio. Au milieu de ce changement, une série de musique électronique progressive, connue plus tard collectivement sous le nom d'« École de Berlin », s'est établie principalement en Allemagne de l'Ouest.
 
 La Berlin School n’est pas un mouvement unifié ni une école officielle au sens strict du terme. C'est un nom qui a été unifié dans les recherches et critiques ultérieures sur l'histoire de la musique en raison du fait que plusieurs compositeurs travaillaient dans une zone métropolitaine, un environnement technologique et des intérêts musicaux communs. Au cœur du groupe se trouvent des compositeurs et des projets tels que Tangerine Dream, Klaus Schulze et Ash Ra Tempel (plus tard Ashra).
 
@@ -60,7 +60,7 @@ Dans le même temps, un mouvement visant à fusionner le rock et l’art d’ava
 
 Tangerine Dream a été formé en 1967 et leurs premiers travaux combinaient des formations rock et une improvisation avant-gardiste. Au début des années 1970, il commence à composer à l’aide de synthétiseurs et de séquenceurs.
 
-Ce qui le distingue est sa structure, qui superpose des changements tonals et des mélodies improvisées sur un motif séquentiel répétitif. Cette méthode a créé une structure de longue durée qui musicalise le flux du temps lui-même, ce qui diffère des formats de chansons traditionnels.
+Ce qui le distingue est sa structure, qui superpose des changements tonals et des mélodies improvisées sur un motif séquentiel répétitif. Cette méthode a créé une structure longue qui musicalise le flux du temps lui-même, ce qui diffère des formats de chansons traditionnels.
 
 ### Klaus Schulze
 
@@ -82,7 +82,7 @@ L'élément le plus distinctif de la Berlin School est le motif sonore répétit
 
 ### Format long
 
-Alors que la musique pop et rock traditionnelle est basée sur une structure de chanson qui dure plusieurs minutes, il n'est pas rare qu'une seule chanson de la musique de la Berlin School dure plus de 20 minutes. Il s’agit d’une forme rendue possible par le développement de la performance improvisée et de la technologie d’enregistrement.
+Alors que la musique pop et rock traditionnelle est basée sur des structures de chansons qui durent plusieurs minutes, il n'est pas rare qu'une seule chanson de la musique de la Berlin School dure plus de 20 minutes. Il s’agit d’une forme rendue possible par le développement de la performance improvisée et de la technologie d’enregistrement.
 
 ### 音色設計
 
@@ -100,7 +100,7 @@ La Berlin School se situe entre la musique électronique académique et la musiq
 
 ## Chapitre 5 Changements depuis les années 1980
 
-Avec la diffusion des synthétiseurs numériques et du MIDI, l'environnement de production a radicalement changé. Les limitations inhérentes aux équipements analogiques ont été réduites et la reproductibilité s'est améliorée. D’un autre côté, la contingence observée au début de la Berlin School est réduite.
+Avec la diffusion des synthétiseurs numériques et du MIDI, l'environnement de production a radicalement changé. Les limitations inhérentes aux équipements analogiques ont été réduites et la reproductibilité améliorée. D’un autre côté, la contingence observée au début de la Berlin School est réduite.
 
 Durant cette période, la méthode de la Berlin School est réinterprétée comme le prototype de la techno et de la transe. La fusion de rythmes et de séquences répétitifs prend un nouveau sens dans le contexte de la dance music.
 
@@ -114,7 +114,7 @@ Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de 
 
 ## Chapitre 7 Analyse détaillée des fondements techniques
 
-Dans ce chapitre, nous organiserons les éléments techniques spécifiques qui ont établi la Berlin School en les divisant en trois niveaux : les instruments de musique, les systèmes de contrôle et les techniques d'enregistrement.
+Ce chapitre organise les éléments techniques spécifiques qui ont établi l'École de Berlin en les divisant en trois niveaux : les instruments de musique, les systèmes de contrôle et les techniques d'enregistrement.
 
 ### Synthétiseur modulaire analogique
 
@@ -146,7 +146,7 @@ Un format dans lequel une certaine séquence parcourt toute la chanson, s'étend
 
 Une forme construite autour de notes soutenues et de changements lents, sans séquence claire. Il occupe une place importante dans les œuvres de Klaus Schulze et est devenu le prototype de la musique d'ambiance et de drone ultérieure.
 
-### Type d'édition d'enregistrement impromptu
+### Type d'édition d'enregistrement d'improvisation
 
 Un format qui utilise l'improvisation live ou en studio comme matériau et est structuré par post-édition. Cette méthode brouille les frontières entre composition et performance, positionnant l’œuvre comme le récit d’un événement.
 

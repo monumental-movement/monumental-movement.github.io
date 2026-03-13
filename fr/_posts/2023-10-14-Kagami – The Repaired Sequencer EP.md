@@ -17,7 +17,7 @@ Un morceau techno-disco de Kagami sorti sur le label techno Frogman Records en 2
 
 Le premier morceau de la face B est un remix de l'unité Sound Associates de Ben Tisdall et Daz Saund.
 
-Le deuxième morceau de la face B est un remix du DJ et producteur allemand Thomas Schumacher.
+La deuxième chanson de la face B est un remix du DJ et producteur allemand Thomas Schumacher.
 
 #### Liste des chansons
 ```md

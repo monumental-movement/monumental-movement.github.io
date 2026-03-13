@@ -18,7 +18,7 @@ White Light Circus Dean Meredith(딘 메레디스)는 Andy Meecham과의 유닛 
 
 The Rhythm Odyssey, Goat Dance 명의에서도 활동하고 있다.
 
-'Marching Orders'는 2005년 UK의 라벨 D.C. Recordings에서 출시된 일렉트로 다운 템포 디스코 트랙.
+'Marching Orders'는 2005년 UK의 라벨 D.C. Recordings에서 발표된 일렉트로 다운 템포 디스코 트랙.
 
 #### Tracklist
 ```md

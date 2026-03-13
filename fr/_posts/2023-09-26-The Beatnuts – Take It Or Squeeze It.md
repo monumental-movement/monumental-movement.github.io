@@ -15,7 +15,7 @@ title: The Beatnuts – À prendre ou à presser
 
 "The Beatnuts – Take It Or Squeeze It" est le quatrième album studio du groupe hip hop The Beatnuts. Sorti en 2001, cet album présente le style de production caractéristique des Beatnuts et ses paroles pleines d'esprit.
 
-« Take It Or Squeeze It » est construit autour de morceaux optimistes et funky qui intègrent divers éléments musicaux et échantillons. Sur cet album, les Beatnuts développent leur propre son unique, incorporant habilement des éléments de hip-hop, de funk et de musique latine.
+« Take It Or Squeeze It » est construit autour de morceaux optimistes et funky qui incorporent divers éléments musicaux et échantillons. Sur cet album, les Beatnuts développent leur propre son unique, incorporant habilement des éléments de hip-hop, de funk et de musique latine.
 
 #### Liste des chansons
 ```md

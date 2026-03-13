@@ -9,11 +9,11 @@ permalink: /fr/s-moore-featuring-m-c-rokk-touch-me-ii-time/
 tags:
 - Techno
 - Italo
-title: S Moore Featuring M.C. ROKK – Touch Me (II Time)
+title: S Moore avec M.C. ROKK – Touche-moi (II Time)
 ---
 
 
-「Touch Me (II Time)」は、1999年にイタリアのレーベル「Hot Trax」からリリースされた本名Sandro Murru「S Moore」によるEPです。
+"Touch Me (II Time)" est un EP de S Moore, de son vrai nom Sandro Murru, sorti sur le label italien "Hot Trax" en 1999.
 
 #### Liste des chansons
 ```md

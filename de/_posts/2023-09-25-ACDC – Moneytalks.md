@@ -17,7 +17,7 @@ title: ACDC – Geldgespräche
 
 „Moneytalks“ ist ein Song, der sich durch sein schnelles und eingängiges Riff und seine Melodie auszeichnet. Der Song als Ganzes vermittelt die kraftvolle Leistung und den kraftvollen Gesang von AC/DC und hat einen Charme, der den Hörer in seinen Bann zieht.
 
-Dieser Song gilt als einer der Signature-Songs von AC/DC und ist einer der Hits ihrer Karriere. Dieses Lied ist bei Rockfans beliebt, da es ein aufregendes Lied ist, das Luftgitarre und Headbangen beinhaltet. Darüber hinaus erfreuen sich die eingängigen Melodien und kraftvollen Darbietungen bei einer breiten Palette von Musikfans großer Beliebtheit.
+Dieser Song gilt als einer der Signature-Songs von AC/DC und ist einer der Hits ihrer Karriere. Es ist ein beliebtes Lied für Rockfans, die Luftgitarre und Headbangen mögen. Darüber hinaus erfreuen sich die eingängigen Melodien und kraftvollen Darbietungen bei einer breiten Palette von Musikfans großer Beliebtheit.
 
 #### Trackliste
 ```md

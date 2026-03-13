@@ -80,7 +80,7 @@ Diese Fusion deutet auf eine Zukunft hin, in der KI zum Co-Star im Live Coding w
 
 Menschliche Live-Programmierer **genießen Fehler und Zufälle**.
 Unerwartete Geräusche und Missverständnisse bestimmen die Musik.
-Andererseits ist KI-Improvisation eine **„Rekonstruktion“ basierend auf vergangenen Daten**,
+Im Gegensatz dazu ist KI-Improvisation eine **„Rekonstruktion“ basierend auf vergangenen Daten**,
 Im Wesentlichen bleibt es im Rahmen der Wahrscheinlichkeit.
 
 Dieser Unterschied ist jedoch auch die Quelle der Kreativität.
@@ -96,7 +96,7 @@ Die Beziehung zwischen den beiden ist nicht eine von „Dominanz und Unterordnun
 | **Gezeitenzyklen** | Alex McLean | Haskell-basierte Live-Coding-Umgebung, spezialisiert auf Musterbeschreibung | Echtzeit-Codegenerierung mit ChatGPT-Integration möglich |
 | **SuperCollider** | James McCartney | Eine seit langem etablierte Umgebung für Klangsynthese und algorithmische Komposition | Die Steuerung der Klangparameter mithilfe von KI-Modellen ist in Arbeit |
 | **Sonic Pi** | Sam Aaron | Ruby-basiert mit Blick auf Bildung und Leistung | KI-gestützte Codebeispiele für den Einsatz im Bildungsbereich |
-| **Riffusion** | Seth Forsgren et al. | Diffusionsmodell, das Spektrogramme generiert | KI selbst erzeugt direkt Klang |
+| **Riffusion** | Seth Forsgren et al. | Diffusionsmodell, das Spektrogramme erzeugt | KI selbst erzeugt direkt Klang |
 | **Ozelot / Hydra** | Live-Coding-Umgebung, die generiertes Video + Ton integriert | KI-Synchronisation von Bild und Ton ist möglich |
 
 ---
@@ -197,7 +197,7 @@ Wir versuchen, eine **Kultur des Teilens der „Intelligenz der Leistung“** zu
 
 Algorithmen und Menschen, Maschinen und Emotionen.
 Wo die Grenzen verschmelzen,
-Ein neuer musikalischer Horizont entsteht.
+Ein neuer musikalischer Horizont erhebt sich.
 
 > Akkorde gehen über Noten hinaus und KI lernt zu improvisieren.
 > Musik ist kein „exklusives Patent des Menschen“ mehr;

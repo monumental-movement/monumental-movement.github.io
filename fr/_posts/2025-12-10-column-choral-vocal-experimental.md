@@ -169,7 +169,7 @@ L'analyse spectrale électroacoustique a été introduite, permettant une constr
 * Onomatopée/bourdonnement/chuchotement
 Une technique qui utilise activement les voix sans hauteur comme matériau musical.
 
-## 4-6. Traitement électronique/spatialisation
+##4-6. Traitement électronique/spatialisation
 
 Des expériences récentes utilisent parfois le traitement en temps réel et la diffusion multicanal.
 
@@ -177,7 +177,7 @@ Des expériences récentes utilisent parfois le traitement en temps réel et la 
 * Changement de hauteur
 * Traitement granulaire
 
-Avec ceux-ci, l'image statique du chœur est complètement démantelée, et la **distribution particulaire/spatiale des voix** devient le centre de la structure musicale.
+Avec ceux-ci, l’image statique du chœur est complètement démantelée, et la particuleisation et la répartition spatiale des voix deviennent le centre de la structure musicale.
 
 ---
 
@@ -191,7 +191,7 @@ Ligeti était un compositeur qui symbolisait la pensée acoustique du XXe siècl
 
 *《Lux Aeterna》 : Micropolyphonie sans accompagnement
 * 《Requiem》 : Texture dense et tension dans « Kyrie »
-*《Clocks and Clouds》 : Un contraste entre la sensation de flottement et le groupe rythmique créé par le chœur de femmes et la musique instrumentale
+*《Clocks and Clouds》 : Un contraste entre la sensation de flottement et le groupe rythmique créé par le chœur féminin et la musique instrumentale
 
 La méthode de Ligeti a également influencé la musique de film, gagnant notamment une reconnaissance générale lorsqu'elle est utilisée dans 2001 : L'Odyssée de l'espace.
 

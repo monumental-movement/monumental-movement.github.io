@@ -115,7 +115,7 @@ color: #fff;
 
 **逸話**: 1966年、セルジオ・メンデス & ブラジル'66のアルバム[『Herb Alpert Presents Sergio Mendes & Brasil'66』](https://amzn.to/4mR12fg)が大ヒットし、アメリカでのボサノバ人気を再燃させました。
 
-**Influence** : Les arrangements de Mendes ont fusionné avec succès la musique pop et brésilienne et ont eu une grande influence sur les artistes ultérieurs.
+**Influence** : les arrangements de Mendes ont fusionné avec succès la musique pop et brésilienne et ont eu une grande influence sur les artistes ultérieurs.
 
 
 ---

@@ -61,7 +61,7 @@ color: #fff;
 
 * **Repräsentative Produzenten**: Dr. Dre, DJ Quik, Battlecat
 * **Große Labels**: Death Row Records, Priority, Ruthless
-* **Kultureller Hintergrund**: G-Funk war eng mit der Lowrider- und Autokultur verbunden, mit seinem 70er-Jahre-Funk-Sampling und dem dicken Synthesizer-Bass.
+* **Kultureller Kontext**: G-Funk war eng mit der Lowrider- und Autokultur verbunden, mit seinem 70er-Jahre-Funk-Sampling und dem dicken Synthesizer-Bass.
 * **Ost-West-Konflikt**: Der Konflikt zwischen Ost- und Westküste verschärft sich und führt zur Tragödie von 2Pac und The Notorious B.I.G.
 * **Video/Mode**: MVs mit Lowridern, Stränden und den Straßen von South Central werden immer beliebter. Dickies, Chuck Taylor und Bandanas sind ikonisch.
 

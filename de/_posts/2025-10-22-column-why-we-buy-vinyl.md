@@ -70,7 +70,7 @@ Diese **Beschwerlichkeit erzeugt tatsächlich Bindung**.
 
 ## Kapitel 2: Erinnerungen im Lärm – Analog und Nostalgie
 
-Das „knallende“ Geräusch in dem Moment, in dem die Nadel fällt.
+In dem Moment, in dem die Nadel fällt, ertönt ein „Sah“-Geräusch.
 Aus irgendeinem Grund verspüren viele Menschen schon beim Hören Nostalgie.
 
 Dieses Phänomen wird psychologisch als „Proust-Effekt“ bezeichnet.

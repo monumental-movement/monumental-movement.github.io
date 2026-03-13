@@ -177,7 +177,7 @@ Wechsel von „Juliana Tokyo“ zur Shibuya Club Culture. Aus der Disco-Generati
 
 ## 2000er – Der Aufstieg der Nu-Disco und die Umstrukturierung der Clubs
 - **Hintergrund**
-„Nu-Disco“ und Electroclash erfreuen sich weltweit großer Beliebtheit. Auch in Japan schreitet das Disco-Revival voran und die Band steht erneut im Rampenlicht der Clubszene.
+„Nu-Disco“ und Electroclash erfreuen sich weltweit großer Beliebtheit. Das Disco-Revival in Japan schreitet voran und die Clubszene steht erneut im Rampenlicht.
 
 - **Repräsentative Meisterwerke (Ausland)**
 - Daft Punk – *Discovery* (2001)

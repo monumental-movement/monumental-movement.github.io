@@ -9,11 +9,11 @@ permalink: /fr/immense-spontaneous-combustion/
 tags:
 - Rock
 - 90s
-title: Immense – Combustion spontanée
+title: Immense – Spontaneous Combustion
 ---
 
 
-Il s'agit d'un EP d'Immense, un groupe composé de Dave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case et Tom Davies, sorti en 1999 sur le label britannique FatCat Records.
+1999年にUKのレーベル「FatCat Records」からリリースされたDave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Daviesらで構成されるバンド「Immense」のEPです。
 
 #### Liste des chansons
 ```md

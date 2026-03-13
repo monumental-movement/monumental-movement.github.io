@@ -138,79 +138,79 @@ color: #fff;
 ---
 
 **Keiji Haino** :
-- **Le guitariste physique ultime** : manipulez simultanément la guitare, la voix et le corps pour créer un monde sonore extrême grâce à l'improvisation.
-- **Techniques** : Intègre toutes les expressions physiques telles que le crochetage, le glissement, le jeu de l'archet, la manipulation d'objets résonants, les cris de basse, les voix étranges, les sifflements, etc.
-- **Idéologie** : La musique est une extension du corps et la guitare est un miroir d'émotion et d'esprit. Sublimer le ton destructeur comme expression émotionnelle.
-- **Grands travaux** :
-- Série « Live at Improvised Music from Japan » : enregistrements de performances improvisées extrêmes
-- Performance live avec MERZBOW : Dialogue entre bruit et expression physique
-- Collaboration avec Seiichi Yamamoto : Improvisation où s'entremêlent introspection et destruction
-- **Fonctionnalités en direct** :
-- Longue improvisation de plusieurs heures
-- Performance utilisant l'ensemble du corps (cordes, corps, voix)
-- Performance expérientielle qui fait appel non seulement à l'audition, mais aussi aux sensations spatiales et physiques
-- **Influence** : Laisse une empreinte énorme sur l'ensemble de la scène underground japonaise et devient un phare spirituel pour les guitaristes et musiciens expérimentaux ultérieurs.
+- **身体派ギタリストの極致**：ギター、声、身体を同時に操作し、即興演奏で極限の音世界を生む。
+- **技法**：ピッキング、スライド、ボウ演奏、共鳴物体操作、低音シャウト、奇声、口笛など、あらゆる身体表現を統合。
+- **思想**：音楽は身体の延長であり、ギターは感情と精神の鏡。破壊的音色を感情表現として昇華。
+- **代表作**：
+  - 『Live at Improvised Music from Japan』シリーズ：極限即興演奏の記録
+  - MERZBOWとの共演ライブ：ノイズと身体表現の対話
+  - 山本精一とのコラボレーション：内省と破壊が交錯する即興
+- **ライブの特徴**：
+  - 数時間に及ぶ長尺即興
+  - 身体全体を使った演奏（弦、ボディ、声）
+  - 聴覚だけでなく、空間感覚や身体感覚に訴える体験型パフォーマンス
+- **影響**：日本のアンダーグラウンドシーン全体に大きな足跡を残し、後続ギタリストや実験音楽家の精神的指標となる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**MERZBOW (Masami Akita)** poursuit la forme pure du bruit. Utilisant des guitares et du matériel électronique, il développe une expression extrême.
+**MERZBOW（秋田昌美）**はノイズの純粋形態を追求。ギターや電子機器を用い、極限表現を展開。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NP1UQ3hZXuA?si=CmyJyjfLF3ybGcQ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 3. Architecture post-rock et lyrique (années 1990-2000)
+## 3. ポストロックと叙情の建築（1990〜2000年代）
 
-**MONO** est un groupe post-rock qui représente la lumière et la prière avec la guitare. Il se caractérise par sa longue structure de chant et ses arpèges lyriques.
+**MONO**はギターで光や祈りを描くポストロックバンド。長大な曲構造とアルペジオの叙情性が特徴。
 
-**toe** explore la guitare comme structure rythmique. Équilibrer la précision mathématique et l’expression émotionnelle.
+**toe**はリズム構造としてのギターを探求。数学的精密さと感情表現を両立。
 
-**envy** a créé une expression émotionnelle unique en fusionnant le hardcore passionné avec un travail de guitare lyrique.
+**envy**は激情ハードコアに叙情ギターワークを融合させ、独自の感情表現を確立。
 
-**Boris** a acquis une renommée internationale pour son son rugissant et sa fusion de divers genres.
+**Boris**は轟音と多彩なジャンル融合で国際的評価を獲得。
 
-**Zeni Geva** fusionne le métal et le bruit pour créer des expressions d'improvisation destructrices.
-
----
-
-## 4. La nouvelle génération de solitaires (années 2010-2020)
-
-**Ichika Nito** est un artiste talentueux de la génération SNS, utilisant pleinement la polyrythmie, le tapping et la construction d'harmonies. Diffusé dans le monde via YouTube.
-
-**Ichiko Aoba** utilise une guitare acoustique pour exprimer des contes folkloriques oniriques.
-
-**Tabito Nanao** fusionne guitare et paroles pour développer des expressions musicales poétiques modernes.
-
-**Influences après Seiichi Yamamoto** : Un jeune guitariste apparaît qui hérite des expressions introverties, improvisées et underground.
+**Zeni Geva**はメタルとノイズを融合し、破壊的即興表現を行う。
 
 ---
 
-#IV. Redéfinir la guitare : appareil, corps, prière
+## 4. 新世代の孤高（2010〜2020年代）
 
-La guitare n'est pas seulement un instrument de musique, mais un moyen d'expression personnelle.
+**Ichika Nito**はSNS世代の技巧派で、ポリリズム、タッピング、ハーモニー構築を駆使。YouTubeを通じて世界に発信。
 
-- **Philosophie du pédalier** : Création sonore = ego design. Chaque pédale devient une extension de la personnalité du joueur.
-- **Loop/Glitch/DAW** : « mémoire des doigts » étendue. Un seul artiste peut interpréter une expression orchestrale.
-- **Seiichi Yamamoto x Jim O'Rourke** : Relier le monde depuis le sous-sol de Kyoto. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
+**青葉市子**はアコースティックギターで夢幻的民話表現を行う。
 
-Keiji Haino considère la guitare comme une extension de son corps et de son esprit, et c'est une présence qui ébranle les sens de l'auditeur avec les extrêmes du son. La trinité improvisation, destruction et expression devient une coordonnée importante dans l’histoire de la guitare underground japonaise.
+**七尾旅人**はギターと歌詞を融合させ、現代詩的音楽表現を展開。
+
+**山本精一以降の影響**：内向・即興・アンダーグラウンド表現を継承する若手ギタリストが登場。
+
+---
+
+# IV. ギターの再定義：装置・身体・祈り
+
+ギターは単なる楽器ではなく、**自己表現の装置**である。
+
+- **ペダルボードの思想**：音作り＝自我デザイン。個々のペダルが奏者の人格の拡張となる。
+- **ループ・グリッチ・DAW**：拡張された“指の記憶”。単一の演奏者がオーケストラ的表現を可能に。
+- **山本精一×Jim O’Rourke**：京都アンダーグラウンドから世界へ橋渡し。国内外の即興・実験音楽に影響。
+
+灰野敬二は、ギターを身体と精神の延長として扱い、音の極限で聴き手の感覚を揺さぶる存在である。即興・破壊・表現の三位一体が、日本アンダーグラウンド・ギター史における重要な座標となる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QloLYsK5v9A?si=zTitzaLilQelcW_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# V. Conclusion : Le son persistant des cordes qui ne cesse de sonner
+# V. 結章：鳴り止まない弦の余韻
 
-La guitare a toujours été un symbole de liberté d'expression, de l'underground au monde. L'ère est arrivée où « la température et l'idéologie de l'interprète » sont plus importantes que la technique.
+ギターは地下から世界まで、常に自由な表現の象徴であり続けた。技術よりも、**奏者の温度と思想**が問われる時代が訪れている。
 
-> Le tremblement des cordes de guitare continue de résonner à travers les âges.
+> ギターの弦の震えは、時代を超えて鳴り続ける。
 
 
 ---
 
-### Chronologie (1950-2020)
+### 年表（1950〜2020）
 
 <div class="mermaid">
 
@@ -241,8 +241,8 @@ flowchart TD
 ### Discographie
 
 
-| Artiste | Œuvres représentatives | Liens |
-|--------------|---------|---------------|
+| アーティスト | 代表作 | リンク |
+|---------------|---------|---------------|
 | 山本精一（Seiichi Yamamoto） | 『カフェ・ブレイン』 | [ Amazon ](https://amzn.to/46ZnvSH) |
 | 灰野敬二（Keiji Haino） | 『Watashi Dake?（わたしだけ？）』 | [ Amazon ](https://amzn.to/4heT6mI) |
 | BORIS | 『Gensho（with Merzbow）』 | [ Amazon ](https://amzn.to/47gIqzB) |

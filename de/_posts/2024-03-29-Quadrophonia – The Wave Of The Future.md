@@ -22,11 +22,11 @@ Der zweite Titel auf Seite A ist ein Remix von Mark Ryder (DJ Ryder).
 
 Olivier Abbeloos wurde am 18. Januar 1969 in Aalst, Belgien, geboren.
 
-Schon in jungen Jahren interessierte er sich für Musik, im Alter von 13 Jahren bekam er von seinen Eltern ein DJ-Set geschenkt und begann mit dem DJing. Im Alter von 17 Jahren begann er, selbst Musik zu produzieren, unter anderem mit der Erstellung von Megamixen mit zwei Track-Recordern.
+Schon in jungen Jahren interessierte er sich für Musik und im Alter von 13 Jahren schenkten ihm seine Eltern ein DJ-Set und er begann als DJ. Im Alter von 17 Jahren begann er, selbst Musik zu produzieren, indem er mit zwei Track-Recordern Megamixe erstellte.
 
 Sein erstes Projekt war „Even Now“ von L&O, sein Name ist jedoch nicht im Abspann aufgeführt, und er gründete sein erstes Gemeinschaftsprojekt, The Beat Machine, mit Patrick de Mayer.
 
-Bekannt wurde sein Name durch sein Duo Quadrophonia mit Lucien Foort.
+Bekannt wurde sein Name durch sein Duo Quadroponia mit Lucien Foort.
 
 Unterdessen war T99 ursprünglich ein Soloprojekt von Patrick De Meyer, und nach der Veröffentlichung von drei Alben hörte Patrick De Meyer, dass Olivier Abbeloos an einem Song namens „Anasthasia“ arbeitete, und schlug vor, ihn unter dem Namen T99 zu veröffentlichen.
 

@@ -11,20 +11,20 @@ tags:
 - Neo-Psychedelic
 - Folk
 - Psychedelic
-title: 【コラム】 Neo-Psychedelic Folk（ネオサイケデリックフォーク）
+title: '[Chronique] Folk Néo-Psychédélique'
 ---
 
 
 
-## 序章：再帰するサイケデリアとフォークの更新
+## Prologue : mises à jour récursives sur le psychédélisme et le folk
 
-文：mmr｜テーマ：過去のサイケデリアを保存するジャンルではなく、知覚体験を更新するための編集的実践について
+Texte : mmr｜Thème : Non pas un genre qui préserve le psychédélisme du passé, mais une pratique éditoriale qui renouvelle les expériences perceptuelles.
 
-Neo-Psychedelic Folkは、1960〜70年代のサイケデリック・フォークおよびアシッド・フォークの美学を参照しながら、2000年代以降の録音技術、映像感覚、リズム観によって再構成された音楽潮流である。フォーク由来のアコースティックな質感、民族音楽的旋律、反復的コード進行を土台にしつつ、スタジオ処理、編集、電子的エフェクトを積極的に導入する点に特徴がある。
+Le folk néo-psychédélique est un courant musical qui a été reconstruit à l'aide de la technologie d'enregistrement, des sensibilités visuelles et des concepts rythmiques depuis les années 2000, tout en faisant référence à l'esthétique du folk psychédélique et du folk acide des années 1960 et 1970. Il se caractérise par son utilisation active du traitement en studio, du montage et des effets électroniques, tout en s'appuyant sur des textures acoustiques dérivées du folk, des mélodies ethniques et des progressions d'accords répétitives.
 
-この潮流は特定の地理や単一のシーンに閉じず、北米・オセアニア・欧州を横断して断続的に形成された。DIY文化、インディーレーベル、デジタル録音環境の普及が、制作・流通・受容の全段階に影響を与えたことが、従来のフォーク更新運動との決定的な差異となっている。
+Cette tendance ne se limitait pas à une géographie ou à une scène spécifique, mais se formait de manière intermittente en Amérique du Nord, en Océanie et en Europe. La prédominance de la culture DIY, des labels indépendants et des environnements d’enregistrement numérique a influencé toutes les étapes de production, de distribution et de réception, ce qui en fait une différence cruciale par rapport aux mouvements traditionnels de renouveau folk.
 
-> "フォークは保存される対象ではなく、再編集される素材として扱われた"
+> "Les Forks ont été traités comme du matériel à rééditer, pas comme quelque chose à sauvegarder."
 
 ---
 
@@ -42,31 +42,31 @@ color: #fff;
 </style>
 
 
-## 第1章：歴史的前提 ― サイケデリック・フォークからの連続性
+## Chapitre 1 : Hypothèses historiques – Continuité du folk psychédélique
 
-### 1-1. 1960〜70年代の基層
+### 1-1. Couche de base dans les années 1960 et 1970
 
-1960年代後半、フォークはロックと接続し、意識変容、神話的主題、拡張された楽曲構造を獲得した。アコースティック・ギター、ドローン、手拍子、コーラスが中心であり、演奏は必ずしも技巧を目的としなかった。
+À la fin des années 1960, le folk s'est connecté au rock, acquérant une conscience altérée, des thèmes mythologiques et des structures de chansons élargies. L'accent était mis sur la guitare acoustique, le drone, les claquements de mains et le refrain, et la performance n'était pas nécessairement axée sur la technique.
 
-この時期のサイケデリック・フォークは、録音技術の制約ゆえに、空間表現や反復を演奏自体で担っていた。そのため音響は素朴だが、集団性と儀礼性が強調されている。
+En raison des limites de la technologie d'enregistrement, le folk psychédélique de cette période s'appuyait sur l'expression spatiale et la répétition à travers la performance elle-même. De ce fait, l’acoustique est simple, mais le groupe et le rituel sont mis en valeur.
 
-### 1-2. 1990年代以降の再評価
+### 1-2. Réévaluation depuis les années 1990
 
-1990年代後半から2000年代初頭にかけて、再発盤やアーカイブ掘り起こしが進み、アシッド・フォークやサイケデリック・フォークが再評価された。これにより、若い世代のミュージシャンが歴史的参照点としてこれらを吸収し始める。
+De la fin des années 1990 au début des années 2000, le folk acide et le folk psychédélique ont été réévalués au fur et à mesure des rééditions et des archives. Cela permet aux jeunes générations de musiciens de commencer à les intégrer comme points de référence historiques.
 
-重要なのは、単なる復古ではなく、録音と編集の自由度が増した環境で再解釈された点である。
+Ce qui est important, c'est qu'il ne s'agit pas seulement d'une restauration, mais d'une réinterprétation dans un environnement offrant une liberté accrue d'enregistrement et de montage.
 
-> "歴史的音源は引用されるが、音響的再現は目的ではない"
+> "Des sources historiques sont citées, mais la reproduction acoustique n'est pas le but."
 
 ---
 
-## 第2章：Neo-Psychedelic Folkの定義的特徴
+## Chapitre 2 : Définir les caractéristiques du folk néo-psychédélique
 
-### 2-1. 音楽構造
+### 2-1. Structure musicale
 
-Neo-Psychedelic Folkの楽曲は、短いモチーフの反復、明確なAメロ・Bメロ構造の希薄化、集団コーラスによる旋律の曖昧化、調性感の揺らぎといった構造的傾向を持つ。これらは伝統的フォークの単純化ではなく、編集による複層化によって成立している。
+Les chansons de Neo-Psychedelic Folk ont ​​des tendances structurelles telles que la répétition de motifs courts, la dilution de la structure claire de la mélodie A/la mélodie B, le brouillage de la mélodie avec des refrains collectifs et des fluctuations de tonalité. Il ne s’agit pas d’une simplification du folk traditionnel, mais d’une création multicouche via l’édition.
 
-### 2-2. 音響処理
+### 2-2. Traitement acoustique
 
 Une expansion spatiale utilisant la réverbération et le retard, des fluctuations de hauteur qui imitent les fluctuations de type bande et un mélange de lo-fi et de hi-fi sont utilisés. Les enregistrements étaient réalisés à la maison ou dans un studio de fortune, et l'inégalité de la qualité sonore était traitée comme une esthétique en soi.
 
@@ -150,7 +150,7 @@ flowchart TD
 
 ---
 
-## Chapitre 9 : Redéfinir le rythme et la physicalité
+## Chapitre 9 : Redéfinir le rythme et la physicalité
 
 Le rythme du folk néo-psychédélique agit sur le corps d’une manière différente de la pulsion physique de la musique de danse. L'accent mis sur les battements clairs est évité et des répétitions périodiques mais amorphes sont utilisées. En conséquence, le corps de l’auditeur n’est pas « déplacé » mais placé dans un état de « dérive ».
 
@@ -160,7 +160,7 @@ Dans les premières œuvres d'Animal Collective, les percussions et les claqueme
 
 ---
 
-## Chapitre 10 : Traitement des voix et collectivité populaire
+## Chapitre 10 : Traitement des voix et collectif populaire
 
 La voix est l’un des éléments les plus importants du folk néo-psychédélique. La répartition des rôles entre chanteur principal et accompagnateur est affaiblie et plusieurs voix sont placées dans la même ligne. La qualité vocale, le chevauchement et la réverbération sont prioritaires sur la clarté des paroles.
 
@@ -214,7 +214,7 @@ Le folk néo-psychédélique a interagi avec la dream pop, la pop expérimentale
 
 ## Dernier chapitre
 
-Le Neo-Psychedelic Folk n’est pas un genre qui préserve le psychédélisme du passé, mais une pratique éditoriale qui renouvelle les expériences perceptuelles. Le son collectif d'Animal Collective et l'introspection des premières œuvres de Tame Impala sont le résultat d'une simplicité folk combinée à des environnements de production contemporains.
+Le Neo-Psychedelic Folk n’est pas un genre qui préserve le psychédélisme du passé, mais une pratique éditoriale qui renouvelle les expériences perceptuelles. Le son collectif d'Animal Collective et l'introspection des premières œuvres de Tame Impala sont le résultat d'une simplicité folk combinée à un environnement de production contemporain.
 
 Cette tendance n’est pas comprise comme un style achevé, mais comme un corps en mouvement constamment reconfiguré.
 

@@ -42,13 +42,13 @@ color: #fff;
 ### Chapitre 1 : Les ombres de Manchester
 
 **"Mouvement embryonnaire post-punk"**
-À la fin des années 1970, la Grande-Bretagne était en pleine récession économique et en déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
+À la fin des années 1970, la Grande-Bretagne était en proie à une récession économique et à un déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
 
 **"L'aube de la formation du groupe"**
 En 1976, Bernard Sumner, Peter Hook et Stephen Morris se rencontrent et fondent Joy Division. Les premiers membres se sont connectés grâce à l'école et à la scène punk locale, et au début ils ont joué des reprises, mais ont finalement évolué vers des chansons originales qui reflétaient leur sentiment d'isolement et la morosité de la ville.
 
 **"Fil d'influence"**
-Le Kraftrock de Kraftwerk et Neu!, les sons froids et durs du Velvet Underground et les éléments avant-gardistes de David Bowie et Roxy Music ont constitué la base des premiers sons de Joy Division.
+Le kraftrock de Kraftwerk et Neu!, les sons froids et durs du Velvet Underground et les éléments avant-gardistes de David Bowie et Roxy Music ont constitué la base des premiers sons de Joy Division.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -120,7 +120,7 @@ Amazonで購入 → [Movement](https://amzn.to/4mXprzN)
 Avec des chansons telles que « Power, Corruption & Lies », « Low-Life » et « Technique », ils ont approfondi leur fusion de rock, de synthé et de danse. Ils expérimentent différentes techniques de production sur chaque album, augmentant ainsi leur réception dans les clubs et à la radio.
 
 **"Fusion vidéo/design et son"**
-L'œuvre de Peter Saville relie la musique et les visuels et établit l'identité de la marque New Order. Le design est devenu un élément important qui exprimait symboliquement le contenu de l'album.
+L'œuvre de Peter Saville relie la musique et les visuels et établit l'identité de la marque New Order. Le design est devenu un élément important pour exprimer symboliquement le contenu de l'album.
 
 **"Coopération et frictions entre les membres"**
 La division des rôles et les opinions contradictoires entre Sumner, Hook, Morris et Gillian Gilbert créent des tensions au sein du groupe à mesure que la musique évolue. La friction est également devenue un moteur de créativité.
@@ -171,7 +171,7 @@ Autrement dit, c'est dans le silence de Joy Division que germait le rythme de Ne
 
 La ville de Manchester était un lieu où les jeunes pouvaient s'exprimer au milieu d'une dévastation économique.
 La musique enregistrait les émotions de l’époque avec plus d’honnêteté que la politique ou la religion.
-Ce qui soutenait ce son était une étrange fusion de température, où la technologie enveloppe la douleur humaine.
+Et ce qui soutenait ce son était une étrange fusion de température, où la technologie enveloppe la douleur humaine.
 La réverbération de Martin Hannett, le design de Peter Saville, l'éclairage et l'architecture de Haçienda——
 Toutes ces choses se sont réunies pour former un espace culturel appelé Manchester Sound.
 

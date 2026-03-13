@@ -108,7 +108,7 @@ Mit dem WAVE-Kanal des Game Boy können Sie statt fester Wellenformen beliebige 
 
 ---
 
-## Kapitel 3: Tracker-Kultur und Chipune-Produktion – LSDj / Nanoloop / Famitracker
+## Kapitel 3: Tracker-Kultur und Chiptune-Produktion – LSDj / Nanoloop / Famitracker
 
 ### 3-1. Was ist Tracker?
 

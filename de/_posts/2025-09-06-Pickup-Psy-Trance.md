@@ -15,7 +15,7 @@ title: Holen Sie sich Psy-Trance-Werke
 
 
 
-„Klangschamanismus, wo Zukunft und Mythologie ineinandergreifen, Psy-Trance funktioniert“
+„Klangschamanismus, bei dem Zukunft und Mythologie ineinandergreifen, Psy-Trance funktioniert“
 
 ---
 
@@ -184,7 +184,7 @@ B2. Whales 'n' Wave (Edit)
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **Beschreibung**: Künstler aus Deutschland. Ein anspruchsvolles Werk, das modernen Psy-Trance mit raffiniertem Sounddesign zeigt.
+- **Beschreibung**: Künstler aus Deutschland. Ein ambitioniertes Werk, das modernen Psy-Trance mit raffiniertem Sounddesign zeigt.
 
 #### Trackliste
 ```md

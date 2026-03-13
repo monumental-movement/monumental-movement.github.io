@@ -14,7 +14,7 @@ title: Norma Sheffield – Schau mir in die Augen
 
 
 Norma Sheffield ist ein italienisches Eurobeat-Projekt. Ihre öffentliche Persönlichkeit ist Francesca Contini, die auch als Komponistin tätig war.
-(Francesca Contini), aber der Gesang wurde von Chiara De Pieri übernommen.
+(Francesca Contini), aber der Gesang wurde von Chiara De Pieri gesungen.
 
 Die Produktion/der Produzent ist Dave Rodgers, italienischer Produzent und Mitbegründer des Eurobeat-Labels A.Beat-C.
 

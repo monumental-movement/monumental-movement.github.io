@@ -13,7 +13,7 @@ title: Patrick Bernhardt – Atlantis Angelis
 ---
 
 
-'Atlantis Angelis'는 캐나다 라벨 'Imagine Records'에서 출시된 Patrick Bernhardt의 앨범 카세테 테이프입니다.
+Atlantis Angelis는 캐나다 라벨인 Imagine Records에서 발표된 Patrick Bernhardt의 앨범 카세테 테이프입니다.
 
 
 #### Tracklist

@@ -89,7 +89,7 @@ Dabei spielen Streichinstrumente, Klavier, Chor und Schlaginstrumente eine zentr
 
 ### Jackenkunst und visuelle Darstellung
 
-Neoklassische Darkwave-Bilder beziehen sich häufig auf religiöse Gemälde, mittelalterliche Manuskripte, symbolistische Gemälde und ruinöse Landschaften. Die Personen sind in der Regel anonym und Kompositionen, die weder Zeit noch Ort angeben, werden ausgewählt.
+Neoklassische Darkwave-Bilder beziehen sich oft auf religiöse Gemälde, mittelalterliche Manuskripte, symbolistische Gemälde und ruinöse Landschaften. Die Personen sind in der Regel anonym und Kompositionen, die weder Zeit noch Ort angeben, werden ausgewählt.
 
 ### Farbe und Textur
 

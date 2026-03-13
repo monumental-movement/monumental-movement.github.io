@@ -13,7 +13,7 @@ title: MK – Burning
 ---
 
 
-MK(Marc Kinchen/마크 킨첸)는 디트로이트 출신의 음악 프로듀서/DJ/리믹서. Burning은 MK의 대표작 중 하나.
+MK(Marc Kinchen/마크·킨첸)는, 디트로이트 출신의 음악 프로듀서/DJ/리믹서. Burning은 MK의 대표작 중 하나.
 
 A면 1곡째는, 네덜란드 출신의 댄스 뮤직 프로듀서/DJ팀 Klubbheads(클럽 헤드)에 의한 remix.
 

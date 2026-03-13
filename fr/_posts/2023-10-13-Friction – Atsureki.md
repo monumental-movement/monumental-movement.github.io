@@ -16,7 +16,7 @@ title: Friction – friction
 "Friction" est le premier album studio complet du groupe punk rock japonais Friction, sorti en 1980. Le producteur et ingénieur du son est Ryuichi Sakamoto. Cet album est une réédition de 2005.
 
 [Membres participants]
-・Enregistrement – ​​chant, basse, guitare
+・Enregistrement - chant, basse, guitare
 ・Satoshi Tsunematsu - Guitare
 ・Chico Hige – batterie, saxophone
 

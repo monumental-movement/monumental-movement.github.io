@@ -16,7 +16,7 @@ title: '[Chronique] La musique religieuse dans le monde et ses effets psychologi
 ---
 
 
-## Prologue : L'universalité de la musique et de la religion
+## Prologue : Universalité de la musique et de la religion
 
 
 Texte : mmr｜Thème : Comparer la musique religieuse du monde entier du point de vue de l'histoire, de la psychologie et des effets physiologiques, et la comprendre à travers des illustrations
@@ -214,7 +214,7 @@ timeline
 La musique religieuse touche profondément l'esprit humain et apporte **l'harmonie entre le corps, l'esprit et la société**.
 Des mantras anciens à la musique ambiante moderne, le thème sous-jacent est une expérience transcendantale à travers le son.
 
-Même si les religions changent, le pouvoir du son reste dans la même direction.
+Même si les religions changent, le pouvoir du son va dans la même direction.
 C'est le **rythme universel de la prière**.
 
 ---

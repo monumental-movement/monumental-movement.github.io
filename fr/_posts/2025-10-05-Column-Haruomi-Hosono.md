@@ -21,7 +21,7 @@ Texte : mmr｜Thème : De Happy End à YMO en passant par Ambient – Retrac
 
 **Haruomi Hosono** est un musicien qui continue de transformer la musique pop japonaise depuis un demi-siècle.
 De la fin des années 1960 jusqu’à aujourd’hui, sa musique s’est creusée un horizon unique en « déplaçant l’époque » plutôt qu’en « définissant l’époque ».
-Diverses cultures, humour, nostalgie, technologie : tout cela se mélange dans le son de Hosono.
+Diverses cultures, humour, nostalgie, technologie, tout cela se fond dans le son de Hosono.
 
 ---
 
@@ -59,7 +59,7 @@ Un ami a ajouté des effets sonores et des rires aux enregistrements, et son sen
 ### Chapitre 1 : Happy End - L'aube du rock japonais (1969-1972)
 
 #### Œuvre représentative : « Kazamachi Roman » (1971)
-Une œuvre monumentale qui dépeint pour la première fois l'atmosphère poétique de la ville de Tokyo dans le contexte du rock.
+Une œuvre monumentale qui dépeint pour la première fois l’atmosphère poétique de la ville de Tokyo dans le contexte du rock.
 Durant cette période, Hosono a joué un rôle important dans la composition musicale tout en jouant de la basse.
 Des chansons telles que « It's Summer » et « Gather the Wind » ont un son urbain mais nostalgique.
 
@@ -160,14 +160,14 @@ Cette atmosphère détendue se reflète dans le son chaleureux et organique.
 
 #### Travaux représentatifs :
 - **Yellow Magic Orchestra『Solid State Survivor』(1979)**
-- **"BGM" (1981)**
+- **« Musique de fond » (1981)**
 - **"Technodélique" (1981)**
 
 YMO (Yellow Magic Orchestra) est une unité révolutionnaire qui a fait connaître la techno pop à travers le monde.
 En tant que leader, Hosono a utilisé des machines à rythmes et des séquenceurs pour fusionner humour asiatique et sons futuristes.
 
 #### Contexte historique
-Au début des années 1980, le Japon atteint l’apogée de sa prospérité technologique et économique.
+Au début des années 1980, le Japon atteint le sommet de sa croissance technologique et économique.
 Une époque où le développement des ordinateurs, des jeux vidéo et des instruments de musique électroniques fusionnait avec la musique.
 Le son de YMO était un symbole du Japon en tant que nation électronique.
 
@@ -218,7 +218,7 @@ Hosono a dit en plaisantant : « La musique, c'est vivre avec le hasard. »
 - "EMI" (1995)
 
 C'était une époque où il travaillait sur la musique pour une grande variété de médias, notamment l'animation, les films et les publicités.
-``Night on the Galactic Railway'' brille par des compositions délicates qui semblent traduire en son la littérature fantastique de Kenji Miyazawa.
+``Night on the Galaxy Express'' brille par des compositions délicates qui semblent traduire en son la littérature fantastique de Kenji Miyazawa.
 
 #### Contexte historique
 Après l'éclatement de la bulle économique, les valeurs du Japon ont été ébranlées.
@@ -254,7 +254,7 @@ Hosono incarne cette tendance à travers ses sons, en disant : « La nostalgie i
 #### Environnement de production
 "Daisyworld Studio" est un studio privé à Nakameguro.
 Utilise un microphone vintage, un écho à bande et un piano droit.
-Pendant l'enregistrement, il a éteint le climatiseur et s'est concentré sur « la respiration du son ».
+Pendant l'enregistrement, il a éteint la climatisation et s'est concentré sur « la respiration du son ».
 
 #### Anecdote
 Quand l'ingénieur du son a arrêté de mixer pendant l'enregistrement de "HoSoNoVa",

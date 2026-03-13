@@ -16,7 +16,7 @@ title: Samim Feat. Big Bully – The Lick
 
 「The Lick」은, 2008년에 라벨 Get Physical(게트 피지컬)로부터 릴리스된 Minimal/Tech House.
 
-A&B1은, 90년대 시카고 하우스의 대표적 존재 Derick Carter(데릭 카터)에 의한 remix.
+A&B1은, 90년대 시카고 하우스의 대표적 존재 Derrick Carter(데릭 카터)에 의한 remix.
 
 #### Tracklist
 ```md

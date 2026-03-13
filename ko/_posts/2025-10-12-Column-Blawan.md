@@ -48,7 +48,7 @@ color: #fff;
 </style>
 
 
-## 제1장 Bohla로 시작하는 철의 이야기
+## 제1장 Bohla로 시작하는 철 이야기
 
 2011년, R&S Records로부터 릴리스된 「Bohla EP」.
 딱딱하고 기묘하게 부드러운 리듬이 클럽에 "새로운 무게"를 가져왔다.
@@ -77,7 +77,7 @@ DAW 안이 아니라 **손가락 끝과 노브로 소리를 잡는다**.
 
 많은 DJ가 이 트랙을 피크 타임에 투하하고,
 클럽 플로어가 한순간 '폭력적인 도취'에 휩싸였다고 한다.
-이 노래는 단순히 히트가 아니라
+이 노래는 단순히 히트가 아니라,
 테크노에게 “감정 없는 감정”을 되살린 상징이었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -112,7 +112,7 @@ Karenn의 라이브는 「연주」라기보다 「단조」에 가깝다.
 금속처럼 무표정한 소리 속에서 가끔 호흡 같은 사이가 나타난다.
 그 작은 틈새에 인간의 감정이 퍼진다.
 
-소리를 깎아내어 구조만 남긴다.
+소리를 깎아내어 구조만을 남긴다.
 그 스토크함이 반대로, Blawan의 “정서”를 두드러지게 하고 있다.
 
 ---
@@ -125,7 +125,7 @@ Karenn의 라이브는 「연주」라기보다 「단조」에 가깝다.
 하드웨어 노이즈가 어딘가 부드럽게 들린다.
 
 클럽이 닫혀도 신체의 리듬은 사라지지 않았다.
-그는 **모듈러 신디안에서 '인간의 호흡'을 발견했다**.
+그는 **모듈러 신디안에서 “인간의 호흡”을 발견했다**.
 전자기기가 심장의 고동을 모방한다――그런 역설적인 시대의 소리이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -202,7 +202,7 @@ flowchart TD
 
 ## 부록 : 목소리 조각 - Blawan과 그 주변이 말하는 "소리"와 "몸"
 
-> "테크노를 만들 때 나는 '곡'을 만들지 않았다.
+> “테크노를 만들 때 나는 '곡'을 만들지 않았다.
 > 단지, 리듬이 공기를 떨리는 순간을 쫓고 있을 뿐. "
 > —— **Blawan**
 
@@ -282,7 +282,7 @@ Blawan의 소리는 때로는 차갑고 때로는 거칠다.
 Blawan은 차가운 세계에 피를 통하게 하는 아티스트이다.
 
 > 「소리는, 신체의 그림자다」
->——Blawan (인터뷰에서)
+>——Blawan(인터뷰에서)
 
 
 ---
@@ -343,7 +343,7 @@ flowchart TD
 
 | 구분 | 장비 | 용도 | 특징 |
 | ---------- | ------------------------------------ | ---------- | -------------------- |
-| Sequencer | ** Intellijel Metropolis ** | 멜로디 리듬 생성 | 하드 16 스텝 감을 중시 |
+| Sequencer | ** Intellijel Metropolis ** | 멜로디 리듬 생성 | 하드 16 스텝 느낌을 중시 |
 | Oscillator | **Verbos Complex VCO / Plaits** | 메인 발진원 | 아날로그 왜곡과 디지털 입자를 병용 |
 | Drum Synth | **Moog DFAM** | 금속 타악기 | Blawan 사운드의 "산업 소음"핵 |
 | FX Chain | **Analog Heat / Mimeophon / BigSky** | 텍스처 조정 | 드라이브 및 리버브로 공간 구축 |
@@ -368,7 +368,7 @@ Blawan은 "타격"이 아니라 "연주"를하고있다.
 모두가 스마트폰으로 소리를 소비하는 시대에
 Blawan은 **“만지는 소리”**를 되찾으려고 한다.
 
-강철 같은 소리 속에 인간의 온기가 있다.
+스틸 같은 소리 속에 인간의 온기가 있다.
 그 모순이야말로 그의 존재 이유다.
 
 > “나는 테크노를 믿고 있다.

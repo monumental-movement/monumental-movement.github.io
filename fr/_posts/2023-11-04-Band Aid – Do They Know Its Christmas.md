@@ -41,7 +41,7 @@ Les [Artistes participants] sont les suivants.
 
 ・Paul Weller (Conseil de style)
 
-・Kool et le gang
+・Kool et la bande
 
 ・George Michael (Wham!)
 

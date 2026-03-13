@@ -91,7 +91,7 @@ Mit dieser Arbeit ist Hawtin der erste Künstler, der „Minimalismus“ mit „
 
 ## Kapitel 4: Technologie und der Körper – Neuaufbau des LIVE-Konzepts
 Hawtin leistete auch Pionierarbeit bei der Verschmelzung von Technologie und Leistung.
-In den 2000er Jahren **definierte er das DJ-Spiel neu** mit der „DE9“-Serie und etablierte den „**Prototyp des digitalen DJs**“, der Ableton Live und Traktor nutzte, um Tracks in Echtzeit zu rekonstruieren.
+In den 2000er Jahren **definierte er das DJ-Spiel neu** mit der „DE9“-Serie und etablierte den „**Prototyp des digitalen DJ**“, der Ableton Live und Traktor nutzte, um Tracks in Echtzeit zu rekonstruieren.
 
 Auf seiner Bühne wurde eine Umgebung aufgebaut, in der MacBook, MIDI-Controller, Beleuchtung und Video vollständig synchronisiert waren und ein neues Konzept von „Live = Atemdaten“** präsentierte.
 
@@ -242,7 +242,7 @@ graph TD
 ---
 
 
-## Illustration: Plastikman-Klangstruktur
+## Illustration: Struktur des Plastikman-Sounds
 
 <div class="mermaid">
 
@@ -306,7 +306,7 @@ Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen
 | 2019 | Plastikmann | **DE9: 2.0 / Live** | Modulare + digitale Bearbeitung.           |
 
 
-> Das Minus-Label ist ein Testgelände für Plastikmans Ideen, eine Plattform, die Künstlern die Freiheit gibt, klangliche Freiheiten zu erkunden.
+> Das Minus-Label ist ein Testgelände für Plastikmans Ideen, eine Plattform, die Künstlern die Freiheit gibt, ihren Sound zu erkunden.
 
 
 ---

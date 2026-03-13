@@ -58,7 +58,7 @@ Repräsentative Künstler:
 
 - **Ausgewaschen** (Ernest Greene)
 - Ihre EP „Life of Leisure“ aus dem Jahr 2009 gilt als Meisterwerk des Genres.
-- **Neon-Indianer** (Alan Palomo)
+- **Neon Indian** (Alan Palomo)
 - „Psychic Chasms“ aus dem Jahr 2009 ist ein symbolträchtiges Werk der Szene.
 - **Toro y Moi** (Chaz Bear)
 - 2010 mit „Causes of This“ als bedeutender Chillwave-Act anerkannt.
@@ -76,7 +76,7 @@ Merkmale:
 
 - **Musik, die Filme, Science-Fiction und Synth-Pop der 1980er Jahre direkt reproduziert**
 - **Konzentriert sich auf analoge Synthesizer (Juno-106, DX7, Prophet usw.)**
-- **4/4 treibender Beat (Synthwave)**
+- **treibender 4/4-Beat (Synthwave)**
 - **Langsamer Ambient (Dreamwave/Retrowave)**
 - **Neon, Gitter, Pink x Blau 80er-Jahre-Visuals**
 

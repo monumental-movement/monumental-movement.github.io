@@ -59,7 +59,7 @@ Diese Idee zeichnet sich dadurch aus, dass Improvisation als „Klangproduktion 
 
 ### Strukturmerkmale und Zeitgestaltung
 
-Die Liedstrukturen von Weather Report verzichten oft auf ein lineares Format thematischer Präsentation und abwechselnder Soli und nehmen stattdessen eine zyklische und variable Struktur an. Kurze Motive und Akkordfragmente werden wiederholt, wobei sich Rhythmusanordnung, Tonumfang und Klangfarbe jedes Mal ändern, was zu einer allmählichen Transformation des gesamten Stücks führt.
+Die Songstrukturen von Weather Report verzichten oft auf ein lineares Format thematischer Präsentation und abwechselnder Soli und nehmen stattdessen eine zyklische und variable Struktur an. Kurze Motive und Akkordfragmente werden wiederholt, wobei sich Rhythmusanordnung, Tonumfang und Klangfarbe jedes Mal ändern, was zu einer allmählichen Transformation des gesamten Stücks führt.
 
 <div class="mermaid">
 flowchart TD
@@ -82,7 +82,7 @@ Die Tastatur nutzt ein E-Piano oder einen Synthesizer, und anstatt einen harmoni
 
 ### Entstehung und Ästhetik der Band
 
-Das Mahavishnu Orchestra nahm seine Tätigkeit Anfang der 1970er Jahre auf und zeichnete sich durch extrem schnelle Tempi, komplexe Taktarten und einen streng komponierten Unisono aus. Während Weather Report den Schwerpunkt auf die Erzeugung von Flüssigkeiten legte, kontrastiert Mahavishnu Orchestra mit der Betonung der Konstruierbarkeit und Reproduzierbarkeit.
+Das Mahavishnu Orchestra nahm seine Tätigkeit in den frühen 1970er Jahren auf und zeichnete sich durch extrem schnelle Tempi, komplexe Taktstrukturen und einen streng komponierten Unisono aus. Während Weather Report den Schwerpunkt auf die Erzeugung von Flüssigkeiten legte, kontrastiert Mahavishnu Orchestra mit der Betonung der Konstruierbarkeit und Reproduzierbarkeit.
 
 Die Improvisation findet hier eher in einem komponierten Rahmen als in völliger Freiheit statt. Jeder Künstler muss innerhalb höchster technischer Grenzen auftreten, und das Ensemble als Ganzes verfügt über die Integrität einer Präzisionsmaschine.
 
@@ -145,7 +145,7 @@ Die Verbreitung elektrischer Instrumente hatte nicht nur direkte Auswirkungen au
 
 ## Auswirkungen auf nachfolgende Generationen
 
-Progressiver Jazz/Fusion hinterließ ein Erbe des Denkens, das strukturelles Design und Klangfarbenzentrismus im späteren zeitgenössischen Jazz, experimentellen Rock und elektronischer Musik verband. Die Haltung, Improvisation und Komposition als Kontinuum und nicht als gegensätzliche Konzepte zu behandeln, hat sich als genreübergreifende kreative Haltung vererbt.
+Progressiver Jazz/Fusion hinterließ ein Erbe des Denkens, das strukturelles Design und Klangfarbenzentrismus im späteren zeitgenössischen Jazz, experimentellen Rock und elektronischer Musik verband. Die Haltung, Improvisation und Komposition als Kontinuum und nicht als gegensätzliche Konzepte zu behandeln, hat sich als kreative Haltung über alle Genres hinweg vererbt.
 
 ---
 

@@ -22,12 +22,12 @@ title: '[Chronique] Musique et son de la conscience : le parcours des musiciens
 Texte : mmr｜Thème : Le moment où la musique et la méditation Vipassana se croisent – ​​sur le voyage intérieur des musiciens et l'approfondissement de leur créativité
 
 
-musique et méditation. À première vue, ces deux domaines semblent appartenir à des domaines complètement différents, mais tous deux nécessitent une profonde observation intérieure, une respiration et une concentration sur le rythme, et ils partagent un terrain commun qui favorise la sensibilité humaine.
+musique et méditation. À première vue, ces deux domaines semblent appartenir à des domaines complètement différents, mais tous deux nécessitent une observation intérieure profonde, une respiration et une concentration sur le rythme, et ils partagent un terrain commun qui favorise la sensibilité humaine.
 Parmi celles-ci, la **méditation Vipassana (Insight Meditation)** a été acceptée par des personnes du monde entier comme une technique permettant d'observer les pensées et les sensations telles qu'elles sont réellement.
 
 Cette chronique se concentre sur **des musiciens célèbres qui ont pratiqué et expérimenté la méditation Vipassana** et fournit une introduction factuelle sur la façon dont ils ont intégré la méditation dans leurs propres créations et vies.
 
-> La méditation Vipassana est transmise depuis l'Antiquité comme méthode de méditation permettant de « voir les choses telles qu'elles sont réellement » et, à l'époque moderne, de nombreux pratiquants apparaissent non seulement parmi les athlètes et les dirigeants d'entreprise, mais également parmi les artistes créatifs.
+> La méditation Vipassana est transmise depuis l'Antiquité comme méthode de méditation permettant de « voir les choses telles qu'elles sont réellement » et, à l'époque moderne, de nombreux pratiquants apparaissent non seulement parmi les athlètes et les managers, mais également parmi les artistes créatifs.
 
 ---
 
@@ -53,7 +53,7 @@ color: #fff;
 La méditation Vipassana a ses racines dans la tradition bouddhiste, mais elle s’est répandue en tant que technique universelle distincte de la religion.
 Les bases consistent à **observer attentivement votre respiration et vos sensations corporelles, et à reconnaître le flux naturel des pensées et des émotions**.
 
-Les praticiens modernes rapportent souvent que l'observation et la conscience calment les réactions de l'esprit, ce qui entraîne **une créativité et une concentration accrues**.
+Les praticiens modernes rapportent souvent qu'ils peuvent calmer leurs réactions mentales grâce à l'observation et à la conscience, et par conséquent **la créativité et la concentration s'améliorent**.
 
 ---
 
@@ -135,7 +135,7 @@ De nombreux autres artistes apprennent la méditation pour s’explorer, amélio
 
 ---
 
-## Conclusion : Un voyage de sensibilisation et de musique
+## Conclusion : Un voyage de conscience et de musique
 
 La méditation Vipassana n'est pas seulement un exercice d'entraînement mental, mais un moyen de faire face aux vérités profondes de la vie à travers l'auto-observation.
 Et cela apporte aussi beaucoup de sensibilisation au monde de l’expression musicale.

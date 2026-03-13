@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Positionner les drones modulaires comme une intersection 
 
 Le jazz/fusion progressif est une tendance de développement du jazz qui s'est formée de la fin des années 1960 aux années 1970 et a été établie à la suite de l'intégration simultanée de plusieurs idiomes musicaux tels que le jazz modal, le post-bop, le rock, le funk, la musique contemporaine et la musique folk. « Progressif » ne signifie pas ici simplement sophistication technique, mais fait référence à l'attitude elle-même qui continue de réorganiser la structure musicale, la conception rythmique, l'arrangement des timbres et la relation entre improvisation et composition.
 
-Même si le terme fusion est souvent compris comme un compromis entre jazz et rock, la réalité est plus complexe. Les conditions externes telles que la standardisation des instruments électriques, l'évolution de la technologie de sonorisation et de studio, les changements dans les supports d'enregistrement et l'accélération des échanges musicaux internationaux ont directement influencé les styles d'interprétation et la conception structurelle. Dans cet article, nous analyserons la logique interne du jazz/fusion progressif, en nous concentrant sur le Weather Report et le Mahavishnu Orchestra, qui constituent le cœur de cette tendance, tout en décortiquant la structure, les instruments et la philosophie de l'interprétation.
+Même si le terme fusion est souvent compris comme un compromis entre jazz et rock, la réalité est plus complexe. Les conditions externes telles que la standardisation des instruments électriques, l'évolution de la technologie de sonorisation et de studio, les changements dans les supports d'enregistrement et l'accélération des échanges musicaux internationaux ont directement influencé les styles d'interprétation et la conception structurelle. Dans cet article, nous analyserons la logique interne du jazz/fusion progressif, en nous concentrant sur le Weather Report et le Mahavishnu Orchestra, qui constituent le cœur de cette tendance, tout en décortiquant la structure, les instruments et la philosophie de l’interprétation.
 
 ---
 
@@ -45,7 +45,7 @@ color: #fff;
 
 À la fin des années 1960, le jazz a élargi son vocabulaire au-delà du hard bop et a gagné en flexibilité dans sa structure temporelle grâce au jeu modal et à l'improvisation libre. D’un autre côté, la musique rock se transformait en une musique basée sur des volumes forts et des rythmes répétitifs, conçue pour des environnements d’écoute à grande échelle. La maturation des instruments électriques et de la technologie d’amplification a élargi le lien entre les deux à un niveau physique plutôt qu’idéologique.
 
-Au cours de cette période, de nombreux musiciens de jazz ont introduit les pianos électriques, les basses électriques et les guitares amplifiées, créant des ensembles basés sur la manipulation du volume, du sustain et du timbre qui étaient impossibles avec les formations acoustiques traditionnelles. En conséquence, de nouvelles formes de performance comportant de longues structures, des riffs cycliques, des mesures complexes et des structures répétitives se sont imposées, et le jazz/fusion progressif a fini par être reconnu comme un courant distinct.
+Au cours de cette période, de nombreux musiciens de jazz ont introduit les pianos électriques, les basses électriques et les guitares amplifiées, créant des ensembles basés sur la manipulation du volume, du sustain et du timbre qui étaient impossibles avec les formations acoustiques traditionnelles. En conséquence, de nouvelles formes de performance comportant de longues structures, des riffs circulaires, des mesures complexes et des structures répétitives se sont imposées, et le jazz/fusion progressif a fini par être reconnu comme un courant distinct.
 
 ---
 
@@ -82,7 +82,7 @@ Le clavier utilise un piano électrique ou un synthétiseur, et plutôt que de p
 
 ### Formation et esthétique du groupe
 
-L'Orchestre Mahavishnu a commencé ses activités au début des années 1970 et se caractérisait par des tempos extrêmement rapides, des signatures rythmiques complexes et un unisson strictement composé. Alors que Weather Report mettait l'accent sur la génération fluide, Mahavishnu Orchestra contraste avec l'accent mis sur la constructibilité et la reproductibilité.
+L'Orchestre Mahavishnu a commencé ses activités au début des années 1970 et se caractérisait par des tempos extrêmement rapides, des structures de signature rythmique complexes et un unisson strictement composé. Alors que Weather Report mettait l'accent sur la génération fluide, Mahavishnu Orchestra contraste avec l'accent mis sur la constructibilité et la reproductibilité.
 
 L'improvisation se déroule ici dans un cadre composé plutôt que dans une liberté totale. Chaque interprète est tenu de se produire dans le cadre de contraintes hautement techniques, et l'ensemble dans son ensemble possède l'intégrité d'une machine de précision.
 

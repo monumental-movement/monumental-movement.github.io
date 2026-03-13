@@ -131,7 +131,7 @@ color: #fff;
 
 ---
 
-## Reise des Rhythmus
+## Rhythmusreise
 Tribal House ist nicht nur Clubmusik, sondern eine „rhythmische Reise“, die sich weltweit verbreitet hat und sich mit jeder Ära verändert. Es wird weiterhin Aufmerksamkeit erregen als ein Genre, das sich durch die Verschmelzung von Technologie weiterentwickelt und gleichzeitig seine afrikanischen Wurzeln übernimmt.
 
 

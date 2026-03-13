@@ -9,12 +9,12 @@ permalink: /fr/psychotropic-only-for-the-headstrong/
 tags:
 - Break Beat
 - House
-title: Psychotropic – Only For The Headstrong
+title: Psychotrope – Uniquement pour les entêtés
 ---
 
 
-「Only For The Headstrong」は、
-1991年にUKのレーベル「02 Records」からリリースされたPsychotropicのEPです。
+"Seulement pour les têtus" est
+Il s'agit d'un EP de Psychotropic sorti en 1991 par le label britannique « 02 Records ».
 
 
 #### Liste des chansons

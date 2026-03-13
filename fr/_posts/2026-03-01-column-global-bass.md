@@ -24,7 +24,7 @@ Texte : mmr｜Thème : Histoire de la fusion rythmique globale liée par des bas
 Global Bass est un concept global qui fait référence à une tendance dans laquelle la musique régionale, les rythmes traditionnels et la musique de danse urbaine du monde entier ont été reconstruits grâce à une conception sonore basée sur la basse électronique.
 Il montre le phénomène de la musique locale rééditée dans un contexte de club et distribuée via des réseaux transfrontaliers, plutôt que par un seul genre.
 
-* Fusion de rythmes régionaux et de musique basse
+* Fusion de rythmes régionaux et de basse music
 * Diffusion à travers les villes d'immigration et les circuits de festivals
 * Distribution décentralisée à l'ère d'Internet
 *Traduction culturelle et recontextualisation
@@ -112,7 +112,7 @@ Connecter le dancehall et l’EDM.
 
 Ce sont là des exemples typiques de rythmes régionaux transposés dans les structures des clubs.
 
-> Si vous examinez chaque chanson individuellement, vous pouvez constater une innovation dans la structure rythmique.
+> En examinant chaque chanson, des innovations dans la structure rythmique peuvent être constatées.
 
 ---
 
@@ -136,7 +136,7 @@ En conséquence, Global Bass joue le rôle de relativiser la structure « centre
 Même s’il existe des succès commerciaux, il est à l’origine ancré dans la culture underground des DJ.
 
 **Q. En quoi est-ce différent de la musique du monde ? **
-La différence est qu’il est reconstruit dans le contexte d’une piste de danse de club plutôt que dans le contexte d’une musique d’appréciation.
+La différence est qu'il est reconstruit dans le contexte d'une piste de danse de club plutôt que dans le contexte d'une musique d'appréciation.
 
 **Q. Êtes-vous actuellement en expansion? **
 De nouveaux rythmes régionaux sont connectés en permanence via TikTok et le streaming.

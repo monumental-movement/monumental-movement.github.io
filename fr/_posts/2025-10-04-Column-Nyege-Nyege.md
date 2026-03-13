@@ -127,7 +127,7 @@ flowchart TD
 
 - Singeli n'est pas seulement une question de musique, mais est également intégré à l'expérience de la danse.
 
-- Un jeu de jambes complexe pour correspondre au rythme rapide
+- Jeu de jambes complexe pour correspondre au rythme rapide
 
 - Improvisation grâce à la collaboration avec le public
 
@@ -241,7 +241,7 @@ L'Electro Maloya est un style expérimental qui recrée la musique traditionnell
 | Mélodie | Synthé reconstitution de la mélodie et du refrain traditionnels |
 | Vocal | Principalement chorus, échantillonnage + réverbération |
 | Structure de la chanson | Fondation traditionnelle + création/démolition/abandon du club |
-| Son | Agrandissez l'espace avec des effets de boucle de synthé analogique |
+| Son | Agrandissez l'espace avec des effets de boucle de synthétiseur analogique |
 
 ---
 
@@ -349,5 +349,5 @@ Vous trouverez ci-dessous quelques liens YouTube recommandés liés à Nyege Nye
 ### <a id="conclusion"></a>Résumé
 
 Nyege Nyege est un groupe de musique important qui diffuse dans le monde une « musique étrangère » qui fusionne la musique traditionnelle africaine et la musique électronique moderne. Le label Nyege Nyege Tapes est à l'avant-garde dans la promotion de la fusion des musiques traditionnelles africaines et des musiques électroniques, notamment Shingeli, Akolitronics, Electro Maloya, etc.
-Nous avons acquis une position unique sur la scène musicale mondiale en préservant simultanément la culture locale, en exprimant la culture urbaine et de la jeunesse et en la diffusant à l'échelle internationale. Leurs activités nous rappellent l’importance non seulement de la musique, mais aussi de la diversité culturelle et de l’inclusion sociale. Nous continuerons de garder un œil sur leur musique et leurs activités.
+Nous avons acquis une position unique sur la scène musicale mondiale en préservant simultanément la culture locale, en exprimant la culture urbaine et de la jeunesse et en la diffusant à l'international. Leurs activités nous rappellent l’importance non seulement de la musique, mais aussi de la diversité culturelle et de l’inclusion sociale. Nous continuerons de garder un œil sur leur musique et leurs activités.
 

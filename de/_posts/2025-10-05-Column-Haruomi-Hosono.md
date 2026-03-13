@@ -21,7 +21,7 @@ Text: mmr｜Thema: Von Happy End über YMO bis Ambient – ​​Auf den Spuren 
 
 **Haruomi Hosono** ist eine Musikerin, die seit einem halben Jahrhundert die japanische Popmusik verändert.
 Von den späten 1960er Jahren bis zur Gegenwart hat seine Musik einen einzigartigen Horizont geschaffen, indem sie „die Ära veränderte“, anstatt „die Ära zu definieren“.
-Verschiedene Kulturen, Humor, Nostalgie, Technologie – all das vermischt sich in Hosonos Sound.
+Unterschiedliche Kulturen, Humor, Nostalgie, Technologie – all das vermengt sich in Hosonos Sound.
 
 ---
 
@@ -87,7 +87,7 @@ Danach wurde es für ihn zur Grundlage, seine eigenen Klangideale zu verfolgen.
 - „Caramel Mama“ (1975)
   
 Sie verschmelzen Elemente aus Folk und Psychedelic Rock und zeigen eine Musikalität, die direkt mit dem späteren Happy End verbunden ist.
-Hosono beteiligte sich am Bass und am Keyboard und stellte seine Improvisations- und Arrangierfähigkeiten unter Beweis.
+Hosono war am Bass und am Keyboard beteiligt und stellte seine Improvisations- und Arrangierfähigkeiten unter Beweis.
 
 #### Historischer Hintergrund
 Es war eine Übergangszeit, in der Folk- und psychedelische Musik in Japan Aufmerksamkeit erregte und eine urbane Rockkultur entstand.
@@ -110,7 +110,7 @@ Diese Erfahrung führte zu seiner späteren Arbeit an der Tropical Trilogy und d
 - „Tin Pan Alley“ (1977)
 
 Blues, R&B und Pop im Beatles-Stil werden auf Japanisch interpretiert, wobei der Schwerpunkt auf Musik liegt, die auf Schulfesten und Live-Musikveranstaltungen in Tokio gespielt wird.
-Hosono war für den Bass und die Komposition verantwortlich und demonstrierte damit ein frühes urbanes Gespür.
+Hosono war für den Bass und die Komposition verantwortlich und demonstrierte ein frühes urbanes Gespür.
 
 #### Historischer Hintergrund
 Die aufkommende Periode des urbanen Pop-Rock in Japan, beeinflusst von den Beatles und den Rolling Stones.
@@ -161,7 +161,7 @@ Diese entspannte Atmosphäre spiegelt sich im warmen, organischen Klang wider.
 #### Repräsentative Werke:
 - **Yellow Magic Orchestra『Solid State Survivor』 (1979)**
 - **„BGM“ (1981)**
-- **"Technodelic" (1981)**
+- **„Technodelic“ (1981)**
 
 YMO (Yellow Magic Orchestra) ist eine revolutionäre Einheit, die das Wort Techno-Pop auf der ganzen Welt verbreitet hat.
 Als Anführer nutzte Hosono Rhythmusmaschinen und Sequenzer, um asiatischen Humor und futuristische Klänge zu verbinden.

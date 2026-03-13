@@ -66,5 +66,5 @@ Das Debütalbum des niederländischen Duos Soeur Plus!, erschienen 1996.
 
 [メルカリで購入](https://jp.mercari.com/item/m78483157009?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4svCdEp6io?si=Og2p-G8a6-Tfnp70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

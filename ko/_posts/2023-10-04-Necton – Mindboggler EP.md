@@ -13,7 +13,7 @@ title: Necton – Mindboggler EP
 ---
 
 
-2000년 독일 라벨 'Spirit Zone Recordings'에서 출시된 넥톤의 EP입니다.
+2000 년 독일 라벨 "Spirit Zone Recordings"에서 출시 된 Necton의 EP입니다.
 
 Necton은 덴마크, 코펜하겐 출신의 전자 음악 프로젝트입니다. 이 프로젝트는 1997년에 결성되었습니다.
 

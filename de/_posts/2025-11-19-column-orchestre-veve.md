@@ -19,7 +19,7 @@ title: '[Kolumne] Orchestra Veve: Eine vollständige Geschichte der renommierten
 ## Prolog: Historische Bedeutung von Orchestra Veve
 
 
-Text: mmr｜Thema: Hintergrund der Gründung von Orchestra Veve, musikalische Merkmale der goldenen Ära, technische Aspekte, Analyse repräsentativer Songs, Vergleich mit anderen Bands
+Text: mmr｜Thema: Hintergrund der Gründung von Orchestra Veve, musikalische Merkmale der goldenen Ära, technische Aspekte, Analyse repräsentativer Lieder, Vergleich mit anderen Bands
 
 Orchestra Veve ist eine Band, die eine wichtige Position in der Musikgeschichte des Kongo (ehemals Zaire) einnimmt. Sie waren am Wendepunkt des Übergangs von der Rumba Congolaise zum Soukous aktiv und führten die Szene vor allem in den 1970er Jahren mit ihren kraftvollen Aufnahmen und innovativen Ensembles an.
 
@@ -41,7 +41,7 @@ color: #fff;
 
 # Kapitel 1 Hintergrund der Entstehung und Situation der kongolesischen Musikszene
 
-Bereits Ende der 1960er Jahre hatte die kongolesische Musik im Grande Quartier eine wettbewerbsfähige Live-Kultur geformt. Als starke Bands wie OK Jazz, African Fiesta und Zaïko miteinander konkurrierten und die Verfeinerung von Gitarrenensembles und Gesangspolyphonie zunahm, nahm die Zahl unabhängiger Labels zu, die den Erfolg junger Musiker unterstützten.
+Bereits Ende der 1960er Jahre hatte die kongolesische Musik im Grande Quartier eine wettbewerbsfähige Live-Kultur geformt. Da mehrere starke Bands wie OK Jazz, African Fiesta und Zaïko miteinander konkurrierten und die Verfeinerung von Gitarrenensembles und polyphonen Gesangsparts zunahm, nahm die Zahl unabhängiger Labels zu, die den Erfolg junger Musiker unterstützten.
 
 Orchestra Veve wurde inmitten dieser musikalischen Fluidität geboren, die durch die Urbanisierung und Medienexpansion in der Zeit nach der Unabhängigkeit hervorgerufen wurde. Insbesondere war es eine Zeit, in der aufgrund der Kombination aus der starken Tanzkultur des Kongo, dem wachsenden Einfluss von Rundfunkanstalten und der Nachfrage nach Auftritten in Straßenbars mehrere aufstrebende Bands entstanden.
 
@@ -85,7 +85,7 @@ Der Grund, warum dieses „Koexistenz von Quantität und Qualität“ möglich w
 
 - **Systematisierung zur Maximierung der Betriebsrate Ihres eigenen Studios**
 - **Rotationssystem zwischen den Darstellern**
-- **Reduzierte Aufnahmezeit pro Song (ein Song wurde in mehreren Stunden fertiggestellt)**
+- **Reduzierte Aufnahmezeit pro Song (ein Song ist in mehreren Stunden fertig)**
 - **Verbesserte Reproduzierbarkeit durch die Erstellung von Ensemble-Vorlagen**
 
 Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentative Lieder, die in diesem goldenen Zeitalter entstanden sind.
@@ -104,7 +104,7 @@ Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die 
 
 Veves Leadgitarre zeichnete sich durch eine schärfere „Notch“-Melodie aus als andere Bands dieser Zeit. Besonders auffällig bei Aufnahmen aus den 1970er Jahren.
 
-- chromatischer Leitanstieg
+- Chromatischer Leitanstieg
 - schnelles Tremolo
 - Kurze Motivwiederholungen von 2-4 Takten
 
@@ -115,7 +115,7 @@ war ein Symbol des Veve-Sounds. Es beeinflusste auch die späteren Rapa-Lapa- �
 Veves Gesang basiert auf **drei- bis vierstimmiger Harmonie**, wobei eine Person die Hauptmelodie beibehält, während die anderen zwei oder drei die Gegenmelodie hinzufügen.
 Verglichen mit der einzeiligen Musik von ZAïko und der auf tiefen Harmonien basierenden Musik von OK Jazz liegt Veve irgendwo dazwischen, mit vielen **leichten und hellen Harmonien**.
 
-## Innovation in der Rhythmusgruppe
+## Innovation in der Rhythmussektion
 
 Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter ist als die Soukous aus derselben Zeit und eine Textur beibehält, die der einer Rumba ähnelt.
 
@@ -129,7 +129,7 @@ Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die R�
 
 ### Technische Analyse
 - **Tempo: ca. 118–122 BPM**
-- **Gitarre: 3-Lagen-Struktur (Begleitgitarre betont Off-Beat)**
+- **Gitarre: 3-Schichten-Struktur (Begleitgitarre betont Off-Beat)**
 - **Bass: Absteigende Linie → steigende Linie alle 4 Takte wiederholen**
 - **Mischung: Gesang in der Mitte, Gitarren links und rechts getrennt**
 
@@ -153,7 +153,7 @@ graph TD
 
 ### Technische Analyse
 
-* **Das Saxophon präsentiert die Melodie zu Beginn → die Gitarre imitiert**
+* **Saxophon präsentiert Melodie am Anfang → Gitarre imitiert**
 * **Gesang ist „Fragen“ und Refrain ist „Antwort“**
 * **Lineares, hohes Gitarrensolo**
 
@@ -177,12 +177,12 @@ sequenceDiagram
 
 ## Lied C: Nitarudia – Tanzorientierter Soukous-Abend
 
-In diesem Lied erscheint eine schnellere und fragmentiertere Gitarre als Vorläufer dafür, dass das Lied Sokusu wird. Es gilt als der zukunftsorientierteste Klang von Veves Werken.
+In diesem Lied erscheint eine schnellere und segmentiertere Gitarre als Vorläufer des Soukousu-Stils. Es gilt als der zukunftsorientierteste Klang von Veves Werken.
 
 ### Technische Analyse
 
 * **Hi-Hat: 16-Minuten-Schritte jetzt verfügbar**
-* **Gitarre: Auf einem Pentagramm (Notenzeile) betrachtet steigt das Arpeggio treppenförmig an**
+* **Gitarre: Auf einem Pentagramm (im Notensystem) betrachtet, steigt das Arpeggio treppenförmig an**
 * **Bass: Phrase, die in 2-Takt-Einheiten „hüpft“**
 
 ### Struktur des Gitarrenansatzes
@@ -202,14 +202,14 @@ flowchart LR
 # Kapitel 7 Aufnahmetechnik, Studioumgebung, Produktionssystem
 
 Veves Aufnahmeumgebung war zu dieser Zeit eine der fortschrittlichsten in Afrika.
-Es verfügte über ein eigenes Studio, mehrere Toningenieure und verfügte über folgende technische Merkmale:
+Es verfügte über ein eigenes Studio, mehrere Toningenieure im Personal und wies folgende technische Merkmale auf:
 
 - **Nutzen Sie schnell die Übergangszeit von der 2- bis 4-Spur-Aufnahme zur 4- bis 8-Spur-Aufnahme**
 - **Stereo-Methode zum Schwingen der Gitarre nach links und rechts**
 - **Mixing, das das Saxophon in den Vordergrund stellt**
 - **Ein bahnbrechender Ansatz, der mehrere Takes des Refrains aufnimmt und sie beim Bearbeiten kombiniert**
 
-Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für die Bearbeitung aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
+Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für den Schnitt aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
 
 ---
 
@@ -224,7 +224,7 @@ Besonders beliebt ist es in Bars (Tanzlokalen) und jedes Mal, wenn die Aufnahme 
 
 So sehr, dass der Tanz für jedes Lied definiert wurde.
 
-Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und Vereinigtes Königreich) weit verbreitet, wo Aufnahmen von Veve oft im Mittelpunkt von Tanzveranstaltungen in Einwanderergemeinschaften standen.
+Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und das Vereinigte Königreich) weit verbreitet, wo Aufnahmen von Veve oft im Mittelpunkt von Tanzveranstaltungen in Einwanderergemeinschaften standen.
 
 ---
 
@@ -233,7 +233,7 @@ Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und Vereinigtes 
 ## Unterschied zu Zaïko Langa Langa
 
 * **Zaïko: leicht, schnell, percussionlastig, lange Seben**
-* **Veve: sanft, Rumba-artig, saxophonischer Schwerpunkt, Chorpolyphonie**
+* **Veve: sanft, Rumba-artig, saxofonischer Schwerpunkt, Chorpolyphonie**
 
 Obwohl beide aus derselben Zeit stammen, sind ihre Richtungen sehr unterschiedlich.
 

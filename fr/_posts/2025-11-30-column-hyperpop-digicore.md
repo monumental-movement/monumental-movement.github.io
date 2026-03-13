@@ -136,7 +136,7 @@ flowchart TD
 
 ##4-3. Structure 100 gecs (genre surpeuplé)
 
-* Un mélange de ska, métal, trap et EDM dans une seule chanson
+* Mélange de ska, métal, trap et EDM dans une seule chanson
 * Changements de BPM, évolutions rapides
 
 ---
@@ -166,7 +166,7 @@ flowchart LR
 
 ---
 
-##5-3. Impact minimal sur les pièges/DnB
+##5-3. Piège minimal / Impact DnB
 
 * La base 808 est modeste
 * Le coup de pied est court

@@ -23,8 +23,8 @@ title: '[Kolumne] RZA: Eine vollständige Geschichte der Schöpfung und Philosop
 Text: mmr｜Thema: RZA Filmmusik, Produktionsphilosophie und spätere Aktivitäten
 
 Robert Fitzgerald Diggs (RZA) wurde am 5. Juli 1969 in Stony Brook, New York geboren.
-Schon in jungen Jahren wurde er mit Musik vertraut und kam durch den Einfluss seines Bruders mit Soul, Funk und frühem Hip-Hop in Berührung.
-Insbesondere die Underground-Clubkultur New Yorks in den späten 1970er und frühen 1980er Jahren hatte großen Einfluss auf den späteren Wu-Tang-Clan-Sound.
+Schon in jungen Jahren wurde er mit Musik vertraut und kam durch den Einfluss seines Bruders mit Soul, Funk und frühem Hip-Hop in Kontakt.
+Insbesondere die Underground-Clubkultur im New York der späten 1970er und frühen 1980er Jahre hatte großen Einfluss auf den späteren Wu-Tang-Clan-Sound.
 
 RZA studierte selbstständig Musiktheorie und interessierte sich für Sampling und Rhythmuskonstruktion, während er gleichzeitig seine eigenen Ideen aus Kung-Fu-Filmen und Philosophiebüchern aufnahm. Was er in dieser Phase lernte, bildete die Grundlage für seinen späteren Produktionsstil und seine Musikphilosophie.
 
@@ -136,7 +136,7 @@ Zu den repräsentativen Werken gehören:
 * **Ghost Dog: Der Weg des Samurai (1999)**
 
 * Fusion der japanischen Samurai-Kultur mit Hip-Hop
-* Song „Bird’s Theme“: Ein einfaches Drum-Pattern mit Shakuhachi- und Koto-Samples
+* Lied „Bird’s Theme“: Ein einfaches Drum-Pattern mit Shakuhachi- und Koto-Samples
 * RZA stärkt das **Geschichtenerzählen** durch Musik und betont die Einheit von Bild und Ton
 
 * **„Kill Bill Vol.1 / Vol.2“ (2003/2004)**

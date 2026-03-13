@@ -63,7 +63,7 @@ Textural Drone zeichnet sich durch eine Struktur aus, bei der mehrere Tonschicht
 
 ### 2-2. Schichttechniken
 
-Durch die Überlagerung mehrerer Titel wird die Musik von einer linearen Struktur zu einer flächigen Struktur. Jede Schicht hat eine unabhängige Periode und Modulationsgeschwindigkeit, wodurch insgesamt asynchrone Schwankungen entstehen.
+Durch die Überlagerung mehrerer Titel wird die Musik von einer linearen Struktur zu einer Oberflächenstruktur. Jede Schicht hat eine unabhängige Periode und Modulationsgeschwindigkeit, wodurch insgesamt asynchrone Schwankungen entstehen.
 
 <div class="mermaid">
 flowchart LR
@@ -136,7 +136,7 @@ Die Lokalisierung der Schallquelle wird durch lange Nachhallzeit und Diffusionsv
 
 ### 5-5. Zusammenhang zwischen Rauschen und Obertönen
 
-Der Rauschanteil ist keine Verunreinigung, sondern dient vielmehr als Medium, um die harmonische Struktur wahrnehmbar zu machen. In „Stars of the Lid“ verschleiern die Schrammen und Atemgeräusche von Streichinstrumenten die Konturen der Harmonien, während in „Robert Rich“ Umgebungssamples die Konturen künstlicher Klänge auflösen.
+Der Rauschanteil ist keine Verunreinigung, sondern dient vielmehr als Medium, um die Obertonstruktur wahrnehmbar zu machen. In „Stars of the Lid“ verschleiern die Schrammen und Atemgeräusche von Streichinstrumenten die Konturen der Harmonien, während in „Robert Rich“ Umgebungssamples die Konturen künstlicher Klänge auflösen.
 
 Die Lokalisierung der Schallquelle wird durch lange Nachhallzeit und Diffusionsverarbeitung erschwert. Dadurch wird Schall als Textur des gesamten Raumes und nicht als Richtung wahrgenommen.
 

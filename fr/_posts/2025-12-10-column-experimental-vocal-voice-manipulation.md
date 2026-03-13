@@ -21,7 +21,7 @@ title: '[Chronique] Vocal Expérimental / Manipulation Vocale — Histoire et te
 
 Texte : mmr｜Thème : Des voix expérimentales qui traitent, génèrent et réorganisent la voix en tant que matériau/histoire, techniques, représentants et tendances contemporaines de la manipulation vocale
 
-Au 21e siècle, la voix chantée est passée du simple fait de transmettre une mélodie à un matériau acoustique modifiable. Avec la disponibilité d’outils tels que la technologie d’enregistrement/édition, les effets, l’échantillonnage, le traitement en temps réel et la technologie de génération, la voix a acquis un rôle diversifié en tant qu’instrument, texture, description spatiale et même ressource de données. Des artistes comme Bjork et Imogen Heap, qui utilisent leur propre voix comme matériau principal pour leurs expériences, et les expressions créées par des avancées technologiques telles que la synthèse granulaire et la resynthèse basée sur l'IA ont considérablement élargi les possibilités de la voix.
+Au 21e siècle, la voix chantée est passée du simple fait de transmettre une mélodie à un matériau acoustique modifiable. Avec la disponibilité d’outils tels que la technologie d’enregistrement/édition, les effets, l’échantillonnage, le traitement en temps réel et la technologie de génération, la voix a acquis un rôle diversifié en tant qu’instrument, texture, description spatiale et même ressource de données. Des artistes comme Bjork et Imogen Heap, qui utilisent leur propre voix comme matériau principal pour leurs expériences, et les expressions créées par des avancées technologiques telles que la synthèse granulaire et la resynthèse basée sur l'IA, ont considérablement élargi les possibilités de la voix.
 
 ---
 
@@ -106,7 +106,7 @@ L'ajout de caractéristiques d'écho, le panoramique et la manipulation de la pe
 
 ###4-6. Traitement du bruit et non linéaire
 
-La distorsion, la forme d'onde et le traitement du feedback amplifient la dureté et l'agressivité de la voix, lui donnant une sensation de substance que l'on ne trouve pas dans les voix chantées traditionnelles.
+La distorsion, la mise en forme de la forme d'onde et le traitement du feedback amplifient la dureté et l'agressivité de la voix, lui donnant une sensation de substance que l'on ne retrouve pas dans les voix chantées traditionnelles.
 
 ---
 

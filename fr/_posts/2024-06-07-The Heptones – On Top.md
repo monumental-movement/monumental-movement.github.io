@@ -10,15 +10,15 @@ tags:
 - Reggae
 - Rocksteady
 - Rare
-title: The Heptones – On Top
+title: Les Heptones – Au sommet
 ---
 
 
-The Heptones（ヘプトーンズ）は、1960年代から1970年代初頭にかけて最も活躍したジャマイカのロックステディとレゲエのボーカルトリオ。
+Les Heptones étaient un trio vocal jamaïcain rocksteady et reggae le plus actif dans les années 1960 et au début des années 1970.
 
-The Heptonesは、the Wailers（ウェイラーズ）やthe Maytals（メイタルズ）と同時代人で、1960年代半ばに彼らに匹敵する存在として知られていた。
+Les Heptones étaient contemporains des Wailers et des Maytals et étaient connus comme leurs égaux au milieu des années 1960.
 
-「On Top」は、スカ、ロックステディ、レゲエをはじめジャマイカのポピュラー音楽スタイルの基礎を築いたジャマイカのレコーディングスタジオ＆レーベルStudio One(スタジオ・ワン)からリリースされたアルバム。このアルバムは、別名Best Of The Heptones（ベスト・オブ・ザ・ヘプトーンズ）とも言われている。
+"On Top" est un album publié par Studio One, un studio d'enregistrement et un label jamaïcain qui a jeté les bases des styles de musique populaire jamaïcaine, notamment le ska, le rocksteady et le reggae. Cet album est également connu sous le nom de Best Of The Heptones.
 
 #### Liste des chansons
 ```md

@@ -58,7 +58,7 @@ Diese Haltung, perfekte Filter abzulehnen, ist zu einer neuen Ästhetik geworden
 
 ### 1-2. Zeichen der Mode
 Gegründet von Saint Laurent und Heaven von Marc Jacobs
-Die „Rauheit der Nacht“ und der „abgenutzte Glanz“ sind es
+Die „Rauheit der Nacht“ und der „abgenutzte Glanz“ sind
 Schließlich infizierte es auch die Welt der Musik.
 In der unheimlichen Dekadenz der Balenciaga-Show
 Die „Schönheit, nicht perfekt zu sein“ war bewegend.
@@ -75,7 +75,7 @@ Charli XCXs „Brat“ hat dieses Gefühl in Popmusik sublimiert.
 ---
 
 ### 2-1. Lässige Realität
-Wenn man „brat“ hört, verspürt man als Erstes die Behaglichkeit, „unvollendet“ zu sein.
+Wenn man „brat“ hört, verspürt man als Erstes die Beruhigung, „unvollendet“ zu sein.
 Der Gesang ist rau, der Mix ist statisch und die Texte werden impulsiv ausgespuckt.
 Es hat jedoch ein „rohes“ Gefühl, das in anderer Popmusik nicht zu finden ist.
 Es ist eine „menschliche Note“, die das Gegenteil der Ära der Perfektion ist.
@@ -137,7 +137,7 @@ Musik kehrt wieder in die „menschliche Szene“ statt in die digitale Welt zur
 
 ### 5-1. Mut, Unvollkommenheit zu bejahen
 Die letzten zehn Jahre waren geprägt von Ideen des Minimalismus und des Aufräumens.
-Wir hatten Angst vor dem, was uns fehlt.
+Wir hatten Angst vor dem, was wir verpassen.
 Aber was jetzt fehlt, ist der freie Raum für die Schöpfung.
 Laute Geräusche, verschwommene Bilder und festsitzende Wörter.
 Anstatt sie zu entfernen, akzeptieren Sie sie als Teil der Arbeit.
@@ -145,7 +145,7 @@ Darin liegt die Sensibilität einer neuen Ära.
 
 ### 5-2. „Rewilding“ von Pop
 Nach „Brat“ ließen die Künstler ihre Mikrofone los.
-Nehmen Sie spontan mit Ihrem Smartphone auf,
+Spontane Aufnahme mit dem Smartphone,
 Ich habe angefangen, Songs unvollendet hochzuladen.
 Allen gemeinsam ist die Einstellung, „die Dinge so zu lassen, wie sie sind.“
 Pop wird wieder wild.
@@ -172,7 +172,7 @@ Es ist an der Zeit, diese Welt wieder zum Singen zu bringen.
 
 ---
 
-## Anhang: Die Ästhetik der Unvollkommenheit 2025 Playlist
+## Anhang: The Aesthetics of Imperfection 2025 Playlist
 ### - Vier Künstler, die die Ästhetik der Unvollkommenheit zum Ausdruck bringen -
 
 | Künstler/Album/Titel | Jahr | Beschreibung | Link |

@@ -19,7 +19,7 @@ title: '[Chronique] DEVO et Energy Dome ─ Utopie et théorie de la dégénére
 ## Prologue : Que signifie le dôme rouge ?
 
 
-Texte : mmr｜Thème : Utiliser le symbole "Energy Dome" de DEVO comme indice, déchiffrer la théorie de la dégénérescence, la technologie, la pensée DIY et la transformation de la culture pop
+Texte : mmr｜Thème : Utiliser le symbole de DEVO « Energy Dome » comme indice, déchiffrer la théorie de la dégénérescence, la technologie, la pensée DIY et la transformation de la culture pop
 
 À la fin des années 1970, le groupe new wave américain **DEVO** incarnait une nouvelle ère du pop art, non seulement avec sa musique mais aussi avec son iconographie visuelle.
 Le symbole en est le chapeau en plastique rouge qu'ils portaient sur scène et dans leurs clips -- **Energy Dome**.
@@ -99,7 +99,7 @@ Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les 
 ## Chapitre 5 : Fonctionner comme pop ─ « Whip It » et ses idées fausses
 
 En apparence, le hit « Whip It » de 1980 ressemble à une simple synth-pop comique.
-Cependant, les paroles sont une parodie d'anti-héroïsme, disant : « Réparez le monde vous-même ».
+Cependant, les paroles sont une parodie d'anti-héroïsme, disant : « Réparez le monde vous-même ».
 L'humour de DEVO n'était pas seulement absurde, mais fonctionnait comme une critique d'une société manipulée par les médias.
 
 Dans leurs clips, ils condensent des laboratoires blancs, des sons synthétisés et des mouvements mécaniques dans un format pop-cynique.
@@ -151,7 +151,7 @@ Dans les années 2020, il continue d’actualiser sa théorie de la dégénéres
 
 ---
 
-## Chapitre 9 : La trajectoire de DEVO en chronologie
+## Chapitre 9 : La trajectoire de DEVO vue dans la chronologie
 
 <div class="mermaid">
 
@@ -176,7 +176,7 @@ timeline
 ## Chapitre 10 : L'importance actuelle du dôme énergétique
 
 L'Energy Dome est toujours apprécié par les fans de DEVO comme un « casque de pensée ».
-Pendant la pandémie de coronavirus, **Dôme énergétique avec écran facial** est vendu,
+Pendant la pandémie de coronavirus, des **dômes énergétiques avec écran facial** sont vendus,
 Il a une fois de plus attiré l'attention en tant qu'avertissement sur les problèmes environnementaux.
 
 Autrement dit, l’Energy Dome est un dispositif social qui se « transforme » à chaque époque.

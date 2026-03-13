@@ -143,9 +143,9 @@ Hier werden wir organisieren, wie der neofuturistische Ausdruck durch tatsächli
 
 ### 9-1. DAW und nichtlineare Bearbeitung
 
-Was FKA Twigs und Arcas Werken gemeinsam ist, ist die Abkehr von einem linearen Kompositionsprozess. Die Songs folgen nicht unbedingt einem linearen Prozess von der Demo bis zur Fertigstellung, sondern fragmentierte Ideen, Klangexperimente und improvisierte Vocals werden in der DAW neu arrangiert. Vorgänge wie Schneiden, Umkehren und Zeitdehnung ähneln eher skulpturalen Akten als einer Bearbeitung.
+Was FKA Twigs und Arcas Arbeiten gemeinsam haben, ist die Abkehr von einem linearen Kompositionsprozess. Die Songs folgen nicht unbedingt einem linearen Prozess von der Demo bis zur Fertigstellung, sondern fragmentierte Ideen, Klangexperimente und improvisierte Vocals werden in der DAW neu arrangiert. Vorgänge wie Schneiden, Umkehren und Zeitdehnung ähneln eher skulpturalen Akten als einer Bearbeitung.
 
-### 9-2. Music construction starting from the body
+### 9-2. Musikaufbau ausgehend vom Körper
 
 In den Produktionen von FKA twigs sind Tanz und körperliche Bewegung oft die Inspiration für musikalische Strukturen. Der Rhythmus spiegelt die Anspannung und Entspannung des Körpers wider und äußert sich in Temposchwankungen und Pausen. Hierbei handelt es sich um eine körpergesteuerte Kompositionsmethode, die sich von der traditionellen schlagzentrierten Komposition unterscheidet.
 
@@ -155,7 +155,7 @@ Extreme Verzerrungen und digitale Bearbeitung dienen nicht dazu, Emotionen zu ve
 
 ---
 
-## 10. Beziehung zwischen Avantgarde-Pop und dem Markt
+## 10. Beziehung zwischen Avantgarde-Pop und Markt
 
 Neofuturistische Ausdrücke verwischen die Grenzen zwischen Major und Indie. Im Streaming-Zeitalter ist die Avantgarde nicht mehr auf eine bestimmte Szene beschränkt, sondern experimentelle Werke werden gleichzeitig global verbreitet.
 
@@ -195,7 +195,7 @@ Die Integration von Musik und Bildmaterial beschleunigt sich und der Schwerpunkt
 
 ### 13-3. 2020er Jahre
 
-Geschlechter-, körper- und technologieübergreifende Ausdrucksformen wurden alltäglich, und der Neofuturismus etablierte sich als Ästhetik.
+Ausdrucksformen, die sich über Geschlecht, Körper und Technologie erstreckten, wurden alltäglich, und der Neofuturismus etablierte sich als Ästhetik.
 
 ---
 

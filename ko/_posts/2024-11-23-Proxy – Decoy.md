@@ -16,7 +16,7 @@ title: Proxy – Decoy
 
 프록시 Evgeny Pozharnov는 러시아의 전자 프로듀서 DJ. Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer, Electric Zoo 등 세계적인 페스티벌에서 플레이하여 성공을 거두고 있다.
 
-Prodigy, Marilyn Manson, Moby, Peaches, Tiga, Boys Noize 등 다수의 아티스트와 협업하고 있는 러시아 대표 DJ.
+Prodigy, Marilyn Manson, Moby, Peaches, Tiga, Boys Noize 등 수많은 아티스트와도 콜라보하는 러시아 DJ의 대표격.
 
 「Decoy」는, Tiga Sontag 주재의 캐나다의 테크노/일렉트로/하우스 라벨 Turbo로부터 2007년에 릴리스된 테크노 일렉트로트랙.
 

@@ -40,5 +40,5 @@ Moe ist eine amerikanische Jam-Rock-Band, die 1989 an der University at Buffalo 
 
 [メルカリで購入](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ title: '[Kolumne] Langeweile: Die Flugbahn des Erbauers des Chaos und des expand
 
 ## Prolog: Wer waren die Langeweile?
 
-Text: mmr｜Thema: Verfolgen Sie die Entwicklung von Boredoms und wie sich ihre Arbeitsform, Live-Auftritte und abgeleiteten Einheiten entwickelt haben.
+Text: mmr｜Thema: Verfolgen Sie die Entwicklung von Boredoms und wie sich seine Arbeitsform, Live-Auftritte und abgeleiteten Einheiten entwickelt haben.
 
 In der Geschichte der japanischen Musik nimmt **Langeweile** eine einzigartige Stellung als eine Einheit ein, die in keinem Kontext vollständig erklärt werden kann.
 Sie wurden Ende der 1980er Jahre in Osaka gegründet und beeinflussten Musiker auf der ganzen Welt, indem sie sich in Noise-, Hardcore-, Avantgarde-, Psychedelia- und später Rhythmus-Ensembles verwandelten.
@@ -76,7 +76,7 @@ Ihr frühes Werk war eine dichte Mischung aus der Geschwindigkeit des Hardcore u
 Im Jahr 1988 erregten sie in der Indie-Szene im Ausland Aufmerksamkeit und wurden zu einem heißen Thema in der Underground-Community der Vereinigten Staaten.
 1989 wurden sie von Sonic Youth stark unterstützt und durch die Interaktion mit ihnen wurden sie mit den großen amerikanischen Indies verbunden.
 
-### Musikalische Struktur früher Boredoms
+### Musikalische Struktur der frühen Boredoms
 
 <div class="mermaid">
 flowchart TD
@@ -120,7 +120,7 @@ Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sic
 
 ### 3.3 Hintergrund der Psychedelisierung
 - Ais Perspektive wechselt von impulsiver Zerstörung zu „kosmischer Expansion“
-- Yuka Yoshimura (Yoshimi) spielt eine zentrale Rolle und sorgt für wichtige Entwicklungen in den Bereichen Schlagzeug/Gesang/Elektronik.
+- Yuka Yoshimura (Yoshimi) spielt eine zentrale Rolle und sorgt für wichtige Entwicklungen in den Bereichen Schlagzeug, Gesang und Elektronik.
 - Erhöhtes Interesse an Minimalismus und sich wiederholenden Strukturen
 
 Dadurch veränderten sich seine Werke Ende der 1990er Jahre zu einem „Lichtwirbel“-Sound und erlangten internationale Anerkennung.
@@ -144,7 +144,7 @@ Elemente von Strandaufnahmen, lange Borduntöne, meditative Strukturen, Umgebung
 
 ---
 
-Hier wird der Bandname oft als V∞redoms geschrieben, und das Konzept von Boredoms selbst ändert sich zu einem „kollektiven kreativen Körper“ und nicht zu einer musikalischen Einheit.
+Hier wird der Name der Band oft als V∞redoms geschrieben, und das Konzept von Boredoms selbst ändert sich zu einem „kollektiven kreativen Körper“ und nicht zu einer musikalischen Einheit.
 In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen **V∞redoms**, und das ikonischste davon war das große Schlagzeugensemble, das mit dem „7x7x7“-Konzert am 7. Juli begann**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Kapitel 5: Aktivitäten seit 2010er Jahren
-Seit den 2010er Jahren führt Boredoms weiterhin zeitweise Live-Auftritte auf, während sich die kreativen Aktivitäten jedes Mitglieds vertiefen.
+Seit den 2010er Jahren gibt Boredoms weiterhin zeitweise Live-Auftritte, während sich die kreativen Aktivitäten jedes Mitglieds vertieft haben.
 Insbesondere **Eyes visuelle Kunstaktivitäten** und **Yoshimis Aktivitäten mit OIOOO/SAICOBABA** nahmen zu, was den Eindruck erweckte, dass Boredoms eher ein „kollektives Projekt“ als eine „Band“ sei.
 
 ---
@@ -212,7 +212,7 @@ In diesem Kapitel werde ich die bisher fragmentarisch erwähnten persönlichen A
 ### 7.1 Anfangszins
 - Collage, Manga, Konkrete Kunst
 - Zerstörerische Leistung
-- Interessiert sich eher für „Ort“ als für Klang
+- Mehr Interesse an „Ort“ als an Klang
 
 ### 7.2 Bildung des Sampling-Senses
 Seit den frühen 1990er Jahren verwendet Ai Plattenspieler und Kassetten als Materialien und ist auf die „taktile Bearbeitung“ spezialisiert, bei der Fragmente physischen Klangs miteinander verbunden werden.
@@ -239,7 +239,7 @@ In diesem Kapitel werden wir die Musik von Boredoms strukturell organisieren.
 1. **Zerstörerische/plötzliche Elemente**
 2. **Wiederholung und Strukturgewinn**
 
-Durch das Hin- und Herpendeln zwischen diesen beiden Polaritäten entsteht in ihrer Arbeit eine einzigartige Fließfähigkeit.
+Durch das Hin- und Herpendeln zwischen diesen Polaritäten ist ihre Arbeit von einzigartiger Fließfähigkeit.
 
 ### 8.2 Rhythmusstruktur
 In späteren „Boredoms“ wurde der Rhythmus zum Thema und Melodie und Text rückten in eine Nebenrolle.

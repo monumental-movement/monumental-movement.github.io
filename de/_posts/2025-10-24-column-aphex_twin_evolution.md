@@ -133,7 +133,7 @@ Mit anderen Worten: Seine Musik ist ein Testfeld für den Post-KI-Humanismus.
 
 | Artikel | Früh (1990–1995) | Aktuell (2014–2025) |
 |------|----|------|
-| Technologie | Analoge Geräte, hauptsächlich Sampler | Modulare + digitale Algorithmen |
+| Technologie | Hauptsächlich analoge Geräte und Sampler | Modulare + digitale Algorithmen |
 | Klangtextur | Organisch, zufällig, materiell | Geometrisch, informativ, transparent |
 | Ästhetik | Koexistenz von Lärm und Rhythmus | Symbiose aus Daten und Emotionen |
 | Gegenstand des Ausdrucks | Innere Welt/Körper des Individuums | Grenze zwischen Mensch und Maschine |

@@ -102,7 +102,7 @@ Surgeon, d'origine britannique, est connu comme l'un des premiers artistes à in
 
 ## Ø [Phase]
 
-Ø [Phase], dont le travail se concentre sur une esthétique sonore minimale et stoïque dans la techno, utilise activement des synthés modulaires en studio et en production live. Il se caractérise particulièrement par son approche complexe de modulation de phase et l'introduction d'éléments de type drone qui utilisent des boucles de rétroaction, et a été félicité pour donner un mouvement organique à la techno minimale.
+Ø [Phase], dont le travail se concentre sur une esthétique sonore minimale et stoïque au sein de la techno, utilise activement des synthés modulaires en studio et en production live. Il se caractérise particulièrement par son approche complexe de modulation de phase et l'introduction d'éléments de type drone qui utilisent des boucles de rétroaction, et a été félicité pour donner un mouvement organique à la techno minimale.
 
 ## Richie Hawtin
 
@@ -207,7 +207,7 @@ Modular Techno présente plusieurs caractéristiques acoustiques et structurelle
 
 ## 1. « Fluctuations » du rythme et changements stochastiques
 
-La techno traditionnelle est centrée sur un rythme 4/4 régulier. D'un autre côté, les synthés modulaires utilisent souvent des séquenceurs stochastiques qui changent de valeurs à chaque étape, donc
+La techno traditionnelle est centrée sur un rythme 4/4 régulier. D'un autre côté, les synthés modulaires utilisent souvent des séquenceurs stochastiques qui changent de valeurs à chaque étape.
 - Un charley légèrement différent à chaque fois
 - Attaque de base aléatoire
 - Modulation qui s'écarte de la grille rythmique
@@ -229,7 +229,7 @@ En les mélangeant avec la ligne de kick et de basse, une forte sensation de den
 
 La techno modulaire adopte souvent une approche plus proche de la « sculpture sonore », dans laquelle l'état du son continue de changer lentement, plutôt que du développement traditionnel à 16 mesures.
 
-Les couches de rythme → texture → bruit → basse transition en douceur au fil du temps. Cette structure améliore également la connectivité avec Ambient Techno, Drone et Industrial.
+Les couches rythme → texture → bruit → basse transition en douceur au fil du temps. Cette structure améliore également la connectivité avec Ambient Techno, Drone et Industrial.
 
 <div class="mermaid">
 flowchart TD
@@ -261,7 +261,7 @@ timeline
 
 # Critique/Réception des médias
 
-Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à s'intéresser à sa sophistication sonore.
+Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à prêter attention à sa sophistication sonore.
 
 - Dans les critiques, l'image sonore complexe et tridimensionnelle unique de Modular a reçu de nombreux éloges.
 - Dans le reportage en direct, la performance improvisée et physique a été mise en avant.
@@ -276,7 +276,7 @@ Le passage de la « reproduction de piste » à la « génération sonore » a �
 La Techno Modulaire devrait continuer à évoluer et plusieurs directions sont attendues.
 
 ## 1. Sophistication du module numérique
-Les progrès de la technologie DSP ont conduit à une augmentation du nombre de modules numériques équipés de modélisation physique, de synthèse de particules et d'algorithmes FM complexes. Cela permet de gérer en temps réel des expressions acoustiques auparavant impossibles.
+Les progrès de la technologie DSP ont conduit à une augmentation du nombre de modules numériques équipés de modélisation physique, de synthèse de particules et d'algorithmes FM complexes. Cela permet de gérer en temps réel des expressions acoustiques qui étaient auparavant impossibles.
 
 ##2. Généralisation du live hybride
 La configuration modulaire + PC (Ableton, Bitwig) + boîte à rythmes deviendra encore plus courante et les frontières entre les sets de club traditionnels et les performances live deviendront floues.
@@ -340,7 +340,7 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 - Tiptop Audio – Série de batterie 808/909
 -Jomox-ModBase 09
 
-## Effets (Delay / Reverb / Distorsion)
+## Effets (Délai / Réverbération / Distorsion)
 - Strymon – Magnéto
 - Erica Synths – Trou noir DSP
 - Ingénierie du bruit – Desmodus Versio

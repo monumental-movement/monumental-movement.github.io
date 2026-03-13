@@ -56,7 +56,7 @@ Pour qu’Electro Swing puisse voir le jour, les conditions techniques et cultur
 
 * Vulgarisation de la technologie d'échantillonnage numérique
 *Première culture Internet où la gestion des droits d'auteur était relativement souple
-* Jeu multi-genres par le DJ du club
+* Jeu multi-genres par DJ du club
 * Réévaluer l'esthétique rétro
 
 C'est notamment entre la fin des années 1990 et le début des années 2000 que l'environnement DAW est devenu populaire au niveau personnel, permettant de rééditer des sources sonores passées.
@@ -172,7 +172,7 @@ Cette méthode est cohérente avec la culture de l'échantillonnage après le hi
 
 ## 16. Techniques de traitement et de production du son
 
-Du côté de la production, l’extraction d’échantillons et l’étirement du temps, la quantification des battements et la conception des basses graves jouent un rôle important. Le rebond du swing n'est pas entièrement reproduit, mais est absorbé dans le quatre contre quatre ou le breakbeat droit.
+Du côté de la production, le découpage des échantillons et l'étirement du temps, la quantification des battements et la conception des graves bas de gamme jouent un rôle important. Le rebond du swing n'est pas entièrement reproduit, mais est absorbé dans le quatre contre quatre ou le breakbeat droit.
 
 En conséquence, Electro Swing a une structure qui n'est pas naturelle pour le jazz, mais très réactive pour la musique dance. Cette conception de compromis est le noyau technique de la création du genre.
 

@@ -23,7 +23,7 @@ Text: mmr｜Thema: Wie DJ-Sets, experimentelle Musik und unbekannte Live-Auftrit
 
 Zu Beginn des 21. Jahrhunderts weiteten sich die Räume für Musikaufführungen allmählich von physischen Veranstaltungsorten wie Clubs und Konzertsälen zu Orten aus, an denen Musik über das Internet verbreitet wird. Vor allem seit den 2010er Jahren hat sich Live-Musik-Streaming als eigenständige Form der Aufführung etabliert, statt nur als Aufnahme oder Ausstrahlung.
 
-NTS Radio und Boiler Room haben unterschiedliche Ursprünge und Philosophien innerhalb dieser Strömung, aber sie sind es, die die Live-Streaming-Kultur international sichtbar gemacht haben. Beiden gemeinsam ist die Genreübergreifendheit, die Improvisation und die Haltung, sich vom bestehenden Rahmenwerk der Musikindustrie zu distanzieren.
+NTS Radio und Boiler Room haben unterschiedliche Ursprünge und Philosophien innerhalb dieser Strömung, aber sie sind es, die die Live-Streaming-Kultur international sichtbar gemacht haben. Gemeinsam ist beiden die Genreübergreifendheit, die Improvisation und die Haltung, sich vom bestehenden Rahmenwerk der Musikindustrie zu distanzieren.
 
 ---
 
@@ -41,13 +41,13 @@ color: #fff;
 </style>
 
 
-## Kapitel 1 Etablierung der NTS-Radio- und Rundfunkkultur
+## Kapitel 1: Etablierung der NTS-Radio- und Rundfunkkultur
 
 NTS Radio ist ein Internetradio mit Sitz in London, das rund um die Uhr DJ-Programme und Live-Auftritte sendet. Die ausgestrahlten Inhalte sind vielfältig und umfassen Clubmusik, experimentelle Musik, Volksmusik und Improvisationsdarbietungen.
 
 Ein Merkmal von NTS ist, dass es keinem bestimmten Genre einen Vorteil bei der Programmprogrammierung verschafft. Künstler haben für jedes Programm die Rechte zur Kuration und dürfen nicht nur DJ-Sets, sondern auch Feldaufnahmen, unveröffentlichte Tonquellen und Live-Auftritte einbeziehen.
 
-> „Live-Streaming auf NTS wurde als ein Akt der gemeinsamen Nutzung des Prozesses der Songauswahl und Aufführung selbst positioniert, anstatt das fertige Werk zu präsentieren.“
+> „Live-Streaming auf NTS wurde als ein Akt der gemeinsamen Nutzung des Prozesses der Songauswahl und Aufführung selbst positioniert und nicht als Präsentation abgeschlossener Werke.“
 
 ---
 
@@ -65,7 +65,7 @@ DJ-Sets im NTS und im Boiler Room unterscheiden sich in der Regel von Club-Setup
 
 Vor allem bei NTS sind lange Sets von mehr als zwei Stunden üblich, und oft sieht man einen Stil, der sanft eine Erzählung aufbaut und gleichzeitig Genres überschreitet. Andererseits gibt es in Boiler Room viele relativ kurze Sets, die die Entwicklung im Einklang mit der Hitze des Raums betonen.
 
-> „Der Zustand des Live-Streamings hat das DJ-Set von einer „Technik, die den Raum zum Funktionieren bringt“ zu einer „Struktur, der zugehört wird“ verändert.
+> „Die Bedingungen des Live-Streamings veränderten das DJ-Set von einer „Technik, die den Raum zum Funktionieren bringt“ zu einer „Struktur, der zugehört wird.“
 
 ---
 
@@ -101,7 +101,7 @@ Extreme Bassklänge und subtile Dynamiken lassen sich beispielsweise in einer St
 
 NTS und Boiler Room haben ihre Sendungen archiviert und zum späteren Ansehen und Anhören zur Verfügung gestellt. Dieser Archivcharakter verwandelt Live-Auftritte von kurzlebigen Ereignissen in referenzierbare Materialien.
 
-Die Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit, sondern auch durch das spätere Ansehen neu interpretieren.
+Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit neu interpretieren, sondern auch durch späteres Anschauen.
 
 ---
 
@@ -159,7 +159,7 @@ Dies kann als „aufzeichnbare Bewegung“ angesehen werden.
 
 Traditionell wurde zwischen der Musikproduktion im Studio und dem Auftritt vor Ort unterschieden. In einer Live-Streaming-Umgebung verschwimmt diese Unterscheidung jedoch. Wohnungen, temporäre Räume, öffentliche Einrichtungen, Ateliers ohne Publikum usw. werden gleichzeitig zu Produktions- und Aufführungsräumen.
 
-Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen Material mitten in der Produktion oder unfertige Tonquellen so abgespielt werden, wie es im Programm ist. Gelegentlich veröffentlicht Boiler Room auch Live-Sets, die kurz vor den Proben stehen.
+Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen Material mitten in der Produktion oder unfertige Tonquellen so abgespielt werden, wie es im Programm enthalten ist. Gelegentlich veröffentlicht Boiler Room auch Live-Sets, die kurz vor den Proben stehen.
 
 > „Das Verschwinden von Studios und Locations befreite die Musik von der ‚Vorbereitung‘“
 
@@ -177,7 +177,7 @@ Dies ist eher ein Ergebnis veränderter Hörbedingungen im Vertriebsumfeld als e
 
 DJs bei NTS und Boiler Room sind nicht nur Musikwähler. Er spielt mehrere Rollen als Tonquellenmanager, Redakteur, Improvisator und Geschichtenerzähler.
 
-Insbesondere auf NTS erstellen DJs Musikarchive, indem sie ihre Programme über längere Zeiträume fortsetzen. Die Ansammlung fungiert als persönliche Musikgeschichte.
+Insbesondere auf NTS erstellen DJs Musikarchive, indem sie ihre Programme über längere Zeiträume fortsetzen. Diese Anhäufung fungiert als musikalische Geschichte eines Individuums.
 
 > „DJ-Sets sind fragmentarische Aufzeichnungen persönlicher Geschichte“
 
@@ -185,7 +185,7 @@ Insbesondere auf NTS erstellen DJs Musikarchive, indem sie ihre Programme über 
 
 ## Ergänzendes Kapitel 5 Videointervention und -verweigerung
 
-Während Boiler Room aktiv Videos einbezieht, hat NTS ein audiozentriertes Design beibehalten. Dieser Unterschied wirkt sich direkt auf die Leistungsrichtung aus.
+Während Boiler Room aktiv Videos einbezieht, hat NTS ein audiozentriertes Design beibehalten. Dieser Unterschied hat direkte Auswirkungen auf die Leistungsrichtung.
 
 Wenn Bilder existieren, haben körperliche Bewegungen und räumliche Konfigurationen eine Bedeutung. Wenn die Bilder begrenzt sind, rücken die Anordnung der Töne und die zeitliche Struktur in den Vordergrund.
 
@@ -195,7 +195,7 @@ Wenn Bilder existieren, haben körperliche Bewegungen und räumliche Konfigurati
 
 Improvisation ist nicht chaotisch. Live-Streaming-Künstler entwerfen Improvisationen basierend auf Bedingungen wie Streaming-Zeit, Anzahl der Zuhörer und technischen Einschränkungen.
 
-Unbekanntheit erscheint eher als kontrollierte Ungewissheit als als reiner Zufall.
+Unbekanntheit erscheint eher als kontrollierte Ungewissheit als als purer Zufall.
 
 > „Bei der Improvisation geht es nicht darum, die Kontrolle zu verlieren, sondern darum, den Kontrollbereich wiederherzustellen.“
 
@@ -217,7 +217,7 @@ NTS und Boiler Room haben ein Modell demonstriert, das sich von der traditionell
 
 ---
 
-## Ergänzendes Kapitel 9 Bezug zur Musikgeschichte
+## Ergänzungskapitel 9 Bezug zur Musikgeschichte
 
 Diese Live-Streaming-Kulturen stehen im Einklang mit der Geschichte der Improvisationsmusik, der experimentellen Musik und der DJ-Kultur. Neue Technologien machen bestehende Praktiken nicht unsichtbar, sondern positionieren sie neu.
 

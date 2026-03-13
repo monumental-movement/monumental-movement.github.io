@@ -10,17 +10,18 @@ tags:
 - Techno
 - Hiphop
 - House
-title: 【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動
+title: '[Chronique] Roland TR-1000 : Redéfinir le rythme ─ Gènes analogiques et battement
+  de cœur de l''ère de l''IA'
 ---
 
 
-## Rolandが再び「リズムマシンの定義」を書き換える時
+## Quand Roland réécrit encore la « définition de la boîte à rythme »
 
 
-文：mmr｜テーマ：Rolandが送り出したTRシリーズ最新作TR-1000。そのアナログ回路設計、AI的挙動、文化的意味を技術・思想・文化史の三軸から徹底的に掘り下げる
+Texte : mmr｜Thème : TR-1000, le dernier produit de la série TR publiée par Roland. Examinez en profondeur la conception de ses circuits analogiques, le comportement de l'IA et sa signification culturelle à partir des trois axes de la technologie, de l'idéologie et de l'histoire culturelle.
 
 
-ローランドの新たな鼓動、TR-1000は、アナログの温もり・デジタルの精緻さ・サンプリングの自由を融合した“Rhythm Creator”。本稿では、その技術的核心と思想的背景、そして音楽文化における位置付けを解き明かす。
+Le nouveau rythme cardiaque de Roland, le TR-1000, est un « créateur de rythme » qui combine la chaleur de l'analogique, la précision du numérique et la liberté de l'échantillonnage. Cet article dévoilera son noyau technique, son contexte idéologique et sa position dans la culture musicale.
 
 ---
 
@@ -37,11 +38,11 @@ color: #fff;
 </style>
 
 
-### 第1章　「リズムマシンは終わっていない」  
+### Chapitre 1 « La boîte à rythme n'est pas terminée »
 #### ── L'incident de l'apparition du TR-1000
 
 Le **TR-1000** sorti par Roland en 2025 n'est pas qu'une extension de la série.
-808, 909, 707... Cette machine apparue à la fin de l'histoire, où ils symbolisaient le groove de l'époque, est une « machine à rythme intellectuelle » qui apprend et réinterprète le « sens humain du rythme ».
+808, 909, 707... Cette machine apparue à la fin de l'histoire, où ils symbolisaient le groove de l'époque, est une « machine à rythme intellectuelle » qui apprend et réinterprète les « rythmes humains ».
 
 Dans les années 1980, les rythmes électroniques étaient appelés « battements de cœur mécaniques ». Cependant, ce que présente le TR-1000 est le contraire : **"une machine comprend le battement du cœur humain"**.
 Numérique et analogique, IA et émotions. À cette frontière se trouve la philosophie que Roland a cultivée pendant un demi-siècle.
@@ -77,16 +78,16 @@ Réactivité comme si le rythme était une « respiration ». C'est pourquoi Rol
 
 ---
 
-### Chapitre 4 Structure acoustique : Evolution des basses fréquences et texture rythmique
+### Chapitre 4 Structure acoustique : évolution du grave et de la texture du rythme
 #### ── Pour vaincre le « fantôme du coup de pied 808 »
 
 Au cœur du TR-1000 se trouve une philosophie de conception bas de gamme.
 Un circuit unique de sous-oscillation et de contrôle des harmoniques a été ajouté au **circuit de génération d'onde sinusoïdale**, qui perpétue la tradition depuis le 808.
 En conséquence, nous avons obtenu une « basse fréquence tridimensionnelle » qui combine la pression physique et la texture de l'air.
 
-La caisse claire est construite à l'aide d'un circuit discret + méthode de mise en forme du bruit, et le charleston est construit à l'aide d'une source de bruit analogique qui comprend un micro-retard infime.
+La caisse claire est construite à l'aide d'un circuit discret + méthode de mise en forme du bruit, et le charley est construit à l'aide d'une source de bruit analogique qui comprend un micro-retard infime.
 Il a réalisé une « coexistence de réalisme acoustique et d'abstraction » qui va au-delà de la reproduction du 808/909.
-En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient une riche sensation de séparation même sur les moniteurs de studio.
+En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient un riche sentiment de séparation même sur les moniteurs de studio.
 
 ---
 
@@ -112,7 +113,7 @@ Dans les années 1980, le TR-808 a donné naissance au hip-hop, le 909 a donné 
 La série TR a toujours marqué un tournant dans l’histoire de la musique.
 
 Le TR-1000 se taille également un nouveau symbole dans la culture des clubs modernes, où cohabitent IA et performances live.
-Le DJ Bone de Détroit décrit le TR-1000 comme une « machine à rythme respiratoire », et le producteur de Tokyo Seiho déclare : « Le rythme a commencé à susciter de l'émotion ».
+Le DJ Bone de Détroit décrit le TR-1000 comme une « machine à rythme respiratoire », et le producteur de Tokyo Seiho déclare : « Le rythme a commencé à susciter des émotions ».
 Dans un contexte culturel, le TR-1000 ne signifie pas une « extension de la nostalgie » mais une « expansion de la conscience rythmique ».
 
 ---

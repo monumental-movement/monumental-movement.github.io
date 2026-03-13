@@ -26,7 +26,7 @@ Il s'intéresse à la musique dès son plus jeune âge et, à l'âge de 13 ans, 
 
 Son premier projet était "Even Now" de L&O, mais son nom n'apparaît pas au générique, et il a ensuite formé son premier projet collaboratif, The Beat Machine, avec Patrick de Mayer.
 
-Son nom s'est fait connaître grâce à son duo Quadrophonia avec Lucien Foort.
+Son nom s'est fait connaître grâce à son duo Quadroponia avec Lucien Foort.
 
 Pendant ce temps, T99 était initialement un projet solo de Patrick De Meyer, et après avoir sorti trois albums, Patrick De Meyer a entendu qu'Olivier Abbeloos travaillait sur une chanson intitulée "Anasthasia" et a suggéré de la sortir sous le nom de T99.
 

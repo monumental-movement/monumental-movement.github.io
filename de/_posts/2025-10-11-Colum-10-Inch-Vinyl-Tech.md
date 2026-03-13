@@ -20,7 +20,7 @@ title: '[Kolumne] Ergänzung zur 10-Zoll-Schallplattentechnologie: Die Wahrheit 
 ## 10-Zoll-Designkonzept: Präzision im Medium Format
 
 
-Text: mmr | Thema: Eintauchen in den technischen Hintergrund von 10-Zoll-Schallplatten, wie z. B. deren Struktur, Rotationsgeschwindigkeit und Mastering, und Überdenken der Einzigartigkeit des durch das Format erzeugten Klangs.
+Text: mmr｜Thema: Eintauchen in den technischen Hintergrund von 10-Zoll-Schallplatten, wie z. B. deren Struktur, Rotationsgeschwindigkeit und Mastering, und Überdenken der Einzigartigkeit des durch das Format erzeugten Klangs.
 
 
 Die physische Struktur einer Schallplatte verkörpert die Philosophie des Musikformats in ihrer reinsten Form.
@@ -51,7 +51,7 @@ color: #fff;
 Einer der Faktoren, die die Klangqualität einer Schallplatte bestimmen, ist die Anzahl der Umdrehungen (U/min) und die lineare Geschwindigkeit.
 
 - **7 Zoll Single: 45 U/min**
-Am äußeren Rand liegt viel Kraft im Klang und die Wiedergabe hoher Frequenzen ist hervorragend. Allerdings nimmt die Verzerrung am Innenumfang zu.
+Der Klang ist an der Außenperipherie sehr kraftvoll und die hohen Frequenzen werden hervorragend wiedergegeben. Allerdings nimmt die Verzerrung am Innenumfang zu.
 
 - **12 Zoll LP: 33⅓U/min**
 Es eignet sich für die Langzeitwiedergabe und sorgt für eine stabile Klangqualität, allerdings sind die hohen Frequenzen etwas gedämpft.
@@ -61,7 +61,7 @@ Die Grenze liegt bei etwa 12 Minuten pro Seite bei 33⅓ und etwa 8 bis 9 Minute
 Mit anderen Worten: Die Stärke des 10-Zoll-Geräts liegt darin, dass es möglich ist, ein System zu entwickeln, bei dem die Klangqualität Vorrang vor der Zeit hat.
 
 Die durchschnittliche lineare Geschwindigkeit ist etwa 15 % höher als bei 12 Zoll und es gibt weniger Verzerrungen am Innenumfang.
-Besonders bei Musik mit starkem Anschlag, wie etwa Jazz oder Indie-Rock, erzeugt diese Geschwindigkeitseigenschaft ein klares Gefühl für Rhythmus und räumliche Trennung.
+Besonders bei Musik mit starkem Anschlag, wie Jazz oder Indie-Rock, erzeugt diese Geschwindigkeitscharakteristik ein klares Gefühl für Rhythmus und räumliche Trennung.
 
 ---
 

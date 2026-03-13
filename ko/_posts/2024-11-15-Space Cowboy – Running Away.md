@@ -18,7 +18,7 @@ Space Cowboy Nicolas Jean-Pierre Patrick Dresti는 프랑스계 영국인 DJ 싱
 
 「Running Away」는 UK의 인디펜덴트레이벨 Tiger Trax로부터 2007년에 릴리스된 하우스 일렉트로트랙.
 
-B면은 MSTRKRFT의 JFK와 Jesse F. Keeler에 의해 remix.
+B면은 MSTRKRFT의 JFK인 Jesse F. Keeler에 의한 remix.
 
 재킷은 will.i.am, Natalia Kills, Steve Aoki, Keri Hilson, NERD 등의 재킷을 다루는 James Sutton에 의한 것.
 

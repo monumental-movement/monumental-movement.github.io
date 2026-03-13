@@ -14,7 +14,7 @@ title: '[Kolumne] Das moderne Brasilien im Spiegel von Bossa Nova: Die Schnittst
 ---
 
 
-## Stichwort ist „Modernismus“
+## Schlüsselwort ist „Modernismus“
 
 Text: mmr｜Thema: Betrachtet man die kulturelle Verbreitung des Bossa Nova, gibt es Phänomene und Dinge, die auf den ersten Blick nichts miteinander zu tun haben, in Wirklichkeit aber tief miteinander verbunden sind.
 
@@ -37,7 +37,7 @@ color: #fff;
 </style>
 
 
-### Architektur von Bossa Nova und Brasilia – Modernismus in Städten und Musik
+### Bossa Nova- und Brasilia-Architektur – Modernismus in Städten und Musik
 
 Im Jahr 1956 wurde die futuristische Stadt Brasilia als Teil eines Plans zur Verlegung der brasilianischen Hauptstadt gebaut. Die geschwungene und kühne Betonkonstruktion des Architekten Oscar Niemeyer zeigte der Welt ein neues Bild von Brasilien. Zufälligerweise änderte João Gilberto zu dieser Zeit mit „Chega de Saudade“ die Musikgeschichte und Antonio Carlos Jobim erzielte mit „The Girl from Ipanema“ internationalen Erfolg.
 
@@ -59,7 +59,7 @@ Darüber hinaus unterstützte die neue Aufnahmeausrüstung der damaligen Zeit di
 
 In den 1960er Jahren waren die Strände Ipanema und Copacabana in Rio das Epizentrum des jungen Lebensstils und der Mode. Seine Kleidung, zu der weiße Hemden, leichte Kleider, Strohhüte und Sandalen gehörten, etablierte sich als ein Stil, der die „brasilianische Moderne“ zusammen mit dem leichten Klang des Bossa Nova symbolisierte.
 
-Das Bild von Heloisa Pinheiro, dem Model für „Das Mädchen aus Ipanema“, beim Spaziergang am Strand war die perfekte Verbindung von Mode und Musik. Die Bühnenkostüme von Sergio Mendes und die schlichte urbane Kleidung, die bei Bossa-Nova-Aufführungen in den Vereinigten Staaten zu sehen war, trugen dazu bei, auf dem internationalen Markt ein „cooles Brasilien“-Image zu schaffen.
+Heloisa Pinheiro, das Model für „Das Mädchen aus Ipanema“, spazierte am Strand entlang und war ein perfektes Beispiel für die Verschmelzung von Mode und Musik. Die Bühnenkostüme von Sergio Mendes und die schlichte urbane Kleidung, die bei Bossa-Nova-Aufführungen in den Vereinigten Staaten zu sehen war, trugen dazu bei, auf dem internationalen Markt ein „cooles Brasilien“-Image zu schaffen.
 
 Noch interessanter ist, dass die Verbreitung von Bossa Nova im Einklang mit den globalen Modetrends der 1960er Jahre wie Mod und Minimal Fashion erfolgte. Mit ihren raffinierten Melodien und einfachen Kostümen teilten beide eine „reduzierte Ästhetik“.
 
@@ -77,7 +77,7 @@ Wenn wir es so betrachten, können wir erkennen, dass Bossa Nova nicht nur ein M
 
 All dies ist in einer Note von João Gilbertos Gitarre, Jobims Harmonien und der Melodie von „The Girl from Ipanema“ zusammengefasst.
 
-Bossa Nova, den man heute in Cafés und Lounges hört, ist mehr als nur beruhigende Hintergrundmusik. Dahinter steckt der Wunsch Brasiliens nach „Neuheit“ in der zweiten Hälfte des 20. Jahrhunderts und eine kulturelle Resonanz, die über die Musik hinausgeht.
+Der Bossa Nova, den man heute in Cafés und Lounges hört, ist mehr als nur beruhigende Hintergrundmusik. Dahinter steckt der Wunsch Brasiliens nach „Neuheit“ in der zweiten Hälfte des 20. Jahrhunderts und eine kulturelle Resonanz, die über die Musik hinausgeht.
 
 
 ---

@@ -16,7 +16,7 @@ title: Cubic 22 – Night In Motion
 
 Cubic 22는 UK에서 인기를 얻기 시작한 하우스 뮤직 씬의 급성장기인 1990년대 초에 활동을 시작한 벨기에 프로듀서 Peter Ramson과 Danny Van Wauwe의 댄스 뮤직 프로젝트. Peter Ramson과 Danny Van Wauwe는 Set Up System 등 다양한 별명의로 작품을 출시하고 있다.
 
-1991년에 릴리스된 「Night In Motion」은, Cubic 22의 대표작의 하나로, 클럽·댄스·레이브신으로 대히트가 된 클래식 하드 코어·테크노트랙.
+1991년에 발매된 「Night In Motion」은, Cubic 22의 대표작의 하나로, 클럽·댄스·레이브신으로 대히트가 된 클래식 하드 코어·테크노트랙.
 
 #### Tracklist
 ```md

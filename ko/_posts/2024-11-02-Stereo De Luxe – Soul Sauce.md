@@ -16,7 +16,7 @@ title: Stereo De Luxe – Soul Sauce
 
 Stereo de Luxe는 베를린 출신의 DJ 프로듀서 듀오.
 
-원래는 1994년에 Stereo de Luxe라는 예명으로 솔로 DJ로 활동하고 있던 Karsten "Kassi" Wolf에 의해 설립되어, 베를린의 라운지, 이지 리스닝, 클럽 팝 씬으로 활약했다.
+원래는 1994년에 Stereo de Luxe라고 하는 예명으로 솔로 DJ로서 활동하고 있던 Karsten "Kassi" Wolf에 의해 설립되어, 베를린의 라운지, 이지 리스닝, 클럽 팝 씬으로 활약했다.
 
 1998년에 Thomas Mävers와 듀오를 결성. 음악 스타일이 브레이크 비트, 하우스, 일렉트로펑크로 이동했다. 듀오로서의 퍼스트 EP 「Aerocyclette 1999」는 라벨 Bungalow Records로부터 릴리스 되었다.
 

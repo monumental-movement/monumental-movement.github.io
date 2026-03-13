@@ -13,7 +13,7 @@ title: Yellowman & General Trees – Une rencontre Reggae Calypso
 ---
 
 
-Yellowman est un artiste de reggae dancehall très populaire sur la scène musicale jamaïcaine, et General Trees est un artiste dancehall tout aussi connu. Leur collaboration « A Reggae Calypso Encounter » offre un son unique qui combine des éléments du reggae jamaïcain et du calypso de Trinité-et-Tobago.
+Yellowman est un artiste de reggae dancehall très populaire sur la scène musicale jamaïcaine, et General Trees est un artiste de dancehall tout aussi connu. Leur collaboration « A Reggae Calypso Encounter » offre un son unique qui combine des éléments du reggae jamaïcain et du calypso de Trinité-et-Tobago.
 
 La chanson alterne entre Yellowman et General Trees, combinant les rythmes du calypso avec le style énergique du reggae. Les paroles de la chanson décrivent l'atmosphère d'une scène de soirée dansante ou d'un festival de calypso, avec une atmosphère amusante et un rythme de danse.
 

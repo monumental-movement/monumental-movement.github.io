@@ -38,7 +38,7 @@ color: #fff;
 </style>
 
 
-## 1. Le tempérament est une idéologie, pas une règle.
+## 1. Le tempérament n'est pas une règle mais une idée.
 
 12 Equal Temperament est plus une **norme industrielle établie pour la production et la distribution** qu'une théorie musicale.
 Il s’agit d’une réponse aux demandes d’une plus grande liberté de modulation, d’une production de masse d’instruments à clavier et d’une standardisation de l’éducation, et ne constitue pas une solution acoustique optimale.
@@ -71,9 +71,9 @@ Dans la seconde moitié du XIXe siècle, les problèmes suivants sont apparus à
 
 * Véritable turbidité acoustique du 3ème et 6ème degré
 * Homogénéisation de la couleur harmonique
-* Dilution du sens tonal
+* Dilution du sens de la tonalité
 
-De nombreux compositeurs se sont tournés vers des techniques atonales ou dodécaphoniques, mais
+De nombreux compositeurs se sont tournés vers les techniques atonales et dodécaphoniques, mais
 Dans une autre lignée, la « redivision des intervalles » elle-même a été choisie.
 
 ---
@@ -120,7 +120,7 @@ Les nouveaux tempéraments nécessitent de nouveaux instruments.
 
 Les instruments de Partch avaient les rôles suivants :
 
-* Visualisation de la structure du terrain
+* Visualisation de la structure des intervalles
 *Gravure directe sur le corps de l'interprète
 * Indissociabilité de la théorie et de la pratique
 
@@ -154,13 +154,13 @@ Remplacé par **Choix de production**.
 
 * La fréquence peut être spécifiée directement
 * Modification immédiate des tables de réglage
-* Liberté de disposition du clavier
+* Libre de la disposition du clavier
 
 En conséquence, le tempérament est devenu un **paramètre variable** plutôt qu'une prémisse fixe.
 
 ---
 
-## 8. Analyse acoustique : Phénomènes produits par les microtons
+## 8. Analyse acoustique : phénomènes produits par les microtons
 
 ### 8.1 Battements et interférences de phase
 
@@ -209,7 +209,7 @@ Le but n’est pas de faire des éléments microtonaux le thème de la structure
 
 ### 10.1 Conception de la composition
 
-* Décider quel tempérament utiliser
+* Décidez quel tempérament utiliser
 * Comprendre la gamme d'harmonies possibles
 * Examen pour savoir si la modulation est possible ou non
 
@@ -244,7 +244,7 @@ Ceci ne s’établit pas par une compréhension intellectuelle mais par une éco
 La musique microtonale ne constitue pas un genre unique.
 
 * Musique expérimentale
-* musique électronique
+* Musique électronique
 * À l'intérieur du Jazz/Pop
 * Vidéo/Installation
 

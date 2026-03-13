@@ -53,7 +53,7 @@ Afin de comprendre la noirceur du peuple nordique, il est nécessaire de confirm
 
 Les dieux ne sont pas immortels, mais ils font face à la vieillesse, à la trahison et à la mort. Odin sacrifie ses yeux pour acquérir des connaissances, et Loki devient un dieu, mais aussi un destructeur, menant à la fin du monde.
 
-Ce qui est important dans ce système mythologique, c’est qu’il n’y a aucune hypothèse selon laquelle l’ordre durera éternellement. Une vision du monde fondée sur la perdition fait que les expressions musicales reflètent plus fortement le destin que l’espoir.
+Ce qui est important dans ce système mythologique, c’est qu’il n’y a aucune hypothèse selon laquelle l’ordre durera éternellement. Une vision du monde fondée sur l’extinction fait que les expressions musicales reflètent plus fortement le destin que l’espoir.
 
 > La mythologie nordique contient l'idée d'accepter une fin inévitable plutôt que le salut.
 
@@ -75,7 +75,7 @@ Les paroles des chansons folkloriques racontent à plusieurs reprises des histoi
 ## Violence et mort dans les ballades
 
 
-De nombreuses ballades chantées dans toute la Scandinavie depuis le Moyen Âge sont extrêmement violentes au sens moderne. Les meurtres entre frères et sœurs, les trahisons des amants, les infanticides des mères et les morts qui reviennent sous forme de fantômes sont tous racontés de manière concrète.
+De nombreuses ballades chantées dans toute la Scandinavie depuis le Moyen Âge sont extrêmement violentes au sens moderne du terme. Les meurtres entre frères et sœurs, les trahisons des amants, les infanticides des mères et les morts qui reviennent sous forme de fantômes sont tous racontés de manière concrète.
 
 Ces ballades se déroulent souvent comme une liste de faits, sans excitation émotionnelle. La mélodie est également sobre, avec une structure qui laisse l'interprétation à l'auditeur.
 

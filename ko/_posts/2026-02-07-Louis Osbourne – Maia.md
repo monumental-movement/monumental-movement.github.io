@@ -10,7 +10,7 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: Louis Osbourne – Maia
+title: 루이스 오스본 - 마이아
 ---
 
 

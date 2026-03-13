@@ -15,7 +15,7 @@ title: Sponge – Rotting Piñata
 ---
 
 
-스폰지(Sponge)는 1992년 미시간주 디트로이트에서 결성된 미국의 록 밴드.
+Sponge(스폰지)는 1992년에 미시간주 디트로이트에서 결성된 미국의 록 밴드.
 
 1995년에 릴리스한 「Rotting Piñata(로팅 피냐타)」는, Sponge의 퍼스트 스튜디오 앨범이며 대표작. 히트곡 「Plowed」, 「Molly」가 수록되어 있다.
 

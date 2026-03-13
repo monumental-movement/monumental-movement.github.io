@@ -68,14 +68,14 @@ Footwork / Jukeの音楽的特徴は以下の通り。
 
 ---
 
-## 3. Footwork ダンス文化
+## 3. Culture de la danse du jeu de jambes
 
-Footworkは音楽だけでなく、独自のダンススタイルと密接に関連している。シカゴの地下パーティやストリートダンスコミュニティで発展。特徴は以下の通り。
+Le jeu de jambes est étroitement lié non seulement à la musique mais aussi à un style de danse unique. Développé dans les communautés de fête underground et de danse de rue de Chicago. Les caractéristiques sont les suivantes.
 
-- **ステップの複雑さ**：足の動きが高速かつ複雑。  
-- **バトル形式**：ダンスバトルによって技術を競う文化が確立。  
-- **地域密着性**：シカゴ南部コミュニティのクラブやパーティが中心。  
-- **映像文化**：YouTubeやSNSを通じて世界中に拡散。
+- **Complexité des étapes** : Les mouvements des pieds sont rapides et complexes.
+- **Format de bataille** : Une culture de compétences concurrentes a été établie à travers des batailles de danse.
+- **Objectif local** : axé sur les clubs et les soirées de la communauté du sud de Chicago.
+- **Culture vidéo** : diffusée dans le monde entier via YouTube et SNS.
 
 <div class="mermaid">
 flowchart LR
@@ -86,21 +86,21 @@ flowchart LR
 
 ---
 
-## 4. 主要アーティスト・レーベル
+## 4. Artistes/labels majeurs
 
-Footwork / Jukeシーンには以下の重要人物やレーベルが存在する。
+Les figures et labels importants suivants existent dans la scène Footwork/Juke.
 
-| アーティスト/プロデューサー | 貢献 |
-|---------------------------|------|
-| DJ Rashad | フットワークを国際的に広めた中心人物。複雑なリズムと革新的なサンプル技法を展開 |
-| DJ Spinn | DJ Rashadと共にFootworkサウンドを構築、若手への影響大 |
-| RP Boo | 初期Footworkの創始者の1人、Ghetto HouseをFootwork化 |
-| Traxman | シカゴでのJukeシーンの発展に寄与 |
-| Planet Mu | UK拠点のレーベル、Footworkを国際的にリリース |
+| Artiste/Producteur | Cotisation |
+|---------------------|------|
+| DJ Rashad | Une figure centrale qui a diffusé le jeu de jambes à l’échelle internationale. Déployer des rythmes complexes et des techniques d'échantillonnage innovantes |
+| DJ Spinn | Construit le son Footwork avec DJ Rashad, a une grande influence sur les jeunes |
+| RP Bouh | L'un des fondateurs des premiers jeux de jambes, Ghetto House s'est transformé en jeu de jambes |
+| Traxman | A contribué au développement de la scène Juke à Chicago |
+| Planète Mu | Le label britannique Footwork sort à l'international |
 
 ---
 
-## 5. 年表
+## 5. Chronologie
 
 <div class="mermaid">
 timeline
@@ -114,58 +114,58 @@ timeline
 
 ---
 
-## 6. 国際的な拡がり
+## 6. Expansion internationale
 
-Footworkは2010年代以降、アメリカ国外でも注目される。特にヨーロッパ、日本、ブラジル、オーストラリアのエレクトロニック・ダンスミュージックシーンに影響を与えた。
+Le jeu de jambes attire l'attention en dehors des États-Unis depuis les années 2010. Il a particulièrement influencé les scènes de musique électronique de danse en Europe, au Japon, au Brésil et en Australie.
 
-- **ヨーロッパ**：Planet MuやUKベースのプロデューサーがリリース、フットワーク・バトルイベント開催  
-- **日本**：地下クラブでFootworkイベントが開催され、DJsや若手クリエイターに影響  
-- **SNS/配信文化**：YouTube、SoundCloudを通じた国際的な拡散
+- **Europe** : sortie de Planet Mu et des producteurs basés au Royaume-Uni, événement de bataille de jeu de jambes organisé
+- **Japon** : événement Footwork organisé dans un club underground, influençant les DJ et les jeunes créateurs
+- **SNS/Distribution Culture** : Diffusion internationale via YouTube et SoundCloud
 
 ---
 
-## 7. 音楽的分析・代表作
+## 7. Analyse musicale/œuvres représentatives
 
-- **DJ Rashad – “Let It Go”**  
-  高速BPM、断片的ボーカル、複雑なリズム構造の典型例。  
+- **DJ Rashad – « Laissez-le partir »**
+Un exemple classique de BPM rapide, de chant fragmenté et de structures rythmiques complexes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qPecFEVst_c?si=dmLd03_NYbq-Dtzd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- **RP Boo – “Baby Come On”**  
-  初期Footworkの原型、Ghetto Houseとの接続が明確。  
+- **RP Boo – « Bébé, viens »**
+Le lien avec Ghetto House, le prototype des premiers Footwork, est clair.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0nL8al7PtgI?si=EuKhUPf1RAjfl70G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- **DJ Spinn – “At All”**  
-  創造的なサンプル使用、ダンスと音楽の密接な結びつき。
+- **DJ Spinn – « Du tout »**
+Utilisation créative d'échantillons, lien étroit entre la danse et la musique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 8. Footworkの社会的意義
+## 8. Importance sociale du jeu de jambes
 
-- シカゴ南部のアフリカ系アメリカ人コミュニティからの文化発信。  
-- 若者の表現手段、コミュニティ形成の役割。  
-- 世界中のクラブ・フェスで新たなダンススタイルとして受容。  
-
----
-
-## 9. 現代シーンと展望
-
-- **テクノロジーの影響**：Ableton LiveやFL Studioによる自宅制作の拡大。  
-- **国際コラボレーション**：海外アーティストとの共同制作が増加。  
-- **フュージョンジャンル**：Footwork + Hip-Hop / Future Bass / Experimentalのクロスオーバー。  
+- Production culturelle de la communauté afro-américaine du sud de Chicago.
+- Le rôle des moyens d'expression et de construction communautaire des jeunes.
+- Accepté comme nouveau style de danse dans les clubs et festivals du monde entier.
 
 ---
 
-## 10. まとめ
+## 9. Scène contemporaine et perspectives
 
-Footwork / Jukeは単なる音楽ジャンルではなく、シカゴの社会的背景、ストリートダンス文化、若者の創造力が結実した表現形態である。国際的に拡散しつつも、地元コミュニティに根ざす文化であり続ける点が特徴である。
+- **Influence de la technologie** : Expansion de la production maison avec Ableton Live et FL Studio.
+- **Collaboration internationale** : Collaboration accrue avec des artistes étrangers.
+- **Genre Fusion** : Footwork + Hip-Hop / Future Bass / Crossover expérimental.
+
+---
+
+## 10. Résumé
+
+Footwork/Juke est plus qu'un simple genre musical, c'est une forme d'expression qui rassemble le milieu social de Chicago, la culture de la danse de rue et la créativité des jeunes. Même si elle s’est répandue à l’international, elle reste une culture ancrée dans les communautés locales.
 
 ---
 

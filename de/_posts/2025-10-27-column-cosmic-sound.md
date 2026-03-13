@@ -23,9 +23,9 @@ Text: mmr｜Thema: Auf den Spuren der einzigartigen Klangphilosophie, die durch 
 Ende der 1970er Jahre, am Ufer des Gardasees in Norditalien.
 Niemand wusste, dass dieser Ort, der nur ein Ferienort für Touristen war, später zum Zentrum eines akustischen Phänomens namens **Cosmic Sound** werden würde.
 Die zentrale Figur ist **Daniele Baldelli**.
-Er ist mehr als nur ein DJ geworden, er ist als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt geworden.
+Er ist nicht nur ein DJ, sondern wurde auch als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt.
 
-In der damaligen Disco-Szene dominierte der 4/4-Rhythmus, der durch amerikanische Soul- und House-Musik repräsentiert wurde.
+In der damaligen Disco-Szene dominierten 4/4-Rhythmen, vertreten durch amerikanische Soul- und House-Musik.
 Allerdings verwebt Baldelli ethnische Musik, elektronische Klänge, Progressive Rock, afrikanische Trommeln und sogar Krautrock.
 **Wir haben das Konzept des „kosmischen Tempos“ vorgestellt**, das es Ihnen ermöglicht, den BPM frei zu ändern.
 
@@ -64,7 +64,7 @@ Dadurch klingt derselbe Titel wie ein Signal von einem unbekannten Planeten.
 Eine Mischung aus deutschem Krautrock (Can, Neu!), afrikanischer Musik, elektronischem Ambient und italienischer Synth-Disco.
 Es ist wie eine außerirdische Jukebox.
 
-- **Rituale**:
+- **Ritual**:
 Im Cosmic Club werden Lichter und Spiegelkugeln unterdrückt, stattdessen dominieren Rauch und Projektoren den Raum.
 Anstatt zu tanzen, hatte das Publikum das Gefühl, in den Klang „eingetaucht“ zu sein.
 
@@ -91,7 +91,7 @@ Es herrschte ein starkes Gefühl, die aufgenommenen Klänge auf dem Plattenspiel
 
 | Verwendete Quellen | Konkrete Beispiele |
 |:--|:--|
-| Kraftwerk, Can, Ash Ra Tempel |
+| Kraftwerk | Kraftwerk, Can, Ash Ra Tempel |
 | Italienische elektronische Musik | Claudio Gizzi, Tullio De Piscopo |
 | Afro-/ethnische Klänge | Manu Dibango, Fela Kuti |
 | Weltraumthema | Weltraum, Raketen, Cerrone |

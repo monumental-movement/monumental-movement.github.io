@@ -36,7 +36,7 @@ title: 【칼럼】 일렉트로(Electro)：머신이 새기는 미래 도시의
 
 크래프트 워크의 「Trans-Europe Express」와 「Numbers」를 샘플링해, TR-808의 리듬에 융합한 역사적 명곡. 이에 따라 일렉트로는 '미래적인 힙합'으로 등장했다.
 
-Planet Rock은 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 칭찬되고 있으며, 혁신적인 사운드와 선구적인 접근법은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하고 있습니다.
+Planet Rock은 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 칭찬되고 있으며, 혁신적인 사운드와 선구적인 접근 방식은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하고 있습니다.
 
 #### Tracklist
 ```md

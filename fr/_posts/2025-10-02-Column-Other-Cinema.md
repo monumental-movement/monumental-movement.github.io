@@ -72,7 +72,7 @@ Craig Baldwin est un cinéaste expérimental qui dirige la série « Other Cinem
 
 ### La filmographie chef-d'œuvre de Craig Baldwin
 
-Ci-dessous, nous avons répertorié les œuvres majeures de Baldwin par année.
+Ci-dessous, les œuvres majeures de Baldwin sont répertoriées par année.
 
 #### Années 1990
 
@@ -104,7 +104,7 @@ Science-fiction basée sur L. Ron Hubbard et Jack Parsons.
 
 ### Perspective unique de « Tribulation 99 »
 
-Son film de 1991 Tribulation 99 : Alien Anomalies Under America est un documentaire parodique illustrant l'intervention américaine en Amérique latine sous la forme d'une invasion extraterrestre. Baldwin a combiné des éléments tels que les théories du complot existantes, les ovnis et la Terre creuse pour créer une représentation satirique de l'histoire de l'impérialisme américain. Cette œuvre est considérée comme l'un de ses chefs-d'œuvre.
+Le film de 1991 Tribulation 99 : Alien Anomalies Under America est un documentaire parodique qui dépeint l'intervention américaine en Amérique latine sous la forme d'une invasion extraterrestre. Baldwin a combiné des éléments tels que les théories du complot existantes, les ovnis et la Terre creuse pour créer une représentation satirique de l'histoire de l'impérialisme américain. Cette œuvre est considérée comme l'un de ses chefs-d'œuvre.
 
 ---
 
@@ -150,7 +150,7 @@ En particulier, « Tribulation 99 : Alien Anomalies Under America » utilise la 
 
 "Other Cinema" est une série de projections de films expérimentaux organisée par Baldwin tous les samedis à l'Artists' Television Access (ATA) de San Francisco. Cette série est devenue un débouché important pour le cinéma underground et expérimental et constitue un trésor pour les cinéphiles et les chercheurs.
 
-Le travail de Baldwin et « Other Cinema » ont eu une influence majeure sur le développement du cinéma underground américain et ont ouvert de nouvelles possibilités pour le cinéma expérimental. Ses activités continuent d'élargir la gamme de l'expression cinématographique et d'offrir au public de nouvelles perspectives.
+Le travail de Baldwin et « Other Cinema » ont eu une influence majeure sur le développement du cinéma underground américain, ouvrant de nouvelles possibilités pour le cinéma expérimental. Ses activités continuent d'élargir la gamme de l'expression cinématographique et d'offrir au public de nouvelles perspectives.
 
 ---
 
@@ -168,5 +168,5 @@ Pionnier du cinéma underground, Craig Baldwin a vivement critiqué les thèmes 
 
 Son travail continue d'élargir la gamme d'expression cinématographique et d'offrir au public de nouvelles perspectives. Le travail de Baldwin est un incontournable pour les cinéphiles et les chercheurs, et son travail devrait continuer à être regardé.
 
-Other Cinema est un pôle important de la culture cinématographique dans le Mission District de San Francisco, offrant une expérience rare aux amateurs de cinéma underground et expérimental. Sa collection de DVD est une ressource importante pour comprendre en profondeur l’histoire et la culture du cinéma. C'est définitivement un endroit à visiter pour les cinéphiles et les chercheurs.
+Other Cinema est un pôle important de la culture cinématographique dans le Mission District de San Francisco, offrant une expérience rare aux amateurs de cinéma underground et expérimental. Sa collection de DVD est une ressource importante pour comprendre en profondeur l’histoire et la culture du cinéma. C’est certainement un endroit à visiter pour les cinéphiles et les chercheurs.
 

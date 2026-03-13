@@ -14,7 +14,7 @@ title: Eclier – Boxon Sag Hallo
 ---
 
 
-Eclier, ein gebürtiger Sibirier, der von Boxon Records-Direktor Julien Minet (alias DCFTD, DJ Cat) über SNS entdeckt wurde, ist ein Künstler, der für seinen französischen Elektrostil bekannt ist.
+Der in Sibirien geborene Eclier wurde von Boxon Records-Direktor Julien Minet (auch bekannt als DCFTD, DJ Cat) über SNS entdeckt und ist ein Künstler, der für seinen französischen Elektrostil bekannt ist.
 
 B2 ist ein Remix von Tom Deluxx, einem französischen DJ und Produzenten, der auch in der Gruppe Just A Band mit Romain Grenier aktiv ist.
 

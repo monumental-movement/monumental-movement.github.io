@@ -128,7 +128,7 @@ DAWs haben sich von Werkzeugen zum einfachen „Aufnehmen, Arrangieren und Misch
 
 ### Aktuelle Trends und nahe Zukunft
 
-**Einführung von KI**: KI-Tools beginnen, einen Teil der Arbeit zu übernehmen, etwa die Unterstützung beim Songwriting, die Mix-Korrektur und die Mastering-Automatisierung. Es besteht die Möglichkeit, dass sich die Rolle von Werkzeugen von „Unterstützung“ zu „Mitgestalter“ verschiebt.
+**Einführung von KI**: KI-Tools beginnen, einen Teil der Arbeit zu übernehmen, wie etwa die Unterstützung beim Songwriting, die Mix-Korrektur und die Mastering-Automatisierung. Es besteht die Möglichkeit, dass sich die Rolle von Werkzeugen von „Unterstützung“ zu „Mitgestalter“ verschiebt.
 
 **Cloud/Zusammenarbeit**: Die Online-Synchronisierung und die kollaborative Bearbeitung von DAW-Projekten in Echtzeit nehmen zu.
 

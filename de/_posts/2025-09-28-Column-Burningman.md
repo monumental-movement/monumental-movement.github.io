@@ -16,7 +16,7 @@ title: '[Kolumne] Desert City: Geschichte, Anekdoten und moderne Bedeutung von B
 
 ## Erinnerungen an Kunst und Themen, die in der Wüste geschnitzt wurden
 
-Text: mmr｜Thema: Wer die Geschichte des Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“.
+Text: mmr｜Thema: Wer die Geschichte von Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“
 
 Burning Man ist mehr als nur ein Festival, es ist ein Testgelände für die gemeinsame Schaffung einer Black Rock City. Es begann 1986 an den Stränden der San Francisco Bay Area und findet seit den 1990er Jahren jährlich in der Black Rock Desert in Nevada statt. Es ist ein Ort, an dem sich Kunst, Feuer, Technologie und eine Kultur des Schenkens kreuzen und die tief mit der Unternehmens- und Startup-Kultur der Bay Area verknüpft ist.
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### Ursprung und Entwicklung: vom Strand bis zur Wüste
 
-„Burning Man“ begann 1986, als Larry Harvey und Jerry James am Baker Beach in San Francisco ein hölzernes Abbild („The Man“) verbrannten. Von da an wuchs die Zahl der Teilnehmer, und nach dem ersten Umzug in die Black Rock Desert im Jahr 1990 verwandelte sich die Veranstaltung in ein temporäres Städtebauprojekt in der Wüste.
+Burning Man begann 1986, als Larry Harvey und Jerry James am Baker Beach in San Francisco ein hölzernes Abbild (The Man) verbrannten. Von da an wuchs die Zahl der Teilnehmer, und nach dem ersten Umzug in die Black Rock Desert im Jahr 1990 verwandelte sich die Veranstaltung in ein temporäres Städtebauprojekt in der Wüste.
 
 ---
 
@@ -273,7 +273,7 @@ Allerdings sorgte in diesem Jahr sein brennendes Kunstwerk „Crude Awakening“
 
 #### 2008: Amerikanischer Traum
 
-Amerikanischer Traum/Frage an die Konsumgesellschaft. Es gibt viel Kunst zu Themen wie Konsumismus, Mythologie und soziale Struktur.
+American Dream/Fragen zur Konsumgesellschaft. Es gibt viel Kunst zu Themen wie Konsumismus, Mythologie und soziale Struktur.
 
 ---
 
@@ -405,13 +405,13 @@ Die obige Liste wurde unter Bezugnahme auf die Themenbeschreibungen aus dem offi
 
 Der Tempel (ein Ort des Gebets) und der Mann selbst werden oft als Reaktion auf ein Thema gestaltet, mit Elementen, die vom Thema unabhängig sind, aber jedes Jahr neu konfiguriert werden.
 
-Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert vielmehr als „suggestiver Rahmen“.
+Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert eher als „suggestiver Rahmen“.
 
 ---
 
 ### Fazit: Zukünftiges Stadtexperiment in der Wüste
 
-Burning Man ist eine moderne kulturelle Experimentalstadt, die sich aus dem Thema Inferno (1995) → Dekommodifizierung (1996) → Fertility (1997) → Vault of Heaven (2004) → 2010–2025 entwickelt hat und Spiritualität, partizipative Kunst, Dekommerzialisierung und Lebensausdruck vereint.
+Burning Man ist eine moderne kulturelle Experimentalstadt, die sich aus dem Thema Inferno (1995) → Dekommodifizierung (1996) → Fertility (1997) → Vault of Heaven (2004) → 2010–2025 entwickelt hat und Spiritualität, partizipative Kunst, Dekomerzialisierung und Lebensausdruck vereint.
 
 Das jedes Jahr wechselnde Thema und das großformatige Kunstwerk dienen den Teilnehmern als Mittel, ihre Werte und sozialen Beziehungen anhand ihrer Erfahrungen zu hinterfragen. Die vergänglichen Städte, die in der Wüste gebaut wurden, prägen sich in die Erinnerungen des Einzelnen ein und haben weiterhin einen nachhaltigen Einfluss auf Gesellschaft, Kultur und Kreativität.
 

@@ -63,7 +63,7 @@ Musik in Science-Fiction-Filmen ist mehr als nur ein „Hintergrund“, der die 
 ### Seit 2010
 
 * **2014 Interstellar**: Hans Zimmer kombiniert Pfeifenorgel und Synthesizer, um gleichzeitig die Größe des Universums und das Innenleben der Menschen darzustellen.
-* **2021 „DUNE/Dune“**: Ausdruck eines Wüstenplaneten mit Folkmusikelementen + elektronischem Sound, wodurch eine außerirdische Fremdheit entsteht.
+* **2021 „DUNE/Dune“**: Ein Wüstenplanet wird mit Folkmusikelementen + elektronischem Sound zum Ausdruck gebracht, wodurch eine fremdartige Fremdheit entsteht.
 
 ---
 
@@ -86,7 +86,7 @@ Die in Science-Fiction-Filmen verwendete Musik weist die folgenden charakteristi
 * Die Stille des Weltraums und die Präsenz des Unbekannten.
 * Beispiel: Silent Space + klassische Musik aus „2001: Odyssee im Weltraum“.
 
-4. **Fusion von Orchester- und elektronischen Klängen**
+4. **Fusion von Orchester und elektronischem Sound**
 
 * Sowohl Erhabenheit als auch futuristisches Gefühl.
 * Beispiele: „Star Wars“ und „Interstellar“.
@@ -103,7 +103,7 @@ Die in Science-Fiction-Filmen verwendete Musik weist die folgenden charakteristi
 | 1990er Jahre | Fusion aus Anime und Volksmusik |
 | 2000er | Hollywood-Blockbuster und Klassiker kehren zurück |
 | 2010er | Ambient x philosophische Kosmologie |
-| 2020er Jahre | Musikgenerierung und Hybrid im KI-Zeitalter |
+| 2020er | Musikgenerierung und Hybrid im KI-Zeitalter |
 
 
 ---

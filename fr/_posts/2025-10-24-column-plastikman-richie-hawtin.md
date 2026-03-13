@@ -47,7 +47,7 @@ Hawtin a été influencé par **l'esprit qui réside dans les rythmes mécanique
 ---
 
 ## Chapitre 2 : La naissance de Plastikman – Vestiges d'acide et introspection techno
-En 1993, "_Sheet One_" est sorti. Le son traditionnel de l'acid house TB-303 a été blanchi à l'extrême, créant un espace acoustique qui ressemble à des **battements cardiaques et signaux nerveux**. Au contraire, le silence qui dérive entre les sons peut être entendu comme le personnage principal.
+En 1993, "_Sheet One_" est sorti. Le son traditionnel du TB-303 de l'acid house a été blanchi à l'extrême, créant un espace acoustique qui ressemble à des **battements cardiaques et signaux nerveux**. Au contraire, le silence qui dérive entre les sons peut être entendu comme le personnage principal.
 
 そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
@@ -136,41 +136,41 @@ En divisant chaque piste en minuscules échantillons et en réorganisant les imp
 - Le concept « éditer = jouer » en unités d'échantillonnage
 En conséquence, la manipulation physique du DJ s'est transformée en l'acte de jouer du matériel acoustique plutôt que de jouer la musique elle-même.
 
-### 3. Signification musicale
-La série DE9 n'est pas seulement un CD mix, mais fonctionne également comme un enregistrement d'une performance live = une nouvelle chanson.
-- Closer to the Edit (2001) : Précision mécanique froide
-- "DE9 : Transitions" (2005) : Visualisation du traitement des effets
-- « DE9 : Plus proche de l'Edit 2.0 / Live » (2019) : Fusion du modulaire et du numérique
+### 3. 音楽的意義
+DE9シリーズは単なるミックスCDではなく、**ライブパフォーマンスの録音＝新曲**として機能する。  
+- 『Closer to the Edit』（2001）: 冷たい機械的精密性  
+- 『DE9: Transitions』（2005）: エフェクト処理の可視化  
+- 『DE9: Closer to the Edit 2.0 / Live』（2019）: モジュラーとデジタルの融合
 
-> DE9 est une série révolutionnaire qui a fondamentalement changé la question « Qu'est-ce qu'un mix DJ ? dans l'histoire de la musique.
-
----
-
-## Chapitre 9 : Moins l'historique des étiquettes - Terrain d'essai minimaliste
-
-### 1. Établi Moins
-En 1998, Plastikman fonde son propre label, **Minus**.
-L'objectif était "**un espace où vous pouvez expérimenter des sons réduits à l'extrême**".
-Minus se caractérise par le respect de l'individualité de l'artiste tout en maintenant un sentiment d'unité dans la direction philosophique de la musique.
-
-### 2. Œuvres et artistes représentatifs
-- Richie Hawtin (également connu sous le nom de Plastikman)
--Villalobos
--Magda
--Gaiser
-
-Minus était plus qu'une simple plateforme de distribution, elle fonctionnait comme un lieu pour incarner l'idée de techno minimale.
-
-### 3. Influence des étiquettes
-- **Une fusion de sets live et de releases** : sources sonores reconstructibles numériquement
-- **Esthétique de l'espace vide sonore** : Expérimenter « comment utiliser l'espace blanc »
-- **Influence internationale** : Influence directe sur les scènes des clubs de Berlin, d'Allemagne et de Tokyo
-
-> Minus est un « laboratoire acoustique » pour transmettre la philosophie musicale de Plastikman à la prochaine génération.
+> DE9は「DJミックスとは何か」という問いを音楽史上で根底から変えた革命的シリーズである。
 
 ---
 
-## DE9 × Diagramme d'association moins
+## 第9章：Minusレーベル史 ― ミニマルの実験場
+
+### 1. Minus設立
+1998年、Plastikmanは自身のレーベル「**Minus**」を設立。  
+目指したのは「**極限まで削ぎ落としたサウンドを実験できる空間**」。  
+Minusはアーティストの個性を尊重しつつも、**音楽の哲学的方向性**に統一感を持たせた点が特徴である。
+
+### 2. 代表作とアーティスト
+- Richie Hawtin（Plastikman名義を含む）  
+- Villalobos  
+- Magda  
+- Gaiser  
+
+Minusは単なる配信プラットフォームではなく、**ミニマル・テクノの思想を体現する場**として機能した。
+
+### 3. レーベルの影響
+- **ライブセットとリリースの融合**: デジタルで再構築可能な音源  
+- **音の余白の美学**: “空白の使い方”を実験  
+- **国際的影響力**: ドイツ・ベルリンや東京のクラブシーンに直接波及
+
+> Minusは、Plastikmanの音楽哲学を次世代に継承するための「音響的実験室」である。
+
+---
+
+## DE9 × Minus 連関図
 
 <div class="mermaid">
 
@@ -186,14 +186,14 @@ flowchart TD
 ---
 
 
-## Analyse détaillée de la série DE9
+## DE9シリーズ詳細解析
 
-### 1. DE9 : Plus près de l'édition (2001)
-- **Concept** : Une œuvre innovante qui réédite la forme d'onde de la piste échantillon par échantillon pour lui donner un potentiel de performance live.
-- **Analyse de piste représentative** :
-- *Spastik* : Boucle ultra rapide de charleys continus. Dans le diagramme de forme d'onde, vous pouvez voir comment la densité d'impulsion change progressivement.
-- *Moins/Orange* : La réverbération basse fréquence agrandit l'espace. Bien que la forme d’onde soit périodique et régulière, le bruit infime crée une sensation physiologique.
-- **Exemple d'illustration** :
+### 1. DE9: Closer to the Edit (2001)
+- **コンセプト**: トラックの波形をサンプル単位で再編集し、ライブの「演奏可能性」を持たせた革新的作品。
+- **代表トラック解析**:
+  - *Spastik* : 連続するハイハットの超高速ループ。波形図ではパルスの密度が徐々に変化する様子が確認できる。
+  - *Minus/Orange* : 低域の残響が空間を拡張。波形は周期的で規則的だが、微細なノイズが生理的感覚を生む。
+- **図例**:
 
 <div class="mermaid">
 
@@ -203,15 +203,15 @@ graph TD
 
 </div>
 
-### 2. DE9 : Transitions (2005)
+### 2. DE9: Transitions (2005)
 
-- **Concept** : Accent sur le traitement des effets et la « transition » entre les pistes. Reproduit fidèlement la musique live dans un club.
+- **コンセプト**: エフェクト処理とトラック間の「移行」を重視。クラブでの生演奏を忠実に再現。
 
-- **Analyse de piste représentative** :
-- *Get Your Shit Together* : Une interaction complexe de pulsation de basse et de charleston. Visualisez les changements dans les schémas rythmiques avec des diagrammes de formes d'onde.
-- *Another Day* : Structure minimale qui profite des espaces vides dans le son.
+- **代表トラック解析**:
+    - *Get Your Shit Together* : 低音パルスとハイハットが複雑に交差。波形図でリズムパターンの変化を視覚化。
+    - *Another Day* : 音の余白を活かしたミニマル構造。
 
-- **Exemple d'illustration** :
+- **図例**:
 
 <div class="mermaid">
 
@@ -221,15 +221,15 @@ graph TD
 
 </div>
 
-### 3. DE9 : Plus proche de l'Edit 2.0 / Live (2019)
+### 3. DE9: Closer to the Edit 2.0 / Live (2019)
 
-- **Concept** : Une fusion de synthétiseur modulaire et d'édition numérique. Élargir le concept de « performance = édition » qui réorganise les sons en temps réel.
+- **コンセプト**: モジュラーシンセとデジタル編集の融合。リアルタイムで音を組み替える「演奏＝編集」概念を拡張。
 
-- **Analyse de piste représentative** :
-- *Akufen Rework* : Générez un rythme en unités extrêmement petites en superposant des échantillons infimes.
-- *Minus Live Edit* : Une structure pour improviser l'édition de sources sonores existantes. Dans le diagramme de forme d'onde, les fragments qui se chevauchent sont disposés comme de l'art.
+- **代表トラック解析**:
+    - *Akufen Rework* : 微細サンプルを重ねることで、極小単位でリズムを生成。
+    - *Minus Live Edit* : 既存音源の編集を即興で行う構造。波形図は断片の重なりがアートのように配置される。
 
-- **Exemple d'illustration** :
+- **図例**:
 
 <div class="mermaid">
 
@@ -242,7 +242,7 @@ graph TD
 ---
 
 
-## Illustration : Structure sonore Plastikman
+## 図版：Plastikmanサウンドの構造
 
 <div class="mermaid">
 
@@ -256,7 +256,7 @@ flowchart TD
 
 ---
 
-## Chronologie : Trajectoire de Richie Hawtin / Plastikman
+## 年表：Richie Hawtin / Plastikman の軌跡
 
 <div class="mermaid">
 
@@ -278,40 +278,40 @@ timeline
 
 ---
 
-## Dernier chapitre : Hawtin en tant que sculpteur sonore
+## 終章：音の彫刻家としてのHawtin
 
-Plastikman est la clé pour que la techno aille « à l'intérieur » plutôt qu'à « l'extérieur ».
-Il ne s’agissait pas d’un démantèlement de la musique de club, mais d’une reconstruction du rythme qui résonne à l’intérieur du corps et d’une exploration de la question fondamentale de la musique : « Que signifie écouter ? »
+Plastikmanとは、テクノが「外」ではなく「内」へ向かうための鍵である。
+それはクラブミュージックの解体ではなく、身体の内部で鳴るリズムの再構築であり、音楽の根源的問い――「聴くとは何か」への探求だった。
 
-Aujourd'hui, Richie Hawtin continue de tourner les boutons en silence, en prononçant quelques mots.
-En effet, il sait mieux que quiconque qu’une seule rotation peut modifier la frontière entre le son et le silence.
-
-
----
-
-## Discographie complète du label Minus
-
-| Année | Artiste | Nom de la version | Commentaires |
-| ---- | ------------- | -------------------------------- | ----------------------- |
-| 1994 | Plastikman | **Musique** EP | Le summum de l'Acid Techno sous le nom de Plastikman. |
-| 1998 | Plastikman | **Moins** EP | Le premier volet de Minus. Son extrêmement minimal. |
-| 1999 | Magda | **Piste 1** | Une éprouvette sombre et minimaliste.             |
-| 2000 | Richie Hawtin | **EX/PE** | Remix live avant DE9.         |
-| 2001 | Plastikman | **DE9 : Plus proche de l'édition** | Révolution du DJ numérique.               |
-| 2003 | Villalobos | **Allez-Allez** | Influence berlinoise de Minus.       |
-| 2005 | Plastikman | **DE9 : Transitions** | Structuration en mettant l'accent sur les effets.            |
-| 2006 | Gaiser | **EP1** | Exploration de la techno minimale.            |
-| 2010 | Plastikman | **Ensemble en direct** | Lively incarne la philosophie de Minus.        |
-| 2014 | Plastikman | **EX** | Installation à la Tate Modern. |
-| 2019 | Plastikman | **DE9 : 2.0 / En direct** | Montage modulaire + numérique.           |
-
-
-> Le label Minus est un terrain d'essai pour les idées de Plastikman, une plateforme qui permet aux artistes d'explorer la liberté sonore.
+リッチー・ホウティンは今日も言葉少なに、静寂の中でノブを回している。
+その一回転が、音と沈黙の境界を変えることを、誰よりも知っているからだ。
 
 
 ---
 
-## Illustration : influence mutuelle de DE9 × Minus
+## Minusレーベル全ディスコグラフィ
+
+| 年    | アーティスト        | リリース名                       | コメント                    |
+| ---- | ------------- | --------------------------- | ----------------------- |
+| 1994 | Plastikman    | **Musik** EP                | Plastikman名義でAcid Technoの頂点。 |
+| 1998 | Plastikman    | **Minus** EP                | Minus設立第1弾。極限のミニマルサウンド。 |
+| 1999 | Magda         | **Track 1**                 | 暗黒ミニマルの試験作。             |
+| 2000 | Richie Hawtin | **EX/EP**                   | DE9以前のライブリミックス。         |
+| 2001 | Plastikman    | **DE9: Closer to the Edit** | デジタルDJ革命。               |
+| 2003 | Villalobos    | **Allez-Allez**             | Minusからの初期ベルリン影響。       |
+| 2005 | Plastikman    | **DE9: Transitions**        | エフェクト重視の構造化。            |
+| 2006 | Gaiser        | **EP1**                     | ミニマル・テクノの探索。            |
+| 2010 | Plastikman    | **Live Set**                | Minusの思想をライブで体現。        |
+| 2014 | Plastikman    | **EX**                      | Tate Modernでのインスタレーション。 |
+| 2019 | Plastikman    | **DE9: 2.0 / Live**         | モジュラー＋デジタル編集。           |
+
+
+> Minusレーベルは、Plastikmanの思想の実験場であり、アーティストたちに自由な音響探求を許すプラットフォームである。
+
+
+---
+
+## 図版：DE9 × Minus の相互影響
 
 <div class="mermaid">
 

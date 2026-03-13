@@ -91,9 +91,9 @@ Die Linie elektronischer Klänge, die YMO in den 1980er Jahren aufgebaut hatte, 
 Spielemusik, Vocaloids, Chiptunes, Anime-Song-Remixe.
 Obwohl es ein Schmelztiegel der Subkultur ist, hat es einen neuen Kontext geschaffen, der eine Verbindung zur elektronischen Szene der Welt herstellt.
 
-### 2. Die Klänge von Akihabara sind „Augmented Reality“
+### 2. Der Klang von Akihabara ist „Augmented Reality“
 Eine Stadt, in der „Musik“ und „Technologie“ verschmelzen. Live-Streaming, VTuber, KI-Musik.
-Akihabara ist ein „futuristisches Pop-Testgelände“ und entwickelt sich in einem anderen Zeitrahmen als andere Gegenden Tokios.
+Akihabara entwickelt sich zu einem „futuristischen Pop-Testgelände“ in einem anderen Zeitrahmen als andere Gegenden Tokios.
 
 ---
 
@@ -120,7 +120,7 @@ Sie alle bilden das riesige Klangarchiv von Tokio.
 Woher kommt der nächste Tokio-Sound?
 KI-generierte Musik, virtuelle Clubs und Live-Musik auf der Straße.
 Obwohl sich die Form ändern kann, bleibt die Struktur einer „Stadt, die mit Klang spricht“ dieselbe.
-Die Nächte von Shinjuku, die Clubs von Shibuya und der Cyberspace von Akihabara werden als ein einziger „Tokyo-Beat“ auch in Zukunft nachhallen.
+Die Nächte in Shinjuku, die Clubs in Shibuya und der Cyberspace in Akihabara werden als ein einziger „Tokyo-Beat“ auch in Zukunft nachhallen.
 
 ---
 
