@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【コラム】 The Secret History of Pirate Radio — 違法電波が生んだ音楽革命"
+title: "【コラム】 アンダーグラウンド・ミュージックの未来"
 author: mmr
 categories: [ Column ]
 tags: [ Underground, Sigital Culture, Culture, ]
