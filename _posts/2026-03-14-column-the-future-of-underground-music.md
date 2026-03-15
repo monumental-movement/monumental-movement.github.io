@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 アンダーグラウンド・ミュージックの未来"
 author: mmr
 categories: [ Column ]
-tags: [ Underground, Sigital Culture, Culture, ]
+tags: [ Underground, Digital Culture, Culture, ]
 image: ../assets/images/column-the-future-of-underground-music.webp
 date: 2026-03-14 00:00:03 +0900
 ---

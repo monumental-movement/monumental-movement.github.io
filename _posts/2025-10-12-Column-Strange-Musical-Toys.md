@@ -197,6 +197,16 @@ AI玩具や触覚楽器、ソーシャル・トイなど、音楽玩具は新し
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oIjmDqNvO4M?si=Xphd495xrBMA6HSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## 付録
 
 ### 世界のStrange Musical Toys進化史（簡易年表）
