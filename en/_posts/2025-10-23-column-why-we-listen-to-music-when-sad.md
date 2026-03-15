@@ -174,6 +174,16 @@ Music is a medium that turns sadness into love.
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pf0h4h6ACNo?si=F2mkTikfN0F5ZOzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## References/related materials
 
 - [Juslin, P. & Sloboda, J. (2001). Music and Emotion: Theory and Research.](https://amzn.to/3L3FEGw)
@@ -224,7 +234,7 @@ graph TD
     B -->|elicit an emotional response| D[Cingulate cortex: Empathy/self-consciousness]
     C -->|Pleasure evaluation| E[Nucleus accumbens: dopamine reward system]
     D -->|Synchronization with other people's emotions| F[Insular cortex: generation of bodily empathy]
-    E -->|Amplify your sense of satisfaction| B
+    E -->|Increase satisfaction| B
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#b2df8a,stroke:#66a61e

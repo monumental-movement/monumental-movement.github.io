@@ -14,25 +14,25 @@ title: Robotman – Do Da Doo (Remixes)
 ---
 
 
-"Robotman – Do Da Doo (Remixes)" is a remix album of Richie Hawtin's project "Robotman" released in 1994. This album contains several different remixes.
+「Robotman – Do Da Doo (Remixes)」は、1994年にリリースされたリッチー・ホーティン（Richie Hawtin）によるプロジェクト「Robotman」のリミックスアルバムです。このアルバムにはいくつかの異なるリミックスが含まれています。
 
-Plastikman's Acid House Remix -
+Plastikman's Acid House Remix - 
 
-Remixed by Richie Hawtin himself, it features acidic acoustics and a distinctive techno beat. This remix has been highly praised for its unique sound effects.
+リッチー・ホーティン自身によるリミックスで、酸性の音響とテクノの特徴的なビートが特徴的です。このリミックスはその独特の音響効果により、非常に評価されています。
 
-David Holmes Remix -
+David Holmes Remix - 
 
-This remix by David Holmes offers a darker, deeper techno sound.
+デヴィッド・ホームズが手掛けたこのリミックスは、よりダークで深みのあるテクノ・サウンドを提供しています。
 
-Exploding Plastic Remix -
+Exploding Plastic Remix - 
 
-This remix takes a more experimental approach and brings a different texture to the song.
+このリミックスは、より実験的なアプローチを採用しており、異なるテクスチャーを楽曲にもたらします。
 
-J.Acquaviva's Flare For Disco Mix -
+J.Acquaviva's Flare For Disco Mix - 
 
-Remixed by Johnny Acquaviva, it incorporates disco elements while retaining the essence of techno.
+ジョニー・アクアヴィーヴァによるリミックスで、ディスコの要素を取り入れつつも、テクノのエッセンスを保っています。
 
-Based on its discography, music reviews, and sales information, the album is highly regarded among techno fans and collectors, and the Plastikman remix in particular is known for its innovation.
+ディスコグラフィーや音楽のレビュー、販売情報から、このアルバムはテクノファンやコレクターの間で高く評価されており、特にPlastikmanのリミックスはその革新性で知られています。
 
 #### Tracklist
 ```md
@@ -42,7 +42,7 @@ Based on its discography, music reviews, and sales information, the album is hig
 4. Do Da Doo (Detroit Groove Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m53568247398?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53568247398?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sxwoUI7dbrY?si=iRCgFwBxbNh_5CCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

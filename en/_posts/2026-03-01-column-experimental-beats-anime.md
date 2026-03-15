@@ -198,7 +198,7 @@ In animation, video editing is managed frame by frame.
 Therefore, synchronization of the beat cycle and cut division has a strong effect.
 Experimental beats are often designed with this synchronization in mind.
 
-> The beat is no longer just background music, but has become a connection to editing theory itself.
+> The beat is no longer just background music, but has become a link to editing theory itself.
 
 ---
 

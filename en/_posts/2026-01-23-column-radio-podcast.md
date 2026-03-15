@@ -10,25 +10,24 @@ tags:
 - Radio
 - Podcast
 - Media
-title: '[Column] Decline and revival of radio culture as interpreted from the perspective
-  of music culture and economic sphere'
+title: 【コラム】 音楽文化と経済圏から読み解くラジオカルチャーの衰退と再興
 ---
 
 
 
-## A device called radio that existed before music
+## 音楽以前にあったラジオという装置
 
-Text: mmr｜Theme: The media of voice that transforms through music - About the cultural history from radio to podcasts
+文：mmr｜テーマ：音楽を媒介に変容する声のメディア――ラジオからポッドキャストまでの文化史について
 
 
-Radio is often talked about as a music medium, but its essence when it was first invented was the simultaneous sharing of audio.
-News, speeches, readings. Music was one of the main contents, but not the purpose.
+ラジオは音楽メディアとして語られることが多いが、発明当初の本質は「音声の同時共有」にあった。
+ニュース、演説、朗読。音楽は主要コンテンツの一つではあったが、目的ではなかった。
 
-However, music was the element most compatible with the radio device.
-It transcends language, can withstand long periods of time, can be repeated, and has a direct effect on emotions.
-This characteristic leads to an inseparable relationship between radio and music.
+しかし音楽は、ラジオという装置と最も相性の良い要素だった。
+言語を超え、長時間に耐え、反復が可能で、感情に直接作用する。
+この特性が、ラジオと音楽を不可分の関係へ導いていく。
 
->Radio requires music, and music is augmented by radio.
+> ラジオは音楽を必要とし、音楽はラジオによって拡張された。
 
 ---
 
@@ -37,7 +36,7 @@ This characteristic leads to an inseparable relationship between radio and music
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,174 +45,174 @@ color: #fff;
 </style>
 
 
-## A system called broadcasting that reorganized music distribution
+## 音楽流通を再編した放送という仕組み
 
 
-Until the early 20th century, the distribution of music was bound by physical constraints.
-Sheet music, records, concerts. All of these required time and money to access.
+20世紀初頭まで、音楽の流通は物理的制約に縛られていた。
+楽譜、レコード、演奏会。いずれもアクセスには時間とコストが必要だった。
 
-Radio broadcasting instantly collapses this structure.
-Music will arrive all at once, all at once, and for free.
+ラジオ放送は、この構造を一気に崩す。
+音楽は一斉に、同時に、無料で届くものになる。
 
-As a result, the concept of ""fad'' accelerated.
-The experience of listening to the same song at the same time has elevated music into a social phenomenon.
+結果として生まれたのが「流行」という概念の加速だ。
+同じ曲を同じ時刻に聴く体験が、音楽を社会的現象へと押し上げた。
 
-> Hit songs were not music that sold, but music that was shared.
-
----
-
-## Editor of music culture called DJ
-
-Radio has created an existence that presents not only music itself, but also ""how to listen to music.''
-The DJ was the music selector, commentator, and storyteller.
-
-Song order, time, and comments.
-These give context to the music and define the genre.
-
-The phenomenon of music introduced by a particular DJ being recognized as a genre has been repeated all over the world.
-DJs were invisible editors in the formation of music culture.
-
->Music gained meaning by being played.
+> ヒット曲とは、売れた音楽ではなく、共有された音楽だった。
 
 ---
 
-## Music genres shaped by radio
+## DJという音楽文化の編集者
 
-Jazz, rock, soul, hip hop.
-These genres originated as local cultures and were spread by radio.
+ラジオは音楽そのものだけでなく、「音楽をどう聴くか」を提示する存在を生んだ。
+DJは選曲者であり、解説者であり、語り部だった。
 
-Broadcast slots fixate genres, and music becomes standardized according to listeners' expectations.
-Song length, intro, chorus placement.
-The music format itself was optimized for broadcast time.
+曲順、時間帯、コメント。
+これらは音楽に文脈を与え、ジャンルの輪郭を明確にしていく。
 
-> Radio cultivated genres and molded them at the same time.
+特定のDJが紹介した音楽がジャンルとして認識される現象は、世界各地で繰り返された。
+音楽文化の形成において、DJは不可視の編集者だった。
 
----
-
-## Change of leadership through television and visual culture
-
-
-Since the 1950s, television has become a central medium for music culture.
-Music shifts the center of gravity from an auditory experience to a visual experience.
-
-The arrival of MTV in the 1980s determined this trend.
-The success of a song becomes inseparable from its visual expression, and radio loses its role as the first media.
-
-> Music has changed its domain of control from the ears to the eyes.
+> 音楽は流されることで、意味を持った。
 
 ---
 
-## Decline of radio and shift to "listening while listening"
+## ラジオによって形成された音楽ジャンル
 
+ジャズ、ロック、ソウル、ヒップホップ。
+これらのジャンルは、ローカルな文化として誕生し、ラジオによって拡散された。
 
-Caught between television and the Internet, radio will no longer play a leading role.
-But it never completely disappeared.
+放送枠はジャンルを固定化し、リスナーの期待に応じて音楽は定型化されていく。
+曲の長さ、イントロ、サビの配置。
+音楽の形式そのものが放送時間に最適化された。
 
-In the car, while working, late at night.
-Radio will survive as ""voice that does not require concentration.''
-
-During this period, the music becomes background music and the narrative is simplified.
-Although its influence has declined, its pervasiveness in everyday life has remained.
-
-> Radio survived as background sound.
+> ラジオはジャンルを育て、同時に型にはめた。
 
 ---
 
-## The premise of broadcasting that has been dismantled by the internet
+## テレビと映像文化による主導権交代
 
-Digitalization will dismantle the fundamental structure of radio.
-Time, frequency, license.
-These have become unnecessary elements for audio distribution.
 
-On-demand playback obviates the need for simultaneity and the concept of organization.
-Radio no longer needs to be a "broadcast".
+1950年代以降、テレビは音楽文化の中心的メディアとなる。
+音楽は聴覚体験から視覚体験へと重心を移す。
 
-> Voice has been liberated from radio waves.
+1980年代、MTVの登場はこの流れを決定づけた。
+楽曲の成功は映像表現と不可分となり、ラジオは初出メディアとしての役割を失っていく。
 
----
-
-## Reinventing the podcast
-
-Podcasts were radio without a station.
-Created by individuals, spoken by individuals, and reaching individuals.
-
-Unlike music distribution, podcasts focus on storytelling.
-Music becomes an object to be analyzed, remembered, and contextualized.
-
-> Music is no longer being played, but is being talked about.
+> 音楽は耳から目へと支配領域を変えた。
 
 ---
 
-## Role of music podcasts
-
-Modern music podcasts are not aimed at playing songs.
-History, background, and personal experience.
-Music is treated as a cultural text.
-
-This is a more personal, long-form reimagining of DJ culture from the golden age of radio.
-
-> Even if music is not played, it is played as a part of culture.
-
----
-
-## The end of the broadcast advertising model
+## ラジオの衰退と「ながら聴き」への転換
 
 
-The traditional radio economy relied on advertising.
-The structure in which value was determined by viewer ratings and reach was optimized for large-scale broadcasting.
+テレビとインターネットに挟まれ、ラジオは主役の座を降りる。
+だが完全に消滅することはなかった。
 
-Niche music cultures and specialized narratives are difficult to establish under this model.
+車内、作業中、深夜。
+ラジオは「集中を要求しない音声」として生き残る。
 
-> The advertising model limited cultural breadth.
+この時期、音楽はBGM化し、語りは簡略化される。
+影響力は低下したが、日常への浸透度は維持された。
+
+> ラジオは背景音として生き延びた。
 
 ---
 
-## Multi-layered structure of the podcast economy
+## インターネットが解体した放送の前提
+
+デジタル化は、ラジオの根本構造を解体する。
+時間、周波数、免許。
+これらは音声配信にとって不要な要素となった。
+
+オンデマンド再生は、同時性を不要にし、編成の概念を消し去る。
+ラジオは「放送」である必要がなくなった。
+
+> 音声は電波から解放された。
+
+---
+
+## ポッドキャストという再発明
+
+ポッドキャストは、放送局を持たないラジオだった。
+個人が制作し、個人が語り、個人に届く。
+
+音楽配信とは異なり、ポッドキャストは語りを中心に据える。
+音楽は分析され、記憶され、文脈化される対象となる。
+
+> 音楽は流されず、語られるようになった。
+
+---
+
+## 音楽ポッドキャストの役割
+
+現代の音楽系ポッドキャストは、楽曲再生を目的としない。
+歴史、背景、個人的体験。
+音楽は文化的テキストとして扱われる。
+
+これはラジオ黄金期のDJ文化を、より私的で長尺な形で再構築したものだ。
+
+> 音楽は再生されなくても、文化として再生される。
+
+---
+
+## 放送広告モデルの終焉
 
 
-Podcasts don't have a single revenue model.
+従来のラジオ経済は広告に依存していた。
+視聴率と到達数が価値を決める構造は、大規模放送に最適化されていた。
 
-Advertising, sponsorship, products, and events.
-Multiple revenue streams are combined and creators remain independent.
+ニッチな音楽文化や専門的語りは、このモデルでは成立しにくい。
+
+> 広告モデルは文化の幅を制限した。
+
+---
+
+## ポッドキャスト経済圏の多層構造
+
+
+ポッドキャストは単一の収益モデルを持たない。
+
+広告、支援、商品、イベント。
+複数の収益源が組み合わされ、制作者は独立性を保つ。
 
 ---
 
 <div class="mermaid">
 flowchart LR
-    制作者 -->|delivery| リスナー
-    リスナー -->|support| 制作者
-    制作者 -->|Products/Events| リスナー
+    制作者 -->|配信| リスナー
+    リスナー -->|支援| 制作者
+    制作者 -->|商品・イベント| リスナー
 </div>
 
 
-> Relationships have become more valuable than scale.
+> 規模よりも関係性が価値になった。
 
 ---
 
-## Host Lead Advertising and Trust
+## ホストリード広告と信頼
 
-Advertisements narrated by the producers themselves are received as part of the program.
-This is a different type of contextual consumption than broadcast advertising.
+制作者自身が語る広告は、番組の一部として受け取られる。
+これは放送広告とは異なる文脈消費だ。
 
-Listeners buy trust in the narrator, not a product.
+リスナーは商品ではなく、語り手への信頼を購入する。
 
-> Advertisements mediated trust, not attention.
-
----
-
-## Participatory culture of listener support
-
-
-Direct support is more than just a fee.
-It is a commitment to the continuation of the program and a participation in the community.
-
-Audio media once again has a place.
-
-> The support was an extension of the hearing.
+> 広告は注意ではなく、信頼を媒介にした。
 
 ---
 
-## Chronology: Music/Radio/Podcasts
+## リスナー支援という参加型文化
+
+
+直接支援は、単なる課金ではない。
+番組存続への関与であり、共同体への参加である。
+
+音声メディアは、再び「場」を持つようになった。
+
+> 支援は聴取の延長線にある行為だった。
+
+---
+
+## 年表：音楽・ラジオ・ポッドキャスト
 
 
 <div class="mermaid">
@@ -227,7 +226,7 @@ timeline
     2020 : 音声文化再評価
 </div>
 
-> The history of radio has been one of continuous transformation rather than decline.
+> ラジオの歴史は、衰退ではなく変形の連続だった。
 
 ---
 

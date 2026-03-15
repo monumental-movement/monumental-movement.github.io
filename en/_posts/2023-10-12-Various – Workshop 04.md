@@ -12,13 +12,13 @@ title: Various – Workshop 04
 ---
 
 
-Side A is a deep house track by musicians/DJ Move D (David Moufang) from Heidelberg, Germany, and Fragment.
+A面はドイツのハイデルベルク出身のミュージシャン/DJ Move D（David Moufang）とFragment によるディープハウストラック。
 
-The first track on the B-side is a deep minimal house track by German producer Even Tuell (Paul David Rollmann).
+B面１曲目はドイツ出身のプロデューサーEven Tuell（Paul David Rollmann）によるディープ・ミニマル・ハウストラック。
 
-The second track on the B-side is a downtempo track by German DJ/producer and founder of Deep Vibes Recordings Sascha Dive.
+B面２曲目はドイツ人DJ/プロデューサーであり、Deep Vibes Recordingsの創設者Sascha Diveによるダウンテンポトラック。
 
-"Workshop 04" was released by the German label Workshop (distributed by HardWax) founded by Jens Kuhn.
+「Workshop 04」はJens Kuhnによって設立されたドイツのレーベルWorkshop（販売はHardWax）からリリースされた。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Even Tuell –Untitled
 B2. Sascha Dive –Untitled
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1PuDFDx3ak?si=I1qg36Dx918i_y1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

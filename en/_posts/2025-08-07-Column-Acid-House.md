@@ -113,7 +113,7 @@ Acid house influenced not only music, but also visual and youth culture.
 
 - Highly compatible with the Zine culture and free newspapers of the time
 
-This fashion continued into rave culture, trance, techno, breakbeat, and other scenes from the 1990s onwards.
+This fashion continued into rave culture, trance, techno, breakbeat, and other scenes from the 1990s onward.
 
 
 <hr>
@@ -185,8 +185,20 @@ Acid is not a reverberation of the past, but a sonic mutant that continues to ev
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eK5695jB6vc?si=HFqnh8aSeZRUmUPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ### Related columns
 
 🔗 [[Column] From Chicago to the world: The birth and evolution of house music](https://monumental-movement.jp/Colum-Chicago-House)
 
 🔗 [[Column] Roland TR-1000: Redefining rhythm ─ Analog genes and the heartbeat of the AI ​​era](https://monumental-movement.jp/Column-Roland-TR-1000)
+
+---

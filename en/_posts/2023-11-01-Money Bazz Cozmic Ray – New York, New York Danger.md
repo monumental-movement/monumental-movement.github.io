@@ -11,7 +11,7 @@ title: Money Bazz Cozmic Ray – New York, New York Danger
 ---
 
 
-This is an EP by Money Bazz and Cozmic Ray released in 1998 on the label "Psycho V Records".
+1998年にレーベル「Psycho V Records」からリリースされたMoney BazzとCozmic RayのEPです。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B2. Cozmic Ray–Danger (Instrumental)
 B3. Cozmic Ray–Danger (Accapella)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m18868269557?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18868269557?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/htETEO_4MlI?si=AGvlJ0UYsGVr_C0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

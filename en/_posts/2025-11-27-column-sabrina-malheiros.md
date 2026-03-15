@@ -127,7 +127,7 @@ worthy of being called.
 
 IG Culture is a London broken beat legend whose musical and cultural influence is immeasurable.
 
-The IG Culture version of "Clareia" has a lower center of gravity rhythm and a strong soulful and street feel.
+The IG Culture version of "Clareia" has a rhythm with a lower center of gravity and a strong soulful and street-like feel.
 The beat is not rough, but rather smooth, creating a deep sound image that envelops Sabrina's singing voice.
 
 It can be said to be the most "underground" finish with a strong black texture.
@@ -145,35 +145,35 @@ It"s easy to see why Sabrina"s songs resonated so strongly with UK artists.
 * Affinity with Soul/Neo Soul
 * Light rhythm that fits the structure of club music
 
-Sabrina"s music inherently had elements that fit naturally into the two contexts of London"s jazz movement and broken beat.
+ロンドンのジャズ・ムーブメントと、ブロークンビートの2つの文脈に自然に溶け込む要素を、サブリナの音楽は元来備えていた。
 
 For this reason, the remix group of "Clareia" was acclaimed worldwide as a new bridge between "Brazil x UK".
 
 ---
 
-## **6. Characteristics of music style**
+## **6. 音楽スタイルの特徴**
 
 Sabrina Malleiros' songs consistently exhibit the following characteristics:
 
-### ● **Soft vocals and urban elegance**
+### ● **柔らかいボーカルと都市的エレガンス**
 
 The singing voice is light, the humidity is not too high, and it is urbane and sophisticated.
 
-### ● **Mixture of jazz/funk/samba/soul**
+### ● **ジャズ／ファンク／サンバ／ソウルの混融**
 
-While inheriting Azimuth's DNA, it also naturally connects with contemporary neo-soul and club music.
+AzimuthのDNAを継ぎながら、現代的なネオソウルやクラブミュージックとも自然に結びつく。
 
-### ● **The boundary between acoustic and electric is blurred**
+### ● **アコースティックとエレクトリックの境界が曖昧**
 
-There's the warmth of live instruments and the clarity of modern beats at the same time.
+生楽器の暖かさと、現代的なビートの明瞭さが同時に存在する。
 
-### ● **Texture of "light"**
+### ● **“光”の質感**
 
-Her works have strong images of "light," "wind," and "transparency," both from the title and the sound production.
+彼女の作品はタイトルからも音作りからも“光”“風”“透明感”といったイメージが強い。
 
 ---
 
-## **7. Chronology: The history of Sabrina Malleiros (simplified version)**
+## **7. 年表：サブリナ・マリェイロスの歩み（簡易版）**
 
 <div class="mermaid">
 timeline
@@ -190,47 +190,47 @@ timeline
 
 ---
 
-## **8. Structure of "Clareia": Illustration (song elements)**
+## **8. “Clareia” の構造：図解（楽曲要素）**
 
 <div class="mermaid">
 flowchart TD
-    A[Clareia<br>Original song] --> B[soft vocals]
-    A --> C[Floating Rhodes]
-    A --> D[light percussion]
-    A --> E[mellow bass line]
+    A[Clareia<br>原曲] --> B[柔らかいボーカル]
+    A --> C[浮遊感あるRhodes]
+    A --> D[軽快なパーカッション]
+    A --> E[メロウなベースライン]
 
-    B --> F[symbol of transparency]
-    C --> G[Azimuth-like chord feeling]
-    D --> H[dance sex]
-    E --> I[Bridge of jazz/soul]
+    B --> F[透明感の象徴]
+    C --> G[Azimuth的コード感]
+    D --> H[ダンス性]
+    E --> I[ジャズ／ソウルの架橋]
 
 </div>
 
 ---
 
-## **9. Summary: Why Sabrina Mallheiros is a "symbol of modern Brazilianism"**
+## **9. 総括：なぜサブリナ・マリェイロスは“現代ブラジリアンの象徴”なのか**
 
-Although Sabrina's music is rooted in Brazilian tradition, it has elements that naturally resonate across borders.
+サブリナの音楽は、ブラジルの伝統に根ざしながらも、国境を超えて自然に共振する要素を持っている。
 
-* Brazilian Samba Soul
-* Jazz funk from Azimuth
-* Neo-soul/R&B mellowness
-* Affinity with London's broken beat
+* ブラジルのサンバ・ソウル
+* Azimuth由来のジャズ・ファンク
+* ネオソウル／R&B的なメロウネス
+* ロンドンのブロークンビートとの親和性
 
-All of that intersected, and 2017's "Clareia" and its remix became a symbol of her career.
+そのすべてが交差し、2017年の “Clareia” とそのリミックスは彼女のキャリアを象徴する存在となった。
 
-Sabrina Mallheiros is not just an "inheritor of Brazilian music";
-**Modern Brazilian artist with "sound of light"**
-It has established a unique position as a
+サブリナ・マリェイロスは単なる“ブラジル音楽の継承者”ではなく、
+**“光の音”を持つ現代ブラジルの表現者**
+として独自の位置を築いたのである。
 
-In his future works, he will continue to be at the center of how Brazilian music connects with the global dance/jazz scene.
+今後の作品でも、ブラジルの音楽と世界のダンス／ジャズ・シーンがどのように接続されるのか、その中心に立ち続けるだろう。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nGAtLk7x6sw?si=NtA_Y_rnX4N7f2QO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

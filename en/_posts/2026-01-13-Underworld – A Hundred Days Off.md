@@ -13,7 +13,7 @@ title: Underworld – A Hundred Days Off
 ---
 
 
-"A Hundred Days Off" is the sixth album released by British electronic music group Underworld in 2002, and the first album after Darren Emerson left the group in 2001. Contains the anthem "Two Months Off". (Japanese edition)
+「A Hundred Days Off」は、2002年にイギリスのエレクトロニックミュージックグループUnderworld(アンダーワールド)がリリースした6枚目のアルバムであり、このアルバムは、これは2001年にダレン・エマーソンがグループ脱退後の最初のアルバム。アンセム「Two Months Off」が収録されている。(日本盤)
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ title: Underworld – A Hundred Days Off
 10. Luetin
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m32312918498?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32312918498?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xnenJizLpts?si=KkIsxEzwxAAMD4Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

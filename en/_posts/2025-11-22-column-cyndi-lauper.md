@@ -9,18 +9,17 @@ tags:
 - Pops
 - 80s
 - 90s
-title: '[Column] Cyndi Lauper: The story of a person who continued to change the times
-  with voice and color'
+title: 【コラム】 Cyndi Lauper：声と色彩で時代を変え続けた人間の物語
 ---
 
 
-# **1. Introduction: The phenomenon of Cyndi Lauper**
+# **1. はじめに：シンディ・ローパーという現象**
 
 
-Text: mmr｜Theme: Cyndi Lauper's life, episodes in Japan before her debut, global success, anecdotes from We Are the World, advancement to Broadway, social activities
+文：mmr｜テーマ：Cyndi Lauperの生涯、デビュー前の日本でのエピソード、世界的成功、We Are the Worldでの逸話、Broadway進出、社会活動について
 
 
-Cyndi Lauper. When many people hear the name, they may immediately think of the bright colors of the 80s. Her hair color, clothes, singing voice, and even her way of life are all colorful. However, when we look back at the path she has taken since her birth, we see that the diversity of her path is more like a stratum made up of layer upon layer of suffering, setbacks, anxiety, love, and rebelliousness.
+シンディ・ローパー。その名前を聞くと、多くの人はすぐに80年代の鮮やかな色彩を思い浮かべるかもしれません。髪の色も、服装も、歌声も、そして生き方そのものも、とにかく「カラフル」。しかし、彼女が生まれてから歩んできた道を振り返ると、むしろその多彩さは、苦悩や挫折、不安、愛情、反骨心が層になって積み重なってできた地層のようなものだと分かります。
 
 
 ---
@@ -30,7 +29,7 @@ Cyndi Lauper. When many people hear the name, they may immediately think of the 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,85 +38,85 @@ color: #fff;
 </style>
 
 
-# **2. Childhood and family background: A girl with an "unusual voice" born in Queens**
+# **2. 幼少期と家族背景──クイーンズに生まれた“変わった声”の少女**
 
-Cyndi Lauper was born in Queens, New York in 1953. Her mother is an Italian-American woman who loves art and theater. There was a rift with his father, and the family environment was not peaceful. I grew up in what is called a "complicated family."
+シンディ・ローパーは1953年、ニューヨーク州クイーンズで生まれました。母親はイタリア系アメリカ人で、芸術や演劇が大好きな女性。父親とは不和があり、家庭環境は穏やかとは言えませんでした。いわゆる“複雑な家庭”で育ったわけです。
 
-When Cindy was young, she was the kind of kid who would sing just about anything. He sang next to his mother in the kitchen and even in the backyard of the house, and may have been a little noisy to his siblings. However, the singing voice was different from normal. It"s tall, stretchy, looks like it"s going to make you cry, and yet it's strong. I was even told by a teacher at school, ""You should tone down that strange voice a little.''
+幼い頃のシンディは、とにかくなんでも歌う子どもでした。台所に立つ母親の横で歌い、家の裏庭でも歌い、兄弟にとっては少し“うるさい存在”だったかもしれません。ところが、その歌声は普通とは違いました。高くて、伸びがあって、どこか泣き出しそうで、それでいて強い。学校の先生から「その変わった声、少し抑えたほうがいい」と言われたことすらあります。
 
-Nowadays, her voice is a worldwide trademark, but as a child, Cindy lacked confidence in her own voice, and there was a time when she worried that ""everyone thought my voice was strange.''
+今でこそ彼女の声は世界的なトレードマークですが、幼少期のシンディは自分の声に自信を持てず、「私の声って、みんなが変だと言う」と悩む時期もありました。
 
-However, her mother loved the voice very much. This is because even in the midst of difficult family situations, Cindy's singing voice brought brightness into the home.
-
----
-
-# **3. Youth: Rebellious spirit and inclination towards art**
-
-In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
-
-Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
-
-During this time, she wore unique fashion combinations at thrift stores and flea markets. The ""unique and colorful fashion'' that came to be seen later on was born in part because people could not afford to buy new items when they were poor.
-
-The roots of music are soul, blues, rock, and musicals. The city of New York was the best "free music college" for her.
+しかし、彼女の母親はその声をとても愛していました。なぜなら、家庭の苦しい状況の中でも、シンディの歌声だけは家に明るさを持ち込んでくれたからです。
 
 ---
 
-# **4. Meeting with Japanese woman Sakue Suzuki before her debut**
+# **3. 青年期：反骨精神と芸術への傾倒**
 
-Shortly before her major debut in the 1980s, Cindy was living a not-so-easy life, juggling music activities and part-time jobs. At that time, his life was supported by the help of a Japanese woman. That woman was Sakue Suzuki, who ran a Japanese restaurant.
+思春期になるとシンディは芸術に傾倒し、絵を描いたり、詩を書いたりと、クリエイティブなことなら何でも挑戦しました。美術学校に通おうとしましたが、そこでも“規則”とか“正しい表現”にとらわれる環境になじめませんでした。
 
-Mr. Sakue provided Cindy, who was still unknown and in need, with meals for free, and continued to provide emotional support. Cindy later said, ""Sakue was an important member of my family.''
+シンディ・ローパーの人生には一貫したテーマがあります。それは「私は私でいたい」という強烈な意志です。この意志は、彼女が20歳前後の頃にニューヨークの雑多な街を転々としながら磨かれていきました。
 
-This experience later became one of the reasons why she regarded Japan in a special way. She is not just an ""artist who often visits Japan for performances", but a ""gratitude for Japan" that lives at her core.
+この頃、彼女は古着屋やフリーマーケットで独特なファッションを組み合わせて着ていました。のちの「個性的でカラフルなファッション」は、貧乏だった頃に“新品を買えなかったからこそ生まれた”という側面もあります。
+
+音楽のルーツは、ソウル、ブルース、ロック、そしてミュージカル。ニューヨークという街は、彼女にとって最高の“無料の音楽大学”だったわけです。
 
 ---
 
-# **5. Blue Angel Era: Struggles, Collapse, and Vocal Cord Damage**
+# **4. デビュー前の日本人女性・鈴木サクエとの出会い**
 
-Cindy began her career as a professional singer in the late 1970s when she formed a band called Blue Angel.
-Blue Angel has a unique musical style that is a mix of rockabilly, R&B, and new wave, and is quite unique even today. However, due to contract issues with the management company and financial circumstances, the band did not last long.
+1980年代にメジャーデビューする少し前、シンディは音楽活動とアルバイトを掛け持ちした、決して楽ではない生活を送っていました。そんな時期、ある日本人女性の助けによって生活が支えられます。その女性が、日本料理店を営んでいた「鈴木サクエ」さんです。
 
-And here comes the big misfortune.
-Due to overuse of her vocal cords, she suffered from severe vocal cord nodules.
+サクエさんは、まだ無名で困窮していたシンディに、時には無償で食事を提供し、精神的にも励まし続けました。シンディはのちに「サクエは私にとって“大切な家族の一人”だった」と語っています。
 
-The situation is such that doctors say, ""It may be difficult for him to return as a singer.''
-This was in the early 1980s.
+この体験が、のちに彼女が日本を特別視する理由の一つとなりました。単なる“来日公演が多いアーティスト”ではなく、彼女の根底には「日本への感謝」が息づいているのです。
 
-Cindy cried. But he didn't give up. She reevaluated her vocal technique from scratch, got a coach, continued rehabilitation, and finally regained her singing voice. It can be said that the struggles she faced during this period were the reason why she did not give up in the face of any adversity later on.
+---
+
+# **5. Blue Angel時代──苦闘と崩壊、そして声帯損傷**
+
+シンディが本格的にプロの歌手として走り出したのは、Blue Angelというバンドを結成した1970年代後半のことです。
+Blue Angelはロカビリー、R&B、ニューウェーブが混ざったような独特の音楽性で、今聴いてもかなりユニークな存在です。ところが、マネジメント会社との契約問題や経済的な事情が重なり、バンドは長く続きませんでした。
+
+そして、ここで大きな不運が襲います。
+声帯の酷使によって、彼女は深刻な声帯結節を患ったのです。
+
+医者からは「歌手として復帰するのは難しいかもしれない」と言われるほどの状況。
+これが1980年代初頭のことでした。
+
+シンディは泣きました。しかし諦めなかった。発声法を一から見直し、コーチをつけ、リハビリを続け、ついに歌声を取り戻していきます。この時期の苦闘は、のちに彼女がどんな逆境にも折れなかった理由だと言えるでしょう。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WfrxGMtLTyA?si=HwxgUJixRgXWzt53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# **6. Solo contract and destiny begins**
+# **6. ソロ契約、そして運命が動き出す**
 
-Around 1981-82, Cindy begins singing in nightclubs. Here, her overwhelming singing voice once again attracted attention and caught the attention of those in the industry. Her life takes a turn when she meets David Wolfe, who later becomes her manager.
+1981〜82年頃、シンディはナイトクラブで歌い始めます。ここで彼女の圧倒的な歌声が再び注目され、業界関係者の目に留まりました。のちにマネージャーとなるデビッド・ウルフと出会い、彼女の人生は急激に動き始めます。
 
-At the time, the music industry tended to judge female artists, especially those with too much individuality, as ""difficult." However, Cindy's ""difficulty" was what made her attractive.
+当時の音楽業界は、女性アーティスト、とくに個性的すぎる女性を“扱いにくい”と判断する傾向がありました。ところがシンディは、その“扱いにくさ”こそが魅力だったのです。
 
-In 1983, I finally got a contract for my solo debut.
-This is where Cyndi Lauper's "world domination" begins.
-
----
-
-# **7. "She"s So Unusual" – Birth of a masterpiece that will go down in pop history**
-
-The album "She"s So Unusual", recorded in 1983 and released in early 1984, has been passed down as a masterpiece in music history.
-
-Bright, fun, free, and a little sad.
-Perhaps it was because the overall atmosphere was ""Cindy-like'' that it captured the hearts of so many people.
-
-Musicality wasn't the only thing that made this album a success.
-With the rise of MTV, we entered an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
+1983年、ついにソロデビューの契約が決まりました。
+ここから、シンディ・ローパーの“世界制覇”が始まります。
 
 ---
 
-## **7-1. A deep dive into representative songs**
+# **7. 『She’s So Unusual』──ポップ史に残る名盤誕生**
+
+1983年に録音され、1984年初頭にリリースされたアルバム『She’s So Unusual』は、音楽史に残る名盤として語り継がれています。
+
+明るくて、楽しくて、自由で、そして少し切ない。
+全体の雰囲気が「シンディそのもの」だったからこそ、多くの人の心をつかんだのでしょう。
+
+このアルバムの成功を支えたのは音楽性だけではありません。
+MTVの台頭により「映像が音楽を左右する時代」に突入していた中、シンディは圧倒的な視覚的インパクトを放ちました。カラフルな衣装、自由すぎる髪型、路地裏を走り回るミュージックビデオ。そのどれもが“時代の空気”にぴったりだったのです。
+
+---
+
+## **7-1. 代表曲の深掘り**
 
 ### **Girls Just Want to Have Fun**
 
-Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
+シンディの代名詞。女性が自由に楽しむことを讃える軽快なアンセムですが、実はもともとは男性目線の曲。それをシンディが歌詞とニュアンスを変えたことで、女性の自由の象徴となりました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIb6AZdTr-A?si=tt7rzky2_Q3m9hRl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -125,8 +124,8 @@ Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjo
 
 ### **Time After Time**
 
-Although it"s a ballad, Cindy"s high notes are powerful and at the same time delicate enough to make your heart clench.
-It is said that the feelings of a time when a relationship with a lover is not going well are reflected in the song.
+バラードでありながら、シンディの高音は力強く、同時に胸の奥がぎゅっとなるほど繊細です。
+恋人との関係がうまくいかない時期の感情がそのまま歌に宿っていると言われます。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdQY7BusJNU?si=Mo3fY3kDRNf-o-HC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -134,148 +133,148 @@ It is said that the feelings of a time when a relationship with a lover is not g
 
 ### **She Bop**
 
-It was a very bold song for its time, a pop song about sexuality.
+セクシャリティについてポップに歌った、当時としてはかなり大胆な曲。
 
 ---
 
-# **8. Reception in Japan and episode of coming to Japan**
+# **8. 日本での受容と来日エピソード**
 
-In the 1980s, Japanese pop culture was rapidly blossoming, and the number of foreign artists visiting Japan was increasing. Under such circumstances, Cyndi Lauper is loved by Japanese people in a different way than other artists.
+1980年代、日本のポップ文化は急速に開花し、海外アーティストの来日も増加していました。そんな中で、シンディ・ローパーは他のアーティストとは違った形で日本人に愛されます。
 
-Why?
-There are three reasons.
+なぜか？
+理由は3つあります。
 
-1. **Good compatibility between the visuals and Japan"s 80"s fashion culture**
-2. **The warmth of her personality**
-3. **Special affinity for Japan**
+1. **ビジュアルと日本の80年代ファッション文化の相性の良さ**
+2. **彼女の人柄の温かさ**
+3. **日本に対する特別な親近感**
 
-She enjoys Japanese food every time she visits Japan and quickly becomes friends with the local staff. During the 1994 Japan tour, when he heard that there was a fan with a disability in the audience, he took time after the stage to meet him in person.
+彼女は来日のたびに日本料理を楽しみ、現地のスタッフともすぐ仲良くなる。1994年の日本ツアーでは、観客の中に障がいを持つファンがいると聞くと、ステージ後に時間をとって直接会いに行ったというエピソードもあります。
 
-In addition, the 2001 album ""Shine" was released only in Japan. This is said to have been a way of ""giving back to the Japanese fans."
+また、2001年のアルバム『Shine』は日本限定で発売されました。これは「日本のファンへの恩返し」の意味があったとされています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61cwXn85sxk?si=NMR2yKfbhBEPlTIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# **9. "We Are the World" - A historic night and the accessory incident**
+# **9. 「We Are the World」──歴史に残る夜とアクセサリー事件**
 
-""We Are the World'' is a charity song created in 1985 to help with the African famine.
-Participants included "American music's dream team" including Michael Jackson, Lionel Richie, Stevie Wonder, Dionne Warwick, and Bruce Springsteen.
+1985年、アフリカ飢饉の救済を目的に制作されたチャリティ曲「We Are the World」。
+参加者はマイケル・ジャクソン、ライオネル・リッチー、スティービー・ワンダー、ディオンヌ・ワーウィック、ブルース・スプリングスティーンなど“アメリカ音楽界のドリームチーム”でした。
 
-The recording studio was filled with a strange sense of tension.
-Meanwhile, Cindy causes an "incident".
+レコーディングスタジオは異様な緊張感に包まれていました。
+そんな中、シンディはある“事件”を起こします。
 
-### **An incident where an accessory hit the microphone and caused noise**
+### **アクセサリーがマイクに当たってノイズが出る事件**
 
-The large number of accessories she was wearing around her neck hit the microphone, causing a clattering noise.
+彼女が首から下げていた大量のアクセサリーがマイクにあたり、「ガチャガチャ」というノイズを発生させてしまったのです。
 
-Engineer: "What's that sound?"
-Quincy Jones: "Cindy, can you...take that?"
+エンジニア：「何の音だ？」
+クインシー・ジョーンズ：「シンディ、それ……取れる？」
 
-Cindy burst out laughing and said, "Oh, sorry!" as she removed her accessories, and it is said that the atmosphere instantly relaxed.
+シンディは「あらごめん！」と大笑いしながらアクセサリーを外し、場の空気が一気にほぐれたと言われています。
 
-This incident has been passed down as an episode that symbolizes Cindy's "ability to turn tension into laughter."
+この出来事は、シンディの“緊張を笑いに変える力”を象徴するエピソードとして語り継がれています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HpReqNFVL-0?si=fIa219LH-KniM82d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# **10. Late 80s to 90s: From pop star to artist**
+# **10. 80年代後半〜90年代：ポップスターから表現者へ**
 
-From the late '80s to the '90s, Cindy was torn between commercial success and a desire for artistic expression.
+80年代後半から90年代にかけて、シンディは商業的成功と芸術家としての表現欲求の間で揺れ動きます。
 
-### **Hat Full of Stars (1993)**
+### **『Hat Full of Stars』（1993）**
 
-This work shows her maturation as an artist, dealing with themes such as domestic violence, trauma, and social issues. Although it was not a huge commercial hit, it received high praise from music critics.
-
----
-
-# **11. 2000s: Experimental period across genres**
-
-In the 2000s, she began to freely transcend the boundaries of genres, such as blues albums, country-oriented songs, and dance music. On each tour, they entertained fans in a different way each time, including acoustic and band formations.
-
-Cindy did not place any value on ""repeating successful forms" and valued ""being true to who I am now" above all else.
+家庭内暴力、トラウマ、社会問題といったテーマを扱い、彼女のアーティストとしての成熟を示した作品です。商業的には大ヒットとは言えませんでしたが、音楽批評家から高い評価を受けています。
 
 ---
 
-# **12. Challenge to Broadway: Wins Tony Award for "Kinky Boots"**
+# **11. 2000年代：ジャンル横断の実験期**
 
-In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots," which won him the Tony Award for Best Original Song.
+2000年代に入ると、彼女はブルースアルバム、カントリー寄りの楽曲、ダンスミュージックなど、ジャンルの壁を自由に越え始めます。ツアーではアコースティック編成やバンド編成など、毎回違う形でファンを楽しませました。
 
-Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
+シンディは「成功した形を繰り返すこと」に価値を置かず、「今の自分に正直であること」を何より大切にしました。
 
-In this work, she strongly conveys the message that it's okay to live your life the way you are. This is also her own life philosophy, and has received great support from the LGBTQ community.
+---
+
+# **12. Broadwayへの挑戦：『Kinky Boots』でトニー賞を受賞**
+
+2013年、ミュージカル『Kinky Boots』で作詞作曲を担当し、トニー賞最優秀オリジナル楽曲賞を受賞します。
+
+元々、シンディは歌手としてだけでなく、映画や演劇といった表現文化にも深く影響を受けて育ってきました。それがBroadwayという形で結実したのです。
+
+この作品で彼女は、「自分らしく生きて良い」というメッセージを強く打ち出しました。それは彼女自身の人生哲学でもあり、LGBTQコミュニティからも大きな支持を集めました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# **13. Social activities: LGBTQ support and True Colors Foundation**
+# **13. 社会活動：LGBTQ支援とTrue Colors Foundation**
 
-Cindy has long been known as a supporter of the LGBTQ community.
-He has a particular interest in the issue of youth homelessness and founded the True Colors Foundation.
+シンディは長年、LGBTQコミュニティの支援者として知られています。
+特に若年ホームレスの問題に強い関心を持ち、「True Colors Foundation」を設立しました。
 
-She said in an interview:
+彼女はインタビューでこう語っています。
 
-> "I have a voice. If those who can use a voice don't speak up, who will?"
+> 「私には声がある。声を使える人間が声を上げなかったら、誰が上げるの？」
 
-I believe that the reason I became famous was to help people in weaker situations, and I continue to act based on this belief.
-
----
-
-# **14. Latest: Farewell Tour and Cultural Heritage**
-
-In the 2020s, Cyndi Lauper announced her farewell (not retirement, but the last major tour of her life).
-But she's not retiring.
-This shows a strong desire to continue cultural activities in ways other than music.
-
-Now, younger generations are rediscovering Cindy through YouTube and TikTok, and are appreciating her voice, fashion, and way of life.
+自分が有名になった理由は、弱い立場の人を助けるためだった──そう信じて行動し続けているのです。
 
 ---
 
-# **15. Illustration: Career transition**
+# **14. 最新期：フェアウェル・ツアーと文化的遺産**
+
+2020年代、シンディ・ローパーはフェアウェル（引退ではなく、生涯で最後の大規模）ツアーを発表しました。
+しかし、彼女は引退するわけではありません。
+音楽以外の方法で文化的活動を続けていく意志を強く示しています。
+
+今や、若い世代はYouTubeやTikTokを通じてシンディを再発見し、彼女の“声”“ファッション”“生き方”を改めて評価しています。
+
+---
+
+# **15. 図解：キャリア推移**
 
 <div class="mermaid">
 flowchart TD
-  A["1953 Born in Queens"] --> B["Active in the 1970s Blue Angel"]
-  B --> C["1983 Solo Contract"]
-  C --> D["1984 She"s So Unusual Big Hit"]
-  D --> E["1985 We Are the World Participation"]
-  E --> F["1993 Hat Full of Stars Release"]
-  F --> G["2000s experimental period"]
-  G --> H["2013 Kinky Boots Tony Award"]
-  H --> I["2020s Farewell Tour"]
+  A["1953 クイーンズに生まれる"] --> B["1970s Blue Angelで活動"]
+  B --> C["1983 ソロ契約"]
+  C --> D["1984 She’s So Unusual 大ヒット"]
+  D --> E["1985 We Are the World 参加"]
+  E --> F["1993 Hat Full of Stars リリース"]
+  F --> G["2000s 実験期"]
+  G --> H["2013 Kinky Boots トニー賞"]
+  H --> I["2020s フェアウェルツアー"]
 </div>
 
 ---
 
-# **16. Detailed chronology: 1953–2025**
+# **16. 詳細年表：1953–2025**
 
-**1953** Born in Queens, New York
-**1970s** Blue Angel formation/dissolution
-**1983** Solo contract
-**1984** "She"s So Unusual" a worldwide hit
-**1985** Participated in "We Are the World"
-**1993** "Hat Full of Stars"
-**2000s** Cross genres such as blues/dance
-**2013** Won Tony Award for "Kinky Boots"
-**2020s** Farewell tour announcement
+**1953**　ニューヨーク州クイーンズ生まれ
+**1970s**　Blue Angel結成・解散
+**1983**　ソロ契約
+**1984**　『She’s So Unusual』世界的大ヒット
+**1985**　「We Are the World」参加
+**1993**　『Hat Full of Stars』
+**2000s**　ブルース／ダンスなどジャンル横断
+**2013**　『Kinky Boots』でトニー賞受賞
+**2020s**　フェアウェルツアー発表
 
 ---
 
-# **17. Summary: Cyndi Lauper's "Freedom"**
+# **17. まとめ：シンディ・ローパーの“自由という生き方”**
 
-The reason why Cyndi Lauper has been loved for over 40 years is...
-Because she is the embodiment of freedom.
+シンディ・ローパーが40年以上にわたり愛され続けている理由は、
+彼女が“自由を体現する存在”だからです。
 
-Even if my voice has changed,
-Even if you are poor,
-Even if there are difficult times,
-Even if you become a global star,
-Even if you succeed on Broadway,
+自分の声が変わっていても、
+貧しくても、
+苦しい時期があっても、
+世界的スターになっても、
+Broadwayで成功しても、
 
-She has always chosen to live her own life.
+彼女は常に「自分らしく生きること」を選んできました。
 
-That way of life is her greatest music and her greatest message.
+その生き方こそが、彼女の最大の音楽であり、最大のメッセージなのです。
 
 ---

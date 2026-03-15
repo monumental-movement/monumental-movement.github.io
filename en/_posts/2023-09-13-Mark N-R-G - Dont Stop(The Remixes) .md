@@ -9,17 +9,17 @@ tags:
 - Techno
 - Remix
 - 10inch
-title: Mark N-R-G - Don't Stop (The Remixes)
+title: Mark N-R-G - Don't Stop(The Remixes)
 ---
 
 
-Mark NRG is a DJ and music producer from Frankfurt, Germany, who started his music career in 1989.
+マーク・エヌアールジー（Mark NRG）は、ドイツのフランクフルト出身のDJ兼音楽プロデューサーで,音楽活動を1989年にスタートしました。
 
-Having produced over 50 records in different projects and worked in numerous music recording studios as a sound engineer and producer, he has been praised for his bold attitude towards artistic experimentation.
+異なるプロジェクトで50以上のレコードを制作し、音響エンジニアおよびプロデューサーとして数多くの音楽レコーディングスタジオで活動し、芸術的な実験に対する彼の大胆な姿勢は称賛されています。
 
-Early in his career, he was known for successfully fusing elements of jazz and hip-hop with electronic music such as house, techno, and industrial. Even in the techno scene, he has released many works that are acoustically outstanding in club environments, and this "Don't Stop" is one of them.
+彼のキャリア初期には、ジャズやヒップホップの要素をハウス、テクノ、インダストリアルなどのエレクトロニックミュージックと見事に融合させたことで知られています。テクノシーンにおいても、クラブの環境で音響的にも卓越した作品を多くリリースし、この「Don't Stop」もその中の一つです。
 
-Mark NRG's legacy continues to resonate with electronic music fans around the world, establishing him as an innovative artist within the industry.
+マーク・エヌアールジーのレガシーは、今もなお世界中のエレクトロニックミュージックのファンに響き続けており、業界内の革新的なアーティストとしての地位を確立しています。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ A. Don't Stop (Remix By Daz Sound And Trevor Rockcliffe (Black & Brown))
 B. Don't Stop (Remix By Roland Casper)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m68077728341?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68077728341?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L12IPPdtWWY?si=kBM-hEwrzJw_2SFp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

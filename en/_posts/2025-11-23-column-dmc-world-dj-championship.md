@@ -11,17 +11,16 @@ tags:
 - 80s
 - 90s
 - 00s
-title: '[Column] DMC World DJ Championship: The trajectory of turntablism becoming
-  a global culture'
+title: 【コラム】 DMC World DJ Championship：ターンテーブリズムが世界文化へ昇華するまでの軌跡
 ---
 
 
-# DMC World DJ Championship——World history of turntablism
+# DMC World DJ Championship——ターンテーブリズムの世界史
 
-Text: mmr｜Theme: History of the DMC World DJ Championship, technological innovation, crowdfunding, history of the world championship, achievements of Japanese players, equipment culture, Turntablism
+文：mmr｜テーマ：DMC World DJ Championship の歴史、技術革新、クラウドファンディング、世界大会の変遷、日本勢の功績、機材文化、Turntablismについて
 
-Known as one of the world's largest DJ battles, the **DMC World DJ Championship (hereinafter referred to as DMC)** has progressed with the growth of turntablism culture since its inception in 1985.
-The process by which hip-hop DJ techniques became independent as a ""musical expression" and was further institutionalized as a ""world competition" is a unique history unparalleled to any other genre.
+世界最大級の DJ バトルとして知られる **DMC World DJ Championship（以下 DMC）** は、1985 年の発足以来、ターンテーブリズム文化の成長とともに歩んできた。  
+ヒップホップの DJ 技法が「音楽的表現」として自立し、さらに「世界大会」として制度化されていく過程は、他のジャンルに類を見ないユニークな歴史である。
 
 ---
 
@@ -30,7 +29,7 @@ The process by which hip-hop DJ techniques became independent as a ""musical exp
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,161 +38,161 @@ color: #fff;
 </style>
 
 
-# Chapter 1 Why was DMC born?
-## 1-1　Disco music and the rise of mix technology
-DMC (Disco Mix Club) was originally established in the UK in 1983 as a record pool service for club DJs, with the main purpose of providing remixed sound sources for DJs.
-The background was the rapidly growing **club culture** in Europe and the **occupation of professional DJs**.
+# 第1章　DMC はなぜ生まれたのか  
+## 1-1　ディスコミュージックとミックス技術の台頭  
+DMC（Disco Mix Club）はもともと英国で 1983 年に設立された **クラブ DJ 向けのレコードプールサービス**であり、DJ 向けのリミックス音源を提供することを主目的としていた。  
+背景にあったのは、ヨーロッパで急成長していた **クラブカルチャー** と **プロフェッショナル DJ の職業化**である。
 
-At the time, DJ technology was dominated by mixes that seamlessly connected songs, and scratching and tricks were still only being developed in certain hip-hop regions.
+当時の DJ 技術は「途切れなく曲をつなぐ」ミックスが主流であり、スクラッチやトリックはまだ一部のヒップホップ地域でのみ発展していた。
 
-## 1-2 In 1985, the invention of "competitive DJing"
-DMC founder Tony Prince came up with the idea of ​​showcasing the creativity of DJs as a ""competition'' and held the first DMC World DJ Championship in London in 1985.
-Initially, this competition was not focused on tricks as it is today, but instead was a place to compete in song selection and mixing techniques.
-
----
-
-# Chapter 2 Scratch Revolution: Hip-hop techniques reach the world
-
-## 2-1 1987: DJ Cheese changed the world
-An essential incident in the history of DMC is the appearance of DJ Cheese (USA).
-At the 1986 tournament, he performed a routine that emphasized scratching and beat juggling, completely overturning the traditional mix-based rules.
-
-From this moment on, the world began to share the value that ""turntablism, including scratching, decides the game.''
-
-## 2-2　1988-1990: Toward the era of sampling, beat juggling, and composition
-After Cheese, DJs didn't just play songs;
-- Manually reconfigure beats
-- chop the pieces
-- Treat samples like instruments
-It has evolved in that direction.
-
-Particularly in the early 1990s, DJ Aladdin, Cutmaster Swift, Cash Money and others created routines centered around "rhythmic reconstruction," and the competition grew as a showcase for musical performance.
+## 1-2　1985 年、「DJ の競技化」という発明  
+DMC 創設者の Tony Prince は、DJ が持つ創造性を「競技」として見せるアイデアを思いつき、1985 年にロンドンで初の DMC World DJ Championship を開催した。  
+この大会は当初、現在の「トリック中心」ではなく、**選曲とミックス技術を競う場**であった。
 
 ---
 
-# Chapter 3 Analog golden age (around 1990-2000)
+# 第2章　スクラッチ革命：ヒップホップの技法が世界へ
 
-## 3-1 "World Tournament" format established
-In the 1990s, DMC established the "6-minute routine system" that continues today, and in addition to the **Individual Competition (World DJ Championship)**,
-- **Battle for World Supremacy**
-- **Team Division (World Team Championship)**
+## 2-1　1987 年：DJ Cheese が世界を変えた  
+DMC の歴史を語るうえで欠かせない事件が **DJ Cheese（米国）の登場**である。  
+彼は 1986 年大会で **スクラッチとビートジャグリングを前面に押し出したルーティン**を披露し、従来のミックス主体のルールを根底から覆した。
 
-will be added.
+この瞬間から、「スクラッチを含むターンテーブリズムが勝負を決める」という価値観が世界に共有されるようになる。
 
-## 3-2 Advancement of Japanese companies
-Japan has had a major influence on the DMC world since the late 1990s.
+## 2-2　1988 〜 1990：サンプリング、ビートジャグリング、構成の時代へ  
+Cheese 以降、DJ は「曲を流す」だけでなく、  
+- 手動でビートを再構成する  
+- 断片を切り刻む  
+- サンプルを楽器的に扱う  
+という方向へと進化した。
 
-### Main historical topics
-- **1997: DJ KRUSH joins the jury (symbol of international recognition)**
-- **2000: DJ KENTARO becomes the first Japanese to win the world championship (highest score in history)**
-- Since then, DJ YASA, DJ HI-C, Kireek (5 consecutive wins in the team category), etc. have gained worldwide acclaim.
-
-In particular, KENTARO"s routine is said to be ""outstanding in its speed, accuracy, composition, and musicality,'' making it one of the most symbolic years in DMC"s history.
+特に 1990 年代初頭には、DJ Aladdin、Cutmaster Swift、Cash Money らが「リズムの再構築」を核としたルーティンを構築し、大会は **音楽的パフォーマンスのショーケース**として成長していく。
 
 ---
 
-# Chapter 4 Digitalization and reorganization of tournament rules (2000-2010)
+# 第3章　アナログ黄金期（1990〜2000 年前後）
 
-## 4-1　Final Scratch, Serato, Traktor: Introduction of digital sound sources
-In the mid-2000s, when **DVS (Digital Vinyl System)** became popular, there was a move toward allowing its use at DMC tournaments.
-In 2006, the use of DVS in various formats was allowed, and the tournament, which had previously been limited to analog, accepted the style of ""manipulating digital sound sources with a turntable.''
+## 3-1　「世界大会」のフォーマットが確立  
+1990 年代に入ると、DMC は現在も続く「6 分ルーティン方式」を確立し、**個人戦（World DJ Championship）** に加え、  
+- **バトル部門（Battle for World Supremacy）**  
+- **チーム部門（World Team Championship）**  
 
-This results in
-- Freely use your own edited sound sources
-- Greatly expands the range of routine configurations
-- Increased tone play and melodic expression
-Such an evolution is taking place.
+が追加される。
 
-## 4-2　Video qualifying/online
-Around 2011, an **Online DJ Championship** using YouTube was introduced, opening the door for DJs from all over the world to participate.
+## 3-2　日本勢の躍進  
+日本は 1990 年代後半から DMC 世界に大きな影響を与えた。
 
----
+### 主な歴史的トピック
+- **1997：DJ KRUSH が審査員に参加（国際的評価の象徴）**
+- **2000：DJ KENTARO が日本人初の世界優勝（史上最高得点記録）**
+- その後も DJ YASA、DJ HI-C、Kireek（チーム部門 5 連覇）などが世界的評価を獲得
 
-# Chapter 5 Crowdfunding and DMC maintenance (2015-present)
-
-## 5-1　The power of the community that supported the continuation of the tournament
-While DMC is a world-class tournament, it is not a commercially huge organization and has always faced financial challenges.
-In particular, in the late 2010s, as the burden of operating costs increased, DMC conducted **crowdfunding** multiple times targeting fans and the DJ community.
-
-### Main facts
-- A fundraising project was carried out by **DMC Foundation** and funds were allocated to the continuation of the tournament.
-- Supported by DJs, equipment brands, and fans around the world
-- Providing commemorative goods and limited content for supporters
-
-As a result, DMC began to become more of a community-led and protected cultural asset, rather than a ""commercial event''.
-
-## 5-2　Pandemic period: Switching to remote competition
-In 2020-2021, the new infectious disease made it difficult to hold a physical event, so DMC held the world tournament completely online.
-Equipment companies including Rane and Technics supported the competition, ushering in an era in which routines were valued as video works.
+特に KENTARO のルーティンは「スピード、正確性、構成力、音楽性すべてが突出」とされ、DMC の歴史でも象徴的な年度の一つとなっている。
 
 ---
 
-# Chapter 6 Evolution of turntablism technology
-The history of DMC is also the **technical history of turntablism**.
+# 第4章　デジタル化と大会ルールの再編（2000〜2010）
 
-## 6-1 Development of scratch technology
-### 1980s: Establishment of basic technology
-- Baby Scratch
-- Transformer
--Chirp
+## 4-1　Final Scratch、Serato、Traktor：デジタル音源の導入  
+2000 年代半ば、**DVS（Digital Vinyl System）** が普及すると、DMC 大会でも使用が許可される方向へ進んだ。  
+2006 年にはさまざまな形式の DVS 使用が認められ、アナログ限定だった大会は「デジタル音源をターンテーブルで操る」スタイルを受け入れた。
 
-### 1990s: Speeding up and compounding
--Flare
-- Crab
--Hydroplane
-- Orbit
+これにより、  
+- 独自編集の音源が自由に使える  
+- ルーティン構成の幅が大きく広がる  
+- トーンプレイやメロディックな表現が増える  
+といった進化が生まれていく。
 
-### 2000s: Toward the phase of handling melodies
-- Musical Scratch
-- Melodic Play
-- Tone play
-
-These technological innovations will lead to DJs gaining a position similar to that of ""beat makers" and ""composers."
-
-## 6-2 Team division and ensemble
-As demonstrated by C2C (France), Kireek (Japan), The Mixfitz (Canada), etc., the team category is more than just an exhibition of scratch skills;
-- Orchestration with 4 people at the same time
-- Composed like a live performance
-- Production synchronized with video
-
-This led to the development of turntables being treated as ""ensemble instruments.''
+## 4-2　ビデオ予選・オンライン化  
+2011 年頃からは YouTube を活用した **オンライン予選（Online DJ Championship）** が導入され、世界中の DJ に参加の門戸が開かれた。
 
 ---
 
-# Chapter 7 Equipment history: Technics, Vestax, Rane, etc.
+# 第5章　クラウドファンディングと DMC の維持（2015〜現在）
 
-## 7-1　The overwhelming presence of Technics SL-1200
-The equipment that has remained at the heart of DMC is the **Technics SL-1200 series**.
-Robustness, torque, precision, and durability were all at the top level, and it reigned as the standard machine for DJ battles.
+## 5-1　大会継続を支えたコミュニティの力  
+DMC は世界的大会である一方、商業的に巨大組織ではなく、経済的な課題も常に抱えていた。  
+特に 2010 年代後半、運営費の負担が大きくなったことから、DMC はファンや DJ コミュニティを対象に複数回にわたり **クラウドファンディング** を実施している。
 
-## 7-2 Vestax revolution
-In the 1990s and 2000s, Vestax
-- High torque turntable
-- DJ dedicated mixer (PMC series)
-, and gained support from turntablists around the world.
-Vestax mixers were frequently used at DMC venues, and their presence greatly contributed to the development of turntablism culture.
+### 主な事実  
+- **DMC Foundation** として資金調達プロジェクトが実施され、大会継続の資金に充当  
+- 世界中の DJ・機材ブランド・ファンが支援  
+- 支援者向けに記念グッズや限定コンテンツを提供  
 
-## 7-3 Baton to Rane
-Since the 2010s, **Rane** has been the official sponsor of DMC, and Rane Sixty-Two, Seventy-Two, Twelve, etc. have been used at many world championships.
-This will accelerate a new DJ style that combines DVS and analog.
+これにより、DMC は「商業イベント」ではなく、**コミュニティ主導で守られる文化資産**としての性質を強めていった。
 
----
-
-# Chapter 8 Global movement supporting DMC
-
-## 8-1 Institutionalization of regional qualifying rounds
-DMC established the flow of national preliminaries → national champions → world tournament, creating the foundation for each country's scene to develop independently.
-
-## 8-2 Impact on education/schools
-Turntablism has been around since the 2000s.
-- DJ School
-- Workshop
-- University Music and Media Department
-It has come to be recognized as a genre of music rather than just a club technique.
+## 5-2　パンデミック期：リモート大会への切り替え  
+2020〜2021 年は新型感染症により物理的な開催が困難となったため、DMC は完全オンライン形式での世界大会を実施。  
+Rane や Technics を含む機材企業が大会をサポートし、映像作品としてのルーティンが重視される時代へと突入した。
 
 ---
 
-# Chapter 9 Chronology: DMC Main Topics
+# 第6章　ターンテーブリズム技術の進化  
+DMC の歴史はそのまま **ターンテーブリズムの技術史** でもある。
+
+## 6-1　スクラッチ技術の発展  
+### 1980s：基礎技術の確立  
+- Baby Scratch  
+- Transformer  
+- Chirp  
+
+### 1990s：高速化と複合化  
+- Flare  
+- Crab  
+- Hydroplane  
+- Orbit  
+
+### 2000s：メロディを扱うフェーズへ  
+- Musical Scratch  
+- Melodic Play  
+- トーンプレイ  
+
+これらの技術革新は、DJ が「ビートメーカー」「作曲家」に近い立場を獲得することにつながっていく。
+
+## 6-2　チーム部門と合奏化  
+C2C（フランス）、Kireek（日本）、The Mixfitz（カナダ）などが示したように、チーム部門は単なるスクラッチ技術の展示ではなく、  
+- 4 人同時でのオーケストレーション  
+- 生演奏のような構成  
+- 映像と同期した演出  
+
+など、ターンテーブルを「アンサンブル楽器」として扱う方向へ発展した。
+
+---
+
+# 第7章　機材史：Technics、Vestax、Rane など
+
+## 7-1　Technics SL-1200 の圧倒的存在  
+DMC の中心にあり続けた機材が **Technics SL-1200 シリーズ**である。  
+堅牢性、トルク、精度、耐久性のすべてがトップレベルであり、DJ バトルの標準機として君臨した。
+
+## 7-2　Vestax の革命  
+1990〜2000 年代には Vestax が  
+- 高トルクターンテーブル  
+- DJ 専用ミキサー（PMC シリーズ）  
+を投入し、世界中のターンテーブリストから支持を集めた。  
+DMC 会場でも Vestax のミキサーが頻繁に使用され、その存在はターンテーブリズム文化の発展に大きく寄与した。
+
+## 7-3　Rane へのバトン  
+2010 年代以降は **Rane** が DMC の公式スポンサーを務め、多くの世界大会で Rane Sixty-Two、Seventy-Two、Twelve などが採用された。  
+これにより、DVS とアナログを融合した新たな DJ スタイルが加速していく。
+
+---
+
+# 第8章　DMC を支える世界的ムーブメント
+
+## 8-1　地域予選の制度化  
+DMC は国別予選 → 国のチャンピオン → 世界大会という流れを確立し、各国のシーンが独自に発展する土壌を作った。
+
+## 8-2　教育・スクールへの影響  
+ターンテーブリズムは 2000 年代以降、  
+- DJ スクール  
+- ワークショップ  
+- 大学の音楽・メディア学科  
+にも取り入れられ、単なるクラブ技術ではなく **音楽の一ジャンル** として評価されるようになった。
+
+---
+
+# 第9章　年表：DMC 主要トピック
 
 <div class="mermaid">
 timeline
@@ -213,52 +212,52 @@ timeline
 
 ---
 
-# Chapter 10 Modern DMC and the future of turntablism
+# 第10章　現代の DMC とターンテーブリズムの未来
 
-## 10-1 Era of hybrid tournaments
-Since the pandemic, a tournament format that combines online and offline has become established.
-He is moving in the direction of combining the routine of a video work with the enthusiasm of real life.
+## 10-1　ハイブリッド大会の時代  
+パンデミック以降は、オンラインとオフラインを組み合わせた大会形式が定着。  
+映像作品としてのルーティンと、リアルの熱狂を組み合わせる方向へ進んでいる。
 
-## 10-2　Future where the turntable becomes a "musical instrument"
-In the world of electronic music, turntables are
-- improvisation
-- Composition tools
-- live art
-It is being treated as such.
+## 10-2　ターンテーブルが「楽器」になる未来  
+電子音楽の世界では、ターンテーブルは  
+- 即興演奏  
+- 作曲ツール  
+- ライブアート  
+として扱われつつある。
 
-DMC is at the center of this trend, and DJs are becoming recognized as ""artists who create music" rather than simply ""playing songs."
-
----
-
-# Conclusion: DMC has become a culture itself
-
-DMC World DJ Championship is more than just a competition.
-**The Spirit of Hip Hop Culture**
-**Community solidarity**
-**Express your creativity**
-**History of technological innovation**
-
-All of that became a condensed existence.
-
-As symbolized by crowdfunding, DMC is a culture protected by fans around the world, and its story will continue to be rewritten by DJs and the community.
-
+DMC はこの潮流の中心に位置し、DJ は単なる「曲を流す存在」ではなく、「音楽を生み出すアーティスト」として認知されつつある。
 
 ---
 
-## Technique family tree
+# 結語：DMC は文化そのものになった
 
-*Below is a diagram categorizing turntablism techniques.
+DMC World DJ Championship は、単なる競技大会ではなく、  
+**ヒップホップ文化の精神**  
+**コミュニティの連帯**  
+**創造性の発露**  
+**技術革新の歴史**  
 
-## **① Turntablism technique/system diagram (scratch technique classification)**
+そのすべてが凝縮された存在となった。
 
-### Systematic diagram of scratch techniques
+クラウドファンディングに象徴されるように、DMC は世界中のファンによって「守られている文化」であり、その物語は今後も DJ とコミュニティによって書き換えられ続けるだろう。
+
+
+---
+
+## 技法の系統図
+
+※以下はターンテーブリズム技法を分類した図です。
+
+## **① ターンテーブリズム技法・系統図（スクラッチ技術分類）**
+
+### スクラッチ技法の系統図
 
 <div class="mermaid">
 flowchart TD
-    A[scratch technique] --> B[basic scratch]
-    A --> C[Intermediate technique]
-    A --> D[Advanced compound skills]
-    A --> E[melody scratch]
+    A[スクラッチ技法] --> B[基礎スクラッチ]
+    A --> C[中級技法]
+    A --> D[高度複合技]
+    A --> E[メロディ系スクラッチ]
     
     B --> B1[Baby]
     B --> B2[Forward/Backward]
@@ -280,84 +279,84 @@ flowchart TD
 
 ---
 
-## **② "Generational genealogy chart" of turntablist**
+## **② ターンテーブリストの “世代系譜図”**
 
-(Facts only: not the relationship between specific performers, but the general genealogy of periodization)
+（事実のみ：特定の演者の関係性ではなく、時代区分の一般的系譜）
 
-### Generational division of turntablism
+### ターンテーブリズムの世代区分
 
 <div class="mermaid">
 flowchart LR
-    A[1980s<br>Dawn] --> B[1990s<br>Mix ~ Battle competition]
-    B --> C[2000s<br>DVS introduction and speedup]
-    C --> D[2010s<br>Online/Visualization]
-    D --> E[2020s<br>Hybrid tournament era]
+    A[1980s<br>黎明期] --> B[1990s<br>ミックス〜バトル競技化]
+    B --> C[2000s<br>DVS 導入と高速化]
+    C --> D[2010s<br>オンライン／映像化]
+    D --> E[2020s<br>ハイブリッド大会時代]
 </div>
 
 ---
 
-## **③ Development of DMC tournament format (by division)**
+## **③ DMC 大会形式の発展（部門別）**
 
-### Changes in DMC tournament format
+### DMC 大会形式の変遷
 
 <div class="mermaid">
 flowchart TB
-    A[1985: World DJ Championship (individual)] --> B[1990: Team Division]
+    A[1985：World DJ Championship（個人）] --> B[1990：チーム部門]
     B --> C[1990s：Battle for World Supremacy]
-    C --> D[2006: DVS authorization]
-    D --> E[2011: Online qualifying]
-    E --> F[2020: Fully online world tournament]
-    F --> G[2023: Hybrid event]
+    C --> D[2006：DVS 許可]
+    D --> E[2011：オンライン予選]
+    E --> F[2020：完全オンライン世界大会]
+    F --> G[2023：ハイブリッド開催]
 </div>
 
 ---
 
-## **④ "Equipment dependency chart" of turntablism technique**
+## **④ ターンテーブリズム技法の“機材依存度チャート”**
 
-(Analogue dependence → Classification of changes in techniques due to digitalization)
+（アナログ依存 → デジタル化による技法の変化を分類）
 
-### Technique and equipment dependent structure
+### 技法と機材依存構造
 
 <div class="mermaid">
 flowchart LR
-    A[Depends on analog equipment] --> A1[Baby / Chirp / Transformer]
-    A --> A2[Backspinning / Beat Juggle Basics]
+    A[アナログ機材に依存] --> A1[Baby / Chirp / Transformer]
+    A --> A2[Backspinning / Beat Juggle 基本]
 
-    B[Analog + DVS hybrid] --> B1[Tone Play]
+    B[アナログ＋DVS ハイブリッド] --> B1[Tone Play]
     B --> B2[Melodic Play]
     B --> B3[Key Shift Mix]
 
-    C[DVS/digital] --> C1[fast melody arrangement]
-    C --> C2[Visual synchronous routine]
+    C[DVS・デジタル寄り] --> C1[高速メロディアレンジ]
+    C --> C2[ビジュアル同期型ルーティン]
 </div>
 
 ---
 
-## **⑤ DMC World Conference "Number of Participating Countries" Trends (Conceptual Diagram)**
+## **⑤ DMC 世界大会 “参加国数” の推移（概念図）**
 
-(Detailed yearly data is not published, so only increasing trends and period classifications)
+（細かな年別データは公表されていないため、増加傾向と時代区分のみ）
 
-### Changes in the number of DMC participating countries (conceptual diagram)
+### DMC 参加国数の推移（概念図）
 
 <div class="mermaid">
 graph LR
-    A[1980s<br>About 10-15 countries] --> B[1990s<br>20-25 countries]
-    B --> C[2000s<br>Around 30 countries]
-    C --> D[2010s<br>More than 40 countries due to online]
+    A[1980s<br>約10〜15ヵ国] --> B[1990s<br>20〜25ヵ国]
+    B --> C[2000s<br>30ヵ国前後]
+    C --> D[2010s<br>オンライン化により40ヵ国超]
 </div>
 
 ---
 
-## **⑥ Technical structure for turning a turntable into a musical instrument (functional breakdown diagram)**
+## **⑥ ターンテーブルを“楽器化”する技術構造（機能分解図）**
 
-### Turntable instrumentation structure
+### ターンテーブルの楽器化構造
 
 <div class="mermaid">
 flowchart TB
-    A[turntable = musical instrument] --> B[rhythm generation]
-    A --> C[melody generation]
-    A --> D[Tone manipulation]
-    A --> E[Composition/direction]
+    A[ターンテーブル = 楽器] --> B[リズム生成]
+    A --> C[メロディ生成]
+    A --> D[音色操作]
+    A --> E[構成・演出]
 
     B --> B1[Beat Juggle]
     B --> B2[Manual Looping]
@@ -368,39 +367,39 @@ flowchart TB
     D --> D1[Crossfader Articulation]
     D --> D2[EQ / Filter]
 
-    E --> E1[Build a 6 minute routine]
-    E --> E2[Video/synchronized production]
+    E --> E1[6分ルーティン構築]
+    E --> E2[映像・同期演出]
 </div>
 
 ---
 
-## **⑦ "Cultural influence" map of turntablism (inside and outside of hip-hop)**
+## **⑦ ターンテーブリズムの“文化的影響”マップ（ヒップホップ内外）**
 
-### Cultural spread of turntablism
+### ターンテーブリズムの文化的広がり
 
 <div class="mermaid">
 flowchart LR
     A[Turntablism] --> B[Hip-Hop Culture]
     A --> C[Electronic Music]
     A --> D[Performance Art]
-    A --> E[Education/Academia]
-    A --> F[Equipment development]
+    A --> E[教育・アカデミア]
+    A --> F[機材開発]
 
-    C --> C1[club scene]
-    C --> C2[beat making]
+    C --> C1[クラブシーン]
+    C --> C2[ビートメイキング]
 
-    E --> E1[DJ school]
-    E --> E2[University lecture (sound/media)]
+    E --> E1[DJ スクール]
+    E --> E2[大学講義（音響・メディア）]
 
-    F --> F1[turntable development]
-    F --> F2[DVS system]
+    F --> F1[ターンテーブル開発]
+    F --> F2[DVS システム]
 </div>
 
 ---
 
-## **⑧ DMC World Tournament "Historical Rule Changes" Structure Diagram**
+## **⑧ DMC 世界大会 “歴代ルール変更” 構造図**
 
-### History of DMC rules (main changes)
+### DMC ルールの歴史（主な変更）
 
 <div class="mermaid">
 timeline

@@ -14,11 +14,11 @@ title: The Rapture – In The Grace Of Your Love
 ---
 
 
-The Rapture is a US dance punk rock band from New York formed in 1998. They disbanded in 2014, but resumed their activities in 2019.
+The Raptureは、1998年に結成されたNY出身のUSのダンスパンク・ロックバンド。2014年に解散したが、2019年から活動を再開した。
 
-They mix various genres of music such as dance punk, post-punk, acid house, disco, and electronica, and are known as the pioneers of the post-punk revival in the early 2000s, especially for their unique style that mixes early post-punk sounds with electronic and dance.
+ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカなど、さまざまなジャンルの音楽をミックスし、特に初期のポストパンクサウンドとエレクトロニックとダンスをミックスした独特のスタイルで、2000年代初頭のポストパンクリバイバルの先駆者として知られている。
 
-Released in 2011 by DFA Records, "In The Grace Of Your Love" is The Rapture's third and final studio album.
+2011年にDFAレコーズからリリースされた「In The Grace Of Your Love」は、The Raptureの3枚目のスタジオアルバムであり最後のアルバム。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ Released in 2011 by DFA Records, "In The Grace Of Your Love" is The Rapture's th
 11. It Takes Time To Be A Man
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,15 +13,15 @@ title: Sunseeker Feat. Crystal Waters – Nights In Egypt
 ---
 
 
-Featured Crystal Waters is a house vocalist born in Deptford Township, New Jersey in 1961.
+フィーチャリングされているCrystal Waters（クリスタル・ウォーターズ）はハウス・ボーカリストで1961年にニュージャージー州デプトフォード・タウンシップ生まれました。
 
-She is the daughter of jazz musician Junior Waters and great-niece of Ethel Waters, who runs IAH Records.
+ジャズ・ミュージシャンのジュニア・ウォーターズの娘で、エセル・ウォーターズの曾姪であり、IAH Records を運営しています。
 
-Growing up surrounded by music from an early age, she became familiar with jazz under the influence of her father, and began working in the house music scene in the late 1980s, achieving a worldwide hit with the single "Gypsy Woman (She's Homeless)" in 1991.
+幼い頃から音楽に囲まれて育ち、父親の影響でジャズに親しみ、1980年代後半からハウス・ミュージックシーンで活動を始め、1991年にシングル「Gypsy Woman (She's Homeless)」で世界的な大ヒットを飛ばしました。
 
-Since then, he has released many hit songs such as "100% Pure Love" and "Destination Calabria" and has become one of the leading artists in the house music world.
+その後も「100% Pure Love」、「Destination Calabria」など数々のヒット曲をリリースし、ハウス・ミュージック界を代表するアーティストになりました。
 
-Known for his powerful vocals and catchy melodies, he also shows overwhelming performance at live shows. He currently runs his own label, IAH Records, and contributes to the revitalization of the music scene by discovering and nurturing up-and-coming artists.
+パワフルななボーカルとキャッチーなメロディーで知られ、ライブでも圧倒的なパフォーマンスを見せ、現在は自身のレーベル IAH Records を運営し、新進気鋭のアーティストを発掘・育成するなど、音楽シーンの活性化に貢献しています。
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ B1. Nights In Egypt (Swen G Remix)
 B2. Nights In Egypt (Lenny Fontana Vocal Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

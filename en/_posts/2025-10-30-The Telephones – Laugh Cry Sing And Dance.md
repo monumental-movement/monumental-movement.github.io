@@ -21,9 +21,9 @@ title: The Telephones – Laugh, Cry, Sing... And Dance!!!
 
 
 
-A Japanese band formed in 2005 and made their major debut in 2009 with a dance rock sound influenced by post-punk/new wave revival.
+2005年に結成し、ポストパンク／ニューウェイブリバイバルの影響を受けたダンスロックサウンドで2009年にメジャーデビューした日本のバンド。
 
-"Laugh, Cry, Sing... And Dance!!!" released in 2013 is their fourth major album.
+2013年にリリースされた「Laugh, Cry, Sing... And Dance!!!」は、4枚目のメジャーアルバム。
 
 #### Tracklist
 ```md
@@ -41,4 +41,4 @@ A Japanese band formed in 2005 and made their major debut in 2009 with a dance r
 12. March For Peace
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m46737641697?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46737641697?afid=6142608987){: .button1}

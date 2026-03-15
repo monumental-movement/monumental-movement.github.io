@@ -8,15 +8,15 @@ layout: post
 tags:
 - Techno
 - House
-title: Out Of Tune Generation – Cine Techno Director"s Cut
+title: Out Of Tune Generation – Cine Techno Director's Cut
 ---
 
 
-Out Of Tune Generation is a project of Keitaro Takanami (Pizzicato Five). A1 is a house cover of the song "Mana Mana" from the Mondo movie "Sweden: Heaven and Hell".
+Out Of Tune Generationは高浪敬太郎（ピチカート・ファイブ）のプロジェクト。A1はモンド映画、「Sweden: Heaven and Hell」の挿入曲「マナ・マナ」のハウスカバー。
 
-A2 is a cover of the Greek/British movie "The Day the Fish Came Out."
+A2は、ギリシャ・イギリス映画「魚が出てきた日」のカバー。
 
-B1"s Linus & Lucy is a cover of Vince Guaraldi"s 1964 song Linus & Lucy, which is often played in Peanuts (especially Snoopy's Merry Christmas). B2 is the cover of the British movie "Knife from the Lips".
+B1のLinus & Lucyは、ピーナッツ（特にスヌーピーのメリー・クリスマス）で頻繁に流れるビンス・ガラルディが1964年に発表した楽曲Linus & Lucy（ライナス・アンド・ルーシー）のカバー。B2はイギリス映画「唇からナイフ」のカバー。
 
 #### Tracklist
 ```md
@@ -29,5 +29,5 @@ B1. Linus & Lucy (Listen To My Face Mix)
 B2. Modesty (Mode-Esty Dub)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
 

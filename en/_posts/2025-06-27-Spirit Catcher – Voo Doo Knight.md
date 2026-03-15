@@ -13,9 +13,9 @@ title: Spirit Catcher – Voo Doo Knight
 ---
 
 
-Spirit Catcher is a duo formed by Belgian producers Jean Vanesse and Thomas Sohet. He is also active under the name Only Freak.
+Spirit Catcher (スピリットキャッチャー)は、ベルギーのプロデューサーJean VanesseとThomas Sohetによるデュオ。Only Freak(オンリーフリーク)名義でも活動している。
 
-"Voo Doo Knight" is a Tech House track released in 2004 by Finnish DJ and producer Sasse's label Moodmusic.
+「Voo Doo Knight」は、フィンランド出身のDJ・プロデューサーSasseのレーベルMoodmusicから2004年にリリースされたTech House トラック。
 
 #### Tracklist
 ```md
@@ -24,7 +24,7 @@ A. Voo Doo Knight
 B. Street Hawk
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m79500362846?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79500362846?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwCChzbF4mw?si=xgnHHy4rSPLu5c_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

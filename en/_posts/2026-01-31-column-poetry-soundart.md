@@ -152,7 +152,7 @@ E --> F[1980s Poetry x Sound Collaboration]
 F --> G[2000s digital reading]
 </div>
 
->Throughout history, voices and sounds have repeatedly been separated and reconnected.
+>Throughout history, voices and sounds have been repeatedly separated and reconnected.
 
 ---
 

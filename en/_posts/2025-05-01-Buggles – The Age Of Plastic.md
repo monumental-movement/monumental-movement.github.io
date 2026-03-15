@@ -14,11 +14,11 @@ title: Buggles – The Age Of Plastic
 ---
 
 
-The Buggles are a British new wave band formed in 1977 by Trevor Horn and Geoff Downes. Their 1979 debut single, ""Video Killed the Radio Star,'' became a worldwide hit.
+Buggles(バグルス)は、1977年にTrevor Horn(トレヴァー・ホーン)とGeoff Downes(ジェフ・ダウンズ)によって結成されたUKのニューウェーブバンド。1979年のデビューシングル「Video Killed the Radio Star」は、世界的なヒットとなった。
 
-"The Age Of Plastic", released by Island Records in 1980, was the Buggles' first album. This album is a reissue (US version).
+1980年にIsland Recordsリリースされた「The Age Of Plastic」は、バグルスのファーストアルバム。このアルバムは再発盤(US盤)。
 
-Trevor Horn and Geoff Downes joined progressive rock band Yes after this album was released.
+Trevor HornとGeoff Downesはこのアルバムリリース後にプログレッシブロックバンドYesに加入した。
 
 
 #### Tracklist
@@ -33,7 +33,7 @@ Trevor Horn and Geoff Downes joined progressive rock band Yes after this album w
 8. Johnny On The Monorail
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

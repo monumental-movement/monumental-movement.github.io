@@ -13,11 +13,11 @@ title: 8 Days Of Nothing - Die Kosmo Gesellschaft
 ---
 
 
-8 Days Of Nothing is a legendary Swedish punk band formed in 1997.
+8 Days Of Nothing(8デイズオブナッシング) は、1997年に結成されたスウェーデンの伝説的なパンクバンド。
 
-Die Kosmo Gesselschaft is a post-hardcore/emo band formed in Berlin, Germany in 1997.
+Die Kosmo Gesselschaft は、1997年にドイツのベルリンで結成されたポスト・ハードコア/エモ・バンド。
 
-Rare record limited to 600 copies.
+600枚限定のレアレコード。
 
 #### Tracklist
 ```md
@@ -44,7 +44,7 @@ B4. Die Eine Reisebekanntschaft
 B5. Modifikationsbeispiele Fuer Das Projekt Mensch 1
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m58782538124?afid=61426089877){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58782538124?afid=61426089877){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_IrMXcz6bQ?si=evPd_Bb6WNHDLuho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

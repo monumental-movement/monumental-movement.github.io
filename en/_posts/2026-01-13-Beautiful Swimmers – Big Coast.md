@@ -17,7 +17,7 @@ title: Beautiful Swimmers – Big Coast
 
 Beautiful Swimmers is a project by Andrew Field-Pickering and Ari Goldman.
 
-Andrew Field-Pickering is a producer/DJ from Washington, D.C., who also works under the names Dolo Percussion, Maxmillion Dunbar, and Vulture Voltaire. He is a co-founder of the independent label Future Times, and is involved in many releases as the label's central figure.
+Andrew Field-Pickering is a producer/DJ from Washington, D.C., who also works under the names Dolo Percussion, Maxmillion Dunbar, and Vulture Voltaire. He is the co-founder of the independent label Future Times, and is involved in many releases as the label's central figure.
 
 Ari Goldman is a Washington, D.C.-based DJ/producer and head of the label World Building.
 

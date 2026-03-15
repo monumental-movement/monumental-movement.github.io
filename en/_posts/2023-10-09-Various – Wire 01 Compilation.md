@@ -12,8 +12,8 @@ title: Various – Wire 01 Compilation
 ---
 
 
-"Wire 01 Compilation" is
-This is a Wire 01 compilation CD released in 2001.
+「Wire 01 Compilation」は、
+2001年にリリースされたWire 01のコンピレーションCDです。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ This is a Wire 01 compilation CD released in 2001.
 13. Monika Kruse @ Voodooamt–Route 27
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNsAbKxUGcs?si=vPb3Qx4xHcOBX06J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

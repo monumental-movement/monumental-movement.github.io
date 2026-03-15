@@ -52,7 +52,7 @@ What was distinctive about it was that the software itself consisted of a machin
 
 * Initial: Runs on Windows 95/98. It was lightweight and had a tracker-like pattern editing screen and a modular view (Machine View).
 * Plug-in ecosystem: Since the beginning of development, there has been a ""Buzzlib'' specification that allows users to freely create and distribute sound sources and effects, and many machines have appeared from the community.
-* Version upgrade: Although official development was temporarily stalled (due to loss of source code), it was announced in June 2008 that development would resume.
+* Version upgrade: Official development was temporarily stalled (due to loss of source code), but it was announced in June 2008 that development would resume.
 *Last build: Build 1503 released on January 16, 2016.
 
 ### Name meaning/background
@@ -156,7 +156,7 @@ In this way, Holden"s early works have a sonic language that is highly compatibl
 
 ### 5.2 Possible use mentioned: Aphex Twin
 
-Regarding Aphex Twin (real name Richard D. James), no reliable primary materials (official interviews, etc.) have been found that say he "used Buzz", and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonies. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
+Regarding Aphex Twin (real name Richard D. James), no solid primary documents (official interviews, etc.) have been found that say he "used Buzz," and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonials. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
 Also stated in the HackerNews thread:
 
 > "I still miss the fast productive workflow of Jeskola Buzz from back in the day. Modular software synth + tracker with pattern sequencing."
@@ -225,7 +225,7 @@ This stagnation/resumption structure was also influenced by external factors suc
 Buzz's legacy can be broadly categorized into three things:
 
 - 1. **Spread of modular thinking**: The idea of ​​putting together patches on software became popular, and the image that ""creating sound = connecting cables'' became established.
-- 2. **User extension/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
+- 2. **User expansion/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
 - 3. **Promotion of individual creators/DIY music**: Indie/underground electronic music production has been revitalized by the availability of a sophisticated acoustic environment at a low price or free of charge.
 
 These are not just relics of the "retro tools" of the past, but also influence the current music production environment and even the context of live/modular equipment.

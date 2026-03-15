@@ -84,7 +84,7 @@ In 1986, Psychic TV began an ambitious project to release a monthly live album. 
 
 #### 4.2 Transformation of musical styles
 
-During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live shows and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
+During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live performances and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
 
 #### 4.3 Magic, Chaos Magic, and Deepening Thought
 

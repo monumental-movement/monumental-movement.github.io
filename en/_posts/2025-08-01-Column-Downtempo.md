@@ -24,7 +24,7 @@ Text: mmr｜Theme: Chill-out and the aesthetics of deep rhythm
 ### What is downtempo?
 "Downtempo", as the name suggests, is a type of electronic music with a slow tempo. Generally, the BPM (tempo) is around 60 to 110, and it is characterized by relaxing rhythms and sounds aimed at listening and chilling out, rather than intense beats for clubs.
 
-In between the throbbing heartbeat and the hustle and bustle, a sudden silence appears. If it"s music, downtempo is that moment of deep breathing. In the world of club culture and electronic music, it is a music genre that is at the opposite end of the spectrum from the fast beats of techno and house, but it is close to the listener"s emotions and blends into the city night. That's downtempo.
+In between the throbbing heartbeat and the hustle and bustle, a sudden silence appears. If it"s music, downtempo is that moment of deep breathing. In the world of club culture and electronic music, this genre of music is at the opposite end of the spectrum from fast beats like techno and house, but it is a music genre that is close to the listener"s emotions and blends into the city night. That's downtempo.
 
 Downtempo is created through the intersection of multiple genres, including the floating feel of ambient, the grooves of hip-hop, and the organic elements of jazz and soul.
 Although it often overlaps with styles such as chillout, trip hop, and lounge music, it is also used as a general term for a gentle groove that encompasses these styles.

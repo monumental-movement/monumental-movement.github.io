@@ -14,9 +14,9 @@ title: Dummy Run – Dummy Run
 ---
 
 
-Dummy Run is an experimental electro duo by Andrew Sharpley and Nick Birmingham.
+Dummy Run (ダミーラン)は、Andrew Sharpley, Nick BirminghamによるエクスペリメンタルエレクトロDuo 。
 
-The self-titled album released by UK label Hot Air in 1996 is an album where you can enjoy Dummy Run"s unique style of drum"n'bass + left field.
+1996年にUKのレーベルHot Airからリリースしたセフルタイトルアルバムは、ドラムンベース+レフトフィールドなDummy Run独自のスタイルが堪能できる一枚。
 
 #### Tracklist
 ```md
@@ -51,7 +51,7 @@ The self-titled album released by UK label Hot Air in 1996 is an album where you
 29. Chocky
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zdn8kGccQeU?si=D5hZR_k0IRbA4lJp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

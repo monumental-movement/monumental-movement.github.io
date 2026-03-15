@@ -12,19 +12,19 @@ title: Orjan – Arctic Globe / Prison Break
 ---
 
 
-"Orjan - Arctic Globe / Prison Break" is a song by Norwegian trance music producer Orjan.
+「Orjan - Arctic Globe / Prison Break」は、ノルウェーのトランスミュージックプロデューサーであるOrjan（オルヤン）による楽曲です。
 
-"Arctic Globe" is characterized by a beautiful melody and a magnificent sound.The combination of melody and synth sounds reminiscent of a cold, shining world of ice takes the listener on a fantastical journey.
+「Arctic Globe」は、美しいメロディと壮大なサウンドが特徴で、冷たく輝く氷の世界を連想させるようなメロディとシンセサウンドが組み合わさり、聴く人を幻想的な旅に連れて行きます。
 
-This song features an emotional build-up and an energetic drop, allowing you to fully enjoy the charm of trance music.
+この曲は、感情的なビルドアップとエネルギッシュなドロップが特徴であり、トランスミュージックの魅力を存分に味わえるでしょう。
 
-On the other hand, "Prison Break" is a song with a dark and dramatic atmosphere. The layering of the heavy bassline and synth sounds heightens the tension, creating a world of trance full of speed.
+一方、「Prison Break」は、ダークでドラマティックな雰囲気が漂う楽曲です。重厚なベースラインとシンセサウンドの重なりが緊張感を高め、疾走感あふれるトランスの世界を作り出しています。
 
-This song is characterized by a powerful beat and intense energy, drawing the listener into a world of lively music.
+この曲は、パワフルなビートとインテンスなエネルギーが特徴であり、聴く人を躍動感溢れる音楽の世界へと引き込みます。
 
-"Arctic Globe / Prison Break" is known as a song where you can enjoy Orjan's unique trance sound.
+「Arctic Globe / Prison Break」は、Orjanの独自のトランスサウンドを楽しめる楽曲として知られています。
 
-His music is characterized by sophisticated production and emotional expression, and has appealed to many listeners. These songs will be an appealing choice for fans of trance music and those looking for an energetic sound.
+彼の音楽は、洗練されたプロダクションと感情的な表現が特徴であり、多くのリスナーに魅力を与えてきました。これらの曲は、トランスミュージックのファンやエネルギッシュなサウンドを求める人にとって、魅力的な選択肢となるでしょう。
 
 #### Tracklist
 ```md
@@ -33,7 +33,7 @@ A. Arctic Globe
 AA. Prison Break
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tk95FwufszQ?si=OtBlRffV7SmfWZHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

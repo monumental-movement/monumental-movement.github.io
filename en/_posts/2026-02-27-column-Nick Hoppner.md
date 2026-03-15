@@ -115,7 +115,7 @@ Höppner's production tends towards reducing the number of sounds and organizing
 
 ### Album "Folk"
 
-The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the balance between club functionality and lyricism. As the title suggests, it is not a direct reference to folk music, but rather a sense of structural ""narrative".
+The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the balance between club functionality and lyricism. As the title suggests, it is not a direct reference to folk music, but rather a sense of structural ""narration".
 
 The track is not a linear peak structure, but is designed to embed subtle changes within the repetition.
 

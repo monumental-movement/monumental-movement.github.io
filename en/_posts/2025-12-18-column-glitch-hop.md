@@ -9,16 +9,16 @@ layout: post
 tags:
 - Glitch Hop
 - Glitch
-title: '[Column] Glitch Hop—Low frequency culture formed by fragmented beats'
+title: 【コラム】 Glitch Hop（グリッチホップ）—断片化されたビートが形成した低域文化
 ---
 
 
 
-## Introduction: Structural changes caused by the absence of rap
+## 序論：ラップ不在が生む構造変化
 
-Text: mmr｜Theme: Background to the establishment of Glitch Hop, acoustic characteristics, production methods of representative artists, beat analysis, equipment and production environment, relationship with surrounding genres, and subsequent influence
+文：mmr｜テーマ：Glitch Hopの成立背景、音響的特徴、代表的アーティストの制作手法、ビート解析、機材と制作環境、周辺ジャンルとの関係、そしてその後の影響について
 
-Glitch Hop is a trend of electronic music that is based on the beat structure of hip-hop and combines glitch processing, precise micro-editing, and low-centered bass design. From the late 2000s to the early 2010s, it became apparent as the digital production environment became more sophisticated, and it became established as functional music that cuts across club, listening, and video applications. Although the genre name is a compound word of "Glitch" and "Hip Hop," it is not just a mixture of techniques, but a production philosophy centered on beat deconstruction and reconstruction.
+Glitch Hopは、ヒップホップのビート構造を基礎に、グリッチ処理、精密なマイクロエディット、重心の低いベースデザインを融合させて形成された電子音楽の一潮流である。2000年代後半から2010年代前半にかけて、デジタル制作環境の高度化とともに顕在化し、クラブ・リスニング・映像用途を横断する機能的音楽として定着した。ジャンル名は「Glitch」と「Hip Hop」の合成語であるが、単なる技法的混交ではなく、ビート解体と再構築を中心とした制作思想が核にある。
 
 ---
 
@@ -27,7 +27,7 @@ Glitch Hop is a trend of electronic music that is based on the beat structure of
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -36,37 +36,37 @@ color: #fff;
 </style>
 
 
-## 1. Historical background and conditions for establishment
+## 1. 歴史的背景と成立条件
 
-From the late 1990s to the early 2000s, with the spread of DAW environments and improvements in CPU performance, extreme sample division, nonlinear pitch/time transformation, and real-time effect processing became practical production methods. This created the conditions for glitch-like processing, which had previously been limited to experimental music and art contexts, to move to the center of beat music.
+1990年代後半から2000年代初頭にかけて、DAW環境の普及とCPU性能の向上により、サンプルの極端な分割、ピッチ・タイムの非線形変形、リアルタイムエフェクト処理が現実的な制作手段となった。これにより、従来は実験音楽やアート文脈に限定されがちだったグリッチ的処理が、ビートミュージックの中心へと移行する条件が整った。
 
-Glitch Hop was created at the intersection of the looping sensation derived from hip-hop and the highly editing-oriented sound processing cultivated in IDM and electronica. While the time signature and tempo are relatively stable, the internal tones are constantly disassembling and reconnecting. This dual structure creates a physical groove and perceptual stimulation at the same time.
-
----
-
-## 2. Musical characteristics
-
-### 2.1 Tempo and Groove
-
-Glitch Hop's tempo range is generally centered around 85-110BPM. This goes well with the halftime feel of hip-hop, and maximizes the sense of weight in the low range. The amount of swing is not fixed, but is intentionally adjusted for each track, and both mechanical stiffness and artificial deviation coexist.
-
-### 2.2 Rhythm structure
-
-The basic arrangement of kick and snare is relatively simple, but hi-hats and percussive clicks are extremely fragmented. By further dividing one beat into 16 minutes, 32 minutes, or even more in some cases, and inserting glitch-like stutters and retrigs into the beats, he creates a rhythm that feels both still and accelerating at the same time.
-
-### 2.3 Sound Design
-
-In Glitch Hop, tone plays a more important role than melody. The bass is designed with a multi-layered structure from sub-bass to mid-bass, and distortion, bit crusher, waveshaping, etc. are applied in stages. In the high frequencies, noises, clicks, and short granular fragments are placed as spatial accents.
+Glitch Hopは、ヒップホップ由来のループ感覚と、IDMやエレクトロニカで培われた編集志向の強い音響処理の交差点で成立した。拍子やテンポは比較的安定している一方で、音色内部は常に分解と再接続を繰り返す。この二重構造が、身体的グルーヴと知覚的刺激を同時に成立させている。
 
 ---
 
-## 3. Representative artists and production aesthetics
+## 2. 音楽的特徴
+
+### 2.1 テンポとグルーヴ
+
+Glitch Hopのテンポ帯は概ね85〜110BPMに集中する。これはヒップホップのハーフタイム感覚と相性が良く、低域の重量感を最大化するためである。スウィング量は固定ではなく、トラックごとに意図的に調整され、機械的な硬さと人為的なズレが共存する。
+
+### 2.2 リズム構造
+
+キックとスネアの基本配置は比較的単純であるが、ハイハットやパーカッシブなクリック音は極端に細分化される。1拍をさらに16分、32分、場合によってはそれ以上に分割し、そこへグリッチ的なスタッターやリトリガーを挿入することで、静止と加速が同時に知覚されるリズムを形成する。
+
+### 2.3 サウンドデザイン
+
+Glitch Hopでは、音色は旋律以上に重要な役割を担う。ベースはサブベースからミッドベースまで多層構造で設計され、ディストーション、ビットクラッシャー、ウェーブシェイピングなどが段階的に適用される。高域では、ノイズ、クリック、短いグラニュラー断片が空間的アクセントとして配置される。
+
+---
+
+## 3. 代表的アーティストと制作美学
 
 ### 3.1 The Glitch Mob
 
-The Glitch Mob has established a method of highly dividing and integrating beats and sound design by utilizing a multi-person production system. Their songs eschew simple loop repetitions, instead changing rhythmic and tonal density with each development.
+The Glitch Mobは、複数人による制作体制を活かし、ビートとサウンドデザインを高度に分業・統合する手法を確立した。彼らの楽曲では、単純なループの反復は避けられ、展開ごとにリズムや音色の密度が変化する。
 
-The bass is designed to be the driving force of the song, and its phase relationship with the kick is strictly controlled. The subband is often arranged in a monaural manner, and is characterized by a design that emphasizes stability during club playback.
+ベースは楽曲の推進力として設計され、キックとの位相関係が厳密に管理される。サブ帯域はモノラルに近い配置が多く、クラブ再生時の安定性を重視した設計が特徴である。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,62 +74,62 @@ The bass is designed to be the driving force of the song, and its phase relation
 
 ### 3.2 KOAN Sound
 
-KOAN Sound is known for extremely precise audio editing and advanced mixing techniques. In their songs, different envelopes and filter settings are applied to each note, and the same tone is rarely used consecutively.
+KOAN Soundは、極端に精密なオーディオ編集と高度なミキシング技術で知られる。彼らの楽曲では、1音ごとに異なるエンベロープやフィルター設定が適用され、同一音色の連続使用はほぼ見られない。
 
-The frequency bands each note occupies are clearly separated, minimizing collisions between bass, mids, and highs. This design maintains clear clarity even in complex rhythms.
+各音が占有する周波数帯域は明確に分離され、ベース、ミッド、ハイの衝突が最小限に抑えられる。この設計により、複雑なリズムでも混濁しない明瞭さが維持される。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ach8lgF6-AY?si=h70zKmxpWEPZPRgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 4. Beat analysis
+## 4. ビート解析
 
-Many Glitch Hop songs are structured in eight-bar units. The first four bars present the basic groove, and the last four bars add glitch processing and fills.
+多くのGlitch Hop楽曲は8小節単位で展開が組み立てられる。最初の4小節で基礎グルーヴを提示し、後半4小節でグリッチ処理やフィルを追加する。
 
 <div class="mermaid">
 flowchart LR
-    A["kick"] --> B["Snare"]
-    B --> C["Hi-hat fragment"]
-    C --> D["Glitch fill"]
+    A["キック"] --> B["スネア"]
+    B --> C["ハイハット断片"]
+    C --> D["グリッチフィル"]
     D --> A
 </div>
 
 
 ---
 
-The important thing is not to fill in every beat. By inserting silence or extremely short sounds, the impact of the next low range is emphasized.
+重要なのは、全ての拍を埋めないことである。無音や極端に短い音を挿入することで、次に来る低域のインパクトが強調される。
 
 ---
 
-## 5. Production process
+## 5. 制作プロセス
 
-### 5.1 Sampling
+### 5.1 サンプリング
 
-The samples are not limited to drum breaks or existing sound sources, but include a wide variety of things such as noise, environmental sounds, and single notes from synths. These are divided into pieces on the DAW and reassembled as raw materials.
+サンプルはドラムブレイクや既存音源に限定されず、ノイズ、環境音、シンセの単音など多岐にわたる。これらはDAW上で細分化され、素材として再構築される。
 
-### 5.2 Editing and Automation
+### 5.2 エディットとオートメーション
 
-In Glitch Hop production, automation forms the very structure. Filter cutoff, distortion amount, panning, etc. change not in bars, but in milliseconds.
-
----
-
-## 6. Equipment used and production environment
-
-The primary production environment is a DAW, and one that can highly integrate audio editing and MIDI control is preferred. It is important to be able to perform non-destructive editing on a clip-by-clip basis.
-
-Distortion, granular processing, multiband compressor, and limiter are the core. In particular, multiband processing is essential for achieving both low-frequency control and high-frequency precision.
+Glitch Hop制作では、オートメーションが構造そのものを形成する。フィルターカットオフ、ディストーション量、パンニングなどが小節単位ではなく、ミリ秒単位で変化する。
 
 ---
 
-## 7. Relationship with surrounding genres
+## 6. 使用機材と制作環境
 
-While Dubstep emphasizes slow tempos and spatial spacing, Glitch Hop emphasizes editing density and rhythmic fragmentation.
+主要な制作環境はDAWであり、オーディオ編集とMIDI制御を高度に統合できるものが好まれる。クリップ単位での非破壊編集が可能であることが重要である。
 
-The intellectual experimentation of IDM is inherited by Glitch Hop, but it differs in that it brings more physical grooves to the fore.
+ディストーション、グラニュラー処理、マルチバンドコンプレッサー、リミッターが中核となる。特にマルチバンド処理は、低域の制御と高域の細密さを両立させるため不可欠である。
 
 ---
 
-## 8. Chronology
+## 7. 周辺ジャンルとの関係
+
+Dubstepが低速テンポと空間的余白を重視するのに対し、Glitch Hopは編集密度とリズムの細分化に重点を置く。
+
+IDMの知的実験性はGlitch Hopに受け継がれているが、より身体的なグルーヴが前面に出る点で異なる。
+
+---
+
+## 8. 年表
 
 <div class="mermaid">
 timeline
@@ -142,68 +142,68 @@ timeline
 
 ---
 
-## 9. Impact and development
+## 9. 影響と展開
 
-Glitch Hop's editing techniques influenced trap, bass music, and even pop production. In particular, the idea of ​​subdividing the internal beats and emphasizing sound design became a standard method in subsequent electronic music production.
-
----
-
-## 10. Conclusion
-
-Glitch Hop is a genre born from the combination of technological evolution and production aesthetics. By combining the physicality of hip-hop with the perceptual stimulation of glitch, it is positioned as one of the foundations of modern beat music, rather than just a passing style.
+Glitch Hopの編集手法は、トラップ、ベースミュージック、さらにはポップスのプロダクションにも影響を与えた。特にビート内部の細分化とサウンドデザイン重視の思想は、以後の電子音楽制作における標準的手法となった。
 
 ---
 
-## 11. Beat decomposition analysis by measure
+## 10. 結論
 
-While the beat structure of Glitch Hop is conservative in its four-beat framework, its internal resolution is extremely high. In this chapter, we will use one bar as the smallest unit of analysis and examine how kick, snare, hi-hat, and glitch elements are arranged and transformed.
+Glitch Hopは、技術進化と制作美学が結びついて成立したジャンルである。ヒップホップの身体性とグリッチの知覚的刺激を両立させた点において、単なる一過性のスタイルではなく、現代的ビートミュージックの基盤の一つとして位置付けられる。
 
-In typical Glitch Hop, a strong kick is often placed on the first beat, but at the same time, the sublayer often sounds with a slight delay. This delay of several milliseconds is not a physical delay, but an intentional design to emphasize the sense of weight in the low range.
+---
 
-The snare is often placed on the second and fourth beats, but the attack and tail parts may be composed of separate samples. This allows the sense of hit and reverberation to be controlled independently, making the groove stable and unstable at the same time.
+## 11. 小節単位によるビート分解分析
 
-The hi-hat is not just a tick, it functions as a rhythm density adjustment device. By creating a section in which the number of notes is intentionally reduced within a measure, and immediately after that section, the music is subdivided into extreme pieces, the listener's sense of time is disturbed.
+Glitch Hopにおけるビート構造は、4拍子という枠組み自体は保守的である一方、その内部解像度は極端に高い。本章では1小節を最小の分析単位とし、キック、スネア、ハイハット、グリッチ要素がどのように配置・変形されるかを検討する。
+
+典型的なGlitch Hopでは、1拍目に強いキックが置かれることが多いが、同時にサブレイヤーがわずかに遅延して鳴るケースが頻出する。この数ミリ秒単位の遅延は、物理的な遅れではなく、低域の重量感を強調するための意図的設計である。
+
+スネアは2拍目と4拍目に配置されることが多いが、アタック部分とテイル部分が別々のサンプルで構成されることがある。これにより、ヒット感と残響感が独立して制御され、グルーヴの安定と不安定が同時に生じる。
+
+ハイハットは単なる刻みではなく、リズム密度の調整装置として機能する。1小節内で意図的に音数を減らす区間を設け、その直後に極端な細分化を行うことで、聴取者の時間感覚を撹乱する。
 
 <div class="mermaid">
 flowchart LR
-    A["1st beat kick"] --> B["Subbase delay"]
-    B --> C["2nd beat snare"]
-    C --> D["Hat Fragments"]
-    D --> E["Glitch Stutter"]
+    A["1拍目キック"] --> B["サブベース遅延"]
+    B --> C["2拍目スネア"]
+    C --> D["ハット断片群"]
+    D --> E["グリッチスタッター"]
     E --> A
 </div>
 
 
 ---
 
-## 12. Sound analysis by frequency band
+## 12. 周波数帯域別サウンド分析
 
-The low range is the core of Glitch Hop, and is the area that directly elicits a physical response. Here, sub-bass is often treated as an intermittent impulse rather than a sustained sound. Compression is applied strongly, but the release time is set relatively short to avoid excessive expansion.
+低域はGlitch Hopの核であり、身体的反応を直接的に誘発する領域である。ここではサブベースが持続音としてではなく、断続的なインパルスとして扱われることが多い。コンプレッションは強くかけられるが、リリースタイムは比較的短く設定され、過度な膨張を避ける。
 
-In this band, the kick's body rumble and bass overtones tend to overlap, resulting in turbidity. In Glitch Hop, emphasis is placed on distinction at the tone design stage rather than reduction through EQ. As a result, there are many cases in which the band itself becomes relatively hollow.
+この帯域はキックの胴鳴りとベースの倍音が重なりやすく、混濁が生じやすい。Glitch Hopでは、EQによる削減よりも、音色設計段階での住み分けが重視される。結果として、帯域そのものが比較的空洞化するケースも少なくない。
 
-The midrange is the area responsible for the legibility of rhythmic information, where clicks, short noises, and processed percussion are concentrated. Here, transients are emphasized and an extremely short note length is set to ensure the clarity of the sound image.
+中域はリズム情報の可読性を担う領域であり、クリック音、短いノイズ、加工されたパーカッションが集中する。ここではトランジェントが強調され、極端に短い音長が設定されることで、音像の明瞭さが確保される。
 
-The high frequency range is responsible for spatial information and texture. In Glitch Hop, constant sound is avoided, and it is only inserted sharply at the moment of need. This emphasizes the contrast in the development while reducing the burden on the ears.
-
----
-
-## 13. Mixing philosophy and space design
-
-In a Glitch Hop mix, depth is expressed not by the amount of reverberation, but by the sharpness of the attack and the rate of decay. Notes placed in the front have short tails, while notes placed in the back have long tails.
-
-While the low range is fixed almost in the center, the glitch elements in the mid and high range are actively placed to the left and right. Autopan is often used to avoid static positioning.
+高域は空間情報と質感を担う。Glitch Hopでは、常時鳴らし続けることは避けられ、必要な瞬間にのみ鋭く挿入される。これにより、耳への負荷を抑えつつ、展開のコントラストを強調する。
 
 ---
 
-## 14. Mastering and final sound image
+## 13. ミキシング思想と空間設計
 
-Excessive sound pressure competition is not necessarily the main purpose of Glitch Hop. Rather, the emphasis is on the contrast between momentary peaks and silence. Therefore, the limiter functions as a safety device, and there is a strong tendency for the expression itself to be completed at the mixing stage.
+Glitch Hopのミックスでは、奥行きは残響量ではなく、アタックの鋭さと減衰速度によって表現される。前面に配置される音は短く、背後に配置される音は長いテイルを持つ。
+
+低域はほぼ中央に固定される一方、中高域のグリッチ要素は積極的に左右へ配置される。オートパンが使用されることも多く、静的な定位は避けられる。
+
+---
+
+## 14. マスタリングと最終音像
+
+過度な音圧競争はGlitch Hopでは必ずしも主目的ではない。むしろ、瞬間的なピークと沈黙の対比が重視される。そのため、リミッターは安全装置として機能し、表現そのものはミックス段階で完結させる傾向が強い。
 
 
 ---
 
-## 15. Expanded Chronology
+## 15. 拡張年表
 
 <div class="mermaid">
 timeline
@@ -216,9 +216,9 @@ timeline
 
 ---
 
-## 16. Summary
+## 16. 総括
 
-Glitch Hop is a genre that was established as a result of raising the editing resolution of beat music to the maximum. Judgments made in one measure, one note, and even in milliseconds are directly connected to the final physical sensation. In that sense, Glitch Hop is not only a collection of production techniques, but also a system of thought that designs the listening experience itself.
+Glitch Hopは、ビートミュージックにおける編集解像度を極限まで引き上げた結果として成立したジャンルである。1小節、1音、さらには1ミリ秒単位での判断が、最終的な身体感覚へと直結する。その意味でGlitch Hopは、制作技術の集合体であると同時に、聴取体験そのものを設計する思想体系でもある。
 
 ---
 

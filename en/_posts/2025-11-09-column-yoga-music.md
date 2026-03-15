@@ -98,7 +98,7 @@ In the 21st century, yoga has become widely popular around the world. It is bein
 
 ### BGM usage in the studio
 
-In modern yoga studios, the choice of background music influences the atmosphere of the class. Gentle ambient and natural sounds make it easier for beginners to focus on their breathing and relieve psychological tension. For dynamic flows such as vinyasa yoga, rhythmic music with a tempo and songs with a strong bass are suitable.
+In modern yoga studios, the choice of background music influences the atmosphere of the class. Gentle ambient and natural sounds help beginners focus on their breathing and relieve psychological tension. For dynamic flows such as vinyasa yoga, rhythmic music with a tempo and songs with a strong bass are suitable.
 
 ### Fusion with EDM, Lo-Fi, Ambient
 

@@ -101,7 +101,7 @@ Eurobeat is being reinterpreted in new ways on TikTok and MAD videos.
 <hr>
 
 ### Is Eurobeat "memory fuel"?
-""Initial D" gave a story and emotion to the music called Eurobeat. It was not just ""dance music," but an experience linked to ""accelerating youth" and ""memories of defeat and victory."
+""Initial D" gave a story and emotion to the music called Eurobeat. It was not just ""dance music," but was engraved as an experience connected to ""accelerating youth" and ""memories of defeat and victory."
 
 As a result, Eurobeat became an unusually ""emotional'' music in Japan. In other words:
 
@@ -110,7 +110,7 @@ Eurobeat is music that speaks of speed, and at the same time, it has become a me
 
 <hr>
 
-### The memory of speed will never disappear
+### The memory of speed will never fade
 ""Initial D'' has ended, but the memories of Eurobeat are still running around on the internet. Even if the race is over, each time the music is played, the race begins again.
 
 It is also a reliving experience of our own "youth" and "impulse".

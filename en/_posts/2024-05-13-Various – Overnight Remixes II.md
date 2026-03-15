@@ -13,9 +13,9 @@ title: Various – Overnight Remixes II
 ---
 
 
-Euro house, techno, new beat, garage house compilation album from the late 80"s to the 90"s.
+80年代後半から90年代のユーロハウス・テクノ・ニュービート・ガラージハウス系コンピレーションアルバム。
 
-Included are hardcore techno giants 2 Unlimited, Belgian Eurodance and new beat band Bizz Nizz, and UK music unit Soft Cell, one of the leading new wave groups.
+ハードコアテクノの立役者 2 Unlimited（2アンリミテッド）、ベルギーのユーロダンス＆ニュービートバンドBizz Nizz、ニュー・ウェイヴの代表的なグループの一つであるUKの音楽ユニットSoft Cell（ソフトセル）などが収録されている。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B4. Soft Cell –Tainted Love
 B5. LNR – Work It To The Bone
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

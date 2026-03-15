@@ -11,16 +11,15 @@ tags:
 - 80s
 - 90s
 - 00s
-title: '[Column] Human Beatbox World history and Japanese players - Technological
-  evolution, tournament culture, trends in each country'
+title: 【コラム】 Human Beatbox 世界史と日本のプレイヤーたち ― 技術進化・大会文化・各国の潮流
 ---
 
 
-# Human Beatbox World history and tournament culture - technology, trends, and player history
+# Human Beatbox 世界史と大会文化 ― 技術・潮流・プレイヤーの歩み
 
-Text: mmr｜Theme: History of Human Beatbox, changes in world tournaments, styles of players from each country, characteristics of Japanese players, and analysis of SO-SO/RUSY/Kohey
+文：mmr｜テーマ：Human Beatbox の歴史、世界大会の変遷、各国選手のスタイル、日本人プレイヤーの特色、そして SO-SO／RUSY／Kohey の分析
 
-Human Beatbox is not just an art of making sounds with your mouth; it is a music culture where technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
+Human Beatbox（ヒューマンビートボックス）は、単なる「口で音を出す芸」ではなく、世界各国に技術体系が存在し、国際大会が成立し、世代交代のたびに新技術が発明されてきた音楽文化である。本稿では、その歴史を事実に基づいて整理し、世界大会の成立、各国でのプレイヤースタイル、日本における特徴、そして SO-SO、RUSY、Kohey といった代表的プレイヤーを深掘りする。
 
 ---
 
@@ -29,7 +28,7 @@ Human Beatbox is not just an art of making sounds with your mouth; it is a music
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,190 +37,190 @@ color: #fff;
 </style>
 
 
-# 1. Establishment and history of Human Beatbox
+# 1. Human Beatbox の成立と変遷
 
-## ◆ 1980–90s: Starts with hip-hop culture
-Human Beatbox (hereinafter referred to as beatbox) expanded with the hip-hop culture of the East Coast of the United States in the 1980s. Early representatives include Buff Love of The Fat Boys and Doug E. Fresh, whose technical system evolved from drum machine-like imitation.
+## ◆ 1980–90年代：ヒップホップ文化と共に始まる
+Human Beatbox（以下ビートボックス）は、1980年代のアメリカ東海岸のヒップホップ文化と共に拡大した。初期の代表的人物としては、The Fat Boys の Buff Love、Doug E. Fresh などが知られており、ドラムマシン的な模倣から技術体系が発展した。
 
-In the 1990s, beatboxing spread around the world through radio and live performances, and beatboxing gradually began to become independent as an expression rather than just an accompaniment.
-
----
-
-# 2. Establishment and internationalization of the World Convention
-
-## ◆ Early 2000s: Establishment of tournament culture
-It has been since the 2000s that a global tournament culture has clearly taken shape.
-
-- **Beatbox Battle World Championship (BBWC)**
-A world championship held in Germany. There will be multiple categories such as solo, tag, and crew.
-
-- **Grand Beatbox Battle (GBB)**
-Although it was relatively small at first, it has grown rapidly since the late 2010s. Forming major international divisions such as solo, loop station, tag, and crew teams.
-
-These competitions raised the level of technical skills around the world, standardizing judging criteria, subdividing genres, and increasing the sophistication of performance formats.
+90年代になると、ラジオやライブを通じて世界へ拡散し、単なる伴奏としてではなく、表現としてのビートボックスが徐々に独立しはじめる。
 
 ---
 
-# 3. Evolution and systemization of technology
+# 2. 世界大会の成立と国際化
 
-Not only has the variety of sounds in beatboxing increased, but the technical system itself has evolved.
+## ◆ 2000年代前半：大会文化の成立
+世界規模の大会文化が明確に整ったのは、2000年代以降である。
 
-## ◆ Basic structure
-- Kick (B)
-- Snare (K, Pf)
-- Hi-hat (T, Ts)
+- **Beatbox Battle World Championship（BBWC）**  
+  ドイツを拠点に開催される世界大会。ソロ、タッグ、クルーなど多カテゴリが整備される。
 
-## ◆ Advanced technology
-- Inward technology (Inward K, Inward Bass, Inward Lip Roll)
-- Lip Roll type (both inside and outside)
-- Sub-bass type
+- **Grand Beatbox Battle（GBB）**  
+  当初は比較的小規模だったが、2010年代後半から急成長。ソロ、ループステーション、タッグ、クルーチームなど国際的な主要部門を形成。
+
+これらの大会が世界中の技術水準を底上げし、審査基準の標準化、ジャンルの細分化、パフォーマンス形式の高度化を進めた。
+
+---
+
+# 3. 技術の進化と体系化
+
+ビートボックスは「音の種類が増えた」だけでなく、技術体系そのものが進化してきた。
+
+## ◆ 基本構造
+- Kick（B）
+- Snare（K, Pf）
+- Hi-hat（T, Ts）
+
+## ◆ 発展技術
+- Inward 技術（Inward K、Inward Bass、Inward Lip Roll）
+- Lip Roll 系（内外両方）
+- Sub-bass 系
 - Throat Bass
--Tongue Bass
--Click Roll
-- Polyphonic
+- Tongue Bass
+- Click Roll
+- 口内多音（Polyphonic）
 
-## ◆ Innovation since 2010s
-Since the late 2010s, it has largely evolved in the following three directions.
+## ◆ 2010年代以降の革新
+2010年代後半からは大きく以下の三方向に進化。
 
-1. **Groove Musician** (Tame Swing Drummer Interpretation)
-2. **Sound Design** (ASMR, mechanical, acoustic approaches)
-3. **Establishment of loop station** (multi-layer construction/electronic music development)
+1. **グルーヴ・ミュージシャン化**（タメ・スイング・ドラマー的解釈）  
+2. **サウンドデザイン化**（ASMR 的、機械的、音響的アプローチ）  
+3. **ループステーションの確立**（多層レイヤー構築・電子音楽的発展）
 
-Centered on GBB, ""beatbox as a musical work'' began to be emphasized.
-
----
-
-# 4. Style and characteristics of each country
-
-## ◆ 1. France
-France is one of the most technologically innovative countries in the world.
-
-- Thickness of mid-bass range
-- Focus on sound pressure
-- Diversity of technology
-
-## ◆ 2. United Kingdom
-UK has excellent musicality and construction ability.
-
-- Accuracy of Grooves & Timing
-- Drummer's composition ability
-- Flexibility across genres
-
-## ◆ 3. Switzerland
-GBB's home country, Switzerland, is the center of loop station culture.
-
-- Strength of Loopstation Division
-- Construction and arrangement ability
-- Accuracy of live equipment operation
-
-## ◆ 4. Asia (Japan, Korea, Taiwan, etc.)
-Rapid growth has been remarkable in recent years.
-
-- Precise technical system
-- High quality of sound
-- Speed ​​of adaptation to genres
-
-In particular, Japan's strengths are ""accuracy of sound," ""compositional ability," and ""compatibility with images and production.''
+GBB を中心に「音楽作品としてのビートボックス」が重視されるようになる。
 
 ---
 
-# 5. Japanese beatbox culture and characteristics
+# 4. 各国のスタイルと特色
 
-## ◆ 1. Community culture
-In Japan, it has spread through the streets and events since the mid-2000s, and techniques are shared between performers through practice sessions and participation in competitions.
+## ◆ 1. フランス
+フランスは世界でも最も技術革新が多い国の一つ。
 
-## ◆ 2. Strong technical orientation
-Japanese players are strong in sound accuracy and attention to detail, and are highly praised even by overseas players.
+- 中低音域の厚み
+- 音圧を重視
+- 技術の多様性
 
-## ◆ 3. Fusion with video and editing culture
-Mainly on YouTube and SNS,
-**"Video x Music x Performance"**
-Another feature is that the complex beatboxing technique developed from an early stage.
+## ◆ 2. イギリス
+UK は音楽性と構築力に優れる。
 
----
+- Grooves & Timing の正確さ
+- ドラマー的構成力
+- ジャンル横断の柔軟性
 
-# 6. **A deep dive into Japan's representative players**
+## ◆ 3. スイス
+GBB の母体となるスイスは、ループステーション文化の中心地。
 
-Below, we will take a look at Japanese players who are active internationally, based on facts, and summarize their characteristics and achievements.
+- Loopstation 部門の強さ
+- 構築・アレンジ能力
+- ライブ機材運用の精度
 
----
+## ◆ 4. アジア（日本・韓国・台湾など）
+近年の急成長が顕著。
 
-## ◆ A. SO-SO - Loop station innovation and musical construction
+- 精密な技術体系
+- 音のクオリティの高さ
+- ジャンルへの適応スピード
 
-### ● International recognition
-SO-SO is a representative Japanese artist who has established a worldwide reputation in the Loopstation category.
-The characteristic is that
-
-- Song development incorporating pop/EDM structure
-- Sound design that combines voice and looper
-- Balancing melody, chord, and bass line
-
-""Composer's approach'' is strong.
-
-### ● SO-SO technical features
-- Synthetic voice
-- Smooth processing of Inward sounds
-- Ability to construct the entire song using the looper
-- Vocal effect voice
-
-He has helped raise the profile of Loopstation players in Japan, and has a great influence on young players.
+特に日本は「音の正確さ」「構成力」「映像・演出との親和性」が強み。
 
 ---
 
-## ◆ B. RUSY - Super accurate rhythm and technical construction
+# 5. 日本のビートボックス文化と特徴
 
-### ● Precise technique
-RUSY is known for his highly accurate rhythms and smooth combination techniques, and has received high praise mainly at domestic tournaments in Japan.
-Features include:
+## ◆ 1. コミュニティ文化
+日本では、2000年代中盤からストリートやイベントを通じて広がり、演者同士の練習会や大会参加によって技術が共有された。
 
-- tight groove
-- Clear and dense pronunciation
-- Composition ability in units of one measure
+## ◆ 2. 技術志向の強さ
+日本のプレイヤーは、音の正確さや細部の練り込みに強く、海外勢からも評価されている。
 
-In particular, he is the type of player who has a high level of organization and proficiency in technique, and is praised by overseas players as having ""Japanese precision.''
-
----
-
-## ◆ C. Kohey ― Multitone, depth, and powerful triple time signature
-
-### ● Sound pressure and tone
-Koey is a player whose sound is deep, powerful, and has a strong bass range.
-The reason why it is attracting attention both in Japan and abroad is
-
-- Deep Throat sound
-- Stability of polyphonic sounds
-- Live performance presence
-
-It's in that part.
-
-### ● Koey's style
-- Sharpness for battle
-- Development that takes advantage of sound pressure
-- Incorporating detailed technology into key points
-
-Among recent Japanese players, he is a player with a tone that stands out in live performances.
+## ◆ 3. 映像・編集文化との融合
+YouTube や SNS を中心に、  
+**「映像 × 音楽 × パフォーマンス」**  
+という複合型ビートボックスが早い段階から発達した点も特徴である。
 
 ---
 
-# 7. Diversification of tournament categories
+# 6. **日本の代表的プレイヤー深掘り**
+
+以下では、事実ベースで国際的に活躍する日本のプレイヤーを取り上げ、特徴と功績を整理する。
+
+---
+
+## ◆ A. SO-SO ― ループステーション革新と音楽的構築
+
+### ● 国際的評価
+SO-SO は、ループステーション（Loopstation）部門で世界的な評価を確立した日本を代表するアーティストである。  
+特徴的なのは、
+
+- ポップス・EDM 構造を取り入れた曲展開
+- 声とルーパーを融合したサウンドデザイン
+- メロディ・コード・ベースラインの両立
+
+といった「作曲家的アプローチ」が強いこと。
+
+### ● SO-SO の技術的特徴
+- シンセ的ボイス
+- Inward 系音の滑らかな処理
+- ルーパーによる曲全体構築能力
+- ボーカルエフェクト的発声
+
+日本における Loopstation プレイヤーの認知を押し上げた存在であり、若手への影響力は大きい。
+
+---
+
+## ◆ B. RUSY ― 超正確なリズムと技術構築
+
+### ● 精密なテクニック
+RUSY は、精度の高いリズムと滑らかなコンビネーション技術で知られ、日本国内大会を中心に高評価を得ている。  
+特徴としては、
+
+- タイトなグルーヴ
+- クリアで密度の高い発音
+- 1小節単位での構成力
+
+特に技術の整理・練度が高く、海外勢から「日本らしい精密さ」と評されるタイプのプレイヤーである。
+
+---
+
+## ◆ C. Kohey ― 多音・厚み・迫力の三拍子
+
+### ● 音圧と音色
+Kohey は、音の厚み・迫力・低音域の強さが際立つプレイヤー。  
+日本国内外で注目されている理由は、
+
+- Throat 系の深いサウンド
+- 多音（Polyphonic）的鳴りの安定
+- ライブパフォーマンスの存在感
+
+という部分にある。
+
+### ● Kohey のスタイル
+- バトル向きの鋭さ
+- 音圧を活かした展開
+- 細かな技術を要所に織り込む
+
+近年の日本勢の中でも特に「ライブ映えする音色」を持つ選手である。
+
+---
+
+# 7. 大会カテゴリの多様化
 
 ## ◆ Solo
-traditional department. Comprehensive skills such as technology, composition, and originality are tested.
+伝統的な部門。技術・構成・オリジナリティなど総合力が問われる。
 
 ## ◆ Tag Team / Crew
-Synchronization, harmony, and composition ability by multiple people are required.
+複数人による同調・ハーモニー・構成力が要求される。
 
 ## ◆ Loopstation
-The category that has received the most attention in recent years,
-"Building multi-layered music by yourself"
-There is a strong music production element.
+近年最も注目されるカテゴリーで、  
+「一人で多層音楽を構築する」  
+という音楽制作的要素が強い。
 
 ## ◆ Showcases / Exhibition
-Emphasis on musicality. New formats have been added as the tournament culture has matured.
+音楽性重視。大会文化が成熟したことで新たに増えた形式。
 
 ---
 
-# 8. Human Beatbox Chronology
+# 8. Human Beatbox 年表
 
 <div class="mermaid">
 timeline
@@ -237,35 +236,35 @@ timeline
 
 ---
 
-# 9. Beatbox trends around the world and the future
+# 9. 世界のビートボックス潮流とこれから
 
-## ◆ 1. The line between music production is blurred
-With the development of Loopstation, beatboxing
-**"Real-time version of music production"**
-Towards an area that can be called
+## ◆ 1. 音楽制作との境界が曖昧に
+Loopstation の発展により、ビートボックスは  
+**「音楽制作のリアルタイム版」**  
+とも呼べる領域へ。
 
-## ◆ 2. Combination with visual culture
-The number of ""video-based showcases'' is increasing in tournaments around the world.
-We live in an era where SNS accelerates style.
+## ◆ 2. 映像文化との結合
+世界の大会でも「映像前提のショーケース」が増えている。  
+SNS がスタイルを加速させる時代となった。
 
-## ◆ 3. Future of Japanese strengths
-Japan is
+## ◆ 3. 日本勢の強みの未来
+日本は、
 
-- Technical precision
-- Preciseness
-- Arrangement ability
-- Visual expression
+- 技術精度  
+- 緻密さ  
+- アレンジ力  
+- 映像表現
 
-It has an international strength in this respect.
-We can expect him to continue to be active in both Loopstation and solo.
+という点で国際的な強みを持つ。  
+今後も Loopstation、ソロ双方で活躍が期待できる。
 
 ---
 
-# Conclusion - Human Beatbox as a culture
+# 終わりに ― 文化としての Human Beatbox
 
-Human Beatbox is a modern expression culture that combines many aspects such as music, performance, video, and composition.
-Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
+Human Beatbox は、音楽・パフォーマンス・映像・作曲など多方面が融合した現代的な表現文化である。  
+大会文化の成熟、技術の進化、日本勢の台頭など、大きな転換を迎えている今、ビートボックスは単なる「技」ではなく、国際的な音楽ジャンルとしての確立へと向かっている。
 
-I hope this article will help you understand the history and future of beatboxing.
+本稿が、ビートボックスの歴史と未来を理解する一つの手がかりとなれば幸いだ。
 
 ---

@@ -155,7 +155,7 @@ Musicizes factory sounds and machine noises.
 
 **Artist**: [Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
 
-**●New Age/Chillout**
+**● ニューエイジ／チルアウト系**
 
 Ambient music for relaxation and meditation.
 

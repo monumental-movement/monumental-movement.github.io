@@ -12,26 +12,26 @@ tags:
 - 80s
 - 90s
 - 00s
-title: '[Column] History and transformation of alternative rock: 1980–2020'
+title: 【コラム】 オルタナティヴ・ロックの歴史と変容：1980–2020
 ---
 
 
-## **Prologue: Before the word alternative was born**
+## **序章：オルタナティヴという言葉が生まれる以前**
 
 
-Text: mmr｜Theme: 40 years of history until counterculture became mainstream
+文：mmr｜テーマ：カウンターカルチャーが主流へ至るまでの40年史
 
 
-Although the term "alternative rock" became popular in the early 1990s, its origins can be traced back to the underground scenes of the United States and Britain in the early 1980s.
+「オルタナティヴ・ロック」という言葉が一般に定着するのは1990年代初頭だが、その源流は1980年代前半のアメリカとイギリスのアンダーグラウンド・シーンに遡る。
 
-In the 1980s, mainstream rock was centered on loud arena-sized hard rock, commercially polished AOR, and pop rock associated with MTV. On the other hand, in regional cities and university towns, a new movement of bands rooted in the DIY spirit and not based on commercial success began to emerge.
+1980年代、主流ロックはアリーナ規模を前提とした大音量のハードロック、商業的に磨かれたAOR、そしてMTVと結びついたポップ・ロックが中心だった。そこに対し、地方都市や大学街では**商業的成功を前提としない、DIY精神に根ざしたバンド群**が新たな動きを見せ始める。
 
-In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement called ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
+当時のアメリカでは SST Records、Twin/Tone、Touch and Go といったインディペンデント・レーベルが、ジャンルに依存しない多様なスタイルを送り出していた。ハードコア・パンクの速度や反権威性を継承しつつ、より自由な実験精神を持つバンド＝いわゆる **“college rock”** と呼ばれたムーブメントである。
 
-Around the same time, in Britain, the post-punk scene was branching out underground in a complicated way.
-Labels like Factory, 4AD, and Creation all had their own unique aesthetics, releasing a wide range of bands from guitar pop to shoegaze to gothic rock.
+同時期のイギリスでは、ポストパンク以後のシーンが地下で複雑に枝分かれする。
+Factory、4AD、Creation といったレーベルが独自の美学を持ち、ギターポップからシューゲイザー、ゴシック・ロックまで幅広いバンドを世に送り出した。
 
-These lines eventually converge into an area collectively known as "Alternative."
+これらの線がやがて「Alternative」と総称される領域へ収束していく。
 
 ---
 
@@ -40,7 +40,7 @@ These lines eventually converge into an area collectively known as "Alternative.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -49,106 +49,106 @@ color: #fff;
 </style>
 
 
-## **Chapter 1: From Postpunk to College Rock (1980–1987)**
+## **第1章：ポストパンクからカレッジ・ロックへ（1980–1987）**
 
-R.E.M.'s 1983 Murmur is particularly important as the starting point for alternative. While distancing themselves from commercialism, they featured melodies influenced by folk rock and ambiguous lyrics, and gained a large following, especially in American university towns. R.E.M.'s success was the moment that proved that ""a new type of rock that is different from the mainstream, but has a reliable audience'' could be created.
+オルタナの起点として特に重要なのが、R.E.M. の1983年『Murmur』である。商業主義とは距離を取りつつ、フォークロックの影響を受けたメロディと曖昧な歌詞を特徴とし、アメリカの大学街を中心に大きな支持を得た。R.E.M. の成功は「主流とは異なるが、確実なオーディエンスを持つ新しいロック」が成立することを証明した瞬間だった。
 
-Around the same time, bands such as The Replacements, Hüsker Dü, The Feelies, and Sonic Youth emerged, flexibly mixing noise, melody, and experimentation. In particular, Sonic Youth's exploration of guitar tuning and noise structure had a major influence on subsequent alternative music.
+同時期には、The Replacements、Hüsker Dü、The Feelies、Sonic Youth など、**ノイズ、メロディ、実験性を柔軟に混ぜ合わせるバンド**が続々と登場する。特に Sonic Youth のギター・チューニングの探求とノイズ構造は以後のオルタナ全体に大きな影響を残した。
 
-In the UK, The Smiths debuted in 1984. Combining the delicacy of guitar pop with social themes, it determined the values ​​of later indie rock.
+イギリスでは The Smiths が1984年にデビュー。ギター・ポップの繊細さと社会的テーマを併せ持ち、後のインディ・ロックの価値基準を決定づけた。
 
-The common feature of this period is that ""ideology preceded music.''
+この時期の共通点は、**音楽よりも理念が先行したこと**である。
 
-- distance from commercialism
-- Rising from regional cities and university towns
-- Pick up emotions and voices that are not covered by the majors
+- 商業主義からの距離
+- 地方都市と大学街から台頭
+- メジャーでは扱われない感情や声を拾い上げる
 
-These three became the basis for later Alterna.
-
----
-
-## **Chapter 2: Alternatives take shape (1987–1990)**
-
-Since 1987, US indie music has become more sophisticated, and album production methods have evolved significantly. Pixies released "Surfer Rosa" in 1988, clarifying the dynamic structure of "stillness and movement." This structure was later taken over by Nirvana, leading to the explosion of grunge.
-
-Dinosaur Jr. also brought back the guitar solo and fused it with roaring sounds, defining the grammar of later alternative guitar.
-Fugazi retained the spirit of hardcore, introduced melodies and structural arrangements, and held its own as a DIY icon.
-
-In the UK, bands such as Stone Roses (1989) and My Bloody Valentine (1990) appeared, and the Manchester scene and shoegaze brought a new trend to Europe.
-
-During this period, the core of what would become "Alternative" was assembled.
+この3つは後のオルタナの基礎となった。
 
 ---
 
-## **Chapter 3: The grunge explosion and the mainstreaming of alternative (1991–1994)**
+## **第2章：オルタナの形が整う（1987–1990）**
 
-1991: An iconic year in the history of alternative rock.
-Nirvana's ""Nevermind'' reached number one in the United States, catapulting the underground scene into the mainstream.
+1987年以降、USインディーはより洗練され、アルバム制作の手法も大きく進化した。Pixies は1988年『Surfer Rosa』を発表し、「静と動」のダイナミクス構造を明確化させた。この構造は後に Nirvana が引き継ぎ、グランジの爆発へ繋がる。
 
-characteristic of grunge
+また Dinosaur Jr. はギター・ソロの復権と轟音を融合し、後のオルタナ・ギターの文法を定義した。
+Fugazi はハードコアの精神を保ちつつ、メロディと構造的アレンジを導入し、DIYの象徴として独自の存在感を保った。
 
-- Lyrics full of instability
-- Mixture of roar and melody
-- Punk Ethics
+英国でも Stone Roses（1989年）、My Bloody Valentine（1990年）などが登場し、マンチェスター・シーンやシューゲイザーが欧州に新しい潮流をもたらした。
 
-However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts on MTV.
-
-Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as "representatives of grunge/alternative."
-
-However, it is not accurate to talk about alternative as a whole in terms of grunge alone. Around the same time, bands with diverse styles such as Pavement, Smashing Pumpkins, Breeders, and Belly appeared, and the realm of alternative music rapidly expanded.
+この時期に、のちの「Alternative」の中核が揃う。
 
 ---
 
-## **Chapter 4: Diversification and Fragmentation (1995–1999)**
+## **第3章：グランジ爆発とオルタナの主流化（1991–1994）**
 
-Since 1995, alternative has changed from being a ""genre" to a ""methodology that crosses genres."
+1991年──オルタナティヴ・ロックの歴史において象徴的な年である。
+Nirvana の『Nevermind』が全米1位を獲得し、地下にあったシーンが一気に主流へ押し上げられた。
 
-### ● Establishment of indie rock
+グランジの特徴である
 
-The success of Pavement and Guided by Voices solidified the idea that creativity could work on a low budget, and the lo-fi aesthetic became a symbol of indie.
+- 不安定さを孕んだ歌詞
+- 轟音とメロディの混在
+- パンクの倫理観
 
-### ● Rise of female artists
+が、商業ロックとは異なる価値観を提示し、MTVが大量に放送することで世界規模のムーブメントとなった。
 
-Female artists with diverse styles expanded the alternative realm, including Hole, Garbage, Björk, and PJ Harvey.
+同時期には Pearl Jam、Soundgarden、Alice in Chains といったシアトル出身のバンドが相次いで成功し、「グランジ＝オルタナの代表」と世界的に認識されるようになる。
 
-### ● Britpop and post-Britpop
-
-In the UK, bands such as Oasis and Blur formed Britpop, and rock became a social phenomenon.
-This movement connects to lyrical and experimental bands like Radiohead and The Verve.
-
-### ● Post-rock and related movements
-
-The rise of Tortoise, Mogwai, Godspeed You! Black Emperor and others pushed the boundaries of rock.
-
-Alternative is no longer a single style;
-**"A general term for creativity that is not captured by commercialism"**
-It has come to be understood as.
+しかし、オルタナ全体をグランジだけで語るのは正確ではない。同時期には Pavement、Smashing Pumpkins、Breeders、Belly など、多様なスタイルのバンドが登場し、オルタナの領域は急速に拡張していった。
 
 ---
 
-## **Chapter 5: Redefining the 21st Century (2000–2010)**
+## **第4章：多様化と細分化（1995–1999）**
 
-In the early 2000s, bands such as The Strokes, The White Stripes, Interpol, and Yeah Yeah Yeahs achieved worldwide success with their revival-style guitar rock. This is often referred to as the "post-punk revival."
+1995年以降、オルタナは「一つのジャンル」ではなく、「ジャンル横断の方法論」へと変化していく。
 
-At the same time, bands such as Arcade Fire, Modest Mouse, The National, and Franz Ferdinand emerged in various places, and alternative music overlapped with the broader definition of "indie rock."
+### ● インディ・ロックの確立
 
-In the late 2000s, American festival culture (Coachella, Lollapalooza) became larger and more indie acts graced the main stage. The sight of bands that were once underground taking center stage at festivals has become commonplace.
+Pavement や Guided by Voices の成功は、「低予算でも創造性があれば成立する」という価値観を定着させ、ローファイ美学がインディの象徴となった。
+
+### ● 女性アーティストの台頭
+
+Hole、Garbage、Björk、PJ Harvey など、多様なスタイルの女性アーティストがオルタナ領域を拡大した。
+
+### ● ブリットポップとポスト・ブリットポップ
+
+イギリスでは Oasis、Blur などがブリットポップを形成し、ロックが社会現象化。
+この動きは Radiohead や The Verve のような叙情的で実験的なバンドへ接続する。
+
+### ● ポストロックと関連ムーブメント
+
+Tortoise、Mogwai、Godspeed You! Black Emperor などが台頭し、ロックの境界を広げた。
+
+オルタナはもはや単一のスタイルではなく、
+**「商業主義に回収されない創造性の総称」**
+として理解されるようになった。
 
 ---
 
-## **Chapter 6: Alternatives in the Streaming Era (2010–2020)**
+## **第5章：21世紀の再定義（2000–2010）**
 
-Since the 2010s, the genre boundaries of rock have become blurred due to the spread of streaming, and alternative has come to have more diverse meanings.
+2000年代初頭、The Strokes、The White Stripes、Interpol、Yeah Yeah Yeahs などがリバイバル風のギターロックで世界的成功を収めた。これはしばしば「ポスト・パンク・リバイバル」と呼ばれる。
 
-With Tame Impala"s psychedelic route, Bon Iver"s digital/folk fusion, Deerhunter's experimentation, and the rise of female artists (St. Vincent, Mitski, Phoebe Bridgers), alternatism has fully transitioned to "altera as an aesthetic attitude."
+同時に、Arcade Fire、Modest Mouse、The National、Franz Ferdinand などが各地で台頭し、オルタナはより広義の“インディ・ロック”と重なっていく。
 
-Rather than the "anti-commercialism" of the past,
-**"A production attitude that emphasizes independence and experimentation"**
-This remained the essence of alterna.
+2000年代後半には、アメリカのフェス文化（Coachella、Lollapalooza）の大型化が進み、インディ勢がメインステージを飾るようになる。かつて地下にいたバンドがフェスの中心に立つ、という光景が日常化した。
 
 ---
 
-# **Alternative rock major chronology (1980–2020)**
+## **第6章：ストリーミング時代のオルタナ（2010–2020）**
+
+2010年代以降、ストリーミングの普及によりロックのジャンル境界が曖昧になり、オルタナはより多様な意味を持つようになる。
+
+Tame Impala のサイケデリック路線、Bon Iver のデジタル×フォークの融合、Deerhunter の実験性、さらに女性アーティスト（St. Vincent、Mitski、Phoebe Bridgers）の台頭など、オルタナは「美的態度としてのオルタナ」へ完全に移行した。
+
+かつての“反商業主義”ではなく、
+**「独立性と実験性を重視する制作態度」**
+こそがオルタナの本質として残り続けた。
+
+---
+
+# **オルタナティヴ・ロック 主要年表（1980–2020）**
 
 <div class="mermaid">
 timeline
@@ -168,38 +168,46 @@ timeline
 
 ---
 
-# **Alternative guitar structure: static and dynamic dynamics**
+# **オルタナ・ギター構造：静と動のダイナミクス**
 
 <div class="mermaid">
 flowchart TD
-    A["Shizu (Clean Arpeggio)"] --> B["Distortion Burst"]
-    B --> C["A chorus section that pushes out the melody"]
-    C --> D["Return to silence"]
+    A["静（クリーン・アルペジオ）"] --> B["急激な歪み（Distortion Burst）"]
+    B --> C["メロディを押し出すコーラス部"]
+    C --> D["再び静へ戻る"]
 </div>
 
 ---
 
-# **Chapter 7: The current location and future of alternatives**
+# **第7章：オルタナティヴの現在地と未来**
 
-In the 2020s, the word "alternative" is increasingly used to refer to a "place" or "community" rather than a genre.
-With indie distribution centered around Bandcamp, the expansion of Bedroom Pop, and the spread of cross-genre production environments, alternative continues to be a concept that symbolizes the ""spirit of independent production.''
+2020年代に入ると、オルタナという言葉はジャンルより「場」や「コミュニティ」を指すことが増えている。
+Bandcamp を中心としたインディ流通、Bedroom Pop の拡大、ジャンル横断的な制作環境の普及により、オルタナは「独立的制作の精神」を象徴する概念として継続している。
 
-Although it is unlikely that a huge movement like the one in the past will occur, it can be said that the ""spirit of independence'' has taken root more widely.
-What started as a small underground movement in the 1980s continues to pervade every musical genre around the world, 40 years later.
+かつてのような巨大ムーブメントが起こる可能性は低いが、逆に言えば「独立の精神」はより広範に根付いたとも言える。
+80年代にアンダーグラウンドで始まった小さな動きは、40年後の現在、世界中のあらゆる音楽ジャンルに浸透し続けている。
 
 ---
 
-# **Conclusion: The "centerless center" of alternatives**
+# **結語：オルタナティヴの“中心なき中心”**
 
-What is the history of alternative rock?
-**A history of the "rebellion of the periphery against the center" being repeatedly incorporated into the mainstream and changing its appearance each time**
-It is.
+オルタナティヴ・ロック史とは、
+**「中心に対する周縁の反抗」が繰り返し主流へ取り込まれ、そのたびに姿を変えていく歴史**
+である。
 
-It was born on the fringes of commercial rock, absorbed into the mainstream, and then transformed underground again.
-This cycle is the symbol of Alterna, and its greatest appeal over the past 40 years.
+商業ロックの周縁で生まれ、主流に吸収され、再び地下で形を変えていく。
+この循環こそがオルタナの象徴であり、40年間にわたる最大の魅力である。
 
-No matter how the music of the future changes,
-"Creativity that is not satisfied with the existing center"
-As long as there is, alternatives will continue to be born.
+未来の音楽がどのように変化しても、
+「既存の中心に満足しない創造性」
+が存在する限り、オルタナティヴは常に生まれ続けるだろう。
+
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fym6zLm8tVM?si=NBR3wdnBoKkisSD3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

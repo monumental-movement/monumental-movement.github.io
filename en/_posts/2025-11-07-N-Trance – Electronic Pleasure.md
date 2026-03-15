@@ -13,9 +13,9 @@ title: N-Trance – Electronic Pleasure
 ---
 
 
-N-Trance is a British electronic music duo formed in 1990 by Kevin O'Toole and Dale Longwort.
+N-Tranceは、1990年にKevin O'Toole と Dale Longwortによって結成されたイギリスのエレクトロニックミュージックデュオ。
 
-"Electronic Pleasure" is N-Trance's first full-length studio album, released in 1995, and includes the hit songs "Set You Free," "Stayin' Alive," and "Electronic Pleasure."
+「Electronic Pleasure」は、1995年にリリースされたN-Trance 初のフルレングススタジオアルバムで、ヒット曲「Set You Free」「Stayin' Alive」「Electronic Pleasure」などが収録されている。
 
 #### Tracklist
 ```md
@@ -33,7 +33,7 @@ N-Trance is a British electronic music duo formed in 1990 by Kevin O'Toole and D
 12. That's All We Need
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bcf5kzBCdy4?si=Xu1Zk16QwxYwltcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

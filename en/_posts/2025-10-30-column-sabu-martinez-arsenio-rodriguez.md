@@ -53,7 +53,7 @@ This created a multi-layered rhythmic structure.
 * **Social factors:** After the abolition of slavery, an Afro-American community was formed in Havana, and the professionalization of black musicians progressed.
 * **Technical elements:** The standardization of the tres (three-string guitar) and congas made the later montuno structure possible.
 
-It is against this background that a blind revolutionary named **Arsenio Rodríguez** (1911–1970) appears.
+It is against this background that a blind revolutionary named **Arsenio Rodríguez** (1911–1970) emerges.
 
 ---
 

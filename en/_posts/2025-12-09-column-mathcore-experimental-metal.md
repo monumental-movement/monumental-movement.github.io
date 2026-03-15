@@ -129,7 +129,7 @@ flowchart TD
 
 * Dealing with **metric modulation** (the illusion of tempo)
 * Multi-stage arrangement of snare accents
-*Polyrhythmic simultaneous pronunciation (e.g. 5 connected figures on top of 4/4)
+* Polyrhythmic simultaneous pronunciation (e.g. 5 connected figures on top of 4/4)
 
 ### Base
 

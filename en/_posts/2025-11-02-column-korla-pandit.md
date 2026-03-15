@@ -59,7 +59,7 @@ color: #fff;
 5. [Chapter 5: The Truth Behind the Mask - Confessions of John Rowland] (#Chapter 5)
 6. [Chapter 6: Reverberations of Exotica - From Longines Symphonette to Lo-Fi Revival] (#Chapter 6)
 7. [Chapter 7: Modern Reappraisal and Cultural Dislocation] (#Chapter 7)
-8. [Chronology: Korla Pandit and the history of exotica music (1940–2020)] (#chronology)
+8. [Chronology: Korla Pandit and the History of Exotica Music (1940–2020)] (#Chronology)
 9. [Charts and Analysis](#Charts)
 10. [Conclusion: Between fiction and truth] (#Conclusion)
 
@@ -87,7 +87,7 @@ In America in the early 1950s, in the shadow of victory in World War II and the 
 
 - ""South Pacific'' (1958) was a big hit in Hollywood.
 - Tiki bars became popular in homes, and bamboo furniture and tropical-patterned curtains filled the dreams of the common man.
-- In terms of music, Latin, Hawaiian, Arabian, and Indian music were consumed as "fantasy background music."
+- In terms of music, Latin, Hawaiian, Arabian, and Indian music was consumed as "fantasy background music."
 
 In this context, the Pandit's silence and mask came to symbolize an idealized "foreign tranquility."
 
@@ -169,7 +169,7 @@ Since the 2000s, his videos and records have been rediscovered as collector's it
 | 1948 | Starts appearing on TV, using the name "Korla Pandit" on KTLA |
 | 1951 | "Korla Pandit Show" begins broadcasting |
 | 1957 | Martin Denny's "Exotica" tops the charts |
-| 1960 | アメリカでエキゾチカブーム最盛期 |
+| 1960 | The height of the exotica boom in America |
 | 1970 | Fewer TV appearances, performing in Las Vegas and other places |
 | 1998 | True identity revealed |
 | 2014 | Movie "Korla" released |

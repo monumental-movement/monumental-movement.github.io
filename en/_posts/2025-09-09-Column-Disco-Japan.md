@@ -122,7 +122,7 @@ Formation of the foundation of the "fan dance culture" that continued with Bodyc
 | Like a Virgin | Madonna | Symbolizes the birth of a female pop icon. |
 | I Feel for You | Chaka Khan | A fusion of hip-hop and disco. |
 | Dancing Hero | Yoko Oginome | A hit synonymous with Japanese disco. |
-| DESIRE -Passion- | Akina Nakamori | A fusion of disco beats and pop songs. |
+| DESIRE -Passion- | Akina Nakamori | A fusion of disco beat and pop songs. |
 | Let"s Groove | Earth, Wind & Fire | A bridge from funk to disco. |
 | Word Up! | Cameo | Funk-based disco classic. |
 | Celebration | Kool & The Gang | A classic festival song. |
@@ -301,7 +301,7 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 | Levitating | Dua Lipa | Popular on TikTok |
 | Say So | Doja Cat | Very popular in Japan |
 | Disco | Kylie Minogue | Modern disco as the title suggests |
-| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop revival |
+| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop comeback |
 | Funk to the Future | Night Tempo | Future Funk interpretation from Japan |
 | Leave the Door Open | Silk Sonic | Soul x Disco fusion |
 | Break My Soul | Beyoncé | House and disco fusion |

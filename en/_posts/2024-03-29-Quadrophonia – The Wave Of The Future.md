@@ -13,27 +13,27 @@ title: Quadrophonia – The Wave Of The Future
 ---
 
 
-Quadrophonia is a project by Dutch DJ Lucien Foort and Belgian DJ Olivier Abbeloos.
+Quadrophonia（クアドロフォニア）は、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。
 
-"The Wave Of The Future" is a breakbeat hardcore techno track released in 1991.
+「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
 
-The second track on side A is a remix by Mark Ryder (DJ Ryder).
+A面2曲目はMark Ryder(DJ Ryder)によるremix。
 
-Olivier Abbeloos was born on January 18, 1969 in Aalst, Belgium.
+Olivier Abbeloosは、1969年1月18日、ベルギーのアールストで生まれました。
 
-He was interested in music from an early age, and at the age of 13, his parents gave him a DJ set, and he started DJing.At the age of 17, he began producing music on his own, creating megamixes using two track recorders.
+幼少期から音楽に興味を持ち、13歳の時に両親からDJセットをもらい、DJを始めて、17歳になると2台のトラックレコーダーを使ってメガミックスを作成するなど、独学で音楽制作を始めました。
 
-His first project was L&O's "Even Now", but his name is not listed in the credits, and he went on to form his first collaborative project, The Beat Machine, with Patrick de Mayer.
+彼の最初のプロジェクトは、L&Oの"Even Now"でしたが、クレジットには名前が載っておらず、その後、パトリック・デ・マイヤーと最初の共同プロジェクトであるThe Beat Machine を結成しました。
 
-His name became widely known through his duo Quadroponia with Lucien Foort.
+彼の名を広く知らしめたのは、Lucien Foortとのデュオ、クアドロフォニアです。
 
-Meanwhile, T99 was initially a solo project of Patrick De Meyer, and after releasing three albums, Patrick De Meyer heard that Olivier Abbeloos was working on a song called "Anasthasia" and suggested that they release it under the T99 name.
+一方、T99 は当初、Patrick De Meyerのソロプロジェクトとして活動し、3作品をリリースした後、Olivier Abbeloosが "Anasthasia" という楽曲を制作しているのを聞いたPatrick De Meyerは、T99 名義でリリースすることを提案します。
 
-Olivier Abbeloos agreed, and T99 started working as a duo.
+Olivier Abbeloosは了承し、以降T99はデュオとして活動するようになりました。
 
-The two later released their only album, "Children Of Chaos".
+2人は後に唯一のアルバム "Children Of Chaos" をリリースしています。
 
-As a side note, Abrilos' brother-in-law is Olivier Pieters, who also worked in the import department of the record shop Target Records.
+余談ですが、アブリーロスの義理の兄弟はOlivier Pietersであり、レコードショップ「ターゲット・レコーズ」の輸入部門でも働いていました。
 
 #### Tracklist
 ```md
@@ -48,7 +48,7 @@ B2. The Wave Of The Future (Medium Mix)
 B3. The Wave Of The Future (Small Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,13 +12,13 @@ title: Yellowman – Rambo
 ---
 
 
-"Rambo" is a song by Jamaican reggae musician Yellowman. Yellowman was a very popular artist in Jamaican music in the 1980s.
+「Rambo」は、ジャマイカのレゲエミュージシャンであるイエローマン（Yellowman）の楽曲です。イエローマンは、1980年代にジャマイカ音楽界で非常に人気のあるアーティストでした。
 
-"Rambo" is included on Yellowman"s album "King Yellowman", released in 1982. This song is known for its style called Yellowman"s Toast Style. Toast style is a style of rapping that improvises lyrics to a rhythm and evolved from the sound system culture of Jamaican music.
+「Rambo」は、イエローマンのアルバム「King Yellowman」に収録されており、1982年にリリースされました。この曲は、イエローマンのトーストスタイルと呼ばれるスタイルで知られています。トーストスタイルは、リズムに合わせて即興で歌詞をラップするスタイルで、ジャマイカ音楽のサウンドシステムカルチャーから発展しました。
 
-"Rambo" is inspired by action hero John J. Rambo from the film series of the same name. In the song's lyrics, Yellowman compares himself to Lambeau, demonstrating his confident attitude and powerful performance.
+「Rambo」は、同名の映画シリーズのアクションヒーローであるジョン・J・ラムボーに触発されています。曲の歌詞では、イエローマンが自身をラムボーになぞらえ、自信に満ちた姿勢やパワフルなパフォーマンスを披露しています。
 
-This song is considered one of Yellowman's signature songs, known for his dancehall reggae style and powerful performances. His unique style and unique artistic approach have made Yellowman a major influence on the Jamaican music scene.
+この曲は、ダンスホールレゲエのスタイルとパワフルなパフォーマンスで知られるイエローマンの代表曲の一つとされています。彼の独特なスタイルと独自のアーティスティックなアプローチにより、イエローマンはジャマイカ音楽シーンで大きな影響力を持つ存在となりました。
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ B3. Love
 B4. Long Rider
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m27145474489?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27145474489?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSO1ZXvhO0I?si=7-omSN929oREkmDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

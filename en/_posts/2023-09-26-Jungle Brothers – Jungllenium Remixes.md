@@ -12,7 +12,7 @@ title: Jungle Brothers – Jungllenium Remixes
 ---
 
 
-"Jungllenium Remixes" is a collection of remixes of Jungle Brothers' songs by various producers and remixers.
+「Jungllenium Remixes」は、Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
 
 
 #### Tracklist
@@ -44,7 +44,7 @@ title: Jungle Brothers – Jungllenium Remixes
 13. Straight Out The Jungle (Soul Shock Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_Br-JWVk80?si=4XmyMDo4nmb71LMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

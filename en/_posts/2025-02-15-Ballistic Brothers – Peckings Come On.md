@@ -15,13 +15,13 @@ title: Ballistic Brothers – Peckings Come On
 ---
 
 
-Ballistic Brothers was a downbeat band based in England in the 90s, formed by X-Press 2's Ashley Beedle, Rocky & Diesel, and David Hill (Nuphonic Records). Characterized by a funky electronica style influenced by jazz.
+Ballistic Brothersは、X-Press 2のAshley Beedle、Rocky & Diesel、David Hill（Nuphonic Records） が結成し、90年代イギリスを拠点に活躍したダウンビートバンド。ジャズの影響を受けたファンキーなエレクトロニカスタイルが特徴。
 
-This CD is a single cut from the masterpiece album London Hooligan Soul, released in 1995 by the UK label Junior Boy's Own.
+このCDは、1995年にUKのレーベルJunior Boy's Ownからリリースされた名作アルバムLondon Hooligan Soulからのシングルカット。
 
-The second song is a remix by jungle drum and bass DJ and producer Simon Templar aka Paul Saunders.
+2曲目はジャングル・ドラムンベースのDJ＆プロデューサーSimon TemplarことPaul Saundersによるremix。
 
-The third song is a remix by UK techno DJ and producer Luke Slater.
+3曲目はUKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるremix。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ The third song is a remix by UK techno DJ and producer Luke Slater.
 3. Come On (Luke Slater Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m11109997643?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11109997643?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XibBwi8wmUY?si=H7xFy0WWrh-wWI8l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

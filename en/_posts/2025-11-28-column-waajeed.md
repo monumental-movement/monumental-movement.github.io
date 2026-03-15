@@ -205,7 +205,7 @@ This is even more pronounced on Mother, giving the club track an emotional depth
 
 ### **■ Hybrid of live sound and electronic sound**
 
-The technique of naturally blending synths, pads, electric piano, live drums, percussion, etc. is also the result of the "ear training" of the hip-hop era.
+The technique of naturally blending synths, pads, electric piano, live drums, percussion, etc. is also a result of the ""ear training'' of the hip-hop era.
 
 ---
 

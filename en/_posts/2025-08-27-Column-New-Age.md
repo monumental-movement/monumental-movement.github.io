@@ -8,101 +8,101 @@ layout: post
 tags:
 - New Age
 - Relaxation
-title: '[Column] New Age Music - The intersection of meditation and soundscape'
+title: 【コラム】 ニューエイジ音楽 ― 瞑想とサウンドスケープの交差点
 ---
 
 
-## --Harmony with nature, self-reflection, and healing--
+## ――自然との調和、内省、そして癒し――
 
 
-Text: mmr｜Theme: Deep relationship with New Age ideology and counterculture
-
-<hr>
-
-### Definition and characteristics
-
-New Age music is a music genre that spread mainly in Europe and America from the late 1970s to the 1980s, and refers to a style that is often listened to in the context of meditation, relaxation, and the spiritual world.
-It has developed through a mix of ambient, contemporary, ethnic, and environmental music, and is characterized by a meditative, non-aggressive sound that makes full use of synthesizers and acoustic instruments. The melodies are simple, often with long sustained notes and repeated structures, and the rhythms are often purposely omitted or very slow.
-
-For this reason, it played a role as "healing music" and was associated with spiritual lifestyles and back-to-nature movements.
+文：mmr｜テーマ：ニューエイジ思想やカウンターカルチャーとの深い関係
 
 <hr>
 
-### Origin and historical background
+### 定義と特徴
 
-**1970s**: With the rise of interest in New Age thought and Eastern philosophy, it spread among people who wanted to meditate and return to nature. Krautrock ([Tangerine Dream](https://amzn.to/42JEfLd), [Popol Vuh](https://amzn.to/4nSrarh), etc.) and the ambient works of [Brian Eno](https://amzn.to/4ooImVa) became the soil.
+ニューエイジ音楽（New Age Music）は、1970年代後半から1980年代にかけて欧米を中心に広がった音楽ジャンルで、瞑想・リラクゼーション・精神世界といった文脈で聴かれることが多いスタイルを指す。
+アンビエントや現代音楽、民族音楽、環境音楽と交錯しつつ発展し、シンセサイザーやアコースティック楽器を駆使した瞑想的で非攻撃的なサウンドが特徴である。メロディーはシンプルで、長い持続音や反復構造が多く、リズムはあえて排除されるか、非常に緩やかである場合が多い。
+
+そのため「ヒーリング・ミュージック」としての役割を担い、スピリチュアルなライフスタイルや自然回帰運動とも結びついた。
+
+<hr>
+
+### 成り立ちと歴史的背景
+
+**1970年代**：ニューエイジ思想や東洋哲学への関心の高まりとともに、瞑想や自然回帰を志向する人々の間で広がった。クラウトロック（[Tangerine Dream](https://amzn.to/42JEfLd), [Popol Vuh](https://amzn.to/4nSrarh) など）や[ブライアン・イーノ](https://amzn.to/4ooImVa)のアンビエント作品が土壌となる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/reu15RM5OO0?si=cE3kX-VUHyezeIhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**1980s**: Labels such as Windham Hill Records and Private Music were established, and artists such as [George Winston](https://amzn.to/3W7NEZl) and [Kitaro](https://amzn.to/42I1xBc) gained worldwide popularity. The term "New Age" becomes established as a category in the music market.
+**1980年代**：Windham Hill Records や Private Music といったレーベルが設立され、[ジョージ・ウィンストン](https://amzn.to/3W7NEZl)や[キタロウ（喜多郎）](https://amzn.to/42I1xBc)などが世界的に人気を獲得。「ニューエイジ」という言葉が音楽マーケットのカテゴリーとして定着する。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzuBXXHwfp4?si=iUoxN2q2MksVDR9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**1990s**: Taking advantage of the "healing" boom of the CD era, compilations combining environmental and natural sounds were mass-produced and became popular in Japan as "healing music." The Grammy Awards will also establish a ""Best New Age Album'' category.
+**1990年代**：CD時代の「癒し」ブームに乗り、環境音や自然音を組み合わせたコンピレーションが量産され、日本でも「ヒーリング・ミュージック」として浸透。グラミー賞でも「Best New Age Album」部門が設立される。
 
-After the 2000s: There was a time when it was looked down upon as "spiritual background music," but it was reconsidered along with the reappraisal of ambient and drone music, and has been revived as a listening option on streaming services such as Spotify and YouTube.
-
-<hr>
-
-### Representative artists and works
-
-- **Brian Eno**: "Ambient 1: Music for Airports" - Connecting the origins of New Age and Ambient.
-
-- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road''.
-
-- **George Winston**: A tranquil sound world of solo piano. Works with a seasonal feel, such as "December."
-
-- **Andreas Vollenweider**: Popular for his fantastical performances using the electric harp.
-
-- **Enigma**: A worldwide hit with "Sadeness (Part I)," a fusion of Gregorian chant and synth.
-
-- **Yanni**: Gained popularity in the 90s for her stage performances with a symphonic scale.
+2000年代以降：一時は“スピリチュアル系BGM”として軽視される時期もあったが、アンビエントやドローン・ミュージックの再評価とともに見直され、SpotifyやYouTubeなどのストリーミングにおいてリスニング用途として復権している。
 
 <hr>
 
-### Cultural/ideological background
+### 代表的アーティストと作品
 
-New Age music was not just a musical genre, but had a deep relationship with New Age ideas and counterculture.
+- **ブライアン・イーノ（Brian Eno）**：「Ambient 1: Music for Airports」― ニューエイジとアンビエントの源流をつなぐ。
 
-Incorporating spiritual elements such as Eastern philosophy, Indian thought, meditation, and nature worship, he aims to liberate himself from city life.
+- **喜多郎（Kitaro）**：シンセサイザーを駆使した壮大なサウンドスケープ。NHK『シルクロード』で世界的に知られる。
 
-It resonated with environmental music and the ecology movement, and was a cultural phenomenon that symbolized ""harmony with nature.''
+- **ジョージ・ウィンストン（George Winston）**：ピアノ独奏による静謐な音世界。「December」など季節感にあふれる作品。
 
-It has spread to all aspects of lifestyle such as art, architecture, yoga and healing, forming a culture that transcends genres.
+- **アンドレアス・フォーレンヴァイダー（Andreas Vollenweider）**：エレクトリック・ハープを用いた幻想的な演奏で人気。
 
-<hr>
+- **エニグマ（Enigma）**：グレゴリオ聖歌とシンセを融合させた「Sadeness (Part I)」で世界的ヒット。
 
-### Contemporary reappraisal
-
-Current new age music has moved away from being simply "healing music" and is being evaluated in a new way in the following context.
-
-- **Lo-fi and chill-out culture**: Renewed attention as "listening music" in the streaming era.
-
-- **Analog return**: Works from the 1980s and 1990s are being unearthed amid record reissues and cassette culture.
-
-- **Resurrection of Ambient**: Modern composers (Laraaji, Kaitlyn Aurelia Smith, etc.) reconstitute New Age elements in a modern way.
-
-- **Wellness Industry**: New Age musical sounds now standard in mindfulness, yoga, meditation apps, and more.
+- **ヤニ（Yanni）**：シンフォニックなスケールを持つステージパフォーマンスで90年代に人気を博す。
 
 <hr>
 
-### Embodying an "oasis of sound"
+### 文化的・思想的背景
 
-New Age music was often described as ""background music", to put it bluntly. However, its meditative and non-aggressive sound has come to embody the ""sound oasis" sought by people as urbanization and information technology progress.
-In modern times, it has been reabsorbed into genres such as ambient and chillout, but its ideals - harmony with nature, introspection, and healing - have become even more urgent.
+ニューエイジ音楽は単なる音楽ジャンルではなく、ニューエイジ思想やカウンターカルチャーとの深い関係性を持っていた。
 
-New Age is not a passing fad of the past, but a music culture that continues to quietly but surely play a role in people's lives.
+東洋哲学・インド思想・瞑想・自然崇拝などのスピリチュアルな要素を取り込み、都市生活からの解放を志向。
+
+環境音楽やエコロジー運動とも共振し、「自然との調和」を象徴する文化現象でもあった。
+
+美術や建築、ヨガやヒーリングといったライフスタイル全般に広がり、ジャンルを越えたカルチャーを形成。
+
+<hr>
+
+### 現代的な再評価
+
+現在のニューエイジ音楽は、単なる“癒しの音楽”から脱却し、以下の文脈で新たに評価されている。
+
+- **ローファイやチルアウト文化**：ストリーミング時代の“聴き流し音楽”として再注目。
+
+- **アナログ回帰**：レコード再発やカセット文化の中で80〜90年代の作品が掘り起こされる。
+
+- **アンビエントの再興**：現代作曲家（Laraaji, Kaitlyn Aurelia Smith など）がニューエイジ的要素を現代的に再構築。
+
+- **ウェルネス産業**：マインドフルネス、ヨガ、瞑想アプリなどでニューエイジ音楽的なサウンドが標準装備に。
+
+<hr>
+
+### “音のオアシス”の体現
+
+ニューエイジ音楽は、誤解を恐れず言えば「BGM的」と評されることも多かった。しかし、瞑想的で非攻撃的なその響きは、都市化・情報化の進展とともに人々が求める“音のオアシス”を体現してきた。
+現代においては、アンビエントやチルアウトといったジャンルに再吸収されつつも、その理念――自然との調和、内省、そして癒し――はむしろ切実さを増している。
+
+ニューエイジは過去の一過性のブームではなく、今も静かに、しかし確実に人々の生活に寄り添い続ける音楽文化である。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/APnXan4Anf8?si=r8eC5X9i9XtZ0NXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

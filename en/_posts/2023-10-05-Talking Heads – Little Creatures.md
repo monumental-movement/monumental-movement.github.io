@@ -12,11 +12,11 @@ title: Talking Heads – Little Creatures
 ---
 
 
-""Little Creatures"' represents one of the musical evolutions of Talking Heads. The album incorporates pop elements into the band"s sound and is full of melodic and catchy songs. This allowed their music to appeal to a wider audience.
+「Little Creatures」は、トーキング・ヘッズの音楽的な進化の一つを示す作品です。アルバムは、バンドのサウンドにポップな要素を取り入れ、メロディアスでキャッチーな曲が豊富に収録されています。これにより、彼らの音楽がより広い聴衆にアピールすることに成功しました。
 
-The album features many songs, including the hits "And She Was" and "Road to Nowhere." These songs combined Talking Heads' signature rhythms, humorous lyrics, and catchy melodies, and were loved by many.
+アルバムには、ヒット曲「And She Was」や「Road to Nowhere」を含む多くの楽曲が収録されています。これらの曲は、トーキング・ヘッズの特徴的なリズム、ユーモラスな歌詞、そしてキャッチーなメロディが融合しており、多くの人々に愛されました。
 
-"Little Creatures" was the most commercially successful album of Talking Heads' career and received critical acclaim.
+「Little Creatures」は、トーキング・ヘッズのキャリアの中でも商業的にも成功したアルバムであり、批評家からも高い評価を受けました。
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ B3. Television Man
 B4. Road To Nowhere
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m89766672710?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89766672710?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl3B_FTDKD0?si=WT0U3FTNIBn08KP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

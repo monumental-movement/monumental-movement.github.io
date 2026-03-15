@@ -10,21 +10,20 @@ tags:
 - Jungle
 - Drum N Bass
 - Electronic
-title: '[Column] Jungle / Drum & Bass Reconsidered: Reevaluating the music created
-  by cities and technology'
+title: '【コラム】 Jungle / Drum & Bass Reconsidered: 都市とテクノロジーが生んだ音楽の再評価'
 ---
 
 
 
-## The eve of the birth of the jungle ─ Accumulation of breakbeat culture
+## ジャングル誕生前夜──ブレイクビーツ文化の蓄積
 
-Text: mmr｜Theme: A multifaceted analysis of why jungle/drum and bass, which was born in the urban environment of London in the 1990s, is now being reevaluated, based solely on the facts of music technology, social background, and cultural influence.
+文：mmr｜テーマ：1990年代ロンドンの都市環境から生まれたジャングル／ドラムンベースが、なぜいま再評価されているのかを、音楽技術・社会背景・文化的影響の事実のみから多角的に読み解く
 
-In Britain in the early 1990s, breakbeats derived from hip-hop, the bass culture of reggae/dub, and the faster dance music of rave were evolving in parallel. In London in particular, immigrant communities and youth club culture intersected closely, and musical intermingling was commonplace.
+1990年代初頭のイギリスでは、ヒップホップ由来のブレイクビーツ、レゲエ／ダブの低音文化、そしてレイヴ以降の高速化したダンスミュージックが、同時並行で進化していた。特にロンドンでは、移民コミュニティと若年層クラブ文化が密接に交差し、音楽的な混交が日常的に起こっていた。
 
-Standard breaks such as the Amen break and Funky Drummer that had been used since the late 1980s began to be reconstructed in more detail with the spread of samplers and Akai MPCs. As a result, not just loops, but carved and rearranged rhythms became the main character.
+1980年代後半から使われていたアーメン・ブレイクやファンキー・ドラマーなどの定番ブレイクは、サンプラーとアカイ製MPCの普及によって、より細かく再構築されるようになる。これにより、単なるループではなく、刻まれ、組み替えられたリズムが主役となった。
 
-> Jungle did not suddenly appear, but was established over many years of accumulating breakbeat culture.
+> ジャングルは突然生まれたのではなく、長年にわたるブレイクビーツ文化の蓄積の上に成立した。
 
 
 ---
@@ -34,7 +33,7 @@ Standard breaks such as the Amen break and Funky Drummer that had been used sinc
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,90 +42,90 @@ color: #fff;
 </style>
 
 
-## The name "jungle" and the formation of the initial scene
+## ジャングルという呼称と初期シーンの形成
 
-The word "jungle" is said to come from slang used in reggae and dancehall, and was also called ragga jungle in its early days. The combination of fast beats, heavy sub-bass, and shouting and toasting by the MC gave it a distinctly different atmosphere from existing rave music.
+「ジャングル」という言葉は、レゲエやダンスホールで使われていたスラングに由来するとされ、初期にはラガ・ジャングルとも呼ばれた。高速ビートに重いサブベース、MCによるシャウトやトースティングが組み合わさり、既存のレイヴ・ミュージックとは明確に異なる空気を持っていた。
 
-From 1992 to 1993, London's Pirates radio station played a key role in promoting this new sound. Music that was not broadcast on official media penetrated local communities through radio waves.
+1992年から1993年にかけて、ロンドンのパイレーツラジオ局がこの新しいサウンドを広める重要な役割を果たす。正規メディアに乗らない音楽が、電波を通じて地域コミュニティに浸透していった。
 
-> Jungle was both a music genre and a culture fostered by unofficial media.
-
----
-
-## Changes to drum and bass and musical sophistication
-
-In the mid-1990s, jungle became more abstract and sophisticated, and the name "drum and bass" became established. In addition to songs with a strong Raga flavor, the number of instrumental-centered songs has increased, and the level of sonic perfection has increased.
-
-The tempo was generally fixed at 160-175 BPM, and while the kick and snare placement was organized, the hi-hat and ghost notes were extremely fragmented. With the evolution of studio production environments, emphasis has been placed on sound separation and spatial expression.
-
-> Drum"n"Bass was established not as a negation of jungle, but as its internal evolution.
+> ジャングルは音楽ジャンルであると同時に、非公式メディアによって育まれた文化でもあった。
 
 ---
 
-## Differentiation of subgenres and expansion of scenes
+## ドラムンベースへの変化と音楽的洗練
 
-As drum"n"bass became more popular, multiple subgenres became clearer. Hard Step, Tech Step, Intelligent, Liquid Funk, etc. were developed with different listening environments in mind.
+1990年代半ばになると、ジャングルはより抽象化・洗練され、「ドラムンベース」という呼称が定着していく。ラガ色の強い楽曲だけでなく、インストゥルメンタル中心の楽曲が増え、音響的な完成度が高まった。
 
-It"s a testament to the genre"s flexibility that it was able to coexist with aggressive club-ready songs and introspective songs suitable for home listening. As a result, drum and bass went beyond being music exclusively for dance floors.
+テンポはおおむね160〜175BPMに固定され、キックとスネアの配置が整理される一方で、ハイハットやゴーストノートは極端に細分化された。スタジオ制作環境の進化もあり、音の分離と空間表現が重視されるようになる。
 
-> The coexistence of various subgenres is one of the factors that has made drum"n"bass so long.
-
----
-
-## Technological evolution and changes in production methods
-
-From the late 1990s to the 2000s, DAWs and software samplers became popular, and the production environment changed significantly. The once expensive hardware is gradually becoming obsolete, and editing accuracy is dramatically improving.
-
-Even so, the sample culture centered around the Amen Blake continued to be inherited, processed, and reinterpreted. The extremely finely chopped breaks became the core of creating the tension unique to drum & bass.
-
-> Advances in technology have changed the expression, but the essence of the obsession with rhythm has remained the same.
+> ドラムンベースはジャングルの否定ではなく、その内部進化として成立した。
 
 ---
 
-## Temporary decline and mainstreaming
+## サブジャンルの分化とシーンの拡張
 
-In the mid-2000s, drum"n"bass became incorporated into pop music and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the attention level relatively declined.
+ドラムンベースが一般化するにつれ、複数のサブジャンルが明確化していく。ハードステップ、テックステップ、インテリジェント、リキッドファンクなどは、それぞれ異なるリスニング環境を想定して発展した。
 
-However, the genre itself did not disappear during this period, and the underground scene continued to see releases and events. In fact, in some ways, the lack of outside attention has led to a deepening of introversion.
+クラブ向けの攻撃的な楽曲と、自宅リスニングに適した内省的な楽曲が同時に存在できたことは、このジャンルの柔軟性を示している。これにより、ドラムンベースはダンスフロア専用音楽という枠を超えていった。
 
-> The basic strength of the genre was maintained during the period when it retired from the center stage.
-
----
-
-## Re-evaluation movements since the 2010s
-
-In the 2010s, jungle/drum and bass started to gain attention again. Past recordings have been reissued, giving younger generations more opportunities to experience this music in its historical context.
-
-Also, with the spread of the Internet and distribution platforms, it has become possible to reference scenes across scenes without being bound by locality. This led to a reinterpretation of his early works.
-
-> The re-evaluation was not a result of nostalgia, but an inevitable outcome of the new listening environment.
+> 多様なサブジャンルの共存が、ドラムンベースの寿命を長くした要因の一つである。
 
 ---
 
-## Influence on contemporary music
+## 技術進化と制作手法の変遷
 
-There are many rhythmic structures in current electronic music, hip-hop, and experimental music that have clear influences from jungle/drum"n"bass. The irregular, propulsive beat in particular has been cited across genres.
+1990年代後半から2000年代にかけて、DAWとソフトウェア・サンプラーが普及し、制作環境は大きく変化した。かつて高価だったハードウェアは次第に役割を終え、編集精度は飛躍的に向上する。
 
-This influence is often more structural than timbral, and extends to reinterpretations of breakbeats.
+それでも、アーメン・ブレイクを中心としたサンプル文化は継承され、加工・再解釈され続けた。極端に細かく刻まれたブレイクは、ドラムンベース特有の緊張感を生み出す核となった。
 
-> Jungle/drum"n"bass is not a genre of the past, but continues to live on as a structure.
+> 技術の進歩は表現を変えたが、リズムへの執着という本質は変わらなかった。
 
 ---
 
-## Chronology
+## 一時的衰退とメインストリーム化
+
+2000年代中盤、ドラムンベースはポップスや広告音楽に取り込まれ、一部では過剰消費されたと見なされるようになる。同時に、クラブシーンでは他ジャンルが台頭し、注目度は相対的に低下した。
+
+しかしこの時期、ジャンル自体が消滅したわけではなく、地下シーンでは継続的なリリースとイベントが行われていた。むしろ外部からの注目が減ったことで、内向的な深化が進んだ側面もある。
+
+> 表舞台から退いた時期こそ、ジャンルの基礎体力が保たれていた。
+
+---
+
+## 2010年代以降の再評価の動き
+
+2010年代に入ると、ジャングル／ドラムンベースは再び注目され始める。過去の音源が再発され、若い世代が歴史的文脈とともにこの音楽に触れる機会が増えた。
+
+また、インターネットと配信プラットフォームの普及により、地域性に縛られずシーンを横断的に参照できるようになったことも大きい。これにより、初期作品の再解釈が進んだ。
+
+> 再評価は懐古ではなく、新しい聴取環境が生んだ必然だった。
+
+---
+
+## 現代音楽への影響
+
+現在のエレクトロニックミュージックやヒップホップ、実験音楽の中には、明確にジャングル／ドラムンベースの影響を感じさせるリズム構造が多く存在する。特に不規則で推進力のあるビートは、ジャンルを越えて引用されている。
+
+この影響は音色よりも構造に現れることが多く、ブレイクビーツの再解釈という形で広がっている。
+
+> ジャングル／ドラムンベースは過去のジャンルではなく、構造として生き続けている。
+
+---
+
+## 年表
 
 <div class="mermaid">
 flowchart TB
-A[Formation of breakbeat culture in the late 1980s]
-B[1992 Establishment of Jungle]
-C[1994 Establishment of drum and bass name]
-D[1997 Differentiation of subgenres]
-E[2000s Mainstreaming and subsidence]
-F[2010s Re-evaluation and Relapse]
+A[1980年代後半 ブレイクビーツ文化の形成]
+B[1992 ジャングルの成立]
+C[1994 ドラムンベース呼称の定着]
+D[1997 サブジャンルの分化]
+E[2000年代 メインストリーム化と沈静]
+F[2010年代 再評価と再発]
 A --> B --> C --> D --> E --> F
 </div>
 
-> Looking at the chronology, it can be seen that jungle/drum and bass has continued to exist, changing forms intermittently.
+> 年表で見ると、ジャングル／ドラムンベースは断続的に形を変えながら存続してきたことが分かる。
 
 ---
 

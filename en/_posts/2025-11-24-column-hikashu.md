@@ -88,7 +88,7 @@ It is the beginning of a break from the genre, and cannot be categorized as so-c
 # 4. Expansion of Koichi Makigami"s activities (late 1980s – 1990s)
 —To techno, folk music, theremin, and performing arts
 
-In parallel with group activities, leader Koichi Makigami expands the scope of his activities with a focus on **expansion of voice**.
+In parallel with the group's activities, leader Koichi Makigami is expanding the scope of his activities with a focus on **expansion of voice**.
 
 - Further exploration of overtone singing
 - Collaboration with contemporary dance

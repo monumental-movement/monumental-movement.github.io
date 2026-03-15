@@ -71,7 +71,7 @@ Steelpans appeared in the early 20th century, and their acoustic characteristics
 
 In the first half of the 20th century, recording technology and radio broadcasting took calypso outside its borders. Recordings in the United States and England imposed certain restrictions on performance time, sound quality, and lyrical content, but in return they gained an international audience. As a result, obscene expressions and political criticism are suppressed, and more generic themes increase.
 
-During this process, calypso became increasingly consumed as exotic, tropical music. At the same time, however, a more radical and direct expression is maintained on the island, forming a dual structure. The division between foreign and domestic, recorded and live, and official and unofficial forms of soca later influenced the birth of soca.
+During this process, calypso became increasingly consumed as exotic, tropical music. At the same time, however, a more radical and direct expression is maintained on the island, forming a dual structure. The division between foreign and domestic, recording and live performances, and official and unofficial music would later influence the birth of soca.
 
 >While modernization expanded calypso, it also served as a test of its sharpness.
 
@@ -81,7 +81,7 @@ During this process, calypso became increasingly consumed as exotic, tropical mu
 
 In the 1970s, Trinidadian society was undergoing major changes. The increasing number of young people, the influx of disco and funk music, and the spread of electric instruments and studio technology place new demands on traditional calypso. The songs, which are centered around words and have a moderate tempo, gradually began to feel unsatisfactory at festivals.
 
-Soca emerged in this context. The name is said to be a coined word combining soul and calypso, and the music actually retained the structure of calypso, but brought rhythm to the fore, and strengthened the bass and drums. Lyrics become simpler, repetition and chants increase, and physical uplift takes precedence.
+Soca emerged in this context. The name was said to be a coined word combining soul and calypso, and the music actually retained the structure of calypso, but put rhythm at the forefront and strengthened the bass and drums. Lyrics become simpler, repetition and chants increase, and physical uplift takes precedence.
 
 Soca is not a rupture but a reorganization. It was not a complete abandonment of the social nature of calypso, but rather a shift towards maximizing the emotions shared at celebratory occasions.
 
@@ -120,7 +120,7 @@ This change can be seen not as a result of the Fall, but as a result of the divi
 
 In the late 20th century, soca and calypso spread to London, New York, and Toronto due to the increase in Caribbean immigrants. In these cities, carnival has been reinvented, and music functions as an identity maintainer for immigrant communities.
 
-At the same time, cross-fertilization with local music progressed, and fusion with hip-hop and house was also born. But the core celebratory and repetitive structure is maintained, maintaining continuity with its origins.
+At the same time, cross-fertilization with local music progressed, and fusion with hip-hop and house was also born. But the core festivity and repetitive structure is maintained, maintaining continuity with its origins.
 
 > Soca and calypso are music that moves but never loses its core.
 

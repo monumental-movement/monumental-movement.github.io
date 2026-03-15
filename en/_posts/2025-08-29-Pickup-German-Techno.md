@@ -231,7 +231,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Attractive point: A work by Johannes Heil, characterized by dark and dramatic direction. It's a futuristic techno experience with deep beats and a psychedelic approach. The story is impressive as it moves back and forth between silence and explosion.
+Attractive point: A work by Johannes Heil, characterized by dark and dramatic direction. A piece that invites a futuristic techno experience with deep beats and a psychedelic approach. The story is impressive as it moves back and forth between silence and explosion.
 
 
 #### Tracklist
