@@ -54,7 +54,7 @@ Le montage sur bande en particulier constituait la prémisse technique qui étai
 
 ## Culture jamaïcaine du doublage et des versions
 
-Créé en Jamaïque à la fin des années 1960, le dub a fait du remix un acte de production indépendant. La méthode de création de nouvelle musique en manipulant plusieurs pistes de sources sonores reggae existantes, en supprimant les voix, en traitant les effets et en manipulant l'espace a démantelé l'idée de se concentrer sur les chansons originales.
+Créé en Jamaïque à la fin des années 1960, le dub a fait du remix un acte de production indépendant. The method of creating new music by manipulating multi-tracks of existing reggae sound sources, deleting vocals, processing effects, and manipulating space dismantled the idea of ​​focusing on original songs.
 
 Le contexte était un environnement de production qui tirait le meilleur parti de ressources limitées et d’une concurrence immédiate dans la culture du sound system. Le traitement des droits reposait davantage sur la pratique que sur les institutions, et la réutilisation était une hypothèse courante.
 
@@ -86,7 +86,7 @@ Dans le même temps, il existe des exceptions telles que les citations, l’util
 
 Une caractéristique distinctive de la loi américaine sur le droit d'auteur est la disposition relative à l'utilisation équitable. Il a la flexibilité d'autoriser une utilisation sans autorisation après avoir déterminé de manière exhaustive des facteurs tels que le but de l'utilisation, la nature du travail, la quantité d'utilisation et l'impact sur le marché.
 
-Dans les procès pour échantillonnage de musique, il y a eu une augmentation du nombre de cas dans lesquels même de courts fragments sont jugés comme contrefaisants, mais les utilisations modifiées à des fins de parodie et de critique ont été protégées dans une certaine mesure. Ce concept de transformabilité est devenu un critère important dans la culture du remix vidéo et des mèmes.
+Dans les procès pour échantillonnage de musique, il y a eu une augmentation du nombre de cas dans lesquels même de courts fragments sont jugés comme contrefaisants, mais les utilisations modifiées à des fins de parodie et de critique ont été protégées dans une certaine mesure. Ce concept de déformabilité est devenu un critère important dans la culture du remix vidéo et des mèmes.
 
 > Le droit américain a une structure dans laquelle la liberté d'expression et la protection des droits sont ajustées après coup.
 
@@ -144,7 +144,7 @@ On peut dire qu’il s’agit d’un choix qui donne la priorité à la durabili
 
 ## Problème de réédition à l'ère de l'IA
 
-La génération et la conversion par l'IA élargissent encore le concept de remixage. L'utilisation des données, la similarité des résultats et l'imitation du style au cours de la phase d'apprentissage posent des problèmes qui ne peuvent être résolus à l'aide des concepts conventionnels du droit d'auteur.
+La génération et la conversion par l'IA élargissent encore le concept de remixage. L’utilisation des données, la similarité des résultats et l’imitation du style au cours de la phase d’apprentissage soulèvent des problèmes qui ne peuvent être résolus à l’aide des concepts conventionnels du droit d’auteur.
 
 > L'IA va redéfinir qui est responsable du remixage.
 

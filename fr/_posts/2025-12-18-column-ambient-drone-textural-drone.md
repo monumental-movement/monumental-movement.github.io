@@ -23,7 +23,7 @@ Texte : mmr｜Thème : À propos des drones qui font passer la musique de l'ar
 
 Drone est un principe musical qui utilise un son soutenu pour transformer notre perception du temps, notre conscience spatiale et notre concentration auditive. Il est unique en ce sens qu'il utilise la hauteur, les harmoniques, le timbre et la durée comme unités structurelles au lieu de la mélodie et de la progression harmonique. Dans l’histoire de la musique occidentale, les premiers exemples incluent le gras de la cornemuse, la pédale de l’orgue et les notes basses soutenues de la musique religieuse.
 
-Depuis la fin du XXe siècle, avec le développement de la technologie d’enregistrement et du son électronique, le drone est passé du simple élément d’accompagnement à la structure principale de l’ensemble de l’œuvre. Grâce à ce processus, Ambient Drone est né, suivi de Textural Drone, qui met l'accent sur les changements de tons et la superposition de textures physiques.
+Depuis la fin du XXe siècle, avec le développement de la technologie d’enregistrement et de l’acoustique électronique, le drone est passé du simple élément d’accompagnement à la structure principale d’une pièce entière. Grâce à ce processus, Ambient Drone est né, suivi de Textural Drone, qui met l'accent sur les changements de tons et la superposition de textures physiques.
 
 ---
 
@@ -53,13 +53,13 @@ Les boucles de bande, la lecture à vitesse variable et les circuits de rétroac
 
 ### 1-3. Connexion avec les concepts ambiants
 
-Depuis les années 1970, la musique ambiante présente une forme d’écoute qui suppose la coexistence avec l’environnement. Ambient Drone se positionne dans ce contexte comme un dispositif acoustique qui n’attire pas trop l’attention, mais possède une structure interne très maîtrisée.
+Depuis les années 1970, la musique ambiante présente une forme d’écoute qui suppose la coexistence avec l’environnement. Ambient Drone se positionne dans ce contexte comme un dispositif acoustique qui n’attire pas trop l’attention, mais qui possède une structure interne très maîtrisée.
 
 ## Chapitre 2 Extension au drone texturé
 
 ### 2-1. La notion de texture
 
-Textural Drone se caractérise par une structure dans laquelle plusieurs couches tonales varient légèrement au fil du temps, plutôt qu'une seule hauteur soutenue. La texture est ici la somme totale de la distribution des harmoniques, des composants du bruit, de la localisation spatiale et des fluctuations dynamiques.
+Textural Drone se caractérise par une structure dans laquelle plusieurs couches tonales changent légèrement au fil du temps, plutôt qu'une seule hauteur soutenue. La texture est ici la somme totale de la distribution des harmoniques, des composants du bruit, de la localisation spatiale et des fluctuations dynamiques.
 
 ### 2-2. Techniques de superposition
 

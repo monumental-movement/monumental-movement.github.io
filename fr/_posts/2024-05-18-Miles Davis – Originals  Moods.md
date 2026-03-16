@@ -10,15 +10,15 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: Miles Davis – Originals / Moods
+title: Miles Davis – Originaux / Humeurs
 ---
 
 
-1988年にリリースされたマイルスデイヴィスの4本カセットコンピレーションの中の一つ。テープはクロームテープ。
+L'une des compilations de quatre cassettes de Miles Davis sortie en 1988. La bande est une bande chromée.
 
-F-1とF-3は、 Howard Roberts ChoraleやHarry Belafonte （ハリー ベラフォンテ）との仕事で知られるHoward A. Roberts（ハワードロバーツ）がプロデュース。
+F-1 et F-3 sont produits par Howard A. Roberts, connu pour son travail avec Howard Roberts Chorale et Harry Belafonte.
 
-F-4の「It's About That Time」は、bassがDave Holland（デイヴ・ホランド）、pianoがChick Corea（チック・コリア）と Joe Zawinul（ジョー・ザヴィヌル）。
+"It's About That Time" de F-4 présente Dave Holland à la basse et Chick Corea et Joe Zawinul au piano.
 
 #### Liste des chansons
 ```md

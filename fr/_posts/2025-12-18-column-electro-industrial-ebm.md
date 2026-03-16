@@ -68,7 +68,7 @@ Ce que ces régions ont en commun, c'est un environnement urbain industrialisé 
 
 ## 4. Analyse détaillée de la structure du rythme
 
-La structure rythmique d'EBM est basée sur la mesure 4/4 et se caractérise par un arrangement clair et linéaire. La grosse caisse indique fortement chaque battement, et la caisse claire et les claps font partie de la structure plutôt que de la décoration.
+La structure rythmique d'EBM est basée sur le temps 4/4 et se caractérise par un arrangement clair et linéaire. La grosse caisse indique fortement chaque battement, et la caisse claire et les claps font partie de la structure plutôt que de la décoration.
 
 La sensation swing du funk et du disco a été intentionnellement évitée et un arrangement a été choisi pour minimiser les fluctuations temporelles. Cela permet au rythme d’agir sur le corps plus comme une pression que comme un groove.
 

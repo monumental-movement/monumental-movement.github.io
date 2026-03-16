@@ -51,7 +51,7 @@ color: #fff;
 
 Le hip-hop Lo-Fi trouve ses racines dans le hip-hop underground des années 1990. Il se caractérise par une méthode de production basée sur l'échantillonnage et un ton froid et introspectif. J Dilla et Nujabes sont cités comme figures emblématiques.
 
-J Dilla a créé un arrangement de batterie hors réseau unique, ce qu'on appelle la « sensation Dilla ». Nujabes a doucement réinventé le jazz et la soul, popularisant le hip-hop instrumental à l'échelle internationale. Ses chansons ont été utilisées dans l'anime télévisé « Samurai Champloo » et ont atteint des auditeurs étrangers.
+J Dilla a créé un arrangement de batterie hors réseau unique, ce qu'on appelle la « sensation Dilla ». Nujabes a popularisé le hip-hop instrumental à l'échelle internationale avec une réinvention plus douce du jazz et de la soul. Ses chansons ont été utilisées dans l'anime télévisé « Samurai Champloo » et ont atteint des auditeurs étrangers.
 
 De la fin des années 2000 au début des années 2010, la numérisation des environnements de production a progressé et le partage en ligne de DAW et de matériels échantillonnés est devenu monnaie courante. Le genre a lentement pris forme, avec des beatmakers inconnus publiant des chansons sur des plateformes comme Bandcamp et SoundCloud.
 
@@ -88,7 +88,7 @@ Producteur basé à Tokyo. En fusionnant jazz et hip-hop, ils présentent un son
 
 Connu pour ses textures lo-fi et ses rythmes expérimentaux. Même si elles ne relèvent pas directement du genre Lo-Fi, les influences sont évoquées dans le contexte de l'esprit DIY.
 
-### Battements de tomppa
+### Battements de tomp
 
 Représentant de la génération SoundCloud des années 2010. Il a gagné en popularité en raison de sa structure en boucle courte et de sa texture nostalgique.
 
@@ -107,7 +107,7 @@ Leurs rythmes Lo-Fi mélodieux basés sur le piano ont élargi leur soutien à l
 *Toppabeats « Monday Loop »
 * Idéalisme "Chutes de neige"
 
-Ces chansons partagent la caractéristique d’éviter les développements complexes et de présenter la texture et l’atmosphère dans de courtes boucles. Les changements de volume sont faibles et il n'y a pas de paroles, donc cela ne vous distrait pas.
+Ces chansons partagent la caractéristique d’éviter les développements complexes et de présenter la texture et l’atmosphère dans de courtes boucles. Les changements de volume sont faibles et il n'y a pas de paroles, il est donc difficile de se distraire.
 
 <div class="mermaid">
 flowchart LR
@@ -161,6 +161,6 @@ La musique à structure répétitive convient à la lecture en boucle. La distri
 
 Pour une génération élevée sur YouTube et le streaming, les recommandations algorithmiques et la culture des playlists sont la norme, et Lo-Fi était un choix naturel pour ce contexte.
 
-> La popularité du hip-hop Lo-Fi n'est pas une coïncidence ; il est façonné par l’interaction entre les structures acoustiques et l’environnement numérique.
+> La popularité du hip-hop Lo-Fi n'est pas une coïncidence, mais est façonnée par l'interaction des structures acoustiques et des environnements numériques.
 
 ---

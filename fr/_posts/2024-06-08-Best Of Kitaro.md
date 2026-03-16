@@ -15,7 +15,7 @@ title: Le meilleur de Kitarō
 ---
 
 
-Kitaro, claviériste et synthétiseur japonais, a remporté le Golden Globe Award de la meilleure musique originale en 1994 pour le film Heaven & Earth d'Oliver Stone. En 2001, il a remporté le 43e Grammy Award du meilleur album New Age.
+Kitaro, claviériste et synthétiseur japonais, a remporté le Golden Globe Award de la meilleure musique originale pour le film « Heaven & Earth » de 1994 réalisé par Oliver Stone. En 2001, il a remporté le 43e Grammy Award du meilleur album New Age.
 
 "Best of Kitaro" est une compilation de cassettes de Kitaro sortie en 1985 par le label allemand Kuckuck.
 

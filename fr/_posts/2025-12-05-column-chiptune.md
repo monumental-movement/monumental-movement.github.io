@@ -90,7 +90,7 @@ Les ondes carrées ont une structure harmonique plus claire que les autres forme
 - **12,5 %** : Fin et pointu
 - **25 %** : Lumineux
 - **50 %** : Standard
-- **75 %** : Épais et doux
+- **75 %** : Épais et doux
 
 La majeure partie de « l’esprit de la chanson » de Chiptune réside ici.
 
@@ -108,7 +108,7 @@ Le canal WAVE du Game Boy vous permet de créer des formes d'onde arbitraires pl
 
 ---
 
-## Chapitre 3 : Culture Tracker et production Chiptune - LSDj / Nanoloop / Famitracker
+## Chapitre 3 : Culture Tracker et production Chipune - LSDj / Nanoloop / Famitracker
 
 ### 3-1. Qu'est-ce que le traqueur ?
 
@@ -200,7 +200,7 @@ Chiptune ne se limite en aucun cas à une « reproduction de musique de jeu », 
 
 ---
 
-## Chapitre 7 : Généalogie de Chiptune
+## Chapitre 7 : Généalogie Chipune
 
 <div class="mermaid">
 flowchart TD
@@ -250,7 +250,7 @@ Il n’est pas seulement considéré comme un genre musical, mais aussi comme un
 ## Chapitre 10 : L'avenir de Chiptune et l'avenir de l'esthétique 8 bits
 
 La musique 8 bits n’est plus un symbole du rétro ;
-**Une existence qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
+**Une entité qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
 C’est devenu.
 
 - Utilisation en Hyperpop et EDM

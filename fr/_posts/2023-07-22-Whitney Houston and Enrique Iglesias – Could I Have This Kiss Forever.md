@@ -11,7 +11,7 @@ permalink: /fr/whitney-houston-and-enrique-iglesias-could-i-have-this-kiss-forev
 tags:
 - Rock
 - Ballad
-title: Whitney Houston & Enrique Iglesias – Could I Have This Kiss Forever
+title: Whitney Houston et Enrique Iglesias – Pourrais-je avoir ce baiser pour toujours
 ---
 
 
@@ -21,11 +21,11 @@ title: Whitney Houston & Enrique Iglesias – Could I Have This Kiss Forever
 
 
 
-「Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever」は、アメリカの歌手Whitney Houstonとスペインの歌手Enrique Iglesiasによるコラボレーション曲です。この曲は、Whitney Houstonのアルバム「Whitney: The Greatest Hits」（2000年）およびEnrique Iglesiasのアルバム「Enrique」（1999年）に収録されています。
+"Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever" est une chanson de collaboration entre la chanteuse américaine Whitney Houston et le chanteur espagnol Enrique Iglesias. Cette chanson apparaît sur l'album « Whitney: The Greatest Hits » de Whitney Houston (2000) et sur l'album « Enrique » d'Enrique Iglesias (1999).
 
-「Could I Have This Kiss Forever」は、ポップ・バラードであり、愛の歌として知られています。Whitney HoustonとEnrique Iglesiasの力強いボーカルが美しく調和し、感情を込めたパフォーマンスを披露しています。この曲は、恋人同士の愛と絆をテーマにしており、永遠にキスを交わすことを願う情熱的なメッセージが込められています。
+"Could I Have This Kiss Forever" est une ballade pop et est connue comme une chanson d'amour. Les voix puissantes de Whitney Houston et d'Enrique Iglesias s'associent à merveille pour offrir une performance chargée d'émotion. Cette chanson parle de l'amour et du lien entre les amoureux et contient un message passionné de souhait d'un baiser éternel.
 
-「Could I Have This Kiss Forever」は、リリース後に国際的な成功を収めました。特に、ヨーロッパやラテンアメリカのチャートで高評価を得ました。この曲は、両アーティストの人気と才能を組み合わせた魅力的なコラボレーションとして注目されました。
+"Could I Have This Kiss Forever" a connu un succès international après sa sortie. Il a notamment reçu des éloges dans les charts en Europe et en Amérique latine. La chanson a été considérée comme une collaboration attrayante combinant la popularité et le talent des deux artistes.
 
 #### Liste des chansons
 ```md

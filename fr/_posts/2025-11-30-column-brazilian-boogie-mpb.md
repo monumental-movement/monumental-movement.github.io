@@ -11,14 +11,14 @@ tags:
 - MPB
 - Rare Groove
 - 70s
-title: '[Chronique] Réévaluation du Boogie brésilien / MPB Rare Groove'
+title: '[Chronique] Réévaluation du Boogie Brésilien / MPB Rare Groove'
 ---
 
 
 
 ## Préface
 
-Texte : mmr｜Thème : Développement du Boogie et du MPB, artistes représentatifs et œuvres majeures, réévaluation à l'étranger et influence sur les temps modernes
+Texte : mmr｜Thème : Développement du Boogie et du MPB, artistes représentatifs et œuvres majeures, réévaluation à l'étranger et influence sur les temps modernes
 
 La scène musicale brésilienne de la fin des années 1970 au début des années 1980 a vu émerger une variété d’expressions au milieu de la répression politique et a été réévaluée dans le contexte du groove rare mondial. En particulier, **Brazilian Boogie** attire l'attention pour son style musical urbain et dansant, qui intègre des éléments de funk, de soul et de disco tout en suivant le flux du MPB (Música Popular Brasileira).
 
@@ -76,7 +76,7 @@ Les artistes représentatifs incluent **Tim Maia, Cassiano, Hyldon et Carlos Daf
 | Tim Maia | Années 1960-1998 | *Racional*, *Tim Maia Disco Club* | Style disco soul, orienté funk |
 | Cassien | années 1970 | *Réalce* | Funk doux, groove sophistiqué |
 | Hyldon | années 1970 | *Na Rua, Na Chuva, Na Fazenda* | Funk x MPB, popularité des clubs |
-| Carlos Dafe | Années 1970-1980 | *Brésil Afrosamba* | Fusion d'afro-samba et de funk |
+| Carlos Dafe | Années 1970-1980 | *Brésil Afrosamba* | Fusion afro-samba et funk |
 
 ### 2-1. Tim Maïa
 

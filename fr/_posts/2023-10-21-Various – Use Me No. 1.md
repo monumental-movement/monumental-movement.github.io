@@ -9,13 +9,13 @@ permalink: /fr/various-use-me-no-1/
 tags:
 - House
 - Techno
-title: Various – Use Me No. 1
+title: Divers – Utilise-moi n°1
 ---
 
 
-ドイツ出身のDJ＆プロデューサーFrank Müller（フランク・ミュラー）主宰のテクノ＆エレクトロ・レーベルMüller Recordsから1998年にリリースされたコンピレーション。DJ Rok、DJ Disko、Jonzon、Beroshimaが参加。
+Une compilation sortie en 1998 sur Müller Records, un label techno et électro dirigé par le DJ et producteur allemand Frank Müller. Avec DJ Rok, DJ Disko, Jonzon et Beroshima.
 
-B面1曲目のRok 「High Menergy」は、1978年リリースのMacho「I'm a Man」をサンプリング。
+La première chanson de la face B, "High Menergy" de Rok, extrait "I'm a Man" de Macho, sorti en 1978.
 
 #### Liste des chansons
 ```md

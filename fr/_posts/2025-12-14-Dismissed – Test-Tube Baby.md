@@ -13,7 +13,7 @@ title: Rejeté – Bébé éprouvette
 ---
 
 
-※Simple face
+*Simple face
 
 Torsten Knuth, également connu sous le nom de Dismissed, est un DJ/producteur allemand qui travaille sous différents noms tels que DJ Schlumpf et Raul Rincon.
 

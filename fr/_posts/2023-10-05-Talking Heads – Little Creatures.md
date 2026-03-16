@@ -15,7 +15,7 @@ title: Têtes parlantes – Petites créatures
 
 « Little Creatures » représente une des évolutions musicales de Talking Heads. L'album intègre des éléments pop dans le son du groupe et regorge de chansons mélodiques et entraînantes. Cela a permis à leur musique de séduire un public plus large.
 
-L'album contient de nombreuses chansons, dont les tubes "And She Was" et "Road to Nowhere". Ces chansons combinaient les rythmes caractéristiques de Talking Heads, des paroles humoristiques et des mélodies entraînantes, et étaient appréciées par beaucoup.
+L'album contient de nombreuses chansons, dont les tubes "And She Was" et "Road to Nowhere". Ces chansons combinaient les rythmes caractéristiques des Talking Heads, des paroles humoristiques et des mélodies entraînantes, et étaient appréciées par beaucoup.
 
 "Little Creatures" a été l'album le plus réussi commercialement de la carrière des Talking Heads et a été acclamé par la critique.
 

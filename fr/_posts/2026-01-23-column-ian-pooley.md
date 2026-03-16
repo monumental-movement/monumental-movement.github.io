@@ -47,7 +47,7 @@ color: #fff;
 
 ## Début de carrière et scène house britannique des années 1990
 
-Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, le son minimal influencé par la techno de Détroit se croisant avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
+Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, où le son minimal influencé par la techno de Détroit se croisait avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
 
 Vers 1994, son travail attire progressivement l'attention des DJ de clubs. La philosophie de conception consistant à se fondre dans le flux du mix sans utiliser de breaks flashy ou d'échantillons excessifs avait une valeur différente de celle des hits instantanés.
 
@@ -66,7 +66,7 @@ C --> D[DJセット内での定着]
 
 ## Caractéristiques de la musicalité : conception de grooves, d'accords et de répétitions
 
-La musicalité d'Ian Pooley repose davantage sur la structure interne que sur le style superficiel. Le rythme à quatre contre quatre est d'une simplicité trompeuse, mais en dessous se cache une interaction complexe entre la ligne de basse, les accords et les percussions.
+La musicalité d'Ian Pooley repose davantage sur la structure interne que sur le style superficiel. Le rythme à quatre sur le sol est d'une simplicité trompeuse, mais en dessous se cache une interaction complexe entre la ligne de basse, les accords et les percussions.
 
 Ce qui est remarquable, c'est le travail du code. Bien qu’il utilise des harmonies qui donnent une impression de tension proche du jazz, il ne les met pas trop en avant. Les accords sont placés uniquement comme des éléments pour renforcer le groove, sans trop détourner l'attention de l'auditeur. Cette expression supprimée est très efficace lors de longs mixages DJ.
 
@@ -102,7 +102,7 @@ Sur la scène house britannique, Pooley se situait quelque part entre le mainstr
 
 ## Importance du chef-d'œuvre et de l'album « Meridian »
 
-L'album Meridian, sorti en 1997, constitue une étape importante dans la carrière de Ian Pooley. Dans cette œuvre, l'esthétique présentée dans les singles et les sorties 12 pouces a été organisée et intégrée dans le format de l'album.
+L'album Meridian, sorti en 1997, constitue une étape importante dans la carrière d'Ian Pooley. Dans cette œuvre, l'esthétique présentée dans les singles et les sorties 12 pouces a été organisée et intégrée dans le format de l'album.
 
 Les chansons de « Meridian » mettent l'accent sur la durabilité plutôt que sur l'impact immédiat. Lorsqu’on l’écoute seul, cela semble sans prétention, mais au fur et à mesure que vous l’écoutez, la sophistication de sa structure émerge progressivement.
 
@@ -122,7 +122,7 @@ Les DJ ne « jouent » pas de chansons, ils les « arrangent ». Pooley a profon
 
 ### Comparaison avec les morceaux pour DJ contemporains
 
-À la fin des années 1990, de nombreux morceaux house se concentraient sur des effets immédiats et avaient une structure qui suscitait une réaction du public en peu de temps. Bien que ceux-ci aient été temporairement très efficaces, leur fréquence d’utilisation a eu tendance à diminuer à long terme.
+À la fin des années 1990, de nombreux titres house se concentraient sur des effets immédiats et avaient une structure qui suscitait une réaction du public en peu de temps. Bien que ceux-ci aient été temporairement très efficaces, leur fréquence d’utilisation a eu tendance à diminuer à long terme.
 
 Les chansons de Pooley, en revanche, suppriment intentionnellement le pic de réaction. Cela a permis aux DJ de concevoir eux-mêmes la dynamique de l’ensemble du set, et les chansons sont devenues un matériau réutilisable encore et encore.
 

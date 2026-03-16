@@ -56,7 +56,7 @@ Pour qu’Electro Swing puisse voir le jour, les conditions techniques et cultur
 
 * Vulgarisation de la technologie d'échantillonnage numérique
 *Première culture Internet où la gestion des droits d'auteur était relativement souple
-* Jeu multi-genres par DJ du club
+* Jeu multi-genres par le DJ du club
 * Réévaluer l'esthétique rétro
 
 C'est notamment entre la fin des années 1990 et le début des années 2000 que l'environnement DAW est devenu populaire au niveau personnel, permettant de rééditer des sources sonores passées.
@@ -166,7 +166,7 @@ La structure, qui ne dépend d'aucun grand marché particulier, a contribué à 
 
 L'échantillonnage dans Electro Swing ne fonctionne pas seulement comme une citation, mais comme un réarrangement. Le contexte de la chanson originale est coupé et le rythme, le tempo et la dynamique sont réorganisés dans un style moderne.
 
-Cette méthode est cohérente avec la culture de l'échantillonnage après le hip-hop, mais l'Electro Swing est unique en ce sens qu'il visualise intentionnellement l'ère du son original. Le bruit, les limitations des bandes de fréquences et les fluctuations analogiques restent des symboles du passé.
+Cette méthode est cohérente avec la culture d'échantillonnage post-hip-hop, mais l'Electro Swing est unique en ce sens qu'il visualise intentionnellement l'ère du son original. Le bruit, les limitations des bandes de fréquences et les fluctuations analogiques restent des symboles du passé.
 
 ---
 
@@ -196,7 +196,7 @@ D’un autre côté, une autre caractéristique est qu’il était difficile de 
 
 ## 19. Comparaison avec d'autres genres
 
-L'Electro Swing est parfois confondu avec le Nu Jazz, le Swing House et le Retro House, mais la plus grande différence est qu'il met en avant le symbolisme de l'ère swing. Cela donne la priorité à la lisibilité culturelle plutôt qu’à la complexité musicale.
+L'Electro Swing est parfois confondu avec le Nu Jazz, le Swing House et le Retro House, mais la plus grande différence est qu'il met en avant la symbolique de la période swing. Cela donne la priorité à la lisibilité culturelle plutôt qu’à la complexité musicale.
 
 Même si cette structure a affaibli la capacité du genre à résister aux critiques, elle a été efficace pour gagner des auditeurs à long terme.
 

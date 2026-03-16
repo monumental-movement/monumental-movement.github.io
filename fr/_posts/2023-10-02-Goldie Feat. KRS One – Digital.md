@@ -13,7 +13,7 @@ title: Goldie Feat. KRS One – Numérique
 ---
 
 
-"Digital" est une chanson du musicien britannique Goldie avec le rappeur américain KRS-One et est sortie en tant que premier single de l'album Saturnz Return de Goldie en 1998.
+"Digital" est une chanson du musicien britannique Goldie mettant en vedette le rappeur américain KRS-One et est sortie en tant que premier single de l'album Saturnz Return de Goldie en 1998.
 
 La chanson a atteint la 13e place du UK Singles Chart le 1er novembre 1997, ce qui en fait son record le plus élevé, avec " Temper Temper " de Goldie (avec une chanson mettant en vedette Noel Gallagher). Le single a été influencé par le speed garage alors émergent et a été l'une des premières tentatives de fusion de la drum and bass et du rap.
 

@@ -10,15 +10,15 @@ tags:
 - Deep House
 - Tech House
 - 00s
-title: DJ Dakar – Young In Paradise / It's Gonna Down
+title: DJ Dakar – Young In Paradise / Ça va tomber
 ---
 
 
-DJ Dakar こと Christian Kreuz は、ユニットDakar & Grinserとして、1990年代後半からドイツ・ミュンヘンを拠点に活動し、クラブ「Ultraschall」のレジデントDJを務めた。2001年にDakar & Grinserが一時解散するとソロに転向。
+Christian Kreuz, également connu sous le nom de DJ Dakar, est basé à Munich, en Allemagne, depuis la fin des années 1990 au sein de l'unité Dakar & Grinser, et était le DJ résident du club "Ultraschall". Après la dissolution temporaire de Dakar & Grinser en 2001, il se lance en solo.
 
-2003年にソロ・アルバム『Diktatur Des Kapitals』でメジャー・デビューし、2006年には自身のレーベルShotgun Recordings を設立した。
+Il fait ses débuts en major en 2003 avec l'album solo Diktatur Des Kapitals et fonde son propre label, Shotgun Recordings, en 2006.
 
-2007年にリリースした「Young In Paradise / It's Gonna Down」は、高い評価を得たHouse／Deep House／Tech Houseトラック。「Young In Paradise」はDJ Linus によるコンピレーションにも収録されている。
+Sorti en 2007, « Young In Paradise / It's Gonna Down » est un morceau House/Deep House/Tech House très acclamé. "Young In Paradise" figurait également sur une compilation de DJ Linus.
 
 #### Liste des chansons
 ```md

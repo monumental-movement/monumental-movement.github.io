@@ -106,7 +106,7 @@ L'ajout de caractéristiques d'écho, le panoramique et la manipulation de la pe
 
 ###4-6. Traitement du bruit et non linéaire
 
-La distorsion, la mise en forme de la forme d'onde et le traitement du feedback amplifient la dureté et l'agressivité de la voix, lui donnant une sensation de substance que l'on ne retrouve pas dans les voix chantées traditionnelles.
+La distorsion, la forme d'onde et le traitement du feedback amplifient la dureté et l'agressivité de la voix, lui donnant une sensation de substance que l'on ne trouve pas dans les voix chantées traditionnelles.
 
 ---
 
@@ -116,7 +116,7 @@ La transformation de la voix en matériau est une expansion de l'expression et s
 
 ### 5-1. Identité et voix
 
-La voix reflète les caractéristiques physiques d'un individu, mais elle est facilement modifiée par les techniques de traitement. Cela permet aux artistes d’élargir leur éventail d’expression personnelle et aux auditeurs de mettre à jour leur conscience de la voix.
+La voix reflète les caractéristiques physiques d'un individu, mais elle est facilement modifiée par les techniques de traitement. Cela permet aux artistes d’élargir leur éventail d’expressions personnelles et aux auditeurs de mettre à jour leur conscience des voix.
 
 ### 5-2. Éthique de la performance et technologie de génération
 

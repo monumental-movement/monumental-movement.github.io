@@ -9,13 +9,13 @@ permalink: /fr/corduroy-high-havoc/
 tags:
 - Acid Jazz
 - 90s
-title: Corduroy – High Havoc
+title: Velours côtelé – ravages importants
 ---
 
 
-Corduroy(コーデュロイ)は、ロンドンを拠点に活動する4人組のアシッドジャズバンド。
+Corduroy est un groupe de quatre musiciens d'acid jazz basé à Londres.
 
-「High Havoc」は、1993年にAcid Jazz RecordsからリリースされたCorduroyの2枚目のコンセプトアルバム。2曲目London Englandは1990年代のダンスフロアクラシックと言われており、他にもUKインディーズチャートTOP10に入ったシングルが多数収録されたCorduroyの代表作。
+"High Havoc" est le deuxième album concept de Corduroy, sorti en 1993 sur Acid Jazz Records. La deuxième chanson, London England, est considérée comme un classique du dancefloor des années 1990, et le chef-d'œuvre de Corduroy comprend de nombreux autres singles qui sont entrés dans le top 10 des charts indépendants britanniques.
 
 
 #### Liste des chansons

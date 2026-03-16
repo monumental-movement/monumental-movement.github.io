@@ -14,9 +14,9 @@ title: Lexy & K-Paul – Der Fernsehturm
 ---
 
 
-Lexy & K-Paul は、1999年から活動するドイツ・ベルリン出身のDJデュオ。メンバーは、Alexander Gerlach(Lexy)とKai Michael Paul(K-Paul） 。
+Lexy & K-Paul est un duo de DJ de Berlin, en Allemagne, actif depuis 1999. Les membres sont Alexander Gerlach (Lexy) et Kai Michael Paul (K-Paul).
 
-このレコードは、2002年当時WestBam主宰だったレーベル Low Spirit RecordingsからリリースされたTechno／Electro。(プロモ盤)
+Ce disque est un Techno/Electro sorti en 2002 par Low Spirit Recordings, le label que présidait WestBam. (édition promotionnelle)
 
 
 #### Liste des chansons

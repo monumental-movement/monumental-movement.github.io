@@ -21,7 +21,7 @@ title: '[Chronique] Histoire de l''intersection du hard rock et de la culture du
 Texte : mmr｜Thème : Relation entre hard rock et culture gaming
 
 
-Le hard rock est né du blues rock et du rock psychédélique à la fin des années 1960 et a explosé en popularité dans les années 1970. D’un autre côté, la culture du jeu vidéo a commencé à émerger à la fin des années 1970 et s’est imposée comme culture populaire dans les années 1980. Bien que les deux se soient développés indépendamment, ils ont partagé l’impact du son, de l’esthétique visuelle et de la culture de la jeunesse, créant des intersections inattendues à chaque époque. Ici, nous organiserons les relations par époque et reviendrons sur les liens entre les chefs-d’œuvre représentatifs et la culture du jeu.
+Le hard rock est né du blues rock et du rock psychédélique à la fin des années 1960 et a explosé en popularité dans les années 1970. D’un autre côté, la culture du jeu vidéo a commencé à émerger à la fin des années 1970 et s’est imposée comme culture populaire dans les années 1980. Bien que les deux se soient développés indépendamment, ils ont partagé l’impact du son, de l’esthétique visuelle et de la culture de la jeunesse, créant des intersections inattendues à chaque époque. Ici, nous organiserons les relations par époque et reviendrons sur les liens entre les chefs-d’œuvre représentatifs et la culture du jeu vidéo.
 
 ---
 
@@ -124,7 +124,7 @@ color: #fff;
 **Chef-d'œuvre représentatif**
 
 - Guns N' Roses – *Utilisez votre illusion I et II* (1991)
-- Metallica – * Metallica (Album noir) * (1991)
+- Metallica – *Metallica (Album noir)* (1991)
 - Aerosmith – *Prenez une prise* (1993)
 
 **10 morceaux recommandés**

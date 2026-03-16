@@ -9,11 +9,11 @@ permalink: /fr/michael-viners-incredible-bongo-band-bongo-rock/
 tags:
 - Break Beat
 - Funk
-title: Michael Viner's Incredible Bongo Band – Bongo Rock
+title: L'incroyable groupe de bongo de Michael Viner – Bongo Rock
 ---
 
 
-1973年にリリースされた、インストゥルメンタルファンクバンド「Michael Viner's Incredible Bongo Band」によるアルバム「Bongo Rock（ボンゴ・ロック）」は、ファンク、ソウル、ブレイクビーツの要素を取り入れた楽曲で、後にヒップホップ、ブレイクビーツシーンで数多くのアーティストがサンプリングした。
+Sorti en 1973, l'album Bongo Rock du groupe de funk instrumental Incredible Bongo Band de Michael Viner incorporait des éléments de funk, de soul et de breakbeat, et fut ensuite échantillonné par de nombreux artistes des scènes hip-hop et breakbeat.
 
 #### Liste des chansons
 ```md

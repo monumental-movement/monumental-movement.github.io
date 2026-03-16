@@ -20,7 +20,7 @@ title: '[Chronique] Nala Sinephro - Respiration sonore et silence cosmique : l''
 
 Texte : mmr｜Thème : Le jazz n'est pas une question de technique ou d'expansion des genres, mais de la question fondamentale de ce que le son peut apporter aux humains.
 
-Lorsque nous entrons pour la première fois en contact avec la musique de Nala Sinephro, nous sommes obligés d’abandonner le concept de « chanson ».
+Lorsque nous entendons pour la première fois la musique de Nala Sinephro, nous sommes obligés d’abandonner le concept de « chanson ».
 Son premier album Space 1.8, sorti chez Warp Records en 2021, était une œuvre qui faisait fondre les frontières entre jazz et ambient, synthèse modulaire et improvisation comme si elle respirait.
 
 Harpe, saxophone ténor, synthétiseur modulaire et l'espace lui-même.
@@ -53,7 +53,7 @@ A travers une séance au club de jazz londonien "Total Refreshment Centre",
 Il a formé un langage sonore unique qui évolue librement entre harpe et synthé modulaire.
 
 > « Pour moi, le son est comme des particules dans l’air. »
-> ― Nala Sinéphron
+> – Nala Sinéphron
 
 Comme elle le dit, le son est superposé sous forme de « grains » et réfracte le temps comme la lumière.
 

@@ -8,13 +8,13 @@ layout: post
 permalink: /fr/oriental-space-my-heart-will-go-on/
 tags:
 - Trance
-title: Oriental Space – My Heart Will Go On
+title: Espace Oriental – Mon cœur continuera
 ---
 
 
-タイタニック主題歌 CELINE DION(セリーヌ・ディオン)のMY HEART WILL GO ONのトランスカバー。
+Reprise transe de la chanson thème de Titanic, MY HEART WILL GO ON de CELINE DION.
 
-Oriental Spaceは、Kousuke Okamoto (岡本 幸祐[トランス プロデューサー、DJ])のプロジェクトです。
+Oriental Space est un projet de Kousuke Okamoto (producteur de trance, DJ).
 
 #### Liste des chansons
 ```md

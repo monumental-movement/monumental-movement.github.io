@@ -23,9 +23,9 @@ Texte : mmr｜Thème : Retrace la philosophie sonore unique créée par un méla
 Fin des années 1970, sur les rives du lac de Garde, dans le nord de l'Italie.
 Personne ne savait que cet endroit, qui n'était qu'un lieu de villégiature pour touristes, deviendrait plus tard le centre d'un phénomène acoustique appelé **Cosmic Sound**.
 Le personnage central est **Daniele Baldelli**.
-Il n'est pas seulement un DJ, mais il est également connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
+Il est devenu plus qu'un simple DJ, il est devenu connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
 
-La scène disco de l'époque était dominée par le rythme 4/4, représenté par la soul et la house music américaines.
+La scène disco de l’époque était dominée par les rythmes 4/4, représentés par la soul et la house music américaines.
 Cependant, Baldelli entremêle musique ethnique, sons électroniques, rock progressif, batterie africaine et même krautrock.
 **Nous avons présenté le concept de "tempo cosmique"**, qui permet de changer librement le BPM.
 
@@ -78,7 +78,7 @@ il parle.
 > ``C'est facile de mélanger les genres musicaux.
 > Cependant, les « cosmosiser » à une seule vitesse est une question de sensibilité et non de technologie. »
 
-Ses mix vont du funk à 110 BPM aux percussions afro à 85 BPM en passant par un synthé ambiant ralenti.
+Ses mix vont du funk à 110 BPM aux percussions afro à 85 BPM en passant par le synthé ambiant ralenti.
 **Transferts en douceur**. On ne sent même pas les frontières entre les chansons.
 Tout au long de la nuit, on a l'impression qu'un vaisseau spatial descend et sort de son orbite.
 
@@ -87,7 +87,7 @@ Tout au long de la nuit, on a l'impression qu'un vaisseau spatial descend et sor
 ## 4. Science des matériaux sonores – Délocalisation des sources sonores dans Cosmic
 
 Baldelli était un pionnier des DJ qui traitaient les chansons comme du « matériel ».
-Il y avait une forte impression de « composer » à nouveau les sons enregistrés sur la platine.
+J'avais l'impression de « composer » à nouveau les sons enregistrés sur la platine.
 
 | Sources utilisées | Exemples spécifiques |
 |:--|:--|

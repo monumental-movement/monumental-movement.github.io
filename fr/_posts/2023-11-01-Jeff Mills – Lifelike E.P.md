@@ -24,7 +24,7 @@ Cet EP est une introduction très forte avec ses thèmes musicaux inquiétants, 
 
 « Black Avenger » attire les auditeurs avec sa frénésie percussive et ses touches dures.
 
-ジェフ・ミルズの作品における幅広いテーマの多くを網羅しつつ、個々の楽曲が持つユニークで強力な結果を損なうことなく表現している特別なレコードなのでジェフ・ミルズファン必携の一枚。
+Incontournable pour tout fan de Jeff Mills, il s'agit d'un disque spécial qui couvre de nombreux thèmes très variés de l'œuvre de Jeff Mills, tout en exprimant les résultats uniques et puissants de chaque chanson individuelle.
 
 #### Liste des chansons
 ```md

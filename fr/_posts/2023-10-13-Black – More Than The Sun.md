@@ -13,7 +13,7 @@ title: Noir – Plus que le soleil
 ---
 
 
-Black est le pseudonyme de l'auteur-compositeur-interprète britannique Colin Vearncombe et le nom de son groupe.
+Black est le pseudonyme de l'auteur-compositeur-interprète britannique Colin Vearncombe et le nom de son propre groupe.
 
 #### Liste des chansons
 ```md

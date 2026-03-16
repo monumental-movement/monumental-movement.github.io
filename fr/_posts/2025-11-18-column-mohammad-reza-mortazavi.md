@@ -9,16 +9,17 @@ permalink: /fr/column-mohammad-reza-mortazavi/
 tags:
 - Percussion
 - Iran
-title: 【コラム】 鼓動の詩：イランの天才パーカッショニスト、Mohammad Reza Mortazaviの世界
+title: '[Chronique] Poésie du battement de cœur : le monde du percussionniste de génie
+  iranien Mohammad Reza Mortazavi'
 ---
 
 
-## 1. Présentation
+## 1. Introduction
 
 
-文：mmr｜テーマ：彼の生い立ちから現在に至るまでの歩みを丁寧に追い、彼の技術革新、哲学、コラボレーション、そしてリスナーにもたらす体験の核心を探る
+Texte : mmr｜Thème : Suivez attentivement son chemin depuis son éducation jusqu'à nos jours, en explorant le cœur de son innovation, de sa philosophie, de sa collaboration et de son expérience qu'il apporte aux auditeurs.
 
-モハマド・レザ・モルタザヴィは、伝統的ペルシア打楽器を現代の音楽表現において根本から再解釈した稀有なパーカッショニストである。彼の演奏は、ただのリズミックな技巧の披露ではなく、時にトランスを誘発する深い精神性を伴い、聴衆を身体的・意識的な旅へと誘う。その意味で、彼の活動は「伝統音楽と実験音楽」「東洋と西洋」「過去と未来」といった二項対立を超える、新しい音楽地平の創出として重要である。
+Mohammad Reza Mortazavi est un percussionniste rare qui réinterprète fondamentalement les instruments de percussion persans traditionnels dans une expression musicale moderne. Ses performances ne sont pas seulement une démonstration de technique rythmique, mais sont accompagnées d'une profonde spiritualité qui induit parfois une transe, invitant le public à un voyage physique et conscient. En ce sens, ses activités sont importantes dans la création de nouveaux horizons musicaux qui dépassent les oppositions binaires de « musique traditionnelle et musique expérimentale », « Orient et Occident », et « passé et futur ».
 
 ---
 
@@ -36,61 +37,61 @@ color: #fff;
 </style>
 
 
-### 2. 幼少期と出自
+### 2. Première vie et origines
 
-モルタザヴィは、1978年（あるいは1979年）にイランの古都 **イスファハン** に生まれた。
-両親は音楽的バックグラウンドを持ち、幼い彼の音楽への関心を温かく見守っていたという。
+Mortazavi est né en 1978 (ou 1979) dans l'ancienne capitale de l'Iran, **Ispahan**.
+Ses parents ont une formation musicale et ont chaleureusement veillé sur son intérêt pour la musique dès son plus jeune âge.
 
-6歳のとき、タムバック（英語では “tombak”、ペルシア語で tonbak または zarb）を学び始める。伝統的なタムバック奏者の師匠の元でレッスンを受けたが、わずか数年でその才能は師をも上回ると評価され、9歳の時点で「もはや教えられることはない」と師が認めたという逸話がある。
+À l'âge de six ans, il commence à apprendre le tombak (« tombak » en anglais, tonbak ou zarb en persan). Il a pris des cours avec un joueur de tambak traditionnel, mais après seulement quelques années, son talent a été reconnu comme dépassant celui de son professeur, et il y a une anecdote selon laquelle à l'âge de neuf ans, son professeur a admis qu'il ne pouvait plus lui enseigner.
 
-10歳にして、イラン国内で毎年開かれるタムバック競技で初優勝。以降も連続して勝利を重ね、若き才能として全国に名を知られるようになる。
-この時期、彼の人生における楽器との関係は単なる趣味の域を越え、アイデンティティの核へと成長していく。
-
----
-
-### 3. タムバックおよびダフという伝統楽器――その意味と背景
-
-彼が扱う主要な楽器である **タムバック**（tombak／トンバック／ザルブ）は、ペルシア音楽の核心をなす伝統打楽器である。ゴブレット（杯）型の胴をもち、皮を張った面を手や指で叩く構造は、非常に豊かな音色と表現力を持つ。
-多様な奏法を通じて、タムバックは伴奏だけではなくソロ楽器としての地位を確立してきた歴史がある。
-
-また、**ダフ (Daf)** は大きなフレームドラムで、メタルの輪や鈴が付いていることがあり、祝祭的・儀式的な用途もある伝統的楽器だ。モルタザヴィはタムバックだけでなく、ダフも演奏対象とし、それぞれの特性を活かしたソロおよび共演を展開してきた。
-
-彼がこれらの伝統楽器を選んだ背景には、ただの民族楽器への回帰ではなく、楽器の本質を深く探求し、そこから未知の表現を導き出す強い意志がある。
+À l'âge de 10 ans, il remporte sa première victoire au concours Tambak organisé chaque année en Iran. Depuis, il ne cesse de gagner et se fait connaître dans tout le pays comme un jeune talent.
+Durant cette période, sa relation avec les instruments de musique dans sa vie est allée au-delà d'un simple passe-temps et est devenue le noyau de son identité.
 
 ---
 
-### 4. 青年期の才能と修業
+### 3. Instruments de musique traditionnels appelés tambak et duff - leur signification et leur contexte
 
-少年期を通じて競技会での成功を重ねる一方で、モルタザヴィは単なる勝利者にはとどまらなかった。伝統奏法の技術を習得すると同時に、彼の探求心は「なぜタムバックはこう演奏されてきたのか」「まだ使われていない音はあるか」へと向かっていた。
+Son instrument principal, le tombak, est un instrument de percussion traditionnel qui constitue le cœur de la musique persane. Il a un corps en forme de gobelet et est fabriqué en tapotant la surface du cuir avec les mains ou les doigts, ce qui lui confère un ton extrêmement riche et un pouvoir expressif.
+Grâce à une variété de techniques de jeu, le tambak s’est imposé non seulement comme instrument d’accompagnement mais aussi comme instrument soliste.
 
-彼は既存の教則や慣習に縛られることなく、自己流の研究を開始する。皮面の異なる場所、胴の共鳴、指の使い方、掌のポジション、爪と関節の応用など、身体と楽器の物理的な相互作用を丹念に観察・実践。これにより、伝統にはなかった新たな音響を引き出していく。
+Le **Daf** est un grand tambour sur cadre, parfois doté d'anneaux ou de cloches métalliques, et est un instrument de musique traditionnel qui a également des usages festifs et cérémoniaux. Mortazavi ne se produit pas seulement avec des tambacks, mais aussi avec des duffs, et a développé des performances solos et collaboratives qui tirent parti des caractéristiques de chacun.
 
-また、若くして教える立場にもなった。12歳頃から後進を指導したとされる記録もある。
-教えることは、彼自身の技術を言語化し、整理する機会を与え、それがさらなる進化を呼ぶ好循環となった。
-
----
-
-### 5. 技術革新：30以上の新打撃／指テクニック
-
-モルタザヴィの最も注目すべき功績は、**30以上に及ぶ自己開発による打撃および指技術**である。これは単なる芸風としての目新しさではなく、タムバックという楽器の身体的・物理的可能性を根本から拡張する革新であった。
-
-具体的には、以下のようなアプローチが含まれる：
-
-* **異なる打点の活用**：皮の中心、縁（リム）、胴（木部分）など、従来奏者が使わない場所へのアタック。
-* **多様な手の部分**：指先、関節、爪、手の平、親指の根、本来タブー視される部位も含め、奏者の手全体を楽器とみなす。
-* **ポリリズム的アプローチ**：同一楽器内で複数の声部 (レイヤー) を同時に鳴らす技術。これは、たった一人の奏者によるアンサンブル的な演奏を可能にする。
-* **ダイナミクスの幅**：極めて静かなタッチから爆発的な打撃まで、音の強弱、テンポ、密度を自在に操る。
-* **共鳴操作**：胴の響きをコントロールし、打撃時の余韻を設計。これにより、一打のあとに残る音の「残響」を一つの表現要素として用いる。
-
-これらの技術は、一部の伝統的マスターから保守的な批判を受けることもあった。しかし、モルタザヴィは伝統を否定するのではなく、伝統の深みと可能性を探るという姿勢を崩さなかった。
+La raison derrière sa sélection de ces instruments traditionnels n'est pas seulement un retour aux instruments folkloriques, mais une forte volonté d'explorer en profondeur l'essence des instruments et d'en tirer des expressions inconnues.
 
 ---
 
-### 6. ドイツ、ベルリンへの旅立ちと転機
+### 4. Talent et formation des adolescents
 
-20代前半、モルタザヴィは自身のキャリアの転機を迎える。22歳のときに初めてドイツ（ミュンヘン）で演奏し、ヨーロッパの聴衆から強い関心を引きつける。その成功は、彼に活動基盤をドイツに移す道を開いた。
+Malgré ses succès en compétition tout au long de son enfance, Mortazavi était plus qu'un simple gagnant. En même temps qu'il maîtrisait les techniques de jeu traditionnelles, son esprit curieux se tournait vers des questions telles que « Pourquoi le tamback est-il joué de cette façon ? » et « Y a-t-il des sons qui n'ont pas encore été utilisés ? »
 
-やがて彼はベルリンに拠点を定め、国際舞台での活動を本格化。ベルリンはモルタザヴィにとって、実験音楽、電子音楽、パフォーマンス・アートとの出会いの場であり、彼の芸術的探求が加速する都市となった。
+Il a commencé ses propres recherches sans être lié par les enseignements ou les coutumes existantes. Nous observons et pratiquons attentivement l'interaction physique entre le corps et l'instrument, comme les différentes parties de la peau, la résonance du torse, l'utilisation des doigts, la position de la paume et l'application des ongles et des articulations. Cela fait ressortir de nouveaux sons qui n'étaient pas présents dans la musique traditionnelle.
+
+Il est également devenu enseignant dès son plus jeune âge. Il existe également une trace selon laquelle il a enseigné à des élèves plus jeunes à partir de 12 ans environ.
+L'enseignement lui a donné l'opportunité de verbaliser et d'organiser ses propres compétences, ce qui est devenu un cercle vertueux qui a conduit à une évolution ultérieure.
+
+---
+
+### 5. Innovation : 30+ nouvelles techniques de frappe/doigts
+
+La réalisation la plus remarquable de Mortazavi est **plus de 30 techniques de frappe et de doigts auto-développées**. Il ne s’agissait pas seulement d’un nouveau style artistique, mais d’une innovation qui élargissait fondamentalement les possibilités physiques de l’instrument tamback.
+
+Plus précisément, les approches comprennent :
+
+* **Utiliser différents points d'attaque** : Zones d'attaque que les joueurs traditionnels n'utilisent pas, comme le centre du cuir, la jante et le corps (partie en bois).
+* **Diverses parties de la main** : La main entière du joueur est considérée comme un instrument de musique, y compris le bout des doigts, les articulations, les ongles, la paume, la racine du pouce et d'autres parties considérées comme taboues.
+* **Approche polyrythmique** : Une technique qui permet à plusieurs voix (couches) de sonner simultanément au sein du même instrument. Cela permet une performance de type ensemble par un seul joueur.
+* **Plage dynamique** : Des touches extrêmement silencieuses aux coups explosifs, contrôlez librement la force, le tempo et la densité du son.
+* **Opération de résonance** : contrôle la résonance du corps et conçoit l'arrière-goût lors de la frappe. De cette manière, la « réverbération » du son qui reste après un seul coup est utilisée comme élément d'expression.
+
+Ces techniques ont également fait l’objet de critiques conservatrices de la part de certains maîtres traditionnels. Cependant, plutôt que de nier la tradition, Mortazavi reste déterminé à en explorer la profondeur et le potentiel.
+
+---
+
+### 6. Départ et tournant à Berlin, Allemagne
+
+Au début de la vingtaine, Mortazavi a atteint un tournant dans sa carrière. A 22 ans, il se produit pour la première fois en Allemagne (Munich) et suscite un vif intérêt du public européen. Son succès lui a permis de déplacer sa base d’opérations en Allemagne.
+
+Finalement, il établit une base à Berlin et commença sérieusement ses activités sur la scène internationale. Berlin a été la rencontre de Mortazavi avec la musique expérimentale, la musique électronique et l'art de la performance, et est devenue la ville où ses explorations artistiques se sont accélérées.
 
 En 2003, il a remporté le **RUTH Award, Newcomer Category** parmi plus de 600 concurrents. Ce prix scelle sa reconnaissance internationale.
 
@@ -129,7 +130,7 @@ L'album, sorti sur le label Latency, reflète une exploration profonde du thème
 
 Les critiques ont cité son point de vue selon lequel « contrairement à un métronome, le pouls humain est flexible et non fixe ». Ce thème est également évident dans ses spectacles en direct, où il accorde de l'importance à la création d'un « pouls commun » avec le public.
 
-#### 7.5 "Prisma"
+#### 7.5 « Prisme »
 
 Sorti en 2022, cet album représente une nouvelle expansion de la musique de Mortazavi. Selon les informations sur les performances de Flussbad, en plus du tombback et du duff, divers objets sonores ont été introduits, notamment un sifflet d'oiseau, un petit marimba, un kalimba et de petites cymbales. Cela élargit la gamme de tons et permet une expression spatiale plus tridimensionnelle et spirituelle.
 
@@ -137,7 +138,7 @@ Sorti en 2022, cet album représente une nouvelle expansion de la musique de Mor
 
 #### 7.6 Derniers travaux et perspectives d'avenir
 
-Son dernier album, Nexus (Latency), enregistré à Berlin, constitue une étape importante dans sa nouvelle orientation. Dans cette œuvre, en plus des tambours à main acoustiques qu'il utilise traditionnellement, il introduit des traitements d'effets et des traitements sonores, poussant son rythme et son langage encore plus loin dans le futur.
+Son dernier album, Nexus (Latency), enregistré à Berlin, constitue une étape importante dans sa nouvelle orientation. Dans cette œuvre, en plus des tambours à main acoustiques qu'il utilise traditionnellement, il introduit des traitements d'effets et des traitements sonores, poussant encore plus loin son rythme et son langage dans le futur.
 
 Comme le titre « Nexus » le suggère, il est conçu comme une œuvre qui explore l'intersection du passé et du futur, de la tradition et de l'innovation, ainsi que du corps et de l'acoustique électronique, et jouera un rôle central dans les futures performances live, collaborations et autres activités d'enregistrement.
 
@@ -172,7 +173,7 @@ Une expérience en direct comme celle-ci n'est pas seulement quelque chose que v
 
 Mortazavi a reçu une reconnaissance internationale pour ses compétences, son sens artistique et son innovation. En 2003, il a remporté le **RUTH Newcomer Award**. Il a également suscité beaucoup d'intérêt de la part des médias, et son style et sa philosophie ont été présentés dans divers médias tels que le Deutschlandfunk allemand, Pitchfork, Hardwax et Boomkat.
 
-Pitchfork a particulièrement attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et l'a décrit comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la précision sonore et la profondeur spirituelle de ses plus de 30 nouvelles techniques.
+En particulier, Pitchfork a attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et l'a décrit comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la sophistication sonore et la profondeur spirituelle créées par ses plus de 30 nouvelles techniques.
 
 De plus, leur aspect physique et leur spiritualité sont souvent soulignés dans les critiques en direct. Drummerszone et d'autres ont décrit en détail les points de frappe, les parties des mains et les opérations de résonance qu'il utilise, notant que ses mains semblent jouer sur un « système audio ».
 
@@ -188,7 +189,7 @@ Ses structures répétitives rappellent la méditation, et son traitement du sus
 
 Il considère également la résonance avec le public (co-pulse) comme un élément important de la performance. Lors de ses performances live, le public n'est pas seulement un auditeur, mais un co-créateur qui participe à la génération rythmique de la scène. Il construit un dialogue rythmé entre lui et le public, créant un sentiment de « communauté » même lorsqu'il joue seul.
 
-Dans cette approche, on peut sentir une profonde volonté de surmonter les dualités telles que la tradition et la modernité, le corps et la conscience, l'individualité et la résonance, et l'immobilité et le dynamisme. Ses rythmes ne sont pas seulement des expositions de techniques, mais émergent comme des pratiques philosophiques qui remettent en question le sens de l'enquête sur soi, de la communauté et du temps.
+Dans cette approche, on peut sentir une profonde volonté de dépasser les dualités telles que tradition et modernité, corps et conscience, individualité et résonance, immobilité et dynamisme. Ses rythmes ne sont pas seulement des expositions de techniques, mais émergent comme des pratiques philosophiques qui remettent en question le sens de l'enquête sur soi, de la communauté et du temps.
 
 ---
 
@@ -240,6 +241,16 @@ Le chemin qu’il empruntera désormais est clair. Exploration technologique plu
 Écouter sa musique, ce n'est pas seulement s'abandonner au rythme, mais c'est un voyage pour trouver la résonance entre son propre battement de cœur intérieur et celui du monde. Mortazavi est le guide, la carte et la destination de ce voyage.
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V1llz3maiA4?si=yUZyBwR2-suWZxjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 15. Chronologie de référence
 

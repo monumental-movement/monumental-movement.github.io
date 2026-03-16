@@ -97,7 +97,7 @@ Le Japon est entré dans une période de bulle économique et de grandes discoth
 - Chaka Khan — *Je ressens pour toi* (1984)
 
 - **Chef-d'œuvre représentatif (Japon)**
-- Yoko Oginome — *Héros dansant* (1985)
+- Yoko Oginome — *Héros de la danse* (1985)
 -Akina Nakamori — *DÉSIR -Passion-* (1986)
 - Motoharu Sano — *Jeunes Sangs* (1985)
 
@@ -112,7 +112,7 @@ Formation des fondements de la « fan dance culture » qui s'est poursuivie avec
 - **Club/discothèque représentatif du Japon**
 -Roppongi "Maharaja"
 - Roppongi "Roi et Reine"
-- Osaka "Maharaja exotique"
+- Osaka "Maharaja Exotique"
 
 ### 10 morceaux recommandés (années 1980)
 
@@ -177,7 +177,7 @@ Déplacé de "Juliana Tokyo" au Shibuya Club Culture. La génération disco a é
 
 ## Années 2000 — L'essor de la Nu-Disco et la restructuration des clubs
 - **Arrière-plan**
-"Nu-Disco" et electroclash sont populaires dans le monde entier. Le renouveau du disco progresse également au Japon, et le groupe est à nouveau sur le devant de la scène sur la scène des clubs.
+"Nu-Disco" et electroclash sont populaires dans le monde entier. Le revival disco progresse au Japon, et la scène club est à nouveau à l'honneur.
 
 - **Chefs-d'œuvre représentatifs (à l'étranger)**
 - Daft Punk — *Découverte* (2001)
@@ -231,7 +231,7 @@ Nu-Disco s'est développé dans le monde entier et des artistes tels que Caribou
 
 - **Chef-d'œuvre représentatif (Japon)**
 - Gén Hoshino — * DANSEUSE JAUNE * (2015)
-- CAPSULE — *CAPS LOCK* (2013)
+- CAPSULE — *VERROUILLAGE MAJUSCULES* (2013)
 - tofubeats — *Positif* (2015)
 
 - **Relation avec la culture japonaise**
@@ -260,7 +260,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi et d'autres ont été redécouve
 | La Baie | Métronomie | Nu-Disco Indépendant |
 | DANSE. | Justice | Électro x Disco |
 | Je me sens mieux | Puce chaude | Électro-pop |
-| Feux rouges | Tiesto | Intersection de l'EDM et du Nu-Disco |
+| Feux rouges | Liens | Intersection de l'EDM et du Nu-Disco |
 
 
 ---

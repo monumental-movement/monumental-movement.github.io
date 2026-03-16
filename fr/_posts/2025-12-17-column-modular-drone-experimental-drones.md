@@ -44,7 +44,7 @@ color: #fff;
 
 ## Prémisses historiques du concept de drone
 
-Le concept de drone existait avant la musique électronique. Ses prototypes incluent des basses soutenues dans la musique traditionnelle, des harmonies soutenues dans la musique religieuse et des sons stationnaires dans les sons mécaniques et environnementaux. Dans l’histoire de la musique occidentale, les sons soutenus des organums et des cornemuses médiévaux ont joué un rôle dans le soutien spatial de la musique.
+Le concept de drone existait avant la musique électronique. Ses prototypes incluent des basses soutenues dans la musique traditionnelle, des harmonies soutenues dans la musique religieuse et des sons stationnaires dans les sons mécaniques et environnementaux. Dans l’histoire de la musique occidentale, les sons soutenus des organums et des cornemuses médiévales ont joué un rôle dans le soutien spatial de la musique.
 
 Au XXe siècle, l’industrialisation et l’électrification progressent, et le bruit mécanique persistant imprègne notre environnement quotidien. Ce changement environnemental a donné l’occasion aux musiciens de changer leur façon de percevoir le son. D’une vision de la musique centrée sur la mélodie à une focalisation sur la texture et la durée temporelle du son lui-même, les drones ont été redéfinis comme un élément important de la musique expérimentale.
 
@@ -194,7 +194,7 @@ En ce sens, un synthétiseur modulaire est à la fois un instrument de musique e
 
 ### Equilibre entre autonomie et intervention
 
-Les correctifs entièrement autonomes présentent des changements imprévisibles au fil du temps. D’un autre côté, en ajoutant une intervention humaine, la directivité du son peut être ajustée. L’équilibre entre les deux est un point de décision important dans la production de drones modulaires.
+Les correctifs entièrement autonomes présentent des changements imprévisibles au fil du temps. D’un autre côté, en ajoutant une intervention humaine, la directivité du son peut être ajustée. L’équilibre entre ces deux éléments est un point de décision important dans la production de drones modulaires.
 
 > "L'intervention se fait comme un dialogue avec le système, pas comme un contrôle"
 

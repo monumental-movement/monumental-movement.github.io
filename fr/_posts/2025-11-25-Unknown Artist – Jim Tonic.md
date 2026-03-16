@@ -9,14 +9,14 @@ permalink: /fr/unknown-artist-jim-tonic/
 tags:
 - House
 - Electronic
-title: Unknown Artist – Jim Tonic
+title: Artiste inconnu – Jim Tonic
 ---
 
 
-フランス出身のDJ／プロデューサー／remixer Bob Sinclar(ボブ・サンクラー)が関わる、非公式&ブートレグをリリースする擬似レーベルからリリースされたHouseミックス。
+Un mix House publié par un pseudo-label qui sort des disques non officiels et bootleg, impliquant le DJ/producteur/remixeur français Bob Sinclar.
 
-Aは、Bob Sinclarが1998年にリリースした「Gym Tonic」。
-Bは、イギリスのプロダクションデュオSpacedustが1998年にリリースした「Gym and Tonic」の別バージョン。
+A est "Gym Tonic" sorti par Bob Sinclar en 1998.
+B est une autre version de "Gym and Tonic" sortie en 1998 par le duo de production britannique Spacedust.
 
 #### Liste des chansons
 ```md

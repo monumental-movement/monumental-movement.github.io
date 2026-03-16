@@ -22,7 +22,7 @@ Texte : mmr｜Thème : Pourquoi la musique façonne-t-elle la conscience de soi 
 
 Pourquoi les gens s’identifient-ils à la musique ? Cette question est à la fois ancienne et nouvelle. Les mélodies, les rythmes, les voix et les bruits ne sont physiquement rien d'autre que des vibrations dans l'air, mais nous leur avons trouvé un sens, y avons projeté nos émotions et leur avons parfois confié notre vie. Quand j’écoute une chanson, je me souviens de qui je suis, et quand j’écoute une autre chanson, j’imagine qui je veux être dans le futur. Tout au long de ce cycle, la musique est allée au-delà du simple divertissement et a fonctionné comme un cadre de compréhension de soi.
 
-Si l’on regarde l’histoire, on constate que la musique a toujours existé à la frontière entre l’individu et la société. Les rituels religieux impriment les valeurs communautaires sur le corps, les nations modernes favorisent la conscience nationale et, dans les temps modernes, les listes de lecture rendent visible la vie intérieure des individus. La musique nous est donnée de l’extérieur et continue de mettre à jour notre conscience de soi tout en changeant sa signification à l’intérieur.
+Si l’on regarde l’histoire, on constate que la musique a toujours existé à la frontière entre l’individu et la société. Les rituels religieux impriment les valeurs communautaires sur le corps, les nations modernes favorisent la conscience nationale et, dans les temps modernes, les playlists rendent visible la vie intérieure des individus. La musique nous est donnée de l’extérieur et continue de mettre à jour notre conscience de soi tout en changeant sa signification à l’intérieur.
 
 > La musique est l'un des médias les plus anciens que nous utilisons pour nous comprendre.
 
@@ -66,7 +66,7 @@ C --> D[共同体意識]
 
 ### Internalisation de la foi et du son
 
-À une époque où la religion était la norme centrale de la société, la musique était un moyen important d’intériorisation de la foi. La mélodie unique du chant grégorien est conçue pour supprimer les émotions de l'individu et encourager l'immersion en Dieu. Les chants bouddhistes alignent la respiration et les vocalisations, modifiant ainsi les sensations physiques du pratiquant. En Islam, lors de la récitation du Coran, la mélodie et le sens sont indissociables, et l'acte d'écoute lui-même devient une pratique de foi.
+À une époque où la religion était la norme centrale de la société, la musique était un moyen important d’intériorisation de la foi. La mélodie unique du chant grégorien est conçue pour supprimer les émotions de l'individu et encourager l'immersion en Dieu. Les chants bouddhistes alignent la respiration et les vocalisations, modifiant ainsi les sensations physiques du pratiquant. En Islam, lors de la récitation du Coran, la mélodie et le sens sont indissociables, et l'acte d'écouter lui-même devient une pratique de foi.
 
 Ces musiques fonctionnent au-delà des goûts personnels. En l’écoutant à plusieurs reprises, en le chantant et en le laissant s’infiltrer dans votre corps, la foi s’enracine en vous comme une condition préalable, plutôt que comme quelque chose dont on peut douter. La musique était un moyen de traduction qui transformait la doctrine externe en voix interne.
 

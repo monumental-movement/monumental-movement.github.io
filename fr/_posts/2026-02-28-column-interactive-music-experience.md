@@ -206,12 +206,12 @@ La technologie actuelle joue principalement un rôle de soutien. Le design think
 
 ### La VR est-elle nécessaire ?
 
-必須ではない。スマートフォンやWebベースでも十分に成立する。
+Pas obligatoire. Il fonctionne également bien sur les smartphones et les systèmes Web.
 
 ### Quelles sont vos perspectives d’avenir ?
 
-個別最適化された音楽環境、バイオフィードバック連動、空間音響の高度化が進むと予測される。
+Il est prévu que les environnements musicaux optimisés individuellement, les liens de biofeedback et l’acoustique spatiale deviendront plus sophistiqués.
 
-> インタラクティブ音楽の未来は、テクノロジーではなく体験設計の思想にかかっている。
+> L'avenir de la musique interactive réside dans la philosophie de la conception d'expériences, et non dans la technologie.
 
 ---

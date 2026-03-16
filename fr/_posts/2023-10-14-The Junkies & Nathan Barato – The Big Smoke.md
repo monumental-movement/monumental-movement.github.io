@@ -9,13 +9,13 @@ permalink: /fr/the-junkies-nathan-barato-the-big-smoke/
 tags:
 - House
 - Tech House
-title: The Junkies & Nathan Barato – The Big Smoke
+title: Les Junkies et Nathan Barato – La grande fumée
 ---
 
 
-The Junkiesは、カナダのトロントを拠点に活動するDJ /プロデューサーValentino ColavecchiaとVincenzo Nicolazzoのデュオ。
+The Junkies est un duo de DJ/producteurs Valentino Colavecchia et Vincenzo Nicolazzo basé à Toronto, Canada.
 
-Nathan Barato（ネイサン・バラト）は、カナダ出身のDJ。
+Nathan Barato est un DJ canadien.
 
 #### Liste des chansons
 ```md

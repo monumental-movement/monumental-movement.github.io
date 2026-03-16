@@ -10,13 +10,13 @@ tags:
 - Electro
 - House
 - 00s
-title: Alter Ego – Rocker
+title: Alter Ego – Rockeur
 ---
 
 
-Alter Egoは、1992年にRoman FlügelとJörn Elling Wuttkeが結成したドイツのエレクトロニックミュージックデュオ。
+Alter Ego est un duo allemand de musique électronique formé en 1992 par Roman Flügel et Jörn Elling Wuttke.
 
-2004年にリリースした「Rocker」は世界的なヒットとなり、Felix Da Housecat、2 Many DJs、The Chemical BrothersなどのDJ達が好んでかけ、ヨーロッパでは2004年のダンスアンセムの1つとなったElectro Houseトラック。
+Sorti en 2004, "Rocker" est devenu un succès mondial, joué par des DJ tels que Felix Da Housecat, 2 Many DJs et The Chemical Brothers, et était un morceau Electro House qui est devenu l'un des hymnes de danse de 2004 en Europe.
 
 #### Liste des chansons
 ```md

@@ -49,7 +49,7 @@ Opinions religieuses, environnement géographique, culture ethnique, philosophie
 Toutes ces choses se combinent pour faire du black metal une entité unique et différente des autres genres.
 
 Dans cet article, nous organiserons de manière exhaustive le tableau d'ensemble sur la base de faits historiques, et
-De plus, **l'analyse régionale, l'exploration approfondie de bandes individuelles et la répartition chronologique** sont également intégrées.
+De plus, **l'analyse régionale, l'analyse approfondie des bandes individuelles et la répartition chronologique** sont également intégrées.
 Construisez la théorie définitive du black metal complet.
 
 ---
@@ -234,10 +234,10 @@ Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierr
 Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * La musique vise un minimalisme poussé,
-**Un style qui vise à créer une nature semblable à la transe et à l'effondrement du sens du temps par la répétition**.
+**Un style qui vise à créer une nature semblable à la transe et à l'effondrement de la notion du temps par la répétition**.
 * Continuant à faire une déclaration forte dans le débat culturel et religieux norvégien au début des années 1990,
 En raison d'une couverture médiatique excessive, « l'image dangereuse » du black metal s'est établie.
-* Après l'incident (meurtre d'Euronymous) et l'arrestation, la source sonore de Burzum est devenue plus orientée vers l'ambiance.
+* Après l'incident (meurtre d'Euronymous) et l'arrestation, la source sonore de Burzum est devenue plus ambiante.
 
 ---
 
@@ -250,7 +250,7 @@ En raison d'une couverture médiatique excessive, « l'image dangereuse » du bl
 * L'enregistrement est extrêmement lo-fi,
 
 * Mur de guitare vertical
-* Coups de charleston et de caisse claire monotones
+* Frappes monotones de charleston et de caisse claire
 * Base extrêmement légère
 devient la version définitive du « son du black metal scandinave » = « son froid ».
 
@@ -487,3 +487,11 @@ L'expansion se poursuit jusque dans les années 2020.
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kqbk0s0VsN0?si=INET9VckBxDriRR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

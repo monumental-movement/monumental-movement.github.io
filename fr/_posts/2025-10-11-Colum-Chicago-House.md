@@ -159,7 +159,7 @@ Chicago House recoupe des domaines apparemment sans rapport.
 ## Chapitre 9 : Contexte historique de Chicago House
 
 La structure économique et urbaine de Chicago, les inégalités sociales et le déclin industriel ont jeté les bases de la naissance de la house music.
-Les clubs étaient plus qu'un simple divertissement ; ils étaient des terrains d'expérimentation sociale et culturelle et des symboles de liberté et de solidarité entre les citadins.
+Les clubs étaient plus que de simples divertissements ; ils étaient des terrains d'expérimentation sociale et culturelle et des symboles de liberté et de solidarité entre les citadins.
 La Chicago House, ainsi née, s'est répandue dans le monde entier en tant que phénomène culturel qui croisait la culture urbaine, la technologie, les mouvements sociaux et l'histoire de la musique.
 
 ---
@@ -208,6 +208,16 @@ La fusion du groove et de la technologie forgée par des pionniers comme Frankie
 Son influence s'étend à l'acid house britannique, à la techno de Détroit, à l'EDM moderne et à la deep house, et les rythmes de Chicago continuent aujourd'hui de vivre dans les clubs du monde entier. La house de Chicago est à la fois un héritage du passé et un phare pour la culture musicale du futur.
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CBljRXzYvk?si=3mJHk6QtxdBAihsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Colonnes associées
 

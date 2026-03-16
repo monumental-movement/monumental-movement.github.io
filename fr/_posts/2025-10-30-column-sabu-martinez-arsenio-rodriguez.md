@@ -54,7 +54,7 @@ Cela a créé une structure rythmique à plusieurs niveaux.
 * **Facteurs sociaux :** Après l'abolition de l'esclavage, une communauté afro-américaine s'est formée à La Havane et la professionnalisation des musiciens noirs a progressé.
 * **Éléments techniques :** La standardisation du tres (guitare à trois cordes) et des congas a rendu possible la structure ultérieure du montuno.
 
-C’est dans ce contexte qu’apparaît un révolutionnaire aveugle nommé **Arsenio Rodríguez** (1911-1970).
+C’est dans ce contexte qu’émerge un révolutionnaire aveugle nommé **Arsenio Rodríguez** (1911-1970).
 
 ---
 
@@ -63,7 +63,7 @@ C’est dans ce contexte qu’apparaît un révolutionnaire aveugle nommé **Ars
 ### « El Ciego Maravilloso (Le joueur aveugle miraculeux) »
 
 Né à La Havane, Arsenio a perdu la vue dans un accident alors qu'il était enfant.
-En échange de ce sens, il acquiert la capacité surnaturelle d’entendre la « structure interne du rythme ».
+En échange de cette sensation, il acquiert la capacité surnaturelle d'entendre la « structure interne du rythme ».
 
 ### Ses innovations :
 

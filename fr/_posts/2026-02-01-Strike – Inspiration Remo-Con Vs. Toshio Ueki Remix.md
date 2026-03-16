@@ -18,7 +18,7 @@ Remix Trance/Euro House de "Inspiration" sorti en 1996 par le groupe britannique
 
 Tetsuya Tamura, également connu sous le nom de DJ Remo-con, est l'un des artistes majeurs du monde de la hard dance japonaise, se produisant fréquemment en live dans des festivals de hard dance et de techno à travers le monde, ainsi qu'à ULTRA Japan.
 
-Toshio Ueki est un DJ et écrivain actif depuis le début des années 1990. Il est actif dans une grande variété d’activités, notamment la série de compilations Avex.
+Toshio Ueki est un DJ et écrivain actif depuis le début des années 1990. Il est actif dans une grande variété d'activités, notamment la série de compilations Avex.
 
 #### Liste des chansons
 ```md

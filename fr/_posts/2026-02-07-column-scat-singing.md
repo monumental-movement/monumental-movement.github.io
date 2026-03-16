@@ -28,7 +28,7 @@ Aux États-Unis du début du XXe siècle, le jazz était une musique soutenue pa
 
 Les développements dans la technologie d'enregistrement étaient également importants. En passant des cylindres de cire aux disques de gomme-laque, l'improvisation est passée d'un événement ponctuel à quelque chose qui est écouté, analysé et imité à plusieurs reprises. Le Scat était également une forme d'expression extrêmement moderne, où des éclairs d'inspiration momentanés devenaient figés dans l'histoire.
 
-> Lorsque la voix est dénuée de sens, la liberté d'improvisation s'accroît pleinement pour la première fois.
+> C'est lorsque la voix est dénuée de sens que la liberté d'improvisation s'accroît pleinement pour la première fois.
 
 ---
 
@@ -60,11 +60,11 @@ Dans les vaudevilles et les music-halls du début du XXe siècle, il était cour
 
 ## Chapitre 2 Louis Armstrong et le moment de l'officialisation
 
-Au milieu des années 1920, l’enregistrement one-shot était la norme dans les studios d’enregistrement de Chicago et de New York. Les interprètes devaient terminer plusieurs minutes parfaitement en même temps que le signal de début de l'enregistrement. La tension du scat de Louis Armstrong est indissociable de cet environnement d'enregistrement.
+Au milieu des années 1920, l’enregistrement one-shot était la norme dans les studios d’enregistrement de Chicago et de New York. Les interprètes devaient terminer plusieurs minutes parfaitement en même temps que le signal du début de l'enregistrement. La tension du scat de Louis Armstrong est indissociable de cet environnement d'enregistrement.
 
 Dans son scat, les syllabes n'ont aucun sens, mais la disposition rythmique est très claire. Le début de la phrase est l'attaque de la trompette, et la fin converge naturellement avec le souffle. Ici, la voix agit comme un instrument mélodique et l’absence de paroles devient une condition préalable plutôt qu’une omission.
 
-Si vous écoutez attentivement les disques de cette époque, vous vous rendrez compte que le sentiment de distance entre vous et le groupe était également important. Le scat ne se perd pas dans l'accompagnement, mais il ne ressort pas trop non plus. Le sens de l'improvisation au sein de l'ensemble était déjà perfectionné.
+Si vous écoutez attentivement les disques de cette époque, vous verrez que le sentiment de distance par rapport au groupe était également important. Le scat ne se perd pas dans l'accompagnement, mais il ne ressort pas trop non plus. Le sens de l'improvisation au sein de l'ensemble était déjà perfectionné.
 
 <div class="mermaid">
 timeline
@@ -78,7 +78,7 @@ timeline
 
 ---
 
-## Chapitre 3 L'ère du swing et le raffinement des techniques
+## Chapitre 3 L'ère du swing et le raffinement de la technique
 
 Les enregistrements de big band dans les années 1930 exigeaient que les chanteurs fassent forte impression en peu de temps. Scat est un moyen efficace pour y parvenir. Lorsque vous écoutez les enregistrements d'Ella Fitzgerald, vous pouvez entendre que chaque syllabe est précisément maillée avec la section rythmique.
 
@@ -86,7 +86,7 @@ Bien que son scat ait une ligne mélodique claire, il contient toujours de subti
 
 Si l’on pseudo-transcrit un refrain d’improvisation typique du scat, on peut en voir la structure. Cela commence par un léger "ba-doo-la" rebondissant, suivi d'une courte respiration. La mesure suivante se divise en syllabes, « bop-ba-dee-ah », parfaitement synchronisées avec le motif de roulement du tambour. À la fin de la phrase, baissez le ton et allongez les voyelles pour atterrir naturellement sur la walking bass.
 
-Ce qui est important, c'est le placement plutôt que les syllabes elles-mêmes. Les respirations sont toujours placées aux pauses rythmiques, et non aux pauses sémantiques des phrases. La voix ne chante pas une mélodie, mais joue la mesure.
+Ce qui est important, c'est le placement plutôt que les syllabes elles-mêmes. Les respirations sont toujours placées aux pauses rythmiques et non aux pauses sémantiques des phrases. La voix ne chante pas une mélodie, mais joue la mesure.
 
 Le scat de Cab Calloway, en revanche, était plus une extension de scène qu'un studio. Des syllabes exagérées, des pauses qui attirent la foule et des phrases répétées créent une expérience musicale participative. L’immédiateté est ici plus importante que la précision.
 
@@ -138,7 +138,7 @@ Scat n'est pas ici une série de syllabes, mais une série d'actes vocaux eux-m�
 
 ## Chapitre 7 Scat comme vocabulaire syllabique
 
-Même si les syllabes utilisées dans scat peuvent paraître arbitraires, elles ont en réalité une certaine tendance fonctionnelle. Les chanteurs sélectionnent inconsciemment les syllabes qui correspondent à la manière dont l’instrument est joué.
+Même si les syllabes utilisées dans scat peuvent paraître arbitraires, elles ont en réalité une certaine tendance fonctionnelle. Les chanteurs sélectionnent inconsciemment les syllabes qui correspondent à la façon dont l’instrument est joué.
 
 "ba", "bop" et "da", qui contiennent des sons plosifs, sont souvent utilisés dans les situations où vous souhaitez rendre l'attaque claire. Ceux-ci produisent un effet similaire à celui d’une trompette ou d’un saxophone. D'un autre côté, les syllabes telles que « doo », « loo » et « la » qui sont centrées sur des sons fluides et des voyelles conviennent aux phrases legato et aux intervalles de maintien.
 

@@ -45,7 +45,7 @@ Les vibrations de mon corps que je ressentais sur le sol du club. Une rave illé
 
 Souvent, ils ne sont pas enregistrés. Cela n’est pas rapporté dans les médias et n’est pas enregistré dans l’histoire.
 
-Cependant, un média DIY appelé « zine » attire actuellement l'attention comme moyen de récupérer ces fragments et de les raconter.
+Cependant, un média DIY appelé « Zine » attire actuellement l'attention comme moyen de récupérer les fragments et de raconter l'histoire.
 
 Un zine n'est pas un magazine, un journal intime ou un rapport. Cependant, il est plus proche des « voix des personnes impliquées » que n’importe lequel d’entre eux. Dans la culture rave, qui par nature résiste à l'enregistrement, les zines ont le potentiel de servir d'« aide-mémoire ».
 
@@ -58,7 +58,7 @@ Le rave est une culture musicale qui met l’accent sur l’expérience de l’i
 | Raisons pour lesquelles il est difficile d'enregistrer | Contenu |
 |----------------------------------|-------------------------------------------------|
 | Les tabous sur la photographie et l'enregistrement étaient particulièrement forts lors des raves underground des années 1990, et il était souvent interdit d'apporter du matériel |
-| Illégalité/Anonymat | Aucun registre n'est conservé pour éviter d'être détecté par la police ou le gouvernement |
+| Illégalité/Anonymat | Aucun dossier n'est conservé pour éviter d'être détecté par la police ou le gouvernement |
 | Transitoire | Les événements sur le terrain disparaissent un instant |
 
 Ainsi, la « véritable image » de nombreuses raves ne demeure pas. Le manque de sources sonores, d’images et d’enregistrements menace de perturber l’héritage culturel.

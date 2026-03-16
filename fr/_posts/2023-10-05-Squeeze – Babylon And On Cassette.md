@@ -15,7 +15,7 @@ title: Squeeze – Babylon et sur cassette
 
 Cet album "Babylon And On" de Squeeze a été produit par Eric "ET" Thorngren et Glenn Tilbrook.
 
-L'album a atteint la 14e place du UK Albums Chart, le classement le plus élevé pour un album Squeeze en dehors de la compilation Greatest Hits.
+L'album a atteint la 14e place du UK Album Chart, le classement le plus élevé pour un album Squeeze en dehors de la compilation Greatest Hits.
 
 #### Liste des chansons
 ```md

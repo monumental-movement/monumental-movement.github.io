@@ -101,7 +101,7 @@ Il a donné au reggae une dimension mythique et cosmique.
 > J'écoute juste la voix et je la mixe. »
 > ― Lee « Scratch » Perry
 
-Son chef-d'œuvre, **The Upsetters "Super Ape" (1976)**, est
+Son chef-d'œuvre, **The Upsetters ``Super Ape'' (1976)**, est
 C'est une « jungle sonore » où s'entremêlent la gravité des basses et le brouillard de la réverbération.
 L'Arche Noire a été détruite dans un incendie en 1979.
 La légende s'est répandue dans toutes les régions du monde, y compris au Royaume-Uni.
@@ -150,9 +150,9 @@ C'est l'esthétique du manque et l'idée de reproduction.
 - Utiliser la technologie comme « expression d’improvisation ».
 - Redéfinir « original » dans le processus de reproduction.
 
-Ce type de pensée de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
+Ce type de réflexion de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
 L'acte de « éditer » et de « recomposer » le son lui-même est
-C'est la base des actes créatifs du 21ème siècle.
+C'est la base des actes créatifs du 21e siècle.
 
 ---
 
@@ -203,6 +203,16 @@ Cela se poursuit aujourd’hui dans les clubs, les laboratoires et dans vos éco
 > - Esprit du Dub
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnngNYn6qkM?si=Oou8zfNHFFA9JijM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Discographie de référence
 

@@ -9,15 +9,15 @@ permalink: /fr/simon-garfunkel-sounds-of-silence/
 tags:
 - Rock
 - Folk
-title: Simon & Garfunkel – Sounds Of Silence
+title: Simon & Garfunkel – Les sons du silence
 ---
 
 
-「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
+"Sounds Of Silence" est sorti en 1966. Cet album marque une étape importante dans la carrière de Simon & Garfunkel, démontrant leur maturité musicale et leur talent.
 
-アルバムには、シングルヒット曲「The Sound of Silence」や「I Am a Rock」などが収録されています。これらの曲は、メロディアスなフォークサウンドとポール・サイモン（Paul Simon）とアート・ガーファンクル（Art Garfunkel）の美しいハーモニーが特徴です。
+L'album comprend les singles à succès "The Sound of Silence" et "I Am a Rock". Ces chansons présentent un son folk mélodique et les belles harmonies de Paul Simon et Art Garfunkel.
 
-このアルバムは、サイモン&ガーファンクルのファンやフォークミュージックの愛好家にとって、不朽の作品となっています。彼らの心に響く歌詞と美しいメロディは、多くの人々に感動を与え、長く愛され続けています。
+Cet album est une œuvre intemporelle pour les fans de Simon & Garfunkel et les amateurs de musique folk. Leurs paroles touchantes et leurs belles mélodies ont ému de nombreuses personnes et ont continué à être aimées pendant longtemps.
 
 #### Liste des chansons
 ```md

@@ -11,8 +11,8 @@ tags:
 - Post-Rock
 - Instrumental
 - Cinematic Rock
-title: '[Chronique] Post-Rock Instrumental / Rock Cinématographique ─ Du silence à
-  l''explosion cinématographique'
+title: '[Chronique] Post-Rock Instrumental / Cinematic Rock ─ Du silence à l''explosion
+  cinématographique'
 ---
 
 
@@ -72,7 +72,7 @@ La durée de la chanson est également un facteur important. Il n'est pas rare q
 
 ## Lien naturel avec le rock cinématographique
 
-Le terme rock cinématographique n’a pas de définition stricte de genre. Cependant, il a été utilisé intuitivement pour désigner la musique avec une idée d’échelle visuelle et de courbes émotionnelles.
+Le terme rock cinématographique n’a pas de définition de genre stricte. Cependant, il a été utilisé intuitivement pour désigner la musique avec une idée d’échelle visuelle et de courbes émotionnelles.
 
 Il était inévitable que la musique instrumentale post-rock soit associée à cette appellation. L'introduction calme est similaire à la description du paysage au début du film, et l'ajout progressif d'éléments augmente la tension de l'histoire. Et le point culminant qui arrive provoque une catharsis visuelle.
 
@@ -84,11 +84,11 @@ En fait, de nombreuses chansons post-rock ont ​​trouvé leur place dans les 
 
 ## Explosions in the Sky : des paroles qui embrassent des souvenirs personnels
 
-Explosions in the Sky est un groupe de rock instrumental formé à Austin, au Texas, en 1999. Dès un stade relativement précoce, ils ont établi un style mélodieux et une structure claire.
+Explosions in the Sky est un groupe de rock instrumental formé à Austin, Texas en 1999. Dès un stade relativement précoce, ils ont établi un style mélodieux et une structure claire.
 
 Ce qui est symbolique dans leurs premières activités est un événement fortuit survenu immédiatement après leurs débuts. La sortie de l’œuvre qui a tant attiré l’attention sur leur musique a coïncidé avec une période d’une importance particulière pour la société américaine, suscitant involontairement de fortes associations émotionnelles. Cette expérience leur aurait fait prendre conscience que « la musique prend un sens selon son contexte ».
 
-La structure de la chanson d’Explosions in the Sky est claire. Des arpèges simples et des phrases à note unique sont présentés et, à mesure qu'ils sont répétés, le nombre de notes et le volume augmentent progressivement. La batterie visualise la montée de l'émotion par étapes, pour finalement former un grand point culminant.
+La structure de la chanson d’Explosions in the Sky est claire. Des arpèges simples et des phrases à note unique sont présentés et, à mesure qu'ils sont répétés, le nombre et le volume des notes augmentent progressivement. La batterie visualise la montée de l'émotion par étapes, pour finalement former un grand point culminant.
 
 La raison pour laquelle leur musique a été utilisée dans tant de productions vidéo est la façon dont ils ouvrent leurs émotions. Plutôt que d'imposer un récit spécifique, l'espace est maintenu pour évoquer naturellement les propres souvenirs et expériences de l'auditeur.
 
@@ -161,7 +161,7 @@ Cette tendance ne constitue pas une rupture brutale, mais peut être comprise co
 
 Actuellement, le rock instrumental et cinématographique post-rock s'est imposé comme une méthode d'expression plutôt que comme un nom de genre spécifique. Sa structure continue d'être référencée dans différents contextes tels que des vidéos, des jeux et des installations.
 
-Deux directions énoncées par Explosions in the Sky et Godspeed You ! Black Emperor sert toujours de points de référence créatifs. La musique sans paroles continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
+Deux directions énoncées par Explosions in the Sky et Godspeed You! Black Emperor sert toujours de points de référence créatifs. La musique, qui n'a pas de paroles, continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
 
 > La musique instrumentale post-rock continuera de créer de nouvelles histoires à travers le silence et le temps.
 

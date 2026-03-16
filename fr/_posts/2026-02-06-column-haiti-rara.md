@@ -24,7 +24,7 @@ Texte : mmr｜Thème : L'histoire et le présent de la culture de rue où se cro
 
 La saison est arrivée sur la terre ferme d'Haïti, où se chevauchent des sons métalliques aigus et des tambours graves et ondulants. Rara n’a pas de lieu spécifique. La musique se déplace le long des routes, pénètre dans les villages et transforme les espaces de vie des gens en scènes. Le groupe continue de marcher jusqu'à l'aube, accompagné de costumes, de danses et de symboles religieux. Cette musique n’est pas un divertissement, mais une prière, une déclaration politique et un conteur d’histoire.
 
-Lala est bien plus qu'une simple musique de carnaval. C’est une culture où la chronologie du Carême précédant Pâques, la cosmologie de la foi vaudou et les souvenirs de la domination coloniale et de la révolution se chevauchent, se cristallisant dans le bruit des rues. Cet article retrace les origines, l'instrumentation, les fonctions sociales et les transformations modernes du rara comme une accumulation de faits.
+Lala est bien plus qu'une simple musique de carnaval. C’est une culture où la chronologie du Carême avant Pâques, la cosmologie de la foi vaudou et les souvenirs de la domination coloniale et de la révolution se chevauchent, se cristallisant dans le bruit des rues. Cet article retrace les origines, l'instrumentation, les fonctions sociales et les transformations modernes du rara comme une accumulation de faits.
 
 > Lala est un dispositif de mémoire collective sous forme de musique et une culture qui continue de mettre à jour l'histoire à travers la marche.
 
@@ -45,11 +45,11 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 Origine historique de Lala
+## Chapitre 1 Origines historiques de Lala
 
 L’origine du lala est étroitement liée aux couches profondes de la société haïtienne qui s’est formée entre le XVIIIe et le XIXe siècle. À Saint-Domingue, pendant la période coloniale française, des personnes venues de diverses régions d'Afrique maintenaient leurs propres rituels religieux et leur propre culture musicale. Bien que ces traditions aient été supprimées sous le contrôle des plantations, elles ont été héritées en fragments lors de rassemblements nocturnes et de festivals.
 
-Après l'indépendance en 1804, le catholicisme et les religions africaines se sont mélangés en Haïti et se sont systématisés sous le nom de vaudou. Le Rara s'est imposé dans ce mélange religieux comme un rituel de procession en plein air, notamment pendant le Carême. Il a été souligné que la forme de la marche reflète la mémoire des déplacements forcés pendant la période coloniale et l’expérience des soulèvements armés pendant la période révolutionnaire.
+Après l'indépendance en 1804, le catholicisme et les religions africaines se sont mélangés en Haïti et se sont systématisés sous le nom de vaudou. Le Rara s'est imposé dans ce mélange religieux comme un rituel de procession en plein air, notamment pendant le Carême. Il a été souligné que la forme de la marche reflète la mémoire des déplacements forcés pendant la période coloniale et l'expérience des soulèvements armés pendant la période révolutionnaire.
 
 La procession de Rara n'était pas simplement une célébration, mais avait pour objectif clair d'offrir aux esprits, d'appeler les esprits des ancêtres et d'affirmer l'unité de la communauté. La musique s'est développée comme partie intégrante de la marche et se caractérisait par un rythme continu sans arrêt.
 
@@ -133,7 +133,7 @@ Pourtant, chaque année pendant le Carême, Lara réapparaît dans les rues. Mê
 
 ## Chapitre 7 Structure spatiale et sensation physique de marche
 
-L'essence de Lala est le « mouvement ». Les artistes et les participants ne restent pas sur une scène fixe, mais traversent des routes, des carrefours, des limites de villages et des zones autour des cimetières. Ces espaces ont une signification fonctionnelle dans la vie quotidienne, mais à l'époque Rara, ils prennent une signification cérémonielle. Les lieux traversés par la musique sont temporairement sanctifiés et gravés dans la mémoire de la communauté.
+L'essence de Lala est le « mouvement ». Les artistes et les participants ne restent pas sur une scène fixe, mais traversent les routes, les carrefours, les limites des villages et les abords des cimetières. Ces espaces ont une signification fonctionnelle dans la vie quotidienne, mais à l'époque Rara, ils prennent une signification cérémonielle. Les lieux traversés par la musique sont temporairement sanctifiés et gravés dans la mémoire de la communauté.
 
 Ce qui est important dans une marche, c'est la continuité acoustique plutôt que l'ordre visuel. Même si les rangs sont désorganisés, la marche continuera tant que le bruit ne se brisera pas. Les participants s'appuient sur le son pour déterminer leur emplacement et synchroniser leur corps. Pour cette raison, chez Lara, l’audition est plus centrale dans la reconnaissance spatiale que la ligne de vue.
 
@@ -191,9 +191,9 @@ Cependant, Lala enregistrée n’est qu’une partie de l’expérience original
 
 ## Chapitre 12 Lala d'un point de vue comparatif
 
-Il existe une grande quantité de musique de festival processionnelle dans la diaspora caribéenne et africaine. Bien que Lala présente des similitudes avec ceux-ci, elle reste unique par sa saisonnalité particulière et son rôle religieux.
+Il existe une grande quantité de musique de festival processionnelle dans la diaspora caribéenne et africaine. Bien que Lala présente des similitudes avec ces derniers, elle reste unique par sa saisonnalité particulière et son rôle religieux.
 
-Les études comparatives mettent l'accent sur les structures de marche, répétitives et participatives, mais le cas de Lala se caractérise par un degré particulièrement élevé de connotation de message politique.
+Les études comparatives mettent l'accent sur la marche, la répétition et les structures participatives, mais le cas de Lala se caractérise par un degré particulièrement élevé de connotation de message politique.
 
 > Lala est une forme culturelle comparable mais difficilement substituable.
 

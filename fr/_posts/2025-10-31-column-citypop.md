@@ -11,7 +11,7 @@ tags:
 - Citypop
 - History
 - 80s
-title: '[Chronique] Redécouvrir la City Pop : Pourquoi les DJ et YouTubeurs étrangers
+title: '[Chronique] Redécouvrir la City Pop : Pourquoi les DJ et YouTubers étrangers
   en sont accros'
 ---
 
@@ -61,7 +61,7 @@ De la fin des années 1970 aux années 1980, la société japonaise a rapidement
 Les appareils électroménagers, les voitures, la mode et la musique symbolisaient le « mode de vie urbain ».
 Le Walkman de Sony (1979) a marqué le début d'une révolution en « transportant de la musique avec soi » et City Pop est devenu la bande originale idéale.
 
-Les stations FM s'ouvrent les unes après les autres et les DJ diffusent les derniers hits en anglais. La progression d'accords, qui évoque les vents de la côte ouest américaine, est liée à des images de villes comme Tokyo, Yokohama et Kobe.
+Les stations FM s'ouvrent les unes après les autres et les DJ diffusent les derniers hits en anglais. La progression d'accords évoque les vents de la côte ouest américaine et est associée à des images de villes telles que Tokyo, Yokohama et Kobe.
 On peut dire que les auditeurs de l'époque s'exprimaient « vivre en ville » à travers la city pop.
 Durant cette période, la technologie d'enregistrement japonaise a atteint le plus haut niveau au monde et la qualité sonore des disques était extrêmement élevée. C’était une époque où la ville résonnait vraiment tant sur le plan acoustique que social.
 
@@ -131,7 +131,7 @@ En conséquence, la culture japonaise des années 1980 a été reconvertie en un
 
 De la même manière, le Lo-fi Hip Hop est connecté à la culture BGM de YouTube et se propage sous forme de « vibes japonaises des années 80 ».
 Un extrait de city pop joué comme musique de fond pour étudier a été joué des centaines de millions de fois.
-En d’autres termes, le contexte de la musique a été complètement déconstruit et la musique pop japonaise est devenue un matériau d’émotions mondiales.
+En d’autres termes, le contexte musical a été complètement déconstruit et la musique pop japonaise est devenue un matériau d’émotions mondiales.
 C'est là que réside l'essence de la « nostalgie numérique », qui va au-delà de la traduction culturelle.
 
 ---

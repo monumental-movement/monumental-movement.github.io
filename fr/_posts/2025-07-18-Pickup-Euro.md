@@ -50,7 +50,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 ### Masterboy – Différents rêves
 <a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Euro des années 90 / Euro Beat
 
@@ -340,7 +340,7 @@ B. La Jument De Mishao (Club Mix)
 ### E‑Rotic – Folie sexuelle
 <a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Euro des années 90 / Euro Beat / Hi‑ERG House
 
@@ -374,7 +374,7 @@ La chanson à succès "Turn Me On" figurait sur l'album sorti en 1997.
 ### E‑Rotic – Willy utilise un Billy... Boy
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Euro des années 90 / Euro Beat / Hi‑ERG House
 

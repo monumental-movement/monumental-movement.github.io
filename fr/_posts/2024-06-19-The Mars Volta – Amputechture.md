@@ -11,13 +11,13 @@ tags:
 - Psychedelic Rock
 - Prog Rock
 - 00s
-title: The Mars Volta – Amputechture
+title: La Volta de Mars – Amputechture
 ---
 
 
-The Mars Volta（マーズ・ヴォルタ）は、元ATDIのCedric Bixler(セドリック・ビクスラー)とOmar Rodriguez(オマー・ロドリゲス)によるUSプログレッシブロックバンド。2001年から2013年まで活動した。エモ、クルリーモ、ダブ、テクノからラテン、サルサ、インプビゼーションなど様々なジャンルをミックスさせたスタイルが特徴。
+The Mars Volta est un groupe de rock progressif américain formé par Cedric Bixler et Omar Rodriguez, anciens membres d'ATDI. Actif de 2001 à 2013. Son style est un mélange de genres variés, dont l'emo, le culimo, le dub, la techno, le latin, la salsa et l'improvisation.
 
-レッド・ホット・チリ・ペッパーズのジョン・フルシアンテが全曲参加した3枚目のアルバムAmputechture(アンピュテクチャー)は2006年にリリースされた。
+Leur troisième album, Amputechture, avec John Frusciante des Red Hot Chili Peppers, est sorti en 2006.
 
 #### Liste des chansons
 ```md

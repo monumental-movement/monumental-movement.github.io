@@ -48,7 +48,7 @@ NTS Radio est une radio internet basée à Londres qui diffuse des programmes DJ
 
 Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre particulier dans la programmation des programmes. Les artistes disposent de droits de conservation programme par programme et sont autorisés à inclure non seulement des sets de DJ, mais également des enregistrements sur le terrain, des sources sonores inédites et des performances en direct.
 
-> "La diffusion en direct sur NTS a été positionnée comme un acte de partage du processus de sélection et d'interprétation des chansons lui-même, plutôt que comme la présentation d'œuvres terminées."
+> "La diffusion en direct sur NTS a été positionnée comme un acte de partage du processus de sélection et d'interprétation des chansons lui-même, plutôt que comme une présentation de l'œuvre terminée."
 
 ---
 
@@ -56,7 +56,7 @@ Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre 
 
 Boiler Room a commencé comme un projet visant à diffuser de petits événements DJ en salle à Londres. La caméra pénètre dans le même espace que le DJ et se caractérise par un format qui inclut la présence du public.
 
-Ce format diffère de l'enregistrement vidéo traditionnel, où une caméra est placée derrière la cabine du DJ, dans le sens où le public, l'espace et les artistes sont tous dans le même cadre. En conséquence, la performance des DJ a été visualisée comme une expression qui inclut « un comportement physique et social » plutôt que comme un acte « uniquement sonore ».
+Ce format diffère de l'enregistrement vidéo traditionnel dans lequel une caméra est installée derrière la cabine du DJ et présente une structure dans laquelle le public, l'espace et les interprètes sont tous dans le même cadre. En conséquence, la performance des DJ a été visualisée comme une expression qui inclut « un comportement physique et social » plutôt que comme un acte « uniquement sonore ».
 
 ---
 
@@ -66,11 +66,11 @@ Les DJ sets du NTS et du Boiler Room ont tendance à être différents des confi
 
 En particulier dans NTS, les longs sets de plus de deux heures sont courants, et un style qui construit doucement un récit tout en traversant les genres est souvent observé. En revanche, Boiler Room comporte de nombreux décors relativement courts, mettant l'accent sur l'évolution en phase avec la chaleur de l'espace.
 
-> "La condition du live streaming a fait évoluer le DJ set d'une "technique qui fait fonctionner l'espace" à une "structure qui s'écoute".
+> « Les conditions du live streaming ont fait passer le DJ set d'une « technique qui fait fonctionner l'espace » à une « structure qui s'écoute ».
 
 ---
 
-## Chapitre 4 : Compatibilité de la musique expérimentale et du streaming en direct
+## Chapitre 4 : Compatibilité de la musique expérimentale et du live streaming
 
 La musique expérimentale est traditionnellement jouée dans de petites salles, des musées et des établissements universitaires. Cependant, avec la diffusion du streaming en direct, l’environnement de présentation s’est élargi.
 
@@ -100,7 +100,7 @@ Par exemple, les sons de basse extrême et les dynamiques subtiles sont difficil
 
 ## Chapitre 7 Communauté et archives
 
-NTS et Boiler Room ont archivé leurs émissions et les ont rendues disponibles pour une visualisation et une écoute ultérieures. Cette nature archivistique transforme les performances live d’événements éphémères en matériaux référençables.
+NTS et Boiler Room ont archivé leurs émissions et les ont rendues disponibles pour une visualisation et une écoute ultérieures. Cette nature archivistique transforme les performances live d'événements éphémères en matériaux référençables.
 
 Les auditeurs pourront réinterpréter le spectacle non seulement en participant en temps réel mais aussi en le regardant plus tard.
 
@@ -149,7 +149,7 @@ Les faits résumés dans cet article serviront de base pour envisager les future
 
 La pratique des artistes de diffusion en direct apparaissant sur NTS et Boiler Room concerne davantage « la musique en tant que corps de mouvement » que le nom d'un genre.
 
-Les DJ sets et les performances expérimentales diffusées en direct sont présentés comme un état de changement continu au fil du temps, plutôt que comme une œuvre finie.
+Les sets de DJ et les performances expérimentales diffusées en direct sont présentés comme un état de changement continu au fil du temps, plutôt que comme une œuvre finie.
 Cela peut être considéré comme un « mouvement enregistrable ».
 
 > "Dès que la musique rejette les formats fixes, son mouvement devient plus évident."
@@ -168,7 +168,7 @@ Sur NTS, il a été confirmé qu'il existe de nombreux cas dans lesquels du mat�
 
 ## Chapitre supplémentaire 3 Exemple de densité selon les genres
 
-En ce qui concerne les activités des artistes de diffusion en direct, le cross-genre est la norme plutôt que l’exception. Des fragments de musique dance, noise, jazz, folk et pop sont enchaînés dans un même ensemble.
+En ce qui concerne les activités des artistes de diffusion en direct, le cross-genre est la norme plutôt que l’exception. Des fragments de musique dance, noise, jazz, folk et pop sont enchaînés au sein d’un même ensemble.
 
 Il s’agit davantage du résultat d’une évolution des conditions d’écoute dans l’environnement de la distribution que d’une avant-garde intentionnelle. L'écoute prolongée dans un environnement privé permet des changements rapides de genre.
 
@@ -186,7 +186,7 @@ Sur NTS notamment, les DJ créent des archives musicales en poursuivant leurs pr
 
 ## Chapitre supplémentaire 5 Intervention vidéo et refus
 
-Alors que Boiler Room intègre activement la vidéo, NTS a conservé une conception centrée sur l'audio. Cette différence a un impact direct sur le sens de la performance.
+Alors que Boiler Room intègre activement la vidéo, NTS a conservé une conception centrée sur l'audio. Cette différence affecte directement la direction de la performance.
 
 Lorsque les images existent, les mouvements physiques et les configurations spatiales ont un sens. Lorsque les images sont limitées, la disposition des sons et la structure temporelle passent au premier plan.
 

@@ -15,15 +15,15 @@ title: Récupérer des œuvres de techno allemande
 ---
 
 
-"Le rythme qui pénètre la nuit, l'âme de Berlin, la techno allemande marche"
+"Un rythme qui pénètre la nuit, l'âme de Berlin, la techno allemande marche"
 
 <hr>
 
-### Tresor Compilation Vol. 7
+### Trésor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Point attractif : Une compilation du prestigieux label allemand Tresor, avec une luxueuse sélection de titres des plus grands noms de la techno, dont Sven Väth, Maurizio, Ben Sims, James Ruskin et Pacou. C'est une pièce qui vous permet de ressentir pleinement le charme de la techno dure, minimale et innovante qui symbolise Berlin – Allemagne.
+Point attractif : Une compilation du prestigieux label allemand Tresor, avec une luxueuse sélection de titres des plus grands noms de la techno, dont Sven Väth, Maurizio, Ben Sims, James Ruskin et Pacou. C'est un morceau qui permet de ressentir pleinement le charme de la techno dure, minimale et innovante qui symbolise Berlin-Allemagne.
 
 
 #### Liste des chansons
@@ -58,7 +58,7 @@ Point attractif : Une compilation du prestigieux label allemand Tresor, avec une
 
 
 
-Point attractif : Un chef-d'œuvre de Zombie Nation, un projet du DJ/producteur allemand Splank ! (Florian Senfter). En particulier, la face A "Souls At Zero (Original Album Version)" est associée à une face B remixée de Sven Väth. Le remix de Sven Väth possède une finale puissante qui combine la lourdeur et le drame de la techno allemande.
+Point attractif : Un chef-d'œuvre de Zombie Nation, un projet du DJ/producteur allemand Splank ! (Florian Senfter). En particulier, la face A "Souls At Zero (Original Album Version)" est associée à une face B remixée de Sven Väth. Le remix de Sven Väth a une finale puissante qui combine la profondeur et le drame de la techno allemande.
 
 
 #### Liste des chansons

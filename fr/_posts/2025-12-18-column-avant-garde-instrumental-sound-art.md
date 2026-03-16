@@ -20,9 +20,9 @@ title: '[Chronique] Art instrumental/sonore d''avant-garde'
 
 Texte : mmr｜Thème : En nous concentrant sur Alvin Lucier et Christian Fennesz, nous organiserons la lignée continue depuis les expériences sonores analogiques jusqu'au traitement numérique et clarifierons la structure de l'art sonore, y compris sa relation avec les images.
 
-Depuis le XXe siècle, la musique s’est éloignée du cadre de l’art temporel centré sur la mélodie et l’harmonie pour s’étendre à un domaine d’expression complet incluant les phénomènes physiques, l’espace et le support d’enregistrement lui-même. L’art instrumental et sonore d’avant-garde n’est pas une forme qui met en valeur l’habileté ou la capacité d’interprétation d’un instrument, mais présente plutôt l’ensemble du processus par lequel le son est généré, propagé, réfléchi, modifié et perçu comme une œuvre.
+Depuis le XXe siècle, la musique s’est éloignée du cadre de l’art temporel centré sur la mélodie et l’harmonie pour s’étendre à un domaine d’expression complet incluant les phénomènes physiques, l’espace et le support d’enregistrement lui-même. L’art instrumental et sonore d’avant-garde n’est pas une forme qui met en valeur l’habileté et la capacité d’interprétation d’un instrument, mais présente plutôt l’ensemble du processus par lequel le son est généré, propagé, réfléchi, modifié et perçu comme une œuvre.
 
-Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant à chaque fois des résultats différents. Ce qui importe ici, plutôt que l'intention du compositeur, c'est la structure elle-même, la manière dont le phénomène acoustique se présente et se connecte à l'espace et à la technologie.
+Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant à chaque fois des résultats différents. Ce qui importe ici, plutôt que les intentions du compositeur, c'est la structure elle-même, la manière dont le phénomène acoustique se présente et se connecte à l'espace et à la technologie.
 
 ---
 
@@ -97,11 +97,11 @@ flowchart LR
 
 ### 4-1 Acoustique architecturale
 
-Le travail de Lucier s'appuie fortement sur les dimensions spatiales, les matériaux et les propriétés réfléchissantes. Même si la pièce est la même, les résultats acoustiques varieront considérablement si le lieu d'installation est différent.
+Le travail de Lucier s'appuie fortement sur les dimensions spatiales, les matériaux et les propriétés réfléchissantes. Même si la pièce est la même, les résultats acoustiques varieront considérablement si elle est installée dans un endroit différent.
 
 ### 4-2 Position du spectateur
 
-La position et le mouvement du public sont un facteur qui modifie l'expérience acoustique. L’œuvre n’est pas destinée à être écoutée depuis un point fixe.
+La position debout et les mouvements du public sont des facteurs qui modifient l'expérience acoustique. L’œuvre n’est pas destinée à être écoutée depuis un point fixe.
 
 ---
 
@@ -167,13 +167,13 @@ En art sonore, l’écoute n’est pas un acte passif. Les spectateurs bougent, 
 * Années 1960 : Musique expérimentale et minimalisme
 * Années 1970 : l'installation sonore s'installe
 * Années 1990 : traitement numérique du signal et ordinateurs portables
-* Après les années 2000 : Intégration avec les images et l'espace
+* Après les années 2000 : Intégration avec les images et l'espace
 
 ---
 
 ## Conclusion : Pratiques structurelles autour du son
 
-L’art instrumental/sonore d’avant-garde est une pratique qui brise les frontières entre musique et art, performance et environnement, production et reproduction. Même si Alvin Lucier et Christian Fennesz utilisent des époques et des techniques différentes, ils partagent une direction commune : exposer le son comme un phénomène.
+L’art instrumental/sonore d’avant-garde est une pratique qui brise les frontières entre musique et art, performance et environnement, production et reproduction. Bien qu'Alvin Lucier et Christian Fennesz utilisent des époques et des techniques différentes, ils partagent une direction commune : exposer le son comme un phénomène.
 
 ---
 

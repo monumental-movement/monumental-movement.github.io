@@ -14,11 +14,11 @@ title: Latex – Encore
 ---
 
 
-Latex ことMichael Borrmannはドイツ出身のプロデューサー。Steril名義でも活動しており、DJ Hell のレーベルInternational Deejay Gigolo RecordsやLasergunなど様々なレーベルからリリースしている。
+Michael Borrmann, également connu sous le nom de Latex, est un producteur allemand. Il travaille également sous le nom de Steril et a sorti sur divers labels, dont le label International Deejay Gigolo Records de DJ Hell et Lasergun.
 
-「Encore」は、2001年にFrank Müller(フランク・ミュラー)が運営するベルリンを拠点とするテクノ&エレクトロレーベルMüller RecordsからリリースされたElectro, Tech Houseトラック。
+"Encore" est un morceau Electro, Tech House sorti en 2001 par le label techno et électro berlinois de Frank Müller, Müller Records.
 
-マスタリングはDubplates & MasteringのエンジニアCGBことChristoph Grote-Beverborg。
+Le mastering a été réalisé par l'ingénieur Christoph Grote-Beverborg de Dubplates & Mastering, alias CGB.
 
 #### Liste des chansons
 ```md

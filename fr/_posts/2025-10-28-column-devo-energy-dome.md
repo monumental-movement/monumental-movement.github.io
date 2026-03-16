@@ -92,7 +92,7 @@ DEVO a utilisé des appareils électroniques et des synthétiseurs faits maison 
 Cette pratique peut être considérée comme le prototype du dernier **mouvement Indépendant/Lo-Fi**.
 
 Ils ont fait la satire du monde de l'entreprise tout en profitant des méthodes corporatives (logos, slogans, commercialisation).
-Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques postmodernes.
+Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques post-modernes.
 
 ---
 
@@ -146,7 +146,7 @@ Ce style visuel a ensuite influencé l'esthétique de la production des films ja
 Dans les années 1990, elle a été réévaluée comme pionnière de l’ère Internet.
 Leur stratégie de marque auto-satirique préfigurait l’auto-marchandisation post-Web 2.0.
 
-Ils se réunissent dans les années 2000 avec « Something for Everybody » (2010), une satire sur « la démocratie à l’ère des algorithmes ».
+Ils se sont réunis dans les années 2000 et ont écrit « Something for Everybody » (2010), une satire sur « la démocratie à l’ère des algorithmes ».
 Dans les années 2020, il continue d’actualiser sa théorie de la dégénérescence pour inclure les NFT et la culture de l’IA.
 
 ---
@@ -176,10 +176,10 @@ timeline
 ## Chapitre 10 : L'importance actuelle du dôme énergétique
 
 L'Energy Dome est toujours apprécié par les fans de DEVO comme un « casque de pensée ».
-Pendant la pandémie de coronavirus, des **dômes énergétiques avec écran facial** sont vendus,
+Pendant la pandémie de coronavirus, **Dôme énergétique avec écran facial** est vendu,
 Il a une fois de plus attiré l'attention en tant qu'avertissement sur les problèmes environnementaux.
 
-Autrement dit, l’Energy Dome est un dispositif social qui se « transforme » à chaque époque.
+En d'autres termes, le **Energy Dome est un dispositif social qui se « transforme » à chaque époque**.
 Chaque fois, en se moquant de nos illusions « d’évolution »,
 Cela nous montre la sagesse hérétique de « l’affirmation de la dégénérescence ».
 

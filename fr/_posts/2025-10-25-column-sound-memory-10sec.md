@@ -89,7 +89,7 @@ flowchart TD
 
 Non seulement les individus mais aussi la société forment des souvenirs basés sur « 10 secondes de son ».
 Par exemple, la fanfare olympique, l'intro d'un film Star Wars ou le son d'une notification sur smartphone.
-Ces sons subtils évoquent des réponses émotionnelles communes à travers les générations et les frontières.
+Ces sons subtils évoquent une réponse émotionnelle commune à travers les générations et les frontières.
 
 Ce n'est pas un hasard si TikTok et YouTube Shorts se concentrent sur des boucles sonores de 10 à 15 secondes depuis les années 2000.
 L'algorithme sélectionne le « son qui stimule les émotions le plus rapidement », ce qui est devenu un réflexe conditionné par la culture.
@@ -105,7 +105,7 @@ Chaque instant recalibre la respiration et l’énergie du sol.
 
 Pour reprendre la « théorie du flux » proposée par le psychologue Mihaly Csikszentmihalyi,
 Cette immersion sonore de 10 secondes est l’essence même de la méditation moderne.
-En dansant, les gens se dissolvent dans les ondes sonores.
+Lorsque les gens dansent, ils se dissolvent dans les ondes sonores.
 
 ---
 

@@ -19,12 +19,12 @@ title: '[Chronique] Musique didgeridoo et culture indigène australienne'
 
 ## Qu'est-ce qu'un didgeridoo ?
 
-Texte : mmr｜Thème : Une histoire culturelle qui interprète la musique didgeridoo, enracinée dans les sociétés autochtones du nord de l'Australie, dans une perspective à plusieurs niveaux basée sur les différences régionales, les différences linguistiques et les exemples tribaux.
+Texte : mmr｜Thème : Une histoire culturelle à plusieurs niveaux de la musique didgeridoo, enracinée dans les sociétés autochtones du nord de l'Australie, à partir de différences régionales, de différences linguistiques et d'exemples tribaux.
 
 
 Le didgeridoo est un instrument à vent traditionnel utilisé par les communautés aborigènes d'Australie, principalement de la côte nord jusqu'à l'intérieur. Généralement, le matériau est fabriqué à partir d'un tronc d'eucalyptus creusé par les termites, et la sensation en bouche est ajustée en appliquant de la cire d'abeille sur l'ouverture d'un côté. Bien que la structure soit extrêmement simple, les sons émis ne se limitent pas à des drones monophoniques, mais comportent des couches acoustiques complexes combinant harmoniques, rythmes et vocalisations.
 
-Le nom « didgeridoo », courant aujourd'hui, ne provient pas de langues autochtones, mais a été créé par des anglophones au début du 20e siècle comme terme onomatopée. Dans les sociétés autochtones, les instruments de musique sont nommés en relation avec la terre et la langue, et les différents noms reflètent les différences culturelles.
+Le nom « didgeridoo » qui est courant aujourd'hui ne provient pas d'une langue indigène, mais est un nom onomatopéique inventé par les anglophones au début du 20e siècle. Dans les sociétés autochtones, les instruments de musique sont nommés en relation avec la terre et la langue, et les différents noms reflètent les différences culturelles.
 
 > Le didgeridoo n'est pas un instrument de musique unique, mais un ensemble de pratiques culturelles qui varient selon les régions.
 
@@ -60,7 +60,7 @@ Le noyau de la culture du didgeridoo est la région de la Terre d'Arnhem qui s'�
 
 Dans l'ouest de la Terre d'Arnhem, il y avait de nombreux instruments relativement courts et épais, et un style de jeu axé sur le rythme s'est développé. En revanche, dans l’Est de la Terre d’Arnhem, on a tendance à mettre l’accent sur les performances qui maintiennent un drone long, étroit et stable. Ces différences ne sont pas simplement une question de préférence, mais découlent de leur relation avec le style de chant et la structure de la danse.
 
-> Les différences régionales n'apparaissent pas seulement dans la musique, mais dans le système rituel dans son ensemble.
+> Les différences régionales n'apparaissent pas uniquement dans la musique, mais dans le système rituel dans son ensemble.
 
 ---
 
@@ -168,11 +168,11 @@ flowchart LR
 
 ---
 
-## Comparaison entre les tribus d'une même série de chansons
+## Comparaison entre tribus dans la même série de chansons
 
 Même si la série de chants provient du même être ancestral ou du même événement mythique, les pratiques varient grandement d'une tribu à l'autre. Une série de chansons n'est pas une « chanson » fixe, mais est comprise comme un cadre qui varie en fonction du lieu, de la langue et des liens de sang.
 
-Par exemple, les chants de la côte de la Terre d'Arnhem et des régions intérieures diffèrent par leur tempo, leur densité rythmique et leurs modèles sonores de didgeridoo, même si les chants font référence au même être ancestral. Les zones côtières mettent l'accent sur des drones doux qui évoquent les marées et la sauvagine, tandis que les zones intérieures mettent l'accent sur les rythmes intermittents associés aux mouvements de pas et de chasse.
+Par exemple, les chants de la côte de la Terre d'Arnhem et des régions intérieures diffèrent par leur tempo, leur densité rythmique et leurs modèles sonores du didgeridoo, même si les chants font référence au même être ancestral. Les zones côtières mettent l'accent sur des drones doux qui évoquent les marées et la sauvagine, tandis que les zones intérieures mettent l'accent sur les rythmes intermittents associés aux mouvements de pas et de chasse.
 
 Ces différences ne sont pas des « interprétations erronées » mais des formes légitimes d'héritage dans chaque pays. La même série de chansons a une structure qui comprend plusieurs bonnes réponses.
 
@@ -192,7 +192,7 @@ Dans certaines parties de l'Est de la Terre d'Arnhem, le didgeridoo fonctionne c
 
 ## Représentation musicale vue dans les peintures rupestres
 
-L'art rupestre du nord de l'Australie représente des figures humaines tenant de longs instruments de musique tubulaires, ainsi que des scènes de chasse et de cérémonie. Ceux-ci ont été interprétés comme faisant référence au didgeridoo ou à son prédécesseur.
+L'art rupestre du nord de l'Australie représente des figures humaines tenant de longs instruments tubulaires, ainsi que des scènes de chasse et de cérémonie. Ceux-ci ont été interprétés comme faisant référence au didgeridoo ou à son prédécesseur.
 
 La représentation d’instruments de musique dans l’art rupestre est davantage un symbole d’action rituelle qu’un enregistrement réaliste. Les décorations corporelles et le placement des personnages suggèrent que la musique était une pratique collective.
 
@@ -214,7 +214,7 @@ Les modèles sonores du didgeridoo sont également traités non pas comme un sim
 
 ## Relation entre l'art rupestre, l'histoire orale et les archives modernes
 
-La recherche moderne implique des références croisées à l’art rupestre, aux traditions orales et aux enregistrements audio du XXe siècle. Il n’est pas possible d’appréhender l’ensemble de la culture en ne s’intéressant qu’à l’une d’entre elles.
+La recherche moderne implique des références croisées à l’art rupestre, aux traditions orales et aux enregistrements audio du XXe siècle. Il n’est pas possible d’appréhender l’ensemble de la culture en se limitant à l’une d’entre elles.
 
 La diffusion de la technologie d’enregistrement a rendu possible la préservation, mais elle a également créé le problème de la décontextualisation. Ainsi, ces dernières années, l'archivage a progressé d'une manière expliquée et gérée par les artistes eux-mêmes.
 

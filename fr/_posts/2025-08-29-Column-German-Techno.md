@@ -29,7 +29,7 @@ La « techno allemande » a connu un essor rapide entre la fin des années 1980 
 
 <hr>
 
-### Contexte historique : la chute du mur de Berlin et l'explosion de la techno
+### Contexte historique : La chute du mur de Berlin et l'explosion de la techno
 
 La chute du mur de Berlin en 1989 marque un tournant dans le développement de la techno en Allemagne. Avec la fusion des cultures orientale et occidentale, les fêtes utilisant des bâtiments et des entrepôts abandonnés se sont rapidement multipliées et Berlin est devenue la Mecque de la techno symbolisant le « son de la liberté ».
 
@@ -175,7 +175,7 @@ Comme le symbolisent les Berlinois Berghain et Tresor, l'espace club et le son s
 
 **Tendance** : tout en héritant de la froideur typique de la « techno allemande » du passé, elle a évolué avec l'ajout d'expression émotionnelle et de production visuelle.
 
-Si vous comparez les chansons par décennie, vous pouvez voir un cycle « industriel et froid → minimalisation → dureté → mélodicisation → réindustrialisation »**.
+Si vous comparez les chansons par décennie, vous pouvez voir un cycle de « Industriel et froid → Minimalisation → Durcissement → Mélodicisation → Réindustrialisation »**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -186,7 +186,7 @@ Si vous comparez les chansons par décennie, vous pouvez voir un cycle « indust
 La techno allemande d'aujourd'hui a beaucoup évolué, passant de tendances dures et industrielles à des expressions mélodiques et lyriques, tout en conservant son statut emblématique de « Berlin, la capitale de la techno ».
 
 En conclusion, la Techno allemande est à la fois un produit culturel du passé et un terrain d’essai pour l’avenir du design sonore.
-Ecouter ses œuvres tout en retraçant leur histoire n’est rien d’autre que comprendre le dynamisme de la musique, où s’entremêlent villes et humains, machines et émotions.
+Ecouter ses œuvres tout en retraçant leur histoire n'est rien d'autre que comprendre le dynamisme de la musique, où s'entremêlent villes et humains, machines et émotions.
 
 
 ---

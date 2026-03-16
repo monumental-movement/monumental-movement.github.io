@@ -58,7 +58,7 @@ Ce sentiment de « respiration » a donné naissance plus tard à sa philosophie
 
 ---
 
-## Chapitre 2 : L'essence de la culture de fouille d'Harvey
+## Chapitre 2 : L'essence de la culture de fouille d'Harvey
 
 La collection de disques de DJ Harvey est bien plus qu'une simple collection.
 Pour lui, un document est « l’acte de conserver une trace de la vie de quelqu’un d’autre ».
@@ -103,7 +103,7 @@ Ces mots sont au cœur de l'esthétique de Harvey.
 
 ---
 
-## Chapitre 5 : L'éthique analogique à l'ère numérique
+## Chapitre 5 : L'éthique analogique à l'ère numérique
 
 Aujourd’hui, de nombreux DJ peuvent parcourir le monde avec une seule clé USB.
 Mais Harvey part toujours en tournée avec une caisse de disques.

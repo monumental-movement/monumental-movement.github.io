@@ -13,9 +13,9 @@ title: Mondo Grosso – MG4
 ---
 
 
-大沢伸一のルーツであるジャズ、ソウル、ブラジリアン・ミュージックを土台に、生楽器を用いた繊細なアレンジと2Stepのダンスビートでまとめたジャパニーズ・クラブ・ミュージック。
+Musique de club japonaise basée sur les racines de Shinichi Osawa dans le jazz, la soul et la musique brésilienne, avec des arrangements délicats utilisant des instruments live et des rythmes de danse 2Step.
 
-birdをフィーチャリングし、当時ヒットした「Life」や「Butterfly」も収録。
+Sont également inclus "Life" et "Butterfly", qui étaient des succès à l'époque et mettaient en vedette Bird.
 
 #### Liste des chansons
 ```md

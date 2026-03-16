@@ -11,12 +11,12 @@ tags:
 - 70s
 - 80s
 - 90s
-title: '[Chronique] Kronos Quartet : La trajectoire d''un quatuor à cordes qui continue
-  d''innover et de relever des défis'
+title: '[Chronique] Kronos Quartet : La trajectoire d''un quatuor à cordes qui ne
+  cesse d''innover et de relever des défis'
 ---
 
 
-## 1. Présentation
+## 1. Introduction
 
 
 Texte : mmr｜Thème : Styles d'interprétation qui ne sont pas liés au cadre traditionnel de la musique classique et à leur trajectoire
@@ -48,7 +48,7 @@ color: #fff;
 
 Depuis sa création à San Francisco, le Quatuor Kronos explore un style d'interprétation sortant du cadre traditionnel de la musique classique. Le fondateur David Harris a étudié la musique classique à l'Université de Californie à Berkeley, puis est devenu actif sur la scène musicale de San Francisco, formant un quatuor avec des amis partageant les mêmes idées.
 
-Outre les œuvres baroques et classiques, le premier répertoire comprenait de nouvelles œuvres de compositeurs contemporains. Leur premier album, « Kronos Quartet », sorti en 1976, a été très apprécié par la critique pour sa combinaison de la nature ésotérique de la musique contemporaine et du haut niveau technique d'interprétation. Durant cette période, ils se produisent partout aux États-Unis, principalement à San Francisco, et se forgent une réputation de quatuor innovant.
+Outre les œuvres baroques et classiques, le premier répertoire comprenait de nouvelles œuvres de compositeurs contemporains. Leur premier album, « Kronos Quartet », sorti en 1976, a été très apprécié par la critique pour sa combinaison de musique contemporaine difficile et de technique de haute performance. Durant cette période, ils se produisent partout aux États-Unis, principalement à San Francisco, et se forgent une réputation de quatuor innovant.
 
 ### Albums majeurs (premiers)
 
@@ -172,7 +172,7 @@ Leur dernier album approfondit encore leur collaboration avec la musique traditi
 
 ---
 
-## 6. Chronologie des albums et œuvres majeures
+## 6. Chronologie des albums et œuvres majeurs
 
 
 <div class="mermaid">

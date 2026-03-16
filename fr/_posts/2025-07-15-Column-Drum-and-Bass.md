@@ -135,7 +135,7 @@ Un sous-genre influencé par la mi-temps et le dubstep. Excision, liaison descen
 
 **Hospital Records (Tony Colman alias London Elektricity)** : La maison du funk liquide.
 
-**Ram Records (Andy C)** : leader du grand public.
+**Ram Records (Andy C)** : leader du marché grand public.
 
 **Shogun Audio (Friction)** : prend en charge un large éventail de styles.
 
@@ -176,7 +176,7 @@ Actuellement, D&B règne comme la base de la bass music dans le monde. Les scèn
 
 ** ● Artistes contemporains en vedette **
 
-**Noisia (dissous)** : compétences de production au niveau de Dieu.
+**Noisia (dissous)** : technologie de production au niveau de Dieu.
 
 **Alix Perez** : Une alchimiste sonique qui peut tout faire, du dub au demi-pas.
 

@@ -9,12 +9,12 @@ permalink: /fr/lemare-good-times/
 tags:
 - UK Garage
 - Funk
-title: Lemare – Good Times
+title: Lemare – Bons moments
 ---
 
 
-「Good Times」は、
-1998年にリリースされた、イギリスのR&BアーティストLEMARE（レマー/Lemar Obika）の「Good Times」。
+« Les bons moments » est
+"Good Times" de l'artiste R&B britannique LEMARE (Lemar Obika) est sorti en 1998.
 
 #### Liste des chansons
 ```md

@@ -14,11 +14,11 @@ title: Luca Baldini – Hermann Der Rammler
 ---
 
 
-Luca Baldiniは、イタリア出身のミュージシャン／アレンジャー／プロデューサー／DJ。Sergio RicciardoneとのエレクトロニックミュージックデュオDrama Societyとしても活動している。
+Luca Baldini est un musicien/arrangeur/producteur/DJ italien. Il est également actif en tant que duo de musique électronique, Drama Society, avec Sergio Ricciardone.
 
-「Hermann Der Rammler」は、2006年にMarco Gallerani主宰のレーベルHell Yeah RecordingsからリリースされたTechno／Electroトラック。
+"Hermann Der Rammler" est un morceau Techno/Electro sorti en 2006 sur Hell Yeah Recordings, un label dirigé par Marco Gallerani.
 
-Bは、ベルリンを拠点に活動するDJ／プロデューサーMatt EdwardsことRadio Slave（レディオ・スレイヴ）によるリミックス。
+B est un remix du DJ/producteur berlinois Matt Edwards, également connu sous le nom de Radio Slave.
 
 #### Liste des chansons
 ```md

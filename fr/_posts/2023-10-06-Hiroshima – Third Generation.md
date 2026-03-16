@@ -19,7 +19,7 @@ title: Hiroshima – Troisième génération
 
 L'album comprend les chansons « One Wish », « Thousand Cranes » et « Sandalwood ». Ces chansons combinaient le son distinctif d'Hiroshima et la structure mélodique des chansons pour créer une expérience musicale agréable pour le public.
 
-"Troisième génération" a reçu de nombreux éloges de la part des critiques musicaux, qui l'ont salué comme une œuvre démontrant le caractère unique de la musique d'Hiroshima et de sa technique d'interprétation sophistiquée. L'album a reçu le soutien non seulement des amateurs de jazz fusion, mais aussi d'un large public.
+"Troisième génération" a reçu les éloges des critiques musicaux, qui l'ont salué comme une œuvre démontrant le caractère unique de la musique d'Hiroshima et de sa technique d'interprétation sophistiquée. L'album a reçu le soutien non seulement des amateurs de jazz fusion, mais aussi d'un large public.
 
 #### Liste des chansons
 ```md

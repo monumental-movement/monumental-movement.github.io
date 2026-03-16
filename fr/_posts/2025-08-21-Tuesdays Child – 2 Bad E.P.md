@@ -13,7 +13,7 @@ title: Tuesdays Child – 2 Bad E.P.
 ---
 
 
-Tuesdays Child est le pseudonyme de Robert Chetcuti pour ses projets électroniques/house. Robert Chetcuti est surtout connu pour son travail avec Steve Mac au sein du duo house Rhythm Masters, qui a gagné en popularité sur la scène des clubs européens des années 1990 au début des années 2000.
+Tuesdays Child est l'alias de Robert Chetcuti pour ses projets électroniques/house. Robert Chetcuti est surtout connu pour son travail avec Steve Mac au sein du duo house Rhythm Masters, qui a gagné en popularité sur la scène des clubs européens des années 1990 au début des années 2000.
 
 Il a également créé de nombreux remix pour Armand Van Helden, Junior Jack, Michael Jackson, etc.
 

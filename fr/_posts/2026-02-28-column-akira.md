@@ -26,7 +26,7 @@ En 1988, un film d’animation est sorti au Japon, alors en pleine bulle économ
 
 Même si près de 40 ans se sont écoulés depuis sa sortie, le son de ce film ne vieillit jamais. En fait, ces dernières années, avec la résurgence du cyberpunk, le contexte de « Why AKIRA Still Sounds Future » est devenu plus fort.
 
-La raison n’est pas seulement la nostalgie. Villes en fuite, tensions entre l'État et la technologie, emportements de la jeunesse et transformation des corps. La bande originale, qui joue à l'intersection de la musique folk et des sons électroniques, résonne étrangement avec le monde d'aujourd'hui.
+La raison n’est pas seulement la nostalgie. Villes en fuite, tensions entre l'État et la technologie, élans de jeunesse et transformation des corps. La bande originale, qui joue à l'intersection de la musique folk et des sons électroniques, résonne étrangement avec le monde d'aujourd'hui.
 
 Dans cet article, basé sur des faits, nous décrypterons comment la musique d'AKIRA est devenue le « son du futur » à travers son contexte de production, sa structure acoustique, ses influences culturelles et le processus de réévaluation.
 
@@ -57,7 +57,7 @@ Le manga original « AKIRA » a commencé à être publié en série en 1982 et 
 
 L'histoire se déroule à Neo Tokyo en 2019. Expériences militaires, manifestations antigouvernementales, gangs de motards et développement de pouvoirs surnaturels. Il dépeint l’effondrement et la renaissance d’une ville, reflétant fortement l’atmosphère de la fin de la guerre froide.
 
-La musique a été conçue en parallèle de la production du film. Le réalisateur Otomo recherchait un son plus fondamental et religieux que l'accompagnement existant de type anime. En conséquence, le groupe qui a été distingué était le groupe de divertissement Yamashiro.
+La musique a été conçue en parallèle de la production du film. Le réalisateur Otomo recherchait un son religieux plus fondamental plutôt que l'accompagnement existant de type anime. En conséquence, le groupe qui a été distingué était le groupe de divertissement Yamashiro.
 
 ### Relation positionnelle avec Cyberpunk
 
@@ -148,7 +148,7 @@ Au 21e siècle, il est réévalué avec la remasterisation Blu-ray et 4K.
 
 De plus, ces dernières années, la résurgence des jeux et des animes a renforcé le contexte cyberpunk. L’un des symboles en est Cyberpunk : Edgerunners.
 
-Au milieu de cette résurgence, AKIRA est une fois de plus considéré comme la « forme complétée » plutôt que « l’original ».
+Au milieu de cette résurgence, AKIRA est une fois de plus considéré comme la « forme complétée » plutôt que « l'original ».
 
 > AKIRA n'était pas à l'avant-garde de son époque, mais plutôt une œuvre qui remettait en question son époque à plusieurs reprises.
 

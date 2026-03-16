@@ -110,7 +110,7 @@ Lumineux, amusant, gratuit et un peu triste.
 C'est peut-être parce que l'atmosphère générale était « à la Cindy » qu'elle a conquis le cœur de tant de gens.
 
 La musicalité n’est pas la seule chose qui a fait le succès de cet album.
-Avec l’essor de MTV, nous entrions dans une ère dans laquelle les images influençaient la musique et Cindy avait un impact visuel écrasant. Des costumes colorés, des coiffures trop libres et un clip mettant en scène des gens courant dans des ruelles. Tous étaient parfaits pour « l’atmosphère de l’époque ».
+Avec l’essor de MTV, nous sommes entrés dans une ère dans laquelle les images ont influencé la musique et Cindy a eu un impact visuel écrasant. Des costumes colorés, des coiffures trop libres et un clip mettant en scène des gens courant dans des ruelles. Tous étaient parfaits pour « l’atmosphère de l’époque ».
 
 ---
 
@@ -183,7 +183,7 @@ Cet incident a été transmis comme un épisode qui symbolise la « capacité de
 
 #**10. Fin des années 80 aux années 90 : de la pop star à l'artiste**
 
-De la fin des années 80 aux années 90, Cindy était tiraillée entre le succès commercial et le désir d'expression artistique.
+De la fin des années 80 aux années 90, Cindy oscille entre succès commercial et désir d'expression artistique.
 
 ### **Chapeau plein d'étoiles (1993)**
 
@@ -201,7 +201,7 @@ Cindy n'accordait aucune valeur à « la répétition des formes réussies » 
 
 #**12. Challenge to Broadway : remporte un Tony Award pour « Kinky Boots »**
 
-En 2013, il était en charge des paroles et de la composition de la comédie musicale « Kinky Boots », qui lui a valu le Tony Award de la meilleure chanson originale.
+En 2013, il est en charge des paroles et de la composition de la comédie musicale « Kinky Boots » et remporte le Tony Award de la meilleure chanson originale.
 
 À l’origine, Cindy a grandi non seulement en tant que chanteuse, mais aussi profondément influencée par la culture expressive telle que le cinéma et le théâtre. Cela s’est concrétisé sous la forme de Broadway.
 

@@ -11,13 +11,13 @@ tags:
 - House
 - JPop
 - Downtempo
-title: Hiroshi Fujiwara + Shinichi Osawa Feat. Crystal Kay – Lost Child
+title: Hiroshi Fujiwara + Shinichi Osawa Feat. Crystal Kay – Enfant perdu
 ---
 
 
-日本の音楽プロデューサーである藤原ヒロシ（Hiroshi Fujiwara）と大沢伸一（Shinichi Osawa）がCrystal Kayをフィーチャーした楽曲で、彼らのコラボレーション作品としてリリースされました。
+Cette chanson, mettant en vedette Crystal Kay, est le fruit d'une collaboration entre les producteurs de musique japonais Hiroshi Fujiwara et Shinichi Osawa.
 
-「Lost Child」は、エレクトロニックミュージックとポップの要素を融合させた楽曲で、ユニークなビート、魅力的なメロディ、そしてクリスタル・ケイの美しいボーカルが特徴です。
+« Lost Child » est une chanson qui combine des éléments de musique électronique et pop, avec un rythme unique, une mélodie charmante et la magnifique voix de Crystal Kay.
 
 #### Liste des chansons
 ```md

@@ -72,7 +72,7 @@ En particulier, le « funk minimal avec un nombre réduit de sons » caractéris
 
 ---
 
-## 2. Généalogie et évolution historique
+## 2. Généalogie et développement historique
 
 ### 2-1. Fin des années 1990 : montée de la néo-soul
 
@@ -287,7 +287,7 @@ flowchart TD
 *Expérience Robert Glasper – ​​*Black Radio* (2012)
 *Thundercat – *Ivre* (2017)
 *Vulfpeck – *Grimpeur de colline* (2018)
-*L'Internet – *Ego Death* (2015)
+*L'Internet – *Mort de l'ego* (2015)
 
 ---
 

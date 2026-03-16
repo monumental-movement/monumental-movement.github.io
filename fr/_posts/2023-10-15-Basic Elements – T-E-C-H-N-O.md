@@ -9,12 +9,12 @@ permalink: /fr/basic-elements-t-e-c-h-n-o/
 tags:
 - Techno
 - House
-title: Basic Elements – T-E-C-H-N-O
+title: Éléments de base – T-E-C-H-N-O
 ---
 
 
-「T-E-C-H-N-O」は、
-レーベル「Pantera Records」からリリースされたBasic ElementsによるEPです。
+"T-E-C-H-N-O" est
+Il s'agit d'un EP de Basic Elements sorti sur le label "Pantera Records".
 
 #### Liste des chansons
 ```md

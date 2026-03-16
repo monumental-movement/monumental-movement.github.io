@@ -9,21 +9,21 @@ permalink: /fr/pickup-new-age/
 tags:
 - New Age
 - Relaxation
-title: New Age(ニューエイジ)作品をピックアップ
+title: Récupérez des œuvres New Age
 ---
 
 
-「自然音とシンセサイザーが織りなす深い癒しを体感できる、注目すべきNew Age(ニューエイジ)作品群」
+"Une remarquable collection d'œuvres New Age où vous pourrez vivre une expérience de guérison profonde tissée avec des sons naturels et des synthétiseurs."
 
 <hr>
 
-### Schawkie Roth – Dance Of The Tao
+### Schawkie Roth – Danse du Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-特徴：Schawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家で、ニューエイジ・スピリチュアル音楽の先駆者の一人とされています。
+Caractéristiques : Schawkie Roth est un compositeur spécialisé dans la musique de guérison, de méditation, de relaxation et de jazz acoustique, et est considéré comme l'un des pionniers de la musique spirituelle New Age.
 
 
-魅力：東洋的な哲学と西洋の音楽が融合した、瞑想やリラクゼーションに最適な作品です。 
+Charme : Fusion de philosophie orientale et de musique occidentale, cette pièce est parfaite pour la méditation et la relaxation.
 
 #### Liste des chansons
 ```md
@@ -50,9 +50,9 @@ B3. Dance of Bamboo
 <a href="https://jp.mercari.com/item/m31252450219?afid=6142608987"><img src="../assets/images/Fumio%20Miyashita%20-%20Meisou.webp"></a>
 
 
-特徴：長野県出身の音楽家・ミュージックセラピスト・シンセサイザー奏者である宮下富実夫による作品です。
+Caractéristiques : Une œuvre de Tomio Miyashita, musicien, musicothérapeute et synthétiseur de la préfecture de Nagano.
 
-魅力：深い瞑想状態を促進するシンセサイザーの音色が特徴で、心身のリラクゼーションに適しています。 
+Attrait : Doté de tonalités de synthèse qui favorisent des états méditatifs profonds, adaptés à la relaxation de l'esprit et du corps.
 
 #### Liste des chansons
 ```md
@@ -70,14 +70,14 @@ B3. Dance of Bamboo
 <hr>
 <br>
 
-### Kitaro – Astral Trip
+### Kitaro – Voyage Astral
 <a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></a>
 
 
-特徴：喜多郎は、1970年代初頭日本のプログレッシブ・ロックバンド「ファー・イースト・ファミリー・バンド」のメンバーとしてキーボードを担当し、後にソロ活動を展開しました。
+Caractéristiques : Kitaro jouait du clavier en tant que membre du groupe de rock progressif japonais « Far East Family Band » au début des années 1970, et développa plus tard une carrière solo.
 
 
-魅力：シンセサイザーを駆使した幻想的な音世界が広がり、心地よいリラクゼーションを提供します。 
+Attrait : Un monde sonore fantastique utilisant des synthétiseurs s'étend, offrant une détente confortable.
 
 #### Liste des chansons
 ```md
@@ -107,9 +107,9 @@ B5. Astral Trip
 ### Patrick Bernhardt – Atlantis Angelis
 <a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp"></a>
 
-特徴：カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムです。アンビエントとニューエイジの要素を融合させた幻想的な音世界が広がります。
+Caractéristiques : Il s'agit d'un album de Patrick Bernhardt sorti par le label canadien « Imagine Records ». Un monde sonore fantastique qui fusionne des éléments ambiants et new age s'ouvre.
 
-魅力：深い瞑想状態を促進するシンセサイザーの音色が特徴で、心身のリラクゼーションに適しています。
+Attrait : Doté de tonalités de synthèse qui favorisent des états méditatifs profonds, adaptés à la relaxation de l'esprit et du corps.
 
 #### Liste des chansons
 ```md
@@ -135,14 +135,14 @@ B3. Transcendastral Voyage
 <br>
 
 
-### Steve Reid – Bamboo Forest
+### Steve Reid – Forêt de bambous
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
 
-特徴：アメリカのジャズパーカッショニスト＆プロデューサーであるスティーヴン・リードによる作品です。
+Caractéristiques : Une œuvre du percussionniste et producteur de jazz américain Stephen Reed.
 
 
-魅力：ジャズの要素を取り入れたスピリチュアルな音楽で、自然との一体感を感じさせる作品です。 
+Charme : Musique spirituelle qui intègre des éléments de jazz, cette œuvre vous fait sentir en harmonie avec la nature.
 
 
 #### Liste des chansons
@@ -169,12 +169,12 @@ B3. Transcendastral Voyage
 <br>
 
 
-### Tony O'Connor – Hidden Forest
+### Tony O'Connor – Forêt cachée
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
 
-特徴：オーストラリアのアンビエント／リラクゼーションミュージッククリエーター、Tony O'Connorによる1996年リリースの2枚組LPです。
+Caractéristiques : Un double LP de 1996 du créateur australien de musique d'ambiance/relaxation Tony O'Connor.
 
-魅力：自然音とシンセサイザーの調和が心地よく、森林浴をしているかのような癒しの空間を提供します。
+Charme : La combinaison harmonieuse de sons naturels et de synthétiseurs offre un espace apaisant qui donne l'impression de prendre un bain de forêt.
 
 #### Liste des chansons
 ```md
@@ -199,9 +199,9 @@ B3. Transcendastral Voyage
 ### Forêt profonde – Forêt profonde
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
-特徴：フランスのデュオDeep Forestによる1992年リリースのアルバムです。エスニック、エレクトロニック、ダンス・ビート、チルアウト・ビートをミックスしたワールド・ミュージックのスタイルが特徴です。
+Caractéristiques : Un album sorti en 1992 par le duo français Deep Forest. Il se caractérise par un style de musique du monde qui mélange des rythmes ethniques, électroniques, dance et chillout.
 
-魅力：多様な民族音楽を取り入れたサウンドが、異文化の旅へと誘います。
+Attrait : Des sons intégrant une variété de musiques ethniques vous feront voyager à travers différentes cultures.
 
 #### Liste des chansons
 ```md

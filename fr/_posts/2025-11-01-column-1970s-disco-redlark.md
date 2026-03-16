@@ -18,7 +18,7 @@ title: '[Chronique] Disco japonais des années 70 et Red Lark - L''esthétique d
 ## Disco japonais des années 70 et Red Lark - Une esthétique nocturne dessinée par la musique et les cigarettes
 
 
-Texte : mmr | Thème : Un disque de l'époque japonaise des années 1970, lorsque les publicités disco et Red Lark se mêlaient. Souvenirs de la nuit où la musique, la mode et l'odeur des cigarettes se sont croisées
+Texte : mmr | Thème : Un disque de l'époque japonaise des années 1970, lorsque les publicités disco et Red Lark se mêlaient. Souvenir d'une nuit où se croisent la musique, la mode et l'odeur des cigarettes
 
 Le Japon dans les années 1970. Shinjuku, Akasaka, Roppongi.
 La ville nocturne essayait de conquérir une liberté inconnue grâce au mot « disco ».
@@ -95,7 +95,7 @@ En fait, l’industrie musicale japonaise a également absorbé son influence.
 Par exemple:
 - **« 240 Million Eyes » de Hiromi Go (1984)** trouve ses racines dans l'exaltation du disco des années 70.
 - **Pink Lady "UFO" (1977)** est un exemple réussi de production nationale de synth disco de style Donna Summer.
-- **« Awakening » (1982)** de Hiroshi Sato a sublimé les souvenirs de la scène nocturne d'Akasaka en city pop.
+- **« Awakening » de Hiroshi Sato (1982)** a sublimé les souvenirs de la scène nocturne d'Akasaka en city pop.
 
 Il ne faut pas oublier que l'espace disco des années 1970 a été le point de départ de cette tendance.
 
@@ -172,7 +172,7 @@ Lorsque vous allumez le Red Lark, les nuits tokyoïtes des années 1970 revienne
 
 | Titre de la chanson | Artiste | Année | Remarques |
 | ----------------- | ------------------ | ---- | ------------------ |
-| Rester en vie | Bee Gees | 1977 | Chanson signature de « Saturday Night Fever » |
+| Rester en vie | Bee Gees | 1977 | Chanson signature « Saturday Night Fever » |
 | Disco Inferno | Les Tramps | 1976 | Standardisé dans les clubs japonais |
 | Boogie Pays des Merveilles | Terre, vent et feu | 1979 | Populaire sur MUGEN |
 | Âme Dracula | Sang chaud | 1977 | Fournisseur DJ à l'époque |

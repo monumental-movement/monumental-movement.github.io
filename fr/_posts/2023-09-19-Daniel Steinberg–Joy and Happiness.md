@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - Minimal
-title: Daniel Steinberg – Joy & Happiness EP
+title: Daniel Steinberg – EP Joie et Bonheur
 ---
 
 
-「Joy & Happiness」は、楽曲のタイトル通り、喜びと幸福感をテーマにした曲でグルーヴィで踊りやすいビート、キャッチーなメロディ、そしてポジティブな雰囲気が特徴です。Daniel Steinbergのユニークなサウンドセンスとクリエイティビティが曲全体に反映されています。
+Comme le titre de la chanson l'indique, "Joy & Happiness" est une chanson sur le thème de la joie et du bonheur et se caractérise par un rythme groovy et dansant, une mélodie entraînante et une atmosphère positive. Le sens sonore et la créativité uniques de Daniel Steinberg se reflètent tout au long de la chanson.
 
-「Joy & Happiness EP」は、Daniel Steinbergの音楽のファンやハウスミュージックの愛好家にとって魅力的な作品です。
+``Joy & Happiness EP'' est une œuvre qui séduira les fans de la musique de Daniel Steinberg et les amateurs de house music.
 
 
 #### Liste des chansons

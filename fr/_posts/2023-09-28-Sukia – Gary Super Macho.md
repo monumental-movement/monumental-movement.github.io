@@ -13,11 +13,11 @@ title: Sukia – Gary Super Macho
 ---
 
 
-1997年にMo Waxからリリースされたトリップホップです。
+Il s'agit d'une chanson trip hop sortie par Mo Wax en 1997.
 
-Sukiaは、アメリカの電子音楽バンドで、アメリカ合衆国カリフォルニア州カマリロを拠点にしており、かつての子役俳優であるRoss Harrisが在籍しており、1970年代には『CHiPS』や『小さな家』などの番組に出演していました。
+Sukia est un groupe de musique électronique américain basé à Camarillo, en Californie, aux États-Unis, mettant en vedette l'ancien enfant acteur Ross Harris, qui est apparu dans des émissions telles que CHiPS et Little House dans les années 1970.
 
-1990年代初頭に、拡大するロサンゼルスのインディーミュージックシーンの中で結成され、同名のイタリアの吸血鬼コミックブックから名前を取りました。
+Formé au début des années 1990 au sein de la scène musicale indépendante en pleine expansion de Los Angeles, le groupe tire son nom de la bande dessinée italienne sur les vampires du même nom.
 
 #### Liste des chansons
 ```md

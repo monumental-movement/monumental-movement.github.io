@@ -19,7 +19,7 @@ Faute de frappe sur la piste A2 : l'artiste est mal orthographié comme "Grandm
 
 Erreur de l'auteur-compositeur sur la piste B4 : le crédit est incorrectement écrit comme "Treacherous Three" au lieu de "Doug E. Fresh".
 
-Erreur d'artiste sur la piste B5 : l'artiste est incorrectement écrit comme "Treacherous Three" au lieu de l'original "Treacherous Threefeaturing Spoonie Gee".
+Erreur d'artiste sur la piste B5 : l'artiste est répertorié à tort comme "Treacherous Three" au lieu de l'original "Treacherous Threefeaturing Spoonie Gee".
 
 Description d'artiste incorrecte pour le morceau B6 : l'artiste est étiqueté comme "Funky Four & One" au lieu de l'original "Funky 4 + 1".
 

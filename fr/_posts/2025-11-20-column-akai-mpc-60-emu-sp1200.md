@@ -118,7 +118,7 @@ Bien que Mirage ne soit pas 12 bits, il est très influent en tant qu'échantill
 
 *Année de sortie : 1985
 * Profondeur de bits : 12 bits
-* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de « synthétiser des échantillons de tonalités ».
+* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de "synthétiser des échantillons de tonalités".
 
 ---
 
@@ -136,7 +136,7 @@ Ici, un flux de production typique supposant le SP-1200 et le MPC60 est réperto
 
 ### 5.2 Flux de travail de production de type MPC60 (accent sur les performances)
 
-1. Enregistrez des échantillons pendant une période relativement longue (le MPC60 peut enregistrer pendant une période plus longue que le SP-1200)
+1. Enregistrez les échantillons pendant une période relativement longue (le MPC60 peut enregistrer pendant une période plus longue que le SP-1200).
 2. Chargez dans le pad et improvisez les opérations d'entrée et de filtrage
 3. Créez des phrases à l'aide du séquenceur intégré et ajoutez du swing en modifiant la vélocité et la position de chaque note.
 4. Construire en conjonction avec d'autres équipements en utilisant la synchronisation MIDI
@@ -154,7 +154,7 @@ Dans la section d'analyse technique, la réponse en fréquence générale des é
 
 ### 6.2 Bruit de quantification
 
-* Le bruit de quantification peut être estimé sous forme de rapport signal/bruit (SNR). Le SNR 12 bits idéal est d'environ 72 dB, mais dans les équipements réels, il est généralement inférieur.
+* Le bruit de quantification peut être estimé sous forme de rapport signal sur bruit (SNR). Le SNR 12 bits idéal est d'environ 72 dB, mais dans les équipements réels, il est généralement inférieur.
 
 ---
 
@@ -162,7 +162,7 @@ Dans la section d'analyse technique, la réponse en fréquence générale des é
 
 ### 7.1 Rôle du SP-1200 dans le Hip Hop
 
-Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient effectué des échantillons de type SP.
+Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient réalisé des échantillons de type SP.
 
 ### 7.2 Relation entre R&B et MPC
 
@@ -198,7 +198,7 @@ flowchart TD
 
 ## Chapitre 9 : UI/UX et instrumentation — Mise en place d'une démarche de performance à l'aide de MPC
 
-La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d'improviser, et son utilisation dans les performances live et les sessions impromptues s'est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l'accent sur le sens humain du jeu) et de la conception des produits d'Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.
+La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d'improviser, et son utilisation dans les performances live et les sessions impromptues s'est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l'accent sur le sens humain de la performance) et de la conception des produits d'Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.
 
 ---
 
@@ -210,7 +210,7 @@ Depuis les années 2010, le nombre de plug-ins et de produits de reproduction ma
 
 ## Chapitre 11 : Matériaux/Références
 
-* Manuel de service E-mu SP-1200 (Spécifications techniques)
+* Manuel d'entretien E-mu SP-1200 (Spécifications techniques)
 * Manuel d'utilisation Akai MPC60 (manuel du produit)
 * Magazine de technologie musicale de l'époque (numéro 1987-1995)
 * Interviews de producteurs (Pete Rock, DJ Premier, Dr. Dre, etc.)
@@ -433,7 +433,7 @@ flowchart TD
 ---
 
 
-### Ajout 1 : Comparaison de la quantification 12 bits et 16 bits
+### Ajout 1 : Comparaison de la quantification 12 bits et 16 bits
 
 <div class="mermaid">
     

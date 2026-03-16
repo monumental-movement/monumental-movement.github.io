@@ -11,15 +11,15 @@ tags:
 - House
 - Garage House
 - UK House
-title: Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2
+title: Sir Piers Feat. Monique Bingham – Don't You Love Me Les Remixes Partie 2
 ---
 
 
-Sir Piers（Piers Penfold）が自身が運営するレーベルCuriousから2003年にリリースしたMonique Binghamの「Don't You Love Me」ハウス・ガレージハウスリミックス。
+Un remix house/garage house de "Don't You Love Me" de Monique Bingham sorti en 2003 par Sir Piers (Piers Penfold) sur son propre label Curious.
 
-A面は、 SoulShine Recordingsや Thompson Studiosを運営するLouis Benedettiによるremix。
+La face A est un remix de Louis Benedetti, qui dirige SoulShine Recordings et Thompson Studios.
 
-B面は、オーストラリアのメルボルンを拠点に活動するDJ / プロデューサーDJ Jorj（Jorj Patsalides）によるremix。
+La face B est un remix de DJ Jorj (Jorj Patsalides), un DJ/producteur basé à Melbourne, en Australie.
 
 #### Liste des chansons
 ```md

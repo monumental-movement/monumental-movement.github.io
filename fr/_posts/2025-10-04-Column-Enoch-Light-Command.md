@@ -45,12 +45,12 @@ Command Records visait clairement le marché en tant que « disque de démonstra
 
 - **Gatefold et esthétique graphique**
 
-Les pochettes de LP de Command étaient visuellement fortes, comportant parfois une couverture du peintre abstrait Josef Albers. La conception du CD comme quelque chose qui allait au-delà d'un simple disque de démonstration pour devenir quelque chose que les gens voudraient posséder a stimulé la culture des collectionneurs qui a suivi.
+Les pochettes de LP de Command étaient visuellement fortes, comportant parfois une couverture de l'artiste abstrait Josef Albers. La conception du CD comme quelque chose qui allait au-delà d'un simple disque de démonstration pour devenir quelque chose que les gens voudraient posséder a stimulé la culture des collectionneurs qui a suivi.
 
 
 - **Slogan promotionnel : « Vous serez surpris dès que vous l'entendrez pour la première fois »**
 
-Les notes de doublure et les promotions de Stereo 35/MM utilisaient des phrases provocatrices telles que « Vous serez surpris lorsque vous l'entendrez pour la première fois » pour susciter l'intérêt des auditeurs. Il s’agit d’un exemple de marketing réussi basé sur la confiance technique.
+Les notes de doublure et les promotions de Stereo 35/MM utilisaient des expressions provocatrices telles que « Vous serez surpris lorsque vous l'entendrez pour la première fois » pour susciter l'intérêt des auditeurs. Il s’agit d’un exemple de marketing réussi basé sur la confiance technique.
 
 
 - **Le conflit entre le commerce et l'art**
@@ -150,7 +150,7 @@ Guitariste de jazz/studio américain (1918-2004)
 
 Il a participé activement à des sessions pour l'Orchestre NBC et à des programmes télévisés et a été l'un des guitaristes les plus occupés de New York des années 1950 aux années 1970.
 
-Il se produit dans un large éventail de genres, y compris non seulement le jazz, mais aussi la musique facile à écouter, la musique latine, la pop et la musique de film.
+Il se produit dans un large éventail de genres, y compris non seulement le jazz, mais aussi la musique easy listening, latine, pop et de film.
 
 ---
 
@@ -162,7 +162,7 @@ Lorsque Enoch Light a fondé Grand Award and Command, il a rassemblé les meille
 
 Il a également joué un rôle important dans les séries « Persuasive Percussion » et « Provocative Percussion ».
 
-Dans les expériences avec les rythmes latins et le positionnement stéréo, la guitare était utile comme instrument pouvant être facilement assigné à gauche et à droite, et le jeu flexible de Mottola a été utilisé.
+Dans les expériences avec les rythmes latins et le positionnement stéréo, la guitare s'est avérée utile en tant qu'instrument pouvant être facilement assigné à la gauche et à la droite, et le jeu flexible de Mottola a été mis à profit.
 
 - **Sortie d'un album solo (de Command)**
 
@@ -181,7 +181,7 @@ Mottola était l'un des piliers qui soutenaient le « parcours lounge/écoute fa
 - **Guitariste régulier de Command Records**
 
 Il participe presque toujours aux enregistrements du Grand Award~Command établi par Light.
-Il était responsable des expériences de localisation de guitare dans la série "Persuasive Percussion".
+Il était chargé de mener des expériences de localisation de guitare dans la série « Persuasive Percussion » et d'autres œuvres.
 
 - **Sortie d'un album solo**
 

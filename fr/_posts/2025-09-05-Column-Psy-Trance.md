@@ -56,7 +56,7 @@ color: #fff;
 | # | Titre de l'artiste/de la chanson | Année | Remarques |
 |----|----------|----|------|
 | 1 | Kraftwerk – Chiffres | 1981 | Fondements des débuts de l'électro |
-| 2 | Tangerine Dream – Sortie | 1981 | Son de synthétiseur cosmique |
+| 2 | Tangerine Dream – Exit | 1981 | Cosmic synth sound |
 | 3 | Charanjit Singh – Dix Ragas sur un rythme disco | 1982 | Utilisation pionnière du TB-303 |
 | 4 | Klaus Schulze – Transe 4 | 1983 | Électroacoustique européenne |
 | 5 | Psychic TV – Connectez-vous | 1982 | Héritage de la culture psychique |

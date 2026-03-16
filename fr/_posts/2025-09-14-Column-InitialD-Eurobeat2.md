@@ -44,7 +44,7 @@ Ici, elle ne fonctionne pas seulement comme musique de fond, mais comme symbole 
 ### À la génération qui hérite de la « mémoire de l’accélération »
 Aujourd'hui, bon nombre des jeunes qui cliquent sur la playlist « Eurobeat – Initial D » sur Spotify ou Apple Music n'ont pas forcément couru sur des cols.
 Mais ils accélèrent dans leurs écouteurs, dérivent dans l'espace virtuel, rient sur Internet et abandonnent leur corps aux mêmes sons.
-L'Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
+Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
 
 ### Liste des chansons représentatives d'Eurobeat (liées à Initial D)
 
@@ -140,7 +140,7 @@ Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : █ █ ██ █ █ ██
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de la voiture : ▒▒▒▒▒▒→ Changement de vitesse AE86 </div>
 
 ### Courir dans les années 90 (Max Coveri)
@@ -150,7 +150,7 @@ Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : ███ ███ ███ ███
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de voiture : ▒▒▒▒▒▒→ Son de dérive RX-7 </div>
 
 ### Nuit de Feu (Niko)
@@ -160,7 +160,7 @@ Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : █ █ █ ███ █ █ █
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de la voiture : ▒▒▒▒▒▒→ Son d'accélération GT-R </div>
 
 
@@ -203,7 +203,7 @@ Moteur : ▂▄▆█▇▆▄▂▄▆█▇▆▄▂
 Coup de pied : █▄█▄█▄█▄█▄█▄█▄█
 Caisse claire : ▄▄▄▄██▄▄▄▄██▄▄
 Charleston : -x-x-x-x-x-x-x-
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Dérive : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (bruit de glissement) </div>
 
 ---

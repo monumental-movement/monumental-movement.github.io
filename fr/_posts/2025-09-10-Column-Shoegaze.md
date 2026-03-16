@@ -14,7 +14,7 @@ title: '[Chronique] Des origines de Shoegaze à nos jours — 10 chefs-d''œuvre
 
 
 
-## Shoegaze - historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
+## Shoegaze - contexte historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
 
 
 Texte : mmr｜Thème : Des origines de Shoegaze à nos jours
@@ -30,7 +30,7 @@ Ci-dessous, nous reviendrons sur l'histoire de Shoegaze par décennie et présen
 - Tout en suivant les tendances du post-punk et de la new wave, une nouvelle approche était recherchée pour fusionner bruit de guitare et mélodies pop.
 - Les labels indépendants tels que Creation Records sont en tête de la scène.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 - [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
 - [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)  
 - [The Jesus and Mary Chain – *Psychocandy* (1985)](https://amzn.to/3IyW48K)  
@@ -77,7 +77,7 @@ color: #fff;
 - Ride, Slowdive, Lush et d'autres ont sorti des chefs-d'œuvre les uns après les autres.
 - Bien qu'il ait temporairement décliné avec la montée de la Britpop, il a été très apprécié par les générations suivantes.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 - [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)  
 - [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)  
 - [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)  
@@ -94,7 +94,7 @@ color: #fff;
 | Seulement peu profond | Ma sanglante Saint-Valentin | Pop rugissante qui a défini le genre |
 | Quand le soleil frappe | Plongée lente | Un symbole d'une belle sensation de flottement |
 | Alison | Plongée lente | Une célèbre ballade éphémère et transparente |
-| Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sensation de rêve |
+| Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sentiment de rêve |
 | Laissez-les tous derrière | Balade | Un chef-d'œuvre aux évolutions du rock progressif |
 | De Luxe | Luxuriant | Bruit de guitare léger et vif |
 | Lignes de désir | Luxuriant | Paysage sonore profond |
@@ -110,7 +110,7 @@ color: #fff;
 - Une nouvelle génération de renaissance du Shoegaze progresse principalement en Amérique.
 - Avec la diffusion de la culture Internet, la réévaluation s'accélère.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 - [M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)](https://amzn.to/46Qy7D5)  
 - [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)  
 - [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)  
@@ -120,7 +120,7 @@ color: #fff;
 - **Synthétiseur logiciel et DAW** (Pro Tools, Logic)
 - **Guitare** : Fender Stratocaster, Telecaster également augmentées
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -143,7 +143,7 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 - Des groupes nouvelle génération comme DIIV et Nothing font leur apparition.
 - Fusion avec Dreampop et Chillwave.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 - [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)  
 - [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)  
 - [Ringo Deathstarr – *Colour Trip* (2011)](https://amzn.to/3IynMCB)  
@@ -176,7 +176,7 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 - Il est également populaire parmi la jeune génération en raison de sa diffusion à travers les festivals et le streaming.
 - Les techniques du Shoegaze sont également liées à la K-POP et à la réinterprétation de la city pop japonaise.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 - [Nothing – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)  
 - [Slowdive – *Everything Is Alive* (2023) ](https://amzn.to/46PP5l8) 
 - [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)  

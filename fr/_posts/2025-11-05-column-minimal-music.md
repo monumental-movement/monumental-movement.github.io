@@ -80,7 +80,7 @@ Cette « répétition libre » est une idée qui mènera plus tard à la musique
 | Méthode de répétition | Chaque joueur passe à la phrase suivante à son propre rythme |
 | Effet | Effet de polyrythmie dû au déphasage |
 
-L'œuvre suivante de Steve Reich, Piano Phase (1967), contrôle strictement les « écarts » dans la répétition.
+L'œuvre suivante de Steve Reich, Piano Phase (1967), contrôlait strictement les « écarts » dans la répétition.
 En faisant jouer deux pianistes la même phrase et en accélérant légèrement le tempo,
 Le modèle sonore change progressivement. Ce « changement de phase » est ce que
 Il prévoyait l’esthétique des structures en boucle dans la techno ultérieure.
@@ -120,7 +120,7 @@ Créer une tension extrême à partir de modèles minimaux.
 |------|------|
 | Battre | 4/4 |
 | temporisation | 128 |
-| Composition sonore | Kick, charleston, caisse claire, subbasse |
+| Composition sonore | Kick, Charleston, Caisse Claire, Subbasse |
 | Changements | Fluctuations psychologiques dues à des changements infimes de filtres et à une perte de rythme |
 
 ### Reconstruction de l'ambiance berlinoise et répétition
@@ -166,8 +166,8 @@ L'espace acoustique a été présenté comme un « minimalisme numérique ».
 
 | Artiste | Travaux principaux | Caractéristiques |
 |------|------------|------|
-| Isão Tomita | 《Clair de lune》《Planète》 | Musique classique électronique/raffinement acoustique |
-| Ryoji Ikeda | 《dataplex》《modèle de test》 | Minimalisme mathématique/fréquence |
+| Isão Tomita | 《Clair de lune》《Planète》 | Raffinement électronique classique/acoustique |
+| Ryoji Ikeda | 《dataplex》《modèle de test》 | Minimalisme mathématique/fréquentiel |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion de l'électroacoustique et du piano |
 | Rei Harakami | 《Bordure Rouge》《lust》 | Répétition chaleureuse de l'électronique Lo-fi |
 | Asa-Chang et pèlerinage | 《Fleurs》 | Intersection du minimalisme et de la voix humaine |

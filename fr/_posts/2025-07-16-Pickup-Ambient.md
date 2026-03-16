@@ -185,13 +185,13 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ### David Donohoe – Nature Morte !
 <a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
-Genre : Ambiant/Minimal
+Genre : Ambiant/Minimal
 
 Sortie : 2004 (label Minimise)
 
 Format : Vinyle
 
-Caractéristiques : Originaire d'Irlande, excellent travail de musique d'ambiance minimale
+Caractéristiques : Originaire d'Irlande, excellent travail de musique d'ambiance minimale.
 
 #### Liste des chansons
 ```md
@@ -256,9 +256,9 @@ D4. The End Game
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 Genre : Ambient/Downtempo/New Age
 
-Sortie : 1992
+Sortie : 1992
 
-Format : CD
+Format : CD
 
 Caractéristiques : Fusion de musique folk et de sons électroniques, nominé aux Grammy Awards, chanson signature "Sweet Lullaby" incluse
 

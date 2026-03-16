@@ -59,12 +59,12 @@ Un ami a ajouté des effets sonores et des rires aux enregistrements, et son sen
 ### Chapitre 1 : Happy End - L'aube du rock japonais (1969-1972)
 
 #### Œuvre représentative : « Kazamachi Roman » (1971)
-Une œuvre monumentale qui dépeint pour la première fois l’atmosphère poétique de la ville de Tokyo dans le contexte du rock.
+Une œuvre monumentale qui dépeint pour la première fois l'atmosphère poétique de la ville de Tokyo dans le contexte du rock.
 Durant cette période, Hosono a joué un rôle important dans la composition musicale tout en jouant de la basse.
 Des chansons telles que « It's Summer » et « Gather the Wind » ont un son urbain mais nostalgique.
 
 #### Contexte historique
-Au milieu d’une forte croissance économique après la guerre.
+En pleine croissance économique d’après-guerre.
 Avec l'essor du folk et du GS, la recherche d'une nouvelle expression appelée « rock japonais » a commencé.
 Happy End a été le premier groupe à explorer « des rythmes japonais qui n'étaient pas des imitations de l'anglais ».
 
@@ -84,7 +84,7 @@ Après cela, c’est devenu la base pour lui permettre de poursuivre ses propres
 
 #### Chef-d'œuvre
 
-- "Maman caramel" (1975)
+- « Maman caramel » (1975)
   
 Ils fusionnent des éléments de folk et de rock psychédélique et montrent une musicalité directement liée au Happy End ultérieur.
 Hosono a participé à la basse et au clavier, démontrant ses talents d'improvisation et d'arrangement.
@@ -160,14 +160,14 @@ Cette atmosphère détendue se reflète dans le son chaleureux et organique.
 
 #### Travaux représentatifs :
 - **Yellow Magic Orchestra『Solid State Survivor』(1979)**
-- **« Musique de fond » (1981)**
+- **"BGM" (1981)**
 - **"Technodélique" (1981)**
 
 YMO (Yellow Magic Orchestra) est une unité révolutionnaire qui a fait connaître la techno pop à travers le monde.
 En tant que leader, Hosono a utilisé des machines à rythmes et des séquenceurs pour fusionner humour asiatique et sons futuristes.
 
 #### Contexte historique
-Au début des années 1980, le Japon atteint le sommet de sa croissance technologique et économique.
+Au début des années 1980, le Japon atteint l’apogée de sa prospérité technologique et économique.
 Une époque où le développement des ordinateurs, des jeux vidéo et des instruments de musique électroniques fusionnait avec la musique.
 Le son de YMO était un symbole du Japon en tant que nation électronique.
 
@@ -254,11 +254,11 @@ Hosono incarne cette tendance à travers ses sons, en disant : « La nostalgie i
 #### Environnement de production
 "Daisyworld Studio" est un studio privé à Nakameguro.
 Utilise un microphone vintage, un écho à bande et un piano droit.
-Pendant l'enregistrement, il a éteint la climatisation et s'est concentré sur « la respiration du son ».
+Pendant l'enregistrement, il a éteint le climatiseur et s'est concentré sur « la respiration du son ».
 
 #### Anecdote
 Quand l'ingénieur du son a arrêté de mixer pendant l'enregistrement de "HoSoNoVa",
-Hosono aurait déclaré : « J'aime la façon dont le son repose. » Vous pouvez avoir un aperçu de son attention inhabituelle envers « l'espace » du son.
+Hosono aurait déclaré : « J'aime la façon dont le son se repose. » Vous pouvez avoir un aperçu de son attention inhabituelle envers « l'espace » du son.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qeHTFlkBBcM?si=pM6PE5l2p5zEWcoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -53,7 +53,7 @@ color: #fff;
 ### Travaux/projets représentatifs de Goldsworthy
 
 - **Série Boules de Neige** : Une énorme boule de neige est installée dans une ville et affichée au fur et à mesure qu'elle fond au fil du temps.
-- **Icicle Star** : Un morceau de glace transformé en forme d'étoile qui fond au lever du soleil.
+- **Icicle Star** : Un morceau de glace assemblé en forme d'étoile et qui fond au lever du soleil.
 - **Stone River (1997)** : Un mur de pierre sinueux installé à l'Université de Stanford aux États-Unis.
 - **Rowan Leaves and Hole** : Une œuvre dans laquelle des feuilles rouges sont disposées en cercle et flottent à la surface de l'eau.
 - **Storm King Wall (1997-98)** : Un long mur de pierre serpentine au Storm King Art Center de New York.
@@ -118,7 +118,7 @@ color: #fff;
 #### nuit
 
 - William Basinski - *Les boucles de désintégration*
-- Eliane Radigue - *Trilogie de la Mort*
+- Éliane Radigue - *Trilogie de la Mort*
 - Biosphère ― *Substrat*
 
 ### Flux saisonnier

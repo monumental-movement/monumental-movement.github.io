@@ -62,7 +62,7 @@ Les membres initiaux ont radicalement changé, le chant, la basse et la batterie
 
 ---
 
-L'EP de 7 pouces Nervous Breakdown, sorti en 1979, fut le premier disque à définir Black Flag. Cette œuvre a été publiée par SST Records, qui a ensuite été créée, et a été distribuée en tant que production totalement indépendante. Les chansons étaient courtes, rapides et directes, avec une agressivité exceptionnelle sur la côte ouest de l'époque.
+L'EP de 7 pouces Nervous Breakdown, sorti en 1979, fut le premier disque à définir Black Flag. Cette œuvre a été publiée par SST Records, qui a ensuite été créée, et a été distribuée en tant que production totalement indépendante. Les chansons étaient courtes, rapides et directes, et avaient une agressivité exceptionnelle sur la côte ouest à l'époque.
 
 La chanson titre, "Nervous Breakdown", parle de dépression mentale, mais elle est pleine d'énergie urgente plutôt que d'introspection. Les paroles sont concises, présentant les émotions comme brutes plutôt que descriptives. Cette approche est devenue la base du punk hardcore ultérieur.
 
@@ -128,9 +128,9 @@ Ce modèle DIY a créé un précédent réaliste pour les scènes ultérieures d
 
 ## Changement de musicalité : De la vitesse au poids
 
-Au début de Black Flag, la vitesse et la brièveté étaient leurs armes. Cependant, pendant la période Rollins, les chansons sont progressivement devenues plus lentes et plus lourdes. Les riffs se répétaient et la texture bruitiste s'accentuait.
+Au début de Black Flag, la vitesse et la brièveté étaient leurs armes. Cependant, pendant la période Rollins, les chansons sont progressivement devenues plus lentes et plus lourdes. Les riffs se répétaient et la texture bruyante s'accentuait.
 
-Ce changement n’était pas seulement une expérience, mais aussi le reflet de la vie sur la route, de l’épuisement physique et de la tension mentale. À mesure que la durée de la représentation augmente, la relation avec le public change également. Au milieu du mosh violent, la musique commence à prendre le caractère d'une sorte de test d'endurance.
+Ce changement n'était pas seulement une expérience, mais aussi le reflet de la vie en tournée, de l'épuisement physique et de la tension mentale. À mesure que la durée de la représentation augmente, la relation avec le public change également. Au milieu du mosh violent, la musique commence à prendre le caractère d'une sorte de test d'endurance.
 
 Au cours de cette période, Black Flag a élargi les limites du hardcore et a jeté les bases d'influences ultérieures sur le sludge, le grunge et le rock alternatif.
 

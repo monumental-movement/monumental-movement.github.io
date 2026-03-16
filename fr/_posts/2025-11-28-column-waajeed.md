@@ -10,23 +10,24 @@ tags:
 - House
 - Deep House
 - 10s
-title: 【コラム】 Waajeed —— デトロイトの系譜を継ぎ、更新し続ける創造者
+title: '[Chronique] Waajeed —— Un créateur qui ne cesse de renouveler la généalogie
+  de Détroit'
 ---
 
 
 
 ## **Introduction**
 
-文：mmr｜テーマ：Waajeed の生涯と作品、デトロイトの系譜における役割について 
+Texte : mmr｜Thème : La vie et l'œuvre de Waajeed, et son rôle dans la généalogie de Détroit
 
 
-デトロイトの音楽史を語るとき、しばしば焦点はテクノ黎明期の巨人たちに置かれる。しかし、都市そのものが持つ **ブラック・ミュージックの血脈**――ヒップホップ、ゴスペル、ソウル、ハウス、ジャズ、そしてテクノへ至る流れ――を “再統合” し、2000年代以降の新しい表現へと昇華させたアーティストの存在は少なくない。
+Lorsqu'on évoque l'histoire musicale de Détroit, l'accent est souvent mis sur les géants des débuts de la techno. Cependant, de nombreux artistes ont « réintégré » la **lignée de la musique noire** de la ville - hip-hop, gospel, soul, house, jazz et techno - et l'ont sublimée dans de nouvelles formes d'expression depuis les années 2000.
 
-その中心の一人こそが、**Waajeed（ワジード）** である。
-Slum Village の周辺でキャリアをスタートし、Platinum Pied Pipers（PPP）、Tiny Hearts、そして自身のレーベル **Dirt Tech Reck** を軸に、デトロイトの音楽美学を “未来へ接続するプラットフォーム” として機能させ続けてきた。
+Une personne au centre de tout cela est **Waajeed**.
+Débutant sa carrière dans Slum Village, il a continué à faire de l'esthétique musicale de Détroit une « plateforme de connexion avec le futur » avec Platinum Pied Pipers (PPP), Tiny Hearts et son propre label **Dirt Tech Reck**.
 
-2010年代後半以降、彼はより直接的に **デトロイト・ハウス／テクノの流れに合流しながらも、ブラック・ルーツの表現を前面に押し出す作品群** を構築。
-特に **『Shango EP』（2017）** と、現段階での代表作の一つである **『Mother EP』（2018）** は、デトロイトの伝統を受け継ぎながら、クラブ・ミュージックの精神性とコミュニティ性を強烈に提示した作品として位置づけられている。
+Depuis la fin des années 2010, il construit une œuvre qui suit plus directement le flow de la house/techno de Détroit, tout en mettant également au premier plan l’expression des racines noires.
+En particulier, **``Shango EP'' (2017)** et l'un de leurs chefs-d'œuvre actuels, **``Mother EP'' (2018)** se positionnent comme des œuvres qui présentent fortement la spiritualité et la nature communautaire de la musique de club tout en héritant des traditions de Détroit.
 
 
 ---
@@ -45,13 +46,13 @@ color: #fff;
 </style>
 
 
-# **1. 生い立ちと背景：デトロイトという “始まりの都市”**
+# **1. Jeunesse et parcours : Détroit, la « ville des débuts »**
 
-Waajeed（本名 Robert O'Bryant）は、1970年代後半にデトロイトで生まれる。
-アーティスト名はアラビア語に由来し、「見つける」「発見する」という意味を持つ言葉から取られている。
+Waajeed (de son vrai nom Robert O'Bryant) est né à Détroit à la fin des années 1970.
+Le nom de l'artiste est d'origine arabe et dérive d'un mot signifiant « trouver » ou « découvrir ».
 
-幼少期から **デトロイトのソウル／ゴスペル文化** に影響を受ける環境に育ち、後に Slum Village と交流を持つようになる。
-À la fin des années 1990 et au début des années 2000, Détroit créait un nouveau standard pour le néo-soul/hip-hop, symbolisé par J Dilla. A l'avant-garde dans ce domaine, Waajeed s'est tourné vers la production musicale tout en travaillant également comme photographe.
+Dès son plus jeune âge, il a grandi dans un environnement influencé par la **culture soul/gospel de Détroit**, et est ensuite entré en contact avec Slum Village.
+À la fin des années 1990 et au début des années 2000, Détroit créait un nouveau standard pour le néo-soul/hip-hop, symbolisé par J Dilla. Waajeed était à l'avant-garde dans ce domaine et, tout en travaillant également comme photographe, il s'est tourné vers la production musicale.
 
 ### **Quantity Relation avec le village des bidonvilles**
 

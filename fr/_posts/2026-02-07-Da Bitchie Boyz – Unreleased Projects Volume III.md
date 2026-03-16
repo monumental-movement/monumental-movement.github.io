@@ -9,14 +9,14 @@ permalink: /fr/da-bitchie-boyz-unreleased-projects-volume-iii/
 tags:
 - House
 - 00s
-title: Da Bitchie Boyz – Unreleased Projects Volume III
+title: Da Bitchie Boyz – Projets inédits Volume III
 ---
 
 
 
-Da Bitchie Boyzは、Fréderic TharreauとSami Zitouni Navarreによるデュオ。Fréderic Tharreauは、Beatbreaker, Bibi, One Slammin' Phrog, Roger Murttock名義でも活動している。Sami Zitouni Navarreは、French house/electroプロデューサー／DJで、Cuts'N'Drops, Norman Bridges, Sami Dee, The Flamantic Orchestra名義でも活動している。
+Da Bitchie Boyz est le duo composé de Fréderic Tharreau et Sami Zitouni Navarre. Fréderic Tharreau interprète également Beatbreaker, Bibi, One Slammin' Phrog et Roger Murttock. Sami Zitouni Navarre est un producteur/DJ house/électro français qui se produit également sous les noms de Cuts'N'Drops, Norman Bridges, Sami Dee et The Flamantic Orchestra.
 
-「Unreleased Projects Volume III」は、2000年にレーベルDa Bitchie BoyzからリリースされたHouseトラック。
+"Unreleased Projects Volume III" est un morceau House sorti par le label Da Bitchie Boyz en 2000.
 
 #### Liste des chansons
 ```md

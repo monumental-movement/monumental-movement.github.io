@@ -59,7 +59,7 @@ C'était une extension de Brian Eno, mais avec une émotion plus personnelle et 
 Dans les premiers EP, les contraintes physiques du matériel façonnaient le caractère même du son.
 Les **erreurs manuelles** telles que les Roland TB-303, SH-101 et Akai S950 ont défini son esthétique.
 
-Les problèmes (atomisation du bruit) et les changements de tempo irréguliers sont
+Des problèmes (atomisation du bruit) et des changements de tempo irréguliers sont
 Elle deviendra plus tard à l’origine d’un mouvement appelé « IDM (Intelligent Dance Music) ».
 
 ---
@@ -88,7 +88,7 @@ C'est étonnant qu'ils aient créé cette complexité dans un environnement pré
 De 1997 à 1999, Aphex Twin a combiné la musique avec « l'horreur visuelle ».
 Le groupe PV créé en collaboration avec Chris Cunningham **a converti l'instabilité du son électronique en amorphité des images**.
 
-À l'époque où MTV le présentait comme le "génie le plus étrange"
+À l'époque où MTV le présentait comme le "génie le plus étrange".
 Il sentait déjà que sa musique risquait de s’intégrer à la culture populaire.
 
 ---
@@ -153,7 +153,7 @@ C’est dans cet espace vide que les auditeurs ont la possibilité de projeter l
 
 Après Aphex Twin, la musique électronique n'est plus seulement un « genre ».
 Les artistes influencés par lui incluent Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-Toutes ces questions reconsidèrent la « génération de sens » du son lui-même.
+Toutes ces questions reconsidèrent la génération de sens du son lui-même.
 
 > « À une époque où la musique est convertie en données, Aphex Twin est devenu un « sculpteur de perception ».
 
@@ -321,7 +321,7 @@ flowchart TD
 
 ## Émotion vs données (diagramme abstrait)
 
-**Description** : Un diagramme conceptuel montrant comment « l'expression émotionnelle humaine » et la « manipulation de données/algorithmique » sont combinées dans une chanson d'Aphex Twin.
+**Description** : Un diagramme conceptuel montrant comment « l'expression émotionnelle humaine » et la « manipulation de données/algorithmes » sont combinées dans une chanson d'Aphex Twin.
 
 <div class="mermaid">
 
@@ -437,7 +437,7 @@ Diagramme de structure polyrythmique. Dans les œuvres d'Aphex Twin, un « beat 
 
 ---
 
-### Chronologie de l'évolution acoustique (plage de fréquence × année)
+### Chronologie de l'évolution acoustique (gamme de fréquence × année)
 
 Gamme de fréquences moyenne répartie par tranche d’âge.
 Initialement, il s'est concentré sur les gammes moyennes et basses, et après les années 2000, les gammes hautes et ultra basses se sont développées.

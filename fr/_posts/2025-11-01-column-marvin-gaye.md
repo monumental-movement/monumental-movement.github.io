@@ -11,7 +11,7 @@ tags:
 - 60s
 - 70s
 - 80s
-title: '[Chronique] Marvin Gaye : Entre amour et douleur - Le salut et la destruction
+title: '[Chronique] Marvin Gaye : Entre amour et douleur – Le salut et la destruction
   vus par le Dieu des âmes'
 ---
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Prologue : Intersection de la lumière et de l'ombre
 
-La vie de Marvin Gaye, connu sous le nom de « Prince de la Soul » et « Prince de la Motown », a été remplie de complications familiales, de conflits avec lui-même, d'efforts créatifs constants et d'une fin tragique derrière son succès spectaculaire. Sa musique était plus qu'un simple « hit pop » ; c'était un amalgame de messages sociaux, de confessions personnelles et de grooves.
+La vie de Marvin Gaye, connu sous le nom de « Prince de la soul » et « Prince de la Motown », a été remplie de complications familiales, de conflits avec lui-même, d'efforts créatifs constants et d'une fin tragique derrière son succès spectaculaire. Sa musique était plus qu'un simple « hit pop » ; c'était un amalgame de messages sociaux, de confessions personnelles et de grooves.
 
 Dans cet article, nous le reconsidérerons non seulement comme un génie musical, mais aussi comme un être humain qui a vécu une « vie étrange ». Nous dévoilerons son évolution selon deux axes : les changements dans la musique et ses propres oscillations intérieures.
 
@@ -64,7 +64,7 @@ Au milieu des années 1950, Gaye s'est enrôlé dans l'US Air Force, mais a ét�
 Finalement, il déménagea dans la région de Détroit/Motown et, en 1961, il saisit l'opportunité de faire ses débuts en tant que chanteur solo.
 
 ### Rencontre avec Motown
-Une rencontre fortuite avec Berry Gordy, le fondateur du label Motown, lui ouvre la voie pour devenir chanteur solo. Après ses débuts, tout en s'adaptant au système de production de masse de succès pour les jeunes de la Motown, il a commencé à développer un désir de « chansons pour adultes » et « d'une voix qui en dit long ».
+Une rencontre avec Berry Gordy, fondateur du label Motown, lui ouvre la voie pour devenir chanteur solo. Après ses débuts, tout en s'adaptant au système de production de masse de succès pour les jeunes de la Motown, il a commencé à développer un désir de « chansons pour adultes » et « d'une voix qui en dit long ».
 Au cours de cette période, il a progressivement commencé à réaliser qu'il pouvait passer du « simple chant » à « parler à travers des chansons ».
 
 ---
@@ -94,7 +94,7 @@ Le 21 mai 1971 sort l’album « What’s Going On ». En se concentrant sur des
 Avec cet album, il a participé lui-même à l'écriture, à la composition et à la production de l'album, montrant ainsi son indépendance en tant qu'artiste.
 
 ### « Let's Get It On » (1973) et l'exploration de la sexualité
-Dans « Let's Get It On » de 1973, elle approfondit le thème de l'amour et du désir, démontrant son « sex-appeal » en tant que chanteuse soul. Il y a un net glissement de l'ancienne « accusation sociale » vers la « passion intérieure ».
+Dans « Let's Get It On » de 1973, elle approfondit le thème de l'amour/désir, démontrant son « sex-appeal » en tant que chanteuse soul. Il y a un net glissement de l'ancienne « accusation sociale » vers la « passion intérieure ».
 Durant cette période, Gaye a connu la joie de la création, ainsi que l'échec amoureux et la pression financière dans sa vie personnelle, et ces fluctuations jettent une ombre sur son œuvre.
 
 ### « Here, My Dear » (1976) – Etablissement comme album confessionnel
@@ -107,7 +107,7 @@ Après la sortie de cet album, Gaye était épuisé physiquement et mentalement 
 ## Chapitre 4 : Une période de chaos et de renaissance (1977-1983)
 
 ### Évasion fiscale, fuite d'Europe, préparation au redémarrage
-À la fin des années 1970 et au début des années 1980, les hommes homosexuels étaient confrontés à de nombreux défis aux États-Unis, notamment des problèmes fiscaux, la consommation de drogues et la stagnation de la créativité. Déménager en Belgique et passer plus de temps en Europe est devenu une « évasion », tant musicalement que physiquement.
+À la fin des années 1970 et au début des années 1980, les hommes homosexuels étaient confrontés à de nombreux défis aux États-Unis, notamment des problèmes fiscaux, la consommation de drogues et la stagnation de la créativité. Déménager en Belgique et passer plus de temps en Europe s'apparentait à une « évasion », tant musicalement que physiquement.
 Au milieu de tout cela, il cherchait un retour, à la recherche de nouveaux sons et de nouveaux environnements.
 
 ### "Amour de minuit" (1982)/"Guérison sexuelle"
@@ -155,13 +155,23 @@ En outre, il existe un mouvement visant à faire de sa vie un film ou un documen
 
 ## Dernier chapitre : L'âme qui continue de chanter
 
-En regardant la vie de Marvin Gaye, il semble que si la musique elle-même a été son « salut », elle a aussi été sa « captivité ». À travers sa voix, il a continué à chanter la douleur de la société, la joie de l'amour et ses propres luttes.
+En repensant à la vie de Marvin Gaye, il semble que si la musique elle-même a été son « salut », elle a aussi été sa « captivité ». À travers sa voix, il a continué à chanter la douleur de la société, la joie de l'amour et ses propres luttes.
 On lui attribue les mots « Si vous ne trouvez pas la paix en vous-même, vous ne la trouverez jamais ailleurs ».
 Il y a une ombre dans la lumière de la musique, et il y a de la lumière dans l'ombre – je pense que c'est cette antinomie qui fait de lui plus qu'une simple « légende ».
 Sa voix continue de se faire entendre à travers le temps.
 J'espère que ce manuscrit sera l'occasion de reconsidérer Marvin Gaye, sa musique et son étrange vie.
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xrcfo3TNq1Y?si=MrVaktLt0phricdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ## Addendum : Chronologie/Graphiques
 

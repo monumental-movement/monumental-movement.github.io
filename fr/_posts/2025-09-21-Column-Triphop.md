@@ -50,7 +50,7 @@ Le trip hop est plus qu'un simple genre musical, il s'est répandu dans le monde
 
 ---
 
-### La généalogie du trip hop
+### Généalogie du trip hop
 
 <div class="mermaid">
 flowchart TD
@@ -131,7 +131,7 @@ Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが�
 On dit que la voix ennuyeuse de Beth Gibbons reflète la tension et la solitude qu'elle ressent sur scène dans son son.
 
 #### Technologie de production
-Une fusion de platines et d'instruments live. Utilisation multicouche de l'échantillonnage et de l'enregistrement analogique.
+Une fusion de platine et d'instruments live. Utilisation multicouche de l'échantillonnage et de l'enregistrement analogique.
 
 #### La vidéo fonctionne
 Il existe des documentaires sur les tournées des années 90 comme "Welcome to Portishead".
@@ -175,7 +175,7 @@ Utilise pleinement la reconstruction du breakbeat, le jonglage des rythmes et l'
 Présenter la « tranquillité japonaise » à l'échelle mondiale à travers des tournées mondiales. Il est respecté par la scène hip-hop occidentale.
 
 #### Technologie de production
-Un style qui considère la platine comme un « instrument » et tente de la combiner avec des instruments de musique japonais et des sons environnementaux. Spécialisé non seulement dans le scratch mais également dans la production spatiale.
+Un style qui considère la platine comme un « instrument » et tente de la fusionner avec des instruments de musique japonais et des sons environnementaux. Spécialisé non seulement dans le scratch mais également dans la production spatiale.
 
 #### La vidéo fonctionne
 

@@ -19,7 +19,7 @@ title: '[Chronique] Jungle / Drum & Bass Reconsidered : Réévaluer la musique c
 
 ## La veille de la naissance de la jungle ─ Accumulation de culture breakbeat
 
-Texte : mmr｜Thème : Une analyse multiforme des raisons pour lesquelles la jungle/drum and bass, qui est née dans l'environnement urbain de Londres dans les années 1990, est aujourd'hui réévaluée, basée uniquement sur les faits de la technologie musicale, de l'origine sociale et de l'influence culturelle.
+Texte : mmr｜Thème : Une analyse multiforme des raisons pour lesquelles la jungle/drum and bass, née dans l'environnement urbain de Londres dans les années 1990, est aujourd'hui réévaluée, basée uniquement sur les faits de la technologie musicale, de l'origine sociale et de l'influence culturelle.
 
 En Grande-Bretagne, au début des années 1990, les breakbeats dérivés du hip-hop, la culture basse du reggae/dub et la musique dance plus rapide de la rave évoluaient en parallèle. À Londres en particulier, les communautés immigrées et la culture des clubs de jeunes se croisaient étroitement et le mélange musical était monnaie courante.
 
@@ -86,7 +86,7 @@ Malgré cela, la culture de l’échantillon centrée autour de l’Amen Blake a
 
 ## Déclin temporaire et intégration
 
-Au milieu des années 2000, la drum'n'bass a été intégrée à la musique pop et à la musique publicitaire, et certains la considéraient comme surconsommée. Dans le même temps, d’autres genres ont émergé sur la scène des clubs et le niveau d’attention qui leur est accordé a relativement diminué.
+Au milieu des années 2000, la drum'n'bass a été intégrée à la musique pop et à la musique publicitaire, et certains la considéraient comme surconsommée. Dans le même temps, d’autres genres ont émergé sur la scène des clubs et le niveau d’attention a relativement diminué.
 
 Cependant, le genre lui-même n’a pas disparu durant cette période, et la scène underground a continué à connaître des sorties et des événements. En fait, d’une certaine manière, le manque d’attention extérieure a conduit à un approfondissement de l’introversion.
 
@@ -106,7 +106,7 @@ De plus, avec la diffusion d’Internet et des plateformes de distribution, il e
 
 ## Influence sur la musique contemporaine
 
-Il existe de nombreuses structures rythmiques dans la musique électronique actuelle, le hip-hop et la musique expérimentale qui ont des influences claires de la jungle/drum'n'bass. Le rythme irrégulier et propulsif en particulier a été cité dans tous les genres.
+Dans la musique électronique, le hip-hop et la musique expérimentale d'aujourd'hui, il existe de nombreuses structures rythmiques qui ont clairement une influence jungle/drum'n'bass. Le rythme irrégulier et propulsif en particulier a été cité dans tous les genres.
 
 Cette influence est souvent plus structurelle que timbrale et s'étend aux réinterprétations des breakbeats.
 

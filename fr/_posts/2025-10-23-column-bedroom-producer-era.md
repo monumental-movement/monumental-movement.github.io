@@ -27,7 +27,7 @@ La magie de la production musicale, autrefois confinée aux murs d'un studio, es
 
 Un producteur de chambre n’est pas seulement quelqu’un qui crée du son seul.
 Ils sont l'incarnation de la « démocratisation » de l'industrie musicale, et en même temps ils sont aussi un symbole de la « créativité de la solitude ».
-De nos jours, avec un accès direct au monde via Spotify et SoundCloud, la chambre n'est plus un « espace privé ». Grâce à son réseau, elle est devenue la base d'une nouvelle ville musicale = ville numérique.
+Aujourd'hui, avec un accès direct au monde via Spotify et SoundCloud, la chambre n'est plus un « espace privé ». Grâce à son réseau, elle est devenue la base d'une nouvelle ville musicale = ville numérique.
 
 ---
 
@@ -51,7 +51,7 @@ color: #fff;
 ### Cassette MTR ouvre la porte à la production personnelle
 
 Dans les années 1980, la **cassette MTR (enregistreur multipiste)** lancée par des sociétés telles que TASCAM et Fostex a jeté les bases de la culture de l'enregistrement domestique.
-Le fait que même la qualité sonore basse fidélité puisse être superposée à la maison a donné aux musiciens amateurs la possibilité de « se suffire à eux-mêmes ».
+Le fait que même la qualité sonore basse fidélité puisse être superposée à la maison a donné aux musiciens amateurs la possibilité d'être « autosuffisants ».
 Les germes de ce développement avaient déjà commencé lorsque Ryuichi Sakamoto faisait des démos dans son home studio et que les artistes amateurs distribuaient leurs sources sonores ainsi que des zines.
 
 ### Révolution informatique et MIDI
@@ -67,7 +67,7 @@ Les compositeurs disposent désormais de studios de bureau et la musique coule d
 
 ### La révolution appelée DAW
 
-Dans les années 2000, avec l'avènement de Pro Tools, Cubase, Logic Pro et Ableton Live, le DTM a évolué vers un DAW (Digital Audio Workstation).
+Dans les années 2000, avec l’avènement de Pro Tools, Cubase, Logic Pro et Ableton Live, le DTM a évolué vers un DAW (Digital Audio Workstation).
 L'enregistrement, le montage, le mixage et le mastering peuvent tous être effectués sur un seul PC.
 De plus, la prolifération des **sources sonores plug-in** et des **packs d'échantillons** a rendu inutile l'équipement physique du studio.
 
@@ -77,7 +77,7 @@ Les bruits de l'extérieur, le craquement du lit, le bruit de la respiration en 
 
 ---
 
-## Chapitre 3 : L'ère de SoundCloud et YouTube — « Partager » et « Découvrir »
+## Chapitre 3 : L'ère de SoundCloud et YouTube — « Partager » et « Découvrir »
 
 ### Nouveau formulaire « release »
 

@@ -19,7 +19,7 @@ title: Orjan – Globe arctique / Prison Break
 
 Cette chanson présente une montée en émotions et une chute énergétique, vous permettant de profiter pleinement du charme de la musique transe.
 
-En revanche, "Prison Break" est une chanson à l'ambiance sombre et dramatique. La superposition de la ligne de basse lourde et des sons de synthé augmente la tension, créant un monde de transe plein de vitesse.
+En revanche, "Prison Break" est une chanson à l'atmosphère sombre et dramatique. La superposition de la ligne de basse lourde et des sons de synthé augmente la tension, créant un monde de transe plein de vitesse.
 
 Cette chanson se caractérise par un rythme puissant et une énergie intense, entraînant l'auditeur dans un monde de musique entraînante.
 

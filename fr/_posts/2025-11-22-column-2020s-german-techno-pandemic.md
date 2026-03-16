@@ -25,7 +25,7 @@ title: '[Chronique] La techno allemande et la pandémie dans les années 2020 :
 ## Pandémie : Une véritable histoire de tout, du confinement à la réouverture en passant par la redéfinition de la musique
 
 
-Texte : mmr | Thème : Comment la techno allemande a changé dans les années 2020, ce qui a été perdu et ce qui a été gagné
+Texte : mmr｜Thème : Comment la techno allemande a changé dans les années 2020, qu'est-ce qui a été perdu et qu'a-t-il gagné ?
 
 
 La techno allemande des années 2020 a connu un changement sismique dramatique centré sur la **pandémie de COVID-19 (2020-2022)**.
@@ -88,7 +88,7 @@ Pour la première fois de son histoire, la ville techno de renommée mondiale a 
 
 ### Impact:
 - Tous les clubs fermés (mars 2020 à début 2021)
-- Tous fermés incluant Berghain et Trésor
+- Tous fermés y compris Berghain et Trésor
 - Les revenus du tourisme des clubs sont réduits à zéro
 - Des professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
 - Aide du gouvernement avec le « Kurzarbeitegeld » (indemnité de chômage partiel)
@@ -97,7 +97,7 @@ Les statistiques et les médias confirment que des dizaines de milliers de trava
 
 ---
 
-# Chapitre 3 : L’ère du ligne et « United We Stream » (2020-2021)
+# Chapitre 3 : L'ère du ligne et « United We Stream » (2020-2021)
 La pandémie a poussé la culture des clubs en ligne.
 
 ## ● Lancement de « United We Stream »
@@ -114,7 +114,7 @@ Aller en ligne a bousculé le stéréotype selon lequel les clubs sont une cultu
 Cela a prouvé que la culture des clubs peut également fonctionner comme un support numérique.
 
 ## ● La musique devient introvertie à cause des DJ sets sans public
-Puisqu'il n'y a pas de sol,
+Puisqu'il n'y a pas de plancher,
 Les DJ sets se sont orientés vers les tendances suivantes :
 
 - Le BPM diminue
@@ -137,7 +137,7 @@ Par conséquent, la production des EP/albums se déroulera dans la direction sui
 - Drone de bruit
 - Breakbeats/Électro
 
-En fait, les œuvres sorties en 2020-2021 sont plus destinées à l’écoute qu’aux sommets des clubs.
+En fait, les œuvres sorties en 2020-2021 sont davantage destinées à l’écoute qu’aux sommets des clubs.
 
 ## ● 2) La techno à grande vitesse se développe grâce aux réseaux sociaux
 Un renversement intéressant s’est également produit.
@@ -160,7 +160,7 @@ Cet étrange phénomène a progressé en 2020-2021.
 ## ● Les clubs seront légalement reclassés en « équipements culturels » (2021)
 En 2021, le Bundestag allemand a pris une décision historique.
 
-**Protection juridique des clubs en tant qu'« institutions culturelles » (Kultureinrichtung)**
+**Protéger légalement les clubs en tant qu'« institutions culturelles »**
 
 Il s’agit en fait d’un tournant majeur.
 Jusqu’alors, les clubs étaient considérés comme une industrie de la vie nocturne.
@@ -286,7 +286,7 @@ timeline
 On ne sait pas si cela va continuer, mais cela pourrait continuer en raison des facteurs suivants :
 
 - La présentation visuelle sur SNS se marie bien avec la musique à grande vitesse
-- Les esthétiques plus jeunes préfèrent une « haute densité d'informations »
+- Les jeunes esthétiques préfèrent la « haute densité d'informations »
 - Le marché international de la hard techno est en expansion
 
 ## ● 2) Le club sera protégé en tant que ressource culturelle de la ville.

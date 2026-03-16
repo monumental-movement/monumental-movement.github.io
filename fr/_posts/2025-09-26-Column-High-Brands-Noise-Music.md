@@ -76,7 +76,7 @@ Mais ironiquement, c’est cette attitude « anti-commerciale » qui en fait un 
 
 ### Importance contemporaine : le bruit crée de l'instabilité
 
-La mode du 21e siècle est confrontée aux risques de la « consommation de masse » et de la « circulation à grande vitesse ».
+La mode du 21ème siècle est confrontée aux risques de la « consommation de masse » et de la « circulation à grande vitesse ».
 Par conséquent, le bruit met l’accent sur « l’instabilité » et le « caractère unique » pour contrecarrer l’homogénéisation.
 Les rugissements et les bruits mettent le public mal à l'aise et l'excitent, prouvant que la marque est un « provocateur ».
 
@@ -154,7 +154,7 @@ Artistes associés : Sex Pistols (Johnny Rotten), premier groupe industriel.
 
 Les bruits environnementaux et le bruit blanc ont été introduits dans les années 2000.
 
-Fusionner le bruit urbain avec « l’élégance ».
+Fusionner le bruit urbain avec « l'élégance ».
 
 Artistes associés : Ryoji Ikeda, Oval.
 
@@ -168,7 +168,7 @@ Artistes associés : Aphex Twin (côté bruit/ambiance), Chris Watson.
 
 ✦ [Louis Vuitton](https://amzn.to/3KgB7jB)
 
-A l'époque de Nicolas Ghesquière, la musique expérimentale s'introduit dans le spectacle.
+A l'époque de Nicolas Ghesquière, la musique expérimentale est introduite dans le spectacle.
 
 Une fusion de noise urbaine et d'électro.
 
@@ -249,14 +249,14 @@ Du côté de la musique noise/expérimentale, le contact avec des marques haut d
 
 ### COMME des GARÇONS / Gucci / Prada
 
-Archives de documents liés aux « artistes du bruit/expérimentaux/acoustiques qui ont été réellement utilisés dans des spectacles/campagnes (ou dont la relation a été clairement signalée) »
+Archives de documents liés aux « artistes du bruit/expérimentaux/acoustiques qui ont été réellement utilisés dans des spectacles/campagnes (ou dont la relation a été clairement signalée) »
 
 COMME des GARÇONS — Une tradition d'incorporation de sons/bruit expérimentaux dans la « musique de spectacle »
 
 | Spectacle / Matériaux | Artistes en vedette | Points supplémentaires | Références |
 | ------------------------------------ | ------------------------------------------------- : | ------------------------------------------------------------------------------------ | ----------------- |
-| Comme des Garçons SS15 (épisode de collection tel que "Red") | **Sons de type drone, dont Sunn O))), Terre (drone/drone metal)** | Dazed a rapporté dans un article spécial que « des groupes de type drone (Sunn O))), Earth) ont été utilisés dans la bande originale de SS15. » Un exemple typique où l'esthétique sombre et le son de la série sont fortement liés. ([Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
-| Comme des Garçons (son réalisé pour les défilés de mode) | **Florian Hecker** (produit de la musique pour la mode/sorties 12" disponibles) | Selon certaines informations, Hecker aurait produit plusieurs chansons pour Comme des Garçons, et une édition limitée a été publiée par les Editions Mego. Une pièce "son contemporaine" exclusivement pour le spectacle. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 (épisode de collection tel que "Red") | **Sons de type drone, dont Sunn O))), Terre (drone/drone metal)** | Dazed a rapporté dans un article spécial que « des groupes de type drone (Sunn O))), Earth) ont été utilisés dans la bande originale de SS15. » Un exemple typique où l'esthétique sombre et le son de la série sont fortement liés. ([Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Étourdi](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons (son réalisé pour les défilés de mode) | **Florian Hecker** (produit de la musique pour la mode/sorties 12" disponibles) | Selon certaines informations, Hecker aurait produit plusieurs chansons pour Comme des Garçons, et une édition limitée a été publiée par les Editions Mego. Une pièce "son contemporaine" exclusivement pour le spectacle. |
 | PE14/Playlist d'archives, etc. | Afficher la playlist (mélange de sons expérimentaux, de sons environnementaux et de bruit) | Exemple de collage sonore pour une émission téléchargée sur le SoundCloud/playlist de Dazed, etc. Pratique pour « vérifier » les sources sonores de l'émission. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
 ---
@@ -311,7 +311,7 @@ COMME des GARÇONS — Une tradition d'incorporation de sons/bruit expérimentau
 
 ### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior (chaque vidéo + artiste associé)
 
-| Marque | Vidéo représentative | Artiste vedette (reportage/crédit) |
+| Marque | Vidéo représentative | Artiste en vedette (reportage/crédit) |
 | ------------------- | -------------------- |------------------------------- |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga hiver 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4) ; Affiche la liste de lecture – [Liste de lecture YouTube](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Conception sonore : **BFRND** (Afficher la partition exclusive)/Exemple d'utilisation du son industriel |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能  |

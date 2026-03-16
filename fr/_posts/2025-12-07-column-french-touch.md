@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Comment la remise en question de la house française des 
 À propos des synthés analogiques, de la culture du disque et des techniques de filtrage
 
 À la fin des années 2020, la **French Touch** (French House) est réévaluée à la fois dans la culture des clubs et sur Internet. En termes de performances de DJ, des chansons comme « Music Sounds Better With You » de Stardust et « 1999 » de Cassius émeuvent à nouveau le jeune public, et les premières œuvres de Daft Punk trouvent de nouveaux publics grâce aux rééditions de vinyles.
-De plus, alors que les producteurs nationaux et étrangers incorporent activement des *synthés analogiques, des textures de bande, la rugosité de l'échantillonnage et la texture des lèvres en vinyle*, ils se connectent naturellement au contexte de **Nu Disco**, créé à la fin des années 2000.
+De plus, alors que les producteurs nationaux et étrangers intègrent activement des *synthés analogiques, des textures de bande, la rugosité de l'échantillonnage et la texture des lèvres en vinyle*, ils se connectent naturellement au contexte de **Nu Disco**, créé à la fin des années 2000.
 
 Ce phénomène n’est pas seulement de la nostalgie.
 C’est précisément parce que l’environnement numérique est devenu complètement omniprésent que
@@ -94,15 +94,15 @@ Au contraire, il est devenu un élément déterminant dans la création du **kic
 En 1998, l'unité "Stardust" de Thomas Bangalter + Alan Braxe + Benjamin Diamond
 **Enregistré un succès mondial avec la sortie d'une seule chanson**.
 
-特徴：
+Caractéristiques:
 - Samples le riff de "Fate" de Chaka Khan
 - Traitement du filtre de type étiquette Roulé
-- Mélodie extrêmement sophistiquée et sensation disco
+- Mélodie extrêmement sophistiquée et ambiance disco
 
 Ce succès a établi la culture de la French Touch selon laquelle « la pop est une extension du jeu et de l'expérimentation ».
 Bien qu’il ne s’agisse que d’une chanson, elle est devenue un mythe car elle résume toute l’esthétique de la French Touch.
 
-この楽曲は、ハウスミュージックやエレクトロニックダンスミュージックのファンにとってはクラシックとも言える作品です。
+Cette chanson est un classique pour les fans de house music et de dance music électronique.
 
 #### Liste des chansons
 ```md
@@ -276,7 +276,7 @@ La méthode de construction est la même.
 C’est un héritage constant depuis « Da Funk » de Daft Punk.
 
 ### ◆ De l'échantillonnage au « replay »
-Nu Disco est bien plus qu'un simple échantillonnage.
+Nu Disco, c'est bien plus qu'un simple échantillonnage.
 **Il existe de nombreux styles qui « reconstruisent le disco » avec de vrais synthés**.
 Cela peut être considéré comme une réalisation de l’esthétique French Touch avec un « son moderne et raffiné ».
 

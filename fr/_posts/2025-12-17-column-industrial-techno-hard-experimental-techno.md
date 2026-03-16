@@ -67,7 +67,7 @@ Une caractéristique de cette époque est que la distorsion et le bruit ne sont 
 
 ## 4. Analyse mathématique du rythme
 
-En surface, le rythme de la Techno Industrielle semble être une simple répétition 4/4, mais en dessous se cache une conception temporelle précise. Si l'axe des temps est t et le temps d'apparition du coup de pied est K_i, la période fondamentale T_K s'exprime comme suit.
+Le rythme de la Techno Industrielle peut sembler être une simple répétition 4/4 en surface, mais en dessous se cache une conception temporelle précise. Si l'axe des temps est t et le temps d'apparition du coup de pied est K_i, la période fondamentale T_K s'exprime comme suit.
 
 K_{i+1} - K_i = T_K
 
@@ -111,7 +111,7 @@ Dans un environnement modulaire, le bruit ne sert pas de mélodie ou de décorat
 
 Le morceau de Perc incarne la « violence contrôlée » de la techno industrielle. Le kick a un centre clair et la distorsion est concentrée dans les médiums. La portée basse n'est pas détruite et la stabilité physique est assurée lors du jeu en club.
 
-Le développement est minime et la structure est formée en modifiant la texture de la distorsion et en ajustant la densité du bruit plutôt qu'en augmentant ou en diminuant le nombre de sons. Le déphasage rythmique est minimal et la fidélité au réseau est maintenue.
+Le développement est minime et la structure est formée en modifiant la texture de la distorsion et en ajustant la densité du bruit plutôt qu'en augmentant ou en diminuant le nombre de sons. Le déphasage rythmique est minimal et la fidélité à la grille est maintenue.
 
 ---
 
@@ -121,7 +121,7 @@ Les œuvres de Ancient Methods présentent la Techno Industrielle comme une stru
 
 Les coups de pied sont lourds, régulièrement espacés, et le bruit et les réverbérations occupent tout l'espace. La densité spatiale et les queues réverbérantes jouent ici un rôle plus important que les changements rythmiques.
 
-La techno industrielle d’Ancient Methods est une musique de danse, mais elle fonctionne également comme un dispositif qui transforme l’expérience d’écoute elle-même.
+La techno industrielle d’Ancient Methods est une musique de danse, mais elle fonctionne comme un dispositif qui transforme l’expérience d’écoute elle-même.
 
 ---
 

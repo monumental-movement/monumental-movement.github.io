@@ -11,116 +11,116 @@ tags:
 - Acid House
 - 80s
 - 90s
-title: 【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容
+title: '[Chronique] Acid house : Réactions chimiques de transformation sonore et culturelle'
 ---
 
 
-## ハードウェアが叫び、肉体が応える
+## Le matériel crie, le corps répond
 
 
-文：mmr｜テーマ：サウンドの化学反応と文化の変容
+Texte : mmr｜Thème : Réactions chimiques de transformation sonore et culturelle
 
 
 
 <hr>
 
-### 起源：シカゴの地下からの放射
-アシッド・ハウス（Acid House）は、1980年代中盤のアメリカ・シカゴのアンダーグラウンド・クラブ・シーンから誕生した音楽ジャンルであり、ハウス・ミュージックのサブジャンルのひとつです。
+### Origine : Rayonnement provenant du sous-sol de Chicago
+L'acid house est un genre musical originaire de la scène des clubs underground de Chicago, aux États-Unis, au milieu des années 1980, et constitue un sous-genre de la musique house.
 
-このジャンルの原点は、Roland TB-303 Bass Line Synthesizerという電子楽器の“偶然の誤用”により生まれました。もともとベースギターの代用として開発されたTB-303ですが、DJやプロデューサーたち（特に**Phuture（フィューチャー）**というユニット）がこのマシンを予期せぬ方法で操作することで、「うねるような」「液体的な」「サイケデリックな」ベースラインが生成されたのです。
+L'origine de ce genre est née de la « mauvaise utilisation accidentelle » d'un instrument électronique appelé Roland TB-303 Bass Line Synthesizer. Développé à l'origine pour remplacer la guitare basse, le TB-303 a été utilisé par les DJ et les producteurs (en particulier à partir d'une unité appelée **Phuture**) de manière inattendue, produisant des lignes de basse ondulantes, « liquides » et « psychédéliques ».
 
-1987年にPhutureがリリースしたシングル「Acid Tracks」が、その音の特徴と名称の両方において、この新しいスタイルの原型となりました。
+Le single "Acid Tracks" de Phuture en 1987 est devenu le prototype de ce nouveau style, tant par son caractère sonore que par son nom.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eWpA_xwT1to?si=GLz0gzYpdlJr5a0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### サウンドの特徴：TB-303がもたらすケミカルな音像
-アシッド・ハウスの最も重要な特徴は、以下のようなサウンド要素です：
+### Caractéristiques sonores : Image sonore chimique provoquée par TB-303
+Les caractéristiques les plus importantes de l’acid house sont les éléments sonores suivants :
 
 
 <hr>
 
-#### TB-303によるベースライン
+#### Référence avec TB-303
 
-- 独特の「ピュルピュル」「グニャグニャ」した音
+- Son unique "purpy" et "squish"
 
-- フィルターのレゾナンスとスライドによって発生する不思議な音響変化
+- Changements acoustiques mystérieux causés par la résonance et le glissement du filtre
 
-- アナログのランダム性と手動操作による有機性
+- Caractère aléatoire analogique et caractère organique du fonctionnement manuel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/omHUR3R0Qqw?si=boX8O6bMt_O796rS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-#### 4つ打ちキック
+#### Quadruple coup de pied
 
-- BPMは120〜130前後の安定したテンポ
+- Le BPM est un tempo stable d'environ 120-130
 
-- TR-808またはTR-909によるドラムパターンとの組み合わせが定番
-
-
-<hr>
-
-#### ミニマルな構造
-
-- 繰り返しのループによるトリップ感
-
-- 長時間のビルドアップと細かい変化で恍惚感を生み出す
-
-このサウンドは、クラブの暗がりやストロボの中で、ダンサーをトランス状態へ導く「ケミカル・サウンド」として絶大な効果を持ちました。
+- Combinaison standard avec motif de batterie par TR-808 ou TR-909
 
 
 <hr>
 
-### イギリスへの伝播：サマー・オブ・ラヴとセカンドウェーブ
+#### Structure minimale
 
-アシッド・ハウスは1987年末から1988年にかけて、イギリスへと急速に波及します。クラブDJたちがシカゴのホワイトラベルをUKに持ち帰り、ロンドンやマンチェスターのクラブシーンで急激に広まりました。
+- Sensation de voyage due aux boucles répétées
 
+- Créez un sentiment d'extase avec de longues accumulations et des changements détaillés
 
-<hr>
-
-####  「セカンド・サマー・オブ・ラヴ（Second Summer of Love）」：1988年
-
-- アシッド・ハウスとエクスタシー（MDMA）の結びつき
-
-- インナーシティ・クラブから野外レイヴへ拡大
-
-- ロンドンのShoomやマンチェスターのHaçiendaが中心地
+Ce son avait un effet énorme en tant que « son chimique » qui berçait les danseurs dans un état de transe dans l'obscurité d'un club ou avec des lumières stroboscopiques.
 
 
 <hr>
 
-#### 影響を受けたUKアーティスト
+### Propagation en Grande-Bretagne : Summer of Love et deuxième vague
+
+L'acid house s'est rapidement répandue au Royaume-Uni entre la fin de 1987 et 1988. Les DJ de club ont ramené la marque blanche de Chicago au Royaume-Uni, où elle s'est rapidement répandue sur la scène des clubs de Londres et de Manchester.
+
+
+<hr>
+
+#### "Deuxième été d'amour" : 1988
+
+- Le lien entre l'acid house et l'ecstasy (MDMA)
+
+- Passage du club du centre-ville à la rave en plein air
+
+- Centré à Shoom, Londres et Haçienda, Manchester
+
+
+<hr>
+
+#### Artistes britanniques qui m'ont influencé
 
 - [A Guy Called Gerald 「Voodoo Ray」](https://amzn.to/4q8RJtT)
 
 - [808 State 「Pacific State」](https://amzn.to/3J8mz5a)
 
-- The KLF、Orbital など、アシッド的要素を取り込んだレイヴ系
+- Style rave avec des éléments acides tels que The KLF et Orbital
 
 
 <hr>
 
-### ファッションとシンボル：スマイリーフェイスとDIY文化
+### Mode et symboles : smileys et culture DIY
 
-アシッド・ハウスは音楽だけでなく、視覚文化や若者文化にも影響を与えました。
+L’acid house a influencé non seulement la musique, mais aussi la culture visuelle et jeunesse.
 
-**スマイリーフェイス（☻）**：アシッド・ハウスの象徴として世界中に拡散
+**Visage souriant (☻)** : répandu dans le monde entier comme symbole de l'acid house
 
-- イエローカラー、ネオン、サイケデリックなヴィジュアル
+- Couleur jaune, néon, visuels psychédéliques
 
-- Tシャツ、フライヤー、レコードジャケットに見られるDIYグラフィック
+- Graphiques DIY visibles sur des T-shirts, des flyers et des pochettes de disques
 
-- 当時のZine文化やフリーペーパーとも親和性が高い
+- Très compatible avec la culture Zine et les journaux gratuits de l'époque
 
-このファッションは、レイヴ文化、トランス、テクノ、ブレイクビートなど90年代以降のシーンにも受け継がれていきました。
+Cette mode s'est poursuivie dans la culture rave, la transe, la techno, le breakbeat et d'autres scènes à partir des années 1990.
 
 
 <hr>
 
-### アシッド・ハウスの波及と進化
-アシッド・ハウスは90年代以降も世界中で多様に進化していきました。
+### Propagation et évolution de l'acid house
+L’acid house a continué à évoluer de diverses manières à travers le monde après les années 1990.
 
 <div class="table-border">
 <table>
@@ -161,33 +161,45 @@ title: 【コラム】 アシッド・ハウス：サウンドの化学反応と
 
 <hr>
 
-### 現代における位置づけと再評価
+### Positionnement et réévaluation à l'époque moderne
 
-今日、アシッド・ハウスはレトロカルチャーやアナログ機材復権の流れの中で再評価されています。特に以下の点で存在感を放っています：
+Aujourd’hui, l’acid house est réévaluée au milieu de la culture rétro et du renouveau des équipements analogiques. Il se démarque notamment des manières suivantes :
 
-- フェスやレイヴにおけるクラシック回帰
+- Retour classique aux festivals et raves
 
-- Zine、アーカイブ、アート展示での文化的再評価
+- Réévaluation culturelle dans les zines, les archives et les expositions d'art
 
-- YouTubeやBandcamp上でのアシッド系セット人気
+- Acid a établi sa popularité sur YouTube et Bandcamp
 
-- TB-303クローン機の爆発的な普及（アナログ機材の再現）
+- Propagation explosive d'un avion clone TB-303 (reproduction d'équipement analogique)
 
-アシッド・ハウスは、単なる音楽ジャンル以上の存在として、電子音楽とカウンターカルチャーの結節点にあり続けているのです。
+Plus qu’un simple genre musical, l’acid house continue d’être au carrefour de la musique électronique et de la contre-culture.
 
 
 <hr>
 
-### アシッドは死なず
+### L'acide ne tue jamais
 
-アシッド・ハウスは、偶発的な技術革新と時代の精神が交錯して生まれた、稀有な音楽文化です。30年以上が経過してもなお、TB-303のうねりはクラブフロアやデジタル空間に響き続け、未来の音楽家たちを刺激し続けています。
+L’acid house est une culture musicale rare née de l’intersection de l’innovation technologique accidentelle et de l’air du temps. Plus de 30 ans plus tard, le son du TB-303 continue de résonner dans les clubs et les espaces numériques et continue d'inspirer les futurs musiciens.
 
-アシッドは、過去の残響ではなく、今もなお進化し続ける音のミュータントなのです。
+Acid n’est pas une réverbération du passé, mais un mutant sonore qui continue d’évoluer.
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eK5695jB6vc?si=HFqnh8aSeZRUmUPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Colonnes associées
 
 🔗 [【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化](https://monumental-movement.jp/Colum-Chicago-House)
 
 🔗 [【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動](https://monumental-movement.jp/Column-Roland-TR-1000)
+
+---

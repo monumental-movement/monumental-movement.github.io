@@ -19,7 +19,7 @@ title: '[Chronique] IDM × Jazz / Jazz Fusion Electronique'
 
 ## Introduction : L'intersection de l'IDM et du jazz
 
-文：mmr｜テーマ：時間構造そのものとして提示されている音楽について
+Texte : mmr｜Thème : À propos de la musique présentée comme la structure du temps lui-même
 
 
 La fusion de l’IDM et du jazz a progressé non pas comme une addition de genres, mais comme une refonte du sens du temps et de la philosophie de l’interprétation. En brouillant les frontières entre improvisation et composition, groove et programmation, et puissance humaine et machines, une esthétique différente de la fusion traditionnelle se forme. Depuis les années 1990, alors que la culture club et le jazz expérimental se sont approfondis simultanément, la structure rythmique elle-même est devenue le sujet de la musique.
@@ -60,7 +60,7 @@ Dans IDM, plusieurs périodes existent souvent simultanément dans une signature
 
 ### Généalogie du jazz électrique
 
-Le jazz électrique des années 1970 mettait l’accent sur l’expansion de la section rythmique et des grooves soutenus, mais n’allait pas jusqu’à briser le rythme. Depuis les années 1990, l'introduction des échantillonneurs et des séquenceurs a permis de répéter avec précision et de produire des décalages infimes difficiles à réaliser manuellement.
+Le jazz électrique des années 1970 mettait l’accent sur l’expansion de la section rythmique et des grooves soutenus, mais n’allait pas jusqu’à briser le rythme. Depuis les années 1990, l’introduction des échantillonneurs et des séquenceurs a permis de répéter avec précision et de produire des décalages infimes difficiles à réaliser manuellement.
 
 ### Coexistence de l'improvisation et de la programmation
 

@@ -10,19 +10,20 @@ permalink: /fr/column-contemporary-classical-neo-minimalism/
 tags:
 - Afrobeat
 - Afro-Fusion
-title: 【コラム】 Contemporary Classical / Neo-minimalism 現代クラシックの新しい波
+title: '[Chronique] Classique Contemporain / Néo-minimalisme Une nouvelle vague de
+  musique classique contemporaine'
 ---
 
 
 
-## 序論：現代クラシック／ネオ・ミニマリズムという潮流
+## Introduction : Tendance classique moderne/néo-minimalisme
 
-文：mmr｜テーマ：流行や感情的評価ではなく、作曲技法・制作環境・制度的背景といった事実に基づき、この潮流について
+Texte : mmr｜Thème : À propos de cette tendance, basé sur des faits tels que les techniques de composition, l'environnement de production et le contexte institutionnel, plutôt que sur des tendances ou des évaluations émotionnelles.
 
 
-20世紀後半以降のクラシック音楽は、無調性・偶然性・電子音楽などの実験を経て、多様な方向へ分岐してきた。その中で21世紀に入り、再び「調性」「反復」「静けさ」「聴取体験そのもの」を重視する潮流が国際的に注目されるようになった。それが一般に Contemporary Classical（現代クラシック）や Neo-Minimalism（ネオ・ミニマリズム）と呼ばれる領域である。
+Depuis la seconde moitié du XXe siècle, la musique classique s'est diversifiée dans diverses directions à travers des expériences avec l'atonalité, l'aléatorisme et la musique électronique. Au 21e siècle, une tendance qui met l'accent sur la « tonalité », la « répétition », la « tranquillité » et « l'expérience d'écoute elle-même » a une fois de plus attiré l'attention internationale. C’est le domaine généralement appelé classique contemporain ou néo-minimalisme.
 
-この動向は、伝統的なクラシック音楽機関と、インディペンデントな音楽制作環境の双方にまたがって形成されてきた点に特徴がある。Max Richter、Nils Frahm、Hauschkaといった作家は、いずれもクラシックの教育背景を持ちながら、録音技術、ポストプロダクション、即興、電子楽器などを積極的に取り入れてきた。
+Cette tendance est unique dans la mesure où elle s’est formée à la fois dans les institutions de musique classique traditionnelle et dans les environnements de production musicale indépendante. Des artistes tels que Max Richter, Nils Frahm et Hauschka ont tous une formation classique, mais ont activement intégré les techniques d'enregistrement, de post-production, d'improvisation et d'instruments électroniques.
 
 
 ---
@@ -41,71 +42,71 @@ color: #fff;
 </style>
 
 
-## 歴史的背景：ミニマリズム以後のクラシック
+## Contexte historique : le classique après le minimalisme
 
-### 20世紀ミニマリズムの成立
+### L'établissement du minimalisme du 20ème siècle
 
-1960年代のアメリカにおいて、La Monte Young、Terry Riley、Steve Reich、Philip Glassらによって確立されたミニマリズムは、短い音型の反復、緩やかな変化、明確な拍節構造を特徴としていた。これは当時のセリー音楽や複雑化した前衛音楽への反動として理解されている。
+Créé aux États-Unis dans les années 1960 par La Monte Young, Terry Riley, Steve Reich et Philip Glass, le minimalisme se caractérisait par de courtes répétitions, des changements progressifs et des structures métriques claires. Ceci est compris comme une réaction à la musique de céleri de l’époque et à la musique d’avant-garde de plus en plus complexe.
 
-ミニマリズムはやがてオペラ、映画音楽、ダンス音楽などへ影響を及ぼし、20世紀後半のクラシック音楽において制度的にも受容された。
+Le minimalisme a finalement influencé l’opéra, la musique de film et la musique de danse, et est devenu institutionnellement accepté dans la musique classique dans la seconde moitié du XXe siècle.
 
-### ポスト・ミニマリズムへの移行
+### Transition vers le post-minimalisme
 
-1980年代以降、ミニマリズムは単純な反復から離れ、より旋律的・和声的・叙情的な方向へと展開した。John Adamsに代表されるポスト・ミニマリズムは、伝統的なオーケストレーションと反復構造を併存させる書法を確立した。
+Depuis les années 1980, le minimalisme s’est éloigné de la simple répétition et s’est développé vers une direction plus mélodique, harmonique et lyrique. Le post-minimalisme, représenté par John Adams, a établi un style d'écriture qui coexistait avec une orchestration traditionnelle et des structures répétitives.
 
-この流れが、後の現代クラシック／ネオ・ミニマリズムの基盤となる。
-
----
-
-## Contemporary Classicalという概念
-
-### 用語としての成立
-
-Contemporary Classicalという語は、厳密な様式を指すものではなく、主に2000年代以降のクラシック音楽を広く指す包括的な呼称として用いられている。特にレコード店、配信サービス、音楽フェスティバルなどにおいて、従来の現代音楽と区別する目的で使用されるようになった。
-
-> "ジャンル名というよりも、流通・聴取環境に基づく分類である点が重要である。"
-
-### 制度と環境の変化
-
-この時代の作曲家たちは、必ずしもオーケストラやオペラハウスからの委嘱を主な活動基盤としていない。自宅スタジオ、インディペンデント・レーベル、デジタル配信が重要な役割を果たしている。
-
-録音作品がコンサートと同等、あるいはそれ以上に重要視される点も特徴である。
+Ce flux est devenu le fondement du classique/néo-minimalisme moderne ultérieur.
 
 ---
 
-## ネオ・ミニマリズムの音楽的特徴
+## Concept de classique contemporain
 
-### 反復と時間感覚
+### L'établissement comme terme
 
-ネオ・ミニマリズムでは、反復は構造上の制約ではなく、聴取者の時間認識を操作するための技法として機能する。一定の音型が持続的に反復されることで、音楽は線的な進行から離れ、滞留的な時間感覚を生み出す。これは20世紀前半の目的論的形式とは異なる態度である。
+Le terme « classique contemporain » ne fait pas référence à un style strict, mais est principalement utilisé comme un terme global pour désigner au sens large la musique classique des années 2000. Il est désormais utilisé notamment dans les disquaires, les services de distribution et les festivals de musique pour le distinguer de la musique contemporaine traditionnelle.
 
-反復は完全な同一性を保つ場合もあれば、アクセント、和声、音域、音色の微細な変化を伴うことも多い。この差異の最小化こそが、ネオ・ミニマリズムにおける構造形成の核心である。
+> "Il est important que la classification soit basée sur l'environnement de distribution et d'écoute plutôt que sur le nom du genre."
 
-### 調性と和声
+### Changements dans les institutions et l'environnement
 
-多くの作曲家は明確な調性中心を保持しているが、機能和声的な進行を前提としていない。トニックへの解決よりも、和音の響きの持続や重なりが重視される。三和音、付加音和音、開放的な完全五度構造などが頻繁に用いられる。
+Les compositeurs de cette époque ne basaient pas nécessairement leurs activités principalement sur des commandes d'orchestres ou d'opéras. Les home studios, les labels indépendants et la distribution numérique jouent un rôle important.
 
-この和声処理は、19世紀的ロマン派の再現ではなく、音響的安定性を確保するための選択として理解される。
+Une autre particularité est que les œuvres enregistrées sont considérées comme aussi importantes, sinon plus, que les concerts.
 
-### 音色設計
+---
 
-ネオ・ミニマリズムにおいて音色は、旋律や和声と同等、あるいはそれ以上に重要な構成要素である。フェルトピアノ、準備ピアノ、弱音器付き弦楽器、電子処理された残響などが用いられ、響きの持続や減衰そのものが形式を形成する。
+## Caractéristiques musicales du néo-minimalisme
 
-録音環境やマイク配置も、作曲段階から想定されている場合が多い。
+### Répétition et sens du temps
+
+Dans le néo-minimalisme, la répétition fonctionne non pas comme une contrainte structurelle mais comme une technique permettant de manipuler la perception du temps de l'auditeur. En répétant continuellement certains motifs sonores, la musique s’éloigne de la progression linéaire et crée une sensation persistante du temps. Il s’agit là d’une attitude différente de la forme téléologique de la première moitié du XXe siècle.
+
+Les répétitions peuvent conserver une identité complète ou impliquer des changements subtils d’accent, d’harmonie, de gamme ou de timbre. La minimisation de cette différence est au cœur de la formation de la structure dans le néo-minimalisme.
+
+### Tonalité et harmonie
+
+De nombreux compositeurs maintiennent un centre tonal clair, mais ne supposent pas de progression harmonique fonctionnelle. L'accent est mis sur les résonances d'accords de maintien et de chevauchement plutôt que sur la résolution de la tonique. Les triades, les accords d'addition et les structures de quinte parfaite ouverte sont fréquemment utilisés.
+
+Ce traitement harmonique n'est pas une reproduction du romantisme du XIXe siècle, mais peut être compris comme un choix pour assurer la stabilité acoustique.
+
+### Conception des tons
+
+Dans le néo-minimalisme, le timbre est un élément aussi important que la mélodie et l’harmonie, voire plus. Des pianos en feutre, des pianos préparés, des instruments à cordes avec des instruments assourdis et des réverbérations traitées électroniquement sont utilisés, et la durée et la décroissance de la résonance elle-même forment la forme.
+
+L’environnement d’enregistrement et le placement du microphone sont souvent planifiés dès la phase de composition.
 
 ---
 
 ## Max Richter
 
-### 経歴と教育背景
+### Carrière et formation
 
-Max Richterはドイツ生まれ、イギリスを拠点とする作曲家である。エディンバラ大学およびロイヤル・アカデミー・オブ・ミュージックで学び、Luciano Berioのもとで研鑽を積んだ。
+Max Richter est un compositeur d'origine allemande basé au Royaume-Uni. Il a étudié à l'Université d'Édimbourg et à la Royal Academy of Music, où il a étudié avec Luciano Berio.
 
-### 作風
+### Style
 
-彼の作品は、ミニマリズムの反復構造と、ロマン派的な和声感覚を併せ持つ。弦楽オーケストラ、ピアノ、電子音響を組み合わせる手法が特徴的である。
+Ses œuvres combinent la structure répétitive du minimalisme avec un sens romantique de l'harmonie. Sa méthode unique consiste à combiner orchestre à cordes, piano et acoustique électronique.
 
-映画、テレビ、バレエのための音楽も多く手がけており、コンサート音楽と映像音楽の境界を曖昧にしている。
+Il a également écrit de la musique pour le cinéma, la télévision et le ballet, brouillant les frontières entre musique de concert et musique de film.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b_YHE4Sx-08?si=hqVZkspnb7IBkhY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -113,15 +114,15 @@ Max Richterはドイツ生まれ、イギリスを拠点とする作曲家であ
 
 ## Nils Frahm
 
-### 背景
+### Arrière-plan
 
-Nils Frahmはドイツ出身の作曲家・ピアニストであり、幼少期からクラシック音楽教育を受けた。彼の活動はベルリンを中心に展開されている。
+Nils Frahm est un compositeur et pianiste allemand qui a reçu une formation musicale classique dès son plus jeune âge. Ses activités sont centrées autour de Berlin.
 
-### スタジオと楽器
+### Studio et instruments
 
-Frahmは自らのスタジオを創作の中心に据え、複数のピアノ、シンセサイザー、テープマシンを組み合わせて制作を行う。即興演奏と編集を組み合わせる制作手法が特徴である。
+Frahm utilise son propre studio comme centre de ses créations, combinant plusieurs pianos, synthétiseurs et magnétophones. Son travail se caractérise par une méthode de production mêlant improvisation et montage.
 
-> "演奏・作曲・録音が分離されていない点が、従来のクラシック作曲家と異なる。"
+> "Il diffère des compositeurs classiques traditionnels en ce sens que l'interprétation, la composition et l'enregistrement ne sont pas séparés."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dIwwjy4slI8?si=jYGJ0cRwYyzExsU_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -129,73 +130,73 @@ Frahmは自らのスタジオを創作の中心に据え、複数のピアノ、
 
 ## Hauschka
 
-### 準備ピアノの現代的展開
+### Développements modernes dans le domaine du piano préparé
 
-Hauschka（Volker Bertelmann）はドイツの作曲家・ピアニストであり、準備ピアノを主軸とした作品で知られる。ピアノ内部にフェルト、木片、金属、テープなどを配置することで、打楽器的・ノイズ的音色を引き出す。
+Hauschka (Volker Bertelmann) est un compositeur et pianiste allemand, connu pour ses œuvres centrées sur le piano préparatoire. En plaçant du feutre, des morceaux de bois, du métal, du ruban adhésif, etc. à l'intérieur du piano, il fait ressortir des sonorités percussives et sonores.
 
-この技法自体は20世紀中盤の実験音楽に起源を持つが、Hauschkaはそれを反復的構造と結びつけ、可聴性の高い形式として再構築した。
+La technique elle-même trouve ses origines dans la musique expérimentale du milieu du XXe siècle, mais Hauschka l'a combinée avec des structures répétitives et l'a réinventée pour en faire une forme hautement audible.
 
-### 作曲と即興
+### Composition et improvisation
 
-彼の作品は、厳密に記譜されたパターンと即興的要素の両方を含む。一定のリズム・パターンが反復される中で、演奏者の身体的操作による微細な変化が音楽を推進する。
+Ses œuvres comprennent à la fois des motifs strictement notés et des éléments d'improvisation. Alors qu'un certain motif rythmique est répété, d'infimes changements provoqués par la manipulation physique de l'interprète déterminent la musique.
 
-### 他分野との接続
+### Connexion avec d'autres champs
 
-Hauschkaは映画音楽、現代美術、舞台芸術など複数の分野で活動しており、ネオ・ミニマリズムが特定の制度に限定されないことを示している。
+Hauschka travaille dans de multiples domaines, dont la musique de film, l'art contemporain et les arts du spectacle, démontrant que le néo-minimalisme ne se limite pas à un système spécifique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kH_2Vz7BKBY?si=BAOnZrVOwDGGFzd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 作曲技法分析：構造・記譜・制作
+## Analyse des techniques de composition : structure, notation, production
 
-### 記譜の簡略化と開放性
+### Simplification et ouverture de la notation
 
-ネオ・ミニマリズムでは、すべての音を詳細に記譜する従来のスコア形式が必ずしも採用されない。反復単位、拍節、和声枠組みのみが指定され、細部は演奏者に委ねられる場合も多い。
+Le néo-minimalisme ne suit pas nécessairement le format de partition traditionnel dans lequel chaque note est notée en détail. Seuls l'unité de répétition, le compteur et le cadre harmonique sont spécifiés, et les détails sont souvent laissés à l'interprète.
 
-これは偶然性音楽とは異なり、結果の音響がある程度予測可能な範囲に保たれている点に特徴がある。
+Cela diffère de la musique aléatoire dans la mesure où l'acoustique qui en résulte est maintenue dans une plage quelque peu prévisible.
 
-### レイヤー構造
+### Structure des couches
 
-複数の単純な層が重ね合わされることで、全体として複雑な音響が形成される。各レイヤーは独立性を保ちながら、時間的に同期する。
+Plusieurs couches simples sont superposées pour former un son complexe. Chaque couche conserve son indépendance et est synchronisée temporellement.
 
-### 編集という作曲行為
+### L'acte de composer appelé édition
 
-録音後の編集、ループ化、ダイナミクス調整は、作品構造そのものを規定する。編集工程は後処理ではなく、作曲過程の延長として扱われる。
-
----
-
-## 聴取環境とリスニング文化
-
-### 個人的聴取の前提
-
-現代クラシック／ネオ・ミニマリズムの多くは、コンサートホールよりもヘッドフォンや小規模スピーカーによる個人的聴取を前提としている。微細な音量変化や残響が重要な意味を持つためである。
-
-### 空間と音楽
-
-展示空間、美術館、インスタレーションにおいて演奏・再生される事例も多い。音楽は時間芸術であると同時に、空間を規定する要素として扱われる。
-
-> "沈黙や余白も、聴取環境によって意味を変える。"
-
-### 長時間作品の受容
-
-ストリーミング環境の普及により、長時間にわたる静的作品が日常的に聴取される条件が整った。
+Le montage post-enregistrement, le bouclage et les ajustements de dynamique définissent la structure de la pièce elle-même. Le processus d’édition n’est pas traité comme un post-traitement, mais comme une extension du processus de composition.
 
 ---
 
-## レーベル史と流通
+## Environnement d'écoute et culture d'écoute
 
-### インディペンデント・レーベルの役割
+### Conditions préalables à l'audition personnelle
 
-2000年代以降、現代クラシックを専門に扱うインディペンデント・レーベルが国際的に増加した。これらのレーベルは、録音品質、ジャケット・デザイン、アーティストの自律性を重視する傾向を持つ。
+Une grande partie du classique/néo-minimalisme contemporain repose sur une écoute personnelle au moyen d’écouteurs ou de petites enceintes plutôt que dans une salle de concert. En effet, d’infimes changements de volume et de réverbération ont une signification importante.
 
-### クラシックとインディーの境界
+### Espace et musique
 
-これらのレーベルは、従来のクラシック流通網とは異なる販売・配信経路を採用し、リスナー層の拡張に寄与した。
+Il est souvent interprété et reproduit dans des espaces d'exposition, des musées et des installations. La musique est à la fois un art du temps et un élément qui définit l'espace.
 
-### 制度的影響
+> "Le silence et les espaces vides ont également des significations différentes selon l'environnement d'écoute."
 
-結果として、コンサートホール、映画産業、美術機関など複数の制度が接続される状況が生まれた。
+### Acceptation des travaux longs
+
+Avec la généralisation des environnements de streaming, les conditions ont été créées pour que de longues œuvres statiques puissent être écoutées quotidiennement.
+
+---
+
+## Historique et distribution des étiquettes
+
+### Rôle des labels indépendants
+
+Depuis les années 2000, le nombre de labels indépendants spécialisés dans la musique classique contemporaine se multiplie à l’international. Ces labels ont tendance à mettre l'accent sur la qualité de l'enregistrement, la conception des pochettes et l'autonomie des artistes.
+
+### La frontière entre classique et indépendant
+
+Ces labels ont adopté des canaux de vente et de distribution différents des réseaux de distribution de musique classique traditionnels, contribuant ainsi à l'expansion de leur base d'auditeurs.
+
+### Impact institutionnel
+
+En conséquence, une situation est apparue dans laquelle plusieurs institutions telles que les salles de concert, l’industrie cinématographique et les institutions artistiques sont connectées.
 
 ---
 
@@ -210,7 +211,7 @@ flowchart TD
 
 ---
 
-## 図：制作プロセスの変化
+## Diagramme : Changements dans le processus de production
 
 <div class="mermaid">
 flowchart LR
@@ -224,9 +225,9 @@ flowchart LR
 
 ## Conclusion
 
-Contemporary Classical / Neo-Minimalismは、ミニマリズム以後の歴史、録音技術の進展、聴取環境の変化といった複数の要因によって形成されてきた。Max Richter、Nils Frahm、Hauschkaらは、その代表的な実践者として位置づけられる。
+Le classique/néo-minimalisme contemporain a été façonné par de multiples facteurs, notamment l'histoire depuis le minimalisme, les progrès de la technologie d'enregistrement et les changements dans l'environnement d'écoute. Max Richter, Nils Frahm et Hauschka comptent parmi ses praticiens représentatifs.
 
-> "現代クラシック／ネオ・ミニマリズムは、21世紀の音楽制作環境を反映した実践である。"
+> "Le classique moderne/néo-minimalisme est une pratique qui reflète l'environnement de production musicale du 21e siècle."
 
 ---
 

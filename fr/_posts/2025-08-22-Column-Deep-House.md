@@ -28,7 +28,7 @@ La deep house est une sorte de house qui a émergé dans la région de Chicago e
 
 ### Contexte et développement de la naissance
 
-**1985-1990 : tôt tôt (Chicago/NJ)**
+**1985-1990 : début précoce (Chicago/NJ)**
 
 [Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) présente le prototype avec "Can You Feel It" et "Mystery of Love". Suivant le flux de [Frankie Knuckles](https://amzn.to/4nUwWJ4) et [Marshall Jefferson](https://amzn.to/3KOf4AV), une fusion de la douce sensation soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) et [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
@@ -91,7 +91,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 ### Sous-genres et lignées périphériques
 
-**Chicago Deep** : Coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
+**Chicago Deep** : coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
 
 **Type Jersey/garage** : Piano/orgue et chant de type gospel. Exemple : Kerri Chandler, Blaze.
 
@@ -125,7 +125,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Code** : "Marge douce" avec maj7, min9, sus2/4, 6th. Même les deux notes fondamentales + 9ème sont « profondes ».
 
-**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charley est légèrement ouvert et fin.
+**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charleston est légèrement ouvert et fin.
 
 **Groove** : « Respirez » avec un léger swing (+5 à +15 %) et des changements infimes de vélocité.
 

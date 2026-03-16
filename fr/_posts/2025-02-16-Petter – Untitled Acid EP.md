@@ -15,7 +15,7 @@ title: Petter – EP acide sans titre
 ---
 
 
-Petter Nordkvist, également connu sous le nom de Petter, est un DJ et producteur de Stockholm, en Suède. Leur style unique est un mélange de techno, électro, dub, ambient, acid, break et deep house. Il joue non seulement en Suède, mais également lors d'événements Border Community à Londres et dans toute l'Europe.
+Petter Nordkvist est un DJ et producteur de Stockholm, en Suède. Leur style unique est un mélange de techno, électro, dub, ambient, acid, break et deep house. Il joue non seulement en Suède, mais également lors d'événements Border Community à Londres et dans toute l'Europe.
 
 "Untitled Acid EP" est un morceau acid house/progressive house/tech house sorti en 2005 sur Deep Focus, un sous-label du label d'Amsterdam Deep Records.
 

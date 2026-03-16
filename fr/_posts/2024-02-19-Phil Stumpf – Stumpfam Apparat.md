@@ -22,7 +22,7 @@ La deuxième chanson de la face A est un remix de Gwen Maze.
 
 Phil Stumpf (né en 1973 en Allemagne) est musicien actif depuis 1993 et ​​a participé à divers groupes et projets.
 
-À la fin des années 80 et au début des années 90, j’étais dans le domaine du rock indépendant et j’étais fasciné et influencé par des groupes comme Mouse on Mars et Tortoise, ainsi que par la musique électronique et sa structure minimaliste.
+À la fin des années 80 et au début des années 90, j’étais dans le domaine du rock indépendant et j’étais fasciné et influencé par des groupes comme Mouse on Mars et Tortoise, ainsi que par la musique électronique et ses structures minimalistes.
 
 Ayant trouvé son chemin sur la piste de danse principalement grâce à son groupe oh., il découvre le groove minimal et commence à produire des morceaux de club sous son propre nom en 1999.
 

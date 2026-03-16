@@ -57,7 +57,7 @@ Les signatures rythmiques sont diverses, notamment 2, 5, 7 et 9 temps, ce qui a 
 
 ### Instruments et physicalité
 
-Des instruments tels que le saz (barama), la zurna et le daur séparent clairement la mélodie et le coup, et jouent le rôle d'impulsion directe des mouvements physiques des danseurs.
+Des instruments tels que le saz (barama), la zurna et le daur séparent clairement la mélodie et le coup, et jouent le rôle d'entraînement direct des mouvements physiques des danseurs.
 
 Ce principe de « musique pour bouger le corps » est resté constant même après l'introduction de la musique électronique.
 
@@ -66,7 +66,7 @@ Ce principe de « musique pour bouger le corps » est resté constant même apr�
 ---
 
 
-## Musique de danse urbaine de l'Empire Ottoman
+## Musique de danse urbaine de l'Empire ottoman
 
 ### Intersection de la musique de cour et de la culture populaire
 
@@ -89,7 +89,7 @@ Cette signature rythmique a été réutilisée plus tard dans la musique de club
 ### L'avènement du disque et de la radio
 
 Après les années 1920, avec la diffusion de la technologie d’enregistrement et de la radiodiffusion, la musique régionale a commencé à affluer dans les villes.
-La musique de danse s'est également transformée en musique écoutée à la maison.
+La musique de danse s’est également transformée en musique écoutée à la maison.
 
 ### Le germe de la pop orientale
 

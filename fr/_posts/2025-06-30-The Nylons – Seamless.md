@@ -14,7 +14,7 @@ title: Les Nylons – Sans couture
 ---
 
 
-The Nylons était un groupe canadien a cappella actif de 1978 à 2017. Il est surtout connu pour ses reprises pop telles que « Happy Together » des Turtles, « Na Na Hey Hey Kiss Him Goodbye » de Steam et « The Lion Sleeps Tonight » de The Tokens.
+The Nylons était un groupe canadien a cappella actif de 1978 à 2017. Il est surtout connu pour ses reprises pop telles que « Happy Together » de The Turtles, « Na Na Hey Hey Kiss Him Goodbye » de Steam et « The Lion Sleeps Tonight » de The Tokens.
 
 "Seamless" est un album sorti par Open Air Records en 1986.
 

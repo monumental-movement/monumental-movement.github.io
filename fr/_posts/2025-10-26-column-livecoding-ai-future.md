@@ -85,7 +85,7 @@ Pour l’essentiel, cela reste dans les limites du vraisemblable.
 
 Mais cette différence est aussi source de créativité.
 L’IA propose des combinaisons infinies et les humains y trouvent un sens.
-La relation entre les deux n’est pas une relation de « domination et subordination », mais plutôt une relation créatrice mutuellement complémentaire.
+La relation entre les deux n’est pas une relation de « domination et subordination », mais plutôt une relation créative mutuellement complémentaire.
 
 ---
 
@@ -130,7 +130,7 @@ La philosophie de TOPLAP « ouvrir le processus » est
 Lorsque l'IA rejoint cette culture,
 Nous devons résister à la « boîte noire ».
 
-Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision doivent également être rendus publics.
+Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision devraient également être rendus publics.
 C’est la clé pour ouvrir l’avenir de la musique algorithmique.
 
 ---

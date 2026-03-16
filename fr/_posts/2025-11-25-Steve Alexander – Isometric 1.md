@@ -10,13 +10,13 @@ tags:
 - Future Jazz
 - Drum n Bass
 - 90s
-title: Steve Alexander – Isometric 1
+title: Steve Alexander – Isométrique 1
 ---
 
 
-Steve Alexander(スティーブ・アレクサンダー)は、ウェールズ出身のドラマー／コンポーザー。Jeff Beck(ジャフ・ベック)やDuran Duranのドラマーとしても活動した。
+Steve Alexander est un batteur/compositeur gallois. Il a également travaillé comme batteur pour Jeff Beck et Duran Duran.
 
-「Isometric 1」は、レーベルReinforced Recordsから1998年にリリースされた Future Jazz／Drum n Bassトラック。
+"Isometric 1" est un morceau Future Jazz/Drum n Bass sorti en 1998 par le label Reinforced Records.
 
 #### Liste des chansons
 ```md

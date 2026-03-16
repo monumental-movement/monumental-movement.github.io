@@ -46,9 +46,9 @@ Le **Prix Ig Nobel** est connu comme le « petit frère excentrique » du prix N
 Depuis sa création en 1991 par la revue scientifique satirique américaine *Annals of Improbable Research*,
 Le prix a été décerné à des recherches qui font rire et réfléchir.
 
-En plus de domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
+En plus des domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
 Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.
-En effet, la science du son n’est pas seulement un phénomène ondulatoire.
+En effet, la science du son n’est pas qu’un simple phénomène ondulatoire.
 C’est parce qu’il pénètre profondément dans les émotions humaines, la société et la physiologie.
 
 Retraçant l'histoire du prix Ig Nobel,
@@ -100,7 +100,7 @@ Il a également attiré beaucoup d'attention dans la société en tant qu'exempl
 
 En 2020, recherche menée par **Takeshi Nishimura** et ses collègues du Primate Research Institute de l'Université de Kyoto
 A reçu le **Prix Acoustique**.
-L’équipe de recherche a placé des crocodiles dans un environnement de gaz mixte hélium-oxygène (Heliox).
+L’équipe de recherche a placé des crocodiles dans un environnement de gaz mixte d’hélium et d’oxygène (Heliox).
 Analyser les formants (composantes résonantes) du cri.
 En conséquence, nous avons confirmé que la structure de résonance change également à mesure que la densité de l’air change.
 

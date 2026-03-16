@@ -75,7 +75,7 @@ Le futurisme italien a introduit le bruit mécanique et urbain dans l'art. Leurs
 
 ### L'idée de couper et coller des voix
 
-Au milieu du XXe siècle, l’avènement de la bande magnétique a fondamentalement modifié la manière dont les voix étaient traitées. La lecture n’est pas un événement ponctuel, mais un matériel modifiable. Des techniques telles que les cut-ups, les boucles et les rotations inversées ont apporté une nouvelle chronologie à l'expression poétique.
+Au milieu du XXe siècle, l’avènement de la bande magnétique a fondamentalement modifié la façon dont les voix étaient traitées. La lecture n’est pas un événement ponctuel, mais un matériel modifiable. Des techniques telles que les cut-ups, les boucles et les rotations inversées ont apporté une nouvelle chronologie à l'expression poétique.
 
 ### Connexion avec Musique Béton
 
@@ -153,7 +153,7 @@ E --> F[1980s 詩×音響コラボ]
 F --> G[2000s デジタル朗読]
 </div>
 
->Tout au long de l'histoire, les voix et les sons ont été séparés et reconnectés à plusieurs reprises.
+>Tout au long de l’histoire, les voix et les sons ont été séparés et reconnectés à plusieurs reprises.
 
 ---
 
@@ -223,7 +223,7 @@ Un spectacle de lecture est essentiellement un événement ponctuel. Les enregis
 
 Pourtant, les archives audio constituent une source importante d’informations sur l’histoire de la poésie et de l’art sonore. En écoutant et en comparant les voix de différentes époques, les changements d’expression deviennent évidents.
 
-> Les voix enregistrées connectent le temps passé au présent.
+> Les voix enregistrées relient le passé au présent.
 
 ---
 

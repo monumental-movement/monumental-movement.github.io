@@ -9,7 +9,7 @@ permalink: /fr/column-why-we-listen-to-music-when-sad/
 tags:
 - Neuroscience
 - Emotion
-title: '[Chronique] Pourquoi les gens écoutent-ils de la musique quand ils sont tristes
+title: '[Chronique] Pourquoi les gens écoutent de la musique quand ils sont tristes
   ? Le son comme empathie, mémoire et réglage neuronal'
 ---
 
@@ -20,7 +20,7 @@ title: '[Chronique] Pourquoi les gens écoutent-ils de la musique quand ils sont
 Texte : mmr｜Thème : Explorer la relation entre la tristesse et la musique du point de vue de la psychologie, des neurosciences et de l'histoire culturelle
 
 Pourquoi les gens se tournent-ils vers la musique quand ils sont tristes ?
-Le silence est souvent rompu par une seule note du piano ou par une voix chantée envoûtante.
+Le silence est souvent rompu par une seule note du piano ou par une voix chantante envoûtante.
 Cet acte est à la fois intuitif et profondément scientifique.
 La musique est un « résonateur » d'émotions et la seule expérience qui peut être partagée dans la solitude.
 
@@ -60,7 +60,7 @@ C’est l’une des principales raisons pour lesquelles les gens recherchent de 
 ## Chapitre 2 : La musique comme outil d'empathie
 
 Selon la psychologue Catherine Mercier,
-«La musique est un outil d'imitation pour l'empathie.»
+«La musique est un outil d'imitation de l'empathie.»
 Lorsque les auditeurs écoutent de la musique triste, ils « s'identifient » aux émotions du compositeur et du chanteur, et
 Ressentir la présence des autres dans la solitude.
 
@@ -105,7 +105,7 @@ timeline
 
 </div>
 
-En regardant cette tendance, on constate que la musique de tristesse a toujours existé comme un miroir de la société.
+En regardant cette tendance, on constate que la musique de tristesse a toujours existé comme miroir de la société.
 La douleur d'un individu se transforme en voix du temps.
 
 ---
@@ -174,6 +174,16 @@ Parvenir à une « reconnexion avec le monde » au-delà des mots.
 La musique est un médium qui transforme la tristesse en amour.
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pf0h4h6ACNo?si=F2mkTikfN0F5ZOzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ## Références/documents connexes
 

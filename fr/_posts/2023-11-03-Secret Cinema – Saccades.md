@@ -9,15 +9,15 @@ permalink: /fr/secret-cinema-saccades/
 tags:
 - Techno
 - 00s
-title: Secret Cinema – Saccades
+title: Cinéma Secret – Saccades
 ---
 
 
-Secret Cinema（シークレット・シネマ）は、オランダ出身のテクノ/ハウス DJ兼プロデューサーJeroen Verheijのメインプロジェクト。
+Secret Cinema est le projet principal du DJ et producteur techno/house néerlandais Jeroen Verheij.
 
-別名義では、1996年リリースの「Watch Me Now」が有名なGrooveyard（グルーヴヤード）としても活躍している。
+Sous un autre nom, il est également actif sous le nom de Grooveyard, dont la sortie de 1996 "Watch Me Now" est célèbre.
 
-「Saccades」は、DJ Mac De Heyとして知られるオランダのテクノ＆プログレッシブDJ Michel De Hey と Jeroen Verheij によって1993年に設立されたプログレッシブハウス & テクノレーベルEC Recordsより2007年にリリースされたテクノトラック。
+"Saccades" est un morceau techno sorti en 2007 par EC Records, un label de house et techno progressive fondé en 1993 par les DJ techno et progressifs néerlandais Michel De Hey, connu sous le nom de DJ Mac De Hey, et Jeroen Verheij.
 
 #### Liste des chansons
 ```md

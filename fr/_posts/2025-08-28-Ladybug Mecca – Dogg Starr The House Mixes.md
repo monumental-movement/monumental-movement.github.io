@@ -14,7 +14,7 @@ title: Ladybug Mecca – Dogg Starr (Les mélanges maison)
 ---
 
 
-Mélange HOUSE de "Dogg Starr", une chanson signature de Ladybug Mecca (Mary Ann Vieira), connue comme la MC de l'unité jazz hip-hop Digable Planets. Il est sorti en 2007 par le prestigieux label OM Records de San Francisco.
+Mélange HOUSE de "Dogg Starr", une chanson signature de Ladybug Mecca (Mary Ann Vieira), connue comme la MC de l'unité jazz hip-hop Digable Planets. Il est sorti en 2007 sur le prestigieux label OM Records de San Francisco.
 
 A1 est un remix du DJ/producteur canadien Fred Everything (Frédéric Blais), un poids lourd de la scène Deep House.
 

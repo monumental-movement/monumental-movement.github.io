@@ -11,19 +11,19 @@ tags:
 - 00s
 - 10s
 - 20s
-title: 【コラム】 Charlotte de Witte：テクノワールドの女王
+title: '[Chronique] Charlotte de Witte : Reine du monde techno'
 ---
 
 
-## 序章 ─ テクノ女王の台頭
+## Prologue ─ L'avènement de la reine de la techno
 
 
-文：mmr｜テーマ：Charlotte de Witte がどのようにして自身の「テクノワールド」を築き上げたのかを、ディスコグラフィやフェス出演歴、曲解説、年表、図解を交えて探る
+Texte : mmr | Thème : Découvrez comment Charlotte de Witte a construit son « monde techno » à travers sa discographie, son historique d'apparitions en festival, ses commentaires de chansons, sa chronologie et ses illustrations.
 
-ベルギー出身のDJ／プロデューサー **Charlotte de Witte（シャーロット・デ・ウィッテ）** は、現在テクノ界における最重要人物の一人として知られています。  
-彼女の重厚でミニマルなサウンド、エネルギッシュなライブセット、そして主要フェスでの歴史的出演は、彼女を「テクノ女王（Techno Queen）」と称される理由です。
+La DJ/productrice belge **Charlotte de Witte** est actuellement connue comme l'une des figures les plus importantes du monde techno.
+Son son profond et minimaliste, ses concerts énergiques et ses apparitions historiques dans les grands festivals lui ont valu le surnom de « Techno Queen ».
 
-彼女のキャリアは、地元ゲントのアンダーグラウンドクラブでの静かなスタートから、TomorrowlandやMovement Festivalといった世界的フェスのメインステージを駆け上がる壮大な物語です。  
+Sa carrière est une histoire épique, depuis ses humbles débuts dans les clubs underground de sa ville natale de Gand jusqu'aux scènes principales de festivals internationaux tels que Tomorrowland et Movement Festival.
 
 ---
 
@@ -41,117 +41,117 @@ color: #fff;
 </style>
 
 
-## 幼少期と原点（〜2010）
+## Enfance et origines (~2010)
 
-Charlotte Aloïs de Witte は **1992年7月21日**、ベルギー・ゲントで生まれました。  
-ティーンエイジャーの頃、地元クラブやアンダーグラウンド・パーティに足を運び、エレクトロニック・ミュージックや地下クラブ文化に強く惹かれていきます。  
-この時期に培われた「ナイトクラブ愛」や「アンダーグラウンドへの敬意」が、後の強靭なテクノ・ワールド形成の基盤となりました。
-
----
-
-## DJとしてのスタートと「Raving George」時代（2010–2014）
-
-約 **2010年**、Charlotte はDJとしての活動を開始しました。当初はエレクトロやEDM寄りのスタイルをプレイしていたと報告されています。  
-初期キャリアでは「Raving George」という別名義も使用し、2011年にはベルギーのラジオ局 Studio Brussel 主催のDJコンテストで優勝。これにより、Tomorrowland のメインステージ出演を果たしました。  
-
-EPリリースも行い、Bad Life や Crux Records などから初期作品を発表。徐々にDJとしての名声を高めつつ、テクノへの転向を模索していきました。
+Charlotte Aloïs de Witte est née le **21 juillet 1992** à Gand, en Belgique.
+Adolescent, il fréquente les clubs locaux et les soirées underground et développe une forte fascination pour la musique électronique et la culture des clubs underground.
+L'« amour des boîtes de nuit » et le « respect de l'underground » cultivés au cours de cette période sont devenus plus tard le fondement de la formation d'un monde techno fort.
 
 ---
 
-## 本名での活動とテクノへの転向（2015–2018）
+## Débuts en tant que DJ et époque « Raving George » (2010-2014)
 
-**2015年**、Charlotte は「Raving George」の名義を捨て、本名 **Charlotte de Witte** で活動を開始。  
-この時期、彼女のサウンドはよりダークでミニマル、アシッド・テクノやインダストリアル要素を含むスタイルに変化します。
+Vers **2010**, Charlotte a débuté sa carrière en tant que DJ. On rapporte qu'au départ, ils jouaient un style qui penchait vers l'électro et l'EDM.
+Au début de sa carrière, il a également utilisé le pseudonyme de « Raving George » et a remporté en 2011 un concours de DJ sponsorisé par la radio belge Studio Brussel. Cela lui a valu une apparition sur la scène principale de Tomorrowland.
 
-代表作としては以下が挙げられます：
-
-- **Weltschmerz EP (2015, Turbo)**
-  - 代表曲：「Weltschmerz」  
-  - ダークで重厚なビート、アシッドラインを特徴とする。  
-
-- **Closer EP (2017, KNTXT)**
-  - 代表曲：「Closer」  
-  - ミニマルな構造と反復的リズムにより、フロアをトランス状態に誘導。  
-
-- **Wisdom EP (2017, KNTXT)**  
-  - 代表曲：「Wisdom」  
-  - ライブセットでのフロア統制を意識した構成。  
-
-また、BBC Radio 1 の Essential Mix（2018年）に出演するなど、国際的な注目を集めるようになりました。
+Il a également sorti un EP et a sorti ses premiers travaux sur des labels tels que Bad Life et Crux Records. Peu à peu, augmentant sa réputation de DJ, il commence à explorer les moyens de passer à la techno.
 
 ---
 
-## KNTXT：レーベルとブランドの創設（2019以降）
+## Travailler sous son vrai nom et se tourner vers la techno (2015-2018)
 
-**2019年**、Charlotte de Witte は自身のレーベル **KNTXT** を設立。  
-KNTXT は、純粋性、強さ、進化を理念として掲げ、彼女のミニマルで強力なテクノ哲学が反映されたブランドとなっています。  
+En **2015**, Charlotte a abandonné le nom « Raving George » et a commencé à travailler sous son vrai nom **Charlotte de Witte**.
+Durant cette période, son son prend un style plus sombre et minimaliste, incluant de la techno acide et des éléments industriels.
 
-レーベルを通じて新興アーティストを発掘・育成し、イベントシリーズやラジオショーも展開。これにより、KNTXT は単なるレーベルに留まらず、Charlotte のテクノワールドを象徴するコミュニティとなっています。
+Les œuvres représentatives comprennent :
+
+- **EP Weltschmerz (2015, Turbo)**
+- Chanson représentative : "Weltschmerz"
+- Présente un rythme sombre et lourd et une ligne acide.
+
+- **EP plus proche (2017, KNTXT)**
+- Chanson représentative : « Closer »
+- Induisez le sol dans un état de transe avec sa structure minimaliste et son rythme répétitif.
+
+- **EP Sagesse (2017, KNTXT)**
+- Chanson représentative : « Wisdom »
+- Composé en pensant au contrôle du sol pour les sets live.
+
+Il a également attiré l'attention internationale en apparaissant sur Essential Mix (2018) de BBC Radio 1.
 
 ---
 
-## グローバル展開と主要出演（2016–2025）
+## KNTXT : Création du label et de la marque (à partir de 2019)
 
-Charlotte のキャリアはヨーロッパから始まりました。ベルリンやバルセロナのクラブで出演し、2016年にはアメリカ進出。EDC Las Vegas などの大型フェスにも出演しました。
+**2019** Charlotte de Witte fonde son propre label **KNTXT**.
+KNTXT est une marque qui reflète sa philosophie techno minimale et puissante, avec une philosophie de pureté, de force et d'évolution.
 
-主要出演例：
+A travers le label, nous découvrons et développons des artistes émergents, et développons également des séries événementielles et des émissions de radio. De ce fait, KNTXT est plus qu'un simple label, c'est devenu une communauté qui représente le monde techno de Charlotte.
 
-- **Tomorrowland (ベルギー)**
-  - 2011年：メインステージ初出演  
-  - 2022年：メインステージクロージング（初の女性＆テクノアーティスト）  
-  - 2025年：オープニング＆クロージング同日出演予定  
+---
 
-- **Movement Festival (デトロイト)**
-  - 2023年：メインステージクロージング（初の女性）  
+## Expansion mondiale et apparitions majeures (2016-2025)
+
+La carrière de Charlotte a commencé en Europe. Il s'est produit dans des clubs de Berlin et de Barcelone, et s'est étendu aux États-Unis en 2016. Ils se sont également produits dans de grands festivals comme l'EDC Las Vegas.
+
+Exemples d'apparitions majeures :
+
+- **Tomorrowland (Belgique)**
+- 2011 : Première apparition sur la scène principale
+- 2022 : Fermeture de la scène principale (première artiste féminine & techno)
+- 2025 : Ouverture et fermeture programmées le même jour
+
+- **Festival du Mouvement (Détroit)**
+- 2023 : Clôture de la scène principale (première femme)
 
 - **BBC Radio 1 Essential Mix (2018)**
-  - 世界的ラジオでの注目出演。  
+- Apparitions en vedette à la radio mondiale.
 
-このように、クラブDJからグローバルフェスティバルアーティストへと順調に拡大しました。
-
----
-
-## サウンドの特徴と音楽性
-
-Charlotte de Witte の音楽は「ダークでスリム」、アシッド・テクノやミニマル・テクノを基調とし、インダストリアルな要素も含まれます。  
-
-- **ビート構造**：重厚なキック、反復的リズム、シンプルながら高密度なアレンジ  
-- **音色設計**：アナログシンセやアシッドラインを活用  
-- **ライブセット哲学**：フロアのエネルギー維持と統制を最優先  
-
-代表曲のサウンド解説：
-
-- **“The Healer” (2017, KNTXT)**  
-  ダークで緊張感のあるミニマルテクノ。ライブセットでのピーク時に使用。  
-
-- **“Selected” (2018, KNTXT)**  
-  重厚なキックと反復的なアシッドラインが特徴。  
-
-- **“Pressure” (2019, KNTXT)**  
-  インダストリアルテクノ要素を強く打ち出した作品。  
+De cette façon, il est passé avec succès du statut de DJ de club à celui d’artiste de festival mondial.
 
 ---
 
-## 社会的・文化的意義
+## Caractéristiques sonores et musicalité
 
-- **女性DJとしての先駆性**  
-  男性優位のテクノシーンにおいて、Charlotte はTomorrowlandやMovementでのクロージング出演など、歴史的快挙を成し遂げました。  
+La musique de Charlotte de Witte est « sombre et mince », basée sur de l'acide et de la techno minimale, avec quelques éléments industriels.
 
-- **若手アーティスト支援**  
-  KNTXTを通じて、次世代のアーティストにプラットフォームを提供。  
+- **Structure du rythme** : Kick lourd, rythme répétitif, arrangement simple mais dense
+- **Tone design** : utilisez des synthés analogiques et des lignes acides
+- **Philosophie Live Set** : donner la priorité à la maintenance et au contrôle de l'énergie au sol
 
-- **文化的象徴**  
-  アンダーグラウンドとメインステージ、クラブとフェスを繋ぐ存在として、テクノ文化における重要なアイコンとなっています。
+Explication sonore des chansons représentatives :
+
+- **«Le guérisseur» (2017, KNTXT)**
+Techno minimale sombre et tendue. Utilisé pendant les heures de pointe dans les sets live.
+
+- **« Sélectionné » (2018, KNTXT)**
+Caractérisé par des coups de pied lourds et des lignes acides répétitives.
+
+- **« Pression » (2019, KNTXT)**
+Une œuvre qui met fortement l’accent sur les éléments de techno industrielle.
 
 ---
 
-## 最新展開：デビュー・アルバムと将来展望（2024–2025）
+## Importance sociale et culturelle
 
-- **Époque レーベル設立 (2024)**  
-  KNTXT店舗をブリュッセルに開設し、新レーベルをローンチ。  
+- **Pionnière en tant que DJ féminine**
+Sur la scène techno dominée par les hommes, Charlotte a réalisé des exploits historiques, notamment des apparitions finales sur Tomorrowland et Movement.
 
-- **先行シングル “The Realm” (2025年4月)**  
-  デビューアルバムからの先行リリース。ライブセットでも披露され、ファンの期待が高まっています。  
+- **Soutien aux jeunes artistes**
+Grâce à KNTXT, nous fournissons une plate-forme à la prochaine génération d'artistes.
+
+- **Symbole culturel**
+Il est devenu une icône importante de la culture techno, reliant l'underground et la scène principale, les clubs et les festivals.
+
+---
+
+## Derniers développements : premier album et perspectives d’avenir (2024-2025)
+
+- **Label Époque établi (2024)**
+Ouverture du magasin KNTXT à Bruxelles et lancement d'une nouvelle marque.
+
+- **Single précédent « The Realm » (avril 2025)**
+Sortie anticipée du premier album. Il a également été joué lors d'un live et les attentes des fans sont élevées.
 
 - **Premier album éponyme « Charlotte de Witte » (novembre 2025)**
 Une œuvre qui résume sa propre philosophie musicale et son univers techno.
@@ -250,5 +250,14 @@ Il a construit un monde qui incarne sa philosophie et sa sensibilité musicale, 
 
 Son premier album en 2025 est une expression introspective de son univers techno.
 Le monde techno de Charlotte de Witte continuera de s'étendre à travers ses apparitions en festival et ses activités en label.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UwFBtBZ1Las?si=eh-3itjSVeqB3udz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

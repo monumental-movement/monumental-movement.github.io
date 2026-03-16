@@ -27,7 +27,7 @@ Parmi celles-ci, la **méditation Vipassana (Insight Meditation)** a été accep
 
 Cette chronique se concentre sur **des musiciens célèbres qui ont pratiqué et expérimenté la méditation Vipassana** et fournit une introduction factuelle sur la façon dont ils ont intégré la méditation dans leurs propres créations et vies.
 
-> La méditation Vipassana est transmise depuis l'Antiquité comme méthode de méditation permettant de « voir les choses telles qu'elles sont réellement » et, à l'époque moderne, de nombreux pratiquants apparaissent non seulement parmi les athlètes et les managers, mais également parmi les artistes créatifs.
+> La méditation Vipassana est transmise depuis l'Antiquité comme méthode de méditation permettant de « voir les choses telles qu'elles sont réellement » et, à l'époque moderne, de nombreux pratiquants apparaissent non seulement parmi les athlètes et les dirigeants d'entreprise, mais également parmi les artistes créatifs.
 
 ---
 
@@ -129,7 +129,7 @@ graph LR
 
 Concernant les pratiquants de la méditation Vipassana**
 Bien que peu de musiciens aient confirmé des preuves publiées dans le monde entier,
-**Il existe au moins des exemples comme celui de Rivers Cuomo où les pratiques quotidiennes sont révélées. **
+**Il existe au moins des exemples comme Rivers Cuomo où les pratiques quotidiennes sont révélées. **
 
 De nombreux autres artistes apprennent la méditation pour s’explorer, améliorer leur concentration et stabiliser leurs performances, et les liens entre l’industrie musicale et les praticiens de la méditation continueront probablement d’être un sujet d’intérêt à l’avenir.
 

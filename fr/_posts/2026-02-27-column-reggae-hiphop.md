@@ -51,7 +51,7 @@ Les points de contact entre les deux sont la culture du sound system, le toastin
 *Migration culturelle par diaspora
 * Expression de soi depuis la périphérie urbaine
 
-> Le reggae et le hip-hop sont des « cultures sœurs » avec la même structure développée dans des villes différentes.
+> Le reggae et le hip-hop sont des « cultures sœurs » avec la même structure développées dans des villes différentes.
 
 ---
 
@@ -110,7 +110,7 @@ De plus, des artistes tels que **Rihanna** et **Drake** ont introduit des élém
 | 1973 | DJ Kool Herc développe des breakbeats dans le Bronx |
 | 1985 | Sous l'annonce de Mi Sleng Teng |
 | années 1990 | Progrès dans la fusion du dancehall et du hip-hop |
-| Années 2000 | Le dancehall devient une pop mondiale |
+| Années 2000 | Le dancehall devient pop mondiale |
 
 ---
 
@@ -171,7 +171,7 @@ Le reggae a présenté une identité sonore postcoloniale. Le hip-hop visualisai
 
 ### Qu'est-ce qui est arrivé en premier, le reggae ou le hip hop ?
 
-Le reggae, y compris sa culture du grillage, l'a précédé et ses techniques ont influencé la formation du hip-hop.
+Le reggae, y compris sa culture du toasting, l'a précédé et ses techniques ont influencé la formation du hip-hop.
 
 ### Pourquoi les deux sont-ils liés ?
 

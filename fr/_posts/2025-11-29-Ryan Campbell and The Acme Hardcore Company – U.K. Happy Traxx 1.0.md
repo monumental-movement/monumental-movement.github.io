@@ -17,7 +17,7 @@ title: Ryan Campbell & The Acme Hardcore Company – Royaume-Uni Happy Traxx 1.0
 
 Un morceau Hardcore/Happy Hardcore sorti en 1996 par le label italien D-Boy Records.
 
-The Acme Hardcore Company est un duo formé par le producteur/DJ hardcore britannique Jason Holloway et le DJ/graphiste Stuart Devlin (Stu. J.). Les autres noms incluent Cartoon Capers, Stu.J. & OVNI.
+The Acme Hardcore Company est un duo composé du producteur/DJ hardcore britannique Jason Holloway et du DJ/graphiste Stuart Devlin (Stu. J.). Les autres noms incluent Cartoon Capers, Stu.J. & OVNI.
 
 A utilise un extrait de « Go get busy on the tempo » de DJ Weirdo & DJ Sim.
 

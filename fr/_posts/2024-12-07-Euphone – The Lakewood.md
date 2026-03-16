@@ -10,15 +10,15 @@ tags:
 - Acid Jazz
 - Future Jazz
 - 00s
-title: Euphone – The Lakewood
+title: Euphone – Le Lakewood
 ---
 
 
-Euphone(ユーフォン)は、シカゴを拠点に活動するポストロックバンド。
+Euphone est un groupe post-rock basé à Chicago.
 
-Five Style (5スタイル)の元メンバーでありThe Lonesome Organist(ロンサムオルガニスト)名義でも活動するJeremy Jacobsenがこのアルバムから正式にメンバーとして参加している。
+Jeremy Jacobsen, ancien membre de Five Style et également connu sous le nom de The Lonesome Organist, rejoint officiellement le groupe à partir de cet album.
 
-このアルバムは、2001年に音楽誌AFTERHOURSが企画・リリースしたスペシャルアルバム。従来のポストロックスタイルをベースとしながら、アシッドジャズ、DUB、音響、ミニマルなど様々な音楽テイストを取り入れた意欲作。
+Cet album est un album spécial prévu et publié par le magazine musical AFTERHOURS en 2001. Il s'agit d'une œuvre ambitieuse qui intègre divers goûts musicaux tels que l'acid jazz, le DUB, l'acoustique et le minimaliste tout en étant basé sur le style post-rock traditionnel.
 
 #### Liste des chansons
 ```md

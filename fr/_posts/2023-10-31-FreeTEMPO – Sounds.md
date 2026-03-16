@@ -10,19 +10,19 @@ tags:
 - House
 - Electro
 - Downtempo
-title: FreeTEMPO – Sounds
+title: FreeTEMPO – Sons
 ---
 
 
-FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト。2000年にFreeTEMPO名義で活動開始。
+FreeTEMPO est un projet de Takeshi Hanzawa. Début des activités sous le nom de FreeTEMPO en 2000.
 
-2002年、イタリアのレーベルIRMA RECORDSに参加し、1stミニアルバム『Love affair』をリリース。
+En 2002, elle rejoint le label italien IRMA RECORDS et sort son premier mini-album « Love Affair ».
 
-以降、数々のアルバムやシングルをリリースし、メロディックな楽曲と洗練されたサウンドで、国内外で多くのファンを獲得。
+Depuis, ils ont sorti de nombreux albums et singles, gagnant de nombreux fans au Japon et à l'étranger grâce à leurs chansons mélodiques et leur son sophistiqué.
 
-2010年にFreeTEMPO名義での活動を休止し、その後は様々な音楽プロジェクトに参加。
+En 2010, il suspend ses activités sous le nom de FreeTEMPO, et participe depuis à divers projets musicaux.
 
-2021年に11年ぶりにFreeTEMPO名義での活動を再開。
+En 2021, il reprend les activités sous le nom de FreeTEMPO pour la première fois depuis 11 ans.
 
 #### Liste des chansons
 ```md

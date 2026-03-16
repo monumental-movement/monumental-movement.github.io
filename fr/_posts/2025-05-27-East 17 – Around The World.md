@@ -11,15 +11,15 @@ tags:
 - Euro House
 - House
 - 90s
-title: East 17 – Around The World
+title: Est 17 – Autour du monde
 ---
 
 
-East 17 (イースト17)は、ヒットシングル「Stay Another Day」で知られるUKのポップ・ボーイズバンド。
+East 17 est un groupe de pop boys britannique connu pour son single "Stay Another Day".
 
-「Around The World」は、1994年にLondon Recordsからリリースされたユーロハウス・ハウストラック。
+"Around The World" est un morceau house d'Eurohouse sorti par London Records en 1994.
 
-B面2曲目は、Sting, TLC, Fun Fun, Tavares, The Limit, Bill Withers, Frankie Valli & The Four Seasons, Hot Chocolate, Pia Zadora, The Doobie Brothers, The Art Of Noise, Dimples D, Phil Collins, Jeff Wayne等さまざまなアーティストのremixを手掛けるリミキサーBen Liebrandによるmix。
+Le deuxième morceau de la face B est un mix du remixeur Ben Liebrand, qui a remixé divers artistes tels que Sting, TLC, Fun Fun, Tavares, The Limit, Bill Withers, Frankie Valli & The Four Seasons, Hot Chocolate, Pia Zadora, The Doobie Brothers, The Art Of Noise, Dimples D, Phil Collins, Jeff Wayne, etc.
 
 #### Liste des chansons
 ```md

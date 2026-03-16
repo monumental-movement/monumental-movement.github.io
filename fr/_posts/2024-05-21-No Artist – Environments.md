@@ -11,11 +11,11 @@ tags:
 - Therapy
 - Healing
 - Meditation
-title: No Artist – Environments (New Concepts In Stereo Sound) (Cassette Two)
+title: No Artist – Environnements (nouveaux concepts en son stéréo) (cassette deux)
 ---
 
 
-アメリカのレーベルAtlanticが、1970年代にSyntonic Research Seriesとしてリリースした一つ。タイトル「Environments」（＝「環境」）の通り、フィールドレコーディングをベースとした心地の良いリラクゼーションミュージック。
+Une des chansons publiées par le label américain Atlantic dans les années 1970 dans le cadre de la Syntonic Research Series. Comme le titre « Environnements » le suggère, il s'agit d'une musique de relaxation apaisante basée sur des enregistrements de terrain.
 
 #### Liste des chansons
 ```md

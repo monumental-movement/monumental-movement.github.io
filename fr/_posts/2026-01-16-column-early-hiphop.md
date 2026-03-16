@@ -79,7 +79,7 @@ Le DJ était chargé de préparer l'équipement de sonorisation, d'assurer l'ali
 
 Le fait d'extraire des parties rythmiques de disques funk et soul et de les répéter tout en observant la réaction du public est devenu spontané et sophistiqué.
 
-À cette époque, les DJ étaient plus des manipulateurs de temps que des créateurs.
+A cette époque, les DJ étaient moins des créateurs que des contrôleurs du temps.
 
 > Le rôle du DJ n'était pas de jouer de la musique, mais de contrôler l'énergie du groupe.
 
@@ -127,7 +127,7 @@ Des phrases courtes, des phrases qui riment et des appels répétés émergent n
 ## Graffitis et surfaces urbaines
 
 
-À la même époque, les graffitis sur les métros et les bâtiments étaient également profondément liés aux débuts de la culture hip-hop.
+À peu près à la même époque, les graffitis sur les métros et les bâtiments étaient également profondément liés aux débuts de la culture hip-hop.
 
 Le fait d'écrire son nom, de laisser une trace et de graver sa présence dans l'espace urbain en mouvement était un moyen d'expression, au même titre que la musique et la danse.
 

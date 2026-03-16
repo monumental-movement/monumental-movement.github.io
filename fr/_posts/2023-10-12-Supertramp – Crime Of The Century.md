@@ -9,15 +9,15 @@ permalink: /fr/supertramp-crime-of-the-century/
 tags:
 - Rock
 - Progressive
-title: Supertramp – Crime Of The Century
+title: Supertramp – Crime du siècle
 ---
 
 
-Supertramp（スーパートランプ）は、イギリスのプログレッシブ・ロックバンド。
+Supertramp est un groupe de rock progressif britannique.
 
-1974年にリリースされた「Crime Of The Century」は、スーパートランプの3枚目のスタジオアルバムで、バンドの代表作の1つとして高く評価されており、特にアルバムに収録されている「Dreamer」と「Bloody Well Right」はバンドの代表曲としてよく知られています。
+« Crime Of The Century », sorti en 1974, est le troisième album studio de Supertramp, et est hautement considéré comme l'un des chefs-d'œuvre du groupe, en particulier « Dreamer » et « Bloody Well Right », qui sont inclus dans l'album, sont bien connus comme les chansons signature du groupe.
 
-プログレッシブ・ロックやアート・ロックの要素を取り入れた「Crime Of The Century」は、音楽批評家やファンから高い評価を受け、スーパートランプの成功の礎となった重要なアルバムとされており、70年代のロックミュージックの傑作の一つとして名高い一枚。
+"Crime Of The Century", qui incorpore des éléments de rock progressif et d'art rock, a reçu de nombreux éloges de la part des critiques musicaux et des fans, et est considéré comme un album important qui a jeté les bases du succès de Supertramp et est reconnu comme l'un des chefs-d'œuvre de la musique rock des années 70.
 
 #### Liste des chansons
 ```md

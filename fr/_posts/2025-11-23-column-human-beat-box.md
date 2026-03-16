@@ -240,13 +240,13 @@ timeline
 
 # 9. Tendances Beatbox dans le monde et à l'avenir
 
-## ◆ 1. La frontière entre la production musicale est floue
+## ◆ 1. La frontière entre la production musicale s'estompe
 Avec le développement de Loopstation, le beatboxing
 **"Version en temps réel de la production musicale"**
 Vers un espace que l'on peut appeler
 
 ## ◆ 2. Combinaison avec la culture visuelle
-Les « vitrines vidéo » se multiplient dans les compétitions du monde entier.
+Le nombre de « vitrines vidéo » augmente dans les tournois du monde entier.
 Nous vivons à une époque où les SNS accélèrent le style.
 
 ## ◆ 3. L'avenir des atouts japonais
@@ -264,7 +264,7 @@ On peut s’attendre à ce qu’il continue à être actif à la fois dans Loops
 
 # Conclusion - Le Human Beatbox en tant que culture
 
-Human Beatbox est une culture expressive moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
+Human Beatbox est une culture d’expression moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
 Maintenant que la culture de la compétition mûrit, que la technologie évolue et que des artistes japonais émergent, le beatboxing subit des changements majeurs et le beatboxing devient plus qu'une simple technique, il devient un genre musical international.
 
 J'espère que cet article vous aidera à comprendre l'histoire et l'avenir du beatboxing.

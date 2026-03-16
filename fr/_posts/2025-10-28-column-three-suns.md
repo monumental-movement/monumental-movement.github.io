@@ -65,7 +65,7 @@ Ce son était une « lumière sonore » qui réchauffait le microcosme de la mai
 
 L'accordéon de Morty Nevins n'était pas seulement un accompagnement, c'était un créateur de mélodie et d'espace.
 Le lead bouge comme une diapositive, le soufflet bouge comme une respiration et le tempo fluctue légèrement.
-Ceux-ci créent la **sentiment unique de flottement et de bonheur** de Three Suns.
+Ceux-ci créent la **sentiment unique de flottement et de bonheur** des Trois Soleils.
 
 Dans les années 1950, ils signent un contrat avec RCA et publient une série d'œuvres expérimentales intégrant l'enregistrement magnétique et la technologie stéréo.
 "Movin' 'n' Groovin'" (1956), "Midnight for Two" (1957), etc.
@@ -164,7 +164,7 @@ Cela commence à nouveau à paraître au nom d’un « avenir analogique ».
 
 | Année | Titre | Étiquette | Remarques |
 | ---- | ------------------- | ---- | ------------------ |
-| 1944 | Temps crépusculaire | RCA | Chanson signature, reprise plus tard par Platters |
+| 1944 | Temps du crépuscule | RCA | Chanson signature, reprise plus tard par Platters |
 | 1953 | Sur un tapis magique | RCA | Le germe du son exotique |
 | 1956 | Bouger et groover | RCA | Un chef-d'œuvre des débuts de la stéréo |
 | 1957 | Minuit pour deux | RCA | Enregistrement Hi-Fi complet |

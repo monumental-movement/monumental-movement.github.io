@@ -29,7 +29,7 @@ title: '[Chronique] Dego & Kaidi et Signature sonore'
 Texte : mmr｜Thème : EUK À propos de l'intersection du Broken Beat et de la musique noire mondiale
 
 
-À la fin des années 1990, un nouveau mouvement musical a émergé dans la culture des clubs de l’ouest de Londres. Il s'agit d'un genre appelé « Broken Beat » (également connu sous le nom de « Bruk »), qui diffère de la house 4/4 traditionnelle ou de la drum and bass, et incorpore audacieusement des rythmes complexes et rebondissants et des éléments de jazz, de funk et de soul. Plus qu'un simple style de musique, Broken Beat s'est développé à partir de la communauté noire de l'ouest de Londres, de la culture des clubs et des réseaux créatifs underground.
+À la fin des années 1990, un nouveau mouvement musical a émergé dans la culture des clubs de l’ouest de Londres. Il s'agit d'un genre appelé « Broken Beat » (également connu sous le nom de « Bruk »), qui diffère de la house 4/4 traditionnelle ou de la drum and bass, et incorpore audacieusement des rythmes complexes et rebondissants et des éléments de jazz, de funk et de soul. Plus qu'un simple style de musique, Broken Beat s'est développé à partir des communautés noires de l'ouest de Londres, de la culture des clubs et des réseaux créatifs underground.
 
 <div class="mermaid">
 flowchart TD
@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Le noir a joué un rôle central dans cette tendance. La gestion du label par Dego a donné naissance à de nombreux artistes et sorties Broken Beat, ce qui en fait un centre culturel pour la musique noire britannique. La collaboration entre Kaidi et Dego s'est également nourrie dans cet environnement, produisant de nombreux succès en club et en studio.
+2000Le noir a joué un rôle central dans cette tendance. La gestion du label par Dego a donné naissance à de nombreux artistes et sorties Broken Beat, ce qui en fait un centre culturel pour la musique noire britannique. La collaboration entre Kaidi et Dego a également été favorisée dans cet environnement, produisant de nombreux succès en club et en studio.
 
 ---
 
@@ -182,7 +182,7 @@ La collaboration entre Dego & Kaidi et Sound Signature était plus que la simple
 | 1999 | Kaidi & 2000Black collaboration initiale |
 | 2003 | Annonce de l'hymne du club par Dego & Kaidi |
 | 2006 | Bugz dans le grenier « De retour dans la niche » |
-| 2015 | Dego et Kaidi « ADAM ROCK DISSÉ !! » Sortie EP |
+| 2015 | Dego & Kaidi «ADAM ROCK DISSED !!» Sortie EP |
 | 2017 | Sortie de l'album « A So We Gwarn » |
 | 2017 à aujourd'hui | Les activités solo et collaboratives se poursuivent, Sound Signature évolue |
 

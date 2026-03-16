@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## 2. La production hip-hop en tant que culture antécédente
+## 2. La production hip-hop comme culture antérieure
 
 Les origines directes du Lo-Fi Hip Hop résident dans la culture de production hip-hop beat de la fin des années 1980 et 1990. Des techniques telles que la construction de rythmes répétitifs à l'aide d'échantillonneurs et de boîtes à rythmes, l'échantillonnage à partir de disques et la reconstruction de breakbeats ont été reprises dans la production ultérieure de rythmes Lo-Fi.
 
@@ -117,7 +117,7 @@ Si cette formalisation abaisse les barrières à l’entrée, elle limite égale
 
 ## 10. Commercialisation et perspective critique
 
-Lo‑Fi Hip Hop/Chillhop est fortement lié à un modèle de revenus basé sur les vues en streaming. Les structures adaptées à une lecture à long terme sont hautement compatibles avec les algorithmes et il existe de nombreux cas de succès commercial.
+Lo‑Fi Hip Hop/Chillhop était fortement lié à un modèle de revenus basé sur les vues en streaming. Les structures adaptées à une lecture à long terme sont hautement compatibles avec les algorithmes et il existe de nombreux cas de succès commercial.
 
 D’un autre côté, on critique également le fait que la consommation de musique en tant que fond rend difficile l’évaluation d’œuvres individuelles.
 
@@ -135,7 +135,7 @@ Cette culture ne se limite pas à une région spécifique, mais se forme simulta
 
 ---
 
-## 13. 年表
+## 13. Chronologie
 
 ### Fin des années 1980
 
@@ -155,7 +155,7 @@ Cette culture ne se limite pas à une région spécifique, mais se forme simulta
 
 ### Années 2020
 
-* La consommation de musique environnementale devient monnaie courante
+* La consommation de musique environnementale est devenue monnaie courante
 
 ---
 
@@ -181,7 +181,7 @@ Cette expansion de la culture a été soutenue par le déplacement du rôle de l
 
 ---
 
-## 16. La structure musicale à l’ère des algorithmes
+## 16. La structure musicale à l'ère des algorithmes
 
 Les algorithmes de recommandation dans les plateformes de distribution ont eu une forte influence sur la formation de la structure du Lo-Fi Hip Hop/Chillhop. La stabilité qui réduit le taux d'abandon est devenue plus importante que les introductions qui font impression dans un court laps de temps ou les développements spectaculaires.
 
@@ -244,7 +244,7 @@ Cette culture de l’imitation a conduit à une homogénéisation des genres et 
 
 ### Début des années 2000
 
-* La diffusion de l'environnement DAW et la normalisation de la production individuelle
+* Diffusion de l'environnement DAW et normalisation de la production individuelle
 
 ### Fin des années 2000
 

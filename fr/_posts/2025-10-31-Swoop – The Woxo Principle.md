@@ -18,7 +18,7 @@ title: Swoop – Le principe Woxo
 
 Swoop – Le principe Woxo
 
-Swoop - Waxo Prince Copain
+Swoop – Waxo Prince Copain
 
 #### Liste des chansons
 ```md

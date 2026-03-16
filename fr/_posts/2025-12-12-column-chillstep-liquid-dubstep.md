@@ -20,7 +20,7 @@ title: '[Chronique] Chillstep / Liquid Dubstep'
 
 Texte : mmr｜Thème : À propos du « dubstep émotionnel » né entre silence et basse
 
-Chillstep et Liquid Dubstep sont des genres dérivés qui ont commencé à prendre forme sur Internet vers 2010, mettant l'accent sur les aspects mélodiques et ambiants du dubstep. Contrairement aux basses wobbleuses agressives du dubstep traditionnel, à la modulation de filtre dure et aux leads métalliques post-brostep, Chillstep met en avant « le calme, la transparence et un contour doux du grave ».
+Chillstep et Liquid Dubstep sont des genres dérivés qui ont commencé à prendre forme sur Internet vers 2010, mettant l'accent sur les aspects mélodiques et ambiants du dubstep. Contrairement aux basses wobbleuses agressives du dubstep traditionnel, à la modulation de filtre dure et aux leads métalliques post-brostep, Chillstep met en avant « le silence, la transparence et une gamme basse définie en douceur ».
 
 Le flux de fond est le suivant.
 
@@ -80,7 +80,7 @@ Le symbole du Chillstep est « des basses douces ».
 
 * Centre d'onde sinusoïdale
 * Ajustez la chaleur avec une légère distorsion (écrêtage doux)
-* Produisez des fluctuations semblables à celles d'une respiration avec un LFO léger (1/4, 1/8, etc.)
+* Produisez des fluctuations ressemblant à une respiration avec un LFO léger (1/4, 1/8, etc.)
 * Ajoutez de l'émotion grâce aux changements de volume sans utiliser de modulation de filtre excessive
 
 ### 2-3 Conception de mélodies et de synthés
@@ -144,15 +144,15 @@ MitiS a une formation en piano classique et apporte une émotion unique au Chill
 * Mélange transparent et incassable
 * Sentiment de montée semblable à une transe
 * Coupe vocale soigneusement traitée
-* Superposé avec un synthétiseur staccato
+* Superposé avec un synthé staccato
 
 Le travail de MitiS chevauche doucement la frontière entre le Chillstep et le Melodic Dubstep, présentant une structure plus dramatique.
 
 ---
 
-## 4. La culture vidéo de Chillstep et sa diffusion sur Internet
+## 4. Culture vidéo et diffusion sur Internet de Chillstep
 
-Il est important que le Chillstep se diffuse en tant que « culture visuelle » au même titre que la musique.
+Il est important que le Chillstep se propage en tant que « culture visuelle » au même titre que la musique.
 
 * Vue nocturne, ciel étoilé, brouillard, forêt
 * Tonalité cinématique à faible saturation
@@ -290,8 +290,8 @@ Chillstep, qui est une combinaison de « musique + visuels + histoire », est su
 
 Chillstep / Liquid Dubstep est une musique qui supprime les aspects agressifs du dubstep et le restructure autour de l'émotion, du décor et de la tranquillité. Des artistes tels que Blackmill et MitiS ont défini le genre par leur lyrisme et leur traitement sonore soigné, créant de nombreux adeptes.
 
-Sa musicalité ne repose pas sur la « force » mais sur « la température, la respiration et les espaces vides ».
-Une fin de nuit calme, la lumière d'une vidéo, un paysage brumeux : Chillstep continue d'avoir une solide présence en se nichant dans ces scènes.
+Sa musicalité n'est pas basée sur la « force » mais sur « la température, la respiration et les espaces vides ».
+Une fin de nuit tranquille, la lumière d'une vidéo, un paysage brumeux : Chillstep continue d'avoir une solide présence en se nichant dans ces scènes.
 
 ---
 

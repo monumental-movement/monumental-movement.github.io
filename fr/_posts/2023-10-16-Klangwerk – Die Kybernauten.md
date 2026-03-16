@@ -9,13 +9,13 @@ permalink: /fr/klangwerk-die-kybernauten/
 tags:
 - Trance
 - Techno
-title: Klangwerk – Die Kybernauten
+title: Klangwerk – Les Kybernauten
 ---
 
 
-Klangwerkは、初期のジャーマンダンスシーンで活躍したDJ/プロデューサーのTorsten Fenslau（トルステン・フェンスラウ）とPeter Zweier＆Alexander Abrahamによるユニット。別名義で LDCとしても活躍。
+Klangwerk est une unité composée du DJ/producteur Torsten Fenslau, actif sur la première scène de danse allemande, et de Peter Zweier et Alexander Abraham. Également actif en tant que LDC sous un nom différent.
 
-1990年にリリースされた「Die Kybernauten」は、クラブヒットとなりこの時代のアンセム＆クラシックとされている。
+"Die Kybernauten", sorti en 1990, est devenu un succès en club et est considéré comme un hymne et un classique de l'époque.
 
 #### Liste des chansons
 ```md

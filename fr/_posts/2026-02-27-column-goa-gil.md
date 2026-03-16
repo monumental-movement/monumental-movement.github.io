@@ -11,25 +11,25 @@ tags:
 - Goa Trance
 - Psy trance
 - Trance
-title: 【コラム】 Goa Gil：終わらないダンスフロアと儀式の時間
+title: '[Chronique] Goa Gil : Piste de danse sans fin et temps rituel'
 ---
 
 
 
-## Goa Gilとは何者か
+## Qui est Goa Gil ?
 
-文：mmr｜テーマ：ゴアの浜辺から世界のフェスへ──儀式としてのDJセット史
+Texte : mmr｜Thème : Des plages de Goa aux festivals du monde entier – l'histoire des DJ sets comme rituel
 
-Goa Gilは、アメリカ出身のDJであり、ゴア・トランス黎明期から活動した中心人物のひとりである。1960年代サンフランシスコのカウンターカルチャーを経て、1970年代初頭にインド・ゴアへ移住。以後、数十年にわたり野外パーティー文化を牽引した。
+Goa Gil est un DJ américain et l'une des figures centrales actives depuis les débuts de la transe Goa. Après avoir expérimenté la contre-culture à San Francisco dans les années 1960, il s'installe à Goa, en Inde, au début des années 1970. Après cela, elle a dominé la culture des fêtes en plein air pendant plusieurs décennies.
 
-* 本名：Gilbert Levey
-* 1951年アメリカ生まれ
-* 1970年代初頭にゴアへ移住
-* 1980年代よりDJ活動本格化
-* 10時間超のロングセットで知られる
-* 2023年死去
+*Vrai nom : Gilbert Levey
+* Né en Amérique en 1951
+* A déménagé à Goa au début des années 1970
+* L'activité DJ a véritablement débuté dans les années 1980
+* Connu pour ses longues séries de plus de 10 heures
+* Décédé en 2023
 
-> 彼にとってDJとは、時間を解体し再構築する行為だった。
+> Pour lui, le DJing était un acte de démantèlement et de reconstruction du temps.
 
 ---
 
@@ -49,9 +49,9 @@ color: #fff;
 
 ## Histoire
 
-### 1. ゴアのビーチ・パーティーの始まり
+### 1. La fête sur la plage de Goa commence
 
-1970年代のゴアでは、アンジュナやバガなどのビーチで小規模な集まりが自然発生的に行われていた。電源は簡易的な発電機、装飾は手作り、照明も最低限。夜が深まるにつれて人が集まり、夜明けとともに静かに解散する。
+À Goa, dans les années 1970, de petits rassemblements se produisaient spontanément sur des plages comme Anjuna et Baga. La source d'alimentation est un simple générateur, les décorations sont faites à la main et l'éclairage est minimal. Les foules se rassemblent à mesure que la nuit avance et se dispersent tranquillement à l'aube.
 
 Au début, le rock, le rock psychédélique, le rock progressif, le funk et le disco étaient populaires. Les disques provenaient d'Europe et d'Amérique.
 

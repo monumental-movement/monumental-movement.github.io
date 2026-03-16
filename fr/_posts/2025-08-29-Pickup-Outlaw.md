@@ -13,25 +13,25 @@ tags:
 - 80s
 - 90s
 - 00s
-title: アウトロー（Outlaw）作品をピックアップ
+title: Récupérez les œuvres d'Outlaw
 ---
 
 
-「逸脱は相互作用の産物、アウトロー（Outlaw）作品群」
+« La déviation est le produit de l’interaction, fonctionne Outlaw »
 
 <hr>
 
 ### Merzbow – Merzbird
 <a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-形式：CD
+Format : CD
 
-ジャンル：Experimental Noise
+Genre : Bruit expérimental
 
-概要：2004年にImportant Recordsからリリースされた、ノイズ・アーティスト・Merzbowによる破壊的表現の極致作品。
+Résumé : Sorti en 2004 par Important Records, c'est l'œuvre ultime d'expression destructrice de l'artiste noise Merzbow.
 
 
-アウトロー感：音の破壊を芸術にまで押し上げた挑戦性は、音楽そのものを規範から逸脱させる「合法的暴力」。周縁における自由な破壊の象徴。
+Sentiment de hors-la-loi : le défi qui élève la destruction sonore au rang d'art est une « violence légale » qui fait que la musique elle-même s'écarte de la norme. Un symbole de destruction sans entrave à la périphérie.
 
 #### Liste des chansons
 ```md
@@ -55,14 +55,14 @@ title: アウトロー（Outlaw）作品をピックアップ
 ### Joey Beltram – The Rising Sun (CD, Mix Techno)
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-形式：CD
+Format : CD
 
-ジャンル：Mix Techno
+Genre : Mix Techno
 
-概要：2004年リリース、Tresorとのコラボ作品。代表的なテクノプロデューサーによる深層への導入。
+Résumé : Sorti en 2004, un travail en collaboration avec Tresor. Une introduction approfondie par un producteur techno de premier plan.
 
 
-アウトロー感：ベルリン地下の鼓動としてのテクノ精神。制度に埋没しない音の闘争性。
+Sentiment d'outlaw : l'esprit de la techno comme battement de cœur de l'underground berlinois. Un son combatif qui ne se laisse pas submerger par le système.
 
 #### Liste des chansons
 ```md
@@ -88,17 +88,17 @@ title: アウトロー（Outlaw）作品をピックアップ
 <br>
 
 
-### Various – Tresor Compilation Vol. 6
+### Divers – Compilation Trésor Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-形式：CD
+Format : CD
 
-ジャンル：German Techno / Compilation
+Genre : Techno allemande / Compilation
 
-概要：1998年リリース、80〜90年代テクノ・シーンを俯瞰した豪華コンピ。
+Résumé : Sortie en 1998, une superbe compilation qui surplombe la scène techno des années 80 et 90.
 
 
-アウトロー感：ベルリン初期テクノの歴史的結節点を体験できる、反主流の文化蓄積。
+Sentiment de hors-la-loi : une accumulation culturelle anti-mainstream où vous pourrez découvrir le moment historique de la première techno berlinoise.
 
 #### Liste des chansons
 ```md
@@ -126,16 +126,16 @@ title: アウトロー（Outlaw）作品をピックアップ
 <hr>
 <br>
 
-### Tresor Compilation Vol. 7
+### Trésor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-形式：CD
+Format : CD
 
-ジャンル：German Techno / Compilation
+Genre : Techno allemande / Compilation
 
-概要：1999年版。「深いテクノ」を俯瞰する定番コレクション。
+Résumé : édition 1999. Une collection classique qui offre une vue plongeante sur la « deep techno ».
 
-アウトロー感：コンピという形式で複数のアウトロー音を束ねた、サウンド都市の暗部巡礼。
+Outlaw sentiment : Un pèlerinage vers le côté obscur de la ville sonore, combinant de multiples sons hors-la-loi sous la forme d'une compilation.
 
 #### Liste des chansons
 ```md
@@ -163,17 +163,17 @@ title: アウトロー（Outlaw）作品をピックアップ
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlin 1992 Tresor Compilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-形式：Vinyl
+Format : Vinyle
 
-ジャンル：Acid / Techno / Trance
+Genre : Acide / Techno / Trance
 
-概要：1992年リリース、Tresor初期の名コンピ。「家族の響き」を音にした歴史的一枚。
+Résumé : Sortie en 1992, une superbe compilation des premières années de Tresor. Une pièce historique qui incarne les « échos de la famille ».
 
 
-アウトロー感：シーンの誕生を包み込む、都市的共同体の即興と暗闘の記憶。
+Sentiment de hors-la-loi : souvenirs d'improvisation de la communauté urbaine et de sombres luttes qui entourent la naissance de la scène.
 
 #### Liste des chansons
 ```md
@@ -200,17 +200,17 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 <br>
 
 
-### Benga & Walsh vs Darqwan – Addicts / Megatection
+### Benga & Walsh contre Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-形式：Vinyl / CD
+Format : Vinyle/CD
 
-ジャンル：Dubstep
+Genre : Dubstep
 
-概要：各アーティストの個性が際立つ構成で、低音トリガーとしてのアウトロー性を体感。
+Présentation : Découvrez la nature hors-la-loi d'un déclencheur de basse avec une composition qui met en valeur l'individualité de chaque artiste.
 
 
-アウトロー感：ベースによる身体への直接侵入。聴覚を越える暴力性と連帯を内包。
+Sentiment de hors-la-loi : Envahissement direct du corps par la base. Contient de la violence et de la solidarité qui vont au-delà de l’audition.
 
 #### Liste des chansons
 ```md
@@ -229,17 +229,17 @@ B. Darqwan–Megatection
 <br>
 
 
-### Zed Bias – Ambush Riddim / Cosmic Minefield
+### Zed Bias – Ambush Riddim / Champ de mines cosmique
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
-形式：Vinyl
+Format : Vinyle
 
-ジャンル：Dubstep / Electronic
+Genre : Dubstep/Électronique
 
-概要：00年代初期のUK電子音楽の先端を捉えた1枚。
+Résumé : Un disque qui capture l'avant-garde de la musique électronique britannique du début des années 2000.
 
 
-アウトロー感：リズムの攻撃性が都市空間を揺らし、非日常へとリスナーを連れ出す。
+Ambiance hors-la-loi : L'agressivité du rythme bouscule l'espace urbain et transporte l'auditeur dans un monde extraordinaire.
 
 #### Liste des chansons
 ```md
@@ -258,17 +258,17 @@ B. Cosmic Minefield
 <br>
 
 
-### Skrillex – Scary Monsters And Nice Sprites
+### Skrillex – Monstres effrayants et jolis sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-形式：CD
+Format : CD
 
-ジャンル：Dubstep / Electro / Prog House
+Genre : Dubstep / Electro / Prog House
 
-概要：2012年リリースの日本盤。メインストリームの境界線を揺らした金字塔。
+Résumé : Version japonaise sortie en 2012. Une œuvre monumentale qui a bousculé les frontières du mainstream.
 
 
-アウトロー感：ポップ化しつつも暴力性を帯びたサウンドは、制度的包摂と抵抗の狭間を示す。
+Ambiance hors-la-loi : le son à la fois pop et violent montre l'écart entre l'inclusion institutionnelle et la résistance.
 
 #### Liste des chansons
 ```md
@@ -295,14 +295,14 @@ B. Cosmic Minefield
 ### T.Raumschmiere – Rabaukendisko
 <a href="https://jp.mercari.com/item/m93928773468?afid=6142608987"><img src="../assets/images/T.Raumschmiere%20%E2%80%93%20Rabaukendisko.webp"></a>
 
-形式：Vinyl
+Format : Vinyle
 
-ジャンル：Breaks / Electro (with Industrial Hip Hop / Dubstep remix)
+Genre : Breaks / Electro (avec remix Hip Hop Industriel / Dubstep)
 
-概要：2003年リリース。パンクと電子音の狭間を走るDJによる破壊性を帯びた一枚。
+Aperçu : Sorti en 2003. Un morceau destructeur d'un DJ à cheval entre les sons punk et électroniques.
 
 
-アウトロー感：ジャンルの衝突と混交による暴力的快楽。既成の区分を突き崩す衝動。
+Sentiment de hors-la-loi : Le plaisir violent de la collision et du mélange des genres. Une envie de briser les divisions établies.
 
 #### Liste des chansons
 ```md

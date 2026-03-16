@@ -39,7 +39,7 @@ color: #fff;
 </style>
 
 
-## 1. 起源と背景
+## 1. Origine et contexte
 
 Au milieu des années 1990, le jazz-funk et la drum and bass se développaient rapidement sur la scène des clubs britanniques. Dans ce contexte, une musique aux rythmes plus libres et irréguliers est apparue comme une émanation de la house traditionnelle à quatre sur le sol et du jazz-funk. Cela constitue la base du genre qui sera plus tard appelé Broken Beat.
 
@@ -120,7 +120,7 @@ graph LR
 |---|----|------|
 | 1994 | 4hero album "Univers Parallèle" | Avec Dego, pionnier du jazz électronique |
 | 1996 | Début des activités d'IG Culture | Une œuvre soul qui combine jazz et funk |
-| 1998 | Création de 2000Black label | Début des activités en tant que base communautaire |
+| 1998 | Création du label 2000Black | Début des activités en tant que base communautaire |
 | 1999 | Sortie initiale de Kaidi Tatham | Présentation d'une variété d'œuvres pour clavier |
 | 2000 | Travail solo de Dego "Live in Tokyo" | Mettre l'accent sur la sensation live de Broken Beat |
 | 2002 | Culture IG « Donnez-moi du temps » | Le single représentatif de Broken Beat |
@@ -198,7 +198,7 @@ graph TD
 ### Kaidi Tatham
 - **Début des activités** : Fin des années 1990
 - **Caractéristiques** : Diverses œuvres au clavier, motifs rythmiques complexes
-- **Analyse de chanson** : Dans des chansons telles que « Episode 1 », la ligne de basse répond au rythme et crée une mélodie fluctuante, créant la « sensation de flottement » propre à Broken Beat.
+- **Analyse de chanson** : Dans des chansons telles que "Episode 1", la ligne de basse répond au rythme et crée une mélodie fluctuante, créant la " sensation de flottement " propre à Broken Beat.
 
 ### Culture IG
 - **Début des activités** : 1996

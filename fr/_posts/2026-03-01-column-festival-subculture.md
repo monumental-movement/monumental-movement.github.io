@@ -56,7 +56,7 @@ color: #fff;
 ### Festival et éruption collective
 
 Le sociologue Émile Durkheim a qualifié la forte exaltation collective des rituels religieux de « bouillonnement collectif ».
-Il s’agit d’un phénomène dans lequel un individu est intégré à un groupe et entre dans un état qui va au-delà de la conscience de soi normale.
+C'est un phénomène dans lequel un individu est inclus dans un groupe et entre dans un état qui dépasse la conscience de soi normale.
 
 De l’Antiquité au Moyen Âge, les festivals étaient des outils centraux d’intégration communautaire. La musique, la danse et les rythmes répétitifs favorisent la synchronisation du groupe.
 La culture des festivals hérite de cette structure sous une forme sécularisée.
@@ -64,7 +64,7 @@ La culture des festivals hérite de cette structure sous une forme sécularisée
 ### Contre-culture des années 1960
 
 Le Festival de Woodstock de 1969 est un événement historique auquel participent environ 400 000 personnes.
-Les mouvements anti-guerre, la culture hippie et la musique rock se croisaient, et les événements musicaux étaient liés aux mouvements sociaux.
+Le mouvement anti-guerre, la culture hippie et la musique rock se croisaient, et les événements musicaux étaient liés aux mouvements sociaux.
 
 À ce stade, le sens des festivals s'est élargi de « écouter de la musique » à « partager des valeurs ».
 
@@ -214,7 +214,7 @@ Mais les communautés en ligne entretiennent un sentiment d’appartenance.
 La psychologie des foules a non seulement des effets positifs, mais aussi des dangers.
 Des études sur les accidents d'avalanches massives ont montré qu'une fois que l'augmentation de la densité dépasse un seuil, elle devient incontrôlable.
 
-Les festivals à grande échelle de ces dernières années mettent l'accent sur la conception de lignes de flux, la gestion de la densité et la surveillance en temps réel.
+Les festivals à grande échelle de ces dernières années mettent l’accent sur la conception des lignes de flux, la gestion de la densité et la surveillance en temps réel.
 
 Le défi institutionnel est d’assurer la sécurité tout en maintenant l’élévation psychologique.
 

@@ -10,15 +10,15 @@ tags:
 - EBM
 - 90s
 - Digital Rock
-title: Skinny Puppy – 12 Inch Anthology
+title: Skinny Puppy – Anthologie de 12 pouces
 ---
 
 
-Skinny Puppy(スキニーパピー)はカナダ出身のケルヴィン・キーとケヴィン・オグリビーが中心となって1982年に結成したエレクトロインダストリアルバンドです。
+Skinny Puppy est un groupe électro-industriel formé en 1982 par Kelvin Key et Kevin Ogilvie, nés au Canada.
 
-スキニーパピーは、インダストリアルロックとエレクトロインダストリアルのジャンルの創設者の一人として知られています。
+Skinny Puppy est connu comme l'un des fondateurs des genres rock industriel et électro-industriel.
 
-このアルバムはバンド初期のシングル&B面が収録されたコンピレーションアルバムです。
+Cet album est une compilation contenant les premiers singles et faces B du groupe.
 
 #### Liste des chansons
 ```md

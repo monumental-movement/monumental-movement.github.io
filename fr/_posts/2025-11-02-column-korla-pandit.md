@@ -19,7 +19,7 @@ title: '[Chronique] Korla Pandit et la vision d''Exotica : rêves et masques de
 ## Prologue : Qu'est-ce que l'exotisme ?
 
 
-Texte : mmr｜Thème : Explorer le rôle des pandits Korla dans la création de l'exotisme et l'esthétique de l'orientalisme dans la culture américaine d'après-guerre
+Texte : mmr｜Thème : Explorer le rôle des pandits Korla dans la création de l'exotisme et l'esthétique de l'orientalisme dans la culture américaine d'après-guerre
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)

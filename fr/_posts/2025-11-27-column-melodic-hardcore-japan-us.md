@@ -10,26 +10,26 @@ tags:
 - Melodic Hardcore
 - Hardcore
 - Punk
-title: 【コラム】 日本とアメリカのメロディック・ハードコアの詳細史
+title: '[Chronique] Histoire détaillée du hardcore mélodique au Japon et en Amérique'
 ---
 
 
 
-## 1. 序章：メロコアとは何か
+## 1. Introduction : Qu'est-ce que Melocore ?
 
-文：mmr｜テーマ：「熱量」と「メロディの重要性」によって世界的に支持されている日本とアメリカのメロコアについて 
+Texte : mmr｜Thème : À propos du mélocore japonais et américain, soutenu dans le monde entier pour sa « chaleur » et « l'importance de la mélodie »
 
 
-メロディック・ハードコア（メロコア）は、1980年代後半にアメリカで発展したハードコア・パンクのサブジャンルである。  
-ハードコアの高速・攻撃的リズムに、キャッチーなメロディを融合させ、ポップパンク的な要素を取り入れた。  
+Le hardcore mélodique est un sous-genre du punk hardcore qui s'est développé aux États-Unis à la fin des années 1980.
+Il combine les rythmes rapides et agressifs du hardcore avec des mélodies entraînantes et intègre des éléments pop-punk.
 
-特徴：
-- 楽曲は2〜3分程度で短く完結
-- メロディラインを意識したギター・ベース
-- 社会的・政治的・個人的テーマの歌詞
-- DIY精神、ライブハウス文化の重視
+Caractéristiques:
+- Les chansons sont courtes et complètes en 2 à 3 minutes environ
+- Guitare et basse avec une ligne mélodique en tête
+- Paroles avec des thèmes sociaux, politiques et personnels
+- Accent sur l'esprit DIY et la culture live house
 
-このジャンルは、アメリカだけでなく日本やヨーロッパにも影響を与え、独自の展開を見せることになる。
+Ce genre a influencé non seulement l’Amérique mais aussi le Japon et l’Europe et a commencé à se développer à sa manière.
 
 ---
 
@@ -47,32 +47,32 @@ color: #fff;
 </style>
 
 
-## 2. アメリカのメロコア史
+## 2. Histoire du Merocore américain
 
-### 2.1 初期のパイオニア
+### 2.1 Les premiers pionniers
 
-#### Descendents (1978結成)
-- 1979年『Milo Goes to College』リリース
-- ポップでメロディックなハードコアの基礎を構築
-- 特徴：短い楽曲、キャッチーなコーラス、個人的な歌詞
-- 代表曲：”Myage”, ”Suburban Home”
+#### Descendants (formé en 1978)
+- 1979 : sortie de "Milo Goes to College"
+- Construire les bases de la pop et du hardcore mélodique
+- Caractéristiques : chansons courtes, refrains accrocheurs, paroles personnelles
+- Chansons représentatives : "Myage", "Suburban Home"
 
-#### Bad Religion (1980結成)
-- 1988年『Suffer』でメロコア完成形
-- 知的な歌詞と三声コーラスが特徴
-- 90年代にはアメリカ西海岸メロコアの象徴となる
-- 代表曲：”Do What You Want”, ”American Jesus”
+#### Bad Religion (formé en 1980)
+- Melocore a été achevé en 1988 avec « Suffer »
+- Comprend des paroles intelligentes et un refrain en trois parties
+- Devenu un symbole du mélocore de la côte ouest américaine dans les années 90
+- Chansons représentatives : « Do What You Want », « American Jesus »
 
-#### NOFX (1983結成)
-- 1991年『Ribbed』で商業的成功
-- Fat Wreck Chordsを拠点に90年代メロコアシーンを牽引
-- 特徴：ユーモアと社会風刺を交えた歌詞
-- 代表曲：”Linoleum”, ”Bob”
+#### NOFX (créé en 1983)
+-Succès commercial avec Ribbed en 1991
+- Diriger la scène mélocore des années 90 basée sur Fat Wreck Chords
+- Caractéristiques : Paroles avec humour et satire sociale
+- Chansons représentatives : « Linoleum », « Bob »
 
-#### Pennywise (1988結成)
-- 高速で緻密なリフ、アグレッシブなボーカル
-- サーフカルチャーや地元社会の問題をテーマにした歌詞
-- 代表曲：”Bro Hymn”, ”Society”
+#### Pennywise (créé en 1988)
+- Riffs rapides et détaillés, voix agressive
+- Paroles sur la culture du surf et les problèmes de la communauté locale
+- Chansons représentatives : « Bro Hymn », « Society »
 
 <div class="mermaid">
 flowchart TD
@@ -84,9 +84,9 @@ flowchart TD
 
 ---
 
-### 2.2 1990年代メジャー展開
+### 2.2 Evolution majeure dans les années 1990
 
-- Green Day『Dookie』(1994)、The Offspring『Smash』(1994)の成功により、メロコアは商業的にも認知
+- Avec le succès de « Dookie » de Green Day (1994) et de « Smash » de The Offspring (1994), Melocore a acquis une reconnaissance commerciale.
 - Distribution internationale de Fat Wreck Chords, un label indépendant d'Epitaph Records
 - Analyse des albums :
 - Green Day « Dookie » : Mélodie, conserve l'énergie punk
@@ -107,7 +107,7 @@ flowchart TD
 - En 1995, « Growing Up » crée un boom au Japon.
 - Signé avec Fat Wreck Chords en 1997, a fait une tournée avec succès en Amérique et a acquis une renommée internationale.
 - Caractéristiques : chansons courtes et rapides, mélodies pop, paroles jeunes
-- Chansons représentatives : « Stay Gold », « Summer of Love »
+- Chansons représentatives : « Stay Gold », « Summer of Love »
 
 #### ELLEGARDEN (créé en 1998)
 - Influencé par le mélocore américain, utilise habilement le japonais et l'anglais dans les paroles
@@ -171,7 +171,7 @@ flowchart TD
 | Thème lyrique | Jeunesse/Vie quotidienne/Amitié | Politique/Société/Conflit personnel |
 | Technologie | Progressions d'accords et mélodies avancées | L'accent est mis sur la vitesse et l'énergie vive |
 | Structure de la chanson | Chanson courte de 2-3 minutes | 2-4 minutes, équilibre entre vitesse et mélodie |
-| Étiquette | Pizza de la mort, BMG | Accords Fat Wreck, épitaphe |
+| Étiquette | Pizza de la mort, BMG | Accords Fat Wreck, Épitaphe |
 
 ---
 

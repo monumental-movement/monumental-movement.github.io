@@ -154,7 +154,7 @@ Pas de « musique pour danser », mais des « rythmes pour réfléchir ».
 
 ### 4-2. Scène locale dans l'est de Leipzig
 
-L’esprit DIY qui remonte à l’époque est-allemande est bien vivant dans les sous-sols de cette ville.
+L’esprit DIY qui perdure depuis l’ère est-allemande est bien vivant dans les sous-sols de cette ville.
 Transformer un bâtiment abandonné en club et produire du son à l'aide d'un système fait maison.
 Ce qui existe là-bas, c'est de la **techno en tant que communauté**, sans rapport avec la commercialisation.
 Pour eux, la musique est à la fois politique et quotidienne.
