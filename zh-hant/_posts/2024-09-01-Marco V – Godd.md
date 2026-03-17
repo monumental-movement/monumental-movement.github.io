@@ -16,7 +16,7 @@ title: 馬可五世－Godd
 
 Marinus Verkuijlen，也稱為 Marco V，是一位荷蘭電子音樂 DJ。他是 Tech-Trance 的先驅，被認為是最重要的 Trance 藝術家之一。他也以 VISION20/20 等其他名稱活躍。
 
-《Godd》是德國獨立唱片公司 Superstar Recordings 於 2002 年發行的一首硬體 trance/tech trance 曲目。
+「Godd」は、2002年にドイツのインディペンデントレコードレーベルSuperstar Recordingsからリリースされたハードトランス・テックトランストラック。
 
 B面的第二首歌是DJ Errik的混音版，他是德國杜塞爾多夫Poison Club的常駐DJ，並在許多著名的音樂節上演奏。
 

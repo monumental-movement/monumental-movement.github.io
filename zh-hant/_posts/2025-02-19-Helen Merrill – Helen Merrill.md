@@ -11,11 +11,11 @@ tags:
 - Cool Jazz
 - Vocal
 - 50s
-title: 海倫梅里爾 – 海倫梅里爾
+title: Helen Merrill – Helen Merrill
 ---
 
 
-海倫·梅里爾（Helen Merrill）是一位活躍於 20 世紀 50 年代和 60 年代的美國爵士樂歌手。
+Helen Merrill(ヘレン・メリル)は、1950年代〜60年代に活躍したアメリカのジャズヴォーカリスト。
 
 專輯《Helen Merrill》是海倫梅里爾的首張錄音室專輯，於1955年在爵士樂唱片公司EmArcy發行。這張專輯由昆西·瓊斯、小號手克利福德·布朗、大提琴和低音提琴手奧斯卡·佩蒂福德等人改編。
 

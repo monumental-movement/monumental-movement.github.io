@@ -9,7 +9,7 @@ permalink: /zh-hant/kay-sand-too-funghi/
 tags:
 - House
 - Tech House
-title: 凱沙 – Too Funghi
+title: Kay Sand – Too Funghi
 ---
 
 

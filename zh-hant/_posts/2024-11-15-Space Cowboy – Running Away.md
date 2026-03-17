@@ -14,13 +14,13 @@ title: 太空牛仔 – 逃跑
 ---
 
 
-Nicolas Jean-Pierre Patrick Dresti，也被稱為 Space Cowboy，是一位法裔英國 DJ、創作歌手和製作人。他曾以 DJ Apex、DJ Supreme 和 Kings Of Rhythm 等多種名字發行專輯，但自 2002 年起一直使用 Space Cowboy。自 2000 年代末以來，他一直是 Lady Gaga 的私人 DJ。
+Space CowboyことNicolas Jean-Pierre Patrick Drestiはフランス系イギリス人のDJ・シンガーソングライター・プロデューサー。DJ Apex、DJ Supreme、Kings Of Rhythmなど様々な名義でリリースしているが、2002年からはSpace Cowboyを使用している。2000年代後半からはレディーガガのパーソナルDJを務める。
 
 《Running Away》是英國獨立唱片公司 Tiger Trax 於 2007 年發行的一首浩室電子樂。
 
-B 面是 Jesse F. Keeler（又名 MSTRKRFT 的 JFK）的混音版。
+B面はMSTRKRFTのJFKことJesse F. Keelerによるremix。
 
-這件夾克由 James Sutton 設計，他曾為 will.i.am、Natalia Kills、Steve Aoki、Keri Hilson、NERD 等設計夾克。
+ジャケットはwill.i.am, Natalia Kills, Steve Aoki, Keri Hilson, NERD などのジャケットを手がけるJames Suttonによるもの。
 
 
 #### 曲目表

@@ -9,7 +9,7 @@ permalink: /zh-hant/tdr-squelch-part-1/
 tags:
 - Trance
 - Tech House
-title: TDR – 靜噪（第 1 部分）
+title: TDR – Squelch (Part 1)
 ---
 
 

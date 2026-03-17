@@ -10,7 +10,7 @@ tags:
 - Techno
 - Electro
 - 00s
-title: 粗魯的獨奏克雷格·沃爾什 – Voodoo 2
+title: Rude Solo Craig Walsh – Voodoo 2
 ---
 
 
@@ -28,7 +28,7 @@ B.  Craig Walsh – Spaark
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m24524316857?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24524316857?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WDjesrNG3j8?si=ND9j0g9Bf09OiXst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

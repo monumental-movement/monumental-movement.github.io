@@ -11,13 +11,13 @@ tags:
 - Tribal House
 - Tech House
 - 00s
-title: 彼得普雷斯塔 – 轟動
+title: Peter Presta – Sensation
 ---
 
 
 Peter Presta 是一位來自布魯克林的 DJ、製作人和混音師。他曾與多位藝術家合作並混音，包括 Masters At Work、Danny Tenaglia、Moby、Joey Beltram、Robbie Rivera、Cevin Fisher、Ray Roc、StoneBridge、Peter Rauhofer 和 DJ Chus。
 
-「Sensation」是 Apple Jaxx Recordings 於 2005 年發行的前衛浩室/部落浩室/科技浩室曲目。
+「Sensation」は、2005年にApple Jaxx Recordingsからリリースされたプログレッシブハウス・トライバルハウス・テックハウストラック。
 
 B面是卡洛斯·卡德納萊斯（Carlos Cardenales）（也被稱為小卡洛斯）的混音版。
 

@@ -10,7 +10,7 @@ tags:
 - Downtempo
 - French
 - 00s
-title: 立體聲動作無限 – Lovelight
+title: Stereo Action Unlimited – Lovelight
 ---
 
 

@@ -17,7 +17,7 @@ Slab 是由 Lol Hammond 和 Nina Walsh 組成的組合。
 
 B面的第一首歌是英國 DJ 兼製作人 Andrew Weatherall 的混音版，第二首歌曲是英國 techno DJ 和製作人 Carl Cox 的混音版。
 
-D面的第二首歌是Monkey Mafia的混音版。
+D 面的第二首歌是 Monkey Mafia 的混音版。
 
 #### 曲目表
 ```md

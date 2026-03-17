@@ -15,7 +15,7 @@ title: 外科醫生 – 力量+形式 (Tresor 117)
 
 英國電子音樂家兼 DJ Surgeon 於 1999 年在 Tresor 發行的 CD。
 
-Surgeon 也被認為是最早在他的 DJ 裝置中使用 Ableton Live 和 Final Scratch 的 DJ 之一。
+Surgeonは、DJ セットでAbleton Live と Final Scratch を使用した最初の DJ の 1 人としても知られている。
 
 
 #### 曲目表

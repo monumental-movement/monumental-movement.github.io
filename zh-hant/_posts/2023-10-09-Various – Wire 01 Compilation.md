@@ -9,11 +9,11 @@ permalink: /zh-hant/various-wire-01-compilation/
 tags:
 - Techno
 - Mix
-title: 各種 – Wire 01 編譯
+title: Various – Wire 01 Compilation
 ---
 
 
-「Wire 01 編譯」是
+「Wire 01 Compilation」は、
 這是 2001 年發行的 Wire 01 合輯 CD。
 
 #### 曲目表

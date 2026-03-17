@@ -10,7 +10,7 @@ tags:
 - Folk Rock
 - Rock
 - 90s
-title: Shokichi Kina + Makoto Yano – 慶典
+title: Shokichi Kina + Makoto Yano – The Celebrations
 ---
 
 

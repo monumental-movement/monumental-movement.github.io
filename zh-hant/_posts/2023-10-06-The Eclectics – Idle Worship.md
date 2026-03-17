@@ -13,8 +13,8 @@ title: 折衷主義者－無所事事的崇拜
 ---
 
 
-「Idle Worship」は、
-這是美國斯卡龐克樂團 The Eclectics 於 1997 年由 Jump Up 廠牌發行的專輯。記錄。
+「無所事事的敬拜」是
+这是美国斯卡朋克乐队 The Eclectics 于 1997 年由 Jump Up 厂牌发行的专辑。記錄。
 
 
 #### 曲目表

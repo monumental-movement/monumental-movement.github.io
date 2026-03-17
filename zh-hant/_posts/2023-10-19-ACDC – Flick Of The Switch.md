@@ -13,7 +13,7 @@ title: AC/DC – 輕輕一按開關
 ---
 
 
-Flick of the Switch 是澳洲硬搖滾樂團 AC/DC 的第九張錄音室專輯。
+『Flick of the Switch（フリック・オブ・ザ・スイッチ）』は、オーストラリアのハードロックバンドAC/DCの9枚目のスタジオ・アルバムです。
 
 與樂團之前的專輯（1980 年的《Back in Black》和 1981 年的《For those About to Rock》）相比，這張專輯的銷量不佳，並被視為標誌著樂團商業衰退的開始。
 
@@ -42,7 +42,7 @@ B4. Badlands
 B5. Brain Shake
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jr7r-mjVgfg?si=WkOg9mGNL53kFICA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -151,7 +151,7 @@ B2. Game Form (Mike Dearborn Remix)
 簡介：Tresor於1992年發行的早期合輯作品，是A面到D面多位藝人歌曲的濃縮內容。
 
 
-亮點：如標題所示，《Klang Der Familie》（家庭之聲）是一部真實再現柏林科技文化形成時期的歷史傑作。特別推薦給模擬愛好者。
+亮点：正如标题所示，《Klang Der Familie》（家庭之声）是一部真实再现柏林科技文化形成时期的历史杰作。特別推薦給模擬愛好者。
 
 #### 曲目表
 ```md
@@ -212,7 +212,7 @@ D2. Innervisions
 ### 克里斯洛 – 低
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor09.
 
-概述：出現在 Joey Beltram 作品頁面（《旭日》）「探索更多類似內容」部分的相關藝術家之一。作者：克里斯洛‧哈斯，Tresor 092。
+概述：出現在 Joey Beltram 作品頁面（《旭日》）「探索更多類似內容」部分的相關藝術家之一。作者：克里斯洛·哈斯，Tresor 092。
 
 
 亮點：這是克里斯洛·哈斯（Chrislo Haas）的個人作品，他以《D.A.F.》而聞名。和 Liaisons Dangereuses，並顯示出與柏林實驗電子音樂的緊密聯繫。

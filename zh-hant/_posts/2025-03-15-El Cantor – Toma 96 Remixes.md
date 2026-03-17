@@ -16,7 +16,7 @@ title: El Cantor – Toma '96 混音版！
 
 Davidson Ospina，又名 El Cantor，是一位來自紐約的 house DJ。他經營自己的唱片公司 Ospina Digital 唱片公司。他也是一位混音師，為許多著名藝術家創作了混音作品，包括克里斯蒂娜·阿奎萊拉的《Ain't No Other Man》和碧昂絲的《Broken Hearted Girl》。
 
-「Toma '96 混音版！」是 Digital Dungeon Records 於 1996 年發行的 house/tribal house 曲目。
+「Toma '96 Remixes!」は、1996年にDigital Dungeon Recordsからリリースされたハウス・トライバルハウストラック。
 
 Side A 上的第一首歌曲是來自布魯克林的意大利裔美國 DJ 組合 JohNick 的混音版。
 

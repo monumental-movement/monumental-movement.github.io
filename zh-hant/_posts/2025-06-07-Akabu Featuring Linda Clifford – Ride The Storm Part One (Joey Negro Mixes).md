@@ -15,7 +15,7 @@ title: Akabu 與 Linda Clifford 合作 – Ride The Storm Part One (Joey Negro M
 ---
 
 
-Dave Lee，又名 Akabu，是一位英國 DJ、製作人和混音師。自 1990 年以來，戴夫李 (Dave Lee) 最出名的角色是喬伊·內格羅 (Joey Negro)，但在喬治·弗洛伊德 (George Floyd) 抗議活動發生後，他於 2020 年 7 月暫停了扮演喬伊·內格羅 (Joey Negro)。
+Dave Lee，又名 Akabu，是一位英國 DJ、製作人和混音師。自 1990 年以来，戴夫·李 (Dave Lee) 最出名的角色是乔伊·内格罗 (Joey Negro)，但在乔治·弗洛伊德 (George Floyd) 抗议活动发生后，他于 2020 年 7 月暂停了扮演乔伊·内格罗 (Joey Negro)。
 
 戴夫李 (Dave Lee) 曾經以多個化名演出，包括 Jakatta、Doug Willis、Raven Maize 和 Sessomatto。
 

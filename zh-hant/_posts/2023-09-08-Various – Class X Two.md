@@ -9,7 +9,7 @@ permalink: /zh-hant/various-class-x-two/
 tags:
 - Synth-Pop
 - Electro
-title: 各種 – X 類 2
+title: Various – Class X Two
 ---
 
 
@@ -17,7 +17,7 @@ title: 各種 – X 類 2
 
 它令人驚嘆，甚至比原始版本更好。
 
-僅這首歌就會讓您想將其添加到您的唱片收藏中，所以我強烈推薦它。
+この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
 
 #### 曲目表
 ```md

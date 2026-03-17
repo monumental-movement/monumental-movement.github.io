@@ -10,7 +10,7 @@ tags:
 - Future Jazz
 - Latin
 - 00s
-title: 達拉塔 – 賓蒂
+title: Da Lata – Binti
 ---
 
 
@@ -26,7 +26,7 @@ A1. Binti
 B1. Binti (Restless Soul Inspiration Information Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m80480650472?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80480650472?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5HHkp1B2I1I?si=P_4sTWx7QbP-WUA6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

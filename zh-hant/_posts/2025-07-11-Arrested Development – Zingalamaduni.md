@@ -13,7 +13,7 @@ title: 發展受阻——Zingalamaduni
 ---
 
 
-Arrested Development 是一個美國非洲中心嘻哈樂隊，由饒舌歌手 Speech 和 Headliner 於 1988 年組成。
+Arrested Development (アレステッドディベロップメント)は、1988年にラッパーのSpeech とHeadliner が結成したUSのアフロセントリック・ヒップホップグループ。
 
 標題“Zingalamaduni”在斯瓦希里語中意為“靈魂節（文化存在）”，是 Arrested Development 的第二張專輯，探討了非裔美國人的文化根源、靈性、社會問題和希望。 1997年發行再版/日文版。
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/tuesdays-child-2-bad-e-p/
 tags:
 - House
 - 00s
-title: 星期二的孩子 – 2 糟糕的 E.P.
+title: Tuesdays Child – 2 Bad E.P.
 ---
 
 

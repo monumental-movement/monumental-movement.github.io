@@ -14,7 +14,7 @@ title: 馬克·約翰遜和理查德·圖姆茲
 
 
 
-Dave Owens 的 DJ 職業生涯始於 2000 年代初，他曾在俱樂部場景中一些最具標誌性的場所擔任 DJ，包括 Insomniacz、Housework、Insekt、Byte、Ultim-8、Incisions、Hard Up North、Out of Order、Toast、Housewives Choice 和 Forbidden。
+Dave Owens（デーブオーウェンズ）のDJキャリアは、2000年代初頭に軌道に乗り、Insomniacz、Housework、Insekt、Byte、Ultim-8、Incisions、Hard Up North、Out of Order、Toast、Housewives Choice、Forbiddenなどのクラブシーンを代表する場所でDJを務めています。
 
 他也是曼徹斯特 PureFilth 的常駐 DJ。
 

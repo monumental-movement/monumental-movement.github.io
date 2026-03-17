@@ -14,7 +14,7 @@ title: 迪巴巴－愛情列車
 ---
 
 
-這是瑞典OLLE CORNEER樂團DIBABA於2005年發行的EP。
+2005年リリースのスウェーデン人のOLLE CORNEERによるユニットDIBABAによるEPです。
 
 還包括 John Dahlbäck 的酸混音。
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/rebus-tape-drug-shaping-ep/
 tags:
 - Techno
 - 00s
-title: 畫畫膠帶 – 藥物塑造 EP
+title: Rebus Tape – Drug Shaping EP
 ---
 
 

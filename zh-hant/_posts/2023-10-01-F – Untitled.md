@@ -15,7 +15,7 @@ title: F——無題
 
 《F – Untitled》於 1998 年由德國唱片公司 Sense Music 發行。
 
-F 是德國 DJ 兼製作人 Frank Lotz 的一個專案。
+Fは、ドイツのDJ・プロデューサーFrank Lotz（フランク・ロッツ）のプロジェクトです。
 
 
 #### 曲目表

@@ -16,7 +16,7 @@ title: 各種 – 柏林獨立日精選第二卷
 
 柏林廠牌 Stud!o K7 於 1990 年發布的 1988 年柏林獨立音樂博覽會現場表演影片 (VHS)。其中包括藝術家 Mudhoney、Young Gods、Buzzcocks F.O.C. （方便旗）。
 
-Mudhoney 是一支來自美國西雅圖的樂隊，對 NIRVANA 等垃圾搖滾/另類搖滾音樂家產生了巨大影響。
+Mudhoney (マッドハニー)は、NIRVANAなどグランジ／オルタナティブロックミュージシャン達に多大なる影響を与えた、アメリカ・シアトル出身のバンド。
 
 Young Gods是一支成立於1985年的瑞士工業搖滾樂團。樂團的名字取自美國後龐克/實驗搖滾樂團Swans的“Young God”。
 
@@ -35,7 +35,7 @@ Young Gods是一支成立於1985年的瑞士工業搖滾樂團。樂團的名字
 8. Jean Pierre
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31349607002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31349607002?afid=6142608987){: .button1}
 
 
 #### Youtube

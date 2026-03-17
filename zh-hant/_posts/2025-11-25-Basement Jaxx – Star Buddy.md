@@ -15,7 +15,7 @@ title: 地下室 Jaxx – 明星/好友
 
 A 面 [Kathy Sledge - Another Star 的混音（覆蓋 Stevie Wonder - Another Star / Creepin'）]
 
-B 面 [Buddy Rich - Nuttville 的重新編輯（來自 The Roar Of '74）]
+Side B 【re-edit of Buddy Rich - Nuttville (from The Roar Of '74)】
 
 Basement Jaxx 於 2000 年發布的非官方 House 混音版。
 

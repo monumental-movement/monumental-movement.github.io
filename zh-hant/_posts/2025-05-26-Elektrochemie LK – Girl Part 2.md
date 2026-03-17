@@ -17,7 +17,7 @@ title: Elektrochemie LK – 女孩！第2部分
 
 Elektrochemie LK 是 DJ Thomas Schumacher 的別名，他是一位自 20 世紀 90 年代以來一直活躍的德國 techno 音樂家。
 
-「Girl! / Part 2」是德國唱片公司 Leaded 於 2001 年發行的電子音樂歌曲。
+「Girl! / Part 2」は2001年にドイツのレーベルLeadedからリリースされたテクノ・エレクトロトラック。
 
 Side A 上的第一首歌是 Christopher Just 的混音版，Christopher Just 以其熱門歌曲《I'm a Disco Dancer (And a Sweet Romancer)》而聞名。
 

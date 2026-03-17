@@ -9,7 +9,7 @@ permalink: /zh-hant/radioactive-goldfish-l-s-d-is-the-bomb/
 tags:
 - Techno
 - Acid
-title: 放射性金魚 – L.S.D.是炸彈嗎
+title: Radioactive Goldfish – L.S.D. Is The Bomb
 ---
 
 

@@ -8,11 +8,11 @@ layout: post
 permalink: /zh-hant/zimbabwe-legit-doin-damage-in-my-native-language/
 tags:
 - Hiphop
-title: 津巴布韋合法－用我的母語造成傷害
+title: Zimbabwe Legit – Doin' Damage In My Native Language
 ---
 
 
-Zimbabwe Legit 是一個美國嘻哈樂隊，其音樂的特點是政治訊息和融入非洲文化的歌詞。
+Zimbabwe Legitは、アメリカのヒップホップグループであり、彼らの音楽はポリティカルなメッセージやアフリカの文化を取り入れた歌詞が特徴です。
 
 它還包括 DJ Shadow、Black Sheep 的 Mista Lawnge 等人製作的歌曲。
 

@@ -16,7 +16,7 @@ title: 【專欄】實驗嘻哈/抽象嘻哈重構
 
 
 
-## 2000年代以來「節拍解構實驗」所創造的另一段嘻哈歷史
+## 2000年代以來「節拍解構實驗」創造的另一段嘻哈歷史
 
 文：mmr｜主題：節拍實驗的歷史、取樣文化、主要作品的變遷
 
@@ -51,13 +51,13 @@ color: #fff;
 
 ### ●抽象嘻哈
 - 具有「抽像用法」的嘻哈音樂誕生於 20 世紀 90 年代末。
-- 其特點是抽象的雙關語、意識流般的歌詞以及偏離傳統“boom bap”結構的節拍。
+- アブストラクトな言葉遊び、ストリーム・オブ・コンシャスネス的なリリック、**従来の「ブームバップ」構造を外したビート**が特徴。  
 - 代表人物有Company Flow、Anti-Pop Consortium、Cannibal Ox、Aesop Rock等。
 
 ---
 
 ## 2. 1990年代：抽象嘻哈的起源
-實驗/抽象嘻哈的基礎形成於 20 世紀 90 年代末期。
+Experimental / Abstract Hip Hop の基盤は1990年代後半に形成された。
 
 ### ●公司流程（1992-2001）
 
@@ -76,8 +76,8 @@ color: #fff;
 ---
 
 - 在 20 世紀 90 年代末的紐約地下世界中扮演著重要角色。
-- 引入吵雜的聲音、分段說唱和電子音樂。
-- 與 Warp Records 簽約擴大了電子音樂和嘻哈音樂之間的聯繫。
+- ノイズ的なサウンド、分節化されたラップ、電子音楽の導入。  
+- Warp Records と契約したことで、電子音楽とヒップホップの接続点を拡大。
 
 ### ● 食人牛 (2001)
 
@@ -94,9 +94,9 @@ color: #fff;
 
 ## 3. 2000年代：洛杉磯beat場景的興起與「實驗」的重新定義
 
-### ●低端理論（2006-2018）
+### ● Low End Theory（2006–2018）
 - 一項著名的活動始於洛杉磯林肯高地的「The Airliner」俱樂部。
-- 在 Daddy Kev、Gaslamp Killer 等人的帶領下，它成為了洛杉磯垮掉音樂界的始祖。
+- Daddy Kev、Gaslamp Killer らが中心となり、LAビート・シーンの母体に。  
 - 飛蓮花的代表作《按摩情境》（2007）象徵著場景的拓展。
 
 ### ● 飛蓮花（2000年代末期～）
@@ -108,11 +108,11 @@ color: #fff;
 - 實驗嘻哈界最重要的人物之一。
 - 自 2006 年起屬於 Warp Records。
 - 《Los Angeles》（2008）和《Cosmogramma》（2010）橫跨爵士樂/電子音樂/嘻哈音樂。
-- 它的特點是“脈動的非線性節奏”和複雜的取樣結構。
+- “脈動するような非直線リズム”と複雑なサンプリング構築が特徴。
 
 ### ● 餵腦者（2008～）
 - 飛蓮花創立的品牌。
-- Teebs、Samiyam、Tokimonsta、Thundercat 等將參加。
+- Teebs、Samiyam、Tokimonsta、Thundercatなどが参加。  
 - 他在全球傳播抽象節拍文化。
 
 ---
@@ -144,31 +144,31 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 
 ### ●《Drunk Beat》的架構
 - 大鼓和小鼓的順序有幾毫秒的偏差。
-- 低音線也落後節奏半步，隨著體溫產生波動。
+- ベースラインもリズムから半歩遅れることで、体温を持った揺らぎを生む。  
 - Samiyam、Knxwledge、Mndsgn 等人繼承了這個思想。
 
-### ● 與電子音樂的交叉
+### ● 電子音楽との交差
 - Warp Records 引入了電子音樂的結構方法（Autechre、Boards of Canada 等）。
 - 隨著複雜的多節奏和非重複結構的引入，實驗嘻哈的節奏語言也得到了擴展。
 
 ---
 
-## 6. 採樣文化：從類比到數位
+## 6. サンプリング文化：アナログからデジタルへ
 
 ### ●1990-2000 年代：MPC 文化
 - MPC2000/2000XL是主流。
-- 重點是“切割培養”，其中模擬樣本被切成小塊並重建。
+- 重點是“切割文化”，其中涉及將模擬樣本切割成小塊並重建它們。
 - 代表性的例子包括 Madlib 和 J Dilla。
 
-### ● 2000 年代末期：DAW 加速推出
-- 隨著 Ableton Live 和 Reason 的流行，**更複雜的層配置**成為可能。
+### ● 2000年代後半：DAW導入の加速  
+- Ableton Live や Reason が普及し、**飛躍的に複雑なレイヤー構成**が可能に。  
 - Flying Lotus 使用數位和類比的組合來創建多層次的音景。
 
 ### ● 2010年代：強調質感的時代
 - Teebs“針孔紋理”取樣（混合精細雜訊）
 - Clams Casino 的空靈聲音（伸展的人聲樣本）
 - 沙巴茲宮殿的神秘拼貼畫
-這引發了一種注重質感的趨勢。
+など、テクスチャを主題とする流れが生まれた。
 
 ---
 
@@ -180,12 +180,12 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 
 ---
 
-- 在噪音音樂的影響下建立，並將實驗電子音樂技術與饒舌結合。
+- ノイズミュージックの影響下で構築され、実験電子音楽の技法をラップに接続。  
 - 他在他的節拍中引入了噪音、刺耳的聲音和小故障，而且他的表達在數學上是精確的。
 
 ---
 
-### ●米洛（R.A.P.費雷拉）
+### ● Milo（R.A.P. Ferreira）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YVv5pDspfA?si=DfUljTJuFYLK0GAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -204,7 +204,7 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 ---
 
 - 「藝術說唱」代表人物。
-- 主題是城市生活，融合了幽默和社會觀察。
+- 都市生活を題材とし、ユーモアと社会観察をミックス。
 
 
 ---
@@ -257,7 +257,7 @@ flowchart TD
 
 * **公司流程 – “Funcrusher Plus”(1997)**
 * **反流行聯盟 – 「悲劇尾聲」(2000)**
-* **食人牛－「冷血靜脈」(2001)**
+* **Cannibal Ox – 『The Cold Vein』(2001)**
 * **J·迪拉 – 《甜甜圈》(2006)**
 * **飛蓮花 – 《洛杉磯》(2008)**
 * **飛蓮花 – “Cosmogramma” (2010)**

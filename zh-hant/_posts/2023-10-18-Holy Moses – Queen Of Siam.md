@@ -13,7 +13,7 @@ title: 聖摩西－暹羅女王
 ---
 
 
-Holy Moses是一支德國鞭打金屬樂隊，自1980年以來一直活躍。前鋒是Sabina Classen。被譽為女性死亡聲樂先驅團體。
+Holy Moses是一支德國鞭打金屬樂隊，自1980年以來一直活躍。前锋是Sabina Classen。被誉为女性死亡声乐先驱团体。
 
 《Queen Of Siam》是 Holy Moses 的首張專輯，由德國重金屬唱片公司 Aaarrg Records 於 1986 年發行。
 

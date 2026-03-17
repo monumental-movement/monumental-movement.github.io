@@ -15,7 +15,7 @@ title: Radiohead - Kid A
 ---
 
 
-英國搖滾樂團Radiohead的第四張錄音室專輯，於2000年發行。製作人是Nigel Godrich。
+UKのロックバンドRadiohead の2000年にリリースした4枚目のスタジオアルバム。プロデューサーはNigel Godrich(ナイジェル・ゴッドリッチ)。
 
 #### 曲目表
 ```md

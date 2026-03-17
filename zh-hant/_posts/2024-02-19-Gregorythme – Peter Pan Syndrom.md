@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Gregorythme – 彼得潘氏症
+title: Gregorythme – Peter Pan Syndrom
 ---
 
 

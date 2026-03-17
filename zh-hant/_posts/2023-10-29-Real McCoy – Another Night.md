@@ -14,7 +14,7 @@ title: 真正的麥考伊——另一個夜晚
 ---
 
 
-Real McCoy 是一個德國歐洲舞曲/流行音樂計畫。 1994年發行的《Another Night》是他們的招牌歌曲。
+Real McCoy（リアル マッコイ）はドイツのユーロダンス / ポップミュージックプロジェクト。1994年リリースの「Another Night」は彼らの代表曲。
 
 B 面是 Armand Van Helden 的混音版。
 

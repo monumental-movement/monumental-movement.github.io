@@ -15,7 +15,7 @@ title: 馬可·倫齊——探索
 
 
 
-Marco Lenzi 是來自義大利羅馬的 D/製作人/廠牌所有者。 1980年代末，他與倫敦唱片公司Silverfish Records和Eukatech Records合作，並成立了自己的唱片公司Molecular Recordings。
+Marco Lenzi 是來自義大利羅馬的 D/製作人/廠牌所有者。 20世纪80年代末，他与伦敦唱片公司Silverfish Records和Eukatech Records合作，并成立了自己的唱片公司Molecular Recordings。
 
 《Discovery》是倫敦廠牌 Access 58 發行的 Techno/Tech House 曲目。
 

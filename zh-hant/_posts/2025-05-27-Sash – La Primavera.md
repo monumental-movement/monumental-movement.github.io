@@ -18,7 +18,7 @@ title: 窗扇！ – La Primavera
 
 《La Primavera》由 Patrizia Salvatore 主演，於 1998 年在 Sash! 發行。作為第二張專輯“Life Goes On”的主打單曲發行的 Trance 曲目。
 
-Side A 是德國電子音樂二人組 DJ JamX 和 De Leon 的混音版。
+A面は、ドイツのエレクトロニックミュージックデュオDJ JamX & De Leonによるremix。
 
 B 面的第一首曲目是由科隆製作二人組 Blank & Jones (Piet Blank & DJ Jaspa Jones) 重新混音的。
 

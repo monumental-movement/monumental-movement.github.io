@@ -14,7 +14,7 @@ title: Arling & Cameron – 我們喜歡搖滾
 ---
 
 
-Arling & Cameron 是荷蘭電子音樂二人組，由 Gerry Arling 和 Richard Cameron 組成。
+Arling & Cameron（アーリン&キャメロン）は、Gerry ArlingとRichard Cameronによるオランダのエレクトロニックミュージックデュオ。
 
 Arling & Cameron 與 Pizzicato Five 和 Cornelius 合作，融入了法國流行音樂、休閒音樂、70 年代輕搖滾和澀谷系，以及說唱、舞曲和更現代的電子流行音樂的元素。
 

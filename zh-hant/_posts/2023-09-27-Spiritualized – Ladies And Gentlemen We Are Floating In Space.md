@@ -19,7 +19,7 @@ title: 靈性化－女士先生們，我們漂浮在太空中
 
 Spiritualized 於 1990 年在英國沃里克郡拉格比成立，除了核心成員 Jason Pearce 之外，樂團一直擁有穩定的支援陣容。
 
-他們也被認為是自 20 世紀 90 年代以來對另類搖滾和獨立搖滾產生重大影響的樂團之一。
+また、90年代以降のオルタナティブロックやインディーロックに大きな影響を与えたバンドの一つとして評価されています。
 
 樂團的名字來自電影《2001太空漫遊》中出現的虛構太空船“Spiritualized”，傑森·皮爾斯也被稱為《太空人3》的前主唱。
 
@@ -54,7 +54,7 @@ Bonus Track For Japan
 13.Broken Heart (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWOdSeDzyy4?si=rcVxEw6vHed4noNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

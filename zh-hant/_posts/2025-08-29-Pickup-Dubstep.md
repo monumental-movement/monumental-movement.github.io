@@ -21,10 +21,10 @@ title: 挑選迴響貝斯作品
 ### Benga & Walsh VS Darqwan – 癮君子/大保護
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%2000%)>
 
-特點：由三個人以不同的方式負責各個方面，使這幅作品兩面都具有吸引力。
+特徴：異なるアプローチを持つ3名が各々の面を担当する、両極ともに魅力ある構成の1枚です。
 
 
-理由：Benga 的低音深度、Walsh 的律動和 Darqwan 的原創性在每首歌曲中都熠熠生輝。
+魅力：Bengaによるベースの深さ、Walshのグルーヴ、Darqwanの独創性が、それぞれのトラックに光る。
 
 #### 曲目表
 ```md
@@ -70,7 +70,7 @@ B. Cosmic Minefield
 
 
 ### 距離 – 夜視交通（混音）
-<a href="https://jp.mercari.com/item/m41976267806?afid=6142608987"><img src="../assets/images/Distance%20%E2%80%93%20Night%20Vision%20Traffic%20(Reat).
+<a href="https://jp.mercari.com/item/m41976267806?afid=6142608987"><img src="../assets/images/Distance%20%E2%80%93%20Night%20Vision%20Traffic%20(Remixes).webp"></a>
 
 
 特色：Distance、自誕生以來一直引領迴響貝斯界的 Skream 和代表日本的 Goth-Trad 的組合是夢幻般的合作。

@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/money-bazz-cozmic-ray-new-york-new-york-danger/
 tags:
 - Hiphop
-title: Money Bazz Cozmic Ray – 紐約，紐約危險
+title: Money Bazz Cozmic Ray – New York, New York Danger
 ---
 
 

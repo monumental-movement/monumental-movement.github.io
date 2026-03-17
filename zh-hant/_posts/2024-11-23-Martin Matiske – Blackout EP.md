@@ -13,7 +13,7 @@ title: 馬丁馬蒂斯克 – Blackout EP
 ---
 
 
-馬丁·馬蒂斯克 (Martin Matiske) 是一位德國 DJ、製作人和作曲家。他也以 Blackploid 的名義工作。
+馬丁·馬蒂斯克 (Martin Matiske) 是一位德國 DJ、製作人和作曲家。他还以 Blackploid 的名义工作。
 
 《Blackout EP》是 DJ Hell 的廠牌 International Deejay Gigolo Records 於 2006 年發行的電子曲目。
 

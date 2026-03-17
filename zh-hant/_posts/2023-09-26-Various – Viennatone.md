@@ -13,7 +13,7 @@ title: 各種 – 維也納音
 ---
 
 
-「各種 - Viennatone」是
+「Various – Viennatone」は、
 這是德國!k7唱片公司1999年發行的作品。
 
 #### 曲目表

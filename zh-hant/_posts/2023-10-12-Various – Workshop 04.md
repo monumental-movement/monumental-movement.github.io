@@ -13,7 +13,7 @@ title: 各種 – 研討會 04
 ---
 
 
-Side A 是來自德國海德堡的音樂家/DJ Move D (David Moufang) 和 Fragment 創作的深邃浩室曲目。
+A面はドイツのハイデルベルク出身のミュージシャン/DJ Move D（David Moufang）とFragment によるディープハウストラック。
 
 B 面的第一首曲目是德國製作人 Even Tuell（Paul David Rollmann）創作的一首深度簡約的 house 曲目。
 

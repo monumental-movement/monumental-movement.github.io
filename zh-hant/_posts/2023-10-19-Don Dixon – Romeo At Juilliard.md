@@ -13,7 +13,7 @@ title: 唐‧迪克森－茱莉亞音樂學院的羅密歐
 ---
 
 
-唐·迪克森是一位美國製作人/詞曲作者/音樂家。 1970年代，他活跃于北卡罗莱纳州摇滚乐队Arrogance，从80年代开始制作了多支独立乐队，还参与制作了美国另类摇滚乐队R.E.M.
+唐·迪克森是一位美國製作人/詞曲作者/音樂家。 1970年代，他活躍於北卡羅來納州搖滾樂隊Arrogance，從1980年代開始製作了多個獨立樂隊，也參與製作了美國另類搖滾樂隊R.E.M.
 
 #### 曲目表
 ```md
@@ -40,7 +40,7 @@ B5. Cat Out Of The Bag
 B6. Jean Harlow's Return
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m45544074163?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45544074163?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aw76DZDkoK8?si=2bEW1jWF7KBk4nUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /zh-hant/various-king-britt-presents-black-to-the-future/
 tags:
 - Downtempo
 - Deep House
-title: 各種——King Britt 向未來展示黑色
+title: Various – King Britt Presents Black To The Future
 ---
 
 

@@ -22,7 +22,7 @@ title: 精選 90 年代的英國 techno 作品
 
 發佈時間：1998
 
-Cloned - Vinyl 在英國發行了一張 4 首曲目 EP。 A 面為“Brutal – City”和“Risk – Rumblin’”，B 面為“Steadycam”和“Neon”。
+Cloned - Vinyl 在英國發行的 4 首 EP。 A 面為“Brutal – City”和“Risk – Rumblin’”，B 面為“Steadycam”和“Neon”。
 
 #### 曲目表
 ```md
@@ -50,7 +50,7 @@ B2. Neon
 
 發佈時間：1997 年
 
-Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏與音景的 CD
+Sean Booth 和 Rob Brown 的英國電子/科技作品。一张具有实验节奏和音景的 CD
 
 #### 曲目表
 ```md
@@ -75,7 +75,7 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏
 
 發佈時間：1997 年
 
-英國科技與電子音樂。由 NovaMute 發佈。 Mixmag 90 年代排名前 5 名的專輯
+英国科技与电子音乐。由 NovaMute 發佈。 Mixmag 90 年代排名前 5 的专辑
 
 #### 曲目表
 ```md
@@ -105,9 +105,9 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏
 <小時>
 
 ### D.O.M. – Acid War（解放者 DJ RMX）
-<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).webp"></a>
+<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20WRM20(Liberator
 
-發行時間：1995年（原版），2006年發行混音版本
+發行時間：1995年（原版），2006年發行混音版
 
 由英國二人組 Jon Nuccle/Mike Humphries 創作的 Acid techno remix
 
@@ -154,7 +154,7 @@ D2. Optic
 
 發佈時間：1999
 
-以 Surgeon 為名的激烈 techno 曲目
+Surgeon名義の強烈なテクノ・トラック
 
 
 #### 曲目表

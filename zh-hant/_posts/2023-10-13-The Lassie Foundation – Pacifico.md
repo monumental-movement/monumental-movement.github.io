@@ -9,7 +9,7 @@ permalink: /zh-hant/the-lassie-foundation-pacifico/
 tags:
 - Shoegaze
 - Rare
-title: 萊西基金會 - Pacifico
+title: The Lassie Foundation – Pacifico
 ---
 
 

@@ -33,5 +33,5 @@ B3. 天上天下唯我独尊 (Bleep.Bird.Burn.Mix)
 B4. Subsonic Drum (Power Peak Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93371201718?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93371201718?afid=6142608987){: .button1}
 

@@ -14,23 +14,23 @@ title: Phil Stumpf——Stumpfam Apparat
 ---
 
 
-Phil Stumpf 是德國後搖樂團「OH.」的成員，並且與 Sam Rouanet 一起作為「DUPLEX 100」組合活躍。
+ジャーマンポストロックの「OH.」のメンバーでもあり、Sam Rouanetとのユニット「DUPLEX 100」としても活躍するPhil Stumpfのミニマルトラック。
 
 2005 年由德國自家廠牌 Tom Bone Vibrating Music 發行。
 
 Side A 上的第二首歌是 Gwen Maze 的混音版。
 
-Phil Stumpf（1973 年出生於德國）自 1993 年以來一直作為音樂家活躍，並參與過各種樂團和計畫。
+フィル・ストゥンプ（1973年、ドイツ生まれ）は1993年からミュージシャンとして活動し、様々なバンドやプロジェクトに参加してきました。
 
 1980年代末90年代初，我身處獨立搖滾領域，對Mouse on Mars、Tortoise等樂團以及電子音樂及其極簡結構著迷和影響。
 
 主要透過他的樂隊 oh. 進入舞池，他發現了最小的節奏，並於 1999 年開始以自己的名字製作俱樂部曲目。
 
-他還將與法國合夥人 Samuel Rouanat 一起以 Duplex 100 的身份工作。
+また、フランス人パートナーのサミュエル・ルアナートとDuplex 100としても活動します。
 
 2001 年，他移居巴黎，並與 Samuel Rouanat 在 Nouveau 賭場共同創辦了一個名為“Minimal Dancin”的俱樂部之夜。
 
-他目前是巴黎電子爵士樂隊 Canvas 的成員，其他成員還有塞繆爾·魯瓦納 (Samuel Rouanat) 和詹姆斯·辛德特里 (James Sindertree)。
+現在はサミュエル・ルアナートとジェームス・シンダトリーと共にパリを拠点とするエレクトロニックジャズバンドCanvasにも参加しています。
 
 #### 曲目表
 ```md

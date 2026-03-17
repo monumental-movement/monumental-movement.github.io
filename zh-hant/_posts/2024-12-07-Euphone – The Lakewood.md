@@ -32,7 +32,7 @@ Euphone 是一支總部位於芝加哥的後搖滾樂團。
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
 
 
 #### Youtube

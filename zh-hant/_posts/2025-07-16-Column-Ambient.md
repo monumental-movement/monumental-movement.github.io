@@ -79,7 +79,7 @@ Ambient House/Ambient Techno 的興起。
 
 **● 自 2000 年以來：超越類型的滲透**
 
-擴展到錄像作品、當代藝術、瑜伽、冥想、遊戲音樂和 VR 空間。
+映像作品、現代美術、ヨガ、瞑想、ゲーム音楽、VR空間へと進出。
 
 Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
@@ -151,7 +151,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 **●環境工業**
 
-將工廠聲音和機器噪音音樂化。
+工場音、機械ノイズを音楽化。
 
 **藝術家**：[有傷口的護士](https://amzn.to/46QgJyk)、[線圈](https://amzn.to/48sI7nd)
 
@@ -159,7 +159,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 用於放鬆和冥想的環境音樂。
 
-[恩雅](https://amzn.to/46vL0Bg)、[史蒂夫羅奇](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB)等
+[Enya](https://amzn.to/46vL0Bg)、[Steve Roach](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB) など。
 
 
 
@@ -201,7 +201,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 <小時>
 
-### Ambient是「音樂」和「空間」的交集
+### アンビエントとは「音楽」と「空間」の交差点
 
 氛圍音樂是指不在音樂中心，而是在外圍的音樂。它是一門不涉及旋律或節奏的藝術，而是涉及氣氛、時間、感覺和意識的轉變。
 

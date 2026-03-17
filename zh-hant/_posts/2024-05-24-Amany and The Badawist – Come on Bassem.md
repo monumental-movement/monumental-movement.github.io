@@ -20,7 +20,7 @@ title: Amany & The Badawist – 來吧，巴塞姆
 
 製片 – 納齊赫·迪亞
 
-演唱：馬安·阿米爾
+ヴォーカル– Maan Al-Amir
 
 編曲 - Bassem Yazbek
 

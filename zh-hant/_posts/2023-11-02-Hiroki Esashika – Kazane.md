@@ -15,13 +15,13 @@ title: 江鹿弘樹 – Kazane
 
 Hiroki Esashika 是一位日本 techno 音樂家和 DJ，自 90 年代以來一直活躍。
 
-2000年至2007年，他與DJ TANAKA在札幌俱樂部PLASTIC THEATER主持了TECHNO PARTY「ORANGE」。
+2000年から2007年までは、札幌のクラブPLASTIC THEATERでDJ TANAKAと共にTECHNO PARTY "ORANGE"を主催していた。
 
 《Kazane》於 2005 年在 Intec Records（由 Carl Cox 和 DJ C1 於 1998 年創立的科技唱片公司）發行，是 Hiroki Esashika 的傑作，並成為俱樂部熱門歌曲。
 
 Side A 的第二首歌是法國電子音樂藝術家 Sebastien Leger 的混音版。
 
-B 面是紐約 house DJ/製作人 Tom Stephan（又名 Superchumbo）的混音版。
+B面は、Superchumboことニューヨーク出身のハウスDJ/プロデューサーTom Stephanによるremix。
 
 #### 曲目表
 ```md

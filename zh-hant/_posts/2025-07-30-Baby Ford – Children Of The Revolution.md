@@ -9,7 +9,7 @@ permalink: /zh-hant/baby-ford-children-of-the-revolution/
 tags:
 - House
 - 80s
-title: 小福特－革命之子
+title: Baby Ford – Children Of The Revolution
 ---
 
 

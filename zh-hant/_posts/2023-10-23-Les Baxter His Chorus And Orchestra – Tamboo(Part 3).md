@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Space-Age
 - 7inch
-title: 萊斯·巴克斯特合唱團與管弦樂團 – Tamboo（第三部分）
+title: Les Baxter His Chorus And Orchestra – Tamboo(Part 3)
 ---
 
 
@@ -29,7 +29,7 @@ B1. Mozambique
 B2. Wotuka
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ve8Hbpq1q7Y?si=g6OKtLVt4GENwqUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

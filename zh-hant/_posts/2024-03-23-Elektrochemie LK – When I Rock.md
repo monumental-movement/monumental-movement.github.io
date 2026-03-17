@@ -16,7 +16,7 @@ title: Elektrochemie LK – 當我搖滾時
 
 德國技術重量級人物 Thomas Schumacher 於 2001 年以 Elektrochemie LK 名義發布了一首技術曲目。
 
-「When I Rock」は「Schall!」と並ぶThomas Schumacherの代表作。
+《When I Rock》與《Schall!》一起是湯瑪斯舒馬克的傑作之一。
 
 #### 曲目表
 ```md

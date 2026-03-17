@@ -10,8 +10,7 @@ tags:
 - House
 - Deep House
 - 00s
-title: 大衛莫拉萊斯 (David Morales) 和阿爾伯特卡布雷拉 (Albert Cabrera) 推出由迪安娜 (Deanna) 主演的 Moca
-  – High
+title: David Morales & Albert Cabrera Present Moca Featuring Deanna – Higher
 ---
 
 

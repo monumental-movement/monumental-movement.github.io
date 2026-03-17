@@ -14,7 +14,7 @@ title: Mossa – 鹽花生 EP
 ---
 
 
-Jeremy Petrus，又名 Mossa，是一位居住在加拿大蒙特婁的音樂家、DJ 和電子音樂製作人。他經營 Complot Records 唱片公司，發行從電子音樂到休閒音樂等多種風格的音樂。
+MossaことJeremy Petrusは、カナダのモントリオールを拠点とするミュージシャン・DJ・エレクトロニックミュージックプロデューサー。テクノからチルアウトまで幅広いスタイルの音楽をリリースするレーベルComplot Recordsを運営している。
 
 《Salt Peanuts EP》是法國廠牌 Frankie Rec 於 2007 年發行的一首 tech house 簡約曲目。
 

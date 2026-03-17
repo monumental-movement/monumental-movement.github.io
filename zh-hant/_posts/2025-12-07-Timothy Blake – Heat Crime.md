@@ -9,13 +9,13 @@ permalink: /zh-hant/timothy-blake-heat-crime/
 tags:
 - House
 - 10s
-title: 提摩西布萊克－熱犯罪
+title: Timothy Blake – Heat Crime
 ---
 
 
 Timothy Blake 是一位出生於愛爾蘭的電子/浩室音樂製作人/DJ，現居德國柏林。他曾在 Kleine Reise Records、Dirt Crew、Fatty Fatty Phonographs 和 Lectric Sands NY 等歐洲獨立唱片公司發行作品。
 
-《Heat Crime》是 Timothy Blake 的代表作，於 2013 年由德國唱片公司 Kleine Reise Records 發行。 （限量印刷300份）
+《Heat Crime》是 Timothy Blake 的傑作，於 2013 年由德國唱片公司 Kleine Reise Records 發行。 （限量印刷300份）
 
 #### 曲目表
 ```md

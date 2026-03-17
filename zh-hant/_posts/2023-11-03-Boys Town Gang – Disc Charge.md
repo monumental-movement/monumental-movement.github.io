@@ -13,7 +13,7 @@ title: 男孩城幫 – Disc Charge
 ---
 
 
-Boys Town Gang 是一個後迪斯科高能量團體，由舊金山迪斯科 DJ 和製作人 Bill Motley 於 1980 年組建。
+Boys Town Gang（ボーイズ・タウン・ギャング）は、サンフランシスコのディスコDJ・プロデューサー Bill Motley（ビル・モトリー）によって 1980年に結成されたポストディスコ・ハイエナジーグループ。
 
 《Disc Charge》於 1981 年發行，是 Boys Town Gang 的第二張專輯，其中翻唱了他們的熱門歌曲“Can’t Take My Eyes Off You”。
 

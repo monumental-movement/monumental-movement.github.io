@@ -18,7 +18,7 @@ title: Jesse Somfay – 我們透過彼此呼吸星星
 
 Jesse Somfay 是來自加拿大的製作人，自 2000 年代中期以來一直活躍於著名品牌 Archipel 和 Traum Schallplatten。他的風格融合了極簡科技、氛圍和鞋履風格。他也因以 Borealis 名義開展的活動而聞名。
 
-《We Breathe The Stars Through Each Other》是 Jesse Somfay 的標誌性 Techno/Minimal/Acid 曲目，於 2005 年在 Traum Schallplatten 唱片公司發行。它包含在專輯《Between The Dark And The Light》中。
+《We Breathe The Stars Through Each Other》是 Jesse Somfay 的標誌性 Techno/Minimal/Acid 曲目，於 2005 年在 Traum Schallplatten 唱片公司發行。它包含在专辑《Between The Dark And The Light》中。
 
 #### 曲目表
 ```md

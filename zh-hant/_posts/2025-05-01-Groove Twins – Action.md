@@ -29,7 +29,7 @@ B1. Action (Radio Mix)
 B2. Action (Insturmental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m27226885297?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27226885297?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPFNrj_necM?si=W4ZtP1XE0riQDwkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

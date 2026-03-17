@@ -14,7 +14,7 @@ title: 團結——解決問題
 ---
 
 
-Unity 是 Gary Storm 和 Lionel Herman 的一個專案。他也以 Power Movement、Rugged All-Stars、S.N.H. 等其他名字進行創作。基金會、斯托姆和赫爾曼。
+Unityは、Gary Stormと Lionel Hermanによるプロジェクト。別名義で、Power Movement, Rugged All-Stars, S.N.H. Foundation, Storm & Hermanとしても活動している。
 
 《Work It Out》是一首 house/garage house 曲目，於 1993 年在 house 廠牌 Strictly Rhythm 上發行。當時的 A&R 是 DJ Pierre。
 

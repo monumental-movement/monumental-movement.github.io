@@ -13,7 +13,7 @@ title: 提摩西‧馬斯 – 馬斯家族的音樂
 ---
 
 
-Timo Maas 是一位傳奇的德國 DJ、製作人和混音師，自 20 世紀 90 年代以來一直活躍。他曾在日本和國外的著名俱樂部和音樂節上演出，包括伊維薩島的 DC10 和柏林的 Tresor，並於 2008 年推出了自己的廠牌 Rockets & Ponies，發行了 Wolfgang Haffner、Ricardo Villalobos、Maetrik、Nightmares on Wax 和 Addison Groove 等藝術家的作品。
+Timo Maas 是一位傳奇的德國 DJ、製作人和混音師，自 20 世紀 90 年代以來一直活躍。他曾在日本和国外的著名俱乐部和音乐节上演出，包括伊维萨岛的 DC10 和柏林的 Tresor，并于 2008 年推出了自己的厂牌 Rockets & Ponies，发行了 Wolfgang Haffner、Ricardo Villalobos、Maetrik、Nightmares on Wax 和 Addison Groove 等艺术家的作品。
 
 這張唱片是由英國唱片公司 Hope Recordings 於 2000 年發行的一張由 techno 曲目和混音曲目組成的混音專輯。
 

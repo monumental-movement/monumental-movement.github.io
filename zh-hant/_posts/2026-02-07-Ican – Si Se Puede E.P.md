@@ -19,7 +19,7 @@ Ican 是由 Esteban Adame 和 Santiago Salazar 組成的二人組。
 
 2004年，Esteban Adame受到底特律地下抵抗組織Mike Banks的邀請，以鍵盤手身份參與Banks的新項目（Galaxy 2 Galaxy / Los Hermanos），並開始與G2G樂隊成員Santiago Salazar（DJ S2）合作飾演Ican。
 
-「Si Se Puede E.P.」是一首 Deep House 曲目，由 Santiago Salazar 和 Esteban Adame 的廠牌 Ican Productions 於 2006 年發行。
+「Si Se Puede E.P.」是 Deep House 曲目，由 Santiago Salazar 和 Esteban Adame 的廠牌 Ican Productions 於 2006 年發行。
 
 #### 曲目表
 ```md

@@ -15,7 +15,7 @@ title: 廉價的技巧－色彩
 
 Cheap Trick 是一支美國搖滾樂隊，由 Robin Zander、Rick Nielsen、Tom Peterson 和 Van E. Carlos 於 1974 年在伊利諾伊州羅克福德組成。
 
-《In Color》是 Cheap Trick 的第二張專輯。製片人是湯姆沃曼（Tom Werman），他被稱為《泰德紐金特》的製片人。
+「In Color（蒼ざめたハイウェイ）」はCheap Trickの2ndアルバム。プロデューサーは、Ted Nugent（テッド・ニュージェント）のプロデューサー等で知られるトム・ワーマン。
 
 #### 曲目表
 ```md
@@ -40,7 +40,7 @@ B4. Come On, Come On
 B5. So Good To See You
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m96486417042?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96486417042?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ha6vtOiRH-w?si=GH0i5wTjiIkuV3hT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /zh-hant/studio-voice-vol230/
 tags:
 - Disk Guide
 - Studio Voice
-title: 錄音室之聲 Vol230（錄音室之聲）鮑伯迪倫
+title: Studio Voice Vol230 (スタジオボイス) ボブディラン
 ---
 
 

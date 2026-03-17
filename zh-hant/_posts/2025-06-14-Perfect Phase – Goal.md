@@ -15,9 +15,9 @@ title: 完美階段——進球！ ！ ！
 ---
 
 
-Perfect Phase 是 Freek Fontein (The Freak) 和 Willem Faber (Mac Zimms) 的一個項目，他們是自 20 世紀 80 年代以來一直活躍的荷蘭 techno、trance 和 Hard house DJ 和製作人。
+Perfect Phase 是 Freek Fontein (The Freak) 和 Willem Faber (Mac Zimms) 的項目，他們是自 20 世紀 80 年代以來一直活躍的荷蘭 techno、trance 和 Hard house DJ 和製作人。
 
-這張唱片是荷蘭舞曲廠牌 2-Play 於 2000 年發行的 House/HardHouse 曲目。
+このレコードは、2000年にオランダのダンスレーベル2-PlayかリリースされたHouse ・HardHouseトラック。
 
 這件夾克的設計者是 Dennis Harinck（又名 Deaz D.），他是荷蘭 Locomotion 俱樂部的成員。
 

@@ -11,7 +11,7 @@ tags:
 - Tech House
 - House
 - 00s
-title: 蓋革 - 日
+title: 蓋革 – 日
 ---
 
 

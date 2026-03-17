@@ -13,7 +13,7 @@ title: 星球 '95 – 跟我說話
 ---
 
 
-Planet 95 是由 Antonio D'Ambrosio、Claudio Ferrante、Pasquale De Crescenzo 和 Renato De Crescenzo 組成的組合。
+Planet 95 は、Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo, Renato De Crescenzoによるユニット。
 
 《Talk To Me》是 1996 年由格拉斯哥廠牌 Limbo Records 發行的一套兩碟 house 曲目。
 

@@ -10,7 +10,7 @@ tags:
 - Future Jazz
 - Acid Jazz
 - 90s
-title: Akimbo 主演 Marcina Arnold – 《眾所皆知》
+title: Akimbo Featuring Marcina Arnold – Everybody Knows
 ---
 
 

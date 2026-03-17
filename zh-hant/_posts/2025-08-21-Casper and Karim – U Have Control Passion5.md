@@ -10,7 +10,7 @@ tags:
 - Hard House
 - House
 - 00s
-title: Casper & Karim – 你有控制/Passion5
+title: Casper & Karim – U Have Control / Passion5
 ---
 
 

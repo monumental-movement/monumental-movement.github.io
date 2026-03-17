@@ -20,7 +20,7 @@ title: 伊恩麥卡洛克 – 九月之歌
 
 麥卡洛克引用盧·里德、伊基·波普、大門樂隊、倫納德·科恩，尤其是大衛·鮑伊作為他的音樂影響力。
 
-他形容科恩1968年的歌曲《蘇珊》是“一首有著完美歌詞和完美旋律的歌曲”，而鮑伊則是“20世紀最偉大的獨唱藝術家，具有巨大的影響力”。
+他將科恩 1968 年的歌曲《Susan》描述為“一首擁有完美歌詞和完美旋律的歌曲”，將鮑伊描述為“20 世紀最偉大的獨奏藝術家，具有巨大的影響力”。
 
 #### 曲目表
 ```md
@@ -31,7 +31,7 @@ B1. September Song (Short Version)
 B2. Cockles And Mussels
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m99638933922?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99638933922?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5CoAIAfK50?si=pRc5zO63wNDD3uZ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /zh-hant/deutsch-amerikanische-freundschaft-die-kleinen-und-die-bosen
 tags:
 - Experimental
 - 80s
-title: 德美友誼 – Die Kleinen Und Die Bösen
+title: Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen
 ---
 
 

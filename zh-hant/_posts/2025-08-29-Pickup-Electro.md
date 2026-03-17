@@ -24,7 +24,7 @@ title: 拿起電子作品
 
 Point：一部歷史傑作，可以說是電音的基石。這首歌曲將嘻哈音樂和舞曲與合成器連複段和人聲樣本結合。這部作品至今仍被稱為與霹靂舞文化一起繁榮的「未來嘻哈音樂」。
 
-景點：電子音樂、未來嘻哈音樂的起源
+魅力：エレクトロの原点、未来的ヒップホップ
 
 #### 曲目表
 ```md
@@ -44,11 +44,11 @@ B. Planet Rock (Instrumental)
 <br>
 
 
-### Afrika Bambaataa 和 WestBam – 阿格哈塔
-<a href="https://jp.mercari.com/item/m28101658653?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20And%20Agbam%20%E2%80%53%)
+### Afrika Bambaataa & WestBam – Agharta
+<a href="https://jp.mercari.com/item/m28101658653?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20And%20Westbam%20%E2%80%93%20Agharta.webp"></a>
 
 
-看點：德國Low Spirit發行的合作EP。 Afrika Bambaataa 和 West Bum 共同產生共鳴，創造出描繪「地下城市景觀」的美妙聲音。這張專輯包含多個混音版，讓您享受電子音樂和電子音樂的交會。
+看點：德國Low Spirit發行的合作EP。 Afrika Bambaataa 和 West Bum 共同产生共鸣，创造出描绘“地下城市景观”的美妙声音。这张专辑包含多个混音版，让您享受电子乐和电子乐的交汇。
 
 魅力：Electro x techno 奇妙合作
 
@@ -97,9 +97,9 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 
 
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
-<a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp;
+<a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-重點：《Side B》是一首電子感特別強烈的黑暗歌曲。寧靜的氛圍中瀰漫著一種“機械的張力”，將你帶入一個冷靜而深刻的世界觀。
+重點：《Side B》是一首黑暗的歌曲，電子感特別強。寧靜的氛圍中瀰漫著一種“機械的張力”，帶你進入一個冷酷而深刻的世界觀。
 
 魅力：黑暗而緊張的電子樂
 
@@ -150,7 +150,7 @@ B2. Dance The Machine (Disco Club Mix)
 
 
 
-### Ugra & Albrecht – 修飾過的 EP
+### Ugra & Albrecht – Retouched EP
 <a href="https://jp.mercari.com/item/m46595455712?afid=6142608987"><img src="../assets/images/Ugra%20&%20Albrecht%20%E2%80%93%20Retwebed
 
 重點：德國製片人 Sertac Ugra 和 Sören Albrecht 的項目。這是一首罕見的結合了電子音樂和浩室音樂的曲目，具有精緻的浩室感覺和電子邊緣。
@@ -177,7 +177,7 @@ B. Schmetterball
 
 
 ### 德爾科斯塔 & 佩德羅·戈雅 – 《怪異麥克》
-<a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%73%20093%</webp.
+<a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%73%200%173%>
 
 亮點：葡萄牙資深製作人二人組的作品。包含原始版本和混音版本，讓您享受簡約且適合跳舞的電子曲目。
 

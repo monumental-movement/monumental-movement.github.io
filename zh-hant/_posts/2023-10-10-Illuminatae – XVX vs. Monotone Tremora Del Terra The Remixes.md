@@ -14,7 +14,7 @@ title: Illuminatae – XVX 與 Monotone Tremora Del Terra 混音版
 
 
 “XVX vs. Monotone Tremora Del Terra 混音版”
-這是 Doug Osborne 和 Gordon Matthewman 的樂隊 Illuminatae 於 1993 年在德國廠牌“Mono Tone”上發行的 EP。
+1993年にドイツのレーベル「Mono Tone」からリリースされたDoug OsborneとGordon MatthewmanによるユニットIlluminataeのEPです。
 
 #### 曲目表
 ```md

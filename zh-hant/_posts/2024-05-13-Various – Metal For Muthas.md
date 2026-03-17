@@ -16,7 +16,7 @@ title: 各種 – Muthas 的金屬
 
 
 [錄音藝術家]
-Iron Maiden、Sledgehammer、E.F. Band、Toad the Wet Sprocket、Aether the Frog、Angel Witch、Samson、Nuds
+アイアン・メイデン、スレッジハンマー、E.F.バンド、トード・ザ・ウェット・スプロケット、エーテル・ザ・フロッグ、エンジェル・ウィッチ、サムソン、ナッズ
 
 一部傑作金屬綜合專輯在日本發行，名為「重金屬邀請」。這張專輯是德國唱片公司 Back Bone 於 1986 年發行的德國重新發行版。
 

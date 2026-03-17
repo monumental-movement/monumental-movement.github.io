@@ -11,7 +11,7 @@ tags:
 - Break Beat
 - IDM
 - Leftfield
-title: 各種 – 隔離音訊播放器 EP2
+title: Various – Isolated Audio Players EP2
 ---
 
 
@@ -23,9 +23,9 @@ title: 各種 – 隔離音訊播放器 EP2
 
 獨立音訊播放器 EP2 由日本優秀唱片公司 PICKIN' MUSHROOM RECORDINGS 於 2001 年發行。
 
-Deep House 的 Takayuki Shiraishi 創作了《Flicker》。這首歌也是由 DJ HIKARU 演奏的，具有深沉的聲音和節奏。
+ディープハウスの白石隆之によるFlickerがあります。このトラックは、DJ HIKARUもプレイしており、深いサウンドとリズムが特徴です。
 
-此外，JIN HIYAMA的《Tennis》以獨特質感的電音碎拍，以其粗獷的聲音和激動人心的節拍而吸引人。
+また、エレクトリックなブレイクビーツに独自の質感を持たせたJIN HIYAMAによる "Tennis"は、ザラついたサウンドと刺激的なビートが魅力です。
 
 最後，收錄了為日本地下音樂做出貢獻的重要廠牌SOUND-CHANNEL的核心人物DOL-LOP的《Storm》。這首歌以獨特而酷的碎拍為特色，賦予其獨特的日本感覺。
 

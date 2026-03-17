@@ -9,7 +9,7 @@ permalink: /zh-hant/michael-saxell-red-and-blue/
 tags:
 - Rock
 - Pops
-title: 麥可薩克塞爾 – 紅與藍
+title: Michael Saxell – Red And Blue
 ---
 
 

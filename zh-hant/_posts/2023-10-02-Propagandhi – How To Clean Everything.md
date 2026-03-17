@@ -9,7 +9,7 @@ permalink: /zh-hant/propagandhi-how-to-clean-everything/
 tags:
 - Punk
 - Hardcore
-title: 宣傳－如何清潔一切
+title: Propagandhi – How To Clean Everything
 ---
 
 

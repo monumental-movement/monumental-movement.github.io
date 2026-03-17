@@ -17,7 +17,7 @@ title: 公社會員 – 紅色
 
 《Red》是公社樂團的首張專輯，被廣泛認為是他們最成功的作品之一。這張專輯收錄了充滿情感的歌聲和適合跳舞的節奏的歌曲。
 
-這張專輯包括《Don't Leave Me This Way》和《Never Can Say Goodbye》等熱門單曲。由於公社樂隊獨特的聲音和舞池的流行，這些歌曲在商業上取得了成功。
+アルバムには、ヒットシングル「Don't Leave Me This Way」や「Never Can Say Goodbye」などが含まれています。これらの楽曲は、The Communardsの特徴的なサウンドと、ダンスフロアでの人気を受けて商業的にも成功を収めました。
 
 #### 曲目表
 ```md
@@ -42,7 +42,7 @@ B4I. f I Could Tell You
 B5. C Minor
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61578510071?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61578510071?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79nhyK2yiZw?si=4MpDc6b35bTgNX59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

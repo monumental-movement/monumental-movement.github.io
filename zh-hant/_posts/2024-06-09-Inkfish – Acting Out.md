@@ -12,11 +12,11 @@ tags:
 - Tribal
 - House
 - 00s
-title: 墨魚 – 表演
+title: Inkfish – Acting Out
 ---
 
 
-Inkfish 是地下 House 界的重量級人物，是自 90 年代以來一直活躍的製作人和 DJ 團體。成員包括來自瑞典的 Mattias Lindblom、Jesper Lindquist、Andreas Hermansson 和 Johan Hermansson。
+アンダーグラウンド ハウス シーンの重鎮Inkfishは、90年代から活動するプロデューサー＆DJ集団。メンバーは、ウェーデン出身のMattias Lindblom、Jesper Lindquist、Andreas Hermansson、Johan Hermansson の 4 人。
 
 Inkfish 曾以各種名義與 David West、Hardy Heller、Tomas Andersson 和進步傳奇人物 Ian Ossia 等大品牌製作人/DJ 合作。他也培養了梅德韋、湯姆·諾維和傑羅姆·伊斯瑪-埃以及馬特·達雷等藝術家。
 

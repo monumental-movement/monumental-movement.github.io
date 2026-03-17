@@ -9,7 +9,7 @@ permalink: /zh-hant/takehana-and-golden-lotus-samurai-step/
 tags:
 - Abstract
 - Jazz
-title: 竹花與金蓮花 - 武士步
+title: Takehana and Golden Lotus - Samurai Step
 ---
 
 

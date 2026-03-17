@@ -10,13 +10,13 @@ tags:
 - Jpop
 - Pops
 - 90s
-title: Toshi Nagai – D.O.S 鼓
+title: Toshi Nagai – D.O.S Drum
 ---
 
 
 Toshi Nagai，也被稱為 Toshimitsu Nagai，是一位日本鼓手，擔任 GLAY、Kyosuke Himuro 和 EXILE TAKAHIRO 等樂團的支援鼓手。
 
-《D.O.S Drum》是永井敏於1999年發行的第二張個人專輯。
+「D.O.S Drum」は、1999年にリリースしたToshi Nagai 2枚目のソロアルバム。
 
 #### 曲目表
 ```md

@@ -10,12 +10,12 @@ tags:
 - Noise
 - Progressive
 - Rock
-title: Zeni Geva – 10000 光年
+title: Zeni Geva – 10000 Light Years
 ---
 
 
-「Zeni Geva – 10000 光年」是
-2000 年 10 月在芝加哥電氣音訊錄製的專輯的宣傳專輯。
+「Zeni Geva – 10000 Light Years」は、
+專輯宣傳片於 2000 年 10 月在芝加哥 Electrical Audio 錄製。
 
 #### 曲目表
 ```md

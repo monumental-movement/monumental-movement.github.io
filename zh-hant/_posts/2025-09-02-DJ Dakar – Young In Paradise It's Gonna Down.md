@@ -10,11 +10,11 @@ tags:
 - Deep House
 - Tech House
 - 00s
-title: DJ 達卡 – Young In Paradise / It's Gonna Down
+title: DJ Dakar – Young In Paradise / It’s Gonna Down
 ---
 
 
-Christian Kreuz，也被稱為 DJ Dakar，自 20 世紀 90 年代末以來一直駐紮在德國慕尼黑，作為 Dakar & Grinser 部門的一部分，並且是“Ultraschall”俱樂部的常駐 DJ。 2001 年 Dakar & Grinser 暫時解散後，他開始單飛。
+Christian Kreuz，也被稱為 DJ Dakar，自 20 世紀 90 年代末以來一直駐紮在德國慕尼黑，作為 Dakar & Grinser 部門的一部分，並且是“Ultraschall”俱樂部的常駐 DJ。 2001 年 Dakar & Grinser 暂时解散后，他开始单飞。
 
 2003 年，他以個人專輯《Diktatur Des Kapitals》首次亮相，並於 2006 年創立了自己的廠牌 Shotgun Recordings。
 

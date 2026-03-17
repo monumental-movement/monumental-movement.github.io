@@ -14,7 +14,7 @@ title: Isotonik – 等滲 E.P
 
 
 “Isotonik – Isotonik E.P”
-A 面和 B 面第一首曲目的製作人/作曲家/混音是 DJ Hype（Kevin Ford），他是一位英國叢林鼓和貝斯製作人/DJ。
+A面とB面一曲目のプロデューサー/作曲/mixは、UKのジャングル・ドラムンベースのプロデューサー/DJのDJ Hype（DJハイプ/Kevin Ford/ケビン・フォード) 。
 
 #### 曲目表
 ```md

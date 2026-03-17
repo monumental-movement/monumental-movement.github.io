@@ -14,7 +14,7 @@ title: 電——你和我（整夜）
 
 
 《你和我（整夜）》是
-這是義大利唱片公司「In Out」於 1994 年發行的一張 EP by Electricity。
+1994年にイタリアのレーベル「In Out」からリリースされたElectricityによるEPです。
 
 
 #### 曲目表

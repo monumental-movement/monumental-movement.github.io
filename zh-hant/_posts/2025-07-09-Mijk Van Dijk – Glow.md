@@ -9,7 +9,7 @@ permalink: /zh-hant/mijk-van-dijk-glow/
 tags:
 - Trance
 - 90s
-title: Mijk Van Dijk – 發光
+title: Mijk Van Dijk – Glow
 ---
 
 

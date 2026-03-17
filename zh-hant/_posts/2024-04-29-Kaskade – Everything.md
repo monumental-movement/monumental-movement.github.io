@@ -14,9 +14,9 @@ title: Kaskade – 一切
 ---
 
 
-Ryan Gary Raddon，又名 Kaskade，是一位美國 DJ、製作人和混音師。 Kaskade 於 2011 年和 2013 年被 DJ Times 評為美國最佳 DJ，並在 DJ Mag 的 2009 年 100 名 DJ 排行榜上排名第 51 位。
+KaskadeことRyan Gary Raddon(ライアン・ゲイリー・ラドン)は、USのDJ・プロデューサー・リミキサー。Kaskadeは、2011年と2013年にDJ TimesのAmerica's Best DJに、DJ Magでは2009年Top100のDJリストで51位に選ばれている。
 
-《Everything is》是舊金山唱片公司 OM Records 於 2005 年發行的一首深屋曲目。
+Everythingは2005年にサンフランシスコのレーベルOM Recordsからリリースされたハウス・ディープハウストラック。
 
 #### 曲目表
 ```md

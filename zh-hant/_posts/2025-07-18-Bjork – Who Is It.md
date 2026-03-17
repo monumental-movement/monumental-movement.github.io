@@ -13,7 +13,7 @@ title: 比約克——這是誰
 ---
 
 
-由 Rephlex 廠牌的偉大波蘭裔美國 DJ 和製作人 Bogdan Raczynski 對 Bjork 的“Who Is It”進行混音。
+Bjork(ビョーク)「Who Is It 」をRephlexレーベルの偉才、ポーランド系アメリカ人DJ・プロデューサーBogdan Raczynski(ボグダン・ラチンスキー)がremix。
 
 這張唱片於2005年發行，是Bogdan Raczynski繼Autechre和Ulver的混音作品之後的混音作品傑作。
 

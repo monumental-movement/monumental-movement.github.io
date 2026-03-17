@@ -15,7 +15,7 @@ title: 肯尼拉金——自戀者
 ---
 
 
-Kenny Larkin 是來自底特律的 techno house 製作人和 DJ。他在胡安·阿特金斯 (Juan Atkins) 和德里克·梅 (Derrick May) 的影響下開始了他的職業生涯，並在包括 Richie Hawtin 和 John Acquaviva 的唱片公司 Plus 8、Buzz 和 Warp 在內的眾多唱片公司發行過唱片。
+Kenny Larkin 是來自底特律的 techno house 製作人和 DJ。他在胡安·阿特金斯 (Juan Atkins) 和德里克·梅 (Derrick May) 的影响下开始了他的职业生涯，并在包括 Richie Hawtin 和 John Acquaviva 的唱片公司 Plus 8、Buzz 和 Warp 在内的众多唱片公司发行过唱片。
 
 《The Narcissist》是英國獨立唱片公司 Peacefrog Records 於 2004 年發行的 house techno 慢速專輯。
 

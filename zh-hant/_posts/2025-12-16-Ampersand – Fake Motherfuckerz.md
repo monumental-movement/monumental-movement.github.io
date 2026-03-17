@@ -16,7 +16,7 @@ title: '& 符號 – Fake Motherfuckerz'
 
 & 符號是由 Benjamin Westermann 和 Henrik Bueren 組成的單位。
 
-《Fake Motherfuckerz》是一首 Techno/Electro 曲目，由比利時電子廠牌 Lektroluv 於 2008 年發行，由比利時 DJ/製作人 Stefaan Vandenberghe（又名 Dr. Lektroluv）領導。
+「Fake Motherfuckerz」は、ベルギーのDJ／プロデューサーStefaan Vandenberghe別名Dr. Lektroluv主宰のベルギー・エレクトロレーベルLektroluvから、2008年にリリースしたTechno／Electroトラック。
 
 #### 曲目表
 ```md

@@ -14,13 +14,13 @@ title: 灰野敬二 - Nanimokamo 灰野敬二 – 一切
 ---
 
 
-灰野敬二 – 一切
+灰野敬二 – 何もかも　
 打擊樂獨奏
 灰野敬二
 
 VHS（錄影帶）
 
-PSF Records於2002年發行了VHS，該公司發行了許多日本地下音樂，如High Rise、Acid Mother's Temple、Mainliner、White Heaven、Ghost、Koshu Yo、Masayuki Takayanagi、Kaoru Abe、Hiroshi Mikami、Toshiaki Ishizuka、Keiji Haino和Fushisha。
+PSF Records於2002年發行了VHS，發行了許多日本地下音樂，如High Rise、Acid Mother's Temple、Mainliner、White Heaven、Ghost、Koshu Yo、Masayuki Takayanagi、Kaoru Abe、Hiroshi Mikami、Toshiaki Ishizuka、Keiji Haino和Fushisha。
 
 導演是曾負責三上浩的《從繩文到太空：繩文搖滾》（VHS）的錄像藝術家野木宗一郎。
 

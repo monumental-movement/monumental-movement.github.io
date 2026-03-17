@@ -16,7 +16,7 @@ title: 迪伊爸爸 – Island Rock
 
 大衛·克里斯托弗·丹尼爾·沃爾格倫（David Christopher Daniel Wahlgren），也被稱為 Papa Dee，是一位來自瑞典的說唱歌手。他的風格融合了拉格、配音、舞廳、雷鬼和嘻哈元素。
 
-《Island Rock》是WEA於1998年發行的一張流行饒舌專輯，共同製作人是瑞典製作人Kent Gillström。
+「Island Rock」は、1998年にWEAからリリースされたPop Rapアルバム。共同プロデューサーは、スウェーデンのプロデューサーKent Gillström。
 
 #### 曲目表
 ```md

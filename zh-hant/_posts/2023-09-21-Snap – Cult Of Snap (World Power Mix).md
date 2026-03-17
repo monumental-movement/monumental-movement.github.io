@@ -13,11 +13,11 @@ title: 折斷！ – Snap 崇拜（世界力量組合）
 ---
 
 
-《Snap! – Cult Of Snap (World Power Mix)》是 Snap! 的歌曲！折斷！是活躍於 20 世紀 80 年代和 90 年代的德國歐洲舞團，以《The Power》和《Rhythm Is a Dancer》等熱門歌曲而聞名。 「Cult Of Snap (World Power Mix)」具有朗朗上口的音效和流行能量。
+《Snap! – Cult Of Snap (World Power Mix)》是 Snap! 的歌曲！折斷！是活跃于 20 世纪 80 年代和 90 年代的德国欧洲舞团，以《The Power》和《Rhythm Is a Dancer》等热门歌曲而闻名。 “Cult Of Snap (World Power Mix)”具有朗朗上口的声音和流行能量。
 
-「Cult Of Snap (World Power Mix)」是 Snap! 最受歡迎的歌曲之一，為舞曲音樂迷和流行音樂愛好者所熟悉。
+「Cult Of Snap (World Power Mix)」は、Snap!の人気曲の一つでありダンスミュージックファンやポップミュージック愛好家にとってはお馴染みの曲です。
 
-融合了流行音樂和舞曲元素，不僅讓聽眾翩翩起舞，還提供了愉快的音樂體驗。
+ポップミュージックとダンスミュージックの要素を融合させ、聴く人を踊らせるだけでなく、楽しい音楽体験を提供します。
 
 從歌曲文字和標題可以看出，Snap！是關於建立一種「邪教」或粉絲社區，這一意義在整首歌中得到體現。
 

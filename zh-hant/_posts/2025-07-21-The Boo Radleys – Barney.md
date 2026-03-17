@@ -16,7 +16,7 @@ title: The Boo Radleys – 巴尼（…和我）
 
 一支與鞋迷和英倫流行音樂相關的英國另類搖滾樂隊，活躍於 1988 年至 1999 年，並於 2021 年重聚。
 
-《Barney (...And Me)》是 1993 年發行的專輯《Giant Steps》中的單曲，其中還包括《Lazarus》，該歌曲被用作 2025 年電視動畫《Lazarus》的片尾曲。 Indie Rock 由英國獨立唱片公司 Creation Records 於 1994 年發行，包括 Oasis 和 Primal Scream。
+「Barney (...And Me)」は、2025年にテレビアニメ『Lazarus ラザロ』のエンディング曲に使用された「Lazarus」も収録されている1993年リリースのアルバム『Giant Steps 』からのシングルカット。1994年にオアシスやプライマルスクリーム等が在籍したUKのインディーズレーベルCreation Records (クリエイション・レコーズ)からリリースされたIndie Rock。
 
 #### 曲目表
 ```md

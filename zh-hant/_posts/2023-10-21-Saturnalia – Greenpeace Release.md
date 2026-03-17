@@ -9,13 +9,13 @@ permalink: /zh-hant/saturnalia-greenpeace-release/
 tags:
 - Happy Hardcore
 - Hardcore
-title: 農神節 – 綠色和平發布
+title: Saturnalia – Greenpeace Release
 ---
 
 
 Saturnalia 是英國製片人 Jim Sullivan 和 Steve McGarrigle 的專案。此次發布的所有利潤均捐給綠色和平組織。
 
-A面的鋼琴和人聲是Mo Lester的《Blue Sky Day》的樣本，人聲是African Business的《In Zaire》的樣本。
+A面のPiano & vocalは、Mo Lester「Blue Sky Day」、vocalはAfrican Business 「In Zaire」からのサンプリング。 
 B面台詞來自電影《星際爭霸戰IV：漫漫迴家路》。
 
 #### 曲目表

@@ -21,7 +21,7 @@ title: 第一場——午夜游泳
 
 
 
-Para One 是一家法國電子製作人。他因製作 2007 年法國電影《睡蓮》（原片名：Naissance Des Pieuvres）的原聲帶而聞名。
+Para One 是一家法國電子製作人。他因制作 2007 年法国电影《睡莲》（原片名：Naissance Des Pieuvres）的原声带而闻名。
 
 A 面的第二首曲目是英國電子音樂 DJ/製作人 Riton 的混音版。
 

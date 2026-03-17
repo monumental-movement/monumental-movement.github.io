@@ -9,7 +9,7 @@ permalink: /zh-hant/terry-brookes-aaron-soul-city-life-part-1/
 tags:
 - House
 - 00s
-title: Terry Brookes 和 Aaron Soul – 城市生活（第 1 部分）
+title: Terry Brookes & Aaron Soul – City Life (Part 1)
 ---
 
 

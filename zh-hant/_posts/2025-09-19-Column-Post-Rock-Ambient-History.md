@@ -47,7 +47,7 @@ color: #fff;
 |------|--------------|----|-----|
 | *氛圍 1：機場音樂* |布萊恩·伊諾 | 1978 |定義「環境」的概念|
 | *另一個綠色世界* |布萊恩伊諾 | 1975 |後搖滾情感的先驅 |
-| *費德拉* |橘夢| 1974 |定序儀驅動的創新 |
+| *Phaedra* | Tangerine Dream | 1974 | シーケンサー駆動の革新 |
 | *謹慎的音樂* |布萊恩·伊諾 | 1975 |磁帶循環實驗|
 
 **主要設備**
@@ -73,12 +73,12 @@ color: #fff;
 
 **主要設備**
 - 雅馬哈DX7
-- 羅蘭朱諾-60
+- Roland Juno-60
 - 黃昏H910
 
 ---
 
-### 20 世紀 90 年代：後搖滾的誕生與擴張
+### 1990年代：ポストロックの誕生と拡張  
 
 - **背景**：垃圾搖滾之後另類搖滾的多元化。在網路出現前夕，實驗性的獨立場景爆發了。
 - **特色**：使用吉他進行非搖滾風格的開發。長度長，動態/靜態對比。
@@ -145,9 +145,9 @@ color: #fff;
 |工作|藝術家 |年份|特色|
 |------|--------------|----|-----|
 | *承諾* |浮點、Pharoah Sanders 和 LSO | 2021 |爵士樂 x 古典 x 氛圍 |
-| *哀歌* |威廉巴辛斯基 | 2020 |數位時代的崩潰美學|
+| *哀歌* |威廉·巴辛斯基 | 2020 |數位時代美學的崩潰|
 |人工智慧環境專案|各種| 2020 年代 |無限生成的音樂 |
-| *一切* |慢草甸| 2022 | 2022冥想後古典|
+| *Everything* | Slow Meadow | 2022 | 瞑想的ポストクラシカル |
 
 **主要設備**
 - AI合成工具（例如[AIVA](https://aiva.ai/)、[Riffusion](https://www.riffusion.com/)）
@@ -178,6 +178,16 @@ flowchart TD
 未來將透過連結生成人工智慧和身體感覺的「沉浸式聲音架構」進一步更新。
 
 ---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7Xm2CreH5E?si=KfTgIYSIaieLzpji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 相關專欄
 

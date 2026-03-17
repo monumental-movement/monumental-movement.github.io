@@ -9,11 +9,11 @@ permalink: /zh-hant/technova-transcience-remixes/
 tags:
 - Techno
 - Rare
-title: Technova – 超科學混音
+title: Technova – Transcience Remixes
 ---
 
 
-大衛·哈羅（David Harrow），也被稱為 Technova，是一位英國鍵盤手和音樂家，因與安妮·克拉克（Anne Clark）的合作而聞名。
+TechnovaことDavid Harrow（デビッド・ハロウ）は、イギリスのキーボード奏者であり、Anne Clark（アン・クラーク）との仕事でも知られているミュージシャン。
 
 #### 曲目表
 ```md

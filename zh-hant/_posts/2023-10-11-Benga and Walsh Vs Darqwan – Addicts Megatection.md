@@ -13,7 +13,7 @@ title: Benga 和 Walsh VS Darqwan – 癮君子大保護
 ---
 
 
-「Benga & Walsh Vs Darqwan – Addicts / Megatection」是由三位著名迴響貝斯藝術家 Benga、Walsh 和 Darqwan 創作的迴響貝斯曲目。
+「Benga & Walsh Vs Darqwan – Addicts / Megatection」は、3人の著名なダブステップアーティスト、Benga、Walsh、DarqwanによるDubstepトラック。
 
 Benga 是迴響貝斯的先驅之一，是來自英國倫敦南部的迴響貝斯製作人。他以製作熱門單曲而聞名，例如“Katy On A Mission”（Katy B）、“I Need Air”（Magnetic Man 壯舉 Angela Hunte）和“Fire”（Magnetic Man 壯舉 Ms Dynamite）。
 

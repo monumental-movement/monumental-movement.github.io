@@ -16,7 +16,7 @@ title: 盧卡·巴爾迪尼 – 赫爾曼·德拉姆勒
 
 盧卡·巴爾迪尼 (Luca Baldini) 是一位義大利音樂家/編曲家/製作人/DJ。他也與 Sergio Ricciardone 一起作為電子音樂二人組 Drama Society 活躍。
 
-《Hermann Der Rammler》是一首 Techno/Electro 曲目，由 Marco Gallerani 領導的唱片公司 Hell Yeah Recordings 於 2006 年發行。
+「Hermann Der Rammler」は、2006年にMarco Gallerani主宰のレーベルHell Yeah RecordingsからリリースされたTechno／Electroトラック。
 
 B 是柏林 DJ/製作人 Matt Edwards（也稱為 Radio Slave）的混音版。
 

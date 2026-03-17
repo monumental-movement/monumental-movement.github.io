@@ -8,11 +8,11 @@ layout: post
 permalink: /zh-hant/deep-side-what-i-need/
 tags:
 - Hiphop
-title: 深層—我需要什麼
+title: Deep Side – What I Need
 ---
 
 
-“深層——我需要什麼”
+「Deep Side – What I Need」の
 B 面的第一首歌曲由來自新奧爾良的 MC/嘻哈藝人/饒舌歌手 Juvenile 演唱。
 
 
@@ -29,7 +29,7 @@ B1. Hot Like An Oven
 B2. Lovely
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m16482484195?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16482484195?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J838cZwS4rk?si=yQdHHez0H8ij-rMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

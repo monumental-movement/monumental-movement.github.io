@@ -14,7 +14,7 @@ title: 阿羅姆－舉起手來
 
 
 「舉起手來」是
-這是 Frank Zenker 的 Arome 計畫於 2002 年在德國廠牌 Overdose 上發行的 EP。
+2002年にドイツのレーベル「Overdose」からリリースされたFrank ZenkerによるプロジェクトAromeによるEPです。
 
 #### 曲目表
 ```md

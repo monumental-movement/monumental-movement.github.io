@@ -9,15 +9,15 @@ permalink: /zh-hant/terry-francis-smokey-room-ep/
 tags:
 - House
 - Tech House
-title: 崔法蘭西斯 – Smokey Room EP
+title: Terry Francis – Smokey Room EP
 ---
 
 
-Terry Francis 是一位英國 DJ 兼製作人，1966 年 7 月 28 日出生於埃普瑟姆。
+Terry Francisは1966年7月28日にEpsomで生まれたイギリスのDJ兼プロデューサーです。
 
 他的職業生涯始於 1988 年，在萊瑟黑德 (Leatherhead) 的漢密爾頓酒吧 (Hamilton's Wine Bar) 共同推廣迷幻屋之夜。同時，他也擔任屋頂工。
 
-1990 年，他成為沃辛 Sterns 的常駐 DJ。他也曾在 Swag 唱片公司工作。他也是兩家唱片公司的共同所有者：Eye 4 Sound 和 Wiggle。
+1990年にはWorthingのSternsでレジデントDJとなりました。また、Swag Recordsで働いていたこともあります。彼はEye 4 SoundとWiggleという2つのレコードレーベルの共同オーナーでもありました。
 
 1990 年代中期，他是 Groove Kitchen 和 Wiggle 的發起人和常駐 DJ。他也是 Freaky Disco 的常駐 DJ。此外，他還主持了 Energy 87.9 FM 的節目。
 

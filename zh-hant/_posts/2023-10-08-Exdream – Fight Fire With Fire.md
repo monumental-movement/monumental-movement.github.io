@@ -14,7 +14,7 @@ title: Exdream – 以火救火
 
 
 「以火攻火」是
-這是 Exdream 的一張 EP，由 Fausto Guio 和 Roberta Granà 合作，於 1996 年在義大利唱片公司 Easy Beat 上發行。
+這是 Exdream 的一張 EP，由 Fausto Guio 和 Roberta Granà 合作，於 1996 年在義大利廠牌 Easy Beat 上發行。
 
 #### 曲目表
 ```md

@@ -10,13 +10,13 @@ tags:
 - Tribal
 - Techno
 - 90s
-title: Vectif 與 M. Experience – 刺激 EP
+title: The Vectif vs. The M. Experience – Stimulation EP
 ---
 
 
 Montini Experience (The M. Experience) 是一個比利時 Techno/Hardtrance 項目，由 Bart Grinaert、Lajos Mészáros 和 Marc Van Campenhout (Zzino) 設計。巴特·格里納特 (Bart Grinaert) 最出名的作品是《Housetrap》、《Sinesweeper》，以及與 Maarten Wilmaers 組成的 Filterheadz 二人組。
 
-《Stimulation EP》是比利時唱片公司 Spectron Records 於 1998 年發行的一首 Techno/Tribal 曲目。
+「Stimulation EP」は、1998年にベルギーのレーベルSpectron Records からリリースされたTechno／Tribalトラック。
 
 #### 曲目表
 ```md

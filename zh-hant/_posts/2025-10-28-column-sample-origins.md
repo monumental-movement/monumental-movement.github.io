@@ -37,7 +37,7 @@ color: #fff;
 </style>
 
 
-#### 1. 溫斯頓一家－《阿門，兄弟》(1969)
+#### 1. The Winstons – “Amen, Brother” (1969)
 俗稱「**阿門休息**」。六秒鐘的鼓獨奏催生了無數流派，包括嘻哈、叢林、鼓貝斯和硬核科技音樂。來自 N.W.A. 各地的製作人《Public Enemy》、《Aphex Twin》和《The Prodigy》創造了這一突破。
 前鼓手格雷戈里·科爾曼去世時沒有得到任何獎勵，但軍鼓和踩鈸之間的「律動精神」繼續產生共鳴。
 
@@ -133,7 +133,7 @@ Wu-Tang Clan 的“C.R.E.A.M.”中使用的原始旋律。甜美的弦樂和憂
 ---
 
 #### 13. 艾斯利兄弟 – 《床單之間》(1983)
-以Notorious B.I.G.的《Big Poppa》和Jay-Z的《Ignorant Shit》等歌曲而闻名。性感而憂鬱的醇厚是90年代R&B的起源。
+以Notorious B.I.G.的《Big Poppa》和Jay-Z的《Ignorant Shit》等歌曲而聞名。性感而憂鬱的醇厚是90年代R&B的起源。
 光滑的凹槽有一種完美的程度，感覺像是在採樣的前提下寫的。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pf_si60K9nM?si=wxf1QS5Iv_Io8ngi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +171,7 @@ Wu-Tang Clan 的“C.R.E.A.M.”中使用的原始旋律。甜美的弦樂和憂
 ---
 
 #### 18. 巴瑞懷特（Barry White）－「寶貝，我要多愛你一點」（1973）
-在取樣世界裡，它是愛情的象徵。 《夢想》和肯伊威斯特引用過，它跨越了靈魂和慾望之間的界限。
+サンプリング界では「愛の象徴」。The DreamやKanye Westが引用し、ソウルと欲望の境界を行き来する。  
 甜美弦樂的「持續聲音」為嘻哈音樂帶來了奢華的感覺。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -197,9 +197,9 @@ Wu-Tang Clan 的“C.R.E.A.M.”中使用的原始旋律。甜美的弦樂和憂
 |年 |活動 |
 |------|---------|
 | 20 世紀 60 年代 |靈魂樂/放克錄音技術不斷發展。新興的鼓樂文化。 |
-| 1973 |庫爾·赫克 (Kool Herc) 在街區聚會上演奏了兩首《阿帕奇》。嘻哈音乐的诞生。 |
+| 1973 |库尔·赫克 (Kool Herc) 在街区聚会上演奏了两首《阿帕奇》。嘻哈音樂的誕生。 |
 | 1984 |運行-D.M.C.實現首次商業採樣命中。 |
-| 1989 |公众之敌的“对黑色星球的恐惧”建立了多种采样技术。 |
+| 1989 |公眾之敵的「對黑色星球的恐懼」建立了多種採樣技術。 |
 | 1994 |武當派，RZA的「噪音採樣」創造了新趨勢。 |
 | 2000 年代 | Daft Punk 和 Kanye West 將靈魂樂樣本轉化為流行音樂。 |
 | 2020 年代 |邁向人工智慧採樣和版權問題的新時代。 |
@@ -229,6 +229,16 @@ E --> F["2020s AI Sampling Era"]
 「同樣的聲音一次又一次地出現」是流行音樂演變的證明，也是連接過去和未來的最人性化的技術。
 
 ---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbMALMm6v7A?si=O16Tg8nyor4YfIdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 參考
 

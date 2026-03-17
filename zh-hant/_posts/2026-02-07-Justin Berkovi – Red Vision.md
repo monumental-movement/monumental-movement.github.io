@@ -28,7 +28,7 @@ B1. G&G Nights
 B2. Red Vision
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m25543899746?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25543899746?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4wi5yWrvkg?si=x3RFeuQF0oCRQT8j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

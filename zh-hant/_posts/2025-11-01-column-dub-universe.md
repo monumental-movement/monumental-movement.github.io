@@ -62,9 +62,9 @@ color: #fff;
 DJ 透過麥克風唱祝酒詞（由 MC 旁白），讓觀眾興奮不已。
 這也是後來**饒舌/嘻哈文化**的雛形。
 
-當時的錄音工程師認為這個版本不只是一個副產品；而且是一個副產品。
+当時の録音技師たちは、このVersionを単なる副産物ではなく、  
 它開始被用作**聲學測試場**。
-其中最激進的是**塔比王**。
+其中最激進的是**塔比國王**。
 
 ---
 
@@ -72,26 +72,26 @@ DJ 透過麥克風唱祝酒詞（由 MC 旁白），讓觀眾興奮不已。
 
 King Tubby（本名：Osbourne Ruddock）是一名電氣工程師。
 在他手中，混音器就像樂器一樣演奏。
-他即興創作了推子，
-混響和延遲的空間安排，
-創建了即時重建歌曲的現場配音混音。
+彼はフェーダーを即興的に操り、  
+リバーブとディレイを空間的に配置し、  
+曲を**リアルタイムで再構築するライブ・ダブ・ミックス**を創出した。
 
-> “我在歌曲中創造了一個‘空間’。那就是靈魂產生共鳴的地方。”
+> 「私は曲の中に“空間”を作る。そこに魂が響くのさ。」  
 > ——塔比王
 
 他的作品讓你在節奏的重複中感受到時間的膨脹和收縮。
 混響之間可以聽到的「沉默」是他音樂的核心。
 
 來自 Tubby 的工作室，後來的 **Prince Jammy（後來的 King Jammy）**，
-由**科學家**、**埃羅爾湯普森**等人製作。
-他們是 20 世紀 70 年代牙買加音樂的幕後人物。
+**Scientist**、**Errol Thompson**などが輩出し、  
+彼らが70年代のジャマイカ音楽の裏方を支える。
 
 ---
 
 ## 第三章：李「刮」佩里－混沌與創造的黑色方舟
 
-如果說Tubby是一個“精密實驗室”，
-**李“Scratch”佩里**的**黑方舟工作室**是一個“魔法實驗室”。
+Tubbyが「精密な実験室」なら、  
+**Lee “Scratch” Perry**の**Black Ark Studio**は「魔法の実験場」だった。  
 磁帶迴聲、水桶聲、煙霧和即興尖叫聲。
 佩里將聲音置於自然與超自然之間。
 他賦予雷鬼音樂神秘和宇宙的維度。
@@ -100,8 +100,8 @@ King Tubby（本名：Osbourne Ruddock）是一名電氣工程師。
 >  我只是聽聲音並混合它。 」
 >  ——李「刮擦」佩里
 
-他的傑作，**The Upsetters ``Super Ape'' (1976)**，是
-這是一個“聲音叢林”，低音的引力和混響的迷霧交織在一起。
+他的傑作 **The Upsetters “Super Ape” (1976)** 是
+低音の重力とリバーブの霧が交錯する“サウンドのジャングル”である。  
 1979年，黑方舟在一場大火中被毀。
 這個傳說流傳到世界各地，包括英國。
 
@@ -109,9 +109,9 @@ King Tubby（本名：Osbourne Ruddock）是一名電氣工程師。
 
 ## 第 4 章：UK Dub – Diaspora 和 Sonic Reconstruction
 
-在 20 世紀 70 年代末，來自牙買加的移民，
-多夫的想法傳播到倫敦、布里斯托和伯明翰。
-在這種情況下，由 **Adrian Sherwood** 領導的 **On-U Sound** 出現了。
+1970年代後半、ジャマイカから移住した人々によって、  
+ダブの思想はロンドン、ブリストル、バーミンガムへと伝播する。  
+その流れの中で、**Adrian Sherwood**率いる**On-U Sound**が登場。  
 他將佩里的混亂與塔比的成熟結合起來，
 他們創造了一種更工業化和抽象的“英國配音”。
 
@@ -133,7 +133,7 @@ King Tubby（本名：Osbourne Ruddock）是一名電氣工程師。
 它的後繼者包括 **Deepchord**、**Rhythm & Sound** 和 **Echospace**。
 
 在環境場中，**The Orb**、**Bill Laswell**、**Kode9**、**Burial** 等
-他繼續探索著類似配音的空間。
+他繼續探索配音空間。
 Burial 的「Untrue」 (2007)
 真稱得上是**後數位時代的孤獨配音**。
 
@@ -155,7 +155,7 @@ Burial 的「Untrue」 (2007)
 
 ---
 
-## 年表：dub 演化軌跡
+## 年表：ダブ進化の軌跡
 
 <div class="mermaid">
 
@@ -198,10 +198,20 @@ Dub 是一種方法論，而不是一種音樂流派。
 革命始於牙買加的街頭。
 今天，它仍在世界各地的俱樂部、實驗室和耳機中繼續存在。
 
-> “所有的聲音都會回到某個地方。”
-> - 配音的精神
+> 「すべての音は、どこかへ帰っていく。」
+> ——配音的精神
 
 ---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnngNYn6qkM?si=Oou8zfNHFFA9JijM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 參考唱片目錄
 
@@ -209,7 +219,7 @@ Dub 是一種方法論，而不是一種音樂流派。
 | :---------------------------- | :-------------------- | :--: | :----------------: |
 |王胖子 | *從根源開始配音* | 1974 | [亞馬遜](https://amzn.to/3XaIOL2) |
 |李「刮擦」佩里| *超級猿* | 1976 | [亞馬遜](https://amzn.to/4oFE24a) |
-|科學家| *科學家讓世界擺脫吸血鬼的邪惡詛咒* | 1981 | [亞馬遜](https://amzn.to/43775p1) |
+| Scientist                    | *Scientist Rids the World of the Evil Curse of the Vampires* | 1981 | [Amazon](https://amzn.to/43775p1) |
 |基本頻道| *BCD* ​​| 1993 | [亞馬遜](https://amzn.to/3JdkwwZ) |
 |埋葬| *不真實* | 2007 | [亞馬遜](https://amzn.to/4nCKYy6) |
 

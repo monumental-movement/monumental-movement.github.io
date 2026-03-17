@@ -13,7 +13,7 @@ title: 佩斯軍閥 – 佩斯軍閥
 ---
 
 
-Warlords Of Pez 是一支愛爾蘭搖滾樂隊，似乎來自遙遠的星系。成員包括愛爾蘭獨立流行樂團 The Chalets 的前成員 Chris Judge。
+遥か彼方の銀河宇宙からやってきた…っという設定のWarlords Of Pez はアイルランドのロックバンド。メンバーはアイリッシュインディーポップバンドThe Chalets の元メンバーChris Judgeなど。
 
 愛爾蘭搖滾/電子廠牌 Trust Me I'm A Thief 於 2006 年發行的概念專輯。
 

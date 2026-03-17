@@ -10,11 +10,11 @@ tags:
 - Tech House
 - House
 - 90s
-title: Aphrohead – 穿越黑暗的旅程
+title: Aphrohead – Journey Thru Thee Dark
 ---
 
 
-Felix Stallings，也被稱為 Aphrohead，是一位美國 DJ 和製作人。
+AphroheadことFelix Stallingsは、アメリカのDJ／プロデューサー。
 
 《Journey Thru Thee Dark》是一首 Tech House 歌曲，由英國唱片公司 Bush 於 1997 年發行。
 

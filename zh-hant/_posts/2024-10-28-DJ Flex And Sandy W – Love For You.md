@@ -16,7 +16,7 @@ title: DJ Flex 和 Sandy W – Love For You
 
 David Terzian，也稱為 DJ Flex，是一位來自巴黎的 house/tech house DJ 和製作人。 Sandy Wilhelm，也稱為 Sandy W，是一位居住在巴黎的電子/浩室 DJ 和製作人。
 
-《Love For You》是瑞典 house 廠牌 Nero Recordings 於 2005 年發行的一首 house 曲目。
+「Love For You」は、2005年にスウェーデンのハウスレーベルNero Recordingsからリリースされたハウストラック。
 
 Side A 是 Axwell 的混音作品，Axwell 是瑞典 House Mafia 成員，曾兩度入選 DJ 獎。
 B 面是瑞典黑手黨成員 Steve Angello 和 Sebastian Ingrosso 的混音版。

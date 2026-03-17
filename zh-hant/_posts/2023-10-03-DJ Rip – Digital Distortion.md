@@ -14,8 +14,8 @@ title: DJ Rip – 數位失真
 ---
 
 
-「數位失真」是
-這是 DJ Rip（真名 Xavier Jacome）的一張 EP，他是 Hard House 和 Techno 的先驅，於 1999 年在 Underground Construction 發行。
+「Digital Distortion」は、
+1999年にUnderground Constructionからリリースされたハードハウスとテクノのパイオニアである本名Xavier JacomeことDJ RipによるEPです。
 
 #### 曲目表
 ```md

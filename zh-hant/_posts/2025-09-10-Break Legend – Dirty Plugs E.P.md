@@ -15,7 +15,7 @@ title: Break Legend – 髒插頭 E.P.
 ---
 
 
-Break Legend 是義大利 DJ/製作人 Enrico Ferrari（也稱為 BSJ）的專案之一。
+Break Legendは、BSJの名でも知られるイタリアのDJ／プロデューサーEnrico Ferrari(エンリコ・フェラーリ)のプロジェクトの一つ。
 
 Progressive Breaks/Breakbeat/Breaks 於 2004 年在 Tech-Breaks 廠牌 Mantra Breaks 和義大利 House/Deep House 廠牌 Mantra Vibes 上發行。
 

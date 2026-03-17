@@ -14,7 +14,7 @@ title: V – 聞所未聞的子機器
 ---
 
 
-《Sub-Machine/聞所未聞》是
+「Sub-Machine / The Unheard」は、
 這是英國廠牌「Gift Records」於1995年發行的7吋唱片。
 
 

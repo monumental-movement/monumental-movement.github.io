@@ -15,9 +15,9 @@ title: 新秩序——物質
 ---
 
 
-New Order是一支英國搖滾樂隊，前身是最具代表性的後龐克樂團之一Joy Division。
+New Order（ニュー・オーダー）は、ポストパンクの代表的なバンドの一つJoy Division（ジョイ・ディヴィジョン）を前身とするUKロックバンド。
 
-這張磁帶是 1987 年發行的 New Order 單曲的合輯，其中包括《Ceremony》、《Blue Monday》和《Confusion》等熱門歌曲。
+このカセットは1987年にリリースされたNew Orderのシングルコンピレーションで、「Ceremony（セレモニー）」「Blue Monday（ブルーマンデー）」「Confusion（コンフュージョン）」などのヒット曲が収録されている。
 
 #### 曲目表
 ```md
