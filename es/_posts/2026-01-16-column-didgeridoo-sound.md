@@ -22,9 +22,9 @@ title: '[Columna] La música didgeridoo y la cultura indígena australiana'
 Texto: mmr｜Tema: Una historia cultural de múltiples capas de la música didgeridoo arraigada en las sociedades indígenas del norte de Australia, basada en diferencias regionales, diferencias lingüísticas y ejemplos tribales.
 
 
-El didgeridoo es un instrumento de viento tradicional que ha sido utilizado por las comunidades aborígenes de Australia, principalmente desde la costa norte hasta el interior. Generalmente, el material está hecho de un tronco de eucalipto que ha sido ahuecado por termitas, y la sensación en boca se ajusta aplicando cera de abejas en la abertura de un lado. Aunque la estructura es sumamente simple, los sonidos emitidos no se limitan a drones monofónicos, sino que tienen complejas capas acústicas que combinan armónicos, ritmo y vocalizaciones.
+El didgeridoo es un instrumento de viento tradicional que ha sido utilizado por las comunidades aborígenes de Australia, principalmente desde la costa norte hasta el interior. Generalmente, el material está hecho de un tronco de eucalipto que ha sido ahuecado por termitas y la abertura de un lado está recubierta con cera de abejas para ajustar la sensación en la boca. Aunque la estructura es sumamente simple, los sonidos emitidos no se limitan a drones monofónicos, sino que tienen complejas capas acústicas que combinan armónicos, ritmo y vocalizaciones.
 
-El nombre "didgeridoo" que es común hoy en día no se origina en lenguas indígenas, sino que fue creado por angloparlantes a principios del siglo XX como un término onomatopéyico. En las sociedades indígenas, los instrumentos musicales reciben nombres en relación con la tierra y el idioma, y ​​los diferentes nombres reflejan diferencias culturales.
+El nombre "didgeridoo" que es común hoy en día no se origina en una lengua indígena, sino que es un nombre onomatopéyico acuñado por angloparlantes a principios del siglo XX. En las sociedades indígenas, los instrumentos musicales reciben nombres en relación con la tierra y el idioma, y ​​los diferentes nombres reflejan diferencias culturales.
 
 > El didgeridoo no es un instrumento musical único, sino un conjunto de prácticas culturales que varían según la región.
 
@@ -66,7 +66,7 @@ En el oeste de Arnhem Land había muchos instrumentos relativamente cortos y gru
 
 ## Diferencias lingüísticas y diversidad de nombres.
 
-En las sociedades indígenas, los nombres de los instrumentos musicales están asociados con derechos e historias sobre la tierra. El pueblo Yolngu del este de Arnhem Land llama al didgeridoo "yidaki", un nombre que se refiere a un método y tono de producción específicos. El yidaki se utiliza sólo en ceremonias que pertenecen a la serie de canciones Yolngu.
+En las sociedades indígenas, los nombres de los instrumentos musicales están asociados con derechos e historias sobre la tierra. El pueblo Yolngu de East Arnhem Land llama al didgeridoo "yidaki", un nombre que se refiere a un método y tono de producción específicos. El yidaki se utiliza sólo en ceremonias que pertenecen a la serie de canciones Yolngu.
 
 En la región occidental, hay múltiples nombres como ``Mago'', ``Panpi'' y ``Bumbu'', y la distribución coincide aproximadamente con las fronteras del idioma. Los diferentes nombres tienen la función de distinguir claramente las personas que pueden interpretarlo, las situaciones en las que se utiliza y los roles musicales.
 
@@ -108,7 +108,7 @@ También había restricciones de edad y no se permitían actuaciones con series 
 
 La respiración circular es una técnica ampliamente compartida, pero su uso varía según la región. En el este, se enfatiza la estabilidad de los sonidos sostenidos, mientras que en el oeste, los cambios rítmicos intermitentes son prominentes.
 
-Además, existen diferencias regionales en las técnicas utilizadas para hacer voces simultáneas, como agregar un gruñido bajo o enfatizar los sonidos de la lengua. Estos no son improvisados, sino estilizados para cada serie de canciones.
+También existen diferencias regionales en las técnicas utilizadas para hacer voces simultáneas, como agregar un gruñido bajo o enfatizar los sonidos de la lengua. Estos no son improvisados, sino estilizados para cada serie de canciones.
 
 > La diferencia en la técnica no es la naturaleza de improvisación, sino la diferencia en el sistema tradicional.
 
@@ -182,7 +182,7 @@ Estas diferencias no son "malas interpretaciones", sino formas legítimas de her
 
 ## Diferenciación de roles entre canto, baile y didgeridoo.
 
-Es importante señalar que el didgeridoo no siempre es fundamental en las comparaciones tribales. En algunas regiones, el canto toma la iniciativa, mientras que en otras, el baile determina la estructura. En este contexto, el papel del didgeridoo cambia.
+Es importante señalar que el didgeridoo no siempre es fundamental en las comparaciones tribales. En algunas regiones, el canto toma la iniciativa, mientras que en otras, el baile determina la estructura. En este contexto, el didgeridoo cambia de función.
 
 En algunas zonas de East Arnhem Land, el didgeridoo funciona como un soporte estable que mantiene el tono lo más bajo posible y se adapta al ritmo de la letra. Por el contrario, en Occidente, el didgeridoo proporciona señales rítmicas y guía los movimientos de los bailarines.
 
@@ -212,7 +212,7 @@ Los patrones de sonido del didgeridoo también se tratan no como un mero acompa�
 
 ---
 
-## Relación entre arte rupestre, tradición oral y registros modernos
+## Relación entre arte rupestre, historia oral y registros modernos
 
 La investigación moderna implica hacer referencias cruzadas del arte rupestre, las tradiciones orales y las grabaciones de audio desde el siglo XX en adelante. No es posible captar el panorama completo de la cultura mirando sólo uno de ellos.
 

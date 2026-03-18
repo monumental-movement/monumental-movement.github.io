@@ -99,3 +99,14 @@ La "distribución de música derivada" y la "cultura del CD doujin" apoyaron de 
 
 Happy Hardcore surgió originalmente de la rave británica, pero se fusionó con la cultura japonesa (anime, juegos, doujins, juegos musicales) para formar una cultura "J-Core" única.
 Hoy en día, se reconoce que está asociado con "Happy Hardcore = ternura parecida al anime", y Japón se ha convertido en una base importante a nivel internacional.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLGgkxizNr4?si=StIaQMuLxvvTvUtg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

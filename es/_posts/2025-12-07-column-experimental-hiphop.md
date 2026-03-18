@@ -110,7 +110,7 @@ Estos crearon el terreno musical que condujo directamente a Shabazz Palaces y Cl
 - Cruzó jazz/música electrónica/hip-hop con ``Los Angeles'' (2008) y ``Cosmogramma'' (2010).
 - Se caracteriza por un “ritmo pulsante no lineal” y una estructura de muestreo compleja.
 
-### ● Alimentador de cerebros (2008～)
+### ● Alimentador de cerebros (2008~)
 - Sello fundado por Flying Lotus.
 - Con Teebs, Samiyam, Tokimonsta, Thundercat y más.
 - Difundir la cultura beat abstracta a escala global.
@@ -191,9 +191,9 @@ Esto dio lugar a una tendencia que se centraba en la textura.
 
 ---
 
-- Poesía/lenguaje filosófico.
+- Poesía/uso filosófico.
 - Beats cross jazz/abstracto/lo-fi.
-- Alta densidad y abstracción de palabras.
+- La densidad y abstracción de las palabras son elevadas.
 
 ---
 
@@ -272,6 +272,6 @@ flowchart TD
 El hip hop experimental/abstracto no es sólo un género derivado del hip hop, sino un proyecto intelectual que deconstruye estructuras rítmicas, narrativas, cultura de muestra y enfoques de música electrónica, y continúa hasta el día de hoy.
 
 La música electrónica de múltiples capas de Flying Lotus, la poesía rap abstracta iniciada por Shabazz Palaces, el swing no lineal de J Dilla, los experimentos de ruido de Clipping.
-Siguen funcionando hoy como un "laboratorio para el futuro del hip-hop".
+Continúan funcionando como "laboratorios para el futuro del hip-hop".
 
 ---

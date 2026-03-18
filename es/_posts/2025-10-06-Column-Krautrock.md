@@ -137,7 +137,7 @@ Las culturas punk, industrial y de muestreo que siguieron se basaron todas en lo
 
 ---
 
-## Capítulo 5: Kraftwerk - Los orígenes del tecno y la belleza inorgánica
+## Capítulo 5: Kraftwerk - Los orígenes del techno y la belleza inorgánica
 
 Dusseldorf.
 Las calles rectas y la textura fría de la ciudad industrial se convirtieron en música.
@@ -206,7 +206,7 @@ El líder **Florian Fricke** estaba profundamente devoto de la música y la filo
 Sin embargo, lo que buscaba no era la frialdad de la electrónica, sino **el misterio y el sonido interior**.
 
 ### Resonancia con Herzog
-El director de cine **Werner Herzog** se enamoró de sus sonidos espirituales y los utilizó en muchas de sus películas, incluidas "Aguirre", "Nosferatu" y "Fitzcarraldo".
+El director de cine **Werner Herzog** se enamoró de sus sonidos espirituales y los utilizó en muchas de sus películas, incluidas "Aguirre: La ira de Dios", "Nosferatu" y "Fitzcarraldo".
 La música de ``Aguirre'' (1975) sacudió la conciencia del público como una alucinación que resuena en las montañas de los Andes.
 
 > “El sonido del Popol Vu fueron las palabras de oración que el alma escuchó”.
@@ -236,7 +236,7 @@ Para Jean-Michel Jarre, Vangelis e incluso escritores tecno posteriores, se conv
 
 A finales de los años 70, la juventud alemana volvió a experimentar cambios.
 El espíritu experimental del Krautrock se manifiesta en el punk y la new wave.
-En Berlín, David Bowie y Brian Eno produjeron la "Trilogía de Berlín" y absorbieron la estética de Kraut.
+En Berlín, David Bowie y Brian Eno crearon la "Trilogía de Berlín" y absorbieron la estética de Kraut.
 
 - "Low" de Bowie (1977) es una fusión de Neu! y Clúster.
 - Joy Division y The Fall reinyectaron ritmos motorik en el rock.
@@ -310,7 +310,7 @@ flowchart TD
 | --------------- | ----------------- | ---- | ------------------------------------------------ |
 | PUEDE | *Tago Mago* | 1971 | [Amazon](https://amzn.to/4oacFPq) |
 | Kraftwerk | *Autopista* | 1974 | [Amazon](https://amzn.to/43abJlQ) |
-| ¡Nuevo! | *¡Nuevo!* | 1972 | [Amazon](https://amzn.to/434MIbJ) |
+| ¡Neu! | *¡Nuevo!* | 1972 | [Amazon](https://amzn.to/434MIbJ) |
 | Fausto | *Las cintas de Fausto* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
 | Sueño de mandarina | *Fedra* | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
 | Clúster | *Zuckerzeit* | 1974 | [Amazon](https://amzn.to/47dKp8O) |

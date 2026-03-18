@@ -21,7 +21,7 @@ title: '[Columna] El mundo del Modular Techno: Fusión de sintetizador modular y
 
 Texto: mmr｜Tema: Sobre la escena Modular Techno
 
-**Modular Techno** es un género de música electrónica que combina el diseño de sonido centrado en sintetizadores modulares con la estructura rítmica del techno. Particularmente en presentaciones en vivo, se caracteriza por la capacidad del artista para improvisar sonidos y ritmos parcheando módulos de sintetizador y operando CV/Gate en tiempo real.
+**Modular Techno**は、モジュラーシンセサイザーを中心とした音響設計と、テクノのリズム構造を融合させた電子音楽ジャンルである。特にライブパフォーマンスにおいて、アーティストがシンセモジュールのパッチングやCV/Gate操作をリアルタイムで行い、音色やリズムを即興的に構築する点が特徴である。
 
 Aunque sus orígenes como género se remontan a principios de la década de 2000, sus elementos fundamentales están profundamente arraigados en el surgimiento de los sintetizadores modulares analógicos en la década de 1970 y la formación del techno de Detroit en la década de 1980. Debido al alto grado de libertad de los sintetizadores modulares, a menudo es posible desarrollar sonidos únicos que enfaticen la textura y la extensión espacial del sonido, en lugar de simplemente reproducir pistas techno.
 
@@ -99,7 +99,7 @@ Cuando se habla del género Modular Techno, lo que es especialmente importante e
 
 Surgeon, nacido en Gran Bretaña, es conocido como uno de los primeros artistas en introducir sintetizadores modulares en la tendencia tecnoindustrial. Desde la década de 2010, sus sets en vivo se han construido alrededor de módulos Eurorack, estableciendo un estilo caracterizado por la "generación de sonido completamente improvisada" en lugar de la reproducción de pistas. Sus composiciones en vivo progresan a través de una combinación de cambios tonales a través de cambios de parches y generación de ritmo usando un secuenciador, permitiendo al público experimentar cambios físicos en el ritmo y el ruido en tiempo real.
 
-## Ø [Fase]
+## Ø [Phase]
 
 Ø [Phase], cuyo trabajo se centra en una estética sonora minimalista y estoica en el techno, utiliza activamente sintetizadores modulares tanto en estudio como en producción en vivo. Se caracteriza particularmente por su complejo enfoque de modulación de fase y la introducción de elementos similares a drones que utilizan bucles de retroalimentación, y ha sido elogiado por darle movimiento orgánico al techno minimalista.
 
@@ -209,7 +209,7 @@ Modular Techno exhibe varias características acústicas y estructurales comunes
 El techno tradicional se centra en un ritmo constante de 4/4. Por otro lado, los sintetizadores modulares suelen utilizar secuenciadores estocásticos que cambian los valores en cada paso.
 - Un charles ligeramente diferente cada vez
 - Ataque base aleatorio
-- Modulación que se desvía de la grilla rítmica.
+- Modulación que se desvía de la parrilla rítmica.
 Esto añade un elemento de "temblor".
 
 Esta inestabilidad es una gran parte del atractivo de Modular Techno, ya que le da a sus loops rítmicos mecánicos una frescura sin dejar de tener una sensación humana.
@@ -302,7 +302,7 @@ En la raíz de esto está el placer más fundamental de la música electrónica:
 
 # Lista detallada de equipos (módulos de uso frecuente de Modular Techno)
 
-A continuación se muestra una lista de categorías de equipos comúnmente utilizados por artistas reales de Modular Techno, con un enfoque en Eurorack.
+La siguiente es una recopilación de categorías de equipos que suelen utilizar los artistas reales de Modular Techno, centrándose en Eurorack.
 
 ## VCO (oscilador)
 - Hacer ruido – DPO
@@ -314,13 +314,13 @@ A continuación se muestra una lista de categorías de equipos comúnmente utili
 
 ## VCF (filtro)
 - Doepfer – Filtro Avispa A-124
-- Dispositivos XAOC – Belgrado
+- Dispositivos XAOC - Belgrado
 - Instrumentos mutables – Ondas
 - Hacer ruido – QPAS
 - Erica Sintetizadores – VCF negro
 
 ## Secuenciador
-- Haz Ruido – René
+- Make Noise – René  
 - Intellijel – Metrópolis / Metropolix
 - Dispositivos XAOC - Moscú II
 - Modular de invierno – Elocuenciador

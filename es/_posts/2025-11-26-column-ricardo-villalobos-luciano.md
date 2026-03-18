@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Trazar los caminos individuales de ambas partes, sus encuentr
 
 En un viejo club cubierto de polvo de Chile, hubo un momento en que el sonido renació. Ricardo Villalobos regresó a su Chile natal con la sensibilidad techno afinada en Berlín, Alemania, todavía aferrándose a los ritmos sudamericanos de su infancia. Esa misma noche, Luciano se encontraba explorando su música en la escena de discotecas chilena. Los dos se conocieron; no fue sólo una coincidencia, fue casi inevitable.
 
-Su música tiene el poder de ir más allá de los simples ritmos de baile y fusionar la cultura y el cuerpo, así como el tiempo y el espacio. Esta es una "historia" que quedará en la historia del club.
+Su música tiene el poder de ir más allá de los simples ritmos de baile y fusionar la cultura y el cuerpo, así como el tiempo y el espacio. Ésta es una "historia" que quedará en la historia del club.
 
 ---
 
@@ -106,7 +106,7 @@ La presentación en vivo de Sense Club en el Festival Mutek (Chile) en 2004 es c
 
 ### Gira mundial e influencia internacional.
 
-Ambos actúan en vivo por toda Europa, Sudamérica y Norteamérica. Especialmente en Berlín, Zurich, Santiago y Nueva York, las actuaciones fueron de gran formato y tuvieron un impacto revolucionario en la cultura de los clubes. El tech house y los estilos minimalistas actuales están claramente influenciados por sus esfuerzos.
+Ambos actúan en vivo por toda Europa, Sudamérica y Norteamérica. Especialmente en Berlín, Zúrich, Santiago y Nueva York, las actuaciones fueron de gran formato y tuvieron un impacto revolucionario en la cultura de los clubes. El tech house y los estilos minimalistas actuales están claramente influenciados por sus esfuerzos.
 
 ---
 

@@ -31,5 +31,5 @@ El álbum fue lanzado en 1993 en el sello del fotógrafo australiano Steve Paris
 
 [Comprar en Mercari](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCSBiw2RDk?si=VTMjeu6so1oQYkS0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

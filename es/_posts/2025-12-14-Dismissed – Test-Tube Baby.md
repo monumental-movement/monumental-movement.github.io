@@ -13,7 +13,7 @@ title: Descartado - Bebé probeta
 ---
 
 
-※Una cara
+*Una cara
 
 Torsten Knuth, también conocido como Dismissed, es un DJ/productor alemán que trabaja bajo varios nombres como DJ Schlumpf y Raúl Rincón.
 

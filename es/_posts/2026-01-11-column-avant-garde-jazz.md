@@ -19,7 +19,7 @@ title: '[Columna] Jazz de vanguardia: un movimiento que desmanteló la estructur
 
 ## Prólogo: El momento en que el jazz dio un paso hacia lo "desconocido"
 
-Texto: mmr｜Tema: Sobre la esencia del Jazz de Vanguardia, que a menudo se aleja de la corriente principal como música de solución.
+Texto: mmr｜Tema: Sobre la esencia del Jazz de Vanguardia, que muchas veces se distancia de otras como música de solución.
 
 
 A mediados del siglo XX, el jazz parecía una música madura. Había estilos distintos: swing, bebop y hard bop, y un lenguaje compartido de progresiones de acordes, tipos de compás y estructuras solistas. Sin embargo, a finales de la década de 1950, un movimiento comenzó a dudar de esta misma premisa, de manera silenciosa pero segura. ¿Es realmente necesario que la música siga la armonía y la forma? ¿Qué tan libre puede ser la improvisación? De estas preguntas nació el movimiento que más tarde se llamaría ``Avant-Garde Jazz''.
@@ -124,7 +124,7 @@ El Sun Ra Arkestra no tenía una composición fija, y el número de miembros y l
 
 En esta grabación, la tonalidad y la métrica tienen poco significado. Frases fragmentadas, sonidos parecidos a ruidos y actuaciones grupales repentinas aparecen alternativamente. Lo importante es que la música no progrese linealmente.
 
-Motivos cortos repetidos cambian el sentido del tiempo del oyente y llevan la música a una experiencia cíclica. La improvisación funciona como un ritual colectivo más que como una demostración de habilidad individual.
+Los motivos cortos repetidos cambian el sentido del tiempo del oyente y llevan la música a una experiencia cíclica. La improvisación funciona como un ritual colectivo más que como una demostración de habilidad individual.
 
 ### Pensamiento cósmico y estructura musical.
 

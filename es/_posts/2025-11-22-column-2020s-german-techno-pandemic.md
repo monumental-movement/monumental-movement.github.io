@@ -25,7 +25,7 @@ title: '[Columna] El techno alemán y la pandemia en la década de 2020: la tran
 ## Pandemia: una historia real de todo, desde el cierre hasta la reapertura y la redefinición de la música
 
 
-Texto: mmr | Tema: Cómo ha cambiado el techno alemán en la década de 2020, qué se ha perdido y qué se ha ganado
+Texto: mmr｜Tema: ¿Cómo ha cambiado el techno alemán en los años 2020, qué se ha perdido y qué se ha ganado?
 
 
 El techno alemán de la década de 2020 experimentó un dramático cambio sísmico centrado en la **pandemia de COVID-19 (2020-2022)**.
@@ -51,7 +51,7 @@ color: #fff;
 
 
 # Capítulo 1: La víspera de la pandemia (~marzo de 2020)
-## ● Berlín se había consolidado como la "capital tecno" mundial
+## ● Berlín se ha consolidado como la "capital tecno" mundial
 Antes de marzo de 2020, Berlín destacaba entre otras ciudades del mundo.
 
 - **Larga rave todos los fines de semana**
@@ -194,7 +194,7 @@ A partir de aquí la música cambia drásticamente.
 ### Funciones después del reinicio:
 - 150-170 BPM es común
 - Elementos de trance más fuertes.
-- Vuelve el tono estilo rave de los 90
+- Vuelven los tonos estilo rave de los 90
 - Se establece el híbrido industrial x transformador
 - Los “4 tiempos de alta velocidad” se han generalizado en todo el mundo.
 
@@ -308,7 +308,7 @@ El techno alemán de la década de 2020 era completamente diferente antes y desp
 - **Berlín vuelve a ser una ciudad rave internacional**
 
 La pandemia ha traído destrucción, pero también ha provocado una “redefinición de la cultura”.
-El techno alemán de finales de la década de 2020 es una cultura más diversa, internacional y más rápida que antes.
+El techno alemán de finales de la década de 2020 se ha convertido en una cultura más diversa, internacional y de ritmo más rápido que antes.
 
 Este cambio probablemente quedará registrado como la "década de 2020 = era de discontinuidad" en la historia futura de la música electrónica.
 

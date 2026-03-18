@@ -22,7 +22,7 @@ title: '[Columna] Artistas de transmisión en vivo de NTS/Boiler Room y cultura 
 
 Texto: mmr｜Tema: Cómo se han formado y expandido los sets de DJ, la música experimental y las presentaciones en vivo desconocidas en torno a las plataformas de transmisión en vivo.
 
-A principios del siglo XXI, los espacios de interpretación musical se expandieron gradualmente desde lugares físicos como clubes y salas de conciertos hasta espacios donde la música se distribuye a través de Internet. Especialmente desde la década de 2010, la transmisión de música en vivo se ha establecido como una forma independiente de interpretación, en lugar de simplemente grabar o transmitir.
+A principios del siglo XXI, los espacios de interpretación musical se expandieron gradualmente desde lugares físicos como clubes y salas de conciertos hasta espacios donde la música se distribuye a través de Internet. Especialmente desde la década de 2010, la transmisión de música en vivo se ha consolidado como una forma independiente de interpretación, en lugar de simplemente grabar o transmitir.
 
 NTS Radio y Boiler Room tienen orígenes y filosofías diferentes dentro de este flujo, pero son las que han hecho visible la cultura del streaming en vivo a nivel internacional. Lo que ambos tienen en común es el cruce de géneros, la improvisación y una actitud de distanciarse del marco existente de la industria musical.
 
@@ -56,7 +56,7 @@ Una característica de NTS es que no otorga ninguna ventaja a ningún género en
 
 Boiler Room comenzó como un proyecto para transmitir pequeños eventos de DJ en interiores en Londres. La cámara entra en el mismo espacio que el DJ, y se caracteriza por un formato que incluye la presencia del público.
 
-Este formato se diferencia de la grabación de vídeo tradicional en la que se instala una cámara detrás de la cabina del DJ y tiene una estructura en la que el público, el espacio y los intérpretes están todos en el mismo encuadre. Como resultado, la actuación de DJ se ha visualizado como una expresión que incluye "comportamiento físico y social" en lugar de un acto de "sólo sonido".
+Este formato se diferencia de la grabación de vídeo tradicional, donde se coloca una cámara detrás de la cabina del DJ, en que la audiencia, el espacio y los artistas están todos en el mismo cuadro. Como resultado, la actuación de DJ se ha visualizado como una expresión que incluye "comportamiento físico y social" en lugar de un acto de "sólo sonido".
 
 ---
 
@@ -168,7 +168,7 @@ En NTS se ha confirmado que hay muchos casos en los que material en plena produc
 
 ## Capítulo complementario 3 Ejemplo de densidad entre géneros
 
-Al observar las actividades de los artistas de transmisión en vivo, el cruce de géneros es la norma y no la excepción. En un mismo conjunto se concatenan fragmentos de música dance, noise, jazz, folk y pop.
+Al observar las actividades de los artistas de transmisión en vivo, el cruce de géneros es la norma y no la excepción. Fragmentos de música dance, noise, jazz, folk y pop se concatenan dentro de un mismo conjunto.
 
 Esto es más el resultado de condiciones de escucha cambiantes en el entorno de distribución que una vanguardia intencional. Escuchar durante largos períodos de tiempo en un entorno privado permite cambios rápidos de género.
 

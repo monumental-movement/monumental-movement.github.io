@@ -114,7 +114,7 @@ Como resultado, "Clareia" ha adquirido una nueva apariencia que combina naturalm
 
 2000 Black, de Dego y Kaidi Tatham, es conocido como uno de los sellos y proyectos más importantes del Broken Beat.
 
-La versión negra de 2000 de “Clareia” está compuesta por un ritmo roto más intenso y una línea de bajo gruesa, creando un hermoso contraste con la voz de Sabrina. Si bien hereda la "progresión fluida de acordes" que se puede llamar estilo de Azimuth, se reinterpreta con la sensación funk futurista exclusiva de 2000 Black.
+La versión negra de 2000 de “Clareia” está compuesta por un ritmo roto más intenso y una línea de bajo gruesa, creando un hermoso contraste con la voz cantante de Sabrina. Si bien hereda la "progresión fluida de acordes" que se puede llamar estilo de Azimuth, se reinterpreta con la sensación funk futurista exclusiva de 2000 Black.
 
 La sensación es exactamente
 **“Alma del futuro brasileño”**

@@ -80,7 +80,7 @@ La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron 
 
 Kevin desarrolló un enfoque del techno de club orientado al pop, y "Big Fun" y "Good Life" (1988) de Inner City se convirtieron en éxitos mundiales e historias de éxito comercial para la música de Detroit.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr-zG-IXDyo?si=4WxnonAAN-XCcRet" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr-zG-IXDyo?si=4WxnonAAN-XCcRet" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -150,7 +150,7 @@ Las siguientes son las canciones "centrales" para comprender el techno de Detroi
 
 **Equipo típico**: Roland TR-808/909 (ritmo), SH-101, serie Juno, secuenciador (duro/suave).
 
-**Método de construcción**: Agregue "movimiento" a los ritmos repetidos cambiando filtros y efectos, y diseñe espacios. Es común utilizar el ecualizador para mantener los graves intensos y los agudos claros.
+**Método de construcción**: Agregue “movimiento” a los ritmos repetidos cambiando filtros y efectos, y diseñe espacios. Es común utilizar el ecualizador para mantener los graves intensos y los agudos claros.
 
 **Masterización**: dado que está diseñado para reproducción en clubes, tenga cuidado con la caída y la fase de los graves. Aprovecha las características tanto de lo analógico como de lo digital.
 
@@ -172,10 +172,10 @@ El techno de Detroit es más que sólo música de baile; es un producto cultural
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)

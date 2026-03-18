@@ -58,7 +58,7 @@ En su adolescencia, Cindy se dedicó a las artes y probó cualquier cosa creativ
 
 La vida de Cyndi Lauper tiene un tema constante. Es una voluntad fuerte que dice: "Quiero ser yo misma". Esta voluntad se perfeccionó cuando tenía alrededor de 20 años y se movía por las concurridas calles de Nueva York.
 
-Durante este tiempo, usó combinaciones de moda únicas en tiendas de segunda mano y mercadillos. La "moda única y colorida" que se conoció más tarde nació en parte porque la gente no podía darse el lujo de comprar artículos nuevos cuando era pobre.
+Durante este tiempo, usó combinaciones de moda únicas en tiendas de segunda mano y mercadillos. La "moda única y colorida" que se vio más tarde nació en parte porque la gente no podía darse el lujo de comprar artículos nuevos cuando era pobre.
 
 Las raíces de la música son el soul, el blues, el rock y los musicales. La ciudad de Nueva York era para ella la mejor "escuela de música gratuita".
 
@@ -170,7 +170,7 @@ Mientras tanto, Cindy provoca un "incidente".
 
 La gran cantidad de accesorios que llevaba alrededor del cuello golpearon el micrófono, provocando un ruido estridente.
 
-Ingeniero: "¿Qué sonido es ese?"
+Ingeniero: "¿Qué es ese sonido?"
 Quincy Jones: "Cindy, ¿puedes... tomar eso?"
 
 Cindy se echó a reír y dijo: "¡Oh, lo siento!" mientras se quitaba los accesorios, y se dice que el ambiente se relajó instantáneamente.
@@ -183,7 +183,7 @@ Este incidente se ha transmitido como un episodio que simboliza la "capacidad de
 
 # **10. Finales de los 80 y 90: de estrella del pop a artista**
 
-Desde finales de los 80 hasta los 90, Cindy osciló entre el éxito comercial y el deseo de expresión artística.
+Desde finales de los 80 hasta los 90, Cindy se debatió entre el éxito comercial y el deseo de expresión artística.
 
 ### **Sombrero lleno de estrellas (1993)**
 
@@ -201,11 +201,11 @@ Cindy no valoraba "repetir formas exitosas" y valoraba "ser fiel a quien soy aho
 
 # **12. Challenge to Broadway: gana el premio Tony por “Kinky Boots”**
 
-En 2013, estuvo a cargo de la letra y composición del musical "Kinky Boots" y ganó el Premio Tony a la Mejor Canción Original.
+En 2013, estuvo a cargo de la letra y la composición del musical "Kinky Boots", que le valió el premio Tony a la mejor canción original.
 
 Originalmente, Cindy creció no sólo como cantante, sino también profundamente influenciada por la cultura expresiva como el cine y el teatro. Eso se hizo realidad en forma de Broadway.
 
-En este trabajo, transmite con fuerza el mensaje de que está bien vivir la vida tal como eres. Esta es también su propia filosofía de vida y ha recibido un gran apoyo de la comunidad LGBTQ.
+En este trabajo, transmite con fuerza el mensaje de que está bien vivir la vida tal como eres. También es su propia filosofía de vida y ha recibido un gran apoyo de la comunidad LGBTQ.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

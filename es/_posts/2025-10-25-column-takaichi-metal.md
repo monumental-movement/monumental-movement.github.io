@@ -22,7 +22,7 @@ title: '[Columna] El primer ministro Sanae Takaichi y el metal: voluntad de hier
 Texto: mmr｜Tema: Un político que ama el heavy metal: Sanae Takaichi. ¿Cómo ha dado su sensibilidad musical una resonancia férrea a sus palabras, políticas e ideas?
 
 
-A Sanae Takaichi se la describe a menudo como una "conservadora", "decidida" y "una mujer luchadora". Sin embargo, en la raíz se encuentra el impacto de la música heavy metal que escuchó en su juventud. El metal es una música de pasión y construcción, un arte que confina la pasión dentro del orden. La banda de su escuela tocaba canciones de Black Sabbath y Deep Purple, y también le gusta escuchar bandas como Judas Priest, y estas sensibilidades forman el "esqueleto acústico" de su lenguaje político y su perspectiva cultural.
+A Sanae Takaichi se la describe a menudo como una "conservadora", "decidida" y "una mujer luchadora". Sin embargo, en la raíz se encuentra el impacto de la música heavy metal que escuchó cuando era joven. El metal es una música de pasión y construcción, un arte que confina la pasión dentro del orden. La banda de su escuela tocaba canciones de Black Sabbath y Deep Purple, y también le gusta escuchar bandas como Judas Priest, y estas sensibilidades forman el "esqueleto acústico" de su lenguaje político y su perspectiva cultural.
 
 ---
 
@@ -58,7 +58,7 @@ Así como el metal es "un arte que convierte el caos en orden", el discurso de T
 
 ## Capítulo 2: Construyendo la voz: la política de la voz metálica
 
-Para los políticos, su "voz" es un instrumento que encarna sus ideas. La vocalización de Takaichi es particularmente baja y estable entre las mujeres políticas. Acústicamente, se basa en el rango medio-bajo (aproximadamente 170-180 Hz), con poca variación de tono, que recuerda al "control de acero" de las voces de metal.
+Para los políticos, su "voz" es un instrumento que encarna sus ideas. La vocalización de Takaichi es particularmente baja y estable entre las mujeres políticas. Acústicamente, se basa en el rango medio-bajo (aproximadamente 170-180 Hz), con poca fluctuación de tono, que recuerda al "control de acero" de las voces de metal.
 
 "La voz es el arte de hacer resonar las emociones sin dejar que se descontrolen". Como lo simbolizan estas palabras, vive la política como una "estructura de hierro".
 

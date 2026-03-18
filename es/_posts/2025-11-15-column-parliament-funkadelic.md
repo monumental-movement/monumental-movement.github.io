@@ -22,7 +22,7 @@ title: '[Columna] Parlamento / Funkadelic: La historia completa de la revolució
 Texto: mmr｜Tema: Sobre la cosmovisión del P-Funk, que todavía existe como base del hip-hop, R&B, electro, arte y moda actuales.
 
 
-En la historia de la música negra estadounidense en la segunda mitad del siglo XX, **Parliament/Funkadelic (comúnmente conocido como P-Funk)** es el grupo que combina el mayor mito y la innovación sonora.
+En la historia de la música negra estadounidense de la segunda mitad del siglo XX, **Parliament/Funkadelic (comúnmente conocido como P-Funk)** es el grupo que combina la mayor mitología y la innovación sonora.
 Dirigido por George Clinton, este colectivo era más que una simple banda, era un proyecto gigantesco que combinaba una historia multiverso, una sensibilidad tecnológica futurista y los ritmos completamente físicos del funk.
 
 P-Funk queda claro cuando lo entiendes en términos de los siguientes tres ejes.
@@ -84,7 +84,7 @@ Después de la bofetada de Larry Graham, el funk rápidamente se volvió más r�
 * **Llamado y respuesta del evangelio de la iglesia negra**
 * **Letras con fuerte crítica política**
 
-En particular, "Maggot Brain" de 1971 es recordado por el solo de guitarra de más de 10 minutos de Eddie Hazell.
+En particular, "Maggot Brain" de 1971 es famoso por el solo de guitarra de más de 10 minutos de Eddie Hazell.
 Ha sido descrito como la "encarnación musical de la tristeza y la ira negras".
 
 ---
@@ -120,7 +120,7 @@ Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "co
 ### ■ 1. “Rubbery Bass” de Bootsy Collins
 
 * Rebote de octava
-* Ura nori relajado
+* Nori relajado
 * Uso intensivo de síncopa.
 *Usando Distorsión y Auto-Wah
 
@@ -129,7 +129,7 @@ Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "co
 La forma de tocar la batería de Jerome "Bigfoot" Braley y otros tiene las siguientes características.
 
 * Bombo mínimo
-* La trampa es profunda y trasera.
+* La trampa es profunda y pegada al fondo.
 *El charles tiene un poco de confusión.
 
 Como resultado, el ritmo se siente como si avanzara mientras flota.
@@ -140,7 +140,7 @@ Como resultado, el ritmo se siente como si avanzara mientras flota.
 * Organizar varios cantantes con diferentes calidades de voz.
 * Respuesta estilo evangelio
 
-### ■ 4. El funky “sonido de instrucción” de Horn
+### ■ 4. “Sonido de indicación” de bocina funky
 
 * Acento agudo al estilo de James Brown
 *Pero tiene más juego que JB y más armonía que el unísono.
@@ -162,7 +162,7 @@ El Minimoog de Barney Worrell trajo por primera vez "sonidos electrónicos cósm
 
 ### ■ Parlamento “Conexión de la nave nodriza” (1975)
 
-* La obra central de la mitología P-Funk.
+* La obra central del mito del P-Funk
 * Éxitos globales como “Give Up the Funk” y “Mothership Connection”
 * Maximiza la teatralidad en vivo.
 
@@ -198,7 +198,7 @@ graph TD
 
 P-Funk dejó tres impactos importantes en la cultura negra.
 
-### ■ (1) Expansión de la expresión negra de ciencia ficción (afrofuturismo)
+### ■ (1) Expansión de la expresión de ciencia ficción negra (afrofuturismo)
 
 Junto con Sun Ra, P-Funk creó una base cultural para el futuro de los negros.
 
@@ -215,7 +215,7 @@ En particular, los siguientes artistas realizaron muestras extensas.
 ### ■ (3) Difundir en la moda, el arte y el pensamiento político
 
 * Cabello multicolor, traje espacial, botas gigantes.
-* Mensaje antidiscriminación a través de la mitología espacial.
+*Mensaje antidiscriminación a través de la mitología espacial.
 *George Clinton ofreció una "filosofía funk de la liberación"
 
 ---

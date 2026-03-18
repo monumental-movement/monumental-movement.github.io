@@ -51,7 +51,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-Un trabajo de una banda de punk de Italia. Una pieza poco común en la que participó en parte Billy Bragg del Reino Unido.
+Una obra de una banda de punk italiana. Una pieza poco común en la que participó en parte Billy Bragg del Reino Unido.
 
 #### Lista de canciones
 ```md

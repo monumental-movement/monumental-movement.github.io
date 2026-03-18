@@ -65,11 +65,11 @@ Casi al mismo tiempo, se introdujeron los pianos eléctricos y los primeros sint
 ## Capítulo 3: El establecimiento del Electro-Funk
 
 
-A principios de los años 80, el uso generalizado de cajas de ritmos marcó un punto de inflexión decisivo. El ritmo pasa de la ejecución a la programación, y el tempo y la repetición se vuelven completamente controlables. Esto eliminó algunas de las fluctuaciones humanas del funk y le dio una precisión mecánica.
+A principios de los años 1980, el uso generalizado de cajas de ritmos marcó un punto de inflexión decisivo. El ritmo pasa de la ejecución a la programación, y el tempo y la repetición se vuelven completamente controlables. Esto eliminó algunas de las fluctuaciones humanas del funk y le dio una precisión mecánica.
 
 Sin embargo, la mecanicidad total socava el atractivo del funk, por lo que se introduce una "pseudofísica" utilizando valores de swing y cambios de velocidad. Esta idea fue heredada del Electro-Funk al Modern Funk.
 
-Al mismo tiempo, las líneas de bajo de los sintetizadores se volvieron comunes y el rango bajo pasó a estar dominado por el diseño tonal más que por la técnica de ejecución.
+Al mismo tiempo, las líneas de bajo de los sintetizadores se volvieron comunes y el rango bajo pasó a estar dominado por el diseño tonal más que por la técnica de interpretación.
 
 ---
 

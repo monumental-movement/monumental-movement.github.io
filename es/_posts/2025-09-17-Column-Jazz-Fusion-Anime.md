@@ -44,7 +44,7 @@ color: #fff;
 "Cowboy Bebop", del director Shinichiro Watanabe, que se emitió en 1998, es una obra monumental que mostró al mundo la afinidad entre el anime y el jazz.
 La música fue compuesta por The Seatbelts, banda liderada por Yoko Kanno. Utilizando de todo, desde big band jazz hasta scat y solos de guitarra de estilo fusión, describió la historia del mundo del anime como "música misma".
 
-La canción de apertura ``Tank!'' tenía un sonido de big band que recordaba a una película de espías, pero también tenía una ``frescura adulta'' que era inusual para una canción de apertura de anime en ese momento, cautivando a los fanáticos de todo el mundo.
+La canción de apertura ``Tank!'' tenía un sonido de big band que recordaba a una película de espías, pero también tenía una ``coolness adulta'' que era inusual para un OP de anime en ese momento, cautivando a los fanáticos de todo el mundo.
 Desde este éxito, a menudo se ha hecho referencia al jazz como un símbolo de frescura y urbanidad en el anime.
 
 ---

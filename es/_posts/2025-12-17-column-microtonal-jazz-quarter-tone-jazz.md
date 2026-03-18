@@ -16,7 +16,7 @@ title: '[Columna] Jazz microtonal / Jazz de cuartos de tono'
 
 
 
-## Introducción: el jazz y la expansión de los conceptos tonales
+## Introducción: El jazz y la expansión de los conceptos tonales
 
 Texto: mmr｜Tema: Análisis de la teoría, interpretación y sistema educativo del jazz microtonal/jazz de cuartos de tono centrado en Joe Maneri y Jacob Collier
 
@@ -42,7 +42,7 @@ color: #fff;
 
 ## Capítulo 1: Microtonos y la Prehistoria del Jazz
 
-### 1-1 Posición histórica del intervalo microtonal
+### 1-1 Posición histórica de los intervalos microtonales
 
 Los intervalos microtonales existen en la música occidental desde antes del siglo XX. La diferencia de coma en el temperamento pitagórico y la entonación justa de la Edad Media y el Renacimiento incluye una diferencia de intervalo de menos de un semitono. Sin embargo, con el establecimiento del temperamento 12-igual con el fin de simplificar la notación musical y la enseñanza, estas ideas pasaron a un segundo plano teórico.
 
@@ -142,7 +142,7 @@ En el enfoque de Collier, las voces individuales pueden tener diferentes supuest
 
 ---
 
-## Capítulo 5: Uso del microtono en la improvisación
+## Capítulo 5: Operación de microtonos en la improvisación
 
 ### 5-1 Construcción de frases
 
@@ -157,7 +157,7 @@ Al subdividir el tono, también cambia el papel del ritmo. Se utilizan en combin
 Para actuaciones de improvisación que utilizan microtonalidad, es posible la evaluación acústica mediante análisis de Fourier y espectrogramas. En particular:
 
 * Distribución fina de picos en el espectro de frecuencias.
-*Cambios en la estructura de armónicos y continuidad del timbre.
+*Cambios en la estructura armónica y continuidad del timbre.
 * Evaluación de la tensión psicológica según la densidad del tono.
 
 Esto permite analizar cuantitativamente la expresión microtonal como un efecto auditivo.

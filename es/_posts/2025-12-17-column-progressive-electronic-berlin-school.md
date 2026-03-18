@@ -20,9 +20,9 @@ title: '[Columna] Electrónica Progresiva / Escuela de Berlín'
 Texto: mmr｜Tema: Electrónica progresiva y música electrónica de la Escuela de Berlín desde finales de los años 60 hasta la actualidad
 
 
-La música electrónica del siglo XX comenzó en el ámbito de la investigación académica y el arte experimental. Tras el desarrollo de los instrumentos electrónicos en las décadas de 1920 y 1930, la tecnología de cinta magnética después de la guerra y el establecimiento de música concreta y estudios de música electrónica en la década de 1950, a finales de la década de 1960 comenzó a surgir un entorno que permitió a los compositores individuales crear música electrónica fuera del estudio. En medio de este cambio, se estableció principalmente en Alemania Occidental una serie de música electrónica progresiva que más tarde se conoció colectivamente como la "Escuela de Berlín".
+La música electrónica del siglo XX comenzó en el ámbito de la investigación académica y el arte experimental. Tras el desarrollo de los instrumentos musicales electrónicos en las décadas de 1920 y 1930, la tecnología de cinta magnética después de la guerra y el establecimiento de música concreta y estudios de música electrónica en la década de 1950, a finales de la década de 1960 comenzó a surgir un entorno que permitió a los compositores individuales crear música electrónica fuera del estudio. En medio de este cambio, se estableció principalmente en Alemania Occidental una serie de música electrónica progresiva que más tarde se conoció colectivamente como la "Escuela de Berlín".
 
-La Escuela de Berlín no es un movimiento unificado ni una escuela oficial en el sentido estricto de la palabra. Es un nombre que se unificó en la investigación y crítica posterior de la historia de la música como resultado de que múltiples compositores trabajaron en un área metropolitana, entorno tecnológico e intereses musicales comunes. En su núcleo se encuentran compositores y proyectos como Tangerine Dream, Klaus Schulze y Ash Ra Tempel (más tarde Ashra).
+La Escuela de Berlín no es un movimiento unificado ni una escuela oficial en el sentido estricto de la palabra. Es un nombre que se reunió en investigaciones y críticas históricas de la música posteriores como resultado de múltiples compositores que trabajaron juntos en un área metropolitana, entorno tecnológico e intereses musicales comunes. En su núcleo se encuentran compositores y proyectos como Tangerine Dream, Klaus Schulze y Ash Ra Tempel (más tarde Ashra).
 
 ---
 
@@ -60,7 +60,7 @@ Al mismo tiempo, en Alemania Occidental estaba ganando impulso un movimiento par
 
 Tangerine Dream se formó en 1967 y sus primeros trabajos combinaban formaciones rocosas con improvisación de vanguardia. A principios de la década de 1970, comenzó a componer utilizando sintetizadores y secuenciadores.
 
-Lo que lo distingue es su estructura, que superpone cambios tonales y melodías improvisadas sobre un patrón de secuencia repetitivo. Este método creó una estructura de formato largo que musicaliza el flujo del tiempo mismo, lo que difiere de los formatos de canciones tradicionales.
+Lo que lo distingue es su estructura, que superpone cambios tonales y melodías improvisadas sobre un patrón de secuencia repetitivo. Este método creó una estructura de larga duración que musicaliza el propio flujo del tiempo, lo que difiere de los formatos de canciones tradicionales.
 
 ### Klaus Schulze
 
@@ -84,7 +84,7 @@ El elemento más distintivo de la Escuela de Berlín es el patrón de sonido rep
 
 Mientras que la música pop y rock tradicional se basa en estructuras de canciones que duran varios minutos, no es raro que una sola canción en la música de la Escuela de Berlín dure más de 20 minutos. Esta es una forma posible gracias al desarrollo de la interpretación de improvisación y la tecnología de grabación.
 
-### Diseño de tono
+### Diseño de sonido
 
 La inestabilidad y fluctuación de los sintetizadores analógicos se convirtieron en parte de la estética sonora de la Escuela de Berlín. Las pequeñas desviaciones causadas por cambios de temperatura y fluctuaciones de voltaje dan un aspecto orgánico a la repetición mecánica.
 
@@ -158,7 +158,7 @@ A partir de finales de los años 1970, los compositores de la Escuela de Berlín
 
 El método de música de cine de la Escuela de Berlín se caracteriza por su énfasis en la formación espacial en lugar de la música impulsada por la melodía. Más que ilustrar una historia, la música desempeña un papel en la construcción de un entorno físico y psicológico.
 
-Esta práctica fue heredada en la música electrónica posterior orientada al diseño sonoro y al ambiente cinematográfico.
+Esta práctica fue heredada por la música electrónica posterior orientada al diseño sonoro y ambiental cinematográfico.
 
 ---
 
@@ -168,7 +168,7 @@ Para comprender con precisión la Escuela de Berlín es necesario organizar cron
 
 ### Antes de Kraftwerk
 
-Antes de Kraftwerk, la Escuela de Berlín hacía hincapié en la improvisación y las formas largas. El ritmo es fluido y la pieza se percibe como una transición más que como una progresión. En esta etapa, la música electrónica era una forma de escapar del rock y también una liberación de la música electrónica académica.
+Antes de Kraftwerk, la Escuela de Berlín hacía hincapié en la improvisación y las formas largas. El ritmo es fluido y la pieza se percibe como una transición más que como una progresión. En esta etapa, la música electrónica era una forma de escapar del rock y de la música electrónica académica.
 
 ### Después de Kraftwerk
 

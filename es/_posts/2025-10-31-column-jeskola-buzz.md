@@ -26,7 +26,7 @@ A mediados de la década de 1990, el mundo de la producción musical electrónic
 Mientras tanto, "Jeskola Buzz" del desarrollador finlandés Oskari Tammelin apareció alrededor de 1997 (o se dice que tuvo una versión alfa antes).
 Buzz es un rastreador/secuenciador modular gratuito (distribución gratuita) para Windows que ha sido compatible con muchos usuarios. La mayor atracción era el entorno en el que "las fuentes de sonido (generadores), los efectos (máquinas) y el enrutamiento (cableado) podían ensamblarse libremente para recrear "equipos modulares" en software".
 
-Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura de complementos e incluso un retorno a la modularidad estricta.
+Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura enchufable e incluso un retorno a la modularidad estricta.
 
 ---
 
@@ -63,7 +63,7 @@ Se dice que “Jeskola” fue tomado del nombre de la escena de demostración de
 ### Por qué “modular + tracker” fue revolucionario
 
 * Convencionalmente, el método principal de los trackers era secuenciar muestras en un formato de desplazamiento vertical, y el enrutamiento de fuentes y efectos de sonido era fijo/limitado. Buzz amplió este concepto para incluir un concepto de "cable de conexión", que permite a los usuarios crear sus propios circuitos como "fuente de sonido -> filtro -> efecto -> salida".
-* Además, era liviano y sus parámetros podían manipularse en tiempo real, lo que la convertía en una plataforma popular para crear obras sonoras experimentales.
+* Además, era liviano y sus parámetros podían manipularse en tiempo real, lo que lo convertía en una base popular para crear obras sonoras experimentales.
 * El espíritu abierto de la distribución gratuita y la extensibilidad del usuario ha alentado a los creadores individuales a crear una cultura de "modificar sus propios sonidos para crearlos/compartirlos".
 
 De esta manera, Buzz jugó un papel herético e innovador en ese momento al "realizar un entorno modular en una PC".
@@ -72,7 +72,7 @@ De esta manera, Buzz jugó un papel herético e innovador en ese momento al "rea
 
 ## 3. Innovación de Buzz: secuenciador modular y cultura de complementos
 
-En este capítulo analizaremos en detalle "lo que era tecnológicamente innovador" de Buzz.
+En este capítulo, discutiremos en detalle cuáles fueron las innovaciones tecnológicas de Buzz.
 
 ### 3.1 Las fuentes y efectos de sonido se pueden manejar en unidades “máquinas”
 
@@ -92,7 +92,7 @@ Esto llevó a las siguientes tendencias:
 
 * Los desarrolladores individuales publican fuentes/efectos de sonido, y usted puede disfrutar de nuevos sonidos/procesamiento simplemente descargándolos e incorporándolos.
 * Los usuarios comenzaron a asumir el desafío de "hasta dónde podían crear circuitos" y "cuánto sonido experimental podían conseguir".
-* Las personas que crean obras experimentales que cruzan géneros musicales eligen cada vez más a Buzz como "herramienta".
+* Ha habido un aumento en el número de casos en los que las personas que crean obras experimentales que cruzan géneros musicales eligen Buzz como "herramienta".
 
 ### 3.4 Ligero, inmediato y superior como entorno experimental
 
@@ -112,7 +112,7 @@ Esto hizo que fuera común descargar la máquina de otra persona e insertarla en
 
 ### 4.2 Relación profunda con la demoscene
 
-Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir con la menor cantidad de recursos posible.
+Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir usando la menor cantidad de recursos posible.
 Por esta razón, el estilo de "crear tus propias fuentes de sonido y crear patrones" en Buzz fue apoyado por muchos creadores de demostraciones e independientes.
 
 ### 4.3 Formación de un foro/tutorial en línea
@@ -197,7 +197,7 @@ Incluso después de que el desarrollo oficial de Buzz se estancara, se ha deriva
 
 * Proyectos derivados/de imitación sin licencia (por ejemplo, clon de BuzzTrak/Buzz), entorno del módulo Tracker ejecutándose en Linux, etc.
 * Maduración de la cultura del software modular/plugin. El estilo de "los usuarios agregan extensiones y las comparten en línea" se ha vuelto común.
-* El espíritu de Buzz de “modular + improvisación” se hace referencia en el renacimiento de la modularidad del hardware (por ejemplo, Eurorack). En el artículo anterior "Dreaming Of Wires", Holden dijo que "el pensamiento de cableado que aprendió de Buzz" se convirtió en el punto de partida para su transición al modular duro.
+* El espíritu de Buzz de “modular + improvisación” se hace referencia en el resurgimiento del hardware modular (por ejemplo, Eurorack). En el artículo anterior "Dreaming Of Wires", Holden dijo que "el pensamiento de cableado que aprendió de Buzz" se convirtió en el punto de partida para su transición al modular duro.
 
 ### 6.4 Contribuir a la producción musical/educación/cultura del bricolaje
 
@@ -248,8 +248,8 @@ Dicho de otra manera, la existencia de Buzz ha roto el estereotipo de que "no pu
 A continuación se muestra una cronología de la historia y los principales eventos de Buzz.
 
 | Año | Eventos |
-| ------------ | ------------------------------------------------------------------- |
-| Alrededor de 1997 | Jeskola Buzz publicado. Presentado como un rastreador modular para Windows.                                |
+| ------------ | ------------------------------------------------------------------------- |
+| Alrededor de 1997 | Publicado Jeskola Buzz. Presentado como un rastreador modular para Windows.                                |
 | 1998 | La versión inicial activa la comunidad de usuarios. Han aparecido muchos complementos/máquinas.                                    |
 | 1999 | Uso generalizado entre escenas de demostración y música electrónica independiente.                                                 |
 | 2000 (5 de octubre) | El desarrollador perdió el código fuente y anunció la suspensión oficial del desarrollo.                                |
@@ -261,7 +261,7 @@ A continuación se muestra una cronología de la historia y los principales even
 
 ---
 
-## 10. Ilustración: ejemplo de flujo de señal de zumbido
+## 10. Ilustración: Ejemplo de flujo de señal de zumbido
 
 A continuación se muestra un diagrama de una conexión de máquina típica (flujo de señal) en Buzz.
 

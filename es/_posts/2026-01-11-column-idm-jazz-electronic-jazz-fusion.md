@@ -78,7 +78,7 @@ La improvisación no se pierde ni siquiera en un entorno electrónico. Los inté
 
 ### Integración del rendimiento y la programación del bajo
 
-Squarepusher trató la ejecución rápida del bajo eléctrico y la programación de batería extremadamente fragmentada como el mismo lenguaje musical. Si bien la línea de bajo tiene una sensación de caminar y frasear similar al jazz, el ritmo se divide en un estilo IDM.
+Squarepusher trató la ejecución rápida del bajo eléctrico y la programación de batería extremadamente fragmentada como el mismo lenguaje musical. Si bien la línea de bajo tiene una sensación de caminar y frasear similar a la del jazz, el ritmo se divide en un estilo IDM.
 
 ### Descomposición y reconstrucción del ritmo.
 

@@ -123,7 +123,7 @@ Ciani dice: "Buchla es un instrumento para respirar".
 Sónicamente, la **modulación asincrónica** de Easel crea un flujo de armónicos que parece flotar en el espacio.
 El público tiene la ilusión de que "se está tocando el aire mismo".
 
-### Análisis de forma de onda: Características de estructuras improvisadas
+### Análisis de forma de onda: características de la estructura de improvisación
 
 | Elementos | Puntos Técnicos | Impresiones auditivas |
 | --------------------------- | ------------- | ------------ |

@@ -83,7 +83,7 @@ Aunque cada canción parece ser un cuento independiente, están conectadas por u
 
 ### Todo el álbum es la historia de una noche.
 
-Good Kid, m.A.A.d City de 2012 fue la primera vez que la estructura épica de Kendrick Lamar llegó a su plenitud. Todo el álbum está estructurado como un día en Compton.
+Good Kid, m.A.A.d City de 2012 fue la primera vez que la estructura épica de Kendrick Lamar llegó a buen término. Todo el álbum está estructurado como un día en Compton.
 
 ### Dispositivo narrativo llamado sketch
 
@@ -117,9 +117,9 @@ Los poemas presentados en fragmentos a lo largo del álbum se unen al final de l
 
 ### Conversación con Tupac Shakur
 
-El diálogo con Tupac en la canción final evoca el motivo mítico de una conversación con un ser fantasmal.
+El diálogo con Tupac en el tema final evoca el motivo mítico de una conversación con un ser fantasmal.
 
-> En el punto donde el éxito individual y el sufrimiento comunitario chocan, la historia se convierte en un mito.
+> En el punto en que el éxito individual y el sufrimiento comunitario chocan, la historia se convierte en un mito.
 
 ---
 

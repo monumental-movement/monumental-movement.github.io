@@ -29,7 +29,7 @@ Desde finales del siglo XIX hasta principios del XX, Buenos Aires se formó por 
 Centradas en España e Italia, las culturas de Europa del Este, África e indígenas se mezclaban, y el trabajo, la pobreza y la soledad existían a diario.
 
 El tango creció en los "bajos" de esta ciudad.
-No se bailaba en los bailes de la alta sociedad, sino en los patios de las tabernas, pensiones y burdeles de los trabajadores portuarios.
+No se representaba en los bailes de la alta sociedad, sino en los patios de las tabernas, pensiones y burdeles de los trabajadores portuarios.
 La distancia física, la línea de visión y la improvisación eran más importantes que la sofisticación musical.
 
 > El tango es una cultura que siempre ha partido de la periferia, no del centro de la sociedad.
@@ -101,7 +101,7 @@ El tango, que alguna vez fue rechazado, comenzó a ser reinterpretado como una "
 
 ---
 
-## Siglo de Oro y Cultura Popular
+## Siglo de Oro y cultura popular
 
 
 Desde la década de 1930 hasta la de 1950, el tango entró en su "época de oro".

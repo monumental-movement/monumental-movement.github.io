@@ -78,7 +78,7 @@ Es un testimonio de la flexibilidad del género el que fuera capaz de coexistir 
 
 Desde finales de la década de 1990 hasta la década de 2000, las DAW y los samplers de software se hicieron populares y el entorno de producción cambió significativamente. El hardware, que alguna vez fue costoso, se está volviendo obsoleto gradualmente y la precisión de la edición está mejorando dramáticamente.
 
-Aun así, la cultura de muestra centrada en el Amén Blake continuó siendo heredada, procesada y reinterpretada. Los breaks, extremadamente finamente cortados, se convirtieron en el núcleo de la creación de la tensión exclusiva del drum & bass.
+Aun así, la cultura de muestra centrada en el Amén Blake continuó siendo heredada, procesada y reinterpretada. Los cortes extremadamente finos se convirtieron en el núcleo de la creación de la tensión exclusiva del drum and bass.
 
 > Los avances de la tecnología han cambiado la expresión, pero la esencia de la obsesión por el ritmo sigue siendo la misma.
 
@@ -86,7 +86,7 @@ Aun así, la cultura de muestra centrada en el Amén Blake continuó siendo here
 
 ## Disminución temporal e integración
 
-A mediados de la década de 2000, el drum'n'bass se incorporó a la música pop y a la música publicitaria, y algunos lo consideraron un consumo excesivo. Al mismo tiempo, surgieron otros géneros en la escena de los clubes y el nivel de atención disminuyó relativamente.
+A mediados de la década de 2000, el drum'n'bass se incorporó a la música pop y a la música publicitaria, y algunos lo consideraron un consumo excesivo. Al mismo tiempo, surgieron otros géneros en la escena de los clubes y el nivel de atención hacia ellos disminuyó relativamente.
 
 Sin embargo, el género en sí no desapareció durante este período y la escena underground continuó viendo lanzamientos y eventos. De hecho, en cierto modo, la falta de atención externa ha llevado a una profundización de la introversión.
 
@@ -94,7 +94,7 @@ Sin embargo, el género en sí no desapareció durante este período y la escena
 
 ---
 
-## Movimientos de reevaluación desde la década de 2010
+## Movimiento de reevaluación desde la década de 2010
 
 En la década de 2010, el jungla/drum and bass comenzó a ganar atención nuevamente. Se han reeditado grabaciones anteriores, lo que brinda a las generaciones más jóvenes más oportunidades de experimentar esta música en su contexto histórico.
 

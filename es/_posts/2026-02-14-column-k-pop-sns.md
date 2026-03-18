@@ -61,7 +61,7 @@ Desde entonces, se ha convertido en un estándar que los vídeos musicales de K-
 
 ---
 
-## El núcleo de tu estrategia de SNS: visualización del fandom
+## El núcleo de tu estrategia SNS: visualización del fandom
 
 ### Uso compartido de roles entre Twitter, Instagram y TikTok
 
@@ -69,7 +69,7 @@ Los grupos de K-POP se comunican a diario a través de sus cuentas oficiales. La
 
 *X (anteriormente Twitter): propagación en tiempo real
 * Instagram: atractivo visual
-* TikTok: difusión de vídeo breve
+* TikTok: difusión de vídeo corto
 * Weverse: Especializado en comunidad de fans
 
 Especialmente en TikTok, los desafíos de baile funcionan como un dispositivo de difusión, y cuando partes de una canción se convierten en memes, el reconocimiento se expande rápidamente.
@@ -86,7 +86,7 @@ Al comunicarse activamente en Twitter, estaban dando forma a las tendencias en e
 
 ## Cronología de la expansión del K-POP vista a través de datos
 
-### Eventos principales
+### Eventos importantes
 
 * 1996: CALIENTE. debut
 * 2009: Girls' Generation ingresa a Japón

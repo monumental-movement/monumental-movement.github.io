@@ -183,7 +183,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 - Las cintas se deterioran debido al moho en la selva tropical y la grabación puede fallar.
 
-- López asume el reto de ``dejar el equipo en el entorno natural''.
+- López asume el reto de "dejar el equipo en el entorno natural".
 
 #### Micrófono de bricolaje de Toshiya Tsunoda
 
@@ -245,6 +245,6 @@ La grabación de campo no es sólo una técnica, sino un acto de creación de un
 
 🔗 [[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Columna] Andy Goldsworthy y la música: resonancia artística en torno al tiempo y la naturaleza](https://monumental-movement.jp/Column-Andy-Goldsworthy)

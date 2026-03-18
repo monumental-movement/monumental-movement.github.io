@@ -19,7 +19,7 @@ Cygnus X es una unidad de techno alemana activa en la década de 1990. Son conoc
 
 Los remezcladores han agregado sus propios enfoques únicos a las canciones, aportando nuevas interpretaciones y sonidos. Esto nos permitió incorporar diferentes estilos musicales y perspectivas de artistas sin dejar de conservar elementos de la canción original.
 
-The Orange Theme (The Remixes) es una emocionante colección de remixes para los amantes del trance y el hard trance. La canción tiene un tempo alto y mucha energía y seguramente será un éxito en las pistas de baile de clubes y festivales.
+'The Orange Theme (The Remixes)' es una apasionante colección de remixes para los amantes del trance y el hard trance. La canción tiene un tempo alto y mucha energía y seguramente será un éxito en las pistas de baile de clubes y festivales.
 
 #### Lista de canciones
 ```md

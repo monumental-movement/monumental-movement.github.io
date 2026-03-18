@@ -72,7 +72,7 @@ El desempeño no se trata de demostrar habilidad física, sino más bien de esta
 
 Alvin Lucier es un compositor que sitúa el comportamiento físico de las ondas sonoras en el centro de sus obras. En sus obras, la manipulación intencional del compositor se mantiene al mínimo y los fenómenos acústicos se desarrollan de forma autónoma.
 
-En su obra más famosa, Estoy sentado en una habitación, al reproducir y volver a grabar repetidamente la palabra hablada en el mismo espacio, se enfatizan las frecuencias de resonancia exclusivas de la habitación y el lenguaje finalmente desaparece. Este proceso muestra claramente cómo el sonido pasa de la información al fenómeno físico.
+En su obra maestra "Estoy sentado en una habitación", el audio recitado se reproduce y se vuelve a grabar repetidamente en el mismo espacio, enfatizando las frecuencias resonantes exclusivas de la habitación, hasta que el lenguaje desaparece. Este proceso muestra claramente cómo el sonido pasa de la información al fenómeno físico.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -97,7 +97,7 @@ flowchart LR
 
 ### 4-1 Acústica arquitectónica
 
-El trabajo de Lucier se basa en gran medida en dimensiones espaciales, materiales y propiedades reflectantes. Aunque la pieza sea la misma, los resultados acústicos variarán mucho si el lugar de instalación es diferente.
+El trabajo de Lucier se basa en gran medida en dimensiones espaciales, materiales y propiedades reflectantes. Aunque la pieza sea la misma, los resultados acústicos variarán mucho si se instala en una ubicación diferente.
 
 ### 4-2 Posición del espectador
 
@@ -162,7 +162,7 @@ En el arte sonoro, escuchar no es un acto pasivo. Los espectadores se mueven, el
 
 ## Capítulo 10: Cronología (Extendido)
 
-* Década de 1930: Investigación sobre dispositivos electroacústicos.
+* Década de 1930: Investigación sobre equipos electroacústicos.
 * Década de 1950: Establecimiento de estudios de música electrónica.
 * Década de 1960: música experimental y minimalismo.
 * Década de 1970: Se afianza la instalación de sonido.

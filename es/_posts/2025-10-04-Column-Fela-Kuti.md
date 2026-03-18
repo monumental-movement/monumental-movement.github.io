@@ -19,7 +19,7 @@ Texto: mmr｜Tema: La vida y la música de Fela Kuti
 
 
 Fela Aníkúlápó Kútì (1938-1997) fue un músico, activista y fundador del Afrobeat nigeriano. Su sonido único, que combina jazz, funk, highlife y música yoruba, tuvo una inmensa influencia en las músicas mundiales de la segunda mitad del siglo XX.
-Su música no era sólo entretenimiento, sino una declaración política que denunciaba el gobierno militar y la injusticia, y un símbolo de resistencia a pesar de los numerosos arrestos y la violencia.
+Su música no era sólo entretenimiento, sino una "declaración política" que denunciaba el gobierno militar y la injusticia, y un símbolo de resistencia a pesar de los numerosos arrestos y la violencia.
 
 ---
 
@@ -51,7 +51,7 @@ La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minu
 
 ### Actividades políticas y culturales
 
-Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y el ejército (un incidente famoso es la anécdota de la "mierda cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
+Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y los militares (un incidente famoso es la anécdota de la "Mierda Cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
 
 ---
 

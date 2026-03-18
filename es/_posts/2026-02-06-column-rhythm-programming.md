@@ -55,7 +55,7 @@ El diseño de acento no requiere que todas las notas se reproduzcan con la misma
 
 ### Caso: Se corrigió un ritmo fuerte y se cambió un ritmo fuerte
 
-* Ritmo fuerte fijo: el 1.er y 3.er ritmo siempre tienen la máxima intensidad
+* Ritmo fuerte arreglado: el 1er y 3er ritmo siempre están a máxima intensidad
 *Cambio de ritmo fuerte: 1er tiempo máximo, 3er tiempo suprimido
 
 En este último, la segunda mitad se siente más ligera y el bucle da la impresión de avanzar.
@@ -162,11 +162,11 @@ El diseño basado en muestras incluye información temporal en el sonido mismo. 
 
 ### Caso: extracción de breakbeat
 
-既存ループを再配置することで、元のグルーヴを保持したまま構造を再設計できる。
+Al reorganizar los bucles existentes, puede rediseñar la estructura conservando el surco original.
 
 ### Caso: Reconstrucción completa del paso
 
-Al organizarlo desde cero, la estructura temporal refleja puramente el concepto de diseño.
+Al organizarlo desde cero, la estructura temporal refleja puramente la filosofía del diseño.
 
 > La idea del diseño rítmico cambia dependiendo de si está impulsado por el material o por la estructura.
 
@@ -176,7 +176,7 @@ Al organizarlo desde cero, la estructura temporal refleja puramente el concepto 
 
 Incluso los bucles cortos cambian de longitud de forma perceptiva.
 
-### Caso: Ofuscación de terminal
+### Caso: Ofuscación de terminación
 
 Al debilitar la última nota del bucle, ya no podrás sentir la ruptura.
 
@@ -232,7 +232,7 @@ En esta forma de pensar, el tiempo se abstrae por completo y las intenciones del
 
 Suponiendo las mismas condiciones, supongamos un ritmo básico de bombo y caja de 4/4 de 16 pasos únicamente.
 
-Con el pensamiento MPC, primero golpea de forma natural con el pad y luego ajusta la desviación y la fuerza. El producto terminado será un momento físico con ligeras fluctuaciones.
+Con el pensamiento MPC, primero golpeas naturalmente con el pad y luego ajustas la desviación y la fuerza. El producto terminado será un momento físico con ligeras fluctuaciones.
 
 En el pensamiento TR, primero coloque el bombo en los pasos 1.º, 5.º, 9.º y 13.º, y la trampa en los pasos 5.º y 13.º, y considere las omisiones y los acentos según sea necesario. El producto terminado tendrá una estructura y una disposición temporal claras.
 
@@ -289,7 +289,7 @@ B[ステップベース] --> D[設計由来の時間]
 
 Las diferencias en la programación del ritmo surgen del tipo de pensamiento del diseñador más que de diferencias técnicas.
 
-### Diseñador de rendimiento
+### Diseñador de patrones de rendimiento
 
 Es del tipo que construye ritmos a partir de sus sensaciones físicas, y las desviaciones y dinámicas surgen de forma espontánea. Va bien con el pensamiento MPC.
 

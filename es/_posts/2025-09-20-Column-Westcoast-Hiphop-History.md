@@ -52,7 +52,7 @@ color: #fff;
 | Álbum | Artista | Enlace de Amazon | Puntos recomendados |
 |----------|-------------|-------------|----------------|
 | *La rima paga* (1987) | Hielo-T | [Amazon](https://amzn.to/46NqVaQ) | Un trabajo importante que sentó las bases del gangsta rap |
-| *Directamente de Compton* (1988) | NWA | [Amazon](https://amzn.to/4neTnsc) | Una obra polémica que sacudió a la sociedad. Icono de la costa oeste |
+| *Directamente de Compton* (1988) | NWA | [Amazon](https://amzn.to/4neTnsc) | Una obra polémica que sacudió a la sociedad. Icono de la Costa Oeste |
 | *En el Nilo* (1984) | El amante egipcio | [Amazon](https://amzn.to/3VsfDCE) | Una destacada fusión de electro y rap |
 
 ---
@@ -197,6 +197,6 @@ Más que un simple género musical, el hip-hop de la región continúa influyend
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Historia del hip hop de la costa este: desde el Bronx hasta Brooklyn y el mundo"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[Columna] Descripción general del hip hop de la costa este: desde el Bronx hasta Brooklyn y el mundo"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [[Columna] Historia del hip hop de EE. UU.: panorama general que incluye regiones, clubes, medios y equipos](https://monumental-movement.jp/Column-Hiphop-History)

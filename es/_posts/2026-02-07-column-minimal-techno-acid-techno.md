@@ -80,7 +80,7 @@ En un gran club de Berlín, el bajo hace vibrar todo el edificio. El techno mini
 
 ### Coincidencia entre Chicago y TB-303
 
-Los orígenes del acid techno se encuentran en Chicago a mediados de los años 1980. El Roland TB-303 fue diseñado originalmente para practicar guitarra, pero se consideró un fracaso en el mercado. Sin embargo, este equipo, que llegó al mercado de segunda mano, creó un sonido de graves sin precedentes con su exclusiva función de resonancia y deslizamiento.
+Los orígenes del acid techno se encuentran en Chicago a mediados de los años 1980. El Roland TB-303 fue diseñado originalmente para practicar con la guitarra, pero se consideró un fracaso en el mercado. Sin embargo, este equipo, que llegó al mercado de segunda mano, creó un sonido de graves sin precedentes con su exclusiva función de resonancia y deslizamiento.
 
 ### Combinando con la cultura rave del Reino Unido
 

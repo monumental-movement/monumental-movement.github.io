@@ -27,7 +27,7 @@ Aunque el término "rock alternativo" se hizo popular a principios de los años 
 
 En la década de 1980, el rock convencional se centraba en el hard rock ruidoso del tamaño de un estadio, el AOR comercialmente pulido y el pop rock asociado con MTV. Por otro lado, en ciudades regionales y ciudades universitarias comenzó a surgir un nuevo movimiento de bandas arraigadas en el espíritu del bricolaje y no basado en el éxito comercial.
 
-En los Estados Unidos en ese momento, sellos independientes como SST Records, Twin/Tone y Touch and Go producían una variedad de estilos que no dependían del género. Se trataba de un movimiento llamado ``college rock'', una banda que heredó la velocidad y el antiautoritarismo del hardcore punk, pero tenía un espíritu experimental más libre.
+En los Estados Unidos en ese momento, sellos independientes como SST Records, Twin/Tone y Touch and Go producían una variedad de estilos que no dependían del género. Se trataba de un movimiento conocido como ``college rock'', una banda que heredó la velocidad y el antiautoritarismo del hardcore punk, pero tenía un espíritu experimental más libre.
 
 Casi al mismo tiempo, en Gran Bretaña, la escena post-punk se estaba ramificando clandestinamente de una manera complicada.
 Sellos como Factory, 4AD y Creation tenían su propia estética única, lanzando una amplia gama de bandas desde guitar pop hasta shoegaze y rock gótico.
@@ -52,16 +52,18 @@ color: #fff;
 
 ## **Capítulo 1: Del postpunk al rock universitario (1980–1987)**
 
-Murmur de 1983 de R.E.M. es particularmente importante como punto de partida para la música alternativa. Aunque se distanciaron del comercialismo, presentaron melodías influenciadas por el folk rock y letras ambiguas, y ganaron un gran número de seguidores, especialmente en las ciudades universitarias estadounidenses. El éxito de R.E.M. fue el momento que demostró que se podía crear "un nuevo tipo de rock, diferente del convencional, pero con una audiencia confiable".
+Murmur de 1983 de R.E.M. es particularmente importante como punto de partida para la música alternativa. Aunque se distanciaron del comercialismo, presentaron melodías influenciadas por el folk rock y letras ambiguas, y ganaron un gran número de seguidores, especialmente en las ciudades universitarias estadounidenses. El éxito de R.E.M. fue el momento que demostró que se podía crear "un nuevo tipo de rock que es diferente del convencional, pero que tiene una audiencia confiable".
 
 Casi al mismo tiempo, surgieron bandas como The Reemplazos, Hüsker Dü, The Feelies y Sonic Youth, que mezclaban de manera flexible ruido, melodía y experimentación. En particular, la exploración de Sonic Youth sobre la afinación de la guitarra y la estructura del ruido tuvo una gran influencia en la música alternativa posterior.
 
 En el Reino Unido, The Smiths debutó en 1984. Combinando la delicadeza del guitar pop con temas sociales, determinó los valores del indie rock posterior.
 
 La característica común de este período es que "la ideología precedió a la música".
-・Distancia del comercialismo
-・Surgiendo de ciudades locales y pueblos universitarios
+
+- distancia del comercialismo
+- Surgiendo de ciudades regionales y ciudades universitarias.
 - Captar emociones y voces que no están cubiertas por las mayores.
+
 Estos tres se convirtieron en la base de la posterior Alterna.
 
 ---
@@ -85,9 +87,11 @@ Durante este período se armó el núcleo de lo que se convertiría en "Alternat
 "Nevermind" de Nirvana alcanzó el número uno en Estados Unidos, catapultando la escena underground a la corriente principal.
 
 característica del grunge
-・Letras llenas de inestabilidad
-・Mezcla de rugido y melodía.
-・Ética punk
+
+- Letras llenas de inestabilidad.
+- Mezcla de rugido y melodía.
+- Ética punk
+
 Sin embargo, presentó un conjunto de valores diferente al del rock comercial, y se convirtió en un movimiento mundial con transmisiones masivas en MTV.
 
 Casi al mismo tiempo, bandas de Seattle como Pearl Jam, Soundgarden y Alice in Chains alcanzaron el éxito una tras otra y fueron reconocidas mundialmente como "representantes del grunge/alternativo".
@@ -198,5 +202,13 @@ Este ciclo es el símbolo de Alterna y su mayor atractivo en los últimos 40 añ
 No importa cómo cambie la música del futuro,
 “Creatividad que no se conforma con el centro existente”
 Mientras haya, seguirán naciendo alternativas.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fym6zLm8tVM?si=NBR3wdnBoKkisSD3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---

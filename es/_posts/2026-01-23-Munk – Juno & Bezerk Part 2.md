@@ -16,7 +16,7 @@ title: Munk - Juno y Bezerk Parte 2
 
 
 
-Munk es el nombre de un proyecto en solitario de Mathias Modica, director del sello alemán Gomma. Hasta 2008, Munk formó dúo con el DJ y productor alemán Jonas Imbery.
+Munk es el nombre de un proyecto en solitario de Mathias Modica, director del tradicional sello alemán Gomma. Hasta 2008, Munk formó dúo con el DJ y productor alemán Jonas Imbery.
 
 "Juno & Bezerk Part 2" es una pista abstracta/Downtempo/Trip Hop lanzada por el sello Gomma en 2000.
 

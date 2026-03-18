@@ -176,7 +176,7 @@ Actualmente, D&B reina como la base de la música bass en todo el mundo. Las esc
 
 **● Artistas contemporáneos destacados**
 
-**Noisia (disuelta)**: tecnología de producción a nivel de Dios.
+**Noisia (disuelta)**: Habilidades de producción a nivel de Dios.
 
 **Alix Pérez**: Un alquimista sonoro que puede hacer de todo, desde doblaje hasta medio paso.
 

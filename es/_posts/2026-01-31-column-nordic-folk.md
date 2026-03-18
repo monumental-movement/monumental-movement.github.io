@@ -51,7 +51,7 @@ color: #fff;
 
 Para comprender la oscuridad del pueblo nórdico, es necesario confirmar la naturaleza básica de la mitología nórdica. La mitología nórdica es uno de los pocos sistemas de mitos que sistematiza la historia desde la creación hasta el final, y el final es siempre la destrucción del mundo llamado Ragnarok.
 
-Los dioses no son inmortales, pero se enfrentan a la vejez, la traición y la muerte. Odín sacrifica sus ojos para adquirir conocimiento y Loki se convierte en un dios, pero también en un destructor, lo que conduce al fin del mundo.
+Los dioses no son inmortales, pero se enfrentan a la vejez, la traición y la muerte. Odín sacrifica sus ojos para adquirir conocimiento, y aunque Loki es un dios, se convierte en el destructor que provoca el fin del mundo.
 
 Lo importante de este sistema mitológico es que no se supone que el orden durará para siempre. Una visión del mundo que se basa en la extinción hace que las expresiones musicales reflejen más el destino que la esperanza.
 
@@ -81,7 +81,7 @@ Estas baladas a menudo proceden como una lista de hechos, sin excitación emocio
 
 No hay ninguna intención de glorificar la violencia y la muerte se describe como una extensión de la vida cotidiana más que como un incidente especial. Hay una calma y oscuridad características del pueblo escandinavo.
 
-> Hablar de la muerte no era algo inusual entre los nórdicos.
+> Hablar de la muerte no era inusual entre los nórdicos.
 
 ---
 
@@ -101,7 +101,7 @@ La propia estructura del instrumento forma un mundo sonoro que evita una resoluc
 ## Cristianización y transformación de la mitología oscura.
 
 
-Incluso después de que el mundo nórdico se hiciera cristiano, los viejos mitos y el animismo no desaparecieron por completo. Estos se reinterpretan como herejías, supersticiones y cuentos populares, y se convierten en canciones populares.
+Incluso después de que el mundo nórdico se hiciera cristiano, los viejos mitos y creencias animistas no desaparecieron por completo. Estos se reinterpretan como herejías, supersticiones y cuentos populares, y se convierten en canciones populares.
 
 Conceptos cristianos como el diablo, el infierno y el pecado se combinaron con entidades oscuras existentes para formar nuevas narrativas. Como resultado, el pueblo nórdico adquiere una doble oscuridad.
 

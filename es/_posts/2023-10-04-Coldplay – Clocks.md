@@ -15,7 +15,7 @@ title: Coldplay – Relojes
 
 Esta pista apareció originalmente en el álbum A Rush of Blood to the Head, lanzado en 2002. "Clocks" también se lanzó como sencillo principal del álbum y fue un éxito mundial.
 
-"Clocks" es una canción que presenta un riff de piano y un ritmo único, y tiene una atmósfera meditativa y un sonido magnífico.
+"Clocks" es una canción caracterizada por un riff de piano y un ritmo único, con una atmósfera meditativa y un sonido magnífico.
 
 #### Lista de canciones
 ```md

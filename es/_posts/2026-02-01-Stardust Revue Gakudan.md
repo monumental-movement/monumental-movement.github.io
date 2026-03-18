@@ -11,7 +11,7 @@ tags:
 - Jazz-Funk
 - City Pop
 - 90s
-title: Orquesta de la revista Stardust
+title: Banda de revista Stardust
 ---
 
 

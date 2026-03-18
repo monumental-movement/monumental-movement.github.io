@@ -244,7 +244,7 @@ Esta cultura de la imitación condujo a la homogeneización de los géneros y al
 
 ### Principios de la década de 2000
 
-* Difusión del entorno DAW y normalización de la producción individual.
+* La difusión del entorno DAW y la normalización de la producción individual.
 
 ### Finales de la década de 2000
 

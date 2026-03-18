@@ -18,7 +18,7 @@ Gang Starr es un dúo de hip-hop estadounidense (Guru & DJ Premier) que estuvo a
 
 Esta canción trata de transmitir un mensaje positivo y energía positiva.
 
-La combinación del estilo de rap único de Guru y los ritmos característicos de Premier le ha valido el reconocimiento como una de las obras maestras de Gang Starr y un clásico del hip-hop.
+La combinación del estilo de rap único de Guru y los ritmos distintivos de Premier le ha valido el reconocimiento como una de las obras maestras de Gang Starr y un clásico del hip-hop.
 
 #### Lista de canciones
 ```md

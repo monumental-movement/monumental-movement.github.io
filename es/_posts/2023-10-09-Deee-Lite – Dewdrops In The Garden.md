@@ -15,7 +15,7 @@ title: Deee-Lite – Gotas de rocío en el jardín
 
 Dewdrops in the Garden es el tercer y último álbum de estudio de la banda estadounidense de música dance Deee-Lite, lanzado en agosto de 1994 por Elektra Records.
 
-El álbum se alejó del contenido lírico político de su predecesor, avanzando hacia temas de danza e intimidad, con énfasis en inclinarse hacia la música psicodélica.
+El álbum se alejó del contenido lírico político de sus álbumes anteriores, avanzando hacia temas de danza e intimidad, con énfasis en inclinarse hacia la música psicodélica.
 
 #### Lista de canciones
 ```md

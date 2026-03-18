@@ -316,7 +316,7 @@ COMME des GARÇONS — Una tradición de incorporar sonidos/ruidos experimentale
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Invierno 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); Muestra lista de reproducción: [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Diseño de sonido: **BFRND** (Mostrar partitura exclusiva)/Ejemplo de uso de sonido industrial |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o); FW25 etc. (muchos) | Producción con drones/baja frecuencia. La producción de ruido inmersivo se puede confirmar en el vídeo del programa |
 | **Alejandro McQueen** | Campaña Otoño Invierno 2020 — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery y Alessandro Cortini** designados como canción de campaña (canción "At First Sight") |
-| **Louis Vuitton** | Varios discos de espectáculos y afterparty (archivos de ejemplo) — Asuntos relacionados con el DJ de Daft Punk/Virgil Abloh (múltiples) | En el pasado, **Daft Punk** proporcionó edición de canciones a LV y también usó a **Dev Hynes (Blood Orange)** para la partitura (período de Virgil Abloh) |
+| **Louis Vuitton** | Varios discos de espectáculos y afterparty (archivos de ejemplo): relaciones entre Daft Punk y DJ de Virgil Abloh, etc. (múltiples) | En el pasado, **Daft Punk** proporcionó edición de canciones a LV y también usó a **Dev Hynes (Blood Orange)** para la partitura (período de Virgil Abloh) |
 | **Dior** | Dior (varias campañas/vídeos de desfiles) | Hay muchos casos en los que están involucrados diseñadores de sonido como Frédéric Sanchez, y hay una conexión con la producción tipo ambient/dron |
 
 ---

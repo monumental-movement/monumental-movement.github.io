@@ -153,7 +153,7 @@ Se fusionan el folclore y las estructuras repetitivas, y el estilo posterior est
 ### ● *Orquesta Penguin Café* (1981)
 
 Contiene la famosa canción "Teléfono y Goma".
-Tiene un fuerte enfoque de música folclórica y ha adquirido una "calidad de baile" única.
+Tiene un fuerte enfoque de la música folclórica y ha adquirido una "calidad de baile" única.
 
 ### ● *Transmitiendo desde casa* (1984)
 
@@ -180,7 +180,7 @@ La música de PCO fue recibida de diversas formas en muchos países, a pesar de 
 ### ● Afinidad con la cultura de cafetería/salón
 
 Fue reevaluado durante el boom de la "música de café" a finales de los años 1990.
-Atrajo la atención la "música ambiental con carácter", que era ligera y fácil de escuchar, pero que no se convertía en un elemento de fondo.
+Atrajo la atención la "música ambiental con una declaración", que era ligera y fácil de escuchar, pero que no pasaba a formar parte del fondo.
 
 ### ● Uso intensivo de medios
 
@@ -194,7 +194,7 @@ La música de PCO es emotiva pero no descriptiva, por lo que se valora como "un 
 ### ● Impacto en las generaciones posteriores
 
 * Max Richter
-*Olafur Arnalds
+* Olafur Arnalds
 * Penguin Cafe (proyecto sucesor de su hijo Arthur Jeffes)
 * Artistas folk/minimalistas
 

@@ -14,7 +14,7 @@ title: Maji Na Damu – L3D (Últimos tres días)
 ---
 
 
-Maji Na Damu es una unidad femenina japonesa de techno/trance formada por JUN JUN y Ta. El productor es DJ 19 (Hiro Tanaka), quien es DJ residente en ageHa y ha producido y remezclado a artistas como Ayumi Hamasaki, Kumi Koda y Globe.
+Maji Na Damu es una unidad femenina japonesa de techno/trance formada por JUN JUN y Ta. El productor es DJ 19 (Hiro Tanaka), que trabaja como DJ residente en ageHa y ha producido y remezclado a artistas como Ayumi Hamasaki, Kumi Koda y Globe.
 
 "L3D (Last Three Days)" fue lanzado en 2000 en Out Of Tune, un sello fundado por Keitaro Takanami, ex miembro de Pizzicato Five.
 

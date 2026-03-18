@@ -26,7 +26,7 @@ Un laberinto de sonidos que despierta la curiosidad intelectual: IDM (Intelligen
 ---
 
 ## Principios de los 90: Nacimiento - El germen de la “música de baile para escuchar”
-A finales de la década de 1980, en medio de la cultura rave y la locura del techno en el Reino Unido, los sellos y artistas underground comenzaron a explorar la "música electrónica para escuchar en casa" en lugar de ser simplemente una herramienta de club.
+A finales de la década de 1980, en medio de la cultura rave y la locura del techno en el Reino Unido, los sellos y artistas underground comenzaron a explorar la música electrónica para escucharla en casa, en lugar de ser sólo una herramienta de club.
 La serie "Artificial Intelligence" publicada por Warp Records en 1992 fue un punto de inflexión decisivo y el nombre "IDM" se generalizó.
 
 - **Obra maestra representativa**
@@ -120,7 +120,7 @@ Los sintetizadores suaves como **Reaktor y FM7** se han convertido en estándar.
 | 3 | Cuadros | Celo | Símbolo de la era electrónica |
 | 4 | Trampas venecianas | Szamar Madar | La línea entre lo clásico y el IDM |
 | 5 | Amón Tobin | Verbales | Reconstrucción inteligente de la muestra |
-| 6 | Prefuso 73 | Extintor de una palabra | Un encuentro entre el hip-hop y el IDM |
+| 6 | Prefusible 73 | Extintor de una palabra | Un encuentro entre el hip-hop y el IDM |
 | 7 | Teléfono Tel Aviv | Fahrenheit bastante justo | Acústica y ritmos suaves |
 | 8 | Ulrich Schnauss | Lunes – Paracetamol | Zapato IDM |
 | 9 | Isán | Microdisco | Imagen sonora minimalista y cálida |

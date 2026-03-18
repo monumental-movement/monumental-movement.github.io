@@ -141,7 +141,7 @@ El ritmo suave tiene un nivel de perfección que parece como si hubiera sido esc
 ---
 
 #### 14. Montaña – “Largo rojo” (1972)
-El canto "¡Sabes a lo que me refiero!" Fue utilizado a menudo por Public Enemy y De La Soul durante presentaciones en vivo.
+El canto "¡Sabes a lo que me refiero!" Fue utilizado frecuentemente por Public Enemy y De La Soul durante presentaciones en vivo.
 Este es un gran ejemplo de cómo una simple canción de rock se convierte en una "parte" de hip-hop a través del muestreo vocal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -229,6 +229,16 @@ Detrás de esto está la respiración de músicos anónimos, el ruido de los equ
 "El mismo sonido regresa una y otra vez" es una prueba de la evolución de la música pop y es la tecnología más humana que conecta el pasado y el futuro.
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbMALMm6v7A?si=O16Tg8nyor4YfIdo" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ### Referencia
 

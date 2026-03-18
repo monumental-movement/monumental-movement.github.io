@@ -25,7 +25,7 @@ Texto: mmr｜Tema: Seguimiento de las presentaciones en vivo de Toots y los Mayt
 
 Kingston, Jamaica en la década de 1960. Con el ajetreo y el bullicio de una ciudad portuaria, el bullicio de los mercados y los ritmos del ska callejero por toda la ciudad, Toots and the Maytals, liderados por Toots Hibbert, se han convertido en una presencia que transforma la música misma en cultura a través de presentaciones en vivo.
 
-En las presentaciones en vivo, el público no es sólo un miembro de la audiencia, sino una parte de la actuación. Las llamadas y respuestas, las charlas improvisadas y los intercambios de danza con el público transforman eventos musicales simples en rituales culturales. ``Do the Reggay'', que nació en 1966, fue un momento simbólico, y los propios espectadores se convirtieron en promotores de la cultura reggae.
+En las actuaciones en vivo, el público no es sólo un miembro del público, sino parte de la actuación. Las llamadas y respuestas, las charlas improvisadas y los intercambios de danza con el público transforman eventos musicales simples en rituales culturales. ``Do the Reggay'', que nació en 1966, fue un momento simbólico, y los propios espectadores se convirtieron en promotores de la cultura reggae.
 
 ---
 
@@ -214,6 +214,6 @@ D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 
 ## 8. Resumen
 
-Los espectáculos en vivo de Toots and the Maytals fueron la encarnación del desarrollo del género musical, la construcción de comunidades y el intercambio cultural internacional. La interactividad con el público, la improvisación y la continuidad histórica a través de presentaciones en vivo son las razones por las que su música se ha transmitido a través de los siglos. Las presentaciones en vivo no son sólo actuaciones musicales, sino rituales culturales que encarnan el reggae en sí.
+Los espectáculos en vivo de Toots and the Maytals fueron la encarnación del desarrollo del género musical, la construcción de comunidades y el intercambio cultural internacional. La interactividad con el público, la improvisación y la continuidad histórica a través de presentaciones en vivo son las razones por las que su música se ha transmitido a través de los siglos. Las presentaciones en vivo no son sólo presentaciones musicales, sino rituales culturales que encarnan el reggae en sí.
 
 ---

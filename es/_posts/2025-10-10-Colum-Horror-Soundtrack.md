@@ -47,14 +47,14 @@ color: #fff;
 
 ---
 
-La llegada de A24 elevó el horror al contexto del cine artístico.
+La llegada de A24 elevó el terror al contexto del cine artístico.
 [“La Bruja” (2015)](https://amzn.to/48UASVp) es un símbolo de esto. La partitura de [Mark Korven](https://amzn.to/3KHRdTr) rechaza la melodía, con un zumbido orante compuesto de instrumentos de madera y microtonos que pone de los nervios al público.
 El diseño acústico que difumina la línea entre silencio y ruido fue el núcleo de la estética del A24.
 
 En lo siguiente [Hereditary/Hereditary (2018)](https://amzn.to/470xAxf), el zumbido saxofónico de [Colin Stetson](https://amzn.to/438tcv3) crea una tensión inusual.
 El sonido de la respiración, la resonancia de las cañas distorsionadas, las vibraciones de los graves profundos: estas cosas te hacen sentir físicamente la presencia de una "presencia invisible".
 
-En "Midsommar" (2019) (https://amzn.to/3WzeBFe), [The Haxan Cloak] (https://amzn.to/4mV3nFT) y [Bobby Krlic] (https://amzn.to/473kC1M) fusionan la música ritual folclórica nórdica con el ruido electrónico.
+En "Midsommar" (2019) (https://amzn.to/3WzeBFe), [The Haxan Cloak] (https://amzn.to/4mV3nFT) y [Bobby Krlic] (https://amzn.to/473kC1M) fusionan la música ritual folklórica nórdica con el ruido electrónico.
 A diferencia de las imágenes soleadas, el sonido desdibujó la línea entre celebración y locura, abriendo una nueva frontera para el horror.
 
 El sistema de sonido de terror de A24 sacude al público con "susurros" en lugar de "gritos".
@@ -87,7 +87,7 @@ El diseño del **espacio acústico negativo** brilla, ya que el momento en el qu
 ---
 
 A mediados de la década de 2010, el sonido de terror de los 80 regresó.
-En ['It Follows' (2014)] (https://amzn.to/4mSiAaF), Disasterpeace visualiza el miedo a ser perseguido con fríos arpegios basados ​​en sintetizadores.
+En ["It Follows" (2014)](https://amzn.to/4mSiAaF), Disasterpeace visualiza el miedo a ser perseguido con fríos arpegios basados ​​en sintetizadores.
 La pista se hizo popular en la cultura de clubes y sirvió como una oportunidad para reevaluar los sintetizadores retro.
 
 [``The Guest'' (2014)](https://amzn.to/3WxUjvS) es una reinterpretación moderna del suspenso electrónico de John Carpenter.

@@ -92,7 +92,7 @@ Por ejemplo, la fanfarria olímpica, la introducción de una película de Star W
 Estos sonidos sutiles evocan una respuesta emocional común a través de generaciones y fronteras.
 
 No es coincidencia que TikTok y YouTube Shorts se hayan centrado en bucles de sonido de 10 a 15 segundos desde la década de 2000.
-El algoritmo selecciona el "sonido que estimula las emociones más rápidamente" y se ha convertido en un reflejo culturalmente condicionado.
+El algoritmo selecciona el "sonido que estimula las emociones más rápidamente", lo que se ha convertido en un reflejo condicionado cultural.
 
 ---
 
@@ -127,7 +127,7 @@ El olor a lluvia, la luz de la habitación, el ritmo de los latidos de tu coraz�
 Por lo tanto, incluso si pasa el tiempo, simplemente escuchar el sonido trae de vuelta "la experiencia completa" del pasado.
 
 La música es un "medio que trasciende el tiempo".
-Y ese poder se activa no en 10 minutos o 10 horas, sino en apenas 10 segundos.
+Y ese poder se activa no en 10 minutos o 10 horas, sino en sólo 10 segundos.
 
 ---
 

@@ -68,7 +68,7 @@ En el campo de la traducción de letras, la elección entre traducción literal 
 Las traducciones literales son buenas para preservar el significado, pero a menudo pierden ritmo y emoción.
 Las traducciones paralelas preservan el sentido del oído y la emoción, pero tienden a desviarse del significado del texto original.
 
-En particular, la música popular tiene fuertes restricciones en cuanto a melodía y número de palabras, y la lógica de la traducción en prosa no se aplica.
+Especialmente en la música popular, existen fuertes restricciones en cuanto a la melodía y el número de palabras, y no se aplica la lógica de la traducción en prosa.
 La suma o resta de una sola sílaba altera toda la melodía, lo que obliga a los traductores a reducir y reconstruir el significado constantemente.
 
 En este proceso intervienen inevitablemente la propia comprensión cultural y los juicios de valor del traductor.
@@ -81,7 +81,7 @@ Las letras traducidas resultantes son un compromiso entre la canción original y
 ## Capítulo 3 Traducciones que se pueden cantar y “traducciones que no se pueden cantar”
 
 Las traducciones de letras se dividen en traducciones para lectura y traducciones para canto.
-En este último caso, la facilidad de pronunciación, la continuidad de las vocales y la posición del acento son importantes.
+En este último caso, la facilidad de pronunciación, la secuencia de las vocales y la posición del acento son importantes.
 
 El japonés tiene una estructura de sílabas simple y muchas vocales, lo que dificulta reproducir la secuencia de consonantes y la estructura de acento del inglés.
 Por lo tanto, cuando se cantan letras en inglés en japonés, el significado de las palabras a menudo se simplifica o se reorganiza la gramática.
@@ -98,7 +98,7 @@ Como resultado, las letras japonesas tienden a priorizar el sonido sobre el sign
 Después de la guerra, con la difusión de la radio y los discos, una gran cantidad de música popular occidental llegó a Japón.
 Durante este período, muchas canciones fueron introducidas en su idioma original o con traducciones sencillas.
 
-Por otro lado, hay muchos casos en los que se ha adaptado como canción popular, añadiendo nuevas letras japonesas a la melodía original.
+Por otro lado, en muchos casos se ha adaptado como canción popular, añadiendo nuevas letras japonesas a la melodía original.
 No se trata estrictamente de traducciones, sino de recreaciones culturales.
 
 La costumbre de "letras japonesas separadas de las canciones originales" que se formó durante este período tuvo una influencia duradera.

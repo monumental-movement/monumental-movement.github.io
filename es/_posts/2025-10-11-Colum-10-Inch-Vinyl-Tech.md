@@ -111,7 +111,7 @@ Este proceso es especialmente importante para los modelos de 10 pulgadas porque 
 
 ### Material de prensa y peso: 180g Detrás del mito
 
-Para los discos de 10 pulgadas, el grosor suele ser de 1,8 a 2,0 mm y el peso es de aproximadamente 120 a 150 g.
+Para los discos de 10 pulgadas, el grosor suele ser de entre 1,8 y 2,0 mm y el peso es de aproximadamente 120 a 150 g.
 Influenciados por el auge de los discos pesados ​​de 12 pulgadas y 180 g, tendemos a pensar que "más pesado significa mejor calidad de sonido", pero en realidad, la densidad y la planitud del material son más importantes.
 
 El pequeño tamaño del tablero de 10 pulgadas aumenta naturalmente la rigidez de todo el tablero, lo que hace que sea menos probable que se deforme y cause menos resonancia.

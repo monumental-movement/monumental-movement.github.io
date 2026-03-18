@@ -27,7 +27,7 @@ Texto: mmr｜Tema: Reacciones químicas del sonido y transformación cultural.
 ### Origen: Radiación subterránea en Chicago
 El acid house es un género musical que se originó en la escena de clubes underground de Chicago, EE. UU., a mediados de la década de 1980, y es un subgénero de la música house.
 
-El origen de este género nació del “mal uso accidental” de un instrumento electrónico llamado Roland TB-303 Bass Line Synthesizer. Originalmente desarrollado como reemplazo del bajo, el TB-303 fue utilizado por DJ y productores (particularmente de una unidad llamada Phuture) para manipularlo de maneras inesperadas, produciendo líneas de bajo onduladas, líquidas y psicodélicas.
+El origen de este género nació del “mal uso accidental” de un instrumento electrónico llamado Roland TB-303 Bass Line Synthesizer. Originalmente desarrollado como reemplazo del bajo, el TB-303 fue utilizado por DJ y productores (particularmente de una unidad llamada **Phuture**) de maneras inesperadas, produciendo líneas de bajo onduladas, "líquidas" y "psicodélicas".
 
 El sencillo de Phuture de 1987, "Acid Tracks", se convirtió en el prototipo de este nuevo estilo, tanto en carácter sonoro como en nombre.
 
@@ -171,9 +171,9 @@ Hoy en día, el acid house está siendo reevaluado en medio de la cultura retro 
 
 - El ácido estableció popularidad en YouTube y Bandcamp.
 
-- Lanzamiento explosivo del avión clon TB-303 (reproducción de equipo analógico)
+- Dispersión explosiva del avión clon TB-303 (reproducción de equipo analógico)
 
-Más que un simple género musical, el acid house sigue siendo el nexo entre la música electrónica y la contracultura.
+Más que un simple género musical, el acid house sigue estando en el nexo entre la música electrónica y la contracultura.
 
 
 <hora>
@@ -186,8 +186,20 @@ Acid no es una reverberación del pasado, sino un mutante sónico que continúa 
 
 ---
 
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eK5695jB6vc?si=HFqnh8aSeZRUmUPT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+
 ### Columnas relacionadas
 
 🔗 [[Columna] De Chicago al mundo: El nacimiento y evolución de la música house](https://monumental-movement.jp/Colum-Chicago-House)
 
 🔗 [[Columna] Roland TR-1000: Redefiniendo el ritmo ─ Genes analógicos y el latido del corazón de la era de la IA](https://monumental-movement.jp/Column-Roland-TR-1000)
+
+---

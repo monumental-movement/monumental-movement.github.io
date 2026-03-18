@@ -50,7 +50,7 @@ Dos niños toman una cinta de casete y una grabadora de 4 pistas y comienzan un 
 
 La existencia de “**Boognish**” que crearon es más que un simple logotipo o personaje.
 Un dios ficticio de la risa y la locura, era un símbolo de la propia música de Ween.
-Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron bendecidos por Boognish.
+Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron todos bendecidos por Boognish.
 
 > "Boognish no es una broma. Es todo lo que hacemos".
 > — *Entrevista a Dean Ween, 2003*
@@ -167,7 +167,7 @@ Era más un ritual que una banda.
 Sin embargo, detrás de escena, hubo conflictos entre el alcohol, las drogas, el cansancio y la amistad.
 En 2008, Gene Ween dejó la banda por motivos personales.
 Superó su dependencia del alcohol y comenzó un camino tranquilo hacia la recuperación.
-Dean formó **The Dean Ween Group** y conectó las almas de Ween de otra manera.
+Dean formó **The Dean Ween Group** y conectó el espíritu de Ween de otra manera.
 
 ---
 
@@ -238,7 +238,7 @@ flowchart TD
 | 1997 | [El Molusco](https://amzn.to/48VBtpT) | Un hito en el psico-pop |
 | 2000 | [Pimienta blanca] (https://amzn.to/4o6RI7P) | “Ween como los Beatles” |
 | 2003 | [Québec](https://amzn.to/4gZ8SlA) | Fusión de introspección y experimentación |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final de la vida |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final |
 
 ---
 

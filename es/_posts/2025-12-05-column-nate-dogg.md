@@ -57,7 +57,7 @@ Los tres tenían experiencia cantando en la iglesia, y Nate Dogg en particular t
 Esta base del canto gospel tuvo una influencia decisiva en su estilo posterior.
 Aunque su voz era lineal con poco vibrato, tenía una resonancia profunda y un sentido del ritmo que estaba naturalmente arraigado en su cuerpo.
 
-### Unirse a la Infantería de Marina
+### Unirse a los marines
 
 Después de graduarse de la escuela secundaria, Nate Dogg **se alistó en el Cuerpo de Marines de EE. UU.** y fue dado de baja después de servir durante unos tres años.
 Esta experiencia cambió las circunstancias de su vida, pero también fue un período que esencialmente lo obligó a regresar a Long Beach y a la música.
@@ -71,7 +71,7 @@ Eso es **213 (dos uno tres)**.
 El nombre se deriva del código de área de Long Beach, 213, y marca claramente su identidad local.
 
 Las cintas locales de la época ya mostraban que la voz de Nate Dogg destacaba entre los raperos que lo rodeaban.
-Su voz tenía aire de calle y al cantar la melodía le daba a toda la canción una agradable sensación de flotación.
+Su voz tenía una vibra callejera y al cantar la melodía, le dio a toda la canción una agradable sensación de flotación.
 Este estilo se convertiría más tarde en el núcleo de la cultura de actuación de los invitados.
 
 ---
@@ -163,7 +163,7 @@ Canciones participantes representativas:
 - “Códigos de Área” (Ludacris, 2001)
 - “21 preguntas” (50 Cent, 2003)
 - “Nadie lo hace mejor”
-- "Tengo amor"
+-“Tengo amor”
 
 En particular, “21 Preguntas” alcanzó el número uno en Estados Unidos.
 Aunque es un dulce sonido R&B, es importante que la voz de Nate Dogg no pierda la tensión de la calle.
@@ -174,7 +174,7 @@ Aunque es un dulce sonido R&B, es importante que la voz de Nate Dogg no pierda l
 
 ## 8. 213 “El camino difícil”: El fruto de la amistad
 
-213, formado por Snoop, Warren y Nate, lanzaron su álbum de estudio oficial, The Hard Way, en 2004.
+213, el trío formado por Snoop, Warren y Nate, lanzó su álbum de estudio oficial, The Hard Way, en 2004.
 El álbum alcanzó el número uno en Billboard y fue la culminación de la larga amistad y carreras de los tres.
 
 ---

@@ -50,7 +50,7 @@ color: #fff;
 
 ### 1-1. Sensación acústica después del post-punk
 
-A finales de los años 1970 y principios de los 1980, el postpunk deconstruyó las estructuras del rock y centró su atención en el timbre, la textura y el tratamiento espacial.
+A finales de los años 1970 y principios de los 1980, el postpunk deconstruyó la estructura del rock y centró su atención en el timbre, la textura y el tratamiento espacial.
 Los sintetizadores, la reverberación y el retardo ya no son meros adornos, sino que funcionan como elementos que dan forma a la estructura de la propia canción.
 
 En este proceso, la voz cantante pasó de ser el cuerpo principal que contaba la historia a convertirse simplemente en una parte del sonido.
@@ -262,11 +262,11 @@ Este es un intento de garantizar un anonimato visual similar al de la música.
 ### E-1. Sucesión hasta finales de la década de 1990 y más allá
 
 Incluso después de que el shoegaze y el dream pop perdieran temporalmente la atención comercial, sus técnicas continuaron clandestinamente.
-El énfasis en las imágenes sonoras está siendo reinterpretado en el rock alternativo, el post-rock y el pop ambiental.
+El énfasis en las imágenes sonoras está siendo reinterpretado en el rock alternativo, el post-rock y el ambient pop.
 
 ---
 
-### E-2. Conexión con el entorno de producción después del indie
+###E-2. Conexión con el entorno de producción después del indie
 
 Con la difusión de los entornos de grabación domésticos, a las personas les ha sido posible crear una acústica de múltiples capas.
 Esto extendió las capas tipo shoegaze y el procesamiento espacial del dream-pop a un entorno de producción más pequeño.

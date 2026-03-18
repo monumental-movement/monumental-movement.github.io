@@ -22,7 +22,7 @@ Texto: mmr | Tema: Autechre de Sean Booth y Rob Brown. Seguimiento de la evoluci
 Autechre es más que un simple dúo de música electrónica.
 Su sonido es a la vez matemático y crudo. Parece frío y deja una aspereza un tanto humana. Sean Booth y Rob Brown, dos jóvenes que se conocieron en el norte de Manchester, emprendieron un camino para redefinir la estructura misma del sonido, utilizando el hip-hop y la curiosidad por la ingeniería como puntos de partida.
 
-A principios de la década de 1990, Autechre se destacó entre las series de Inteligencia Artificial de Warp Records. Estaban buscando una manera de "convertir sonidos mecánicos en emoción". Sean Booth dijo más tarde en una entrevista:
+A principios de la década de 1990, Autechre se destacó en la serie Inteligencia Artificial de Warp Records. Estaban buscando una manera de "convertir sonidos mecánicos en emoción". Sean Booth dijo más tarde en una entrevista:
 
 > “Para nosotros el techno no se trata de eliminar la emoción, sino de expresarla a través de una estructura”.
 
@@ -223,10 +223,10 @@ El viaje para encontrar la respuesta está lejos de terminar.
 
 🔗 [[Columna] Desde los orígenes del IDM hasta la actualidad - Entre la exploración intelectual y la pista de baile](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)

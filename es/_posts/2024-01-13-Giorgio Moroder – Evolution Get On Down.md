@@ -22,9 +22,9 @@ Actualmente reside en Houston, Texas, Estados Unidos.
 
 Florian Holzinger, también conocido como Woodbay, es un productor musical y diseñador de sonido especializado en electrónica, house y funk.
 
-Giorgio Moroder（本名: ジョヴァンニ・ジョルジオ・モロダー [Giovanni Giorgio Moroder]）は、1940年4月26日にイタリアのボルツァーノ自治県オルティセイに生まれました。
+Giorgio Moroder (nombre real: Giovanni Giorgio Moroder) nació el 26 de abril de 1940 en Ortisei, Bolzano, Italia.
 
-Él ha sido aclamado como una de las figuras más innovadoras e influyentes de la música electrónica y disco.
+Músico de Italia que es compositor, arreglista, productor, intérprete y DJ. Ha sido aclamado como una de las figuras más innovadoras e influyentes de la música electrónica y disco.
 
 Fundando el sello Oasis y Musicland Studios, creó el sonido Munich (a menudo confundido con el Italo disco posterior) en la década de 1970, produciendo trabajos icónicos con Donna Summer y Roberta Kelly.
 

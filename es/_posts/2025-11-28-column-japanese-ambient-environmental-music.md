@@ -160,7 +160,7 @@ Una obra maestra electrónica pero idílica.
 
 ## ● Funciones musicales
 - Sonidos electrónicos suaves.
-- Sonido temático en torno a la "visión del mundo de los niños"
+- Sonido temático en torno a la "cosmovisión de los niños"
 - Énfasis en la textura suave del sintetizador.
 
 ---
@@ -192,7 +192,7 @@ Hiroshi Yoshimura e Inoyama Land también participaron en el diseño acústico d
 
 Las instalaciones comerciales en Tokio en la década de 1980 se centraban en el diseño musical,
 “Acústica que mejora la calidad de vida”
-se planteó como tema.
+Se planteó como tema.
 
 En este contexto, la música ambiental fue más allá de la mera música de fondo y se convirtió en un elemento que moldeaba la impresión del espacio.
 

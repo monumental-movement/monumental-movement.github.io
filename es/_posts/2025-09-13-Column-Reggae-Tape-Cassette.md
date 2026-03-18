@@ -47,7 +47,7 @@ color: #fff;
 El reggae se estableció alrededor de 1968 después del ska y el rocksteady. Se popularizaron letras con ritmos más pesados, énfasis en el bajo y mensajes. También fue durante este período que artistas como Bob Marley, Peter Tosh y Burning Spear se hicieron conocidos internacionalmente.
 
 - **Rol del sistema de sonido**
-En Jamaica, era difícil poseer tocadiscos y estéreos costosos, por lo que enormes sistemas de sonido, o grupos de parlantes instalados en las esquinas de las calles, se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
+En Jamaica, era difícil poseer tocadiscos y equipos de música costosos, por lo que enormes parlantes (sistemas de sonido) instalados en las esquinas de las calles se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
 
 - **La llegada de los casetes**
 Los casetes compactos, introducidos a principios de la década de 1970 bajo el estándar Philips, pronto llegaron a Jamaica. Aunque todavía estaba en sus primeras etapas de popularidad, los fanáticos del reggae y los DJ locales comenzaron a prestar atención al potencial de este pequeño medio.
@@ -110,7 +110,7 @@ Una lista de grabaciones famosas que simbolizan la cultura del casete de reggae.
 
 ## Artistas representativos del reggae por época
 
-Los sonidos de artistas representativos estrechamente relacionados con la cultura del casete están organizados por época.
+Organiza por década los sonidos de artistas representativos estrechamente relacionados con la cultura del casete.
 
 | Época | Artistas/sonidos representativos | Características |
 |------|----------------------|------|

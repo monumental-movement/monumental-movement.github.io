@@ -54,7 +54,7 @@ El DEP apareció en el noreste de Estados Unidos a finales de los años 1990, en
 
 ---
 
-## La innovación del plan de escape Dillinger
+## Innovación del Plan de Escape Dillinger
 
 DEP se formó en 1997. Su EP debut *Under the Running Board* (1998) y su innovador álbum debut *Calculating Infinity* (1999) le valieron una aclamación instantánea.
 

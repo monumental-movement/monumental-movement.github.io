@@ -63,7 +63,7 @@ Se introdujo el primer casete compacto para grabación monoaural.
 
 #### Década de 1980: El surgimiento de la alta posición (Tipo II) y el metal (Tipo IV)
 
-- Mejoras en el material de la cinta destinadas a mejorar la calidad del sonido.
+- Mejora del material de la cinta para mejorar la calidad del sonido.
 
 - Características de agudos mejoradas y rango dinámico ampliado
 
@@ -221,7 +221,7 @@ La cinta de casete es un formato conveniente y analógico, que ocupa una posici�
 
 Con la mejora de los materiales y el desarrollo de la tecnología de grabación, la calidad del sonido también ha evolucionado, y cada tipo tiene características acústicas diferentes.
 
-Aunque no es tan bueno como el digital en términos de banda de frecuencia y relación S/N, sigue siendo apreciado por su tono cálido y su facilidad de uso.
+Aunque no es tan bueno como el digital en términos de banda de frecuencia y relación S/N, sigue siendo apreciado por su tono cálido y su facilidad de operación.
 
 <hora>
 

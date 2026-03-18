@@ -50,7 +50,7 @@ color: #fff;
 En 2001, Holden llamó la atención con la canción "A Break in the Clouds" lanzada en Silver Planet.
 Su sonido rompió el molde del house progresivo de la época. Melancólico pero arquitectónico. Las melodías flotantes convirtieron las noches de discoteca en una experiencia poética.
 
-A partir de esta canción, crea un espacio sonoro que no es ni trance ni house.
+A partir de esta canción, crea un sonido que no es ni trance ni house.
 Este flujo cristalizó posteriormente en la forma de Comunidad Fronteriza.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

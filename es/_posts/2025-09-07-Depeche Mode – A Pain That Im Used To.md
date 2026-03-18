@@ -16,7 +16,7 @@ title: 'Depeche Mode: un dolor al que estoy acostumbrado'
 
 Corte sencillo del undécimo álbum de Depeche Mode, "Playing the Angel". El productor es Ben Hillier.
 
-El remix es de Bitstream (Dave Conner & Steve Conner), un dúo de hermanos del Reino Unido que han estado lanzando sonidos IDM/techno/electro desde finales de los 90 en sellos como Warp Records y Elektrix Records.
+El remix estuvo a cargo de Bitstream (Dave Conner y Steve Conner), un dúo hermano del Reino Unido que ha estado lanzando sonidos IDM/techno/electro desde finales de los 90 en sellos como Warp Records y Elektrix Records.
 
 IDM/Electro fue lanzado por el sello británico Mute en 2005.
 

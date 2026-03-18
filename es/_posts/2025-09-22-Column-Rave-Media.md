@@ -83,7 +83,7 @@ Rave no era una fuente sonora ni una partitura, sino un fenómeno en sí mismo. 
 
 Desde la década de 2000, han comenzado los siguientes intentos en todo el mundo.
 
-**MixesDB, Discogs**: recopilación de información de setlists y fuentes de sonido menores.
+**MixesDB, Discogs**: recopilación de información de setlists y fuentes de sonido menores
 
 **YouTube/SoundCloud**: sube mixtapes antiguos y grabaciones pirateadas
 
@@ -157,7 +157,7 @@ Sin embargo, la acumulación de recuerdos, fragmentos, reinterpretaciones y “p
 
 🔗 [[Columna] Acid House: Reacciones químicas del sonido y transformación cultural](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Columna] Historia del Psy-Trance, obras maestras y 10 temas recomendados](https://monumental-movement.jp/Column-Psy-Trance)
+🔗 [[Columna] Historia del Psy-Trance (trance psicodélico), obras maestras y 10 temas recomendados](https://monumental-movement.jp/Column-Psy-Trance)
 
 🔗 [[Columna] Recuerdos de velocidad donde la D inicial y la música se cruzan](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 

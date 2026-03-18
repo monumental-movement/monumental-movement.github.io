@@ -34,5 +34,5 @@ B2. Inside The Grooves (DJ Denise's Boogie Down Remix)
 
 [Comprar en Mercari](https://jp.mercari.com/item/m36234005752?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5FiD4dwAe84?si=M1E3nB_pKzpPl3w3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -140,7 +140,7 @@ flowchart TB
 
 ## 4. Década de 2010 y más allá: internacionalización y fusión de géneros
 
-- Fusión creciente con Trap, Grime y Afrobeat
+- Fusión creciente con Trap, Grime y Afrobeat.
 - Surgimiento de una nueva generación de raperos a través de SNS y YouTube.
 - Expansión a los mercados internacionales, especialmente creciente popularidad en el África francófona.
 

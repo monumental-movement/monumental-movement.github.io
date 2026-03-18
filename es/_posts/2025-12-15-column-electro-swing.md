@@ -18,7 +18,7 @@ title: '[Columna] Electro swing'
 
 ## Sobre el estilo musical Electro Swing
 
-Texto: mmr｜Tema: Sobre la herencia histórica del swing jazz y su reconstrucción utilizando la gramática de la música electrónica de baile.
+Texto: mmr｜Tema: Reconstrucción utilizando la herencia histórica del swing jazz y la gramática de la música electrónica de baile.
 
 Electro Swing es un estilo musical que combina elementos del swing jazz, big band y gypsy jazz de las décadas de 1920 a 1940 con las técnicas de producción de la música electrónica de baile de la década de 2000 en adelante. Combina elementos históricos como riffs de trompeta, clarinete y violín, y voces scat con samplers, secuenciadores, loops y ritmos con mucho bajo.
 
@@ -172,7 +172,7 @@ Este método es consistente con la cultura del sampleo posterior al hip-hop, per
 
 ## 16. Técnicas de producción y procesamiento de sonido.
 
-En el lado de la producción, la extracción de muestras y la extensión del tiempo, la cuantificación de tiempos y el diseño de graves juegan papeles importantes. El rebote del swing no se reproduce completamente, sino que se absorbe en el cuatro contra cuatro o breakbeat directo.
+En el lado de la producción, el corte de muestras y la extensión del tiempo, la cuantificación de tiempos y el diseño de graves juegan papeles importantes. El rebote del swing no se reproduce completamente, sino que se absorbe en el cuatro contra cuatro o breakbeat directo.
 
 Como resultado, Electro Swing tiene una estructura que no es natural para el jazz, pero que responde muy bien a la música dance. Este diseño de compromiso es el núcleo técnico de la creación del género.
 

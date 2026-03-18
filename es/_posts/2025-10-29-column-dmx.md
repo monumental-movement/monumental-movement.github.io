@@ -257,7 +257,7 @@ D -->|静寂| F[祈りの独白]
 
 ## Capítulo final: Oración de ladridos
 
-La música de DMX no es un "testimonio de las calles" sino un "disco del alma".
+La música de DMX no es un "testimonio callejero" sino un "disco del alma".
 Ese grito es la verdad misma de personas que vivieron sus vidas aferrándose a su fe sin ceder a la violencia.
 
 > “Si eres real, lo sentirás”. -DMX

@@ -26,7 +26,7 @@ Nadie sabía que este lugar, que era sólo un centro turístico para turistas, m
 La figura central es **Daniele Baldelli**.
 No es sólo un DJ, sino que se ha hecho conocido como un "arquitecto que reconstruye la velocidad del sonido y el espacio".
 
-La escena disco de la época estaba dominada por el ritmo 4/4, representado por el soul y la música house estadounidenses.
+La escena disco de la época estaba dominada por los ritmos 4/4, representados por el soul americano y la música house.
 Sin embargo, Baldelli entrelaza música étnica, sonidos electrónicos, rock progresivo, tambores africanos e incluso krautrock.
 **Presentamos el concepto de "tempo cósmico"**, que te permite cambiar libremente los BPM.
 

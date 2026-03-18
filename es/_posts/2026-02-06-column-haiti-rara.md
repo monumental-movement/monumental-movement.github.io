@@ -49,7 +49,7 @@ color: #fff;
 
 El origen de lala está estrechamente ligado a las capas profundas de la sociedad haitiana que se formó entre los siglos XVIII y XIX. En Saint-Domingue, durante el período colonial francés, personas traídas de diversas partes de África mantuvieron sus propios rituales religiosos y su cultura musical. Aunque estas tradiciones fueron suprimidas bajo el control de las plantaciones, fueron heredadas en fragmentos a través de reuniones y festivales nocturnos.
 
-Después de la independencia en 1804, el catolicismo y las religiones africanas se mezclaron en Haití y se sistematizaron como vudú. Rara se estableció en esta mezcla religiosa como un ritual procesional al aire libre, especialmente durante la Cuaresma. Se ha señalado que la forma de marcha refleja recuerdos de desplazamientos forzados durante el período colonial y experiencias de levantamientos armados durante el período revolucionario.
+Después de la independencia en 1804, el catolicismo y las religiones africanas se mezclaron en Haití y se sistematizaron como vudú. Rara se estableció en esta mezcla religiosa como un ritual procesional al aire libre, especialmente durante la Cuaresma. Se ha señalado que la forma de marcha refleja la memoria del desplazamiento forzado durante el período colonial y la experiencia de levantamientos armados durante el período revolucionario.
 
 La procesión de Rara no era simplemente una celebración, sino que tenía el claro propósito de ofrecer a los espíritus, llamar a los espíritus de los antepasados ​​y afirmar la unidad de la comunidad. La música se desarrolló como parte integral de la marcha y se caracterizó por un ritmo continuo sin detenerse.
 
@@ -101,7 +101,7 @@ Bajo la dictadura, las marchas de Rara a veces estaban sujetas a vigilancia, per
 
 Incluso dentro de Haití, el estilo de rara varía mucho según la región. En las zonas urbanas, las formaciones tienden a hacerse más grandes y más ruidosas. Por otro lado, en las zonas rurales existe un fuerte ritual religioso y las relaciones entre los participantes son estrechas.
 
-Rara también se hereda en las comunidades de inmigrantes, y las marchas celebradas en el extranjero funcionan como un lugar para la confirmación de la identidad. La forma cambia según el entorno y el sistema legal, pero el núcleo de la combinación de caminata y música sigue siendo el mismo.
+Rara también se hereda en las comunidades de inmigrantes, y las marchas celebradas en el extranjero funcionan como un lugar para la confirmación de la identidad. La forma cambia según el entorno y el sistema legal, pero el núcleo de la combinación de caminar y música sigue siendo el mismo.
 
 > Rara no es un estilo único, sino un conjunto de culturas que cambian de forma según la situación.
 

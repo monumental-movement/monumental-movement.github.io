@@ -61,7 +61,7 @@ El periodismo y los artículos de no ficción han explorado esta naturaleza dual
 Mientras la comuna estaba en funcionamiento, hay registros de que hubo disputas que son típicas de las operaciones de una secta, como "abandono de bienes personales", "separación de familiares" y "permiso para casarse con miembros jóvenes".
 
 
-El 25 de agosto de 1975, murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se dice que se estrelló y murió aproximadamente 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
+El 25 de agosto de 1975 murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se estrelló y murió unas 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
 
 
 Posteriormente los miembros de la congregación se dispersaron, pero ésta ha sido revalorizada a través de archivos sonoros y folclore. En particular, la caja de 13 discos God and Hair (Yahowha Collection), lanzada por el sello japonés Captain Trip en 1998, cubrió completamente las fuentes de sonido de Yahowha13/Source Family y se convirtió en una oportunidad para el resurgimiento de la leyenda.
@@ -89,7 +89,7 @@ También hubo un período en el que estuvieron activos en bandas con diferentes 
 - **Octavius**: "La perspectiva y la respiración del padre Yod determinaron la dirección de la improvisación."
 - **Reminiscencias de la familia Source**: La grabación era un ritual diario y la música era una comunión con Dios.
 
-De esta manera, las letras y actuaciones de Yahowha 13 se centraron en las "ondas" y el "mantra" en lugar del "significado".
+De esta manera, las letras y actuaciones de Yahowha 13 se centraron en "ondas" y "mantra" en lugar de "significado".
 
 ---
 
@@ -128,7 +128,7 @@ Durante este período, exploraba la fusión de experimentos acústicos y sesione
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetración: una sinfonía de Acuario (1974), Voy a llevarte a casa (1974), A los principios para los niños (1975), La opereta (inédita en 1975 → publicada más tarde), etc.
 
 
-Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía riffs de guitarra distorsionados, frases repetidas y poesía y canto fragmentados.
+Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía una mezcla de riffs de guitarra distorsionados, frases repetitivas y poesía y canto fragmentados.
 
 
 En particular, se dice que Penetration: An Aquarian Symphony es el trabajo más popular y reevaluado en la historia de la banda, y ha sido reeditado muchas veces.
@@ -238,7 +238,7 @@ Se argumenta que su orientación hacia la improvisación, la espacialidad y la t
 
 En campos como la cultura comunal, los movimientos de culto y la investigación musical externa, la existencia de Yahowha13/Source Family se ha convertido en un ejemplo típico y tema de investigación.
 
-Por otro lado, también incluye temas controvertidos como la crítica ética e histórica sobre los méritos y deméritos de creyentes y músicos, la fragmentación de discos, y anécdotas y leyendas cuya autenticidad se desconoce.
+Por otro lado, también incluye un enfoque polémico que incluye críticas éticas e históricas sobre los méritos y deméritos de creyentes y músicos, la fragmentación de discos, y anécdotas y leyendas cuya autenticidad se desconoce.
 
 ---
 
@@ -277,7 +277,7 @@ Punto: El núcleo de la autograbación. Mientras grababa en Garage, la banda com
 
 [Penetración: Una sinfonía de Acuario (1974)] (https://amzn.to/4hdcYa5)
 
-Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos que quienes lo escuchen por primera vez comiencen aquí.
+Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos comenzar aquí para quienes lo escuchan por primera vez.
 
 
 ---
@@ -310,7 +310,7 @@ Hecho: Muchas pistas se centran en cánticos, líneas fragmentadas y declaracion
 
 Motivo principal:
 
-Repetición de "Ya Ho Wha / Ya Ho Wa / YHWH (similitud consonántica)" - Nombre divino/rol sagrado.
+Repetición de “Ya Ho Wha / Ya Ho Wa / YHWH (similitud consonántica)” - nombre divino/rol sagrado.
 
 
 Referencias al arquetipo “viaje/purificación/elementos (fuego/agua/aire/tierra)”, un símbolo que también aparece en los títulos del álbum/canción.
@@ -319,7 +319,7 @@ Referencias al arquetipo “viaje/purificación/elementos (fuego/agua/aire/tierr
 Frases doctrinales/rituales (palabras indicadas por nombres de temas redactados como “hombre el mesías”): palabras improvisadas y superpuestas como la declaración de un líder.
 
 
-Cómo analizar: En lugar de simplemente leer las letras como ``letra = transmisión de significado'', es más útil leerlas de la siguiente manera: ``(1) El sonido en sí es un ritual / (2) Las palabras son desencadenantes sugerentes y poéticos que generan una experiencia comunitaria en el acto''. En otras palabras, la guía religiosa participativa a través del “sonido/repetición” es el núcleo del álbum.
+Cómo analizar: En lugar de simplemente leer las letras como ``letra = transmisión de significado'', es más útil leerlas de la siguiente manera: ``(1) Los sonidos en sí mismos son rituales / (2) Las palabras son desencadenantes sugerentes y poéticos que generan una experiencia comunitaria inmediata''. En otras palabras, la guía religiosa participativa a través del “sonido/repetición” es el núcleo del álbum.
 
 ---
 
@@ -452,7 +452,7 @@ El sonido "Ya Ho Wha" en sí mismo es un mantra sagrado de la Familia Fuente, un
 
 #### 🇩🇪 Alemania
 
-**Reevaluado en un contexto krautrock**: Amon Düül II y los fans de Can descubren Yahowha 13 como una "mermelada ácida".
+**Reevaluado en un contexto krautrock**: Amon Düül II y la base de fans de Can descubrieron Yahowha 13 como una "mermelada ácida".
 
 **Reediciones extensas**: Desde 1998 se han realizado numerosas reediciones a través de Captain Trip (en realidad un sello japonés) y distribuidores alemanes.
 

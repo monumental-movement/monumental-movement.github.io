@@ -52,7 +52,7 @@ color: #fff;
 | *Música Discreta* | Brian Eno | 1975 | Experimento de bucle de cinta |
 
 **Equipo principal**
--Moog Modular
+-MoogModular
 -EMS Synthi AKS
 - Cinta Revox A77
 
@@ -179,6 +179,16 @@ La historia de la música post-rock/ambiental ha planteado una serie de desafío
 El futuro se actualizará aún más con una "arquitectura de sonido inmersivo" que conecta la IA generativa y las sensaciones físicas.
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7Xm2CreH5E?si=KfTgIYSIaieLzpji" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ### Columnas relacionadas
 

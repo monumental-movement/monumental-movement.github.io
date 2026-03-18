@@ -79,7 +79,7 @@ King Tubby, Lee Perry, Errol Thompson y otros utilizaron la mesa de mezclas como
 
 ### ▪ Filosofía de graves del altavoz
 
-El "bajo" del sistema de sonido tenía un tono religioso.
+El "bajo" del sistema de sonido tenía un sonido religioso.
 Conectados con el espíritu rastafari, expresan su visión del universo como "tono bajo = tierra" y "tono agudo = cielo".
 Esta idea fue heredada más tarde por el **UK dub** (Jah Shaka, Aba Shanti-I) y la **soundclash culture**.
 
@@ -90,7 +90,7 @@ Esta idea fue heredada más tarde por el **UK dub** (Jah Shaka, Aba Shanti-I) y 
 ### ▪ Flacidez y explosión de jerga
 
 En 1985, **`Under Mi Sleng Teng''** de Wayne Smith cambió todo.
-Se dice que esta canción, que utilizó los ajustes preestablecidos de ritmo de Casio MT-40, es el primer reggae completamente digital de la historia y, a partir de entonces, el "dancehall digital" se convirtió en algo común.
+Se dice que esta canción, que utiliza los ajustes preestablecidos de ritmo del Casio MT-40, es el primer reggae completamente digital de la historia y, a partir de entonces, el "dancehall digital" se convirtió en algo común.
 
 | Año | Canción representativa | Artista | Notas |
 |----|--------|---------------|------|
@@ -100,7 +100,7 @@ Se dice que esta canción, que utilizó los ajustes preestablecidos de ritmo de 
 
 ### ▪ MC (Deejay) toma protagonismo
 
-La cultura del brindis se acercó al DJ rap e influyó en el nacimiento del hip-hop.
+La cultura del brindis se acercó al rap de DJ e influyó en el nacimiento del hip-hop.
 Es una historia bien conocida que el jamaicano Kool Herc trajo un sistema de sonido al Bronx de Nueva York e inició la cultura breakbeat.
 
 ---
@@ -156,7 +156,7 @@ Principales jugadores japoneses:
 ### ▪ Espíritu DIY y herencia moderna
 
 En los últimos años, se ha cruzado con el dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** están activos actualmente.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** y otros están actualmente activos.
 La raíz de esto es la filosofía del sistema de sonido de "producir nuestros propios sonidos con nuestras propias manos".
 
 ---
@@ -211,7 +211,7 @@ La música es una "memoria corporal" que se comparte a través de fronteras.
 
 ---
 
-## Tabla de potencia del sistema de sonido doméstico en Japón
+## Potencia del sistema de sonido doméstico en Japón
 
 <div class="mermaid">
 

@@ -206,7 +206,7 @@ flowchart TD
 
 ### ■ Mulatu Astatke
 
-Fundador de Ethio-Jazz. Sus obras representativas fueron publicadas a finales de los años 1960 y 1970.
+Fundador de Ethio-Jazz. Sus obras representativas se publicaron a finales de los años sesenta y setenta.
 Es reconocido internacionalmente como vibrafonista y compositor/arreglista, y en los últimos años ha estado involucrado en investigaciones musicales en la Universidad de Harvard y otras instituciones.
 
 ### ■ Mahmoud Ahmed

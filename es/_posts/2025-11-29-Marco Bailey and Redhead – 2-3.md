@@ -14,7 +14,7 @@ title: Marco Bailey y pelirroja – 2 3
 ---
 
 
-Un tema de Techno lanzado en 2000 en el sello Invasion por Marco Bailey y Redhead (Steve Vangilbergen), un dúo de DJ de primer nivel en el mundo del techno belga.
+Un tema de techno lanzado por Marco Bailey y Redhead (Steve Vangilbergen), un dúo de DJ de primer nivel en el mundo del techno belga, en el sello Invasion en 2000.
 
 #### Lista de canciones
 ```md

@@ -28,7 +28,7 @@ title: '[Columna] Dungeon Synth ─ Una estética ambiental underground que se a
 Texto: mmr｜Tema: Sobre la historia, técnicas de producción y posición cultural de Dungeon Synth, un género ambiental underground derivado del black metal.
 
 Dungeon Synth es un género musical que expresa la espiritualidad del black metal y la cosmovisión fantástica/medieval a través de sonidos de sintetizador minimalistas.
-Sus orígenes se pueden encontrar en la escena de la música extrema europea de principios de la década de 1990, pero desde finales de la década de 2010, con la expansión de la cultura Bandcamp, la segunda y tercera generación se expandieron rápidamente y ahora se ha convertido en una enorme red de bricolaje.
+Sus orígenes se remontan a la escena musical extrema europea de principios de la década de 1990, pero la segunda y tercera generación se han expandido rápidamente desde finales de la década de 2010 con la expansión de la cultura Bandcamp, y ahora se ha convertido en una gigantesca red de bricolaje.
 
 ---
 
@@ -61,7 +61,7 @@ Dungeon Synth tiene las siguientes características.
 - Producción personal/lanzamiento individual/enfoque en Bandcamp
 - **Énfasis en la “presentación del escenario” más que en la actuación**
 
-Como resultado, la música a menudo se describe como "una banda sonora sin película", "música ambiental para un juego de rol de mesa" o "un teclado que resuena en un castillo solitario".
+Como resultado, la música a menudo se describe como "una banda sonora sin película", "música ambiental para un juego de rol de mesa" o "teclados que resuenan en un castillo solitario".
 
 ---
 
@@ -78,7 +78,7 @@ Ex miembro del Emperador. Estableció un estilo de fantasía medieval "Dark Dung
 - **Primeras piezas para teclado de Burzum (Noruega)**
 La canción final de ``Hvis Lyset Tar Oss'' y las pistas ambientales de ``Filosofem'' dejaron un fuerte simbolismo para el posterior Dungeon Synth.
 
-Aunque estas son fuentes de sonido anteriores al término "Dungeon Synth como nombre de género", las generaciones posteriores las tratan claramente como la fuente.
+Aunque estas son fuentes de sonido anteriores a "Dungeon Synth como nombre de género", las generaciones posteriores las tratan claramente como la fuente.
 
 ### ● 2-2. Primera ola (1995-2000)
 De 1995 a 2000, un joven proyecto europeo que precedió a Mortiis "Era I", Cernunnos Woods, Depressed Silence y Old Tower publicó obras distribuidas principalmente en cinta.
@@ -101,7 +101,7 @@ Durante este período, en paralelo con el Black Metal atmosférico, aumentaron e
 El período más importante cuando el género creció rápidamente.
 
 - **Torre Vieja (Países Bajos)**
-Con su estilo majestuoso y en capas, juega un papel central en el Dungeon Synth moderno.
+Con su majestuoso estilo en capas, juega un papel central en el Dungeon Synth moderno.
 - **Thangorodrim (Portugal)**
 Representando la sensación de baja fidelidad temprana y la cosmovisión de fantasía clásica.
 - **Feudo (EE.UU.)**
@@ -147,7 +147,7 @@ A continuación, resumiremos las fuentes de sonido, el funcionamiento MIDI y los
 ## ● 4-1. Fuente de sonido utilizada (complemento de sintetizador)
 
 ### ■ Fuente de sonido PCM clásica
-Muchos artistas buscaron la sensación de las videoconsolas y los teclados PCM de los años 90.
+Muchos artistas buscaron la sensación de las consolas de juegos y los teclados PCM de los años 90.
 
 - **Serie Roland JV/XP (real o de muestreo)**
 - **Serie Yamaha PSR** (teclado doméstico económico)
@@ -203,7 +203,7 @@ Agregar una rugosidad de aproximadamente 8 a 12 bits mejorará la sensación de 
 De hecho, muchos artistas graban sus canciones en casetes.
 
 ### ■ Procesamiento de ecualización
-- **Eliminar bajos (por debajo de 100 Hz)** → Hacia textura monoaural/equipo antiguo
+- **Eliminar graves (por debajo de 100 Hz)** → Hacia una sensación monoaural/de equipo antiguo
 - **Elimina las frecuencias altas (por encima de 6-8kHz)** → Elimina el olor digital
 
 ### ■ Reverberación
@@ -268,7 +268,7 @@ La influencia visual es extremadamente grande y juega un papel para complementar
 
 ## ● Segunda ola (2010-2015)
 - **Murgrind**
-- **Erang** (produce muchas obras con la fantasía medieval como tema)
+- **Erang** (produce muchas obras con fantasía medieval como tema)
 - **Torre del Castillo Secuestrado**
 
 ## ● Tercera ola (2016-2023)
@@ -277,7 +277,7 @@ La influencia visual es extremadamente grande y juega un papel para complementar
 - **Feudo (EE.UU.)**
 
 ## ● Hoy en día (2024–)
-- Importante multinacionalización y fragmentación.
+- Importante multinacionalización y segmentación.
 Se han incrementado temas como Bosque / Invierno / Heroico / Sinte cósmico.
 
 ---
@@ -315,7 +315,7 @@ A continuación se muestra un plan para crear una canción.
 
 # ■ 9. Importancia cultural de Dungeon Synth
 
-Dungeon Synth es un tipo poco común de música que combina la intensa visión del mundo del black metal con la tranquilidad de la música ambiental, y es una cultura que aspira a "construir un mundo interior".
+Dungeon Synth es un tipo raro de música que combina la intensa visión del mundo del black metal con la tranquilidad del ambiente, y es una cultura que aspira a "construir un mundo interior".
 
 - Los creadores individuales tejen sus propias historias sin depender de escenas a gran escala.
 - Fuertemente ligado a la estética de la literatura fantástica, los TRPG y la música de juegos.

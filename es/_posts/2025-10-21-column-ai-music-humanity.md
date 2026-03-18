@@ -53,7 +53,7 @@ En el año 2025, estos disolverán las fronteras entre profesionales y aficionad
 
 #### La IA “emite sonidos”, los humanos “eligen significados”
 
-Por ejemplo, el artista de electrónica Arca trata el sonido de la IA como un material y lo combina con su propia voz real. Lo que ella hace es "un diseño de contexto que pregunta por qué deberíamos elegir una entre las innumerables posibilidades creadas por la IA".
+Por ejemplo, el artista de electrónica Arca utiliza el sonido de la IA como material y lo combina con su propia voz real. Lo que ella hace es "un diseño de contexto que pregunta por qué deberíamos elegir una entre las innumerables posibilidades creadas por la IA".
 De manera similar, James Blake del Reino Unido creó un álbum [``Playing Robots Into Heaven'' (2024)] (https://amzn.to/3L1hE6D) con el tema de la ``fragilidad humana'' y al mismo tiempo trató a la IA como una ``coautora''.
 
 Lo que estos ejemplos muestran es que la IA se está volviendo menos un "creador de sonido" y más un "espejo que resalta lo que la gente elige".
@@ -129,7 +129,7 @@ La característica del 2025 es la coexistencia de quietud (Mínimo) y densidad (
 #### “Club tranquilo” y “electrónica introspectiva”
 
 La popularidad de los "ritmos lentos" como el Afro House y el Amapiano simboliza una era en la que el baile también puede ser "introspección".
-Los sets de 100 a 110 BPM se están convirtiendo en la norma en los clubes de Berlín y Seúl, creando un espacio donde puedes "pensar mientras bailas".
+En clubes de Berlín y Seúl, las sesiones de 100 a 110 BPM se están convirtiendo en la norma, creando un espacio donde puedes "pensar mientras bailas".
 En Japón, los festivales gastronómicos también conocidos como foodman y yahyel están explorando la "música tranquila de club".
 
 #### Por el contrario, también hay un movimiento para dominar la “densidad”
@@ -171,7 +171,7 @@ La música siempre ha sido un medio que conecta personas, tiempo y recuerdos.
 
 Lo que necesitamos ahora es...
 
-- No se trata de quién hace el sonido, sino de por qué se hace el sonido.
+- No se trata de quién hace el sonido, sino de por qué se hace.
 
 - No se trata de qué género es, sino de qué tipo de momento crea.
 

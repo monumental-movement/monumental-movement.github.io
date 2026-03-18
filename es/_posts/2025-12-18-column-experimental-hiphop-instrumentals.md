@@ -104,7 +104,7 @@ Knxwledge se basa en un DAW y presenta bucles extremadamente cortos y edición a
 *Formación de surcos mediante colocación manual.
 * Salida sin optimización de la presión sonora.
 
-> "Un sentimiento de incompletud no es una carencia, sino una forma completa."
+> "Un sentimiento de incompletitud no es una carencia, sino una forma completa."
 
 <div class="mermaid">
 flowchart LR
@@ -169,3 +169,10 @@ Experimental Hip Hop Instrumentals es una forma musical que valora el acto de pr
 
 ---
 
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dp25yxhOF4?si=zqT3OPROYPeS4qrR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

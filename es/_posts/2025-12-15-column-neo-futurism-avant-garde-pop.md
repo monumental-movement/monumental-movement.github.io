@@ -61,7 +61,7 @@ Desde la década de 2000, los entornos de producción que utilizan DAW y computa
 * Diseño de tono futurista y no orgánico.
 * Visuales que reconstruyen la representación corporal.
 * Convivencia de estructura pop (ganchos, repetición) y experimentación.
-* Una visión del mundo que hace de la tecnología el tema
+* Una visión del mundo que se centra en la tecnología.
 
 ---
 
@@ -73,7 +73,7 @@ En el pop neofuturista, los sintetizadores y los tonos procesados ​​digitalm
 
 ### 3-2. Ritmo y estructura
 
-Los ritmos no están necesariamente orientados a la pista de baile y, a menudo, son fragmentados y asimétricos. Por otro lado, los estribillos y los motivos están claramente establecidos y conservan su memorabilidad como música pop.
+Los ritmos no están necesariamente orientados a la pista de baile y, a menudo, son fragmentados y asimétricos. Por otro lado, los estribillos y los motivos están claramente establecidos y conservan su memorabilidad como canciones pop.
 
 ### 3-3. Procesamiento vocal
 

@@ -25,7 +25,7 @@ Texto: mmr｜Tema: El chill-out y la estética del ritmo profundo
 ### ¿Qué es el downtempo?
 "Downtempo", como su nombre indica, es un tipo de música electrónica con un tempo lento. Generalmente, el BPM (tempo) oscila entre 60 y 110 y se caracteriza por ritmos y sonidos relajantes destinados a escuchar y relajarse, en lugar de ritmos intensos de discoteca.
 
-Entre los latidos palpitantes y el ajetreo, aparece un silencio repentino. Si se trata de música, el downtempo es ese momento de respiración profunda. En el mundo de la cultura de discoteca y la música electrónica, este género musical se encuentra en el extremo opuesto del espectro de ritmos rápidos como el techno y el house, pero es un género musical que se acerca a las emociones del oyente y se integra en la noche de la ciudad. Eso es ritmo lento.
+Entre los latidos palpitantes y el ajetreo, aparece un silencio repentino. Si se trata de música, el downtempo es ese momento de respiración profunda. En el mundo de la cultura de discoteca y la música electrónica, se trata de un género musical que se sitúa en el extremo opuesto del espectro de los ritmos rápidos del techno y el house, pero que se acerca a las emociones del oyente y se integra en la noche de la ciudad. Eso es ritmo lento.
 
 Downtempo se crea a través de la intersección de múltiples géneros, incluida la sensación flotante del ambient, los ritmos del hip-hop y los elementos orgánicos del jazz y el soul.
 Aunque a menudo se superpone con estilos como el chillout, el trip hop y la música lounge, también se utiliza como término general para un ritmo suave que abarca estos estilos.
@@ -34,7 +34,7 @@ Aunque a menudo se superpone con estilos como el chillout, el trip hop y la mús
 <hora>
 
 ### Revolución Chill Out de los 90
-Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del ruido fuerte del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
+Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del fuerte ruido del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
 
 
 <hora>
@@ -95,7 +95,7 @@ En la era del streaming de la década de 2020, el downtempo se está reevaluando
 
 **Si bien está ganando atención nuevamente en el contexto de ``relajación'', ``relajación'' y ``concentración''**, hay muchas listas de reproducción en Spotify y YouTube llamadas ``Lo-Fi'', ``Chillhop'' y ``Study Beats'', que resultan familiares para los oyentes como downtempo en un sentido amplio.
 
-Además, los límites entre la música ambiental y la música ambiental se han vuelto borrosos, y la música continúa evolucionando hacia una música que está más estrechamente alineada con los estados psicológicos individuales y las escenas de la vida.
+Además, los límites entre la música ambiental y la música ambiental se han vuelto borrosos, y la música continúa evolucionando hacia una música que está más estrechamente alineada con el estado psicológico y la escena de la vida de un individuo.
 
 Artistas como Bonobo, Tycho, Khruangbin y los japoneses Pictured Resort y Cuushe son actores importantes del Downtempo moderno.
 

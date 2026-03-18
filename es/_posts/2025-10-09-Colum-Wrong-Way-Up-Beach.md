@@ -75,7 +75,7 @@ Por ejemplo, "Spinning Away" es una mezcla perfecta de sentimientos flotantes y 
 > Con mi lápiz convirtiendo momentos en líneas…”
 
 La melodía es como un "esbozo de memoria".
-Este álbum fue un precursor del "pop ambiental" de Eno a partir de la década de 1990, y fue heredado por los sonidos de Coldplay y Moby.
+Este álbum fue un precursor del movimiento "pop ambiental" de Eno a partir de la década de 1990, y fue heredado por los sonidos de Coldplay y Moby.
 La "falsa ascensión" puede referirse al camino que tomamos en lo que creemos que es el camino correcto.
 
 ---
@@ -141,7 +141,7 @@ La "falsa ascensión" es ahora una metáfora de la civilización.
 El álbum de Eno & Cale tenía una premonición de "música después de renunciar al paraíso".
 La melodía pregunta en voz baja. "Si no puedes encontrar el paraíso, constrúyelo en la música".
 
-El momento al final de "La Playa" cuando Richard mira fijamente la pantalla de su computadora con una sonrisa en su rostro.
+El momento al final de "The Beach" cuando Richard mira la pantalla de su computadora con una sonrisa en su rostro.
 Ya no hay luces tropicales ni sueños de comunidad.
 Sin embargo, las "reverberaciones de sonidos lejanos" permanecen en su corazón.
 
@@ -164,7 +164,7 @@ Y en nuestros corazones seguimos dibujando silenciosamente una **playa invisible
 
 | Artista/Obra | Año | Notas | Enlace |
 |------------------|----|--------------|
-| Brian Eno y John Cale – * Camino equivocado hacia arriba * | 1990 | Álbum de colaboración. Una fusión de melodía humana y claridad electrónica. | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno y John Cale – * Camino equivocado hacia arriba * | 1990 | Álbum de colaboración. Una fusión de melodía humana y transparencia electrónica. | [Amazon](https://amzn.to/48mDETk) |
 | La Playa (Banda Sonora) | 2000 | Participan Moby, All Saints, Faithless y más. Música del mar y la soledad. | [Amazon](https://amzn.to/47mrub1)
 
 ---

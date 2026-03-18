@@ -21,7 +21,7 @@ title: '[Columna] Blawan: El placer del acero y el cuerpo en lo profundo de la n
 Texto: mmr｜Tema: Sobre el ritmo frío pero de algún modo humano de Blawan que sigue teniendo raíces en el underground del Reino Unido.
 
 Érase una vez, las zonas industriales del norte de Inglaterra estaban llenas de olor a vapor y metal.
-Es posible que Jamie Roberts (o Blawan) haya crecido inhalando inconscientemente sus reverberaciones.
+Es posible que Jamie Roberts, o Blawan, haya crecido inhalando inconscientemente sus reverberaciones.
 El linaje de la música electrónica que fluye desde Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 Se ha hecho eco del ritmo del trabajo y de la respiración de la ciudad al mismo tiempo.
 
@@ -162,7 +162,7 @@ Detrás de los fríos sonidos mecánicos está el sonido de la respiración de l
 Después de causar impacto con "Por qué esconden sus cuerpos debajo de mi garaje", a lo que llegó después de más de 10 años es a "una oración que habita en la destrucción".
 
 En un momento en el que el techno se vuelve más abstracto y los clubs se funden con el mundo digital, Blawan se atreve a recuperar la "gravedad".
-El ritmo que corre por las venas de la Ciudad del Acero.
+Un ritmo corre por las venas de Steel City.
 En él, pregunta en voz baja: ¿Puede el sonido seguir siendo humano? **
 
 ---
@@ -382,9 +382,9 @@ Esa contradicción es la razón de su existencia.
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

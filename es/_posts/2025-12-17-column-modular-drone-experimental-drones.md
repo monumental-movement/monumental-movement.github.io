@@ -24,7 +24,7 @@ Texto: mmr｜Tema: Posicionar drones modulares como una intersección de la hist
 
 Modular Drone/Experimental Drones (en lo sucesivo denominados "drones modulares") es una tendencia de experimentos acústicos centrados en sonidos sostenidos y se ha desarrollado en estrecha conexión con las características estructurales de los sintetizadores modulares. Un continuo de sonido que no asume una melodía o un ritmo crea tiempo cambiando minuciosamente elementos como el tono, el timbre, la intensidad, la fase y la disposición espacial. Esta música enfatiza la "existencia" más que la "progresión", y los cambios aparecen como transiciones de estado más que como eventos.
 
-Lo importante en los drones modulares es que el objeto de la escucha no es la persistencia de un solo sonido, sino el proceso mediante el cual múltiples rutas de señales interactúan entre sí. Los sintetizadores modulares le permiten conectar libremente elementos como osciladores, filtros, amplificadores, envolventes, LFO y voltajes aleatorios, haciendo audibles los límites entre estabilidad e inestabilidad, control y azar. Al combinar esta característica con la forma de un dron, se creó una expresión acústica que amplía el sentido del tiempo.
+Lo importante de los drones modulares es que el objeto de la escucha no es la persistencia de un solo sonido, sino el proceso mediante el cual múltiples rutas de señal interactúan entre sí. Los sintetizadores modulares le permiten conectar libremente elementos como osciladores, filtros, amplificadores, envolventes, LFO y voltajes aleatorios, haciendo audibles los límites entre estabilidad e inestabilidad, control y azar. Al combinar esta característica con la forma de un dron, se creó una expresión acústica que amplía el sentido del tiempo.
 
 ---
 
@@ -178,7 +178,7 @@ Además, al aplicar diferentes cambios espectrales a los lados izquierdo y derec
 
 ### Fusión de reverberación y sonido sostenido
 
-Los tiempos de reverberación prolongados no son sólo un efecto de los drones, sino que funcionan como parte de la estructura acústica. Cuando el sonido original y el sonido reverberante no se pueden separar, el inicio y el final del sonido se vuelven ambiguos y el sonido sostenido adquiere un infinito.
+Los tiempos de reverberación prolongados no son sólo un efecto en los drones, sino que funcionan como parte de la estructura acústica. Cuando el sonido original y el sonido reverberante no se pueden separar, el principio y el final del sonido se vuelven ambiguos y el sonido sostenido adquiere un infinito.
 
 > "La reverberación no adorna el sonido, sino que funciona como un dispositivo que alarga el tiempo mismo."
 
@@ -216,7 +216,7 @@ El sonido sostenido tiene una gran afinidad con las galerías y espacios de inst
 
 ## Perspectiva de registros de movimiento monumental
 
-En el contexto de Monumental Movement Records, los drones modulares se posicionan no sólo como música experimental, sino como una práctica sonora que presenta críticamente el tiempo, la estructura y la instrumentalidad. Aquí, las duraciones prolongadas y los cambios diferenciales son más valiosos que los cambios llamativos o los efectos inmediatos.
+En el contexto de Monumental Movement Records, los drones modulares no son simplemente música experimental, sino que se posicionan como prácticas sonoras que presentan críticamente el tiempo, la estructura y la instrumentalidad. Aquí, las duraciones prolongadas y los cambios diferenciales son más valiosos que los cambios llamativos o los efectos inmediatos.
 
 El vocabulario es más descriptivo que decorativo, y se prioriza el análisis estructural sobre la expresión emocional. El sonido es a la vez un objeto sensorial y un medio para el pensamiento.
 

@@ -154,7 +154,7 @@ Y en el centro de todo esto siempre hay un ser humano. **
 ---
 
 
-### ▷ Cronología principal de la serie TR (Sirena)
+### ▷ Cronología principal de la serie TR
 
 <div class="mermaid">
 

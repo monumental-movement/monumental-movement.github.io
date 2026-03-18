@@ -21,7 +21,7 @@ En 2002, lanzó su álbum debut en solitario "Justified", que vendió más de 10
 
 En 2006, lanzó su segundo álbum en solitario "Futuresex/Lovesounds".
 
-En 2013, retomó su carrera musical con el álbum ``The 20/20 Experience'' y fue seleccionado por segunda vez como una de las ``100 personas más influyentes del mundo'' de la revista Time.
+En 2013, retomó su carrera musical con el álbum ``The 20/20 Experience'', y fue seleccionado por segunda vez como una de las ``100 personas más influyentes del mundo'' de la revista Time.
 
 #### Lista de canciones
 ```md

@@ -51,7 +51,7 @@ Waajeed (nombre real Robert O'Bryant) nació en Detroit a finales de los años 1
 El nombre del artista es de origen árabe y proviene de una palabra que significa "encontrar" o "descubrir".
 
 Desde temprana edad, creció en un ambiente influenciado por la **cultura soul/evangelio de Detroit**, y más tarde entró en contacto con Slum Village.
-A finales de los 90 y principios de los 2000, Detroit estaba creando un nuevo estándar para el neo-soul/hip-hop, simbolizado por J Dilla. Waajeed estuvo a la vanguardia de este campo y, mientras trabajaba como fotógrafo, se dedicó a la producción musical.
+A finales de los 90 y principios de los 2000, Detroit estaba creando un nuevo estándar para el neo-soul/hip-hop, simbolizado por J Dilla. A la vanguardia de este campo, Waajeed se dedicó a la producción musical y al mismo tiempo trabajaba como fotógrafo.
 
 ### **● Relación con Slum Village**
 
@@ -67,7 +67,7 @@ Lo que Waajeed absorbió aquí fue más que simplemente hacer ritmos.
 # **2. Periodo PPP (Platinum Pied Pipers): un nuevo punto de conexión entre hip-hop y soul**
 
 A principios de la década de 2000, Waajeed y Saadiq formaron **Platinum Pied Pipers (PPP)**.
-Este es un proyecto que fusiona orgánicamente hip-hop, R&B, soul y música beat, y ha ganado reconocimiento mundial mientras tiene su sede en Detroit.
+Este es un proyecto que fusiona orgánicamente hip-hop, R&B, soul y música beat, y ha ganado reconocimiento mundial mientras tiene su base en Detroit.
 
 ### **2005 “Triple P”**
 
@@ -219,7 +219,7 @@ La técnica de combinar naturalmente sintetizadores, pads, piano eléctrico, bat
 * **“La Guerra LP” (2012)**
 * **『Shangó EP』(2017)**
 * **『De la tierra』 (2017)**
-* **『Diez dedos de los pies hacia abajo EP』(2018)**
+* **“Diez dedos de los pies abajo EP” (2018)**
 * **“Madre” (2022)**
 
 ---

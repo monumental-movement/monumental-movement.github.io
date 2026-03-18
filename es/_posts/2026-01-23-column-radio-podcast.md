@@ -129,7 +129,7 @@ Estos se han convertido en elementos innecesarios para la distribución de audio
 La reproducción bajo demanda elimina la necesidad de simultaneidad y el concepto de organización.
 La radio ya no tiene por qué ser una "emisión".
 
-> La voz se ha liberado de las ondas de radio.
+>El sonido se ha liberado de las ondas de radio.
 
 ---
 

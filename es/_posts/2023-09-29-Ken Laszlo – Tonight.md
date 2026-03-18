@@ -10,7 +10,7 @@ tags:
 - Italo
 - Disco
 - Rare
-title: Ken Laszlo - Esta noche
+title: Ken Laszlo – Esta noche
 ---
 
 

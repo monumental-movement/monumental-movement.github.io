@@ -53,7 +53,7 @@ La melodía enfatiza el ritmo y la circulación de frases más que la escala, y 
 
 ### Época colonial y música urbana
 
-El dominio colonial desde finales del siglo XIX hasta el siglo XX trajo instrumentos y conceptos armónicos de origen europeo a África occidental. Bandas de música, música religiosa y bandas militares tocaron por todo el país, mezclándolas con ritmos tradicionales. La alta vida que se desarrolló en Ghana es un ejemplo representativo de este tipo de hibridación y sirve como una prehistoria importante para la formación posterior del Afrobeat.
+El dominio colonial desde finales del siglo XIX hasta el siglo XX trajo instrumentos y conceptos armónicos de origen europeo a África occidental. Bandas de música, música religiosa y bandas militares tocaron por todo el país, mezclándolas con ritmos tradicionales. La alta vida que se desarrolló en Ghana es un ejemplo representativo de esta hibridación y sirve como una prehistoria importante para la formación posterior del Afrobeat.
 
 ---
 

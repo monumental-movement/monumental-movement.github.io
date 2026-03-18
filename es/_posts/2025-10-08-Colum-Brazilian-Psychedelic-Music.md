@@ -91,7 +91,7 @@ En el siglo XXI, las jóvenes bandas brasileñas han recuperado una vez más su 
 
 ## Capítulo 5: Revisión en vivo - Experiencia de trance tropical
 
-El show de los Boogarins en el Cine Joia de São Paulo en 2018 fue el momento en el que el fantasma de Tropicália volvió a la vida.
+El show en vivo de Boogarins en el Cine Joia de São Paulo en 2018 fue el momento en que el fantasma de Tropicália volvió a la vida.
 Detrás del escenario hay imágenes en movimiento de plantas tropicales, iluminación que da una sensación de humedad y un interminable zumbido de guitarra. En lugar de bailar, el público **“flotó”**, inmerso en el sonido.
 
 El bis de "Lucifernandis" creó un sonido caótico que sonó como la segunda venida de Os Mutantes, y los vítores del público sacudieron el aire.
@@ -139,3 +139,14 @@ La "Visión Tropical" todavía resuena en algún lugar del mundo.
 
 > “La psicodelia es mirar la realidad dentro de tu mente”.
 > — Gilberto Gil
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9lB07O0eMYA?si=K3vV_zT2Wd6MVRn5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

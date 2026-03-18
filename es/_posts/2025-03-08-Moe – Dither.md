@@ -40,5 +40,5 @@ Moe es una banda estadounidense de jam rock formada en la Universidad de Buffalo
 
 [Comprar en Mercari](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

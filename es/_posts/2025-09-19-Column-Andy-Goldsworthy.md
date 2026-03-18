@@ -53,7 +53,7 @@ color: #fff;
 ### Obras/proyectos representativos de Goldsworthy
 
 - **Serie Bola de Nieve**: Se coloca una enorme bola de nieve en una ciudad y se muestra a medida que se derrite con el tiempo.
-- **Icicle Star**: Un trozo de hielo con forma de estrella que se derrite al amanecer.
+- **Icicle Star**: Un trozo de hielo que se ensambla en forma de estrella y se derrite al amanecer.
 - **Stone River (1997)**: Un muro de piedra serpenteante instalado en la Universidad de Stanford en Estados Unidos.
 - **Hojas y agujero de serbal**: Una obra en la que hojas rojas están dispuestas en círculo y flotan en la superficie del agua.
 - **Storm King Wall (1997–98)**: Un largo muro de piedra serpenteante en el Storm King Art Center de Nueva York.
@@ -133,6 +133,14 @@ color: #fff;
 ### Conclusión
 
 Las obras de Andy Goldsworthy tienen una cualidad "única en el tiempo" que cambia y desaparece con el tiempo y la naturaleza. Su estética resuena fuertemente con el "ambiente", la "repetición" y el "silencio" del ambiente, la grabación de campo y la música minimalista. Al experimentar los dos en combinación, nace un "diálogo con la naturaleza" que cruza los sentidos visuales y auditivos.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tb-uIGywwqc?si=Ag_bqU4OVg_fE593" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

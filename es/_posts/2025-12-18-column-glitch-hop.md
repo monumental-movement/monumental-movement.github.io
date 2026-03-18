@@ -219,7 +219,7 @@ timeline
 
 ## 16. Resumen
 
-Glitch Hop es un género que se estableció a raíz de elevar al máximo la resolución de edición de la música beat. Los juicios realizados en un compás, en una nota e incluso en milisegundos están directamente relacionados con la sensación física final. En este sentido, Glitch Hop no es sólo una colección de técnicas de producción, sino también un sistema de pensamiento que diseña la propia experiencia auditiva.
+Glitch Hop es un género que se estableció a raíz de elevar al máximo la resolución de edición de la música beat. Los juicios realizados en un compás, en una nota e incluso en milisegundos están directamente relacionados con la sensación física final. En ese sentido, Glitch Hop no es sólo una colección de técnicas de producción, sino también un sistema de pensamiento que diseña la experiencia auditiva en sí.
 
 ---
 

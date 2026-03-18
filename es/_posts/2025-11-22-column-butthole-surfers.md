@@ -24,7 +24,7 @@ Texto: mmr｜Tema: Acerca de **fuente de sonido, presentación en vivo, técnica
 
 
 Pocas figuras del underground estadounidense de la década de 1980 eran tan extrañas, violentas y alucinatorias como los Butthole Surfers.
-Sus shows en vivo a menudo se describen en términos de "rock de shock", "psicodélico pesado" y "caos", pero su esencia es mucho más compleja.
+Sus presentaciones en vivo a menudo se describen en términos de "rock de shock", "psicodélico pesado" y "caos", pero su esencia es mucho más compleja.
 
 *La confusión se crea mediante el cálculo,
 La disonancia se crea por la improvisación,
@@ -72,7 +72,7 @@ El primer sonido de la banda mezcla la rapidez del punk/hardcore tardío con la 
 ### **El Shah duerme en la tumba de Lee Harvey**
 
 * La guitarra utiliza principalmente retroalimentación grabada directamente.
-* El saxofón suena irregularmente y destruye la melodía.
+* El saxofón suena irregularmente, destruyendo la melodía.
 * Las letras son fragmentarias y orientadas a la interpretación.
 
 ### **Señora Sniff**
@@ -82,356 +82,375 @@ El primer sonido de la banda mezcla la rapidez del punk/hardcore tardío con la 
 
 ## ● Método de grabación (diagrama)
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
-    B --> C["Grabación improvisada de saxo"]
-    C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla completa (Lo-Fi)"]
+    A["ギター直録り"] --> B["ディストーション処理"]
+    B --> C["サックス即興録音"]
+    C --> D["ドラム変拍子1テイク録り"]
+    D --> E["全体ミックス（Lo-Fi）"]
+</div>
 
 ---
 
-# **3. '80年代の混沌期：Psychic… Powerless… Another Man’s Sac（1984）**
+# **3. Período caótico de los años 80: Psíquico... Impotente... El saco de otro hombre (1984)**
 
-当時のライブセットは、16mmフィルムの実写映像・ストロボライト・ノイズギターが組み合わさり、観客の耐性を試す “儀式” ともいえる空間だった。
+En ese momento, el set en vivo era una combinación de imágenes de acción en vivo de 16 mm, luces estroboscópicas y guitarras ruidosas, creando un espacio "ceremonial" que ponía a prueba la tolerancia del público.
 
-### ● 代表曲
+### ● Canción representativa
 
-* **Bar-B-Q Pope**
-* **Graveyard**
-* **Cowboy Bob**
+* **Bar-B-Q Papa**
+* **Cementerio**
+* **Bob vaquero**
 
-### ● 特徴
+### ● Características
 
-* 多くの曲が変拍子
-* ギターとサックスの不協和音
-* 録音はアナログ4〜8トラック
+* Muchas canciones tienen compases impares.
+* Cacofonía de guitarra y saxofón.
+* La grabación es analógica de 4 a 8 pistas.
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación multipista"] --> B["Efecto guitarra/saxo"]
-    B --> C["Grabación de compás impar de batería"]
-    C --> D["Agregar parte improvisada"]
-    D --> E["Mezcla/Masterización (Lo-Fi)"]
+    A["マルチトラック録音"] --> B["ギター/サックスエフェクト"]
+    B --> C["ドラム変拍子録音"]
+    C --> D["即興パート追加"]
+    D --> E["ミキシング・マスタリング（Lo-Fi）"]
+</div>
 
 ---
 
-# **4. Rembrandt Pussyhorse（1986）：サイケデリックの深化**
+# **4. Rembrandt Pussyhorse (1986): Profundizando en lo psicodélico**
 
-スタジオワークが飛躍的に進化した時期である。
-多層ドラム、フィードバック、反転音、異質な音場構造など、アルバム全体に統一した “漠然とした不安感” を与えるデザインが施された。
+Esta fue una época en la que el trabajo de estudio evolucionó dramáticamente.
+El álbum fue diseñado para dar una "vaga sensación de ansiedad" a lo largo del álbum, incluyendo baterías de varias capas, retroalimentación, sonidos invertidos y una estructura de campo sonoro diferente.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wiyG0Ly6eFs?si=OY51AkzFwBMvPCuy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-<div class="mermaid"></div>
-flowchart TD
-    A["riff/ruido de guitarra"] --> B["Grabación de batería multicapa"]
-    B --> C["Improvisación de saxo"]
-    C --> D["Ajuste del campo estéreo"]
-    D --> E["Mezcla y Masterización"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wiyG0Ly6eFs?si=OY51AkzFwBMvPCuy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-# **5. Hairway to Steven（1988）：長編化と構造化**
-
-長尺曲と短尺曲を交互に配置し、従来より “曲としての輪郭” が顕著になる。
-ライブ再現性を高めるため、スタジオ録音も明確な役割分担で進んだ。
-
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación de canciones de larga duración"] --> B["Grabación de canción corta"]
-    B --> C["Saxofón/Cambio Vocal"]
-    C --> D["Capas de ruido"]
-    D --> E["Mezcla para el escenario"]
+    A["ギターリフ/ノイズ"] --> B["多層ドラム録音"]
+    B --> C["サックス即興"]
+    C --> D["ステレオフィールド調整"]
+    D --> E["ミキシングとマスタリング"]
+</div>
 
 ---
 
-# **6. ボーカル／音響構造が安定した90年代**
+# **5. Hairway to Steven (1988): más largo y estructurado**
 
-## Independent Worm Saloon（1993）
+Las canciones largas y cortas se organizan alternativamente, y el "esquema de la canción" se vuelve más pronunciado que antes.
+Para mejorar la reproducibilidad en vivo, la grabación en estudio también avanzó con una clara división de roles.
 
-メジャーレーベル期に入り、音質・演奏ともに明瞭化。
-
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación separada de guitarra, bajo y batería"] --> B["Procesamiento de efectos"]
-    B --> C["Grabación improvisada de saxo"]
-    C --> D["Mezcla/ajuste estéreo"]
-
-## Electriclarryland（1996）
-
-代表曲 **Pepper** を含む。
-メロディを前面に出しつつも、ノイズ感と奇妙さは保持される。
-
-<div class="mermaid"></div>
-flowchart TD
-    A["Grabación centrada en la melodía"] --> B["Procesamiento de guitarra/saxofón"]
-    B --> C["Optimización del patrón de ritmo"]
-    C --> D["Ajuste de ruido/efecto psicodélico"]
-    D --> E["Masterización de mezclas"]
+    A["長編曲録音"] --> B["短編曲録音"]
+    B --> C["サックス/ボーカル変化"]
+    C --> D["ノイズ重ね"]
+    D --> E["ステージ向けミックス"]
+</div>
 
 ---
 
-# **7. Weird Revolution（2001）：電子音導入期**
+# **6. Los años 90, cuando la voz y la estructura del sonido eran estables**
 
-このアルバムではサンプラー・デジタルエフェクトが本格的に導入され、バンドの音像が大きく変化する。
+## Salón de gusanos independiente (1993)
 
-## 7. アルバム全曲詳細解説と録音手法
+Al entrar en la era de las grandes discográficas, tanto la calidad del sonido como el rendimiento se volvieron más claros.
 
-### 7.1 Butthole Surfers EP（1983）
+<div class="mermaid">
+flowchart TD
+    A["ギター/ベース/ドラム分離録音"] --> B["エフェクト処理"]
+    B --> C["サックス即興録音"]
+    C --> D["ミキシング・ステレオ調整"]
+</div>
 
-#### 曲目と特徴
 
-1. **The Shah Sleeps in Lee Harvey's Grave**
+## Electriclarryland (1996)
 
-   * ギターリフ直録り、ディストーションを重ねた即興演奏
-   * サックスは短いフレーズで不協和音を形成
-   * ドラムは変拍子を多用、スタジオでは1テイク録りを基本
+Incluyendo la canción insignia **Pepper**.
+Aunque la melodía pasa a primer plano, el ruido y la extrañeza se mantienen.
+
+<div class="mermaid">
+flowchart TD
+    A["メロディ重視録音"] --> B["ギター/サックス加工"]
+    B --> C["リズムパターン最適化"]
+    C --> D["ノイズ・サイケエフェクト調整"]
+    D --> E["ミックス・マスタリング"]
+</div>
+
+---
+
+# **7. Weird Revolution (2001): Periodo de introducción al sonido electrónico**
+
+Con este álbum, se introdujeron en serio los efectos digitales sampler y la imagen sonora de la banda cambió significativamente.
+
+## 7. Explicación detallada de todas las canciones del álbum y método de grabación.
+
+### 7.1 EP Butthole Surfers (1983)
+
+#### Lista de pistas y características
+
+1. **El Shah duerme en la tumba de Lee Harvey**
+
+* Riff de guitarra grabado directamente, interpretación improvisada con distorsión en capas
+* El saxofón forma una cacofonía con frases cortas.
+* La batería usa muchos compases extraños y en el estudio básicamente graban en una sola toma.
 
 2. **Lady Sniff**
 
-   * ノイズ処理中心の短編曲
-   * サンプルやテープループは使用せず、アナログ機材で即興生成
-   * パフォーマンスでは観客の反応に応じて変化
+* Canción corta centrada en el procesamiento del ruido.
+* Sin samples ni loops de cinta, improvisados ​​con equipos analógicos
+* Cambios en la actuación dependiendo de la reacción del público.
 
-#### 録音手法
+#### Método de grabación
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
-    B --> C["Grabación improvisada de saxo"]
-    C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla completa (Lo-Fi)"]
+    A["ギター直録り"] --> B["ディストーション処理"]
+    B --> C["サックス即興録音"]
+    C --> D["ドラム変拍子1テイク録り"]
+    D --> E["全体ミックス（Lo-Fi）"]
+</div>
 
 ---
 
-### 7.2 Psychic… Powerless… Another Man’s Sac（1984）
+### 7.2 Psíquico… Impotente… El saco de otro hombre (1984)
 
-#### 曲目例
+#### Ejemplo de canción
 
-* **Bar-B-Q Pope** – ギターとサックスの不協和音、断片的歌詞
-* **Graveyard** – ドラムの変拍子とノイズ、パンクの直線性
-* **Cowboy Bob** – ユーモアを交えたサイケデリック、ライブ再現可能な構造
+* **Bar-B-Q Pope** – Cacofonía de guitarra y saxofón, letras fragmentadas
+* **Cementerio** – Batería con ritmos y ruidos extraños, linealidad punk
+* **Cowboy Bob** – Psicodélico con humor, estructuras reproducibles en vivo
 
-#### 録音手法
+#### Método de grabación
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación multipista"] --> B["Efecto guitarra/saxo"]
-    B --> C["Grabación de compás impar de batería"]
-    C --> D["Agregar parte improvisada"]
-    D --> E["Mezcla/Masterización (Lo-Fi)"]
+    A["マルチトラック録音"] --> B["ギター/サックスエフェクト"]
+    B --> C["ドラム変拍子録音"]
+    C --> D["即興パート追加"]
+    D --> E["ミキシング・マスタリング（Lo-Fi）"]
+</div>
 
 ---
 
-### 7.3 Rembrandt Pussyhorse（1986）
+### 7.3 El caballo de Rembrandt (1986)
 
-* 複雑なリズム構造、ギターの不協和音とフィードバック増幅
-* サックスは全曲で即興演奏を継続
-* スタジオではドラムを多層録音、音場の奥行きを強調
+* Estructura rítmica compleja, cacofonía de guitarra y amplificación de retroalimentación.
+*El saxofón sigue improvisando a lo largo de la canción.
+* En el estudio, la batería se graba en múltiples capas para enfatizar la profundidad del campo sonoro.
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["riff/ruido de guitarra"] --> B["Grabación de batería multicapa"]
-    B --> C["Improvisación de saxo"]
-    C --> D["Ajuste del campo estéreo"]
-    D --> E["Mezcla y Masterización"]
+    A["ギターリフ/ノイズ"] --> B["多層ドラム録音"]
+    B --> C["サックス即興"]
+    C --> D["ステレオフィールド調整"]
+    D --> E["ミキシングとマスタリング"]
+</div>
 
 ---
 
-### 7.4 Hairway to Steven（1988）
+### 7.4 El cabello hacia Steven (1988)
 
-* サイケデリックとゴシック融合
-* 曲ごとに録音スタイルを変更（長編曲・短編曲の対比）
-* ライブ再現性を重視しつつ、実験的パートも残存
+* Fusión psicodélica y gótica.
+* Cambiar el estilo de grabación de cada canción (comparación entre canciones largas y cortas)
+* Las piezas experimentales permanecen aunque se enfatiza la reproducibilidad en vivo.
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación de canciones de larga duración"] --> B["Grabación de canción corta"]
-    B --> C["Saxofón/Cambio Vocal"]
-    C --> D["Capas de ruido"]
-    D --> E["Mezcla para el escenario"]
+    A["長編曲録音"] --> B["短編曲録音"]
+    B --> C["サックス/ボーカル変化"]
+    C --> D["ノイズ重ね"]
+    D --> E["ステージ向けミックス"]
+</div>
 
 ---
 
-### 7.5 Independent Worm Saloon（1993）
+### 7.5 Salón de gusanos independiente (1993)
 
-* メジャーデビューに合わせ、録音クオリティを向上
-* スタジオマルチトラック使用、曲構成を整備
-* ギター・ベース・ドラム・サックスを分離録音し、ノイズやエフェクトを精密制御
+* Calidad de grabación mejorada en línea con el gran debut
+*Usando estudio multipista, mejorando la estructura de la canción.
+* Graba por separado guitarra, bajo, batería y saxofón para controlar con precisión el ruido y los efectos.
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación separada de guitarra, bajo y batería"] --> B["Procesamiento de efectos"]
-    B --> C["Grabación improvisada de saxo"]
-    C --> D["Mezcla/ajuste estéreo"]
+    A["ギター/ベース/ドラム分離録音"] --> B["エフェクト処理"]
+    B --> C["サックス即興録音"]
+    C --> D["ミキシング・ステレオ調整"]
+</div>
 
 ---
 
-### 7.6 Electriclarryland（1996）
+### 7.6 Tierra eléctrica (1996)
 
-* MTVヒット曲 **Pepper** を含む
-* ポップ性を強調しつつ、ノイズとサイケデリック要素は継続
-* ボーカルメロディを前面に出すミックス手法
-* ライブ再現性を最大化する録音設計
+*Incluye éxito de MTV **Pepper**
+* Continúa el ruido y los elementos psicodélicos mientras se enfatiza el pop.
+* Método de mezcla que pone la melodía vocal en primer plano.
+* Diseño de grabación para maximizar la fidelidad en vivo.
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Grabación centrada en la melodía"] --> B["Procesamiento de guitarra/saxofón"]
-    B --> C["Optimización del patrón de ritmo"]
-    C --> D["Ajuste de ruido/efecto psicodélico"]
-    D --> E["Masterización de mezclas"]
+    A["メロディ重視録音"] --> B["ギター/サックス加工"]
+    B --> C["リズムパターン最適化"]
+    C --> D["ノイズ・サイケエフェクト調整"]
+    D --> E["ミックス・マスタリング"]
+</div>
 
 ---
 
-### 7.7 Weird Revolution（2001）
+### 7.7 Revolución extraña (2001)
 
-* 電子音・サンプラーを導入
-* 従来のアナログサウンドとの融合
-* 実験性を維持しつつ、メジャーレーベル基準に準拠
+* Se introdujo sonido electrónico y sampler.
+* Fusión con sonido analógico tradicional.
+* Cumple con los estándares de las principales etiquetas sin dejar de ser experimental
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Introducción al sonido electrónico/sampler"] --> B["Fusión de instrumentos analógicos"]
-    B --> C["Improvisación de Guitarra/Saxofón"]
-    C --> D["Grabación multicapa de patrones de batería"]
-    D --> E["Mezcla/masterización final"]
+    A["電子音/サンプラー導入"] --> B["アナログ楽器融合"]
+    B --> C["ギター/サックス即興"]
+    C --> D["ドラムパターン多層録音"]
+    D --> E["最終ミキシング・マスタリング"]
+</div>
 
 ---
 
-# **8. ライブツアー史と視覚演出の全構造**
+# **8. Estructura completa de la historia de la gira en vivo y producción visual**
 
-Butthole Surfers の最も重要な要素は **ライブ** である。
-その演出は事実だけでも以下のように体系化できる。
+El elemento más importante de Butthole Surfers es el **en vivo**.
+La producción se puede sistematizar de la siguiente manera basándose únicamente en los hechos.
 
 ---
 
-## **8.1 1980年代：ショックロックの源流的ライブ**
+## **8.1 Década de 1980: El origen del shock rock en vivo**
 
-* ストロボライトを乱発
-* 16mmフィルムによる抽象映像
-* ギターのフィードバックはPA卓で強調
-* ツインドラムがステージ中央に陣取る構成
-* サックスは不協和音即興
+* Dispara luces estroboscópicas
+* Video abstracto usando película de 16 mm.
+* La retroalimentación de la guitarra se enfatiza en la consola PA.
+* Tambores gemelos colocados en el centro del escenario.
+* Improvisación disonante de saxofón.
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart LR
-    A["Centro del escenario: Tambores gemelos"] --> B["Guitarra (comentarios)"]
-    A --> C["Saxofón (improvisación/disonancia)"]
-    B --> D["luz estroboscópica"]
-    C --> E["proyección de película de 16mm"]
-    D --> F["Escritorio PA: mejora de reverberación/retardo"]
+    A["ステージ中央：ツインドラム"] --> B["ギター（フィードバック）"]
+    A --> C["サックス（即興・不協和音）"]
+    B --> D["ストロボライト"]
+    C --> E["16mmフィルム投影"]
+    D --> F["PA卓：リバーブ/ディレイ強化"]
+</div>
 
 ---
 
-## **8.2 1990–1993：サイケ拡張期**
+## **8.2 1990–1993: Expansión de la psique**
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Guitarra: amplificador de alto rendimiento"] --> B["Capa de ruido"]
-    B --> C["PA: refuerzo de rango medio-alto"]
-    C --> D["Detrás del escenario: Proyección de imágenes"]
-    D --> E["Experiencia del público: espacio psicodélico inmersivo"]
+    A["ギター：高出力アンプ"] --> B["ノイズレイヤー"]
+    B --> C["PA：中高域ブースト"]
+    C --> D["ステージ後方：映像投影"]
+    D --> E["観客体験：没入型サイケ空間"]
+</div>
 
 ---
 
-## **8.3 電子音導入期（2001–）**
+## **8.3 Período de introducción del sonido electrónico (2001–)**
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Sonido electrónico/sampler"] --> B["Sincronización PA en vivo"]
-    B --> C["Vídeo: Proyección Digital"]
-    C --> D["Sincronización con la actuación de la banda"]
-    D --> E["Sistema de iluminación de alta resolución"]
+    A["電子音・サンプラー"] --> B["ライブPA同期"]
+    B --> C["映像：デジタルプロジェクション"]
+    C --> D["バンド演奏に同期"]
+    D --> E["高解像度照明システム"]
+</div>
 
 ---
 
 
 
-## 8.4 2000年代：電子音・サンプラー導入後
+## 8.4 Década de 2000: después de la introducción de sonidos y samplers electrónicos
 
-### ● 特徴
+### ● Características
 
-* «Weird Revolution» の電子音をライブに実装
-* シンセパッド・サンプルの再現でステージ音像が変化
-* 映像演出はデジタルに移行、同期性が向上
+* Sonido electrónico «Weird Revolution» implementado en vivo
+* Cambios en la imagen del sonido del escenario mediante la reproducción de muestras de pad de sintetizador
+* La producción de vídeo se ha trasladado a digital, mejorando la sincronización.
 
-### ● ライブ演出図（2001–）
+### ● Diagrama de actuación en vivo (2001–)
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["Sonido electrónico/sampler"] --> B["Sincronización PA en vivo"]
-    B --> C["Vídeo: Proyección Digital"]
-    C --> D["Sincronización con la actuación de la banda"]
-    D --> E["Sistema de iluminación de alta resolución"]
+    A["電子音・サンプラー"] --> B["ライブPA同期"]
+    B --> C["映像：デジタルプロジェクション"]
+    C --> D["バンド演奏に同期"]
+    D --> E["高解像度照明システム"]
+</div>
 
 ---
 
 
-# **9. Butthole Surfers 使用機材一覧**
+# **9. Lista de equipos utilizados por Butthole Surfers**
 
 
-Butthole Surfers の機材は年代により大きく変化するが、文献に残っているものは以下の通り。
+El equipo utilizado por Butthole Surfers varía mucho a lo largo de los años, pero lo siguiente permanece en la literatura.
 
-## 9.1 ギター / アンプ
+## 9.1 Guitarra/Amplificador
 
-* Gibson SG
-* Fender Stratocaster
-* Fender Twin Reverb（高出力）
-* Peavey アンプ（ノイズ耐性が高い）
+*Gibson SG
+*Fender Stratocaster
+* Fender Twin Reverb (alto rendimiento)
+* Amplificador Peavey (alta inmunidad al ruido)
 
-## 9.2 ベース
+## 9.2 Básico
 
-* Fender Precision Bass
-* Ampeg SVT（ライブで高確率）
+*Bajo de precisión Fender
+* Ampeg SVT (en vivo y de alta probabilidad)
 
-## 9.3 ドラム
+## 9.3 Baterías
 
-* Tama / Ludwig（両ドラムとも）
-* ツインドラム構成（キング・コフィ＆テレサ・テイラー）
+* Tama / Ludwig (ambos tambores)
+* Composición de doble batería (King Kofi y Teresa Taylor)
 
-## 9.4 サックス
+## 9.4 Saxofón
 
-* アルトサックス（即興中心）
-* ディレイ／リバーブ処理をPAで追加
+* Saxofón alto (principalmente improvisación)
+* Se agregó procesamiento de retardo/reverberación en PA
 
-## 9.5 電子音（2000年代）
+## 9.5 Sonidos electrónicos (década de 2000)
 
-* サンプラー：AKAI 系モデル
-* シンセパッド：Roland
-* デジタルエフェクト：Lexicon
+* Muestra: modelo AKAI
+* Pad de sintetizador: Roland
+*Efectos digitales: Léxico
 
 ---
 
-# **10. 全活動年表（事実に基づく簡易編）**
+# **10. Cronología de todas las actividades (versión simplificada basada en hechos)**
 
-<div class="mermaid"></div>
+<div class="mermaid">
 flowchart TD
-    A["1981: Formada en Texas"] --> B["1983: lanzamiento del primer EP"]
-    B --> C["1984-1986: gira ampliada por América del Norte"]
-    C --> D["1987-1989: expansión a Europa y período psicodélico"]
-    D --> E["1993: transición al período principal"]
-    E --> F["1996: período de Electriclarryland"]
-    F --> G["2001: Introducción del sonido electrónico"]
-    G --> H["Después: Continuación de las actividades irregulares"]
+    A["1981：テキサスで結成"] --> B["1983：初EPリリース"]
+    B --> C["1984–1986：北米ツアー拡大"]
+    C --> D["1987–1989：欧州進出・サイケ期"]
+    D --> E["1993：メジャー期へ移行"]
+    E --> F["1996：Electriclarryland 期"]
+    F --> G["2001：電子音導入"]
+    G --> H["以降：不定期活動継続"]
+</div>
 
 ---
 
-# **11. 総括：Butthole Surfers の音楽的意義**
+# **11. Resumen: El significado musical de Butthole Surfers**
 
-Butthole Surfers の音楽はしばしば “奇抜”“狂気” と語られる。
-しかし、その核心にあるのは **構造の実験** である。
+La música de Butthole Surfers a menudo se describe como "extraña" y "loca".
+Sin embargo, en esencia es un **experimento con estructura**.
 
-* 不協和音は即興ではなく「意図された配置」
-* ノイズは音響設計の一部
-* ライブの混沌は照明・映像・PAの緻密な連係
-* サイケデリアは物語のように組み立てられている
+* La disonancia no es una improvisación sino un "arreglo intencionado"
+* El ruido es parte del diseño acústico.
+* El caos de una actuación en vivo es la coordinación precisa de iluminación, vídeo y megafonía.
+* La psicodelia está estructurada como una historia.
 
-結果、彼らは **アメリカン・アンダーグラウンドの重要な軸** となり、オルタナティヴ・ロックの基盤にも影響を与えた。
+Como resultado, se convirtieron en un pilar importante del underground estadounidense e influyeron en los cimientos del rock alternativo.
 
-Butthole Surfers は、音楽という形式の “外側” を提示し続けてきた。
-その存在は、パンク、ノイズロック、サイケデリックの交差点に立ち、いまも独自の位置を占めている。
+Butthole Surfers ha seguido presentando el "afuera" de la forma de música.
+Todavía ocupa una posición única en la intersección del punk, el noise rock y la psicodélica.
 
 ---

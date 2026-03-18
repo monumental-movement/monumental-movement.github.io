@@ -15,7 +15,7 @@ title: '[Columna] La edad de oro del techno británico'
 
 ## La edad de oro del techno británico: un registro de los sonidos y las luchas de los años 90
 
-Texto: mmr｜Tema: Cultura Techno del Reino Unido
+Texto: mmr｜Tema: Cultura tecno del Reino Unido
 
 
 <hora>
@@ -64,7 +64,7 @@ Aunque son más IDM que techno puro, representan el lado intelectual del techno 
 
 [**● Registros Warp (Sheffield)**](https://amzn.to/3L81dp5)
 
-Al principio, lanzaron techno con sonido alegre y luego se mudaron a la tierra santa del IDM. Incluye LFO, Nightmares on Wax, Autechre, The Black Dog y más.
+Al principio, lanzaron techno con sonido animado y luego se mudaron a la tierra santa del IDM. Incluye LFO, Nightmares on Wax, Autechre, The Black Dog y más.
 
 [**● Hacia abajo (Birmingham)**](https://amzn.to/4ocHKSr)
 
@@ -189,4 +189,4 @@ El techno creó poesía a partir de las reverberaciones de la industria, present
 
 🔗 [[Columna] Luke Slater: El pionero del techno británico y su mundo musical](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)

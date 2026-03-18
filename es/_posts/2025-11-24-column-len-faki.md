@@ -67,7 +67,7 @@ Tomamos las pistas características de Len Faki y las analizamos en detalle, inc
 
 #### información básica
 - BPM: 125
-- Tonalidad: sol mayor
+- Tonalidad: Sol mayor
 - Lanzamiento: CD de mezcla de Berghain 03 incluido, 2009
 
 #### Estructura y ritmo de la canción.
@@ -89,7 +89,7 @@ A menudo se usa desde la mitad hasta el final de una serie y es la pista princip
 
 #### información básica
 - BPM: 129
-- Tonalidad: sol mayor
+- Tonalidad: Sol mayor
 - Duración: Aproximadamente 8 minutos 15 segundos
 
 #### Estructura y ritmo de la canción.
@@ -133,7 +133,7 @@ Se utiliza para mantener la ranura en medio de una serie o tomar un descanso en 
 
 #### información básica
 - BPM: 125
-- Tonalidad: Sol menor
+- Tonalidad: sol menor
 - Duración: Aproximadamente 8 minutos 44 segundos
 
 #### Estructura y ritmo de la canción.
@@ -154,7 +154,7 @@ Esta es una pista importante que crea picos emocionales y momentos de calma desd
 
 #### información básica
 - BPM: estimado alrededor de 128
-- Tonalidad: La menor estimada
+- Clave: Estimado La menor
 - Estructura: Produce una sensación futurista con ritmos mecánicos y sintetizadores.
 
 #### Estructura y ritmo de la canción.
@@ -225,5 +225,14 @@ timeline
 Len Faki es el vínculo entre la tradición y el futuro del techno berlinés.
 Sus pistas y sets tienen una presentación espacial y edificante calculada que crea una experiencia única en la pista.
 Continuaremos atentos a sus actividades y a la próxima generación de artistas que está alimentando.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXu5QMs-uNY?si=JHJzUctjx0vi_1lq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---

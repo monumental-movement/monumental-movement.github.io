@@ -65,7 +65,7 @@ La música era un símbolo de modernización y al mismo tiempo funcionaba como p
 En la segunda mitad del siglo XX, la educación musical cambió su enfoque del entrenamiento de habilidades a actividades expresivas.
 Los métodos educativos que enfatizan la independencia de los niños, como los métodos Orff, Kodály y Suzuki, se han vuelto populares a nivel internacional.
 
-> Los cambios en los planes de estudio de música reflejan cambios en los roles que la sociedad espera de los niños.
+> Los cambios en el plan de estudios de música reflejan cambios en los roles que la sociedad espera de los niños.
 
 ---
 
@@ -75,7 +75,7 @@ Los métodos educativos que enfatizan la independencia de los niños, como los m
 Además de la educación escolar, la educación musical arraigada en las comunidades locales existe desde hace mucho tiempo.
 Las canciones populares, la música de festivales y la música religiosa se han preservado mediante la transmisión intergeneracional y el apoyo a la memoria comunitaria.
 
-La cultura de las bandas de música europeas es un ejemplo típico de educación musical en la clase trabajadora durante la Revolución Industrial.
+La cultura europea de las bandas de música es un ejemplo típico de educación musical en la clase trabajadora durante la Revolución Industrial.
 Las fábricas y organizaciones locales proporcionaron instrumentos y, a través de actuaciones en conjunto, se fomentó la disciplina y la solidaridad.
 
 En América Latina y África, la educación musical a menudo se lleva a cabo fuera de la escuela y se ha mantenido una cultura que enfatiza la expresión física y la improvisación.

@@ -18,7 +18,7 @@ title: '[Columna] Apocalipsis de imágenes y sonidos: “Koyanisqatsi” y el mu
 ## Prólogo: Lo que dice una película sin palabras
 
 
-Texto: mmr｜Tema: Sobre el hito artístico de la segunda mitad del siglo XX, donde se fusionaron imágenes y música minimalista.
+Texto: mmr｜Tema: Sobre el hito artístico de la segunda mitad del siglo XX, donde se fusionaron el vídeo y la música minimalista.
 
 "Koyanisqatsi, dirigida por Godfrey Reggio y con música de Philip Glass, es una obra que cambió fundamentalmente los horizontes del cine y la música en la segunda mitad del siglo XX."
 
@@ -82,7 +82,7 @@ De hecho, el proceso de producción de Reggio y Glass implicó una edición en l
 El director de fotografía Ron Fricke también es un poeta visual que luego trabajó en "Baraka" y "Samsara".
 La técnica de fotografía a intervalos y cámara lenta que desarrolló todavía era poco común en ese momento.
 
-La película comenzó como una producción completamente independiente, sin apoyo estatal ni corporativo.
+La película comenzó como una producción completamente independiente, sin apoyo estatal ni empresarial.
 También es de destacar que, en medio de dificultades financieras, se adoptó un proceso inverso en el que primero solo se completó la música y luego se editó el video.
 
 ---
@@ -123,10 +123,10 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 | ----------- | -------- | ---------- |
 | Desierto y lanzamiento de cohetes | Sonido de órgano sostenido | Contraste entre vida y máquina |
 | Transporte urbano/fábricas | Repetición de secuencias | Ciclo laboral interminable |
-| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la recuperación de la humanidad |
+| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la restauración de la humanidad |
 | Cohete que colapsa | Silencio y decadencia | Fin de la civilización y renacimiento |
 
-Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" del vídeo.
+Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.
 
 ---
 

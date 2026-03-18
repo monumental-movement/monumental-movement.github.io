@@ -66,7 +66,7 @@ Aproximadamente a partir de 2008, el dubstep se extendió más allá del undergr
 
 ---
 
-- **Break in America**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
+- **Ruptura en América**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
 
 
 - **Cultura del remix**: los elementos del dubstep se incorporaron al pop, el rock y el hip-hop, ganando una amplia gama de oyentes.

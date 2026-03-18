@@ -15,7 +15,7 @@ title: '[Columna] La intersección del hard rock, la filosofía oriental y el mi
 
 ## “Oeste” y “Este” escondidos en el rock duro
 
-Texto: mmr｜Tema: Explorando la relación entre el hard rock, la filosofía oriental y el misticismo a través de los ejemplos de Led Zeppelin y Deep Purple
+Texto: mmr | Tema: Explorando la relación entre el hard rock, la filosofía oriental y el misticismo a través de los ejemplos de Led Zeppelin y Deep Purple.
 
 El hard rock es un género importante de rock que explotó desde finales de los años 1960 hasta los años 1970. Su musicalidad se caracteriza por su audaz incorporación de la filosofía oriental y elementos místicos, además del machismo y la fuerza occidentales.
 

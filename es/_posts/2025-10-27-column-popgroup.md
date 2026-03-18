@@ -75,7 +75,7 @@ Los miembros tienen entre 10 y 20 años.
 **Dan Catsis (bajo)**, **John Waddington (guitarra)** fueron los jugadores principales.
 
 A diferencia de los punks londinenses, eran conscientes de ser **políticos y artísticos**.
-Su álbum debut, ``**Y**'' (1979), era una herejía de herejía incluso en ese momento.
+Su álbum debut ``**Y**'' (1979) fue una herejía entre los herejes incluso en ese momento.
 El desorden del free jazz, el deep space del dub, el impulso destructivo del punk...
 Estos se cruzan como **poemas socialmente críticos y gritos poéticos**.
 
@@ -127,7 +127,7 @@ Desde la década de 2000, ha sido reevaluado en medio de la tendencia de resurgi
 Especialmente desde 2005, después de las **reuniones de Gang of Four y Wire**,
 También reanudaron sus actividades en 2010. En 2015, lanzó su nuevo trabajo "Citizen Zombie".
 
-Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más claro que antes.
+Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más agudo que antes.
 Para ellos, la "reunión" no era una cuestión de nostalgia, sino de "continuación de la resistencia".
 
 > “No dejas de estar enojado porque pasa el tiempo”.
@@ -226,6 +226,6 @@ Esa actitud sigue influyendo en la cultura underground no sólo en Bristol sino 
 
 > “Esto no es entretenimiento, esto es resistencia”.
 
-Sus gritos todavía resuenan en el silencio.
+Sus gritos aún resuenan en el silencio.
 
 ---

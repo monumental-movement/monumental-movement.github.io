@@ -21,7 +21,7 @@ title: '[Columna] Desierto de ruidos: desde la escena de Texas de la década de 
 Texto: mmr｜Tema: De Charalambides a Black Leather Jesus, rastreando la genealogía del sonido experimental sureño: el ruido de Texas en la década de 2000 y su estado actual
 
 
-Fue desde finales de los años 1990 hasta principios de los años 2000 cuando la música conocida como noise echó raíces en el vasto paisaje del sur de Estados Unidos.
+Fue desde finales de la década de 1990 hasta principios de la de 2000 cuando la música noise echó raíces en el vasto paisaje del sur de Estados Unidos.
 Mientras Nueva York y Los Ángeles eran "ciudades de arte" que desarrollaron la música noise en galerías de arte y clubes clandestinos, Texas desarrolló su gramática como un lugar de aislamiento geográfico y experimentación personal.
 
 Houston, Austin y San Antonio: estas ciudades pueden ser las "patrias del country y el blues" en la superficie, pero detrás de escena se cultivaba silenciosamente el collage de cintas, la no música y los drones.

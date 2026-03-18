@@ -38,7 +38,7 @@ color: #fff;
 
 ## Décadas de 1970 y 1980: el nacimiento del hip-hop y sus inicios dorados
 
-* **Productor/DJ representante**: DJ Kool Herc, Grandmaster Flash, Afrika Bambaataa
+* **Productores/DJ representativos**: DJ Kool Herc, Grandmaster Flash, Afrika Bambaataa
 * **Disqueras principales**: Sugar Hill Records, Def Jam (finales de los 80)
 * **Antecedentes culturales**: Nacido de la cultura de fiesta de las comunidades negras y latinas en el Bronx. El rap, el DJ, el breakdance y el graffiti se unieron para formar una cultura hip-hop.
 * **Video/Moda**: MV de bajo presupuesto, Adidas, Kangol y cadenas de oro son simbólicos.

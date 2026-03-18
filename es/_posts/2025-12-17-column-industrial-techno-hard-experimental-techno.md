@@ -21,7 +21,7 @@ title: '[Columna] Techno industrial / Techno experimental duro'
 Texto: mmr｜Tema: Techno industrial/estructura experimental dura, historia y tecnología acústica
 
 
-Industrial Techno / Hard Experimental Techno es una forma musical que pone en primer plano los materiales acústicos, la presión del sonido, la distorsión y el ruido mientras conserva la estructura temporal repetitiva del techno. Este género se diferencia de una perspectiva musical centrada en la expresión emocional y la melodía, y se ha construido en torno a las propiedades físicas del propio sonido y el control del tiempo a través de la repetición.
+Industrial Techno / Hard Experimental Techno es una forma musical que pone en primer plano los materiales acústicos, la presión del sonido, la distorsión y el ruido mientras conserva la estructura temporal repetitiva del techno. Este género se diferencia de una perspectiva musical centrada en la expresión emocional y la melodía, y se ha construido en torno a las propiedades físicas del sonido mismo y el control del tiempo a través de la repetición.
 
 Esta tendencia no es sólo "música de club intensa". Fue creado como resultado de adaptar las ideas de orientación material, impersonalidad y superioridad estructural que se han cultivado durante muchos años en la música industrial, la EBM, el ruido y la música electrónica experimental al espacio estrictamente funcional de la pista de baile.
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ## 1. Prehistoria histórica: la unión de la música industrial y el techno
 
-La música industrial que surgió a finales de la década de 1970 destruyó intencionalmente la premisa musical moderna de tono, melodía y armonía musicales, y trató materiales no musicales como sonidos metálicos, ruido, sonidos mecánicos y bucles de cinta como unidades estructurales. Esta idea de "convertir el material mismo en música" se convirtió en la base del diseño sonoro posterior del Industrial Techno.
+La música industrial que surgió a finales de la década de 1970 destruyó intencionalmente la premisa musical moderna de tonos, melodías y armonía musicales, y trató materiales no musicales como sonidos metálicos, ruido, sonidos mecánicos y bucles de cinta como unidades estructurales. Esta idea de "convertir el material mismo en música" se convirtió en la base del diseño sonoro posterior del Industrial Techno.
 
 Por otro lado, el techno, que surgió en la década de 1980, se caracteriza por la repetición, la sincronización y el tiempo cuadriculado, y se ha desarrollado en la dirección de eliminar las fluctuaciones humanas. Industrial Techno nació combinando directamente la estructura temporal del techno con la orientación material de la música industrial.
 

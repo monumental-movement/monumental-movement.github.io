@@ -13,7 +13,7 @@ title: Chew-Fu Phat – ¿Por qué no podemos cambiar?
 ---
 
 
-Chew Fu, también conocido como Chew-Fu Phat, es un productor/remezclador/DJ nacido en Holanda y radicado en Nueva York. También ha creado remixes oficiales para artistas pop como Lady Gaga, Rihanna, Timbaland, Far East Movement y Robin.
+Chew Fu, también conocido como Chew-Fu Phat, es un productor/remezclador/DJ nacido en Holanda que vive en Nueva York. También ha creado remixes oficiales para artistas pop como Lady Gaga, Rihanna, Timbaland, Far East Movement y Robin.
 
 Chew Fu se caracteriza por un estilo original que mezcla electro house y hip hop. Sus otros nombres incluyen DJ Mac Attack, Pay Tur P.K. y Phantom 309.
 

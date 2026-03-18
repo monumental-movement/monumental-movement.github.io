@@ -71,7 +71,7 @@ Lo que sonaba aquí era el sonido del "Nuevo Romántico" envuelto en brillo elec
 Cars de Gary Numan se convirtió en un himno a la soledad urbana, y Depeche Mode retrató las frustraciones de la juventud con los sonidos inorgánicos de las zonas industriales.
 Mientras tanto, New Order trasciende la tragedia de Joy Division y se dirige a la pista de baile, fusionando lo electrónico y lo físico con "Blue Monday".
 Neil Tennant de Pet Shop Boys dijo: "Los sintetizadores son máscaras para ocultar tus emociones".
-El synthpop fue verdaderamente la "estética de la soledad" de los años 80.
+El synthpop fue verdaderamente la "estética de la soledad" de los años 1980.
 
 ---
 
@@ -126,7 +126,7 @@ El synth pop japonés ha madurado como una "traducción" más que como una mera 
 
 El impacto de YMO se extendió a través del océano y llegó a muchos artistas.
 Daft Punk elogió el diseño de sonido de Ryuichi Sakamoto en entrevistas, y su sentido de la melodía está claramente influenciado por el minimalismo japonés.
-"Kid A" de Radiohead es un desarrollo introspectivo de la idea de YMO de "representar emociones con sonidos electrónicos".
+``Kid A'' de Radiohead es un trabajo que desarrolla aún más de manera introspectiva la idea de ``representar emociones con sonidos electrónicos'' presentada por YMO.
 "Todo en su lugar" es frío y hermoso, como si los fantasmas de "BGM" y "Technodelic" hubieran vuelto a la vida.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -149,9 +149,9 @@ Estas no eran herramientas para la "precisión", sino pinceles utilizados para r
 Algo mecánico puede ser emocional: ese es el encanto paradójico del synthpop.
 
 En el siglo XXI, "la estética de la imperfección" está siendo reevaluada.
-La voz vacilante de Grimes, el procesamiento vocal de inteligencia artificial de Charli XCX y la combinación de idiomas nativos de Yaeji.
+La voz vacilante de Grimes, el procesamiento vocal de IA de Charli XCX y la combinación de idiomas nativos de Yaeji.
 Todo esto demuestra que los "sonidos imperfectos" transmiten humanidad.
-A medida que avanza la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
+A medida que evoluciona la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -250,7 +250,7 @@ flowchart TD
 
 - **P1. ¿Cuál es la diferencia entre synth pop y techno pop? **
 
-A1. El synthpop es un género que incorpora sonidos electrónicos en canciones pop y el tecnopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
+A1. Synthpop es un género que incorpora sonidos electrónicos en canciones pop y technopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
 
 - **P2. ¿Quiénes son los artistas de synth pop representativos de los años 80? **
 
@@ -260,7 +260,7 @@ A2. Los ejemplos incluyen Depeche Mode, New Order, Pet Shop Boys y Human League.
 
 A3. El espíritu experimental de YMO y Ryuichi Sakamoto influyó en Daft Punk y Radiohead, y se convirtió en el origen de la "humanidad electrónica" en la era de la IA.
 
-- **P4. ¿Cuáles son las características del neo-synth pop de los últimos años? **
+- **P4. ¿Cuáles son las características del neo-synthpop de los últimos años? **
 
 A4. El punto es que incorporamos activamente “distorsión digital” como el hiper pop y la música AI. Charli XCX y Grimes son ejemplos de ello.
 

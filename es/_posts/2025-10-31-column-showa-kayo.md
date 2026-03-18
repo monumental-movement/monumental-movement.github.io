@@ -25,7 +25,7 @@ Texto: mmr｜Tema: Las canciones showa y el pop se fusionan con la cultura de In
 En la década de 2020, etiquetas como "Showa Retro", "Showa Kayo" y "Pop japonés de los 80" se están extendiendo explosivamente en las redes sociales y los servicios de streaming en todo el mundo.
 Fue un evento simbólico que "Midnight Door~Stay With Me" de Miki Matsubara y "Ride on Time" de Tatsuro Yamashita aparecieran repentinamente en las listas globales de Spotify.
 
-Sin embargo, este "renacimiento del pop Showa" no es sólo un pasatiempo nostálgico. Más bien, es un **redescubrimiento de sensaciones analógicas en la era digital** y un nuevo fenómeno cultural de **"compartir emocional"** global.
+Sin embargo, este "renacimiento del pop Showa" no es sólo un pasatiempo nostálgico. Más bien, es un **redescubrimiento de sensaciones analógicas en la era digital** y un nuevo fenómeno cultural de **"compartir emociones"** global.
 
 En este artículo, exploraremos cómo las canciones Showa resuenan en el extranjero y cómo se reciben y reconstruyen.
 Lo exploraremos desde múltiples ángulos, incluidos 1) antecedentes históricos, 2) entorno mediático, 3) estructura de recepción en el extranjero y 4) perspectivas de traducción musical.
@@ -53,7 +53,7 @@ La gama es extremadamente amplia, desde los sentimientos tipo enka de Hibari Mis
 
 Sin embargo, lo que tienen en común es la "creencia en la melodía" y el "romanticismo a la sombra de los tiempos".
 Las canciones showa, que crecieron junto con el crecimiento económico de la posguerra, establecieron un "eje coordinado emocional" en la vida de las personas.
-Por ejemplo, las melodías de Takashi Miki tienen un sentido de nostalgia y los arreglos de Kyohei Tsutsumi tienen un sueño de la ciudad. **
+Por ejemplo, las melodías de Takashi Miki tienen un sentido de nostalgia y los arreglos de Kyohei Tsutsumi tienen sueños urbanos. **
 
 Esta “reverberación de los sueños” se convertirá más tarde en el motor que atraerá a los jóvenes extranjeros.
 
@@ -76,7 +76,7 @@ En el extranjero, se ha traducido como "pop retrofuturista" y "nostalgia estéti
 ## Capítulo 3: Vaporwave y la ilusión de la era Showa
 
 Vaporwave es un movimiento artístico que surgió de la cultura estadounidense de los tablones de anuncios de Internet a principios de la década de 2010.
-Los viejos anuncios japoneses, los gráficos digitales de los años 1980 y las imágenes sonoras distorsionadas de los casetes han sido reconstruidos como las "reverberaciones" de la sociedad de consumo.
+Los viejos anuncios japoneses, los gráficos digitales de los años 80 y las imágenes sonoras distorsionadas de los casetes se han reconstruido como las "reverberaciones" de la sociedad de consumo.
 
 No es casualidad que las melodías y sonidos de las canciones de Showa se fusionaran aquí de forma natural.
 **Reverberación suave, dulzura urbana y romanticismo excesivo. **

@@ -76,7 +76,7 @@ Los BPM de Glitchcore no son fijos y, a menudo, fluctúan en un amplio rango de 
 **Elementos característicos:**
 
 * Cambios de tempo extremos
-* Edición que de repente cambia a una canción diferente en medio de una canción.
+* Edición que de repente pasa a otra canción en medio de la canción.
 * Ganchos cortos y melodías fragmentadas.
 *Céntrese en ganchos fuertes de 15 a 30 segundos para TikTok
 
@@ -110,7 +110,7 @@ Glitchcore utiliza activamente recortes y crujidos que pueden evitarse en la pro
 
 ---
 
-### 2-4　Reinterpretación de la estructura pop
+### 2-4 Reinterpretación de la estructura pop
 
 A pesar de la perturbadora acústica, las melodías suelen ser "muy pop" y fáciles de recordar. Ésta es la esencia de Glitchcore; No es sólo música noise, sino un género que vierte efectos sobrecargados en un recipiente pop.
 

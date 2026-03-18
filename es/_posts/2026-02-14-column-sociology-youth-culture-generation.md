@@ -21,7 +21,7 @@ title: '[Columna] ¿El género musical que escuchas en tu juventud influye en tu
 
 Texto: mmr｜Tema: Verificación de los efectos a largo plazo de la música escuchada durante la adolescencia y la juventud sobre los valores, las opiniones profesionales y la participación social utilizando datos de investigaciones empíricas de varios países.
 
-Cuando muchas personas recuerdan un momento determinado de sus vidas, evocan recuerdos fuertemente asociados con una música específica. No es sólo nostalgia. La psicología y la neurociencia han demostrado repetidamente que las experiencias desde finales de la adolescencia hasta principios de los 20 tienden a convertirse en la base de nuestro autoconcepto y juicios de valor.
+Cuando muchas personas recuerdan un determinado momento de sus vidas, evocan recuerdos fuertemente asociados con una música específica. No es sólo nostalgia. La psicología y la neurociencia han demostrado repetidamente que las experiencias desde finales de la adolescencia hasta principios de los 20 tienden a convertirse en la base de nuestro autoconcepto y juicios de valor.
 
 Durante este período, la amígdala, responsable del procesamiento emocional, y el circuito de dopamina, responsable del sistema de recompensa, están particularmente activos, lo que hace que los niños sean muy sensibles a nuevos estímulos. Debido a que la música estimula simultáneamente emociones, pertenencia social y sensaciones físicas, queda más profundamente impresa en nuestra memoria que otros elementos culturales.
 
@@ -59,11 +59,11 @@ Es importante destacar que los "gustos formativos" tienen una correlación más 
 
 ## Capítulo 2: Efectos sobre las elecciones educativas y profesionales
 
-Estudios longitudinales de varios países han demostrado que la participación en la cultura musical en los primeros años de vida está estadísticamente asociada con las elecciones educativas y profesionales en la edad adulta. El tamaño de la muestra oscila entre unos pocos miles y 10.000 personas y se ha seguido durante más de 10 años.
+Estudios longitudinales de varios países han demostrado que el nivel de participación en la cultura musical en la vida temprana está estadísticamente asociado con las elecciones educativas y profesionales en la edad adulta. El tamaño de la muestra oscila entre unos pocos miles y 10.000 personas y se ha seguido durante más de 10 años.
 
 Aquellos familiarizados con la cultura musical experimental y antisistema tienen más probabilidades de dedicarse a campos de creatividad y discreción, como el arte, la investigación, la informática y los medios. Por otro lado, quienes escuchaban principalmente géneros comerciales y tradicionales tendían a tener empleos con alta estabilidad institucional.
 
-Debido a que esta relación se mantiene incluso después de controlar por el entorno familiar y los antecedentes educativos, se interpreta que la cultura musical tiene una influencia independiente sobre los valores y las aspiraciones profesionales.
+Debido a que esta relación se mantiene incluso después de controlar el entorno familiar y los antecedentes educativos, se interpreta que la cultura musical tiene una influencia independiente sobre los valores y las aspiraciones profesionales.
 
 > La cultura musical no determina directamente las trayectorias profesionales, sino que determina las prioridades de las elecciones.
 
@@ -81,7 +81,7 @@ Es importante que la música desempeñe un papel en el aprendizaje de formas de 
 
 ---
 
-## Capítulo 4: Análisis de género ① Rock
+## Capítulo 4: Análisis por género ① Rock
 
 El rock ha estado fuertemente asociado con la cultura juvenil desde la década de 1950. La generación que escuchaba principalmente música rock en su juventud tiende a considerar positivamente la autoexpresión y las actitudes antiautoridad.
 
@@ -225,35 +225,41 @@ Esta columna se construye con base en las siguientes investigaciones empíricas,
 ### Gusto musical y personalidad/psicología
 
 ・Rentfrow, P. J. y Gosling, S. D. (2003) Preferencias musicales y rasgos de personalidad. Revista de Personalidad y Psicología Social.
+
 ・Rentfrow, P. J., et al. (2011) La estructura de las preferencias musicales. Revista de Personalidad y Psicología Social.
+
 ・North, A. C. y Hargreaves, D. J. (2008) La psicología social y aplicada de la música.
 
 ### Memoria de la primera infancia/psicología del desarrollo
 
 ・Rubin, D. C., Rahhal, T. A. y Poon, L. W. (1998) Las cosas aprendidas en la edad adulta temprana se recuerdan mejor. Memoria y cognición.
+
 ・Arnett, J. J. (2000) Adultez emergente: una teoría del desarrollo desde finales de la adolescencia hasta los años veinte. Psicólogo americano.
 
 ### Cultura musical y comportamiento social/participación política
 
 ・Street, J. (2012) Música y política.
+
 ・Bennett, A. (2001) Culturas de la música popular.
+
 ・Frith, S. (1996) Música e identidad.
 
 ### Educación/elección ocupacional y capital cultural
 
 ・Bourdieu, P. (1984) Distinción: una crítica social del juicio del gusto.
+
 ・Savage, M., et al. (2013) Un nuevo modelo de clase social. Sociología.
 
 ### Encuesta de largo plazo por país y generación
 
 ・Encuesta social general (encuesta social a largo plazo de EE. UU.)
+
 ・Encuesta social europea
+
 ・Encuesta de valores mundiales
 
-### Investigación sobre la cultura y la generación de la música japonesa.
+### Investigación sobre generación y cultura musical japonesa.
 
-・Mia Nakamura (2001) Sociología de la subcultura y la cultura juvenil.
-・Toshiya Yoshimi (1994) Dramaturgia urbana.
 ・Encuesta de opinión pública sobre cultura realizada por la Agencia de Asuntos Culturales (cada año).
 
 > Este artículo se basa en una tendencia de investigación que considera la relación entre los géneros musicales y el comportamiento social como un efecto acumulativo más que determinista.

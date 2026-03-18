@@ -126,7 +126,7 @@ Desde la década de 2000, se ha formado una interpretación japonesa única del 
 
 ---
 
-## 9. Reevaluación y presente: el legado del hardcore
+## 9. La reevaluación y el presente: el legado del hardcore
 
 Desde la década de 2010, el hardcore de los 90 ha estado sujeto a una reevaluación. Elementos que alguna vez fueron evitados porque eran excesivos ahora se ven más como un elemento de sinceridad.
 

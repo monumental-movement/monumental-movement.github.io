@@ -100,7 +100,7 @@ Una presencia importante en la cultura underground de los DJ de Noruega.
 
 Con una selección musical única basada en su extensa colección de discos, conecta libremente música disco, jazz, afro, house y experimental.
 
-Conocido como un DJ que rompe barreras de género, aporta un elemento eléctrico al trabajo de Mungolian Jet Set.
+Conocido como un DJ que rompe las barreras del género, aporta un elemento eléctrico al trabajo de Mungolian Jet Set.
 
 ---
 

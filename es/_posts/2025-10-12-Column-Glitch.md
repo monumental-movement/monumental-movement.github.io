@@ -198,7 +198,7 @@ color: #fff;
 
 #### Discografía de Glitch que debes escuchar
 
-| Año | Artista | Título del trabajo (enlace de Amazon) | Notas |
+| Año | Artista | Título de la obra (enlace de Amazon) | Notas |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Óvalo | [94diskont](https://amzn.to/47k6D9b) | Monumento de “CD Kuon” |
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | El pináculo de la acústica minimalista |

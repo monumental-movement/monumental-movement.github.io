@@ -66,7 +66,7 @@ C --> D[共同体意識]
 
 ### Interiorización de la fe y el sonido.
 
-En una época en la que la religión era la norma central de la sociedad, la música era un medio importante para internalizar la fe. La única melodía del canto gregoriano está diseñada para suprimir las emociones del individuo y fomentar la inmersión en Dios. Los cantos budistas alinean la respiración y las vocalizaciones, cambiando las propias sensaciones físicas del practicante. En la recitación del Corán islámico, la melodía y el significado están inseparablemente vinculados, y el acto de escuchar en sí mismo se convierte en una práctica de fe.
+En una época en la que la religión era la norma central de la sociedad, la música era un medio importante para internalizar la fe. La única melodía del canto gregoriano está diseñada para suprimir las emociones del individuo y fomentar la inmersión en Dios. Los cantos budistas alinean la respiración y las vocalizaciones, cambiando las propias sensaciones físicas del practicante. En el Islam, al recitar el Corán, la melodía y el significado están inseparablemente unidos, y el acto de escuchar en sí se convierte en una práctica de fe.
 
 Estas músicas funcionan más allá del gusto personal. Al escucharla repetidamente, cantarla y dejar que se filtre en tu cuerpo, la fe se arraiga en tu interior como un requisito previo, en lugar de algo de lo que se pueda dudar. La música era un dispositivo de traducción que transformaba la doctrina externa en una voz interna.
 

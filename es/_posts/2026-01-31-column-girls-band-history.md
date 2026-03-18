@@ -21,7 +21,7 @@ Texto: mmr｜Tema: Cómo las mujeres han actualizado la historia de la música e
 
 
 
-En la historia del rock y el pop, las bandas de chicas se han considerado durante mucho tiempo una anomalía. Sin embargo, en realidad, las bandas exclusivamente femeninas han acumulado sus propias expresiones únicas mientras compiten constantemente con las instituciones, la tecnología y las normas sociales de la época. Las bandas de chicas no se clasifican simplemente por género, sino que son un conjunto de prácticas relacionadas con la producción, la interpretación y la autodeterminación.
+En la historia del rock y el pop, las bandas de chicas se han considerado durante mucho tiempo una anomalía. Sin embargo, en realidad, las bandas exclusivamente femeninas siempre han estado en conflicto con los sistemas, la tecnología y las normas sociales de la época, mientras construían sus propias expresiones únicas. Las bandas de chicas no se clasifican simplemente por género, sino que son un conjunto de prácticas relacionadas con la producción, la interpretación y la autodeterminación.
 
 Incluso antes del desarrollo de la industria musical, las mujeres actuaban en conjuntos en sus hogares y en las comunidades locales. En el siglo XX, con el establecimiento de la industria discográfica y la cultura del live house, la mera presencia de las mujeres en público como banda comenzó a adquirir significado social. Este artículo reconstruye estas tendencias como historia mundial.
 
@@ -46,9 +46,9 @@ color: #fff;
 
 ## Década de 1950 a 1960: la víspera del rock y el surgimiento de conjuntos de mujeres
 
-En la década de 1950, nació el rock and roll en los Estados Unidos y la forma de banda se convirtió en el centro de la cultura juvenil. Por otro lado, las músicas de la época solían estar a la vanguardia como cantantes y la interpretación la realizaban generalmente hombres. Un grupo que surgió como excepción fue un grupo exclusivamente femenino que tocaba instrumentos musicales.
+En la década de 1950, nació el rock and roll en los Estados Unidos y la forma de banda se convirtió en el centro de la cultura juvenil. Por otro lado, en aquella época las músicas a menudo aparecían como cantantes y la actuación la interpretaban generalmente hombres. Un grupo que surgió como excepción fue un grupo exclusivamente femenino que tocaba instrumentos musicales.
 
-Las Shirelles y las Ronettes, que aparecieron en 1964, eran técnicamente grupos vocales, pero como colectivos dominados por mujeres tuvieron una fuerte influencia en sus sucesores. Finalmente, a finales de la década de 1960, la visión de mujeres tocando guitarras y baterías se hizo visible gradualmente en la costa oeste de los Estados Unidos y en Inglaterra.
+Las Shirelles y las Ronettes, que aparecieron en 1964, eran técnicamente grupos vocales, pero como colectivo dominado por mujeres tuvieron una fuerte influencia en sus sucesores. Finalmente, a finales de la década de 1960, se empezó a ver a mujeres tocando guitarras y baterías en la costa oeste de Estados Unidos y el Reino Unido.
 
 <div class="mermaid">
 flowchart LR

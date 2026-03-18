@@ -15,7 +15,7 @@ title: '[Columna] Tatsuro Yamashita: Estética analógica y cambios en el sonido
 ---
 
 
-## Entorno de producción, equipo, métodos de grabación, cultura del estudio, especificaciones de los medios.
+## Entorno de producción, equipos, métodos de grabación, cultura del estudio, especificaciones de los medios.
 
 Texto: mmr｜Tema: De la era del city pop a los últimos trabajos, sobre la filosofía sonora seguida por la “gente discográfica”
 
@@ -170,7 +170,7 @@ A lo largo de la década de 2020, se han remasterizado muchas obras de la era an
 
 Incluso en la remasterización, Tatsuro ha dejado claro que no le gusta cambiar el sonido.
 
-### ▼ Funciones remasterizadas
+### ▼ Características de la remasterización
 - Reproduce fielmente la cinta original.
 - Sin ecualización extrema
 - No aumentar la presión sonora de forma poco natural (rechazar la guerra de sonoridad)

@@ -15,7 +15,7 @@ title: Contornos hazaña. RZA –Ahora que soy libre / Este mundo
 
 "Now That I'm Free" es una canción del trío francés Outlines y RZA (Wu-Tang Clan). Además del ritmo maravilloso y la melodía atractiva, esta canción presenta la interpretación vocal de Outlines y RZA con un mensaje positivo sobre la liberación y la libertad.
 
-"This World" también es una canción de colaboración entre Outlines y RZA, y esta canción envía un mensaje sobre el estado actual del mundo y los problemas sociales. Esta canción combina un sonido melodioso y una letra poderosa.
+"This World" también es una canción de colaboración entre Outlines y RZA, y esta canción envía un mensaje sobre el estado actual del mundo y los problemas sociales. Esta canción es una combinación de sonido melodioso y letras poderosas.
 
 #### Lista de canciones
 ```md

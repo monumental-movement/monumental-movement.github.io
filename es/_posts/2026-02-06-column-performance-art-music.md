@@ -46,11 +46,11 @@ color: #fff;
 </style>
 
 
-## Capítulo 1: El futurismo y la liberación del ruido
+## Capítulo 1: El futurismo y la liberación de ruido
 
 En Italia, a principios del siglo XX, la rápida industrialización y urbanización estaban cambiando el entorno sensorial de la gente. Los sonidos de las máquinas de vapor, de los motores de combustión interna y de las fábricas llenaron la ciudad con una presión y una persistencia sonoras inimaginables en la música hasta entonces. Los artistas futuristas vieron este cambio como un progreso más que como una decadencia, y trataron activamente de afirmarlo desde el punto de vista artístico.
 
-El intonalmoli, concebido por Luigi Russolo, es un dispositivo que se centra en el timbre y la textura del ruido más que en el tono. El acto de tocar girando una manija y accionando una palanca se parecía más a operar una máquina que a tocar un instrumento musical, y causaba una fuerte impresión visual. El público escucha los sonidos y al mismo tiempo es testigo de los movimientos físicos de los artistas.
+El intonalmoli, concebido por Luigi Russolo, es un dispositivo que se centra en el timbre y la textura del ruido en lugar del tono. El acto de tocar girando una manija y accionando una palanca se parecía más a operar una máquina que a tocar un instrumento musical, y causaba una fuerte impresión visual. El público escucha los sonidos y al mismo tiempo es testigo de los movimientos físicos de los artistas.
 
 Ya aquí la música se presentaba no como algo que sólo se podía escuchar, sino como un acto completo en el escenario.
 
@@ -62,7 +62,7 @@ Ya aquí la música se presentaba no como algo que sólo se podía escuchar, sin
 
 Las actividades dadaístas no tienen un estilo o técnica unificada. Más bien, lo que se compartía era la desconfianza en el sistema de valores existente. En una velada en el Cabaret Voltaire, las lecturas de poesía se convirtieron en gritos, la música se disolvió en ruido y se interpusieron movimientos físicos repentinos.
 
-Es importante destacar que estos no fueron diseñados rigurosamente de antemano. La cadena de coincidencias, el estado de ánimo del intérprete y las reacciones del público se convirtieron en los elementos compositivos de la pieza. La música ya no es un objeto a reproducir, sino que se genera como un evento ad hoc.
+Es importante destacar que estos no fueron diseñados rigurosamente de antemano. La cadena de coincidencias, el estado de ánimo del intérprete y las reacciones del público se convirtieron en los elementos compositivos de la obra. La música ya no es un objeto a reproducir, sino que se genera como un evento ad hoc.
 
 Esta actitud se convirtió más tarde en el prototipo de estructuras abiertas en la música improvisada y el arte escénico.
 
