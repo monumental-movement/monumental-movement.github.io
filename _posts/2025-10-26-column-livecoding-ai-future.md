@@ -90,7 +90,6 @@ AIは無限の組み合わせを提供し、人間はそこに意味を見出す
 | **SuperCollider** | James McCartney | サウンド合成とアルゴリズム作曲の老舗環境 | AIモデルによるサウンドパラメータ制御が進行中 |
 | **Sonic Pi** | Sam Aaron | 教育・パフォーマンス両面を意識したRubyベース | 教育現場でAI補助コード例が活用 |
 | **Riffusion** | Seth Forsgrenら | スペクトログラムを生成する拡散モデル | AIそのものが音を直接生成 |
-| **Ocelot / Hydra** | 生成映像＋音の統合Live Coding環境 | 視覚と音のAI同期が可能 |
 
 ---
 

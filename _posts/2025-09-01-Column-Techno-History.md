@@ -86,7 +86,7 @@ image: ../assets/images/column-techno-history.webp
 - Ricardo Villalobos – *Alcachofa*（2003）  
 - Monolake – *Gravity*（2008）  
 - Kompakt – *Total* シリーズ（2000–）
-- Richie Hawtin – *DE9 | Closer to the Edit*（2001）  
+- Richie Hawtin – *DE9 / Closer to the Edit*（2001）  
 
 **機材**  
 - Ableton Live（2001–）  
