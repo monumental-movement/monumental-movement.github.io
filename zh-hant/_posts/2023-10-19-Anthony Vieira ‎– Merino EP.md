@@ -13,7 +13,7 @@ title: 安東尼維埃拉 – 美利奴 EP
 ---
 
 
-安东尼·维埃拉（Anthony Vieira）是由拉乌尔·德尔加多（Raoul Delgardo）和托尼·苏亚雷斯·维埃拉（Tony Soares Vieira）组成的团队。 「Anthony Vieira – Merino EP」由英國科技廠牌 Sheep Records 於 1999 年發行。
+安東尼·維埃拉（Anthony Vieira）是由拉烏爾·德爾加多（Raoul Delgardo）和托尼·蘇亞雷斯·維埃拉（Tony Soares Vieira）組成的團隊。 「Anthony Vieira – Merino EP」由英國科技廠牌 Sheep Records 於 1999 年發行。
 
 #### 曲目表
 ```md

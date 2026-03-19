@@ -10,21 +10,21 @@ tags:
 - Soundtrack
 - Anime
 - Jpop
-title: 【コラム】 久石譲とスタジオジブリ ― 音楽が紡いだ40年の物語
+title: '[Chronique] Joe Hisaishi et Studio Ghibli - 40 ans d''histoires musicales'
 ---
 
 
-## 序章：音楽が物語を動かすとき
+## Prologue : Quand la musique fait bouger l'histoire
 
 
-文：mmr｜テーマ：久石譲とスタジオジブリの協働史を、事実に基づいて振り返る長編コラム。名前の由来から主要サウンドトラックまで、40年に及ぶ音楽的軌跡をたどる
+Texte : mmr | Thème : Une longue chronique qui revient sur l'histoire de la collaboration entre Joe Hisaishi et le Studio Ghibli, à partir de faits. Retraçant 40 ans d'histoire musicale, de l'origine du nom à la bande originale
 
 
-日本映画史において、作曲家・久石譲（ひさいし じょう、英名 Joe Hisaishi）の存在は特異である。  
-彼の音楽は単なる「映画の伴奏」ではなく、作品世界そのものを形成する重要な構成要素として機能してきた。  
+Dans l’histoire du cinéma japonais, l’existence du compositeur Joe Hisaishi (nom anglais : Joe Hisaishi) est unique.
+Sa musique n'est pas seulement un « accompagnement de film », mais a fonctionné comme un élément important qui forme le monde de l'œuvre elle-même.
 
-1984年の『風の谷のナウシカ』以来、宮崎駿監督との協働によって築かれた音楽的宇宙は、アニメーション映画の文脈を越え、国際的な評価を得ている。  
-このコラムでは、久石譲の音楽的歩みとスタジオジブリ作品との関係を、事実に基づいて丁寧に辿る。
+Depuis Nausicaa de la Vallée du Vent en 1984, l'univers musical créé en collaboration avec le réalisateur Hayao Miyazaki a transcendé le contexte des films d'animation et a reçu une renommée internationale.
+Cette chronique retrace soigneusement la relation entre l'histoire musicale de Joe Hisaishi et les œuvres du Studio Ghibli, en s'appuyant sur des faits.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -44,152 +44,152 @@ color: #fff;
 </style>
 
 
-## 第1章：生い立ちと音楽的基盤
+## Chapitre 1 : Première vie et fondation musicale
 
-久石譲（本名：藤澤 守／ふじさわ まもる）は、1950年12月6日、長野県中野市に生まれた。  
-幼少期からピアノに親しみ、東京国立音楽大学作曲科で学んだ。学生時代には現代音楽、とりわけミニマル・ミュージックに関心を寄せ、スティーヴ・ライヒやフィリップ・グラスの影響を受けたとされる。
+Joe Hisaishi (vrai nom : Mamoru Fujisawa) est né le 6 décembre 1950 dans la ville de Nakano, préfecture de Nagano.
+Il se familiarise avec le piano dès son plus jeune âge et étudie au département de composition du Tokyo National College of Music. Au cours de ses études, il s'est intéressé à la musique contemporaine, en particulier à la musique minimale, et aurait été influencé par Steve Reich et Philip Glass.
 
-卒業後、藤澤守名義で現代音楽家として活動し、電子音響作品やテレビ番組用の楽曲を多数制作した。  
-この時期から、電子音と生演奏の融合という発想が芽生えており、それが後の映画音楽のスタイルに繋がる。
-
----
-
-## 第2章：名前の由来 ― 「久石譲（Joe Hisaishi）」誕生
-
-1970年代後半、藤澤守はポップスやCM音楽の分野でも活動を広げるなかで、芸名を使用し始めた。  
-その名が「久石譲（ひさいし じょう）」である。
-
-この名前は、アメリカの作曲家・プロデューサー **Quincy Jones（クインシー・ジョーンズ）** に敬意を表して考案されたと本人が公言している。  
-Quincy（クインシー）→ 日本語的発音「クインシー（kuinshi）」をもじり、「久石（ひさいし）」を当てたものとされ、  
-さらに「ジョーンズ（Jones）」の「ジョー」から “Joe” を取って、英語表記「Joe Hisaishi」となった。  
-この名義は1981年のアルバム『Information』で初めて正式に使用されている。
-
-> 「Quincy Jones のようにジャンルを超えた音楽をやりたいと思った。  
-> だから、自分の名前も“音楽の自由”を象徴するようなものにした。」  
-> ― 久石譲（NHK『SWITCHインタビュー』より）
+Après avoir obtenu son diplôme, il travaille comme musicien contemporain sous le nom de Mamoru Fujisawa, produisant de nombreuses œuvres acoustiques électroniques et chansons pour des programmes télévisés.
+À partir de cette période, l’idée de fusionner les sons électroniques et la musique live a commencé à émerger, ce qui conduirait au style de la musique de film ultérieure.
 
 ---
 
-## 第3章：『風の谷のナウシカ』（1984） ― 映像と音楽の初邂逅
+## Chapitre 2 : Origine du nom - Naissance de « Joe Hisaishi »
 
-1984年、徳間書店とトップクラフトによる映画『風の谷のナウシカ』の音楽担当に選ばれた久石は、  
-アニメーション音楽としては異例の、シンセサイザーと民族楽器を組み合わせた構成を採用した。  
+À la fin des années 1970, Mamoru Fujisawa a commencé à utiliser son nom de scène alors qu'il élargissait ses activités à la musique pop et à la musique commerciale.
+Son nom est Joe Hisaishi.
 
-当初、宮崎駿監督は「自然と機械の間の呼吸を感じさせる音楽」を求めたといわれる。  
-久石はそれに応え、リズムと音色で世界観を描く「環境音楽的アプローチ」を提示した。  
+Il a déclaré publiquement que le nom avait été inventé en l'honneur du compositeur et producteur américain **Quincy Jones**.
+Quincy → On dit que c'est un jeu sur la prononciation japonaise « kuinshi » et « hisaishi ».
+De plus, « Joe » a été tiré du « Joe » de « Jones », ce qui a donné la notation anglaise « Joe Hisaishi ».
+Ce nom a été utilisé officiellement pour la première fois sur l'album Information de 1981.
 
-メインテーマ「風の伝説」は、のちに久石の代表曲のひとつとなる。  
-この成功をきっかけに、宮崎と久石の長期的なコラボレーションが始まった。
-
----
-
-## 第4章：『天空の城ラピュタ』（1986） ― シンフォニック・スケールの確立
-
-1986年の『天空の城ラピュタ』では、久石はよりオーケストラ的なサウンドへと舵を切った。  
-ストリングスとブラスによる壮大な主題曲「君をのせて」は、国内外で高い評価を受ける。  
-
-この作品では、旋律の単純さと反復構造が巧みに設計されており、  
-ミニマル・ミュージックの理念をクラシカルな文脈に統合する試みが見られる。  
-
-『ラピュタ』は、ジブリ音楽における「感情の普遍性」を確立した作品といえる。
+> ``Je voulais faire une musique qui transcende les genres comme Quincy Jones.
+> C'est pourquoi j'ai choisi mon nom pour symboliser la « liberté musicale ». »
+> ― Joe Hisaishi (de la NHK « Interview SWITCH »)
 
 ---
 
-## 第5章：『となりのトトロ』（1988）と“時間の記憶”
+## Chapitre 3 : "Nausicaa de la Vallée du Vent" (1984) - La première rencontre entre le cinéma et la musique
 
-『となりのトトロ』は、宮崎駿作品の中でも特に音楽が物語と密接に結びついた例である。  
-久石は、ピアノ・木管・ストリングスを中心に、温かみのあるサウンドを作り上げた。  
+En 1984, Hisaishi est choisi pour se charger de la musique du film « Nausicaa de la vallée du vent » de Tokuma Shoten et Top Craft.
+La chanson utilise une combinaison de synthétiseurs et d'instruments ethniques, ce qui est inhabituel pour la musique d'animation.
 
-代表曲「さんぽ」や「風のとおり道」は、童謡的な明るさの中にほのかな哀愁を含み、  
-“子どもの時間”を音で表現している。  
+Au départ, le réalisateur Hayao Miyazaki aurait voulu « une musique qui vous ferait sentir le souffle entre la nature et les machines ».
+En réponse, Hisaishi a proposé une « approche musicale environnementale » qui dépeint une vision du monde à travers le rythme et le ton.
 
-この作品により、久石は「感情を音で語る作曲家」として広く認知されるようになった。
-
----
-
-## 第6章：『魔女の宅急便』（1989） ― 成長と都市のリズム
-
-1989年公開の『魔女の宅急便』では、ピアノとブラスを主体にした軽快なサウンドが特徴である。  
-物語の舞台が近代的なヨーロッパ都市であることから、久石はジャズやポップの要素を導入した。  
-
-この多様性は後年の作品にも影響を与え、久石の音楽語法が“ジャンルの越境”を志向していることを示した。
+Le thème principal, « Légende du vent », devint plus tard l'une des chansons emblématiques d'Hisaishi.
+Ce succès a marqué le début d'une collaboration à long terme entre Miyazaki et Hisaishi.
 
 ---
 
-## 第7章：『紅の豚』（1992） ― ロマンと郷愁の音楽
+## Chapitre 4 : "Castle in the Sky" (1986) - Etablissement de la gamme symphonique
 
-『紅の豚』では、1920〜30年代のヨーロッパ音楽を意識した作風が採用された。  
-メインテーマ「さくらんぼの実る頃」や劇中のワルツは、戦間期の情緒と浪漫を表現している。  
+Pour Castle in the Sky de 1986, Hisaishi s'est tourné vers un son plus orchestral.
+La magnifique chanson thème « Kimi wo Seite » interprétée par des cordes et des cuivres a reçu de nombreux éloges tant au niveau national qu'international.
 
-久石はこの作品で初めて「架空の時代音楽」を構築し、音楽が時代設定の一部として機能することを実証した。
+Dans cette pièce, la simplicité mélodique et la structure répétitive sont intelligemment conçues.
+Il y a une tentative d'intégrer les idées de musique minimale dans un contexte classique.
 
----
-
-## 第8章：『もののけ姫』（1997） ― オーケストラによる精神性の探求
-
-1997年、『もののけ姫』の音楽制作において、久石はフルオーケストラと合唱を用い、宗教的な深みを持つサウンドを構築した。  
-この作品は、自然と人間の共存をテーマにしており、久石の音楽もその理念を支える形で展開する。  
-
-混声合唱の使用、ティンパニの重厚な響き、そして静寂の配置は、久石の音楽語法の成熟を示す。  
-この年、久石は北野武監督『HANA-BI』の音楽も手がけ、同時期に異なる文脈で高い評価を得た。
+« Laputa » peut être considérée comme une œuvre qui a établi « l'universalité de l'émotion » dans la musique Ghibli.
 
 ---
 
-## 第9章：『千と千尋の神隠し』（2001） ― 世界的評価の確立
+## Chapitre 5 : « Mon voisin Totoro » (1988) et « Mémoire du temps »
 
-2001年、スタジオジブリ『千と千尋の神隠し』が公開され、久石の音楽は国際的に注目を集めた。  
-主題歌「いつも何度でも」（作曲：久石譲、歌：木村弓）は、第25回日本アカデミー賞最優秀音楽賞を受賞。  
+« Mon voisin Totoro » est un exemple des œuvres de Hayao Miyazaki dans lesquelles la musique est étroitement liée à l'histoire.
+Hisaishi a créé un son chaleureux centré autour du piano, des bois et des cordes.
 
-音楽は、旋律の透明感と「間（ま）」の美しさを特徴とし、物語の幻想性を高めている。  
-本作は2003年の米国アカデミー賞長編アニメーション部門で受賞し、久石の名が世界に広がった。
+Les chansons représentatives "Sanpo" et "Kaze no Torimichi" contiennent une légère mélancolie dans la gaieté des comptines.
+Le « temps des enfants » s’exprime à travers le son.
 
----
-
-## 第10章：『ハウルの動く城』（2004）以降 ― ワルツと円環の構造
-
-2004年の『ハウルの動く城』では、メインテーマ「人生のメリーゴーランド」が作品全体を貫く構造を持つ。  
-3拍子のワルツを基調とした旋律が、作品の“循環する時間”を象徴している。  
-
-続く『崖の上のポニョ』（2008）では、童謡的な純粋さを追求。  
-『風立ちぬ』（2013）では、静謐で抑制されたピアノ作品が特徴となった。  
-
-これらの作品を通じて、久石の音楽は「物語の内的時間」を支配する要素となっている。
+Grâce à ce travail, Hisaishi est devenu largement reconnu comme un « compositeur qui exprime des émotions à travers le son ».
 
 ---
 
-## 第11章：『君たちはどう生きるか』（2023） ― 音の抽象化と新たな挑戦
+## Chapitre 6 : « Kiki's Delivery Service » (1989) – Croissance et rythme urbain
 
-2023年公開の『君たちはどう生きるか』は、宮崎駿監督が10年ぶりに手がけた長編作品であり、  
-久石譲も再び音楽を担当した。  
+Kiki's Delivery Service, sorti en 1989, présente un son léger et aérien centré sur le piano et les cuivres.
+Puisque l'histoire se déroule dans une ville européenne moderne, Hisaishi a introduit des éléments de jazz et de pop.
 
-本作では、旋律よりも響きや質感を重視し、抽象的な音構造が採用されている。  
-久石はロンドン交響楽団を指揮し、録音・演奏の両面で高水準の音楽制作を実現した。  
-
-この作品は、久石が映画音楽とクラシック音楽の橋渡しを続けていることを示す最新例である。
+Cette diversité a influencé ses œuvres ultérieures, montrant que les idiomes musicaux d'Hisaishi étaient orientés vers le « franchissement des frontières des genres ».
 
 ---
 
-## 年表：久石譲 × スタジオジブリ 協働作品一覧
+## Chapitre 7 : "Porco Rosso" (1992) - Musique de romance et de nostalgie
 
-| 年 | 作品名 | 監督 | 主題曲・代表曲 | 備考 |
+« Porco Rosso » a adopté un style conscient de la musique européenne des années 1920 et 1930.
+Le thème principal « Quand les cerises mûrissent » et la valse de la pièce expriment l'émotion et le romantisme de l'entre-deux-guerres.
+
+Avec cette œuvre, Hisaishi a d'abord construit une « musique d'époque imaginaire » et démontré que la musique fonctionne comme partie intégrante du décor d'époque.
+
+---
+
+## Chapitre 8 : Princess Mononoke (1997) - Une exploration orchestrale de la spiritualité
+
+En 1997, lors de la création de la musique de Princess Mononoke, Hisaishi a utilisé un orchestre complet et un chœur pour créer un son d'une profondeur religieuse.
+Le thème de cette œuvre est la coexistence de la nature et des humains, et la musique d'Hisaishi se développe également d'une manière qui soutient cette idée.
+
+L'utilisation d'un chœur mixte, le son profond des timbales et le placement du silence montrent la maturité de la diction musicale d'Hisaishi.
+Cette année-là, Hisaishi compose également la musique de « HANA-BI » de Takeshi Kitano, qui reçoit à la fois un grand succès dans un contexte différent.
+
+---
+
+## Chapitre 9 : Le Voyage de Chihiro (2001) – Établir une réputation mondiale
+
+En 2001, Spirited Away du Studio Ghibli est sorti et la musique d'Hisaishi a attiré l'attention internationale.
+La chanson thème «Always Again and Again» (composée par Joe Hisaishi, chantée par Yumi Kimura) a remporté le prix de la meilleure musique lors de la 25e cérémonie des Japan Academy Awards.
+
+La musique se caractérise par la clarté de la mélodie et la beauté du « ma », qui rehausse la fantaisie de l'histoire.
+Cette œuvre a remporté l'Oscar du meilleur long métrage d'animation en 2003 et le nom d'Hisaishi s'est répandu dans le monde entier.
+
+---
+
+## Chapitre 10 : Après Le Château Ambulant (2004) – Valse et structure circulaire
+
+Dans « Howl's Moving Castle » de 2004, le thème principal « Le manège de la vie » a une structure qui traverse toute l'œuvre.
+La mélodie, basée sur une valse à trois temps, symbolise le « temps circulant » de l'œuvre.
+
+Dans sa suite, Ponyo on the Cliff (2008), il recherche la pureté d'une comptine.
+The Wind Rises (2013) présentait des pièces pour piano calmes et sobres.
+
+Tout au long de ces œuvres, la musique d'Hisaishi devient un élément qui régit le « temps intérieur de l'histoire ».
+
+---
+
+## Chapitre 11 : « Comment vis-tu ? » (2023) - Abstraction sonore et nouveaux défis
+
+Comment vivez-vous, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
+Joe Hisaishi était à nouveau en charge de la musique.
+
+Cette œuvre utilise une structure sonore abstraite, mettant l'accent sur la résonance et la texture plutôt que sur la mélodie.
+Hisaishi a dirigé le London Symphony Orchestra et a atteint un niveau élevé de production musicale, tant en enregistrement qu'en interprétation.
+
+Cette œuvre est le dernier exemple du rapprochement continu d'Hisaishi entre la musique de film et la musique classique.
+
+---
+
+## Chronologie : Liste des œuvres collaboratives Joe Hisaishi x Studio Ghibli
+
+| Année | Titre | Directeur | Chanson thème/Chanson représentative | Remarques |
 |----|---------|------|----------------|------|
-| 1984 | 風の谷のナウシカ | 宮崎駿 | 「風の伝説」 | 初コラボレーション |
-| 1986 | 天空の城ラピュタ | 宮崎駿 | 「君をのせて」 | シンフォニック構成 |
-| 1988 | となりのトトロ | 宮崎駿 | 「さんぽ」「風のとおり道」 | 童心の表現 |
-| 1989 | 魔女の宅急便 | 宮崎駿 | 「海の見える街」 | 都市的リズム感 |
-| 1992 | 紅の豚 | 宮崎駿 | 「帰らざる日々」 | 郷愁的ワルツ |
-| 1997 | もののけ姫 | 宮崎駿 | 「もののけ姫」 | 合唱と管弦の融合 |
-| 2001 | 千と千尋の神隠し | 宮崎駿 | 「いつも何度でも」 | アカデミー賞受賞作品 |
-| 2004 | ハウルの動く城 | 宮崎駿 | 「人生のメリーゴーランド」 | ワルツ構造 |
-| 2008 | 崖の上のポニョ | 宮崎駿 | 「崖の上のポニョ」 | 童謡的旋律 |
-| 2013 | 風立ちぬ | 宮崎駿 | 「旅路」 | 静謐な音楽世界 |
-| 2023 | 君たちはどう生きるか | 宮崎駿 | ― | 音の抽象化 |
+| 1984 | Nausicaa de la Vallée du Vent | Hayao Miyazaki | « Légende du vent » | Première collaboration |
+| 1986 | Château dans le ciel | Hayao Miyazaki | « Enfilez-vous » | Composition symphonique |
+| 1988 | Mon voisin Totoro | Hayao Miyazaki | « Marche » et « Le chemin du vent » | Expression de l'enfance |
+| 1989 | Service de livraison de Kiki | Hayao Miyazaki | "Ville avec vue sur la mer" | Rythme urbain |
+| 1992 | Porco Rosso | Hayao Miyazaki | « Jours sans retour » | Valse nostalgique |
+| 1997 | Princesse Mononoké | Hayao Miyazaki | "Princesse Mononoké" | Fusion de chœur et d'orchestre |
+| 2001 | Le voyage de Chihiro | Hayao Miyazaki | « Toujours et encore » | Gagnant d'un Oscar |
+| 2004 | Le château ambulant de Howl | Hayao Miyazaki | "Le manège de la vie" | Structure de valse |
+| 2008 | Ponyo sur la falaise | Hayao Miyazaki | "Ponyo sur la falaise" | Mélodie de comptine |
+| 2013 | Le vent se lève | Hayao Miyazaki | « Voyage » | Le monde tranquille de la musique |
+| 2023 | Comment vis-tu ? Hayao Miyazaki | - | Abstraction du son |
 
 ---
 
-## 代表的サウンドトラック
+## Bande-son représentative
 
-| 映画作品 | 英題 | サウンドトラック | リンク | 備考 |
+| Film | Titre anglais | Bande sonore | Lien | Remarques |
 |------------|------------|----------------|----------------|------|
 | 風の谷のナウシカ | *Nausicaä of the Valley of the Wind* | *Original Soundtrack – Toward the Faraway Land* | [Amazon](https://amzn.to/48Yc6Uv) | 久石・宮崎初コラボ |
 | となりのトトロ | *My Neighbor Totoro* | *Original Soundtrack* | [Amazon](https://amzn.to/43MF1r0) | 名曲「風のとおり道」収録 |
@@ -199,7 +199,7 @@ Quincy（クインシー）→ 日本語的発音「クインシー（kuinshi）
 
 ---
 
-## 図解：久石譲の音楽構造（Mermaid）
+## Illustration : La structure musicale de Joe Hisaishi (Sirène)
 
 <div class="mermaid">
 

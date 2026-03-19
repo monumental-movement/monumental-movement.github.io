@@ -18,7 +18,7 @@ title: '[Columna] El esqueleto afrocubano - La genealogía del latido del coraz�
 ## Introducción: Otra historia de la música americana contada por los tambores taiko
 
 
-Texto: mmr｜Tema: Basado en Sabu Martinez y Arsenio Rodríguez
+Texto: mmr｜Tema: Centrado en Sabu Martinez y Arsenio Rodríguez
 Trazando longitudinalmente los puntos de inflexión de la historia de la música latina
 
 En la década de 1950, un ritmo intercambiado en la puerta trasera de un club de jazz sacudió la estructura misma de la música estadounidense.

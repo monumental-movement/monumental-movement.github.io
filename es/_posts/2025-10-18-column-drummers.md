@@ -237,7 +237,7 @@ Y es un recuerdo musical que perdurará en el futuro.
 | Tony Allen | *Cocina casera* | 2002 | [Amazon](https://amzn.to/3WKLBKO) |
 | John Bonham (Led Zeppelin) | *Led Zeppelin IV* | 1971 | [Amazon](https://amzn.to/4o06I87) |
 | Panadero de jengibre (crema) | *Ruedas de Fuego* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
-| Jeff Mills | *En vivo en Liquid Room, Tokio* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
+| Jeff Molinos | *En vivo en Liquid Room, Tokio* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
 | Tony Williams | *Vida útil: ¡Emergencia!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
 | Shûichi Murakami “Ponta” | *Diseñador de ritmo* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
 | Motohiko Hino | *Solos y juntos* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |

@@ -159,7 +159,7 @@ En los últimos años, Frost ha estado utilizando la composición de IA y el pro
 Le interesa la "autonomía incontrolable del sonido".
 
 El sonido sale de sus manos y cambia de forma autogenerada.
-Una visión del futuro como Tarkovsky o William Gibson.
+Visión del futuro al estilo de Tarkovsky y William Gibson.
 Hay una poética de tecnología decadente y reverberación.
 
 El sonido de Frost intenta redefinir lo sublime en la era digital.

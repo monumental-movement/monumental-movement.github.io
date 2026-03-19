@@ -9,7 +9,7 @@ permalink: /zh-hant/cj-stone-city-lights-jean-elan-mix/
 tags:
 - House
 - Remix
-title: CJ Stone – 城市之光 (Jean Elan Mix)
+title: CJ Stone – City Lights (Jean Elan Mix)
 ---
 
 

@@ -77,7 +77,7 @@ Los DJ desempeñaron el papel más central en los inicios de la cultura hip-hop.
 
 El DJ fue responsable de preparar el equipo de sonido, asegurar la energía, traer los discos y hacer realidad la fiesta. Además de "seleccionar" la música, también era necesario "crear el espacio".
 
-El acto de extraer partes rítmicas de discos de funk y soul y repetirlas mientras se observaba la reacción del público se volvió refinado espontáneamente.
+El acto de extraer partes rítmicas de discos de funk y soul y repetirlas mientras se observaba la reacción del público se volvió espontáneo y sofisticado.
 
 En esta etapa, los DJ eran menos creadores que controladores de tiempo.
 

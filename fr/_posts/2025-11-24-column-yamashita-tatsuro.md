@@ -70,11 +70,11 @@ Les arrangements et les enregistrements optimisés pour les caractéristiques an
 # 2. Fin des années 1970 : début de la période solo et forme achevée de « Analog Layer »
 
 ## ■ « SPACY » (1977), « ALLEZ-Y ! » (1978)
-Cette période était l'époque où Tatsuro utilisait pleinement l'enregistrement analogique 24 pistes.
+Cette période était l’époque où Tatsuro utilisait pleinement l’enregistrement analogique 24 pistes.
 
-特徴：
+Caractéristiques:
 - **Compression de sensation de température** avec du ruban adhésif
-- Overdub du jeu des mains (guitare, clavier, percussions)
+- Overdubbing du jeu des mains (guitare, clavier, percussions)
 - **Des dizaines de voix superposées**
 
 Plus tard, Tatsuro a déclaré : « Plus vous superposez l'analogique, plus les nuances s'assemblent », et les œuvres de cette époque en sont la forme idéale.
@@ -96,7 +96,7 @@ Au centre de tout cela se trouvait **CBS Sony Shinanomachi Studio**.
 
 Le son de cette époque est souvent considéré comme la « forme idéale de la city pop ».
 
-## ■ Esthétique d'enregistrement de « FOR YOU » (1982)
+## ■ Esthétique de l'enregistrement de « FOR YOU » (1982)
 Cette œuvre est considérée comme l'une des œuvres les plus marquantes de Tatsuro.
 Caractéristiques acoustiques :
 
@@ -230,9 +230,9 @@ timeline
 # 11. City pop et culture de l'enregistrement : Pourquoi le son de l'ère analogique est-il « spécial » ?
 
 La raison pour laquelle les chefs-d'œuvre de Tatsuro Yamashita ont été réévalués dans le monde entier en tant que city pop est la suivante.
-Ce n'est pas seulement le charme des chansons, mais aussi la texture de l'enregistrement analogique et la culture des studios japonais des années 1980.
+Il ne s'agit pas seulement du charme des chansons, mais aussi de la texture de l'enregistrement analogique et de la culture des studios japonais des années 1980.
 
-ポイント：
+indiquer:
 
 - Compatibilité batterie live et enregistrement analogique
 - Jeu avancé avec des musiciens manuels (Tatsuo Hayashi, Hironori Ito, Jun Aoyama, etc.)

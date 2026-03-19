@@ -20,9 +20,9 @@ title: 丹‧科廷 (Dan Curtin) – 新世界 EP
 
 《New World EP》是 Sublime Records 廠牌於 1998 年發行的 Techno/House/Tribal/Latin 曲目。
 
-D1 是荷蘭傳奇人物 Orlando Voorn 的混音版。
+D1は、オランダのレジェンドOrlando Voorn(オーランド・ヴォーン)によるremix。
 
-D2は、イギリスのテクノミュージシャンDave Angel(デイヴ・エンジェル)によるremix。
+D2 是英國 techno 音樂家 Dave Angel 的混音作品。
 
 #### 曲目表
 ```md

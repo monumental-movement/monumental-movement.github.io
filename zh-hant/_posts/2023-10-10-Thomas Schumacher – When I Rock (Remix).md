@@ -14,7 +14,7 @@ title: 湯瑪斯舒馬克 – 當我搖滾時（混音）
 
 
 “當我搖滾時（混音）”
-這是 Thomas Schumacher 於 1998 年在英國唱片公司“Bush”發行的一張 EP。
+1998年にUKのレーベル「Bush」からリリースされたThomas SchumacherによるEPです。
 
 #### 曲目表
 ```md

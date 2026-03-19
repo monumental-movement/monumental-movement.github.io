@@ -15,7 +15,7 @@ title: Children Circle – Indonesia Mamba Mama
 
 Circle Children is one of the aliases of US DJ and producer Armand Van Helden.
 
-" Indonesia / Mamba Mama"は、ハウスレーベルStrictly Rhythmから1993年にリリースされたハウス・トライバルハウストラック。 Executive producer is Strictly Rhythm co-founder Gladys Pizarro.
+"Indonesia / Mamba Mama" is a house/tribal house track released in 1993 on the house label Strictly Rhythm. Executive producer is Strictly Rhythm co-founder Gladys Pizarro.
 
 #### Tracklist
 ```md

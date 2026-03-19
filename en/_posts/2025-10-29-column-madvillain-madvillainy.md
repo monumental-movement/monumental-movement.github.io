@@ -20,7 +20,7 @@ title: '[Column] Madvillain "Madvillainy" ─ 21st century hip-hop myth woven fr
 Text: mmr｜Theme: A study of "Madvillainy" (https://amzn.to/3JhySfH), a "labyrinth of sound" that reconstructs the hip-hop form itself after deconstructing it.
 
 In the spring of 2004, an album released by a small label in Los Angeles, **Stones Throw Records**, quietly overturned the conventional wisdom of hip-hop.
-**Madvillain [""Madvillainy''](https://amzn.to/3JhySfH)** ---It is a rap album, a poetry collection, and a sound collage transmitted through radio waves. **
+**Madvillain [""Madvillainy"'](https://amzn.to/3JhySfH)** ---It"s a rap album, a poetry collection, and a sound collage through radio waves. **
 
 At the beginning of the 21st century, American hip-hop was moving toward the extravagant "brand culture" symbolized by Jay-Z and 50 Cent. On the flip side, this album is about anonymity and the poetics of fragments, and it has deep roots in the world's underground.
 What captivates the listener is not the degree of perfection, but rather the ""unfinished beauty''.
@@ -82,7 +82,7 @@ The acoustic characteristics can be summarized into the following three points.
 2. **Spatial Compression**: Minimize reverb and spatial processing to bring the distance between samples close to zero.
 3. **Frequency distortion**: Creates a **VHS-like sound** with removed high frequencies by using SP-303 effects extensively.
 
-This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as "component elements" rather than "materials", he transformed hip-hop into an archeology of sound.
+This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as ""components" rather than ""materials," he transformed hip-hop into an archeology of sound.
 
 ---
 

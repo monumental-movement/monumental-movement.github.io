@@ -128,7 +128,7 @@ Activities with Lost Alaf were one of the starting points for Keiji Haino's musi
 
 ### Relationship with Toru Takemitsu
 
-Connection with Japanese contemporary music
+Connection with contemporary Japanese music
 
 Keiji Haino's music is often talked about in the context of rock and noise, but it also has connections with contemporary Japanese music.
 
@@ -302,7 +302,7 @@ His activities are as DJ Keiji Haino.
 
 In this style, they perform while playing music from around the world on CDJs.
 
-The music selected is not limited to genre.
+The music selected is not limited to any genre.
 
 folk music
 rock
@@ -423,7 +423,7 @@ By encountering unknown sounds, my music also changes.
 
 ### Flow of solo and major works
 
-Keiji Haino has released a vast amount of recorded works from the late 1970s to the present.
+Keiji Haino has released a huge amount of recorded works from the late 1970s to the present.
 The format is diverse, including studio works, live recordings, limited editions, and collaborations, and the total number is said to be in the hundreds.
 
 The following is a flow of important works that are widely known among them.
@@ -451,7 +451,7 @@ The information below is compiled from multiple reliable sources (Discogs, Wikip
 | Year | Title | Label | Notes |
 |---|---|---|---|
 | 1989 | **Fushitsusha Double Live (Live I)** | PSF | One of the earliest releases on the PSF label. 2-disc live LP |
-| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (with Hiroshi Mikami and Motoharu Yoshizawa) | PSF | A masterpiece of improvisation by the trio with Hiroshi Mikami and Motoharu Yoshizawa |
+| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (with Hiroshi Mikami and Motoharu Yoshizawa) | PSF | An improvised masterpiece by the trio with Hiroshi Mikami and Motoharu Yoshizawa |
 | 1991 | **Fushitsusha (Double Live / Live II)** | PSF | One of the important documents of Japanese psychedelic rock in the 1990s |
 | 1993 | **Allegorical Misunderstanding** | Avant (led by John Zorn) | Released on John Zorn's Avant label |
 | 1994 | **Pathétique** | PSF | Oren Ambarchi describes it as "one of my favorite Fushitsusha works" |
@@ -635,7 +635,7 @@ Peter[Peter Brötzmann]
 Oren --> Nazoranai[Nazoranai]
 Jim --> Improvisation[improvisation]
 Merzbow --> NoiseSession[noise co-star]
-Peter --> FreeJazz[free jazz concert]
+Peter --> FreeJazz[free jazz performance]
 
 Nazoranai --> Haino
 Improvisation --> Haino

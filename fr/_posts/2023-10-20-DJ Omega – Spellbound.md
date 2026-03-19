@@ -9,11 +9,11 @@ permalink: /fr/dj-omega-spellbound/
 tags:
 - House
 - Ghettotech
-title: DJ Omega – Spellbound
+title: DJ Omega – Envoûté
 ---
 
 
-DJ Omega（Will Simpson）は、デトロイト出身のエレクトロニックミュージックプロデューサー。mixは、デトロイト出身のDJ/プロデューサーDJ Godfather(Brian Jeffries)。
+DJ Omega (Will Simpson) est un producteur de musique électronique de Détroit. Mixé par le DJ/producteur DJ Godfather (Brian Jeffries) de Détroit.
 
 #### Liste des chansons
 ```md

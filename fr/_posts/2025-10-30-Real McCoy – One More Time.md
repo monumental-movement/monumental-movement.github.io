@@ -11,7 +11,7 @@ tags:
 - Euro House
 - House
 - 90s
-title: Real McCoy – One More Time
+title: Real McCoy – Encore une fois
 ---
 
 
@@ -21,7 +21,7 @@ title: Real McCoy – One More Time
 
 
 
-1997年にリリースされた「One More Time」は、ドイツのユーロハウスアクトReal McCoyの4枚目のスタジオアルバム。
+One More Time, sorti en 1997, est le quatrième album studio du groupe allemand d'Eurohouse Real McCoy.
 
 #### Liste des chansons
 ```md

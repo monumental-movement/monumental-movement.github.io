@@ -17,7 +17,7 @@ title: 馬可卡羅拉 – 附錄 C
 
 Marco Carola 是一位義大利電子音樂家/DJ。他曾在 Minus、Plus 8、2M 和 Primate Recordings 等知名唱片公司發行音樂。
 
-「Appendix C」是一首 Techno/Tech House 曲目，於 2002 年在 Southsoul Append 上發行，Southsoul Appendix 是由 Gaetano Parisio 贊助的意大利 Techno/Tech House 唱片公司。
+「Appendix C」は、Gaetano Parisio主催のイタリアのTechno / Tech House レーベルSouthsoul Appendixから2002年にリリースされた Techno／Tech Houseトラック。
 
 #### 曲目表
 ```md

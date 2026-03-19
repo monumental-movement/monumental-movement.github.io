@@ -13,11 +13,11 @@ title: Vitalic – Fanfares
 ---
 
 
-VitalicことPascal Arbez-Nicolasは、フランスのDJ／プロデューサー。『La Rock 01』(2001)やデビューアルバム『OK Cowboy』(2005)などで知られている。
+Pascal Arbez-Nicolas, également connu sous le nom de Vitalic, est un DJ et producteur français. Il est connu pour ses œuvres telles que « La Rock 01 » (2001) et son premier album « OK Cowboy » (2005).
 
-「Fanfares」は、2004年にエレクトロニックミュージックレーベルDifferentからリリースされたtechnoトラック。
+"Fanfares" est un morceau techno sorti en 2004 sur le label de musique électronique Different.
 
-A2は、2005年のアルバム『OK Cowboy』に収録されており、A1&AAは2006年にリリースされたコレクターエディションCD用の追加トラックに収録された。
+A2 a été inclus sur l'album de 2005 OK Cowboy, et A1 et AA ont été inclus comme pistes supplémentaires pour le CD de l'édition collector sorti en 2006.
 
 #### Liste des chansons
 ```md

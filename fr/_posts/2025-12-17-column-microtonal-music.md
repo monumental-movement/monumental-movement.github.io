@@ -18,7 +18,7 @@ title: '[Chronique] Musique microtonale'
 
 ## Musique microtonale - philosophie de composition, structure acoustique et techniques de production après la dissolution du tempérament
 
-Texte : mmr｜Thème : À propos du passage à une philosophie de production qui ne suppose pas un pas fixe
+Texte : mmr｜Thème : À propos du passage à une philosophie de production qui ne suppose pas un pas fixe
 
 La musique microtonale a non seulement remis en question le principe d’une musique moderne de tempérament égal, mais a également transformé l’unité de pensée dans la production musicale elle-même. Dans cet article, nous ne séparons pas l’histoire du tempérament musical, de la théorie, de la structure acoustique et de la pratique de production, mais nous les reconstruisons sous forme de mouvements interconnectés.
 
@@ -43,7 +43,7 @@ color: #fff;
 12 Equal Temperament est plus une **norme industrielle établie pour la production et la distribution** qu'une théorie musicale.
 Il s’agit d’une réponse aux demandes d’une plus grande liberté de modulation, d’une production de masse d’instruments à clavier et d’une standardisation de l’éducation, et ne constitue pas une solution acoustique optimale.
 
-Le problème avec la musique microtonale n'est pas la valeur numérique de « finesse supérieure à un demi-ton » ;
+Le problème avec la musique microtonale n'est pas la valeur numérique d'une « finesse supérieure à un demi-ton » ;
 **C'est l'idée même de traiter le pitch comme une unité fixe**.
 
 La hauteur est à l'origine un concept relatif défini par le rapport de fréquence, la relation harmonique et la perception physique.
@@ -110,7 +110,7 @@ Partch a divisé l'octave en 43 hauteurs,
 Il ne s'agit pas d'une division égale, mais d'une **structure en réseau de rapports harmoniques**.
 
 * Préférez un rapport entier simple
-* Le sens tonal existe, mais la transposition n'est pas possible
+* Le sens tonal existe mais la transposition n'est pas possible
 * Les relations d'intervalle peuvent être visualisées géométriquement
 
 ### 5.2 Nécessité de concevoir un instrument de musique
@@ -135,7 +135,7 @@ Il s'agit d'une tentative de ramener la musique microtonale à la dimension de l
 
 ## 6. Le dispositif idéologique de la notation musicale
 
-Dans la musique microtonale, la notation n’est pas seulement un moyen de communication.
+Dans la musique microtonale, la notation n’est pas qu’un simple moyen de communication.
 
 * Altérations supplémentaires
 * Notation des rapports
@@ -186,7 +186,7 @@ Cela nécessite une stratégie de mixage différente de celle d’une harmonie t
 
 ## 9. Jacob Collier - Sensualisation de la théorie du tempérament
 
-Jacob Collier a présenté la théorie microtonale d'une manière qui vous fait ressentir plutôt que de vous faire comprendre.
+Jacob Collier a présenté la théorie microtonale d'une manière qui vous fait ressentir plutôt que vous faire comprendre.
 
 ### 9.1 Application pratique des séries harmoniques
 
@@ -209,7 +209,7 @@ Le but n’est pas de faire des éléments microtonaux le thème de la structure
 
 ### 10.1 Conception de la composition
 
-* Décidez quel tempérament utiliser
+* Décider quel tempérament utiliser
 * Comprendre la gamme d'harmonies possibles
 * Examen pour savoir si la modulation est possible ou non
 
@@ -235,7 +235,7 @@ La musique microtonale recycle votre audition.
 * Fluctuations du sens tonal
 * Attirer l'attention sur le pitch
 
-Ceci ne s’établit pas par une compréhension intellectuelle mais par une écoute répétée.
+Ceci ne s’établit pas par une compréhension intellectuelle, mais par une écoute répétée.
 
 ---
 

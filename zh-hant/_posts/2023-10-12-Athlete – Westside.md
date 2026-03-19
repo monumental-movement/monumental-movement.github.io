@@ -9,11 +9,11 @@ permalink: /zh-hant/athlete-westside/
 tags:
 - Rock
 - Indie Rock
-title: 運動員 - 西區
+title: Athlete – Westside
 ---
 
 
-Athlete 是一支在倫敦成立的英國獨立搖滾樂團。成員包括喬爾·波茨、凱莉·威利茨、史蒂芬·羅伯茨和蒂姆·萬斯托爾。 《Westside》是他們的標誌性歌曲。
+Athlete 是一支在倫敦成立的英國獨立搖滾樂團。成員包括喬爾·波茨、凱莉·威利茨、史蒂芬·羅伯茨和蒂姆·萬斯托爾。 《Westside》是他们的标志性歌曲。
 
 B 面的第二首歌是 Elbow 的混音版，Elbow 是一支來自英國大曼徹斯特伯里的另類搖滾樂隊，自 1990 年以來一直活躍。
 

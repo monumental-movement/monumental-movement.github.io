@@ -10,7 +10,7 @@ tags:
 - Soul
 - Funk
 - Hi NRG
-title: 伊芙琳·托馬斯——海灘上的夏天
+title: Evelyn Thomas – Summer On The Beach
 ---
 
 

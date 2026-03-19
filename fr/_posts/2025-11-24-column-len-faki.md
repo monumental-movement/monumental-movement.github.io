@@ -68,7 +68,7 @@ Nous prenons les morceaux emblématiques de Len Faki et les analysons en détail
 
 #### informations de base
 -BPM : 125
-- Tonalité : Sol majeur
+- Tonalité : Sol Majeur
 - Sortie : Berghain 03 mix CD inclus, 2009
 
 #### Structure et rythme de la chanson
@@ -90,7 +90,7 @@ Il est souvent utilisé du milieu au sommet d’un set et constitue la piste pri
 
 #### informations de base
 -BPM : 129
-- Tonalité : Sol majeur
+- Tonalité : Sol Majeur
 - Durée : Environ 8 minutes 15 secondes
 
 #### Structure et rythme de la chanson
@@ -139,7 +139,7 @@ Il sert à maintenir la rainure en milieu de set ou à faire une pause en milieu
 
 #### Structure et rythme de la chanson
 Il a un fort élément mélodique, avec des pads et des synthés fusionnant progressivement avec le rythme de l'intro.
-Après le drop, la mélodie et le rythme se développent en couches, et le break s'installe pendant un moment, créant un pont vers la construction suivante.
+Après le drop, la mélodie et le rythme se développent en plusieurs couches, et le break se calme pendant un moment, créant un pont vers la construction suivante.
 
 #### Caractéristiques acoustiques (estimées)
 - Low : Stabilise le sol avec des kicks et des basses
@@ -155,7 +155,7 @@ Il s’agit d’un morceau important qui crée des pics d’émotion et des mome
 
 #### informations de base
 - BPM : Estimé autour de 128
-- Tonalité : Estimé La Mineur
+- Tonalité : Estimé La mineur
 - Structure : Produit une sensation futuriste avec des rythmes mécaniques et des synthés
 
 #### Structure et rythme de la chanson
@@ -226,5 +226,14 @@ timeline
 Len Faki est le lien entre la tradition et le futur de la techno berlinoise.
 Ses morceaux et ses sets ont une présentation calculée et spatiale qui crée une expérience unique sur le sol.
 Nous continuerons de garder un œil sur ses activités et sur la prochaine génération d’artistes qu’il élève.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXu5QMs-uNY?si=JHJzUctjx0vi_1lq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

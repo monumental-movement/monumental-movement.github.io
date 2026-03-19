@@ -74,7 +74,7 @@ El rock se vuelve más experimental y el ruido se incorpora al contexto del rock
 
 ---
 
-## 4) Escena industrial y de ruido inicial (finales de los años 1970 – años 1980)
+## 4) Escena industrial y del ruido inicial (finales de los años 1970 – años 1980)
 ### Antecedentes históricos
 Una escena de ruido independiente nació de una reacción contra la música comercial.
 
@@ -154,7 +154,7 @@ Diversificación a través del renacimiento de los sintetizadores modulares y la
 ---
 
 ## Al final
-La música noise es siempre un desafío a la estética existente y un intento de ampliar los límites de la música. Desde los sonidos mecánicos de Russolo hasta los sintetizadores modulares, incluso después de más de 100 años de historia, su esencia radica en "escuchar el sonido mismo".
+La música noise es siempre un desafío a la estética existente y un intento de ampliar los límites de la música. Desde los sonidos mecánicos de Russolo hasta los sintetizadores modulares, incluso después de más de 100 años de historia, la esencia de todos los instrumentos es "escuchar el sonido mismo".
 
 ---
 

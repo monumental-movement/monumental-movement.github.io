@@ -23,7 +23,7 @@ MC Gringo 是一位出生於德國的音樂家和音樂製作人。
 曲目 A4、B2：拉斐爾 DJ
 
 MC
-曲目 A2：MC Binho
+トラックA2：MC Binho
 曲目 A4：MC Dandão
 
 #### 曲目表

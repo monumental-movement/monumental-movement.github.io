@@ -10,12 +10,12 @@ tags:
 - Electronic
 - Hard Trance
 - 00s
-title: Superfly – B 與 U
+title: Superfly – B With U
 ---
 
 
 英國 R&B 歌手 Dee Jacobee 由美國 DJ/house 音樂藝人演唱的《I'm Alive》
-由混音師 Todd Terry 和 D.A.R.C. 混音的 house 曲目。
+リミキサーTodd TerryとD.A.R.C.がremixしたハウストラック。
 
 #### 曲目表
 ```md

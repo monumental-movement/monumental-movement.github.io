@@ -16,7 +16,7 @@ title: YMO – 萊丁
 
 1980 年，Yellow Magic Orchestra (YMO) 在 Alfa 廠牌上發行的 7 吋專輯。
 
-該夾克由 Mick Haggerty 設計，他因為 David Bowie、The Police 和 B-52's 等藝術家和音樂團體設計專輯封面而聞名。
+ジャケットデザインは、デヴィッド・ボウイ、ポリス、B-52's などのアーティストや音楽グループのアルバムカバーデザインで有名なMick Haggerty（ミック・ハガティー）。
 
 #### 曲目表
 ```md

@@ -13,7 +13,7 @@ title: 點火技術員 – Oh The Guilt E.P.
 ---
 
 
-Ignition Technician 是一支技術製作團隊，由來自英國利茲的 Pete Simpson 和 Richard Wilkinson 於 1999 年創立。
+Ignition Technicianは、1999年にスタート したUK・リーズ出身のPete SimpsonとRichard WilkinsonによるTechnoプロダクションチーム。
 
 很早就被 Carl Cox 發現，Dave Clarke、Laurent Garnier、Joey Beltram、Billy Nasty、Pete Tong、Judge Jules、Jon Peel 和 Colin Murry 等 DJ 開始播放 Ignition Technician 的唱片。
 

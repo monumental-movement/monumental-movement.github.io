@@ -221,7 +221,7 @@ En los tiempos modernos, el análisis y la generación de fuentes de sonido util
 ### 8-3 Importancia de la colaboración
 
 * Grabación en vivo con instrumentistas tradicionales.
-*Debe producirse teniendo en cuenta el trasfondo cultural de la música regional.
+*Debe producirse teniendo en cuenta el trasfondo cultural de la música local.
 
 ---
 
@@ -231,7 +231,7 @@ Electronic World Fusion no sólo reemplaza la música folk con sonidos electrón
 **"El proceso por el cual el sonido traduce la cultura y conecta diferentes valores"**
 puede entenderse como
 
-El género encarna el diálogo sonoro, ya que Nitin Sawhney representa sociedades multiculturales a través de su trabajo, y Thievery Corporation conecta música de todo el mundo con contextos de música electrónica urbana.
+El género encarna el diálogo sonoro, ya que Nitin Sawhney representa sociedades multiculturales a través de su trabajo, y Thievery Corporation conecta música de todo el mundo con contextos musicales electrónicos urbanos.
 
 ---
 

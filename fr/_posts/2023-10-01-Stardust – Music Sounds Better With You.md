@@ -9,17 +9,17 @@ permalink: /fr/stardust-music-sounds-better-with-you/
 tags:
 - House
 - French House
-title: Stardust – Music Sounds Better With You
+title: Stardust – La musique sonne mieux avec vous
 ---
 
 
-Stardustは、トーマ・バンガルテル(ダフト・パンク)、DJのアラン・ブラックス(DJ Alan Braxe)、ベンジャミン・ダイアモンドによるユニットです。
+Stardust est une unité composée de Thomas Bangalter (Daft Punk), DJ Alan Braxe et Benjamin Diamond.
 
-1998年にリリースされた「Music Sounds Better With You」はチャカ・カーン(Chaka Khan)の「Fate」をサンプリングしたもので、Stardust唯一の楽曲です。
+"Music Sounds Better With You", sorti en 1998, échantillonne "Fate" de Chaka Khan et est la seule chanson de Stardust.
 
-「Music Sounds Better With You」は、キャッチーなメロディ、ファンキーなリズム、そしてボーカルのサンプリングなど、ダンスフロアでの楽しさを追求したハウスミュージックの名曲として高く評価されています。
+"Music Sounds Better With You" est très acclamé comme un chef-d'œuvre de la house music qui recherche le plaisir sur la piste de danse, avec des mélodies entraînantes, des rythmes funky et un échantillonnage vocal.
 
-この楽曲は、ハウスミュージックやエレクトロニックダンスミュージックのファンにとってはクラシックとも言える作品です。
+Cette chanson est un classique pour les fans de house music et de dance music électronique.
 
 #### Liste des chansons
 ```md

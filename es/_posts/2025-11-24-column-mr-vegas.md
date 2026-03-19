@@ -39,7 +39,7 @@ color: #fff;
 ## Capítulo 1: Carrera temprana y carrera temprana
 
 ### 1.1 Infancia y origen del apodo
-- **Nombre real/nacimiento**
+- **Nombre real/Nacimiento**
 El verdadero nombre del señor Vegas es **Clifford Smith**. Nacido el 29 de septiembre de 1974 en Kingston, Jamaica.
 - **Apodo "Sr. Vegas"**
 Cuando era niña, jugaba fútbol con pantalones cortos rosas en la escuela y sus compañeros la comparaban con una "niña de Las Vegas". Se adoptó el apodo de "Mr. Vegas" como nombre artístico.
@@ -68,7 +68,7 @@ Como resultado de su lesión en la mandíbula y del tratamiento, ha desarrollado
 - **Tema de la letra**
 Contiene mensajes críticos y morales sobre el comportamiento sexual y destaca el respeto por sí mismas de las mujeres y la fuerza de su insistencia en decir "no".
 - **Reconocimiento internacional**
-Fue un éxito no sólo en Jamaica, sino también en Inglaterra y Estados Unidos.
+Fue un éxito no sólo en Jamaica sino también en Inglaterra y Estados Unidos.
 - **Otorgar**
 Ganó el premio "Mejor Artista de Reggae" en los premios MOBO.
 

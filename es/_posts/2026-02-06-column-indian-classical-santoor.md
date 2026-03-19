@@ -86,7 +86,7 @@ Incluso en la interpretación del santoor, se observan estrictamente el período
 
 Una vez en el tala, el santoor comienza a adquirir una fuerza impulsora de percusión, desdibujando la línea entre melodía y ritmo. Esta dualidad crea un encanto que no se encuentra en otros instrumentos melódicos.
 
-> El santour es un instrumento que se encuentra en la zona intermedia entre la melodía y el ritmo.
+> El santour es un instrumento que existe entre la melodía y el ritmo.
 
 ---
 
@@ -114,7 +114,7 @@ Incluso en actuaciones fuera del marco clásico indio, el pensamiento raga sigue
 
 Los intérpretes de santour modernos van y vienen entre la interpretación clásica pura y la expresión experimental. Con énfasis en la improvisación total, la textura sonora y el tratamiento del silencio, el santour se está redefiniendo como un objeto musical.
 
-Las actuaciones suelen comenzar con una nota suave. En el momento en que el mazo toca la cuerda, antes de que se escuche un sonido claro del impacto, puedes sentir la cuerda de metal empujando en el aire. Los armónicos que aparecen inmediatamente después disuelven vagamente los tonos individuales, formando una nube de resonancia sostenida.
+Las actuaciones suelen comenzar con una nota suave. En el momento en que el mazo toca la cuerda, antes de que se escuche un sonido distintivo del impacto, se puede sentir la presencia de una cuerda de metal empujando en el aire. Los armónicos que aparecen inmediatamente después disuelven vagamente los tonos individuales, formando una nube de resonancia sostenida.
 
 > El santour está pasando de ser un instrumento para tocar a uno que da forma al espacio de escucha.
 
@@ -122,7 +122,7 @@ Las actuaciones suelen comenzar con una nota suave. En el momento en que el mazo
 
 ## Relación simbiótica entre las canciones populares de Cachemira y el santoor
 
-En Cachemira, el santoor estaba profundamente asociado con la cultura popular incluso antes que la música clásica. A menudo se tocaba con la melodía de una canción en ceremonias de boda, festivales de temporada y reuniones religiosas.
+En Cachemira, el santoor estaba profundamente asociado con la cultura popular incluso antes que la música clásica. A menudo se tocaba con la melodía de una canción en ceremonias de boda, festivales de temporada, reuniones religiosas y otras ocasiones.
 
 Cuando se toca el santour como acompañamiento de canciones populares, se da prioridad a la entonación de la melodía y al estilo de habla sobre las escalas musicales estrictas. El mazo no se balancea hacia abajo con una fuerza constante, sino que cambia su velocidad y ángulo sutilmente para adaptarse a la respiración del cantante.
 

@@ -85,7 +85,7 @@ Le reggae/dub est associé à la culture du sound system et est responsable de l
 
 ---
 
-La discothèque est un refuge pour la communauté LGBTQ+/Black/Latinx, qui obtient le droit de danser à la frontière entre le légal et l'illégal, même si elle a ses côtés sombres comme la sécurité des boîtes de nuit et la discrimination à l'admission.
+La discothèque est un refuge pour la communauté LGBTQ+/Black/Latinx, obtenant le droit de danser à la frontière entre le légal et l'illégal, tout en ayant aussi ses côtés sombres comme la sécurité des boîtes de nuit et la discrimination à l'admission.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -116,7 +116,7 @@ Le hip-hop repose sur les « quatre piliers » que sont les block parties, le gr
 
 ---
 
-Le métal a reçu l'image d'être « diabolisé » et a suscité des controverses sur l'autorégulation comme celle du PMRC. Selon le sous-genre, cela peut également créer des conflits sociaux liés à des incidents violents et à des déclarations discriminatoires.
+Le métal a reçu l'image d'être « diabolisé » et a suscité des controverses sur l'autorégulation comme le PMRC. Selon le sous-genre, cela peut également créer des conflits sociaux liés à des incidents violents et à des déclarations discriminatoires.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -141,7 +141,7 @@ Bien que la musique grunge/alternative prône une position anti-commerciale, ell
 
 ---
 
-La représentation explicite du gangsta rap de la violence policière, des inégalités sociales et des normes de la rue en a fait une cible pour les médias. Le débat sur l’imitabilité de la violence et de son expression réelles est devenu une question de société.
+La représentation explicite du gangsta rap de la violence policière, des inégalités sociales et des normes de la rue en a fait une cible pour les médias. Le débat sur l’imitabilité de la violence et de son expression réelles est devenu un problème de société.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VMYAEHE2GrM?si=Xy2ZiHUL6lCAMwk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ Les Leftfield/Queer Clubs reconstruisent des espaces nocturnes sécurisés et é
 
 ### Années 2020 : Espaces irréguliers après la pandémie : Micro-rave et communautés locales
 
-Pendant la période de confinement, des DJ/streaming en plein air de style guérilla se sont produits partout dans le monde. Des tentatives ont été faites pour « réoccuper les espaces publics » tels que les parcs, les toits et les rues, et les négociations avec la police et les habitants sont entrées dans une nouvelle étape.
+Pendant la période de confinement, des DJ/streaming en extérieur de style guérilla se sont produits partout dans le monde. Des tentatives ont été faites pour « réoccuper les espaces publics » tels que les parcs, les toits et les rues, et les négociations avec la police et les habitants sont entrées dans une nouvelle étape.
 
 L'hybridation des mouvements sociaux et des événements musicaux (soirées de collecte de fonds, cuisines communautaires d'entraide, etc.) progresse et l'accent est mis sur le soin et la recherche de consensus plutôt que sur la dichotomie « illégal/légal ».
 

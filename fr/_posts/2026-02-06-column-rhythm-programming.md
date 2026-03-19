@@ -18,7 +18,7 @@ title: '[Chronique] Théorie de la conception de la programmation rythmique'
 
 ## Prologue : Le rythme est conçu, pas joué.
 
-Texte : mmr｜Thème : Considérez la programmation rythmique comme un concept de conception plutôt que comme une technique de performance, et déchiffrez l'image globale de l'esthétique du rythme moderne à partir de la conception de 16 pas, de boucles et d'un arrangement de tons.
+Texte : mmr｜Thème : Considérez la programmation rythmique comme un concept de conception plutôt que comme une technique de performance, et déchiffrez l'image globale de l'esthétique rythmique moderne à partir de la conception de 16 pas, de boucles et d'un arrangement de tons.
 
 
 La programmation du rythme ne consiste pas à aligner les points avec précision. C'est un acte de conception : comment diviser le temps, où mettre l'accent et où laisser l'espace vide. Si la performance est une série de décisions instantanées, la programmation s’apparente à une réflexion globale sur le temps dans son ensemble.
@@ -49,7 +49,7 @@ L'unité de base de la conception rythmique électronique est constituée de 16 
 
 ### 4/4・Exemple de mise en page de base en 16 étapes
 
-La structure la plus basique consiste à placer le coup de pied sur les 1er et 3e temps et la caisse claire sur les 2e et 4e temps. Cet arrangement crée un sentiment de stabilité, mais ni plus ni moins.
+L'arrangement le plus basique consiste à placer le coup de pied sur les 1er et 3e temps et la caisse claire sur les 2e et 4e temps. Cet arrangement crée un sentiment de stabilité, mais ni plus ni moins.
 
 La conception d’accents n’exige pas que toutes les notes soient jouées avec la même intensité. En rendant simplement le premier temps du coup de pied le plus fort et le troisième un peu plus faible, vous pouvez créer une impression d'avant et d'arrière dans l'écoulement du temps.
 
@@ -124,7 +124,7 @@ En combinant un coup de pied court et une longue sous-basse, le rythme et le son
 
 La gamme basse fixe le rythme et la gamme haute montre le flux. Lorsque cette division du travail s’effondre, le rythme semble instable.
 
-> Le ton n'est pas un ornement, mais la structure du temps lui-même.
+> Le ton n'est pas un ornement, mais la structure même du temps.
 
 ---
 
@@ -166,7 +166,7 @@ En réorganisant les boucles existantes, vous pouvez redessiner la structure tou
 
 ### Cas : Reconstruction complète de l'étape
 
-En l'organisant à partir de zéro, la structure temporelle reflète purement le concept de design.
+En l'organisant à partir de zéro, la structure temporelle reflète purement la philosophie du design.
 
 > L'idée de conception rythmique change selon qu'elle est axée sur le matériau ou sur la structure.
 
@@ -176,7 +176,7 @@ En l'organisant à partir de zéro, la structure temporelle reflète purement le
 
 Même les boucles courtes changent de longueur de manière perceptuelle.
 
-### Cas : obscurcissement de la terminaison
+### Cas : Obfuscation du terminal
 
 En affaiblissant la dernière note de la boucle, on ne sent plus le break.
 
@@ -206,7 +206,7 @@ Complexité structurelle et conception asymétrique. Les décalages dans les pé
 
 ---
 
-## Chapitre 11 : Interface DAW et style de réflexion
+## Chapitre 11 : Interface DAW et style de pensée
 
 La philosophie de conception de la programmation rythmique est grandement influencée par l’interface utilisée. Les séquenceurs pas à pas MPC, de type TR et les piano rolls adoptent chacun une vision différente du temps.
 
@@ -236,7 +236,7 @@ Avec la pensée MPC, vous frappez d'abord naturellement avec le pad, puis ajuste
 
 Dans la pensée TR, placez d'abord le coup de pied sur les 1er, 5e, 9e et 13e mesures, et la caisse claire sur les 5e et 13e mesures, et considérez les omissions et les accents si nécessaire. Le produit fini aura une structure et un calendrier clairs.
 
-Dans la pensée piano roll, vous alignez visuellement les points de départ et la durée des notes, mais vous déplacez intentionnellement certaines d’entre elles vers l’avant ou vers l’arrière. Le formulaire complété sera une structure temporelle qui visualise l'intention de conception telle qu'elle est.
+Dans la pensée piano roll, vous alignez visuellement les points de départ et la durée des notes, mais vous déplacez intentionnellement certaines d'entre elles vers l'avant ou vers l'arrière. Le formulaire complété sera une structure temporelle qui visualise l'intention de conception telle qu'elle est.
 
 Même avec les mêmes 16 pas, si votre point de départ est différent, la texture du rythme complété variera considérablement.
 
@@ -249,7 +249,7 @@ Même avec les mêmes 16 pas, si votre point de départ est différent, la textu
 * Années 1960 : Introduction du temps mécanique
 * Années 1970 : Mise en place d'une structure répétitive
 * Années 1980 : Vulgarisation de la conception en 16 étapes
-* Années 1990 : désalignement et sentiment humain
+* Années 1990 : Désalignement et sentiment humain
 * Années 2000 : abstraction logicielle
 * Années 2010 et au-delà : le design comme esthétique
 
@@ -307,7 +307,7 @@ Un type n’est pas meilleur que l’autre. L’important est d’être conscien
 
 ---
 
-## Dernier chapitre : Réflexions sur la conception du rythme
+## Dernier chapitre : Réflexions sur la conception rythmique
 
 La programmation rythmique ne consiste pas à arranger les sons. Il s’agit de concevoir une expérience basée sur la façon dont la perception auditive du temps est perçue.
 

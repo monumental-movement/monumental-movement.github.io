@@ -154,7 +154,7 @@ L'accordage change pour chaque raga, et l'arrangement est tel que les notes toni
 
 Dans l'interprétation moderne, le santour montre une grande affinité avec la musique ambiante et minimale. Des phrases courtes et répétées élargissent la notion du temps et conduisent l'auditeur dans un état non linéaire.
 
-Lors de l'exécution, le même motif de notes est répété avec de légers changements d'intensité. Ce qui ressemble initialement à un simple son de frappe devient progressivement perçu comme une onde continue et les frontières entre les sons commencent à s'estomper.
+Lors de l'interprétation, le même motif de notes est répété avec de légers changements d'intensité. Ce qui ressemble initialement à un simple son de frappe devient progressivement perçu comme une onde continue et les frontières entre les sons commencent à s'estomper.
 
 > Santoor ne nous fait pas entendre la structure, mais nous montre plutôt le processus par lequel la structure est perçue.
 
@@ -183,9 +183,9 @@ timeline
 
 ## Chapitre final : La mémoire culturelle comme vibration
 
-Le santur n'est pas seulement un instrument folklorique. C’est une réponse à la question de savoir comment le son mémorise le temps. Lorsque d'innombrables cordes frappent en même temps, les notes individuelles disparaissent et seule la résonance globale demeure.
+Le santur n'est pas qu'un instrument folklorique. C’est une réponse à la question de savoir comment le son mémorise le temps. Lorsque d'innombrables cordes frappent en même temps, les notes individuelles disparaissent et seule la résonance globale demeure.
 
-Cette caractéristique est la raison pour laquelle les Santours continuent d'être mis à jour même à l'époque moderne.
+Cette caractéristique est la raison pour laquelle le Santour continue d'être mis à jour même à l'époque moderne.
 
 > Le santour n'est pas un instrument qui préserve le passé, mais un appareil qui transforme le passé en présent.
 

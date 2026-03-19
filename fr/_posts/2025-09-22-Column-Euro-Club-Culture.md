@@ -74,7 +74,7 @@ Royaume-Uni : les styles Hardbag et Euro-House sont apparus dans les ensembles 
 
 Pays-Bas : les frontières entre Speed ​​Garage et Hard Trance s'estompent
 
-** ● Développement de Dark Euro/Eurotrance **
+** ● Développement du Dark Euro/Eurotrance **
 
 Contrairement à l'aspect commercial, le heavy Euro trance et l'Industrial Euro sont également bien implantés chez rave.
 
@@ -110,7 +110,7 @@ Bien qu'il s'agisse d'un package commercial, la sélection de chansons a une tou
 
 ** ● Pont de l'euro à la transe **
 
-L’eurotrance, jonction entre l’euro dance et la transe, apparaît à la fin des années 90.
+L’eurotrance, jonction entre l’eurodance et la transe, apparaît à la fin des années 90.
 
 ATB, Fragma, Darude et bien d'autres présentent un son qui oscille entre pop et club
 
@@ -133,7 +133,7 @@ Un son nostalgique mais fonctionnel pour les scènes en plein air et les festiva
 ### Conclusion : l'Euro vivait à la frontière entre « pop » et « club »
 
 La musique européenne n’était pas seulement de la « musique facile à vivre » ou des « morceaux de club durs ».
-Sa véritable valeur réside dans la musique qui maintient un équilibre entre média et underground, mélodie et rythme, système et physicalité.
+Sa véritable valeur réside dans le fait que c’est une musique qui maintient un équilibre entre média et underground, mélodie et rythme, système et physicalité.
 
 Écoutez-le à la radio et dansez en club.
 C’était peut-être la manière la plus « correcte » de dépenser l’euro dans les années 1990.

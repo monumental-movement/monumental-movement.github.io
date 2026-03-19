@@ -42,7 +42,7 @@ color: #fff;
 ### Chapitre 1 : Les ombres de Manchester
 
 **"Mouvement embryonnaire post-punk"**
-À la fin des années 1970, la Grande-Bretagne était en proie à une récession économique et à un déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
+À la fin des années 1970, la Grande-Bretagne était en pleine récession économique et en déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
 
 **"L'aube de la formation du groupe"**
 En 1976, Bernard Sumner, Peter Hook et Stephen Morris se rencontrent et fondent Joy Division. Les premiers membres se sont connectés grâce à l'école et à la scène punk locale, et au début ils ont joué des reprises, mais ont finalement évolué vers des chansons originales qui reflétaient leur sentiment d'isolement et la morosité de la ville.
@@ -78,7 +78,7 @@ Curtis, qui souffrait d'épilepsie et de dépression, passe ses journées tirail
 Concilier vie conjugale et activités du groupe était extrêmement difficile. Sa relation avec sa femme Debbie et sa relation secrète avec sa maîtresse se chevauchent également, amplifiant la réalité de la solitude qui imprègne les paroles.
 
 **"La Dernière Nuit"**
-Le 18 mai 1979, Ian Curtis décède à son domicile de Manchester. La tragédie a choqué les membres du groupe et les fans et a jeté une ombre profonde sur l’histoire de la musique.
+Le 18 mai 1979, Ian Curtis décède à son domicile de Manchester. La tragédie a choqué les membres du groupe et les fans et a jeté une ombre profonde sur l'histoire de la musique.
 
 Amazonで購入 → [Closer](https://amzn.to/48mYLF8)
 
@@ -86,7 +86,7 @@ Amazonで購入 → [Closer](https://amzn.to/48mYLF8)
 
 ### Chapitre 4 : Reconstruire l'héritage : se transformer en un nouvel ordre
 
-**"Ceux qui ont laissé derrière eux"**
+**"Ceux qui sont laissés pour compte"**
 Après la mort de Curtis, les membres restants n'ont pas dissous le groupe et ont plutôt cherché une nouvelle direction. Avec Bernard Sumner au chant, une musicalité plus électronique et dansante se dessine.
 
 **"Fusion du synthé et de la danse"**
@@ -171,7 +171,7 @@ Autrement dit, c'est dans le silence de Joy Division que germait le rythme de Ne
 
 La ville de Manchester était un lieu où les jeunes pouvaient s'exprimer au milieu d'une dévastation économique.
 La musique enregistrait les émotions de l’époque avec plus d’honnêteté que la politique ou la religion.
-Et ce qui soutenait ce son était une étrange fusion de température, où la technologie enveloppe la douleur humaine.
+Ce qui soutenait ce son était une étrange fusion de température, où la technologie enveloppe la douleur humaine.
 La réverbération de Martin Hannett, le design de Peter Saville, l'éclairage et l'architecture de Haçienda——
 Toutes ces choses se sont réunies pour former un espace culturel appelé Manchester Sound.
 

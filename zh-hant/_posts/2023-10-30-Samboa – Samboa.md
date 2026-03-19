@@ -9,7 +9,7 @@ permalink: /zh-hant/samboa-samboa/
 tags:
 - Bossa Nova
 - Latin
-title: 桑博阿 – 桑博阿
+title: Sambôa – Sambôa
 ---
 
 

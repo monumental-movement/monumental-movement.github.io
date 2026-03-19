@@ -109,3 +109,14 @@ Hi-NRG es más que simplemente "música de baile"; es un género que encarna la 
 Los ritmos potentes y los sintetizadores brillantes eran una celebración de la vida y un medio para escapar de la opresión de la sociedad sobre los clubes gay en la década de 1980.
 
 Incluso hoy en día, Hi-NRG sigue siendo revalorizado como una presencia imprescindible a la hora de hablar de la relación entre música y sexualidad.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1GDA17poIo?si=5xCGaeSoSqNLE74g" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

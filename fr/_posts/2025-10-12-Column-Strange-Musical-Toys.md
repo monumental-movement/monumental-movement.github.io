@@ -22,7 +22,7 @@ Texte : mmr | Thème : Des jouets d'enfants aux instruments d'artistes - Vers l'
 
 Il y a des endroits où la frontière entre musique et jeu devient floue. Nous vivons dans un monde où les sons électroniques des jouets tenus dans les mains des enfants finissent par être reconnus comme des outils créatifs pour les scènes et les artistes professionnels. Des sources sonores étranges comme Radel, Omnichord, Stylophone et Circuit Bending, qui modifiaient des circuits faits maison, sont devenues plus que des jouets et sont devenues des dispositifs expérimentaux culturels.
 
-Dans cette rubrique, nous retraçons des jouets musicaux inhabituels du monde entier, dévoilant leur histoire, leur philosophie et leur réinterprétation par des artistes modernes.
+Dans cette chronique, nous retraçons des jouets musicaux inhabituels du monde entier, dévoilant leur histoire, leur philosophie et leur réinterprétation par des artistes modernes.
 
 ---
 
@@ -142,13 +142,13 @@ Une pièce expérimentale sonore qui utilise pleinement des équipements électr
 
 ## Ⅵ. L'âge d'or des jouets électroniques au Japon
 
-Dans les années 1970 et 1980, les synthés portables et les jouets musicaux électroniques sont devenus populaires dans les foyers japonais.
+Dans les années 1970 et 1980, les synthés portables et les instruments de musique électroniques sont devenus populaires dans les foyers japonais.
 
 - Série Yamaha Portasound
 - CASIO VL-TONE
 - Des synthés pédagogiques comme le SX-150 de Gakken
 
-Les sons électroniques peuvent être facilement entendus sur les bureaux à la maison ou à l'école, et les enfants se sont familiarisés avec la culture du « jeu avec les sons ». Dans les temps modernes, les jouets numériques comme Otamatone sont connectés à la culture YouTube, créant un nouveau monde de « sons mignons ».
+Les sons électroniques peuvent être facilement entendus sur les bureaux de la maison ou de l'école, et les enfants se sont familiarisés avec la culture du « jeu avec les sons ». Dans les temps modernes, les jouets numériques comme Otamatone sont connectés à la culture YouTube, créant un nouveau monde de « sons mignons ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -205,9 +205,19 @@ Le concept de « jeu » revient une fois de plus au centre de la création music
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oIjmDqNvO4M?si=Xphd495xrBMA6HSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## Annexe
 
-### Histoire évolutive des jouets musicaux étranges à travers le monde (chronologie simple)
+### Historique de l'évolution des jouets musicaux étranges à travers le monde (chronologie simple)
 
 <div class="mermaid">
 

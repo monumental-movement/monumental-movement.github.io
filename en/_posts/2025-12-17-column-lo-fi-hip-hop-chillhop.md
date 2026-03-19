@@ -116,7 +116,7 @@ While this formalization lowers the barrier to entry, it also limits the range o
 
 ## 10. Commercialization and critical perspective
 
-Lo‑Fi Hip Hop/Chillhop is strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
+Lo‑Fi Hip Hop / Chillhop was strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
 
 On the other hand, there is also criticism that consuming music as a background makes it difficult to evaluate individual works.
 
@@ -154,7 +154,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 2020s
 
-* Consumption for environmental music becomes commonplace
+* Consumption for environmental music has become commonplace
 
 ---
 
@@ -243,7 +243,7 @@ This culture of imitation led to the homogenization of genres and at the same ti
 
 ### Early 2000s
 
-* The spread of DAW environment and the normalization of individual production
+* Spread of DAW environment and normalization of individual production
 
 ### Late 2000s
 

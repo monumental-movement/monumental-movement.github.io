@@ -91,7 +91,7 @@ color: #fff;
 ### Mercedes-Benz
 
 - **Modelo representativo**: Clase S (Burmester 3D envolvente, máx. 23 altavoces, 1.500W)
-- **Tecnología**: optimizada con DSP para reproducir características acústicas uniformes en cada ubicación del automóvil
+- **Tecnología**: Optimizada con DSP para reproducir características acústicas uniformes en cada ubicación del automóvil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMQnxK2CLgQ?si=--nEKP_C-P9mTh_c" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -256,7 +256,7 @@ color: #fff;
 ## Resumen: Del sonido del motor al arte sonoro: una visión del futuro de los automóviles y el sonido
 
 Los coches solían ser "máquinas de transporte". Sin embargo, ahora es un "espacio que abraza el sonido" y es una extensión de la cultura.
-Alemania ha imbuido al sonido de ingeniería de precisión, Gran Bretaña de tradición y formalidad, Estados Unidos de libertad y poder y Japón de delicada armonía.
+Alemania ha imbuido al sonido de ingeniería de precisión, Inglaterra de tradición y formalidad, Estados Unidos de libertad y poder y Japón de delicada armonía.
 El audio del automóvil en cada país es también una cristalización del sentido estético y la filosofía industrial de esa sociedad.
 
 El "escenario silencioso" de Rolls-Royce es lo último en silencio.
@@ -268,7 +268,7 @@ Ahora que avanza el cambio hacia los vehículos eléctricos, el elemento simból
 La acústica del interior del automóvil está empezando a adquirir un nuevo papel.
 Es una "sala de escucha en movimiento" y un "universo acústico personal".
 Los fabricantes de todo el mundo ya no buscan potencia ni silencio;
-**"¿Qué tipo de sonidos puedes escuchar mientras corres?"** Este es un nuevo valor de experiencia.
+**"¿Qué tipo de sonidos puedes escuchar al correr?"** Este es un nuevo valor de experiencia.
 
 El audio del coche nunca deja de evolucionar.
 El diseño acústico se corrige mediante IA y el asiento se convierte en una placa resonante, cambiando el campo sonoro según los latidos del corazón y el estado de ánimo del conductor.

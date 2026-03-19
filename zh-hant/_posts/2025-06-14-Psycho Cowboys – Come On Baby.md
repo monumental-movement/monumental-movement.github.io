@@ -20,7 +20,7 @@ Psycho Cowboys（又名 Hedfu_k）是英國製作人/作曲家 Aaron Gilbert 和
 
 這張唱片是倫敦獨立唱片公司 Wall Of Sound 於 1999 年發行的 Breaks/Big Beat 曲目。
 
-Wall Of Sound 廠牌與布萊頓的 Skint Records 一起，是 20 世紀 90 年代中後期大節拍運動的核心。他也因引進國際知名的大節奏藝術家而聞名，例如 Propellerheads、The Wiseguys 和 Les Rythmes Digitales。
+レーベルWall Of Soundは、ブライトンを拠点とするSkint Records(スキントレコード) と並んで、1990年代半ば〜後半にかけてのビッグビートムーブメントの中心的存だった。また、Propellerheads、The Wiseguys、Les Rythmes Digitalesなどの国際的に有名なビッグビートアーティストを紹介した事でも知られている。
 
 #### 曲目表
 ```md

@@ -259,7 +259,7 @@ Esa es la reencarnación misma.
 
 - Respira en el cuarto oscuro.
 
-- Juega "Momentos Divinos de la Verdad"
+- Juega Momentos Divinos de la Verdad
 
 - Centrarse en el momento en que “nace” el sonido.
 

@@ -52,7 +52,7 @@ Les membres changeaient à chaque album et le style, mélange de musiciens post-
 
 * **Adrian Sherwood** : Producteur/Réalisateur de On-U Sound
 * **Ari Up** (The Slits) : chant
-* **Mark Stewart** (The Pop Group) : chant
+* **Mark Stewart** (The Pop Group) : chant
 * **George 'Bingy Bunny' Valentine** (Roots Radics) : Guitare
 * **Style Scott** (Roots Radics) : Batterie
 * **Bruce Smith** (The Pop Group) : Batterie
@@ -165,9 +165,9 @@ Il est également emblématique de l’histoire culturelle britannique pour sa c
 
 # Chapitre 7 Technologie d'enregistrement et esthétique du studio
 
-La méthode de Sherwood en studio est
+La méthode du studio de Sherwood est
 **« Environ la moitié de l'œuvre est créée après l'enregistrement »**
-C’était tellement dub que l’ingénierie elle-même était un acte de composition.
+C'était tellement dub que l'ingénierie elle-même était un acte de composition.
 
 ### Technologies clés
 
@@ -239,7 +239,7 @@ Et cette pensée
 *Éthique de collaboration
 Il est encore profondément vivant aujourd'hui sous la forme de
 
-Le prototype de la « création multi-genres » dans laquelle les musiciens du 21ème siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
+Le prototype de la « création inter-genres » à laquelle les musiciens du 21ème siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
 
 ---
 
@@ -295,7 +295,7 @@ C’est le principe de la production musicale après Internet.
 
 NAS, pionnier de ces tendances au début des années 1980, peut être considéré comme le prototype de la musique moderne.
 
-Leur son était intense, rugueux, swinguant, rebondissant et parfois destructeur, mais fondamentalement, il s'agissait de liberté.
+Le son qu’ils ont laissé derrière eux était intense, rugueux, swinguant, rebondissant et parfois destructeur, mais à la base, il s’agissait d’être libre.
 Cette liberté continue de se ressentir dans le travail d'On-U Sound et sur les scènes underground du monde entier.
 
 ---

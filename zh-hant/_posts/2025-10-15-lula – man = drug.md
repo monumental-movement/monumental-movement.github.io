@@ -16,7 +16,7 @@ title: 露拉－男人=毒品
 
 Lula（克勞蒂亞拉德鮑爾飾）是一位來自奧地利的進步派 house/house/minimal 製作人。
 
-《Man = Drug》是一首 Hard House/Tribal House 歌曲，由 Star 69 Records 唱片公司於 1999 年發行。製作人是 Peter Rauhofer。
+《Man = Drug》是一首 Hard House/Tribal House 歌曲，由 Star 69 Records 唱片公司於 1999 年發行。制作人是 Peter Rauhofer。
 
 #### 曲目表
 ```md

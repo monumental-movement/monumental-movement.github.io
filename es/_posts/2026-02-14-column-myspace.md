@@ -61,7 +61,7 @@ timeline
 
 > Cualquiera puede publicar y compartir música en Myspace, creando una comunidad que trasciende regiones y géneros.
 
-La cultura musical de Myspace no era sólo un lugar para distribuir música, sino una plataforma donde artistas y oyentes podían conectarse directamente y formar una comunidad. Los artistas pudieron publicar sus canciones en sus páginas de perfil y entregarlas a los oyentes a través de Myspace Player, que permitía obtener vistas previas de cada canción. Además, dado que el diseño de la página se podía personalizar libremente, también era posible expresar una visión del mundo única que coincidía con el género musical y la individualidad.
+La cultura musical de Myspace no era sólo un lugar para distribuir música, sino una plataforma donde artistas y oyentes podían conectarse directamente y formar una comunidad. Los artistas pudieron publicar sus propias canciones en sus páginas de perfil y entregarlas a los oyentes a través de Myspace Player, que permitía obtener vistas previas de cada canción. Además, dado que el diseño de la página se podía personalizar libremente, también era posible expresar una visión del mundo única que coincidía con el género musical y la individualidad.
 
 Una de las características de esta plataforma es "Top Friends". También funcionó como una función de recomendación de música, permitiéndote mostrar a tus amigos más cercanos y artistas favoritos en la parte superior de la lista. Dado que la canción se difundió a través de una red de amigos, la promoción de boca en boca fue extremadamente efectiva. En particular, los géneros que eran populares entre los jóvenes de la época, como el emo, el indie rock, la electrónica y el hip-hop, formaron rápidamente comunidades en Myspace.
 

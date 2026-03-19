@@ -14,7 +14,7 @@ title: 推拉——非洲
 ---
 
 
-《Push/Pull-Africa》是 Deep End 廠牌於 1990 年以電音傳奇 NEWCLEUS 核心人物 BEN CENAC（COZMO D/Maurice Cenac）的化名發行的部落唱片。
+「Push/Pull– Africa」は、エレクトロレジェンドNEWCLEUSの中心人物BEN CENAC（COZMO D/Maurice Cenac）の別名義で、1990年にDeep Endレーベルよリーリスされたトライバルハウスレコード。
 
 #### 曲目表
 ```md

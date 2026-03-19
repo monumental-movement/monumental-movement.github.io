@@ -19,10 +19,10 @@ title: '[Chronique] Déclin et renaissance de la culture radiophonique interpré
 
 ## Un appareil appelé radio qui existait avant la musique
 
-Texte : mmr｜Thème : Les médias de la voix qui se transforment à travers la musique - L'histoire culturelle de la radio aux podcasts
+Texte : mmr｜Thème : Les médias de la voix qui se transforment à travers la musique - À propos de l'histoire culturelle de la radio aux podcasts
 
 
-La radio est souvent considérée comme un média musical, mais son essence, lorsqu’elle a été inventée, était le partage simultané de l’audio.
+La radio est souvent considérée comme un média musical, mais son essence, lorsqu'elle a été inventée, était le partage simultané de l'audio.
 Actualités, discours, lectures. La musique était l'un des contenus principaux, mais pas le but.
 
 Cependant, la musique était l’élément le plus compatible avec le dispositif radio.
@@ -107,7 +107,7 @@ Le succès d’une chanson devient indissociable de son expression visuelle, et 
 ## Déclin de la radio et passage au « écouter en écoutant »
 
 
-Prise entre la télévision et Internet, la radio ne jouera plus un rôle prépondérant.
+Prise entre la télévision et Internet, la radio ne jouera plus un rôle de premier plan.
 Mais cela n’a jamais complètement disparu.
 
 Dans la voiture, en travaillant, tard le soir.
@@ -161,7 +161,7 @@ Il s’agit d’une réinvention plus personnelle et plus longue de la culture D
 
 
 L'économie traditionnelle de la radio reposait sur la publicité.
-La structure dans laquelle la valeur était déterminée par les audiences et la portée des téléspectateurs a été optimisée pour une diffusion à grande échelle.
+La structure dans laquelle la valeur était déterminée par les audiences et le nombre de téléspectateurs a été optimisée pour une diffusion à grande échelle.
 
 Les cultures musicales de niche et les récits spécialisés sont difficiles à établir dans ce modèle.
 

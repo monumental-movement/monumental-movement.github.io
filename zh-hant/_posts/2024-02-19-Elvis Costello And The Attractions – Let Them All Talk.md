@@ -24,7 +24,7 @@ Elvis Costello & the Attractions 是一支英國新浪潮/搖滾樂隊，於 197
 
 2002年，樂團重組為Elvis Costello & the Imposters，布魯斯·托馬斯(Bruce Thomas)被排除在外。
 
-2003 年，艾維斯·科斯特洛 (Elvis Costello) 和他的景點入選搖滾名人堂。
+そして、2003年には、エルビス・コステロ & ザ・アトラクションズは、ロックの殿堂「ロックンロール・ホール・オブ・フェーム」に殿堂入りを果たしました。
 
 #### 曲目表
 ```md

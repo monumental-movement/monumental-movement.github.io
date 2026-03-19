@@ -10,8 +10,7 @@ tags:
 - Techno
 - Germany
 - Berlin
-title: '[Column] German techno and the pandemic in the 2020s: Cultural transformation
-  brought about by lockdown and revitalization'
+title: 【コラム】 2020年代のジャーマン・テクノとパンデミック──封鎖と再生がもたらした文化変容
 ---
 
 
@@ -21,17 +20,17 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 
 
 
-## Pandemic: A true history of everything from lockdown to reopening to redefining music
+## パンデミック──封鎖、再開、そして音楽の再定義まで、すべての実録史
 
 
-Text: mmr｜Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained?
+文：mmr｜テーマ：ジャーマン・テクノが2020年代にどのように変化し、何を失い、何を獲得したのか
 
 
-German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.
-Clubs were completely shut down by the government, and the entire scene was fundamentally shaken, including tourism, economy, culture, music production, and social values.
+2020年代のジャーマン・テクノは、**COVID-19パンデミック（2020–2022）** を中心に劇的な地殻変動を経験した。  
+クラブが国によって完全閉鎖され、観光・経済・文化・音楽制作・社会の価値観まで、シーン全体が根本から揺さぶられたのである。
 
-Germany is one of the countries in the world where the "institutionalization of club culture" is the most advanced, and clubs are treated politically as cultural facilities and are even on the agenda of urban policy.
-Therefore, the changes in the 2020s are not just changes in music genres, but are also largely recorded in research on cultural policy, urban planning, tourism economy, and subculture in German society.
+ドイツは世界で最も“クラブ文化の制度化”が進んだ国のひとつであり、**クラブは文化施設として政治的に扱われ、都市政策の議題にも上るほどの存在**である。  
+そのため、2020年代の変化は単に音楽ジャンルの変化ではなく、ドイツ社会の文化政策・都市計画・観光経済・サブカルチャー研究にも大きく記録されている。
 
 ---
 
@@ -40,7 +39,7 @@ Therefore, the changes in the 2020s are not just changes in music genres, but ar
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -49,223 +48,223 @@ color: #fff;
 </style>
 
 
-# Chapter 1: The Eve of the Pandemic (~March 2020)
-## ● Berlin had established itself as the world's "techno capital"
-Before March 2020, Berlin stood out from other cities worldwide.
+# 第一章：パンデミック前夜（〜2020年3月）  
+## ● ベルリンは世界の「テクノ都市」という地位を確立していた
+2020年3月より前、ベルリンは世界的に他の都市から抜きんでた存在だった。
 
-- **Long rave every weekend**
-- International pilgrimage sites such as Berghain, Tresor, About Blank, and Watergate
-- Tourists are concentrated not only from within the EU but also from South America and Asia
-- According to tourism statistics, clubs were treated as an area with extremely large economic effects.
+- **週末ごとに長時間のレイヴ**  
+- Berghain、Tresor、About Blank、Watergate などが国際的巡礼地  
+- EU圏内だけでなく南米・アジアからも観光客が集中  
+- 観光統計上、クラブは「経済効果が極めて大きい分野」として扱われていた
 
-During this period, Berlin"s clubs were the core of the city"s brand, and it was also notable that the city officially announced a club support policy.
-In terms of cultural policy, clubs are somewhat protected by the city's cultural support budget, as they are similar to theaters and galleries.
+この時期、ベルリンのクラブは**都市ブランドの核**であり、市が公式にクラブ支援政策を発表していたことも特徴的だ。  
+文化政策の面では、クラブは劇場・ギャラリーに近い存在として、市の文化支援予算で一部保護されている。
 
-## ● Musically, there were signs of speeding up.
-In 2018–2019, the following trends were already emerging:
+## ● 音楽的には高速化の前兆があった
+2018–2019年には、既に次のような傾向が出ていた：
 
-- Return of fast techno at 135-145 BPM
-- Creating industrial-oriented sounds
-- Re-evaluation of EBM/Rave/Trance
-- More hard trance citations
+- 135〜145 BPMの高速テクノの復権  
+- インダストリアル寄りの音作り  
+- EBM・レイヴ・トランスの再評価  
+- ハード・トランスの引用が増える
 
-but-
-**It was not as great as the "explosive speed increase" that will occur after 2022. **
+しかし—  
+**2022年以降の「爆発的な高速化」ほどではなかった。**
 
-This "sign of speeding up" was abruptly interrupted by the pandemic.
-
----
-
-# Chapter 2: March 2020--First-ever "nationwide club lockdown"
-## ● Clubs across Germany ordered to close
-In March 2020, the German government announced the following as an infection control measure:
-**Announced complete closure of clubs, bars and leisure facilities**.
-
-This was a legal action and all clubs were immediately closed.
-More than 300 clubs in Berlin alone went silent,
-For the first time in its history, the world-famous techno city experienced a "complete standstill."
-
-### Impact:
-- All clubs closed (March 2020 to early 2021)
-- All closed including Berghain and Tresor
-- Income from club tourism is reduced to zero
-- Occupations such as DJs, staff, lighting, and sound workers have lost income.
-- Government support with "Kurzarbeitegeld" (short-time working allowance)
-
-Statistics and media reports confirm that tens of thousands of workers who rely on clubs as a source of income have been affected.
+この“高速化の兆し”がパンデミックによって不意に中断されることになる。
 
 ---
 
-# Chapter 3: Online era and "United We Stream" (2020–2021)
-The pandemic has pushed club culture online.
+# 第二章：2020年3月――史上初の「全国クラブ封鎖」
+## ● ドイツ全土のクラブに営業停止命令
+2020年3月、ドイツ政府は感染対策として、  
+**クラブ・バー・レジャー施設の全閉鎖**を発表した。
 
-## ● Launch of "United We Stream"
-**Clubcommission Berlin** and **Arte Concert** in Berlin.
-In March 2020, we launched **United We Stream**, the world's first large-scale online club support project.
+これは法的な措置であり、全クラブは即時閉鎖となった。  
+ベルリンだけで300を超えるクラブが一斉に沈黙し、  
+世界に名だたるテクノ都市は、歴史上初めて“完全停止”を経験した。
 
-### Important factual points:
-- Broadcast without an audience from a Berlin club
-- Use donations to maintain the club
-- Watched by millions of people
-- Similar models spread to cities around the world
+### 影響：
+- 全クラブが営業停止（2020年3月〜2021年初頭）  
+- Berghain、Tresor を含む全てが閉鎖  
+- クラブ観光による収入はゼロ化  
+- DJ・スタッフ・照明・音響などの職業が収入喪失  
+- 政府が「Kurzarbeitergeld（短時間勤務手当）」で支援
 
-Going online has shaken up the stereotype that clubs are a culture that takes place in a physical space.
-It proved that club culture can also function as a digital medium.
-
-## ● Music becomes introverted due to DJ sets without an audience
-Since there is no floor,
-DJ sets have shifted to the following trends:
-
-- BPM decreases
-- Increased ambient half tempo
-- More IDM/experimental music
-- Song selection with consideration for visual appeal
-
-The early days of the pandemic were also a time when music changed into something more ""something you listen to at home" and ""something you experience through a screen."
+クラブを収入源としていた数万人規模の労働者が影響を受けたことは、統計・報道によって確認されている。
 
 ---
 
-# Chapter 4: The "acoustics" of techno will change (2020-2021)
-## ● 1) Increase in introspective and experimental techno
-Since there is no place to DJ, the demand for ""music that makes people dance'' has disappeared for artists.
-Therefore, EP/album production will proceed in the following direction:
+# 第三章：オンライン時代と“United We Stream”（2020–2021）
+パンデミックはクラブ文化をオンラインへと押し出した。
 
-- Ambient Techno
-- Downtempo
--IDM
-- Noise Drone
-- Breakbeats/Electro
+## ● “United We Stream”の始動
+ベルリンの **Clubcommission Berlin** と **Arte Concert** は、  
+2020年3月、世界初の大規模オンライン・クラブ支援企画 **United We Stream** を開始。
 
-In fact, the works released in 2020–2021 are more for listening than for club peaks.
+### 事実として重要なポイント：
+- ベルリンのクラブから無観客配信  
+- 寄付をクラブ維持に使用  
+- 数百万人が視聴  
+- 世界中の都市に同様のモデルが広がる
 
-## ● 2) High-speed techno is rising through SNS
-An interesting reversal also occurred.
+オンライン化は“クラブは物理空間で行う文化”という固定観念を揺るがし、  
+クラブ文化がデジタルメディアとしても機能し得ることを証明した。
 
-Although the clubs were closed, **high-speed techno (150-160 BPM) started to go viral on social media**.
+## ● 観客不在のDJセットによる音楽の内向化
+フロアが存在しないため、  
+DJセットは次のような傾向へ移行した：
 
-The reason is as follows:
+- BPMが下がる  
+- アンビエント・ハーフテンポの増加  
+- IDM・実験寄りの音楽が増える  
+- 映像映えを意識した選曲
 
-- Fast beats look great in short videos
-- It is easier to create a "flashy excitement" when streaming without an audience.
-- Young people use TikTok to simulate club culture
-
-In other words,
-"Physical clubs are closed, but high-speed techno is spreading on the internet"
-This strange phenomenon has progressed in 2020–2021.
-
----
-
-# Chapter 5: Club crisis and institutional transformation (2020–2022)
-## ● Clubs will be legally upgraded to "cultural facilities" (2021)
-In 2021, the German Bundestag took a historic decision.
-
-**Legal protection of clubs as "cultural institutions" (Kultureinrichtung)**
-
-This is in fact a major turning point.
-Until then, clubs were treated as a nightlife industry.
-In terms of city planning, it was treated as a ""existence that causes noise problems.''
-
-However, due to the decision in 2021,
-
-- Same "cultural facility" category as theaters and concert halls
-- Increased protection in development plans
-- Tax benefits
-- subject to public policy
-
-Due to the pandemic crisis,
-The club was institutionally recognized as a ""cultural asset.''
-
-## ● Berghain"s closure and "turning into a gallery"
-During its long-term closure, Berghain opened its interior to the public as a gallery space, "Studio Berlin."
-It attracted attention as an example of a techno club being treated like a museum.
-
-## ● Long-established stores such as Tresor are also severely affected.
-Clubs such as Tresor, Watergate and ://about blank lost their gate revenue.
-We tried to maintain it through government support, donations, and online projects.
+パンデミック初期は、音楽がより「家庭で聴くもの」「画面越しに体験するもの」へと変質した時期でもある。
 
 ---
 
-# Chapter 6: Resuming in 2022 - Explosion of high-speed techno
-## ● After restarting, BPM suddenly increased
-Clubs will reopen across Germany in 2022.
-From here on, the music changes drastically.
+# 第四章：テクノの“音響”が変わる（2020〜2021）
+## ● 1) 内省的・実験的テクノの増加
+DJをする場がない以上、アーティストは“踊らせるための音楽”の需要が消失した。  
+そのため、EP・アルバム制作は次の方向へ：
 
-### Features after restart:
-- 150-170 BPM is common
-- Stronger trance elements
-- 90's rave style tone is back
-- Industrial x transformer hybrid is established
-- "High-speed 4-stroke" has become mainstream worldwide
+- アンビエントテクノ  
+- ダウンテンポ  
+- IDM  
+- ノイズ・ドローン  
+- ブレイクビーツ／エレクトロ
 
-The aesthetics of high-speed techno that emerged on social media during the pandemic
-It's like the sound of the actual club has been overwritten.
+実際、2020–2021年にリリースされた作品は、クラブピーク向けのトラックよりもリスニング向けが多い。
 
-## ● Visits from young people will increase explosively
-In 2022–2023, the number of young tourists, especially from the EU, increased.
-The reasons for this are said to be a "feeling of freedom" after the pandemic and the visualization of club culture through social media.
+## ● 2) SNSを介して高速テクノが逆に台頭する
+興味深い逆転現象も起きた。
 
-Weekend events in Berlin
-Parties lasting **30-40 hours straight** have become more common.
+クラブは閉じていたが、**高速テクノ（150〜160 BPM）がSNSでバズる**ようになったのである。
 
-## ● High-speed techno is expanding in surrounding cities
-- Frankfurt: Increase in hard events
-- Leipzig: IfZ attracts high-speed techno customers
-- Hamburg: The rise of young DJs at PAL
-- Dresden: local rave is back
+理由は以下の通り：
 
-Techno from 2022 to 2024 has been completely updated to the "post-pandemic generation aesthetic."
+- 高速なビートは短尺動画で映える  
+- 無観客配信では“派手な盛り上がり”を作りやすい  
+- 若年層がTikTokでクラブ文化を疑似体験  
+
+つまり、  
+“物理クラブは閉じているのに、ネット上では高速テクノが広まる”  
+という奇妙な現象が2020–2021年に進行していった。
 
 ---
 
-# Chapter 7: Cultural policy and urban issues in Berlin in the 2020s
-## ● 1) Gentrification and club survival issues
-In Berlin, club locations have been under threat due to urban redevelopment.
-Post-pandemic, clubs are increasingly on the urban policy agenda.
+# 第五章：クラブの危機と制度の転換（2020–2022）
+## ● クラブは「文化施設」として法的に格上げされる（2021）
+2021年、ドイツ連邦議会は歴史的決定を下した。
 
-The idea that clubs should be protected as cultural assets is gaining ground.
+**クラブを“文化施設（Kultureinrichtung）”として法的に保護する**
 
-## ● 2) The vulnerability of tourism dependence is exposed
-The pandemic has wiped out international tourism;
-Berlin has exposed the fragility of its urban structure, which has become too dependent on tourism.
+これは事実として大きな転換点である。  
+それまでクラブはナイトライフ産業として扱われ、  
+都市計画上は“騒音問題を起こす存在”という扱いだった。
 
-Since then, the city has begun to strengthen cultural measures for local residents.
+しかし2021年の決定により、
 
-## ● 3) Digitization and archiving are progressing
-In the wake of the pandemic, the club's historical materials, videos, and audio sources have been made available online.
-From 2023 onwards, archive projects will be supported as part of cultural policy.
+- 劇場やコンサートホールと同じ「文化施設」枠  
+- 開発計画での保護が強化  
+- 税制面での優遇  
+- 公共政策の対象に
 
----
+パンデミックでの危機によって、  
+クラブが「文化資産」として制度的に認められたのである。
 
-# Chapter 8: Changes in production technology and sound creation
-## ● 1) Home production becoming the norm
-During the lockdown period, artists have had more time to create.
-the result:
+## ● Berghain の休業と“ギャラリー化”
+Berghain は長期休業中、内部をギャラリースペース “Studio Berlin” として公開した。  
+テクノクラブが美術館的に扱われた事例として注目を集めた。
 
-- Acceleration of DAW-based production
-- Migration from hardware to software
-- Increase in self-distribution on Bandcamp, etc.
-
-## ● 2) Changes in acoustic trends
-Before and after the pandemic, sound production changed as follows:
-
-### 2020–2021:
-- Drone
-- Ambient sounds recorded at home
-- Narration/Poetry
-- Increased field recording
-
-### 2022–2024:
-- 150–170 BPM
-- Emphasizes the feeling of digital clipping
-- Distortion extended to ultra-high range
-- 90s trance chord work
-
-In other words,
-The cycle of **silence → explosion** occurred in just a few years.
+## ● Tresor などの老舗も深刻な影響
+Tresor、Watergate、://about blank などのクラブは入場収入が途絶え、  
+政府支援・寄付・オンライン企画で維持を図った。
 
 ---
 
-# Chapter 9: 2020s German Techno Chronology
+# 第六章：2022年の再開――高速テクノの爆発
+## ● 再開後、BPMが急上昇
+2022年、クラブがドイツ全土で再開。  
+ここから音楽は大幅に変わる。
+
+### 再開後の特徴：
+- 150〜170 BPM が一般的に  
+- トランス要素が強まる  
+- 90年代レイヴ風の音色が復活  
+- インダストリアル×トランスのハイブリッドが定着  
+- “高速4つ打ち”が世界的に主流化
+
+パンデミック中にSNSで台頭した高速テクノの美学が、  
+実際のクラブの音に上書きされた格好だ。
+
+## ● 若年層の来訪が爆発的に増える
+2022–2023年は、特にEU圏からの若い観光客が増加した。  
+パンデミック後の“解放感”と、SNSによるクラブ文化の可視化が理由とされる。
+
+ベルリンの週末イベントは、  
+**30〜40時間連続**のパーティがより一般化した。
+
+## ● 周辺都市でも高速テクノが拡大
+- フランクフルト：ハード寄りイベントの増加  
+- ライプツィヒ：IfZ に高速テクノ客層が流入  
+- ハンブルク：PAL での若手DJの台頭  
+- ドレスデン：地元レイヴが復活
+
+2022–2024年のテクノは、完全に“アフターパンデミック世代の美学”に更新された。
+
+---
+
+# 第七章：2020年代ベルリンの文化政策・都市問題
+## ● 1) ジェントリフィケーションとクラブ存続問題
+都市再開発により、クラブの立地が危機にさらされてきたベルリンだが、  
+パンデミック後はクラブが都市政策の議題に上ることが増えた。
+
+クラブは文化資産として保護するべきという考えが定着しつつある。
+
+## ● 2) 観光依存の脆弱性が露呈
+パンデミックで国際観光が消失し、  
+ベルリンは観光に依存しすぎた都市構造の脆弱性を露呈した。
+
+以後、市は地元住民向け文化施策を強化し始めた。
+
+## ● 3) デジタル化・アーカイブ化が進む
+パンデミックを契機に、クラブの歴史資料・映像・音源がオンライン化。  
+2023年以降はアーカイブ事業が文化政策としてサポートされている。
+
+---
+
+# 第八章：制作技術と音作りの変化
+## ● 1) 在宅制作の常態化
+外出制限時期に、アーティストは制作時間が増えた。  
+その結果：
+
+- DAW主体の制作が加速  
+- ハードウェア→ソフトウェアへの移行  
+- Bandcamp 等でのセルフ配信増加
+
+## ● 2) 音響的傾向の変化
+パンデミック前後で音作りは以下のように変化した：
+
+### 2020–2021：  
+- ドローン  
+- 自宅録音の環境音  
+- ナレーション／ポエトリー  
+- フィールドレコーディングの増加
+
+### 2022–2024：  
+- 150–170 BPM  
+- デジタルクリップ感を強調  
+- 超高域まで伸びた歪み  
+- 90年代トランスのコードワーク
+
+つまり、  
+**静寂→爆発** のサイクルが、わずか数年で起きた。
+
+---
+
+# 第九章：2020年代のジャーマン・テクノ年表
 
 <div class="mermaid">
 timeline
@@ -279,36 +278,36 @@ timeline
 
 ---
 
-# Chapter 10: Future predictions after 2025
-## ● 1) Will speed increases continue?
-As of 2024, 150-170 BPM will be the mainstream.
-It is unclear whether this will continue, but it may continue due to the following factors:
+# 第十章：2025年以降の未来予測
+## ● 1) 高速化は続くのか？  
+2024年時点では150〜170 BPMが主流。  
+これが続くかどうかは未確定だが、以下の要因で継続する可能性もある：
 
-- Visual presentation on SNS goes well with high-speed music
-- Young aesthetics prefer "high information density"
-- The international market for hard techno is expanding
+- SNSでの視覚的演出が高速音楽と相性が良い  
+- 若年層の美学が“情報密度の高さ”を好む  
+- ハードテクノの国際市場が拡大している
 
-## ● 2) The club will be protected as a cultural resource of the city.
-Since Germany has already institutionalized clubs as "cultural facilities,"
-It is predicted that protection policies will become more advanced from 2025 onwards.
+## ● 2) クラブは都市の文化資源として守られる
+既にドイツはクラブを“文化施設”として制度化しているため、  
+2025年以降はより保護政策が進むと予測されている。
 
-## ● 3) Rise of regional cities
-Young players' scenes are thriving after the pandemic in places like Leipzig, Dresden, and Hamburg.
-In the second half of the 2020s, there is a high possibility that the concentration of electricity in Berlin will ease.
+## ● 3) 地方都市の台頭
+ライプツィヒ・ドレスデン・ハンブルクなどで、パンデミック後に若手シーンが健在化。  
+2020年代後半はベルリン一極集中が緩和される可能性が高い。
 
 ---
 
-# Conclusion: The pandemic "destroyed" and "remade" German techno
-German techno in the 2020s was completely different before and after the pandemic.
+# 結論：パンデミックはジャーマン・テクノを「壊し」、そして「作り変えた」
+2020年代のジャーマン・テクノは、パンデミック前後で完全に別物になった。
 
-- **Club culture has been institutionally upgraded**
-- **Music is faster and a new generation has arrived**
-- **Online culture has expanded the boundaries of clubs**
-- **Berlin is once again an international rave city**
+- **クラブ文化は制度的に格上げされた**  
+- **音楽は高速化し、新世代が登場した**  
+- **オンライン文化がクラブの境界を広げた**  
+- **ベルリンは再び国際的レイヴ都市として復権した**
 
-The pandemic has brought destruction, but it has also caused a "redefinition of culture".
-German techno in the late 2020s has become a more diverse, international, and faster-paced culture than before.
+パンデミックは破壊をもたらしたが、同時に“文化の再定義”を引き起こし、  
+2020年代後半のジャーマン・テクノは、以前よりも多様で国際的で、スピード感を増した文化となっている。
 
-This change will likely be recorded as the "2020s = era of discontinuity" in the future history of electronic music.
+この変化は今後の電子音楽史において“2020年代＝断絶の時代”として記録されるだろう。
 
 ---

@@ -53,7 +53,7 @@ PCO's origins lie in a strange event in 1972, when founder Simon Jeffes "succumb
 That's when he had a daydream-like inspiration that later became known as the "Penguin Cafe vision."
 There existed a "utopia" where people could gather freely and continue to make music without discipline or form.
 
-To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structures of minimal music.
+To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structure of minimal music.
 The music was neither traditional nor avant-garde, but crystallized as a sound that could only be found here.
 
 ---

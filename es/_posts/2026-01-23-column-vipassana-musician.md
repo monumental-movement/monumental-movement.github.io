@@ -27,7 +27,7 @@ Entre ellas, la **meditación Vipassana (Insight Meditation)** ha sido aceptada 
 
 Esta columna se centra en **músicos famosos que han practicado y experimentado la meditación Vipassana** y proporciona una introducción basada en hechos sobre cómo incorporaron la meditación en sus propias creaciones y vidas.
 
-> La meditación Vipassana se ha transmitido desde la antigüedad como un método de meditación para "ver las cosas como realmente son", y en los tiempos modernos, muchos practicantes están apareciendo no sólo entre los atletas y ejecutivos de negocios, sino también entre los artistas creativos.
+> La meditación Vipassana se ha transmitido desde la antigüedad como un método de meditación para "ver las cosas como realmente son", y en los tiempos modernos, muchos practicantes están apareciendo no sólo entre los atletas y directivos, sino también entre los artistas creativos.
 
 ---
 
@@ -68,7 +68,7 @@ En concreto, se conocen las siguientes prácticas:
 - Comenzó a aprender meditación Vipassana en 2003 con el consejo de Rick Rubin.
 - Luego asistió a numerosos **cursos de meditación de 10 días**
 - Se ha anunciado que "normalmente hago meditación zazen durante unas 2 horas al día".
-- También se dice que después de su temprana experiencia de meditación, instituyó un período de abstinencia (restricción de la actividad sexual) de tres años (como disciplina personal).
+- También se dice que después de su temprana experiencia de meditación, instituyó un período de abstinencia (restricción de la actividad sexual) durante tres años (como disciplina personal).
 
 Todos estos son ejemplos notables de cómo la meditación tuvo una profunda influencia en su autoconocimiento y el establecimiento de sus valores.
 

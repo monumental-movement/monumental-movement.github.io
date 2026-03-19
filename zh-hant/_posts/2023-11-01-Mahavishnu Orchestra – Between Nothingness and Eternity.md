@@ -10,7 +10,7 @@ tags:
 - Fusion
 - Jazz
 - Rock
-title: Mahavishnu Orchestra – 虛無與永恆之間
+title: Mahavishnu Orchestra – Between Nothingness & Eternity
 ---
 
 

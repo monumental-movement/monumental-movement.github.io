@@ -9,17 +9,16 @@ layout: post
 tags:
 - Reggae
 - Hiphop
-title: '[Column] Reggae × Hip-Hop: From sound systems to world cities—a history of
-  global exchange of intersecting rhythms'
+title: 【コラム】 Reggae × Hip-Hop：サウンドシステムから世界都市へ——交差するリズムのグローバル交流史
 ---
 
 
 
-## From sound systems to global standards, the genealogy of bass culture that crosses borders
+## サウンドシステムから世界標準へ、越境する低音文化の系譜
 
-Text: mmr｜Theme: The back and forth of rhythm connecting Jamaica and the Bronx, and the cultural history of expansion into global cities
+文：mmr｜テーマ：ジャマイカとブロンクスを結ぶリズムの往還と、世界都市へ拡張した文化史
 
-Reggae and hip-hop are bass cultures that were born from the periphery and spread to the world through cities. When Jamaican sound systems intersected with New York's Bronx, the music became more than just entertainment and began to tell the story of immigration and the city itself. This paper traces the history of that exchange in terms of events and works.
+レゲエとヒップホップは、周縁から生まれ、都市を媒介に世界へ広がった低音文化である。ジャマイカのサウンドシステムとニューヨークのブロンクスが交差したとき、音楽は単なる娯楽を超え、移民と都市の歴史そのものを語り始めた。本稿は、その交流史を出来事と作品に即して辿る。
 
 
 ---
@@ -29,7 +28,7 @@ Reggae and hip-hop are bass cultures that were born from the periphery and sprea
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,82 +37,82 @@ color: #fff;
 </style>
 
 
-### What is Reggae × Hip-Hop?
+### Reggae × Hip-Hopとは何か
 
-Reggae is a popular music that was established in Jamaica in the late 1960s, and has evolved from ska and rocksteady, and is characterized by off-beats and heavy bass. Hip-hop is a cultural movement that was formed in the Bronx, New York in the early 1970s, and has four elements: DJing, MCing, breakdancing, and graffiti.
+レゲエは1960年代後半のジャマイカで確立したポピュラー音楽であり、スカとロックステディを経て、オフビートと重低音を特徴とする。ヒップホップは1970年代前半のニューヨーク・ブロンクスで形成された文化運動で、DJ、MC、ブレイクダンス、グラフィティを四要素とする。
 
-The points of contact between the two are sound system culture, toasting (narration over the beat), and bass-driven sound design.
+両者の接点は、サウンドシステム文化、トースティング（ビート上の語り）、そしてベース主導の音響設計にある。
 
-* The culture of public address equipment called sound systems
-* MC/toasting rhythmic speaking
-* Bass-centered mix philosophy
-*Cultural migration by diaspora
-* Self-expression from the urban periphery
+* サウンドシステムという拡声装置文化
+* MC／トースティングのリズム話法
+* 低音中心のミックス思想
+* ディアスポラによる文化移動
+* 都市周縁からの自己表現
 
-> Reggae and hip-hop are "sibling cultures" with the same structure developed in different cities.
+> レゲエとヒップホップは、同じ構造を異なる都市で展開した“兄弟文化”である。
 
 ---
 
 ## History
 
-### Kingston: The establishment of the sound system
+### キングストン：サウンドシステムの成立
 
-In the 1950s, sound systems with large mobile speakers were popular in Kingston. **Coxsone Dodd** and **Duke Reid** imported American R&B and created their own dance culture.
+1950年代のキングストンでは、移動式の巨大スピーカーを備えたサウンドシステムが人気を博した。**Coxsone Dodd**や**Duke Reid**は、アメリカのR&Bを輸入し、独自のダンス文化を築いた。
 
-From the late 1960s to the 1970s, DJs appeared who spoke over instrumental music. A representative figure is **U-Roy**, who made his style of layering improvisational storytelling over existing riddim into a hit.
+1960年代後半から70年代にかけて、インストゥルメンタルの上で語るDJが登場する。代表的存在が**U-Roy**であり、彼は既存のリディムに即興的な語りを重ねるスタイルをヒットへと押し上げた。
 
-> The technique of manipulating words over the beat would later be reinvented in another city.
-
----
-
-### The Bronx: The Birth of Hip Hop
-
-Originally from Jamaica, **DJ Kool Herc** moved to New York in 1967. On August 11, 1973, at a party on Sedgwick Avenue in the Bronx, he demonstrated a technique for extending breaks using two turntables.
-
-This "breakbeat" excited the dancers, and the MC was responsible for stirring up the audience. Over time, **Grandmaster Flash** refined quick mix theory and developed scratching and precise cueing techniques.
-
-Hip-hop was a reimagining of Jamaican sound system culture in an urban context.
-
-> The musical memories engraved on the bodies of immigrants gave birth to a new culture in the Bronx.
+> ビートの上で言葉を操る技法は、のちに別の都市で再発明される。
 
 ---
 
-### Digitalization and fusion: 1980s-90s
+### ブロンクス：ヒップホップの誕生
 
-In 1985, **Under Mi Sleng Teng** was released. This song, which used presets on the Casio MT-40, ushered in the digital dancehall era.
+ジャマイカ出身の**DJ Kool Herc**は1967年にニューヨークへ移住。1973年8月11日、ブロンクスのセジウィック・アベニューで開催したパーティで、2台のターンテーブルを用いてブレイク部分を延長する手法を披露した。
 
-Around the same time, sampling culture expanded in the United States, and hip-hop entered the realm of sonic experimentation. In the 1990s, **Shabba Ranks** became an international hit and the fusion of dancehall and rap progressed.
+この“ブレイクビーツ”はダンサーを熱狂させ、MCは観客を煽る役割を担った。やがて**Grandmaster Flash**がクイックミックス理論を洗練させ、スクラッチや正確なキューイング技術を発展させる。
 
-The appearances of **Busta Rhymes**, who has a Jamaican flow, and **The Notorious B.I.G.**, which has a Caribbean intonation, are symbolic of this.
+ヒップホップは、ジャマイカのサウンドシステム文化を都市文脈で再構築したものであった。
 
-> The two have gone beyond their citational relationship and become a hybrid on the acoustic and linguistic level.
-
----
-
-### 21st Century: Expanding to Global Pop
-
-In the 2000s, dancehall rhythms permeated mainstream pop. **Sean Paul** becomes a success on the US charts and his Caribbean beat becomes a global standard.
-
-Additionally, artists such as **Rihanna** and **Drake** introduced dancehall elements, and hip-hop became completely global.
-
-> Reggae and hip-hop are once again intersecting at the heart of the pop market.
+> 移民の身体に刻まれた音楽記憶が、ブロンクスで新しい文化を生んだ。
 
 ---
 
-## Chronology
+### デジタル化と融合：1980〜90年代
 
-| Years | Events |
+1985年、**Under Mi Sleng Teng**が発表される。カシオMT-40のプリセットを用いたこの楽曲は、デジタル・ダンスホール時代の幕開けとなった。
+
+同時期、アメリカではサンプリング文化が拡大し、ヒップホップは音響実験の領域へ踏み込む。1990年代には、**Shabba Ranks**が国際的ヒットを記録し、ダンスホールとラップの融合が進む。
+
+ジャマイカ系のフロウを持つ**Busta Rhymes**や、カリブのイントネーションを内包する**The Notorious B.I.G.**の登場は、その象徴である。
+
+> 両者は引用関係を超え、音響と言語のレベルで混血化した。
+
+---
+
+### 21世紀：グローバル・ポップへの拡張
+
+2000年代、ダンスホールのリズムは主流ポップへ浸透する。**Sean Paul**は米国チャートで成功し、カリブ的ビートは世界標準となる。
+
+さらに**Rihanna**や**Drake**らがダンスホール的要素を取り入れ、ヒップホップは完全にグローバル化した。
+
+> レゲエとヒップホップは、ポップ市場の中心で再び交差している。
+
+---
+
+## 年表
+
+| 年代    | 出来事                          |
 | ----- | ---------------------------- |
-| 1950s | Sound system culture established in Kingston |
-| 1970 | U-Roy hits Toasting |
-| 1973 | DJ Kool Herc develops breakbeats in the Bronx |
-| 1985 | Under Mi Sleng Teng announcement |
-| 1990s | Progress in the fusion of dancehall and hip-hop |
-| 2000s | Dancehall becomes global pop |
+| 1950s | キングストンでサウンドシステム文化確立          |
+| 1970  | U-Royがトースティングでヒット            |
+| 1973  | DJ Kool Hercがブロンクスでブレイクビーツ展開 |
+| 1985  | Under Mi Sleng Teng 発表       |
+| 1990s | ダンスホール×ヒップホップの融合進展           |
+| 2000s | ダンスホールがグローバル・ポップ化            |
 
 ---
 
-## Structure diagram
+## 構造図
 
 <div class="mermaid">
 flowchart TD
@@ -125,62 +124,62 @@ E --> F[Dancehall Digital Era]
 F --> G[Global Pop Expansion]
 </div>
 
-> Sound was passed across the ocean and from city to city.
+> 音は海を越え、都市から都市へと受け渡された。
 
 ---
 
 ## Key Artists
 
 * Coxsone Dodd
-*U-Roy
+* U-Roy
 * DJ Kool Herc
 * Grandmaster Flash
 * Shabba Ranks
-*Sean Paul
+* Sean Paul
 
-> They were not only musicians but also mediators of culture.
+> 彼らは音楽家であると同時に、文化の媒介者だった。
 
 ---
 
 ## Essential Tracks
 
 * Under Mi Sleng Teng – Wayne Smith
-* Rapper"s Delight – Sugarhill Gang
+* Rapper’s Delight – Sugarhill Gang
 * Dem Bow – Shabba Ranks
 * Get Busy – Sean Paul
 
-> Listening to these songs, the genealogy of bass culture becomes clear.
+> これらの楽曲を聴けば、低音文化の系譜が明確に浮かび上がる。
 
 ---
 
 ## Cultural Impact
 
-Reggae presented a postcolonial identity in sound. Hip-hop visualized urban reality through poetry and beats. As the two intersected, bass and storytelling became a universal language.
+レゲエは植民地後のアイデンティティを音で提示した。ヒップホップは都市の現実を詩とビートで可視化した。両者が交差したことで、低音と語りは世界共通語となった。
 
-* Visualization of immigrant culture
-* Global spread of sound systems
-* Commercial success of dancehall
-* International standardization of hip-hop
+* 移民文化の可視化
+* サウンドシステムの世界的拡散
+* ダンスホールの商業的成功
+* ヒップホップの国際標準化
 
-> Reggae x Hip-Hop is a microcosm of the cultural circulation created by cities.
+> Reggae × Hip-Hopは、都市が生み出す文化循環の縮図である。
 
 ---
 
 ## FAQ
 
-### Which came first, reggae or hip hop?
+### レゲエとヒップホップはどちらが先か
 
-Reggae, including its toasting culture, preceded it, and its techniques influenced the formation of hip-hop.
+トースティング文化を含むレゲエが先行し、その技法がヒップホップ形成に影響した。
 
-### Why are the two connected?
+### なぜ両者は結びついたのか
 
-This was due to the common ground of cultural movement due to immigration and bass-driven sonic philosophy.
+移民による文化移動と、ベース主導の音響思想という共通基盤があったため。
 
-### Is the impact still being felt?
+### 現在も影響は続いているか
 
-This structure has been inherited by many genres such as contemporary pop, trap, and Afrobeats.
+現代ポップ、トラップ、アフロビーツなど多くのジャンルにその構造は受け継がれている。
 
-> This history of exchange will never end. As long as cities exist, bass sounds will continue to give birth to new languages.
+> この交流史は終わらない。都市が存在する限り、低音は新しい言語を生み続ける。
 
 
 ---

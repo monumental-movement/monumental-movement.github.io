@@ -40,7 +40,7 @@ Un pianista y una orquesta ofrecieron música en vivo en el cine. Por lo tanto, 
 
 A partir de [``The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), se introdujo el **sonido óptico** y entramos en una era en la que la información de audio (partituras) se grababa en películas de vídeo.
 
-Por esta época, quedó claro el significado de "banda sonora = material de audio de una película".
+Por esta época, el significado de "banda sonora = material de audio de la película" quedó claro.
 
 **●Principales medios para la música de cine: cambios tecnológicos en la grabación y reproducción**
 
@@ -70,7 +70,7 @@ Una nueva forma de llevar música de películas con el audio de tu coche o dispo
 
 ■CD (disco compacto)
 
-Desde la década de 1980, se ha vuelto popular como formato con alta calidad de sonido, larga duración y un alto grado de libertad en el orden de las canciones.
+Desde la década de 1980, se ha vuelto popular como formato con alta calidad de sonido, larga duración y alta flexibilidad en el orden de las canciones.
 
 Se hizo posible grabar partituras completas, creando una época dorada para la apreciación de la música cinematográfica.
 
@@ -80,7 +80,7 @@ También han aparecido sellos especializados en bandas sonoras (La-La Land Recor
 
 Un medio para "reexperimentar" bandas sonoras en obras de vídeo.
 
-La expresión espacial de la música ha evolucionado enormemente con la tecnología estereofónica como 5.1ch/DTS.
+La expresión espacial de la música ha evolucionado enormemente gracias a la tecnología estereofónica como 5.1ch/DTS.
 
 ■Fuente de sonido digital (MP3/WAV/FLAC/AAC)
 

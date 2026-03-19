@@ -14,7 +14,7 @@ title: 吉爾伯託與圖倫廷 (Deodato) 編曲 – 吉爾伯託與圖倫廷 (G
 ---
 
 
-這張專輯是巴西波薩諾瓦歌手若昂·吉爾伯托（João Gilberto）和美國男高音薩克斯風演奏家斯坦利·特倫廷（Stanley Turrentine）的合作作品。
+這張專輯是巴西波薩諾瓦歌手若昂·吉爾伯托（João Gilberto）和美國男高音薩克斯管演奏家斯坦利·特倫廷（Stanley Turrentine）的合作作品。
 
 《Gilberto With Turrentine》將 João Gilberto 精湛的巴薩諾瓦歌唱和吉他演奏與 Stanley Turrentine 深情的男高音薩克斯管結合在一起。德奧達託的編曲融合了巴西音樂和爵士樂的元素，創造出獨特而迷人的聲音。
 

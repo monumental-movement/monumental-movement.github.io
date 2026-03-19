@@ -71,7 +71,7 @@ Durante este período, STS9 actuó activamente en festivales locales.
 Hemos establecido una posición única.
 
 - largas improvisaciones
-- Sensación de loop tipo DJ
+- Sensación de bucle similar a la de un DJ
 - Producción de iluminación y vídeo con visión del mundo.
 
 Estos eran raros en la escena del rock en ese momento y fueron descritos por el público como "un set de DJ que tocaba".
@@ -89,8 +89,8 @@ Canción representativa:
 - “Atlas”
 - "Algo"
 - “Arigato”
--“Tokio”
-- "Gente"
+- “Tokio”
+-“Pueblos”
 
 Estos se reproducen con frecuencia en la lista de canciones actual y simbolizan mejor la imagen musical de STS9.
 
@@ -148,7 +148,7 @@ Desde el comienzo de STS9
 - Apoyo educativo
 - Protección del medio ambiente
 - Actividades locales
-Ha participado activamente en actividades benéficas como
+Ha participado activamente en actividades benéficas como:
 
 También hay muchas presentaciones que donan una parte de las ganancias de las entradas en vivo y muchas canciones que tienen temas sociales como tema.
 En particular, “Peaceblaster” (2008) se posiciona como una obra conceptual con temas políticos y ambientales como trasfondo.
@@ -164,7 +164,7 @@ Este cambio también tuvo un impacto en la música, siendo cada vez más comunes
 ## 5-2. *El Universo Adentro* (2016)
 
 Este álbum de 2016 tiene un énfasis aún mayor en los sintetizadores y también ha aumentado la cantidad de canciones centradas en la música dance.
-En los arreglos en vivo, hubo muchos intentos de reconstruir canciones pasadas en un estilo EDM.
+En los arreglos en vivo, hubo muchos intentos de reconstruir canciones pasadas en estilo EDM.
 
 ## 5-3. STS9 actual
 
@@ -200,7 +200,7 @@ Esto garantiza un **grosor acústico** incluso durante presentaciones en vivo, c
 # 7. Filosofía en vivo de STS9: estructura del escenario, iluminación, comunidad
 ## 7-1. Estructurando el setlist
 STS9 cambia su lista de canciones cada vez que salen de gira,
-- Abridor (presentación de la cosmovisión)
+- Abridor (presentación de la visión del mundo)
 - Desarrollo del mediocampo
 - pico del piso
 - Parte de ritmo profundo

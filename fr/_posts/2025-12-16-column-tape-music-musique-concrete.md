@@ -26,7 +26,7 @@ Avant la musique concrète, la musique était traitée comme une combinaison d�
 
 ### 1.2 Technologie de radiodiffusion et espace expérimental
 
-L'installation de recherche rattachée à la station de radiodiffusion fonctionnait comme un espace expérimental différent de la salle de spectacle. Les sons joués dans un espace exclusivement destiné à la reproduction ont été séparés du corps de l'interprète et l'acte d'écoute lui-même a été restructuré.
+Le centre de recherche rattaché à la station de radiodiffusion fonctionnait comme un espace expérimental différent de la salle de spectacle. Les sons joués dans un espace exclusivement destiné à la reproduction ont été séparés du corps de l'interprète et l'acte d'écoute lui-même a été restructuré.
 
 
 ---
@@ -137,11 +137,11 @@ La musique sur bande ne nécessite pas nécessairement un début, un développem
 
 ### 9.2 Recyclage de l'écoute
 
-Le processus par lequel les sons réels étaient abstraits obligeait les auditeurs à diriger leur attention d’une nouvelle manière.
+Le processus par lequel les sons réels étaient abstraits obligeait les auditeurs à diriger leur attention d’une manière nouvelle.
 
 ---
 
-## 10. Diffusion d'influence
+## 10. Diffusion de l'influence
 
 ### 10.1 Musique expérimentale et au-delà
 
@@ -156,7 +156,7 @@ C’est à cette époque que s’est enracinée la reconnaissance du fait que le
 ## 11. Chronologie
 
 * Années 1940 : diffusion de l'enregistrement sur bande magnétique
-* Années 1950 : Systématisation de la musique Gutai
+* Années 1950 : Systématisation de la musique Gutai
 * Années 1960 : Développement des studios de musique électronique
 * Années 1970 : Réévaluation par la fusion de l'improvisation, de la noise et de la musique électronique
 

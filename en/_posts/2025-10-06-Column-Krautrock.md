@@ -19,7 +19,7 @@ title: '[Column] A complete history of Krautrock - German experimental music as 
 Text: mmr｜Theme: Krautrock is an important trend that deeply influenced later generations of music such as experimental music, electronic music, post-rock, and techno that originated in Germany.
 
 "Krautrock"——. It was originally a derogatory name given by a British music magazine.
-"Sauerkraut" is a slang term for Germans.
+"Sauerkraut" is a slang term for German people.
 However, young people in the late 1960s reversed that label and used it as a banner for creating their own music.
 
 Postwar Germany. Memories of defeat, the flood of American and British culture, and the emptiness of not having a voice.

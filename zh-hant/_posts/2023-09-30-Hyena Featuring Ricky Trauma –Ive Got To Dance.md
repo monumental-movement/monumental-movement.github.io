@@ -16,7 +16,7 @@ title: 鬣狗與 Ricky Trauma 合作——我必須跳舞
 鬣狗演繹 Ricky Trauma 的“I’ve Got To Dance”
 推薦B面“Velvet Mix”。
 
-路易吉·斯坦加 (Luigi Stanga) 製作的一首不太出名的作品，但值得一聽。
+ルイジ・スタンガによるあまり知られていないプロダクションですが、要チェックなトラックです。
 
 #### 曲目表
 ```md

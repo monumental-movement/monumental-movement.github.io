@@ -46,7 +46,7 @@ color: #fff;
 
 ## Origen y formación del Calipso
 
-Los orígenes del Calypso se remontan a los siglos XVIII y XIX en la isla de Trinidad. La cultura del carnaval introducida durante el período colonial francés y el canto de llamada y respuesta y la cultura de la poesía de improvisación originaria de África occidental, que se centraba en la narración de historias, se mezclaron para crear una forma única de canción. Originalmente se cantaba en criollo francés y era una forma de crítica social difícil de entender para las potencias coloniales.
+Los orígenes del Calypso se remontan a los siglos XVIII y XIX en la isla de Trinidad. La cultura del carnaval introducida durante el período colonial francés y la cultura del canto de llamada y respuesta y la poesía de improvisación originaria de África occidental, centrada en la narración de historias, se mezclaron para crear una forma única de canción. Originalmente se cantaba en criollo francés y era una forma de crítica social difícil de entender para las potencias coloniales.
 
 A finales del siglo XIX, bajo el dominio británico, el calipso se expandió a las zonas urbanas incorporando al mismo tiempo el inglés. Antes de que los periódicos se hicieran populares, los calipsonianos eran reporteros de facto que informaban sobre escándalos, política, crímenes y romances en verso. La inteligencia lírica, la ironía y el doble sentido fueron criterios de evaluación importantes, y se puso énfasis en la nitidez de las palabras más que en la melodía.
 
@@ -74,7 +74,7 @@ En la primera mitad del siglo XX, la tecnología de grabación y la radiodifusi�
 
 Durante este proceso, el calipso se consumió cada vez más como música tropical y exótica. Al mismo tiempo, sin embargo, se mantiene en la isla una expresión más radical y directa, formando una estructura dual. La división entre formas de soca extranjera y nacional, grabada y en vivo, oficial y no oficial influyó más tarde en el nacimiento de la soca.
 
->Si bien la modernización amplió el calipso, también sirvió como prueba de su agudeza.
+> Si bien la modernización amplió el calipso, también sirvió como prueba de su agudeza.
 
 ---
 
@@ -121,7 +121,7 @@ Este cambio puede verse no como resultado de la Caída, sino como resultado de l
 
 A finales del siglo XX, la soca y el calipso se extendieron a Londres, Nueva York y Toronto debido al aumento de inmigrantes caribeños. En estas ciudades, el carnaval se ha reinventado y la música funciona como un mantenedor de identidad para las comunidades de inmigrantes.
 
-Al mismo tiempo, progresó la fertilización cruzada con la música local y también nació la fusión con el hip-hop y el house. Pero se mantiene la estructura central celebrativa y repetitiva, manteniendo la continuidad con sus orígenes.
+Al mismo tiempo, progresó la fertilización cruzada con la música local y también nació la fusión con el hip-hop y el house. Pero se mantiene el núcleo festivo y la estructura repetitiva, manteniendo la continuidad con sus orígenes.
 
 > La soca y el calipso son música que se mueve pero que nunca pierde su esencia.
 

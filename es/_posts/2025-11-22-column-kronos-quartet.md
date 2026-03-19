@@ -123,7 +123,7 @@ La innovación en la música de cine es particularmente notable con la película
 
 ---
 
-### Integrando música de cine en la línea de tiempo
+### Integrar la música de cine en la cronología.
 
 
 <div class="mermaid">

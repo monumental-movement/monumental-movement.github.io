@@ -10,21 +10,22 @@ tags:
 - Film
 - Soundtrack
 - 10s
-title: 【コラム】 2010年以降のホラー洋画とそのサウンドトラック
+title: '[Chronique] Films d''horreur occidentaux et leurs bandes originales depuis
+  2010'
 ---
 
 
-## 序章：沈黙の恐怖と低周波の時代
+## Prologue : L'ère de la terreur silencieuse et des basses fréquences
 
 
-文：mmr｜テーマ：A24からブラムハウス、そしてAIホラーまで──2010年代以降のホラー映画を支配した“音の恐怖”を、文化史と音響美学の両面から解き明かす。
+Texte : mmr｜Thème : De A24 à Blumhouse en passant par l'horreur de l'IA - démêler « l'horreur du son » qui domine les films d'horreur depuis les années 2010, tant du point de vue de l'histoire culturelle que de l'esthétique acoustique.
 
-2010年代、ホラー映画はかつてないほど「音」を意識する芸術へと変貌した。  
-ジャンプスケア（突発的な音による驚かせ）は過去の手法となり、代わりに**低周波・環境ノイズ・残響**が恐怖の主役となる。  
-それは、視覚よりも聴覚が深層心理を直撃するという聴覚心理学的な発見の応用でもあった。  
+Dans les années 2010, les films d’horreur se sont transformés en une forme d’art plus soucieuse du son que jamais.
+Les frayeurs liées aux sauts appartiennent au passé et, à la place, les basses fréquences, le bruit ambiant et les réverbérations dominent les frayeurs.
+Il s’agissait également d’une application de la découverte psychoacoustique selon laquelle l’audition affecte le psychisme profond plus directement que la vision.
 
-この時代のホラー映画は、単に恐怖を与えるだけでなく、**音響を通じて観客の内面を“侵食”する**。  
-この変化の中心にいたのが、A24やブラムハウスといった新世代の制作スタジオである。
+Les films d'horreur de cette époque non seulement suscitaient la peur, mais « érodaient » également le monde intérieur du public à travers le son.
+Au centre de ce changement se trouvaient une nouvelle génération de studios de production tels qu'A24 et Blumhouse.
 
 ---
 
@@ -41,118 +42,118 @@ color: #fff;
 </style>
 
 
-### 第一章：A24が鳴らした“恐怖の新音響”
+### Chapitre 1 : Le « nouveau son terrifiant » d'A24
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iri0EM3hcBY?si=K6XXKGfUqPWdLpUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-A24の登場は、ホラーをアート映画の文脈に引き上げた。  
+L’arrivée d’A24 a élevé l’horreur dans le contexte du cinéma d’art.
 [『The Witch』（2015）](https://amzn.to/48UASVp)はその象徴である。[Mark Korven](https://amzn.to/3KHRdTr)によるスコアは旋律を拒み、**木製楽器と微分音**で構成された祈祷的ドローンが観客の神経を締め上げる。  
-沈黙とノイズの境界が曖昧になる音響設計は、まさにA24美学の核心だった。
+Un design acoustique qui brouille la frontière entre silence et bruit était au cœur de l’esthétique de l’A24.
 
 続く[『Hereditary／ヘレディタリー』（2018）](https://amzn.to/470xAxf)では、[Colin Stetson](https://amzn.to/438tcv3)のサクソフォニック・ドローンが異様な緊張を形成する。  
-ブレス音、歪んだリードの共鳴、重低音の波動──これらが“見えない存在”の気配を物理的に感じさせる。  
+Le son du souffle, la résonance des anches déformées, les vibrations des basses profondes - ces choses vous font ressentir physiquement la présence d'une "présence invisible".
 
 [『Midsommar』（2019）](https://amzn.to/3WzeBFe)では、[The Haxan Cloak](https://amzn.to/4mV3nFT)、[Bobby Krlic](https://amzn.to/473kC1M) が北欧の民族儀礼音楽と電子ノイズを融合。 
-陽光に満ちた映像とは裏腹に、音は**祝祭と狂気の境界**を曖昧にし、ホラーの新境地を切り開いた。  
+Contrairement aux images ensoleillées, le son brouille la frontière entre fête et folie, ouvrant une nouvelle frontière à l’horreur.
 
-A24のホラー音響は、「叫び」ではなく「囁き」で観客を震わせる。
+Le système audio d'horreur d'A24 secoue le public avec des « murmures » plutôt que des « cris ».
 
 ---
 
-### 第二章：ブラムハウス・ホラーの音響設計
+### Chapitre 2 : Conception sonore d'horreur de Blumhouse
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-対照的に、ブラムハウス・プロダクションは**低予算ながら緻密な音設計**で恐怖を増幅させた。  
+Blumhouse Productions, en revanche, a amplifié la peur avec une conception sonore à petit budget mais détaillée.
 [『Insidious』（2010）](https://amzn.to/4nRnAOm)や[『The Conjuring - 死霊館』（2013）](https://amzn.to/48qVkx0)では[Joseph Bishara](https://amzn.to/4okJ3ix)が作曲を担当。  
-ストリングスを限界まで歪ませ、ホワイトノイズを重層させる“音の壁”は、まるでエクソシズムの悪夢だ。
+Le "mur de son" qui déforme les cordes jusqu'à leurs limites et superpose du bruit blanc est comme un cauchemar d'exorcisme.
 
 [『Get Out』（2017）](https://amzn.to/48TUfxW)では、[Michael Abels](https://amzn.to/4720Bca)が黒人霊歌のコード進行を反転させたジャズスコアを構築。  
-その響きは、**社会的恐怖＝人種差別の構造**を音として翻訳する。  
-音楽がストーリーテリングの一部として政治的機能を果たした稀有な例である。
+Le son traduit **peur sociale = structure du racisme** en son.
+Il s’agit d’un exemple rare de musique remplissant une fonction politique dans le cadre de la narration.
 
 [『The Invisible Man-透明人間』（2020）](https://amzn.to/48qvBVt)では、[Benjamin Wallfisch](https://amzn.to/46ZWI7p)が電子音で“見えない存在”を具現化。  
-音が聞こえない瞬間こそが最大の恐怖を生むという、**負の音響空間**のデザインが光る。
+La conception de l'**espace acoustique négatif** brille, car le moment où aucun son n'est entendu crée la plus grande peur.
 
 ---
 
-### 第三章：レトロ・ホラーの復活とアナログ・サウンド
+### Chapitre 3 : Résurrection de l'horreur rétro et du son analogique
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OoXoz80d62M?si=UxxayLxQSg-18_Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-2010年代半ば、80年代的ホラーサウンドが復活した。  
+Au milieu des années 2010, le son d’horreur des années 80 a fait son grand retour.
 [『It Follows』（2014）](https://amzn.to/4mSiAaF)では、Disasterpeaceがシンセベースの冷たいアルペジオで**追跡される恐怖**を音像化。  
-そのトラックはクラブカルチャーでも人気を博し、レトロシンセが再評価される契機となった。
+Le morceau est devenu populaire dans la culture des clubs et a servi d'occasion aux synthés rétro d'être réévalués.
 
 [『The Guest』（2014）](https://amzn.to/3WxUjvS)はJohn Carpenter的電子サスペンスを現代的に再解釈。  
 レトロウェーブの波が広がり、[『Stranger Things』](https://amzn.to/3KRGS7r)のKyle Dixon & Michael Steinによるスコアがその潮流を決定づけた。  
 
-電子音による“郷愁と恐怖の融合”は、**カーペンター直系のサウンド・ホラー美学**として2010年代を支配した。
+La « fusion de la nostalgie et de la peur » à travers les sons électroniques a dominé les années 2010 en tant qu'esthétique d'horreur sonore directement issue de Carpenter.
 
 ---
 
-### 第四章：ヨーロッパ・アートホラーの音と沈黙
+### Chapitre 4 : Le son et le silence de l'horreur artistique européenne
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/85VPBoJb978?si=qZvyShWjlMUnz11Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-A24以外にも、ヨーロッパでは「沈黙の美学」を追求したホラーが登場する。  
+En plus d'A24, des films d'horreur qui poursuivent « l'esthétique du silence » sont apparus en Europe.
 ルカ・グァダニーノ監督[『Suspiria』（2018）](https://amzn.to/4hee5Gs)は、[Thom Yorke](https://amzn.to/4nWkJmY)がピアノとシンセを中心に、祈りと絶望の音を紡いだ。  
 これはGoblin版[『Suspiria』（1977）](https://amzn.to/4nHfyqZ)への敬意であり、同時に**喪失と再生の音響詩**でもある。  
 
 [『Saint Maud』（2019）](https://amzn.to/4q40qph)では、宗教的狂気を包み込むような静寂と幻聴。  
 ノルウェーの[『Thelma』（2017）](https://amzn.to/4q6uf8J)やスウェーデンの[『Border』（2018）](https://amzn.to/48W9tCu)では、氷のようなドローン音が**北欧的冷気**を音で再現する。  
 
-沈黙、環境音、呼吸──これらが、視覚を超えた宗教的恐怖を構築するのだ。
+Le silence, les bruits environnementaux, la respiration créent une peur religieuse qui va au-delà du visuel.
 
 ---
 
-### 第五章：ホラー×電子音楽カルチャーの融合
+### Chapitre 5 : Fusion de la culture de l'horreur et de la musique électronique
 
 [Oneohtrix Point Never](https://amzn.to/4nITXym)、[Ben Frost](https://amzn.to/3J5XasP)、[Mica Levi](https://amzn.to/3J7GQYD)といった電子音楽家たちは、ホラー音響の“外部”から参入し、映画音楽を変えた。  
 Ben Frostの[『Dark』シリーズ](https://amzn.to/42B4KCn)や[『Super Dark Times』（2017）](https://amzn.to/42DfU9Q)は、ドローンと歪みで聴覚的な焦燥を生む。  
 Mica Leviの[『Under the Skin』（2013）](https://amzn.to/3J4PJC6)は、エイリアン的異物感を**音階の逸脱**として提示した。  
 
-さらに、ホラー・サウンドトラックはアナログレコードとして再流通し、  
-**Death Waltz**や**Waxwork Records**がホラー音楽を“聴く文化遺産”として再評価した。  
-クラブDJがホラーサントラをセットに組み込む現象も広がり、  
-映画音楽とクラブカルチャーが奇妙に交錯する時代となった。
+De plus, les bandes sonores d'horreur sont recirculées sous forme de disques analogiques,
+**Death Waltz** et **Waxwork Records** ont réévalué la musique d'horreur en tant que « héritage culturel d'écoute ».
+Le phénomène des DJ de club incorporant des bandes sonores d’horreur dans leurs sets s’est largement répandu.
+C’était une époque où la musique de film et la culture des clubs étaient étrangement liées.
 
 ---
 
-### 第六章：アジア・ホラー国際化と音のローカリティ
+### Chapitre 6 : Internationalisation de l'horreur asiatique et localisation sonore
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEL_GJJ5Izk?si=iXiTtgJJmk0zyXZK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-アジア圏でも、独自のホラー音響が注目を集める。  
+Le son d’horreur unique attire également l’attention en Asie.
 [『The Wailing（哭声）』（2016／韓国）](https://amzn.to/46NKuA5)では、民俗儀礼音楽が恐怖と祈りの境界を曖昧にする。  
 日本のホラー音響──[川井憲次（『リング』）](https://amzn.to/4h9avxd)や高橋洋の手法──は、  
-**沈黙と環境音による恐怖の作法**として世界に継承された。  
+Elle a été transmise au monde sous la forme d'une **étiquette de peur utilisant le silence et les sons environnementaux**.
 
-Netflix作品が世界市場を統合するなか、  
-各地域の“音の民俗性”がグローバルホラーの中で新たな位置を獲得している。  
-音は言語を超える。恐怖は翻訳を必要としない。
+Alors que les titres Netflix consolident le marché mondial,
+Le « folklore sonore » de chaque région occupe une nouvelle place dans l'horreur mondiale.
+Le son transcende le langage. La peur n’a pas besoin d’être traduite.
 
 ---
 
-### 第七章：AIとホラー音響の未来
+### Chapitre 7 : L'IA et l'avenir de l'audio d'horreur
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QEECiy3dgc?si=iKpYc6gYjDFiFlt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 [『Skinamarink』（2022）](https://amzn.to/4o6XZ3m)は、家庭用カメラのノイズと空間の歪みで構成された新時代のホラーだ。  
-音はほとんど音楽ではなく、“残響の残滓”にすぎない。  
-しかしその**欠落した音**こそが、最も人間的な恐怖を喚起する。
+Le son n’est pas vraiment de la musique, mais simplement des « réverbérations ».
+Mais c'est ce **son manquant** qui évoque le plus de peurs humaines.
 
 La musique générée par l’IA s’aventure déjà dans le domaine du son d’horreur.
 Utiliser l'apprentissage profond pour imiter les réactions de peur humaines,

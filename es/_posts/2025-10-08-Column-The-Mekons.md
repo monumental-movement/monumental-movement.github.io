@@ -50,7 +50,7 @@ color: #fff;
 
 
 ### Capítulo 1: Escape del punk rudo y torpe
-> **“La torpeza era sinceridad.”**
+> **"La torpeza era sinceridad."**
 
 Álbum debut lanzado en 1979 [``The Quality of Mercy Is Not Strnen''] (https://amzn.to/477GZ6y). El error tipográfico en el título "Stolen" simbolizaba la actitud de la banda.
 Grabado en Virgin Studios de Londres. En ese momento, dijeron: "Era la primera vez que veía una mesa mezcladora".
@@ -79,7 +79,7 @@ Con este álbum, presentaron la paradoja de "¿No es el rock el sistema mismo?"
 
 ---
 
-### Capítulo 3: Encuentro con la música americana y los albores del “alt-country”
+### Capítulo 3: Encuentro con la música americana y los albores del “country alternativo”
 > **"En medio del vino y el polvo, estaba la verdad."**
 
 Con ['Fear and Whiskey'] (https://amzn.to/4mV4QMk) de 1985, los Mekon se aventuraron hacia horizontes completamente nuevos.
@@ -105,7 +105,7 @@ Durante este período, Mekons existió como una "comunidad artística a la deriv
 Se dijo que "la música de Mekons suena como si no perteneciera a ningún lado".
 Al igual que los inmigrantes, se movían entre contextos musicales, creando allí hogares temporales.
 El álbum [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) es un símbolo de esto, y su composición acústica, que incluye metales y violín, enfatiza su "extrañeza".
-Aunque usó Pro Tools para este trabajo, intencionalmente usó una consola analógica para mezclar, dejando un "desequilibrio humano".
+Aunque utilizó Pro Tools para este trabajo, utilizó deliberadamente una consola analógica para mezclar, dejando un "desequilibrio humano".
 
 ---
 
@@ -129,12 +129,12 @@ En las presentaciones en vivo, hay muchas escenas en las que Sally lee en voz al
 > **"Su arte es un testimonio y una celebración."**
 
 El documental de 2013 [Revenge of the Mekons](https://amzn.to/3KJVhCA) ​​​​mostró el núcleo del movimiento.
-El director Joe Angio las describe como "obras de arte vivientes".
+El director Joe Angio los describe como "obras de arte vivientes".
 Este trabajo muestra cómo los Mekons han atravesado diversas formas de expresión, incluyendo no sólo la música sino también la pintura, la fotografía, la poesía y el activismo político.
 El propio Jon Langford fue un pintor activo y presentó una "imagen antirromántica de Estados Unidos" al representar simbólicamente los paisajes del Medio Oeste estadounidense.
 
 Aunque mantienen la grabación analógica, su sonido produce intencionalmente una "aspereza".
-Langford dijo: "El ruido está en nuestra sangre" y, al grabar, prefirió quitar la puerta de ruido y dejar intactos los sonidos ambientales.
+Langford dijo: "El ruido está en nuestra sangre" y, al grabar, prefería quitar la puerta de ruido y dejar los sonidos ambientales.
 Este "sonido marcado" era el realismo en el que creía Mekons.
 
 ---

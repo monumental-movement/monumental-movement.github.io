@@ -86,7 +86,7 @@ Broken Beat es más que sólo música de baile, se caracteriza por su combinaci�
 
 ### 3.1 Ritmo
 
-- Basado en un ritmo house de 4/4, cambiando ligeramente la posición de la caja y el charles.
+- Basado en un ritmo house de 4/4, cambiando ligeramente la posición de la caja y el charles
 - A menudo se utilizan cambios irregulares y compases extraños y, aunque es adecuado para bailar, también enfatiza el disfrute de escuchar.
 
 **Ejemplo: Cultura de IG “Dame tiempo”**
@@ -154,7 +154,7 @@ Broken Beat contó con el apoyo no solo de artistas individuales, sino también 
 
 - **2000Black**: Realiza eventos regulares y promueve la colaboración entre artistas.
 - **Influencia de The Herbaliser y Jazzanova**: Diversificación de sonidos a través del intercambio internacional
-- **Clubes de Londres**: los sets de Broken Beat se afianzan en Plastic People, The End y más
+- **Clubes de Londres**: Los sets de Broken Beat se afianzan en Plastic People, The End y más
 
 > "Broken Beat no era sólo música para escuchar, era un género en el que se podía bailar y experimentar el vaivén del ritmo".
 > — Testimonio de un patrocinador del club en su momento

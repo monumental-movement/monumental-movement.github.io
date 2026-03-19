@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - French House
-title: Modjo - Chillin" old
+title: Modjo - Chillin’ old
 ---
 
 
-"Modjo - Chillin'" is a song released in 2001 by the French duo Modjo. This song is included on their self-titled debut album Modjo.
+「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
 
-"Chillin'" is a song that combines elements of disco and house music, with a light and groovy beat, funky bassline, and captivating vocals.
+「Chillin'」は、ディスコとハウスミュージックの要素を組み合わせた楽曲で、軽快でグルーヴィなビート、ファンキーなベースライン、そして魅力的なボーカルが特徴です。
 
-This song is known as pop dance music that resonates with a relaxed atmosphere and bright melody.
+この曲は、リラックスした雰囲気と明るいメロディが共鳴するポップなダンスミュージックとして知られています。
 
-*There is a UK version and an Italian version, but this is the Italian version.
+※UK盤とItaly盤がありますが、こちらはItaly盤となります。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B2  The Art Of Chillin'
 Remix – Hervé Bordes
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
 
 
 

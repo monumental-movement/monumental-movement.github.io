@@ -10,7 +10,7 @@ tags:
 - Hard Rock
 - Heavy Metal
 - 80s
-title: Baby Tuckoo – Les larmes d'un clown
+title: Baby Tuckoo – Les larmes d’un clown
 ---
 
 

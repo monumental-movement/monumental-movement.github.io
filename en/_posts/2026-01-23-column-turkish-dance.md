@@ -103,7 +103,7 @@ Dance music organized for cities incorporated popular elements and became the ba
 
 ### Fusion of folk and rock
 
-In the late 1960s, a movement emerged to fuse Anatolian folk music with rock.
+In the late 1960s, a movement emerged to fuse Anatolian folk music and rock.
 Electric guitars and drums were used as devices to extend traditional dance rhythms.
 
 ### Maintaining dance quality
@@ -126,7 +126,7 @@ At weddings and community events, emphasized rhythms for dancing were preferred.
 
 Cassette tapes contributed to the spread of dance music as a low-cost and highly distributable medium.
 
-> Immigrant society has created a new musical circulation.
+> 移民社会は新たな音楽循環を生み出した。
 
 
 ---

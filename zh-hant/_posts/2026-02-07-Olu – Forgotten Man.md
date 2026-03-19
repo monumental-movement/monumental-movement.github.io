@@ -18,7 +18,7 @@ title: 奧盧－被遺忘的人
 
 Olu Rowe，也被稱為 Olu，是一位來自英國的歌手。 1990年代初期，她在當時很受歡迎的Virgin附屬廠牌10 Records中首次亮相，並因其深情的House和R&B節拍歌聲而受到關注。
 
-《Forgotten Man》是 10 Records 廠牌於 1992 年發行的 House/Downtempo/Soul 曲目。
+「Forgotten Man」は、1992年にレーベル10 Records からリリースされたHouse／Downtempo／Soulトラック。
 
 A2 和 B1 是 house 音樂鼻祖 Todd Terry 的混音作品。
 

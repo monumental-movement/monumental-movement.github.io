@@ -10,13 +10,13 @@ tags:
 - Jazz
 - Space-Age
 - 7inch
-title: Les Baxter His Chorus And Orchestra – Tamboo(Part 3)
+title: Les Baxter, son chœur et son orchestre – Tamboo (Partie 3)
 ---
 
 
-レス・バクスターと彼の合唱団、オーケストラによるこの曲は、1956年にリリースされたアルバム「Tamboo!」に収録されています。レス・バクスターは、独自のエキゾチックで官能的な音楽スタイルで知られ、その作品はエキゾチカやスペースエイジ・ポップといったジャンルの先駆的なものとなりました。
+Cette chanson de Les Baxter, de sa chorale et de son orchestre apparaît sur l'album Tamboo !, sorti en 1956. Les Baxter est connu pour son style musical exotique et sensuel unique, et son travail a été pionnier dans des genres tels que l'exotica et la pop de l'ère spatiale.
 
-「Tamboo! (Part 3)」は、バクスターの独特なアレンジとオーケストレーションが特徴の楽曲で、サウンドトラックやラウンジミュージックの分野で高く評価されています。この楽曲は、カリビアンのリズムやエキゾチックな楽器の使用など、バクスターの音楽に特有の要素が凝縮されています。
+"Tamboo! (Part 3)" est une chanson caractérisée par l'arrangement et l'orchestration uniques de Baxter, et a été très appréciée dans les domaines de la bande originale et de la musique lounge. La chanson résume les éléments typiques de la musique de Baxter, notamment les rythmes caribéens et l'utilisation d'instruments exotiques.
 
 #### Liste des chansons
 ```md

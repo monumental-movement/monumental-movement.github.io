@@ -16,7 +16,7 @@ title: Lexy 和 K-Paul – 電視塔
 
 Lexy & K-Paul 是來自德國柏林的 DJ 二人組，自 1999 年以來一直活躍。成員是 Alexander Gerlach (Lexy) 和 Kai Michael Paul (K-Paul)。
 
-這張唱片是由 WestBam 主持的 Low Spirit Recordings 公司於 2002 年發行的一張 Techno/Electro 唱片。 （促銷版）
+這張唱片是一張 Techno/Electro 唱片，由 WestBam 主持的 Low Spirit Recordings 唱片公司於 2002 年發行。 （促銷版）
 
 
 #### 曲目表

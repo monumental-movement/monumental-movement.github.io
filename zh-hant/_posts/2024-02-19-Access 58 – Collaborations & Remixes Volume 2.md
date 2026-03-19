@@ -14,11 +14,11 @@ title: Access 58 – 合作與混音第 2 卷
 ---
 
 
-Access58 是由 Paulo Nascimento（又稱 Urban Ritual）和 Philippe Quenum 製作的高科技作品。
+Access58は、Paulo Nascimento（AKA Urban Ritual）とPhilippe Quenumによるテックハウスプロダクション。
 
 A 面的第一首曲目是 Cisco Ferreira 的混音版，名為 The Advent。
 
-A面的第二首歌是斯洛維尼亞techno代表Umek的混音版。
+A面２曲目はスロヴェニア・テクノの代表Umek（ウメック）によるremix。
 
 #### 曲目表
 ```md

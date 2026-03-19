@@ -48,7 +48,7 @@ The basic unit of electronic rhythm design is 16 steps, which are divided into 1
 
 ### 4/4・16 steps basic layout example
 
-The most basic structure is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
+The most basic arrangement is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
 
 Accent design does not require all notes to be played at the same intensity. By simply making the first beat of the kick the strongest and the third beat a little weaker, you can create a sense of front and back in the flow of time.
 
@@ -165,7 +165,7 @@ By rearranging existing loops, you can redesign the structure while preserving t
 
 ### Case: Complete step reconstruction
 
-By arranging it from scratch, the time structure purely reflects the design concept.
+By arranging it from scratch, the time structure purely reflects the design philosophy.
 
 > The idea of ​​rhythm design changes depending on whether it is material-driven or structure-driven.
 
@@ -175,7 +175,7 @@ By arranging it from scratch, the time structure purely reflects the design conc
 
 Even short loops change in length perceptually.
 
-### Case: Termination obfuscation
+### Case: Terminal obfuscation
 
 By weakening the last note of the loop, you can no longer feel the break.
 
@@ -199,7 +199,7 @@ Emphasis on backbeats and fluctuations derived from samples. The texture of the 
 
 ### IDM
 
-Structural complexity and asymmetric design. Discrepancies in the period and irregular time signatures disturb the sense of time.
+Structural complexity and asymmetric design.周期のズレや変拍子的配置が時間感覚を攪乱する。
 
 > Genre is a collection of rhythm design ideas.
 

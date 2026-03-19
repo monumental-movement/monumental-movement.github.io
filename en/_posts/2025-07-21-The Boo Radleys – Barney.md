@@ -9,13 +9,13 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: The Boo Radleys – Barney (…And Me)
+title: The Boo Radleys – Barney (...And Me)
 ---
 
 
-A UK alternative rock band related to shoegaze and Britpop that was active from 1988 to 1999 and reunited in 2021.
+1988年〜1999年まで活動し、2021年に再結成したシューゲイザーとブリットポップに関連したUKのオルタナティヴ・ロック・バンド。
 
-"Barney (...And Me)" is a single cut from the album "Giant Steps" released in 1993, which also includes "Lazarus", which was used as the ending song for the TV anime "Lazarus" in 2025. Indie Rock was released in 1994 by Creation Records, a UK indie label that included Oasis and Primal Scream.
+「Barney (...And Me)」は、2025年にテレビアニメ『Lazarus ラザロ』のエンディング曲に使用された「Lazarus」も収録されている1993年リリースのアルバム『Giant Steps 』からのシングルカット。1994年にオアシスやプライマルスクリーム等が在籍したUKのインディーズレーベルCreation Records (クリエイション・レコーズ)からリリースされたIndie Rock。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ B1. Zoom
 B2. Cracked Lips, Homesick
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m31547000988?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31547000988?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onlj1LrOXic?si=TKK6MiLl7VVObWyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

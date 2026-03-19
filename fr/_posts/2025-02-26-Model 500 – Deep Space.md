@@ -15,7 +15,7 @@ title: Modèle 500 – Espace profond
 
 Model 500 était le pseudonyme utilisé par le DJ et producteur Juan Atkins, connu comme l'un des pionniers de la techno de Détroit, jusqu'en 2008. Depuis 2008, Model 500 met en vedette Juan Atkins, Milton Baldwin (DJ Skurge) d'Underground Resistance et Mark Taylor.
 
-"Deep Space" est un album techno de Juan Atkins sorti sur le label R&S Records en 1995. Un chef d'oeuvre représentatif de la techno de Détroit des années 1990.
+"Deep Space" est un album techno de Juan Atkins sorti sur le label R&S Records en 1995. Un chef d'oeuvre représentant la techno de Détroit dans les années 1990.
 
 #### Liste des chansons
 ```md

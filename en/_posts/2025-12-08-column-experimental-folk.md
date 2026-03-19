@@ -238,10 +238,10 @@ In other words, Experimental Folk has transformed into a "creative process that 
 Experimental Folk / Psych Folk, within the constraints of acoustic instruments,
 ・Sound adventure
 ・Poetic worldview
-・Intersection with folk music and religious symbols
+・民族音楽や宗教象徴との交差  
 It is a place where people can try their hand at experimentation, and its core lies in the experimental nature of the creative method itself.
 
-The bizarre acid folk of Comus, the religious recitations of Current 93, and the tranquil, multi-layered arrangements of Espers.
+Comus の異様なアシッドフォーク、Current 93 の宗教的朗読、Espers の静謐な多層アレンジ。  
 What these artists have in common is that they treat folk as a "material" and deconstruct and reconstruct it acoustically and culturally.
 
 Experimental music and folk music are never far apart, and the simplicity of acoustic music allows for more room for experimentation.

@@ -16,7 +16,7 @@ title: Santana – Caravansérail
 
 Santana est un groupe de rock latino américain formé à la fin des années 1960 et dirigé par le guitariste Carlos Santana.
 
-"Caravanserai" a été salué comme un nouvel album plus orienté jazz dans la carrière de Santana, alors que le groupe s'éloignait du rock et adoptait un son plus expérimental et complexe.
+"Caravanserai" a été salué comme un nouvel album plus orienté jazz dans la carrière de Santana, alors que le groupe s'est éloigné du rock et a adopté un son plus expérimental et complexe.
 
 #### Liste des chansons
 ```md

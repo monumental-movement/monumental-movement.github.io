@@ -121,7 +121,7 @@ La scène Broken Beat de l'ouest de Londres fait évoluer Future Jazz. Une fusio
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Changement | Fusion d'électro et de jazz. |
 | 2 | 4héros | Les Fleurs | Orchestral et grandiose. |
-| 3 | Nicolas Conté | Bossa Per Due | Une fusion de Bossa Nova et de Future Jazz. |
+| 3 | Nicolas Conté | Bossa Per Due | Une fusion de bossa nova et de jazz du futur. |
 | 4 | Viktor Duplaix | Messages | Un son néo-soul. |
 | 5 | Jazzanova | AMOUR. et toi et moi | Une chanson qui représente le rythme brisé. |
 | 6 | Kyoto Jazz Massif | Esprit du Soleil | Œuvres importantes du Japon. |
@@ -132,7 +132,7 @@ La scène Broken Beat de l'ouest de Londres fait évoluer Future Jazz. Une fusio
 
 ---
 
-## Fin des années 2000 : Du club jazz à l’électro
+## Fin des années 2000 : Du club jazz à l'électro
 - **Arrière-plan**
 Le Nu-Jazz a fusionné avec l'électro et a renforcé le style d'écoute.
 

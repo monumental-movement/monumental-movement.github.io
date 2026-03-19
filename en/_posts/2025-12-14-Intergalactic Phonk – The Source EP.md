@@ -14,9 +14,9 @@ title: Intergalactic Phonk – The Source EP
 ---
 
 
-Intergalactic Phonk is the duo of Frederik Soderstrom and Sina Morshed Solouk. Better known as Devilfish.
+Intergalactic Phonk は、Frederik SoderstromとSina Morshed Soloukによるデュオ。Devilfish名義でよく知られている。
 
-"The Source EP" is a Tribal/Techno/Minimal track released on the label Frequent in 2000.
+「The Source EP」は、2000年にレーベルFrequentからリリースされた Tribal／Techno／Minimalトラック。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ B1. Incarnation
 B2. Juice Freak
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m48951908028?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48951908028?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VohTZXFOIAc?si=eegTFfYt3m0s2Xw9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

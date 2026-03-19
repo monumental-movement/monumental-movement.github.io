@@ -25,7 +25,7 @@ Ian Pooley nació en Mainz, Alemania, en 1973. Sus padres eran de Inglaterra y h
 
 Desde temprana edad, en casa se tocaba música negra como jazz, soul y funk en lugar de rock. Desde muy temprano desarrolló un oído para prestar atención no sólo a la dinámica rítmica, sino también a las progresiones de acordes y los intervalos de interpretación. En particular, las líneas de bajo eléctrico y la expansión espacial creada por los acordes se convirtieron en bases importantes para producciones posteriores.
 
-Cuando entró en la adolescencia, se sintió fuertemente atraído por la música dance que se estaba expandiendo en ese momento, como el hip-hop, el electro y el acid house. Lo que le fascinó aquí no fue la calidad de estrella ni la letra, sino la "estructura" del tema en sí. Para Pooley, los pequeños cambios que se producen a través de la repetición y la plasticidad de la música reorganizada por los DJ presentan una nueva forma de ver la música.
+Cuando entró en la adolescencia, se sintió fuertemente atraído por la música dance que se estaba expandiendo en ese momento, como el hip-hop, el electro y el acid house. Lo que le fascinó aquí no fue la calidad de estrella ni la letra, sino la "estructura" del tema en sí. Para Pooley, los cambios sutiles que se producen a través de la repetición y la plasticidad de la música reorganizada por los DJ presentan una nueva forma de ver la música.
 
 > Las múltiples raíces musicales aportan constantemente profundidad intelectual al trabajo de Ian Pooley.
 
@@ -120,7 +120,7 @@ Las canciones de Pooley rara vez tienen rupturas excesivas o cambios dramáticos
 
 Los DJ no "tocan" canciones, sino que las "arreglan". Pooley entendió profundamente la premisa y tuvo como prioridad hacer que sus temas funcionaran como parte del set. Como resultado, sus obras continúan utilizándose en una variedad de contextos, sin estar ligadas a un momento o género específico.
 
-### Comparación con pistas para DJs contemporáneos
+### Comparación con pistas de DJ contemporáneas
 
 A finales de la década de 1990, muchas pistas house se centraban en efectos inmediatos y tenían una estructura que provocaba una reacción del suelo en un corto período de tiempo. Aunque temporalmente fueron muy eficaces, su frecuencia de uso tendió a disminuir a largo plazo.
 

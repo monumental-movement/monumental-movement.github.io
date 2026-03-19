@@ -11,18 +11,18 @@ tags:
 - Experimental
 - Hiphop
 - Instrumental
-title: 【コラム】 Experimental Hip Hop Instrumentals（実験ヒップホップ・インスト）
+title: '[Chronique] Instrumentaux Hip Hop Expérimentaux'
 ---
 
 
 
 ## Introduction : Changements structurels provoqués par l'absence de rap
 
-文：mmr｜テーマ：実験的ヒップホップ・インストゥルメンタルの成立史、制作工程、サンプリング技法、音響構造をKnxwledgeとMadlibの制作慣行について
+Texte : mmr｜Thème : L'histoire de l'établissement de la musique instrumentale hip-hop expérimentale, le processus de production, les techniques d'échantillonnage, la structure sonore et les pratiques de production de Knxwledge et Madlib.
 
-ヒップホップは本来、MCの言語表現とビートの反復構造が相互補完的に成立する文化である。しかし1990年代以降、ラップを伴わないインストゥルメンタル作品が独立して流通し始めたことで、ビートは伴奏ではなく主題として前景化した。とりわけ実験的インストにおいては、ラップのための均質な拍構造や展開設計が不要となり、時間・質感・断片性が主な設計対象となる。
+Le hip-hop est essentiellement une culture dans laquelle l'expression verbale du MC et la structure répétitive du rythme se complètent. Cependant, depuis les années 1990, alors que les œuvres instrumentales sans rap commençaient à circuler de manière indépendante, les rythmes sont apparus au premier plan comme thème plutôt que comme accompagnement. En particulier dans les instruments expérimentaux, il n’est pas nécessaire d’avoir une structure de battement homogène ou une conception de développement pour le rap, et le temps, la texture et la fragmentation deviennent les principales cibles de conception.
 
-> "ラップの不在は欠落ではなく、設計自由度の拡張である"
+> "L'absence d'emballage n'est pas une omission, mais une expansion de la liberté de conception."
 
 ---
 
@@ -40,47 +40,47 @@ color: #fff;
 </style>
 
 
-## 用語整理：Experimental Hip Hop Instrumentals
+## Terminologie : Instrumentaux Hip Hop Expérimentaux
 
-本稿におけるExperimental Hip Hop Instrumentalsとは、以下の制作的特徴を共有するインストゥルメンタル群を指す。
+Dans cet article, Experimental Hip Hop Instrumentals fait référence à un groupe d’instruments qui partagent les caractéristiques de production suivantes.
 
-* 拍構造は4/4を基盤としつつも、反復周期が不定
-* サンプルは原曲同定を目的とせず、素材として処理される
-* 完成形よりも生成過程が作品価値として提示される
+* Bien que la structure des temps soit basée sur 4/4, la période de répétition n'est pas définie.
+* Les échantillons ne sont pas utilisés dans le but d'identifier la chanson originale, mais sont traités comme du matériel.
+* Le processus de production est présenté comme la valeur du travail plutôt que comme le produit fini.
 
-> "ジャンル名は様式ではなく、態度の集合である"
-
----
-
-## 技術的前史：サンプラーと制限
-
-1980年代後半から普及したデジタルサンプラーは、短時間の音声断片を記録・再生する装置として導入された。初期機材はメモリ容量、サンプリングレート、同時発音数に厳しい制限を持っていた。これらの制限は効率を下げる要因であると同時に、音質劣化や歪みを不可避的に生み出した。
-
-> "制限が音楽的個性として定着する"
+> "Les noms de genre ne sont pas des styles, mais des ensembles d'attitudes."
 
 ---
 
-## ループ文化から断片文化へ
+## Préhistoire technologique : samplers et limites
 
-従来のヒップホップ制作では、2〜8小節のループが楽曲の基礎単位であった。実験的インストでは、この単位が極端に短縮され、1拍未満、時には数十ミリ秒単位の断片が反復・遮断される。結果として、リスナーは拍子を数えるよりも、音響の変化密度を追う聴取態度を要求される。
+Les échantillonneurs numériques, devenus populaires depuis la fin des années 1980, ont été introduits comme dispositifs permettant d'enregistrer et de lire de courts fragments audio. Les premiers équipements présentaient de sévères limitations en termes de capacité de mémoire, de taux d'échantillonnage et de polyphonie. Ces limitations non seulement réduisaient l’efficacité, mais provoquaient également inévitablement une détérioration et une distorsion de la qualité sonore.
 
-> "反復は安定ではなく、違和の連続として機能する"
+> "Des restrictions s'imposent comme une individualité musicale"
 
 ---
 
-## Madlibの制作慣行
+## De la culture en boucle à la culture fragmentée
+
+Dans la production hip-hop traditionnelle, les boucles de deux à huit mesures constituaient l'unité de base d'une chanson. Dans les instruments expérimentaux, cette unité est extrêmement raccourcie, répétant et interrompant des fragments de moins d'un battement, parfois des dizaines de millisecondes. En conséquence, les auditeurs doivent suivre la densité des changements dans l’acoustique plutôt que de compter les battements.
+
+> "La répétition n'est pas stable, mais fonctionne comme une série d'inconforts"
+
+---
+
+## Pratiques de production de Madlib
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMkGcEGW4U4?si=QLXLfNXsUYZPG0OW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Madlibの制作は、ハードウェアサンプラーを中心とした即興的手法に特徴がある。SPシリーズを用いた制作では、視覚的編集よりも身体的操作が優先され、サンプルのズレや揺れがそのまま音楽に残される。
+La production de Madlib se caractérise par une méthode d'improvisation centrée autour de sampleurs matériels. Lors de la production à l'aide de la série SP, la manipulation physique prime sur l'édition visuelle, laissant intacts les décalages et les fluctuations des échantillons dans la musique.
 
-* サンプルは原音保持を前提に選択される
-* 厳密な量子化を行わない
-* 完成形を想定せず大量のビートを生成する
+* Les échantillons sont sélectionnés dans le but de préserver le son original.
+* Pas de quantification stricte
+* Générez une grande quantité de battements sans prendre la forme finale
 
-> "プロジェクト単位ではなく日常的制作の積み重ね"
+> "L'accumulation de productions quotidiennes plutôt que d'unités de projet"
 
 <div class="mermaid">
 flowchart LR
@@ -92,19 +92,19 @@ flowchart LR
 ---
 
 
-## Knxwledgeの制作慣行
+## Pratiques de production de connaissances
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yK91vjg2Hsg?si=r18TMv3pzhtatHbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-KnxwledgeはDAWを制作基盤とし、極端に短いループと遮断的編集を特徴とする。視覚的タイムライン上での配置操作は、拍感覚を数値から切り離す役割を果たす。
+Knxwledge est basé sur un DAW et propose des boucles extrêmement courtes et une édition isolée. L'opération de placement sur la timeline visuelle sert à séparer le sens du rythme des chiffres.
 
-* 数秒以下のループ単位
-* 手動配置によるグルーヴ形成
-* 音圧最適化を前提としない出力
+* Unité de boucle de plusieurs secondes ou moins
+*Formation de rainures par placement manuel
+* Sortie sans optimisation de la pression acoustique
 
-> "未完成感は欠如ではなく完成形である"
+> "Un sentiment d'incomplétude n'est pas un manque, mais une forme achevée."
 
 <div class="mermaid">
 flowchart LR
@@ -116,56 +116,56 @@ flowchart LR
 ---
 
 
-## サンプリング技法の分解
+## Décomposition des techniques d'échantillonnage
 
-実験的インストにおけるサンプリングは、引用や参照よりも変換を目的とする。以下の処理が一般的に確認される。
+L'échantillonnage dans des instruments expérimentaux a pour but de transformation plutôt que de citation ou de référence. Les processus suivants sont couramment observés :
 
-* 単音・環境音・ノイズの抽出
-* ピッチ変更による音色情報の剥離
-* 逆再生や瞬間的フェード処理
+* Extraction de sons uniques, de sons environnementaux et de bruit
+* Suppression des informations de timbre en raison du changement de hauteur
+* Lecture inversée et traitement de fondu instantané
 
-> "サンプルは記号ではなく音響物質である"
-
----
-
-## ミックスと音像設計
-
-ミックス工程では、明瞭さよりも密度と距離感が重視される。低域は整理されすぎず、歪みや飽和が保持される。これにより、リズムは打点ではなく質量として知覚される。
+> "Les échantillons sont des substances acoustiques, pas des symboles."
 
 ---
 
-## アルバム編集論
+## Mixage et conception sonore
 
-多数の短曲を連続配置する構成は、楽曲集ではなくアーカイブとしての性格を持つ。曲間の無音やノイズは編集上の接着剤として機能する。
-
-> "アルバムは完成物ではなく、制作痕跡の束である"
+Dans le processus de mélange, la densité et la distance sont plus importantes que la clarté. Le bas de gamme n’est pas trop soigné et conserve la distorsion et la saturation. Cela permet au rythme d'être perçu comme une masse plutôt que comme un point.
 
 ---
 
-## 年表：Experimental Hip Hop Instrumentals
+## Théorie de l'édition d'album
 
-* 1990年代：インストゥルメンタル作品の独立流通
-* 2000年代：サンプラー主体のビート集増加
-* 2010年代：デジタル配信前提の短尺化
-* 2020年代：制作過程の可視化
+La structure, dans laquelle de nombreuses pièces courtes sont disposées successivement, a le caractère d'une archive plutôt que d'un recueil de chansons. Le silence et le bruit entre les chansons agissent comme du ciment éditorial.
 
----
-
-## 他ジャンルとの交差
-
-実験的インストは、アンビエント、ノイズ、即興ジャズと接続しながらも、ビートの存在によってヒップホップとして識別される。
+> "Un album n'est pas un produit fini, mais un ensemble de traces de production."
 
 ---
 
-## リスニング環境
+## Chronologie : Instrumentaux expérimentaux de hip-hop
 
-集中聴取よりも断続的再生に適応する構造は、現代的制作環境と一致する。制作量の多さは消費ではなく共存を前提とする。
+* Années 1990 : Distribution indépendante d'œuvres instrumentales
+* Années 2000 : Augmentation du nombre de collections de rythmes basées sur des échantillonneurs
+* Années 2010 : raccourcissement du principe de distribution numérique
+* Années 2020 : Visualisation du processus de production
 
 ---
 
-## 結語：形式としての未完成
+## Intersection avec d'autres genres
 
-Experimental Hip Hop Instrumentalsは、完成度よりも生成行為を価値化する音楽形式である。KnxwledgeとMadlibの制作慣行は、ビートを楽曲ではなく思考の単位として提示し続けている。
+L'instrumental expérimental s'identifie au hip-hop par la présence d'un rythme, tout en se connectant à l'improvisation ambiante, noise et jazz.
+
+---
+
+## Environnement d'écoute
+
+Une structure adaptée à une lecture intermittente plutôt qu’à une écoute concentrée est cohérente avec les environnements de production modernes. La grande quantité de production suppose la coexistence plutôt que la consommation.
+
+---
+
+## Conclusion : Inachevé comme formulaire
+
+Experimental Hip Hop Instrumentals est une forme musicale qui valorise l'acte de production plutôt que la perfection. Les pratiques de production de Knxwledge et Madlib continuent de présenter les rythmes comme des unités de pensée plutôt que comme des chansons.
 
 ---
 

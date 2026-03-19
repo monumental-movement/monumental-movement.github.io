@@ -45,7 +45,7 @@ color: #fff;
 
 A finales de la década de 1960, el jazz amplió su vocabulario más allá del hard bop y ganó flexibilidad en su estructura temporal a través de la interpretación modal y la improvisación libre. Por otro lado, la música rock se estaba transformando en música basada en volúmenes altos y ritmos repetitivos, y diseñada para entornos de escucha a gran escala. La maduración de los instrumentos eléctricos y la tecnología de amplificación ha ampliado la conexión entre ambos a un nivel físico más que ideológico.
 
-Durante este período, muchos músicos de jazz introdujeron pianos eléctricos, bajos eléctricos y guitarras amplificadas, construyendo conjuntos basados ​​en la manipulación del volumen, el sostenido y el timbre que eran imposibles con las formaciones acústicas tradicionales. Como resultado, se afianzaron nuevas formas de interpretación con estructuras largas, riffs cíclicos, metros complejos y estructuras repetitivas, y el jazz/fusión progresivo llegó a ser reconocido como una corriente distinta.
+Durante este período, muchos músicos de jazz introdujeron pianos eléctricos, bajos eléctricos y guitarras amplificadas, construyendo conjuntos basados ​​en la manipulación del volumen, el sostenido y el timbre que eran imposibles con las formaciones acústicas tradicionales. Como resultado, se afianzaron nuevas formas de interpretación con estructuras largas, riffs circulares, metros complejos y estructuras repetitivas, y el jazz/fusión progresivo llegó a ser reconocido como una corriente distinta.
 
 ---
 

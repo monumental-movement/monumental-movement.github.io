@@ -14,7 +14,7 @@ title: 各種 – 金色 R&B
 ---
 
 
-《Various – Golden R&B》作為 Tamla Motown 的 Golden Compact 系列的一部分發行。
+「Various – Golden R&B」は、モータウン（Tamla Motown）のゴールデンコンパクトシリーズの一つとしてリリースされました。
 
 #### 曲目表
 ```md

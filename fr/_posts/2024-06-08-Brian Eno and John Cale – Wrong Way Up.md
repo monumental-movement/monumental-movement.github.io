@@ -20,7 +20,7 @@ Une cassette promotionnelle pour l'album studio de Brian Eno et John Cale "Wrong
 
 Wrong Way Up est un album acclamé par la critique qui se situe quelque part entre les genres électronique, rock progressif et art rock.
 
-La chanson "Spinning Away" est célèbre pour être une reprise du groupe de rock américain Sugar Ray pour la bande originale du film "The Beach" en 2000.
+La chanson « Spinning Away » est célèbre pour être une reprise du groupe de rock américain Sugar Ray pour la bande originale du film « The Beach » en 2000.
 
 #### Liste des chansons
 ```md

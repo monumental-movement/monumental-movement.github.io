@@ -76,7 +76,7 @@ A diferencia de la distorsión analógica, esta distorsión tiene una textura du
 
 ### Restricciones digitales en los años 1970 y 1980
 
-Desde finales de los años 1970 hasta principios de los años 1980, las fuentes de sonido digital se limitaron a instituciones de investigación y costosas máquinas comerciales.
+Desde finales de los años 1970 hasta principios de los 1980, las fuentes de sonido digital se limitaron a instituciones de investigación y costosas máquinas comerciales.
 Para los dispositivos domésticos y comerciales, la capacidad de la memoria, la potencia informática y el costo fueron limitaciones importantes y, como resultado, se eligieron bits bajos y velocidades de muestreo bajas.
 
 En lugar de sacrificar la calidad del sonido, se trató de un compromiso para que funcionara.
@@ -135,7 +135,7 @@ El ruido de cuantización resultante, cambios de volumen escalonados, crea una a
 
 ---
 
-### Establecimiento como efecto
+### Establecido como un efecto
 
 Desde finales de la década de 1990, se han instalado trituradoras de bits en DAW y dispositivos multiefectos.
 Este fue un cambio decisivo que posicionó los tonos de bits bajos como "tonos seleccionables".
@@ -192,7 +192,7 @@ Incluso los sonidos cortos pueden evocar contexto, por lo que combinan bien con 
 
 ---
 
-## Cronología: Historia de la música de bits bajos y el enamoramiento de bits
+## Cronología: Historia de la música de bits bajos y del enamoramiento de bits
 
 
 

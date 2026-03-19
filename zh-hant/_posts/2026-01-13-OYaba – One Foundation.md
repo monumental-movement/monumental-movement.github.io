@@ -10,11 +10,11 @@ tags:
 - Reggae
 - African
 - 90s
-title: O'Yaba——同一個基金會
+title: O'Yaba – One Foundation
 ---
 
 
-O'Yaba 是一個由 8 人組成的南非雷鬼樂隊，由 Tshidiso Alexis Faku 領導，成立於 20 世紀 90 年代初。他們創造了一種獨特的雷鬼音樂，將牙買加的影響與獨特的南非風格融為一體，並在國內和國際上廣受歡迎。
+O'Yaba(オヤバ)は、90年代初頭に結成した、Tshidiso Alexis Fakuが率いる8人組の南アフリカのレゲエグループ。ジャマイカの影響と独特の南アフリカのタッチを融合させたユニークなレゲエサウンドを生み出し、国内外ので人気を博した。
 
 《One Foundation》是 QUATTRO 廠牌於 1994 年發行的雷鬼/非洲專輯。
 

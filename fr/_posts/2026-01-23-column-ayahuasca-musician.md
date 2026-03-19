@@ -25,7 +25,7 @@ Texte : mmr｜Thème : Examiner les changements dans l'expression musicale à 
 
 L'Ayahuasca n'est pas un appareil qui produit de la musique. Il s’agit d’un système rituel qui s’est formé sur une longue période dans le bassin amazonien d’Amérique du Sud, et ce n’est pas une expérience qui s’accomplit uniquement au sein d’un individu.
 Néanmoins, dans le contexte musical contemporain, l'ayahuasca a été décrite simplement comme une « source de créativité » et « une opportunité d'éveil ». Cependant, lorsque nous suivons les paroles des musiciens qui ont parlé de leurs expériences, nous constatons que leurs récits sont étonnamment prudents, fragmentés et distanciés.
-Ils ne racontent pas en détail les visions ou les révélations. Ne concluez pas à une relation causale avec l’œuvre. Ce qui est parlé à la place, ce sont des effets persistants qui ne peuvent être traduits, tels que des changements dans la sensation, l'expansion et la contraction du temps et des changements dans la façon dont nous traitons le son.
+Ils ne racontent pas en détail les visions ou les révélations. Ne concluez pas à une relation causale avec l’œuvre. Ce qui est évoqué à la place, ce sont des effets persistants qui ne peuvent être traduits, tels que des changements dans la sensation, l'expansion et la contraction du temps et des changements dans la façon dont nous traitons le son.
 Cet article ne concerne pas l’expérience elle-même. Ce que nous examinons, c'est l'attitude des musiciens quant à la manière dont ils parlent de leurs expériences et aux moments où ils s'arrêtent de parler.
 
 >Plus que l'expérience, la distance du récit a marqué l'histoire de la musique.

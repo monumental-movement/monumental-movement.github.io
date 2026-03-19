@@ -72,7 +72,7 @@ Chillwave se situe quelque part entre le rock indépendant et l'électro, coïnc
 Les origines de Synthwave sont antérieures à celles de Chillwave et remontent à la musique électronique française (en particulier Kavinsky et College) au milieu des années 2000.
 « A Real Hero » de College & Electric Youth, qui a été utilisé dans le premier film « Drive » (2011), est devenu le catalyseur de sa diffusion auprès du grand public.
 
-特徴：
+Caractéristiques:
 
 - **Musique qui reproduit directement les films des années 80, la science-fiction et la synth pop**
 - **Axé sur les synthés analogiques (Juno-106, DX7, Prophet, etc.)**
@@ -189,7 +189,7 @@ flowchart TD
 
 ---
 
-# 8. Travaux majeurs
+# 8. Grands travaux
 
 ##8-1. Chef-d'œuvre de Chillwave
 
@@ -219,7 +219,7 @@ Synthwave a été fortement influencé par la musique électronique et les visue
 
 ##9-2. Contexte de renaissance numérique
 
-Chillwave a largement utilisé des expressions visuelles rappelant la culture médiatique personnelle des années 1990 (VHS, caméscopes, images de bord de mer) et était compatible avec la culture photo lo-fi d'Internet (comme les premiers Instagram).
+Chillwave utilisait largement des expressions visuelles rappelant la culture médiatique personnelle des années 1990 (VHS, caméscopes, images de bord de mer) et était compatible avec la culture photographique lo-fi d'Internet (comme les premiers Instagram).
 
 Le **fond de grille + typographie néon** de Synthwave créé par des graphistes est devenu standardisé dans le monde entier et est également devenu populaire dans les vidéos mixées sur YouTube.
 
@@ -227,7 +227,7 @@ Le **fond de grille + typographie néon** de Synthwave créé par des graphistes
 
 # 10. Présent et futur des deux genres
 
-Synthwave est toujours très demandé comme bande originale pour les jeux et les drames, et est souvent utilisé dans les jeux VR et indépendants.
+Synthwave est toujours très demandé comme bande sonore pour les jeux et les drames, et est souvent utilisé dans les jeux VR et indépendants.
 Chillwave, en revanche, est de plus en plus évoquée comme une « ère indépendante » des années 2010, mais a été héritée dans le contexte de la dream pop et de la room pop.
 
 ---

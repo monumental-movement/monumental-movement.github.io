@@ -22,7 +22,7 @@ Le deuxième morceau de la face A est un remix de Mark Ryder (DJ Ryder).
 
 Olivier Abbeloos est né le 18 janvier 1969 à Alost, en Belgique.
 
-Il s'intéresse à la musique dès son plus jeune âge et, à l'âge de 13 ans, il reçoit un DJ set de ses parents et commence à jouer comme DJ. À l'âge de 17 ans, il a commencé à produire de la musique par lui-même, notamment en créant des mégamix à l'aide de deux enregistreurs sur piste.
+Il s'intéresse à la musique dès son plus jeune âge et, à l'âge de 13 ans, ses parents lui offrent un DJ set et il commence à jouer comme DJ. À 17 ans, il commence à produire de la musique tout seul, en créant des mégamix à l'aide de deux enregistreurs de piste.
 
 Son premier projet était "Even Now" de L&O, mais son nom n'apparaît pas au générique, et il a ensuite formé son premier projet collaboratif, The Beat Machine, avec Patrick de Mayer.
 

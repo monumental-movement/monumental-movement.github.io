@@ -43,7 +43,7 @@ color: #fff;
 
 ## Prototype de chants de Noël des années 1950 aux années 1970
 
-### Chansons pop des années 1950 illustrant des familles et des scènes hivernales
+### Chansons pop des années 1950 représentant des familles et des scènes hivernales
 
 Dans l’Amérique d’après la Seconde Guerre mondiale, « White Christmas » de Bing Crosby (sorti en 1942) était emblématique. Il dépeint un Noël idéal à la maison et a été largement diffusé à la radio et sur des disques uniques.
 
@@ -72,7 +72,7 @@ Dans l’Amérique d’après la Seconde Guerre mondiale, « White Christmas » 
 
 **Caractéristiques**
 - de superbes cordes et cornes
-- Couverture de chanson classique + original
+- Reprise de chanson classique + original
 - Organisation de soirées dansantes
 - Un pont vers des chansons de Noël synth pop/R&B ultérieures
 
@@ -177,12 +177,12 @@ En 1994, "All I Want For Christmas Is You" de Mariah Carey est devenu un succès
 
 * Augmentation des arrangements R&B, acoustiques et club
 * De nombreuses reprises et remakes de chansons standards
-* Les frontières entre les chansons anciennes et les nouvelles s'estompent en raison de la généralisation des services de distribution.
+* Les frontières entre les chansons anciennes et les nouvelles s'estompent en raison de la diffusion des services de distribution.
 * Au Japon, les reprises de chansons city pop et hivernales se multiplient.
 
 ---
 
-## Ère SNS/streaming des années 2010 à 2020
+## L'ère SNS/streaming des années 2010 à 2020
 
 * Lecture grand public sur Spotify, Apple Music et YouTube
 * Une vieille reprise de chanson devient virale sur TikTok

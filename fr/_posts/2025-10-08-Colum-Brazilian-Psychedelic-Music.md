@@ -63,7 +63,7 @@ Os Mutantes était particulièrement innovant. La guitare fuzz de **Sergio Diaz*
 À l'époque, le studio d'enregistrement **Phonogram Studios (Rio)** ne pouvait pas se procurer d'équipement multipiste de fabrication occidentale, ils ont donc adopté la méthode artisanale consistant à superposer des enregistreurs deux pistes.
 Cette restriction est à l'origine de l'image sonore unique "saignée". En particulier, l'ingénieur **Arnaldo Baptista** d'Os Mutuntes a construit son propre circuit de fuzz et a subtilement fait fluctuer la hauteur, recréant la sensation de flottement hallucinatoire unique à l'Amérique du Sud.
 
-Une autre innovation importante était la fusion d'instruments ethniques et de sons électroniques. Combinant des sons indigènes comme le cavaquinho et le bell imbau avec des synthés Moog et des bandes inversées, la musique brésilienne s'est étendue aux « tropiques psychédéliques ».
+Une autre innovation importante était la fusion d'instruments ethniques et de sons électroniques. Combinant des sons indigènes comme le cavaquinho et le bell imbau avec des synthés Moog et de la bande inversée, la musique brésilienne s'est étendue aux « tropiques psychédéliques ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6ZQcOZ4FJg?si=l5wWpYMS3fpaeGiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -77,7 +77,7 @@ D'autre part, le **Clube da Esquina**, basé dans l'état de Minas Gerais, appar
 
 ---
 
-## Chapitre 4 : La renaissance moderne – L'ère du renouveau psychédélique
+## Chapitre 4 : La renaissance moderne – L'ère du renouveau psychédélique
 
 Au XXIe siècle, les jeunes groupes brésiliens ont retrouvé leur « illusion tropicale ».
 **Boogarins**, **Carne Doce**, **Glue Trip**, **O Terno** et d'autres font le pont entre le rock indie britannique et américain et les sons hallucinogènes des années 60. En particulier, l'album « Manual » de Boogarins en 2015 se caractérise par un **enregistrement spatial lo-fi** utilisant des cassettes et des mixeurs analogiques, et symbolise le « psychédélisme DIY » de la génération Spotify.
@@ -91,7 +91,7 @@ Au XXIe siècle, les jeunes groupes brésiliens ont retrouvé leur « illusion t
 
 ## Chapitre 5 : Revue en direct — Expérience de transe tropicale
 
-Le spectacle 2018 des Boogarins au Cine Joia de São Paulo a été le moment où le fantôme de Tropicália a repris vie.
+Le spectacle des Boogarins au Cine Joia de São Paulo en 2018 a été le moment où le fantôme de Tropicália a ressuscité.
 Derrière la scène se trouvent des images animées de plantes tropicales, un éclairage qui vous donne une sensation d'humidité et un bourdonnement de guitare sans fin. Plutôt que de danser, le public **« flottait »**, immergé dans le son.
 
 Le rappel de "Lucifernandis" a créé un son chaotique qui ressemblait à la seconde venue d'Os Mutantes, et les acclamations du public ont secoué l'air.
@@ -139,3 +139,14 @@ La « Vision Tropicale » résonne encore quelque part dans le monde.
 
 > "Le psychédélisme regarde la réalité dans votre esprit."
 > — Gilberto Gil
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9lB07O0eMYA?si=K3vV_zT2Wd6MVRn5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

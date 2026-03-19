@@ -15,7 +15,7 @@ title: 喬迪沃特利——每當
 
 
 
-喬迪·沃特利是一位來自芝加哥的美國歌手。 1977年至1984年，他是靈魂樂/迪斯可樂團Shalamar的成員。他的熱門獨奏歌曲包括《尋找新的愛情》、《你不需要我》和《某種情人》。
+Jody Watley (ジョディ・ワトリー) は、アメリカ・シカゴ出身のシンガー。1977年から1984年まではソウル／ディスコグループShalamar（シャラマー）の一員として活躍した。ソロではヒット曲 『Looking for a New Love』『Don't You Want Me』『Some Kind of Lover』がよく知られている。
 
 《Whenever》是 Bill Coleman（又名 Peace Bisquit）和 Angelo Skordos 的唱片公司 Peace Bisquit 於 2003 年發行的 House/Deep House 曲目。
 

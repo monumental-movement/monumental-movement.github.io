@@ -49,7 +49,7 @@ Cuando se juega durante un largo período de tiempo, los estímulos a corto plaz
 
 Los loops en Ambient Techno/Deep Ambient no son un truco para hacerte escuchar la repetición misma. Más bien, es un dispositivo para crear artificialmente un estado en el que parece que no existe ningún cambio.
 
-No existe un bucle perfecto; siempre hay alguna fluctuación. Apertura/cierre del filtro, aumento/disminución de los componentes del ruido, longitud de la cola de reverberación. Estas pequeñas diferencias son las únicas pistas que dan al oyente una sensación del paso del tiempo.
+No existe un bucle perfecto; siempre hay alguna fluctuación. Apertura y cierre de filtros, aumento/disminución de componentes de ruido, longitud de cola de reverberación. Estas pequeñas diferencias son las únicas pistas que dan al oyente una sensación del paso del tiempo.
 
 ---
 
@@ -73,7 +73,7 @@ Por ello, en muchas obras se evita el silencio total y se sostienen sonidos muy 
 
 El carácter de Ambient Techno / Deep Ambient cambia mucho dependiendo del medio de reproducción. Altavoces grandes, auriculares y dispositivos pequeños. Cada uno crea una profundidad diferente.
 
-En los auriculares se reduce la presión física de las bajas frecuencias, pero se aumenta la densidad del espacio interno. Por otro lado, en la reproducción por un altavoz, el espacio mismo se convierte en un resonador.
+En los auriculares, la presión física en las bajas frecuencias se reduce, pero aumenta la densidad del espacio interno. Por otro lado, en la reproducción por un altavoz, el espacio mismo se convierte en un resonador.
 
 ---
 
@@ -103,7 +103,7 @@ Incluso si se trata de un sonido artificial, si se diseñan la sensación de dis
 
 ## 10. Independencia del oyente
 
-En este tipo de música, el oyente no es una entidad pasiva. Siempre depende del oyente decidir cuánta atención prestar y cuándo dejar que la música se convierta en fondo.
+En este tipo de música, el oyente no es una entidad pasiva. Siempre depende del oyente decidir cuánta atención prestar y cuándo dejar que la música se convierta en un fondo.
 
 Ambient Techno / Deep Ambient es música extremadamente democrática en el sentido de que no fuerza la intensidad de la escucha.
 

@@ -17,7 +17,7 @@ title: '[Chronique] MERZBOW ── Noise, l''acoustique libératrice'
 ## Prologue : Le bruit comme inversion du silence
 
 
-Texte : mmr｜Thème : Explorer la philosophie et la signification historique et culturelle de la musique noise développée par Masami Akita = Merzbow
+Texte : mmr｜Thème : Explorer la philosophie et la signification historique et culturelle de la musique noise lancée par Masami Akita/Merzbow
 
 Depuis les années 1980, la « noise music » originaire du Japon a suivi une trajectoire unique dans l’histoire des musiques du monde. La personne qui a continué à se tenir au centre de tout cela est **Masami Akita (Merzbow)**. Son son est violent mais méditatif, destructeur mais organique.
 Cela dépasse le cadre de la « musique » et devrait plutôt être vu comme **une « expérience philosophique auditive ».**
@@ -100,14 +100,14 @@ Son bruit est devenu un symbole du « chaos non algorithmique de la conscience h
 Plus la musique générative devient ordonnée et belle, plus le « chaos » de Merzbow apparaît comme des traces de la vie réelle.
 
 La « distorsion de la conscience » qui ne peut être reproduite avec le bruit de l'IA est la réalité humaine qu'émet son son.
-C'est la dernière mesure sauvage contre la « musique sans corps » du 21e siècle.
+C'est la dernière mesure sauvage contre la « musique sans corps » du 21ème siècle.
 
 ---
 
 ## Conclusion : le bruit est une preuve de vie
 Le son de Merzbow n'est plus un genre.
 C'est une extension de l'impulsion fondamentale de « vivre = écouter ».
-Incorporant même le silence au bruit, il a enregistré la **vibration de l'existence elle-même** à l'extrême du son.
+Incorporant même le silence dans le bruit, il a enregistré la **vibration de l'existence elle-même** à l'extrême du son.
 
 > "Le bruit est la voix de la vie qui n'a pas encore de nom."
 

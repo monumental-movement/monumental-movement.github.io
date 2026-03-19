@@ -10,7 +10,7 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: 史蒂維旺德 – 我只是打電話說我愛你
+title: Stevie Wonder – I Just Called To Say I Love You
 ---
 
 

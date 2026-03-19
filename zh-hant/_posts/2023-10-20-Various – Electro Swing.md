@@ -36,5 +36,5 @@ title: 各種 – 電子搖擺
 など、全20曲
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
 

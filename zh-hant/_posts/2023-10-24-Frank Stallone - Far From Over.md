@@ -10,7 +10,7 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: 弗蘭克史泰龍 - 遠未結束
+title: Frank Stallone - Far From Over
 ---
 
 

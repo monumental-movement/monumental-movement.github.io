@@ -14,7 +14,7 @@ title: Radiohead – Airbag / ¿Cómo conduzco?
 ---
 
 
-El quinto EP de la banda de rock británica Radiohead, lanzado en Norteamérica en 1998. Contiene las caras B de los sencillos (excluyendo "Lull" y "How I Made My Millions") lanzados de "OK Computer", el tercer álbum de estudio de Radiohead y su avance mundial, y "Airbag".
+El quinto EP de la banda de rock británica Radiohead, lanzado en Norteamérica en 1998. Contiene las caras B de los sencillos (excepto "Lull" y "How I Made My Millions") lanzados de "OK Computer", el tercer álbum de estudio de Radiohead y su avance mundial, y "Airbag".
 
 #### Lista de canciones
 ```md

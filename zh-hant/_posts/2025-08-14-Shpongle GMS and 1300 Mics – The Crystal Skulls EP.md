@@ -10,7 +10,7 @@ tags:
 - Psy-Trance
 - Trance
 - 90s
-title: Shpongle GMS 與 1300 麥克風 – The Crystal Skulls EP
+title: Shpongle GMS & 1300 Mics – The Crystal Skulls EP
 ---
 
 

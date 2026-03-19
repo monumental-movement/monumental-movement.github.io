@@ -14,7 +14,7 @@ title: VA – La Emoción E.P.
 ---
 
 
-Una compilación Tribal/Techno lanzada en 2002 por el sello Donkey Head Recordings de Cristian Varela.
+Recopilación tribal/techno lanzada en 2002 en el sello Donkey Head Recordings de Cristian Varela.
 
 Manuel Río Martín, también conocido como Bando, es un DJ/productor español y fundador del sello Patchwork (un subsello de N.E.W.S.).
 

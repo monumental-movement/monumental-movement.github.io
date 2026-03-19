@@ -102,9 +102,9 @@ Estas canciones muestran el núcleo de la música de baile de Veve, al mismo tie
 
 ## Papel de la guitarra solista
 
-La guitarra principal de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
+La guitarra solista de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
 
-- subida principal cromática
+- Subida líder cromática.
 - trémolo rápido
 - Repeticiones cortas de motivos de 2-4 compases
 
@@ -205,7 +205,7 @@ El entorno de grabación de Veve era uno de los más avanzados de África en ese
 Tenía su propio estudio y siempre estuvieron presentes múltiples ingenieros de grabación, y tenía las siguientes características técnicas.
 
 - **Aproveche rápidamente el período de transición de grabación de 2 a 4 pistas a grabación de 4 a 8 pistas**
-- **Método estéreo para mover la guitarra hacia la izquierda y hacia la derecha**
+- **Método estéreo para balancear la guitarra hacia la izquierda y hacia la derecha**
 - **Mezcla que pone el saxofón en primer plano**
 - **Un enfoque pionero que graba múltiples tomas del coro y las combina en la edición**
 

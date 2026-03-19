@@ -9,11 +9,11 @@ permalink: /fr/various-electro-swing/
 tags:
 - Electro
 - Swing-Jazz
-title: Various – Electro Swing
+title: Divers – Electro Swing
 ---
 
 
-「Various – Electro Swing」は、2009年にWagram Musicからリリースされました。
+« Divers – Electro Swing » est sorti chez Wagram Music en 2009.
 
 #### Liste des chansons
 ```md

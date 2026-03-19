@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## 2. Los primeros años de vida y la trayectoria musical de Tom Jenkinson
+## 2. Los primeros años de vida y la formación musical de Tom Jenkinson
 
 ### 2.1 Infancia y entorno musical
 

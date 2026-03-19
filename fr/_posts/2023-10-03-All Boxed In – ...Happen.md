@@ -8,11 +8,11 @@ layout: post
 permalink: /fr/all-boxed-in-happen/
 tags:
 - House
-title: All Boxed In – ...Happen
+title: Tout est en boîte – ... ça se passe
 ---
 
 
-「...Happen」は、1993年にUKのレーベル「Stress Records」からリリースされたAll Boxed InによるEPです。
+"...Happen" est un EP de All Boxed In sorti en 1993 sur le label britannique "Stress Records".
 
 
 #### Liste des chansons

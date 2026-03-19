@@ -11,17 +11,16 @@ tags:
 - Synthwave
 - 00s
 - 10s
-title: '[Column] Chillwave / Synthwave Re-evaluation - The encounter between 80s sound
-  and Internet culture'
+title: 【コラム】 Chillwave / Synthwave 再評価 ― 80sサウンドとインターネット文化の邂逅
 ---
 
 
 
-## Reconnecting 80s sounds and internet culture
+## 80年代サウンドとインターネット文化の再接続
 
-Text: mmr｜Theme: Based on Washed Out, FM-84, Com Truise, etc., about the birth of Chillwave/Synthwave and its relationship with aesthetics, artwork, and internet culture.
+文：mmr｜テーマ：Washed Out、FM-84、Com Truiseなどを手がかりに、Chillwave／Synthwaveの誕生から美学、アートワーク、インターネット文化との結びつきについて
 
-**Chillwave** and **Synthwave**, which rapidly spread from the late 2000s to the 2010s, are genres inspired by 1980s electronic music, synthesizers, VHS culture, and retro game aesthetics. However, there is a clear divergence between the two, with two different axes: ""the sound of vague memories" and ""80s revival cinematic sound."
+2000年代後半から2010年代にかけて急速に広がった **Chillwave** と **Synthwave** は、いずれも1980年代の電子音楽・シンセサイザー・VHS文化・レトロゲーム美学にインスパイアされたジャンルである。しかし両者には明確な分岐があり、「曖昧な記憶の音」と「80sリバイバルの映画的サウンド」という異なる軸を持つ。
 
 
 ---
@@ -31,7 +30,7 @@ Text: mmr｜Theme: Based on Washed Out, FM-84, Com Truise, etc., about the birth
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,163 +39,163 @@ color: #fff;
 </style>
 
 
-# 1. What is Chillwave?
-## 1-1. Birth (around 2009)
-Chillwave is generally established around 2009.
-The name became popular when the music media ""Hipster Runoff" used the word ""chillwave" in the same year, and it spread as a joke on the Internet.
+# 1. Chillwaveとは何か  
+## 1-1. 誕生（2009年前後）
+Chillwaveの一般的な成立時期は **2009年前後** とされる。  
+音楽メディア「Hipster Runoff」が同年に “chillwave” という語を使用し、インターネット上でジョーク的に広まったことが名称普及の起点となった。
 
-The characteristics are as follows.
+特徴は以下の通り。
 
-- **Lo-fi recording**
-- **Soft texture centered on synth + sampler**
-- **Vocal melts into reverb**
-- **Influenced by 80's city pop and dream pop**
-- **Visuals such as pale colors and blurry photos**
+- **ローファイ（Lo-fi）な録音**  
+- **シンセ＋サンプラー中心の柔らかい質感**
+- **リバーブに溶けるヴォーカル**
+- **80年代シティポップやドリームポップからの影響**
+- **淡い色彩・ぼけた写真などのビジュアル**
 
-Representative artists:
+代表的アーティスト：
 
-- **Washed Out** (Ernest Greene)
-- Their 2009 EP "Life of Leisure" is considered a masterpiece of the genre.
-- **Neon Indian** (Alan Palomo)
-- 2009's ""Psychic Chasms'' is a symbolic work of the scene.
-- **Toro y Moi** (Chaz Bear)
-- Recognized as a major Chillwave act in 2010 with "Causes of This".
+- **Washed Out**（Ernest Greene）  
+  - 2009年EP『Life of Leisure』がジャンルの代表作とされる。
+- **Neon Indian**（Alan Palomo）  
+  - 2009年『Psychic Chasms』がシーンの象徴的作品。
+- **Toro y Moi**（Chaz Bear）  
+  - 2010年『Causers of This』でChillwaveの主要アクトとして認知。
 
-Chillwave is somewhere between indie rock and electronica, coinciding with the expansion of bedroom recording environments.
-
----
-
-# 2. What is Synthwave?
-## 2-1. Formation (mid 2000s to early 2010s)
-Synthwave's origins are earlier than Chillwave, and can be traced back to French electronic music (particularly Kavinsky and College) in the mid-2000s.
-College & Electric Youth's ""A Real Hero", which was used in the early film ""Drive" (2011), became the catalyst for its mainstream spread.
-
-Features:
-
-- **Music that directly reproduces 1980s movies, science fiction, and synth pop**
-- **Focused on analog synths (Juno-106, DX7, Prophet, etc.)**
-- **4/4 driving beat (Synthwave)**
-- **Slow Ambient (Dreamwave/Retrowave)**
-- **Neon, grid, pink x blue 80s visuals**
-
-Main artists:
-
-- **FM-84 (Col Bennett)**
-- In 2016, he became a representative of the scene with "Atlas".
-- **Mitch Murder**
-- Specializes in 80s game music and VHS style sounds.
-- **The Midnight**
-- Established pop-oriented vocal synthwave.
-- **Kavinsky**
-- "Nightcall" (2010) is said to be a symbolic song.
-
-Synthwave grew as a large independent genre on the internet throughout the 2010s.
+Chillwaveは **インディーロックとエレクトロニカの中間** にあり、ベッドルーム録音環境が拡大した時期と重なる。
 
 ---
 
-# 3. Difference between the two
+# 2. Synthwaveとは何か  
+## 2-1. 形成（2000年代中盤〜2010年代前半）
+Synthwaveの起源はChillwaveより早く、**2000年代中盤のフランス系電子音楽（特にKavinsky・College）** まで遡る。  
+初期の映画『Drive』（2011）に使用された College & Electric Youth「A Real Hero」がメインストリームへ広まる契機となった。
 
-| Element | Chillwave | Synthwave |
-|------|------------|------------|
-| Main periods | 2009-2013 | 2005-present |
-| Aesthetics | Blurry memories, summer, nostalgia | Neon, futuristic cities, 80s movies |
-| Sound | Lo-fi/dream pop-oriented | Analog synth-centered, sharp sound |
-| Representative | Washed Out, Neon Indian | FM-84, Mitch Murder, The Midnight |
-| Cultural background | Indie and blog culture | Movies, games, and synth pop revival |
+特徴：
 
-Although they look similar at first glance, **Chillwave has a different direction, ""the ambiguity of memories"**, and **Synthwave has an ""ideal image of 80s movies"**.
+- **1980年代の映画・SF・シンセポップを直接的に再現する音楽**
+- **アナログシンセ（Juno-106、DX7、Prophetなど）中心**
+- **4/4のドライヴ感あるビート（Synthwave）**
+- **ゆっくりとしたアンビエント寄り（Dreamwave/Retrowave）**
+- **ネオン、グリッド、ピンク×ブルーの80sビジュアル**
 
----
+主要アーティスト：
 
-# 4. Internet culture and aesthetics
-## 4-1. Chillwave and blogging culture
-Chillwave was mainly spread through MySpace, Bandcamp, and blogs, and had a strong affinity with the internet's unique low-resolution aesthetic.
+- **FM-84（Col Bennett）**  
+  - 2016年『Atlas』でシーンを代表する存在に。
+- **Mitch Murder**  
+  - 80sゲーム音楽やVHS風サウンドを得意とする。
+- **The Midnight**  
+  - ポップ志向のボーカルSynthwaveを確立。
+- **Kavinsky**  
+  - 「Nightcall」（2010）が象徴曲とされる。
 
-Distinctive elements:
-
-- Tropical pattern artwork
-- Hazy film photography
-- Slow motion footage of abandoned schools, beaches, forests, etc.
-- 90's VHS texture
-
-## 4-2. Synthwave and retro SF aesthetics
-Synthwave works closely with graphic designers and video creators.
-Artwork elements:
-
-- neon sign
-- "Outrun color scheme" of pink and blue
-- wireframe horizon
-- Sports car, sunset
-- VHS noise, CRT wind distortion
-
-These are directly connected to the design styles of 1980s science fiction movies, games, and anime.
+Synthwaveは **2010年代を通してネット上で一つの独立した大規模ジャンル** として成長した。
 
 ---
 
-# 5. Equipment/sound creation
-The equipment used in Chillwave and Synthwave is also very different.
+# 3. 両者の違い
 
-## Frequently used in Chillwave
-- **Soft synths (especially plug-ins from the late 2000s)**
-- **Sampler (Akai MPC, SP series)**
-- **Cassette recording, lo-fi processing**
-- **Electric guitar + effects**
+| 要素 | Chillwave | Synthwave |
+|------|-----------|-----------|
+| 主な時期 | 2009〜2013 | 2005〜現在 |
+| 美学 | ぼやけた記憶、夏、ノスタルジア | ネオン、未来都市、80s映画 |
+| 音響 | Lo-fi／ドリームポップ寄り | アナログシンセ中心、シャープな音 |
+| 代表 | Washed Out、Neon Indian | FM-84、Mitch Murder、The Midnight |
+| 文化的背景 | インディーとブログ文化 | 映画・ゲーム・シンセポップの復古 |
 
-## Frequently used in Synthwave
-- **Analog/analog modeling synth**
--Roland Juno-106
-- Yamaha DX7
-- Sequential Prophet series
-- Korg Polysix
-- **Drum Machine**
-- LinnDrum / LM-1
--Roland TR-707, TR-808
-- **80s style gated reverb snare**
-
-The sound itself is close to "reconstruction of 80s movies".
+一見似ているが、**Chillwaveは “思い出の曖昧さ”**、**Synthwaveは “80s映画の理想像”** という別の方向性を持つ。
 
 ---
 
-# 6. Chronology Chillwave / Synthwave Chronology
+# 4. インターネット文化と美学  
+## 4-1. Chillwaveとブログ文化
+Chillwaveは、MySpace、Bandcamp、ブログ経由の拡散が中心で、**ネット独特の低解像度美学**と親和性が高かった。
+
+特徴的な要素：
+
+- トロピカル系パターンのアートワーク  
+- 霞んだフィルム写真  
+- 廃校・海岸・森などのスローモーション映像  
+- 90年代VHSの質感
+
+## 4-2. SynthwaveとレトロSF美学
+Synthwaveはグラフィックデザイナーや映像クリエイターと密接。  
+アートワークの要素：
+
+- ネオンサイン  
+- ピンク×ブルーの「アウトラン配色」  
+- ワイヤーフレームの地平線  
+- スポーツカー、サンセット  
+- VHSノイズ、CRT風歪み  
+
+これらは80年代SF映画、ゲーム、アニメなどのデザイン様式と直結している。
+
+---
+
+# 5. 機材・音作り
+ChillwaveとSynthwaveでは使用される機材も大きく異なる。
+
+## Chillwaveで多用されたもの
+- **ソフトシンセ（特に2000年代後半のプラグイン）**
+- **サンプラー（Akai MPC、SPシリーズ）**
+- **カセット録音、ローファイ処理**
+- **エレキギター＋エフェクト**
+
+## Synthwaveで多用されたもの
+- **アナログ／アナログモデリングシンセ**
+  - Roland Juno-106  
+  - Yamaha DX7  
+  - Sequential Prophetシリーズ  
+  - Korg Polysix  
+- **ドラムマシン**
+  - LinnDrum / LM-1  
+  - Roland TR-707, TR-808  
+- **80s風ゲートリバーブのスネア**
+
+音そのものが「80s映画の再構築」に近い。
+
+---
+
+# 6. 年表 Chillwave / Synthwave クロノロジー
 
 <div class="mermaid">
 flowchart TB
-    A2005["2005: Kavinsky and College establish a style that would become Synthwave"] --> A2009
-    A2009["2009: Washed Out"s ""Life of Leisure" and Neon Indian"s ""Psychic Chasms" are recognized as Chillwave's representative works."] --> A2010
-    A2010["2010: Kavinsky"s ""Nightcall" and Toro y Moi"s ""Causes of This" were released, increasing the popularity of both genres."] --> A2011
-    A2011["2011: The movie 'Drive' soundtrack influenced the global spread of Synthwave"] --> A2013
-    A2013["2013: The end of the chillwave boom begins to be talked about in the music media"] --> A2016
-    A2016["2016: FM-84"s Atlas and The Midnight"s activities further expand the popularity of Synthwave"] --> A2020
-    A2020["2020s: Synthwave will continue to be adopted in games and video works and become an established genre."]
+    A2005["2005 : Kavinsky と College が Synthwave の前身となるスタイルを確立"] --> A2009
+    A2009["2009 : Washed Out『Life of Leisure』と Neon Indian『Psychic Chasms』が Chillwave を代表する作品として評価される"] --> A2010
+    A2010["2010 : Kavinsky「Nightcall」、Toro y Moi『Causers of This』が公開され両ジャンルの知名度が上昇"] --> A2011
+    A2011["2011 : 映画『Drive』サウンドトラックが Synthwave の世界的普及に影響"] --> A2013
+    A2013["2013 : Chillwave ブームの収束が音楽メディアで語られはじめる"] --> A2016
+    A2016["2016 : FM-84『Atlas』と The Midnight の活動が Synthwave の人気をさらに拡大"] --> A2020
+    A2020["2020s : Synthwave はゲーム・映像作品に継続して採用され定着したジャンルとなる"]
 </div>
 
 
 ---
 
-# 7. Illustration: Difference between Chillwave and Synthwave
+# 7. 図解：ChillwaveとSynthwaveの差異
 
 <div class="mermaid">
 flowchart TD
-    A["Chillwave（2009〜）"] -->|acoustic| B["Lo-fi / hazy texture"]
-    A -->|subject| C["Vagacious Memories/Summer/Introspection"]
-    A -->|representative| D["Washed Out / Neon Indian / Toro y Moi"]
+    A["Chillwave（2009〜）"] -->|音響| B["Lo-fi / 霞んだ質感"]
+    A -->|主題| C["曖昧な記憶・夏・内省"]
+    A -->|代表| D["Washed Out / Neon Indian / Toro y Moi"]
 
-    E["Synthwave（2005〜）"] -->|acoustic| F["Analog synth / 80s cinematic reconstruction"]
-    E -->|subject| G["Neon/Future City/SF"]
-    E -->|representative| H["FM-84 / The Midnight / Mitch Murder"]
+    E["Synthwave（2005〜）"] -->|音響| F["アナログシンセ / 80s映画的再構築"]
+    E -->|主題| G["ネオン・未来都市・SF"]
+    E -->|代表| H["FM-84 / The Midnight / Mitch Murder"]
 </div>
 
 ---
 
-# 8. Major works
+# 8. 主要作品
 
-## 8-1. Chillwave masterpiece
+## 8-1. Chillwave代表作
 
 * Washed Out – **Life of Leisure (2009)**
 * Neon Indian – **Psychic Chasms (2009)**
-* Toro y Moi – **Causes of This (2010)**
+* Toro y Moi – **Causers of This (2010)**
 
-## 8-2. Synthwave masterpieces
+## 8-2. Synthwave代表作
 
 * Kavinsky – **Nightcall (2010)**
 * College & Electric Youth – **A Real Hero (2011)**
@@ -205,35 +204,35 @@ flowchart TD
 
 ---
 
-# 9. Detailed analysis of video and design aspects
+# 9. 映像・デザイン面の詳細分析
 
-## 9-1. Influence of 80s movies
+## 9-1. 80s映画の影響
 
-Synthwave was heavily influenced by the electronic music and visuals seen in the following films:
+Synthwaveは以下の映画に見られる電子音楽・ビジュアルから大きな影響を受けた。
 
-* "Blade Runner" (1982)
-* "Tron" (1982)
-* "Miami Vice" (TV, 1984–1989)
-* 1980s arcade game aesthetic
+* 『ブレードランナー』（1982）
+* 『トロン』（1982）
+* 『マイアミ・バイス』（TV, 1984–1989）
+* 1980年代のアーケードゲーム美学
 
-## 9-2. Context of digital revival
+## 9-2. デジタル・リバイバルの文脈
 
-Chillwave made extensive use of visual expressions reminiscent of the personal media culture of the 1990s (VHS, camcorders, seaside home footage), and was compatible with the lo-fi photography culture of the Internet (such as early Instagram).
+Chillwaveは90年代の個人メディア文化（VHS、カムコーダー、海辺の家庭映像）を想起させる視覚表現を多用し、インターネットのローファイ写真文化（初期Instagramなど）と相性が良かった。
 
-Synthwave's **grid background + neon typography** created by graphic designers has become standardized worldwide, and has also become popular in mix videos on YouTube.
-
----
-
-# 10. Present and future of both genres
-
-Synthwave is still in high demand as a soundtrack for games and dramas, and is often used in VR and indie games.
-Chillwave, on the other hand, is increasingly being talked about as an "indie era" of the 2010s, but has been inherited in the context of dream pop and bedroom pop.
+Synthwaveは、グラフィック・デザイナーが制作する **グリッド背景＋ネオンタイポグラフィ** が世界的に標準化し、YouTube上のミックス動画でも定着した。
 
 ---
 
-# Conclusion
+# 10. 両ジャンルの現在と未来
 
-Chillwave and Synthwave both have their origins in the ""80s reappraisal,'' but each moved in a different direction of nostalgia. The former is a **soundscape of vague memories**, and the latter is a **reconstruction of the cinematic 80s world**.
-Behind this is the evolution of Internet culture, synthesizer technology, the DIY spirit, and the evolution of video and design.
+Synthwaveは現在もゲームやドラマ作品のサウンドトラックとして需要が高く、VR・インディーゲームでも採用例が多い。
+一方Chillwaveは2010年代の「インディーの一時代」として語られることが増えたが、ドリームポップやBedroom Popの文脈に受け継がれている。
+
+---
+
+# 結語
+
+ChillwaveとSynthwaveは共に「80年代の再評価」に起源を持ちながら、互いに異なるノスタルジアの方向へ進んだ。前者は **曖昧な記憶のサウンドスケープ**、後者は **映画的80s世界の再構築** である。
+そしてその背後には、インターネット文化、シンセサイザー技術、DIY精神、そして映像・デザインの進化がある。
 
 ---

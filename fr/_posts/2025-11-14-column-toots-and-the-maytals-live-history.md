@@ -65,11 +65,11 @@ Le public participe en applaudissant et en dansant, et les rires résonnent à t
 
 Joué pour la première fois en 1966, « Do the Reggay » a instantanément électrisé le public lors des spectacles des clubs en Jamaïque. Le public chante, danse et rit en cercle sur le sol, remplissant la salle. Chaque fois que Toots crie « Faites le Reggay ! », une réaction en chaîne d'applaudissements et d'acclamations s'ensuit.
 
-Cette chanson n’était pas seulement un spectacle, mais un rituel culturel avec la participation du public. Le mot reggae s'est répandu dans le monde entier, créant un moment où le public a fonctionné comme un transmetteur de culture.
+Cette chanson n’était pas seulement un spectacle, mais un rituel culturel avec la participation du public. Le mot reggae s’est répandu dans le monde entier, créant un moment où le public agissait comme un transmetteur de culture.
 
 ---
 
-### 1.3 Importance culturelle des premiers spectacles en direct
+### 1.3 Importance culturelle des premiers spectacles live
 
 * Le prototype d'un spectacle vivant participatif basé sur l'appel et la réponse
 * Événements musicaux qui encouragent l'unité de la communauté locale
@@ -96,16 +96,16 @@ Lors de performances live, Toots invitait parfois les membres du public à danse
 
 ### 2.2 « Funky Kingston » et expansion en Amérique (1975)
 
-En 1975, avec la sortie de l'album « Funky Kingston », ils tournent à New York. Des chansons comme « Pressure Drop », « Monkey Man » et « Funky Kingston » ont été jouées, et le public a dansé et chanté au rythme des appels de Toots.
+En 1975, avec la sortie de l'album "Funky Kingston", ils partent en tournée à New York. Des chansons comme « Pressure Drop », « Monkey Man » et « Funky Kingston » ont été jouées, et le public a dansé et chanté au rythme des appels de Toots.
 
 **Caractéristiques du spectacle live** :
 
-* Avec l'introduction d'un système audio, des sons graves peuvent être entendus dans tout l'étage.
+* Avec l'introduction d'un système de sonorisation, des basses graves peuvent être entendues dans tout l'étage.
 * Le discours impromptu de Toots permet au public de ne faire qu'un avec le spectacle.
 
 * Les effets de lumière soulignent l'atmosphère de la chanson et sont visuellement époustouflants.
 
-Les performances live de cette période ont non seulement montré l’évolution du son et de la production, mais ont également constitué un lieu important pour établir la popularité du reggae en Amérique.
+Les performances live au cours de cette période ont montré des progrès en matière de son et de production, et ont en même temps servi de lieu important pour établir la popularité du reggae en Amérique.
 
 ---
 
@@ -184,7 +184,7 @@ Grâce à des performances live en Europe et en Amérique, le reggae s'est répa
 
 | Année | Événements | Épisodes en direct | Importance culturelle |
 | ---- | -------------------- | ---------------------------- | --------------- |
-| 1962 | Formation | Premier spectacle live du « Chocomo Lounge » de Kingston | Modèle d'appel et de réponse |
+| 1962 | Formation | Premier spectacle live du « Chocomo Lounge » de Kingston | Prototype d'appel et de réponse |
 | 1966 | « Do the Reggay » est sorti | Public dansant en cercle | Naissance du mot « Reggae » |
 | 1968 | Apparition au festival national | Plusieurs milliers de personnes | Visualiser l'évolution des genres musicaux |
 | 1970 | Première tournée européenne | « Carnival Club » de Londres | Pionnier de la diffusion mondiale |

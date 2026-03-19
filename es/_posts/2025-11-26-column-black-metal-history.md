@@ -94,7 +94,7 @@ Su álbum de 1982 **Black Metal** dio origen al nombre del género.
 * **Báthory (Suecia)**
 * **Hellhammer → Celtic Frost (Suiza)**
 * Sarcófago (Brasil)
-* Atormentador (Hungría)
+* Tormentor (Hungría)
 
 La música de la primera ola fue salvaje;
 La textura es completamente diferente de la posterior segunda ola negra "fría, espiritual y helada".
@@ -113,7 +113,7 @@ La atención se centró en los jóvenes músicos underground noruegos.
 * Establecer la grabación de baja fidelidad como “estética”
 *Riff de trémolo
 * Grita Vo
-* Expresión de “páramo de hielo” a través de la repetición y la velocidad.
+* Expresión de “Ice Wasteland” a través de la repetición y la velocidad.
 * Pintura de cadáver
 * Vista natural del invierno, el bosque y la soledad.
 
@@ -211,7 +211,7 @@ Obras principales: *Bathory* (1984), *El regreso…* (1985), *Bajo el signo de l
 * Estructura mínima del riff.
 * Ritmo más rápido (especialmente 1985-87)
 * La línea melódica recuerda al "frío" y la "humedad" únicos de Suecia y está directamente relacionada con los movimientos posteriores.
-* En la década de 1990, hicieron la transición al período del metal vikingo y fueron más allá del alcance del black metal para recrear la estética de la mitología nórdica.
+* En los años 90, hicieron la transición al período del metal vikingo y fueron más allá del alcance del black metal para recrear la estética de la mitología nórdica.
 
 ---
 
@@ -234,7 +234,7 @@ Obras principales: *Bathory* (1984), *El regreso…* (1985), *Bajo el signo de l
 Obras principales: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * La música apunta al minimalismo completo,
-**Un estilo que pretende crear una naturaleza similar al trance y el colapso del sentido del tiempo a través de la repetición**.
+**Un estilo que tiene como objetivo crear una naturaleza similar al trance y el colapso del sentido del tiempo a través de la repetición**.
 * Continuando haciendo una fuerte declaración en el debate cultural y religioso noruego a principios de los años 1990,
 Debido a la excesiva cobertura mediática, se estableció la "imagen peligrosa" del black metal.
 * Después del incidente (asesinato de Euronymous) y el arresto, la fuente de sonido de Burzum se volvió más ambiental.
@@ -438,7 +438,7 @@ A continuación se muestra una **cronología basada en hechos**. Los incidentes 
 
 **2006**
 
-*Lobos en el Salón del Trono *Diadema de 12 Estrellas* (Establecimiento de Cascadian BM)
+*Lobos en el Salón del Trono *Diadema de 12 Estrellas* (Establecimiento de BM Cascadian)
 
 **2010**
 
@@ -487,3 +487,11 @@ La expansión continúa hasta la década de 2020.
 
 ---
 
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kqbk0s0VsN0?si=INET9VckBxDriRR5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

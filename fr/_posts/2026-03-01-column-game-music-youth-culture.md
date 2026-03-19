@@ -92,7 +92,7 @@ La chanson a ensuite été interprétée par des orchestres du monde entier.
 
 Commencé en 2002
 **Distant Worlds : musique de FINAL FANTASY**
-s'est produit à plusieurs reprises en Amérique du Nord, en Europe et au Japon et a établi la musique de jeu dans les salles classiques.
+joué en Amérique du Nord, en Europe et au Japon, et a établi la musique de jeu dans les salles classiques.
 
 À ce stade, la musique de jeu est passée d'une « expérience domestique » à un « art de la performance dans les espaces publics ».
 
@@ -148,7 +148,7 @@ La musique du jeu sera intégrée aux listes de lecture pour la « concentration
 La distribution commence en 2020
 **Genshin**
 a été enregistré avec un orchestre complet à Londres, Shanghai et ailleurs.
-La vidéo officielle du concert a été simultanément distribuée dans le monde entier et visionnée par des millions de téléspectateurs.
+La vidéo officielle du concert a été simultanément distribuée dans le monde entier et vue par des millions de téléspectateurs.
 
 Lors des tournois d'e-sport, des productions à grande échelle sont incluses dans les cérémonies d'ouverture.
 **Ligue des Légendes**
@@ -247,6 +247,6 @@ Il est prévu que les expériences musicales en temps réel dans les espaces VR 
 
 ---
 
-> Le moment où la musique de jeu devient courante chez les jeunes n'est pas un événement isolé, mais le résultat de 40 ans d'accumulation technologique et culturelle.
+> Le moment où la musique de jeu devient courante chez les jeunes n'est pas un simple incident, mais le résultat d'une accumulation de 40 ans de technologie et de culture.
 
 ---

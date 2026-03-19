@@ -32,7 +32,7 @@ Eric B. & Rakim 是美國嘻哈二人組，由 DJ Eric B. 和饒舌歌手 Rakim 
 10. Extended Beat
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXF7ux_ES3E?si=5z4SlxD9d2yxBZnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

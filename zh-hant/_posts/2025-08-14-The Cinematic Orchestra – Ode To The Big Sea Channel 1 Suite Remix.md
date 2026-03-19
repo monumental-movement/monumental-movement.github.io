@@ -15,12 +15,12 @@ title: 電影管弦樂團 – 海頌 / Channel 1 Suite（混音）
 ---
 
 
-The Cinematic Orchestraは、作曲家／プロデューサーの Jason Swinscoe（J Swinscoeジェイソン・スウィンスコー） が中心となって1999年にイギリス・ロンドンで結成されたジャズ／ダウンテンポ／エレクトロニカ バンド。
+The Cinematic Orchestra 是一支爵士/慢速/電子樂隊，於 1999 年在英國倫敦成立，由作曲家/製作人 Jason Swinscoe 領導。
 
 「Ode To The Big Sea / Channel 1 Suite」的 Future Jazz & Downtempo 混音版於 1999 年在英國獨立廠牌 Ninja Tune 發行。
 
 A1 是 Ninja Tune 的 DJ 兼製作人 Axis（Darren Knott/DK）的混音版。
-A2 是湯姆·泰勒（文森特·馬科夫斯基）的混音版。
+A2は、Tom Tyler (Vincent Markowski)によるremix。
 
 
 #### 曲目表

@@ -14,7 +14,7 @@ title: Cachorro flaco - Antología de 12 pulgadas
 ---
 
 
-Skinny Puppy es una banda electro-industrial formada en 1982 por Kelvin Key y Kevin Ogilvie, nacidos en Canadá.
+Skinny Puppy es una banda electroindustrial formada en 1982 por Kelvin Key y Kevin Ogilvy, nacidos en Canadá.
 
 Skinny Puppy es conocido como uno de los fundadores del rock industrial y los géneros electroindustriales.
 

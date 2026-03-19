@@ -125,7 +125,7 @@ Al mezclar las formas de onda electrónicas de Buchla con el susurro del bosque,
 La inestabilidad de Buchla, el carácter manual de los parches, las desviaciones y fluctuaciones incontrolables no son bienvenidos como "defectos", sino más bien como "márgenes creativos", "cambios químicos inesperados" y "coincidencias sonoras".
 
 - **Sensación corporal y experiencia de vibración**
-En lugar de ver el sonido como algo que se escucha con los oídos, lo consideramos como algo que se siente con el cuerpo y algo que se experimenta como vibraciones. Voz, respiración, movimiento, vibración: al conectarlos con las vibraciones eléctricas del sintetizador, la música se expande hasta convertirse en una percepción que utiliza no sólo el sentido auditivo sino también todo el cuerpo.
+En lugar de pensar en el sonido como algo que escuchas con tus oídos, lo consideramos algo que sientes con tu cuerpo y algo que experimentas como vibraciones. Voz, respiración, movimiento, vibración: al conectarlos con las vibraciones eléctricas del sintetizador, la música se expande hasta convertirse en una percepción que utiliza no sólo el sentido auditivo sino también todo el cuerpo.
 
 - **Múltiples capas de temporalidad, espacialidad y memoria**
 Drones, ondulaciones, pads y grabaciones de campo extienden el tiempo, espesan el espacio y crean recuerdos, emociones y conexiones con la naturaleza a través del sonido.
@@ -172,7 +172,7 @@ De esta manera, su sonido no ha evolucionado de manera lineal, sino que ha segui
 
 ## Clausura — Un mensaje para quienes aman a Buchla
 
-El viaje de Kaitlyn Aurelia Smith nunca ha sido un experimento técnico ni una demostración de habilidad. Su objetivo es crear un "mundo de sensaciones" rico y poético que entreteje "el cuerpo, la naturaleza, la electricidad, el tiempo y el espacio" a través del "dispositivo técnico" de un sintetizador modular.
+El viaje de Kaitlyn Aurelia Smith nunca ha sido un experimento técnico ni una demostración de habilidades. Su objetivo es crear un "mundo de sensaciones" rico y poético que entreteje "el cuerpo, la naturaleza, la electricidad, el tiempo y el espacio" a través del "dispositivo técnico" de un sintetizador modular.
 
 Si amas a Buchla y los sintetizadores modulares no sólo como equipo, sino como "recipientes sonoros vivientes", "cuerpos vibrantes" y "una mezcla de azar y necesidad", su trabajo te servirá como guía para tu exploración.
 

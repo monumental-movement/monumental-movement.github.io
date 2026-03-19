@@ -10,140 +10,140 @@ tags:
 - 90s
 - 80s
 - 70s
-title: '[Column] Ambient: From "listening music" to "feeling music" II'
+title: 【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII
 ---
 
 
-## From "music to listen to" to "music to feel" II
+## 「聴く音楽」から「感じる音楽」へ II 
 
-Text: mmr｜Theme: Ambient, environmental music, electronic music culture theory
+文：mmr｜テーマ：Ambient・環境音楽・電子音楽文化論  
 
-Ambient is a genre of music that is not intended to be "actively listened to" by listeners, but rather to "exist in a space."
-He eliminates clear melodies and rhythms and instead uses sustained sounds (drones), environmental sounds (field recordings), and acoustic processing to construct auditory landscapes.
+Ambient（アンビエント）とは、リスナーに“積極的に聴かれる”ことを目的とせず、“空間に存在する”ことを意図した音楽ジャンルである。  
+明確なメロディやリズムを排除し、代わりに持続音（ドローン）・環境音（フィールドレコーディング）・音響処理などを用いて、聴覚的な風景を構築する。  
 
-This genre is extremely philosophical music that stands on the border between music and art, sound and space, perception and consciousness.
-
----
-
-## ■ Before the 1960s: Ambient music as an idea
-
-### Social background
-After World War II, with the acceleration of urbanization and industrialization, people's living environments became acutely aware of the contrast between "noise" and "silence." Artists and composers began trying to rethink music as an "environment" rather than "entertainment."
-
-### Representative trends
-- [**Erik Satie**: "Musique d"ameublement"](https://amzn.to/42JssfB) positioned music not as something to be actively listened to, but as a "function" that constitutes a space.
-- [**John Cage**《4"33"》(1952)](https://amzn.to/4pOfrLZ): A radical experiment in which the performer does not make any sound and uses the ambient sounds floating in the venue as music.
-- [**Musique Concrète**:](https://a.r10.to/hgipOu) Pierre Schaeffer and others attempted to reconstruct sound by making full use of recording and editing techniques.
-
-### Equipment/Technology
-- Editing with tape recorder (cut up, reverse rotation, speed change)
-- Field recording (city crowd, natural sounds)
-- It was a conceptual precedent and later became the philosophical foundation of ambient music.
+このジャンルは音楽とアート、音響と空間、知覚と意識の境界に立つ、極めて哲学的な音楽である。  
 
 ---
 
-## ■ 1970s: Establishment of ambient music
+## ■ 1960年代以前：観念としての環境音楽  
 
-### Social background
-The feeling of emptiness after the Vietnam War, the oil crisis, and the infiltration of 1970s New Age ideology. While commercial music has become more pop-oriented, there has also been a growing trend towards ""silence," ""meditation," and ""innerity.''
+### 社会背景
+第二次世界大戦後、都市化と産業化の加速により、人々の生活環境は「騒音」と「沈黙」の対比を強く意識させるものとなった。芸術家や作曲家は、音楽を“娯楽”ではなく“環境”として捉え直す試みを開始。  
 
-### Masterpiece
-- [Brian Eno "Discreet Music" (1975)](https://amzn.to/3VBpgPl)
-- [Brian Eno "Ambient 1: Music for Airports" (1978)](https://amzn.to/3IFlmSB)
-- [Cluster & Eno "Cluster & Eno" (1977)](https://amzn.to/3KkyRYu)
+### 代表的潮流
+- [**エリック・サティ**：「家具の音楽」(Musique d’ameublement)](https://amzn.to/42JssfB) により、音楽を積極的に聴くものではなく空間を構成する“機能”と位置付けた。  
+- [**ジョン・ケージ**《4’33”》（1952年）](https://amzn.to/4pOfrLZ)：演奏者が音を出さず、会場に漂う環境音そのものを音楽とするラディカルな実験。  
+- [**具体音楽 (Musique Concrète)**：](https://a.r10.to/hgipOu)ピエール・シェフェールらが録音・編集技術を駆使し、音の再構築を試みた。  
 
-### Equipment/Technology
-- Modular synths such as EMS VCS3 and ARP 2600
-- Sustained sound generation using tape loop echo
-- Emphasis on processing and chance
-
-### Features
-During this period, the word "ambient" took root, and the role of music as urban spatial art was established. It has attracted attention as music that can be adapted to airports, hospitals, and public spaces.
+### 機材・技術
+- テープレコーダーによる編集（カットアップ、逆回転、スピード変化）  
+- フィールドレコーディング（都市雑踏、自然音）  
+- 概念先行であり、のちのアンビエントの哲学的基盤となる。  
 
 ---
 
-## ■ 1980s: Fusion with electronic music
+## ■ 1970年代：アンビエントの確立  
 
-### Social background
-The music is driven by the tension of the Cold War structure and at the same time by optimism towards technology. With the spread of home synthesizers, ambient music has shifted from being music for a minority of listeners to music that is part of everyday life.
+### 社会背景
+ベトナム戦争後の虚無感、石油危機、70年代的なニューエイジ思想の浸透。商業音楽のポップ化が進む一方で、「静寂」「瞑想」「内面」への志向が高まった。  
 
-### Masterpiece
-- [Harold Budd & Brian Eno "The Plateaux of Mirror" (1980)](https://amzn.to/4nmHFvq)
-- [Tangerine Dream "Exit" (1981)](https://amzn.to/42HetqK)
-- [Brian Eno "Thursday Afternoon" (1985)](https://amzn.to/4nfUyaE)
+### 代表作
+- [Brian Eno 『Discreet Music』（1975）](https://amzn.to/3VBpgPl)  
+- [Brian Eno 『Ambient 1: Music for Airports』（1978）](https://amzn.to/3IFlmSB)  
+- [Cluster & Eno 『Cluster & Eno』（1977）](https://amzn.to/3KkyRYu)  
 
-### Equipment/Technology
-- [Yamaha DX7](https://amzn.to/46EXVRB) (Clear tone of FM sound source)
-- [Roland Juno-60](https://a.r10.to/hPUHle) (Rich pad sound)
-- Ambient sound processing using early samplers such as Fairlight CMI
+### 機材・技術
+- EMS VCS3、ARP 2600などモジュラーシンセ  
+- テープループ・エコーによる持続音生成  
+- プロセッシングと偶然性を重視  
 
-### Features
-It intersected with new age music and became commercially popular in the context of healing and meditation. Ambient music has expanded from "museum music" to "everyday relaxation."
-
----
-
-## ■ 1990s: Encounter with club culture
-
-### Social background
-Globalization and the explosion of techno/rave culture after the end of the Cold War. A ""chill-out space'' was needed in between the mass-consuming four-on-the-floor beats.
-
-### Masterpiece
-- [The Orb "Adventures Beyond the Ultraworld" (1991)](https://amzn.to/4pxxQMK)
-- [Aphex Twin "Selected Ambient Works 85-92" (1992)](https://amzn.to/4nTlc9p)
-- [Biosphere "Substrata" (1997)](https://amzn.to/4mylwZO)
-- [Global Communication "76:14" (1994)](https://amzn.to/4myYa6o)
-
-### Equipment/Technology
-- Sampler such as Akai S1000
-- Ambient application of [Roland TB-303](https://a.r10.to/h5SLY8), [TR-808](https://a.r10.to/hRF5ke)
-- Live recording with DAT tape
-
-### Features
-The rise of ambient house and ambient techno. It functions as music that supports the "behind the scenes" of club culture. The area where environmental sounds and beats intersect is explored.
+### 特徴
+この時代に「アンビエント」という言葉が定着し、都市の空間芸術としての音楽の役割が確立。空港、病院、公共空間に適応可能な音楽として注目を浴びる。  
 
 ---
 
-## ■ 2000s: Digital age and cinematic expansion
+## ■ 1980年代：電子音楽との融合  
 
-### Social background
-The unstable world situation after 9/11. Amid the stress of urbanization, themes such as ""meditation" and ""healing" are sought after. Digitalization has dramatically expanded sonic expression.
+### 社会背景
+冷戦構造の緊張感と同時に、テクノロジーへの楽観主義が音楽を駆動。家庭用シンセサイザーの普及により、アンビエントは「聴く少数派の音楽」から「日常に寄り添う音楽」へ。  
 
-### Masterpiece
-- [Fennesz "Endless Summer" (2001)](https://amzn.to/3VBOsp4)
-- [William Basinski "The Disintegration Loops" (2002)](https://amzn.to/42aRJze)
-- [Stars of the Lid "And Their Refinement of the Decline" (2007)](https://amzn.to/3IGEMqg)
+### 代表作
+- [Harold Budd & Brian Eno 『The Plateaux of Mirror』（1980）](https://amzn.to/4nmHFvq)  
+- [Tangerine Dream 『Exit』（1981）](https://amzn.to/42HetqK)  
+- [Brian Eno 『Thursday Afternoon』（1985）](https://amzn.to/4nfUyaE)  
 
-### Equipment/Technology
-- Popularization of DAW ([Ableton Live](https://a.r10.to/h5IrNm), [Pro Tools](https://a.r10.to/hPWYEw))
-- Real-time processing with Max/MSP
-- Drone with electric guitar + effect pedal
+### 機材・技術
+- [Yamaha DX7](https://amzn.to/46EXVRB)（FM音源の澄んだトーン）  
+- [Roland Juno-60](https://a.r10.to/hPUHle)（豊かなパッドサウンド）  
+- Fairlight CMIなど初期サンプラーによる環境音加工  
 
-### Features
-Forays into art, film music, and installation. Ambient music has moved from "listening" to "experiencing".
-
----
-
-## ■ 2010s-present: Post-Ambient
-
-### Social background
-Streaming culture has become established, and Lo-fi Hip Hop and Chill-style BGM have become explosively popular. Directly connected to meditation, yoga, and mindfulness, ambient is redefined as "the music of life."
-
-### Masterpiece
-- [Tim Hecker "Virgins"](https://amzn.to/4nNKwgP) (2013)
-- [Oneohtrix Point Never "Replica"](https://amzn.to/4nnCpI8) (2011)
-- [Hiroshi Yoshimura "Green"](https://amzn.to/42J5iWN) (1986 → Reissued and brought back international attention)
-
-### Equipment/Technology
-- Soft synth ([Omnisphere](https://amzn.to/3IzuOHh), [Kontakt](https://amzn.to/3Izp93Y))
-- High performance field recorder ([Zoom](https://amzn.to/46B3TCP), [Tascam](https://amzn.to/3VxbOw3))
-- Audio integration with VR/AR
-
-### Features
-"Infinite loop BGM" culture on YouTube and Twitch. Ambient has become established as the "environmental sound of the internet space" beyond the listening target.
+### 特徴
+ニューエイジ音楽との交差が進み、癒しや瞑想の文脈で商業的にも普及。アンビエントは「美術館音楽」から「日常のリラクゼーション」へ拡大。  
 
 ---
 
-## List of 10 representative songs from each generation
+## ■ 1990年代：クラブカルチャーとの邂逅  
+
+### 社会背景
+冷戦終結後のグローバル化、テクノ／レイヴ文化の爆発。大量消費される四つ打ちの合間に「チルアウト空間」が必要とされた。  
+
+### 代表作
+- [The Orb 『Adventures Beyond the Ultraworld』（1991）](https://amzn.to/4pxxQMK)  
+- [Aphex Twin 『Selected Ambient Works 85-92』（1992）](https://amzn.to/4nTlc9p)  
+- [Biosphere 『Substrata』（1997）](https://amzn.to/4mylwZO)  
+- [Global Communication 『76:14』（1994）](https://amzn.to/4myYa6o)  
+
+### 機材・技術
+- Akai S1000などのサンプラー  
+- [Roland TB-303](https://a.r10.to/h5SLY8)、[TR-808](https://a.r10.to/hRF5ke)のアンビエント的応用  
+- DATテープによるライブ録音  
+
+### 特徴
+アンビエント・ハウス、アンビエント・テクノの勃興。クラブカルチャーの「裏側」を支える音楽として機能。環境音とビートが交差する領域が開拓される。  
+
+---
+
+## ■ 2000年代：デジタル時代と映画的広がり  
+
+### 社会背景
+9.11以降の不安定な世界情勢。都市化のストレスの中で「瞑想」「癒し」といったテーマが求められる。デジタル化が音響表現を飛躍的に拡張。  
+
+### 代表作
+- [Fennesz 『Endless Summer』（2001）](https://amzn.to/3VBOsp4)  
+- [William Basinski 『The Disintegration Loops』（2002）](https://amzn.to/42aRJze)  
+- [Stars of the Lid 『And Their Refinement of the Decline』（2007）](https://amzn.to/3IGEMqg)  
+
+### 機材・技術
+- DAW（[Ableton Live](https://a.r10.to/h5IrNm), [Pro Tools](https://a.r10.to/hPWYEw)）の普及  
+- Max/MSPによるリアルタイム処理  
+- エレキギター＋エフェクトペダルでのドローン  
+
+### 特徴
+アート、映画音楽、インスタレーションへの進出。アンビエントは「聴く」から「体験する」領域へ。  
+
+---
+
+## ■ 2010年代〜現在：ポスト・アンビエント  
+
+### 社会背景
+ストリーミング文化の定着、Lo-fi HipHopやChill系BGMの爆発的普及。瞑想、ヨガ、マインドフルネスと直結し、アンビエントは「生活の音楽」として再定義される。  
+
+### 代表作
+- [Tim Hecker 『Virgins』](https://amzn.to/4nNKwgP)（2013）  
+- [Oneohtrix Point Never 『Replica』](https://amzn.to/4nnCpI8)（2011）  
+- [Hiroshi Yoshimura 『Green』](https://amzn.to/42J5iWN)（1986 → 再発で国際的再注目）  
+
+### 機材・技術
+- ソフトシンセ（[Omnisphere](https://amzn.to/3IzuOHh), [Kontakt](https://amzn.to/3Izp93Y)）  
+- 高性能フィールドレコーダー（[Zoom](https://amzn.to/46B3TCP), [Tascam](https://amzn.to/3VxbOw3)）  
+- VR/ARとの音響統合  
+
+### 特徴
+YouTubeやTwitchでの「無限ループBGM」文化。アンビエントはリスニング対象を越えて「ネット空間の環境音」として定着。  
+
+---
+
+## 各年代の代表10曲リスト  
 
 
 <style type="text/css">
@@ -151,7 +151,7 @@ Streaming culture has become established, and Lo-fi Hip Hop and Chill-style BGM 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -162,9 +162,9 @@ color: #fff;
 
 <br>
 
-### 1970s
+### 1970年代
 
-| Album | Artist | Year |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
 | [Discreet Music](https://amzn.to/46Ua7Px) | Brian Eno | 1975 |
 | [Ambient 1: Music for Airports](https://amzn.to/4nMtyPM) | Brian Eno | 1978 |
@@ -179,9 +179,9 @@ color: #fff;
 
 <br>
 
-### 1980s
+### 1980年代
 
-| Album | Artist | Year |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
 | [The Plateaux of Mirror](https://amzn.to/3IutyFm) | Harold Budd & Brian Eno | 1980 |
 | [Thursday Afternoon](https://amzn.to/3VAghxS) | Brian Eno | 1985 |
@@ -196,9 +196,9 @@ color: #fff;
 
 <br>
 
-### 1990s
+### 1990年代
 
-| Album | Artist | Year |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
 | [Adventures Beyond the Ultraworld](https://amzn.to/46B8HYT) | The Orb | 1991 |
 | [Selected Ambient Works 85-92](https://amzn.to/4nnUy8J) | Aphex Twin | 1992 |
@@ -213,9 +213,9 @@ color: #fff;
 
 <br>
 
-### 2000s
+### 2000年代
 
-| Album | Artist | Year |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
 | [Endless Summer](https://amzn.to/428hBMi) | Fennesz | 2001 |
 | [The Disintegration Loops](https://amzn.to/3KjewCV) | William Basinski | 2002 |
@@ -230,9 +230,9 @@ color: #fff;
 
 <br>
 
-### 2010s~
+### 2010年代〜
 
-| Album | Artist | Year |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
 | [Replica](https://amzn.to/4nnCpI8) | Oneohtrix Point Never | 2011 |
 | [Virgins](https://amzn.to/482fkpG) | Tim Hecker | 2013 |
@@ -247,106 +247,106 @@ color: #fff;
 
 ---
 
-## ■ Equipment timeline: Technology that supported ambient music
+## ■ 機材年表：アンビエントを支えたテクノロジー  
 
-| Era | Equipment | Characteristics/Influence on Ambient |
+| 年代 | 機材 | 特徴・アンビエントへの影響 |
 |------|------|----------------------------|
-| 1960s | Moog Modular Synthesizer | The world's first commercially available modular synthesizer. Used to generate sustained sounds and drones. |
-| 1970s | EMS VCS3 / Synthi A | Used by Brian Eno and others. Compact yet versatile sound processing. |
-| 1970s | Revox tape recorder | Ambient sound processing with tape loop and flipback system. |
-| 1980s | Yamaha DX7 | Transparent sound from FM sound source. A symbol of 80's ambient. |
-| 1980s | Roland Juno-60 | Warm pad string tone suitable for meditative space. |
-| 1980s | Fairlight CMI | Expensive sampler. Introducing natural sounds and sound effects into the ambient music. |
-| 1990s | Akai S1000/S3000 | A classic sampler that supported club ambient music. |
-| 1990s | DAT recorder | Essential for long sessions and recording environmental sounds. |
-| 2000s | Ableton Live | Specialized in loop-based editing. Enables improvised ambient production. |
-| 2000s | Max/MSP | Fusion with sound art, real-time sound processing. |
-| 2010s | Omnisphere, Kontakt | High-definition soft sound source reproduces spatial texture. |
-| 2010s~ | Zoom/Tascam Field Recorder | High-quality natural sound recordings promote the spread of ambient eco-acoustics. |
+| 1960s | Moog Modular Synthesizer | 世界初の商用モジュラーシンセ。持続音・ドローン生成に利用。 |
+| 1970s | EMS VCS3 / Synthi A | Brian Enoらが愛用。小型ながら多彩な音響処理。 |
+| 1970s | Revox テープレコーダー | テープループ、フリップバック・システムで環境音処理。 |
+| 1980s | Yamaha DX7 | FM音源による透明なサウンド。80年代アンビエントの象徴。 |
+| 1980s | Roland Juno-60 | ウォームなパッド・ストリング音色が瞑想的空間に適合。 |
+| 1980s | Fairlight CMI | 高価なサンプラー。自然音や効果音を環境音楽に導入。 |
+| 1990s | Akai S1000/S3000 | クラブ系アンビエントを支えた定番サンプラー。 |
+| 1990s | DATレコーダー | 長時間セッション・環境音記録に不可欠。 |
+| 2000s | Ableton Live | ループベースの編集に特化。即興的アンビエント制作を可能に。 |
+| 2000s | Max/MSP | サウンドアートとの融合、リアルタイム音響処理。 |
+| 2010s | Omnisphere, Kontakt | 高精細なソフト音源が空間的質感を再現。 |
+| 2010s〜 | Zoom/Tascam フィールドレコーダー | 高音質な自然音録音により、アンビエントの生態音響的広がりを促進。 |
 
 ---
 
-## ■ Examples of ambient use in movies and museums
+## ■ 映画・美術館でのアンビエント活用事例  
 
 <br>
 
-### movie
-- **["2001: A Space Odyssey"](https://amzn.to/4mDbiYv) (1968, Stanley Kubrick)**
-- The atonal music of Ligeti and Penderecki played a de facto ambient role.
-- **["Blade Runner"](https://amzn.to/46I7grO) (1982, Vangelis)**
-- Sustained synth sounds and futuristic city sounds become the archetypal ambient film music.
-- **["Solaris"](https://amzn.to/46z8KV6) (1972, Tarkovsky / Music: Eduard Artemyev)**
-- Electro-acoustic cosmic ambience. Maximize the psychological effect of silence.
-- **["Lost in Translation" (](https://amzn.to/3Iurayo)2003, Sofia Coppola / Music: Kevin Shields, Air)**
-- Surrounding the loneliness of the city with ambient sounds.
+### 映画  
+- **[『2001年宇宙の旅』](https://amzn.to/4mDbiYv)（1968, Stanley Kubrick）**  
+  - リゲティやペンデレツキの無調音楽が、事実上のアンビエント的役割を果たした。  
+- **[『ブレードランナー』](https://amzn.to/46I7grO)（1982, Vangelis）**  
+  - シンセによる持続音と未来都市の音響がアンビエントの原型的な映画音楽に。  
+- **[『ソラリス』](https://amzn.to/46z8KV6)（1972, Tarkovsky / 音楽: Eduard Artemyev）**  
+  - 電子音響による宇宙的アンビエンス。静寂の心理効果を最大化。  
+- **[『ロスト・イン・トランスレーション』（](https://amzn.to/3Iurayo)2003, Sofia Coppola / 音楽: Kevin Shields, Air）**  
+  - 都市の孤独をアンビエント的サウンドで包み込む。  
 
-### Museum/Installation
-- **Brian Eno "77 Million Paintings"** (2006~)
-- A generative installation that combines video and sound.
-- **Ryoji Ikeda "datamatics"** (2006~)
-- Convert data to audio and video. Create a minimal and ambient immersive space.
-- **Ryuichi Sakamoto "async – Installation"** (2017, Watari Museum of Art, etc.)
-- Ambient art that explores the view of life and death and memory, combining environmental sounds and electronic sounds.
-- **Olafur Eliasson "The Weather Project"** (2003, Tate Modern)
-- Presents an ambient immersive space as an integrated visual and audio experience.
-
----
-
-## Ambient and architecture/urban planning
-
-Ambient has the aspect of ""acoustic architecture.''
-- **Airports (Eno's Music for Airports)**: Resonance of architectural space and sound.
-- **Urban Soundscape Studies (R. Murray Schafer)**: Ambient sounds define the urban experience.
-- In **modern architecture**, it has been introduced as an "acoustic design" that goes beyond background music, contributing to the psychological comfort of cities.
+### 美術館・インスタレーション  
+- **Brian Eno “77 Million Paintings”**（2006〜）  
+  - 映像と音響を融合させたジェネラティブ・インスタレーション。  
+- **Ryoji Ikeda “datamatics”**（2006〜）  
+  - データを音と映像に変換。ミニマルかつアンビエント的な没入空間を創出。  
+- **坂本龍一 “async – Installation”**（2017, ワタリウム美術館ほか）  
+  - 環境音と電子音を交差させた、死生観と記憶のアンビエント芸術。  
+- **Olafur Eliasson “The Weather Project”**（2003, テート・モダン）  
+  - 視覚と音響の統合体験として、アンビエント的没入空間を提示。  
 
 ---
 
-## Ambient and therapy (sound therapy)
+## アンビエントと建築・都市計画  
 
-- Use in medical settings (relaxation before and after surgery, improving concentration).
-- Essential music for meditation and yoga.
-- Research reports that ""binaural beats'' using natural sounds and low frequencies have a stress-reducing effect.
-- By merging with psychotherapy and music therapy, ambient music has been established as "therapeutic music."
+アンビエントは「音響的建築」としての側面を持つ。  
+- **空港（EnoのMusic for Airports）**：建築空間と音の共鳴。  
+- **都市のサウンドスケープ研究（R. Murray Schafer）**：環境音が都市体験を規定。  
+- **現代建築**では、BGMを超えた「音響デザイン」として導入され、都市の心理的快適さに寄与。  
+
+---
+
+## アンビエントと療法（サウンドセラピー）  
+
+- 医療現場での使用（手術前後のリラクゼーション、集中力向上）。  
+- 瞑想やヨガでの必須音楽。  
+- 自然音や低周波を用いた「バイノーラルビート」はストレス軽減効果を持つと研究報告。  
+- 精神療法、音楽療法と融合し、アンビエントは「治療のための音楽」として確立。  
 
 ---
 
 
-## Special feature on Japanese ambient artists
+## 日本のアンビエント作家特集  
 
-**Hiroshi Yoshimura**
+**吉村弘 (Hiroshi Yoshimura)**
 
-- Representative works ["Music for Nine Post Cards"](https://amzn.to/429uNQV) (1982), ["Green"](https://amzn.to/4nN36pp) (1986)
-- With its simple melody and clear sound, it has been reevaluated overseas in recent years.
+- 代表作[『Music for Nine Post Cards』](https://amzn.to/429uNQV)（1982）、[『Green』](https://amzn.to/4nN36pp)（1986）  
+- シンプルな旋律と透き通るサウンドで、近年海外再評価が進む。  
 
-**Yuji Takahashi**
+**高橋悠治 (Yuji Takahashi)**
 
-- Interacted with avant-garde composers such as John Cage and helped establish experimental music in Japan.
+- ジョン・ケージら前衛作曲家と交流し、日本に実験音楽を根付かせた。  
 
-**Ryuichi Sakamoto**
+**坂本龍一 (Ryuichi Sakamoto)**
 
-- ['async'](https://amzn.to/4pGHDAe) (2017) combines environmental sounds and acoustic art. Ambient elements have been deployed throughout his career.
+- [『async』](https://amzn.to/4pGHDAe)（2017）で環境音と音響芸術を融合。アンビエント的要素をキャリア全体で展開。  
 
-**Kenji Kawai**
+**川井憲次 (Kenji Kawai)**
 
-- Expressing an ambient space with anime music such as [""Ghost in the Shell''] (https://amzn.to/3VwvujB).
+- [『攻殻機動隊』](https://amzn.to/3VwvujB)などアニメ音楽でアンビエント的空間を表現。  
 
-**others**
+**その他**
 
-- Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Japan's unique "ma" and "wabi-sabi" forms a different texture from overseas ambient music.
-
----
-
-## Conclusion
-
-Ambient is a ""spatial art'' that goes beyond the realm of music, and has evolved through connections with architecture, cities, psychotherapy, and technology.
-It"s not just a genre, it"s "sound design for humans to live in harmony with the environment."
-
-In the future, ambient will become even more essential as ""environmental infrastructure'' in the metaverse and urban design.
-
+- 芳垣安洋、ACO、CHIhei Hatakeyama など。  
+- 日本特有の「間（ま）」や「侘び寂び」が、海外のアンビエントと異なる質感を形成。  
 
 ---
 
-### Related columns
+## 結語
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)
+アンビエントは **音楽の領域を越えた“空間芸術”**であり、建築、都市、心理療法、テクノロジーと結びつきながら進化してきました。  
+それは単なるジャンルではなく、「人間が環境と共に生きるためのサウンドデザイン」である。  
+
+未来においては、メタバースや都市設計において、アンビエントはさらに「環境のインフラ」として不可欠な存在になるだろう。  
+
+
+---
+
+### 関連コラム
+
+🔗  [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)

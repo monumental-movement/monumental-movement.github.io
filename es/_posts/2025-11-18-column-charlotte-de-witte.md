@@ -60,13 +60,13 @@ También lanzó un EP y lanzó sus primeros trabajos en sellos como Bad Life y C
 
 ## Trabajando bajo su nombre real y recurriendo al techno (2015-2018)
 
-En **2015**, Charlotte abandonó el nombre "Raving George" y comenzó a trabajar con su nombre real **Charlotte de Witte**.
+En **2015**, Charlotte abandonó el nombre "Raving George" y comenzó a actuar bajo su nombre real **Charlotte de Witte**.
 Durante este período, su sonido adquirió un estilo más oscuro y minimalista, incluyendo techno ácido y elementos industriales.
 
 Las obras representativas incluyen:
 
 - **Weltschmerz EP (2015, Turbo)**
-- Canción representativa: "Weltschmerz"
+- Canción representativa: “Weltschmerz”
 - Presenta un ritmo oscuro y pesado y una línea ácida.
 
 - **EP más cercano (2017, KNTXT)**
@@ -173,7 +173,7 @@ También ha lanzado trabajos experimentales como “The Heads That Know (feat. C
 | 2015 | Iniciamos actividades con nuestro nombre real, anuncia Weltschmerz EP |
 | 2017 | Lanzamiento del EP Closer, Wisdom, que atrae la atención en Europa y América |
 | 2018 | Aparición de BBC Radio 1 Essential Mix |
-| 2019 | KNTXT establecido |
+| 2019 | Establecimiento de KNTXT |
 | 2022 | Clausura del escenario principal de Tomorrowland |
 | 2023 | Clausura del Festival del Movimiento |
 | 2024 | Se inauguró la tienda KNTXT y comenzó la marca Époque |
@@ -250,5 +250,14 @@ Ha construido un mundo que encarna su filosofía y sensibilidad musical, y lo co
 
 Su álbum debut en 2025 es una expresión introspectiva de su mundo techno.
 El mundo techno de Charlotte de Witte seguirá expandiéndose a través de sus apariciones en festivales y actividades discográficas.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UwFBtBZ1Las?si=eh-3itjSVeqB3udz" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---

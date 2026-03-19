@@ -9,7 +9,7 @@ permalink: /zh-hant/aaron-spectre-amen-punk/
 tags:
 - Drum n Bass
 - Jungle
-title: 亞倫‧斯佩克特－阿門，龐克
+title: Aaron Spectre – Amen, Punk
 ---
 
 

@@ -83,7 +83,7 @@ En d’autres termes, l’euro des années 1990 était « l’image pop de l’E
 
 ### Langage commun entre l'Europe et la pop après la guerre froide
 
-Après la chute du mur de Berlin en 1989, l’Europe s’est rapidement transformée en un marché du divertissement transfrontalier. L'« euro-pop chantée en anglais » a commencé à entrer sur le marché international, même en provenance de pays non anglophones (comme l'Allemagne, les Pays-Bas, l'Italie et la Suède).
+Après la chute du mur de Berlin en 1989, l’Europe s’est rapidement transformée en un marché du divertissement transfrontalier. L'« euro-pop chantée en anglais » a commencé à pénétrer le marché international, même en provenance de pays non anglophones (comme l'Allemagne, les Pays-Bas, l'Italie et la Suède).
 
 Cela signifie qu’Euromusic est une culture musicale qui donne la priorité au plaisir sensoriel plutôt qu’aux frontières politiques. Du rythme, des synthés et un refrain simple et répétable. Celles-ci sont devenues un « langage commun » qui transcende les langues et les frontières.
 
@@ -159,7 +159,7 @@ Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAH
 
 **Fusion avec la culture visuelle** : culture européenne non occidentale
 
-- Il a également été incorporé dans les OP d'anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l'euro ».
+- Il a également été incorporé dans les OP d’anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l’euro ».
 
 
 <hr>
@@ -189,7 +189,7 @@ Ces dernières années, Euromusic a été réévalué des manières suivantes :
 
 - Comme City Pop, l'Eurobeat du Japon a été redécouvert par la génération Internet.
 
-De plus, l'euro des années 90 touche un nouveau public grâce à une écoute accrue sur Spotify et YouTube.
+De plus, l'euro des années 90 touche un nouveau public grâce à une lecture accrue sur Spotify et YouTube.
 
 
 

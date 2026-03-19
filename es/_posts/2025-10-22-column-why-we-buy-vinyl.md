@@ -181,6 +181,14 @@ El "alma del sonido" que reside en la punta de la aguja continúa girando silenc
 
 ---
 
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pxh2SnpHVc?si=C86GU4bYwAA_J9Rl" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 ### Referencias (original en inglés)
 
 | Título | Autor | Editor | Enlace |

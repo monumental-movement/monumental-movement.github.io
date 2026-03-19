@@ -9,7 +9,7 @@ permalink: /zh-hant/elastica-connection/
 tags:
 - Rock
 - Indie Rock
-title: Elastica – 連接
+title: Elastica  – Connection
 ---
 
 
@@ -32,7 +32,7 @@ B2. Blue (Donna's 4 Track Demo)
 B3. Spastica
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m72390925933?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72390925933?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ilKcXIFi-Rc?si=thWDL5UyuUtA1a8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

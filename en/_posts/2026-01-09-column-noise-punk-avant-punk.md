@@ -14,7 +14,7 @@ title: '[Column] Noise Punk / Avant-Punk ─ When destructive impulse becomes id
 
 
 
-## Prologue: Why Punk Had to Break
+## Prologue: Why did punk have to break?
 
 Text: mmr｜Theme: About noise punk/avant punk, which is a memory device for constantly rejecting the safe zone of music
 
@@ -137,7 +137,7 @@ timeline
 
 This trend occurred intensively in a short period of time and left a deep influence on subsequent alternative music.
 
-> Although the history of noise punk is short, its aftershocks continue for a long time.
+> The history of noise punk is short, but its aftershocks are long lasting.
 
 ---
 

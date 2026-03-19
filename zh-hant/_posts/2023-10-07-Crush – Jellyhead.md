@@ -13,7 +13,7 @@ title: 粉碎 – 果凍頭
 ---
 
 
-Crush 是英國流行二人組。唐娜艾爾 (Donna Air) 和傑尼霍伊 (Jayni Hoy) 最初是英國青少年肥皂劇《拜克格羅夫》(Byker Grove) 的明星。
+Crush 是英國流行二人組。唐娜·艾尔 (Donna Air) 和杰尼·霍伊 (Jayni Hoy) 最初是英国青少年肥皂剧《拜克·格罗夫》(Byker Grove) 的明星。
 
 他們與第三位歌手（Vicky Taylor）一起以“Byker Grooove！”的身份進入流行世界，後來又以二人組“Crush”的身份合作。
 

@@ -54,7 +54,7 @@ Les origines de PCO remontent à un événement étrange survenu en 1972, lorsqu
 C’est à ce moment-là qu’il a eu une inspiration de rêverie qui est devenue plus tard connue sous le nom de « vision Penguin Cafe ».
 Il existait une « utopie » où les gens pouvaient se rassembler librement et continuer à faire de la musique sans discipline ni forme.
 
-Pour concrétiser cette vision, Jeffes construit une musique unique qui mélange l'orchestration de chambre classique, l'élan rustique du folk, la vitalité des rythmes africains et sud-américains et les structures répétitives de la musique minimale.
+Pour concrétiser cette vision, Jeffes construit une musique unique qui mélange l'orchestration de chambre classique, l'élan rustique du folk, la vitalité des rythmes africains et sud-américains et la structure répétitive de la musique minimale.
 La musique n'était ni traditionnelle ni avant-gardiste, mais cristallisée comme un son qu'on ne pouvait trouver qu'ici.
 
 ---
@@ -96,7 +96,7 @@ Ce chapitre analyse la structure interne des chansons emblématiques de PCO.
 ### 3-1. **Musique pour un harmonium retrouvé (1984)**
 
 La chanson signature du BCP.
-Une anecdote emblématique est qu'il composait de la musique en jouant sur un harmonium cassé qu'il avait trouvé dans les rues de Kyoto.
+Une anecdote emblématique est qu'il a composé de la musique en jouant sur un harmonium cassé qu'il avait trouvé dans les rues de Kyoto.
 
 **Caractéristiques structurelles**
 
@@ -127,7 +127,7 @@ C'est une chanson calme mais dramatique qui donne l'impression que l'expansion e
 
 ### 3-3. **Téléphone et élastique (1981)**
 
-Un étrange morceau de musique dans lequel un téléphone bicolore sonne soudain dans un ensemble classique.
+Étrange morceau de musique dans lequel un téléphone bicolore retentit soudain au-dessus d'un ensemble classique.
 
 **Caractéristiques**
 
@@ -180,7 +180,7 @@ La musique de PCO a été reçue de diverses manières dans de nombreux pays, bi
 ### ● Affinité avec la culture café/lounge
 
 Elle a été réévaluée lors du boom de la « musique de café » à la fin des années 1990.
-La « musique d'ambiance avec une déclaration », légère et facile à écouter, sans pour autant faire partie du fond sonore, a attiré l'attention.
+La « musique d'ambiance avec une déclaration », légère et facile à écouter, sans toutefois devenir un élément de fond, a attiré l'attention.
 
 ### ● Utilisation intensive des médias
 
@@ -283,7 +283,7 @@ flowchart TD
 
 ---
 
-# Conclusion : Pourquoi le PCO résonne « intemporellement »
+# Conclusion : Pourquoi PCO résonne « intemporellement »
 
 La musique du Penguin Cafe Orchestra reste fraîche près de 50 ans plus tard.
 Ce qui soutient cette longévité est――

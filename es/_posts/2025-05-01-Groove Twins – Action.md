@@ -17,7 +17,7 @@ title: Groove Twins – Acción
 
 Groove Twins es un proyecto de A.Beat-C de vocalistas cambiantes en prácticas como Go Go Girls y King & Queen.
 
-"Action" es una pista Eurobeat de alta energía lanzada por el sello italiano Eurobeat A.Beat-C en 1992.
+"Action" es una pista Eurobeat de alta energía lanzada en 1992 en el sello italiano Eurobeat A.Beat-C.
 
 Los productores son el productor italiano de Eurobeat/Italo Disco & Hyper Techno, Bratt Sinclaire y Dave Rodgers, cofundador del sello Eurobeat A.Beat-C. Aunque no están acreditadas, las voces son Alessandra Mirka Gatti y Patrizia Piola.
 

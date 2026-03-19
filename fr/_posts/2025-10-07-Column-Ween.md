@@ -62,7 +62,7 @@ Les bruits, les voix étranges et les changements de tonalité inhabituels qui �
 ### Gene et Dean – frères imaginaires ou doubles spirituels ?
 
 Gène et Dean.
-Bien que la sonorité de leurs noms suggère « frères », ils ne sont pas liés par le sang.
+La sonorité de leurs noms suggère « frères », mais ils ne sont pas liés par le sang.
 Mais musicalement, ils étaient presque comme des jumeaux.
 Gene est l'incarnation de l'émotion et du chaos, Dean est le maître de la construction et de l'artisanat.
 Au moment où les deux entrent en collision, le chaos et la magie typiques de Ween naissent.
@@ -166,7 +166,7 @@ C'était plus un rituel qu'un groupe.
 
 Mais en coulisses, des conflits éclataient entre alcool, drogue, fatigue et amitié.
 En 2008, Gene Ween quitte le groupe pour des raisons personnelles.
-Il a surmonté sa dépendance à l’alcool et a entamé un chemin tranquille vers la guérison.
+Il a surmonté sa dépendance à l’alcool et a entamé un chemin tranquille vers le rétablissement.
 Dean a formé **The Dean Ween Group** et a connecté l'esprit de Ween d'une autre manière.
 
 ---
@@ -254,7 +254,7 @@ Une mélodie de qualité B traitée comme une poubelle, une scène rurale à laq
 Rires ivres – ils ont récupéré tout cela et en ont fait un « mythe ».
 
 Ween n'a créé ni un genre ni un mouvement.
-Il s'agit d'une croyance infiniment croissante selon laquelle « on peut aimer n'importe quel type de musique ».
+Il s’agit d’une croyance infiniment croissante selon laquelle « on peut aimer n’importe quel type de musique ».
 Il y a la décadence du rock, l'intelligence du jazz, l'avenir de la techno,
 La chaleur du pays est également égale.
 

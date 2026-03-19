@@ -18,7 +18,7 @@ title: Stevie Wonder - Amant à temps partiel
 
 La chanson a atteint le numéro un des charts Billboard Hot 100, R&B, Dance et Adult Contemporary, ce qui en fait le dernier succès numéro un de Stevie Wonder.
 
-La chanson contient des improvisations et des chœurs du chanteur R&B Luther Vandross, ainsi que Syreeta Wright et Philip Bailey de Earth, Wind and Fire.
+La chanson contient des ad-libs et des chœurs du chanteur R&B Luther Vandross, ainsi que Syreeta Wright et Philip Bailey de Earth, Wind and Fire.
 
 #### Liste des chansons
 ```md

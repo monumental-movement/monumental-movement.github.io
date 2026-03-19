@@ -49,7 +49,7 @@ color: #fff;
 
 ## Début de la techno et du synthétiseur analogique
 
-Dans les années 1970, les synthétiseurs modulaires développés par Robert Moog, ARP et d'autres offraient de nouvelles possibilités pour la production musicale. Ces synthés étaient révolutionnaires dans la mesure où ils permettaient la connexion individuelle de modules de sources sonores, de filtres, de LFO, de générateurs d'enveloppe, etc., et la possibilité de construire librement des structures sonores.
+Dans les années 1970, les synthétiseurs modulaires développés par Robert Moog, ARP et d'autres offraient de nouvelles possibilités pour la production musicale. Ces synthés étaient révolutionnaires dans la mesure où ils permettaient la connexion individuelle de modules de sources sonores, de filtres, de LFO, de générateurs d'enveloppe, etc., ainsi que la possibilité de construire librement des structures sonores.
 
 Au début des années 1980, Juan Atkins, Derrick May, Kevin Saunderson et d'autres ont fondé la musique électronique appelée « techno » à Détroit. La première Techno de Detroit était principalement basée sur des séquenceurs et des machines à rythmes, mais les sons chauds et les techniques de séquençage complexes propres aux synthés analogiques sont devenus un pont vers la Techno Modulaire ultérieure.
 
@@ -144,7 +144,7 @@ En particulier, Modular Techno utilise largement la fonction de randomisation du
 
 ## Utiliser des filtres, des effets et des modules de bruit
 
-Les synthés modulaires disposent d'une grande variété de filtres et d'enveloppes, qui contribuent grandement à la conception tonale de la techno. Des modules d'effets tels qu'un VCF à résonance aigre, un dossier d'ondes qui crée une structure harmonique complexe, une distorsion et un peu de broyage soutiennent la texture unique de Modular Techno.
+Les synthés modulaires disposent d'une grande variété de filtres et d'enveloppes, qui contribuent grandement à la conception tonale de la techno. Des modules d'effets tels qu'un VCF à résonance aigre, un dossier d'onde qui crée une structure harmonique complexe, une distorsion et un peu de broyage soutiennent la texture unique de Modular Techno.
 
 Les sources de bruit et les générateurs aléatoires sont également utilisés dans la techno pour renforcer la composante d'attaque et créer des textures sonores ambiantes, créant des fluctuations accidentelles du rythme.
 
@@ -261,7 +261,7 @@ timeline
 
 # Critique/Réception des médias
 
-Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à prêter attention à sa sophistication sonore.
+Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à s'intéresser à sa sophistication sonore.
 
 - Dans les critiques, l'image sonore complexe et tridimensionnelle unique de Modular a reçu de nombreux éloges.
 - Dans le reportage en direct, la performance improvisée et physique a été mise en avant.
@@ -340,7 +340,7 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 - Tiptop Audio – Série de batterie 808/909
 -Jomox-ModBase 09
 
-## Effets (Délai / Réverbération / Distorsion)
+## Effets (Delay / Reverb / Distorsion)
 - Strymon – Magnéto
 - Erica Synths – Trou noir DSP
 - Ingénierie du bruit – Desmodus Versio

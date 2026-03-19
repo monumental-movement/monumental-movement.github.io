@@ -39,7 +39,7 @@ color: #fff;
 
 ## 1960s-1970s: Birth of hard rock and the eve of arcades
 
-- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appeared in London and Los Angeles. Presenting a new musical experience with explosive sounds and profound riffs.
+- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appear in London and Los Angeles. Presenting a new musical experience with explosive sounds and profound riffs.
 - **Point of contact with games**: This era was still in the early days of arcades (the eve of ""Pong" and ""Space Invaders"). Although the direct link is weak, the psychedelic artwork and experiments with electronic sounds create seeds that resonate with the game's electronic music aesthetic.
 
 **Representative masterpiece**

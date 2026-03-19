@@ -17,7 +17,7 @@ Flick of the Switch est le neuvième album studio du groupe de hard rock austral
 
 L'album s'est mal vendu par rapport aux albums précédents du groupe, Back in Black des années 1980 et For These About to Rock des années 1981, et a été considéré comme marquant le début du déclin commercial du groupe.
 
-Il s'agit du troisième album d'AC/DC avec le chanteur principal Brian Johnson, et le dernier avant le départ temporaire du batteur Phil Rudd.
+Il s'agit du troisième album d'AC/DC avec le chanteur Brian Johnson, et le dernier avant le départ temporaire du batteur Phil Rudd.
 
 #### Liste des chansons
 ```md

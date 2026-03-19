@@ -166,7 +166,7 @@ El ritmo de El-P se destaca de las siguientes maneras en comparación con el boo
 
 Lo que sustenta la totalidad de "Funcrusher Plus" es una estética que enfatiza la "tensión" sobre el "placer".
 
-### ● DJ Sr. Len's Scratch
+### ● scratch del DJ Sr. Len
 
 Se colocan rayas afiladas en toda la mezcla, reforzando la sensación dura del ritmo.
 
@@ -232,7 +232,7 @@ Se compone de metáforas elaboradas y expresiones abstractas.
 * Contenidos que simbolizan el hip-hop underground de finales de los 90.
 * Se pueden ver muchos elementos prototipo de trabajos posteriores de Def Jux (Cannibal Ox, etc.).
 
-Se dice que "Funcrusher Plus" estableció una "ideología clandestina" en torno a esta canción.
+Se dice que "Funcrusher Plus" estableció "el underground como una ideología" en torno a esta canción.
 
 ---
 
@@ -386,7 +386,7 @@ Esto llevó a artistas experimentales como
 ## ● 4. “Estética antisistema” que perdura hasta nuestros días
 
 Las canciones, incluida “El fuego en el que ardes”,
-Se ocupa de temas como el poder, la vigilancia y la guerra de la información desde los años 1990.
+Desde los años 1990 se ocupa de temas como el poder, la vigilancia y la guerra de la información.
 Presentó una perspectiva que sigue siendo relevante incluso después de más de 20 años.
 
 ---

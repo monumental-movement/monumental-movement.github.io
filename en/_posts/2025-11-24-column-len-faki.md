@@ -66,7 +66,7 @@ We take Len Faki's signature tracks and analyze them in detail, including their 
 
 #### basic information
 - BPM: 125
-- Key: G major
+- Key: G Major
 - Released: Berghain 03 mix CD included, 2009
 
 #### Song structure and rhythm
@@ -88,7 +88,7 @@ It is often used from the middle to the peak of a set, and is the main track to 
 
 #### basic information
 - BPM: 129
-- Key: G major
+- Key: G Major
 - Length: Approximately 8 minutes 15 seconds
 
 #### Song structure and rhythm
@@ -224,5 +224,14 @@ timeline
 Len Faki is the link between Berlin techno's tradition and future.
 His tracks and sets have a calculated uplifting and spatial presentation that creates a unique experience on the floor.
 We will continue to keep an eye on his activities and the next generation of artists he is nurturing.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXu5QMs-uNY?si=JHJzUctjx0vi_1lq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

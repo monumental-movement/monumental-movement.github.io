@@ -156,7 +156,7 @@ The history of UK garage is a cycle of urban music itself.
 
 ---
 
-## Chronology: UK Garage Main Topics (1988-2025)
+## 年表：UKガラージ主要トピック（1988〜2025）
 
 | Year | Events |
 |----|--------|

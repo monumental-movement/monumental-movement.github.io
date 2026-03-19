@@ -20,7 +20,7 @@ title: '[Chronique] Tango - Des marges de la société à la culture mondiale, s
 
 ## Prologue Le tango était la société avant d'être la « musique »
 
-Texte : mmr｜Thème : Retracer le sens social du tango, depuis sa naissance en marge de la société jusqu'à son oubli et sa renaissance en tant que culture mondiale.
+Texte : mmr｜Thème : Retracer le sens social du tango, depuis sa naissance en marge de la société, jusqu'à son oubli, jusqu'à sa renaissance en tant que culture mondiale
 
 Le tango n’est pas né comme un art dès le début.
 C'est le résultat de la traduction sonore des distorsions et des tensions de la structure sociale de la ville portuaire argentine de Buenos Aires.
@@ -29,7 +29,7 @@ De la fin du XIXe siècle au début du XXe siècle, Buenos Aires s'est formée p
 Centrées autour de l’Espagne et de l’Italie, les cultures d’Europe de l’Est, africaines et autochtones se mélangeaient, et le travail, la pauvreté et la solitude existaient au quotidien.
 
 Le tango a grandi dans les « dessous » de cette ville.
-On ne le dansait pas dans les bals de la haute société, mais dans les cours des tavernes de dockers, des pensions et des bordels.
+Il n'était pas joué dans les bals de la haute société, mais dans les cours des tavernes de dockers, des pensions et des bordels.
 La distance physique, la ligne de mire et l’improvisation étaient plus importantes que la sophistication musicale.
 
 > Le tango est une culture qui est toujours partie de la périphérie et non du centre de la société.
@@ -54,7 +54,7 @@ color: #fff;
 ## Contexte social de la naissance du tango
 
 
-L'Argentine de la fin du XIXe siècle a connu une croissance économique rapide et en même temps de graves divisions sociales.
+À la fin du XIXe siècle, l’Argentine connaissait une croissance économique rapide et en même temps de graves divisions sociales.
 Le pays a prospéré grâce aux exportations agricoles, mais seule une petite partie de la classe des propriétaires fonciers en a bénéficié.
 
 Alors qu’un grand nombre d’hommes immigrés affluaient vers les villes à la recherche de travail, le rapport hommes-femmes s’est effondré.
@@ -107,7 +107,7 @@ Le tango, autrefois rejeté, a commencé à être réinterprété comme une « c
 Des années 1930 aux années 1950, le tango entre dans son « âge d’or ».
 Avec la diffusion de la radio, des disques et des films, le tango est devenu un incontournable de la culture populaire urbaine.
 
-Au cours de cette période, les grands orchestres appelés Orquesta Typica sont devenus courants et la musique est devenue très sophistiquée.
+Durant cette période, les grands orchestres appelés Orquesta Typica sont devenus courants et la musique est devenue très sophistiquée.
 La danse, tout en conservant son caractère improvisé, s'est standardisée.
 
 Les paroles changent également.

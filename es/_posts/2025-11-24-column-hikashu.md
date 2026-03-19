@@ -47,7 +47,7 @@ Las raíces de Hikashu se encuentran en el teatro underground, la danza de vangu
 
 - Koichi Makigami tiene experiencia en vocalizaciones teatrales y expresión física de improvisación, y se dedica a métodos que tratan la voz como un "instrumento".
 - Chojin Mita (guitarra) explora un enfoque sonoro que conecta el rock y la música contemporánea.
-- Makoto Inoue (teclado) también tocó la música electrónica y los trabajos en cinta, lo que más tarde lo llevó a su trabajo único con sintetizadores.
+- Makoto Inoue (teclado) estuvo expuesto a la música electrónica y trabajos en cintas, lo que más tarde lo llevó a su trabajo único con sintetizadores.
 
 Esta experiencia diversa ha creado la base de Hikashu, no solo una banda que se enfoca en la actuación, sino un grupo que cruza el teatro, el arte sonoro y la música pop.
 
@@ -160,7 +160,7 @@ El tono inestable del theremin perturba la estructura de la canción y le da una
 # 8. Descripción general de los miembros principales
 
 - **Koichi Makigami**: Voz: Theremin. el centro de la banda. Una amplia gama de actividades desde música de vanguardia pasando por teatro pasando por música folklórica.
-- **Mita Chojin**: Guitarra. Utiliza procesamiento acústico y técnicas de interpretación irregular.
+- **Mita Chojin**: Guitarra. Experto en procesamiento acústico y técnicas de interpretación irregular.
 - **Akira Toyama** (participación temporal): Batería. Introducir un sentido de jazz/improvisación en la banda.
 - **Masami Sakaide**: Bajo. Contribuye a la complejidad de la estructura rítmica.
 - **Makoto Inoue** (inicial): Teclado. Esto determinó la sensación techno/new wave de Hikashu en los primeros días.

@@ -13,7 +13,7 @@ title: 古巴 - Todos A La Fiesta Eo Eo Si Tu Quieres
 ---
 
 
-El Cubano 的 Todos A La Fiesta/Eo Eo Si Tu Quieres 是義大利廠牌 Muzic Without Control Records 發行的拉丁 Eurohouse 曲目。
+El CubanoによるTodos A La Fiesta/Eo Eo Si Tu Quieresは、イタリアのレーベル「Muzic Without Control Records」からリリースされたラテン・ユーロハウスのトラックです。
 
 #### 曲目表
 ```md

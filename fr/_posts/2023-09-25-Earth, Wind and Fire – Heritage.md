@@ -15,7 +15,7 @@ title: Terre, Vent et Feu – Patrimoine
 
 "Heritage" apparaît sur l'album Faces de Earth, Wind & Fire en 1980. La chanson a un son qui mélange les éléments funk, soul, disco et pop caractéristiques du groupe.
 
-"Heritage" est l'une des chansons les plus dansantes et groovy de Earth, Wind & Fire, avec une section de cuivres et un rythme de batterie rythmé. Les paroles se concentrent sur l'importance du patrimoine culturel et de l'identité, transmettant un message positif.
+"Heritage" est l'une des chansons de Earth, Wind & Fire sur laquelle il est facile de danser et qui a un groove, avec une section de cuivres et un rythme de batterie rythmé. Les paroles se concentrent sur l'importance du patrimoine culturel et de l'identité, transmettant un message positif.
 
 Earth, Wind & Fire a connu de nombreux succès tout au long des années 70 et 80 et a connu un grand succès sur la scène musicale funk et disco. Leurs chansons sont connues pour leurs performances groove et énergiques, et leur musique est largement appréciée.
 

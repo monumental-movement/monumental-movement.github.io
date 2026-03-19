@@ -56,7 +56,7 @@ A través de una variedad de técnicas de ejecución, el tambak tiene una histor
 
 El **Daf** es un tambor de estructura grande, a veces con anillos o campanas de metal, y es un instrumento musical tradicional que también tiene usos ceremoniales y de celebración. Mortazavi no sólo actúa con tambacks, sino también con duffs, y ha desarrollado actuaciones en solitario y colaborativas que aprovechan las características de cada uno.
 
-La razón detrás de su selección de estos instrumentos tradicionales no es solo un regreso a los instrumentos folclóricos, sino una fuerte voluntad de explorar profundamente la esencia de los instrumentos y derivar de allí expresiones desconocidas.
+La razón detrás de su selección de estos instrumentos tradicionales no es solo un regreso a los instrumentos populares, sino una fuerte voluntad de explorar profundamente la esencia de los instrumentos musicales y derivar de allí expresiones desconocidas.
 
 ---
 
@@ -77,8 +77,8 @@ El logro más notable de Mortazavi es **más de 30 técnicas de golpe y dedos de
 
 Específicamente, los enfoques incluyen:
 
-* **Usar diferentes puntos de ataque**: Atacar zonas que los jugadores tradicionales no utilizan, como el centro del cuero, el aro y el cuerpo (parte de madera).
-* **Varias partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que de otro modo se considerarían tabú.
+* **Uso de diferentes puntos de golpe**: Atacar zonas que los jugadores tradicionales no utilizan, como el centro del cuero, el borde (borde) y el cuerpo (parte de madera).
+* **Diversas partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que se consideran tabú.
 * **Enfoque polirrítmico**: Una técnica que permite que múltiples voces (capas) suenen simultáneamente dentro del mismo instrumento. Esto permite una interpretación similar a la de un conjunto por parte de un solo jugador.
 * **Rango dinámico**: Desde toques extremadamente silenciosos hasta golpes explosivos, controla libremente la fuerza, el tempo y la densidad del sonido.
 * **Operación de resonancia**: Controla la resonancia del cuerpo y diseña el regusto al golpear. De esta forma, se utiliza como elemento de expresión la “reverberación” del sonido que queda tras un solo golpe.
@@ -108,7 +108,7 @@ La discografía de Mortazavi es un mapa de la evolución de sus exploraciones. A
 
 Lanzado en 2010, este álbum es un punto de partida simbólico para Mortazavi. Aunque es una actuación en solitario utilizando únicamente instrumentos tradicionales (tamback/duff), su innovación tecnológica y diseño de sonido ya están claramente impresos. Cada pista presenta ritmos delicados y de múltiples capas que utilizan al máximo los dedos, las palmas y las uñas, dando al oyente la ilusión de que un solo instrumento tiene múltiples voces.
 
-Lo que llama la atención es que su estilo de golpear no sólo es rápido, sino también muy dinámico. La resonancia de un toque silencioso, la agudeza de un golpe fuerte y la suave gradación entre ellos. Cada vez que sus manos se deslizan sobre la superficie del cuero, golpean la madera del cuerpo y sus dedos rebotan con las uñas, diferentes tonos se cruzan en capas, creando una fuerte presencia.
+Lo que es digno de mención es que su estilo de golpear no sólo es rápido, sino también extremadamente dinámico. La resonancia de un toque silencioso, la agudeza de un golpe fuerte y la suave gradación entre ellos. Cada vez que sus manos se deslizan sobre la superficie del cuero, golpean la madera del cuerpo y sus dedos rebotan con las uñas, diferentes tonos se cruzan en capas, creando una fuerte presencia.
 
 Además, no se puede ignorar la grabación/mezcla de este álbum. Cuando sus instrumentos de percusión se recrean en el espacio a través de un micrófono, sus ecos y reverberaciones se capturan vívidamente, creando un paisaje sonoro que se siente como escuchar un microcosmos.
 
@@ -173,7 +173,7 @@ Una experiencia en vivo como esta no es sólo algo que escuchas con tus oídos, 
 
 Mortazavi ha recibido reconocimiento internacional por su habilidad, arte e innovación. En 2003, ganó el **Premio RUTH Newcomer**. También ha recibido mucho interés por parte de los medios, y su estilo y filosofía han aparecido en varios medios como Deutschlandfunk, Pitchfork, Hardwax y Boomkat de Alemania.
 
-Pitchfork en particular llamó la atención sobre la flexibilidad de los pulsos humanos y la naturaleza improvisada de los ritmos que tocaba, y la describió como "música que encarna la humanidad y la plasticidad del tiempo". Hardwax y otros han elogiado la precisión sonora y la profundidad espiritual de sus más de 30 nuevas técnicas.
+En particular, Pitchfork llamó la atención sobre la flexibilidad de los pulsos humanos y la naturaleza improvisada de los ritmos que tocaba, y la describió como "música que encarna la humanidad y la plasticidad del tiempo". Hardwax y otros han elogiado la precisión sonora y la profundidad espiritual de sus más de 30 nuevas técnicas.
 
 Además, su fisicalidad y espiritualidad a menudo se enfatizan en las reseñas en vivo. Drummerszone y otros han descrito en detalle los puntos de golpe, las partes de las manos y las operaciones de resonancia que utiliza, señalando que sus manos parecen como si estuvieran tocando un "sistema de sonido".
 
@@ -242,6 +242,16 @@ Escuchar su música no es sólo rendirse al ritmo, sino un viaje para encontrar 
 
 ---
 
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V1llz3maiA4?si=yUZyBwR2-suWZxjm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+
 ### 15. Cronología de referencia
 
 * **1978/1979** — Nacido en Isfahán, Irán.
@@ -259,6 +269,6 @@ Escuchar su música no es sólo rendirse al ritmo, sino un viaje para encontrar 
 * **2017** — Lanzamiento del EP “Yek” con Burnt Friedman.
 * **2019** — Lanzamiento del álbum “Ritme Jaavdanegi” (Latencia).
 * **2022** — Lanzamiento del álbum "Prisma", que presenta nuevos objetos sonoros.
-* **2025–2026** — Lanzamiento del álbum “Nexus” (Latencia).
+* **2025–2026** — Lanzamiento del álbum “Nexus” (Latency).
 
 ---

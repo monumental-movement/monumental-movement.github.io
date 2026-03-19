@@ -64,7 +64,7 @@ color: #fff;
 
 ###Nissan/Infiniti
 
-- **Modèle représentatif** : Infiniti QX80 (système d'enceintes Bose 16)
+- **Modèle représentatif** : Infiniti QX80 (système de haut-parleurs Bose 16)
 - **Technologie** : Pour optimiser l'acoustique de la voiture, le placement des haut-parleurs et les réflexions des matériaux ont été analysés et réglés en collaboration avec BOSE.
 
 ---
@@ -136,7 +136,7 @@ color: #fff;
 ### Chrysler/Jeep
 
 - **Modèle représentatif** : Wrangler (enceintes Alpine 9, 480W)
-- **Technologie** : Ajustement pour maintenir la qualité sonore même en cas de bruit extérieur
+- **Technologie** : Ajustement pour maintenir la qualité sonore même sous le bruit extérieur
 
 ---
 

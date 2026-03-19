@@ -43,7 +43,7 @@ color: #fff;
 </style>
 
 
-## La historia de la voz comienza con la recitación de poesía.
+## La historia de la voz comienza con la lectura de poesía.
 
 ### Poesía antes que letras.
 

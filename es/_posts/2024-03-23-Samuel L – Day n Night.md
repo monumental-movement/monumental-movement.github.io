@@ -22,7 +22,7 @@ Esta pista representa los cambios en la escena techno desde el lanzamiento del h
 
 No hace falta decir que el éxito de "Knights Of The Jaguar" tuvo un gran impacto en la escena techno, y muchos artistas comenzaron a buscar sonidos más duros y agresivos, lo que llevó al techno a evolucionar hacia una música más experimental y de vanguardia.
 
-"Day n' Night" de Samuel L es un trabajo representativo del sonido techno después del innovador "Knights Of The Jaguar", que supuso un punto de inflexión en la escena techno y que también tuvo una gran influencia.
+"Day n' Night" de Samuel L es un trabajo representativo del sonido techno después del innovador "Knights Of The Jaguar", que supuso un punto de inflexión en la escena techno y también fue una gran influencia.
 
 Entre los temas techno de 2001, se encuentra un sonido techno justo después del milenio, con elementos funky entrelazados con un ritmo directo, un bombo agradable, sin pausas ni voces, solo música.
 

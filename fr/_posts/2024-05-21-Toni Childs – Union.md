@@ -15,11 +15,11 @@ title: Toni Childs – Union
 ---
 
 
-Toni Childs（トニ・チャイルド）は、グラミー賞にノミネートされたシンガーソングライター。
+Toni Childs est une auteure-compositrice-interprète nominée aux Grammy Awards.
 
-1979年には、Terri Nunn（テリー・ナン）の前にカリフォルニア州オレンジカウンティ出身のNewWaveアクト「Berlin（ベルリン）」のリード・シンガーを短期間務めた。
+En 1979, il est brièvement chanteur de Berlin, un groupe de New Wave originaire du comté d'Orange, en Californie, avant de rejoindre Terri Nunn.
 
-1988年にリリースされたこのアルバム「Union」は、Toni Childsのソロデビューアルバムで、米国でゴールド、オーストラリアではダブルプラチナディスクに認定されるほどの大ヒットとなった。 1989年にはグラミー賞で最優秀新人アーティスト賞と最優秀ロック・ボーカル・パフォーマンス賞の2部門にノミネートされ、その年のツアーでBob Dylan（ボブ・ディラン）のオープニング・アクトも務めた。
+Sorti en 1988, l'album « Union » était le premier album solo de Toni Childs et fut un énorme succès, devenant disque d'or aux États-Unis et double platine en Australie. En 1989, elle a été nominée pour deux Grammy Awards, celui du meilleur nouvel artiste et de la meilleure performance vocale rock, et a été la première partie de Bob Dylan en tournée cette année-là.
 
 #### Liste des chansons
 ```md

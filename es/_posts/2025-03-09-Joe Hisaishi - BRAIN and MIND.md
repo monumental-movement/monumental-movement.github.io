@@ -33,5 +33,5 @@ Banda sonora del especial de la NHK ``Amazing Microcosm: Human Body 2: Brain and
 
 [Comprar en Mercari](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHc0HGVOE5M?si=jGr5_YDtWORtXdKf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

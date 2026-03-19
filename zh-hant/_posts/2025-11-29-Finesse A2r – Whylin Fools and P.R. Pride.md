@@ -22,4 +22,4 @@ A. Whylin Fools
 B. P.R. Pride
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93979489600?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93979489600?afid=6142608987){: .button1}

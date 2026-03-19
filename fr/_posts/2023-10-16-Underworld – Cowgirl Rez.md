@@ -9,13 +9,13 @@ permalink: /fr/underworld-cowgirl-rez/
 tags:
 - Techno
 - Progressive
-title: Underworld – Cowgirl Rez
+title: Monde souterrain – Cowgirl Rez
 ---
 
 
-1994年にリリースされた「Cowgirl」と1993年にリリースされた「Rez」は、Underworldの90年代の代表曲。
+"Cowgirl" sorti en 1994 et "Rez" sorti en 1993 sont les chansons emblématiques d'Underworld des années 90.
 
-「Cowgirl」は、エモーショナルなメロディとエレクトロニックサウンドが融合した特徴的なトラック。「Rez」は、ハイエナジーなテクノビートとハウスミュージックが融合したサウンドで、どちらもこの時代のクラシックとされているトラック。
+"Cowgirl" est un morceau distinctif qui combine une mélodie émotionnelle avec des sons électroniques. "Rez" est une fusion de rythmes techno énergiques et de house music, tous deux considérés comme des classiques de l'époque.
 
 #### Liste des chansons
 ```md

@@ -57,7 +57,7 @@ A medida que la organización evolucionó, los "10 principios" (inclusión radic
 
 ### Relación con el Área de la Bahía/Tecnología
 
-Burning Man tiene una larga relación con Silicon Valley. A finales de la década de 1990, una investigación señala que Burning Man ha sido utilizado como infraestructura cultural por las industrias creativas del Área de la Bahía, con anécdotas de participación de los fundadores de Google. El estudio Stanford et al. El estudio sostiene que Burning Man se convirtió en la base cultural de una "industria de nuevos medios".
+Burning Man tiene una larga relación con Silicon Valley. A finales de la década de 1990, una investigación señala que Burning Man ha sido utilizado como infraestructura cultural por las industrias creativas del Área de la Bahía, con anécdotas de participación de los fundadores de Google. Stanford et al. El estudio sostiene que Burning Man se convirtió en la base cultural de una "industria de nuevos medios".
 
 ---
 
@@ -213,7 +213,7 @@ Además, a partir de este año comenzaron a afianzarse las instalaciones de temp
 
 #### 2001: Siete edades
 
-Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
+Los temas tratan sobre las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
 En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 

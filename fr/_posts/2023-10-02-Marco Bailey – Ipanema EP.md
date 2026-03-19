@@ -9,13 +9,13 @@ permalink: /fr/marco-bailey-ipanema-ep/
 tags:
 - Techno
 - Hard Techno
-title: Marco Bailey – Ipanema EP
+title: Marco Bailey – EP Ipanema
 ---
 
 
-「Ipanema EP」は、2001年にスウェーデンのレーベル「Zync」からリリースされたMarco BaileyによるEPです。
+"Ipanema EP" est un EP de Marco Bailey sorti sur le label suédois "Zync" en 2001.
 
-ボーカルのサンプル元は"Mamborama - Cuba Te Llama"です。
+La source de l'échantillon vocal est "Mamborama - Cuba Te Llama".
 
 
 #### Liste des chansons

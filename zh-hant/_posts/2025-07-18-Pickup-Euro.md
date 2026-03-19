@@ -12,7 +12,7 @@ title: 挑選歐洲音樂作品
 ---
 
 
-“一組非凡的歐洲音樂作品，充滿了複雜的旋律和讓舞池興奮的活力感。”
+「洗練されたメロディとダンスフロアを熱狂させる躍動感に満ちた、注目すべきユーロ・ミュージック作品群」
 
 <小時>
 
@@ -47,7 +47,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 <小時>
 
 
-### Masterboy – 不同的夢想
+### Masterboy – Different Dreams
 <a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.web</a>
 
 格式：CD
@@ -90,7 +90,7 @@ Bonus Track For Japan
 
 模式標本： 90 年代 Euro House / Eurobeat / Italodance
 
-收錄 90 年代代表性歌曲的合輯
+コンピレーション形式で90年代シーンの代表曲を収録 
 
 #### 曲目表
 ```md
@@ -129,7 +129,7 @@ Bonus Track For Japan
 
 格式：乙烯基
 
-ジャンル：80-90年代 Euro House
+類型： 80-90 年代歐洲 House
 
 80 年代末到 90 年代的 Euro house、techno、newbeat、garage house 合輯
 
@@ -164,7 +164,7 @@ B5. LNR – Work It To The Bone
 
 模式標本： 90 年代歐洲 / 歐洲 House
 
-12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
+1990年代クラブヒット「In Ecstasy」ミックス入りの12″ EP 
 
 #### 曲目表
 ```md
@@ -258,7 +258,7 @@ B. So High (Single Mix)
 
 
 ### East 17 – 環遊世界
-<a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%2017%20%E2%80%93%20Around%20The%20A.
+<a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
 
 格式：乙烯基
 
@@ -338,7 +338,7 @@ B. La Jument De Mishao (Club Mix)
 
 
 ### E-Rotic – 性瘋狂
-<a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.p"></a>
+<a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
 
 格式：CD
 
@@ -371,7 +371,7 @@ B. La Jument De Mishao (Club Mix)
 <小時>
 
 
-### E‑Rotic – Willy 使用 Billy...男孩
+### E‑Rotic – Willy Use A Billy... Boy
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20%E2%80%93%20Willy%20Use%20A%20Use%20A%500]p.
 
 格式：CD
@@ -387,7 +387,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
 #### Youtube

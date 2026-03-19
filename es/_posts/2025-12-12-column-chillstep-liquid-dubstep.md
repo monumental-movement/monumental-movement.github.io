@@ -80,7 +80,7 @@ El símbolo de Chillstep es "subgrave suave".
 
 * Centro de onda sinusoidal
 * Ajuste la calidez con una ligera distorsión (recorte suave)
-* Produce una fluctuación similar a la respiración con un LFO ligero (1/4, 1/8, etc.)
+* Produce fluctuaciones similares a la respiración con un LFO ligero (1/4, 1/8, etc.)
 * Agregue emoción a través de cambios de volumen sin usar una modulación de filtro excesiva
 
 ### 2-3 Diseño de melodía y sintetizador
@@ -140,7 +140,7 @@ El estilo de Blackmill se convirtió en el modelo de Chillstep y generó un gran
 
 MitiS tiene experiencia en piano clásico y aporta una emoción única al Chillstep/Melodic Dubstep.
 
-*Melodía principal del piano
+* Melodía principal del piano
 * Mezcla transparente e irrompible
 * Sensación ascendente similar a un trance
 * Corte vocal cuidadosamente procesado
@@ -150,7 +150,7 @@ El trabajo de MitiS se extiende suavemente entre el Chillstep y el Melodic Dubst
 
 ---
 
-## 4. La cultura del vídeo de Chillstep y su difusión en Internet
+## 4. La cultura del vídeo y la difusión en Internet de Chillstep
 
 Es importante que Chillstep se difunda como una "cultura visual" junto con la música.
 
@@ -219,7 +219,7 @@ Se pone énfasis en la "sostenibilidad" y la "resonancia persistente" en lugar d
 
 * Centro de onda sinusoidal
 * Mezcle ondas triangulares para agregar calidez si lo desea
-*LFO es suave
+* LFO es suave
 * La cadena lateral es delgada
 * La liberación es corta y ajustada.
 
@@ -232,7 +232,7 @@ Se pone énfasis en la "sostenibilidad" y la "resonancia persistente" en lugar d
 
 ### 5-6 mezcla
 
-* Suprime y suaviza la estimulación de 5-7 kHz
+*Suprime suavemente la estimulación de 5-7kHz
 * Minimizar el ruido de fondo (silbido analógico, viento, lluvia, etc.)
 * Textura similar a la niebla con reverberación de corte alto
 * La cadena lateral es supresora, solo crea movimiento.

@@ -10,19 +10,19 @@ tags:
 - Ambient
 - Drone
 - Textural
-title: '[Column] Ambient Drone / Textural Drone'
+title: 【コラム】 Ambient Drone / Textural Drone（アンビエントドローン／テクスチャードローン）
 ---
 
 
 
-## Introduction: The musical principle of drones
+## 序章　ドローンという音楽的原理
 
-Text: mmr｜Theme: About drones that expand music from temporal art to spatial art
+文：mmr｜テーマ：音楽を時間芸術から空間芸術へと拡張したDroneについて
 
 
-Drone is a musical principle that uses sustained sound to transform our sense of time, spatial awareness, and auditory concentration. It is unique in that it uses pitch, overtones, timbre, and duration as structural units as an alternative to melody and harmonic progression. In the history of Western music, early examples include the bolden of the bagpipe, the pedal point of the organ, and the sustained bass notes of religious music.
+ドローンとは、持続音によって時間感覚・空間認識・聴覚集中を変容させる音楽的原理である。旋律や和声進行の代替として、音高・倍音・音色・持続時間そのものを構造単位とする点に特徴がある。西洋音楽史においては、バグパイプのボルドゥン、オルガンのペダルポイント、宗教音楽における持続低音などが早期の例として確認される。
 
-Since the late 20th century, with the development of recording technology and electronic acoustics, the drone has moved from being a mere accompaniment element to the main structure of an entire piece. Through this process, Ambient Drone was born, followed by Textural Drone, which emphasizes tonal changes and layering of physical texture.
+20世紀後半以降、録音技術と電子音響の発展により、ドローンは単なる伴奏的要素から、作品全体を成立させる主構造へと移行した。この過程で生まれたのが Ambient Drone、さらに音色変化や物理的質感の層化を重視する Textural Drone である。
 
 ---
 
@@ -31,7 +31,7 @@ Since the late 20th century, with the development of recording technology and el
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,157 +40,157 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Background of the establishment of Ambient Drone
+## 第1章　Ambient Drone の成立背景
 
-### 1-1. Minimalism and sustained sounds
+### 1-1. ミニマリズムと持続音
 
-Minimal music of the 1960s introduced repetition and duration as structural principles. La Monte Young's long-duration drone works focused on harmonic interference and spatial resonance rather than pitch differences, forming the theoretical basis for later ambient drones.
+1960年代のミニマル・ミュージックは、反復と持続を構造原理として導入した。La Monte Young による長時間ドローン作品は、音高差よりも倍音干渉と空間共鳴に焦点を当て、後のアンビエントドローンの理論的基盤を形成した。
 
-### 1-2. Electronic acoustics and studio technology
+### 1-2. 電子音響とスタジオ技術
 
-Tape loops, variable speed playback, and feedback circuits provided a means to artificially generate and control sustained sounds. This has made it possible to sustain sound for a long time, exceeding the physical limitations of the performer.
+テープ・ループ、可変速度再生、フィードバック回路は、持続音を人工的に生成・制御する手段を提供した。これにより、演奏者の身体的制約を超えた長時間の音響持続が可能となった。
 
-### 1-3. Connection with ambient concepts
+### 1-3. アンビエント概念との接続
 
-Since the 1970s, ambient music has presented a form of listening that assumes coexistence with the environment. Ambient Drone is positioned in this context as an acoustic device that does not attract too much attention, but has a highly controlled internal structure.
+1970年代以降、アンビエント音楽は環境との共存を前提とした聴取形態を提示した。Ambient Drone は、この文脈において、注意を引きつけすぎず、しかし内部構造は高度に制御された音響として位置づけられる。
 
-## Chapter 2 Extension to Textural Drone
+## 第2章　Textural Drone への拡張
 
-### 2-1. The concept of texture
+### 2-1. テクスチャという概念
 
-Textural Drone is characterized by a structure in which multiple tonal layers vary slightly over time, rather than a sustained single pitch. Texture here is the sum total of overtone distribution, noise components, spatial localization, and dynamics fluctuations.
+Textural Drone は、単一音高の持続ではなく、複数の音色層が時間的に微変化する構造を特徴とする。ここでのテクスチャとは、倍音分布、ノイズ成分、空間定位、ダイナミクス変動の総体である。
 
-### 2-2. Layering techniques
+### 2-2. レイヤリング技法
 
-The overlaying of multiple tracks transforms the music from a linear structure to a planar structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
-
-<div class="mermaid">
-flowchart LR
-    A["Fundamental drone"] --> D["Comprehensive texture"]
-    B["Overtone layer"] --> D
-    C["Noise layer"] --> D
-</div>
-
-
----
-
-## Chapter 3 Positioning of Stars of the Lid
-
-### 3-1. Work characteristics
-
-Stars of the Lid uses strings, brass, and electronic sounds, and is characterized by an extremely slow development. In their works, clear melodic progressions and rhythms are eliminated, and the main structure is the stay of harmony and the breathing of tones.
-
-### 3-2. Recording and mixing
-
-By suppressing high frequencies, preserving reverberation components for long periods of time, and stabilizing low frequencies, the sound image dissolves into space without becoming foregrounded. This is an example of a technological realization of ""diluting the presence'' of Textural Drones.
-
-### 3-3. Time structure
-
-Stars of the Lid"s songs are often designed to take several minutes before a change is perceived. This is a structural choice to draw the listener"s perception of time into the music.
-
-## Chapter 4 Robert Rich's role
-
-### 4-1. Physiological approach
-
-Based on his interest in sleep research and brain wave states, Robert Rich created works using drones over long periods of time. His music treats the listening environment and physical response as inseparable elements.
-
-### 4-2. Tone design
-
-Synthesizers, sample processing, and the integration of natural sounds form textures that blur the boundaries between man-made and natural. The slow modulation of overtones serves to visualize the passage of time.
-
-### 4-3. Live performance and installation
-
-Robert Rich's activities are not limited to concert formats, but also include installation-like developments based on spatial sound. This is an example of expanding the use of Ambient Drone.
-
----
-
-## Chapter 5 Acoustic technical analysis
-
-### 5-1. Frequency band and infrastructure design
-
-### 5-1. Frequency band
-
-In Ambient Drone / Textural Drone, the mid-low range is the base, and the high range is used sparingly. This makes it possible to listen for long periods of time while suppressing auditory fatigue.
-
-<div class="mermaid">
-flowchart TB
-    L["Low range: Foundation"] --> M["Midrange: Density"]
-    M --> H["High range: Air feeling"]
-</div>
-
-
----
-
-### 5-2. Dynamics control
-
-Sudden volume changes are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
-
-### 5-3. Spatial processing
-
-Sound source localization is obscured by long reverb time and diffusion processing. By suppressing early reflections and emphasizing late reverberations, sound is perceived as a field rather than a point. This is different from hall reproduction in classical recording, and its purpose is to create a space that does not exist.
-
-### 5-4. Design of differential changes
-
-Changes in Textural Drone are designed at a level that is not immediately noticeable to the listener. By extremely slowing down the LFO, minimizing the opening/closing width of the filter, and limiting random modulation, the sound appears to be stationary, but is constantly in motion internally.
-
-### 5-5. Relationship between noise and overtones
-
-The noise component is not an impurity, but rather serves as a medium to make the overtone structure perceivable. In Stars of the Lid, the scrapes and breaths of string instruments obscure the contours of the harmonies, while in Robert Rich, environmental samples dissolve the contours of artificial sounds.
-
-Sound source localization is obscured by long reverb time and diffusion processing. As a result, sound is perceived as a texture of the entire space rather than a direction.
-
----
-
-## Chapter 6 Visualization of the acoustic world through videos and illustrations
-
-### 6-1. Diagram of layer structure
-
-<div class="mermaid">
-flowchart TB
-    S1["Drone base layer"] --> S3["Comprehensive sound field"]
-    S2["Fine modulation texture"] --> S3
-</div>
-
-
----
-
-### 6-2. Schematic diagram of time passage
+複数トラックの重ね合わせは、音楽を線的構造から面構造へと変換する。各レイヤーは独立した周期や変調速度を持ち、全体として非同期的な揺らぎを生む。
 
 <div class="mermaid">
 flowchart LR
-    T0["start"] --> T1["Minute changes"] --> T2["persistent"] --> T3["dissolution"]
+    A["基音ドローン"] --> D["総合テクスチャ"]
+    B["倍音レイヤー"] --> D
+    C["ノイズ層"] --> D
+</div>
+
+
+---
+
+## 第3章　Stars of the Lid の位置づけ
+
+### 3-1. 作品特性
+
+Stars of the Lid は、弦楽器、金管、電子音を用い、極端に緩慢な展開を特徴とする。彼らの作品では、明確な旋律進行やリズムは排除され、和声の滞留と音色の呼吸が主構造となる。
+
+### 3-2. 録音とミキシング
+
+高域の抑制、残響成分の長時間保持、低域の安定化により、音像は前景化せず空間に溶解する。これは Textural Drone における「存在感の希薄化」を技術的に実現した例である。
+
+### 3-3. 時間構造
+
+Stars of the Lid の楽曲は、変化が知覚されるまでに数分を要する設計が多い。これは、聴取者の時間認識を音楽内部へ引き込むための構造的選択である。
+
+## 第4章　Robert Rich の役割
+
+### 4-1. 生理学的アプローチ
+
+Robert Rich は、睡眠研究や脳波状態への関心を背景に、長時間ドローンを用いた作品を制作した。彼の音楽は、聴取環境と身体反応を不可分の要素として扱う。
+
+### 4-2. 音色設計
+
+シンセサイザー、サンプル加工、自然音の統合により、人工と自然の境界を曖昧にするテクスチャが形成される。倍音の緩慢な変調は、時間経過を可視化する役割を果たす。
+
+### 4-3. ライブとインスタレーション
+
+Robert Rich の活動は、コンサート形式に限定されず、空間音響を前提としたインスタレーション的展開を含む。これは Ambient Drone の用途拡張を示す事例である。
+
+---
+
+## 第5章　音響技術的分析
+
+### 5-1. 周波数帯域と基盤設計
+
+### 5-1. 周波数帯域
+
+Ambient Drone / Textural Drone では、中低域が基盤となり、高域は抑制的に使用される。これにより、聴覚疲労を抑えつつ長時間聴取が可能となる。
+
+<div class="mermaid">
+flowchart TB
+    L["低域：基盤"] --> M["中域：密度"]
+    M --> H["高域：空気感"]
+</div>
+
+
+---
+
+### 5-2. ダイナミクス制御
+
+急激な音量変化は避けられ、微細な振幅変動が用いられる。これは音楽を出来事ではなく環境として機能させるための設計である。
+
+### 5-3. 空間処理
+
+長いリバーブタイムと拡散処理により、音源定位は曖昧化される。初期反射を抑制し、後期残響を強調することで、音は点ではなく場として知覚される。これはクラシック録音におけるホール再現とは異なり、実在しない空間の生成を目的とする。
+
+### 5-4. 微分的変化の設計
+
+Textural Drone における変化は、聴取者が即座に認識できない水準で設計される。LFO の極端な低速化、フィルター開閉幅の最小化、ランダムモジュレーションの制限により、音は静止しているように見えながら内部で常に運動している。
+
+### 5-5. ノイズと倍音の関係
+
+ノイズ成分は不純物ではなく、倍音構造を知覚可能にするための媒介として機能する。Stars of the Lid においては、弦楽器の擦過音や息成分が和声の輪郭を曖昧にし、Robert Rich においては、環境音サンプルが人工音の輪郭を融解させる。
+
+長いリバーブタイムと拡散処理により、音源定位は曖昧化される。結果として、音は方向性よりも空間全体の質感として知覚される。
+
+---
+
+## 第6章　映像・図解による音響世界の可視化
+
+### 6-1. レイヤー構造の図示
+
+<div class="mermaid">
+flowchart TB
+    S1["ドローン基層"] --> S3["総合音場"]
+    S2["微変調テクスチャ"] --> S3
+</div>
+
+
+---
+
+### 6-2. 時間経過の模式図
+
+<div class="mermaid">
+flowchart LR
+    T0["開始"] --> T1["微細変化"] --> T2["持続"] --> T3["溶解"]
 </div>
 
 ---
 
-## Chapter 7 Chronology: Development of Ambient Drone / Textural Drone
+## 第7章　年表：Ambient Drone / Textural Drone の展開
 
-### 1960s
+### 1960年代
 
-* The emergence of minimal works centered on sustained sounds
+* 持続音を中心としたミニマル作品の登場
 
-### 1970s
+### 1970年代
 
-* Popularization of long-duration drones using tape technology and electronic acoustics
+* テープ技術と電子音響による長時間ドローンの普及
 
-### 1980s
+### 1980年代
 
-* Increase in drone works in ambient context
+* アンビエント文脈でのドローン作品の増加
 
-### 1990s
+### 1990年代
 
-* Establishment of Textural Drone-like method
-* Stars of the Lid, Robert Rich's activities
+* Textural Drone 的手法の確立
+* Stars of the Lid、Robert Rich の活動
 
-### Since 2000s
+### 2000年代以降
 
-* Expansion of application to installations and video works
+* インスタレーション、映像作品への応用拡大
 
 ---
 
-## Final chapter: Stillness as structure
+## 終章　構造としての静止
 
-Ambient Drone / Textural Drone expands music from temporal art to spatial art. Stars of the Lid"s extreme slowness and Robert Rich"s connection to physicality show that the genre is not just a style, but a redesign of the listening experience itself.
+Ambient Drone / Textural Drone は、音楽を時間芸術から空間芸術へと拡張した。Stars of the Lid による極端な緩慢性、Robert Rich による身体性への接続は、このジャンルが単なる様式ではなく、聴取体験そのものの再設計であることを示している。
 
 ---
 

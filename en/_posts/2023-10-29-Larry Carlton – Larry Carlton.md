@@ -13,7 +13,7 @@ title: Larry Carlton – Larry Carlton
 ---
 
 
-Larry Carlton, nicknamed "Mr. 335," is a legendary guitarist who has won four Grammy Awards and has always been a leader in the fusion world. This album, which bears his name, solidified Larry Carlton's status as a guitarist.
+「Mr.335」の愛称で知られるラリー・カールトンは、4度のグラミー賞に輝き、常にフュージョン界をリードしてきたレジェンド・ギタリストです。自身の名前を関したこのアルバムは、ラリー・カールトンのギターリストとしての地位を固めた一枚となりました。
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ B3. Don´t Give It Up
 B4. (It Was) Only Yesterday
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m14275784867?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14275784867?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PeXIWyhB4F8?si=BjZzCyzgE6e_ed2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

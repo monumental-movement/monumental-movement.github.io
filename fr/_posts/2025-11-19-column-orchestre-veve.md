@@ -43,7 +43,7 @@ color: #fff;
 
 À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que des groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et de la polyphonie vocale s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
 
-Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. C'est en particulier à cette époque que plusieurs groupes émergents ont émergé en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars des coins de rue.
+Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. En particulier, c'était une époque où plusieurs groupes émergents émergeaient en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars du coin des rues.
 
 ---
 
@@ -102,7 +102,7 @@ Ces chansons montrent le cœur de la musique dance de Veve, tout en montrant cla
 
 ## Rôle de la guitare solo
 
-La guitare principale de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
+La guitare solo de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
 
 - Montée chromatique
 - trémolo rapide
@@ -153,7 +153,7 @@ graph TD
 
 ### Analyse technique
 
-* **Le saxophone présente la mélodie au début → la guitare imite**
+* **Le saxophone présente la mélodie au début → La guitare imite**
 * **Les voix sont des « questions » et les refrains sont des « réponses »**
 * **Solo de guitare linéaire et aigu**
 
@@ -202,7 +202,7 @@ flowchart LR
 # Chapitre 7 Technologie d'enregistrement, environnement studio, système de production
 
 L'environnement d'enregistrement de Veve était à l'époque l'un des plus avancés d'Afrique.
-Il possédait son propre studio, comptait plusieurs ingénieurs du son parmi son personnel et présentait les caractéristiques techniques suivantes :
+Il possédait son propre studio et plusieurs ingénieurs du son étaient toujours présents et présentait les caractéristiques techniques suivantes.
 
 - **Profitez rapidement de la période de transition de l'enregistrement 2-4 pistes à l'enregistrement 4-8 pistes**
 - **Méthode stéréo pour balancer la guitare à gauche et à droite**
@@ -239,7 +239,7 @@ Bien que les deux soient de la même époque, leurs orientations sont très diff
 
 ## Distanciation musicale avec OK Jazz
 
-Puisque Veran lui-même est d'OK Jazz, ils ont le même sens de l'harmonie et la même profondeur de traitement mélodique, mais
+Veran lui-même vient d'OK Jazz, ils ont donc le même sens de l'harmonie et la même profondeur de traitement mélodique, mais
 Veve est plus moderne et dansant que OK Jazz.
 
 ## Points communs avec Afrisa International
@@ -296,7 +296,7 @@ L'héritage musical de Veve est
 
 * **Augmentation de la vitesse de Soukusu**
 * **Musique urbaine dirigée par le saxophone**
-* **Subdivision de l'ensemble de guitares**
+* **Subdivision ensemble de guitares**
 Il a eu une profonde influence sur la musique congolaise contemporaine.
 
 En outre, le modèle de production musicale basé sur un système, qui créait une infrastructure d’enregistrement et formait de manière dynamique de jeunes interprètes, a servi de ligne directrice majeure pour la gestion ultérieure des labels.

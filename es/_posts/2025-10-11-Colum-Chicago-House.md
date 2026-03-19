@@ -55,7 +55,7 @@ El vasto espacio del almacén, la altura del techo y el eco del hormigón dieron
 
 ### Antecedentes sociales de Chicago en la década de 1980
 
-Los primeros años de la década de 1980 fueron una época económica difícil para Chicago.
+Los primeros años de la década de 1980 fueron tiempos económicos difíciles para Chicago.
 
 - Aumento de la tasa de desempleo debido al declive industrial.
 - División comunitaria debido a la remodelación urbana.
@@ -122,7 +122,7 @@ Can You Feel It, de producción casera de Larry Heard, es una anécdota que simb
 
 ---
 
-## Capítulo 6: Relaciones sorprendentes
+## Capítulo 6: Relaciones inesperadas
 
 Chicago House se cruza con campos aparentemente no relacionados.
 
@@ -208,6 +208,16 @@ La fusión de ritmo y tecnología forjada por pioneros como Frankie Knuckles y L
 Su influencia se extiende al acid house británico, el techno de Detroit, el EDM moderno y el deep house, y los ritmos de Chicago siguen vivos en clubes de todo el mundo hoy en día. El house de Chicago es a la vez un legado del pasado y un faro para la cultura musical del futuro.
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CBljRXzYvk?si=3mJHk6QtxdBAihsf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ### Columnas relacionadas
 

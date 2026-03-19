@@ -173,12 +173,22 @@ flowchart TD
 
 ---
 
-### 総括
+### Résumé
 
 L'histoire du post-rock et de la musique ambiante a été marquée par une série de défis : « Comment représenter l'espace et le temps avec le son au-delà du cadre du rock. » Des expériences sur bande dans les années 1970 à la musique IA dans les années 2020, l'évolution se déplace de la « matérialité du son » à la « nature environnementale du son ».
 L'avenir sera encore mis à jour avec une « architecture sonore immersive » qui connecte l'IA générative et les sensations physiques.
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7Xm2CreH5E?si=KfTgIYSIaieLzpji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Colonnes associées
 

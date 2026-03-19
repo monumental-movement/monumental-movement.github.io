@@ -13,7 +13,7 @@ title: Denki Groove – Dragon EP
 ---
 
 
-主打歌《Dragon》是一首融合了電子音樂和techno元素的舞曲。 Denki Groove 的特點是其獨特的聲音和節奏，其獨特的旋律和節拍吸引聽眾。
+タイトル曲「Dragon」は、エレクトロニックミュージックとテクノの要素を組み合わせたダンサブルな楽曲です。電気グルーヴ独自のサウンドとリズムが特徴であり、ユニークなメロディとビートが聴く人を魅了します。
 
 《龍EP》嘗試了不同的音樂風格和方法。 Denki Groove 的實驗元素和趣味性都體現在歌曲中，以其獨特性和創造力脫穎而出。
 
@@ -31,7 +31,7 @@ B1. The Marble Men
 B2. Brazilian Cowboy
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdlQ2eQFi7k?si=UDcuioAGaBC4Z5-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

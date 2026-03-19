@@ -77,7 +77,7 @@ timeline
 
 ---
 
-## Chapter 3 Swing Era and Refinement of Techniques
+## Chapter 3 Swing era and refinement of technique
 
 Big band recordings in the 1930s required singers to make a strong impression in a short time. Scat is an effective means of achieving this. When you listen to Ella Fitzgerald's recordings, you can hear that each syllable is precisely meshed with the rhythm section.
 

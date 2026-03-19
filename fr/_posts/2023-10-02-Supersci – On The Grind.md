@@ -14,7 +14,7 @@ title: Supersci – À la bourre
 
 
 "On The Grind" est
-Un single extrait de l'album « Pinetrees On The Pavement » de SUPERSCI, sorti en 2006 par le label suédois « Flyphonic Phonogram ».
+Un single extrait de l'album "Pinetrees On The Pavement" de SUPERSCI, sorti en 2006 sur le label suédois "Flyphonic Phonogram".
 
 #### Liste des chansons
 ```md

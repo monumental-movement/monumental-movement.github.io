@@ -95,7 +95,7 @@ In music sampling lawsuits, there has been an increase in the number of cases in
 
 In the EU, the focus is on directives aimed at harmonizing systems among member countries. While copyright protection is relatively strong, there are clear exceptions regarding parody and quotation.
 
-The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are treated. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
+The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are handled. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
 
 > EU law systematically seeks a balance between market integration and cultural protection.
 
@@ -115,7 +115,7 @@ On the other hand, in recent years, efforts have been made to respond to the dig
 
 In the video field, re-editing movies, reconstructing trailers, and fan-made videos have expanded remix culture. Because visual references are more obvious than music, rights issues are easier to visualize.
 
-Still, critical reediting and pedagogical use have gained some legitimacy.
+Still, critical reediting and educational use have gained some legitimacy.
 
 > Video remix emphasizes criticality through the power of visual quotation.
 

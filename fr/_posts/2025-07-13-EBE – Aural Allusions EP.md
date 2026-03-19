@@ -10,13 +10,13 @@ tags:
 - Leftfield
 - Tech House
 - 00s
-title: EBE – Aural Allusions EP
+title: EBE – Allusions auditives EP
 ---
 
 
-EBEことLucas Rodenbush(ルーカス・ローデンブッシュ)は、サンホゼを拠点に活動するアメリカのエレクトロニックミュージシャン。Transmat, Soma, Plastic City, Grayhound, Afterhours, Resource Records, Jump Recordings, Organised Noiseなど様々な有名レーベルからリリースしている。別名義ではEntityやMoonchildなどがある。
+Lucas Rodenbush, également connu sous le nom d'EBE, est un musicien électronique américain basé à San Jose. Il a sorti sur divers labels célèbres tels que Transmat, Soma, Plastic City, Greyhound, Afterhours, Resource Records, Jump Recordings et Organized Noise. Les autres noms incluent Entity et Moonchild.
 
-「Aural Allusions EP」は、2005年にハウス、ダブ、テクノ、サイケデリック・ファンクの要素を融合させるというユニークなビジョンを持つ先駆的なダンスレーベルGrayhound RecordingsからリリースされたLeftfield&Tech Houseをベースとしたエレクトロ＆ブレイクビートトラック。
+"Aural Allusions EP" est un morceau électro et breakbeat basé sur Leftfield & Tech House, sorti en 2005 par Greyhound Recordings, un label de danse pionnier avec une vision unique de fusion d'éléments de house, dub, techno et funk psychédélique.
 
 
 #### Liste des chansons

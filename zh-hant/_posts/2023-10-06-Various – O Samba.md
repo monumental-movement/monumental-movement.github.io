@@ -13,7 +13,7 @@ title: 各種 – O Samba
 ---
 
 
-「各種-桑巴舞」是
+「Various – O Samba」は、
 這是大衛拜恩 (David Byrne) 於 1991 年發行的合輯盒式磁帶。
 
 #### 曲目表

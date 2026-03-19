@@ -14,9 +14,9 @@ title: 伊芙·加拉格爾——愛是偽裝大師
 ---
 
 
-伊芙·加拉格爾 (Eve Gallagher) 是一位來自英國的浩室音樂歌手。
+Eve Gallagher （イヴ ギャラガー）は、UK出身のハウスミュージックシンガー。
 
-《Love Is A Master Of Disguise》是第二首單曲，由馬克布萊登製作。 Frankie Knuckles 作為第一首曲目 A 面和 B 面的製作人參與製作，第三首曲目 B 面由製作組 Brothers In Rhythm 的 Steve Anderson 重新混音。
+《Love Is A Master Of Disguise》是第二首单曲，由马克·布莱登制作。 Frankie Knuckles 作為第一首曲目 A 面和 B 面的製作人參與製作，第三首曲目 B 面由製作組 Brothers In Rhythm 的 Steve Anderson 重新混音。
 
 #### 曲目表
 ```md

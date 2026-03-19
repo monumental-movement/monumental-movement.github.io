@@ -51,7 +51,7 @@ color: #fff;
 
 - Jaco Pastorius：複調低音、即興創作
 - 天氣預報：複雜的節奏
-- ELP：電子聲音與現場融合
+- ELP: 電子音とライブ融合  
 
 ### 2.3 邂逅電子音樂
 
@@ -63,10 +63,10 @@ color: #fff;
 
 ### 3.1 Spymania獨立發布
 
-- 1995 年：*Conumber E:P* 公佈
+- 1995年: *Conumber E:P* 発表  
 - 短循環、分層和引入奇怪的拍號
 
-### 3.2 Warp記錄協議
+### 3.2 Warp Records契約
 
 - 1996 年：《餵我吃奇怪的東西》首次亮相
 - IDM + 爵士 + 鼓貝斯融合
@@ -85,7 +85,7 @@ graph TD
 
 ## 4. 音樂風格特點
 
-### 4.1 Breakcore 鼓和貝斯
+### 4.1 ブレイクコア・ドラムンベース
 
 <div class="mermaid">
 
@@ -171,9 +171,9 @@ graph TD
 
 ---
 
-### 5.2 辛苦爸爸 (1997)
+### 5.2 Hard Normal Daddy (1997)
 
-**使用的設備**：Akai S3000、TR-808/909、Novation Bass Station、Moog Voyager
+**使用機材**: Akai S3000, TR-808/909, Novation Bass Station, Moog Voyager
 
 1. **我的紅熱車**
 
@@ -191,7 +191,7 @@ graph LR
 
 2. **維酸**
 
-   * 多節奏+爵士即興創作
+   * ポリリズム＋ジャズ即興
 
 <div class="mermaid">
 
@@ -207,7 +207,7 @@ pie
 
 ---
 
-### 5.3 音樂腐爛了一個音符 (1998)
+### 5.3 Music Is Rotted One Note (1998)
 
 **使用的設備**：Fender Jazz Bass、Korg MS-20、Roland JP-8000
 
@@ -229,7 +229,7 @@ sequenceDiagram
 
 ### 5.4 塑膠化 (2001)
 
-**使用的設備**：Minimoog、TB-303、TR-808/909、Akai MPC
+**使用機材**: Minimoog, TB-303, TR-808/909, Akai MPC
 
 1. **去！痙攣**
 
@@ -285,8 +285,8 @@ graph TD
 ## 7. 評估/影響
 
 * IDM，鼓和貝斯先驅
-* Warp Records 黃金時代支柱
-* 技術精密＋即興融合＋革新性評価
+* Warp Records黄金期支柱
+* 技術精準+即興融合+創新評價
 
 ---
 
@@ -330,6 +330,6 @@ graph LR
 
 Squarepusher 是一位融合電子音樂、爵士樂和碎拍的創新藝術家。
 現場即興創作、複雜的聲學結構以及專輯之間的實驗是當代電子音樂創新的指標。
-每首歌曲的節奏結構、波形和分形插圖將幫助您進一步加深對音樂的理解。
+各曲のリズム構造・波形・フラクタル図解により、音楽理解をさらに深められる。
 
 ---

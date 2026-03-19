@@ -51,7 +51,7 @@ color: #fff;
 | *Discreet Music* | Brian Eno | 1975 | Tape Loop Experiment |
 
 **Main equipment**
--Moog Modular
+- Moog Modular
 - EMS Synthi AKS
 - Revox A77 Tape
 
@@ -178,6 +178,16 @@ The history of post-rock/ambient music has been a series of challenges: ""How to
 The future will be further updated with ""immersive sound architecture'' that connects generative AI and physical sensations.
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7Xm2CreH5E?si=KfTgIYSIaieLzpji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Related columns
 

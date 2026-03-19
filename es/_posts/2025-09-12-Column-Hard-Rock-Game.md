@@ -40,7 +40,7 @@ color: #fff;
 
 ## Décadas de 1960 y 1970: nacimiento del hard rock y vísperas de las salas recreativas
 
-- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecieron en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
+- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecen en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
 - **Punto de contacto con los juegos**: Esta era todavía estaba en los primeros días de las salas de juegos (en vísperas de ``Pong'' y ``Space Invaders''). Aunque el vínculo directo es débil, el arte psicodélico y los experimentos con sonidos electrónicos crean semillas que resuenan con la estética de la música electrónica del juego.
 
 **Obra maestra representativa**
@@ -319,7 +319,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 
 | Título | Pistas | Artista | Notas |
 |----------|---------|-------------|------|
-| Cito (2012) | Liberación | Personal | Riff de guitarra estilo hard rock |
+| Cytus (2012) | Liberación | Personal | Riff de guitarra estilo hard rock |
 | Cito II (2018) | Buceo en libertad | xi | Canción de alta velocidad con elementos de metalcore |
 | Cito II (2018) | Caos | Personal | Fusión de guitarra digital y HR |
 
@@ -370,7 +370,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 
 - En el extranjero, nació el movimiento **``Guitar Hero'' → Empieza a tocar la guitarra**.
 - En Japón, **GuitarFreaks/DrumMania** fue pionero en la idea de "sensación de interpretación real" y sentó las bases de la cultura de los juegos musicales.
-- **Taiko no Tatsujin** se centra en la música pop, pero con sus canciones originales de estilo hard rock/metal, imprimieron un sonido parecido a una guitarra en los jóvenes.
+- **Taiko no Tatsujin** se centra en la música pop, pero con canciones originales al estilo del hard rock/metal, imprimieron un sonido parecido a una guitarra en los jóvenes.
 - **SOUND VOLTEX** tiene un fuerte tono electro, pero incorpora activamente elementos de hard rock y metal para expresar el "impacto rockero" de una nueva generación.
 
 ---

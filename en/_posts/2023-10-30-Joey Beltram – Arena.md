@@ -12,7 +12,7 @@ title: Joey Beltram – Arena
 ---
 
 
-「Arena」は、1999年にJoey Beltram（ジョイ・ベルトラム）自身のレーベルSTX Recordsよりリリースされた。90年代に活躍したテクノDJ Dave Clarke(デイヴ・クラーク)のmixにも収録されている。
+"Arena" was released in 1999 on Joey Beltram's own label, STX Records. It was also included in a mix by techno DJ Dave Clarke, who was active in the 90s.
 
 #### Tracklist
 ```md

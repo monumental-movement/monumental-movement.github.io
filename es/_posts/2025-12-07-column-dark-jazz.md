@@ -17,7 +17,7 @@ title: '[Columna] Dark Jazz / Noir Jazz ─ Los sonidos de una ciudad atraída p
 
 
 
-## Oscuridad, silencio, lentitud, reverberaciones urbanas: ¿hasta qué punto el jazz se hunde en la "sombra"?
+## 闇、静寂、スロウネス、都市の残響──ジャズはどこまで“影”に沈むのか
 
 Texto: mmr｜Tema: Sobre la historia del jazz oscuro centrada en Bohren & der Club of Gore
 
@@ -52,7 +52,7 @@ Los elementos musicales son los siguientes.
 - **Tempo extremadamente lento (alrededor de 30–60 BPM)**
 - **Estructura de armonía minimalista**
 - **Uso oscuro de instrumentos de jazz (saxofón, contrabajo, piano, vibráfono)**
-- **Introducción a las técnicas de música ambient/doom/cine**
+- **アンビエント／ドゥーム／映画音楽の手法の導入**
 - **Dilución de dinámicas con énfasis en sonidos sostenidos**
 
 Al combinar estas características nació una imagen sonora única que podría describirse como "una visión del mundo construida sólo a partir del lado oscuro del jazz".
@@ -76,7 +76,7 @@ Obras representativas:
 - *Misión al Atardecer* (2000)
 - *Tierra Negra* (2002)
 - *Geisterfaust* (2005)
-- *Noches de piano* (2014)
+- *Piano Nights*（2014）  
 
 En particular, *Black Earth* se trata como una obra maestra del género, con su saxofón, piano, órgano y contrabajo creando una imagen sonora que parece generar reverberaciones en la oscuridad.
 
@@ -116,17 +116,17 @@ Participan músicos de Finlandia, Polonia, Rusia, Estados Unidos y otros países
 El jazz oscuro suena como "jazz oscuro y tranquilo", pero en realidad es una combinación de múltiples características musicales.
 
 ### ● 1. Tempo: Extremadamente lento, que recuerda al doom metal
-- BPM 30 ~ 60
-- Hay poco movimiento dentro del compás y domina la reverberación.
+- BPM 30〜60  
+- 小節内の動きが少なく、残響が支配する  
 - La estructura aumenta el peso de cada nota, creando un elemento que representa el silencio de la ciudad.
 
-### ● 2. Armonía: estructura modal/utilización de acordes disminuidos
+### ● 2. ハーモニー：モーダル構造／減少和音の活用  
 - Principalmente menor
 - Resolución ambigua usando dim7, m7(b5), sus4
 - Construcción de armonía que prioriza la “atmósfera” sobre la armonía funcional en el jazz.
 
 ### ● 3. Procesamiento acústico
-- Producción espacial con reverberación.
+- リバーブによる空間演出  
 - sonidos sostenidos electrónicos
 - Ingredientes de baja fidelidad que añaden una textura similar a una cinta
 
@@ -143,11 +143,11 @@ El jazz oscuro tiene una gran afinidad con las películas, la animación, los ju
 ### ● Razón 1: No expliques demasiado la escena
 La imagen sonora del jazz oscuro deja muchos "espacios en blanco", por lo que el lado del vídeo es libre de darle significado.
 
-### ● Razón 2: Coincide con la vista nocturna de la ciudad, la lluvia y la cámara lenta.
+### ● 理由2：都市の夜景・雨・スローモーションと一致  
 - Imágenes con poca luz
-- Vista aérea de los rascacielos.
+- 高層ビルの俯瞰  
 - luces del coche
-- Estación de metro no tripulada
+- 無人の地下鉄駅  
 
 Estas escenas y el jazz oscuro van muy bien juntos.
 
@@ -207,46 +207,46 @@ flowchart TD
 ### ● El conjunto Kilimanjaro Darkjazz
 - El conjunto Kilimanjaro Darkjazz (2006)
 - Aquí hay dragones (2009)
-- Desde la escalera (2011)
+- From the Stairwell (2011)
 
-### ● Cuarteto Dale Cooper
-- Libertad condicional de Navarra (2006)
+### ● Dale Cooper Quartet
+- Parole de Navarre (2006)
 - Metamanoir (2011)
 - Astrild Astrild (2017)
 
 ---
 
-## 8. Estado actual del jazz oscuro
-A través de largas mezclas en YouTube y videos de “vista nocturna + jazz oscuro” de los espectadores,
-Desde la década de 2020 se ha producido una revalorización de la música, especialmente entre los jóvenes oyentes.
+## 8. ダークジャズの現在  
+YouTubeのロングミックスや視聴者による“夜景＋ダークジャズ”動画によって、  
+2020年代以降、若いリスナー層を中心に再評価が進んでいる。
 
-- La “música tranquila” está ganando popularidad junto con la tendencia del Hip Hop Lo-fi
-- Se utiliza como música de fondo para producción de vídeo, VJ y películas independientes.
-- Los artistas anónimos están aumentando principalmente en Bandcamp.
+- Lo-fi HipHop の流行に並行して「静かな音楽」が支持  
+- 映像制作・VJ・独立映画の BGM として採用  
+- Bandcamp を中心に匿名的なアーティストが増加  
 
 Sin fijarse como género,
-Continúa expandiéndose como "música que crea una atmósfera".
+“雰囲気を作る音楽”として拡張し続けている。
 
 ---
 
 ## 9. ¿Hacia dónde se dirige el jazz oscuro?
-Con la difusión de vídeos generados por IA, software VJ y juegos independientes,
-Ahora estamos en una era en la que se habla de imágenes y sonidos al mismo tiempo.
+AI生成映像、VJソフト、インディーゲームの普及によって、  
+視覚とサウンドが同列で語られる時代となった。
 
-Debido a la naturaleza del jazz oscuro, que es "lento y tiene muchos espacios en blanco",
-Se cree que seguirá teniendo un nuevo valor al mezclarlo con imágenes.
+ダークジャズは「スロウで、空白が多い」という性質上、  
+映像と混ざり合うことで新たな価値を持ち続けると思われる。
 
 Si bien pertenece a la tradición del jazz,
-Absorbiendo el contexto de ambient, minimal y doom,
-Todavía existe una alta posibilidad de que crezca como el "sonido de la ciudad" en el siglo XXI.
+アンビエント、ミニマル、ドゥームの文脈を吸収し、  
+21世紀の“都市の音”として成長する可能性は依然として高い。
 
 ---
 
-# Al final
-El dark jazz no es la música de fondo de un bar ni los efectos sonoros de una ciudad nocturna.
-**Este es un arte moderno que representa la soledad y las sombras de las ciudades utilizando únicamente el sonido. **
+# 終わりに  
+ダークジャズは、バーのBGMでも、夜の街のSEでもなく、  
+**This is a modern art that depicts the loneliness and shadows of cities using only sound. **
 
-Cada artista, principalmente Bohren & der Club de Gore, ha dibujado diferentes formas de dibujar sombras.
+Bohren & der Club of Gore を中心に、それぞれのアーティストが異なる影の描き方をしてきた。  
 
 ---
 

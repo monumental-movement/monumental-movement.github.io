@@ -10,14 +10,14 @@ tags:
 - UK Rock
 - Alternative
 - Indie Rock
-title: Cajun Dance Party – The Colorful Life
+title: Cajun Dance Party – The Colourful Life
 ---
 
 
-Cajun Dance Party is a five-piece rock band from London, England.
+Cajun Dance Party (ケイジャンダンスパーティ) は、イギリス・ロンドン出身の5ピースロックバンド。
 
-Their debut album, ""The Colourful Life,'' released on the label XL Recordings in 2008, was produced by Bernard Butler of the British rock band Suede.
-After releasing this album, they performed at various festivals around the world including Reading and Leeds, Glastonbury, Oxegen, and Summer Sonic.
+2008年にレーベルXL Recordingsからリリースしたデビューアルバム「The Colourful Life」は、イギリスのロックバンドSuede（スウェード）のBernard Butler（バーナード・バトラー）がプロデュース。
+このアルバムをリリース後、Reading and Leeds（レディング アンド リーズ）, Glastonbury（グラストンベリー）, Oxegen（オクセゲン）, サマーソニックなど世界の様々なフェスティバルに出演した。
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ After releasing this album, they performed at various festivals around the world
 11. The Parachute
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m30053307284?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30053307284?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QxomqUKyb7U?si=DXv8PVgOBRAXBsKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

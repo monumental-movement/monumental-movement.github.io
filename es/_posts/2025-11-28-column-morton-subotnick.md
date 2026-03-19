@@ -136,7 +136,7 @@ Este sistema se utilizó en muchas producciones y jugó un papel importante al c
 
 Desde la década de 1980, Subotnick se ha interesado por la relación entre acústica e interfaces y ha trabajado en la creación de materiales didácticos musicales interactivos utilizando ordenadores.
 Entre sus proyectos representativos se incluye la serie ``Making Music'' (década de 1980).
-Se trata de un software que permite a los niños aprender sobre sonidos y estructuras mientras lo utilizan, y fue ampliamente utilizado en entornos educativos estadounidenses.
+Este es un software que permite a los niños aprender sobre sonidos y estructuras mientras lo utilizan, y fue ampliamente utilizado en entornos educativos estadounidenses.
 
 ---
 

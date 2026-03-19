@@ -19,7 +19,7 @@ Dave Lee, también conocido como Akabu, es un DJ, productor y remezclador britá
 
 Dave Lee ha actuado bajo numerosos alias, incluidos Jakatta, Doug Willis, Raven Maize y Sessomatto.
 
-Este disco, basado en Little Girasol del álbum de Freddie Hubbard, The Love Connection, es una canción house lanzada por el sello británico NRK Sound Division en 2001.
+Este disco, basado en Little Girasol de Freddie Hubbard de su álbum The Love Connection, es una canción house lanzada por el sello británico NRK Sound Division en 2001.
 
 #### Lista de canciones
 ```md

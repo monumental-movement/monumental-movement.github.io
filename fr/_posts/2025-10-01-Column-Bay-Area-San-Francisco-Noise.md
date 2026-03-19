@@ -68,7 +68,7 @@ SRL, reconnue pour ses performances mécaniques destructrices, a été fondée e
 
 #### Pays négatif
 
-Un groupe actif dans la région de San Francisco et connu pour ses travaux critiques médiatiques utilisant l'échantillonnage/collage. Des œuvres telles que Escape From Noise de la fin des années 1980 étaient des œuvres importantes qui montraient l’intersection de la culture noise et pop, attirant la controverse et l’attention grâce à la radio DIY et aux fausses techniques publicitaires.
+Un groupe actif dans la région de San Francisco et connu pour ses travaux critiques médiatiques utilisant l'échantillonnage/collage. Des œuvres telles que Escape From Noise de la fin des années 1980 étaient des œuvres importantes qui montraient l’intersection de la culture noise et de la culture pop, attirant la controverse et l’attention grâce à la radio DIY et aux fausses techniques publicitaires.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,7 +84,7 @@ Matmos a été formé à San Francisco dans les années 1990 et a acquis une ren
 
 ### Communauté et terrain (Noise Pop, Bay Improviser, etc.)
 
-La Bay Area abrite des festivals indépendants comme Noise Pop et des communautés de musique improvisée/expérimentale comme Bay Improviser, qui sont chargées de transmettre l'expression et le lieu de la jeune génération. Ces scènes circulent dans le lieu du « live » et constituent une plate-forme où se croisent l'ancien et le nouveau.
+La Bay Area abrite des festivals indépendants comme Noise Pop et des communautés de musique d'improvisation/expérimentale comme Bay Improviser, qui sont chargées de transmettre des expressions et des lieux aux jeunes générations. Ces scènes circulent dans le lieu du « live » et constituent une plate-forme où se croisent l'ancien et le nouveau.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zuetPCa6C5U?si=GUpW_QiphCpXrUHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

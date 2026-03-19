@@ -47,10 +47,10 @@ Les jeunes du Bronx organisent des soirées DJ dans des espaces publics abandonn
 Les clubs et les fêtes de quartier étaient bien plus que de simples salles de concert ; ils étaient un symbole d'unité communautaire.
 
 ### L'importance des cassettes radio et de démonstration
-À l'époque, le hip-hop était popularisé grâce à des programmes de radio (par exemple « The Show » de WBLS) et les cassettes démo étaient un moyen important de découvrir des artistes.
+À l'époque, le hip-hop était popularisé grâce à des programmes de radio (par exemple "The Show" de WBLS) et les cassettes démo étaient un moyen important de découvrir des artistes.
 DJ Kool Herc et Afrika Bambaataa ont diffusé leurs mixtapes à la radio locale et lors de soirées, contribuant ainsi à faire passer le message.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 [The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
@@ -73,7 +73,7 @@ Un style G-funk unique a été affiné dans les clubs et les soirées roulantes 
 ### Rôle des cassettes de démonstration et de la radio
 La nouvelle chanson a été diffusée sur les stations de radio locales (KDAY, KMEL) et les jeunes qui ont écouté la démo l'ont diffusée de bouche à oreille. Les DJ des radios locales ont notamment fait office d’arbitres de la scène.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 [Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
@@ -92,7 +92,7 @@ Extrayez des phrases de disques soul, funk et jazz à l'aide d'un échantillonne
 
 ### Côte Est contre Côte Ouest
 Les tensions régionales influencent la musique, comme en témoigne le conflit entre The Notorious B.I.G. et 2Pac.
-Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de battles de rap et de premières nouveautés, favorisant une culture de battle de rap.
+Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de rap battles et de premières nouveautés, favorisant une culture rap battle.
 
 ### Sud (Atlanta, Houston, Nouvelle-Orléans)
 OutKast et UGK ont émergé et ont établi leur propre son unique. La distribution de cassettes dans les clubs a soutenu la diffusion du hip-hop régional.
@@ -101,7 +101,7 @@ OutKast et UGK ont émergé et ont établi leur propre son unique. La distributi
 En raison des problèmes de droits d'auteur et de la hausse des coûts, un nombre croissant d'artistes se tournent vers la production de sources sonores originales et les performances live.
 « The Chronic » (1992) de Dr. Dre utilise habilement l'échantillonnage, tandis que le G-funk utilise beaucoup de synthés et de lignes de basse originales.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 **East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
@@ -121,7 +121,7 @@ Déséchantillonnage et changements d’équipement
 Avec la diffusion des DAW (Pro Tools, Ableton Live), il est désormais possible de créer des sources sonores uniques à l'aide de synthés et de plug-ins sans recourir à l'échantillonnage.
 Cela augmente la proportion de rythmes originaux.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 [Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
@@ -143,7 +143,7 @@ DAW (Ableton Live, FL Studio)
 
 Extension de l'utilisation des plugins et des packs d'échantillons
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 [Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 
@@ -184,7 +184,7 @@ Un incident impliquant une utilisation non autorisée de la boucle de guitare de
 
 - Les mixtapes de **DJ Clue, DJ Drama, DJ Screw** et d'autres sont devenues un pont entre l'underground et le mainstream dans les années 90 et au-delà.
 - **Southern (Houston, ATL)** ``Screw Tape'' et ``Gangsta Grillz'' formaient la scène, permettant de découvrir des artistes indépendants des labels.
-- Dans les années 2000, Mixtape est passé à « SoundCloud » et « DatPiff » et est devenu un moyen de promotion à l'ère d'Internet.
+- Dans les années 2000, Mixtape s'est déplacé vers "SoundCloud" et "DatPiff" et est devenu un moyen de promotion à l'ère d'Internet.
 
 ---
 
@@ -195,7 +195,7 @@ Un incident impliquant une utilisation non autorisée de la boucle de guitare de
 | années 1980 | *Payé en totalité*, *Il faut une nation de millions* | James Brown, Funk, période d'abus d'échantillonnage d'âme |
 | années 1990 | *La Chronique*, *Tous les regards sur moi* | Parlement-Funkadelic, G-Funk |
 | Années 2000 | *Stakonia*, *Tha Carter III* | Échantillonnage réduit/synthé mainstream |
-| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement maison + Auto-Tune |
+| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement fait maison + Auto-Tune |
 | Années 2020 | *M. Moral et les Big Steppers*, *L'intersaison* | Exemple de régression + expérience de battement générée par l'IA |
 
 ---
@@ -379,7 +379,7 @@ Bass : ▂▂▄▆██▆▄▂
 
 ---
 
-## Années 2010 (ère Trap/sub bass et HiHat haute vitesse)
+## Années 2010 (Trap era/sub bass et HiHat haute vitesse)
 
 <table class="table-wave">
 <tr>
@@ -434,7 +434,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 **Considérations supplémentaires**
 
-Un tableau généalogique vous permet de comprendre intuitivement les « relations maître-élève » et les « relations d'influence ».
+Les diagrammes généalogiques permettent aux étudiants de comprendre intuitivement les « relations maître-élève » et les « relations d'influence ».
 
 La comparaison des formes d'onde vous permet de capturer visuellement l'évolution musicale.
 
@@ -444,7 +444,7 @@ La carte du pouvoir visualise vers quelle région le centre de la scène s'est d
 
 ## Conclusion
  
-Le hip-hop a évolué pour refléter la culture et le contexte social de chaque région. La côte Est, la côte Ouest et la côte Sud ont chacune leurs propres styles uniques, qui ont influencé non seulement la musique, mais aussi la mode, la langue et les mouvements sociaux. Le hip-hop continuera d’évoluer à mesure que de nouvelles techniques et méthodes d’expression émergeront.
+Le hip-hop a évolué pour refléter la culture et le contexte social de chaque région. La côte Est, la côte Ouest et la côte Sud ont chacune leurs propres styles qui ont influencé non seulement la musique, mais aussi la mode, la langue, les mouvements sociaux et bien plus encore. Le hip-hop continuera d’évoluer à mesure que de nouvelles techniques et méthodes d’expression émergeront.
 
 ---
 

@@ -15,7 +15,7 @@ title: 庫拉搖床 – K
 
 
 
-Kula Shaker 是一支英國迷幻/獨立搖滾樂隊，由主唱 Crispian Mills 領導，在 20 世紀 90 年代英倫流行音樂時代聲名鵲起。
+Kula Shaker（クーラ・シェイカー）は、1990年代のブリットポップ時代に頭角を現した、フロントマンの Crispian Mills率いるイギリスのサイケデリック／インディー・ロックバンド。
 
 Kula Shaker 於 1996 年發行的首張專輯《K》是 Kula Shaker 的代表作，在英國專輯排行榜上名列第一。
 #### 曲目表
@@ -37,7 +37,7 @@ Kula Shaker 於 1996 年發行的首張專輯《K》是 Kula Shaker 的代表作
 13.3. The Hidden Song
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23235141061?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23235141061?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bYj2o7y4rk?si=3VaCSZFKll5SJqXL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

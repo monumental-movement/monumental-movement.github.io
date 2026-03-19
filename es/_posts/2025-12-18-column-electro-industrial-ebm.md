@@ -136,7 +136,7 @@ Nitzer Ebb puso lo físico en primer plano al reducir los elementos de la EBM al
 
 ## 11. Expansión a Electroindustrial
 
-Desde finales de los 80 ha aparecido un grupo de obras que mantienen la estructura de la EBM al tiempo que aumentan su complejidad sonora. Caracterizado por capas de ruido, muestreo de múltiples capas y la construcción de espacios acústicos oscuros, llegó a ser conocido colectivamente como Electro-Industrial.
+Desde finales de los años 1980 ha aparecido un grupo de obras que mantienen la estructura de la EBM al tiempo que aumentan su complejidad sonora. Caracterizado por capas de ruido, muestreo de múltiples capas y la construcción de espacios acústicos oscuros, llegó a ser conocido colectivamente como Electro-Industrial.
 
 ---
 

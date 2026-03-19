@@ -10,14 +10,14 @@ tags:
 - Trance
 - Techno
 - 00s
-title: Inkfish – Origin Unknown Accelerator
+title: Inkfish – Accélérateur d’origine inconnue
 ---
 
 
 
-Inkfish(インクフィッシュ)は、90年代後半から活動するスウェーデンのHouse/Progressive Houseプロデューサー集団。Azuli, Bedrock, Doppelganger, Mistake Music, Parquet, Renaissance, Stereo Productionsなどの名門レーベルからリリースしている。
+Inkfish est un groupe de producteurs suédois House/Progressive House actif depuis la fin des années 1990. Il a sorti sur des labels prestigieux tels que Azuli, Bedrock, Doppelganger, Mistake Music, Parquet, Renaissance et Stereo Productions.
 
-2000年にレーベルDorigen Musicからリリースした「Origin Unknown / Accelerator 」は、Inkfish のメンバーでありSpringa 名義でも活動するMattias Lindblomが中心となって制作したTrance／Technoトラック。
+"Origin Unknown / Accelerator", sorti sur le label Dorigen Music en 2000, est un morceau Trance/Techno principalement produit par Mattias Lindblom, membre d'Inkfish qui joue également sous le nom de Springa.
 
 #### Liste des chansons
 ```md

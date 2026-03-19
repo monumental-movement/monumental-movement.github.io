@@ -21,7 +21,7 @@ Texto: mmr｜Tema: Del final feliz a YMO y al ambiente: rastreando los “paisaj
 
 **Haruomi Hosono** es un músico que ha seguido transformando la música pop japonesa durante medio siglo.
 Desde finales de los años 1960 hasta el presente, su música se ha labrado un horizonte único al "cambiar la era" en lugar de "definir la era".
-Diversas culturas, humor, nostalgia, tecnología: todo ello se mezcla en el sonido de Hosono.
+Diversas culturas, humor, nostalgia, tecnología, todo ello se mezcla en el sonido de Hosono.
 
 ---
 
@@ -51,7 +51,7 @@ Antes de la formación de Happy End, 1969-1970. Un período de exploración del 
 Grabación analógica en casa o en un pequeño estudio. Utiliza órgano, guitarra y micrófono simple.
 
 #### Anécdota
-Un amigo añadió efectos de sonido y risas a las grabaciones y su sentido del humor se desarrolló rápidamente.
+Un amigo añadió efectos de sonido y risas a las grabaciones, y su sentido del humor se desarrolló rápidamente.
 
 
 ---
@@ -135,7 +135,7 @@ Hubo mucho ensayo y error en la creación de canciones entre los miembros, y tam
 - "Haraiso" (1978)
 
 Asia, Mares del Sur, América Latina, Hawaii y Japón.
-Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que más bien expresó el exotismo con el que soñaban los japoneses.
+Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que expresó el exotismo con el que soñaban los japoneses.
 Se caracteriza por una estructura que recuerda a un diario de viaje ficticio y una disposición ingeniosa.
 
 #### Antecedentes históricos
@@ -144,7 +144,7 @@ En la televisión y el cine se difundió la idea de que "países tropicales = cu
 
 #### Entorno de producción
 Grabado en casa/estudio "HOSONO HOUSE" (Saitama, Sayama).
-Convirtieron la sala de una casa de madera en un estudio y grabaron utilizando una cinta analógica y una sencilla mesa de mezclas.
+Convirtieron la sala de una casa de madera en un estudio y grabaron usando una cinta analógica y una simple mesa de mezclas.
 Este estilo de grabación casera se convirtió en el origen del pop urbano posterior y de la cultura de grabación casera.
 
 #### Anécdota

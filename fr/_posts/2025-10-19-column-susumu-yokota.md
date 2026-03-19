@@ -118,7 +118,7 @@ On sait également qu'Aphex Twin et Four Tet ont soutenu son travail.
 ## Chapitre 6 : Live et physicalité
 
 La performance live de Yokota n'était pas seulement une reconstitution, mais une tentative de « jouer l'espace lui-même ».
-Il a éliminé autant que possible l'éclairage et les images et a transformé l'espace en utilisant la « densité de l'air » du son.
+Il a éliminé autant que possible l'éclairage et les images, transformant l'espace avec la « densité de l'air » que possède le son.
 Le public est enveloppé de particules sonores et perd la notion du temps. C’était une expérience où chaque personne se fondait dans le son.
 
 Sa position était un exemple rare de combinaison de la physicalité dansante de la techno avec la nature méditative de l’ambient.
@@ -169,5 +169,5 @@ La musique de Susumu Yokota n'est pas racontée à travers des mélodies et des 
 Dans ce silence habitent le bruit de la ville, le souffle de la nature et la mémoire humaine.
 La musique qu’il a laissée n’est pas seulement une collection d’œuvres, mais un miroir qui reflète le moi intérieur de l’auditeur.
 
-Même après la disparition du son, quelque chose reste dans votre cœur.
+Même après la disparition du son, quelque chose reste dans mon cœur.
 C'est le plus grand « son » que le musicien Susumu Yokota ait laissé au monde.

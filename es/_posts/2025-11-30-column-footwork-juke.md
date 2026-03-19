@@ -46,7 +46,7 @@ Footwork/Juke nació en las comunidades del gueto de Chicago a finales de los 80
 
 - **Finales de los 80**: A medida que el Chicago House florece, se desarrolla un sonido house más agresivo conocido como "Ghetto House" en los clubes y fiestas de la zona.
 - **Principios de la década de 1990**: se estableció una cultura de ritmos breves, samples repetidos y pasos de baile rápidos conocida como Juke.
-- **Finales de los 90**: Aparece el nombre Footwork. Comienza a extenderse una cultura en la que la danza y la música están estrechamente relacionadas.
+- **Finales de los 90**: Aparece el nombre Footwork. Comienza a extenderse una cultura en la que la danza y la música están estrechamente vinculadas.
 
 <div class="mermaid">
 flowchart TD
@@ -69,7 +69,7 @@ Las características musicales de Footwork/Juke son las siguientes.
 
 ---
 
-## 3. Cultura de la danza del juego de pies.
+## 3. Cultura de la danza del juego de pies
 
 El juego de pies está estrechamente relacionado no sólo con la música sino también con un estilo de baile único. Desarrollado en las comunidades clandestinas de fiestas y bailes callejeros de Chicago. Las características son las siguientes.
 

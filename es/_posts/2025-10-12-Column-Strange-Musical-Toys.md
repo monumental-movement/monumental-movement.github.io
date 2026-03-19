@@ -96,7 +96,7 @@ Una fusión de sutiles sonidos electrónicos y sensación analógica. La delicad
 ## Ⅳ. Dispositivos de sonido extraños europeos.
 
 ### Stylophone y Optigan
-El British Stylophone es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
+El Stylophone británico es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
 El Optigan es un órgano de juguete que reproduce sonidos mediante discos ópticos y se caracteriza por patrones y ritmos impredecibles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -143,7 +143,7 @@ Una pieza experimental de ruido que aprovecha al máximo equipos electrónicos m
 
 ## Ⅵ. La edad de oro de los juguetes electrónicos en Japón
 
-En las décadas de 1970 y 1980, los sintetizadores portátiles y los juguetes musicales electrónicos se hicieron populares en los hogares japoneses.
+En las décadas de 1970 y 1980, los sintetizadores portátiles y los instrumentos musicales electrónicos se hicieron populares en los hogares japoneses.
 
 - Serie Yamaha Portasound
 - CASIO VL-TONE
@@ -165,7 +165,7 @@ Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios 
 
 ##VII. Estética irregular escandinava
 
-En Escandinavia han aparecido pequeños sintetizadores de gran diseño.
+En Escandinavia han aparecido sintetizadores pequeños y de gran diseño.
 
 - Ingeniería adolescente OP-1
 - Serie Operador de bolsillo
@@ -205,6 +205,16 @@ Los juguetes musicales, como los juguetes con inteligencia artificial, los instr
 El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un importante papel cultural en el futuro del sonido electrónico.
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oIjmDqNvO4M?si=Xphd495xrBMA6HSK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ## Apéndice
 

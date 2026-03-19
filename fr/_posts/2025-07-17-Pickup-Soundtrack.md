@@ -60,7 +60,7 @@ B9. Goodbye Selina
 ### VA – Réservoir　Fille
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
-形式：CD
+Format : CD
 
 Oeuvre : Bande originale du film de science-fiction « Tank Girl » de 1995. Compilé par Courtney Love, musique originale de Graeme Revell de SPK.
 
@@ -114,7 +114,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ### Ennio Morricone – Nouveau Cinéma Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
-形式：CD
+Format : CD
 
 Travail : Bande originale du film classique de 1989 « New Cinema Paradise ».
 

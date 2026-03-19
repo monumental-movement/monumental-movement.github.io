@@ -14,7 +14,7 @@ title: ADN, Breeze et Munchie Breeze – Insanity Your Love Hits Me (Rmx)
 ---
 
 
-Mark Brady, également connu sous le nom de DJ Breeze, est un DJ/producteur hardcore originaire de Londres. DNA est l'ingénieur de studio du label Essential Platinum de Dougal & Hixxy et produit également des morceaux de drum and bass sous le nom de Kiro.
+Mark Brady, également connu sous le nom de DJ Breeze, est un DJ/producteur hardcore originaire de Londres. DNA est ingénieur de studio pour le label Essential Platinum de Dougal & Hixxy et produit également des morceaux de drum and bass sous le nom de Kiro.
 
 La face B est un remix de "Your Love Hits Me" de Breeze par DNA.
 

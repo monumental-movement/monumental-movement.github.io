@@ -16,11 +16,11 @@ title: Sterac Electronics – 繼續運行
 
 Steve Rachmad，也稱為 Sterac Electronics，是一位來自阿姆斯特丹的國際活躍的 techno 製作人/DJ。他因在荷蘭普及底特律科技而廣受讚譽。
 
-他根據自己的音樂風格使用各種名稱，包括 Sterac、Parallel 9、Ignacio、Scorp、Black Scorpion、Tons of Tones、Dreg 和 Adverse Match。
+Sterac、Parallel 9、Ignacio、Scorp、Black Scorpion、Tons of Tones、Dreg、Adverse Matchなど様々な名義を音楽スタイルに合わせて使い分けている。
 
-Sterac Electronics 推出的風格主要集中在電子、放克和 80 年代迪斯科風格，所有這些風格都廣受好評。
+Sterac Electronics は、エレクトロ、ファンク、80sディスコにフォーカスしたスタイルをリリースする際に使用しており、どの音源も高く評価されている。
 
-《Keep On Running》是一首由比利時廠牌 Music Man Records 於 2003 年發行的 Techno/Electro/Indie Dance 歌曲。
+「Keep On Running」は、2003年にベルギーのレーベルMusic Man RecordsからリリースされたTechno／Electro／Indie Dance。
 
 
 #### 曲目表

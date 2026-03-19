@@ -61,7 +61,7 @@ Aquí observamos a vista de pájaro cómo la música coral adquirió elementos e
 ## 2-2. Primera mitad del siglo XX: el surgimiento de perspectivas vanguardistas sobre la voz
 
 * El uso de la voz también se expandió rápidamente, con la técnica dodecafónica de Schoenberg y Webern, los ritmos multicapa de Stravinsky y la introducción de Bartok de los aspectos acústicos de la música folclórica.
-* Carmina Burana (1937), de Carl Orff, se cita como una obra simbólica que trata la voz como una "fuente de energía primitiva".
+* Carmina Burana (1937) de Carl Orff se cita como una obra simbólica que trata la voz como una "fuente de energía primitiva".
 
 ## 2-3. Ligeti y el nuevo pensamiento acústico (década de 1960)
 
@@ -124,7 +124,7 @@ Las técnicas corales experimentales se pueden clasificar en términos generales
 
 ## 4-1. Micropolifonía
 
-Una técnica desarrollada por Ligeti, en la que cada voz reproduce ritmos y patrones de sonido ligeramente diferentes al mismo tiempo.
+Una técnica desarrollada por Ligeti, en la que cada voz toca ritmos y patrones de sonido ligeramente diferentes al mismo tiempo.
 **Forma una nube acústica que esté “en movimiento y quieta”**.
 
 ### Fenómeno acústico (ejemplo)
@@ -177,7 +177,7 @@ Los experimentos recientes a veces utilizan procesamiento en tiempo real y difus
 * Cambio de tono
 * Procesamiento granular
 
-Con estos, la imagen estática del coro queda completamente desmantelada, y la partícula y distribución espacial de las voces pasa a ser el centro de la estructura musical.
+Con estos, la imagen estática del coro queda completamente desmantelada, y la **distribución espacial/particular de las voces** se convierte en el centro de la estructura musical.
 
 ---
 
@@ -187,7 +187,7 @@ Con estos, la imagen estática del coro queda completamente desmantelada, y la p
 
 Ligeti fue un compositor que simbolizó el pensamiento acústico del siglo XX y provocó las innovaciones más radicales en la música coral.
 
-### Características de las obras representativas
+### Características de las obras representativas.
 
 *《Lux Aeterna》: Micropolifonía sin acompañamiento
 * 《Requiem》: Textura densa y tensión en “Kyrie”

@@ -15,15 +15,15 @@ title: 機器人 – Do Da Doo（混音）
 ---
 
 
-《Robotman – Do Da Doo (Remixes)》是 Richie Hawtin 於 1994 年發行的專案「Robotman」的混音專輯。這張專輯包含了幾種不同的混音。
+《Robotman – Do Da Doo (Remixes)》是 Richie Hawtin 于 1994 年发行的项目“Robotman”的混音专辑。這張專輯包含了幾種不同的混音。
 
 Plastikman 的 Acid House Remix -
 
 它由 Richie Hawtin 本人重新混音，具有酸性音響效果和獨特的 techno 節拍。該混音版因其獨特的音效而受到高度讚揚。
 
-大衛霍姆斯混音 -
+David Holmes Remix - 
 
-David Holmes 的混音提供了更黑暗、更深沉的 techno 聲音。
+デヴィッド・ホームズが手掛けたこのリミックスは、よりダークで深みのあるテクノ・サウンドを提供しています。
 
 爆炸塑膠混音 -
 

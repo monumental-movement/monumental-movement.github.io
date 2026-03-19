@@ -83,7 +83,7 @@ Reggae/dub is associated with sound system culture and is responsible for the se
 
 ---
 
-Disco is a haven for the LGBTQ+/Black/Latinx community, gaining the right to dance on the border between legal and illegal, even though it has its dark sides such as nightclub security and admission discrimination.
+Disco is a haven for the LGBTQ+/Black/Latinx community, gaining the right to dance on the border between legal and illegal, while also having its dark sides such as nightclub security and admission discrimination.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -183,7 +183,7 @@ Leftfield/Queer Clubs are rebuilding safe night spaces and establishing internal
 
 ### 2020s: Irregular spaces after the pandemic: Micro-rave and local communities
 
-During the lockdown period, guerrilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
+During the lockdown period, guerilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
 
 The hybridization of social movements and music events (fundraising parties, mutual aid community kitchens, etc.) is progressing, and the focus is on care and consensus-building rather than the "illegal/legal" dichotomy.
 

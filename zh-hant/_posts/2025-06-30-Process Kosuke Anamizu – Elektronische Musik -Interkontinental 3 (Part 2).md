@@ -16,7 +16,7 @@ title: 處理 Kosuke Anamizu – Elektronische Musik –Interkontinental 3（第
 
 
 Steve Barnes，也被稱為 Process，是一位來自英國的 DJ。
-也被稱為宇宙三明治。
+Cosmic Sandwich名義でもよく知られている。
 
 Kosuke Anamizu 是一位來自日本的電子音樂聲音設計師和作曲家。
 

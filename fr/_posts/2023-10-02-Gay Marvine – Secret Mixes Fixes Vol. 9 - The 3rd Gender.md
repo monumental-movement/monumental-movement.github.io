@@ -9,11 +9,11 @@ permalink: /fr/gay-marvine-secret-mixes-fixes-vol-9-the-3rd-gender/
 tags:
 - Funk
 - Disco
-title: Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender
+title: Gay Marvine – Secret Mixes Fixes Vol. 9 – Le 3ème Sexe
 ---
 
 
-「Secret Mixes Fixes Vol. 9 - The 3rd Gender」は、2008年にレーベル「Secret Mixes Fixes」からリリースされた本名Chuck HamptonによるプロジェクトGay MarvineのEPです。
+"Secret Mixes Fixes Vol. 9 - The 3rd Gender" est un EP de Gay Marvine, un projet de Chuck Hampton sorti en 2008 sur le label "Secret Mixes Fixes".
 
 #### Liste des chansons
 ```md

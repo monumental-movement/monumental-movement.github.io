@@ -9,7 +9,7 @@ permalink: /es/slusnik-luna-sun/
 tags:
 - Trance
 - 00s
-title: Slušnik Luna – Sol
+title: Slusnik Luna – Sol
 ---
 
 

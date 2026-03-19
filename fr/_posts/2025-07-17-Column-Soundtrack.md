@@ -40,9 +40,9 @@ Un pianiste et un orchestre ont assuré la musique live au cinéma. Par conséqu
 
 [『ジャズ・シンガー』（1927）](https://amzn.to/3Wn4CTH)を皮切りに**光学式録音（Optical Sound）**が導入され、映像フィルムの中に音声情報（スコア）を記録する時代へ。
 
-À cette époque, la signification de « bande-son = matériel audio de film » est devenue claire.
+À cette époque, la signification de « bande sonore = matériel audio d'un film » est devenue claire.
 
-** ● Médias majeurs de la musique de film : évolutions technologiques dans l'enregistrement et la lecture **
+** ●Principaux médias de la musique de film : évolutions technologiques dans l'enregistrement et la lecture**
 
 ■Enregistrement sur le film lui-même (son sur film)
 
@@ -88,7 +88,7 @@ Ventes de sources musicales sur iTunes et Amazon MP3.
 
 Des compositeurs de films indépendants sont également présentés sur des plateformes telles que Bandcamp.
 
-Les partitions complètes, les chansons inédites et les prises alternatives peuvent être distribuées en haute résolution.
+Les partitions complètes, les chansons inédites et les prises alternatives peuvent être diffusées en haute résolution.
 
 ■Abonnement (Spotify / Apple Music, etc.)
 
@@ -181,7 +181,7 @@ Master analogique pour enregistrement orchestral → numérisation
 
 Composition complète, enregistrement et mixage à l'aide d'une base DAW.
 
-Une partition conçue pour le développement des médias.
+Une partition conçue en pensant au développement des médias.
 
 ** ● Compositeur contemporain (axé sur la distribution) **
 

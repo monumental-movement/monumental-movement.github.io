@@ -9,7 +9,7 @@ permalink: /zh-hant/va-synchronicity-2nd-session/
 tags:
 - Hiphop
 - 00s
-title: VA – 同步性第二次會議
+title: VA – Synchronicity 2nd Session
 ---
 
 

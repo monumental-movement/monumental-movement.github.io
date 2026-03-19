@@ -84,7 +84,7 @@ Cette caractéristique le rend adapté aux enregistrements live et aux mixages b
 
 ### Processus de maîtrise : du vernis au tampon
 
-Le point clé du processus de production de disques 10 pouces est l’étape de **découpe de laque**.
+Le point clé du processus de production de disques 10 pouces est l'étape de **découpe de laque**.
 En raison du diamètre plus petit du disque de 10 pouces, il y a moins d’erreur de suivi de la tête de coupe.
 Cela améliore la précision du groove sonore et rend la localisation stéréo plus stable.
 

@@ -16,9 +16,9 @@ title: Ladysmith Black Mambazo – 沙卡祖魯
 
 Ladysmith Black Mambazo 於 1964 年由 Joseph Shabalala 創立，是一個南非男性合唱團，以 isikatamiya（傳統祖魯音樂）和 Mbube 風格演唱。
 
-他因出演 Simon & Garfunkel 的 Paul Simon 的專輯《Graceland》而享譽全球，並獲得了包括格萊美獎在內的各種獎項。
+サイモン&ガーファンクルのPaul Simon（ポール・サイモン）のアルバム『グレイスランド』に参加した事で世界的に有名となり、グラミー賞を含む様々な賞を獲得した。
 
-《Shaka Zulu》由保羅·西蒙製作。
+「Shaka Zulu」はPaul Simonがプロデュースしている。
 
 #### 曲目表
 ```md
@@ -35,7 +35,7 @@ B4. Rain, Rain, Beautiful Rain
 B5. Wawusho Kubani? (Who Were You Talking To?)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X2xl2fsdyGM?si=RnaEIEA5rq0GPq-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

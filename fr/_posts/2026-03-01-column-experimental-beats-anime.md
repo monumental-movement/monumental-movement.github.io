@@ -65,7 +65,7 @@ L’essentiel est que la construction du rythme lui-même est liée au montage v
 La version cinématographique d’AKIRA, sortie en 1988, a marqué un tournant majeur dans l’histoire de la musique animée.
 
 Le Geino Yamashiro Gumi, en charge de la musique, est un groupe dont les activités sont basées sur la recherche sur les musiques ethniques et a créé un système sonore à grande échelle combinant shomyo, gamelan, instruments à percussion et traitement électronique.
-Les polyrythmies superposées, l'accent mis sur les harmoniques et le refrain collectif représentaient symboliquement le chaos de la ville du futur proche de Néo-Tokyo.
+Les polyrythmies en couches, l'accent mis sur les harmoniques et le refrain collectif représentaient symboliquement le chaos de la ville du futur proche de Néo-Tokyo.
 
 Contrairement à l’accompagnement symphonique classique, il est important que le rythme ait une structure qui « propulse » l’image.
 

@@ -19,9 +19,9 @@ title: '[Chronique] Le genre de musique que vous écoutez dans votre jeunesse in
 
 ## Prologue : Pourquoi la « musique que j'écoutais quand j'étais jeune » demeure-t-elle ?
 
-Texte : mmr｜Thème : Examiner les effets à long terme de la musique écoutée à l'adolescence et au début de l'âge adulte sur les valeurs, les perspectives de carrière et la participation sociale à l'aide de données de recherche empiriques provenant de divers pays.
+Texte : mmr｜Thème : Vérifier les effets à long terme de la musique écoutée à l'adolescence et au début de l'âge adulte sur les valeurs, les perspectives de carrière et la participation sociale à l'aide de données de recherche empiriques provenant de divers pays
 
-Lorsque de nombreuses personnes repensent à une certaine période de leur vie, elles évoquent des souvenirs fortement associés à une musique spécifique. Ce n'est pas seulement de la nostalgie. La psychologie et les neurosciences ont montré à plusieurs reprises que les expériences vécues depuis la fin de l’adolescence jusqu’au début de la vingtaine ont tendance à devenir le fondement de notre image de soi et de nos jugements de valeur.
+Lorsque de nombreuses personnes repensent à une certaine période de leur vie, elles évoquent des souvenirs fortement associés à une musique spécifique. Ce n'est pas seulement de la nostalgie. La psychologie et les neurosciences ont montré à plusieurs reprises que les expériences vécues depuis la fin de l’adolescence jusqu’au début de la vingtaine ont tendance à devenir le fondement de notre conception de soi et de nos jugements de valeur.
 
 Durant cette période, l'amygdale, responsable du traitement émotionnel, et le circuit dopaminergique, responsable du système de récompense, sont particulièrement actifs, rendant les enfants très sensibles aux nouveaux stimuli. Parce que la musique stimule à la fois les émotions, l’appartenance sociale et les sensations physiques, elle est plus profondément gravée dans nos mémoires que les autres éléments culturels.
 
@@ -83,7 +83,7 @@ Il est important que la musique joue un rôle dans l’apprentissage des formes 
 
 ## Chapitre 4 : Analyse par genre ① Rock
 
-Le rock est fortement associé à la culture des jeunes depuis les années 1950. La génération qui écoutait principalement de la musique rock dans sa jeunesse a tendance à considérer positivement l’expression de soi et les attitudes anti-autorité.
+Le rock est fortement associé à la culture des jeunes depuis les années 1950. La génération qui écoutait principalement de la musique rock dans sa jeunesse a tendance à considérer de manière positive l’expression de soi et les attitudes anti-autorité.
 
 Des études à long terme ont montré que ce groupe est plus susceptible d'exprimer ses opinions sur le lieu de travail et dans la société, même après l'âge adulte. D’un autre côté, la méfiance à l’égard du système est également susceptible de coexister.
 
@@ -111,7 +111,7 @@ L'influence du hip-hop est la plus grande entre 16 et 25 ans. À une époque où
 
 ## Chapitre 6 : Analyse des genres ③ Musique électronique
 
-La génération qui est familière avec la musique électronique a tendance à avoir le sentiment de transcender les frontières nationales et les genres. En Europe notamment, l’expérience précoce de la culture des clubs est associée à la mobilité internationale et à des attitudes de travail flexibles.
+La génération qui est familière avec la musique électronique a tendance à avoir le sentiment de transcender les frontières nationales et les genres. En Europe notamment, l’expérience précoce de la culture des clubs est associée à une mobilité internationale et à des attitudes de travail flexibles.
 
 ### Tranche d'âge ayant le plus grand impact
 
@@ -208,7 +208,7 @@ D --> E[成人後の行動傾向]
 
 ---
 
-## Dernier chapitre : Dans quelle mesure la musique façonne-t-elle la vie ?
+## Chapitre final : Dans quelle mesure la musique façonne-t-elle la vie ?
 
 Ce que montrent les données empiriques n’est pas une simple cause et effet selon lequel la musique détermine nos vies. La culture musicale continue d'agir comme une condition initiale des valeurs, de la participation sociale et des conceptions professionnelles.
 

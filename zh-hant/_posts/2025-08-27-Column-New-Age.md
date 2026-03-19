@@ -31,7 +31,7 @@ title: '[專欄]新世紀音樂－冥想與音景的交集'
 
 ### 起源及歷史背景
 
-**70年代**：隨著對新紀元思想和東方哲學興趣的興起，它在想要冥想和回歸自然的人們中傳播。 Krautrock（[Tangerine Dream](https://amzn.to/42JEfLd)、[Popol Vuh](https://amzn.to/4nSrarh)等）和[Brian Eno](https://amzn.to/4ooImVa)的環境作品成為了土壤。
+**70年代**：隨著對新紀元思想和東方哲學興趣的興起，它在想要冥想和回歸自然的人們中傳播。 Krautrock（[Tangerine Dream](https://amzn.to/42JEfLd)、[Popol Vuh](https://amzn.to/4nSrarh)等）和[Brian Eno](https://amzn.to/4ooImVa)的环境作品成为了土壤。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/reu15RM5OO0?si=cE3kX-VUHyezeIhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -51,7 +51,7 @@ title: '[專欄]新世紀音樂－冥想與音景的交集'
 
 ### 代表藝術家及作品
 
-- **Brian Eno**：「Ambient 1：機場音樂」- 連結 New Age 和 Ambient 的起源。
+- **Brian Eno**：「Ambient 1：機場音樂」- 連結 New Age 和 Ambient 的根源。
 
 - **喜多郎**：充分利用合成器的壯麗音景。因 NHK 的“絲綢之路”而聞名於世。
 
@@ -59,7 +59,7 @@ title: '[專欄]新世紀音樂－冥想與音景的交集'
 
 - **Andreas Vollenweider**：因其使用電豎琴進行的精彩表演而廣受歡迎。
 
-- **Enigma**：融合了格里高利聖歌和合成器的“Sadeness（第一部分）”風靡全球。
+- **エニグマ（Enigma）**：グレゴリオ聖歌とシンセを融合させた「Sadeness (Part I)」で世界的ヒット。
 
 - **雅妮**：90年代因交響樂音階的舞台表演而受到歡迎。
 
@@ -67,13 +67,13 @@ title: '[專欄]新世紀音樂－冥想與音景的交集'
 
 ### 文化/思想背景
 
-新紀元音樂不僅是一種音樂流派，而且與新紀元思想和反主流文化有著深厚的關係。
+新紀元音樂不僅是一種音樂類型，而且與新紀元思想和反主流文化有著深厚的關係。
 
 他融入了東方哲學、印度思想、冥想、自然崇拜等精神元素，旨在將自己從城市生活中解放出來。
 
-它與環境音樂和生態運動產生共鳴，是一種象徵「與自然和諧」的文化現象。
+環境音楽やエコロジー運動とも共振し、「自然との調和」を象徴する文化現象でもあった。
 
-它已經蔓延到藝術、建築、瑜伽和治療等生活方式的各個方面，形成了一種超越流派的文化。
+美術や建築、ヨガやヒーリングといったライフスタイル全般に広がり、ジャンルを越えたカルチャーを形成。
 
 <小時>
 
@@ -81,11 +81,11 @@ title: '[專欄]新世紀音樂－冥想與音景的交集'
 
 當前的新時代音樂不再是簡單的“治癒音樂”，而是在以下背景下以新的方式進行評估。
 
-- **低保真和休閒文化**：在串流媒體時代重新引起人們對「聽音樂」的關注。
+- **ローファイやチルアウト文化**：ストリーミング時代の“聴き流し音楽”として再注目。
 
 - **模擬回歸**：80 年代和 90 年代的作品正在黑膠唱片再發行和卡帶文化中被挖掘出來。
 
-- **Ambient 的復興**：現代作曲家（Laraaji、Kaitlyn Aurelia Smith 等）以現代方式重構 New Age 元素。
+- **アンビエントの再興**：現代作曲家（Laraaji, Kaitlyn Aurelia Smith など）がニューエイジ的要素を現代的に再構築。
 
 - **健康產業**：新時代音樂聲音現在是正念、瑜珈、冥想應用程式等的標準配置。
 
@@ -96,7 +96,7 @@ title: '[專欄]新世紀音樂－冥想與音景的交集'
 坦白說，新紀元音樂經常被描述為「背景音樂」。然而，隨著城市化和資訊科技的進步，它的冥想性和非攻擊性的聲音已經成為人們所追求的「聲音綠洲」。
 在現代，它已被重新吸收到氛圍音樂和休閒音樂等流派中，但它的理想——與自然和諧、內省和治癒——變得更加迫切。
 
-New Age並不是過去的時尚，而是一種持續悄悄但確實在人們生活中發揮作用的音樂文化。
+新時代不是過去的時尚，而是過去的時尚。它是一種音樂文化，在人們的生活中繼續悄悄但確實發揮作用。
 
 ---
 

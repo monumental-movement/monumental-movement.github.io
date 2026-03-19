@@ -11,7 +11,7 @@ tags:
 - Technology
 - Streaming
 title: '[Column] The future of interactive music experiences - the current state of
-  technology-enhanced listening and creation'
+  listening and creation as technology expands'
 ---
 
 

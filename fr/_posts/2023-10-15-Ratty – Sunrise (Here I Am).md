@@ -15,7 +15,7 @@ title: Ratty – Lever du soleil (Me voici)
 
 Ratty est le projet côté transe de l'artiste allemand Scooter, spécialisé dans le happy hardcore, le rebondissant, la techno, la techno, la transe et le hardstyle.
 
-La face B "Sunrise (Here I Am) (Instrumental)" est la version originale du single "She's The Sun" de Scooter en 2000 intitulé "Sunrise (Ratty's Inferno)".
+La face B "Sunrise (Here I Am) (Instrumental)" est la version originale du single "She's The Sun" de Scooter en 2000 appelé "Sunrise (Ratty's Inferno)".
 
 #### Liste des chansons
 ```md

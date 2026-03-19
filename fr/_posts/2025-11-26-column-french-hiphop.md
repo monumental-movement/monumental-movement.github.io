@@ -20,7 +20,7 @@ title: '[Chronique] Histoire complète du hip-hop français : de NTM à nos jour
 
 Texte : mmr｜Thème : Focus sur NTM et IAM, explications de chaque album et chanson, origine sociale, analyse du style régional et chronologie.
 
-Le hip-hop français est un mouvement culturel né dans les banlieues des villes françaises à la fin des années 1980 et, bien qu'influencé par le hip-hop américain, il s'est développé pour refléter son propre contexte social et culturel.
+Le hip-hop français est un mouvement culturel né dans les banlieues françaises à la fin des années 1980 et, bien qu'influencé par le hip-hop américain, il s'est développé pour refléter son propre contexte social et culturel.
 En particulier, les jeunes issus des communautés immigrées et des familles à faible revenu ont adopté le rap comme moyen d'exprimer leur voix, et les paroles contiennent des messages politiques et sociaux.
 
 ---

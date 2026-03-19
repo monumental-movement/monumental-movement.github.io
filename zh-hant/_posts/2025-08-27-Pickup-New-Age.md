@@ -50,7 +50,7 @@ B3. Dance of Bamboo
 <a href="https://jp.mercari.com/item/m31252450219?afid=6142608987"><img src="../assets/images/Fumio%20Miyashita%20-%20Meisou.webp"></a>
 
 
-特色：長野縣音樂家、音樂治療師、合成器演奏家宮下富雄的作品。
+特徴：長野県出身の音楽家・ミュージックセラピスト・シンセサイザー奏者である宮下富実夫による作品です。
 
 吸引力：具有促進深度冥想狀態的合成器音調，適合身心放鬆。
 
@@ -71,13 +71,13 @@ B3. Dance of Bamboo
 <br>
 
 ### 喜太郎 – 星界之旅
-<a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></arip>
+<a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></a>
 
 
-特色：喜多郎在1970年代初作為日本前衛搖滾樂隊“遠東家庭樂隊”的成員演奏鍵盤，後來發展了獨奏生涯。
+特色：喜多郎在1970年代初作為日本前衛搖滾樂團「遠東家庭樂團」的成員演奏鍵盤，後來發展了獨唱生涯。
 
 
-魅力：使用合成器展開的夢幻般的聲音世界，提供舒適的放鬆。
+魅力：シンセサイザーを駆使した幻想的な音世界が広がり、心地よいリラクゼーションを提供します。 
 
 #### 曲目表
 ```md
@@ -107,7 +107,7 @@ B5. Astral Trip
 ### 派崔克伯恩哈特 – 亞特蘭提斯安吉利斯
 <a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp">
 
-特色：這是帕特里克·伯恩哈特的一張專輯，由加拿大唱片公司“Imagine Records”發行。一個融合環境和新時代元素的奇妙聲音世界就此展開。
+特徴：カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムです。アンビエントとニューエイジの要素を融合させた幻想的な音世界が広がります。
 
 吸引力：具有促進深度冥想狀態的合成器音調，適合身心放鬆。
 
@@ -136,7 +136,7 @@ B3. Transcendastral Voyage
 
 
 ### 史蒂夫·里德——竹林
-<a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Fora.webp">
+<a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
 
 特色：美國爵士打擊樂演奏家兼製作人史蒂芬·里德的作品。
@@ -169,7 +169,7 @@ B3. Transcendastral Voyage
 <br>
 
 
-### 東尼歐康納－隱密森林
+### 東尼歐康納－隱藏森林
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Fora.webp">
 
 特色：澳洲環境/放鬆音樂創作者 Tony O'Connor 於 1996 年創作的雙唱片。
@@ -199,9 +199,9 @@ B3. Transcendastral Voyage
 ### 森林深處 – 森林深處
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp">
 
-特色： 法國雙人組合 Deep Forest 於 1992 年發行的專輯。它的特點是混合了民族音樂、電子音樂、舞曲節拍和休閒節拍的世界音樂風格。
+特色： 法國雙人組合 Deep Forest 於 1992 年發行的專輯。它的特點是混合民族音樂、電子音樂、舞曲節拍和休閒節拍的世界音樂風格。
 
-魅力：融合多種民族音樂的聲音，帶你踏上不同文化的旅程。
+魅力：多様な民族音楽を取り入れたサウンドが、異文化の旅へと誘います。
 
 #### 曲目表
 ```md

@@ -18,7 +18,7 @@ Max Lee，又名 Massimo Favarin，是一位義大利製作人和 DJ。他也是
 
 製作人是義大利 DJ 兼製作人 OTTOMIX (Ottorino Menardi)，他自 20 世紀 80 年代初以來一直發行舞曲/迪斯科曲目。
 
-《Intak Sistem》是一首硬派科技歌曲，由 Ottorino Menardi 和 Massimo Favarin 創立的義大利科技舞曲廠牌 Tax Disk 於 1992 年發行。
+「 Intak Sistem」は、Ottorino MenardiとMassimo Favarinが設立したイタリアのテクノダンスレーベルTax Diskから1992年にリリースされたハードコア・テクノトラック。
 
 #### 曲目表
 ```md

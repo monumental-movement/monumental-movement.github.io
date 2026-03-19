@@ -169,13 +169,13 @@ Dans Slowcore, les « pauses » et « l'atmosphère » de l'enregistrement sont 
 ---
 
 # 5. Effets psychologiques de la lenteur
-D’un point de vue psychologie musicale, une musique au tempo lent et à faible quantité d’informations favorise les éléments suivants :
+Du point de vue de la psychologie musicale, la musique au tempo lent et à faible contenu informatif favorise les éléments suivants :
 
 - **Introspection**
 - **Calme émotionnel**
 - ** Expansion de la conscience du temps (les chansons semblent plus longues) **
 
-Par conséquent, lorsque le Slowcore est fréquemment utilisé dans les films, les photographies et les œuvres vidéo, il présente une compatibilité extrêmement forte lorsqu'il s'agit d'exprimer le « temps arrêté ».
+Par conséquent, lorsque Slowcore est fréquemment utilisé dans des films, des photographies et des œuvres vidéo, il présente une compatibilité extrêmement forte lorsqu'il s'agit d'exprimer le « temps arrêté ».
 
 ---
 
@@ -236,7 +236,7 @@ flowchart TD
 # 10. Résumé
 Le Slowcore/Sadcore est un genre né dans les années 1990 dans la musique indépendante américaine et qui valorise la « quiétude ». Tempo lent, peu de notes, réverbérations lointaines et paroles introspectives. Ceux-ci sont nés à l’opposé de la musique intense, mais ils sont désormais à nouveau sous les projecteurs de la culture visuelle et des médias sociaux.
 
-Au contraire, la limitation de « moins de sons » **permet à l'auditeur de s'enfoncer plus profondément dans la musique, permettant ainsi aux contours du monde d'émerger plus clairement**.
+Au contraire, la limitation de « quelques sons » **permet à l'auditeur de s'enfoncer plus profondément dans la musique, permettant ainsi aux contours du monde d'émerger plus clairement**.
 Le slowcore est un type de musique unique qui dépeint discrètement les plus petites unités d'émotion.
 
 

@@ -75,7 +75,7 @@ Estos servirán más adelante como base para una mayor experimentación.
 * Diseño de imagen sonora que no esconde la artificialidad.
 * Expresión visual y producción musical simultáneas.
 
-Esta naturaleza experimental descompone la experiencia del oyente en múltiples capas y expande la escucha musical desde una "actividad únicamente auditiva".
+Esta naturaleza experimental descompone la experiencia del oyente en múltiples capas y expande la escucha musical desde un "acto sólo auditivo".
 
 ---
 

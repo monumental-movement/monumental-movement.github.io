@@ -13,7 +13,7 @@ title: Björk – ¿Quién es?
 ---
 
 
-Un remix de "Who Is It" de Björk realizado por Bogdan Raczynski, un gran DJ y productor polaco-estadounidense del sello Rephlex.
+Un remix de "Who Is It" de Bjork realizado por Bogdan Raczynski, un gran DJ y productor polaco-estadounidense del sello Rephlex.
 
 Este disco, lanzado en 2005, es la obra maestra del trabajo de remezclas de Bogdan Raczynski, tras las remezclas de Autechre y Ulver.
 

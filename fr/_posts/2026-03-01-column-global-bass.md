@@ -139,7 +139,7 @@ Même s’il existe des succès commerciaux, il est à l’origine ancré dans l
 La différence est qu'il est reconstruit dans le contexte d'une piste de danse de club plutôt que dans le contexte d'une musique d'appréciation.
 
 **Q. Êtes-vous actuellement en expansion? **
-De nouveaux rythmes régionaux sont connectés en permanence via TikTok et le streaming.
+De nouveaux rythmes régionaux sont continuellement connectés via TikTok et le streaming.
 
 > Global Bass est un mouvement en constante évolution.
 

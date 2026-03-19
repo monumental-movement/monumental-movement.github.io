@@ -11,7 +11,7 @@ tags:
 - Electro
 - Reggaeton
 - Favela Funk
-title: Edu K – Popozuda 搖滾樂
+title: Edu K – Popozuda 搖滾
 ---
 
 

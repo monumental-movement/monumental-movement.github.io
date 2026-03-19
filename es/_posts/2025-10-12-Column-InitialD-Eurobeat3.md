@@ -113,7 +113,7 @@ Y los sonidos que se producen en el interior no son una recreación del pasado, 
 
 ---
 
-## 4. Fusión de sonido y espacio: Instalación como música en marcha, experiencia en vivo
+## 4. Fusión de sonido y espacio: instalación como música en marcha, experiencia en vivo
 
 En varias partes del mundo ha comenzado un movimiento artístico que reproduce audiblemente la sensación de correr.
 
@@ -210,6 +210,14 @@ Ahora recorremos innumerables espacios virtuales a través de pantallas y altavo
 
 > Eurobeat no ha terminado.
 > Es sólo cuestión de cambiar el lugar donde corres.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2It7HPi2Ing?si=0hZVnLYZfEdLFICn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/various-go-head-now-get-live/
 tags:
 - Hiphop
 - 90s
-title: 各種 – Go Head Now 上線
+title: 各種 – Go Head Now 開始直播
 ---
 
 
@@ -28,5 +28,5 @@ B1  F.T., P-Dap & Hazu –Get Live (Original Mix)
 B2  F.T., P-Dap & Hazu –Get Live (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86496222032?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86496222032?afid=6142608987){: .button1}
 

@@ -149,7 +149,7 @@ timeline
 
 The sound of Three Suns still lingers.
 An old coffee shop on the corner, an old YouTube channel, or a lo-fi playlist.
-Somewhere in there, I can hear the breathing of an accordion.
+そのどこかで、アコーディオンの呼吸が聴こえる。
 
 > The accordion is the "lungs" between machines and humans.
 > That was the core of Three Suns' music.

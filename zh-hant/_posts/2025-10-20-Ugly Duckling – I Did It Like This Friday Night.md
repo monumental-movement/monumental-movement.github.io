@@ -15,7 +15,7 @@ title: 醜小鴨－我就像這個星期五晚上那樣
 
 醜小鴨是1993年在長灘組成的美國代表性地下嘻哈團體。成員為安迪·庫柏、達斯汀·麥克法蘭、羅德尼·普萊森特。
 
-「I Did It Like This / Friday Night」於 2000 年由英國嘻哈廠牌 Bad Magic 發行。
+「I Did It Like This / Friday Night」は、2000年にUKのHipHopレーベルBad Magicからリリースされた。
 
 #### 曲目表
 ```md

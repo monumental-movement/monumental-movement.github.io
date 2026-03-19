@@ -25,7 +25,7 @@ Texte : mmr｜Thème : Comment la musique brésilienne a évolué et a été rec
 Alors que la musique brésilienne continue d'être réévaluée dans le monde entier, Sabrina Mallheiros est la personne qui a combiné avec souplesse les sensibilités de la samba soul, du funk, de la bossa nova et de la néo-soul. Descendants d'Azimuth, dirigés par Aza Mallheiros, ils ont été soutenus avec enthousiasme par les communautés musicales de Londres, du Japon et d'Europe.
 
 En particulier, son album **Clareia** de 2017 a été le moment où son univers musical s'est le plus clairement épanoui.
-Son titre **« Clareia »** a ensuite trouvé une nouvelle vie dans la communauté de la danse underground, donnant naissance à des remix de personnalités clés du jazz/broken beat britannique, notamment **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** et **IG Culture**.
+Sa chanson titre **« Clareia »** a ensuite trouvé une nouvelle vie dans la communauté de la danse underground, donnant naissance à des remix de personnalités clés du jazz/broken beat britannique, notamment **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** et **IG Culture**.
 
 
 ---
@@ -49,7 +49,7 @@ color: #fff;
 Sabrina Mallheiros est originaire de Rio de Janeiro.
 Son père est **Alex Malheiros**, le bassiste d'Azimuth (plus tard également connu sous le nom d'Azymuth). La musique d'Azimuth, à laquelle elle est exposée depuis l'enfance, oscille librement entre le funk, le jazz, la samba et la fusion.
 
-Azimuth est populaire dans le monde entier depuis les années 1970 et a été échantillonné par un large éventail d'artistes du club jazz, du futur jazz, de la house et du hip-hop. La « sensation de flottement », le « groove doux » et la « sensation d'accord cosmique » de la performance live sont fortement hérités des œuvres de Sabrina.
+Azimuth est populaire dans le monde entier depuis les années 1970 et a été échantillonné par un large éventail d'artistes du club jazz, du futur jazz, de la house et du hip-hop. Le « sentiment de flottement », le « groove doux » et le « sentiment d'accord cosmique » de la performance live sont fortement hérités des œuvres de Sabrina.
 
 Cependant, la musique de Sabrina n'est pas une imitation directe de son père, mais a un fort sentiment d'« élégance en tant que chanteuse » et d'« âme urbaine ». Tout en prenant la souplesse rythmique d'Azimuth comme leur ADN, ils l'ont transformé en une texture plus lyrique et plus douce.
 
@@ -57,7 +57,7 @@ Cependant, la musique de Sabrina n'est pas une imitation directe de son père, m
 
 ## **2. Premiers travaux : signes d’une nouvelle génération de samba soul**
 
-### ● **« Équilibres » (2005)**
+### ● **« Équilibres » (2005)**
 
 Dans cette première œuvre, la combinaison de la « voix chantante transparente » de Sabrina et du « rythme moderne » était déjà établie. Tout en mêlant samba, MPB et soul, il présente une texture qui brouille les frontières entre acoustique et électrique.
 
@@ -73,11 +73,11 @@ Depuis ses débuts, Sabrina a toujours visé une « coexistence de la tradition 
 
 ### ● Photo globale de l'album
 
-« Clareia » signifie « éclaircir » et « éclairer ». Tout comme le titre l'indique, l'album entier est plein d'une clarté semblable à celle du soleil et de grooves doux.
+« Clareia » signifie « éclairer » et « éclairer ». Tout comme le titre l'indique, l'album entier est plein d'une clarté semblable à celle du soleil et de grooves doux.
 
 Il y a des moments de jazz-funk doux qui vous donnent une impression directe de la lignée d'Azimuth, tandis que les mélodies sophistiquées, les belles cordes et les percussions légères de MPB sont délicieusement combinées.
 
-### ● Chanson titre « Clareia »
+### ● Chanson titre « Clareia »
 
 Cette chanson, qui peut être considérée comme un symbole de l'album, combine la voix douce de Sabrina, les percussions dynamiques et les lignes fluides du clavier pour créer une texture claire de lumière.
 
@@ -94,7 +94,7 @@ En particulier, le remix de « Clareia » par les trois groupes suivants qui ont
 
 ---
 
-### ** ● Remix de Henry Wu (Kamaal Williams) **
+### **Quantity Henry Wu (Kamaal Williams) Remix**
 
 Henry Wu était une figure centrale du mouvement de renaissance du jazz du sud de Londres, également connu sous le nom de Yussef Kamaal.
 
@@ -114,7 +114,7 @@ En conséquence, "Clareia" a acquis un nouveau look qui se fond naturellement su
 
 2000 Black, de Dego et Kaidi Tatham, est connu comme l'un des labels et projets les plus importants du Broken Beat.
 
-La version 2000 Black de « Clareia » est composée d'un rythme brisé plus entraînant et d'une ligne de basse épaisse, créant un beau contraste avec la voix chantée de Sabrina. Tout en héritant de la « progression d'accords fluide » que l'on peut appeler le style d'Azimuth, il est réinterprété avec la sensation funk futuriste propre à 2000 Black.
+La version 2000 Black de « Clareia » est composée d'un rythme brisé plus entraînant et d'une ligne de basse épaisse, créant un beau contraste avec la voix chantée de Sabrina. Tout en héritant de la « progression d'accords fluide » que l'on peut appeler le style d'Azimuth, il est réinterprété avec la sensation funk futuriste unique à 2000 Black.
 
 La sensation est exactement
 **« Âme du futur brésilien »**

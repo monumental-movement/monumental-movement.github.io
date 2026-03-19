@@ -37,7 +37,7 @@ Dirigés par Juan Atkins, Derrick May et Kevin Saunderson (pas le soi-disant « 
 
 ### Contexte culturel et social : l'ombre de la ville industrielle de Détroit
 
-Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y poussait.
+Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y a grandi.
 
 D’un autre côté, la culture des DJ radio afro-américains (par exemple des curateurs comme Electrifying Mojo) et la culture des clubs se sont mélangées à la musique électronique européenne (en particulier Kraftwerk) pour créer une direction unique (l’influence de Kraftwerk et d’autres est souvent soulignée).
 
@@ -49,7 +49,7 @@ D’un autre côté, la culture des DJ radio afro-américains (par exemple des c
 
 - Construit autour de boîtes à rythmes (TR-808/909) et de synthés (type Roland, analogiques).
 
-- Superposez un travail de synthé mélodique/textural sur des rythmes répétitifs simples.
+- Superposez un travail de synthétiseur mélodique/textural sur des rythmes répétitifs simples.
 
 - Le style Detroit est plus froid et mécanique que la house, mais il a « de la mélodie et de l'émotion ».
 
@@ -118,7 +118,7 @@ La techno de Détroit s'est combinée à la culture rave et club berlinoise dans
 
 **Mode** : Les vêtements de travail, l'utilité et l'esthétique minimale/fonctionnelle influencent les tenues de club.
 
-**Visuel/Art** : les œuvres d'art utilisant des textures industrielles et des contrastes entre le néon et l'acier sont en hausse.
+**Visuel/Art** : les œuvres d'art utilisant des textures industrielles et des contrastes entre le néon et l'acier sont à la hausse.
 
 **Perspective technologique** : La démocratisation du matériel de production musicale (distribution de matériel d'occasion, synthétiseurs bon marché) a conforté l'idée selon laquelle « n'importe qui peut produire de la musique ».
 

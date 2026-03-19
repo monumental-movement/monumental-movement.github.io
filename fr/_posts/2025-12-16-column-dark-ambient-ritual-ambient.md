@@ -22,7 +22,7 @@ Texte : mmr｜Thème : Formation d'une expérience immersive à travers le son
 
 Dark Ambient n'est pas une extension sémantique de la musique ambiante, mais une expression sonore créée en réduisant intentionnellement des éléments musicaux.
 
-Les éléments d’identification de la musique, tels que la mesure, la mélodie et l’instrumentalité, s’éloignent et les éléments suivants sont mis au premier plan :
+Les éléments d'identification de la musique, tels que la mesure, la mélodie et l'instrumentalité, s'éloignent et les éléments suivants sont mis au premier plan :
 
 * Son soutenu
 * Déséquilibre de bande de fréquence
@@ -56,7 +56,7 @@ De la fin des années 1970 aux années 1980, les gens autour de la musique indus
 * Conception de fréquence en gardant à l'esprit l'inconfort
 * Refus de répéter ou d'élargir
 
-Ces tentatives ont abouti à une « musique qui ne peut pas être entendue » et ont jeté les bases du son immersif auquel aspirait plus tard Dark Ambient.
+Ces tentatives ont abouti à une « musique qui ne peut pas être entendue », ce qui a jeté les bases du son immersif auquel aspirait plus tard Dark Ambient.
 
 ---
 
@@ -239,7 +239,7 @@ Bien que le nombre produit soit limité, il conserve sa valeur de référence.
 
 Lustmord et Raison d’être sont les références qui ont établi la méthodologie Dark Ambient / Ritual Ambient.
 
-Leur influence n’est pas une imitation musicale ;
+Leur influence n'est pas une imitation musicale ;
 
 * Conception d'espace
 * Manipulation perceptuelle

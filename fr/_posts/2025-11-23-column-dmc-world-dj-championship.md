@@ -19,7 +19,7 @@ title: '[Chronique] DMC World DJ Championship : La trajectoire du platinisme ve
 
 # DMC World DJ Championship——Histoire mondiale du platinisme
 
-Texte : mmr｜Thème : Histoire du DMC World DJ Championship, innovation technologique, financement participatif, évolution du championnat du monde, réalisations des joueurs japonais, culture de l'équipement, Turntablism
+Texte : mmr｜Thème : Histoire du DMC World DJ Championship, innovation technologique, crowdfunding, histoire du championnat du monde, réalisations des joueurs japonais, culture de l'équipement, Turntablism
 
 Connu comme l'une des plus grandes batailles de DJ au monde, le **DMC World DJ Championship (ci-après dénommé DMC)** a progressé avec la croissance de la culture du platinisme depuis sa création en 1985.
 Le processus par lequel les techniques des DJ hip-hop sont devenues indépendantes en tant qu'« expression musicale » et ont été institutionnalisées en tant que « compétition mondiale » est une histoire unique, sans précédent dans aucun autre genre.
@@ -61,7 +61,7 @@ Lors du tournoi de 1986, il a exécuté une routine mettant l'accent sur le grat
 
 À partir de ce moment, le monde a commencé à partager la valeur selon laquelle « le turntablism, y compris le scratch, décide du jeu ».
 
-## 2-2　1988-1990 : Vers l'ère du sampling, du beat juggling et de la composition
+## 2-2　1988-1990 : Vers l'ère du sampling, du beat jonglerie et de la composition
 Après Cheese, les DJ ne se contentaient pas de jouer des chansons ;
 - Reconfigurer manuellement les rythmes
 - hacher les morceaux
@@ -152,7 +152,7 @@ L'histoire du DMC est aussi l'**histoire technique du platinisme**.
 Ces innovations technologiques permettront aux DJ d'accéder à une position similaire à celle des « beatmakers » et des « compositeurs ».
 
 ## 6-2 Division et ensemble d'équipe
-Comme l'ont démontré C2C (France), Kireek (Japon), The Mixfitz (Canada), etc., la catégorie équipe est plus qu'une simple exposition de compétences de scratch ;
+Comme l'ont démontré C2C (France), Kireek (Japon), The Mixfitz (Canada), etc., la catégorie équipe est plus qu'une simple exposition de compétences de grattage ;
 - Orchestration avec 4 personnes en même temps
 - Composé comme une performance live
 - Production synchronisée avec la vidéo

@@ -13,9 +13,9 @@ title: Le concert dur – Obtenez le pouvoir
 ---
 
 
-The Hard Concertは、イタリアのプロデューサーPaolo Armaroli、イタリアのダンスレーベルDJ Movementの創設者でありDJ/プロデューサーのPieradis Rossini、ダンスミュージックプロデューサー/DJのGraziano Fanelli、イタリアのプロデューサーMarco Rizziによるイタロ・ユーロダンスプロジェクト。
+The Hard Concert est un projet Italo-Eurodance du producteur italien Paolo Armaroli, du DJ/producteur Pieradis Rossini, fondateur du label de danse italien DJ Movement, du producteur/DJ de musique dance Graziano Fanelli et du producteur italien Marco Rizzi.
 
-「Get The Power」はThe Hard Concert の最高傑作といわれている。
+"Get The Power" est considéré comme le chef-d'œuvre de The Hard Concert.
 
 #### Liste des chansons
 ```md

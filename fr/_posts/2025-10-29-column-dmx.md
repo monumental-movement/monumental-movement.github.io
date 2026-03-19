@@ -239,7 +239,7 @@ timeline
 
 ---
 
-## Annexe : Analyse de la structure sonore (relation entre le rythme et la voix)
+## Annexe : Analyse de la structure sonore (relation entre le rythme et la voix)
 
 <div class="mermaid">
 
@@ -257,8 +257,8 @@ D -->|静寂| F[祈りの独白]
 
 ## Chapitre final : Prière d'aboiement
 
-La musique de DMX n'est pas un « témoignage de la rue » mais un « disque de l'âme ».
-Ce cri est la vérité même de ceux qui ont vécu leur vie accrochés à leur foi sans céder à la violence.
+La musique de DMX n'est pas un « témoignage de rue » mais un « disque de l'âme ».
+Ce cri est la vérité même de ceux qui ont vécu leur vie en s’accrochant à leur foi sans céder à la violence.
 
 > "Si tu es réel, tu vas le ressentir." -DMX
 

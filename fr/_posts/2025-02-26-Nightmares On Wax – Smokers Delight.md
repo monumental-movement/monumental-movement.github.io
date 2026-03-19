@@ -15,7 +15,7 @@ title: Cauchemars sur cire – Délice des fumeurs
 ---
 
 
-Smokers Delight de Nightmares On Wax (1995), le deuxième album du projet du producteur britannique George Evelyn, est sorti sur Warp Records et a consolidé sa place dans l'histoire du downtempo et du trip-hop. Cet album reste un chef-d’œuvre intemporel, transportant les auditeurs dans un royaume de détente apaisant, à l’écart de l’agitation de la culture club.
+Smokers Delight de Nightmares On Wax (1995), le deuxième album du projet du producteur britannique George Evelyn, est sorti sur Warp Records et a consolidé sa place dans l'histoire du downtempo et du trip-hop. L’album reste un chef-d’œuvre intemporel, transportant les auditeurs dans un royaume de détente apaisant, à l’écart de l’agitation de la culture des clubs.
 
 Tout d’abord, le cœur de « Smokers Delight » réside dans son « groove détendu ». L'album s'ouvre sur "Nights Introlude", avec des cordes douces et un rythme doux qui échantillonne "Summer In The City" de Quincy Jones, attirant instantanément l'auditeur dans un espace de détente.
 

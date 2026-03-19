@@ -9,7 +9,7 @@ permalink: /zh-hant/fumiya-tanaka-player-ep/
 tags:
 - Techno
 - Tribal
-title: 田中文也 – 玩家 EP
+title: Fumiya Tanaka – Player EP
 ---
 
 

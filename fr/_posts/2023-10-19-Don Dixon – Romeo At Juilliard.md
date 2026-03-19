@@ -9,11 +9,11 @@ permalink: /fr/don-dixon-romeo-at-juilliard/
 tags:
 - Rock
 - Indie Rock
-title: Don Dixon – Romeo At Juilliard
+title: Don Dixon – Roméo à Juilliard
 ---
 
 
-Don Dixon（ドン・ディクソン）は、アメリカのプロデューサー/ソングライター/ミュージシャン。1970年代はノースカロライナのロックバンドArrogance（アラガンス）で活躍し、1980年代からは数々のインディース系バンドをプロデュースし、USオルタナティヴ・ロックバンドR.E.M.のプロデュースにも関わった。
+Don Dixon est un producteur/compositeur/musicien américain. Dans les années 1970, il a été actif dans le groupe de rock de Caroline du Nord Arrogance et, à partir des années 1980, il a produit un certain nombre de groupes indépendants et a également participé à la production du groupe de rock alternatif américain R.E.M.
 
 #### Liste des chansons
 ```md

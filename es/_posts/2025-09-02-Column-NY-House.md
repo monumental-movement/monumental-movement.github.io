@@ -137,7 +137,7 @@ Después de la pandemia, el streaming online y los clubes virtuales se han popul
 - **Garaje Paraíso (1977–1987)**
 La legendaria casa de Larry Levan. El punto de partida de NY House.
 
-- **El Desván**
+- **El desván**
 Presentado por David Mancuso. El origen de la cultura de las fiestas privadas.
 
 - **Fábrica de sonido (1989–1995)**

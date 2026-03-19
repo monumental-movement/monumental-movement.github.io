@@ -18,7 +18,7 @@ title: Marschmellows – Pouvoir de l’âme
 
 Marschmellows est un projet de musique électronique basé en Allemagne de la fin des années 1990 aux années 2000. Leur son est une fusion de Future Jazz, Broken Beat et downtempo, et ils sont connus comme l'un des artistes représentatifs de Francfort, le prestigieux label allemand INFRACom !.
 
-"Soulpower" est un morceau House/Broken Beat/Future Jazz sorti sur le label INFRACom ! en 1998, qui figure également dans l'album "Rebound".
+"Soulpower" est un morceau House/Broken Beat/Future Jazz sorti sur le label INFRACom ! en 1998 et également inclus sur l'album "Rebound".
 
 B est un remix de Jazzanova, un collectif de DJ/producteurs allemand basé à Berlin.
 

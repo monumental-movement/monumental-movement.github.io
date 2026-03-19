@@ -51,7 +51,7 @@ color: #fff;
 
 ## 1. De « passe » à « orbite » : la gradation de l'espace musical tracée par Eurobeat
 
-Comme mentionné dans les deux ouvrages précédents, l'Eurobeat d'Initial D était indissociable de l'histoire de Toge.
+Comme évoqué dans les deux ouvrages précédents, l'Eurobeat d'Initial D était indissociable de l'histoire de Touge.
 Cependant, il ne s'agissait pas seulement d'une aide au terrain et à la production visuelle, mais d'un **dispositif qui traduisait la distorsion du temps en son**.
 
 Avec le recul, nous pouvons dire que l'Eurobeat était un genre qui visualisait acoustiquement le « temps interne d'un corps en marche ».
@@ -148,7 +148,7 @@ L'ère où « votre conduite devient une chanson » commence déjà à devenir
 
 Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x propre vidéo de conduite » a augmenté de manière explosive.
 Il ne s'agit pas seulement de nostalgie, mais fonctionnent comme un « nouveau format pour partager la sensation de conduire ».
-Il s'agit, pour ainsi dire, d'un « média de partage rapide ».
+Il s'agit, pour ainsi dire, d'un « support de partage rapide ».
 
 ### ● NFT/Blockchain et redéfinition de la propriété musicale
 
@@ -160,7 +160,7 @@ Eurobeat se transforme ainsi en **Accélération Sauvée**.
 
 ## 6. Conclusion : Eurobeat peut-il se transformer en « accélération sauvée » ?
 
-Ce que « Initial D » présentait était une « théorie sensorielle de la vitesse » dans laquelle les voitures et la musique ne faisaient plus qu'un.
+Ce que « Initial D » présentait était une « théorie sensorielle de la vitesse » dans laquelle les voitures et la musique ne faisaient qu'un.
 Cet esprit continue de perdurer, quoique sous une forme différente à l’ère numérique.
 L'Eurobeat est relancé non pas comme une chose nostalgique, mais comme un support qui enregistre, joue et génère de la vitesse.
 

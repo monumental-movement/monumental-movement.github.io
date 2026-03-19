@@ -10,14 +10,14 @@ tags:
 - Indie Rock
 - Psychedelic Rock
 - 90s
-title: Kula Shaker – K
+title: Kula Shaker-K
 ---
 
 
 
-Kula Shaker（クーラ・シェイカー）は、1990年代のブリットポップ時代に頭角を現した、フロントマンの Crispian Mills率いるイギリスのサイケデリック／インディー・ロックバンド。
+Kula Shaker est un groupe britannique de rock psychédélique/indie dirigé par le leader Crispian Mills qui a pris de l'importance au cours de l'ère Britpop des années 1990.
 
-1996年にリリースしたデビューアルバム『K』は、イギリスアルバムチャートで1位を獲得した、Kula Shakerの代表作。
+Le premier album de Kula Shaker, « K », sorti en 1996, est le chef-d'œuvre de Kula Shaker, atteignant le numéro un des charts britanniques.
 #### Liste des chansons
 ```md
 1. Hey Dude

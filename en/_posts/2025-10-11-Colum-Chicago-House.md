@@ -191,7 +191,7 @@ Chicago house rhythms are deeply engraved in urban culture and people's bodies, 
 
 ### Outlook for the future
 
-Chicago house is more than just a music genre from the past; it continues to influence future club culture and music production as an intersection of urban culture, social movements, technology, and music.
+Chicago house is more than just a musical genre from the past; it continues to influence future club culture and music production as an intersection of urban culture, social movements, technology, and music.
 A new generation of artists samples classic songs from the past and reinterprets them into modern rhythms. Due to urban redevelopment and advances in digital technology, the physical and virtual experiences of club spaces will become more diverse. The ideals of social inclusion and diversity are rooted in Chicago House's concept of a "free and safe space of expression."
 
 ---
@@ -206,6 +206,16 @@ The fusion of groove and technology forged by pioneers like Frankie Knuckles and
 Its influence extends to British acid house, Detroit techno, modern EDM and deep house, and Chicago beats continue to live on in clubs around the world today. Chicago house is both a legacy of the past and a beacon for the musical culture of the future.
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CBljRXzYvk?si=3mJHk6QtxdBAihsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Related columns
 

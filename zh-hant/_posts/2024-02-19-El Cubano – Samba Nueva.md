@@ -10,7 +10,7 @@ tags:
 - Samba
 - Latin
 - Euro House
-title: 古巴諾 – 新森巴舞
+title: El Cubano – Samba Nueva
 ---
 
 

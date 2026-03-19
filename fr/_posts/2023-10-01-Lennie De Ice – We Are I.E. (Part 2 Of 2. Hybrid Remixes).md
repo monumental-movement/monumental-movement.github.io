@@ -9,11 +9,11 @@ permalink: /fr/lennie-de-ice-we-are-i-e-part-2-of-2-hybrid-remixes/
 tags:
 - Break Beat
 - Remix
-title: Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes)
+title: Lennie De Ice – Nous sommes I.E. (Partie 2 sur 2. Remixes hybrides)
 ---
 
 
-#### Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes)
+#### Lennie De Ice – Nous sommes I.E. (Partie 2 sur 2. Remixes hybrides)
 
 #### Liste des chansons
 ```md
@@ -24,7 +24,7 @@ B1. We Are I.E. (Hybrid's Lite Mix)
 B2. We Are I.E. (Hybrid's Dark Mix)
 ```
 
-「We Are I.E.」は、イギリスのブレイクビート&ハードコアプロデューサー、Lennie De Ice(レニー・デ・アイス　本名レンワース・グリーン)の楽曲です。ジャングル・クラシックをHybridがremix。
+"Nous sommes I.E." est une chanson du producteur britannique breakbeat et hardcore Lennie De Ice (de son vrai nom Lenworth Green). Hybrid remixe le classique de la jungle.
 
 [メルカリで購入](https://jp.mercari.com/item/m42932508768?afid=6142608987){: .button1}
 

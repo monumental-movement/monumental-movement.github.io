@@ -17,7 +17,7 @@ title: 挑選Outlaw的作品
 ---
 
 
-“偏差是互動的產物，Outlaw 起作用”
+「逸脱は相互作用の産物、アウトロー（Outlaw）作品群」
 
 <小時>
 
@@ -28,7 +28,7 @@ title: 挑選Outlaw的作品
 
 類型：實驗噪音
 
-簡介： 這是噪音藝術家 Merzbow 破壞性表達的終極作品，由重要唱片公司於 2004 年發行。
+概要：2004年にImportant Recordsからリリースされた、ノイズ・アーティスト・Merzbowによる破壊的表現の極致作品。
 
 
 亡命之徒的感覺：將聲音破壞提升到藝術水平的反抗是導致音樂本身偏離規範的「法律暴力」。外圍不受限制破壞的象徵。
@@ -57,7 +57,7 @@ title: 挑選Outlaw的作品
 
 格式：CD
 
-類型：混合科技
+ジャンル：Mix Techno
 
 簡介： 2004年發布，與Tresor合作的作品。一位領先的 techno 製作人的深入介紹。
 
@@ -93,7 +93,7 @@ title: 挑選Outlaw的作品
 
 格式：CD
 
-類型： 德國電子音樂 / 合輯
+ジャンル：German Techno / Compilation
 
 簡介： 發行於 1998 年，這是一張華麗的合輯，俯瞰 80 年代和 90 年代的 techno 場景。
 
@@ -133,9 +133,9 @@ title: 挑選Outlaw的作品
 
 類型： 德國電子音樂 / 合輯
 
-摘要：1999年版。一個提供「深度科技」鳥瞰圖的經典系列。
+摘要：1999年版。一个提供“深度科技”鸟瞰图的经典系列。
 
-亡命之徒的感覺：一次對聲音之城陰暗面的朝聖，將多個亡命之徒的聲音以合輯的形式組合在一起。
+アウトロー感：コンピという形式で複数のアウトロー音を束ねた、サウンド都市の暗部巡礼。
 
 #### 曲目表
 ```md
@@ -168,7 +168,7 @@ title: 挑選Outlaw的作品
 
 格式：乙烯基
 
-類型： Acid / Techno / Trance
+ジャンル：Acid / Techno / Trance
 
 簡介： 1992 年發行，是 Tresor 早年的精彩合輯。這是體現「家庭迴響」的歷史作品。
 
@@ -200,8 +200,8 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 <br>
 
 
-### Benga & Walsh vs Darqwan – 癮君子/大保護
-<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%2000%)>
+### Benga & Walsh vs Darqwan – Addicts / Megatection
+<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
 格式：黑膠唱片/CD
 
@@ -234,7 +234,7 @@ B. Darqwan–Megatection
 
 格式：乙烯基
 
-類型： 迴響貝斯/電子
+ジャンル：Dubstep / Electronic
 
 簡介： 一張捕捉 2000 年代初期英國電子音樂前沿的唱片。
 
@@ -259,11 +259,11 @@ B. Cosmic Minefield
 
 
 ### Skrillex – 可怕的怪物和漂亮的精靈
-<a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
+<a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%200%20%E2%80%93%20Scary%20Monsters%200%200.
 
 格式：CD
 
-類型：迴響貝斯 / 電子 / 前衛 House
+ジャンル：Dubstep / Electro / Prog House
 
 簡介： 2012年發行日文版。一部震撼主流界線的里程碑式作品。
 

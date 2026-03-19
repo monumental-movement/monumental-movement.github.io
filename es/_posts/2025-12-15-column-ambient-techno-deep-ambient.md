@@ -21,7 +21,7 @@ Texto: mmr｜Tema: En lugar de separar los dos como nombres de género, los dos 
 
 Ambient Techno es un campo de la música electrónica que se estableció a principios de la década de 1990 y es un estilo musical que combina la estructura rítmica repetitiva del techno con la espacialidad y sostenibilidad de la música ambiental. Su característica distintiva es que conserva el sentido del tiempo de la música de club y al mismo tiempo funciona como música para apreciar.
 
-Deep Ambient (el llamado ambiente de aguas profundas) tiene un mayor nivel de abstracción y no requiere la presencia de ritmos. La atención se centra principalmente en imágenes sonoras extremadamente profundas, sonidos sostenidos centrados en bandas de baja frecuencia y composiciones que oscurecen los contornos del tiempo.
+Deep Ambient (el llamado ambiente de aguas profundas) tiene un mayor nivel de abstracción y no requiere la presencia de ritmos. La atención se centra principalmente en imágenes sonoras extremadamente profundas, sonidos sostenidos centrados en bajas frecuencias y composiciones que oscurecen los contornos del tiempo.
 
 ---
 
@@ -101,7 +101,7 @@ La música ambiental de aguas profundas tiene una gran afinidad con la concentra
 
 ## 8. Redefiniendo el ritmo
 
-El ritmo en Ambient Techno no es una orden para mover el cuerpo. Los impulsos que aparecen a intervalos regulares son la base para medir el tiempo, como un medidor de profundidad.
+El ritmo en Ambient Techno no es una orden para mover el cuerpo. Los pulsos que aparecen a intervalos regulares son la base para medir el tiempo, como un profundímetro.
 
 En Deep Ambient, incluso este estándar puede eliminarse, pero en lugar de ser completamente atemporal, el tiempo interno se mantiene a través de fluctuaciones diminutas.
 
@@ -119,7 +119,7 @@ La diferencia decisiva con la música ambiental de las profundidades marinas res
 
 ## 10. Comparación con el Deep Techno
 
-Deep Techno se caracteriza por su estructura mínima, tempo lento y desarrollo restringido, y es música que busca la profundidad manteniendo el contexto del club.
+Deep Techno se caracteriza por una estructura mínima, un tempo lento y un desarrollo restringido, y es música que busca la profundidad manteniendo el contexto del club.
 
 Mientras que Ambient Techno/Deep Ambient se distancia de la naturaleza de club, Deep Techno introduce un sonido de aguas profundas conservando la función de suelo. Esta diferencia crea una clara diferencia en el uso y la postura de escucha.
 

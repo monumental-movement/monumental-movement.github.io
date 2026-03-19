@@ -10,7 +10,7 @@ tags:
 - House
 - Latin
 - 00s
-title: 東加 – 歡迎來到森巴敦
+title: Tonga – Welcome To Sambatown
 ---
 
 

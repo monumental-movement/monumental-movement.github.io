@@ -175,7 +175,7 @@ Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.
 Presentar la "tranquilidad japonesa" a nivel mundial a través de giras mundiales. Es respetado por la escena hip-hop occidental.
 
 #### Tecnología de producción
-Un estilo que considera el tocadiscos como un "instrumento" e intenta fusionarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
+Un estilo que considera el tocadiscos como un "instrumento" e intenta combinarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
 
 #### El vídeo funciona
 
@@ -196,6 +196,15 @@ La sensación cinematográfica del trip hop es perfecta para crear bandas sonora
 
 El trip hop evolucionó a través de la pesadez de Massive Attack, el hastío de Portishead, la estética sample de DJ Shadow y la serenidad japonesa de DJ Krush.
 Hoy en día, está evolucionando hacia una nueva era combinando la generación de música con IA y la producción de bandas sonoras.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ay0HS8iWrI?si=BlgLowTv8OAg-Xn8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

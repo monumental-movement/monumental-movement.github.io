@@ -9,7 +9,7 @@ permalink: /zh-hant/elvis-aloha-from-hawaii-via-satellite/
 tags:
 - Rock
 - 70s
-title: 艾維斯 – 來自夏威夷的阿羅哈 (透過衛星)
+title: Elvis – Aloha From Hawaii Via Satellite
 ---
 
 
@@ -17,7 +17,7 @@ title: 艾維斯 – 來自夏威夷的阿羅哈 (透過衛星)
 
 1973 年 1 月 14 日星期日中午 12:30 在檀香山國際中心現場錄製。
 
-這張專輯是電視特別節目播出後匆忙發行的日本特有合輯。
+このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
 
 #### 曲目表
 ```md

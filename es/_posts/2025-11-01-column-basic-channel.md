@@ -18,7 +18,7 @@ title: '[Columna] Canal Básico──El origen del dub techno berlinés'
 ## Prólogo: Del ruido anónimo a una revolución silenciosa
 
 
-Texto: mmr｜Tema: El “abismo del sonido” nacido del underground de Berlín en los años 1990—La historia de la creación de Basic Channel y Dub Techno
+Texto: mmr｜Tema: “Abyss of sound” nacido del underground de Berlín en los años 1990 - Historia de la creación de Basic Channel y Dub Techno
 
 
 En 1993, apenas unos años después de la caída del Muro de Berlín.
@@ -101,7 +101,7 @@ En 1995, Basic Channel estableció una subetiqueta, **Chain Reaction**.
 Aquí se desarrolló un proyecto más anónimo y experimental.
 Aquí se cruza la genealogía de la música electrónica berlinesa posterior, incluidos Monolake, Porter Ricks, Vladislav Delay y Substance.
 
-Características de la reacción en cadena:
+Características de reacción en cadena:
 - No hay nombre del artista en la portada, sólo el número de catálogo.
 - Una sensación de unidad como si todas las fuentes sonoras compartieran el “mismo espacio”
 - No una producción en masa, sino una **red ideológica basada en una cadena de sonidos**
@@ -150,7 +150,7 @@ Hoy en día, la influencia de Basic Channel se puede ver en todas partes.
 |:--|:--|:--|
 | **Acorde profundo / Ecoespacio** | Techno espacial de Detroit | Ampliación orgánica del retraso |
 | **Flusión** | Doblaje mínimo de Grecia | El edificio se siente descendiente directamente de Chain Reaction |
-| **Gas (Wolfgang Voigt)** | Fusión de ambient + clásica | Una metáfora que utiliza la reverberación como un “bosque” |
+| **Gas (Wolfgang Voigt)** | Fusión de ambient + clásica | Una metáfora que utiliza la reverberación como “bosque” |
 | **Yagya** | Claridad islandesa | Transpirabilidad del ritmo |
 | **cv313** | Construcción de presión sonora orientada a lo analógico | Herencia espiritual del Canal Básico |
 

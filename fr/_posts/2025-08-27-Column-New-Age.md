@@ -14,7 +14,7 @@ title: '[Chronique] Musique New Age - L''intersection de la méditation et du pa
 ---
 
 
-## --Harmonie avec la nature, introspection et guérison--
+## --Harmonie avec la nature, réflexion sur soi et guérison--
 
 
 Texte : mmr｜Thème : Relation profonde avec l'idéologie New Age et la contre-culture
@@ -80,7 +80,7 @@ Il s’est étendu à tous les aspects du style de vie tels que l’art, l’arc
 
 ### Réévaluation contemporaine
 
-La musique new age actuelle s'est éloignée du simple fait d'être une simple « musique de guérison » et est évaluée d'une nouvelle manière dans le contexte suivant.
+La musique new age actuelle s'est éloignée du simple rôle de « musique de guérison » et est évaluée d'une nouvelle manière dans le contexte suivant.
 
 - **Culture lo-fi et chill-out** : attention renouvelée pour la « musique à écouter » à l'ère du streaming.
 
@@ -94,10 +94,10 @@ La musique new age actuelle s'est éloignée du simple fait d'être une simple �
 
 ### Incarner une « oasis sonore »
 
-La musique New Age était souvent décrite comme une « musique de fond », pour parler franchement. Cependant, son son méditatif et non agressif est devenu l'incarnation de « l'oasis sonore » recherchée par les gens à mesure que l'urbanisation et les technologies de l'information progressent.
+La musique New Age était souvent décrite comme une « musique de fond », pour le dire crûment. Cependant, son son méditatif et non agressif est devenu l'incarnation de « l'oasis sonore » recherchée par les gens à mesure que l'urbanisation et les technologies de l'information progressent.
 Dans les temps modernes, il a été réabsorbé dans des genres tels que l’ambient et le chillout, mais ses idéaux – harmonie avec la nature, introspection et guérison – sont devenus encore plus urgents.
 
-Le Nouvel Âge n’est pas une mode passagère du passé ; c'est une culture musicale qui continue de jouer discrètement mais sûrement un rôle dans la vie des gens.
+Le New Age n'est pas une mode passagère du passé, mais une culture musicale qui continue de jouer, discrètement mais sûrement, un rôle dans la vie des gens.
 
 ---
 

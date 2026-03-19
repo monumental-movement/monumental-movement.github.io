@@ -14,7 +14,7 @@ title: 舒伯特 – 不要相信和弦流行音樂的炒作
 ---
 
 
-由萊比錫的德國 techno 製作人舒伯特（又名 Matthias Kretzschmar）製作的簡約 techno 曲目。
+由萊比錫的德國 techno 製作人 Schubert（又名 Matthias Kretzschmar）製作的簡約 techno 曲目。
 
 聯合製作人是 Daniel Stefanik，他是一位德國 DJ 兼製作人，也住在萊比錫。
 

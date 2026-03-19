@@ -14,7 +14,7 @@ title: DJ Scot 專案 – O
 
 
 DJ Scot Project（Frank Zenker）是一位德國 DJ/製作人，自 90 年代以來在 Hard trance 領域取得了成功。
-《DJ Scot Project – O》是他的代表作之一，被譽為2000年代銳舞者的讚歌。
+「DJ Scot Project – O」は彼の代表作の一つで、00年代のレイヴァーにとってのアンセムとして知られています。
 
 #### 曲目表
 ```md

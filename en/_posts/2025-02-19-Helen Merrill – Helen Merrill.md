@@ -14,11 +14,11 @@ title: Helen Merrill – Helen Merrill
 ---
 
 
-Helen Merrill was an American jazz vocalist who was active in the 1950s and 1960s.
+Helen Merrill(ヘレン・メリル)は、1950年代〜60年代に活躍したアメリカのジャズヴォーカリスト。
 
-The album ""Helen Merrill"' is Helen Merrill"s debut studio album, released on the jazz record label EmArcy in 1955.It featured arrangements by Quincy Jones, trumpet player Clifford Brown, cello and double bass player Oscar Pettiford, and others.
+アルバム「Helen Merrill」は、1955年にジャズレコードレーベルEmArcyからリリースされたヘレン・メリルのデビュースタジオアルバムで、アレンジがQuincy Jones(クインシー・ジョーンズ)、トランペット奏者のClifford Brown(クリフォード・ブラウン)、チェロ&ダブルベース奏者のOscar Pettiford(オスカー・ペティフォード)等が参加している。
 
-This CD is a Japanese version that was reissued and remastered in 1997.
+このCDは1997年に再発&リマスターされた日本盤。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ This CD is a Japanese version that was reissued and remastered in 1997.
 7. 'S Wonderful
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m30671794521?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30671794521?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wl65pr4Q5wA?si=Sp5cSjgUDdySXb2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

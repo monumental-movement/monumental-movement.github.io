@@ -13,7 +13,7 @@ title: Delon & Dalcan – 魅力 / In The Sound
 ---
 
 
-Delon & Dalcan 是法國藝術家兼音樂家 Andre Dalcan 和蒙彼利埃著名俱樂部 Barlive 以及法國和西班牙其他著名俱樂部的 DJ Greg Delon 的一個項目。作為 Delon & Dalcan，他還為 Confused、Great Stuff Recordings、Boxer 和 Propperproud 等著名唱片公司製作作品。
+Delon & Dalcanは、フランス出身のアーティスト＆ミュージシャンAndre Dalcanと、モンペリエの有名なクラブ Barlive やフランス＆スペインの有名クラブでDJを務めるGreg Delonによるプロジェクト。Delon & Dalcanとして、Confused、Great Stuff Recordings、Boxer、Propperproud などの有名レーベルのプロデュースも手掛けている。
 
 《Fascination / In The Sound》由德國唱片公司 Nordwest 於 2006 年發行。
 發行的電子浩室曲目。

@@ -17,9 +17,9 @@ title: '[Chronique] Ambient Techno / Deep Ambient'
 
 ## 1. Concepts et terminologie
 
-Texte : mmr｜Thème : Plutôt que de séparer les deux en tant que noms de genre, les deux concernent la philosophie de conception commune du « temps qui coule », « un espace qui vous fait ressentir une pression » et « un état dans lequel le son continue d'exister ».
+Texte : mmr｜Thème : Plutôt que de séparer les deux en tant que noms de genre, nous parlons de la philosophie de conception commune du « temps qui coule », « de l'espace qui vous fait ressentir une pression » et « d'un état dans lequel le son continue d'exister ».
 
-Ambient Techno est un domaine de la musique électronique créé au début des années 1990 et est un style musical qui combine la structure rythmique répétitive de la techno avec la spatialité et la durabilité de la musique ambiante. Sa particularité est qu'il conserve la notion de temps de la musique de club tout en fonctionnant également comme une musique d'appréciation.
+L'Ambient Techno est un domaine de la musique électronique créé au début des années 1990 et est un style musical qui combine la structure rythmique répétitive de la techno avec la spatialité et la durabilité de la musique ambiante. Sa particularité est qu'il conserve la notion de temps de la musique de club tout en fonctionnant également comme une musique d'appréciation.
 
 Deep Ambient (appelé deep-sea ambient) a un niveau d'abstraction plus élevé et ne nécessite pas la présence de rythmes. L'accent est mis sur des images sonores extrêmement profondes, des sons soutenus centrés sur des bandes de basses fréquences et des compositions qui obscurcissent les contours du temps.
 
@@ -101,7 +101,7 @@ La musique d'ambiance des profondeurs marines a une grande affinité avec la con
 
 ## 8. Redéfinir le rythme
 
-Le rythme dans Ambient Techno n'est pas une commande pour bouger le corps. Les impulsions qui apparaissent à intervalles réguliers constituent la base de la mesure du temps, à la manière d'un profondimètre.
+Le rythme dans Ambient Techno n'est pas une commande pour bouger le corps. Les impulsions qui apparaissent à intervalles réguliers servent de base à la mesure du temps, à la manière d'un profondimètre.
 
 Dans Deep Ambient, même cette norme peut être supprimée, mais plutôt que d'être complètement intemporelle, le temps interne est maintenu à travers d'infimes fluctuations.
 
@@ -130,7 +130,7 @@ Alors qu'Ambient Techno/Deep Ambient se démarque de la nature du club, Deep Tec
 
 Dans la production techno moderne, les expressions à vitesse lente et à faible stimulation qui diffèrent des styles orientés vers les heures de pointe sont répandues. Il ne s’agit pas d’un déclin du genre, mais d’un élargissement de ses usages.
 
-L’acoustique des grands fonds est devenue un langage commun dans les clubs, les galeries et les espaces de travail privés.
+L'acoustique des grands fonds est devenue un langage commun dans les clubs, les galeries et les espaces de travail privés.
 
 
 ---

@@ -9,11 +9,11 @@ permalink: /fr/dylan-society-revolver/
 tags:
 - House
 - Tech House
-title: Dylan – Society Revolver
+title: Dylan – Revolver de la société
 ---
 
 
-Dylanは、ブレイクビーツ・テクノ・エレクトロプロデューサーDylan Rhymes（ディラン・ライムス）の別名義。「Society / Revolver」は、Dylan Rhymes自身のレーベルBlue Blackより2000年にリリース。
+Dylan est le pseudonyme du producteur de breakbeat, techno et électro Dylan Rhymes. "Society/Revolver" est sorti en 2000 sur le propre label de Dylan Rhymes, Blue Black.
 
 #### Liste des chansons
 ```md

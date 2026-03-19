@@ -21,7 +21,7 @@ Text: mmr｜Theme: From Leeds punk to the American wilderness. The Mekons' 45-ye
 > **"It started with laughter, not rebellion."**
 
 1977, University of Leeds, Northern England.
-The Mekons were started by students in a corner of a lecture hall, jokingly thinking, ""Maybe we could form a band ourselves.'' Jon Langford, Tom Greenhalgh, Kevin Lycett, and others would become symbols of the post-punk culture. They had no musical skills and even borrowed instruments.
+The Mekons were started by students in a corner of a lecture room, jokingly thinking, ""Maybe we could form a band ourselves.'' Jon Langford, Tom Greenhalgh, Kevin Lycett, and others would become symbols of the post-punk culture. They had no musical skills and even borrowed instruments.
 At that time, punk was a revolution that anyone could start. The name Mekons is said to come from the "rebel" character in Byron's play The Curse of Minerva.
 
 The single ""Where Were You / I'll Have To Dance Then (On My Own)'', released in 1978, symbolizes their early punk spirit.
@@ -56,7 +56,7 @@ Recorded at Virgin Studios in London. At the time, they said, ""It was the first
 The acoustics are rough, and the microphone distance and balance are unstable. Still, the howling guitar and distortion of the vocals were recorded as "creativity born out of ignorance." There is no producer, and the sound image is based on the DIY spirit.
 
 "We weren't political or romantic, we were just confused," says Jon Langford.
-At the time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
+At that time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

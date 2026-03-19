@@ -19,7 +19,7 @@ title: '[Columna] El Brasil moderno reflejado en la Bossa Nova: la intersección
 Texto: mmr｜Tema: Considerando la difusión cultural de la Bossa Nova, hay fenómenos y cosas que a primera vista parecen no tener relación, pero que en realidad están profundamente conectados.
 
 
-La bossa nova, que surgió en un pequeño departamento en Río de Janeiro a fines de la década de 1950, rápidamente se convirtió en el nuevo estandarte cultural de Brasil y eventualmente se extendió por todo el mundo. El trasfondo de esto no es sólo el atractivo de la música en sí, sino también la profunda resonancia con los campos de la arquitectura, la tecnología y la moda que progresaban al mismo tiempo. En este artículo me gustaría profundizar en las conexiones culturales entre la bossa nova y otros campos, centrándome en la actividad de artistas como Joao Gilberto y Antonio Carlos Jobim.
+La bossa nova, que surgió en un pequeño departamento en Río de Janeiro a fines de la década de 1950, rápidamente se convirtió en la nueva bandera cultural de Brasil y eventualmente se extendió por todo el mundo. El trasfondo de esto no es sólo el atractivo de la música en sí, sino también la profunda resonancia con los campos de la arquitectura, la tecnología y la moda que progresaban al mismo tiempo. En este artículo me gustaría profundizar en las conexiones culturales entre la bossa nova y otros campos, centrándome en la actividad de artistas como Joao Gilberto y Antonio Carlos Jobim.
 
 
 ---
@@ -59,13 +59,13 @@ Además, los nuevos equipos de grabación de la época apoyaron la elaborada orq
 
 En la década de 1960, las playas de Ipanema y Copacabana en Río eran el epicentro del estilo de vida y la moda jóvenes. Su vestimenta, que incluía camisas blancas, vestidos claros, sombreros de paja y sandalias, se estableció como un estilo que simbolizaba la "modernidad brasileña", junto con el ligero sonido de la bossa nova.
 
-La imagen de Heloisa Pinheiro, modelo de ``La chica de Ipanema'', caminando por la playa fue la fusión perfecta entre moda y música. Los trajes escénicos de Sergio Mendes y el sencillo atuendo urbano visto en las representaciones de bossa nova en Estados Unidos ayudaron a crear una imagen de "Brasil fresco" en el mercado internacional.
+Heloisa Pinheiro, modelo de ``La chica de Ipanema'', caminó por la playa y fue un perfecto ejemplo de la fusión de moda y música. Los trajes escénicos de Sergio Mendes y el sencillo atuendo urbano visto en las representaciones de bossa nova en Estados Unidos ayudaron a crear una imagen de "Brasil fresco" en el mercado internacional.
 
 Lo que es aún más interesante es que la difusión de la bossa nova estuvo en sincronía con las tendencias de la moda global de la década de 1960, como la moda mod y minimalista. Con sus melodías sofisticadas y trajes sencillos, ambos compartían una "estética minimalista".
 
 ---
 
-### Conclusión —— Bossa Nova es una encrucijada de culturas
+### Conclusión —— Bossa Nova es una encrucijada cultural
 
 Mirándolo de esta manera, podemos ver que la bossa nova no era sólo un género musical, sino un fenómeno cultural integral que simbolizaba el Brasil moderno, cruzándose con la arquitectura, la tecnología y la moda.
 

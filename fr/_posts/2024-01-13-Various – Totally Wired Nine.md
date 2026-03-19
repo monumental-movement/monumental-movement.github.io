@@ -10,11 +10,11 @@ tags:
 - Acid Jazz
 - Jazz
 - 90s
-title: Various – Totally Wired Nine
+title: Divers – Totally Wired Nine
 ---
 
 
-UKのレーベルAcid Jazzから1992年にリリースされた、アシッドジャズ・コンピレーション・アルバム。
+Un album de compilation acid jazz sorti en 1992 par le label britannique Acid Jazz.
 
 #### Liste des chansons
 ```md

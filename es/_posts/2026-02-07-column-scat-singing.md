@@ -64,7 +64,7 @@ A mediados de la década de 1920, la grabación one-shot era la norma en los est
 
 En su scat las sílabas no tienen significado, pero la disposición rítmica es muy clara. El comienzo de la frase es el ataque de la trompeta y el final naturalmente converge con la respiración. Aquí la voz actúa como un instrumento melódico, y la ausencia de letra se convierte en un requisito previo más que en una omisión.
 
-Si escuchas atentamente los discos de esa época, verás que la sensación de distanciamiento con la banda también era importante. El scat no se pierde en el acompañamiento, pero tampoco destaca demasiado. El sentido de improvisación dentro del conjunto ya se había perfeccionado.
+Si escuchas atentamente los discos de esa época, te darás cuenta de que la sensación de distancia entre tú y la banda también era importante. El scat no se pierde en el acompañamiento, pero tampoco destaca demasiado. El sentido de improvisación dentro del conjunto ya se había perfeccionado.
 
 <div class="mermaid">
 timeline
@@ -128,7 +128,7 @@ En las grabaciones de Chet Baker, el scatting es casi un susurro. Son pocas síl
 
 En la década de 1960, los estudios servían como laboratorios para la grabación de free jazz. Los cantantes se liberan de melodías y progresiones de acordes y exploran ellos mismos las posibilidades de sus voces.
 
-Una toma improvisada no tiene una estructura de coro tradicional. El comienzo comienza con respiraciones casi silenciosas y gradualmente se van mezclando sonidos fricativos como "ha" y "uh". No hay un tempo fijo y las voces aparecen de forma intermitente en respuesta al aleteo del saxofón o al golpe de los tambores.
+Una toma improvisada no tiene una estructura de coro tradicional. El comienzo comienza con respiraciones casi silenciosas y gradualmente se van mezclando sonidos fricativos como "ha" y "uh". No hay un tempo establecido y las voces aparecen de forma intermitente en respuesta al aleteo del saxofón o al golpe de los tambores.
 
 Scat aquí no es una serie de sílabas, sino una serie de actos vocales en sí mismos. El tono no está definido, las vocales están distorsionadas y el aliento invade el interior de la frase. A través de la grabación, la voz emerge como una tercera entidad que no es ni un instrumento melódico ni un instrumento de percusión.
 
@@ -160,9 +160,9 @@ Las ideas scat se han generalizado, desde las ligeras improvisaciones vocales de
 
 ## Capítulo complementario: Scat para hablantes de japonés
 
-La razón por la que los hablantes de japonés encuentran difícil el scat no es tanto la técnica sino la estructura del idioma. El idioma japonés se centra en las vocales, con pocas consonantes consecutivas y claras rupturas entre sílabas. Como resultado, las expresiones rítmicas detalladas que utilizan explosivas y fricativas son difíciles de incorporar.
+La razón por la que los hablantes de japonés encuentran difícil el scat no es tanto la técnica sino la estructura del idioma. El idioma japonés se centra en las vocales, tiene pocas consonantes consecutivas y separaciones claras entre sílabas. Como resultado, las expresiones rítmicas detalladas que utilizan explosivas y fricativas son difíciles de incorporar.
 
-Además, las vocalizaciones japonesas tienen una fuerte conexión entre significado y sonido, y es fácil sentir resistencia psicológica a pronunciar sílabas sin significado. Scat requiere el coraje de no decir la sílaba, y este sentimiento puede ser más fácil de adquirir para los hablantes no nativos.
+Además, las vocalizaciones japonesas tienen una fuerte conexión entre significado y sonido, y es fácil sentir resistencia psicológica a pronunciar sílabas sin sentido. Scat requiere el coraje de no decir la sílaba, y este sentimiento puede ser más fácil de adquirir para los hablantes no nativos.
 
 Si echamos una mirada retrospectiva a la historia de la voz del jazz japonés, el canto con letra fue aceptado desde una etapa temprana, mientras que el scatting instrumental fue tratado con cautela. Detrás de esto está la diferencia de idioma y cultura.
 

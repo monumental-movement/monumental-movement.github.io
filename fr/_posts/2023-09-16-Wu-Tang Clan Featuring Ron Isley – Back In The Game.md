@@ -14,7 +14,7 @@ title: Wu-Tang Clan avec Ron Isley – De retour dans le jeu
 ---
 
 
-"Back In The Game" est une chanson interprétée par Wu-Tang Clan et Ron Isley, et est incluse sur l'album "The W" du Wu-Tang Clan (2000). Le Wu-Tang Clan est un groupe de hip-hop américain, et Ron Isley est membre du groupe R&B The Isley Brothers et un chanteur légendaire de soul music.
+"Back In The Game" est une chanson interprétée par Wu-Tang Clan et Ron Isley, et est incluse sur l'album "The W" du Wu-Tang Clan (2000). Wu-Tang Clan est un groupe de hip-hop américain, et Ron Isley est membre du groupe R&B The Isley Brothers et est un chanteur légendaire de musique soul.
 
 Ce morceau présente un rythme groovy, un échantillon classique et une solide performance rap.
 

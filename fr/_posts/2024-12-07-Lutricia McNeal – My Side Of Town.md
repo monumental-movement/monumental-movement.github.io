@@ -11,11 +11,11 @@ tags:
 - Swing
 - Europop
 - 90s
-title: Lutricia McNeal – My Side Of Town
+title: Lutricia McNeal – Mon côté de la ville
 ---
 
 
-USのR&BシンガーLutricia McNealのデビュースタジオアルバム。コンテンポラリーR&B&ユーロポップテイストのこのアルバムはイタリアのダンスレーベルDo It Yourself から1998年にリリースされた限定版。
+Le premier album studio de la chanteuse R&B américaine Lutricia McNeal. Cet album contemporain d'inspiration R&B et Europop est sorti en 1998 en édition limitée par le label de danse italien Do It Yourself.
 
 #### Liste des chansons
 ```md

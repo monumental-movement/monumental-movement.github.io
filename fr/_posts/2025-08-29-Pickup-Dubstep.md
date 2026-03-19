@@ -10,21 +10,21 @@ tags:
 - Dubstep
 - 90s
 - 00s
-title: ダブステップ（Dubstep）作品をピックアップ
+title: Récupérez des œuvres Dubstep
 ---
 
 
-「フェスの主役へと躍り出た、爆発するベースラインの衝動、注目すべきダブステップ（Dubstep）作品群」
+«Une remarquable collection d'œuvres Dubstep avec une ligne de basse explosive qui est devenue la principale attraction des festivals.»
 
 <hr>
 
-### Benga & Walsh Vs Darqwan – Addicts / Megatection
+### Benga & Walsh contre Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-特徴：異なるアプローチを持つ3名が各々の面を担当する、両極ともに魅力ある構成の1枚です。
+Caractéristiques : Trois personnes avec des approches différentes sont en charge de chaque aspect, ce qui en fait une pièce avec une composition attrayante des deux côtés.
 
 
-魅力：Bengaによるベースの深さ、Walshのグルーヴ、Darqwanの独創性が、それぞれのトラックに光る。
+Pourquoi : la profondeur des basses de Benga, le groove de Walsh et l'originalité de Darqwan transparaissent sur chaque morceau.
 
 #### Liste des chansons
 ```md
@@ -43,13 +43,13 @@ B. Darqwan–Megatection
 <br>
 
 
-### Zed Bias – Ambush Riddim Cosmic Minefield
+### Zed Bias – Ambush Riddim Champ de mines cosmique
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
 
-特徴：00年代ダブステップ黎明期を象徴するスタイルが色濃く反映されており、ビートの強靭さとベースの深みが聴きどころ。
+Caractéristiques : Le style qui symbolise les débuts du dubstep dans les années 2000 est fortement reflété, et la force du rythme et la profondeur des basses sont les points forts.
 
-魅力：Zed Bias によるサウンドデザイン は、当時のUKエレクトロニックシーンの先端を感じさせる構築性と遊び心を併せ持っています。スリリングなリズムと未来的な空間描写が共存した内容で、コレクターズピースとしても価値があります。
+Attrait : La conception sonore de Zed Bias combine un sentiment de structure et de jeu qui semble à la pointe de la scène électronique britannique de l'époque. Le contenu coexiste avec des rythmes palpitants et des descriptions spatiales futuristes, ce qui en fait une pièce de collection précieuse.
 
 #### Liste des chansons
 ```md
@@ -69,14 +69,14 @@ B. Cosmic Minefield
 
 
 
-### Distance – Night Vision Traffic (Remixes)
+### Distance – Trafic de vision nocturne (Remixes)
 <a href="https://jp.mercari.com/item/m41976267806?afid=6142608987"><img src="../assets/images/Distance%20%E2%80%93%20Night%20Vision%20Traffic%20(Remixes).webp"></a>
 
 
-特徴：ダブステップの誕生期からシーンを牽引してきた Distance、Skream、そして日本を代表する Goth-Trad の組み合わせはまさに夢の共演。
+Caractéristiques : La combinaison de Distance, Skream, qui dominent la scène dubstep depuis sa naissance, et Goth-Trad, représentant le Japon, est une collaboration de rêve.
 
 
-魅力：Skream は原曲のエッセンスを活かした「破壊的なビート」、Goth-Trad は暗黒的でテクスチャ重視の再構築という、正反対とも言える音像が1枚に収まっています。クラシックとしての価値が高く、アナログ愛好家やDJからの需要も高いアイテムです。
+Charm : Skream est un « beat destructeur » qui utilise l'essence de la chanson originale, tandis que Goth-Trad est une reconstruction sombre et orientée texture, qui peut être considérée comme étant des images sonores complètement opposées contenues dans un album. Cet article a une grande valeur en tant que classique et est très demandé par les amateurs d'analogique et les DJ.
 
 #### Liste des chansons
 ```md
@@ -95,12 +95,12 @@ B. Traffic (Goth-Trad Remix)
 <br>
 
 
-### Skrillex – Scary Monsters And Nice Sprites
+### Skrillex – Monstres effrayants et jolis sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-特徴：本作はSkrillexの名を世界的に確立したEPで、特に「Scary Monsters And Nice Sprites」はDubstepをメインストリームに押し上げた金字塔とも呼ばれています。
+Caractéristiques : C'est l'EP qui a établi le nom de Skrillex dans le monde entier, et "Scary Monsters And Nice Sprites" en particulier est considéré comme l'œuvre monumentale qui a propulsé le dubstep dans le courant dominant.
 
-魅力：Noisia、Zedd、Bare Noizeといった第一線のプロデューサーたちによるリミックスが収録されており、それぞれのアーティスト視点から楽曲の新たな魅力が引き出されています。
+Appel : contient des remix de producteurs de premier plan tels que Noisia, Zedd et Bare Noize, qui font ressortir un nouvel attrait des chansons du point de vue de chaque artiste.
 
 #### Liste des chansons
 ```md
@@ -125,14 +125,14 @@ B. Traffic (Goth-Trad Remix)
 <br>
 
 
-### Aquasky – Nylon Roadster Cosmic Glue
+### Aquasky – Colle Cosmique Nylon Roadster
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 
 
-特徴：1996–97年にMoving Shadowレーベルからリリースされた本作は、ジャジーすぎる音から脱却し、穏やかで感情的なピアノセクションを特徴とした“滑らか”なブレイクビートを提供。まるで子守唄のように心地よく、Dubstepに通じる重厚なベースの質感も感じられます。
+Caractéristiques : Sorti sur le label Moving Shadow en 1996-97, cet album rompt avec un son trop jazzy et propose un breakbeat « doux » agrémenté d'une section piano douce et émotionnelle. C'est apaisant, comme une berceuse, et vous pouvez également ressentir la texture des basses lourdes, similaire au Dubstep.
 
 
-魅力：Dubstepのダークで深みあるベースラインやビート感が好きな方にとって、聴き応えのある1枚です。
+Attrait : Pour ceux qui aiment les lignes de basse et les rythmes sombres et profonds du dubstep, c'est un excellent album à écouter.
 
 
 #### Liste des chansons

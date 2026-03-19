@@ -135,7 +135,7 @@ graph TD
 </div>
 
 Como muestra este diagrama, "escuchar" no es un acto pasivo, sino un acto creativo.
-El silencio no funciona como un "espacio" para tocar música, sino como un espacio para el pensamiento y la empatía.
+El silencio no funciona como un espacio para tocar música, sino como un espacio para el pensamiento y la empatía.
 
 ---
 

@@ -21,7 +21,7 @@ title: '[Columna] DEVO y Energy Dome ─ Utopía y teoría de la degeneración e
 
 Texto: mmr｜Tema: Utilizando el símbolo de DEVO "Energy Dome" como pista, descifrando la teoría de la degeneración, la tecnología, el pensamiento DIY y la transformación de la cultura pop.
 
-A finales de la década de 1970, la banda estadounidense de nueva ola **DEVO** encarnó una nueva era del arte pop, no sólo con su música sino también con su iconografía visual.
+A finales de la década de 1970, la banda estadounidense de nueva ola **DEVO** encarnó una nueva era del arte pop, no solo con su música sino también con su iconografía visual.
 El símbolo de esto es el sombrero de plástico rojo que usaron en el escenario y en sus videos musicales: **Energy Dome**.
 
 Este extraño diseño futurista era más que un simple disfraz.
@@ -91,12 +91,12 @@ DEVO utilizó electrónica y sintetizadores caseros para crear su sonido, con un
 Utilizando sintetizadores Roland y ARP, modificaron sus propias estructuras de bucle proto-techno y las reprodujeron en vivo.
 Se puede decir que esta práctica es el prototipo del posterior **movimiento Independiente/Lo-Fi**.
 
-Satirizaron el mundo empresarial aprovechando los métodos corporativos (logotipos, lemas, comercialización).
+Satirizaron el mundo empresarial aprovechando los métodos corporativos (logotipos, eslóganes, comercialización).
 En el sentido de que DEVO se convirtió en una "marca" y presentó las contradicciones de una marca anticapitalista, también fueron los precursores de los grupos artísticos posmodernos.
 
 ---
 
-## Capítulo 5: Funcionar como pop ─ “Whip It” y sus conceptos erróneos
+## Capítulo 5: Función como pop ─ “Whip It” y sus conceptos erróneos
 
 A primera vista, el gran éxito de 1980 “Whip It” suena simplemente como un synth-pop cómico.
 Sin embargo, la letra es una parodia del antiheroísmo y dice: "Arregla el mundo tú mismo".
@@ -146,12 +146,12 @@ A finales de la década de 1980, DEVO entró en declive a medida que cambió la 
 En la década de 1990, fue reevaluado como pionero de la era de Internet.
 Su estrategia de marca auto satírica presagiaba la automercantilización posterior a la Web 2.0.
 
-Se reunieron en la década de 2000 con “Algo para todos” (2010), una sátira sobre la “democracia en la era de los algoritmos”.
+Se reunieron en la década de 2000 y escribieron “Algo para todos” (2010), una sátira sobre la “democracia en la era de los algoritmos”.
 En la década de 2020, continúa actualizando su teoría de la degeneración para incluir las NFT y la cultura de la IA.
 
 ---
 
-## Capítulo 9: La trayectoria de DEVO en cronología
+## Capítulo 9: La trayectoria de DEVO como se ve en la cronología
 
 <div class="mermaid">
 
@@ -176,10 +176,10 @@ timeline
 ## Capítulo 10: La importancia actual del domo de energía
 
 Los fanáticos de DEVO todavía adoran el Energy Dome como un "casco de pensamiento".
-Durante la pandemia de coronavirus se vende **Domo energético con protector facial**,
+Durante la pandemia de coronavirus se venden **Domos energéticos con protectores faciales**,
 Una vez más ha llamado la atención como una advertencia sobre cuestiones medioambientales.
 
-En otras palabras, el Energy Dome es un dispositivo social que se "transforma" con cada época.
+En otras palabras, el **Energy Dome es un dispositivo social que se ``transforma'' con cada época**.
 Cada vez, mientras nos burlamos de nuestras ilusiones de “evolución”,
 Nos muestra la sabiduría herética de "afirmar la degeneración".
 
@@ -195,7 +195,7 @@ Más bien, esa elección se convierte en un medio para restaurar la libertad hum
 > ─ DEVO, Libertad de elección (1980)
 
 La cúpula energética no es un casco que cierra el futuro.
-**Quizá sea un icono para que volvamos a tener la libertad de elegir.**
+**Quizás sea un icono para que volvamos a tener la libertad de elegir.**
 ---
 
 ## Materiales/referencias relacionados

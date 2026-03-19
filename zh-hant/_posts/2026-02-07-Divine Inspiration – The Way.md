@@ -9,7 +9,7 @@ permalink: /zh-hant/divine-inspiration-the-way/
 tags:
 - Trance
 - 00s
-title: 神聖的靈感－道路
+title: Divine Inspiration – The Way
 ---
 
 

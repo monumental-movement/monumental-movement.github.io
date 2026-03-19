@@ -9,7 +9,7 @@ permalink: /zh-hant/ito-and-star-sudoko-kid/
 tags:
 - Techno
 - Minimal
-title: 伊藤＆Star——須藤子小子
+title: Ito & Star – Sudoko Kid
 ---
 
 

@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - Acid House
-title: 【專欄】從芝加哥到世界：浩室音樂的誕生與演變
+title: 【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化
 ---
 
 
@@ -56,7 +56,7 @@ The Warehouse 於 1977 年開業，由一座廢棄的城市工廠改建而成的
 
 20 世紀 80 年代初期是芝加哥經濟困難時期。
 
-- 工業衰退導致失業率上升
+- 工業の衰退による失業率上昇  
 - 城市重建造成的社區分裂
 - 種族差異與社會不平等
 
@@ -76,7 +76,7 @@ The Warehouse 於 1977 年開業，由一座廢棄的城市工廠改建而成的
 ### 法蘭基納克魯斯 — House 教父
 
 作為土生土長的紐約人，Knuckles 透過在 Warehouse 打碟塑造了芝加哥的俱樂部文化。
-受到迪斯可和靈魂樂的影響，他們充分利用節奏機和合成器來創造新的節奏。
+ディスコやソウルの影響を受けつつ、リズムマシンやシンセサイザーを駆使して、新しいグルーヴを生み出した。  
 在他的手下，DJ們從單純連接歌曲的工匠，變成了掌控全場的導演。
 
 ### 馬歇爾·傑佛遜——舞池革命
@@ -86,7 +86,7 @@ The Warehouse 於 1977 年開業，由一座廢棄的城市工廠改建而成的
 
 ### Larry Heard——deep house的精神表達
 
-拉里·赫德 (Larry Heard) 在家中使用簡單的設備創作了《Can You Feel It》。
+Larry Heardは、自宅で簡単な機材を使い『Can You Feel It』を制作。  
 憑藉其深刻的冥想節奏，這首歌不僅有助於泡吧體驗，也有助於聽眾的個人精神之旅。
 
 ---
@@ -95,13 +95,13 @@ The Warehouse 於 1977 年開業，由一座廢棄的城市工廠改建而成的
 
 - **Acid House**：使用TB-303，迷幻聲波
 - **Deep house**：冥想與深情，以拉里·赫德為代表
-- **Vocal House**：強調歌詞和情感表達，反映社區的聲音
+- **ボーカル・ハウス**：歌詞や感情表現を重視、コミュニティの声を反映  
 
 早期 house 音樂的特點是簡單、重複的節奏，是使用 Roland TR-808/TR-909 節奏機和模擬合成器創作的。一個小小的聲音創意就有能力改變整個俱樂部的氣氛。
 
 ---
 
-## 第四章：社會與文化的交集
+## 第4章：社会と文化の交差点
 
 芝加哥之家在黑人和 LGBTQ+ 社群的支持下不斷發展壯大。
 俱樂部是一個安全的避風港，一個沒有歧視和偏見的地方。透過音樂，自我表達和社區形成不斷進步，並成為城市少數民族文化的象徵。
@@ -110,7 +110,7 @@ The Warehouse 於 1977 年開業，由一座廢棄的城市工廠改建而成的
 
 ---
 
-## 第五章：技術與生產方法
+## 第5章：テクノロジーと制作手法
 
 芝加哥之家與科技的發展密切相關。
 - **使用節奏機和合成器創造聲音**
@@ -146,11 +146,11 @@ The Warehouse 於 1977 年開業，由一座廢棄的城市工廠改建而成的
 ## 第8章：代表唱片
 
 |藝術家 |標題 |年份|連結 |
-|-------------|----------|----|---------------|
-| Frankie Knuckles |嬰兒爽身粉/你的愛| 1983 | [亞馬遜](https://amzn.to/477bklH) |
+|------------|---------|----|---------------|
+|弗蘭基·納克斯 |嬰兒爽身粉/你的愛| 1983 | [亞馬遜](https://amzn.to/477bklH) |
 |馬歇爾傑佛遜 |移動你的身體 | 1986 | [亞馬遜](https://amzn.to/3VWEWNo) |
 |拉里·赫德 |你能感覺到嗎| 1986 | [亞馬遜](https://amzn.to/4n1bm4e) |
-| Phuture | Acid Tracks | 1987 | [亞馬遜](https://amzn.to/4nL3JjJ) |
+|普圖爾 |酸跡| 1987 | [亞馬遜](https://amzn.to/4nL3JjJ) |
 |傑西桑德斯 |開與開 | 1984 | [亞馬遜](https://amzn.to/4nN4Lf6) |
 
 ---
@@ -202,11 +202,21 @@ flowchart TD
 《芝加哥之家》講述了一個小型音樂實驗室的故事，這個實驗室誕生於一個廢棄的城市倉庫，後來發展成為全球文化現象。
 
 倉庫和發電廠每晚的創作是黑人和 LGBTQ+ 社群自我表達的空間，也是城市社群建設的象徵。
-弗蘭基·納克魯斯 (Frankie Knuckles) 和拉里·赫德 (Larry Heard) 等先驅者所創造的節奏與技術的融合不僅僅是音樂，它還成為了一場文化運動。
+Frankie KnucklesやLarry Heardらパイオニアたちが築いたグルーヴとテクノロジーの融合は、単なる音楽を超えた文化的運動となった。
 
 它的影響力延伸到了英國迷幻浩室音樂、底特律電子音樂、現代電子舞曲和深浩室音樂，而芝加哥節拍至今仍在世界各地的俱樂部中流傳。芝加哥浩室既是過去的遺產，也是未來音樂文化的燈塔。
 
 ---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CBljRXzYvk?si=3mJHk6QtxdBAihsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 相關專欄
 
@@ -214,6 +224,6 @@ flowchart TD
 
 🔗 【【專欄】什麼是深屋？ ─ 探索將靈魂和爵士樂的溫度融入浩室的聲音深度] (https://monumental-movement.jp/Column-Deep-House)
 
-🔗 【【專欄】從NY House的起源到現在－歷史、傑作、設備變遷】(https://monumental-movement.jp/Column-NY-House)
+🔗 [【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷](https://monumental-movement.jp/Column-NY-House)
 
 🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)

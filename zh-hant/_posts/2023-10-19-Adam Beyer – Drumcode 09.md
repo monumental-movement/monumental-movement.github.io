@@ -9,7 +9,7 @@ permalink: /zh-hant/adam-beyer-drumcode-09/
 tags:
 - Techno
 - 90s
-title: 亞當拜爾 – 鼓碼 09
+title: Adam Beyer – Drumcode 09
 ---
 
 

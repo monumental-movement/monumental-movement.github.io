@@ -10,15 +10,15 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Proxy – Decoy
+title: Proxy – Leurre
 ---
 
 
-ProxyことEvgeny Pozharnovは、ロシアのエレクトロニックプロデューサー・DJ。Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer, Electric Zooなどの世界的なフェスでプレイし成功を収めている。 
+Evgeny Pozharnov, également connu sous le nom de Proxy, est un producteur et DJ électronique russe. Ils ont eu du succès en jouant dans des festivals internationaux tels que Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer et Electric Zoo.
 
-Prodigy, Marilyn Manson, Moby, Peaches, Tiga, Boys Noizeなど数多くのアーティストともコラボするロシアDJの代表格。
+Un DJ russe représentatif qui collabore avec de nombreux artistes tels que Prodigy, Marilyn Manson, Moby, Peaches, Tiga, Boys Noize, etc.
 
-「Decoy」は、Tiga Sontag主宰のカナダのテクノ/エレクトロ/ハウスレーベルTurboから2007年にリリースされたテクノ・エレクトロトラック。
+"Decoy" est un morceau techno/électro sorti en 2007 par le label techno/électro/house canadien de Tiga Sontag, Turbo.
 
 #### Liste des chansons
 ```md

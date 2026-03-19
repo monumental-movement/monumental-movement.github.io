@@ -10,7 +10,7 @@ tags:
 - Psy-Trance
 - Goa
 - Trance
-title: Psy-Trance（サイケデリックトランス）作品をピックアップ
+title: 挑選 Psy-Trance 作品
 ---
 
 
@@ -19,7 +19,7 @@ title: Psy-Trance（サイケデリックトランス）作品をピックアッ
 
 ---
 
-## Psy-Trance（サイケデリックトランス）の注目作品
+## Psy-Trance 精選作品
 
 介紹 Monumental-Movement.jp 上列出的推薦 **Psy-Trance** 專輯並附有說明。
 收藏從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
@@ -54,7 +54,7 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ### 太陽。項目 – *Zwork*
 <a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
-- **リリース掲載日**：2025-09-05  
+- **發布發布日期**：2025-09-05
 
 - **評論**：Gore/Psy-Trance 計畫在德國成立。一部回歸根源的作品，聲音讓人想起 90 年代的黃金時代。
 
@@ -96,7 +96,7 @@ F2. Deeper And Deeper
 <a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
-- **評論**：總結墨西哥恍惚場景的彙編。一部可以讓你享受地域特色和多元風格的作品。
+- **解説**：メキシコのトランス・シーンを集約したコンピレーション。地域性と多様なスタイルを味わえる作品。
 
 #### 曲目表
 ```md
@@ -123,7 +123,7 @@ B2  Teen Sluts–Foust On Doust
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
  
 
-- **評論**：血腥恍惚與科技風格的融合。這是一首包含環境元素並提供深度沉浸感的實驗曲目。
+- **解説**：ゴアトランスとテクノ的アプローチが融合。アンビエント的な要素を含み、深い没入感を与える実験的トラック。
 
 #### 曲目表
 ```md
@@ -168,7 +168,7 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -239,7 +239,7 @@ F. Sandman – Target Eye
 
 ---
 
-### Odds – *Odds E.P*
+### 賠率 – *賠率 E.P*
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 
@@ -262,4 +262,4 @@ AA. Umbellikilisis
 <br>
 
 ###  **Psy-Trance 的魅力**
-夢幻般的、精神上的、有時甚至是實驗性的。請來體驗從90年代至今不間斷的迷幻恍惚世界。
+幻想的でスピリチュアル、時に実験的。90年代から現代まで脈々と続くサイケデリック・トランスの世界を、ぜひ体感してみてください。

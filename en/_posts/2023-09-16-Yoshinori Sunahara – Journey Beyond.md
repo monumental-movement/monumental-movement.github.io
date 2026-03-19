@@ -12,11 +12,11 @@ title: Yoshinori Sunahara – Journey Beyond
 ---
 
 
-"Journey Beyond" is part of Yoshinori Sunahara"s work, and is one of the songs where you can enjoy his unique sound style. His music is often original and experimental, yet also has a soothing and relaxing feel. The song reflects Yoshinori Sunahara"s own musical vision while incorporating elements of ambient music.
+「Journey Beyond」は、砂原良徳の作品の一部で、彼の独自のサウンドスタイルを堪能できる楽曲の一つです。彼の音楽は、しばしば独創的で実験的でありながら、心地よいリラックス感も備えています。この曲は、アンビエント音楽の要素を取り入れつつも、砂原良徳自身の音楽的なビジョンを反映しています。
 
-His songs, such as "Journey Beyond," are perfect to enjoy while relaxing, focusing, or embarking on a musical journey.
+「Journey Beyond」など、彼の楽曲は、リラックスしたり、集中したり、音楽の旅に出かけたりする際に楽しむのに最適です。
 
-Yoshinori Sunahara's music is loved by many listeners in Japan and abroad, and is one of the important works in his career.
+砂原良徳の音楽は、日本国内外で多くのリスナーに愛されており、彼のキャリアにおける重要な作品の一つとなっています。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ A2. Journey Beyond The Stars(Schwebebalken Mix)
 B. Journey Beyond The Stars(A Moment In Space & Time Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m82161248157?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82161248157?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpSxDBVRbqY?si=J-Yp7wX-RFt-ezxm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -145,7 +145,7 @@ L'accent mis sur la relation entre le son et le silence est similaire à celui d
 
 De plus, dans les pièces solo calmes de Haino et les pièces de drones soutenues, l'accent mis sur l'espace acoustique est évident.
 
-Il ne s’agit pas seulement d’une extension du rock, mais proche d’une idée musicale moderne qui traite le son lui-même comme un matériau.
+Il ne s’agit pas seulement d’une extension du rock, mais d’une idée musicale moderne qui traite le son lui-même comme un matériau.
 
 La musique de Keiji Haino se situe à l'intersection du rock, de la musique d'improvisation et de la musique japonaise contemporaine.
 
@@ -347,7 +347,7 @@ D --> E
 
 ---
 
-## Instrument d'exploration : la vielle et la quête des sons inconnus
+## Un instrument d'exploration : la vielle et la quête des sons inconnus
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UFivBFA0xBI?si=KBklExEljuP26hPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -424,7 +424,7 @@ En rencontrant des sons inconnus, ma musique change aussi.
 
 ### Flux d'œuvres solos et majeures
 
-Keiji Haino a publié un grand nombre d’œuvres enregistrées depuis la fin des années 1970 jusqu’à nos jours.
+Keiji Haino a sorti une énorme quantité d’œuvres enregistrées de la fin des années 1970 à nos jours.
 Le format est diversifié, comprenant des œuvres en studio, des enregistrements live, des éditions limitées et des collaborations, et le nombre total se chiffrerait en centaines.
 
 Ce qui suit est un flux d'œuvres importantes qui sont largement connues parmi elles.
@@ -440,7 +440,7 @@ Les informations ci-dessous sont compilées à partir de plusieurs sources fiabl
 | Année | Titre | Étiquette | Remarques |
 |---|---|---|---|
 | 1981 | **Est-ce juste moi ? ** | Pinacothèque | Premier travail en solo. Réédition de haute qualité par Black Editions en 2017 |
-| 1990 | **Nijiumu** | PSF | Chef-d'œuvre d'œuvres vocales et acoustiques solos |
+| 1990 | **Nijiumu** | PSF | Œuvres vocales/acoustiques solistes représentatives |
 | 1992 | **Itsukushimi / Affection** | PSF | Enregistrement live sorti en 1992 |
 | 1993 | **Un défi au destin** | PSF | Sorti en 1994. Œuvres solo importantes |
 | 1995 | **J'ai dit, c'est le fils du nihilisme** | Tableau des éléments | Sortie américaine importante |
@@ -452,7 +452,7 @@ Les informations ci-dessous sont compilées à partir de plusieurs sources fiabl
 | Année | Titre | Étiquette | Remarques |
 |---|---|---|---|
 | 1989 | **Fushitsusha Double Live (Live I)** | PSF | L'une des premières sorties du label PSF. LP live à 2 disques |
-| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (avec Hiroshi Mikami et Motoharu Yoshizawa) | PSF | Un chef-d'œuvre d'improvisation du trio avec Hiroshi Mikami et Motoharu Yoshizawa |
+| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (avec Hiroshi Mikami et Motoharu Yoshizawa) | PSF | Un chef-d'œuvre improvisé du trio avec Hiroshi Mikami et Motoharu Yoshizawa |
 | 1991 | **Fushitsusha (Double Live / Live II)** | PSF | Un des documents importants du rock psychédélique japonais des années 1990 |
 | 1993 | **Malentendu allégorique** | Avant (dirigé par John Zorn) | Sorti sur le label Avant de John Zorn |
 | 1994 | **Pathétique** | PSF | Oren Ambarchi le décrit comme « l'une de mes œuvres Fushitsusha préférées » |
@@ -842,7 +842,7 @@ Tout cela fait partie de l'expression de Keiji Haino.
 
 Dans l’histoire de la musique underground japonaise, rares sont ceux qui ont continué à explorer la musique de manière aussi variée.
 
-Dans l’histoire de la musique, il y a des gens qui créent des genres et d’autres qui détruisent des genres.
+Dans l’histoire de la musique, il y a des gens qui créent des genres et d’autres qui détruisent les genres.
 
 Keiji Haino appartient à cette dernière catégorie.
 

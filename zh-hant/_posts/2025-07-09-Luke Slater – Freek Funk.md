@@ -16,7 +16,7 @@ title: 盧克·斯萊特 – 弗里克·芬克
 
 Luke Slater 是英國電子音樂家、DJ 和唱片製作人，自 20 世紀 90 年代初以來一直活躍在 techno 場景的最前沿。其他名稱包括行星攻擊系統和 LSD。
 
-《Freek Funk》是英國電子音樂廠牌 NovaMute 於 1997 年發行的電子音樂專輯。其中包括熱門歌曲《愛》。
+《Freek Funk》是英國電子音樂廠牌 NovaMute 於 1997 年發行的電子音樂專輯。其中包括熱門歌曲《Love》。
 
 2017 年，Mixmag 將其評為 20 世紀 90 年代第五大最偉大的電子專輯。
 
@@ -40,7 +40,7 @@ Luke Slater 是英國電子音樂家、DJ 和唱片製作人，自 20 世紀 90 
 16. Walking The Line
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=2aTwIdXIpqtwctKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

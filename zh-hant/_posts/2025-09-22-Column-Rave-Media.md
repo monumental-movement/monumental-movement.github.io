@@ -53,9 +53,9 @@ color: #fff;
 
 反抗商業主義（不是「銷售音樂」）
 
-那一刻的「身體體驗」就是一切（從記錄中體會到）
+その瞬間の「身体体験」が全て（記録より実感）
 
-換句話說，這場狂歡從各個意義上來說都是「現場」的。讓自己與媒體保持距離是美學和政治的問題。
+つまりレイヴは、あらゆる意味で「ライブ」だった。メディアとは距離を置くことが、美学であり、ポリティクスであった。
 
 ---
 
@@ -83,7 +83,7 @@ Rave 不是聲源或樂譜，而是一種現象本身。因此，此類唱片與
 
 自2000年代以來，世界各地開始了以下嘗試。
 
-**MixesDB、Discogs**：曲目清單和次要聲音來源的資訊收集
+**MixesDB、Discogs**：セットリストやマイナー音源の情報集積
 
 **YouTube/SoundCloud**：上傳舊混音帶和盜版錄音
 
@@ -157,11 +157,11 @@ Rave 不是聲源或樂譜，而是一種現象本身。因此，此類唱片與
 
 🔗 [[專欄] Acid House：聲音與文化轉型的化學反應](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[專欄] Psy-Trance 歷史、代表作和 10 首推薦曲目](https://monumental-movement.jp/Column-Psy-Trance)
+🔗 [[專欄] Psy-Trance（迷幻恍惚）歷史、代表作和 10 首推薦曲目](https://monumental-movement.jp/Column-Psy-Trance)
 
 🔗 [[專欄]頭文字D與音樂交叉的速度記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 【【專欄】「歐元之聲」因國界而異－義大利、德國、瑞典：三大製作國創作的歐元音樂的差異】(https://monumental-movement.jp/Column-Euro-Sound)
+🔗 【【專欄】「歐元之聲」因國界而異－義大利、德國、瑞典：三大製作國創造的歐元音樂的差異】(https://monumental-movement.jp/Column-Euro-Sound)
 
 🔗 【[專欄]Eurobeat 與日本：為何連結在一起？ ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 

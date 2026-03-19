@@ -9,7 +9,7 @@ permalink: /zh-hant/krafty-kuts-uptight/
 tags:
 - Breakbet
 - 00s
-title: Krafty Kuts – 緊張 / 噪音在哪裡
+title: Krafty Kuts – Uptight / Where's The Noise
 ---
 
 

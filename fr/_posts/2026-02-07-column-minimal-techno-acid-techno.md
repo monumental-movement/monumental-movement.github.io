@@ -66,7 +66,7 @@ Berlin à l’époque était fortement influencée par le fonctionnalisme post-B
 
 ### Limiter le nombre de sons et élargir la notion du temps
 
-La techno minimale utilise extrêmement peu de sons. Il n'est pas rare que les morceaux se composent uniquement de kicks, de charleys et de courtes phrases de synthétiseur. Cependant, la répétition n'est pas monotone et le sens auditif est constamment mis à jour par de subtils changements de volume, d'égalisation et de fluctuations de timing.
+La techno minimale utilise extrêmement peu de sons. Il n'est pas rare que les morceaux se composent uniquement de kicks, de charleys et de courtes phrases de synthétiseur. Cependant, la répétition n'est pas monotone et le sens auditif est constamment mis à jour par d'infimes changements de volume, d'égalisation et de fluctuations de timing.
 
 ### Interaction avec l'espace club
 
@@ -80,7 +80,7 @@ Dans un grand club berlinois, la basse fait vibrer tout le bâtiment. La techno 
 
 ### Coïncidence entre Chicago et TB-303
 
-Les origines de l'acid techno se situent à Chicago au milieu des années 1980. Le Roland TB-303 a été initialement conçu pour la pratique de la guitare, mais a été considéré comme un échec sur le marché. Cependant, cet équipement, qui a trouvé sa place sur le marché de l'occasion, a créé un son de basse sans précédent grâce à sa fonction de résonance et de slide unique.
+Les origines de l'acid techno se situent à Chicago au milieu des années 1980. Le Roland TB-303 a été initialement conçu pour la pratique de la guitare, mais a été considéré comme un échec sur le marché. Cependant, cet équipement, qui a trouvé sa place sur le marché de l'occasion, a créé un son de basse jamais vu auparavant grâce à sa fonction de résonance et de slide unique.
 
 ### Combiner avec la culture rave britannique
 
@@ -98,7 +98,7 @@ Le cœur de l'acid techno réside dans la manipulation en temps réel du filtre 
 
 ### Effets directs sur le corps
 
-La résonance et la distorsion élevées stimulent directement le corps de l'auditeur. L’acid techno est une musique qui déclenche une réaction physique avant le sens auditif et donne la priorité aux sens plutôt qu’au rationnel.
+La résonance et la distorsion élevées stimulent directement le corps de l'auditeur. L'acid techno est une musique qui déclenche une réaction physique avant le sens auditif et donne la priorité aux sens plutôt qu'au rationnel.
 
 > Le son acide se déchaîne d'abord avant d'être maîtrisé.
 

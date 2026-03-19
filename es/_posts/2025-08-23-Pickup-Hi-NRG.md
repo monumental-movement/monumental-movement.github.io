@@ -21,7 +21,7 @@ title: Recoger alta energía (Hi-NRG) funciona
 ### E-Rotic – “Willy usa un Billy... Boy”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-Euro pop sexy y pegadizo de Alemania. Como interpretación de Hi-NRG de los años 90 en adelante, esta es una pista altamente adictiva que te hará querer tararearla.
+Euro pop sexy y pegadizo de Alemania. Como interpretación de Hi-NRG de los años 90, es una canción altamente adictiva que querrás tararear.
 
 #### Lista de canciones
 ```md

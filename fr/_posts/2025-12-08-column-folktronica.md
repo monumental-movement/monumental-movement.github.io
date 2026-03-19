@@ -21,9 +21,9 @@ title: '[Chronique] Folk-Tronica / Indietronica : Histoire de la fusion des musi
 Texte : mmr｜Thème : À propos de l'histoire, des techniques, des influences, de l'équipement et des caractéristiques musicales de Folk-Tronica/Indietronica, avec un accent sur Four Tet, Caribou et Bonobo.
 
 Folk-Tronica/Indietronica est une tendance musicale hybride du 21e siècle et au-delà, où les sons simples des instruments acoustiques se croisent avec les textures des sons électroniques.
-Il est né du mariage de mélodies folk, d’arpèges de guitare, d’enregistrements sur le terrain de sons naturels et de culture d’échantillonnage électronique sur ordinateur portable.
+Il est né de la combinaison de mélodies folk, d'arpèges de guitare, d'enregistrements sur le terrain de sons naturels et de culture d'échantillonnage électronique sur ordinateur portable.
 
-Certains des artistes qui ont clairement présenté ce genre au monde incluent **Four Tet (Kieran Hebden)**, **Caribou (Daniel Snaith)** et **Bonobo (Simon Green)**.
+Four Tet (Kieran Hebden), Caribou (Daniel Snaith) et Bonobo (Simon Green) font partie de ceux qui ont clairement présenté ce genre au monde.
 Bien qu’ils aient tous une formation en musique électronique, ils ont élargi le contexte de l’électro depuis les années 2000 en échantillonnant et en reconstruisant une variété de musiques telles que le jazz, le folk, la musique ethnique et le post-rock.
 
 ---
@@ -196,10 +196,10 @@ De plus, un nouveau style de gestion live a été formé, l'utilisation de déco
 ## 8. Résumé : Là où « mémoire » acoustique et « reconstruction » numérique se rencontrent
 
 Folk-Tronica/Indietronica est une méthode de reconstruction de la simplicité et de la nature narrative de la musique folk à l'aide de la technologie d'édition de musique électronique.
-C'est un genre qui apporte de la « chaleur », du « toucher » et de « l'esthétique des lacunes » à l'ère numérique.
+C'est un genre qui apporte la « chaleur », le « toucher » et « l'esthétique des espaces » à l'ère numérique.
 
 Les œuvres de Four Tet, Caribou et Bonobo sont
-Cela montre clairement que les techniques d’édition d’échantillons, d’enregistrement sur le terrain et d’enregistrement d’instruments acoustiques peuvent élargir le domaine de la musique électronique.
+Il a clairement démontré que les **techniques d'édition d'échantillons, d'enregistrement sur le terrain et d'enregistrement d'instruments acoustiques** peuvent élargir le domaine de la musique électronique.
 
 À l'avenir, avec l'évolution de la production d'ordinateurs portables et de la technologie audio AI,
 On pense que Folk-Tronica/Indietronica continuera à se répandre sous diverses formes.

@@ -10,7 +10,7 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: 乳膠 – 安可
+title: Latex – Encore
 ---
 
 

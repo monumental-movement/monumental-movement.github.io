@@ -19,7 +19,7 @@ title: '[Chronique] Histoire des frontières entre l''art de la performance et l
 
 ## Prologue : Quand le son est-il devenu « action » ?
 
-Texte : mmr｜Thème : Une étude longue qui retrace l'histoire de la façon dont l'art de la performance et la musique ont croisé et redéfini le corps, le temps et l'espace, sur la base uniquement de faits.
+Texte : mmr｜Thème : Une étude longue qui retrace l'histoire de la manière dont l'art de la performance et la musique ont croisé et redéfini le corps, le temps et l'espace, sur la base uniquement de faits.
 
 La musique a longtemps été comprise comme une combinaison de l’acte de conception, de composition, et de l’acte de reproduction, d’interprétation. Là-bas, les partitions musicales étaient centrales et le son n'était que la réalisation d'informations visualisées. Cependant, au XXe siècle, cette hypothèse a commencé à être rapidement ébranlée. Le bruit urbain dû à l'industrialisation, à la diffusion de la technologie d'enregistrement et à l'expansion de la culture populaire a transformé le son d'un « objet à contrôler » à « quelque chose qui existe dans l'environnement ».
 
@@ -64,7 +64,7 @@ Les activités Dada n’ont pas de style ou de technique unifié. Au lieu de cel
 
 Il est important de noter que ceux-ci n’ont pas été rigoureusement conçus à l’avance. L'enchaînement des coïncidences, l'humeur de l'interprète et les réactions du public sont devenus les éléments de composition de l'œuvre. La musique n'est plus un objet à reproduire, mais est générée comme un événement ad hoc.
 
-Cette attitude est devenue plus tard le prototype des structures ouvertes dans la musique improvisée et l’art de la performance.
+Cette attitude est devenue plus tard le prototype des structures ouvertes dans la musique improvisée et les arts de la performance.
 
 > Dès que j'ai accepté le hasard, l'œuvre a commencé à quitter les mains du créateur.
 
@@ -88,7 +88,7 @@ Le tournant le plus important présenté par Fluxus a été le démantèlement d
 
 Par exemple, des actions telles que rester debout pendant un certain temps, déplacer un objet ou ouvrir et fermer un couvercle s'écartent complètement des jugements de valeur musicaux conventionnels. Cependant, les sons subtils, le silence et la tension visuelle créés par cet acte ont fortement capté l'attention du public.
 
-La musique, avant d’être un art sonore, a été redéfinie comme un acte doté d’une structure temporelle. La pratique de Fluxus était directement liée à l'art conceptuel et à l'art de la performance ultérieurs.
+La musique, avant d’être un art sonore, a été redéfinie comme un acte doté d’une structure temporelle. La pratique de Fluxus était directement liée à l’art conceptuel et à l’art de la performance ultérieurs.
 
 > En présentant l'action comme une musique, la scène s'étend au quotidien.
 

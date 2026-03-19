@@ -117,7 +117,7 @@ timeline
 
 ---
 
-## Chronologie : Grands festivals et tendances de la mode
+## Chronologie : Grands festivals et tendances de la mode
 
 <div class="mermaid">
 timeline
@@ -171,7 +171,7 @@ graph TD
 
 ### Années 1960-1970
 
-* Matière : coton, denim, perles, franges
+* Matériel : coton, denim, perles, franges
 * Couleur : tie-dye, pastel, couleur naturelle (vert, marron, orange).
 
 ### Années 1980-1990

@@ -14,7 +14,7 @@ title: 戴夫·埃爾斯米爾——四個符號
 ---
 
 
-Dave Ellesmere 出生於英國，是一位搖滾音樂家，在 1980 年代的 The Insane、Discharge、Flux of Pink Indians 和 Doctor and the Crippens 等英國龐克樂團中擔任鼓手，並在 Disgust 中擔任吉他手，目前擔任電子 DJ。他也曾以 Voco Derman、Solvent Electron Industries 和 Ronin 等名義發布作品。
+Dave Ellesmere 出生於英國，是一位搖滾音樂家，在 20 世紀 80 年代的 The Insane、Discharge、Flux of Pink Indians、Doctor and the Crippens 等英國龐克樂團中擔任鼓手，並在 Disgust 中擔任吉他手，目前擔任電子 DJ。他也曾以 Voco Derman、Solvent Electron Industries 和 Ronin 等名義發布作品。
 
 「Four Symbols」是一首 Techno/Tech House 曲目，由荷蘭 house 廠牌 100% Pure 於 2005 年發行。
 

@@ -45,7 +45,7 @@ color: #fff;
 
 ## Capítulo 1: La era en la que los registros están “vivos”
 
-Londres en los años 1980. Harvey se sumergió en la cultura callejera a través del skate y el punk. Sin embargo, finalmente comenzó a frecuentar tiendas de discos y se obsesionó con el encanto de los sencillos de 12 pulgadas.
+Londres en los años 1980. Harvey se sumergió en la cultura callejera a través del skate y el punk. Sin embargo, finalmente empezó a frecuentar tiendas de discos y se obsesionó con el encanto de los sencillos de 12 pulgadas.
 En aquella época, los discos no eran sólo una fuente sonora, sino una cultura a la que se podía acceder. La textura de la chaqueta, el olor de las notas del forro, la profundidad del corte. Todo eso fue parte de la "experiencia musical".
 
 El primer álbum que compró fue ``Pull Up to the Bumper'' de **Grace Jones**.
@@ -211,7 +211,7 @@ pie title DJ Harvey's Vinyl Box Composition
 
 **Explicación**:
 La caja de discos de Harvey es un archivo orgánico basado en la mezcla de géneros.
-Lo que llama la atención es que "Rock" y "House" están colocados en el mismo lugar.
+Lo que llama la atención es que "Rock" y "House" están colocados por igual.
 Esto simboliza el hecho de que es un DJ que siempre conecta por vibra, no por género.
 La tragamonedas "Rarezas" es el arma secreta de Harvey. Se activa durante las horas nocturnas y en la configuración del amanecer.
 

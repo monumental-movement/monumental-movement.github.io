@@ -16,7 +16,7 @@ title: Ultra Naté – Encontré una cura
 
 Ultra Nate es un cantautor, productor y DJ estadounidense conocido por éxitos como "Free", "If You Could Read My Mind" y "Automatic".
 
-"Found a Cure" fue lanzado como el segundo sencillo de su tercer álbum, Situation: Critical, lanzado en 1998. Una canción house/deep house que encabezó la lista Billboard Hot Dance Club Songs de EE. UU. y se convirtió en un éxito mundial.
+"Found a Cure" fue lanzado como el segundo sencillo de su tercer álbum, Situation: Critical, lanzado en 1998. Una canción house/deep house que alcanzó el número 1 en la lista Billboard Hot Dance Club Songs de EE. UU. y se convirtió en un éxito mundial.
 
 #### Lista de canciones
 ```md

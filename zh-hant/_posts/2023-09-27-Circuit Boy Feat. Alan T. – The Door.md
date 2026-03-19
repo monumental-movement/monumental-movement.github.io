@@ -12,7 +12,7 @@ title: 電路男孩的壯舉。艾倫T.——《門》
 ---
 
 
-Jay Winborn 和 Mike Mucci 的樂團「Circuit Boy」於 2001 年在德國廠牌 Flesh 發行了一張電子專輯。
+Jay Winborn 和 Mike Mucci 的「Circuit Boy」樂團的電子專輯，於 2001 年在德國廠牌 Flesh 發行。
 
 #### 曲目表
 ```md

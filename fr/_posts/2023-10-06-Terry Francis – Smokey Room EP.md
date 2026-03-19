@@ -9,17 +9,17 @@ permalink: /fr/terry-francis-smokey-room-ep/
 tags:
 - House
 - Tech House
-title: Terry Francis – Smokey Room EP
+title: Terry Francis – EP Smokey Room
 ---
 
 
-Terry Francisは1966年7月28日にEpsomで生まれたイギリスのDJ兼プロデューサーです。
+Terry Francis est un DJ et producteur britannique né le 28 juillet 1966 à Epsom.
 
-彼のキャリアは、1988年にLeatherheadのHamilton'sワインバーでアシッドハウスのナイトを共同プロモートすることから始まりました。同時に、屋根職人として働いていました。
+Sa carrière a débuté en 1988 en co-promouvant des soirées acid house au Hamilton's Wine Bar à Leatherhead. Parallèlement, il travaille comme couvreur.
 
-1990年にはWorthingのSternsでレジデントDJとなりました。また、Swag Recordsで働いていたこともあります。彼はEye 4 SoundとWiggleという2つのレコードレーベルの共同オーナーでもありました。
+En 1990, il devient DJ résident chez Sterns à Worthing. Il a également travaillé chez Swag Records. Il était également copropriétaire de deux labels : Eye 4 Sound et Wiggle.
 
-1990年代中盤、Groove KitchenとWiggleのプロモーターおよびレジデントDJでした。また、Freaky DiscoのレジデントDJでもありました。さらに、Energy 87.9 FMで番組をホストしていた経験もあります。
+Au milieu des années 1990, il était promoteur et DJ résident chez Groove Kitchen et Wiggle. Il était également le DJ résident de Freaky Disco. De plus, il a animé une émission sur Energy 87.9 FM.
 
 #### Liste des chansons
 ```md

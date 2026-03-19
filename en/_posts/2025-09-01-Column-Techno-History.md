@@ -9,184 +9,183 @@ tags:
 - Techno
 - Detroit Techno
 - Minimal
-title: '[Column] From the origins of techno to the present - A chronological history
-  traced through famous records and equipment'
+title: 【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史
 ---
 
 
-## From the origins of techno to the present - A chronological history traced through famous records and equipment
+## テクノの発祥から現在まで ― 名盤と機材でたどる年代史
 
-Text: mmr｜Theme: Historical background of techno by decade, representative masterpieces, and changes in equipment
+文：mmr｜テーマ：テクノの年代ごとの時代背景・代表的な名盤・機材の変遷
 
 
-The history of techno was born and evolved from the relationship between "cities" and "machines." Below, we will summarize the historical background, representative masterpieces, and changes in equipment by decade.
+テクノの歴史は「都市」と「機械」の関係性から生まれ、進化してきました。以下では、**年代ごとの時代背景・代表的な名盤・機材の変遷**をまとめます。
 
 ---
 
-### 1970s: Fetal movement - electronic music and disco laid the groundwork
-**Background of the times**
-- Synthesizers become smaller and mass produced
-- Maturation of disco culture
+### 1970年代：胎動 ― 電子音楽とディスコが下地をつくる
+**時代背景**  
+- シンセサイザーが小型化・量産化  
+- ディスコ文化の成熟  
 
-**Masterpiece**
-- Kraftwerk – *Trans-Europe Express* (1977)
-- Donna Summer – "I Feel Love" (1977, prod. Giorgio Moroder)
+**名盤**  
+- Kraftwerk – *Trans-Europe Express* (1977)  
+- Donna Summer – “I Feel Love” (1977, prod. Giorgio Moroder)  
 - Yellow Magic Orchestra – *Solid State Survivor* (1979)
 
-**equipment**
-- Moog/ARP/EMS Modular
--Roland CR-78
-- Maestro Rhythm King
+**機材**  
+- Moog/ARP/EMS モジュラー  
+- Roland CR-78  
+- Maestro Rhythm King  
 
 ---
 
-### 1980s: The birth of Detroit and its spread to Europe
-**Background of the times**
-- Industrial urbanization and youth culture in Detroit
-- The advent of MIDI (1983) and the spread of digital equipment
+### 1980年代：デトロイトの誕生と欧州への伝播
+**時代背景**  
+- デトロイトの工業都市化と若者文化  
+- MIDI（1983）登場、デジタル機器の普及  
 
-**Famous album/track**
-- Cybotron – "Clear" (1983)
-- Model 500 – "No UFOs" (1985)
-- Rhythim Is Rhythim – "Strings of Life" (1987)
-- Inner City – "Big Fun" (1988)
+**名盤／トラック**  
+- Cybotron – “Clear” (1983)  
+- Model 500 – “No UFOs” (1985)  
+- Rhythim Is Rhythim – “Strings of Life” (1987)  
+- Inner City – “Big Fun” (1988)  
 
-**equipment**
-- Roland TR-808 / TR-909 / TB-303
-- SH-101 / Juno-106
-- Yamaha DX7
-- Akai S900/S950
-- Atari ST + Cubase/Notator
-
----
-
-### 1990s: Global Expansion - Berlin, UK, Second Wave
-**Background of the times**
-- After the fall of the Berlin Wall (1989), Tresor etc. became bases
-- UK rave culture and clubbing
-
-**Masterpiece**
-- Underground Resistance – *X-101/X-102* (1991–)
-- Aphex Twin – *Selected Ambient Works 85–92* (1992)
-- Basic Channel – *BCD* (1994)
-- Robert Hood – *Minimal Nation* (1994)
-- Plastikman – *Sheet One* (1993)
-- Jeff Mills – "The Bells" (1997)
-
-**equipment**
-- Akai S3000/S3200
-- E-mu ESI/E4
-- Ensoniq ASR-10
-- Mackie 1604/8-Bus
--Roland JP-8000
-- Access Virus
-- ADAT/DAT
+**機材**  
+- Roland TR-808 / TR-909 / TB-303  
+- SH-101 / Juno-106  
+- Yamaha DX7  
+- Akai S900/S950  
+- Atari ST + Cubase/Notator  
 
 ---
 
-### 2000s: Minimalism - the dawn of micro-house and "in the box"
-**Background of the times**
-- PC production becomes popular, VST becomes commonplace
-- Cologne, Berlin and Chilean artists lead the way
+### 1990年代：世界的拡張 ― ベルリン、UK、セカンド・ウェイヴ
+**時代背景**  
+- ベルリンの壁崩壊（1989）後、Tresorなどが拠点化  
+- UKレイヴ文化とクラブ化  
 
-**Masterpiece**
-- Ricardo Villalobos – *Alcachofa* (2003)
-- Monolake – *Gravity* (2008)
-- Kompakt – *Total* Series (2000–)
-- Richie Hawtin – *DE9 | Closer to the Edit* (2001)
+**名盤**  
+- Underground Resistance – *X-101 / X-102*（1991–）  
+- Aphex Twin – *Selected Ambient Works 85–92*（1992）  
+- Basic Channel – *BCD*（1994）  
+- Robert Hood – *Minimal Nation*（1994）  
+- Plastikman – *Sheet One*（1993）  
+- Jeff Mills – “The Bells”（1997）  
 
-**equipment**
-- Ableton Live (2001–)
-- Reason (2000–)
-- Native Instruments Reaktor / Absynth
-- Elektron Machinedrum / Monomachine
-- Pioneer CDJ (popular period)
-
----
-
-### 2010s: Industrial/Peak Time Return and Modular Revival
-**Background of the times**
-- Global standardization centered on Berghain/Ostgut Ton
-- Accelerate Bandcamp direct sales and DIY releases
-- Eurorack boom
-
-**Masterpiece**
-- Marcel Dettmann – *Dettmann* (2010)
-- Objekt – *Flatland* (2014)
-- Helena Hauff – *Discreet Desires* (2015)
-- Surgeon – *From Farthest Known Objects* (2016)
-- Skee Mask – *Compro* (2018)
-
-**equipment**
-- Eurorack (Mutable Instruments, Make Noise, Intellijel)
-- Elektron Octatrack / Analog Rytm
-- Roland AIRA TR-8
-- Korg Volca Series
-- Ableton Push
+**機材**  
+- Akai S3000/S3200  
+- E-mu ESI/E4  
+- Ensoniq ASR-10  
+- Mackie 1604/8-Bus  
+- Roland JP-8000  
+- Access Virus  
+- ADAT / DAT  
 
 ---
 
-### 2020s: Rekindling hard grooves, hybrid live performances, and the era of AI assistance
-**Background of the times**
-- Return to the field after the distribution culture during the pandemic period
-- BPM acceleration, transformer re-evaluation
-- Production and mastering assistance using AI
+### 2000年代：ミニマル〜ミクロハウスと“イン・ザ・ボックス”の夜明け
+**時代背景**  
+- PC制作が普及、VST一般化  
+- ケルン、ベルリン、チリ系アーティストが牽引  
 
-**Sound trends**
-- Powerful kicks and riff repetitions
-- Hard techno ~ Schranz comeback
-- Recontextualization of trans motifs
+**名盤**  
+- Ricardo Villalobos – *Alcachofa*（2003）  
+- Monolake – *Gravity*（2008）  
+- Kompakt – *Total* シリーズ（2000–）
+- Richie Hawtin – *DE9 | Closer to the Edit*（2001）  
 
-**equipment**
-- Elektron Digitakt / Digitone
-- Roland TR-8S / MC-707
-- ASM Hydrasynth
-- Polyend Tracker / Dirtywave M8
-- Akai MPC One/Live II
-- AI mastering, stem separation tools
-
----
-
-### Summary of "major changes" in equipment
-1. **1980s: x0x lineage** – 808/909/303 + analog monosynth
-2. **1990s: Sampler era** – Akai/E-mu + mixer + outboard
-3. **2000s: In the Box** – DAW+VST
-4. **2010s: Hybrid regression** – Modular x DAW
-5. **2020s: Real-time + AI assistance** – Stem separation/distribution premise
+**機材**  
+- Ableton Live（2001–）  
+- Reason（2000–）  
+- Native Instruments Reaktor / Absynth  
+- Elektron Machinedrum / Monomachine  
+- Pioneer CDJ（普及期）  
 
 ---
 
-### Listening list for every 10 years
-- **1970s**: Kraftwerk – *Trans-Europe Express*
-- **1980s**: Model 500 – "No UFOs"/Rhythim Is Rhythim – "Strings of Life"
-- **1990s**: Basic Channel – *BCD*／Plastikman – *Sheet One*
-- **2000s**: Villalobos – *Alcachofa*／Monolake – *Gravity*
-- **2010s**: Objekt – *Flatland*／Skee Mask – *Compro*
-- **2020s**: New works of hard groove/trance rekindled
+### 2010年代：インダストリアル／ピークタイム回帰とモジュラー復興
+**時代背景**  
+- Berghain/Ostgut Tonを中心に世界標準化  
+- Bandcamp直販、DIYリリースの加速  
+- Eurorackブーム  
+
+**名盤**  
+- Marcel Dettmann – *Dettmann*（2010）  
+- Objekt – *Flatland*（2014）  
+- Helena Hauff – *Discreet Desires*（2015）  
+- Surgeon – *From Farthest Known Objects*（2016）  
+- Skee Mask – *Compro*（2018）  
+
+**機材**  
+- Eurorack（Mutable Instruments, Make Noise, Intellijel）  
+- Elektron Octatrack / Analog Rytm  
+- Roland AIRA TR-8  
+- Korg Volcaシリーズ  
+- Ableton Push  
 
 ---
 
-### summary
-The core of techno is "repetition" and "sound design."
-Rhythms directly descended from x0x, sound image design of samplers, editing aesthetics from the PC era, the randomness of modularity, even AI assistance--the rhythms of machines and cities continue to evolve even as times change.
+### 2020年代：ハードグルーヴ再燃、ハイブリッド・ライブ、AI補助の時代
+**時代背景**  
+- パンデミック期の配信文化後、現場回帰  
+- BPM高速化、トランス再評価  
+- AIによる制作・マスタリング補助  
+
+**サウンド傾向**  
+- 強力なキックとリフ反復  
+- ハードテクノ～シュランツ再起  
+- トランス的モチーフの再文脈化  
+
+**機材**  
+- Elektron Digitakt / Digitone  
+- Roland TR-8S / MC-707  
+- ASM Hydrasynth  
+- Polyend Tracker / Dirtywave M8  
+- Akai MPC One/Live II  
+- AIマスタリング、ステム分離ツール  
+
+---
+
+### 機材の“大系的変遷”まとめ
+1. **1980s：x0xの血統** – 808/909/303＋アナログモノシンセ  
+2. **1990s：サンプラー時代** – Akai/E-mu＋ミキサー＋アウトボード  
+3. **2000s：イン・ザ・ボックス** – DAW＋VST  
+4. **2010s：ハイブリッド回帰** – モジュラー×DAW  
+5. **2020s：リアルタイム＋AI補助** – ステム分離／配信前提  
+
+---
+
+### 10年ごとの要聴盤リスト
+- **1970s**：Kraftwerk – *Trans-Europe Express*  
+- **1980s**：Model 500 – “No UFOs”／Rhythim Is Rhythim – “Strings of Life”  
+- **1990s**：Basic Channel – *BCD*／Plastikman – *Sheet One*  
+- **2000s**：Villalobos – *Alcachofa*／Monolake – *Gravity*  
+- **2010s**：Objekt – *Flatland*／Skee Mask – *Compro*  
+- **2020s**：ハードグルーヴ／トランス再燃の新作群  
+
+---
+
+### まとめ
+テクノの核は「反復」と「音響設計」。  
+x0x直系のリズム、サンプラーの音像設計、PC時代の編集美学、モジュラーの偶発性、AI補助まで――時代が変わっても**機械と都市のリズム**は進化し続けています。  
 
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BaHKgcXXwVY?si=p6D9QsstvecYHdeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Related columns
+### 関連コラム
 
-🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)

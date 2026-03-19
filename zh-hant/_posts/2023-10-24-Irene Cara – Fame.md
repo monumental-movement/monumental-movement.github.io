@@ -10,7 +10,7 @@ tags:
 - Disco
 - 80s
 - 7inch
-title: 艾琳卡拉——名聲
+title: Irene Cara – Fame
 ---
 
 

@@ -10,11 +10,11 @@ tags:
 - House
 - Deep House
 - 00s
-title: Phauna – Naturally (Remixes)
+title: Phauna – Naturellement (Remixes)
 ---
 
 
-Mellee FreshとDJ Spydabrownによって設立されたカナダのハウスレーベルPlay Recordsから2003年にリリースされたディープハウストラック。
+Un morceau deep house sorti en 2003 sur le label house canadien Play Records, fondé par Mellee Fresh et DJ Spydabrown.
 
 #### Liste des chansons
 ```md

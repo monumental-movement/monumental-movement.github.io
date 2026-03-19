@@ -56,7 +56,7 @@ All three had experience singing in church, and Nate Dogg in particular had exte
 This foundation of gospel singing had a decisive influence on his later style.
 Although her voice was linear with little vibrato, it had a deep resonance and a sense of rhythm that was naturally ingrained in her body.
 
-### Joining the Marines
+### Joining the Marine Corps
 
 After graduating high school, Nate Dogg **enlisted in the US Marine Corps** and was discharged after serving for about three years.
 This experience changed his life circumstances, but it was also a period that essentially forced him to return to Long Beach and music.
@@ -70,7 +70,7 @@ That is **213 (two one three)**.
 The name is derived from Long Beach's area code, 213, and clearly stamps their local identity.
 
 Local tapes from the time already showed that Nate Dogg's singing voice stood out from the rappers around him.
-His voice had the air of the street, and by singing the melody, he gave the entire song a pleasant floating feeling.
+His voice had a street vibe, and by singing the melody, he gave the entire song a pleasant floating feeling.
 This style would later become the core of guest performance culture.
 
 ---
@@ -173,7 +173,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-Snoop、Warren、Nate の三人による 213 は、2004年に **正式なスタジオアルバム『The Hard Way』** をリリース。  
+213, the trio of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---
@@ -236,9 +236,9 @@ Nate Dogg is the source of Ty Dolla $ign, Akon, Anderson .Paak, and T-Pain.
 
 ### ■ The voice itself has become a symbol of the genre.
 
-G-Funk＝Nate Dogg の声、という関係は現在も揺るがない。
+The relationship between G-Funk and the voice of Nate Dogg remains strong even today.
 
-### ■ 特定ジャンルの“声の質感”を定義した希有な例
+### ■ A rare example of defining the "voice texture" of a specific genre
 
 The golden age of West Coast hip-hop cannot be talked about without his voice.
 
@@ -252,7 +252,7 @@ But it remained part of hip-hop's most central sound.
 He drifted between genres while giving the beat a solid foundation.
 There is no one else with a voice that balances sweetness and hardness, smoothness and streetness.
 
-**Nate Dogg は G-Funk の象徴であり、ヒップホップ史における"声の革命"そのものである。 **
+**Nate Dogg is a symbol of G-Funk and a vocal revolution in hip-hop history. **
 The hooks he left behind continue to live on in hip-hop around the world.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfA6jewSunU?si=RC-arUXmBDq_mAje" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

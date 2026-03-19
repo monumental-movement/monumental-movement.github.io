@@ -14,7 +14,7 @@ title: Sueño Mandarina – Ladrón
 ---
 
 
-Banda sonora original de la primera película de Michael Mann como director (título original: Thief), estrenada en 1981 (título original: Thief) (basada en la novela de Frank Hochmer). Edición japonesa.
+Banda sonora original de la primera película de Michael Mann como director (título original: Thief), estrenada en 1981 (título original: Thief) (basada en la novela de Frank Hochmer). Versión japonesa.
 
 Tangerine Dream, quien estuvo a cargo de la música, es una banda alemana de música electrónica formada en 1967 por Edgar Froese. Junto con CAN, Amon Düül II, Kraftwerk y NEU!, son conocidos como una de las bandas líderes de krautrock.
 

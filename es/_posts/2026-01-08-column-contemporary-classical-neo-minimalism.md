@@ -18,7 +18,7 @@ title: '[Columna] Clásica Contemporánea / Neominimalismo Una nueva ola de mús
 
 ## Introducción: Tendencia clásica moderna/neominimalista
 
-Texto: mmr｜Tema: Acerca de esta tendencia, basado en hechos como técnicas de composición, entorno de producción y antecedentes institucionales, más que tendencias o valoraciones emocionales.
+Texto: mmr｜Tema: Acerca de esta tendencia, basado en hechos como técnicas de composición, entorno de producción y antecedentes institucionales, más que tendencias o evaluaciones emocionales.
 
 
 La música clásica desde la segunda mitad del siglo XX se ha diversificado en diversas direcciones a través de experimentos con la atonalidad, el aleatorismo y la música electrónica. En el siglo XXI, una tendencia que enfatiza la "tonalidad", la "repetición", la "tranquilidad" y la "experiencia auditiva en sí" ha vuelto a ganar atención internacional. Esta es el área generalmente denominada Clásico Contemporáneo o Neominimalismo.
@@ -88,7 +88,7 @@ Muchos compositores mantienen un centro tonal claro, pero no asumen una progresi
 
 Este procesamiento armónico no es una reproducción del romanticismo del siglo XIX, sino que puede entenderse como una opción para garantizar la estabilidad acústica.
 
-### Diseño de tono
+### Diseño de sonido
 
 En el neominimalismo, el timbre es un componente tan importante como la melodía y la armonía, o incluso más. Se utilizan pianos de fieltro, pianos preparados, instrumentos de cuerda con instrumentos silenciados y reverberaciones procesadas electrónicamente, y la duración y la caída de la resonancia misma forman la forma.
 
@@ -138,7 +138,7 @@ La técnica en sí tiene su origen en la música experimental de mediados del si
 
 ### Composición e improvisación
 
-Sus obras incluyen tanto patrones estrictamente anotados como elementos de improvisación. A medida que se repite un determinado patrón rítmico, pequeños cambios causados ​​por la manipulación física del intérprete impulsan la música.
+Sus obras incluyen tanto patrones estrictamente anotados como elementos de improvisación. Mientras se repite un determinado patrón rítmico, pequeños cambios causados ​​por la manipulación física del intérprete impulsan la música.
 
 ### Conexión con otros campos
 

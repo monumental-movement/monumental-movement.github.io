@@ -12,9 +12,9 @@ title: Eric B. & Rakim – Paid In Full
 ---
 
 
-Eric B. & Rakim are an American hip-hop duo formed in Long Island, New York in 1986 by DJ Eric B. and rapper Rakim.
+Eric B. & Rakimは、1986年にニューヨークのロングアイランドで、DJ Eric B.とラッパーのRakimによって結成されたアメリカのヒップホップデュオ。
 
-Released in 1987, "Paid in Full" was their debut album and included many hit singles in the United States, including "Eric B. Is President," "I Ain't No Joke," "I Know You Got Soul," "Move the Crowd," and "Paid in Full." It is also known as the benchmark album of golden age hip hop. This CD is a reissue.
+1987年にリリースされた「Paid in Full」はデビューアルバムで、"Eric B. Is President", "I Ain't No Joke", "I Know You Got Soul", "Move the Crowd",  "Paid in Full"など、全米で大ヒットしたシングルが多数収録されている。ゴールデンエイジ・ヒップホップのベンチマークアルバムとしても知られている。このCDは再発盤。
 
 
 #### Tracklist
@@ -31,7 +31,7 @@ Released in 1987, "Paid in Full" was their debut album and included many hit sin
 10. Extended Beat
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXF7ux_ES3E?si=5z4SlxD9d2yxBZnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

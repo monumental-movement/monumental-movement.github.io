@@ -15,7 +15,7 @@ title: 新鮮－訊號/大愛
 
 Dan Stein，也被稱為 DJ Fresh，是一位英國鼓貝斯/迴響貝斯製作人和 DJ。他也是鼓貝斯樂團 Bad Company (BC / ᑐᗴ|ᗱᑕ) 的成員，並與 Adam F. 共同經營鼓貝斯廠牌 Breakbeat Kaos。
 
-「Signal / Big Love」是 RAM Records 廠牌於 2003 年發行的鼓和貝斯曲目。
+「Signal / Big Love」は、2003年にレーベルRAM Recordsからリリースされたdrum & bassトラック。
 
 #### 曲目表
 ```md

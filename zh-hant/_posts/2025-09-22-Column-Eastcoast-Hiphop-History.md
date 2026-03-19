@@ -55,7 +55,7 @@ color: #fff;
 ## 20 世紀 90 年代：黃金時代與現實主義的深化
 
 * **代表製作人**：DJ Premier、Pete Rock、RZA、Large Professor
-* **主要唱片公司**：Def Jam、Bad Boy Records、Loud Records
+* **主要レーベル**：Def Jam、Bad Boy Records、Loud Records  
 * **文化背景**：充分利用描繪社會批評和街頭現實主義的採樣和歌詞的節拍。總部位於布魯克林、皇后區和哈林區。
 * **東西方衝突**：東西方衝突加劇，包括 2Pac 和 The Notorious B.I.G. 的慘死。
 * **影片/時尚**：MV以哈林區的一家高端精品店和紐約的一個街角為背景。 Timberland、Carhartt、AverX、寬鬆牛仔褲是主流。
@@ -66,11 +66,11 @@ color: #fff;
 |----------|-------------|-------------|----------------|
 | *Illmatic* (1994) |納斯 | [亞馬遜](https://amzn.to/3IwRSX4) |紐約史詩。抒情的巔峰|
 | *準備去死* (1994) |臭名昭著的 B.I.G. | [亞馬遜](https://amzn.to/3It03Um) |描繪現實街道的傑作|
-| *武當堂（36室）* (1993) |武當派 | [亞馬遜](https://amzn.to/47PTQMw) |融合武俠電影與街景的革命性作品 |
+| *Enter the Wu-Tang (36 Chambers)* (1993) | Wu-Tang Clan | [Amazon](https://amzn.to/47PTQMw) | 武侠映画とストリートを融合した革命的作品 |
 
 ---
 
-## 2000 年代：獨立與混音帶文化
+## 2000年代：インディペンデントとミックステープ文化
 
 * **代表製作人**：Just Blaze、The Alchemist、Swizz Beatz
 * **主要唱片公司**：Roc-A-Fella、Rawkus Records、G-Unit Records
@@ -81,9 +81,9 @@ color: #fff;
 
 |專輯 |藝人 |亞馬遜連結 |推薦點|
 |----------|-------------|-------------|----------------|
-| *The Blueprint* (2001) | Jay-Z | [Amazon](https://amzn.to/46ho0Hs) | ソウルサンプリングの美学を確立 |
+| *藍圖* (2001) | Jay-Z | [亞馬遜](https://amzn.to/46ho0Hs) |建立靈魂採樣的美學|
 | *要嘛致富，要嘛去死* (2003) | 50 美分 | [亞馬遜](https://amzn.to/46gmSUj) |連結街頭與大聯盟的決定性一擊|
-| *兩面皆為黑色* (1999) |莫斯·達夫 | [亞馬遜](https://amzn.to/4gA2mBJ) |意識視角與爵士感性的融合|
+| *兩面皆為黑色* (1999) |莫斯·達夫 | [亞馬遜](https://amzn.to/4gA2mBJ) |意識視角與爵士感性的融合 |
 
 ---
 
@@ -91,7 +91,7 @@ color: #fff;
 
 * **代表性製作人**：Metro Boomin（偏南，但也受紐約影響）、Hit-Boy、Statik Selektah
 * **主要唱片公司**：Top Dawg（也與 NY 相關）、Griselda Records
-* **文化背景**：與 Kendrick Lamar 的影響力並行，Griselda（Westside Gunn、Conway、Benny the Butcher）正在紐約帶回 90 年代的感覺。來自網路的藝術家數量也在增加。
+* **文化背景**：与 Kendrick Lamar 的影响力并行，Griselda（Westside Gunn、Conway、Benny the Butcher）正在纽约带回 90 年代的感觉。來自網路的藝術家數量也在增加。
 * **影片/時尚**：高級品牌和街頭服飾（Supreme、Off-White、Balenciaga）的融合。紀錄片音樂錄影帶正在興起。
 
 **推薦專輯**
@@ -109,7 +109,7 @@ color: #fff;
 |電影名稱 |年份|亞馬遜連結 |
 |--------------|----|--------------|
 | *狂野風格* | 1983 | [亞馬遜](https://amzn.to/423FBju) |
-| *擊敗街* | 1984 | [亞馬遜](https://amzn.to/3W1AT2c) |
+| *Beat Street* | 1984 | [Amazon](https://amzn.to/3W1AT2c) |
 | *果汁* | 1992 | [亞馬遜](https://amzn.to/46fQe5j) |
 | *臭名昭著* | 2009 | [亞馬遜](https://amzn.to/424lamA) |
 | *Nas：時間不規律* | 2014年| [亞馬遜](https://amzn.to/46FoQwG) |

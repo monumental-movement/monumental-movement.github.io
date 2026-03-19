@@ -120,7 +120,7 @@ Además, las versiones OVA y cinematográficas ahora tienen una variedad más ri
 
 ### 2.3 Acompañamiento dramático, temas musicales y canciones insertadas: gustos cambiantes con el tiempo
 
-Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas con nombres de personajes), álbumes de remezclas, álbumes de lo mejor, álbumes en vivo, etc., y la categorización de productos musicales progresó.
+Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas bajo el nombre del personaje), álbumes de remezclas, mejores álbumes, álbumes en vivo, etc., y la categorización de productos musicales avanzó.
 
 El acompañamiento musical (BGM) también ha evolucionado. Hubo un movimiento creciente para fusionar audazmente el piano, las cuerdas y los sintetizadores, y del sonido del "campo de batalla" de la década de 1980 surgió una fuerte tendencia a expresar los "sentimientos de un personaje" y la "descripción interna detallada" a través del sonido.
 
@@ -173,7 +173,7 @@ Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del 
 
 ### 5.1 Versión en vivo/cover del tema musical/insertar canción
 
-Otro aspecto de la música Gundam es su estrecha relación con la cultura de los fans/cultura en vivo. Por ejemplo, con motivo del 30 aniversario de Gundam, se lanzó el álbum "Gundam Rock", en el que músicos extranjeros versionaron temas musicales de Gundam, lo que demuestra que la música ha trascendido la obra misma y se ha convertido en una "cultura global".
+Otro aspecto de la música Gundam es su estrecha relación con la cultura de los fans/cultura en vivo. Por ejemplo, con motivo del 30 aniversario de Gundam, se lanzó un álbum llamado "Gundam Rock", en el que músicos extranjeros versionaron temas musicales de Gundam. Esto demuestra que la música ha trascendido la producción y se ha convertido en una "cultura global".
 
 Además, los temas musicales de Gundam siempre se incluyen en el repertorio de eventos en vivo de canciones de anime interpretados por artistas, y el número de experiencias en las que el público canta está aumentando. De esta manera, la música se ha convertido en un contenido que no sólo es algo que "escuchar" sino también algo en lo que "participar".
 
@@ -184,7 +184,7 @@ Estos remixes/arreglos desempeñan un papel en la promoción de "escuchar Gundam
 
 ---
 
-## Capítulo 6: Discusión y perspectivas de futuro
+## Capítulo 6: Discusión y perspectivas futuras
 
 ### 6.1 ¿Cuál es la universalidad de la música Gundam?
 
@@ -220,7 +220,7 @@ A continuación se muestra una cronología que incluye obras, temas musicales/ca
 |-----|--------|------------------|------------------|--------|
 | 1979 | Mobile Suit Gundam (versión para TV) | ¡Volar! Gundam | Yuji Matsuyama/Ko Ikeda | Primer tema musical de la serie de televisión |
 | 1985 | Traje móvil Zeta Gundam | Al Planeta del Agua con Amor | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Canción de apertura |
-| 1988 | Mobile Suit Gundam: El contraataque de Char (Película) | Más allá del tiempo ~Más allá del universo Mobius~ | RED Tetsuya Komuro/TM | Canción temática de la película |
+| 1988 | Mobile Suit Gundam: El contraataque de Char (película) | Más allá del tiempo | RED Tetsuya Komuro／TM | Tema musical de la película |
 | 1995 | Nuevo informe móvil Gundam Wing | Comunicación justa | Minami Takayama・Shiina Nagano/DOS-MIX | Apertura de la versión de TV |
 | 2002 | Mobile Suit Gundam SEMILLA | Estábamos juntos así | Compositor: Hiroyuki Kono y otros/See-Saw | Comienza el desarrollo musical de la serie |
 | 2022 | Mobile Suit Gundam: Bruja de Mercurio | (Tema musical/acompañamiento dramático) | Ko Omama/(Cantante) | Último trabajo/composición musical renovada |
@@ -250,11 +250,11 @@ A continuación se muestra una sección que presenta a músicos y cantantes repr
 
 - **・Tetsuya Komuro**
 
-Compositor y productor que lideró la escena de la música pop japonesa desde los años 80 hasta los 90. Creó el tema musical ``Beyond the Time~Beyond the Moebius Universe'' para ``Mobile Suit Gundam: Char's Counterattack'' lanzado en 1988, creando un punto de inflexión en la historia de la música Gundam.
+Compositor y productor que lideró la escena de la música pop japonesa desde los años 80 hasta los 90. Creó el tema principal "Beyond the Time ~Beyond the Mobius Universe~" para "Mobile Suit Gundam: Char's Counterattack" lanzado en 1988, creando un punto de inflexión en la historia de la música Gundam.
 
 - **Neil Sedaka**
 
-Compositor y cantante pop estadounidense. En 1985, participó en la composición de la canción de apertura de "Mobile Suit Zeta Gundam", "To the Planet of Water with Love", y es una presencia significativa en el sentido de que utilizó un compositor extranjero.
+Compositor y cantante pop estadounidense. En 1985, participó en la composición de la canción de apertura de ``Mobile Suit Zeta Gundam'', ``With Love to the Water Star'', y tiene una presencia significativa en cuanto al uso de artistas extranjeros.
 
 - **DOS MEZCLAS**
 

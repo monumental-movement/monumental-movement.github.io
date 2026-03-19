@@ -10,7 +10,7 @@ tags:
 - Rock
 - Alternative Rock
 - Rare
-title: Peter Murphy – Si le monde ne devait pas s’effondrer
+title: Peter Murphy – Si le monde ne s’effondre pas
 ---
 
 

@@ -116,7 +116,7 @@ The following are particularly noticeable.
 
 ### ● 3. Symbol of indie success
 
-""Funcrusher'' became an underground word-of-mouth hit,
+"Funcrusher" became an underground word-of-mouth hit,
 It will reach the ears of those involved with the emerging label **Rawkus Records**.
 
 ---
@@ -215,7 +215,7 @@ It is composed of elaborate metaphors and abstract expressions.
 ## ● Sound composition
 
 * Low, growling bass
-* ominous sample loop
+* Ominous sample loop
 * Intermittent synth noise
 * Detailed percussion with MPC chop
 * A mix of cool textures throughout

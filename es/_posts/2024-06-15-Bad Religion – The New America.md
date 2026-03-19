@@ -17,7 +17,7 @@ title: 'Mala religión: la nueva América'
 
 Bad Religion es una banda de punk rock formada en Los Ángeles, y es una figura destacada del punk rock moderno, conocido como uno de los grupos que crearon el estilo hardcore melódico.
 
-"The New America", lanzado en 2000, es su undécimo álbum de estudio, y las pistas 14 y 15 son pistas extra de la versión japonesa.
+2000年にリリースされた「The New America」は、11枚目のスタジオアルバムで、14、15曲目は日本盤ボーナストラック。
 
 #### Lista de canciones
 ```md

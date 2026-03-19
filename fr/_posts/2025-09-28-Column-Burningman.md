@@ -71,7 +71,7 @@ Burning Man attire depuis longtemps les célébrités – entrepreneurs, artiste
 
 ### Anecdote/Légende
 
-Lorsqu'il a été déplacé en 1990, l'interdiction par la police de brûler les plages a constitué un tournant et la décision a été prise de s'installer dans le désert.
+Lorsqu'il a été déplacé en 1990, l'interdiction par la police de brûler les plages a constitué un tournant et la décision a été prise de déménager dans le désert.
 Homme brûlant
 
 Une histoire intéressante selon laquelle les racines de "Google Doodle" sont liées à l'annonce de vacances du fondateur à Burning Man (le carrefour de la culture d'entreprise et des festivals).
@@ -179,7 +179,7 @@ Les valeurs qui « trouvent de la valeur dans l'expérience elle-même » ont im
 
 #### 1997 : Fécondité
 
-1997 a été l'année où le symbolisme de la nature, de la vie et de la renaissance de Burning Man est devenu pour la première fois le thème central.
+1997 est l'année où le symbolisme de la nature, de la vie et de la renaissance de Burning Man est devenu pour la première fois le thème central.
 
 Le prototype de la « célébration de la vie et de la créativité » dont ont hérité les thèmes ultérieurs (Voûte céleste 2004, Fertilité 2.0 2012, etc.).
 
@@ -187,7 +187,7 @@ Le prototype de la « célébration de la vie et de la créativité » dont ont 
 
 ---
 
-#### 1998 : Entité nébuleuse
+#### 1998 : Entité nébuleuse
 
 Un thème qui explore l'existence mystérieuse et l'ambiguïté de l'univers et de la conscience. Les œuvres interactives utilisant la lévitation ou la lumière participative se sont démarquées.
 
@@ -241,7 +241,7 @@ Cette année, le nombre de projets enregistrés comme art thématique a augment�
 
 2004 a été l'année où la « vision cosmique » et la « prière communautaire » ont été combinées, et elle est considérée comme le précurseur des thèmes scientifiques et spatiaux ultérieurs tels que « Cargo Cult (2013) » et « I, Robot (2018). »
 
-Des ingénieurs de la NASA de la Bay Area et des personnes du MIT Media Lab ont également participé, ce qui en fait un exemple symbolique de la trinité « science x art x spiritualité ».
+Des ingénieurs de la NASA de la Bay Area et des gens du MIT Media Lab ont également participé, ce qui en fait un exemple symbolique de la trinité « science x art x spiritualité ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MaloSn8beds?si=2XMtiZReALnV7h0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -285,7 +285,7 @@ Les thèmes sont l'évolution, les écosystèmes, les métissages et les interre
 
 ---
 
-#### 2010 : Métropole – La vie des villes
+#### 2010 : Métropole – La vie des villes
 
 Théorie urbaine : Un thème qui explore la vitalité des villes. L'art s'est développé en remettant en question les éléments architecturaux, le microcosme et la disposition des structures urbaines, ainsi que les relations entre les villes et les humains.
 
@@ -409,7 +409,7 @@ De plus, le thème n'est pas nécessairement obligatoirement appliqué à tous l
 
 ---
 
-### Conclusion : Expérience de ville du futur dans le désert
+### Conclusion : expérience de ville du futur dans le désert
 
 Burning Man est une ville culturelle expérimentale moderne qui a évolué du thème Inferno (1995) → Démarchandification (1996) → Fertilité (1997) → Vault of Heaven (2004) → 2010-2025, fusionnant spiritualité, art participatif, décommercialisation et expression de la vie.
 

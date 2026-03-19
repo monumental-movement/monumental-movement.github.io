@@ -22,7 +22,7 @@ title: 節拍體驗 – Raggadaggadadiggidingdiggidong
 
 
 
-The Beat Experience 是 Stefan Heinemann 的眾多別名之一。 Stefan Heinemann 也積極參與 Hypertropy，這是一個與德國 house/electric/trance 製作人和 DJ Thorsten Kaiser (DJ Thoka) 合作的項目。
+The Beat Experience 是 Stefan Heinemann 的眾多別名之一。 Stefan Heinemann 还积极参与 Hypertropy，这是一个与德国 house/electric/trance 制作人和 DJ Thorsten Kaiser (DJ Thoka) 合作的项目。
 
 《Raggadaggadadiggidingdiggidong》是一首 Euro House 曲目，於 1994 年在德國流行舞曲廠牌 Blow Up 發行。由 The Wild Boys 製作。
 

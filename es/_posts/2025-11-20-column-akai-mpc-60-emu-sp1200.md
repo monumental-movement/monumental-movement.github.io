@@ -75,7 +75,7 @@ A mediados y finales de la década de 1980, los precios de las memorias de semic
 * **Características clave**: secuenciador de 8 pistas, filtro (analógico), salidas individuales
 
 **Filosofía y características del diseño**
-El SP-1200 fue diseñado teniendo en cuenta las limitaciones de tiempo de un muestreador y está optimizado para el flujo de trabajo de "cortar y organizar muestras cortas". Combinado con circuitos analógicos internos, el resultado es un rango grueso de baja frecuencia con "rugosidad" u "ondulación". Basándonos en las especificaciones y la documentación técnica de E-mu de la época, podemos confirmar que la ruta A/D y el diseño del filtro del SP-1200 contribuyen a su coloración acústica.
+El SP-1200 fue diseñado teniendo en cuenta las limitaciones de tiempo de un muestreador y está optimizado para el flujo de trabajo de "cortar y organizar muestras cortas". Combinado con circuitos analógicos internos, el resultado es un rango grueso de baja frecuencia con "rugosidad" u "ondulación". Según las especificaciones y los documentos técnicos de E-mu de la época, se puede confirmar que la ruta A/D y el diseño del filtro del SP-1200 contribuyen a la coloración acústica.
 
 **Uso práctico**
 
@@ -95,7 +95,7 @@ El SP-1200 fue diseñado teniendo en cuenta las limitaciones de tiempo de un mue
 * **Características principales**: 16 pads, secuenciador incorporado, compatible con MIDI
 
 **Filosofía y características del diseño**
-Con la ayuda de diseño de Roger Linn, el MPC60 pretendía ser un "muestreador reproducible". Los pads grandes y un secuenciador que enfatiza el sentido del groove mejoran enormemente la usabilidad para interpretaciones de improvisación y producción en vivo. La hoja de especificaciones enfatiza la precisión del secuenciador del MPC60 y el mecanismo de detección de pads.
+Con la ayuda de diseño de Roger Linn, el MPC60 pretendía ser un "muestreador reproducible". Los pads grandes y un secuenciador que enfatiza el sentido del ritmo mejoran enormemente la usabilidad para interpretaciones de improvisación y producción en vivo. La hoja de especificaciones enfatiza la precisión del secuenciador del MPC60 y el mecanismo de detección de pads.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vnRc56hEMsw?si=65ZvsCS8iGBWfeZW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -176,7 +176,7 @@ Las muestras de baja resolución son eficaces para crear texturas y se utilizaro
 
 ## Capítulo 8: Artistas clave y ejemplos de uso
 
-> A continuación se muestran extractos de ejemplos de uso basados ​​en información objetiva, como entrevistas públicas, créditos, artículos técnicos y documentos oficiales.
+> A continuación se muestran extractos de ejemplos de uso basados ​​en información objetiva, como entrevistas públicas, créditos, artículos técnicos y documentación oficial.
 
 <div class="mermaid">
 

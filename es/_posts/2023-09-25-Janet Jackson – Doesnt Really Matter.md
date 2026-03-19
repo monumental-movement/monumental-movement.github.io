@@ -13,7 +13,7 @@ title: Janet Jackson – Realmente no importa
 ---
 
 
-"Does't Really Matter" es una canción creada como banda sonora de la película "The Nutty Professor 2". La canción presenta un sonido pop dinámico y una melodía pegadiza, y se destaca la voz dinámica de Janet Jackson.
+"Does't Really Matter" es una canción creada como banda sonora de la película "The Nutty Professor 2". La canción presenta un sonido pop acelerado y una melodía pegadiza, y se destaca la voz dinámica de Janet Jackson.
 
 La poderosa voz de Janet Jackson, combinada con el sonido rítmico y enérgico, crea una canción que brinda a los oyentes confianza y positividad.
 

@@ -27,7 +27,7 @@ Fuente: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
 ---
 
 Estados Unidos en la década de 1950.
-Una música llamada **Exotica** apareció en una época en la que la televisión era común en los hogares y la Guerra Fría y la prosperidad convivían.
+Una música llamada **Exotica** apareció en una época en la que la televisión era común en los hogares y convivían la Guerra Fría y la prosperidad.
 Era una expresión sonora del orientalismo, que representaba "países extranjeros" como el Pacífico Sur, Asia y África como paraísos imaginarios.
 
 Cultura tiki, bares hawaianos, ritmos de rumba y melodías exóticas.
@@ -60,7 +60,7 @@ color: #fff;
 5. [Capítulo 5: La verdad detrás de la máscara - Confesiones de John Rowland] (#Capítulo 5)
 6. [Capítulo 6: Reverberaciones de Exotica: de la Longines Symphonette al renacimiento de Lo-Fi] (#Capítulo 6)
 7. [Capítulo 7: Reevaluación moderna y dislocación cultural] (#Capítulo 7)
-8. [Cronología: Korla Pandit y la historia de la música exótica (1940-2020)] (#cronología)
+8. [Cronología: Korla Pandit y la historia de la música exótica (1940-2020)] (#Cronología)
 9. [Gráficos y análisis](#Gráficos)
 10. [Conclusión: Entre la ficción y la verdad] (#Conclusión)
 

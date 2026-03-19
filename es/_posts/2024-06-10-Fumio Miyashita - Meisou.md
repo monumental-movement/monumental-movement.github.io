@@ -20,7 +20,7 @@ Tomio Miyashita es músico, musicoterapeuta y sintetizador de la prefectura de N
 
 Iniciaron sus actividades en 1965 y formaron el grupo de rock progresivo "Far East Family Band". Kitaro también fue miembro de Far East Family Band.
 
-Mientras realiza activamente giras y conciertos de curación en Japón y en el extranjero, también apareció en la película animada de 1988 "Kaze no Matasaburo: Acorn and the Wildcat", la película de 1990 "Heaven and Earth", la película de 1992 "Gaia Symphony No. 1" y la película animada "Phoenix" basada en la obra original de Osamu Tezuka. También estuvo a cargo de componer música y temas musicales para películas como ``Phoenix Edition'', ``Phoenix Edition'' dirigida por Toshio Hirata, ``Phoenix Edition'' dirigida por Yoshiaki Kawajiri y ``Phoenix Edition''. Para los Juegos Olímpicos de Nagano de 1997, compuso el tema principal de la candidatura, "Kotobuki".
+Mientras realiza activamente giras y conciertos de curación en Japón y en el extranjero, también apareció en la película animada de 1988 "Kaze no Matasaburo: Acorn and the Wildcat", la película de 1990 "Heaven and Earth", la película de 1992 "Gaia Symphony No. 1" y la película animada "Phoenix" basada en la obra original de Osamu Tezuka. También fue responsable de componer música y temas musicales para películas como "Phoenix Edition", "Phoenix Edition" dirigida por Toshio Hirata y "Phoenix Edition" dirigida por Yoshiaki Kawajiri. Para los Juegos Olímpicos de Nagano de 1997, compuso el tema principal de la candidatura, "Kotobuki".
 
 "Meditation" es un álbum ambiental new age lanzado por BIWA Records en 1989.
 

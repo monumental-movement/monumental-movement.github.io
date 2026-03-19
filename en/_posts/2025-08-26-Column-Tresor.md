@@ -155,7 +155,7 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 ### Elevating the music of techno from a "temporary fad" to a "universal culture"
 
 More than just a club or a label, Tresor is a ""cultural crossroads"' that connects Berlin"s history, post-Cold War urban space, and the future of black music in Detroit.
-The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""transient fad" to ""universal culture."
+The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""temporary fad" to ""universal culture."
 
 ---
 
@@ -170,7 +170,7 @@ The sounds released from that vault still reverberate in club culture around the
 
 ### Related columns
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 

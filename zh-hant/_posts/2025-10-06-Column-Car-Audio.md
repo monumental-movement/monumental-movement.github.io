@@ -9,7 +9,7 @@ permalink: /zh-hant/column-car-audio/
 tags:
 - History
 - Car
-title: 【專欄】汽車與音響的世界之旅－汽車音響主要國家徹底攻略
+title: 【コラム】 世界の車とサウンドの旅 — カーオーディオ大国別徹底ガイド
 ---
 
 
@@ -41,7 +41,7 @@ color: #fff;
 ### 豐田/雷克薩斯
 
 - **代表性型號的音頻規格**
-  - Lexus LS：Mark Levinson 3D 環繞聲，17 個揚聲器，1,200W
+  - レクサスLS：Mark Levinson 3Dサラウンド、17スピーカー、1,200W  
   - 具備軟體室校正功能
 
 - **製造商和品牌合作關係**
@@ -107,7 +107,7 @@ color: #fff;
 
 ### 奧迪
 
-- **代表型號**：A8（Bang & Olufsen 高級音響系統，19 個揚聲器，1,650W）
+- **代表モデル**：A8（Bang & Olufsen Advanced Sound System、19スピーカー、1,650W）  
 - **技術**：利用多通道DSP實現三維聲音再現
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -118,14 +118,14 @@ color: #fff;
 
 ### 福特/雪佛蘭
 
-- **代表型號**：Camaro（Bose 12 揚聲器，1,000W）
+- **代表モデル**：カマロ（Bose 12スピーカー、1,000W）  
 - **技術**：強調低音並在整個汽車內部再現強勁的聲音
 
 ---
 
 ### 特斯拉
 
-- **代表型號**：Model S（配備高性能 DSP 音訊、22 個揚聲器、960W）
+- **代表モデル**：モデルS（高性能DSP搭載オーディオ、22スピーカー、960W）  
 - **技術**：可透過軟體更新來提升音質
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XFY4Fo3MmIk?si=QWj3Bl64AQVLQkPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -134,7 +134,7 @@ color: #fff;
 
 ### 克萊斯勒/吉普車
 
-- **代表型號**：Wrangler（Alpine 9揚聲器，480W）
+- **代表モデル**：ラングラー（Alpine 9スピーカー、480W）  
 - **技術**：即使在室外噪音下也能保持音質的調整
 
 ---
@@ -159,7 +159,7 @@ color: #fff;
 
 ---
 
-### 標緻/雷諾
+### プジョー／ルノー
 
 - **代表車型**：標緻508（Focal 12揚聲器，400W）
 - **技術**：儘管是緊湊型汽車，但最大限度地提高了空間聲學效果
@@ -226,8 +226,8 @@ color: #fff;
 
 ### 勞斯萊斯
 
-- **代表型號**：Phantom、Ghost、Cullinan（Bespoke Audio 13-18 揚聲器，最大 1,300W）
-- **技術**：工作室品質再現，利用車輛的安靜性，使用鋁和鎂材料降噪
+- **代表モデル**：Phantom、Ghost、Cullinan（Bespoke Audio 13〜18スピーカー、最大1,300W）  
+- **技術**：工作室品質再現，利用車輛的安靜性，使用鋁和鎂材料降低噪音
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -239,7 +239,7 @@ color: #fff;
 |捷豹/F-Pace |經絡| 14/825W|特里菲爾德 3D |
 |路虎/極光 |經絡| 19/825W| 3D環繞|
 |阿斯頓馬丁/Vantage |黑白 | 15/1,170W |鸚鵡螺高音揚聲器 |
-|賓利/添越|奈姆 | 20/1,960W |自動音質校正|
+|賓利/添越|奈姆 | 20/1,960W |自動音質校正 |
 |勞斯萊斯/幻影 |定制| 18/1,300W |工作室品質 |
 
 ---
@@ -254,25 +254,25 @@ color: #fff;
 
 ## 總結：從引擎聲音到聲音藝術－汽車與聲音的未來
 
-汽車曾經是「運輸機器」。然而，現在它是一個“擁抱聲音的空間”，是文化的延伸。
+汽車曾經是「運輸機器」。然而，现在它是一个“拥抱声音的空间”，是文化的延伸。
 德國賦予聲音精密工程，英國賦予傳統和正式，美國賦予自由和權力，日本賦予微妙的和諧。
 各國的汽車音響也是該社會美學意識和產業概念的結晶。
 
-勞斯萊斯的「寂靜舞台」是極致的寂靜。
+静寂を極めたロールス・ロイスの「無音の舞台」。
 Tesla 的 DSP 控制連接電訊號和情緒。
-雷克薩斯 (Lexus) 的馬克·萊文森 (Mark Levinson) 將材料和空間作為「工具」。
+そして、素材と空間を“楽器”として鳴らすレクサスのMark Levinson。
 這些不僅僅是揚聲器系統，而且是人類與機器、工程和情感交叉的「聲音架構」。
 
 現在，向電動車的轉變正在取得進展，引擎聲音的象徵性元素正在消失，
 汽車音響開始扮演新的角色。
 它是一個“移動的聽音室”和“個人聲學宇宙”。
 世界各地的製造商不再追求馬力或安靜；
-**「跑步時能聽到什麼樣的聲音？」**這是新的經驗值。
+**「走ることで、どんな音を聴かせられるか」**という新しい体験価値なのだ。
 
 汽車音響從未停止發展。
-聲學設計經過AI修正，座椅變成共鳴板，根據駕駛者的心跳和心情改變聲場。
+音響設計はAIが補正し、シートは共振板となり、ドライバーの心拍や気分に合わせて音場が変わる。
 我們最終將得到一個超越國家和品牌的聲音平等的境界。
-跑步時傾聽的行為再次增強了人類的敏感度。
+走りながら聴くという行為が、再び人間の感性を研ぎ澄ませていく。
 
 汽車告訴我們的不是道路，而是聲音的旅程。
 而這段旅程才剛開始。

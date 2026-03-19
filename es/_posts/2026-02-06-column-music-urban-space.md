@@ -19,7 +19,7 @@ title: '[Columna] Música y espacio urbano: una historia de generación mutua te
 
 ## Introducción ¿Por qué las ciudades producen música?
 
-Texto: mmr｜Tema: Desde el siglo XX, la música ha interactuado con el espacio urbano, rastreando la historia de cómo la música ha remodelado la forma y la sensación de las ciudades mientras cruza calles, clubes, hogares y medios, utilizando ejemplos de ciudades y géneros específicos.
+Texto: mmr｜Tema: Desde el siglo XX, la música ha interactuado con el espacio urbano, rastreando la historia de cómo la música ha remodelado la forma y la sensación de las ciudades mientras cruza calles, clubes, hogares y medios, a través de ejemplos de ciudades y géneros específicos.
 
 Las ciudades unen a las personas, las dividen y las reordenan. Densidad de población, inmigración, industria, transporte, regulación. Cuando estos elementos se superponen, la música se convierte no sólo en entretenimiento, sino en el ritmo mismo de la vida urbana. Los sonidos de una fábrica, la repetición del tráfico y el zumbido de una multitud se estructuran a través de la sensibilidad del músico y se convierten en un género. Las ciudades no son "escenarios" musicales. Es un generador musical y, al mismo tiempo, es una entidad que se reinterpreta a través de la música.
 
@@ -49,7 +49,7 @@ A principios del siglo XX, Nueva Orleans era una ciudad portuaria donde se cruza
 
 ### Nueva York y Tin Pan Alley
 
-En Nueva York, la música se organiza como una industria con una concentración de compositores y editores. Broadway y la industria musical definieron el formato de la música popular, reflejando la velocidad y la comercialidad de la ciudad.
+En Nueva York, la música se organiza como una industria con una concentración de compositores y editores. Broadway y la industria musical establecieron un formato para la música popular que reflejaba la velocidad y la comercialidad de la ciudad.
 
 > Las ciudades modernas tuvieron el poder de impulsar la música de la improvisación a la industria.
 
@@ -125,7 +125,7 @@ Si bien las ciudades producen música, también la regulan. El hacinamiento, las
 
 La radio, la televisión e Internet, que parecían separar la música de la ciudad, en realidad crearon una nueva imagen de la ciudad. Ciertos nombres de ciudades siguen funcionando como marcas sonoras.
 
-> Los medios expandieron la ciudad e hicieron que la música pareciera libre de geografía.
+> Los medios expandieron la ciudad y hicieron que pareciera que la música estaba liberada de la geografía.
 
 ---
 

@@ -58,7 +58,7 @@ Le label qu'il fondera plus tard, Cadenza, produit des artistes qui allient l'en
 
 ## Chapitre 2 : Rencontre et naissance du Sense Club
 
-Dans un club chilien à la fin des années 1990, alors que Villalobos était assis devant une platine, Luciano sentait les contours rythmiques et résonnait instantanément en lui. Tous deux lanceront un projet commun baptisé « Sense Club ». Ce lieu, à la croisée des rythmes latins et de la techno européenne, a dépassé le cadre d'une simple unité musicale et est devenu un laboratoire de culture et de corps.
+Alors que Villalobos était assis devant une platine vinyle dans un club chilien à la fin des années 1990, Luciano a senti les contours rythmiques et a immédiatement résonné en lui. Tous deux lanceront un projet commun baptisé « Sense Club ». Ce lieu, où se croisent rythmes latins et techno européenne, a transcendé le cadre d'une simple unité musicale et est devenu un terrain d'expérimentation de la culture et du corps.
 
 La philosophie du Sense Club était claire. «La danse n'est pas seulement un mouvement, mais un rituel qui relie la culture et le corps.» De longs sets, des percussions subtiles et une cacophonie occasionnelle de sons insufflent une nouvelle vie à la piste de danse.
 
@@ -72,7 +72,7 @@ Un soir, il y avait environ 300 personnes à l'étage du club. Villalobos joue d
 
 ### Évolution d'Alcachofa et Villalobos
 
-En 2003, Villalobos sort l'album Alcachofa. Cette œuvre est saluée comme un chef-d’œuvre qui redéfinit le langage de la culture club. Dans le long morceau, qui dure plus de 10 minutes, le rythme change minutieusement et les rythmes s'entrelacent constamment. Les corps des auditeurs étaient naturellement immergés dans le flux du temps et le sol devenait une sorte d'« espace cérémonial ».
+En 2003, Villalobos sort l'album Alcachofa. Cette œuvre est saluée comme un chef-d’œuvre qui redéfinit le langage de la culture club. Tout au long du long morceau, qui dure plus de 10 minutes, le rythme change minutieusement et les rythmes s'entrelacent sans cesse. Les corps des auditeurs étaient naturellement immergés dans le flux du temps et le sol devenait une sorte d'« espace cérémonial ».
 
 Exemples de chansons incluses dans l'album :
 
@@ -123,7 +123,7 @@ Tous deux se produisent en live dans toute l’Europe, en Amérique du Sud et en
 
 - *L'Ascension d'Angel* (2002, Cadenza)
 - *Pas d'amis* (2004, Cadenza)
-- *Crime* (2005, Cadenza)
+- *Crimen* (2005, Cadenza)
 - Série *Luciano DJ Mix* (2003-2010, Cadenza)
 
 ---

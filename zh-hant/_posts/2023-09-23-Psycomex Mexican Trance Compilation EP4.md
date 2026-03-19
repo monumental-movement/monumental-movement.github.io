@@ -9,7 +9,7 @@ permalink: /zh-hant/psycomex-mexican-trance-compilation-ep4/
 tags:
 - Trance
 - Psychedelic
-title: Psycomex 墨西哥 Trance 合輯 EP4
+title: Psycomex Mexican Trance Compilation EP4
 ---
 
 
@@ -17,7 +17,7 @@ title: Psycomex 墨西哥 Trance 合輯 EP4
 
 EP4 包含墨西哥 trance 藝人的原創曲目。每首歌曲都具有 Trance 音樂的標誌，包括有力的低音線、情感旋律和動態節拍。
 
-「Psycomex - Mexican Trance Compilation - EP4」將吸引 Trance 音樂愛好者和對墨西哥音樂界感興趣的人。
+「Psycomex - Mexican Trance Compilation - EP4」は、トランスミュージックのファンやメキシコの音楽シーンに興味のある人々にとって魅力的な作品です。
 
 #### 曲目表
 ```md

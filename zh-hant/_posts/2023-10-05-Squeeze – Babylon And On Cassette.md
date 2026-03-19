@@ -15,7 +15,7 @@ title: Squeeze – 巴比倫與卡式錄音帶
 
 Squeeze 的這張專輯《Babylon And On》由 Eric "ET" Thorngren 和 Glenn Tilbrook 製作。
 
-這張專輯在英國專輯榜上排名第 14 位，這是 Squeeze 專輯在 Greatest Hits 合輯之外的最高排名。
+このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
 
 #### 曲目表
 ```md

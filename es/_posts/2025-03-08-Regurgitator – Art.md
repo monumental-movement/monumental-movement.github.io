@@ -37,5 +37,5 @@ Regurgitator es una banda de rock alternativo de Australia. Formada a finales de
 
 [Comprar en Mercari](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

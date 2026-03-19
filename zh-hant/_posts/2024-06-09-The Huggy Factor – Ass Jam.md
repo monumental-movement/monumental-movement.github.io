@@ -15,7 +15,7 @@ title: 擁抱因素 – Ass Jam
 ---
 
 
-The Huggy Factor 是 Carl Finlow 和 Paul Huggett 的一個部門，他們也以 Silicon Scally、Random Factor、Voice Stealer、Il.Ek.Tro 和 Scarletron 等名義工作，並且是 2020 Vision 的聯合創始人。
+Huggy Factor 是 Carl Finlow 和 Paul Huggett 的一個部門，他們也以 Silicon Scally、Random Factor、Voice Stealer、Il.Ek.Tro 和 Scarletron 等名義工作，並且是 2020 Vision 的聯合創始人。
 
 《Ass Jam》是 2000 年由 20:20 Vision 廠牌發行的一首科技浩室歌曲。
 

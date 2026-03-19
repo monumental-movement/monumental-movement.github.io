@@ -15,9 +15,9 @@ title: 阿曼德·範·海爾登 (Armand Van Helden) 與杜安·哈登 (Duane Ha
 ---
 
 
-Armand Van Helden 和 Duane Harden 創作的《You Don’t Know Me》是最暢銷的舞曲單曲和俱樂部熱門曲目，於 1999 年 1 月登上英國單曲榜榜首。
+Armand Van HeldenとDuane Harden による「You Don't Know Me」は1999年1月に全英シングル チャートでトップなったベストセラーダンスシングル＆クラブヒットハウストラック。
 
-《You Don't Know Me》採樣了 Carrie Lucas 的《Dance With You》中的弦樂和 Jaydee 的《Plastic Dreams》中的鼓/節拍。
+「You Don't Know Me」は、Carrie Lucas（キャリー・ルーカス）「Dance With You」のストリングスとJaydee「Plastic Dreams」のドラム/ビートをサンプリングしている。
 
 B面「Rock Da Spot」由來自 Company Flow 的 Len 先生飾演。
 

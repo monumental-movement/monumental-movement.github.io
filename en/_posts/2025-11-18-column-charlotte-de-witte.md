@@ -172,7 +172,7 @@ He has also released experimental works such as "The Heads That Know (feat. Comm
 | 2015 | Started activities under real name, announced Weltschmerz EP |
 | 2017 | Closer, Wisdom EP released, attracting attention in Europe and America |
 | 2018 | BBC Radio 1 Essential Mix appearance |
-| 2019 | Establishment of KNTXT |
+| 2019 | KNTXT established |
 | 2022 | Tomorrowland Main Stage Closing |
 | 2023 | Movement Festival Closing |
 | 2024 | KNTXT store opened, Époque label started |
@@ -249,5 +249,14 @@ He has built a world that embodies his philosophy and musical sensibility, and s
 
 Her debut album in 2025 is an introspective expression of her techno world.
 Charlotte de Witte's techno world will continue to expand through her festival appearances and label activities.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UwFBtBZ1Las?si=eh-3itjSVeqB3udz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

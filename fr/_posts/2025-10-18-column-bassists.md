@@ -127,7 +127,7 @@ Ce qu’il a établi, c’est l’esthétique du « groove en japonais ».
 ---
 
 Hironori Ito du groupe Tatsuro Yamashita, Tsugutoshi Goto, Akira Okazawa──
-Ils ont créé un son qui relie le monde entre les chansons populaires et AOR.
+Ils ont créé un son de classe mondiale entre chansons populaires et AOR.
 La guitare basse ne joue plus un rôle en coulisses, mais devient un élément qui soutient la « dignité » de la musique.
 
 ---

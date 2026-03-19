@@ -10,13 +10,13 @@ tags:
 - Disco
 - Nostalgic
 - 7inch
-title: 諾蘭一家－每個家庭都應該有一個
+title: The Nolans –  Every Home Should Have One
 ---
 
 
-《諾蘭一家－每個家庭都應該有一個》是 1981 年在日本舉行的可口可樂抽獎活動中作為獎品分發的系列作品的一部分。
+「The Nolans –  Every Home Should Have One」は、1981年に日本で開催されたコカ・コーラの懸賞の景品として配布されたシリーズのひとつです。
 
-唱片的標題是夾克正面的“Adored Aye Aye”和背面的“Adored Aye Aye Every Home Should Have One”。
+レコードのタイトルは、ジャケットの前面では「あこがれアイ・アイ・アイ」、裏面では「あこがれアイ・アイ・アイ Every Home Should Have One」となっています。
 
 唱片僅包含 A 面（標籤面），B 面（團體簽名彩色照片）未刻槽。這張唱片包裝在一個透明的圓底內唱片袋和一個帶有藝術家照片的外紙護套中。外套的背麵包括簡短的藝術家傳記（日語）和歌詞（英語和日語）。
 

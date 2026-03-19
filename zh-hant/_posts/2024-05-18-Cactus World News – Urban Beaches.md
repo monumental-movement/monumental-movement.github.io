@@ -14,7 +14,7 @@ title: 仙人掌世界新聞 - 城市海灘
 ---
 
 
-Cactus World News是一支愛爾蘭搖滾樂隊，於1984年4月在都柏林組成。 1985年隨英國硬搖滾樂團The Cult巡迴英國，並與MCA唱片公司簽約。
+カクタスワールドニュースは、1984年4月にダブリンで結成されたアイルランドのロックバンド。1985年にUKのハードロックバンドThe Cult（ザ・カルト）と英国ツアーを行い、MCAレコードと契約。
 
 《Urban Beaches》是 Cactus World News 的首張專輯，由 MCA Records 於 1986 年發行，由與滾石樂團合作的 Chris Kimsey 製作。
 

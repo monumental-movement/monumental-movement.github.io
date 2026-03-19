@@ -13,7 +13,7 @@ title: 共融合 – Pod EP
 ---
 
 
-這是 Co-Fusion 於 2001 年在英國唱片公司 Pro-Jex 上發行的一張 EP。
+2001年にUKのレーベルPro-JexからリリースされたCo-FusionによるEPです。
 
 Pod EP 包含四首歌曲，每首歌曲都有日本電子音樂的感覺。
 

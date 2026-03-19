@@ -56,7 +56,7 @@ El Tech House a menudo se confunde con "un subgénero del techno" o "un subgéne
 
 ---
 
-## 2. Década de 1980-1990: antecedentes del establecimiento
+## 2. Década de 1980 a 1990: antecedentes del establecimiento
 
 Se dice que los orígenes de Tech House son la cultura de clubes de principios de la década de 1990 en Gran Bretaña, particularmente en Londres.
 En ese momento, Acid House y Rave eran populares en Gran Bretaña, y se mezclaron una variedad de estilos como Hard House, Progressive House, Techno y Tribal House.
@@ -169,7 +169,7 @@ En esta época, el Tech House se caracterizaba por ser “más suave que el mini
 
 En la década de 2010, Tech House se convirtió en uno de los 4/4 más reproducidos en clubes y festivales de todo el mundo. El aumento de la demanda fue especialmente grande en Ibiza.
 
-Ejemplos de artistas destacados:
+Ejemplos de artistas notables:
 
 *Jamie Jones (Creaciones calientes)
 *Lee Foss

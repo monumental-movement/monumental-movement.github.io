@@ -16,7 +16,7 @@ title: 太空突襲者 – Glam Raid
 
 Space Raiders 是一支來自英國米德爾斯堡的英國電子三人組，成立於 1997 年。
 
-《Glam Raid》由 Skint 於 1998 年發行，該唱片公司領導了早期大節拍場景，包括 Fatboy Slim、Freq Nasty、Midfield General 和 Lo-Fidelity Allstars。
+「Glam Raid」は、Fatboy Slim(ファットボーイ スリム), Freq Nasty(フリーク ナスティ), Midfield General(ミッドフィールド ジェネラル), Lo-Fidelity Allstars(ローフィデリティ オールスターズ) など、初期のビッグビートシーンをリードしたレーベルSkintからの1998年リリース。
 
 #### 曲目表
 ```md

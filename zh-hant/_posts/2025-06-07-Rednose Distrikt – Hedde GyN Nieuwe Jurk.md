@@ -43,4 +43,4 @@ B7. Untitled
 B8. Untitled
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}

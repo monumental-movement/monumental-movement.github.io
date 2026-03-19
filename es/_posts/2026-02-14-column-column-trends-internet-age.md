@@ -51,7 +51,7 @@ color: #fff;
 
 En 1995, la introducción del formato MP3 facilitó la compresión y el intercambio de archivos de música, creando un entorno en el que las personas podían disfrutar de la música sin tener que depender de la compra de CD. La banda indie de Los Ángeles, The Postal Service, y los temas techno underground de Berlín llegaron a DJs y oyentes de todo el mundo a través de MP3.
 
-En 1999, se introdujo Napster y se disparó el intercambio de música P2P. Los estudiantes universitarios de Nueva York intercambiaron álbumes de Jay-Z y Eminem, lo que se convirtió en un tema candente en clubes de Londres y Tokio. Estos movimientos han llevado a la formación de nuevos éxitos que no se pueden medir utilizando los gráficos tradicionales.
+En 1999, se introdujo Napster y se disparó el intercambio de música P2P. Los estudiantes universitarios de Nueva York intercambiaron álbumes de Jay-Z y Eminem, lo que se convirtió en un tema candente en los clubes de Londres y Tokio. Estos movimientos han llevado a la formación de nuevos éxitos que no se pueden medir utilizando los gráficos tradicionales.
 
 En Tokio, el movimiento para reevaluar el Shibuya-kei y el pop urbano llegó a fans extranjeros a través de Internet, e incluso hubo casos en los que apareció en sesiones de DJ en Nueva York y París.
 
@@ -81,7 +81,7 @@ También ha habido un aumento en el número de artistas independientes que ingre
 
 ## Finales de la década de 2010-2020: vídeos cortos y basados ​​en algoritmos
 
-> El poder viral de los vídeos cortos como TikTok y YouTube Shorts se ha convertido en el punto de partida de nuevos éxitos, y la estructura tradicional de las listas también ha cambiado.
+> El poder viral de los vídeos cortos como TikTok y YouTube Shorts se ha convertido en el punto de partida de nuevos éxitos y la estructura tradicional de las listas ha cambiado.
 
 Desde 2016, TikTok y YouTube Shorts se han convertido en el principal medio de difusión musical. "Old Town Road" del rapero estadounidense Lil Nas Incluso en la escena de clubes de Berlín, los fanáticos y DJ compartieron las pistas de techno que llamaron la atención en TikTok en toda la ciudad.
 

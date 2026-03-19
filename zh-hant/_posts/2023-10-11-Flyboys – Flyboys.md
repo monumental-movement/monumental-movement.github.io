@@ -15,7 +15,7 @@ title: 飛翔男孩－飛翔男孩
 
 Flyboys是一支美國龐克搖滾樂隊，活躍於1975年至1980年。
 
-成立於 1975 年，成員包括 John Curry（又名 Jon Boy）、David Wilson（又名 David Way）和 Dennis Walsh（又名 Dennis Rackett）。
+1975年結成当時のメンバーはJohn Curry/ジョン・カリー (別名Jon Boy/ジョン・ボーイ)、David Wilson/デヴィッド・ウィルソン (別名David Way/デヴィッド・ウェイ)、Dennis Walsh/デニス・ウォルシュ (別名Dennis Rackett / デニス・ラケット)。
 
 #### 曲目表
 ```md

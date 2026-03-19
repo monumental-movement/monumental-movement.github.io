@@ -21,7 +21,7 @@ Modelo 500 es otro nombre de Juan Atkins.
 
 Alex Reece Mix, por otro lado, tiene una remezcla de pasos de jazz suave, pero las voces no están completamente unificadas y se sienten un poco desincronizadas con el ritmo.
 
-MK del inframundo. 2 Mix es una pista sencilla, apta para discotecas, con una sensación oscura y ligeramente agresiva. Sin embargo, Frank De Wulf ofrece un remix que incorpora elementos del house tribal, y el "Original Mix" aún conserva su brillantez.
+MK del inframundo. 2 Mix es una pista sencilla, apta para discotecas, con una sensación oscura y ligeramente agresiva. Sin embargo, Frank De Wulf ofrece un remix que incorpora elementos del house tribal, y el "Original Mix" aún conserva su brillo.
 
 #### Lista de canciones
 ```md

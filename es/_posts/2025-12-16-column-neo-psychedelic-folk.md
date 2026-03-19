@@ -78,11 +78,11 @@ Se utiliza expansión espacial mediante reverberación y retardo, fluctuaciones 
 
 ### 3-1. Actitud de organización y producción.
 
-Animal Collective se caracterizó por la fluidez de los roles de los miembros más que por una composición de banda fija. Los instrumentos de percusión, samplers, instrumentos acústicos y voces se colocan por igual y no hay ningún instrumento principal central.
+Animal Collective se caracterizó por la fluidez de los roles de los miembros más que por una composición de banda fija. Los instrumentos de percusión, samplers, instrumentos acústicos y voces están colocados por igual y no hay ningún instrumento principal central.
 
 ### 3-2. Características acústicas
 
-Al tratar la voz como el instrumento principal, la superposición de coros de varias capas y los ritmos circulantes oscurecen el sentido del tiempo. Las melodías populares se deconstruyen y reconstruyen como collages acústicos.
+Tratando la voz como el instrumento principal, superponiendo coros de múltiples capas y ritmos circulantes oscurecen el sentido del tiempo. Las melodías populares se deconstruyen y reconstruyen como collages acústicos.
 
 ### 3-3. Conexión con el sentido visual.
 

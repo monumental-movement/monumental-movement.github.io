@@ -132,7 +132,7 @@ En particular, los puntos fuertes de Japón incluyen la "precisión del sonido",
 En Japón, se ha extendido por las calles y eventos desde mediados de la década de 2000, y las técnicas se comparten entre los artistas a través de sesiones de práctica y participación en competiciones.
 
 ## ◆ 2. Fuerte orientación técnica
-Los jugadores japoneses son fuertes en precisión de sonido y atención al detalle, y son elogiados incluso por jugadores extranjeros.
+Los músicos japoneses destacan por su precisión de sonido y atención al detalle, y son muy elogiados incluso por los músicos extranjeros.
 
 ## ◆ 3. Fusión con la cultura del vídeo y la edición
 Principalmente en YouTube y SNS,
@@ -173,7 +173,7 @@ Ha ayudado a elevar el perfil de los jugadores de Loopstation en Japón y tiene 
 
 ### ● Técnica precisa
 RUSY es conocido por sus ritmos altamente precisos y sus suaves técnicas de combinación, y ha recibido grandes elogios principalmente en torneos nacionales en Japón.
-Las características son:
+Las características incluyen:
 
 - ranura estrecha
 - Pronunciación clara y densa.
@@ -264,7 +264,7 @@ Podemos esperar que continúe activo tanto en Loopstation como en solitario.
 
 # Conclusión - Human Beatbox como cultura
 
-Human Beatbox es una cultura expresiva moderna que combina muchos aspectos como música, interpretación, vídeo y composición.
+Human Beatbox es una cultura de expresión moderna que combina muchos aspectos como música, interpretación, vídeo y composición.
 Hoy en día, el beatboxing está experimentando cambios importantes, como la maduración de la cultura de la competencia, la evolución de la tecnología y el ascenso de los artistas japoneses, y el beatboxing se está convirtiendo en algo más que una simple "técnica", sino que se está estableciendo como un género musical internacional.
 
 Espero que este artículo te ayude a comprender la historia y el futuro del beatboxing.

@@ -92,7 +92,7 @@ Contient des fluctuations plus proches des « sons naturels » que des sons num�
 Cette fluctuation subtile (fluctuation 1/f) est
 Il est connu pour résonner avec les ondes cérébrales alpha et produire un effet relaxant.
 
-En d'autres termes, les enregistrements analogiques sont un **bruit confortable pour le corps**.
+En d’autres termes, les enregistrements analogiques sont un **bruit confortable pour le corps**.
 Inconsciemment, nous recherchons un son qui ne soit pas trop formel.
 
 ---
@@ -109,12 +109,12 @@ Friedrich Kittler l'a déclaré dans « Media Archaeology ».
 Alors que le son évolue de « l'enregistrement » à la « lecture »,
 Le disque reste le seul support permettant de toucher le temps.
 
-Lorsque vous posez l’aiguille, elle émet un son et lorsque vous la relevez, le silence revient.
+Lorsque vous posez l’aiguille, elle émet un son, et lorsque vous la relevez, le silence revient.
 Au sein de ce mécanisme simple, il y a un **dialogue entre le temps et le corps**.
 
 ---
 
-## Chapitre 5 : Pourquoi la génération Z abandonne l'aiguille - Un nouveau sentiment d'appartenance
+## Chapitre 5 : Pourquoi la génération Z laisse tomber l'aiguille - Un nouveau sentiment d'appartenance
 
 Acheteurs records de la génération Z
 En fait, je ne connais pas « l’ère analogique ».

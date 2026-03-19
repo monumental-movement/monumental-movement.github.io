@@ -27,7 +27,7 @@ title: '[Chronique] Company Flow : L''horizon du hip-hop alternatif ouvert par l
 
 Texte : mmr｜Thème : De la formation à la dissolution de Company Flow, analyse de l'œuvre, structure solide, histoire des membres, signification historique
 
-À New York, à la fin des années 1990, alors que le hip-hop devenait une immense industrie commerciale, une énergie réactionnaire underground tourbillonnait autour de lui.
+À New York, à la fin des années 1990, alors que le hip-hop devenait une énorme industrie commerciale, une énergie réactionnaire underground tourbillonnait autour de lui.
 Les grands groupes de musique dirigés par Bad Boy Records élargissaient leurs sons scintillants, mais du côté de la rue, un nombre croissant d'artistes recherchaient un style d'expression plus rigide et politiquement chargé.
 
 **Company Flow** était au centre de cette démarche.
@@ -52,7 +52,7 @@ color: #fff;
 # Chapitre 1 : Jeune MC de Brooklyn – Le point de départ d'El-P (1990-1993)
 
 Le personnage principal de Company Flow, **El-P (El Producto)**, est originaire de Brooklyn, New York.
-Il a passé son enfance à une époque où le mouvement hip-hop se développait de manière explosive à New York et travaillait déjà au rap et à la réalisation de cassettes indépendantes lorsqu'il était adolescent.
+Il a passé son enfance à une époque où le mouvement hip-hop se développait de manière explosive à New York et travaillait déjà au rap et à la production de cassettes lorsqu'il était adolescent.
 
 Les lieux suivants étaient importants dans l’underground new-yorkais au début des années 1990.
 
@@ -63,7 +63,7 @@ Les lieux suivants étaient importants dans l’underground new-yorkais au débu
 
 El-P a également perfectionné ses compétences dans ce milieu, augmentant progressivement sa présence clandestine.
 
-Vers 1993, il rencontre **Bigg Jus**, qui deviendra plus tard un partenaire clé de Company Flow, et ils commencent à travailler ensemble.
+Vers 1993, il rencontre **Bigg Jus**, qui deviendra plus tard un partenaire clé de Company Flow, et ils commencent à travailler ensemble.
 
 Ensuite, **M. Len** a rejoint le groupe en tant que DJ, complétant ainsi la structure à trois que nous connaissons aujourd'hui.
 
@@ -80,7 +80,7 @@ En 1995, Company Flow était le premier single de 12 pouces du label.
 **"Techniques juvéniles"** sorti.
 
 Ce single est devenu un sujet brûlant parmi les auditeurs underground de New York à l'époque.
-Ce fut l’occasion pour leur nom de se répandre rapidement.
+Ce fut l'occasion pour leur nom de se répandre rapidement.
 
 ---
 
@@ -108,7 +108,7 @@ Les battements construits par El-P ont la texture suivante.
 
 Le rap de Bigg Jus et El-P était plus idéologique et politique que la musique de rue.
 
-Les éléments suivants sont particulièrement visibles.
+Les éléments suivants sont particulièrement remarquables.
 
 * Critique de l'industrie musicale corporatisée
 * Doutes sur la société de manipulation de l'information et de surveillance
@@ -117,7 +117,7 @@ Les éléments suivants sont particulièrement visibles.
 
 ### ● 3. Symbole du succès indépendant
 
-« Funcrusher » est devenu un succès de bouche à oreille underground,
+"Funcrusher" est devenu un succès de bouche à oreille underground,
 Il parviendra aux oreilles des personnes impliquées dans le label émergent **Rawkus Records**.
 
 ---
@@ -241,7 +241,7 @@ On dit que « Funcrusher Plus » a établi une « idéologie underground » auto
 Funcrusher Plus a été un succès, mais à mesure que Rawkus élargissait sa taille et formait des alliances capitalistiques,
 Company Flow a donné la priorité au **maintien de l'autonomie des artistes**.
 
-Les divergences d'opinion avec le label se sont progressivement creusées,
+Les divergences d'opinions avec le label se sont progressivement creusées,
 En 1999, ils quittent Rawkus Records.
 
 Se tenir à distance des « grands systèmes »,
@@ -262,7 +262,7 @@ En éliminant le rap, l'esthétique beat d'El-P passe au premier plan.
 
 ### ● Expansion de l'expérimentation
 
-* Éliminez les cris du DJ
+* Élimine le cri du DJ
 * Le BPM, la structure et le nombre de couches sont plus complexes qu'avant
 * Augmentation des éléments électroniques
 * Mélange de textures Lo-Fi et Hi-Fi
@@ -314,7 +314,7 @@ Beaucoup mélangent œuvres et collaborations.
 | Année | Titre | Tapez | Étiquette |
 | ---- | ------------------------------- | ---------- | ------------------------------------ |
 | 1995 | Techniques juvéniles | Simple de 12 pouces | Enregistrements officiels |
-| 1996 | Broyeur de fun | PE | Enregistrements officiels |
+| 1996 | Broyeur de fun | EP | Enregistrements officiels |
 | 1997 | Funcrusher Plus | Albums | Registres Rawkus |
 | 2000 | Petit Johnny de l'hôpital | Album instrumental | Registres Rawkus |
 
@@ -393,7 +393,7 @@ Il a présenté une perspective qui est toujours d’actualité même après plu
 
 # Le dernier chapitre : une existence éphémère mais décisive
 
-Ce que Company Flow laisse derrière lui, c'est
+L’héritage de Company Flow est
 Cela va au-delà de la valeur des simples œuvres musicales.
 
 * Possibilité d'indépendant

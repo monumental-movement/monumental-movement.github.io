@@ -14,11 +14,11 @@ title: 距離 – 夜視交通（混音）
 ---
 
 
-由迴響貝斯創始人 DJ Distance（格雷格·桑德斯）創作的迴響貝斯曲目的混音版，於 2009 年在 Planet Mu 廠牌上發行。
+レーベルPlanet Muから2009年にリリースされた、ダブステップのオリジネーターDJ Distance(Greg Sanders)によるDubstepトラックのremix。
 
-Side A 是英國製作人 Skream（Oliver Dene Jones 飾）的混音版，他從迴響貝斯界的早期就一直活躍在其中。
+A面は、ダブステップシーンの初期から活躍するUKのプロデューサーSkream（Oliver Dene Jonesオリバー・ディーン・ジョーンズ ）によるremix。
 
-B 面是日本迴響貝斯音樂家/DJ/製作人 Takeaki Maruyama（也稱為 Goth-Trad）的混音版。
+B面は、日本のダブステップミュージシャン/DJ/プロデューサーGoth-Trad（ゴス・トラッド）ことTakeaki Maruyamaによるremix。
 
 #### 曲目表
 ```md

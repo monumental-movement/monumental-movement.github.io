@@ -133,7 +133,7 @@ La participación de Mark Stewart reforzó la agitación.
 
 ## ■ “Pasos a paso de la Fundación” (1983)
 
-Es la canción más "reggae" de NAS, y la sensación de ritmo estable aumenta.
+Es la canción más "reggae" de NAS, con un sentido del ritmo más estable.
 Este trabajo también tiene fuertes temas sociopolíticos.
 
 ## ■ “Amor para siempre” (2012)
@@ -199,7 +199,7 @@ Incluso si NAS no publicara directamente letras políticas, "hacer música como 
 
 ---
 
-# Capítulo 9 Disipación y expansión de influencia.
+# Capítulo 9 Disipación y expansión de la influencia.
 
 Después de "Foundation Steppers" de 1983, cesaron los trabajos bajo el nombre de NAS.
 Pero su influencia se extendió por todas partes.
@@ -295,7 +295,7 @@ Aunque el trabajo se realizó hace más de 40 años, el sonido de New Age Steppe
 
 Se puede decir que NAS, que fue pionera en estas tendencias a principios de la década de 1980, es el prototipo de la música moderna.
 
-El sonido que dejaron atrás fue intenso, áspero, oscilante, saltarín y, a veces, destructivo, pero en esencia, se trataba de ser libre.
+Su sonido era intenso, áspero, oscilante, vivaz y, a veces, destructivo, pero en esencia se trataba de libertad.
 Esa libertad se sigue sintiendo en el trabajo de On-U Sound y en las escenas underground de todo el mundo.
 
 ---

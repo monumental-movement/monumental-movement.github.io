@@ -11,7 +11,7 @@ tags:
 - Euro House
 - Eurodance
 - 90s
-title: Clock – Everybody
+title: Horloge – Tout le monde
 ---
 
 

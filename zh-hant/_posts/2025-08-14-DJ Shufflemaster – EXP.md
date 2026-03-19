@@ -13,7 +13,7 @@ title: DJ 洗牌大師 – EXP
 ---
 
 
-DJ Shufflemaster（金森龍也）是一位日本硬科技製作人/DJ，自 20 世紀 90 年代末以來一直活躍。他是國際知名的電子音樂藝術家之一，曾與 Adam Beyer、Joel Mull、Ben Sims、Cari Lekebusch 等人一起演奏。
+DJ Shufflemaster（金森龍也）是一位日本硬科技製作人/DJ，自 20 世紀 90 年代末以來一直活躍。他是世界上最受讚譽的電子藝術家之一，曾與 Adam Beyer、Joel Mull、Ben Sims、Cari Lekebusch 等人一起演奏。
 
 《EXP》是柏林著名科技廠牌Tresor於2001年發行的一張全長專輯。被譽為DJ Shufflemaster的代表作。
 

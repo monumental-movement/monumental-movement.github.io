@@ -23,7 +23,7 @@ Text: mmr｜Theme: Structural analysis of how anime works resurfaced existing so
 ""Cyberpunk: Edgerunners" is an anime series based on the world of the game ""Cyberpunk 2077."
 It will be distributed simultaneously worldwide on Netflix in September 2022, and the song "I Really Want to Stay at Your House" used in the movie became a worldwide hit again after its distribution.
 
-This work is positioned as a representative example of the intersection of game IP, animation production, global distribution, and the streaming economy, pushing an existing song back to the top of the charts.
+This work is positioned as a representative example of how game IP, animation production, global distribution, and the streaming economy intersect to push an existing song back to the top of the charts.
 
 > This was not just an anime hit, but an event that signaled a change in the music distribution structure itself.
 

@@ -10,7 +10,7 @@ tags:
 - Pops
 - UK Pops
 - 7inch
-title: Las Bellas Estrellas – Iko Iko
+title: Las bellas estrellas – Iko Iko
 ---
 
 

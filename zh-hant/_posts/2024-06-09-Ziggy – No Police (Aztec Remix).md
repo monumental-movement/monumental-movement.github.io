@@ -16,7 +16,7 @@ title: Ziggy – 沒有警察（阿茲特克混音）
 ---
 
 
-《No Police》是一首充滿活力的歌曲，由 Christoff Wybouw（又名 Serge Gobin）創作和製作，他是比利時新節奏項目 J.C. Project、The Beast 和 War People 的成員。 Christoff Wybouw 以以別名 Bingo! 發行的《Arabeat》而聞名。
+《No Police》是一首充满活力的歌曲，由 Christoff Wybouw（又名 Serge Gobin）创作和制作，他是比利时新节奏项目 J.C. Project、The Beast 和 War People 的成员。 Christoff Wybouw 以以別名 Bingo! 發行的《Arabeat》而聞名。
 
 這張唱片是墨西哥舞曲廠牌Maxi於1987年發行的一張罕見的墨西哥唱片，與比利時唱片的封面不同。
 

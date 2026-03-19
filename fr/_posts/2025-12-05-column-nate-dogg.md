@@ -57,7 +57,7 @@ Tous les trois avaient de l'expérience en chantant à l'église, et Nate Dogg e
 Cette base du chant gospel a eu une influence décisive sur son style ultérieur.
 Même si sa voix était linéaire avec peu de vibrato, elle avait une résonance profonde et un sens du rythme naturellement ancré dans son corps.
 
-### Rejoindre les Marines
+### Rejoindre le Corps des Marines
 
 Après avoir obtenu son diplôme d'études secondaires, Nate Dogg ** s'est enrôlé dans le Corps des Marines des États-Unis ** et a été libéré après avoir servi pendant environ trois ans.
 Cette expérience a changé ses circonstances de vie, mais ce fut aussi une période qui l'a essentiellement obligé à retourner à Long Beach et à la musique.
@@ -115,7 +115,7 @@ La vibration des cordes vocales est forte et la résonance est profonde.
 Cela le rendait extrêmement compatible avec les rythmes durs du hip-hop.
 
 ### ■ Melody répète des phrases courtes
-Crée la qualité « hypnotique » nécessaire au G-Funk.
+Crée la qualité « hypnotique » nécessaire au G-Funk.
 
 ### ■ Respecter les « pauses » du rythme
 Ne chantez pas trop, laissez des trous dans le rythme.
@@ -129,12 +129,12 @@ Ces caractéristiques ont fait de la voix de Nate Dogg une composante essentiell
 
 ## 6. Les œuvres solos et leur positionnement
 
-Nate Dogg est très apprécié pour ses apparitions en tant qu'invité, mais il a également sorti plusieurs albums solo.
+Nate Dogg est très apprécié pour ses performances en tant qu'invité, mais il a également sorti plusieurs albums solo.
 
-#### ■ "G-Funk Classics, Vol. 1 et 2" (1998)
+#### ■ « G-Funk Classics, Vol. 1 et 2 » (1998)
 
 Sorti après une longue période de problèmes de production et de transfert d'étiquettes.
-De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt y ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.
+De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.
 
 #### ■ « La musique et moi » (2001)
 
@@ -212,7 +212,7 @@ timeline
 
 ---
 
-## 11. Diagramme du réseau musical de Nate Dogg
+## 11. Schéma du réseau musical de Nate Dogg
 
 <div class="mermaid">
 flowchart TD

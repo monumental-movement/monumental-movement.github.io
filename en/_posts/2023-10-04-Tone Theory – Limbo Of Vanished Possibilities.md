@@ -12,11 +12,11 @@ title: Tone Theory – Limbo Of Vanished Possibilities
 ---
 
 
-'Limbo Of Vanished Possibilities' by Tone Theory (Derrick Carter) is perfect for the dance floor, with its beat, intricate percussion, and powerful bassline.
+Tone Theory（デリック・カーター）による「Limbo Of Vanished Possibilities」は、ビートと複雑に作られたパーカッション、そして力強いベースラインでダンスフロアでの演奏には完璧です。
 
-In addition, the electronic "whistle" main hook, the delicate and beautiful little melody, and the emotional but mysterious vocals give off a sense of good taste.
+また、電子的な「口笛」のメインフック、繊細で美しい小さなメロディ、感情的ですが謎めいたボーカルがセンスの良さを感じさせます。
 
-Next, there are beautiful organ and piano lines, small hits, and filtered handclap percussion, and then DC provides a killer bassline that paints a rich sonic picture with a "bouncy" texture.
+次に、美しいオルガンとピアノのライン、小さなヒット、そしてフィルター処理された手拍子のパーカッション、そして、DCがキラーベースラインを提供し、これには「弾力」のあるテクスチャで豊かな音像を描いています。
 
 
 #### Tracklist
@@ -32,7 +32,7 @@ Remix – Bushwacka!
 B0.02　Limbo Of Vanished Possibilities (Mr C Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m14966528973?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14966528973?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q5Et2Zy4-Eo?si=9dFDNsaRRvPkOhnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

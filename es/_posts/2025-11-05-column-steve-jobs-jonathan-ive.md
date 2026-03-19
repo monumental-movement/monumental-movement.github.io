@@ -50,7 +50,7 @@ color: #fff;
 Steve Jobs fue un producto de la contracultura de California de finales de los años 1960 y 1970.
 Su admiración por Bob Dylan y los Beatles desde muy joven está confirmada por numerosas biografías.
 
-En la biografía de Walter Isaacson "Steve Jobs" (2011), tiene un **amplificador de válvulas y un tocadiscos** en su sala de estar.
+En la biografía de Walter Isaacson "Steve Jobs" (2011), su sala de estar tiene un **amplificador de válvulas y un tocadiscos**.
 Se dice que escuchaba todas las noches álbumes de Bob Dylan y Joan Baez.
 
 > "Las palabras de Dylan tienen alma. No son los sonidos de una máquina."
@@ -155,7 +155,7 @@ Después de la muerte de Jobs, lo describí de la siguiente manera:
 > "Observaba los productos de la misma manera que se escucha música: hay ritmo, hay armonía, hay silencio".
 
 El propio Ive llama al trabajo de diseño que continúa con LoveFrom un "proceso de sonido".
-En otras palabras, el diseño es a la vez arte visual y el acto de construir sonido.
+En otras palabras, el diseño no es sólo un arte visual, sino también un acto de construcción de sonido.
 
 ---
 
@@ -182,10 +182,10 @@ El diseño también sigue reproduciendo el "sonido" del amor.
 ---
 
 ### Referencias/Fuentes
--Isaacson, Walter. *Steve Jobs*. Simón y Schuster, 2011.
+- Isaacson, Walter. *Steve Jobs*. Simon & Schuster, 2011.   
 - FastCompany: [El primer proyecto de hardware de Jony Ive posterior a Apple, 2023](https://www.fastcompany.com/90919569/jony-ive-first-hardware-project-post-apple)
 - Wikipedia: [iPod](https://ja.wikipedia.org/wiki/IPod), [Power Mac G4 Cube](https://ja.wikipedia.org/wiki/Power_Mac_G4_Cube), [GarageBand](https://en.wikipedia.org/wiki/GarageBand)
-- Revista Far Out: [canciones favoritas de Steve Jobs] (https://faroutmagazine.co.uk/steve-jobs-favourite-songs/)
+- Far Out Magazine: [Steve Jobs’ favourite songs](https://faroutmagazine.co.uk/steve-jobs-favourite-songs/)  
 - Ultimate Classic Rock: [Bob Dylan compartió historias de composición con Steve Jobs] (https://ultimateclassicrock.com/bob-dylan-shared-songwriting-stories-with-steve-jobs/)
 
 ---

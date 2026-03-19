@@ -104,7 +104,7 @@ La música de baile organizada para las ciudades incorporó elementos populares 
 
 ### Fusión de folk y rock
 
-A finales de la década de 1960, surgió un movimiento para fusionar la música folclórica de Anatolia con el rock.
+A finales de la década de 1960, surgió un movimiento para fusionar la música folclórica de Anatolia y el rock.
 Se utilizaron guitarras eléctricas y tambores como dispositivos para ampliar los ritmos de danza tradicionales.
 
 ### Mantener la calidad del baile.

@@ -53,20 +53,20 @@ color: #fff;
 
 ---
 
-## 二.世界的地殼變化：低音驅動的 20 世紀音樂史
+## 二.世界的地殼變化：貝斯驅動的 20 世紀音樂史
 
 ### 1.從爵士樂的反叛開始。
 
 聆聽 Charles Mingus 演奏
 這聽起來不僅僅是低音線，它聽起來像是對社會的聲明。
-憤怒與智慧、即興創作與建構。低音裡有詩意。
+愤怒与智慧、即兴创作与建构。低音裡有詩意。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 像雷·布朗和羅恩·卡特這樣的球員
-他把哲學帶到了「行走的基線」。
+「歩くベースライン」に哲学を持ち込んだ。  
 聲音之間的節奏——這就是將爵士樂提升為一種藝術形式的原因。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -74,7 +74,7 @@ color: #fff;
 ---
 
 支持日本戰後爵士咖啡館的鈴木義夫和稻葉國光，
-用自己國家的情感享受這種“自由的低音聲音”，
+この「低音の自由」を自国の感性で咀嚼し、  
 不久之後，他們在東京的夜晚創造了自己獨特的節奏。
 
 ---
@@ -105,7 +105,7 @@ Sid Vicious（性手槍樂團）拒絕詭計，用他的存在發出叛逆的聲
 Bootsy Collins 的宇宙放克，
 雅科·帕斯托里斯的一首無憂無慮的詩。
 
-ベースはもはや“伴奏”ではなく、“語り部”へと進化する。  
+低音不再是“伴奏”，而是演變成了“敘述者”。
 米克·卡恩和東尼·萊文將聲音本身視為一座雕塑，
 他將貝斯推向了抽象藝術的領域。
 
@@ -126,7 +126,7 @@ Bootsy Collins 的宇宙放克，
 ---
 
 山下達郎樂隊的伊藤博典、後藤繼俊、岡澤晃──
-他們創造了一種連接流行歌曲和 AOR 之間世界的聲音。
+他們創造了介於流行歌曲和 AOR 之間的世界級聲音。
 低音吉他不再扮演幕後角色，而是成為支撐音樂「尊嚴」的元素。
 
 ---
@@ -145,8 +145,8 @@ ROVO和Shibusa Shirazu的貝斯手，
 
 ---
 
-downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
-そこには、叫びではなく“呼吸する静けさ”がある。
+downyやtoeの繊細な低音は、都市の夜を描く詩のようだ。  
+沒有尖叫聲，只有「呼吸靜止」。
 
 ---
 
@@ -162,8 +162,8 @@ STUTS 和 yahyel 將打字和現場音樂結合在一起。
 
 目前的樂團如 King Gnu 和 millennium parade，
 低音控制著歌曲的「敘事」。
-ハマ・オカモトは伝統と現代性の結節点として、  
-它提供了超越可玩性的“音樂文明”。
+濱岡本是傳統與現代的結合體。
+プレイヤビリティの先に“音楽的礼節”を提示している。
 
 ---
 
@@ -190,7 +190,7 @@ Joy Division 的 Peter Hook、PIL 的 Jah Wobble、
 ## 五、設備與美學：樂器敘述的另一段歷史
 
 Fender Precision、爵士貝斯、Rickenbacker。
-每種形狀都顯示音樂思想本身的差異。
+それぞれの形は、音楽思想そのものの違いを示す。  
 
 合成貝斯的發展也使貝斯聲音大眾化。
 穆格、羅蘭、Novation——機器有感情，
@@ -203,10 +203,10 @@ Fender Precision、爵士貝斯、Rickenbacker。
 
 ## 六．結論：低音是“社會的潛意識”
 
-ベースは音楽の中心ではない。  
+低音不是音樂的中心。
 然而，它仍然是所有聲音所立足的「基礎」。
 
-低音は言葉にできない感情を翻訳し、  
+低音詮釋著無法用語言表達的感情，
 慢慢地動搖社會的潛意識。
 
 在那條穿越世界和日本、地上和地下的線路上，
@@ -225,8 +225,8 @@ Fender Precision、爵士貝斯、Rickenbacker。
 |雅科·帕斯托里斯 | *雅科·帕斯托里斯* | 1976 |無憂詩| [亞馬遜](https://amzn.to/3L1qTUl) |
 |細野晴臣 | *愛樂樂團* | 1982 |日文節奏翻譯| 日文節奏[亞馬遜](https://amzn.to/4qi4uT0) |
 |米克卡恩 | *理性的夢想產生怪物* | 1987 |貝斯講述的夢想| [亞馬遜](https://amzn.to/499CNWg) |
-|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 | 2000扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
-|雷貓 | *醉* | 2017 | 2017貝斯歌唱的現代 | [亞馬遜](https://amzn.to/47bvA5w) |
+| 中尾憲太郎（NUMBER GIRL） | *SAPPUKEI* | 2000 | 歪んだ都市の低音 | [Amazon](https://amzn.to/47115k4) |
+| Thundercat | *Drunk* | 2017 | ベースが歌う現代 | [Amazon](https://amzn.to/47bvA5w) |
 
 ---
 

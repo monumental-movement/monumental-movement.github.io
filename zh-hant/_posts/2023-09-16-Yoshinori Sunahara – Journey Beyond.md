@@ -9,13 +9,13 @@ permalink: /zh-hant/yoshinori-sunahara-journey-beyond/
 tags:
 - House
 - Downtempo
-title: 砂原嘉德 – 超越之旅
+title: Yoshinori Sunahara – Journey Beyond
 ---
 
 
-《Journey Beyond》是砂原義典作品的一部分，也是您可以欣賞他獨特聲音風格的歌曲之一。他的音樂通常是原創的和實驗性的，但也有一種舒緩和放鬆的感覺。這首歌反映了砂原義典自己的音樂願景，同時融入了氛圍音樂的元素。
+《Journey Beyond》是砂原義德作品的一部分，也是您可以欣賞他獨特聲音風格的歌曲之一。他的音樂通常是原創的和實驗性的，但也有一種舒緩和放鬆的感覺。這首歌反映了砂原義典自己的音樂願景，同時融入了氛圍音樂的元素。
 
-他的歌曲，如“Journey Beyond”，非常適合在放鬆、集中註意力或踏上音樂之旅時欣賞。
+他的歌曲，如《Journey Beyond》，非常適合在放鬆、集中註意力或踏上音樂之旅時欣賞。
 
 砂原嘉德的音樂深受日本國內外眾多聽眾的喜愛，是他職業生涯中的重要作品之一。
 

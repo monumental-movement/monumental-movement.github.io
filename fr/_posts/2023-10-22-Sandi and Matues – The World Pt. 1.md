@@ -10,11 +10,11 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: Sandi & Matues – The World Pt. 1
+title: Sandi & Matues – Le monde Pt. 1 1
 ---
 
 
-「Sandi & Matues – The World Pt. 1 」の原盤は、レアファンクDJ KEB DARGE(ケブ・ダージ)しか所有していないという噂もある稀少盤。
+La version originale de "Sandi & Matues – The World Pt. 1" est un disque rare qui, selon les rumeurs, n'appartiendrait qu'au rare DJ funk KEB DARGE.
 
 #### Liste des chansons
 ```md

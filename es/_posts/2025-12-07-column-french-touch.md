@@ -23,7 +23,7 @@ Texto: mmr｜Tema: Cómo se conecta la reevaluación del house francés de la d�
 Acerca de los sintetizadores analógicos, la cultura discográfica y las técnicas de filter house
 
 A finales de la década de 2020, **French Touch** (casa francesa) está siendo reevaluada tanto en la cultura de clubes como en Internet. En términos de actuaciones de DJ, canciones como "Music Sounds Better With You" de Stardust y "1999" de Cassius están conmoviendo al público más joven nuevamente, y los primeros trabajos de Daft Punk están encontrando nuevas audiencias a través de reediciones en vinilo.
-Además, a medida que los productores nacionales y extranjeros incorporan activamente *sintetizadores analógicos, texturas de cinta, la aspereza del muestreo y la textura de los labios de vinilo*, se conectan naturalmente con el contexto de **Nu Disco**, que se estableció a finales de la década de 2000.
+Además, a medida que los productores nacionales y extranjeros incorporan activamente *sintetizadores analógicos, texturas de cinta, rugosidad de muestreo y textura de labios de vinilo*, se conectan naturalmente con el contexto de **Nu Disco**, que se estableció a finales de la década de 2000.
 
 Este fenómeno no es sólo nostalgia.
 Más bien, es precisamente porque el entorno digital se ha vuelto completamente omnipresente que
@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Establecimiento del toque francés: situación en París a finales de los años 1990
 ### ● Antecedentes: Un encuentro entre house y discoteca
 A mediados de la década de 1990, la escena de clubes parisinos absorbió la música house estadounidense mientras formaba una estructura única que ponía en primer plano los samples disco/soul.
-Si bien la influencia del Chicago House era fuerte, el house comenzó a funcionar como un nuevo tipo de "música pop" al mezclarlo con el "sentimiento melódico sofisticado" exclusivo de Europa.
+Si bien estaba fuertemente influenciado por el Chicago House, el house comenzó a funcionar como un nuevo tipo de "música pop", ya que se mezclaba con una "sensación melódica sofisticada" única en Europa.
 
 ### ● Existencia de etiqueta/base
 - **Roulé (Thomas Bangalter)**
@@ -190,7 +190,7 @@ El barrido del filtro de French Touch se basó en cambios armónicos analógicos
 
 ### ◆ ② Cultura discográfica: Producción musical basada en sampling
 Gran parte de French Touch comienza con muestras de vinilo.
-Aquí radica la "alegría de descubrir" la música**.
+Aquí está la "alegría de descubrir" la música**.
 Era la atmósfera de la época en la que la cultura de club y la cultura discográfica estaban directamente relacionadas.
 La excavación de registros en sí misma fue la puerta de entrada a la creación.
 

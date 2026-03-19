@@ -205,7 +205,7 @@ flowchart TD
 - Soirées piano (2014)
 
 ### ● L'Ensemble Kilimanjaro Darkjazz
-- L'Ensemble Kilimanjaro Darkjazz (2006)
+- L'ensemble Kilimanjaro Darkjazz (2006)
 - Voici les dragons (2009)
 - De la cage d'escalier (2011)
 

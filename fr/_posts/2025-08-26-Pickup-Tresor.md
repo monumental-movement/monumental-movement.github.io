@@ -77,7 +77,7 @@ B2. Game Form (Mike Dearborn Remix)
 <hr>
 <br>
 
-### Various – Tresor Compilation Vol. 6
+### Divers – Compilation Trésor Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 Résumé : Un album de compilation de Tresor sorti en 1998. Après le Vol.7 en 1999, c'est un morceau plein du charme des premiers Tresor.
@@ -145,10 +145,10 @@ Point attractif : Couvre une large gamme de styles tels que la dub techno et l'a
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlin 1992 Tresor Compilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-Résumé : La première compilation de Tresor sortie en 1992. Il s'agit d'un contenu condensé rempli de chansons d'une variété d'artistes des faces A à D.
+Résumé : La première compilation de Tresor, sortie en 1992. Il s'agit d'un contenu condensé rempli de chansons d'une variété d'artistes des faces A à D.
 
 
 Point intéressant : comme son titre l'indique, "Klang Der Familie" (Sons de la famille), il s'agit d'un chef-d'œuvre historique qui donne une impression réaliste de la période formatrice de la culture techno berlinoise. Particulièrement recommandé pour les fans d'analogique.
@@ -212,7 +212,7 @@ D2. Innervisions
 ### Chrislo – Faible
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-Présentation : L'un des artistes associés qui apparaît dans la section « Explorez davantage comme ceci » de la page de travail de Joey Beltram (The Rising Sun). Par Chrislo Haas, Trésor 092.
+Présentation : L'un des artistes apparentés qui apparaît dans la section « Explorez davantage comme ceci » de la page de travail de Joey Beltram (The Rising Sun). Par Chrislo Haas, Trésor 092.
 
 
 Point attractif : Il s'agit d'une œuvre solo de Chrislo Haas, connu pour son travail sous le nom de D.A.F. et Liaisons Dangereuses, et montre un lien fort avec la musique électronique expérimentale berlinoise.

@@ -72,7 +72,7 @@ B2. Call Me Mañana (Heavy Horses Radio)
 ### Ratty – 日出（我在這裡）
 <a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(此處%20I%20A>
 
-概述：Scooter 的 trance 衍生項目 Ratty 的歌曲
+概要：Scooter のトランス派生プロジェクト Ratty による曲
 
 特點：代表原版《她是太陽》《日出（老鼠的地獄）》。充滿激情的地板軌道，在俱樂部裡看起來很棒。
 

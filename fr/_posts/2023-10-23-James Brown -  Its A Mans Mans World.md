@@ -10,15 +10,15 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: James Brown -  It's A Man's Man's World
+title: James Brown - C'est un monde d'hommes
 ---
 
 
-ジェームス・ブラウンによる楽曲で、彼の代表作の一つとして知られています。この曲は1966年にリリースされ、その力強く感情豊かなパフォーマンスと共に、ソウルミュージックの傑作とされています。
+Cette chanson a été écrite par James Brown et est connue comme l’un de ses chefs-d’œuvre. Cette chanson est sortie en 1966 et est considérée comme un chef-d’œuvre de la soul music avec son interprétation puissante et émotionnelle.
 
-この曲の歌詞は男性が支配する世界を歌っており、同時に女性に対する感謝の気持ちも歌い上げられています。ブラウンの力強いヴォーカルと感情の籠った歌唱は、聴く者に深い感動を与え、その存在感を際立たせています。
+Les paroles de cette chanson parlent d’un monde dominé par les hommes, mais en même temps elles expriment leur gratitude envers les femmes. La voix puissante et le chant émotionnel de Brown laissent de profondes impressions sur les auditeurs, faisant ressortir sa présence.
 
-この曲は、ブラウンの音楽キャリアで重要な位置を占め、ソウルとR&Bのクラシックとして広く賞賛されています。その深みのある歌唱と心に響くメッセージにより、今日でも多くのリスナーに愛され続けています。
+La chanson occupe une place importante dans la carrière musicale de Brown et est largement saluée comme un classique de la soul et du R&B. Grâce à son chant profond et à ses messages touchants, elle continue d'être aimée par de nombreux auditeurs aujourd'hui.
 
 #### Liste des chansons
 ```md

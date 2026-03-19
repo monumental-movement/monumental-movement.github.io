@@ -16,10 +16,10 @@ title: 蟻丘暴徒－你應該知道
 
 Anthill Mob 是代表東倫敦的英國車庫集團。
 
-主要成員包括製作人兼歌手 Tosh (Yoush)（又名 Andrew Alcee）和製作人 Just Juice（又名 Justin Jones）。它也以 Studio 2 的名稱發布。
+主要成员包括制作人兼歌手 Tosh (Yoush)（又名 Andrew Alcee）和制作人 Just Juice（又名 Justin Jones）。它也以 Studio 2 的名稱發布。
 
 
-A1、A2、B2 是美國 DJ 兼製作人 Todd Edwards 的混音作品，據說他是 20 世紀 90 年代初期 Speed Garage 和 Garage House 的鼻祖之一。
+A1, A2, B2は、1990年代初頭のスピードガラージ&ガラージハウスのオリジネーターの一人と言われるアメリカDJ・プロデューサーTodd Edwards(トッド・エドワーズ)によるremix。
 
 #### 曲目表
 ```md

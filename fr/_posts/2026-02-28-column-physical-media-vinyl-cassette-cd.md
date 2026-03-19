@@ -70,7 +70,7 @@ En 1963, Philips introduit la cassette compacte. L'enregistrement se démocratis
 
 En 1982, le disque compact développé conjointement par Sony et Philips est introduit sur le marché. Il est devenu populaire dans les années 1990 en raison de sa durabilité, de son faible bruit et de sa facilité de repérage.
 
-> L'innovation technologique réorganise toujours le rôle des médias traditionnels plutôt que de les éliminer.
+> L'innovation technologique réorganise toujours les rôles des médias traditionnels plutôt que de les éliminer.
 
 ---
 

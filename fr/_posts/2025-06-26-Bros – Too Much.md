@@ -10,14 +10,14 @@ tags:
 - Synth-Pop
 - Pops
 - 80s
-title: Bros – Too Much
+title: Bros – Trop
 ---
 
 
-Brosは、1987年〜1992年まで活動したイギリスのポップバンド。結成時は、双子の兄弟 Matt &Luke Goss(マット・ゴス&ルーク・ゴス)
-、Craig Logan(クレイグ・ローガン)のトリオだったが、1989年初頭にCraig Loganが脱退し、デュオとして活動した。マネージャーは元Pet Shop Boys(ペットショップボーイズ)のマネージャーTom Watkins(トム・ワトキンス)。
+Bros était un groupe pop britannique actif de 1987 à 1992. Au moment de sa formation, les frères jumeaux Matt et Luke Goss (Matt Goss & Luke Goss)
+, était un trio avec Craig Logan, mais début 1989, Craig Logan quitta le groupe et ils commencèrent à travailler en duo. Le directeur est l'ancien directeur des Pet Shop Boys, Tom Watkins.
 
-1989年にリリースされた「Too Much」は、Brosのセカンドアルバム『The Time』からのシングルカット。UKだけでなく日本でもヒットしたBrosの代表作。日本でのヒット&コンサート成功もあり、YAMAHAのスクーター・ヤマハ・ジョグのCMにも出演した。
+Sorti en 1989, "Too Much" est un single extrait du deuxième album des Bros, The Time. Le chef-d'œuvre des Bros qui a été un succès non seulement au Royaume-Uni mais aussi au Japon. Ce fut un succès et un succès de concert au Japon, et est également apparu dans une publicité pour le scooter Yamaha Jog de Yamaha.
 
 #### Liste des chansons
 ```md

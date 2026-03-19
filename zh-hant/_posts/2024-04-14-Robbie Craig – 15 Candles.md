@@ -15,7 +15,7 @@ title: 羅比克雷格 – 15支蠟燭
 
 「15 Candles / L.O.V.E. Feeling」是 East17 主唱（2014 年至今）Robbie Craig 的一首英國車庫歌曲。
 
-促銷版限量 700 份。
+700枚限定のプロモ盤。
 
 Side A 是英國車庫藝術家 Laurence Bagnall 和 Stanton Warriors 成員以及英國車庫/浩室/貝斯音樂製作人 Mark Yardley 的混音作品。
 

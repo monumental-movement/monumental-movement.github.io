@@ -123,7 +123,7 @@ Formación de las bases de la "cultura fan dance" que continuó con Bodycon y Ju
 | Como una virgen | Virgen | Simboliza el nacimiento de un ícono pop femenino. |
 | Lo siento por ti | Chaka Khan | Una fusión de hip-hop y disco. |
 | Héroe del baile | Yoko Oginome | Un éxito sinónimo de discoteca japonesa. |
-| DESEO -Pasión- | Akina Nakamori | Una fusión de ritmos disco y canciones pop. |
+| DESEO -Pasión- | Akina Nakamori | Una fusión de ritmo disco y canciones pop. |
 | Vamos a bailar | Tierra, viento y fuego | Un puente del funk a la discoteca. |
 | ¡Palabra arriba! | Camafeo | Clásico disco basado en el funk. |
 | Celebración | Kool y la pandilla | Una canción clásica de festival. |
@@ -302,7 +302,7 @@ El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de dis
 | Levitando | Dua Lipa | Popular en TikTok |
 | Dilo | Gato Doja | Muy popular en Japón |
 | Discoteca | Kylie Minogue | Discoteca moderna como sugiere el título |
-| Llueve sobre mí | Lady Gaga y Ariana Grande | Regreso del dance-pop |
+| Llueve sobre mí | Lady Gaga y Ariana Grande | Renacimiento del dance-pop |
 | Funk hacia el futuro | Tempo nocturno | Interpretación Future Funk desde Japón |
 | Deje la puerta abierta | Sonic de seda | Fusión Soul x Disco |
 | Rompe mi alma | Beyoncé | Fusión house y discoteca |

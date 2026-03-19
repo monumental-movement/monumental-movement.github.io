@@ -13,9 +13,9 @@ title: Brtsh Knights – 如果我願意
 ---
 
 
-Sweyn Jupiter（David Barseghian），也被稱為 Brtsh Knights，是一位居住在倫敦的作曲家/鍵盤手。
+Brtsh KnightsことSweyn Jupiter（David Barseghian）は、ロンドンを拠点に活動するコンポーザー／キーボード奏者。
 
-《If I Was To》於 2013 年由 Ninja Tune 的單曲廠牌 Technicolor 發行。
+「If I Was To」は、Ninja TuneのシングルレーベルTechnicolorより2013年にリリースされた。
 
 #### 曲目表
 ```md

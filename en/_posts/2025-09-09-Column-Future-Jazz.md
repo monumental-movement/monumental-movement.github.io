@@ -212,7 +212,7 @@ In the era of streaming and AI, Future Jazz has been reevaluated and intersected
 | No | Artist | Track | Comments |
 |---|---|---|---|
 | 1 | Alfa Mist | Keep On | Melancholy Future Jazz. |
-| 2 | Kamaal Williams | Hold On | A representative contemporary jazz piece from London. |
+| 2 | Kamaal Williams | Hold On | A representative contemporary jazz song from London. |
 | 3 | Shabaka Hutchings | Hustle | Spiritual and powerful. |
 | 4 | Nubya Garcia | Pace | Saxophone stands out. |
 | 5 | Blue Lab Beats | Pineapple | A fusion of hip-hop and jazz. |

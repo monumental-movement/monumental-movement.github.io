@@ -19,7 +19,7 @@ title: '[Columna] Posibilidades de las bandas virtuales: Cómo la música intang
 
 ## ¿Qué es una banda virtual?
 
-Texto: mmr | Tema: Descifrar a partir de hechos históricos cómo las bandas virtuales que combinan tecnología digital y narración han cambiado la forma en que se hace, se escucha y se cree en la música.
+Texto: mmr｜Tema: Descifrando a partir de hechos históricos cómo las bandas virtuales que combinan tecnología digital y narración han cambiado la forma en que se hace, se escucha y se cree en la música.
 
 
 ### La invención de una “unidad musical” que no tiene sustancia
@@ -53,7 +53,7 @@ color: #fff;
 
 Los orígenes de la banda virtual se pueden encontrar en la cultura de la animación y los álbumes conceptuales de finales del siglo XX. En películas animadas y series de televisión, personajes inexistentes han cantado las canciones y el público las ha aceptado naturalmente. Aquí se dio prioridad a "quién canta en la historia" sobre el hecho de "¿quién canta?".
 
-Además, desde finales de la década de 1960 hasta la de 1970, aparecieron en la música rock y pop obras que utilizaban escenarios de bandas ficticias y alter egos. Esta fue también una forma para que el artista se distanciara de su verdadero yo y aumentara su libertad de expresión.
+Además, desde finales de la década de 1960 hasta la de 1970, aparecieron obras que utilizaban escenarios de bandas ficticias y alter egos en la música rock y pop. Esta fue también una forma para que el artista se distanciara de su verdadero yo y aumentara su libertad de expresión.
 
 Estos casos ya contaban con dos elementos necesarios para las bandas virtuales posteriores. Primero, la receptividad del público para empatizar con un ser ficticio. En segundo lugar está el reconocimiento de que la historia y el escenario amplían la experiencia musical.
 
@@ -89,7 +89,7 @@ Aquí la banda virtual no se escondió detrás del anonimato, sino que adquirió
 
 ---
 
-## Síntesis de voz y desincorporación vocal
+## Síntesis del habla y desincorporación vocal.
 
 ### El fenómeno de que las voces tienen personalidad
 

@@ -20,7 +20,7 @@ title: '[Columna] Cultura musical de los indígenas amazónicos: un universo de 
 
 ## Prólogo: Un mundo de sonidos que llena el bosque
 
-Texto: mmr｜Tema: Cultura musical que no es una herencia fija, sino que se ha heredado cambiando de forma en respuesta a los cambios en el medio ambiente y la sociedad.
+Texto: mmr｜Tema: La cultura musical no es una herencia fija, sino que se ha heredado cambiando de forma en respuesta a los cambios en el medio ambiente y la sociedad.
 
 La cuenca del río Amazonas es una de las regiones con mayor diversidad cultural del mundo. Cientos de grupos indígenas han convivido, cada uno con sus propios lenguajes, mitos y estructuras sociales. En este contexto, la música no se ha desarrollado como una forma independiente de entretenimiento o arte, sino como un acto inseparable de la vida misma.
 
@@ -89,7 +89,7 @@ Para algunos instrumentos, puede que ni siquiera sea posible verlos; sólo se pe
 
 Los ritos de iniciación y curación utilizan canciones y ritmos largos y repetitivos. Esto cambia el estado de conciencia de los participantes y los traslada del mundo cotidiano al tiempo ritual.
 
-Los chamanes se comunican con los espíritus a través del canto y buscan las causas de las enfermedades y dolencias. Las letras suelen ser simbólicas y no tienen un significado directo. Lo importante no es el contenido de las palabras, sino la vibración y repetición del sonido en sí.
+Los chamanes se comunican con los espíritus a través del canto y buscan las causas de las enfermedades y los trastornos. Las letras suelen ser simbólicas y no tienen un significado directo. Lo importante no es el contenido de las palabras, sino la vibración y repetición del sonido en sí.
 
 La música es una terapia, un medio y una técnica para cruzar fronteras.
 

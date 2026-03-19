@@ -102,7 +102,7 @@ flowchart TD
 
 ## 3. Musiques du monde par région × Caractéristiques de l'acoustique électronique
 
-### 3-1 Sud-Asiatique
+### 3-1 Asiatique du Sud
 
 * Système Raga, tala (structure mesurée)
 * Rythmes divisés complexes de tabla
@@ -221,7 +221,7 @@ Les drones d’instruments folkloriques, les sons soutenus multicouches et les e
 ### 8-3 Importance de la collaboration
 
 * Enregistrement en direct avec des joueurs d'instruments traditionnels
-*Doit être produit avec une compréhension du contexte culturel de la musique locale.
+*Doit être produit avec une compréhension du contexte culturel de la musique régionale.
 
 ---
 

@@ -19,7 +19,7 @@ title: 拾起新浪潮作品
 
 
 
-### 埃爾維斯·科斯特洛 (Elvis Costello) 和景點 – 讓他們都來談談
+### Elvis Costello And The Attractions – Let Them All Talk
 <a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
 
 
@@ -81,9 +81,9 @@ B. The Flirting Kind
 ### 表達——表達
 <a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20">Expression.webp</p</>
 
-發行：發佈於 2023 年 10 月 26 日。澳洲合成流行新浪潮樂團的同名專輯。
+リリース：2023年10月26日掲載。オーストラリアのシンセポップ・ニューウェーブバンドによるセルフタイトルアルバム。
 
-推薦點：流行氣息濃厚的新浪潮，尖銳的吉他riff、合成器、獨特的人聲。非常適合喜歡 80 年代早期合成流行音樂的人。
+おすすめポイント：鋭いギターリフとシンセ、ユニークなボーカルが際立つポップ色の強いニューウェーブ。初期80年代のシンセポップが好きな方にぴったりです。
 
 #### 曲目表
 ```md
@@ -145,10 +145,10 @@ B6. (It's Not Me) Talking
 ### 家具——我不能破解
 <a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20rackCan't%">20C.webp.
 
-發行：發佈於 2023 年 9 月 9 日。由一支帶有英國流行/新浪潮/後朋克元素的樂隊製作的 1985 年 EP。
+发行：发布于 2023 年 9 月 9 日。由一支帶有英國流行/新浪潮/後朋克元素的樂隊製作的 1985 年 EP。
 
 
-推薦重點：朗朗上口的旋律、大氣的聲音和內省的歌詞結合的獨特世界觀。這部作品獲得了評論家的高度評價。
+おすすめポイント：キャッチーなメロディと大気的なサウンド、内省的な歌詞が融合した独自の世界観。批評家からも高評価を得た作品です。
 
 #### 曲目表
 ```md
@@ -172,7 +172,7 @@ B1. I Can't Crack (Broken Mix)
 ### Devo－新傳統主義者
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></aalisalists>
 
-發行：2024年5月18日發布。美國新浪潮代表Devo第四張自製專輯（1981）。
+發行：2024年5月18日發布。美国新浪潮代表Devo第四张自制专辑（1981）。
 
 
 推薦點：一張融合了極簡酷炫的合成器線條、電子打擊樂以及「deevolution」主題的創新專輯。收錄了《Through Being Cool》等代表性歌曲。
@@ -194,7 +194,7 @@ B6. Working In The Coal Mine
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -209,7 +209,7 @@ B6. Working In The Coal Mine
 
 發行：發佈於 2023 年 10 月 13 日。英國創作歌手 Colín Vearncombe 的獨唱作品 Black。
 
-推薦點：一首融合了細膩旋律和憂鬱歌詞的新浪潮/搖滾作品。深刻的世界觀很吸引人。
+推荐点：一首融合了细腻旋律和忧郁歌词的新浪潮/摇滚作品。深刻的世界觀很吸引人。
 
 #### 曲目表
 ```md
@@ -234,9 +234,9 @@ B3. Stephen
 ### 狂喜－在你愛的恩典中
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The70Gapture%20%E2%80%93%20In%20The70Gapture%20%E2%80%93%20In%20The70G
 
-發行：發佈於 2024 年 12 月 18 日。來自紐約的後龐克/舞曲龐克/新浪潮樂團的第三張專輯（2011 年發行）。
+发行：发布于 2024 年 12 月 18 日。來自紐約的後龐克/舞曲龐克/新浪潮樂團的第三張專輯（2011 年發行）。
 先生
-推薦重點：他們的風格是後龐克、電子、迪斯可等的大膽組合。推薦作為近年來也帶有復興感的舞蹈新浪潮。
+おすすめポイント：ポストパンクとエレクトロ、ディスコ等を大胆にミックスしたアプローチが魅力。近年のシーンでもリバイバル感のあるダンシングニューウェーブとしておすすめです。
 
 #### 曲目表
 ```md

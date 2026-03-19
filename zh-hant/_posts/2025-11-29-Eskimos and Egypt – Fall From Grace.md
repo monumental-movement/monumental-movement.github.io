@@ -10,7 +10,7 @@ permalink: /zh-hant/eskimos-and-egypt-fall-from-grace/
 tags:
 - House
 - 90s
-title: 愛斯基摩人和埃及－從恩典墮落
+title: Eskimos & Egypt – Fall From Grace
 ---
 
 

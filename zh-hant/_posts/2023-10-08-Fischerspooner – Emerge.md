@@ -17,7 +17,7 @@ title: 費雪斯普納 – 出現
 
 《Emerge》體現了 Fischer Spooner 的標誌性聲音，結合了舞曲和藝術表演的元素。這首歌的特點是極簡主義、絕妙的節奏、合成器連複段和獨特的聲音風格。
 
-《Emerge》被認為是一首追求舞池興奮感，同時又具有黑暗感性氛圍的歌曲。快節奏的節奏和獨特的音景相結合，吸引聽眾。
+「Emerge」は、ダークでエモーショナルな雰囲気を持ちながらも、ダンスフロアでの盛り上がりを追求した楽曲として知られています。疾走感のあるリズムとユニークなサウンドスケープが組み合わさり、聴く人々を魅了します。
 
 #### 曲目表
 ```md
@@ -26,7 +26,7 @@ A. Emerge
 B. Emerge (Adult Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m95864985742?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95864985742?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i70xb7i4Dmc?si=LrTDhhKq5bpfj6sN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

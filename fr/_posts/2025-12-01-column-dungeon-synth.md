@@ -28,7 +28,7 @@ title: '[Chronique] Dungeon Synth ─ Une esthétique ambient underground qui s'
 Texte : mmr｜Thème : À propos de l'histoire, des techniques de production et de la position culturelle de Dungeon Synth, un genre ambient underground dérivé du black metal
 
 Dungeon Synth est un genre musical qui exprime la spiritualité du black metal et la vision du monde fantastique/médiévale à travers des sons de synthétiseur minimalistes.
-Ses origines se trouvent dans la scène musicale extrême européenne du début des années 1990, mais à partir de la fin des années 2010, avec l'expansion de la culture Bandcamp, la deuxième et la troisième génération se sont rapidement développées et se sont désormais développées en un vaste réseau de bricolage.
+Ses origines remontent à la scène musicale extrême européenne du début des années 1990, mais les deuxième et troisième générations se sont rapidement développées depuis la fin des années 2010 avec l'expansion de la culture Bandcamp, et elle s'est désormais développée en un gigantesque réseau de bricolage.
 
 ---
 
@@ -86,7 +86,7 @@ De 1995 à 2000, un jeune projet européen qui a précédé "Era I" de Mortii, C
 
 ### ● 2-3. Vierge ~ Réévaluation (2001-2010)
 S'écartant du courant dominant de la scène metal, le genre est resté au sein d'une petite communauté jusqu'au milieu des années 2000.
-Cependant, à la fin des années 2000, alors que les débuts du black metal étaient réévalués, **Mortiis Era I a été réédité** et a commencé à recevoir une attention renouvelée dans le monde entier.
+Cependant, à la fin des années 2000, alors que les premiers black metal étaient réévalués, **Mortiis Era I a été réédité** et a commencé à recevoir une attention renouvelée dans le monde entier.
 
 ### ● 2-4. Deuxième vague (2010-2015)
 Les changements dans l’environnement Internet et la diffusion de Bandcamp sont devenus le facteur décisif.
@@ -222,7 +222,7 @@ Sont spécifiquement utilisés :
 
 ---
 
-## ■ 5. Diagramme sirène : Structure acoustique
+## ■ 5. Schéma sirène : Structure acoustique
 
 <div class="mermaid">
 flowchart TD
@@ -277,7 +277,7 @@ L'influence visuelle est extrêmement importante et joue un rôle complémentair
 - **Fief (États-Unis)**
 
 ## ● Temps modernes (2024–)
-- Forte multinationalisation et fragmentation.
+- Forte multinationalisation et segmentation.
 Des thèmes tels que Forêt / Hiver / Héroïque / Cosmic Synth ont augmenté.
 
 ---

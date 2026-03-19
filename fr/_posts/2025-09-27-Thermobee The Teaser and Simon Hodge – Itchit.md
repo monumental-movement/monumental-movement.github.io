@@ -10,14 +10,14 @@ tags:
 - Hard House
 - Techno
 - 00s
-title: Thermobee, The Teaser & Simon Hodge – Itchit
+title: Thermobee, The Teaser et Simon Hodge – Itchit
 ---
 
 
-Thermobee、The Teaser、Simon Hodgeによる
-「Itchit」は、2000年にイギリスのレーベルCut N’ Dry RecordsからリリースされたHard House／Techno。
+Thermobee, le teaser, de Simon Hodge
+« Itchit » est une chanson Hard House/Techno sortie par le label britannique Cut N' Dry Records en 2000.
 
-リリース当時からアンダーグラウンドシーンで注目され、ハード・ハウスとテクノを融合させたエネルギッシュなトラックは現在も支持される一枚。
+Il a attiré l'attention de la scène underground depuis sa sortie, et son morceau énergique qui fusionne hard house et techno est toujours populaire aujourd'hui.
 
 #### Liste des chansons
 ```md

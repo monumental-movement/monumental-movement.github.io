@@ -61,7 +61,7 @@ The initial members changed drastically, with vocals, bass, and drums frequently
 
 ---
 
-The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, with an aggressiveness that was outstanding on the West Coast at the time.
+The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, and had an aggressiveness that was outstanding on the West Coast at the time.
 
 The title track, "Nervous Breakdown," is about mental breakdown, but it's full of urgent energy rather than introspection. The lyrics are concise, presenting emotions as raw rather than descriptive. This approach became the basis for later hardcore punk.
 
@@ -129,7 +129,7 @@ This DIY model set a realistic precedent for later indie rock and hardcore scene
 
 In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated, and the noisy texture became emphasized.
 
-This change was not just an experiment, but also a reflection of life on the road, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
+This change was not just an experiment, but also a reflection of touring life, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
 
 During this period, Black Flag expanded the boundaries of hardcore and laid the foundation for later influences on sludge, grunge, and alternative rock.
 

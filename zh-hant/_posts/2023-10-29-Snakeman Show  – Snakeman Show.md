@@ -9,7 +9,7 @@ permalink: /zh-hant/snakeman-show-snakeman-show/
 tags:
 - JPop
 - Techno
-title: 蛇人秀 – 蛇人秀
+title: Snakeman Show  – Snakeman Show
 ---
 
 

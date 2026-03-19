@@ -9,13 +9,13 @@ permalink: /fr/fresh-signal-big-love/
 tags:
 - Drum n Bass
 - 00s
-title: Fresh – Signal / Big Love
+title: Frais – Signal / Grand Amour
 ---
 
 
-DJ FreshことDan Stein は、UKのdrum & bass／ dubstep プロデューサー&DJ。ドラムンベースグループBad Company(BC ／ ᑐᗴ|ᗱᑕ) のメンバーでもあり、Adam Fと共にドラムンベースレーベルBreakbeat Kaosを運営している。
+Dan Stein, également connu sous le nom de DJ Fresh, est un producteur et DJ britannique de drum & bass/dubstep. Il est également membre du groupe de drum and bass Bad Company (BC / ᑐᗴ|ᗱᑕ), et dirige le label de drum and bass Breakbeat Kaos avec Adam F.
 
-「Signal / Big Love」は、2003年にレーベルRAM Recordsからリリースされたdrum & bassトラック。
+"Signal / Big Love" est un morceau de drum & bass sorti par le label RAM Records en 2003.
 
 #### Liste des chansons
 ```md

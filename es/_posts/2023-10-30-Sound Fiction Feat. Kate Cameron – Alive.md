@@ -23,7 +23,7 @@ Kate Cameron es una cantante profesional de house y trance con una rica voz de a
 
 Sus créditos incluyen ``P.A.S.S.I.O.N'' con John of Norman Cooke/ Pleased Women, ``Far From In Love'' con Above & Beyond y ``What Ya'' con el grupo holandés Signum. Fue un extracto de su tema de hard house "You Better" bajo el alias Mount Rushmore Presents the Knack, que ha tenido éxito en las listas como solista con un destacado productor, incluido "Got 4 Me".
 
-Junto con Angie Brown, fue corista en muchas canciones del exitoso álbum Drive Thru Booty de Freak Power, incluido su segundo sencillo, "Rush". Continúa de gira y grabando con Freak Power,
+Junto con Angie Brown, fue corista en muchas canciones del exitoso álbum de Freak Power, Drive Thru Booty, incluido su segundo sencillo, "Rush". Continúa de gira y grabando con Freak Power.
 
 También ha enseñado tanto en la Universidad de Sussex como en la Universidad de Chichester, y entre sus destacados alumnos como entrenadores se encuentran Beth Lawrie, Tom Odell y Luke Pritchard.
 

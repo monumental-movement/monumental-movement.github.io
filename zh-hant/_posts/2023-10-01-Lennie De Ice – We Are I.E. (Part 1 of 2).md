@@ -9,7 +9,7 @@ permalink: /zh-hant/lennie-de-ice-we-are-i-e-part-1-of-2/
 tags:
 - House
 - Hard House
-title: Lennie De Ice – 我們是 I.E. （第 1 部分，共 2 部分）
+title: Lennie De Ice – We Are I.E. (Part 1 of 2)
 ---
 
 

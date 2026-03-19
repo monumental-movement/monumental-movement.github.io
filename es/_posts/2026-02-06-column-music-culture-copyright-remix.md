@@ -63,7 +63,7 @@ El trasfondo de esto fue un entorno de producción que aprovechaba al máximo lo
 
 ---
 
-## Expansión del hip hop y el sampleo
+## Expandiendo el Hip Hop y el Sampling
 
 Nacido en Nueva York a finales de los años 1970, el hip-hop llevó la cultura del remix al centro de la cultura urbana a través del sampleo. La repetición de breakbeats y la cita fragmentaria de fuentes sonoras existentes separaron la producción musical de la educación profesional y la transformaron en una práctica basada en el equipamiento y la sensación.
 
@@ -79,7 +79,7 @@ El sistema de derechos de autor tiene como objetivo promover las actividades cre
 
 Al mismo tiempo, existen excepciones como cotización, uso personal y uso educativo, por lo que no toda reutilización está prohibida. El problema es que los límites siempre requieren interpretación.
 
-> Los derechos de autor no son una norma de prohibición fija, sino un marco de adaptación.
+> El derecho de autor no es una norma de prohibición fija, sino un marco de adaptación.
 
 ---
 
@@ -145,7 +145,7 @@ Se puede decir que se trata de una elección que prioriza la sostenibilidad cult
 
 ## Problema de reedición en la era de la IA
 
-La generación y conversión mediante IA amplía aún más el concepto de remezcla. El uso de datos, la similitud de resultados y la imitación de estilos durante la etapa de aprendizaje plantean problemas que no pueden resolverse utilizando conceptos convencionales de derechos de autor.
+La generación y conversión mediante IA amplía aún más el concepto de remezcla. El uso de datos, la similitud de resultados y la imitación de estilos durante la etapa de aprendizaje plantean cuestiones que no pueden resolverse utilizando conceptos convencionales de derechos de autor.
 
 > La IA redefinirá quién es responsable de la remezcla.
 

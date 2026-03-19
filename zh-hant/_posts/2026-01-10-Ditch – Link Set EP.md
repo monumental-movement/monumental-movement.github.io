@@ -16,7 +16,7 @@ title: 溝渠 - Link Set EP
 
 Shinichiro Kono，又名 Ditch，是一位來自仙台的日本製作人，自 2001 年以來一直擔任 Minimal House & Techno DJ。他曾在 Minibar、Safari Electronique、Microcosm、Goosehound、Kalimari 和 op.disc 等眾多唱片公司發行作品。
 
-《Link Set EP》是一首 Techno/Minimal 曲目，於 2006 年在英國唱片公司 Safari Electronique 上發行。
+「Link Set EP」は、2006年にUKのレーベルSafari ElectroniqueからリリースされたTechno／Minimalトラック。
 
 #### 曲目表
 ```md

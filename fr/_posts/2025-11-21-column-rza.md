@@ -90,8 +90,8 @@ Les œuvres représentatives et les pistes distinctives sont les suivantes :
 
 * **Ghostface Killah – « Ironman » (1996)**
 
-* **« All That I Got Is You »** : échantillon de cordes soul, expression émotionnelle profonde
-* **« Iron Maiden »** : Batterie lourde, charleston aiguisé, la structure philosophique de RZA se dévoile.
+* **« Tout ce que j'ai, c'est toi »** : échantillon de cordes soul, expression émotionnelle profonde
+* **« Iron Maiden »** : Batterie lourde, charleston aiguisé, la structure philosophique de RZA se révèle.
 
 <div class="mermaid">
 
@@ -147,8 +147,8 @@ Les œuvres représentatives comprennent :
 
 * **``L'Homme aux poings de fer'' (2012)**
 
-* Réalisé, scénarisé et composé lui-même la musique
-* Collaborez avec les membres du Wu-Tang Clan et créez des rythmes pour les scènes d'action
+* Réalisé, scénarisé et composé la musique lui-même
+* Collaborez avec les membres du Wu-Tang Clan et créez des rythmes pour des scènes d'action
 * Créez un monde musical unique en combinant l'échantillonnage, les sources sonores orchestrales et les équipements analogiques
 
 ---

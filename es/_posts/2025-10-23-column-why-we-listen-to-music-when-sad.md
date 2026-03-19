@@ -175,6 +175,16 @@ La música es un medio que convierte la tristeza en amor.
 
 ---
 
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pf0h4h6ACNo?si=F2mkTikfN0F5ZOzn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+
 ## Referencias/materiales relacionados
 
 - [Juslin, P. y Sloboda, J. (2001). Música y emoción: teoría e investigación.](https://amzn.to/3L3FEGw)

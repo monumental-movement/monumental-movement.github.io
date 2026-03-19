@@ -16,7 +16,7 @@ title: 殺戮聯盟 – Backwards On Pony EP
 
 Coalition Of The Killing (COTK) 是一支總部位於舊金山的 techno 二人組，由 techno DJ/製作人 Jason Short 和 Marc Smith 組成。
 
-一首 Techno/Minimal 曲目於 2008 年在 Karloff Rekordings 上發行，Karloff Rekordings 是由 M.I.A. 創立的德國唱片公司 Sub Static 的子唱片公司。和法爾科·布羅克西珀。
+一首 Techno/Minimal 曲目于 2008 年在 Karloff Rekordings 上发行，Karloff Rekordings 是由 M.I.A. 创立的德国唱片公司 Sub Static 的子唱片公司。和法爾科·布羅克西珀。
 
 #### 曲目表
 ```md

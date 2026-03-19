@@ -79,7 +79,7 @@ Rave n’était pas une source sonore ou une partition, mais un phénomène en s
 
 ### Qui archive ? Détérioration des médias
 
-** ● Archives spontanées du métro **
+** ● Archives spontanées de l'underground **
 
 Depuis les années 2000, les tentatives suivantes ont commencé à travers le monde.
 
@@ -104,7 +104,7 @@ Selon la loi sur les entreprises de divertissement, les clubs étaient classés 
 
 Il était facile d'éviter de prendre des photos et des vidéos (surtout à Shibuya et Roppongi)
 
-Les médias magazines (tels que « LOUD » et « ele-king ») ne pouvaient suivre qu'un champ d'action limité.
+Les médias magazines (tels que « LOUD » et « ele-king ») ne pouvaient suivre qu'un champ d'application limité.
 
 En conséquence, la rave tokyoïte des années 1990 n’existe que « de mémoire ».
 

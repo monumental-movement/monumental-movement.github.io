@@ -416,7 +416,7 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
 | Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
 | "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |

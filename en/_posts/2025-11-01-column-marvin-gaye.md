@@ -162,6 +162,16 @@ I hope that this manuscript provides an opportunity to reconsider Marvin Gaye, h
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xrcfo3TNq1Y?si=MrVaktLt0phricdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## Addendum: Chronology/Charts
 
 

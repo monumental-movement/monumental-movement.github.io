@@ -68,7 +68,7 @@ En 1991, Zeni Geva alcanzó un importante punto de inflexión. Es una colaboraci
 El primer álbum de larga duración grabado por Albini.
 La violencia de Zeni Geva y el sonido seco y directo de Albini combinaron perfectamente, lo que les valió fuertes críticas en el extranjero.
 
-### “Deseo de agonía (1993)”
+### "Deseo de agonía (1993)"
 - Publicado por el sello estadounidense **Alternative Tentacles** (organizado por Jello Biafra)
 - La gira por el extranjero comienza en serio
 - Lanzó muchos EP y sencillos casi al mismo tiempo (Nai-Ha, Disgraceland, etc.)
@@ -92,11 +92,11 @@ Durante este período, las canciones de Zeni Geva se volvieron más largas y est
 - Mayor uso de dispositivos electrónicos como Nulltron
 
 ### “10.000 años luz (2001)”
-- Mayores texturas electrónicas.
-- Ruido/guitarra metálica/compás inusual/sonidos electrónicos se entrelazan en múltiples capas
+- Aumento de texturas electrónicas.
+- Combinación multicapa de ruido/guitarra metálica/compás inusual/sonidos electrónicos
 - Zeni Geva como escultura sonora, diferente a la del periodo de los años 1980-90
 
-La banda alcanzó la madurez musical durante este período, pero al mismo tiempo, las actividades en solitario de Null y otros proyectos aumentaron, y el tiempo entre lanzamientos como banda se hizo más largo.
+La banda alcanzó la madurez musical durante este período, pero al mismo tiempo las actividades en solitario de Null y otros proyectos aumentaron, y el tiempo entre lanzamientos como banda se hizo más largo.
 
 ---
 

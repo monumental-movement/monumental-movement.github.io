@@ -12,9 +12,9 @@ title: Squeeze – Babylon And On Cassette
 ---
 
 
-This album "Babylon And On" by Squeeze was produced by Eric "ET" Thorngren and Glenn Tilbrook.
+Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
 
-The album reached number 14 on the UK Album Chart, the highest ranking for a Squeeze album outside of the Greatest Hits compilation.
+このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
 
 #### Tracklist
 ```md
@@ -43,7 +43,7 @@ B5. The Waiting Game
 B6. Some Americans
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=xbwUMz8t36dIZgYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

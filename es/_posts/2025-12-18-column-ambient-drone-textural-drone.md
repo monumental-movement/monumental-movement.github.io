@@ -59,7 +59,7 @@ Desde la década de 1970, la música ambiental ha presentado una forma de escuch
 
 ### 2-1. El concepto de textura.
 
-Textural Drone se caracteriza por una estructura en la que múltiples capas tonales cambian ligeramente con el tiempo, en lugar de un único tono sostenido. La textura aquí es la suma total de la distribución de armónicos, los componentes del ruido, la localización espacial y las fluctuaciones dinámicas.
+Textural Drone se caracteriza por una estructura en la que múltiples capas tonales varían ligeramente con el tiempo, en lugar de un tono único sostenido. La textura aquí es la suma total de la distribución de armónicos, los componentes del ruido, la localización espacial y las fluctuaciones dinámicas.
 
 ### 2-2. Técnicas de capas
 
@@ -97,7 +97,7 @@ Partiendo de su interés por la investigación del sueño y los estados de las o
 
 ### 4-2. Diseño de tono
 
-Los sintetizadores, el procesamiento de muestras y la integración de sonidos naturales forman texturas que desdibujan los límites entre lo creado por el hombre y lo natural. La lenta modulación de armónicos sirve para visualizar el paso del tiempo.
+Los sintetizadores, el procesamiento de muestras y la integración de sonidos naturales forman texturas que desdibujan los límites entre lo natural y lo creado por el hombre. La lenta modulación de armónicos sirve para visualizar el paso del tiempo.
 
 ### 4-3. Actuación en vivo e instalación.
 

@@ -140,7 +140,7 @@ The smooth groove has a level of perfection that feels like it was written with 
 ---
 
 #### 14. Mountain – "Long Red" (1972)
-The chant "You know what I mean!" was frequently used by Public Enemy and De La Soul during live performances.
+The chant "You know what I mean!" was often used by Public Enemy and De La Soul during live performances.
 This is a great example of how a simple rock song becomes a hip-hop "part" through vocal sampling.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -228,6 +228,16 @@ Behind this is the breathing of nameless musicians, the noise of equipment, and 
 ""The same sound coming back again and again'' is proof of the evolution of pop music, and is the most humane technology that connects the past and the future.
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbMALMm6v7A?si=O16Tg8nyor4YfIdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Reference
 

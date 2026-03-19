@@ -18,7 +18,7 @@ title: Ramírez – Terapia (Hocus Pocus Remixes + DMC UK Rmx)
 
 Ramirez es un proyecto de música electrónica de baile creado por el sello italiano DFC a principios de los 90. Participa el equipo de producción de DFC, Davide Rizzatti, Elvio Moratto, Ricki Persi y el cantante Alex Quiroz Buelvas.
 
-"Terapia" es una pista de Trance/Hardcore/Techno lanzada por el sello DFC en 1993.
+"Terapia" es una canción de Trance/Hardcore/Techno lanzada por el sello DFC en 1993.
 
 A1 & AA1 es un remix del dúo de producción holandés Hocus Pocus de Ferry Ridderhof y Peter Garnefski.
 

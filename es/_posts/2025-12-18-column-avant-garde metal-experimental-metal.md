@@ -45,7 +45,7 @@ color: #fff;
 
 ## Supuestos estructurales en metal.
 
-Para entender el metal de vanguardia, primero es necesario aclarar en qué se basa el metal normal.
+Para entender el metal de vanguardia, primero es necesario aclarar cuál es la premisa detrás del metal normal.
 
 El metal tradicional se ha formado como una colección de supuestos estructurales como los siguientes.
 
@@ -177,7 +177,7 @@ En este trabajo la separación de estructuras va aún más allá. Las canciones 
 | Método | Demolición | Capas |
 | Hora | Ruptura | Paralelo |
 | Ritmo | Destrucción de la sensación del pulso | Control de la respiración |
-| Disonancia | Armamento estructural | Producción espacial |
+| Disonancia | Armamento estructural | Dirección espacial |
 
 ---
 

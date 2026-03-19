@@ -9,17 +9,17 @@ permalink: /fr/the-brothers-johnson-kick-it-to-the-curb/
 tags:
 - Funk
 - Soul
-title: The Brothers Johnson – Kick It To The Curb
+title: The Brothers Johnson – Donnez un coup de pied au trottoir
 ---
 
 
-The Brothers Johnsonは、アメリカのソウル/ファンク/ジャズ/ディスコバンドです。1975年、カリフォルニア州ロサンゼルスで結成され、リーダーは兄弟のジョージ・ジョンソンとルイ・ジョンソンです。初期メンバーには、いとこのアレックス・ウェアも含まれていました。
+The Brothers Johnson est un groupe américain de soul/funk/jazz/disco. Formé à Los Angeles, Californie en 1975, le groupe est dirigé par les frères George et Louis Johnson. Les premiers membres comprenaient son cousin Alex Ware.
 
-二人は、後にプロデューサーのクインシー・ジョーンズに見出されるまで、ボビー・ウォmackやビリー・プレストンなどのバックミュージシャンとしてキャリアをスタートさせました。
+Les deux ont commencé leur carrière en tant que musiciens d'accompagnement pour Bobby Womack et Billy Preston, avant d'être découverts par le producteur Quincy Jones.
 
-クインシー・ジョーンズは、彼らを自身の1975年のアルバム「メロウ・マッドネス」で使用し、注目を集めました。
+Quincy Jones les a attirés sur l'attention lorsqu'il les a utilisés sur son album de 1975 Mellow Madness.
 
-1976年から1988年までの間に8枚のアルバムをレコーディングし、ディスコヒットとなった「ストンプ!」(1980年)や、シューギー・オーティスの名曲「ストロベリー・レター #23」(1977年のカバー)で最も有名です。
+Il a enregistré huit albums entre 1976 et 1988 et est surtout connu pour le hit disco "Stomp!" (1980) et le classique de Shuggy Otis "Strawberry Letter #23" (couverture de 1977).
 
 #### Liste des chansons
 ```md

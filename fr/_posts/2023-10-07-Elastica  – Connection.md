@@ -13,7 +13,7 @@ title: Elastica – Connexion
 ---
 
 
-"Connexion"est un single du groupe de rock alternatif britannique Elastica. La chanson est sortie en tant que premier single de leur premier album éponyme "Elastica" (1995). Elastica est un groupe actif dans les années 1990 connu pour son son unique qui mélange des éléments de punk rock et de pop.
+"Connection"est un single du groupe de rock alternatif britannique Elastica. La chanson est sortie en tant que premier single de leur premier album éponyme "Elastica" (1995). Elastica est un groupe actif dans les années 1990 connu pour son son unique qui mélange des éléments de punk rock et de pop.
 
 "Connection" est une chanson énergique et entraînante, avec un riff de guitare lourd et la voix caractéristique de Carolyn Anderson. La chanson a une mélodie simple et courte, se distingue par son jeu de guitare brillant et est l'une des chansons les plus célèbres d'Elastica, avec sa mélodie pop et son refrain accrocheur qui résonnent auprès de nombreux auditeurs. La chanson a atteint un classement élevé dans le classement des singles britanniques et est devenue la chanson signature du groupe.
 

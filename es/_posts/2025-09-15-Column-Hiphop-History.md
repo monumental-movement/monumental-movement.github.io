@@ -21,7 +21,7 @@ title: '[Columna] Historia del hip hop de EE. UU.: panorama general que incluye 
 Texto: mmr｜Tema: Sobre el hip-hop, donde se han formado diferentes estilos en cada región de Estados Unidos
 
 El hip-hop nació en el Bronx, Nueva York, a finales de los años 1970, y se ha convertido en algo más que un género musical, también se ha convertido en una cultura vinculada a la danza, el graffiti, la moda y los movimientos sociales.
-En los Estados Unidos, se formaron diferentes estilos en cada región y el desarrollo fue apoyado por la escena de clubes, la radio, las cintas de demostración y la cultura discográfica. Además, el desarrollo de la tecnología de muestreo y la posterior tendencia hacia el desmuestreo simbolizaron la innovación musical en el hip-hop.
+En Estados Unidos, se formaron diferentes estilos en cada región y el desarrollo fue apoyado por la escena de clubes, la radio, las cintas de demostración y la cultura discográfica. Además, el desarrollo de la tecnología de muestreo y la posterior tendencia hacia el desmuestreo simbolizaron la innovación musical en el hip-hop.
 
 ---
 
@@ -50,7 +50,7 @@ Los clubes y las fiestas de barrio eran más que simples lugares de música; era
 En aquella época, el hip-hop se popularizó a través de programas de radio (por ejemplo, "The Show" de WBLS) y las cintas de demostración eran un medio importante para descubrir artistas.
 DJ Kool Herc y Afrika Bambaataa tocaron sus mixtapes en la radio local y en fiestas, ayudando a correr la voz.
 
-### Obra maestra representativa
+### Obras maestras representativas
 
 [The Sugarhill Gang『El deleite del rapero』(1979)](https://amzn.to/4ngQIOx)
 
@@ -73,7 +73,7 @@ Se perfeccionó un estilo G-funk único en los clubes y fiestas de la costa oest
 ### Papel de las cintas de demostración y la radio
 La nueva canción se transmitió en estaciones de radio locales (KDAY, KMEL) y los jóvenes que escucharon la cinta de demostración la difundieron de boca en boca. En particular, los DJ de la radio local actuaron como árbitros de la escena.
 
-### Obra maestra representativa
+### Obras maestras representativas
 
 [Ejecutar-D.M.C. “Levantando el infierno” (1986)](https://amzn.to/3IBasNE)
 
@@ -101,11 +101,11 @@ OutKast y UGK surgieron y establecieron su propio sonido único. La distribució
 Debido a problemas de derechos de autor y costos crecientes, un número cada vez mayor de artistas están recurriendo a la producción de fuentes de sonido originales y presentaciones en vivo.
 "The Chronic" (1992) de Dr. Dre utiliza hábilmente el muestreo, mientras que el G-funk utiliza muchos sintetizadores y líneas de bajo originales.
 
-### Obra maestra representativa
+### Obras maestras representativas
 
 **Costa Este**: [El Notorious B.I.G. "Listo para morir" (1994)](https://amzn.to/3K94fcv)
 
-**Costa Oeste**: [2Pac “All Eyez on Me” (1996)](https://amzn.to/4261oak)
+**Costa Oeste**: [2Pac "All Eyez on Me" (1996)](https://amzn.to/4261oak)
 
 **Sur**: [OutKast『ATLiens』 (1996)](https://amzn.to/4n9Fv2e)
 
@@ -121,7 +121,7 @@ Demuestreo y cambios de equipos.
 Con la difusión de los DAW (Pro Tools, Ableton Live), ahora es posible crear fuentes de sonido únicas utilizando sintetizadores y complementos sin depender del muestreo.
 Esto aumenta la proporción de ritmos originales.
 
-### Obra maestra representativa
+### Obras maestras representativas
 
 [Jay-Z “El plano” (2001)] (https://amzn.to/4pC13WW)
 
@@ -129,7 +129,7 @@ Esto aumenta la proporción de ritmos originales.
 
 ---
 
-## Década de 2010 al presente: era del streaming y globalización
+## Década de 2010-presente: era del streaming y globalización
 
 ### Combinando club y cultura online
 Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.
@@ -143,7 +143,7 @@ DAW (Ableton Live, FL Estudio)
 
 Ampliar el uso de complementos y paquetes de muestra
 
-### Obra maestra representativa
+### Obras maestras representativas
 
 [Kendrick Lamar “buen chico, m.A.A.d city” (2012)](https://amzn.to/4pCB4yv)
 
@@ -444,7 +444,7 @@ El mapa de poder visualiza a qué región se ha desplazado el centro de la escen
 
 ## Conclusión
 
-El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos, que han influido no solo en la música, sino también en la moda, el idioma y los movimientos sociales. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
+El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos que han influido no solo en la música, sino también en la moda, el idioma, los movimientos sociales y más. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
 
 ---
 

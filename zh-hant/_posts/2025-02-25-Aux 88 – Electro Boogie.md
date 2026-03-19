@@ -14,7 +14,7 @@ title: Aux 88 – 電子佈吉
 ---
 
 
-Studio K7 的第三張電子佈吉唱片於 1999 年發行。 Aux88 製作的底特律 techno/電子混音 CD。
+Studio K7 於 1999 年發行了第三張電子佈吉音樂。 Aux88 製作的底特律 techno/電子混音 CD。
 
 #### 曲目表
 ```md
@@ -38,7 +38,7 @@ Studio K7 的第三張電子佈吉唱片於 1999 年發行。 Aux88 製作的底
 18. Aux 88 – Xeo-Genetic Remix
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

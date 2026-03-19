@@ -16,7 +16,7 @@ title: Sandy Warez - Trucos tribales vol. 1
 
 Sandy Warez es un DJ veterano en el mundo del techno hardcore con más de 20 años de experiencia. Preside ``Footworxx'', uno de los sellos más influyentes de la escena hardcore moderna, y ha producido muchos artistas jóvenes.
 
-``Trucos tribales vol. 1'' es una de las primeras piezas de hard techno lanzada por Sandy Warez en el sello belga Subsounds en 2002, antes de cambiar a su estilo actual Frenchcore/hardcore.
+``Trucos tribales vol. 1'' es uno de los primeros trabajos de hard techno lanzado por Sandy Warez en el sello belga Subsounds en 2002, antes de cambiar a su estilo actual Frenchcore/hardcore.
 
 #### Lista de canciones
 ```md

@@ -9,11 +9,11 @@ permalink: /zh-hant/jb³-close-grind/
 tags:
 - Techno
 - 90s
-title: JB³ – 緊密研磨
+title: JB³ – Close Grind
 ---
 
 
-美國 techno DJ/製作人 Joey Beltram 於 1996 年在 NovaMute 廠牌上以 JB³ 名義發行的 Techno 專輯。夾克由英國平面設計師 Paul Nicholson 設計，他因設計 Aphex Twin 標誌而聞名。
+美国 techno DJ/制作人 Joey Beltram 于 1996 年在 NovaMute 厂牌上以 JB³ 名义发行的 Techno 专辑。夾克由英國平面設計師 Paul Nicholson 設計，他因設計 Aphex Twin 標誌而聞名。
 
 #### 曲目表
 ```md

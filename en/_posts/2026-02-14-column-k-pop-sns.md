@@ -17,7 +17,7 @@ title: '[Column] Relationship between K-POP and SNS strategy | Why did it gain g
 
 ## Why is K-POP so popular? - Success factors seen from the structure
 
-Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy based on facts
+Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy
 
 ### K-POP as a "system" that transcends music genres
 
@@ -75,7 +75,7 @@ Particularly on TikTok, dance challenges function as a spreading device, and whe
 
 ### Case Study: BTS Global Expansion
 
-BTS made extensive use of SNS in the late 2010s and formed an international fandom even before they were exposed to English-speaking media. Appearances on American music award shows and talk shows are based on existing fandom.
+BTS made full use of SNS in the late 2010s and formed an international fandom even before they were exposed to English-speaking media. Appearances on American music award shows and talk shows are based on existing fandom.
 
 By actively communicating on Twitter, they were shaping overseas trends even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
 

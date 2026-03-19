@@ -10,17 +10,17 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Alex Under – Trapezones Electos 和 Extrapezlo Remixes
+title: Alex Under – Trapezones Erectos & Extrapezlo Remixes
 ---
 
 
 Alex Under（亞歷杭德羅·莫雷諾·莫拉萊斯）是一位西班牙 DJ/製作人，也是 Cmyk Musik 廠牌的創始人。
 
-「Trapezones Electos & Extrapezlo Remixes」是一首 2008 年發行的 Techno/Minimal 曲目。
+「Trapezones Erectos & Extrapezlo Remixes」は、2008年にリリースされたTechno／Minimalトラック。
 
-A 是由 Alexi Delano 和 Xpansul 製作的混音版，他們是 Minimal Techno/Tech House 製作人二人組，由 Alexi Delano 和 Santiago Ferrer 組成。
+Aは、Alexi DelanoとSantiago FerrerからなるMinimal Techno/Tech HouseプロデューサーデュオAlexi Delano & Xpansulによるremix。
 
-B 是 Greek Tech House/Techno DJ 和製作人 Mihalis Safras 的混音作品。
+Bは、ギリシャのTech House / Techno DJ&プロデューサーMihalis Safrasによるremix。
 
 #### 曲目表
 ```md

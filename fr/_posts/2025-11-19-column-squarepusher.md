@@ -16,7 +16,7 @@ title: '[Chronique] Squarepusher : Une fusion de breakbeats, de jazz et de musi
 ---
 
 
-## 1. Présentation
+## 1. Introduction
 
 
 Texte : mmr｜Thème : jeunesse de Tom Jenkinson, premières œuvres, style musical et explication de toutes les chansons par album

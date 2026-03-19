@@ -21,7 +21,7 @@ title: Récupération des œuvres de Detroit Techno
 ### Claude Young – The Dexit E.P.
 <a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
 
-Caractéristiques : : 1997, du label belge Elypsia. Ce travail combine le respect de Détroit avec mon propre sens de l'exploration.
+Caractéristiques : 1997, du label belge Elypsia. Ce travail combine le respect de Détroit avec mon propre sens de l'exploration.
 
 Points recommandés : Il présente une touche unique en matière de développement minimal sérieux et constitue une pièce sur laquelle vous pouvez compter lorsque vous souhaitez maintenir un flux serré dans votre ensemble.
 
@@ -84,7 +84,7 @@ Points recommandés : Un chef-d'œuvre qui condense le son futuriste et cool de 
 
 Caractéristiques : Structure de piste minimale avec des lignes de synthétiseur et un rythme simples. Il se caractérise par son travail de synthé spatial et flottant et son rythme cool et mécanique.
 
-Point recommandé : Une chanson qui vous fait revivre les origines de la techno de Détroit. En l'ajoutant au début d'un DJ set, vous pouvez créer une « sensation cosmique à la Détroit » sur le sol. Facile à écouter même pour les débutants, parfait pour comprendre la vision du monde du Modèle 500.
+Point recommandé : Une chanson qui vous fait revivre les origines de la techno de Détroit. Si vous l'installez tôt dans un DJ set, vous pouvez créer une « sensation cosmique à la Détroit » sur le sol. Facile à écouter même pour les débutants, parfait pour comprendre la vision du monde du Modèle 500.
 
 #### Liste des chansons
 ```md
@@ -110,7 +110,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Caractéristiques : Image sonore dramatique qui combine ambient, breakbeat, futur jazz, etc. avec une base minimaliste.
+Caractéristiques : Image sonore dramatique qui combine ambient, breakbeat, futur jazz, etc. avec une base minimaliste.
 
 Points recommandés : Un album plein de profondeur et de sophistication qui emmène l'auditeur dans un voyage émotionnel. C'est une œuvre que les DJ et les auditeurs voudront écouter attentivement.
 

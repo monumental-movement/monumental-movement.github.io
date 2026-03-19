@@ -13,7 +13,7 @@ title: Chester Beatty 和 DJ Shufflemaster – Beat Boxx Remixes
 ---
 
 
-由 Chester Beatty 和 DJ Shufflemaster 共同創作，於 2000 年發行。
+2000年にリリースされたChester Beatty と DJ Shufflemaster による共作。
 
 A 是英國電子音樂家/DJ Surgeon 的混音版。
 

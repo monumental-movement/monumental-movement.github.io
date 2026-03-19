@@ -18,7 +18,7 @@ title: 戴爾·史考特——你帶給我快樂
 
 《You Bring Me Joy》是紐約唱片公司 JoJo Records 於 1994 年發行的一首 Deep House 和 Garage House 歌曲。
 
-B 面的第二首歌曲是由美國 DJ、唱片製作人和 house 音樂先驅 Kerri Chandler 重新混音的。
+B面２曲目は、アメリカのDJ＆レコードプロデューサーであり、ハウスミュージックの先駆者Kerri Chandler（ケリー・チャンドラー）によるremix。
 
 #### 曲目表
 ```md

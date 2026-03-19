@@ -10,7 +10,7 @@ permalink: /fr/no-artist-an-audio-obstacle-course-shure-trackability-test-record
 tags:
 - Technical
 - Non-Music
-title: No Artist – Un parcours d'obstacles audio - Enregistrement du test de traçabilité
+title: No Artist – Un parcours d'obstacles audio – Enregistrement du test de traçabilité
   Shure
 ---
 

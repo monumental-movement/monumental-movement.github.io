@@ -19,7 +19,7 @@ title: '[Chronique] Recondite et bains de forêt - Quand la techno revient en fo
 
 Texte : mmr | Thème : Artiste techno minimal allemand Recondite. Dans la musique, on entend la respiration de la forêt dans ses séquences artificielles. Nous explorons ici l'intersection philosophique de son œuvre et des bains de forêt (Shinrin-yoku).
 
-Recondite――vrai nom Lorenz Brunner.
+Recondite――de son vrai nom Lorenz Brunner.
 Lorsque de nombreuses personnes entendent sa musique pour la première fois, elles ressentent un sentiment de « solitude » et de « tranquillité ».
 Pourtant, au fond, il existe une tension entre nature et technologie.
 Pour Brunner, qui a grandi dans les forêts bavaroises du sud de l’Allemagne, le son n’est pas un produit de la ville ;
@@ -67,7 +67,7 @@ Le kick est toujours discret, laissant plutôt les réverbérations des synthés
 Cette structure correspond au mécanisme par lequel les bains de forêt stimulent le système nerveux parasympathique chez l'homme.
 
 > Les bains de forêt font appel à de multiples stimuli tels que les sons naturels, la lumière, les odeurs et l'humidité.
-> Il réduirait les hormones de stress chez les humains (enquête de l'Agence forestière, 2004).
+> Il réduirait les hormones de stress chez l'homme (enquête de l'Agence forestière, 2004).
 
 Lors des performances live de Recondite, on a l'impression qu'un «**feuillet électronique**» enveloppe la salle.
 Bien qu'il s'agisse d'une **nature artificielle** reproduite avec un équipement numérique,
@@ -83,7 +83,7 @@ Mais l'approche de Recondite est à l'opposé. Il considère les synthés comme 
 Le philosophe environnemental Timothy Morton a proposé le concept d'« **écologie sombre** ».
 Il est impossible pour les humains de se séparer complètement de la nature, et nous devrions plutôt accepter un **état mixte inconfortable**.
 La musique de Recondite incarne cette philosophie.
-Une boîte à rythmes artificielle imite les battements de cœur de la forêt et un séquenceur recrée le rythme du vent.
+Une boîte à rythmes artificielle imite le battement du cœur de la forêt et un séquenceur recrée le rythme du vent.
 C’est une écologie sonore qui dépeint la coexistence ambiguë de la nature et de l’homme.
 
 ---
@@ -149,7 +149,7 @@ timeline
 ## Chapitre 8 : Analyse acoustique - Structure rythmique de la forêt
 
 Lorsque vous analysez la forme d'onde de la piste de Recondite,
-**Conçu pour faire fluctuer organiquement les médiums-aigus dans la bande 2-6 kHz**.
+**Conçu pour faire fluctuer organiquement la gamme moyenne-haute dans la bande 2-6 kHz**.
 Ceci est proche du spectre des sons du vent et du bruissement des arbres.
 
 <div class="mermaid">
@@ -171,7 +171,7 @@ Il imite le processus par lequel les sons naturels stabilisent la psyché humain
 
 Le fait d'écouter les œuvres de Recondite est
 Il s'agit non seulement d'une expérience consistant non seulement à « ressentir la nature », mais également à « s'assimiler à la nature ».
-C'est comme un **bain de forêt auditif**.
+C'est comme un **bain auditif de forêt**.
 
 Le philosophe Maurice Merleau-Ponty
 «Le corps fait partie du monde et les sensations sont des phénomènes d'interaction avec le monde.»
@@ -180,10 +180,10 @@ En d’autres termes, il présente une nouvelle physicalité appelée **Music = 
 
 ---
 
-## Chapitre 10 : Conclusion – La techno revient en forêt
+## Chapitre 10 : Conclusion – La techno revient dans la forêt
 
 La musique de Recondite n'est pas de nature mécanique, mais
-**Il maintient un équilibre comme une machine qui respire dans la nature**.
+**Il maintient un équilibre qui ressemble à une machine qui respire dans la nature**.
 
 Si les bains de forêt sont un acte de « retour des humains à la nature »,
 La musique de Recondite est un acte de « retour de la techno à la nature ».

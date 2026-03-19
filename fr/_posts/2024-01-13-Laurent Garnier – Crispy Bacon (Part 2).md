@@ -10,17 +10,17 @@ tags:
 - Techno
 - 90s
 - Drum n Bass
-title: Laurent Garnier – Crispy Bacon (Part 2)
+title: Laurent Garnier – Bacon croustillant (Partie 2)
 ---
 
 
-Laurent Garnier(ローラン・ガルニエ）は、Choice（チョイス）としても知られるフランスの電子音楽プロデューサー兼 DJ。
+Laurent Garnier, également connu sous le nom de Choice, est un producteur et DJ français de musique électronique.
 
-「Crispy Bacon (Part 2)」は、Laurent GarnierとEric Morand（エリック・モランド）によるレーベルF Communicationsから1997年にリリースされたテクノトラック。
+"Crispy Bacon (Part 2)" est un morceau techno sorti en 1997 par le label F Communications de Laurent Garnier et Eric Morand.
 
-A面は、デトロイト出身のTOMTOM (トミー ハミルトン) と POSATRONIX (ウィリアム “BJ” スミス)によるエレクトロニックバンド、AUX88によるremix。
+The A-side est un remix de AUX88, un groupe électronique de Detroit composé de TOMTOM (Tommy Hamilton) et POSATRONIX (William « BJ » Smith).
 
-B面は、レーベルVersatile Recordsを運営するGilb'r Versatile によるremix。
+La face B est un remix de Gilb'r Versatile, qui dirige le label Versatile Records.
 
 #### Liste des chansons
 ```md

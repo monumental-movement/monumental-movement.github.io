@@ -9,17 +9,17 @@ permalink: /fr/accept-russian-roulette/
 tags:
 - Heavy Metal
 - Rock
-title: Accept – Russian Roulette
+title: Accepter – Roulette Russe
 ---
 
 
-「Accept – Russian Roulette」は、ドイツのヘヴィメタルバンドであるAccept（アクセプト）のアルバムです。このアルバムは、1986年にリリースされた7枚目のスタジオアルバムです。
+"Accept – Russian Roulette" est un album du groupe de heavy metal allemand Accept. Cet album est le septième album studio du groupe, sorti en 1986.
 
-このアルバムは、ヘヴィなギターリフ、パワフルなボーカル、エネルギッシュなドラミングで知られています。
+Cet album est connu pour ses riffs de guitare lourds, sa voix puissante et sa batterie énergique.
 
-「Aiming High」- スピーディで迫力のある曲で、ギターソロやツインリードの演奏が際立ちます。Acceptの典型的なヘヴィメタルサウンドがこの曲で存分に楽しめます。
+"Aiming High" - Une chanson rapide et puissante, avec un solo de guitare et des anches doubles qui se démarquent. Vous pouvez profiter pleinement du son heavy metal typique d'Accept avec cette chanson.
 
-「Russian Roulette」は、Acceptのファンにとってはクラシックな作品であり、80年代のヘヴィメタルの魅力を存分に味わえるでしょう。
+« Russian Roulette » est un classique pour les fans d'Accept et vous donnera un avant-goût du heavy metal des années 80.
 
 
 #### Liste des chansons

@@ -16,7 +16,7 @@ title: 帕特·麥格林——她寧願和我在一起
 
 Pat McGlynn 來自蘇格蘭，1976 年底在 Bay City Rollers 擔任吉他手，之後組成了自己的樂團 Pat McGlynn's Scotties。
 
-《She'dratherBeWithMe》由倫敦唱片公司於1977年發行。製作人是尼克·雷蒙德。
+「She'd Rather Be With Me（あの娘はアイドル）」は、1977年にLondon Recordsよりリリースされた。プロデューサーはNick Raymonde。 
 
 #### 曲目表
 ```md

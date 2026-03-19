@@ -12,17 +12,17 @@ title: Harmonic 33 –Music For Film, Television & Radio Volume One
 ---
 
 
-Released in 2005, this album is a classic among Warp releases.
+2005年にリリースされたこのアルバムは、Warpのリリースの中でもクラシックな内容です。
 
-From the swinging, outer-space groove of "Optigan" to the spinning amusement park atmosphere of "Carousel," Harmonic 33 packs as much mood as possible into a short space of time.
+"Optigan"のスイングするような外宇宙のグルーヴから、"Carousel"の回転する遊園地のような雰囲気まで、Harmonic 33は短い時間の中で最大限のムードを詰め込んでいます。
 
-Easy listening flows smoothly, like "Bossa Nova Supernova" and "Departure Lounge."
+"Bossa Nova Supernova"や"Departure Lounge"のように、イージーリスニングはスムーズに流れます。
 
-On the other hand, if you're looking for outright eccentricity, listen to "Funky Duck."
+逆に徹底的な奇抜さを求めるなら、"Funky Duck"を聞いてみましょう。
 
-If you like spy dramas, we have ""Paranoia" and ""Long Shadow."
+スパイドラマがお好みなら、"Paranoia"と"Long Shadow"が用意されています。
 
-Even in short songs like "Marionette," the album still makes its presence felt, and the album ends with the thoughtful and melancholic "Planet 54."
+"Marionette"のような短い楽曲でも、その存在感はしっかりと主張して、考え深くメランコリックな"Planet 54"で、このアルバムは締めくくられます。
 
 #### Tracklist
 ```md
@@ -59,7 +59,7 @@ Even in short songs like "Marionette," the album still makes its presence felt, 
 16. Pianet 54
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

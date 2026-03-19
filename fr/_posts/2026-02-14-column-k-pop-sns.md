@@ -76,7 +76,7 @@ En particulier sur TikTok, les défis de danse fonctionnent comme un moyen de di
 
 ### Étude de cas : Expansion mondiale de BTS
 
-BTS a largement utilisé les SNS à la fin des années 2010 et a formé un fandom international avant même d’être exposé aux médias anglophones. Les apparitions dans les émissions de récompenses musicales et les talk-shows américains sont basées sur le fandom existant.
+BTS a pleinement utilisé les SNS à la fin des années 2010 et a formé un fandom international avant même d’être exposé aux médias anglophones. Les apparitions dans les émissions de récompenses musicales et les talk-shows américains sont basées sur le fandom existant.
 
 En communiquant activement sur Twitter, ils façonnaient les tendances à l’étranger avant même d’entrer dans les charts Billboard. Il s’agit d’un exemple réussi de « type de réimportation », différent du « type d’acquisition locale » conventionnel.
 
@@ -148,7 +148,7 @@ Grâce aux fan clubs officiels, aux applications, aux systèmes de vote, etc., n
 
 ## Raisons pour lesquelles il séduit les jeunes
 
-Pour la génération native du numérique, pousser les activités est un acte qui peut être accompli sur les réseaux sociaux. L'expression de soi, l'empathie et l'appartenance à la communauté se rejoignent.
+Pour la génération numérique native, pousser les activités est un acte qui peut être accompli sur les réseaux sociaux. L'expression de soi, l'empathie et l'appartenance à la communauté se rejoignent.
 
 K-POP a un design qui correspond à son comportement. Pas seulement les performances en direct, mais les messages quotidiens forment une « histoire » et les fans participent à cette histoire.
 

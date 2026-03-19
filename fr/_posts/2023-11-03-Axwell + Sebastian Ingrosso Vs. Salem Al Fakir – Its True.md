@@ -9,19 +9,19 @@ permalink: /fr/axwell-sebastian-ingrosso-vs-salem-al-fakir-its-true/
 tags:
 - House
 - Progressive
-title: Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True
+title: Axwell + Sebastian Ingrosso contre. Salem Al Fakir – C'est vrai
 ---
 
 
-Axwell（アクスウェル）ことAxel Christofer Hedforsは、スウェーデンの DJ、レコード プロデューサー、リミキサー、そして Axtone Records のオーナー。
+Axel Christofer Hedfors, également connu sous le nom d'Axwell, est un DJ, producteur de disques, remixeur et propriétaire suédois d'Axtone Records.
 
-Axwellは、Sebastian Ingrosso（セバスチャン・イングロッソ） 、Steve Angello（スティーブ・アンジェロ）とともにSwedish House Mafia（スウェディッシュ・ハウス・マフィア）として活動。
+Axwell faisait partie de la Swedish House Mafia avec Sebastian Ingrosso et Steve Angello.
 
-Lars Salem Al Fakir（ラース・セーラム・アル・ファキール）は、スウェーデンのミュージシャン、シンガー、ソングライター、レコードプロデューサー。
+Lars Salem Al Fakir est un musicien, chanteur, auteur-compositeur et producteur de disques suédois.
 
-また、オルタナティブポップミュージックデュオVargas & Lagola としても活動。
+Il est également actif au sein du duo de musique pop alternative Vargas & Lagola.
 
-「It's True」は、2007年にAxtone Recordsからリリースされたプログレッシブハウストラック。
+"It's True" est un morceau house progressif sorti par Axtone Records en 2007.
 
 #### Liste des chansons
 ```md

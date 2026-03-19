@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - 90s
-title: M People – Color My Life (Extended Play)
+title: M People – Colour My Life (Extended Play)
 ---
 
 
-M People was a UK dance music band active in the 1990s.
+M Peopleは、1990年代に活躍したUKのダンスミュージックバンド。
 
-"Colour My Life" is a House track released in 1992 as the second single from M People's first album.
+「Colour My Life」は、M Peopleのファーストアルバムからのセカンドシングルとして1992年にリリースされたHouseトラック。
 
-A2 is a remix by Hi-Bias Records, a Canadian label that focuses on electronic dance music that incorporates elements of soul, R&B, and house.
+A2は、ソウルやR&B、ハウスの要素を色濃く取り入れたエレクトロニック・ダンス・ミュージックにフォーカスしているカナダのレーベルHi-Bias Recordsによるremix。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. Sexual Freedom
 B2. Landscape Of Love
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m57388421482?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57388421482?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wG0Fg1BkxGc?si=0pNvsvQcju_yuefz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

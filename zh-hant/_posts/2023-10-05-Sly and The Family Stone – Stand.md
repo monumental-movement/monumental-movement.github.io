@@ -9,7 +9,7 @@ permalink: /zh-hant/sly-and-the-family-stone-stand/
 tags:
 - Funk
 - Soul
-title: 狡猾的石頭家族 – 立場
+title: 斯萊和斯通家族 – 看台
 ---
 
 
@@ -17,7 +17,7 @@ title: 狡猾的石頭家族 – 立場
 
 這張專輯因其融合了放克、靈魂、搖滾和流行等多種流派的音樂風格而受到關注。
 
-這張專輯收錄了許多熱門歌曲，其中最著名的是《Everyday People》、《Stand!》和「我想帶你更高」。
+アルバムには多くのヒット曲が含まれており、「Everyday People」や「Stand!」、「I Want to Take You Higher」などが特に有名です。
 
 這些歌曲關於社會融合和對和平的渴望，並具有積極的信息和朗朗上口的旋律。
 

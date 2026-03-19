@@ -14,7 +14,7 @@ title: 黃色魔法管弦樂團 – X∞Multiplies
 
 YMO 的最佳專輯於 1980 年 9 月由 Alpha Records 在日本發行。
 
-美國版本是[此處](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
+US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
 
 #### 曲目表
 ```md

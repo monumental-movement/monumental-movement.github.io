@@ -95,7 +95,7 @@ La tradition du « toast » héritée de la culture jamaïcaine du sound system 
 
 Représentant MC/équipage :
 - **MC Neat et DJ Chance**
-- **Un équipage si solide**
+- **Équipage si solide**
 - **Mme Dynamite**
 - **Équipage sans cœur**
 
@@ -129,7 +129,7 @@ C'est cette diversité qui crée la « fluctuation » du rythme.
 - **L'esprit DIY des villes britanniques**
 
 Cette intersection a formé l’identité sonore unique du Royaume-Uni.
-Le parti UKG était également un espace commun qui transcendait les classes et les races et servait de moyen d’expression positif pour les jeunes en réponse aux troubles sociaux de l’époque (émeutes, chômage, politique du gouvernement Blair).
+Le parti UKG était également un espace commun qui transcendait les classes et les races et servait de moyen d’expression positive pour les jeunes en réponse aux troubles sociaux de l’époque (émeutes, chômage, politique du gouvernement Blair).
 
 ---
 

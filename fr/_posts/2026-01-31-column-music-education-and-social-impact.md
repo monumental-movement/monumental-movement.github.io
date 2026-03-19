@@ -59,7 +59,7 @@ En Prusse et en France, l'éducation musicale était combinée à l'éducation m
 Aux États-Unis, le concept d'« appréciation musicale » a été introduit à la fin du XIXe siècle, et l'accent a été mis sur le développement non seulement des techniques d'interprétation, mais également des compétences d'appréciation.
 C'était aussi un moyen de former une culture commune dans une société immigrée.
 
-L'enseignement du chant a été introduit au Japon pendant la période Meiji, et un système éducatif unique a été construit, basé sur la théorie musicale occidentale mais combinant des paroles japonaises et des idéaux nationaux.
+L'enseignement du chant a été introduit au Japon pendant la période Meiji et un système éducatif unique a été construit, basé sur la théorie musicale occidentale mais combinant des paroles japonaises et des idéaux nationaux.
 La musique était un symbole de modernisation et faisait en même temps partie de l’éducation nationale.
 
 Dans la seconde moitié du XXe siècle, l’éducation musicale s’est déplacée de la formation professionnelle vers les activités expressives.
@@ -135,7 +135,7 @@ Les connaissances qui étaient auparavant réservées aux institutions spéciali
 Cela a entraîné la démocratisation de l'enseignement musical et la diversification des normes d'évaluation.
 
 D'un autre côté, la division entre l'éducation systématique et l'auto-apprentissage a également été soulignée.
-Même si l’on s’inquiète d’un déclin des capacités de base en théorie et en lecture musicale, les résultats d’apprentissage qui mettent l’accent sur la créativité ont également été confirmés.
+Même s’il existe des inquiétudes concernant un déclin des capacités de base en théorie et en lecture musicale, les résultats d’apprentissage qui mettent l’accent sur la créativité ont également été confirmés.
 
 L’environnement numérique a fait évoluer l’éducation musicale d’une carrière à voie unique vers un modèle d’apprentissage à voies multiples.
 

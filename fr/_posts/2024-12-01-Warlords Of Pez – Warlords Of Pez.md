@@ -9,13 +9,13 @@ permalink: /fr/warlords-of-pez-warlords-of-pez/
 tags:
 - Rock
 - 00s
-title: Warlords Of Pez – Warlords Of Pez
+title: Seigneurs de guerre de Pez – Seigneurs de guerre de Pez
 ---
 
 
-遥か彼方の銀河宇宙からやってきた…っという設定のWarlords Of Pez はアイルランドのロックバンド。メンバーはアイリッシュインディーポップバンドThe Chalets の元メンバーChris Judgeなど。
+Warlords Of Pez est un groupe de rock irlandais qui semble venir d'une galaxie très très lointaine. Les membres comprennent Chris Judge, ancien membre du groupe indie pop irlandais The Chalets.
 
-アイルランドのロック/エレクトロニカレーベルTrust Me I'm A Thiefから2006年にリリースされたコンセプトアルバム。
+Un album concept sorti en 2006 par le label irlandais rock/électronique Trust Me I'm A Thief.
 
 
 #### Liste des chansons

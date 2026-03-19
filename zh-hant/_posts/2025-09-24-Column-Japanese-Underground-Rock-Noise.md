@@ -20,7 +20,7 @@ title: 【專欄】90年代至2000年代日本地下岩石與噪音的軌跡
 文：mmr｜主題：1990年代至2000年代全球關注的日本地下樂壇
 
 20 世紀 90 年代和 2000 年代是**噪音音樂**的鼎盛時期，也是另類搖滾和前衛龐克的十字路口。
-特別是灰野敬二、Merzbow、Hijikaido、Melt-Banana、Boredoms 和 Violent Onsen Geisha 等藝術家破壞了現有的音樂流派，開闢了新的表達領域。
+特に**灰野敬二、メルツバウ（Merzbow）、非常階段、Melt-Banana、Boredoms、暴力温泉芸者**といったアーティストは、既存の音楽ジャンルを破壊し、新たな表現領域を切り開きました。
 
 ---
 
@@ -41,7 +41,7 @@ color: #fff;
 
 ### 日本地下熱潮
 
-[**Fushitsusha**](https://amzn.to/4mBoM6K) 由 Keiji Haino 領導，Masami Akita 的 [**Merzbow**](https://amzn.to/46qEmxw)、Ai Yamazuka 和 Seiichi Yamamoto 的 [BOREOREMS](https://amzn;諸如此類的團體//amzn.to/3IsJjwx）和【暴力溫泉藝伎】（https://amzn.to/4gJWXbk）打破了傳統搖滾和龐克的界限，創造了一個融合噪音和實驗精神的聲音世界。
+灰野敬二率いる [**Fushitsusha**](https://amzn.to/4mBoM6K)、秋田昌美の [**Merzbow**](https://amzn.to/46qEmxw)、山塚アイと山本精一の[BOREDOMS](https://amzn.to/4nKFfGO)、[インキャパシタンツ](https://amzn.to/3IsJjwx)や[暴力温泉芸者](https://amzn.to/4gJWXbk)といったグループは、従来のロックやパンクの枠を破壊し、ノイズと実験精神を融合させた音世界を築きました。
 
 這段時期也見證了獨立唱片公司的興起、國際音樂節的亮相以及與美國和歐洲地下音樂的互動加速。此外，尖端活動的發展影響了電影和配樂的製作，以及後來的**人工智慧音樂生成**。
 
@@ -62,19 +62,19 @@ color: #fff;
 
 ### 灰野敬二
 - **特點**：充分利用吉他、人聲和回饋的「聲音儀式」。一個以即興創作為中心的聲音世界，可以被描述為宗教或魔法。
-- **變化**：從1970年代的個人作品開始，他從1990年代開始也活躍在Fushitsusha等樂團中。继续探索即兴创作的框架之外。
-- **逸話**: ライブ前にギターの弦を全て張り替え、儀式のように音を放つことから「サウンドシャーマン」と呼ばれる。  
+- **變化**：從1970年代的個人作品開始，他從1990年代開始也活躍在Fushitsusha等樂團中。繼續探索即興創作的框架之外。
+- **軼事**：他被稱為“聲音薩滿”，因為他在音樂會前更換吉他上的所有琴弦，並像在儀式中一樣釋放聲音。
 
 |專輯 |特色|友情連結 |
 |----------|------|--------------|
 | *Watashi Dake？ *（1981 年/重新發行 1998 年）|早期的傑作。孤獨的歌聲與吉他噪音表情| [亞馬遜](https://www.amazon.co.jp/s?k=Keiji Haino+Watashi+Dake) |
-| *Fushitsusha – 永遠不完整的死亡* (1997) |壓倒性的即興創作和反饋的海洋| [亞馬遜](https://www.amazon.co.jp/s?k=Fushitsusha+A+Death+Never+To+Be+Complete) |
+| *Fushitsusha – A Death Never To Be Complete* (1997) | 圧倒的即興演奏とフィードバックの海 | [Amazon](https://www.amazon.co.jp/s?k=Fushitsusha+A+Death+Never+To+Be+Complete) |
 
 ---
 
 ### 莫茲鮑
 
-- **特點**：與「噪音音樂」同義。在 20 世紀 90 年代末，他擺脫了模擬設備的混亂轟鳴，轉向了筆記型電腦。
+- **特點**：與「噪音音樂」同義。在 20 世纪 90 年代末，他摆脱了模拟设备的混乱轰鸣，转向了笔记本电脑。
 - **變化**：80 年代的卡帶作品和 90 年代的 CD 發行享譽國際。 2000年代，他將「環境保護」和「動物權」融入他的音樂中。
 - **軼事**：專輯《Pulse Demon》在海外被稱為“最難聽的專輯”，被認為是一首不朽的噪音作品。
 
@@ -108,7 +108,7 @@ color: #fff;
 |專輯 |特色|友情連結 |
 |----------|------|--------------|
 | *流行韃靼* (1991) |噪音與硬核的瘋狂融合 | [亞馬遜](https://amzn.to/3VCBLKA) |
-| *超級 æ* (1998) |迷幻的多節奏傑作| [亞馬遜](https://amzn.to/3KotaZw) |
+| *Super æ* (1998) | サイケ・ポリリズム的な中期代表作 | [Amazon](https://amzn.to/3KotaZw) |
 | *願景創造新太陽* (1999) |靈性迷幻的聲像| [亞馬遜](https://amzn.to/46GYn1u) |
 
 ---
@@ -121,7 +121,7 @@ color: #fff;
 
 |專輯 |特色|友情連結 |
 |----------|------|--------------|
-| *說吱吱吱吱* (1994) |早期的傑作。奈米核爆速度 | [亞馬遜](https://amzn.to/4pEjYR3) |
+| *说吱吱吱吱* (1994) |早期的杰作。奈米核爆速度 | [亞馬遜](https://amzn.to/4pEjYR3) |
 | *查理* (1998) |中期傑作，結構良好，音樂性得到改善 | [亞馬遜](https://amzn.to/4mBpEIy) |
 | *細胞景觀* (2003) |引入電子元件的新領域 | [亞馬遜](https://amzn.to/4niEzbX) |
 
@@ -134,7 +134,7 @@ color: #fff;
 | 1991 |無聊 – *流行韃靼* |前衛噪音與搖滾的瘋狂融合 | [亞馬遜](https://amzn.to/3VCBLKA) |
 | 1994 |融化香蕉 – *說出吱吱聲* |早期的傑作。爆炸速度奈米核心| [亞馬遜](https://amzn.to/4pEjYR3) |
 | 1996 | Merzbow – *脈衝惡魔* |刺耳噪音的頂峰。筆記型電腦之前最重要的工作| [亞馬遜](https://amzn.to/4mxWPgd) |
-| 1998 | Keiji Haino – *Watashi Dake？ *（重新發行）| 70年代錄製，90年代重新評價 | [亞馬遜](https://amzn.to/3KlCLjU) |
+| 1998 | Keiji Haino – *Watashi Dake？ *（重新發行）| 70 年代錄製，90 年代重新評價 | [亞馬遜](https://amzn.to/3KlCLjU) |
 | 2017 | 2017緊急樓梯 – *摧毀噪音交響樂* |效能噪音集| [亞馬遜](https://amzn.to/484Ulm8) |
 
 ---

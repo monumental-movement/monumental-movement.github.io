@@ -46,11 +46,11 @@ color: #fff;
 
 ## Punk tras Punk: Colapso de las condiciones previas
 
-Alrededor de 1977, el punk se extendió rápidamente y al mismo tiempo se formalizó rápidamente. 3 acordes, canciones cortas, actitud agresiva. Rápidamente se convirtieron en un estilo y comenzaron a reproducirse. El noise punk/avan punk nació de un fuerte sentimiento de malestar por esta situación.
+Alrededor de 1977, el punk se extendió rápidamente y al mismo tiempo se formalizó rápidamente. 3 acordes, canciones cortas, actitud agresiva. Rápidamente se convirtieron en un estilo y comenzaron a reproducirse. El noise punk/avant punk nació de un fuerte sentimiento de malestar por esta situación.
 
-El problema para ellos era que el rock estaba siendo reducido una vez más a "música fácil de entender". La rebelión se convierte en un símbolo y la disidencia se pone de moda. Para rechazar el proceso en sí, la música se movió intencionalmente en una dirección incomprensible.
+El problema para ellos era que el rock estaba siendo reducido una vez más a "música fácil de entender". La rebelión se convierte en símbolo y el disenso se pone de moda. Para rechazar el proceso en sí, la música se movió intencionalmente en una dirección incomprensible.
 
-Esta actitud parecía negar el punk, pero en realidad era una implementación exhaustiva del espíritu fundamental del punk.
+Esta actitud parecía negar el punk, pero en realidad era una implementación completa del espíritu fundamental del punk.
 
 > El avant-punk nació no para acabar con el punk, sino para purificarlo.
 
@@ -139,7 +139,7 @@ timeline
 
 Esta tendencia se produjo de forma intensiva en un corto período de tiempo y dejó una profunda influencia en la música alternativa posterior.
 
-> Aunque la historia del noise punk es corta, sus réplicas continúan durante mucho tiempo.
+> La historia del noise punk es corta, pero sus secuelas son duraderas.
 
 ---
 

@@ -103,7 +103,7 @@ También influyó en artistas posteriores de fama mundial como Aphex Twin, Ryuic
 Después de "AKIRA", Yamashiro desarrolló el concepto de "estudios ambientales del sonido" en paralelo con sus actividades artísticas.
 Reconsideró el sonido no sólo como un estímulo auditivo, sino como un "punto de contacto entre la información y la ecología".
 
-### ◇ Principales obras y pensamientos.
+### ◇ Principales obras e ideas.
 
 | Título del libro | Editorial/año | Resumen de contenido | Enlace |
 |------|-------------|------------|

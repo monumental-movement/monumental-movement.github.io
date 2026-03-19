@@ -10,14 +10,14 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Sami Koivikko – Kut Pulatin Pt. 2
+title: Sami Koivikko – Kut Pulatin Pt. 1 2
 ---
 
 
 
-Sami Koivikkoは、フィンランドを拠点に活動するテクノ・プロデューサー。ミニマル・テクノやクリック・テクノの旗手として知られており、ドイツの人気レーベルShitkatapultを筆頭に、Spectral SoundやFestplattenなど、様々なレーベルから作品を発表している。
+Sami Koivikko est un producteur techno basé en Finlande. Connu comme un porte-drapeau de la techno minimale et de la click techno, il a sorti des œuvres sur divers labels tels que le populaire label allemand Shitkatapult, Spectral Sound et Festplatten.
 
-「Kut Pulatin Pt. 2」は、2002年にレーベルShitkatapult からリリースしたTechno／Minimalトラック＆2000年代のミニマル・テクノ・ムーブメントを象徴する一枚。
+"Kut Pulatin Pt. 2" est un morceau Techno/Minimal sorti sur le label Shitkatapult en 2002 et un morceau qui symbolise le mouvement techno minimal des années 2000.
 
 #### Liste des chansons
 ```md

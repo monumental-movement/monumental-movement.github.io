@@ -9,7 +9,7 @@ permalink: /zh-hant/depeche-mode-some-great-reward/
 tags:
 - New-Wave
 - Post Punk
-title: Depeche 模式 – 一些很棒的獎勵
+title: Depeche Mode – Some Great Reward
 ---
 
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/quincy-jones-body-heat/
 tags:
 - Funk
 - Soul
-title: 昆西瓊斯——體熱
+title: Quincy Jones – Body Heat
 ---
 
 

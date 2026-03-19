@@ -70,7 +70,7 @@ color: #fff;
 | Noche de Fuego | Nico | Un clásico que conecta la generación flip-flop y la generación anime |
 | Chico espacial | Dave Rodgers | Popular por su ritmo rápido y melodía fuerte |
 | Bailando | Vicky Vale | Utilizado de manera impresionante en la escena inicial de las carreras |
-| Ritmo del Sol Naciente | Dave Rodgers | Emoción y desarrollo dramático |
+| Ritmo del Sol Naciente | Dave Rodgers | Emoción y acontecimientos dramáticos |
 | Nadie duerme en Tokio | Chicos Edo | Imagen sonora de Tokio y sensación de velocidad |
 | Speedy Speed ​​​​Boy | Marco Polo | Título y ritmo que encarnan la sensación de velocidad |
 | Recuérdame | Leslie Parrish | Una canción melódica, emotiva y popular |
@@ -136,7 +136,7 @@ Voz: ♪～～～ "Deja Vu" ♪～～～ </div>
 ### Deja Vu (Dave Rodgers)
 
 <div class="osciloscopio">
-Patada: ▮---▮---▮---▮---
+Patada : ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Bajo: █ █ ██ █ █ ██
@@ -146,7 +146,7 @@ Sonido del coche: ▒▒▒▒▒▒→ cambio de marcha AE86 </div>
 ### Corriendo en los 90 (Max Coveri)
 
 <div class="osciloscopio">
-Patada: ▮---▮---▮---▮---
+Patada : ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Bajo: ███ ███ ███ ███
@@ -156,7 +156,7 @@ Sonido del coche: ▒▒▒▒▒▒→ Sonido de deriva RX-7 </div>
 ### Noche de Fuego (Niko)
 
 <div class="osciloscopio">
-Patada: ▮---▮---▮---▮---
+Patada : ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Bajo: █ █ █ ███ █ █ █
@@ -187,7 +187,7 @@ Sonido del coche: ▒▒▒▒▒▒→ sonido de aceleración GT-R </div>
 | ----- | ------------------- | ------------------------ | ----------- |
 | Década de 1970 | Disco, los inicios del bajo sintetizado | Giorgio Moroder | El prototipo de ritmos de alta velocidad |
 | Década de 1980 | Italo Disco, Hola-NRG | Den Harrow, elegante | Origen de Eurobeat |
-| Década de 1990 | Edad de oro del Eurobeat de Avex | Dave Rodgers, Max Coveri | Banda sonora inicial D |
+| Década de 1990 | Avex Eurobeat Edad de Oro | Dave Rodgers, Max Coveri | Banda sonora inicial D directa |
 | Años 2000 | Difusión de Internet, cultura parapara | Niko, Dominó | Combinando con la cultura del juego y el anime |
 | Década de 2010 | Meme, renacimiento | Memes de Internet (Deja Vu) | Reenfoque mundial |
 | Años 2020 | Fusión EDM / Synthwave | DJs y productores actuales | Hacia un nuevo sonido |
@@ -229,6 +229,14 @@ Al fin y al cabo, Eurobeat no es sólo un nombre de género.
 Creo que está funcionando como un.
 
 Cada vez que presionas el botón de reproducción, esa curva te espera.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W35DsVjmqvk?si=Jw5rO9dgqxftYSj6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
