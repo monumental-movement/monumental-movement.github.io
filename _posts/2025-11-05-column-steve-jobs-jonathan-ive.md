@@ -173,6 +173,15 @@ LoveFromの公式声明にはこうある。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iErCUTVPueE?si=oncov_iUdRSsQoMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 参考文献・出典
 - Isaacson, Walter. *Steve Jobs*. Simon & Schuster, 2011.   
 - FastCompany: [Jony Ive’s first hardware project post-Apple, 2023](https://www.fastcompany.com/90919569/jony-ive-first-hardware-project-post-apple)  

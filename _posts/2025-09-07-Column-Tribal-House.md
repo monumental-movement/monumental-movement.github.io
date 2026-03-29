@@ -128,6 +128,16 @@ color: #fff;
 ## リズムの旅
 Tribal Houseは単なるクラブミュージックではなく、時代ごとに変容を遂げながらグローバルに広がった「リズムの旅」である。今後もアフリカンルーツを受け継ぎつつ、テクノロジーとの融合で進化していくジャンルとして注目され続けるだろう。
 
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d4rG0TcH6BQ?si=8dzssjr8TelfWf8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ## 参考リンク（主な出典）
 - <a href="https://en.wikipedia.org/wiki/Tribal_house">Wikipedia — Tribal house</a>
