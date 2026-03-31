@@ -10,14 +10,14 @@ tags:
 - Drum n Bass
 - Jazz
 - Experimental
-title: '[Column] Squarepusher: A fusion of breakbeats, jazz, and electronic music'
+title: 【コラム】 Squarepusher：ブレイクビーツとジャズ、電子音楽の融合者
 ---
 
 
 ## 1. Introduction
 
 
-Text: mmr｜Theme: Tom Jenkinson's early life, early works, musical style, and explanation of all songs by album
+文：mmr｜テーマ：Tom Jenkinsonの生い立ち、初期作品、音楽スタイル、アルバム別全曲解説
 
 Tom Jenkinson, also known as Squarepusher, is a British musician who has had a prominent presence in the contemporary electronic scene since the mid-1990s.
 His music is known for his innovative style, which single-handedly integrates complex breakbeats, advanced bass playing, jazz improvisation, and IDM-style electronic sound.
@@ -44,17 +44,17 @@ color: #fff;
 ### 2.1 Childhood and musical environment
 
 Born in 1975 near Manchester. Played piano, bass guitar, and drums since childhood.
-He received a classical jazz education and mastered complex rhythms and chords.
+クラシック・ジャズ教育を受け、複雑なリズムや和音を体得。
 
 ### 2.2 Influence of jazz fusion
 
-- Jaco Pastorius: polyphonic bass, improvisation
-- Weather Report: Complex Rhythms
-- ELP: Electronic sound and live fusion
+- ジャコ・パストリアス: 多声的ベース、即興  
+- ウェザー・リポート: 複雑なリズム  
+- ELP: 電子音とライブ融合  
 
-### 2.3 Encounter with electronic music
+### 2.3 電子音楽との出会い
 
-After being exposed to Acid House and early techno, he started recording at home using Akai S1000 and TR-808/909.
+Acid House、初期テクノに触れ、Akai S1000やTR-808/909を用いた自宅録音を開始。
 
 ---
 
@@ -62,12 +62,12 @@ After being exposed to Acid House and early techno, he started recording at home
 
 ### 3.1 Spymania independent release
 
-- 1995: *Conumber E:P* announced
+- 1995年: *Conumber E:P* 発表  
 - Introducing short loops, multi-layering, and odd time signatures
 
-### 3.2 Warp Records Contract
+### 3.2 Warp Records契約
 
-- 1996: *Feed Me Weird Things* debut
+- 1996年: *Feed Me Weird Things* デビュー  
 - IDM + Jazz + Drum & Bass fusion
 
 <div class="mermaid">
@@ -328,7 +328,7 @@ graph LR
 ## 10. Conclusion
 
 Squarepusher is an innovative artist who fuses electronic music, jazz, and breakbeats.
-Live improvisation, complex acoustic structures, and album-to-album experimentation are indicators of innovation in contemporary electronic music.
+ライブ即興演奏、複雑音響構造、アルバムごとの実験性は現代エレクトロニック音楽の革新指標。
 The rhythmic structure, waveforms, and fractal illustrations of each song will help you further deepen your understanding of music.
 
 ---

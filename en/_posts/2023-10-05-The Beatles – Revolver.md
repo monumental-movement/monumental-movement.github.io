@@ -12,9 +12,9 @@ title: The Beatles – Revolver
 ---
 
 
-「Revolver」の中で特筆すべき曲として挙げられるのは、「エリノア・リグビー」です。これは、ストリングス・オクテットをフィーチャーした心温まる曲で、ポール・マッカートニーのストーリーテリングの才能が発揮されています。
+A notable song on "Revolver" is "Eleanor Rigby." This heartwarming song features a string octet and showcases Paul McCartney's storytelling talent.
 
-アルバムには他にも「タックスマン」という曲があります。これはジョージ・ハリスンが書いた曲で、当時のイギリスの高い税金制度に対する批判が込められています。「イエロー・サブマリン」も人気のあるトラックです。
+There is another song on the album called "Taxman". This song was written by George Harrison and contains criticism of the high tax system in Britain at the time. "Yellow Submarine" is another popular track.
 
 #### Tracklist
 ```md
@@ -48,7 +48,7 @@ B6. She Said She Said
 B7. Tomorrow Never Knows
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TN-Imp3N3dM?si=mH3akE4hD8PxGquP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

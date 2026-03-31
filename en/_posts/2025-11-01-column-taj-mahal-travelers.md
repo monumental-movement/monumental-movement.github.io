@@ -30,7 +30,7 @@ During this period, Takehisa Kosugi was studying violin at Tokyo University of t
 > "Sound begins to live when it is separated from the will of the performer."
 > — Takehisa Kosugi
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BdjmQkOOa9A?si=wp3TrXBLiNOIjVPf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3SpY7OSW7qs?si=IIuxvX6PN-Q-jyhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -81,7 +81,7 @@ He put into practice the philosophy that ""the place itself becomes an instrumen
 
 ---
 
-## V. Traveling through sound: from India to Europe (1971–1972)
+## V. Traveling through sound: From India to Europe (1971–1972)
 
 In 1971, the Taj Mahal Tour Group departs for a tour of Europe.
 Their journey was not just a tour, but a ""sound pilgrimage.''
@@ -132,7 +132,7 @@ It is highly praised as a ""soundscape'' that perfectly combines time, space, an
 
 There is no rhythm or melody on the album.
 Instead, the sound of wind, electronic sounds, voices, and the resonance of strings gently intersect,
-It presents an experience that invites the listener ""inside the sound.''
+It presents an experience that invites the listener to go "inside the sound."
 
 ---
 
@@ -174,10 +174,10 @@ This is the most important message that Kosugi left us.
 | 1965–68 | Fluxus-like performances (Sogetsu Art Center, etc.) |
 | 1969 | "Taj Mahal Travel Group" formed |
 | 1971–72 | Musical pilgrimage from India to Europe |
-| 1972 | 《Taj Mahal Travelers – July 15, 1972》Announcement |
+| 1972 | [Taj Mahal Travelers – July 15, 1972] Announcement |
 | 1975 | Solo work "Catch-Wave" released |
 | 1977–90s | Merce Cunningham Dance Company Music Director |
-| 2018 | Passed away. Passed away at the age of 80.                                |
+| 2018 | Passed away. He passed away at the age of 80.                                |
 
 ---
 
@@ -195,7 +195,7 @@ This is the most important message that Kosugi left us.
 
 ---
 
-## Conclusion - Freedom of sound and prayer
+## Conclusion - freedom of sound and prayer
 
 The Taj Mahal tour group"s trip was not just a ""band"s overseas performance.''
 It was a spiritual journey that transcended the institution of music and resonated with the world.
@@ -204,6 +204,15 @@ It was a spiritual journey that transcended the institution of music and resonat
 > ― Takehisa Kosugi
 
 Even now, half a century later, the sounds they emitted still resonate.
-It continues to vibrate quietly in the air, in the memories, and deep in the hearts of the listeners.
+It continues to vibrate quietly in the air, in the memory, and deep in the hearts of the listeners.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ddqyg-JgJzc?si=qYT_q7KDqzdnnBHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

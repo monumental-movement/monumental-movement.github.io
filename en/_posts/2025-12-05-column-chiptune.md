@@ -107,7 +107,7 @@ The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than
 
 ---
 
-## Chapter 3: Tracker culture and Chipune production - LSDj / Nanoloop / Famitracker
+## Chapter 3: Tracker culture and Chiptune production - LSDj / Nanoloop / Famitracker
 
 ### 3-1. What is Tracker?
 
@@ -249,7 +249,7 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 ## Chapter 10: The future of Chiptune and the future of 8-bit aesthetics
 
 8-bit music is no longer a symbol of retro;
-**An entity that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
+**An existence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
 It has become.
 
 - Use in Hyperpop and EDM
@@ -273,3 +273,11 @@ The freedom of the Wave channel is the origin of digital music.
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aO1nwUlb9NY?si=UIFZl3C_-Ys-NfHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

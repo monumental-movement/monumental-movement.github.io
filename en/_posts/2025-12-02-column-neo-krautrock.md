@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1. Origin and characteristics of krautrock
 
-In West Germany in the late 1960s, young people of the post-war generation were exploring their own unique musical culture, while still being influenced by American and British rock and jazz. Krautrock is a genre born from trial and error with the following characteristics:
+In West Germany in the late 1960s, young people of the post-war generation were influenced by American and British rock and jazz, but were still searching for their own unique musical culture. Krautrock is a genre born from trial and error with the following characteristics:
 
 - **Pursuit of repetitive rhythm**: Neu!'s "Motorik beat" is especially iconic. By mechanically repeating 4/4 of the drum, a trance-like and meditative feeling is created.
 - **Electronic sound experiments**: Make full use of analog synthesizers like Kraftwerk and Tangerine Dream.

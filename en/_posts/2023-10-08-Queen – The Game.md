@@ -12,11 +12,11 @@ title: Queen – The Game
 ---
 
 
-「The Game」は、クイーンの8枚目のスタジオアルバムであり、バンドの音楽スタイルの進化と多様性を示しています。このアルバムは、従来のロックサウンドに加えて、ディスコやファンクなどの要素を取り入れた楽曲も含まれています。
+"The Game" is Queen"s eighth studio album and shows the evolution and diversity of the band"s musical style. In addition to traditional rock sounds, this album also includes songs that incorporate elements such as disco and funk.
 
-アルバムには、クイーンの代表曲として知られる「Another One Bites the Dust」や「Crazy Little Thing Called Love」など、数々のヒット曲が収録されています。これらの曲は、ポップなメロディとキャッチーなリフレインが特徴であり、広い層のリスナーに愛されました。
+The album includes many hit songs, including Queen's signature songs "Another One Bites the Dust" and "Crazy Little Thing Called Love." These songs featured pop melodies and catchy refrains, and were loved by a wide range of listeners.
 
-このアルバムは、クイーンの音楽の多様性と創造性を体現しており、バンドのキャリアにおいて重要な位置を占めています。「The Game」は、クイーンのファンやロックミュージックの愛好家にとって、彼らの代表作の一つとして高く評価されています。
+The album embodies the diversity and creativity of Queen"s music and occupies an important place in the band"s career. "The Game" is highly regarded by Queen fans and rock music lovers as one of their masterpieces.
 
 #### Tracklist
 ```md
@@ -41,7 +41,7 @@ B4. Coming Soon
 B5. Save Me
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30325124043?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m30325124043?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Z9eHciHgDE?si=qdn5Z3frKYtz5Soj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

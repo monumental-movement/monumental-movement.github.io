@@ -10,13 +10,13 @@ tags:
 - Avantgarde
 - Experimental
 - 70s
-title: The Pop Group = ザ•ポップ•グループ – Y = Y (最後の警告)
+title: The Pop Group = The Pop Group – Y = Y (last warning)
 ---
 
 
-The Pop Group は、1977年に結成されたイギリス・ブリストル出身のPost-punk (ポストパンク)バンド。
+The Pop Group is a post-punk band from Bristol, England, formed in 1977.
 
-「Y」は、1979年にリリースされたポップグループのデビューアルバムで、DubミュージシャンDennis Bovell(デニス・ボーヴェル)がプロデュースした。
+"Y" is the pop group's debut album, released in 1979, and produced by Dub musician Dennis Bovell.
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B3. The Boys From Brazil = 人類回帰
 B4. Don't Sell Your Dreams = 夢を売りわたすな
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m32852043303?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m32852043303?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/viqOIqGLLgI?si=CNeo3CriaWr1epSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

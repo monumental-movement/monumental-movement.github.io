@@ -13,9 +13,9 @@ title: The Moody Brothers –Brown Eyed Girl Reggae Cowboy
 ---
 
 
-The Moody Brothers(ムーディー ブラザーズ)は、1980年代から1990年代にかけて活躍したアメリカーナ カントリー ミュージックトリオ。メンバーは、Carlton Moody(カールトン・ムーディ)、Dave Moody(デイブ・ムーディ)、Trent Moody(トレント・ムーディ)の３兄弟。
+The Moody Brothers were an Americana country music trio active in the 1980s and 1990s. The members are Carlton Moody, Dave Moody, and Trent Moody.
 
-A面の作詞はVan Morrison(ヴァン・モリソン)、B面の作詞はBellamy Brothers(ベラミー・ブラザーズ)のDavid Bellamy(デヴィット ベラミー)。
+The lyrics for side A were written by Van Morrison, and the lyrics for side B were written by David Bellamy of the Bellamy Brothers.
 
 #### Tracklist
 ```md
@@ -24,7 +24,7 @@ A. Brown Eyed Girl
 B. Reggae Cowboy
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-wQV5AUFFg?si=eBdayJ5RvoXEo1j8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

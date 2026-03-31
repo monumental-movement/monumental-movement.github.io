@@ -141,7 +141,7 @@ Music is no exception.
 
 Research shows that when we listen to music, we unconsciously anticipate the next note.
 
-- melody flow
+- Melody flow
 - chord progression
 - rhythm
 
@@ -190,7 +190,7 @@ Therefore,
 
 - strong distortion
 - metallic noise
-- 極端な音量
+- extreme volume
 
 These create psychological tension.
 
@@ -199,122 +199,122 @@ In the late 20th century, musicians began to use this effect intentionally.
 Noise is not just noise.
 It was a way to directly stimulate emotions.
 
-### ノイズ音楽の登場
+### The advent of noise music
 
-1970年代以降、ノイズを中心にした音楽ジャンルが生まれる。
+Since the 1970s, a music genre centered around noise has been born.
 
 - Feedback
-- 電子ノイズ
-- 破壊的サウンド
+- electronic noise
+- destructive sounds
 
-この音楽はしばしば極端だった。
+This music was often extreme.
 
-しかしそれは偶然ではない。
+But that's not a coincidence.
 
-実験音楽は、人間が「音にどう反応するか」を探る研究でもあった。
-
-<div class="mermaid">
-graph TD
-A[自然の警告音] --> B[人間の警戒反応]
-B --> C[歪んだ音への不安]
-C --> D[ノイズ音楽]
-</div>
-
-> ノイズは単なる騒音ではなく、人間の感覚に直接触れる音だった。
-
----
-
-## 文化としての「理解不能」
-
-### 新しい芸術はいつも拒絶される
-
-歴史を見ると、新しい芸術はほぼ必ず拒絶される。
-
-- 印象派絵画
-- ジャズ
-- ロックンロール
-
-どれも最初は批判の対象だった。
-
-実験音楽も同じ道を歩んだ。
-
-理解できないものは、不安を生む。
-
-そして不安はしばしば拒絶に変わる。
-
-しかし時間が経つと、その芸術は次第に理解される。
-
-### 実験が未来を作る
-
-多くの実験音楽は、大衆音楽の未来を作ってきた。
-
-- 電子音楽
-- サンプリング
-- アンビエント
-
-かつては前衛だった技術が、現在の音楽では当たり前になっている。
-
-つまり実験音楽は、音楽の研究室のような存在なのだ。
+Experimental music was also a study of how humans ""react to sound.''
 
 <div class="mermaid">
 graph TD
-A[実験音楽] --> B[新しい技術]
-B --> C[音楽の革新]
-C --> D[大衆音楽へ]
+A[nature warning sounds] --> B[human alarm response]
+B --> C[Anxiety about distorted sound]
+C --> D[noise music]
 </div>
 
-> 今日のポップ音楽の多くは、かつて理解されなかった実験から生まれている。
+> Noise was not just noise, but a sound that directly touched the human senses.
 
 ---
 
-## 実験音楽の年表
+## "Incomprehensible" as a culture
 
-### 主要な出来事
+### New art is always rejected
 
-| 年      | 出来事          |
+History shows that new art is almost always rejected.
+
+- impressionist painting
+- jazz
+- rock and roll
+
+All were initially subject to criticism.
+
+Experimental music followed the same path.
+
+What you don't understand creates anxiety.
+
+And anxiety often turns into rejection.
+
+But over time, the art is gradually understood.
+
+### Experiments create the future
+
+Much experimental music has created the future of popular music.
+
+- electronic music
+- sampling
+- Ambient
+
+Techniques that were once avant-garde have become commonplace in today's music.
+
+In other words, experimental music is like a musical laboratory.
+
+<div class="mermaid">
+graph TD
+A[experimental music] --> B[new technology]
+B --> C[music innovation]
+C --> D[To popular music]
+</div>
+
+> Much of today's pop music comes from experiments that were never understood before.
+
+---
+
+## Chronology of experimental music
+
+### Major events
+
+| Year | Events |
 | ------ | ------------ |
-| 1913   | 未来派による騒音芸術宣言 |
-| 1930年代 | 電子音楽研究の開始    |
-| 1952   | 偶然性音楽の登場     |
-| 1960年代 | フルクサス運動      |
-| 1970年代 | ノイズ音楽の発展     |
-| 1990年代 | 電子実験音楽の拡大    |
-| 2000年代 | デジタル音楽の普及    |
+| 1913 | Futurists' declaration of noise art |
+| 1930s | Start of electronic music research |
+| 1952 | Advent of accidental music |
+| 1960s | Fluxus movement |
+| 1970s | Development of noise music |
+| 1990s | Expansion of electronic experimental music |
+| 2000s | Popularization of digital music |
 
-> 実験音楽の歴史は、常に音楽の境界を押し広げてきた。
+> The history of experimental music has always been one of pushing the boundaries of music.
 
 ---
 
-## なぜそれでも人は実験音楽を作り続けるのか
+## Why do people still continue to make experimental music?
 
-### 未知の音への好奇心
+### Curiosity about unknown sounds
 
-音楽の歴史は、常に新しい音の発見の歴史だった。
+The history of music has always been a history of discovering new sounds.
 
-- 新しい楽器
-- 新しい技術
-- 新しい表現
+- new instruments
+- new technology
+- New expression
 
-実験音楽はその最前線にある。
+Experimental music is at the forefront of this.
 
-多くの人にとって理解しにくくても、そこには純粋な探求がある。
+Even if it is difficult for many people to understand, there is a genuine exploration in it.
 
-音はどこまで音楽になりうるのか。
+To what extent can sound become music?
 
-その問いは、まだ完全には答えられていない。
+That question has not yet been completely answered.
 
-### 恐怖は未知の証拠
+### Fear is proof of the unknown
 
-実験音楽が怖いと感じるのは、自然なことだ。
+It's natural to feel afraid of experimental music.
 
-未知のものは人を不安にさせる。
+The unknown makes people anxious.
 
-しかし同時に、その未知は創造の源でもある。
+However, at the same time, the unknown is also the source of creation.
 
-芸術はいつも、恐れと好奇心の間で生まれてきた。
+Art has always been born between fear and curiosity.
 
-そして実験音楽は、その境界に立ち続けている。
+And experimental music continues to stand on the border.
 
-> 実験音楽が怖いのは、それがまだ誰も知らない音の未来だからだ。
+> The reason experimental music is scary is because it represents the future of sound that no one knows about yet.
 
 ---

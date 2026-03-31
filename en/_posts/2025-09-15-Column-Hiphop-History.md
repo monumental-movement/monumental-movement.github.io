@@ -333,7 +333,7 @@ Bass: ▂▄▅▄▂
 <tr>
 <td>
 - Akai MPC60
-- Akai MPC3000
+-Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
 </td>
@@ -360,7 +360,7 @@ Bass: ▂▄▆█▇▆▄▂
 </tr>
 <tr>
 <td>
--Akai MPC2000XL
+- Akai MPC2000XL
 -Pro Tools
 - Korg Triton
 </td>

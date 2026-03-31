@@ -9,20 +9,20 @@ tags:
 - Deep House
 - 80s
 - 90s
-title: ディープハウス作品をピックアップ
+title: Pick up deep house works
 ---
 
 
-「都会の夜を包み込むような洗練されたビートと深いグルーヴを刻む、ディープハウスを象徴する注目すべき作品群」
+""A remarkable group of works that symbolize deep house, carving sophisticated beats and deep grooves that envelop the city night.''
 
 <hr>
 
 ### Various – Workshop 04
 <a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.webp"></a>
 
-概要：「Workshop 04」は、Vinylでリリースされたミニマルさとディープハウスの要素が合わさった作品です。A面にはドイツのミュージシャン Move D（David Moufang）と Fragment によるディープハウストラック、B1には Even Tuell のディープ・ミニマル・ハウス、B2には Sascha Dive によるダウンテンポ・トラックが収録されています。
+Overview: "Workshop 04" is a work that combines elements of minimalism and deep house released on Vinyl. Side A features a deep house track by German musicians Move D (David Moufang) and Fragment, B1 features deep minimal house by Even Tuell, and B2 features a downtempo track by Sascha Dive.
 
-おすすめポイント：クラブ感あふれるグルーヴと深みのある音像が魅力。ヨーロッパの洗練されたハウス/ミニマルシーンを味わいたい方にぴったりの一枚です。
+Recommended points: Attractive club-like groove and deep sound image. This piece is perfect for those who want to enjoy the sophisticated European house/minimal scene.
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ B2. Sascha Dive –Untitled
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -45,9 +45,9 @@ B2. Sascha Dive –Untitled
 ### Peej – Becoming Cosmic
 <a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.webp"></a>
 
-概要：UKハウスミュージックレーベル Strictly 4 Groovers の後継 DiY Discs から2005年にリリースされた、Paul Johnston（Peej）によるディープハウス作品です。A面には「Cosmic Love (Interstellar Overdrive Mix)」など複数のミックスを収録。
+Summary: A deep house piece by Paul Johnston (Peej) released in 2005 on DiY Discs, the successor to the UK house music label Strictly 4 Groovers. Side A includes multiple mixes such as "Cosmic Love (Interstellar Overdrive Mix)".
 
-おすすめポイント：深宇宙を感じさせるような幻想的な音響と、ローファイなビートが融合した、リスナーを穏やかに包み込むようなディープ・ハウスです。
+Recommended points: A deep house that gently envelops the listener, combining a lo-fi beat with a fantastic sound that makes you feel like deep space.
 
 #### Tracklist
 ```md
@@ -59,7 +59,7 @@ B2. Cosmic Love (FS Cosmic Regroove)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m76703865662?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m76703865662?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -68,12 +68,12 @@ B2. Cosmic Love (FS Cosmic Regroove)
 <br>
 
 
-### Danny Clark & Jay Benham Featuring Carla Prather – Into You
+### Danny Clark & ​​Jay Benham Featuring Carla Prather – Into You
 <a href="https://jp.mercari.com/item/m15102745172?afid=6142608987"><img src="../assets/images/Danny%20Clark%20&%20Jay%20Benham%20Featuring%20Carla%20Prather%20%E2%80%93%20Into%20You.webp"></a>
 
-概要："Into You" は、UKハウスミュージックプロデューサー Danny Clark & Jay Benham による、Carla Prather フィーチャリングのディープハウス／ガラージハウスのトラックです。
+Summary: "Into You" is a deep house/garage house track by UK house music producers Danny Clark & ​​Jay Benham featuring Carla Prather.
 
-おすすめポイント：深みのあるベースラインと滑らかなボーカルが際立つ、感情を揺さぶるようなディープハウストラック。ガラージ風味のエッセンスもあり、幅広いシーンで楽しめます。
+Recommended points: An emotional deep house track with a deep bass line and smooth vocals. It also has the essence of a garage flavor and can be enjoyed in a wide range of situations.
 
 #### Tracklist
 ```md
@@ -85,7 +85,7 @@ B2. Into You (Animal House Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m15102745172?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m15102745172?afid=6142608987){: .button1}
 
 
 #### Youtube

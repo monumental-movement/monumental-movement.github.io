@@ -12,7 +12,7 @@ title: Miles Davis – Miles Davis Live - Festival International De Jazz De Mont
 ---
 
 
-1985年にカナダでおこなわれた、Montreal International Jazz Festival (モントリオール・インターナショナル・ジャズ・フェスティバル)でのマイルス・デイヴィスのライブ映像(VHS)。1986年にリリースされた。
+Miles Davis live video (VHS) at the Montreal International Jazz Festival held in Canada in 1985. Released in 1986.
 
 #### Tracklist
 ```md
@@ -26,4 +26,4 @@ title: Miles Davis – Miles Davis Live - Festival International De Jazz De Mont
 8. Jean Pierre
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m32981482918?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m32981482918?afid=6142608987){: .button1}

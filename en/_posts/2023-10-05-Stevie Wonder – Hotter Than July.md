@@ -12,11 +12,11 @@ title: Stevie Wonder – Hotter Than July
 ---
 
 
-「Hotter Than July」には多くのヒット曲が含まれており、「Master Blaster (Jammin')」や「Happy Birthday」などが特に知られています。特に「Happy Birthday」は、マーティン・ルーサー・キング・ジュニアの誕生日を祝う曲として作られ、アメリカの公民権運動を象徴する曲となりました。
+"Hotter Than July" includes many hit songs, most notably "Master Blaster (Jammin")" and "Happy Birthday." In particular, "Happy Birthday" was created as a song to celebrate Martin Luther King Jr."s birthday, and became a symbol of the American civil rights movement.
 
-他の注目曲には、「I Ain't Gonna Stand for It」や「Lately」などがあります。これらの曲は、スティービー・ワンダーの豊かな音楽性と感情的な表現力を示しています。
+Other notable songs include "I Ain"t Gonna Stand for It" and "Lately." These songs demonstrate Stevie Wonder"s rich musicality and emotional expressiveness.
 
-「Hotter Than July」は、スティービー・ワンダーのキャリアの中でも重要な作品であり、彼の音楽的な才能と社会的なメッセージ性を体現しています。アルバムは商業的にも成功し、広範な聴衆から高い評価を受けました。スティービー・ワンダーの音楽は、時代を超えて人々を魅了し続けています。
+"Hotter Than July" is a seminal work in Stevie Wonder"s career, embodying his musical talent and social message. The album was also a commercial success and received critical acclaim from a wide audience. Stevie Wonder"s music continues to captivate people throughout the ages.
 
 #### Tracklist
 ```md
@@ -41,7 +41,7 @@ B4. Lately
 B5. Happy Birthday
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70765074189?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m70765074189?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ep54oygyLl4?si=Hvvb6LYFm_XPpapK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

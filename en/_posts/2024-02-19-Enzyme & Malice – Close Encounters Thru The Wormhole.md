@@ -13,13 +13,13 @@ title: Enzyme & Malice – Close Encounters Thru The Wormhole
 ---
 
 
-ハードコアブレイクのDJ /プロデューサーEnzymeとMaliceによるハードコア・ブレイクトラック。
+A hardcore break track by hardcore break DJ/producers Enzyme and Malice.
 
-EnzymeとMaliceはPortal名義でも活動。
+Enzyme and Malice also work under the name Portal.
 
-Enzyme（エンザイム）は、多作なハードコア・ブレイクスDJ兼プロデューサーで、レコーディングパートナーのMalice（マリス）と共に2Freshと2FX Recordsの共同オーナーです。
+Enzyme is a prolific hardcore breaks DJ and producer and co-owner of 2Fresh and 2FX Records with recording partner Malice.
 
-彼は、その多作な作品と、エネルギッシュでパワフルなライブパフォーマンスで知られ、ハードコア・ブレイクス、テクノ、ジャングルなど、様々なジャンルを融合させたユニークなスタイルです。
+He is known for his prolific output and energetic, powerful live performances, with a unique style that blends genres such as hardcore breaks, techno, and jungle.
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ A. Enzyme & Malice – Close Encounters
 AA. Enzyme – Thru The Wormhole
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20131022518?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m20131022518?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EWC9cGx_084?si=lhQ49P5AYVVpKXRW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

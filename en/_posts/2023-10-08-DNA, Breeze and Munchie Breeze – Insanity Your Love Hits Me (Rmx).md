@@ -13,9 +13,9 @@ title: DNA, Breeze and Munchie Breeze – Insanity Your Love Hits Me (Rmx)
 ---
 
 
-DJ Breeze（DJ ブリーズ）ことMark Bradyは、ロンドン出身のハードコアDJ/プロデューサー。DNAはDougal & HixxyのレーベルEssential Platinumのスタジオエンジニアで、Kiro名義でドラムンベーストラックも制作している。
+Mark Brady, also known as DJ Breeze, is a hardcore DJ/producer from London. DNA is a studio engineer for Dougal & Hixxy's Essential Platinum label, and also produces drum and bass tracks under the name Kiro.
 
-B面は、Breezeの「Your Love Hits Me」をDNAがremix。
+The B-side is a remix of Breeze's "Your Love Hits Me" by DNA.
 
 
 #### Tracklist
@@ -27,7 +27,7 @@ B1. Beetle-Juice
 B2. Squash I
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72913303126?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m72913303126?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AgFKMzy4dXo?si=CJgExhYwwtcq9c1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

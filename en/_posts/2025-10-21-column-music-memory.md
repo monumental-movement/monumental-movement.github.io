@@ -145,6 +145,15 @@ Music is an art form of memory itself.
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xY8nuVm3xT8?si=1WavPB34Hp4ByuRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Chronology of music and memory
 
 <div class="mermaid">
@@ -171,7 +180,7 @@ flowchart TD
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]
-    D --> F[emotional reaction]
+    D --> F[emotional response]
     E --> G[Re-experiencing the past through music]
     F --> G
     G --> H[Generation of nostalgia]

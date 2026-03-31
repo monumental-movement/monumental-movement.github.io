@@ -76,7 +76,7 @@ These reflect an attitude that prioritizes atmosphere and sustainability over pe
 
 ## 5. Instrumentalization and functional musicality
 
-Much of Lo‑Fi Hip Hop is an instrumental format that does not involve rap. This tendency has resulted in the elimination of linguistic information and increased functionality as background music.
+Much of Lo‑Fi Hip Hop is an instrumental format that does not involve rap. This trend has resulted in the elimination of linguistic information and increased functionality as background music.
 
 By linking it to concentrated activities such as studying, reading, and working, Lo‑Fi Hip Hop became both a listening object and an ambient music.
 
@@ -116,7 +116,7 @@ While this formalization lowers the barrier to entry, it also limits the range o
 
 ## 10. Commercialization and critical perspective
 
-Lo‑Fi Hip Hop / Chillhop was strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
+Lo‑Fi Hip Hop/Chillhop is strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
 
 On the other hand, there is also criticism that consuming music as a background makes it difficult to evaluate individual works.
 
@@ -154,7 +154,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 2020s
 
-* Consumption for environmental music has become commonplace
+* Consumption for environmental music becomes commonplace
 
 ---
 
@@ -243,7 +243,7 @@ This culture of imitation led to the homogenization of genres and at the same ti
 
 ### Early 2000s
 
-* Spread of DAW environment and normalization of individual production
+* The spread of DAW environment and the normalization of individual production
 
 ### Late 2000s
 

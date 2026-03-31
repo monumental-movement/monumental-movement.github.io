@@ -47,7 +47,7 @@ color: #fff;
 
 Since its inception in San Francisco, the Kronos Quartet has been exploring a performance style outside of the traditional framework of classical music. Founder David Harris studied classical music at the University of California, Berkeley, and then became active in the San Francisco music scene, forming a quartet with like-minded friends.
 
-In addition to baroque and classical works, the early repertoire included new works by contemporary composers. Their debut album, ""Kronos Quartet,'' released in 1976, was highly acclaimed by critics for its combination of difficult contemporary music and high performance technique. During this period, they performed throughout the United States, mainly in San Francisco, and built a reputation as an innovative quartet.
+In addition to baroque and classical works, the early repertoire included new works by contemporary composers. Their debut album, ""Kronos Quartet,'' released in 1976, was highly praised by critics for its combination of the esoteric nature of contemporary music and the high level of performance technique. During this period, they performed throughout the United States, mainly in San Francisco, and built a reputation as an innovative quartet.
 
 ### Major albums (early)
 

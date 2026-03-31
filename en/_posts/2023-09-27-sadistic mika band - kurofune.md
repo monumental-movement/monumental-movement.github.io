@@ -12,11 +12,11 @@ title: Sadistic Mika Band – Kurofune
 ---
 
 
-「サディスティック・ミカ・バンド」は、1970年代に活躍した日本のロックバンドであり、「黒船」は、1974年にリリースされたサディスティック・ミカ・バンドの2ndアルバムです。
+"Sadistic Mika Band" is a Japanese rock band that was active in the 1970s, and "Kurofune" is Sadistic Mika Band's second album, released in 1974.
 
-サディスティック・ミカ・バンド独特のポップなメロディが特徴で、当時の若者たちに大きな影響を与え、日本のロックシーンにおける名曲として広く知られています。
+Featuring Sadistic Mika Band's unique pop melody, it had a great influence on young people at the time and is widely known as a masterpiece in the Japanese rock scene.
 
-サディスティック・ミカ・バンドの音楽は今でも多くの人々に愛され続けており、日本のロックの黎明期を彩る重要な存在として評価されています。
+Sadistic Mika Band's music continues to be loved by many people today, and is regarded as an important presence that colored the early days of Japanese rock.
 
 #### Tracklist
 ```md
@@ -45,7 +45,7 @@ title: Sadistic Mika Band – Kurofune
 12.さようなら
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jp7q6fis2jE?si=25sM1DajIme4as0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

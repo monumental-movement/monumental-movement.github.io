@@ -12,9 +12,9 @@ title: Our House – Our House
 ---
 
 
-Graham Nash (グラハム・ナッシュ )が書いたCrosby, Stills, Nash & Young(クロスビー、スティルス、ナッシュ&ヤング)『Our House (僕達の家)』のHipHop / Pop Rapカヴァー。
+HipHop/Pop Rap cover of Crosby, Stills, Nash & Young's "Our House" written by Graham Nash.
 
-Big Beat RecordsのHouse & Freestyle部門Turnstyle Records から1992年にリリースされた。
+It was released in 1992 by Turnstyle Records, the House & Freestyle division of Big Beat Records.
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B2. Our House (T-Ray's String Apella)
 B3. Our House (T-Ray's Acapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96040716197?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m96040716197?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ybS1lOxzko?si=DgC6qFbVT2T73UcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

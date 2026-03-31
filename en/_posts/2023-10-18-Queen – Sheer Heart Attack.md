@@ -11,8 +11,8 @@ title: Queen – Sheer Heart Attack
 ---
 
 
-『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。
-プロデューサーは、QueenとRoy Thomas Baker（ロイ・トーマス・ベイカー）。また、John Deaconの作った曲が収録され始めたのもこのアルバムから。
+"Sheer Heart Attack" is Queen's third album.
+Produced by Queen and Roy Thomas Baker. It was also from this album that songs written by John Deacon began to be included.
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B6. She Makes Me (Stormtrooper In Stilettoes)
 B7. In The Lap Of The Gods...Revisited
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4kS_PBbn_0?si=BsjLW1vDg9IGh_h1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

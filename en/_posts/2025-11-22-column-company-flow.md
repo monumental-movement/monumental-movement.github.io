@@ -116,7 +116,7 @@ The following are particularly noticeable.
 
 ### ● 3. Symbol of indie success
 
-"Funcrusher" became an underground word-of-mouth hit,
+""Funcrusher'' became an underground word-of-mouth hit,
 It will reach the ears of those involved with the emerging label **Rawkus Records**.
 
 ---

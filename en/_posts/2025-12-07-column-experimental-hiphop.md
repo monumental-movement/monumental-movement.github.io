@@ -155,7 +155,7 @@ At the heart of experimental hip-hop since the 2000s is the ""reinvention of rhy
 ## 6. Sampling culture: from analog to digital
 
 ### ● 1990–2000s: MPC culture
-- MPC2000/2000XL is mainstream.
+- MPC2000/2000XL is the mainstream.
 - The focus is on "chop culture," in which analog samples are chopped into small pieces and reconstructed.
 -Madlib and J Dilla are representative examples.
 

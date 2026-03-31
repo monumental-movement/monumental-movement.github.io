@@ -78,9 +78,9 @@ The SP-1200 was designed with the time constraints of a sampler in mind, and is 
 
 **Practical usage**
 
-* ブレイクのサンプリングとチョップ
+* Break sampling and chopping
 * Pitch down after fast sampling (inducing low-pass effect)
-* ループの微調整とタイミングスイングを用いたグルーヴ作成
+* Create grooves using loop tweaks and timing swings
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6-FLx_gIVCE?si=fHXFlga4-I9RphJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ The SP-1200 was designed with the time constraints of a sampler in mind, and is 
 
 ### 4.2 Akai MPC60 (1988) — Achievement as a musical instrument
 
-* **発表年**: 1988
+* **Year of publication**: 1988
 * **Sampling frequency**: 40 kHz
 * **Bit depth**: 12bit
 * **Key features**: 16 pads, built-in sequencer, MIDI compatible
@@ -216,7 +216,7 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and Outlook
+## Chapter 12: Summary and outlook
 
 The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace their roots, you always come back to these devices.
 
@@ -437,7 +437,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 steps"] --> C["coarse step"]
+    A["12bit 4096 stages"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

@@ -12,10 +12,10 @@ title: Dave Aju – The Unorthodoctor EP
 ---
 
 
-Dave AjuことMarc Barriteは、サンフランシスコに拠点活動するアメリカのDJ/プロデューサー。
-「The Unorthodoctor EP」はフランスのレーベルCircus Companyより2003年にリリースされたDave Ajuのデビュー作。
+Marc Barrite, also known as Dave Aju, is an American DJ/producer based in San Francisco.
+"The Unorthodoctor EP" is Dave Aju's debut work released in 2003 by the French label Circus Company.
 
-Dave Ajuは、Alland Byallo、Kenneth Scott、Marc Smithと共にKammとしても活動中。
+Dave Aju also performs as Kamm with Alland Byallo, Kenneth Scott, and Marc Smith.
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B1. Sourmash
 B2. Talk Shows
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44121616957?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m44121616957?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o7wiOuOWol8?si=KXWPOW-DvCGUD9xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

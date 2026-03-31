@@ -126,7 +126,7 @@ At weddings and community events, emphasized rhythms for dancing were preferred.
 
 Cassette tapes contributed to the spread of dance music as a low-cost and highly distributable medium.
 
-> 移民社会は新たな音楽循環を生み出した。
+> Immigrant society has created a new musical circulation.
 
 
 ---

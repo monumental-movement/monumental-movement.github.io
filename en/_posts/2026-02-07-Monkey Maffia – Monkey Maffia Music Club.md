@@ -17,7 +17,7 @@ title: Monkey Maffia – Monkey Maffia Music Club
 
 Sören Bodner, also known as Monkey Maffia, was a central figure in the German producer and label Freude Am Tanzen (FAT) and the owner of the record shop Fatplastics. (Death 2024)
 
-They are also known as the Wighnomy Brothers, a legendary duo with Robag Wruhme, a representative of the minimal techno/house scene of the 2000s.
+They are also known as the Wighnomy Brothers, a legendary duo with Robag Wruhme, a representative producer of the 2000s minimal techno/house scene.
 
 "Monkey Maffia Music Club" is a House/Breaks/Tech House track released on the label Freude Am Tanzen in 2011. Distribution is by Kompakt.
 

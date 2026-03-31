@@ -12,11 +12,11 @@ title: Zion – Fantasma Dos Jueyes
 ---
 
 
-Zionは、ラテンアメリカのレゲトン音楽シーンで活躍するアーティストであり、プエルトリコのレゲトン・デュオであるZion & Lennoxのメンバーの一人。
+Zion is an artist active in the Latin American reggaeton music scene and one of the members of the Puerto Rican reggaeton duo Zion & Lennox.
 
-Zion & Lennoxは、Daddy YankeeやDon Omarなどとともに、レゲトンの黄金時代に台頭したグループで、多くのヒット曲をリリースしました。
+Zion & Lennox was a group that emerged during the golden age of reggaeton, along with Daddy Yankee and Don Omar, and released many hit songs.
 
-B面は、プエルトリコのサルサシンガーDomingo Quiñones（ドミンゴ・キニョーネス）をフィーチャリング。
+The B-side features Puerto Rican salsa singer Domingo Quiñones.
 
 #### Tracklist
 ```md
@@ -29,5 +29,5 @@ A3. Fantasma (Acappella)
 B1. Dos Jueyes (Main)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
 

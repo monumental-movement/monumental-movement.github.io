@@ -9,15 +9,16 @@ tags:
 - Minimal
 - Ambient
 - Field Recording
-title: 【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
+title: '[Column] Andy Goldsworthy and music - artistic resonance surrounding time
+  and nature'
 ---
 
 
-## Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
+## Andy Goldsworthy and Music - Artistic resonance around time and nature
 
-文：mmr｜テーマ：Andy Goldsworthyの作品とアンビエントやフィールド録音、ミニマル・ミュージックがもつ音の共鳴性について
+Text: mmr｜Theme: Andy Goldsworthy's works and the sonic resonance of ambient, field recording, and minimal music
 
-アンディー・ゴールズワージー（Andy Goldsworthy, 1956-）は、自然素材を用いたインスタレーションやランド・アートで知られるイギリスのアーティスト。彼の作品は時間の流れ、素材の変化、自然の循環といった要素をテーマにしている。そのアプローチは音楽――特にアンビエントやフィールドレコーディング、ミニマル・ミュージック――と多くの共通点を持っている。
+Andy Goldsworthy (1956-) is a British artist known for his installations and land art using natural materials. His work focuses on elements such as the passage of time, changes in materials, and the cycles of nature. His approach has much in common with music, especially ambient, field recording, and minimal music.
 
 ---
 
@@ -27,7 +28,7 @@ title: 【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -36,114 +37,114 @@ color: #fff;
 </style>
 
 
-### Goldsworthyの作品と音楽の共通性
+### Commonalities between Goldsworthy's work and music
 
-| テーマ | Goldsworthyの作品 | 音楽との共通点 |
+| Themes | Goldsworthy's works | Similarities with music |
 |--------|----------------|----------------|
-| **時間** | 氷、葉、枝などが溶けたり枯れたりする変化を前提にした作品 | フェーズシフトやループによる音楽的時間感覚（例：スティーヴ・ライヒ） |
-| **場所** | 作品は制作場所の自然環境と不可分 | フィールド録音による「その場の音」を取り込む音楽 |
-| **儚さ** | 風、雨、日差しによって崩壊する作品 | 消えゆく残響や持続音のフェードアウト |
-| **循環** | 季節や自然現象のサイクルを強調 | ドローンや反復構造による循環的時間感覚 |
-| **沈黙** | 空間や間合いの重要性 | ジョン・ケージやアンビエント作品における「無音」の存在 |
+| **Time** | Works based on the premise of changes such as ice, leaves, branches, etc. melting or withering | Musical sense of time using phase shifts and loops (e.g. Steve Reich) |
+| **Location** | Works are inseparable from the natural environment where they are created | Music that captures the "sounds of the place" through field recordings |
+| **Transience** | Works that collapse due to wind, rain, and sunlight | Disappearing reverberations and fade-outs of sustained sounds |
+| **Cycle** | Emphasizes the cycles of seasons and natural phenomena | Cyclical sense of time through drones and repetitive structures |
+| **Silence** | The importance of space and interval | The presence of "silence" in John Cage and ambient works |
 
 ---
 
-### Goldsworthyの代表的な作品・プロジェクト
+### Goldsworthy's representative works/projects
 
-- **Snowball Series**: 都市に巨大な雪玉を設置し、時間と共に溶けていく様子を展示。
-- **Icicle Star**: 氷片を星形に組み上げ、日の出で融解する作品。
-- **Stone River (1997)**: アメリカ・スタンフォード大学に設置された石の蛇行する壁。
-- **Rowan Leaves and Hole**: 赤い葉を円形に配置し、水面に浮かべる作品。
-- **Storm King Wall (1997–98)**: ニューヨークのストーム・キング・アートセンターにある長大な蛇行石壁。
-
----
-
-### Goldsworthyの著書
-
-- [『A Collaboration with Nature』 (1990)](https://amzn.to/48qQfVp)
-- [『Hand to Earth』 (1990)](https://amzn.to/46r497l)
-- [『Stone』 (1994)](https://amzn.to/4n83E9l)
-- [『Time』 (2000)](https://amzn.to/3VYNbs4)
-- [『Wood』 (1996)](https://amzn.to/4pwJ04e)
-- [『Wall』 (2000)](https://amzn.to/4mmHTBm)
-- [『Arch』 (1999)](https://amzn.to/4nmEsvO)
-- [『Andy Goldsworthy: Projects』 (2004)](https://amzn.to/3IjjtLo)
+- **Snowball Series**: A huge snowball is set up in a city and displayed as it melts over time.
+- **Icicle Star**: A piece of ice that is assembled into a star shape and melts at sunrise.
+- **Stone River (1997)**: A meandering stone wall installed at Stanford University in the United States.
+- **Rowan Leaves and Hole**: A piece of work in which red leaves are arranged in a circle and float on the water surface.
+- **Storm King Wall (1997–98)**: A long serpentine stone wall at the Storm King Art Center in New York.
 
 ---
 
-### Goldsworthy作品に合う音楽プレイリスト（ジャンル別）
+### Written by Goldsworthy
 
-#### アンビエント
+- ["A Collaboration with Nature" (1990)](https://amzn.to/48qQfVp)
+- ["Hand to Earth" (1990)](https://amzn.to/46r497l)
+- ["Stone" (1994)](https://amzn.to/4n83E9l)
+- ["Time" (2000)](https://amzn.to/3VYNbs4)
+- ["Wood" (1996)](https://amzn.to/4pwJ04e)
+- ["Wall" (2000)](https://amzn.to/4mmHTBm)
+- ["Arch" (1999)](https://amzn.to/4nmEsvO)
+- ["Andy Goldsworthy: Projects" (2004)](https://amzn.to/3IjjtLo)
+
+---
+
+### Music playlist (by genre) that matches Goldsworthy works
+
+#### Ambient
 
 - Brian Eno ― *Ambient 1: Music for Airports*
-- Harold Budd ― *The Pearl*
+- Harold Budd - *The Pearl*
 - Stars of the Lid ― *And Their Refinement of the Decline*
 
-#### フィールド録音
+#### Field recording
 
 - Chris Watson ― *Weather Report*
 - Jana Winderen ― *Energy Field*
-- Hildegard Westerkamp ― *Into the Labyrinth*
+- Hildegard Westerkamp - *Into the Labyrinth*
 
-#### ミニマル
+#### Minimal
 
 - Steve Reich ― *Music for 18 Musicians*
 - Terry Riley ― *In C*
-- Philip Glass ― *Glassworks*
+- Philip Glass - *Glassworks*
 
 ---
 
-###  「時間の流れ」に沿った構成プレイリスト
+### Structured playlist according to the "flow of time"
 
-#### 朝
+#### morning
 
 - Brian Eno ― *Ambient 1: Music for Airports*
 - Chris Watson ― *Morning at the River*
 - Steve Reich ― *Music for 18 Musicians*
 
-#### 昼
+#### noon
 
 - Terry Riley ― *In C*
 - Jana Winderen ― *Energy Field*
-- Philip Glass ― *Glassworks*
+- Philip Glass - *Glassworks*
 
-#### 夕方
+#### evening
 
-- Harold Budd & Brian Eno ― *The Pearl*
+- Harold Budd & Brian Eno - *The Pearl*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
-- Stars of the Lid ― *Requiem for Dying Mothers*
+- Stars of the Lid - *Requiem for Dying Mothers*
 
-#### 夜
+#### night
 
-- William Basinski ― *The Disintegration Loops*
-- Eliane Radigue ― *Trilogie de la Mort*
+- William Basinski - *The Disintegration Loops*
+- Eliane Radigue - *Trilogie de la Mort*
 - Biosphere ― *Substrata*
 
-### 季節の流れ
+### Seasonal flow
 
-- 春：Ryuichi Sakamoto ― *Async*
-- 夏：Chris Watson ― *Weather Report*
-- 秋：Johann Johannsson ― *Orphée*
-- 冬：Alva Noto & Ryuichi Sakamoto ― *Vrioon*
+- Spring: Ryuichi Sakamoto - *Async*
+- Summer: Chris Watson ― *Weather Report*
+- Autumn: Johann Johannsson - *Orphée*
+- Winter: Alva Noto & Ryuichi Sakamoto - *Vrion*
 
 ---
 
-### 結論
+### Conclusion
 
-アンディー・ゴールズワージーの作品は、時間や自然とともに変化し消えていく「一回性」を宿している。その美学は、アンビエントやフィールド録音、ミニマル・ミュージックがもつ音の「環境性」「反復」「沈黙」と強く共鳴する。両者を組み合わせて体験することで、視覚と聴覚を横断する「自然との対話」が生まれる。
+Andy Goldsworthy's works have a ""once-in-time" quality that changes and disappears with time and nature. His aesthetic resonates strongly with the ""ambience," ""repetition," and ""silence" of ambient, field recording, and minimal music. By experiencing the two in combination, a ""dialogue with nature'' that crosses the visual and auditory senses is born.
 
 ---
 
 ### YouTube Podcast
 
-※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tb-uIGywwqc?si=Ag_bqU4OVg_fE593" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 関連コラム
+### Related columns
 
- [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+[[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 
- [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
+[[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)

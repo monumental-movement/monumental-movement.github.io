@@ -63,7 +63,7 @@ In the mid-1920s, one-shot recording was the norm in recording studios in Chicag
 
 In his scat, the syllables have no meaning, but the rhythmic arrangement is very clear. The beginning of the phrase is the attack of the trumpet, and the ending naturally converges with the breath. Here the voice acts as a melodic instrument, and the absence of lyrics becomes a prerequisite rather than an omission.
 
-If you listen carefully to records from that time, you will see that a sense of distance from the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn"t stand out too much either. The sense of improvising within the ensemble had already been perfected.
+当時のレコードを注意深く聴くと、バンドとの距離感も重要であることが分かる。スキャットは伴奏に埋もれることなく、しかし突出しすぎることもない。アンサンブルの内部で即興を行うという感覚が、すでに完成されていた。
 
 <div class="mermaid">
 timeline
@@ -77,7 +77,7 @@ timeline
 
 ---
 
-## Chapter 3 Swing era and refinement of technique
+## Chapter 3 Swing Era and Refinement of Techniques
 
 Big band recordings in the 1930s required singers to make a strong impression in a short time. Scat is an effective means of achieving this. When you listen to Ella Fitzgerald's recordings, you can hear that each syllable is precisely meshed with the rhythm section.
 

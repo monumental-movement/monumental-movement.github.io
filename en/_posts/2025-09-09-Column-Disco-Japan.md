@@ -258,7 +258,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electro-pop |
+| I Feel Better | Hot Chip | Electropop-oriented |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
 
 
@@ -301,7 +301,7 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 | Levitating | Dua Lipa | Popular on TikTok |
 | Say So | Doja Cat | Very popular in Japan |
 | Disco | Kylie Minogue | Modern disco as the title suggests |
-| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop comeback |
+| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop revival |
 | Funk to the Future | Night Tempo | Future Funk interpretation from Japan |
 | Leave the Door Open | Silk Sonic | Soul x Disco fusion |
 | Break My Soul | Beyoncé | House and disco fusion |

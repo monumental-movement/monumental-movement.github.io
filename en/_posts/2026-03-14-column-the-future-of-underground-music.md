@@ -132,7 +132,7 @@ The emergence of SoundCloud is also important.
 
 This platform has created a system that allows music to be released without going through a label.
 
-As a result, underground music is freed from geographical location.
+As a result, underground music is freed from geographical locations.
 
 The scenes in Berlin, London, and Tokyo will be connected to each other by the Internet.
 
@@ -152,7 +152,7 @@ G --> H[Global Underground Scene]
 
 </div>
 
-> The Internet has transformed underground music from a local culture into a global network.
+> The Internet has transformed underground music from a local culture to a global network.
 
 ---
 
@@ -245,7 +245,7 @@ Second, there is a reassessment of local culture.
 
 While music has become more homogenized due to the Internet, interest in regional culture is increasing.
 
-Third, new technology.
+Thirdly, new technology.
 
 AI, VR, real-time streaming, etc. have the potential to change the way we experience music.
 

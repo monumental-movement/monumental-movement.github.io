@@ -20,7 +20,7 @@ Text: mmr｜Theme: How women have updated music history in the form of bands
 
 
 
-In the history of rock and pop, girl bands have long been considered an anomaly. However, in reality, all-female bands have always been in conflict with the systems, technology, and social norms of the times, while building up their own unique expressions. Girls bands are not simply categorized by gender, but are a collection of practices surrounding production, performance, and self-determination.
+In the history of rock and pop, girl bands have long been considered an anomaly. However, in reality, all-female bands have always been in conflict with the systems, technology, and social norms of the times, while building up their own unique expressions. Girls' bands are not simply categorized by gender, but are a collection of practices surrounding production, performance, and self-determination.
 
 Even before the development of the music industry, women have performed in ensembles at home and in local communities. In the 20th century, with the establishment of the record industry and live house culture, the very presence of women in public as a band began to take on social meaning. This paper reconstructs these trends as world history.
 
@@ -63,7 +63,7 @@ B --> C[Transition to band format]
 
 In the 1970s, with the rise of second-wave feminism, women began to assert their rights as subjects of expression. In America, Fanny signed a major contract, demonstrating that an all-female rock band could be commercially viable.
 
-Around the same time, in the UK, the number of bands including women increased in the context of pub rock and glam rock. Although Suzy Quatro is a solo artist, she is important as someone who established the image of a rock woman with a bass. Although girl bands were still in the minority, the conditions for participation in the rock format began to loosen.
+Around the same time, in the UK, the number of bands including women increased in the context of pub rock and glam rock. Although Suzy Quatro is a solo artist, she is important as someone who established the image of a rock woman with a bass.ガールズバンドはまだ少数派だったが、ロックという形式への参加条件が緩み始めた。
 
 > The 1970s was a time when the qualifications for participation themselves were rewritten.
 
@@ -168,9 +168,9 @@ In continental Europe, a scene is forming around Berlin and Paris where the boun
 
 ---
 
-## Regional development: History of Japanese girl bands
+## 地域別展開：日本のガールズバンド史
 
-The history of girl bands in Japan developed in a media environment and industrial structure different from those in Europe and America. During the group sounds era of the 1960s, there were almost no female bands, and popular songs and rock were clearly separated.
+日本におけるガールズバンドの歴史は、欧米とは異なるメディア環境と産業構造の中で展開した。 During the group sounds era of the 1960s, there were almost no female bands, and popular songs and rock were clearly separated.
 
 From the late 1970s to the 1980s, with the spread of amateur band culture and live music venues, all-female bands gradually appeared. Since the late 1980s, with the expansion of indie culture, female bands have formed their own scene.
 

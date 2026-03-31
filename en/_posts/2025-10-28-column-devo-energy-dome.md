@@ -86,7 +86,7 @@ In other words, the Energy Dome is a humor device for "laughing at the system wi
 
 ## Chapter 4: DIY culture and techno-anarchism
 
-DEVO used home-made electronics and synthesizers to create their sound, with a tongue-in-cheek look at commercial rock.
+DEVOは、商業ロックへの皮肉を込めながらも、**自家製の電子機器やシンセサイザー**を使ってサウンドを作り出した。  
 Using Roland and ARP synths, they modified their own and reproduced proto-techno loop structures live.
 This practice can be said to be the prototype of the later **Independent/Lo-Fi movement**.
 

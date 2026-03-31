@@ -59,7 +59,7 @@ color: #fff;
 #### Bad Religion (formed in 1980)
 - Melocore was completed in 1988 with "Suffer"
 - Features intelligent lyrics and three-part chorus
-- Became a symbol of American West Coast melocore in the 90s
+- Became a symbol of American West Coast melocore in the 1990s
 - Representative songs: "Do What You Want", "American Jesus"
 
 #### NOFX (formed in 1983)
@@ -187,7 +187,7 @@ flowchart TD
 
 - Fusion with pop punk
 - Screamo melocore (A Day to Remember, etc.)
-- In Japan, emphasis is placed on melody while retaining youthful/daily lyrics.
+- In Japan, emphasis is placed on melody while maintaining youthful/everyday lyrics.
 - In America, political messages and powerful live performances are the focus
 
 ---
@@ -203,7 +203,7 @@ flowchart TD
 
 ## 9. Conclusion
 
-Although Japanese and American melocore have different cultural backgrounds, they have gained international support due to their shared passion and importance of melody.
+Although Japanese and American melocore have different cultural backgrounds, they have gained international support due to their shared ""passion" and ""importance of melody."
 The scenes in both countries will continue to influence each other and be passed down to younger generations.
 
 ---

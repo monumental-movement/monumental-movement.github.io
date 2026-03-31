@@ -14,13 +14,13 @@ title: Model 500 – The Flow
 ---
 
 
-Model 500は、Juan Atkins(ホアン・アトキンス)の別名義。
+Model 500 is another name of Juan Atkins.
 
-「THE FLOW」は、多彩なリミックスが施された楽曲です。Juan Atkinsは「G-Funk Mix」で純粋なR&Bの雰囲気を醸し出しています。
+"THE FLOW" is a song that has undergone various remixes. Juan Atkins gives off a pure R&B vibe with his "G-Funk Mix."
 
-一方、Alex Reece Mixはスムーズなジャズステップのリミックスを行っていますが、ボーカルが完全に統一されておらず、ややリズムに合っていないように感じられます。
+The Alex Reece Mix, on the other hand, has a smooth jazz step remix, but the vocals aren't completely unified and feel a bit out of sync with the rhythm.
 
-Underworld MK. 2 Mixはシンプルでクラブ向けのトラックを追求し、暗くやや攻撃的な雰囲気を醸し出しています。しかし、Frank De Wulfはトライバルハウスの要素を取り入れたリミックスを提供しており、それでも「Original Mix」はその輝きを保っています。
+Underworld MK. 2 Mix is ​​a simple, club-friendly track with a dark and slightly aggressive feel. However, Frank De Wulf offers a remix that incorporates elements of tribal house, and the "Original Mix" still retains its shine.
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ T1. The Flow M26 (Underworld MK. 2 Mix)
 T2. The Flow M38 (Alex Reece Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

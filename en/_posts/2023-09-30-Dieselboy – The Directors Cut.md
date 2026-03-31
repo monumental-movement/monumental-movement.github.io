@@ -12,7 +12,7 @@ title: Dieselboy – The Director"s Cut
 ---
 
 
-This is a rare tape of a killer tech modish drum and bass mix by Diesel Boy, a DJ who is overwhelmingly talented and popular in the US drum and bass scene.
+This is a rare tape of a killer tech-moddy drum and bass mix by Diesel Boy, a DJ who is overwhelmingly talented and popular in the US drum and bass scene.
 
 This mix is ​​also great, with timing, EQ, levels, and transitions all on point, a great example of his skills.
 

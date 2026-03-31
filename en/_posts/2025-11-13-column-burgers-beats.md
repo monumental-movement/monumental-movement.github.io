@@ -50,7 +50,7 @@ It had an uplifting feel similar to a musical, and symbolized McDonald's as a "h
 
 > ♪ "You deserve a break today, so get up and get away—to McDonald"s!"
 
-This song was sold as a single in the United States and was an unusual hit, entering the radio charts.
+This song was an unusual hit, selling as a single in the United States and entering the radio charts.
 It was the first time fast food commercials entered the realm of pop music.
 
 ### 1-2 Linkage with the music industry: From advertising to hit songs

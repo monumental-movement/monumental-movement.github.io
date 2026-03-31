@@ -9,13 +9,13 @@ tags:
 - Soul
 - Psychedelic
 - 7inch
-title: The 5th Dimension –  Aquarius Let The Sunshine In
+title: The 5th Dimension – Aquarius Let The Sunshine In
 ---
 
 
-The 5th Dimensio(フィフス ディメンション)は、サンシャインポップ、ポップソウル、サイケデリックソウルのスタイルで、1960年代後半から1970年代前半にかけて活躍したUSボーカルグループです。
+The 5th Dimensio is a US vocal group active from the late 1960s to the early 1970s with the styles of sunshine pop, pop soul, and psychedelic soul.
 
-1969年に「Aquarius / Let The Sunshine In 」でグラミー賞最優秀レコード賞を受賞。
+In 1969, he won the Grammy Award for Best Record of the Year for "Aquarius/Let The Sunshine In."
 
 #### Tracklist
 ```md
@@ -24,7 +24,7 @@ A. Aquarius/Let The Sunshine In (The Flesh Failures)
 B. The Magic Garden 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33529476012?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m33529476012?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VlrQ-bOzpkQ?si=LpnQiNa3SRDkilt3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

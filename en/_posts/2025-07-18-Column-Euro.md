@@ -162,7 +162,7 @@ Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGH
 
 <hr>
 
-### Why did the critics ignore it? ──"Lightness" and "Anti-Art"
+### Why did the critics ignore it? ──"Lightness" and "Anti-art"
 
 Euro music was not well received by critics for a long time. The reason is as follows:
 
@@ -187,7 +187,7 @@ In recent years, Euromusic has been reevaluated in the following ways:
 
 - Like City Pop, Eurobeat from Japan was rediscovered by the internet generation.
 
-In addition, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
+Additionally, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
 
 
 
@@ -204,6 +204,12 @@ Is it nostalgia or newness for you?
 
 <hr>
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iev_0jeS2gE?si=-_VlFxZvm5_-0X6t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -230,7 +236,7 @@ Is it nostalgia or newness for you?
 <td>Masterboy</td>
 <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
 <td>CD</td>
-<td>1994 German Eurodance masterpiece</td>
+<td>1994 German Eurodance Masterpiece</td>
 </tr>
 <tr>
 <td>VA</td>
@@ -266,7 +272,7 @@ Is it nostalgia or newness for you?
 <td>Tam Arrow</td>
 <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
 <td>Vinyl</td>
-<td>Made in Italy 2001 Euro Beat EP</td>
+<td>2001 Made in Italy Euro Beat EP</td>
 </tr>
 <tr>
 <td>Dao Dezi</td>

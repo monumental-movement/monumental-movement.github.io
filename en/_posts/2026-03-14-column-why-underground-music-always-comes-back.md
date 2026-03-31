@@ -17,7 +17,7 @@ title: '[Column] Why does music that was born underground come back again and ag
 
 ## What is Underground Music?
 
-文：mmr｜テーマ：地下から生まれる音楽はなぜ何度でも蘇るのか。 Deciphering the cyclical structure of underground culture and its relationship with society through the history of jazz, punk, house, grime, etc.
+Text: mmr｜Theme: Why does the music that comes from underground come back again and again? Deciphering the cyclical structure of underground culture and its relationship with society through the history of jazz, punk, house, grime, etc.
 
 
 ### Sound starting from an invisible place
@@ -315,7 +315,7 @@ Often it is a strange and incomprehensible sound.
 
 But after a few years, the sound can become mainstream.
 
-> Underground culture is a laboratory for testing the future of music.
+> アンダーグラウンド文化は、音楽の未来を試す実験室である。
 
 ---
 

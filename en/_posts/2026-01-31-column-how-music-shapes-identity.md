@@ -46,7 +46,7 @@ color: #fff;
 
 ### Ritual and the role of sound
 
-Throughout human history, music has been inseparable from the establishment of communities. In an era when writing did not exist, knowledge and values ​​were passed down orally, and songs and rhythms were at the center of this. The drums beat before a hunt, the dance songs celebrating the harvest, and the melodies used to mourn the dead connect individuals to a being that transcends the temporal.
+Throughout human history, music has been inseparable from the establishment of communities. In an era when there was no written language, knowledge and values ​​were transmitted orally, and songs and rhythms were at the center of this. The drums beat before a hunt, the dance songs celebrating the harvest, and the melodies used to mourn the dead, connect individuals to a being that transcends the temporal.
 
 These musical experiences not only conveyed information, but also created a feeling of ""belonging to the same group'' through physical sensations. Stomping your feet to the same rhythm and vocalizing the same melody creates synchronicity that is more powerful than words. Music played a role in making the boundaries of the community visible and separating the inside from the outside.
 

@@ -9,11 +9,11 @@ tags:
 - Techno
 - Acid
 - 90s
-title: 二階堂北斗 – Inflame
+title: Nikaido Hokuto – Inflame
 ---
 
 
-1996年に札幌のダブレックスからリリースされたテクノな一枚。
+A techno piece released by Sapporo's Doublex in 1996.
 
 #### Tracklist
 ```md
@@ -32,5 +32,5 @@ B3. 天上天下唯我独尊 (Bleep.Bird.Burn.Mix)
 B4. Subsonic Drum (Power Peak Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93371201718?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m93371201718?afid=6142608987){: .button1}
 

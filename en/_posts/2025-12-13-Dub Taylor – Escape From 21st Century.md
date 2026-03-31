@@ -13,7 +13,7 @@ title: Dub Taylor – Escape From 21st Century
 ---
 
 
-Alex Krüger, also known as Dub Taylor, is a German producer who also works under the name Tigerskin, and is a DJ who led the Dub Techno movement from the 1990s.
+Alex Krüger, also known as Dub Taylor, is a German producer who also works under the name Tigerskin, and a DJ who led the Dub Techno movement from the 1990s.
 
 "Escape From 21st Century" is a minimal track released by German label Organic Domain Records in 2006.
 

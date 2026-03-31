@@ -14,7 +14,7 @@ title: The Cage Featuring Nona Hendryx – Do What Ya Wanna Do
 
 The Cage is a band formed mainly by Nona Hendryx, with the participation of Rusty Egan (drums), Steve Barnacle (bass/guitar), and Gary Barnacle (saxophone/synth), who were members of the British synth pop group Visage, which is famous as the birthplace of the New Romantic movement.
 
-"Do What Ya Wanna Do", released in 1982, is a cover version of a disco track released by T-Connection in 1977, arranged in a Funk Disco style. It is highly acclaimed as a crossover between the disco scene and post-punk.
+"Do What Ya Wanna Do", released in 1982, is a cover version of a disco track released by T-Connection in 1977, arranged in a funk disco style. It is highly acclaimed as a crossover between the disco scene and post-punk.
 
 
 #### Tracklist

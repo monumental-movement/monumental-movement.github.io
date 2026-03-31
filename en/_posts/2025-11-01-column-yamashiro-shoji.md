@@ -59,7 +59,7 @@ The moment when body, voice, space, and time come together to resonate - that is
 ## Chapter 2: 80 types of "sounds of groups" from around the world - Quest for universal musical structure
 
 Geino Yamashiro-gumi was active from the late 1970s to the 1980s.
-He has actually performed and researched **""80 types of ethnic performances from around the world''**.
+He has actually performed and researched ""80 types of ethnic performances from around the world''.
 This was not just a collection of folk music, but an exploration of the fundamental question, ""What is the sound that humans make as a group?''
 
 ### ◇ Examples of research/performance targets
@@ -99,7 +99,7 @@ It also influenced later world-famous artists such as Aphex Twin, Ryuichi Sakamo
 
 ## Chapter 4: Sound Environment - Science and Philosophy of "Listening"
 
-After ""AKIRA," Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
+After ""AKIRA", Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
 He reconsidered sound not just as an auditory stimulus, but as a ""point of contact between information and ecology.''
 
 ### ◇ Main works and ideas

@@ -17,9 +17,9 @@ title: '[Column] Make your equipment softer—The impact of ReBirthRB‑338'
 ## Introduction: Why ReBirth was "shocking"
 
 
-Text: mmr｜Theme: Re-thinking ReBirth not only as ""innovation as a tool" but also as an opportunity for ""changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
+Text: mmr｜Theme: Re-thinking ReBirth not only as "innovation as a tool" but also as an opportunity for "changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
 
-In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is the ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
+In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
 What this software offered was the possibility of ""making those legendary equipment (Roland TB‑303, Roland TR‑808, Roland TR‑909) usable on your personal computer.''
 ReBirth bypassed the hurdles of obtaining hardware, the cost of maintaining it, and the difficulty of transporting and operating it, and introduced a new wave of ""democratization through software," which is why it was an event that could be called a ""shock".
 
@@ -84,7 +84,7 @@ Let's sort out some of the characteristics that ReBirth had.
 
 ### "Democratization" of user experience and operability
 What these features meant was that ""even if you didn't own the equipment, you could obtain, program, and transmit sounds similar to the equipment," or in other words, ""the entrance to music production has expanded."
-At the time, acquiring, maintaining, and operating the TB-303 and TR-808/909 was a major hurdle for many creators and producers. However, with ReBirth, you can generate "similar" sounds as long as you have a computer environment, and operability such as "pattern switching" and "sequencer configuration" has become much easier.
+At the time, acquiring, maintaining, and operating the TB-303 and TR-808/909 was a major hurdle for many creators and producers. However, with ReBirth, you can generate sounds that sound like that with just a computer environment, and operability such as pattern switching and sequencer configuration has become much easier.
 For example, one user said (via Reddit):
 > "The 303s are definitely software synths… The 808 and 909 were definitely samples and not synth emulations. I spent a ridiculous amount of time using Rebirth and many, many of its mods."
 
@@ -102,7 +102,7 @@ In this way, ReBirth was not only a technological innovation, but also a tool th
 ReBirth's impact goes beyond just being a software synthesizer. Rather, what is important is that it restructured the "possibilities of access and expression" in the cultural fields of electronic music, clubs, techno, and DIY production.
 
 ### Acid techno again: popularizing the TB‑303 sound
-The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more maniacal. Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
+The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more "maniacal." Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
 
 This challenged the preconceived notion that "hardware ownership = production style" and served as an opportunity to expand the creator base.
 

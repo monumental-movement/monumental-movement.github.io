@@ -53,7 +53,7 @@ PCO's origins lie in a strange event in 1972, when founder Simon Jeffes "succumb
 That's when he had a daydream-like inspiration that later became known as the "Penguin Cafe vision."
 There existed a "utopia" where people could gather freely and continue to make music without discipline or form.
 
-To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structure of minimal music.
+To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structures of minimal music.
 The music was neither traditional nor avant-garde, but crystallized as a sound that could only be found here.
 
 ---
@@ -95,7 +95,7 @@ This chapter analyzes the internal structure of PCO's iconic songs.
 ### 3-1. **Music For a Found Harmonium (1984)**
 
 PCO's signature song.
-An iconic anecdote is that he composed music while playing on a broken harmonium he found on the streets of Kyoto.
+An iconic anecdote is that he composed music by playing on a broken harmonium he found on the streets of Kyoto.
 
 **Structural features**
 
@@ -152,7 +152,7 @@ Folklore and repetitive structures are fused, and the later style is almost comp
 ### ● *Penguin Cafe Orchestra* (1981)
 
 Contains the famous song "Telephone and Rubber Band".
-It has a strong folk music approach and has acquired a unique "dance quality".
+He has a strong folk music approach and has acquired a unique "dance quality."
 
 ### ● *Broadcasting from Home* (1984)
 
@@ -193,7 +193,7 @@ PCO's music is emotional but not descriptive, so it is valued as ""sound that al
 ### ● Impact on subsequent generations
 
 * Max Richter
-* Olafur Arnalds
+*Olafur Arnalds
 * Penguin Cafe (successor project by son Arthur Jeffes)
 * Folk/Minimal artists
 
@@ -298,5 +298,15 @@ PCO's sound can either ""melt into the background" or ""take center stage."
 The song listens to the listener's state of mind and sounds completely different each time.
 
 It may be that the ""imaginary cafe'' that Simon Jeffes saw in his fever is still quietly operating somewhere around the world.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Em1aIz3ONZc?si=HkYqZuq-Uvy8qJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

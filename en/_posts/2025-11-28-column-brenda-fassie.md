@@ -49,7 +49,7 @@ color: #fff;
 
 * Real name: Brenda Nokuzola Fassie
 * Year of birth: November 3, 1964
-* Place of birth: Langa, near Cape Town, South Africa
+* 出生地：南アフリカ、ケープタウン近郊（ラングァ Langa）
 * Active period: Mainly from early 1980s to 2004
 * Genre: Pop, Afropop, Kwaito, R&B
 * Died: May 9, 2004 (age 39)
@@ -66,7 +66,7 @@ color: #fff;
 | 1989 | Marriage (Nhlanhla Mbambo). later divorced.                                             |
 | 1990 | Album "Black President" released. Political messages attract attention.                              |
 | 1991 | Problems in his private life were reported, and problems with drug use came to the fore.                                              |
-| 1995 | A scandal is discovered, including the death of a lover. The cycle of rehabilitation and return begins.                                    |
+|      1995 | 恋人の死亡などスキャンダルが発覚。 The cycle of rehabilitation and return begins.                                    |
 | 1996–1999 | Returned to commercial success with albums such as ""Now Is the Time," ""Paparazzi," ""Memeza," and ""Nomakanjani." |
 | 2001 | Increased attention from international media and her influence reevaluated.                                        |
 | 2004 | He collapsed in April and passed away on May 9th at the age of 39. After his death, his best albums will be sorted out.                                     |
@@ -140,7 +140,7 @@ Stage costumes, facial expressions, and performance direction are also part of h
 
 In April 2004, Brenda collapsed at home and was taken to the hospital. After several days of treatment, he passed away on May 9th. There were multiple reports on the cause of death, but the final report was that asthma attacks and complications were a contributing factor.
 
-Her death sent a deep shock through the South African music world, with tributes pouring in from home and abroad. A posthumous best-of compilation and retrospective compilation preserves Brenda's music for generations of artists and listeners. In some cases, her sons and musical students continue her legacy.
+Her death sent a deep shock through the South African music world, with tributes pouring in from home and abroad. A posthumous best-of compilation and retrospective compilation preserves Brenda's music for generations of artists and listeners.息子や弟子となる音楽家たちが彼女の遺産を継承している例もあります。
 
 ---
 
@@ -149,7 +149,7 @@ Her death sent a deep shock through the South African music world, with tributes
 ## Main albums
 
 * Early band albums
-*Black President
+* Black President
 * Now Is the Time
 *Paparazzi
 *Memeza

@@ -51,7 +51,7 @@ On the other hand, electronic dance music, which has developed since the 1970s, 
 ## 2. Preconditions for the establishment of a genre
 
 
-In order for Electro Swing to come into being, the following technical and cultural conditions were necessary.
+In order for Electro Swing to come into existence, the following technical and cultural conditions were necessary.
 
 * Popularization of digital sampling technology
 *Early Internet culture where copyright management was relatively loose

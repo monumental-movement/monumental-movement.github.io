@@ -163,7 +163,7 @@ C --> G[excessive resonance]
 
 ## Conclusion Balancing reduction and excess
 
-Minimal techno and acid techno used the same language, techno, but reached completely opposite expressions. Minimalism gained depth by stripping things down, and acid created excitement by distorting it. The existence of these two extremes allows techno to transcend mere dance music and continue to exist as part of urban culture itself.
+Minimal techno and acid techno used the same language, techno, but reached completely opposite expressions. Minimalism gained depth by stripping things down, and acid created enthusiasm by distorting it. The existence of these two extremes allows techno to transcend mere dance music and continue to exist as part of urban culture itself.
 
 > The strength of techno lies in the fact that it contains both calm and frenzy at the same time.
 

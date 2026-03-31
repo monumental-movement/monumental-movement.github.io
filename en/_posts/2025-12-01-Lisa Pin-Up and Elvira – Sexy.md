@@ -13,7 +13,7 @@ title: Lisa Pin-Up & Elvira – Sexy
 ---
 
 
-Lisa Pin-Up (Lisa Chilcott) is a British hard house DJ/producer. She is also a member of the Hard House/Nu NRG act Tidy Girls.
+Lisa Pin-Up (Lisa Chilcott) is a British hard house DJ/producer. He is also a member of the Hard House/Nu NRG act Tidy Girls.
 
 Porl Young, also known as Elvira, is a UK producer/DJ. In the mid-90s, he was a member of the UK gothic rock band Rosetta Stone.
 

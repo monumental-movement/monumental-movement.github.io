@@ -24,7 +24,7 @@ Text: mmr｜Theme: Neither 7 inches nor 12 inches. The aesthetics of sound and m
 10 inch record.
 There is a certain ambiguity in that word. It has a unique yet half-finished presence that is different from the immediate effect of a 7-inch single or the satisfying feeling of a 12-inch LP. If we look at the history of records, we can see how this "intermediate format" marked a turning point in the times.
 
-10 inches is not just a matter of size. It was also another philosophy that redefined ""length of time" and ""density of sound." The restriction of around 10 minutes per side forced artists and engineers to choose ""condensation,'' and the result was a surprisingly well-defined sound and a listening experience that required concentration.
+10インチは、単なるサイズの問題ではない。 It was also another philosophy that redefined ""length of time" and ""density of sound." The restriction of around 10 minutes per side forced artists and engineers to choose ""condensation,'' and the result was a surprisingly well-defined sound and a listening experience that required concentration.
 
 "Just long enough to take a drink by the time you finish listening."
 The aesthetics of 10 inches resides in this sense of time.
@@ -65,7 +65,7 @@ Miles Davis ["Young Man with a Horn"](https://amzn.to/4qkdGGC) (1952), Theloniou
 
 Before the advent of the 12-inch LP, the 10-inch was the testing ground for the new concept of "LP." At a time when the format for long-length works had not yet been determined, the 10-inch format gave the artist a sense of ""cohesion" and at the same time left behind the density of a ""cut out moment".
 
-What cannot be overlooked is the evolution of jacket design. Blue Note, which preceded the appearance of Reid Miles, was known for its simple compositions that made use of typography and photo margins, but the golden ratio was most beautifully expressed in the 10-inch era.
+What cannot be overlooked is the evolution of jacket design. Blue Note, which preceded the appearance of Reid Miles, was known for its simple compositions that utilized typography and photo margins, but the golden ratio was most beautifully expressed during the 10-inch era.
 
 ---
 
@@ -110,13 +110,13 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 
 ---
 
-### Final chapter: Time in the palm of your hand, the 10-inch ""density of sound''
+### Final Chapter: Time in the palm of your hand, 10-inch speaks about the "density of sound"
 
 10 inches is incomplete yet complete.
 It's not a long story or a short story, but a "short story" format.
 Music in the palm of your hand. However, its density is not inferior to 12 inches.
 
-A format is not just a container, but an idea.
+A format is not just a container, it is an idea.
 Re-evaluating the 10-inch is an act of reconsidering the way music is listened to.
 
 There is always a ""middle'' between technologies.

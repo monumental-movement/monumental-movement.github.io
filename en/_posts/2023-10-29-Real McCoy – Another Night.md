@@ -13,9 +13,9 @@ title: Real McCoy – Another Night
 ---
 
 
-Real McCoy（リアル マッコイ）はドイツのユーロダンス / ポップミュージックプロジェクト。1994年リリースの「Another Night」は彼らの代表曲。
+Real McCoy is a German Eurodance/pop music project. "Another Night" released in 1994 is their signature song.
 
-B面はArmand Van Helden（アーマンド・ヴァン・ヘルデン）のremix。
+B-side is a remix of Armand Van Helden.
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B1. Another Night (Armand's Nightmare Mix)
 B2. Another Night (Armand's New School Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m15854439320?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m15854439320?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kp8HFVPabmg?si=RyCsYbEl9pDyOBLF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

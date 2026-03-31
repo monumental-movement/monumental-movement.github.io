@@ -115,7 +115,7 @@ On the other hand, in recent years, efforts have been made to respond to the dig
 
 In the video field, re-editing movies, reconstructing trailers, and fan-made videos have expanded remix culture. Because visual references are more obvious than music, rights issues are easier to visualize.
 
-Still, critical reediting and educational use have gained some legitimacy.
+Still, critical reediting and pedagogical use have gained some legitimacy.
 
 > Video remix emphasizes criticality through the power of visual quotation.
 
@@ -143,7 +143,7 @@ This can be said to be a choice that prioritizes cultural sustainability over st
 
 ## Re-editing problem in the AI ​​era
 
-Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage raise issues that cannot be resolved using conventional copyright concepts.
+Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage pose problems that cannot be resolved using conventional copyright concepts.
 
 > AI will redefine who is responsible for remixing.
 

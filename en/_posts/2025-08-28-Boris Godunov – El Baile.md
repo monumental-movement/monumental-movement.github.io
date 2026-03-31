@@ -13,9 +13,9 @@ title: Boris Godunov – El Baile
 ---
 
 
-Boris Godunov(ボリス・ゴドゥノフ)は、Cornelius De HaasとSascha Mockによりユニット。Corn & MoccaやCornelius De Haas & Mokka名義でも活動している。
+Boris Godunov is a unit formed by Cornelius De Haas and Sascha Mock. He also works under the names Corn & Mocca and Cornelius De Haas & Mokka.
 
-日本のダンスポップレーベルEscalator Records(現在は廃止)から2002年にリリースされたLatin／House トラック。
+A Latin/House track released in 2002 by the Japanese dance-pop label Escalator Records (now defunct).
 
 
 
@@ -27,4 +27,4 @@ B1. El Baile (Instrumental Club Mix)
 B2. El Baile (Original Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m62579503537?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m62579503537?afid=6142608987){: .button1}

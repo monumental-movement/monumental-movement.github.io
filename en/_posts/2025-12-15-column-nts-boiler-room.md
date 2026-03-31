@@ -46,7 +46,7 @@ NTS Radio is an internet radio based in London that broadcasts DJ programs and l
 
 A feature of NTS is that it does not give any particular genre an advantage in program programming. Artists have curation rights on a program-by-program basis, and are allowed to include not only DJ sets but also field recordings, unreleased sound sources, and live performances.
 
-> "Live streaming on NTS has been positioned as an act of sharing the process of song selection and performance itself, rather than presenting the completed work."
+> "Live streaming on NTS has been positioned as an act of sharing the process of song selection and performance itself, rather than the presentation of completed works."
 
 ---
 
@@ -148,7 +148,7 @@ The facts summarized in this paper will serve as a foundation for considering fu
 The practice of the live streaming artists appearing on NTS and Boiler Room is more about ""music as a body of movement'' than the name of a genre.
 
 DJ sets and experimental performances in live streams are presented as a state of continuous change over time, rather than as a finished piece of work.
-This can be regarded as "recordable movement."
+This can be viewed as "recordable movement."
 
 > "The moment music rejects fixed formats, its movement becomes most evident."
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 

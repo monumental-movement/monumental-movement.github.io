@@ -49,7 +49,7 @@ color: #fff;
 - Roger Sanchez — *Luv Dancin'* (1990, under the name Underground Solution)
 
 **Equipment trends**
-Many of the productions used turntables and samplers (early SP series and Akai) to take advantage of the "loop feeling" of records.
+There were many productions using turntables and samplers (early SP series and Akai) that took advantage of the "loop feeling" of records.
 
 ---
 

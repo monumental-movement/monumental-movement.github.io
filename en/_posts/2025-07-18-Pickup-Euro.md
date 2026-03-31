@@ -7,22 +7,22 @@ lang: en
 layout: post
 tags:
 - Euro
-title: ユーロ・ミュージック作品をピックアップ
+title: Pick up euro music works
 ---
 
 
-「洗練されたメロディとダンスフロアを熱狂させる躍動感に満ちた、注目すべきユーロ・ミュージック作品群」
+""A remarkable group of Euro music pieces filled with sophisticated melodies and a sense of dynamism that excites the dance floor.''
 
 <hr>
 
 ### Rednex – Cotton Eye Joe
 <a href="https://jp.mercari.com/item/m58300098495?afid=6142608987"><img src="../assets/images/Rednex%20%E2%80%93%20Cotton%20Eye%20Joe.webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：Euro House / Synth-pop
+Genre: Euro House / Synth-pop
 
-リリース日：2024年11月15日掲載 (Rednex – Cotton Eye Joe) 
+Release date: Posted on November 15, 2024 (Rednex – Cotton Eye Joe)
 
 #### Tracklist
 ```md
@@ -38,7 +38,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -49,11 +49,11 @@ B2. Cotton Eye Joe (Overworked Mix)
 ### Masterboy – Different Dreams
 <a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.webp"></a>
 
-フォーマット：CD
+Format: CD
 
-ジャンル：'90s Euro / Euro Beat
+Genre: '90s Euro / Euro Beat
 
-収録曲：「Feel the Heat of the Night」「I Got to Give It Up」など。1994年リリースのドイツ・ユーロダンス代表作 
+Included songs: "Feel the Heat of the Night", "I Got to Give It Up", etc. German Eurodance masterpiece released in 1994
 
 #### Tracklist
 ```md
@@ -74,7 +74,7 @@ Bonus Track For Japan
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -85,11 +85,11 @@ Bonus Track For Japan
 ### VA – Maharaja Top 20 Vol. III
 <a href="https://jp.mercari.com/item/m24287278460?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Maharaja%20Top%2020.webp"></a>
 
-フォーマット：CD（非売品）
+Format: CD (not for sale)
 
-ジャンル：90年代 Euro House / Eurobeat / Italodance
+Genre: 90s Euro House / Eurobeat / Italodance
 
-コンピレーション形式で90年代シーンの代表曲を収録 
+Contains representative songs from the 90s scene in compilation format
 
 #### Tracklist
 ```md
@@ -116,7 +116,7 @@ Bonus Track For Japan
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -126,11 +126,11 @@ Bonus Track For Japan
 ### Various – Overnight Remixes II
 <a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%20II.webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：80-90年代 Euro House
+Genre: 80s-90s Euro House
 
-80年代後半から90年代のユーロハウス・テクノ・ニュービート・ガラージハウス系コンピレーション
+Euro house, techno, new beat, garage house compilation from the late 80"s to the 90"s
 
 #### Tracklist
 ```md
@@ -148,7 +148,7 @@ B5. LNR – Work It To The Bone
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -159,11 +159,11 @@ B5. LNR – Work It To The Bone
 ### MDC‑X‑Static – You And Me
 <a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：90s Euro / Euro House
+Genre: 90s Euro / Euro House
 
-1990年代クラブヒット「In Ecstasy」ミックス入りの12″ EP 
+12″ EP with mix of 1990s club hit "In Ecstasy"
 
 #### Tracklist
 ```md
@@ -174,7 +174,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -184,11 +184,11 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 ### Ziggy – No Police (Aztec Remix)
 <a href="https://jp.mercari.com/item/m35371062618?afid=6142608987"><img src="../assets/images/Ziggy%20%E2%80%93%20No%20Police%20(Aztec%20Remix).webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：90s Euro / Euro House
+Genre: 90s Euro / Euro House
 
-1990年代クラブヒット「In Ecstasy」ミックス入りの12″ EP 
+12″ EP with mix of 1990s club hit "In Ecstasy"
 
 #### Tracklist
 ```md
@@ -198,7 +198,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -208,11 +208,11 @@ B. No Police = No Llamen A La Policia (Original Version)
 ### Dr. Baker – Kaos
 <a href="https://jp.mercari.com/item/m83196886792?afid=6142608987"><img src="../assets/images/Dr.%20Baker%20%E2%80%93%20Kaos.webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：90s Euro / Euro House
+Genre: 90s Euro / Euro House
 
-1990年代クラブヒット「In Ecstasy」ミックス入りの12″ EP 
+12″ EP with mix of 1990s club hit "In Ecstasy"
 
 #### Tracklist
 ```md
@@ -224,7 +224,7 @@ B2. Kaos (Original German Sausage Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -234,11 +234,11 @@ B2. Kaos (Original German Sausage Mix)
 ### Channel X – So High
 <a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：Euro Beat / Euro House
+Genre: Euro Beat / Euro House
 
-ベルギー制作ユーロトラック、2023年10月に掲載 
+Belgian-produced Euro truck, published in October 2023
 
 #### Tracklist
 ```md
@@ -248,7 +248,7 @@ B. So High (Single Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -259,11 +259,11 @@ B. So High (Single Mix)
 ### East 17 – Around The World
 <a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：90s Euro House
+Genre: 90s Euro House
 
-1994年リリース、Ben Liebrandによるリミックス収録のUKポップユーロサウンド 
+UK pop euro sound released in 1994, remixed by Ben Liebrand
 
 #### Tracklist
 ```md
@@ -275,7 +275,7 @@ B #2. Around The World (Global House Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -285,11 +285,11 @@ B #2. Around The World (Global House Mix)
 ### Tam Arrow – One Shot Girl
 <a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：Euro Beat / Hi‑NRG
+Genre: Euro Beat / Hi‑NRG
 
-2001年リリースのイタリア産EP、エナジー系12″ 
+Italian EP released in 2001, energy 12″
 
 #### Tracklist
 ```md
@@ -303,7 +303,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -314,11 +314,11 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 ### Dao Dezi – La Jument De Mishao
 <a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jument%20De%20Mishao.webp"></a>
 
-フォーマット：Vinyl
+Format: Vinyl
 
-ジャンル：Euro / Euro House
+Genre: Euro / Euro House
 
-Deep Forestメンバーによる1994年イタリアリリース ◆ 
+Released in Italy in 1994 by Deep Forest members ◆
 
 #### Tracklist
 ```md
@@ -328,7 +328,7 @@ B. La Jument De Mishao (Club Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -339,11 +339,11 @@ B. La Jument De Mishao (Club Mix)
 ### E‑Rotic – Sexual Madness
 <a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
 
-フォーマット：CD
+Format: CD
 
-ジャンル：90s Euro / Euro Beat / Hi‑ERG House
+Genre: 90s Euro / Euro Beat / Hi‑ERG House
 
-1997年リリースのアルバムでヒット曲「Turn Me On」収録 
+The hit song "Turn Me On" was included on the album released in 1997.
 
 #### Tracklist
 ```md
@@ -362,7 +362,7 @@ B. La Jument De Mishao (Club Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -373,11 +373,11 @@ B. La Jument De Mishao (Club Mix)
 ### E‑Rotic – Willy Use A Billy... Boy
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-フォーマット：CD
+Format: CD
 
-ジャンル：90s Euro / Euro Beat / Hi‑ERG House
+Genre: 90s Euro / Euro Beat / Hi‑ERG House
 
-「Willy Use A Billy… Boy」はドイツではE-Roticの4枚目のシングル、日本ではデビューシングル
+"Willy Use A Billy… Boy" is E-Rotic's fourth single in Germany and debut single in Japan.
 
 #### Tracklist
 ```md
@@ -386,7 +386,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -397,81 +397,81 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 
 <div class="table-border">
 <table>
-  <thead>
-    <tr>
-      <th>アーティスト</th>
-      <th>タイトル</th>
-      <th>形式</th>
-      <th>年代／特徴</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Rednex</td>
-      <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
-      <td>12″</td>
-      <td>スウェーデン産ユーロハウス／シンセポップ</td>
-    </tr>
-    <tr>
-      <td>Masterboy</td>
-      <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
-      <td>CD</td>
-      <td>1994  ドイツ・ユーロダンス名盤</td>
-    </tr>
-    <tr>
-      <td>VA</td>
-      <td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
-      <td>CD</td>
-      <td>90s 非売品コンピ</td>
-    </tr>
-    <tr>
-      <td>Various</td>
-      <td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Overnight Remixes II</a></td>
-      <td>Vinyl</td>
-      <td>90s 名トラック集コンピ</td>
-    </tr>
-    <tr>
-      <td>MDC‑X‑Static</td>
-      <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
-      <td>Vinyl</td>
-      <td>90s クラブヒット EP</td>
-    </tr>
-    <tr>
-      <td>Ziggy</td>
-      <td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Aztec Remix)</a></td>
-      <td>Vinyl</td>
-      <td>90s ユーロビート／Hi‑NRG レア盤</td>
-    </tr>
-    <tr>
-      <td>Dr. Baker</td>
-      <td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
-      <td>Vinyl</td>
-      <td>1990  UKリリース・Euro House</td>
-    </tr>
-    <tr>
-      <td>Tam Arrow</td>
-      <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One Shot Girl</a></td>
-      <td>Vinyl</td>
-      <td>2001年イタリア製 Euro Beat EP</td>
-    </tr>
-    <tr>
-      <td>Dao Dezi</td>
-      <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
-      <td>12″</td>
-      <td>’94年深いユーロハウス系リリース</td>
-    </tr>
-    <tr>
-      <td>E‑Rotic</td>
-      <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
-      <td>CD</td>
-      <td>1997  ヒット「Turn Me On」収録</td>
-    </tr>
-    <tr>
-      <td>E‑Rotic</td>
-      <td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
-      <td>Vinyl</td>
-      <td>90s 定番シングル</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Artist</th>
+<th>Title</th>
+<th>Format</th>
+<th>Age/Characteristics</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rednex</td>
+<td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
+<td>12″</td>
+<td>Swedish euro house/synth pop</td>
+</tr>
+<tr>
+<td>Masterboy</td>
+<td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
+<td>CD</td>
+<td>1994 German Eurodance Masterpiece</td>
+</tr>
+<tr>
+<td>VA</td>
+<td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
+<td>CD</td>
+<td>90s not for sale compilation</td>
+</tr>
+<tr>
+<td>Various</td>
+<td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Overnight Remixes II</a></td>
+<td>Vinyl</td>
+<td>90s famous track compilation</td>
+</tr>
+<tr>
+<td>MDC‑X‑Static</td>
+<td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
+<td>Vinyl</td>
+<td>90s Club Hit EP</td>
+</tr>
+<tr>
+<td>Ziggy</td>
+<td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Aztec Remix)</a></td>
+<td>Vinyl</td>
+<td>90s Eurobeat/Hi-NRG Rare Edition</td>
+</tr>
+<tr>
+<td>Dr. Baker</td>
+<td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
+<td>Vinyl</td>
+<td>1990 UK release/Euro House</td>
+</tr>
+<tr>
+<td>Tam Arrow</td>
+<td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
+<td>Vinyl</td>
+<td>2001 Made in Italy Euro Beat EP</td>
+</tr>
+<tr>
+<td>Dao Dezi</td>
+<td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
+<td>12″</td>
+<td>"94 deep Euro house release</td>
+</tr>
+<tr>
+<td>E-Rotic</td>
+<td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
+<td>CD</td>
+<td>1997 hit "Turn Me On" included</td>
+</tr>
+<tr>
+<td>E-Rotic</td>
+<td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
+<td>Vinyl</td>
+<td>90s classic single</td>
+</tr>
+</tbody>
 </table>
 </div>
