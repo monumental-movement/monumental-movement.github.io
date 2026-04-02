@@ -13,7 +13,7 @@ title: Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)
 ---
 
 
-1987년에 벨기에 & 네덜란드의 라벨 「Indisc」로부터 릴리스된 본작은, 이타로디스코/하이에너지로서 당시 인기를 얻었습니다.
+1987년 벨기에 & 네덜란드의 라벨 "Indisc"에서 출시된 본작은 이탈로디스코/하이에너지로서 당시 인기를 얻었습니다.
 
 
 #### Tracklist

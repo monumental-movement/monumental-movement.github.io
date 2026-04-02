@@ -14,11 +14,11 @@ title: Tweet – Oops (Oh My)
 ---
 
 
-Tweet 할 Charlene Keys는 미국의 R & B / 서울 가수, 노래 작가, 기타리스트, 여배우.
+Tweet 할 Charlene Keys는 미국 R & B / 서울 가수, 노래 작가, 기타리스트, 여배우.
 
 2002년에 Elektra로부터 릴리스된 「Oops (Oh My)」는 Twitter는 데뷔 솔로 싱글.
 
-프로듀스는 Timbaland(팀버랜드), Missy Elliott(미시 엘리엇)가 게스트 보컬을 담당하고 있다. 핫 R&B/힙합송으로 1위, 빌보드 핫 100으로 7위를 기록하는 대히트가 됐다.
+프로듀스는 Timbaland(팀버랜드), Missy Elliott(미시 엘리엇)가 게스트 보컬을 담당하고 있다. 핫 R&B/힙합 송에서 1위, 빌보드 핫 100으로 7위를 기록하는 대히트가 됐다.
 
 #### Tracklist
 ```md

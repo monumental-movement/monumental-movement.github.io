@@ -14,7 +14,7 @@ title: Claude Young – The Dexit E.P.
 ---
 
 
-The Dexit E.P.는 1997년 벨기에 라벨 Elypsia에서 Claude Young이 자신의 홈 타운인 디트로이트의 프로듀서 작품을 출시하기 위해 발표한 1장이다.
+The Dexit E.P.는 1997년 벨기에 라벨 Elypsia에서 Claude Young이 자신의 홈 타운인 디트로이트의 프로듀서 작품을 발표하기 위해 발표한 1장이다.
 
 #### Tracklist
 ```md

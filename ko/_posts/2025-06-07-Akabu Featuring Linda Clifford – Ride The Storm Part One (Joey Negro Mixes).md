@@ -19,7 +19,7 @@ Akabu Dave Lee는 영국의 DJ 프로듀서 리믹서입니다. Dave Lee는 1990
 
 Dave Lee는 Jakatta, Doug Willis, Raven Maize, Sessomatto 등 수많은 별명으로 활동하고 있다.
 
-Freddie Hubbard(프레디 하버드)의 앨범 The Love Connection에 수록된 Little Sunflower를 베이스로 만들어진 이 레코드는 2001년 UK의 라벨 NRK Sound Division에서 발표된 하우스 트랙.
+Freddie Hubbard(프레디 하버드)의 앨범 The Love Connection에 수록되어 있는 Little Sunflower를 베이스로 만들어진 이 레코드는, 2001년에 UK의 라벨 NRK Sound Division에서 릴리스된 하우스 트럭.
 
 #### Tracklist
 ```md

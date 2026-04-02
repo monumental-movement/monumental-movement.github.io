@@ -14,7 +14,7 @@ title: Groove Man – Funky Peak No Limit
 ---
 
 
-콜롬비아 출신의 DJ / 프로듀서 Groove Man이 2005년에 프렌치 하우스 라벨 Vector Records에서 발표한 하우스 트럭.
+콜롬비아 출신 DJ / 프로듀서 Groove Man이 2005년에 프렌치 하우스 라벨 Vector Records에서 발표한 하우스 트럭.
 
 #### Tracklist
 ```md

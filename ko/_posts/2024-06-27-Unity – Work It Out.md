@@ -16,7 +16,7 @@ title: Unity – Work It Out
 
 Unity는 Gary Storm과 Lionel Herman의 프로젝트입니다. 별명의로, Power Movement, Rugged All-Stars, S.N.H. Foundation, Storm & Herman으로도 활동하고 있다.
 
-Work It Out은 1993년 하우스 라벨 Strictly Rhythm에서 출시된 하우스 갤러지 하우스 트럭. 이 시기의 A&R은 DJ Pierre(DJ피에르).
+Work It Out은 1993년 하우스 라벨 Strictly Rhythm에서 출시된 하우스 갈라지 하우스 트럭. 이 시기의 A&R은, DJ Pierre(DJ피에르).
 
 #### Tracklist
 ```md

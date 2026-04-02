@@ -15,7 +15,7 @@ title: Mark' Oh – Tears Don't Lie
 ---
 
 
-'Tears Don't Lie'는 Mark' Oh(마크오)로 알려진 독일 DJ 프로듀서 Marko Albrecht의 대표곡. 이 곡은 1974년 독일에서 대히트한 Michael Holm의 「When A Child Is Born」의 리워크.
+「Tears Don't Lie」は、Mark' Oh（マークオー）として知られるドイツのDJ・プロデューサーMarko Albrechtの代表曲。 이 곡은 1974년 독일에서 대히트한 Michael Holm의 「When A Child Is Born」의 리워크.
 
 A면 2곡째는 프랑크푸르트를 거점으로 활동하는 DJ 프로듀서 Oliver Lieb(올리버 리브)에 의한 remix.
 B면 2곡째는 Da Hool로 알려진 DJ Hooligan과 Frank Tomiczek에 의한 remix.

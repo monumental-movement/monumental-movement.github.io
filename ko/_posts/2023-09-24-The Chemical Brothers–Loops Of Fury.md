@@ -13,7 +13,7 @@ title: The Chemical Brothers–Loops Of Fury
 ---
 
 
-'Loops of Fury'는 1996년에 출시된 영국의 빅 비트 듀오, The Chemical Brothers의 EP입니다. 이 트럭 전영 싱글 차트에서 13위까지 상승했습니다.
+'Loops of Fury'는 1996년에 발매된 영국의 빅 비트 듀오, The Chemical Brothers의 EP입니다. 이 트럭 전영 싱글 차트에서 13위까지 상승했습니다.
 
 이 "Get Up on It Like This"의 음성 샘플은 1983년에 아프리카 이슬람에 의해 행해진 라디오 프로그램에서 취해졌습니다. 그 프로그램에서는 "We're 'bout ready to rock steady"라는 보컬도 등장하고, "Block Rockin Beats"에도 사용되고 있습니다.
 

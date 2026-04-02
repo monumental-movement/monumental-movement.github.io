@@ -118,14 +118,14 @@ Vale은 샌프란시스코의 City Lights 서점에서 일했을 때, Lawrence F
 - **Modern Primitives가 낳은 충격**
 신체 개조를 「예술」로서 소개. 피어싱과 문신 문화를 금기에서 문화로 승화시켰다. 이후의 아트 이벤트나 퍼포먼스에도 직결했다.
 
-- **John Waters와의 협력 관계**
+- **John Waters와의 협력관계**
 『Incredibly Strange Films』 제작시 존 워터스가 많은 자료를 제공. "Vale만이 내 영화를 문화적 가치로 다뤘다"고 술회.
 
 - **Ballard 특집과 서브칼 문학**
 1988년의 J.G. Ballard 특집에서는 런던에 도항해 직접 인터뷰. Ballard는 "자신의 소설을 읽는 것이 펑크 세대라고는 생각하지 않았다"고 발언.
 
 - **자금난과 지네 문화의 지속**
-발행 부수는 적었지만, 독자는 전세계에 퍼져 Vale는 “대량 발행보다 열광적인 독자가 소중하다”고 말했다.
+발행 부수는 적었지만, 독자는 전세계에 퍼져 Vale는 "대량 발행보다 열광적인 독자가 소중하다"고 말했다.
 
 -** 샌프란시스코와의 공진**
 RE/Search 주위에는 Survival Research Laboratories와 Other Cinema와 같은 실험적 집단이 모여 Zine과 아트 네트워크를 구축했다.

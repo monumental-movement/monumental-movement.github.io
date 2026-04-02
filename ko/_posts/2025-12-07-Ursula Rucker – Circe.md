@@ -14,9 +14,9 @@ title: Ursula Rucker – Circe
 ---
 
 
-Ursula Rucker(아스라 래커)는 필라델피아 출신의 스포쿤워드 아티스트. Wax Tailor, King Britt, 4hero, Incognito, Jamaaladeen Tacuma, Josh Wink, Alix Perez, 등 다양한 아티스트와 콜라보하고 있으며, 특히 The Roots와의 콜라보레이션은 Ursula의 이름이 널리 알려진 계기가 되었다.
+Ursula Rucker(아스라 래커)는 필라델피아 출신의 스포쿤워드 아티스트. Wax Tailor, King Britt, 4hero, Incognito, Jamaaladeen Tacuma, Josh Wink, Alix Perez 등 다양한 아티스트와 콜라보하고 있으며, 특히 The Roots와의 콜라보레이션은 Ursula의 이름이 널리 알려진 계기가 되었다.
 
-1999년에 릴리스된 「Circe」는, King Britt 프로듀스에 의한 Deep House/Downtempo 트랙. A1은 Jazzanova에 의해 remix. 아 2, B1은 Rob Yancey에 의해 remix.
+1999년에 릴리스된 「Circe」는, King Britt 프로듀스에 의한 Deep House/Downtempo 트럭. A1은 Jazzanova에 의해 remix. 아 2, B1은 Rob Yancey에 의해 remix.
 
 #### Tracklist
 ```md

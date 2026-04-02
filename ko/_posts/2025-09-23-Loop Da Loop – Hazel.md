@@ -17,7 +17,7 @@ title: Loop Da Loop – Hazel
 
 Loop Da Loop Nicolas Jean-Pierre Dresti는 영국의 DJ/프로듀서 Space Cowboy(스페이스 카우보이)가 사용하고 있던 일명의 하나. 그 밖에도 DJ Supreme, DJ Chrome 등의 명의로도 활동하고 있다.
 
-Hazel은 1999년 하우스 & 트랜스 라벨 Manifesto에서 출시된 House/Breaks/UK Garage. UK 차트에도 들어간 히트곡.
+Hazel은 1999년 하우스&트랜스 라벨 Manifesto에서 출시된 House/Breaks/UK Garage. UK 차트에도 들어간 히트곡.
 
 
 #### Tracklist

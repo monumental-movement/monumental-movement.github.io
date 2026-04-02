@@ -13,7 +13,7 @@ title: Yellow Magic Orchestra – X∞Multiplies
 ---
 
 
-1980년 7월에 A&M 레코드보다 미국에서 발매된 YMO의 베스트 앨범
+1980년 7월 A&M 레코드에서 미국에서 발매된 YMO 베스트 앨범
 옐로우 매직 오케스트라 - 말티프라이즈.
 
 日本盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)

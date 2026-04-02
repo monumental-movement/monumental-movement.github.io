@@ -15,7 +15,7 @@ title: The Art Of Trance – Cambodia
 
 The Art Of Trance(아트 오브 트랜스)는 UK의 트랜스뮤직 아티스트 Simon Berry(사이먼 베리)의 별명의. 그 밖에도 Poltergeist(포르타 가이스트), Vicious Circles(비샤스 서클)로도 알려져 있다. Simon Berry는 트랜스 그룹의 Clanger(클렌저), Conscious(콘셔스), Union Jack(유니온 잭)의 멤버이기도 하다.
 
-Cambodia는 UK 트랜스 테크노 라벨 Platipus보다 1994년에 출시되었다. A면은 Simon Berry와 Paul Brogden(폴 블로그덴)의 프로젝트 Clanger에 의한 remix. B면은 Tunnel Vision에 의한 remix.
+Cambodia는 UK 트랜스 테크노 라벨 Platipus에서 1994년에 출시되었다. A면은 Simon Berry와 Paul Brogden(폴 블로그덴)의 프로젝트 Clanger에 의한 remix. B면은 Tunnel Vision에 의한 remix.
 
 #### Tracklist
 ```md

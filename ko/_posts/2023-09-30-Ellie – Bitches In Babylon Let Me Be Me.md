@@ -13,7 +13,7 @@ title: Ellie – Bitches In Babylon Let Me Be Me
 ---
 
 
-「Bitches In Babylon Let Me Be Me」는,
+"Bitches In Babylon Let Me Be Me"는
 1997년에 Crue-L에서 출시된 Ellie의 EP입니다.
 
 A면은 쿠보타 타케시의 리믹스가 수록되어 B면은 그 샤카 좀비의 투치에 의한 리믹스.

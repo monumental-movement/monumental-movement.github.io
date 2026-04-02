@@ -13,7 +13,7 @@ title: VA – Synchronicity 2nd Session
 ---
 
 
-일본의 HipHop 라벨 Future Shock에서 2000년에 발매된 일미 힙합 아티스트가 참가한 컴필레이션 앨범 2장 세트.
+일본의 HipHop 레이블 Future Shock에서 2000년에 발매된 미일 힙합 아티스트가 참가한 컴필레이션 앨범 2장 세트.
 
 #### Tracklist
 ```md

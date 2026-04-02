@@ -12,7 +12,7 @@ title: Rakim – The Saga Begins
 ---
 
 
-'The Saga Begins'는 1997년에 발매된 Rakim의 솔로 데뷔 앨범 'The 18th Letter 더 에이틴스 레터'의 싱글 컷(부트 레그판). 프로듀서는 Pete Rock(피트 락).
+'The Saga Begins'는 1997년에 발표된 Rakim의 솔로 데뷔 앨범 'The 18th Letter 더 에이틴스 레터'의 싱글 컷(부트 레그판). 프로듀서는 Pete Rock(피트 락).
 
 #### Tracklist
 ```md

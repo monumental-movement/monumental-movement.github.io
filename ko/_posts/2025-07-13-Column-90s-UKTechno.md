@@ -15,7 +15,7 @@ title: 【칼럼】 UK 테크노의 황금 시대
 
 ## UK 테크노의 황금 시대: 1990년대 소리와 투쟁 기록
 
-문장: mmr｜테마:UK 테크노·컬쳐
+문장：mmr｜테마：UK 테크노・컬쳐
 
 
 <hr>
@@ -30,7 +30,7 @@ title: 【칼럼】 UK 테크노의 황금 시대
 ### 레이브 문화와 언더 그라운드의 융합
 1988년 '세컨드 섬머 오브 러브'를 거쳐 UK는 애시드 하우스와 레이브의 폭발적인 열광에 휩싸인다. 그 여파 속에서 90년대 초반에는 하드코어, 브레이크 비트, 그리고 테크노의 다양한 변종이 지하에서 자랐다.
 
-한편, 대처 정권의 종말과 경제 격차의 확산은 젊은이들의 불만과 반항심을 음악에 새겼다. UK테크노는 단지 댄스뮤직이 아니라 사운드시스템과 비합법 레이브를 무기로 한 사회운동이기도 했다.
+한편, 대처 정권의 종말과 경제 격차의 확산은 젊은이들의 불만과 반항심을 음악에 새겼다. UK 테크노는 단지 댄스 뮤직이 아니라 사운드 시스템과 비합법 레이브를 무기로 한 사회운동이기도 했다.
 
 
 <hr>
@@ -43,7 +43,7 @@ title: 【칼럼】 UK 테크노의 황금 시대
 
 [**● Surgeon（アンソニー・チャイルド）**](https://amzn.to/3J8lKJC)
 
-버밍엄 테크노의 국기 손입니다. 단단하고 산업, 그리고 솔리드. Tresor나 Downwards로부터의 릴리스로 이름을 올리고, 현재도 UK 테크노의 핵심에 있다.
+버밍엄 테크노의 국기 손입니다. 단단하고 산업, 그리고 솔리드. Tresor나 Downwards로부터의 릴리스로 이름을 올리고, 현재도 UK테크노의 핵심에 있다.
 
 [**● Luke Slater**](https://amzn.to/4mZWTpi)
 
@@ -51,7 +51,7 @@ title: 【칼럼】 UK 테크노의 황금 시대
 
 [**● Regis & British Murder Boys**](https://amzn.to/4mZWUtm)
 
-UK의 인더스트리얼 테크노의 핵심 인물. Regis는 Downwards 레이블을 설립하고 버밍엄의 독자적인 디스토피아 사운드를 확립.
+UK의 인더스트리얼 테크노의 핵심 인물. Regis는 Downwards 레이블을 설립하여 버밍엄 독자적인 디스토피아 사운드를 확립.
 
 [**● Autechre**](https://amzn.to/4q1OyUJ)
 
@@ -72,7 +72,7 @@ Regis가 설립. 인더스트리얼로 금욕적인 사운드를 중심으로, S
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-Mute Records의 서브 라벨. Luke Slater, Speedy J, Laurent Garnier 등을 안고, UK뿐만 아니라 유럽 전체의 테크노 씬에도 파급.
+Mute Records의 하위 레이블. Luke Slater, Speedy J, Laurent Garnier 등을 안고, UK뿐만 아니라 유럽 전체의 테크노 씬에도 파급.
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 

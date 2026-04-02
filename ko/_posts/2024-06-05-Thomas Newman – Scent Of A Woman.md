@@ -17,7 +17,7 @@ title: Thomas Newman – Scent Of A Woman
 
 트럭 A1~A6, A8~A10, B1~B2, B4~B7은 미국 출신 작곡가 Thomas Newman(토마스 뉴먼)이 다루었다. 토마스 뉴먼은 '쇼샨크의 하늘', '아메리칸 뷰티', '그린마일', '파인딩 니모', '워리', '007 스카이폴', '007 스펙터' 등 수많은 영화 음악을 제작하고 있다.
 
-트럭 A7, B3는 미국의 밴드 The Tango Project도 따릅니다.
+트럭 A7, B3는, 미국의 밴드 The Tango Project도 따르는 것.
 
 영화 '세인트 오브 우먼/꿈의 향기'
 

@@ -13,7 +13,7 @@ title: Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender
 ---
 
 
-'Secret Mixes Fixes Vol. 9 - The 3rd Gender'는 2008년 라벨 'Secret Mixes Fixes'에서 발매된 본명 Chuck Hampton에 의한 프로젝트 Gay Marvine의 EP입니다.
+'Secret Mixes Fixes Vol. 9 - The 3rd Gender'는 2008년 라벨 'Secret Mixes Fixes'에서 발매된 본명 Chuck Hampton의 프로젝트 Gay Marvine의 EP입니다.
 
 #### Tracklist
 ```md

@@ -15,7 +15,7 @@ title: Blackburst – Make Make Make
 
 Blackburst (블랙 버스트)는 Edward Boellaard에 의한 프로젝트. Axe Force와 Human Impact 명의에서도 활동하고 있다.
 
-'Make Make Make'는 1997년에 얼리하우스, 로파이하우스, 레트로 테크노, 인디 디스코, 브로큰 비트에 특화된 네덜란드 암스테르담을 거점으로 하는 인디펜던트 라벨 Mr. Cheng’s Quality Tunes에서 출시된 House.
+'Make Make Make'는 1997년 얼리하우스, 로파이하우스, 레트로테크노, 인디디스코, 브로큰비츠에 특화된 네덜란드 암스테르담을 거점으로 하는 인디펜던트 라벨 Mr. Cheng’s Quality Tunes에서 출시된 House.
 
 
 #### Tracklist

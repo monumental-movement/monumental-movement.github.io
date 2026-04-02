@@ -14,7 +14,7 @@ title: Arome – Hands Up
 
 
 「Hands Up」은,
-2002년 독일 라벨 "Overdose"에서 발매된 Frank Zenker의 프로젝트 Arome에 의한 EP입니다.
+2002년 독일 라벨 "Overdose"에서 발표된 Frank Zenker의 프로젝트 Arome에 의한 EP입니다.
 
 #### Tracklist
 ```md

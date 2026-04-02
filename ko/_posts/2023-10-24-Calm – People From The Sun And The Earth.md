@@ -16,7 +16,7 @@ title: Calm – People From The Sun And The Earth
 
 Calm(캠/Kiyotaka Fukagawa)은 칠아웃 발레아릭 뮤직의 선구자의 한 명으로 되어 있다. Calm의 별명의 활동은 FARR, Organ Language, K.F, THA BLUE HERB(더 블루 허브)의 ILL-BOSSTINO와의 유닛 JAPANESE SYNCHRO SYSTEM 등이 있다.
 
-A1&B2는, 3 Generations Walking의 MKL vs. Soy Sos에 의한 remix.
+A1&B2는 3 Generations Walking의 MKL vs. Soy Sos에 의한 remix.
 B2는 베를린을 거점으로 하는 독일인 DJ 겸 프로듀서인 Dixon의 remix.
 #### Tracklist
 ```md

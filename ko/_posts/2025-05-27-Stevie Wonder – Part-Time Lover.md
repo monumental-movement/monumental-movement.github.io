@@ -14,7 +14,7 @@ title: Stevie Wonder – Part-Time Lover
 ---
 
 
-'Part-Time Lover'는 R&B 싱어송 라이터 Stevie Wonder의 20번째 스튜디오 앨범 'In Square Circle(인 스퀘어 서클)'(1985년)의 싱글 제1탄으로 출시됐다.
+'Part-Time Lover'는 R&B 싱어송 라이터 Stevie Wonder의 20번째 스튜디오 앨범 'In Square Circle(인 스퀘어 서클)'(1985년)의 싱글 제1탄으로 발표됐다.
 
 이 곡은 빌보드 핫 100, R&B, 댄스, 어른 컨템포러리 차트에서 1위를 차지하며 Stevie Wonder 마지막 ​​넘버원 히트곡이 됐다.
 

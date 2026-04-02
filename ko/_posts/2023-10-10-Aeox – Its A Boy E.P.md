@@ -15,7 +15,7 @@ title: Aeox – It's A Boy E.P
 
 AeoX는 베를린 출신의 Al.X.E(Alexander Koepke, & tafkatafta)와 Hanno Hinkelbein의 테크노펑크 밴드. Null records나 Mental Industries로부터 다수 릴리스하고 있다.
 
-"It's A Boy E.P."는 2000년에 Null Records에서 출시된 테크노 일렉트로트랙.
+"It's A Boy E.P."는 2000년에 Null Records에서 발표된 테크노 일렉트로트랙.
 
 #### Tracklist
 ```md

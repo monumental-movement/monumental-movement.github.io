@@ -16,7 +16,7 @@ title: Ziggy – No Police (Aztec Remix)
 ---
 
 
-'No Police'는 벨기에의 뉴비트 프로젝트 J.C.Project와 The Beast, War People의 멤버로 알려진 Christoff Wybouw와 Serge Gobin이 작곡·프로듀스한 하이에너지 트랙. Christoff Wybouw는 별명의 Bingo!로 발표한 "Arabeat"가 유명.
+'No Police'는 벨기에의 뉴비트 프로젝트 J.C.Project나 The Beast, War People의 멤버로 알려진 Christoff Wybouw와 Serge Gobin이 작곡·프로듀스한 하이에너지 트랙. Christoff Wybouw는 별명의 Bingo!로 발표한 "Arabeat"가 유명.
 
 이 레코드는, 멕시코의 댄스 라벨 Maxi로부터 1987년에 릴리스된 멕시코반으로 벨기에반과는 재킷이 다른 레어 레코드.
 

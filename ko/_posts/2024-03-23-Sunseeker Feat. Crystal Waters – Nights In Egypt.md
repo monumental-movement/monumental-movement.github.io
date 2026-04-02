@@ -18,7 +18,7 @@ title: Sunseeker Feat. Crystal Waters – Nights In Egypt
 
 재즈 뮤지션의 주니어 워터스의 딸로, 에셀 워터스의 애조이자 IAH Records를 운영하고 있습니다.
 
-어린 시절부터 음악에 둘러싸여 자라, 아버지의 영향으로 재즈에 친밀해, 1980년대 후반부터 하우스 뮤직 씬으로 활동을 시작해, 1991년에 싱글 「Gypsy Woman (She's Homeless)」로 세계적인 대히트를 날렸습니다.
+어린 시절부터 음악에 둘러싸여 자라, 아버지의 영향으로 재즈에 친밀해, 1980년대 후반부터 하우스 뮤직 씬에서 활동을 시작해, 1991년에 싱글 「Gypsy Woman (She's Homeless)」로 세계적인 대히트를 날렸습니다.
 
 그 후도 '100% Pure Love', 'Destination Calabria' 등 수많은 히트곡을 발표해 하우스 뮤직계를 대표하는 아티스트가 되었습니다.
 

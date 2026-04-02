@@ -16,7 +16,7 @@ title: Herb Alpert – Route 101
 
 Herb Alpert(허브 알파트)의 「Route101」은, 1982년 릴리스의 앨범 「Fandango」로부터의 싱글 컷.
 
-「Route101」은 같은 해 빌보드지의 어덜트 컨템포러리 차트에서 4위를 기록.
+Route101은 같은 해 빌보드지의 성인 컨템포러리 차트에서 4위를 기록.
 
 #### Tracklist
 ```md

@@ -13,7 +13,7 @@ title: Orange 9mm – Orange 9mm
 ---
 
 
-Orange 9mm는, NY하드 코어 밴드 BURN의 해산 후, 1994년에 Chaka Malik(챠카·마릭)과 Chris Traynor(크리스·트레이너)에 의해 결성된 US 포스트 하드 코어 밴드.
+Orange 9mm는, NY하드 코어 밴드 BURN의 해산 후, 1994년에 Chaka Malik(차카·마릭)과 Chris Traynor(크리스·트레이너)에 의해 결성된 US 포스트 하드 코어 밴드.
 
 #### Tracklist
 ```md

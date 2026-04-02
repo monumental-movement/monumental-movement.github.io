@@ -14,7 +14,7 @@ title: Stevie Wonder – I Just Called To Say I Love You
 ---
 
 
-Stevie Wonder (스티비 원더) - I Just Called To Say I Love You는 1984에 Motown에서 출시되었습니다.
+Stevie Wonder(스티비 원더) – I Just Called To Say I Love You는 1984에 모타운에서 출시되었습니다.
 
 #### Tracklist
 ```md

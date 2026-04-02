@@ -16,7 +16,7 @@ title: Coo Coo – Happy Days
 
 Coo Coo(쿠쿠)는 Mauro Farina(마우로파리나), Giuliano Crivellente(줄리아노 크리베렌테), Florian Fadinger(플로리안 패딩거)=F.C.F가 프로듀스한 1980년대 유로비트 하이에너지 장면을 대표하는 이탈로디스.
 
-「Happy Days(변란 해피 데이)」는, 1989년에 Flea Records로부터 릴리스된 Coo Coo의 대표곡.
+「Happy Days(기발해 해피 데이)」는, 1989년에 Flea Records로부터 릴리스된 Coo Coo의 대표곡.
 
 #### Tracklist
 ```md

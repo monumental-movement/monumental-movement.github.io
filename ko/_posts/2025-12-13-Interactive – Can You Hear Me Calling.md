@@ -17,7 +17,7 @@ Interactive는 90년대 전반에 활약한 독일의 일렉트로닉 뮤직 그
 
 A는 독일의 프로듀서 듀오 JLRZ(Jens Lissat & Ramon Zenker)에 의한 remix.
 
-B는 프랑크푸르트의 프로듀서인 Maik Maurice와 Pascal Dardoufas(Pascal FEOS)로 구성된 일렉트로닉 댄스 뮤직 라이브 액트 Resistance D의 remix.
+B는 프랑크푸르트의 프로듀서인 Maik Maurice와 Pascal Dardoufas(Pascal FEOS)로 구성된 일렉트로닉 댄스 뮤직 라이브 액트 Resistance D에 의한 remix.
 
 #### Tracklist
 ```md

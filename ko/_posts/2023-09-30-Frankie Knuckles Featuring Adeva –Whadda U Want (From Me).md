@@ -14,7 +14,7 @@ title: Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)
 
 
 "Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)"는
-1995년에 발매된 프랭키 너클즈의 유명한 트럭의 리믹스도 수록한 EP입니다.
+1995년에 발매된 프랭키 너클의 유명한 트럭의 리믹스도 수록한 EP입니다.
 
 #### Tracklist
 ```md

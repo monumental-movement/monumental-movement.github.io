@@ -11,7 +11,7 @@ tags:
 - 90s
 - 80s
 - 00s
-title: 【칼럼】 US HipHop(미국 힙합)의 역사:지역·클럽·미디어·기재를 포함한 전체상
+title: 【칼럼】 US HipHop(미국 힙합)의 역사：지역・클럽・미디어・기재를 포함한 전체상
 ---
 
 
@@ -203,7 +203,7 @@ Funkadelic 기타 루프를 무단 사용한 사건. 샘플은 「1초라도 무
 
 | 지역 | 클럽 | 라디오 방송국 |
 |------|--------|----------|
-| East (NYC) | Paradise Garage, Tunnel, Latin Quarter | WBLS, KISS FM |
+East (NYC) | Paradise Garage, Tunnel, Latin Quarter | WBLS, KISS FM |
 | West (LA) | The Good Life Cafe, Club Unity, Echoplex | KKBT (The Beat), Power 106 |
 | South (ATL, Houston, Miami) | Magic City, Fifth Ward Block Parties, Club Rolex | Hot 107.9, SwishaHouse Radio, 99 Jamz |
 | Midwest (Chicago, Detroit, KC) | The Mid, Detroit Basement Parties, Blue Room (KC) | WGCI (Chicago), WJLB (Detroit), Hot 103 Jamz (KC) |
@@ -229,7 +229,7 @@ Funkadelic 기타 루프를 무단 사용한 사건. 샘플은 「1초라도 무
 | 1980s | East (NYC 중심) | 샘플링 황금기, 릴리시즘 강조 |
 1990s | West (LA, Bay) | G-Funk 전성, 2Pac vs Biggie 구도 |
 | 2000s | South (ATL, Houston, Miami) | Trap 전야, Crunk, 스크류 스타일 상승 |
-2010s | Trap (South) + Midwest (Chicago Drill, Kanye, Detroit 비트) | 샘플링 축소 + FL Studio 보급 |
+| 2010년대 | 트랩(남부) + 미드웨스트(시카고드릴, 카니예, 디트로이트비트) | 샘플링 감소 + FL Studio 확산 |
 | 2020s | 다극화 (East, West, South, Midwest) | AI 비트, 샘플 회귀, 인터넷 분산 문화 |
 
 ---
@@ -433,7 +433,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 **보충적 고려사항**
 
-계보도에 의해 「사제관계」나 「영향관계」를 직감적으로 파악할 수 있다.
+계보도에 의해 「사제 관계」나 「영향 관계」를 직감적으로 파악할 수 있다.
 
 파형 비교는 음악적 진화를 시각적으로 포착합니다.
 

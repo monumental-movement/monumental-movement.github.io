@@ -14,7 +14,7 @@ title: NSM – Don't Say It
 ---
 
 
-NSM은 Broken Beat(브로큰비츠)의 초기 이노베이터이며 IG Culture(IG 문화) 명의로 알려진 Ian Grant(이그란트)의 프로덕션명.
+NSM은 Broken Beat(브로큰 비트)의 초기 이노베이터이며 IG Culture(IG 문화) 명의로 알려진 Ian Grant(이그란트)의 프로덕션명.
 
 A면 1곡째와 B면 2곡째의 보컬은 런던에서 태어난 영국의 싱어 송 라이터 & 멀티 악기 연주자 Eska 일 Eska Mtungwazi.
 

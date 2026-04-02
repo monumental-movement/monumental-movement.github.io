@@ -15,7 +15,7 @@ title: Masterboy – Colours
 ---
 
 
-Tommy Schleh(토미 슈레)과 Enrico Zabler(엔리코 자블러)가 중심이 된 Masterboy는, 90년대에 세계적인 히트곡을 차례차례 릴리스 하고, 유럽에서 가장 알려진 유로 댄스 그룹. 1990년~2004년까지 활동해 활동휴지를 거쳐 2013년부터 활동을 재개하고 있다.
+Tommy Schleh(토미 슈레)과 Enrico Zabler(엔리코 자블러)가 중심이 된 Masterboy는, 90년대에 세계적인 히트곡을 잇달아 발매해, 유럽에서 가장 알려진 유로 댄스 그룹. 1990년~2004년까지 활동해 활동휴지를 거쳐 2013년부터 활동을 재개하고 있다.
 
 'Colours'는 1996년에 발매된 Masterboy 5번째 앨범으로 'Show Me Colours' 등 히트곡이 수록된 유로하우스 CD.
 13곡째는 미국의 DJ&프로듀서 David Morales(데이빗 모랄레스)에 의한 remix.

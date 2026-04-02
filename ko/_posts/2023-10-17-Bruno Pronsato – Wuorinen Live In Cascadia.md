@@ -15,7 +15,7 @@ title: Bruno Pronsato – Wuorinen Live In Cascadia
 
 Bruno Pronsato(브루노 프롬사토/Steven Ford)는 미국 출신, 베를린 거주 DJ/프로듀서.
 
-"Wuorinen/Live In Cascadia"는 미국 시애틀을 거점으로 체험에서 최소한의 댄스 플로어 테크노를 출시하는 라벨 Orac Records에서 2005년에 발매되었다.
+"Wuorinen/Live In Cascadia"는 미국 시애틀을 거점으로 체험에서 최소한의 댄스 플로어 테크노를 발매하는 라벨 Orac Records에서 2005년에 발매되었다.
 
 A면 2곡째는 독일 슈투트가르트를 거점으로 하는 DJ/프로듀서 Michel Baumann에 의한 remix.
 

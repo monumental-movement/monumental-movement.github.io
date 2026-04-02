@@ -16,7 +16,7 @@ title: Earth, Wind & Fire – All 'N All
 ---
 
 
-All'n All은 1977년 콜롬비아 레코드에서 발표된 미국의 밴드 Earth, Wind & Fire의 8번째 스튜디오 앨범. 이 앨범은 US BillboardTop R&B/Hip-Hop Albums 차트에서 1위를 기록한 Earth, Wind & Fire의 대표작.
+All'n All은, 1977년에 콜롬비아 레코드로부터 릴리스된 미국의 밴드 Earth, Wind & Fire의 8번째 스튜디오 앨범. 이 앨범은 US BillboardTop R&B/Hip-Hop Albums 차트에서 1위를 기록한 Earth, Wind & Fire의 대표작.
 
 
 

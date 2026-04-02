@@ -17,11 +17,11 @@ title: Elektrochemie LK – Girl! Part 2
 
 Elektrochemie LK는 90년대부터 활약하는 독일 출신의 테크노 뮤지션 DJ Thomas Schumacher(토마스 슈마하)의 별명의.
 
-「Girl!/Part 2」는 2001년에 독일의 라벨 Leaded로부터 릴리스된 테크노 일렉트로트랙.
+'Girl!/Part 2'는 2001년 독일 라벨 Leaded에서 출시된 테크노 일렉트로트랙.
 
 A면 1곡째는, 대히트한 I'm a Disco Dancer (And a Sweet Romancer)로 알려진 Christopher Just(크리스토퍼 저스트)에 의한 remix.
 
-A면 2곡째는 독일 테크노 DJ 프로듀서 Stephan Bodzin(스테판 보즈딘)에 의해 remix.
+A면 2곡째는 독일의 테크노 DJ 프로듀서 Stephan Bodzin(스테판 보즈딘)에 의해 remix.
 
 B면 1곡째는, 90년대부터 활약하는 테크노 프로듀서·퍼포머 ALEXANDER KOWALSKI(알렉산더·코와르스키)에 의한 remix.
 

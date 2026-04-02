@@ -14,7 +14,7 @@ title: Bio-Tonic – Rock Da People
 
 
 "Rock Da People"은
-2001년 독일 라벨 'Spirit Zone Recordings'에서 발매된 프랑스는 랜스의 사이키델릭 트랜스 'Bio-Tonic'에 의한 EP입니다.
+2001년 독일 라벨 'Spirit Zone Recordings'에서 발표된 프랑스는 랜스의 사이키델릭 트랜스 'Bio-Tonic'에 의한 EP입니다.
 
 #### Tracklist
 ```md

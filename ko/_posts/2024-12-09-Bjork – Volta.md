@@ -16,7 +16,7 @@ title: Björk – Volta
 ---
 
 
-Volta는 2007년에 발매된 Björk의 6번째 스튜디오 앨범. Mark Bell, Timbaland, Danja, Antoni & the Johnsons의 Antoni Hegarty(Anohni Hegarty) 등 여러 아티스트가 참여하고 있다.
+Volta는 2007년에 발표된 Björk의 6번째 스튜디오 앨범. Mark Bell, Timbaland, Danja, Antoni & the Johnsons의 Antoni Hegarty(Anohni Hegarty) 등 여러 아티스트가 참여하고 있다.
 
 #### Tracklist
 ```md

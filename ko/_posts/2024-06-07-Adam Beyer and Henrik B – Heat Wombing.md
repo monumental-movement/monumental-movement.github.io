@@ -16,7 +16,7 @@ title: Adam Beyer & Henrik B – Heat Wombing
 
 Adam Beyer (아담 베이어)는 스톡홀름 출신의 스웨덴 테크노 프로듀서 & DJ. Drumcode Records, Mad Eye Recordings, Truesoul Records 등에서 수많은 테크노 트랙을 출시하고 있다.
 
-Henrik B와 Henrik Gustav Berntsson은 스웨덴의 테크노 하우스 프로듀서 & DJ. Henrik B는 한때 Swedish House Mafia의 멤버 중 한 명이었습니다. 2006년경부터는 다운템포보다의 곡을 발매하고 있다.
+Henrik B와 Henrik Gustav Berntsson은 스웨덴의 테크노 하우스 프로듀서 & DJ. Henrik B는 한때 Swedish House Mafia의 멤버 중 한 명이었습니다. 2006년경부터는 다운 템포보다의 곡을 발매하고 있다.
 
 'Heat/Wombing'은 Henrik B가 운영하는 라벨 Illgorhythm Recordings에서 2003년에 발표된 테크노트랙.
 

@@ -58,8 +58,8 @@ color: #fff;
 
 | 노래 이름 | 아티스트 | 코멘트 |
 |------|--------------|----------|
-| 너는 천연색 | 오타키 시이치 | 시티팝의 금자탑 |
-| Sparkle | 야마시타 타츠로 | 정교한 도시 사운드 |
+| 당신은 천연색 | 오타키 시이치 | 시티팝의 금자탑 |
+| Sparkle | 야마시타 타츠로 | 세련된 도시 사운드 |
 | September | 타케우치 마리야 | 경쾌한 AOR 팝 |
 | Telephone Number | 마츠바라 미키 | 해외에서도 재평가 된 명곡 |
 | Love Talkin '| 야마시타 타츠로 | 부기적 요소의 융합 |
@@ -179,7 +179,7 @@ Sweet Soul Revue (원형) | Pizzicato Five |
 - [Various Artists — ネオ渋谷系コンピレーション *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)  
 
 ### 사용 장비
-- 스트리밍 전송을 전제로 한 가정록 · DTM 환경
+- 스트리밍 전송을 전제로 한 택록 · DTM 환경
 - 소프트웨어 주체의 프로덕션
 - 아날로그 및 디지털 하이브리드
 
@@ -187,7 +187,7 @@ Sweet Soul Revue (원형) | Pizzicato Five |
 
 | 노래 이름 | 아티스트 | 코멘트 |
 |------|--------------|----------|
-| Dream in Dream | Cornelius | 정적과 실험의 조화 |
+Dream in Dream | Cornelius | 정적과 실험의 조화 |
 | 불꽃 | cero | 현대 재즈와의 교착 |
 | e o | cero | 네오 시부야 감각의 극한 |
 | Stay | Towa Tei | 최소한의 세련된 아름다움 |

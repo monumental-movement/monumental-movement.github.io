@@ -60,9 +60,9 @@ color: #fff;
 
 *** 대표적인 프로듀서**: Dr. Dre, DJ Quik, Battlecat
 *** 주요 라벨**: Death Row Records, Priority, Ruthless
-* **문화적 배경**: G-Funk는 70s 펑크 샘플링과 두꺼운 신디베이스로 저 라이더와 자동차 문화와 밀접하게 연결되었습니다.
+* **문화적 배경**: G-Funk는 70s 펑크 샘플링과 두꺼운 신디베이스로 저 라이더와 자동차 문화와 밀접하게 연결되어 있습니다.
 ***동서 대립**: 동해안과의 항쟁(East Coast vs West Coast)이 격화되어 2Pac과 The Notorious B.I.G.라는 비극이 일어난다.
-* **영상·패션**: 로우 라이더, 비치, 사우스 센트럴의 거리 풍경을 무대로 한 MV가 정착. Dickies, Chuck Taylor, 두건이 상징적입니다.
+* **영상・패션**：로우 라이더, 비치, 사우스 센트럴의 거리를 무대로 한 MV가 정착. Dickies, Chuck Taylor, 두건이 상징적입니다.
 
 **추천 앨범(발췌)**
 

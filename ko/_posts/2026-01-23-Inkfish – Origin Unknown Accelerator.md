@@ -17,7 +17,7 @@ title: Inkfish – Origin Unknown Accelerator
 
 Inkfish(잉크피쉬)는, 90년대 후반부터 활동하는 스웨덴의 House/Progressive House 프로듀서 집단. Azuli, Bedrock, Doppelganger, Mistake Music, Parquet, Renaissance, Stereo Productions 등의 명문 라벨에서 출시하고 있다.
 
-2000년에 라벨 Dorigen Music에서 발매한 「Origin Unknown / Accelerator」는, Inckish의 멤버이며 Springa 명의에서도 활동하는 Mattias Lindblom이 중심이 되어 제작한 Trance/Techno트랙.
+2000년에 라벨 Dorigen Music에서 발매한 「Origin Unknown / Accelerator」는, Inkfish의 멤버이며 Springa 명의로도 활동하는 Mattias Lindblom이 중심이 되어 제작한 Trance/Techno트랙.
 
 #### Tracklist
 ```md

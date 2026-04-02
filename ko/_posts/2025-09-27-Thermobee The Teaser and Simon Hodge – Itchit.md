@@ -15,7 +15,7 @@ title: Thermobee, The Teaser & Simon Hodge – Itchit
 
 
 Thermobee, The Teaser, Simon Hodge에 의해
-Itchit은 2000년 영국의 라벨 Cut N’ Dry Records에서 발표된 Hard House/Techno.
+‘Itchit’은 2000년 영국 라벨 Cut N’ Dry Records에서 출시된 Hard House/Techno.
 
 릴리스 당시부터 언더그라운드 장면에서 주목받고 하드 하우스와 테크노를 융합시킨 활기찬 트랙은 현재도 지지되는 한 장.
 

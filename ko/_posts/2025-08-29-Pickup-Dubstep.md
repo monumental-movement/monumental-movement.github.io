@@ -10,18 +10,18 @@ tags:
 - Dubstep
 - 90s
 - 00s
-title: Dubstep 작품을 픽업
+title: Dubstep(Dubstep) 작품 픽업
 ---
 
 
-"페스의 주역으로 뛰어오른 폭발하는 기준선의 충동, 주목할 만한 덥스텝(Dubstep) 작품군"
+"페스의 주역으로 뛰어오른 폭발하는 기준선의 충동, 주목할 만한 Dubstep 작품군"
 
 <hr>
 
 ### Benga & Walsh Vs Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-특징 : 다른 접근법을 가진 3 명이 각면을 담당하는 양극 모두 매력있는 구성 중 하나입니다.
+특징：다른 접근법을 가진 3명이 각각의 면을 담당하는, 양극 모두 매력 있는 구성의 1장입니다.
 
 
 매력 : Benga의베이스 깊이, Walsh의 그루브, Darqwan의 독창성이 각 트랙에 빛납니다.
@@ -100,7 +100,7 @@ B. Traffic (Goth-Trad Remix)
 
 특징: 본작은 Skrillex의 이름을 세계적으로 확립한 EP로, 특히 "Scary Monsters And Nice Sprites"는 Dubstep를 메인 스트림에 밀어 올린 금자탑이라고도 불립니다.
 
-매력 : Noisia, Zedd, Bare Noize 등 제일선의 프로듀서들에 의한 리믹스가 수록되어 있어, 각각의 아티스트 시점으로부터 악곡의 새로운 매력이 끌어내지고 있습니다.
+매력: Noisia, Zedd, Bare Noize 등 제일선의 프로듀서들에 의한 리믹스가 수록되어 있어, 각각의 아티스트 시점으로부터 악곡의 새로운 매력이 끌려가고 있습니다.
 
 #### Tracklist
 ```md
@@ -129,7 +129,7 @@ B. Traffic (Goth-Trad Remix)
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 
 
-특징 : 1996-97 년에 Moving Shadow 라벨에서 출시 된이 작품은 너무 지저분한 소리에서 벗어나 부드럽고 감정적인 피아노 섹션을 특징으로 "부드러운"브레이크 비트를 제공합니다. 마치 자장가처럼 기분 좋게, Dubstep에 통하는 중후한 베이스의 질감도 느껴집니다.
+특징 : 1996-97 년에 Moving Shadow 라벨에서 출시 된이 작품은 너무 심한 소리에서 벗어나 부드럽고 감정적 인 피아노 섹션을 특징으로 "부드러운"브레이크 비트를 제공합니다. 마치 자장가처럼 기분 좋게, Dubstep에 통하는 중후한 베이스의 질감도 느껴집니다.
 
 
 매력: Dubstep의 어둡고 깊이 있는 베이스라인이나 비트감을 좋아하는 분에게 있어서, 청취가 있는 1장입니다.

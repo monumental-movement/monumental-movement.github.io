@@ -13,7 +13,7 @@ title: Dave Aju – The Unorthodoctor EP
 ---
 
 
-Dave Aju와 Marc Barrite는 샌프란시스코에 거점 활동하는 미국 DJ/프로듀서.
+Dave Aju Marc Barrite는 샌프란시스코에 거점 활동하는 미국 DJ/프로듀서.
 「The Unorthodoctor EP」는 프랑스의 라벨 Circus Company보다 2003년에 릴리스된 Dave Aju의 데뷔작.
 
 Dave Aju는 Alland Byallo, Kenneth Scott, Marc Smith와 함께 Kamm으로도 활동 중.

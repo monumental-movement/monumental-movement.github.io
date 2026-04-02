@@ -90,7 +90,7 @@ Vaporwave의 음향은 "감쇠·신장·열화·반복"을 원리로 한다. 특
 ### 3-4 제작 방법
 
 * SP-404적 질감 처리
-* Audacity에 의한 극단적 인 Time Stretch
+* Audacity의 극단적 인 Time Stretch
 * VHS 실기 녹화에 의한 열화 처리
 *DAW에서의 EQ 컷과 컴프 억압
 
@@ -108,7 +108,7 @@ Vaporwave의 음향은 "감쇠·신장·열화·반복"을 원리로 한다. 특
 
 ### 4-3 사회 심리
 
-Z세대의 “경험하지 않은 시대에의 노스탤지어”가 Vaporwave의 정서를 만든다. 이는 인공 노스탤지어(Synthetic Nostalgia)이며 인터넷 시대의 새로운 감정 장치다.
+Z세대의 “경험하고 있지 않은 시대에의 노스탤지어”가 Vaporwave의 정서를 만든다. 이는 인공 노스탤지어(Synthetic Nostalgia)이며 인터넷 시대의 새로운 감정 장치다.
 
 ### 4-4 비평인가, 향락인가
 
@@ -139,7 +139,7 @@ flowchart TB
 
 </div>
 
-### 그림 2: 파생 장르 다이어그램
+### 그림 2 : 파생 장르 다이어그램
 
 <div class="mermaid">
 

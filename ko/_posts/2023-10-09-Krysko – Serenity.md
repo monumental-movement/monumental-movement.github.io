@@ -15,7 +15,7 @@ title: Krysko – Serenity
 
 UK의 The Redlight나 The Warehouse Project에서 레지던트를 맡아, 많은 댄스 뮤직 팬에게 지지되고 존경받고 있는 DJ, Krysko(크리스코).
 
-"Serenity"는 런던의 The Exchange에서 전설적인 믹싱 엔지니어로 알려진 Mike Marsh 씨에 의해 마스터링되어 1994 년에 UK 라벨 Whitever에서 출시 된 정글 트랙.
+'Serenity'는 런던의 The Exchange에서 전설적인 믹싱 엔지니어로 알려진 Mike Marsh 씨에 의해 마스터링되어 1994년에 UK 라벨Whatever에서 발표된 정글 트랙.
 
 #### Tracklist
 ```md

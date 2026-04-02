@@ -16,9 +16,9 @@ title: Laurent Garnier – Crispy Bacon (Part 2)
 
 Laurent Garnier(로랑 가르니에)는 Choice(초이스)로도 알려진 프랑스의 전자 음악 프로듀서 겸 DJ.
 
-"Crispy Bacon (Part 2)"는 Laurent Garnier와 Eric Morand (에릭 몰랜드)에 의한 라벨 F Communications에서 1997 년에 발표 된 테크노 트랙.
+"Crispy Bacon (Part 2)"은 Laurent Garnier와 Eric Morand (에릭 몰랜드)에 의한 라벨 F Communications에서 1997 년에 발표 된 테크노 트랙.
 
-A-side는 TOMTOM(Tommy Hamilton)과 POSATRONIX(William "BJ" Smith)로 구성된 디트로이트 일렉트로닉 밴드 AUX88의 리믹스입니다.
+A면은, 디트로이트 출신의 TOMTOM(토미 해밀턴)과 POSATRONIX(윌리엄 “BJ” 스미스)에 의한 일렉트로닉 밴드, AUX88에 의한 remix.
 
 B면은 라벨 Versatile Records를 운영하는 Gilb'r Versatile에 의한 remix.
 

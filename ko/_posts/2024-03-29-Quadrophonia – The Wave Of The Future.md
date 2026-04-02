@@ -28,7 +28,7 @@ Olivier Abbeloos는 1969년 1월 18일 벨기에의 얼스트에서 태어났습
 
 그의 이름을 널리 알리는 것은 Lucien Foort와의 듀오, 쿼드로포니아입니다.
 
-한편 T99는 처음에 Patrick De Meyer의 솔로 프로젝트로 활동하고 3작품을 발표한 후 Olivier Abbeloos가 "Anasthasia"라는 곡을 제작하고 있다는 소식을 들었던 Patrick De Meyer는 T99 명의로 출시할 것을 제안합니다.
+한편, T99는 처음에 Patrick De Meyer의 솔로 프로젝트로 활동하고 3작품을 발표한 후 Olivier Abbeloos가 "Anasthasia"라는 곡을 제작하고 있는 것을 들었던 Patrick De Meyer는 T99 명의로 릴리스할 것을 제안합니다.
 
 Olivier Abbeloos는 승낙, 이후 T99는 듀오로 활동하게 되었습니다.
 

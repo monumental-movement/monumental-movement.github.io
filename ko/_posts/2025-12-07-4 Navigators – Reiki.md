@@ -16,7 +16,7 @@ title: 4 Navigators – Reiki
 
 4 Navigators는 이탈리아의 Techno/Hardstyle 프로젝트. 멤버는 이탈리아의 하드 스타일의 선구자로 알려진 DJ Vortex (Marco Paolo Pierucci), Marco Chiodi Corridi, Giuseppe De Iesu, DJ Carlos.
 
-"Reiki"는 2003년에 이탈리아의 Techno/Hard Trance/Hardstyle 레이블 Stik Records에서 출시되었습니다.
+"Reiki"는 2003년 이탈리아의 Techno/Hard Trance/Hardstyle 레이블 Stik Records에서 출시되었습니다.
 
 #### Tracklist
 ```md

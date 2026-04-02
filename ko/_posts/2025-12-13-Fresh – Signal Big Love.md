@@ -15,7 +15,7 @@ title: Fresh – Signal / Big Love
 
 DJ FreshDan Stein은, UK의 drum & bass/ dubstep 프로듀서&DJ. 드럼룬 베이스 그룹 Bad Company(BC/ᑐᗴ|ᗱᑕ)의 멤버이자 Adam F와 함께 드럼 베이스 라벨 Breakbeat Kaos를 운영하고 있다.
 
-'Signal/Big Love'는 2003년 라벨 RAM Records에서 출시된 drum & bass 트랙.
+「Signal/Big Love」는, 2003년에 라벨 RAM Records로부터 릴리스 된 drum & bass 트럭.
 
 #### Tracklist
 ```md

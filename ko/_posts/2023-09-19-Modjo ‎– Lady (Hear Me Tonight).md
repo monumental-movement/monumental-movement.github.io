@@ -13,7 +13,7 @@ title: Modjo – Lady (Hear Me Tonight)
 ---
 
 
-Modjo - Lady (Hear Me Tonight)는 프랑스 디스코 듀오인 Modjo가 2000년에 출시한 싱글입니다. 이 노래는 전 세계에서 큰 히트를 했고 많은 차트에서 상위 순위를 차지했습니다.
+Modjo - Lady (Hear Me Tonight)는 프랑스 디스코 듀오인 Modjo가 2000년에 출시한 싱글입니다. 이 노래는 전세계에서 히트했고 많은 차트에서 상위 순위를 차지했습니다.
 
 Lady (Hear Me Tonight)는 댄스 팝과 프렌치 하우스의 요소를 결합한 트랙으로 리드미컬 한 비트, 캐치 멜로디, 세련된 프로덕션이 특징입니다.
 

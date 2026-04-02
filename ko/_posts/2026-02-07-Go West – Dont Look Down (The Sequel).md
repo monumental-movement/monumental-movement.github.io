@@ -15,7 +15,7 @@ title: Go West – Don't Look Down (The Sequel)
 
 
 
-Go West(고 웨스트)는 Peter Cox와 Richard Drummie에 의해 1982년에 결성된 영국의 팝듀오. 히트곡 'We Close Our Eyes', 'Call Me', 'Faithful', 'King of Wishful Thinking' 등으로 알려져 1980년대 중반부터 1990년대 초반에 걸쳐 활약했다.
+Go West(고 웨스트)는 Peter Cox와 Richard Drummie에 의해 1982년에 결성된 영국의 팝 듀오. 히트곡 'We Close Our Eyes', 'Call Me', 'Faithful', 'King of Wishful Thinking' 등으로 알려져 1980년대 중반부터 1990년대 초반에 걸쳐 활약했다.
 
 「Don't Look Down (The Sequel)」은 1985년에 릴리스된 오리지널을 Bruce Forest가 리믹스해, 1987년에 릴리스된 Pop Rock/Synth-pop 트랙.
 

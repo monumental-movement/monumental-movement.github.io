@@ -13,7 +13,7 @@ title: Octave One – Blackwater (Alter Ego Remixes)
 ---
 
 
-Octave One 대표작 Blackwater의 리믹스입니다.
+Octave One 대표작의 Blackwater의 리믹스입니다.
 
 독일 테크노 씬의 대 베테랑, Jorn Elling Wuttke와 Roman Flugel에 의한 Alter Ego 리믹스는 뛰어난.
 

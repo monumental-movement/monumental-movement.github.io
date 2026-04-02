@@ -13,7 +13,7 @@ title: Atari Teenage Riot – Revolution Action E.P.
 ---
 
 
-"Atari Teenage Riot - Revolution Action E.P."는 1999년 독일의 디지털 하드코어 밴드인 아탈리 틴에이지 라이어트(Atari Teenage Riot)가 발표한 곡입니다.
+"Atari Teenage Riot - Revolution Action E.P."는 독일의 디지털 하드 코어 밴드, 아탈리 틴에이지 라이오트 (Atari Teenage Riot)의 1999 년 릴리스의 음악입니다.
 
 #### Tracklist
 ```md

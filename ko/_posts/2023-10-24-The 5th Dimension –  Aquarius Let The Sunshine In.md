@@ -14,7 +14,7 @@ title: The 5th Dimension – Aquarius Let The Sunshine In
 ---
 
 
-The 5th Dimensio는 1960년대 후반부터 1970년대 전반에 걸쳐 활약한 US 보컬 그룹입니다.
+The 5th Dimensio(피프스 치수)는 선샤인 팝, 팝 서울, 사이키델릭 서울의 스타일로 1960년대 후반부터 1970년대 전반에 걸쳐 활약한 US 보컬 그룹입니다.
 
 1969년에 「Aquarius / Let The Sunshine In」에서 그래미상 최우수 레코드상을 수상.
 

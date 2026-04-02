@@ -16,7 +16,7 @@ title: Lisa Pin-Up & Elvira – Sexy
 
 Lisa Pin-Up (Lisa Chilcott)는 영국의 하드하우스 DJ/프로듀서. Hard House/Nu NRG 액트 Tidy Girls의 멤버로도 활동하고 있다.
 
-Elvira와 Porl Young은 UK 프로듀서 / DJ. 90년대 중반은 UK의 gothic rock 밴드 Rosetta Stone의 멤버로 활동하고 있었다.
+Elvira와 Porl Young은 UK 프로듀서 / DJ. 90년대 중반에는 UK의 gothic rock 밴드 Rosetta Stone의 멤버로 활동하고 있었다.
 
 "Sexy"는 2000 년 라벨 Rock Hard Recordings에서 출시 된 Hard House 트랙.
 

@@ -20,7 +20,7 @@ title: The Rogue Element – ​​Breathe
 
 
 
-The Rogue Element(로그 엘리먼트)는 수상 경력이 있는 프로듀서/DJ의 Ben Medcalf(벤 메드카프)의 프로젝트. 2013년부터는 The Rogue Element에 James Tomlinson이 참가해 그룹으로서 활동하고 있다.
+The Rogue Element(로그 엘리먼트)는 수상 경력이 있는 프로듀서/DJ의 Ben Medcalf(벤 메드카프)의 프로젝트. 2013년부터는 The Rogue Element에 James Tomlinson이 참여해 그룹으로 활동하고 있다.
 
 「Breathe」는 런던의 라벨 Exceptional에서 2007년에 릴리스된 Breaks 트럭.
 

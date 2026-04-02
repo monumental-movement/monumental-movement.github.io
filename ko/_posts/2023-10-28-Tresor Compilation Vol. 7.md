@@ -13,7 +13,7 @@ title: Tresor Compilation Vol. 7
 ---
 
 
-'Tresor Compilation Vol. 7'은 1999년 출시된 편집 앨범입니다.
+'Tresor Compilation Vol. 7'은 1999년에 발표된 편집 앨범입니다.
 
 #### Tracklist
 ```md

@@ -14,7 +14,7 @@ title: Stacs Of Stamina – Mistake Rewind Repeat EP
 ---
 
 
-UK의 인디펜덴 트래블 Werk Discs로부터 2005년에 릴리스된, 스웨덴의 일렉트로 힙합 승무원 Stacs Of Stamina에 의한 글리치+UK 갈라지+IDM+익스피리멘탈 트럭.
+UK의 인디펜덴 트래블 Werk Discs로부터 2005년에 릴리스된, 스웨덴의 일렉트로·힙합·크루 Stacs Of Stamina에 의한 글리치+UK 갈라지+IDM+익스피리멘탈 트럭.
 
 #### Tracklist
 ```md

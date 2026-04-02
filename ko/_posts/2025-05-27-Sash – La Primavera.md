@@ -16,7 +16,7 @@ title: Sash! – La Primavera
 
 Sash! (Sash!)는 Ralf Kappmeier, Karl Xander, Thomas "Alisson" Lüdke, Sascha Lappessen의 독일 DJ 프로덕션 팀.
 
-"La Primavera"는 Patrizia Salvatore를 특징으로 1998년에 발매된 Sash! 의 세컨드 앨범 「Life Goes On」의 리드 싱글로서 릴리스 된 트랜스 트랙.
+'La Primavera'는 Patrizia Salvatore를 특징으로 1998년에 출시된 Sash! 의 세컨드 앨범 「Life Goes On」의 리드 싱글로서 릴리스 된 트랜스 트랙.
 
 A면은, 독일의 일렉트로닉 뮤직 듀오 DJ JamX & De Leon에 의한 remix.
 

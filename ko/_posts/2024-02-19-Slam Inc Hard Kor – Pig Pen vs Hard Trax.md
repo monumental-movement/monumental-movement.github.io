@@ -14,7 +14,7 @@ title: Slam Inc Hard Kor – Pig Pen vs Hard Trax
 ---
 
 
-Slam Inc Hard Kor의 EP 「Pig Pen vs Hard」는, TraxCalvin Sheppard 와 William Kimber가 설립한 UK하드하우스/NRG레이블Alphamagic의 서브라벨 Bangin Out Tunes로부터 2000년에 릴리스된 하드하우스 트럭.
+Slam Inc Hard Kor의 EP 「Pig Pen vs Hard」는, TraxCalvin Sheppard 와 William Kimber가 설립한 UK하드하우스/NRG라벨Alphamagic의 서브라벨 Bangin Out Tunes로부터 2000년에 릴리스 된 하드하우스 트럭.
 
 #### Tracklist
 ```md

@@ -19,7 +19,7 @@ DJ Shufflemaster 일 Tatsuya Kanamori(카나모리 타츠야)는, 1990년대 중
 
 「Geylang Remixes」는, 일본의 라벨 Subvoice Electronic Music에서 2001년에 릴리스한 Tribal/Dub Techno/Minimal 트랙.
 
-A1은, UK의 테크노 레전드 Ben Sims에 의한 리믹스.
+A1은 UK의 테크노 레전드 Ben Sims에 의한 리믹스.
 
 B2는 Tresor(트레조아) 경계의 DJ/프로듀서 집단 Sender Berlin에 의한 리믹스.
 

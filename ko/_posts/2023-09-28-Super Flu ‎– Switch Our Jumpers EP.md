@@ -13,7 +13,7 @@ title: Super Flu – Switch Our Jumpers EP
 ---
 
 
-2006년 독일 라벨 KarateKlub에서 출시된 작품입니다.
+2006 년 독일 라벨 KarateKlub에서 출시 된 작품입니다.
 
 Feliks Thielemann과 Mathias Schwarz의 유닛 "Super Flu"에 의한 트럭이됩니다.
 

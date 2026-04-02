@@ -14,7 +14,7 @@ title: Groove Coverage – Poison
 ---
 
 
-Groove Coverage(그루브 커버리지)는 Axel Konrad(악셀 콘라트), DJ Novus(DJ 노버스), Melanie Munch(라니 뭉크/멜), Verena Rehm(벨레나 렘)로 이루어진 독일의 유로 트랜스 밴드.
+Groove Coverage(그루브 커버리지)는 Axel Konrad(액셀 콘라트), DJ Novus(DJ 노버스), Melanie Munch(라니 뭉크/멜), Verena Rehm(벨레나 렘)로 이루어진 독일의 유로 트랜스 밴드.
 
 「Poison」은, Alice Cooper(앨리스 쿠퍼)의 커버곡이며, Groove Coverage의 대표곡의 하나.
 

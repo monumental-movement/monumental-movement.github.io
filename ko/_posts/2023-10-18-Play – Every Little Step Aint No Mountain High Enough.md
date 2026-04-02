@@ -15,7 +15,7 @@ title: Play – Every Little Step / Ain't No Mountain High Enough
 
 2001년에 결성된 스웨덴의 팝걸그룹.
 
-Bobby Brown(보비 브라운) 「EVERY LITTLE STEP」의 커버는 Aaron Carter(아론 카터)를 피처링으로 맞이해 2004년에 릴리스 되었다.
+Bobby Brown(보비 브라운) 「EVERY LITTLE STEP」의 커버는 Aaron Carter(아론 카터)를 피처링에 맞아 2004년에 릴리스 되었다.
 
 #### Tracklist
 ```md

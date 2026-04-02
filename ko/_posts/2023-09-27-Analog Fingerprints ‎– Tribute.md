@@ -13,7 +13,7 @@ title: Analog Fingerprints – Tribute
 ---
 
 
-Analog Fingerprints의 "Tribute"는 A-side는 일렉트로 하우스의 범핀 트럭이며, 레이브의 분위기가 있습니다. B1과 B2는 매우 최소한의 트랙입니다.
+Analog Fingerprints의 "Tribute"는 A-side는 일렉트로 하우스의 뱀핀 트랙으로, 레이브의 분위기가 있습니다. B1과 B2는 매우 최소한의 트랙입니다.
 
 Analog Fingerprints의 본명은 Marco Passarani.
 

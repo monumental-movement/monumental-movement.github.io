@@ -13,7 +13,7 @@ title: Tone Theory – Limbo Of Vanished Possibilities
 ---
 
 
-Tone Theory(데릭 카터)의 'Limbo Of Vanished Possibilities'는 비트와 복잡하게 만들어진 퍼커션, 그리고 강력한 베이스라인에서 댄스 플로어에서의 연주에 완벽합니다.
+Tone Theory(데릭 카터)의 'Limbo Of Vanished Possibilities'는 비트와 복잡하게 만들어진 퍼커션, 그리고 강력한 베이스라인으로 댄스 플로어에서의 연주에 완벽합니다.
 
 또한 전자적인 "휘파람"의 메인 후크, 섬세하고 아름다운 작은 멜로디, 감정적이지만 수수께끼 보컬이 센스의 장점을 느끼게합니다.
 

@@ -16,7 +16,7 @@ title: The Vectif vs. The M. Experience – Stimulation EP
 
 The Montini Experience(The M. Experience)는 Bart Grinaert, Lajos Mészáros, Marc Van Campenhout(Zzino)에 의한 벨기에의 Techno / Hardtrance 프로젝트. Bart Grinaert는 Housetrap · Sinesweeper 명의와 Maarten Wilmaers와의 듀오 Filterheadz로 잘 알려져있다.
 
-「Stimulation EP」는 1998년에 벨기에의 라벨 Spectron Records로부터 릴리스된 Techno/Tribal 트랙.
+「Stimulation EP」는 1998년에 벨기에의 라벨 Spectron Records 로부터 릴리스된 Techno/Tribal 트랙.
 
 #### Tracklist
 ```md

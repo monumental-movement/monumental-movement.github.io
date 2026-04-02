@@ -14,7 +14,7 @@ title: Mille and Mr. Hirsch – Jazzhatz
 
 
 「Jazzhatz」는,
-2000년 독일 라벨 "Jetlag"에서 출시된 Rolf Hans Michael Fischer와 Peter W. Hirsch에 의한 유닛 Mille & Mr. Hirsch의 EP입니다.
+2000년 독일 라벨 'Jetlag'에서 출시된 롤프 한스 마이클 피셔와 피터 와이.
 
 
 #### Tracklist

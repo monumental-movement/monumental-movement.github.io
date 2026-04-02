@@ -59,7 +59,7 @@ B2. Equalizer
 
 장르: Ambient/IDM/Techno
 
-출시: 1996년 (Reflective Records)
+출시: 1996년(Reflective Records)
 
 포맷: 2매 세트 LP
 
@@ -100,7 +100,7 @@ D3. String Of Pearls
 
 포맷: 2-track 12″
 
-특징 : Charles Reix의 깊은 트랜스 트럭
+특징: Charles Reix에 의하여 깊은 트랜스 트럭
 
 #### Tracklist
 ```md
@@ -191,7 +191,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 포맷: Vinyl
 
-특징 : 아일랜드 출신, 미니멀 앰비언트의 수작
+특징: 아일랜드 출신, 미니멀 앰비언트의 수작
 
 #### Tracklist
 ```md
@@ -219,7 +219,7 @@ B. Our Ghosts
 
 포맷: 2매 세트 Vinyl
 
-특징 : Steve Miller의 별명의 작품. 다양한 장르가 섞인 깊은 칠아웃 사운드
+특징 : Steve Miller의 일명 작품. 다양한 장르가 섞인 깊은 칠아웃 사운드
 
 #### Tracklist
 ```md

@@ -16,7 +16,7 @@ title: Partners In Kryme – Turtle Power
 
 Partners in Kryme (Partnerz in Kryme)은 뉴욕 출신의 James Alpern(제임스 알판)과 Richard Usher(리처드 어셔)의 힙합 듀오.
 
-「Turtle Power(터틀 파워!)」는, 1990년의 영화 「틴에이지·뮤턴트·닌자터틀즈」를 위해서 만들어져, 세계적인 히트가 되어, 전미 13위, 영국에서는 4주간 1위로 기록적인 히트가 되었습니다.
+「Turtle Power(터틀 파워!)」는, 1990년의 영화 「틴에이지·뮤턴트·닌자터틀즈」를 위해서 만들어져 세계적인 히트가 되어, 전미 13위, 영국에서는 4주간 1위로 기록적인 히트가 되었습니다.
 
 
 
