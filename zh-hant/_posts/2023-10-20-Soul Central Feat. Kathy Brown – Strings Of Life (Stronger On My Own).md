@@ -16,7 +16,7 @@ title: 靈魂中央壯舉。凱西·布朗－生命之弦（我自己更強）
 
 Soul Central 翻拍自 Derrick May 的《Strings Of Life》，於 1987 年發行。 Soul Central 是由 Andy Ward 和 Paul Timothy 組成的英國音樂二人組。由來自南卡羅來納州的室內歌手凱西布朗 (Kathy Brown) 主演。
 
-B 面的第一首曲目是美國迪斯可和電子 DJ/製作人 Danny Krivit 的混音版。
+B 面的第一首曲目是由美國迪斯科和電子 DJ/製作人 Danny Krivit 重新混音的。
 
 #### 曲目表
 ```md

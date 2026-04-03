@@ -10,7 +10,7 @@ tags:
 - Eurobeat
 - Hi NRG
 - 90s
-title: VA – 那是 Eurobeat Vol。 22
+title: VA – 那是 Eurobeat Vol。 22 號
 ---
 
 

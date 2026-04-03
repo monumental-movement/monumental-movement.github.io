@@ -16,7 +16,7 @@ title: 因巴亞 – Un Paso A La Eternidad
 ---
 
 
-Imbaya 是一個玻利維亞三重奏組，演奏以長笛和吉他為主的傳統南美音樂，偶爾也有人聲。成员包括 Jaime Vega、Carlos Vega 和 Mario Vega，他们演奏安第斯文化的乐器，如 quena、quenacho、flauta de pan（排笛）和 sampona。
+Imbaya 是一個玻利維亞三重奏組，演奏以長笛和吉他為主的傳統南美音樂，偶爾也有人聲。成員包括 Jaime Vega、Carlos Vega 和 Mario Vega，他們演奏安地斯文化的樂器，如 quena、quenacho、flauta de pan（排笛）和 sampona。
 
 《Un Paso A La Eternidad》是一張以秘魯克丘亞人製作的本土音樂的專輯，是1993年發行的卡帶。
 

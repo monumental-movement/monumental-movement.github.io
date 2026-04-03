@@ -10,11 +10,11 @@ tags:
 - Latin
 - Jazz
 - Techno
-title: 安德烈亞斯·薩格 – 爵士樂課
+title: Andreas Saag – Jazz Lesson
 ---
 
 
-2002年にスウェーデンのレーベル「SLS」からリリースされました。
+它於 2002 年在瑞典唱片公司“SLS”上發行。
 
 與 SLS 的標誌性聲音令人驚訝的是，它是爵士樂，由 Saag 提供優美的三角鋼琴驅動的曲目。
 

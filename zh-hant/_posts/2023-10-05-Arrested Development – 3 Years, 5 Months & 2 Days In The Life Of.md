@@ -14,7 +14,7 @@ title: 發展受阻－生命中的 3 年 5 個月 2 天
 ---
 
 
-《3 Years, 5 Months & 2 Days in the Life Of...》是 Arrested Development 的首張專輯，獲得了巨大成功。這張專輯取材自樂團成員經歷的真實故事和個人故事，反映了他們日常生活中的靈感。
+《3 Years, 5 Months & 2 Days in the Life Of...》是 Arrested Development 的首張專輯，並取得了巨大成功。這張專輯取材自樂團成員經歷的真實故事和個人故事，反映了他們日常生活中的靈感。
 
 這張專輯收錄了葛萊美獲獎歌曲《Tennessee》、《People Everyday》和《Mr. Wendal》等熱門歌曲。這些歌曲以發展受阻的標誌性歌詞、旋律和深情的歌聲為特色，為聽眾帶來了積極的信息和對社會問題的認識。
 

@@ -21,7 +21,7 @@ title: 挑選 Psy-Trance 作品
 
 ## Psy-Trance 精選作品
 
-介紹 Monumental-Movement.jp 上列出的推薦 **Psy-Trance** 專輯並附有說明。
+Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリックトランス）** のおすすめ盤を解説付きで紹介します。  
 收藏從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
 
 ---
@@ -96,7 +96,7 @@ F2. Deeper And Deeper
 <a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
-- **解説**：メキシコのトランス・シーンを集約したコンピレーション。地域性と多様なスタイルを味わえる作品。
+- **評論**：總結墨西哥恍惚場景的彙編。一部可以讓你領略地域特色、風格多元的作品。
 
 #### 曲目表
 ```md
@@ -123,7 +123,7 @@ B2  Teen Sluts–Foust On Doust
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
  
 
-- **解説**：ゴアトランスとテクノ的アプローチが融合。アンビエント的な要素を含み、深い没入感を与える実験的トラック。
+- **評論**：血腥恍惚與科技風格的融合。這是一首包含環境元素並提供深度沉浸感的實驗曲目。
 
 #### 曲目表
 ```md
@@ -168,7 +168,7 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -184,7 +184,7 @@ B2. Whales 'n' Wave (Edit)
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **評論**：來自德國的藝術家。這是一部雄心勃勃的作品，透過巧妙的聲音設計展示了現代 Psy-Trance。
+- **評論**：來自德國的藝術家。这是一部雄心勃勃的作品，通过巧妙的声音设计展示了现代 Psy-Trance。
 
 #### 曲目表
 ```md
@@ -206,7 +206,7 @@ AA. Inner Child
 
 ---
 
-### 各種 – *共鳴情緒*
+### Various – *Resonance Mood*
 <a href="https://monumental-movement.jp/Various-Resonance-Mood/"><img src="../assets/images/Various%20%E2%80%93%20Resonance%20Mood.webp"></a>
 
 - **發布發布日期**：2024-05-13
@@ -243,7 +243,7 @@ F. Sandman – Target Eye
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 
-- **評論**：1995 年由 Flying Rhino Records 發行。代表果阿恍惚黃金時代的經典作品。
+- **评论**：1995 年由 Flying Rhino Records 发行。代表果阿恍惚黃金時代的經典作品。
 
 #### 曲目表
 ```md
@@ -262,4 +262,4 @@ AA. Umbellikilisis
 <br>
 
 ###  **Psy-Trance 的魅力**
-幻想的でスピリチュアル、時に実験的。90年代から現代まで脈々と続くサイケデリック・トランスの世界を、ぜひ体感してみてください。
+夢幻般的、精神上的、有時甚至是實驗性的。請來體驗從90年代至今不間斷的迷幻恍惚世界。

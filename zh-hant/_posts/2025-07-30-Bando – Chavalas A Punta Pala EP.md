@@ -16,7 +16,7 @@ title: Bando – Chavalas A Punta Pala EP
 
 Manuel Rio，又名 Bando，是一位西班牙 DJ 兼製作人，自 20 世紀 90 年代初以來一直活躍。他充滿活力的風格以 techno 為基礎，具有部落風格，富含打擊樂和律動，他為 Ben Sims、Marco Bailey、DJ Misjah、Cristian Varela 等人創作了混音作品。作為 DJ，他是 Cristian Varela 的常駐成員，Cristian Varela 活躍於世界各地，曾獲得最佳 Techno DJ 獎，並在多個國家演出，不僅在歐洲，還在美國和亞洲進行巡迴演出。
 
-「Chavalas A Punta Pala EP」はBandoの代表作で、スイスのレーベルPhont Musicから2003年にリリースされたTechno・Tribal Technoトラック。
+《Chavalas A Punta Pala EP》是 Bando 的傑作，是一首 Techno/Tribal Techno 曲目，於 2003 年由瑞士唱片公司 Phont Music 發行。
 
 #### 曲目表
 ```md

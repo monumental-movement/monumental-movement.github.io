@@ -11,13 +11,13 @@ tags:
 - Pop
 - Synth-pop
 - 80s
-title: Madonna – True Blue
+title: 麥當娜 – 純藍
 ---
 
 
-1986年にリリースされた「True Blue」は、マドンナ3枚目のスタジオアルバム。モータウンサウンド、ガールズグループ、ラテンポップの影響を受けたダンスポップアルバムで、世界的な大ヒットとなった。
+True Blue 於 1986 年發行，是麥當娜的第三張錄音室專輯。這張舞曲流行專輯受到摩城音樂、女子團體和拉丁流行音樂的影響，風靡全球。
 
-《True Blue》的封面照片與 Olivia Newton-John 的第 12 張錄音室專輯《Physical》有著相同的姿勢。两者均由美国摄影师 Herb Ritts 创作。
+《True Blue》的封面照片與 Olivia Newton-John 的第 12 張錄音室專輯《Physical》有著相同的姿勢。兩者均由美國攝影師 Herb Ritts 創作。
 
 #### 曲目表
 ```md

@@ -17,8 +17,8 @@ title: 各種 – 太空斗篷
 錄製曲目 2 c. 1960 · 選自專輯《The Magic Beat!》
 曲目 3 錄製於 1946 年 5 月 8 日 · 選自專輯“Music Out Of The Moon”
 錄製曲目 4 c. 1956 · 選自專輯《Power House》
-Track 5 recorded June 23, 1960 · From the album "Drums And More Drums"
-Track 6 recorded October 17, 1961 · From the album "Sensational!"
+曲目 5 錄製於 1960 年 6 月 23 日 · 選自專輯“Drums And More Drums”
+曲目 6 錄製於 1961 年 10 月 17 日 · 選自專輯“Sensational!”
 曲目 7 錄製於 1951 年 3 月 6 日 · 選自專輯“The Voices Of Walter Schumann”
 曲目 8 錄製於 1962 年 7 月 16 日 · 選自專輯“Zounds! What Sounds!”
 第 9 首（第一部分）錄製於 1953 年 11 月 6 日 · 來自 Capitol Records 單曲
@@ -26,7 +26,7 @@ Track 6 recorded October 17, 1961 · From the album "Sensational!"
 曲目 10 錄製於 1960 年 3 月 23 日 · 選自專輯“Accent On Bamboo”
 曲目 11 錄製於 1959 年 3 月 23 日 · 選自專輯“Les Baxter's Wild Guitars”
 曲目 12 錄製於 1949 年 8 月 4 日 · 選自專輯“Music For Piece Of Mind”
-錄製第 13 軌 c． 1959 · 選自專輯“Felix Slatkin Conducts Fantastic Percussion!”
+录制第 13 轨 c． 1959 · 選自專輯“Felix Slatkin Conducts Fantastic Percussion!”
 錄製第 14 軌 c． 1963 · 收錄於專輯《管風琴壯觀！ 》
 曲目 15 錄製於 1960 年 8 月 10 日 · 選自專輯“Mr. Percussion”
 曲目 16 錄製於 1959 年 5 月 21 日 · 選自專輯“Ping-Pong”
@@ -72,7 +72,7 @@ Track 6 recorded October 17, 1961 · From the album "Sensational!"
 18.Dean Elliott & His Big Band–Lonesome Road
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53410507614?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m53410507614?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwQ6A7eWvpU?si=676P6Bidu6gbdIzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

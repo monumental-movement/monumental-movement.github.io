@@ -15,11 +15,11 @@ title: 布倫南·格林——900磅男子
 ---
 
 
-Brennan Green 是一位資深的紐約地下迪斯可/電子 DJ、製作人和工程師。他还因影响 Metro Area 和 DFA 厂牌而闻名，并因制作 Kid Creole & The Coconuts 和 ARTHUR RUSSELL 致敬乐队 ARTHUR'S LANDING 的混音版而闻名。
+Brennan Green 是一位資深的紐約地下迪斯可/電子 DJ、製作人和工程師。他也因影響 Metro Area 和 DFA 廠牌而聞名，並因製作 Kid Creole & The Coconuts 和 ARTHUR RUSSELL 致敬樂隊 ARTHUR'S LANDING 的混音版而聞名。
 
 《900lb Man》是 Jet Set 於 2006 年發行的一首 House、Tech House、Acid House 曲目。
 
-Aは、KZA とDJ KentによるDuo、Force Of Nature(F.O.N フォース・オブ・ネイチャー)によるremix。
+A 是 KZA 和 DJ Kent 的二人組 Force Of Nature (F.O.N Force of Nature) 的混音版。
 
 
 #### 曲目表

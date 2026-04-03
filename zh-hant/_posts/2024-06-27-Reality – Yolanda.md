@@ -18,7 +18,7 @@ Reality 是個嘻哈浩室三人組，主唱是 Afrika Bambaataa 的表弟 Kool 
 
 自家廠牌 Strictly Rhythm 於 1993 年發行的「Yolanda」是一首在全球大受歡迎的單曲。
 
-A面は、ハードハウス DJ  Bad Boy Billによるmix。B面はReel 2 Real名義でも有名なErick Morilloによるremix。
+Side A 是 Hard House DJ Bad Boy Bill 的混音作品。 B 面是 Erick Morillo 的混音版，也稱為 Reel 2 Real。
 
 #### 曲目表
 ```md

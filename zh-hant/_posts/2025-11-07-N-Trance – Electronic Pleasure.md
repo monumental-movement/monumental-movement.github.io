@@ -34,7 +34,7 @@ N-Trance 是英國電子音樂二人組，由 Kevin O'Toole 和 Dale Longwort �
 12. That's All We Need
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bcf5kzBCdy4?si=Xu1Zk16QwxYwltcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

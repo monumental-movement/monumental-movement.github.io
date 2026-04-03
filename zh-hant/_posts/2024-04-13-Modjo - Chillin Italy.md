@@ -10,7 +10,7 @@ permalink: /zh-hant/modjo-chillin-italy/
 tags:
 - House
 - French House
-title: Modjo - 寒冷的義大利
+title: Modjo - 寒冷的意大利
 ---
 
 
@@ -20,7 +20,7 @@ title: Modjo - 寒冷的義大利
 
 
 
-「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
+《Modjo - Chillin'》是法國二人組 Modjo 於 2001 年發行的歌曲。這首歌收錄在他們的首張同名專輯《Modjo》中。
 
 《Chillin'》是一首結合了迪斯可和浩室音樂元素的歌曲，具有輕快而優美的節奏、時髦的貝斯線和迷人的歌聲。
 

@@ -16,7 +16,7 @@ title: 8bit專案－熟悉的計算世界
 ---
 
 
-8bit Project 是一個日本科技流行晶片音樂團體，於 2006 年首次發行 CD。成員包括伊藤俊二、齊藤恆、東海林博典和木下洋介。日本合成器程序员协会 (JSPA) 主席松武英树 (Hideki Matsutake) 是他的“监护人”。
+8bit Project 是一個日本科技流行晶片音樂團體，於 2006 年首次發行 CD。成員包括伊藤俊二、齊藤恆、東海林博典和木下洋介。日本合成器程式設計師協會 (JSPA) 主席松武英樹 (Hideki Matsutake) 是他的「監護人」。
 
 這件夾克模仿了 Kraftwerk 1981 年發行的《Computer World》。
 
@@ -41,4 +41,4 @@ title: 8bit專案－熟悉的計算世界
 17. テクノポリス
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}

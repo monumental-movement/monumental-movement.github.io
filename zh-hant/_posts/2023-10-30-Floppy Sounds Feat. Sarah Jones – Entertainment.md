@@ -15,7 +15,7 @@ title: 軟碟聲音壯舉。莎拉瓊斯 - 娛樂
 
 Rob Rives，也被稱為 Floppy Sounds，是紐約布魯克林美國現代舞界的製作人和工程師。
 
-ヴォーカルにSarah Jones(サラ・ジョーンズ)を迎えた「Entertainment」は、Francois Kevorkian(フランソワ・ケヴォーキアン)のレーベルWave Musicより97年にリリース。
+1997 年，Francois Kevorkian 的廠牌 Wave Music 發行了由主唱 Sarah Jones 演唱的《Entertainment》。
 
 A2 的聯合製片人是沃恩梅里克 (Vaughan Merrick)。
 

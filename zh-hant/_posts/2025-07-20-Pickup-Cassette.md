@@ -87,8 +87,8 @@ B16. One Earth
 <小時>
 
 
-### Kiss – Rock And Roll Over
-<a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
+### 吻 – 搖滾翻滾
+<a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Rollp">20Over.
 
 1976 年 70 年代 Hard Rock 日本第一版磁帶，很酷的復古。
 
@@ -119,7 +119,7 @@ B5. Makin' Love
 ### Amany & The Badawist – 來吧，巴塞姆
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%9320and%20The%20Badawist%20%E2%80%9320and%20The%20Badawist%20%E2%80%9320ComeCome>
 
-2024年 トライバル／世界音楽  中東・アフリカ系のトライバル音響。
+2024 部落/世界音樂 來自中東和非洲的部落之聲。
 
 #### 曲目表
 ```md
@@ -158,7 +158,7 @@ Come on, Bassem
 ### 湯瑪斯紐曼 – 女人的香氣
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%(webp.
 
-1992年 映画サウンドトラック  名作映画のオリジナルスコア・テープ。
+1992 年電影原聲帶 經典電影的原創配樂磁帶。
 
 #### 曲目表
 ```md
@@ -264,7 +264,7 @@ B. Side B
 ### 各種 - 享受！故事
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%">20Story.webp.
 
-20 世紀 90 年代？经典嘻哈祖鲁民族时代早期合辑
+20 世紀 90 年代？經典嘻哈祖魯民族時代早期合輯
 
 #### 曲目表
 ```md
@@ -313,7 +313,7 @@ D9. Higher Ground – Shake 'Em Up
 <小時>
 
 ### 運行-D.M.C. – 搖滾之王
-<a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
+<a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20King%20Of%E2%80%93%20King%20Of%20King%20Of%。
 
 1985 年？  嘻哈/搖滾融合，搖滾和饒舌的開創性流行作品
 
@@ -339,8 +339,8 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Dr. Dre – Let Me Ride
-<a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
+### Dr. Dre – 讓我騎
+<a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Dre%20%E2%80%93%20Let%20Me%20Ride.
 
 1992年西岸音樂經典嘻哈/G-Funk代表歌曲
 

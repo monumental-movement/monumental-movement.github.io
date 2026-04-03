@@ -11,11 +11,11 @@ tags:
 - Soul
 - Funk
 - 70s
-title: VA – 迪斯科声音特别卷。 1
+title: VA – 迪斯可聲音特別卷。 1
 ---
 
 
-VA – Disco Sound Special Vol. 1 - ディスコサウンドスペシャル　2枚組レコード
+VA – 迪斯可聲音特別卷。 1 - 迪斯可聲音特殊 2 碟唱片套裝
 
 #### 曲目表
 ```md

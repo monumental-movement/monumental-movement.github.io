@@ -14,7 +14,7 @@ title: 達倫泰特和喬諾格蘭特 – 《Shine》
 ---
 
 
-Darren Tate (ダレン・テイト)は、JODAのメンバーであり、DT8 Projectや8 Ball 名義でも活動するイギリス出身のハウス・トランス・ダンスミュージックDJ/プロデューサー。
+Darren Tate 是 JODA 的成員，也是一位來自英國的 house trance 舞曲音樂 DJ/製作人，他也以 DT8 Project 和 8 Ball 的名義工作。
 
 Jono Grant是英國電子音樂團體Above & Beyond的成員，也是製作人，同時也是JODA、Dirt Devils和Zed-X的成員。
 

@@ -16,7 +16,7 @@ title: 新生活 – 免費獲得 2 B
 
 New Life 是由義大利 house/Eurodance act 49ers 的主唱 Ann-Marie Smith 參與的計畫。
 
-Aは、イギリスのドラム&ベースのプロデューサーであり、garageデュオTrue Steppersとしても活躍したJonny Lによるremix。
+A 是英國鼓貝斯製作人、車庫二人組 True Steppers 前成員 Jonny L 的混音版。
 
 #### 曲目表
 ```md

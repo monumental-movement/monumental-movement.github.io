@@ -13,7 +13,7 @@ title: Booka Shade – 在白色房間（乙烯基兩個）
 ---
 
 
-《Booka Shade - In White Rooms (Vinyl Two)》是德國電子二人組 Booka Shade 的一首歌。
+「Booka Shade - In White Rooms (Vinyl Two)」は、ドイツのエレクトロニックデュオであるブッカ・シェード（Booka Shade）による楽曲です。
 
 這首歌於 2005 年發行，是 Booka Shade 的標誌性作品之一，並在他們的職業生涯中取得了重大成功。
 

@@ -16,7 +16,7 @@ title: Echo & The Bunnymen – Enlighten Me（擴展混音）
 
 Echo & The Bunnymen 是一支英國搖滾樂隊，於 1978 年在利物浦成立。最初成員包括 Ian Stephen McCulloch、Will Sergeant 和 Les Pattinson。
 
-1980 年，Pete De Freitas 加入並擔任鼓手。
+1980年までにPete De Freitas（ピート・デ・フレイタス）がドラマーとして加入。
 
 #### 曲目表
 ```md

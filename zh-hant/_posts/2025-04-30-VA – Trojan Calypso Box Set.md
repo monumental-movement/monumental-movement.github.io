@@ -14,7 +14,7 @@ title: VA – Trojan Calypso 套裝
 ---
 
 
-トロージャン　カリプソコンピレーション
+木馬Calypso編譯
 
 限量版盒裝（3張CD）
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/dylan-society-revolver/
 tags:
 - House
 - Tech House
-title: 迪倫 – 社會性左輪手槍
+title: 迪倫 – 社會左輪手槍
 ---
 
 

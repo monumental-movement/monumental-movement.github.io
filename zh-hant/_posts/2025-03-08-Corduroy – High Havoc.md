@@ -15,7 +15,7 @@ title: 燈芯絨 – 高破壞
 
 Corduroy 是一支來自倫敦的四人酸性爵士樂隊。
 
-《High Havoc》是 Corduroy 的第二張概念專輯，於 1993 年由 Acid Jazz Records 發行。第二首歌曲《London England》據說是20世紀90年代的舞池經典，Corduroy的代表作包括許多其他進入英國獨立排行榜前10名的單曲。
+《High Havoc》是 Corduroy 的第二張概念專輯，於 1993 年由 Acid Jazz Records 發行。第二首歌曲《London England》据说是20世纪90年代的舞池经典，Corduroy的代表作包括许多其他进入英国独立排行榜前10名的单曲。
 
 
 #### 曲目表

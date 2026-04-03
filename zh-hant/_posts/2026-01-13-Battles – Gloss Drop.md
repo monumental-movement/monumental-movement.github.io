@@ -11,13 +11,13 @@ tags:
 - Experimental
 - Rock
 - 10s
-title: Battles – Gloss Drop
+title: 戰鬥 – 光澤掉落
 ---
 
 
-Battles是一支成立於2002年的美國實驗搖滾樂團。
+Battles是一支美國實驗搖滾樂隊，成立於2002年。
 
-《Gloss Drop》是 Battles 在 2011 年發行的第二張專輯，嘉賓包括 Blonde Redhead 的 Gary Numan、Matias Aguayo、Blonde Redhead 的 Kaz Makino 和 Boredoms 的 EYyo Yamazuka。
+《Gloss Drop》是 Battles 在 2011 年發行的第二張專輯，嘉賓包括 Blonde Redhead 樂團的 Gary Numan、Matias Aguayo、Blonde Redhead 樂團的 Kaz Makino 和 Boredoms 樂團的 EYyo Yamazuka。
 
 #### 曲目表
 ```md

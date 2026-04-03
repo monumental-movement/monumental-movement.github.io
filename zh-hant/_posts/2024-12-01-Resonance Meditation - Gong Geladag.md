@@ -14,7 +14,7 @@ title: Resonance Meditation - Gong Geladag
 ---
 
 
-由細野晴臣監督的 Lost & Found 系列的第一張專輯。 2000年4月17日在峇裡島使用24位元192KHz聲音系統本地錄製的聲音來源。
+The first album in the Lost & Found series supervised by Haruomi Hosono. 2000年4月17日在峇裡島使用24位192KHz聲音系統本地錄製的聲音來源。
 
 #### 曲目表
 ```md
@@ -29,6 +29,6 @@ title: Resonance Meditation - Gong Geladag
 
 共鳴冥想－貢格拉達
 
-レゾナンスメディテーション 共鳴瞑想- ゴング・グラダグ 
+共振冥想 共振冥想-Gong Gradag
 
 [在 Mercari 購買](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}

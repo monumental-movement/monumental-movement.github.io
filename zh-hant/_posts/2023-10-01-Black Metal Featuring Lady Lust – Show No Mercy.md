@@ -14,7 +14,7 @@ title: 黑金屬以Lady Lust為特色——Show No Mercy
 ---
 
 
-《Show No Mercy》是 Black Metal 於 1995 年由義大利唱片公司「Bulldozer Records」發行的一張 EP。
+「Show No Mercy」は、1995年にイタリアのレーベル「Bulldozer Records」からリリースされたBlack MetalによるEPです。
 
 你可以在這裡聽到朱莉安娜的聲音。
 

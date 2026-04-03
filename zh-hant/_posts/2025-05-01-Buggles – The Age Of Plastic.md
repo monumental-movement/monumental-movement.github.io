@@ -17,7 +17,7 @@ title: Buggles – 塑膠時代
 
 Buggles 是一支英國新浪潮樂隊，由特雷弗·霍恩 (Trevor Horn) 和傑夫·唐斯 (Geoff Downes) 於 1977 年組建。他們 1979 年的首支單曲“Video Killed the Radio Star”風靡全球。
 
-1980 年，Island Records 發行了《The Age Of Plastic》，這是 Buggles 的第一張專輯。这张专辑是重新发行的（美国版）。
+1980 年，Island Records 發行了《The Age Of Plastic》，這是 Buggles 的第一張專輯。這張專輯是重新發行的（美國版）。
 
 這張專輯發行後，特雷弗·霍恩和傑夫·唐斯加入了前衛搖滾樂團 Yes。
 

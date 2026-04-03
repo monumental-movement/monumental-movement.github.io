@@ -14,7 +14,7 @@ title: Matt Darey 推出 Mash Up – Liberation
 
 Matt Darey 是一位來自英國的製作人/DJ。
 
-A面１曲目はFerry Corsten（フェリー・コーステン/SystemF）によるremix。
+A 面的第一首曲目是 Ferry Corsten (SystemF) 的混音版。
 
 #### 曲目表
 ```md

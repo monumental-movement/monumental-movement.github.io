@@ -16,7 +16,7 @@ title: Pigon Marcel Dettmann – 卡姆平原
 
 Beatstreet 廠牌於 2008 年發行的雙 A 面 techno 曲目。
 
-A面は、Oliver KarglとPhillip Sollmannによるデュオ Pigon によるテクノトラック「Kamm」。
+Side A 是由奧利佛·卡格爾 (Oliver Kargl) 和菲利普·索爾曼 (Phillip Sollmann) 組成的 Pigon 組合創作的電子曲目“Kamm”。
 
 B 面是由 Berghain 的常駐 DJ 和柏林 techno 界中堅力量 Marcel Dettmann 創作的 techno 曲目「Plain」。
 

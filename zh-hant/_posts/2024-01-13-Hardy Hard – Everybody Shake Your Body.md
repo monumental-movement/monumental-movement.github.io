@@ -9,7 +9,7 @@ permalink: /zh-hant/hardy-hard-everybody-shake-your-body/
 tags:
 - House
 - Tech House
-title: Hardy Hard – 每個人都搖晃你的身體
+title: Hardy Hard – Everybody Shake Your Body
 ---
 
 
@@ -17,7 +17,7 @@ Hardy Hard，本名 Kay Lippert，是一位德國電子/電子音樂家和 DJ。
 
 1974年9月10日出生於德勒斯登。 1997年移居柏林。
 
-1993年から活動を開始し、元々はHardsequencerとして知られていましたが、1997年にレイヴミュージックを辞め、新しいサウンドを模索することを機にエイリアスを変更しました。
+他們於 1993 年開始他們的職業生涯，最初被稱為 Hardsequencer，但在 1997 年他們退出了銳舞音樂並更改了自己的別名以探索新的聲音。
 
 #### 曲目表
 ```md

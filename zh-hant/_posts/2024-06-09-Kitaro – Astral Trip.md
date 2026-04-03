@@ -11,11 +11,11 @@ tags:
 - Healing
 - Relaxation
 - 80s
-title: Kitaro – Astral Trip
+title: 喜太郎 – 星界之旅
 ---
 
 
-喜多郎在 1970 年代初作為日本前衛搖滾樂隊“遠東家庭樂隊”的成員演奏鍵盤。在與樂團一起前往歐洲錄製唱片時，他遇到了德國合成器演奏家 Klaus Schulze，並對合成器產生了興趣。
+喜太郎在 20 世紀 70 年代初作為日本前衛搖滾樂隊“遠東家庭樂隊”的成員演奏鍵盤。在與樂團一起前往歐洲錄製唱片時，他遇到了德國合成器演奏家 Klaus Schulze，並對合成器產生了興趣。
 
 1976 年離開樂團並遊歷亞洲（中國、寮國、泰國和印度）後，喜太郎於 1978 年發行了他的第一張個人專輯《Tenkai》。
 
@@ -34,7 +34,7 @@ B4. Kaiso
 B5. Astral Trip
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njDG2zMcnH4?si=gLoIqfx1QYbLtYs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

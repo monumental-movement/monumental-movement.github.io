@@ -14,7 +14,7 @@ title: Tiësto & Junkie XL – 痴迷
 ---
 
 
-荷蘭 DJ 兼製作人 Tiesto（據說是過去 20 年來最好的 DJ 和 EDM 教父）和 Tom Holkenborg（也被稱為 Junkie XL）對《Obsession》的混音，Tiesto 是 1990 年代 Big Beat 運動的核心人物，也是搖滾和舞蹈跨界領域的先驅。
+荷蘭 DJ 兼製作人 Tiesto（據說是過去 20 年來最好的 DJ 和 EDM 教父）和 Tom Holkenborg（也稱為 Junkie XL）對《Obsession》的混音，Tiesto 是 1990 年代 Big Beat 運動的核心人物，也是搖滾和舞蹈跨界領域的先驅。
 
 Side A 是比利時 DJ/製作人 Bert Wilmaers 和 Maarten Wilmaers 的二人組 Filterheadz 的混音版。
 B 面是 NuBreed 的混音版，由 Jase (Jason Catherine)、Mykel (Michael Walburgh) 和 DB (Danny Bonnici) 項目。

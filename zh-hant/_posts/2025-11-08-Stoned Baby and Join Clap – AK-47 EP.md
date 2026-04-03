@@ -10,13 +10,13 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: Stoned Baby & Join Clap – AK-47 EP
+title: 吸毒寶貝 & 加入拍手 – AK-47 EP
 ---
 
 
-Stoned Baby ことRaúl López Martín (DJ Peque)はスペイン出身のDJ。レーベルHouse D'arret やRxxistanceの設立者としても知られている。
+Raúl López Martín (DJ Peque)，也被稱為 Stoned Baby，是一位來自西班牙的 DJ。他也被稱為 House D'arret 和 Rxxistance 品牌的創始人。
 
-「AK-47 EP」は、2002年にレーベルPrimate Endangered Species からリリースされたTribal／Technoトラック。初回プレス限定のレッドカラーバイナル盤。
+《AK-47 EP》是一首 Tribal/Techno 曲目，由 Primate Endangered Species 唱片公司於 2002 年發行。紅色黑膠唱片限量先發。
 
 #### 曲目表
 ```md

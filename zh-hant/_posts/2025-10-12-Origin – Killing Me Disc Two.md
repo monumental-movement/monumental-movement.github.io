@@ -14,7 +14,7 @@ title: 起源 – 殺了我（光碟二）
 ---
 
 
-Origin 是 Anthony Mein 和 Dave Wood 的一个项目。他也以 Knights Groove 的名義工作。
+Origin 是 Anthony Mein 和 Dave Wood 的一個專案。他也以 Knights Groove 的名義工作。
 
 《Killing Me (Disc Two)》是一首 Progressive House 歌曲，由英國 Progressive House 廠牌 Renaissance 於 2002 年發行。
 
@@ -25,7 +25,7 @@ A. Killing Me (Evolution Remix)
 B. Killing Me (Origins Of House Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29522758574?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m29522758574?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WcQS_sQuFmo?si=6Rs_WjnuVehhiZBP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

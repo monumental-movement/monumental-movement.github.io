@@ -14,9 +14,9 @@ title: 直腸遊俠 – Hamoroids / 超載
 ---
 
 
-《直腸遊騎兵》是由 Gorden Flintrop、Kevin Sieja 和 Oliver Cats 發起的計畫。還有一個名字叫做風暴捕手。
+《直腸遊騎兵》是由 Gorden Flintrop、Kevin Sieja 和 Oliver Cats 發起的計畫。還有另一個名稱的 Stormcatchers。
 
-「Hamoroids / Overload」はドイツのトランスレーベルWaterworldから2003年にリリースされたハードトランストラック。
+《Hamoroids/Overload》是德國 trance 廠牌 Waterworld 於 2003 年發行的一首硬 trance 曲目。
 
 製作人是成員Oliver Cats（又名DJ Headhunter）。
 

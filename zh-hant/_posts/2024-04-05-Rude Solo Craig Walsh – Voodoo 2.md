@@ -10,7 +10,7 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Rude Solo Craig Walsh – Voodoo 2
+title: 粗魯的獨奏克雷格·沃爾什 – Voodoo 2
 ---
 
 

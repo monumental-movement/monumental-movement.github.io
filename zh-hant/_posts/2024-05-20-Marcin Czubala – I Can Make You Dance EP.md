@@ -27,7 +27,7 @@ B1. V1 Take Off
 B2. The Real Menel
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10824252000?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m10824252000?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aLLo_k0n8y8?si=6cOk92BNcXbEFczF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

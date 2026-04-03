@@ -15,7 +15,7 @@ title: 外面 – 可疑
 ---
 
 
-Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
+Outside 是由 Matt Cooper、安德烈亞斯艾倫 (Andreas Allen) 和 Patrice Blanchard 組成的英國爵士放克樂團。
 
 第 2 首和第 8 首由英國歌手 Cleveland Watkiss 演唱。
 

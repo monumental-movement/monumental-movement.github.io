@@ -9,13 +9,13 @@ permalink: /zh-hant/yellowman-and-general-trees-a-reggae-calypso-encounter/
 tags:
 - Reggae
 - Dancehall
-title: Yellowman & General Trees – A Reggae Calypso Encounter
+title: 黃人與將軍樹－雷鬼卡利普索邂逅
 ---
 
 
-Yellowman 是牙買加音樂界非常受歡迎的舞廳雷鬼藝術家，General Trees 也是一位同樣知名的舞廳藝術家。他們的合作「A Reggae Calypso Encounter」提供了一種獨特的聲音，結合了牙買加雷鬼和特立尼達和多巴哥卡利普索的元素。
+Yellowman 是牙买加音乐界非常受欢迎的舞厅雷鬼艺术家，General Trees 也是一位同样知名的舞厅艺术家。他們的合作「A Reggae Calypso Encounter」提供了一種獨特的聲音，結合了牙買加雷鬼和特立尼達和多巴哥卡利普索的元素。
 
-この曲では、イエローマンとジェネラル・ツリーズが交互に歌い、カリプソのリズムとレゲエのエネルギッシュなスタイルが組み合わさっています。曲の歌詞は、ダンスホールのパーティーシーンやカリプソの祭りの雰囲気を描写しており、楽しい雰囲気と踊りのリズムが感じられます。
+這首歌在 Yellowman 和 General Trees 之間交替，將卡里普索的節奏與充滿活力的雷鬼風格結合在一起。歌曲的歌詞描述了舞廳派對場景或卡利普索節日的氣氛，充滿歡樂的氣氛和舞蹈節奏。
 
 
 #### 曲目表

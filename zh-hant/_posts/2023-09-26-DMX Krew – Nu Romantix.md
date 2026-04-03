@@ -13,7 +13,7 @@ title: DMX 克魯 – Nu Romantix
 ---
 
 
-「DMX Krew」は、イギリスの電子音楽アーティスト、エドワード・アプトンのプロジェクトです。
+「DMX Krew」是英國電子音樂藝術家愛德華‧厄普頓的計畫。
 
 Nu Romantix是DMX Krew於1998年發行的一張專輯，其獨特的聲音融合了old school electro、synth pop、acid house和techno的元素。
 

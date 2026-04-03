@@ -15,7 +15,7 @@ title: 萬花筒 – Meu Sonho
 
 Kaleidoscópio (Kaleidoscópio/Kaleido) 是鼓與貝斯和波薩諾瓦二人組，由巴西聖保羅的 Ramilson Maia (DJ Ramilson Maia) 和 Janaina Lima (DJ Ramilson Maia) 組成。它於2000年代初期在巴西和義大利流行，隨後風靡全球。
 
-B面はブラジルのDJ、Deeplickによるリミックスを収録。
+B 麵包括巴西 DJ Deeplick 的混音作品。
 
 #### 曲目表
 ```md

@@ -18,7 +18,7 @@ title: 織田裕之 – Rise Cataract
 
 《Rise / Cataract》是由荷蘭 trance DJ/製作人 Armin van Buuren 經營的 Armada Music 子廠牌 A State Of Trance 於 2007 年發行的 trance 曲目。
 
-イラストレーターとしては伏見つかさ著のライトノベル『俺の妹がこんなに可愛いわけがない』などの挿絵を手がけ、ミュージシャンとしては、Sevensenses recordingsやOtographic Musicからも作品を多数リリースしている。
+身為插畫家，他為伏見司所寫的輕小說《我的妹妹不可能這麼可愛》等書籍繪製插圖；作為音樂家，他在Sevensenses Recordings和Otographic Music上發行了大量作品。
 
 #### 曲目表
 ```md
@@ -27,7 +27,7 @@ A. Rise
 B. Cataract
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40856782360?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m40856782360?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6I7fX_Wu3aA?si=mir3og9S55zElnzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

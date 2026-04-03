@@ -13,7 +13,7 @@ title: 平克佛洛伊德 vs. 黑社會 – 棕酸
 ---
 
 
-《Brown Acid》是 Underworld 的《Born Slippy》和 Pink Floyd 的《Is There Anybody Out There？ Is There Anybody Out There?》的黑暗混搭。由来自纽约的科威特/美国唱片制作人和混音师 Hani 和来自纽约的 DJ/制作人 Jonathan Peters 创作。
+《Brown Acid》是 Underworld 的《Born Slippy》和 Pink Floyd 的《Is There Anybody Out There？ Is There Anybody Out There?》的黑暗混搭。由來自紐約的科威特/美國唱片製作人和混音師 Hani 和來自紐約的 DJ/製作人 Jonathan Peters 創作。
 
 
 #### 曲目表

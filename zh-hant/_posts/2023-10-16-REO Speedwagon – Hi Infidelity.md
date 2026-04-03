@@ -14,7 +14,7 @@ title: REO Speedwagon – 嗨不忠
 ---
 
 
-REO Speedwagon是1967年在伊利諾州成立的美國搖滾樂隊，1980年發行的專輯《Hi Infidelity (Forbidden Night)》是他們的代表作。
+REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
 
 #### 曲目表
 ```md

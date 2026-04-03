@@ -12,7 +12,7 @@ title: 挑選歐洲音樂作品
 ---
 
 
-「洗練されたメロディとダンスフロアを熱狂させる躍動感に満ちた、注目すべきユーロ・ミュージック作品群」
+“一組非凡的歐洲音樂作品，充滿了複雜的旋律和讓舞池興奮的活力感。”
 
 <小時>
 
@@ -47,7 +47,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 <小時>
 
 
-### Masterboy – Different Dreams
+### Masterboy – 不同的夢想
 <a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.web</a>
 
 格式：CD
@@ -90,7 +90,7 @@ Bonus Track For Japan
 
 模式標本： 90 年代 Euro House / Eurobeat / Italodance
 
-コンピレーション形式で90年代シーンの代表曲を収録 
+收錄 90 年代代表性歌曲的合輯
 
 #### 曲目表
 ```md
@@ -164,7 +164,7 @@ B5. LNR – Work It To The Bone
 
 模式標本： 90 年代歐洲 / 歐洲 House
 
-1990年代クラブヒット「In Ecstasy」ミックス入りの12″ EP 
+12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
 #### 曲目表
 ```md
@@ -258,7 +258,7 @@ B. So High (Single Mix)
 
 
 ### East 17 – 環遊世界
-<a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
+<a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%2017%20%E2%80%93%20Around%20The%20A.
 
 格式：乙烯基
 
@@ -338,7 +338,7 @@ B. La Jument De Mishao (Club Mix)
 
 
 ### E-Rotic – 性瘋狂
-<a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
+<a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.p"></a>
 
 格式：CD
 
@@ -371,14 +371,14 @@ B. La Jument De Mishao (Club Mix)
 <小時>
 
 
-### E‑Rotic – Willy Use A Billy... Boy
+### E‑Rotic – Willy 使用 Billy...男孩
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20%E2%80%93%20Willy%20Use%20A%20Use%20A%500]p.
 
 格式：CD
 
 模式標本： 90 年代歐元 / Euro Beat / Hi‑ERG House
 
-《Willy Use A Billy… Boy》是 E-Rotic 在德國的第四首單曲，也是在日本的首支單曲。
+「Willy Use A Billy… Boy」はドイツではE-Roticの4枚目のシングル、日本ではデビューシングル
 
 #### 曲目表
 ```md

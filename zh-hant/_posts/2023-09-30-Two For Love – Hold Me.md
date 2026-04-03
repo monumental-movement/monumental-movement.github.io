@@ -9,7 +9,7 @@ permalink: /zh-hant/two-for-love-hold-me/
 tags:
 - Italo
 - Euro Beat
-title: Two For Love – Hold Me
+title: 兩個人為愛－抱緊我
 ---
 
 

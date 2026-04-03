@@ -9,13 +9,13 @@ permalink: /zh-hant/sadistic-mika-band-kurofune/
 tags:
 - Rock
 - Psychedelic
-title: Sadistic Mika Band – Kurofune
+title: 虐待狂米卡樂團 – 黑船
 ---
 
 
-「サディスティック・ミカ・バンド」は、1970年代に活躍した日本のロックバンドであり、「黒船」は、1974年にリリースされたサディスティック・ミカ・バンドの2ndアルバムです。
+「Sadistic Mika Band」是一支活躍於 1970 年代的日本搖滾樂隊，「Kurofune」是 Sadistic Mika Band 的第二張專輯，於 1974 年發行。
 
-該曲以施虐米卡樂團特有的流行旋律為特色，對當時的年輕人產生了很大的影響，被公認為日本搖滾樂壇的傑作。
+以Sadistic Mika Band獨特的流行旋律為特色，對當時的年輕人產生了很大的影響，被譽為日本搖滾界的傑作。
 
 虐待狂米卡樂團的音樂至今仍受到許多人的喜愛，並被認為是日本搖滾早期的重要代表。
 
@@ -46,7 +46,7 @@ title: Sadistic Mika Band – Kurofune
 12.さようなら
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jp7q6fis2jE?si=25sM1DajIme4as0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

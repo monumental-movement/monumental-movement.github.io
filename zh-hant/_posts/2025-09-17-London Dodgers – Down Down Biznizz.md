@@ -17,7 +17,7 @@ title: 倫敦道奇隊 – Down Down Biznizz
 
 UK Garage 與 Demolition Man 和 Vincent J. Alvis 合作的“Down Down Biznizz”。它於 2002 年在英國車庫和污垢廠牌 Locked On 上發行。
 
-A 是英國車庫製作人/混音團體 D'n'D 的混音作品。
+Aは、UKガラージのプロデューサー/リミキサー集団D'n'Dによるremix。
 
 #### 曲目表
 ```md

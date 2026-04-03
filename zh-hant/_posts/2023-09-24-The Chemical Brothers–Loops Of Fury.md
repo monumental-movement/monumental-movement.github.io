@@ -13,9 +13,9 @@ title: 化學兄弟-憤怒的循環
 ---
 
 
-「Loops of Fury」は、1996年にリリースされたイギリスのビッグ・ビート・デュオ、ザ・ケミカル・ブラザーズによるEPです。このトラック全英シングルチャートで13位まで上昇しました。
+《Loops of Fury》是英國大節奏組合 The Chemical Brothers 於 1996 年發行的一張 EP。該曲目在英國單曲榜上升至第 13 位。
 
-這首「Get Up on It Like This」的聲音樣本取自 Africa Islam 1983 年播放的廣播節目。在該節目中，還出現了主唱“We’re 'bout ready to rock stable”，也用於“Block Rockin Beats”中。
+この "Get Up on It Like This" のボイスサンプルは、1983年にアフリカ・イスラムによって行われたラジオ番組から取られています。その番組からは "We're 'bout ready to rock steady" というボーカルも登場し、 "Block Rockin Beats" にも使用されています。
 
 《Get Up on It Like This》以重組形式收錄在隨後的專輯《Dig Your Own Hole》中。
 

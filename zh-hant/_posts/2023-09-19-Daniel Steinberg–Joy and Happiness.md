@@ -16,7 +16,7 @@ title: 丹尼爾‧史坦伯格 – Joy & Happiness EP
 
 如歌名所示，《歡樂幸福》是一首以歡樂幸福為主題的歌曲，其特點是節奏感十足、適合跳舞，旋律朗朗上口，氣氛積極向上。丹尼爾·斯坦伯格獨特的聲音感和創造力貫穿整首歌。
 
-《Joy & Happiness EP》是一部會吸引 Daniel Steinberg 音樂迷和 house 音樂愛好者的作品。
+《Joy & Happiness EP》是一張能夠吸引 Daniel Steinberg 音樂迷和 house 音樂愛好者的作品。
 
 
 #### 曲目表

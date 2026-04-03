@@ -183,7 +183,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 簡介： 日本硬科技DJ/製作人DJ Shufflemaster（金森龍也）於2001年發行的全長專輯。被譽為Tresor發行的傑作。
 
 
-魅力：深沉、硬朗的Techno聲音和細緻的作曲很有吸引力。他在國際上獲得了很高的讚譽，是一位有價值的日本藝術家，透過與 Tresor 的關係而傳播到世界各地。
+魅力ポイント：重厚なハードテクノサウンドと緻密な構成が魅力。国際的にも高評価を得ており、Tresorとの関係を通して世界に広がった日本人アーティストとしても貴重な存在です。
 
 #### 曲目表
 ```md
@@ -212,7 +212,7 @@ D2. Innervisions
 ### 克里斯洛 – 低
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor09.
 
-概述：出現在 Joey Beltram 作品頁面（《旭日》）「探索更多類似內容」部分的相關藝術家之一。作者：克里斯洛·哈斯，Tresor 092。
+概述：出現在 Joey Beltram 作品頁面（《旭日》）「探索更多類似內容」部分的相關藝術家之一。作者：克里斯洛‧哈斯，Tresor 092。
 
 
 亮點：這是克里斯洛·哈斯（Chrislo Haas）的個人作品，他以《D.A.F.》而聞名。和 Liaisons Dangereuses，並顯示出與柏林實驗電子音樂的緊密聯繫。

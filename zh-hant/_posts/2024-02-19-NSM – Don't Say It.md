@@ -10,13 +10,13 @@ tags:
 - Downtempo
 - Broken Beat
 - 00s
-title: NSM – Don't Say It
+title: NSM——別說出來
 ---
 
 
 NSM是Ian Grant的製作名，又名IG Culture，Broken Beat的早期創新者。
 
-A面１曲目とB面２曲目のヴォーカルは、ロンドン生まれのイギリスのシンガー ソングライター＆マルチ楽器奏者EskaことEska Mtungwazi。
+A面第一首歌曲和B面第二首歌曲的主唱是Eska Mtungwazi，也稱為Eska，出生於倫敦的英國創作型歌手和多樂器演奏家。
 
 NSM（新部門運動）是一個準團體，成員大多來自倫敦西部的破碎社區。過去的成員包括 Kaidi Tatum（名字為 Agent K）、Julie Dexter、Bembe Sege、Eska Mtungwazi 和 Eric Appapoulay（陰暗）。 Waters）、弦樂二人組 Chicks with Sticks（Izzy Dunn 和 Stella Page）以及前 Buckshot Refonke 成員 Frank McComb。
 

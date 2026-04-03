@@ -14,7 +14,7 @@ title: DJ Dakar – Young In Paradise / It’s Gonna Down
 ---
 
 
-Christian Kreuz，也被稱為 DJ Dakar，自 20 世紀 90 年代末以來一直駐紮在德國慕尼黑，作為 Dakar & Grinser 部門的一部分，並且是“Ultraschall”俱樂部的常駐 DJ。 2001 年 Dakar & Grinser 暂时解散后，他开始单飞。
+Christian Kreuz，也被稱為 DJ Dakar，自 20 世紀 90 年代末以來一直駐紮在德國慕尼黑，作為 Dakar & Grinser 部門的一部分，並且是“Ultraschall”俱樂部的常駐 DJ。 2001 年 Dakar & Grinser 暫時解散後，他開始單飛。
 
 2003 年，他以個人專輯《Diktatur Des Kapitals》首次亮相，並於 2006 年創立了自己的廠牌 Shotgun Recordings。
 
@@ -27,7 +27,7 @@ A. Young In Paradise
 B. It's Gonna Down
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m82290413116?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82290413116?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vto7YaCgvak?si=Gp_AENGprCuhG0P5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

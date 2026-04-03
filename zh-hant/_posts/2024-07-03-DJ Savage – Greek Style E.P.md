@@ -14,7 +14,7 @@ title: DJ Savage – 希臘風格 E.P
 
 
 DJ Savage 是一位來自希臘的資深 DJ 和製作人。
-「Greek Style E.P.」はMarco Lenzi と Nils Hess によって設立されましたUKのレーベルContrastから2001年にリリースされたテクノトラック。
+《希臘風格EP》是由 Marco Lenzi 和 Nils Hess 創立的英國廠牌 Contrast 於 2001 年發行的一首科技歌曲。
 
 #### 曲目表
 ```md

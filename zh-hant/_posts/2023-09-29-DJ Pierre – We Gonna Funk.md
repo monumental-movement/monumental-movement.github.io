@@ -15,7 +15,7 @@ title: DJ 皮耶 – 我們要放克
 
 這張唱片由英國唱片公司 Solid Pleasure 於 1993 年發行，其中包括“We Gonna Funk ((Underground Mix)”)。
 
-Nightcrawlersの「Push the Feeling On」の要素を取り入れたこのトラックはオリジナルよりも優れていると言える最高のミックスです。
+這首歌融合了 Nightcrawlers 的“Push the Feeling On”元素，是一首很棒的混音，甚至比原曲還要好。
 
 #### 曲目表
 ```md

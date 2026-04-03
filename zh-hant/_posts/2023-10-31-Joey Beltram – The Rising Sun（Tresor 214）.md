@@ -13,7 +13,7 @@ title: 喬伊貝爾特拉姆 – 旭日 (Tresor 214)
 ---
 
 
-Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。
+Joey Beltram 的 CD 於 2004 年在 Tresor 上發行。
 
 #### 曲目表
 ```md

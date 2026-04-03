@@ -43,7 +43,7 @@ B.  That Acid Track (Dub Version)
 ### 各種 – 城市酸
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-1988 年正品。捕捉迷幻屋燃點的重要合輯。強大的芝加哥影響力。
+1988 年正品。捕捉迷幻屋燃點的重要收藏。強大的芝加哥影響力。
 
 #### 曲目表
 ```md
@@ -90,9 +90,9 @@ B2. Everyday Balloon
 
 
 ### 轟炸低音 – 說一點祈禱
-<a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
+<a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20The%20Bass%20%E2%80%93%20Say%20A%
 
-酸 x 配音 x 流行。 1988 年的藝術作品超越了流派界限。
+Acid x dub x pop. 1988 年的藝術作品超越了流派界限。
 
 #### 曲目表
 ```md
@@ -110,7 +110,7 @@ B. 10 Seconds To Terminate
 
 
 ### DMX 克魯 – Nu Romantix
-<a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20Romantix.webp"></a>
+<a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20tixman.webp.
 
 迷幻音樂與 80 年代電子音樂的浪漫融合。 TB-303 發出柔和的聲音。
 
@@ -178,7 +178,7 @@ B2. 900lb Man (Original Mix)
 #### Aquasky – 寧靜 / 考納
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.p"></a>
 
-ドラムンベースにアシッドの要素を注入した異色作。疾走感とトリップ感が同居。
+一首獨特的作品，將酸性元素注入鼓和貝斯中。速度感和旅行感都有。
 
 #### 曲目表
 ```md

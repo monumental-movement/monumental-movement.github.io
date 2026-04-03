@@ -9,7 +9,7 @@ permalink: /zh-hant/alec-empire-the-destroyer/
 tags:
 - Digital Hardcore
 - Breakcore
-title: Alec Empire – The Destroyer
+title: 亞歷克帝國－毀滅者
 ---
 
 

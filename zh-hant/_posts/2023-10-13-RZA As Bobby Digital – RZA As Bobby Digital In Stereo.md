@@ -9,7 +9,7 @@ permalink: /zh-hant/rza-as-bobby-digital-rza-as-bobby-digital-in-stereo/
 tags:
 - Hiphop
 - Wu-Tang
-title: RZA As Bobby Digital – RZA As Bobby Digital In Stereo
+title: RZA 飾演 Bobby Digital – RZA 飾演 Bobby Digital 立體聲
 ---
 
 

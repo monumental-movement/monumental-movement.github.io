@@ -13,7 +13,7 @@ title: 地下室 Jaxx – 明星/好友
 ---
 
 
-A 面 [Kathy Sledge - Another Star 的混音（覆蓋 Stevie Wonder - Another Star / Creepin'）]
+Side A 【remix of Kathy Sledge - Another Star (covering Stevie Wonder - Another Star / Creepin')】
 
 Side B 【re-edit of Buddy Rich - Nuttville (from The Roar Of '74)】
 

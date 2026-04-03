@@ -14,14 +14,14 @@ title: Dø – 在我的肩膀上
 ---
 
 
-The Døは、2005年にパリで結成されたフィンランド系フランスのインディーポップバンド。メンバーはOlivia Merilahti&Dan Levy。2008年リリースした1stスタジオアルバム『A Mouthful』は、フランスのチャートでトップになるなど世界的にもヒットした。
+The Dø 是一支芬蘭-法國獨立流行樂隊，於 2005 年在巴黎成立。成員包括 Olivia Merilahti 和 Dan Levy。他們的第一張錄音室專輯《A Mouthful》於 2008 年發行，風靡全球，在法國排行榜上名列前茅。
 
 這張唱片是第一首單曲「On My Shoulders」的 House/Minimal 混音版。它於 2009 年以 Voidcom 廠牌發行。
 
 A 面以法國 DJ/製作人 Alexkid (Alexis Mauri) 和德國 House DJ 二人組 M.A.N.D.Y 為特色。 （DJ Pat Bo 和 Phil D. Young）。
 混合通過。
 
-B 面是 Alexkid (Alexis Mauri) 和 Philipp Jung 的混音。
+B面は、Alexkid(Alexis Mauri)とPhilipp Jungによるmix。
 
 
 #### 曲目表

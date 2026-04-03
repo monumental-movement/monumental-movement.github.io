@@ -13,7 +13,7 @@ title: Technova – Transcience Remixes
 ---
 
 
-TechnovaことDavid Harrow（デビッド・ハロウ）は、イギリスのキーボード奏者であり、Anne Clark（アン・クラーク）との仕事でも知られているミュージシャン。
+大衛·哈羅（David Harrow），也被稱為 Technova，是一位英國鍵盤手和音樂家，因與安妮·克拉克（Anne Clark）的合作而聞名。
 
 #### 曲目表
 ```md

@@ -15,11 +15,11 @@ title: 甜心寶貝 – 形狀
 ---
 
 
-Sugababes（シュガーベイブス）は、All Saints（オールセインツ）のマネージャーよって1998年に結成されたUKの女性ポップグループ。
+Sugababes是一個英國女子流行團體，由All Saints的經理於1998年組成。
 
 《Shape》於 2003 年發行，是 Sugababes 的第四張單曲，採樣了斯汀的《Shape of My Heart》，這首單曲在英國排行榜上最高排名第 11 位，在荷蘭和愛爾蘭也進入了前 10 名。
 
-A面はNas（ナズ）, Amy Winehouse（エイミー・ワインハウス）, Sullivan（ジャズミン・サリバン）などの楽曲をプロデュースしたことで有名なUSのヒップホッププロデューサーSalaam Remi（サラーム・レミ）によるremix。
+Side A 是美國嘻哈製作人 Salaam Remi 的混音版，他因製作 Nas、Amy Winehouse、Sullivan 等人的歌曲而聞名。
 
 #### 曲目表
 ```md

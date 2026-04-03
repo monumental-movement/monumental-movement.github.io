@@ -14,7 +14,7 @@ title: 大滿貫復興 – Eterna I.B.O.
 
 
 透過大滿貫復興
-"I.B.O." は素晴らしいトラックです。Eternaとそのカバー曲は何年も前から知られており、それも良い曲ですが、"I.B.O." は格別のトラックです。
+「I.B.O.」是一條很棒的賽道。 Eterna 及其翻唱歌曲多年來一直廣為人知，而且都是好歌，但《I.B.O.》是一個特殊的軌道。
 
 
 #### 曲目表
@@ -24,7 +24,7 @@ A. Slam–Eterna
 AA. Rejuvination–I.B.O.
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59399198904?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m59399198904?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6-fp_PqehKY?si=F49B1AKB317ovKav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

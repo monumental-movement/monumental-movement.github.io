@@ -11,7 +11,7 @@ tags:
 - New-Wave
 - Post Punk
 - 80s
-title: Furniture – I Can't Crack
+title: 家具——我不能破解
 ---
 
 
@@ -21,7 +21,7 @@ title: Furniture – I Can't Crack
 
 
 
-Furnitureは、1979年から1991年まで活動していたイギリスのポップバンドです。バンドのメンバーは、ジム・アーヴィン（ボーカルとパーカッション）、ティム・ウィーラン（ギター）、ハミルトン・リー（ドラムス）、サリー・スティル（ベース）、マヤ・ギルダー（キーボード）、ラリー・ナゾーン（サックス）でした。
+Furniture 是一支活躍於 1979 年至 1991 年間的英國流行樂團。樂團成員包括 Jim Irvin（主唱和打擊樂）、Tim Whelan（吉他）、Hamilton Lee（鼓）、Sally Still（貝斯）、Maya Gilder（鍵盤）和 Larry Nazone（薩克斯風）。
 
 家具在 20 世紀 80 年代初以其獨特的聲音而流行，融合了流行、新浪潮和後龐克的元素。
 
@@ -45,7 +45,7 @@ A3. Pause
 B1. I Can't Crack (Broken Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

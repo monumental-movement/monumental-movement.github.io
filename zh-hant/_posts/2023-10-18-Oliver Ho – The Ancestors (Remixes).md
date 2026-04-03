@@ -13,7 +13,7 @@ title: Oliver Ho – 《祖先》（混音版）
 ---
 
 
-Oliver Ho（オリヴァー・ホー）は、ロンドンを拠点とするDJ/プロデューサー。「The Ancestors (Remixes)」　は、ハード・ミニマル・テクノを専門とするドイツのテクノレーベルFine Audio Recordingsから2002年にリリースされた。
+Oliver Ho 是一位驻伦敦的 DJ/制作人。 《The Ancestors (Remixes)》由 Fine Audio Recordings 於 2002 年發行，這是一家專門從事硬極簡技術的德國技術廠牌。
 
 B 面是來自英國倫敦的 DJ/製作人 Ben Sims 的混音版。
 

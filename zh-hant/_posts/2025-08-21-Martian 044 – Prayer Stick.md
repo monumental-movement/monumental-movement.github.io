@@ -10,7 +10,7 @@ tags:
 - Techno
 - Electro
 - 90s
-title: 火星人 044 – 祈禱棒
+title: Martian 044 – Prayer Stick
 ---
 
 

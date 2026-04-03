@@ -9,7 +9,7 @@ permalink: /zh-hant/timothy-blake-heat-crime/
 tags:
 - House
 - 10s
-title: Timothy Blake – Heat Crime
+title: 提摩西布萊克－熱犯罪
 ---
 
 

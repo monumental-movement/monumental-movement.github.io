@@ -16,7 +16,7 @@ title: 馬可貝利 – 回放
 
 Marco Bailey 是一位來自比利時的製作人和 DJ。他與自己的唱片公司 Session Recordings 和 Cristian Varela 一起經營 PORNOGRAPHIC 唱片公司。
 
-2023 年，他創立了科技廠牌 Elektronik Zoo Sounds。
+2023年には、テクノレーベルElektronik Zoo Soundsを設立。
 
 《Play It Back》是一首與 Steve Vangilbergen（又名 Redhead）共同製作的電子音樂曲目。
 

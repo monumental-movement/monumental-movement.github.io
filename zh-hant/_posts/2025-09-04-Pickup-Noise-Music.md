@@ -47,7 +47,7 @@ title: 拾取噪音音樂作品
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
 - **背景**：1987 年在東京成立。以 KK.Null 和 Tatsuya Yoshida 為代表，他們跨越前衛搖滾/HC/金屬/噪音搖滾。 1993年在芝加哥錄製。
-- **亮點**：侵略性的聲像範圍從大膽的連複段到即興爆炸。噪音與搖滾交會的代表。
+- **亮點**：侵略性的聲像範圍從大膽的連複段到即興爆炸。噪音与摇滚交汇的代表。
 
 #### 曲目表
 ```md
@@ -107,7 +107,7 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webMy%</a>
 
 
-- **背景**：Masaya Nakahara 的发型设计。 7 吋型號於 1999 年發布，至今仍引領實驗和噪音環境。
+- **背景**：Masaya Nakahara 的髮型設計。 7 吋型號於 1999 年發布，至今仍引領實驗和噪音環境。
 - **亮點**：短版包含剪輯的感覺和噪音過大的瞬間最大風速。非常適合初學者和收藏。
 
 #### 曲目表
@@ -128,7 +128,7 @@ B. Best Of Hair-Style In My Life
 ### 塞巴斯蒂安——抽菸致命
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **背景**：Ed Banger周辺のフレンチ・エレクトロ旗手。未来派エレクトロに“叫ぶようなノイズ”を注入したシングル。  
+- **背景**：Ed Banger 周圍的法國電子旗手。一首為未來電子音樂注入「尖叫噪音」的單曲。
 - **亮點**：「Dolami」的急劇斷裂和飽和。這是在俱樂部形式中享受噪音質感的一個很好的例子。
 
 #### 曲目表
@@ -154,7 +154,7 @@ B2  Shoot
 ### 醉意 – 月球上的裸體 / 太空高爾夫
 <a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.webp"></a>
 
-- **背景**：サンフランシスコのラウンジ・コラージュ・デュオ。アブストラクト／トリップホップ／実験／ノイズ要素が混交。  
+- **背景**：舊金山休息室拼貼二人組。抽象/旅行跳躍/實驗/噪音元素的混合。
 - **值得聆聽的亮點**：Lo-fi 感覺 x Mondo 剪輯。這也是對「耳朵友善的噪音」的愉快介紹。
 
 #### 曲目表
@@ -182,7 +182,7 @@ B2. Space Golf (Venusian Swing Mix)
 <a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
 - **背景**：日本實驗搖滾三重奏。一張計劃中的專輯，其中電子樂/噪音方面透過各種混音師的參與得到增強。
-- **聴きどころ**：ビッグ・ビート～ブレイクビーツ文脈での音響コラージュ。Corneliusらの手つきも含めて編集の快楽を堪能。
+- **亮點**：大節拍和碎拍背景下的原聲拼貼。享受編輯的樂趣，包括科尼利厄斯等人的雙手。
 
 #### 曲目表
 ```md
@@ -210,8 +210,8 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 ## 概括
 
-- **王道の轟音から**入るなら *Merzbird*／裸のラリーズ。  
-- **クラブ文脈で**ノイズの質感を味わうなら *Smoking Kills*。  
+- **如果你想從皇家咆哮進入** *Merzbird*/Naked Rally's。
+- 如果您想體驗俱樂部環境中的噪音質感，請嘗試「吸煙殺人」。
 - **對於拼貼方法**髮型/Tipsy/WXBD。
 - 如果您是**白手起家的人**，請在嘗試之前查看 Eurorack 專欄以了解有關設備的資訊。
 

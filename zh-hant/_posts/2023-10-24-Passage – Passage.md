@@ -9,7 +9,7 @@ permalink: /zh-hant/passage-passage/
 tags:
 - Soul
 - Disco
-title: Passage – Passage
+title: 通道——通道
 ---
 
 

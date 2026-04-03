@@ -11,13 +11,13 @@ tags:
 - Finland
 - Folk
 - rare
-title: Koivun Kaiku – Keepers
+title: Koivun Kaiku – 守護者
 ---
 
 
-1987年にリリースされた「Keepers」は、フィンランドの民族楽器で、ツィター属撥弦楽器の一種であるカンテレ(kantele)によるフォーク＆ワールドミュージック。
+《Keepers》於 1987 年發行，是一首由坎特勒琴（kantele）演奏的民間和世界音樂，坎特勒琴是一種芬蘭民間樂器，也是古箏家族中的一種彈撥樂器。
 
-グループ名Koivun Kaikuは、”Echo of the Birch”＝”白樺の響き”の意味。
+團體名稱 Koivun Kaiku 的意思是「白樺的迴響」。
 
 #### 曲目表
 ```md

@@ -10,13 +10,13 @@ tags:
 - House
 - French House
 - 90s
-title: Glaubitz & Roc – Sunshine Day The French Remixes
+title: Glaubitz & Roc – Sunshine Day 法國混音
 ---
 
 
 來自德國的 Electro/Tech-House/Minimal DJ 和製作人 Carsten Glaubitz 以及 Electro/Tech-House/Minimal 製作人 Oliver Rockstedt（Chris Powell）對“Sunshine Day”的法語混音。
 
-1999年にフレンチ&フィルターハウスレーベルFull Houseからリリースされた。
+它於 1999 年在法國 & Filter house 品牌 Full House 上發布。
 
 A1 是 Robert Collado 和 Stéphane Bonan 的混音版。
 

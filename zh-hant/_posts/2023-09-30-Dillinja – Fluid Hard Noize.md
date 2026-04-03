@@ -8,11 +8,11 @@ layout: post
 permalink: /zh-hant/dillinja-fluid-hard-noize/
 tags:
 - Drum n Bass
-title: Dillinja – Fluid Hard Noize
+title: Dillinja – 流體硬噪音
 ---
 
 
-すべてのドラム＆ベースのファンが大好きなトラックでしょう。誰もが理解できなかったのは、この曲の中で使われている"Reese"サウンド、つまり唸るようなシンセサイザーサウンドがどのように作成されたのか、ということです。おそらくE-MUサンプラーのZプレーンフィルターで処理されていたかもしれません。
+這是每個鼓和貝斯迷都會喜歡的曲目。沒有人理解這首歌的“Reese”聲音（一種呼呼的合成器聲音）是如何產生的。它可能是由 E-MU 採樣器的 Z 平面濾波器處理的。
 
 這種 Reese 聲音被用於各種曲目，包括“Nasty Ways”、“Take My Life”、“Love Is Not a Game Remix”和“Bambaata Remix”，其變體也被用於“Tudor Rose”和“Go Dillinja”。
 

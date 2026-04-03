@@ -16,7 +16,7 @@ title: Cari Lekebusch – Universalsessions - Instrumentalicks
 
 Cari Lekebusch 於 1999 年發行。 B面的電子音樂尤其出色。
 
-ダークなメロディが静けさを感じさせるトラックです。
+這是一首帶有黑暗旋律的歌曲，給人一種寧靜的感覺。
 
 #### 曲目表
 ```md

@@ -9,11 +9,11 @@ permalink: /zh-hant/public-enemy-fear-of-a-black-planet/
 tags:
 - Hiphop
 - Classic
-title: Public Enemy – Fear Of A Black Planet
+title: 公眾之敵－對黑色星球的恐懼
 ---
 
 
-Public Enemyの「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
+Public Enemy 的《Fear of a Black Planet》作為一張音樂和概念上都非常出色的專輯而廣受好評。
 
 
 #### 曲目表

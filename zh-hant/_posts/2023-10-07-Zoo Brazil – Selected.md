@@ -14,7 +14,7 @@ title: 巴西動物園 – 精選
 
 
 「選定」是
-2002年にドイツのレーベル「Great Stuff Recordings」からリリースされたZoo BrazilによるEPです。
+這是 Zoo Brazil 於 2002 年由德國廠牌「Great Stuff Recordings」發行的 EP。
 
 #### 曲目表
 ```md

@@ -11,13 +11,13 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Intergalactic Phonk – The Source EP
+title: 星際管風琴 – The Source EP
 ---
 
 
 Intergactic Phonk 是 Frederik Soderstrom 和 Sina Morshed Solouk 的二人組。更廣為人知的名字是魔鬼魚。
 
-「The Source EP」は、2000年にレーベルFrequentからリリースされた Tribal／Techno／Minimalトラック。
+《The Source EP》是 2000 年由Frequent 廠牌發行的部落/科技/簡約曲目。
 
 #### 曲目表
 ```md

@@ -10,13 +10,13 @@ tags:
 - Disco
 - Soul
 - 80s
-title: 史蒂夫旺德——兼職情人
+title: Stevie Wonder – 兼任情人
 ---
 
 
 《Part-Time Lover》是 R&B 歌手兼作曲家 Stevie Wonder 的第 20 張錄音室專輯《In Square Circle》（1985 年）中的第一首單曲。
 
-この曲は、ビルボード・ホット100、R&B、ダンス、アダルト・コンテンポラリー・チャートで1位を獲得し、Stevie Wonder最後のナンバーワン・ヒット曲となった。
+這首歌在 Billboard Hot 100、R&B、舞曲和成人當代排行榜上名列第一，成為史蒂夫旺德最後一首排名第一的單曲。
 
 這首歌由 R&B 歌手 Luther Vandross 進行即興表演和和聲，並由 Earth、Wind and Fire 的 Syreeta Wright 和 Philip Bailey 演唱。
 

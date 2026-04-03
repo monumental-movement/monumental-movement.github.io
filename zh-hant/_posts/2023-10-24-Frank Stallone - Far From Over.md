@@ -10,13 +10,13 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: Frank Stallone - Far From Over
+title: 弗蘭克史泰龍 - 遠未結束
 ---
 
 
 法蘭克史泰龍是美國搖滾歌手，演員西爾維斯特史泰龍的弟弟。
 
-法蘭克史泰龍的熱門單曲《Far From Over》被收錄在西爾維斯特史泰龍執導的 1983 年舞曲音樂電影《Staying Alive》和 1977 年電影《週末夜狂熱》的續集中。
+Frank Stalloneヒットシングル「Far From Over(ファー・フロム・オーバー)」は、1977年『 Saturday Night Fever(サタデー ナイト フィーバー)』の続編として作られた、1983 年のダンスミュージカル映画『Staying Alive(ステイイング・アライブ)』（監督：シルベスター・スタローン）のサウンドトラックに収録されました。
 
 #### 曲目表
 ```md

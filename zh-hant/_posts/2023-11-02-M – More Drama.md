@@ -15,7 +15,7 @@ title: M——更多戲劇
 ---
 
 
-《'M' – More Drama》是傑夫·米爾斯 (Jeff Mills) 於 1992 年創立的科技唱片公司 Axis 上以“M”為名發行的一首科技歌曲。
+《'M' – More Drama》是傑夫米爾斯 (Jeff Mills) 於 1992 年創立的科技唱片公司 Axis 上以“M”為名發行的一首科技歌曲。
 
 #### 曲目表
 ```md

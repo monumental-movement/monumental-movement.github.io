@@ -9,7 +9,7 @@ permalink: /zh-hant/pickup-detroit-techno/
 tags:
 - Detroit Techno
 - 90s
-title: デトロイト・テクノ(Detroit Techno)作品をピックアップ
+title: 挑選底特律 Techno 的作品
 ---
 
 
@@ -23,7 +23,7 @@ title: デトロイト・テクノ(Detroit Techno)作品をピックアップ
 
 特色：：1997 年，來自比利時 Elypsia 品牌。這項工作結合了對底特律的尊重和我自己的探索意識。
 
-推薦重點：它在嚴肅的最小開發上有獨特的轉變，當你想在你的場景中保持緊密的流程時，這是你可以依賴的一塊。
+推薦重點：它在嚴肅的最小化開發方面有獨特的特色，當你想在你的場景中保持緊密的流程時，這是你可以依賴的一塊。
 
 #### 曲目表
 ```md
@@ -82,7 +82,7 @@ B2. Fade
 ### 型號 500 – 流量
 <a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
-特徴：シンプルなシンセリフとリズムが織りなすミニマルなトラック構造。空間的で浮遊感のあるシンセワークと、クールで機械的なリズム感が特徴的。
+特點： 最小的軌道結構，具有簡單的合成線和節奏。它的特點是其空間感、浮動的合成器作品和冷靜、機械的節奏。
 
 推薦點：一首讓你體驗底特律techno起源的歌曲。透過在 DJ 設備中儘早添加它，您可以在地板上營造出「底特律般的宇宙感」。即使對於初學者來說也很容易聽，非常適合理解 Model 500 的世界觀。
 
@@ -128,7 +128,7 @@ T2. The Flow M38 (Alex Reece Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -172,7 +172,7 @@ B2. Ultradyne–War Drum - Live
 
 特色：黑暗、悠揚、充滿活力、適合跳舞的節奏。
 
-推薦重點：現代且非常獨特的聲音。如果您在深夜俱乐部或高峰时段播放这首歌曲，会极大地活跃气氛。
+推薦重點：現代且非常獨特的聲音。如果您在深夜俱樂部或高峰時段播放這首歌曲，將會大大活躍氣氛。
 
 #### 曲目表
 ```md
@@ -199,7 +199,7 @@ AA2. Soundtrack
 ### 傑夫米爾斯 – Very EP
 <a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.p"></a>
 
-特色： 簡約而緊張的單品，非常適合俱樂部熱身。
+特徴：クラブのウォームアップに最適とされる、ミニマルで緊張感のある作品。
 
 推薦重點：簡單卻逐漸累積的聲像拉緊地板，讓你從一開始就創造出自己獨特的世界觀。
 
@@ -252,9 +252,9 @@ B2. Black Avenger
 
 
 ### Jeff Mills – Skin Deep EP
-<a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.
+<a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
 
-特徴：収録曲「Call Of The Wild」でマイケル・ジャクソン『Off The Wall』からのパーカッションを引用。
+特點：歌曲《野性的呼喚》引用了麥可傑克森的《Off The Wall》中的打擊樂。
 
 推薦重點：底特律techno的硬朗手感與黑人音樂的律動相結合，賦予地板獨特的驅動力。
 
@@ -306,7 +306,7 @@ B. Circus (The Big Finale Mix)
 ###  「M」—更多戲劇（以 Axis 為名）
 <a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webges/M%20%E2%80%93%20More%20Drama.webp"></a>
 
-特徴：1992年、Axisからリリースされた“M”名義のトラック。初期デトロイト・ミニマルを代表する一曲。
+特色： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡風格的歌曲。
 
 推薦重點： 可以體驗90年代初地下感覺的收藏家必備的一張唱片，聲音粗獷卻渾厚。
 

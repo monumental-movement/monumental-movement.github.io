@@ -13,7 +13,7 @@ title: 羅辛頓柯林斯樂隊 – 隨時隨地
 ---
 
 
-『Anytime, Anyplace, Anywhere』は、1980年にリリースされたRossington Collins Band（ロッシントン・コリンズ・バンド）の最初のスタジオ・アルバムで、彼らの代表曲「Don't Misunderstand Me」が収録されている。
+《Anytime, Anyplace, Anywhere》是羅辛頓·柯林斯樂隊 (Rossington Collins Band) 於 1980 年發行的第一張錄音室專輯，其中包括他們的標誌性歌曲“Don’t Misunderstand Me”。
 
 #### 曲目表
 ```md

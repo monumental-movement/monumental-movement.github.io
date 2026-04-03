@@ -15,7 +15,7 @@ title: Filter Science – Darkness Falls (Joey Beltram Remix)
 
 這首《Filter Science – Darkness Falls (Joey Beltram Remix)》是第二次壓制。
 
-這首曲目由澳洲墨爾本的 Shane Andrews 製作，並由美國紐約的 Joy Bertram 重新混音。
+トラックは、オーストラリア・メルボルンにて、シェーン・アンドリュース氏によって制作され、リミックスはアメリカ・ニューヨークにて、ジョイ・ベルトラム。
 
 #### 曲目表
 ```md

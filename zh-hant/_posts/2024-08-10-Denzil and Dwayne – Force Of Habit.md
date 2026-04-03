@@ -14,7 +14,7 @@ title: 丹齊爾和德韋恩——習慣的力量
 ---
 
 
-Denzil & Dwaynは、オランダのトランスプロデューサーでありArmada Musicの創設者の1人Maykel Pironとオランダのミュージシャン・音楽プロデューサーMichiel Van Der Kuyによるプロジェクト。
+Denzil & Dwayn 是荷蘭 trance 製作人、Armada Music 創始人之一 Maykel Piron 和荷蘭音樂家兼音樂製作人 Michiel Van Der Kuy 的專案。
 
 《Force Of Habit》是荷蘭廠牌 Flammable 於 1999 年發行的 trance 歌曲。
 

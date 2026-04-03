@@ -48,10 +48,10 @@ B6. In Sickness & In Health
 <小時>
 
 ### 幫 - Barricada Rumble Beat
-<a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%203%20%E2%80%93%20Barricada%20Rumble%203>
+<a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-義大利龐克樂團的作品。來自英國的比利·布拉格 (Billy Bragg) 部分參與的罕見作品。
+來自義大利的龐克樂團的作品。來自英國的比利·布拉格 (Billy Bragg) 部分參與的罕見作品。
 
 #### 曲目表
 ```md

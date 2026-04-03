@@ -30,5 +30,5 @@ B1. Linus & Lucy (Listen To My Face Mix)
 B2. Modesty (Mode-Esty Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
 

@@ -13,7 +13,7 @@ title: 提交 DJ – Maringa
 ---
 
 
-Submission Dj's 是由西班牙 DJ Juan Maria Diaz Fernandez（Submission DJ/Submission）和 Daniel David Fernández（DJ Farrukeit）組成的組合。
+Submission Dj's（サブミッションDj's）は、スペインのDJ、Juan Maria Diaz Fernandez(SubmissionDJ/Submission)とDaniel David Fernández(DJ Farrukeit)のユニット。
 
 於 2009 年在 Tribal Spain Recordings 發行，該唱片公司是西班牙廠牌 Vendetta Records（Blanco Y Negro Music S.A. 的室內部門）的子廠牌。
 

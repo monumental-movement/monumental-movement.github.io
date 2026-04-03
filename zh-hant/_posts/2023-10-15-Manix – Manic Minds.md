@@ -19,7 +19,7 @@ title: Manix – 躁狂的頭腦
 追蹤人工智慧
 
 Synth：模組化擴充 - 立方體
-擊鼓：溫斯頓一家 - 阿門，兄弟。
+鼓聲：溫斯頓一家 - 阿門，兄弟。
 聲樂/刮擦：叢林兄弟 - 吉米的獎勵節拍。
 演唱：謝麗爾林恩 - 安可。
 
@@ -31,7 +31,7 @@ Synth：模組化擴充 - 立方體
 
 追蹤AAi
 
-鋼琴 Sterling Void - 不想走。
+ピアノ Sterling Void - Don't Wanna Go.
 演唱：《勒索》，迪漢布魯克斯 (Dihan Brooks) 演唱 - How Do You See Me Now。
 
 #### 曲目表

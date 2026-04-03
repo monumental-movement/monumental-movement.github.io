@@ -10,7 +10,7 @@ permalink: /zh-hant/ruff-driverz-chosen-ones/
 tags:
 - Trance
 - 00s
-title: Ruff Driverz – Chosen Ones
+title: Ruff Driverz－選民
 ---
 
 
@@ -25,7 +25,7 @@ A. Chosen Ones (Agnelli & Nelson Mix)
 B. Chosen Ones (Ruff Driverz Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63894983323?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m63894983323?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XOW_JXhYJIg?si=aaxewZYetlbb9yM2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

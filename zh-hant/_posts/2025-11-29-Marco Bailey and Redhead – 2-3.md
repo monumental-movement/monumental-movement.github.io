@@ -14,7 +14,7 @@ title: 馬可貝利 & 紅髮女郎 – 2 3
 ---
 
 
-ベルギーテクノ界のトップDJデュオ、Marco Bailey(マルコ・ベイリー)とRedhead(レッドヘッド/ Steve Vangilbergen)が、レーベルInvasionから2000年にリリースしたTechnoトラック。
+比利時 techno 界頂級 DJ 二人組 Marco Bailey 和 Redhead（Steve Vangilbergen）於 2000 年在 Invasion 廠牌上發行的 Techno 曲目。
 
 #### 曲目表
 ```md

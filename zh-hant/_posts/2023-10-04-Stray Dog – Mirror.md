@@ -12,7 +12,7 @@ title: 流浪狗 – 鏡子
 ---
 
 
-「Mirror」は、
+「鏡子」是
 這是Stray Dog（DJ Tiesto）於1999年由荷蘭廠牌「Black Hole Recordings」發行的一張EP。
 
 #### 曲目表

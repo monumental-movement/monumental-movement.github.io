@@ -16,7 +16,7 @@ title: 時空連續體 – 發射 Ecaps
 ---
 
 
-90年代のアンダーグラウンド テクノ・アンビエント・エレクトロニカシーンの重鎮、Spacetime Continuum（スペースタイムコンティニウム）ことJonah Sharp（ジョナ・シャープ）が、自身のレーベルReflective Recordsから1996年にリリースした２枚組LP。
+Jonah Sharp（又名 Spacetime Continuum）於 1996 年發行了一張雙唱片，他是 90 年代地下科技/環境/電子樂界的中堅力量，在他自己的廠牌 Reflective Records 上發行。
 
 #### 曲目表
 ```md

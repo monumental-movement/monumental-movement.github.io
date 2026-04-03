@@ -15,7 +15,7 @@ title: 非洲班巴塔和韋斯特班 – 阿格哈塔
 
 「阿加塔」是
 1998 年由德國唱片公司「Low Spirit Recordings」發行
-這是 Afrika Bambaataa 和 West Bum 創作的 EP。
+アフリカ・バンバータとウエストバムによるEPです。
 
 #### 曲目表
 ```md

@@ -13,9 +13,9 @@ title: 米歇爾·德黑 + M.I.R.K.O. – 另一個維度
 ---
 
 
-ダッチ・テクノの重鎮Michel De Heyと、ダッチ・テクノ&プログレッシブトランスプロデューサーM.I.R.K.O.ことMirko van DommelenによるTechnoトラック。
+荷蘭 techno 堅定擁護者 Michel De Hey 和荷蘭 techno 與前衛 trance 製作人 Mirko van Dommelen（又名 M.I.R.K.O）創作的 Techno 曲目。
 
-Michel De Hey とJeroen VerheijによるレーベルEC Recordsから2005年にリリースされた。
+該專輯於 2005 年由 Michel De Hey 和 Jeroen Verheij 旗下的 EC Records 發行。
 
 #### 曲目表
 ```md

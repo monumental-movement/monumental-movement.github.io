@@ -15,7 +15,7 @@ title: Magicnumber – Flyaway
 
 
 
-Magicnumberは、イギリスのミュージシャン／作曲家／プロデューサー／ベーシストRoss Hillardの別名義。Magicnumber名義では、ハウス、ソウル、ダウンテンポ、ジャズ〜オーケストラル要素を取り入れた幅広いサウンドを展開している。
+Magicnumber 是英國音樂家/作曲家/製作人/貝斯手 Ross Hillard 的別名。他以 Magicnumber 為名，開發了多種聲音，融合了 house、soul、downtempo、爵士樂和管弦樂元素。
 
 《Flyaway》是 Deep House 的一首歌曲，由專門從事現代和都市俱樂部/酒廊音樂的 Stereo Deluxe 唱片公司於 2004 年發行。
 

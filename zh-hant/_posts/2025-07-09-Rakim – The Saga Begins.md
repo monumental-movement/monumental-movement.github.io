@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/rakim-the-saga-begins/
 tags:
 - Hiphop
-title: Rakim – The Saga Begins
+title: 拉基姆－傳奇開始
 ---
 
 

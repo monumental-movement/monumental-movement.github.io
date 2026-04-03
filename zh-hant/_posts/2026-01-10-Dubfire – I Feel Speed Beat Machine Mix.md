@@ -14,7 +14,7 @@ title: Dubfire – 我感覺速度（Beat Machine Mix）
 ---
 
 
-Ali Shirazinia，也稱為 Dubfire，是一位出生於伊朗、現居美國的 House & Techno DJ/製作人。他經營 Electro/Techno 的數位唱片公司 SCI + TEC Digital Audio。他還與 Sharam Tayebi 一起以 Deep Dish 組合活躍，並因對 De’Lacy 的《Hideaway》和 Dido 的《Thank You》進行混音而聞名。 2006 年，他因 Deep Dis 的《Say Hello》而獲得格萊美最佳舞曲/電子錄音獎提名。
+Ali Shirazinia，也稱為 Dubfire，是一位出生於伊朗、現居美國的 House & Techno DJ/製作人。他經營 Electro/Techno 的數位唱片公司 SCI + TEC Digital Audio。他還與 Sharam Tayebi 一起活躍於 Deep Dish 組合，並因對 De’Lacy 的《Hideaway》和 Dido 的《Thank You》進行混音而聞名。 2006 年，他因 Deep Dis 的《Say Hello》而獲得格萊美最佳舞曲/電子錄音獎提名。
 
 這張唱片於 2008 年發行，是 Dubfire 的“I Feel Speed”與 Beat Machine Techno/Electro 混合的非正式版本。 （單面僅 A 面）
 

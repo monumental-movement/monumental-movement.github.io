@@ -24,7 +24,7 @@ Joy Beltrame 被廣泛認為是地下舞曲音樂的早期創新者。
 
 一年後，他們引起了比利時 R&S Records 的注意，該唱片公司於 1990 年中期發行了他們的第一張主要唱片《Energy Flash》，隨後又發行了一系列同樣令人印象深刻的唱片。
 
-90年代を通して、彼は当時の最先端レーベルで、今も色褪せない音楽を作り続けてきました。
+整個 90 年代，他繼續為當時最前衛的唱片公司創作永恆的音樂。
 
 1999 年，他創立了自己的廠牌 STX Records，目前與 JB³ 和 Joey Beltram 合作錄製唱片。
 
@@ -37,7 +37,7 @@ B1. Game Form (Robert Armani Remix)
 B2. Game Form (Mike Dearborn Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MtnPtB2zXg?si=ifdPGm4LKvaHfMXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

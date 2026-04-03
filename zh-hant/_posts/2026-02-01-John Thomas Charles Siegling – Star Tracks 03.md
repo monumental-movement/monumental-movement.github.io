@@ -15,7 +15,7 @@ title: 約翰·托馬斯·查爾斯·西格林 – 星軌 03
 
 
 
-John Thomasは、フランスのエレクトロニックミュージックプロデューサーでありGinga Musicの共同創設者。ミニマル・エレクトロニック・ミュージック・プロデューサー／DJ Jean-Guillaume CabanneとJeff LassonとのプロジェクトThe Collectiveとしても活動した。
+約翰·托馬斯 (John Thomas) 是一位法國電子音樂製作人，也是 Ginga Music 的聯合創始人。他還與最小電子音樂製作人/DJ Jean-Guillaume Cabanne 和 Jeff Lasson 一起參與了 The Collective 計畫。
 
 Charles Siegling，也稱為 Technasia，是一位 DJ/音樂家。
 

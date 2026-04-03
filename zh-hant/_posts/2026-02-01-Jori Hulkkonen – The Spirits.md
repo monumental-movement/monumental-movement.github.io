@@ -16,7 +16,7 @@ title: 喬裡·胡爾科寧——烈酒隊
 
 
 
-Jori Hulkkonen 是一位芬蘭 DJ/house 製作人，自 20 世紀 90 年代初以來一直活躍。他曾与 John Foxx、Jose Gonzales、Jesper Dahlbäck（饰演 Kebacid）和 Phonogenic（饰演 Discemi）等多才多艺的艺术家以及 Chromeo、Kid Cudi、Robyn 和 Lydia Lunch 等混音艺术家合作。
+Jori Hulkkonen 是一位芬蘭 DJ/house 製作人，自 20 世紀 90 年代初以來一直活躍。他曾與 John Foxx、Jose Gonzales、Jesper Dahlbäck（飾演 Kebacid）和 Phonogenic（飾演 Discemi）等多才多藝的藝術家以及 Chromeo、Kid Cudi、Robyn 和 Lydia Lunch 等混音藝術家合作。
 
 《The Spirits》是一首 House/Tech House/Deep House 曲目，由著名的法國電子舞曲音樂廠牌 F Communications 於 1998 年發行。
 

@@ -14,7 +14,7 @@ title: 各種 – Sandou.EP 002
 
 
 「Sandou.EP 002」是
-1997年に日本のレーベル「Sandou Records」からリリースされたEPです。
+這是日本廠牌「Sandou Records」於1997年發行的一張EP。
 
 #### 曲目表
 ```md

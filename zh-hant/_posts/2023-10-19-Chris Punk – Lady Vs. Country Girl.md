@@ -22,5 +22,5 @@ A. Chris Punk Vs. Untamed Society–Country Girl
 B. Chris Punk–Lady
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16937403406?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m16937403406?afid=6142608987){: .button1}
 

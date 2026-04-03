@@ -14,13 +14,13 @@ title: VA – 情感 E.P.
 ---
 
 
-Tribal/Techno 合輯於 2002 年由 Cristian Varela 的廠牌 Donkey Head Recordings 發行。
+Cristian Varela 的唱片公司 Donkey Head Recordings 於 2002 年發行了 Tribal/Techno 合輯。
 
-BandoことManuel Río Martinは、スペイン出身のDJ／プロデューサーであり、レーベルPatchwork (N.E.W.S.のサブレーベル)の設立者。
+Manuel Río Martin，也被稱為 Bando，是一位西班牙 DJ/製作人，也是 Patchwork 廠牌（N.E.W.S. 的子廠牌）的創始人。
 
-Cristian Varela，也稱為 Carlos Duran，是一位西班牙 techno house DJ 和製作人，他與 Marco Bailey 共同創立了 Pornographic Recordings 廠牌。
+Cristian Varela，又名 Carlos Duran，是一位西班牙 techno house DJ 和製作人，與 Marco Bailey 共同創立了 Pornographic Recordings 廠牌。
 
-Tim Baker 是来自底特律的 DJ/制作人。一位傳奇的底特律 DJ，曾與 Jeff Mills 一起駐留在 Nectarine Club，也與 Tresor 一起活躍在歐洲。 （2021 年逝世）
+Tim Baker 是来自底特律的 DJ/制作人。一位传奇的底特律 DJ，曾与 Jeff Mills 一起居住在 Nectarine Club，还与 Tresor 一起活跃在欧洲。 （2021 年逝世）
 
 #### 曲目表
 ```md
