@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【コラム】 ワイルド・スピード(（Fast & Furious）と違法スピードの音：都市・映画・音楽が生んだ感覚の正体"
+title: "【コラム】 ワイルド・スピード（Fast & Furious）と違法スピードの音：都市・映画・音楽が生んだ感覚の正体"
 author: mmr
 categories: [ Column ]
 tags: [ Movie, Culture, Sound Design ]
@@ -118,8 +118,10 @@ color: #fff;
 | 2011   | 国際展開   | スケールの大きい音響設計           |
 | 2015以降 | グローバル化 | EDM・オーケストラの融合          |
 
+---
+
 <div class="mermaid">
-graph LR
+graph TD
 A[ストリートレース] --> B[リアルなエンジン音]
 B --> C[ヒップホップ]
 C --> D[映画的誇張]

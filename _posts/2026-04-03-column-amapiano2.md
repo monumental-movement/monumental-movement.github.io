@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【コラム】 なぜこAMAPIANOは世界中で流れているのか"
+title: "【コラム】 なぜAMAPIANOは世界中で流れているのか"
 author: mmr
 categories: [ Column ]
 tags: [ Amapiano, South Africa, Clture ]
