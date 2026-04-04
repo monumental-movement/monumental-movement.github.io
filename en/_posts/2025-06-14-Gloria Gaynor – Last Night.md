@@ -14,11 +14,11 @@ title: Gloria Gaynor – Last Night
 ---
 
 
-A面1、2曲目は、イタリアのHOUSE DJ・プロデューサーAndrea T. Mendoza とMauro Ferrucci & Frankie TamburoによるプロダクションデュオT&Fによるremix。
+The first and second songs on Side A are remixes by Italian HOUSE DJ/producer Andrea T. Mendoza and production duo T&F of Mauro Ferrucci & Frankie Tamburo.
 
-A面3曲目は、アメリカのシンセポップライター&コンポーザーDave Searsによるremix。
+The third track on Side A is a remix by American synth pop writer and composer Dave Sears.
 
-B面は、イギリスのミュージシャン、ソングライター、DJ、音楽監督、アレンジャーSteve Anderson(スティーヴ・アンダーソン)によるremix。
+The B-side is a remix by British musician, songwriter, DJ, music director, and arranger Steve Anderson.
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ A3. Last Night (Dave Sears Club Mix)
 B1. Last Night (Steve Anderson Mardi Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YF1VG-hlDM8?si=qAmA23928WjjbunF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

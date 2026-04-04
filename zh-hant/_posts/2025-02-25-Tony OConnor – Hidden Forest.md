@@ -10,11 +10,11 @@ tags:
 - New Age
 - Ambient
 - 90s
-title: 東尼歐康納－隱藏森林
+title: 東尼歐康納－隱密森林
 ---
 
 
-托尼·奧康納 (Tony O'Connor) 是澳大利亞昆士蘭州的環境/放鬆音樂創作者。
+托尼·奧康納 (Tony O'Connor) 是一位來自澳洲昆士蘭的環境/放鬆音樂創作者。
 
 這張專輯於 1993 年由澳洲攝影師 Steve Parish 的唱片公司發行。
 

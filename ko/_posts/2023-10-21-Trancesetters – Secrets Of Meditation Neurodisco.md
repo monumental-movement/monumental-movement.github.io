@@ -13,7 +13,7 @@ title: Trancesetters – Secrets Of Meditation Neurodisco
 ---
 
 
-Trancesetters(트랜스세터)는 Gaston Steenkist와 Alex Dijksterhuis의 프로젝트. Remix는 SHITAKE, 라벨 Zoom Records의 주재 Billy Nasty와 David Wesson에 의한 것.
+Trancesetters(트랜스세터)는, Gaston Steenkist와 Alex Dijksterhuis에 의한 프로젝트. Remix는 SHITAKE, 라벨 Zoom Records의 주재 Billy Nasty와 David Wesson에 의한 것.
 
 #### Tracklist
 ```md

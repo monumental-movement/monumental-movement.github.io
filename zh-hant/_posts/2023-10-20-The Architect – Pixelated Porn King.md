@@ -9,11 +9,11 @@ permalink: /zh-hant/the-architect-pixelated-porn-king/
 tags:
 - Techno
 - Minimal
-title: The Architect – Pixelated Porn King
+title: 建築師 – 像素化色情之王
 ---
 
 
-建築師是 DJ/製作人 Jay Haze 的別名。還有Fuckpony、Sub Version等。 Jay Haze负责与Ricardo Villalobos、Samim Winiger的合作，以及Hell、P. Diddy、Gui Boratto等的混音。在他的混音作品中，Yann Tiersen 为电影《天使爱美丽》创作的主题曲成为跨界热门歌曲。
+建築師是 DJ/製作人 Jay Haze 的別名。還有Fuckpony、Sub Version等。 Jay Haze負責與Ricardo Villalobos、Samim Winiger的合作，以及Hell、P. Diddy、Gui Boratto等的混音。在他的混音作品中，Yann Tiersen 為電影《天使愛美麗》創作的主題曲成為跨界熱門歌曲。
 
 《Pixelated Porn King》由 Tuning Spork Records 於 2002 年發行。
 

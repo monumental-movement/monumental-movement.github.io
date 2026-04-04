@@ -33,5 +33,5 @@ B3. Pure As Gold (Clean)
 B4. Pure As Gold (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82257965192?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m82257965192?afid=6142608987){: .button1}
 

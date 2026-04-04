@@ -10,7 +10,7 @@ tags:
 - House
 - Latin
 - 90s
-title: 엘 쿠바노 – 에스타 에라 비다
+title: El Cubano – Esta E' La Vida
 ---
 
 

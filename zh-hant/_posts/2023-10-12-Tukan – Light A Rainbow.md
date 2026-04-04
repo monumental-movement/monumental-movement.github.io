@@ -17,7 +17,7 @@ Tukan 是一個由丹麥製作人 Lars Frederiksen 和 Søren Weile 組成的 tr
 
 《Light A Rainbow》由德國 trance/hard trance 廠牌 Drizzly 於 2000 年發行，成為當時的俱樂部熱門歌曲，經常在俱樂部和派對上播放。
 
-A面はドイツのトランスアーティストGreen Courtによるremix。B面２曲目はドイツ出身のDJ Worris（Lars Höhler）によるremix。
+Side A 是德國恍惚藝術家 Green Court 的混音版。 B 面的第二首歌曲是德國 DJ Worris (Lars Höhler) 的混音版。
 
 #### 曲目表
 ```md

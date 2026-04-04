@@ -19,7 +19,7 @@ title: 路易斯奧斯本 – 瑪雅
 
 「Maia」是一首 Electro/Tech House 曲目，由德國漢堡廠牌 Kingdom Kome Cuts 於 2007 年發行。聯合製作人是德國 trance 和 house 製作人奧利弗·戈迪克 (Oliver Goedicke) 和托馬斯·沃茲尼克 (Thomas Woznik)。
 
-Bは、 Hardfloor、Fragma、Paffendorf、E-TraxのメンバーだったRamon Zenkerによるリミックス。
+B 是 Ramon Zenker 的混音作品，Ramon Zenker 曾是 Hardfloor、Fragma、Paffendorf 和 E-Trax 的成員。
 
 #### 曲目表
 ```md

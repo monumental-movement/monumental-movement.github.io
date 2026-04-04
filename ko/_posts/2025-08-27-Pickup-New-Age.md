@@ -23,7 +23,7 @@ title: New Age(뉴에이지) 작품을 픽업
 특징 : Schawkie Roth는 힐링, 명상, 휴식 음악 및 어쿠스틱 재즈를 전문으로하는 작곡가로 뉴 에이지 영적 음악의 선구자 중 하나입니다.
 
 
-매력: 동양적인 철학과 서양 음악이 융합된 명상과 휴식에 최적인 작품입니다.
+매력: 동양적인 철학과 서양 음악이 융합된 명상과 휴식에 이상적인 작품입니다.
 
 #### Tracklist
 ```md
@@ -52,7 +52,7 @@ B3. Dance of Bamboo
 
 특징: 나가노현 출신의 음악가·뮤직 테라피스트·신디사이저 연주자인 미야시타 토미미오의 작품입니다.
 
-매력 : 깊은 명상 상태를 촉진하는 신디사이저의 음색이 특징으로, 심신의 릴렉제이션에 적합합니다.
+매력: 깊은 명상 상태를 촉진하는 신디사이저의 음색이 특징으로, 심신의 릴렉제이션에 적합합니다.
 
 #### Tracklist
 ```md
@@ -107,9 +107,9 @@ B5. Astral Trip
 ### Patrick Bernhardt – Atlantis Angelis
 <a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp"></a>
 
-특징 : 캐나다의 라벨 "Imagine Records"에서 발표 된 Patrick Bernhardt의 앨범입니다. 앰비언트와 뉴에이지의 요소를 융합시킨 환상적인 소리 세계가 펼쳐집니다.
+특징 : 캐나다 라벨 "Imagine Records"에서 출시 된 Patrick Bernhardt의 앨범입니다. 앰비언트와 뉴에이지의 요소를 융합시킨 환상적인 소리 세계가 펼쳐집니다.
 
-매력 : 깊은 명상 상태를 촉진하는 신디사이저의 음색이 특징으로, 심신의 릴렉제이션에 적합합니다.
+매력: 깊은 명상 상태를 촉진하는 신디사이저의 음색이 특징으로, 심신의 릴렉제이션에 적합합니다.
 
 #### Tracklist
 ```md
@@ -199,7 +199,7 @@ B3. Transcendastral Voyage
 ### Deep Forest – Deep Forest
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
-특징 : 프랑스 듀오 Deep Forest의 1992 년 릴리스의 앨범입니다. 에스닉, 일렉트로닉, 댄스 비트, 칠 아웃 비트를 믹스한 월드 뮤직의 스타일이 특징입니다.
+특징: 프랑스의 듀오 Deep Forest에 의한 1992년 릴리스의 앨범입니다. 에스닉, 일렉트로닉, 댄스 비트, 칠 아웃 비트를 믹스한 월드 뮤직의 스타일이 특징입니다.
 
 매력 : 다양한 민족 음악을 도입한 사운드가 이문화의 여행으로 초대합니다.
 

@@ -88,7 +88,7 @@ It is the beginning of a break from the genre, and cannot be categorized as so-c
 # 4. Expansion of Koichi Makigami"s activities (late 1980s – 1990s)
 —To techno, folk music, theremin, and performing arts
 
-In parallel with the group's activities, leader Koichi Makigami is expanding the scope of his activities with a focus on **expansion of voice**.
+In parallel with group activities, leader Koichi Makigami expands the scope of his activities with a focus on **expansion of voice**.
 
 - Further exploration of overtone singing
 - Collaboration with contemporary dance
@@ -159,7 +159,7 @@ The theremin's unstable pitch disturbs the structure of the song while giving it
 # 8. Overview of main members
 
 - **Koichi Makigami**: Voice: Theremin. the center of the band. A wide range of activities from avant-garde music to theater to folk music.
-- **Mita Chojin**: Guitar. Skilled in acoustic processing and irregular playing techniques.
+- **Mita Chojin**: Guitar. Uses acoustic processing and irregular playing techniques.
 - **Akira Toyama** (temporary participation): Drums. Introducing a sense of jazz/improvisation into the band.
 - **Masami Sakaide**: Bass. Contributes to the complexity of the rhythm structure.
 - **Makoto Inoue** (initial): Keyboard. It determined Hikashu's techno/new wave feel in the early days.

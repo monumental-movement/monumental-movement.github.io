@@ -14,7 +14,7 @@ title: French Kicks – Close To Modern (Remixes)
 ---
 
 
-French Kicks(프렌치 킥스)는, 뉴욕 출신의 미국의 인디 록 밴드. 차고 잠금, 포스트 펑크, 모드 팝을 믹스 한 스타일이 특징.
+French Kicks(프렌치 킥스)는, 뉴욕 출신의 미국의 인디 록 밴드. 차고 락, 포스트 펑크, 모드 팝을 믹스 한 스타일이 특징.
 
 여기 레코드는, French Kicks의 퍼스트 스튜디오 앨범 「One Time Bells」에 수록된 「Close To Modern」의 리믹스판.
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/willie-stubz-the-industry-come-with-me/
 tags:
 - Hiphop
 - Gangsta
-title: Willie Stubz – The Industry Come With Me
+title: 威利·斯塔布茲（Willie Stubz）——業界與我同行
 ---
 
 
@@ -31,7 +31,7 @@ B2. Come With Me (Dirty)
 B3. Come With Me (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m69076614496?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m69076614496?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P-7DpuvTU2I?si=_s1JjFd6w5eZyHTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,9 +17,9 @@ title: 賈克·普隆戈——火箭基地
 
 他們也被稱為 DJ Zki & Dobre 和 René Et Gaston，他們於 1991 年開始合作。
 
-同年，他們創立了Fresh Fruit唱片公司。他們在 Fresh Fruit 上發行的大部分曲目都來自於 1995 年離開廠牌之前。
+同年，他們創立了Fresh Fruit唱片公司。他們在 Fresh Fruit 上發行的大部分曲目都來自 1995 年離開廠牌之前。
 
-彼らの離脱後、Jark ProngoはPssst Musicを設立し、それ以前と同様にさまざまな別名でプロダクションをリリースし、1998年にJark Prongoの本当のサクセスストーリーが始まりました。
+他們離開後，Jark Prongo 創立了 Pssst Music，一如既往地以各種化名發行作品，1998 年 Jark Prongo 真正的成功故事開始了。
 
 Sasha 演奏的《Movin' Thru Your System》廣受好評，並收錄在 Global Underground CD 中。
 

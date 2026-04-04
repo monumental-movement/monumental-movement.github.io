@@ -13,7 +13,7 @@ title: Cross My Heart – The Reason I Failed History
 ---
 
 
-1999년 Steve Aoki(스티브 아오키)가 운영하는 라벨 Dim Mak Records에서 출시된 포스트 하드 코어/에모 밴드 Cross My Heart에 의한 EP. 회원은 Chris Camden, Dwayne Bruner, Evan Tanner, Ryan Shelkett.
+1999년 Steve Aoki(스티브 아오키)가 운영하는 라벨 Dim Mak Records에서 발표된 포스트 하드 코어/에모 밴드 Cross My Heart에 의한 EP. 회원은 Chris Camden, Dwayne Bruner, Evan Tanner, Ryan Shelkett.
 
 Cross my heart는 메릴랜드 주 볼티모어 출신으로 1997년부터 2001년까지 활동했다.
 

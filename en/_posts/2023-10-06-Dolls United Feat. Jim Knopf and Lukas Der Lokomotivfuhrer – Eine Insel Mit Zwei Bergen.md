@@ -14,11 +14,11 @@ title: Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel
 ---
 
 
-「Dolls United」は、ドイツのユーロダンスグループです。彼らは、0歳から10歳の子供たちに人気のあるテレビ番組「アウクスブルガー・プッペンキステ」のキャラクターや楽曲の声をサンプリングしています。
+"Dolls United" is a German Eurodance group. They sample the voices of characters and songs from the TV show Augsburger Puppenkiste, which is popular among children aged 0 to 10.
 
-彼らのリリースでは、サンプリングされたキャラクターを「追加アーティスト」として言及しており、たとえば「Dolls United feat. Jim Knopf & Lukas Der Lokomotivführer」や「Dolls United feat. Die Blechbüchsenarmee」といった形で表示されています。
+Their releases refer to sampled characters as "additional artists," such as "Dolls United feat. Jim Knopf & Lukas Der Lokomotivführer" and "Dolls United feat. Die Blechbüchsenarmee."
 
-実際には、これらは本物の追加アーティストではありません。
+In reality, these are not genuine additional artists.
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Eine Insel Mit Zwei Bergen (Lummerland Club Mix)
 B2. Eine Insel Mit Zwei Bergen (Frau Mahlzahn Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19329516022?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m19329516022?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pa499B8YuPw?si=xcEcj837ticyfKdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

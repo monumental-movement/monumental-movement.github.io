@@ -10,12 +10,12 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: VA – Mellow Beats, Spirits & Wisdom
+title: VA－柔和的節拍、精神和智慧
 ---
 
 
-2008年にP-Vine Recordsからリリースされた
-橋本徹選曲・監修のジャジー&メロウなHIPHOPコンピレーション・アルバム。
+P-Vine 唱片公司於 2008 年發行
+由橋本徹挑選並監修的爵士樂和醇厚的HIPHOP合輯。
 
 #### 曲目表
 ```md

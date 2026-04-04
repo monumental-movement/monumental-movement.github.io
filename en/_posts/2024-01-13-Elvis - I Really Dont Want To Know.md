@@ -13,11 +13,11 @@ title: Elvis - I Really Don't Want To Know
 ---
 
 
-「I Really Don't Want To Know（知りたくないの）」は、元々Don Robertson（ドン ロバートソン）とHoward Barnes（ハワード バーンズ）が制作し、1953年にリリースされた。
+"I Really Don't Want To Know" was originally written by Don Robertson and Howard Barnes and released in 1953.
 
-これまでに、レス・ポール&メリー・フォード、アンディ・ウィリアムス、エディ・アーノルド、ジョニー・ロドリゲス、トミー・エドワーズ、ロニー・ドーヴ、ジェイソン&ザ・スコーチャーズ、アン・マレー、ジェリー・リー・ルイスなど多くのアーティストがカヴァーしている。
+It has been covered by many artists including Les Paul & Mary Ford, Andy Williams, Eddie Arnold, Johnny Rodriguez, Tommy Edwards, Ronnie Dove, Jason & the Scorchers, Anne Murray, and Jerry Lee Lewis.
 
-この、ElvisヴァージョンはRCAビクターより1971年にリリースされた。
+This Elvis version was released by RCA Victor in 1971.
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A. I Really Don't Want To Know (知りたくないの)
 B. There Goes My Everything (淋しき足音)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yguQLGVl7Ms?si=f1GOud__gA2Jkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

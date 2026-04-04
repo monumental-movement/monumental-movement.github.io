@@ -16,7 +16,7 @@ title: The Cranberries – Wake Up And Smell the Coffee
 
 The Cranberries(크랜베리즈)는, 1989년에 결성된 아일랜드의 얼터너티브 록 밴드. 인디 락, 정글 팝, 드림 팝, 포크 락, 포스트 펑크, 팝 락의 요소를 도입한 스타일이 특징.
 
-'Wake Up and Smell the Coffee'는 2001년에 발매된 The Cranberries의 5번째 스튜디오 앨범으로, 6년간 휴지 전 마지막 앨범. 전세계에서 대히트가 되었다.
+'Wake Up and Smell the Coffee'는 2001년에 발매된 The Cranberries의 5번째 스튜디오 앨범으로, 6년간 휴무 전 마지막 앨범. 전세계에서 대히트가 되었다.
 
 #### Tracklist
 ```md

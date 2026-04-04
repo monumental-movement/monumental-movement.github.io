@@ -15,10 +15,10 @@ title: 卡津舞會－多彩生活
 ---
 
 
-Cajun Dance Party (ケイジャンダンスパーティ) は、イギリス・ロンドン出身の5ピースロックバンド。
+Cajun Dance Party 是一支來自英國倫敦的五人搖滾樂團。
 
 他們的首張專輯《The Colorful Life》於 2008 年在 XL Recordings 唱片公司發行，由英國搖滾樂團 Suede 的 Bernard Butler 製作。
-發行這張專輯後，他們在世界各地的各種音樂節上演出，包括雷丁和利茲音樂節、格拉斯頓伯里音樂節、Oxegen 音樂節和 Summer Sonic 音樂節。
+發行這張專輯後，他們在世界各地的各種音樂節上演出，包括雷丁音樂節、利茲音樂節、格拉斯頓伯里音樂節、Oxegen 音樂節和 Summersonic 音樂節。
 
 #### 曲目表
 ```md

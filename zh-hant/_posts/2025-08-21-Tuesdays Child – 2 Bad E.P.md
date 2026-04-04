@@ -9,7 +9,7 @@ permalink: /zh-hant/tuesdays-child-2-bad-e-p/
 tags:
 - House
 - 00s
-title: Tuesdays Child – 2 Bad E.P.
+title: 星期二的孩子 – 2 糟糕的 E.P.
 ---
 
 
@@ -17,7 +17,7 @@ Tuesdays Child 是 Robert Chetcuti 的電子/浩室計畫的別名。羅伯特·
 
 他也為 Armand Van Helden、Junior Jack、Michael Jackson 等創作了許多混音作品。
 
-2002年發行的《2 Bad E.P.》是一首被稱為Tuesdays Child的傑作的浩室曲目。
+2002年にリリースされた「2 Bad E.P.」は、Tuesdays Child の代表作として知られているHouseトラック。
 
 
 #### 曲目表

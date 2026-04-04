@@ -15,9 +15,9 @@ title: Sum 41 – Does This Look Infected?
 ---
 
 
-2002年にリリースされた「Does This Look Infected?」は、Sum41の2枚目のスタジオアルバム。
+"Does This Look Infected?", released in 2002, is Sum41's second studio album.
 
-このアルバムは、前作のファーストアルバム「All Killer No Filler」よりもポップミュージックの要素が少なく、ダークでヘビーなスタイルで、ヘビーメタル、ホラーパンク、パンクロック、ポップパンク、メロディックハードコア、ハードコアパンク、スラッシュメタル、Dビートの要素がつまったアルバムとなっている。
+This album has fewer pop music elements than their first album, ""All Killer No Filler,'' and has a darker, heavier style, with elements of heavy metal, horror punk, punk rock, pop punk, melodic hardcore, hardcore punk, thrash metal, and D-beat.
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ title: Sum 41 – Does This Look Infected?
 12. Hooch
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qO-mSLxih-c?si=8CFdT8kN6vvHHVyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -111,7 +111,7 @@ After that, each member takes a different path.
 - Mark Stewart: Collaborated with Adrian Sherwood as a solo artist and established **Industrial Dub**.
 - Gareth Sager and Bruce Smith: Formed **Rip Rig + Panic**.
 A young **Neneh Cherry** was also there.
-- Dan Catsis: He later became involved with Massive Attack and remained a cornerstone of Bristol music.
+- Dan Catsis: He remained at the foundation of Bristol music, later becoming involved with Massive Attack.
 
 This divergence gave rise to the diversity of the Bristol sound.
 Trip hop, dub, experimental music, political hip hop...

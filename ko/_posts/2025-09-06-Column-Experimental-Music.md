@@ -61,7 +61,7 @@ Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | Karlheinz Stockhausen | Studie II | 1954 |
 | Edgard Varèse | Poème électronique | 1958 |
 | John Cage | Imaginary Landscape No.4 | 1951 |
-| Luigi Russolo (재녹음작품) | Intonarumori Demo | 1940s 재현 |
+| Luigi Russolo (재녹음 작품) | Intonarumori Demo | 1940s 재현 |
 | Morton Feldman | Projection I | 1950 |
 | Earle Brown | December 1952 | 1952 |
 

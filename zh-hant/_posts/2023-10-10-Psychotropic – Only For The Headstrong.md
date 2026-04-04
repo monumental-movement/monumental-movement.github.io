@@ -9,12 +9,12 @@ permalink: /zh-hant/psychotropic-only-for-the-headstrong/
 tags:
 - Break Beat
 - House
-title: 精神藥物－只適合任性的人
+title: Psychotropic – Only For The Headstrong
 ---
 
 
 “只為任性的人”
-1991年にUKのレーベル「02 Records」からリリースされたPsychotropicのEPです。
+這是 Psychotropic 於 1991 年由英國廠牌「02 Records」發行的 EP。
 
 
 #### 曲目表

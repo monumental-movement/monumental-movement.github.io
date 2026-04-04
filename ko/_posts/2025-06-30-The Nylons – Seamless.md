@@ -14,7 +14,7 @@ title: The Nylons – Seamless
 ---
 
 
-The Nylons는 1978년~2017년까지 활동한 캐나다 아카펠라 그룹. The Turtles 'Happy Together', Steam 'Na Na Hey Hey Kiss Him Goodbye', The Tokens 'The Lion Sleeps Tonight' 등 Pops의 커버로 잘 알려져 있다.
+The Nylons는 1978년~2017년까지 활동한 캐나다의 아카펠라 그룹. The Turtles 'Happy Together', Steam 'Na Na Hey Hey Kiss Him Goodbye', The Tokens 'The Lion Sleeps Tonight' 등 Pops의 커버로 잘 알려져 있다.
 
 Seamless는 1986년 Open Air Records에서 발표된 앨범.
 

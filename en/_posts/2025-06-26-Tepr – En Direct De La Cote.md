@@ -13,7 +13,7 @@ title: Tepr – En Direct De La Côte
 ---
 
 
-Tanguy Destable, also known as Tepr, is a French musician, composer, and artistic director.
+Tepr(テプル)ことTanguy Destable(タンギー・デスタブル)は、フランス出身のミュージシャン、作曲家、芸術監督。
 
 "En Direct De La Côte" is a House & Electro track released by the British label Wall Of Sound (WOS) in 2007.
 

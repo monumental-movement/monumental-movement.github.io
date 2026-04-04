@@ -16,7 +16,7 @@ title: Polo Project – Oceano Tribale
 
 Polo Project는 이탈리아 DJ 프로듀서 Marco Cecere의 일명. Cecè, Marco Polo, Zen 명의에서도 활동하고 있다.
 
-「Oceano Tribale」은, Lele Sacchi가 운영하고 있던 하우스 라벨 Soundplant로부터 2000년에 릴리스된 트라이벌 하우스 트럭.
+「Oceano Tribale」은, Lele Sacchi가 운영하고 있던 하우스 라벨 Soundplant로부터 2000년에 릴리스 된 트라이벌 하우스 트럭.
 
 
 #### Tracklist

@@ -13,7 +13,7 @@ title: Michael Viner's Incredible Bongo Band – Bongo Rock
 ---
 
 
-1973년 출시된 인스트루멘탈 펑크 밴드 'Michael Viner's Incredible Bongo Band'에 의한 앨범 'Bongo Rock(봉고 록)'은 펑크, 서울, 브레이크 비트의 요소를 도입한 곡으로, 이후 힙합, 브레이크 비트 장면에서 수많은 아티스트가 샘플링했다.
+1973년에 발매된, 인스트루멘탈 펑크 밴드 「Michael Viner's Incredible Bongo Band」에 의한 앨범 「Bongo Rock(봉고 록)」은, 펑크, 서울, 브레이크 비트의 요소를 도입한 악곡으로, 후에 힙합, 브레이크 비트 씬으로 수많은 아티스트가 샘플링했다.
 
 #### Tracklist
 ```md

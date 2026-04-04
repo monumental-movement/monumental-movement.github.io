@@ -12,11 +12,11 @@ title: Various – Class X Two
 ---
 
 
-Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
+It deserves a top collection among Razomaid remixes. The highlight of this double-pack LP is "The Walk" by The Cure.
 
-オリジナル バージョンよりもさらに優れた素晴らしいものです。
+It's amazing and even better than the original version.
 
-この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
+This song alone will make you want to add it to your record collection, so I highly recommend it.
 
 #### Tracklist
 ```md
@@ -44,7 +44,7 @@ D1. Heaven 17–Let Me Go
 D2. Yazoo–Don't Go
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkCYh1x44G8?si=PHuaBCNVDI59kxRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

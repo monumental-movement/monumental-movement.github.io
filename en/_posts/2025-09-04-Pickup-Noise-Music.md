@@ -180,8 +180,8 @@ B2. Space Golf (Venusian Swing Mix)
 ### Buffalo Daughter – WXBD
 <a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
-- **背景**：日本の実験ロック・トリオ。多彩なリミキサー参加でエレクトロニカ～ノイズの側面が強化された企画盤。  
-- **聴きどころ**：ビッグ・ビート～ブレイクビーツ文脈での音響コラージュ。Corneliusらの手つきも含めて編集の快楽を堪能。
+- **Background**: Japanese experimental rock trio. A planned album with the electronica/noise aspects enhanced by the participation of various remixers.
+- **Highlights**: Acoustic collage in the context of big beats and breakbeats. Enjoy the pleasure of editing, including the hands of Cornelius and others.
 
 #### Tracklist
 ```md
@@ -207,13 +207,13 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 
 
-## まとめ
+## summary
 
 - **If you enter from the royal roar** *Merzbird*/Naked Rally's.
-- **クラブ文脈で**ノイズの質感を味わうなら *Smoking Kills*。  
-- **コラージュ的アプローチ**なら Hair Stylistics／Tipsy／WXBD。  
-- **自作派**は Eurorackコラムで機材の当たりをつけてから試聴へ。  
+- *Smoking Kills* if you want to experience the texture of noise in a club context.
+- For a **collage approach**, try Hair Stylistics/Tipsy/WXBD.
+- For those who prefer to make their own equipment, check out the Eurorack column to find out about the best equipment before listening.
 
 ---
 
-ノイズは「聴くだけ」ではなく「体験する」音楽。ぜひリンク先からさらに深掘りしてください。
+Noise is music that can be experienced, not just listened to. Please use the links to dig deeper.

@@ -10,7 +10,7 @@ tags:
 - Techno
 - 90s
 - Drum n Bass
-title: Laurent Garnier – Crispy Bacon (Part 2)
+title: 洛朗卡尼爾 – 脆皮培根（第二部）
 ---
 
 

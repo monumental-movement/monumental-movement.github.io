@@ -16,7 +16,7 @@ title: 會說話的人——她就是
 
 《And She Was》是美國搖滾樂團 Talking Heads 1985 年發行的第六張專輯《Little Creatures》中的一首單曲。
 
-ジャケットは、アメリカの芸術家Howard Finster（ハワード・フィンスター）によるもの。
+這件夾克是美國藝術家霍華德·芬斯特的作品。
 
 #### 曲目表
 ```md

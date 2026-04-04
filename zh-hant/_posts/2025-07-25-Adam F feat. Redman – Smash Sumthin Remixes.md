@@ -26,7 +26,7 @@ A. Smash Sumthin (Roni Size Remix)
 AA. Smash Sumthin (Bad Company Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m15980508638?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m15980508638?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ffeRaK6WA4s?si=T92JqwE6a6Zf7crJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

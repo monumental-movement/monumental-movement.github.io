@@ -15,7 +15,7 @@ title: 羅傑·桑切斯——另一個機會
 
 Roger Sanchez 是一位美國 house DJ/混音師/製作人。 2003年，他因對No Doubt的“Hella Good”進行混音而獲得格萊美獎。
 
-Defected 於 2001 年發行的《Another Chance》是羅傑桑切斯的標誌性歌曲，風靡全球。
+Defected 於 2001 年發行的《Another Chance》是 Roger Sanchez 的標誌性歌曲，風靡全球。
 
 #### 曲目表
 ```md
@@ -26,7 +26,7 @@ B1. Another Chance (S-Man's Dark Nite Mix)
 B2. Another Chance (Afterlife Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78518040318?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m78518040318?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pf4fiP7SQF8?si=ex7CG-N5nJs6gqwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

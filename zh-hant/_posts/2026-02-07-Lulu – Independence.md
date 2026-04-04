@@ -10,7 +10,7 @@ tags:
 - House
 - Garage House
 - 90s
-title: 露露——獨立
+title: Lulu – Independence
 ---
 
 
@@ -19,7 +19,7 @@ title: 露露——獨立
 
 B1 是美國電子音樂家/DJ Tony Humphries（浩室音樂先驅之一）的混音作品。
 
-B2は、Dave Seaman, Steve Anderson, Alan BremnerによるイギリスのエレクトロニックミュージックグループBrothers in Rhythm によるリミックス。
+B2 是英國電子音樂團體 Brothers in Rhythm 的混音版，由 Dave Seaman、Steve Anderson 和 Alan Bremner 組成。
 
 #### 曲目表
 ```md

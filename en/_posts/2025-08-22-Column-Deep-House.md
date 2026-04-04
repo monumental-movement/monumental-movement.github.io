@@ -204,3 +204,14 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 ### Music that can be enjoyed over time, not in a moment
 
 Deep house is music that can be enjoyed over time. Rather than a single, conspicuous hit, there is a ""comfortable continuation'' that keeps the floor and listeners in sync with each other. If you understand everything from historical origins to current sub-styles, and the secrets of production and DJing, you will be able to greatly deepen your selection and appreciation.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71eFE_9VizI?si=SJuJ1A6POH72lP09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

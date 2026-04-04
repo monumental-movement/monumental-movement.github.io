@@ -17,7 +17,7 @@ title: VA－你好年輕的戀人
 
 瀧見賢治 (Kenji Takimi) 的獨立唱片公司 Crue-L Records 於 1993 年發行的合輯。
 
-参加アーティスト: カヒミ・カリィ、ラヴ・タンバリンズ、フェイバリットマリーン、ミュージアムオブプレート、フリーダムスイート。
+參與藝人：Kahimi Kali、Love Tambourines、Favorite Marine、Museum of Plate、Freedom Suite。
 
 
 #### 曲目表

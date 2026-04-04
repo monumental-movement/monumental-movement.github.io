@@ -16,7 +16,7 @@ title: 不知名藝術家 – 只是一個事件 / Head、Booty & Beats
 
 荷蘭廠牌 P Series 是一家非官方混搭廠牌，發行著名流行音樂和舞曲的盜版混音版。
 
-このレコードは2008年にリリースされたテクノトラック。
+這張唱片是 2008 年發行的 techno 曲目。
 
 Side A 是荷蘭 DJ Joris Voorn 2004 年發行的《Lost Memories Pt. 2》的硬科技混合版 Incident（*2012 年發行的 Incident（宮城）是重製版）。
 

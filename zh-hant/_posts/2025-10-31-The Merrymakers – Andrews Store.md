@@ -30,4 +30,4 @@ The Merrymakers 是瑞典音樂二人組，由 Anders Hellgren 和 David Myhr �
 8. I Won't Let Down
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}

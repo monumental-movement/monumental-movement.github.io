@@ -9,13 +9,13 @@ permalink: /zh-hant/sound-associates-rock-the-beat-slipstream/
 tags:
 - Techno
 - 90s
-title: Sound Associates – 搖滾 The Beat Slipstream
+title: Sound Associates – 搖滾節拍滑流
 ---
 
 
 Sound Associates（由活躍於英國 techno 場景的 DJ Daz Saund 和 Ben Tisdall 組成的單位）於 1999 年在比利時 techno 廠牌 Music Man Records 上發行的 techno 曲目。
 
-Sound Associatesは、別名でDaz Saund & Ben TisdallやHousewerkとしても知られています。
+Sound Associates 也稱為 Daz Saund & Ben Tisdall 和 Housewerk。
 
 #### 曲目表
 ```md

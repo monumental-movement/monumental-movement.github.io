@@ -14,7 +14,7 @@ title: Atmosfear – Motivation (Dimitri From Paris Remixes)
 ---
 
 
-1978년에 영국에서 결성된 재즈펑크/브릿펑크 밴드 Atmosfear(아트모스피아)의 Motivation을 프렌치 하우스의 제일인자 Dimitri From Paris(디미트리프롬 파리)가 remix.
+1978년에 영국에서 결성된 재즈펑크/브릿펑크 밴드 Atmosfear(아토모스피아)의 Motivation을 프렌치 하우스의 1인자 Dimitri From Paris(디미트리프롬 파리)가 remix.
 
 이 "Motivation (Dimitri From Paris Remixes)"는 UK의 레이블 Disorient에서 1998 년에 출시되었습니다.
 

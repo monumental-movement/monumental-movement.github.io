@@ -14,9 +14,9 @@ title: 赫拉爾多·弗里西納 – 薩埃塔
 ---
 
 
-Gerardo Frisina 是一位義大利音樂家/製作人，主要製作拉丁爵士音樂。他也是 The Motion Collective 的成員。
+Gerardo Frisina 是一位意大利音乐家/制作人，主要制作拉丁爵士音乐。他也是 The Motion Collective 的成員。
 
-「Saeta」は、2001年にイタリアのJazzレーベルSchemaからリリースされたLatin／Future Jazzトラック。
+《Saeta》是義大利爵士廠牌 Schema 於 2001 年發行的拉丁/未來爵士曲目。
 
 #### 曲目表
 ```md
@@ -25,7 +25,7 @@ A. Saeta - Part One
 B. Saeta - Part Two
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m11249866360?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m11249866360?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8fmsY_FePpA?si=I8kUSfj_xCmLKaug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

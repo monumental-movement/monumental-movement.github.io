@@ -13,7 +13,7 @@ title: Quartz – The Calling EP
 ---
 
 
-Quartz [ 쿼츠 ] (Adriano Filippucci)는 이탈리아의 DJ 프로듀서. The Calling은 2002년에 몬트리올에 거점을 두는 테크 트랜스 라벨 Ascend Recordings로부터 릴리스된 테크노 트럭.
+Quartz [쿼츠] (Adriano Filippucci)는 이탈리아의 DJ 프로듀서. The Calling은 2002년에 몬트리올에 거점을 둔 테크 트랜스 라벨 Ascend Recordings에서 출시된 테크노 트럭.
 
 #### Tracklist
 ```md

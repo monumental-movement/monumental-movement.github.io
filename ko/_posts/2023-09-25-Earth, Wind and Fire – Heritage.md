@@ -9,7 +9,7 @@ permalink: /ko/earth-wind-and-fire-heritage/
 tags:
 - Disco
 - Soul
-title: Earth, Wind & Fire – Heritage
+title: 지구, 바람, 불 – 유산
 ---
 
 

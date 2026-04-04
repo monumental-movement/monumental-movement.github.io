@@ -13,7 +13,7 @@ title: Rosetta Stone – ROCK PICTURES
 ---
 
 
-Rosetta Stone(로제타스톤)은 Bay City Rollers(베이시티 롤러스)의 전 기타리스트 Ian Mitchell(이안 미첼)이 중심이 되어 결성한 북아일랜드의 록 밴드.
+Rosetta Stone(로제타스톤)은 Bay City Rollers(베이시티롤러스)의 전 기타리스트 Ian Mitchell(이안 미첼)이 중심이 되어 결성한 북아일랜드의 록 밴드.
 
 #### Tracklist
 ```md

@@ -16,7 +16,7 @@ title: Kerri Chandler – Atmospheric Beats
 
 하우스 뮤직의 파이오니어 Kerri Chandler(케리 챈들러)의 명곡 「Atmospheric Beats」.
 
-2000년에 라벨 Ibadan에서 발매된 한정 프로모판.
+2000년에 레이블 Ibadan에서 출시된 한정 프로모판.
 
 #### Tracklist
 ```md

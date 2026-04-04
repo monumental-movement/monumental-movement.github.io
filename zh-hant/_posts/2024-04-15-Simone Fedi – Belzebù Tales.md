@@ -14,13 +14,13 @@ title: 西蒙娜費迪 – Belzebu Tales
 ---
 
 
-Simone Fediは、イタリアのミュージシャン・プロデューサー。
+西蒙娜·費迪 (Simone Fedi) 是一位義大利音樂家和製作人。
 
-イタリアのエレクトロ・ディスコ・ファンクプロジェクトOut Of Cityのメンバーとしても活動している。
+他也是義大利電子迪斯科放克計畫 Out Of City 的成員。
 
 《Belzebù Tales》是由著名唱片公司 Eskimo 於 2007 年發行的迪斯可曲目。
 
-このレコードは、Tiga、Lindstrom、Aeroplane、Jason Eldredge、Low Motion Disco、Munk (Gomma)、Serge (Clone)、Zak Frost、Piccadilly Records、Phonica Records などからレビューされ、世界的にヒットしたSimone Fediの代表作。
+這張唱片是西蒙費迪（Simone Fedi）的代表作，風靡全球，並得到了 Tiga、Lindstrom、Aeroplane、Jason Eldredge、Low Motion Disco、Munk (Gomma)、Serge (Clone)、Zak Frost、Piccadilly Records、Phon Records 等唱片公司的審閱。
 
 #### 曲目表
 ```md

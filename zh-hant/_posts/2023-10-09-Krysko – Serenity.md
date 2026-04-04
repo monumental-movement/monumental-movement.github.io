@@ -9,7 +9,7 @@ permalink: /zh-hant/krysko-serenity/
 tags:
 - Drum n Bass
 - Rare
-title: Krysko – Serenity
+title: Krysko－寧靜
 ---
 
 

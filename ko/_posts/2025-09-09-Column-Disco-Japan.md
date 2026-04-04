@@ -40,7 +40,7 @@ title: 【칼럼】 디스코와 일본 문화의 교차부터 현재까지 — 
 - ** 대표적인 명반(일본)**
 - 핑크 레이디 — *UFO* (1977)
 - 와다 아키코 - *오래된 일기(디스코·어레인지판)* (1974)
-- 이노우에 순 - * 신세를 졌습니다 (디스코 스타일 어레인지) *
+- 이노우에 순서 - * 신세를 졌습니다 (디스코 스타일 어레인지) *
 
 - **일본문화와의 관계**
 젊은이의 패션(벨바텀, 사이키 무늬), 긴자나 롯폰기의 나이트 라이프 문화와 연결된다. 영화 '새터데이 나이트 피버'(1977)는 일본에서도 사회 현상에.
@@ -74,7 +74,7 @@ color: #fff;
 | 트랙 | 아티스트 | 코멘트 |
 |----------|--------------|----------|
 | Love to Love You Baby | Donna Summer | |
-| I Feel Love | Donna Summer & Giorgio Moroder | 신디 디스코의 혁명적인 트럭. |
+| I Feel Love | Donna Summer & Giorgio Moroder | 신디 디스코의 혁명 트랙. |
 | Stayin’ Alive | Bee Gees | 세계적인 디스코 앤셈. |
 | Le Freak | Chic | 그루브와 세련의 상징. |
 | UFO | 핑크 레이디 | 일본의 가요 디스코를 상징하는 한 곡. |
@@ -86,7 +86,7 @@ color: #fff;
 
 ---
 
-## 1980s — 거품기와 디스코의 대중화
+## 1980s — 버블기와 디스코의 대중화
 - **시대 배경**
 일본은 버블 경제기에 돌입해, 「마하라자」 「줄리아나 도쿄」라고 하는 대형 디스코가 탄생. 니시신주쿠나 롯폰기에서 「쥬리 부채」문화가 확대.
 
@@ -96,7 +96,7 @@ color: #fff;
 - Chaka Khan — *I Feel for You* (1984)
 
 - ** 대표적인 명반(일본)**
-- 오기노 메 요코 - *댄싱 히어로 * (1985)
+- 오기노 메 요코 - * 댄싱 히어로 * (1985)
 - 나카모리 아키나 - *DESIRE -열정-* (1986)
 - 사노 모토하루 — *Young Bloods* (1985)
 
@@ -176,7 +176,7 @@ color: #fff;
 
 ## 2000s — Nu-Disco의 상승과 클럽 재편
 - **시대 배경**
-세계적으로 「Nu-Disco」나 일렉트로 크래시가 유행. 일본에서도 디스코 리바이벌이 진행되어 다시 클럽 장면에서 각광을 받는다.
+세계적으로 「Nu-Disco」나 일렉트로 크래쉬가 유행. 일본에서도 디스코 리바이벌이 진행되어 다시 클럽 장면에서 각광을 받는다.
 
 - ** 대표적인 명반(해외)**
 - Daft Punk — *Discovery* (2001)
@@ -189,7 +189,7 @@ color: #fff;
 - CAPSULE — *L.D.K Lounge Designers Killer* (2005)
 
 - **일본문화와의 관계**
-시부야나 다이칸야마에서 Nu-Disco나 하우스의 재해석이 활발하게. 패션도 70년대풍의 리바이벌이 눈에 띈다.
+시부야와 다이칸야마에서 Nu-Disco나 하우스의 재해석이 활발하게. 패션도 70년대풍의 리바이벌이 눈에 띈다.
 
 - **주요 장비**
 - Ableton Live (2001년 등장)
@@ -210,7 +210,7 @@ color: #fff;
 | Lazy | X-Press 2 ft. David Byrne | 하우스와 디스코의 융합 |
 | Crazy | Gnarls Barkley | 소울 풀 크로스 오버 |
 | House of Jealous Lovers | The Rapture | 일렉트로 크래시 대표 |
-| Lady (Hear Me Tonight) Reissue | Modjo | 재평가 파도 |
+| Lady (Hear Me Tonight) Reissue | Modjo | 재평가 파 |
 | Never Can Say Goodbye (Rework) | Gloria Gaynor | Nu-Disco 리믹스 |
 | Do It Again | Röyksopp | 북유럽 일렉트로 감각 |
 | Eple | Röyksopp | 포스트 디스코 요소 |
@@ -219,7 +219,7 @@ color: #fff;
 
 ---
 
-## 2010s — 리바이벌 및 시티팝 재평가
+## 2010s — 리바이벌과 시티팝 재평가
 - **시대 배경**
 세계적으로 Nu-Disco가 확대되어 Caribou나 Todd Terje 등이 인기를 획득. 일본에서는 시티팝이 세계적으로 재평가되어 호시노 겐이나 CAPSULE이 디스코 문맥을 계승.
 
@@ -266,7 +266,7 @@ color: #fff;
 
 ## 2020s — 포스트 판데믹과 하우스/디스코 재해석
 - **시대 배경**
-코로나 화 이후, 전달 문화와 리얼 파티의 가치가 재정의되어 하우스나 디스코의 따뜻함이 재주목. 일본에서는 「시티팝 수출 붐」과 함께, 디스코적 그루브를 가지는 음악이 세계에.
+코로나 화 이후, 전달 문화와 리얼 파티의 가치가 재정의되어 하우스와 디스코의 따뜻함이 재주목. 일본에서는 「시티팝 수출 붐」과 함께, 디스코적 그루브를 가지는 음악이 세계에.
 
 - ** 대표적인 명반(해외)**
 - Dua Lipa — *Future Nostalgia* (2020)
@@ -290,7 +290,7 @@ TikTok이나 YouTube로 시티팝/디스코가 확산. 시부야와 신주쿠의
 - **일본 대표 클럽/디스코**
 - 롯폰기 : 1 OAK Tokyo, SEL OCTAGON
 - 시부야: Vent, DJ Bar Bridge
-- 오사카 미나미: Compufunk, Club Ammona
+- 오사카 미나미 : Compufunk, Club Ammona
 
 
 ### 추천 트랙 10선(2020s)

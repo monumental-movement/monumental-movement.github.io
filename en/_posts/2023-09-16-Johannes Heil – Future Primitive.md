@@ -13,9 +13,9 @@ title: Johannes Heil – Future Primitive
 ---
 
 
-ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
+Johannes Heil's music has a dark, dramatic atmosphere, with heavy beats and psychedelic sounds. The meticulous production and evolving arrangements transport the listener to a futuristic world.
 
-ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
+Johannes Heil's work is highly acclaimed by techno music fans and the underground music scene, and is known for his unique sound style.
 
 
 #### Tracklist
@@ -39,7 +39,7 @@ C2  Golden Dawn
 D   Cherubim
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

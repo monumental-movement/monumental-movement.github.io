@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/pickup-soundtrack/
 tags:
 - Soundtrack
-title: サウンドトラック作品をピックアップ
+title: 拾取配樂作品
 ---
 
 
@@ -111,7 +111,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Ennio Morricone – Nuovo　Cinema　Paradiso
+### 埃尼奧·莫里康內 – Nuovo Cinema Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
 格式：CD

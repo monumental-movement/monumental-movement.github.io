@@ -88,7 +88,7 @@ In harmolodics, each player has the same melodic rights. There is no need for so
 
 Cecil Taylor embodies the ultimate in construction in avant-garde jazz. Although his performances are often described as an outpouring of emotion, they are actually highly organized temporal art. Although it is improvised, its greatest feature is that it has the density and order of a building.
 
-### Redefining piano playing
+### Redefining piano playing techniques
 
 Taylor's playing style treats the keyboard not as a series of melodies, but as a mass of sound. High-speed clusters using both hands and complex polyrhythms transformed the piano from a melodic instrument to a percussion instrument.
 
@@ -123,7 +123,7 @@ The Sun Ra Arkestra did not have a fixed composition, and the number of members 
 
 In this recording, tonality and meter have little meaning. Fragmented phrases, noise-like sounds, and sudden group performances appear alternately. What is important is that the music does not progress linearly.
 
-The repeated short motifs change the listener's sense of time and lead the music into a cyclical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
+Repeated short motifs change the listener's sense of time and lead the music into a cyclical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
 
 ### Cosmic thought and musical structure
 
@@ -200,6 +200,6 @@ What is particularly important is that he positions improvisation as an expressi
 Avant-Garde Jazz is often dismissed as difficult music. However, its essence was an attempt to liberate music from fixed forms and reconsider it as a momentary creation.
 
 
-> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown that freedom is not born from disorder but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
+> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown that freedom is not born from disorder, but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
 
 ---

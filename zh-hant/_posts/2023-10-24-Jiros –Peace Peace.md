@@ -10,7 +10,7 @@ tags:
 - Folk
 - Nostalgic
 - 7inch
-title: Jiro's –Peace Peace
+title: 二郎的－和平和平
 ---
 
 
@@ -20,7 +20,7 @@ title: Jiro's –Peace Peace
 
 作詞：北山修
 
-作曲： 杉田二郎
+作曲：杉田二郎
 
 歌曲： 次瀨
 

@@ -10,13 +10,13 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: Ben Sims MMII – Hardgroove Special Edition 003
+title: Ben Sims MMII – Hardgroove 特別版 003
 ---
 
 
 Ben Sims MMII 是科技傳奇人物 Ben Sims 的別名之一。
 
-Tribal Techno/Hardgroove 由 Ben Sims 于 2003 年发行，他被称为 Hardgroove Techno 的旗手，并在他自己的厂牌 Hardgroove 上发行。它作為 Hardgroove 廠牌“特別版”系列的第三部分發行。一部可以讓您充分享受本·西姆斯世界的作品。
+Tribal Techno/Hardgroove 由 Ben Sims 於 2003 年發行，他被稱為 Hardgroove Techno 的旗手，並在他自己的廠牌 Hardgroove 上發行。它作為 Hardgroove 廠牌“特別版”系列的第三部分發行。一部可以讓您充分享受本·西姆斯世界的作品。
 
 #### 曲目表
 ```md

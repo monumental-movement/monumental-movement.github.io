@@ -13,7 +13,7 @@ title: Orjan – Arctic Globe / Prison Break
 ---
 
 
-"Orjan - Arctic Globe / Prison Break"는 노르웨이의 트랜스 뮤직 프로듀서 인 Orjan (오르얀)의 음악입니다.
+'Orjan - Arctic Globe/Prison Break'은 노르웨이의 트랜스뮤직 프로듀서인 Orjan(오르얀)의 곡입니다.
 
 'Arctic Globe'는 아름다운 멜로디와 웅장한 사운드가 특징으로, 차갑고 빛나는 얼음의 세계를 연상시키는 멜로디와 신디 사운드가 결합되어 듣는 사람을 환상적인 여행에 데려갑니다.
 

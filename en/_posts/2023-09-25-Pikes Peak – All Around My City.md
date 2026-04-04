@@ -12,8 +12,8 @@ title: Pike's Peak – All Around My City
 ---
 
 
-「All Around My City」は、
-1999年にリリースされた広島発のパンクスカバンド「Pike's Peak」のレコードです。
+"All Around My City" is
+This is a record by Pike's Peak, a punk ska band from Hiroshima, released in 1999.
 
 
 #### Tracklist
@@ -31,7 +31,7 @@ B2. Someday
 B3. No Trouble
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QiVQ3LPdjKw?si=zKD9vWqs6EDx4_wa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

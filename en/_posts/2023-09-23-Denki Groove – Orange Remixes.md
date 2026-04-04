@@ -12,9 +12,9 @@ title: Denki Groove – Orange Remixes
 ---
 
 
-「ORANGE REMIXES」は電気グルーヴのアルバム「ORANGE」（1998年）の楽曲を他のアーティストやプロデューサーがリミックスしたバージョンを収録しています。リミキサーには、国内外の有名なアーティストやクリエイターが参加しており、電気グルーヴの音楽に新たな解釈やアレンジを加えた楽曲が収められています。
+"ORANGE REMIXES" contains remixed versions of songs from Denki Groove"s album "ORANGE" (1998) by other artists and producers. The remixer includes the participation of famous domestic and international artists and creators, and contains songs that add new interpretations and arrangements to Denki Groove"s music.
 
-エレクトロニックミュージック、テクノ、ハウス、アンビエントなどのジャンルを網羅しており、多様な音楽スタイルとアプローチが楽しめます。リミキサーたちが独自のアイデアとサウンドを注入し、電気グルーヴのオリジナル楽曲をさらに進化させています。
+Covering genres such as electronic music, techno, house, and ambient, you can enjoy a variety of musical styles and approaches. Remixers take Denki Groove's original songs even further by injecting their own ideas and sounds.
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ B2. Repetition Side Step (Original Mix)
 Music By – Takkyu Ishino
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JIXSU-ppntY?si=yNpdN7PJN3cYSVEm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

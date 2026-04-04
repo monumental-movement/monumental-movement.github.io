@@ -17,7 +17,7 @@ title: Groove Reactor – Magick
 
 Groove Reactor (그루브 리액터)는 Maurice Engelen, Nikkie Van Lierop, Oliver Adams의 벨기에 프로젝트. Oliver Adams (올리버 아담스)는 후기 뉴 비트, 하드 비트, skizzo, 벨기에 테크노 시대의 가장 성공적인 프로듀서 중 하나로 알려져 있습니다.
 
-Magick은 1990년부터 2003년까지 활동한 벨기에의 댄스 라벨 Dance Opera에서 1992년에 출시된 Breakbeat/Trance/Techno 트랙.
+Magick은 1990년부터 2003년까지 활동한 벨기에 댄스 라벨 Dance Opera에서 1992년에 출시된 Breakbeat/Trance/Techno 트랙.
 
 #### Tracklist
 ```md

@@ -24,7 +24,7 @@ B1. We Are I.E. (Hybrid's Lite Mix)
 B2. We Are I.E. (Hybrid's Dark Mix)
 ```
 
-「我們是 I.E.」是英國碎拍和硬核製作人Lennie De Ice（真名Lenworth Green）創作的歌曲。 Hybrid 重新混合了丛林经典。
+「我們是 I.E.」是英國碎拍和硬核製作人Lennie De Ice（真名Lenworth Green）創作的歌曲。 Hybrid 重新混合了叢林經典。
 
 [在 Mercari 購買](https://jp.mercari.com/item/m42932508768?afid=6142608987){: .button1}
 

@@ -9,12 +9,12 @@ layout: post
 permalink: /zh-hant/distek-and-zoid-and-rhythm-technologies-the-winter-warmer-ep/
 tags:
 - Techno
-title: Distek and Zoid and Rhythm Technologies – The Winter Warmer EP
+title: Distek、Zoid 與 Rhythm Technologies – The Winter Warmer EP
 ---
 
 
-「The Winter Warmer EP」は、
-2006年にUKのレーベル「Kick The Drum Records」からリリースされたDistek & Zoid & Rhythm TechnologiesによるEPです。
+《暖冬EP》是
+這是 Distek & Zoid & Rhythm Technologies 於 2006 年在英國廠牌「Kick The Drum Records」上發行的 EP。
 
 #### 曲目表
 ```md

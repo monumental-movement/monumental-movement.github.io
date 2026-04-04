@@ -10,13 +10,13 @@ tags:
 - Techno
 - Experimental
 - 00s
-title: AeoX – 你想要怎麼煮熟 EP
+title: AeoX – How Do You Wannit Cooked EP
 ---
 
 
 AeoX 是一支柏林科技龐克樂隊，自 1999 年以來一直活躍。他發行了 Null 唱片公司和 Mental Industries 唱片公司的多張專輯。成員 Hanno Hinkelbein 也與 Bill Youngman 組成了名為 Furfriend 的二人組。
 
-「How Do You Wannit Cooked EP」は、ベルリンを拠点とするCora SchneiderのレーベルMental.Ind.Recordsから2002年にリリースされたTechno／Experimentalトラック。マスタリングはDubplates & Mastering。
+「How Do You Wannit Cooked EP」是 Cora Schneider 位於柏林的唱片公司 Mental.Ind.Records 於 2002 年發行的一首技術/實驗曲目。母帶處理是雙盤和母帶處理。
 
 #### 曲目表
 ```md

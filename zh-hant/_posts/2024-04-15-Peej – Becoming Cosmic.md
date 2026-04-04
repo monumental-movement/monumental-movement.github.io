@@ -14,7 +14,7 @@ title: Peej – 成為宇宙
 ---
 
 
-Paul Johnston（又名 Peej）創作的 house/deep house 曲目。
+PeejことPaul Johnstonによるハウス・ディープハウストラック。
 
 2005 年在 DiY Discs 發行，該唱片是英國 house 音樂廠牌 Strictly 4 Groovers 的後繼者。
 

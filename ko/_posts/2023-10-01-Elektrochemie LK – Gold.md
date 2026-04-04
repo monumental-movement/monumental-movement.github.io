@@ -13,7 +13,7 @@ title: Elektrochemie LK – Gold!
 ---
 
 
-Elektrochemie LK의 "Gold!"는 2001 년 독일 라벨 Confused Recordings에서 착수되었습니다.
+Elektrochemie LK의 "Gold!"는 2001 년 독일 라벨 Confused Recordings에서 탄생했습니다.
 
 Elektrochemie LK는 Thomas Schumacher (토마스 슈마하)의 솔로 프로젝트 중 하나입니다.
 

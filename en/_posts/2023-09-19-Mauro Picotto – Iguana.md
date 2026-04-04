@@ -12,11 +12,11 @@ title: Mauro Picotto – Iguana
 ---
 
 
-「Iguana」は、イタリアのテクノミュージシャン、マウロ・ピコット（Mauro Picotto）による楽曲です。マウロ・ピコットは、1990年代後半から2000年代初頭にかけて、テクノとトランスのジャンルで活躍しました。
+"Iguana" is a song by Italian techno musician Mauro Picotto. Mauro Picotto was active in the techno and trance genres in the late 1990s and early 2000s.
 
-「Iguana」は、マウロ・ピコットの代表作の一つであり、彼の初のメジャーヒットとなりました。この曲は、1999年にリリースされたマウロ・ピコットのアルバム「The Album」に収録されています。 「Iguana」は、エネルギッシュでアップテンポなビート、重厚なベースライン、そして独特なシンセサウンドが特徴的です。
+"Iguana" is one of Mauro Picotto"s masterpieces and became his first major hit. This song is included in Mauro Picotto"s album ""The Album'' released in 1999. "Iguana" is characterized by its energetic, up-tempo beat, heavy bassline, and unique synth sound.
 
-「Iguana」は、クラブミュージックのシーンで大きな成功を収め、テクノ&トランスのファン、レイヴァーなど、広く支持されました。そのダイナミックなビートとハイエナジーなサウンドは、ダンスフロアで頻繁にプレイされました。
+""Iguana'' was a huge success in the club music scene and was widely supported by techno and trance fans and ravers. Its dynamic beats and high-energy sound were frequently played on dance floors.
 
 
 #### Tracklist
@@ -28,7 +28,7 @@ B1  Iguana (Blank & Jones Mix)
 B2  Iguana (On Air Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14868392351?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m14868392351?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zitceMu3AmI?si=eiLTKrFPEywtA6Sm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

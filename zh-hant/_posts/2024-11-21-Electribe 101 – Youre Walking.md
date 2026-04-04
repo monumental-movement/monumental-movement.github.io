@@ -15,7 +15,7 @@ title: Electribe 101 – 你在行走
 ---
 
 
-Electribe 101是一个活跃于1988年至1992年的团体。前鋒是Billie Ray Martin。
+Electribe 101是一個活躍於1988年至1992年的團體。前鋒是Billie Ray Martin。
 
 他專注於黑暗、迷幻、藍調和電子深情浩室音樂，並支援 Depeche Mode 1990 年的“World Violation Tour”。
 

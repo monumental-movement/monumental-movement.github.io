@@ -60,7 +60,7 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 - **Ellen Allien(베를린)**: BPitch Control 창립자. 언더그라운드와 실험성을 융합.
 
-- **Paul Kalkbrenner**: 영화 'Berlin Calling'으로 널리 알려져 있다. 멜로딕과 서정적인 테크노.
+- **Paul Kalkbrenner**: 영화 'Berlin Calling'에서 널리 알려져 있다. 멜로딕과 서정적인 테크노.
 
 - **Johannes Heil** : 단단하고 어두운 독일 테크노를 추구하는 프로듀서.
 
@@ -118,7 +118,7 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 - 디트로이트의 '소울풀' 요소가 희미해져 냉철하고 기계적인 소리에
 
-**대표적인 아티스트**: Chris Liebing, Johannes Heil, Heiko Laux.
+** 대표 아티스트 **: Chris Liebing, Johannes Heil, Heiko Laux.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -136,7 +136,7 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 - 일부에서는 멜로딕 요소도 부활(Paul Kalkbrenner 등)
 
-** 대표 아티스트 **: 렌 패키, 모니카 크루즈, 엘렌 앨리언, 좀비 네이션.
+** 대표 아티스트** : 렌 패키, 모니카 크루즈, 엘렌 앨리언, 좀비 네이션.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jQRI3b2SX8c?si=06ngyujErrkR6Kfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 오늘날의 German Techno는 힘들고 산업적인 조류에서 멜로딕으로 서정적인 표현에 이르기까지 폭넓게 진화하면서도 여전히 베를린 테크노의 도시라는 상징적인 지위를 유지하고 있습니다.
 
 결론적으로 German Techno는 과거의 문화적 산물인 동시에 미래의 사운드 디자인을 개척하는 실험장이기도 하다.
-그 역사를 탐험하면서 작품을 듣는 것은 도시와 인간, 기계와 감정이 섞인 음악의 역동성을 이해하는 것 외에 다른 것입니다.
+그 역사를 탐험하면서 작품을 듣는 것은 도시와 인간, 기계와 감정이 교차하는 음악의 역동성을 이해하는 것 외에는 없습니다.
 
 
 ---

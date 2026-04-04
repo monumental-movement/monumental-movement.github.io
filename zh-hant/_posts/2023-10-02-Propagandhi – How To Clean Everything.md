@@ -9,13 +9,13 @@ permalink: /zh-hant/propagandhi-how-to-clean-everything/
 tags:
 - Punk
 - Hardcore
-title: Propagandhi – How To Clean Everything
+title: 宣傳－如何清潔一切
 ---
 
 
 《How to Clean Everything》是龐克搖滾樂團 Propagandhi 的首張專輯，於 1993 年在 Fat Wreck Chords 上發行。
 
-Allmusic 的 Mike Daronco 表示這張專輯是“對《Anarchy 101》的有趣、活潑且面向大眾的演繹”，Vice Media 的 Ron Knox 在 2016 年表示這張專輯的設計目的是對聽眾提出挑戰。
+AllmusicのMike Daroncoは、このアルバムは「賑やかながらも大衆に向けた『アナーキー101』を表現し、楽しい」と述べ、Vice MediaのRon Knoxは2016年に、このアルバムはリスナーに挑戦を投げかけるためにデザインされたものだと述べました。
 
 #### 曲目表
 ```md

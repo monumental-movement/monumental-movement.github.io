@@ -9,7 +9,7 @@ permalink: /zh-hant/klaxons-gravitys-rainbow/
 tags:
 - Electro
 - Pops
-title: 高音喇叭－重力的彩虹
+title: Klaxons – Gravity's Rainbow
 ---
 
 

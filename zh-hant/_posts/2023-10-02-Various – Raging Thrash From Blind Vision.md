@@ -9,12 +9,12 @@ permalink: /zh-hant/various-raging-thrash-from-blind-vision/
 tags:
 - Punk
 - Hardcore
-title: Various – Raging Thrash From Blind Vision
+title: 各種－盲視帶來的狂暴鞭打
 ---
 
 
 「盲視帶來的狂暴鞭打」是
-2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
+這張唱片由Answer Records於2000年發行，是名古屋當地HARDCORE的一張合輯。
 
 #### 曲目表
 ```md

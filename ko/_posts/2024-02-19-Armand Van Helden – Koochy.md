@@ -14,7 +14,7 @@ title: Armand Van Helden – Koochy
 ---
 
 
-「Koochy 쿠치」는 Armand Van Helden(아맨드 반 헬든)의 4번째 스튜디오 앨범 'Killing Puritans 킬링 퓨리턴스'(2000년)로부터의 리드 싱글로서 2000년에 발매되었다.
+「Koochy 쿠치」는 Armand Van Helden(아만드반 헬든)의 4번째 스튜디오 앨범 'Killing Puritans 킬링 퓨리턴스'(2000년)로부터의 리드 싱글로서 2000년에 발매되었다.
 
 Gary Numan(게리 뉴먼)의 1979년의 싱글 「Cars 카즈」를 다량으로 샘플링.
 

@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Rap
 - 90s
-title: Lauryn Hill – Doo Wop (That Thing) / Lost Ones
+title: Lauryn Hill – Doo Wop（那件事）/ Lost Ones
 ---
 
 

@@ -14,9 +14,9 @@ title: Arling & Cameron – We Love To Rock
 ---
 
 
-Arling & Cameron(아린 & 카메론)은 Gerry Arling과 Richard Cameron의 네덜란드 일렉트로닉 음악 듀오.
+Arling & Cameron (알린 & 카메론)은 Gerry Arling과 Richard Cameron의 네덜란드 일렉트로닉 뮤직 듀오.
 
-Arling & Cameron은 피치카트 파이브나 코네리어스와 콜라보레이션하는 등 프렌치팝, 라운지, 70년대의 라이트록, 시부야계에서 랩과 댄스, 보다 현대적인 일렉트로팝의 요소도 도입하고 있다.
+Arling & Cameron은 피치카트 파이브나 코네리어스와 콜라보레이션하는 등 프렌치팝, 라운지, 1970년대의 라이트록, 시부야계에서 랩과 댄스, 보다 현대적인 일렉트로팝의 요소도 도입하고 있다.
 
 「We Love To Rock」의 A면 2곡째는 Cornelius(코네리어스)에 의한 remix.
 

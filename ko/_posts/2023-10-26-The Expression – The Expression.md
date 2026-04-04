@@ -15,7 +15,7 @@ title: The Expression – The Expression
 
 The Expression(더 익스프레션) 1981년에 호주 시드니에서 결성된 신디팝 록 밴드.
 
-'The Expression'은 날카로운 기타 리프와 신디사이저, 독특한 보컬 스타일이 특징으로, '뉴 웨이브'팝 스타일이 전면에 나온 앨범이다.
+‘The Expression’은 날카로운 기타 리프와 신디사이저, 독특한 보컬 스타일이 특징으로 ‘뉴웨이브’ 팝 스타일이 전면에 나온 앨범이다.
 
 
 #### Tracklist

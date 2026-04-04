@@ -45,7 +45,7 @@ color: #fff;
 
 | 작품 | 아티스트 | 년 | 특징 |
 |------|--------------|----|------|
-| *Ambient 1: Music for Airports* | Brian Eno | 1978 | "앰비언트" 개념을 정의 |
+| *Ambient 1: Music for Airports* | Brian Eno | 1978 | "앰비언트"라는 개념 정의 |
 | *Another Green World* | Brian Eno | 1975 | 포스트록 감성의 선구자 |
 | *Phaedra* | Tangerine Dream | 1974 | 시퀀서 구동 혁신 |
 | *Discreet Music* | Brian Eno | 1975 | 테이프 루프 실험 |
@@ -68,7 +68,7 @@ color: #fff;
 |------|--------------|----|------|
 | *The Pearl* | Harold Budd & Brian Eno | 1984 | 피아노 + 환경음 |
 | *Treasure* | Cocteau Twins | 1984 | 드림팝 앰비언트성 |
-| *Spirit of Eden* | Talk Talk | 1988 | 포스트록의 모에 |
+| *Spirit of Eden* | Talk Talk | 1988 | 포스트록의 모아 |
 | *Apollo: Atmospheres and Soundtracks* | Brian Eno | 1983 | 우주 앰비언트 |
 
 **주요 장비**
@@ -81,7 +81,7 @@ color: #fff;
 ### 1990년대: 포스트록의 탄생과 확장
 
 - **배경**: 그런 지 이후의 대체 잠금의 다양화. 인터넷 전야, 실험적인 인디 장면의 폭발.
-- **특징**: 기타를 사용하면서도 비록적 전개. 긴, 동적/정적 대비.
+- **특징**: 기타를 사용하면서도 비록적인 전개. 긴, 동적/정적 대비.
 
 | 작품 | 아티스트 | 년 | 특징 |
 |------|--------------|----|------|
@@ -106,7 +106,7 @@ color: #fff;
 |------|--------------|----|------|
 | *Ágætis byrjun* | Sigur Rós | 1999/2000 | 북유럽 포스트록 |
 | *The Earth Is Not a Cold Dead Place* | Explosions in the Sky | 2003 | 시네마틱 포스트록 |
-| *The Blue Notebooks* | Max Richter | 2004 | 클래식 × 앰비언트 |
+| *The Blue Notebooks* | Max Richter | 2004 | 클래식×앰비언트 |
 | *And Their Refinement of the Decline* | Stars of the Lid | 2007 | 조용한 무인 항공기 |
 
 **주요 장비**
@@ -119,9 +119,9 @@ color: #fff;
 ### 2010년대: 앰비언트 심화와 드론 문화
 
 
-- **배경**: Spotify 등 배달 플랫폼 확대. Lo-Fi 앰비언트나 드론의 융성.
+- **배경**: Spotify와 같은 배달 플랫폼 확대. Lo-Fi 앰비언트나 드론의 융성.
 
-- **특징**: 몰입형 체험, 필드 녹음, 클럽 문화와의 융합.
+- **특징**: 몰입형 경험, 필드 녹음, 클럽 문화와의 융합.
 
 | 작품 | 아티스트 | 년 | 특징 |
 |------|--------------|----|------|
@@ -139,7 +139,7 @@ color: #fff;
 
 ### 2020년대: AI와 몰입형 미디어
 
-- **배경**: 판데믹에 의한 가정 제작 확대. AI에 의한 자동작 곡, VR/AR와 연계한 음악 체험.
+- **배경**: 유행에 의한 가정 제작 확대. AI에 의한 자동작 곡, VR/AR과 연계한 음악 체험.
 -**특징**: 일반 음악, 설치, 웰니스(명상용 배경음악)로 수요 확대.
 
 | 작품 | 아티스트 | 년 | 특징 |
@@ -178,6 +178,16 @@ flowchart TD
 미래는 생성 AI와 신체감각을 연결하는 '몰입형 소리의 건축'에 의해 더욱 갱신될 것이다.
 
 ---
+
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7Xm2CreH5E?si=KfTgIYSIaieLzpji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 관련 열
 

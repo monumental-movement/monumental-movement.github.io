@@ -9,7 +9,7 @@ permalink: /ko/column-euro/
 tags:
 - Euro
 - 90s
-title: 【칼럼】 90년대 유로·뮤직이란 무엇인가? ──댄스 플로어와 멜로디의 향연
+title: 【칼럼】 90년대 유로·뮤직이란 무엇이었는가? ──댄스 플로어와 멜로디의 향연
 ---
 
 
@@ -24,7 +24,7 @@ title: 【칼럼】 90년대 유로·뮤직이란 무엇인가? ──댄스 플
 ### 유로라는 음악의 정체란?
 
 90년대 '유로 뮤직(Euro Music)'이란 특정 장르라기 보다 유럽 대륙을 중심으로 발전한 대중적 댄스 팝 음악의 총칭이다.
-그 중에서도 가장 상징적인 것은 '유로비트'나 '유로댄스(Eurodance)'이지만, 거기에 머물지 않고 유로트랜스, 하이에너지, 신디팝 등도 동시기에 병주하고 있었다.
+그 중에서도 가장 상징적인 것은 '유로비트'와 '유로댄스(Eurodance)'이지만, 거기에 머물지 않고 유로트랜스, 하이에너지, 신디팝 등도 동시기에 병주하고 있었다.
 
 즉 90년대 유로는 **파티컬쳐, 댄스뮤직, 캐치한 멜로디와 테크놀로지가 융합한 '현대유럽의 팝상'**이었던 것이다.
 
@@ -197,7 +197,7 @@ Italo Dance의 대표작. 디지털 음성과 멜로디의 융합.
 ### 유로 음악은 "국경없는 쾌락"이었다.
 
 90년대 유로음악은 가사도 아니고 정치도 아니고 춤과 쾌감과 멜로디를 국제어로 바꾼 현상이었다.
-그 경쾌함이 장르의 경계와 가치관의 벽을 넘어가는 무기가 되었다.
+그 경쾌함이 장르의 경계나 가치관의 벽을 넘어가는 무기가 되었다.
 
 지금 다시 유로의 “나이브한 열기”가 장르나 세대를 넘어 우리에게 물어보고 있을지도 모른다.
 
@@ -205,6 +205,12 @@ Italo Dance의 대표작. 디지털 음성과 멜로디의 융합.
 
 <hr>
 
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iev_0jeS2gE?si=-_VlFxZvm5_-0X6t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 

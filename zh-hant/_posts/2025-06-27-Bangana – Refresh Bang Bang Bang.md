@@ -11,7 +11,7 @@ tags:
 - Deep House
 - Broken Beat
 - 00s
-title: Bangana – 刷新 Bang Bang Bang
+title: Bangana – Refresh Bang Bang Bang
 ---
 
 

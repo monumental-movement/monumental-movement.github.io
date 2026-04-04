@@ -14,7 +14,7 @@ title: Marco Bailey & Redhead – 2 3
 ---
 
 
-벨기에 테크노계의 톱 DJ 듀오, Marco Bailey(마르코 베일리)와 Redhead(레드 헤드/Steve Vangilbergen)가, 라벨 Invasion으로부터 2000년에 릴리스한 Techno 트랙.
+벨기에 테크노계의 톱 DJ 듀오, Marco Bailey(마르코 베일리)와 Redhead(레드 헤드/Steve Vangilbergen)가, 라벨 Invasion으로부터 2000년에 릴리스한 Techno트랙.
 
 #### Tracklist
 ```md

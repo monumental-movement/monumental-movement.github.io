@@ -16,7 +16,7 @@ title: 亞歷克斯·可口可樂——新視野
 
 亞歷山大·塞頓·科克（Alexander Seton Coke），也被稱為亞歷克斯·科克（Alex Coke），是來自達拉斯的美國爵士薩克斯管演奏家和長笛演奏家。
 
-Alex Cokeは、Gerald Wilson, Charles Tolliver, James Polk, Jay Rozenなど多くアーティストと共演している。1990年〜2000年は、オランダのジャズ作曲家・サックス演奏家Willem Breuker(ウィレム・ブロイカー)とツアーをおこなった。
+亞歷克斯·科克曾與許多藝術家合作，包括傑拉爾德·威爾遜、查爾斯·托利弗、詹姆斯·波爾克和傑伊·羅森。 1990年至2000年，他與荷蘭爵士作曲家和薩克斯風演奏家威廉·布洛伊克（Willem Breuker）一起巡迴演出。
 
 《New Visions》是他的第一張個人專輯，於 1981 年在德克薩斯州的 Lone Star Studio 錄製，並於 1982 年在 Re Records 廠牌上發行。
 A4和B3是即興創作。

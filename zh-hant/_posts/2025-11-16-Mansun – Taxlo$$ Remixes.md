@@ -17,7 +17,7 @@ title: Mansun – Taxlo$$（混音）
 
 「Taxloss」（Taxlo$$）是英國另類搖滾樂團 Mansun 於 1997 年發行的首張錄音室專輯 Attack of the Grey Lantern 中的單曲。包含專輯版本“Taxloss”和混音合集。
 
-A1は、UKのTrance & Psy-Trance DJ／プロデューサーJohn '00' Flemingによるremix。
+A1 是英國 Trance 和 Psy-Trance DJ/製作人 John '00' Fleming 的混音版。
 B2 是唱片製作人 Daniele Cenacchi（也稱為高第）的混音版。
 
 #### 曲目表

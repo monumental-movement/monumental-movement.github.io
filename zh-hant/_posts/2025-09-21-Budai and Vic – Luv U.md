@@ -10,15 +10,15 @@ tags:
 - Deep House
 - House
 - 00s
-title: Budai & Vic – Luv U
+title: 布代與維克 – Luv U
 ---
 
 
 Imre Bugyik & Viktor Kámán，也稱為 Budai & Vic，於 2000 年開始製作音樂，並建立了自己的廠牌 egoist 唱片公司 (egotraxx 唱片公司)。 2005年，他成立了子廠牌「I Love Deep Records」。
 
-「Luv U」は、2006年にI Love Deep RecordsかたリリースされたDeep House。
+《Luv U》由 Deep House 於 2006 年在 I Love Deep Records 發行。
 
-A 是德國 DJ/製作人 Terry Lee Brown Jr.（Norman Feller）的混音版。
+A 是德國 DJ/製作人 Terry Lee Brown Jr.（諾曼費勒）的混音版。
 
 B2 是匈牙利 DJ/製作人 Andro (Gábor Baki) 的混音版。
 

@@ -61,7 +61,7 @@ C --> D[northern india music culture]
 
 ## A heretical presence in Indian classical music
 
-The sitar, sarod, and bansuri, which are the main instruments of Hindustani music, all emphasize sustained and smooth sounds. On the other hand, since the santur is a percussion instrument, the duration of the sound is short, making it difficult to directly express meand (smooth sounds).
+The sitar, sarod, and bansuri, which are the main instruments of Hindustani music, all emphasize sustained and sliding sounds. On the other hand, since the santur is a percussion instrument, the duration of the sound is short, making it difficult to directly express meand (smooth sounds).
 
 For this reason, the santour has long been considered ""incomplete as a classical instrument.'' However, this restriction became the basis for later unique interpretations.
 
@@ -121,7 +121,7 @@ Performances often begin with a soft note. The moment the mallet touches the str
 
 ## Symbiotic relationship between Kashmiri folk songs and santoor
 
-In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, religious gatherings, and other occasions.
+In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, and religious gatherings.
 
 When playing the santour as an accompaniment to folk songs, the intonation of the melody and the speaking style are given priority over strict musical scales. The mallet is not swung down with a constant force, but rather changes its speed and angle subtly to match the singer's breathing.
 

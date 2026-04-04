@@ -95,7 +95,7 @@ Just intonation uses interval ratios based on harmonic series.
 * Modulation structure is limited
 * Difficult to understand theory and implementation
 
-This choice transforms the music from a "transposable structure" to a "local acoustic structure".
+This choice transforms the music from a ""transposable structure" to a ""local acoustic structure."
 
 ---
 
@@ -109,7 +109,7 @@ Partch divided the octave into 43 pitches,
 This is not an equal division, but a **network structure of overtone ratios**.
 
 * Prefer simple integer ratio
-* Tonal sense exists but transposition is not possible
+* Tonal sense exists, but transposition is not possible
 * Interval relationships can be visualized geometrically
 
 ### 5.2 Necessity of musical instrument design
@@ -234,7 +234,7 @@ Microtonal music retrains your hearing.
 * Fluctuations in tonal sense
 * Calling attention to pitch
 
-This is established not through intellectual understanding, but through repeated listening.
+This is established not through intellectual understanding but through repeated listening.
 
 ---
 
@@ -280,7 +280,7 @@ timeline
 
 ## 15. Conclusion
 
-Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the deep layers of music production.
+Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the depths of music production.
 
 
 ---

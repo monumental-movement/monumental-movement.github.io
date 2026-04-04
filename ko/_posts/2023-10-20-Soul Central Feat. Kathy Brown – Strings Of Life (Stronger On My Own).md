@@ -14,7 +14,7 @@ title: Soul Central Feat. Kathy Brown – Strings Of Life (Stronger On My Own)
 ---
 
 
-1987년에 발매된 Derrick May 「Strings Of Life」의 Soul Central이 remake. Soul Central은 Andy Ward와 Paul Timothy의 UK 뮤직 듀오. 사우스 캐롤라이나 출신의 하우스 보컬리스트 Kathy Brown을 특징으로합니다.
+1987년에 릴리스된 Derick May 「Strings Of Life」의 Soul Central이 remake. Soul Central은 Andy Ward와 Paul Timothy의 UK 뮤직 듀오. 사우스 캐롤라이나 출신의 하우스 보컬리스트 Kathy Brown을 특징으로합니다.
 
 B면 1곡째는 US 디스코 & 일렉트로닉 DJ/프로듀서 Danny Krivit(다니·크리빗트)에 의한 remix.
 

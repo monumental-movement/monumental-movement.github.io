@@ -10,7 +10,7 @@ tags:
 - Techno
 - Tech House
 - 90s
-title: 克里斯蒂安史密斯 VS.讓菲利普阿維昂斯 – Goldrush
+title: Christian Smith Vs. Jean Phillipe Aviance – Goldrush
 ---
 
 

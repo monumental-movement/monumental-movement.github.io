@@ -13,7 +13,7 @@ title: 弗羅斯特－墨西哥邊境
 ---
 
 
-「Mexican Border」は、
+「墨西哥邊境」是
 這是由小弗羅斯特 (Kid Frost) 創作的單曲，本名是小阿圖羅·莫利納 (Arturo Molina Jr.)，由 Ruthless Records 發行。
 
 #### 曲目表

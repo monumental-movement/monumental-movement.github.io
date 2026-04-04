@@ -17,7 +17,7 @@ title: Tomaz vs Filterheadz – Latin Loopworks
 Tomaz vs Filterheadz는 벨기에 테크노 DJ& 프로듀서 Tomaz(일명 Thomas Janssens)와 듀오 Filterheadz(Bert Filip Wilmaers & Maarten Jan Wilmaers)의 콜라보레이션.
 
 
-Latin Loopworks는 벨기에를 대표하는 DJ Marco Bailey(마르코 베일리)의 라벨 Session Recordings에서 2001년에 릴리스된 Tribal·Techno 트랙.
+"Latin Loopworks"는 벨기에를 대표하는 DJ Marco Bailey (마르코 베일리)의 라벨 Session Recordings에서 2001 년에 릴리스 된 Tribal · Techno 트랙.
 
 #### Tracklist
 ```md

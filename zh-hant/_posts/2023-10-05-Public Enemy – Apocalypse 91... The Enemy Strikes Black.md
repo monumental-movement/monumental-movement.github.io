@@ -13,7 +13,7 @@ title: 公眾之敵 – 天啟 91...敵人黑襲
 ---
 
 
-「Apocalypse 91... The Enemy Strikes Black」は、先行アルバム「Fear of a Black Planet」の成功を受けて制作された作品です。アルバムのタイトルは、「黒人の権利や社会的な不平等についての闘いを続ける」というメッセージを込めています。
+《Apocalypse 91...The Enemy Strikes Black》延續了他們上一張專輯《Fear of a Black Planet》的成功。這張專輯的標題傳達了「繼續反對黑人權利和社會不平等」的訊息。
 
 這張專輯採用了 Public Enemy 的標誌性聲音：尖銳的節奏、有力的低音線和充滿政治色彩的歌詞。
 

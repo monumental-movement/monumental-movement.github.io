@@ -13,7 +13,7 @@ title: Grand Funk – 最好的 Grand Funk
 ---
 
 
-Grand Funk Railroad（GFR）是一支美國硬搖滾樂團。核心成員包括馬克·弗納、梅爾·撒切爾和唐·布魯爾。
+Grand Funk Railroad（GFR）是一支美國硬搖滾樂團。核心成員是馬克·弗納、梅爾·撒切爾和唐·布魯爾。
 
 #### 曲目表
 ```md

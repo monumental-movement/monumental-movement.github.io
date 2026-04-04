@@ -13,7 +13,7 @@ title: The Band – Rock Of Ages The Band In Concert
 ---
 
 
-The Band(더 밴드)는, 1960년대 후반부터 1970년대 초반에 걸쳐 활약한 캐나다의 록 밴드.
+The Band(더 밴드)는 1960년대 후반부터 1970년대 초반에 걸쳐 활약한 캐나다의 록 밴드.
 
 1972년에 발매한 라이브 앨범 「Rock Of Ages: The Band In Concert」는, 1971년 12월에 NY의 아카데미 오브 뮤직에서 행해진 라이브 콘서트의 음원.
 

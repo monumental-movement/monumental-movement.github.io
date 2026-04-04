@@ -10,7 +10,7 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: Latex – Encore
+title: 乳膠 – 安可
 ---
 
 
@@ -18,7 +18,7 @@ Michael Borrmann，又名 Latex，是一位來自德國的製片人。他也以 
 
 「Encore」是一首電子、Tech House 曲目，由 Frank Müller 位於柏林的 techno 和 electro 唱片公司 Müller Records 於 2001 年發行。
 
-母帶處理由 Dubplates & Mastering（又稱 CGB）的工程師 Christoph Grote-Beverborg 完成。
+母帶製作由 Dubplates & Mastering 的工程師 Christoph Grote-Beverborg（也稱為 CGB）完成。
 
 #### 曲目表
 ```md

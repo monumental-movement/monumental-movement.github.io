@@ -10,11 +10,11 @@ tags:
 - Hiphop
 - 90s
 - Gangsta
-title: 岡·斯塔爾——積極性
+title: Gang Starr – Positivity
 ---
 
 
-Gang Starr 是活躍於 20 世紀 80 年代末至 90 年代的美國嘻哈二人組（Guru & DJ Premier）。 「Positivity」出現在他們的第三張錄音室專輯「Daily Operations」（1992）。
+Gang Starrは、1980年代後半から1990年代にかけて活動したアメリカのヒップホップデュオ(Guru&DJ Premier)です。「Positivity」は、彼らの3枚目のスタジオアルバムである「Daily Operation」（1992年）に収録されています。
 
 這首歌旨在傳達正面的訊息和正能量。
 

@@ -12,7 +12,7 @@ title: Oriental Space – Magical Express
 ---
 
 
-「Magical Express」는, 2003년에 라벨 Farm Records로부터 릴리스된 일본 댄스 씬의 파이오니아, 트랜스 DJ/프로쥬서 ORIENTAL SPACE의 트랜스 트랙. 프로모션 보드.
+'Magical Express'는 2003년 라벨 Farm Records에서 출시된 일본 댄스 장면의 개척자, 트랜스 DJ/프로듀서 ORIENTAL SPACE의 트랜스 트랙. 프로모션 보드.
 
 #### Tracklist
 ```md

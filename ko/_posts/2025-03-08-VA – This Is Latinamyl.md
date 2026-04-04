@@ -18,7 +18,7 @@ title: VA – This Is Latinamyl
 
 영화 매트릭스의 음악 등도 다루는 멀티 장르 일렉트로닉 뮤직 프로듀서&DJ Elite Force Simon Shackleton이 설립한 브레이크 비트 라벨 Fused & Bruised 로부터 1997년에 릴리스된 컴파일 앨범.
 
-Simon Shackleton은 Elite Force 명의 이외에도 pHrack R과 fUtUrEcOrE 명의에서도 활동하고 있다.
+Simon Shackleton은 Elite Force 명의 외에도 pHrack R과 fUtUrEcOrE 명의에서도 활동하고 있다.
 
 
 #### Tracklist

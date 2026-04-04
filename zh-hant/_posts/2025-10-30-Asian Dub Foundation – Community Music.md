@@ -21,9 +21,9 @@ title: 亞洲配音基金會 – 社區音樂
 
 
 
-Asian Dub Foundationは、UK出身のエレクトロニカ・ダンス系バンド。ラップロック、ダブ、ダンスホール、ラガ、レゲエEDM、南アジア音楽などをmixするスタイルが特徴。
+Asian Dub Foundation 是一支來自英國的電子舞曲樂團。他們的風格融合了饒舌搖滾、配音、舞廳音樂、拉格音樂、雷鬼電子舞曲和南亞音樂。
 
-《社群音樂》於2000年發行，距熱門專輯《拉菲的復仇》兩年後發行，是亞洲配音基金會的第三張專輯，受到各方好評。 This was the last album in which Deeder Zaman participated, as vocalist/MC Deeder Zaman left the group at the end of that year.
+《社群音樂》於2000年發行，距熱門專輯《拉菲的復仇》兩年後發行，是亞洲配音基金會的第三張專輯，受到各方好評。這是 Deeder Zaman 參與的最後一張專輯，主唱/MC Deeder Zaman 於當年年底離開了樂團。
 
 #### 曲目表
 ```md

@@ -59,7 +59,7 @@ flowchart TD
 
 #### Survival Research Laboratories (SRL)
 
-SRL, known for its destructive mechanical performance, was founded in 1978 by Marc Poulin. The show, which used huge equipment and the sounds of fire, dust, and metal, clearly presented the "visibility" and "danger" of noise, and established the Bay Area as a "testing ground for sound and machinery." SRL's activities are praised not only for expressing acoustic noise, but also for their perspective on industrial technology.
+SRL, known for its destructive mechanical performance, was founded in 1978 by Marc Poulin. The show, which used huge equipment and the sounds of fire, dust, and metal, clearly presented the "visibility" and "danger" of noise, and established the Bay Area as a "testing ground for sound and machinery." SRL's activities are valued not only for acoustic noise expressions, but also for their perspective on industrial technology.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Cp7aD0q63g?si=SGP_qqxe3psR5CwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -107,11 +107,11 @@ The following are the main works mentioned in the main text.
 
 | Artist / Work | Year | Notes | Link |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *Escape From Noise* | 1987 | A mixture of tape collages and short songs, a masterpiece | [Amazon](https://amzn.to/47akMEX) |
+| Negativland — *Escape From Noise* | 1987 | A mixture of tape collage and short songs, a masterpiece | [Amazon](https://amzn.to/47akMEX) |
 | Matmos — *A Chance To Cut Is A Chance To Cure* | 2001 | Concept work using medical sounds | [Amazon](https://amzn.to/48IJtKN) |
 | Matmos — *The Civil War* | 2003 | Continuation of concept and sampling experiments | [Amazon](https://amzn.to/4gKSuoA) |
 | Bay Area compilation (regional edition) | 2010s | Mainly local distribution. Recommended to get from Bandcamp or local labels | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
-| Bill Orcutt — *Jump On It* | 2023 | Experimental Acoustic. Representative examples of Bay Area guitar work |[Amazon](https://amzn.to/4o2jF0Q) |
+| Bill Orcutt — *Jump On It* | 2023 | Experimental acoustic. Representative examples of Bay Area guitar work |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 

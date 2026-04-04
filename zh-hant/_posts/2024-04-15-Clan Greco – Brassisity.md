@@ -32,7 +32,7 @@ Clan Greco是由Neffa e Sud Sound System製作人和聯合製作人Ricky Rinaldi
 
 製片 Massimo Greco、Ohm Guru
 
-共同プロデューサー：Brass Avengers 
+聯合製片：黃銅復仇者聯盟
 
 #### 曲目表
 ```md

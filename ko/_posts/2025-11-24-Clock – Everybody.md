@@ -17,7 +17,7 @@ title: Clock – Everybody
 
 1993년 영국 맨체스터에서 Stu Allan과 Pete Pritchard가 결성한 유로팝/댄스 뮤직 프로젝트. 악대는 2000년까지 활동했다.
 
-「Everybody」는, 1995년에 릴리스된 House/Euro House/Hardcore/Eurodance/Bouncy Techno트럭.
+「Everybody」는, 1995년에 릴리스된 House/Euro House/Hardcore/Eurodance/Bouncy Techno트랙.
 
 #### Tracklist
 ```md

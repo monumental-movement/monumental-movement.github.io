@@ -13,7 +13,7 @@ title: Manwoman – Manwoman
 ---
 
 
-95年にリリースされた日本のハードコア / パンクバンド「マンウーマン」のファーストシングルです。
+This is the first single by Japanese hardcore/punk band Man Woman, released in 1995.
 
 #### Tracklist
 ```md
@@ -29,5 +29,5 @@ B1. Speedometer
 B2. Man And Woman
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
 

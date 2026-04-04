@@ -13,7 +13,7 @@ title: 挑選慢節奏作品
 ---
 
 
-一系列非凡的慢速作品，用深沉的节奏和轻柔的节拍包裹着你的心。 」
+一系列非凡的慢速作品，用深沉的節奏和輕柔的節拍包裹著你的心。 」
 
 <小時>
 
@@ -32,7 +32,7 @@ B2. Whenever You See Fit (Sientific American Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -93,7 +93,7 @@ B2. Family Affair (Plati Party Mix)
 <小時>
 
 
-### 白光馬戲團－行軍令
+### 白光馬戲團 – 行軍令
 <a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marchweb%20Orders.
 
 帶有英國電子風格的迪斯科冷酷曲目。

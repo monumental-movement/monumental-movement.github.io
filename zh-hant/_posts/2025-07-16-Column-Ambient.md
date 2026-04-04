@@ -61,7 +61,7 @@ title: '[專欄]什麼是氛圍音樂？ 「存在的聲音」而不是聽到的
 
 代表作品：
 
-- [**謹慎音樂 (1975)**](https://amzn.to/4nafH64)
+- [**Discreet Music（1975）**](https://amzn.to/4nafH64)
 
 - [**環境 1：機場音樂 (1978)**](https://amzn.to/48shEpU)
 
@@ -79,7 +79,7 @@ Ambient House/Ambient Techno 的興起。
 
 **● 自 2000 年以來：超越類型的滲透**
 
-映像作品、現代美術、ヨガ、瞑想、ゲーム音楽、VR空間へと進出。
+擴展到錄像作品、當代藝術、瑜伽、冥想、遊戲音樂和 VR 空間。
 
 Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
@@ -139,7 +139,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 **● 環境科技**
 
-將技術節奏與環境空間處理融合在一起。
+テクノのリズムにアンビエントの空間処理を融合。
 
 **藝術家**：[The Orb](https://amzn.to/48qQQ9x)、[全球通訊](https://amzn.to/3K8GJMK)、[Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
@@ -151,7 +151,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 **●環境工業**
 
-工場音、機械ノイズを音楽化。
+將工廠聲音和機器噪音音樂化。
 
 **藝術家**：[有傷口的護士](https://amzn.to/46QgJyk)、[線圈](https://amzn.to/48sI7nd)
 
@@ -159,7 +159,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 用於放鬆和冥想的環境音樂。
 
-[Enya](https://amzn.to/46vL0Bg)、[Steve Roach](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB) など。
+[恩雅](https://amzn.to/46vL0Bg)、[史蒂夫羅奇](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB)等
 
 
 
@@ -167,7 +167,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 ### 氛圍是空間藝術
 
-氛圍音樂不僅僅是背景音樂，它還與以下思想和藝術理念有著深刻的聯繫。
+氛圍音樂不僅是背景音樂，也與以下思想和藝術概念有著深刻的連結。
 
 **● 極簡主義與時間藝術**
 
@@ -201,7 +201,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 <小時>
 
-### アンビエントとは「音楽」と「空間」の交差点
+### Ambient是「音樂」和「空間」的交集
 
 氛圍音樂是指不在音樂中心，而是在外圍的音樂。它是一門不涉及旋律或節奏的藝術，而是涉及氣氛、時間、感覺和意識的轉變。
 

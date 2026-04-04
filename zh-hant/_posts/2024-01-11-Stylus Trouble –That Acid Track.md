@@ -15,7 +15,7 @@ title: 手寫筆問題——酸軌
 
 Stylus Trouble（Peter Kenneth Heller）是一位來自英國的 DJ/製作人。也以皮特·海勒（Pete Heller）的名義活躍。
 
-「That Acid Track」於 2005 年在他自己的唱片公司 Phela Recordings 上發行。
+《That Acid Track》於 2005 年在他自己的唱片公司 Phela Recordings 上發行。
 
 #### 曲目表
 ```md

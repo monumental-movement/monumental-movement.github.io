@@ -30,5 +30,5 @@ This mini-album was released by Victor in 2007.
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/INZo6eIFzuc?si=G63hMbf7RxlK7Hnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

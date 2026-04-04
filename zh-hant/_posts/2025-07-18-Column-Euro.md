@@ -99,9 +99,9 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 ---
 
-● [Ace of Base – “The Sign” (1993)](https://amzn.to/4mXEhGp)
+● [基地王牌 – 「標誌」 (1993)](https://amzn.to/4mXEhGp)
 
-瑞典流行乐队。連續 100 年在 Billboard Hot 100 排行榜上排名第一。
+瑞典流行樂團。連續 100 年在 Billboard Hot 100 排行榜上排名第一。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -115,7 +115,7 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 ---
 
-● [Eiffel 65 – “Blue (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
+● [艾菲爾 65 – “藍色 (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
 
 伊塔洛舞蹈的傑作。數位語音和旋律的融合。
 
@@ -127,7 +127,7 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 **● CD Maxi 單一培養**
 
-一首歌中包含多種混音和 B 面，使其適合俱樂部和家庭。
+1曲に複数のリミックスやB面を収録し、クラブ〜家庭まで対応。
 
 **●MTV歐洲**
 
@@ -144,7 +144,7 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 <小時>
 
-### 日本における90'sユーロの受容
+### 1990年代歐元在日本的接受度
 
 **Eurobeat**：avex 原創開發
 
@@ -169,22 +169,22 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 - 結構簡單，歌詞淺薄（通常毫無意義）
 
-- 大規模生產/匿名（特定藝術家的存在感較弱）
+- 大量生產/匿名（特定藝術家的存在感較弱）
 
-- 商業上的成功=對藝術性的不尊重
+- 商業的成功＝芸術性の軽視
 
-だが、逆に言えばそれは誰にでも届く音楽であったという証拠でもある。
+然而，從另一方面來說，這也證明了音樂可以觸及任何人。
 
 
 <小時>
 
 ### 重新評估與復興：2020年代及以後的局勢
 
-近年、ユーロミュージックは次のような形で再評価されている：
+近年來，歐洲音樂透過以下方式進行了重新評估：
 
 - Eurodance 是 Hyperpop 和 Y2K 音樂的起源
 
-- クラブシーンにおける90s回帰（Post-Eurodance）
+- 90 年代回歸俱樂部場景（後歐洲舞曲）
 
 - 與 City Pop 一樣，來自日本的 Eurobeat 也被網路世代重新發現。
 
@@ -201,10 +201,16 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 現在，歐元的「天真熱度」可能再次向我們提出了一個超越類型和世代的問題。
 
-それはあなたにとって懐かしさか、それとも新しさか？
+對你來說是懷舊還是新鮮感？
 
 <小時>
 
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iev_0jeS2gE?si=-_VlFxZvm5_-0X6t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <小時>
 

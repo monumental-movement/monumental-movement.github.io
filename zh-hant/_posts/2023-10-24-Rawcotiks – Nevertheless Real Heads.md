@@ -13,7 +13,7 @@ title: Rawcotiks – 然而真正的頭腦
 ---
 
 
-「Rawcotiks – Nevertheless Real Heads」は、Opposition Recordsから1997年にリリースされました。
+《Rawcotiks – Yet Real Heads》於 1997 年由 Opposition Records 發行。
 
 Rawcotiks 是多明尼加嘻哈音樂家 Jeff Valentino 和 Bladmillo Castillo 的樂隊，總部位於紐約華盛頓高地。
 

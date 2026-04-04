@@ -10,7 +10,7 @@ tags:
 - House
 - Electro
 - 00s
-title: Tepr – En Direct De La Côte
+title: Tepr——En Direct De La Côte
 ---
 
 
@@ -32,7 +32,7 @@ B1. Minuit Jacuzzi
 B2. Minuit Jacuzzi (DatA Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh1XNjd_HN0?si=OPNrSM6gN0ZoTUNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

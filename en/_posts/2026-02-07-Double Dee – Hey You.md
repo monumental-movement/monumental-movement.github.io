@@ -15,11 +15,11 @@ title: Double Dee – Hey You
 
 
 
-Double Deeは、Claudio "Moz-Art" Rispoli, Davide Domenella, Donato Lositoによるイタリア人プロデューサー／DJsのプロジェクト。
+Double Dee is a project of Italian producers/DJs: Claudio "Moz-Art" Rispoli, Davide Domenella, and Donato Losito.
 
-イタリアのレーベルIrma CasaDiPrimordineの別部門Onizom Musicから1991年にリリースされたHouse／Acid Jazzトラック。
+A House/Acid Jazz track released in 1991 by Onizom Music, a division of Italian label Irma CasaDiPrimordine.
 
-A1&Bは、Francesco Montefiori（フランチェスコ・モンテフィオリ）とのデュオSoft House Companyなどでも知られるClaudio "Moz-Art" Rispoli（AKA DJ Mozart）によるリミックス。DJ Claudio Rispoliは、ディスコやポップスの枠にとらわれない、ダニエル・バルデッリやベッペ・ローダらと共にイタリアDJの先駆者として台頭し、後にイタリアのコズミックサウンドと結びつくことになる、幅広くレフトフィールドなアプローチを展開しましたことでも知られている。
+A1&B is a remix by Claudio "Moz-Art" Rispoli (AKA DJ Mozart), also known for his duo Soft House Company with Francesco Montefiori. DJ Claudio Rispoli has emerged as a pioneer of Italian DJing alongside the likes of Daniel Baldelli and Beppe Roda, transcending the boundaries of disco and pop music, and is also known for developing a broad, left-field approach that later became associated with Italy's cosmic sound.
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ A2. Hey You (Album Version)
 B. Hey You (House Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51032584226?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m51032584226?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yHsvgYwOf_Y?si=RmfODryZcWZ-i0hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

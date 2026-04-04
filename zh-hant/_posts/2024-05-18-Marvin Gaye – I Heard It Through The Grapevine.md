@@ -10,7 +10,7 @@ tags:
 - Soul
 - Funk
 - Rare
-title: 馬文蓋伊——我透過小道消息聽到的
+title: Marvin Gaye – I Heard It Through The Grapevine
 ---
 
 

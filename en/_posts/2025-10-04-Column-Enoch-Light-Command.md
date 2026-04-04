@@ -107,7 +107,7 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Musicians involved/artists produced
+### Musicians involved/produced artists
 
 In addition to conducting himself, Enoch Light used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
 
@@ -155,13 +155,13 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during the Command Records period**
+- **Grand Award → Regular guitarist during the Command Records era**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 
 He also played an important role in the "Persuasive Percussion" and "Provocative Percussion" series.
 
-In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was put to good use.
+In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was utilized.
 
 - **Solo album release (from Command)**
 

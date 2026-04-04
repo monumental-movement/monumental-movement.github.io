@@ -11,7 +11,7 @@ tags:
 - Tech House
 - House
 - 00s
-title: 蓋革 – 日
+title: 蓋革 - 日
 ---
 
 
@@ -24,7 +24,7 @@ A. Talk To Me
 B. Day
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m16800420587?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16800420587?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg276Kk-xUI?si=q0eyukuz1ETK0yOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

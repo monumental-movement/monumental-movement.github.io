@@ -15,7 +15,7 @@ title: Def Con 6——Bum Rush The Sound
 
 Def Con 6 是由布蘭登史密斯 (Brandon Smith) 和約翰塞克斯頓 (John Sexton) 組成的部隊。
 
-「Bum Rush The Sound」是 Def Con 6 在 Tweak 上發布的一首酸爆節奏歌曲！ 1998年的记录。
+「Bum Rush The Sound」是 Def Con 6 在 Tweak 上發布的一首酸爆節奏歌曲！ 1998年的記錄。
 
 #### 曲目表
 ```md

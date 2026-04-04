@@ -15,7 +15,7 @@ title: Nando – Music Go Wild Love Killer
 
 Nando (Nando Bonini)와 Fernando Bonini (Fernando Bonini)는 이탈리아 기타리스트, 가수 작곡가, 보컬리스트입니다.
 
-그는 1993 년부터 Vasco Rossi (바스코 로시)의 투어 멤버이며 이탈리아의 다양한 뮤지션과 가수와 협업했습니다.
+그는 1993년부터 Vasco Rossi(바스코 로시)의 투어 멤버로 이탈리아의 다양한 뮤지션이나 가수와 콜라보레이션하고 있습니다.
 
 #### Tracklist
 ```md

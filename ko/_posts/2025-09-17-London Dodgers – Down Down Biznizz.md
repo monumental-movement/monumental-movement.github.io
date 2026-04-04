@@ -15,7 +15,7 @@ title: London Dodgers – Down Down Biznizz
 
 London Dodgers(Ras Kwame)는 런던을 거점으로 하는 DJ 프로듀서. BBC 라디오 1과 1Xtra의 전 DJ로 현재는 Capital Xtra에서 Dancehall & Reggae DJ를 하고 있다.
 
-「Down Down Biznizz」는 Demolition Man & Vincent J. Alvis를 피처한 UK Garage. 2002년에 UK 갈라지&그라임 라벨 Locked On으로부터 릴리스 되었다.
+「Down Down Biznizz」는 Demolition Man & Vincent J. Alvis를 피처한 UK Garage. 2002년 UK 갈라지 & 글라임 라벨 Locked On에서 출시되었다.
 
 A는 UK Garage의 프로듀서/리믹서 집단 D'n'D에 의한 remix.
 

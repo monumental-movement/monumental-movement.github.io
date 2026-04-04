@@ -47,7 +47,7 @@ color: #fff;
 제2차 세계대전 이후 미국에서는 빙 크로스비의 '화이트 크리스마스'(1942년 출시)가 상징적 존재였습니다. 집에서 이상적인 크리스마스 동상을 묘사하고 라디오와 싱글 레코드로 널리 유포되었습니다.
 
 **가사 및 테마 분석**
-- 'I'm dreaming of a white Christmas' : 설경과 향수를 거듭한 묘사
+- 'I’m dreaming of a white Christmas' : 설경과 향수를 거듭한 묘사
 - 가족과 고향을 기억하는 보편적 테마
 - 빅 밴드 스타일 편곡으로 따뜻함과 화려함
 
@@ -57,8 +57,8 @@ color: #fff;
 
 | 년 | 노래 이름 / 앨범 | 아티스트 | 특징 |
 |----|----------------|--------------|------|
-| 1942 | White Christmas | Bing Crosby | 글로벌 히트, 아카데미상 수상 |
-| 1950 | The Christmas Song | Nat King Cole | 재즈 표준, 가정적 장면 |
+| 1942 | White Christmas | Bing Crosby | 글로벌 히트, 아카데미 상 수상 |
+| 1950 | The Christmas Song | Nat King Cole | 재즈 표준, 가정적인 풍경 |
 | 1963 | Little Drummer Boy | The Harry Simeone Chorale | 교회 음악 팝업 |
 
 ### 1970년대 서울과 디스코 크리스마스
@@ -175,7 +175,7 @@ flowchart TD
 ## 2000년대 장르 다양화와 리메이크 문화
 
 * R&B, 어쿠스틱, 클럽계 어레인지 증가
-* 정평곡의 커버 리메이크 다수
+* 클래식 곡 커버 리메이크 다수
 * 전달 서비스의 보급으로 구곡과 신곡의 경계가 모호해진다
 * 일본에서는 시티팝이나 겨울곡 커버 증가
 

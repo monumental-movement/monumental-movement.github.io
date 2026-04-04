@@ -14,7 +14,7 @@ title: 馬鈴薯怪物－沒有保證
 ---
 
 
-Spudmonsters 是一支美國激流金屬、硬核、跨界樂隊，由來自俄亥俄州克利夫蘭的 Don Foose、Scott Roberts、Steve Swanson、Eric Matthews 和 Chris Andrews 於 1987 年組建。
+The Spudmonsters（スパッドモンスターズ）は、オハイオ州クリーブランド出身のDon Foose、Scott Roberts、Steve Swanson、Eric Matthews、Chris Andrewsによって1987年に結成されたUSスラッシュメタル、ハードコア、クロスオーバー バンド。
 
 1995 年，德國廠牌 Massacre Records 發行了《No Ensures》。
 

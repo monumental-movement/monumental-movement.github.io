@@ -12,9 +12,9 @@ title: Daz Saund & Ben Tisdall – The Chase EP
 ---
 
 
-クラブ GarageやTrade でレジデントを務めたDaz SaundとプロデューサーBen Tisdall(Rizzo)によるプロジェクト。二人はHousewerk, Sound Associates名義でも活動している。
+A project by Daz Saund, who was a resident at clubs Garage and Trade, and producer Ben Tisdall (Rizzo). The two also work under the name Housewerk, Sound Associates.
 
-「The Chase EP 」は、日本のレーベルSublime RecordsのサブレーベルReel Musiqから2000年にリリースされたTechnoトラック。
+"The Chase EP" is a Techno track released in 2000 on Reel Musiq, a sublabel of Japanese label Sublime Records.
 
 #### Tracklist
 ```md
@@ -24,7 +24,7 @@ AA1. Point Blank
 AA2. Subtext
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78849969343?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m78849969343?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QC2q7XAoVaM?si=OslCx1rTF_7YIoEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

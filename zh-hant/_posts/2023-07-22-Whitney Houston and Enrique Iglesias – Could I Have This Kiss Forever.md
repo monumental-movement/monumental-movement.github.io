@@ -11,7 +11,7 @@ permalink: /zh-hant/whitney-houston-and-enrique-iglesias-could-i-have-this-kiss-
 tags:
 - Rock
 - Ballad
-title: Whitney Houston & Enrique Iglesias – Could I Have This Kiss Forever
+title: 惠妮休斯頓 & 恩里克伊格萊西亞斯 – 我可以永遠擁有這個吻嗎
 ---
 
 

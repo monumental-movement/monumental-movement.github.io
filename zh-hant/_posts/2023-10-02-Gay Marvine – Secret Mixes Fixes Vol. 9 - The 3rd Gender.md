@@ -13,7 +13,7 @@ title: 蓋伊馬文 – 秘密混音修復卷。 9 - 第三性別
 ---
 
 
-「Secret Mixes Fixes Vol. 9 - The 3rd Gender」は、2008年にレーベル「Secret Mixes Fixes」からリリースされた本名Chuck HamptonによるプロジェクトGay MarvineのEPです。
+《Secret Mixes Fixes Vol. 9 - The 3rd Gender》是 Gay Marvine 的一張 EP，由 Chuck Hampton 於 2008 年以「Secret Mixes Fixes」廠牌發行。
 
 #### 曲目表
 ```md

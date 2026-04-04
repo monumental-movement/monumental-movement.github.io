@@ -14,7 +14,7 @@ title: The Champs – Tequila
 ---
 
 
-"The Champs(더 챔프스) - Tequila(테킬라)/ Patsy Cline(패치 클라인) - Walkin' After Midnight(워킹 애프터 미드나이트)"는 라벨 Collectables에서 출시.
+"The Champs(더 챔프스) – Tequila(테킬라)/ Patsy Cline(패치 클라인) – Walkin' After Midnight(워킹 애프터 미드나이트)"는 라벨 Collectables에서 출시.
 
 #### Tracklist
 ```md

@@ -10,7 +10,7 @@ tags:
 - Disco
 - Synth-Pop
 - 7inch
-title: 激情——姬子
+title: 激情 - 卑彌呼
 ---
 
 

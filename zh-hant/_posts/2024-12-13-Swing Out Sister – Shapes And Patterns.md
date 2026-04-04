@@ -18,7 +18,7 @@ title: 搖擺姐妹 - 形狀和圖案
 
 《Shapes And Patterns》是 Swing Out Sister 的第五張錄音室專輯，於 1997 年發行。
 
-歌曲《Now You’re Not Here》被作為電視劇《正午的月亮》的主題曲而在日本大受歡迎。这张专辑由 Gota Yashiki 担任鼓手。
+歌曲《Now You’re Not Here》作為電視劇《正午的月亮》的主題曲在日本大受歡迎。這張專輯由 Gota Yashiki 擔任鼓手。
 
 #### 曲目表
 ```md

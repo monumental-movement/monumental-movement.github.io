@@ -14,9 +14,9 @@ title: Irene Cara – Fame
 ---
 
 
-Irene Cara (아이린 캐릭터)는 미국의 가수 겸 여배우. 1980년 뮤지컬 영화 '페임'의 코코 헤르난데스 역을 맡아 영화의 타이틀곡 'Fame'이 세계적 히트가 되었습니다.
+Irene Cara (아일린 캐릭터)는 미국의 가수 겸 여배우. 1980년 뮤지컬 영화 '페임'의 코코 헤르난데스 역을 맡아 영화의 타이틀곡 'Fame'이 세계적 히트가 되었습니다.
 
-Irene Cara는 영화 '플래시 댄스'의 'Flashdance... What a Feeling(플래시 댄스...호와트 어필링)'을 부른 것으로도 유명하다.
+Irene Cara는 영화 '플래시 댄스'의 'Flashdance... What a Feeling(플래시 댄스…호와트 어필링)'을 부른 것으로도 유명하다.
 
 #### Tracklist
 ```md

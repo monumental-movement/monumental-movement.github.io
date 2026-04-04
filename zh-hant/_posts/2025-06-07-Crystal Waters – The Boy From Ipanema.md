@@ -16,7 +16,7 @@ title: 水晶水 – 來自伊帕內瑪的男孩
 
 Crystal Waters 是一位美國浩室音樂和舞曲音樂創作歌手，以 20 世紀 90 年代的熱門歌曲“Gypsy Woman”和“100% Pure Love”而聞名。
 
-《The Boy From Ipanema》是一首 1996 年發行的浩室曲目。
+《The Boy From Ipanema》是一首 1996 年發行的 house 曲目。
 
 A-side 是 House 音樂 DJ/製作人 Frankie Knuckles 的混音版。
 

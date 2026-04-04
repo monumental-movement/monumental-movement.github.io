@@ -15,7 +15,7 @@ title: Hertz – 回顧未來 EP
 
 Hertz 是 Pierre Jerksten 的一個技術項目，自 2001 年以來一直活躍。
 
-2009年から2012年まではPetter Bとのデュオで活動していたHertzは、Defected、Toolroom Records、Underwater Records、Drumcode、Craft Music、Tresor、Virgin & Universalなど数多くのレーベルからリリースしている。
+Hertz 於 2009 年至 2012 年間與 Petter B 組成二人組，曾在眾多唱片公司發行過專輯，包括 Defected、Toolroom Records、Underwater Records、Drumcode、Craft Music、Tresor 和 Virgin & Universal。
 
 《Look Back To See The Future EP》是由 Umek 和 Valentino Kanzyani 創立的 Recycled Loops 於 2004 年發行的一首 techno/tech house 曲目。
 

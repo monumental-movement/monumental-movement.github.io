@@ -15,7 +15,7 @@ title: Moe. – Dither
 ---
 
 
-Moe는 1989년에 버팔로 대학에서 결성된 미국의 잼 록 밴드.
+Moe는 1989년에 버팔로 대학에서 결성된 미국의 잼록 밴드.
 
 'Dither'는 moe의 다섯 번째 스튜디오 앨범. 2001년에 밴드 자신의 라벨인 Fatboy Records에서 출시되어 DJ Logic, Kirk Juhas, Nykw-ILL bros가 참가하고 있다.
 

@@ -75,7 +75,7 @@ Glitchcore's BPM is not fixed and often fluctuates over a wide range of 100-180 
 **Characteristic elements:**
 
 * Extreme tempo changes
-* Editing that suddenly transitions to another song in the middle of the song
+* Editing that suddenly transitions to a different song in the middle of a song
 * Short hooks and fragmented melodies
 *Focus on strong 15-30 second hooks for TikTok
 
@@ -183,7 +183,7 @@ Example method:
 
 ---
 
-### 4-2 Aesthetics as an "overloaded mix"
+### 4-2 Aesthetics as "overloaded mix"
 
 In Hyper-Glitch's case, mixes are not about ""setting up," but about ""building while destroying."
 
@@ -191,7 +191,7 @@ point:
 
 * Simultaneous firing of stems
 * Superimposition of dense layers
-* Excessive low range
+* Too much bass
 * Extreme use of sound pressure limiters
 
 ---
@@ -267,7 +267,7 @@ Another major feature is that anime-style expressions, Vocaloid culture, Interne
 
 ### 7-3 SoundCloud personality
 
-osquinn and glaive brought emo chord progressions, guitar touches, and airy vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
+osquinn and glaive brought emo chord progressions, guitar touches, and light vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
 
 ---
 
@@ -340,3 +340,11 @@ It can be said that it is one of the genres that most directly embodies the spee
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4GIWf2Eyph8?si=V9Ehq42kiAHp0lF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -15,7 +15,7 @@ title: Mr Monday – Future
 ---
 
 
-"Future"는 1990 년에 Judge Jules와 Roy The Roache가 방금 시작한 레이블, Elevation Inc Recordings에서 출시되었습니다.
+'Future'는 1990년에 Judge Jules와 Roy The Roache가 방금 시작한 라벨인 Elevation Inc Recordings에서 발표되었다.
 
 이 곡은 메가·레이브·안셈으로서 주목받았지만, 라벨의 시작에 수반하는 트러블이나 유통 회사의 도산이 겹쳐, 매장에 늘어선 매수는 극히 조금. 그 때문에 DJ 사이에서 입수 곤란한 레어반이 되어, Tony Humphries(토니 핸프리즈)와 같은 DJ가 오랜 세월에 걸쳐 세트의 끝에 계속해서 클래식으로 부동의 지위를 쌓게 되었다.
 

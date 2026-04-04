@@ -15,7 +15,7 @@ title: VA – 恍惚情人 2
 
 恍惚彙編
 
-DJ Tomo 混音
+由 DJ Tomo 混音
 
 #### 曲目表
 ```md

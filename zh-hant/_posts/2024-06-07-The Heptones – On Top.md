@@ -14,7 +14,7 @@ title: 庚酮－在上面
 ---
 
 
-Heptones 是牙買加搖滾樂和雷鬼聲樂三重奏，在 20 世紀 60 年代和 70 年代初最為活躍。
+Heptones 是牙買加搖滾樂和雷鬼聲樂三重奏，在 20 世紀 60 年代和 1970 年代初最為活躍。
 
 Heptones 與 Wailers 和 Maytals 同時代，並在 20 世紀 60 年代中期被認為與他們旗鼓相當。
 
@@ -39,7 +39,7 @@ Heptones 與 Wailers 和 Maytals 同時代，並在 20 世紀 60 年代中期被
 15. Oil In My Lamp
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1wHb-SH2skE?si=P7-S0cBx-4IpARNV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

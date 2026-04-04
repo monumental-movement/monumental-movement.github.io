@@ -40,7 +40,7 @@ color: #fff;
 
 ## 1. What is Tech House?
 
-Tech House is generally understood as ""dance music that incorporates the structure and sonic processing of techno while maintaining the warmth of house.'' It combines the minimalism, metallic textures, and repetitive structures found in techno while retaining the funkiness and fatness of house.
+Tech House is generally understood to be ""dance music that incorporates the structure and sonic processing of techno while maintaining the warmth of house.'' It combines the minimalism, metallic textures, and repetitive structures found in techno while retaining the funkiness and fatness of house.
 
 The characteristics can be summarized as follows.
 
@@ -65,7 +65,7 @@ In particular, the following trends were the premise for the creation of Tech Ho
 * Minimalism of UK Techno (Surgeon, Regis, Dave Clarke, etc.)
 * A British take on the groove of US House (Chicago/NY)
 * Mix of Tribal House, Garage, and Progressive House
-* Cross-genre DJ styles from Pirate Radio and the London club scene (The End, etc.)
+* Genre-crossing DJ styles from Pirate Radio and the London club scene (The End, etc.)
 
 The people who gathered at the club weren't just looking for either techno or house, but were enjoying long DJ plays that mixed elements of both. Through this process, he developed a sense of mixing that naturally combines the "hardness of techno" and the "warmth of house."
 
@@ -130,7 +130,7 @@ In particular, the following artists are important as they bridge the gap betwee
 
 * Steve Bug (Poker Flat)
 * Booka Shade
-* M.A.N.D.Y.
+*M.A.N.D.Y.
 * Ricardo Villalobos (minimal but also intersects with Tech House)
 * Loco Dice
 *Luciano
@@ -152,7 +152,7 @@ flowchart TD
 
 ## 6. Changes in sound
 
-Towards the late 2000s, Tech House experienced the following changes.
+Towards the end of the 2000s, Tech House underwent the following changes.
 
 * **More detailed arrangement of rhythm**
 * **Increase in sub-base** (increased influence of Germany and South America)
@@ -168,7 +168,7 @@ At this time, Tech House was characterized by being ""softer than minimal", ""da
 
 In the 2010s, Tech House became one of the most frequently played 4/4 in clubs and festivals around the world. The increase in demand was particularly large in Ibiza.
 
-Examples of featured artists:
+Examples of notable artists:
 
 *Jamie Jones (Hot Creations)
 *Lee Foss
@@ -307,3 +307,11 @@ In this article, we have systematically organized how the Tech House genre was f
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8MyVwGRDawQ?si=dJehTw3TB74dE6Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

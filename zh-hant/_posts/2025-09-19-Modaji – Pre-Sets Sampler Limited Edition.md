@@ -10,7 +10,7 @@ tags:
 - Downtempo
 - Future Jazz
 - 00s
-title: Modaji – 預設採樣器限量版
+title: Modaji – Pre-Sets Sampler Limited Edition
 ---
 
 
@@ -18,7 +18,7 @@ title: Modaji – 預設採樣器限量版
 
 他以 Modaji 的名義，作為 Phil Asher 的 Restless Soul 團隊的成員活躍在碎拍音樂界，並以 Harvey Lindo 的名義發行了爵士樂 HOUSE。
 
-「Pre-Sets Sampler Limited Edition」は、2002年にBen Wilcox主宰のレーベルLaws Of MotionからリリースされたDowntempo／Future Jazz。
+「Pre-Sets Sampler Limited Edition」是 Ben Wilcox 的廠牌 Laws Of Motion 於 2002 年發行的 Downtempo/Future Jazz。
 
 #### 曲目表
 ```md

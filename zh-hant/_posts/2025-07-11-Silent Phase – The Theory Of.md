@@ -14,9 +14,9 @@ title: 沉默階段－（理論）
 ---
 
 
-Stacey Pullen，也被称为 Silent Phase，是一位来自底特律的 techno DJ 和制作人，活跃于 20 世纪 90 年代。其他名稱包括 Kosmic Messenger 和 Bango。这张专辑是他们唯一一张以 Silent Phase 为名的专辑，其声音深沉而圆润，融合了爵士乐、环境音乐、IDM 和电子音乐。它被譽為底特律電子藝術作品。
+Stacey Pullen，也被稱為 Silent Phase，是一位來自底特律的 techno DJ 和製作人，活躍於 20 世紀 90 年代。其他名称包括 Kosmic Messenger 和 Bango。這張專輯是他們唯一一張以 Silent Phase 為名的專輯，其聲音深沉而圓潤，融合了爵士樂、環境音樂、IDM 和電子音樂。它被誉为底特律电子艺术作品。
 
-它由 Derrick May 的 Transmat 和比利時獨立唱片公司 R&S Records 發行，Transmat 是 1990 年前在底特律成立的最重要的科技唱片公司之一（由 Carl Craig 的 Planet E 發行）。這張 CD 是比利時版。
+它由 Derrick May 的 Transmat 和比利时独立唱片公司 R&S Records 发行，Transmat 是 1990 年前在底特律成立的最重要的科技唱片公司之一（由 Carl Craig 的 Planet E 发行）。這張 CD 是比利時版。
 
 #### 曲目表
 ```md

@@ -17,7 +17,7 @@ title: Bebop Dawg – Rumble In Rio
 
 Bebop Dawg(비밥 더그)와 Lasse Mosegard / Illinton(일링턴)은 바르셀로나를 거점으로 활동하는 뮤지션 프로듀서.
 
-Frank E 명의로 알려진 덴마크 출신의 프로그레시브 사이키델릭 고아트랜스계의 중진 Frank Madsen과의 유닛 Franke And Illinton, 덴마크의 EDM 프로듀서 Mads Arp와의 유닛 Raoul Express의 멤버로서도 활동하고 있다.
+Frank E 명의로 알려진 덴마크 출신의 프로그레시브 사이키델릭 고어트랜스계의 중진 Frank Madsen과의 유닛 Franke And Illinton, 덴마크의 EDM 프로듀서 Mads Arp와의 유닛 Raoul Express의 멤버로서도 활동하고 있다.
 
 이 레코드는 프랑스 파리의 언더그라운드 Deep-House 라벨 Missive(1999년~2010년)부터 2002년에 릴리스된 퓨처 재즈 라틴 트럭.
 

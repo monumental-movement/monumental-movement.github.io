@@ -16,7 +16,7 @@ title: Kagami – 東京迪斯可音樂整夜（混音）
 
 加賀美的傑作和當時的讚歌“東京迪斯科音樂整夜”的混音合集。它於 2001 年在德國唱片公司 Leaded 上發行。
 
-A1 是德國 techno DJ/製作人 Beroshima 的混音版。
+A1は、ドイツのテクノDJ／プロデューサーBeroshima(ベロシマ)によるremix。
 
 B1 是 DJ Brixton 的混音版，他演奏的音樂風格多種多樣，從 Acid Techno 到 Tech House 和 House。
 

@@ -9,11 +9,11 @@ permalink: /zh-hant/ozgur-can-irony/
 tags:
 - Trance
 - Progressive
-title: Özgür Can – Irony
+title: 厄茲古爾·坎——諷刺
 ---
 
 
-Özgür Canは、スウェーデン出身のプロデューサー兼DJ。
+Özgür Can 是一位來自瑞典的製作人和 DJ。
 
 #### 曲目表
 ```md

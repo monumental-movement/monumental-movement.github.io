@@ -17,7 +17,7 @@ title: Mark De Clive-Lowe – Better Days
 
 Mark De Clive-Lowe는 현재 일본을 거점으로 활동하는 일본계 뉴질랜드인 뮤지션/작곡가/DJ/프로듀서. 얼터너티브 재즈, 일렉트로니카, 브로큰 비트 등을 융합시킨 스타일이 특징.
 
-「Better Days」는, 2000년에 UK의 라벨 People에서 릴리스된 Future Jazz/Deep House 트랙.
+「Better Days」는 2000년에 UK의 라벨 People에서 출시된 Future Jazz/Deep House 트랙.
 
 A1 & A2: Chip Matthews(Bass), Nick Gaffaney(Drums), Kim Paterson(Trumpet), Thomas Stowers(Vocals)
 

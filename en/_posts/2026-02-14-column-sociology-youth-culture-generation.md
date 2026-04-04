@@ -10,22 +10,23 @@ tags:
 - Sociology
 - Cculture
 - Generation
-title: 【コラム】 若年期に聴いた音楽ジャンルは、その後の人生と社会行動に影響するのか
+title: '[Column] Does the genre of music you listen to in your youth influence your
+  later life and social behavior?'
 ---
 
 
 
-## 序章：なぜ「若い頃に聴いた音楽」が残り続けるのか
+## Prologue: Why does the "music I listened to when I was young" remain?
 
-文：mmr｜テーマ：思春期から青年期に聴いた音楽が、価値観・職業観・社会参加にどのような長期影響を与えるのかを、各国の実証研究データから検証する
+Text: mmr｜Theme: Verifying the long-term effects of music listened to during adolescence and young adulthood on values, career views, and social participation using empirical research data from various countries
 
-多くの人が、人生のある時期を思い出すとき、特定の音楽と強く結びついた記憶を呼び起こす。それは単なる懐古ではない。心理学と神経科学の分野では、10代後半から20代前半にかけての経験が、自己概念や価値判断の基盤として固定されやすいことが繰り返し示されてきた。
+When many people think back to a certain time in their lives, they conjure up memories that are strongly associated with specific music. It's not just nostalgia. Psychology and neuroscience have repeatedly shown that experiences from our late teens to early 20s tend to become the foundation of our self-concept and value judgments.
 
-この時期は、感情処理を担う扁桃体と、報酬系を司るドーパミン回路が特に活発であり、新しい刺激に対する感受性が高い。音楽は感情、社会的帰属、身体感覚を同時に刺激するため、他の文化要素よりも深く記憶に刻まれる。
+During this period, the amygdala, which is responsible for emotional processing, and the dopamine circuit, which is responsible for the reward system, are particularly active, making children highly sensitive to new stimuli. Because music simultaneously stimulates emotions, social belonging, and physical sensations, it is more deeply imprinted in our memories than other cultural elements.
 
-本稿では、若年期に聴いた音楽ジャンルが、その後の人生や社会的行動にどの程度影響を与えるのかを、各国の長期追跡調査、社会統計、世代比較研究をもとに検証する。
+This paper examines the extent to which the genres of music listened to in youth influence later life and social behavior, based on long-term follow-up surveys, social statistics, and generational comparative studies in various countries.
 
-> 若年期の音楽体験は、記憶としてではなく、判断基準として人生に残り続ける。
+> Musical experiences from early childhood remain in one's life, not as memories, but as criteria for judgment.
 
 ---
 
@@ -34,7 +35,7 @@ title: 【コラム】 若年期に聴いた音楽ジャンルは、その後の
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -43,223 +44,223 @@ color: #fff;
 </style>
 
 
-## 第1章：音楽嗜好と人格形成に関する実証研究
+## Chapter 1: Empirical research on music preferences and personality development
 
-音楽嗜好と人格特性の関連は、欧米を中心に大規模データで検証されてきた。調査の多くは数千〜数万人規模のアンケートを用い、10代後半から20代前半の音楽嗜好と、成人後の性格特性を比較している。
+The relationship between music preferences and personality traits has been verified using large-scale data, mainly in Europe and the United States. Most of the research uses questionnaires from thousands to tens of thousands of people to compare music preferences in their late teens to early 20s with personality traits in adulthood.
 
-代表的な分析では、形成期に多様で非主流的な音楽を好んでいた層ほど、開放性が高い傾向が確認されている。逆に、構造が明確で主流的なジャンルを中心に聴いていた層は、誠実性や規範志向が高い。
+Representative analyzes have confirmed that people who preferred diverse and non-mainstream music during their formative years tend to be more open-minded. On the other hand, those who mainly listened to mainstream genres with clear structures were more honest and norm-oriented.
 
-重要なのは、現在の音楽嗜好よりも「形成期の嗜好」の方が、成人後の性格特性との相関が強い点である。これは嗜好そのものが人格を変えるというより、音楽を通じて形成された価値観が長期的に維持されることを示している。
+Importantly, ""formative tastes'' have a stronger correlation with personality traits in adulthood than current musical tastes. This suggests that rather than taste itself changing personality, the values ​​formed through music are maintained over the long term.
 
-> 音楽は人格を決定しないが、人格形成の方向性を強化する。
-
----
-
-## 第2章：教育選択と職業選択への影響
-
-複数国の縦断調査では、若年期の音楽文化への関与度が、成人後の教育分野や職業選択と統計的に関連していることが示されている。サンプル数は数千〜一万人規模で、10年以上の追跡が行われている。
-
-実験的・反体制的な音楽文化に親しんだ層は、芸術、研究、IT、メディアといった創造性や自己裁量の高い分野に進む割合が高い。一方、商業的・伝統的ジャンルを中心に聴いていた層は、制度的安定性の高い職業に就く傾向がある。
-
-この関係は、家庭環境や学歴を統制した後でも残ることから、音楽文化が価値観や進路意識に独立した影響を与えていると解釈されている。
-
-> 音楽文化は、進路を直接決めるのではなく、選択肢の優先順位を形成する。
+> Music does not determine personality, but it strengthens the direction of personality development.
 
 ---
 
-## 第3章：政治意識と社会参加への影響
+## Chapter 2: Effects on educational and career choices
 
-政治意識との関連を分析した研究では、若年期に社会的メッセージ性の強い音楽を聴いていた層ほど、成人後の投票率や社会運動参加率が高い傾向が示されている。調査は世代別に分けられ、数十年単位で比較されている。
+Longitudinal studies from multiple countries have shown that the level of involvement in musical culture in early life is statistically associated with educational and career choices in adulthood. The sample size ranges from a few thousand to 10,000 people and has been followed for more than 10 years.
 
-一方、娯楽性や個人主義を重視する音楽文化に親しんだ層は、制度的政治参加よりも、消費行動やライフスタイルを通じた価値表明を行う傾向が強い。
+Those familiar with experimental and anti-establishment music culture are more likely to pursue fields of creativity and self-discretion, such as art, research, IT, and media. On the other hand, those who mainly listened to commercial and traditional genres tended to have jobs with high institutional stability.
 
-音楽が政治的立場を直接形成するというより、参加の形式や距離感を学習させる役割を果たしている点が重要である。
+Because this relationship remains even after controlling for family environment and educational background, it is interpreted that music culture has an independent influence on values ​​and career aspirations.
 
-> 音楽は政治思想ではなく、社会参加の型を学ばせる。
-
----
-
-## 第4章：ジャンル別分析① ロック
-
-ロックは1950年代以降、若者文化と強く結びついてきた。若年期にロックを中心に聴いていた世代は、自己表現や反権威的態度を肯定的に捉える傾向がある。
-
-長期調査では、この層が成人後も職場や社会で意見表明を行う頻度が高いことが示されている。一方で、制度への不信感も併存しやすい。
-
-### 影響が最大化する年齢帯
-
-ロックの影響が最も強く現れるのは、おおよそ15〜22歳の時期である。この年代は自我形成と社会規範への疑問が同時に進行する段階であり、ロックが提示する反権威的態度や自己表現の語彙が、人格形成と結びつきやすい。
-
-> ロックは自己主張の正当性を学習させる文化として機能した。
+> Musical culture does not directly determine career paths, but shapes the priorities of choices.
 
 ---
 
-## 第5章：ジャンル別分析② ヒップホップ
+## Chapter 3: Effects on political consciousness and social participation
 
-ヒップホップ文化は、社会的周縁から生まれた語りを特徴とする。若年期にヒップホップに親しんだ層は、社会的不平等やアイデンティティへの感受性が高い。
+Research that analyzes the relationship with political consciousness shows that people who listened to music with strong social messages when they were young tended to have higher voting rates and social movement participation rates as adults. The study is broken down by generation and compared over several decades.
 
-米国の追跡調査では、この層が地域活動やコミュニティ参加に積極的である傾向が確認されている。
+On the other hand, those familiar with a music culture that emphasizes entertainment and individualism are more likely to express their values ​​through consumption behavior and lifestyle rather than institutional political participation.
 
-### 影響が最大化する年齢帯
+It is important that music plays a role in learning forms of participation and sense of distance, rather than directly forming political positions.
 
-ヒップホップの影響が最大化するのは、16〜25歳前後である。社会的立場や属性への自覚が強まるこの時期に、自己語りとしてのヒップホップが内面化されやすい。
-
-> ヒップホップは、自己と社会の関係を言語化する力を育てる。
+>Music teaches us not political ideas, but patterns of social participation.
 
 ---
 
-## 第6章：ジャンル別分析③ 電子音楽
+## Chapter 4: Analysis by genre ① Rock
 
-電子音楽に親しんだ世代は、国境やジャンルを越える感覚を持ちやすい。特にヨーロッパでは、若年期のクラブ文化経験が国際移動や柔軟な労働観と結びついている。
+Rock has been strongly associated with youth culture since the 1950s. The generation that mainly listened to rock music in their youth tends to view self-expression and anti-authority attitudes positively.
 
-### 影響が最大化する年齢帯
+Long-term studies have shown that this group is more likely to express their opinions in the workplace and society even after adulthood. On the other hand, distrust of the system is also likely to coexist.
 
-電子音楽の影響が最も強く現れるのは、18〜28歳前後である。夜間文化やクラブ空間を自律的に選択できるようになる年齢帯で、身体感覚と社会的ネットワークが同時に形成される。
+### Age range of greatest impact
 
-> 電子音楽は、ネットワーク型社会への適応力を育てる。
+The influence of rock is most apparent between the ages of 15 and 22. This age is a stage in which self-development and questioning of social norms progress simultaneously, and the anti-authoritarian attitude and vocabulary of self-expression presented by Locke are likely to be linked to personality development.
 
----
-
-## 第7章：ジャンル別分析④ ポップ
-
-ポップ音楽は最も広範な層に共有される文化であり、同調性や共通言語として機能する。若年期にポップ中心の音楽体験を持つ層は、協調性が高い傾向を示す。
-
-### 影響が最大化する年齢帯
-
-ポップの影響が最大化するのは、12〜18歳前後である。学校生活や同世代集団との関係が中心となるこの時期に、共通のヒット曲が社会的接着剤として機能する。
-
-> ポップは、世代的共通基盤を形成する役割を担う。
+> Locke functioned as a culture that taught people the validity of self-assertion.
 
 ---
 
-## 第8章：国別比較：アメリカ
+## Chapter 5: Genre analysis ② Hip hop
 
-アメリカの研究では、サンプル数数万人規模の長期調査が行われている。若年期の音楽嗜好は、人種・地域・階層と強く結びつき、成人後も社会的帰属意識として残る。
+Hip-hop culture is characterized by narratives born from the social margins. Those who became familiar with hip-hop at a young age are more sensitive to social inequality and identity.
 
-ヒップホップ、ロック、カントリーは、それぞれ異なるコミュニティ構造と結びつき、政治意識や社会参加の形に差を生んでいる。
+A follow-up survey in the United States has confirmed that this group tends to be more active in local activities and community participation.
 
-> アメリカでは音楽ジャンルが社会的アイデンティティの一部となる。
+### Age range of greatest impact
 
----
+Hip-hop's influence is greatest between the ages of 16 and 25. At a time when people are becoming more aware of their social position and attributes, it is easy for people to internalize hip-hop as a form of self-talk.
 
-## 第9章：国別比較：ヨーロッパ
-
-ヨーロッパでは、音楽嗜好と社会行動の関連が教育制度や都市文化と結びついて分析されている。電子音楽世代は国際志向が強く、労働移動性が高い。
-
-> ヨーロッパでは音楽体験が国境意識を相対化する。
+> Hip hop fosters the ability to verbalize the relationship between self and society.
 
 ---
 
-## 第10章：国別比較：日本（90年代以前）
+## Chapter 6: Genre analysis ③ Electronic music
 
-90年代以前の日本では、音楽嗜好が社会的行動に直接反映されにくかった。終身雇用や画一的教育制度が、個人差を吸収していたためである。
+The generation that is familiar with electronic music tends to have a sense of transcending national borders and genres. Particularly in Europe, early experience with club culture is associated with international mobility and flexible work attitudes.
 
-それでも、ロックやフォークに親しんだ世代は、内面的な批評性を保持する傾向が確認されている。
+### Age range of greatest impact
 
-> 音楽の影響は表に出にくくとも、内面に蓄積された。
+The influence of electronic music is most apparent between the ages of 18 and 28. Physical sensations and social networks are formed at the same time at the age when children become able to autonomously choose nighttime culture and club spaces.
 
----
-
-## 第11章：国別比較：日本（2000年代以降）
-
-2000年代以降、制度の流動化とともに、音楽嗜好と職業観の関連が顕在化する。サブカルチャー的音楽に親しんだ層は、フリーランスや複業志向が高い。
-
-### J-POP／サブカル／クラブ文化の分岐
-
-2000年代以降の日本では、若年層の音楽体験が大きく三つに分岐する。J-POPは依然として世代的共通基盤を提供し、学校的・メディア的文脈で共有される。一方、アニメ・ネット文化と結びついたサブカルチャー音楽は、個人の趣味嗜好を強く内面化させる役割を果たした。
-
-さらに都市部では、クラブ文化や電子音楽が、夜間経済と結びついた新しい社会経験の場として機能する。これらの分岐は、職業観や働き方の選択に差異を生み出している。
-
-> 日本では近年、音楽体験が働き方に反映され始めている。
+> Electronic music fosters the ability to adapt to a networked society.
 
 ---
 
-## 第12章：世代と主要ジャンルの年表
+## Chapter 7: Genre analysis ④ Pop
+
+Pop music is the most widely shared culture and functions as a synonym and a common language. People who had a pop-centered music experience when they were young tend to be more cooperative.
+
+### Age range of greatest impact
+
+Pop's influence is at its greatest between the ages of 12 and 18. At a time when school life and relationships with peer groups are central, common hits act as social glue.
+
+> Pop plays the role of forming a generational common ground.
+
+---
+
+## Chapter 8: Country Comparison: America
+
+American research is conducting long-term surveys with samples of tens of thousands of people. Musical preferences in youth are strongly tied to race, region, and class, and remain as a sense of social belonging even after adulthood.
+
+Hip-hop, rock, and country are each associated with different community structures, creating differences in political consciousness and forms of social participation.
+
+> In America, musical genres become part of social identity.
+
+---
+
+## Chapter 9: Country Comparison: Europe
+
+In Europe, the relationship between musical tastes and social behavior has been analyzed in conjunction with educational systems and urban culture. The electronic music generation has a strong international orientation and high labor mobility.
+
+> In Europe, musical experiences relativize national border consciousness.
+
+---
+
+## Chapter 10: Country comparison: Japan (before 1990s)
+
+In Japan before the 1990s, musical tastes were difficult to directly reflect in social behavior. This is because lifetime employment and a uniform education system absorbed individual differences.
+
+Still, it has been confirmed that the generation that is familiar with rock and folk music tends to retain an internal critical nature.
+
+> Even though the influence of music was hard to express, it accumulated internally.
+
+---
+
+## Chapter 11: Country comparison: Japan (2000s onwards)
+
+Since the 2000s, as the system has become more fluid, the relationship between musical tastes and job views has become apparent. Those who are familiar with subcultural music are more likely to be freelancers or have multiple jobs.
+
+### Branch of J-POP/Subculture/Club Culture
+
+Since the 2000s in Japan, young people's musical experiences have broadly diverged into three categories. J-POP still provides a generational common ground and is shared in school and media contexts. On the other hand, subcultural music connected to anime and internet culture has played a role in strongly internalizing individual tastes and preferences.
+
+Furthermore, in urban areas, club culture and electronic music function as new social experiences linked to the night-time economy. These divergences create differences in career views and work style choices.
+
+> In recent years, music experiences have begun to be reflected in work styles in Japan.
+
+---
+
+## Chapter 12: Chronology of generations and major genres
 
 <div class="mermaid">
 flowchart LR
-A[1960s 若年期] --> B[フォーク / ロック]
-B --> C[社会運動と政治参加]
-D[1980s 若年期] --> E[ポップ / ロック]
-E --> F[消費文化と個人主義]
-G[1990s 若年期] --> H[ヒップホップ / 電子音楽]
-H --> I[ネットワーク社会]
-J[2000s 若年期] --> K[デジタルポップ / EDM]
-K --> L[流動的キャリア]
+A[1960s youth] --> B[fork/lock]
+B --> C[Social movements and political participation]
+D[1980s youth] --> E[pop/rock]
+E --> F[consumer culture and individualism]
+G[1990s youth] --> H[hip hop/electronic music]
+H --> I[network society]
+J[2000s youth] --> K[Digital pop/EDM]
+K --> L[fluid career]
 </div>
 
-> 世代と音楽ジャンルは、社会行動の変化と連動している。
+> Generations and music genres are linked to changes in social behavior.
 
 ---
 
-## 第13章：因果ではなく初期条件としての音楽
+## Chapter 13: Music as an initial condition, not cause and effect
 
 <div class="mermaid">
 flowchart LR
-A[若年期の音楽体験] --> B[価値観の形成]
-A --> C[社会的ネットワーク]
-B --> D[職業観・参加様式]
+A[Early musical experiences] --> B[Formation of values]
+A --> C[social network]
+B --> D[Work outlook/participation style]
 C --> D
-D --> E[成人後の行動傾向]
+D --> E[Behavioral tendencies after adulthood]
 </div>
 
-> 音楽は直接の原因ではなく、人生の初期条件として作用する。
+> Music is not a direct cause, but acts as an initial condition of life.
 
 ---
 
-## 終章：音楽は人生をどこまで形づくるのか
+## Final Chapter: To what extent does music shape life?
 
-実証データが示すのは、音楽が人生を決定づけるという単純な因果ではない。音楽文化は、価値観・社会参加・職業観の初期条件として作用し続ける。
+What the empirical data shows is not a simple cause and effect that music determines our lives. Musical culture continues to act as an initial condition for values, social participation, and vocational views.
 
-国や制度によって表れ方は異なるが、若年期に聴いた音楽は、人生の随所で参照点として機能し続ける。
+Although it manifests itself differently depending on the country and system, the music you listen to in your youth continues to serve as a reference point throughout your life.
 
-> 若年期の音楽体験は、人生の地図ではなく、方位磁針である。
+> Musical experiences in early life are not a map of life, but a compass.
 
 ---
 
-## 参考文献・リファレンス（研究・統計資料）
+## References/References (research/statistical materials)
 
-本コラムは、以下のような実証研究・長期調査・社会統計を基礎資料として構成されている。特定の主張は、単一研究ではなく、複数の研究結果の重なりをもとに整理している。
+This column is constructed based on the following empirical research, long-term surveys, and social statistics. Specific claims are organized based on the overlapping results of multiple studies, rather than on the basis of a single study.
 
-### 音楽嗜好と人格・心理
+### Music taste and personality/psychology
 
-・Rentfrow, P. J., & Gosling, S. D.（2003）Music preferences and personality traits. Journal of Personality and Social Psychology.
+・Rentfrow, P. J., & Gosling, S. D. (2003) Music preferences and personality traits. Journal of Personality and Social Psychology.
 
-・Rentfrow, P. J., et al.（2011）The structure of musical preferences. Journal of Personality and Social Psychology.
+・Rentfrow, P. J., et al. (2011) The structure of musical preferences. Journal of Personality and Social Psychology.
 
-・North, A. C., & Hargreaves, D. J.（2008）The social and applied psychology of music.
+・North, A. C., & Hargreaves, D. J. (2008) The social and applied psychology of music.
 
-### 若年期記憶・発達心理
+### Early childhood memory/developmental psychology
 
-・Rubin, D. C., Rahhal, T. A., & Poon, L. W.（1998）Things learned in early adulthood are remembered best. Memory & Cognition.
+・Rubin, D. C., Rahhal, T. A., & Poon, L. W. (1998) Things learned in early adulthood are best remembered. Memory & Cognition.
 
-・Arnett, J. J.（2000）Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist.
+・Arnett, J. J. (2000) Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist.
 
-### 音楽文化と社会行動・政治参加
+### Music culture and social behavior/political participation
 
-・Street, J.（2012）Music and politics.
+・Street, J. (2012) Music and politics.
 
-・Bennett, A.（2001）Cultures of popular music.
+・Bennett, A. (2001) Cultures of popular music.
 
-・Frith, S.（1996）Music and identity.
+・Frith, S. (1996) Music and identity.
 
-### 教育・職業選択と文化資本
+### Education/occupational choice and cultural capital
 
-・Bourdieu, P.（1984）Distinction: A social critique of the judgement of taste.
+・Bourdieu, P. (1984) Distinction: A social critique of the judgment of taste.
 
-・Savage, M., et al.（2013）A new model of social class. Sociology.
+・Savage, M., et al. (2013) A new model of social class. Sociology.
 
-### 国別・世代別長期調査
+### Long-term survey by country and generation
 
-・General Social Survey（米国・長期社会調査）
+・General Social Survey (U.S. long-term social survey)
 
-・European Social Survey（欧州・比較社会調査）
+・European Social Survey
 
-・World Values Survey（国際価値観調査）
+・World Values ​​Survey
 
-### 日本の音楽文化・世代研究
+### Japanese music culture and generation research
 
-・文化庁（各年）文化に関する世論調査.
+・Public opinion survey on culture conducted by the Agency for Cultural Affairs (each year).
 
-> 本稿は、音楽ジャンルと社会行動の関係を、決定論ではなく累積的影響として捉える研究潮流に依拠している。
+> This paper relies on a research trend that views the relationship between music genres and social behavior as a cumulative effect rather than a deterministic one.
 
 ---

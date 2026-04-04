@@ -13,7 +13,7 @@ title: Mauro Picotto – Lizard
 ---
 
 
-Mauro Picotto(마우로 피콧)는 90년대 초반부터 활약하는 이탈리아 출신의 프로듀서 겸 DJ. DJ Tiësto나 Mario Piu 등 수많은 일렉트로니카/트랜스 뮤지션과 콜라보레이션하고 있다.
+Mauro Picotto (마우로 피콧)는 90 년대 초반부터 활약하는 이탈리아 출신의 프로듀서 겸 DJ. DJ Tiësto나 Mario Piu 등 수많은 일렉트로니카/트랜스 뮤지션과 콜라보레이션하고 있다.
 'Lizard'는 1998년 Empire State Records에서 발표된 Mauro Picotto의 대표곡 중 하나.
 
 A면은 Andrea Remondini와 Mauro Picotto에 의한 유닛 Megavoices에 의한 remix.

@@ -53,7 +53,7 @@ In the field of 2025, these will dissolve the boundaries between professionals a
 #### AI "makes sounds", humans "choose meanings"
 
 For example, electronica artist Arca treats AI sound as a material and combines it with his own real voice. What she does is ""context design that asks why you should choose one out of the countless possibilities created by AI.''
-Similarly, James Blake from the UK created an album [""Playing Robots Into Heaven" (2024)] (https://amzn.to/3L1hE6D) with the theme of ""human fragility" while treating AI as a ""co-author.''
+Similarly, James Blake from the UK created an album [Playing Robots Into Heaven (2024)] (https://amzn.to/3L1hE6D) with the theme of "human fragility" while treating AI as a "co-author."
 
 What these examples show is that AI is becoming less of a ""creator of sound" and more of a ""mirror that highlights what people choose."
 Precisely because the tools are open to everyone, what is being questioned is the individual's contextual power = the meaning of choice.

@@ -14,7 +14,7 @@ title: 無論如何－有人救救我（改變狀態）
 ---
 
 
-「By All Means - Somebody Save Me (Altered States)」は、
+“無論如何 - 有人救我（改變狀態）”
 來自芝加哥的製作人和 DJ Marshall Jefferson 的 Acid 混音。
 
 #### 曲目表

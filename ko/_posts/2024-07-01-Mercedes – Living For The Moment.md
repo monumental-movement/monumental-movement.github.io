@@ -15,7 +15,7 @@ title: Mercedes – Living For The Moment
 ---
 
 
-트리니다드 출신으로 영국을 거점으로 활동하는 가수 Mercedes(메르세데스)가 Depth Charge, Eon, Bizarre Inc, Andrew Meecham을 배출한 것으로 유명한 UK의 레이블 Vinyl Solution에서 1994년에 발표한 하우스 갈라지 하우스 트랙.
+트리니다드 출신으로 영국을 거점으로 활동하는 가수 Mercedes(메르세데스)가 Depth Charge, Eon, Bizarre Inc, Andrew Meecham을 배출한 것으로 유명한 UK의 레이블 Vinyl Solution에서 1994년에 릴리스한 하우스 갈라지 하우스 트랙.
 
 A면 1곡째와 B면은 런던을 거점으로 하는 DJ 프로듀서 Booker T와 Mark Frank에 의한 remix. A면 2곡째는 UK의 멀티 악기 연주자, 프로듀서, 믹싱/마스터링 엔지니어 Alan Scott(Al Scott)에 의한 remix.
 

@@ -16,7 +16,7 @@ title: Sandy Warez – Tribal Tricks Vol. 1
 
 Sandy Warez는 20년 이상의 경력을 가진 하드 코어 테크노계의 베테랑 DJ. 현대의 하드코어 장면에서 가장 영향력 있는 라벨 중 하나 'Footworxx'를 주재하고 있으며, 많은 젊은 아티스트를 배출하고 있다.
 
-'Tribal Tricks Vol. 1'은 Sandy Warez가 현재와 같은 프렌치 코어/하드 코어 스타일로 시프트하기 전, 2002년에 벨기에의 라벨 Subsounds로부터 릴리스 된 초기의 하드 테크노 작품.
+'Tribal Tricks Vol. 1'은 Sandy Warez가 현재와 같은 프렌치 코어/하드 코어 스타일로 시프트하기 전, 2002년에 벨기에의 라벨 Subsounds에서 발매된 초기의 하드 테크노 작품.
 
 #### Tracklist
 ```md

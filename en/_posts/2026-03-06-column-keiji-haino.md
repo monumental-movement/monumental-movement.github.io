@@ -31,7 +31,7 @@ It's not even noise.
 
 However, it has left its mark on all areas.
 
-Since the 1970s, he has been active at the center of Japan's underground music, crossing over into improvisation, noise, psychedelic, drone, and folk singing.
+Since the 1970s, he has been active at the center of Japan's underground music scene, crossing over into improvisation, noise, psychedelic, drone, and folk singing.
 
 He has often collaborated with experimental musicians and rock musicians from overseas, and has received high praise internationally.
 
@@ -128,7 +128,7 @@ Activities with Lost Alaf were one of the starting points for Keiji Haino's musi
 
 ### Relationship with Toru Takemitsu
 
-Connection with contemporary Japanese music
+Connection with Japanese contemporary music
 
 Keiji Haino's music is often talked about in the context of rock and noise, but it also has connections with contemporary Japanese music.
 
@@ -265,7 +265,7 @@ His voice sometimes comes across as a strong scream, but in quieter pieces it's 
 A singing voice tinged with kindness.
 The sound of a voice that touches the soul directly.
 
-The voice conveys more emotion than melody.
+The voice conveys emotion more than melody.
 
 It quietly penetrates inside the listener and evokes deep sensations.
 
@@ -302,7 +302,7 @@ His activities are as DJ Keiji Haino.
 
 In this style, they perform while playing music from around the world on CDJs.
 
-The music selected is not limited to any genre.
+The music selected is not limited to genre.
 
 folk music
 rock
@@ -423,7 +423,7 @@ By encountering unknown sounds, my music also changes.
 
 ### Flow of solo and major works
 
-Keiji Haino has released a huge amount of recorded works from the late 1970s to the present.
+Keiji Haino has released a vast amount of recorded works from the late 1970s to the present.
 The format is diverse, including studio works, live recordings, limited editions, and collaborations, and the total number is said to be in the hundreds.
 
 The following is a flow of important works that are widely known among them.
@@ -451,7 +451,7 @@ The information below is compiled from multiple reliable sources (Discogs, Wikip
 | Year | Title | Label | Notes |
 |---|---|---|---|
 | 1989 | **Fushitsusha Double Live (Live I)** | PSF | One of the earliest releases on the PSF label. 2-disc live LP |
-| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (with Hiroshi Mikami and Motoharu Yoshizawa) | PSF | An improvised masterpiece by the trio with Hiroshi Mikami and Motoharu Yoshizawa |
+| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (with Hiroshi Mikami and Motoharu Yoshizawa) | PSF | A masterpiece of improvisation by the trio with Hiroshi Mikami and Motoharu Yoshizawa |
 | 1991 | **Fushitsusha (Double Live / Live II)** | PSF | One of the important documents of Japanese psychedelic rock in the 1990s |
 | 1993 | **Allegorical Misunderstanding** | Avant (led by John Zorn) | Released on John Zorn's Avant label |
 | 1994 | **Pathétique** | PSF | Oren Ambarchi describes it as "one of my favorite Fushitsusha works" |

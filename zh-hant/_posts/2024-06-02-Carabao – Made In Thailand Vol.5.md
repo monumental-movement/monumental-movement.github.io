@@ -11,7 +11,7 @@ tags:
 - Thai Rock
 - Folk
 - 80s
-title: Carabao – 泰國製造 Vol.5
+title: Carabao – Made In Thailand Vol.5
 ---
 
 

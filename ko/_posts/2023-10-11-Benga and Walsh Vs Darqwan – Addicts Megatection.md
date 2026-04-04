@@ -15,7 +15,7 @@ title: Benga and Walsh Vs Darqwan – Addicts Megatection
 
 Benga & Walsh 대 Darqwan – Addicts / Megatection은 세 명의 저명한 Dubstep 아티스트, Benga, Walsh, Darqwan의 Dubstep 트랙입니다.
 
-Dubstep의 선구자 중 한 명인 Benga는 UK 사우스 런던 출신의 Dubstep 프로듀서. 「Katy On A Mission」(Katy B), 「I Need Air」(Magnetic Man feat. Angela Hunte), 「Fire」(Magnetic Man feat. Ms Dynamite) 등의 히트 싱글을 다룬 것으로 알려져 있다.
+덥스텝의 선구자 중 한 명인 Benga는 UK 사우스 런던 출신의 덥스텝 프로듀서. 「Katy On A Mission」(Katy B), 「I Need Air」(Magnetic Man feat. Angela Hunte), 「Fire」(Magnetic Man feat. Ms Dynamite) 등의 히트 싱글을 다룬 것으로 알려져 있다.
 
 UK Dubstep 장면 초기부터 활동하는 Walsh는 크로이돈을 거점으로 하는 Dubstep DJ&프로듀서. Walsh는 Dubstep 장면에서 높은 평가를 받았으며 자체 사운드와 기술 기술로 유명합니다.
 

@@ -13,7 +13,7 @@ title: 蜘蛛恐懼症 – 蜘蛛恐懼症
 ---
 
 
-Araknofobiaは、UKのハウス ミュージックDJ/プロデューサーJon Pearn、Michael Gray、Cino Berigliano、Nick Ratcliffeによって結成されたエレクトロニックミュージックグループ。
+Araknophobia 是一個電子音樂團體，由英國 house 音樂 DJ/製作人 Jon Pearn、Michael Gray、Cino Berigliano 和 Nick Ratcliffe 組成。
 
 《Arachnophobia》是 Araknophobia 的首支單曲，也是他們的標誌性歌曲。也以馬修之友 (FOM) 的身份活躍。
 

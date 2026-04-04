@@ -12,7 +12,7 @@ title: Geodezik – Trap EP
 ---
 
 
-《陷阱EP》是
+「Trap EP」は、
 這是 Takahiro Shimojo 的專案 Geodezik 的 EP，於 1999 年在「Beat Records」廠牌上發行。
 
 #### 曲目表

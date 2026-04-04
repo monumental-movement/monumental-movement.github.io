@@ -10,7 +10,7 @@ tags:
 - Trance
 - Techno
 - 00s
-title: Marmion – Schöneberg Part2
+title: Marmion – Schöneberg 第 2 部分
 ---
 
 
@@ -18,7 +18,7 @@ Marmion 是 Mijk Van Dijk 和 Marcos López 來自德國的 trance techno 計畫
 
 「Schöneberg Part 2」是德國唱片公司 Superstition 於 2003 年發行的一首 trance techno 曲目。
 
-Side A 是 Technasia 的混音版。 B 面的第二首歌是 John Acquaviva 的混音版，他于 1989 年与 Richie Hawtin 共同创立了 Plus 8 Records Ltd.。
+Side A 是 Technasia 的混音版。 B 面的第二首歌曲是 John Acquaviva 的混音版，他於 1989 年與 Richie Hawtin 共同創立了 Plus 8 Records Ltd.。
 
 #### 曲目表
 ```md

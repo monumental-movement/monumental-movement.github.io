@@ -10,11 +10,11 @@ tags:
 - Rock
 - Latin
 - 7inch
-title: 冠軍 – 龍舌蘭酒
+title: The Champs – Tequila
 ---
 
 
-「The Champs（ザ・チャンプス） – Tequila（テキーラ）/ Patsy Cline（パッツィー・クライン） – Walkin' After Midnight（ウォーキング アフター ミッドナイト）」は、レーベルCollectablesからのリリース。
+《The Champs - Tequila / Patsy Cline - Walkin' After Midnight》是 Collectables 廠牌發行的專輯。
 
 #### 曲目表
 ```md

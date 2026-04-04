@@ -14,7 +14,7 @@ title: 恆星計劃壯舉。布蘭迪艾瑪 – 站起來站起來
 ---
 
 
-Stellar Projectは、イタリアのプロデューサーのStefano Sorrentinoによるハウス/ダンスプロジェクト。
+Stellar Project 是義大利製作人 Stefano Sorrentino 的浩室/舞蹈課程。
 
 Side A 是義大利 house/techno DJ 二人組 Phunk Investigation 的混音版。
 

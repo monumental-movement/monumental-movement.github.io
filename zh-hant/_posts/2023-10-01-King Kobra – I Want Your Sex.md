@@ -12,7 +12,7 @@ title: King Kobra – 我想要你的性愛
 ---
 
 
-這是來自他的真名 David Brian Srb 的專案“King Kobra”的單曲。
+本名David Brian Srbのプロジェクトである「King Kobra」のシングルです。
 
 David Brian Srb 出生於內布拉斯加州奧馬哈，是一位多樂器演奏家、創作歌手、錄音工程師和音樂製作人。
 

@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/art-of-trance-madagascar/
 tags:
 - Trance
-title: Art Of Trance – Madagascar
+title: 恍惚藝術－馬達加斯加
 ---
 
 

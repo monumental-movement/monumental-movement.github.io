@@ -17,7 +17,7 @@ Crush는 영국의 팝 듀오입니다. Donna Air와 Jayni Hoy는 원래 영국 
 
 세 번째 싱어(Vicky Taylor)를 맞이한 'Byker Grooove!'로 팝의 세계에 도전한 후 듀오 'Crush'로 활동했습니다.
 
-그 후 호이가 탈퇴하고 루시아나 카포라소가 그녀 대신에 가입했다.
+그 후 호이가 탈퇴하고 루시아나 카포라소가 그녀 대신 가입했다.
 
 #### Tracklist
 ```md

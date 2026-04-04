@@ -25,5 +25,5 @@ A. Freek Like Me (Alma Matris Reconstruction Remix)
 B. Freek Like Me (Sander Kleinenberg Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
 

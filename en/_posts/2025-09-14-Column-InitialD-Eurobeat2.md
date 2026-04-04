@@ -188,7 +188,7 @@ Car sound: ▒▒▒▒▒▒→ GT-R acceleration sound </div>
 | 1980s | Italo Disco, Hi-NRG | Den Harrow, Fancy | Origin of Eurobeat |
 | 1990s | Avex Eurobeat golden age | Dave Rodgers, Max Coveri | Initial D soundtrack |
 | 2000s | Internet spread, parapara culture | Niko, Domino | Combining with game and anime culture |
-| 2010s | Meme, revival | Internet memes (Deja Vu) | Worldwide refocus |
+| 2010s | Memeization, revival | Internet memes (Deja Vu) | Renewed attention worldwide |
 | 2020s | EDM / Synthwave fusion | Current DJs, Producers | Toward a new sound |
 
 ---

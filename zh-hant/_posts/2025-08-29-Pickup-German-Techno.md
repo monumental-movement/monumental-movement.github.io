@@ -23,7 +23,7 @@ title: 挑選德國Techno作品
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-亮點：德國著名廠牌 Tresor 的合輯，收錄了 Sven Väth、Maurizio、Ben Sims、James Ruskin 和 Pacou 等科技界大腕的精選曲目。这是一首可以让你充分体验象征德国柏林的硬派、简约、创新的techno魅力的作品。
+亮點：德國著名廠牌 Tresor 的合輯，收錄了 Sven Väth、Maurizio、Ben Sims、James Ruskin 和 Pacou 等科技界大腕的精選曲目。這是一首可以讓你充分體驗象徵德國柏林的硬派、簡約、創新的techno魅力的作品。
 
 
 #### 曲目表
@@ -80,10 +80,10 @@ B. Souls At Zero (Sven Väth Remix)
 
 
 ### Cygnus X – 橘色主題（混音版）
-<a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20X%20%E2%80%93%20The%20Orange%(Thewebp.
+<a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-亮点：德国组合 Cygnus X 充满活力、振奋人心的 trance techno 杰作《The Orange Theme》的混音版。包含 Moonman、Bervoets & De Goeij、Mark Van Dale 和 Enrico 等人的各種混音版，讓您享受捕捉原曲精髓的適合俱樂部的編曲。
+亮點：德國組合Cygnus X充滿活力、振奮人心的trance techno傑作《The Orange Theme》的混音專輯，收錄了Moonman、Bervoets & De Goeij、Mark Van Dale和Enrico等人的多種混音作品，讓您享受捕捉原曲精髓的適合俱樂部的編曲。
 
 
 #### 曲目表

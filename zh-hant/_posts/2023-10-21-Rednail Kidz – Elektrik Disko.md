@@ -15,7 +15,7 @@ title: Rednail Kidz – Elektrik Disko
 
 Rednail Kidz 是美國 Deep House 製作二人組，由 DJ/製作人 Derrick Carter 和 Chris Nazuka 組成，他們自 80 年代初芝加哥 house 以來一直活躍。
 
-別名義でRednail Kid、Anthony Pearson（アンソニー・ピアソン）をメンバーに迎えたRednail Kidz + 1 がある。
+Rednail Kidz + 1 也被稱為 Rednail Kid，其中包括 Anthony Pearson 成員。
 
 #### 曲目表
 ```md

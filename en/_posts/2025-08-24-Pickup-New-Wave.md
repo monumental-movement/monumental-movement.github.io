@@ -8,11 +8,11 @@ layout: post
 tags:
 - New-Wave
 - 80s
-title: ニューウェーブ(New Wave)作品をピックアップ
+title: Pick up new wave works
 ---
 
 
-「独特なシンセサイザーの響きと前衛的なリズムが印象的な、注目すべきニューウェーブ(New-Wave)作品群」
+"A remarkable group of New-Wave works that are impressive with their unique synthesizer sounds and avant-garde rhythms."
 
 <hr>
 
@@ -22,12 +22,12 @@ title: ニューウェーブ(New Wave)作品をピックアップ
 <a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
 
 
-リリース：1984年リリースの24枚目のシングル。80年代ニューウェーブ／ロックを代表するアーティスト、エルヴィス・コステロ＆ザ・アトラクションズによる楽曲。
+Release: 24th single released in 1984. A song by Elvis Costello & the Attractions, an artist representing 80's new wave/rock.
 
-バンドは1977年後半にロンドンで結成され、その多彩な音楽性でロック界に大きな足跡を残しました。2003年にはロックの殿堂入りも果たしています。
+The band was formed in London in late 1977 and left a huge mark on the rock world with their diverse musicality. He was also inducted into the Rock and Roll Hall of Fame in 2003.
 
-おすすめポイント
-ニューウェーブがもつエッジの効いたギターとリズム、洗練されたポップ感が見事に融合。その背景にある80年代UKロック／ニューウェーブシーンのエネルギーを感じさせる重要な1曲です。
+Recommended points
+A perfect fusion of new wave"s edgy guitar and rhythm and sophisticated pop feel. This is an important song that lets you feel the energy of the 80"s UK rock/new wave scene behind it.
 
 #### Tracklist
 ```md
@@ -37,7 +37,7 @@ B. The Flirting Kind
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -49,9 +49,9 @@ B. The Flirting Kind
 ### Buggles – The Age of Plastic
 <a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.webp"></a>
 
-リリース：2025年5月1日掲載。バグルス（Trevor Horn と Geoff Downes によるUKニューウェーブユニット）のデビューアルバム。
+Release: Posted on May 1, 2025. The debut album by The Buggles (UK new wave unit consisting of Trevor Horn and Geoff Downes).
 
-おすすめポイント：「Video Killed the Radio Star」など、シンセポップ／ニューウェーブの象徴的楽曲を含む、時代を象徴する名盤。後に二人がバンドYesに加入したことも話題になりました。
+Recommended points: A masterpiece that symbolizes the era, including iconic synth pop/new wave songs such as "Video Killed the Radio Star." It also became a hot topic that the two later joined the band Yes.
 
 
 #### Tracklist
@@ -67,7 +67,7 @@ B. The Flirting Kind
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -80,9 +80,9 @@ B. The Flirting Kind
 ### The Expression – The Expression
 <a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20Expression.webp"></a>
 
-リリース：2023年10月26日掲載。オーストラリアのシンセポップ・ニューウェーブバンドによるセルフタイトルアルバム。
+Release: Posted on October 26, 2023. A self-titled album by an Australian synth-pop new wave band.
 
-おすすめポイント：鋭いギターリフとシンセ、ユニークなボーカルが際立つポップ色の強いニューウェーブ。初期80年代のシンセポップが好きな方にぴったりです。
+Recommended points: New wave with a strong pop flavor, with sharp guitar riffs, synths, and unique vocals. Perfect for those who like early 80's synth pop.
 
 #### Tracklist
 ```md
@@ -100,7 +100,7 @@ B5. Satisfied Strangers
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -112,9 +112,9 @@ B5. Satisfied Strangers
 ### A Flock Of Seagulls – Listen
 <a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%20Listen.webp"></a>
 
-リリース：2023年10月15日掲載。リバプール出身のニューウェーブ／シンセポップ／ニューロマンティックバンド、フロック・オブ・シーガルズによる1983年リリースの2ndアルバム。
+Release: Posted on October 15, 2023. The second album released in 1983 by Flock of Seagulls, a new wave/synth pop/new romantic band from Liverpool.
 
-おすすめポイント：代表曲「Wishing (If I Had a Photograph of You)」などを収録。煌びやかなシンセサウンドと耽美的な世界観が光る一枚です。
+Recommended points: Contains representative songs such as "Wishing (If I Had a Photograph of You)". This is a piece that shines with its glittering synth sound and aesthetic worldview.
 
 #### Tracklist
 ```md
@@ -132,7 +132,7 @@ B6. (It's Not Me) Talking
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -141,13 +141,13 @@ B6. (It's Not Me) Talking
 <br>
 
 
-### Furniture – I Can't Crack
+### Furniture – I Can"t Crack
 <a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20Can't%20Crack.webp"></a>
 
-リリース：2023年9月9日掲載。英国のポップ／ニューウェーブ／ポストパンク要素を持つバンドによる1985年のEP。
+Release: Posted on September 9, 2023. A 1985 EP by a band with British pop/new wave/post-punk elements.
 
 
-おすすめポイント：キャッチーなメロディと大気的なサウンド、内省的な歌詞が融合した独自の世界観。批評家からも高評価を得た作品です。
+Recommended points: A unique world view that combines catchy melodies, atmospheric sounds, and introspective lyrics. This work received high praise from critics.
 
 #### Tracklist
 ```md
@@ -159,7 +159,7 @@ B1. I Can't Crack (Broken Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -171,10 +171,10 @@ B1. I Can't Crack (Broken Mix)
 ### Devo – New Traditionalists
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
-リリース：2024年5月18日掲載。USニューウェーブの代表、Devo（ディーヴォ）による4作目のセルフプロデュース・アルバム（1981年）。
+Release: Posted on May 18, 2024. The fourth self-produced album by Devo, a representative of US new wave (1981).
 
 
-おすすめポイント：ミニマルで冷徹なシンセリフと電子パーカッション、テーマ「脱進化」が融合した革新的なアルバム。代表曲「Through Being Cool」などを収録。
+Recommended points: An innovative album that combines minimal and cool synth lines, electronic percussion, and the theme of "deevolution." Contains representative songs such as "Through Being Cool".
 
 #### Tracklist
 ```md
@@ -193,7 +193,7 @@ B6. Working In The Coal Mine
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -206,9 +206,9 @@ B6. Working In The Coal Mine
 ### Black – More Than The Sun
 <a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.webp"></a>
 
-リリース：2023年10月13日掲載。UKのシンガーソングライター Colín Vearncombe のソロ名義 Black による作品。
+Release: Posted on October 13, 2023. A work by UK singer-songwriter Colín Vearncombe's solo name Black.
 
-おすすめポイント：繊細なメロディとメランコリックな歌詞が融合したニューウェーブ／ロック作品。深みのある世界観が魅力です。
+Recommended points: A new wave/rock piece that combines delicate melodies and melancholic lyrics. The deep worldview is appealing.
 
 #### Tracklist
 ```md
@@ -221,7 +221,7 @@ B3. Stephen
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -233,9 +233,9 @@ B3. Stephen
 ### The Rapture – In The Grace Of Your Love
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
 
-リリース：2024年12月18日掲載。NY出身ポストパンク／ダンスパンク／ニューウェーブ色を持つバンドによる3rdアルバム（2011年作品）。
+Release: Posted on December 18, 2024. The 3rd album (released in 2011) by a post-punk/dance-punk/new wave band from New York.
 m.m.r
-おすすめポイント：ポストパンクとエレクトロ、ディスコ等を大胆にミックスしたアプローチが魅力。近年のシーンでもリバイバル感のあるダンシングニューウェーブとしておすすめです。
+Recommended points: Their approach is a bold mix of post-punk, electro, disco, etc. Recommended as a dancing new wave with a revival feel even in recent years.
 
 #### Tracklist
 ```md
@@ -253,7 +253,7 @@ m.m.r
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 
 #### Youtube

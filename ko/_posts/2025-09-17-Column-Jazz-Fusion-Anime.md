@@ -66,7 +66,7 @@ color: #fff;
 
 코믹한 교제 → 경쾌한 스윙 재즈로 템포를 강조.
 
-조용한 심리 묘사나 여운 → 쿨 재즈나 모드 재즈의 창백한 울림이 효과적.
+조용한 심리 묘사나 여운 → 쿨 재즈나 모드 재즈의 희미한 울림이 효과적.
 
 ---
 
@@ -93,12 +93,12 @@ flowchart TD
 
 | 연대 | 아티스트 / 앨범 | 추천 트랙 |
 | ----- | ------------------------- | ------------------------------- |
-1970년대 |
+1970s | **Miles Davis**
 | 1980s | **Miles Davis** *Tutu* | "Tutu": 도시의 밤을 걷는 캐릭터 |
 | 1990s | ** 와타나베 카즈미 **
 2000s | **Pat Metheny & Charlie Haden** *Beyond the Missouri Sky*
 | 2010s | **Robert Glasper Experiment** *Black Radio* | "Afro Blue": 도시적이고 현대적인 일상 장면 |
-| 2020s | **Kamasi Washington** *Heaven and Earth* | 'Street Fighter Mas': 액션과 SF 세계관에 매치 |
+| 2020s | **Kamasi Washington** *Heaven and Earth* | "Street Fighter Mas": 액션과 공상 과학 세계관과 일치 |
 
 
 ---
@@ -121,7 +121,7 @@ flowchart TD
 
 2025년 봄에 방송된 「LAZARUS 나사로」는 와타나베 신이치로 감독 × MAPPA × Kamasi Washington이라는 호화 포진에 의한 SF 애니메이션.
 '죽음과 재생', '시간제한', '인류구제'라는 테마는 재즈가 가지는 '즉흥적인 삶의 재구축'과 울려퍼진다.
-특히 Kamasi Washington의 영적 재즈는 이야기 전체에 '나사로 = 소생'의 모티프를 중층적으로 울려 퍼뜨리고 있다.
+특히 Kamasi Washington의 영적 재즈는 이야기 전체에 "나사로 = 소생"의 모티프를 중층적으로 울려 퍼뜨리고있다.
 
 ### ■ 요약
 

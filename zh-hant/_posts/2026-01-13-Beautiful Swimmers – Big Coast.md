@@ -20,7 +20,7 @@ title: 美麗的游泳者 – 大海岸
 
 Andrew Field-Pickering 是來自華盛頓特區的製作人/DJ，他的藝名還包括 Dolo Percussion、Maxmillion Dunbar 和 Vulture Voltaire。他是獨立廠牌 Future Times 的聯合創始人，並作為該廠牌的核心人物參與了許多專輯的發行。
 
-Ari Goldman 是華盛頓特區的 DJ/製作人，也是 World Building 廠牌的負責人。
+Ari Goldman はワシントンD.C. を拠点に活躍する DJ／プロデューサー、レーベルWorld Buildingの主宰。
 
 《Big Coast》是一首 Leftfield/House/Dub/New Beat/Disco 曲目，於 2010 年在 Future Times 廠牌上發行。 （促銷版）
 

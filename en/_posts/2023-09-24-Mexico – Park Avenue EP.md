@@ -12,9 +12,9 @@ title: Mexico – Park Avenue EP
 ---
 
 
-Jun Yamabeによるプロジェクト「Mexico」は日本のレーベル United Sounds Of Blueから2003年にリリースされました。
+The project "Mexico" by Jun Yamabe was released in 2003 on the Japanese label United Sounds Of Blue.
 
-V.A.「U.S.B.-United Sounds Of Blue-」からのシングルカット。
+Single cut from V.A. "U.S.B. -United Sounds Of Blue-".
 
 #### Tracklist
 ```md
@@ -25,5 +25,5 @@ B1  Mr. Through (Original Mix)
 B2  Dubpark
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70725045281?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m70725045281?afid=6142608987){: .button1}
 

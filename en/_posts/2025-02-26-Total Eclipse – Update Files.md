@@ -33,5 +33,5 @@ Total Eclipse is a project started in 1992 by three French producers. He became 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

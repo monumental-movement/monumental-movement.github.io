@@ -86,7 +86,7 @@ Producer based in Tokyo. By fusing jazz and hip-hop, they presented a sentimenta
 
 Known for its lo-fi textures and experimental beats. Although not directly in the Lo-Fi genre, the influences are discussed in the context of the DIY spirit.
 
-### Tompbeats
+### Tomppabeats
 
 Representative of the 2010s SoundCloud generation. It gained popularity due to its short loop structure and nostalgic texture.
 
@@ -159,6 +159,6 @@ Music with a repetitive structure is suitable for loop playback. 24-hour distrib
 
 For a generation raised on YouTube and streaming, algorithmic recommendations and playlist culture are the norm, and Lo-Fi was a natural fit for that context.
 
-> The popularity of Lo-Fi hip-hop is not a coincidence, but is shaped by the interaction of acoustic structures and digital environments.
+> The popularity of Lo-Fi hip-hop is not a coincidence; it is shaped by the interaction between acoustic structures and the digital environment.
 
 ---

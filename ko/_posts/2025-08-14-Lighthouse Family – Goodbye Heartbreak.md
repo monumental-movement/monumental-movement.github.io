@@ -15,7 +15,7 @@ title: Lighthouse Family – Goodbye Heartbreak
 
 Lighthouse Family(라우트하우스 패밀리)는 1990년대 중반~2000년 초에 활약한 브리티시팝 서울 듀오. 1995년 데뷔 앨범 'Ocean Drive'는 UK뿐만 아니라 유럽에서도 히트했다.
 
-이 레코드는 앨범 'Ocean Drive'의 싱글 컷 'Goodbye Heartbreak'를 Linslee Campbell과 DJ Barry B가 리믹스 한 Downtempo 트랙. 1996년에 라벨 Wildcard에서 출시된 프로모션 보드.
+이 레코드는 앨범 'Ocean Drive'의 싱글 컷 'Goodbye Heartbreak'를 Linslee Campbell과 DJ Barry B가 리믹스 한 Downtempo 트랙. 1996년 라벨 Wildcard에서 출시된 프로모션 보드.
 
 
 #### Tracklist

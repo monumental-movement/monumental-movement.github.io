@@ -13,9 +13,9 @@ title: Toledo – Joe
 ---
 
 
-Toledo (Toledo Diamond)によるハウス・アシッドジャズトラック。プロデューサーは、Black Grape (ブラックグレープ )の元メンバーDanny Saber。
+House acid jazz track by Toledo (Toledo Diamond). The producer is Danny Saber, a former member of Black Grape.
 
-1994年にUSのインディペンデントレーベルMoonshine Musicからリリースされた。
+It was released in 1994 by the US independent label Moonshine Music.
 
 
 #### Tracklist
@@ -26,4 +26,4 @@ B1. Joe (T.C. Mix)
 B2. Joe (Extended Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}

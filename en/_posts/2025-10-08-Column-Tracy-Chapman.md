@@ -19,8 +19,8 @@ title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
 
 
-""Speaking for the voiceless"' - this is perhaps one of the most appropriate expressions to describe Tracy Chapman"s music and life.
-Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
+""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
+Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey deeply stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
 
@@ -57,7 +57,7 @@ These experiences later led to the social awareness and focus on the weak that c
 ---
 
 ### ● Between academics and music
-After attending a local school, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
+After attending local schools, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
 
 He later took his passion for music and literature to Tufts University, where he studied art and humanities while continuing his musical career.
 It is said that during his university days, his daily activities included live performances on campus, improvisational performances with friends, and the fusion of poetry and music.
@@ -171,7 +171,7 @@ Additionally, our relationships with producers and engineers have matured, allow
 Chapman continued to release select releases into the 2000s.
 Although he has changed musicality and accompaniment style in 2000"s *Telling Stories*, 2002"s *Let It Rain*, 2005"s *Where You Live*, and 2008"s *Our Bright Future*, he has consistently maintained a sense of spontaneity and gentleness.
 
-For *Where You Live*, she herself was involved in the production and is said to have had an influence on the sound design.
+For *Where You Live*, she was involved in the production and is said to have had an influence on the sound design.
 Additionally, she rarely uses streaming, instead offering her works through CDs and vinyl. This is an expression of the company's stance of ""protecting the means by which artists can be fairly rewarded.'' :
 
 ---
@@ -180,7 +180,7 @@ Additionally, she rarely uses streaming, instead offering her works through CDs 
 Chapman is known for not making many public appearances, but because of this, the interaction and trusting relationships she has with her colleagues and co-stars have supported her production background.
 For example, there are reports that he is close friends with novelist Alice Walker, and that they had a relationship for a while, but he has not made the details of his private life public.
 
-Additionally, his performance of "Fast Car" at the 2024 Grammys symbolized his intergenerational musical connection with Luke Combs.
+Additionally, their performance of "Fast Car" at the 2024 Grammys symbolized their intergenerational musical connection with Luke Combs.
 The negotiation process for this stage was said to have been cautious, with the Grammys taking an approach that emphasized trust and avoided putting too much pressure on her.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

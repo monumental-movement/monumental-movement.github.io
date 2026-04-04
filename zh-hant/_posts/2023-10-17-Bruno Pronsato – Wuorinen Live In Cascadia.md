@@ -9,7 +9,7 @@ permalink: /zh-hant/bruno-pronsato-wuorinen-live-in-cascadia/
 tags:
 - Techno
 - Minimal
-title: Bruno Pronsato – Wuorinen 卡斯卡迪亞現場演唱會
+title: Bruno Pronsato – Wuorinen Live In Cascadia
 ---
 
 

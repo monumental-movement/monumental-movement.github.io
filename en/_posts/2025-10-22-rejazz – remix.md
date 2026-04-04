@@ -14,9 +14,9 @@ title: '[re:jazz] – (re:mix)'
 ---
 
 
-[re:jazz]は、Matthias VogtことDJ Mattと様々なアーティストによるジャズプロジェクト。
+[re:jazz] is a jazz project by Matthias Vogt, also known as DJ Matt, and various artists.
 
-(re:mix)は、2003年に日本のジャズレーベルNebulaからリリースされたDowntempo／Future Jazz／Deep House。
+(re:mix) is Downtempo/Future Jazz/Deep House released by Japanese jazz label Nebula in 2003.
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ title: '[re:jazz] – (re:mix)'
 12. People Come Running (Les Gammas Sprinter Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGl9lQlR1x4?si=3QYkgtH9qeWrA69D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

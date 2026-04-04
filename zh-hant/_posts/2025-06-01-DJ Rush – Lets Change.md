@@ -10,7 +10,7 @@ tags:
 - Electronic
 - Techno
 - 00s
-title: DJ Rush – Let's Change
+title: DJ Rush – 讓我們改變吧
 ---
 
 

@@ -10,7 +10,7 @@ tags:
 - Hard Trance
 - Trance
 - 00s
-title: Weirdo – Normalisation
+title: 怪人——標準化
 ---
 
 

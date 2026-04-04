@@ -16,7 +16,7 @@ title: '[Column] Ambient Techno / Deep Ambient'
 
 ## 1. Concepts and terminology
 
-Text: mmr｜Theme: Rather than separating the two as genre names, we are talking about the common design philosophy of "sinking time," "space that makes you feel pressure," and "a state in which sound continues to exist."
+Text: mmr｜Theme: Rather than separating the two as genre names, the two are about the common design philosophy of ""sinking time," ""space that makes you feel pressure," and ""a state in which sound continues to exist.''
 
 Ambient Techno is a field of electronic music that was established in the early 1990s, and is a musical style that combines the repetitive rhythmic structure of techno with the spatiality and sustainability of ambient music. Its distinctive feature is that it retains the sense of time of club music while also functioning as music for appreciation.
 
@@ -100,7 +100,7 @@ Deep-sea ambient music has a high affinity with concentration, introspection, an
 
 ## 8. Redefining rhythm
 
-Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth gauge.
+Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth meter.
 
 In Deep Ambient, even this standard may be removed, but rather than being completely timeless, internal time is maintained through minute fluctuations.
 
@@ -118,7 +118,7 @@ The decisive difference from deep-sea ambient music lies in the master-slave rel
 
 ## 10. Comparison with Deep Techno
 
-Deep Techno is characterized by its minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
+Deep Techno is characterized by minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
 
 While Ambient Techno/Deep Ambient distances itself from the club-like nature, Deep Techno introduces deep-sea sound while retaining the floor function. This difference creates a clear difference in usage and listening posture.
 

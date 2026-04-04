@@ -18,7 +18,7 @@ title: Abe Duque – 別那麼刻薄第一部分
 
 90年代初期，他參加了當時在紐約俱樂部界引起關注的PROGRAM2。
 
-その後、KILRIAN名義で活動したのち、02年にはDJ Matussと共にAbe Duque Recordsを設立。
+隨後，他以 KILRIAN 的名字工作，並於 2002 年與 DJ Matuss 共同創立了 Abe Duque Records。
 
 Abe Duque Records 故意走地下路線，在光碟上印有發行資訊和製作人員名單。
 
@@ -37,5 +37,5 @@ A2. Vinyl Is Dead
 B. Salute The Dawn Featuring – Tijana T
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
 

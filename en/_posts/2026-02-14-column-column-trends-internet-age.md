@@ -94,7 +94,7 @@ Kawaii electropop from Tokyo and K-pop songs from Seoul have also gained popular
 
 In the early 2020s, AI recommendation technology began to analyze individual listener preferences and incorporate them into playlist generation on Spotify and Apple Music. DJs in Berlin, London, and Tokyo optimize their setlists based on AI data. The global hit formation rate has increased significantly.
 
-In addition, generative AI such as OpenAI Jukebox and Google MusicLM has made it possible for artists to create unique music that transcends the boundaries of cities and countries. Indie music from New York, electronic music from London, and city pop from Tokyo are intermingling to create new genres and subcultures.
+In addition, generative AI such as OpenAI Jukebox and Google MusicLM has made it possible for artists to create unique music that transcends the boundaries of cities and countries. A mix of New York indie music, London electronic music, and Tokyo city pop is creating new genres and subcultures.
 
 ---
 

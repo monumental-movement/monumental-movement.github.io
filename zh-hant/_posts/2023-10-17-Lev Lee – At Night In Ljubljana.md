@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/lev-lee-at-night-in-ljubljana/
 tags:
 - Techno
-title: Lev Lee – At Night In Ljubljana
+title: 列夫李——盧布爾雅那之夜
 ---
 
 

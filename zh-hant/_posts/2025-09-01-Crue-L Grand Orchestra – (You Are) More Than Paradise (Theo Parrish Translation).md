@@ -11,7 +11,7 @@ tags:
 - House
 - Deep House
 - 10s
-title: Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation)
+title: Crue-L Grand Orchestra – (You Are) More Than Paradise（西奧·帕里什翻譯）
 ---
 
 
@@ -21,7 +21,7 @@ title: Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Tra
 
 A1 & AA 是底特律 DJ/唱片製作人 Theo Parrish 的混音作品。
 
-A2は、ロンドン出身のエレクトロニックバンドFreaks (Justin Harris & Luke Solomon)によるremix。
+A2 是來自倫敦的電子樂團 Freaks（Justin Harris 和 Luke Solomon）的混音版。
 
 
 #### 曲目表

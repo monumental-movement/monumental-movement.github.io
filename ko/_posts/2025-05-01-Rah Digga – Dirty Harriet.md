@@ -13,7 +13,7 @@ title: Rah Digga – Dirty Harriet
 ---
 
 
-'Dirty Harriet'(2000년)는 라힘 피셔와 Rah Digga의 데뷔 스튜디오 앨범이며, 힙합사에서 과소평가되면서도 중요한 한 장.
+'Dirty Harriet'(2000년)는 라힘 피셔와 Rah Digga의 데뷔 스튜디오 앨범으로 힙합사에서 과소평가되면서도 중요한 한 장.
 
 Flipmode Squad 최초의 여성 멤버로서, Busta Rhymes의 뒤 방패 아래, Rah Digga는 본작에서 탁월한 릴리시즘과 동해안의 붐밥 사운드를 무기로, 여성 MC로서의 확고한 지위를 구축했습니다.
 

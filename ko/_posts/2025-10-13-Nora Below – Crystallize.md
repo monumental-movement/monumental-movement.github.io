@@ -15,7 +15,7 @@ title: Nora Below – Crystallize...
 ---
 
 
-Nora Below는 일렉트로닉/일렉트로/인더스트리얼/뉴웨이브를 베이스로 보컬 중심의 일렉트로계 작품을 출시하는 베를린을 거점으로 활동하는 아티스트.
+Nora Below는, 일렉트로닉/일렉트로/인더스트리얼/뉴웨이브를 베이스로 보컬 중심의 일렉트로계 작품을 릴리스 하는, 베를린을 거점으로 활동하는 아티스트.
 
 "Crystallize..."는 2002년 독일의 electro/techno계 레이블 BPitch에서 출시된 Abstract/Experimental/Tech House
 

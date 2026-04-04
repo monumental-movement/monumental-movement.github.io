@@ -31,7 +31,7 @@ A medium is needed to fix the emotions of the event in memory.
 Music has played the strongest role in this.
 
 Music is an art that is connected to time, and at the same time it is accompanied by emotion.
-Many people have experienced the phenomenon of instantly reliving the scenery and emotions of a certain era the moment they hear a particular song.
+Many people have experienced the phenomenon of instantly reliving the scenery and emotions of a certain era when they hear a particular song.
 
 This memory system has turned music into a symbol of a generation.
 
@@ -174,7 +174,7 @@ D --> E[generation identity]
 
 In this way, music becomes not just a part of culture, but a part of an individual's life.
 
-The reason why different generations have different music is
+The reason why different music exists for each generation is
 This is because each generation experiences a different historical moment in their youth.
 
 > Adolescent musical experiences are long remembered as the core of generational identity.

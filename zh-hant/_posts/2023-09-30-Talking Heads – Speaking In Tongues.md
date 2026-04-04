@@ -19,7 +19,7 @@ Talking Heads 的《Speaking In Tongues》於 1983 年發行。這張專輯是 T
 
 它包括許多熱門歌曲，例如“Burning Down the House”和“This Must Be the Place (Naive Melody)”。
 
-這張專輯是所有 Talking Heads 粉絲必聽的專輯，其獨特的聲音和充滿智慧的歌詞使《Speaking In Tongues》成為搖滾音樂史上的里程碑。
+這張專輯是所有 Talking Heads 粉絲必聽的專輯，《Speaking In Tongues》獨特的聲音和充滿智慧的歌詞使其成為搖滾音樂史上的里程碑。
 
 
 #### 曲目表
@@ -43,7 +43,7 @@ B3. Pull Up The Roots
 B4. This Must Be The Place (Naive Melody)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4c_YkN-8WRM?si=ShsHgvGu001PzDQp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

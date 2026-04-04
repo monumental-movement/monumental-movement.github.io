@@ -11,18 +11,18 @@ tags:
 - Electronic
 - Pops
 - Art
-title: 【コラム】 Experimental Electronic Pop / Art Pop
+title: '[Column] Experimental Electronic Pop / Art Pop'
 ---
 
 
 
-## 1. ジャンル概念の再整理
+## 1. Reorganization of genre concepts
 
-文：mmr｜テーマ：実験電子ポップ／アートポップの形成と展開について
+Text: mmr｜Theme: About the formation and development of experimental electronic pop/art pop
 
-Experimental Electronic Pop / Art Pop は、ポピュラーミュージックの形式を保持しつつ、電子音響技術、実験的作曲法、現代美術的思考を導入することで成立してきた音楽領域である。このジャンルは明確な音楽的様式を共有するというより、制作態度や構造的志向によって定義される傾向が強い。
+Experimental Electronic Pop/Art Pop is a musical field that has been established by introducing electronic acoustic technology, experimental composition methods, and contemporary artistic thinking while maintaining the format of popular music. The genre tends to be defined more by production attitudes and structural orientation than by sharing a clear musical style.
 
-Art Pop という語は、ポップミュージックが美術や思想と交差する地点を指す包括的な概念として用いられてきた。一方 Experimental Electronic Pop は、電子音響を中心に、構造的実験性をポップの枠内で行う実践を指す場合が多い。両者は重なり合いながら発展し、2010年代以降はほぼ同一の表現領域として認識されることが増えている。
+The term Art Pop has been used as an umbrella concept to refer to the intersection of pop music with art and thought. On the other hand, Experimental Electronic Pop often refers to the practice of structural experimentation within the framework of pop, with a focus on electronic acoustics. The two have developed while overlapping, and since the 2010s they have increasingly been recognized as almost the same field of expression.
 
 ---
 
@@ -31,7 +31,7 @@ Art Pop という語は、ポップミュージックが美術や思想と交差
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -40,137 +40,137 @@ color: #fff;
 </style>
 
 
-## 2. ポップ音楽と実験性の歴史的関係
+## 2. Historical relationship between pop music and experimentation
 
-ポップ音楽は大量流通と即時的理解を前提として成立してきたが、その内部では常に実験的要素が導入されてきた。1960年代以降、スタジオ技術の高度化により、録音そのものが創作行為として認識されるようになる。テープ操作、逆再生、人工的残響は、楽曲構造を拡張する手段として用いられた。
+Although pop music has been established on the premise of mass distribution and immediate understanding, experimental elements have always been introduced within it. Since the 1960s, with the advancement of studio technology, recording itself has come to be recognized as a creative act. Tape manipulation, reverse playback, and artificial reverberation were used as means of extending the song structure.
 
-1970年代にはシンセサイザーが一般化し、電子音がポップの語彙として定着する。この時期、電子音は未来的イメージや人工性の象徴として機能し、音楽と視覚表象が強く結びついた。
-
----
-
-## 3. 電子音響技術の発展と作曲構造の変化
-
-電子音響技術の進展は、音楽制作における階層構造を変化させた。従来の作曲・演奏・録音という段階的工程は、DAW環境において統合され、作曲者が音響全体を直接操作できるようになる。
-
-この変化は以下の構造的特徴をもたらした。
-
-* 音程とリズムの非固定化
-* フレーズ単位ではなく音響単位での構成
-* 偶発性やエラーの取り込み
-
-Experimental Electronic Pop / Art Pop では、これらの特徴が積極的に利用される。
+In the 1970s, synthesizers became popular, and electronic sounds became established in the pop vocabulary. During this period, electronic sounds functioned as futuristic images and symbols of artificiality, and music and visual representation were strongly linked.
 
 ---
 
-## 4. 映像メディアとの不可分な関係
+## 3. Development of electroacoustic technology and changes in composition structure
 
-2010年代以降、音楽作品はほぼ必然的に映像と結びつくようになる。ミュージックビデオ、ライブ映像、SNS用の短尺映像は、音楽の受容構造そのものを変化させた。
+Advances in electroacoustic technology have changed the hierarchical structure of music production. The traditional step-by-step process of composing, performing, and recording is integrated in a DAW environment, allowing composers to directly manipulate the entire sound experience.
 
-Art Pop の文脈では、映像は楽曲の補足ではなく、同等の構成要素として設計される。音と映像は同時に構想され、どちらか一方のみでは作品が完結しない構造を持つ。
+This change resulted in the following structural features.
 
----
+* Unfixed pitch and rhythm
+* Structure based on acoustic units rather than phrase units
+* Incorporating contingencies and errors
 
-## 5. 身体表現とポップ音楽
-
-身体は長らくポップ音楽における視覚的要素として扱われてきたが、Art Pop では身体そのものがコンセプトの中心に置かれる。姿勢、動作、呼吸、視線は、音響と同様に構造化される。
-
-ダンスやパフォーマンスは、単なる演出ではなく、音楽的時間を可視化する装置として機能する。
+Experimental Electronic Pop/Art Pop actively utilizes these characteristics.
 
 ---
 
-## 6. FKA twigs の活動背景
+## 4. Inseparable relationship with visual media
 
-FKA twigs はイギリス出身のアーティストであり、音楽制作、ダンス、映像表現を横断的に行っている。彼女の作品は、楽曲、映像、ライブパフォーマンスが相互に補完し合う統合的構造を持つ。
+Since the 2010s, musical works have almost inevitably been linked to images. Music videos, live videos, and short videos for social media have changed the very structure of music reception.
 
-初期作品から一貫して、自身の身体を表現の中心に据え、声と動作を同一平面上で扱っている点が特徴的である。
-
----
-
-## 7. FKA twigs のサウンド設計
-
-FKA twigs の音楽では、声が主要な構成要素として扱われる。旋律的役割だけでなく、質感、空気感、距離感を表現する素材として加工される。
-
-* ブレス音の明確な配置
-* 極端に近接したマイキング
-* ピッチ補正を含む加工の可視化
-
-これらは、声を身体的存在として提示するための手法である。
+In the context of Art Pop, the video is not designed as a complement to the song, but as an equivalent component. Sound and video are conceived at the same time, and the work has a structure in which either one alone cannot complete the work.
 
 ---
 
-## 8. FKA twigs におけるリズムと空間
+## 5. Physical expression and pop music
 
-リズムは一定の拍子に従うよりも、断続的配置によって構成されることが多い。ビートは省略され、沈黙が重要な役割を果たす。
+The body has long been treated as a visual element in pop music, but in Art Pop, the body itself is placed at the center of the concept. Posture, movement, breathing, and gaze are structured in the same way as sound.
 
-この構造により、音楽は線的時間ではなく、空間的配置として知覚される。
+Dance and performance are not just performances, but function as devices to visualize musical time.
 
 ---
 
-## 9. FKA twigs の映像表現
+## 6. FKA twigs activity background
 
-映像作品では、身体のクローズアップ、制御された照明、限定された色彩が用いられる。カメラは客観的視点ではなく、身体に密着した視点を取ることが多い。
+FKA twigs is an artist from the UK who engages in music production, dance, and visual expression. Her works have an integrated structure in which songs, videos, and live performances complement each other.
 
-動作は緩急を強くつけて構成され、音響の変化と厳密に対応する。
+Since his early works, he has consistently placed his own body at the center of his expression, and is distinctive in that he treats voice and movement on the same plane.
+
+---
+
+## 7. FKA twigs sound design
+
+In FKA twigs' music, the voice is treated as a major component. It is processed not only for its melodic role, but also as a material that expresses texture, atmosphere, and distance.
+
+* Clear placement of breath sounds
+* Extremely close miking
+* Visualization of machining including pitch correction
+
+These are methods for presenting the voice as a physical presence.
+
+---
+
+## 8. Rhythm and space in FKA twigs
+
+Rhythm is often composed of intermittent arrangements rather than following a fixed meter. Beats are omitted and silence plays an important role.
+
+Due to this structure, music is perceived as a spatial arrangement rather than a linear time.
+
+---
+
+## 9. FKA twigs visual expression
+
+The video works feature close-ups of the body, controlled lighting, and limited color. The camera often takes a close-up view of the body rather than an objective point of view.
+
+The movements are structured with strong slowness and speed, and correspond strictly to changes in the sound.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZ2njttY3BA?si=LoipjfeBoX9zUWOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 10. Arca の活動背景
+## 10. Background of Arca's activities
 
-Arca はベネズエラ出身のアーティストであり、プロデューサー、作曲家、パフォーマーとして活動している。彼女の作品は、電子音響の極端な操作と身体表現を統合した構造を持つ。
+Arca is a Venezuelan artist who works as a producer, composer, and performer. Her works have a structure that integrates extreme manipulation of electro-acoustics and physical expression.
 
-初期には他アーティストへの楽曲提供を行いながら、自身の名義作品ではより急進的な音響構造を展開してきた。
-
----
-
-## 11. Arca の音響構造
-
-Arca の楽曲では、音色が安定した状態を保たない。歪み、断裂、急激な変形が常に発生する。
-
-* 極端な低域の変調
-* 高周波ノイズの挿入
-* 音量変化の急激な切り替え
-
-これらは音楽の連続性を意図的に破壊するために用いられる。
+While initially providing music for other artists, he developed more radical sonic structures in his own works.
 
 ---
 
-## 12. Arca のリズム処理
+## 11. Arca acoustic structure
 
-リズムは拍子として機能するよりも、物理的衝撃として提示される。ビートは予測不能な位置に配置され、グルーヴの安定性は排除される。
+In Arca's songs, the timbre does not remain stable. Strains, tears, and sudden deformations occur all the time.
 
-これにより、リスナーは身体的な緊張状態に置かれる。
+* Extreme bass modulation
+* Insertion of high frequency noise
+* Rapid switching of volume changes
+
+These are used to intentionally disrupt musical continuity.
 
 ---
 
-## 13. Arca の映像と身体
+## 12. Arca rhythm processing
 
-Arca の映像表現では、身体は変形可能な素材として扱われる。人体と人工物、デジタル処理されたイメージが重ね合わされ、音響の歪みと対応関係を持つ。
+Rhythm is presented as a physical shock rather than functioning as a beat. The beats are placed in unpredictable positions, eliminating the stability of the groove.
 
-身体表象は固定されたアイデンティティを示すものではなく、変化し続ける構造として提示される。
+This puts the listener in a state of physical tension.
+
+---
+
+## 13. Arca's image and body
+
+In Arca's visual expressions, the body is treated as a transformable material. The human body, artificial objects, and digitally processed images are superimposed and have a corresponding relationship with acoustic distortion.
+
+Body representations do not indicate fixed identities, but are presented as ever-changing structures.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4LaCgzhidY?si=3Ml1wlUr-tNSts8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 14. 両者に共通する構造的特徴
+## 14. Structural features common to both
 
-FKA twigs と Arca は、音と映像を分離不能な形で設計している点で共通している。どちらも、楽曲単体ではなく、総合的な提示形式を前提に制作を行う。
+FKA twigs and Arca have in common that they are designed in such a way that sound and video cannot be separated. Both are produced based on the premise of a comprehensive presentation format, rather than a single piece of music.
 
-また、ポップ音楽の枠内に留まりながら、その内部構造を変形させる姿勢を共有している。
-
----
-
-## 15. 差異点の整理
-
-FKA twigs は、空間性や繊細な音響配置を重視し、身体の制御と緊張を表現する。一方 Arca は、音響の過剰な変形と身体イメージの流動性を前面に出す。
-
-この差異は、同一ジャンル内における表現の幅を示している。
+They also share an attitude of transforming pop music's internal structure while remaining within its framework.
 
 ---
 
-## 16. ジャンル構造図
+## 15. Organizing differences
+
+FKA twigs emphasizes spatiality and delicate acoustic placement, expressing bodily control and tension. Arca, on the other hand, brings to the fore the excessive deformation of sound and the fluidity of body image.
+
+This difference shows the range of expression within the same genre.
+
+---
+
+## 16. Genre structure diagram
 
 <div class="mermaid">
 flowchart TD
@@ -183,7 +183,7 @@ flowchart TD
 
 ---
 
-## 17. 年表
+## 17. Chronology
 
 <div class="mermaid">
 timeline
@@ -197,17 +197,17 @@ timeline
 
 ---
 
-## 18. 現代における意義
+## 18. Significance in modern times
 
-Experimental Electronic Pop / Art Pop は、ポップ音楽の可聴性を維持しながら、表現形式そのものを再構築する試みとして位置づけられる。この領域では、音楽は聴覚芸術に留まらず、視覚、身体、テクノロジーを含む複合的実践として展開されている。
+Experimental Electronic Pop/Art Pop is positioned as an attempt to reconstruct the form of expression itself while maintaining the audibility of pop music. In this field, music is not limited to an auditory art, but is developed as a complex practice that includes the visual, physical, and technological.
 
 ---
 
-## 19. 総括
+## 19. Summary
 
-本ジャンルは固定された様式ではなく、制作環境やメディア状況に応じて変化し続ける構造体である。FKA twigs と Arca は、その可変性を明確に示す事例であり、音楽と映像、身体の関係を再定義してきた。
+This genre is not a fixed style, but a structure that continues to change depending on the production environment and media situation. FKA twigs and Arca are clear examples of this mutability, redefining the relationship between music, images, and the body.
 
-Experimental Electronic Pop / Art Pop は、今後もポップミュージックの内部から、新たな表現形式を生成し続ける領域である。
+Experimental Electronic Pop/Art Pop is an area that will continue to generate new forms of expression from within pop music.
 
 ---
 

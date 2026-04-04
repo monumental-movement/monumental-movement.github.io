@@ -10,18 +10,18 @@ tags:
 - Choral
 - Vocal
 - Experimental
-title: 【コラム】 Choral / Vocal Experimental
+title: '[Column] Choral / Vocal Experimental'
 ---
 
 
 
-## 合唱／ボーカル実験
+## Chorus/Vocal Experiment
 
-文：mmr｜テーマ：歴史的展開、代表作家、技法分析、録音／映像文脈、現代の作品動向について
+Text: mmr｜Theme: Historical development, representative artists, technique analysis, sound recording/video context, contemporary work trends
 
-合唱という最も古い音楽形態に、20世紀後半以降の実験音楽・音響研究・電子音響的発想が交差して生まれた分野が “Choral / Vocal Experimental（合唱／ボーカル実験）” である。
-その特徴は、単なる和声美の追求にとどまらず、**声を素材とした音響現象の探求、空間化、微分音的操作、位相構造、電子処理との融合**など、多角的な技法にまたがる点にある。
-この潮流は、従来の合唱文化に新しい聴取様式を提示し、音響芸術全体に大きな影響を与えた。
+"Choral/Vocal Experimental" is a field that was born from the intersection of experimental music, acoustic research, and electroacoustic ideas from the latter half of the 20th century on the oldest musical form of chorus.
+Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using the voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
+This trend presented a new listening style to traditional choral culture and had a major impact on acoustic art as a whole.
 
 ---
 
@@ -30,7 +30,7 @@ title: 【コラム】 Choral / Vocal Experimental
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -38,67 +38,67 @@ color: #fff;
 }
 </style>
 
-# 1. はじめに
+# 1. Introduction
 
-人類の歴史でもっとも原初的な楽器は「声」であり、声による複数人の協働表現は宗教儀礼や共同体の構造と密接に発展してきた。
-しかし “合唱＝規律的で均質なハーモニー” という近代的イメージは、実は19世紀〜20世紀の限られた期間に支配的になった価値観にすぎない。
-20世紀後半、アヴァンギャルド音楽の登場と音響学の発展により、「声はもっと多くのことができる」ことが再発見され、合唱は劇的に拡張されていった。
+The most primitive musical instrument in human history is the voice, and the collaborative expression of multiple people through voice has developed closely with religious rituals and community structures.
+However, the modern image of ""chorus = disciplined, homogeneous harmony'' is actually just a set of values ​​that became dominant during a limited period from the 19th to the 20th century.
+In the second half of the 20th century, with the advent of avant-garde music and advances in acoustics, choral singing was expanded dramatically as the voice rediscovered that it could do more.
 
-Choral / Vocal Experimental は、その再発見の流れの中で成立した領域であり、単なるジャンルではなく **声の芸術的可能性を最大化するための方法論群** と捉えるほうが正確である。
-
----
-
-# 2. 歴史的形成
-
-ここでは15世紀から現代までの長い射程にわたり、合唱がどのように実験的要素を獲得していったのかを俯瞰する。
-
-## 2-1. ルネサンス〜バロック：ポリフォニーの基盤
-
-* グレゴリオ聖歌のモノフォニーから、パレストリーナやジョスカンによるポリフォニーの発展は、声の多層構造の基礎を形作った。
-* すでにルネサンス期にはカノン、ミサ曲、モテットの中で **テクスチャの重層化** や **空間的配置** を用いた作品が存在し、これが後の実験的アプローチの原型となった。
-
-## 2-2. 20世紀前半：声への前衛的視点の萌芽
-
-* シェーンベルクやヴェーベルンによる十二音技法、ストラヴィンスキーによるリズムの多層性、バルトークによる民族音楽の音響的側面の導入など、声の使い方も急速に拡張した。
-* カール・オルフの《カルミナ・ブラーナ》（1937）は、声を「原始的エネルギー源」として扱った象徴的作品として挙げられる。
-
-## 2-3. リゲティと新しい音響思考（1960年代）
-
-ジョルジ・リゲティ（György Ligeti）は合唱実験の重要人物である。
-彼は「ミクロポリフォニー」と呼ばれる技法を確立し、**多数の細かな音型が密集し、音響的雲状テクスチャを形成する**という新しい声のあり方を提示した。
-
-とくに
-
-* 《Requiem》（1963–65）
-* 《Lux Aeterna》（1966）
-* 《Clocks and Clouds》（1972–73）
-
-などは、合唱を「和声の集合ではなく、音響的物質」として扱った転換点である。
-
-## 2-4. スペクトル楽派と声の音響化（1970〜80年代）
-
-パリを中心に発展したスペクトル音楽は、声の倍音構造・共鳴現象・音色の動的変化を重視した。
-
-代表例：
-
-* ジェラール・グリゼー
-* トリスタン・ミュライユ
-
-特に声を扱った作品では、**喉頭の位置、共鳴腔、母音のフォルマント**を音響的に分析し、それに基づく合唱構築が行われた。
-
-## 2-5. 21世紀：エリック・ウィテカーとデジタル時代の新展開
-
-Eric Whitacre は、伝統的合唱と音響的実験精神を架橋した存在である。
-
-* 《Lux Aurumque》（2000）
-* 《Sleep》（2000）
-  などは、ポリフォニーと豊かな平行和声の中間に位置し、**和声の濃密化とテクスチャ的密度の操作**に特徴がある。
-
-また “Virtual Choir（バーチャル合唱団）” の取り組みにより、合唱という実体をデジタル共同制作へと拡張した点は革新的だった。
+Choral/Vocal Experimental is a field that was established in the flow of rediscovery, and it is more accurate to think of it as a group of methodologies for maximizing the artistic potential of the voice, rather than just a genre.
 
 ---
 
-# 3. 年表：Choral / Vocal Experimental の主要展開
+# 2. Historical formation
+
+Here we take a bird's-eye view of how choral music acquired experimental elements over a long period from the 15th century to the present day.
+
+## 2-1. Renaissance to Baroque: Foundations of polyphony
+
+* The development of polyphony by Palestrina and Josquin from the monophony of Gregorian chant formed the basis of the multilayered structure of the voice.
+* Already during the Renaissance, there were works that used **textural layering** and **spatial arrangement** in canons, masses, and motets, and this became the prototype for later experimental approaches.
+
+## 2-2. First half of the 20th century: the emergence of avant-garde perspectives on voice
+
+* The use of the voice also rapidly expanded, with Schoenberg and Webern"s twelve-tone technique, Stravinsky"s multilayered rhythms, and Bartok's introduction of acoustic aspects of folk music.
+* Carl Orff's Carmina Burana (1937) is cited as a symbolic work that treats the voice as a ""primitive energy source.''
+
+## 2-3. Ligeti and new acoustic thinking (1960s)
+
+György Ligeti is an important figure in choral experimentation.
+He established a technique called ""micropolyphony'' and proposed a new form of voice in which a large number of small sound patterns are densely packed to form an acoustic cloud-like texture.
+
+especially
+
+*《Requiem》(1963–65)
+*《Lux Aeterna》(1966)
+* 《Clocks and Clouds》 (1972–73)
+
+These works marked a turning point in treating chorus as ""an acoustic substance rather than a collection of harmonies.''
+
+## 2-4. Spectral music school and vocalization (1970s-1980s)
+
+Spectral music, which developed mainly in Paris, emphasized the overtone structure of the voice, resonance phenomena, and dynamic changes in timbre.
+
+Typical example:
+
+* Gerard Grisée
+* Tristan Murail
+
+Particularly in works dealing with voices, the position of the larynx, resonant cavity, and vowel formants were analyzed acoustically, and the chorus was constructed based on this analysis.
+
+## 2-5. 21st Century: Eric Whitaker and New Developments in the Digital Age
+
+Eric Whitacre is a bridge between traditional choral music and a spirit of sonic experimentation.
+
+*《Lux Aurumque》(2000)
+*《Sleep》(2000)
+etc., are located between polyphony and rich parallel harmony, and are characterized by harmonic density and manipulation of textural density.
+
+Furthermore, the "Virtual Choir" initiative was innovative in that it expanded the reality of choral singing into digital collaborative production.
+
+---
+
+# 3. Chronology: Major developments in Choral/Vocal Experimental
 
 <div class="mermaid">
 timeline
@@ -117,216 +117,216 @@ timeline
 
 ---
 
-# 4. 技法分析：声を素材とする音響現象
+# 4. Technique analysis: Acoustic phenomena using voice as material
 
-実験的合唱の技法は、大別すると次の6つに分類できる。
+Experimental choral techniques can be broadly classified into the following six categories.
 
-## 4-1. ミクロポリフォニー
+## 4-1. Micropolyphony
 
-リゲティが発展させた技法で、各声部が微妙に異なるリズムや音型を同時に演奏することで
-**“動きながら静止する” 音響雲**を形成する。
+A technique developed by Ligeti, in which each voice plays slightly different rhythms and sound patterns at the same time.
+**Form an acoustic cloud that is "moving and still"**.
 
-### 音響現象（例）
+### Acoustic phenomenon (example)
 
-* 100名規模の合唱が1秒ごとに異なる音程へ滑らかに移行すると、個々の声は聴き取りにくくなり、
-  **巨大な倍音群のようなテクスチャ** が現れる。
-* 特に《Lux Aeterna》の序盤では、無伴奏合唱が層状に重なり、音響が**立体的に膨張**するような効果が得られている。
+* When a chorus of 100 people smoothly transitions to a different pitch every second, it becomes difficult to hear individual voices.
+**A texture like a huge overtone group** appears.
+*Especially in the beginning of "Lux Aeterna", the unaccompanied chorus overlaps in layers, creating the effect of **three-dimensional expansion** of the sound.
 
-## 4-2. 微分音・ピッチベンド
+## 4-2. Microtone/Pitch bend
 
-通常の半音より細かい音程（1/4音など）を用い、声の「揺れ」「干渉」「唸り」を活用する方法。
+A method that uses pitches finer than normal semitones (such as 1/4 tone) and utilizes the ""sway", ""interference", and ""groan'' of the voice.
 
-### 音響現象
+### Acoustic phenomena
 
-* 2つの声が僅かに異なる周波数を発すると、**ビート（うなり）** が生じ、空間が震えるような効果を生む。
-* スペクトル楽派の声楽作品では、**母音フォルマント**の変化と微分音操作を組み合わせ、豊かな音色遷移が設計されている。
+* When two voices emit slightly different frequencies, a **beat** is created, creating a trembling effect in the space.
+* In the vocal works of the spectral music school, rich timbre transitions are designed by combining changes in **vowel formants** and microtonal manipulation.
 
-## 4-3. 位相・カノン構造
+## 4-3. Topology/canon structure
 
-スティーブ・ライヒの《Come Out》《Tehillim》にも見られる手法で、
-**同じフレーズを時間的にずらしながら重ねる**ことで複雑なパターンを生み出す。
+This method is also seen in Steve Reich's Come Out and Tehillim.
+**Create complex patterns by repeating the same phrase while shifting in time**.
 
-### 音響現象
+### Acoustic phenomena
 
-* 同一フレーズが次第にズレることで、倍音的干渉や認知的錯覚が生じる。
-* 合唱では、母音形状の違いが空間的なホログラムのように聴こえることがある。
+* The same phrase gradually becomes out of sync, causing harmonic interference and cognitive illusions.
+* In chorus, differences in vowel shapes can sometimes sound like spatial holograms.
 
-## 4-4. 共鳴・フォルマント操作
+## 4-4. Resonance/formant manipulation
 
-声道の形状変化により母音の共鳴周波数を操作する技法。
-電子音響のスペクトル分析が導入され、より意識的な構築が可能になった。
+A technique that manipulates the resonant frequency of vowels by changing the shape of the vocal tract.
+Electroacoustic spectral analysis was introduced, allowing for more conscious construction.
 
-### 音響現象
+### Acoustic phenomena
 
-* 同じ “A（ア）” でも声道の開きや響かせ方によって全く異なる音色となる。
-* 合唱全体でフォルマントを変化させると、**空間的に色が変わるような音響変容**が生まれる。
+* Even the same "A" can have completely different tones depending on the opening of the vocal tract and how it is sounded.
+* Changing the formants throughout the chorus creates a **acoustic transformation that changes color spatially**.
 
-## 4-5. 声のノイズ化
+## 4-5. Voice noise
 
-* 子音の延長
-* 息音の使用
-* 擬音・ハミング・ウィスパー
-  など、音高を持たない声を積極的に音楽素材として扱う手法。
+* Consonant lengthening
+* Use of breath sounds
+* Onomatopoeia/Humming/Whisper
+A technique that actively uses voices without pitch as musical material.
 
-## 4-6. 電子処理・空間化
+## 4-6. Electronic processing/spatialization
 
-近年の実験では、リアルタイムプロセッシングや多チャンネル拡散が用いられることがある。
+Recent experiments sometimes use real-time processing and multichannel spreading.
 
-* ディレイ
-* ピッチシフト
-* グラニュラー処理
+*Delay
+* Pitch shift
+* Granular processing
 
-これらにより、合唱の静的イメージは完全に解体され、**声の粒子化・空間的分布** が音楽構造の中心となる。
+With these, the static image of the chorus is completely dismantled, and the particleization and spatial distribution of the voices becomes the center of the musical structure.
 
 ---
 
-# 5. 主要人物紹介
+# 5. Introduction of main characters
 
 ## 5-1. György Ligeti
 
-リゲティは20世紀の音響思考を象徴する作曲家であり、合唱において最もラディカルな革新をもたらした。
+Ligeti was a composer who symbolized 20th century acoustic thinking and brought about the most radical innovations in choral music.
 
-### 代表作の特徴
+### Characteristics of representative works
 
-* 《Lux Aeterna》：無伴奏でのミクロポリフォニー
-* 《Requiem》：「Kyrie」における密集したテクスチャと緊張感
-* 《Clocks and Clouds》：女性合唱と器楽による浮遊感とリズム群の対比
+*《Lux Aeterna》: Micropolyphony without accompaniment
+* 《Requiem》: Dense texture and tension in "Kyrie"
+*《Clocks and Clouds》: A contrast between the floating feeling and rhythm group created by the female chorus and instrumental music
 
-リゲティの方法は映画音楽にも影響を与え、特に《2001年宇宙の旅》で使用されたことで一般的認知を得た。
+Ligeti's method also influenced film music, most notably gaining general recognition when used in 2001: A Space Odyssey.
 
 ---
 
 ## 5-2. Eric Whitacre
 
-ウィテカーは、クラシカルな美しさを保ちながらも、現代的な音響感覚を重ね合わせた合唱作品で知られる。
+Whittaker is known for her choral works that maintain a classical beauty while layering modern sonic sensibilities.
 
-### 特徴
+### Features
 
-* 平行和声・クラスターの柔らかな運用
-* 明快なテクスチャと空間感
-* 合唱のブレス（呼吸）まで構造化する設計
+* Soft use of parallel harmony and clusters
+* Clear texture and sense of space
+* Designed to structure the breath of the chorus
 
 ### Virtual Choir
 
-2010年代に行われた “Virtual Choir” は、世界中から収録された個々の声を統合し、巨大合唱として作品化する試み。
-これは **インターネット時代の合唱概念の拡張** として音楽史的にも特筆される。
+"Virtual Choir", which took place in the 2010s, is an attempt to integrate individual voices recorded from all over the world and create a gigantic chorus.
+This is noteworthy in terms of music history as an **expansion of the concept of choral singing in the internet age**.
 
 ---
 
-## 5-3. その他の重要人物
+## 5-3. Other important people
 
-* Meredith Monk：声を身体表現と結びつけたミニマリズム的アプローチ
-* Karlheinz Stockhausen：《Stimmung》（1968）で倍音歌唱を構造的に扱う
-* Krzysztof Penderecki：声のクラスターや叫び・囁きの音響的配置
-* John Tavener：宗教合唱におけるミニマリズム的音響浄化
-* Caroline Shaw：《Partita for 8 Voices》でビートボックス・語り・倍音歌唱を内包
+* Meredith Monk: A minimalist approach that combines voice with physical expression
+* Karlheinz Stockhausen: Structural treatment of overtone singing in Stimmung (1968)
+* Krzysztof Penderecki: Acoustic arrangement of voice clusters and cries/whispers
+* John Tavener: Minimalist acoustic purification in religious choir
+* Caroline Shaw: "Partita for 8 Voices" includes beatboxing, storytelling, and overtone singing
 
 ---
 
-# 6. 音響現象の可視化：声の重層化の構造図
+# 6. Visualization of acoustic phenomena: Structural diagram of voice multilayering
 
 <div class="mermaid">
 flowchart TD
-    A["単一声部の旋律"] --> B["複数声部への分岐"]
-    B --> C["ミクロポリフォニー：微細なズレの集合"]
-    B --> D["フォルマント操作：母音共鳴の変化"]
-    C --> E["雲状テクスチャ"]
-    D --> F["色彩的音響変化"]
-    E --> G["空間化・立体的音場"]
-    F --> G["空間化・立体的音場"]
+    A["Single voice melody"] --> B["Branching to multiple voices"]
+    B --> C["Micropolyphony: A collection of minute deviations"]
+    B --> D["Formant manipulation: Changes in vowel resonance"]
+    C --> E["Cloudy texture"]
+    D --> F["Chromatic acoustic change"]
+    E --> G["Spatialization/3D sound field"]
+    F --> G["Spatialization/3D sound field"]
 </div>
 
 
 ---
 
-# 7. 映像と合唱：視覚化される音響
+# 7. Image and chorus: Visualized sound
 
-合唱は視覚と強く結びつく表現である。特に実験的合唱では、以下のような **音響と映像の同期** が重要となる。
+Chorus is an expression that is strongly connected to the visual sense. Especially for experimental choruses, the following **synchronization of audio and video** is important.
 
-## 7-1. 空間配置の可視化
+## 7-1. Visualization of spatial layout
 
-* 円形・散在配置
-* 移動を伴う合唱
-* 声部ごとの距離差の演出
+* Circular/scattered arrangement
+* Chorus with movement
+* Producing distance differences for each voice
 
-これにより、音の発生源の距離や角度による聴覚的錯覚が強調される。
+This emphasizes the auditory illusion caused by the distance and angle of the sound source.
 
-## 7-2. 呼吸・身体動作の演出
+## 7-2. Direction of breathing and body movements
 
-* ブレスを見せる
-* ハミングの口形を強調
-* 子音の同時動作
+* Show your breath
+* Emphasize humming mouth shape
+* Simultaneous movement of consonants
 
-これらは音響構造に視覚的説得力を与える。
+These give visual persuasion to the acoustic structure.
 
-## 7-3. 映像作品（MV・インスタレーション）
+## 7-3. Video works (MV/Installation)
 
-現代では、録音された合唱を基にした**映像インスタレーション**も多く制作されており、
-声の粒子性や空間化を視覚的エフェクトや3Dアニメーションで表現する例がある。
+In modern times, many **video installations** based on recorded choruses have been created.
+There are examples of expressing the particle nature and spatialization of voices through visual effects and 3D animation.
 
 ---
 
-# 8. 代表作品の音響分析
+# 8. Acoustic analysis of representative works
 
 ## 8-1. Ligeti《Lux Aeterna》
 
-* 無伴奏合唱
-* 音程が滑らかに上下するアルト群
-* 固定和声の上で動的テクスチャが変化
+* Unaccompanied chorus
+* Alto group whose pitch rises and falls smoothly
+* Dynamic texture changes on fixed chords
 
-音響は「霧」のようだが、内部では高度なリズムと音程制御が行われている。
+Although the acoustics are like "fog," there is sophisticated rhythm and pitch control inside.
 
 ## 8-2. Whitacre《Lux Aurumque》
 
-* 滑らかな並行和声
-* 高音域の透明な響き
-* 和声が“光る”ようなエネルギー感
+* Smooth parallel harmony
+* Transparent sound in the high range
+* A sense of energy that makes the harmonies "shine"
 
-多数の声が共鳴することで、倍音成分が豊かになり、空間が明るく開く。
+When many voices resonate, the overtones become richer and the space becomes brighter and more open.
 
 ## 8-3. Stockhausen《Stimmung》
 
-* 倍音歌唱による独特の音色
-* 声を周波数成分として構造化
-* 語りと持続音が入り混じる瞑想的構成
+* Unique tone due to overtone singing
+* Structuring voice as frequency components
+* A meditative composition that mixes narrative and sustained sounds.
 
-声が“楽器化”する代表例である。
-
----
-
-# 9. 21世紀の動向
-
-現代の Vocal Experimental は、以下の領域でさらなる進化を遂げている。
-
-## 9-1. 声と電子音響の統合
-
-リアルタイム処理を用いた
-
-* グラニュラー
-* ポリフォニー生成
-* 空間ディフュージョン
-
-により、声の“倍音化”“物質化”が進んでいる。
-
-## 9-2. VR・メタバース合唱
-
-複数の声を3D空間に配置し、聴く位置によってテクスチャが変化する合唱作品が研究されている。
-
-## 9-3. 身体表現との融合
-
-ダンスカンパニーとのコラボレーションや、声と身体運動を統合した舞台芸術が増加している。
+This is a typical example of the voice becoming an instrument.
 
 ---
 
-# 10. まとめ
+# 9. Trends in the 21st century
 
-Choral / Vocal Experimental は、声を音高の集合としてではなく、
-**音響的・空間的・身体的・社会的現象として総合的に扱う**領域である。
+Modern Vocal Experimental has made further progress in the following areas.
 
-リゲティやウィテカーが示した声の可能性は、現代の作曲家たちによってさらに拡張され、
-声は今や **音楽の中で最も柔軟で複雑な“音響素材”** となっている。
+## 9-1. Integration of voice and electronic sound
 
-合唱は伝統と未来を結ぶメディアであり、声という身体的で普遍的な要素が、最新の技術や音響研究と共振することで、今後も新たな表現が生まれ続けるだろう。
+using real-time processing
+
+* Granular
+* Polyphony generation
+* Spatial diffusion
+
+As a result, voices are becoming more and more "overtoned" and "materialized."
+
+## 9-2. VR/Metaverse chorus
+
+Research is being conducted on choral works in which multiple voices are arranged in 3D space and the texture changes depending on the listening position.
+
+## 9-3. Fusion with physical expression
+
+Collaborations with dance companies and performing arts that integrate voice and physical movement are on the rise.
+
+---
+
+# 10. Summary
+
+Choral / Vocal Experimental does not consider the voice as a collection of pitches, but rather
+**It is an area that comprehensively deals with acoustic, spatial, physical, and social phenomena**.
+
+The vocal possibilities demonstrated by Ligeti and Whittaker have been further expanded by modern composers.
+The voice is now the most flexible and complex acoustic material in music.
+
+Chorus is a medium that connects tradition and the future, and the resonance of the physical and universal element of the voice with the latest technology and acoustic research will continue to create new forms of expression.
 
 ---
 

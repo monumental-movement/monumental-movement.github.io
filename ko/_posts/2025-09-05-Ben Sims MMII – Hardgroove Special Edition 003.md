@@ -14,7 +14,7 @@ title: Ben Sims MMII – Hardgroove Special Edition 003
 ---
 
 
-Ben Sims MMII는 테크노계의 레전드 Ben Sims(벤 심즈)의 일명의 하나.
+Ben Sims MMII는 테크노계의 레전드 Ben Sims(벤심스)의 일명의 하나.
 
 Hardgroove Techno(하드 그루브 테크노)의 기수로 알려진 Ben Sims가 자신의 라벨 Hardgroove에서 2003년에 발매한 Tribal Techno/Hardgroove. Hardgroove 라벨 「Special Edition」시리즈의 제3탄으로서 릴리스 되었다. Ben Sims의 세계를 즐길 수 있는 한 장.
 

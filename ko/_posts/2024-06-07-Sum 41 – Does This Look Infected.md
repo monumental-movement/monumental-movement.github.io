@@ -16,9 +16,9 @@ title: Sum 41 – Does This Look Infected?
 ---
 
 
-2002년 출시된 'Does This Look Infected?'는 Sum41의 두 번째 스튜디오 앨범.
+2002년에 발매된 'Does This Look Infected?'는 Sum41의 두 번째 스튜디오 앨범.
 
-이 앨범은 전작의 첫 앨범 'All Killer No Filler'보다 팝 뮤직의 요소가 적고, 다크하고 헤비한 스타일로 헤비메탈, 호러펑크, 펑크록, 팝펑크, 멜로딕 하드코어, 하드코어 펑크, 슬래시메탈, D비트의 요소가 담긴 앨범이다.
+이 앨범은 전작 첫 앨범 'All Killer No Filler'보다 팝 뮤직의 요소가 적고, 다크하고 헤비한 스타일로 헤비메탈, 호러펑크, 펑크락, 팝펑크, 멜로딕 하드코어, 하드코어 펑크, 슬래시메탈, D비트의 요소가 담긴 앨범이다.
 
 #### Tracklist
 ```md

@@ -15,7 +15,7 @@ title: 【專欄】氛圍：從「聽音樂」到「感受音樂」二
 ---
 
 
-## 從「聽音樂」到「感受音樂」II
+## 從「聽的音樂」到「感受的音樂」II
 
 文：mmr｜主題：Ambient、環境音樂、電子音樂文化理論
 
@@ -33,13 +33,13 @@ title: 【專欄】氛圍：從「聽音樂」到「感受音樂」二
 
 ### 代表性趨勢
 - [**Erik Satie**：“Musique d’ameublement”](https://amzn.to/42JssfB) 將音樂定位為一種構成空間的“功能”，而不是需要積極聆聽的東西。
-- [**ジョン・ケージ**《4’33”》（1952年）](https://amzn.to/4pOfrLZ)：演奏者が音を出さず、会場に漂う環境音そのものを音楽とするラディカルな実験。  
+- [**約翰·凱奇**《4’33》》(1952)](https://amzn.to/4pOfrLZ)：一項激進的實驗，表演者不發出任何聲音，使用漂浮在場地中的環境聲音作為音樂。
 - [**Musique Concrète**:](https://a.r10.to/hgipOu) Pierre Schaeffer 等人試圖透過充分利用錄音和編輯技術來重建聲音。
 
-### 機材・技術
-- テープレコーダーによる編集（カットアップ、逆回転、スピード変化）  
+### 設備/技術
+- 用錄音機編輯（剪切、反轉、變速）
 - 現場錄音（城市人群、自然聲音）
-- 概念先行であり、のちのアンビエントの哲学的基盤となる。  
+- 這是一個概念先例，後來成為環境音樂的哲學基礎。
 
 ---
 
@@ -51,11 +51,11 @@ title: 【專欄】氛圍：從「聽音樂」到「感受音樂」二
 ### 代表作品
 - [布萊恩伊諾《謹慎的音樂》(1975)](https://amzn.to/3VBpgPl)
 - [Brian Eno「Ambient 1：機場音樂」(1978)](https://amzn.to/3IFlmSB)
-- [簇與伊諾「簇與伊諾」(1977)](https://amzn.to/3KkyRYu)
+- [Cluster & Eno 『Cluster & Eno』（1977）](https://amzn.to/3KkyRYu)  
 
 ### 設備/技術
-- EMS VCS3、ARP 2600などモジュラーシンセ  
-- テープループ・エコーによる持続音生成  
+- 模組化合成器，例如 EMS VCS3 和 ARP 2600
+- 使用磁帶循環迴聲產生持續的聲音
 - 強調加工和機會
 
 ### 特徵
@@ -66,7 +66,7 @@ title: 【專欄】氛圍：從「聽音樂」到「感受音樂」二
 ## ■20 世紀 80 年代：與電子音樂的融合
 
 ### 社會背景
-音樂的驅動力是冷戰結構的張力，同時也是對科技的樂觀態度。隨著家用合成器的普及，氛圍音樂從「少數聽眾的音樂」變成了「日常生活的音樂」。
+音樂的驅動力是冷戰結構的張力，同時也是對科技的樂觀態度。隨著家用合成器的普及，環境音樂已從少數聽眾的音樂轉變為日常生活的一部分。
 
 ### 代表作品
 - [哈羅德巴德與布萊恩伊諾《鏡子高原》(1980)](https://amzn.to/4nmHFvq)
@@ -86,21 +86,21 @@ title: 【專欄】氛圍：從「聽音樂」到「感受音樂」二
 ## ■1990年代：邂逅俱樂部文化
 
 ### 社會背景
-冷戦終結後のグローバル化、テクノ／レイヴ文化の爆発。大量消費される四つ打ちの合間に「チルアウト空間」が必要とされた。  
+冷戰結束後全球化與科技/銳舞文化的爆發。在消耗大量能量的四人地板節拍之間需要一個「放鬆的空間」。
 
 ### 代表作品
 - [The Orb「超越超世界的冒險」(1991)](https://amzn.to/4pxxQMK)
 - [Aphex Twin「環境作品精選85-92」（1992）]（https://amzn.to/4nTlc9p）
-- [Biosphere 『Substrata』（1997）](https://amzn.to/4mylwZO)  
-- [Global Communication 『76:14』（1994）](https://amzn.to/4myYa6o)  
+- [生物圈「Substrata」(1997)](https://amzn.to/4mylwZO)
+- [全球傳播「76:14」(1994)](https://amzn.to/4myYa6o)
 
 ### 設備/技術
 - 採樣器，例如 Akai S1000
 - [Roland TB-303](https://a.r10.to/h5SLY8)、[TR-808](https://a.r10.to/hRF5ke)的環境應用
-- DATテープによるライブ録音  
+- 使用 DAT 磁帶進行現場錄音
 
 ### 特徵
-アンビエント・ハウス、アンビエント・テクノの勃興。クラブカルチャーの「裏側」を支える音楽として機能。環境音とビートが交差する領域が開拓される。  
+Ambient House 和 Ambient Techno 的興起。它充當支持俱樂部文化“幕後”的音樂。探索環境聲音和節拍交叉的區域。
 
 ---
 
@@ -111,7 +111,7 @@ title: 【專欄】氛圍：從「聽音樂」到「感受音樂」二
 
 ### 代表作品
 - [芬尼斯《無盡的夏天》(2001)](https://amzn.to/3VBOsp4)
-- [William Basinski 『The Disintegration Loops』（2002）](https://amzn.to/42aRJze)  
+- [威廉‧巴辛斯基「崩解循環」(2002)](https://amzn.to/42aRJze)
 - [蓋子之星「及其對衰落的改進」(2007)](https://amzn.to/3IGEMqg)
 
 ### 設備/技術
@@ -131,20 +131,20 @@ title: 【專欄】氛圍：從「聽音樂」到「感受音樂」二
 
 ### 代表作品
 - [提姆赫克《處女》](https://amzn.to/4nNKwgP) (2013)
-- [Oneohtrix Point Never 『Replica』](https://amzn.to/4nnCpI8)（2011）  
+- [Oneohtrix 點絕非「複製」](https://amzn.to/4nnCpI8) (2011)
 - [吉村浩《綠色》](https://amzn.to/42J5iWN)（1986年→重新出現並受到國際關注）
 
 ### 設備/技術
-- ソフトシンセ（[Omnisphere](https://amzn.to/3IzuOHh), [Kontakt](https://amzn.to/3Izp93Y)）  
+- 軟合成器（[Omnisphere](https://amzn.to/3IzuOHh)、[Kontakt](https://amzn.to/3Izp93Y))
 - 高效能現場錄音機（[Zoom](https://amzn.to/46B3TCP)、[Tascam](https://amzn.to/3VxbOw3))
 - 音訊與 VR/AR 集成
 
 ### 特徵
-YouTubeやTwitchでの「無限ループBGM」文化。アンビエントはリスニング対象を越えて「ネット空間の環境音」として定着。  
+YouTube 和 Twitch 上的「無限循環 BGM」文化。 Ambient 已成為超越聆聽目標的「網路空間的環境聲音」。
 
 ---
 
-## 各代10首代表性歌曲列表
+## 各世代10首代表性歌曲列表
 
 
 <style type="text/css">
@@ -165,9 +165,9 @@ color: #fff;
 
 ### 1970年代
 
-| アルバム | アーティスト | 年 |
+|專輯 |藝人 |年份|
 |------|--------------|----|
-| [Discreet Music](https://amzn.to/46Ua7Px) | Brian Eno | 1975 |
+| [謹慎音樂](https://amzn.to/46Ua7Px) |布萊恩伊諾 | 1975 |
 | [Ambient 1：機場音樂](https://amzn.to/4nMtyPM) |布萊恩伊諾 | 1978 |
 | [集群與 Eno](https://amzn.to/42aa6Es) |集群與伊諾| 1977 |
 | [海市蜃樓](https://amzn.to/3WbTdFO) |克勞斯·舒爾茨 | 1977 |
@@ -176,7 +176,7 @@ color: #fff;
 | [晚星](https://amzn.to/46EmnCm) |弗里普與伊諾 | 1975 |
 | [電影音樂](https://amzn.to/46tMKLa) |布萊恩伊諾 | 1978 |
 | [斐德拉](https://amzn.to/4niadpT) |橘夢| 1974 |
-| [Timewind](https://amzn.to/4ntSo7G) | Klaus Schulze | 1975 |
+| [時間風](https://amzn.to/4ntSo7G) |克勞斯舒茲 | 1975 |
 
 <br>
 
@@ -190,8 +190,8 @@ color: #fff;
 | [阿波羅：氛圍與配樂](https://amzn.to/3W8FGPo) |布萊恩伊諾 | 1983 |
 | [退出](https://amzn.to/4pBSSKp) |橘夢| 1981 |
 | [安靜的音樂](https://amzn.to/4nKaqSx) |史蒂夫羅奇 | 1986 |
-| [Ambient 4: On Land](https://amzn.to/46o3g0K) | Brian Eno | 1982 |
-| [Dreamtime Return](https://amzn.to/3IFUmT2) | Steve Roach | 1988 |
+| [環境 4：陸地](https://amzn.to/46o3g0K) |布萊恩伊諾 | 1982 |
+| [夢想歸來](https://amzn.to/3IFUmT2) |史蒂夫羅奇 | 1988 |
 | [音景](https://amzn.to/4gCFSQi) |吉村浩 | 1986 |
 | [九張明信片音樂](https://amzn.to/3Izvg8q) |吉村浩 | 1982 |
 
@@ -222,12 +222,12 @@ color: #fff;
 | [The Disintegration Loops](https://amzn.to/3KjewCV) | William Basinski | 2002 |
 | [以及他們對衰落的精煉](https://amzn.to/46DA0Se) |蓋子之星| 2007 |
 |流行 |瓦斯| 2000 | 2000
-| [Harmony in Ultraviolet](https://amzn.to/42a7TJ8) | Tim Hecker | 2006 |
-| 【蓋子之星的疲倦聲音】(https://amzn.to/4pXRu51) |蓋子之星| 2001 |
+| [紫外線中的和諧](https://amzn.to/42a7TJ8) |提姆·赫克 | 2006 |
+| [The Tired Sounds of Stars of the Lid](https://amzn.to/4pXRu51) | Stars of the Lid | 2001 |
 | [復仇](https://amzn.to/4gFcSaJ) |埃盧維姆 | 2003 |
 | 【遠方的火車駛過】(https://amzn.to/3KhOaRP) |烏爾里希‧施瑙斯 | 2001 |
-| [Eno Box I/II (Reissues)](https://amzn.to/4nl37Rw) | Brian Eno | 2000s |
-| [Spellewauerynsherde](https://amzn.to/3Vxga6n) | Akira Rabelais | 2004 |
+| [Eno Box I/II（重新發行）](https://amzn.to/4nl37Rw) |布萊恩伊諾 | 2000 年代 |
+| [拼字](https://amzn.to/3Vxga6n) |阿基拉‧拉伯雷 | 2004 |
 
 <br>
 
@@ -235,20 +235,20 @@ color: #fff;
 
 |專輯 |藝人 |年份|
 |------|--------------|----|
-| [Replica](https://amzn.to/4nnCpI8) | Oneohtrix Point Never | 2011 |
+| [副本](https://amzn.to/4nnCpI8) | Oneohtrix 點從不 | 2011 |
 | [處女](https://amzn.to/482fkpG) |提姆‧赫克 | 2013 |
-| [Green (Reissue)](https://amzn.to/42J5iWN) | Hiroshi Yoshimura | 2017 |
-| [Atomos](https://amzn.to/4nQ1ewe) |陰鬱者的勝利 | 2014年|
-|廢墟|石斑魚| 2014年|
-| [Reflection](https://amzn.to/3ICuCXB) | Brian Eno | 2017 |
+| [綠色（重新發行）](https://amzn.to/42J5iWN) |吉村浩 | 2017 | 2017
+| [Atomos](https://amzn.to/4nQ1ewe) |陰鬱者的勝利 | 2014 |
+|廢墟|石斑魚| 2014 |
+| [反思](https://amzn.to/3ICuCXB) |布萊恩伊諾 | 2017 | 2017
 | [A I A：外星觀察者](https://amzn.to/4mCvN7z) |石斑魚| 2011 |
-|新一天的誕生 | 2814 | 2814 2015 | 2015
+|新一天的誕生| 2814 | 2814 2015 | 2015
 | [紀元](https://amzn.to/3Kl1ogD) |第谷 | 2016 | 2016
 | [對於那些從未經歷過的人（以及那些曾經經歷過的人）](https://amzn.to/3Kjef2R) |韋爾科·S。 2016 | 2016
 
 ---
 
-## ■ 機材年表：アンビエントを支えたテクノロジー  
+## ■ 設備時間表：支援環境音樂的技術
 
 |時代|設備|特性/對環境的影響|
 |------|------|----------------------------|
@@ -258,9 +258,9 @@ color: #fff;
 | 20 世紀 80 年代 |Yamaha DX7 | FM 音源的透明聲音。 80 年代氛围的象征。 |
 | 20 世紀 80 年代 |羅蘭 Juno-60 |溫暖的墊弦音色，適合冥想空間。 |
 | 20 世紀 80 年代 |費爾萊特 CMI |昂貴的採樣器。將自然聲音和音效引入環境音樂中。 |
-| 20 世紀 90 年代 |赤井S1000/S3000 |支援俱樂部環境音樂的經典採樣器。 |
+| 20 世纪 90 年代 |赤井S1000/S3000 |支持俱乐部环境音乐的经典采样器。 |
 | 20 世紀 90 年代 | DAT錄音機|對於長時間的會議和錄製環境聲音至關重要。 |
-| 2000 年代 | Ableton 現場 |專門從事基於循環的編輯。實現即興環境製作。 |
+| 2000 年代 | Ableton 现场 |专门从事基于循环的编辑。實現即興環境製作。 |
 | 2000 年代 |最大/MSP |與聲音藝術融合，即時聲音處理。 |
 | 2010 年代 | Omnisphere，聯繫 |高清柔和聲源再現空間質感。 |
 | 2010年代~ | Zoom/Tascam 現場錄音機 |高品質的自然錄音促進了環境生態聲學的傳播。 |
@@ -278,7 +278,7 @@ color: #fff;
   - 合成器的持續聲音和未來城市的聲音是典型的氛圍電影音樂。
 - **[“Solaris”](https://amzn.to/46z8KV6)（1972，塔可夫斯基/音樂：愛德華·阿爾捷米耶夫）**
   - 電子聲學營造的宇宙氛圍。最大限度地發揮沉默的心理作用。
-- **[『ロスト・イン・トランスレーション』（](https://amzn.to/3Iurayo)2003, Sofia Coppola / 音楽: Kevin Shields, Air）**  
+- **[《迷失東京》(](https://amzn.to/3Iurayo)2003，索菲亞·科波拉 / 音樂：凱文·希爾茲、Air)**
   - 用周圍的聲音包圍城市的孤獨。
 
 ### 博物館/裝置
@@ -293,16 +293,16 @@ color: #fff;
 
 ---
 
-## アンビエントと建築・都市計画  
+## 環境與建築/都市規劃
 
-アンビエントは「音響的建築」としての側面を持つ。  
-- **空港（EnoのMusic for Airports）**：建築空間と音の共鳴。  
+環境具有「聲學建築」的面向。
+- **機場（Eno 的機場音樂）**：建築空間和聲音的共鳴。
 - **城市聲景研究（R. Murray Schafer）**：環境聲音定義了城市體驗。
 - 在**現代建築**中，它被引入為超越背景音樂的“聲學設計”，有助於城市的心理舒適。
 
 ---
 
-## 環境與治療（聲音治療）
+## アンビエントと療法（サウンドセラピー）  
 
 - 在醫療環境中使用（手術前後放鬆，提高專注力）。
 - 冥想和瑜珈的必備音樂。
@@ -317,19 +317,19 @@ color: #fff;
 **吉村宏**
 
 - 代表作品 [《九張明信片的音樂》](https://amzn.to/429uNQV) (1982)、[《綠色》](https://amzn.to/4nN36pp) (1986)
-- シンプルな旋律と透き通るサウンドで、近年海外再評価が進む。  
+- 以其簡單的旋律和清晰的聲音，近年來在海外得到重新評估。
 
 **高橋雄二**
 
 - 他與約翰·凱奇等前衛作曲家互動，並幫助日本建立了實驗音樂。
 
-**坂本龍一 (Ryuichi Sakamoto)**
+**坂本龍一**
 
 - ['async'](https://amzn.to/4pGHDAe) (2017) 結合了環境聲音和聲學藝術。環境元素貫穿了他的整個職業生涯。
 
 **河合賢治**
 
-- [『攻殻機動隊』](https://amzn.to/3VwvujB)などアニメ音楽でアンビエント的空間を表現。  
+- 用《攻殼機動隊》等動畫音樂表達環境空間（https://amzn.to/3VwvujB）。
 
 **其他的**
 
@@ -340,14 +340,21 @@ color: #fff;
 
 ## 結論
 
-アンビエントは **音楽の領域を越えた“空間芸術”**であり、建築、都市、心理療法、テクノロジーと結びつきながら進化してきました。  
+氛圍是一種超越音樂領域的“空間藝術”，透過與建築、城市、心理治療和技術的聯繫而發展起來。
 它不僅僅是一種流派，它是「人類與環境和諧相處的聲音設計」。
 
 未來，環境作為虛擬世界和城市設計中的「環境基礎設施」將變得更加重要。
 
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s0YQIC5t9D0?si=zuGffYSe02EpdXm5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### 相關專欄
 
-🔗  [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+🔗 【【專欄】什麼是氛圍音樂？ 「存在的聲音」而非聽到的聲音的哲學](https://monumental-movement.jp/Column-Ambient)

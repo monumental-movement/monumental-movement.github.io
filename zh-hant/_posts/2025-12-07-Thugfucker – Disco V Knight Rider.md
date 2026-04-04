@@ -15,7 +15,7 @@ title: 暴徒 – 迪斯可 V / 霹靂遊俠
 ---
 
 
-Thugfuckerは、2004年にUSのDJ／プロデューサーGreg Oreckとアイルランド出身でNYを拠点に活動するDJ Holmar Filipssonのデュオとしてスタートしたが、のちにGreg Oreckのソロプロジェクトとなった。
+Thugfucker 成立於 2004 年，是美國 DJ/製作人 Greg Oreck 和愛爾蘭出生的紐約 DJ Holmar Filipsson 的二人組，但後來成為 Greg Oreck 的個人專案。
 
 《Disco V / Knight Rider》是 Thugfucker（Greg Oreck & Holmar Filipsson）於 2006 年在他自己的唱片公司 Thugfucker Recordings 上發行的 House/Electro/Disco 曲目。
 

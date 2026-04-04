@@ -14,10 +14,10 @@ title: 安東皮耶特 – 球員
 
 
 Anton Pieete 是一位來自阿姆斯特丹的 DJ/製作人。
-《Players》是 Anton Pieete 的標誌性歌曲之一，於 2008 年在 Planet Kong 的子廠牌之一 Intacto Records 上發行。
+「Players」は、Anton Pieeteの代表曲の一つで、Planet Gongのサブレーベルの一つIntacto Recordsから2008年にリリースされた。
 
 安東皮耶特 (Anton Pieeteh) 與巴特斯基爾斯 (Bart Skills) 一起加入第一區。
-（ディストリクト・ワン）としても活動中。
+（一區）也很活躍。
 
 #### 曲目表
 ```md

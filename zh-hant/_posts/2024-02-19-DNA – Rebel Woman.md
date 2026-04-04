@@ -14,9 +14,9 @@ title: DNA – 叛逆的女人
 ---
 
 
-DNAは、UKダンスミュージックプロデューサーでありNick Batt（ニック・バット）とNeal Slateford（ニール・スレートフォード）のデュオ。
+DNA 是英國舞曲音樂製作人 Nick Batt 和 Neal Slateford 的二人組。
 
-2人は1990年にSuzanne Vega（スザンヌ・ヴェガ）の「Tom's Diner」のリミックスを発表したことでよく知られています。
+兩人因 1990 年發行蘇珊娜·維加 (Suzanne Vega) 的《湯姆的晚餐》(Tom's Diner) 的混音版而聞名。
 
 #### 曲目表
 ```md

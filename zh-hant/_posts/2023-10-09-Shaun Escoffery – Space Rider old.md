@@ -20,7 +20,7 @@ title: 肖恩·埃斯科弗里 – 太空騎士 老版
 
 
 
-《太空騎士》是
+「Space Rider」は、
 這是 Shaun Escoffery 於 2002 年由英國唱片公司「Oyster Music」發行的一張 EP。
 
 

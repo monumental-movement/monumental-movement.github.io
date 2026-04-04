@@ -13,7 +13,7 @@ title: Junior Senior – Hey Hey My My Yo Yo
 ---
 
 
-이 앨범은 덴마크의 음악 듀오인 Junior Senior(주니어 시니어)의 곡입니다. 이 곡은 2002년 출시된 그들의 데뷔 앨범 'D-D-Don't Stop the Beat'에 수록되어 있습니다.
+이 앨범은 덴마크의 음악 듀오인 Junior Senior(주니어 시니어)의 곡입니다. 이 노래는 2002년 출시된 그들의 데뷔 앨범 'D-D-Don't Stop the Beat'에 수록되어 있습니다.
 
 「Hey Hey My My Yo Yo」는 업템포로 캐치인 팝송으로, 밝은 멜로디, 춤추기 쉬운 비트, 장난스러운 가사가 특징입니다. Junior Senior의 음악은 댄스 팝과 디스코 요소를 통합하고 팝 음악을 제공하는 것으로 알려져 있습니다.
 

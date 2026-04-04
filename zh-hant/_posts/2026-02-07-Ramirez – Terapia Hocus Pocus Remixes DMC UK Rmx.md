@@ -22,7 +22,7 @@ Ramirez是義大利DFC廠牌於90年代初創立的電子舞曲專案。 DFC 的
 
 A1 & AA1 是由 Ferry Ridderhof 和 Peter Garnefski 創作的荷蘭製作組合 Hocus Pocus 的混音版。
 
-AA2 是英國 DJ/唱片製作人 John Digweed 的混音版，他同時也是 Bedrock 和 Sasha & John Digweed。
+AA2は、イギリスのDJ／レコードプロデューサーで、BedrockやSasha & John Digweedとしても活動するJohn Digweedによるremix。
 
 #### 曲目表
 ```md

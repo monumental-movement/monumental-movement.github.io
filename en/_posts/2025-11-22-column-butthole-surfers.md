@@ -86,7 +86,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Whole mix (Lo-Fi)"]
+    D --> E["Overall mix (Lo-Fi)"]
 </div>
 
 ---
@@ -128,7 +128,7 @@ The album was designed to give a "vague feeling of anxiety" throughout the album
 
 <div class="mermaid">
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
+    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]
@@ -209,7 +209,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Whole mix (Lo-Fi)"]
+    D --> E["Overall mix (Lo-Fi)"]
 </div>
 
 ---
@@ -242,7 +242,7 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
+    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]

@@ -52,7 +52,7 @@ color: #fff;
 
 ## History
 
-The beginnings of interactive music date back to the pre-digital era. Tape manipulation and live improvisation were already "changing music." However, it was only with the development of computers and gaming culture that it became established as a clear structure.
+The beginnings of interactive music date back to the pre-digital era. Tape manipulation and live improvisation were already "changing music." However, it was with the development of computers and game culture that it became a clear structure.
 
 ### 1970s-1980s: Electronic instruments and MIDI
 

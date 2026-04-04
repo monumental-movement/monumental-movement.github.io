@@ -14,7 +14,7 @@ title: Treplec – Fliege Jürgen! EP
 ---
 
 
-2006년 릴리즈 작품으로, Milnormodern의 라벨 오너인 Nils Scheibe의 프로젝트 Treplec에 의한 2매 세트 EP는 기분 좋은 퍼커시브로 미니멀한 리듬에, 그림 굵게 낮아지는 베이스와 신비한 멜로디나 패드가 들어오는 그루비인 트랙들입니다.
+2006년 릴리스 작품으로, Milnormodern의 라벨 오너인 Nils Scheibe의 프로젝트 Treplec에 의한 2매 세트 EP는 기분 좋은 퍼커시브로 미니멀한 리듬에, 그림 굵게 낮아지는 베이스와 신비한 멜로디나 패드가 들어오는 그루비인 트랙들입니다.
 
 #### Tracklist
 ```md

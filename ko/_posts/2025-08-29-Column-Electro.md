@@ -36,7 +36,7 @@ title: 【칼럼】 일렉트로(Electro)：머신이 새기는 미래 도시의
 
 크래프트 워크의 「Trans-Europe Express」와 「Numbers」를 샘플링해, TR-808의 리듬에 융합한 역사적 명곡. 이에 따라 일렉트로는 '미래적인 힙합'으로 등장했다.
 
-Planet Rock은 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 칭찬되고 있으며, 혁신적인 사운드와 선구적인 접근 방식은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하고 있습니다.
+Planet Rock은 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 칭찬되고 있으며, 혁신적인 사운드와 선구적인 접근법은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하고 있습니다.
 
 #### Tracklist
 ```md
@@ -56,7 +56,7 @@ B. Planet Rock (Instrumental)
 
 **Egyptian Lover – Egypt, Egypt**
 
-신스를 구사하면서, 섹셜하고 퇴폐적인 세계관을 제시. 서해안 장면을 상징하는 한 곡.
+신디를 구사하면서 성적이고 퇴폐적인 세계관을 제시. 서해안 장면을 상징하는 한 곡.
 
 일렉트로는 단순한 음악 장르가 아니라 브레이크 댄스나 스트리트 패션과 불가분의 문화였다. 실버 의상과 사이버풍 비주얼은 '머신과 인간의 융합'이라는 시대 감각을 구현하고 있었다.
 
@@ -68,13 +68,13 @@ B. Planet Rock (Instrumental)
 
 1980년대 후반부터 1990년대에 걸쳐 디트로이트 테크노와 일렉트로는 다시 연결된다.
 
-**Drexciya(디트로이트의 전설적 듀오)**는 해저 문명을 테마로 한 컨셉 작품으로 경질의 일렉트로 비트에 신화성을 부여했다.
+**Drexciya(디트로이트 출신의 전설적인 듀오)**는 해저 문명을 주제로 한 컨셉 작품으로 하드한 일렉트로 비트에 신화적인 느낌을 더했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Juan Atkins(Model 500)**는 테크노의 선구자이자 일렉트로틱한 트랙을 많이 제작해, 양자의 경계를 자유롭게 넘어갔다.
+**Juan Atkins(Model 500)**은 테크노의 선구자이자 동시에 일렉트로 트럭을 많이 제작해, 양자의 경계를 자유롭게 왕래했다.
 
 이 흐름은 이후의 IDM이나 글리치 일렉트로니카에도 연결되어 간다.
 

@@ -13,7 +13,7 @@ title: Michael Saxell – Red And Blue
 ---
 
 
-Michael Saxell은 스웨덴 출신의 싱어 송 라이터 / 작곡가 작사가 / 멀티 악기 연주자 / 프로듀서.
+Michael Saxell은 스웨덴 출신의 싱어송 작가 / 작곡가 작사가 / 멀티 악기 연주자 / 프로듀서.
 
 #### Tracklist
 ```md

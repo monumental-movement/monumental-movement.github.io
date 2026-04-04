@@ -19,7 +19,7 @@ title: Circus – New Horizon
 
 Circus(서커스)는 1978년 데뷔한 남녀 2명씩으로 구성된 4인조 코러스 그룹. 'Mr. 서머 타임 -여름 이야기-'(미셸 퓨건의 커버곡), '아메리칸 필링', 'Woman in Love' 등의 히트곡으로 알려져 있다.
 
-New Horizon은 1979년 라벨 Alfa에서 출시된 City Pop/Disco/Soul/Vocal/가요곡.
+'New Horizon'은 1979년 라벨 Alfa에서 출시된 City Pop/Disco/Soul/Vocal/가요곡.
 
 #### Tracklist
 ```md

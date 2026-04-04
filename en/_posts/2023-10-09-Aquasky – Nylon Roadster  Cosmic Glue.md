@@ -8,15 +8,15 @@ layout: post
 tags:
 - Drum n Bass
 - Dubstep
-title: Aquasky – Nylon Roadster  Cosmic Glue
+title: Aquasky – Nylon Roadster Cosmic Glue
 ---
 
 
-1996年から1997年にかけての多くのMoving Shadowのリリースは、ジャジーな曲調に過度に傾倒していましたが、Aquaskyのこのリリースは、穏やかなドラム＆ベースがつまらないものである必要はないことを証明しました。
+While many Moving Shadow releases from 1996 to 1997 leaned too heavily into jazzy tunes, this release from Aquasky proved that gentle drum & bass doesn't have to be boring.
 
-『Nylon Roadster』は、滑らかな展開のトラックで、過度に干渉しない控えめなブレイクビートが特徴です。このトラックの真髄は、途中にある穏やかで非常に感情的なピアノのセクションです。
+Nylon Roadster is a smooth track, with a subdued breakbeat that doesn't interfere too much. The heart of this track is the gentle and very emotional piano section in the middle.
 
-まるで子守唄として完璧に使われることを想像できます。本当に素晴らしい一曲です。
+I can imagine it being used perfectly as a lullaby. It's a really great song.
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ X. Nylon Roadster
 Y. Cosmic Glue
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

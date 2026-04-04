@@ -13,17 +13,17 @@ title: Noisia – Yellow Brick Raar
 ---
 
 
-Noisia（ノイジア）は、2022年に解散したオランダのドラムンベーストリオ。ドラムンベース、ハウス、ブレイク、エレクトロニックサウンドなど幅広い音楽を制作しており、2014年にはももいろクローバーZの『猛烈宇宙交響曲・第七楽章「無限の愛」（Emperor Style）』に収録されているLOST CHILDのremixも手がけた。
+Noisia is a Dutch drum and bass trio that disbanded in 2022. He produces a wide range of music including drum"n"bass, house, breaks, and electronic sounds, and in 2014 he also worked on the remix of LOST CHILD, which was included in Momoiro Clover Z"s "Furious Space Symphony - 7th Movement "Infinite Love' (Emperor Style)".
 
-「Yellow Brick / Raar」は、Noisia自身が運営するレーベルDivision Recordingsより2007年にリリースされたブレイク・ハウストラック。
+"Yellow Brick / Raar" is a breakout house track released in 2007 by Noisia's own label, Division Recordings.
 
-「Yellow Brick」は中毒性のある最高に盛り上がるトラックで、おなじみの脳みそを揺さぶるようなノイジアのベースラインと、とても心地よくシンプルなビートが特徴です。
+'Yellow Brick' is an addictive, uplifting track with a familiar noisy bassline and a very soothing and simple beat.
 
-一方の「Raar」は、ダンスフロアを完全に破壊するようなトラックです。
+'Raar', on the other hand, is a track that will absolutely destroy the dance floor.
 
-「Yellow Brick」がシンプルなビートとテンポで抑えめだったのに対し、「Raar」は邪悪なベースと、意図的にずれているように感じる狂ったビートで頭を殴られるような感覚になります。
+Where "Yellow Brick" was subdued with a simple beat and tempo, "Raar" feels like you're getting hit in the head with a sinister bass and a crazy beat that feels intentionally off.
 
-たとえハウスミュージックが好きでなくても、全てのノイジアファン必聴のレコードです。
+This is a must-hear record for all noise fans, even if you don't like house music.
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ a. Yellow Brick
 aa. Raar
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LPYrnOWLEC4?si=uAQ6gHXQBGEBH8RV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

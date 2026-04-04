@@ -9,17 +9,17 @@ permalink: /zh-hant/cygnus-x-the-orange-theme-the-remixes/
 tags:
 - Techno
 - Trance
-title: Cygnus X – The Orange Theme (The Remixes)
+title: Cygnus X – 橘色主題（混音版）
 ---
 
 
-Cygnus Xは、ドイツのテクノユニットであり、1990年代に活動していました。彼らは、トランスミュージックやハードトランスのサウンドで知られています。
+Cygnus X 是一支活躍於 20 世紀 90 年代的德國科技樂團。他們以 trance 音樂和硬 trance 聲音而聞名。
 
 《The Orange Theme》是 Cygnus X 的標誌性歌曲，於 1994 年首次發行。這首歌的特點是充滿活力的節拍、高張力的合成器聲音以及強大的構建和下降。其華麗的聲音和獨特的旋律將為 Trance 音樂愛好者所熟悉。
 
-リミキサーたちは、曲に独自のアプローチを加え、新たな解釈やサウンドをもたらしました。これにより、原曲の要素を活かしつつも、さまざまな音楽スタイルやアーティストの視点が取り入れられました。
+混音師為歌曲添加了自己獨特的方法，帶來了新的詮釋和聲音。這使我們能夠融合不同的音樂風格和藝術家的觀點，同時仍然保留原始歌曲的元素。
 
-「The Orange Theme (The Remixes)」は、トランスやハードトランスの愛好家にとって、エキサイティングなリミックス集となっています。曲のテンポやエネルギーが高く、クラブやフェスティバルのダンスフロアで盛り上がること間違いなしです。
+Orange Theme（混音版）是為 trance 和 Hard trance 愛好者準備的令人興奮的混音合集。這首歌節奏快、能量高，一定會在俱樂部和節慶的舞池上大受歡迎。
 
 #### 曲目表
 ```md
@@ -32,7 +32,7 @@ B1. The Orange Theme (Bervoets & De Goeij Remix)
 B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

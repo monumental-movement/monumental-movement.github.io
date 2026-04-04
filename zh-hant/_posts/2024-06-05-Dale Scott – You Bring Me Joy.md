@@ -12,7 +12,7 @@ tags:
 - Promo
 - Remix
 - 90s
-title: 戴爾·史考特——你帶給我快樂
+title: 戴爾·斯科特——你帶給我快樂
 ---
 
 

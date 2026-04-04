@@ -14,7 +14,7 @@ title: Sandi & Matues – The World Pt. 1
 ---
 
 
-「Sandi & Matues – The World Pt. 1」의 원반은, 레어펑크 DJ KEB DARGE(케브·다지) 밖에 소유하고 있지 않다고 하는 소문도 있는 희소반.
+「Sandi & Matues – The World Pt. 1」의 원반은, 레어펑크 DJ KEB DARGE(케브·다지) 밖에 소유하고 있다고 하는 소문도 있는 희소반.
 
 #### Tracklist
 ```md

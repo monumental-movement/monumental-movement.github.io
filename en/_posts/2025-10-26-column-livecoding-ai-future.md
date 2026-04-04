@@ -96,7 +96,6 @@ The relationship between the two is not one of "dominance and subordination," bu
 | **SuperCollider** | James McCartney | A long-established environment for sound synthesis and algorithmic composition | Sound parameter control using AI models is in progress |
 | **Sonic Pi** | Sam Aaron | Ruby-based with both education and performance in mind | AI-assisted code examples used in educational settings |
 | **Riffusion** | Seth Forsgren et al. | Diffusion model that generates spectrograms | AI itself directly generates sound |
-| **Ocelot / Hydra** | Live Coding environment that integrates generated video + sound | AI synchronization of vision and sound is possible |
 
 ---
 
@@ -129,7 +128,7 @@ TOPLAP's philosophy of "opening up the process" is
 When AI joins this culture,
 We need to resist the "black box".
 
-If a generative AI proposes a code, its learning process and decision criteria should also be made public.
+If a generative AI proposes code, its learning process and decision criteria should also be made public.
 This is the key to unlocking the future of algorithmic music.
 
 ---
@@ -196,7 +195,7 @@ We are trying to create a **culture of sharing the "intelligence of performing"*
 
 Algorithms and humans, machines and emotions.
 Where the boundaries melt,
-A new musical horizon rises.
+A new musical horizon will rise.
 
 > Chords transcend sheet music, and AI learns to improvise.
 > Music is no longer a "human exclusive patent";

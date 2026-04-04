@@ -11,13 +11,13 @@ tags:
 - Minimal
 - Acid
 - 90s
-title: A. Crash and Brixton – Comrades From Cologne
+title: A. 克拉什和布里克斯頓－來自科隆的同志
 ---
 
 
-ドイツ出身のA. Crash (Andreas Kremer)とBrixton(Norbert Georg Brixton Wieschollek)によるスプリット・シングル。
+來自德國的 A. Crash (Andreas Kremer) 和 Brixton (Norbert Georg Brixton Wieschollek) 的分割單曲。
 
-《Comrades From Cologne》是一首 Techno/Minimal/Acid 曲目，由 Electric Music Foundation 於 1997 年發行，Electric Music Foundation 是明尼阿波利斯的唱片公司，專注於模擬/模組化合成器和 808/909 鼓機，於 1993 年末作為 Analog Records 的一個部門由 Freddy Fresh 和 Auto Kinetic Fresh 創立。
+《Comrades From Cologne》是一首 Techno/Minimal/Acid 曲目，由 Electric Music Foundation 於 1997 年發行，Electric Music Foundation 是一家專注於模擬/模組化合成器和 808/909 鼓機的明尼阿波利斯唱片公司，於 1993 年末由 Freddy Fresh 和 Auto Kinetic 作為鼓機的明尼阿波利斯唱片公司，於 1993 年末由 Freddy Fresh 和 Auto Kinetic 作為鼓機的明尼阿波利斯唱片公司，於 1993 年末由 Freddy Fresh 和 Auto Kinetic 作為鼓機的明尼阿波利斯唱片公司，於 1993 年末由 Freddy Fresh 和 Auto Kinetic 作為鼓機的明尼阿波利斯一個部門成立。
 
 #### 曲目表
 ```md

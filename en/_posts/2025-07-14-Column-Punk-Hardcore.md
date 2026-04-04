@@ -8,156 +8,156 @@ layout: post
 tags:
 - Punk
 - Hardcore
-title: 【コラム】 パンクとハードコアの定義──怒りと表現の分岐点
+title: '[Column] Definition of punk and hardcore: the turning point of anger and expression'
 ---
 
 
-## パンクとハードコアの定義──怒りと表現の分岐点
+## Definition of punk and hardcore ─ The crossroads of anger and expression
 
-文：mmr｜テーマ：パンク・ハードコア
+Text: mmr｜Theme: Punk/Hardcore
 
-1970年代後半、商業化したロックに飽和状態を感じた若者たちの間から、「シンプルで荒削りで、何より本音を叫ぶ音楽」が生まれた。パンクである。だがそのパンクすらも、やがて内向きに、時に形式的に傾くようになる。そこに再び怒りの炎を投下したのがハードコア・パンクだった。
-本コラムでは、パンクとハードコアの定義とその違いを、音楽、思想、ファッション、そして歴史の観点から掘り下げていく。
-
-
-<hr>
-
-### パンクとは何か
-
-▍音楽的特徴
-
-- シンプルなコード進行（3コード中心）
-
-- 速く、粗いリズム
-
-- 短い曲時間（1〜3分程度）
-
-- 非メロディアスで叫ぶようなボーカル
-
-**代表的なバンド**：The Ramones（US）、Sex Pistols（UK）、The Clash（UK）
-
-▍思想と価値観
-
-**反体制・反権威**：国家、警察、企業、宗教などへの不信。
-
-**DIY精神**：自分たちで音楽を作り、レコードを作り、フライヤーを刷り、ライブを行う。
-
-**アンチファッションでありつつファッション化：**安全ピン、モヒカン、レザージャケットなど。
-
-▍文化的背景
-
-1970年代のイギリスでは不況と失業率の高騰、若者の閉塞感が社会問題に。
-
-政治的にはサッチャリズムの萌芽期。音楽はそのカウンターカルチャーとして機能した。
+In the late 1970s, young people felt oversaturated with commercialized rock music, and ""music that is simple, rough, and above all, expresses its true feelings"' was born. It"s punk. However, even this punk style eventually began to turn inward, sometimes formally. It was hardcore punk that once again unleashed the flames of anger.
+In this column, we will delve into the definitions and differences between punk and hardcore from the perspectives of music, ideology, fashion, and history.
 
 
 <hr>
 
-### ハードコアとは何か
+### What is punk?
 
-▍音楽的特徴
+▍Musical features
 
-- より速く、より激しく、より短く（曲は1分未満も多い）
+- Simple chord progression (mainly 3 chords)
 
-- ギターの歪みやリズムの破壊性が強調
+- fast, rough rhythm
 
-- スクリームやシャウト主体のボーカル
+- Short song duration (about 1-3 minutes)
 
-**代表的なバンド**：Black Flag、Minor Threat、Bad Brains、Dead Kennedys（すべてUS）
+- Non-melodic, screaming vocals
 
-▍思想と価値観
+**Representative bands**: The Ramones (US), Sex Pistols (UK), The Clash (UK)
 
-- パンクの反体制性をさらに推し進めた形。
+▍Thoughts and values
 
-- ストレートエッジ（禁酒・禁煙・菜食）運動など、内省的・倫理的な志向も派生。
+**Anti-system/anti-authority**: Distrust of the state, police, companies, religion, etc.
 
-- 政治色が強く、反戦・反差別・動物権利保護などのメッセージも。
+**DIY spirit**: Make your own music, make records, print flyers, and perform live.
 
-▍文化的背景
+**Anti-fashion yet fashionable: **Safety pins, mohawks, leather jackets, etc.
 
-- 1980年代初頭のアメリカ、特にカリフォルニアやワシントンD.C.を中心に発展。
+▍Cultural background
 
-- 警察の弾圧、保守的な社会への怒り、暴力的なライブ文化が象徴的。
+In Britain in the 1970s, a recession, soaring unemployment rates, and a sense of isolation among young people became social problems.
 
-- 一部のシーンでは暴力やギャング化も問題化。
+Politically, it was the nascent stage of Thatcherism. Music functioned as that counterculture.
 
 
 <hr>
 
-### パンクとハードコアの違いと共通点
+### What is hardcore?
+
+▍Musical features
+
+- Faster, harder, shorter (often less than a minute)
+
+- Emphasizes the distortion of the guitar and the destructiveness of the rhythm.
+
+- Scream and shout-based vocals
+
+**Representative bands**: Black Flag, Minor Threat, Bad Brains, Dead Kennedys (all US)
+
+▍Thoughts and values
+
+- A form that further advances the anti-establishment nature of punk.
+
+- Introspective and ethical orientations such as the straight edge (abstinence, non-smoking, vegetarianism) movement have also emerged.
+
+- Strongly political, with messages such as anti-war, anti-discrimination, and protection of animal rights.
+
+▍Cultural background
+
+- Developed in the United States in the early 1980s, especially in California and Washington D.C.
+
+- Symbolic of police repression, anger towards conservative society, and violent live culture.
+
+- Violence and gangs are also an issue in some scenes.
+
+
+<hr>
+
+### Differences and similarities between punk and hardcore
 
 <div class="table-border">
 <table>
-  <thead>
-    <tr>
-      <th>項目</th>
-      <th>パンク</th>
-      <th>ハードコア</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>音楽性</td>
-      <td>シンプル、初期ロック寄り</td>
-      <td>より高速・破壊的・重厚</td>
-    </tr>
-    <tr>
-      <td>メッセージ</td>
-      <td>反体制・反権威</td>
-      <td>よりラディカルで政治色濃い</td>
-    </tr>
-    <tr>
-      <td>ファッション</td>
-      <td>モヒカン、安全ピン、派手な装飾</td>
-      <td>ストリート寄り、ミニマル、実用的</td>
-    </tr>
-    <tr>
-      <td>地域性</td>
-      <td>英国（＋NY）起源</td>
-      <td>アメリカ（特に西海岸・東海岸）発祥</td>
-    </tr>
-    <tr>
-      <td>精神性</td>
-      <td>アナーキー、自由</td>
-      <td>規律（ストレートエッジ）、内面の改革</td>
-    </tr>
-    <tr>
-      <td>ライブ文化</td>
-      <td>破壊的だが表現的</td>
-      <td>時に暴力的で集団性重視</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Item</th>
+<th>Punk</th>
+<th>Hardcore</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Musicality</td>
+<td>Simple, close to initial lock</td>
+<td>Faster, more destructive, more profound</td>
+</tr>
+<tr>
+<td>Message</td>
+<td>Anti-establishment/anti-authority</td>
+<td>More radical and political</td>
+</tr>
+<tr>
+<td>Fashion</td>
+<td>Mohawk, safety pin, fancy decorations</td>
+<td>Street-oriented, minimal, practical</td>
+</tr>
+<tr>
+<td>Regionality</td>
+<td>British (+NY) origin</td>
+<td>Originally in America (especially on the west and east coasts)</td>
+</tr>
+<tr>
+<td>Spirituality</td>
+<td>Anarchy, freedom</td>
+<td>Discipline (straight edge), inner reform</td>
+</tr>
+<tr>
+<td>Live culture</td>
+<td>Destructive but expressive</td>
+<td>Sometimes violent and focused on group sex</td>
+</tr>
+</tbody>
 </table>
 </div>
 
-とはいえ、両者は対立関係ではない。ハードコアはパンクの進化形・分岐形とも言えるし、むしろパンクの原理主義的な側面を保持しようとした結果、先鋭化したのがハードコアとも解釈できる。
+However, the two are not in a conflicting relationship. Hardcore can be said to be an evolved or branched form of punk, or rather it can be interpreted as hardcore becoming more radical as a result of trying to maintain the fundamentalist aspects of punk.
 
 
 <hr>
 
-### 現在の視点から見るパンクとハードコア
+### Punk and hardcore from a current perspective
 
-21世紀以降、パンクとハードコアは多様な形で継承されている。
+Since the 21st century, punk and hardcore have been inherited in various forms.
 
-ポスト・ハードコアやエモ、クラストコア、メロディック・ハードコアなど、多様なサブジャンルへ分岐。
+It has branched out into various subgenres such as post-hardcore, emo, crustcore, and melodic hardcore.
 
-日本でもハードコアパンク（GAUZE、Lip Cream、G.I.S.M.など）は独自の文化を築いた。
+In Japan, hardcore punk (GAUZE, Lip Cream, G.I.S.M., etc.) has created a unique culture.
 
-現代では、Z世代やDIYフェスの中にも再評価の気運があり、サブカルチャーとしての強度を保ち続けている。
+Nowadays, there is a re-evaluation among Generation Z and DIY festivals, and it continues to maintain its strength as a subculture.
 
 
 <hr>
 
-### 「反抗」のその先へ
+### Beyond "rebellion"
 
-パンクもハードコアも、単なる音楽ジャンルではない。むしろ、「自分の声を持て」という哲学の発露であり、それを音・身体・集団を通じて表現するメディアだ。
-このふたつの潮流が私たちに問いかけてくるのは、単なる破壊ではなく、「何に抗い、何を創るのか？」という未来への指針かもしれない。
+Punk and hardcore are not just music genres. Rather, it is an expression of the philosophy of ""having your own voice,'' and it is a medium that expresses this through sound, body, and group.
+What these two trends ask us is not just destruction, but perhaps a guideline for the future: ""What should we resist and what should we create?''
 
 ---
 
 ### YouTube Podcast
 
-※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DaMyCkV5tyk?si=r9sVuMm3thxSfIJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

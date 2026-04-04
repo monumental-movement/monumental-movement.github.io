@@ -9,13 +9,13 @@ permalink: /zh-hant/tdr-squelch-part-1/
 tags:
 - Trance
 - Tech House
-title: TDR – Squelch (Part 1)
+title: TDR – 靜噪（第 1 部分）
 ---
 
 
 Tom De Ridder 的《Squelch (Part 1)》是 Tom De Ridder 的一首 trance/tech house 曲目，由荷蘭科技/前衛 house/trance 廠牌 Oxygen Recordings 於 2005 年發行。
 
-A 面的第一首曲目是荷蘭 DJ/製作人 Sander Van Doorn 的混音作品，他曾混音過 Sia、The Killers、Swedish House Mafia 和 Depeche Mode 等樂團。
+A面１曲目は、シーア、ザ・キラーズ、スウェディッシュハウスマフィア、デペッシュ・モード などのremixを手がけるオランダのDJ /プロデューサーSander Van Doorn（サンダー・ヴァン・ドーン ）によるremix。
 
 #### 曲目表
 ```md

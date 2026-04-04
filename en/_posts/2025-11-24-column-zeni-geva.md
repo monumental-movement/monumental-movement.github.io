@@ -54,7 +54,7 @@ The band's name is said to be derived from the word "Zeni" and the German word "
 - **How ​​to Kill (1987)**
 - **Vast Impotenz (1988/Cassette)**
 
-In their early works, while centered around noise rock and hardcore, we can already see the beginnings of the repetitive structures, destructive riffs, and mathematically irregular time signatures that would later become their hallmarks.
+In their early works, while centered around noise rock and hardcore, we can already see the beginnings of the repetitive structures, destructive riffs, and mathematically irregular time signatures that would become their signature.
 
 In 1988, **Mitsuru Tabata** joined the group, further increasing the quality of the guitars. Since then, Tabata has been the pillar of Zeni Geva's sound for a long time.
 
@@ -85,7 +85,7 @@ It is said to be the album with the most well-balanced integration of acoustics,
 In 1996, there was a change in drummers, with Blake Fleming joining the band for a short time. Later, **Masataka Fujikake** joined the band, and Zeni Geva's rhythms became more complex, faster, and more layered.
 
 ### Strengthening structural musicality
-During this period, Zeni Geva's songs became longer and more structured, including songs over 16 minutes.
+During this period, Zeni Geva's songs became longer and more structured, including songs longer than 16 minutes.
 - Multiple parts diverge and reconverge
 - Contrapuntal riff with two guitars
 - Increased use of electronic devices such as Nulltron
@@ -112,7 +112,7 @@ For Zeni Geva, the addition of Yoshida once again had a strong impact.
 
 ---
 
-## 5. Second period Zeni Geva (2010–): Re-evaluation and global re-attention
+## 5. Second period Zeni Geva (2010–): Re-evaluation and global renewed attention
 ### "Alive and Rising (2010)"
 - Live sound source from the 2009 lineup
 - Tatsuya Yoshida"s perverted drums and Null & Tabata"s guitar duel are spectacular
@@ -131,7 +131,7 @@ Zeni Geva is receiving renewed attention from the noise/metal/hardcore/avant-gar
 - Non-4/4 beat relentless loop
 
 ### 6-2. Role of drums
-- In the beginning, it was more hardcore.
+- Early on, it was more hardcore.
 - Mathematics and polyrhythm in the 90s
 - After joining Tatsuya Yoshida, an intense and unusual approach
 

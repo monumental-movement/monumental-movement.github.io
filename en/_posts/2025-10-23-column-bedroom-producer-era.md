@@ -84,7 +84,7 @@ SoundCloud in 2007, YouTube in 2005.
 These platforms have become ""windows'' for individuals to communicate directly to the world.
 The era has come when music can reach listeners around the world with just one piece of data, without having to go through traditional label contracts or distribution networks.
 
-### Individuals Discovered
+### Individuals discovered
 
 Clairo, Cuco, Joji, Porter Robinson, Madeon, Sasakure.UK….
 What they all have in common is that they all started in a room.

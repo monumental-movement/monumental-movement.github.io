@@ -12,7 +12,7 @@ title: VA – Trance Lovers 2
 ---
 
 
-トランスコンピレーション
+trance compilation
 
 Mixed By DJ Tomo
 
@@ -35,4 +35,4 @@ Mixed By DJ Tomo
 15. Andre Neumann – First Picture (Brittlestar's Exposure Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}

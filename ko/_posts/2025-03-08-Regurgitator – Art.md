@@ -14,7 +14,7 @@ title: Regurgitator – ...Art
 ---
 
 
-Regurgitator(리가지테이타)는 호주 출신의 얼터너티브 록 밴드. 1993년 후반에 리드보컬, 기타, 키보드의 Quan Yeomans, 베이스 기타, 키보드, 보컬의 Ben Ely, 드럼의 Martin Lee에 의해 결성되었다.
+Regurgitator(리가지테이타)는 호주 출신의 얼터너티브 록 밴드. 1993년 후반에 리드 보컬, 기타, 키보드의 Quan Yeomans, 베이스 기타, 키보드, 보컬의 Ben Ely, 드럼의 Martin Lee에 의해 결성되었다.
 
 「...Art(...아트)」는, 1999년에 릴리스된 Reggurgitator의 3번째 스튜디오 앨범.
 

@@ -136,7 +136,7 @@ This has brought about the democratization of music education and the diversific
 On the other hand, the division between systematic education and self-study has also been pointed out.
 While there are concerns about a decline in basic theory and music reading ability, learning outcomes that emphasize creativity have also been confirmed.
 
-The digital environment has shifted music education from a single-track career to a multi-track learning model.
+The digital environment has moved music education from a single-track career to a multi-track learning model.
 
 > Digitalization is expanding the scope of music education, and at the same time changing the way we view education itself.
 

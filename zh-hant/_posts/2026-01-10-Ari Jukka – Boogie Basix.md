@@ -15,7 +15,7 @@ title: 阿里尤卡 – 布吉巴斯克斯
 ---
 
 
-Ari J. Ruukamo，又名 Ari Jukka，是一位於 20 世紀 80 年代末開始創作音樂的藝術家，主要從事 Garage/Deep house 流派。他也與芬蘭 DJ/製作人 Tuomas Salmela 一起參與 Deep House 計畫 Lifestyle People。 1993 年，他與 Jori Hulkkonen 和 Jukka Hautamäki 共同創立了芬蘭廠牌 Lumi Records。
+Ari J. Ruokamo，又名 Ari Jukka，是一位於 20 世紀 80 年代末開始創作音樂的藝術家，主要從事 Garage/Deep house 流派。他也與芬蘭 DJ/製作人 Tuomas Salmela 一起參與 Deep House 計畫 Lifestyle People。 1993 年，他與 Jori Hulkkonen 和 Jukka Hautamäki 共同創立了芬蘭廠牌 Lumi Records。
 
 《Boogie Basix》是瑞典廠牌 Trainspotter's Nightmare 於 1996 年發行的 Acid House/Techno/House 曲目，廠牌由 Glenn Wilson 和 Cari Lekebusch 於 1995 年至 1997 年營運。
 

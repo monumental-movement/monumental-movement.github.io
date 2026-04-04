@@ -72,7 +72,7 @@ B2. Call Me Mañana (Heavy Horses Radio)
 ### Ratty – 日出（我在這裡）
 <a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(此處%20I%20A>
 
-概要：Scooter のトランス派生プロジェクト Ratty による曲
+概述：Scooter 的 trance 衍生項目 Ratty 的歌曲
 
 特點：代表原版《她是太陽》《日出（老鼠的地獄）》。充滿激情的地板軌道，在俱樂部裡看起來很棒。
 
@@ -98,7 +98,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 ### Phase vs. DJ Sniper 壯舉凱倫 – 永遠/點火序列
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
-リリース元：UK レーベル Sonic Boom
+發行者：英國廠牌 Sonic Boom
 
 特色： 一張快樂硬蕊x硬蕊/科技融合的強大EP，主打歌《Forevermore》和科技風味的《Ignition Sequence》混合在一起。
 

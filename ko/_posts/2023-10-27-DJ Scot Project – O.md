@@ -13,7 +13,7 @@ title: DJ Scot Project – O
 ---
 
 
-DJ Scot Project(Frank Zenker)는 90년대부터 하드 트랜스 장면에서 성공을 거둔 독일인 DJ/프로듀서입니다.
+DJ Scot Project(Frank Zenker)는 90년대부터 하드 트랜스씬으로 성공을 거둔 독일인 DJ/프로듀서입니다.
 DJ Scot Project – O는 그의 대표작 중 하나로 00년대 레이버에게 있어서의 앙셈으로 알려져 있습니다.
 
 #### Tracklist

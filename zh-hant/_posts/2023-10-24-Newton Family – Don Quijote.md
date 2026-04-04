@@ -10,12 +10,12 @@ tags:
 - Disco
 - 80s
 - 7inch
-title: 牛頓家族——唐吉訶德
+title: 牛頓家族－唐吉訶德
 ---
 
 
-「Newton Family – Don Quijote」は、
-Newton Family(ニュートン・ファミリー )は、70年代半ばから80年代後半に活躍したハンガリーのディスコグループ。
+《牛頓家族—唐吉訶德》
+Newton Family 是一個活躍於 70 年代中期至 80 年代末的匈牙利迪斯科樂團。
 
 #### 曲目表
 ```md

@@ -16,7 +16,7 @@ title: Deep Forest – 2 Song Sampler
 ---
 
 
-Deep Forest (딥 포레스트)는 Eric Mouquet (에릭 무케)와 Michel Sanchez (미셸 산체스)로 구성된 프랑스 그룹입니다.
+Deep Forest(딥 포레스트)는 Eric Mouquet(에릭 무케)과 Michel Sanchez(미셸 산체스)로 구성된 프랑스 그룹.
 
 Deep Forest는 에스닉 사운드와 앰비언트 음악을 결합한 이른바 '글로벌 팝'의 보급에 공헌했다. 이 카세트의 수록곡 「Sweet Lullaby」는, 미국에서는 앨범이 200만장 이상 판매될 정도의 대히트에.
 

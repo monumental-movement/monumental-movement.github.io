@@ -10,22 +10,23 @@ tags:
 - Performance Art
 - Contemporary Art
 - Avant-Garde
-title: 【コラム】 パフォーマンスアートと音楽の境界史｜身体・行為・音が交差する20世紀以降の実践
+title: '[Column] Boundary history of performance art and music | Practices since the
+  20th century where bodies, actions, and sounds intersect'
 ---
 
 
 
-## 序章：音はいつから「行為」になったのか
+## Prologue: When did sound become "action"?
 
-文：mmr｜テーマ：パフォーマンスアートと音楽が交差し、身体・時間・空間が再定義されてきた歴史を、事実のみから辿る長編考察
+Text: mmr｜Theme: A long-form study that traces the history of how performance art and music have intersected and redefined the body, time, and space, based only on facts.
 
-音楽は長らく、作曲という設計行為と演奏という再現行為の組み合わせとして理解されてきた。そこでは楽譜が中心にあり、音は視覚化された情報の実現形にすぎなかった。しかし20世紀に入ると、この前提は急速に揺らぎ始める。産業化による都市騒音、録音技術の普及、大衆文化の拡大は、音を「制御すべき対象」ではなく「環境として存在するもの」へと変質させた。
+Music has long been understood as a combination of the design act of composition and the reproduction act of performance. There, musical scores were central, and sound was merely the realization of visualized information. However, in the 20th century, this assumption began to rapidly shake. Urban noise due to industrialization, the spread of recording technology, and the expansion of popular culture have transformed sound from ""an object to be controlled" to ""something that exists in the environment."
 
-同時に、美術の領域では完成された物体よりも制作過程や行為そのものに価値を見出す動きが強まる。絵画や彫刻の外側で起こる出来事、時間の経過、観客の反応が作品の一部として意識されるようになった。音楽もまた、この流れと無関係ではなかった。
+At the same time, in the field of art, there is a growing movement to place more value on the production process and the act itself than on the completed object. Events that occur outside the painting or sculpture, the passage of time, and the audience's reactions have come to be recognized as part of the work. Music was also not unrelated to this trend.
 
-この章では、音が楽曲という枠を超え、行為や状況として捉え直されるに至った歴史的背景を整理し、後続する各章の前提を明確にする。
+In this chapter, we will summarize the historical background that led to sound transcending the framework of music and being reconsidered as actions and situations, and clarify the premises of each subsequent chapter.
 
-> 音が行為として認識された瞬間、音楽は美術と同じ地平に立ち始めた。
+> The moment sound was recognized as an action, music began to stand on the same level as art.
 
 
 ---
@@ -35,7 +36,7 @@ title: 【コラム】 パフォーマンスアートと音楽の境界史｜身
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -44,111 +45,111 @@ color: #fff;
 </style>
 
 
-## 第1章：未来派と騒音の解放
+## Chapter 1: Futurism and the release of noise
 
-20世紀初頭のイタリアでは、急速な工業化と都市化が人々の感覚環境を一変させていた。蒸気機関、内燃機関、工場の稼働音は、それまでの音楽が想定していなかった音圧と持続性をもって街を満たしていた。未来派の芸術家たちは、この変化を退廃ではなく進歩として捉え、芸術の側から積極的に肯定しようとした。
+In Italy at the beginning of the 20th century, rapid industrialization and urbanization were changing people's sensory environment. The sounds of steam engines, internal combustion engines, and factories filled the city with a sound pressure and persistence that was unimaginable in music up until then. Futurist artists saw this change as progress rather than decadence, and actively tried to affirm it from the artistic side.
 
-ルイジ・ルッソロが構想したイントナルモーリは、音程よりも音色とノイズの質感に焦点を当てた装置である。ハンドルを回し、レバーを操作する演奏行為は、楽器演奏というより機械操作に近く、視覚的にも強い印象を与えた。観客は音を聴くと同時に、演奏者の身体動作を目撃することになる。
+The intonalmoli, conceived by Luigi Russolo, is a device that focuses on the timbre and texture of noise rather than pitch. The act of playing by turning a handle and operating a lever was more like operating a machine than playing a musical instrument, and it made a strong visual impression. The audience hears the sounds and at the same time witnesses the performers' physical movements.
 
-ここではすでに、音楽は耳だけで完結するものではなく、舞台上の行為全体として提示されていた。
+Already here, music was presented not as something that could only be heard, but as an entire act on stage.
 
-> 騒音を音楽に引き入れた行為は、演奏という概念そのものを再定義した。
-
----
-
-## 第2章：ダダと偶然性の導入
-
-ダダの活動は、統一された様式や技法を持たない。その代わりに共有されていたのは、既存の価値体系への不信感である。キャバレー・ヴォルテールで行われた夜会では、詩の朗読が叫びに変わり、音楽が騒音に溶け、身体動作が突発的に挿入された。
-
-重要なのは、これらが事前に厳密に設計されていなかった点にある。偶然の連鎖、演者の気分、観客の反応がそのまま作品の構成要素となった。音楽はもはや再現される対象ではなく、その場限りの出来事として生成される。
-
-この態度は後年、即興音楽やパフォーマンスアートにおけるオープンな構造の原型となる。
-
-> 偶然を受け入れた瞬間、作品は制作者の手を離れ始めた。
+> The act of bringing noise into music redefined the very concept of performance.
 
 ---
 
-## 第3章：ジョン・ケージと沈黙の転換点
+## Chapter 2: Introduction to Dada and Chance
 
-ジョン・ケージは、音楽を構成する主体が作曲家であるという前提を根底から問い直した。《4分33秒》において、演奏者は舞台に存在するが、意図的な発音行為を行わない。結果として、観客はそれまで無視していた環境音に意識を向けざるを得なくなる。
+Dada activities do not have a unified style or technique. Instead, what was shared was a distrust of the existing value system. At a soirée at the Cabaret Voltaire, poetry readings turned into shouts, music dissolved into noise, and sudden physical movements interjected.
 
-この構造は、音楽を「作る」行為から「聴く」行為へと重心を移動させた。作品は音響的な内容ではなく、時間枠と注意の向け方によって成立する。
+Importantly, these were not rigorously designed in advance. The chain of coincidences, the performer"s mood, and the audience"s reactions became the compositional elements of the work. Music is no longer an object to be reproduced, but is generated as an ad hoc event.
 
-この考え方は、後のパフォーマンスアートにおけるフレーミングの思想と直結している。
+This attitude later became the prototype for open structures in improvised music and performance art.
 
-> 音楽が消えたのではなく、聴く態度が前景化した。
-
----
-
-## 第4章：フルクサスと日常行為の音楽化
-
-フルクサスが提示した最大の転換点は、「音楽を演奏する」という特別な技能を解体した点にある。イベント・スコアは、専門的訓練を必要とせず、誰もが実行可能な指示文として書かれた。そこでは正確さや完成度よりも、行為が実行されるという事実そのものが重要視される。
-
-例えば、一定時間立ち続ける、物体を移動させる、蓋を開け閉めするといった行為は、従来の音楽的価値判断から完全に逸脱している。しかし、その行為が生み出す微細な音や沈黙、視覚的緊張は、観客の注意を強く引きつけた。
-
-ここで音楽は、聴覚芸術である以前に、時間構造を持った行為として再定義された。フルクサスの実践は、後のコンセプチュアル・アートやパフォーマンスアートに直結していく。
-
-> 行為を音楽として提示したことで、舞台は日常へと拡張された。
+> The moment I accepted chance, the work began to leave the creator's hands.
 
 ---
 
-## 第5章：身体表現としての音
+## Chapter 3: John Cage and the Turning Point of Silence
 
-1960年代後半以降、身体そのものを素材とする表現が急速に広がった。この流れの中で音楽は、外部から付加される要素ではなく、身体行為の結果として自然発生するものとして扱われるようになる。
+John Cage fundamentally challenged the premise that the composer is the subject of music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
 
-呼吸音、声帯の摩擦、床を踏みしめる音は、拡声装置によって増幅され、空間全体に広がる。観客は音を聴くと同時に、その音を生み出している身体の緊張や疲労、集中を視覚的に確認することになる。
+This structure shifted the center of gravity from the act of ""creating" music to the act of ""listening." A work is created not by its sonic content, but by its time frame and how it directs attention.
 
-この構造において、音は身体の延長であり、身体は楽器となる。音楽とパフォーマンスアートは、同一の行為を異なる感覚で経験させる装置として重なり合う。
+This idea is directly connected to the later idea of ​​framing in performance art.
 
-> 身体が鳴るとき、音楽は視覚芸術と不可分になる。
-
----
-
-## 第6章：実験音楽とパフォーマンスの共振
-
-実験音楽の領域では、音響構造と同時に演奏行為の持続性や集中状態が作品の一部として扱われた。長時間反復されるフレーズや、わずかな変化しか起こらない構造は、演奏者の身体に強い負荷を与える。
-
-観客は音の変化を待つと同時に、演奏者の姿勢や呼吸、視線の動きに注意を向ける。音楽体験は、聴覚中心の鑑賞から、時間を共有する体験へと変質する。
-
-ここでは演奏という行為そのものが、パフォーマンスとして前景化している。
-
-> 演奏を見る行為は、聴く行為と同じ重さを持ち始めた。
+> Music has not disappeared, but the way we listen to it has come to the fore.
 
 ---
 
-## 第7章：電子音楽と操作行為の可視化
+## Chapter 4: Fluxus and the musicalization of everyday actions
 
-電子楽器の登場は、音楽制作と演奏の関係を大きく変えた。ノブを回す、スイッチを切り替える、パラメータを操作するという行為は、即座に音響変化として現れる。
+The biggest turning point that Fluxus presented was the dismantling of the special skill of ""playing music.'' The event score was written as a set of instructions that can be performed by anyone without the need for specialized training. There, the importance is placed on the very fact that the act is performed, rather than accuracy or completeness.
 
-この即応性は、演奏行為を視覚的にも理解可能なものにした。観客は、音の変化と身体動作の因果関係を直接目撃する。
+For example, actions such as standing for a certain period of time, moving an object, or opening and closing a lid completely deviate from conventional musical value judgments. However, the subtle sounds, silence, and visual tension created by this act strongly captured the audience's attention.
 
-電子音楽において、演奏とは音を発することではなく、システムを操作する行為そのものとなった。
+Music, before being an aural art, was redefined as an act with a temporal structure. The practice of Fluxus was directly connected to later conceptual art and performance art.
 
-> 技術は音を増やしたのではなく、行為の層を増幅した。
-
----
-
-## 第8章：クラブ空間における集団的パフォーマンス
-
-クラブカルチャーにおいて、音楽体験は個人鑑賞ではなく集団的行為として成立する。DJブースは舞台でありながら、同時に操作室でもある。レコードを選び、ミキサーを操作する行為は、観客の身体反応と直結している。
-
-ダンスフロアでは、個々の身体がリズムに同期し、集団としてのうねりを形成する。ここでは音楽は空間全体を駆動する装置となり、観客自身がパフォーマンスの担い手となる。
-
-> 聴衆が参加者になったとき、舞台は消失する。
+> By presenting action as music, the stage was extended to everyday life.
 
 ---
 
-## 第9章：美術館・フェスティバルとハイブリッド化
+## Chapter 5: Sound as physical expression
 
-21世紀に入ると、美術館と音楽フェスティバルの機能的差異は急速に縮小した。展示空間で行われる音響作品は、時間指定のパフォーマンスとして提示され、音楽イベントでは映像や空間設計が前提条件となる。
+Since the late 1960s, expressions using the body itself as a material have rapidly spread. In this trend, music came to be treated as something that naturally occurs as a result of physical actions, rather than as an element added from the outside.
 
-観客は作品を「鑑賞」するだけでなく、その場に滞在し、身体を置くことで体験を完成させる。ジャンルの区分は運営上の便宜に過ぎず、体験設計こそが作品の核心となる。
+The sound of breathing, the friction of vocal cords, and the sound of footsteps on the floor are amplified by a public address system and spread throughout the space. At the same time as the audience listens to the sound, they can visually confirm the tension, fatigue, and concentration of the body that is producing the sound.
 
-> 境界が消えたのではなく、問いの焦点が移動した。
+In this structure, sound is an extension of the body, and the body becomes an instrument. Music and performance art overlap as devices that allow us to experience the same act with different sensations.
+
+> When the body sings, music becomes inseparable from visual art.
 
 ---
 
-## 年表：パフォーマンスアートと音楽の二層タイムライン
+## Chapter 6: Resonance of experimental music and performance
+
+In the field of experimental music, the continuity and state of concentration of the performance act were treated as part of the work, as well as the acoustic structure. Phrases that are repeated over long periods of time or structures that only undergo slight changes place a strong strain on the performer's body.
+
+While the audience waits for the sound to change, they also pay attention to the performer's posture, breathing, and eye movements. The musical experience changes from an auditory-centered appreciation to an experience of sharing time.
+
+Here, the very act of playing is foregrounded as a performance.
+
+> The act of watching a performance has begun to carry the same weight as the act of listening.
+
+---
+
+## Chapter 7: Visualization of electronic music and manipulation behavior
+
+The advent of electronic musical instruments has greatly changed the relationship between music production and performance. The act of turning a knob, flipping a switch, or manipulating a parameter instantly results in a sonic change.
+
+This responsiveness made the performance visually understandable. The audience directly witnesses the causal relationship between changes in sound and bodily movements.
+
+In electronic music, performance has become not just the act of producing sound, but the act of operating the system itself.
+
+>Technology has not multiplied the sound, but the layer of action.
+
+---
+
+## Chapter 8: Collective performance in club spaces
+
+In club culture, the musical experience is not an individual experience but a collective act. The DJ booth is both a stage and a control room. The act of selecting a record and operating the mixer is directly connected to the physical reactions of the audience.
+
+On the dance floor, individual bodies synchronize to the rhythm and form a collective undulation. Here, music becomes a device that drives the entire space, and the audience themselves become the bearers of the performance.
+
+> When the audience becomes participants, the stage disappears.
+
+---
+
+## Chapter 9: Museums/Festivals and Hybridization
+
+In the 21st century, the functional differences between museums and music festivals have rapidly narrowed. Sound works performed in exhibition spaces are presented as timed performances, and images and spatial design are prerequisites for music events.
+
+The audience not only ""appreciates'' the work, but completes the experience by staying in the place and placing their bodies there. The genre classification is merely a matter of operational convenience; the experience design is the core of the work.
+
+> The boundaries have not disappeared, but the focus of the question has shifted.
+
+---
+
+## Chronology: A two-layer timeline of performance art and music
 
 <div class="mermaid">
 timeline
@@ -172,26 +173,26 @@ timeline
 
 ---
 
-## 図：音楽とパフォーマンスの重なり
+## Diagram: Overlap of music and performance
 
 <div class="mermaid">
 flowchart LR
-    A[音楽] --> C[行為]
-    B[パフォーマンスアート] --> C
-    C --> D[時間]
-    C --> E[身体]
-    C --> F[空間]
+    A[music] --> C[act]
+    B[performance art] --> C
+    C --> D[time]
+    C --> E[body]
+    C --> F[space]
 </div>
 
 ---
 
-## 終章：境界を越えるという態度
+## Final Chapter: Attitude to Cross Boundaries
 
-パフォーマンスアートと音楽の関係史は、単なるジャンル横断の物語ではない。それは、音や身体、時間をどのように捉えるかという認識の変遷そのものである。
+The history of the relationship between performance art and music is not just a story that crosses genres. This is a shift in our perception of how we perceive sound, the body, and time.
 
-作品が物体から出来事へ、音楽が再現から行為へと移行したとき、両者は同じ問題意識を共有するようになった。何が作品なのか、誰が主体なのか、どこからどこまでが芸術体験なのかという問いは、現在もなお更新され続けている。
+As the work moved from objects to events, and music from reenactment to action, the two came to share the same awareness of issues. Questions such as what constitutes a work, who is the subject, and what constitutes an artistic experience are still being updated today.
 
-> 境界を越えるとは、新しい形式を作ることではなく、既存の見方をずらし続ける態度に他ならない。
+> Crossing boundaries is not the creation of new forms, but the attitude of continually shifting existing perspectives.
 
 
 ---

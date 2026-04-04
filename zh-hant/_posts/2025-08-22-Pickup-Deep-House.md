@@ -21,7 +21,7 @@ title: 拾起深屋作品
 ### 各種 – 研討會 04
 <a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.webp"></a>
 
-概要：「Workshop 04」は、Vinylでリリースされたミニマルさとディープハウスの要素が合わさった作品です。A面にはドイツのミュージシャン Move D（David Moufang）と Fragment によるディープハウストラック、B1には Even Tuell のディープ・ミニマル・ハウス、B2には Sascha Dive によるダウンテンポ・トラックが収録されています。
+概述：《Workshop 04》是一款在Vinyl上发布的融合了极简主义和deep house元素的作品。 A 側收錄了德國音樂家 Move D (David Moufang) 和 Fragment 的深浩室曲目，B1 收錄了 Even Tuell 的深浩室曲目，B2 收錄了 Sascha Dive 的慢速曲目。
 
 おすすめポイント：クラブ感あふれるグルーヴと深みのある音像が魅力。ヨーロッパの洗練されたハウス/ミニマルシーンを味わいたい方にぴったりの一枚です。
 

@@ -16,7 +16,7 @@ title: Ben Sims – 操縱混音
 
 Primate Recordings 唱片公司於 2000 年發行了一套兩張唱片。
 
-UKテクノ界のレジェンドBen Sims(ベン・シムズ)『Manipulated』をAdam Beyer、Joel Mull、Jel Ford、Samuel L. Sessions らTechno界のトップDJ／プロデューサー達がremix。
+由 Adam Beyer、Joel Mull、Jel Ford 和 Samuel L. Sessions 等頂級 techno DJ/製作人對英國 techno 傳奇 Ben Sims 的《Manipulated》進行混音。
 
 #### 曲目表
 ```md

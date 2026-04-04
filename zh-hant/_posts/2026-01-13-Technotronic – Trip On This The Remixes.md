@@ -15,7 +15,7 @@ title: Technotronic – Trip On This（混音版）
 ---
 
 
-Technotronic 是由 Jo Bogaert 組成的比利時電子音樂項目，以其 1989 年的單曲“Pump Up the Jam”而聞名。
+Technotronic(テクノトロニック)は、1989年のシングル「Pump Up the Jam」でよく知られている、Jo Bogaertによって結成されたベルギーのエレクトロニックミュージックプロジェクト。
 
 這張 CD 是 Shep Pettibone、David Morales、The Dust Brothers、New Order 的 Bernard Sumner、Todd Terry、Junior Vasquez 等人的 Technotronic 歌曲的混音專輯。
 

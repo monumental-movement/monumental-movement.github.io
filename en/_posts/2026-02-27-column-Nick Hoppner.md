@@ -82,7 +82,7 @@ D --> E[international distribution]
 
 Berghain's resident DJs are more than just guests. They are assigned to set for long periods of time, and it is necessary to read their psychological state at each time of day.
 
-Höppner's playing tends to emphasize sustained grooves rather than sudden peaks. The BPM range ranges from house to techno, with smooth transitions.
+Höppner's playing tends to emphasize sustained grooves rather than sudden peaks. The BPM range spans from house to techno, with smooth transitions.
 
 ### Structure for assembling the floor
 
@@ -115,7 +115,7 @@ Höppner's production tends towards reducing the number of sounds and organizing
 
 ### Album "Folk"
 
-The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the balance between club functionality and lyricism. As the title suggests, it is not a direct reference to folk music, but rather a sense of structural ""narration".
+The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the balance between club functionality and lyricism. As the title suggests, it is not a direct reference to folk music, but rather a sense of structural ""narrative".
 
 The track is not a linear peak structure, but is designed to embed subtle changes within the repetition.
 

@@ -19,7 +19,7 @@ title: 드럼 베이스 작품을 픽업
 
 ### Aquasky – Nylon Roadster / Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
-1996-97년경 부드럽고 감성적인 피아노를 갖춘 브레이크 비트 트랙의 12″.
+1996-97년경 부드럽고 감동적인 피아노를 갖춘 브레이크 비트 트랙의 12″.
 
 #### Tracklist
 ```md
@@ -62,7 +62,7 @@ Y. Cosmic Glue
 ### Dillinja – Fluid / Hard Noize
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
-박력의 “Reese” 베이스가 울리는, 앙그라·드럼 베이스 스테디셀러 트럭의 12″.
+박력의 "Reese"베이스가 울리는, 앵글라 드럼 베이스 스테디셀러 트랙의 12 ".
 
 #### Tracklist
 ```md
@@ -127,7 +127,7 @@ B. Brasil
 
 <a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
-펑크 / 하드 코어의 격렬한 가장자리를 가져온 아멘 브레이크 주체의 독특한 한 장 (2023 년).
+펑크/하드 코어의 격렬한 엣지를 반입한, 아멘 브레이크 주체의 독특한 한 장(2023년).
 
 #### Tracklist
 ```md

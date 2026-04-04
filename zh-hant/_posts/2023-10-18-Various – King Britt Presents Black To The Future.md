@@ -9,13 +9,13 @@ permalink: /zh-hant/various-king-britt-presents-black-to-the-future/
 tags:
 - Downtempo
 - Deep House
-title: Various – King Britt Presents Black To The Future
+title: 各種——King Britt 向未來展示黑色
 ---
 
 
-King Britt 的合集，他是費城 House 界的關鍵人物。
+フィラデルフィアのハウスシーンのキーパーソンKing Britt（キング・ブリット）によるコンピレーション 。
 
-A 面的第一首曲目《The Society》是作曲家/編曲家/薩克斯風演奏家 Thomas Hass（Senor Coconut 巡迴演唱會成員）的一個項目。
+A面１曲目のThe Societyは、Senor Coconut （セニョール・ココナッツ）のツアー・メンバーであり、作曲家/編曲家/サックス奏者Thomas Hass（トーマス・ハス）のプロジェクト。
 
 #### 曲目表
 ```md

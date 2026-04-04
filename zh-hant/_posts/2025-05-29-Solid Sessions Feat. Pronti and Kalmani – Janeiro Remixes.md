@@ -17,7 +17,7 @@ title: 紮實的​​會議壯舉。 Pronti & Kalmani – Janeiro（混音）
 
 「Janeiro」是荷蘭製作人團體 Solid Sessions 與 Pronti & Kalmani 合作的一首 trance 歌曲，自 2000 年發行以來已被許多著名 DJ 重新混音。
 
-このレコードは、2002年にレーベルAlpha+からリリースされた、オランダのDJ・プロデューサーArmin van Buuren(アーミン・ヴァン・ビューレン)とPaul Hutschによるremixバージョン。
+這張唱片是荷蘭 DJ/製作人 Armin van Buuren 和 Paul Hutsch 的混音版本，於 2002 年在 Alpha+ 廠牌發行。
 
 #### 曲目表
 ```md

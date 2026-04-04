@@ -22,7 +22,7 @@ title: 【專欄】泰姬陵旅遊集團與小杉武久－釋放聲音的旅程
 
 
 1960年代初，日本前衛樂壇悄悄蓬勃發展。
-武満徹や一柳慧、湯浅譲二らが牽引した《実験工房》や《草月アートセンター》を中心に、音楽・舞踏・映像・照明といったジャンルの垣根が取り払われつつあった。
+以武光徹、一柳圭、湯淺讓二領導的實驗工坊和草月藝術中心為中心，音樂、舞蹈、影像、燈光等流派之間的界限正在被打破。
 
 在此期間，小杉武久在東京藝術大學學習小提琴，但他開始感受到傳統音樂形式的限制。他開始將聲音視為一種“事件”而不是一種“結構”，並最終開始探索即興創作和機會。
 
@@ -30,7 +30,7 @@ title: 【專欄】泰姬陵旅遊集團與小杉武久－釋放聲音的旅程
 > “當聲音脫離表演者的意志時，它就開始存在。”
 > — 小杉武久
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BdjmQkOOa9A?si=wp3TrXBLiNOIjVPf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3SpY7OSW7qs?si=IIuxvX6PN-Q-jyhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -51,7 +51,7 @@ color: #fff;
 ## 二. 《集體音樂》以及與約翰‧凱吉的邂逅 (1964)
 
 1964年，小杉與武滿徹、市柳啟組成了 Collective Music。
-同年，當默斯·坎寧安舞蹈團首次訪問日本時，他與約翰·凱奇和大衛·都鐸一起演出。
+同年，默斯·坎寧安舞蹈團首次訪問日本時，他與約翰·凱奇、大衛·都鐸一起演出。
 這事件標誌著日本前衛音樂史上的決定性轉捩點。
 
 ケージが提示した「偶然性」「非意図性」の思想は、小杉にとって深い衝撃だった。  
@@ -75,8 +75,8 @@ color: #fff;
 ## 四．泰姬陵旅遊集團的成立（1969-1970）
 
 1969年，小杉組成了泰姬陵旅行者組織作為新的實驗對象。
-永井徵爾、飯島隆、菊池正明（後左）等人也加入了這個團體。
-ヴァイオリン、チェロ、電子機器、金管、声、ラジオ波などを駆使して、  
+メンバーには永井清治、飯島孝、菊地雅章（後に離脱）らが加わり、  
+使用小提琴、大提琴、電子設備、銅管、聲樂、無線電波等。
 他將「地方本身成為一種工具」的概念付諸實踐。
 
 ---
@@ -111,19 +111,19 @@ flowchart TD
 
 ---
 
-## 六．声音的解构与扩展：即兴创作的仪式
+## 六．聲音的解構與擴展：即興創作的儀式
 
 泰姬陵遊客的表演沒有通常的“歌曲”或“結構”。
 相反，它更像是向環境中發出聲音並等待機會共鳴的行為。
 
 他們創造性地使用擴音系統和麥克風，
-空間全体を一種の「共鳴体」として扱った。
+整個空間被視為一種「共鳴器」。
 領隊小杉在小提琴上安裝了一個接觸式麥克風，並在演奏時控制回饋和無線電噪音。
-我們創造了一個聲音「發生和消失」的生態系統。
+我們創建了一個聲音「發生和消失」的生態系統。
 
 ---
 
-## 七． 《泰姬陵旅行者 - 1972 年 7 月 15 日》記錄
+## 七． 《泰姬陵旅行者－1972 年 7 月 15 日》紀錄
 
 他們活動的頂峰是 1972 年發行的專輯。
 「泰姬陵旅行者 - 1972 年 7 月 15 日」（哥倫比亞廣播公司/索尼）。
@@ -132,7 +132,7 @@ flowchart TD
 
 專輯中沒有節奏或旋律。
 取而代之的是風聲、電子聲、人聲、琴弦的共鳴輕輕交叉，
-它提供了一種邀請聽眾「進入聲音」的體驗。
+它提供了一種邀請聽眾進入「聲音內部」的體驗。
 
 ---
 
@@ -172,12 +172,12 @@ flowchart TD
 | 1961–63 |與市柳圭、武光徹等人一起參加前衛實驗音樂活動 |
 | 1964 | 「集體音樂」成立，與凱吉和都鐸一起表演 |
 | 1965–68 |激浪派表演（草月藝術中心等）|
-| 1969     | 《タージ・マハル旅行団》結成                          |
+| 1969 | 「泰姬陵旅遊集團」成立|
 | 1971–72 |從印度到歐洲的音樂朝聖|
-| 1972 | 《泰姬陵旅人 – 1972 年 7 月 15 日》公告 |
+| 1972 | 《泰姬陵旅人-1972年7月15日》公告|
 | 1975 |個人作品《Catch-Wave》發佈 |
-| 1977–90s | マース・カニングハム舞踏団音楽監督                       |
-| 2018 |去世了。去世，享年80歲。
+| 1977-90 年代 | Merce Cunningham 舞團音樂總監 |
+| 2018 |去世了。他去世時享年80歲。
 
 ---
 
@@ -205,5 +205,14 @@ flowchart TD
 
 即使半個世紀過去了，他們發出的聲音仍然能引起共鳴。
 它繼續靜靜地在空氣中、在記憶中、在聽者的內心深處顫動。
+
+---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ddqyg-JgJzc?si=qYT_q7KDqzdnnBHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

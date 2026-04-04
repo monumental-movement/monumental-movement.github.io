@@ -11,23 +11,23 @@ tags:
 - 10s
 - 20s
 - Live
-title: 【コラム】 Indie Shoegaze / Dream Pop
+title: '[Column] Indie Shoegaze / Dream Pop'
 ---
 
 
 
-## 序章：視線を伏せた音楽の誕生
+## Prologue: The birth of music with a downcast gaze
 
-文：mmr｜テーマ：音像と感覚の再構築史について
+Text: mmr｜Theme: About the history of reconstructing sound images and sensations
 
-1980年代後半から1990年代初頭にかけて、英国を中心に出現したシューゲイズとドリームポップは、ロック音楽の表現領域を「演奏」から「音像」へと大きく移行させた。
-それらの音楽は、即時的なメロディの訴求や明確な歌詞の伝達よりも、音が重なり合うことで生じる空間、残響、感覚的な持続を中心に据えている。
+Shoegaze and dream pop, which emerged mainly in the UK from the late 1980s to the early 1990s, significantly shifted the expressive realm of rock music from ""performance" to ""sound image."
+These musics focus on the space, reverberation, and sensual sustain created by overlapping sounds, rather than the immediate appeal of melody or the clear delivery of lyrics.
 
-シューゲイズという呼称は、演奏中に足元のエフェクターボードを見つめる姿勢から生まれたものであり、パフォーマンスの内向性を象徴する言葉として定着した。一方、ドリームポップは、より早い時期から存在していたアンビエント的ポップ感覚と、ポストパンク以降の音響志向が融合した結果として形成された。
+The term "shoegaze" came from the way people looked at the effector boards at their feet while performing, and the term became established as a symbol of the introverted nature of the performance. Dream pop, on the other hand, was formed as a result of the fusion of an earlier ambient pop sensibility with post-punk's post-punk sonic orientation.
 
-両者は異なる起源を持ちながらも、音響処理、声の扱い、映像的感覚において密接に接続している。
+Although the two have different origins, they are closely connected in terms of sound processing, voice handling, and visual sensibilities.
 
-["ジャンル名は後付けであり、当事者の多くは当初その分類を意識していなかった"]
+["The genre name was an afterthought, and many of those involved were not aware of its classification at first."]
 
 ---
 
@@ -36,7 +36,7 @@ title: 【コラム】 Indie Shoegaze / Dream Pop
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -45,104 +45,104 @@ color: #fff;
 </style>
 
 
-## 第1章：ドリームポップの前史と形成
+## Chapter 1: Prehistory and formation of dream pop
 
-### 1-1. ポストパンク以降の音響感覚
+### 1-1. Acoustic sensation after post-punk
 
-1970年代末から1980年代初頭にかけて、ポストパンクはロックの構造を解体し、音色・テクスチャー・空間処理へと関心を移した。
-シンセサイザー、リバーブ、ディレイは単なる装飾ではなく、楽曲の構造そのものを形作る要素として機能するようになる。
+In the late 1970s and early 1980s, postpunk deconstructed rock's structure and shifted its attention to timbre, texture, and spatial treatment.
+Synthesizers, reverb, and delay are no longer mere decorations, but function as elements that shape the structure of the song itself.
 
-この流れの中で、歌声は物語を語る主体から、音の一部へと変質していった。
+In this process, the singing voice changed from being the main body telling the story to becoming just a part of the sound.
 
-### 1-2. Cocteau Twins の位置
+### 1-2. Cocteau Twins location
 
-Cocteau Twinsは、ドリームポップの確立において決定的な役割を果たした。
-ギターのロビン・ガスリーは、コーラス、ディレイ、リバーブを多層的に重ね、和音の輪郭を曖昧にしながらも独特の浮遊感を生み出した。
+The Cocteau Twins played a crucial role in establishing dream pop.
+Guitarist Robin Guthrie layered chorus, delay, and reverb to create a unique floating feeling while blurring the contours of the chords.
 
-エリザベス・フレイザーのボーカルは、意味を明確に伝えることよりも、発音、抑揚、音節の連なりによって感情的な空気を形成する。
-歌詞はしばしば抽象的、あるいは即興的であり、言語の意味は二次的なものとなった。
+Elizabeth Fraser's vocals create an emotional atmosphere through pronunciation, intonation, and strings of syllables rather than clearly conveying meaning.
+Lyrics were often abstract or improvised, and the meaning of language became secondary.
 
-["声は情報ではなく、質感として扱われている"]
-
----
-
-## 第2章：ドリームポップのサウンド構造
-
-### 2-1. ギターと空間処理
-
-ドリームポップのギターは、リフやコード進行を前面に出すのではなく、持続音として配置される。
-ディレイは拍に同期するよりも、残響の重なりを生むために使用され、リバーブは音の輪郭を溶かす役割を担う。
-
-### 2-2. リズムの後景化
-
-ドラムやベースは、楽曲を牽引する存在ではなく、音像を支えるための重心として機能する。
-テンポは比較的一定で、劇的な展開よりも、状態の持続が重視される。
+["Voice is not treated as information, but as texture"]
 
 ---
 
-## 第3章：シューゲイズの発生
+## Chapter 2: Dream Pop Sound Structure
 
-### 3-1. インディ・ロックとの接合
+### 2-1. Guitar and spatial processing
 
-1980年代後半の英国インディ・シーンでは、ジャングル・ポップ、ノイズ・ロック、ドリームポップの要素が交錯していた。
-その中で、より歪んだギターサウンドと高密度な音の壁を追求したバンド群が登場する。
+Dream pop guitars are arranged as sustained sounds, rather than riffs or chord progressions.
+Delay is used to create overlapping reverberations rather than being synchronized to the beat, and reverb plays the role of melting the contours of the sound.
 
-### 3-2. My Bloody Valentine の登場
+### 2-2. Rhythm in the background
 
-My Bloody Valentineは、シューゲイズを象徴する存在である。
-彼らの音楽は、単なる歪みではなく、音程の揺らぎ、ピッチの不安定さ、微細なズレによって構築されている。
-
-ケヴィン・シールズは、トレモロアームを用いた独特の奏法により、コード全体を揺らし続ける音像を作り出した。
-これにより、ギターは打楽器的なアタックを失い、連続する波動のような質感を獲得する。
-
-["演奏の不安定さが、音楽の安定を生んでいる"]
+The drums and bass don't act as a driving force behind the song, but function as a center of gravity to support the sound image.
+The tempo is relatively constant, and emphasis is placed on the continuation of a state rather than dramatic development.
 
 ---
 
-## 第4章：シューゲイズのサウンド分析
+## Chapter 3: The Outbreak of Shoegaze
 
-### 4-1. 歪みの層構造
+### 3-1. Junction with indie rock
 
-My Bloody Valentineの楽曲では、複数の歪みギターが重ねられ、それぞれが異なる帯域を占める。
-結果として、単音の明瞭さは失われるが、全体として厚みのある音の塊が形成される。
+The British indie scene of the late 1980s was a mix of elements of jangle pop, noise rock, and dream pop.
+Among them, a group of bands pursuing a more distorted guitar sound and a high-density wall of sound will appear.
 
-### 4-2. ボーカルの配置
+### 3-2. Introducing My Bloody Valentine
 
-ボーカルは前面に出ることなく、楽器群の中に埋め込まれる。
-歌詞の判別性は意図的に低く抑えられ、声はメロディ楽器の一部として機能する。
+My Bloody Valentine is an icon of shoegaze.
+Their music is not just distortion, but is built on fluctuations in pitch, instability in pitch, and minute shifts.
 
----
+Kevin Shields uses a unique playing technique using a tremolo arm to create a sound image that continues to shake the entire chord.
+This causes the guitar to lose its percussive attack and acquire a continuous wave-like texture.
 
-## 第5章：映像的感覚と視覚表現
-
-### 5-1. ジャケットと色彩
-
-シューゲイズ／ドリームポップのアートワークは、抽象的でぼやけたイメージが多い。
-輪郭の曖昧さ、低コントラスト、単色に近い色彩は、音楽の質感と強く連動している。
-
-### 5-2. ミュージックビデオの傾向
-
-映像は物語を語るものではなく、断片的な光、スローモーション、重ね合わせによって構成される。
-カメラワークや編集も、明確な焦点を避け、視覚的な浮遊感を重視する。
-
-["映像は説明ではなく、感覚の延長として存在する"]
+["The instability of the performance creates stability in the music"]
 
 ---
 
-## 第6章：両ジャンルの差異と重なり
+## Chapter 4: Shoegaze Sound Analysis
 
-| 要素   | ドリームポップ | シューゲイズ  |
+### 4-1. Strain layer structure
+
+In My Bloody Valentine's songs, multiple distorted guitars are layered, each occupying a different band.
+As a result, the clarity of single notes is lost, but a thicker sound mass is formed as a whole.
+
+### 4-2. Vocal placement
+
+The vocals don't come to the fore, but are embedded among the instruments.
+The lyrics are intentionally kept low in discernibility, and the voice functions as part of the melodic instrument.
+
+---
+
+## Chapter 5: Visual sensation and visual expression
+
+### 5-1. Jacket and color
+
+Shoegaze/dream pop artwork is often abstract and blurry.
+The vague outlines, low contrast, and nearly monochromatic colors are strongly linked to the texture of the music.
+
+### 5-2. Music video trends
+
+The images do not tell a story, but are composed of fragments of light, slow motion, and superimposition.
+Camerawork and editing also avoid clear focus and emphasize a sense of visual floating.
+
+["Image exists not as an explanation, but as an extension of sensation"]
+
+---
+
+## Chapter 6: Differences and overlaps between both genres
+
+| Elements | Dream Pop | Shoegaze |
 | ---- | ------- | ------- |
-| 音量   | 比較的抑制的  | 大音量・高密度 |
-| 歪み   | 少なめ     | 多層的     |
-| 声の扱い | 浮遊的     | 埋没的     |
-| 感覚   | 夢想・内省   | 圧迫・陶酔   |
+| Volume | Relatively suppressed | Loud volume/high density |
+| Distortion | Less | Multilayer |
+| Treatment of voices | Floating | Buried |
+| Sensations | Dreaming/Introspection | Oppression/Euphoria |
 
-両者は対立するものではなく、連続体の中に位置している。
+The two are not opposed to each other, but rather exist on a continuum.
 
 ---
 
-## 第7章：年表
+## Chapter 7: Chronology
 
 <div class="mermaid">
 timeline
@@ -155,134 +155,134 @@ timeline
 
 ---
 
-## 終章：音楽が風景になるとき
+## Final chapter: When music becomes scenery
 
-インディ・シューゲイズとドリームポップは、音楽を「聴く対象」から「浸る空間」へと変換した。
-それは技巧の誇示ではなく、感覚の設計であり、視覚や身体感覚と結びついた総合的な表現である。
+Indie shoegaze and dream pop transformed music from an object to be listened to to a space to be immersed in.
+It is not a display of skill, but a design of the senses, a comprehensive expression that connects visual and physical sensations.
 
-My Bloody ValentineとCocteau Twinsは、その異なる方向性において、音楽がどこまで抽象化できるかを示した存在であった。
-彼らの残した音像は、現在も多くのインディ作品において、直接的あるいは間接的に反響し続けている。
+My Bloody Valentine and Cocteau Twins, in their different directions, showed how far music could be abstracted.
+The sound image they left behind continues to be echoed directly or indirectly in many indie works even today.
 
-["この音楽は終わらない。常に、別の形で鳴り直される"]
-
----
-
-
-## 追加章A：音響技術と制作環境の変化
-
-### A-1. スタジオ技術の発展とジャンル形成
-
-シューゲイズおよびドリームポップの成立は、演奏技術のみならず、1980年代以降の録音技術の変化と密接に関係している。
-マルチトラック録音、アウトボード・エフェクター、スタジオ内ミキシング技術の発展は、音楽制作を「記録」から「構築」へと変化させた。
-
-特に、同一パートを複数回録音し、それらを重ねる手法は、音の厚みと曖昧さを同時に生み出す。
-この手法はドリームポップにおける空間的広がり、シューゲイズにおける音圧の密度の双方に寄与した。
-
-["スタジオは楽器の一部として機能し始めた"]
+["This music never ends. It's always replayed in a different form."]
 
 ---
 
-### A-2. ミックスにおける前景と後景の再定義
 
-従来のロック・ミックスでは、ボーカルとリード楽器が前景に配置されることが基本であった。
-しかしシューゲイズ／ドリームポップでは、この原則が意図的に崩される。
+## Additional Chapter A: Changes in sound technology and production environment
 
-ボーカルは中域に埋め込まれ、ギターやシンセサイザーの残響と同列に扱われる。
-この配置は、リスナーの注意を一点に集中させるのではなく、音全体を俯瞰させる効果を生む。
+### A-1. Development of studio technology and genre formation
 
-["何が主役かを曖昧にすること自体が、音楽的意図となる"]
+The establishment of shoegaze and dream pop is closely related not only to performance techniques but also to changes in recording techniques since the 1980s.
+The development of multi-track recording, outboard effects, and in-studio mixing technology has changed music production from ""recording" to ""construction."
 
----
+In particular, the method of recording the same part multiple times and layering them creates a sound that is both thick and ambiguous at the same time.
+This technique contributed to both the spatial spaciousness of dream pop and the sonic density of shoegaze.
 
-## 追加章B：リズムと身体感覚の扱い
-
-### B-1. ビートの反復と停滞
-
-シューゲイズおよびドリームポップにおけるリズムは、展開を生む装置ではなく、状態を維持するための装置として機能する。
-ドラムパターンは比較的単純で、フィルやアクセントの主張は抑えられる。
-
-これにより、楽曲は「進行する時間」よりも「留まり続ける時間」を強調する。
+["The studio began to function as part of the instrument"]
 
 ---
 
-### B-2. 身体的高揚の再定義
+### A-2. Redefining foreground and background in the mix
 
-大音量で演奏されるシューゲイズは、一見すると攻撃的な音楽のように捉えられるが、その身体的体験は異なる。
-リズムによる跳躍ではなく、音圧による包囲、持続による没入が中心となる。
+Traditional rock mixes typically place vocals and lead instruments in the foreground.
+However, in shoegaze/dream pop, this principle is intentionally broken.
 
-これは、観客の身体を前方へ突き動かすのではなく、音の中に沈める体験である。
+Vocals are embedded in the midrange and treated in the same way as guitar and synthesizer reverberations.
+This arrangement creates the effect of giving the listener a bird's-eye view of the entire sound, rather than focusing their attention on one point.
 
-["動かされるのではなく、覆われる"]
-
----
-
-## 追加章C：歌詞の位置づけと意味の後退
-
-### C-1. 言語の抽象化
-
-Cocteau Twinsに代表されるように、ドリームポップでは歌詞の意味が意図的に不明瞭にされる。
-発音、母音の伸び、リズムとの関係性が優先され、語彙的な明瞭さは後景に退く。
-
-これは、言語を情報伝達の手段ではなく、音響素材として再定義する試みであった。
+["Obfuscating what is the main character is itself a musical intention"]
 
 ---
 
-### C-2. シューゲイズにおける歌詞の埋没
+## Additional Chapter B: Treatment of Rhythm and Physical Senses
 
-My Bloody Valentineの作品では、歌詞が完全に聴き取れない箇所も多い。
-しかしそれは欠落ではなく、設計された結果である。
+### B-1. Beat repetition and stagnation
 
-言葉が意味を失うことで、リスナーは感情を言語化せずに受け取ることを求められる。
+Rhythm in shoegaze and dream pop functions not as a device for producing development, but as a device for maintaining a state.
+The drum pattern is relatively simple, with less emphasis on fills and accents.
 
-["理解ではなく、反応が優先される"]
-
----
-
-## 追加章D：視覚表象と匿名性
-
-### D-1. バンドの非人格化
-
-シューゲイズ／ドリームポップのアーティストは、自己のキャラクター性を前面に押し出すことを避ける傾向があった。
-ステージ上での視線の低さ、照明の暗さ、無表情な佇まいは、演奏者個人を強調しないための装置である。
+As a result, the song emphasizes ""time that continues to stay" rather than ""time that progresses."
 
 ---
 
-### D-2. 映像における主体の不在
+### B-2. Redefining physical upliftment
 
-ミュージックビデオやビジュアル素材では、人物が明確に映らない、あるいは意図的にぼかされることが多い。
-これは、視覚的にも音楽と同様の匿名性を確保する試みである。
+At first glance, shoegaze played at high volume may seem like aggressive music, but the physical experience is different.
+The focus is not on rhythmic leaps, but on envelopment through sound pressure and immersion through sustain.
 
-["誰が鳴らしているかより、何が鳴っているか"]
+This is an experience where the audience's body is not pushed forward, but immersed in the sound.
 
----
-
-## 追加章E：後続ジャンルへの構造的影響
-
-### E-1. 1990年代後半以降への継承
-
-シューゲイズとドリームポップは、一時的に商業的注目を失った後も、その手法は地下的に継承された。
-オルタナティブ・ロック、ポストロック、アンビエント・ポップにおいて、音像重視の姿勢は再解釈されていく。
+["Not moved, but covered"]
 
 ---
 
-### E-2. インディ以降の制作環境との接続
+## Additional chapter C: Position of lyrics and regression of meaning
 
-宅録環境の普及により、個人単位でも多層的な音響構築が可能になった。
-これは、シューゲイズ的な重ね録り、ドリームポップ的な空間処理を、より小規模な制作環境へと拡張した。
+### C-1. Language abstraction
 
-["巨大な音像は、必ずしも巨大な設備を必要としなくなった"]
+In dream pop, as exemplified by the Cocteau Twins, the meaning of the lyrics is intentionally obscured.
+Pronunciation, vowel length, and relationship to rhythm take priority, and lexical clarity recedes into the background.
+
+This was an attempt to redefine language as a sound material rather than a means of transmitting information.
 
 ---
 
-## 補章：My Bloody Valentine と Cocteau Twins の対照的到達点
+### C-2. The obscurity of lyrics in shoegaze
 
-| 観点    | My Bloody Valentine | Cocteau Twins |
+In My Bloody Valentine's works, there are many parts where the lyrics are completely inaudible.
+However, this is not a lack, but a result of design.
+
+As words lose their meaning, listeners are required to receive their emotions without verbalizing them.
+
+["Reaction is prioritized, not understanding"]
+
+---
+
+## Additional Chapter D: Visual Representation and Anonymity
+
+### D-1. Depersonalization of the band
+
+Shoegaze/dream pop artists tended to avoid pushing their individuality to the forefront.
+The low line of sight, dim lighting, and expressionless appearance on stage are devices designed to de-emphasize the individual performers.
+
+---
+
+### D-2. Absence of subject in video
+
+In music videos and visual materials, people are often not shown clearly or are intentionally blurred.
+This is an attempt to ensure visual anonymity similar to music.
+
+["It's not about who is making the sound, but what is making the sound"]
+
+---
+
+## Additional Chapter E: Structural influence on subsequent genres
+
+### E-1. Succession to the late 1990s and beyond
+
+Even after shoegaze and dream pop temporarily lost commercial attention, their techniques continued underground.
+The emphasis on sound images is being reinterpreted in alternative rock, post-rock, and ambient pop.
+
+---
+
+### E-2. Connection with production environment after indie
+
+With the spread of home recording environments, it has become possible for individuals to create multi-layered acoustics.
+This extended shoegaze-like layering and dream-pop spatial processing to a smaller production environment.
+
+["Giant sound images no longer necessarily require huge equipment"]
+
+---
+
+## Supplementary Chapter: Contrasting achievements of My Bloody Valentine and Cocteau Twins
+
+| Perspective | My Bloody Valentine | Cocteau Twins |
 | ----- | ------------------- | ------------- |
-| 音量    | 極端に大きい              | 比較的抑制         |
-| 音の揺らぎ | 物理的・演奏的             | 空間的・処理的       |
-| 声の役割  | 楽器の一部               | 感情の媒質         |
-| 世界観   | 密閉・圧迫               | 拡散・浮遊         |
+| Volume | Extremely loud | Relatively suppressed |
+| Fluctuation of sound | Physical/Performance | Spatial/Processing |
+| Role of voice | Part of musical instrument | Medium of emotion |
+| Worldview | Sealing/Compression | Diffusion/Floating |
 
-両者は同一の手法を共有しながら、異なる方向へと到達した。
+Although they share the same method, they have reached different directions.
 
 ---

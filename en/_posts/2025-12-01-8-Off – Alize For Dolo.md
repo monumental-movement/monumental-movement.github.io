@@ -12,11 +12,11 @@ title: 8-Off – Alize For Dolo
 ---
 
 
-8-Off ことAngel Aguilarは、NYを拠点に活動するhip-hop MC/プロデューサー。Agallah, Angel Aguilar, Brad Piff, The Don Bishopなどさまざまな名義でリリースしている。
+Angel Aguilar, also known as 8-Off, is a hip-hop MC/producer based in New York. He has released under various names including Agallah, Angel Aguilar, Brad Piff, and The Don Bishop.
 
-「Alize For Dolo」は、1996年にレーベルEastWest Records AmericaからリリースされたHipHopトラック。
+"Alize For Dolo" is a Hip Hop track released by the label EastWest Records America in 1996.
 
-A、B共に、Lost Boyz の元メンバーであり『Lights, Camera, Action! featuring Missy Elliott, P. Diddy and Petey Pablo』で知られるMr. Cheeksをフィーチャー。
+Both A and B feature Mr. Cheeks, a former member of Lost Boyz and known for "Lights, Camera, Action! featuring Missy Elliott, P. Diddy and Petey Pablo."
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ B3. Alize For Dolo (LP Version) (Acappella)
 B4. Alize For Dolo (Remix) (Acappella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31835629494?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m31835629494?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8EvGTvEIPIM?si=8KXH5Mm2v8sUQFyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

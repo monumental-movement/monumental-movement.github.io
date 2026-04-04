@@ -13,9 +13,9 @@ title: 鮑里斯·德盧戈施（Boris Dlugosch）－仿生休息
 ---
 
 
-Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
+Boris Dlugosch 是一位居住在漢堡的 house DJ 和製作人。
 
-Boris Dlugoschは、ハンブルグの伝説的なクラブ「FRONT（フロント）」の元レジデントDJであり、ドイツのハウスミュージックカルチャーの先駆者。
+Boris Dlugosch 是漢堡傳奇俱樂部 FRONT 的前常駐 DJ，也是德國 house 音樂文化的先驅。
 
 #### 曲目表
 ```md

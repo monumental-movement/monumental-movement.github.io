@@ -15,7 +15,7 @@ title: Justin Berkovi – Red Vision
 
 
 
-Justin Berkovi는 90년대부터 활약하는 영국 테크노계의 베테랑 DJ/프로듀서. BTrax 명의에서도 활동하고 있으며, 라벨 Predicaments를 운영하고 있다.
+Justin Berkovi는 90년대부터 활약하는 영국 테크노계의 베테랑 DJ/프로듀서. BTrax 명의에서도 활동하고 있어 라벨 Predicaments를 운영하고 있다.
 
 Red Vision은 2000년 Justin Berkovi 자신의 라벨 Predicaments에서 출시된 Techno/Electro 트랙.
 

@@ -18,7 +18,7 @@ title: Cajun Dance Party – The Colourful Life
 Cajun Dance Party(케이장 댄스 파티)는, 영국 런던 출신의 5 피스 락 밴드.
 
 2008년에 라벨 XL Recordings에서 발매한 데뷔 앨범 「The Colourful Life」는, 영국의 록 밴드 Suede(스웨이드)의 Bernard Butler(버나드·버틀러)가 프로듀스.
-이 앨범을 발표한 후 Reading and Leeds(레딩 앤 리즈), Glastonbury(글라스턴베리), Oxegen(옥세겐), 서머소닉 등 세계 각종 페스티벌에 출연했다.
+이 앨범을 발매한 후 Reading and Leeds(레딩 앤 리즈), Glastonbury(글라스톤베리), Oxegen(옥세겐), 서머소닉 등 세계 각종 페스티벌에 출연했다.
 
 #### Tracklist
 ```md

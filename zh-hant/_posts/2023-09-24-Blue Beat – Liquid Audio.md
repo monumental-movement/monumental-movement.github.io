@@ -13,7 +13,7 @@ title: Blue Beat – 液體音頻
 ---
 
 
-2001年にドイツのレーベル「Plusquam Records」からリリースされたBoris Blennによるプロジェクト「Blue Beat」による2曲入りEPです。
+這是 Boris Blenn 的“Blue Beat”項目中的兩首歌曲 EP，由德國唱片公司“Plusquam Records”於 2001 年發行。
 
 
 #### 曲目表

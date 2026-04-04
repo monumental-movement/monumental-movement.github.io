@@ -16,7 +16,7 @@ title: Mahavishnu Orchestra – 火鳥
 
 Mahavishnu Orchestra 是一支先鋒融合爵士搖滾樂團，由英國吉他手 John McLaughlin 於 1970 年組成。
 
-1973年にリリースしたBirds Of Fire(火の鳥)は、Mahavishnu Orchestraの２作目で、ジャズロックとしては異例の世界的ヒットとなった。
+Birds Of Fire 於 1973 年發行，是 Mahavishnu Orchestra 的第二張專輯，成為爵士搖滾領域的全球熱門專輯。
 
 此時參與的成員有約翰·麥克勞克林（吉他）、傑裡·古德曼（小提琴）、簡·哈默（鍵盤）、里克·萊爾德（貝斯）和比利·科巴姆（鼓）。
 
@@ -43,7 +43,7 @@ B3. Open Country Joy
 B4. Resolution
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23380322375?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23380322375?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AulNvAR0u5c?si=dwJR6pVDbzzbcEyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

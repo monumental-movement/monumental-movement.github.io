@@ -28,7 +28,7 @@ Clan Greco는 Neffa e Sud Sound System, DJ Rodriguez, Bossa Nostra, Gazzara 등�
 
 트럼펫: Massimo Greco
 
-보컬: Silvia Donati
+보컬: 실비아 도나티
 
 프로듀서 Massimo Greco, Ohm Guru
 

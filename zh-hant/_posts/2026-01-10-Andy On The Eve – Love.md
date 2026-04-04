@@ -14,7 +14,7 @@ title: 安迪前夕 – 愛
 ---
 
 
-Andy On The Eve 是由比利时著名制作人 Jean-Yves Vanloo、法国 DJ/制作人 Philippe Van Mullem（被称为 Quadran 制作人）和 Thierry Traisnel 共同打造的项目。這個專案只發行了兩張專輯：《Melodies Of Passion》（1991）和《Love》（1992）。
+Andy On The Eveは、ベルギーの有名プロデューサーJean-Yves Vanloo、Quadranのプロデューサーとして知られるフランスのDJ／プロデューサーPhilippe Van Mullem、Thierry Traisnelによるプロジェクト。このプロジェクトでのリリースは「Melodies Of Passion」(1991)、「Love」(1992) の2枚のみ。
 
 《Love》是一首 Trance/Techno 歌曲，由 Beat De Ville 廠牌於 1992 年發行。
 

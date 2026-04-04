@@ -22,7 +22,7 @@ title: Sotte Bosse – 時刻
 
 
 
-Sotte Bosse（ソット ボッセ）は、クラブジャズユニットi-depのナカムラヒロシとCanaによるスペシャルユニット。J-POPをボサノヴァ・ジャズ風にカバーするスタイルが特徴。
+Sotte Bosse 是由俱樂部爵士樂隊 i-dep 的 Hiroshi Nakamura 和 Cana 組成的特殊樂隊。他們的風格特徵是以波薩諾瓦/爵士風格覆蓋 J-POP。
 
 2007年發行的《Moment》是Sotte Bosse的第三張專輯。
 
@@ -41,4 +41,4 @@ Sotte Bosse（ソット ボッセ）は、クラブジャズユニットi-depの
 11. ひとひら
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}

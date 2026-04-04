@@ -18,7 +18,7 @@ Brian Cross (Brian Fortuny Cruz)는 스페인 DJ / 프로듀서.
 
 이 레코드는 이탈리아의 댄스/하우스 라벨 Net's Work International에서 2008년에 발매된 House/Electro. (프로모 보드)
 
-A1은, 마이애미의 라벨 Juicy Music의 주재 Robbie Rivera에 의한 remix.
+A1은 마이애미의 라벨 Juicy Music의 주재 Robbie Rivera에 의한 remix.
 
 B1은, Robin S 「Show Me Love」(1993)의 리믹스나 Ne-Yo 「Closer」(2008)의 리믹스로 그래미상에 노미네이트된 것으로 알려진, 스웨덴 출신의 DJ/프로듀서 StoneBridge(Sten Hallström)에 의한 remix.
 

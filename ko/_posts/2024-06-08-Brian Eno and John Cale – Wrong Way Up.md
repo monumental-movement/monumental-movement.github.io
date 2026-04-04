@@ -18,9 +18,9 @@ title: Brian Eno & John Cale – Wrong Way Up
 
 1990년에 릴리스된 Brian Eno(브라이언 이노)와 John Cale(존 케일)의 스튜디오·앨범 앨범 「Wrong Way Up」의 프로모션용 카세트 테이프.
 
-'Wrong Way Up'은 일렉트로닉, 프로그레시블록, 아트록 장르의 중간에 위치한 작품으로 비평가에 극찬된 앨범.
+'Wrong Way Up'은 일렉트로닉, 프로그레시블록, 아트락 장르의 중간에 위치한 작품으로 비평가에 극찬된 앨범.
 
-수록곡 「Spinning Away」는, 미국의 록 밴드 Sugar Ray가 2000년에 영화 「더 비치」의 사운드 트랙으로서 커버 버전을 제작한 것으로 유명.
+수록곡 「Spinning Away」는, 미국의 록 밴드 Sugar Ray가 2000년에 영화 「더 비치」의 사운드트랙으로서 커버 버전을 제작한 것으로 유명.
 
 #### Tracklist
 ```md
