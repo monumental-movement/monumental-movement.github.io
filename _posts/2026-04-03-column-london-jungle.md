@@ -38,14 +38,6 @@ color: #fff;
 }
 </style>
 
----
-
-layout: post
-title: "London Jungle: The Sound of Urban Pressure"
-tags: [music, jungle, drumandbass, ukculture, history]
-lang: ja
---------
-
 
 ## レイヴ文化からの分岐
 

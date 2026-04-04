@@ -267,3 +267,12 @@ A5. 『Solid State Survivor』（YMO）と『Violator』（Depeche Mode）は時
 それはYMOの初期実験からCharli XCXのデジタルな悲しみまで、連綿と続く“テクノロジーの詩”である。
 シンセポップは終わらない。むしろAI時代こそ、その本質が再び問われているのだ。
 
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31kX8PKRocs?si=qSr699AGZ9ci1rGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
