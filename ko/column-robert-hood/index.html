@@ -1,0 +1,6939 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="google-translate-customization" content=""></meta>
+
+
+
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
+<link rel="icon" href="/assets/images/logo.png">
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
+<title>【칼럼】 미니멀 테크노의 핵심 | MMR</title>
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>【칼럼】 미니멀 테크노의 핵심 | m.m.r</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="【칼럼】 미니멀 테크노의 핵심" />
+<meta name="author" content="mmr" />
+<meta property="og:locale" content="ko" />
+<meta name="description" content="깎는 것으로 나타나는 음악의 본질" />
+<meta property="og:description" content="깎는 것으로 나타나는 음악의 본질" />
+<link rel="canonical" href="https://monumental-movement.jp/ko/column-robert-hood/" />
+<meta property="og:url" content="https://monumental-movement.jp/ko/column-robert-hood/" />
+<meta property="og:site_name" content="m.m.r" />
+<meta property="og:image" content="https://monumental-movement.jp/assets/images/column-robert-hood.webp" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-03-21T15:00:04+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://monumental-movement.jp/assets/images/column-robert-hood.webp" />
+<meta property="twitter:title" content="【칼럼】 미니멀 테크노의 핵심" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mmr"},"dateModified":"2026-03-21T15:00:04+00:00","datePublished":"2026-03-21T15:00:04+00:00","description":"깎는 것으로 나타나는 음악의 본질","headline":"【칼럼】 미니멀 테크노의 핵심","image":"https://monumental-movement.jp/assets/images/column-robert-hood.webp","mainEntityOfPage":{"@type":"WebPage","@id":"https://monumental-movement.jp/ko/column-robert-hood/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://monumental-movement.jp/assets/images/logo.png"},"name":"mmr"},"url":"https://monumental-movement.jp/ko/column-robert-hood/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+
+  <link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/column-robert-hood/" />
+  <link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/column-robert-hood/" />
+  <link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/column-robert-hood/" />
+  <link rel="alternate" hreflang="es" href="https://monumental-movement.jp/es/column-robert-hood/" />
+  <link rel="alternate" hreflang="de" href="https://monumental-movement.jp/de/column-robert-hood/" />
+  <link rel="alternate" hreflang="fr" href="https://monumental-movement.jp/fr/column-robert-hood/" />
+  <link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/column-robert-hood/" />
+  <link rel="alternate" hreflang="x-default" href="https://monumental-movement.jp/ko/" />
+
+
+
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
+
+<link href="/assets/css/theme.css" rel="stylesheet">
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    if (document.querySelector(".mermaid")) {
+      const s = document.createElement("script");
+      s.src = "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js";
+      s.defer = true;
+      s.onload = () => mermaid.initialize({ startOnLoad: true });
+      document.body.appendChild(s);
+    }
+  });
+</script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<!-- Clarity tracking code for https://monumental-movement.jp/ -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "s2eeqnxlvz");
+</script>
+
+</head>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@" />
+
+
+  <meta name="twitter:title" content="【칼럼】 미니멀 테크노의 핵심" />
+
+
+
+  <meta name="twitter:description" content="Monumental Movement" />
+
+
+
+  <meta name="twitter:image" content="https://monumental-movement.jp/images/../assets/images/column-robert-hood.webp" />
+
+
+
+<!-- change your GA id in _config.yml -->
+<script>
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
+</script>
+
+
+
+<body>
+    <!-- defer loading of font and font awesome -->
+    <noscript id="deferred-styles">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css">
+    </noscript>
+
+<!-- Begin Sidebar Navigation
+================================================== -->
+
+<div class="sidebar"></div>   
+<div class="nav-icon"><div class="hamburger-bar"></div></div>
+<div id="blackover-nav" class="blackover"></div>
+<nav id="menu">
+    <ul>
+        <li><a href="/ko/
+            ">
+    
+      홈
+    
+</a></li>
+        <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">Mercari</a></li>
+        <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee</a></li>
+        <li><a target="_blank" href="https://www.doorzo.com/en/mall/mercari/shop/68747470733a2f2f7777772e6d6572636172692e636f6d2f6a702f752f3933373433303234382f?isShops=false">Doorzo</a></li>
+        <li class="section-separator"></li>
+        <li><a href="/categories#Vinyl">VINYL</a></li>
+        <li><a href="https://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
+        <li><a href="/categories#CD">CD</a></li>
+        <li class="section-separator"></li>
+        <li>
+  <a href="
+            /ko/categories#Column
+         ">
+
+   
+      칼럼
+   
+</a>
+</li>
+
+<li><a href="/podcast/">Podcast</a></li>
+
+<li>
+  <a href="
+            /ko/categories#Pickup
+         ">
+  
+  
+    픽업
+  
+</a>
+</li>
+        <li class="section-separator"></li>
+        <li>
+  <a href="
+              /ko/tags#Techno
+           ">
+    Techno
+  </a>
+</li>
+
+<li>
+  <a href="
+              /ko/tags#House
+           ">
+      House
+  </a>
+</li>
+
+<li>
+  <a href="
+              /ko/tags#Rock
+           ">
+    Rock
+  </a>
+</li>
+
+<li>
+  <a href="
+              /ko/tags#Hiphop
+           ">
+    Hip-hop
+  </a>
+</li>
+
+<li>
+  <a href="
+              /ko/tags#Trance
+           ">
+    Trance
+  </a>
+</li>
+        <li class="section-separator"></li>
+        <li><a href="/about">About</a></li>   
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/policy">Policy</a></li>
+    </ul>   
+</nav>
+
+<script src="/assets/js/lunr.js" defer></script>
+<script src="/assets/js/tiny-segmenter.js" defer></script>
+<script src="/assets/js/lunr.stemmer.support.js" defer></script>
+<script src="/assets/js/lunr.ja.js" defer></script>
+<script src="/assets/js/lunr.multi.js" defer></script>
+<style>
+    
+</style>
+
+<div class="wrap-search">
+    <div class="d-flex align-items-center ml-auto">
+        <i class="fas fa-search show-search"></i>
+        <form class="bd-search ml-3" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+            <input type="text" class="form-control bigradius text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="search"/>
+        </form>
+    </div>
+</div>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js" defer></script>
+
+
+<!-- End Sidebar Navigation
+================================================== -->
+
+<div class="site-content ">
+
+<div class="container">
+
+    <!-- Site Logo/Name
+    ================================================== -->
+   
+    <a class="navbar-brand"
+   href="/ko/
+         ">
+    <img src="/../assets/images/logo.png" alt="MMR">
+</a>
+
+   
+
+    <!-- Site Tag
+    ================================================== -->
+    
+
+    <!-- Content
+    ================================================== -->
+    <div class="main-content">
+        <div class="entry-header">
+    <!-- Post Title -->
+    <h1 class="posttitle">【칼럼】 미니멀 테크노의 핵심</h1>
+    <!-- Author & Date  Box -->
+    
+    
+    <!-- Categories -->
+    
+    
+    <a class="smoothscroll badge badge-primary text-capitalize" href="/categories#Column">Column</a>                
+    
+    <a class="smoothscroll badge badge-primary text-capitalize" href="/categories#ko">ko</a>                
+    
+
+    <meta name="image" content="../assets/images/column-robert-hood.webp">
+
+    <script>
+(function() {
+  const path = window.location.pathname;
+  const title = document.querySelector('h1').innerText;
+  const img = document.querySelector('meta[name="image"]').getAttribute('content');
+
+  let posts = JSON.parse(localStorage.getItem('popularPosts') || '{}');
+
+  if (!posts[path]) {
+    posts[path] = { title: title, image: img, count: 0 };
+  }
+  posts[path].count++;
+
+  localStorage.setItem('popularPosts', JSON.stringify(posts));
+})();
+</script>
+
+    <!-- Tags -->  
+    
+                    
+    <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#Detroit">Detroit</a>               
+                    
+    <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#Minimal">Minimal</a>               
+                    
+    <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#Techno">Techno</a>               
+                    
+    <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#Underground">Underground</a>               
+    
+
+    <div class="d-flex align-items-center mt-4">
+        <span class="post-date"><time class="post-date" datetime="2026-03-21">21 Mar 2026</time></span>           
+        
+        </div>            
+    </div>
+    
+
+<!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
+
+
+<!-- Featured Image -->
+
+<div class="entry-featured-image">
+    
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-robert-hood.webp" alt="【칼럼】 미니멀 테크노의 핵심" loading="lazy" decoding="async">
+    
+</div>
+
+
+<!-- Rating -->
+
+<!-- Content -->
+<!-- Post, Page Content
+================================================== -->
+<div class="article-post">
+    <!-- Toc if any -->
+    
+    <!-- End Toc -->
+    <h2 id="깎는-것으로-나타나는-음악의-본질">깎는 것으로 나타나는 음악의 본질</h2>
+
+<p>문장：mmr｜테마：소리를 깎아내는 것으로 떠오르는, 테크노의 본질과 정신성</p>
+
+<p>테크노는 종종 ‘미래의 음악’이라고 말한다. 그러나 그 미래상은 단순한 기술의 진화가 아니라 도시, 사회, 인간의 내면이 교차하는 지점에 존재하고 있다.</p>
+
+<p>그 중 극한까지 소리를 깎아내어 음악의 본질만을 추출한 인물이 있다. 그것은 Robert Hood이다.</p>
+
+<p>그의 음악은 보기에 간단하다. 하지만 그 반복과 구조 중에는 강렬한 긴장감과 깊은 몰입 체험이 숨어 있다. 그는 소리를 더하는 것이 아니라 깎는 것으로 테크노를 재정의했다.</p>
+
+<blockquote>
+  <p>깎아내린 소리 속에야 테크노의 본질이 가장 순수한 형태로 나타난다.</p>
+</blockquote>
+
+<hr />
+
+<style type="text/css">
+
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
+}
+th {
+background-color: #111;
+color: #fff;
+}
+</style>
+
+<h2 id="디트로이트--붕괴와-창조의-도시가-낳은-소리">디트로이트 : 붕괴와 창조의 도시가 낳은 소리</h2>
+
+<p>Detroit이라는 도시는 Robert Hood의 음악적 기반 그 자체이다.</p>
+
+<p>산업 도시로서의 번영과 그 후의 쇠퇴. 이 극단적 인 대비는 정적, 공백 및 기계적 반복이라는 음향적 이미지를 만들어 냈습니다.</p>
+
+<p>Juan Atkins, Derick May, Kevin Saunderson이 지은 기초 위에서, Hood는 더욱 깎아내린 소리의 세계를 구축해 나간다.</p>
+
+<blockquote>
+  <p>붕괴된 도시의 공백이 최소한의 음향 공간으로 재구축되었다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="underground-resistance-사상에서-출발점">Underground Resistance: 사상에서 출발점</h2>
+
+<p>Underground Resistance에서의 활동은 그의 출발점이었다.</p>
+
+<p>Jeff Mills나 Mike Banks와 함께 음악을 통한 저항과 표현을 실천하는 가운데, Hood는 소리의 의미와 역할을 깊이 생각하게 된다.</p>
+
+<p>그러나 그는 곧 더 순수한 음악적 탐구로 향한다. 그 결과가 미니멀이라는 선택이었다.</p>
+
+<blockquote>
+  <p>밖으로 향하고 있던 에너지는, 소리 그 자체로 수렴해 갔다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="minimal-nation-음악-재구성">Minimal Nation: 음악 재구성</h2>
+
+<p>1994년의 ‘Minimal Nation’은 테크노의 역사를 바꾼 작품이다.</p>
+
+<p>킥, 하이햇, 최소한의 신디. 이 극단적인 한계에서 그는 그루브의 핵심만을 추출했다.</p>
+
+<p>이 앨범은, 후의 미니멀 테크노의 설계도라고도 말할 수 있는 존재이며, 지금도 계속 참조되고 있다.</p>
+
+<blockquote>
+  <p>소리를 깎는 것으로 음악의 구조 자체가 드러났다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="대표작--최소한의-실천과-진화">대표작 : 최소한의 실천과 진화</h2>
+
+<p>Robert Hood의 혁신은 몇몇 대표작을 통해 더욱 명확하게 이해될 수 있다.</p>
+
+<p>우선 들려야 할 앨범 ‘Minimal Nation’이다. 이 작품은 미니멀 테크노의 원점이며 그의 사상이 가장 순수한 형태로 결정화된 것이다. 각 트랙은 매우 간단하면서도 치밀한 리듬 설계로 강렬한 그루브를 만들어내고 있다.</p>
+
+<p>이어 중요한 것이 ‘Internal Empire’이다. 이 작품에서는 최소한의 구조를 유지하면서도 보다 내성적이고 깊이 있는 음향 공간이 전개된다. 소리의 배치나 사이의 취하는 방법이 한층 더 세련되고, 그의 미학이 한층 성숙한 것을 알 수 있다.</p>
+
+<p>또, EP 작품 「Moveable Parts」시리즈도 놓칠 수 없다. 여기서는 짧은 포맷 속에서 최소한의 가능성이 철저하게 탐구되고 있다. 반복과 미세한 변화로 인한 역학 제어는 후속 아티스트에 큰 영향을 미쳤다.</p>
+
+<p>게다가 Floorplan 명의에서 “Never Grow Old”는 그의 경력에서 또 다른 전환점이다. 고스펠의 요소와 테크노의 반복 구조가 융합되어 플로어의 축제성과 영적 고양감을 동시에 실현하고 있다.</p>
+
+<p>이러한 작품에 공통적으로 있는 것은, 항상 「깎는」라고 하는 원칙이 관철되고 있는 점이다. 소리를 늘리는 것이 아니라 필요한 것만 남깁니다. 그 철저한 자세가 그의 음악을 유일무이한 것으로 하고 있다.</p>
+
+<blockquote>
+  <p>대표작의 모두가, 깎아내린다고 하는 사상의 다른 측면을 나타내고 있다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="미니멀리즘-사상--소리를-줄이는-선택">미니멀리즘 사상 : 소리를 줄이는 선택</h2>
+
+<p>Robert Hood의 미니멀리즘은 단순한 음악 스타일이 아닙니다. 생각의 방법이다.</p>
+
+<p>소리를 줄이는 행위는 선택의 연속이다. 무엇을 남기고 무엇을 버리는가? 그 판단의 정밀도가 음악의 질을 결정한다.</p>
+
+<p>그의 작품은 그 선택의 결과로 성립된다.</p>
+
+<blockquote>
+  <p>최소한은 제약이 아니라 자유를 찾아내는 방법이다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="플로어-경험--반복과-의식의-변화">플로어 경험 : 반복과 의식의 변화</h2>
+
+<p>그의 음악은 클럽에서 진가를 발휘한다.</p>
+
+<p>긴 반복은 청취자의 시간 감각을 서서히 변화시키고 결국 변압기 상태로 이어진다. 미세한 변화가 전체의 인상을 크게 좌우한다.</p>
+
+<p>이 경험은 단순한 댄스 음악을 넘어서는 것입니다.</p>
+
+<blockquote>
+  <p>반복은 의식을 변화시키는 장치로서 기능한다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="종교성과-내면성">종교성과 내면성</h2>
+
+<p>Robert Hood의 음악에는 종교적인 뉘앙스가 존재한다.</p>
+
+<p>최소한의 구조는 집중과 내성을 촉진하고 청취자를 내면적인 체험으로 이끈다. 이것은 그 자신의 신념과도 깊게 연결되어 있다.</p>
+
+<blockquote>
+  <p>소리를 깎는 것은 내면으로 향하기 위한 공간을 만드는 것도 있다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="floorplan-축제로-전환">Floorplan: 축제로 전환</h2>
+
+<p>Floorplan 명의에서는, 보다 밝게 열린 사운드가 전개된다.</p>
+
+<p>고스펠적인 요소가 더해져 최소한의 구조에 새로운 감정이 흘러 들어간다.</p>
+
+<blockquote>
+  <p>최소한 속에 축제와 기쁨이 공존한다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="영향과-현재-위치">영향과 현재 위치</h2>
+
+<p>Robert Hood의 영향은 현대의 테크노 장면 전체에 퍼져 있습니다.</p>
+
+<p>그의 방법론은 장르를 넘어 계속 참조됩니다.</p>
+
+<blockquote>
+  <p>최소한은 소리가 적지 않고 선택의 정확도입니다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="연표-robert-hood의-궤적">연표: Robert Hood의 궤적</h2>
+
+<div class="mermaid">
+timeline
+    title Robert Hood Chronology
+    1965 : デトロイトで誕生
+    1980s : 音楽活動開始
+    1989 : Underground Resistance参加
+    1992 : 同グループ離脱
+    1994 : Minimal Nation発表
+    2000s : ソロ活動継続
+    2010 : Floorplan本格始動
+    2020s : 世界的評価確立
+</div>
+
+<hr />
+
+<h2 id="구조도-미니멀-테크노의-원리">구조도: 미니멀 테크노의 원리</h2>
+
+<div class="mermaid">
+graph TD
+    A[キック] --&gt; D[グルーヴ]
+    B[ハイハット] --&gt; D
+    C[シンセ断片] --&gt; D
+    D --&gt; E[反復]
+    E --&gt; F[トランス状態]
+    F --&gt; G[内省]
+</div>
+
+<hr />
+
+<h2 id="결론--깎아-내리는-미래">결론 : 깎아 내리는 미래</h2>
+
+<p>Robert Hood의 음악은 극단적 인 단순함에 복잡한 사상과 역사를 포함합니다.</p>
+
+<p>그의 “깎기”라는 방법은 현대에서 점점 더 중요한 의미를 가지고 있습니다.</p>
+
+<p>정보 과다한 시대에서 본질을 파악하는 힘. 그야말로 그의 음악이 계속 울려 퍼지는 이유이다.</p>
+
+<blockquote>
+  <p>깎아내리는 것으로밖에 보이지 않는 미래가 확실히 존재한다.</p>
+</blockquote>
+
+<hr />
+
+
+</div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4160577106615811"
+     data-ad-slot="5171302409"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- Share -->
+<div class="share">
+    <p>
+        Share
+    </p>
+    <ul>    
+    <!-- Bluesky シェア -->
+    <li class="ml-1 mr-1">
+        <a target="_blank"
+           href="https://bsky.app/intent/compose?text=【칼럼】 미니멀 테크노의 핵심%0Ahttps://monumental-movement.jp/ko/column-robert-hood/"
+           onclick="window.open(this.href, 'bluesky-share', 'width=550,height=435');return false;">
+            <i class="fa-brands fa-bluesky"></i>
+        </a>
+    </li>
+    <!-- X(Twitter) -->
+    <li class="ml-1 mr-1">
+        <a target="_blank" href="https://twitter.com/intent/tweet?text=【칼럼】 미니멀 테크노의 핵심&url=https://monumental-movement.jp/ko/column-robert-hood/&hashtags=Techno,Detroit,Minimal,Underground" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+            <i class="fab fa-x-twitter"></i>
+        </a>
+    </li>
+     <!-- Mastodon シェア -->
+    <li class="ml-1 mr-1">
+        <a target="_blank"
+           href="https://mastodon.social/share?text=%E3%80%90%EC%B9%BC%EB%9F%BC%E3%80%91+%EB%AF%B8%EB%8B%88%EB%A9%80+%ED%85%8C%ED%81%AC%EB%85%B8%EC%9D%98+%ED%95%B5%EC%8B%AC%20https://monumental-movement.jp/ko/column-robert-hood/"
+           onclick="window.open(this.href, 'mastodon-share', 'width=550,height=700');return false;">
+            <i class="fab fa-mastodon"></i>
+        </a>
+    </li>
+    <!-- Instagram -->
+    <li class="ml-1 mr-1">
+        <a target="_blank" href="https://instagram.com/mmr3cords/" onclick="window.open(this.href, 'instagram', 'width=550,height=700');return false;">
+            <i class="fab fa-instagram"></i>
+        </a>
+    </li>
+    <!-- Threads -->
+    <li class="ml-1 mr-1">
+        <a target="_blank" href="https://www.threads.net/@mmr3cords" onclick="window.open(this.href, 'threads', 'width=550,height=700');return false;">
+            <i class="fa-brands fa-threads"></i>
+        </a>
+    </li>
+    <!-- Podcast -->
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://open.spotify.com/show/2u98RYjxz8Y8VwsS258Nto?si=W0AC3REfR0uuLso9BZy8Jw">
+                <i class="fas fa-podcast"></i>
+            </a>
+        </li>
+
+        <!-- YouTube -->
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.youtube.com/@MonumentalMovementRecords">
+                <i class="fab fa-youtube"></i>
+            </a>
+        </li>
+
+</ul>
+
+</div>
+
+<!-- Related Post -->
+<!-- Related Posts
+================================================== -->
+<div class="related-posts">  
+
+
+<h2 class="text-center mb-4">
+
+  이와 비슷한 글
+
+</h2>
+
+
+
+
+
+
+<div class="d-flex justify-content-center align-items-center">
+
+<!-- Categories -->
+
+  
+  
+    <a class="smoothscroll badge badge-primary text-capitalize"
+       href="/ko/categories#column">
+      Column
+    </a>
+  
+    <a class="smoothscroll badge badge-primary text-capitalize"
+       href="/ko/categories#ko">
+      ko
+    </a>
+  
+
+
+
+<!-- Tags -->
+
+  
+  
+    <a class="smoothscroll badge badge-primary text-capitalize"
+       href="/ko/tags#detroit">
+      Detroit
+    </a>
+  
+    <a class="smoothscroll badge badge-primary text-capitalize"
+       href="/ko/tags#minimal">
+      Minimal
+    </a>
+  
+    <a class="smoothscroll badge badge-primary text-capitalize"
+       href="/ko/tags#techno">
+      Techno
+    </a>
+  
+    <a class="smoothscroll badge badge-primary text-capitalize"
+       href="/ko/tags#underground">
+      Underground
+    </a>
+  
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog-grid-container">
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/sami-koivikko-kut-pulatin-pt-2/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Sami Koivikko – Kut Pulatin Pt. 2.webp" alt="Sami Koivikko – Kut Pulatin Pt. 2" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/sami-koivikko-kut-pulatin-pt-2/">Sami Koivikko – Kut Pulatin Pt. 2</a>
+                
+            </h2>
+            <h4 class="card-text">Sami Koivikko는 핀란드를 거점으로 활동하는 테크노 프로듀서. 미니멀 테크노나 클릭 테크노의 깃발로 알려져 있으며, 독일의 인기 라벨 Shitkatapult를 필두로, Spectral Sound나 Festplatten 등, 다양한 라벨로부터 작품을 발표하고 있다.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">07 Feb 2026</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/jesse-somfay-we-breathe-the-stars-through-each-other/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jesse Somfay – We Breathe The Stars Through Each Other.webp" alt="Jesse Somfay – We Breathe The Stars Through Each Other" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/jesse-somfay-we-breathe-the-stars-through-each-other/">Jesse Somfay – We Breathe The Stars Through Each Other</a>
+                
+            </h2>
+            <h4 class="card-text">Jesse Somfay(제시 솜페이)는 2000년대 중반부터 명문 라벨 Archipel과 Traum Schallplatten을 중심으로 활동하고 있는 캐나다 출신의 프로듀서. 미니멀 테크노, 앰비언트, 슈게이저를 융합시킨 스타일이 특징. Borealis(보레아리스) 명의에서의 활동으로도 잘 알려져 있다.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">07 Feb 2026</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/column-minimal-techno-acid-techno/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-minimal-techno-acid-techno.webp" alt="【칼럼】 테크노 미니멀 vs 애시드 테크노 : 깎아내리는 미학과 폭주하는 회로" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/column-minimal-techno-acid-techno/">【칼럼】 테크노 미니멀 vs 애시드 테크노 : 깎아내리는 미학과 폭주하는 회로</a>
+                
+            </h2>
+            <h4 class="card-text">서장 테크노라는 공통 언어
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">06 Feb 2026</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/the-basstards-if-you-touch-this-you-go-to-heaven/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Basstards – If You Touch This, You Go To Heaven.webp" alt="The Basstards – If You Touch This, You Go To Heaven" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/the-basstards-if-you-touch-this-you-go-to-heaven/">The Basstards – If You Touch This, You Go To Heaven</a>
+                
+            </h2>
+            <h4 class="card-text">The Basstards는 Señor Coconut And His Orchestra의 멤버로도 활동하는 DJ Argenis Brito, Cem Oral과 Jammin’ Unit, 라벨 Tuning Spork Records의 주재 Jay Haze에 의한 프로젝트.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">23 Jan 2026</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/justin-berkovi-shinkansen-tracks/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Justin Berkovi – Shinkansen Tracks.webp" alt="Justin Berkovi – Shinkansen Tracks" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/justin-berkovi-shinkansen-tracks/">Justin Berkovi – Shinkansen Tracks</a>
+                
+            </h2>
+            <h4 class="card-text">Justin Berkovi는 런던에 본사를 둔 Techno DJ / 프로듀서이자 라벨 Predicamentst와 Nightrax의 설립자이기도합니다.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">23 Jan 2026</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/ditch-link-set-ep/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ditch – Link Set EP.webp" alt="Ditch – Link Set EP" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/ditch-link-set-ep/">Ditch – Link Set EP</a>
+                
+            </h2>
+            <h4 class="card-text">Ditch Shinichiro Kono는, 2001년부터 Minimal House&amp;Techno의 DJ로서 활동하고 있는 센다이를 거점으로 하는 일본의 프로듀서. Minibar, Safari Electronique, Microcosm, Goosehound, Kalimari, op.disc 등 다수의 라벨에서 출시하고 있다.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">10 Jan 2026</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/coalition-of-the-killing-backwards-on-pony-ep/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Coalition Of The Killing – Backwards On Pony EP.webp" alt="Coalition Of The Killing – Backwards On Pony EP" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/coalition-of-the-killing-backwards-on-pony-ep/">Coalition Of The Killing – Backwards On Pony EP</a>
+                
+            </h2>
+            <h4 class="card-text">Coalition Of The Killing (COTK)은 샌프란시스코를 거점으로 활동하는 Techno DJ / 프로듀서 Jason Short와 Marc Smith의 테크노 듀오.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">10 Jan 2026</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/a-crash-and-brixton-comrades-from-cologne/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/A. Crash and Brixton – Comrades From Cologne.webp" alt="A. Crash and Brixton – Comrades From Cologne" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/a-crash-and-brixton-comrades-from-cologne/">A. Crash and Brixton – Comrades From Cologne</a>
+                
+            </h2>
+            <h4 class="card-text">독일 출신의 A. Crash (Andreas Kremer)와 Brixton (Norbert Georg Brixton Wieschollek)의 스플릿 싱글.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">07 Jan 2026</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/alter-ego-beat-the-bush/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Alter Ego – Beat The Bush.webp" alt="Alter Ego – Beat The Bush" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/alter-ego-beat-the-bush/">Alter Ego – Beat The Bush</a>
+                
+            </h2>
+            <h4 class="card-text">Alter Ego는 1992년에 Roman Flügel과 Jörn Elling Wuttke가 결성한 독일의 일렉트로닉 음악 듀오. 2004년의 대표작 「Rocker」로 잘 알려져 있다.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">16 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/alex-under-trapezones-erectos-and-extrapezlo-remixes/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Alex Under – Trapezones Erectos & Extrapezlo Remixes.webp" alt="Alex Under – Trapezones Erectos & Extrapezlo Remixes" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/alex-under-trapezones-erectos-and-extrapezlo-remixes/">Alex Under – Trapezones Erectos & Extrapezlo Remixes</a>
+                
+            </h2>
+            <h4 class="card-text">Alex Under(Alejandro Moreno Morales)는 스페인 출신의 DJ/프로듀서이며, 라벨 Cmyk Musik의 설립자.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">16 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/intergalactic-phonk-the-source-ep/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Intergalactic Phonk – The Source EP.webp" alt="Intergalactic Phonk – The Source EP" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/intergalactic-phonk-the-source-ep/">Intergalactic Phonk – The Source EP</a>
+                
+            </h2>
+            <h4 class="card-text">Intergalactic Phonk는 Frederik Soderstrom과 Sina Morshed Solouk의 듀오입니다. Devilfish 명의로 잘 알려져 있다.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">14 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+      <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ko/dub-taylor-escape-from-21st-century/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dub Taylor – Escape From 21st Century.webp" alt="Dub Taylor – Escape From 21st Century" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ko/dub-taylor-escape-from-21st-century/">Dub Taylor – Escape From 21st Century</a>
+                
+            </h2>
+            <h4 class="card-text">Dub Taylor라고도 알려진 Alex Krüger는 Tigerskin이라는 이름으로 활동하는 독일 프로듀서이자 1990년대부터 Dub Techno 운동을 주도한 DJ입니다.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">13 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+      
+      
+        
+
+</div>
+</div>
+
+<!-- Author Box if enabled from _config.yml -->
+<!-- Author Box -->
+
+
+<div class="authorbox mb-5 mt-5 pt-4 pb-4">   
+    <div class="row">
+        <div class="wrapavname col-md-3 text-center">
+            
+            <img  class="author-thumb" src="/../assets/images/avatar-mm.png" alt="Monumental Movement Records">
+            
+            <p class="mt-4 mb-0 small text-center">
+                <a target="_blank" class="d-inline-block mx-1 text-dark" href="https://jp.mercari.com/user/profile/937430248"><i class="fa fa-link"></i></a> 
+                <a target="_blank" class="d-inline-block mx-1 text-dark" href="https://x.com/mmrecords_japan"><i class="fab fa-x-twitter"></i></a>
+                <a class="d-inline-block mx-1 text-dark" href="mailto:monumental.movement.records@gmail.com"><i class="fa fa-envelope"></i></a>
+            </p>
+        </div>
+        <div class="col-md-9 mt-4">
+            <h5>Monumental Movement Records</h5>
+            <p class="mt-3 mb-0"></p>
+        </div>
+    </div> 
+</div> 
+
+
+<script type="module">
+import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
+
+const supabase = createClient(
+  'https://mysicudyuuvvxrlnengg.supabase.co',
+  'sb_publishable_g8jZeTk9YaW0Nmb3QuADjg_zydVa5KK'
+)
+
+async function renderPopular() {
+  const { data } = await supabase
+    .from('view_counts')
+    .select('path, title, count')
+    .order('count', { ascending: false })
+    .limit(8)
+
+  if (!data || !data.length) return
+
+  document.getElementById('popular-carousel-js').innerHTML = `
+    <div class="popular-carousel__track">
+      ${data.map(item => `
+        <article class="popular-card">
+          <a class="popular-card__link" href="${item.path}">
+            <div class="popular-card__body">
+              <p class="popular-card__views">${item.count} views</p>
+              <h3 class="popular-card__title">${item.title}</h3>
+            </div>
+          </a>
+        </article>
+      `).join('')}
+    </div>
+  `
+}
+
+renderPopular()
+</script>
+
+<br>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
+     crossorigin="anonymous"></script>
+<!-- display-top-wide -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4160577106615811"
+     data-ad-slot="4039800202"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-4160577106615811"
+     data-ad-slot="1067519483"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4160577106615811"
+     data-ad-slot="5171302409"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gu-c+w-3l+7t"
+     data-ad-client="ca-pub-4160577106615811"
+     data-ad-slot="3813988702"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4160577106615811"
+     data-ad-slot="5171302409"></ins>
+    </div>
+
+    
+    <!-- Newsletter
+    ================================================== -->
+    <div class="newsletter text-center">
+    <span class="h4">
+        <img src="/../assets/images/logo.png" class="newsletter-logo" alt="m.m.r"> &nbsp;
+        
+            <b>최신 소식</b>을 가장 먼저 받아보세요
+        
+    </span>
+    <form action="https://gmail.us22.list-manage.com/subscribe/post?u=4b66f07c74b33b5132ea18c2c&amp;id=cc67e38784&amp;f_id=00fcc4e1f0" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+    <div class="mc-field-group d-inline-flex">
+        <input type="email"
+            placeholder="이메일 주소"
+            name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+
+        <input type="submit"
+            value="구독"
+            name="subscribe" class="heart">
+    </div>
+</form>
+
+</div>
+
+    
+
+</div>
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-12 text-center text-lg-left">
+                Copyright © 2026 MMR 
+            </div>
+            <div class="col-md-6 col-sm-12 text-center text-lg-right">    
+                <a target="_blank" href="">M.M.R</a> by MM
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
+================================================== -->
+
+<script>
+  // Load jQuery asynchronously
+  (function() {
+    var script = document.createElement('script');
+    script.src = '/assets/js/jquery.min.js';
+    script.async = true;
+    script.onload = function() {
+      // jQuery loaded, now load theme.js
+      var themeScript = document.createElement('script');
+      themeScript.src = '/assets/js/theme.js';
+      themeScript.defer = true;
+      document.head.appendChild(themeScript);
+    };
+    document.head.appendChild(script);
+  })();
+</script>
+
+<script src="/assets/js/prism.js" defer></script>
+
+
+<script src="/assets/js/lazyload.js" defer></script>
+
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
+
+</body>
+</html>
