@@ -132,7 +132,7 @@ It can be said that this was the prehistory of later sampler music.
 
 ---
 
-## 7. Inheritance and variation - from Cosmic to Balearic
+## 7. Inheritance and variation – from Cosmic to Balearic
 
 In the late 1980s, Ibiza"s DJ Alfredo and José Padilla inherited Baldelli"s Cosmic philosophy.
 This developed into a trend called ""Balearic Beat,'' which later fundamentally changed **UK club culture**.

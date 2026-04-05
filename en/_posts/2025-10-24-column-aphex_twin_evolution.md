@@ -152,7 +152,7 @@ It is in that margin that there is room for the listener to project their own fe
 
 After Aphex Twin, electronic music is no longer just a "genre."
 Artists influenced by him include Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-All of these questions reconsider the meaning generation of sound itself.
+All of these questions reconsider the "meaning generation" of sound itself.
 
 > "In an era where music is converted into data, Aphex Twin has become a ""sculptor of perception.''
 

@@ -74,7 +74,7 @@ The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
 ---
 
-- An important role in the NY underground at the end of the 1990s.
+- An important role in the NY underground in the late 1990s.
 - Introducing noisy sounds, segmented rap and electronic music.
 - Expands the connection between electronic music and hip-hop by signing with Warp Records.
 
@@ -155,7 +155,7 @@ At the heart of experimental hip-hop since the 2000s is the ""reinvention of rhy
 ## 6. Sampling culture: from analog to digital
 
 ### ● 1990–2000s: MPC culture
-- MPC2000/2000XL is the mainstream.
+- MPC2000/2000XL is mainstream.
 - The focus is on "chop culture," in which analog samples are chopped into small pieces and reconstructed.
 -Madlib and J Dilla are representative examples.
 

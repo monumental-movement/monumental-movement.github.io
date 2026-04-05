@@ -65,7 +65,7 @@ In the latter, the second half feels lighter and the loop gives the impression o
 
 ## Chapter 2: Grid and Human Feel Design
 
-Arrangements that follow the grid perfectly fix time, but do not move it. This is where intentional deviations are introduced.
+An arrangement that perfectly follows the grid fixes time, but does not move it. This is where intentional deviations are introduced.
 
 ### Case: Backbeat Snare Delay
 

@@ -391,7 +391,7 @@ It's not music from a big industry.
 
 rather
 
-"Culture Gap"
+"Cultural Gap"
 
 It is music born from.
 

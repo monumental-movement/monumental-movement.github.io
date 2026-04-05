@@ -111,7 +111,7 @@ After the pandemic, online streaming and virtual clubs have become popular. NY h
 - Honey Dijon – *Black Girl Magic* (2022)
 - Louie Vega – *Expansions in the NYC* (2021)
 - **Equipment**
-- Hard/soft hybrid environment
+- Hardware/software hybrid environment
 - Refocusing on modular and analog synths
 - DJ equipment that supports streaming (Rekordbox, Serato)
 

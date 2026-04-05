@@ -130,7 +130,7 @@ Radio, television, and the Internet, which seemed to separate music from the cit
 
 ## Chapter 8 21st Century: Global Cities and Local Sounds
 
-Globalization has rapidly reduced the musical distance between cities. Air networks and digital distribution will shorten relationships that once took decades to months.しかしその一方で、都市固有の音響環境、言語、生活リズムは完全には均質化されなかった。 Rather, locality itself is consciously staged and redefined as musical value.
+Globalization has rapidly reduced the musical distance between cities. Air networks and digital distribution will shorten relationships that once took decades to months. However, on the other hand, the acoustic environments, languages, and rhythms of life unique to cities were not completely homogenized. Rather, locality itself is consciously staged and redefined as musical value.
 
 Although club music and hip-hop have formats that are shared across borders, they take on different expressions depending on each city's housing conditions, traffic hours, and institutional differences in the nighttime economy. As a result, multiple urban dialects emerged within the same genre.
 
@@ -187,7 +187,7 @@ Here, music defines the space first, followed by urban functions. Clubs were mor
 
 Detroit techno is an extension of the urban rhythms shaped by the automobile industry. Regular mechanical movements, wide roads, and the hollowing out that followed the population exodus fostered an inorganic and persistent sense of beat.
 
-Techno here became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
+Here, techno became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
 
 > Detroit's music preserves in sound the form of what the city has lost.
 
@@ -199,7 +199,7 @@ Techno here became more than just entertainment, it became a device for abstract
 flowchart TB
 A[high density housing] --> B[Low volume/high resolution oriented]
 C[hollowed out area] --> D[Loud volume/repetitive structure]
-E[redevelopment area] --> F[Accumulation of club culture]
+E[Redevelopment area] --> F[Accumulation of club culture]
 </div>
 
 Urban structures directly determine the volume, repeatability, and environment in which music is played. This is a consequence of living conditions, not a cultural choice.
@@ -212,7 +212,7 @@ Urban structures directly determine the volume, repeatability, and environment i
 
 <div class="mermaid">
 flowchart LR
-A[on the street] --> B[hole]
+A[on the road] --> B[hole]
 B --> C[club]
 C --> D[online space]
 </div>
@@ -249,7 +249,7 @@ The scale of the city is smaller than Tokyo, and the music scene circulates in v
 
 Musical culture in local cities has matured on its own timeline, while being influenced by the central government. Due to Fukuoka's geographical proximity to Asia and its character as a port city, it has been quick to accept foreign culture, and clubs and live music venues tend to cluster in the city center.
 
-Due to the climate and size of the city, Sapporo has a strong indoor orientation, and events that cross genres are held for a long time. The urban margins have functioned as a space for experimental expression.
+Due to the climate and size of the city, Sapporo has a strong indoor orientation, and events that cross genres are held for a long time. The urban margins have functioned as spaces for experimental expression.
 
 > Regional cities have matured music at a different rate than the central region.
 
@@ -261,7 +261,7 @@ Clubs and live music venues have always had a tense relationship with urban inst
 
 As land prices rise due to redevelopment, small-scale music spaces move to the periphery. In many cases, this movement does not lead to decline, but rather to the creation of new scenes.
 
-> 制度は音楽を制限しながら、同時に次の場所へ押し出してきた。
+> The system has restricted music while simultaneously pushing it to the next place.
 
 ---
 

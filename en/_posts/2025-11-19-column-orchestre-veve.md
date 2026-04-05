@@ -132,7 +132,7 @@ Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carv
 - **Bass: Repeat descending line → rising line every 4 bars**
 - **Mixing: vocals in the center, guitars separated to left and right**
 
-### Rhythm characteristics
+### Characteristics of rhythm
 
 <div class="mermaid">
 
@@ -154,7 +154,7 @@ graph TD
 
 * **The saxophone presents the melody at the beginning → the guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
-* **Linear, high-range guitar solo**
+* **Linear, high-pitched guitar solo**
 
 ### Call and response structure
 

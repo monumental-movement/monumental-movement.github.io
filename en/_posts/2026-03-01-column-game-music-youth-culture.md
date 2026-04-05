@@ -90,7 +90,7 @@ The song was later performed by orchestra around the world.
 
 Started in 2002
 **Distant Worlds: music from FINAL FANTASY**
-performed in North America, Europe, and Japan, and established game music in classical halls.
+has performed repeatedly in North America, Europe, and Japan, and established game music in classical halls.
 
 At this stage, game music transitioned from a ""domestic experience" to a ""performance art in public spaces."
 

@@ -99,7 +99,7 @@ In many regions, the didgeridoo has been considered a male instrument, but this 
 
 There were also age restrictions, and performances with specific song series were not allowed unless certain rites of coming of age were passed. As a result, music naturally became a device for intergenerational education.
 
->Performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
+> The performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
 
 ---
 
@@ -181,7 +181,7 @@ These differences are not ""misinterpretations'' but are legitimate forms of inh
 
 ## Role differentiation of singing, dancing, and didgeridoo
 
-It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo's role changes.
+It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo changes its role.
 
 In parts of East Arnhem Land, the didgeridoo functions as a stable support that keeps the pitch as low as possible and matches the rhythm of the lyrics. In contrast, in the West, the didgeridoo provides rhythmic cues and guides the dancers' movements.
 

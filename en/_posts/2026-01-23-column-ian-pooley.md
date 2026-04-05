@@ -24,7 +24,7 @@ Ian Pooley was born in Mainz, Germany in 1973. His parents were from England, an
 
 From an early age, black music such as jazz, soul, and funk was played at home rather than rock. Early on, he developed an ear for paying attention not only to rhythmic dynamics, but also to chord progressions and performance intervals. In particular, the electric bass lines and the spatial expansion created by the chords became important foundations for later productions.
 
-As he entered his teens, he became strongly attracted to dance music that was expanding at the time, such as hip-hop, electro, and acid house. What fascinated him here was not the star quality or the lyrics, but the ""structure'' of the track itself. For Pooley, the minute changes that occur through repetition, and the plasticity of music that is rearranged by DJs, presents a new way of looking at music.
+As he entered his teens, he became strongly attracted to dance music that was expanding at the time, such as hip-hop, electro, and acid house. What fascinated him here was not the star quality or the lyrics, but the ""structure'' of the track itself. For Pooley, the subtle changes that occur through repetition and the plasticity of music that is rearranged by DJs presents a new way of looking at music.
 
 > The multilayered musical roots consistently lend intellectual depth to Ian Pooley's work.
 
@@ -65,7 +65,7 @@ C --> D[Establishment within DJ sets]
 
 ## Characteristics of musicality: designing grooves, chords, and repetitions
 
-Ian Pooley"s musicality relies more on internal structure than on surface style. The four-on-the-four rhythm is deceptively simple, but underneath there"s a complex interplay between bassline, chords, and percussion.
+Ian Pooley"s musicality relies more on internal structure than on surface style. The four-on-the-floor rhythm is deceptively simple, but underneath there"s a complex interplay between bassline, chords, and percussion.
 
 What is noteworthy is the code work. Although he uses harmonies that give a sense of jazz-like tension, he does not foreground them too much. The chords are placed solely as elements to reinforce the groove, without stealing too much of the listener's attention. This suppressed expression is highly effective during long DJ mixes.
 
@@ -89,7 +89,7 @@ The mixer was not just a volume control device, but functioned as part of the so
 
 Many artists working in the same '90s UK house context gravitated toward more sample-driven or vocal-centered production. Pooley, on the other hand, continued to pursue the structural beauty of instrumental music.
 
-For example, while producers heavily influenced by US house emphasized emotional peaks, Pooley emphasizes the change in grooves over time. This is an approach that is possible because of the production environment where minute differences are accumulated through the operation of equipment.
+For example, while producers heavily influenced by US house emphasized emotional peaks, Pooley emphasizes the change in grooves over time. This approach is possible because of the production environment where minute differences are accumulated through the operation of equipment.
 
 ### Position within UK House
 

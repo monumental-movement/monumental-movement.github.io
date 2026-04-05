@@ -18,7 +18,7 @@ title: '[Column] Avant-Garde Jazz—a movement that dismantled structure and red
 
 ## Prologue: The moment when jazz stepped into the "unknown"
 
-Text: mmr｜Theme: On the essence of Avant-Garde Jazz, which is often distanced from the mainstream as a music of solution.
+Text: mmr｜Theme: On the essence of Avant-Garde Jazz, which is often distanced from others as a music of solution.
 
 
 In the mid-20th century, jazz seemed like a mature music. There were distinct styles: swing, bebop, and hard bop, and a shared language of chord progressions, time signatures, and solo structures. However, in the late 1950s, a movement began to doubt this very premise, quietly but surely. Does music really need to follow harmony and form? How free can improvisation be? The movement that would later be called ""Avant-Garde Jazz'' was born from these questions.
@@ -200,6 +200,6 @@ What is particularly important is that he positions improvisation as an expressi
 Avant-Garde Jazz is often dismissed as difficult music. However, its essence was an attempt to liberate music from fixed forms and reconsider it as a momentary creation.
 
 
-> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown that freedom is not born from disorder, but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
+> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown that freedom is not born from disorder but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
 
 ---

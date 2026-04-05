@@ -51,7 +51,7 @@ On the other hand, electronic dance music, which has developed since the 1970s, 
 ## 2. Preconditions for the establishment of a genre
 
 
-In order for Electro Swing to come into existence, the following technical and cultural conditions were necessary.
+In order for Electro Swing to come into being, the following technical and cultural conditions were necessary.
 
 * Popularization of digital sampling technology
 *Early Internet culture where copyright management was relatively loose
@@ -195,7 +195,7 @@ On the other hand, another characteristic is that it was difficult to form a cle
 
 ## 19. Comparison with other genres
 
-Electro Swing is sometimes confused with Nu Jazz, Swing House, and Retro House, but the biggest difference is that it foregrounds the symbolism of the swing period. This prioritizes cultural readability over musical complexity.
+Electro Swing is sometimes confused with Nu Jazz, Swing House, and Retro House, but the biggest difference is that it foregrounds the symbolism of the swing era. This prioritizes cultural readability over musical complexity.
 
 While this structure weakened the genre's ability to withstand criticism, it was effective in gaining long-term listeners.
 
@@ -211,3 +211,10 @@ Electro Swing was created by reconstructing the historical legacy of swing jazz 
 
 ---
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6S8Gd8mNqkQ?si=Qj_E3WAtRhF7TzCe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

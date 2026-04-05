@@ -14,7 +14,7 @@ title: Psycho Cowboys – Come On Baby
 ---
 
 
-Psycho Cowboys (aka Hedfu_k) is a project by UK-based producer/composer Aaron Gilbert and London-born electronic DJ/producer Stretch Silvester, aka Stuart Collins.
+Psycho Cowboys (also known as Hedfu_k) is a project by UK-based producer/composer Aaron Gilbert and London-born electronic DJ/producer Stretch Silvester, aka Stuart Collins.
 
 
 This record is a Breaks/Big Beat track released in 1999 by London's independent record label Wall Of Sound.

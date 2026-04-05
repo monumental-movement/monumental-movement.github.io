@@ -71,7 +71,7 @@ The band's first sound mixes the rapidity of late punk/hardcore with the amorpho
 ### **The Shah Sleeps in Lee Harvey's Grave**
 
 * Guitar mainly uses directly recorded feedback
-* The saxophone plays irregularly, destroying the melody.
+* The saxophone plays irregularly and destroys the melody.
 * Lyrics are fragmentary and performance-oriented.
 
 ### **Lady Sniff**
@@ -86,7 +86,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Overall mix (Lo-Fi)"]
+    D --> E["Whole mix (Lo-Fi)"]
 </div>
 
 ---
@@ -128,7 +128,7 @@ The album was designed to give a "vague feeling of anxiety" throughout the album
 
 <div class="mermaid">
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
+    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]
@@ -139,7 +139,7 @@ flowchart TD
 # **5. Hairway to Steven (1988): Longer and more structured**
 
 Long songs and short songs are arranged alternately, and the ""outline of the song'' becomes more pronounced than before.
-In order to improve live reproducibility, studio recording also progressed with a clear division of roles.
+In order to improve live reproducibility, studio recording also proceeded with a clear division of roles.
 
 <div class="mermaid">
 flowchart TD
@@ -209,7 +209,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Overall mix (Lo-Fi)"]
+    D --> E["Whole mix (Lo-Fi)"]
 </div>
 
 ---
@@ -242,7 +242,7 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
+    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]
@@ -431,7 +431,7 @@ flowchart TD
     C --> D["1987–1989: Expansion into Europe and psychedelic period"]
     D --> E["1993: Transition to major period"]
     E --> F["1996: Electriclarryland period"]
-    F --> G["2001: Introduction of electronic sound"]
+    F --> G["2001: Introduction of electronic sounds"]
     G --> H["Afterwards: Continuation of irregular activities"]
 </div>
 

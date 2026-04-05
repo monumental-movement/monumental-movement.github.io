@@ -63,7 +63,7 @@ Festival culture inherits this structure in a secularized form.
 ### 1960s Counterculture
 
 The 1969 Woodstock Festival is a historic event attended by approximately 400,000 people.
-Anti-war movements, hippie culture, and rock music intersected, and musical events were linked to social movements.
+The anti-war movement, hippie culture, and rock music intersected, and musical events were linked to social movements.
 
 At this point, the meaning of festivals expanded from ""listening to music" to ""sharing values."
 
@@ -224,7 +224,7 @@ The institutional challenge is to ensure safety while maintaining psychological 
 ## Cultural influence
 
 ・Impact on the fashion industry
-・Expansion of tourism industry
+・Expansion of the tourism industry
 ・City brand strategy
 ・Changes in music consumption patterns
 ・Generational identity formation

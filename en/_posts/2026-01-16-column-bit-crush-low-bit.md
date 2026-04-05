@@ -237,7 +237,7 @@ As technology advances, limits are no longer imposed from outside.
 That's why the act of intentionally lowering resolution involves a clear ideology.
 
 Low bits are not a relic of the past.
-It is an aesthetic that will only come into being once digital music has matured.
+It is an aesthetic that will only come to fruition once digital music has matured.
 
 > Choosing the resolution of sound is equivalent to choosing the position of expression.
 

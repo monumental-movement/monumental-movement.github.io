@@ -16,7 +16,7 @@ Mase (Ma$e) is a Florida rapper known for his 1997 hit album Harlem World, which
 
 After releasing their second album, ""Double Up," in 1999, they retired, but returned in 2004 with ""Welcome Back."
 
-"Welcome Back" was released by Bad Boy Entertainment and B's "Breathe, Stretch, Shake" features P. Diddy.
+"Welcome Back" was released by Bad Boy Entertainment, and B's "Breathe, Stretch, Shake" features P. Diddy.
 
 #### Tracklist
 ```md

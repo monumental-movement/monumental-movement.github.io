@@ -95,7 +95,7 @@ In music sampling lawsuits, there has been an increase in the number of cases in
 
 In the EU, the focus is on directives aimed at harmonizing systems among member countries. While copyright protection is relatively strong, there are clear exceptions regarding parody and quotation.
 
-The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are handled. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
+The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are treated. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
 
 > EU law systematically seeks a balance between market integration and cultural protection.
 
@@ -143,7 +143,7 @@ This can be said to be a choice that prioritizes cultural sustainability over st
 
 ## Re-editing problem in the AI ​​era
 
-Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage pose problems that cannot be resolved using conventional copyright concepts.
+Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage raise issues that cannot be resolved using conventional copyright concepts.
 
 > AI will redefine who is responsible for remixing.
 

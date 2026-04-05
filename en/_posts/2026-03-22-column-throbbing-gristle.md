@@ -20,7 +20,7 @@ title: '[Column] Throbbing Gristle and the birth of industrial—the moment when
 
 Text: mmr｜Theme: A record of innovation that deconstructed the definition of music through noise and provocation and transformed the sounds of industrial society into art.
 
-In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question, ""What is music?'' remained fixed, with almost no one questioning it.
+In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question of ""What is music?'' remained fixed, with almost no one questioning it.
 
 Throbbing Gristle completely destroyed that premise.
 
@@ -58,7 +58,7 @@ Their works were often offensive and socially unacceptable. However, this was no
 
 ""Prostitution,'' held at the Institute of Contemporary Arts in London in 1976, is a symbolic event. The exhibition caused such an uproar that it was debated in the British Parliament, and they were denounced as "destroyers of civilization."
 
-However, what is important is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
+However, the important point is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
 
 COUM used their bodies, not their sounds, to clash with society. Throbbing Gristle was the one who translated that into sound.
 
@@ -94,7 +94,7 @@ This decision was extremely important. Their work was not accepted commercially 
 
 They managed all recording, production, distribution, and sales themselves. This complete autonomy became the basic model for the later independent scene.
 
-Industrial Records was more than just a label, it was an expansion device for thought. Not only the music, but also the visuals, text, logo, and packaging were all designed based on a unified concept.
+Industrial Records was more than just a label, it was an expansion device for ideas. Not only the music, but also the visuals, text, logo, and packaging were all designed based on a unified concept.
 
 In addition, the influence spread to other artists through this label. From this point on, the concept of "industrial" expanded into a concrete movement.
 
@@ -147,7 +147,7 @@ Their work was often misunderstood and treated as ""dangerous'' for its depictio
 
 In this respect, they were also pioneers of media criticism. It used sound and visuals to show how information is manipulated and consumed.
 
->They were a mirror of society, and at the same time a lens that amplified distortions.
+> They were a mirror of society, and at the same time a lens that amplified distortions.
 
 ---
 

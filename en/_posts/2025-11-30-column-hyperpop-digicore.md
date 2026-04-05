@@ -41,7 +41,7 @@ color: #fff;
 
 # 1. Overview: What is Hyperpop/Digicore?
 
-Hyperpop：
+Hyperpop:
 
 * Extreme fusion of pop x club x noise
 * Excessive pitch processing, collapsing drops, and glittering high-frequency synths
@@ -49,7 +49,7 @@ Hyperpop：
 
 Digicore:
 
-* SoundCloud/Discord 発の若年層による DIY ポップ
+* DIY pop by young people originating from SoundCloud/Discord
 * Lo-fi guitars, emo singing, simple beats, and artificial processing of vocal chains
 * "internet-core" aesthetics represented by glaive and ericdoa
 
@@ -140,7 +140,7 @@ flowchart TD
 
 ---
 
-# 5. 音響特徴：Digicore 側のサウンド構造
+# 5. Acoustic characteristics: Sound structure on Digicore side
 
 ## 5-1. Lo-fi guitar x emo singing
 

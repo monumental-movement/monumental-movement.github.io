@@ -75,7 +75,7 @@ Gabba Hardcore was not a culture that could be defined solely by hearing. Skinhe
 
 Sportswear and sneakers are the result of prioritizing functionality to allow people to continue dancing for long periods of time, and were formed without regard to trends in the fashion industry. Here, there was an aesthetic that was not ""for show" but ""for use."
 
-The dance was jumping, and was characterized by movements in which the whole body was thrown against the rhythm. Rather than individual expression, emphasis is placed on the collective elation that comes from sharing the same movement.
+The dance was jumping, and was characterized by movements in which the whole body was thrown against the rhythm. Rather than individual expression, emphasis is placed on the collective elation that comes from sharing the same movements.
 
 > Gaba's physicality was an extreme demonstration of music as a device for creating social solidarity.
 
@@ -129,7 +129,7 @@ Since the 2000s, a unique Japanese interpretation of hardcore has been formed, a
 
 Since the 2010s, 90s hardcore has been subject to re-evaluation. Elements that were once shunned because they were excessive have come to be seen as more of an element of sincerity.
 
-In the context of contemporary techno and experimental music, gabber-like speed and distortion are taking on new meaning. The former rebellion now serves as a reference point.
+Gabba-like speed and distortion are taking on new meaning in the context of contemporary techno and experimental music. The former rebellion now serves as a reference point.
 
 > Gabba Hardcore is an unfinished culture that continues to be reinterpreted over time.
 

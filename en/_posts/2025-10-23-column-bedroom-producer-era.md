@@ -84,7 +84,7 @@ SoundCloud in 2007, YouTube in 2005.
 These platforms have become ""windows'' for individuals to communicate directly to the world.
 The era has come when music can reach listeners around the world with just one piece of data, without having to go through traditional label contracts or distribution networks.
 
-### Individuals discovered
+### Individuals Discovered
 
 Clairo, Cuco, Joji, Porter Robinson, Madeon, Sasakure.UK….
 What they all have in common is that they all started in a room.
@@ -128,7 +128,7 @@ Their activities presented a new structure called ""pop music without an author.
 ### The intersection of Niconico Douga and YouTube
 
 As comment culture and derivative works intertwine in multiple layers, the bedroom has transformed into a place for collaborative production.
-""Creating by one person" eventually became meaningful in a network where ""many people resonated together."
+""Creating by one person" eventually came to have meaning in a network where ""many people resonate together".
 
 ---
 

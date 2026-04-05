@@ -120,7 +120,7 @@ The ""ma'', where the density of sound is thin and exists like air, was the fore
 | Air | French duo | Analog feel and floating melody |
 | Cornelius | Japan | Home acoustic sound construction |
 | Stereolab | British and French | Retro-Future Sound |
-| Beirut | America | Standard-bearer of accordion restoration |
+| Beirut | America | Standard-bearer of accordion revival |
 
 ---
 

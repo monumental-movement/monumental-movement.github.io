@@ -47,7 +47,7 @@ color: #fff;
 
 Established in the United States in the 1960s by La Monte Young, Terry Riley, Steve Reich, and Philip Glass, minimalism was characterized by short repetitions, gradual changes, and clear metrical structures. This is understood as a reaction to the celery music of the time and the increasingly complex avant-garde music.
 
-Minimalism eventually influenced opera, film music, and dance music, and became institutionally accepted in classical music in the second half of the 20th century.
+Minimalism eventually influenced opera, film music, and dance music, and became institutionally accepted in classical music in the late 20th century.
 
 ### Transition to post-minimalism
 

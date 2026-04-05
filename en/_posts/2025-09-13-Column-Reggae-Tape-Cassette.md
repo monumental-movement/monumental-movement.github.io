@@ -109,7 +109,7 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 
 ## Representative reggae artists by era
 
-The sounds of representative artists closely related to cassette culture are organized by decade.
+The sounds of representative artists closely related to cassette culture are organized by era.
 
 | Era | Representative artists/sounds | Characteristics |
 |------|----------------------------|------|

@@ -78,7 +78,7 @@ The term "Future Jazz" became established around Germany's Compost Records. The 
 - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)
 
 - **Equipment characteristics**
--Akai MPC3000
+- Akai MPC3000
 -EMU SP-1200
 -Roland JV-1080
 -Korg MS-20

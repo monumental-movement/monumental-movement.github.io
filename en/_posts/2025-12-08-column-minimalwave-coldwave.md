@@ -65,7 +65,7 @@ It is easy to understand if you understand it as follows:
 
 ---
 
-## 2. Background of the birth of the genre: electronic music revolution from the late 70s to the 80s
+## 2. Background of the birth of the genre: Electronic music revolution from the late 70s to the 80s
 
 ### ● 2-1. Technological innovation: Popularization of analog synths
 In the late 1970s, the price of synthesizers fell, making them affordable to ordinary musicians.

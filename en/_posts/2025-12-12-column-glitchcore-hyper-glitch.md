@@ -75,7 +75,7 @@ Glitchcore's BPM is not fixed and often fluctuates over a wide range of 100-180 
 **Characteristic elements:**
 
 * Extreme tempo changes
-* Editing that suddenly transitions to a different song in the middle of a song
+* Editing that suddenly transitions to another song in the middle of the song
 * Short hooks and fragmented melodies
 *Focus on strong 15-30 second hooks for TikTok
 
@@ -191,7 +191,7 @@ point:
 
 * Simultaneous firing of stems
 * Superimposition of dense layers
-* Too much bass
+* Excessive low range
 * Extreme use of sound pressure limiters
 
 ---
@@ -267,7 +267,7 @@ Another major feature is that anime-style expressions, Vocaloid culture, Interne
 
 ### 7-3 SoundCloud personality
 
-osquinn and glaive brought emo chord progressions, guitar touches, and light vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
+osquinn and glaive brought emo chord progressions, guitar touches, and airy vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
 
 ---
 

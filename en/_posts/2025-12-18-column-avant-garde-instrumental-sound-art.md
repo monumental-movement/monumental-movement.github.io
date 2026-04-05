@@ -55,7 +55,7 @@ In sound art, spatial arrangement is more important than temporal development. T
 
 ## Chapter 2: Avant-garde instrumental concepts
 
-### 2-1 Redefining instruments
+### 2-1 Redefinition of musical instruments
 
 In avant-garde instrumental music, instruments do not have a fixed form. Existing instruments are expanded or modified, or the environment itself is treated as an instrument. Microphones, speakers, resonators, and architectural spaces are equivalent components.
 

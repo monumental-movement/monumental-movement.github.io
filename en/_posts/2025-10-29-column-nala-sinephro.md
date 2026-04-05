@@ -113,7 +113,7 @@ Here, patching itself is an improvisational performance that transforms the list
 > - Ableton Live (for loop processing)
 
 This configuration is truly a "breathing device for humans and machines."
-Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic clarity.
+Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic transparency.
 It is also an act of sublimating music into a **technology prayer**.
 
 ---
@@ -140,7 +140,7 @@ At the same time, it is also a declaration of slowness in response to the speed 
 | 2018 | Join Total Refreshment Center and start improvisational sessions |
 | 2021 | "Space 1.8" released from Warp Records |
 | 2022 | International recognition gained by Gilles Peterson and others |
-| 2024 | Start of new production/modular live project |
+| 2024 | New production/modular live project start |
 
 ---
 

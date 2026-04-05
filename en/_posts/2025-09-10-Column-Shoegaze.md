@@ -39,7 +39,7 @@ Below, we will look back at the history of Shoegaze by decade, and introduce the
 - **Effector**: Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
 - **Amp**: Vox AC30, Fender Twin Reverb
 
-### 10 recommended songs (1980s)
+### Recommended 10 songs (1980s)
 
 <style type="text/css">
 
@@ -185,7 +185,7 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 - Popularization of **home recording/distribution environment**
 - **Hybrid operation of vintage equipment and latest technology**
 
-### 10 recommended songs (2020s)
+### Recommended 10 songs (2020s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|

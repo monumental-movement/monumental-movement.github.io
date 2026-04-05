@@ -59,7 +59,7 @@ At the same time, a movement to fuse rock and avant-garde art was gaining moment
 
 Tangerine Dream was formed in 1967, and their early work combined rock formations with avant-garde improvisation. In the early 1970s, he began composing using synthesizers and sequencers.
 
-What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-form structure that musicalizes the flow of time itself, which differs from traditional song formats.
+What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-length structure that musicalizes the flow of time itself, which differs from traditional song formats.
 
 ### Klaus Schulze
 
@@ -77,7 +77,7 @@ Ash Ra Tempel began as a project that fused electronic sounds, guitar, and impro
 
 ### Repeat structure with sequencer
 
-The most distinctive element of the Berlin School is the repeated sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
+The most distinctive element of the Berlin School is the repetitive sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
 
 ### Long format
 
@@ -157,7 +157,7 @@ From the late 1970s onwards, Berlin School composers expanded their activities i
 
 The Berlin School method of film music is characterized by its emphasis on spatial formation rather than melody-driven music. Rather than illustrating a story, music plays a role in constructing a psychological and physical environment.
 
-This practice was inherited in later cinematic ambient and sound design-oriented electronic music.
+This practice was inherited by later cinematic ambient and sound design-oriented electronic music.
 
 ---
 

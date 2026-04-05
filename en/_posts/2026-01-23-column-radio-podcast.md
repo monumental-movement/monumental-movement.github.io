@@ -128,7 +128,7 @@ These have become unnecessary elements for audio distribution.
 On-demand playback obviates the need for simultaneity and the concept of organization.
 Radio no longer needs to be a "broadcast".
 
->Sound has been freed from radio waves.
+> Voice has been liberated from radio waves.
 
 ---
 

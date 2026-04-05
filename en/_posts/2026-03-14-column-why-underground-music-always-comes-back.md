@@ -315,7 +315,7 @@ Often it is a strange and incomprehensible sound.
 
 But after a few years, the sound can become mainstream.
 
-> アンダーグラウンド文化は、音楽の未来を試す実験室である。
+> Underground culture is a laboratory for testing the future of music.
 
 ---
 

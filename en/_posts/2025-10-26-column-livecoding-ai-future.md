@@ -128,7 +128,7 @@ TOPLAP's philosophy of "opening up the process" is
 When AI joins this culture,
 We need to resist the "black box".
 
-If a generative AI proposes code, its learning process and decision criteria should also be made public.
+If a generative AI proposes a code, its learning process and decision criteria should also be made public.
 This is the key to unlocking the future of algorithmic music.
 
 ---
@@ -195,7 +195,7 @@ We are trying to create a **culture of sharing the "intelligence of performing"*
 
 Algorithms and humans, machines and emotions.
 Where the boundaries melt,
-A new musical horizon will rise.
+A new musical horizon rises.
 
 > Chords transcend sheet music, and AI learns to improvise.
 > Music is no longer a "human exclusive patent";

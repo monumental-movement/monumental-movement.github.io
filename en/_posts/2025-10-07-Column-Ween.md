@@ -84,7 +84,7 @@ The early Ween sound was the magic of home recording on **4-track cassette MTR**
 Leaves noise and distortion intact. It wasn't "filth", it was "truth".
 Their home recordings are a kind of lo-fi alchemy.
 The Pod is a bizarre mix of morbid laughter and psychedelic structure.
-It made listeners feel anxious, but at the same time it gave them an addictive feeling of pleasure.
+It made listeners feel uneasy while at the same time giving them an addictive feeling of pleasure.
 
 ### Contact with the underground scene
 

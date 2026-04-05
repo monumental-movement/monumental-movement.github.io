@@ -20,7 +20,7 @@ Text: mmr｜Theme: Rather than separating the two as genre names, the two are ab
 
 Ambient Techno is a field of electronic music that was established in the early 1990s, and is a musical style that combines the repetitive rhythmic structure of techno with the spatiality and sustainability of ambient music. Its distinctive feature is that it retains the sense of time of club music while also functioning as music for appreciation.
 
-Deep Ambient (so-called deep-sea ambient) has a higher level of abstraction and does not require the presence of beats. The main focus is on extremely deep sound images, sustained sounds centered on low frequency bands, and compositions that obscure the contours of time.
+Deep Ambient (so-called deep-sea ambient) has a higher level of abstraction and does not require the presence of beats. The main focus is on extremely deep sound images, sustained sounds centered on low frequencies, and compositions that obscure the contours of time.
 
 ---
 
@@ -100,7 +100,7 @@ Deep-sea ambient music has a high affinity with concentration, introspection, an
 
 ## 8. Redefining rhythm
 
-Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth meter.
+Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth gauge.
 
 In Deep Ambient, even this standard may be removed, but rather than being completely timeless, internal time is maintained through minute fluctuations.
 

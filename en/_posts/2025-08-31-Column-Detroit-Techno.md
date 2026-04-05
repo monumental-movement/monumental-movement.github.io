@@ -55,7 +55,7 @@ The line between DJ and producer was blurred, and the songs were refined through
 
 <hr>
 
-### Main characters and "representative songs"
+### Main characters and "signature songs"
 
 #### **Juan Atkins / Cybotron / Model 500**
 

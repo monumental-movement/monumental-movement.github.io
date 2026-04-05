@@ -139,7 +139,7 @@ This philosophy continues directly into today"s Max/MSP patching, Reaktor Blocks
 ## 5. Impact on modular culture
 
 Buchler and Sarge's philosophy redefined sound itself as a "social act."
-In other words, he shifted his focus from the ""instrument" to the ""environment" and ""interface.''
+In other words, he shifted his focus from ""instruments" to ""environments" and ""interfaces.''
 
 The modular "infinite combinations" of Eurorack are not simply the freedom of parts, but the very reconfiguration of meaning.
 Buchla"s ""physicality" and Serge"s ""structurality" have merged, and today's electronic music is becoming more and more ""decentric.''
@@ -193,4 +193,10 @@ Even now in 2025, we continue to listen to the poetry of that voltage.
 
 ---
 
+### YouTube Podcast
 
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bVHO4y4znW8?si=8bfuNpxwJy43R_SL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

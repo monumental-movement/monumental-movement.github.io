@@ -24,7 +24,7 @@ Music has long been understood as a combination of the design act of composition
 
 At the same time, in the field of art, there is a growing movement to place more value on the production process and the act itself than on the completed object. Events that occur outside the painting or sculpture, the passage of time, and the audience's reactions have come to be recognized as part of the work. Music was also not unrelated to this trend.
 
-In this chapter, we will summarize the historical background that led to sound transcending the framework of music and being reconsidered as actions and situations, and clarify the premises of each subsequent chapter.
+In this chapter, we will organize the historical background that led to sound transcending the framework of music and being reconsidered as actions and situations, and clarify the premises of each subsequent chapter.
 
 > The moment sound was recognized as an action, music began to stand on the same level as art.
 
@@ -61,7 +61,7 @@ Already here, music was presented not as something that could only be heard, but
 
 Dada activities do not have a unified style or technique. Instead, what was shared was a distrust of the existing value system. At a soirée at the Cabaret Voltaire, poetry readings turned into shouts, music dissolved into noise, and sudden physical movements interjected.
 
-Importantly, these were not rigorously designed in advance. The chain of coincidences, the performer"s mood, and the audience"s reactions became the compositional elements of the work. Music is no longer an object to be reproduced, but is generated as an ad hoc event.
+Importantly, these were not rigorously designed in advance. The chain of coincidences, the performer"s mood, and the audience"s reactions became the compositional elements of the piece. Music is no longer an object to be reproduced, but is generated as an ad hoc event.
 
 This attitude later became the prototype for open structures in improvised music and performance art.
 
@@ -71,7 +71,7 @@ This attitude later became the prototype for open structures in improvised music
 
 ## Chapter 3: John Cage and the Turning Point of Silence
 
-John Cage fundamentally challenged the premise that the composer is the subject of music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
+John Cage fundamentally challenged the premise that the composer is the main person who composes music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
 
 This structure shifted the center of gravity from the act of ""creating" music to the act of ""listening." A work is created not by its sonic content, but by its time frame and how it directs attention.
 
@@ -143,7 +143,7 @@ On the dance floor, individual bodies synchronize to the rhythm and form a colle
 
 In the 21st century, the functional differences between museums and music festivals have rapidly narrowed. Sound works performed in exhibition spaces are presented as timed performances, and images and spatial design are prerequisites for music events.
 
-The audience not only ""appreciates'' the work, but completes the experience by staying in the place and placing their bodies there. The genre classification is merely a matter of operational convenience; the experience design is the core of the work.
+The audience not only ""appreciates'' the work, but also completes the experience by staying in the place and placing their bodies there. The genre classification is merely a matter of operational convenience; the experience design is the core of the work.
 
 > The boundaries have not disappeared, but the focus of the question has shifted.
 

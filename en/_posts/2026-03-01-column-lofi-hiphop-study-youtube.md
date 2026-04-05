@@ -92,7 +92,7 @@ Representative of the 2010s SoundCloud generation. It gained popularity due to i
 
 ### Idealism
 
-Their melodious, piano-based Lo-Fi beats have expanded their support in the streaming era.
+Their melodic, piano-based Lo-Fi beats have expanded their support in the streaming era.
 
 > The major artists shared an attitude of emphasizing production aesthetics over commercialism.
 

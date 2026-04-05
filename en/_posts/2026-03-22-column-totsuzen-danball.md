@@ -52,7 +52,7 @@ color: #fff;
 
 ### Distance between cities and individuals
 
-In the late 1970s, Japan was at the end of its period of high economic growth, and society's values ​​were beginning to waver. The city continued to expand, but within it individuals felt increasingly isolated and uncomfortable.
+Japan in the late 1970s was at the end of its period of high economic growth, and society's values ​​were beginning to waver. The city continued to expand, but within it individuals felt increasingly isolated and uncomfortable.
 
 Even in the field of music, there is a movement to distance itself from the popular popular songs and rock. In contrast to the industrial structure centered around large studios and record companies, small-scale, autonomous production began to be explored.
 

@@ -213,7 +213,7 @@ What the empirical data shows is not a simple cause and effect that music determ
 
 Although it manifests itself differently depending on the country and system, the music you listen to in your youth continues to serve as a reference point throughout your life.
 
-> Musical experiences in early life are not a map of life, but a compass.
+> Musical experiences in early childhood are not a map of life, but a compass.
 
 ---
 

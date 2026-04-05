@@ -49,7 +49,7 @@ color: #fff;
 - Roger Sanchez — *Luv Dancin'* (1990, under the name Underground Solution)
 
 **Equipment trends**
-There were many productions using turntables and samplers (early SP series and Akai) that took advantage of the "loop feeling" of records.
+Many of the productions used turntables and samplers (early SP series and Akai) to take advantage of the "loop feeling" of records.
 
 ---
 
@@ -172,7 +172,7 @@ The brand/catalog is still active and is used as an "asset" for reissues, compil
 
 | No | Artist | Track | Comments |
 |---|---|---|---|
-| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered with smooth sound quality. |
+| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered, smooth sound quality. |
 | 2 | Dennis Ferrer | Maniac 3000 | Features a modern and sophisticated house beat. |
 | 3 | Quentin Harris | My Joy (Re-edit) | Deep house re-edited for clubs. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | A reinterpretation of vocal house, full of emotion. |

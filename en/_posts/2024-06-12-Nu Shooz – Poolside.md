@@ -14,7 +14,7 @@ title: Nu Shooz – Poolside
 ---
 
 
-Nu Shooz is a pop, Latin, freestyle, and electronic dance music duo based in Portland, Oregon, USA, formed by husband and wife duo John Smith and Valerie Day.
+Nu Shooz is a pop, Latin, freestyle, and electronic dance music duo based in Portland, Oregon, USA, formed by husband and wife team John Smith and Valerie Day.
 
 "Poolside", released in 1986, is Nu Shooz's third album and was a hit that was certified gold by the Recording Industry Association of America and the Recording Industry Association of Canada.
 

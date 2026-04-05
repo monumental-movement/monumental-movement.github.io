@@ -60,7 +60,7 @@ The music was conceived in parallel with the film's production. Director Otomo s
 
 ### Positional relationship with Cyberpunk
 
-Akira is often ranked as a masterpiece of cyberpunk. Blade Runner came out in 1982, six years before the movie was released. This one depicts urban decadence using Vangelis's synth sounds.
+AKIRA is often ranked as a masterpiece of cyberpunk. Blade Runner came out in 1982, six years before the movie was released. This one depicts urban decadence using Vangelis's synth sounds.
 
 On the other hand, AKIRA did not express the future only with electronic sounds. Rather, it brought to the fore ethnic, ritual, and physical sounds, sounding technology and magic at the same time.
 
@@ -100,7 +100,7 @@ It was a sound that belonged neither to the past nor to the future.
 
 <div class="mermaid">
 flowchart TD
-A[ethnic percussion instruments] --> D[acoustic layered structure]
+A[ethnic percussion instruments] --> D[Acoustic layered structure]
 B[Chorus/Statement] --> D
 C[synthesizer] --> D
 D --> E[A sense of the future that transcends time axis]
