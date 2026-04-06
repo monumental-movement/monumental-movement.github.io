@@ -9,7 +9,7 @@ permalink: /de/pickup-drum-and-bass/
 tags:
 - Drum n Bass
 - Jungle
-title: Erlerne Drum-and-Bass-Werke
+title: Nehmen Sie Drum-and-Bass-Werke auf
 ---
 
 
@@ -83,7 +83,7 @@ AA. Fluid
 ### Motiv Eins – Cosmik / Loop Progression
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Enthält einen leichten, jazzigen, futuristischen Sound mit Schwerpunkt auf Amen-Pausen.
+Enthält leichte, jazzige, futuristische Klänge mit einem Hauptbreak.
 
 #### Trackliste
 ```md

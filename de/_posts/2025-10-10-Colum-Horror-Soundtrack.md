@@ -52,7 +52,7 @@ Die Ankunft von A24 erhöhte den Horror in den Kontext des Kunstkinos.
 Akustisches Design, das die Grenze zwischen Stille und Lärm verwischt, war das Herzstück der A24-Ästhetik.
 
 続く[『Hereditary／ヘレディタリー』（2018）](https://amzn.to/470xAxf)では、[Colin Stetson](https://amzn.to/438tcv3)のサクソフォニック・ドローンが異様な緊張を形成する。  
-Das Atemgeräusch, die Resonanz der verzerrten Stimmzungen, die Vibrationen des tiefen Basses – all diese Dinge lassen Sie körperlich die Präsenz einer „unsichtbaren Präsenz“ spüren.
+Das Atemgeräusch, die Resonanz der verzerrten Stimmzungen, die Vibrationen des tiefen Basses – diese Dinge lassen Sie die Anwesenheit einer „unsichtbaren Präsenz“ körperlich spüren.
 
 [『Midsommar』（2019）](https://amzn.to/3WzeBFe)では、[The Haxan Cloak](https://amzn.to/4mV3nFT)、[Bobby Krlic](https://amzn.to/473kC1M) が北欧の民族儀礼音楽と電子ノイズを融合。 
 Im Gegensatz zu den sonnigen Bildern verwischte der Ton die Grenze zwischen Feierlichkeit und Wahnsinn und eröffnete dem Horror eine neue Grenze.
@@ -166,7 +166,7 @@ Angst ist nicht länger auf die Ohren des Einzelnen beschränkt.
 ### Letztes Kapitel: Angst ist hörbar – die kulturelle Bedeutung moderner Horror-Audios
 
 In Horrorfilmen seit 2010 geht der Ton über die bloße Präsentation hinaus und ist zu einem Medium geworden, das die Existenz des Films in Frage stellt.
-Colin Stetsons Bass-Atem, Disasterpeaces elektronische Spannung, Bobby Krlics ritueller Rhythmus ...
+Colin Stetsons Bass-Atem, Disasterpeaces elektronische Spannung, Bobby Krlics ritueller Rhythmus.
 All dies sind akustische Übersetzungen der Frage „Was ist Angst?“
 
 Die Geräusche des Grauens spiegeln soziale Ängste und individuelle Einsamkeit wider.

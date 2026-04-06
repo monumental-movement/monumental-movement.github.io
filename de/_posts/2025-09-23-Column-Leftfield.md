@@ -85,7 +85,7 @@ flowchart TD
 
 ### Verwandte Schlüsselwörter / Verwandte Schlüsselwörter
 
-Leftfield-Genre, britische Electronica, Beziehung zu Trip Hop
+Leftfield-Genre, britische Electronica, Beziehung zum Trip Hop
 
 
 

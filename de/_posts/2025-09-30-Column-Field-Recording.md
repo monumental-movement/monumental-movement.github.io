@@ -16,7 +16,7 @@ title: '[Spalte] Feldaufnahme: Techniken, Geschichte und empfohlener Disc-Leitfa
 
 ## Warum Field Recording?
 
-Text: mmr｜Thema: Behandelt die Geschichte der Außenaufnahme, Merkmale wichtiger Geräte, repräsentative Aufnahmekünstler/Produzenten und empfohlene Alben nach Generation.
+Text: mmr｜Thema: Behandelt die Geschichte der Feldaufnahme, Merkmale wichtiger Geräte, repräsentative Aufnahmekünstler/Produzenten und empfohlene Alben nach Generation.
 
 
 Bei der Feldaufnahme wird das Studio verlassen und die „Geräusche des Feldes“ so aufgenommen, wie sie sind. Naturgeräusche, städtische Umgebungsgeräusche, Volkslieder, Geräusche von Eisenbahnen und Fabrikmaschinen – das sind nicht nur Soundeffekte, sondern kulturelle Archive und musikalische Materialien. Es ist eine wesentliche Technologie für Filme, Spiele, Musikproduktion und Klangkunst.
@@ -77,7 +77,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 | **Hildegard Westerkamp** | Soundwalk/Akustische Ökologie-Bewegung. Werke: *Kits Beach Soundwalk* | Ursprünglich Nagra-Band, jetzt komplett digitale Geräte |
 | **Toshiya Tsunoda** | Japanischer Klangkünstler. Nehmen Sie winzige Geräusche aus Containern und in der Stadt auf. Repräsentative Werke: *Auszug aus dem Field Recording Archive* | DAT-Recorder, Kondensatormikrofon, Kontaktmikrofon |
 | **Francisco López** | Unbearbeitete oder verarbeitete Umgebungsgeräusche aus aller Welt zur Schaffung von Werken. Repräsentative Werke: *La Selva* | DAT-Recorder (früh), derzeit Sound Devices, Schoeps-Mikrofon |
-| **Annea Lockwood** | Repräsentative Werke: *A Sound Map of the Hudson River* | Feldrekorder (Nagra → digital), Unterwassermikrofon (Hydrophon) |
+| **Annea Lockwood** | Viele Arbeiten beschäftigen sich mit dem Thema Natur und Umwelt. Repräsentative Werke: *A Sound Map of the Hudson River* | Feldrekorder (Nagra → digital), Unterwassermikrofon (Hydrophon) |
 | **Ryuichi Sakamoto** | In seinen späteren Jahren sammelte er Umweltgeräusche und reflektierte sie in seinen Werken. Repräsentative Werke: *async* | Zoom H-Serie, DPA-Mikrofon, Unterwassermikrofon |
 
 
@@ -171,7 +171,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 
 #### Nagra von Bernie Krause
 
-- Der Akku, den ich bei meinen frühen Naturaufnahmen auf dem Rücken trug, wog über 10 kg.
+- Die Batterie, die ich bei meinen frühen Naturaufnahmen auf dem Rücken trug, wog über 10 kg.
 
 - „Ich habe mehr Angst, etwas zu verpassen, als müde zu sein“, sagte er.
 

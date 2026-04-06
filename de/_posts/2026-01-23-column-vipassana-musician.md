@@ -23,11 +23,11 @@ Text: mmr｜Thema: Der Moment, in dem sich Musik und Vipassana-Meditation kreuze
 
 
 Musik und Meditation. Auf den ersten Blick scheinen diese in völlig unterschiedlichen Bereichen angesiedelt zu sein, aber beide erfordern eine tiefe innere Beobachtung, Atmung und Konzentration auf den Rhythmus und sie haben eine gemeinsame Basis, die die menschliche Sensibilität fördert.
-Unter diesen wird die **Vipassana-Meditation (Einsichtsmeditation)** von Menschen auf der ganzen Welt als eine Technik zur Beobachtung von Gedanken und Empfindungen, wie sie wirklich sind, akzeptiert.
+Unter diesen wird die **Vipassana-Meditation (Einsichtsmeditation)** von Menschen auf der ganzen Welt als Technik zur Beobachtung von Gedanken und Empfindungen so akzeptiert, wie sie wirklich sind.
 
 Diese Kolumne konzentriert sich auf **berühmte Musiker, die Vipassana-Meditation praktiziert und erlebt haben** und bietet eine faktenbasierte Einführung, wie sie Meditation in ihre eigenen Kreationen und Leben integriert haben.
 
-> Vipassana-Meditation wird seit der Antike als Meditationsmethode weitergegeben, um „die Dinge so zu sehen, wie sie wirklich sind“, und in der heutigen Zeit tauchen viele Praktizierende nicht nur unter Sportlern und Führungskräften in der Wirtschaft auf, sondern auch unter kreativen Künstlern.
+> Vipassana-Meditation wird seit der Antike als Meditationsmethode weitergegeben, um „die Dinge so zu sehen, wie sie wirklich sind“, und in der heutigen Zeit tauchen viele Praktizierende nicht nur unter Sportlern und Führungskräften aus der Wirtschaft, sondern auch unter kreativen Künstlern auf.
 
 ---
 
@@ -51,7 +51,7 @@ color: #fff;
 > Vipassana ist eine alte Meditationsmethode, die bedeutet, „die Dinge so zu sehen, wie sie wirklich sind“, und wird auch heute noch häufig praktiziert, um durch Selbstbeobachtung und geistige Reinigung einen ausgeglichenen Geist zu kultivieren.
 
 Die Vipassana-Meditation hat ihre Wurzeln in der buddhistischen Tradition, hat sich jedoch als universelle Technik unabhängig von der Religion weit verbreitet.
-Die Grundlagen bestehen darin, **sorgfältig Ihre Atmung und Ihre Körperempfindungen zu beobachten und den natürlichen Fluss von Gedanken und Emotionen zu erkennen**.
+Die Grundlagen sind **sorgfältiges Beobachten Ihrer Atmung und Körperempfindungen sowie das Erkennen des natürlichen Gedanken- und Gefühlsflusses**.
 
 Moderne Praktiker berichten oft, dass sie ihre mentalen Reaktionen durch Beobachtung und Achtsamkeit beruhigen können und dadurch **Kreativität und Konzentration verbessern**.
 
@@ -121,7 +121,7 @@ graph LR
     E --> F[音楽の質の向上]
 </div>
 
-> Das obige Diagramm veranschaulicht den Prozess, durch den Meditation Aufmerksamkeit und Bewusstsein fördert, was letztlich die Kreativität und den musikalischen Ausdruck beeinflusst.
+> Das obige Diagramm veranschaulicht den Prozess, durch den Meditation Aufmerksamkeit und Bewusstsein fördert, was letztendlich die Kreativität und den musikalischen Ausdruck beeinflusst.
 
 ---
 

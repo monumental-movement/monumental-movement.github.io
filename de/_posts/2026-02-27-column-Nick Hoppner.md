@@ -77,7 +77,7 @@ D --> E[国際流通]
 
 ---
 
-## Bodenpraxis: Long-Set-Methodik
+## Bodenübung: Long-Set-Methodik
 
 ### Resident-Stelle
 
@@ -108,7 +108,7 @@ C --> D[再び削ぎ落とす]
 
 ## Akustische Philosophie: Produktion basierend auf der Prämisse des Klangs
 
-### Entwickelt für die Club-Akustik
+### Konzipiert für die Club-Akustik
 
 Berghain verfügt über ein Soundsystem, das für seine hohe Leistung bekannt ist. Der Bass ist tief, der Nachhall lang und der Raum riesig. Unter diesen Bedingungen führt übermäßige Dekoration zu Trübungen.
 
@@ -126,7 +126,7 @@ Der Track ist keine lineare Spitzenstruktur, sondern soll subtile Veränderungen
 
 ## Kuration: Die Arbeit des Webens von Kontext
 
-Die Compilations und Berghain-bezogenen Mixe von Ostgut Ton sind mehr als nur DJ-Produktionen. Dabei handelt es sich um einen redaktionellen Akt, der die Vereinsphilosophie chronologisch darstellt.
+Die Compilations und Berghain-bezogenen Mixes von Ostgut Ton sind mehr als nur DJ-Produktionen. Dabei handelt es sich um einen redaktionellen Akt, der die Vereinsphilosophie chronologisch darstellt.
 
 Höppner war an diesem Bearbeitungsprozess beteiligt und präsentierte den musikalischen Querschnitt des Berghain nach außen. Wichtig hierbei ist, dass die Auswahl einer Klangquelle auch eine Kontextdefinition ist.
 

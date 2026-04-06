@@ -23,7 +23,7 @@ Text: mmr｜Thema: Wie DJ-Sets, experimentelle Musik und unbekannte Live-Auftrit
 
 Zu Beginn des 21. Jahrhunderts weiteten sich die Räume für Musikaufführungen allmählich von physischen Veranstaltungsorten wie Clubs und Konzertsälen zu Orten aus, an denen Musik über das Internet verbreitet wird. Vor allem seit den 2010er Jahren hat sich Live-Musik-Streaming als eigenständige Form der Aufführung etabliert, statt nur als Aufnahme oder Ausstrahlung.
 
-NTS Radio und Boiler Room haben unterschiedliche Ursprünge und Philosophien innerhalb dieser Strömung, aber sie sind es, die die Live-Streaming-Kultur international sichtbar gemacht haben. Gemeinsam ist beiden die Genreübergreifendheit, die Improvisation und die Haltung, sich vom bestehenden Rahmenwerk der Musikindustrie zu distanzieren.
+NTS Radio und Boiler Room haben unterschiedliche Ursprünge und Philosophien innerhalb dieser Strömung, aber sie sind es, die die Live-Streaming-Kultur international sichtbar gemacht haben. Beiden gemeinsam ist die Genreübergreifendheit, die Improvisation und die Haltung, sich vom bestehenden Rahmenwerk der Musikindustrie zu distanzieren.
 
 ---
 
@@ -55,7 +55,7 @@ Ein Merkmal von NTS ist, dass es keinem bestimmten Genre einen Vorteil bei der P
 
 Boiler Room begann als Projekt zum Streamen kleiner Indoor-DJ-Events in London. Die Kamera betritt den gleichen Raum wie der DJ und zeichnet sich durch ein Format aus, das die Anwesenheit des Publikums einbezieht.
 
-Dieses Format unterscheidet sich von herkömmlichen Videoaufzeichnungen, bei denen eine Kamera hinter der DJ-Kabine installiert ist, und hat eine Struktur, bei der sich Publikum, Raum und Künstler alle im selben Bild befinden. Infolgedessen wurde der DJ-Auftritt als ein Ausdruck visualisiert, der „körperliches und soziales Verhalten“ umfasst, und nicht als ein Akt „nur des Klangs“.
+Dieses Format unterscheidet sich von herkömmlichen Videoaufnahmen, bei denen eine Kamera hinter der DJ-Kabine platziert wird, dadurch, dass sich Publikum, Raum und Künstler alle im selben Bild befinden. Infolgedessen wurde der DJ-Auftritt als ein Ausdruck visualisiert, der „körperliches und soziales Verhalten“ umfasst, und nicht als ein Akt „nur des Klangs“.
 
 ---
 
@@ -101,7 +101,7 @@ Extreme Bassklänge und subtile Dynamiken lassen sich beispielsweise in einer St
 
 NTS und Boiler Room haben ihre Sendungen archiviert und zum späteren Ansehen und Anhören zur Verfügung gestellt. Dieser Archivcharakter verwandelt Live-Auftritte von kurzlebigen Ereignissen in referenzierbare Materialien.
 
-Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit neu interpretieren, sondern auch durch späteres Anschauen.
+Die Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit, sondern auch durch das spätere Ansehen neu interpretieren.
 
 ---
 
@@ -167,7 +167,7 @@ Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen Material mitten in
 
 ## Ergänzendes Kapitel 3 Beispieldichte über Genres hinweg
 
-Betrachtet man die Aktivitäten von Live-Streaming-Künstlern, ist Cross-Genre eher die Regel als die Ausnahme. Fragmente aus Tanzmusik, Noise, Jazz, Volksmusik und Pop werden im selben Set aneinandergereiht.
+Betrachtet man die Aktivitäten von Live-Streaming-Künstlern, ist Cross-Genre eher die Regel als die Ausnahme. Fragmente aus Tanzmusik, Noise, Jazz, Volksmusik und Pop werden im selben Set verkettet.
 
 Dies ist eher ein Ergebnis veränderter Hörbedingungen im Vertriebsumfeld als eine bewusste Avantgarde. Das Hören über längere Zeiträume in einer privaten Umgebung ermöglicht schnelle Genrewechsel.
 
@@ -185,17 +185,17 @@ Insbesondere auf NTS erstellen DJs Musikarchive, indem sie ihre Programme über 
 
 ## Ergänzendes Kapitel 5 Videointervention und -verweigerung
 
-Während Boiler Room aktiv Videos einbezieht, hat NTS ein audiozentriertes Design beibehalten. Dieser Unterschied hat direkte Auswirkungen auf die Leistungsrichtung.
+Während Boiler Room aktiv Videos einbezieht, hat NTS ein audiozentriertes Design beibehalten. Dieser Unterschied wirkt sich direkt auf die Leistungsrichtung aus.
 
 Wenn Bilder existieren, haben körperliche Bewegungen und räumliche Konfigurationen eine Bedeutung. Wenn die Bilder begrenzt sind, rücken die Anordnung der Töne und die zeitliche Struktur in den Vordergrund.
 
 ---
 
-## Ergänzungskapitel 6 Improvisation verwalten
+## Ergänzungskapitel 6 Improvisation managen
 
 Improvisation ist nicht chaotisch. Live-Streaming-Künstler entwerfen Improvisationen basierend auf Bedingungen wie Streaming-Zeit, Anzahl der Zuhörer und technischen Einschränkungen.
 
-Unbekanntheit erscheint eher als kontrollierte Ungewissheit als als purer Zufall.
+Unbekanntheit erscheint eher als kontrollierte Ungewissheit als als reiner Zufall.
 
 > „Bei der Improvisation geht es nicht darum, die Kontrolle zu verlieren, sondern darum, den Kontrollbereich wiederherzustellen.“
 
@@ -217,7 +217,7 @@ NTS und Boiler Room haben ein Modell demonstriert, das sich von der traditionell
 
 ---
 
-## Ergänzungskapitel 9 Bezug zur Musikgeschichte
+## Ergänzendes Kapitel 9 Bezug zur Musikgeschichte
 
 Diese Live-Streaming-Kulturen stehen im Einklang mit der Geschichte der Improvisationsmusik, der experimentellen Musik und der DJ-Kultur. Neue Technologien machen bestehende Praktiken nicht unsichtbar, sondern positionieren sie neu.
 

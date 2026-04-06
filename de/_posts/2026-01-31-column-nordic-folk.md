@@ -24,7 +24,7 @@ Text: mmr｜Thema: Eine lange Studie, die die dunkle Seite der Mythen und Volksg
 
 Die als Nordic Folk bekannte Musikkultur bezieht sich auf die Gesamtheit der Volkslieder, Tänze und Gesänge, die in Regionen wie Norwegen, Schweden, Finnland, Dänemark und Island überliefert wurden. Schon bevor diese Genres moderne Namen erhielten, existierten sie als Musik, die eng mit Leben, Glauben, Arbeit und Tod verbunden war.
 
-Die Melodien basieren oft auf einer Moll-Tonart, sind repetitiv und haben einen musikalischen Takt, der eher Spannung und Stille als „Helligkeit“ im modernen Sinne enthält. In den Texten geht es oft um Themen wie Tote, Geister, Geister, Flüche und Verrat, aber auch um Geschichten über Heldentum und Liebe.
+Die Melodien basieren oft auf einer Moll-Tonart, sind repetitiv und haben einen musikalischen Verlauf, der eher Spannung und Stille als „Helligkeit“ im modernen Sinne enthält. In den Texten geht es oft um Themen wie Tote, Geister, Geister, Flüche und Verrat, aber auch um Geschichten über Heldentum und Liebe.
 
 Diese Eigenschaft ist kein Zufall, sondern hängt eng mit der Struktur des mythologischen Systems und des Volksglaubens in der nordischen Welt zusammen.
 
@@ -53,7 +53,7 @@ Um die Dunkelheit des nordischen Volkes zu verstehen, ist es notwendig, die grun
 
 Götter sind nicht unsterblich, aber sie müssen mit Alter, Verrat und Tod rechnen. Odin opfert seine Augen, um Wissen zu erlangen, und Loki wird zum Gott, aber auch zum Zerstörer, was zum Ende der Welt führt.
 
-Das Wichtige an diesem mythologischen System ist, dass es keine Annahme gibt, dass die Ordnung ewig bestehen wird. Eine Weltanschauung, die auf dem Aussterben basiert, lässt musikalische Ausdrucksformen stärker das Schicksal als die Hoffnung widerspiegeln.
+Das Wichtige an diesem mythologischen System ist, dass es keine Annahme gibt, dass die Ordnung ewig bestehen wird. Eine Weltanschauung, die auf dem Verderben basiert, lässt musikalische Ausdrucksformen stärker das Schicksal als die Hoffnung widerspiegeln.
 
 > Die nordische Mythologie enthält die Idee, eher ein unausweichliches Ende als eine Erlösung zu akzeptieren.
 
@@ -66,7 +66,7 @@ In der nordischen Region blieb der Volksglaube auch nach dem Christentum noch la
 
 Weibliche Waldgeister wie der schwedische Skogsloh, der norwegische Huldra und der finnische Metsan Vaki gelten als schön und einladend, sollen aber für diejenigen, die ihnen zu nahe kommen, zerstörerisch sein.
 
-Volksliedtexte erzählen immer wieder Geschichten von Begegnungen mit diesen Wesen, die zu Tod oder Wahnsinn führten. Dies waren keine Fabeln, sondern dienten als praktische Warnungen für das Zusammenleben mit der Natur.
+Volksliedtexte erzählen immer wieder Geschichten von Begegnungen mit diesen Wesen, die zum Tod oder zum Wahnsinn führten. Dies waren keine Fabeln, sondern dienten als praktische Warnungen für das Zusammenleben mit der Natur.
 
 > Die Dunkelheit des skandinavischen Volkes war keine Horrorproduktion, sondern Weisheit zum Überleben.
 
@@ -101,7 +101,7 @@ Die Struktur des Instruments selbst bildet eine Klangwelt, die eine klare Auflö
 ## Christianisierung und Transformation der dunklen Mythologie
 
 
-Auch nachdem die nordische Welt christlich wurde, verschwanden alte Mythen und animistische Überzeugungen nicht vollständig. Diese werden als Häresien, Aberglauben und Volksmärchen umgedeutet und in Volkslieder überführt.
+Auch nachdem die nordische Welt christlich wurde, verschwanden alte Mythen und der Animismus nicht vollständig. Diese werden als Häresien, Aberglauben und Volksmärchen umgedeutet und in Volkslieder eingearbeitet.
 
 Christliche Konzepte wie Teufel, Hölle und Sünde wurden mit bestehenden dunklen Wesenheiten kombiniert, um neue Erzählungen zu bilden. Dadurch erhält der nordische Folk eine doppelte Dunkelheit.
 

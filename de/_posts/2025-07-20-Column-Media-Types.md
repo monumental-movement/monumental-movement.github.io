@@ -11,8 +11,8 @@ tags:
 - CD
 - Cassette
 - History
-title: '[Kolumne] „Vom Klang einer Nadel bis zum Strömen lebt der Klang im Laufe der
-  Zeit weiter.“ Von der Ära des Zurückspulens zur Ära des unendlichen Überspringens'
+title: '[Kolumne] „Vom Geräusch einer Nadel bis zum Strömen lebt der Klang im Laufe
+  der Zeit weiter.“ Von der Ära des Zurückspulens zur Ära des unendlichen Überspringens'
 ---
 
 
@@ -196,7 +196,7 @@ Zukunft: Obwohl es als verpacktes Medium schrumpft, liegt der Schlüssel darin, 
 
 Aktueller Stand: Fast vom Markt verschwunden. Auch in Japan gehört eine gewisse Unterstützung der Vergangenheit an.
 
-Zukünftig: Es wird nur noch für eine begrenzte Zeit zur Konservierung oder als Hobby verbleiben.
+Zukünftig: Es bleibt nur noch für eine begrenzte Zeit zur Konservierung oder als Hobby übrig.
 
 
 <hr>
@@ -212,7 +212,7 @@ Dolby Atmos ist eine objektbasierte 3D-Soundtechnologie, die über den herkömml
 
 Eine Schallbildplatzierung in Höhenrichtung ist möglich
 
-Verbessert das Live-Feeling und das Gefühl der Präsenz von Filmen, Spielen und Musik erheblich
+Verbessert das Live-Feeling und das Präsenzgefühl von Filmen, Spielen und Musik erheblich
 
 Kann in Heimkinos, Kopfhörern und Smartphones abgespielt werden
 
@@ -241,7 +241,7 @@ Kombiniert mit hochauflösenden Klangquellen für ein noch intensiveres Hörerle
 
 Der Übergang von physischen Medien zu Streaming ist fast abgeschlossen
 
-Der Schwerpunkt der nächsten Generation liegt auf der Unterstützung hochwertiger Klangverteilung (hohe Auflösung, MQA) und räumlichen Audios (Dolby Atmos, Sony 360 Reality Audio).
+Der Schwerpunkt der nächsten Generation liegt auf der Unterstützung hochwertiger Klangverteilung (High Resolution, MQA) und räumlichen Audios (Dolby Atmos, Sony 360 Reality Audio).
 
 
 <hr>

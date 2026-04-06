@@ -123,7 +123,7 @@ Dieser Wandel vom „Zuhören“ zum „Mitmachen“ verwandelt Musik in ein „
 
 ### Kapitel 5: Klangtrends – Koexistenz von Stille und Dichte
 
-Auch die Klangtrends selbst verändern sich.
+Auch die Klangtrends selbst ändern sich.
 Charakteristisch für das Jahr 2025 ist das Nebeneinander von Stille (Minimal) und Dichte (Maximum).
 
 #### „Quiet Club“ und „introspektive Electronica“
@@ -135,7 +135,7 @@ In Japan erforschen Food-Festivals, auch bekannt als Foodman und Yahyel, „ruhi
 #### Im Gegenteil, es gibt auch eine Bewegung zur Beherrschung der „Dichte“
 
 Andererseits sind die Klänge im Post-Hyperpop-Trend immer gesättigter, fragmentierter und lauter geworden.
-Das übermäßige Bearbeitungsgefühl von 100 Gecs und Dorian Electra ist auch eine Anspielung auf die Frage „Inwieweit können wir Pop zerstören?“
+Das übermäßige Bearbeitungsgefühl von 100 Gecs und Dorian Electra ist auch eine Anspielung auf die Frage: „Inwieweit können wir Pop zerstören?“
 In einer von KI geschaffenen Welt ist „Zerstörung“ zu einer neuen Form der Kreativität geworden.
 
 ---
@@ -156,7 +156,7 @@ Zuhörer suchen nach „Liedern, die die Atmosphäre verändern“, und Künstle
 #### Das Albumformat neu definieren
 
 Bemerkenswert ist auch, dass das Album als „Sammlung von Geschichten“ neu gedacht wird.
-Billie Eilishs „HIT ME HARD AND SOFT“ (2024) beispielsweise legte Wert auf „ein tiefgreifendes Erlebnis während des gesamten Werks“ und nicht auf die Viralität jedes Songs.
+Billie Eilishs „HIT ME HARD AND SOFT“ (2024) beispielsweise legte Wert auf „ein tiefgreifendes Erlebnis während des gesamten Werks“ und nicht auf die Viralität jedes einzelnen Songs.
 Der Akt des „Albenhörens“ ist im Streaming-Zeitalter paradoxerweise zu einer luxuriösen Art geworden, Zeit zu verbringen.
 
 ---

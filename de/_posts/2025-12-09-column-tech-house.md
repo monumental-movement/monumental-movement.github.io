@@ -58,7 +58,7 @@ Tech House wird oft mit „einem Subgenre von Techno“ oder „einem Subgenre v
 
 ## 2. 1980er bis 1990er Jahre: Hintergrund des Establishments
 
-Die Ursprünge von Tech House sollen in der Clubkultur der frühen 1990er Jahre in Großbritannien, insbesondere rund um London, liegen.
+Die Ursprünge von Tech House sollen in der Clubkultur der frühen 1990er Jahre in Großbritannien, insbesondere in der Umgebung von London, liegen.
 Zu dieser Zeit waren Acid House und Rave in Großbritannien beliebt und verschiedene Stile wie Hard House, Progressive House, Techno und Tribal House wurden miteinander vermischt.
 
 Insbesondere die folgenden Trends waren die Grundlage für die Gründung von Tech House.
@@ -85,7 +85,7 @@ Von besonderer Bedeutung sind:
 * Wiggle (Party und Label)
 * Swag Records
 
-Obwohl sie House-Wurzeln hatten, experimentierten sie aktiv mit technoähnlicher Klangverarbeitung, der Minimierung des Grooves und der Straffung des Basses.
+Während sie House-Wurzeln hatten, experimentierten sie aktiv mit technoähnlicher Klangverarbeitung, der Minimierung des Grooves und der Straffung des Basses.
 Einer der Gründe, warum der Name Tech House so beliebt wurde, waren ihre DJ-Mixe und langjährigen Auftritte in den Clubs The End und Fabric.
 
 Das Folgende ist ein prägnantes Diagramm der Genealogie des frühen Tech House.
@@ -153,7 +153,7 @@ flowchart TD
 
 ## 6. Klangveränderungen
 
-Gegen Ende der 2000er Jahre erlebte Tech House die folgenden Veränderungen.
+Gegen Ende der 2000er Jahre erfuhr Tech House die folgenden Veränderungen.
 
 * **Detailliertere Rhythmusanordnung**
 * **Zunahme der Unterbasis** (verstärkter Einfluss Deutschlands und Südamerikas)
@@ -169,7 +169,7 @@ Zu dieser Zeit zeichnete sich Tech House dadurch aus, dass es „weicher als Min
 
 In den 2010er Jahren entwickelte sich Tech House zu einem der am häufigsten gespielten 4/4-Takte in Clubs und Festivals auf der ganzen Welt. Besonders groß war der Nachfrageanstieg auf Ibiza.
 
-Beispiele namhafter Künstler:
+Beispiele vorgestellter Künstler:
 
 *Jamie Jones (Hot Creations)
 *Lee Foss
@@ -249,7 +249,7 @@ Obwohl Tech House nicht an eine bestimmte Ausrüstung gebunden ist, sind im Allg
 * Drum-Machine-Soundquellen wie 909, 808, 707 usw.
 * Überwiegend probenbasierte Verarbeitung statt modular
 * Der Hall ist kurz
-* Den Mitteltonbereich mit dem EQ anziehen
+* Den Mitteltonbereich mit dem EQ straffen
 * Allmähliche Entwicklung in Einheiten von 16–24 bar
 
 Die Produktionsphilosophie betont die „Ästhetik der Subtraktion“ und die „Gestaltung von Leerräumen, die in einen Clubraum passen“.
@@ -308,3 +308,11 @@ In diesem Artikel haben wir systematisch organisiert, wie das Genre Tech House e
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8MyVwGRDawQ?si=dJehTw3TB74dE6Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

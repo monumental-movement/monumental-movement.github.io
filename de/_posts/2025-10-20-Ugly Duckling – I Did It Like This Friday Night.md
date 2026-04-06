@@ -9,7 +9,7 @@ permalink: /de/ugly-duckling-i-did-it-like-this-friday-night/
 tags:
 - Hiphop
 - 00s
-title: Hässliches Entlein – Ich habe es diesen Freitagabend so gemacht
+title: Hässliches Entlein – Ich habe es Freitagabend so gemacht
 ---
 
 

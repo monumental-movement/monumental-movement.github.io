@@ -46,7 +46,7 @@ Die Gründung von Vaporwave ist eng mit der Blogging-Kultur der späten 2000er J
 
 ### 1-2 Hauptetiketten (Beer On The Rug / Constellation Tatsu / Dream Catalog / Orange Milk)
 
-- **Beer On The Rug** ist das Label, das die frühen Vaporwave-Aufnahmen am symbolträchtigsten machte und viele ikonische Künstler wie MACINTOSH PLUS, Laserdisc Visions und Luxury Elite hervorbrachte.
+- **Beer On The Rug** ist das Label, das die frühen Vaporwave-Aufnahmen am symbolträchtigsten gemacht hat und viele ikonische Künstler wie MACINTOSH PLUS, Laserdisc Visions und Luxury Elite hervorgebracht hat.
 - **Constellation Tatsu** hat ihre Herangehensweise an Ambient-Musik vertieft und Bandkultur mit spiritueller Ästhetik verschmolzen.
 - **Dream Catalogue** betonte die Rekonstruktion des Bildes von China und Japan, eine Science-Fiction-Ansicht der Zukunft und die gespenstische Natur von Städten.
 - **Orange Milk Records** erweiterte die Möglichkeiten der Musik nach Vaporwave im Kontext experimenteller elektronischer Musik und etablierte auch eine einzigartige Position in künstlerischer Hinsicht.
@@ -60,7 +60,7 @@ Frühe Eccojams waren nicht nur Verlangsamungen, sondern Geräte, die neue Emoti
 ### 2-2 Richtung der Ästhetik
 
 * **Der Zusammenbruch einer künstlichen Utopie** (Utopian Virtual)
-* **Dekadenz, Industrialisierung und destruktive Zukunftsvision** (Hardvapour)
+* **Dekadenz, Industrialisierung, destruktives Zukunftsbild** (Hardvapour)
 * **Die Süße und Ironie der Konsumkultur** (Future Funk)
 * **Verschmelzung von städtischem Geistergefühl und Umgebungsgeräuschen** (Mallsoft)
 
@@ -80,7 +80,7 @@ Die Ästhetik basiert auf der „Ambivalenz von Kritik und Vergnügen“, und al
 
 ### 3-2 Akustische Struktur
 
-Vaporwave-Sound basiert auf den Prinzipien „Dämpfung, Verlängerung, Verschlechterung und Wiederholung“. Insbesondere die Tonhöhenverschiebung (-20 bis -35 %) ist ein Synonym für das Genre.
+Dampfwellenschall basiert auf den Prinzipien „Dämpfung, Verlängerung, Verschlechterung und Wiederholung“. Insbesondere die Tonhöhenverschiebung (-20 bis -35 %) ist ein Synonym für das Genre.
 
 ### 3-3 Frequenzbandeigenschaften
 
@@ -95,7 +95,7 @@ Vaporwave-Sound basiert auf den Prinzipien „Dämpfung, Verlängerung, Verschle
 * Verschlechterung der Verarbeitung aufgrund der tatsächlichen VHS-Aufnahme
 * EQ-Schnitt und Komprimierungsunterdrückung in DAW
 
-Man kann sagen, dass es sich hierbei um Techniken zur Rekonstruktion „verlorener Materialität“ handelt.
+Man kann sagen, dass es sich dabei um Techniken zur Rekonstruktion „verlorener Materialität“ handelt.
 
 ## Kapitel 4: Soziokulturelle Theorie – Konsumkritik, Semiotik und Psychologie der Internetgeneration
 
@@ -176,7 +176,7 @@ graph TD
 
 Was ist Vaporwave und seine Kerndefinition**
 
-### **5-1 Auf dem Weg zu einer Existenz, die über das „Genre“ hinausgeht**
+### **5-1　Jenseits des „Genres“**
 
 Vaporwave wurde zunächst als „kleines Genre, das seinen Ursprung im Internet hat“ behandelt, aber
 Nach mehr als zehnjähriger Verbreitung hat es sich zu einem genreübergreifenden Kulturmittel entwickelt, wie unten gezeigt.
@@ -215,7 +215,7 @@ Dieser Widerspruch ist postmodern und die Essenz der Ästhetik von Vaporwave.
 
 ---
 
-### **5-3 Fazit: Philosophische Definition von Dampfwelle (endgültige Version)**
+### **5-3 Fazit: Philosophische Definition der Dampfwelle (endgültige Version)**
 
 > **Vaporwave ist eine Welt, in der die Zukunftsvision der Vergangenheit zusammengebrochen ist.
 > Die Internet-Generation hat die Symbolfragmente neu aufbereitet,

@@ -20,7 +20,7 @@ title: '[Kolumne] Charlotte de Witte: Königin der Techno-Welt'
 
 Text: mmr | Thema: Entdecken Sie, wie Charlotte de Witte ihre „Techno-Welt“ durch ihre Diskographie, die Geschichte ihrer Festivalauftritte, Liedkommentare, Chronologie und Illustrationen aufgebaut hat.
 
-Die belgische DJ/Produzentin **Charlotte de Witte** gilt derzeit als eine der wichtigsten Figuren der Techno-Welt.
+Die belgische DJ/Produzentin Charlotte de Witte gilt derzeit als eine der wichtigsten Figuren der Techno-Welt.
 Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und ihre historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
 
 Ihre Karriere ist eine epische Geschichte, von bescheidenen Anfängen in Underground-Clubs in ihrer Heimatstadt Gent bis hin zu den Hauptbühnen internationaler Festivals wie Tomorrowland und Movement Festival.
@@ -60,7 +60,7 @@ Außerdem veröffentlichte er eine EP und veröffentlichte frühe Werke auf Labe
 
 ## Unter seinem richtigen Namen arbeiten und sich dem Techno zuwenden (2015–2018)
 
-Im **2015** gab Charlotte den Namen „Raving George“ auf und begann unter ihrem richtigen Namen **Charlotte de Witte** aufzutreten.
+Im **2015** gab Charlotte den Namen „Raving George“ auf und begann unter ihrem richtigen Namen **Charlotte de Witte** zu arbeiten.
 In dieser Zeit nahm ihr Sound einen dunkleren, minimalistischeren Stil an, der Acid-Techno- und Industrial-Elemente enthielt.
 
 Zu den repräsentativen Werken gehören:
@@ -84,7 +84,7 @@ Er erlangte auch internationale Aufmerksamkeit, als er im Essential Mix (2018) v
 ## KNTXT: Erstellung von Label und Marke (ab 2019)
 
 **2019** Charlotte de Witte gründete ihr eigenes Label **KNTXT**.
-KNTXT ist eine Marke, die ihre minimalistische und kraftvolle Techno-Philosophie widerspiegelt, mit einer Philosophie der Reinheit, Stärke und Evolution.
+KNTXT ist eine Marke, die ihre minimalistische und kraftvolle Techno-Philosophie mit einer Philosophie der Reinheit, Stärke und Evolution widerspiegelt.
 
 Über das Label entdecken und fördern wir aufstrebende Künstler und entwickeln außerdem Veranstaltungsreihen und Radiosendungen. Dadurch ist KNTXT mehr als nur ein Label, es ist zu einer Community geworden, die Charlottes Techno-Welt repräsentiert.
 
@@ -176,7 +176,7 @@ Er hat auch experimentelle Werke wie „The Heads That Know (feat. Comma Dee)“
 | 2019 | KNTXT gegründet |
 | 2022 | Abschluss der Hauptbühne von Tomorrowland |
 | 2023 | Abschluss des Bewegungsfestivals |
-| 2024 | KNTXT-Store eröffnet, Label Époque gegründet |
+| 2024 | KNTXT-Store eröffnet, Époque-Label gegründet |
 | 2025,4 | Single „The Realm“ angekündigt |
 | 2025,7 | Zeitplan für den Eröffnungs- und Abschlussauftritt von Tomorrowland |
 | 2025.11 | Debütalbum „Charlotte de Witte“ veröffentlicht |
@@ -250,5 +250,14 @@ Er hat eine Welt aufgebaut, die seine Philosophie und sein musikalisches Gespür
 
 Ihr Debütalbum im Jahr 2025 ist ein introspektiver Ausdruck ihrer Techno-Welt.
 Charlotte de Wittes Techno-Welt wird durch ihre Festivalauftritte und Label-Aktivitäten weiter wachsen.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UwFBtBZ1Las?si=eh-3itjSVeqB3udz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

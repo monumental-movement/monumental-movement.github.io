@@ -56,7 +56,7 @@ Von 1992 bis 1993 spielte der Londoner Radiosender Pirates eine Schlüsselrolle 
 
 ## Änderungen an Drum and Bass und musikalischer Raffinesse
 
-Mitte der 1990er Jahre wurde Jungle abstrakter und anspruchsvoller und der Name „Drum and Bass“ etablierte sich. Zusätzlich zu den Liedern mit starkem Raga-Einschlag ist die Anzahl instrumentaler Lieder gestiegen und der Grad der klanglichen Perfektion ist gestiegen.
+Mitte der 1990er Jahre wurde Jungle abstrakter und anspruchsvoller und der Name „Drum and Bass“ etablierte sich. Neben Liedern mit starkem Raga-Einschlag ist die Zahl instrumentaler Lieder gestiegen und der Grad der klanglichen Perfektion ist gestiegen.
 
 Das Tempo war im Allgemeinen auf 160–175 BPM festgelegt, und während die Kick- und Snare-Platzierung organisiert war, waren die Hi-Hat- und Ghost-Noten extrem fragmentiert. Mit der Entwicklung der Studioproduktionsumgebungen wurde der Schwerpunkt auf Klangtrennung und räumlichen Ausdruck gelegt.
 
@@ -86,7 +86,7 @@ Dennoch wurde die Musterkultur rund um das Amen Blake weiterhin vererbt, verarbe
 
 ## Vorübergehender Niedergang und Mainstreaming
 
-Mitte der 2000er Jahre wurde Drum'n'Bass in die Pop- und Werbemusik integriert und manche hielten ihn für übertrieben. Gleichzeitig entstanden in der Clubszene andere Genres, deren Aufmerksamkeit relativ abnahm.
+Mitte der 2000er Jahre wurde Drum'n'Bass in die Pop- und Werbemusik integriert und manche hielten ihn für übertrieben. Gleichzeitig entstanden in der Clubszene andere Genres und die Aufmerksamkeit nahm relativ ab.
 
 Allerdings verschwand das Genre selbst in dieser Zeit nicht und die Underground-Szene erlebte weiterhin Veröffentlichungen und Veranstaltungen. Tatsächlich hat der Mangel an äußerer Aufmerksamkeit in gewisser Weise zu einer Vertiefung der Introvertiertheit geführt.
 

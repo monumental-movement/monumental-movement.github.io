@@ -50,7 +50,7 @@ In den späten 1970er-Jahren erfreuten sich Tonbandgeräte für Privatanwender g
 - One-Take-Aufnahme fast ohne Abmischung
 - Klangerzeugung, die die natürlichen Echos des Raumes beibehält
 
-Obwohl die Klangqualität keineswegs hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu wahren.
+Obwohl die Klangqualität keineswegs hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu bewahren.
 
 ### 1-2. 1980er–1990er: Verbindung zwischen Indie-Folk und Takuroku
 In den späten 1980er Jahren kamen kostengünstige 4-Spur-Kassettenrecorder (z. B. TASCAM Portastudio) auf den Markt, und die Qualität des Homerecordings verbesserte sich dramatisch.
@@ -87,7 +87,7 @@ Viele der Aufnahmen werden im Haus des Künstlers gemacht und umfassen:
 Diese Elemente prägten ab den 2000er Jahren das Klangbild des Lo-Fi Folk.
 
 ### 2-2. Produktionsmethode der frühen Werke von Sufjan Stevens
-Sufjan Stevens‘ frühe Werke, insbesondere Seven Swans (2004), und seine früheren und späteren Gesangsaufnahmen zeigen den aktiven Einsatz von Homerecordings.
+Sufjan Stevens‘ frühe Werke, insbesondere Seven Swans (2004), und seine früheren und späteren Gesangsaufnahmen zeigen eine aktive Nutzung von Heimaufnahmen.
 
 ### ● Haupttechniken
 - Spielen Sie viele Instrumente selbst
@@ -128,7 +128,7 @@ Die Texte von Bedroom Folk sind oft introspektiv und sprechen mit leiser Stimme 
 - Ruhige religiöse und spirituelle Inhalte
 - Ein Blick weg von der Hektik der Stadt
 
-Iron & Wine, ein Trend, den Sufjan Stevens‘ frühe Arbeiten teilen.
+Iron & Wine, ein Trend, den auch Sufjan Stevens‘ frühe Arbeiten teilen.
 
 ---
 

@@ -73,7 +73,7 @@ Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan au
 
 ### Kulturelle Schlüsselwörter
 
-- **Kawaii**: Die japanische „niedliche Kultur“ spiegelt sich in der schnellen Popmelodie wider.
+- **Kawaii**: Die japanische „Kawaii-Kultur“ spiegelt sich in der schnellen Popmelodie wider.
 
 - **Otaku-Kultur**: Direkt verbunden mit der Anime-, Doujinshi- und Akihabara-Clubkultur.
 

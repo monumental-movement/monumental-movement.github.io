@@ -67,7 +67,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Britische Rave-Kultur und Clubbing
 
 **Meisterwerk**
-- Underground Resistance – *X-101/X-102* (1991–)
+- Untergrundwiderstand – *X-101/X-102* (1991–)
 - Aphex Twin – *Selected Ambient Works 85–92* (1992)
 - Basic Channel – *BCD* (1994)
 - Robert Hood – *Minimal Nation* (1994)
@@ -75,7 +75,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Jeff Mills – „The Bells“ (1997)
 
 **Ausrüstung**
-- Akai S3000/S3200
+-Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
 - Mackie 1604/8-Bus
@@ -94,14 +94,14 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Ricardo Villalobos – *Alcachofa* (2003)
 - Monolake – *Gravity* (2008)
 - Kompakt – *Total*-Serie (2000–)
-- Richie Hawtin – *DE9 | Näher am Schnitt* (2001)
+- Richie Hawtin – *DE9/Closer to the Edit* (2001)
 
 **Ausrüstung**
 - Ableton Live (2001–)
 - Grund (2000–)
 - Native Instruments Reaktor / Absynth
 - Elektron Machinedrum / Monomachine
-- Pioneer CDJ (populäre Zeit)
+- Pioneer CDJ (populäre Periode)
 
 ---
 

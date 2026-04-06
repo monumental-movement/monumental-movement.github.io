@@ -61,7 +61,7 @@ Auch Spotify-Playlists sind nur ein neues Format.
 
 ## Kapitel 2: Aufnahme und Wiedergabe – Geburt von „Recorded Time“
 
-Als zu Beginn des 20. Jahrhunderts **Edisons Phonograph** erschien, war die Menschheit erstmals in der Lage, die „Geräusche der Vergangenheit“ zu reproduzieren.
+Zu Beginn des 20. Jahrhunderts, als **Edisons Phonograph** auf den Markt kam, war der Mensch erstmals in der Lage, die „Geräusche der Vergangenheit“ zu reproduzieren.
 Es war eine Revolution in der Musikgeschichte und zugleich die Geburtsstunde einer „Technologie zur Zeiterhaltung“.
 
 Schallplatten, Kassetten, CDs, MP3s und Streaming.
@@ -102,7 +102,7 @@ Zu diesem Zeitpunkt wird Musik nicht zum internen Gedächtnis eines Individuums,
 
 ---
 
-## Kapitel 5: Der Körper, der sich erinnert – Synapsen zwischen Musik und Gehirn und Emotionen
+## Kapitel 5: Der Körper, der sich erinnert – Synapsen zwischen Musik, Gehirn und Emotionen
 
 Musik wird nicht nur im Gehirn, sondern auch im Körper gespeichert.
 So wie Musiker sagen, dass ihre Hände sich an eine Phrase erinnern, wenn sie sie einmal auswendig gelernt haben.
@@ -120,7 +120,7 @@ Was Benedict Anderson eine „imaginierte Gemeinschaft“ nennt, ist
 Unterstützt wurde es durch „gemeinsame Musik“ wie die Nationalhymne und das Schullied.
 
 Allerdings entsteht in der heutigen Zeit das „kollektive Gedächtnis“ auf den Bühnen von Festivals und Clubs, nicht in Ländern.
-Sobald Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
+In dem Moment, in dem Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
 
 Es ist ein neues „Ritual“ des 21. Jahrhunderts und eine Erneuerung der Erinnerung.
 
@@ -143,6 +143,15 @@ Es handelt sich sowohl um eine „Nachstellung der Vergangenheit“ als auch um 
 
 Und selbst nachdem die Musik aufgehört hat, klingt die Melodie irgendwo in meinem Herzen weiter.
 Musik ist eine Kunstform der Erinnerung an sich.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xY8nuVm3xT8?si=1WavPB34Hp4ByuRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

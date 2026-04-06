@@ -19,7 +19,7 @@ title: '[Kolumne] Taj Mahal Travel Group und Takehisa Kosugi – Eine Reise, um 
 ## I. Ausgangspunkt in den 1960er Jahren: Jenseits musikalischer Institutionen
 
 
-Text: mmr｜Thema: Eine Klangpilgerreise, bei der Improvisation und Umgebungsgeräusche ineinandergreifen – Eine Aufzeichnung einer Reise an die Außenseite der Musik, gezeichnet von Takehisa Kosugi und der Taj Mahal Travel Group
+Text: mmr｜Thema: Eine Klangpilgerreise, bei der Improvisation und Umgebungsgeräusche ineinandergreifen – Eine Aufzeichnung einer Reise in die Außenseite der Musik, gezeichnet von Takehisa Kosugi und der Taj Mahal Travel Group
 
 
 In den frühen 1960er Jahren blühte Japans Avantgarde-Musikszene in aller Stille auf.
@@ -31,7 +31,7 @@ Während dieser Zeit studierte Takehisa Kosugi Violine an der Universität der K
 > „Klang beginnt zu leben, wenn er vom Willen des Interpreten getrennt wird.“
 > — Takehisa Kosugi
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BdjmQkOOa9A?si=wp3TrXBLiNOIjVPf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3SpY7OSW7qs?si=IIuxvX6PN-Q-jyhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -117,9 +117,9 @@ Die Improvisationsaufführungen an verschiedenen Orten reichten von lokalen Kult
 Die Aufführungen der Taj Mahal Tourists haben nicht die übliche „Lieder“ oder „Struktur“.
 Vielmehr ähnelt es eher dem Vorgang, Schall in die Umgebung auszusenden und auf eine zufällige Resonanz zu warten.
 
-Sie setzen Beschallungsanlagen und Mikrofone kreativ ein,
+Sie nutzen Beschallungsanlagen und Mikrofone kreativ,
 Der gesamte Raum wurde als eine Art „Resonator“ behandelt.
-Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und die Funkgeräusche.
+Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und Funkgeräusche.
 Wir haben ein Ökosystem geschaffen, in dem Schall „vorkommt und verschwindet“.
 
 ---
@@ -133,7 +133,7 @@ Es wird hoch gelobt als „Klanglandschaft“, die Zeit, Raum und Klang perfekt 
 
 Auf dem Album gibt es weder Rhythmus noch Melodie.
 Stattdessen kreuzen sich sanft Windgeräusche, elektronische Klänge, Stimmen und die Resonanz der Saiten,
-Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang einzutauchen“.
+Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang hinein“ zu gehen.
 
 ---
 
@@ -205,6 +205,15 @@ Es war eine spirituelle Reise, die über die Institution Musik hinausging und in
 > ― Takehisa Kosugi
 
 Selbst heute, ein halbes Jahrhundert später, sind die Geräusche, die sie von sich gaben, immer noch nachhallend.
-Es vibriert weiterhin leise in der Luft, in der Erinnerung und tief in den Herzen der Zuhörer.
+Es vibriert weiterhin leise in der Luft, in den Erinnerungen und tief in den Herzen der Zuhörer.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ddqyg-JgJzc?si=qYT_q7KDqzdnnBHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

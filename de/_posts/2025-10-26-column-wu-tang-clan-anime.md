@@ -76,7 +76,7 @@ An diesem Punkt bewegt sich die asiatische Kultur vom bloßen Zitat in den Berei
 
 ---
 
-## Kapitel 3: „Afro Samurai“ und die Kette der Reimporte
+## Kapitel 3: „Afro Samurai“ und die Kette der Reimportation
 
 Im Jahr 2007 wurde der japanische Anime „Afro Samurai“ landesweit ausgestrahlt.
 Der Synchronsprecher ist Samuel L. Jackson.
@@ -116,7 +116,7 @@ Es betonte den „Zen“-Aspekt des Hip-Hop und spiegelte die spirituelle Welt v
 Insbesondere Nujabes‘ Musik verbindet Sampling und die Ästhetik von Ma.
 Er war spirituell mit dem Wu-Tang-Clan verbunden, dem „Samurai des Klangs“.
 
-In den 2020er Jahren tauchen auch in japanischen Anime-Werken deutliche Bezüge auf.
+In den 2020er Jahren tauchen deutliche Bezüge in japanischen Anime-Werken auf.
 Der Einfluss von Lo-Fi-Hip-Hop ist in der Hintergrundmusik von „Jujutsu Kaisen“ zu erkennen.
 Am Ende von „Chainsaw Man“ werden mehrere Hip-Hop-Künstler mitwirken.
 Hier verbindet sich Anime erneut mit der Sprache der „Straße“.

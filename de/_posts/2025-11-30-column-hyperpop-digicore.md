@@ -136,7 +136,7 @@ flowchart TD
 
 ## 4-3. 100-Gecs-Struktur (überfülltes Genre)
 
-* Mischung aus Ska, Metal, Trap und EDM in einem Song
+* Eine Mischung aus Ska, Metal, Trap und EDM in einem Song
 * BPM-Änderungen, schnelle Entwicklungen
 
 ---

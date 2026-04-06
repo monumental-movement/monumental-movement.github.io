@@ -42,7 +42,7 @@ color: #fff;
 
 ## 1. EBM und Electro-Industrial als Begriffe
 
-Der Begriff EBM wurde Anfang der 1980er Jahre eingeführt und diente zunächst eher als Konzept zur Angabe einer kreativen Haltung und musikalischen Richtung denn als Genrename. Wie der Name „Electronic Body Music“ vermuten lässt, liegt der Schwerpunkt auf der direkten Ansteuerung körperlicher Bewegung durch elektronische Klänge.
+Der Begriff EBM wurde Anfang der 1980er Jahre eingeführt und fungierte zunächst eher als Konzept zur Angabe einer kreativen Einstellung und musikalischen Richtung denn als Genrename. Wie der Name „Electronic Body Music“ vermuten lässt, liegt der Schwerpunkt auf der direkten Ansteuerung körperlicher Bewegung durch elektronische Klänge.
 
 Andererseits ist Electro-Industrial ein Name, der sich aus der Struktur von EBM entwickelt hat und komplexere akustische Verarbeitung, Geräuschelemente sowie psychologische und introspektive Themen umfasst. Die beiden Genres sind keine diskontinuierlichen Genres, sondern zeichnen sich durch eine kontinuierliche Weiterentwicklung mit EBM als Rückgrat aus.
 
@@ -142,7 +142,7 @@ Seit Ende der 1980er Jahre ist eine Werkgruppe entstanden, die die Struktur von 
 
 ## 12. Interaktion mit der Clubkultur
 
-EBM wurde mit der Prämisse der Wiedergabe in Clubräumen entwickelt. Lauter Druck, Wiederholung und unmittelbare Reaktionsfähigkeit wurden betont und die Liedstrukturen an die Funktion auf dem Boden angepasst.
+EBM wurde mit der Prämisse der Wiedergabe in Clubräumen entwickelt. Schalldruck, Wiederholung und unmittelbare Reaktionsfähigkeit wurden betont und die Liedstrukturen an die Funktion auf dem Boden angepasst.
 
 ---
 

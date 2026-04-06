@@ -24,7 +24,7 @@ Text: mmr｜Thema: Modulare Drohnen als Schnittstelle zwischen der Geschichte de
 
 Modulare Drohnen/experimentelle Drohnen (im Folgenden „modulare Drohnen“ genannt) sind ein Trend akustischer Experimente, der sich auf anhaltende Klänge konzentriert und sich in engem Zusammenhang mit den strukturellen Eigenschaften modularer Synthesizer entwickelt hat. Ein Klangkontinuum, das weder eine Melodie noch einen Takt voraussetzt, erzeugt Zeit, indem es Elemente wie Tonhöhe, Klangfarbe, Intensität, Phase und räumliche Anordnung minutiös verändert. Diese Musik betont eher „Existenz“ als „Fortschritt“, und Veränderungen erscheinen eher als Zustandsübergänge denn als Ereignisse.
 
-Bei modularen Drohnen ist es wichtig, dass das Ziel des Hörens nicht das Fortbestehen eines einzelnen Tons ist, sondern der Prozess, durch den mehrere Signalpfade miteinander interagieren. Mit modularen Synthesizern können Sie Elemente wie Oszillatoren, Filter, Verstärker, Hüllkurven, LFOs und Zufallsspannungen frei verbinden und so die Grenzen zwischen Stabilität und Instabilität, Kontrolle und Zufall hörbar machen. Durch die Kombination dieser Eigenschaft mit der Form eines Drones entstand ein akustischer Ausdruck, der das Zeitgefühl erweitert.
+Wichtig bei modularen Drohnen ist, dass das Ziel des Hörens nicht das Fortbestehen eines einzelnen Klangs ist, sondern der Prozess, durch den mehrere Signalpfade miteinander interagieren. Mit modularen Synthesizern können Sie Elemente wie Oszillatoren, Filter, Verstärker, Hüllkurven, LFOs und Zufallsspannungen frei verbinden und so die Grenzen zwischen Stabilität und Instabilität, Kontrolle und Zufall hörbar machen. Durch die Kombination dieser Eigenschaft mit der Form eines Drones entstand ein akustischer Ausdruck, der das Zeitgefühl erweitert.
 
 ---
 
@@ -52,7 +52,7 @@ Im 20. Jahrhundert schritten Industrialisierung und Elektrifizierung voran und a
 
 ## Kombination aus elektroakustischen und anhaltenden Klängen
 
-In den Anfängen der elektronischen Musik waren anhaltende Töne das Element, das die Eigenschaften elektronischer Klänge am deutlichsten anzeigte. Die von einem Oszillator erzeugte kontinuierliche Wellenform kann im Gegensatz zu einem physikalischen Instrument theoretisch unbegrenzt aufrechterhalten werden. Diese Eigenschaft ermöglichte es, sich von der traditionellen musikalischen Struktur zu lösen, die die Zeit in Takte unterteilt.
+In den Anfängen der elektronischen Musik waren anhaltende Töne das Element, das die Eigenschaften elektronischer Klänge am deutlichsten anzeigte. Im Gegensatz zu physikalischen Instrumenten kann die von einem Oszillator erzeugte kontinuierliche Wellenform theoretisch unbegrenzt aufrechterhalten werden. Diese Eigenschaft ermöglichte es, sich von der traditionellen musikalischen Struktur zu lösen, die die Zeit in Takte unterteilt.
 
 In der Tonbandmusik und der elektroakustischen Musik wurde versucht, Klänge über längere Zeiträume anzuhalten oder allmähliche Änderungen vorzunehmen, allerdings gab es Einschränkungen bei der Echtzeitsteuerung. Hier kommt das Konzept der Spannungsregelung ins Spiel. Der Mechanismus zur Steuerung von Tonhöhe und Klangfarbe mithilfe von Spannung wurde zur Grundlage späterer modularer Synthesizer und bot die Möglichkeit, anhaltende Klänge dynamisch zu verändern.
 
@@ -156,7 +156,7 @@ flowchart TD
 
 Der anhaltende Klang modularer Borduntöne entsteht nicht durch die Beibehaltung einer einzelnen Frequenz, sondern durch langsame Schwankungen in der gesamten Obertonstruktur. Die Wahl der Oszillatorwellenform (Sinus, Dreieck, Sägezahn, Rechteck) bestimmt das anfängliche Spektrum, aber im Laufe der Zeit wird die harmonische Verteilung ständig neu organisiert, wenn sich Filtergrenzwert, Resonanz und Antriebsstärke ändern.
 
-Insbesondere in einer modularen Umgebung befindet sich der Filter selbst häufig in einem schwingungsnahen Zustand und die Grenze zwischen Grund- und Harmonischen verschwimmt. Dadurch wird das Dröhnen eher als Übergang in der Spektraldichte denn als Ansammlung von Tonhöhen wahrgenommen.
+Besonders in einer modularen Umgebung wird der Filter selbst häufig in einem schwingungsnahen Zustand verwendet und die Grenze zwischen Grund- und Harmonischen verschwimmt. Dadurch wird das Dröhnen eher als Übergang in der Spektraldichte denn als Ansammlung von Tonhöhen wahrgenommen.
 
 > „Bei modularen Drohnen ist die Tonhöhe kein fester Punkt, sondern fungiert als Schwerpunkt des Spektrums.“
 
@@ -196,7 +196,7 @@ In diesem Sinne ist ein modularer Synthesizer sowohl ein Musikinstrument als auc
 
 Vollständig autonome Patches weisen im Laufe der Zeit unvorhersehbare Änderungen auf. Andererseits kann durch menschliches Eingreifen die Richtung des Klangs angepasst werden. Das Gleichgewicht zwischen diesen beiden ist ein wichtiger Entscheidungspunkt bei der Produktion modularer Drohnen.
 
-> „Intervention erfolgt als Dialog mit dem System, nicht als Kontrolle“
+> „Eingriff erfolgt als Dialog mit dem System, nicht als Kontrolle“
 
 ---
 
@@ -216,7 +216,7 @@ Nachhaltiger Klang hat eine hohe Affinität zu Galerien und Installationsräumen
 
 ## Monumental Movement Records-Perspektive
 
-Im Kontext von Monumental Movement Records sind modulare Drones nicht einfach nur experimentelle Musik, sondern werden als Klangpraktiken positioniert, die Zeit, Struktur und Instrumentalität kritisch darstellen. Hier sind lange Dauern und unterschiedliche Veränderungen wertvoller als auffällige Veränderungen oder unmittelbare Effekte.
+Im Kontext von Monumental Movement Records werden modulare Drones nicht nur als experimentelle Musik positioniert, sondern als eine Klangpraxis, die Zeit, Struktur und Instrumentalität kritisch darstellt. Hier sind lange Dauern und unterschiedliche Veränderungen wertvoller als auffällige Veränderungen oder unmittelbare Effekte.
 
 Der Wortschatz ist eher beschreibend als dekorativ, und die Strukturanalyse hat Vorrang vor dem emotionalen Ausdruck. Klang ist sowohl ein Sinnesobjekt als auch ein Medium zum Denken.
 

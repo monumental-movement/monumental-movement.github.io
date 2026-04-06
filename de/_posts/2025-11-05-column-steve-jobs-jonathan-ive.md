@@ -47,8 +47,8 @@ color: #fff;
 
 ## Chapter 1 Records und die California Air
 
-Steve Jobs ist ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
-Viele Biografien bestätigen, dass er Bob Dylan und die Beatles schon in jungen Jahren bewunderte.
+Steve Jobs war ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
+Seine Bewunderung für Bob Dylan und die Beatles schon in jungen Jahren wird durch zahlreiche Biografien bestätigt.
 
 In Walter Isaacsons Biografie „Steve Jobs“ (2011) gibt es in seinem Wohnzimmer einen **Röhrenverstärker und einen Plattenspieler**.
 Es heißt, er habe jeden Abend Alben von Bob Dylan und Joan Baez gehört.
@@ -123,7 +123,7 @@ Ive sagt: „Das Gehäuse selbst prägt den Klang“ (Interview mit Fast Company
 
 ## Kapitel 6 Von Schallplatten in die Cloud – Vererbung klanglicher Erinnerungen
 
-Als Jobs über sein iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
+Als Jobs über das iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
 Im Kern geht es um das Konzept der Wolke als Erweiterung des Vorgangs, eine Schallplatte in die Hand zu nehmen und die Nadel fallen zu lassen.
 
 Andererseits habe ich durch LoveFrom,
@@ -144,13 +144,13 @@ Tatsächlich eint sie die Philosophie, „Menschen durch Musik zu befreien“.
 | 2004 | GarageBand | Apfel | Popularisierung der Musikproduktion |
 | 2007 | iPhone | Ive + Jobs | Integration von Musikwiedergabegeräten |
 | 2015 | Apple-Musik | Apfel | Der Wendepunkt zum Streaming |
-| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | Zurück zum analogen Ton |
+| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | Zurück zum analogen Sound |
 
 ---
 
 ## Kapitel 8 Die Designsprache von „Sound“
 
-Nachdem Jobs gestorben war, habe ich ihn wie folgt beschrieben.
+Nachdem Jobs gestorben war, habe ich ihn wie folgt beschrieben:
 
 > „Er betrachtete Produkte so, wie man Musik hört: Es gibt Rhythmus, es gibt Harmonie, es gibt Stille.“
 
@@ -178,6 +178,15 @@ Die offizielle Erklärung von LoveFrom lautet:
 Die Philosophie „Design for Love“ spiegelt den Geist von Jobs wider.
 So wie Musik der Technologie Seele einhaucht,
 Auch Design spielt weiterhin den „Sound“ der Liebe.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iErCUTVPueE?si=oncov_iUdRSsQoMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

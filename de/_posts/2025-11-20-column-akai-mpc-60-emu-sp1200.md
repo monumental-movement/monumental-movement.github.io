@@ -75,7 +75,7 @@ Mitte bis Ende der 1980er Jahre waren die Preise für Halbleiterspeicher um Grö
 * **Hauptmerkmale**: 8-Spur-Sequenzer, Filter (analog), einzelne Ausgänge
 
 **Designphilosophie und Funktionen**
-Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Anhand der Spezifikationen und der technischen Dokumentation von E-mu aus dieser Zeit kann bestätigt werden, dass der A/D-Pfad und das Filterdesign des SP-1200 zur akustischen Färbung beitragen.
+Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Anhand der Spezifikationen und technischen Unterlagen von E-mu aus dieser Zeit kann bestätigt werden, dass der A/D-Pfad und das Filterdesign des SP-1200 zur akustischen Färbung beitragen.
 
 **Praktische Anwendung**
 
@@ -337,7 +337,7 @@ flowchart TD
 
 </div>
 
-## Detaillierte Erklärung der internen Schaltkreise jedes Modells (CPU / ROM / DAC)
+## Detaillierte Erläuterung der internen Schaltkreise jedes Modells (CPU / ROM / DAC)
 
 ### SP-1200 Interner Block
 
@@ -373,7 +373,7 @@ flowchart TD
 
 ---
 
-## Abschnitt zur Spur-/Wellenform-/Frequenzanalyse
+## Abschnitt „Spur-/Wellenform-/Frequenzanalyse“.
 
 ### Ebenenanalyse von Public Enemy (Bomb Squad) SP-1200
 

@@ -50,7 +50,7 @@ color: #fff;
 
 Sludge Metal ist kein isoliert entstandener Musikstil. Dahinter verbergen sich zwei Strömungen: Doom Metal, der seit den 1970er-Jahren anhält, und Hardcore-Punk, der sich in den 1980er-Jahren verbreitet.
 
-Gekennzeichnet durch langsame Tempi und schwere Riffs hat Doom Metal düstere, stagnierende Emotionen in Musik verwandelt. Hardcore-Punk hingegen drückte soziale Unzufriedenheit und Wut direkt durch kurze, harsche Lieder und aggressive Einstellungen aus.
+Gekennzeichnet durch langsame Tempi und schwere Riffs hat Doom Metal düstere, stagnierende Emotionen in Musik verwandelt. Hardcore-Punk hingegen drückte durch kurze, harsche Lieder und aggressive Einstellungen direkt soziale Unzufriedenheit und Wut aus.
 
 Schlammmetall ist nicht das Ergebnis eines Kompromisses zwischen diesen beiden Elementen. Während die Impulsivität des Hardcore beibehalten wurde, wurde die Geschwindigkeit drastisch reduziert und die Schwere des Dooms verstärkt, wodurch ein völlig anderes Klangerlebnis entstand. Die Wut explodiert nicht, sie staut sich einfach weiter im Inneren auf.
 
@@ -78,7 +78,7 @@ Der Gitarrensound versiegt nie und die Verzerrung bleibt immer bestehen. Der Rhy
 
 ## Akustische Struktur: Verzerrungsdichte und Beständigkeit
 
-Verzerrungen im Sludge Metal sind kein klangverschönerndes Element. Durch zu hohe Gain-Einstellungen und eine Überbetonung des Bassbereichs bildet die Verzerrung selbst den Rahmen der Musik.
+Verzerrungen im Sludge Metal sind kein klangverschönerndes Element. Aufgrund zu hoher Gain-Einstellungen und einer Überbetonung des Bassbereichs bildet die Verzerrung selbst das Rückgrat der Musik.
 
 Selbst wenn es sich um ein Riff mit nur einer Note handelt, weiten sich die Obertöne durch die Verzerrung aus, was ihm eine akkordartige Dichte verleiht. Die Tonhöhe wird vage und die Grenze zwischen Lärm und Musik wird bewusst verwischt. Diese Mehrdeutigkeit verleiht dem Sound von Sludge Metal ein einzigartiges Gefühl der Unterdrückung.
 
@@ -116,7 +116,7 @@ Anstatt in den Vordergrund zu rücken, verschmilzt die Stimme mit der verzerrten
 
 Viele der frühen Schlammmetallwerke wurden mit begrenzter Ausrüstung und begrenztem Budget errichtet. Dadurch ist der Klang nicht klar und die Trennung der einzelnen Instrumente ist schlecht. Es war jedoch diese Lo-Fi-Textur, die das Gewicht der Musik verstärkte.
 
-Raumgeräusche, Verstärkergeräusche, Mikrofon-Macken. Indem diese physischen Elemente so aufgezeichnet werden, wie sie sind, hat die Klangquelle eine Vor-Ort-Qualität. Präsenz hatte Vorrang vor perfekter Klangqualität.
+Raumgeräusche, Verstärkergeräusche, Mikrofon-Macken. Indem diese physischen Elemente so aufgezeichnet werden, wie sie sind, hat die Klangquelle die Qualität vor Ort. Präsenz hatte Vorrang vor perfekter Klangqualität.
 
 Im Sludge Metal war das Aufnehmen kein Prozess, um das Werk zu verschönern, sondern ein Akt, um die Musik so zu halten, wie sie ist.
 

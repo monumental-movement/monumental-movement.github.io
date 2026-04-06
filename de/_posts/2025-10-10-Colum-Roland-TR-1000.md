@@ -18,7 +18,7 @@ title: '[Kolumne] Roland TR-1000: Rhythmus neu definieren ─ Analoge Gene und d
 ## Wenn Roland die „Definition einer Rhythmusmaschine“ erneut umschreibt
 
 
-Text: mmr｜Thema: TR-1000, das neueste Produkt der TR-Serie von Roland. Befassen Sie sich eingehend mit dem analogen Schaltungsdesign, dem KI-Verhalten und der kulturellen Bedeutung auf den drei Achsen Technologie, Ideologie und Kulturgeschichte.
+Text: mmr｜Thema: TR-1000, das neueste Produkt der TR-Serie von Roland. Befassen Sie sich eingehend mit dem analogen Schaltkreisdesign, dem KI-Verhalten und der kulturellen Bedeutung auf den drei Achsen Technologie, Ideologie und Kulturgeschichte.
 
 
 Rolands neuer Herzschlag, der TR-1000, ist ein „Rhythm Creator“, der die Wärme des Analogen, die Präzision des Digitalen und die Freiheit des Samplings vereint. Dieser Artikel wird seinen technischen Kern, seinen ideologischen Hintergrund und seine Position in der Musikkultur entschlüsseln.
@@ -78,7 +78,7 @@ Reaktionsfähigkeit, als ob der Rhythmus „atmen“ würde. Aus diesem Grund le
 
 ---
 
-### Kapitel 4 Akustische Struktur: Entwicklung tiefer Frequenzen und rhythmischer Textur
+### Kapitel 4 Akustische Struktur: Entwicklung des Tieftonbereichs und der Rhythmustextur
 #### ── Um den „Geist des 808-Kicks“ zu überwinden
 
 Das Herzstück des TR-1000 ist eine Low-End-Designphilosophie.
@@ -113,7 +113,7 @@ In den 1980er Jahren brachte der TR-808 den Hip-Hop hervor, der 909 den Techno u
 Die TR-Serie stand schon immer an einem Wendepunkt in der Musikgeschichte.
 
 Der TR-1000 schafft auch ein neues Symbol in der modernen Clubkultur, in der KI und Live-Performance nebeneinander existieren.
-Detroits DJ Bone beschreibt den TR-1000 als „atmende Rhythmusmaschine“, und der Tokioter Produzent Seiho sagt: „Rhythmus hat begonnen, Emotionen zu erzeugen.“
+Detroits DJ Bone beschreibt den TR-1000 als „atmende Rhythmusmaschine“, und der Tokioter Produzent Seiho sagt: „Rhythmus hat begonnen, Emotionen zu entwickeln.“
 Im kulturellen Kontext bedeutet der TR-1000 keine „Erweiterung der Nostalgie“, sondern eine „Erweiterung des rhythmischen Bewusstseins“.
 
 ---

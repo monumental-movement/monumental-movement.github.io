@@ -46,10 +46,10 @@ In Westdeutschland erkundeten junge Menschen der Nachkriegsgeneration Ende der 1
 
 - **Streben nach sich wiederholenden Rhythmen**: Der „Motorik Beat“ von Neu! ist besonders ikonisch. Durch die mechanische Wiederholung von 4/4 der Trommel entsteht ein tranceartiges und meditatives Gefühl.
 - **Elektronische Klangexperimente**: Nutzen Sie analoge Synthesizer wie Kraftwerk und Tangerine Dream voll aus.
-- **Unabhängige Produktion und Antikommerzialisierung**: Alben werden auf unabhängigen Labels und kleinen Studios aufgenommen, wobei experimentelle Elemente im Vordergrund stehen.
+- **Unabhängige Produktion und Anti-Kommerzialismus**: Alben werden auf unabhängigen Labels und kleinen Studios aufgenommen, wobei experimentelle Elemente im Vordergrund stehen.
 - **Genreübergreifende Fusion**: Flexibilität zur übergreifenden Integration von Jazz, Folk, Rock und Klassik.
 
-Zu den ikonischen Bands gehören Can, Neu!, Kraftwerk, Faust und Amon Düül II, deren Sound den späteren Neo-Krautrock direkt beeinflusste.
+Zu den ikonischen Bands zählen Can, Neu!, Kraftwerk, Faust und Amon Düül II, deren Sound den späteren Neo-Krautrock direkt beeinflusste.
 
 <div class="mermaid">
 flowchart TD
@@ -99,7 +99,7 @@ flowchart LR
 
 ### 3.1 Rhythmus
 
-Neo-Krautrock basiert auf dem klassischen Krautrock-Motorik-Beat, verwendet jedoch eine Vielzahl rhythmischer Techniken:
+Neo-Krautrock basiert auf dem klassischen Krautrock-Motorik-Beat, nutzt jedoch eine Vielzahl rhythmischer Techniken:
 
 - **BPM-Änderung**: Ändern Sie das Tempo während des Live-Auftritts subtil, um jedem Song ein dynamisches Gefühl zu verleihen.
 - **Polyrhythmus**: Erzeugt Komplexität mit einer dualen Struktur aus Drum-Machine und Live-Drums.

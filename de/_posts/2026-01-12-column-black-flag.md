@@ -130,7 +130,7 @@ Dieses DIY-Modell stellte einen realistischen Präzedenzfall für spätere Indie
 
 In den frühen Tagen von Black Flag waren Geschwindigkeit und Kürze ihre Waffen. In der Rollins-Zeit wurden die Songs jedoch allmählich langsamer und härter. Die Riffs wurden wiederholt und die laute Textur wurde betont.
 
-Diese Veränderung war nicht nur ein Experiment, sondern auch ein Spiegelbild des Lebens auf der Straße, der körperlichen Erschöpfung und der geistigen Belastung. Mit zunehmender Aufführungszeit verändert sich auch die Beziehung zum Publikum. Inmitten des heftigen Moshs beginnt die Musik den Charakter einer Art Härtetest anzunehmen.
+Diese Veränderung war nicht nur ein Experiment, sondern spiegelte auch das Tourleben, die körperliche Erschöpfung und die geistige Belastung wider. Mit zunehmender Aufführungszeit verändert sich auch die Beziehung zum Publikum. Inmitten des heftigen Moshs beginnt die Musik den Charakter einer Art Härtetest anzunehmen.
 
 In dieser Zeit erweiterten Black Flag die Grenzen des Hardcore und legten den Grundstein für spätere Einflüsse auf Sludge, Grunge und Alternative Rock.
 
@@ -156,7 +156,7 @@ flowchart TD
 
 ## Wirkung und Vermächtnis
 
-Black Flag war eine Band, deren Vermächtnis mehr auf Methode und Einstellung als auf kommerziellen Erfolg beruhte. Ihr DIY-Ethos, ihre anstrengenden Tourneen und ihre Weigerung, musikalische Kompromisse einzugehen, wurden zum Bezugspunkt für unzählige Bands.
+Black Flag war eine Band, deren Erbe mehr auf Methode und Einstellung als auf kommerziellen Erfolg beruhte. Ihr DIY-Ethos, ihre anstrengenden Tourneen und ihre musikalische Kompromisslosigkeit wurden zum Bezugspunkt für unzählige Bands.
 
 Die 7-Zoll-Songs „Nervous Breakdown“ und „Jealous Again“ gelten immer noch als Grundform des Hardcore. Andererseits lösten die härteren, langsameren Songs der zweiten Hälfte der Band Genregrenzen auf und beeinflussten das Publikum über Punk hinaus.
 

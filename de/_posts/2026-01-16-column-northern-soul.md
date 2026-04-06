@@ -17,7 +17,7 @@ title: '[Kolumne] Ursprung des Northern Soul und seine Popularität in Japan'
 
 ## Was ist Northern Soul?
 
-Text: mmr｜Thema: Wie sich Northern Soul, das in den 1960er Jahren in England geboren wurde, nach Japan ausbreitete und einzigartige Akzeptanz und Unterstützung erlangte, über die Geschichte, Kultur und die lokale Szene.
+Text: mmr｜Thema: Wie Northern Soul, das in den 1960er Jahren in England geboren wurde, sich nach Japan ausbreitete und einzigartige Akzeptanz und Unterstützung erlangte, über die Geschichte, Kultur und die lokale Szene.
 
 
 Der Begriff Northern Soul ist sowohl ein Musikgenre als auch ein Konzept, das sich auf bestimmte kulturelle Einstellungen und Praktiken bezieht. Es handelt sich um eine Musikkultur, die in der Clubszene Nordenglands enthusiastisch unterstützt wurde und sich hauptsächlich auf schnelle Soulmusik konzentrierte, die Mitte bis Ende der 1960er Jahre in Amerika produziert wurde, insbesondere auf Songs kleinerer Labels, die keinen kommerziellen Erfolg hatten.
@@ -48,9 +48,9 @@ color: #fff;
 
 Der Hintergrund für die Geburt von Northern Soul waren die regionalen Unterschiede, die die britische Gesellschaft in den 1960er Jahren plagten, und der Wandel der Jugendkultur. Im Süden, mit Schwerpunkt auf London, wurden Mod-, Psychedelic- und später Rockkultur sichtbar, während in den industriellen Metropolregionen des Nordens ein anderes Interesse an schwarzer amerikanischer Musik bestand.
 
-In Städten wie Manchester, Wigan, Blackpool und Sheffield etablierte sich eine Kultur, in der junge Menschen aus der Arbeiterklasse an Wochenendabenden in die Clubs strömten und stundenlang tanzten. Dort waren Lieder, die niemand kannte, die aber überwiegend tanzbar waren, wertvoller als die neuesten Hits.
+In Städten wie Manchester, Wigan, Blackpool und Sheffield entwickelte sich eine Kultur, in der junge Menschen aus der Arbeiterklasse an Wochenendabenden in die Clubs strömten und stundenlang tanzten. Dort waren Lieder, die niemand kannte, die aber überwiegend tanzbar waren, wertvoller als die neuesten Hits.
 
-Wichtig ist in diesem Zusammenhang die physische und psychische Distanz zwischen Nordengland und Amerika. Soulmusik, die ihren Ursprung im amerikanischen Süden und in Detroit hatte, fand bei jungen Menschen im Norden stärkeren Anklang als in London. Dies liegt daran, dass Themen wie Arbeit, Unterdrückung und Solidarität als alltägliche Sensibilitäten geteilt wurden.
+Wichtig ist in diesem Zusammenhang die physische und psychische Distanz zwischen Nordengland und Amerika. Soulmusik, die ihren Ursprung im amerikanischen Süden und in Detroit hatte, fand im Norden stärkeren Anklang bei den jungen Menschen als in London. Dies liegt daran, dass Themen wie Arbeit, Unterdrückung und Solidarität als alltägliche Sensibilitäten geteilt wurden.
 
 > Northern Soul entstand spontan an der Schnittstelle der sozialen Struktur Nordenglands und der Körperkultur junger Menschen.
 
@@ -128,7 +128,7 @@ In Japan wurde Northern Soul nicht in der gleichen Form reproduziert wie in Gro�
 
 Es betont tendenziell die Klangqualität von Schallplatten, die Seltenheit von Schallplatten und das Bekenntnis zu Originalschallplatten statt zum Tanz und zeichnet sich durch seine starke Verbindung zur Sammlerkultur aus. Andererseits bleibt der Kern der tanzbaren Musik erhalten und es finden weiterhin tanzorientierte Veranstaltungen statt.
 
->Japans nördliche Seele hat sich durch die einzigartige Balance zwischen Wertschätzung und Körperlichkeit etabliert.
+> Japanese Northern Soul hat sich etabliert, indem es auf einzigartige Weise die Balance zwischen Wertschätzung und Körperlichkeit schafft.
 
 ---
 

@@ -15,9 +15,9 @@ title: Sugababes – Form
 ---
 
 
-Sugababes ist eine britische weibliche Popgruppe, die 1998 vom Manager von All Saints gegründet wurde.
+Sugababes ist eine britische Frauenpopgruppe, die 1998 vom Manager von All Saints gegründet wurde.
 
-„Shape“ erschien 2003 und war die vierte Single von Sugababes. Sie enthielt Stings „Shape of My Heart“, einen Hit, der in den britischen Charts Platz 11 erreichte und in den Niederlanden und Irland die Top 10 erreichte.
+„Shape“ erschien 2003 und war die vierte Single von Sugababes, die Stings „Shape of My Heart“ enthielt, einen Hit, der in den britischen Charts Platz 11 erreichte und in den Niederlanden und Irland die Top 10 erreichte.
 
 Side A ist ein Remix von Salaam Remi, einem US-amerikanischen Hip-Hop-Produzenten, der für die Produktion von Songs von Nas, Amy Winehouse, Sullivan und anderen bekannt ist.
 

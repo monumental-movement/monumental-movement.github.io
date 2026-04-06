@@ -75,7 +75,7 @@ flowchart TD
 ## Kapitel 2: Der Aufstieg von Funkadelic – Die Psychedelisierung der schwarzen Musik (1968-)
 
 Im Jahr 1968 stellte sich George Clinton einen „schwarzen Jimi Hendrix“ vor und gründete **Funkadelic**.
-Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic mischte sich weiter:
+Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic vermischte sich noch weiter:
 
 ### ● Musikalische Eigenschaften von Funkadelic
 
@@ -84,7 +84,7 @@ Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic
 * **Aufruf und Antwort zum Evangelium der schwarzen Kirche**
 * **Texte mit starker politischer Kritik**
 
-Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist wegen Eddie Hazells über 10-minütigem Gitarrensolo in Erinnerung geblieben.
+Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist berühmt für Eddie Hazells über 10-minütiges Gitarrensolo.
 Es wurde als „musikalische Verkörperung schwarzer Traurigkeit und Wut“ beschrieben.
 
 ---
@@ -269,14 +269,14 @@ timeline
 ## Fazit: P-Funk ist ein „riesiges Archiv schwarzer Futures“
 
 George Clinton ist mehr als nur ein Funk-Leader.
-Er war ein „Kulturdesigner“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
+Er war ein „Kulturarchitekt“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
 
 Die Weltanschauung von P-Funk ist bis heute lebendig und bildet die Grundlage für aktuellen Hip-Hop, R&B, Elektrokunst und Mode.
 Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft spricht, wird ihr Raumschiff „Mothership“ niemals landen.
 
 ---
 
-### Anhang: Empfohlene Diskographie (von der Einführung bis zum Deep Dive)
+### Anhang: Empfohlene Diskografie (von der Einführung bis zum Deep Dive)
 
 * Funkadelic „Maggot Brain“
 * Funkadelic „Cosmic Slop“

@@ -16,7 +16,7 @@ title: '[Kolumne] Wrong Way Up und „The Beach“ – Nachhall der Utopie und d
 ---
 
 
-## Prolog: Die auf dem Weg nach Süden – die moderne „Paradies“-Fantasie
+## Prolog: Diejenigen, die nach Süden fahren – die moderne „Paradies“-Fantasie
 
 Text: mmr | Thema: Erkundung der Klänge von Utopie und Flucht durch Brian Eno & John Cales „Wrong Way Up“ und „The Beach“ mit Leonardo DiCaprio in der Hauptrolle
 
@@ -62,7 +62,7 @@ Alles sei ein Produkt von „Kooperation und Reibung“.
 Der Titel „Wrong Way Up“ hat eine doppelte Bedeutung.
 Es ist ein Gefühl des Unbehagens in einer „auf dem Kopf stehenden Welt“ und gleichzeitig eine Allegorie für „einen Geist, der beim Aufstieg wandert“.
 
-Klanglich ist Enos charakteristisches, sanftes Ambiente von Cales melodischer Absicht durchdrungen.
+Klanglich ist Enos charakteristisches, sanftes Ambiente mit Cales melodischer Absicht durchdrungen.
 „Spinning Away“ zum Beispiel ist eine perfekte Mischung aus schwebenden Gefühlen und Nostalgie. Synthesizer-Partikel funkeln wie Reflexionen auf der Meeresoberfläche und Cales Stimme erinnert an „fernes Land“.
 
 ---
@@ -135,14 +135,14 @@ Hier überlagern sich Ton und Bild perfekt und schaffen eine moderne „Illusion
 ---
 
 Wohin werden wir im 21. Jahrhundert rennen?
-In einer Zeit, in der soziale Medien die Welt verbinden und KI eine Rolle in der Vorstellungskraft spielt, klingt der Ausdruck „Wrong Way Up“** noch realistischer.
+In einer Zeit, in der soziale Medien die Welt verbinden und KI eine Rolle in der Vorstellungskraft spielt, klingt der Satz „Wrong Way Up“** noch realistischer.
 „Falscher Aufstieg“ ist heute eine Metapher für Zivilisation.
 
 Das Album von Eno & Cale hatte eine Vorahnung von „Musik, nachdem man das Paradies aufgegeben hatte“.
 Die Melodie fragt leise. „Wenn Sie das Paradies nicht finden können, bauen Sie es in der Musik.“
 
 Der Moment am Ende von „The Beach“, als Richard mit einem Lächeln im Gesicht auf seinen Computerbildschirm starrt.
-Es gibt keine tropischen Lichter oder Träume von Gemeinschaft mehr.
+Es gibt keine tropischen Lichter und keine Träume mehr von Gemeinschaft.
 Der „Nachhall ferner Klänge“ bleibt jedoch in seinem Herzen.
 
 ---

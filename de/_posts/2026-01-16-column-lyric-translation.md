@@ -68,7 +68,7 @@ Im Bereich der Textübersetzung ist die Wahl zwischen wörtlicher Übersetzung u
 Wörtliche Übersetzungen sind gut darin, die Bedeutung zu bewahren, verlieren aber oft an Rhythmus und Emotion.
 Parallelübersetzungen bewahren den Hörsinn und die Emotionen, weichen jedoch tendenziell von der Bedeutung des Originaltextes ab.
 
-Insbesondere in der Popmusik gelten starke Einschränkungen hinsichtlich Melodie und Wortanzahl, und die Logik der Prosaübersetzung gilt nicht.
+Insbesondere in der Popmusik gibt es starke Einschränkungen hinsichtlich Melodie und Wortzahl und die Logik der Prosaübersetzung greift nicht.
 Das Hinzufügen oder Entfernen einer einzelnen Silbe stört die gesamte Melodie und zwingt Übersetzer dazu, die Bedeutung ständig zu reduzieren und neu zu konstruieren.
 
 In diesen Prozess greifen zwangsläufig das eigene kulturelle Verständnis und die Werturteile des Übersetzers ein.
@@ -98,7 +98,7 @@ Aus diesem Grund tendieren japanische Texte dazu, dem Klang den Vorrang vor der 
 Nach dem Krieg strömte mit der Verbreitung von Radio und Schallplatten eine große Menge westlicher Popmusik nach Japan.
 In dieser Zeit wurden viele Lieder in ihrer Originalsprache oder mit einfachen Übersetzungen eingeführt.
 
-Andererseits gibt es viele Fälle, in denen es als beliebtes Lied adaptiert wurde und der Originalmelodie neue japanische Texte hinzugefügt wurden.
+Andererseits wurde es in vielen Fällen als beliebtes Lied adaptiert, wobei der Originalmelodie neue japanische Texte hinzugefügt wurden.
 Hierbei handelt es sich nicht um reine Übersetzungen, sondern um kulturelle Nachbildungen.
 
 Der in dieser Zeit entstandene Brauch „japanischer Texte, die von den Originalliedern getrennt sind“ hatte einen lang anhaltenden Einfluss.
@@ -124,7 +124,7 @@ Allerdings war diese zweisprachige Übersetzung nur eine Hilfe zum Verständnis,
 ## Kapitel 6 Fehlinterpretation und Umdeutung als Kulturtransfer
 
 Fehlinterpretationen sind beim Kulturtransfer durch Übersetzung unvermeidlich.
-Allerdings hat diese Fehlinterpretation nicht zwangsläufig negative Folgen.
+Allerdings hat diese Fehlinterpretation nicht zwangsläufig nur negative Folgen.
 
 Es gibt viele Beispiele für Texte, die in einer Kultur missverstanden werden, in einem anderen Kontext eine neue Bedeutung erhalten und einzigartige Rezeptionsgeschichten bilden.
 Durch diese Kette von Neuinterpretationen wurde auch die Rezeption von Rock und Hip-Hop in Japan etabliert.

@@ -150,7 +150,7 @@ Tempo ist ein numerischer Wert, aber das Erlebnis ist gestaltet.
 
 ### Fall: BPM-Konstante/Wahrnehmungsänderung
 
-Selbst bei denselben 120 BPM fühlt es sich schneller an, wenn Sie den Backbeat betonen, und wenn Sie das Intervall erweitern, fühlt es sich langsamer an.
+Selbst bei den gleichen 120 BPM wird es sich schneller anfühlen, wenn Sie den Backbeat betonen, und wenn Sie das Intervall erweitern, wird es sich langsamer anfühlen.
 
 > Tempo ist kein Zahlenwert, sondern ein wahrnehmungsmäßiges Gestaltungsergebnis.
 
@@ -178,11 +178,11 @@ Sogar kurze Schleifen ändern wahrnehmungsmäßig ihre Länge.
 
 ### Fall: Verschleierung der Kündigung
 
-Indem Sie die letzte Note des Loops schwächen, können Sie den Bruch nicht mehr spüren.
+Durch das Abschwächen der letzten Note des Loops ist der Bruch nicht mehr zu spüren.
 
 ### Fall: Außerperiodischer Akzent
 
-Durch die Platzierung starker Klänge außerhalb des Zeitraums wird das Zeitgefühl gedehnt.
+Indem starke Klänge außerhalb des Zeitraums platziert werden, wird das Zeitgefühl gedehnt.
 
 > Die psychologische Zeit wird getrennt von der physischen Zeit gestaltet.
 
@@ -200,7 +200,7 @@ Der Schwerpunkt liegt auf aus Samples abgeleiteten Backbeats und Fluktuationen. 
 
 ### IDM
 
-Strukturelle Komplexität und asymmetrisches Design. Unstimmigkeiten in der Periode und unregelmäßige Taktarten stören das Zeitgefühl.
+Strukturelle Komplexität und asymmetrisches Design. Diskrepanzen in der Periode und unregelmäßige Taktarten stören das Zeitgefühl.
 
 > Genre ist eine Sammlung von Rhythmus-Design-Ideen.
 
@@ -234,7 +234,7 @@ Gehen wir unter den gleichen Bedingungen von einem Grundschlag aus 4/4 16 Steps,
 
 Beim MPC-Denken schlagen Sie zunächst auf natürliche Weise mit dem Pad an und passen dann die Abweichung und Stärke später an. Das fertige Produkt wird ein physischer Moment mit leichten Schwankungen sein.
 
-Platzieren Sie beim TR-Denken zunächst den Kick auf der 1., 5., 9. und 13. Stufe und die Snare auf der 5. und 13. Stufe und berücksichtigen Sie bei Bedarf Auslassungen und Akzente. Das fertige Produkt wird eine klare Struktur und Zeiteinteilung haben.
+Platzieren Sie beim TR-Denken zunächst den Kick auf der 1., 5., 9. und 13. Stufe und die Snare auf der 5. und 13. Stufe und berücksichtigen Sie bei Bedarf Auslassungen und Akzente. Das fertige Produkt wird eine klare Struktur und Zeitplanung haben.
 
 Beim Piano-Roll-Denken richten Sie die Anfangspunkte und Längen der Noten visuell aus, verschieben einige davon jedoch absichtlich nach vorne oder hinten. Das ausgefüllte Formular wird eine Zeitstruktur sein, die die Entwurfsabsicht so visualisiert, wie sie ist.
 

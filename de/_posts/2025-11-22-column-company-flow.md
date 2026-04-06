@@ -227,7 +227,7 @@ Es besteht aus aufwändigen Metaphern und abstrakten Ausdrücken.
 
 „The Fire in Which You Burn“ wird aus folgenden Gründen hoch gelobt:
 
-* Repräsentative Lieder, die die Politik von Company Flow deutlich machen
+* Repräsentative Songs, die die Politik von Company Flow deutlich machen
 * Die Sounddesign-Fähigkeiten von El-P sind hervorragend.
 * Inhalte, die den Underground-Hip-Hop der späten 90er Jahre symbolisieren
 * Viele Prototypelemente späterer Werke von Def Jux (Cannibal Ox usw.) sind zu sehen.
@@ -244,7 +244,7 @@ Company Flow hat der Wahrung der Künstlerautonomie Priorität eingeräumt.
 Die Meinungsverschiedenheiten mit dem Label nahmen nach und nach zu,
 1999 verließen sie Rawkus Records.
 
-Abstand zu „Großsystemen“ wahren,
+Abstand zu „Großsystemen“ halten,
 Die erneute Hinwendung zum Indie war ein Ereignis, das die Ästhetik von Company Flow prägte.
 
 ---
@@ -276,7 +276,7 @@ Der Sound ist eindeutig zukunftsorientiert und weist einen direkten Bezug zum Kl
 # Kapitel 9: Aussetzung der Aktivitäten und Fortschritt der Mitglieder (2001–)
 
 Um 2001 wurde Company Flow inaktiv.
-Obwohl es sich dabei nicht um eine eindeutige „Auflösungserklärung“ handelt, gilt sie als faktische Beendigung ihrer Tätigkeit.
+Obwohl es sich dabei nicht um eine eindeutige „Auflösungserklärung“ handelt, gilt es als faktisches Ende ihrer Tätigkeit.
 
 Die Entwicklung der Mitglieder seitdem ist wie folgt.
 
@@ -396,7 +396,7 @@ Er präsentierte eine Perspektive, die auch nach mehr als 20 Jahren noch aktuell
 Das Erbe von Company Flow ist
 Es geht über den Wert bloßer Musikwerke hinaus.
 
-* Möglichkeit von Indie
+* Indie-Möglichkeiten
 * Autonomie des Künstlers
 * Bedeutung der Politik
 * Untergrund als Ästhetik

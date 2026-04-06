@@ -21,14 +21,14 @@ title: '[Kolumne] Von den Ursprüngen des NY House bis zur Gegenwart ─ Geschic
 Text: mmr｜Thema: Die Entwicklung der gefühlvollen New Yorker House-Stimmen und urbanen Grooves
 
 
-New York House entstand aus den Echos der Disco und der Aufregung der Underground-Clubkultur und entwickelte sich schließlich zu einer globalen Hauptstadt der Tanzmusik. In diesem Artikel werden wir die Geschichte der Musik von ihren Anfängen bis heute Jahr für Jahr nachzeichnen, einschließlich historischer Hintergründe, repräsentativer Meisterwerke und Veränderungen in der Ausstattung.
+New York House entstand aus den Echos der Disco und der Aufregung der Underground-Clubkultur und entwickelte sich schließlich zu einer globalen Hauptstadt der Tanzmusik. In diesem Artikel werden wir die Geschichte der Musik von ihren Anfängen bis zur Gegenwart Jahr für Jahr nachzeichnen, einschließlich historischer Hintergründe, repräsentativer Meisterwerke und Veränderungen in der Ausstattung.
 
 ---
 
 
 ### Ende der 1970er Jahre: Abkehr von der Disco
 - **Hintergrund**
-Während große Diskotheken wie das Studio 54 florierten, entstanden auch Underground-Clubs, die sich der Kommerzialisierung widersetzten. Hier begann die Dynamik des Hauses.
+Während große Diskotheken wie das Studio 54 florierten, entstanden auch Underground-Clubs, die sich der Kommerzialisierung widersetzten. Hier begann die Geburt des Hauses.
 - **Repräsentative Spots**
 - Paradise Garage (symbolisiert durch Larry Levans DJ-Spiel)
 - **Repräsentative Werke**

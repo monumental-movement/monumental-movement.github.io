@@ -38,9 +38,9 @@ Er hat oft mit experimentellen Musikern und Rockmusikern aus Übersee zusammenge
 
 Andererseits ist die Medienpräsenz äußerst gering.
 
-Auf der Bühne ist er für seinen ikonischen Auftritt in schwarzer Kleidung, langen Haaren und Sonnenbrille bekannt und ist auch für seine Leistung bekannt, die weder seine eigenen noch die anderer „nachahmt“.
+Auf der Bühne ist er für seinen ikonischen Auftritt in schwarzer Kleidung, langen Haaren und Sonnenbrillen bekannt und ist auch für seine Leistung bekannt, die weder seine eigenen noch die anderer „nachahmt“.
 
-Er ist ein Künstler, der nicht nur die Musik selbst, sondern auch den Akt der Darbietung durch echte Improvisation präsentiert.
+Er ist ein Künstler, der nicht nur die Musik selbst präsentiert, sondern auch den Akt der Aufführung durch echte Improvisation.
 
 > Keiji Haino ist nicht nur Musiker, er ist so etwas wie ein spiritueller Entdecker japanischer Experimentalmusik.
 
@@ -90,7 +90,7 @@ Sie sollten in der Lage sein, Musik freier abzuspielen.
 
 Diese Idee führte später zu seinem Interesse an Improvisation.
 
-> Keiji Hainos frühe Rockerfahrungen wurden zum Ausgangspunkt für sein Verständnis von Musik als Form spirituellen Ausdrucks.
+> Keiji Hainos frühe Rockerfahrungen wurden zum Ausgangspunkt für seine Herangehensweise an Musik als eine Form spirituellen Ausdrucks.
 
 ---
 
@@ -112,7 +112,7 @@ Keiji Haino wird eine der zentralen Figuren sein.
 Banderfahrung der frühen 1970er Jahre
 
 Lost Araf war eine Band, der Keiji Haino in den frühen 1970er Jahren angehörte, bevor er Fushitsusha gründete.
-Diese Gruppe war eine der ersten japanischen Underground-Rockbands und ihre Musik war von psychedelischem Rock und Blues beeinflusst.
+Diese Gruppe war eine der frühen japanischen Underground-Rockbands und ihre Musik war von psychedelischem Rock und Blues beeinflusst.
 
 Zu dieser Zeit steckte die Rockbandkultur in Japan noch in den Kinderschuhen, und nach und nach bildete sich eine eigene Underground-Szene heraus, die sich von der kommerziellen Musik unterschied.
 Lost Araf war eine der Gruppen, die in diesem Trend aktiv waren, und war für Keiji Haino eine wichtige frühe musikalische Erfahrung.
@@ -131,7 +131,7 @@ Aktivitäten mit Lost Alaf waren einer der Ausgangspunkte für Keiji Hainos Musi
 
 Verbindung mit zeitgenössischer japanischer Musik
 
-Über die Musik von Keiji Haino wird oft im Kontext von Rock und Noise gesprochen, sie hat aber auch Verbindungen zur zeitgenössischen japanischen Musik.
+Über die Musik von Keiji Haino wird oft im Kontext von Rock und Noise gesprochen, sie weist aber auch Verbindungen zur zeitgenössischen japanischen Musik auf.
 
 Der Zusammenhang mit den Aktivitäten des Komponisten Toru Takemitsu ist dafür ein symbolisches Beispiel.
 
@@ -184,7 +184,7 @@ Es wird gesagt, dass der Live-Auftritt eher ein Erlebnis als eine Musik war.
 
 Das Publikum war von Klang umhüllt, die Aufführungen dauerten teilweise mehrere Stunden.
 
-Ungefähr zu dieser Zeit begann sich Hainos Musik zu etwas zu entwickeln, das sich nicht durch ein Genre erklären ließ.
+Ungefähr zu dieser Zeit begann Hainos Musik zu etwas zu werden, das sich nicht durch ein Genre erklären ließ.
 
 Rock-Energie
 Free-Jazz-Freiheit
@@ -245,7 +245,7 @@ Keiji Hainos Musik wird oft durch dröhnende Gitarren und intensive Improvisatio
 
 Sein Solo-Percussion-Stück „Everything“ ist ein typisches Beispiel.
 
-Obwohl dieses Stück Schlagzeug und Percussion verwendet, liegt der Schwerpunkt eher auf der Resonanz und dem nachklingenden Klang als auf dem Rhythmus.
+Obwohl dieses Stück Schlagzeug und Percussion verwendet, liegt der Schwerpunkt eher auf der Resonanz und dem anhaltenden Klang als auf dem Rhythmus.
 
 Der Nachhall, der sich nach dem Aufprallgeräusch ausbreitet.
 Schallschwingungen schwanken im Raum.
@@ -380,7 +380,7 @@ Keiji Haino verwendet viele Instrumente, die folgenden sind jedoch besonders wic
 | ----------- | ----------- |
 | E-Gitarre | Zentrum von Lärm und Drohnen |
 | Akustische Gitarre | Auftritt mit Gesang |
-| Drehleier | Drohne mit anhaltendem Ton |
+| Hurdy-gurdy | Drohne mit anhaltendem Ton |
 | Schlagzeug | Soloaufführung „Everything“ |
 | Trommelmaschine | DJ-Auftritt der 2010er Jahre |
 | Synthesizer | Improvisationssound |
@@ -404,7 +404,7 @@ Und es gibt noch eine weitere Angewohnheit bei seinen Auslandstouren.
 Das bedeutet, dass Sie in den besuchten Städten CDs und Schallplatten kaufen müssen.
 
 Schauen Sie in einem örtlichen CD-Laden vorbei und suchen Sie nach unbekannter Musik.
-Wählen Sie unabhängig von Genre oder Nationalität etwas aus, das Ihnen ins Ohr fällt.
+Wählen Sie unabhängig von Genre oder Nationalität etwas aus, das Ihnen ins Auge fällt.
 
 Es ist nicht nur eine Sammlung.
 Dabei handelt es sich um die Suche nach Geräuschen, die Sie noch nie zuvor gehört haben, nach Geräuschen aus Kulturen, die Sie nicht kennen, und nach Musik, die nicht in bestehende Klassifizierungen passt.
@@ -420,7 +420,7 @@ Durch die Begegnung mit unbekannten Klängen verändert sich auch meine Musik.
 ---
 
 
-## Chronologie der Keiji Haino-Diskografie (Auszug)
+## Chronologie der Keiji Haino-Diskographie (Auszug)
 
 ### Fluss von Solo- und Hauptwerken
 

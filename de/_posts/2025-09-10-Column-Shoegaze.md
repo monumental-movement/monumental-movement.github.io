@@ -14,7 +14,7 @@ title: '[Kolumne] Von den Ursprüngen von Shoegaze bis zur Gegenwart – 10 Meis
 
 
 
-## Shoegaze – historischer Hintergrund, berühmte Rekorde, Änderungen in der Ausrüstung und 10 empfohlene Tracks –
+## Shoegaze – historischer Hintergrund, berühmte Platten, Änderungen in der Ausrüstung und 10 empfohlene Tracks –
 
 
 Text: mmr｜Thema: Von den Ursprüngen von Shoegaze bis zur Gegenwart
@@ -60,7 +60,7 @@ color: #fff;
 |------|--------------|----------|
 | Du hast es mir klar gemacht | Mein verdammter Valentinstag | Fusion aus Lärm und süßer Melodie |
 | Bald | Mein verdammter Valentinstag | Ein Meisterwerk, das das zukünftige Image von Shoegaze prägte |
-| Lorelei | Cocteau-Zwillinge | Pionier verträumter Texturen |
+| Loreley | Cocteau-Zwillinge | Pionier verträumter Texturen |
 | Genau wie Honig | Die Kette von Jesus und Maria | Der Prototyp süßer Melodie und Brüllen |
 | Primitive Maler | Filz | Eine Fusion aus britischem Indie und Ästhetik |
 | Kondensstreifen | Fahrt | Majestätische Streicher und Gebrüll |
@@ -139,7 +139,7 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 
 ## 2010er – Neo Shoegaze
 ### Historischer Hintergrund
-- Von der Internet-Generation entdeckt und neue Unterstützung gewonnen.
+- Von der Generation Internet entdeckt und neue Unterstützung gewonnen.
 - Bands der neuen Generation wie DIIV und Nothing entstehen.
 - Fusion mit Dreampop und Chillwave.
 

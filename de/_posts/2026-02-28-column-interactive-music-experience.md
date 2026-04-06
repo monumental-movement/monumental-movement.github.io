@@ -82,7 +82,7 @@ Mit einem am Kopf montierten Display und räumlichem Klang hat Musik einen „Or
 
 Typische Beispiele sind:
 
-*Besiege Sabre
+*Besiege Saber
 * Live-Events in Fortnite
 
 ### 2020er Jahre: KI und Echtzeitgenerierung
@@ -210,8 +210,8 @@ Nicht erforderlich. Es funktioniert auch gut auf Smartphones und webbasierten Sy
 
 ### Wie sind Ihre Zukunftsaussichten?
 
-Es wird vorhergesagt, dass individuell optimierte Musikumgebungen, Biofeedback-Verknüpfung und räumliche Akustik anspruchsvoller werden.
+Es wird vorhergesagt, dass individuell optimierte Musikumgebungen, Biofeedback-Verknüpfungen und räumliche Akustik anspruchsvoller werden.
 
-> Die Zukunft interaktiver Musik liegt in der Philosophie des Erlebnisdesigns, nicht in der Technologie.
+> Die Zukunft der interaktiven Musik liegt in der Philosophie des Erlebnisdesigns, nicht in der Technologie.
 
 ---

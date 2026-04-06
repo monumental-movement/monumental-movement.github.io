@@ -50,7 +50,7 @@ Die Wurzeln von Mathcore liegen im **Hardcore-Punk** und **Metalcore** der spät
 
 ### Untergrundszene Boston-New Jersey
 
-DEP entstand Ende der 1990er Jahre im Nordosten der USA, zu einer Zeit, als die Fusion von Hardcore- und Noise-Rock aktiv war, und durch die Kombination dieser mit „Technokratismus“ entstanden neue Variationen mit beispielloser Geschwindigkeit und Komplexität.
+DEP entstand Ende der 1990er Jahre im Nordosten der USA, zu einer Zeit, als die Fusion von Hardcore- und Noise-Rock aktiv war, und durch die Kombination mit „Technokratismus“ entstanden neue Variationen mit beispielloser Geschwindigkeit und Komplexität.
 
 ---
 
@@ -63,7 +63,7 @@ Im Folgenden sind die Merkmale ihrer Liedstrukturen aufgeführt.
 ### 1. Ultraschnelle und fragmentierte Struktur
 
 Bemerkenswert ist die Technik, Phrasen von 1-2 Schlägen mit hoher Geschwindigkeit und nicht in Takteinheiten zu ändern.
-Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente immer wieder ins Wanken gebracht.
+Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente ständig erschüttert.
 
 ### 2. Einfluss vom Jazz
 
@@ -130,7 +130,7 @@ flowchart TD
 
 * Umgang mit **metrischer Modulation** (der Illusion des Tempos)
 * Mehrstufige Anordnung von Snare-Akzenten
-*Polyrhythmische simultane Aussprache (z. B. 5 verbundene Figuren über 4/4)
+* Polyrhythmische gleichzeitige Aussprache (z. B. 5 verbundene Figuren über 4/4)
 
 ### Basis
 

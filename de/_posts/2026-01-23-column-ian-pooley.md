@@ -25,7 +25,7 @@ Ian Pooley wurde 1973 in Mainz, Deutschland, geboren. Seine Eltern stammten aus 
 
 Schon in jungen Jahren wurde zu Hause eher schwarze Musik wie Jazz, Soul und Funk gespielt als Rock. Schon früh entwickelte er ein Gespür dafür, nicht nur auf die rhythmische Dynamik, sondern auch auf Akkordfolgen und Spielintervalle zu achten. Insbesondere die E-Basslinien und die räumliche Ausdehnung durch die Akkorde wurden zu wichtigen Grundlagen für spätere Produktionen.
 
-Als er Teenager war, fühlte er sich stark von der damals wachsenden Tanzmusik angezogen, wie Hip-Hop, Electro und Acid House. Was ihn hier faszinierte, war nicht die Starqualität oder der Text, sondern die „Struktur“ des Tracks selbst. Für Pooley stellen die subtilen Veränderungen, die durch Wiederholungen und die Plastizität der von DJs neu arrangierten Musik entstehen, eine neue Sichtweise auf Musik dar.
+Als er Teenager war, fühlte er sich stark zur Tanzmusik hingezogen, die zu dieser Zeit auf dem Vormarsch war, wie Hip-Hop, Elektro und Acid House. Was ihn hier faszinierte, war nicht die Starqualität oder der Text, sondern die „Struktur“ des Tracks selbst. Für Pooley stellen die subtilen Veränderungen, die durch Wiederholungen und die Plastizität der von DJs neu arrangierten Musik entstehen, eine neue Sichtweise auf Musik dar.
 
 > Die vielschichtigen musikalischen Wurzeln verleihen Ian Pooleys Werk stets intellektuelle Tiefe.
 
@@ -66,7 +66,7 @@ C --> D[DJセット内での定着]
 
 ## Merkmale der Musikalität: Gestaltung von Grooves, Akkorden und Wiederholungen
 
-Ian Pooleys Musikalität beruht mehr auf der inneren Struktur als auf dem oberflächlichen Stil. Der Vier-auf-der-Vier-Rhythmus ist täuschend einfach, aber darunter verbirgt sich ein komplexes Zusammenspiel von Basslinie, Akkorden und Percussion.
+Ian Pooleys Musikalität beruht mehr auf der inneren Struktur als auf dem oberflächlichen Stil. Der Four-on-the-Floor-Rhythmus ist täuschend einfach, aber darunter verbirgt sich ein komplexes Zusammenspiel von Basslinie, Akkorden und Percussion.
 
 Bemerkenswert ist die Codearbeit. Obwohl er Harmonien verwendet, die eine jazzartige Spannung vermitteln, stellt er sie nicht zu sehr in den Vordergrund. Die Akkorde sind lediglich als Elemente zur Verstärkung des Grooves platziert, ohne die Aufmerksamkeit des Zuhörers zu sehr zu stehlen. Dieser unterdrückte Ausdruck ist bei langen DJ-Mixes sehr effektiv.
 
@@ -84,7 +84,7 @@ Das Besondere an Pooley ist, dass er nicht den Standpunkt vertrat, eine bestimmt
 
 Die Produktion erfolgt mit einer Methode, bei der die Echtzeitleistung im Vordergrund steht. Auch bei der Aufnahme mit einem Sequenzer sind Loops nicht fixiert; Sie werden durch Fader-Bedienung, Stummschaltung und Effektverarbeitung ständig verändert. Dies war ein Versuch, gleichzeitig als Studio das gleiche Zeitgefühl wie ein Club zu vermitteln.
 
-Der Mixer war nicht nur ein Lautstärkeregler, sondern fungierte als Teil der Songstruktur. Die Lokalisierung und das Band jedes Tons werden unter der Annahme entwickelt, dass er letztendlich durch einen DJ-Mixer geleitet wird, wodurch die Diskrepanz zwischen dem Studio-Mix und dem Mix vor Ort minimiert wird.
+Der Mixer war nicht nur ein Lautstärkeregler, sondern fungierte als Teil der Songstruktur. Bei der Lokalisierung und Bandbreite jedes Tons wird davon ausgegangen, dass er letztendlich durch einen DJ-Mixer geleitet wird, wodurch die Diskrepanz zwischen dem Studio-Mix und dem Mix vor Ort minimiert wird.
 
 ### Vergleich der Produktionsumgebung mit zeitgenössischen Künstlern
 
@@ -122,7 +122,7 @@ DJs „spielen“ Songs nicht, sie „arrangieren“ sie. Pooley verstand die Pr
 
 ### Vergleich mit Tracks für zeitgenössische DJs
 
-In den späten 1990er Jahren konzentrierten sich viele House-Tracks auf unmittelbare Effekte und hatten eine Struktur, die innerhalb kurzer Zeit eine Reaktion beim Publikum hervorrief. Obwohl diese vorübergehend hochwirksam waren, nahm ihre Anwendungshäufigkeit langfristig tendenziell ab.
+In den späten 1990er Jahren konzentrierten sich viele House-Tracks auf unmittelbare Effekte und hatten eine Struktur, die innerhalb kurzer Zeit eine Reaktion beim Publikum hervorrief. Obwohl diese vorübergehend sehr wirksam waren, nahm ihre Anwendungshäufigkeit langfristig tendenziell ab.
 
 Pooleys Lieder hingegen unterdrücken bewusst den Höhepunkt der Reaktion. Dadurch konnten DJs die Dynamik des gesamten Sets selbst gestalten und die Songs wurden immer wieder zu wiederverwendbarem Material.
 

@@ -44,7 +44,7 @@ color: #fff;
 ## ◆ 1980–90er: Beginnt mit der Hip-Hop-Kultur
 Human Beatbox (im Folgenden als Beatbox bezeichnet) expandierte in den 1980er Jahren mit der Hip-Hop-Kultur an der Ostküste der Vereinigten Staaten. Zu den frühen Vertretern zählen Buff Love von The Fat Boys und Doug E. Fresh, dessen technisches System sich aus einer Drum-Machine-ähnlichen Imitation entwickelte.
 
-In den 1990er Jahren verbreitete sich Beatboxing durch Radio- und Live-Auftritte auf der ganzen Welt und Beatboxen begann sich nach und nach als Ausdruck und nicht nur als Begleitung zu verselbständigen.
+In den 1990er Jahren verbreitete sich Beatboxing durch Radio- und Live-Auftritte auf der ganzen Welt und Beatboxen begann sich allmählich als Ausdruck und nicht nur als Begleitung zu verselbständigen.
 
 ---
 
@@ -57,7 +57,7 @@ Seit den 2000er Jahren hat sich eindeutig eine globale Turnierkultur herausgebil
 Eine Weltmeisterschaft in Deutschland. Es wird mehrere Kategorien geben, z. B. Solo, Tag und Crew.
 
 - **Grand Beatbox Battle (GBB)**
-Obwohl es zunächst relativ klein war, ist es seit Ende der 2010er Jahre schnell gewachsen. Bildung großer internationaler Abteilungen wie Solo-, Loop-Station-, Tag- und Crew-Teams.
+Obwohl es zunächst relativ klein war, ist es seit Ende der 2010er Jahre schnell gewachsen. Bildung großer internationaler Divisionen wie Solo-, Loop-Station-, Tag- und Crew-Teams.
 
 Diese Wettbewerbe steigerten weltweit das Niveau der technischen Fähigkeiten, standardisierten Bewertungskriterien, unterteilten Genres und steigerten die Komplexität der Aufführungsformate.
 
@@ -122,7 +122,7 @@ Das rasante Wachstum war in den letzten Jahren bemerkenswert.
 - Hohe Klangqualität
 - Geschwindigkeit der Anpassung an Genres
 
-Zu den Stärken Japans gehören insbesondere „Tongenauigkeit“, „Kompositionsfähigkeit“ und „Kompatibilität mit Bildern und Produktion“.
+Japans Stärken sind insbesondere „Genauigkeit des Tons“, „Kompositionsfähigkeit“ und „Kompatibilität mit Bildern und Produktion“.
 
 ---
 
@@ -173,7 +173,7 @@ Er hat dazu beigetragen, den Bekanntheitsgrad von Loopstation-Spielern in Japan 
 
 ### ● Präzise Technik
 RUSY ist für seine äußerst präzisen Rhythmen und geschmeidigen Kombinationstechniken bekannt und hat vor allem bei nationalen Turnieren in Japan großes Lob erhalten.
-Die Merkmale sind:
+Zu den Funktionen gehören:
 
 - enge Rille
 - Klare und dichte Aussprache
@@ -197,7 +197,7 @@ Es ist in diesem Teil.
 
 ### ● Koeys Stil
 - Schärfe für den Kampf
-- Entwicklung, die den Schalldruck nutzt
+- Entwicklung, die sich den Schalldruck zunutze macht
 - Einbindung detaillierter Technologie in Schlüsselpunkte
 
 Unter den jüngsten japanischen Spielern ist er ein Spieler mit einem Ton, der bei Live-Auftritten heraussticht.
@@ -240,7 +240,7 @@ timeline
 
 # 9. Beatbox-Trends auf der ganzen Welt und in der Zukunft
 
-## ◆ 1. Die Grenze zwischen Musikproduktion verschwimmt
+## ◆ 1. Die Grenze zwischen Musikproduktion ist fließend
 Mit der Entwicklung von Loopstation, Beatboxen
 **"Echtzeitversion der Musikproduktion"**
 Hin zu einem Bereich, der angerufen werden kann

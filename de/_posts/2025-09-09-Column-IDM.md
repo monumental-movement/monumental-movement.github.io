@@ -99,7 +99,7 @@ Hardware-Synthesizer wie **Nord Lead** und **Access Virus** wurden populär.
 ---
 
 ## 2000er: Post-IDM und Crossover
-Durch die Verschmelzung mit Electronica, Post-Rock, Ambient usw. wird es einem breiteren Publikumskreis zugänglich gemacht. Mit der Verbreitung des Internets und P2P hat sich die Art der Veröffentlichungen verändert.
+Durch die Verschmelzung mit Electronica, Post-Rock, Ambient usw. wird es einem breiteren Publikumskreis zugänglich gemacht. Mit der Verbreitung des Internets und P2P hat sich auch die Art und Weise verändert, wie Veröffentlichungen durchgeführt werden.
 
 - **Repräsentatives Meisterwerk**
 - Boards of Canada – *Geogaddi* (2002)
@@ -129,7 +129,7 @@ Soft-Synthesizer wie **Reaktor und FM7** sind zum Standard geworden.
 ---
 
 ## 2010er Jahre: Wiederverbindung mit dem Club
-Gemischt mit Bassmusik, Grime und Ambient Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
+Gemischt mit Bassmusik, Grime und Ambient-Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
 
 - **Repräsentatives Meisterwerk**
 - Oneohtrix Point Never – *Replica* (2011)

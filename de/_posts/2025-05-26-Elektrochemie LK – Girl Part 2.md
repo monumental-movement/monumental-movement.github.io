@@ -23,7 +23,7 @@ Der erste Song auf Seite A ist ein Remix von Christopher Just, bekannt für sein
 
 Der zweite Track auf Seite A ist ein Remix des deutschen Techno-DJs und Produzenten Stephan Bodzin.
 
-Der erste Song auf der B-Seite ist ein Remix von ALEXANDER KOWALSKI, einem seit den 90er Jahren aktiven Techno-Produzenten und Performer.
+Der erste Song auf Seite B ist ein Remix von ALEXANDER KOWALSKI, einem seit den 90er Jahren aktiven Techno-Produzenten und Performer.
 
 #### Trackliste
 ```md

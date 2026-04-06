@@ -19,7 +19,7 @@ title: '[Kolumne] Avantgarde-Jazz – eine Bewegung, die Strukturen auflöste un
 
 ## Prolog: Der Moment, als der Jazz ins „Unbekannte“ vordrang
 
-Text: mmr｜Thema: Zum Wesen des Avantgarde-Jazz, der sich als Lösungsmusik oft vom Mainstream distanziert.
+Text: mmr｜Thema: Über das Wesen des Avantgarde-Jazz, der als Lösungsmusik oft von anderen distanziert wird.
 
 
 Mitte des 20. Jahrhunderts schien Jazz eine ausgereifte Musik zu sein. Es gab unterschiedliche Stile: Swing, Bebop und Hard Bop sowie eine gemeinsame Sprache aus Akkordfolgen, Taktarten und Solostrukturen. Doch in den späten 1950er Jahren begann eine Bewegung, still aber sicher an genau dieser Prämisse zu zweifeln. Muss Musik wirklich Harmonie und Form folgen? Wie frei kann Improvisation sein? Aus diesen Fragen entstand die Bewegung, die später „Avantgarde-Jazz“ genannt wurde.
@@ -61,7 +61,7 @@ Insbesondere der Mode-Jazz ist eine wichtige Vorstufe. Die Methode des Improvisi
 
 ---
 
-Ornette Coleman ist das Symbol für den Ausgangspunkt des Avantgarde-Jazz. Sein Auftritt stellte nicht einfach nur einen neuen Stil vor, sondern stellte die eigentliche Struktur des Jazz in Frage. Wir entfernen Rahmenwerke wie Tonalität, Akkordfolge und Rollenverteilung und bauen die Beziehungen zwischen den Interpreten neu auf. Seine Ideen hatten großen Einfluss auf die spätere avantgardistische Improvisationsmusik insgesamt.
+Ornette Coleman ist das Sinnbild für den Ausgangspunkt des Avantgarde-Jazz. Sein Auftritt stellte nicht einfach nur einen neuen Stil vor, sondern stellte die eigentliche Struktur des Jazz in Frage. Wir entfernen Rahmenwerke wie Tonalität, Akkordfolge und Rollenverteilung und bauen die Beziehungen zwischen den Interpreten neu auf. Seine Ideen hatten großen Einfluss auf die spätere avantgardistische Improvisationsmusik insgesamt.
 
 ### Innovation des frühen Quartetts
 
@@ -69,7 +69,7 @@ Charakteristisch für Colemans Quartett, das Ende der 1950er Jahre gegründet wu
 
 ### 代表録音分析：[The Shape of Jazz to Come（1959）](https://amzn.to/49KxOLD)
 
-In diesem Werk sind die Grenzen zwischen Thema und Improvisation äußerst fließend. Die Eröffnungsmelodie ist klar vorgetragen, doch unmittelbar danach entwickelt jeder Spieler eine eigenständige Melodielinie. Wichtig ist, dass die Aufführung als Ganzes trotz des Fehlens von Akkordfolgen ein Gefühl der Einheit behält.
+In diesem Werk sind die Grenzen zwischen Thema und Improvisation äußerst fließend. Die Eröffnungsmelodie ist klar vorgetragen, doch unmittelbar danach entwickelt jeder Spieler eine eigenständige Melodielinie. Wichtig ist, dass trotz des Fehlens von Akkordfolgen die Aufführung als Ganzes ein Gefühl der Einheit behält.
 
 Colemans Altsaxophon nutzt häufig Tonhöhensprünge, die sich über die Tonhöhen erstrecken, und Phrasen dehnen und verkürzen sich wie Lieder. Der Bass bleibt nicht beim Gehen, sondern integriert melodische Bewegungen, und das Schlagzeug fungiert eher als Reaktionsmittel denn als Taktart. Hier wird das Konzept einer Rhythmusgruppe neu definiert.
 
@@ -188,7 +188,7 @@ timeline
 
 ## Nachfolgende Einflüsse: Erweiterung der improvisierten Musik
 
-Der Avantgarde-Jazz hatte großen Einfluss auf die spätere freie Improvisation, Noise und experimentelle Musik. Die Idee der Freiheit von der Form hat sich auch in den Bereichen Rock und elektronische Musik vererbt.
+Der Avantgarde-Jazz hatte großen Einfluss auf die spätere freie Improvisation, Noise und experimentelle Musik. Auch in den Bereichen Rock und elektronische Musik hat sich die Idee der Befreiung von der Form vererbt.
 
 Besonders wichtig ist, dass er Improvisation als einen Ausdruck positioniert, der nicht an einen bestimmten Gebrauch gebunden ist. Dies hat Auswirkungen, die über Musikgenres hinausgehen.
 

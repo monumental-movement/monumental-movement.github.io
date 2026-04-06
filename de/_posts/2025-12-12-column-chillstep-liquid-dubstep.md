@@ -60,7 +60,7 @@ Zu den Funktionen gehören:
 * Verleiht Atmungsdynamik, ohne dass die Seitenkette extrem tief wird
 * Konzentrieren Sie sich eher auf „Build ~ Melodie“ als auf Drop
 
-Obwohl der Einfluss von Mt. Eden groß ist, entstand der Name „Chillstep“ als Genre spontan in der Internetkultur.
+Obwohl der Einfluss von Mt. Eden groß ist, entstand der Genrename „Chillstep“ ganz natürlich innerhalb der Internetkultur.
 
 ---
 
@@ -150,7 +150,7 @@ Die Arbeit von MitiS überspannt sanft die Grenze zwischen Chillstep und Melodic
 
 ---
 
-## 4. Videokultur und Internetverbreitung von Chillstep
+## 4. Chillsteps Videokultur und Internetverbreitung
 
 Es ist wichtig, dass sich Chillstep zusammen mit der Musik als „visuelle Kultur“ verbreitet.
 
@@ -219,7 +219,7 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 
 * Sinuswellenzentrum
 * Bei Bedarf Dreieckswellen untermischen, um für mehr Wärme zu sorgen
-*LFO ist sanft
+* LFO ist sanft
 * Seitenkette ist dünn
 * Die Freigabe ist kurz und fest
 

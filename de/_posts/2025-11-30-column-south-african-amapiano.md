@@ -17,7 +17,7 @@ title: '[Kolumne] South African Amapiano – Eine neue Tanzmusikkultur aus Süda
 
 ## Einleitung – Warum jetzt Amapiano?
 
-Text: mmr｜Thema: Amapianos Ursprünge, musikalische Eigenschaften, Entwicklungsgeschichte, bedeutende Künstler und Prozess der Internationalisierung
+Text: mmr｜Thema: Ursprünge von Amapiano, musikalische Merkmale, Entwicklungsgeschichte, Hauptkünstler und Prozess der Internationalisierung
 
 In den letzten Jahren hat das aus Südafrika stammende Tanzmusikgenre **Amapiano** nicht nur in Japan, sondern auch in Clubszenen in ganz Afrika, Europa, Nordamerika und Asien für Aufmerksamkeit gesorgt.
 
@@ -97,7 +97,7 @@ Mehreren Quellen zufolge begannen die Experimente mit Amapiano um 2012, und spä
 
 ---
 
-### Abbildung 2: Geburtsort und anfängliche Ausbreitung
+### Abbildung 2: Geburtsort und anfängliche Verbreitung
 
 <div class="mermaid">
 graph TD
@@ -111,7 +111,7 @@ graph TD
 
 ---
 
-Ich habe es. Jetzt erweitere ich Kapitel 3 und die folgenden und erstelle einen **vollständigen Entwurf auf Japanisch**, während ich auch Markdown-Diagramme einfüge.
+Ich habe es. Jetzt erweitere ich Kapitel 3 und die folgenden Kapitel und erstelle einen **vollständigen Entwurf auf Japanisch**, während ich auch Markdown-Diagramme einfüge.
 
 ---
 
@@ -142,7 +142,7 @@ Diese Zeit machte Amapiano nicht nur zu einer Township-Musik, sondern zu einem l
 
 ---
 
-### Abbildung 3: Künstlerbeziehungen während der Genre-Etablierung
+### Abbildung 3: Künstlerbeziehungen während der Etablierung des Genres
 
 <div class="mermaid">
 graph LR

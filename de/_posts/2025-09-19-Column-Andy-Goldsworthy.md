@@ -42,7 +42,7 @@ color: #fff;
 
 | Themen | Goldsworthys Werke | Ähnlichkeiten mit Musik |
 |--------|----------------|----------------|
-| **Zeit** | Arbeitet auf der Grundlage von Veränderungen wie Eis, Blättern, Zweigen usw., die schmelzen oder verwelken | Musikalisches Zeitgefühl mittels Phasenverschiebungen und Schleifen (z. B. Steve Reich) |
+| **Zeit** | Arbeitet auf der Grundlage von Veränderungen wie Eis, Blättern, Ästen usw., die schmelzen oder verwelken | Musikalisches Zeitgefühl mittels Phasenverschiebungen und Schleifen (z. B. Steve Reich) |
 | **Standort** | Werke sind untrennbar mit der natürlichen Umgebung verbunden, in der sie entstehen | Musik, die die „Klänge des Ortes“ durch Feldaufnahmen einfängt |
 | **Vergänglichkeit** | Werke, die aufgrund von Wind, Regen und Sonnenlicht einstürzen | Verschwindender Nachhall und Ausklingen anhaltender Klänge |
 | **Zyklus** | Betont die Zyklen der Jahreszeiten und Naturphänomene | Zyklisches Zeitgefühl durch Drohnen und repetitive Strukturen |
@@ -123,7 +123,7 @@ color: #fff;
 
 ### Saisonaler Fluss
 
-- Frühling: Ryuichi Sakamoto - *Async*
+– Frühling: Ryuichi Sakamoto – *Async*
 - Sommer: Chris Watson ― *Wetterbericht*
 - Herbst: Johann Johannsson - *Orphée*
 - Winter: Alva Noto & Ryuichi Sakamoto - *Vrion*

@@ -77,7 +77,7 @@ Repräsentative Modelle:
 - **Sequentielle Schaltungen Pro-One**
 - **Roland TR-606/TR-808 (Drum Machine)**
 
-Es ist jetzt möglich, Musik mit einem einzigen Synthesizer und einem 4-Spur-Kassettenrecorder zu erstellen, anstatt teure modulare Geräte zu verwenden.
+Es ist jetzt möglich, Musik mit einem eigenständigen Synthesizer und einem 4-Spur-Kassettenrekorder zu erstellen, anstatt teure modulare Geräte zu verwenden.
 
 ### ● 2-2. Einfluss von Punk/Post-Punk
 - Die Punk-Idee, dass „jeder Musik machen kann“

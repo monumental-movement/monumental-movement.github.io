@@ -74,7 +74,7 @@ Seit den 1980er Jahren erfreut es sich als Format mit hoher Klangqualität, lang
 
 Es wurde möglich, vollständige Partituren aufzunehmen, was ein goldenes Zeitalter für die Wertschätzung von Filmmusik einläutete.
 
-Es treten auch auf Soundtracks spezialisierte Labels auf (La-La Land Records, Intrada, Varese Sarabande usw.).
+Es sind auch auf Soundtracks spezialisierte Labels erschienen (La-La Land Records, Intrada, Varese Sarabande usw.).
 
 ■DVD/Blu-ray: Video + Musik
 

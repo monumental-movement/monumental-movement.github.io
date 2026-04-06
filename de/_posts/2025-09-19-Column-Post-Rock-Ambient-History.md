@@ -16,9 +16,9 @@ title: '[Spalte] Geschichte von Post-Rock/Ambient und Änderungen in der Ausrüs
 
 ## Von den Ursprüngen des Post-Rock/Ambient bis zur Gegenwart
 
-Text: mmr｜Thema: Zukunftsaussichten von Post-Rock und Ambient seit ihren Anfängen in den 1970er Jahren
+Text: mmr｜Thema: Post-Rock und Ambient, von ihren Anfängen in den 1970er Jahren bis zu ihren Zukunftsaussichten
 
-Post-Rock- und Ambient-Musik haben ihren Ursprung im experimentellen Geist der 1970er Jahre und haben sich inmitten szenenbezogener und technologischer Innovationen weiterentwickelt.
+Post-Rock- und Ambient-Musik haben ihren Ursprung im experimentellen Geist der 1970er Jahre und haben sich inmitten von Szenen und technologischen Innovationen weiterentwickelt.
 Hier stellen wir eine umfassende Liste von Meisterwerken, Ausrüstung und kulturellen Hintergründen zur Verfügung, damit Sie einen Panoramablick auf die Zeit **von den 1970er bis 2020er Jahren** erhalten.
 
 ---
@@ -49,7 +49,7 @@ color: #fff;
 | *Ambient 1: Musik für Flughäfen* | Brian Eno | 1978 | Definition des Begriffs „Umgebung“ |
 | *Eine andere grüne Welt* | Brian Eno | 1975 | Pionier der Post-Rock-Sensibilität |
 | *Phädra* | Mandarinen-Traum | 1974 | Sequenzergesteuerte Innovation |
-| *Diskrete Musik* | Brian Eno | 1975 | Bandschleifen-Experiment |
+| *Diskrete Musik* | Brian Eno | 1975 | Tape-Loop-Experiment |
 
 **Hauptausrüstung**
 - Moog Modular
@@ -93,7 +93,7 @@ color: #fff;
 
 **Hauptausrüstung**
 - Zeile 6 DL4
--Akai MPC2000
+- Akai MPC2000
 -Korg MS-20
 
 ---
@@ -147,7 +147,7 @@ color: #fff;
 |------|--------------|----|------|
 | *Versprechen* | Gleitkommazahlen, Pharoah Sanders & LSO | 2021 | Jazz x Klassik x Ambient |
 | *Klagelieder* | William Basinski | 2020 | Kollapsästhetik im digitalen Zeitalter |
-| KI-Ambient-Projekte | Verschiedene | 2020er Jahre | Unendlich generative Musik |
+| KI-Ambient-Projekte | Verschiedene | 2020er | Unendlich generative Musik |
 | *Alles* | Langsame Wiese | 2022 | Meditative Postklassik |
 
 **Hauptausrüstung**
@@ -179,6 +179,16 @@ Die Geschichte der Post-Rock-/Ambient-Musik war eine Reihe von Herausforderungen
 Die Zukunft wird mit einer „immersiven Klangarchitektur“, die generative KI und körperliche Empfindungen verbindet, weiter aktualisiert.
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7Xm2CreH5E?si=KfTgIYSIaieLzpji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Verwandte Spalten
 

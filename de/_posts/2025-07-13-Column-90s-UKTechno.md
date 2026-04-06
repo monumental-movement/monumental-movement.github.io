@@ -15,7 +15,7 @@ title: '[Kolumne] Das goldene Zeitalter des britischen Techno'
 
 ## Das goldene Zeitalter des britischen Techno: eine Aufzeichnung der Sounds und Kämpfe der 1990er Jahre
 
-Text: mmr｜Thema: Britische Technokultur
+Text: mmr｜Thema: UK Techno Culture
 
 
 <hr>
@@ -30,7 +30,7 @@ In den 1990er Jahren vertiefte sich Techno und veränderte sich in Klang und Gei
 ### Fusion aus Rave-Kultur und Underground
 Nach dem „Second Summer of Love“ im Jahr 1988 wurde Großbritannien von einer Explosion aus Acid House und Rave erfasst. In der Folgezeit entstanden Anfang der 90er Jahre verschiedene Unterarten von Hardcore, Breakbeat und Techno im Untergrund.
 
-Andererseits führten das Ende der Thatcher-Regierung und die zunehmende wirtschaftliche Ungleichheit dazu, dass sich die Unzufriedenheit und Rebellion junger Menschen in der Musik niederschlug. Britischer Techno war nicht nur Tanzmusik, sondern auch eine soziale Bewegung, bewaffnet mit Soundsystemen und illegalen Raves.
+Andererseits führten das Ende der Thatcher-Regierung und die zunehmende wirtschaftliche Ungleichheit dazu, dass sich die Unzufriedenheit und Rebellion junger Menschen in der Musik niederschlug. UK-Techno war nicht nur Tanzmusik, es war auch eine soziale Bewegung, bewaffnet mit Soundsystemen und illegalen Raves.
 
 
 <hr>
@@ -84,7 +84,7 @@ Ein Label, das tieferen, in Detroit ansässigen britischen Techno einführte. Au
 
 ### Starr, experimentell und rebellisch
 
-Der UK-Techno der 90er hat die folgenden klanglichen Eigenschaften:
+Der UK-Techno der 90er Jahre hat die folgenden klanglichen Eigenschaften:
 
 - Einfluss von Industrial/EBM (insbesondere Downwards-Stil)
 
@@ -94,7 +94,7 @@ Der UK-Techno der 90er hat die folgenden klanglichen Eigenschaften:
 
 - Verinnerlichung sozialer und politischer Botschaften (Einfluss der Rave-Kultur)
 
-Es ist anzumerken, dass es im Vereinigten Königreich nicht nur ein stärkeres Bewusstsein für die „Funktionalität“ von Techno gab, sondern auch für „Ausdruckskraft“ und „Nachdenklichkeit“.
+Es ist anzumerken, dass im Vereinigten Königreich nicht nur ein stärkeres Bewusstsein für die „Funktionalität“ von Techno bestand, sondern auch für „Ausdruckskraft“ und „Nachdenklichkeit“.
 
 
 <hr>

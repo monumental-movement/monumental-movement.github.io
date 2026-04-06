@@ -62,11 +62,11 @@ C --> D[インド北部音楽文化]
 
 ## Eine ketzerische Präsenz in der klassischen indischen Musik
 
-Sitar, Sarod und Bansuri, die Hauptinstrumente der Hindustani-Musik, legen alle Wert auf anhaltende und sanfte Klänge. Da es sich bei der Santur andererseits um ein Schlaginstrument handelt, ist die Dauer des Tons kurz, was es schwierig macht, Mitteltöne (sanfte Töne) direkt auszudrücken.
+Sitar, Sarod und Bansuri, die Hauptinstrumente der Hindustani-Musik, legen alle Wert auf anhaltende und sanfte Klänge. Da es sich bei der Santur andererseits um ein Schlaginstrument handelt, ist die Dauer des Klangs kurz, was es schwierig macht, Mitteltöne (sanfte Töne) direkt auszudrücken.
 
 Aus diesem Grund galt die Santour lange Zeit als „unvollendetes klassisches Instrument“. Diese Einschränkung wurde jedoch zur Grundlage für spätere einzigartige Interpretationen.
 
-> Einschränkungen waren kein Nachteil, sondern eine Voraussetzung für die Schaffung neuer musikalischer Ausdrucksformen.
+> Einschränkungen waren kein Nachteil, sondern eine Voraussetzung für die Schaffung neuer musikalischer Idiome.
 
 ---
 
@@ -74,7 +74,7 @@ Aus diesem Grund galt die Santour lange Zeit als „unvollendetes klassisches In
 
 Pandit Shivkumar Sharma war der Mann, der die Santoor im späten 20. Jahrhundert als offizielles Soloinstrument in der klassischen indischen Musik förderte. Er verbesserte die Saitenstruktur des Santoor und realisierte das für die Raga-Darbietung notwendige Tonleitersystem.
 
-Darüber hinaus erlangte der Santur seinen Status als Melodieinstrument, indem er sich die Körnigkeit des Klangs zunutze machte, der durch das Anschlagen der Saiten erzeugt wurde, und eine Spielmethode etablierte, die Gamaka und Meando simuliert.
+Darüber hinaus erlangte der Santur seinen Status als melodisches Instrument, indem er die Körnigkeit des durch das Anschlagen der Saiten erzeugten Klangs nutzte und eine Spielmethode etablierte, die Gamaka und Meando simuliert.
 
 > Sharmas Leistung bestand nicht darin, das Instrument zu verändern, sondern darin, die Art und Weise zu verändern, wie das Instrument gehört wurde.
 
@@ -82,21 +82,21 @@ Darüber hinaus erlangte der Santur seinen Status als Melodieinstrument, indem e
 
 ## Santoor in Raga und Tara
 
-Auch bei der Aufführung des Santoor werden der Zeitraum, der emotionale Charakter und die Tonleiterstruktur des Raga strikt beachtet. Der klare Anschlag der Streicher verleiht der statischen Entwicklung von Aarap ein neues Spannungsgefühl.
+Auch bei der Darbietung des Santoor werden der Zeitraum, der emotionale Charakter und die Tonleiterstruktur des Raga strikt beachtet. Der klare Anschlag der Streicher verleiht der statischen Entwicklung von Aarap ein neues Spannungsgefühl.
 
 Sobald der Santoor in der Tala angekommen ist, beginnt er eine perkussive treibende Kraft anzunehmen und verwischt die Grenze zwischen Melodie und Rhythmus. Diese Dualität erzeugt einen Charme, den man bei anderen Melodieinstrumenten nicht findet.
 
-> Die Santour ist ein Instrument, das zwischen Melodie und Rhythmus existiert.
+> Der Santour ist ein Instrument, das im mittleren Bereich zwischen Melodie und Rhythmus angesiedelt ist.
 
 ---
 
 ## Aufnahmetechnik und Santour-Ausbau
 
-Seit dem späten 20. Jahrhundert hatten Fortschritte in der Aufnahmetechnologie einen erheblichen Einfluss auf den Ruf von Santour. Die Details des Santour, der einen kurz ausklingenden Klang hat, wurden durch das Mikrofon betont, was ihm einen dreidimensionalen Klang verleiht.
+Seit dem späten 20. Jahrhundert hatten Fortschritte in der Aufnahmetechnik einen erheblichen Einfluss auf den Ruf von Santour. Die Details des kurz ausklingenden Klangs des Santour wurden durch das Mikrofon hervorgehoben, was ihm einen dreidimensionalen Klang verleiht.
 
 Dies hat dazu geführt, dass es nicht nur auf Soloauftritte, sondern auch auf Ensembles und Filmmusik angewendet wird.
 
-> Die Technologie hat die Präsenz von Santour erweitert, nicht das Volumen.
+> Die Technologie hat die Präsenz von Santour erweitert, nicht sein Volumen.
 
 ---
 
@@ -104,9 +104,9 @@ Dies hat dazu geführt, dass es nicht nur auf Soloauftritte, sondern auch auf En
 
 Seit den 1970er Jahren wird Santoor mit Jazz, Ambient- und Minimal-Musik in Verbindung gebracht. Das regelmäßige Schlagmuster der Saiten passt gut zur sich wiederholenden Struktur und wurde auch mit Borduntönen und elektronischen Klängen integriert.
 
-Auch bei Aufführungen außerhalb des indischen klassischen Rahmens beeinflusst das Raga-Denken weiterhin die Auswahl der Klänge.
+Auch bei Aufführungen außerhalb des klassischen indischen Rahmens beeinflusst das Raga-Denken weiterhin die Auswahl der Klänge.
 
-> Auch an Orten fern der Tradition ist Santoors Denkweise nicht verloren gegangen.
+> Auch an Orten fernab der Tradition ist Santoors Denkweise nicht verloren gegangen.
 
 ---
 
@@ -122,7 +122,7 @@ Aufführungen beginnen oft mit einer sanften Note. In dem Moment, in dem der Sch
 
 ## Symbiotische Beziehung zwischen kaschmirischen Volksliedern und Santoor
 
-In Kaschmir war Santoor bereits vor der klassischen Musik eng mit der Volkskultur verbunden. Es wurde oft zu einem Lied bei Hochzeitszeremonien, saisonalen Festen, religiösen Versammlungen und anderen Anlässen gespielt.
+In Kaschmir war Santoor schon vor der klassischen Musik eng mit der Volkskultur verbunden. Es wurde oft zu einem Lied bei Hochzeitszeremonien, saisonalen Festen und religiösen Zusammenkünften gespielt.
 
 Beim Spielen der Santour als Begleitung zu Volksliedern haben die Intonation der Melodie und der Sprechstil Vorrang vor strengen Tonleitern. Der Schlägel wird nicht mit konstanter Kraft nach unten geschwungen, sondern ändert seine Geschwindigkeit und seinen Winkel subtil, um sich an die Atmung des Sängers anzupassen.
 
@@ -185,7 +185,7 @@ timeline
 
 Die Santur ist nicht nur ein Volksinstrument. Dies ist eine Antwort auf die Frage, wie sich Klang an die Zeit erinnert. Wenn unzählige Saiten gleichzeitig anschlagen, verschwinden die einzelnen Töne und es bleibt nur die Gesamtresonanz übrig.
 
-Diese Eigenschaft ist der Grund, warum Santour auch in der Neuzeit immer wieder aktualisiert wird.
+Diese Eigenschaft ist der Grund, warum Santours auch in der Neuzeit immer wieder modernisiert werden.
 
 > Der Santour ist kein Instrument, das die Vergangenheit bewahrt, sondern ein Gerät, das die Vergangenheit in die Gegenwart verwandelt.
 

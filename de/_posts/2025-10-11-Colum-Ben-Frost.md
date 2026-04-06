@@ -107,7 +107,7 @@ Was stattdessen existiert, ist der „Druck“ des Raumes und die „Dauer“ de
 Ben Frost fungiert im Video als „Soundarchitekt“.
 
 Der Bass, der in der Dunkelheit widerhallt, ist wie der Herzschlag der Stadt,
-Es weckt die „Erinnerung an die Stille“, die der Mensch in der Zivilisation verloren hat.
+Es weckt die „Erinnerung an die Stille“, die die Menschen in der Zivilisation verloren haben.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFs4yX4V7NQ?si=5uis91ei2caQPCcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -145,7 +145,7 @@ Verwandeln Sie die Bühne in einen rituellen Raum aus Licht und Lärm.
 Extremer Schalldruck, niederfrequente Wellen, weißes Licht.
 Sie betäuben die Sinne des Publikums und machen es zu einem **heiligen Erlebnis**.
 
-Der Aufbau gleicht einem Laibach, einem Schwäne oder gar einer religiösen Zeremonie.
+Der Aufbau gleicht einem Laibach, einem Schwäne oder sogar einer religiösen Zeremonie.
 „Die Ruhe, die jenseits des Übermaßes liegt“——
 Frost findet darin eine Art **Erleichterung**.
 
@@ -178,7 +178,7 @@ Lärm ist keine Zerstörung, sondern die Stimme der Umwelt.
 Er sagt:
 > „Der Akt des Zuhörens ist ein Gefühl des Überlebens.“
 
-Sound ist keine Unterhaltung oder Kunst mehr.
+Klang ist keine Unterhaltung oder Kunst mehr.
 Es ist ein „physiologisches Werkzeug“, das es dem Menschen ermöglicht, sich wieder mit der Welt zu verbinden.
 
 ---

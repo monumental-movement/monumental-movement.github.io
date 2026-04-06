@@ -17,7 +17,7 @@ title: Kraftwerk – Die Mischung
 Kraftwerk wurde 1970 von Ralf Hütter und Florian Schneider gegründet.
 Deutsche Elektro-Techno-Band. Er ist ein Vertreter des Krautrocks und gilt auch als Pionier des Techno-Hop.
 
-Dieses 1991 von EMI veröffentlichte Album ist Kraftwerks zehntes Studioalbum. Hierbei handelt es sich um eine komplett neu arrangierte und neu aufgenommene Version einer Auswahl von Songs aus Kraftwerks Alben Autobahn (1974) bis Electric Café (1986), wobei Songs wie „The Robots“ und „Radioactivity“ neue Melodien und Texte enthalten.
+Dieses 1991 von EMI veröffentlichte Album ist Kraftwerks zehntes Studioalbum. Dies ist eine komplett neu arrangierte und neu aufgenommene Version einer Auswahl von Songs aus Kraftwerks Alben Autobahn (1974) bis Electric Café (1986), wobei Songs wie „The Robots“ und „Radioactivity“ neue Melodien und Texte enthalten.
 
 
 #### Trackliste

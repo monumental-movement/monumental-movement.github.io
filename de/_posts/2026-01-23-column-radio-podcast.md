@@ -23,7 +23,7 @@ Text: mmr｜Thema: Das Medium der Stimme, das sich durch Musik verwandelt – Ü
 
 
 Radio wird oft als Musikmedium bezeichnet, doch als es erfunden wurde, bestand seine Essenz im gleichzeitigen Teilen von Audio.
-Nachrichten, Reden, Lesungen.
+Nachrichten, Reden, Lesungen. Musik war einer der Hauptinhalte, aber nicht der Zweck.
 
 Musik war jedoch das Element, das am besten mit dem Radiogerät kompatibel war.
 Es geht über die Sprache hinaus, ist langlebig, wiederholbar und hat eine direkte Wirkung auf Emotionen.
@@ -94,7 +94,7 @@ Das Musikformat selbst wurde für die Sendezeit optimiert.
 ## Führungswechsel durch Fernsehen und visuelle Kultur
 
 
-Ab den 1950er Jahren wurde das Fernsehen zum zentralen Medium der Musikkultur.
+Seit den 1950er Jahren hat sich das Fernsehen zu einem zentralen Medium der Musikkultur entwickelt.
 Musik verschiebt den Schwerpunkt von einem Hörerlebnis zu einem visuellen Erlebnis.
 
 Die Einführung von MTV in den 1980er Jahren bestimmte diesen Trend.
@@ -116,7 +116,7 @@ Das Radio wird als „Stimme, die keine Konzentration erfordert“ überleben.
 Während dieser Zeit wird die Musik zur Hintergrundmusik und die Erzählung wird vereinfacht.
 Obwohl sein Einfluss abgenommen hat, ist seine Verbreitung im Alltag geblieben.
 
-> Das Radio blieb als Hintergrundgeräusch erhalten.
+> Radio blieb als Hintergrundgeräusch erhalten.
 
 ---
 
@@ -136,7 +136,7 @@ Radio muss keine „Sendung“ mehr sein.
 ## Den Podcast neu erfinden
 
 Podcasts waren Radio ohne Sender.
-Von Einzelpersonen erstellt, von Einzelpersonen gesprochen und Einzelpersonen erreicht.
+Von Einzelpersonen produziert, von Einzelpersonen gesprochen und Einzelpersonen erreicht.
 
 Im Gegensatz zur Musikverbreitung steht bei Podcasts das Geschichtenerzählen im Vordergrund.
 Musik wird zu einem Objekt, das analysiert, erinnert und kontextualisiert werden muss.
@@ -174,7 +174,7 @@ Nischenmusikkulturen und spezialisierte Narrative lassen sich in diesem Modell n
 
 Podcasts haben kein einheitliches Einnahmemodell.
 
-Werbung, Sponsoring, Produkte und Events.
+Werbung, Sponsoring, Produkte und Veranstaltungen.
 Mehrere Einnahmequellen werden kombiniert und die Urheber bleiben unabhängig.
 
 ---

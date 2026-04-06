@@ -13,7 +13,7 @@ title: Zwinkern – Höherer Bewusstseinszustand
 ---
 
 
-Josh Wink, auch bekannt als Wink, ist ein DJ/Produzent/Remixer elektronischer Tanzmusik aus Philadelphia, USA. Wink war Anfang der 1990er Jahre ein Pionier der DJ-Szene in der amerikanischen Rave-Szene und „Higher State Of Consciousness“ ist einer seiner Signature-Songs.
+Josh Wink, auch bekannt als Wink, ist ein DJ/Produzent/Remixer für elektronische Tanzmusik aus Philadelphia, USA. Wink war Anfang der 1990er Jahre ein Pionier der DJ-Szene in der amerikanischen Rave-Szene und „Higher State Of Consciousness“ ist einer seiner Signature-Songs.
 
 Der A-Seiten-Remix ist Dirty South und TV Rock. Der B-Seiten-Remix ist Marco V.
 

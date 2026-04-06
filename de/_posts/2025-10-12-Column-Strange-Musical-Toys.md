@@ -11,15 +11,15 @@ tags:
 - History
 - 90s
 - 00s
-title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Geräuschen aus
-  der ganzen Welt'
+title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Klängen aus der
+  ganzen Welt'
 ---
 
 
 ## „Klangspielzeuge“ auf der ganzen Welt
 
 
-Text: mmr | Thema: Vom Kinderspielzeug zum Künstlerinstrument – ​​Auf dem Weg in die Ära von KI-Spielzeug, taktilen Instrumenten und sozialem Spielzeug
+Text: mmr | Thema: Von Kinderspielzeug zu Künstlerinstrumenten – Auf dem Weg in die Ära von KI-Spielzeug, taktilen Instrumenten und sozialem Spielzeug
 
 Es gibt Orte, an denen die Grenze zwischen Musik und Spiel verschwimmt. Wir leben in einer Welt, in der die elektronischen Klänge von Spielzeugen, die in Kinderhänden gehalten werden, irgendwann als kreative Werkzeuge für professionelle Bühnen und Künstler anerkannt werden. Seltsame Klangquellen wie Radel, Omnichord, Stylophone und Circuit Bending, die selbstgebaute Schaltkreise modifizierten, wurden zu mehr als nur Spielzeug und wurden zu kulturellen Experimentiergeräten.
 
@@ -59,7 +59,7 @@ Die Vereinfachung elektronischer Klänge öffnete tatsächlich die Tür zu neuen
 ---
 
 ### Tragbare Weiterentwicklung elektronischer Musikinstrumente
-Die Digitalisierung traditioneller Musikinstrumente hat nicht nur in Indien, sondern in ganz Asien Fortschritte gemacht. Es sind Musikinstrumente aufgetaucht, die sogar Kinder bedienen können, darunter kleine Sitars, Gamelans im Taschenformat und elektronische Harfen. Die durch elektronische Technologie erzeugte Stabilität und Leichtigkeit des Klangs regt die Kreativität der Künstler an.
+Die Digitalisierung traditioneller Musikinstrumente hat nicht nur in Indien, sondern in ganz Asien Fortschritte gemacht. Es sind Musikinstrumente aufgetaucht, die sogar von Kindern bedient werden können, darunter kleine Sitars, Gamelans im Taschenformat und elektronische Harfen. Die durch elektronische Technologie erzeugte Stabilität und Leichtigkeit des Klangs regt die Kreativität der Künstler an.
 
 ---
 
@@ -95,7 +95,7 @@ Eine Fusion aus subtilen elektronischen Klängen und analogem Feeling. Das zarte
 
 ## Ⅳ. Europäische seltsame Tongeräte
 
-### Stylophon und Optigan
+### Stylophone und Optigan
 Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein markanter Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
 Der Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspielt und sich durch unvorhersehbare Muster und Rhythmen auszeichnet.
 
@@ -120,7 +120,7 @@ Auch in Europa hielt elektronisches Lernspielzeug Einzug in die Clubkultur und d
 
 ## Ⅴ. Amerikas DIY-Elektronik und seltsame Erfinder
 
-Circuit Bending ist eine Methode zur Erzeugung neuer Klänge durch Modifizierung vorhandener elektronischer Spielzeuge und Synthesizer und wurde in den 1970er Jahren von Reed Ghazala kodifiziert.
+Circuit Bending ist eine Methode zur Erzeugung neuer Klänge durch Modifizierung bestehender elektronischer Spielzeuge und Synthesizer und wurde in den 1970er Jahren von Reed Ghazala kodifiziert.
 
 - Öffnen Sie die Tastatur der Casio SA-Serie und schließen Sie die Schaltkreise nach dem Zufallsprinzip an
 - Durch versehentliche Kurzschlüsse und Geräusche entstehen neue Klänge
@@ -149,7 +149,7 @@ In den 1970er und 1980er Jahren wurden tragbare Synthesizer und elektronische Mu
 - CASIO VL-TONE
 - Pädagogische Synthesizer wie der SX-150 von Gakken
 
-Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder sind mit der Kultur des „Spielens mit Klängen“ vertraut geworden. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
+Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder haben sich mit der Kultur des „Spielens mit Klängen“ vertraut gemacht. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -205,6 +205,16 @@ Musikspielzeuge wie KI-Spielzeuge, taktile Instrumente und soziale Spielzeuge en
 Der Begriff „Spiel“ rückt wieder in den Mittelpunkt des Musikschaffens und spielt eine wichtige kulturelle Rolle in der Zukunft des elektronischen Klangs.
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oIjmDqNvO4M?si=Xphd495xrBMA6HSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ## Anhang
 

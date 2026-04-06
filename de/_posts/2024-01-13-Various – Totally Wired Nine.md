@@ -10,7 +10,7 @@ tags:
 - Acid Jazz
 - Jazz
 - 90s
-title: Verschiedenes – Totally Wired Nine
+title: Verschiedene – Totally Wired Nine
 ---
 
 

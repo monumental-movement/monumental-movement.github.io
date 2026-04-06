@@ -201,7 +201,7 @@ Diese „Build-your-own-Kultur“ entspricht dem DIY-Geist des Techno und ist ei
 
 ---
 
-# Musikalische Eigenschaften und Analyse
+# Musikalische Charakteristika und Analyse
 
 Modular Techno weist mehrere gemeinsame akustische und strukturelle Eigenschaften auf. Im Folgenden werden wir die typischen Elemente klassifizieren und erklären, welche Funktionen sie innerhalb des Techno-Frameworks spielen.
 
@@ -301,7 +301,7 @@ Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „d
 
 ---
 
-# Detaillierte Ausstattungsliste (häufig verwendete Module in Modular Techno)
+# Detaillierte Ausstattungsliste (Modular Techno häufig verwendete Module)
 
 Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig von echten Modular-Techno-Künstlern verwendet werden, mit Schwerpunkt auf Eurorack.
 
@@ -367,7 +367,7 @@ Eine hardwarebasierte Live-Einheit, die durch die Kombination von Drumcomputern 
 
 ## Surgeon & Daniel Bean (Live)
 
-Der Live-Auftritt des Duos Surgeon mit Daniel Bean zeichnet sich durch einen Ansatz aus, bei dem die beiden ein groß angelegtes modulares System konstruieren, das weiterhin Klang in Echtzeit erzeugt. Ihr Live-Set, das Techno-Rhythmus mit Improvisation verbindet, gilt als typisches Beispiel für modulare Live-Performance.
+Der Live-Auftritt des Surgeon-Duos mit Daniel Bean zeichnet sich durch einen Ansatz aus, bei dem die beiden ein groß angelegtes modulares System konstruieren, das weiterhin Klang in Echtzeit erzeugt. Ihr Live-Set, das Techno-Rhythmus mit Improvisation verbindet, gilt als typisches Beispiel für modulare Live-Performance.
 
 ## Alte Methoden
 

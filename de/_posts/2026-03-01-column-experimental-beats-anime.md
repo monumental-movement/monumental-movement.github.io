@@ -98,7 +98,7 @@ Dies ist ein Beispiel dafür, wie man Beats in das Zeitgefühl der Geschichte ei
 
 Etwa zur gleichen Zeit, mit der Verbreitung digitaler Produktionsumgebungen, wurde die Musikproduktion auf Basis von DTM alltäglich. Die Kosten für die Einführung experimenteller Rhythmen sanken, und dies breitete sich auch auf Fernsehserien aus.
 
-> In den 2000er Jahren wurden Beats eher zur inneren Sprache des Anime als zur äußeren Kultur.
+> In den 2000er Jahren wurden Beats eher zur inneren Sprache des Animes als zur äußeren Kultur.
 
 ---
 
@@ -199,7 +199,7 @@ Bei der Animation wird die Videobearbeitung Bild für Bild verwaltet.
 Daher hat die Synchronisierung des Beat-Zyklus und der Schnittteilung einen starken Effekt.
 Experimentelle Beats werden oft unter Berücksichtigung dieser Synchronisation entwickelt.
 
-> Der Beat ist nicht mehr nur Hintergrundmusik, sondern ist zu einer Verbindung zur Schnitttheorie selbst geworden.
+> Der Beat ist nicht mehr nur Hintergrundmusik, sondern ist zum Bindeglied zur Schnitttheorie selbst geworden.
 
 ---
 

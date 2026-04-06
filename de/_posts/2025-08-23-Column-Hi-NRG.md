@@ -26,7 +26,7 @@ Text: mmr｜Thema: Symbolische Musik der „Befreiung und Solidarität“, die s
 Von den späten 1970er bis 1980er Jahren entstand Hi-NRG (High Energy) als eine elektronische und rasante Tanzmusik, die von der Disco abgeleitet war.
 Der Sound zeichnete sich durch schnelle Tempi (120–140 BPM), Synthesizer-Riffs und dramatischen Frauengesang aus und wirkte kathartischer und energiegeladener als traditioneller Disco-Sound.
 
-Hi-NRG hatte eine besonders große Anhängerschaft in Schwulenclubs. Nach den Stonewall-Unruhen in den 1970er Jahren suchte die LGBTQ-Community nach einem Platz für ihren Ausdruck und ihre Identität in der Clubszene, und Hi-NRG fungierte als ihre „Musik der Befreiung“.
+Hi-NRG hatte eine besonders große Fangemeinde in Schwulenclubs. Nach den Stonewall-Unruhen in den 1970er Jahren suchte die LGBTQ-Community nach einem Platz für ihren Ausdruck und ihre Identität in der Clubszene, und Hi-NRG fungierte als ihre „Musik der Befreiung“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

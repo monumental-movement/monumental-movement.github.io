@@ -50,7 +50,7 @@ In den 1960er Jahren erschienen modulare Synthesizer. Es wurde möglich, Tonhöh
 
 ### Berührungspunkt zwischen Rock und Avantgarde
 
-Gleichzeitig nahm in Westdeutschland eine Bewegung zur Verschmelzung von Rock- und Avantgarde-Kunst Fahrt auf. Als Reaktion auf den britischen und amerikanischen Rock entstanden Gruppen, die Improvisation, Wiederholung und elektronische Klänge aktiv einbauten. Der Kontext dessen, was später „Krautrock“ genannt wurde, und der elektronischen Musik der Berliner Schule entwickelte sich in einer geographisch und menschlich überschneidenden Weise.
+Gleichzeitig nahm in Westdeutschland eine Bewegung zur Verschmelzung von Rock- und Avantgarde-Kunst Fahrt auf. Als Reaktion auf den britischen und amerikanischen Rock entstanden Gruppen, die Improvisation, Wiederholung und elektronische Klänge aktiv einbezogen. Der Kontext dessen, was später „Krautrock“ genannt wurde, und der elektronischen Musik der Berliner Schule entwickelte sich in einer geographisch und menschlich überschneidenden Weise.
 
 ---
 
@@ -78,7 +78,7 @@ Ash Ra Tempel begann als Projekt, das elektronische Klänge, Gitarre und Improvi
 
 ### Struktur mit Sequenzer wiederholen
 
-Das markanteste Element der Berliner Schule ist das wiederholte Klangmuster, das von analogen Sequenzern erzeugt wird. Ein festes Muster, das lange anhält und sich durch Filter- und Hüllkurvenoperationen allmählich ändert. Diese Methode betont eher das Zeitgefühl als das Taktgefühl.
+Das markanteste Element der Berliner Schule ist das sich wiederholende Klangmuster, das von analogen Sequenzern erzeugt wird. Ein festes Muster, das lange anhält und sich durch Filter- und Hüllkurvenoperationen allmählich ändert. Diese Methode betont eher das Zeitgefühl als das Taktgefühl.
 
 ### Langformat
 
@@ -158,7 +158,7 @@ Ab Ende der 1970er Jahre weiteten Komponisten der Berliner Schule ihre Aktivitä
 
 Die Methode der Filmmusik der Berliner Schule zeichnet sich dadurch aus, dass sie eher auf räumliche Gestaltung als auf melodiegetriebene Musik setzt. Anstatt eine Geschichte zu illustrieren, spielt Musik eine Rolle beim Aufbau einer psychologischen und physischen Umgebung.
 
-Diese Praxis wurde in die spätere filmische Ambient- und Sounddesign-orientierte elektronische Musik übernommen.
+Diese Praxis wurde von der späteren filmischen Ambient- und Sounddesign-orientierten elektronischen Musik übernommen.
 
 ---
 
@@ -168,7 +168,7 @@ Um die Berliner Schule genau zu verstehen, ist es notwendig, ihre Beziehung zu K
 
 ### Vor Kraftwerk
 
-Vor Kraftwerk legte die Berliner Schule Wert auf Improvisation und lange Formen. Der Rhythmus ist fließend und das Stück wird eher als Übergang denn als Fortschritt wahrgenommen. Zu diesem Zeitpunkt war elektronische Musik ein Ausweg aus Rock und akademischer elektronischer Musik.
+Vor Kraftwerk legte die Berliner Schule Wert auf Improvisation und lange Formen. Der Rhythmus ist fließend und das Stück wird eher als Übergang denn als Fortschritt wahrgenommen. Zu diesem Zeitpunkt war elektronische Musik ein Ausweg aus dem Rock und auch eine Befreiung von der akademischen elektronischen Musik.
 
 ### Nach Kraftwerk
 

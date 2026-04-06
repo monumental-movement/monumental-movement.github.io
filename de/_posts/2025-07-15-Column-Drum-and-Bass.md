@@ -176,7 +176,7 @@ Derzeit gilt D&B als Grundlage der Bassmusik auf der ganzen Welt. Szenen sind vo
 
 **● Ausgewählte zeitgenössische Künstler**
 
-**Noisia (aufgelöst)**: Produktionstechnologie auf Gott-Ebene.
+**Noisia (aufgelöst)**: Produktionsfähigkeiten auf Gott-Niveau.
 
 **Alix Perez**: Eine Klangalchemistin, die von Dub bis Half Step alles kann.
 

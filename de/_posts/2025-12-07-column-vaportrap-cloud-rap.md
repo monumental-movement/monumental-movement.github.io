@@ -22,7 +22,7 @@ Text: mmr｜Thema: Über die Genealogie des Cloud Rap, der sich mit Lo-Fi Hip Ho
 
 Cloud Rap entstand um 2010, konzentrierte sich auf die Bay Area und den U.S. Internet Underground und entwickelte sich in Verbindung mit der Post-Vaporwave-Subkultur-Ästhetik, Chopped & Screwed, Lo-Fi-Hip-Hop und modernem Emo-Rap. Insbesondere die Aktivitäten von **Lil B**, **Clams Casino** und **Main Attrakionz** symbolisierten die frühen Tage und bildeten die Grundlage einer Linie, die später zu **Lil Peep**, **XXXTENTACION**, **Bones** und **Yung Lean** führen sollte.
 
-Cloud Rap war weitaus ambient-orientierter als traditioneller Hip Hop, zeichnete sich durch einen eher ambient-orientierten Sound, Gesangsverarbeitung mit starkem Hall und verträumte Texturen mit räumlichen Effekten aus und entwickelte sich später zu Vaportrap, das elektronische Musik und die Meme-Kultur von Vaporwave aufnahm.
+Cloud Rap war weitaus ambient-orientierter als traditioneller Hip Hop, zeichnete sich durch einen eher ambient-orientierten Sound, Gesangsverarbeitung mit starkem Hall und verträumte Texturen mit räumlichen Effekten aus und entwickelte sich später zu Vaportrap, das elektronische Musik und Vaporwave-ähnliche Meme-Kultur aufnahm.
 
 
 ---
@@ -71,7 +71,7 @@ Um 2009 herum entwickelte Lil B einen Rap-Stil, der sehr gut mit der Internetkul
 
 ---
 
-Die um 2011 veröffentlichten Instrumentalsammlungen von Clams Casino und die Musik, die sie A$AP Rocky zur Verfügung stellten, bestimmten mit ihren „nebligen Pads“, „ambienten Melodien“ und „tiefer räumlicher Verarbeitung“ das Klangbild von Cloud Rap.
+Die um 2011 veröffentlichte Instrumentalsammlung von Clams Casino und die Musik, die sie A$AP Rocky zur Verfügung stellten, bestimmten mit ihren „nebligen Pads“, „ambienten Melodien“ und „tiefer räumlicher Verarbeitung“ das Klangbild von Cloud Rap.
 
 ---
 
@@ -184,7 +184,7 @@ timeline
 
 ---
 
-## Fazit: Wohin entwickelt sich „Cloud Rap“?
+## Fazit: Wohin steuert „Cloud Rap“?
 
 Cloud Rap ist nicht nur ein Genre, es ist zu einem Symbol für Post-Internet-Hip-Hop-Produktionsmethoden, -Ästhetik und -Vertriebskultur geworden. Die Fusion mit Vaportrap weist weiterhin auf eine Richtung hin, in der sich Musik eher um die Online-Ästhetik als um den physischen Kontext dreht.
 

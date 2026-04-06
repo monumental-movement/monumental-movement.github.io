@@ -156,7 +156,7 @@ Electro Swing hat seine explosive Phase hinter sich und ist mittlerweile als sta
 
 ## 14. Industriestruktur und Etiketten/Medien
 
-Electro Swing ist kein Genre, das von großen Labels etabliert wurde, sondern hat sich rund um unabhängige Labels, Eigenveröffentlichungen und den digitalen Vertrieb entwickelt. Daher erfolgte die Verbreitung des Genres eher über Clubs, Festivals, Videomedien und die Tanzgemeinschaft als über die Charts.
+Electro Swing ist kein von großen Labels etabliertes Genre, sondern hat sich rund um unabhängige Labels, Eigenveröffentlichungen und den digitalen Vertrieb entwickelt. Daher erfolgte die Verbreitung des Genres eher über Clubs, Festivals, Videomedien und die Tanzgemeinschaft als über die Charts.
 
 Die Struktur, die nicht an einen bestimmten großen Markt gebunden ist, hat zur Langlebigkeit des Genres beigetragen. Monumental Movement Records hat Merkmale mit anderen peripheren Genres gemeinsam, mit denen Monumental Movement Records zu tun hat, beispielsweise die Tatsache, dass eine übermäßige kommerzielle Optimierung weniger wahrscheinlich ist und die Ästhetik jedes Schöpfers relativ erhalten bleibt.
 
@@ -174,7 +174,7 @@ Diese Methode steht im Einklang mit der Sampling-Kultur nach dem Hip-Hop, aber E
 
 Auf der Produktionsseite spielen Sample-Cutting und Time-Stretching, Beat-Quantisierung und Bass-Low-End-Design eine wichtige Rolle. Der Schwung des Schwungs wird nicht vollständig reproduziert, sondern im Vier-auf-der-Vier oder geraden Breakbeat absorbiert.
 
-Dadurch hat Electro Swing eine Struktur, die für Jazz unnatürlich ist, für Tanzmusik jedoch sehr ansprechend ist. Dieses Kompromissdesign ist der technische Kern der Entstehung des Genres.
+Infolgedessen hat Electro Swing eine Struktur, die für Jazz unnatürlich ist, für Tanzmusik jedoch sehr ansprechend ist. Dieses Kompromissdesign ist der technische Kern der Entstehung des Genres.
 
 ---
 
@@ -208,7 +208,14 @@ Electro Swing entstand durch die Transplantation historischer Fragmente des Swin
 
 Die Vergangenheit als Rohmaterial zu behandeln, das bearbeitet und nicht als Dekoration konsumiert werden kann, ist eine Perspektive, die die gesamte zeitgenössische Musikkultur durchdringt. Als symbolisches Beispiel dafür wird weiterhin Electro Swing genannt.
 
-Electro Swing entstand durch die Rekonstruktion des historischen Erbes des Swing-Jazz unter Verwendung der Grammatik der elektronischen Tanzmusik. Praxen wie Parov Stelar und Caravan Palace zeigen, dass es sich bei dieser Fusion nicht um ein temporäres Projekt, sondern um einen nachhaltigen Ausdruck handelt.
+Electro Swing entstand durch die Rekonstruktion des historischen Erbes des Swing-Jazz unter Verwendung der Grammatik der elektronischen Tanzmusik. Praktiken wie Parov Stelar und Caravan Palace zeigen, dass diese Fusion kein vorübergehendes Projekt, sondern ein nachhaltiger Ausdruck ist.
 
 ---
 
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6S8Gd8mNqkQ?si=Qj_E3WAtRhF7TzCe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

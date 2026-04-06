@@ -24,7 +24,7 @@ Text: mmr | Thema: Rebellion und Zerstörung – eine Herausforderung für die b
 
 ## 1) Pionier (1910er–1940er): Futurismus und Tonbandexperimente – Konzeptualisierung von „Lärm“
 ### Historischer Hintergrund
-Eine Zeit, in der Industrialisierung und Urbanisierung den Lärm der Menschenmassen und Maschinen in der Stadt alltäglich machten. Der „ästhetische Sinn“ für Klang erweiterte sich und andere Klänge als traditionelle Musikinstrumente begannen, in die Kunst integriert zu werden.
+Eine Zeit, in der Industrialisierung und Urbanisierung den Lärm der Menschenmassen und der Maschinen in der Stadt alltäglich machten. Der „ästhetische Sinn“ für Klang erweiterte sich, und andere Klänge als traditionelle Musikinstrumente begannen, in die Kunst integriert zu werden.
 
 ### Wichtige Ereignisse/Personen
 - Im Jahr 1913 veröffentlichte der italienische Avantgarde-Künstler Luigi Russolo „Die Kunst der Geräusche“.
@@ -121,7 +121,7 @@ Noise überschneidet sich mit Rock, Metal, Post-Rock und Electronica.
 Diversifizierung durch modulares Synthesizer-Revival und Laptop-Akustik.
 
 ### Repräsentative Trends
-- Verbindung mit Eurorack-Noise, Live-Coding und Sound Art.
+- Verbindung mit Eurorack-Rauschen, Live-Coding und Sound Art.
 
 ### Ausrüstung/Technologie
 - Modular (Eurorack), Max/MSP, SuperCollider, Circuit Bending.

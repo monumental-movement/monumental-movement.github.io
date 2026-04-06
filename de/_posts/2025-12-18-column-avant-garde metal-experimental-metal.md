@@ -71,7 +71,7 @@ Der Grund, warum Avantgarde-Metal als schwierig empfunden wird, liegt nicht an s
 
 In den späten 1980er und frühen 1990er Jahren wurde der Death Metal in Bezug auf Geschwindigkeit, Schalldruck und Dichte rasch extremer. Allerdings erreichte die quantitative Expansion schließlich einen Sättigungspunkt und einige Künstler begannen, die Struktur selbst in Frage zu stellen.
 
-An diesem Wendepunkt wurde der Avantgarde-Metal geboren. Anstatt die Geschwindigkeit und das Gewicht weiter zu erhöhen, wurde die Entscheidung getroffen, die strukturellen Bedingungen, unter denen sie errichtet wurden, abzubauen.
+An diesem Wendepunkt wurde Avantgarde-Metal geboren. Anstatt die Geschwindigkeit und das Gewicht weiter zu erhöhen, wurde die Entscheidung getroffen, die strukturellen Bedingungen, unter denen sie errichtet wurden, abzubauen.
 
 ---
 
@@ -105,7 +105,7 @@ flowchart TD
 
 ## Rhythmusstruktur von Gorguts
 
-Gorguts löscht den Zähler nicht, sondern erzeugt einen Zustand, in dem dem Zähler nicht vertraut werden kann. Die Phrasen passen sich nicht dem Takt an, und anstatt die Doppelschläge zu betonen, übernehmen die Trommeln die Funktion, den Takt zu unterbrechen.
+Gorguts löscht den Zähler nicht, sondern erzeugt einen Zustand, in dem dem Zähler nicht vertraut werden kann. Die Phrasen passen sich nicht dem Takt an, und anstatt die Doppelschläge zu betonen, übernehmen die Trommeln die Aufgabe, den Takt zu unterbrechen.
 
 Dieser Rhythmus ist kein Polyrhythmus, sondern sollte als beat-dekonstruierter Rhythmus bezeichnet werden.
 
@@ -113,7 +113,7 @@ Dieser Rhythmus ist kein Polyrhythmus, sondern sollte als beat-dekonstruierter R
 
 ## Albumanalyse: Gorguts „Obscura“
 
-In Obscura werden Gorguts‘ Strukturideen in extremer Form umgesetzt. Die Songs sind keine Ansammlung von Riffs, sondern eine Kette fragmentierter Tonhöhenanordnungen und instabiler Rhythmen.
+In Obscura werden Gorguts' Strukturideen in extremer Form umgesetzt. Die Songs sind keine Ansammlung von Riffs, sondern eine Kette fragmentierter Tonhöhenanordnungen und instabiler Rhythmen.
 
 * Es gibt keine hierarchische Beziehung zwischen den Riffs
 * Eine Änderung der Taktart weist nicht auf eine strukturelle Änderung hin
@@ -177,7 +177,7 @@ In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind e
 | Methode | Abriss | Schichtung |
 | Zeit | Bruch | Parallel |
 | Rhythmus | Zerstörung des Pulsgefühls | Atemkontrolle |
-| Dissonanz | Strukturelle Bewaffnung | Raumproduktion |
+| Dissonanz | Strukturelle Bewaffnung | Raumrichtung |
 
 ---
 

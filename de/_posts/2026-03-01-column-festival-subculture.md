@@ -56,10 +56,10 @@ color: #fff;
 ### Festival und kollektiver Ausbruch
 
 Der Soziologe Émile Durkheim nannte die starke kollektive Hochstimmung bei religiösen Ritualen ein „kollektives Furunkel“.
-Dabei handelt es sich um ein Phänomen, bei dem ein Individuum in eine Gruppe aufgenommen wird und in einen Zustand eintritt, der über das normale Selbstbewusstsein hinausgeht.
+Dabei handelt es sich um ein Phänomen, bei dem ein Individuum in eine Gruppe aufgenommen wird und in einen Zustand gerät, der über das normale Selbstbewusstsein hinausgeht.
 
 Von der Antike bis zum Mittelalter waren Feste zentrale Instrumente der gemeinschaftlichen Integration. Musik, Tanz und sich wiederholende Rhythmen fördern die Gruppensynchronisation.
-Die Festivalkultur übernimmt diese Struktur in säkularisierter Form.
+Die Festivalkultur erbt diese Struktur in säkularisierter Form.
 
 ### Gegenkultur der 1960er Jahre
 
@@ -163,7 +163,7 @@ Avicii verfeinerte die hymnische Struktur und beschleunigte die Chorkultur.
 ・Smack My Bitch Up
 ・Levels
 
-Gemeinsam sind ihnen Wiederholung, Aufbau und Spitzenstruktur.
+Gemeinsam sind ihnen Wiederholung, Aufbau und Peakstruktur.
 Im Höhepunkt synchronisieren sich die körperlichen Bewegungen des Publikums.
 
 > Musikalische Struktur ist die Blaupause der Massenpsychologie.
@@ -244,7 +244,7 @@ Denn gemeinsame Ziele und synchronisierte Aktionen verringern die psychologische
 
 ### Warum gehen wir immer wieder zum selben Festival?
 
-Denn das Zugehörigkeitsgefühl und die Erinnerungsreaktivierung stimulieren das Belohnungssystem.
+Denn das Zugehörigkeitsgefühl und die Reaktivierung des Gedächtnisses stimulieren das Belohnungssystem.
 
 ### Werden Subkulturen durch die Kommerzialisierung verschwinden?
 

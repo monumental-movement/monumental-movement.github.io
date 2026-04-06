@@ -12,14 +12,14 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Kolumne] Buchla und Serge: Eine weitere Linie der elektronischen Akustik'
+title: '[Kolumne] Buchla und Serge: Eine weitere Genealogie der elektronischen Akustik'
 ---
 
 
 ## „Einführung – Was ist modular?“
 
 
-Text: mmr | Thema: Spirituelle Geschichte der modularen Synthesizer der Westküste. Wie die Ideen von Don Buchler und Serge Tocheny in das heutige Sounddesign übertragen wurden
+Text: mmr | Thema: Die spirituelle Geschichte der modularen Synthesizer der Westküste. Wie die Ideen von Don Buchler und Serge Tocheny in das heutige Sounddesign übertragen wurden
 
 Anfang der 1970er Jahre, Amerikas Westküste.
 Es gab Leute, die das Studio für elektronische Musik ihrer Universität verließen und versuchten, **ein Gerät zur Klanggestaltung** zurück in ihre persönlichen kreativen Räume zu bringen.
@@ -140,7 +140,7 @@ Diese Philosophie setzt sich direkt in den heutigen Max/MSP-Patches, Reaktor Blo
 ## 5. Auswirkungen auf die modulare Kultur
 
 Die Philosophie von Buchler und Sarge definierte Klang selbst als „sozialen Akt“ neu.
-Mit anderen Worten, er verlagerte seinen Fokus vom „Instrument“ auf die „Umgebung“ und die „Schnittstelle“.
+Mit anderen Worten: Er verlagerte seinen Fokus von „Instrumenten“ auf „Umgebungen“ und „Schnittstellen“.
 
 Die modularen „unendlichen Kombinationen“ von Eurorack sind nicht einfach die Freiheit der Teile, sondern die Neukonfiguration der Bedeutung.
 Buchlas „Körperlichkeit“ und Serges „Strukturalität“ sind verschmolzen, und die heutige elektronische Musik wird immer „dezentrischer“.
@@ -194,4 +194,10 @@ Auch jetzt im Jahr 2025 lauschen wir weiterhin der Poesie dieser Spannung.
 
 ---
 
+### YouTube-Podcast
 
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bVHO4y4znW8?si=8bfuNpxwJy43R_SL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

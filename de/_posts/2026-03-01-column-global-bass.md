@@ -12,7 +12,7 @@ tags:
 - Culture
 - Electronic
 title: '[Kolumne] Rise of Global Bass: Eine Karte moderner Musik, die Rhythmen aus
-  aller Welt vereint'
+  der ganzen Welt vereint'
 ---
 
 
@@ -138,7 +138,7 @@ Obwohl es kommerzielle Erfolge gibt, hat es seine Wurzeln ursprünglich in der U
 **Q. Wie unterscheidet es sich von Weltmusik? **
 Der Unterschied besteht darin, dass es im Kontext einer Club-Tanzfläche rekonstruiert wird und nicht im Kontext von Anerkennungsmusik.
 
-**Q. 現在も拡張しているか？ **
+**Q. Expandieren Sie gerade? **
 Über TikTok und Streaming werden laufend neue regionale Rhythmen verknüpft.
 
 > Global Bass ist eine fortlaufende Bewegung.

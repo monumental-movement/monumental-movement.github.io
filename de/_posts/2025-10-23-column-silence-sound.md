@@ -51,7 +51,7 @@ Cage und die Komponisten der Musique Concrète ermutigten uns jedoch, das Wieder
 Zuhören ist ein Akt der Erneuerung der Beziehung zur Welt.
 Es ist eine Haltung, „die Klänge zu akzeptieren, die bereits existieren“, anstatt sich für einen Klang zu entscheiden.
 
-Diese Einstellung wurde später auf Brian Enos Ambient-Musik übertragen.
+Diese Haltung wurde später auf Brian Enos Ambient-Musik übertragen.
 er spricht. „Ambient-Musik ist Musik, die mit der Umgebung existiert, auch wenn man ihr nicht bewusst zuhört.“
 
 ---
@@ -75,7 +75,7 @@ timeline
 
 </div>
 
-In diesem Trend wurde Stille nicht als „leerer Raum“, sondern als „Möglichkeit“ behandelt.
+In diesem Trend wird Stille nicht als „leerer Raum“, sondern als „Möglichkeit“ betrachtet.
 Mit anderen Worten: Wenn der Akt des Zuhörens zum Thema wird, überschreitet die Musik ihren Rahmen. **
 
 ---
@@ -89,7 +89,7 @@ Dies war ein Versuch, Klang als Teil der Gesellschaft, Kultur und der natürlich
 „Wir leben in einer Klanglandschaft. Zuhören bedeutet, die Umgebung zu verstehen.“
 
 Das geschäftige Treiben der Stadt, das Rauschen des Waldes, das Plätschern des Flusses – alles aufzuzeichnen und zu bearbeiten wurde zu einem musikalischen Akt für sich.
-Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern fort, die Umgebungsgeräusche integrieren (Ryuichi Sakamoto, Chris Watson usw.).
+Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern fort, die Umgebungsgeräusche einbeziehen (Ryuichi Sakamoto, Chris Watson usw.).
 
 ---
 
@@ -98,7 +98,7 @@ Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern 
 Der Akt des Zuhörens ist nicht nur eine Sensation.
 Es ist auch eine ethische Haltung, anderen gegenüber offen zu sein.
 
-Im Bereich der Musiktherapie wird das „Hören von Klängen“ häufig mit einem Training zum „Akzeptieren anderer“ kombiniert.
+In der Musiktherapie wird das „Hören von Klängen“ häufig mit einem Training zum „Akzeptieren anderer“ kombiniert.
 Auch der Soziologe James Calhoun weist darauf hin, dass „die Stille im öffentlichen Raum verschwindet.“
 Ständig Hintergrundmusik abspielen, ständiger Informationsfluss.
 Haben wir Angst vor der „Zeit ohne Ton“?
@@ -120,7 +120,7 @@ Mit anderen Worten: Der Wert der Stille kommt im Zeitalter der digitalen Sättig
 
 ---
 
-## Diagramm: Die Struktur des Zuhörens – die Balance zwischen Klang und Stille
+## Illustration: Die Struktur des Zuhörens – die Balance zwischen Klang und Stille
 
 <div class="mermaid">
 

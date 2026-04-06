@@ -72,14 +72,14 @@ Doch gerade diese „Endlichkeit“ macht Klang zu einem besonderen Ereignis.
 
 ---
 
-## Kapitel 3 Genealogie und die nächste Welle der analogen Wiederbelebung
+## Kapitel 3 Genealogie des analogen Revivals und der nächsten Welle
 In den letzten 20 Jahren haben wir das „analoge Comeback“ viele Male miterlebt.
 Schallplatten beleben das visuelle Ritual** durch das „Objekt“ der Jacke.
 Kassetten brachten den DIY-Geist und die **Lo-Fi-Freiheit** zurück.
 
 Und Reel-to-Reel geht noch weiter.
 Es ist eine Rückkehr zur „reinen Form des Klangs“ und dem eigentlichen Ursprung des Aufnahmevorgangs.
-Entschlossen, den Klang nicht auf einer Festplatte oder in der Wolke einzugravieren, sondern auf der irreversiblen Substanz des Magnetismus.
+Entschlossen, den Klang nicht auf eine Festplatte oder in die Wolke zu gravieren, sondern auf die irreversible Substanz des Magnetismus.
 
 Das analoge Revival ist nicht nur ein nostalgisches Revival;
 **Es ist eine menschliche Gegenkultur zur digitalen Sättigung**.
@@ -92,7 +92,7 @@ T. Rex‘ „Electric Warrior“ ist ein heißer Glam-Rock-Metal.
 Yes „The Yes Album“ ist ein Progressive-Rock-Akustikraum.
 Ziel ist es, sie in einer Qualität wiederzugeben, die den Masterbändern möglichst nahe kommt.
 
-Wichtig ist hier jedoch nicht die „Klangqualität“.
+Wichtig ist hierbei jedoch nicht die „Klangqualität“.
 „High Fidelity“ ist nicht nur „High Fidelity“, sondern auch **Realitätstreue**.
 Rauschen und Verzerrungen wurden durch die Welle der Digitalisierung beseitigt,
 Tatsächlich war es ein Beweis für die menschliche Unvollkommenheit der Musik.
@@ -104,7 +104,7 @@ Es ist ein Akt des „Glaubens an Klang“ und nicht des „Konsumierens von Kla
 
 ## Kapitel 5 Reelism 2025: Die Geburt einer neuen analogen Kultur
 Reel-to-Reel wird derzeit stillschweigend aktualisiert.
-Unternehmen wie Recording The Masters und ATR Magnetics haben die Bandproduktion wieder aufgenommen.
+Unternehmen wie Recording The Masters und ATR Magnetics haben die Bandproduktion wieder aufgenommen;
 Junge Ingenieure und Künstler bauen die „Reel-Kultur“ neu auf.
 
 Im Bereich Ambient- und Experimentalmusik
@@ -122,10 +122,10 @@ Reel-to-Reel ist nicht mehr „vintage“;
 Sich von Band zu Band anzuhören ist nicht wie das Zurückspulen der Zeit.
 Vielmehr handelt es sich um einen Akt der Rekonstruktion der Zeit.
 Während das Band abgespielt wird, nimmt die Anzahl der Bänder ab und der Ton wird in einem endlichen Raum weiter abgespielt.
-Seine Endlichkeit ermutigt die Zuhörer, sich zu konzentrieren und in sich einzutauchen.
+Seine Endlichkeit regt den Zuhörer zur Konzentration und zum Eintauchen an.
 
 So wie die Endlosschleife des Streamings zum „Hören beim Hören“ führte,
-Die begrenzte Zeit von Reel wird Ihnen dabei helfen, sich wieder auf das Zuhören zu konzentrieren.
+Die begrenzte Zeit von Reel wird Ihnen helfen, sich wieder auf das Zuhören zu konzentrieren.
 Analog ist nicht mehr retro.
 Es ist eine weitere Möglichkeit, wie Technologie die menschlichen Sinne erweitert.
 

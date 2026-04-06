@@ -20,7 +20,7 @@ title: '[Kolumne] Neo-Futurismus / Avantgarde-Pop'
 
 Text: mmr｜Thema: Organisiert als Schnittstelle zwischen Musikgeschichte, Kunstgeschichte und Technologiegeschichte und über aktuelle Künstlerleistungen und Arbeitstrends
 
-Neofuturismus/Avantgarde-Pop ist ein Trend, der experimentelle Klangstrukturen, Körperlichkeit und zukunftsweisenden visuellen Ausdruck in der Vertriebsstruktur der Popmusik etabliert hat. Im 21. Jahrhundert wurde das Streben nach „Zukunft“, das seinen Ursprung in der futuristischen Kunst des frühen 20. Jahrhunderts hatte, mit digitalen Produktionsumgebungen, der visuellen Kultur nach dem Internet und der Neudefinition von Geschlecht und Körperdarstellung in Verbindung gebracht, wodurch Musik und visueller Ausdruck als untrennbar miteinander verbunden wurden.
+Neofuturismus/Avantgarde-Pop ist ein Trend, der experimentelle Klangstrukturen, Körperlichkeit und zukunftsweisenden visuellen Ausdruck in der Vertriebsstruktur der Popmusik etabliert hat. Im 21. Jahrhundert wurde das Streben nach „Zukunft“, das seinen Ursprung in der futuristischen Kunst des frühen 20. Jahrhunderts hatte, mit digitalen Produktionsumgebungen, der visuellen Kultur nach dem Internet und der Neudefinition von Geschlecht und Körperdarstellung verknüpft, wodurch Musik und visueller Ausdruck als untrennbar miteinander verbunden wurden.
 
 FKA-Zweige und Arca sind in diesem Zusammenhang ikonisch. Ihre/ihre Arbeit präsentiert nicht einfach nur innovative Klänge, sondern fungiert als umfassende Kunst, die Körper, Technologie, Emotionen und Identität integriert.
 
@@ -73,7 +73,7 @@ Im neofuturistischen Pop stehen Synthesizer und digital verarbeitete Töne als �
 
 ### 3-2. Rhythmus und Struktur
 
-Die Rhythmen sind nicht unbedingt tanzflächenorientiert und oft fragmentiert und asymmetrisch. Andererseits sind die Refrains und Motive klar festgelegt und behalten ihre Einprägsamkeit als Popsongs.
+Die Rhythmen sind nicht unbedingt tanzflächenorientiert und oft fragmentiert und asymmetrisch. Andererseits sind die Refrains und Motive klar etabliert und behalten ihre Einprägsamkeit als Popmusik.
 
 ### 3-3. Stimmverarbeitung
 
@@ -137,17 +137,17 @@ Neofuturismus/Avantgarde-Pop ist nicht nur ein Stil, sondern eine kulturelle Pra
 
 ---
 
-## 9. Einzelheiten der Produktionstechniken: Beziehung zwischen Studio und Körper
+## 9. Details der Produktionstechniken: Beziehung zwischen Studio und Körper
 
 Hier werden wir organisieren, wie der neofuturistische Ausdruck durch tatsächliche Produktionsumgebungen und -techniken verwirklicht wird.
 
 ### 9-1. DAW und nichtlineare Bearbeitung
 
-Was FKA Twigs und Arcas Arbeiten gemeinsam haben, ist die Abkehr von einem linearen Kompositionsprozess. Die Songs folgen nicht unbedingt einem linearen Prozess von der Demo bis zur Fertigstellung, sondern fragmentierte Ideen, Klangexperimente und improvisierte Vocals werden in der DAW neu arrangiert. Vorgänge wie Schneiden, Umkehren und Zeitdehnung ähneln eher skulpturalen Akten als einer Bearbeitung.
+Was FKA Twigs und Arcas Werken gemeinsam ist, ist die Abkehr von einem linearen Kompositionsprozess. Die Songs folgen nicht unbedingt einem linearen Prozess von der Demo bis zur Fertigstellung, sondern fragmentierte Ideen, Klangexperimente und improvisierte Vocals werden in der DAW neu arrangiert. Vorgänge wie Schneiden, Umkehren und Zeitdehnung ähneln eher skulpturalen Akten als einer Bearbeitung.
 
 ### 9-2. Musikaufbau ausgehend vom Körper
 
-In den Produktionen von FKA twigs sind Tanz und körperliche Bewegung oft die Inspiration für musikalische Strukturen. Der Rhythmus spiegelt die Anspannung und Entspannung des Körpers wider und äußert sich in Temposchwankungen und Pausen. Hierbei handelt es sich um eine körpergesteuerte Kompositionsmethode, die sich von der traditionellen schlagzentrierten Komposition unterscheidet.
+In den Produktionen von FKA twigs sind Tanz und körperliche Bewegung oft die Inspiration für musikalische Strukturen. Der Rhythmus spiegelt die Anspannung und Entspannung des Körpers wider und manifestiert sich in Temposchwankungen und Pausen. Hierbei handelt es sich um eine körpergesteuerte Kompositionsmethode, die sich von der traditionellen schlagzentrierten Komposition unterscheidet.
 
 ### 9-3. Distanz zwischen akustischer Verarbeitung und Emotion
 
@@ -201,9 +201,9 @@ Ausdrucksformen, die sich über Geschlecht, Körper und Technologie erstreckten,
 
 ## Abschluss
 
-Neofuturismus/Avantgarde-Pop ist kein Stil, der die Zukunft verschönert, sondern eine Praxis, die die Beziehung zwischen dem gegenwärtigen Körper und der Technologie visualisiert. Werke von FKA Twigs und Arca zeigen, wie Musik Vision, Denken und Körper integrieren kann.
+Neofuturismus/Avantgarde-Pop ist kein Stil, der die Zukunft verschönert, sondern eine Praxis, die die Beziehung zwischen dem aktuellen Körper und der Technologie visualisiert. Werke von FKA Twigs und Arca zeigen, wie Musik Vision, Denken und Körper integrieren kann.
 
-Dieser Trend ist kein vorübergehender Trend, sondern der jüngste in einem kulturellen Kontinuum, das sich von der Avantgarde des 20. Jahrhunderts erstreckt. Die Avantgarde steht nicht länger an der Peripherie, sondern erneuert sich weiterhin im Pop.
+Dieser Trend ist kein vorübergehender Trend, sondern der jüngste in einem kulturellen Kontinuum, das sich von der Avantgarde des 20. Jahrhunderts erstreckt. Die Avantgarde steht nicht mehr an der Peripherie, sondern erneuert sich weiterhin im Pop.
 
 ---
 

@@ -21,7 +21,7 @@ title: '[Kolumne] DJ Harvey und Plattensammlung: DJ als Körper, der „Sound“
 Text: mmr｜Thema: Nicht nur ein DJ, sondern eine Betrachtung des letzten „Schamane“ der analogen Ära
 
 
-Die Gesichter vieler Clubfreaks erschlaffen, wenn sie den Namen von DJ Harvey hören.
+DJ Harvey – Wenn man nur diesen Namen hört, werden die Gesichter vieler Clubfreaks schlaff.
 Als Mitbegründer des legendären Londoner Clubs „Tonka Sound System“ erlangte er in den 90er Jahren als Resident des „Ministry of Sound“ Berühmtheit, zog in den 2000er Jahren nach „Ibiza“ und lebt heute in „Los Angeles“.
 
 Harvey sagt. „Aufzeichnungen sind Fragmente meiner Seele. Wenn die Nadel fällt, wohnt Gott dort.“
@@ -64,7 +64,7 @@ Für ihn ist eine Aufzeichnung „der Akt, das Leben eines anderen aufzuzeichnen
 Über Märkte und Flohmärkte schlendern und verstaubte Schallplatten ausgraben. Dort sind nicht nur Geräusche, sondern auch **Spuren der Zeit** eingraviert.
 
 Harvey sagt: „Je mehr menschliche Fingerabdrücke auf einer Schallplatte sind, desto lebendiger ist der Klang.“
-Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, 70er-Jahre-Rock, 80er-Synth-Boogie und sogar hawaiianischem AOR.
+Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, Rock der 70er Jahre, Synth-Boogie der 80er Jahre und hawaiianischem AOR.
 Die Auswahl der Lieder erfolgt nicht zufällig, sondern basiert auf der Intuition, den „Luftstrom des Klangs“ zu lesen.
 
 Seine DJ-Tasche ist wie ein Reisetagebuch. Jede Aufzeichnung enthält Erinnerungen an eine Nacht.
@@ -187,7 +187,7 @@ flowchart TD
 
 ## Abschluss
 
-DJ Harvey spielt Platten aus der Vergangenheit als Klänge der Zukunft.
+DJ Harvey spielt die Platten der Vergangenheit als Klänge der Zukunft.
 Zu diesen Techniken gehört die Magie der Manipulation des **Zeitgeräts** namens Musik.
 Seine Existenz ist keine Wiederbelebung des Analogen im digitalen Zeitalter;
 **Dies ist eine Neudefinition von „lebendiger Musik“ selbst**.
@@ -212,7 +212,7 @@ pie title DJ Harvey's Vinyl Box Composition
 **Erläuterung**:
 Harveys Plattenbox ist ein organisches Archiv, das auf der Mischung verschiedener Genres basiert.
 Bemerkenswert ist, dass „Rock“ und „House“ gleichberechtigt platziert sind.
-Dies symbolisiert die Tatsache, dass er ein DJ ist, der sich immer mit Vibes und nicht mit Genres verbindet.
+Dies symbolisiert die Tatsache, dass er ein DJ ist, der immer nach Stimmung und nicht nach Genre verbindet.
 Der „Oddities“-Slot ist Harveys Geheimwaffe. Wird während der Abend- und Sonnenaufgangseinstellungen aktiviert.
 
 ---

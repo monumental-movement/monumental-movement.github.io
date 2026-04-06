@@ -17,7 +17,7 @@ title: Bob Marley – Soul Almighty – The Formative Years Vol. 1
 
 Ein remastertes Werk, das den von Bob Marley und den Wailers in Jamaika zwischen 1967 und 1968 aufgenommenen Originalgesang mit Studio-Instrumentalstücken und Produktionen aus den Jahren 1995 und 1996 mischt.
 
-Eine 1996 veröffentlichte Kassette mit unveröffentlichten Liedern.
+Eine 1996 veröffentlichte Kassette mit unveröffentlichten Songs.
 
 #### Trackliste
 ```md

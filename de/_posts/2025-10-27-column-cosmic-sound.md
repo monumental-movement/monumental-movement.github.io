@@ -23,7 +23,7 @@ Text: mmr｜Thema: Auf den Spuren der einzigartigen Klangphilosophie, die durch 
 Ende der 1970er Jahre, am Ufer des Gardasees in Norditalien.
 Niemand wusste, dass dieser Ort, der nur ein Ferienort für Touristen war, später zum Zentrum eines akustischen Phänomens namens **Cosmic Sound** werden würde.
 Die zentrale Figur ist **Daniele Baldelli**.
-Er ist nicht nur ein DJ, sondern wurde auch als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt.
+Er ist mehr als nur ein DJ geworden, er ist als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt geworden.
 
 In der damaligen Disco-Szene dominierten 4/4-Rhythmen, vertreten durch amerikanische Soul- und House-Musik.
 Allerdings verwebt Baldelli ethnische Musik, elektronische Klänge, Progressive Rock, afrikanische Trommeln und sogar Krautrock.
@@ -113,7 +113,7 @@ Dieser multikulturelle Mix war der Vorläufer des späteren **Balearic Sound**, 
 - Ein Raum, der eher von „Dunkelheit“ als von Licht dominiert wird
 
 In diesem Club war „Driften“ wichtiger als „Tanzen“.
-Besucher werden vom Klang mitgerissen und verlieren ihr Zeitgefühl.
+Der Besucher wird vom Klang mitgerissen und verliert sein Zeitgefühl.
 Cosmic war „Meditation in der Nacht“**.
 
 ---

@@ -153,7 +153,7 @@ Erweiterung der Verwendung von Plugins und Beispielpaketen
 
 ### Kombinierter Einfluss von Region, Verein, Medien und Produktionsmethoden
 
-**Ostküste**: Breakbeat, Social Rap, Platten-Sampling-Kultur
+**East Coast**: Breakbeat, Social Rap, Platten-Sampling-Kultur
 
 **Westküste**: Gangsta-Rap, G-Funk, ausgelassene Partys in den Clubs
 

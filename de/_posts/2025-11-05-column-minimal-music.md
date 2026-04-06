@@ -22,7 +22,7 @@ title: '[Kolumne] Expandierende Entwicklung der Minimal Music: Ästhetik der Wie
 Text: mmr｜Thema: „Ästhetik von Wiederholung und Veränderung“ – Eine Querschnittsinterpretation von Minimal Music, dem reichsten Ausdruck von Musik, der durch „Knappheit“ erreicht wird, von Klassik über Techno bis zum zeitgenössischen Japan.
 
 Ein einzelner Ton erklingt und verschwindet dann lautlos.
-Der nächste Ton erscheint erneut, nur aus einem etwas anderen Blickwinkel.
+Der nächste Ton erscheint erneut, aus einem etwas anderen Winkel.
 Wenn diese Serie Gestalt annimmt, hören wir nicht mehr auf die „Geschichte“ der Musik, sondern auf ihre „Existenz selbst“.
 – Das war der Beginn der Minimal Music.
 
@@ -31,7 +31,7 @@ Indem wir das Drama und den emotionalen Ausdruck aufgeben, die traditionelle wes
 Stattdessen hat es sich in eine Kunst verwandelt, die es uns ermöglicht, auf „Zeit und Struktur“ selbst zu hören.
 Terry Rileys „In C“, Steve Reichs „Piano Phase“,
 Und Philip Glass‘ „Einstein on the Beach“——
-Sie machten die Klangwiederholung zu einem meditativen Erlebnis und nicht zu einem langweiligen Erlebnis.
+Sie machten die Wiederholung von Klängen zu einem meditativen und nicht zu einem langweiligen Erlebnis.
 
 Schließlich durchdrang diese Philosophie die Welt der elektronischen Musik.
 Im konstanten Rhythmus von TR-808 und 909,
@@ -67,7 +67,7 @@ color: #fff;
 ## Kapitel 1: Die Ursprünge der Minimal Music – Terry Riley und Steve Reich
 
 1964 wurde In C von Terry Riley uraufgeführt.
-Dieses Stück hatte eine beispiellose Struktur, bei der die Interpreten 53 kurze Notenmuster frei wiederholten.
+Dieses Stück hatte eine beispiellose Struktur, wobei die Interpreten 53 kurze Notenmuster frei wiederholten.
 Jede Phrase überlagert sich mit einer leichten Verschiebung und erzeugt so einen Klang, der scheinbar endlos anhält.
 Diese „freie Wiederholung“ ist eine Idee, die später zur elektronischen Musik und DJ-Kultur führen sollte.
 
@@ -134,9 +134,9 @@ Durch die Wiederholung und den Nachhall niedriger Frequenzen entstand ein akusti
 
 Brian Enos Musik für Flughäfen (1978)
 Es ist nicht nur der Vater der Ambient-Musik, sondern auch der Ursprung des „statischen Minimalismus“.
-Die zufällige Überlappung von Looptapes erweiterte die auditive Zeitlinie.
+Die zufällige Überlappung von Loop-Tapes erweiterte die auditive Zeitachse.
 
-Später, in Radioheads „Everything in Its Right Place“ (2000),
+Später, in Radioheads „Alles an seinem richtigen Platz“ (2000),
 Sich wiederholende Synthesizer und Gesangsloops verleihen der Popmusik ein Reichsches Phasengefühl.
 
 **Vergleichstabelle: Wiederholungsstruktur in Eno und Radiohead**
@@ -170,7 +170,7 @@ Der akustische Raum wurde als „digitaler Minimalismus“ präsentiert.
 | Ryoji Ikeda | 《Dataplex》《Testmuster》 | Mathematischer/Frequenz-Minimalismus |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion von Elektroakustik und Klavier |
 | Rei Harakami | 《Red Curb》《lust》 | Warme Wiederholung der Lo-Fi-Elektronik |
-| Asa-Chang & Pilgerreise | 《Blumen》 | Schnittstelle zwischen Minimalismus und menschlicher Stimme |
+| Asa-Chang & Pilgerfahrt | 《Blumen》 | Schnittstelle zwischen Minimalismus und menschlicher Stimme |
 
 ---
 

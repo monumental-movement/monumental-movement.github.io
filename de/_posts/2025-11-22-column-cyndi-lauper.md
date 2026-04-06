@@ -42,7 +42,7 @@ color: #fff;
 
 # **2. Kindheit und familiärer Hintergrund: Ein Mädchen mit einer „ungewöhnlichen Stimme“, geboren in Queens**
 
-Cyndi Lauper wurde 1953 in Queens, New York, geboren. Ihre Mutter ist eine italienisch-amerikanische Frau, die Kunst und Theater liebt. Es gab einen Streit mit seinem Vater und das familiäre Umfeld war nicht friedlich. Ich bin in einer sogenannten „komplizierten Familie“ aufgewachsen.
+Cyndi Lauper wurde 1953 in Queens, New York geboren. Ihre Mutter ist eine italienisch-amerikanische Frau, die Kunst und Theater liebt. Es gab einen Streit mit seinem Vater und das familiäre Umfeld war nicht friedlich. Ich bin in einer sogenannten „komplizierten Familie“ aufgewachsen.
 
 Als Cindy klein war, gehörte sie zu der Sorte Kind, die fast alles sang. Er sang neben seiner Mutter in der Küche und sogar im Hinterhof des Hauses und war möglicherweise etwas laut gegenüber seinen Geschwistern. Allerdings war die Singstimme anders als normal. Es ist groß, dehnbar, sieht aus, als würde es einen zum Weinen bringen, und doch ist es stark. Ein Lehrer in der Schule sagte mir sogar: „Du solltest diese seltsame Stimme ein wenig dämpfen.“
 
@@ -135,7 +135,7 @@ Es heißt, dass sich in dem Lied die Gefühle einer Zeit widerspiegeln, in der d
 
 ### **She Bop**
 
-Für die damalige Zeit war es ein sehr kühnes Lied, ein Popsong über Sexualität.
+Es war für seine Zeit ein sehr gewagtes Lied, ein Popsong über Sexualität.
 
 ---
 
@@ -183,7 +183,7 @@ Dieser Vorfall wurde als eine Episode überliefert, die Cindys „Fähigkeit, Sp
 
 # **10. Ende der 80er bis 90er: Vom Popstar zum Künstler**
 
-Von den späten 80ern bis in die 90er Jahre schwankte Cindy zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
+Von Ende der 80er bis in die 90er Jahre war Cindy hin- und hergerissen zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
 
 ### **Der Hut voller Sterne (1993)**
 
@@ -205,7 +205,7 @@ Cindy legte keinen Wert darauf, „erfolgreiche Formen zu wiederholen“ und leg
 
 Ursprünglich wuchs Cindy nicht nur als Sängerin auf, sondern war auch stark von der Ausdruckskultur wie Film und Theater beeinflusst. Dies wurde in Form des Broadway verwirklicht.
 
-In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Dies ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
+In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Es ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

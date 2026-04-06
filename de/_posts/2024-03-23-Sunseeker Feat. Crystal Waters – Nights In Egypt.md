@@ -16,7 +16,7 @@ title: Sunseeker Feat. Kristallwasser – Nächte in Ägypten
 
 Crystal Waters ist ein House-Sänger, der 1961 in Deptford Township, New Jersey, geboren wurde.
 
-Sie ist die Tochter des Jazzmusikers Junior Waters und Großnichte von Ethel Waters, die IAH Records leitet.
+Sie ist die Tochter des Jazzmusikers Junior Waters und Großnichte von Ethel Waters, der IAH Records leitet.
 
 Sie wuchs schon in jungen Jahren umgeben von Musik auf, lernte unter dem Einfluss ihres Vaters den Jazz kennen und begann Ende der 1980er Jahre in der House-Musikszene zu arbeiten, wo sie 1991 mit der Single „Gypsy Woman (She's Homeless)“ einen Welthit landete.
 

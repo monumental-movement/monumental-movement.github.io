@@ -22,7 +22,7 @@ Text: mmr｜Thema: Kein Genre, das die Psychedelik der Vergangenheit bewahrt, so
 
 Neo-Psychedelic Folk ist ein Musiktrend, der seit den 2000er Jahren mithilfe von Aufnahmetechnik, visuellem Feingefühl und rhythmischen Konzepten rekonstruiert wird und sich dabei auf die Ästhetik des Psychedelic Folk und Acid Folk aus den 1960er und 1970er Jahren bezieht. Es zeichnet sich durch den aktiven Einsatz von Studiobearbeitung, Bearbeitung und elektronischen Effekten aus und baut gleichzeitig auf folkloristischen akustischen Texturen, ethnischen Melodien und sich wiederholenden Akkordfolgen auf.
 
-Dieser Trend war nicht auf eine bestimmte Region oder eine einzelne Szene beschränkt, sondern bildete sich zeitweise in Nordamerika, Ozeanien und Europa. Die Verbreitung der DIY-Kultur, von Indie-Labels und digitalen Aufnahmeumgebungen hat alle Phasen der Produktion, des Vertriebs und der Rezeption beeinflusst und sie zu einem entscheidenden Unterschied zu traditionellen Folk-Renewal-Bewegungen gemacht.
+Dieser Trend war nicht auf eine bestimmte Region oder eine einzelne Szene beschränkt, sondern bildete sich zeitweise in Nordamerika, Ozeanien und Europa. Die Verbreitung der DIY-Kultur, von Indie-Labels und digitalen Aufnahmeumgebungen hat alle Phasen der Produktion, des Vertriebs und der Rezeption beeinflusst und sie zu einem entscheidenden Unterschied zu traditionellen Folk-Erneuerungsbewegungen gemacht.
 
 > „Forks wurden als Material behandelt, das erneut bearbeitet werden musste, und nicht als etwas, das gespeichert werden musste.“
 
@@ -100,7 +100,7 @@ Die frühen Werke von Tame Impala waren fast ausschließlich Eigenproduktionen. 
 
 ### 4-2. Konvertierung von Gabelelementen
 
-Es zeichnet sich durch eine einfache Akkordfolge, eine melodiegetriebene Struktur und ein Arrangement aus, das eine Überbetonung des Rhythmus vermeidet. Die Einfachheit der Volksmusik bleibt erhalten, die akustische Verarbeitung verleiht ihr jedoch eine psychedelische Tiefe.
+Es zeichnet sich durch eine einfache Akkordfolge, eine melodiegetriebene Struktur und ein Arrangement aus, das eine Überbetonung des Rhythmus vermeidet. Während die Einfachheit der Volksmusik erhalten bleibt, verleiht ihr die akustische Bearbeitung eine psychedelische Tiefe.
 
 ### 4-3. Merkmale des anfänglichen Klangbildes
 
@@ -110,7 +110,7 @@ Dazu gehören das abgerundete Klangbild des Schlagzeugs, die Phasenlage der Gita
 
 ---
 
-## Kapitel 5: Visueller Kommentar – Bildsprache des Neo-Psychedelic Folk
+## Kapitel 5: Visueller Kommentar – Bildsprache des neo-psychedelischen Folk
 
 Häufig kommen Abstraktion und Naturmotive, Loops, Zeitlupe und asynchrone Schnitte zum Einsatz. Der Videoschnitt synchronisiert sich mit der repetitiven Struktur des Songs und dient der Erweiterung des Zeitgefühls.
 
@@ -164,7 +164,7 @@ In den frühen Werken von Animal Collective sorgen Percussion und Händeklatsche
 
 Stimme ist eines der wichtigsten Elemente im neo-psychedelischen Folk. Die Rollenverteilung zwischen Leadsänger und Begleitung wird gelockert und mehrere Stimmen werden in einer Linie platziert. Stimmqualität, Überlappung und Nachhall haben Vorrang vor der Klarheit der Texte.
 
-Dies ist das Ergebnis der Übertragung des Gruppengesangscharakters des Folk auf den Studioraum.
+Dies ist das Ergebnis der Übertragung des Gruppengesangscharakters der Volksmusik auf den Studioraum.
 
 > „Lieder sind kein Mittel, um eine Geschichte zu erzählen, sondern ein Material, das einen Raum füllt.“
 
@@ -214,7 +214,7 @@ Neo-Psychedelic Folk hat mit Dream Pop, experimentellem Pop, Ambient und Post-Ro
 
 ## Letztes Kapitel
 
-Neo-Psychedelic Folk ist kein Genre, das die Psychedelik der Vergangenheit bewahrt, sondern eine redaktionelle Praxis, die Wahrnehmungserfahrungen erneuert. Der kollektive Sound von Animal Collective und die Selbstbeobachtung der frühen Werke von Tame Impala sind das Ergebnis volkstümlicher Einfachheit in Kombination mit zeitgenössischen Produktionsumgebungen.
+Neo-Psychedelic Folk ist kein Genre, das die Psychedelik der Vergangenheit bewahrt, sondern eine redaktionelle Praxis, die Wahrnehmungserfahrungen erneuert. Der kollektive Sound von Animal Collective und die Introspektivität der frühen Werke von Tame Impala sind das Ergebnis einer folkloristischen Einfachheit in Kombination mit einer zeitgenössischen Produktionsumgebung.
 
 Dieser Trend wird nicht als abgeschlossener Stil verstanden, sondern als ein Körper in Bewegung, der sich ständig neu konfiguriert.
 

@@ -99,7 +99,7 @@ In dieser Zeit erlebte Gaye die Freude am Schaffen, aber auch das Scheitern der 
 
 ### „Here, My Dear“ (1976) – Etablierung als Beichtalbum
 1976 veröffentlichte er das Album Here, My Dear, das die Bedingungen seiner Scheidung von seiner Frau Anna Gordy widerspiegelte. Obwohl dies kein kommerzieller Erfolg war, wurde es als „Geständnisalbum“ positioniert, das später neu bewertet wurde.
-Nach der Veröffentlichung dieses Albums war Gaye sowohl körperlich als auch geistig erschöpft und erreichte einen Wendepunkt in seinem Leben.
+Nach der Veröffentlichung dieses Albums war Gaye körperlich und geistig erschöpft und erreichte einen Wendepunkt in seinem Leben.
 
 
 ---
@@ -143,8 +143,8 @@ Marvin Gaye war nicht nur ein Hitmacher, sondern auch jemand, der Künstlern den
 Darüber hinaus zeigte der Einsatz des Roland TR-808 bei „Midnight Love“ auch neue Möglichkeiten für die Fusion von elektronischem Equipment und Soulmusik auf.
 
 ### Persönliches seltsames Schicksal
-Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart das menschliche Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
-Wenn man darüber hinaus aus der „Was wäre wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? Sie zeugen von einem „seltsamen Leben“, in dem Zufall und Notwendigkeit ineinander greifen.
+Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart ein menschliches Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
+Wenn man darüber hinaus aus der „Was wäre, wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? Sie zeugen von einem „seltsamen Leben“, in dem Zufall und Notwendigkeit ineinander greifen.
 
 ### Neubewertung und Erweiterung des Ausdrucks in der Neuzeit
 Auch nach Gayes Tod wurde seine Musik remastered, wiederentdeckt und gesampelt und beeinflusst auch heute noch neue Generationen. Beispielsweise wurde auch über die Entdeckung unveröffentlichter Demo-Soundquellen berichtet.
@@ -162,6 +162,16 @@ Seine Stimme ist im Laufe der Zeit weiterhin zu hören.
 Ich hoffe, dass dieses Manuskript eine Gelegenheit bietet, Marvin Gaye, seine Musik und sein seltsames Leben noch einmal zu überdenken.
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xrcfo3TNq1Y?si=MrVaktLt0phricdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ## Nachtrag: Chronologie/Diagramme
 

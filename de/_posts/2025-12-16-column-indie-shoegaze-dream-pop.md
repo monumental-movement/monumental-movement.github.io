@@ -77,7 +77,7 @@ Die Verzögerung wird verwendet, um überlappende Nachhalleffekte zu erzeugen, a
 ### 2-2. Rhythmus im Hintergrund
 
 Schlagzeug und Bass fungieren nicht als treibende Kraft hinter dem Song, sondern fungieren als Schwerpunkt zur Unterstützung des Klangbildes.
-Das Tempo ist relativ konstant und der Schwerpunkt liegt eher auf der Fortsetzung eines Zustands als auf dramatischen Entwicklungen.
+Das Tempo ist relativ konstant und der Schwerpunkt liegt eher auf der Fortsetzung eines Zustands als auf einer dramatischen Entwicklung.
 
 ---
 
@@ -104,8 +104,8 @@ Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinu
 
 ### 4-1. Struktur der Dehnungsschicht
 
-In den Liedern von My Bloody Valentine sind mehrere verzerrte Gitarren geschichtet, die jeweils eine andere Besetzung besetzen.
-Dadurch geht die Klarheit einzelner Töne verloren, insgesamt entsteht aber eine dickere Klangmasse.
+In den Liedern von My Bloody Valentine sind mehrere verzerrte Gitarren übereinander geschichtet, die jeweils eine andere Band besetzen.
+Dadurch geht die Klarheit einzelner Töne verloren, es entsteht aber insgesamt eine dickere Klangmasse.
 
 ### 4-2. Stimmplatzierung
 
@@ -124,7 +124,7 @@ Die vagen Umrisse, der geringe Kontrast und die nahezu monochromatischen Farben 
 ### 5-2. Musikvideo-Trends
 
 Die Bilder erzählen keine Geschichte, sondern bestehen aus Lichtfragmenten, Zeitlupe und Überlagerungen.
-Auch die Kameraführung und der Schnitt vermeiden einen klaren Fokus und betonen das Gefühl des visuellen Schwebens.
+Auch Kameraführung und Schnitt vermeiden einen klaren Fokus und betonen das Gefühl des visuellen Schwebens.
 
 [„Bild existiert nicht als Erklärung, sondern als Erweiterung der Empfindung“]
 
@@ -202,13 +202,13 @@ Durch diese Anordnung entsteht der Effekt, dass der Zuhörer den gesamten Klang 
 Der Rhythmus in Shoegaze und Dream Pop dient nicht als Mittel zur Herbeiführung von Entwicklung, sondern als Mittel zur Aufrechterhaltung eines Zustands.
 Das Drum-Pattern ist relativ einfach und legt weniger Wert auf Füllungen und Akzente.
 
-Daher betont das Lied die „Zeit, die weiter vergeht“ und nicht die „Zeit, die fortschreitet“.
+Daher betont das Lied eher die „Zeit, die bleibt“, als die „Zeit, die fortschreitet“.
 
 ---
 
 ### B-2. Körperliche Steigerung neu definieren
 
-Auf den ersten Blick mag bei hoher Lautstärke gespielter Shoegaze wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
+Auf den ersten Blick mag Shoegaze bei hoher Lautstärke wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
 Der Fokus liegt nicht auf rhythmischen Sprüngen, sondern auf Umhüllung durch Schalldruck und Immersion durch Sustain.
 
 Dies ist ein Erlebnis, bei dem der Körper des Publikums nicht nach vorne gedrückt wird, sondern in den Klang eintaucht.

@@ -53,7 +53,7 @@ color: #fff;
 
 Bristol war in den 1970er Jahren eine scheinbar friedliche Provinzstadt.
 Doch hinter den Kulissen schritten die soziale Spaltung, die wirtschaftliche Stagnation und die Entfremdung der Einwanderergemeinschaften voran.
-Ähnlich wie bei den Brixton-Unruhen (London) 1976 verschärften sich in Bristol die Konflikte zwischen Polizei und Jugendlichen.
+Ähnlich wie bei den Unruhen in Brixton (London) 1976 verschärften sich in Bristol die Konflikte zwischen Polizei und Jugendlichen.
 Eine „Kluft zwischen Staat und Straße“ wurde zur Norm.
 
 Als Hafenstadt hatte Bristol aufgrund der Einwanderer aus Jamaika eine tief verwurzelte **Reggae- und Dub-Kultur**.
@@ -123,7 +123,7 @@ Der Einfluss der Pop Group ist in ihnen allen verankert.
 ## Kapitel 5: Neubewertung und Wiederbelebung im 21. Jahrhundert
 
 Die Popgruppe ist längst eine Kultfigur.
-Seit den 2000er Jahren wurde es im Zuge des Post-Punk-Revival-Trends neu bewertet.
+Seit den 2000er Jahren wurde es im Zuge des Post-Punk-Revivals neu bewertet.
 Besonders seit 2005, nach den **Gang of Four- und Wire-Reunions**,
 Auch sie nahmen ihre Aktivitäten im Jahr 2010 wieder auf. Im Jahr 2015 veröffentlichte er sein neues Werk „Citizen Zombie“.
 

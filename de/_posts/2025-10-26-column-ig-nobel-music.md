@@ -40,13 +40,13 @@ color: #fff;
 
 ---
 
-## 1. Prolog: Wo Wissenschaft und Musik aufeinander treffen
+## 1. Prolog: Wo Wissenschaft und Musik aufeinandertreffen
 
 Der **Ig-Nobelpreis** ist als „exzentrischer kleiner Bruder“ des Nobelpreises bekannt.
 Seit seiner Gründung im Jahr 1991 durch die amerikanische satirische Wissenschaftszeitschrift *Annals of Improbable Research*
 Der Preis wird an Forschung verliehen, die Menschen zum Lachen und Nachdenken anregt.
 
-Neben Bereichen wie Physik, Medizin, Frieden und Literatur wird dieser Preis auch in Bereichen wie Physik, Medizin, Frieden und Literatur verliehen.
+Neben Bereichen wie Physik, Medizin, Frieden und Literatur wird dieser Preis auch in Bereichen wie Physik, Medizin, Frieden und Literatur vergeben.
 Forschungen zu „Klang“ und „Musik“ haben oft Aufmerksamkeit erregt.
 Dies liegt daran, dass die Wissenschaft des Schalls nicht nur ein Wellenphänomen ist.
 Dies liegt daran, dass es tief in die menschlichen Emotionen, die Gesellschaft und die Physiologie eindringt.
@@ -83,13 +83,13 @@ Es wurde als eine Idee hoch gelobt, die die Grenzen zwischen Kunst und Wissensch
 
 ### 2.2 2017: Forschung zum „Vaginal Music Player“.
 
-Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​Spanien, durchgeführt
+Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​​​Spanien, durchgeführt
 Gewinner des Ig-Nobelpreises für Medizin.
 Dieses Team entwickelte einen **intravaginalen Lautsprecher** namens „Babypod“,
 Wir haben untersucht, wie Föten im Mutterleib auf musikalische Reize reagieren.
 
 Untersuchungen zufolge ist es im Vergleich dazu, wenn der Ton über einen Lautsprecher von außerhalb des Körpers der Mutter abgespielt wird,
-Es heißt, dass der Fötus darauf reagierte, indem er seinen Mund und seine Zunge bewegte, wenn die Vibrationen direkt über den Babypod angewendet wurden.
+Es wird gesagt, dass der Fötus darauf reagierte, indem er seinen Mund und seine Zunge bewegte, wenn die Vibrationen direkt über den Babypod angewendet wurden.
 Dieses Ergebnis deutet auf eine „frühe Entwicklung der fötalen Hörreaktion“ hin.
 Wissenschaftlich bestätigte die Möglichkeit, dass Musik mit der physiologischen Entwicklung zusammenhängt.
 Es erregte auch große gesellschaftliche Aufmerksamkeit als Beispiel für die Visualisierung der „Verbindung zwischen Leben und Klang“.
@@ -100,7 +100,7 @@ Es erregte auch große gesellschaftliche Aufmerksamkeit als Beispiel für die Vi
 
 Im Jahr 2020 Forschung von **Takeshi Nishimura** und Kollegen am Primate Research Institute der Universität Kyoto
 Erhielt den **Akustikpreis**.
-Das Forschungsteam platzierte Krokodile in einer Helium-Sauerstoff-Mischgasumgebung (Heliox).
+Das Forschungsteam brachte Krokodile in eine Helium-Sauerstoff-Mischgasumgebung (Heliox).
 Analyse der Formanten (Resonanzkomponenten) des Schreis.
 Als Ergebnis haben wir bestätigt, dass sich auch die Resonanzstruktur ändert, wenn sich die Luftdichte ändert.
 
@@ -140,7 +140,7 @@ Die beiden teilen den gleichen Forschungsgeist mit unterschiedlichen Methoden.
 ### 3.3 Publikum als „Subjekt“ – zwischen Emotion und Daten
 
 In neueren neurowissenschaftlichen Forschungen wurde fMRT verwendet, um die Gehirnaktivität beim Musikhören zu messen.
-Es werden Anstrengungen unternommen, die Mechanismen zu analysieren, durch die Freude und Empathie entstehen.
+Derzeit werden Anstrengungen unternommen, um die Mechanismen zu analysieren, durch die Freude und Empathie entstehen.
 Beim Ig-Friedensnobelpreis 2019 (Niederlande/Polnistik)
 Der Preis ging an eine Studie, die „wütende Reaktionen beim Hören unangenehmer Geräusche“ untersuchte.
 Wie reagieren Menschen auf Geräusche? Die Frage ist,

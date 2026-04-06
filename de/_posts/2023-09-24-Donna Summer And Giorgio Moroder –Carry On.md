@@ -13,9 +13,9 @@ title: Donna Summer und Giorgio Moroder – Weitermachen
 ---
 
 
-„Carry On“ ist eine Zusammenarbeit zwischen Donna Summer und Giorgio Moroder, veröffentlicht im Jahr 1977.
+„Carry On“ ist eine Zusammenarbeit zwischen Donna Summer und Giorgio Moroder und wurde 1977 veröffentlicht.
 
-Es gilt als einer der Hits und wichtigen Werke des goldenen Zeitalters der Discomusik und erfreut sich bis heute großer Beliebtheit in der Musikszene.
+Es gilt als einer der Hits und wichtigen Werke des goldenen Zeitalters der Discomusik und erfreut sich auch heute noch großer Beliebtheit in der Musikszene.
 
 
 #### Trackliste

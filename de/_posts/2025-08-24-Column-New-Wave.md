@@ -17,7 +17,7 @@ title: '[Kolumne] New Wave: Die Schnittstelle zwischen Post-Punk-Musikinnovation
 ## New Wave ist nicht nur ein Genre, sondern ein „Zeitgefühl“, das den experimentellen Geist der Post-Punk-Ära erbt und verschiedene Musik und Kulturen vereint.**
 
 
-Text: mmr｜Thema: Kunstbewegung der Post-Punk-Ära
+Text: mmr｜Thema: Kunstbewegungen in der Post-Punk-Ära
 
 <hr>
 
@@ -43,7 +43,7 @@ Mit der Verbreitung analoger Synthesizer und Drum Machines entstanden mechanisch
 
 - **Genreübergreifend**
 
-Sie haben Funk-Rhythmen (Talking Heads), Reggae-Grooves (The Police) und Disco-Tanz-Feeling (Blondie) frei integriert und dabei Genregrenzen überschritten.
+Sie haben Funk-Rhythmen (Talking Heads), Reggae-Grooves (The Police) und Disco-Dance-Feeling (Blondie) frei integriert und dabei Genregrenzen überschritten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPwMdZOlPo8?si=P34k6oSAFvO22UK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -101,7 +101,7 @@ Die Vielfalt der neuen Welle ist eng mit dem sozialen Kontext verknüpft, in dem
 
 - **Großbritannien**: Wirtschaftskrise Ende der 1970er Jahre, steigende Arbeitslosenquote unter der Thatcher-Regierung. Junge Menschen verspürten ein „Gefühl der Stagnation ohne Morgen“ und übertrugen dies auf Musik und Mode.
 
-- **Amerika**: Verbunden mit der New Yorker Kunstszene (CBGB, Mudd Club) verbreitete es sich nach dem Punk als intellektuelle experimentelle Musik.
+- **Amerika**: Verbunden mit der New Yorker Kunstszene (CBGB, Mudd Club) verbreitete es sich als intellektuelle experimentelle Musik nach dem Punk.
 
 - **Japan**: Vor dem Hintergrund des hohen Wirtschaftswachstums und des technologischen Fortschritts erlangten „Techno New Wave“ wie YMO und Plastics internationale Anerkennung.
 

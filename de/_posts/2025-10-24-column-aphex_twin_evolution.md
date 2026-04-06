@@ -145,7 +145,7 @@ Mit anderen Worten: Seine Musik ist ein Testfeld für den Post-KI-Humanismus.
 
 Der Kern von Aphex Twin besteht darin, „fremd zu bleiben“, auch wenn sich die Zeiten ändern.
 Selbst wenn Musik in Mode kommt, lässt sein Sound immer einen „Spielraum“ übrig.
-In diesem leeren Raum gibt es Raum für Zuhörer, ihre eigenen Gefühle auszudrücken.
+In diesem Bereich gibt es Raum für den Zuhörer, seine eigenen Gefühle zum Ausdruck zu bringen.
 
 ---
 

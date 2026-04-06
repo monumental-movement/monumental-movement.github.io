@@ -146,7 +146,7 @@ In den späten 1980er Jahren erlebte DEVO einen Niedergang, als sich die MTV-Kul
 In den 1990er Jahren wurde es als Pionier des Internetzeitalters neu bewertet.
 Ihre selbstsatirische Markenstrategie kündigte die Selbstkommerzialisierung nach Web 2.0 an.
 
-In den 2000er Jahren kamen sie wieder zusammen und schrieben „Something for Everybody“ (2010), eine Satire über „Demokratie im Zeitalter der Algorithmen“.
+In den 2000er Jahren kamen sie mit „Something for Everybody“ (2010) wieder zusammen, einer Satire über „Demokratie im Zeitalter der Algorithmen“.
 In den 2020er Jahren aktualisiert er seine Degenerationstheorie weiter, um NFTs und die KI-Kultur einzubeziehen.
 
 ---
@@ -206,7 +206,7 @@ Energy Dome ist kein Helm, der die Zukunft verschließt.
 
 #### Devo – Neue Traditionalisten
 
-„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo, das 1981 veröffentlicht wurde, und das erste komplett selbstproduzierte Album der Band.
+„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo aus dem Jahr 1981 und das erste komplett selbstproduzierte Album der Band.
 
 Nach dem Erfolg ihres vorherigen Albums Freedom Of Choice (Desire Psychology), das „Whip It“ enthielt, hat dieses Album eine minimalistische Atmosphäre mit einem Schwerpunkt auf Synthesizer-Riffs, Rhythmus und elektronischer Percussion, mit dem Konzept der „Deevolution“.
 

@@ -16,7 +16,7 @@ title: Akasha-Projekt – Immer
 
 Barnim A. Schultze, auch bekannt als Akasha Project, ist ein deutscher Elektronikmusiker, der seit Mitte der 1980er Jahre aktiv ist.
 
-„Always“ ist ein Psy-Trance- und Techno-Track, der 2001 vom deutschen Psychedelic-/Progressive-Trance-Label Insolation veröffentlicht wurde.
+„Always“ ist ein Psy-Trance- und Techno-Track, der 2001 vom deutschen Psychedelic/Progressive-Trance-Label Insolation veröffentlicht wurde.
 
 
 #### Trackliste

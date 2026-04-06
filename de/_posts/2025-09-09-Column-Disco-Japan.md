@@ -232,7 +232,7 @@ Nu-Disco expandierte weltweit und Künstler wie Caribou und Todd Terje gewannen 
 - **Repräsentatives Meisterwerk (Japan)**
 - Gen Hoshino – *YELLOW DANCER* (2015)
 - KAPSEL – *FESTSTELLTASTE* (2013)
-- tofubeats – *Positiv* (2015)
+- tofubeats — *Positiv* (2015)
 
 - **Beziehung zur japanischen Kultur**
 Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi und andere wurden wiederentdeckt und die Genealogie von Disco und City-Pop verbreitete sich auf eine neue Generation.
@@ -302,7 +302,7 @@ City-Pop/Disco verbreitet sich auf TikTok und YouTube. Analoge Disco-Events sind
 | Schweben | Dua Lipa | Beliebt auf TikTok |
 | Sag es | Doja-Katze | Sehr beliebt in Japan |
 | Disco | Kylie Minogue | Moderne Disco, wie der Titel schon sagt |
-| Regen auf mich | Lady Gaga & Ariana Grande | Dance-Pop-Revival |
+| Regen auf mich | Lady Gaga & Ariana Grande | Dance-Pop-Comeback |
 | Funk in die Zukunft | Nachttempo | Future-Funk-Interpretation aus Japan |
 | Lass die Tür offen | Seidensonic | Soul x Disco-Fusion |
 | Brich meine Seele | Beyoncé | House- und Disco-Fusion |

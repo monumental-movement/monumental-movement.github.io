@@ -65,9 +65,9 @@ Diese Hüllen enthielten bereits zwei Elemente, die für spätere virtuelle Band
 
 ### Einrichtung einer Umgebung, in der Charaktere „aktiviert“ werden können
 
-Von Ende der 1990er bis Anfang der 2000er Jahre entwickelten sich Computergrafik, das Internet und die digitale Musikproduktionsumgebung rasant. Dadurch handelt es sich bei den Charakteren nicht nur um Illustrationen, sondern um Charaktere, die sich im Video bewegen und wachsen und zu Einheiten werden, die kontinuierlich zur Schau gestellt werden können.
+Von Ende der 1990er bis Anfang der 2000er Jahre entwickelten sich CG, das Internet und die digitale Musikproduktionsumgebung rasant. Dadurch handelt es sich bei den Charakteren nicht nur um Illustrationen, sondern um Charaktere, die sich im Video bewegen und wachsen und zu Einheiten werden, die kontinuierlich zur Schau gestellt werden können.
 
-Was die Musikproduktion anbelangt, ist mit der Verbreitung von DAWs und Sampling-Technologie eine Musikproduktion üblich geworden, die von der Körperlichkeit der Aufführung losgelöst ist. Auch Singstimmen können bearbeitet und bearbeitet werden, um deutlich zu machen, zu wem sie gehören. Dies war eine wichtige Veränderung, die zur späteren Sprachsynthesekultur führte.
+Was die Musikproduktion anbelangt, ist mit der Verbreitung von DAWs und Sampling-Technologie eine Musikproduktion üblich geworden, die von der Körperlichkeit der Aufführung losgelöst ist. Auch Singstimmen können bearbeitet und bearbeitet werden, um deutlich zu machen, zu wem sie gehören. Dies war eine wichtige Veränderung, die zu einer späteren Kultur der Sprachsynthese führte.
 
 Was die Verbreitung betrifft, können Charaktere und Lieder jetzt gleichzeitig online verbreitet werden, ohne auf Fernsehen oder CDs angewiesen zu sein. Für virtuelle Bands war das Internet nicht nur ein Werbemittel, sondern die Grundlage ihrer Existenz.
 
@@ -81,7 +81,7 @@ Was die Verbreitung betrifft, können Charaktere und Lieder jetzt gleichzeitig o
 
 In den 2000er Jahren erzielten virtuelle Bands mit ausgeprägtem Charakter und Musikalität internationale Erfolge. Durch animierte Musikvideos, eine fiktive Besetzung und eine fortlaufende Erzählkulisse wurden sie zu „Objekten zum Anfeuern“, genau wie echte Bands.
 
-Wichtig ist, dass es sich bei diesen Projekten nicht um einmalige, aktuelle Arbeiten handelte, sondern um Albumveröffentlichungen, Tourneen und Medienentwicklung über einen langen Zeitraum. Das Publikum beginnt allmählich, den Beziehungen und Veränderungen zwischen den Charakteren mehr Aufmerksamkeit zu schenken als den Schöpfern dahinter.
+Wichtig ist, dass es sich bei diesen Projekten nicht um einmalige, aktuelle Arbeiten handelte, sondern um Albumveröffentlichungen, Tourneen und Medienentwicklung über einen langen Zeitraum. Das Publikum schenkt den Beziehungen und Veränderungen zwischen den Charakteren nach und nach mehr Aufmerksamkeit als den Schöpfern dahinter.
 
 Dabei versteckte sich die virtuelle Band nicht hinter der Anonymität, sondern erlangte vielmehr eine starke Persönlichkeit. Es entstand ein paradoxer Zustand der Anonymität und doch klaren Individualität.
 
@@ -147,7 +147,7 @@ Diese Situation unterscheidet sich vom traditionellen Modell, bei dem Musik in A
 
 ## Chronologie: Wichtige Meilensteine ​​in der Entwicklung virtueller Bands
 
-### Die Schnittstelle zwischen Technologie, Ausdruck und Vertrieb
+### Die Schnittstelle zwischen Technologie, Ausdruck und Verbreitung
 
 <div class="mermaid">
 flowchart TB

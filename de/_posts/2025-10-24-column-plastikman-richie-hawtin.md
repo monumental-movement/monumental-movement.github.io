@@ -281,7 +281,7 @@ timeline
 ## Letztes Kapitel: Hawtin als Klangbildhauer
 
 Plastikman ist der Schlüssel dazu, dass Techno „nach drinnen“ statt „nach draußen“ geht.
-Dabei handelte es sich nicht um eine Demontage der Clubmusik, sondern um eine Rekonstruktion des Rhythmus, der im Körper mitschwingt, und um eine Auseinandersetzung mit der Grundfrage der Musik: „Was bedeutet es zuzuhören?“
+Dabei handelte es sich nicht um eine Demontage der Clubmusik, sondern um eine Rekonstruktion des Rhythmus, der im Inneren des Körpers mitschwingt, und um eine Auseinandersetzung mit der Grundfrage der Musik: „Was bedeutet es zuzuhören?“
 
 Heute dreht Richie Hawtin weiterhin schweigend an den Knöpfen und sagt nur wenige Worte.
 Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen Klang und Stille verändern kann.
@@ -291,7 +291,7 @@ Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen
 
 ## Minus Label vollständige Diskographie
 
-| Jahr | Künstler | Veröffentlichungsname | Kommentare |
+| Jahr | Künstler | Releasename | Kommentare |
 | ---- | ------------- | ------------ | --------- |
 | 1994 | Plastikmann | **Musik** EP | Der Höhepunkt des Acid Techno unter dem Namen Plastikman. |
 | 1998 | Plastikmann | **Minus** EP | Der erste Teil von Minus. Extrem minimaler Sound. |
@@ -306,7 +306,7 @@ Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen
 | 2019 | Plastikmann | **DE9: 2.0 / Live** | Modulare + digitale Bearbeitung.           |
 
 
-> Das Minus-Label ist ein Testgelände für Plastikmans Ideen, eine Plattform, die Künstlern die Freiheit gibt, ihren Sound zu erkunden.
+> Das Minus-Label ist ein Testgelände für Plastikmans Ideen, eine Plattform, die Künstlern die Freiheit gibt, klangliche Freiheiten zu erkunden.
 
 
 ---

@@ -10,9 +10,8 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: '[Spalte] „Euro-Sounds“ ändern sich je nach Landesgrenze: Italien, Deutschland
-  und Schweden: Unterschiede in der Euro-Musik, die von den drei großen Produktionsländern
-  produziert wird'
+title: '[Kolumne] Der „Klang des Euro“ ändert sich je nach Landesgrenze: Italien,
+  Deutschland und Schweden: Unterschiede in der Euro-Musik der drei großen Produktionsländer'
 ---
 
 
@@ -166,7 +165,7 @@ color: #fff;
 ---
 
 ### Euro-Musik war keine „nationale Musik“, sondern „nationaler Klang“
-Der größte Reiz der europäischen Musik der 1990er Jahre besteht darin, dass sie zwar als „universelle Sprache“ fungiert, aber tatsächlich tief in der Kultur und Ästhetik des jeweiligen Landes verankert ist.
-Auch wenn sie ähnlich sind, unterscheiden sich die Hitze Italiens, die Härte Deutschlands und die Kühle Schwedens deutlich.
+Der größte Reiz der europäischen Musik der 1990er-Jahre besteht darin, dass sie zwar als „universelle Sprache“ fungiert, aber tatsächlich tief in die Kulturen und Ästhetiken jedes Landes eingebettet ist.
+Auch wenn sie alle ähnlich sind, unterscheiden sich die Hitze Italiens, die Härte Deutschlands und die Kühle Schwedens deutlich.
 
 Musik entsteht an der Schnittstelle von Globalem und Lokalem. Das könnte die Essenz des Euro der 1990er Jahre sein.

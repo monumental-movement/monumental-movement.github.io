@@ -18,7 +18,7 @@ title: '[Spalte] Dark Ambient / Ritual Ambient'
 
 ## 1. Neudefinition des Genrebegriffs
 
-Text: mmr｜Thema: Bildung immersiver Erfahrung durch Akustik, Raum und rituelle Struktur
+Text: mmr｜Thema: Bildung immersiver Erfahrung durch Klang, Raum und rituelle Struktur
 
 Dark Ambient ist keine semantische Erweiterung von Ambient-Musik, sondern ein klanglicher Ausdruck, der durch die bewusste Reduzierung musikalischer Elemente entsteht.
 
@@ -201,7 +201,7 @@ Gemeinsam ist ihnen, dass der Ton keine Erklärungen liefert.
 
 ## 13. Zu beachtende Punkte in der zeitgenössischen Produktion
 
-* Zu viele Geräusche erschweren das Eintauchen
+* Eine zu große Anzahl an Geräuschen behindert das Eintauchen
 * Der Einsatz kann strukturell destruktiv sein
 * Schalldruckwettbewerb ist nicht unbedingt erforderlich
 
@@ -237,7 +237,7 @@ Obwohl die produzierte Stückzahl begrenzt ist, behält es seinen Wert als Refer
 
 ## 16. Fazit
 
-Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründet haben.
+Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründeten.
 
 Ihr Einfluss ist keine musikalische Nachahmung;
 

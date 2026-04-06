@@ -86,7 +86,7 @@ Curtis‘ Falsettgesang ist eine ewige Botschaft der „sich weiterentwickelnden
 ---
 
 #### 7. Bob James – „Take Me to the Mardi Gras“ (1975)
-Der Kuhglocken- und Glockenklang der Trommeln war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
+Der Kuhglocken- und Glockenklang des Schlagzeugs war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
 Bob James ist ein Symbol des Smooth Jazz, und der „harte Bruch“, den dieser Song hervorbrachte, wurde in der Sampling-Kultur der 1990er Jahre vergöttert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ Der sanfte Groove hat ein Maß an Perfektion, das sich anfühlt, als wäre er mi
 ---
 
 #### 14. Berg – „Long Red“ (1972)
-Der Gesang „Du weißt, was ich meine!“ wurde häufig von Public Enemy und De La Soul bei Live-Auftritten verwendet.
+Der Gesang „Du weißt, was ich meine!“ wurde oft von Public Enemy und De La Soul bei Live-Auftritten verwendet.
 Dies ist ein großartiges Beispiel dafür, wie ein einfacher Rocksong durch Vocal-Sampling zu einem Hip-Hop-„Teil“ wird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -229,6 +229,16 @@ Dahinter verbirgt sich das Atmen namenloser Musiker, der Lärm der Geräte und d
 „Derselbe Sound kommt immer wieder zurück“ ist ein Beweis für die Entwicklung der Popmusik und die menschlichste Technologie, die Vergangenheit und Zukunft verbindet.
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbMALMm6v7A?si=O16Tg8nyor4YfIdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Referenz
 

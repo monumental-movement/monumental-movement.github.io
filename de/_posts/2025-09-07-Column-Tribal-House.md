@@ -60,7 +60,7 @@ In den späten 1980er und frühen 1990er Jahren begann sich die Clubkultur in Ch
 ## Transformation und Kommerzialisierung (2000er Jahre)
 
 **Hintergrund der Zeit**
-In den 2000er Jahren wurden Tribal-Elemente mit Progressive/Electro usw. verschmolzen und die Zahl abgeleiteter Genres nahm zu. Die Produktionsumgebung hat sich von einer Hardware-basierten zu einer DAW-basierten Umgebung verlagert, was es ermöglicht, anspruchsvollere Sounddesigns zu erstellen.
+In den 2000er Jahren wurden Tribal-Elemente mit Progressive/Electro usw. verschmolzen und die Zahl abgeleiteter Genres nahm zu. Die Produktionsumgebung hat sich von einer hauptsächlich auf Hardware basierenden zu einer auf einer DAW basierenden Produktionsumgebung verlagert, wodurch es möglich wird, anspruchsvollere Sounddesigns zu erstellen.
 
 **Änderung der Produktionsmethode**
 - Bearbeitung von Schlaginstrumenten unter umfangreicher Nutzung der Effektverarbeitung (Filter/Reverb/Delay).
@@ -134,6 +134,16 @@ color: #fff;
 ## Rhythmusreise
 Tribal House ist nicht nur Clubmusik, sondern eine „rhythmische Reise“, die sich weltweit verbreitet hat und sich mit jeder Ära verändert. Es wird weiterhin Aufmerksamkeit erregen als ein Genre, das sich durch die Verschmelzung von Technologie weiterentwickelt und gleichzeitig seine afrikanischen Wurzeln übernimmt.
 
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d4rG0TcH6BQ?si=8dzssjr8TelfWf8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ## Referenzlinks (Hauptquellen)
 - <a href="https://en.wikipedia.org/wiki/Tribal_house">Wikipedia — Tribal house</a>

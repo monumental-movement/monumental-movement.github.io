@@ -137,7 +137,7 @@ Das Rhythmusmuster „Dem Bow“ wurde auf Reggaeton, Afrobeats und K-Pop erweit
 ### ▪ Bass als Diaspora
 
 Dancehall ist auch ein Symbol der Einwandererkultur.
-London, Toronto, Tokio – schwarze Gemeinden in Städten auf der ganzen Welt haben ihre Wurzeln mit leisen Tönen zum Ausdruck gebracht.
+London, Toronto, Tokio – Schwarze Gemeinschaften in Städten auf der ganzen Welt bringen ihre Wurzeln mit leisen Tönen zum Ausdruck.
 
 ---
 
@@ -156,7 +156,7 @@ Wichtigste japanische Spieler:
 ### ▪ DIY-Geist und modernes Erbe
 
 In den letzten Jahren kam es zu Überschneidungen mit Dubstep/Techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** und andere sind derzeit aktiv.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** sind derzeit aktiv.
 Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound mit unseren eigenen Händen zu erzeugen“.
 
 ---

@@ -58,7 +58,7 @@ Diese Erfahrungen lieferten ihr die Achsen „Natürlichkeit“, „Räumlichkei
 
 ## Musikalische Ausbildung und Begegnung mit Buchla
 
-Als sie aufwuchs, studierte sie Komposition und Klangtheorie an einer Musikausbildungseinrichtung in den Vereinigten Staaten und war gleichzeitig in einem Folk-Duo mit Gitarre, Gesang und Klavier aktiv.
+Als sie aufwuchs, studierte sie Komposition und Klangtheorie an einer Musikbildungseinrichtung in den Vereinigten Staaten und war gleichzeitig in einem Folk-Duo mit Gitarre, Gesang und Klavier aktiv.
 
 Doch nachdem er die Enge seiner Studienzeit hinter sich gelassen und in seine Heimatstadt zurückgekehrt ist, kommt es zu einer unerwarteten Veränderung: Er trifft auf einen Buchla 100, den ihm ein Nachbar geliehen hat. Als sie zum ersten Mal einen modularen Synthesizer in die Hand nahm, sah sie ihn nicht als „fadenscheiniges Werkzeug“, sondern als „Co-Star“, „ein lebendiges Ding“ und „einen elektrischen Körper“.
 
@@ -98,7 +98,7 @@ Das Thema dieses Werks ist „Der Lebenszyklus von der Geburt bis zum Tod“ und
 
 Durch die Darstellung der Unschuld von Neugeborenen, des Wachstums, der Reife und Verwirrung sowie der Stille der Endgültigkeit durch das Medium elektronischer und organischer Klänge, des Körpers und des Raums kann der Zuhörer ein Gefühl von „Leben“ in den Klängen spüren.
 
-Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter mechanischer Klang“ und zeigte, dass „elektronische Musik auch menschliche Geschichten, Emotionen und Erinnerungen darstellen kann“.
+Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter mechanischer Klang“ und zeigte, dass „elektronische Musik auch menschliche Geschichten, Emotionen und Erinnerungen darstellen kann.“
 
 ---
 
@@ -110,7 +110,7 @@ In dieser Arbeit betrachtet sie modulare Synthesizer als „vibrationsvermitteln
 
 Infolgedessen hat dieses Werk einen Klang, der „Wellen“, „Schwankungen“, „räumliche Empfindung“ und „physische Empfindung“ anstelle von Struktur oder Form in den Vordergrund stellt. Dröhnende Stille, rollende Pads, flüsternde Stimmen und Schichten umhüllender Synthesizer schwingen über organische und elektronische, physische und elektrische, Zeit und Raum hinweg mit.
 
-Dieser Versuch ist ein äußerst poetisches und meditatives Werk, das modulare/analoge Synthesizer nicht als bloße Klangquellen präsentiert, sondern als „Schnittstelle, die den Körper und die Welt verbindet“.
+Dieser Versuch ist ein äußerst poetisches und meditatives Werk, das modulare/analoge Synthesizer nicht als bloße Klangquellen präsentiert, sondern als „eine Schnittstelle, die den Körper und die Welt verbindet“.
 
 ---
 
@@ -125,7 +125,7 @@ Indem er Buchlas elektronische Wellenformen mit dem Rauschen des Waldes, dem Kla
 Die Instabilität von Buchla, die manuelle Natur des Patchens, die unkontrollierbaren Abweichungen und Schwankungen – diese werden nicht als „Fehler“, sondern eher als „kreative Spielräume“, „unerwartete chemische Veränderungen“ und „gute Zufälle“ begrüßt.
 
 - **Körpergefühl und Vibrationserlebnis**
-Anstatt Schall als etwas zu betrachten, das Sie mit Ihren Ohren hören, betrachten wir ihn als etwas, das Sie mit Ihrem Körper spüren und als Vibrationen wahrnehmen. Stimme, Atmung, Bewegung, Vibration – durch die Verknüpfung mit den elektrischen Schwingungen des Synthesizers wird Musik zu einer Wahrnehmung erweitert, die nicht nur den Hörsinn, sondern den gesamten Körper nutzt.
+Wir betrachten Schall nicht als etwas, das Sie mit Ihren Ohren hören, sondern als etwas, das Sie mit Ihrem Körper spüren und als Vibrationen wahrnehmen. Stimme, Atmung, Bewegung, Vibration – durch die Verknüpfung mit den elektrischen Schwingungen des Synthesizers wird Musik zu einer Wahrnehmung erweitert, die nicht nur den Hörsinn, sondern den gesamten Körper nutzt.
 
 - **Mehrere Ebenen von Zeitlichkeit, Räumlichkeit und Erinnerung**
 Drohnen, Wellen, Flächen und Feldaufnahmen verlängern die Zeit, verdichten den Raum und schaffen im Klang Erinnerungen, Emotionen und Verbindungen zur Natur.
@@ -170,11 +170,11 @@ Auf diese Weise hat sich ihr Klang nicht linear entwickelt, sondern auf komplexe
 
 ---
 
-## Abschluss – Eine Nachricht an diejenigen, die Buchla lieben
+## Fazit – Nachricht an diejenigen, die Buchla lieben
 
-Kaitlyn Aurelia Smiths Reise war nie ein technisches Experiment oder eine Zurschaustellung ihres Könnens. Ihr Ziel ist es, eine reichhaltige und poetische „Welt der Empfindungen“ zu schaffen, die „Körper, Natur, Elektrizität, Zeit und Raum“ durch das „technische Gerät“ eines modularen Synthesizers miteinander verbindet.
+Kaitlyn Aurelia Smiths Reise war nie ein technisches Experiment oder eine Zurschaustellung ihrer Fähigkeiten. Ihr Ziel ist es, eine reichhaltige und poetische „Welt der Empfindungen“ zu schaffen, die „Körper, Natur, Elektrizität, Zeit und Raum“ durch das „technische Gerät“ eines modularen Synthesizers miteinander verbindet.
 
-Wenn Sie Buchla und modulare Synthesizer nicht nur als Ausrüstung, sondern als „lebende Klanggefäße“, „vibrierende Körper“ und „eine Mischung aus Zufall und Notwendigkeit“ lieben, wird ihre Arbeit Ihnen als Wegweiser für Ihre Erkundung dienen.
+Wenn Sie Buchla und modulare Synthesizer nicht nur als Ausrüstung lieben, sondern als „lebende Klanggefäße“, „vibrierende Körper“ und „eine Mischung aus Zufall und Notwendigkeit“, wird ihre Arbeit Ihnen als Wegweiser für Ihre Erkundung dienen.
 
 Durch den „Ort“ elektronischer Musik/modularer/analoger Synthesizer besteht die Möglichkeit, körperliche Empfindungen, Natur, Zeit und Raum, Erinnerung und Emotionen neu zu entdecken.
 

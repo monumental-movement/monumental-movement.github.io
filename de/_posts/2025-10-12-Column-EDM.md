@@ -19,7 +19,7 @@ title: '[Kolumne] Die Illusion von EDM: Feiern und Wiederaufbau im digitalen Zei
 ## Es gibt einen Moment, in dem Klang zur Architektur wird
 
 
-Text: mmr | Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
+Text: mmr｜Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
 
 Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass zittert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
 Das Phänomen „EDM“ war mehr als nur ein Musikgenre, es war eine Feier des digitalen Zeitalters.
@@ -92,7 +92,7 @@ Tomorrowland, Ultra, EDC.
 Mittlerweile kennt jeder diese drei Initialen.
 
 Die Bühne ist nicht nur ein Bühnenbild, sondern eine **architektonische Installation**.
-Ein Bildschirm umhüllt den Wald und Feuerwerkskörper verweben den Himmel.
+Ein Bildschirm umhüllt den Wald und Feuerwerk überzieht den Himmel.
 Das Publikum wird zu „Lichtteilchen“ und Ton und Bild werden synchronisiert.
 EDM-Festivals waren ein neues Gemeinschaftsritual, das durch Technologie geschaffen wurde.
 
@@ -147,7 +147,7 @@ Dies könnte ein Ausdruck ihres „Wunsches nach Gemeinschaft“ gewesen sein.
 Yasutaka Nakata, Parfüm, Ado——
 J-POP übernahm die Struktur von EDM und entwickelte sich zu einem dramatischeren und visuelleren Sound.
 Für die TikTok-Generation kommt es beim Tanzen möglicherweise nicht auf den Körper an, sondern auf die Bewegung der Fingerspitzen.
-Licht, das digital umherspringt, Menschenmassen hinter Smartphones.
+Licht springt digital umher, Menschenmassen hinter Smartphones.
 Der japanische EDM hat eine neue Form angenommen: eine introvertierte Feier.
 
 ---
@@ -174,7 +174,7 @@ Aber sein Erbe durchdringt bereits alle Genres.
 Pop, Hip Hop, Gamemusik...
 Erbt die Ästhetik der Tropfenstruktur und des Schalldrucks.
 
-Von nun an werden Feierlichkeiten nicht mehr auf physische Bühnen beschränkt sein.
+Von nun an werden die Feierlichkeiten nicht mehr auf physische Bühnen beschränkt sein.
 Metaverse, AR, virtueller DJ.
 Die Menge wird zum Avatar und das Licht fließt als Code.
 

@@ -9,7 +9,7 @@ permalink: /de/column-westcoast-hiphop-history/
 tags:
 - Hiphop
 - Rap
-title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Ursprüngen bis
+title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Anfängen bis
   zum Underground'
 ---
 
@@ -18,7 +18,7 @@ title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Urspr�
 
 Text: mmr｜Thema: Von der Geburt des Westküsten-Hip-Hop bis zur Gegenwart, Produzenten, Labels, Ost-West-Konflikt, Meisterwerke, visueller Ausdruck und Modeveränderungen
 
-Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich zur Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
+Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich in die Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
 
 ---
 

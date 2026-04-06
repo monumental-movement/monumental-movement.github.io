@@ -45,7 +45,7 @@ color: #fff;
 
 # # 1. Die Grundlage der äthiopischen Musik: die pentatonische Tonleiter (Kinet) und die einzigartige modale Kultur
 
-Äthiopien verfügt seit der Antike über eine vielschichtige Musikkultur, darunter äthiopisch-orthodoxe Gesänge (Zara), die Azmari-Kultur lokaler Barden und die urbane Musik der Hauptstadt Addis Abeba.
+In Äthiopien existiert seit der Antike eine vielschichtige Musikkultur, darunter äthiopisch-orthodoxe christliche Gesänge (Zara), die lokale Azmari-Minnesängerkultur und die urbane Musik der Hauptstadt Addis Abeba.
 
 Besonders berühmt ist Äthiopiens einzigartiges Modalsystem namens „Qenet“.
 Es gibt vier typische Kinets:
@@ -83,7 +83,7 @@ Diese bildeten die Grundlage für die Entstehung des einzigartigen Genres, das s
 Mulatu gilt als der erste, der seine Musik „Ethio-Jazz“** nannte.
 In den späten 1960er Jahren versuchte er, die traditionelle äthiopische Musik zu modernisieren, indem er die äthiopische Tonleiter (Kinet) mit Improvisations- und Arrangiertechniken des Jazz verband.
 
-Zu den repräsentativen Frühwerken zählen:
+Zu den repräsentativen frühen Werken gehören:
 
 * **Serie „Afro-Latin Soul (1966–67)“**
 * **《Mulatu von Äthiopien (1972)》**
@@ -145,7 +145,7 @@ Aufnahmen von Militärkapellen wurden neu aufgelegt, was eine weltweite Neubewer
 Im Jahr 2005 als Musik für den Film „Broken Flowers“ von Jim Jarmusch.
 Viele von Mulatus Liedern wurden verwendet und es erregte große Aufmerksamkeit.
 
-Nach dieser Veranstaltung nahmen die Kooperationen mit Künstlern aus Europa und Nordamerika zu,
+Nach diesem Ereignis verstärkten sich die Kooperationen mit europäischen und nordamerikanischen Künstlern.
 Ethio-Jazz wird erneut als internationales Musikgenre anerkannt.
 
 ---
@@ -216,7 +216,7 @@ International neu bewertet mit der Éthiopiques-Reihe.
 
 ### ■ Tilahun Gessesse
 
-Ein Sänger, der als „König der äthiopischen Musik“ bekannt ist. Er ist ehemaliges Mitglied einer Militärkapelle und verfügt über fortgeschrittene Gesangsfähigkeiten.
+Ein Sänger, der als „König der äthiopischen Musik“ bekannt ist. Er ist ehemaliges Mitglied einer Militärkapelle und verfügt über hervorragende Gesangskünste.
 
 ### ■ Hailu Mergia
 
@@ -246,7 +246,7 @@ Später wurde es in Washington, D.C. wiederentdeckt und tourte um die Welt.
 
 Nach „Broken Flowers“ hat seine Verwendung in Filmen und im Fernsehen zugenommen.
 
-### ■ Europas New-Generation-Band
+### ■ Europas neue Generationsband
 
 * Die Heliozentriker
 * Schwarze Blume (Belgien)

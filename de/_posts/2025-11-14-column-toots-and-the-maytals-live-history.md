@@ -112,7 +112,7 @@ Die Live-Auftritte in dieser Zeit zeigten nicht nur die Entwicklung von Sound un
 
 ### 3.1 Reggae Sunsplash und großes Festival
 
-In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größtem Festival, dem Reggae Sunsplash. Sobald das Publikum auf der Bühne ist, beginnt es mitzusingen, zu klatschen und zu tanzen, sodass der gesamte Veranstaltungsort in einen einzigen Rhythmus eingehüllt ist.
+In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größtem Festival, dem Reggae Sunsplash. Auf der Bühne beginnt das Publikum mitzusingen, zu klatschen und zu tanzen, bis der gesamte Veranstaltungsort in einem Rhythmus versunken ist.
 
 **Anwesenheit der Leistung**:
 
@@ -139,7 +139,7 @@ Die Live-Aufnahme wurde als „Live at Madison Square Garden“ veröffentlicht 
 
 **Live-Darstellung**:
 
-* Das Publikum bildet einen Kreis und hält sich beim Intro von „Do the Reggay“ an den Händen.
+* Das Publikum bildet einen Kreis und hält sich beim Intro zu „Do the Reggay“ an den Händen.
 * Auch wenn Toots‘ Stimme schwächer geworden ist, bleibt seine Ausdruckskraft stark und das Publikum singt den Text mit.
 
 * Während der MC zwischen den Songs kann er improvisieren, indem er die Songreihenfolge anpasst und dabei die Reaktion des Publikums beobachtet.
@@ -213,6 +213,6 @@ D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 
 ## 8. Zusammenfassung
 
-Die Live-Shows von Toots and the Maytals verkörperten die Entwicklung musikalischer Genres, den Aufbau von Gemeinschaften und den internationalen kulturellen Austausch. Interaktivität mit dem Publikum, Improvisation und historische Kontinuität durch Live-Auftritte sind die Gründe, warum ihre Musik über die Jahrhunderte hinweg weitergegeben wurde. Live-Auftritte sind nicht nur musikalische Darbietungen, sondern kulturelle Rituale, die Reggae selbst verkörpern.
+Die Live-Shows von Toots and the Maytals verkörperten die Entwicklung musikalischer Genres, den Aufbau von Gemeinschaften und den internationalen Kulturaustausch. Interaktivität mit dem Publikum, Improvisation und historische Kontinuität durch Live-Auftritte sind die Gründe, warum ihre Musik über die Jahrhunderte hinweg weitergegeben wurde. Live-Auftritte sind nicht nur musikalische Darbietungen, sondern kulturelle Rituale, die Reggae selbst verkörpern.
 
 ---

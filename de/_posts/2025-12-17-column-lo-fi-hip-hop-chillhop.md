@@ -13,7 +13,7 @@ tags:
 - Chillhop
 - 80s
 - 90s
-title: '[Kolumne] Lo-Fi Hip Hop / Chillhop (selbst aufgenommene Beatkultur)'
+title: '[Kolumne] Lo-Fi Hip Hop / Chillhop (selbst aufgenommene Beat-Kultur)'
 ---
 
 
@@ -56,7 +56,7 @@ Damals konzentrierte sich die Produktionsumgebung auf Hardware wie MPC, SP-1200 
 
 Von Ende der 1990er bis in die 2000er Jahre erfreuten sich DAW-Software und PCs immer größerer Beliebtheit. Dies hat es auch Personen ohne professionelles Studio ermöglicht, Beats zu Hause zu produzieren.
 
-In dieser Home-Recording-Umgebung ist es üblich geworden, dass die Produktion nur mit einem einfachen Audio-Interface, einem kostengünstigen MIDI-Controller und Kopfhörern durchgeführt wird. Es wird angenommen, dass der private Charakter des Produktionsraums eine introspektivere und unauffälligere Tendenz zum Klang gefördert hat.
+In dieser Home-Recording-Umgebung ist es üblich geworden, dass die Produktion nur mit einem einfachen Audio-Interface, einem kostengünstigen MIDI-Controller und Kopfhörern durchgeführt wird. Es wird angenommen, dass der private Charakter des Produktionsraums eine introspektivere und zurückhaltendere Tendenz zum Klang gefördert hat.
 
 Die Produktionsbedingungen des Homerecordings prägten das Gefühl des Genres.
 
@@ -93,7 +93,7 @@ Dies ist ein Beispiel dafür, wie das Vertriebsdesign das Musikformat direkt bee
 
 ## 7. Gründung der Kategorie Chillhop
 
-Der Name Chillhop entstand im Zuge der Genre-Organisation und Optimierung von Playlists auf Vertriebsplattformen. Das Tempo war moderat, der Schalldruck war zurückhaltend und die Melodie wiederholte sich, wobei Wert darauf gelegt wurde, nicht zu viel Aufmerksamkeit vom Zuhörer zu erregen.
+Der Name Chillhop entstand im Zuge der Genre-Organisation und Optimierung von Playlists auf Vertriebsplattformen. Das Tempo war moderat, der Schalldruck war zurückhaltend und die Melodie war repetitiv, wobei Wert darauf gelegt wurde, nicht zu viel Aufmerksamkeit vom Zuhörer zu erregen.
 
 Diese Kategorisierung führte zu einem gewissen Grad an Formatbewusstsein auf der Produktionsseite und in der Folge schritt die musikalische Homogenisierung voran.
 
@@ -155,7 +155,7 @@ Diese Kultur ist nicht auf eine bestimmte Region beschränkt, sondern wird gleic
 
 ### 2020er Jahre
 
-* Der Konsum von Umweltmusik wird alltäglich
+* Der Konsum von Umweltmusik ist alltäglich geworden
 
 ---
 
@@ -197,7 +197,7 @@ Diese basieren auf der Annahme, dass der Verbrauch in Stream-Einheiten und nicht
 
 ## 17. Umgang mit Stille und Leerraum
 
-Lo-Fi Hip Hop zeichnet sich durch Stille und eine geringe Anzahl an Klängen aus. Hierbei handelt es sich nicht nur um eine Vereinfachung, sondern auch um eine Gestaltung, die die Aufmerksamkeit des Zuhörers nicht übermäßig stehlen soll.
+Lo-Fi Hip Hop zeichnet sich durch Stille und eine geringe Anzahl an Klängen aus. Hierbei handelt es sich nicht nur um eine Vereinfachung, sondern auch darum, die Aufmerksamkeit des Zuhörers nicht übermäßig zu stehlen.
 
 Phasen, in denen kein Ton vorhanden ist oder extrem unterdrückte Bänder, fungieren als Leerstellen, die die Konzentration nicht stören.
 

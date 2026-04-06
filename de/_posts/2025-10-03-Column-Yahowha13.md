@@ -43,7 +43,7 @@ color: #fff;
 Geboren am 4. Juli 1922 in Cincinnati, Ohio. Später spricht er über seine Erfahrungen als Marinesoldat (obwohl einige darauf hinweisen, dass seine Silver Star-Medaille nicht in offiziellen Aufzeichnungen zu finden ist).
 
 
-Als er an die Westküste zog, widmete er sich der Bewegung des natürlichen Lebens, dem Vegetarismus, der Hippie-Kultur und dem mystischen Denken. Er eröffnete ein Bio-Restaurant namens „The Source“ am Sunset Strip in Los Angeles, das Berichten zufolge viele berühmte Kunden anzog.
+Als er an die Westküste zog, widmete er sich der Bewegung des natürlichen Lebens, dem Vegetarismus, der Hippie-Kultur und dem mystischen Denken. Er eröffnete am Sunset Strip in Los Angeles ein Naturkostrestaurant namens „The Source“, das Berichten zufolge viele berühmte Kunden anzog.
 
 
 Schließlich gründete er, beeinflusst von Yogi Bhajans Kundalini-Yoga-Philosophie, seine eigene religiöse Bewegung, Source Family. Die von ihm geleitete Gruppe entwickelte einen Lebensstil, der Gemeinschaftsleben, spirituelle Praktiken, Musik, Ernährungs- und Gesundheitspraktiken sowie Rituale umfasste.
@@ -61,7 +61,7 @@ Journalismus und Sachartikel haben diese Doppelnatur untersucht, mit Anekdoten �
 Während die Gemeinde aktiv war, gab es Aufzeichnungen zufolge Streitigkeiten, die typisch für Sektenoperationen sind, wie zum Beispiel „Herausgabe von persönlichem Eigentum“, „Entfernung von Verwandten“ und „Erlaubnis, junge Mitglieder zu heiraten“.
 
 
-Am 25. August 1975 kam er bei einem Unfall ums Leben, als er auf Hawaii seinen ersten Drachenflug versuchte (er soll etwa neun Stunden später abgestürzt und gestorben sein). Dieser Unfall wurde praktisch zu einem Ereignis, das das „Ende“ von Yahooha13 symbolisierte.
+Am 25. August 1975 kam er bei einem Unfall ums Leben, als er auf Hawaii seinen ersten Drachenflug versuchte (er soll abgestürzt sein und etwa 9 Stunden später gestorben sein). Dieser Unfall wurde praktisch zu einem Ereignis, das das „Ende“ von Yahooha13 symbolisierte.
 
 
 Danach zerstreuten sich die Mitglieder der Gemeinde, was jedoch durch Tonarchive und Folklore neu bewertet wurde. Insbesondere die 13 CDs umfassende Box „God and Hair“ (Yahowha Collection), die 1998 vom japanischen Label Captain Trip veröffentlicht wurde, deckte die Klangquellen von Yahowha13/Source Family umfassend ab und wurde zu einer Gelegenheit für die Wiederbelebung der Legende.
@@ -101,7 +101,7 @@ Komplett improvisierte Darbietung: Viele der Aufnahmen wurden ohne Probe, ohne O
 Starker Einsatz von Stammestrommeln, Glocken, Dosen, Gesängen, weißem Rauschen, lauten Gitarren usw. Die Komposition ähnelt eher einer „zeremoniellen Akustik“ als einem Lied.
 
 
-Obwohl einige Lieder manchmal eine melodische/singende Struktur haben, liegt der Schwerpunkt insgesamt auf klanglichen Experimenten mit einem Schwerpunkt auf Räumlichkeit, Wiederholung und Ritual.
+Obwohl einige Lieder manchmal eine melodische/singende Struktur haben, liegt der Gesamtschwerpunkt auf klanglichen Experimenten mit einem Schwerpunkt auf Räumlichkeit, Wiederholung und Ritual.
 
 Texte und Gesang (Gesänge von Pater Yod, linienartige Rezitationen und Gemeindechöre) sind oft eng mit Lehren, Gesängen und meditativen Texten verbunden.
 
@@ -225,20 +225,20 @@ Im Jahr 2007 traten die ursprünglichen Mitglieder (Sunflower, Octavius, Djin) B
 Im Jahr 2008 veröffentlichten sie Sonic Portation und feierten ein schrittweises Comeback.
 
 
-Auch nach den 2010er Jahren gibt es noch Aufzeichnungen über das Ausgraben archivierter Tonquellen, die Veröffentlichung von Aufnahmen und Live-Auftritten (Auftritte auf Festivals wie dem SXSW).
+Auch nach den 2010er-Jahren gibt es noch Aufzeichnungen über die Ausgrabung archivierter Tonquellen, die Veröffentlichung von Aufnahmen und Live-Auftritten (Auftritte auf Festivals wie dem SXSW).
 
 ---
 
 
 #### Erbe und Bedeutung
 
-Yahowha13 erregt Aufmerksamkeit durch seine Positionierung als „religiöses, improvisiertes akustisches Werk“, das über den Rahmen von Rock und psychedelischer Musik hinausgeht, als „Musik = Kanalisierung und Praxis, die eine Erweiterung von Lehre und Ritual darstellt“.
+Yahowha13 erregt Aufmerksamkeit durch seine Positionierung als „religiöses improvisiertes akustisches Werk“, das über den Rahmen von Rock- und psychedelischer Musik hinausgeht, als „Musik = Kanalisierung und Praxis, die eine Erweiterung von Lehre und Ritual ist“.
 
 Es wird argumentiert, dass seine Orientierung an Improvisation, Räumlichkeit und Transzendenz einen erheblichen Einfluss auf die spätere experimentelle Musik, Improvisation und Klangkunst hatte.
 
 In Bereichen wie Kommunalkultur, Kultbewegungen und Outsider-Musikforschung ist die Existenz von Yahowha13/Source Family zu einem typischen Beispiel und Forschungsgegenstand geworden.
 
-Andererseits umfasst es auch kontroverse Themen wie ethische und historische Kritik an den Verdiensten und Verdiensten von Gläubigen und Musikern, die Fragmentierung von Aufzeichnungen sowie Anekdoten und Legenden, deren Authentizität unbekannt ist.
+Andererseits beinhaltet es auch einen kontroversen Ansatz, der ethische und historische Kritik an den Verdiensten und Fehlern von Gläubigen und Musikern, der Fragmentierung von Aufzeichnungen sowie Anekdoten und Legenden beinhaltet, deren Authentizität unbekannt ist.
 
 ---
 
@@ -270,7 +270,7 @@ Punkt: Eine Reihe „kosmischer“ Serien. Akustische Experimente (Schlagzeug, G
 [Ya Ho Wa 13（1974）](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13)
 
 
-Punkt: Der Kern der Selbstaufzeichnung. Während der Aufnahmen in Garage begann die Band, eine improvisatorische Struktur zu bilden. Djin (Gitarre) / Sunflower (Bass) / Octavius ​​(Schlagzeug) und andere werden benötigt.
+Punkt: Der Kern der Selbstaufzeichnung. Während der Aufnahmen in Garage begann die Band, eine improvisatorische Struktur zu bilden. Djin (Gitarre) / Sunflower (Bass) / Octavius ​​​​(Schlagzeug) und andere werden benötigt.
 
 
 ---
@@ -454,7 +454,7 @@ Der Klang „Ya Ho Wha“ selbst ist ein heiliges Mantra der Quellfamilie, ein A
 
 **Neubewertung im Krautrock-Kontext**: Amon Düül II und Cans Fangemeinde entdecken Yahowha 13 als „Acid Jam“.
 
-**Umfangreiche Neuauflagen**: Seit 1998 wurden zahlreiche Neuauflagen über Captain Trip (eigentlich ein japanisches Label) und deutsche Vertriebe durchgeführt.
+**Umfangreiche Neuauflagen**: Seit 1998 wurden zahlreiche Neuauflagen über Captain Trip (eigentlich ein japanisches Label) und deutsche Vertriebe hergestellt.
 
 **Bewertungstendenzen**: Es galt als „nah an der europäischen Avantgarde- und Improvisationsmusik“ und es wurde Wert auf musikalische Reinheit gelegt.
 
@@ -512,7 +512,7 @@ Mitglied Octavius ​​​​bezeugt: „Er ließ uns spielen, aber gleichzeiti
 
 #### Gemeinschaftsleben und Musik
 
-Die Source-Familie lebte zusammen in einer Hollywood-Villa namens The Father House, wo sie täglich Meditation, Vegetarismus, Yoga und Gruppenaktivitäten praktizierte.
+Die Source-Familie lebte zusammen in einem Hollywood-Herrenhaus namens The Father House, wo sie täglich Meditation, Vegetarismus, Yoga und Gruppenaktivitäten praktizierte.
 
 Musik machen war eine „Verlängerung des Alltagslebens“ und sein Wohnzimmer und Keller wurden zu seinem Studio.
 

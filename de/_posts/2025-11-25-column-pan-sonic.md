@@ -65,10 +65,10 @@ Er verwendet selten handelsübliche Synthesizer, sondern konzentriert sich statt
 - Analoger Oszillator
 - Selbstgebauter Geräuschgenerator
 - Modifizierte Rhythmusbox
-- Spannungssteuerkreis
+- Spannungsregelkreis
 - Physikalische Materialien wie Verstärker, Metallteile, Magnetspulen usw.
 
-Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und es fühlt sich überwältigend körperlich an.
+Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und er ist überwältigend körperlich.
 
 ## 2-2. Minimale Struktur
 Obwohl das Klangmaterial äußerst einfach ist, weist der Song eine detaillierte Struktur auf.
@@ -108,7 +108,7 @@ Ein 234-minütiges Meisterwerk mit 4 CDs. Man kann sagen, dass es der Höhepunkt
 Dies ist das Werk, das Pan Sonics „Zeit“ und „Struktur“ am deutlichsten demonstriert.
 
 ## 3-5. *Gravitoni* (2010)
-Ein spätes Meisterwerk mit einer tieferen elektronischen Textur und minimalistischer Struktur. Dies ist im Wesentlichen das letzte Werk vor der Pause, und es übt einen schwerkraftähnlichen Druck aus.
+Ein spätes Meisterwerk mit tieferer elektronischer Textur und minimalistischer Struktur. Dies ist im Wesentlichen das letzte Werk vor der Pause, und es übt einen schwerkraftähnlichen Druck aus.
 
 ---
 

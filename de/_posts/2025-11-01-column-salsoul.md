@@ -14,7 +14,7 @@ title: '[Kolumne] Salsoul Orchestra und MFSB – Entwicklung von Philadelphia zu
 ---
 
 
-## Der Moment, als Philadelphia Strings die Welt zum Tanzen brachten
+## Der Moment, als die Streicher aus Philadelphia die Welt zum Tanzen brachten
 
 
 Text: mmr｜Thema: Über die musikalische Revolution, die die Grundlage der „Disco“ bildete

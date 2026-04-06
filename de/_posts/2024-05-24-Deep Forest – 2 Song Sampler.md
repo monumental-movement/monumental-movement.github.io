@@ -18,9 +18,9 @@ title: Deep Forest – 2-Song-Sampler
 
 Deep Forest ist eine französische Gruppe bestehend aus Eric Mouquet und Michel Sanchez.
 
-Deep Forest trug zur Popularisierung des sogenannten „Global Pop“ bei, der ethnische Klänge und Ambient-Musik kombiniert. このカセットの収録曲「Sweet Lullaby」は、米国ではアルバムが 200万枚以上販売されるほどの大ヒットに.
+Deep Forest trug zur Popularisierung des sogenannten „Global Pop“ bei, der ethnische Klänge und Ambient-Musik kombiniert. Das auf dieser Kassette enthaltene Lied „Sweet Lullaby“ wurde ein so großer Hit, dass das Album in den Vereinigten Staaten über 2 Millionen Mal verkauft wurde.
 
-Deep Forest legte eine Pause ein, nachdem der Soundtrack für den japanischen Film „Kusa no Ran“ aus dem Jahr 2004 veröffentlicht wurde. Michel Sanchez verließ die Band 2005 und begann seine Solokarriere. Eric Mouquet veröffentlichte 2008 das Album „Deep“ unter dem Namen Deep Projects.
+Nach der Veröffentlichung des Soundtracks zum japanischen Film „Kusa no Ran“ aus dem Jahr 2004 legte Deep Forest eine Pause ein. Michel Sanchez verließ die Band 2005 und begann seine Solokarriere. Eric Mouquet veröffentlichte 2008 das Album „Deep“ unter dem Namen Deep Projects.
 
 #### Trackliste
 ```md

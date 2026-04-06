@@ -54,7 +54,7 @@ Besonders in dieser Arbeit ist **SP-303 Dr. Sample** der Schlüssel. Obwohl es g
 
 ### MF DOOM: Der maskierte Dichter
 MF DOOM (richtiger Name Daniel Dumile) wurde aus einer Tragödie geboren.
-Als er Anfang der 1990er Jahre als KMD debütierte, verlor er seinen jüngeren Bruder Subroc bei einem Unfall und sein Vertrag mit dem Label endete.
+Als er Anfang der 1990er Jahre als KMD debütierte, verlor er seinen jüngeren Bruder Subroc bei einem Unfall und sein Vertrag mit dem Label wurde gekündigt.
 Er schwieg mehrere Jahre lang und kehrte mit einer Metallmaske zurück. **
 
 DOOM machte die Maske zu einem Symbol für „Schöpfung“ und nicht für „Flucht“.
@@ -121,7 +121,7 @@ Das Jackenfoto (aufgenommen von Eric Coleman) ist eine Nahaufnahme der Metallmas
 Die Komposition, bei der die Hälfte des Gesichts in Schatten getaucht ist, symbolisiert die Kluft zwischen Anonymität und Enthüllung, Mythos und Realität.
 Diese Maske diente sowohl als Mittel zur Selbstdarstellung als schwarzer Künstler als auch als Form des Widerstands gegen kommerzielle Medien.
 
-Die Maske von DOOM ist eine Anspielung auf Marvels „Dr. Doom“ in der Popkultur, stellt aber im Kern eine Umkehrung von Macht und Identität dar.
+Die Maske von DOOM ist eine Anspielung auf Marvels Dr. Doom in der Popkultur, stellt aber im Grunde eine Umkehrung von Macht und Identität dar.
 Hier besteht ein Paradoxon, dass „Bösewicht = Person, die die Freiheit hat zu sprechen“**.
 
 ---
@@ -213,7 +213,7 @@ flowchart TD
 [『Madvillainy』](https://amzn.to/3JhySfH)は、ヒップホップという形式そのものを解体した後に、再構築する“音の迷宮”である。
 Es gibt keinen „Abschluss“ oder „Ende“.
 Gesampelte Klänge gewinnen wieder an Bedeutung, auch wenn sie ihren Ursprung verlieren.
-Die Maske, die DOOM hinterlassen hat, leuchtet immer noch in Underground-Studios auf der ganzen Welt.
+Die von DOOM hinterlassene Maske leuchtet immer noch in Underground-Studios auf der ganzen Welt.
 
 > „Es ist nicht so verrückt wie der Bösewicht.“
 > MF DOOM

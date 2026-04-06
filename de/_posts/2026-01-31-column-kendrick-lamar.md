@@ -24,7 +24,7 @@ Text: mmr｜Thema: Über Kendrick Lamar, der Hip-Hop von fragmentarischer Selbst
 
 Kendrick Lamars Werk ist keine Sammlung von Liedern, sondern hat eine Struktur, die eher einem Roman oder einem klassischen epischen Gedicht ähnelt. Seine Alben gehen über das Konzept der „Songreihenfolge“ hinaus und überlappen persönliche und soziale Geschichte, während sie Zeit, Perspektive und Erzähler manipulieren. Es gibt keinen Zufall oder Improvisation, sondern eine sorgfältig gestaltete Erzählstruktur.
 
-Hip-Hop wurde ursprünglich als Ausdrucksweise entwickelt, die die Emotionen und die Realität des Augenblicks einfängt. Jede Schlacht, jede Blockparty, jedes Lied im Radio hatte in seiner Vergänglichkeit einen Wert. Aber Kendrick bot eine Möglichkeit, das Format zu nutzen, um Geschichten über große Entfernungen zu erzählen. Die Struktur, die in ihrer Gesamtheit erst beim Hören des gesamten Albums erkennbar wird, erfordert vom Zuhörer ein aktives Lesen.
+Hip-Hop wurde ursprünglich als Ausdrucksweise entwickelt, die die Emotionen und die Realität des Augenblicks einfängt. Jede Schlacht, jede Blockparty, jedes Lied im Radio hatte in seiner Vergänglichkeit einen Wert. Aber Kendrick bot eine Möglichkeit, das Format zu nutzen, um Geschichten über große Entfernungen zu erzählen. Die Struktur, die erst durch das Hören des gesamten Albums in ihrer Gesamtheit erkennbar wird, verlangt von den Zuhörern eine aktive Lektüre.
 
 Darüber hinaus lässt sich seine Geschichte nicht auf Selbstlob oder Erfolgsgeschichten reduzieren. Indem er vielmehr Misserfolg, Angst, Bedauern und Widerspruch aktiv in den Mittelpunkt der Geschichte stellt, visualisiert er die „Schwäche“ und „Stille“, die Hip-Hop vermieden hat. Dies überschneidet sich mit der Geschichte epischer Gedichte, die nicht nur den Ruhm der Helden, sondern auch ihre Prüfungen und Leiden schildern.
 
@@ -73,7 +73,7 @@ Diese vielschichtige Struktur ähnelt dem Hin und Her zwischen Göttern und Mens
 
 ### Aufbau einer Kurzgeschichtenreihe
 
-Obwohl jedes Lied eine eigenständige Kurzgeschichte zu sein scheint, sind sie durch eine einzige Generationskritiklinie verbunden. Hier gibt es noch keinen klaren Protagonisten und mehrere Figuren sind skizzenhaft angeordnet.
+Obwohl jedes Lied eine eigenständige Kurzgeschichte zu sein scheint, sind sie durch eine einzige Generationenkritiklinie verbunden. Hier gibt es noch keinen klaren Protagonisten und mehrere Figuren sind skizzenhaft angeordnet.
 
 > Die Geschichte breitet sich zunächst über Generationen aus, bevor sie sich auf den Einzelnen konzentriert.
 
@@ -131,7 +131,7 @@ Der Dialog mit Tupac im Schlussstück erinnert an das mythische Motiv eines Gesp
 
 ### Sieben Emotionen
 
-Jedes Lied handelt symbolisch von menschlichen Emotionen und Sünden und nimmt eine religiöse Allegorie auf.
+Jedes Lied handelt symbolisch von menschlichen Gefühlen und Sünden und nimmt eine religiöse Allegorie auf.
 
 > Das Thema dieses Albums sind die Ursache-Wirkungs-Beziehungen in der Geschichte selbst.
 

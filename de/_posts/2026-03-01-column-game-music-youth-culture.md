@@ -23,9 +23,9 @@ Text: mmr | Thema: Wo sind die Ohren der digitalen Generation geblieben? - Der S
 
 
 Unter Game-Musik versteht man eine Gruppe von Musikwerken, die für Videospiele geschaffen wurden.
-Es handelt sich um ein breites Genre, das alles von Chip-Soundquellen mit Hardware-Einschränkungen bis hin zu kompletten Orchesteraufnahmen, elektronischer Musik, Popmusik und Volksmusik umfasst.
+Es handelt sich um ein breites Genre, das alles von Chip-Soundquellen mit Hardware-Einschränkungen bis hin zu vollständigen Orchesteraufnahmen, elektronischer Musik, Popmusik und Volksmusik umfasst.
 
-Traditionell war es als Hintergrundmusik positioniert, die das Spielerlebnis ergänzte, doch mittlerweile hat es sich zu einem unabhängigen Zuschauerziel, verbreiteten Inhalten und einem Live-Markt entwickelt.
+Traditionell war es als Hintergrundmusik positioniert, die das Spielerlebnis ergänzte, doch mittlerweile hat es sich zu einem unabhängigen Zuschauerziel, zu einem verbreiteten Inhalt und einem Live-Markt entwickelt.
 
 ---
 
@@ -36,7 +36,7 @@ Traditionell war es als Hintergrundmusik positioniert, die das Spielerlebnis erg
 * Explosion von abgeleiteten Werken aufgrund der Internetkultur
 * Streaming und Playlist-Generierung
 * E-Sport und Großserienproduktion
-*Änderungen in der Musikexpositionszeit bei jungen Menschen
+*Änderungen der Musikexpositionszeit bei jungen Menschen
 * Entscheidende Phase des Mainstreamings
 
 ---
@@ -92,7 +92,7 @@ Das Lied wurde später von Orchestern auf der ganzen Welt aufgeführt.
 
 Begonnen im Jahr 2002
 **Distant Worlds: Musik aus FINAL FANTASY**
-trat in Nordamerika, Europa und Japan auf und etablierte die Spielemusik in klassischen Sälen.
+ist wiederholt in Nordamerika, Europa und Japan aufgetreten und hat die Spielemusik in klassischen Sälen etabliert.
 
 Zu diesem Zeitpunkt wandelte sich Spielemusik von einem „häuslichen Erlebnis“ zu einer „Performance-Kunst im öffentlichen Raum“.
 
@@ -102,7 +102,7 @@ Zu diesem Zeitpunkt wandelte sich Spielemusik von einem „häuslichen Erlebnis�
 
 ### 3. Explosion abgeleiteter Werke und Internetkultur (2000er Jahre)
 
-Mit der Verbreitung von Video-Sharing-Sites nimmt die Kultur der Performance-Videos und Remixe rasch zu.
+Mit der Verbreitung von Video-Sharing-Sites breitet sich die Kultur der Performance-Videos und Remixe rasant aus.
 
 besonders
 **Touhou-Projekt**
@@ -247,6 +247,6 @@ Es wird vorhergesagt, dass Echtzeit-Musikerlebnisse in VR-Räumen und Metaverse-
 
 ---
 
-> Der Moment, in dem Spielemusik bei jungen Menschen zum Mainstream wird, ist kein einzelnes Ereignis, sondern das Ergebnis von 40 Jahren Technologie- und Kulturakkumulation.
+> Der Moment, in dem Spielemusik bei jungen Menschen zum Mainstream wird, ist kein Einzelfall, sondern das Ergebnis einer 40-jährigen Ansammlung von Technologie und Kultur.
 
 ---

@@ -29,7 +29,7 @@ Text: mmr｜Thema: Die Ästhetik des deutschen Techno, verwoben von Wiederholung
 
 <hr>
 
-### Historischer Hintergrund: Der Fall der Berliner Mauer und die Explosion des Techno
+### Historischer Hintergrund: der Fall der Berliner Mauer und die Explosion des Techno
 
 Der Fall der Berliner Mauer im Jahr 1989 war ein Wendepunkt in der Entwicklung des Techno in Deutschland. Mit der Verschmelzung östlicher und westlicher Kulturen nahmen Partys, die verlassene Gebäude und Lagerhäuser nutzten, rasch zu, und Berlin wurde zu einem Techno-Mekka, das den „Klang der Freiheit“ symbolisierte.
 
@@ -81,7 +81,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Kalte Textur mit starkem Einfluss von Kraftwerk und Industrial
 
-- Viele repetitive Riffs mit Synthesizern
+- Viele sich wiederholende Riffs mit Synthesizern
 
 **Bedeutende Bewegung**: Der Club „Dorian Gray“ in Frankfurt und Underground-Partys in Berlin unterstützen die Szene.
 
@@ -171,7 +171,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Melodischer Techno ist auf Festivals und beim Streaming beliebt (Typ Tale Of Us)
 
-- Beliebt sind auch Neuinterpretationen von Hard Trance und 90er-Jahre-Sounds.
+- Beliebt sind auch Neuinterpretationen von Hard-Trance- und 90er-Jahre-Sounds.
 
 **Trend**: Während er die für den „deutschen Techno“ der Vergangenheit typische Kälte geerbt hat, hat er sich durch die Hinzufügung von emotionalem Ausdruck und visueller Produktion weiterentwickelt.
 

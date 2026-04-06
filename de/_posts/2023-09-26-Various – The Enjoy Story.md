@@ -15,7 +15,7 @@ title: Verschiedenes – The Enjoy! Geschichte
 
 „Various – The Enjoy! Story“ ist ein Album mit Hits aus der Geburtsstunde von Zulu Nation, einem Meisterwerk des Rap.
 
-Tippfehler bei Track A2: Der Künstler wird falsch als „Grandmaster Flash“ geschrieben, statt im Original „Grandmaster Flash & The Furious Five“.
+Tippfehler bei Titel A2: Der Künstler wird falsch als „Grandmaster Flash“ geschrieben, statt im Original „Grandmaster Flash & The Furious Five“.
 
 Songwriter-Fehler bei Track B4: Credit wird fälschlicherweise als „Treacherous Three“ statt „Doug E. Fresh“ geschrieben.
 

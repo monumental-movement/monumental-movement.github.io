@@ -15,7 +15,7 @@ title: '[Kolumne] Ambient: Von „Musik hören“ zu „Musik fühlen“ II'
 ---
 
 
-## Von „Musik zum Hören“ zu „Musik zum Fühlen“ II
+## Von „Musik zum Anhören“ zu „Musik zum Fühlen“ II
 
 Text: mmr｜Thema: Ambient, Umweltmusik, Theorie der elektronischen Musikkultur
 
@@ -282,7 +282,7 @@ color: #fff;
 - Die Einsamkeit der Stadt mit Umgebungsgeräuschen umgeben.
 
 ### Museum/Installation
-- **Brian Eno „77 Millionen Gemälde“** (2006~)
+- **Brian Eno „77 Million Paintings“** (2006~)
 - Eine generative Installation, die Video und Ton kombiniert.
 - **Ryoji Ikeda „Datamatics“** (2006~)
 - Konvertieren Sie Daten in Audio und Video. Schaffen Sie einen minimalistischen, immersiven Raum.
@@ -345,6 +345,13 @@ Dabei handelt es sich nicht nur um ein Genre, sondern um „Sounddesign für ein
 
 In Zukunft wird Ambient als „Umweltinfrastruktur“ im Metaversum und im Städtebau noch wichtiger werden.
 
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s0YQIC5t9D0?si=zuGffYSe02EpdXm5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

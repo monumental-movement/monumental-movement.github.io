@@ -22,7 +22,7 @@ Text: mmr｜Thema: Warum erreicht japanische Subkulturmusik die Welt? - Verstän
 
 
 „X JAPAN“ „BABYMETAL“ „Parfüm“ „Dir en grey“
-Wenn diese Namen fallen, erinnern sich viele Zuhörer im Ausland gern daran.
+Wenn diese Namen fallen, erinnern sich viele Zuhörer im Ausland gerne daran.
 Die japanische Subkulturmusik, die einst als „Galapagos-Kultur“ galt, hat im 21. Jahrhundert als einzigartiges Ausdruckssystem nationale Grenzen überschritten.
 
 Im Grunde liegt das Phänomen, dass Musik als Übersetzungsinstrument für kulturelle Codes fungiert.
@@ -72,7 +72,7 @@ Dabei handelt es sich nicht nur um Unterhaltung, sondern um eine clevere Blaupau
 Der Grund für den Erfolg von BABYMETAL auf Festivals in Übersee ist
 Es gab eine strukturelle Strategie, um das Konzept der „japanischen Idole“ in den globalen Metal-Stil einzubetten.
 
-Der Export der Götzenkultur ist auch eine Verschmelzung von **religiösem Ritual und technologischer Gemeinschaft**.
+Der Export der Götzenkultur ist auch eine Verschmelzung von religiösem Ritual und technologischer Gemeinschaft.
 Handshake-Events, Übertragungen und SNS-Live-Events digitalisieren den zeremoniellen „Kontakt“ und machen Fans zu „Followern“.
 Diese Struktur wurde im Ausland als „partizipative Kultur“ übersetzt und in der Folge wurden kulturelle Grenzen aufgehoben.
 
@@ -91,7 +91,7 @@ Er hat eine Kultur etabliert, in der japanische Musik nicht nur „gehört“, s
 Wenn wir diese Struktur aus medientheoretischer Perspektive betrachten,
 **Man kann sagen, dass „Aktivierung des Publikums“ = „Mitgestaltung der kulturellen Übersetzung“**.
 Fans schreiben ihre eigenen Untertitel, verbreiten Memes und rekonstruieren die Symbolik von Idolen und Künstlern.
-Aufgrund dieser „Wiederbearbeitbarkeit“ spielt japanische Subkulturmusik mittlerweile eine Rolle im globalen Pop.
+Aufgrund dieser „Wiederbearbeitbarkeit“ spielt die Musik der japanischen Subkultur mittlerweile eine Rolle im globalen Pop.
 
 ---
 
@@ -120,7 +120,7 @@ Allerdings überlebte die Visual Kei- und Idol-Kultur mit einer „anderen Gramm
 
 Wenn die Stärke von K-POP in seiner Präzision als „fertiges Produkt“ liegt,
 In der Musik der japanischen Subkultur geht es um „Unvollkommenheit“ und „Nähe“.
-Mit anderen Worten: Der Wert ist der Spielraum für den Eingriff des Ventilators.
+Mit anderen Worten: Der Wert ist der Spielraum für den Lüftereingriff.
 Der Grund, warum ausländische Fans von japanischen Underground-Idolen und Indie-Visual Kei angezogen werden, ist dieser
 Das liegt daran, dass ich mit seiner „offenen und unvollendeten Natur“ sympathisiere.
 

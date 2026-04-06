@@ -175,6 +175,16 @@ Musik ist ein Medium, das Traurigkeit in Liebe verwandelt.
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pf0h4h6ACNo?si=F2mkTikfN0F5ZOzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## Referenzen/verwandte Materialien
 
 - [Juslin, P. & Sloboda, J. (2001). Music and Emotion: Theory and Research.](https://amzn.to/3L3FEGw) 

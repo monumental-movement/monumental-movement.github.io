@@ -52,7 +52,7 @@ In dieser Zeit ging seine Beziehung zu Musikinstrumenten in seinem Leben über e
 ### 3. Traditionelle Musikinstrumente namens Tambak und Duff – ihre Bedeutung und Hintergrund
 
 Sein Hauptinstrument, die Tombak, ist ein traditionelles Schlaginstrument, das den Kern der persischen Musik bildet. Es hat einen kelchförmigen Körper und wird durch Klopfen der Lederoberfläche mit den Händen oder Fingern hergestellt, was ihm einen äußerst satten Klang und Ausdruckskraft verleiht.
-Durch vielfältige Spieltechniken hat sich die Tambak nicht nur als Begleitinstrument, sondern auch als Soloinstrument etabliert.
+Durch eine Vielzahl von Spieltechniken hat sich das Tamback in der Vergangenheit nicht nur als Begleitinstrument, sondern auch als Soloinstrument etabliert.
 
 Die **Daf** ist eine große Rahmentrommel, manchmal mit Metallringen oder Glocken, und ein traditionelles Musikinstrument, das auch für feierliche und zeremonielle Zwecke verwendet wird. Mortazavi tritt nicht nur mit Tambacks, sondern auch mit Duffs auf und hat Solo- und Gemeinschaftsauftritte entwickelt, die sich die Eigenschaften jedes einzelnen zunutze machen.
 
@@ -62,7 +62,7 @@ Der Grund für seine Wahl dieser traditionellen Instrumente ist nicht nur eine R
 
 ### 4. Talent und Ausbildung von Jugendlichen
 
-Trotz seiner Wettkampferfolge während seiner Kindheit war Mortazavi mehr als nur ein Gewinner. Während er sich die traditionellen Spieltechniken aneignete, beschäftigte sich sein neugieriger Geist mit Fragen wie „Warum wird das Tamback auf diese Weise gespielt?“ und „Gibt es Klänge, die noch nicht verwendet wurden?“
+Trotz seiner Wettkampferfolge während seiner Kindheit war Mortazavi mehr als nur ein Gewinner. Während er traditionelle Spieltechniken beherrschte, beschäftigte sich sein neugieriger Geist mit Fragen wie „Warum wird das Tamback auf diese Weise gespielt?“ und „Gibt es Klänge, die noch nicht verwendet wurden?“
 
 Er begann seine eigene Forschung, ohne an bestehende Lehren oder Bräuche gebunden zu sein. Wir beobachten und üben sorgfältig die physische Interaktion zwischen Körper und Instrument, wie z. B. die verschiedenen Hautpartien, die Resonanz des Rumpfes, den Einsatz der Finger, die Position der Handfläche sowie die Anwendung von Nägeln und Gelenken. Dadurch kommen neue Klänge zum Vorschein, die in der traditionellen Musik nicht vorhanden waren.
 
@@ -77,8 +77,8 @@ Mortazavis bemerkenswerteste Leistung sind **mehr als 30 selbst entwickelte Schl
 
 Im Einzelnen umfassen die Ansätze:
 
-* **Verwendung verschiedener Angriffspunkte**: Angriffsbereiche, die traditionelle Spieler nicht nutzen, wie z. B. die Mitte des Leders, den Rand und den Körper (Holzteil).
-* **Verschiedene Teile der Hand**: Die gesamte Hand des Spielers gilt als Musikinstrument, einschließlich der Fingerspitzen, Gelenke, Nägel, Handfläche, Daumenwurzel und anderer Teile, die als tabu gelten.
+* **Unterschiedliche Angriffspunkte nutzen**: Bereiche angreifen, die traditionelle Spieler nicht nutzen, wie z. B. die Mitte des Leders, den Rand und den Körper (Holzteil).
+* **Verschiedene Teile der Hand**: Die gesamte Hand des Spielers gilt als Musikinstrument, einschließlich der Fingerspitzen, Gelenke, Nägel, Handfläche, Daumenwurzel und anderer Teile, die als Tabu gelten.
 * **Polyrhythmischer Ansatz**: Eine Technik, die es ermöglicht, dass mehrere Stimmen (Ebenen) gleichzeitig innerhalb desselben Instruments erklingen. Dies ermöglicht eine ensembleähnliche Darbietung durch nur einen Spieler.
 * **Dynamikbereich**: Von extrem leisen Berührungen bis hin zu explosiven Schlägen können Sie die Stärke, das Tempo und die Dichte des Klangs frei steuern.
 * **Resonanzbetrieb**: Steuert die Resonanz des Körpers und gestaltet den Nachgeschmack beim Schlagen. Auf diese Weise wird der „Nachhall“ des Klangs, der nach einem einzigen Schlag verbleibt, als Ausdruckselement genutzt.
@@ -148,7 +148,7 @@ Wie der Titel „Nexus“ vermuten lässt, ist es als ein Werk konzipiert, das d
 
 Mortazavi hat seinen Rhythmus und seine Philosophie nicht nur durch Soloauftritte, sondern auch durch die Zusammenarbeit mit verschiedenen Künstlern und Genres erweitert.
 
-Besonders hervorzuheben ist die Zusammenarbeit mit elektronischer/experimenteller Musik. Seine EPs mit **Burnt Friedman** (z. B. *Yek*) erforschen sich wiederholende und zyklische Rhythmen und verbinden traditionelle Percussion mit elektronischen Beats.
+Besonders hervorzuheben ist die Zusammenarbeit mit elektronischer/experimenteller Musik. Seine EPs mit **Burnt Friedman** (z. B. *Yek*) erforschen sich wiederholende und zyklische Rhythmen und verschmelzen traditionelle Percussion mit elektronischen Beats.
 Durch diese Zusammenarbeit entstand eine einzigartige Verschmelzung seiner polyphonen Techniken und der strukturellen Rhythmen elektronischer Musik.
 
 Es wurde auch berichtet, dass er mit Leuten wie **Mark Fell** interagiert, was beweist, dass er in der experimentellen Musik-Community große Akzeptanz genießt.
@@ -165,7 +165,7 @@ Mortazavi live zu spielen ist eine sehr körperliche und spirituelle Erfahrung. 
 
 Sein Spiel vermischt meditative, sich wiederholende Strukturen mit schnellen, komplexen Wechselmustern, die den Zuhörer oft dazu bringen, das Zeitgefühl zu verlieren. In dem Moment, in dem sich das Tempo verlangsamt, setzt sich der Klang mit Nachhall fort, und diese Dauern überlappen sich allmählich und erzeugen Resonanz im Körper. Wenn sich der Rhythmus hingegen plötzlich beschleunigt, ist die Konzentration des Publikums am höchsten und es gelangt in eine Art tranceähnlichen Zustand.
 
-Ein solches Live-Erlebnis ist nicht nur etwas, was man mit den Ohren hört, sondern ein Erlebnis, das man mit seinem Körper „spüren“ kann. Mortazavi erzeugt bei seinem Auftritt eine Resonanz beim Publikum und lässt sie in jedem Moment einen „gemeinsamen Puls“ teilen. Der Prozess hat einen rituellen Aspekt, der das Instrument und die Person, den Interpreten und das Publikum verbindet.
+Ein solches Live-Erlebnis ist nicht nur etwas, das man mit den Ohren hört, sondern ein Erlebnis, das man mit seinem Körper „spürt“. Mortazavi erzeugt bei seinem Auftritt eine Resonanz beim Publikum und lässt sie in jedem Moment einen „gemeinsamen Puls“ teilen. Der Prozess hat einen rituellen Aspekt, der das Instrument und die Person, den Interpreten und das Publikum verbindet.
 
 ---
 
@@ -173,7 +173,7 @@ Ein solches Live-Erlebnis ist nicht nur etwas, was man mit den Ohren hört, sond
 
 Mortazavi hat internationale Anerkennung für sein Können, seine Kunstfertigkeit und seine Innovationskraft erhalten. 2003 gewann er den **RUTH Newcomer Award**. Er stieß auch bei den Medien auf großes Interesse und sein Stil und seine Philosophie wurden in verschiedenen Medien wie Deutschlandfunk, Pitchfork, Hardwax und Boomkat vorgestellt.
 
-Pitchfork machte insbesondere auf die Flexibilität menschlicher Impulse und den improvisatorischen Charakter der von ihm gespielten Rhythmen aufmerksam und beschrieb sie als „Musik, die Menschlichkeit und die Plastizität der Zeit verkörpert“. Hardwax und andere lobten die klangliche Präzision und spirituelle Tiefe seiner mehr als 30 neuen Techniken.
+Pitchfork machte insbesondere auf die Flexibilität menschlicher Impulse und den improvisatorischen Charakter der von ihm gespielten Rhythmen aufmerksam und beschrieb sie als „Musik, die Menschlichkeit und die Plastizität der Zeit verkörpert“. Hardwax und andere lobten die klangliche Raffinesse und spirituelle Tiefe, die durch seine mehr als 30 neuen Techniken geschaffen wurden.
 
 Auch ihre Körperlichkeit und Spiritualität werden in Live-Rezensionen oft hervorgehoben. Drummerszone und andere haben die Schlagpunkte, Handteile und Resonanzoperationen, die er verwendet, ausführlich beschrieben und festgestellt, dass seine Hände so aussehen, als würden sie ein „Soundsystem“ spielen.
 
@@ -195,7 +195,7 @@ In diesem Ansatz spürt man den tiefen Willen, Dualitäten wie Tradition und Mod
 
 ### 12. Bildungs- und Workshop-Aktivitäten
 
-Auch die Bildung der jüngeren Generation liegt Mortazavi leidenschaftlich am Herzen. Er hat zahlreiche Workshops in Europa (insbesondere in Deutschland) abgehalten und eine Vielzahl von Teilnehmern, vom Anfänger bis zum erfahrenen Spieler, in Tamback, Duff und Handtrommeln unterrichtet.
+Auch die Bildung der jüngeren Generation liegt Mortazavi leidenschaftlich am Herzen. Er hat zahlreiche Workshops in Europa (insbesondere in Deutschland) abgehalten und einer Vielzahl von Teilnehmern, vom Anfänger bis zum erfahrenen Spieler, Tamback, Duff und Handtrommeln beigebracht.
 
 Bei einem Workshop (z. B. im norddeutschen Dorf Thandorf) sagte er: „Musik ist Liebe, und Liebe sollte keine Grenzen kennen.“ Im Gegensatz zum Konservatismus und Ruleismus der traditionellen Musikwelt ist er fest davon überzeugt, dass Musik ein Ort des freien Dialogs und der Erkundung sein sollte, und er verkörpert dies in seinem Unterricht.
 
@@ -224,7 +224,7 @@ Seine Live-Auftritte beinhalten Körperlichkeit, Rituale und Trance, und seine A
 Durch Workshops fördert er die Demokratisierung des Rhythmus, die Weitergabe und Transformation traditioneller Techniken sowie das interkulturelle Verständnis.
 
 - **Präsentation philosophischer und spiritueller Fragen**
-Seine Musik wirft durch den Rhythmus grundlegende Fragen wie Zeit, Selbst, Gemeinschaft und Bewusstsein auf und führt die Zuhörer zu tiefer Selbstbeobachtung.
+Seine Musik wirft durch Rhythmus grundlegende Fragen wie Zeit, Selbst, Gemeinschaft und Bewusstsein auf und führt die Zuhörer zu tiefer Selbstbeobachtung.
 
 All diese Elemente wirken zusammen und etablieren Mortazavi als „Philosoph des Rhythmus“ in der zeitgenössischen Musik.
 
@@ -241,6 +241,16 @@ Der Weg, den er von nun an einschlagen wird, ist klar. Weitere technologische Er
 Seine Musik zu hören bedeutet nicht nur, sich dem Rhythmus hinzugeben, sondern eine Reise, um die Resonanz zwischen dem eigenen inneren Herzschlag und dem Herzschlag der Welt zu finden. Mortazavi ist der Führer, die Karte und das Ziel dieser Reise.
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V1llz3maiA4?si=yUZyBwR2-suWZxjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 15. Referenzchronologie
 

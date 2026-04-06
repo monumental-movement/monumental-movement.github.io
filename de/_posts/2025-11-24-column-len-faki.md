@@ -77,7 +77,7 @@ Dies ist eine typische Vereinskonfiguration, bei der das Spielfeld in der Pause 
 
 #### Akustische Eigenschaften (geschätzt)
 - Die Trittenergie ist auf den niedrigen Bereich (40–60 Hz) konzentriert.
-- Subbass- und Percussion-Ebenen im Mitteltonbereich
+- Subbass- und Percussion-Layer im Mitteltonbereich
 - Weißes Rauschen, Sirene und Synth-Pads schaffen einen Raum im oberen Bereich
 
 #### Rolle im DJ-Set
@@ -134,7 +134,7 @@ Es wird verwendet, um den Groove in der Mitte eines Satzes aufrechtzuerhalten od
 #### grundlegende Informationen
 - BPM: 125
 - Tonart: g-Moll
-- Länge: Ungefähr 8 Minuten und 44 Sekunden
+- Länge: Ungefähr 8 Minuten 44 Sekunden
 
 #### Songstruktur und Rhythmus
 Es hat ein starkes melodisches Element, wobei Pads und Synthesizer allmählich mit dem Rhythmus im Intro verschmelzen.
@@ -215,7 +215,7 @@ timeline
 - Halten Sie Produktionsstandards mit Ihren eigenen Veröffentlichungen aufrecht
 
 ### 5.3 Globale Auswirkungen
-- Berliner Techno durch internationale Tourneen und Festivalauftritte in der Welt verbreiten
+- Berliner Techno durch internationale Tourneen und Festivalauftritte in die Welt tragen
 - Präsentieren eines neuen Cluberlebnisses mit Online-Sets
 
 ---
@@ -225,5 +225,14 @@ timeline
 Len Faki ist das Bindeglied zwischen Tradition und Zukunft des Berliner Techno.
 Seine Tracks und Sets haben eine kalkulierte erhebende und räumliche Präsentation, die ein einzigartiges Erlebnis auf dem Boden schafft.
 Wir werden seine Aktivitäten und die nächste Generation von Künstlern, die er fördert, weiterhin im Auge behalten.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXu5QMs-uNY?si=JHJzUctjx0vi_1lq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
