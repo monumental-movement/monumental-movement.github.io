@@ -22,7 +22,7 @@ Texte : mmr | Thème : Redéfinir le sublime à l'ère numérique par Ben Frost
 
 
 Lorsque de nombreux auditeurs entendent la musique de Ben Frost pour la première fois, la première chose qu'ils remarquent n'est pas le volume, mais la densité.
-Ce n'est pas seulement un bruit fort. Le son agrandit l’espace lui-même, le comprime et existe comme pour lui couper le souffle.
+Ce n'est pas seulement un bruit fort. Le son dilate l’espace lui-même, le comprime et existe comme pour lui couper le souffle.
 
 Pour Frost, originaire d'Australie et vivant en Islande, **le son est un phénomène physique et une forme de violence**.
 Il est construit comme une expérience architecturale et tactile qui va au-delà de la mélodie et du rythme.

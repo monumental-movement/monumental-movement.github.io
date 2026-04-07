@@ -10,7 +10,7 @@ tags:
 - Electronic
 - Downtempo
 - 90s
-title: Le Ton – Joli Dragon
+title: Le Tone – Joli Dragon
 ---
 
 

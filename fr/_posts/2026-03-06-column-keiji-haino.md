@@ -145,7 +145,7 @@ L'accent mis sur la relation entre le son et le silence est similaire à celui d
 
 De plus, dans les pièces solo calmes de Haino et les pièces de drones soutenues, l'accent mis sur l'espace acoustique est évident.
 
-Il ne s’agit pas seulement d’une extension du rock, mais d’une idée musicale moderne qui traite le son lui-même comme un matériau.
+Il ne s’agit pas seulement d’une extension du rock, mais proche d’une idée musicale moderne qui traite le son lui-même comme un matériau.
 
 La musique de Keiji Haino se situe à l'intersection du rock, de la musique d'improvisation et de la musique japonaise contemporaine.
 
@@ -223,7 +223,7 @@ Fushitsusha est le groupe représentatif de Keiji Haino formé vers 1978 et est 
 | ------ | ---------- |
 | 1979 | Formation Fushisha |
 | années 1980 | Actif dans le métro de Tokyo |
-| 1989 | début de la tournée européenne et américaine |
+| 1989 | Début de la tournée européenne et américaine |
 | 1991 | Réputation internationale accrue |
 | Années 2000 | Participations à des festivals européens |
 | Années 2010 | Activités irrégulières |
@@ -303,7 +303,7 @@ Ses activités sont celles de DJ Keiji Haino.
 
 Dans ce style, ils se produisent en jouant de la musique du monde entier sur CDJ.
 
-La musique sélectionnée n'est limitée à aucun genre.
+La musique sélectionnée ne se limite pas au genre.
 
 musique folklorique
 rocher
@@ -356,7 +356,7 @@ D --> E
 ### Instruments à cordes tournantes et univers acoustique de Keiji Haino
 
 Parmi les instruments de musique de Keiji Haino, la vielle est particulièrement remarquable.
-Cet instrument de musique, originaire de l'Europe médiévale, génère du son en tournant une manivelle qui fait tourner une roue qui touche les cordes, plutôt qu'en grattant les cordes avec un archet. Il s'agit d'un instrument à drone fabriqué à partir d'un « arc rotatif », pour ainsi dire, et caractérisé par des notes soutenues et des fluctuations d'harmoniques.
+Cet instrument de musique, originaire de l'Europe médiévale, génère du son en tournant une manivelle qui fait tourner une roue qui touche les cordes, plutôt qu'en grattant les cordes avec un archet. Il s'agit d'un instrument à drone constitué d'un « arc rotatif », pour ainsi dire, et caractérisé par des notes soutenues et des fluctuations d'harmoniques.
 
 Haino ne traite pas cet instrument simplement comme un instrument folklorique, mais l'utilise comme un dispositif qui place le son soutenu lui-même au centre de la musique.
 Un drone se propage lentement dans l’espace, et des voix, du bruit, de la guitare et des percussions se superposent. Sa structure crée un son unique qui ne peut pas être définitivement qualifié de rock, de musique folk ou de musique ambiante.
@@ -424,7 +424,7 @@ En rencontrant des sons inconnus, ma musique change aussi.
 
 ### Flux d'œuvres solos et majeures
 
-Keiji Haino a sorti une énorme quantité d’œuvres enregistrées de la fin des années 1970 à nos jours.
+Keiji Haino a publié un grand nombre d’œuvres enregistrées depuis la fin des années 1970 jusqu’à nos jours.
 Le format est diversifié, comprenant des œuvres en studio, des enregistrements live, des éditions limitées et des collaborations, et le nombre total se chiffrerait en centaines.
 
 Ce qui suit est un flux d'œuvres importantes qui sont largement connues parmi elles.
@@ -842,7 +842,7 @@ Tout cela fait partie de l'expression de Keiji Haino.
 
 Dans l’histoire de la musique underground japonaise, rares sont ceux qui ont continué à explorer la musique de manière aussi variée.
 
-Dans l’histoire de la musique, il y a des gens qui créent des genres et d’autres qui détruisent les genres.
+Dans l’histoire de la musique, il y a des gens qui créent des genres et d’autres qui détruisent des genres.
 
 Keiji Haino appartient à cette dernière catégorie.
 

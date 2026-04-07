@@ -111,7 +111,7 @@ color: #fff;
 
 **Année de naissance** : 11 février 1941 (Rio de Janeiro, Brésil)
 
-**Caractéristiques** : Pianiste, compositeur et arrangeur, il est l'un des acteurs clés de la diffusion de la musique brésilienne à travers le monde.
+**Caractéristiques** : Pianiste, compositeur et arrangeur, il est l'un des acteurs incontournables de la diffusion de la musique brésilienne à travers le monde.
 
 **逸話**: 1966年、セルジオ・メンデス & ブラジル'66のアルバム[『Herb Alpert Presents Sergio Mendes & Brasil'66』](https://amzn.to/4mR12fg)が大ヒットし、アメリカでのボサノバ人気を再燃させました。
 
@@ -211,9 +211,9 @@ La Bossa Nova a influencé divers genres tels que le jazz, la pop et la musique 
 
 ## résumé
 
-La bossa nova est un genre rare né dans un appartement de Rio de Janeiro à la fin des années 1950 et qui a réécrit la carte musicale du monde. La guitare et la voix chuchotées de João Gilberto, les compositions sophistiquées d'Antonio Carlos Jobim, l'interprétation jazz de Stan Getz et l'internationalisme pop de Sergio Mendes. Bien que leurs personnalités et activités individuelles soient indépendantes, ils sont organiquement liés et continuent d’être écoutés à travers les âges.
+La bossa nova est un genre rare né dans un appartement de Rio de Janeiro à la fin des années 1950 et qui a réécrit la carte musicale du monde. La guitare et la voix chuchotées de João Gilberto, les compositions sophistiquées d'Antonio Carlos Jobim, l'interprétation jazz de Stan Getz et l'internationalisation pop de Sergio Mendes. Bien que leurs personnalités et activités individuelles soient indépendantes, ils sont organiquement liés et continuent d’être écoutés à travers les âges.
 
-Aujourd'hui encore, le mot « Bossa Nova » va au-delà d'un simple genre musical et fonctionne comme un symbole de « culture brésilienne » et d'« atmosphère détendue ». Grâce à des plateformes numériques telles que Spotify et YouTube, il a été récemment reçu par la jeune génération et apparaît fréquemment dans les recommandations et les listes de lecture de l’IA.
+Aujourd'hui encore, le mot « Bossa Nova » va au-delà d'un simple genre musical et fonctionne comme un symbole de « culture brésilienne » et d'« atmosphère détendue ». Grâce à des plateformes numériques telles que Spotify et YouTube, il a été récemment reçu par la jeune génération et apparaît fréquemment dans les recommandations et les listes de lecture de l'IA.
 
 Le charme de la bossa nova réside dans sa musicalité unique, qui allie la liberté du jazz, le rythme de la samba et le sens de l'harmonie de la musique classique. De plus, si l’on regarde son histoire, elle reflète également des contextes sociaux tels que les échanges culturels internationaux pendant la guerre froide, l’urbanisation au Brésil et l’interaction avec le marché musical américain.
 

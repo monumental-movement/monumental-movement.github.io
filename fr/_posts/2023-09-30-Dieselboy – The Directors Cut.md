@@ -13,7 +13,7 @@ title: Dieselboy – Le montage du réalisateur
 ---
 
 
-Il s'agit d'une cassette rare d'un mix drum and bass tech et moderne de Diesel Boy, un DJ extrêmement talentueux et populaire sur la scène drum and bass américaine.
+Il s'agit d'une cassette rare d'un mix drum and bass tech-moddy de Diesel Boy, un DJ extrêmement talentueux et populaire sur la scène drum and bass américaine.
 
 Ce mix est également génial, avec timing, EQ, niveaux et transitions tous au rendez-vous, un bel exemple de ses compétences.
 

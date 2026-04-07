@@ -86,7 +86,7 @@ De 1995 à 2000, un jeune projet européen qui a précédé "Era I" de Mortii, C
 
 ### ● 2-3. Vierge ~ Réévaluation (2001-2010)
 S'écartant du courant dominant de la scène metal, le genre est resté au sein d'une petite communauté jusqu'au milieu des années 2000.
-Cependant, à la fin des années 2000, alors que les premiers black metal étaient réévalués, **Mortiis Era I a été réédité** et a commencé à recevoir une attention renouvelée dans le monde entier.
+Cependant, à la fin des années 2000, alors que les débuts du black metal étaient réévalués, **Mortiis Era I a été réédité** et a commencé à recevoir une attention renouvelée dans le monde entier.
 
 ### ● 2-4. Deuxième vague (2010-2015)
 Les changements dans l’environnement Internet et la diffusion de Bandcamp sont devenus le facteur décisif.
@@ -151,7 +151,7 @@ De nombreux artistes ont recherché la sensation des consoles de jeux et des cla
 
 - **Série Roland JV/XP (réel ou échantillonnage)**
 - **Série Yamaha PSR** (clavier maison pas cher)
-- **Échantillon de source sonore Korg Triton / M1**
+- ** Source sonore échantillon Korg Triton / M1 **
 - **Tonalité MIDI générale (source sonore GM)**
 
 Pianos GM, Choir Aahs, Strings, Pads, etc. Le bas prix et la nostalgie sont traités comme des valeurs.
@@ -222,7 +222,7 @@ Sont spécifiquement utilisés :
 
 ---
 
-## ■ 5. Schéma sirène : Structure acoustique
+## ■ 5. Diagramme sirène : Structure acoustique
 
 <div class="mermaid">
 flowchart TD
@@ -315,7 +315,7 @@ Vous trouverez ci-dessous un plan pour créer réellement une chanson.
 
 # ■ 9. Importance culturelle de Dungeon Synth
 
-Dungeon Synth est un type de musique rare qui combine la vision intense du monde du black metal avec la tranquillité de la musique ambiante, et c'est une culture qui aspire à « construire un monde intérieur ».
+Dungeon Synth est un type de musique rare qui combine la vision intense du monde du black metal avec la tranquillité de l'ambiant, et est une culture qui aspire à « construire un monde intérieur ».
 
 - Les créateurs individuels racontent leurs propres histoires sans s'appuyer sur des scènes à grande échelle
 - Fortement lié à l'esthétique de la littérature fantastique, des TRPG et de la musique de jeu
@@ -329,7 +329,7 @@ Il est même surnommé « le genre DIY le plus puissant de Bandcamp » depuis le
 
 Synthé de donjon
 **・ Spiritualité du black metal
-・ Récit fantastique
+・Récit fantastique
 ・La nature DIY de la musique synthétisée lo-fi**
 Il s’agit d’un espace culturel unique né de la combinaison de ces trois éléments.
 

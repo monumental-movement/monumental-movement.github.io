@@ -18,7 +18,7 @@ title: '[Chronique] Légende du Gong : époque, mythe, son et communauté'
 ## 1. Introduction : Le musicien comme scientifique
 
 
-Texte : mmr｜Thème : Gong, la « communauté cosmique » construite par David Allen et Gilly Smith. À propos du mythe, du son et de l'héritage des années 1960 à nos jours
+Texte : mmr | Thème : Gong, la « communauté cosmique » construite par David Allen et Gilly Smith. À propos du mythe, du son et de l'héritage des années 1960 à nos jours
 
 > « Nous étions une théière volante naviguant à travers la révolution. »
 > -Daevid Allen
@@ -50,7 +50,7 @@ color: #fff;
 * [Chapitre 7 Transformation et héritage——Gong Moellan et Renaissance](#chapitre7)
 * [Chapitre 8 Le monde de la mythologie Gong — Personnages, iconographie et vision du monde] (#chapitre8)
 * [Chapitre 9 Épisodes et anecdotes] (#chapitre9)
-* [Chapitre 10 Chronologie et chiffres de référence](#chapter10)
+* [Chapitre 10 Chronologie et chiffres de référence](#chapitre10)
 
 
 ---
@@ -58,7 +58,7 @@ color: #fff;
 ## Chapitre 1 Fin des années 1960 en France - Période révolutionnaire d'exaltation et de chaos {#chapter1}
 
 À la fin des années 1960, Paris était un terrain d’essai pour la révolution.
-Conflits universitaires, actions de rue et libération de l'art : l'enthousiasme de la « Révolution de Mai » engloutit les jeunes, et la musique, la poésie et la politique ne font plus qu'un.
+Conflits universitaires, actions de rue et libération de l'art : l'enthousiasme de la « Révolution de Mai » engloutit la jeunesse, et la musique, la poésie et la politique ne font plus qu'un.
 
 Gong est né au milieu de tout cela. Anti-establishment, anarchie, monde spirituel, culture commune. En les mélangeant, Gong incarne un « fantasme communautaire à travers le son ».
 
@@ -151,7 +151,7 @@ Le Gong était le symbole d’une pratique contre-culturelle qui ne séparait pa
 
 ---
 
-## Chapitre 7 Transformation et héritage——Moellan-Gong et renaissance {#chapter7}
+## Chapitre 7 Transformation et héritage —— Gong Moellan et renaissance {#chapter7}
 
 Après 1976, David Allen part.
 Pierre Moerlan prend le relais et le **Pierre Moerlan's Gong**, orienté jazz fusion, est né.
@@ -168,7 +168,7 @@ Même après le décès d'Allen en 2015, Gong continue de vivre comme une « con
 ## Chapitre 8 Le monde de la mythologie Gong : personnages, iconographie et vision du monde {#chapter8}
 
 Le Gong est un art complet qui intègre la musique, la mythologie et l'art.
-Centrés autour de la trilogie Radio Gnome, les personnages, les planètes, les langues, les stations de diffusion, etc. sont intimement liés.
+Centrés autour de la trilogie Radio Gnomes, les personnages, les planètes, les langues, les stations de diffusion, etc. sont intimement liés.
 
 Vous trouverez ci-dessous un diagramme montrant sa structure symbolique :
 

@@ -13,7 +13,7 @@ title: Caesars – Jerk It Out (Les remixes de Jason Nevins)
 ---
 
 
-Jason Nevins, célèbre pour avoir remixé "It's Like That" de Run-D.M.C., a remixé "Jerk It Out" de Caesars, un groupe de rock indépendant suédois de Stockholm formé en 1995.
+Jason Nevins, célèbre pour avoir remixé "It's Like That" de Run-D.M.C., a remixé "Jerk It Out" de Caesars, un groupe de rock indépendant suédois originaire de Stockholm formé en 1995.
 
 "Jerk It Out (The Jason Nevins Remixes)" est sorti en 2005 par le label américain Astralwerks.
 

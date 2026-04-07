@@ -68,7 +68,7 @@ L'impulsion était le « vieillissement acoustique » du vin qu'un brasseur a 
 J'ai entendu parler d'une tentative visant à accélérer la maturation en jouant de la musique classique,
 Il revint à Amami en pensant : « Peut-être que cela pourrait être fait avec du shochu. »
 
-En 2005, un certain entrepôt d'Amami Oshima a installé pour la première fois des haut-parleurs acoustiques dans son entrepôt.
+En 2005, un haut-parleur acoustique a été installé pour la première fois dans un entrepôt d'Amami Oshima.
 Les sujets testés étaient la musique classique (Bach, Mozart) et les chansons des îles (comme « Asahabushi » de Satokuni Taka).
 Six mois plus tard, les personnes qui l'ont dégusté ont été surprises.
 "Même si c'est le même saké brut, il était plus doux quand je l'écoutais."
@@ -97,7 +97,7 @@ Chaque brasserie d'Amami Oshima a un « style sonore » différent.
 
 Chaque brasserie a son propre « temps d'écoute ».
 La plupart des brasseries diffusent le son la nuit, mais certaines brasseries diffusent le son tout au long du processus de fermentation.
-En particulier, les « taiko et sanshin » sont riches en basses fréquences et ont une grande efficacité de transmission aux liquides.
+En particulier, « taiko et sanshin » sont riches en basses fréquences et ont une grande efficacité de transmission aux liquides.
 
 ---
 
@@ -135,7 +135,7 @@ Aujourd’hui, la maturité sonore s’étend au-delà d’Amami.
 Les expériences progressent avec l'Iki shochu à Nagasaki et le shochu d'orge à Fukuoka.
 Il s’est également répandu dans le monde du vin, du saké et du whisky.
 
-Dans le futur, il viendra peut-être un moment où le vieillissement sera contrôlé par une « conception sonore » générée par l’IA.
+Dans le futur, il viendra peut-être un moment où le vieillissement sera contrôlé par la « conception sonore » générée par l’IA.
 AI compose une chanson vieillissante de shochu,
 Les molécules d'alcool dansent au rythme——
 Ce jour approche.
@@ -147,7 +147,7 @@ Ce jour approche.
 | Années | Événements |
 |------|--------------|
 | Années 1600 | Début de la culture de la canne à sucre à Amami |
-| Années 1800 | Début de la production de shochu local utilisant la cassonade comme matière première |
+| Années 1800 | Début de la production de shochu local à base de cassonade |
 | 1949 | Retour des îles Amami au Japon, approbation spéciale pour le « shochu au sucre brun » |
 | 2005 | Début du premier test de shochu vieilli acoustiquement par Amami Oshima |
 | 2008 | L'Université de Kagoshima lance des recherches scientifiques sur la maturation acoustique |
@@ -179,7 +179,7 @@ Les gens peuvent « entendre » les sons grâce à leur sens du goût.
 Par exemple, on sait que l’amertume est perçue comme plus faible dans un espace où sont joués des sons doux.
 En d’autres termes, le son et le goût sont connectés dans le cerveau.
 
-Le fait d'écouter le son de l'Amami shochu est
+L'acte d'écouter le son de l'Amami shochu est
 Ce n’est pas seulement une question de science, c’est aussi la réunification des humains et de la nature.
 Le bruit du vent, le bruit des vagues, le bruit du chant et le bruit de la fermentation.
 Ils deviennent une seule harmonie,

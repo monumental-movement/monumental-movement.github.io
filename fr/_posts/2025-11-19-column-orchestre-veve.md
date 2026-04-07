@@ -43,7 +43,7 @@ color: #fff;
 
 À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que des groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et de la polyphonie vocale s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
 
-Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. En particulier, c'était une époque où plusieurs groupes émergents émergeaient en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars du coin des rues.
+Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. En particulier, c'était une époque où plusieurs groupes émergents émergeaient en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars des coins de rue.
 
 ---
 
@@ -102,7 +102,7 @@ Ces chansons montrent le cœur de la musique dance de Veve, tout en montrant cla
 
 ## Rôle de la guitare solo
 
-La guitare solo de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
+La guitare principale de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
 
 - Montée chromatique
 - trémolo rapide
@@ -117,7 +117,7 @@ Comparé à la musique monoligne de ZAïko et à la musique basée sur les harmo
 
 ## Innovation dans la section rythmique
 
-La section rythmique de Veve a un rebond distinctif. Le charleston ne sculpte pas fortement le dos de la 16e minute, mais crée plutôt un groove dans la plage de la 8e minute avec un large balancement horizontal, le rendant plus doux que le soukous de la même période et conservant une texture proche de celle d'une rumba.
+La section rythmique de Veve a un rebond distinctif. Le charley ne sculpte pas fortement le dos de la 16e minute, mais crée plutôt un groove dans la plage de la 8e minute avec un large balancement horizontal, le rendant plus doux que le soukous de la même période et conservant une texture proche de celle d'une rumba.
 
 ---
 
@@ -153,7 +153,7 @@ graph TD
 
 ### Analyse technique
 
-* **Le saxophone présente la mélodie au début → La guitare imite**
+* **Le saxophone présente la mélodie au début → la guitare imite**
 * **Les voix sont des « questions » et les refrains sont des « réponses »**
 * **Solo de guitare linéaire et aigu**
 
@@ -216,7 +216,7 @@ L'une des caractéristiques de cette œuvre est qu'elle donne la priorité à l'
 # Chapitre 8 Culture de la danse et histoire de la réception : le Congo et la diaspora
 
 La musique de Veve a eu une grande influence sur la culture de la danse urbaine du Congo.
-Il est particulièrement populaire dans les bars (salles de danse), et chaque fois que l'enregistrement d'un groupe est joué, certaines étapes s'établissent.
+Il est particulièrement populaire dans les bars (salles de danse), et chaque fois que l'enregistrement d'un groupe est diffusé, certaines étapes s'établissent.
 
 * **Style qui utilise de grands gestes de la main**
 * **Marches avec un fort mouvement latéral**
@@ -239,7 +239,7 @@ Bien que les deux soient de la même époque, leurs orientations sont très diff
 
 ## Distanciation musicale avec OK Jazz
 
-Veran lui-même vient d'OK Jazz, ils ont donc le même sens de l'harmonie et la même profondeur de traitement mélodique, mais
+Puisque Veran lui-même est d'OK Jazz, ils ont le même sens de l'harmonie et la même profondeur de traitement mélodique, mais
 Veve est plus moderne et dansant que OK Jazz.
 
 ## Points communs avec Afrisa International

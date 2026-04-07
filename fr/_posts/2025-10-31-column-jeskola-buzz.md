@@ -108,7 +108,7 @@ Un autre aspect important de Buzz était qu'il était activement soutenu, partag
 ### 4.1 Partage de plug-ins gratuits et culture du marché des sources sonores
 
 Les utilisateurs de Buzz créaient des machines à sources sonores/machines à effets et les distribuaient gratuitement sur des forums et des sites Web. Par exemple, de nombreuses machines ont été publiées sur BuzzMachines.com et sur les forums demoscene.
-Cela a rendu courant le téléchargement de la machine de quelqu'un d'autre et l'insertion dans vos propres chansons. En d'autres termes, un cycle est né dans lequel « les utilisateurs créent des équipements (équipements logiciels) puis les partagent avec des amis et sur Internet ».
+Cela a rendu courant le téléchargement de la machine de quelqu'un d'autre et l'insertion dans vos propres chansons. En d’autres termes, un cycle est né dans lequel « les utilisateurs créent des équipements (équipements logiciels) puis les partagent avec leurs amis et sur Internet ».
 
 ### 4.2 Relation profonde avec la démoscène
 
@@ -118,7 +118,7 @@ Pour cette raison, le style de « création de vos propres sources sonores et cr
 ### 4.3 Création d'un forum/tutoriel en ligne
 
 Des informations sur l'utilisation de Buzz, des conseils de câblage de la machine, des exemples de traitement d'échantillons/de construction de chaînes d'effets, etc. ont été accumulées sur des forums, des blogs et YouTube. En conséquence, nous avons créé un environnement dans lequel même les débutants peuvent apprendre relativement facilement « ce que Buzz peut faire ».
-Cette culture de l'apprentissage a créé une tendance consistant à « apprendre à utiliser/modifier/partager » et a élevé Buzz du statut d'« outil » à celui de « plateforme ».
+Cette culture de l'apprentissage a créé une tendance à « apprendre à utiliser/modifier/partager » et a élevé Buzz du statut d'« outil » à celui de « plateforme ».
 
 ### 4.4 Utilisation dans tous les genres musicaux et création d'une sous-culture
 
@@ -160,7 +160,7 @@ Ainsi, les premières œuvres de Holden ont un langage sonore hautement compatib
 Concernant Aphex Twin (de son vrai nom Richard D. James), aucun document primaire solide (interviews officielles, etc.) n'a été trouvé indiquant qu'il "a utilisé Buzz", et il n'y a que des mentions de "il a utilisé/pourrait utiliser Buzz" dans les messages du forum et les témoignages d'utilisateurs. Par exemple, sur le forum KVR, un utilisateur a déclaré : "...mon tracker préféré est Jeskola Buzz...", suggérant qu'AFX (Aphex Twin) utilise peut-être un logiciel de tracker.
 Également indiqué dans le fil de discussion HackerNews :
 
-> "Le flux de travail rapide et productif de Jeskola Buzz de l'époque me manque toujours. Synthé logiciel modulaire + tracker avec séquençage de motifs. "
+> "Le flux de travail productif rapide de Jeskola Buzz de l'époque me manque toujours. Synthé logiciel modulaire + tracker avec séquençage de motifs. "
 
 
 ### 5.3 Autres artistes/créateurs nationaux
@@ -219,7 +219,7 @@ Cette structure de stagnation/reprise a également été influencée par des fac
 
 * La version Build1503 du 16 janvier 2016 a été publiée et existe en tant que dernière version.
 * En outre, des logiciels/environnements héritant de la philosophie de Buzz sont apparus, tels que l'environnement de module Tracker pour Linux et un renouveau en tant que système « modulaire doux ».
-*De plus, avec la renaissance du matériel modulaire (Eurorack, etc.), l'idée de « construire et câbler vos propres circuits » a été réévaluée, et la sensation/idée de fonctionnement de type Buzz est présentée comme une « expérience originale ».
+*De plus, avec la renaissance du matériel modulaire (Eurorack, etc.), l'idée de « construire et câbler vos propres circuits » a été réévaluée, et la sensation/idée de fonctionnement de type Buzz est présentée comme une « expérience originale ».
 
 ### 7.3 Traces laissées : Résumé
 

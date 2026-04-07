@@ -44,7 +44,7 @@ color: #fff;
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) dirigé par Keiji Haino, [**Merzbow**](https://amzn.to/46qEmxw) de Masami Akita, [BOREDOMS](https://amzn.to/4nKFfGO) d'Ai Yamazuka et Seiichi Yamamoto, [Incapacitors](https : groupes comme //amzn.to/3IsJjwx) et [Violence Onsen Geisha](https://amzn.to/4gJWXbk) ont brisé les frontières du rock conventionnel et du punk, créant un monde sonore combinant bruit et esprit expérimental.
 
-Cette période voit également l’essor des labels indépendants, des apparitions dans des festivals internationaux et des interactions accélérées avec l’underground américain et européen. En outre, des activités de pointe ont été développées qui ont influencé la production de films et de bandes sonores, ainsi que plus tard la **génération musicale IA**.
+Cette période voit également l'essor des labels indépendants, des apparitions dans des festivals internationaux et des interactions accélérées avec l'underground américain et européen. En outre, des activités de pointe ont été développées qui ont influencé la production de films et de bandes sonores, ainsi que plus tard la **génération musicale IA**.
 
 ---
 
@@ -54,7 +54,7 @@ Cette période voit également l’essor des labels indépendants, des apparitio
 - **Merzbau** : En passant des équipements analogiques au bruit des ordinateurs portables, cela reflète les droits des animaux et le végétarisme.
 - **Firefighter** : Une existence qui brouille la frontière entre « groupe de bruit » et « art de la performance ».
 - **Boredoms** : Fusion psychédélique et noise, influençant la scène alternative américaine.
-- **Melt-Banana** : "Nano Core" combine la vitesse du hardcore et la texture du bruit.
+- **Melt-Banana** : "Nano Core" combine vitesse hardcore et texture sonore.
 
 ---
 
@@ -77,7 +77,7 @@ Cette période voit également l’essor des labels indépendants, des apparitio
 
 - **Caractéristiques** : Synonyme de « musique bruitiste ». Du rugissement chaotique des équipements analogiques, il est passé aux ordinateurs portables à la fin des années 1990.
 - **Modifications** : Acclamé internationalement avec des œuvres sur cassettes dans les années 80 et des sorties sur CD dans les années 90. Dans les années 2000, il intègre la « protection de l’environnement » et les « droits des animaux » dans sa musique.
-- **Anecdote** : L'album « Pulse Demon » est appelé « l'album le plus inécoutable » à l'étranger, et est considéré comme un morceau de bruit monumental.
+- **Anecdote** : L'album « Pulse Demon » est appelé « l'album le plus inécoutable » à l'étranger, et est considéré comme un morceau de noise monumental.
 
 | Albums | Caractéristiques | Liens |
 |--------------|------|--------------|
@@ -89,7 +89,7 @@ Cette période voit également l’essor des labels indépendants, des apparitio
 
 ### Escaliers de secours
 
-- **Caractéristiques** : Le premier "groupe de bruit" au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
+- **Caractéristiques** : Le premier « groupe de bruit » au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
 - **Changements** : Ils ont commencé leurs activités dans les années 80 et ont enregistré principalement des albums live dans les années 90. Depuis les années 2000, il développe des activités expérimentales comme le co-vedette avec des idoles.
 - **Anecdote** : Le fait de « dépecer un poulet » lors d'un spectacle live a suscité un énorme débat dans les médias étrangers et a été traité comme un scandale social.
 
@@ -118,7 +118,7 @@ Cette période voit également l’essor des labels indépendants, des apparitio
 
 - **Caractéristiques** : Hardcore super rapide + bruit. La chanteuse Yasuko O. se caractérise par sa voix mignonne et coupante.
 - **Changements** : Formé au début des années 90, étendu à l'étranger avec le soutien de Steve Albini. Dans les années 2000, le son a évolué vers un son plus électronique et structurel.
-- **Anecdote** : Ils ont reçu des critiques élogieuses de la part de John Zorn lors de leur tournée à l'étranger et sont devenus cultes en tant que « groupe le plus rapide du Japon » sur la scène alternative américaine.
+- **Anecdote** : Ils ont reçu des critiques élogieuses de la part de John Zorn lors de leur tournée à l'étranger et ont acquis une popularité culte en tant que « groupe le plus rapide du Japon » sur la scène alternative américaine.
 
 | Albums | Caractéristiques | Liens |
 |--------------|------|--------------|
@@ -180,7 +180,7 @@ A4 : Le son expérimental donne une sensation de tension unique au travail vid
 
 ### résumé
 
-Le rock et le noise underground japonais des années 1990 aux années 2000 n’étaient pas seulement un genre musical, mais un terrain d’expérimentation culturelle. La performance cérémonielle de Keiji Haino, l'évolution technologique de Merzbow, la performance destructrice de Hijikadan, la sensation motrice de Melt-Banana et la fusion sonore psychédélique de Boredoms sont des expressions uniques qui resteront dans l'histoire de la musique du monde.
+Le rock et la noise underground japonais des années 1990 aux années 2000 n’étaient pas seulement un genre musical, mais un terrain d’expérimentation culturelle. La performance cérémonielle de Keiji Haino, l'évolution technologique de Merzbow, la performance destructrice de Hijikadan, la sensation motrice de Melt-Banana et la fusion sonore psychédélique de Boredoms sont des expressions uniques qui resteront dans l'histoire de la musique du monde.
 
 ---
 

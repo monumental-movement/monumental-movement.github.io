@@ -22,7 +22,7 @@ title: '[Chronique] Synthpop : L''ère des rêves électroniques'
 Texte : mmr｜Thème : Une théorie culturelle complète qui retrace la « nostalgie du futur » de la synth pop, de YMO à Charli XCX
   
 La musique pop a semblé prendre un nouveau souffle lorsque les synthétiseurs sont devenus plus que des sons mécaniques et ont commencé à jouer avec émotion.
-La synthpop, née à la fin des années 1970 avec l'évolution de la technologie, continue de nous procurer un sentiment froid mais magnifique de « nostalgie du futur ».
+La synthpop, née à la fin des années 1970 avec l'évolution de la technologie, continue de nous donner un sentiment froid mais magnifique de « nostalgie du futur ».
 
 ---
 
@@ -45,7 +45,7 @@ color: #fff;
 Dans les années 1970, les synthétiseurs Moog, ARP et japonais comme Roland et Yamaha ont démocratisé la production musicale.
 Le son électronique, jusqu'alors réservé à de gigantesques équipements de studio, s'est progressivement imposé dans les foyers et les salles de concert.
 "The Robots" de Kraftwerk est inorganique, comme s'il remettait en question les frontières entre les humains et les machines, tout en résonnant avec un étrange sens de l'humour.
-La vision qu'ils ont présentée de « homme = machine » est devenue le concept qui a sous-tendu toute la musique pop ultérieure.
+La vision qu'ils présentaient de « homme = machine » est devenue le concept qui a sous-tendu toute la musique pop ultérieure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/og9MIfeDR3w?si=CbK10wexfZZ09ot6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -98,7 +98,7 @@ C'est à ce moment-là que les idées de Kraftwerk se reflètent dans le magnifi
 
 A cette époque, une révolution tranquille commençait à Tokyo.
 Le son produit par YMO (Yellow Magic Orchestra) en 1978 n'était pas seulement une imitation, mais une réinvention de la musique électronique dans un « contexte asiatique ».
-Le solfège musical de Ryuichi Sakamoto, la sensibilité pop de Haruomi Hosono et le sens du rythme de Yukihiro Takahashi : le son de YMO a été la première « voix électronique » diffusée au monde par le Japon au début de la mondialisation.
+Le solfège musical de Ryuichi Sakamoto, la sensibilité pop de Haruomi Hosono et la sensibilité rythmique de Yukihiro Takahashi : le son de YMO a été la première « voix électronique » diffusée au monde par le Japon au début de la mondialisation.
 
 Ryuichi Sakamoto a déclaré plus tard :
 > "La technologie est un moyen de rendre la musique plus humaine."
@@ -149,9 +149,9 @@ Il ne s’agissait pas d’outils de « précision », mais de pinceaux utilisé
 Quelque chose de mécanique peut être émotionnel : c'est le charme paradoxal de la synthpop.
 
 Au 21e siècle, « l'esthétique de l'imperfection » est en train d'être réévaluée.
-La voix vacillante de Grimes, le traitement vocal de l'IA de Charli XCX et le mélange de langues natives de Yaeji.
+La voix vacillante de Grimes, le traitement vocal de l'IA de Charli XCX et le mélange de langues maternelles de Yaeji.
 Tout cela prouve que les « sons imparfaits » véhiculent l’humanité.
-À mesure que la composition de l’IA progresse, « l’artificialité humaine » de la synthpop pourrait bien devenir le dernier romantisme de la musique.
+À mesure que la composition de l’IA évolue, « l’artificialité humaine » de la synthpop pourrait bien être le dernier romantisme de la musique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -187,14 +187,14 @@ Tout cela prouve que les « sons imparfaits » véhiculent l’humanité.
 
 ---
 
-## Chapitre 8 Conclusion : les sons électroniques parlent de « nostalgie du futur »
+## Chapitre 8 Conclusion : « Nostalgie du futur » racontée par des sons électroniques
 
 La synthpop est à la fois le « son du futur » et le « son de la nostalgie du passé ».
 Pourquoi sommes-nous si émus par les sons électroniques froids des années 1980 ? C'est parce qu'ils contiennent la « température d'une époque où les gens croyaient en l'avenir ».
 Même aujourd’hui, alors que la technologie numérique progresse et que l’IA commence à composer de la musique, les humains continuent de rechercher leur « soi » dans le son des machines.
 
 La « relation entre technologie et émotion », que Ryuichi Sakamoto n'a cessé de poser jusqu'au bout, est désormais à nouveau au premier plan.
-Et quelque part dans cette lignée se trouvent le sourire électronique de YMO, les polyrythmies de Perfume et les larmes pixellisées de Charli XCX.
+Et quelque part dans cette lignée se trouvent le sourire électronique de YMO, les polyrythmies de Perfume et les larmes pixelisées de Charli XCX.
 
 L’avenir résonne toujours dans les rêves électroniques.
 
@@ -250,7 +250,7 @@ flowchart TD
 
 - **T1. Quelle est la différence entre la synth pop et la techno pop ? **
 
-A1. La synthpop est un genre qui incorpore des sons électroniques dans des chansons pop, et la technopop en est une interprétation japonaise. YMO en est un exemple typique.
+A1. La synthpop est un genre qui incorpore des sons électroniques dans des chansons pop, et la technopop en est une interprétation japonaise. YMO est un exemple typique.
 
 - **Q2. Qui sont les artistes synth pop représentatifs des années 80 ? **
 
@@ -276,3 +276,12 @@ Retracer l’histoire du son électronique, c’est aussi retracer l’histoire 
 C'est une « poésie technologique » continue, depuis les premières expériences de YMO jusqu'à la tristesse numérique de Charli XCX.
 La synthpop ne s'arrête jamais. En fait, à l’ère de l’IA, l’essence même de ce phénomène est à nouveau remise en question.
 
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31kX8PKRocs?si=qSr699AGZ9ci1rGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

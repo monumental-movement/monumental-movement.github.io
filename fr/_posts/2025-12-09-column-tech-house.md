@@ -131,7 +131,7 @@ En particulier, les artistes suivants sont importants car ils comblent le fossé
 
 * Steve Bug (Poker plat)
 * Booka Ombre
-* M.A.N.D.Y.
+*M.A.N.D.Y.
 * Ricardo Villalobos (minimal mais recoupe également Tech House)
 * Dés de locomotive
 *Lucien
@@ -169,7 +169,7 @@ Vers la fin des années 2000, Tech House a connu les changements suivants.
 
 Dans les années 2010, Tech House est devenu l'un des 4/4 les plus joués dans les clubs et festivals du monde entier. L'augmentation de la demande a été particulièrement importante à Ibiza.
 
-Exemples d'artistes vedettes :
+Exemples d'artistes notables :
 
 *Jamie Jones (Créations chaudes)
 *Lee Foss
@@ -249,7 +249,7 @@ Bien que Tech House ne soit liée par aucun équipement spécifique, les tendanc
 * Sources sonores de boîte à rythmes telles que 909, 808, 707, etc.
 * Traitement principalement basé sur des échantillons plutôt que modulaire
 * La réverbération est courte
-* Resserrez les médiums avec l'égaliseur
+* Resserrez les médiums avec EQ
 * Développement progressif en unités de 16 à 24 bars
 
 La philosophie de production met l'accent sur « l'esthétique de la soustraction » et sur la « conception d'un espace vide qui fonctionne dans l'espace d'un club ».
@@ -300,11 +300,19 @@ flowchart TD
 
 ## 14. Résumé
 
-La Tech House est une musique de club qui allie la chaleur de la house à la structure minimale de la techno. Elle s'est développée principalement sur la scène des clubs britanniques dans les années 1990 et, depuis les années 2000, elle s'est répandue dans le monde entier, croisant étroitement l'Allemagne et les États-Unis.
+La Tech House est une musique de club qui combine la chaleur de la house avec la structure minimale de la techno. Elle s'est développée principalement sur la scène des clubs britanniques dans les années 1990 et, depuis les années 2000, elle s'est répandue dans le monde entier, croisant étroitement l'Allemagne et les États-Unis.
 
 Aujourd'hui, la Tech House a évolué vers une musique jouée dans un large éventail de contextes, de l'underground à la scène principale, et est devenue un élément essentiel de la culture DJ.
 
-Dans cet article, nous avons systématiquement organisé la façon dont le genre Tech House s'est formé et comment il s'est développé jusqu'à sa forme actuelle, en couvrant son histoire, son son, sa culture régionale, sa théorie de la production et ses artistes représentatifs. Tech House continuera à être un élément important de la culture du club à l’avenir.
+Dans cet article, nous avons systématiquement organisé comment le genre Tech House s'est formé et comment il s'est développé jusqu'à sa forme actuelle, en couvrant son histoire, son son, sa culture régionale, sa théorie de la production et ses artistes représentatifs. Tech House continuera à être un élément important de la culture du club à l’avenir.
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8MyVwGRDawQ?si=dJehTw3TB74dE6Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

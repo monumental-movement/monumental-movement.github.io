@@ -45,7 +45,7 @@ color: #fff;
 DMC (Disco Mix Club) a été créé au Royaume-Uni en 1983 en tant que service de pool de disques pour les DJ de clubs, dans le but principal de fournir des sources sonores remixées aux DJ.
 Le contexte était la **culture des clubs** en croissance rapide en Europe et le **profession de DJ professionnels**.
 
-À l’époque, la technologie DJ était dominée par des mixages qui connectaient parfaitement les chansons, et le scratch et les tricks n’étaient encore développés que dans certaines régions du hip-hop.
+À l’époque, la technologie DJ était dominée par des mixages reliant de manière transparente les chansons, et le scratch et les tricks n’étaient encore développés que dans certaines régions du hip-hop.
 
 ## 1-2 En 1985, l'invention du « DJing compétitif »
 Le fondateur de DMC, Tony Prince, a eu l'idée de présenter la créativité des DJ sous la forme d'une « compétition » et a organisé le premier Championnat du monde de DJ DMC à Londres en 1985.
@@ -61,7 +61,7 @@ Lors du tournoi de 1986, il a exécuté une routine mettant l'accent sur le grat
 
 À partir de ce moment, le monde a commencé à partager la valeur selon laquelle « le turntablism, y compris le scratch, décide du jeu ».
 
-## 2-2　1988-1990 : Vers l'ère du sampling, du beat jonglerie et de la composition
+## 2-2　1988-1990 : Vers l'ère du sampling, du beat juggling et de la composition
 Après Cheese, les DJ ne se contentaient pas de jouer des chansons ;
 - Reconfigurer manuellement les rythmes
 - hacher les morceaux
@@ -152,7 +152,7 @@ L'histoire du DMC est aussi l'**histoire technique du platinisme**.
 Ces innovations technologiques permettront aux DJ d'accéder à une position similaire à celle des « beatmakers » et des « compositeurs ».
 
 ## 6-2 Division et ensemble d'équipe
-Comme l'ont démontré C2C (France), Kireek (Japon), The Mixfitz (Canada), etc., la catégorie équipe est plus qu'une simple exposition de compétences de grattage ;
+Comme l'ont démontré C2C (France), Kireek (Japon), The Mixfitz (Canada), etc., la catégorie équipe est plus qu'une simple exposition de compétences de scratch ;
 - Orchestration avec 4 personnes en même temps
 - Composé comme une performance live
 - Production synchronisée avec la vidéo

@@ -22,7 +22,7 @@ title: '[Chronique] DJ Harvey et la collection de disques : le DJ comme corps qu
 Texte : mmr｜Thème : Pas seulement un DJ, mais une considération du dernier « chaman » de l'ère analogique
 
 
-DJ Harvey - Le simple fait d'entendre ce nom donne un air relâché à de nombreux amateurs de club.
+DJ Harvey - Le simple fait d'entendre ce nom fait se détendre le visage de nombreux amateurs de club.
 Co-fondateur du légendaire club londonien **Tonka Sound System**, il s'est fait connaître dans les années 90 en tant que résident au **Ministry of Sound**, a déménagé à **Ibiza** dans les années 2000 et est désormais basé à **Los Angeles**.
 
 dit Harvey. "Les disques sont des fragments de mon âme. Quand l'aiguille tombe, Dieu y demeure."

@@ -29,7 +29,7 @@ Une méthode sans précédent de **reconstruction** de chansons préenregistrée
 Son nom est --**DUB**.
 
 Supprimez les voix d'une chanson existante, ne laissant que le rythme et la basse,
-Jouez l’espace lui-même en utilisant pleinement l’écho et la réverbération.
+Jouez l'espace lui-même en utilisant pleinement l'écho et la réverbération.
 Cette innovation n'était pas seulement un « remix » mais une redéfinition de la musique.
 
 Cette idée dub est devenue plus tard **hip-hop, techno, ambient, noise**,
@@ -63,7 +63,7 @@ Dans le studio d'enregistrement, une piste instrumentale est enregistrée en tan
 Le DJ a enthousiasmé le public en chantant des toasts (narration du MC) au micro.
 C'est aussi le prototype de la **culture rap/hip-hop** ultérieure.
 
-Les ingénieurs du son pensaient à l'époque que cette version n'était pas qu'un sous-produit ;
+Les ingénieurs du son de l'époque pensaient que cette version n'était pas qu'un sous-produit ;
 Il a commencé à être utilisé comme **terrain d'essai acoustique**.
 Le plus radical d’entre eux était **King Tubby**.
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Diagramme : Structure de la pensée de Dove
+## Diagramme : Structure de la pensée de type Dub
 
 <div class="mermaid">
 

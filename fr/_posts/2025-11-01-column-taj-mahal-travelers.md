@@ -19,7 +19,7 @@ title: '[Chronique] Taj Mahal Travel Group et Takehisa Kosugi - Un voyage pour l
 ## I. Point de départ dans les années 1960 : Au-delà des institutions musicales
 
 
-Texte : mmr｜Thème : Un pèlerinage sonore où s'entremêlent improvisation et sons environnementaux - Un enregistrement d'un voyage vers l'extérieur de la musique, dessiné par Takehisa Kosugi et le Taj Mahal Travel Group
+Texte : mmr｜Thème : Un pèlerinage sonore où s'entremêlent improvisation et sons environnementaux - Un enregistrement d'un voyage vers l'extérieur de la musique dessiné par Takehisa Kosugi et le Taj Mahal Travel Group
 
 
 Au début des années 1960, la scène musicale d’avant-garde japonaise était tranquillement florissante.
@@ -31,7 +31,7 @@ Durant cette période, Takehisa Kosugi étudie le violon à l’Université des 
 > « Le son commence à vivre lorsqu'il est séparé de la volonté de l'interprète. »
 > — Takehisa Kosugi
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BdjmQkOOa9A?si=wp3TrXBLiNOIjVPf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3SpY7OSW7qs?si=IIuxvX6PN-Q-jyhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -82,11 +82,11 @@ Il a mis en pratique la philosophie selon laquelle « le lieu lui-même devient 
 
 ---
 
-## V. Voyager à travers le son : de l'Inde à l'Europe (1971-1972)
+## V. Voyager à travers le son : De l'Inde à l'Europe (1971-1972)
 
 En 1971, le Taj Mahal Tour Group part pour une tournée en Europe.
 Leur voyage n’était pas seulement une tournée, mais un « pèlerinage sonore ».
-En extérieur, sans source d’électricité ni scène, le spectacle a été improvisé et résonné avec le vent, l’eau, la foule et les ondes radio.
+En extérieur, sans source d’énergie ni scène, le spectacle a été improvisé et résonné avec le vent, l’eau, la foule et les ondes radio.
 
 ### Itinéraire (carte Sirène)
 
@@ -172,10 +172,10 @@ C’est le message le plus important que Kosugi nous a laissé.
 | 1960 | Diplômé de la Faculté de Musique de l'Université des Arts de Tokyo |
 | 1961-63 | Participation à des activités de musique expérimentale d'avant-garde avec Kei Ichiyanagi, Toru Takemitsu et d'autres |
 | 1964 | ``Musique Collective'' formée, interprétée avec Cage & Tudor |
-| 1965-1968 | Performances de type Fluxus (Sogetsu Art Center, etc.) |
+| 1965-68 | Performances de type Fluxus (Sogetsu Art Center, etc.) |
 | 1969 | Création du « Taj Mahal Travel Group » |
 | 1971-1972 | Pèlerinage musical de l'Inde à l'Europe |
-| 1972 | 《Voyageurs du Taj Mahal – 15 juillet 1972》Annonce |
+| 1972 | 《Les voyageurs du Taj Mahal – 15 juillet 1972》 Annonce |
 | 1975 | Sortie de l'œuvre solo « Catch-Wave » |
 | 1977-90 | Directeur musical de la Merce Cunningham Dance Company |
 | 2018 | Décédé. Décédé à l'âge de 80 ans. |
@@ -196,7 +196,7 @@ C’est le message le plus important que Kosugi nous a laissé.
 
 ---
 
-## Conclusion – Liberté de son et de prière
+## Conclusion - liberté de son et de prière
 
 Le voyage du groupe de tournée du Taj Mahal n’était pas simplement une « performance d’un groupe à l’étranger ».
 C’était un voyage spirituel qui transcendait l’institution musicale et résonnait avec le monde.
@@ -206,5 +206,14 @@ C’était un voyage spirituel qui transcendait l’institution musicale et rés
 
 Même aujourd’hui, un demi-siècle plus tard, les sons qu’ils émettaient résonnent encore.
 Il continue de vibrer doucement dans l’air, dans les souvenirs et au plus profond du cœur des auditeurs.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ddqyg-JgJzc?si=qYT_q7KDqzdnnBHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

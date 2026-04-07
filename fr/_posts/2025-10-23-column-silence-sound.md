@@ -89,7 +89,7 @@ Il s’agissait d’une tentative de comprendre le son comme faisant partie de l
 "Nous vivons dans un paysage sonore. Écouter, c'est comprendre l'environnement."
 
 L'agitation de la ville, le bruissement de la forêt, le murmure de la rivière, les enregistrer et les monter est devenu un acte musical en soi.
-Cette idée se poursuit dans la culture actuelle de l'enregistrement sur le terrain et dans les artistes qui intègrent les sons environnementaux (Ryuichi Sakamoto, Chris Watson, etc.).
+Cette idée se poursuit dans la culture du field record d'aujourd'hui et dans les artistes qui incorporent des sons ambiants (Ryuichi Sakamoto, Chris Watson, etc.).
 
 ---
 
@@ -135,7 +135,7 @@ graph TD
 </div>
 
 Comme le montre ce diagramme, « écouter » n'est pas un acte passif, mais un acte créatif.
-Le silence ne fonctionne pas comme un espace pour jouer de la musique, mais comme un espace de réflexion et d’empathie.
+Le silence ne fonctionne pas comme un « espace » pour jouer de la musique, mais comme un espace de réflexion et d’empathie.
 
 ---
 

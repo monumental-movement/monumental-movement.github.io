@@ -121,7 +121,7 @@ Le traitement vocal de Cloud Rap se mélange facilement avec le Lo-Fi Hip Hop, e
 
 ---
 
-Lil Peep a développé un style mêlant des éléments d'emo, de punk et de cloud rap, formant le cœur de l'esthétique post-SoundCloud Rap. En particulier, la combinaison de **échantillon de guitare x réverbération x mélodie triste** a eu une forte influence sur les chansons suivantes.
+Lil Peep a développé un style mêlant des éléments d'emo, de punk et de cloud rap, formant le cœur de l'esthétique post-SoundCloud Rap. En particulier, la combinaison **échantillon de guitare x réverbération x mélodie triste** a eu une forte influence sur les chansons suivantes.
 
 ---
 
@@ -154,7 +154,7 @@ Avec l’essor de YouTube, SoundCloud et TikTok, les techniques du Cloud Rap se 
 * **Pad** : Synthé à réverbération profonde, accords ambiants
 * **Batterie** : cible piège (808, roulement de charleston, coup de pied profond)
 * **BPM** : 120-150
-* **Traitement vocal** : réverbération plus profonde, réglage automatique, traitement dub
+* **Traitement vocal** : réverbération plus profonde, Auto-Tune, traitement dub
 * **Texture** : Citations sur la culture des années 90/an 2000
 
 Vous trouverez ci-dessous un diagramme de relations illustrant la structure sonore :

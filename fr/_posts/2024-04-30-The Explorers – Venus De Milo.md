@@ -16,7 +16,7 @@ title: Les explorateurs – Vénus De Milo
 
 The Explorers est un groupe formé par d'anciens membres du groupe de rock progressif Roxy Music, Phil Manzanera et Andy MacKay, avec James Wraith au chant.
 
-Les Explorers ont sorti leur LP éponyme «Explorers» sur Virgin Records en 1985, mais se sont dissous en 1986.
+Les Explorers ont sorti leur album éponyme « Explorers » sur Virgin Records en 1985, mais se sont dissous en 1986.
 
 Ce disque est un extrait de l'album éponyme.
 

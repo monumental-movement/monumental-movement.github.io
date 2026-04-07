@@ -111,7 +111,7 @@ La scène noise texane des années 2020 se situe entre le réseau et la terre.
 Tandis que de jeunes artistes de Houston et Dallas sont actifs en tant que collectif numérique via Bandcamp, YouTube, Discord, etc.
 Les artistes plus âgés continuent de travailler avec du matériel analogique.
 
-> "Le bruit est une question d'attitude, pas de technologie."
+> "Le bruit n'est pas une question de technologie, c'est une question d'attitude."
 > — Richard Ramirez (Jésus en cuir noir)
 
 Le bruit texan continue d’osciller entre sauvage et urbain.
@@ -158,7 +158,7 @@ flowchart TD
 
 Le bruit du Texas est un bruit d’horizon, pas un bruit de ville.
 Ce n'était pas un cri ou une résistance, mais une légère vibration pour confirmer son existence.
-Les artistes noise ici travaillent non seulement grâce à la technologie, mais aussi
+Ici, les artistes noise travaillent non seulement grâce à la technologie, mais aussi
 Il continue plutôt d'actualiser son « éthique du son » dans la solitude et la nature.
 
 > « Le bruit est une musique sous forme de silence. »

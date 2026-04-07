@@ -42,7 +42,7 @@ color: #fff;
 
 ### 2.1 Bases de l'échantillonnage
 
-Il existe deux paramètres principaux dans le processus (échantillonnage) de division des signaux analogiques en valeurs numériques en les divisant en intervalles de temps fixes : **fréquence d'échantillonnage (Hz)** et **profondeur de bits de quantification (bit)**. La fréquence d'échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.
+Le processus de division des signaux analogiques en valeurs numériques (échantillonnage) a deux paramètres principaux : **fréquence d'échantillonnage (Hz)** et **profondeur de bits de quantification (bit)**. La fréquence d'échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.
 
 * **12 bits** : Théoriquement, la plage dynamique est d'environ 72 dB (conditions idéales). En réalité, la plage dynamique effective varie en fonction de l'équipement utilisé, en raison des effets du bruit du circuit et des chemins analogiques.
 
@@ -75,7 +75,7 @@ Entre le milieu et la fin des années 1980, les prix des mémoires à semi-condu
 * **Principales caractéristiques** : séquenceur 8 pistes, filtre (analogique), sorties individuelles
 
 **Philosophie et fonctionnalités de conception**
-Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et des documents techniques d'E-mu de l'époque, il peut être confirmé que le chemin A/D et la conception du filtre du SP-1200 contribuent à la coloration acoustique.
+Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et de la documentation technique d'E-mu de l'époque, nous pouvons confirmer que le chemin A/D et la conception du filtre du SP-1200 contribuent à sa coloration acoustique.
 
 **Utilisation pratique**
 
@@ -101,7 +101,7 @@ Avec l'aide de Roger Linn dans la conception, le MPC60 se voulait un « sampler 
 
 ---
 
-### 4.3 Akai S900 / S950
+### 4.3Akai S900/S950
 
 * S900 (1986) : premier échantillonneur de type rack. La précision de l'échantillon atteint une bande passante de 12 bits et comporte des fonctions d'édition et de synchronisation externe.
 * S950 (1988) : Une version avancée du S900, offrant une fonction d'étirement temporel plus flexible (fonction de conversion grossière). Les records de ventes et les articles de l’époque confirment qu’il était largement utilisé dans la production de musique de club.
@@ -118,7 +118,7 @@ Bien que Mirage ne soit pas 12 bits, il est très influent en tant qu'échantill
 
 *Année de sortie : 1985
 * Profondeur de bits : 12 bits
-* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de "synthétiser des échantillons de tonalités".
+* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de « synthétiser des échantillons de tonalités ».
 
 ---
 
@@ -162,7 +162,7 @@ Dans la section d'analyse technique, la réponse en fréquence générale des é
 
 ### 7.1 Rôle du SP-1200 dans le Hip Hop
 
-Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient réalisé des échantillons de type SP.
+Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient effectué des échantillons de type SP.
 
 ### 7.2 Relation entre R&B et MPC
 
@@ -176,7 +176,7 @@ Les échantillons basse résolution sont efficaces pour créer des textures et o
 
 ## Chapitre 8 : Artistes clés et exemples d'utilisation
 
-> Vous trouverez ci-dessous des extraits d'exemples d'utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et des documents officiels.
+> Vous trouverez ci-dessous des extraits d'exemples d'utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et de la documentation officielle.
 
 <div class="mermaid">
 
@@ -210,14 +210,14 @@ Depuis les années 2010, le nombre de plug-ins et de produits de reproduction ma
 
 ## Chapitre 11 : Matériaux/Références
 
-* Manuel d'entretien E-mu SP-1200 (Spécifications techniques)
+* Manuel de service E-mu SP-1200 (Spécifications techniques)
 * Manuel d'utilisation Akai MPC60 (manuel du produit)
 * Magazine de technologie musicale de l'époque (numéro 1987-1995)
 * Interviews de producteurs (Pete Rock, DJ Premier, Dr. Dre, etc.)
 
 ---
 
-## Chapitre 12 : Résumé et perspectives
+## Chapitre 12 : Résumé et perspectives
 
 L'échantillonneur 12 bits est un excellent exemple de la façon dont les contraintes techniques peuvent conduire à l'ingéniosité. Le SP-1200 et le MPC60 sont allés plus loin que de simples outils et sont devenus l'expression musicale d'une époque particulière. Dans l'environnement de production actuel, il existe de nombreuses façons de recréer intentionnellement du « lo-fi » et du « grain », mais lorsque vous retrace leurs racines, vous revenez toujours à ces appareils.
 

@@ -51,7 +51,7 @@ Les points de contact entre les deux sont la culture du sound system, le toastin
 *Migration culturelle par diaspora
 * Expression de soi depuis la périphérie urbaine
 
-> Le reggae et le hip-hop sont des « cultures sœurs » avec la même structure développées dans des villes différentes.
+> Le reggae et le hip-hop sont des « cultures sœurs » avec la même structure développée dans des villes différentes.
 
 ---
 
@@ -83,7 +83,7 @@ Le hip-hop était une réinvention de la culture du sound system jamaïcain dans
 
 En 1985, **Under Mi Sleng Teng** est sorti. Cette chanson, qui utilisait des préréglages sur le Casio MT-40, a inauguré l'ère du dancehall numérique.
 
-À peu près à la même époque, la culture de l’échantillonnage s’est développée aux États-Unis et le hip-hop est entré dans le domaine de l’expérimentation sonore. Dans les années 1990, **Shabba Ranks** devient un succès international et la fusion du dancehall et du rap progresse.
+À peu près à la même époque, la culture de l’échantillonnage s’est développée en Amérique et le hip-hop est entré dans le domaine de l’expérimentation sonore. Dans les années 1990, **Shabba Ranks** devient un succès international et la fusion du dancehall et du rap progresse.
 
 Les apparitions de **Busta Rhymes**, qui a un flow jamaïcain, et de **The Notorious B.I.G.**, qui a une intonation caribéenne, en sont symboliques.
 
@@ -110,7 +110,7 @@ De plus, des artistes tels que **Rihanna** et **Drake** ont introduit des élém
 | 1973 | DJ Kool Herc développe des breakbeats dans le Bronx |
 | 1985 | Sous l'annonce de Mi Sleng Teng |
 | années 1990 | Progrès dans la fusion du dancehall et du hip-hop |
-| Années 2000 | Le dancehall devient pop mondiale |
+| Années 2000 | Le dancehall devient une pop mondiale |
 
 ---
 
@@ -150,7 +150,7 @@ F --> G[Global Pop Expansion]
 * Dem Bow - Rangs Shabba
 * Soyez occupé – Sean Paul
 
-> À l'écoute de ces chansons, la généalogie de la bass culture s'éclaire.
+> A l'écoute de ces chansons, la généalogie de la bass culture s'éclaire.
 
 ---
 
@@ -171,7 +171,7 @@ Le reggae a présenté une identité sonore postcoloniale. Le hip-hop visualisai
 
 ### Qu'est-ce qui est arrivé en premier, le reggae ou le hip hop ?
 
-Le reggae, y compris sa culture du toasting, l'a précédé et ses techniques ont influencé la formation du hip-hop.
+Le reggae, y compris sa culture du grillage, l'a précédé et ses techniques ont influencé la formation du hip-hop.
 
 ### Pourquoi les deux sont-ils liés ?
 

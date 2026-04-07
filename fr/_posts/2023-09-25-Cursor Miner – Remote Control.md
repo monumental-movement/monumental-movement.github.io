@@ -15,7 +15,7 @@ title: Curseur Mineur – Télécommande
 
 Cursor Miner est un projet de Rob Tubb (de son vrai nom Rob Tubb).
 
-Cursor Miner est un mélange d'hymnes dancefloor purs, de breakbeats tordus, d'expérimentations insensées, de flair pop et de commentaires sociaux.
+Cursor Miner est un mélange d'hymnes purs dancefloor, de breakbeats tordus, d'expérimentations insensées, de flair pop et de commentaires sociaux.
 
 Il a été décrit comme Beck et David Bowie fusionnant avec Kraftwerk et Oetaker, ce qui se passerait au milieu d'une rave illégale du début des années 90.
 

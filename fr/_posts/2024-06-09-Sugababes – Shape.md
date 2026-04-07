@@ -17,7 +17,7 @@ title: Sugababes – Forme
 
 Sugababes est un groupe pop féminin britannique formé en 1998 par le manager d'All Saints.
 
-Sorti en 2003, "Shape" était le quatrième single des Sugababes, un échantillon de "Shape of My Heart" de Sting, un hit qui a culminé à la 11e place des charts britanniques et a atteint le top 10 aux Pays-Bas et en Irlande.
+Sorti en 2003, "Shape" était le quatrième single des Sugababes, échantillonnant "Shape of My Heart" de Sting, un hit qui a culminé à la 11e place des charts britanniques et a atteint le top 10 aux Pays-Bas et en Irlande.
 
 La face A est un remix de Salaam Remi, un producteur hip-hop américain célèbre pour avoir produit des chansons de Nas, Amy Winehouse, Sullivan et d'autres.
 

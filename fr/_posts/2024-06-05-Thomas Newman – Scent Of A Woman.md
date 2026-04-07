@@ -15,7 +15,7 @@ title: Thomas Newman – Parfum de femme
 ---
 
 
-Les morceaux A1-A6, A8-A10, B1-B2 et B4-B7 ont été composés par le compositeur américain Thomas Newman. Thomas Newman a créé des musiques pour de nombreux films, dont The Shawshank Redemption, American Beauty, The Green Mile, Finding Nemo, Wall-E, Skyfall et Spectre.
+Les morceaux A1-A6, A8-A10, B1-B2 et B4-B7 ont été composés par le compositeur américain Thomas Newman. Thomas Newman a créé la musique de nombreux films, notamment The Shawshank Redemption, American Beauty, The Green Mile, Finding Nemo, Wall-E, Skyfall et Spectre.
 
 Les morceaux A7 et B3 sont également du groupe américain The Tango Project.
 

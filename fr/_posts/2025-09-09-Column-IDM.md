@@ -153,7 +153,7 @@ Développement d'instruments originaux à l'aide de **Max for Live**.
 | 6 | Halo de Laurier | La lumière du soleil sur les fanés | Chant expérimental et acoustique |
 | 7 | Tim Hecker | Vierges | Bruit et construction IDM |
 | 8 | Andy Stott | Problèmes de luxe | IDM sombre et profond orienté club |
-| 9 | Houx Herndon | Chœur | Pionnier de l’approche IA |
+| 9 | Houx Herndon | Chœur | Pionnier de l'approche IA |
 | 10 | Lapalux | Sans toi | R&B IDM émotionnel |
 
 ---

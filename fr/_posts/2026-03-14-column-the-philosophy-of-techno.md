@@ -42,7 +42,7 @@ La techno n'est pas de la musique, mais de la « pensée ».
 
 Ces propos ne sont en aucun cas exagérés.
 
-En effet, la techno a toujours été une musique permettant de réfléchir à l’avenir et à la société.
+En effet, la techno a toujours été une musique permettant de réfléchir sur l’avenir et la société.
 
 > La techno est un rythme pour imaginer le futur.
 
@@ -122,7 +122,7 @@ Le thème était également unique.
 
 - Autoroute
 - ordinateur
-- des robots
+-robot
 
 Alors que la musique pop précédente parlait d'amour et d'émotion, leur thème était la technologie elle-même.
 
@@ -149,7 +149,7 @@ Dans les années 1980, la techno est née dans la ville américaine de Détroit.
 
 Cette ville avait un passé particulier.
 
-Détroit était autrefois le centre de l'industrie automobile.
+Détroit était autrefois le centre de l’industrie automobile.
 
 -Gué
 - Moteurs généraux
@@ -302,7 +302,7 @@ Cela seul rend la chanson complète.
 
 Cette structure a quelque chose de commun avec le minimalisme de la musique contemporaine.
 
-Les compositeurs des années 1960 ont commencé à créer une musique faisant appel à la répétition.
+Dans les années 1960, les compositeurs ont commencé à créer une musique faisant appel à la répétition.
 
 Répétez des phrases courtes et modifiez-les petit à petit.
 
@@ -341,7 +341,7 @@ Berlin produit un son plus sombre et plus minimal.
 
 Le Japon a développé sa propre scène de clubs.
 
-La techno devient ainsi une musique globale.
+C'est ainsi que la techno devient une musique mondiale.
 
 Mais le plus important est que toutes les villes partageaient la même idéologie.
 

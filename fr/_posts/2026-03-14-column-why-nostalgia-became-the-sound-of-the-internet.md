@@ -31,7 +31,7 @@ La nostalgie était autrefois un sentiment profondément lié aux souvenirs pers
 Cependant, l’avènement d’Internet a fondamentalement modifié cette structure émotionnelle.
 
 YouTube, blogs, réseaux sociaux et streaming.
-La musique de toutes les époques étant désormais accessible en même temps, la musique en est venue à être consommée comme une « archive du temps » plutôt que comme un « présent ».
+La musique de toutes les époques étant désormais accessible en même temps, la musique est devenue une « archive du temps » plutôt que du « présent ».
 
 Disco des années 70, synth pop des années 80, R&B des années 90, rock indépendant des années 2000.
 Tous s’alignent sur la même chronologie.
@@ -64,7 +64,7 @@ color: #fff;
 
 ### Un concept culturel qui existe depuis le 19ème siècle
 
-Le mot « nostalgie » trouve son origine comme terme médical au XVIIe siècle.
+Le mot nostalgie a été créé comme terme médical au XVIIe siècle.
 Le terme a été inventé par le médecin suisse Johannes Hofer pour décrire l'état psychologique ressenti par les soldats loin de chez eux.
 
 L'étymologie est
@@ -226,7 +226,7 @@ La nostalgie fonctionne ici comme un **son de réconfort**.
 
 Internet est à l’origine de l’innovation technologique la plus rapide de l’histoire de la musique.
 
-*MP3
+* MP3
 *Streaming
 * Musique IA
 * Recommandation d'algorithme
@@ -286,7 +286,7 @@ C'est **rétro-futur**.
 
 c'est
 
-"Le futur vu du passé"
+"L'avenir vu du passé"
 
 C'est l'esthétique.
 
@@ -305,7 +305,7 @@ Tout cela est une musique qui reconstruit la vision du passé du futur.
 
 Autrement dit, la musique nostalgique n’est pas qu’une rétrospective.
 
-C'est aussi une façon d'imaginer l'avenir.
+C'est aussi une manière d'imaginer l'avenir.
 
 > La nostalgie est un sentiment de retour sur le passé, mais aussi une culture d'imagination du futur.
 

@@ -89,8 +89,8 @@ Chanson représentative :
 - "Atlas"
 - "Quelque chose"
 - "Arigato"
-- "Tokyo"
-- « Les peuples »
+- « Tokyo »
+-« Les peuples »
 
 Ceux-ci sont fréquemment joués dans la setlist actuelle et symbolisent le mieux l’image musicale de STS9.
 
@@ -148,7 +148,7 @@ Depuis le début de STS9
 - Accompagnement pédagogique
 - Protection de l'environnement
 - Activités locales
-Il a participé activement à des activités caritatives telles que :
+Il a participé activement à des activités caritatives telles que
 
 Il existe également de nombreux spectacles qui reversent une partie des recettes des billets en direct, et de nombreuses chansons ayant pour thème des problèmes sociaux.
 En particulier, « Peaceblaster » (2008) se positionne comme une œuvre conceptuelle ayant pour toile de fond des thèmes politiques et environnementaux.
@@ -280,7 +280,7 @@ Les spectacles live de STS9 se marient bien avec les festivals.
 -Bonnaroo
 - Forêt électrique
 - Suwannee Hulaween
-Leurs « sets de fin de soirée » lors de grands festivals comme « Late Night » sont devenus légendaires.
+Leurs « sets de fin de soirée » lors de grands festivals tels que « Late Night » sont devenus légendaires.
 
 ##11-3. Exemples pionniers d’artistes communautaires
 
@@ -289,7 +289,7 @@ C’est également important car cela montre comment les artistes devraient êtr
 
 ---
 
-# 12. Conclusion : « des groupes qui évoluent grâce au live » du 21e siècle
+# 12. Conclusion : « les groupes qui évoluent grâce au live » du 21e siècle
 
 Le secteur 9 de la Sound Tribe est
 **Une tentative de transférer la structure de la musique électronique à la performance live tout en conservant le format du groupe**

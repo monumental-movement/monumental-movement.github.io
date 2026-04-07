@@ -88,7 +88,7 @@ color: #fff;
 - Grosse caisse épaisse et dure, accentuant les temps 4/4
 - Accent mis sur le rythme et la structure plutôt que sur la mélodie
 - La progression d'accords est simple et sombre
-- Il y a de nombreux éléments de transe, utilisant la sensation de boucle.
+- Il y a de nombreux éléments de transe, utilisant le sentiment de boucle.
 
 **Artiste/unité représentatif**
 -Instantané!

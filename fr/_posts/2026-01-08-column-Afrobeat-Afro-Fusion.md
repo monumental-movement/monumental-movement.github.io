@@ -61,13 +61,13 @@ La domination coloniale de la fin du 19e siècle au 20e siècle a introduit en A
 
 ### Les activités de Fela Kuti
 
-Le terme Afrobeat a été inventé par le musicien nigérian Fela Anikulapo Kuti à la fin des années 1960. Fela a reçu sa formation musicale à Londres, absorbant le jazz, le highlife et la soul avant de retourner au Nigeria. Lors de son séjour aux États-Unis en 1969, il est influencé par le mouvement Black Power et le funk et décide de s'orienter vers une orientation qui reliera la musique et le discours politique.
+Le terme Afrobeat a été inventé par le musicien nigérian Fela Anikulapo Kuti à la fin des années 1960. Fela a reçu sa formation musicale à Londres, absorbant le jazz, le highlife et la soul avant de retourner au Nigeria. Lors de son séjour aux États-Unis en 1969, il est influencé par le mouvement Black Power et le funk et décide d'une orientation qui reliera la musique et le discours politique.
 
 Ses groupes, Africa 70 et plus tard Egypt 80, ont établi une forme distincte de la musique de danse existante, avec de longues performances, des grooves répétitifs et des sections de cuivres.
 
 ### Fonctionnalités musicales
 
-Une composition Afrobeat typique se compose d’une batterie, de plusieurs instruments de percussion, d’une basse électrique, d’une guitare, d’une section de cuivres, de claviers et de voix. Bien que le rythme soit basé sur une mesure 4/4, chaque instrument joue un motif répétitif indépendant, créant ainsi une polyrythmie complexe dans son ensemble.
+Une composition Afrobeat typique se compose d’une batterie, de plusieurs instruments de percussion, d’une basse électrique, d’une guitare, d’une section de cuivres, de claviers et de voix. Bien que le rythme soit basé sur une mesure à 4/4, chaque instrument joue un motif répétitif indépendant, créant ainsi une polyrythmie complexe dans son ensemble.
 
 Les chansons durent souvent plus de 10 minutes et comprennent une intro, un développement de groove, un solo improvisé et une partie vocale. Les paroles étaient écrites en anglais, en anglais pidgin et en yoruba et critiquaient souvent la situation politique, l'injustice et la structure du pouvoir dans la société nigériane.
 
@@ -109,7 +109,7 @@ Le terme Afro-Fusion est utilisé depuis les années 2000 pour désigner la tend
 
 ### Musique populaire nigériane
 
-Au Nigeria, depuis les années 2000, la généralisation des environnements de production numérique a banalisé la production musicale dans des studios privés. Une tendance musicale pop collectivement connue sous le nom d’Afrobeats s’est formée et l’Afro-Fusion s’est positionnée comme une expression qui traverse les genres.
+Au Nigeria, depuis les années 2000, la généralisation des environnements de production numérique a banalisé la production musicale dans des studios privés. Une tendance musicale pop connue collectivement sous le nom d’Afrobeats a été créée et l’Afro-Fusion s’est positionnée comme une expression qui traverse les genres.
 
 > "L'Afro-Fusion n'a pas de type rythmique ou de composition spécifique, mais est utilisé comme concept pour désigner une combinaison de méthodes de production et d'origines culturelles."
 

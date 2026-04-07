@@ -53,7 +53,7 @@ Afin de comprendre la noirceur du peuple nordique, il est nécessaire de confirm
 
 Les dieux ne sont pas immortels, mais ils font face à la vieillesse, à la trahison et à la mort. Odin sacrifie ses yeux pour acquérir des connaissances, et Loki devient un dieu, mais aussi un destructeur, menant à la fin du monde.
 
-Ce qui est important dans ce système mythologique, c’est qu’il n’y a aucune hypothèse selon laquelle l’ordre durera éternellement. Une vision du monde fondée sur la perdition fait que les expressions musicales reflètent plus fortement le destin que l’espoir.
+Ce qui est important dans ce système mythologique, c’est qu’il n’y a aucune hypothèse selon laquelle l’ordre durera éternellement. Une vision du monde fondée sur l’extinction fait que les expressions musicales reflètent plus fortement le destin que l’espoir.
 
 > La mythologie nordique contient l'idée d'accepter une fin inévitable plutôt que le salut.
 
@@ -68,7 +68,7 @@ On dit que les esprits féminins de la forêt, comme Skogsloh en Suède, Huldra 
 
 Les paroles des chansons folkloriques racontent à plusieurs reprises des histoires de rencontres avec ces êtres entraînant la mort ou la folie. Ce n’étaient pas des fables, mais servaient d’avertissements pratiques pour coexister avec la nature.
 
-> La noirceur du peuple scandinave n'était pas une production d'horreur, mais une sagesse pour la survie.
+> La noirceur du folk scandinave n'était pas une production d'horreur, mais une sagesse de survie.
 
 ---
 
@@ -81,7 +81,7 @@ Ces ballades se déroulent souvent comme une liste de faits, sans excitation ém
 
 Il n’y a aucune intention de glorifier la violence et la mort est décrite comme une prolongation de la vie quotidienne plutôt que comme un incident particulier. Il y a un calme et une obscurité caractéristiques du peuple scandinave.
 
-> Parler de la mort n'était pas inhabituel chez les Nordiques.
+> Parler de la mort n'était pas inhabituel chez les gens nordiques.
 
 ---
 

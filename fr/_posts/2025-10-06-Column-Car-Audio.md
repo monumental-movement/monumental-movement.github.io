@@ -64,7 +64,7 @@ color: #fff;
 
 ###Nissan/Infiniti
 
-- **Modèle représentatif** : Infiniti QX80 (système de haut-parleurs Bose 16)
+- **Modèle représentatif** : Infiniti QX80 (système d'enceintes Bose 16)
 - **Technologie** : Pour optimiser l'acoustique de la voiture, le placement des haut-parleurs et les réflexions des matériaux ont été analysés et réglés en collaboration avec BOSE.
 
 ---
@@ -136,7 +136,7 @@ color: #fff;
 ### Chrysler/Jeep
 
 - **Modèle représentatif** : Wrangler (enceintes Alpine 9, 480W)
-- **Technologie** : Ajustement pour maintenir la qualité sonore même sous le bruit extérieur
+- **Technologie** : Ajustement pour maintenir la qualité sonore même en cas de bruit extérieur
 
 ---
 
@@ -259,7 +259,7 @@ Les voitures étaient autrefois des « machines de transport ». Cependant, c'es
 L’Allemagne a imprégné le son d’ingénierie de précision, la Grande-Bretagne de tradition et de formalité, l’Amérique de liberté et de puissance et le Japon d’harmonie délicate.
 L'audio automobile dans chaque pays est également une cristallisation du sens esthétique et de la philosophie industrielle de cette société.
 
-La « scène silencieuse » de Rolls-Royce est le summum du silence.
+La « scène silencieuse » de Rolls-Royce est le summum du silence.
 Le contrôle DSP de Tesla connecte les signaux électriques et les émotions.
 Et Mark Levinson de Lexus joue avec les matériaux et l'espace comme des « instruments ».
 Il ne s'agit pas seulement de systèmes de haut-parleurs, mais d'« architectures sonores » où se croisent les humains et les machines, l'ingénierie et les sensibilités.

@@ -11,8 +11,8 @@ tags:
 - Interactive
 - Technology
 - Streaming
-title: '[Chronique] L''avenir des expériences musicales interactives : l''état actuel
-  de l''écoute et de la création à mesure que la technologie se développe'
+title: '[Chronique] L''avenir des expériences musicales interactives - l''état actuel
+  de l''écoute et de la création améliorées par la technologie'
 ---
 
 
@@ -107,7 +107,7 @@ E --> F[2020s AI生成]
 
 La musique interactive n’est pas un genre autonome. Il est composé d’un échantillon représentatif de compositeurs, de développeurs et de technologues.
 
-###Brian Eno
+### Brian Eno
 
 Présentation du concept de musique générative. Music for Airports de 1978 a jeté les bases de la musique environnementale. Influencé sur la musique générée ultérieurement par l'application.
 

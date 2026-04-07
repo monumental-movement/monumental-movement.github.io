@@ -81,7 +81,7 @@ Il ne s’agissait pas seulement d’une musique de fond, mais d’une musique q
 
 ### 2. L'ère du CD-ROM et l'expansion du son (années 1990)
 
-À la fin des années 1990, avec la diffusion des CD-ROM, la capacité des sources sonores s’est considérablement élargie.
+À la fin des années 1990, avec la diffusion des CD-ROM, la capacité des sources sonores a considérablement augmenté.
 Des formations de cordes, de chœurs et de groupes de rock sont introduites.
 
 **Final Fantasy VII**

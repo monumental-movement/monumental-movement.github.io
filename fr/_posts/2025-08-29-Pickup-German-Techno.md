@@ -15,7 +15,7 @@ title: Récupérer des œuvres de techno allemande
 ---
 
 
-"Un rythme qui pénètre la nuit, l'âme de Berlin, la techno allemande marche"
+"Le rythme qui pénètre la nuit, l'âme de Berlin, la techno allemande marche"
 
 <hr>
 
@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-Point attrayant : Un remix du chef-d'œuvre énergique et exaltant de trance techno "The Orange Theme" du groupe allemand Cygnus X. Contient une variété de remix de Moonman, Bervoets & De Goeij, Mark Van Dale avec Enrico, et plus encore, vous permettant de profiter d'arrangements adaptés aux clubs qui capturent l'essence de la chanson originale.
+Point attrayant : Un album de remix du chef-d'œuvre énergique et exaltant de trance techno « The Orange Theme » du groupe allemand Cygnus X. Contient une variété de remix de Moonman, Bervoets & De Goeij, Mark Van Dale avec Enrico, et plus encore, vous permettant de profiter d'arrangements adaptés aux clubs qui capturent l'essence de la chanson originale.
 
 
 #### Liste des chansons
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Point attractif : Une œuvre de Johannes Heil, caractérisée par une mise en scène sombre et dramatique. Un morceau qui invite à une expérience techno futuriste avec des rythmes profonds et une approche psychédélique. L'histoire est impressionnante car elle oscille entre silence et explosion.
+Point attractif : Une œuvre de Johannes Heil, caractérisée par une mise en scène sombre et dramatique. C'est une expérience techno futuriste avec des rythmes profonds et une approche psychédélique. L'histoire est impressionnante car elle oscille entre silence et explosion.
 
 
 #### Liste des chansons

@@ -131,7 +131,7 @@ Un accent particulier a été mis sur « l'espace blanc » et « le traitement d
 AMM, actif depuis les années 1960, est l'un des groupes les plus anciens à intégrer des équipements électroniques dans leurs performances.
 La « guitare horizontale » de Keith Rowe est devenue le prototype de l'utilisation ultérieure par EAI du bruit radio et des microphones de contact.
 
-EAI hérite de l'esthétique d'AMM : « la nature sociale de la performance », « l'utilisation du silence » et le « respect de la contingence du son ».
+EAI hérite de l'esthétique d'AMM : « la nature sociale de la performance », « l'utilisation du silence » et « le respect de la contingence du son ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-T8rmnHtbg?si=Lg5jvSyXo2LDfG8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

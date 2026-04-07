@@ -90,7 +90,7 @@ La mondialisation et l’essor du streaming ont accéléré la fusion avec les r
 ## Chronologie des équipements (simplifiée)
 - **Années 1980 ~ début des années 90** : Technics SL-1200 (platine vinyle), Roland TR-909/TR-808 (boîte à rythmes), premiers échantillonneurs Akai/E-mu. Références : <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mid 90s〜2000s**：Akai MPC シリーズやハードウェア・サンプラーの多用（<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>）。
-- **Années 2010~Présent** : Fonctionnement hybride de DAW (Ableton/Logic), d'échantillons logiciels tels que Kontakt et Maschine, et MPC.
+- **Années 2010~Présent** : Fonctionnement hybride de DAW (Ableton/Logic), d'échantillons de logiciels tels que Kontakt et Maschine et MPC.
 
 ---
 
@@ -118,7 +118,7 @@ color: #fff;
 
 | Année | Artiste | Nom de la piste | Caractéristiques |
 |------|--------------|-------------|------|
-| 1997 | Junior Vasquez | Si Madonna appelle | Des échantillons audacieux qui symbolisent la scène des clubs gays |
+| 1997 | Junior Vásquez | Si Madonna appelle | Des échantillons audacieux qui symbolisent la scène des clubs gays |
 | 1998 | Danny Tenaglia | Éléments | Percussion tribale et développement minimal |
 | 1998 | Plat profond | Échoué | Son mélodieux et profond |
 | 2001 | Pierre Rauhofer | J'ai la musique | Un morceau au sol avec le chant au premier plan |
@@ -134,6 +134,16 @@ color: #fff;
 ## Voyage rythmique
 Tribal House n'est pas seulement de la musique de club, mais un « voyage rythmique » qui s'est répandu à l'échelle mondiale, changeant à chaque époque. Il continuera d’attirer l’attention en tant que genre qui continue d’évoluer grâce à la fusion des technologies tout en héritant de ses racines africaines.
 
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d4rG0TcH6BQ?si=8dzssjr8TelfWf8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ## Liens de référence (sources principales)
 - <a href="https://en.wikipedia.org/wiki/Tribal_house">Wikipedia — Tribal house</a>

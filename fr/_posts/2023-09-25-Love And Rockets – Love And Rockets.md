@@ -15,7 +15,7 @@ title: Amour et fusées – Amour et fusées
 
 Love And Rockets - Love And Rockets est un album éponyme du groupe de rock alternatif britannique Love And Rockets. Love and Rockets a été formé par les anciens membres du Bauhaus Daniel Asch, David Jay et Kevin Haskins.
 
-Il est sorti en 1989 et est connu comme le premier album du groupe. Leur musique comprend des éléments de post-punk et de rock gothique, mais intègre également des sons plus pop et des rythmes dance, et est soutenue par un large éventail de fans de musique.
+Il est sorti en 1989 et est connu comme le premier album du groupe. Their music includes elements of post-punk and gothic rock, but also incorporates more pop sounds and dance beats, and is supported by a wide range of music fans.
 
 Cet album comprend des chansons telles que leur chanson signature « So Alive », et vous pouvez ressentir l'atmosphère sombre et mélancolique et les performances puissantes tout au long de l'album.
 

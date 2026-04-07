@@ -10,7 +10,7 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Boys Noize – Tuez l’enfant
+title: Boys Noize - Tuez l'enfant
 ---
 
 

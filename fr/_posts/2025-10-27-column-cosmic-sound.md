@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Retrace la philosophie sonore unique créée par un méla
 Fin des années 1970, sur les rives du lac de Garde, dans le nord de l'Italie.
 Personne ne savait que cet endroit, qui n'était qu'un lieu de villégiature pour touristes, deviendrait plus tard le centre d'un phénomène acoustique appelé **Cosmic Sound**.
 Le personnage central est **Daniele Baldelli**.
-Il est devenu plus qu'un simple DJ, il est devenu connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
+Il n'est pas seulement un DJ, mais il est également connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
 
 La scène disco de l’époque était dominée par les rythmes 4/4, représentés par la soul et la house music américaines.
 Cependant, Baldelli entremêle musique ethnique, sons électroniques, rock progressif, batterie africaine et même krautrock.
@@ -87,14 +87,14 @@ Tout au long de la nuit, on a l'impression qu'un vaisseau spatial descend et sor
 ## 4. Science des matériaux sonores – Délocalisation des sources sonores dans Cosmic
 
 Baldelli était un pionnier des DJ qui traitaient les chansons comme du « matériel ».
-J'avais l'impression de « composer » à nouveau les sons enregistrés sur la platine.
+Il y avait une forte impression de « composer » à nouveau les sons enregistrés sur la platine.
 
 | Sources utilisées | Exemples spécifiques |
 |:--|:--|
-| Usine Kraft | Kraftwerk, Can, Ash Ra Tempel |
+| Usine Kraft | Kraftwerk, Canette, Ash Ra Tempel |
 | Musique électronique italienne | Claudio Gizzi, Tullio De Piscopo |
 | Sons afro/ethniques | Manu Dibango, Fela Kuti |
-| Thème spatial | Espace, fusées, Cerrone |
+| Thème spatial | Espace, Fusées, Cerrone |
 | Bande sonore | Morricone, charpentier, gobelin |
 
 Ce mélange multiculturel a été le précurseur de **Balearic Sound**, **Leftfield Disco**, ainsi que de **Downtempo** et **Nu Disco**.

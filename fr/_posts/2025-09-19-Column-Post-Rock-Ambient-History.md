@@ -69,7 +69,7 @@ color: #fff;
 |------|--------------|----|------|
 | *La Perle* | Harold Budd et Brian Eno | 1984 | Piano + Sons ambiants |
 | *Trésor* | Jumeaux Cocteau | 1984 | Ambiance pop de rêve |
-| *Esprit d'Éden* | Parler Parler | 1988 | Le post-rock naissant |
+| *Esprit d'Eden* | Parler Parler | 1988 | Le post-rock naissant |
 | *Apollo : Ambiances et bandes sonores* | Brian Eno | 1983 | Ambiance cosmique |
 
 **Équipement principal**
@@ -146,7 +146,7 @@ color: #fff;
 | Travail | Artiste | Année | Caractéristiques |
 |------|--------------|----|------|
 | *Promesses* | Points flottants, Pharoah Sanders et LSO | 2021 | Jazz x Classique x Ambient |
-| *Lamentations* | William Basinski | 2020 | L'esthétique effondrée à l'ère numérique |
+| *Lamentations* | William Basinski | 2020 | L'esthétique de l'effondrement à l'ère numérique |
 | Projets ambiants d'IA | Divers | Années 2020 | Musique infiniment générative |
 | *Tout* | Prairie lente | 2022 | Postclassique méditatif |
 

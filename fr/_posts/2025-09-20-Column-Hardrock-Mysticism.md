@@ -40,7 +40,7 @@ color: #fff;
 
 Le guitariste de Led Zeppelin **Jimmy Page** est plus qu'un simple guitariste rock, il est connu pour sa profonde dévotion au monde de l'occultisme et du mysticisme. Il s’intéressait particulièrement à l’étude d’Aleister Crowley, magicien et penseur du début du XXe siècle. Page a en fait acheté l'ancienne résidence de Crowley, Boleskine House, et aurait étudié ses pensées et ses rituels. Ce fait n’est pas seulement une légende urbaine, mais un épisode hautement confirmé qui a été mentionné par de nombreux journalistes musicaux et biographes.
 
-De plus, ces éléments occultes et mystiques se reflètent fortement dans les chansons et les productions scéniques de Zeppelin. Par exemple, « Stairway to Heaven » contient des paroles pleines de symbolisme religieux et mystique, rappelant à l'auditeur un « voyage dans le monde spirituel ». Le style de guitare de Page donnait également à ses improvisations une qualité mystique qui avait le pouvoir d'endormir le public dans un état de transe. En d’autres termes, il a incorporé l’occultisme non seulement comme passe-temps ou image, mais comme base de l’expression musicale elle-même.
+De plus, ces éléments occultes et mystiques se reflètent fortement dans les chansons et les productions scéniques de Zeppelin. Par exemple, "Stairway to Heaven" contient des paroles pleines de symbolisme religieux et mystique, rappelant à l'auditeur un "voyage dans le monde spirituel". Le style de guitare de Page donnait également à ses improvisations une qualité mystique qui avait le pouvoir d'endormir le public dans un état de transe. En d’autres termes, il a incorporé l’occultisme non seulement comme passe-temps ou image, mais comme base de l’expression musicale elle-même.
 
 ### Écaille orientale violet foncé et arc-en-ciel
 
@@ -101,7 +101,7 @@ Dans les temps modernes, la **production de bandes sonores** et la **génératio
 
 * Son métallique intégrant des gammes orientales → Parfait pour le jeu BGM
 * Son de drone qui crée une ambiance mystérieuse → Pour les bandes-annonces de films
-* Bande sonore cinématographique générée par l'IA → Appliquée aux œuvres de science-fiction et fantastiques
+* Bande sonore cinématographique générée par l'IA → Appliquée aux œuvres de science-fiction et de fantasy
 
 ---
 

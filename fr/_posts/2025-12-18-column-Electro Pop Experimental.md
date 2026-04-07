@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Plutôt que de démanteler la musique pop, il s'agit d'un
 
 Electro Pop Experimental est un terme général désignant une tendance musicale basée sur la structure de la musique pop et intégrant activement la technologie électroacoustique, la visualisation du processus de production, l'expression visuelle et les idées de production musicale auto-calculées. Ce domaine n’est pas un genre unique, mais a été établi comme une intersection de multiples histoires technologiques, environnements de production, cultures visuelles et réseaux de distribution indépendants.
 
-Alors que l'électropop conventionnelle s'est concentrée sur la « familiarité », les « mélodies répétables » et la « dansabilité », l'électropop expérimentale se caractérise par le fait que tout en conservant ces aspects, elle intègre la génération de son, la destruction structurelle, l'expression de la personnalité et l'altération du créateur dans la musique elle-même.
+Alors que l'électropop conventionnelle s'est concentrée sur la « familiarité », les « mélodies répétables » et la « dansabilité », l'électropop expérimentale se caractérise par le fait que tout en conservant ces aspects, elle intègre la génération de sons, la destruction structurelle, l'expression de la personnalité et l'altération du créateur dans la musique elle-même.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ## Chapitre 1 Prémisse de la musique électronique avant l'électropop
 
-Afin de comprendre la formation du système d’expérimentation pop électronique, il est nécessaire d’avoir une vue d’ensemble de l’histoire de la combinaison de la musique électronique et de la musique populaire dans la seconde moitié du 20e siècle.
+Afin de comprendre la formation des expériences pop électroniques, il est nécessaire d’avoir une vue d’ensemble de l’histoire de la combinaison de la musique électronique et de la musique populaire dans la seconde moitié du 20e siècle.
 
 ### Combiner des structures de synthétiseur et de pop
 
@@ -75,7 +75,7 @@ Ceux-ci serviront plus tard de base à une expérimentation renforcée.
 * Une conception d'image sonore qui ne cache pas l'artificialité
 * Expression visuelle et production musicale simultanées
 
-Cette nature expérimentale décompose l'expérience de l'auditeur en plusieurs couches et élargit l'écoute musicale d'une « activité uniquement auditive ».
+Cette nature expérimentale décompose l'expérience de l'auditeur en plusieurs couches et élargit l'écoute musicale d'un « acte uniquement auditif ».
 
 ---
 
@@ -129,7 +129,7 @@ Le caractère expérimental de Carpenter Brut se manifeste moins dans la musique
 
 ## Chapitre 7 Culture visuelle et expériences Electropop
 
-Dans la musique expérimentale électropop, les éléments suivants fonctionnent ensemble, plutôt que de se limiter à la musique seule.
+Dans la musique expérimentale électropop, les éléments suivants fonctionnent ensemble, plutôt que la musique seule.
 
 * Pochette d'album
 * Clip vidéo
@@ -198,7 +198,7 @@ Cependant, plutôt que de simplement fusionner ces éléments, il se distingue p
 En incluant le processus de production et les informations visuelles, les auditeurs font simultanément l'expérience de ce qui suit :
 
 * Écouter de la musique
-* Imaginer le processus de production
+*Imagination du processus de production
 * Observation de la personnalité du créateur
 * Interprétation narrative visuelle
 
@@ -228,7 +228,7 @@ Cela fait de la pièce un processus continu d’interprétation plutôt qu’une
 * Expansion de la distribution indépendante
 * Emergence de l'expérimentation
 
-### Années 2010
+### Années 2010
 
 * Visualisation du processus de production par Grimes et al.
 * Approfondir l'intégration du visuel et de la musique

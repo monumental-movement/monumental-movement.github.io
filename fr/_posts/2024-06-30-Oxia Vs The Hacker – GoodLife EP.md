@@ -16,7 +16,7 @@ title: Oxia contre le hacker – GoodLife EP
 ---
 
 
-Olivier Raymond, également connu sous le nom d'Oxia, est un DJ et producteur français. Oxia s'est formé en duo avec Stéphane Deschezeaux au milieu des années 90, mais est ensuite devenu le projet solo d'Olivier Raymond.
+Olivier Raymond, également connu sous le nom d'Oxia, est un DJ et producteur français. Oxia était à l'origine un duo avec Stéphane Deschezeaux (milieu des années 90), mais est ensuite devenu le projet solo d'Olivier Raymond.
 
 Michel Amato, également connu sous le nom de The Hacker, est un musicien et DJ français. Depuis 1989, ils produisent une musique fortement influencée par la techno, l'électro, l'italo, l'EBM et la new wave, et sont également connus sous le nom de duo électro Miss Kittin & The Hacker.
 

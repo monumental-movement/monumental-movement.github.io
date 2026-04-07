@@ -54,7 +54,7 @@ Les origines de PCO remontent à un événement étrange survenu en 1972, lorsqu
 C’est à ce moment-là qu’il a eu une inspiration de rêverie qui est devenue plus tard connue sous le nom de « vision Penguin Cafe ».
 Il existait une « utopie » où les gens pouvaient se rassembler librement et continuer à faire de la musique sans discipline ni forme.
 
-Pour concrétiser cette vision, Jeffes construit une musique unique qui mélange l'orchestration de chambre classique, l'élan rustique du folk, la vitalité des rythmes africains et sud-américains et la structure répétitive de la musique minimale.
+Pour concrétiser cette vision, Jeffes construit une musique unique qui mélange l'orchestration de chambre classique, l'élan rustique du folk, la vitalité des rythmes africains et sud-américains et les structures répétitives de la musique minimale.
 La musique n'était ni traditionnelle ni avant-gardiste, mais cristallisée comme un son qu'on ne pouvait trouver qu'ici.
 
 ---
@@ -127,13 +127,13 @@ C'est une chanson calme mais dramatique qui donne l'impression que l'expansion e
 
 ### 3-3. **Téléphone et élastique (1981)**
 
-Étrange morceau de musique dans lequel un téléphone bicolore retentit soudain au-dessus d'un ensemble classique.
+Un étrange morceau de musique dans lequel un téléphone bicolore sonne soudain dans un ensemble classique.
 
 **Caractéristiques**
 
 * Boucle audio du téléphone par manipulation de bande
 * Son électronique qui existe comme un « objet étranger » au-dessus de l'ensemble
-* Humoristique mais postmoderne à la fois
+* Humour mais postmoderne à la fois
 
 En termes de son minimal + trouvé, cette œuvre recoupe la lignée de Brian Eno.
 
@@ -180,7 +180,7 @@ La musique de PCO a été reçue de diverses manières dans de nombreux pays, bi
 ### ● Affinité avec la culture café/lounge
 
 Elle a été réévaluée lors du boom de la « musique de café » à la fin des années 1990.
-La « musique d'ambiance avec une déclaration », légère et facile à écouter, sans toutefois devenir un élément de fond, a attiré l'attention.
+La « musique d'ambiance avec une déclaration », légère et facile à écouter, sans pour autant faire partie du fond sonore, a attiré l'attention.
 
 ### ● Utilisation intensive des médias
 
@@ -283,7 +283,7 @@ flowchart TD
 
 ---
 
-# Conclusion : Pourquoi PCO résonne « intemporellement »
+# Conclusion : Pourquoi le PCO résonne « intemporellement »
 
 La musique du Penguin Cafe Orchestra reste fraîche près de 50 ans plus tard.
 Ce qui soutient cette longévité est――
@@ -299,5 +299,15 @@ Le son du PCO peut soit « se fondre dans le fond », soit « occuper le devant 
 La chanson écoute l’état d’esprit de l’auditeur et sonne complètement différemment à chaque fois.
 
 Il se peut que le « café imaginaire » que Simon Jeffes a vu dans sa fièvre fonctionne encore tranquillement quelque part dans le monde.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Em1aIz3ONZc?si=HkYqZuq-Uvy8qJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

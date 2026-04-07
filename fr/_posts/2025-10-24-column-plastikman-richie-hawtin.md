@@ -46,7 +46,7 @@ Hawtin a été influencé par **l'esprit qui réside dans les rythmes mécanique
 
 ---
 
-## Chapitre 2 : La naissance de Plastikman – Vestiges d'acide et introspection techno
+## Chapitre 2 : La naissance de Plastikman – Vestiges d'acide et introspection techno
 En 1993, "_Sheet One_" est sorti. Le son traditionnel de l'acid house TB-303 a été blanchi à l'extrême, créant un espace acoustique qui ressemble à des **battements cardiaques et signaux nerveux**. Au contraire, le silence qui dérive entre les sons peut être entendu comme le personnage principal.
 
 そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
@@ -98,7 +98,7 @@ Sur sa scène, un environnement a été construit dans lequel MacBook, contrôle
 ---
 
 ## Chapitre 5 : Jouer à Plastikman avec « EX »
-``_EX_'', dévoilée à la Tate Modern de Londres en 2014, était une œuvre qui transférait l'esthétique de Plastikman à l'espace muséal.
+``_EX_'', dévoilée à la Tate Modern de Londres en 2014, était une œuvre qui transférait l'esthétique de Plastikman dans un espace muséal.
 La scène est plongée dans l’obscurité et Houtin se tient comme emprisonné dans une cage lumineuse. Le public partage l'expérience de « observer la structure du son » plutôt que de « regarder un DJ ».
 
 > "Plastikman reste la musique d'un voyage intérieur."
@@ -161,7 +161,7 @@ Minus se caractérise par le respect de l'individualité de l'artiste tout en ma
 
 Minus était plus qu'une simple plateforme de distribution, elle fonctionnait comme un lieu pour incarner l'idée de techno minimale.
 
-### 3. Influence du label
+### 3. Influence des étiquettes
 - **Une fusion de sets live et de releases** : sources sonores reconstructibles numériquement
 - **Esthétique de l'espace vide sonore** : Expérimenter « comment utiliser l'espace blanc »
 - **Influence internationale** : Influence directe sur les scènes des clubs de Berlin, d'Allemagne et de Tokyo
@@ -189,9 +189,9 @@ flowchart TD
 ## Analyse détaillée de la série DE9
 
 ### 1. DE9 : Plus près de l'édition (2001)
-- **Concept** : Une œuvre innovante qui réédite la forme d'onde de la piste échantillon par échantillon pour lui donner un potentiel de performance live.
+- **Concept** : Une œuvre innovante qui réédite la forme d'onde du morceau échantillon par échantillon pour lui donner un potentiel de performance live.
 - **Analyse de piste représentative** :
-- *Spastik* : Boucle super rapide de charleys continus. Dans le diagramme de forme d'onde, vous pouvez voir comment la densité d'impulsion change progressivement.
+- *Spastik* : Boucle ultra rapide de charleys continus. Dans le diagramme de forme d'onde, vous pouvez voir comment la densité d'impulsion change progressivement.
 - *Moins/Orange* : La réverbération basse fréquence agrandit l'espace. Bien que la forme d’onde soit périodique et régulière, le bruit infime crée une sensation physiologique.
 - **Exemple d'illustration** :
 

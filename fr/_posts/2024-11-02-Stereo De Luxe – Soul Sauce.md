@@ -16,7 +16,7 @@ title: Stéréo De Luxe – Soul Sauce
 
 Stereo de Luxe est un duo DJ/producteur berlinois.
 
-Fondé à l'origine en 1994 par Karsten "Kassi" Wolf, DJ solo sous le nom de scène Stereo de Luxe, le groupe était actif sur la scène lounge, easy listening et club pop berlinoise.
+Fondé à l'origine en 1994 par Karsten "Kassi" Wolf, DJ solo sous le nom de scène Stereo de Luxe, le groupe était actif sur les scènes lounge, easy listening et club pop berlinoises.
 
 Forme un duo avec Thomas Mävers en 1998. Les styles musicaux se tournent vers le breakbeat, la house et l'électro-funk. Leur premier EP en duo, « Aerocyclette 1999 », est sorti sur le label Bungalow Records.
 

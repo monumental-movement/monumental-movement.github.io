@@ -21,7 +21,7 @@ title: '[Chronique] Glitchcore / Hyper-Glitch Pop continue de s''effondrer, le f
 Texte : mmr｜Thème : Processus de formation du Glitchcore/Hyper-Glitch, techniques acoustiques, contexte culturel, artistes représentatifs, développement dans les années 2020 et perspectives d'avenir
 
 Le Glitchcore et l'Hyper-Glitch sont une tendance de la musique pop/électronique générée sur Internet qui se produit depuis la fin des années 2010, avec la « corruption », la « fragmentation » et la « surcharge » au centre de son esthétique.
-Clics, bruit, distorsion numérique, pitch shifts, traitement de type Vocaloid, développement rapide des chansons, fluctuations bizarres du tempo - la caractéristique la plus distinctive de cet album est qu'il tente d'exprimer un « équilibre entre excès et déclin » en fusionnant ces éléments dans un contexte hautement pop.
+Clics, bruit, distorsion numérique, pitch shifts, traitement de type Vocaloid, développement rapide des chansons, étranges fluctuations de tempo - la caractéristique la plus distinctive de cet album est qu'il tente d'exprimer un « équilibre entre excès et déclin » en fusionnant ces éléments dans un contexte hautement pop.
 
 Des groupes tels que SOPHIE, A. G. Cook et 100 gecs ont porté cette « pop brisée » à un niveau international, prouvant que de nombreux artistes pouvaient « créer un langage musical global depuis leur propre chambre » grâce à des DAW et des packs d'échantillons.
 
@@ -45,7 +45,7 @@ color: #fff;
 
 ### 1-1 Préhistoire de la musicalisation des sons d'échecs numériques
 
-L'idée même du glitch remonte à l'esthétique présentée par l'électro à la fin des années 1990 (Oval, Alva Noto, Ryoji Ikeda, etc.). Il traitait les erreurs de lecture de CD et les dysfonctionnements du signal numérique comme des matériaux musicaux, et citait activement « l'esthétique de l'échec ».
+L'idée même du glitch remonte à l'esthétique présentée par l'électro à la fin des années 1990 (Oval, Alva Noto, Ryoji Ikeda, etc.). Il traitait les erreurs de lecture des CD et les dysfonctionnements des signaux numériques comme des matériaux musicaux, et citait activement « l’esthétique de l’échec ».
 
 La musique glitch de cette époque était plus expérimentale, mettant l'accent sur la texture, l'espace et la structure plutôt que sur le rythme. D’un autre côté, le Glitchcore ultérieur se distingue de manière décisive par le fait qu’il est fortement lié à la culture pop populaire et à Internet.
 
@@ -94,7 +94,7 @@ Traitement typique :
 * Ajout d'un sentiment de caractère grâce à la manipulation des formants
 * Utilisation mixte de sources sonores Vocaloid
 
-La méthode consistant à « jouer plusieurs couches de voix en même temps », comme 100 gecs, est considérée comme un symbole de l'Hyper-Glitch.
+La méthode consistant à « jouer plusieurs couches de voix en même temps » comme 100 gecs est considérée comme un symbole de l'Hyper-Glitch.
 
 ---
 
@@ -131,7 +131,7 @@ Caractéristiques typiques :
 
 ---
 
-### 3-2　100 gés
+### 3-2　100 gecs
 
 100 gecs (Laura Les & Dylan Brady) est une icône du Glitchcore. Ils ont mélangé l'emo, le ska, le métal, la trap et le Bubblegum Pop dans un état frénétique, transformant « l'effondrement du genre » en pop.
 
@@ -268,7 +268,7 @@ Une autre caractéristique majeure est que les expressions de style anime, la cu
 
 ### 7-3 Personnalité SoundCloud
 
-Osquinn et Glaive ont apporté des progressions d'accords emo, des touches de guitare et des voix aériennes au Glitchcore. Cela représente une direction mélodique plus introvertie par rapport à la nature « avant-gardiste » de l’Hyperpop.
+Osquinn et Glaive ont apporté des progressions d'accords emo, des touches de guitare et des voix légères au Glitchcore. Cela représente une direction mélodique plus introvertie par rapport à la nature « avant-gardiste » de l’Hyperpop.
 
 ---
 
@@ -341,3 +341,11 @@ On peut dire que c’est l’un des genres qui incarne le plus directement la vi
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4GIWf2Eyph8?si=V9Ehq42kiAHp0lF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

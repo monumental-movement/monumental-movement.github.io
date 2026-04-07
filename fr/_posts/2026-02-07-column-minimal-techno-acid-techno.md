@@ -90,7 +90,7 @@ Au début des années 1990, l’acide a fait son chemin en Grande-Bretagne et a 
 
 ---
 
-## Structure acoustique de techno acide
+## Structure acoustique de techno acid
 
 ### Improvisation de l'opération de résonance
 
@@ -98,7 +98,7 @@ Le cœur de l'acid techno réside dans la manipulation en temps réel du filtre 
 
 ### Effets directs sur le corps
 
-La résonance et la distorsion élevées stimulent directement le corps de l'auditeur. L'acid techno est une musique qui déclenche une réaction physique avant le sens auditif et donne la priorité aux sens plutôt qu'au rationnel.
+La résonance et la distorsion élevées stimulent directement le corps de l'auditeur. L’acid techno est une musique qui déclenche une réaction physique avant le sens auditif et donne la priorité aux sens plutôt qu’au rationnel.
 
 > Le son acide se déchaîne d'abord avant d'être maîtrisé.
 

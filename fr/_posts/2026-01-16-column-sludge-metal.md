@@ -26,7 +26,7 @@ Le Sludge Metal n’est pas une musique destinée à progresser ou à élever. L
 
 Ce qui est important dans ce genre, ce n’est pas la mélodie ou la technique, mais la qualité du son. L'épaisseur de la distorsion, la pression des basses et l'intervalle du rythme. Ces facteurs agissent de manière complexe et la musique existe non pas comme une progression linéaire, mais comme une substance précipitante.
 
-Comme le nom du genre l'indique, l'esthétique sonore du sludge metal réside dans la « stagnation ». Il s'éloigne délibérément du son clair, de la structure sophistiquée et d'une expérience d'écoute confortable, présentant la turbidité et la stagnation comme des valeurs. Cette attitude occupe une place unique dans la culture de la musique métal.
+Comme le nom du genre l'indique, l'esthétique sonore du sludge metal réside dans la « stagnation ». Il s'éloigne intentionnellement du son clair, de la structure sophistiquée et d'une expérience d'écoute confortable, présentant la turbidité et la stagnation comme des valeurs. Cette attitude occupe une place unique dans la culture de la musique métal.
 
 > Le bruit du sludge metal n'existe pas pour avancer, mais pour s'enfoncer dans un lieu.
 
@@ -118,7 +118,7 @@ La plupart des premières usines de métallurgie des boues ont été créées av
 
 Bruit de la pièce, bruit de l'amplificateur, bizarreries du microphone. En enregistrant ces éléments physiques tels quels, la source sonore possède une qualité in situ. La présence a été privilégiée par rapport à une qualité sonore parfaite.
 
-Dans le sludge metal, l’enregistrement n’était pas un processus visant à embellir l’œuvre, mais un acte visant à contenir la musique telle qu’elle est.
+Dans le sludge metal, l'enregistrement n'était pas un processus visant à embellir l'œuvre, mais un acte visant à contenir la musique telle qu'elle est.
 
 > Une qualité sonore parfaite n'est pas nécessairement une valeur pour ce genre.
 

@@ -14,12 +14,12 @@ title: '[Chronique] L''impact de la Drum & Bass : Une poétique urbaine tissée 
 ---
 
 
-## Beat hybride né en ville
+## Un rythme hybride né en ville
 
 Texte : mmr｜Thème : Réflexions sur le son Drum & Bass/Jungle/UK
 
 
-Le Drum & Bass (D&B) est un genre musical né sur la scène des clubs underground londoniens au début des années 1990 et qui constitue en même temps le rythme même de la vie urbaine multiculturelle. Combinant des breakbeats rapides, des lignes de basse rugissantes et du reggae/dub/hip-hop/techno, ils ont révolutionné l'histoire de la musique britannique.
+Le Drum & Bass (D&B) est un genre musical né sur la scène des clubs underground londoniens au début des années 1990 et constitue en même temps le rythme même de la vie urbaine multiculturelle. Combinant des breakbeats rapides, des lignes de basse rugissantes et du reggae/dub/hip-hop/techno, ils ont révolutionné l'histoire de la musique britannique.
 
 Son évolution a été incroyable, avec de nombreuses branches allant de la jungle, du liquid funk et du techstep au neurofunk, au jump-up et au drumstep.
 
@@ -48,7 +48,7 @@ Les racines de D&B se situent dans le genre jungle. Il s'agissait d'une musique 
 
 **Période de création de Drum & Bass**
 
-A partir de cette époque, le nom « jungle » se change progressivement en « D&B ». Cela signifie un son plus raffiné, des basses et des techniques de production améliorées. Sa fonctionnalité augmente à mesure que la musique de club augmente et que la scène mûrit.
+A partir de cette époque, le nom « jungle » se change progressivement en « D&B ». Cela signifie que le son est plus raffiné et que les techniques de basse et de production se sont améliorées. Sa fonctionnalité augmente à mesure que la musique de club augmente et que la scène mûrit.
 
 #### Artistes représentatifs :
 
@@ -152,7 +152,7 @@ Né dans des villes multiethniques comme Londres et Bristol, D&B a grandi à l'i
 
 **Influence Black British** : culture sound system, techniques reggae/dub.
 
-**L'esprit DIY de la classe ouvrière blanche** : Radios pirates, labels indépendants.
+**L'esprit DIY de la classe ouvrière blanche** : Radio pirate, labels indépendants.
 
 **Intersection avec la techno/IDM** : Squarepusher, Autechre, etc. développent des rythmes D&B.
 

@@ -60,13 +60,13 @@ Il a également sorti un EP et a sorti ses premiers travaux sur des labels tels 
 
 ## Travailler sous son vrai nom et se tourner vers la techno (2015-2018)
 
-En **2015**, Charlotte a abandonné le nom « Raving George » et a commencé à travailler sous son vrai nom **Charlotte de Witte**.
+En **2015**, Charlotte a abandonné le nom de « Raving George » et a commencé à se produire sous son vrai nom **Charlotte de Witte**.
 Durant cette période, son son prend un style plus sombre et minimaliste, incluant de la techno acide et des éléments industriels.
 
 Les œuvres représentatives comprennent :
 
 - **EP Weltschmerz (2015, Turbo)**
-- Chanson représentative : "Weltschmerz"
+- Chanson représentative : « Weltschmerz »
 - Présente un rythme sombre et lourd et une ligne acide.
 
 - **EP plus proche (2017, KNTXT)**

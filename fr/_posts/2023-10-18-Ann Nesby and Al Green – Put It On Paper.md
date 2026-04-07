@@ -16,7 +16,7 @@ title: Ann Nesby et Al Green – Mettez-le sur papier
 
 DJ Spen & Karizma mixent l'album "Put It On Paper" d'Ann Nesby.
 
-Karizma est une DJ/productrice de Baltimore et ancienne membre des Basement Boys. Actif dans un large éventail de scènes, notamment la deep house, la deep techno, le hip hop, le jazz et le Broken Beat.
+Karizma est une DJ/productrice de Baltimore et ancienne membre des Basement Boys. Actif dans un large éventail de scènes telles que la deep house, la deep techno, le hip hop, le jazz et le Broken Beat.
 
 DJ Spen est un DJ/producteur de Baltimore et ancien membre des Basement Boys. Formé DJ Spen & The MuthaFunkaz au début des années 2000.
 

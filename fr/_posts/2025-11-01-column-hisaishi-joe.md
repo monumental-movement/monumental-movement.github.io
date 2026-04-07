@@ -159,7 +159,7 @@ Tout au long de ces œuvres, la musique d'Hisaishi devient un élément qui rég
 
 ## Chapitre 11 : « Comment vis-tu ? » (2023) - Abstraction sonore et nouveaux défis
 
-Comment vivez-vous, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
+Comment vivez-vous ?, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
 Joe Hisaishi était à nouveau en charge de la musique.
 
 Cette œuvre utilise une structure sonore abstraite, mettant l'accent sur la résonance et la texture plutôt que sur la mélodie.
@@ -174,14 +174,14 @@ Cette œuvre est le dernier exemple du rapprochement continu d'Hisaishi entre la
 | Année | Titre | Directeur | Chanson thème/Chanson représentative | Remarques |
 |----|---------|------|----------------|------|
 | 1984 | Nausicaa de la Vallée du Vent | Hayao Miyazaki | « Légende du vent » | Première collaboration |
-| 1986 | Château dans le ciel | Hayao Miyazaki | « Enfilez-vous » | Composition symphonique |
+| 1986 | Château dans le ciel | Hayao Miyazaki | « Mettez-vous » | Composition symphonique |
 | 1988 | Mon voisin Totoro | Hayao Miyazaki | « Marche » et « Le chemin du vent » | Expression de l'enfance |
 | 1989 | Service de livraison de Kiki | Hayao Miyazaki | "Ville avec vue sur la mer" | Rythme urbain |
-| 1992 | Porco Rosso | Hayao Miyazaki | « Jours sans retour » | Valse nostalgique |
+| 1992 | Porco Rosso | Hayao Miyazaki | "Jours sans retour" | Valse nostalgique |
 | 1997 | Princesse Mononoké | Hayao Miyazaki | "Princesse Mononoké" | Fusion de chœur et d'orchestre |
 | 2001 | Le voyage de Chihiro | Hayao Miyazaki | « Toujours et encore » | Gagnant d'un Oscar |
-| 2004 | Le château ambulant de Howl | Hayao Miyazaki | "Le manège de la vie" | Structure de valse |
-| 2008 | Ponyo sur la falaise | Hayao Miyazaki | "Ponyo sur la falaise" | Mélodie de comptine |
+| 2004 | Howl's Moving Castle | Hayao Miyazaki | "Le manège de la vie" | Waltz Structure |
+| 2008 | Ponyo on the Cliff | Hayao Miyazaki | "Ponyo on the Cliff" | Nursery Rhyme Melody |
 | 2013 | Le vent se lève | Hayao Miyazaki | « Voyage » | Le monde tranquille de la musique |
 | 2023 | Comment vis-tu ? Hayao Miyazaki | - | Abstraction du son |
 
@@ -189,7 +189,7 @@ Cette œuvre est le dernier exemple du rapprochement continu d'Hisaishi entre la
 
 ## Bande-son représentative
 
-| Film | Titre anglais | Bande sonore | Lien | Remarques |
+| Film | English title | Soundtrack | Lien | Remarques |
 |------------|------------|----------------|----------------|------|
 | 風の谷のナウシカ | *Nausicaä of the Valley of the Wind* | *Original Soundtrack – Toward the Faraway Land* | [Amazon](https://amzn.to/48Yc6Uv) | 久石・宮崎初コラボ |
 | となりのトトロ | *My Neighbor Totoro* | *Original Soundtrack* | [Amazon](https://amzn.to/43MF1r0) | 名曲「風のとおり道」収録 |

@@ -64,7 +64,7 @@ MIDI (Musical Instrument Digital Interface) est une norme permettant d'échanger
 
 ### L'essor des ordinateurs et des logiciels (années 1990)
 
-Les améliorations des performances informatiques et l'utilisation pratique de l'enregistrement sur disque dur ont rendu possible l'édition numérique des formes d'onde audio. Pro Tools d'Avid (à l'époque Digidesign) a permis des flux de travail d'enregistrement et de montage professionnels et est devenu la norme de l'industrie pour la production de films, de diffusion et de musique. Dans le même temps, les séquenceurs logiciels/DAW complets tels que Cubase de Steinberg et Logic d'Emagic (acquis plus tard par Apple) sont devenus populaires. De plus, le plug-in VST (Virtual Studio Technology) proposé par Steinberg a élargi l'écosystème en fournissant un mécanisme permettant à des tiers de développer des sources sonores et des effets logiciels.
+Les améliorations des performances informatiques et l'utilisation pratique de l'enregistrement sur disque dur ont rendu possible l'édition numérique des formes d'onde audio. Pro Tools d'Avid (à l'époque Digidesign) a activé numériquement les flux de travail d'enregistrement et de montage professionnels et est devenu la norme de l'industrie pour la production de films, de diffusion et de musique. Dans le même temps, les séquenceurs logiciels/DAW complets tels que Cubase de Steinberg et Logic d'Emagic (acquis plus tard par Apple) sont devenus populaires. De plus, le plug-in VST (Virtual Studio Technology) proposé par Steinberg a élargi l'écosystème en fournissant un mécanisme permettant à des tiers de développer des sources sonores et des effets logiciels.
 
 <hr>
 
@@ -170,7 +170,7 @@ Sauvegarde et contrôle de version. Enregistrez fréquemment vos projets et util
 
 DTM/DAW n'est pas seulement un ensemble d'outils, mais un dispositif culturel qui symbolise la « démocratisation de la production musicale ». Depuis l'époque du montage sur bande et des synthés matériels, jusqu'à l'enregistrement MIDI et numérique, en passant par les écosystèmes VST et plug-ins, jusqu'à l'IA et le cloud, la technologie a abaissé les barrières à l'expression et créé un environnement dans lequel chacun peut offrir du son au monde.
 
-La technologie continuera d'évoluer, mais l'intention du créateur est au cœur de la question : « Quel type de son devrions-nous produire et pourquoi ? » En utilisant pleinement la technologie comme outil, de nouvelles expressions musicales continueront de naître.
+La technologie continuera d'évoluer, mais l'intention du créateur est au cœur de la question : « Quel type de son dois-je produire et pourquoi ? » En utilisant pleinement la technologie comme outil, de nouvelles expressions musicales continueront de naître.
 
 ---
 

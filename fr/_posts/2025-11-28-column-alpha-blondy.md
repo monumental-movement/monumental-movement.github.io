@@ -99,7 +99,7 @@ Avec leur premier album, ils expriment d’abord leur intérêt pour les thèmes
 - **« Brigadier Sabari »**
 - Paroles en anglais : "Corruption et abus de pouvoir, nous ne pouvons pas supporter"
 - Traduction japonaise : « Nous ne pouvons tolérer la corruption et les abus de pouvoir. »
-- Commentaire : Une chanson qui critique le gouvernement et ceux qui sont au pouvoir et qui résonne avec la structure de pouvoir oppressive de l'ère de l'apartheid.
+- Commentaire : Une chanson qui critique le gouvernement et ceux qui sont au pouvoir et qui résonne avec la structure du pouvoir oppressive de l'ère de l'apartheid.
 
 ---
 

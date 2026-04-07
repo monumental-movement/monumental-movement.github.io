@@ -14,7 +14,7 @@ title: Plutoncratie – Dankstahz
 
 
 "Dankstahz" est
-Il s'agit d'un disque de 10 pouces du groupe de grindcore californien « Plutocracy », sorti en 1996 par le label allemand « Anomie Records ».
+Il s'agit d'un disque de 10 pouces du groupe de grindcore « Plutocracy » formé en Californie, sorti en 1996 par le label allemand « Anomie Records ».
 
 #### Liste des chansons
 ```md

@@ -18,7 +18,7 @@ title: '[Chronique] Basic Channel──L''origine de la dub techno berlinoise'
 ## Prologue : Du bruit anonyme à une révolution silencieuse
 
 
-Texte : mmr｜Thème : « Abysse du son » né de l'underground berlinois dans les années 1990 - Historique de la création de Basic Channel et Dub Techno
+Texte : mmr｜Thème : Le « gouffre sonore » né de l'underground berlinois dans les années 1990 – L'histoire de la création de Basic Channel et de la Dub Techno
 
 
 En 1993, quelques années seulement après la chute du mur de Berlin.
@@ -55,7 +55,7 @@ color: #fff;
 Basic Channel est une unité formée par les musiciens allemands **Moritz von Oswald** et **Mark Ernestus**.
 Leurs parcours sont étonnamment différents.
 
-- **Moritz von Oswald**: Former percussionist. Dans les années 1980, il est actif dans le groupe pop Palais Schaumburg. Il a commencé très tôt à explorer la musique africaine et le dub.
+- **Moritz von Oswald** : Ancien percussionniste. Dans les années 1980, il est actif dans le groupe pop Palais Schaumburg. Il a commencé très tôt à explorer la musique africaine et le dub.
 - **Mark Ernestus** : Fondateur du magasin de disques "Hard Wax". Il a joué un rôle extrêmement important dans la distribution et la réception de la techno de Détroit.
 
 Cette **perspective qui dépasse les frontières entre commerce et créativité** conduit également à la philosophie ultérieure du label.
@@ -84,7 +84,7 @@ C'était juste un **changement climatique sonore**.
 
 ---
 
-## Chapitre 3 : Réinventer le dub - De la Jamaïque à Berlin
+## Chapitre 3 : Réinventer le Dub - De la Jamaïque à Berlin
 
 Ce que Basic Channel citait, c'était l'idée du **dub jamaïcain** des années 70.
 Les sculptures réverbérantes de King Tubby et Lee « Scratch » Perry ont été recréées selon un processus numérique.
@@ -95,7 +95,7 @@ En d’autres termes, la musique n’est pas un matériau mais un « lieu » –
 
 ---
 
-## Chapitre 4 : Réaction en chaîne──Chaîne d'abstraction
+## Chapitre 4 : Réaction en chaîne──Chaîne d'abstraction
 
 En 1995, Basic Channel a créé un sous-label, **Chain Reaction**.
 Ici, un projet plus anonyme et expérimental s'est développé.
@@ -119,7 +119,7 @@ En conséquence, Basic Channel est devenu plus une **plateforme pour la philosop
 Dans les années 2000, les deux hommes entrent dans une nouvelle phase sous le nom de **Rhythm & Sound**.
 Ici, nous avons invité des chanteurs de reggae de Jamaïque et d'Allemagne, dont Tikiman, Cornell Campbell et Jennifer Lara, pour créer une fusion plus profonde de « voix » et de « réverbération ».
 
-Des chansons telles que « King In My Empire » et « See Mi Yah » ont une structure qui donne davantage l'impression qu'elles seraient jouées « à l'intérieur » des haut-parleurs plutôt que dans un club.
+Des chansons telles que « King In My Empire » et « See Mi Yah » ont une structure qui donne plus l'impression qu'elles seraient jouées « à l'intérieur » des haut-parleurs plutôt que dans un club.
 J'ai retrouvé mon tremblement humain dans la froideur du dub numérique.
 
 Ils continuent de refuser les entretiens et restent invisibles.
@@ -128,7 +128,7 @@ C'était une « spiritualité anonyme » et une **prière post-humaine** qui all
 
 ---
 
-## Chapitre 6 : Philosophie du sound system et Berghain et au-delà
+## Chapitre 6 : La philosophie du sound system et le Berghain et au-delà
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/691Bw3f2NNg?si=AmVEYFoIGmCr0syV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -193,7 +193,7 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 | **1999** | A lancé Rhythm & Sound, a commencé à collaborer avec des chanteurs jamaïcains |
 | **2003** | Sortie de « Rythme et son avec les artistes » |
 | **2010** | Moritz von Oswald Trio a commencé (avec Max Loderbauer et Tony Allen) |
-| **Années 2020** | Vague de remise en question, revival de la Dub Techno, se propageant principalement sur Bandcamp |
+| **Années 2020** | Vague de remise en question, renaissance de la Dub Techno, se propageant principalement sur Bandcamp |
 
 ---
 
@@ -209,7 +209,7 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 ---
 
 Le son de Basic Channel est intemporel et reste toujours au « présent ».
-La raison en est qu’ils n’ont pas seulement créé de la techno, ils ont reconstruit l’acte même d’écouter.
+La raison en est qu'ils n'ont pas seulement créé de la techno, ils ont reconstruit l'acte même d'écouter.
 
 L'écho ne s'arrête jamais.
 C'est un parfum persistant du temps et un tunnel qui mène l'auditeur vers l'extérieur de l'espace.

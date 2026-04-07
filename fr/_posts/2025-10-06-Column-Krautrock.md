@@ -90,7 +90,7 @@ Cela influencera plus tard Radiohead, The Fall et même Aphex Twin.
 
 ## Chapitre 3 : NEU ! - Minimalisme et course vers le futur
 
-NOUVEAU ! a été formé après que les premiers membres de Kraftwerk, **Klaus Dinger** et **Michael Lotter**, ont quitté le groupe.
+NOUVEAU! a été formé après que les premiers membres de Kraftwerk, **Klaus Dinger** et **Michael Lotter**, ont quitté le groupe.
 Le son était un "pur mouvement" avec toutes les décorations inutiles supprimées.
 
 Le tambour de Dinger continue de tourner à une vitesse constante, comme un convoyeur sans fin.
@@ -98,7 +98,7 @@ Ce rythme est finalement devenu connu sous le nom de « Motorik ».
 La guitare et la basse de Rotor glissent comme un courant,
 La musique a fait d'"avancer" un objectif.
 
-NOUVEAU ! enregistré en studio faute de fonds.
+NOUVEAU! enregistré en studio faute de fonds.
 Faire tourner la bande en sens inverse, changer la vitesse, couper et coller les sons,
 Cela a ébranlé la frontière entre « vie » et « machine ».
 
@@ -207,7 +207,7 @@ Cependant, ce qu'il visait n'était pas la froideur de l'électronique, mais le 
 
 ### Résonance avec Herzog
 Le réalisateur **Werner Herzog** est tombé amoureux de leurs sons spirituels et les a utilisés dans plusieurs de ses films, notamment « Aguirre », « Nosferatu » et « Fitzcarraldo ».
-La musique de « Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
+La musique d'« Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
 
 > « Le son du Popol Vu était les paroles de prière que l'âme entendait. »
 
@@ -298,7 +298,7 @@ flowchart TD
 | **Motorik** | Battement constant à 4/4 établi par Neu! Un rythme linéaire, proche de la transe.           |
 | **Musique cosmique** | Musique électronique orientée vers l'espace par Tangerine Dream, Klaus Schulze et d'autres. |
 | **Rocher continental** | Expression musicale dans une perspective européenne, par opposition au rock anglo-américain.                |
-| **Croute** | Argot britannique à l’origine. C’était à l’origine un terme péjoratif, mais il a ensuite été redéfini comme un mot de fierté.         |
+| **Croute** | Argot britannique à l’origine. C'était à l'origine un terme péjoratif, mais il a ensuite été redéfini comme un mot de fierté.         |
 | **Motorik Groove** | Le rythme de "Ein-zwei-drei-vier...". Un symbole de minimalisme et d'euphorie.    |
 
 

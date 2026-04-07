@@ -72,7 +72,7 @@ Les steelpans sont apparus au début du 20e siècle et leurs caractéristiques a
 
 Dans la première moitié du XXe siècle, la technologie d’enregistrement et la radiodiffusion ont fait sortir le calypso de ses frontières. Les enregistrements aux États-Unis et en Angleterre imposaient certaines restrictions sur la durée des performances, la qualité sonore et le contenu des paroles, mais en retour, ils gagnaient un public international. En conséquence, les expressions obscènes et les critiques politiques sont supprimées et les thèmes plus génériques se multiplient.
 
-Au cours de ce processus, le calypso est devenu de plus en plus consommé comme musique exotique et tropicale. Mais en même temps, une expression plus radicale et directe est maintenue sur l’île, formant une double structure. La division entre l'étranger et le national, l'enregistrement et les performances live, et la musique officielle et non officielle influencera plus tard la naissance de la soca.
+Au cours de ce processus, le calypso est devenu de plus en plus consommé comme musique exotique et tropicale. Mais en même temps, une expression plus radicale et directe est maintenue sur l’île, formant une double structure. La division entre les formes étrangères et nationales, enregistrées et vivantes, et les formes officielles et non officielles de soca ont influencé plus tard la naissance de la soca.
 
 >Si la modernisation a élargi le calypso, elle a également servi à tester son acuité.
 
@@ -80,9 +80,9 @@ Au cours de ce processus, le calypso est devenu de plus en plus consommé comme 
 
 ## Contexte de la naissance de la soca
 
-Dans les années 1970, la société trinidadienne connaît des changements majeurs. Le nombre croissant de jeunes, l'afflux de musique disco et funk ainsi que la diffusion des instruments électriques et de la technologie de studio imposent de nouvelles exigences au calypso traditionnel. Les chansons, centrées sur les paroles et ayant un tempo modéré, ont progressivement commencé à paraître insatisfaisantes lors des festivals.
+Dans les années 1970, la société trinidadienne connaît des changements majeurs. Le nombre croissant de jeunes, l'afflux de musique disco et funk ainsi que la diffusion des instruments électriques et de la technologie des studios imposent de nouvelles exigences au calypso traditionnel. Les chansons, centrées sur les paroles et ayant un tempo modéré, ont progressivement commencé à paraître insatisfaisantes lors des festivals.
 
-La Soca est née dans ce contexte. On disait que le nom était un mot inventé combinant soul et calypso, et la musique conservait en fait la structure du calypso, mais mettait le rythme au premier plan et renforçait la basse et la batterie. Les paroles deviennent plus simples, les répétitions et les chants augmentent, et l’élévation physique prime.
+La Soca est née dans ce contexte. On dit que le nom est un mot inventé combinant soul et calypso, et la musique a en fait conservé la structure du calypso, mais a mis le rythme au premier plan et a renforcé la basse et la batterie. Les paroles deviennent plus simples, les répétitions et les chants augmentent et l’élévation physique prime.
 
 La Soca n'est pas une rupture mais une réorganisation. Il ne s’agissait pas d’un abandon complet de la nature sociale du calypso, mais plutôt d’une évolution vers la maximisation des émotions partagées lors des occasions de célébration.
 
@@ -92,7 +92,7 @@ La Soca n'est pas une rupture mais une réorganisation. Il ne s’agissait pas d
 
 ## Structure rythmique et caractéristiques acoustiques
 
-La plus grande caractéristique de la Soca est la mise en avant du rythme. Basée sur la signature rythmique à quatre temps, la musique utilise d'épaisses couches d'instruments de percussion pour créer une force propulsive par syncope. La ligne de basse est répétitive et sert à faire bouger toute la piste de danse comme un seul corps.
+La plus grande caractéristique de la Soca est la mise en avant du rythme. Basée sur la signature à quatre temps, la musique utilise d'épaisses couches d'instruments de percussion pour créer une force propulsive par syncope. La ligne de basse est répétitive et sert à faire bouger toute la piste de danse comme un seul corps.
 
 La combinaison du synthétiseur et des cuivres est également importante. Le ton clair et aigu est facile à étouffer même dans les espaces extérieurs et soutient à la fois la marche et la danse. La plupart des paroles sont des phrases courtes et l’impact immédiat du son est plus important que le sens.
 

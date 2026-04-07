@@ -20,7 +20,7 @@ title: '[Chronique] Histoire de la Psy-Trance, chefs-d''œuvre et 10 morceaux re
 Texte : mmr｜Thème : Histoire de la Psy-Trance des origines à nos jours
 
 
-La transe goa, issue de la culture hippie/rave de Goa, s'est répandue dans le monde entier au milieu des années 1990 sous le nom de « transe psychédélique ». Depuis, divers genres dérivés (Full-on, Darkpsy, Progressive, Psybient, etc.) ont été créés grâce au raffinement des images sonores et à la numérisation des équipements, et ils se sont mondialisés grâce à la culture des festivals et à la diffusion en ligne.
+La transe Goa, issue de la culture hippie/rave de Goa, s'est répandue dans le monde entier au milieu des années 1990 sous le nom de « transe psychédélique ». Depuis, divers genres dérivés (Full-on, Darkpsy, Progressive, Psybient, etc.) ont été créés grâce au raffinement des images sonores et à la numérisation des équipements, et ils se sont mondialisés grâce à la culture des festivals et à la diffusion en ligne.
 
 Ci-dessous, nous résumerons les tendances par génération, les chefs-d'œuvre représentatifs, les changements d'équipement et **10 pistes recommandées de chaque époque**.
 
@@ -56,7 +56,7 @@ color: #fff;
 | # | Titre de l'artiste/de la chanson | Année | Remarques |
 |----|----------|----|------|
 | 1 | Kraftwerk – Chiffres | 1981 | Fondements des débuts de l'électro |
-| 2 | Tangerine Dream – Exit | 1981 | Cosmic synth sound |
+| 2 | Tangerine Dream – Sortie | 1981 | Son de synthétiseur cosmique |
 | 3 | Charanjit Singh – Dix Ragas sur un rythme disco | 1982 | Utilisation pionnière du TB-303 |
 | 4 | Klaus Schulze – Transe 4 | 1983 | Électroacoustique européenne |
 | 5 | Psychic TV – Connectez-vous | 1982 | Héritage de la culture psychique |

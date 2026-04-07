@@ -159,12 +159,12 @@ Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAH
 
 **Fusion avec la culture visuelle** : culture européenne non occidentale
 
-- Il a également été incorporé dans les OP d’anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l’euro ».
+- Il a également été incorporé dans les OP d'anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l'euro ».
 
 
 <hr>
 
-### Pourquoi les critiques l'ont-ils ignoré ? ──"Légèreté" et "Anti-Art"
+### Pourquoi les critiques l'ont-ils ignoré ? ──"Légèreté" et "Anti-art"
 
 Pendant longtemps, la musique européenne n’a pas été bien accueillie par la critique. La raison est la suivante :
 
@@ -206,6 +206,12 @@ Est-ce pour vous de la nostalgie ou de la nouveauté ?
 
 <hr>
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iev_0jeS2gE?si=-_VlFxZvm5_-0X6t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 

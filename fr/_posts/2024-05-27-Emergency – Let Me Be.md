@@ -18,7 +18,7 @@ title: Urgence – Laisse-moi tranquille
 
 Emergency est un projet de danse Italo d'Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi et Pieradis Rossini.
 
-L'arrangeur et producteur est Pieradis Rossini, musicien et producteur de musique dance italien et fondateur du label de danse Italo DJ Movement.
+L'arrangeur et producteur est Pieradis Rossini, musicien et producteur de musique de danse italien et fondateur du label de danse Italo DJ Movement.
 
 Morceau de danse Italo sorti par le label DJ Movement en 1993.
 

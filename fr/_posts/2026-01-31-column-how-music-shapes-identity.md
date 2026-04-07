@@ -66,7 +66,7 @@ C --> D[共同体意識]
 
 ### Internalisation de la foi et du son
 
-À une époque où la religion était la norme centrale de la société, la musique était un moyen important d’intériorisation de la foi. La mélodie unique du chant grégorien est conçue pour supprimer les émotions de l'individu et encourager l'immersion en Dieu. Les chants bouddhistes alignent la respiration et les vocalisations, modifiant ainsi les sensations physiques du pratiquant. En Islam, lors de la récitation du Coran, la mélodie et le sens sont indissociables, et l'acte d'écouter lui-même devient une pratique de foi.
+À une époque où la religion était la norme centrale de la société, la musique était un moyen important d’intériorisation de la foi. La mélodie unique du chant grégorien est conçue pour supprimer les émotions de l'individu et encourager l'immersion en Dieu. Les chants bouddhistes alignent la respiration et les vocalisations, modifiant ainsi les sensations physiques du pratiquant. En Islam, lors de la récitation du Coran, la mélodie et le sens sont indissociables, et l'acte d'écoute lui-même devient une pratique de foi.
 
 Ces musiques fonctionnent au-delà des goûts personnels. En l’écoutant à plusieurs reprises, en le chantant et en le laissant s’infiltrer dans votre corps, la foi s’enracine en vous comme une condition préalable, plutôt que comme quelque chose dont on peut douter. La musique était un moyen de traduction qui transformait la doctrine externe en voix interne.
 

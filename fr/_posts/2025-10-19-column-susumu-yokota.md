@@ -163,7 +163,7 @@ De plus, l'esprit de Yokota a certainement été hérité par des artistes ambie
 
 ---
 
-## Chapitre 9 : Conclusion — Musique en silence
+## Chapitre 9 : Conclusion — Musique en silence
 
 La musique de Susumu Yokota n'est pas racontée à travers des mélodies et des rythmes flashy, mais à travers le silence et les espaces vides.
 Dans ce silence habitent le bruit de la ville, le souffle de la nature et la mémoire humaine.

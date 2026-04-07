@@ -25,7 +25,7 @@ La musique a longtemps été comprise comme une combinaison de l’acte de conce
 
 Dans le même temps, dans le domaine de l’art, on observe un mouvement croissant visant à accorder davantage de valeur au processus de production et à l’acte lui-même qu’à l’objet achevé. Les événements qui se produisent en dehors des peintures et des sculptures, le passage du temps et les réactions du public sont désormais reconnus comme faisant partie de l'œuvre. La musique n’était pas non plus étrangère à cette tendance.
 
-Dans ce chapitre, nous organiserons le contexte historique qui a conduit à ce que le son transcende le cadre de la musique et soit reconsidéré en tant qu'actions et situations, et clarifierons les prémisses de chaque chapitre suivant.
+Dans ce chapitre, nous résumerons le contexte historique qui a conduit à ce que le son transcende le cadre de la musique et soit reconsidéré en tant qu'actions et situations, et clarifierons les prémisses de chaque chapitre suivant.
 
 > À partir du moment où le son a été reconnu comme une action, la musique a commencé à se placer au même niveau que l'art.
 
@@ -88,7 +88,7 @@ Le tournant le plus important présenté par Fluxus a été le démantèlement d
 
 Par exemple, des actions telles que rester debout pendant un certain temps, déplacer un objet ou ouvrir et fermer un couvercle s'écartent complètement des jugements de valeur musicaux conventionnels. Cependant, les sons subtils, le silence et la tension visuelle créés par cet acte ont fortement capté l'attention du public.
 
-La musique, avant d’être un art sonore, a été redéfinie comme un acte doté d’une structure temporelle. La pratique de Fluxus était directement liée à l’art conceptuel et à l’art de la performance ultérieurs.
+La musique, avant d’être un art sonore, a été redéfinie comme un acte doté d’une structure temporelle. La pratique de Fluxus était directement liée à l'art conceptuel et à l'art de la performance ultérieurs.
 
 > En présentant l'action comme une musique, la scène s'étend au quotidien.
 
@@ -144,7 +144,7 @@ Sur la piste de danse, les corps individuels se synchronisent au rythme et forme
 
 Au XXIe siècle, les différences fonctionnelles entre les musées et les festivals de musique se sont rapidement réduites. Les œuvres sonores interprétées dans les espaces d'exposition sont présentées sous forme de performances chronométrées, et les images et la conception spatiale sont des préalables aux événements musicaux.
 
-Le public non seulement « apprécie » l'œuvre, mais complète l'expérience en restant sur place et en y plaçant son corps. La classification des genres est simplement une question de commodité opérationnelle ; la conception de l’expérience est au cœur du travail.
+Le public non seulement « apprécie » l'œuvre, mais complète également l'expérience en restant sur place et en y plaçant son corps. La classification des genres est simplement une question de commodité opérationnelle ; la conception de l’expérience est au cœur du travail.
 
 > Les frontières n'ont pas disparu, mais le centre de la question s'est déplacé.
 
@@ -187,7 +187,7 @@ flowchart LR
 
 ---
 
-## Chapitre final : Attitude à franchir les frontières
+## Chapitre final : Attitude à franchir les frontières
 
 L’histoire des relations entre art de la performance et musique n’est pas seulement une histoire qui traverse les genres. Il s’agit d’un changement dans notre perception du son, du corps et du temps.
 

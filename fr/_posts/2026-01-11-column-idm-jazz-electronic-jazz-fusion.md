@@ -19,10 +19,10 @@ title: '[Chronique] IDM × Jazz / Jazz Fusion Electronique'
 
 ## Introduction : L'intersection de l'IDM et du jazz
 
-Texte : mmr｜Thème : À propos de la musique présentée comme la structure du temps lui-même
+Texte : mmr｜Thème : À propos de la musique présentée comme la structure même du temps
 
 
-La fusion de l’IDM et du jazz a progressé non pas comme une addition de genres, mais comme une refonte du sens du temps et de la philosophie de l’interprétation. En brouillant les frontières entre improvisation et composition, groove et programmation, et puissance humaine et machines, une esthétique différente de la fusion traditionnelle se forme. Depuis les années 1990, alors que la culture club et le jazz expérimental se sont approfondis simultanément, la structure rythmique elle-même est devenue le sujet de la musique.
+La fusion de l’IDM et du jazz a progressé non pas comme une addition de genres, mais comme une refonte du sens du temps et de la philosophie de la performance. En brouillant les frontières entre improvisation et composition, groove et programmation, et puissance humaine et machines, une esthétique différente de la fusion traditionnelle se forme. Depuis les années 1990, alors que la culture club et le jazz expérimental se sont approfondis simultanément, la structure rythmique elle-même est devenue le sujet de la musique.
 
 > Si vous comprenez IDM x Jazz non pas comme un style, mais comme une méthodologie de traitement du temps, il est plus facile d'avoir une vue d'ensemble.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ### Musique électronique intelligente après les breakbeats
 
-Au début des années 1990, les tentatives de subdivision et de reconstruction des breakbeats ont progressé, et les rythmes contenant des changements plutôt que des répétitions ont fini par être valorisés. Dans un domaine appelé IDM, l'accent est moins mis sur la stabilité du tempo que sur ce qui se passe à l'intérieur du rythme. Le rythme est passé du statut de fondement pour la danse à celui de structure d'information pour l'écoute.
+Au début des années 1990, les tentatives de subdiviser et de reconstruire les breakbeats ont progressé, et les rythmes contenant des changements plutôt que des répétitions ont fini par être valorisés. Dans un domaine appelé IDM, l'accent est moins mis sur la stabilité du tempo que sur ce qui se passe à l'intérieur du rythme. Le rythme est passé du statut de fondement pour la danse à celui de structure d'information pour l'écoute.
 
 ### Redéfinir la signature rythmique et le tempo
 

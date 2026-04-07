@@ -162,7 +162,7 @@ Un film documentaire racontant l'histoire et le développement de la scène musi
 
 ### Analyse : Pourquoi la discothèque norvégienne est acclamée à l'échelle internationale
 
-1. **Esthétique de la texture** : La coexistence des méthodes scandinaves de création d'« espace » (réverbération et espace) avec une sensation analogique chaleureuse.
+1. **Esthétique de la texture** : La coexistence des manières scandinaves de créer un « espace » (réverbération et espace) avec une sensation analogique chaleureuse.
 2. **Culture du long track** : Un style qui met l'accent sur le « voyage » à travers les albums plutôt que les clubs.
 3. **Références interculturelles** : références gratuites à des éléments de musique italo, disco française et même folk.
 

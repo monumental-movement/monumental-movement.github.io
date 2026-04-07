@@ -54,7 +54,7 @@ color: #fff;
 ## Contexte social de la naissance du tango
 
 
-À la fin du XIXe siècle, l’Argentine connaissait une croissance économique rapide et en même temps de graves divisions sociales.
+L'Argentine de la fin du XIXe siècle a connu une croissance économique rapide et en même temps de graves divisions sociales.
 Le pays a prospéré grâce aux exportations agricoles, mais seule une petite partie de la classe des propriétaires fonciers en a bénéficié.
 
 Alors qu’un grand nombre d’hommes immigrés affluaient vers les villes à la recherche de travail, le rapport hommes-femmes s’est effondré.

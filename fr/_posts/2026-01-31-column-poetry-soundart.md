@@ -75,7 +75,7 @@ Le futurisme italien a introduit le bruit mécanique et urbain dans l'art. Leurs
 
 ### L'idée de couper et coller des voix
 
-Au milieu du XXe siècle, l’avènement de la bande magnétique a fondamentalement modifié la façon dont les voix étaient traitées. La lecture n’est pas un événement ponctuel, mais un matériel modifiable. Des techniques telles que les cut-ups, les boucles et les rotations inversées ont apporté une nouvelle chronologie à l'expression poétique.
+Au milieu du XXe siècle, l’avènement de la bande magnétique a fondamentalement modifié la manière dont les voix étaient traitées. La lecture n’est pas un événement ponctuel, mais un matériel modifiable. Des techniques telles que les cut-ups, les boucles et les rotations inversées ont apporté une nouvelle chronologie à l'expression poétique.
 
 ### Connexion avec Musique Béton
 
@@ -103,7 +103,7 @@ Les poètes beat enregistraient leurs lectures et les publiaient sur disques. En
 
 ### Déviation de la musique
 
-Depuis les années 1960, l’art sonore s’éloigne du cadre musical et devient une forme d’expression mettant l’accent sur l’espace et l’environnement. Dans les œuvres développées dans des galeries et des espaces publics, le son change en fonction du mouvement du spectateur et du passage du temps.
+Depuis les années 1960, l’art sonore s’éloigne du cadre de la musique et devient une forme d’expression mettant l’accent sur l’espace et l’environnement. Dans les œuvres développées dans des galeries et des espaces publics, le son change en fonction du mouvement du spectateur et du passage du temps.
 
 ### Réarrangement de la voix
 

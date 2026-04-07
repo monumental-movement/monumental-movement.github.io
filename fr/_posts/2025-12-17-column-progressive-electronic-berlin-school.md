@@ -84,7 +84,7 @@ L'élément le plus distinctif de la Berlin School est le motif sonore répété
 
 Alors que la musique pop et rock traditionnelle est basée sur des structures de chansons qui durent plusieurs minutes, il n'est pas rare qu'une seule chanson de la musique de la Berlin School dure plus de 20 minutes. Il s’agit d’une forme rendue possible par le développement de la performance improvisée et de la technologie d’enregistrement.
 
-### Conception des tons
+### Conception sonore
 
 L'instabilité et la fluctuation des synthétiseurs analogiques sont devenues partie intégrante de l'esthétique sonore de l'école de Berlin. Les infimes écarts provoqués par les changements de température et les fluctuations de tension donnent un aspect organique à la répétition mécanique.
 
@@ -102,7 +102,7 @@ La Berlin School se situe entre la musique électronique académique et la musiq
 
 Avec la diffusion des synthétiseurs numériques et du MIDI, l'environnement de production a radicalement changé. Les limitations inhérentes aux équipements analogiques ont été réduites et la reproductibilité améliorée. D’un autre côté, la contingence observée au début de la Berlin School est réduite.
 
-Durant cette période, la méthode de la Berlin School est réinterprétée comme le prototype de la techno et de la transe. La fusion de rythmes et de séquences répétitifs prend un nouveau sens dans le contexte de la dance music.
+Durant cette période, la méthode de la Berlin School est réinterprétée comme le prototype de la techno et de la transe. La fusion de rythmes et de séquences répétitifs prend un nouveau sens dans le contexte de la musique dance.
 
 ---
 
@@ -114,7 +114,7 @@ Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de 
 
 ## Chapitre 7 Analyse détaillée des fondements techniques
 
-Ce chapitre organise les éléments techniques spécifiques qui ont établi l'École de Berlin en les divisant en trois niveaux : les instruments de musique, les systèmes de contrôle et les techniques d'enregistrement.
+Dans ce chapitre, nous organiserons les éléments techniques spécifiques qui ont établi la Berlin School en les divisant en trois niveaux : les instruments de musique, les systèmes de contrôle et les techniques d'enregistrement.
 
 ### Synthétiseur modulaire analogique
 
@@ -130,13 +130,13 @@ Ce qui est important est que la séquence soit basée sur le « cycle » plut�
 
 ### Enregistrement sur bande et structure multicouche
 
-L’enregistrement multipiste et le montage sur bande ont joué un rôle important au début de la Berlin School. En enregistrant de longues périodes de performance improvisée, en en éditant et en superposant certaines parties, une structure non linéaire a été construite. Il s’agit d’une attitude qui traite le studio comme un espace de composition et peut être considérée comme un précédent pour une réflexion ultérieure sur la production de type DAW.
+L'enregistrement multipiste et le montage sur bande ont joué un rôle important au début de la Berlin School. En enregistrant de longues périodes de performance improvisée, en en éditant et en superposant certaines parties, une structure non linéaire a été construite. Il s’agit d’une attitude qui traite le studio comme un espace de composition et peut être considérée comme un précédent pour une réflexion ultérieure sur la production de type DAW.
 
 ---
 
 ## Chapitre 8 Analyser la structure des œuvres représentatives
 
-Dans ce chapitre, plutôt que d'énumérer les noms d'œuvres spécifiques, nous les analyserons comme des types structurels pouvant être confirmés.
+Dans ce chapitre, plutôt que d’énumérer les noms d’œuvres spécifiques, nous les analyserons comme des types structurels pouvant être confirmés.
 
 ### Type d'extension à séquence unique
 
@@ -168,7 +168,7 @@ Afin de bien comprendre l’École de Berlin, il est nécessaire d’organiser c
 
 ### Avant Kraftwerk
 
-Avant Kraftwerk, l’école de Berlin mettait l’accent sur l’improvisation et les formes longues. Le rythme est fluide et le morceau est perçu comme une transition plutôt que comme une progression. A cette époque, la musique électronique était un moyen d’échapper au rock et à la musique électronique académique.
+Avant Kraftwerk, l’école de Berlin mettait l’accent sur l’improvisation et les formes longues. Le rythme est fluide et le morceau est perçu comme une transition plutôt que comme une progression. À cette époque, la musique électronique était un moyen d’échapper au rock, mais aussi une libération de la musique électronique académique.
 
 ### Après Kraftwerk
 

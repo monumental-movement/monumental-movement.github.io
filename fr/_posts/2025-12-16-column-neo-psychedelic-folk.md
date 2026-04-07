@@ -150,7 +150,7 @@ flowchart TD
 
 ---
 
-## Chapitre 9 : Redéfinir le rythme et la physicalité
+## Chapitre 9 : Redéfinir le rythme et la physicalité
 
 Le rythme du folk néo-psychédélique agit sur le corps d’une manière différente de la pulsion physique de la musique de danse. L'accent mis sur les battements clairs est évité et des répétitions périodiques mais amorphes sont utilisées. En conséquence, le corps de l’auditeur n’est pas « déplacé » mais placé dans un état de « dérive ».
 
@@ -190,7 +190,7 @@ Dans cet environnement, les frontières entre production et montage s’estompen
 
 ## Chapitre 13 : La perspective comme méthodologie
 
-Le folk néo-psychédélique se positionne comme une méthodologie plutôt que comme un genre. Ce qui importe n'est pas une image sonore spécifique, mais une attitude qui réorganise les rapports entre le son et l'image, le corps et la perception.
+Le folk néo-psychédélique se positionne comme une méthodologie plutôt que comme un genre. Ce qui importe n’est pas une image sonore spécifique, mais une attitude qui réorganise les rapports entre son et image, entre corps et perception.
 
 De ce point de vue, les premières œuvres d'Animal Collective et de Tame Impala sont des points de référence et non des objets d'imitation.
 
@@ -214,7 +214,7 @@ Le folk néo-psychédélique a interagi avec la dream pop, la pop expérimentale
 
 ## Dernier chapitre
 
-Le Neo-Psychedelic Folk n’est pas un genre qui préserve le psychédélisme du passé, mais une pratique éditoriale qui renouvelle les expériences perceptuelles. Le son collectif d'Animal Collective et l'introspection des premières œuvres de Tame Impala sont le résultat d'une simplicité folk combinée à un environnement de production contemporain.
+Le Neo-Psychedelic Folk n’est pas un genre qui préserve le psychédélisme du passé, mais une pratique éditoriale qui renouvelle les expériences perceptuelles. Le son collectif d'Animal Collective et l'introspection des premières œuvres de Tame Impala sont le résultat d'une simplicité folk combinée à des environnements de production contemporains.
 
 Cette tendance n’est pas comprise comme un style achevé, mais comme un corps en mouvement constamment reconfiguré.
 

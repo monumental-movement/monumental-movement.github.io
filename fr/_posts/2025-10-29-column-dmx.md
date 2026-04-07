@@ -71,7 +71,7 @@ Il existe souvent une structure dans laquelle ils parlent à leurs démons inté
 > ― * Slippin' * (1998)
 
 ### 2. Métaphore animale
-DMX se présente souvent comme un « chien ».
+DMX se présente souvent comme « chien ».
 C'est un symbole de violence et indique en même temps **la loyauté, la solitude et la sauvagerie**.
 Le chien était le seul compagnon en qui il pouvait avoir confiance et l'objet de ses prières.
 

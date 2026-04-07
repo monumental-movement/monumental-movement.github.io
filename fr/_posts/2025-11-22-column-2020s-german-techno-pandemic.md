@@ -88,7 +88,7 @@ Pour la première fois de son histoire, la ville techno de renommée mondiale a 
 
 ### Impact:
 - Tous les clubs fermés (mars 2020 à début 2021)
-- Tous fermés y compris Berghain et Trésor
+- Tous fermés incluant Berghain et Trésor
 - Les revenus du tourisme des clubs sont réduits à zéro
 - Des professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
 - Aide du gouvernement avec le « Kurzarbeitegeld » (indemnité de chômage partiel)
@@ -97,7 +97,7 @@ Les statistiques et les médias confirment que des dizaines de milliers de trava
 
 ---
 
-# Chapitre 3 : L'ère du ligne et « United We Stream » (2020-2021)
+# Chapitre 3 : L’ère du ligne et « United We Stream » (2020-2021)
 La pandémie a poussé la culture des clubs en ligne.
 
 ## ● Lancement de « United We Stream »
@@ -114,7 +114,7 @@ Aller en ligne a bousculé le stéréotype selon lequel les clubs sont une cultu
 Cela a prouvé que la culture des clubs peut également fonctionner comme un support numérique.
 
 ## ● La musique devient introvertie à cause des DJ sets sans public
-Puisqu'il n'y a pas de plancher,
+Puisqu'il n'y a pas de sol,
 Les DJ sets se sont orientés vers les tendances suivantes :
 
 - Le BPM diminue
@@ -137,7 +137,7 @@ Par conséquent, la production des EP/albums se déroulera dans la direction sui
 - Drone de bruit
 - Breakbeats/Électro
 
-En fait, les œuvres sorties en 2020-2021 sont davantage destinées à l’écoute qu’aux sommets des clubs.
+En fait, les œuvres sorties en 2020-2021 sont plus destinées à l’écoute qu’aux sommets des clubs.
 
 ## ● 2) La techno à grande vitesse se développe grâce aux réseaux sociaux
 Un renversement intéressant s’est également produit.
@@ -281,7 +281,7 @@ timeline
 ---
 
 # Chapitre 10 : Prévisions futures après 2025
-## ● 1) Les augmentations de vitesse continueront-elles ?
+## ● 1) Les augmentations de vitesse continueront-elles ?
 À partir de 2024, 150-170 BPM seront la norme.
 On ne sait pas si cela va continuer, mais cela pourrait continuer en raison des facteurs suivants :
 

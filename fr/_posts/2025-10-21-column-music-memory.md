@@ -80,7 +80,7 @@ La musique fait pleurer les gens, pas tant à cause du son lui-même, mais parce
 Psychologiquement, les mélodies et les harmonies fonctionnent comme des « étiquettes » de mémoire.
 
 Lorsque nous écoutons une certaine chanson, nous rejouons inconsciemment « l'odeur, la lumière et le vent » de cette époque en même temps.
-Le son est une machine à voyager dans le temps et la mélodie est la clé de la mémoire.
+Le son est une machine à remonter le temps et la mélodie est la clé de la mémoire.
 
 La musique écoutée dans l'enfance, en particulier, a un niveau élevé de plasticité cérébrale, de sorte qu'elle devient un noyau émotionnel essentiel tout au long de la vie d'une personne.
 Le phénomène des « mélodies nostalgiques » qui reviennent sur Spotify et YouTube témoigne de leur rôle en tant que « dispositifs de reproduction de la mémoire » culturelle.
@@ -93,7 +93,7 @@ Dans le passé, dès qu’une personne sélectionnait un disque et laissait tomb
 Cependant, à l’époque moderne, l’IA prédit notre « humeur » en fonction de notre historique de lecture passé.
 
 « Discover Weekly » de Spotify et « Personal Mix » d'Apple Music sont des tentatives d'édition algorithmique de la mémoire.
-Mais il y a aussi un danger qui les guette.
+Mais il y a aussi un danger qui s’y cache.
 Nous écoutons peut-être « la mémoire en tant que données » plutôt que « notre propre mémoire ».
 
 > La nostalgie humaine est externalisée par les algorithmes.
@@ -143,6 +143,15 @@ Il s'agit à la fois d'une « reconstitution du passé » et d'une « reconstruc
 
 Et même après l’arrêt de la musique, la mélodie continue de résonner quelque part dans mon cœur.
 La musique est une forme d'art de la mémoire en elle-même.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xY8nuVm3xT8?si=1WavPB34Hp4ByuRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

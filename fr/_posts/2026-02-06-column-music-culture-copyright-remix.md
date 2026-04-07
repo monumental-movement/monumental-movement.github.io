@@ -54,7 +54,7 @@ Le montage sur bande en particulier constituait la prémisse technique qui étai
 
 ## Culture jamaïcaine du doublage et des versions
 
-Créé en Jamaïque à la fin des années 1960, le dub a fait du remix un acte de production indépendant. The method of creating new music by manipulating multi-tracks of existing reggae sound sources, deleting vocals, processing effects, and manipulating space dismantled the idea of ​​focusing on original songs.
+Créé en Jamaïque à la fin des années 1960, le dub a fait du remix un acte de production indépendant. La méthode de création de nouvelle musique en manipulant plusieurs pistes de sources sonores reggae existantes, en supprimant les voix, en traitant les effets et en manipulant l'espace a démantelé l'idée de se concentrer sur les chansons originales.
 
 Le contexte était un environnement de production qui tirait le meilleur parti de ressources limitées et d’une concurrence immédiate dans la culture du sound system. Le traitement des droits reposait davantage sur la pratique que sur les institutions, et la réutilisation était une hypothèse courante.
 
@@ -74,7 +74,7 @@ Aux débuts du hip-hop, la gestion des droits était peu connue. Une fois que l�
 
 ## Structure de base du système du droit d'auteur
 
-Le système du droit d'auteur vise à promouvoir les activités créatives en accordant des droits exclusifs aux créateurs. Les droits de reproduction, d’adaptation et de transmission publique sont centraux, et le remixage implique plusieurs droits à la fois.
+Le système du droit d'auteur vise à promouvoir les activités créatives en accordant des droits exclusifs aux créateurs. Les droits de reproduction, d'adaptation et de transmission publique sont centraux, et le remixage implique plusieurs droits à la fois.
 
 Dans le même temps, il existe des exceptions telles que les citations, l’utilisation personnelle et l’utilisation éducative, de sorte que toute réutilisation n’est pas interdite. Le problème est que les limites nécessitent toujours une interprétation.
 

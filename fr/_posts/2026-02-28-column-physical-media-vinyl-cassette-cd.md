@@ -22,7 +22,7 @@ title: '[Chronique] Médias physiques et culture de collection : archiver l''hi
 
 Texte : mmr｜Thème : La dynamique de propriété et le capital culturel générés par les médias physiques
 
-Même à une époque où la musique et les vidéos peuvent être diffusées instantanément via le streaming, les supports physiques tels que les disques, les cassettes, les CD et les Blu-ray n'ont pas disparu. Au contraire, elle continue d'être réévaluée avec beaucoup d'enthousiasme parmi un certain groupe de personnes.
+Même à une époque où la musique et les vidéos peuvent être diffusées instantanément via le streaming, les supports physiques tels que les disques, les cassettes, les CD et les Blu-ray n'ont pas disparu. Au contraire, il continue d’être réévalué avec beaucoup d’enthousiasme parmi un certain groupe de personnes.
 
 La possession est une expérience différente du simple accès. La sensation, le poids, l'odeur de la pochette, le type dans les notes de la pochette, les rayures sur le disque. Il y a du temps qui y est gravé. Les données sont mises à jour, mais les choses s'estompent. Le paradoxe selon lequel l’altération crée de la valeur est au cœur de la culture des collectionneurs.
 
@@ -52,7 +52,7 @@ color: #fff;
 
 ### L'ère des phonographes et des disques
 
-En 1877, Thomas Edison invente le phonographe, permettant d'enregistrer des sons. Au départ, il s’agissait d’un tube de cire, mais il a ensuite pris la forme d’un disque. L'enregistrement commercial a commencé dans les années 1890 et la musique est devenue un produit commercial pouvant être reproduit pour la première fois.
+En 1877, Thomas Edison invente le phonographe, permettant d'enregistrer le son. Au départ, il s’agissait d’un tube de cire, mais il a ensuite pris la forme d’un disque. L'enregistrement commercial a commencé dans les années 1890 et la musique est devenue un produit commercial pouvant être reproduit pour la première fois.
 
 Au début du XXe siècle, les disques SP 78 tours sont devenus la norme et les maisons de disques ont favorisé l'industrialisation du monde entier. La musique est passée du statut de quelque chose qui se joue à celui de quelque chose qui s'achète.
 
@@ -174,6 +174,6 @@ Les abonnements offrent un maximum de commodité. Mais l'accès ne remplace pas 
 
 Les supports physiques peuvent diminuer. Mais cela ne disparaîtra pas. En effet, il ne s’agit pas simplement d’un appareil de lecture de musique, mais d’un objet imprégné de signification culturelle.
 
-> Les sons que l'on peut toucher continueront de rester dans la mémoire humaine.
+> Les sons que l'on peut toucher continueront à rester dans la mémoire humaine.
 
 ---

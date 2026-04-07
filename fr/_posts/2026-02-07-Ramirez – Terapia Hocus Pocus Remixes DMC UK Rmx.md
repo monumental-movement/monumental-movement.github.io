@@ -16,7 +16,7 @@ title: Ramirez – Terapia (Hocus Pocus Remixes + DMC UK Rmx)
 
 
 
-Ramirez est un projet de musique électronique dance créé par le label italien DFC au début des années 90. L'équipe de production du DFC, Davide Rizzatti, Elvio Moratto, Ricki Persi et le chanteur Alex Quiroz Buelvas y participent.
+Ramirez est un projet de musique dance électronique créé par le label italien DFC au début des années 90. L'équipe de production de DFC, Davide Rizzatti, Elvio Moratto, Ricki Persi et le chanteur Alex Quiroz Buelvas y participent.
 
 "Terapia" est un morceau Trance/Hardcore/Techno sorti sur le label DFC en 1993.
 

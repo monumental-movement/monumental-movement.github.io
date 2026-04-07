@@ -24,7 +24,7 @@ title: '[Chronique] Au-delà de la dérive : Eurobeat/EDM et la future forme de 
 Texte : mmr｜Thème : Initial D, Eurobeat, et le sort de « l'accélération du son » qui s'ensuit.
 
 
-« Initiale D » et Eurobeat. L’époque où ces liens fonctionnaient comme un dispositif culturel ne peut plus être évoquée uniquement par « nostalgie ».
+«Initial D» et Eurobeat. L’époque où ces liens fonctionnaient comme un dispositif culturel ne peut plus être évoquée uniquement par « nostalgie ».
 De la fin des années 1990 au début des années 2000, la résonance des images de voitures traversant des cols de montagne et des sons au tempo élevé ont créé une expérience inconsciente et partagée.
 Vitesse = musique, et musique = accélération des émotions.
 
@@ -49,9 +49,9 @@ color: #fff;
 
 ---
 
-## 1. De « passe » à « orbite » : la gradation de l'espace musical tracée par Eurobeat
+## 1. De la « passe » à la « trajectoire » : la gradation de l'espace musical tracée par Eurobeat
 
-Comme évoqué dans les deux ouvrages précédents, l'Eurobeat d'Initial D était indissociable de l'histoire de Touge.
+Comme mentionné dans les deux ouvrages précédents, l'Eurobeat d'Initial D était indissociable de l'histoire de Toge.
 Cependant, il ne s'agissait pas seulement d'une aide au terrain et à la production visuelle, mais d'un **dispositif qui traduisait la distorsion du temps en son**.
 
 Avec le recul, nous pouvons dire que l'Eurobeat était un genre qui visualisait acoustiquement le « temps interne d'un corps en marche ».
@@ -106,7 +106,7 @@ Il s’agit d’une reconstitution technologique de ce qu’Initial D faisait av
 
 Les paysages sonores jouent un rôle important dans les environnements de conduite virtuels.
 Bruit du vent, frottement des pneus, échos des tunnels, fluctuations du moteur...
-En synchronisant tout cela sur un tempo de type Eurobeat, le sentiment d'immersion augmente considérablement.
+En synchronisant tout cela sur un tempo de type Eurobeat, le sentiment d’immersion augmente considérablement.
 
 « Touge » est désormais dans un casque VR.
 Et les sons émis à l'intérieur ne sont pas une reconstitution du passé, mais sont reconstruits comme des **futurs souvenirs de conduite**.
@@ -146,9 +146,9 @@ L'ère où « votre conduite devient une chanson » commence déjà à devenir
 
 ### ● La renaissance d'Eurobeat sur SNS
 
-Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x propre vidéo de conduite » a augmenté de manière explosive.
+Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x votre propre vidéo de conduite » a augmenté de manière explosive.
 Il ne s'agit pas seulement de nostalgie, mais fonctionnent comme un « nouveau format pour partager la sensation de conduire ».
-Il s'agit, pour ainsi dire, d'un « support de partage rapide ».
+Il s'agit, pour ainsi dire, d'un « média de partage rapide ».
 
 ### ● NFT/Blockchain et redéfinition de la propriété musicale
 
@@ -160,7 +160,7 @@ Eurobeat se transforme ainsi en **Accélération Sauvée**.
 
 ## 6. Conclusion : Eurobeat peut-il se transformer en « accélération sauvée » ?
 
-Ce que « Initial D » présentait était une « théorie sensorielle de la vitesse » dans laquelle les voitures et la musique ne faisaient qu'un.
+Ce que « Initial D » présentait était une « théorie sensorielle de la vitesse » dans laquelle les voitures et la musique ne faisaient plus qu'un.
 Cet esprit continue de perdurer, quoique sous une forme différente à l’ère numérique.
 L'Eurobeat est relancé non pas comme une chose nostalgique, mais comme un support qui enregistre, joue et génère de la vitesse.
 

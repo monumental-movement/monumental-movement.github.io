@@ -20,7 +20,7 @@ title: '[Chronique] Salsoul Orchestra et MFSB - Evolution de Philadelphie au Dis
 Texte : mmr｜Thème : À propos de la révolution musicale qui a constitué la base du « disco »
 
 Au début des années 1970, une révolution musicale qui deviendra plus tard le prototype du « disco » s'est produite à Philadelphie, une ville de la côte est des États-Unis.
-Au centre de cela se trouvaient **MFSB (Mother Father Sister Brother)** et **Salsoul Orchestra**.
+Au centre se trouvaient MFSB (Mère Père Sœur Frère) et Salsoul Orchestra.
 
 Ils ont créé un nouveau son appelé « orchestra soul » en fusionnant de magnifiques arrangements avec beaucoup de cordes et de cuivres, une section rythmique détaillée et un esprit émouvant.
 Cette lignée s'est ensuite étendue à la culture disco du monde entier et a été héritée par les cultures d'échantillonnage house, latine et même hip-hop.
@@ -106,7 +106,7 @@ En revanche, son extrême perfectionnisme rendait nerveux les musiciens du studi
 |------|----|------|------|
 | **Pause d'amour (Ooh je l'aime)** | 1980 | Un trésor d’échantillonnage. Les percussions et les breaks de cor ont été surutilisés dans le hip-hop ultérieur. | Cité par Public Enemy, Eric B. & Rakim, etc. |
 | **Salsoul Hustle** | 1975 | Les origines du début du disco. Une fusion de rythme 4/4 et de groove latin. | Symbolise un bond en avant par rapport au son de Philadelphie. |
-| **Nice 'n Naasty** | 1976 | Piste de danse à cordes. | Présente un agencement sophistiqué. |
+| **Nice 'n Naasty** | 1976 | Piste de danse dirigée par des cordes. | Présente un agencement sophistiqué. |
 | **Runaway (feat. Loleatta Holloway)** | 1977 | Un développement dramatique mettant en vedette des voix et des cordes féminines. | Réévalué au cours des années suivantes dans le monde de la maison. |
 
 ---

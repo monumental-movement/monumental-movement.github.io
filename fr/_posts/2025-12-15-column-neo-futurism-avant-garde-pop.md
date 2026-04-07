@@ -69,15 +69,15 @@ Depuis les années 2000, les environnements de production utilisant des DAW et d
 
 ### 3-1. Conception de tons
 
-Dans la pop néofuturiste, les synthétiseurs et les sons traités numériquement sont présentés comme des « entités artificielles » plutôt que comme des substituts aux instruments naturels. Les problèmes, les distorsions et les changements dynamiques extrêmes font partie de l’expression émotionnelle.
+Dans la pop néofuturiste, les synthétiseurs et les sons traités numériquement sont mis en avant comme des « entités artificielles » plutôt que comme des substituts aux instruments naturels. Les problèmes, les distorsions et les changements dynamiques extrêmes font partie de l’expression émotionnelle.
 
 ### 3-2. Rythme et structure
 
-Les rythmes ne sont pas nécessairement orientés vers les pistes de danse et sont souvent fragmentés et asymétriques. En revanche, les refrains et les motifs sont clairement établis et conservent leur caractère mémorable en tant que chansons pop.
+Les rythmes ne sont pas nécessairement orientés vers les pistes de danse et sont souvent fragmentés et asymétriques. En revanche, les refrains et les motifs sont clairement établis et conservent leur caractère mémorable en tant que musique pop.
 
 ### 3-3. Traitement vocal
 
-Bien que les voix soient de vraies voix, elles sont présentées comme une « extension du corps » grâce au traitement de la hauteur, à la conversion des formants et aux traitements multiples. Il s'agit d'une méthode symbolique pour montrer la fluidité du sujet.
+Bien que les voix soient de vraies voix, elles sont présentées comme une « extension du corps » grâce au traitement de la hauteur, à la conversion des formants et aux traitements multiples. Il s’agit d’une méthode symbolique pour montrer la fluidité du sujet.
 
 ---
 
@@ -147,7 +147,7 @@ Ce que les brindilles de FKA et les œuvres d'Arca ont en commun est de s'écart
 
 ### 9-2. Construction musicale à partir du corps
 
-Dans les productions de FKA twigs, la danse et le mouvement physique sont souvent l'inspiration des structures musicales. Le rythme reflète la tension et la libération du corps et se manifeste par des fluctuations de tempo et des pauses. Il s’agit d’une méthode de composition axée sur le corps qui diffère de la composition traditionnelle centrée sur le rythme.
+Dans les productions de FKA twigs, la danse et le mouvement physique sont souvent l'inspiration des structures musicales. Le rythme reflète la tension et la libération du corps et se manifeste dans les fluctuations du tempo et les pauses. Il s’agit d’une méthode de composition axée sur le corps qui diffère de la composition traditionnelle centrée sur le rythme.
 
 ### 9-3. Distance entre traitement acoustique et émotion
 
@@ -160,7 +160,7 @@ La distorsion extrême et le traitement numérique ne servent pas à cacher les 
 Les expressions néofuturistes brouillent les frontières entre major et indie. À l’ère du streaming, l’avant-garde ne se limite plus à une scène spécifique, puisque les œuvres expérimentales sont simultanément distribuées à l’échelle mondiale.
 
 
-La force des visuels augmente la visibilité de l'œuvre plus que la musique seule, ce qui permet de partager largement le contenu avant-gardiste. Cette structure elle-même est une caractéristique de la pop du 21e siècle.
+La force des visuels augmente la visibilité de l’œuvre plus que la musique seule, ce qui permet de partager largement le contenu avant-gardiste. Cette structure elle-même est une caractéristique de la pop du 21e siècle.
 
 ---
 
@@ -168,7 +168,7 @@ La force des visuels augmente la visibilité de l'œuvre plus que la musique seu
 
 La critique pop traditionnelle s'est concentrée sur la structure des chansons et le potentiel des succès. Cependant, dans le néofuturisme/pop d’avant-garde, la totalité de l’expression sonore, visuelle et physique fait l’objet d’une évaluation.
 
-On a de plus en plus tendance à critiquer « le type de questions posées » plutôt que « la facilité à comprendre ». Il s’agit d’aborder l’axe de l’évaluation de l’art contemporain.
+On a de plus en plus tendance à critiquer « le type de questions posées » plutôt que « la facilité à comprendre ». Cela implique d’aborder l’axe de l’évaluation de l’art contemporain.
 
 ---
 

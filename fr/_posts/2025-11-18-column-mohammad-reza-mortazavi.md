@@ -14,7 +14,7 @@ title: '[Chronique] Poésie du battement de cœur : le monde du percussionniste 
 ---
 
 
-## 1. Introduction
+## 1. Présentation
 
 
 Texte : mmr｜Thème : Suivez attentivement son chemin depuis son éducation jusqu'à nos jours, en explorant le cœur de son innovation, de sa philosophie, de sa collaboration et de son expérience qu'il apporte aux auditeurs.
@@ -56,7 +56,7 @@ Grâce à une variété de techniques de jeu, le tambak s’est imposé non seul
 
 Le **Daf** est un grand tambour sur cadre, parfois doté d'anneaux ou de cloches métalliques, et est un instrument de musique traditionnel qui a également des usages festifs et cérémoniaux. Mortazavi ne se produit pas seulement avec des tambacks, mais aussi avec des duffs, et a développé des performances solos et collaboratives qui tirent parti des caractéristiques de chacun.
 
-La raison derrière sa sélection de ces instruments traditionnels n'est pas seulement un retour aux instruments folkloriques, mais une forte volonté d'explorer en profondeur l'essence des instruments et d'en tirer des expressions inconnues.
+La raison derrière sa sélection de ces instruments traditionnels n'est pas seulement un retour aux instruments folkloriques, mais une forte volonté d'explorer en profondeur l'essence des instruments de musique et d'en tirer des expressions inconnues.
 
 ---
 
@@ -138,7 +138,7 @@ Sorti en 2022, cet album représente une nouvelle expansion de la musique de Mor
 
 #### 7.6 Derniers travaux et perspectives d'avenir
 
-Son dernier album, Nexus (Latency), enregistré à Berlin, constitue une étape importante dans sa nouvelle orientation. Dans cette œuvre, en plus des tambours à main acoustiques qu'il utilise traditionnellement, il introduit des traitements d'effets et des traitements sonores, poussant encore plus loin son rythme et son langage dans le futur.
+Son dernier album, Nexus (Latency), enregistré à Berlin, constitue une étape importante dans sa nouvelle orientation. Dans cette œuvre, en plus des tambours à main acoustiques qu'il utilise traditionnellement, il introduit des traitements d'effets et des traitements sonores, poussant son rythme et son langage encore plus loin dans le futur.
 
 Comme le titre « Nexus » le suggère, il est conçu comme une œuvre qui explore l'intersection du passé et du futur, de la tradition et de l'innovation, ainsi que du corps et de l'acoustique électronique, et jouera un rôle central dans les futures performances live, collaborations et autres activités d'enregistrement.
 
@@ -165,7 +165,7 @@ Jouer Mortazavi en live est une expérience très physique et spirituelle. Chaqu
 
 Son jeu mélange des structures méditatives et répétitives avec des schémas de changement rapides et complexes qui font souvent perdre la notion du temps aux auditeurs. Au moment où le tempo ralentit, le son continue avec la réverbération, et ces durées se superposent progressivement, créant une résonance au sein du corps. A l'inverse, lorsque le rythme s'accélère brusquement, la concentration du public atteint son paroxysme, l'entraînant dans une sorte d'état de transe.
 
-Une expérience en direct comme celle-ci n'est pas seulement quelque chose que vous entendez avec vos oreilles, mais une expérience que vous pouvez « ressentir » avec votre corps. Mortazavi crée une résonance avec le public à mesure qu'il se produit, lui faisant partager un « pouls commun » à chaque instant. Le processus a un aspect rituel qui relie l’instrument et la personne, l’interprète et le public.
+Une expérience live comme celle-ci n'est pas seulement quelque chose que vous entendez avec vos oreilles, mais une expérience que vous « ressentez » avec votre corps. Mortazavi crée une résonance avec le public à mesure qu'il se produit, lui faisant partager un « pouls commun » à chaque instant. Le processus a un aspect rituel qui relie l’instrument et la personne, l’interprète et le public.
 
 ---
 
@@ -173,7 +173,7 @@ Une expérience en direct comme celle-ci n'est pas seulement quelque chose que v
 
 Mortazavi a reçu une reconnaissance internationale pour ses compétences, son sens artistique et son innovation. En 2003, il a remporté le **RUTH Newcomer Award**. Il a également suscité beaucoup d'intérêt de la part des médias, et son style et sa philosophie ont été présentés dans divers médias tels que le Deutschlandfunk allemand, Pitchfork, Hardwax et Boomkat.
 
-En particulier, Pitchfork a attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et l'a décrit comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la sophistication sonore et la profondeur spirituelle créées par ses plus de 30 nouvelles techniques.
+En particulier, Pitchfork a attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et les a décrits comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la précision sonore et la profondeur spirituelle de ses plus de 30 nouvelles techniques.
 
 De plus, leur aspect physique et leur spiritualité sont souvent soulignés dans les critiques en direct. Drummerszone et d'autres ont décrit en détail les points de frappe, les parties des mains et les opérations de résonance qu'il utilise, notant que ses mains semblent jouer sur un « système audio ».
 
@@ -189,7 +189,7 @@ Ses structures répétitives rappellent la méditation, et son traitement du sus
 
 Il considère également la résonance avec le public (co-pulse) comme un élément important de la performance. Lors de ses performances live, le public n'est pas seulement un auditeur, mais un co-créateur qui participe à la génération rythmique de la scène. Il construit un dialogue rythmé entre lui et le public, créant un sentiment de « communauté » même lorsqu'il joue seul.
 
-Dans cette approche, on peut sentir une profonde volonté de dépasser les dualités telles que tradition et modernité, corps et conscience, individualité et résonance, immobilité et dynamisme. Ses rythmes ne sont pas seulement des expositions de techniques, mais émergent comme des pratiques philosophiques qui remettent en question le sens de l'enquête sur soi, de la communauté et du temps.
+Dans cette approche, on peut sentir une profonde volonté de surmonter les dualités telles que la tradition et la modernité, le corps et la conscience, l'individualité et la résonance, et l'immobilité et le dynamisme. Ses rythmes ne sont pas seulement des expositions de techniques, mais émergent comme des pratiques philosophiques qui remettent en question le sens de l'enquête sur soi, de la communauté et du temps.
 
 ---
 

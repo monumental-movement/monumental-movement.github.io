@@ -15,7 +15,7 @@ title: Dee Jacobee – Je suis vivant Jazz-N-Groove Mix
 ---
 
 
-Un morceau de garage house remixé par "I'm Alive" du chanteur R&B britannique Dee Jacobee par Jazz-N-Groove, une équipe de production house américaine active dans la scène house new-yorkaise des années 90.
+Un morceau de garage house remixé par "I'm Alive" du chanteur britannique de R&B Dee Jacobee par Jazz-N-Groove, une équipe de production house américaine active dans la scène house new-yorkaise des années 90.
 
 #### Liste des chansons
 ```md

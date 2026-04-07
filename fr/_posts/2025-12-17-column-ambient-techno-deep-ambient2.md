@@ -143,7 +143,7 @@ C --> D[意識の変化]
 
 ## 16. Résumé
 
-Ambient Techno / Deep Ambient redéfinit l'acte d'écouter de la musique. L'acoustique des grands fonds est le format optimisé pour cela et continuera à se développer avec les applications.
+Ambient Techno / Deep Ambient redéfinit l'acte d'écouter de la musique. L’acoustique des grands fonds est le format optimisé pour cela et continuera à se développer avec les applications.
 
 ---
 

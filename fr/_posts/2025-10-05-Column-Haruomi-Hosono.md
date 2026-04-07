@@ -21,7 +21,7 @@ Texte : mmr｜Thème : De Happy End à YMO en passant par Ambient – Retrac
 
 **Haruomi Hosono** est un musicien qui continue de transformer la musique pop japonaise depuis un demi-siècle.
 De la fin des années 1960 jusqu’à aujourd’hui, sa musique s’est creusée un horizon unique en « déplaçant l’époque » plutôt qu’en « définissant l’époque ».
-Diverses cultures, humour, nostalgie, technologie, tout cela se fond dans le son de Hosono.
+Diverses cultures, humour, nostalgie, technologie : tout cela se mélange dans le son de Hosono.
 
 ---
 
@@ -64,7 +64,7 @@ Durant cette période, Hosono a joué un rôle important dans la composition mus
 Des chansons telles que « It's Summer » et « Gather the Wind » ont un son urbain mais nostalgique.
 
 #### Contexte historique
-En pleine croissance économique d’après-guerre.
+Au milieu d’une forte croissance économique après la guerre.
 Avec l'essor du folk et du GS, la recherche d'une nouvelle expression appelée « rock japonais » a commencé.
 Happy End a été le premier groupe à explorer « des rythmes japonais qui n'étaient pas des imitations de l'anglais ».
 
@@ -145,7 +145,7 @@ Le Japon après le choc pétrolier. Mon désir de voyages à l’étranger et de
 #### Environnement de production
 Enregistré à la maison/studio "HOSONO HOUSE" (Saitama, Sayama).
 Ils ont transformé le salon d'une maison en bois en studio et ont enregistré à l'aide d'une bande analogique et d'un simple mixeur.
-Ce style d'enregistrement à domicile est devenu l'origine de la culture pop urbaine et de l'enregistrement à domicile plus tard.
+Ce style d'enregistrement à domicile est devenu l'origine de la culture pop urbaine et de l'enregistrement à domicile.
 
 #### Anecdote
 Pendant l'enregistrement de "HOSONO HOUSE", le disjoncteur s'est déclenché à plusieurs reprises.

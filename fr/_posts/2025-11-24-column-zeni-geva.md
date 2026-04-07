@@ -69,7 +69,7 @@ Le premier album complet enregistré par Albini.
 La violence de Zeni Geva et le son sec et direct d'Albini s'accordent parfaitement, ce qui leur vaut de très bonnes critiques à l'étranger.
 
 ### "Désir d'agonie (1993)"
-- Sortie du label américain **Alternative Tentacles** (organisé par Jello Biafra)
+- Sorti du label américain **Alternative Tentacles** (organisé par Jello Biafra)
 - La tournée à l'étranger commence sérieusement
 - A sorti de nombreux EP et singles à peu près à la même époque (Nai-Ha, Disgraceland, etc.)
 

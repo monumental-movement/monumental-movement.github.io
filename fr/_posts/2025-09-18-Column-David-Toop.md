@@ -92,7 +92,7 @@ On peut dire que c’est l’époque où s’impose le style de Toop, qui allie 
 
 « Ocean of Sound », connu pour sa métaphore de « mer de son », contenait des idées qui anticipaient la propagation du streaming.
 Le texte, qui est une fusion d'essais, de critique et de littérature, dépasse le cadre d'un livre de musique et fonctionne comme une « littérature auditive ».
-Ses œuvres ambiantes présentaient également un monde de sons doux et diffus.
+Ses propres œuvres ambiantes présentaient également un monde de sons doux et diffus.
 
 | Année | Sources sonores/artistes en vedette | Commentaire |
 |------|------|------|
@@ -117,7 +117,7 @@ Il a étendu ses activités au domaine des beaux-arts et de l'art sonore, élarg
 
 ---
 
-### Conclusion - Praticiens sans genre
+### Conclusion - Praticien sans genre
 
 Le parcours de David Toop est une exploration d'un demi-siècle de la façon d'écouter de la musique.
 Jazz, hip-hop, ambient, art sonore - il ne rentre dans aucun d'entre eux, mais continue plutôt d'élargir les « possibilités du son lui-même » en transcendant ces frontières.

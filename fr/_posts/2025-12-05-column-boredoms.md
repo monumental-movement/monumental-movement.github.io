@@ -19,7 +19,7 @@ title: '[Chronique] L''ennui : la trajectoire du bâtisseur du chaos et de l''u
 
 ## Prologue : Qui étaient les Ennuis ?
 
-Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment sa forme d'œuvre, ses performances live et ses unités dérivées se sont développées.
+Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment leur forme de travail, leurs performances live et leurs unités dérivées se sont développées.
 
 Dans l'histoire de la musique japonaise, les **ennuis** occupent une position unique en tant qu'entité qui ne peut être pleinement expliquée dans aucun contexte.
 Formés à Osaka à la fin des années 1980, ils ont influencé les musiciens du monde entier, se transformant en ensembles noise, hardcore, avant-gardiste, psychédélique et plus tard rythmiques.
@@ -73,7 +73,7 @@ Les performances live de Hanatarash sont connues pour leur caractère extrême e
 L'ennui a commencé à Osaka vers 1986, et les premiers membres comprenaient **Ai Yamazuka, Mitsuru Tabata, Toyohito Yoshikawa et HIRA**.
 Leurs premiers travaux étaient un mélange dense de la vitesse du hardcore et du pouvoir destructeur du bruit, avec des structures alternant entre cris, rythmes fragmentés et silences soudains.
 
-En 1988, ils ont commencé à attirer l’attention sur la scène indépendante étrangère et sont devenus un sujet brûlant dans la communauté underground des États-Unis.
+En 1988, ils ont commencé à attirer l’attention sur la scène indépendante d’outre-mer et sont devenus un sujet brûlant dans la communauté underground des États-Unis.
 En 1989, ils ont été fortement soutenus par **Sonic Youth** et grâce à leurs interactions, ils ont été connectés aux grands groupes indépendants américains.
 
 ### Structure musicale des premiers ennuis
@@ -105,7 +105,7 @@ Les performances live de cette période étaient toujours imprévisibles et l'ac
 « Super æ » (Super æ) de 1998 est une œuvre qui conserve les éléments traditionnels du mélange sonore, mais met grandement l'accent sur l'ordre sonore, la répétition et le minimalisme.
 Le son s'est superposé, un sentiment de transe s'est glissé dans le rythme répétitif, et il a commencé à prendre une sensation psychédélique.
 
-### 3-2. Le summum de « Vision Création Newsun »
+### 3-2. Le summum de « Vision Creation Newsun »
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZPtaUSEvf8?si=fmN--hwnaNjaAAFu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Chapitre 5 : Activités depuis les années 2010
-Depuis les années 2010, Boredoms continue de donner des performances live par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
+Depuis les années 2010, Boredoms continue de se produire en direct par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
 En particulier, **les activités d'art visuel de Eye** et **les activités de Yoshimi avec OOIOO/SAICOBABA** se sont développées, donnant l'impression que Boredoms était plus un « projet collectif » qu'un « groupe ».
 
 ---

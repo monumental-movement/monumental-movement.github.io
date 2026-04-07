@@ -22,7 +22,7 @@ title: '[Chronique] Le Premier ministre Sanae Takaichi et le métal : volonté d
 Texte : mmr｜Thème : Un homme politique qui aime le heavy metal – Sanae Takaichi. Comment sa sensibilité musicale a-t-elle donné une résonance d’acier à ses paroles, ses politiques et ses idées ?
 
 
-Sanae Takaichi est souvent décrite comme une « conservatrice », une « femme forte d'esprit » et une « femme combattante ». Cependant, l'impact de la musique heavy metal qu'il a entendu quand il était jeune est à l'origine de cette musique. Le métal est une musique de passion et de construction, un art qui confine la passion dans l'ordre. Le groupe de son école jouait des chansons de Black Sabbath et Deep Purple, et elle aime aussi écouter des groupes comme Judas Priest, et ces sensibilités forment le « squelette acoustique » de son langage politique et de sa vision culturelle.
+Sanae Takaichi est souvent décrit comme un « conservateur », « un esprit fort » et « une femme combattante ». Cependant, à l'origine de ce phénomène réside l'impact de la musique heavy metal qu'il a entendu dans sa jeunesse. Le métal est une musique de passion et de construction, un art qui confine la passion dans l'ordre. Le groupe de son école jouait des chansons de Black Sabbath et Deep Purple, et elle aime aussi écouter des groupes comme Judas Priest, et ces sensibilités forment le « squelette acoustique » de son langage politique et de sa vision culturelle.
 
 ---
 
@@ -56,9 +56,9 @@ Tout comme le métal est « un art qui transforme le chaos en ordre », le disco
 
 ---
 
-## Chapitre 2 : Construire la voix ——La politique de la voix métallique
+## Chapitre 2 : Construire une voix——La politique de la voix métallique
 
-Pour les hommes politiques, leur « voix » est un instrument qui incarne leurs idées. La vocalisation de Takaichi est particulièrement faible et stable parmi les femmes politiques. Acoustiquement, il est basé sur le médium-bas (environ 170-180 Hz), avec peu de fluctuation de hauteur, rappelant le « contrôle d'acier » du chant métal.
+Pour les hommes politiques, leur « voix » est un instrument qui incarne leurs idées. La vocalisation de Takaichi est particulièrement faible et stable parmi les femmes politiques. Acoustiquement, il est basé sur le médium-bas (environ 170-180 Hz), avec peu de variation de hauteur, rappelant le « contrôle d'acier » du chant métal.
 
 «La voix est l'art de faire résonner ses émotions sans les laisser se déchaîner.» Comme le symbolisent ces mots, elle vit la politique comme une «structure de fer».
 
@@ -182,11 +182,11 @@ flowchart LR
 | ----------------- | ------------ | ---- | -------------------------- | --------------------------------------------- |
 | **Sabbat noir** | **Sabbat noir** | 1970 | Une œuvre qui serait la naissance du premier heavy metal au monde. L'assombrissement des bleus et la cloche de l'église SE sont symboliques.            |
 | | **Paranoïaque** | 1970 | Un chef-d'œuvre qui a établi le prototype du métal. Rapidité, sociabilité et sérieux cohabitent.    |
-| | **Maître de la réalité** | 1971 | Evolution des basses lourdes avec réglage drop D. Le père du doom metal.      |
+| | **Maître de la réalité** | 1971 | Evolution des basses profondes avec réglage drop D. Le père du doom metal.      |
 | **Violet profond** | **Violet profond dans le rock** | 1970 | Un chef-d’œuvre qui a posé les bases du hard rock. Une fusion de beauté compositionnelle classique et de puissance explosive.                    |
 | | **Boule de feu** | 1971 | Plus agressif et expérimental. Il y a un fort changement de tempo et une sensation de blues.                  |
 | | **Tête de machine** | 1972 | Un niveau de perfection qui reste dans l’histoire du rock. Le nombre d’or du riff et du groove.          |
-| **Prêtre Judas** | **Tristes Ailes du Destin** | 1976 | Une esthétique métal faite de mélancolie et de lyrisme s’instaure. Le prototype de twin leads.                           |
+| **Prêtre Judas** | **Tristes Ailes du Destin** | 1976 | Une esthétique métal faite de mélancolie et de lyrisme s’instaure. Le prototype du twin lead.                           |
 | | **Péché après péché** | 1977 | Premier travail majeur. Produit par Roger Glover (Deep Purple). Une évolution dramatique. |
 | | **Classe tachée** | 1978 | Les débuts du speed metal. Image sonore précise et froide.          |
 

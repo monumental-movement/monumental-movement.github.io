@@ -14,7 +14,7 @@ title: '[Chronique] Interaction post-rock/ambient avec le cinéma et l''architec
 ---
 
 
-## Interaction avec le cinéma et l'architecture post-rock/ambient
+## Interaction avec le cinéma et l'architecture post-rock/ambiant
 
 Texte : mmr｜Thème : Post Rock/Ambient et films/architecture
 

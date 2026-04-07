@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Oliver Ho – Sentence
+title: Oliver Ho – Sentience
 ---
 
 

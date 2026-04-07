@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Préhistoire : Contexte de l'ère des équipements/synthés matériels analogiques
+## Préhistoire : Contexte de l'ère des équipements/synthés analogiques
 Si l'on regarde la scène de la musique électronique et de la musique de club, des années 1980 au milieu des années 1990, de nombreux instruments célèbres occupaient des positions importantes en tant qu'« équipement ». Parmi eux, les Roland TB-303 (synthétiseur de basse) et TR-808/TR-909 (boites à rythmes) ont été les catalyseurs qui ont changé le ton, le style de performance et la culture.
 
 ### Naissance du TB‑303 et de « l’acide »
@@ -51,7 +51,7 @@ Cependant, à la fin des années 1980, dans le contexte du club house/acid house
 Cependant, la manipulation du TB-303 nécessitait des habitudes et des compétences uniques pour définir le nombre de notes, d'accents, de diapositives et pour utiliser le séquenceur pas à pas. De plus, ce n’était pas un équipement facilement utilisable par tous, car il y en avait peu en circulation et son prix montait en flèche.
 
 ### TR‑808/TR‑909 et équipement rythmique standard
-À peu près à la même époque, les TR‑808 (début des années 1980) et TR‑909 (milieu des années 1980) gagnaient en popularité en tant que machines à rythmes. En particulier, le son de kick "boom-bon", le claquement et le charleston aigu du 808, ainsi que le son de kick et de cymbale percutant du 909 sont devenus des sons standards dans la house, la techno et le hip-hop.
+À peu près à la même époque, les TR‑808 (début des années 1980) et TR‑909 (milieu des années 1980) gagnaient en popularité en tant que machines à rythmes. En particulier, le son de kick "boom-bon", le snap et le charleston aigu du 808, ainsi que le son de kick et de cymbale percutant du 909 sont devenus des sons standards dans la house, la techno et le hip-hop.
 Cependant, ces appareils présentaient également des problèmes et des contraintes pratiques telles que l'entretien, la réparation, la stabilité sonore et le transport, qui posaient des obstacles à leur utilisation.
 
 ### Signes de changements dans l'environnement de production
@@ -69,7 +69,7 @@ L'approche choisie par Propellerhead était de « réinterpréter le son, l'opé
 En d'autres termes, les « équipements » tels que les TB-303 et TR-808/909 se transforment en un « outil logiciel » en réponse aux changements des temps et de l'environnement. On peut dire que cette idée elle-même a bouleversé le style de production traditionnel centré sur la possession d’équipement.
 
 De plus, ReBirth n'était pas seulement un logiciel de source sonore ; il avait le potentiel d'être utile pour l'ensemble du flux de production, comme les fonctions de commutation séquenceur/motif, l'entrée/sortie MIDI et la synchronisation avec d'autres logiciels (plus tard compatible ReWire).
-De cette manière, l'apparition de ReBirth est devenue un exemple de « reconstruction d'équipement à l'aide de logiciels » et a servi d'opportunité d'élargir considérablement « l'entrée » à la production de musique électronique.
+De cette manière, l'apparition de ReBirth est devenue un cas modèle pour « reconstruire des équipements à l'aide de logiciels » et a servi d'opportunité d'élargir considérablement « l'entrée » à la production de musique électronique.
 
 ---
 
@@ -85,11 +85,11 @@ Examinons certaines des caractéristiques de ReBirth.
 
 ### « Démocratisation » de l'expérience utilisateur et de l'opérabilité
 Ces fonctionnalités signifiaient que « même si vous ne possédiez pas l'équipement, vous pouviez obtenir, programmer et transmettre des sons similaires à ceux de l'équipement », ou en d'autres termes, « l'accès à la production musicale s'est élargi ».
-À l’époque, l’acquisition, la maintenance et l’exploitation des TB-303 et TR-808/909 représentaient un obstacle majeur pour de nombreux créateurs et producteurs. Cependant, avec ReBirth, vous pouvez générer des sons « similaires » à condition de disposer d'un environnement informatique, et les fonctionnalités telles que la « commutation de motif » et la « configuration du séquenceur » sont devenues beaucoup plus faciles.
+À l’époque, l’acquisition, la maintenance et l’exploitation des TB-303 et TR-808/909 représentaient un obstacle majeur pour de nombreux créateurs et producteurs. Cependant, avec ReBirth, vous pouvez générer des sons similaires avec un simple environnement informatique, et les fonctionnalités telles que le changement de motif et la configuration du séquenceur sont devenues beaucoup plus faciles.
 Par exemple, un utilisateur a déclaré (via Reddit) :
 > "Les 303 sont définitivement des synthés logiciels... Les 808 et 909 étaient définitivement des échantillons et non des émulations de synthétiseur. J'ai passé un temps ridicule à utiliser Rebirth et beaucoup de ses mods."
 
-Il est également intéressant de noter que ce type de « culture du mod (modification par l'utilisateur) » est né. ReBirth possède également des fonctions telles que « changement de peau » et « changement de son (mod utilisateur) », et une culture s'est développée dans laquelle les utilisateurs peuvent profiter de la modification et du partage de l'interface et des sons eux-mêmes.
+Il est également intéressant que ce type de « culture du mod (modification par l'utilisateur) » soit né. ReBirth possède également des fonctions telles que « changement de peau » et « changement de son (mod utilisateur) », et une culture s'est développée dans laquelle les utilisateurs peuvent profiter de la modification et du partage de l'interface et des sons eux-mêmes.
 
 ### Limites technologiques et évitement habile
 De plus, ReBirth n’était pas non plus une panacée. La puissance de traitement du PC, les performances de la carte son, la latence (délai) et la réalité sonore (caractéristiques physiques des circuits analogiques) étaient inférieures à certains égards à l'équipement matériel. Par exemple, il y a des critiques selon lesquelles il ne reproduit pas complètement le « bruit/habitudes/distorsion » du vrai TB-303.
@@ -148,10 +148,10 @@ Alors que ReBirth est devenu très populaire quelques années après son introdu
 
 ### Flux et signification du bureau au mobile
 Après la fin du support de ReBirth, ses idées et fonctionnalités ont été héritées par d'autres logiciels et applications mobiles. La sortie de la version iOS en est un symbole. La tendance consistant à « adoucir l'expérience mécanique » à l'aide de la plateforme smartphone/tablette a commencé à prendre de l'ampleur.
-D'un autre côté, plusieurs années après la sortie de la version mobile, elle a également été supprimée de l'App Store en raison de problèmes de droits de propriété intellectuelle et de marques. Cet incident a démontré une fois de plus que les équipements logiciels touchent les « limites de la propriété intellectuelle ».
+D'un autre côté, plusieurs années après la sortie de la version mobile, elle a également été supprimée de l'App Store en raison de problèmes de droits de propriété intellectuelle et de marques. Cet incident a démontré une fois de plus que les équipements logiciels touchent aux « limites de la propriété intellectuelle ».
 
 ### « La Fin » et sa lecture
-Bien que le logiciel appelé ReBirth n’ait pas continué à être utilisé activement, sa « mort » elle-même a plusieurs niveaux de signification.
+Bien que le logiciel ReBirth n’ait pas continué à se développer sous sa forme actuelle, sa « mort » elle-même a plusieurs niveaux de signification.
 - L'une des raisons est que la tendance de l'équipement au logiciel a atteint un certain niveau de maturité et est passée à « l'étape suivante ».
 - En outre, les problèmes de propriété intellectuelle, d'émulation, de propriété et d'accès sont devenus plus apparents que prévu.
 - Et à mesure que les environnements personnels de production/centrés sur les logiciels sont devenus monnaie courante, le thème de la « reproduction d'équipements matériels avec des logiciels » a commencé à être reconsidéré.
@@ -176,8 +176,8 @@ D'un autre côté, à mesure que les logiciels progressent, des éléments ont t
 De ce point de vue, on peut dire que ReBirth a visualisé les différences, les attraits et les limites des équipements matériels et souples. Et aujourd’hui, la tendance actuelle des équipements hybrides matériel + logiciel (contrôleur + source sonore soft) et le renouveau des synthés modulaires ont hérité de ces questions.
 
 ### Réinterprétation/Rétro régression et culture de modification
-ReBirth avait une culture « mod » qui permettait aux utilisateurs de modifier les skins et les sons. Cela a favorisé une attitude de créateur consistant non seulement à utiliser les outils de production, mais également à les modifier, les partager et les reconstruire. Ces tendances ont contribué en grande partie à la diffusion de la culture d’échange d’échantillons open source/sources sonores personnalisées/échantillons aujourd’hui.
-En outre, il existe des rapports faisant état d'un projet visant à transformer ReBirth en un contrôleur/module dur vers 2023. Cela peut également être considéré comme une extension de la « libre possibilité de modification » apportée par le logiciel.
+ReBirth avait une culture « mod » qui permettait aux utilisateurs de modifier les skins et les sons. Cela a favorisé une attitude de créateur consistant non seulement à utiliser les outils de production, mais également à les modifier, les partager et les reconstruire. Ces tendances ont contribué en grande partie à la propagation de la culture d’échange d’échantillons open source/sources sonores personnalisées/échantillons aujourd’hui.
+En outre, il existe des rapports faisant état d'un projet visant à transformer ReBirth en un contrôleur/module dur vers 2023. Cela peut également être considéré comme une extension de la « possibilité gratuite de modification » apportée par le logiciel.
 
 ---
 

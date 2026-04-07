@@ -21,7 +21,7 @@ title: '[Chronique] Histoire de l''intersection du hard rock et de la culture du
 Texte : mmr｜Thème : Relation entre hard rock et culture gaming
 
 
-Le hard rock est né du blues rock et du rock psychédélique à la fin des années 1960 et a explosé en popularité dans les années 1970. D’un autre côté, la culture du jeu vidéo a commencé à émerger à la fin des années 1970 et s’est imposée comme culture populaire dans les années 1980. Bien que les deux se soient développés indépendamment, ils ont partagé l’impact du son, de l’esthétique visuelle et de la culture de la jeunesse, créant des intersections inattendues à chaque époque. Ici, nous organiserons les relations par époque et reviendrons sur les liens entre les chefs-d’œuvre représentatifs et la culture du jeu vidéo.
+Le hard rock est né du blues rock et du rock psychédélique à la fin des années 1960 et a explosé en popularité dans les années 1970. D’un autre côté, la culture du jeu vidéo a commencé à émerger à la fin des années 1970 et s’est imposée comme culture populaire dans les années 1980. Bien que les deux se soient développés indépendamment, ils ont partagé l’impact du son, de l’esthétique visuelle et de la culture de la jeunesse, créant des intersections inattendues à chaque époque. Ici, nous organiserons les relations par époque et reviendrons sur les liens entre les chefs-d’œuvre représentatifs et la culture du jeu.
 
 ---
 
@@ -124,7 +124,7 @@ color: #fff;
 **Chef-d'œuvre représentatif**
 
 - Guns N' Roses – *Utilisez votre illusion I et II* (1991)
-- Metallica – *Metallica (Album noir)* (1991)
+- Metallica – * Metallica (Album noir) * (1991)
 - Aerosmith – *Prenez une prise* (1993)
 
 **10 morceaux recommandés**
@@ -171,8 +171,8 @@ color: #fff;
 |------|--------------|
 | À la fin | Parc Linkin |
 | Ramper | Parc Linkin |
-| Hachez Suey ! | Système d'un Down |
-| Toxicité | Système d'un Down |
+| Hachez Suey ! | Système d'un duvet |
+| Toxicité | Système d'un duvet |
 | Cochise | Audioesclave |
 | Comme une pierre | Audioesclave |
 | Engourdi | Parc Linkin |
@@ -235,7 +235,7 @@ color: #fff;
 
 ## Liste des chansons de hard rock incluses dans le jeu musical
 
-Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band** ont joué un rôle important en faisant connaître les classiques du hard rock du passé à une nouvelle génération. De plus, de nombreuses interprétations uniques du hard rock sont apparues dans les jeux musicaux d’arcade japonais. Ce qui suit est un exemple d’enregistrement typique.
+Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band** ont joué un rôle important en faisant connaître les classiques du hard rock du passé à une nouvelle génération. De plus, de nombreuses interprétations uniques du hard rock sont apparues dans les jeux musicaux d’arcade japonais. Vous trouverez ci-dessous des exemples d'enregistrement typiques.
 
 ---
 
@@ -292,7 +292,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 ---
 
-### Bandai Namco : Série Taiko no Tatsujin
+### Bandai Namco : série Taiko no Tatsujin
 
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|

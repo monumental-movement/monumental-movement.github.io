@@ -26,7 +26,7 @@ Lorsqu'on évoque l'histoire musicale de Détroit, l'accent est souvent mis sur 
 Une personne au centre de tout cela est **Waajeed**.
 Débutant sa carrière dans Slum Village, il a continué à faire de l'esthétique musicale de Détroit une « plateforme de connexion avec le futur » avec Platinum Pied Pipers (PPP), Tiny Hearts et son propre label **Dirt Tech Reck**.
 
-Depuis la fin des années 2010, il construit une œuvre qui suit plus directement le flow de la house/techno de Détroit, tout en mettant également au premier plan l’expression des racines noires.
+Depuis la fin des années 2010, il construit une œuvre qui suit plus directement le flux house/techno de Détroit, tout en mettant également au premier plan l’expression des racines noires.
 En particulier, **``Shango EP'' (2017)** et l'un de leurs chefs-d'œuvre actuels, **``Mother EP'' (2018)** se positionnent comme des œuvres qui présentent fortement la spiritualité et la nature communautaire de la musique de club tout en héritant des traditions de Détroit.
 
 
@@ -52,7 +52,7 @@ Waajeed (de son vrai nom Robert O'Bryant) est né à Détroit à la fin des ann�
 Le nom de l'artiste est d'origine arabe et dérive d'un mot signifiant « trouver » ou « découvrir ».
 
 Dès son plus jeune âge, il a grandi dans un environnement influencé par la **culture soul/gospel de Détroit**, et est ensuite entré en contact avec Slum Village.
-À la fin des années 1990 et au début des années 2000, Détroit créait un nouveau standard pour le néo-soul/hip-hop, symbolisé par J Dilla. Waajeed était à l'avant-garde dans ce domaine et, tout en travaillant également comme photographe, il s'est tourné vers la production musicale.
+À la fin des années 1990 et au début des années 2000, Détroit créait un nouveau standard pour le néo-soul/hip-hop, symbolisé par J Dilla. A l'avant-garde dans ce domaine, Waajeed s'est tourné vers la production musicale tout en travaillant également comme photographe.
 
 ### **Quantity Relation avec le village des bidonvilles**
 
@@ -61,7 +61,7 @@ Dès son plus jeune âge, il a grandi dans un environnement influencé par la **
 * Directement influencé par la créativité de J Dilla
 
 Ce que Waajeed a absorbé ici, c'était bien plus que la simple création de beats.
-**L'attitude est de « réaliser l'héritage de la musique noire comme une « réinvention » pour l'ère moderne. »**
+**L'attitude est de réaliser l'héritage de la musique noire comme une « réinvention » à l'ère moderne**.
 
 ---
 
@@ -119,7 +119,7 @@ Sorti en 2017, **Shango EP** a marqué un tournant important dans la carrière d
 
 Le titre **« Shango »** est une divinité qui apparaît dans la religion traditionnelle ouest-africaine et est un symbole qui relie la spiritualité de la diaspora afro à l'histoire de la musique noire.
 
-Sur cet EP, Waajeed :
+Sur cet EP Waajeed :
 
 * Structure house/techno beat de Détroit
 * Percussions afro
@@ -207,7 +207,7 @@ Ceci est encore plus prononcé sur Mother, donnant au morceau du club une profon
 
 ### **weight Hybride de son live et de son électronique**
 
-La technique consistant à mélanger naturellement synthés, pads, piano électrique, batterie live, percussions, etc. est également le résultat de « l'entraînement de l'oreille » de l'ère hip-hop.
+La technique consistant à mélanger naturellement synthés, pads, piano électrique, batterie live, percussions, etc. est aussi le résultat de « l'entraînement de l'oreille » de l'ère hip-hop.
 
 ---
 
@@ -217,7 +217,7 @@ La technique consistant à mélanger naturellement synthés, pads, piano électr
 
 * **PPP『Triple P』(2005)**
 * **PPA『Abondance』(2009)**
-* **« La guerre LP » (2012)**
+* **『The War LP』(2012)**
 * **『Shango EP』(2017)**
 * **『De la saleté』(2017)**
 * **« Ten Toes Down EP » (2018)**

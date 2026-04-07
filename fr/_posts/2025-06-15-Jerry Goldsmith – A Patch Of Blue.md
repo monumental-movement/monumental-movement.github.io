@@ -16,7 +16,7 @@ title: Jerry Goldsmith – Un patch de bleu
 
 Bande originale du film américain de 1965 « A Patch of Blue ». Réédition sortie en 1978.
 
-Jerry Goldsmith a composé les musiques de plus de 170 films, dont « La Planète des singes », « Papillon », « The Omen », « Alien », « Poltergeist », « Rambo » et « Star Trek ».
+Jerry Goldsmith a composé la musique de plus de 170 films, dont « La Planète des singes », « Papillon », « The Omen », « Alien », « Poltergeist », « Rambo » et « Star Trek ».
 
 
 #### Liste des chansons

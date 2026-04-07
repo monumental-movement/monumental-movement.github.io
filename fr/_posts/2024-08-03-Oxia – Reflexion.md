@@ -21,7 +21,7 @@ Un morceau techno d'Olivier Raymond, également connu sous le nom d'Oxia, DJ et 
 Le premier morceau de la face A est un remix de Samuel Geiser, également connu sous le nom de Deetron, DJ et producteur suisse qui dirige le label Techno/House Character.
 
 Le premier morceau de la face B est un remix du DJ/producteur français Techno/Electro/Melodic Techno Kiko et Stéphane Deschezeaux, qui dirigent le label nu disco français Springbok Records.
-La deuxième chanson de la face B est un remix du musicien/DJ français Michel Amato, alias The Hacker.
+La deuxième chanson de la face B est un remix du musicien/DJ français Michel Amato, également connu sous le nom de The Hacker.
 
 #### Liste des chansons
 ```md

@@ -10,7 +10,7 @@ tags:
 - House
 - Remix
 - 90s
-title: Joi Cardwell - Vous devez prier
+title: Joi Cardwell – Tu dois prier
 ---
 
 

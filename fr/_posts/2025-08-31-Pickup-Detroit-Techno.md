@@ -21,7 +21,7 @@ title: Récupération des œuvres de Detroit Techno
 ### Claude Young – The Dexit E.P.
 <a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
 
-Caractéristiques : 1997, du label belge Elypsia. Ce travail combine le respect de Détroit avec mon propre sens de l'exploration.
+Caractéristiques : : 1997, du label belge Elypsia. Ce travail combine le respect de Détroit avec mon propre sens de l'exploration.
 
 Points recommandés : Il présente une touche unique en matière de développement minimal sérieux et constitue une pièce sur laquelle vous pouvez compter lorsque vous souhaitez maintenir un flux serré dans votre ensemble.
 
@@ -46,7 +46,7 @@ B2. Fade
 
 
 
-### Modèle 500 – Espace lointain
+### Modèle 500 – Espace profond
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
@@ -112,7 +112,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 Caractéristiques : Image sonore dramatique qui combine ambient, breakbeat, futur jazz, etc. avec une base minimaliste.
 
-Points recommandés : Un album plein de profondeur et de sophistication qui emmène l'auditeur dans un voyage émotionnel. C'est une œuvre que les DJ et les auditeurs voudront écouter attentivement.
+Points recommandés : Un album plein de profondeur et de sophistication qui emmène l'auditeur dans un voyage émotionnel. C’est une œuvre que les DJ et les auditeurs voudront écouter attentivement.
 
 #### Liste des chansons
 ```md

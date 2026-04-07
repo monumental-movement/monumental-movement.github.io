@@ -9,7 +9,7 @@ permalink: /fr/girl-eats-boy-thrilled-by-velocity-and-distortion/
 tags:
 - House
 - UK House
-title: Girl Eats Boy – Enthousiasmé par la vélocité et la distorsion
+title: Girl Eats Boy – Ravi par la vélocité et la distorsion
 ---
 
 

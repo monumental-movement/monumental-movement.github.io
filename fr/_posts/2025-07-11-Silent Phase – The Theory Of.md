@@ -14,7 +14,7 @@ title: Phase silencieuse – (La théorie de)
 ---
 
 
-Stacey Pullen, également connue sous le nom de Silent Phase, était une DJ et productrice techno de Détroit active dans les années 1990. Les autres noms incluent Kosmic Messenger et Bango. Cet album est leur seul album sous le nom de Silent Phase et présente un son profond et doux qui mélange jazz, ambient, IDM et techno. Il a été salué comme une pièce techno artistique de Détroit.
+Stacey Pullen, également connue sous le nom de Silent Phase, était une DJ et productrice techno de Détroit active dans les années 1990. Les autres noms incluent Kosmic Messenger et Bango. Cet album est leur seul album sous le nom de Silent Phase et présente un son profond et doux qui mélange jazz, ambient, IDM et techno. Il a été salué comme une pièce techno artistique de Detroit.
 
 Il a été publié par Transmat de Derrick May, l'un des labels techno les plus importants établis à Détroit avant 1990 (distribué par Planet E de Carl Craig), et par le label indépendant belge R&S Records. Ce CD est une édition belge.
 

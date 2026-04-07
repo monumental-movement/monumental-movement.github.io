@@ -22,7 +22,7 @@ Texte : mmr｜Thème : À propos du jalon artistique de la seconde moitié du 
 
 "Koyanisqatsi, réalisé par Godfrey Reggio et mis en musique par Philip Glass, est une œuvre qui a fondamentalement changé les horizons du cinéma et de la musique dans la seconde moitié du XXe siècle."
 
-> « La vie déséquilibrée. »
+> « La vie déséquilibrée. »
 > ― Koyaanisqatsi (Hopi)
 
 
@@ -123,10 +123,10 @@ Reggio est également une figure spirituelle ayant vécu dans un monastère, et 
 | ----------- | -------- | ---------- |
 | Nature sauvage et lancement de fusée | Son d'orgue soutenu | Contraste entre la vie et la machine |
 | Transports urbains/usines | Répétition de séquences | Cycle de travail sans fin |
-| Gros plan du visage | Chorus et décélération | Questions sur le rétablissement de l'humanité |
+| Gros plan du visage | Chorus et décélération | Questions sur la restauration de l'humanité |
 | Fusée qui s'effondre | Silence et décadence | Fin de la civilisation et renaissance |
 
-Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de l'image.
+Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de la vidéo.
 
 ---
 
@@ -195,6 +195,15 @@ Au moment où la musique de Glass s'estompe doucement, le public est soudainemen
 Il ne s’agit pas d’un effondrement de la civilisation, mais d’un espace vide pour la renaissance.
 
 > Quand le son s'arrête, on commence enfin à entendre le monde.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sr4ghQOrsb4?si=mpTXbUWKJQCXwuNV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

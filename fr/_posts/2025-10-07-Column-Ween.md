@@ -48,7 +48,7 @@ Un quartier résidentiel calme de Pennsylvanie au milieu des années 1980.
 Deux garçons s'emparent d'une cassette et d'un enregistreur 4 pistes et entament un étrange rituel.
 **Aaron Freeman (Gene Ween)** et **Mickey Melchiondo (Dean Ween)**.
 
-Le « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
+L'existence de « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
 Dieu fictif du rire et de la folie, il était un symbole de la musique de Ween elle-même.
 Les bruits, les voix étranges et les changements de tonalité inhabituels qui étaient dispersés dans les enregistrements personnels ont tous été bénis par Boognish.
 
@@ -62,7 +62,7 @@ Les bruits, les voix étranges et les changements de tonalité inhabituels qui �
 ### Gene et Dean – frères imaginaires ou doubles spirituels ?
 
 Gène et Dean.
-La sonorité de leurs noms suggère « frères », mais ils ne sont pas liés par le sang.
+Bien que la sonorité de leurs noms suggère « frères », ils ne sont pas liés par le sang.
 Mais musicalement, ils étaient presque comme des jumeaux.
 Gene est l'incarnation de l'émotion et du chaos, Dean est le maître de la construction et de l'artisanat.
 Au moment où les deux entrent en collision, le chaos et la magie typiques de Ween naissent.
@@ -85,7 +85,7 @@ Le son des débuts de Ween était la magie de l'enregistrement à domicile sur *
 Laisse le bruit et la distorsion intacts. Ce n’était pas de la « saleté », c’était de la « vérité ».
 Leurs enregistrements maison sont une sorte d’alchimie lo-fi.
 The Pod est un mélange bizarre de rires morbides et de structure psychédélique.
-Cela mettait les auditeurs mal à l’aise tout en leur procurant un sentiment de plaisir addictif.
+Cela rendait les auditeurs anxieux, mais en même temps cela leur procurait un sentiment de plaisir addictif.
 
 ### Contact avec la scène underground
 
@@ -147,7 +147,7 @@ Un morceau monumental de pop psychédélique avec pour thème la mythologie océ
 La romance de Brian Wilson et la folie du capitaine Beefheart,
 C'est un album qui donne l'impression d'être enfermé dans une seule coque.
 
-Tous les enregistrements sont analogiques et utilisent une **bande 16 pistes**.
+Tous les enregistrements sont analogiques sur une **bande 16 pistes**.
 Même les fluctuations du bruit étaient contrôlées comme de la musique, créant un pseudo-son de fond marin.
 Des effets comme des échos de guitare, des harmoniques vocales et le bruit de la mer.
 Le son lui-même raconte le mythe des profondeurs marines.
@@ -166,7 +166,7 @@ C'était plus un rituel qu'un groupe.
 
 Mais en coulisses, des conflits éclataient entre alcool, drogue, fatigue et amitié.
 En 2008, Gene Ween quitte le groupe pour des raisons personnelles.
-Il a surmonté sa dépendance à l’alcool et a entamé un chemin tranquille vers le rétablissement.
+Il a surmonté sa dépendance à l’alcool et a entamé un chemin tranquille vers la guérison.
 Dean a formé **The Dean Ween Group** et a connecté l'esprit de Ween d'une autre manière.
 
 ---
@@ -254,7 +254,7 @@ Une mélodie de qualité B traitée comme une poubelle, une scène rurale à laq
 Rires ivres – ils ont récupéré tout cela et en ont fait un « mythe ».
 
 Ween n'a créé ni un genre ni un mouvement.
-Il s’agit d’une croyance infiniment croissante selon laquelle « on peut aimer n’importe quel type de musique ».
+Il s'agit d'une croyance infiniment croissante selon laquelle « on peut aimer n'importe quel type de musique ».
 Il y a la décadence du rock, l'intelligence du jazz, l'avenir de la techno,
 La chaleur du pays est également égale.
 

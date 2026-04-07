@@ -77,7 +77,7 @@ Tresor est un symbole de « la culture de réutilisation des ruines urbaines ».
 
 **Culture de club 24 heures sur 24**
 
-À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l’objet de convoitises mondiales.
+À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l'objet d'envie dans le monde entier.
 
 **Techno = identité urbaine**
 
@@ -85,7 +85,7 @@ L'influence de Tresor est à l'origine de la reconnaissance officielle par la vi
 
 <hr>
 
-### Déménagement et situation actuelle
+### Déménagement et statut actuel
 
 En 2005, le site d'origine a fermé ses portes, mais en 2007, il a déménagé dans une ancienne centrale électrique à Berlin-Est.
 
@@ -125,7 +125,7 @@ Aujourd'hui, des DJ du monde entier s'y produisent et il continue de servir de l
 
 - Esthétique du « lieu » qui réutilise les ruines
 
-- La raison pour laquelle Berlin est appelée "la capitale mondiale de la techno"
+- La raison pour laquelle Berlin est appelée la "capitale mondiale de la techno"
 
 <hr>
 

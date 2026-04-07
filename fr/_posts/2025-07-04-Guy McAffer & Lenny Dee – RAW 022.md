@@ -15,7 +15,7 @@ title: Guy McAffer et Lenny Dee – RAW 022
 
 Un morceau techno de Guy McAffer (Geezer), pilier de la scène acid techno underground londonienne, et Lenny Dee, DJ House, Techno, Gabber et propriétaire du label Industrial Strength depuis les années 1980.
 
-Le disque est sorti en 2004 sur le label techno de Guy McAffer, R.A.W. (Formes d'onde analogiques mûres).
+Ce disque est sorti en 2004 sur le label techno de Guy McAffer, R.A.W. (Formes d'onde analogiques mûres).
 
 
 #### Liste des chansons

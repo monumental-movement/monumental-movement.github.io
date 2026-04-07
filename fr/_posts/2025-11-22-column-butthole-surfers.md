@@ -72,7 +72,7 @@ Le premier son du groupe mélange la rapidité du punk/hardcore tardif avec l'am
 ### **Le Shah dort dans la tombe de Lee Harvey**
 
 * La guitare utilise principalement des feedbacks directement enregistrés
-* Le saxophone joue de manière irrégulière, détruisant la mélodie.
+* Le saxophone joue de manière irrégulière et détruit la mélodie.
 * Les paroles sont fragmentaires et axées sur la performance.
 
 ### **Dame Sniff**
@@ -92,7 +92,7 @@ flowchart TD
 
 ---
 
-#**3. Période chaotique des années 80 : Psychique… Impuissant… Le sac d’un autre homme (1984)**
+#**3. Période chaotique des années 80 : Psychic… Powerless… Another Man’s Sac (1984)**
 
 À l'époque, le live était une combinaison de séquences live-action 16 mm, de lumières stroboscopiques et de guitares noise, créant un espace « cérémonial » qui testait la tolérance du public.
 
@@ -140,7 +140,7 @@ flowchart TD
 #**5. Hairway to Steven (1988) : Plus long et plus structuré**
 
 Des chansons longues et des chansons courtes sont arrangées en alternance, et le « contour de la chanson » devient plus prononcé qu'auparavant.
-Afin d'améliorer la reproductibilité du live, l'enregistrement en studio a également progressé avec une répartition claire des rôles.
+Afin d'améliorer la reproductibilité du live, l'enregistrement en studio a également procédé à une répartition claire des rôles.
 
 <div class="mermaid">
 flowchart TD

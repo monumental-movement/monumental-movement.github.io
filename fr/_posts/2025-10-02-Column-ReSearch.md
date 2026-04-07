@@ -23,7 +23,7 @@ Texte : mmr｜Thème : À propos de « RE/Search », une archive historique des 
 
 
 V. Vale est un éditeur et éditeur basé à San Francisco depuis la fin des années 1970. Ses œuvres Search & Destroy et RE/Search sont devenues des archives importantes qui enregistraient systématiquement la culture underground.
-Dans cet article, nous revenons sur l’histoire de RE/Search par année et couvrons les événements liés à la musique, aux films et aux arts.
+Dans cet article, nous revenons sur l'histoire de RE/Search par année et couvrons les événements liés à la musique, aux films et aux arts.
 
 
 ---
@@ -123,7 +123,7 @@ Présentation de la modification corporelle comme « art ». Il a élevé la c
 John Waters a fourni de nombreux matériaux lors de la production d'Incredably Strange Films. «Vale était le seul endroit qui considérait mes films comme ayant une valeur culturelle», se souvient-il.
 
 - **Dossier spécial Ballard et littérature sur la sous-culture**
-En 1988, il se rend à Londres pour interviewer J.G. Ballard en personne. Ballard a déclaré : « Je n'aurais jamais pensé que les gens qui liraient mes romans seraient la génération punk. »
+En 1988, il se rend à Londres pour interviewer J.G. Ballard en personne. Ballard a déclaré: «Je n'aurais jamais pensé que les gens qui liraient mes romans seraient la génération punk.»
 
 - **Difficultés de financement et poursuite de la culture zine**
 Même si sa diffusion était faible, son lectorat s'étendait dans le monde entier, et Vale a déclaré : « Un lectorat passionné est plus important qu'une diffusion de masse. »

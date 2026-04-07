@@ -50,7 +50,7 @@ Sa ville natale est Orcas Island, dans l'État de Washington, au nord-ouest des 
 
 La brise de l'île, le bruissement du vent dans les arbres, le chant des oiseaux, les ondulations de l'eau... ces sensations naturelles et ces sons environnementaux ont été inculqués dans ses oreilles et son corps au fur et à mesure qu'elle grandissait.
 
-Parallèlement, il est exposé dès son plus jeune âge aux instruments traditionnels tels que le piano et la guitare et s'essaye à la composition musicale, développant ainsi son sens de la tonalité et de la musique. Cet environnement de « nature x instruments traditionnels x apprentissage indépendant » est devenu la base du passage ultérieur au module.
+Parallèlement, il est exposé dès son plus jeune âge aux instruments traditionnels tels que le piano et la guitare et s'essaye à la composition musicale, développant ainsi son sens de la hauteur et de la musique. Cet environnement de « nature x instruments traditionnels x apprentissage indépendant » est devenu la base du passage ultérieur au module.
 
 Ces expériences lui ont fourni les axes du « naturel », de la « spatialité » et de la « physicalité » alors qu'elle s'est ensuite tournée vers la musique électronique/modulaire.
 
@@ -62,7 +62,7 @@ En grandissant, elle a étudié la composition et la théorie du son dans un ét
 
 Cependant, après avoir quitté le cadre de ses années d'étudiant et être retourné dans sa ville natale, un changement inattendu se produit : il rencontre une Buchla 100 que lui a prêtée un voisin. Lorsqu'elle a acheté pour la première fois un synthétiseur modulaire, elle ne l'a pas vu comme un « outil fragile », mais comme une « co-star », « un être vivant » et « un corps électrique ».
 
-L'instabilité, le patch manuel et les changements sonores imprévisibles de Buchla - à travers une telle contingence et instabilité, elle choisit de faire ressortir le « son vivant », la « vibration », « l'espace » et la « physique » du synthé.
+L'instabilité de Buchla, les patchs manuels et les changements sonores imprévisibles - à travers une telle contingence et instabilité, elle choisit de faire ressortir le « son vivant », la « vibration », « l'espace » et la « physique » du synthé.
 
 Cette transformation est à la base de toutes ses œuvres ultérieures.
 
@@ -170,11 +170,11 @@ Ainsi, son son n'a pas évolué de manière linéaire, mais a continué à s'él
 
 ---
 
-## Clôture — Un message à ceux qui aiment Buchla
+## Conclusion — Message à ceux qui aiment Buchla
 
 Le parcours de Kaitlyn Aurelia Smith n'a jamais été une expérience technique ou une démonstration de compétences. Son objectif est de créer un « monde de sensations » riche et poétique qui entremêle « le corps, la nature, l'électricité, le temps et l'espace » à travers le « dispositif technique » d'un synthétiseur modulaire.
 
-Si vous aimez Buchla et les synthés modulaires non seulement en tant qu'équipement, mais aussi en tant que « récipients sonores vivants », « corps vibrants » et « un mélange de hasard et de nécessité », son travail servira de guide pour votre exploration.
+Si vous aimez Buchla et les synthés modulaires non seulement en tant qu'équipement, mais en tant que « récipients sonores vivants », « corps vibrants » et « un mélange de hasard et de nécessité », son travail servira de guide pour votre exploration.
 
 A travers le « lieu » de la musique électronique/synthés modulaires/analogiques, il y a la possibilité de redécouvrir les sensations physiques, la nature, le temps et l'espace, la mémoire et les émotions.
 

@@ -150,7 +150,7 @@ Il y a trois raisons.
 2. **La chaleur de sa personnalité**
 3. **Affinité particulière pour le Japon**
 
-Elle apprécie la cuisine japonaise à chaque fois qu'elle visite le Japon et se lie rapidement d'amitié avec le personnel local. Lors de la tournée japonaise de 1994, lorsqu'il a appris qu'il y avait un fan handicapé dans le public, il a pris le temps de le rencontrer en personne après la scène.
+Elle apprécie la cuisine japonaise à chaque fois qu'elle visite le Japon et se lie rapidement d'amitié avec le personnel local. Lors de la tournée japonaise de 1994, lorsqu'il a appris qu'il y avait un fan handicapé dans le public, il a pris le temps après la scène de le rencontrer en personne.
 
 De plus, l'album « Shine » de 2001 est sorti uniquement au Japon. On dit que c'était une manière de « redonner aux fans japonais ».
 
@@ -170,7 +170,7 @@ Pendant ce temps, Cindy provoque un « incident ».
 
 Les nombreux accessoires qu'elle portait autour du cou ont heurté le microphone, provoquant un claquement.
 
-Ingénieur : "C'est quoi ce bruit ?"
+Ingénieur : "C'est quoi ce bruit ?"
 Quincy Jones : "Cindy, peux-tu... prendre ça ?"
 
 Cindy a éclaté de rire et a dit : "Oh, désolée !" alors qu'elle enlevait ses accessoires, et on dit que l'atmosphère s'est instantanément détendue.
@@ -201,7 +201,7 @@ Cindy n'accordait aucune valeur à « la répétition des formes réussies » 
 
 #**12. Challenge to Broadway : remporte un Tony Award pour « Kinky Boots »**
 
-En 2013, il est en charge des paroles et de la composition de la comédie musicale « Kinky Boots » et remporte le Tony Award de la meilleure chanson originale.
+En 2013, il était en charge des paroles et de la composition de la comédie musicale « Kinky Boots », qui lui a valu le Tony Award de la meilleure chanson originale.
 
 À l’origine, Cindy a grandi non seulement en tant que chanteuse, mais aussi profondément influencée par la culture expressive telle que le cinéma et le théâtre. Cela s’est concrétisé sous la forme de Broadway.
 

@@ -15,7 +15,7 @@ title: DJ Zorro – Fuego
 
 "Fuego" est un mot espagnol qui signifie "feu", et comme vous pouvez l'imaginer d'après le titre de la chanson, c'est une chanson passionnée et énergique. La chanson incorpore des rythmes et des éléments latins tout en les fusionnant avec des éléments de musique de danse.
 
-"Fuego" de DJ Zorro a souvent été utilisé comme chanson pour animer la piste de danse lors de concerts dans des clubs et des fêtes. Son rythme rythmé et sa mélodie entraînante vous donneront envie de danser.
+"Fuego" de DJ Zorro a souvent été utilisé comme chanson pour animer la piste de danse lors de concerts dans des clubs et des soirées. Son rythme rythmé et sa mélodie entraînante vous donneront envie de danser.
 
 #### Liste des chansons
 ```md

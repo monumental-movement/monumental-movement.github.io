@@ -18,7 +18,7 @@ title: '[Chronique] L''avenir de la musique underground'
 
 ## Naissance du concept de musique underground
 
-Texte : mmr｜Thème : Où va la musique underground au milieu des changements survenus sur Internet, l'IA et les communautés ? Déchiffrez l’avenir à partir de l’histoire et des faits actuels.
+Texte : mmr｜Thème : Où va la musique underground au milieu des changements dans Internet, l'IA et les communautés ? Déchiffrez l’avenir à partir de l’histoire et des faits actuels.
 
 Le terme musique underground n’est pas seulement un nom de genre.
 Il s’agit d’un concept culturel qui fait référence à la musique en dehors de la circulation, du pouvoir, des médias et de la communauté.
@@ -209,7 +209,7 @@ Par exemple
 
 existent en même temps.
 
-Pendant la pandémie, les clubs ont fermé et de nombreux événements musicaux se sont déroulés en ligne.
+Pendant la pandémie, les clubs ont fermé et de nombreux événements musicaux ont été déplacés en ligne.
 
 Cette expérience a encore changé la forme de la communauté musicale.
 

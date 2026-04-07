@@ -43,7 +43,7 @@ color: #fff;
 ## Ⅰ. Le plaisir des mains jouant avec le son
 
 Il ne faut pas oublier que le « sens tactile » est à l'origine de l'acte musical. Lorsque vous pincez les cordes, appuyez sur les touches ou tournez les boutons, vous recevez une réponse du bout des doigts. Cette immédiateté est la même dans les jouets avec lesquels les enfants entrent en contact durant leur enfance.
-Au 21e siècle, les sons électroniques ont été étendus aux jouets pour enfants et aux gadgets éducatifs, et l'acte de « sonner » lui-même a été conçu comme faisant partie du jeu. La frontière entre jouets et instruments de musique devient de plus en plus floue.
+Au 21e siècle, les sons électroniques ont été étendus aux jouets pour enfants et aux gadgets éducatifs, et l'acte de « sonner » lui-même est désormais considéré comme faisant partie du jeu. La frontière entre jouets et instruments de musique devient de plus en plus floue.
 
 ---
 
@@ -142,13 +142,13 @@ Une pièce expérimentale sonore qui utilise pleinement des équipements électr
 
 ## Ⅵ. L'âge d'or des jouets électroniques au Japon
 
-Dans les années 1970 et 1980, les synthés portables et les instruments de musique électroniques sont devenus populaires dans les foyers japonais.
+Dans les années 1970 et 1980, les synthés portables et les jouets musicaux électroniques sont devenus populaires dans les foyers japonais.
 
 - Série Yamaha Portasound
 - CASIO VL-TONE
 - Des synthés pédagogiques comme le SX-150 de Gakken
 
-Les sons électroniques peuvent être facilement entendus sur les bureaux de la maison ou de l'école, et les enfants se sont familiarisés avec la culture du « jeu avec les sons ». Dans les temps modernes, les jouets numériques comme Otamatone sont connectés à la culture YouTube, créant un nouveau monde de « sons mignons ».
+Les sons électroniques peuvent être facilement entendus sur les bureaux à la maison ou à l'école, et les enfants se sont familiarisés avec la culture du « jeu avec les sons ». Dans les temps modernes, les jouets numériques comme Otamatone sont connectés à la culture YouTube, créant un nouveau monde de « sons mignons ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -217,7 +217,7 @@ Le concept de « jeu » revient une fois de plus au centre de la création music
 
 ## Annexe
 
-### Historique de l'évolution des jouets musicaux étranges à travers le monde (chronologie simple)
+### Histoire évolutive des jouets musicaux étranges à travers le monde (chronologie simple)
 
 <div class="mermaid">
 

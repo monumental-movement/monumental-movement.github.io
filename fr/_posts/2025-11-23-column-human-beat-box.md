@@ -122,7 +122,7 @@ La croissance rapide a été remarquable ces dernières années.
 - Haute qualité de son
 - Rapidité d'adaptation aux genres
 
-En particulier, les atouts du Japon sont « la précision du son », la « capacité de composition » et la « compatibilité avec les images et la production ».
+Les atouts du Japon incluent notamment « la précision du son », la « capacité de composition » et la « compatibilité avec les images et la production ».
 
 ---
 
@@ -132,7 +132,7 @@ En particulier, les atouts du Japon sont « la précision du son », la « capac
 Au Japon, il s'est répandu dans les rues et lors d'événements depuis le milieu des années 2000, et les techniques sont partagées entre artistes à travers des séances d'entraînement et de participation à des compétitions.
 
 ## ◆ 2. Forte orientation technique
-Les joueurs japonais sont doués en termes de précision sonore et d'attention aux détails, et sont loués même par les joueurs étrangers.
+Les joueurs japonais sont forts en termes de précision sonore et d'attention aux détails, et sont très appréciés même par les joueurs étrangers.
 
 ## ◆ 3. Fusion avec la culture de la vidéo et du montage
 Principalement sur YouTube et SNS,
@@ -173,7 +173,7 @@ Il a contribué à rehausser le profil des joueurs de Loopstation au Japon et a 
 
 ### ● Technique précise
 RUSY est connu pour ses rythmes très précis et ses techniques de combinaison fluides, et a reçu des éloges principalement lors de tournois nationaux au Japon.
-Les caractéristiques sont :
+Les fonctionnalités incluent :
 
 - rainure serrée
 - Prononciation claire et dense
@@ -187,7 +187,7 @@ En particulier, il est le type de joueur qui possède un haut niveau d'organisat
 
 ### ● Pression sonore et tonalité
 Koey est un joueur dont le son est profond, puissant et possède une large gamme de basses.
-La raison pour laquelle il attire l'attention au Japon et à l'étranger est
+La raison pour laquelle il attire l’attention au Japon et à l’étranger est
 
 - Son de gorge profonde
 - Stabilité des sons polyphoniques
@@ -198,7 +198,7 @@ C'est dans cette partie.
 ### ● Le style de Koey
 - Acuité pour le combat
 - Aménagement qui profite de la pression acoustique
-- Intégration d'une technologie détaillée dans les points clés
+- Intégrer une technologie détaillée dans les points clés
 
 Parmi les joueurs japonais récents, c'est un joueur avec un ton qui se démarque lors des performances live.
 
@@ -240,13 +240,13 @@ timeline
 
 # 9. Tendances Beatbox dans le monde et à l'avenir
 
-## ◆ 1. La frontière entre la production musicale s'estompe
+## ◆ 1. La frontière entre la production musicale est floue
 Avec le développement de Loopstation, le beatboxing
 **"Version en temps réel de la production musicale"**
-Vers un espace que l'on peut appeler
+Vers un territoire que l'on peut appeler
 
 ## ◆ 2. Combinaison avec la culture visuelle
-Le nombre de « vitrines vidéo » augmente dans les tournois du monde entier.
+Les « vitrines vidéo » se multiplient dans les compétitions du monde entier.
 Nous vivons à une époque où les SNS accélèrent le style.
 
 ## ◆ 3. L'avenir des atouts japonais
@@ -264,7 +264,7 @@ On peut s’attendre à ce qu’il continue à être actif à la fois dans Loops
 
 # Conclusion - Le Human Beatbox en tant que culture
 
-Human Beatbox est une culture d’expression moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
+Human Beatbox est une culture expressive moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
 Maintenant que la culture de la compétition mûrit, que la technologie évolue et que des artistes japonais émergent, le beatboxing subit des changements majeurs et le beatboxing devient plus qu'une simple technique, il devient un genre musical international.
 
 J'espère que cet article vous aidera à comprendre l'histoire et l'avenir du beatboxing.

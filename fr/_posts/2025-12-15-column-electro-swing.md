@@ -52,7 +52,7 @@ En revanche, la musique électronique dance, qui s'est développée depuis les a
 ## 2. Conditions préalables à l'établissement d'un genre
 
 
-Pour qu’Electro Swing puisse voir le jour, les conditions techniques et culturelles suivantes étaient nécessaires.
+Pour qu’Electro Swing puisse exister, les conditions techniques et culturelles suivantes étaient nécessaires.
 
 * Vulgarisation de la technologie d'échantillonnage numérique
 *Première culture Internet où la gestion des droits d'auteur était relativement souple
@@ -166,13 +166,13 @@ La structure, qui ne dépend d'aucun grand marché particulier, a contribué à 
 
 L'échantillonnage dans Electro Swing ne fonctionne pas seulement comme une citation, mais comme un réarrangement. Le contexte de la chanson originale est coupé et le rythme, le tempo et la dynamique sont réorganisés dans un style moderne.
 
-Cette méthode est cohérente avec la culture d'échantillonnage post-hip-hop, mais l'Electro Swing est unique en ce sens qu'il visualise intentionnellement l'ère du son original. Le bruit, les limitations des bandes de fréquences et les fluctuations analogiques restent des symboles du passé.
+Cette méthode est cohérente avec la culture de l'échantillonnage après le hip-hop, mais l'Electro Swing est unique en ce sens qu'il visualise intentionnellement l'ère du son original. Le bruit, les limitations des bandes de fréquences et les fluctuations analogiques restent des symboles du passé.
 
 ---
 
 ## 16. Techniques de traitement et de production du son
 
-Du côté de la production, le découpage des échantillons et l'étirement du temps, la quantification des battements et la conception des graves bas de gamme jouent un rôle important. Le rebond du swing n'est pas entièrement reproduit, mais est absorbé dans le quatre contre quatre ou le breakbeat droit.
+Du côté de la production, l’extraction d’échantillons et l’étirement du temps, la quantification des battements et la conception des basses graves jouent un rôle important. Le rebond du swing n'est pas entièrement reproduit, mais est absorbé dans le quatre contre quatre ou le breakbeat droit.
 
 En conséquence, Electro Swing a une structure qui n'est pas naturelle pour le jazz, mais très réactive pour la musique dance. Cette conception de compromis est le noyau technique de la création du genre.
 
@@ -212,3 +212,10 @@ Electro Swing a été créé en reconstruisant l’héritage historique du swing
 
 ---
 
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6S8Gd8mNqkQ?si=Qj_E3WAtRhF7TzCe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

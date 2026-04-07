@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Implantation de la French Touch : Situation à Paris à la fin des années 1990
 ### ● Contexte : Une rencontre entre house et disco
 Au milieu des années 1990, la scène club parisienne absorbe la house américaine tout en formant une structure unique mettant en avant les samples disco/soul.
-Bien que fortement influencée par la Chicago House, la house a commencé à fonctionner comme un nouveau type de « musique pop » en se mélangeant à une « sensation mélodique sophistiquée » unique à l'Europe.
+Alors que l'influence de la Chicago House était forte, la house commença à fonctionner comme un nouveau type de « musique pop » en y intégrant la « sensation mélodique sophistiquée » unique à l'Europe.
 
 ### ● Existence d'étiquette/base
 - **Roulé (Thomas Bangalter)**
@@ -119,7 +119,7 @@ A. Music Sounds Better With You
 ## 5. Cassius : Un sentiment de liberté et d'art à Paris
 **Cassius "1999"** de Philippe Zdar et Boom Bass a encore accru la popularité de la French Touch.
 
-- Utilisation intensive du sample funk/soul
+- Utilisation intensive d'échantillonnage funk/soul
 - Profondément connecté à la culture de rue et à la scène artistique parisienne
 - Haute densité de mélange et centre de gravité qui le fait toujours danser
 
@@ -138,7 +138,7 @@ Caractéristiques de Nu Disco :
 - Lent (105-120 BPM)
 - Synthés épais et mélodieux
 - Voir le funk électronique des années 1980
-- Réexpansion de la culture de la fouille de disques
+- Réexpansion de la culture de recherche de disques
 
 Dans ce contexte, « l’esthétique de l’échantillonnage », le « travail de filtrage » et la « température analogique » de French Touch constituent une base importante.
 
@@ -276,7 +276,7 @@ La méthode de construction est la même.
 C’est un héritage constant depuis « Da Funk » de Daft Punk.
 
 ### ◆ De l'échantillonnage au « replay »
-Nu Disco, c'est bien plus qu'un simple échantillonnage.
+Nu Disco est bien plus qu'un simple échantillonnage.
 **Il existe de nombreux styles qui « reconstruisent le disco » avec de vrais synthés**.
 Cela peut être considéré comme une réalisation de l’esthétique French Touch avec un « son moderne et raffiné ».
 

@@ -64,7 +64,7 @@ timeline
 
 ## Mécanisme de fusion vu du solfège
 
-Dans Ambient x Rap, l’équilibre entre rythme et texture est important. Ambient utilise des sons soutenus, des pads et des enregistrements sur le terrain pour créer une profondeur spatiale. Le rap utilise des boîtes à rythmes et des échantillons pour fournir du rythme et du groove.
+Dans Ambient x Rap, l'équilibre entre le rythme et la texture est important. Ambient utilise des sons soutenus, des pads et des enregistrements sur le terrain pour créer une profondeur spatiale. Le rap utilise des boîtes à rythmes et des échantillons pour fournir du rythme et du groove.
 
 Les points sont les suivants :
 
@@ -110,9 +110,9 @@ Vous trouverez ci-dessous un exemple spécifique de structure de liste de lectur
 | Temps | Titre de la chanson | Artiste | Caractéristiques |
 | ----------- | -------------------------------- | -------------------- | ---------------- |
 | 0h00-17h30 | En apesanteur | Union Marconi | Ambiance calme |
-| 17h30-10h00 | Amour(sic) Partie 3 | Exploit Nujabes. Shing02 | Flux de rap doux |
+| 17h30-10h00 | Amour(sic) Partie 3 | Nujabes exploit. Shing02 | Flux de rap doux |
 | 10h00-15h00 | Minuit dans un monde parfait | DJ Ombre | Échantillonnage x Ambiant |
-| 15h00-20h30 | Dame Brune | Exploit Nujabes. Cise Starr | Jazz Ambiant Rap |
+| 15h00-20h30 | Dame Brune | Nujabes exploit. Cise Starr | Jazz Ambiant Rap |
 | 20h30-25h00 | Deux peuvent gagner | J Dilla | Améliorer la concentration grâce aux boucles |
 | 25h00-30h30 | Voir à travers U | Lotus volant | Rythme complexe et sensation d'espace |
 | 30h30-35h00 | Réflexion éternelle | Talib Kweli et Hi-Tek | Renforcer le rythme et guider l'auto-réflexion |

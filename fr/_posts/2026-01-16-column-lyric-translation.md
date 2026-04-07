@@ -66,9 +66,9 @@ Les situations grammaticalement traduisibles mais culturellement incompréhensib
 
 Dans le domaine de la traduction de paroles, le choix entre traduction littérale et traduction littérale est toujours un problème.
 Les traductions littérales sont efficaces pour préserver le sens, mais perdent souvent le rythme et l'émotion.
-Les traductions parallèles préservent le sens de l'ouïe et de l'émotion, mais tendent à s'écarter du sens du texte original.
+Les traductions parallèles préservent le sens de l’ouïe et de l’émotion, mais tendent à s’écarter du sens du texte original.
 
-En particulier, la musique populaire impose de fortes restrictions en matière de mélodie et de nombre de mots, et la logique de la traduction en prose ne s'applique pas.
+En particulier dans la musique populaire, il existe de fortes restrictions sur la mélodie et le nombre de mots, et la logique de la traduction en prose ne s'applique pas.
 L’ajout ou la soustraction d’une seule syllabe perturbe toute la mélodie, obligeant les traducteurs à constamment réduire et reconstruire le sens.
 
 Dans ce processus, la compréhension culturelle et les jugements de valeur du traducteur interviennent inévitablement.
@@ -80,7 +80,7 @@ Les paroles traduites qui en résultent sont un compromis entre la chanson origi
 
 ## Chapitre 3 Traductions chantables et « traductions qui ne peuvent pas être chantées »
 
-Les traductions de paroles sont divisées en traductions pour la lecture et en traductions pour le chant.
+Les traductions de paroles sont divisées en traductions pour la lecture et traductions pour le chant.
 Dans ce dernier cas, la facilité de prononciation, la séquence de voyelles et la position de l’accent sont importantes.
 
 Le japonais a une structure syllabique simple et de nombreuses voyelles, ce qui rend difficile la reproduction de la séquence de consonnes et de la structure d'accentuation de l'anglais.
@@ -98,7 +98,7 @@ En conséquence, les paroles japonaises ont tendance à donner la priorité au s
 Après la guerre, avec la diffusion de la radio et des disques, une grande quantité de musique populaire occidentale afflua au Japon.
 Durant cette période, de nombreuses chansons furent introduites dans leur langue originale ou avec de simples traductions.
 
-D’un autre côté, dans de nombreux cas, elle a été adaptée comme chanson populaire, avec de nouvelles paroles japonaises ajoutées à la mélodie originale.
+D’un autre côté, il existe de nombreux cas où elle a été adaptée en tant que chanson populaire, avec de nouvelles paroles japonaises ajoutées à la mélodie originale.
 Il ne s’agit pas à proprement parler de traductions, mais de recréations culturelles.
 
 La coutume des « paroles japonaises distinctes des chansons originales » qui s'est formée au cours de cette période a eu une influence durable.
@@ -153,7 +153,7 @@ L’établissement du rap japonais n’a pas progressé grâce à la traduction 
 Ici, l’accent est mis sur l’imitation et la reconstruction plutôt que sur la traduction.
 
 Dans le processus d’adaptation de la prosodie anglaise au japonais, le sens unique du rythme japonais a été mis en valeur et un nouveau système d’expression est né.
-Il ne s’agit pas d’une traduction, mais d’une localisation d’un transfert culturel.
+Il ne s'agit pas d'une traduction, mais d'une localisation d'un transfert culturel.
 
 > Le transfert culturel ne passe pas nécessairement par la langue.
 

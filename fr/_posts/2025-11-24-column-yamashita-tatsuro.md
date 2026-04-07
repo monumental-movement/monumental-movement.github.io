@@ -67,7 +67,7 @@ Les arrangements et les enregistrements optimisés pour les caractéristiques an
 
 ---
 
-# 2. Fin des années 1970 : début de la période solo et forme achevée de « Analog Layer »
+# 2. Fin des années 1970 : début de la période solo et version complète de « Analog Layer »
 
 ## ■ « SPACY » (1977), « ALLEZ-Y ! » (1978)
 Cette période était l’époque où Tatsuro utilisait pleinement l’enregistrement analogique 24 pistes.
@@ -96,7 +96,7 @@ Au centre de tout cela se trouvait **CBS Sony Shinanomachi Studio**.
 
 Le son de cette époque est souvent considéré comme la « forme idéale de la city pop ».
 
-## ■ Esthétique de l'enregistrement de « FOR YOU » (1982)
+## ■ Esthétique d'enregistrement de « FOR YOU » (1982)
 Cette œuvre est considérée comme l'une des œuvres les plus marquantes de Tatsuro.
 Caractéristiques acoustiques :
 
@@ -217,7 +217,7 @@ timeline
 ### -- Différences d'acoustique basées sur les œuvres de Tatsuro
 
 | Article | Période analogique (~ années 1980) | Période numérique (années 1990 ~) |
-|------|---------------------------|-------------------------------|
+|------|---------------------------|------------------------------|
 | Supports d'enregistrement | Ruban (2 pouces) | PCM/ProTools |
 | Impression sonore | Chaud, épais, rond | Clair, net |
 | Chœur | Plus vous superposez, plus cela devient ensemble | Il a tendance à devenir rigide lorsqu'il est superposé |

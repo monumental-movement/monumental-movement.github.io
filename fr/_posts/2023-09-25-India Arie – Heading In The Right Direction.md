@@ -17,7 +17,7 @@ title: India Arie – Aller dans la bonne direction
 
 « Heading In The Right Direction » est une chanson qui combine une mélodie positive avec un arrangement sophistiqué, et présente un message positif et des paroles pleines d'espoir, exprimant l'importance d'aller de l'avant même face aux difficultés et aux revers.
 
-La musique d'India Arie véhicule un message de valorisation de l'amour de soi et de l'affirmation de soi, qui trouve un écho auprès de nombreuses personnes.
+La musique d'India Arie véhicule un message de valorisation de l'amour de soi et de l'affirmation de soi, qui résonne auprès de nombreuses personnes.
 
 #### Liste des chansons
 ```md

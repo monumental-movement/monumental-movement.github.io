@@ -116,14 +116,14 @@ Tous deux se produisent en live dans toute l’Europe, en Amérique du Sud et en
 
 - *Alcachofa* (2003, Perlon)
 - *Vasco* (2008, Perlon)
-- *Série EP Sei Es Drum* (2007–2015, Sei Es Drum)
+- *Série EP Sei Es Drum* (2007-2015, Sei Es Drum)
 - *Dépendant et Heureux* (2012, Perlon)
 
 ### Lucien
 
-- *L'Ascension d'Angel* (2002, Cadenza)
+- *Rise of Angel* (2002, Cadenza)
 - *Pas d'amis* (2004, Cadenza)
-- *Crimen* (2005, Cadenza)
+- *Crime* (2005, Cadenza)
 - Série *Luciano DJ Mix* (2003-2010, Cadenza)
 
 ---

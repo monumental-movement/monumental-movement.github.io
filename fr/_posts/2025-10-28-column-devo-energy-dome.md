@@ -76,7 +76,7 @@ Energy Dome est apparu pour la première fois sur l'album du groupe en 1980, Fre
 Sa forme rappelle l'architecture ancienne et les pyramides à degrés des Incas.
 Mark Mothersbaugh a déclaré plus tard :
 
-> « Il a été conçu selon des principes énergétiques anciens : il recycle l'énergie qui s'échappe du haut de votre tête. »
+> "Il a été conçu selon des principes énergétiques anciens : il recycle l'énergie qui s'échappe du haut de votre tête."
 > (Il a été conçu sur la base de principes énergétiques anciens, recyclant l'énergie qui s'échappe du haut de la tête)
 
 Ce mot « recycler » est important.
@@ -89,10 +89,10 @@ En d’autres termes, l’Energy Dome est un dispositif humoristique permettant 
 
 DEVO a utilisé des appareils électroniques et des synthétiseurs faits maison pour créer son son, avec un regard ironique sur le rock commercial.
 À l'aide de synthés Roland et ARP, ils ont modifié leurs propres structures de boucles proto-techno et reproduit en direct.
-Cette pratique peut être considérée comme le prototype du dernier **mouvement Indépendant/Lo-Fi**.
+Cette pratique peut être considérée comme le prototype du dernier **mouvement indépendant/Lo-Fi**.
 
 Ils ont fait la satire du monde de l'entreprise tout en profitant des méthodes corporatives (logos, slogans, commercialisation).
-Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques post-modernes.
+Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques postmodernes.
 
 ---
 
@@ -146,7 +146,7 @@ Ce style visuel a ensuite influencé l'esthétique de la production des films ja
 Dans les années 1990, elle a été réévaluée comme pionnière de l’ère Internet.
 Leur stratégie de marque auto-satirique préfigurait l’auto-marchandisation post-Web 2.0.
 
-Ils se sont réunis dans les années 2000 et ont écrit « Something for Everybody » (2010), une satire sur « la démocratie à l’ère des algorithmes ».
+Ils se réunissent dans les années 2000 avec « Something for Everybody » (2010), une satire sur « la démocratie à l’ère des algorithmes ».
 Dans les années 2020, il continue d’actualiser sa théorie de la dégénérescence pour inclure les NFT et la culture de l’IA.
 
 ---

@@ -13,7 +13,7 @@ title: Bel Amour – Bel Amour
 ---
 
 
-Bel Amour est un duo électro/house français formé par Édouard de Tricasse et Jean‑Claude Sindress.
+Bel Amour est un duo électro/house français formé par Édouard de Tricasse et Jean-Claude Sindress.
 
 Leur premier single "Bel Amour", sorti en 2001, était un morceau house qui est devenu un énorme succès dans le monde entier. Ce disque est une version italienne publiée par la division House de Time Records, Rise.
 

@@ -75,7 +75,7 @@ Les membres sont entre la fin de l’adolescence et le début de la vingtaine.
 **Dan Catsis (basse)**, **John Waddington (guitare)** étaient les principaux acteurs.
 
 Contrairement aux punks londoniens, ils étaient conscients d'être **politiques et artistiques**.
-Leur premier album, « **Y** » (1979), était une hérésie d'une hérésie, même à l'époque.
+Leur premier album «**Y**» (1979) était déjà à l'époque une hérésie parmi les hérétiques.
 Le désordre du free jazz, l'espace profond du dub, l'élan destructeur du punk...
 Ceux-ci se croisent comme des **poèmes socialement critiques et des cris poétiques**.
 
@@ -112,7 +112,7 @@ Après cela, chaque membre emprunte un chemin différent.
 - Mark Stewart : a collaboré avec Adrian Sherwood en tant qu'artiste solo et créé **Industrial Dub**.
 - Gareth Sager et Bruce Smith : Formé **Rip Rig + Panic**.
 Une jeune **Neneh Cherry** était également présente.
-- Dan Catsis : Il s'est ensuite impliqué dans Massive Attack et est resté une pierre angulaire de la musique de Bristol.
+- Dan Catsis : Il est resté à la fondation de la musique de Bristol, puis s'est impliqué dans Massive Attack.
 
 Cette divergence a donné naissance à la diversité du son Bristol.
 Trip hop, dub, musique expérimentale, hip hop politique...
@@ -120,17 +120,17 @@ L’influence de The Pop Group est gravée dans chacun d’eux.
 
 ---
 
-## Chapitre 5 : Réévaluation et renouveau au 21ème siècle
+## Chapitre 5 : Réévaluation et renouveau au 21e siècle
 
 Le groupe Pop est depuis longtemps une figure culte.
-Depuis les années 2000, il a été réévalué dans le contexte du revival post-punk.
+Depuis les années 2000, il a été réévalué dans le contexte du renouveau post-punk.
 Surtout depuis 2005, suite aux retrouvailles **Gang of Four et Wire**,
 Ils ont également repris leurs activités en 2010. En 2015, il sort son nouvel ouvrage « Citizen Zombie ».
 
-Même si la nature violente du son était toujours présente, elle était plus politique et contenait un message plus précis qu'auparavant.
+Même si la nature violente du son était toujours présente, elle était plus politique et contenait un message plus aigu qu'auparavant.
 Pour eux, les « retrouvailles » n’étaient pas une question de nostalgie, mais plutôt une « poursuite de la résistance ».
 
-> « On n'arrête pas d'être en colère parce que le temps passe. »
+> « On n'arrête pas d'être en colère parce que le temps passe. »
 > ― Mark Stewart (1958-2023)
 
 La mort de Mark Stewart a marqué la fin d'une époque.
@@ -156,7 +156,7 @@ Autrement dit, **``L'éthique du Pop Group'' = résistance sonore**.
 ## Conclusion : Pensées explosives, politique silencieuse
 
 Le groupe Pop
-Il a posé les questions : « Qu'est-ce que la musique ? » et « Que peut faire l'art sur la politique ? »
+Il a posé les questions : « Qu'est-ce que la musique ? » et « Que peut faire l'art en matière de politique ? »
 Leur son continue de refuser de répondre à cette question.
 
 Ce qu’ils ont laissé derrière eux n’était pas une réponse mais la question elle-même.

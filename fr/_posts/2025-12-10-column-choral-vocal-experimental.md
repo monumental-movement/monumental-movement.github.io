@@ -39,7 +39,7 @@ color: #fff;
 }
 </style>
 
-# 1. Introduction
+# 1. Présentation
 
 L’instrument de musique le plus primitif de l’histoire de l’humanité est la voix, et l’expression collaborative de plusieurs personnes par la voix s’est développée en étroite collaboration avec les rituels religieux et les structures communautaires.
 Cependant, l'image moderne du « chœur = harmonie disciplinée et homogène » n'est en réalité qu'un ensemble de valeurs devenues dominantes au cours d'une période limitée du 19e au 20e siècle.
@@ -56,7 +56,7 @@ Nous examinons ici comment la musique chorale a acquis des éléments expérimen
 ##2-1. De la Renaissance au baroque : fondements de la polyphonie
 
 * Le développement de la polyphonie par Palestrina et Josquin à partir de la monophonie du chant grégorien constitue la base de la structure multicouche de la voix.
-* Déjà à la Renaissance, certaines œuvres utilisaient la **superposition de textures** et l'**arrangement spatial** dans les canons, les messes et les motets, ce qui est devenu le prototype d'approches expérimentales ultérieures.
+* Déjà à la Renaissance, certaines œuvres utilisaient la **superposition de textures** et la **disposition spatiale** dans les canons, les messes et les motets, ce qui est devenu le prototype d'approches expérimentales ultérieures.
 
 ##2-2. Première moitié du XXe siècle : l’émergence de perspectives avant-gardistes sur la voix
 
@@ -72,7 +72,7 @@ en particulier
 
 * 《Requiem》 (1963–65)
 *《Lux Aeterna》(1966)
-* 《Horloges et nuages》 (1972-73)
+* 《Horloges et nuages》 (1972-1973)
 
 Ces œuvres marquent un tournant dans le traitement du chœur comme « une substance acoustique plutôt qu'un ensemble d'harmonies ».
 
@@ -92,7 +92,7 @@ En particulier dans les œuvres traitant des voix, la position du larynx, de la 
 Eric Whitacre est un pont entre la musique chorale traditionnelle et un esprit d'expérimentation sonore.
 
 *《Lux Aurumque》(2000)
-*《Sommeil》 (2000)
+*《Sommeil》(2000)
 etc., se situent entre la polyphonie et la riche harmonie parallèle, et se caractérisent par la densité harmonique et la manipulation de la densité texturale.
 
 De plus, l’initiative « Virtual Choir » était innovante dans la mesure où elle élargissait la réalité du chant choral à la production collaborative numérique.
@@ -191,7 +191,7 @@ Ligeti était un compositeur qui symbolisait la pensée acoustique du XXe siècl
 
 *《Lux Aeterna》 : Micropolyphonie sans accompagnement
 * 《Requiem》 : Texture dense et tension dans « Kyrie »
-*《Clocks and Clouds》 : Un contraste entre la sensation de flottement et le groupe rythmique créé par le chœur de femmes et la musique instrumentale
+*《Clocks and Clouds》 : Un contraste entre la sensation de flottement et le groupe rythmique créé par le chœur féminin et la musique instrumentale
 
 La méthode de Ligeti a également influencé la musique de film, gagnant notamment une reconnaissance générale lorsqu'elle est utilisée dans 2001 : L'Odyssée de l'espace.
 
@@ -297,7 +297,7 @@ C’est un exemple typique de la transformation de la voix en instrument.
 
 # 9. Tendances au 21ème siècle
 
-Modern Vocal Experimental a réalisé de nouveaux progrès dans les domaines suivants.
+Modern Vocal Experimental a encore progressé dans les domaines suivants.
 
 ##9-1. Intégration de la voix et du son électronique
 
@@ -322,7 +322,7 @@ Les collaborations avec des compagnies de danse et des arts du spectacle intégr
 # 10. Résumé
 
 Choral / Vocal Experimental ne considère pas la voix comme un ensemble de hauteurs, mais plutôt
-**C'est un domaine qui traite de manière globale les phénomènes acoustiques, spatiaux, physiques et sociaux**.
+**C'est un domaine qui traite de manière globale des phénomènes acoustiques, spatiaux, physiques et sociaux**.
 
 Les possibilités vocales démontrées par Ligeti et Whittaker ont été encore élargies par les compositeurs modernes.
 La voix est aujourd’hui le matériau acoustique le plus flexible et le plus complexe de la musique.

@@ -10,8 +10,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Chronique] L''affinité entre anime et jazz/fusion : Une histoire de nuits
-  citadines et de musique'
+title: '[Chronique] Affinité entre anime et jazz/fusion : Une histoire de nuits citadines
+  et de musique'
 ---
 
 
@@ -55,7 +55,7 @@ D’un autre côté, le jazz n’est pas seulement « urbain ».
 Cafés, coins de rue les jours de pluie, après-midi calmes - il est souvent utilisé comme musique de fond pour égayer la vie quotidienne décontractée.
 
 Par exemple, « Apollo sur la pente » (2012). Le manga original utilise le jazz lui-même comme thème, mais les sons des sessions qui résonnent dans la ville de Nagasaki, où se déroule l'histoire, soutiennent les fluctuations de la vie quotidienne et de la jeunesse avec la nature improvisée propre au jazz.
-De plus, bien que « Nodame Cantabile » se concentre sur la musique classique, des arrangements de style swing et jazz léger sont insérés dans les scènes du quotidien, soulignant la nature libre d'esprit des personnages.
+De plus, bien que « Nodame Cantabile » se concentre sur la musique classique, des arrangements de style swing et jazz léger sont insérés dans des scènes quotidiennes, soulignant la nature libre d'esprit des personnages.
 
 ---
 
@@ -112,7 +112,7 @@ flowchart TD
 | Lupin Troisième traverse la ville nocturne | Dave Brubeck « Prenez cinq » | La légèreté de la quintuple signature souligne le style de Lupin |
 | Spike contre Vicious (confrontation finale de Cowboy Bebop) | John Coltrane « Un amour suprême » | Symbolise une tension sublime et une bataille fatidique |
 | Une scène du travail de Makoto Shinkai un jour de pluie | Bill Evans « Valse pour Debby » | Le piano transparent résonne avec la beauté de l'image |
-| Session à Sakamichi no Apollon | Art Blakey « Gémissement » | La chaleur des tambours et des cors amplifie l'ivresse de la jeunesse |
+| Séance à Sakamichi no Apollon | Art Blakey « Gémissement » | La chaleur des tambours et des cors amplifie l'ivresse de la jeunesse |
 | Grave guerre psychologique (Eva et Death Note) | Miles Davis «Et alors» | Le jazz en mode cool soutient la tension intellectuelle |
 | LAZARUS : Scène de bataille finale avec limite de temps | Kamasi Washington « Changement de la garde » | Un son grandiose et spirituel met l'accent sur le thème de la survie humaine |
 
@@ -127,7 +127,7 @@ En particulier, le jazz spirituel de Kamasi Washington fait écho au motif de «
 ### ■ Résumé
 
 Le jazz/fusion apporte de l'urbanité et de l'improvisation à l'anime, et symbolise parfois la « vie et la mort » et la « destruction et la renaissance » de toute l'histoire.
-Le style de « Lupin III », le style de « Cowboy Bebop », la passion juvénile de « Apollo sur la pente » et l'échelle de science-fiction de « LAZARUS »──
+Le style de « Lupin Troisième », le style de « Cowboy Bebop », la passion juvénile de « Apollo sur la pente » et l'échelle de science-fiction de « LAZARUS »──
 Tous ces éléments sont des extensions de « l’esprit libre et régénérateur » du jazz.
 
 Et comme le nom « Lazarus » l’indique, le jazz renaît constamment sous de nouvelles formes et continue d’être étroitement lié au monde de l’anime.

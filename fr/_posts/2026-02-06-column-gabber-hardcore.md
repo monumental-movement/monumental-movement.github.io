@@ -106,7 +106,7 @@ En conséquence, des genres entiers ont fini par être évoqués avec un seul en
 
 ## 7. Ramification et approfondissement – ​​de la fin des années 1990 aux années 2000
 
-Après avoir dépassé son apogée commerciale, le hardcore diverge rapidement. En même temps, il y avait des styles qui évoluaient dans une direction lumineuse et accrocheuse, des styles qui évoluaient dans une direction plus sombre et plus expérimentale, et des styles qui poussaient la vitesse elle-même jusqu'à ses limites.
+Après avoir dépassé son apogée commerciale, le hardcore diverge rapidement. Dans le même temps, il y avait des styles qui évoluaient dans une direction lumineuse et accrocheuse, des styles qui évoluaient dans une direction plus sombre et plus expérimentale, et des styles qui poussaient la vitesse elle-même jusqu'à ses limites.
 
 Durant cette période, le hardcore a commencé à se distancer du courant dominant et à se réorganiser en une culture underground plus durable. Les activités continues menées par une base de soutien de base deviendront plus importantes que les événements à grande échelle.
 

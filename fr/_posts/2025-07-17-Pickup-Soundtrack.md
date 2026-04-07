@@ -93,7 +93,7 @@ Oeuvre : Bande originale du film de science-fiction « Tank Girl » de 1995. Com
 
 Format : Cassette
 
-Oeuvre : Cassette sortie en 1996, contenant la chanson thème du film « Mission : Impossible ».
+Produit : Sortie en 1996, une cassette contenant la chanson thème du film « Mission : Impossible ».
 
 #### Liste des chansons
 ```md

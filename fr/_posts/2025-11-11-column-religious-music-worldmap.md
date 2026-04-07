@@ -22,7 +22,7 @@ title: '[Chronique] La musique religieuse dans le monde et ses effets psychologi
 Texte : mmr｜Thème : Comparer la musique religieuse du monde entier du point de vue de l'histoire, de la psychologie et des effets physiologiques, et la comprendre à travers des illustrations
 
 La musique est un élément universel qui soutient les rituels religieux, les prières et la méditation.
-Des chants anciens à la musique curative moderne, les sons, les rythmes et les voix ont eu un impact profond sur l’esprit et le corps humain.
+Des chants anciens à la musique de guérison moderne, les sons, les rythmes et les voix ont eu un impact profond sur l'esprit et le corps humain.
 
 * Rythme → **Ajuster les ondes cérébrales** (augmentation des ondes alpha et thêta)
 * Mélodie → **Évoquer des émotions** (soulagement, exaltation, larmes)

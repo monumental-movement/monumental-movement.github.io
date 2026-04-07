@@ -68,7 +68,7 @@ En d’autres termes, la musique d’ambiance n’est pas une musique de fond, m
 
 ---
 
-**• Années 1980-1990 : Fusion avec la musique électronique**
+** ● Années 1980-1990 : Fusion avec la musique électronique**
 
 [Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：ジャーマン・エレクトロニクスとの融合。
 
@@ -197,7 +197,7 @@ Fortement connecté à la santé mentale/méditation/slow tech moderne.
 
 **ASMR/Méditation/Soulagement du stress** : Également utilisé dans les secteurs de la santé mentale et du bien-être.
 
-La fusion avec l’art NFT et la musique générative est également en cours.
+La fusion avec l'art NFT et la musique générative est également en cours.
 
 
 <hr>
@@ -206,7 +206,7 @@ La fusion avec l’art NFT et la musique générative est également en cours.
 
 L'ambient est une musique qui n'est pas au centre de la musique, mais à la périphérie. C'est un art qui ne traite pas de mélodie ou de rythme, mais de transformation de l'atmosphère, du temps, de la sensation et de la conscience.
 
-C'est un son qui transcende le cadre de la musique et entre dans le silence au milieu du bruit de la ville et des écarts entre les souvenirs. Plutôt que de l'entendre avec vos oreilles, c'est un son que vous pouvez ressentir dans l'espace.
+C'est un son qui transcende le cadre de la musique et entre dans le silence au milieu du bruit de la ville et des écarts entre les souvenirs. Plutôt que de l'entendre avec vos oreilles, c'est un son que vous pouvez ressentir dans un espace.
 
 <hr>
 

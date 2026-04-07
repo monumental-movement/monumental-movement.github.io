@@ -14,7 +14,7 @@ title: '[Chronique] EBM : une physicalité électronique pilotée par des rythm
 ---
 
 
-## Qu'est-ce que la musique électronique corporelle ?
+## Qu'est-ce que la musique corporelle électronique ?
 
 
 
@@ -154,7 +154,7 @@ EBM a également eu une énorme influence sur les genres suivants :
 
 <hr>
 
-### Lien avec la culture club : l'EBM comme musique corporelle
+### Lien avec la culture du club : l'EBM comme musique corporelle
 L'EBM n'est pas seulement de la musique à écouter à la maison, mais a un aspect très fort en tant que « musique pour danser ». Depuis la fin des années 1980, l'EBM est devenue une culture établie, centrée autour de boîtes de nuit et de festivals spécifiques (par exemple Wave-Gotik-Treffen, Amphi Festival), accompagnée de vêtements sombres, de cuir et de cybercostumes.
 
 Dans les années 1990, alors qu’elle était considérée comme **« Old School EBM »**, la scène s’est diversifiée comme suit :
