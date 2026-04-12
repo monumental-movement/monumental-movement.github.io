@@ -50,7 +50,7 @@ Les pochettes de LP de Command étaient visuellement fortes, comportant parfois 
 
 - **Slogan promotionnel : « Vous serez surpris dès que vous l'entendrez pour la première fois »**
 
-Les notes de doublure et les promotions de Stereo 35/MM utilisaient des expressions provocatrices telles que « Vous serez surpris lorsque vous l'entendrez pour la première fois » pour susciter l'intérêt des auditeurs. Il s’agit d’un exemple de marketing réussi basé sur la confiance technique.
+Les notes de doublure et les promotions de Stereo 35/MM utilisaient des phrases provocatrices telles que « Vous serez surpris lorsque vous l'entendrez pour la première fois » pour susciter l'intérêt des auditeurs. Il s’agit d’un exemple de marketing réussi basé sur la confiance technique.
 
 
 - **Le conflit entre le commerce et l'art**
@@ -156,13 +156,13 @@ Il se produit dans un large éventail de genres, y compris non seulement le jazz
 
 ### Rencontre et relation avec Enoch Light
 
-- **Grand Award → Guitariste régulier pendant la période Command Records**
+- **Grand Award → Guitariste régulier lors de Command Records**
 
 Lorsque Enoch Light a fondé Grand Award and Command, il a rassemblé les meilleurs talents de New York. Parmi eux, le guitariste régulier est Tony Mottola.
 
 Il a également joué un rôle important dans les séries « Persuasive Percussion » et « Provocative Percussion ».
 
-Dans les expériences avec les rythmes latins et le positionnement stéréo, la guitare s'est avérée utile en tant qu'instrument pouvant être facilement assigné à la gauche et à la droite, et le jeu flexible de Mottola a été mis à profit.
+Dans les expériences avec les rythmes latins et le positionnement stéréo, la guitare était utile comme instrument pouvant être facilement assigné à gauche et à droite, et le jeu flexible de Mottola a été utilisé.
 
 - **Sortie d'un album solo (de Command)**
 
@@ -185,7 +185,7 @@ Il était chargé de mener des expériences de localisation de guitare dans la s
 
 - **Sortie d'un album solo**
 
-Command a développé la série "Roman Guitar", rendant la musique latine et italienne haute-fidélité. C’est devenu un chef-d’œuvre connu dans le monde entier.
+Command a développé la série "Roman Guitar", rendant la musique latine et italienne haute-fidélité. C’est devenu un chef-d’œuvre mondialement connu.
 
 - **Rôle dans les expériences acoustiques**
 

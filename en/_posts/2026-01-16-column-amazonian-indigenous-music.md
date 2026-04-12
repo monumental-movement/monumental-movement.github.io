@@ -19,7 +19,7 @@ title: '[Column] Musical culture of indigenous Amazonians: a universe of sounds 
 
 ## Prologue: A world of sounds that fills the forest
 
-Text: mmr｜Theme: Music culture that is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
+Text: mmr｜Theme: Music culture is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
 
 The Amazon River Basin is one of the most culturally diverse regions in the world. Hundreds of indigenous groups have lived together, each with their own distinct languages, myths, and social structures. In this context, music has developed not as an independent form of entertainment or art, but as an act that is inseparable from life itself.
 
@@ -99,7 +99,7 @@ Music is a therapy, a medium, and a technique for crossing boundaries.
 ## Integration of mythology, language, and music
 
 
-In Amazonian indigenous societies, myths are often told in songs. Specific melodies are associated with specific stories, and when sung, past events are recreated in the present.
+In indigenous Amazonian societies, myths are often told in songs. Specific melodies are associated with specific stories, and when sung, past events are recreated in the present.
 
 In a society without written materials, music functions as a memory device. Forgetting the melody is synonymous with losing the story. The language itself is melodic, and the boundaries between spoken words and songs are blurred.
 

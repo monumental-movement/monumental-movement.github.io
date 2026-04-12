@@ -121,7 +121,7 @@ Das Publikum tanzt durch die Nacht und teilt ein Gefühl der Einheit, während d
 
 ### 5. Von Goa-Trance zu Psytrance
 
-In den späten 1990er Jahren verlagerte sich der Sound hin zum düstereren, schnelleren Psytrance. Auch sein Set hat er diesem Trend entsprechend weiterentwickelt.
+In den späten 1990er Jahren verlagerte sich der Sound hin zum dunkleren, schnelleren Psytrance. Auch sein Set hat er diesem Trend entsprechend weiterentwickelt.
 
 Der Bass wird stärker betont und die Basslinie ist komplexer. Die Anzahl der Geräusche nimmt zu und der Raum wird dichter. Die lange Satzstruktur wurde jedoch beibehalten.
 

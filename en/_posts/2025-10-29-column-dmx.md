@@ -100,7 +100,7 @@ When he yelled, "**Lord, give me a sign!**," he sounded more like a preacher tha
 ## IV. Ruff Ryders and Runaway Success
 
 In 1998, "It"s Dark and Hell Is Hot" was released.
-DMXは瞬く間に全米1位を獲得し、その後**5作連続でBillboard 1位**という前人未到の記録を樹立する。
+DMX quickly reached number one in the US, and went on to set an unprecedented record of five consecutive albums at number one on Billboard.
 
 <div class="mermaid">
 
@@ -192,7 +192,7 @@ Those words still serve as a self-forgiveness mantra for many young people today
 ## X. Conclusion: Mythical structure called DMX
 
 DMX's story is more than just a hip-hop biography.
-It was a **modern religious drama** and a myth depicting **the coexistence of violence and prayer**.
+It was a **modern religious drama** and a myth about the coexistence of **violence and prayer**.
 
 *His "roar" is not anger, but a cry to prove his existence**
 *His "prayer" is not salvation but **continuation of the battle**

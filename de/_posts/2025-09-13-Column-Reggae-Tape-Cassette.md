@@ -54,10 +54,10 @@ Kompaktkassetten, die Anfang der 1970er Jahre unter dem Philips-Standard eingef�
 
 ---
 
-## 1980er – Goldenes Zeitalter der Kassettenkultur und Verbreitung von Reggae
+## 1980er Jahre – Goldenes Zeitalter der Kassettenkultur und Verbreitung von Reggae
 
 - **Popularisierung von Kassetten**
-In den 1980er Jahren wurden Kassetten zum weltweit beliebtesten Musikmedium. Günstig und leicht zu transportieren, ist es mit dem Aufkommen von Wiedergabegeräten wie Radio-Kassettenspielern und Walkmans weitaus bekannter geworden als Schallplatten.
+In den 1980er Jahren wurden Kassetten zum weltweit beliebtesten Musikmedium. Günstig und leicht zu transportieren, ist es mit dem Aufkommen von Wiedergabegeräten wie Radiokassettenspielern und Walkmans weitaus bekannter geworden als Schallplatten.
 
 - **Kassettenaufnahme in Jamaika**
 Bei Beschallungsveranstaltungen und Tanzlokalen entstand eine Kultur, in der Live-Mitschnitte auf Kassetten aufgezeichnet und sofort verbreitet wurden. Obwohl dies einige Raubkopie-Aspekte aufwies, wurde es zu einem wichtigen Mechanismus, um die Begeisterung des Fachgebiets zu bündeln und zu verbreiten.
@@ -74,7 +74,7 @@ Für karibische Einwanderergemeinschaften in Großbritannien und den Vereinigten
 Nach dem Debüt von Sleng Teng im Jahr 1985 wurde digitaler Sound zum Mainstream und Dancehall-Reggae verbreitete sich auf der ganzen Welt. Mit der Massenproduktion von Riddims, dem Aufstieg der MC-Kultur und der Notwendigkeit einer schnellen Verbreitung spielten Kassetten weiterhin eine wichtige Rolle.
 
 - **Kassetten und lokale Wirtschaft**
-Während es offizielle CD-Veröffentlichungen gab, florierten inoffizielle Kassettenverkäufe auf den Straßen Jamaikas. Mixtapes, die auf Märkten und an Essensständen verkauft wurden, waren für den Normalbürger eine Möglichkeit, zu günstigen Preisen an die neuesten Soundquellen zu kommen, und für DJs ein Mittel zur Eigenwerbung.
+Während es offizielle CD-Veröffentlichungen gab, florierten inoffizielle Kassettenverkäufe auf den Straßen Jamaikas. Mixtapes, die auf Märkten und an Imbissständen verkauft wurden, waren für den Normalbürger eine Möglichkeit, zu günstigen Preisen an die neuesten Soundquellen zu kommen, und für DJs ein Mittel zur Eigenwerbung.
 
 - **Beziehung zu Japan**
 Auch japanische Reggae-Fans und DJs besuchten in den 1990er Jahren Jamaika und sammelten lokale Kassetten. Diese Aufnahmen wurden bei Clubveranstaltungen und Plattenläden verbreitet und standen in direktem Zusammenhang mit der Entwicklung der Reggae-Kultur in Japan. Vor allem in der Shibuya- und Osaka-Szene spielten importierte Kassetten eine wichtige Rolle.
@@ -90,7 +90,7 @@ In den 2000er Jahren wurden CD-R- und MP3-Filesharing zum Mainstream und Kassett
 Die Eigenschaften von Kassetten wie Unmittelbarkeit, Begeisterung vor Ort und informelle Vertriebsnetze wurden jedoch von der digitalen Mixtape-Kultur und den Live-Aufnahmearchiven auf YouTube übernommen. Darüber hinaus gibt es inmitten des weltweiten Trends zur Rückkehr zum Analogen auch eine Bewegung zur Neubewertung von Kassetten.
 
 - **Kulturelle Bedeutung neu denken**
-Die Kassette war mehr als nur ein Aufnahmemedium, sie symbolisierte den gemeinschaftsorientierten Charakter des Reggae, die Informationsverbreitung an der Basis und die Unabhängigkeit der Gesetzlosen. Durch Kassetten etablierte sich Reggae als „ihre Musik“ für die Massen.
+Die Kassette war mehr als nur ein Aufnahmemedium, sie symbolisierte den gemeinschaftsorientierten Charakter des Reggae, die Verbreitung von Informationen an der Basis und die Unabhängigkeit der Gesetzlosen. Durch Kassetten etablierte sich Reggae als „ihre Musik“ für die Massen.
 
 ---
 
@@ -149,7 +149,7 @@ Die Verbreitung von Reggae und Kassettenkultur wird parallel als Bewegungen inne
 
 | Alter | Bewegungen in Jamaika | Bewegungen in Japan |
 |------|-----|-------------|
-| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae ist in begrenztem Umfang bekannt und es gibt noch fast keine allgemeine Anerkennung. |
+| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae wurde in begrenztem Umfang eingeführt und es gibt noch immer fast keine allgemeine Anerkennung. |
 | 1970er Jahre | Die Soundsystem-Kultur erweitert sich. Kompaktkassetten beginnen einzuströmen. | Bob Marley wird durch einige Musikzeitschriften und importierte Plattenläden vorgestellt. |
 | 1980-82 | Die Kassettenaufnahme nahm im Bereich der Tonsysteme rasch zu. Auf der Straße verteilt. | Einige Plattenläden in Tokio und Osaka beginnen, aus Jamaika mitgebrachte Kassetten inoffiziell zu vertreiben. |
 | 1985 | Das Riddim „Sleng Teng“ wird eingeführt und das digitale Zeitalter beginnt. Beschleunigt die Kassettenaufnahme. | Der Import lokaler Aufnahmekassetten durch Überseereisende und DJs nimmt zu und sie werden in der Clubszene eingesetzt. |

@@ -48,7 +48,7 @@ color: #fff;
 
 ### Vitesse de rotation et vitesse linéaire : lois physiques qui déterminent la « quantité de mouvement » du son
 
-L'un des facteurs qui déterminent la qualité sonore d'un disque est le nombre de tours (RPM) et la vitesse linéaire.
+L'un des facteurs qui déterminent la qualité sonore d'un disque est la vitesse de rotation (RPM) et la vitesse linéaire.
 
 - **7 pouces simple : 45 tr/min**
 Il y a beaucoup de force dans le son à la périphérie externe et une excellente reproduction des hautes fréquences. Cependant, la distorsion augmente au niveau de la circonférence intérieure.
@@ -60,7 +60,7 @@ Il convient à une lecture à long terme et garantit une qualité sonore stable,
 La limite est d'environ 12 minutes par côté à 33⅓ et d'environ 8 à 9 minutes à 45 tr/min.
 Autrement dit, la force du 10 pouces, c’est qu’il est possible de concevoir un système privilégiant la qualité sonore dans le temps.
 
-La vitesse linéaire moyenne est d'environ 15 % supérieure à celle de 12 pouces et il y a moins de distorsion sur la périphérie interne.
+La vitesse linéaire moyenne est d'environ 15 % supérieure à celle de 12 pouces et il y a moins de distorsion sur la périphérie intérieure.
 Surtout dans les musiques avec une forte attaque, comme le jazz ou le rock indépendant, cette caractéristique de vitesse crée une impression claire de rythme et de séparation spatiale.
 
 ---
@@ -142,7 +142,7 @@ Les critères de sélection sont les suivants :
 - **33⅓RPM** : Concentrez-vous sur la durée d'enregistrement. Idéal pour les EP et les petits albums.
 - **45RPM** : Focus sur la qualité sonore et la dynamique. Pour les maxi singles et les audiophiles.
 
-Ce qui est intéressant, c'est que le disque 10 pouces 45 tours a une « image sonore plus condensée » que le disque 12 pouces 45 tours.
+Ce qui est intéressant, c'est que le disque 45 tours de 10 pouces a une « image sonore plus condensée » que le disque 45 tours de 12 pouces.
 Cela est dû au phénomène physique selon lequel la vitesse d'enroulement de la rainure est rapide, de sorte que la plage basse passe au premier plan.
 En conséquence, les artistes de club et de noise choisissent souvent le 10 pouces 45 tours.
 
@@ -161,8 +161,8 @@ Il ne s'agit plus d'un format du passé, mais d'un **appareil de 10 pouces au no
 
 ### Conclusion : Philosophie musicale dans la physique d'un disque
 
-Lorsqu’on parle de l’attrait technique des disques de 10 pouces, ce qui ressort derrière c’est la « liberté créée par les contraintes ».
-Limites de conception, contraintes de temps et contraintes de taille.
+Lorsqu'on parle de l'attrait technique des disques de 10 pouces, ce qui ressort derrière c'est la « liberté créée par les contraintes ».
+Limites de conception, contraintes de temps et limites de taille.
 Tout cela rend la musique « condensée » et lui redonne son « ressenti ».
 
 Le format est la philosophie, l'ingénierie et la poésie.

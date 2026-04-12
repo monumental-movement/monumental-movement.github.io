@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Histoire, caractéristiques techniques, œuvres majeure
 
 Caractérisé par une complexité mathématique, une progression non linéaire et une dynamique extrême, le **Mathcore** est l'un des styles de musique heavy les plus difficiles qui a rapidement évolué de la fin des années 1990 aux années 2000. Bien que ce genre soit basé sur l'agressivité du hardcore et du metalcore, il incorpore des éléments de jazz, de musique expérimentale et de métal progressif, subvertissant activement le temps 4/4 traditionnel et poursuivant une structure de signature rythmique étrange qui peut être décrite comme mathématique.
 
-**Le Dillinger Escape Plan (DEP)** et **Meshuggah** sont des représentants de ce domaine, et bien qu'ils aient été actifs en même temps, ils sont extrêmement intéressants dans la mesure où ils ont défié « l'extrême complexité » depuis des directions différentes.
+**Le Dillinger Escape Plan (DEP)** et **Meshuggah** sont des représentants de ce domaine, et bien qu'ils aient été actifs en même temps, ils sont extrêmement intéressants dans le sens où ils ont défié « l'extrême complexité » depuis des directions différentes.
 
 
 ---
@@ -62,7 +62,7 @@ Voici les caractéristiques de leurs structures de chansons.
 
 ### 1. Structure ultra-rapide et fragmentée
 
-La technique consistant à changer des phrases de 1 à 2 temps à grande vitesse, plutôt qu'en unités de mesure, est remarquable.
+La technique consistant à changer des phrases de 1 à 2 temps à grande vitesse, plutôt qu'en unités de mesures, est remarquable.
 Le sens de l’orientation auditive est constamment ébranlé par les pauses insérées, les polyrythmies et les accents mal alignés.
 
 ### 2. Influence du jazz
@@ -92,7 +92,7 @@ Ce "rythme multicouche" est devenu la base du Djent et du Metal Expérimental ul
 
 ---
 
-## Analyse de la structure de la chanson
+## Analyse de la structure des chansons
 
 ### Le type de plan d'évacuation de Dillinger : structure fragmentée
 
@@ -165,11 +165,11 @@ flowchart TD
 ### Technologie de mixage
 
 Dans Mathcore, plusieurs pistes de guitares déformées se chevauchent, il est donc essentiel d'organiser les bandes de fréquences.
-En particulier, les sons d'attaque ont tendance à être concentrés dans la bande **2-5kHz**, et si cette zone n'est pas correctement traitée, le contour du son deviendra flou.
+En particulier, les sons d'attaque ont tendance à être concentrés dans la bande **2-5 kHz**, et si cette zone n'est pas correctement traitée, le contour du son deviendra flou.
 
 ### Enregistrement de batterie
 
-* Met l'accent sur le « noyau » de la grosse caisse et de la caisse claire
+* Met l'accent sur le « noyau » du kick et de la caisse claire
 *La localisation de Tom n'est pas linéaire et est souvent arrangée de manière unique pour correspondre à la complexité de la chanson.
 
 ---

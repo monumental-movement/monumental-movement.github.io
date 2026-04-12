@@ -14,7 +14,7 @@ title: Holen Sie sich Happy Hardcore-Werke
 ---
 
 
-„Eine Gruppe endlos spannungsgeladener Happy-Hardcore-Werke, die sowohl die Vergangenheit als auch die Zukunft transzendieren.“
+„Eine Reihe endlos spannungsgeladener Happy-Hardcore-Werke, die sowohl die Vergangenheit als auch die Zukunft transzendieren.“
 
 <hr>
 
@@ -100,7 +100,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 
 Veröffentlicht vom britischen Label Sonic Boom
 
-Features: Eine kraftvolle EP aus fröhlicher Hardcore x Hardcore/Techno-Fusion, mit dem Titelsong „Forevermore“ und der Techno-angehauchten „Ignition Sequence“.
+Features: Eine kraftvolle EP aus fröhlichem Hardcore x Hardcore/Techno-Fusion, mit dem Titelsong „Forevermore“ und der Techno-angehauchten „Ignition Sequence“.
 
 #### Trackliste
 ```md
@@ -125,7 +125,7 @@ B2. Forevermore (Original)
 
 Künstler: Der beliebte britische DJ/Produzent Mark Breeze
 
-Eigenschaften: Ein von vielen Clubs unterstützter Song mit einer mitreißenden Melodie und einem energiegeladenen Beat sowie Samples aus „Kick Your Legs In The Air“ und „Don’t Make Me Wait (Special Version)“.
+Eigenschaften: Ein Song, der von vielen Clubs unterstützt wird, mit einer mitreißenden Melodie und einem energiegeladenen Beat, sowie Samples aus „Kick Your Legs In The Air“ und „Don’t Make Me Wait (Special Version)“.
 
 #### Trackliste
 ```md

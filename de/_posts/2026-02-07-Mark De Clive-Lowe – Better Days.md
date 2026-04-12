@@ -15,7 +15,7 @@ title: Mark De Clive-Lowe – Bessere Tage
 
 
 
-Mark De Clive-Lowe ist ein japanisch-neuseeländischer Musiker/Komponist/DJ/Produzent, der derzeit in Japan lebt. Sein Stil ist eine Fusion aus Alternative Jazz, Electronica und gebrochenen Beats.
+Mark De Clive-Lowe ist ein japanisch-neuseeländischer Musiker/Komponist/DJ/Produzent, der derzeit in Japan lebt. Sein Stil ist eine Mischung aus Alternative Jazz, Electronica und gebrochenen Beats.
 
 „Better Days“ ist ein Future Jazz/Deep House-Track, der im Jahr 2000 vom britischen Label People veröffentlicht wurde.
 

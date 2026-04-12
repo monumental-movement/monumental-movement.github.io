@@ -17,11 +17,11 @@ title: '[Kolumne] Tracy Chapman: Eine Ära, in der die Stimme der Stille bewegte
 
 ## „Für die Stimmlosen sprechen“
 
-Text: mmr｜Thema: Tracy Chapman ist eine seltene Künstlerin, die weiterhin über soziale Gerechtigkeit, Menschenwürde und stillen Widerstand singt und dabei Elemente aus Folk, Soul und Blues vermischt.
+Text: mmr | Thema: Tracy Chapman ist eine seltene Künstlerin, die weiterhin über soziale Gerechtigkeit, Menschenwürde und stillen Widerstand singt und dabei Elemente aus Folk, Soul und Blues vermischt.
 
 
-„Für die Stimmlosen sprechen“ – das ist einer der treffendsten Ausdrücke, um Tracy Chapmans Musik und Leben zu beschreiben.
-Seit ihrem Debüt im Jahr 1988 verzichtet sie auf auffällige Inszenierungen und übertriebene Inszenierungen und schildert weiterhin die Gesellschaft mit akustischen Tönen und einer leisen Sprechstimme, und ihre Reise berührt langsam die Seele des Zuhörers.
+„Für die Stimmlosen sprechen“ – das ist wahrscheinlich eines der treffendsten Worte, um Tracy Chapmans Musik und Leben zu beschreiben.
+Seit ihrem Debüt im Jahr 1988 hat sie auffällige Inszenierungen und übertriebene Inszenierungen vermieden und weiterhin die Gesellschaft mit akustischen Tönen und einer leisen Sprechstimme dargestellt, und ihre Reise berührt die Seele des Zuhörers zutiefst.
 In diesem Artikel möchte ich ihre Erziehung, ihren kreativen Prozess, ihre Tontechnologie, wichtige Beziehungen und Schnittmengen mit der Zeit nachzeichnen und entschlüsseln, warum ihre Lieder auch heute noch Nachhall finden.
 
 
@@ -49,7 +49,7 @@ Obwohl seine Familie nicht wohlhabend war, liebte seine Mutter Gospelmusik und s
 Als Kind, im Alter von drei Jahren, schenkte ihm seine Mutter eine Ukulele, und einer Anekdote zufolge war es seine erste Erfahrung mit einem Musikinstrument.
 Mit acht Jahren begann sie auch, Texte und Melodien zu schreiben, und einmal sagte sie: „Lieder schreiben ist wie ein Tagebuch schreiben.“
 
-Irgendwann, als er etwa 14 Jahre alt war, kam es zu einem Rassenaufstand, und er erzählte von einem schockierenden Erlebnis, bei dem eine Waffe auf ihn gerichtet war und ihm gesagt wurde, er solle „laufen“, woraufhin er fast erschossen wurde.
+Irgendwann, als er etwa 14 Jahre alt war, kam es zu einem Rassenaufstand, und er erzählte von einem schockierenden Erlebnis, bei dem eine Waffe auf ihn gerichtet war und ihm gesagt wurde, er solle „rennen“, woraufhin er fast erschossen wurde.
 
 Diese Erfahrungen führten später zu dem sozialen Bewusstsein und der Konzentration auf die Schwachen, die in „Talkin’ ’bout a Revolution“ zu sehen sind.
 
@@ -95,7 +95,7 @@ Diese Methode wurde wahrscheinlich gewählt, um die Frische der Kreation zu bewa
 
 ### ● Anekdoten zum Thema „Fast Car“
 Bei „Fast Car“ wird oft darüber diskutiert, ob es wahr oder erfunden ist, aber Chapman selbst sagt: „Es ist eine Geschichte und sie erzählt eine emotionale Wahrheit.“
-Mit anderen Worten: Nicht alle Charaktere im Lied sind sie selbst, aber sie spiegeln ihr geistiges Bild wider.
+Mit anderen Worten: Nicht alle Charaktere im Lied sind sie selbst, aber sie sind ein Spiegelbild von ihr.
 
 Der Song wurde sofort nach seiner Veröffentlichung ein Hit und erreichte sogar die Spitze der Billboard-Charts.
 Die Tatsache, dass die Library of Congress dieses Debütalbum als Teil des amerikanischen „National Recording Registry“ zertifizierte, prägte auch seine historische Bedeutung in späteren Jahren.
@@ -108,7 +108,7 @@ Diese Veranstaltung unterstreicht ihre starke Präsenz in der Musikwelt, da sie 
 ## Kapitel 3 „Talkin’ ’bout a Revolution“: Genealogie stiller Schreie
 
 ### ● Wenn Lieder in die Gesellschaft gehen
-Man kann sagen, dass „Talkin’ ’bout a Revolution“ ein Lied ist, das die Tradition von Protestliedern und Volksgeschichten bis in die Moderne fortsetzt.
+Man kann sagen, dass „Talkin’ ’bout a Revolution“ ein Lied ist, das die Tradition der Protestlieder und des Folk-Storytellings bis in die Moderne fortsetzt.
 Aber Chapman hat es vermieden, sich selbst als „Protestsänger“ zu bezeichnen. „Dieses Etikett schränkt mich ein“, sagte sie in einem Interview.
 
 Dieses Lied enthält jedoch den Willen, sich der Unterdrückung zu widersetzen, einen Blick auf soziale Ungleichheit und ein Gefühl der Solidarität mit denen, die keine Stimme haben, und hat die Kraft, beim Hörer Fragen aufzuwerfen.
@@ -117,7 +117,7 @@ Dieses Lied enthält jedoch den Willen, sich der Unterdrückung zu widersetzen, 
 
 ### ● Stimmen, die mit Charakterbeziehungen in Einklang stehen
 Chapmans musikalische Welten zeigen oft die Perspektiven anderer Menschen und die Geschichten anderer Charaktere.
-„Texte sind nicht unbedingt autobiografisch; sie sind eine Mischung aus Einflüssen, Emotionen und den Geschichten anderer Menschen“, sagt sie.
+„Texte sind nicht unbedingt autobiografisch; sie sind eine Mischung aus Einflüssen, Emotionen und den Geschichten anderer Menschen“, sagte sie.
 Diese Art zu sprechen hat eine Affinität zu Folk- und Blues-Traditionen.
 
 Sie nennt Gospel-, Soul- und Folk-Sänger als ihre musikalischen Einflüsse und hat ein starkes Gespür dafür, eher eine kollektive als eine individuelle Stimme zu formen.
@@ -172,7 +172,7 @@ Darüber hinaus sind unsere Beziehungen zu Produzenten und Ingenieuren ausgereif
 Chapman veröffentlichte bis in die 2000er Jahre weiterhin ausgewählte Veröffentlichungen.
 Obwohl er in „Telling Stories“ aus dem Jahr 2000, „Let It Rain“ aus dem Jahr 2002, „Where You Live“ aus dem Jahr 2005 und „Our Bright Future“ aus dem Jahr 2008 seine Musikalität und seinen Begleitstil verändert hat, hat er sich stets einen Sinn für Spontaneität und Sanftmut bewahrt.
 
-Bei *Where You Live* war sie selbst an der Produktion beteiligt und soll Einfluss auf das Sounddesign genommen haben.
+Für *Where You Live* war sie an der Produktion beteiligt und soll Einfluss auf das Sounddesign gehabt haben.
 Darüber hinaus nutzt sie selten Streaming, sondern bietet ihre Werke stattdessen auf CD und Vinyl an. Dies ist Ausdruck der Haltung des Unternehmens, „die Mittel zu schützen, mit denen Künstler angemessen entlohnt werden können.“:
 
 ---
@@ -192,7 +192,7 @@ Der Verhandlungsprozess für diese Phase soll vorsichtig gewesen sein, da die Gr
 Obwohl Chapman sich nicht unbedingt als „Protestsängerin“ betrachtet, haben ihre Lieder immer einen sozialen Aspekt.
 Wie sie sagt:
 
-> „Ich weiß, dass ich als Protestsängerin abgestempelt wurde, und ich akzeptiere diese Bezeichnung nicht … Ich hoffe, jeder weiß, dass ich das nicht bin … In dieser Hinsicht ist das eine Fiktion.“
+> „Ich weiß, dass ich als Protestsängerin abgestempelt wurde, und das ist kein Etikett, das ich akzeptiere … Ich hoffe, jeder weiß, dass ich das nicht bin … In dieser Hinsicht ist das eine Fiktion.“
 
 Dennoch sind ihre Lieder für viele Zuhörer eine Quelle der Empathie und des Widerstands gegen Ungerechtigkeit, Ungleichheit und Einsamkeit.
 
@@ -212,7 +212,7 @@ Darüber hinaus sorgen Live-Auftritte und Neukonfigurationen in Akustik-Sessions
 Streaming, hochauflösende Klangquellen, intelligente Lautsprecher, Kopfhörerumgebungen – die Musikwelt des 21. Jahrhunderts wird vielfältiger und die Hörbedingungen der Hörer werden komplexer.
 Unter diesen weisen Chapmans Lieder einen hohen Reinheitsgrad auf, der unnötige Frequenzen eliminiert, sodass analysiert werden kann, dass das Design es ermöglicht, dass seine Stimme in jeder Umgebung gehört wird.
 
-Zum Beispiel die Entzerrung, um die Mitten klar zu halten, das Mischen, um eine übermäßige Anhebung der Tiefen zu vermeiden, und die Unterdrückung von Hall und räumlicher Verarbeitung – all das sind Faktoren, die dafür sorgen, dass ihre Songs so gestaltet sind, dass sie nicht mit dem Lärm verschmelzen.
+Zum Beispiel die Entzerrung, um den Mitteltonbereich klar zu halten, das Mischen, um eine übermäßige Anhebung des Tieftonbereichs zu vermeiden, und die Unterdrückung von Hall und räumlicher Verarbeitung – all das sind Faktoren, die dafür sorgen, dass ihre Songs so gestaltet sind, dass sie nicht mit dem Lärm verschmelzen.
 
 Darüber hinaus ist der Ansatz, das „Live-Feeling“ in der Original-Songaufnahme zu betonen (wie die oben erwähnten zwei Mikrofone und die Anpassung des Kompressors), auch heute noch wirksam, da „das Gefühl der Live-Performance = ein Element, das Menschen näher zusammenbringt.“
 

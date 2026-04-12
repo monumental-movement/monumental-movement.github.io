@@ -52,7 +52,7 @@ color: #fff;
 
 In Jamaika waren in den 1960er und 1970er Jahren, als die Roots-Reggae-Generation heranwuchs, Politik und Kultur eng miteinander verbunden. Bevor Musik Unterhaltung war, diente sie der Bildung und dem Austausch von Ideen. Der Grund, warum Bob Marleys Lieder über nationale Grenzen hinweg akzeptiert wurden, lag darin, dass es neben der Melodie auch ein universelles Thema der Unterdrückung und Befreiung gab.
 
-Künstler wie Burning Spear und Culture schrieben Geschichte und Erinnerung in Lieder ein und erweiterten die persönliche Geschichte zur kollektiven Geschichte. Der Rhythmus war langsam, schwer und repetitiv und schuf eine Struktur, die dem Zuhörer Zeit zum Nachdenken gab.
+Künstler wie Burning Spear und Culture schrieben Geschichte und Erinnerung in Lieder ein und erweiterten die persönliche Geschichte zur kollektiven Geschichte. Der Rhythmus war langsam, schwer und sich wiederholend und schuf eine Struktur, die dem Zuhörer Zeit zum Nachdenken gab.
 
 Das Wichtige am Roots-Reggae ist, dass die Künstler, bevor sie Stars sind, Geschichtenerzähler sind. Musik war kein Mittel zur Selbstdarstellung, sondern ein Medium zur Bewahrung der Überzeugungen einer Generation.
 
@@ -100,7 +100,7 @@ Spiritualität ist nicht verschwunden, sondern hat sich in Selbstbestätigung, �
 
 ---
 
-## Ergänzungskapitel: Erweiterung der Geschichte der Reggae-Rezeption in Japan (ab den 1990er Jahren)
+## Ergänzungskapitel Erweiterung der Geschichte der Reggae-Rezeption in Japan (ab den 1990er Jahren)
 
 In den 1990er Jahren, als sich Reggae in Japan weit verbreitete, war eine Besonderheit die gleichzeitige Einführung von Roots und Dancehall. Importierte Plattenläden, Clubs und Zeitschriften stellten beides redaktionell gegenüber und relativierten so den Generationenkonflikt.
 

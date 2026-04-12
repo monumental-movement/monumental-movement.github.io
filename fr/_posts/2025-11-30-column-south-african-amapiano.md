@@ -18,7 +18,7 @@ title: '[Chronique] Amapiano sud-africain — Une nouvelle culture de la musique
 
 ## Introduction — Pourquoi Amapiano maintenant ?
 
-Texte : mmr｜Thème : Origines de l'Amapiano, caractéristiques musicales, histoire du développement, principaux artistes et processus d'internationalisation
+Texte : mmr｜Thème : Origines d'Amapiano, caractéristiques musicales, histoire du développement, artistes majeurs et processus d'internationalisation
 
 Ces dernières années, le genre de musique dance **Amapiano**, originaire d'Afrique du Sud, a attiré l'attention non seulement au Japon, mais également dans les clubs d'Afrique, d'Europe, d'Amérique du Nord et d'Asie.
 
@@ -84,7 +84,7 @@ graph LR
 
 ### Géographie et temps
 
-Le lieu de naissance d’Amapiano est Gauteng, en Afrique du Sud. Les townships de **Johannesburg** et **Pretoria** sont particulièrement importants.
+Le lieu de naissance d'Amapiano est **Gauteng** en Afrique du Sud. Les townships de **Johannesburg** et **Pretoria** sont particulièrement importants.
 
 Selon plusieurs sources, les expériences avec l'Amapiano ont commencé vers 2012, et le nom unifié « Amapiano » en tant que genre a été établi plus tard.
 
@@ -98,7 +98,7 @@ Selon plusieurs sources, les expériences avec l'Amapiano ont commencé vers 201
 
 ---
 
-### Figure 2 : Lieu de naissance et diffusion initiale
+### Figure 2 : Lieu de naissance et propagation initiale
 
 <div class="mermaid">
 graph TD

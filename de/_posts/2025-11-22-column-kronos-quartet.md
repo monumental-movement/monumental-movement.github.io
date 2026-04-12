@@ -162,7 +162,7 @@ graph TD
 
 ## 5. Bildung/Soziale Aktivitäten/Neue Projekte (2000er – heute)
 
-Neben der Auftrittstätigkeit liegt der Schwerpunkt des Kronos Quartetts auch auf pädagogischen und sozialen Projekten.
+Neben der Aufführung liegt der Schwerpunkt des Kronos Quartetts auch auf pädagogischen und sozialen Projekten.
 
 * **Workshop/Ausbildungsprogramm**: Betreuung an Universitäten und Musikschulen, Ausbildung junger Musiker.
 * **Aktivitäten zum kulturellen Austausch**: Konzerte auf der ganzen Welt, gemeinsame Auftritte mit lokalen Musikern.

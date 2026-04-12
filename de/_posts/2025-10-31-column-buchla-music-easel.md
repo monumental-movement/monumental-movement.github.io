@@ -206,14 +206,14 @@ Dieser „antidigitale“ Trend ist auch ein Zeichen dafür, die physische Reali
 ## Fazit: Die Zukunft als Orchester
 
 Die Staffelei ist funktional klein und der Ausdruckskraft grenzenlos.
-Der im Inneren flackernde elektrische Strom erzeugt einen „lebendigen Klang“, der synchron mit der Atmung des Künstlers synchronisiert ist.
+Der im Inneren flackernde elektrische Strom erzeugt einen „lebendigen Klang“ im Takt der Atmung des Künstlers.
 
 Wie Charles Cohen sagte: „Staffelei ist ein einsamer Gesprächspartner.“
 Wie Suzanne Ciani gezeigt hat, „ist es das Organ, das menschliche Emotionen in elektronische Form übersetzt.“
 
 In der heutigen, von Laptops dominierten Live-Umgebung
 Buchla Music Easel bleibt ein „Einzelorchester“.
-Es verbirgt die Zukunft der Improvisation in der kleinsten Schaltungseinheit.
+Es birgt die Zukunft der Improvisation verborgen in der kleinsten Schaltkreiseinheit.
 
 ---
 

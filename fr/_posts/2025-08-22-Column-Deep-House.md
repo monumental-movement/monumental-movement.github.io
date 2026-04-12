@@ -21,14 +21,14 @@ title: '[Chronique] Qu''est-ce que la deep house ? ─ Explorer la profondeur du
 
 Texte : mmr｜Thème : Deep House, un genre qui continue d'évoluer tranquillement tout en intégrant l'histoire et le contexte.
 
-La deep house est une sorte de house qui a émergé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
+La deep house est une variété de house qui a germé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
 
 
 <hr>
 
 ### Contexte et développement de la naissance
 
-**1985-1990 : début précoce (Chicago/NJ)**
+**1985-1990 : tôt tôt (Chicago/NJ)**
 
 [Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) présente le prototype avec "Can You Feel It" et "Mystery of Love". Suivant le flux de [Frankie Knuckles](https://amzn.to/4nUwWJ4) et [Marshall Jefferson](https://amzn.to/3KOf4AV), une fusion de la douce sensation soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) et [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
@@ -91,7 +91,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 ### Sous-genres et lignées périphériques
 
-**Chicago Deep** : coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
+**Chicago Deep** : Coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
 
 **Type Jersey/garage** : Piano/orgue et chant de type gospel. Exemple : Kerri Chandler, Blaze.
 
@@ -103,7 +103,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Afro Deep** : Polyrythmie, appel et réponse et percussions à haute température.
 
-**Lo-fi House** : saturation chaleureuse, sensation d'échantillon des années 90.
+**Lo-fi House** : saturation chaude, sensation d'échantillon des années 90.
 
 
 <hr>
@@ -125,7 +125,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Code** : "Marge douce" avec maj7, min9, sus2/4, 6th. Même les deux notes fondamentales + 9ème sont « profondes ».
 
-**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charleston est légèrement ouvert et fin.
+**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charley est légèrement ouvert et fin.
 
 **Groove** : « Respirez » avec un léger swing (+5 à +15 %) et des changements infimes de vélocité.
 
@@ -205,3 +205,14 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 ### Une musique qui peut être appréciée au fil du temps, pas en un instant
 
 La deep house est une musique qui peut être appréciée sur la durée. Plutôt qu'un simple succès remarquable, il y a une « continuation confortable » qui maintient la parole et les auditeurs en synchronisation les uns avec les autres. Si vous comprenez tout, des origines historiques aux sous-styles actuels, en passant par les secrets de la production et du DJing, vous pourrez approfondir considérablement votre sélection et votre appréciation.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71eFE_9VizI?si=SJuJ1A6POH72lP09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

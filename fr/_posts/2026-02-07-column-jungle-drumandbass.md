@@ -19,7 +19,7 @@ title: '[Chronique] Jungle / Drum & Bass Reconsidered : Réévaluer la musique c
 
 ## La veille de la naissance de la jungle ─ Accumulation de culture breakbeat
 
-Texte : mmr｜Thème : Une analyse multiforme des raisons pour lesquelles la jungle/drum and bass, née dans l'environnement urbain de Londres dans les années 1990, est aujourd'hui réévaluée, basée uniquement sur les faits de la technologie musicale, de l'origine sociale et de l'influence culturelle.
+Texte : mmr｜Thème : Une analyse multiforme des raisons pour lesquelles la jungle/drum and bass, qui est née dans l'environnement urbain de Londres dans les années 1990, est aujourd'hui réévaluée, basée uniquement sur les faits de la technologie musicale, de l'origine sociale et de l'influence culturelle.
 
 En Grande-Bretagne, au début des années 1990, les breakbeats dérivés du hip-hop, la culture basse du reggae/dub et la musique dance plus rapide de la rave évoluaient en parallèle. À Londres en particulier, les communautés immigrées et la culture des clubs de jeunes se croisaient étroitement et le mélange musical était monnaie courante.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Le nom « jungle » et la formation de la scène initiale
 
-Le mot « jungle » proviendrait de l’argot utilisé dans le reggae et le dancehall, et était également appelé ragga jungle à ses débuts. Combinant des rythmes rapides, des basses lourdes, des cris et des toasts du MC, il y avait une atmosphère nettement différente de la musique rave existante.
+Le mot « jungle » viendrait de l’argot utilisé dans le reggae et le dancehall, et était également appelé ragga jungle à ses débuts. Combinant des rythmes rapides, des basses lourdes, des cris et des toasts du MC, il y avait une atmosphère nettement différente de la musique rave existante.
 
 De 1992 à 1993, la radio londonienne Pirates a joué un rôle clé dans la promotion de ce nouveau son. La musique qui n’était pas diffusée sur les médias officiels pénétrait dans les communautés locales grâce aux ondes radio.
 
@@ -94,7 +94,7 @@ Cependant, le genre lui-même n’a pas disparu durant cette période, et la sc�
 
 ---
 
-## Mouvements de réévaluation depuis les années 2010
+## Mouvement de réévaluation depuis les années 2010
 
 Dans les années 2010, la jungle/drum and bass a recommencé à attirer l'attention. Les enregistrements antérieurs ont été réédités, offrant ainsi aux jeunes générations davantage d'opportunités de découvrir cette musique dans son contexte historique.
 
@@ -106,7 +106,7 @@ De plus, avec la diffusion d’Internet et des plateformes de distribution, il e
 
 ## Influence sur la musique contemporaine
 
-Dans la musique électronique, le hip-hop et la musique expérimentale d'aujourd'hui, il existe de nombreuses structures rythmiques qui ont clairement une influence jungle/drum'n'bass. Le rythme irrégulier et propulsif en particulier a été cité dans tous les genres.
+Il existe de nombreuses structures rythmiques dans la musique électronique actuelle, le hip-hop et la musique expérimentale qui ont des influences claires de la jungle/drum'n'bass. Le rythme irrégulier et propulsif en particulier a été cité dans tous les genres.
 
 Cette influence est souvent plus structurelle que timbrale et s'étend aux réinterprétations des breakbeats.
 

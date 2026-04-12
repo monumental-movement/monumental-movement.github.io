@@ -24,7 +24,7 @@ Text: mmr｜Thema: RZA Filmmusik, Produktionsphilosophie und spätere Aktivität
 
 Robert Fitzgerald Diggs (RZA) wurde am 5. Juli 1969 in Stony Brook, New York geboren.
 Schon in jungen Jahren wurde er mit Musik vertraut und kam durch den Einfluss seines Bruders mit Soul, Funk und frühem Hip-Hop in Kontakt.
-Insbesondere die Underground-Clubkultur im New York der späten 1970er und frühen 1980er Jahre hatte großen Einfluss auf den späteren Wu-Tang-Clan-Sound.
+Insbesondere die Underground-Clubkultur New Yorks in den späten 1970er und frühen 1980er Jahren hatte großen Einfluss auf den späteren Wu-Tang-Clan-Sound.
 
 RZA studierte selbstständig Musiktheorie und interessierte sich für Sampling und Rhythmuskonstruktion, während er gleichzeitig seine eigenen Ideen aus Kung-Fu-Filmen und Philosophiebüchern aufnahm. Was er in dieser Phase lernte, bildete die Grundlage für seinen späteren Produktionsstil und seine Musikphilosophie.
 
@@ -113,7 +113,7 @@ RZA übte die Koexistenz von Rauheit und Präzision und die Konstruktion einer E
 
 ## 4. Bobby Digital-Name und experimentelle Solowerke
 
-1999 veröffentlichte RZA experimentelle Solowerke unter dem Namen **Bobby Digital**.
+1999 veröffentlichte RZA experimentelle Soloarbeiten unter dem Namen **Bobby Digital**.
 
 * **„Bobby Digital in Stereo“ (1998)**
 
@@ -136,7 +136,7 @@ Zu den repräsentativen Werken gehören:
 * **Ghost Dog: Der Weg des Samurai (1999)**
 
 * Fusion der japanischen Samurai-Kultur mit Hip-Hop
-* Lied „Bird’s Theme“: Ein einfaches Drum-Pattern mit Shakuhachi- und Koto-Samples
+* Song „Bird’s Theme“: Ein einfaches Drum-Pattern mit Shakuhachi- und Koto-Samples
 * RZA stärkt das **Geschichtenerzählen** durch Musik und betont die Einheit von Bild und Ton
 
 * **„Kill Bill Vol.1 / Vol.2“ (2003/2004)**

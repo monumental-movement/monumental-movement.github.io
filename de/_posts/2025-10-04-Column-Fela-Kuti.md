@@ -52,7 +52,7 @@ Felas Musik zeichnet sich durch lange (10 bis 30 Minuten) sich wiederholende Gro
 
 ### Politische und kulturelle Aktivitäten
 
-Fela erklärte seine Villa zur „Kalakuta-Republik“ und betrieb sie als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, sie hat jedoch auch einen physischen Schaden verursacht.
+Fela erklärte sein Anwesen zur „Kalakuta-Republik“ und betrieb es als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, hat aber auch physische Nachteile.
 
 ---
 
@@ -70,7 +70,7 @@ flowchart TD
   1958 --> 1969 --> 1970s --> 1975 --> 1977 --> 1980s --> 1997
 </div>
 
-Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politischer Höhepunkt Mitte der 1970er Jahre → Aktivität und Unterdrückung ab den 1980er Jahren, und starb 1997 (die Todesursache soll Komplikationen/AIDS-bedingt sein).
+Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politischer Höhepunkt Mitte der 1970er Jahre → Aktivität und Unterdrückung ab den 1980er Jahren, und starb 1997 (als Todesursache werden Komplikationen/AIDS-bedingt angegeben).
 
 ---
 

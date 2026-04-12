@@ -74,7 +74,7 @@ Dans ce genre, en plus des tonalités majeures et mineures, les modes d'église 
 
 ### Rythme et tempo
 
-Le tempo est généralement moyen à faible, et même si le rythme est clair, la force motrice est supprimée. Le rythme répétitif souligne la nature rituelle et sert à obscurcir la notion du temps.
+Le tempo est principalement moyen à faible, et même si le rythme est clair, la force motrice est supprimée. Le rythme répétitif souligne la nature rituelle et sert à obscurcir la notion du temps.
 
 ### Organisation
 

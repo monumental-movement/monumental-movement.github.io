@@ -46,9 +46,9 @@ color: #fff;
 
 NTS Radio est une radio internet basée à Londres qui diffuse des programmes DJ et des performances live 24h/24. Le contenu diffusé est très varié, comprenant de la musique de club, de la musique expérimentale, de la musique folk et des performances d'improvisation.
 
-Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre particulier dans la programmation des programmes. Les artistes disposent de droits de conservation programme par programme et sont autorisés à inclure non seulement des sets de DJ, mais également des enregistrements sur le terrain, des sources sonores inédites et des performances en direct.
+Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre particulier dans la programmation des programmes. Les artistes disposent de droits de conservation programme par programme et sont autorisés à inclure non seulement des sets de DJ, mais également des enregistrements sur le terrain, des sources sonores inédites et des performances live.
 
-> "La diffusion en direct sur NTS a été positionnée comme un acte de partage du processus de sélection et d'interprétation des chansons lui-même, plutôt que comme une présentation de l'œuvre terminée."
+> "La diffusion en direct sur NTS a été positionnée comme un acte de partage du processus de sélection et d'interprétation des chansons lui-même, plutôt que comme la présentation d'œuvres terminées."
 
 ---
 
@@ -56,7 +56,7 @@ Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre 
 
 Boiler Room a commencé comme un projet visant à diffuser de petits événements DJ en salle à Londres. La caméra pénètre dans le même espace que le DJ et se caractérise par un format qui inclut la présence du public.
 
-Ce format diffère de l'enregistrement vidéo traditionnel dans lequel une caméra est installée derrière la cabine du DJ et présente une structure dans laquelle le public, l'espace et les interprètes sont tous dans le même cadre. En conséquence, la performance des DJ a été visualisée comme une expression qui inclut « un comportement physique et social » plutôt que comme un acte « uniquement sonore ».
+Ce format diffère de l'enregistrement vidéo traditionnel, où une caméra est placée derrière la cabine du DJ, dans le sens où le public, l'espace et les artistes sont tous dans le même cadre. En conséquence, la performance des DJ a été visualisée comme une expression qui inclut « un comportement physique et social » plutôt que comme un acte « uniquement sonore ».
 
 ---
 
@@ -70,7 +70,7 @@ En particulier dans NTS, les longs sets de plus de deux heures sont courants, et
 
 ---
 
-## Chapitre 4 : Compatibilité de la musique expérimentale et du live streaming
+## Chapitre 4 : Compatibilité de la musique expérimentale et du streaming en direct
 
 La musique expérimentale est traditionnellement jouée dans de petites salles, des musées et des établissements universitaires. Cependant, avec la diffusion du streaming en direct, l’environnement de présentation s’est élargi.
 
@@ -100,7 +100,7 @@ Par exemple, les sons de basse extrême et les dynamiques subtiles sont difficil
 
 ## Chapitre 7 Communauté et archives
 
-NTS et Boiler Room ont archivé leurs émissions et les ont rendues disponibles pour une visualisation et une écoute ultérieures. Cette nature archivistique transforme les performances live d'événements éphémères en matériaux référençables.
+NTS et Boiler Room ont archivé leurs émissions et les ont rendues disponibles pour une visualisation et une écoute ultérieures. Cette nature archivistique transforme les performances live d’événements éphémères en matériaux référençables.
 
 Les auditeurs pourront réinterpréter le spectacle non seulement en participant en temps réel mais aussi en le regardant plus tard.
 
@@ -149,7 +149,7 @@ Les faits résumés dans cet article serviront de base pour envisager les future
 
 La pratique des artistes de diffusion en direct apparaissant sur NTS et Boiler Room concerne davantage « la musique en tant que corps de mouvement » que le nom d'un genre.
 
-Les sets de DJ et les performances expérimentales diffusées en direct sont présentés comme un état de changement continu au fil du temps, plutôt que comme une œuvre finie.
+Les DJ sets et les performances expérimentales diffusées en direct sont présentés comme un état de changement continu au fil du temps, plutôt que comme une œuvre finie.
 Cela peut être considéré comme un « mouvement enregistrable ».
 
 > "Dès que la musique rejette les formats fixes, son mouvement devient plus évident."
@@ -158,7 +158,7 @@ Cela peut être considéré comme un « mouvement enregistrable ».
 
 ## Chapitre supplémentaire 2 Disparition du studio et du site
 
-Traditionnellement, il y avait une distinction entre la production musicale en studio et l’interprétation sur place. Cependant, dans un environnement de diffusion en direct, cette distinction devient floue. Les maisons, les espaces temporaires, les équipements publics, les studios sans public, etc. deviennent à la fois des espaces de production et de représentation.
+Traditionnellement, il y avait une distinction entre la production musicale en studio et la performance sur place. Cependant, dans un environnement de diffusion en direct, cette distinction devient floue. Les maisons, les espaces temporaires, les équipements publics, les studios sans public, etc. deviennent à la fois des espaces de production et de représentation.
 
 Sur NTS, il a été confirmé qu'il existe de nombreux cas dans lesquels du matériel en cours de production ou des sources sonores inachevées sont joués tels quels dans le programme. Boiler Room sort également occasionnellement des sets live proches des répétitions.
 

@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Techno industrielle/structure expérimentale dure, histoi
 
 Techno Industrielle / Hard Experimental Techno est une forme musicale qui met extrêmement en avant les matériaux acoustiques, la pression sonore, la distorsion et le bruit tout en conservant la structure temporelle répétitive de la techno. Ce genre diffère d’une perspective musicale centrée sur l’expression émotionnelle et la mélodie, et s’est construit autour des propriétés physiques du son lui-même et du contrôle du temps par la répétition.
 
-Cette tendance ne concerne pas seulement la « musique de club intense ». Il a été créé en adaptant les idées d'orientation matérielle, d'impersonnalité et de supériorité structurelle qui ont été cultivées pendant de nombreuses années dans la musique industrielle, l'EBM, la noise et la musique électronique expérimentale à l'espace strictement fonctionnel de la piste de danse.
+Il a été créé à la suite de l'adaptation des idées d'orientation matérielle, d'impersonnalité et de supériorité structurelle qui ont été cultivées pendant de nombreuses années dans la musique industrielle, EBM, noise et musique électronique expérimentale dans l'espace strictement fonctionnel de la piste de danse.
 
 ---
 
@@ -43,9 +43,9 @@ color: #fff;
 
 ## 1. Préhistoire historique : La jonction de la musique industrielle et de la techno
 
-La musique industrielle qui a émergé à la fin des années 1970 a intentionnellement détruit le principe musical moderne des sons, mélodies et harmonies musicales, et a traité les matériaux non musicaux tels que les sons métalliques, le bruit, les sons mécaniques et les boucles de bande comme des unités structurelles. Cette idée de « transformer le matériau lui-même en musique » est devenue le fondement de la conception sonore ultérieure de la techno industrielle.
+La musique industrielle qui a émergé à la fin des années 1970 a intentionnellement détruit le principe musical moderne du ton, de la mélodie et de l’harmonie, et a traité les matériaux non musicaux tels que les sons métalliques, le bruit, les sons mécaniques et les boucles de bande comme des unités structurelles. Cette idée de « transformer le matériau lui-même en musique » est devenue le fondement de la conception sonore ultérieure de la techno industrielle.
 
-D’autre part, la techno, née dans les années 1980, se caractérise par la répétition, la synchronisation et le temps quadrillé, et s’est développée dans le sens de l’élimination des fluctuations humaines. La Techno Industrielle est née en combinant directement la structure temporelle de la techno avec l'orientation matérielle de la musique industrielle.
+Années 1980 に確立したテクノは、反復、同期、グリッド化された時間を特徴とし、人間的揺らぎを排除する方向で発展した。 La Techno Industrielle est née en combinant directement la structure temporelle de la techno avec l'orientation matérielle de la musique industrielle.
 
 ---
 
@@ -59,7 +59,7 @@ Le rythme est linéaire, et le swing et le funk sont extrêmement sobres. Une pr
 
 ## 3. Redéfinition après les années 2010
 
-Dans les années 2010, la Techno Industrielle retrouve une nouvelle fois une forte présence. La sophistication sonore de la techno post-minimale et de la violence industrielle a été fusionnée et redéfinie de manière plus contrôlée.
+La sophistication sonore de la techno post-minimale et de la violence industrielle a été fusionnée et redéfinie de manière plus contrôlée.
 
 Une caractéristique de cette époque est que la distorsion et le bruit ne sont pas placés au hasard, mais sont incorporés après un contrôle strict de la bande, de la phase et de la dynamique. La destructibilité était un objectif de conception et optimisée pour l'environnement de jeu du club.
 
@@ -111,7 +111,7 @@ Dans un environnement modulaire, le bruit ne sert pas de mélodie ou de décorat
 
 Le morceau de Perc incarne la « violence contrôlée » de la techno industrielle. Le kick a un centre clair et la distorsion est concentrée dans les médiums. La portée basse n'est pas détruite et la stabilité physique est assurée lors du jeu en club.
 
-Le développement est minime et la structure est formée en modifiant la texture de la distorsion et en ajustant la densité du bruit plutôt qu'en augmentant ou en diminuant le nombre de sons. Le déphasage rythmique est minimal et la fidélité à la grille est maintenue.
+Le développement est minime et la structure est formée en changeant la texture de la distorsion et en ajustant la densité du bruit plutôt qu'en augmentant ou en diminuant le nombre de sons.
 
 ---
 

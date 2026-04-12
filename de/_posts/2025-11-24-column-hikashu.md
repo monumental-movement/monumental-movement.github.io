@@ -89,7 +89,7 @@ Es ist der Beginn eines Bruchs mit dem Genre und kann nicht als sogenannter „N
 # 4. Ausweitung der Aktivitäten von Koichi Makigami (Ende der 1980er – 1990er Jahre)
 – Zu Techno, Volksmusik, Theremin und darstellender Kunst
 
-Parallel zu den Gruppenaktivitäten erweitert Leiter Koichi Makigami den Umfang seiner Aktivitäten mit einem Schwerpunkt auf der **Erweiterung der Stimme**.
+Parallel zu den Aktivitäten der Gruppe erweitert Leiter Koichi Makigami den Umfang seiner Aktivitäten mit einem Schwerpunkt auf der **Erweiterung der Stimme**.
 
 - Weitere Erforschung des Obertongesangs
 - Zusammenarbeit mit zeitgenössischem Tanz
@@ -211,7 +211,7 @@ Die Einzigartigkeit von Hikashu liegt in der Tatsache, dass es sich weiterhin um
 2. Akustische Kunst mit Schwerpunkt auf der Stimme verfolgen
 3. Die Einstellung, unabhängig von den Trends der Zeit weiterhin kreativ zu sein
 4. Befreiung aus dem Rahmen traditioneller Rockbands
-5. Live-Philosophie, die immer genreübergreifend ist und auch Wiederaufführungen zum „Experiment“ macht
+5. Live-Philosophie, die stets genreübergreifend ist und auch Wiederaufführungen zum „Experiment“ macht
 
 Es reicht nicht aus, Hikashu einfach als „Legende der japanischen New Wave“ zu bezeichnen; Vielmehr sollte er als wichtiger Meilenstein in der Geschichte der zeitgenössischen japanischen Musik und Avantgarde-Kunst positioniert werden.
 

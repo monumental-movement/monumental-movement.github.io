@@ -15,7 +15,7 @@ title: Divers – King Britt présente Black To The Future
 
 Une compilation de King Britt, figure incontournable de la scène house de Philadelphie.
 
-Le premier morceau de la face A, The Society, est un projet du compositeur/arrangeur/saxophoniste Thomas Hass, membre en tournée de Senor Coconut.
+The Society, le premier morceau de la face A, est un projet du compositeur/arrangeur/saxophoniste Thomas Hass, membre en tournée de Senor Coconut.
 
 #### Liste des chansons
 ```md

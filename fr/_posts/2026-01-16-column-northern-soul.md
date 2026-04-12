@@ -170,7 +170,7 @@ E --> F[日本独自の受容]
 ## Conclusion : l'héritage de Northern Soul
 
 
-La Northern Soul est une culture fondée sur un axe différent des hit-parades et de l'histoire de la musique médiatique. La pratique consistant à déterrer de la musique inconnue, à y réagir avec son corps et à la partager avec ses amis est également pertinente pour la culture moderne des DJ et de la culture des clubs.
+La Northern Soul est une culture qui a été fondée sur un axe différent des hit-parades et de l’histoire de la musique médiatique. La pratique consistant à déterrer de la musique inconnue, à y réagir avec votre corps et à la partager avec vos amis est également pertinente pour la culture moderne des DJ et de la culture des clubs.
 
 Bien que sa popularité au Japon ne soit en aucun cas massive, sa persistance et sa profondeur prouvent que la Northern Soul n'est pas seulement un genre, mais une attitude.
 

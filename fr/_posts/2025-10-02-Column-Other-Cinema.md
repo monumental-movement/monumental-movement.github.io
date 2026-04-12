@@ -168,5 +168,5 @@ Pionnier du cinéma underground, Craig Baldwin a vivement critiqué les thèmes 
 
 Son travail continue d'élargir la gamme d'expression cinématographique et d'offrir au public de nouvelles perspectives. Le travail de Baldwin est un incontournable pour les cinéphiles et les chercheurs, et son travail devrait continuer à être regardé.
 
-Other Cinema est un pôle important de la culture cinématographique dans le Mission District de San Francisco, offrant une expérience rare aux amateurs de cinéma underground et expérimental. Sa collection de DVD est une ressource importante pour comprendre en profondeur l’histoire et la culture du cinéma. C’est certainement un endroit à visiter pour les cinéphiles et les chercheurs.
+Other Cinema est un pôle important de la culture cinématographique dans le Mission District de San Francisco, offrant une expérience rare aux amateurs de cinéma underground et expérimental. Sa collection de DVD est une ressource importante pour comprendre en profondeur l’histoire et la culture du cinéma. C'est définitivement un endroit à visiter pour les cinéphiles et les chercheurs.
 

@@ -23,7 +23,7 @@ Text: mmr | Theme: How has experimental beat updated anime music and expanded vi
 Electroacoustics, ethnic percussion, sampling, breakbeats, ambient processing.
 These are not just decorations, but have been incorporated into anime works as structures that create a worldview.
 
-In this article, we will focus on representative examples from the late 1980s onward, and examine how experimental beats have penetrated anime music and changed its narrative structure and cultural reception, from the perspectives of works, composers, and sound techniques.
+This article focuses on representative examples from the late 1980s onwards, and examines how experimental beats have penetrated anime music and changed its narrative structure and cultural reception from the perspectives of works, composers, and sound techniques.
 
 ---
 
@@ -80,9 +80,9 @@ Polyphonic chorus referencing Bulgarian voices, inorganic synth pads, and low-fr
 This is an example of expressing the tension between physicality and mechanicality through sound.
 
 In Cowboy Bebop, which aired in 1998, Yoko Kanno freely traversed jazz, big band, funk, and electronica.
-The opening song ""Tank!'' is a high-speed big band song, but its rhythmic disconnection and editorial structure resonate with post-club culture sensibilities.
+The opening song, ""Tank!,'' is a high-speed big band song, but its rhythmic disconnection and editorial structure resonate with post-club culture sensibilities.
 
-> The 1990s was a time when electronic sound and genre-crossing entered TV animation in earnest.
+> The 1990s was a time when electronic sound and genre-crossing entered TV anime in earnest.
 
 ---
 
@@ -205,7 +205,7 @@ Experimental beats are often designed with this synchronization in mind.
 ## Cultural Impact
 
 Experimental soundtracks have also influenced European and American filmmakers and musicians.
-Akira and Ghost in the Shell are reference points for cyberpunk expression.
+Akira and Ghost in the Shell have become reference points for cyberpunk expression.
 
 Hip-hop and lo-fi culture have also been re-exported through anime.
 Samurai Champloo contributed to the international visibility of Japanese beat culture.

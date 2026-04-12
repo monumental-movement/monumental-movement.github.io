@@ -158,7 +158,7 @@ In der Netflix-Serie „Stranger Things“ wurde „Running Up That Hill“ erne
 
 Allerdings ist Edgerunners insofern einzigartig, als es über eine dreistufige Struktur verfügt, in der die In-Game-Songs basierend auf dem Anime neu bewertet werden.
 
-Spiele → Anime → Streaming Re-Explosion
+Spiele → Anime → Streaming-Re-Explosion
 
 Dieser Trend wurde als erfolgreiches Beispiel einer Cross-IP-Strategie analysiert.
 
@@ -167,7 +167,7 @@ Dieser Trend wurde als erfolgreiches Beispiel einer Cross-IP-Strategie analysier
 Die Akustik des Songs basiert auf Synthesizer-Sounds der 1980er Jahre.
 Aufgrund seiner Affinität zur Cyberpunk-Weltanschauung ist das Interesse am Genre selbst gestiegen.
 
-Nach der Verbreitung des Animes wurde auch bestätigt, dass verwandte Playlists und ähnliche Künstler betroffen waren.
+Nach der Veröffentlichung des Animes wurde auch bestätigt, dass verwandte Playlists und ähnliche Künstler betroffen waren.
 
 > Es beeinflusste auch die Neubewertung des Musikgenres selbst.
 
@@ -178,7 +178,7 @@ Nach der Verbreitung des Animes wurde auch bestätigt, dass verwandte Playlists 
 * Dezember 2020: Cyberpunk 2077 veröffentlicht
 * 13. September 2022: Der Vertrieb von Cyberpunk: Edgerunners beginnt
 * Mitte September 2022: Die Spotify-Viren-Charts steigen
-* Herbst 2022: Wiederauftauchen in den Charts in mehreren Ländern
+* Herbst 2022: Wiederaufstieg in den Charts in mehreren Ländern
 * 2023: Kontinuierliche Long-Tail-Regeneration
 
 > Das Lied, das zwei Jahre lang ruhte, wurde im Laufe der Geschichte neu gestartet.

@@ -18,7 +18,7 @@ title: '[Kolumne] Das afrokubanische Skelett – Die Genealogie des Herzschlags,
 ## Einführung: Eine weitere Geschichte amerikanischer Musik, erzählt von Taiko-Trommeln
 
 
-Text: mmr｜Thema: Basierend auf Sabu Martinez und Arsenio Rodríguez
+Text: mmr｜Thema: Im Mittelpunkt stehen Sabu Martinez und Arsenio Rodríguez
 Die Wendepunkte der lateinamerikanischen Musikgeschichte im Längsschnitt verfolgen
 
 In den 1950er Jahren erschütterte ein Rhythmus, der an der Hintertür eines Jazzclubs ausgetauscht wurde, das Gefüge der amerikanischen Musik.
@@ -54,7 +54,7 @@ Dadurch entstand eine vielschichtige rhythmische Struktur.
 * **Soziale Faktoren:** Nach der Abschaffung der Sklaverei bildete sich in Havanna eine afroamerikanische Gemeinschaft und die Professionalisierung schwarzer Musiker schritt voran.
 * **Technische Elemente:** Die Standardisierung der Tres (dreisaitige Gitarre) und Congas ermöglichte die spätere Montuno-Struktur.
 
-Vor diesem Hintergrund erscheint ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
+Vor diesem Hintergrund entsteht ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
 
 ---
 
@@ -63,7 +63,7 @@ Vor diesem Hintergrund erscheint ein blinder Revolutionär namens **Arsenio Rodr
 ### „El Ciego Maravilloso (Der wundersame blinde Spieler)“
 
 Arsenio wurde in Havanna geboren und verlor als Kind bei einem Unfall sein Augenlicht.
-Als Gegenleistung für dieses Gefühl erlangte er die übernatürliche Fähigkeit, die „innere Struktur des Rhythmus“ zu hören.
+Im Austausch für diesen Sinn erlangte er die übernatürliche Fähigkeit, die „innere Struktur des Rhythmus“ zu hören.
 
 ### Seine Innovationen:
 
@@ -80,7 +80,7 @@ Es beeinflusste auch später Tito Puente, Machito und Thelonious Monk.
 
 ---
 
-## **Kapitel 3: Sabu Martinez – Beat Poet with Fire**
+## **Kapitel 3: Sabu Martinez – Schlage den Dichter mit Feuer**
 
 ### „Der Herzschlag des Heiligen von Harlem“
 
@@ -111,7 +111,7 @@ Sein Sound ist mit dem späteren afro-spirituellen Jazz (Pharoah Sanders, Alice 
 
 Als Arsenio 1950 in die Vereinigten Staaten zog und in Harlem zu arbeiten begann,
 Sabu hatte Sitzungen in derselben Stadt durchgeführt.
-Obwohl ihr Kontaktpunkt nicht die direkte Co-Hauptrolle ist,
+Obwohl es sich bei ihrem Ansprechpartner nicht um eine direkte Zusammenarbeit handelt,
 Sie waren tief in der **Bronx-Harlem Afro-Diaspora-Kultur** verwurzelt.
 
 | Ära | Arsenio Rodríguez | Sabu Martinez |

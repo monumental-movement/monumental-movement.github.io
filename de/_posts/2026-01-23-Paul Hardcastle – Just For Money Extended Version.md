@@ -16,7 +16,7 @@ title: Paul Hardcastle – Just For Money (Erweiterte Version)
 
 Paul Hardcastle ist ein britischer Musiker, Produzent, Radiomoderator und Multiinstrumentalist, der vor allem für 19 (1985) bekannt ist.
 
-„Just For Money“ ist ein Electro/Synth-Pop-Track aus dem 1985er Album „Paul Hardcastle“.
+„Just For Money“ ist ein Elektro-/Synth-Pop-Track aus dem 1985er Album „Paul Hardcastle“.
 
 
 #### Trackliste

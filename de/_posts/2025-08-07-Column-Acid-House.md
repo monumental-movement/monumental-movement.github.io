@@ -53,7 +53,7 @@ Die wichtigsten Merkmale von Acid House sind die folgenden Klangelemente:
 
 <hr>
 
-#### Vierfachkick
+#### Vier Tritte
 
 - BPM ist ein stabiles Tempo von etwa 120-130
 
@@ -68,7 +68,7 @@ Die wichtigsten Merkmale von Acid House sind die folgenden Klangelemente:
 
 - Erzeugen Sie ein Gefühl der Ekstase mit langen Aufbauphasen und detaillierten Änderungen
 
-Dieser Klang hatte eine enorme Wirkung als „chemischer Klang“, der Tänzer in der Dunkelheit eines Clubs oder mit Stroboskoplichtern in einen tranceähnlichen Zustand versetzte.
+Dieser Klang hatte eine enorme Wirkung als „chemischer Klang“, der Tänzer in der Dunkelheit eines Clubs oder mit Stroboskoplichtern in einen tranceähnlichen Zustand wiegte.
 
 
 <hr>
@@ -120,7 +120,7 @@ Diese Mode setzte sich ab den 1990er Jahren in der Rave-Kultur, Trance, Techno, 
 <hr>
 
 ### Verbreitung und Entwicklung von Acid House
-Nach den 1990er Jahren entwickelte sich Acid House weltweit auf unterschiedliche Weise weiter.
+Nach den 1990er Jahren entwickelte sich Acid House weltweit auf verschiedene Weise weiter.
 
 <div class="table-border">
 <table>
@@ -173,7 +173,7 @@ Heute wird Acid House inmitten der Retro-Kultur und der Wiederbelebung analoger 
 
 - Explosive Verbreitung von TB-303-Klonflugzeugen (Nachbildung analoger Ausrüstung)
 
-Acid House ist mehr als nur ein Musikgenre, es steht weiterhin an der Schnittstelle zwischen elektronischer Musik und Gegenkultur.
+Acid House ist mehr als nur ein Musikgenre, es ist weiterhin die Schnittstelle zwischen elektronischer Musik und Gegenkultur.
 
 
 <hr>
@@ -182,12 +182,24 @@ Acid House ist mehr als nur ein Musikgenre, es steht weiterhin an der Schnittste
 
 Acid House ist eine seltene Musikkultur, die aus der Schnittstelle zufälliger technologischer Innovation und dem Zeitgeist entstanden ist. Mehr als 30 Jahre später hallt der Klang des TB-303 weiterhin auf Clubböden und in digitalen Räumen wider und inspiriert weiterhin zukünftige Musiker.
 
-Acid ist kein Nachhall der Vergangenheit, sondern ein Klangmutant, der sich ständig weiterentwickelt.
+Acid ist kein Nachklang der Vergangenheit, sondern ein Klangmutant, der sich ständig weiterentwickelt.
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eK5695jB6vc?si=HFqnh8aSeZRUmUPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Verwandte Spalten
 
 🔗 [【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化](https://monumental-movement.jp/Colum-Chicago-House)
 
 🔗 [【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動](https://monumental-movement.jp/Column-Roland-TR-1000)
+
+---

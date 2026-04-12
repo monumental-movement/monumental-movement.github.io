@@ -14,7 +14,7 @@ title: '[Chronique] Des origines de Shoegaze à nos jours — 10 chefs-d''œuvre
 
 
 
-## Shoegaze - contexte historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
+## Shoegaze - historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
 
 
 Texte : mmr｜Thème : Des origines de Shoegaze à nos jours
@@ -87,14 +87,14 @@ color: #fff;
 - **Effet** : Digitech Whammy, Yamaha SPX90, Boss CE-2 Chorus
 - **Technologie d'enregistrement** : Construire un « mur de son » grâce à l'enregistrement multicouche
 
-### 10 chansons recommandées (années 1990)
+### 10 chansons recommandées (années 1990)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
-| Seulement peu profond | Ma sanglante Saint-Valentin | Pop rugissante qui a défini le genre |
+| Seulement peu profond | Ma sanglante Saint-Valentin | Une pop rugissante qui a défini le genre |
 | Quand le soleil frappe | Plongée lente | Un symbole d'une belle sensation de flottement |
 | Alison | Plongée lente | Une célèbre ballade éphémère et transparente |
-| Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sentiment de rêve |
+| Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sensation de rêve |
 | Laissez-les tous derrière | Balade | Un chef-d'œuvre aux évolutions du rock progressif |
 | De Luxe | Luxuriant | Bruit de guitare léger et vif |
 | Lignes de désir | Luxuriant | Paysage sonore profond |
@@ -191,7 +191,7 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
 | Asile contre la famine | Rien | Rugissement moderne et profond |
-| Attrapez la brise (Rework) | Plongée lente | Symbole du nouveau Slowdive |
+| Attrapez la brise (refonte) | Plongée lente | Symbole du nouveau Slowdive |
 | Bisous | Plongée lente | Beauté mélodique transparente |
 | Dites moins | Rien | Mur de son sombre et écrasant |
 | Ne vous fanez pas | Ringo Étoile de la Mort | Beauté rugissante rafraîchie |

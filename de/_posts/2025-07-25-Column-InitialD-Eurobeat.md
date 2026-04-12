@@ -111,11 +111,11 @@ Eurobeat ist Musik, die von Geschwindigkeit spricht, und gleichzeitig ist es zu 
 
 <hr>
 
-### Die Erinnerung an die Geschwindigkeit wird niemals verschwinden
+### Die Erinnerung an die Geschwindigkeit wird niemals verblassen
 „Initial D“ ist zu Ende, aber die Erinnerungen an Eurobeat kursieren immer noch im Internet. Auch wenn das Rennen vorbei ist, beginnt das Rennen jedes Mal, wenn die Musik abgespielt wird, von neuem.
 
 Es ist auch ein Wiedererleben unserer eigenen „Jugend“ und unseres „Impulses“.
-Auch jetzt noch, wenn ich dieses Geräusch höre, schlägt mein Herz verrückt.
+Sogar jetzt, wenn ich dieses Geräusch höre, schlägt mein Herz verrückt.
 
 ---
 

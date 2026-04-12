@@ -46,9 +46,9 @@ color: #fff;
 ## Kapitel 1: Die Geburt der Londoner Szene – Wind aus dem Süden
 
 Wenn man über das Wiederaufleben des Jazz in London spricht, kommt einem immer die geografische Energie Südlondons in den Sinn.
-Die Söhne von Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd und anderen haben ein neues Jazz-Vokabular etabliert, aber Nala Sinephro ist diejenige, die den Sound von der „stillen Seite“ her neu aufgebaut hat.
+Die Söhne von Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd und andere haben ein neues Jazz-Vokabular etabliert, aber Nala Sinephro ist diejenige, die den Sound von der „stillen Seite“ her neu aufgebaut hat.
 
-Sie hat st. Lucianische und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.
+Sie hat St. Lucianer und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.
 Bei einer Session im Londoner Jazzclub „Total Refreshment Centre“
 Er hat eine einzigartige Klangsprache geschaffen, die sich frei zwischen Harfe und modularem Synthesizer bewegt.
 
@@ -84,7 +84,7 @@ Nala Sinephros Musik steht im Geiste von Harold Budd, Alice Coltrane und Laraaji
 Es ist der „kontemplative Modernismus“, der in der Post-Club-Ära des 21. Jahrhunderts neu definiert wurde.
 
 Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum, indem sie Klangebenen hinzufügen.
-Der Rhythmus verschwindet, die Melodie driftet und alles, was bleibt, ist das **Gefühl von Zeit und Raum**.
+Der Rhythmus verschwindet, die Melodie driftet ab und alles, was bleibt, ist das Gefühl von Zeit und Raum.
 
 
 <div class="mermaid">
@@ -115,7 +115,7 @@ Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper 
 
 Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.
 Wellenformen umhüllen die Echos der Harfe, analoge Temperaturen neutralisieren die elektronische Transparenz.
-Es ist auch ein Akt der Sublimierung von Musik zu einem **Technologiegebet**.
+Es ist auch ein Akt der Sublimierung von Musik in ein **Technologiegebet**.
 
 ---
 

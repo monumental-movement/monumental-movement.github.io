@@ -67,7 +67,7 @@ La Pop électronique expérimentale/Art Pop utilise activement ces caractéristi
 
 Depuis les années 2010, les œuvres musicales sont presque inévitablement liées aux images. Les clips musicaux, les vidéos en direct et les courtes vidéos destinées aux réseaux sociaux ont modifié la structure même de la réception musicale.
 
-Dans le contexte de l’Art Pop, la vidéo n’est pas conçue comme un complément à la chanson, mais comme une composante équivalente. Le son et la vidéo sont conçus en même temps, et l'œuvre a une structure dans laquelle aucun d'eux ne peut à lui seul achever l'œuvre.
+Dans le contexte de l’Art Pop, la vidéo n’est pas conçue comme un complément à la chanson, mais comme une composante équivalente. Le son et la vidéo sont conçus en même temps, et l'œuvre a une structure dans laquelle l'un ou l'autre ne peut à lui seul achever l'œuvre.
 
 ---
 
@@ -208,7 +208,7 @@ Experimental Electronic Pop/Art Pop se positionne comme une tentative de reconst
 
 Ce genre n'est pas un style fixe, mais une structure qui continue d'évoluer en fonction de l'environnement de production et de la situation médiatique. FKA twigs et Arca sont des exemples clairs de cette mutabilité, redéfinissant la relation entre la musique, les images et le corps.
 
-Pop/Art électronique expérimental La pop est un domaine qui continuera à générer de nouvelles formes d'expression au sein de la musique pop.
+Pop/Art électronique expérimental La pop est un domaine qui continuera à générer de nouvelles formes d'expression à partir de la musique pop.
 
 ---
 

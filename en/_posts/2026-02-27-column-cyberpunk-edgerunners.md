@@ -166,9 +166,9 @@ This trend has been analyzed as a successful example of a cross-IP strategy.
 The acoustics of the song are based on 1980s synth sounds.
 Due to its affinity with the cyberpunk worldview, interest in the genre itself has increased.
 
-After the anime was distributed, it was also confirmed that related playlists and similar artists were affected.
+After the anime was released, it was also confirmed that related playlists and similar artists were affected.
 
-> It also influenced the re-evaluation of music genres themselves.
+> It also influenced the re-evaluation of the music genre itself.
 
 ---
 

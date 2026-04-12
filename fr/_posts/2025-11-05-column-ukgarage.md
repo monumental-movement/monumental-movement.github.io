@@ -66,7 +66,7 @@ Il y a. Speed ​​​​Garage a secoué le sol du club avec son équilibre en
 Peu à peu, le coup de pied à quatre contre un a été omis et le rythme oscillant est devenu dominant.
 Il s'agissait du **2-Step Garage**, dirigé par **Artful Dodger**, **MJ Cole**, **Craig David** et d'autres.
 
-- **Exploit Artful Dodger. Craig David – « Re-Rewind » (1999)**
+- **Exploit Artful Dodger. Craig David – « Re-Rewind » (1999)**
 - **MJ Cole – « Sincère » (2000)**
 
 Ces chansons, à l'intersection des mélodies R&B et des rythmes britanniques, ont dominé la radio et les charts.
@@ -129,7 +129,7 @@ C'est cette diversité qui crée la « fluctuation » du rythme.
 - **L'esprit DIY des villes britanniques**
 
 Cette intersection a formé l’identité sonore unique du Royaume-Uni.
-Le parti UKG était également un espace commun qui transcendait les classes et les races et servait de moyen d’expression positive pour les jeunes en réponse aux troubles sociaux de l’époque (émeutes, chômage, politique du gouvernement Blair).
+Le parti UKG était également un espace commun qui transcendait les classes et les races et servait de moyen d’expression positif pour les jeunes en réponse aux troubles sociaux de l’époque (émeutes, chômage, politique du gouvernement Blair).
 
 ---
 

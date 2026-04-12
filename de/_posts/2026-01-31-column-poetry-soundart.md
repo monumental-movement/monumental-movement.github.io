@@ -53,7 +53,7 @@ Poesie war ursprünglich etwas, das „gesprochen“ wurde, bevor es geschrieben
 
 Mit der Verbreitung der Drucktechnik wurde die Poesie auf Papier fixiert und der Akt des Lesens verlagerte sich in den visuellen Mittelpunkt. Vom 19. bis zum frühen 20. Jahrhundert wurde die Rezitation von Gedichten zweitrangig und Werke wurden zunehmend als Texte bewertet. Die Lesungen der Dichter selbst gingen jedoch weiter und die Bedeutung der Stimme ging nie ganz verloren.
 
-> Auch in der Zeit, als die Poesie auf dem Papier etabliert wurde, blieb die Stimme ein weiterer Ort der Poesie.
+> Selbst in der Zeit, als die Poesie noch auf dem Papier etabliert wurde, blieb die Stimme ein weiterer Ort der Poesie.
 
 ---
 
@@ -189,7 +189,7 @@ In Radiowerken wird die Sendezeit selbst zur Struktur. Poesie wurde als zeitlich
 
 ### Der Körper, der Stimme gibt
 
-Das Lesen von Gedichten ist ein Ausdruck, der einem die Existenz nicht nur der Stimme, sondern auch des Körpers deutlich bewusst macht. Atmung, Haltung und Bewegung beeinflussen die Qualität der Stimme, und das Rezitieren ist auch mit der visuellen Leistung verknüpft.
+Das Lesen von Gedichten ist ein Ausdruck, der einem die Existenz nicht nur der Stimme, sondern auch des Körpers deutlich bewusst macht. Atmung, Haltung und Bewegung beeinflussen die Qualität der Stimme, und das Rezitieren ist auch mit der visuellen Leistung verbunden.
 
 ### Die Bedeutung der Improvisation
 

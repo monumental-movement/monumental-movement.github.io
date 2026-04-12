@@ -18,7 +18,7 @@ title: '[Kolumne] Scott Herren / Prefuse 73: Dichter der Beats und Fragmente'
 
 # Einführung
 
-Text: mmr｜Thema: Nachverfolgung von Leben, Karriere, Musikstil und Projekten mit Chronologie und Diagrammen
+Text: mmr｜Thema: Leben, Karriere, Musikstil und Projekte mit Chronologie und Diagrammen nachzeichnen
 
 Guillermo Scott Herren, auch bekannt als **Prefuse 73**, ist seit Beginn des 21. Jahrhunderts ein sehr wichtiger Produzent in der Welt des instrumentalen Hip-Hop, IDM und Electronica. Seine Musik ist bekannt für ihre sorgfältige Beat-Konstruktion, die Sample-Fragmentierung, Gesangsausschneiden und -einfügen sowie Glitch-Verarbeitung nutzt, und hat viele Schöpfer beeinflusst.
 
@@ -71,11 +71,11 @@ Dieses Projekt positioniert sich als eine weitere Form seines Selbstausdrucks un
 # Geburt von Prefuse 73 und frühen Werken
 
 2001 veröffentlichte Herren sein Debütalbum *Vocal Studies + Uprock Narratives* unter dem Namen **Prefuse 73**.
-Es zeichnet sich durch fragmentarische Samples aus, die MPC, Gesangsausschneiden und -einfügen sowie Glitch-Verarbeitung voll ausnutzen, und obwohl es viele Gastkünstler hat, hat es sein eigenes, einzigartiges Weltbild geschaffen.
+Es zeichnet sich durch fragmentarische Samples aus, die MPC, Gesangsausschneiden und -einfügen sowie Glitch-Verarbeitung voll ausnutzen, und obwohl es viele Gastkünstler hat, hat es seine eigene, einzigartige Weltanschauung geschaffen.
 
 Im Jahr 2002 veröffentlichten sie die EP *The '92 vs. '02 Collection*. Der Inhalt wurde mit elektronischem Noise und experimentellen Beats angereichert.
 
-Im Jahr 2003 erschien das bahnbrechende Album *One Word Extinguisher*. Gleichzeitig wurde auch *Extinguished: Outtakes* veröffentlicht, eine Zusammenstellung ungenutzter Takes und Remixe.
+Im Jahr 2003 erschien das bahnbrechende Album *One Word Extinguisher*. Zur gleichen Zeit wurde auch *Extinguished: Outtakes* veröffentlicht, eine Zusammenstellung ungenutzter Takes und Remixe.
 Dieses Werk entwickelte die Sample-Fragmentierung und die präzise Beat-Konstruktion weiter und diente als Brücke zwischen IDM und Hip-Hop.
 
 ---
@@ -125,7 +125,7 @@ Im Jahr 2024 wird er *New Strategies for Modern Crime Vol.1* und *Vol.2* veröff
 
 # Musikstile und Einflüsse
 
-- Fusion aus Hip-Hop (1990er), Miami Bass, IDM und Jazz.
+– Fusion aus Hip-Hop (1990er), Miami-Bass, IDM und Jazz.
 - Verfügt über eine Technologie, die Samples und Gesang ausschneidet und in extrem kleine Einheiten einfügt, um sie zu rekonstruieren.
 - Mehr als nur experimentelle Musik, sie drückt urbane Emotionen und Menschlichkeit in Fragmenten aus.
 - Erweitern Sie Ihr musikalisches Spektrum durch Zusammenarbeit und vernetzen Sie sich mit Künstlern der neuen Generation.

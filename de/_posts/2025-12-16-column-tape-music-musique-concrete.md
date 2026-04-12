@@ -26,7 +26,7 @@ Vor der konkreten Musik wurde Musik als eine Kombination abstrahierter Elemente 
 
 ### 1.2 Rundfunktechnik und Experimentierraum
 
-Die an den Sender angeschlossene Forschungseinrichtung fungierte anders als der Aufführungsort als Experimentierraum. Die in einem ausschließlich der Reproduktion dienenden Raum gespielten Klänge wurden vom Körper des Interpreten getrennt und der Akt des Zuhörens selbst neu strukturiert.
+Die dem Sender angeschlossene Forschungseinrichtung fungierte anders als der Aufführungsort als Experimentierraum. Die in einem ausschließlich der Reproduktion dienenden Raum gespielten Klänge wurden vom Körper des Interpreten getrennt und der Akt des Zuhörens selbst neu strukturiert.
 
 
 ---
@@ -49,7 +49,7 @@ color: #fff;
 
 ### 2.1 Aufbau des Magnetbandes
 
-Magnetband ist ein flexibles physisches Medium. Vorgänge wie Schneiden, Spleißen, Abwickeln und Ändern der Geschwindigkeit wurden allesamt als physische Handlungen ausgeführt. Diese Körperlichkeit wurde in den 1970er Jahren zu einem wichtigen Faktor der Neubewertung.
+Magnetband ist ein flexibles physikalisches Medium. Vorgänge wie Schneiden, Spleißen, Abwickeln und Ändern der Geschwindigkeit wurden allesamt als physische Handlungen ausgeführt. Diese Körperlichkeit wurde in den 1970er Jahren zu einem wichtigen Faktor der Neubewertung.
 
 ### 2.2 Komposition als Bearbeitungsakt
 
@@ -65,7 +65,7 @@ Durch die extrem nahe Platzierung des Mikrofons an der Schallquelle wurden winzi
 
 ### 3.2 Mehrpunkt-Soundsammlung
 
-Die Tonaufnahme mit mehreren Mikrofonen war der Vorgang, eine einzelne Tonquelle aus verschiedenen Perspektiven einzufangen und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Bearbeitungsprozess.
+Bei der Tonaufnahme mit mehreren Mikrofonen handelte es sich um die Aufnahme einer einzelnen Tonquelle aus verschiedenen Perspektiven und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Bearbeitungsprozess.
 
 ---
 

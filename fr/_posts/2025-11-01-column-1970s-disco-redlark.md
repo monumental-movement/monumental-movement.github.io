@@ -95,7 +95,7 @@ En fait, l’industrie musicale japonaise a également absorbé son influence.
 Par exemple:
 - **« 240 Million Eyes » de Hiromi Go (1984)** trouve ses racines dans l'exaltation du disco des années 70.
 - **Pink Lady "UFO" (1977)** est un exemple réussi de production nationale de synth disco de style Donna Summer.
-- **« Awakening » de Hiroshi Sato (1982)** a sublimé les souvenirs de la scène nocturne d'Akasaka en city pop.
+- **« Awakening » (1982)** de Hiroshi Sato a sublimé les souvenirs de la scène nocturne d'Akasaka en city pop.
 
 Il ne faut pas oublier que l'espace disco des années 1970 a été le point de départ de cette tendance.
 

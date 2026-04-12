@@ -78,7 +78,7 @@ B4. The Body = ザ ボディー
 ### Les Rallizes Dénudés – Live 1972
 <a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
 
-- **Hintergrund**: 1967 in Kyoto gegründet. Eine legendäre Band, die von den 1960er bis 1990er Jahren aktiv war und großen Einfluss auf Noise Rock in Japan und im Ausland hatte. Behält Kult-Popularität bei.
+- **Hintergrund**: 1967 in Kyoto gegründet. Eine legendäre Band, die von den 1960er bis 1990er Jahren aktiv war und großen Einfluss auf den Noise Rock in Japan und im Ausland hatte. Behält Kult-Popularität bei.
 - **Highlights**: Trostlose, anhaltende Klänge, dröhnende Drones, minimale, sich wiederholende Grooves. Das ursprüngliche Erlebnis der japanischen Noise-Psyche trifft einen direkt.
 
 #### Trackliste

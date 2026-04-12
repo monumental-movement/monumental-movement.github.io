@@ -9,8 +9,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Column] Affinity between anime and jazz/fusion: A story of city nights and
-  music'
+title: '[Column] The affinity between anime and jazz/fusion: A story of city nights
+  and music'
 ---
 
 
@@ -79,7 +79,7 @@ flowchart TD
     A198["1980s: City pop elements + jazz fusion permeate the soundtrack"]
     A199["1990s: "Cowboy Bebop" Yoko Kanno & The Seatbelts"]
     A200["2000s: "Nodame Cantabile" Classical + Jazz Arrangement"]
-    A201["2010s: Narrating jazz through the depiction of the "Apollo on the Slope" session"]
+    A201["2010s: Narrating jazz through the depiction of the 'Apollo on the Slope' session"]
     A202["2020s: "LAZARUS" (MAPPA x Shinichiro Watanabe x Kamasi Washington and others)"]
 
     A1970 --> A198 --> A199 --> A200 --> A201 --> A202

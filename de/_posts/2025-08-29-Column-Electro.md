@@ -15,7 +15,7 @@ title: '[Kolumne] Elektro: Der Rhythmus der von Maschinen geformten Stadt der Zu
 ---
 
 
-##Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
+## Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
 
 
 Text: mmr｜Thema: Elektronischer Herzschlag, geboren mit Breakdance
@@ -24,7 +24,7 @@ Text: mmr｜Thema: Elektronischer Herzschlag, geboren mit Breakdance
 
 ### Einführung
 
-Basierend auf Funk- und Hip-Hop-Rhythmen haben sie eine einzigartige Entwicklung durch die Verwendung der Beats von Rhythmusmaschinen erreicht. insbesondere der Roland TR-808 als Kernstück. Der futuristische Sound aus tiefen Basskicks, trockenen Snares und Synthesizern hinterließ einen starken Einfluss auf spätere Techno-, House-, Electroclash- und sogar moderne Bassmusik.
+Electro ist ein Trend der elektronischen Musik, der Anfang der 1980er Jahre entstand. Basierend auf Funk- und Hip-Hop-Rhythmen haben sie eine einzigartige Entwicklung erreicht, indem sie die Beats von Rhythmusmaschinen, insbesondere der Roland TR-808, als Kern nutzten. Der futuristische Sound aus tiefen Basskicks, trockenen Snares und Synthesizern hinterließ einen starken Einfluss auf spätere Techno-, House-, Electroclash- und sogar moderne Bassmusik.
 
 <hr>
 
@@ -34,7 +34,7 @@ Die Geburt des Elektro ist eng mit der Breakdance-Kultur der Bronx, New York, ve
 
 #### **Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)**
 
-„Trans-Europa“. Express」と「Numbers」をサンプリングし、TR-808のリズムに融合した歴史的名曲。 Infolgedessen entwickelte sich Elektro zum „futuristischen Hip-Hop“.
+Ein historisches Meisterwerk, das Kraftwerks „Trans-Europe Express“ und „Numbers“ sampelt und sie mit dem Rhythmus des TR-808 verschmilzt. Infolgedessen entwickelte sich Elektro zum „futuristischen Hip-Hop“.
 
 „Planet Rock“ gilt weithin als das Signaturwerk von Afrika Bambaataa und The Soulsonic Force, deren innovativer Sound und bahnbrechender Ansatz einen bedeutenden Platz in der Geschichte der Hip-Hop- und Tanzmusik einnehmen.
 

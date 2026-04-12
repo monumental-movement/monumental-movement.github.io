@@ -11,7 +11,7 @@ tags:
 - Folk
 - Psychedelic
 - Spiritual
-title: Esprit de l’arbre – Esprit de l’arbre
+title: Esprit de l'arbre – Esprit de l'arbre
 ---
 
 

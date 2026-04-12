@@ -37,7 +37,7 @@ Tresor (was auf Deutsch „sicher“ bedeutet) ist ein Club, der 1991 in Berlin,
 Verlassene Gebäude, stillgelegte Fabriken und unterirdische Räume wurden in Clubs umgewandelt.
 
 Westliche und östliche Kulturen verschmolzen und Tanzmusik, ein Symbol der Freiheit, erklang.
-Unter anderem eröffnete Tresor in einem renovierten Tresorraum eines ehemaligen Kaufhauses. Der tiefe Bassklang, der hinter der geschlossenen Eisentür ertönte, symbolisierte den Beginn einer neuen Ära.
+Unter anderem eröffnete Tresor in einem renovierten Tresorraum eines ehemaligen Kaufhauses. Der tiefe Bassklang, der hinter der geschlossenen Eisentür erklang, symbolisierte den Beginn einer neuen Ära.
 
 <hr>
 
@@ -156,7 +156,7 @@ Heute treten dort DJs aus aller Welt auf und er dient weiterhin als Wallfahrtsor
 ### Die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zu einer „universellen Kultur“ erheben
 
 Tresor ist mehr als nur ein Club oder ein Label, es ist ein „kultureller Knotenpunkt“, der die Geschichte Berlins, den Stadtraum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
-Die aus diesem Gewölbe freigesetzten Klänge hallen immer noch in der Clubkultur auf der ganzen Welt nach und erheben die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zur „universellen Kultur“.
+Die aus diesem Gewölbe freigesetzten Klänge hallen immer noch in der Clubkultur auf der ganzen Welt wider und erheben die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zur „universellen Kultur“.
 
 ---
 

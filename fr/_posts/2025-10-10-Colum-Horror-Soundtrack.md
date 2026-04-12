@@ -25,7 +25,7 @@ Les frayeurs liées aux sauts appartiennent au passé et, à la place, les basse
 Il s’agissait également d’une application de la découverte psychoacoustique selon laquelle l’audition affecte le psychisme profond plus directement que la vision.
 
 Les films d'horreur de cette époque non seulement suscitaient la peur, mais « érodaient » également le monde intérieur du public à travers le son.
-Au centre de ce changement se trouvaient une nouvelle génération de studios de production tels qu'A24 et Blumhouse.
+Au centre de ce changement se trouvait une nouvelle génération de studios de production tels que A24 et Blumhouse.
 
 ---
 

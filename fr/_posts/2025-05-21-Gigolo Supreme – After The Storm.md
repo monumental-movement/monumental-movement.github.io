@@ -19,7 +19,7 @@ title: Gigolo Supreme – Après la tempête
 
 Caractérisé par une fusion de jazz et de house, il a un son doux et groovy. Le « Vinyl Saturday Mix », qui comprend un saxophone, des claviers et une batterie puissante, est particulièrement populaire et apprécié des fans de jazz house et d'acid jazz.
 
-Plus de 20 ans plus tard, cette chanson est toujours l’une des préférées des DJ et des amateurs de house music, et est considérée comme parfaite pour faire la fête ou se détendre.
+Plus de 20 ans plus tard, cette chanson est toujours l'une des préférées des DJ et des amateurs de musique house, et est considérée comme parfaite pour faire la fête ou se détendre.
 
 #### Liste des chansons
 ```md

@@ -47,7 +47,7 @@ color: #fff;
 
 #### 2.1 Genesis P-Orridge- und COUM-Getriebe
 
-Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokative und politische Themen in ihre Kunst ein.
+Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokante und politische Themen in ihre Kunst ein.
 
 Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Interesse an der Integration von bildender Kunst, Musik und Performance, was den Grundstein für seine spätere Arbeit legte. Er gründete auch Throbbing Gristle, die als Pioniere der Industrial-Musik international anerkannt wurden.
 
@@ -169,6 +169,6 @@ graph LR
 
 ### 10. Fazit
 
-Psychic TV war eine umfassende Bewegung, die Musik, Rituale und Ideologie kreuzte. Ihre Arbeit geht über die reine Musik hinaus und erforscht Magie, Bilder, den Körper, Spiritualität und Gemeinschaft. Genesis P-Orridges Vision sprengt Genregrenzen und nimmt zukünftige Ausdrucksformen vorweg, und sein Einfluss bleibt tief in der zeitgenössischen experimentellen Musik und Gegenkultur verankert.
+Psychic TV war eine umfassende Bewegung, die Musik, Rituale und Ideologie kreuzte. Ihre Arbeit geht über die bloße Musik hinaus und erforscht Magie, Bilder, den Körper, Spiritualität und Gemeinschaft. Genesis P-Orridges Vision sprengt Genregrenzen und nimmt zukünftige Ausdrucksformen vorweg, und sein Einfluss bleibt tief in der zeitgenössischen experimentellen Musik und Gegenkultur verankert.
 
 ---

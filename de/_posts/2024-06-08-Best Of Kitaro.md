@@ -11,7 +11,7 @@ tags:
 - Relaxation
 - Healing
 - 80s
-title: Das Beste aus Kitaro
+title: Das Beste von Kitaro
 ---
 
 

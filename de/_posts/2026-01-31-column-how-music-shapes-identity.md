@@ -130,7 +130,7 @@ timeline
 
 ### Vertretung derer ohne Stimme
 
-Auch für sozial unterdrückte Menschen war Musik ein wichtiges Ausdrucksmittel. Der Blues erzählte persönliche Geschichten von Erfahrungen harter Arbeit und Diskriminierung und Reggae verbreitete im Rhythmus politische Botschaften. Diese Musik bot eine Plattform zum Teilen von Emotionen, die in der Mainstream-Sprache nicht ausgedrückt werden konnten.
+Auch für sozial unterdrückte Menschen war Musik ein wichtiges Ausdrucksmittel. Der Blues erzählte persönliche Geschichten über harte Arbeit und Diskriminierung, und der Reggae verbreitete im Rhythmus politische Botschaften. Diese Musik bot eine Plattform zum Teilen von Emotionen, die in der Mainstream-Sprache nicht ausgedrückt werden konnten.
 
 > Musik war eine andere Sprache für diejenigen, die zum Schweigen gezwungen wurden.
 
@@ -202,7 +202,7 @@ timeline
 
 ## Letztes Kapitel: Wem gehört die Musik?
 
-Musik wurde uns schon immer von der Gesellschaft geschenkt und im Individuum neu interpretiert. Auch wenn sich Technologie und Systeme ändern, bleibt Musik ein Spiegel, der das eigene Selbst widerspiegelt. Welche Art von Sound sollten Sie wählen und wie sollten Sie ihn hören? Die Anhäufung dieser Dinge formt uns zu dem, was wir sind.
+Musik wurde uns schon immer von der Gesellschaft geschenkt und im Einzelnen neu interpretiert. Auch wenn sich Technologie und Systeme ändern, bleibt Musik ein Spiegel, der das eigene Selbst widerspiegelt. Welche Art von Sound sollten Sie wählen und wie sollten Sie ihn hören? Die Anhäufung dieser Dinge formt uns zu dem, was wir sind.
 
 > Musik hören bedeutet auch, sich selbst zuzuhören.
 

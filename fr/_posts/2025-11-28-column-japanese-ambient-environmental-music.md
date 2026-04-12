@@ -20,7 +20,7 @@ title: '[Chronique] Musique d''ambiance/environnement japonaise'
 Texte : mmr｜Thème : Le cœur de la musique environnementale japonaise des années 1980 et sa réévaluation historique
 
 
-À la fin des années 2010, « Japanese Ambient » et « Japanese Environmental Music » ont commencé à attirer beaucoup d'attention parmi les auditeurs de musique du monde entier. Il y a plusieurs raisons. Il s'agit de rééditions par des labels occidentaux, des recommandations automatiques de YouTube, de l'algorithme de Spotify et d'une remise en question de la musique électronique/new age.
+À la fin des années 2010, « Japanese Ambient » et « Japanese Environmental Music » ont commencé à attirer beaucoup d'attention parmi les auditeurs de musique du monde entier. Il y a plusieurs raisons. Rééditions par des labels occidentaux, recommandations automatiques de YouTube, algorithme de Spotify et réinterprétation de la musique électronique/new age.
 Il existe cependant des points importants qui ne peuvent être expliqués par ces seuls facteurs.
 
 C'est le fait que la « musique environnementale » japonaise des années 1980 est née d'un sol culturel différent de celui de la musique ambiante du monde entier.
@@ -113,7 +113,7 @@ Nous recherchions « un son qui change la nature de l'espace, pas seulement pour
 
 ---
 
-# **2-2. Midori Takada - Musique du temps et de l'espace dessinée par des instruments à percussion**
+#**2-2. Midori Takada - Musique du temps et de l'espace dessinée par des instruments à percussion**
 
 Midori Takada (1951–) est mondialement reconnu en tant que percussionniste et compositeur japonais.
 
@@ -128,7 +128,7 @@ Un chef-d'œuvre qui utilise des instruments à percussion, du marimba, de la vo
 - Application de la structure de la musique africaine gamelan
 
 ## ● Philosophie de production
-Elle traite les instruments à percussion non pas comme des symboles du « temps », mais comme des « appareils qui font sonner l'espace »**, créant une musique qui dépeint un « voyage » spirituel à travers des réverbérations acoustiques et des harmoniques.
+Elle traite les instruments à percussion non pas comme des symboles du « temps », mais comme des « appareils qui font sonner l'espace »**, créant une musique qui dépeint un « voyage » spirituel à travers des réverbérations et des harmoniques acoustiques.
 
 ---
 
@@ -149,7 +149,7 @@ Après récidive, le patient a été réévalué à l'étranger.
 
 ---
 
-# **2-4. Inoyama Land - Pastoralisme et description paysagère des sons électroniques**
+#**2-4. Inoyama Land - Pastoralisme et description paysagère des sons électroniques**
 
 Le duo « Inoyamaland » composé de Yasushi Yamashita et Makoto Inoue possède un style unique qui se situe à cheval entre la techno pop et la musique environnementale.
 
@@ -178,7 +178,7 @@ Dans les années 1980, les fabricants japonais d’instruments de musique élect
 - Enregistreur de terrain (cassette/bobine à bobine)
 
 ## ● 3-2. Enregistrement à domicile et culture du home studio
-Le matériel d'enregistrement domestique s'est très tôt répandu au Japon et de nombreux compositeurs ont réalisé une production sonore expérimentale chez eux.
+Les équipements d'enregistrement domestique se sont très tôt répandus au Japon et de nombreux compositeurs ont réalisé une production sonore expérimentale chez eux.
 C'était une caractéristique majeure par rapport à l'Europe et à l'Amérique, et c'est devenu la toile de fond pour l'approfondissement de la musique environnementale au niveau individuel.
 
 ## ● 3-3. Coopération avec la conception et l'architecture acoustiques
@@ -283,7 +283,7 @@ Le monde a réévalué
 **Non seulement la beauté de la musique elle-même, mais aussi la philosophie japonaise unique qu'elle contient**
 C'est.
 
-La musique d’ambiance continue de revêtir de nouvelles significations partout dans le monde, et les œuvres des années 1980 qui lui ont donné naissance resteront probablement un fondement important de l’histoire de la musique.
+La musique d’ambiance continue de prendre de nouvelles significations partout dans le monde, et les œuvres des années 1980 qui lui ont donné naissance continueront de rester un fondement important de l’histoire de la musique.
 
 ---
 

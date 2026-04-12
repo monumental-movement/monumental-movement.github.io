@@ -105,7 +105,7 @@ En 1975, avec la sortie de l'album "Funky Kingston", ils partent en tournée à 
 
 * Les effets de lumière soulignent l'atmosphère de la chanson et sont visuellement époustouflants.
 
-Les performances live au cours de cette période ont montré des progrès en matière de son et de production, et ont en même temps servi de lieu important pour établir la popularité du reggae en Amérique.
+Les performances live de cette période ont non seulement montré l’évolution du son et de la production, mais ont également constitué un lieu important pour établir la popularité du reggae en Amérique.
 
 ---
 
@@ -184,7 +184,7 @@ Grâce à des performances live en Europe et en Amérique, le reggae s'est répa
 
 | Année | Événements | Épisodes en direct | Importance culturelle |
 | ---- | -------------------- | ---------------------------- | --------------- |
-| 1962 | Formation | Premier spectacle live du « Chocomo Lounge » de Kingston | Prototype d'appel et de réponse |
+| 1962 | Formation | Premier spectacle live du « Chocomo Lounge » de Kingston | Modèle d'appel et de réponse |
 | 1966 | « Do the Reggay » est sorti | Public dansant en cercle | Naissance du mot « Reggae » |
 | 1968 | Apparition au festival national | Plusieurs milliers de personnes | Visualiser l'évolution des genres musicaux |
 | 1970 | Première tournée européenne | « Carnival Club » de Londres | Pionnier de la diffusion mondiale |

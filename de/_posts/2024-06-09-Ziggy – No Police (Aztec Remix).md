@@ -16,7 +16,7 @@ title: Ziggy – No Police (Aztec Remix)
 ---
 
 
-„No Police“ ist ein energiegeladener Track, komponiert und produziert von Christoff Wybouw, auch bekannt als Serge Gobin, der als Mitglied der belgischen New-Beat-Projekte J.C. Project, The Beast und War People bekannt ist. Christoff Wybouw hat sich mit „Bingo!“ und „Arabeat“ einen Namen gemacht.
+„No Police“ ist ein energiegeladener Track, komponiert und produziert von Christoff Wybouw, auch bekannt als Serge Gobin, der als Mitglied der belgischen New-Beat-Projekte J.C. Project, The Beast und War People bekannt ist. Christoff Wybouw ist berühmt für „Arabeat“, das unter dem Pseudonym Bingo! veröffentlicht wurde.
 
 Bei dieser Platte handelt es sich um eine seltene mexikanische Platte, die 1987 vom mexikanischen Tanzlabel Maxi veröffentlicht wurde, mit einer anderen Hülle als die belgische Platte.
 

@@ -35,7 +35,7 @@ Beaucoup de nouvelles musiques viennent d’endroits obscurs.
 - petit magasin de disques
 - Cassette autoproduite
 
-La musique née dans ces lieux est souvent au premier abord « des sons qu'on ne comprend pas ».
+La musique qui naît dans ces lieux est souvent au premier abord « des sons qu'on ne comprend pas ».
 
 En regardant l'histoire,
 
@@ -51,7 +51,7 @@ Tous ces genres ont commencé sous terre.
 
 Autrement dit, l’underground n’est pas un genre.
 
-C'est un **état**.
+C'est un **État**.
 
 - Pas encore accepté par la société
 - Pas encore une industrie
@@ -97,7 +97,7 @@ Deuxièmement, il existe une **liberté technique**.
 - Matériel d'enregistrement peu coûteux
 - de nouveaux instruments
 - radio pirate
-- Internet
+-Internet
 
 Lorsque la technologie se généralise, la musique se démocratise soudainement.
 
@@ -193,7 +193,7 @@ Il s’agit d’une réaction de la jeune génération.
 - La culture est désormais sécurisée
 - Les messages ont été affaiblis
 
-Lorsqu’une nouvelle génération ressent cela, elle part ailleurs.
+Lorsqu’une nouvelle génération ressent cela, elle s’en va ailleurs.
 
 - fête d'entrepôt
 - Événements de bricolage
@@ -244,7 +244,7 @@ La culture se propage, mûrit, se sature, puis retourne sous terre.
 | années 1970 | Le punk émerge comme une culture DIY |
 | années 1980 | Naissance de la house et de la techno à Chicago et Detroit |
 | années 1990 | Culture rave et expansion de la drum & bass |
-| Années 2000 | Grime was born from pirate radio |
+| Années 2000 | Grime est né d'une radio pirate |
 | Années 2010 | Des genres issus d'Internet tels que le rap SoundCloud émergent |
 | Années 2020 | La communauté Internet forme une nouvelle scène underground |
 

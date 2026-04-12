@@ -102,7 +102,7 @@ flowchart TD
 
 ## 3. Musiques du monde par région × Caractéristiques de l'acoustique électronique
 
-### 3-1 Asiatique du Sud
+### 3-1 Sud-Asiatique
 
 * Système Raga, tala (structure mesurée)
 * Rythmes divisés complexes de tabla
@@ -221,7 +221,7 @@ Les drones d’instruments folkloriques, les sons soutenus multicouches et les e
 ### 8-3 Importance de la collaboration
 
 * Enregistrement en direct avec des joueurs d'instruments traditionnels
-*Doit être produit avec une compréhension du contexte culturel de la musique régionale.
+*Doit être produit avec une compréhension du contexte culturel de la musique locale.
 
 ---
 
@@ -231,7 +231,7 @@ Electronic World Fusion ne se contente pas de remplacer la musique folk par des 
 **"Le processus par lequel le son traduit la culture et relie différentes valeurs"**
 peut être compris comme
 
-Le genre incarne le dialogue sonore, puisque Nitin Sawhney dépeint les sociétés multiculturelles à travers son travail, et que Thievery Corporation connecte la musique du monde entier aux contextes musicaux électroniques urbains.
+Le genre incarne le dialogue sonore, puisque Nitin Sawhney dépeint les sociétés multiculturelles à travers son travail, et que Thievery Corporation connecte la musique du monde entier aux contextes de musique électronique urbaine.
 
 ---
 

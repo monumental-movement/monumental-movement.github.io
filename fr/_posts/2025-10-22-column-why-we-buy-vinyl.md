@@ -51,7 +51,7 @@ color: #fff;
 
 ## Chapitre 1 : Souvenirs du « toucher » emportés par le numérique
 
-Lorsque le CD a été introduit en 1982, le monde s'est réjoui.
+Lorsque le CD a été introduit en 1982, le monde s’est réjoui.
 Silencieux, durable et très résistant. La musique est devenue des données et les médias sont devenus transparents.
 
 Cependant, **cette transparence était le « problème »**.
@@ -92,7 +92,7 @@ Contient des fluctuations plus proches des « sons naturels » que des sons num�
 Cette fluctuation subtile (fluctuation 1/f) est
 Il est connu pour résonner avec les ondes cérébrales alpha et produire un effet relaxant.
 
-En d’autres termes, les enregistrements analogiques sont un **bruit confortable pour le corps**.
+En d'autres termes, les enregistrements analogiques sont un **bruit confortable pour le corps**.
 Inconsciemment, nous recherchons un son qui ne soit pas trop formel.
 
 ---
@@ -109,7 +109,7 @@ Friedrich Kittler l'a déclaré dans « Media Archaeology ».
 Alors que le son évolue de « l'enregistrement » à la « lecture »,
 Le disque reste le seul support permettant de toucher le temps.
 
-Lorsque vous posez l’aiguille, elle émet un son, et lorsque vous la relevez, le silence revient.
+Lorsque vous posez l’aiguille, elle émet un son et lorsque vous la relevez, le silence revient.
 Au sein de ce mécanisme simple, il y a un **dialogue entre le temps et le corps**.
 
 ---

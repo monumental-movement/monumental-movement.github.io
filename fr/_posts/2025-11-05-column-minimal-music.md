@@ -31,11 +31,11 @@ Abandonnant le drame et l'expression émotionnelle recherchés par la musique oc
 Au lieu de cela, il s'est transformé en un art qui nous permet d'écouter « le temps et la structure » eux-mêmes.
 "In C" de Terry Riley, "Piano Phase" de Steve Reich,
 Et "Einstein sur la plage" de Philip Glass——
-Ils ont élevé la répétition du son au rang d’expérience méditative plutôt qu’ennuyeuse.
+Ils ont élevé la répétition du son au rang d’expérience méditative plutôt que d’expérience ennuyeuse.
 
 Finalement, cette philosophie a imprégné le monde de la musique électronique.
 Au rythme constant des TR-808 et 909,
-Un léger changement dans le filtre ou un désalignement du charleston lui redonne vie.
+Un léger changement du filtre ou un désalignement du charleston lui redonne vie.
 C'est la même idée que le "déphasage" de Reich au piano.
 Ce sont les différences infimes au sein de la répétition qui créent la sensation du temps musical.
 
@@ -120,7 +120,7 @@ Créer une tension extrême à partir de modèles minimaux.
 |------|------|
 | Battre | 4/4 |
 | temporisation | 128 |
-| Composition sonore | Kick, Charleston, Caisse Claire, Subbasse |
+| Composition sonore | Kick, charleston, caisse claire, subbasse |
 | Changements | Fluctuations psychologiques dues à des changements infimes de filtres et à une perte de rythme |
 
 ### Reconstruction de l'ambiance berlinoise et répétition
@@ -153,7 +153,7 @@ Les synthés répétitifs et les boucles vocales apportent un sentiment de phase
 ### Isao Tomita : Symphonie dans les électrons
 
 Isao Tomita a utilisé un synthétiseur pour reconstruire la musique classique en « répétition électronique ».
-Dans Moonlight (1974), de subtiles fluctuations de modulation façonnent l'espace sonore.
+Dans "Moonlight" (1974), de subtiles fluctuations de modulation façonnent l'espace sonore.
 Ce sentiment de « persistance électronique » s'applique également à la musique techno-ambiante ultérieure.
 
 ### Ryoji Ikeda : Données et fréquence minimales
@@ -164,9 +164,9 @@ L'espace acoustique a été présenté comme un « minimalisme numérique ».
 
 ### Liste des artistes minimalistes japonais
 
-| Artiste | Travaux principaux | Caractéristiques |
+| Artiste | Principaux travaux | Caractéristiques |
 |------|------------|------|
-| Isão Tomita | 《Clair de lune》《Planète》 | Raffinement électronique classique/acoustique |
+| Isão Tomita | 《Clair de lune》《Planète》 | Musique classique électronique/raffinement acoustique |
 | Ryoji Ikeda | 《dataplex》《modèle de test》 | Minimalisme mathématique/fréquentiel |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion de l'électroacoustique et du piano |
 | Rei Harakami | 《Bordure Rouge》《lust》 | Répétition chaleureuse de l'électronique Lo-fi |

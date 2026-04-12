@@ -49,7 +49,7 @@ color: #fff;
 
 > Die Verbreitung des MP3-Formats und das Aufkommen von P2P-Diensten wie Napster, die in den frühen Tagen des Internets stattfanden, stellten die herkömmliche Meinung der Musikverbreitung auf den Kopf.
 
-Die Einführung des MP3-Formats im Jahr 1995 erleichterte das Komprimieren und Teilen von Musikdateien und schuf eine Umgebung, in der Menschen Musik genießen konnten, ohne auf den Kauf von CDs angewiesen zu sein. Die Indie-Band The Postal Service aus Los Angeles und Berliner Underground-Techno-Tracks erreichten DJs und Hörer auf der ganzen Welt über MP3.
+Im Jahr 1995 erleichterte die Einführung des MP3-Formats das Komprimieren und Teilen von Musikdateien und schuf eine Umgebung, in der Menschen Musik genießen konnten, ohne auf den Kauf von CDs angewiesen zu sein. Die Indie-Band The Postal Service aus Los Angeles und Berliner Underground-Techno-Tracks erreichten DJs und Hörer auf der ganzen Welt über MP3.
 
 1999 wurde Napster eingeführt und der P2P-Musikaustausch explodierte. New Yorker College-Studenten tauschten Jay-Z- und Eminem-Alben, was in Clubs in London und Tokio zu einem heißen Thema wurde. Diese Bewegungen haben zur Entstehung neuer Hits geführt, die mit herkömmlichen Charts nicht gemessen werden können.
 
@@ -83,7 +83,7 @@ Auch die Zahl unabhängiger Künstler, die in die Charts einsteigen, ist gestieg
 
 > Die virale Kraft von Kurzvideos wie TikTok und YouTube Shorts ist zum Ausgangspunkt für neue Hits geworden und auch die traditionelle Chartstruktur hat sich verändert.
 
-Seit 2016 sind TikTok und YouTube Shorts zu den wichtigsten Mitteln zur Verbreitung von Musik geworden. „Old Town Road“ der amerikanischen Rapperin Lil Nas Auch in der Berliner Clubszene wurden Techno-Tracks, die auf TikTok Aufmerksamkeit erregten, von Fans und DJs in der ganzen Stadt geteilt.
+Seit 2016 sind TikTok und YouTube Shorts zu den wichtigsten Mitteln zur Verbreitung von Musik geworden. „Old Town Road“ der amerikanischen Rapperin Lil Nas Auch in der Berliner Clubszene wurden Techno-Tracks, die auf TikTok Beachtung fanden, von Fans und DJs in der ganzen Stadt geteilt.
 
 Kawaii-Elektropop aus Tokio und K-Pop-Songs aus Seoul haben durch Remix-Videos auf TikTok auch im Ausland an Popularität gewonnen. Kurze Videos beschleunigten den musikalischen Austausch zwischen Städten und stellten eine neue Form der Hitbildung vor, die über die traditionelle Chartstruktur hinausging.
 

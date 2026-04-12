@@ -19,7 +19,7 @@ title: '[Kolumne] Eine komplette Geschichte des Krautrock – Deutsche Experimen
 
 Text: mmr｜Thema: Krautrock ist ein wichtiger Trend, der spätere Musikgenerationen wie experimentelle Musik, elektronische Musik, Post-Rock und Techno mit Ursprung in Deutschland stark beeinflusst hat.
 
-„Krautrock“——.
+„Krautrock“——. Es handelte sich ursprünglich um einen abfälligen Namen, der von einem britischen Musikmagazin vergeben wurde.
 „Sauerkraut“ ist eine umgangssprachliche Bezeichnung für Deutsche.
 In den späten 1960er-Jahren kehrten junge Leute diese Bezeichnung jedoch um und nutzten sie als Banner für die Schaffung ihrer eigenen Musik.
 
@@ -75,7 +75,7 @@ Am Ende wurde er Mitglied der Band.
 
 Ihre Musik ist ein „fließender Rhythmus“, der Struktur ablehnt.
 Vor allem auf dem Album „Tago Mago“ (1971) wurden die Lieder durch Bearbeitung neu arrangiert.
-Daraus entstand die Vorstellung, dass das Aufnahmeband selbst ein Instrument ist.
+Daraus entstand die Vorstellung, dass „das Tonband selbst ein Instrument ist“.
 Shukais Bearbeitungstechniken ähnelten dem späteren Hip-Hop-Sampling.
 
 > „Rhythmus regiert die Zeit. Aber Improvisation befreit dich von der Zeit.“
@@ -99,13 +99,13 @@ Rotors Gitarre und Bass gleiten wie eine Stromlinie,
 Die Musik hat sich das „Weitermachen“ zum Ziel gemacht.
 
 NEU! aus Geldmangel im Studio aufgenommen.
-Drehen Sie das Band rückwärts, ändern Sie die Geschwindigkeit, schneiden Sie die Sounds aus und fügen Sie sie ein.
+Das Band rückwärts drehen, die Geschwindigkeit ändern, die Töne ausschneiden und einfügen,
 Es erschütterte die Grenze zwischen „Leben“ und „Maschine“.
 
 > „Motorik ist der Klang der „menschlichen Fortsetzung“, nicht einer Maschine.“
 > — Klaus Dinger
 
-Diese einfache rhythmische Struktur ähnelt der Berlin-Trilogie von David Bowie.
+Diese einfache rhythmische Struktur ähnelt David Bowies Berlin-Trilogie.
 Er hinterließ auch großen Einfluss auf Brian Enos Ambient-Werke.
 Im Klang von NEU! wird dem Zuhörer bewusst, dass die Zeit keine gerade Linie, sondern ein Kreis ist.
 
@@ -128,7 +128,7 @@ Die Lieder haben keine Melodie und ähneln eher dem Anhören einer Radiosendung.
 Es war jedoch eine Herausforderung für das eigentliche Gerüst der Popmusik.
 
 Sie waren stark von Pop-Art und Dadaismus beeinflusst.
-Die darauf folgenden Punk-, Industrial- und Sampling-Kulturen basierten alle auf Fausts Genen.
+Die folgenden Punk-, Industrial- und Sampling-Kulturen basierten alle auf Fausts Genen.
 
 > „Zerstörung ist der Anfang der Schöpfung.“
 > — Jan Ermler (Faust)
@@ -169,7 +169,7 @@ Die „Zukunft“, die sie sahen, liegt jetzt in unserer aktuellen Musiklandscha
 ### Revolution im Schweigen
 Einheit **Cluster** von **Dieter Möbius** und **Hans-Joachim Roedelius**.
 Im Gegensatz zu CAN und Faust sind sie kaum „Lärm“ oder „Rock“.
-Zwischen den anorganischen elektronischen Klängen und der Stille war der Nachhall und Atem der Stadt zu spüren.
+Der Nachhall und das Atmen der Stadt waren zwischen den anorganischen elektronischen Klängen und der Stille zu spüren.
 
 Sein Debütalbum Cluster 71 (1971) ist eine Reihe experimenteller Tonbandklänge, aber auch irgendwie meditativ.
 Der Nachfolger „Zuckerzeit“ (1974) wurde von Klaus Dinger von Neu! produziert und führte einen minimalistischen und angenehmen Rhythmus ein.
@@ -201,7 +201,7 @@ Der von Forst geborene Klanggeist wurde an Ambient, Post-Rock und sogar zeitgen�
 
 ## Kapitel 8: Popol Vuh – Spiritualität und Klang in Bildern
 
-**Popol Vuh** sticht aus dem Krautrock hervor.
+**Popol Vuh** sticht aus dem Krautrock heraus.
 Leiter **Florian Fricke** widmete sich intensiv der religiösen Musik und Philosophie und war einer der ersten Anwender des Moog-Synthesizers.
 Sein Ziel war jedoch nicht die Kälte der Elektronik, sondern **Geheimnis und innerer Klang**.
 
@@ -221,7 +221,7 @@ Man kann sagen, dass Krautrocks „spirituelles Experiment“ hier seinen religi
 
 Ehemaliger Tangerine Dream-Schlagzeuger und Sucher nach elektronischer Musik **Klaus Schulz**.
 Er erweiterte den Krautrock eher durch Einzelarbeit im Studio als in einer Gruppenumgebung.
-Sie konstruierten lange Tracks, von denen jeder über 30 Minuten dauerte, und schufen so, als wollten sie die Zeit mit Sound „formen“.
+Sie konstruierten lange Tracks, von denen jeder über 30 Minuten dauerte, und kreierten sie so, als wollten sie die Zeit mit Sound „formen“.
 
 Seine Meisterwerke „Timewind“ (1975) und „Moondawn“ (1976) sind elektronische Meditationen mit endlosen Rhythmen und Sequenzern.
 Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum Ausgangspunkt für den „Philosophen der Elektronen“.

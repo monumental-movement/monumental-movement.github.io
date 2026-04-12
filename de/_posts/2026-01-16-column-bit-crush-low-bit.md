@@ -27,7 +27,7 @@ Wörter wie Bit Crush, Low-Bit-Musik und 8-Bit/12-Bit-Sound bedeuten technisch g
 
 In dieser Kolumne analysieren wir die Beziehung zwischen Bittiefe und Klang, die Einschränkungen früher digitaler Geräte und den Weg, der zu Spielekonsolen, Samplern und DAWs führte, und interpretieren die Anhäufung von Fakten darüber, warum niedrig aufgelöster Klang zu einer Form des musikalischen Ausdrucks wurde.
 
->Digitale Musik beinhaltet seit jeher sowohl „Verbesserung“ als auch „Zerstörung“ zugleich.
+>Digitale Musik beinhaltet seit jeher „Verstärken“ und „Destruieren“ zugleich.
 
 ---
 
@@ -54,7 +54,7 @@ color: #fff;
 Die Bittiefe ist ein Index, der angibt, wie viele Ebenen die Klangamplitude ausgedrückt werden kann.
 Wenn es 16 Bit ist, gibt es 65.536 Ebenen, und wenn es 8 Bit ist, gibt es nur 256 Ebenen. Je kleiner die Anzahl der Stufen ist, desto rauer ist die Lautstärkeänderung und desto auffälliger ist das Quantisierungsrauschen.
 
-Niedrige Bittiefen waren in frühen digitalen Audiogeräten aufgrund von Kosten- und Verarbeitungsleistungsbeschränkungen üblich. Dies war eine Designnotwendigkeit und nicht beabsichtigt.
+Aufgrund von Kosten- und Verarbeitungsleistungsbeschränkungen waren in frühen digitalen Audiogeräten niedrige Bittiefen üblich. Dies war eine Designnotwendigkeit und nicht beabsichtigt.
 
 > Low-Bit-Sound existierte zunächst als „unvermeidliche Einschränkung“.
 
@@ -137,7 +137,7 @@ Das resultierende Quantisierungsrauschen, stufenartige Lautstärkeänderungen, e
 
 ### Etablierung als Wirkung
 
-Seit Ende der 1990er Jahre werden Bit-Crusher in DAWs und Multieffektgeräten verbaut.
+Seit Ende der 1990er-Jahre werden Bit-Crusher in DAWs und Multieffektgeräten verbaut.
 Dies war eine entscheidende Änderung, die Low-Bit-Töne als „wählbare Töne“ positionierte.
 
 Eine niedrige Auflösung wird nicht mehr als Einschränkung, sondern als Ausdrucksmittel betrachtet.
@@ -152,7 +152,7 @@ Eine niedrige Auflösung wird nicht mehr als Einschränkung, sondern als Ausdruc
 ### Kontingenz und digitales Rauschen
 
 Phänomene wie CD-Lesefehler, Datenbeschädigung und Verarbeitungsfehler sollten beseitigt sein.
-Einige elektronische Musiker beginnen jedoch, dies als Klangmaterial zu behandeln.
+Einige elektronische Musiker beginnen jedoch, dies als Klangmaterial zu betrachten.
 
 Low-Bit-Rauschen und Glitches haben gemeinsam, dass beide auf digitale Unvollkommenheit schließen lassen.
 
@@ -162,7 +162,7 @@ Low-Bit-Rauschen und Glitches haben gemeinsam, dass beide auf digitale Unvollkom
 
 ### IDM und akustische Ästhetik
 
-Im sogenannten IDM-Kontext wurde die Textur des Klangs selbst als kompositorisches Element hervorgehoben.
+Im sogenannten IDM-Kontext wurde die Textur des Klangs selbst als kompositorisches Element betont.
 Bit-Crushing spielte bei der Gestaltung der Textur eine größere Rolle als Rhythmus und Melodie.
 
 Low-Bit-Sounds sind wie Pinselstriche in abstrakter Musik.

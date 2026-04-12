@@ -40,9 +40,9 @@ Un pianiste et un orchestre ont assuré la musique live au cinéma. Par conséqu
 
 [『ジャズ・シンガー』（1927）](https://amzn.to/3Wn4CTH)を皮切りに**光学式録音（Optical Sound）**が導入され、映像フィルムの中に音声情報（スコア）を記録する時代へ。
 
-À cette époque, la signification de « bande sonore = matériel audio d'un film » est devenue claire.
+À cette époque, la signification de « bande-son = matériel audio de film » est devenue claire.
 
-** ●Principaux médias de la musique de film : évolutions technologiques dans l'enregistrement et la lecture**
+** ● Médias majeurs de la musique de film : évolutions technologiques dans l'enregistrement et la lecture **
 
 ■Enregistrement sur le film lui-même (son sur film)
 
@@ -74,7 +74,7 @@ Depuis les années 1980, il est devenu populaire en tant que format offrant une 
 
 Il est devenu possible d’enregistrer des partitions complètes, créant ainsi un âge d’or pour l’appréciation de la musique de film.
 
-Des labels spécialisés dans la bande originale (La-La Land Records, Intrada, Varese Sarabande…) sont également apparus.
+Des labels spécialisés dans les bandes sonores (La-La Land Records, Intrada, Varese Sarabande…) apparaissent également.
 
 ■DVD/Blu-ray : Vidéo + Musique
 
@@ -94,7 +94,7 @@ Les partitions complètes, les chansons inédites et les prises alternatives peu
 
 **Nous sommes désormais à une époque où nous écoutons des bandes sonores**.
 
-Créez des listes de lecture pour « humeur de film » et « BGM » au lieu d'albums.
+Créez des listes de lecture pour « l'ambiance du film » et « BGM » au lieu d'albums.
 
 La frontière entre « fonctionnalité » et « artistique » dans la musique de film est une fois de plus remise en question.
 

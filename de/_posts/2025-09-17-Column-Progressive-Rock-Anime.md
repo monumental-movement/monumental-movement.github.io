@@ -18,7 +18,7 @@ title: '[Kolumne] Progressive Rock und Anime: Eine epische, sich überschneidend
 
 Text: mmr｜Thema: Progressive Rock, der eine hohe Affinität zu Anime hat
 
-Wenn wir über die Beziehung zwischen Anime und Musik sprechen, fallen uns direkt miteinander verbundene Genres wie J-Pop, Idol-Songs, Eurobeat und Electronica ein. Wenn Sie jedoch etwas tiefer graben, werden Sie feststellen, dass es eine überraschend starke Affinität zum **Progressive Rock** hat. Oberflächlich betrachtet scheint es weit von „Anime-Songs“ entfernt zu sein, aber seine lange Struktur, seine schwierigen Rhythmen und seine konzeptalbumartige Erzählweise stimmen tatsächlich in vielerlei Hinsicht mit den Eigenschaften des Anime-Mediums überein.
+Wenn wir über die Beziehung zwischen Anime und Musik sprechen, fallen uns direkt miteinander verbundene Genres wie J-POP, Idol-Songs, Eurobeat und Electronica ein. Wenn Sie jedoch etwas tiefer graben, werden Sie feststellen, dass **Progressive Rock** eine überraschend starke Affinität hat. Oberflächlich betrachtet scheint es weit von „Anime-Songs“ entfernt zu sein, aber seine lange Struktur, seine schwierigen Rhythmen und seine konzeptalbumartige Erzählweise stimmen tatsächlich in vielerlei Hinsicht mit den Eigenschaften des Anime-Mediums überein.
 
 ---
 
@@ -62,7 +62,7 @@ Progressive Rock (im Folgenden Progressive Rock genannt) ist als „evolutionär
 - **Schwierige Rhythmen und ungewöhnliche Taktarten**: Eine komplexe Rhythmusstruktur, die den Hörer herausfordert, bringt intellektuelle Anregungen mit sich, die sich vom „Komfort“ normaler Popmusik unterscheiden.
 - **Konzeptualität**: In vielen Fällen erzählt das gesamte Album eine einzige Geschichte oder ein einziges Thema, oft begleitet von einer Science-Fiction-/Fantasy-Weltanschauung.
 
-Diese Elemente überschneiden sich natürlich mit Animes „langfristigem Geschichtenerzählen“ und „komplexen menschlichen Beziehungen und der Konstruktion von Weltanschauungen“. Besonders in Genres wie Science-Fiction und Fantasy kann die „Taiga-Epos“-Struktur des Prog-Rock effektiv als musikalisches Mittel wirken, das die visuelle und erzählerische Breite ergänzt.
+Diese Elemente überschneiden sich natürlich mit Animes „langfristigem Geschichtenerzählen“ und „komplexen menschlichen Beziehungen und der Konstruktion von Weltanschauungen“. Insbesondere in Genres wie Science-Fiction und Fantasy kann die „Taiga-Epos“-Struktur des Prog-Rock effektiv als musikalisches Mittel wirken, das die visuelle und erzählerische Breite ergänzt.
 
 ---
 
@@ -95,7 +95,7 @@ Andererseits besteht jedoch immer noch Raum dafür, dass Progressive-Rock-Techni
 ### ■ Was wäre, wenn Progressive Rock in den Anime eingedrungen wäre?
 Stellen Sie sich das einfach vor.
 - Symphonischer Progressive Rock, der die Fantasiewelt von Hayao Miyazakis Werken unterstützt.
-- King-Crimson-ähnliches, schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
+- King-Crimson-artiges schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
 - Stellen Sie sich langfristige Serienwerke als Alben vor und entwerfen Sie Musik mit Progressive-Rock-Suiten für jede Staffel.
 
 Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombination aus Musikgenres und visuellen Ausdrucksformen, sondern hat das Potenzial, sich auf die strukturelle Gestaltung der gesamten Geschichte auszudehnen.

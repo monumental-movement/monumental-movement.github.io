@@ -188,7 +188,7 @@ Hier definiert die Musik zunächst den Raum, gefolgt von städtischen Funktionen
 
 Detroit Techno ist eine Erweiterung der von der Automobilindustrie geprägten urbanen Rhythmen. Regelmäßige mechanische Bewegungen, breite Straßen und die Aushöhlung, die der Bevölkerungsflucht folgte, förderten ein anorganisches und anhaltendes Gefühl für den Rhythmus.
 
-Techno wurde hier zu mehr als nur Unterhaltung, es wurde zu einem Mittel zur Abstraktion des Stadtstaates. Das Zeitgefühl einer im Niedergang begriffenen Industriestadt kristallisierte sich in der Musik heraus.
+Hier wurde Techno zu mehr als nur Unterhaltung, er wurde zu einem Mittel zur Abstraktion des Stadtstaates. Das Zeitgefühl einer im Niedergang begriffenen Industriestadt kristallisierte sich in der Musik heraus.
 
 > Detroits Musik bewahrt im Klang die Form dessen, was die Stadt verloren hat.
 
@@ -230,7 +230,7 @@ Tokio ist eine der am dichtesten besiedelten Städte der Welt und ihre Musikkult
 
 Seit den 1960er Jahren, mit der Verbreitung importierter Schallplatten und der Verbreitung von Audiogeräten, hat die „Hörumgebung“ selbst in Tokio einen kulturellen Wert erlangt. Musik ist sowohl zu einem gemeinsamen Erlebnis als auch zu einem Objekt geworden, das der Einzelne auswählen, sammeln und spielen kann. Aufgrund der geringen Größe der Stadt interessieren sich die Menschen mehr für die Auflösung von Tonbildern und für genreübergreifendes Wissen als für die Lautstärke.
 
-Während die Clubkultur in den 1980er bis 1990er Jahren importiert wurde, entwickelte sie sich unabhängig und passte sich an das regulatorische Umfeld an, das für Städte einzigartig ist. Während kurze Betriebszeiten, der Untergrund und die Verkleinerung Einschränkungen darstellten, sorgten sie auch für ein selektives Publikum und ein intensives Erlebnis.
+Während die Clubkultur in den 1980er bis 1990er Jahren importiert wurde, entwickelte sie sich unabhängig und passte sich an das für Städte spezifische regulatorische Umfeld an. Während kurze Betriebszeiten, der Untergrund und die Verkleinerung Einschränkungen darstellten, sorgten sie auch für ein selektives Publikum und ein intensives Erlebnis.
 
 > Tokios Musikkultur hat die Zwänge der Überfüllung durch Verfeinerung überwunden.
 
@@ -267,7 +267,7 @@ Da die Grundstückspreise aufgrund der Sanierung steigen, rücken kleine Musikr�
 ---
 
 
-## Letztes Kapitel: Wie stellt Musik die Zukunft der Städte dar?
+## Schlusskapitel: Wie stellt Musik die Zukunft der Städte dar?
 
 Musik nimmt auf, kritisiert und nimmt manchmal die Stadt vorweg. Solange sich der städtische Raum weiter verändert, wird auch weiterhin neue Musik entstehen. Musik hören ist der Akt, gleichzeitig auf die Gegenwart und Zukunft der Stadt zu hören.
 

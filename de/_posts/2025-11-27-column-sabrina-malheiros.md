@@ -23,7 +23,7 @@ title: '[Kolumne] Sabrina Malheiros: Die Brillanz des modernen brasilianischen S
 Text: mmr｜Thema: Wie sich die brasilianische Musik seit dem 21. Jahrhundert weiterentwickelt und neu verbunden hat, im Mittelpunkt steht die Musikgeschichte von Sabrina Mallheiros, ihre Beziehung zu Azimuth, die Entwicklung ihrer Arbeit und die Symbolik von „Clareia“.
 
 
-Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth unter der Leitung von Aza Mallheiros wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
+Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth, angeführt von Aza Mallheiros, wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
 
 Insbesondere ihr Album **Clareia** aus dem Jahr 2017 war der Moment, in dem ihre musikalische Welt am deutlichsten aufblühte.
 Sein Titeltrack „Clareia“** fand später neues Leben in der Underground-Dance-Community und brachte Remixe von Schlüsselfiguren des britischen Jazz/Broken Beat hervor, darunter **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** und **IG Culture**.

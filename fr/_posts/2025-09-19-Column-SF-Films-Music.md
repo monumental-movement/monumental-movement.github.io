@@ -39,7 +39,7 @@ color: #fff;
 
 # Relation entre les films de science-fiction et la musique
 
-La musique dans les films de science-fiction est plus qu’un simple « arrière-plan » qui soutient l’histoire. Il est devenu un élément essentiel pour exprimer un sentiment d’avenir, un sentiment d’un autre monde et le fossé entre la technologie et l’humanité. Dans cet article, nous fournirons des explications détaillées sous quatre angles : le contexte historique, les méthodes musicales, les œuvres et compositeurs représentatifs et l'influence sur les temps modernes.
+La musique dans les films de science-fiction est plus qu’un simple « arrière-plan » qui soutient l’histoire. C’est devenu un élément essentiel pour exprimer un sentiment d’avenir, un sentiment d’un autre monde et du fossé entre la technologie et l’humanité. Dans cet article, nous fournirons des explications détaillées sous quatre angles : le contexte historique, les méthodes musicales, les œuvres et compositeurs représentatifs et l'influence sur les temps modernes.
 
 ---
 
@@ -123,7 +123,7 @@ La musique utilisée dans les films de science-fiction présente les approches c
 
 ## Impact moderne
 
-* **Musique de jeu/expérience VR** : suit la méthode de la musique de film telle que "Mass Effect" et "Cyberpunk 2077".
+* **Musique de jeu/expérience VR** : suit la méthode des musiques de films telles que "Mass Effect" et "Cyberpunk 2077".
 * **Distribué en genres musicaux** : il existe de nombreux genres dérivés de la musique de film de science-fiction, tels que la synthwave, le dark ambient et l'électro.
 * **Génération musicale IA** : la vision du futur décrite dans les films de science-fiction devient une réalité sous la forme d'une composition musicale automatique par l'IA et d'expériences immersives dans l'espace VR.
 

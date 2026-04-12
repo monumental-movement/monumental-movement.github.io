@@ -278,7 +278,7 @@ Les six sociétés qui soutiennent l’histoire de DAW ont une répartition clai
 | **Steinberg** | Standardisation (VST)/DAW complète | Base technologique qui a influencé tous les DAW |
 | **MOTU** | Synchronisation vidéo/composition d'accompagnement | Norme de musique de film |
 | **Adobe** | Diffusion, montage et distribution | Pour la production vidéo avec intégration Premiere |
-| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive de Mac/formation de la base du son du film |
+| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive/formation de la base du son du film sur Mac |
 
 ---
 

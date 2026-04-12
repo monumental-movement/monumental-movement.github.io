@@ -75,7 +75,7 @@ Es entstand ein umfassendes musikalisches und visuelles Erlebnis, inklusive Bele
 
 ## 4. Technologische Entwicklung: Evolution der Elektroakustik und Raumorientierung
 
-Seit den 1960er Jahren sind neue elektronische Musikinstrumente aufgetaucht und haben eine Umgebung geschaffen, in der kosmische Klänge erzeugt werden können.
+Seit den 1960er Jahren sind neue elektronische Musikinstrumente aufgetaucht, die eine Umgebung schaffen, in der kosmische Klänge erzeugt werden können.
 
 * **Synthesizer (Moog, ARP usw.)**
 * **E-Piano (Fender Rhodes)**

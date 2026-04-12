@@ -43,7 +43,7 @@ color: #fff;
 | Thèmes | Les œuvres de Goldsworthy | Similitudes avec la musique |
 |--------|----------------|----------------|
 | **Heure** | Travaux basés sur la prémisse de changements tels que la fonte ou le flétrissement de la glace, des feuilles, des branches, etc. | Sens musical du temps utilisant des déphasages et des boucles (par exemple Steve Reich) |
-| **Emplacement** | Les œuvres sont indissociables du milieu naturel dans lequel elles sont créées | Une musique qui capture les « sons du lieu » grâce à des enregistrements sur le terrain |
+| **Emplacement** | Les œuvres sont indissociables du milieu naturel dans lequel elles sont créées | Une musique qui capte les « sons du lieu » grâce à des enregistrements sur le terrain |
 | **Éphémère** | Œuvres qui s'effondrent à cause du vent, de la pluie et du soleil | Réverbérations disparaissantes et fondus enchaînés des sons soutenus |
 | **Cycle** | Met l'accent sur les cycles des saisons et les phénomènes naturels | Sensation cyclique du temps à travers des drones et des structures répétitives |
 | **Silence** | L'importance de l'espace et de l'intervalle | La présence du « silence » chez John Cage et les œuvres ambiantes |
@@ -90,12 +90,12 @@ color: #fff;
 #### Minime
 
 - Steve Reich ― *Musique pour 18 musiciens*
-- Terry Riley ― *En C*
+-Terry Riley ― *En C*
 - Philip Glass - *Verrerie*
 
 ---
 
-### Playlist organisée selon « l’écoulement du temps »
+### Playlist structurée selon « l'écoulement du temps »
 
 #### matin
 
@@ -105,7 +105,7 @@ color: #fff;
 
 #### midi
 
-- Terry Riley ― *En C*
+-Terry Riley ― *En C*
 - Jana Winderen ― *Champ d'énergie*
 - Philip Glass - *Verrerie*
 
@@ -118,7 +118,7 @@ color: #fff;
 #### nuit
 
 - William Basinski - *Les boucles de désintégration*
-- Éliane Radigue - *Trilogie de la Mort*
+- Eliane Radigue - *Trilogie de la Mort*
 - Biosphère ― *Substrat*
 
 ### Flux saisonnier

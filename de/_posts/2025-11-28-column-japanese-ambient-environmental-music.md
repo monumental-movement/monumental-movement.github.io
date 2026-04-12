@@ -20,7 +20,7 @@ title: '[Kolumne] Japanische Ambient-/Umweltmusik'
 Text: mmr｜Thema: Der Kern japanischer Umweltmusik aus den 1980er Jahren und ihre historische Neubewertung
 
 
-In den späten 2010er Jahren begannen „Japanese Ambient“ und „Japanese Environmental Music“ bei Musikhörern auf der ganzen Welt große Aufmerksamkeit zu erregen. Es gibt mehrere Gründe. Dabei handelt es sich um Neuauflagen westlicher Labels, die automatischen Empfehlungen von YouTube, den Algorithmus von Spotify und eine Neubewertung elektronischer Musik/New Age.
+In den späten 2010er Jahren erregten „Japanese Ambient“ und „Japanese Environmental Music“ bei Musikhörern auf der ganzen Welt große Aufmerksamkeit. Es gibt mehrere Gründe. Dabei handelt es sich um Neuauflagen westlicher Labels, die automatischen Empfehlungen von YouTube, den Algorithmus von Spotify und eine Neubewertung elektronischer Musik/New Age.
 Es gibt jedoch wichtige Punkte, die nicht allein durch diese Faktoren erklärt werden können.
 
 Dies liegt daran, dass Japans „Umweltmusik“ in den 1980er Jahren auf einem anderen kulturellen Boden entstand als Ambient-Musik auf der ganzen Welt.
@@ -56,7 +56,7 @@ color: #fff;
 
 Das Aufkommen japanischer Ambient-Musik ging mit der Entwicklung elektronischer Musikstudios in den 1970er Jahren einher. Viele Universitäten und Forschungsinstitute erforschten elektronische Akustik, Tonbandmusik und Musique Concrète, und gleichzeitig nahmen „Klanginstallationen“ im Bereich der zeitgenössischen Kunst zu.
 
-Während seines Studiums der Raumkunst an einer Kunstuniversität begann Hiroshi Yoshimura schon früh mit der Schaffung von Werken, die Umgebung und Klang miteinander verknüpften, und war auch an der akustischen Planung öffentlicher Räume beteiligt.
+Während seines Studiums der Raumkunst an einer Kunstuniversität begann Hiroshi Yoshimura schon früh mit der Schaffung von Werken, die Umwelt und Klang miteinander verknüpften, und befasste sich auch mit der akustischen Planung öffentlicher Räume.
 
 Japanische Ambient-Musik zeichnet sich dadurch aus, dass sie an der Schnittstelle dieser Künste, Tontechnik und Stadtplanung entsteht.
 
@@ -137,7 +137,7 @@ Sie behandelt Schlaginstrumente nicht als Symbole der „Zeit“, sondern als �
 Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunk-Audio seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
 
 ## ● Repräsentative Werke
-- **《Ion-Serie》(1980er-Jahre)**
+- **《Ion-Serie》 (1980er-Jahre)**
 Eine als CD produzierte Umweltmusikserie mit Luftreinigern.
 - **《A Dream Sails Out To Sea》 (1987)**
 Nach einem erneuten Auftreten wurde der Patient im Ausland erneut untersucht.
@@ -170,7 +170,7 @@ Ein elektronisches und zugleich idyllisches Meisterwerk.
 ## ● 3-1. Synthesizer-Kultur
 In den 1980er Jahren dominierten japanische Hersteller elektronischer Musikinstrumente den Weltmarkt und hatten großen Einfluss auf die Ambient-Musik.
 
-Geräte, die häufig verwendet wurden (innerhalb des nachweisbaren Bereichs)
+Geräte, die häufig genutzt wurden (innerhalb des nachweisbaren Bereichs)
 - Yamaha DX7
 - Roland Juno-Serie
 - Roland RE-201 (Bandecho)
@@ -219,7 +219,7 @@ Seine Werke sind mittlerweile in Plattenläden auf der ganzen Welt erhältlich.
 
 ## ● 5-2. Verbreitung auf Videoseiten
 
-Aufgrund des YouTube-Algorithmus ist die Anzahl der Aufrufe von „Green“ und „Through the Looking Glass“ deutlich gestiegen.
+Aufgrund des YouTube-Algorithmus sind die Aufrufzahlen für „Green“ und „Through the Looking Glass“ deutlich gestiegen.
 Dadurch entstand eine globale Hörerbasis.
 
 ## ● 5-3. Einfluss auf moderne Ambient-Musik
@@ -283,7 +283,7 @@ Die Welt hat das neu bewertet
 **Nicht nur die Schönheit der Musik selbst, sondern auch die darin enthaltene einzigartige japanische Philosophie**
 Es ist.
 
-Ambient-Musik erhält auf der ganzen Welt immer wieder neue Bedeutungen, und die Werke aus den 1980er-Jahren, aus denen sie hervorgegangen ist, dürften weiterhin ein wichtiges Fundament der Musikgeschichte bleiben.
+Ambient-Musik hat auf der ganzen Welt immer wieder neue Bedeutungen, und die Werke aus den 1980er Jahren, aus denen sie hervorgegangen ist, werden wahrscheinlich ein wichtiges Fundament der Musikgeschichte bleiben.
 
 ---
 

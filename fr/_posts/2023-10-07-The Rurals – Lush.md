@@ -13,7 +13,7 @@ title: Les ruraux – luxuriants
 ---
 
 
-« Luxuriant » est
+"Lush" est
 Sorti en 2000 sur le label britannique "Peng", de son vrai nom Andy Compton.
 Il s'agit d'un EP du projet The Rurals.
 

@@ -73,7 +73,7 @@ En particulier, les performances de 1979 à 1980 sont considérées comme plus q
 # 3. Indiéisation et approfondissement (1981-1985)
 —De la pop à « l’expérience musicale »
 
-Au début des années 1980, Hikashu quitte le cadre d'un label major et s'oriente vers un système de création plus libre.
+Au début des années 1980, Hikashu quitte le cadre d'un label majeur et s'oriente vers un système de création plus libre.
 
 Points importants pendant cette période :
 
@@ -89,11 +89,11 @@ C'est le début d'une rupture avec le genre, et ne peut être catégorisé comme
 # 4. Expansion des activités de Koichi Makigami (fin des années 1980 – années 1990)
 —À la techno, à la musique folk, au thérémine et aux arts du spectacle
 
-Parallèlement aux activités du groupe, le leader Koichi Makigami élargit le champ de ses activités en mettant l'accent sur **l'expansion de la voix**.
+Parallèlement aux activités de groupe, le leader Koichi Makigami élargit le champ de ses activités en mettant l'accent sur **l'expansion de la voix**.
 
 - Exploration plus approfondie du chant diphonique
 - Collaboration avec la danse contemporaine
-- Connexion avec John Zorn (monde avant-gardiste de NY)
+- Connexion avec John Zorn (NY avant-garde mondiale)
 - A piloté le boom du thérémine à la fin des années 1990 et contribué à sa diffusion au Japon
 
 Hikashu lui-même a introduit des rythmes de musique ethnique, des gammes non occidentales et de la poésie abstraite, se transformant en « pop expérimentale de nationalité inconnue ».
@@ -131,7 +131,7 @@ Le style de Hikashu consistant à « réexpérimenter » en utilisant des œuvre
 ---
 
 # 7. Analyse détaillée des caractéristiques musicales
-—Éléments qui font Hikashu Hikashu
+—Éléments qui font du Hikashu Hikashu
 
 ### ■ 1. L'idée de transformer la voix en instrument
 La voix de Koichi Makigami est un mélange des éléments suivants :
@@ -148,7 +148,7 @@ Il ne s’agit pas seulement de voix, mais d’une exploration de la voix en tan
 Au début, les nouveaux rythmes stoïques ressemblant à des vagues se démarquent, mais à partir du milieu, des ensembles complexes avec plusieurs rythmes existant en même temps se multiplient.
 
 ### ■ 3. « L'humour structurel » plutôt que « l'absurdité »
-Les paroles et les performances de Hikashu peuvent sembler bizarres, mais beaucoup d'entre elles sont structurées de manière extrêmement précise.
+Les paroles et la production de Hikashu peuvent sembler bizarres, mais beaucoup d'entre elles sont structurées de manière extrêmement précise.
 Le non-sens n’est pas un « gag qui arrête la pensée », mais un moyen permettant de secouer la frontière entre le langage et le son.
 
 ### ■ 4. Thérémine et acoustique électronique
@@ -222,7 +222,7 @@ Il ne suffit pas de parler simplement de Hikashu comme d’une « légende de la
 —L'« état » de Hikashu
 
 Hikashu est plus qu'un « groupe », c'est un terrain d'expérimentation du son, du corps et de l'humour.
-Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « maintenant ».
+Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « présent ».
 
 Cette attitude est d’une valeur unique dans l’histoire de la musique japonaise.
 Hikashu ne se termine jamais. Ils existent toujours comme un « État » permanent.

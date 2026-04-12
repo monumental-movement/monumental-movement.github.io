@@ -124,7 +124,7 @@ Insbesondere der **aufsteigende Bläser-Synthesizer-Sound**, der im Intro von �
 ## Kapitel sieben: Vermächtnis von Vijaya Anand
 
 Vijaya Anand hat seit den 1990er Jahren Filmmusiken für viele Filme komponiert, aber nur wenige waren so innovativ wie Dance Raja Dance.
-Allerdings eröffnete seine Musik jüngeren Musikdirektoren die Perspektive, „Filme als Testgelände für Popmusik“ zu betrachten.
+Allerdings eröffnete seine Musik jüngeren Musikregisseuren die Perspektive, „Film als Testgelände für Popmusik“ zu sehen.
 
 A.R. Rehmans frühe Werke Roja (1992) und die Grundlagen urbaner Soundtracks wie Gentleman (1993) sind eindeutig eine Erweiterung der Experimente von Vijaya Anand und Bappi Lahiri.
 

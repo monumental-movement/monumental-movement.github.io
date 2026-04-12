@@ -60,7 +60,7 @@ La raison pour laquelle Laswell mérite d’être qualifié de « déconstructio
 - Les œuvres sorties ont brouillé la définition du genre.
 
 Dans cet article, nous présentons Bill Laswell et les musiciens qui l'entourent.
-**La façon dont l'acoustique des années 1980 a été « déconstruite et réorganisée »** sera suivie sur la base de faits.
+**La manière dont l'acoustique des années 1980 a été « déconstruite et réorganisée »** sera suivie sur la base de faits.
 
 ---
 
@@ -110,7 +110,7 @@ Laswell s'est imposé comme « producteur, interprète et monteur ».
 
 # 4. Réorganisation des musiques du monde : Connecter l’Afrique à l’Asie
 La « World Music Compilation » de Laswell est différente de la musique du monde commerciale ;
-Il s’agira d’une « recomposition de la culture acoustique » menée par des artistes.
+Il s’agira d’une « recomposition de la culture acoustique » dirigée par des artistes.
 
 **Faits clés :**
 - Travail d'enregistrement et de montage de Fela Kuti

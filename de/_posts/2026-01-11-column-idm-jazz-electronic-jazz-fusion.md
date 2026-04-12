@@ -46,7 +46,7 @@ color: #fff;
 
 ### Intelligente elektronische Musik nach Breakbeats
 
-In den frühen 1990er-Jahren machten die Versuche, Breakbeats zu unterteilen und zu rekonstruieren, Fortschritte, und Rhythmen, die eher Veränderungen als Wiederholungen enthielten, gewannen an Bedeutung. In einem Bereich namens IDM liegt der Fokus weniger auf der Stabilität des Tempos als vielmehr auf dem, was im Takt passiert. Der Rhythmus hat sich von einer Grundlage des Tanzens zu einer Informationsstruktur des Zuhörens gewandelt.
+In den frühen 1990er-Jahren machten die Versuche, Breakbeats zu unterteilen und zu rekonstruieren, Fortschritte, und Rhythmen, die eher Veränderungen als Wiederholungen enthielten, wurden geschätzt. In einem Bereich namens IDM liegt der Fokus weniger auf der Stabilität des Tempos als vielmehr auf dem, was im Takt passiert. Der Rhythmus hat sich von einer Grundlage des Tanzens zu einer Informationsstruktur des Zuhörens gewandelt.
 
 ### Taktart und Tempo neu definieren
 
@@ -135,9 +135,9 @@ Der Sampler und die Drum Machine bilden das rhythmische Gerüst, die DAW ist fü
 
 ### Unterschied zwischen Live und Studio
 
-Im Studio ist eine äußerst detaillierte Bearbeitung möglich, bei Live-Auftritten ist jedoch die strukturelle Flexibilität wichtiger als die Reproduzierbarkeit. Daher entwerfen Interpreten Musik so, dass sie sofort zwischen mehreren Loops und Mustern wechseln kann.
+Im Studio ist eine äußerst detaillierte Bearbeitung möglich, bei Live-Auftritten ist jedoch die strukturelle Flexibilität wichtiger als die Reproduzierbarkeit. Daher gestalten Interpreten Musik so, dass sie sofort zwischen mehreren Loops und Mustern wechseln kann.
 
-> Die Ausrüstung wird für die Zeitkontrolle und nicht für die Klangfarbe ausgewählt.
+> Die Ausrüstung wird eher für die Zeitkontrolle als für die Klangfarbe ausgewählt.
 
 ---
 

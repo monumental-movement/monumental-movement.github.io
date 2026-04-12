@@ -95,7 +95,7 @@ Mit fortschreitender Technologie ändern sich die Form der Clubs und damit auch 
 ## Kapitel 5: Geschlecht und der öffentliche Raum der Nacht – die Schnittstelle von Sicherheit und Verlangen
 
 Clubs sind zwar Orte der Freiheit, aber auch Orte der Gefahr für Frauen und sexuelle Minderheiten.
-In der Nachtkulturforschung hat das Konzept der „sicheren Nacht“ Aufmerksamkeit erregt.
+In der Nachtkulturforschung hat das Konzept der „sicheren Nacht“ große Aufmerksamkeit erregt.
 Das Aufkommen weiblicher DJs und feministischer Partys ist ein Versuch, den nächtlichen öffentlichen Raum neu zu definieren.
 
 Für wen ist die Freiheit der Nacht?

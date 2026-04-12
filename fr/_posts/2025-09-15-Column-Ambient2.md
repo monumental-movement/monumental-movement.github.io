@@ -101,7 +101,7 @@ Mondialisation et explosion de la culture techno/rave après la fin de la guerre
 - Enregistrement en direct avec bande DAT
 
 ### Caractéristiques
-L’essor de la house ambiante et de la techno ambiante. Il fonctionne comme une musique qui soutient les « coulisses » de la culture club. La zone où les sons et les battements environnementaux se croisent est explorée.
+L'essor de la house ambiante et de la techno ambiante. Il fonctionne comme une musique qui soutient les « coulisses » de la culture club. La zone où les sons et les battements environnementaux se croisent est explorée.
 
 ---
 
@@ -346,6 +346,13 @@ Ce n'est pas seulement un genre, c'est « une conception sonore permettant aux h
 
 À l’avenir, l’ambiant deviendra encore plus essentiel en tant qu’« infrastructure environnementale » dans le métaverse et la conception urbaine.
 
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s0YQIC5t9D0?si=zuGffYSe02EpdXm5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

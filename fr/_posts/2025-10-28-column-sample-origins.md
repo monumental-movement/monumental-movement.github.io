@@ -180,7 +180,7 @@ Le « son soutenu » des cordes douces donnait au hip-hop une sensation luxueuse
 ---
 
 #### 19. Tom Scott – « Aujourd'hui » (1973)
-Utilisé sur Pete Rock & C.L. "Ils se souviennent de vous" de Smooth. Cette chanson, qui aborde les thèmes de la tristesse et de la mémoire, a montré que l'échantillonnage peut être un art de « mémorial ».
+Utilisé sur Pete Rock & C.L. "Ils se souviennent de vous" de Smooth. Cette chanson, qui aborde les thèmes de la tristesse et de la mémoire, a montré que l'échantillonnage peut être un art de « commémoration ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KYKPc-DooNo?si=dRFaHjTgOoRW21cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

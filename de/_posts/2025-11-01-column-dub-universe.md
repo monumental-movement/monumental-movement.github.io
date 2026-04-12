@@ -20,7 +20,7 @@ title: '[Kolumne] Die Geburt der DUB-Musik und des erweiterten Universums – ei
 ## Prolog: Eine Revolution, die aus dem „Nachhall“ des Klangs entsteht
 
 
-Text: mmr｜Thema: Von der jamaikanischen Soundsystemkultur zu Lee „Scratch“ Perry, King Tubby und seinem Erbe im britischen Dub und zeitgenössischer elektronischer Musik
+Text: mmr｜Thema: Von der jamaikanischen Soundsystem-Kultur zu Lee „Scratch“ Perry, King Tubby und seinem Erbe im britischen Dub und zeitgenössischer elektronischer Musik
 
 
 
@@ -113,14 +113,14 @@ Die Legende verbreitete sich in allen Teilen der Welt, auch im Vereinigten Köni
 In den späten 1970er Jahren wurde von Einwanderern aus Jamaika
 Doves Ideen verbreiteten sich nach London, Bristol und Birmingham.
 In diesem Sinne erschien **On-U Sound** unter der Leitung von **Adrian Sherwood**.
-Er verbindet das Chaos von Perry mit der Raffinesse von Tubby.
-Sie schufen einen industrielleren und abstrakteren „UK-Dub“.
+Er kombiniert das Chaos von Perry mit der Raffinesse von Tubby.
+Sie schufen einen industrielleren und abstrakteren „UK Dub“.
 
 Werke wie **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
 Es wird ein Ort sein, an dem sich jamaikanische spirituelle Wurzeln und europäischer Post-Punk-Geist kreuzen.
 
 Etwa zur gleichen Zeit wurde auch das **Ariwa Studio** von **Mad Professor** im Süden Londons eröffnet.
-Seine Dub Me Crazy-Serie war ein Klangabenteuer zwischen Technologie und Fantasie.
+Seine Dub Me Crazy-Reihe war ein Klangabenteuer zwischen Technologie und Fantasy.
 
 ---
 
@@ -152,7 +152,7 @@ Es ist die Ästhetik des Mangels und die Idee der Reproduktion.
 
 Diese Art von Dub-Denken ist auch in der modernen **KI-Musikgeneration** und **Remix-Kultur** üblich.
 Der Vorgang des „Bearbeitens“ und „Neukomponierens“ des Klangs selbst ist
-Sie ist die Grundlage kreativen Handelns im 21. Jahrhundert.
+Es ist die Grundlage kreativen Handelns im 21. Jahrhundert.
 
 ---
 
@@ -203,6 +203,16 @@ Es setzt sich bis heute in Clubs, Laboren und in Ihren Kopfhörern auf der ganze
 > - Spirit of Dub
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnngNYn6qkM?si=Oou8zfNHFFA9JijM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Referenzdiskographie
 

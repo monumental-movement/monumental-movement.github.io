@@ -122,7 +122,7 @@ G[高周波電子音] --> H[実験的回避]
 
 ---
 
-### 4.2 Exemple d'expérimentation
+### 4.2 Exemple expérimental
 
 - **Hokkaido Orchard (2015-2018)** : taux d'invasion réduit de 40 % grâce à l'utilisation de pétards
 
@@ -180,7 +180,7 @@ Le défi pour l'avenir est de le transformer en un « aménagement paysager acou
 
 ---
 
-### Études de cas sur le contrôle des dommages grâce au son (2000-2025)
+### Études de cas sur le contrôle des dommages par le son (2000-2025)
 
 <div class="mermaid">
 

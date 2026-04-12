@@ -97,7 +97,6 @@ La relation entre les deux n’est pas une relation de « domination et subordin
 | **SuperCollider** | James McCartney | Un environnement établi de longue date pour la synthèse sonore et la composition algorithmique | Le contrôle des paramètres sonores à l'aide de modèles d'IA est en cours |
 | **Sonique Pi** | Sam Aaron | Basé sur Ruby avec à la fois l'éducation et la performance à l'esprit | Exemples de code assisté par l'IA utilisés dans les milieux éducatifs |
 | **Riffusion** | Seth Forsgren et coll. | Modèle de diffusion qui génère des spectrogrammes | L'IA elle-même génère directement du son |
-| **Ocelot / Hydra** | Environnement de codage en direct qui intègre la vidéo + le son générés | La synchronisation IA de la vision et du son est possible |
 
 ---
 
@@ -130,7 +129,7 @@ La philosophie de TOPLAP « ouvrir le processus » est
 Lorsque l'IA rejoint cette culture,
 Nous devons résister à la « boîte noire ».
 
-Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision devraient également être rendus publics.
+Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision doivent également être rendus publics.
 C’est la clé pour ouvrir l’avenir de la musique algorithmique.
 
 ---
@@ -190,7 +189,7 @@ flowchart TD
 
 ## Conclusion : Une nouvelle démocratisation de la créativité
 
-Le Live Coding passe par "l'expression d'improvisation à travers des accords".
+Le Live Coding passe par "l'expression improvisée à travers des accords".
 Il a ouvert la musique à un acte que n'importe qui pouvait créer.
 L’IA favorisera davantage la démocratisation,
 Nous essayons de créer une **culture de partage de « l'intelligence du spectacle »**.

@@ -318,7 +318,7 @@ Un lieu où la nouvelle musique naît, se propage et où des communautés se for
 
 Si ce réseau underground n'existait pas, la rave, la jungle et le grime britanniques seraient tous différents.
 
-L’histoire de la musique est souvent racontée par les maisons de disques et les artistes vedettes.
+L’histoire de la musique est souvent racontée par des maisons de disques et des artistes vedettes.
 
 Mais les petits émetteurs placés sur les toits des villes étaient tout aussi importants.
 

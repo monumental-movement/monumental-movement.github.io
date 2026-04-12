@@ -53,7 +53,7 @@ color: #fff;
 Jede Region Türkiye hat ihre eigene einzigartige Tanzmusik.
 Harai in Ostanatolien, Holon an der westlichen Schwarzmeerküste und Zeybek in der westlichen Ägäisregion weisen alle Strukturen auf, die Gruppierung und Rhythmus betonen.
 
-Die Taktarten sind vielfältig und umfassen 2, 5, 7 und 9 Schläge, was einen direkten Einfluss auf die spätere türkische Pop- und Tanzmusik hat.
+Die Taktarten sind vielfältig und umfassen 2, 5, 7 und 9 Schläge, was einen direkten Einfluss auf die spätere türkische Pop- und Tanzmusik hatte.
 
 ### Instrumente und Körperlichkeit
 
@@ -119,7 +119,7 @@ Die Fusion-Musik dieser Zeit zeichnete sich dadurch aus, dass sie zwar experimen
 
 ### Rolle der deutschen Einwanderergemeinschaft
 
-In den 1980er Jahren wurde traditionelle Musik und Popmusik in türkischen Einwanderergemeinschaften, hauptsächlich in Westdeutschland, neu aufgelegt.
+In den 1980er Jahren wurden traditionelle Musik und Popmusik in türkischen Einwanderergemeinschaften, hauptsächlich in Westdeutschland, neu aufgelegt.
 
 Bei Hochzeiten und Gemeinschaftsveranstaltungen wurden betonte Rhythmen beim Tanzen bevorzugt.
 

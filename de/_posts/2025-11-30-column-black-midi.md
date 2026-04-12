@@ -49,7 +49,7 @@ color: #fff;
 - **Betreuer/Tourteilnehmer** (je nach Saison): Keyboarder, Saxophonist, etc. (z.B. Keyboarder Seth Evans, Saxophonist Kaidi Akinnibi)
 - **Musikstil/Genre**: Er verfügt über eine breite Palette experimenteller Stile, darunter Math Rock, Progressive Rock, Post-Punk, Noise und Avant-Jazz. Gekennzeichnet durch Improvisation, strukturelle Komplexität und Genremischung.
 
-- **Herkunft des Bandnamens**: Sie selbst haben den Namen der Band von „Black Midi“ (eine in „Schwarz“ ausgefüllte Partitur mit vielen MIDI-Noten) übernommen, einem Internetkultur-/Musikgenre, das seinen Ursprung in Japan hat. Eine direkte klangliche Verwandtschaft besteht jedoch nicht, es handelt sich lediglich um eine Anspielung auf den Namen.
+- **Herkunft des Bandnamens**: Sie selbst haben den Namen der Band von „Black Midi“ (eine in „Schwarz“ ausgefüllte Partitur mit vielen MIDI-Noten) übernommen, einem Internetkultur-/Musikgenre, das seinen Ursprung in Japan hat. Es besteht jedoch kein direkter klanglicher Zusammenhang, es handelt sich lediglich um eine Anspielung auf den Namen.
 
 Black Midi begann in der Live-House- und Indie-/Underground-Szene im Süden Londons und hat trotz ihres jungen Alters seit ihrem Debüt im Jahr 2019 schnell an Aufmerksamkeit gewonnen, ausgestattet mit herausragender Technik und Experimentierfreude.
 
@@ -63,10 +63,10 @@ Eine kurze Geschichte der Diskographie von Black Midi und die Merkmale jedes Wer
 
 | **Jahr** | **Werktitel/Format** | **Merkmale/Zusammenfassung (Version mit verbesserter Sichtbarkeit)** |
 | -------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2018** | Single **„bmbmbm“ und andere** | **Erste Veröffentlichung von Speedy Wunderground. **<br>Von hier an begannen die offiziellen Aktivitäten der Band ernsthaft. Als frühe Merkmale zeichneten sich starker Minimalismus und repetitive Geräuschästhetik ab.                                                                                            |
+| **2018** | Single **„bmbmbm“ und andere** | **Erste Veröffentlichung von Speedy Wunderground. **<br>Von hier an begannen die offiziellen Aktivitäten der Band ernsthaft. Als frühe Merkmale kristallisierten sich starker Minimalismus und repetitive Geräuschästhetik heraus.                                                                                            |
 | **2019** | **1. Album „Schlagenheim“** | **Produziert von: Dan Carey. Aufgenommen in nur wenigen Tagen. **<br>Einführung einer Vielzahl von Klängen wie Synthesizer, Orgeln, Banjos und Drum Machines unter Beibehaltung einer lebendigen Energie. <br><br>**Kritische Rezension**: Top 50 UK-Charts, Nominierung für den Mercury Prize. <br>Es wurde aufgrund seiner rauen, aber dennoch dichten Konstruktion als „das wichtigste Debütwerk des Endes der 2010er Jahre“ beschrieben. |
 | **2021** | **2. Album „Cavalcade“** | **Der kompositorische und kammermusikalische Ansatz ist gegenüber dem Vorgängerwerk deutlich erweitert. **<br>Fügt Saxophon, Bratsche, Keyboard usw. hinzu und integriert Vokabeln wie Jazz, Progressive Rock, Post-Punk und zeitgenössische Musik. <br>Der Signature-Song „John L“ vereint chaotische Struktur + Kult-Fabel + Theatralik und die „Koexistenz von Raserei und Präzision“ der Band erreicht ihren Höhepunkt.                                       |
-| **2022** | **3. Album „Hellfire“** | **Das „theatralischste“ Werk mit noch stärkerer Geschichte, Charakter und Allegorie. **<br>Eine Mischung aus Lärm, seltsamen Taktarten, barocken Entwicklungen und Geschichtenerzählen im Kabare-Stil. <br>Die Struktur ist so, dass jedes Lied in einer anderen Umgebung spielt, mit Themen wie schwarzem Humor, Kriegsfabeln sowie Sünde und Erlösung. <br><br>**Merkmale nach dieser Zeit**: Eine Politik der aktiven Schaffung von Unterschieden zwischen Studiowerken und Live-Neuinterpretationen setzte sich durch.          |
+| **2022** | **3. Album „Hellfire“** | **Das „theatralischste“ Werk mit noch stärkerer Geschichte, Charakter und Allegorie. **<br>Eine Mischung aus Lärm, seltsamen Taktarten, barocken Entwicklungen und Geschichtenerzählen im Kabare-Stil. <br>Die Struktur ist so, dass jedes Lied in einer anderen Umgebung spielt, mit Themen wie schwarzem Humor, Kriegsfabeln sowie Sünde und Erlösung. <br><br>**Merkmale nach dieser Zeit**: Es hat sich eine Politik etabliert, aktiv Unterschiede zwischen Studiowerken und Live-Neuinterpretationen herzustellen.          |
 | **2022** | **Live-Album „Live Fire“** | **Festaufnahme in Portugal. **<br>Die Lieder aus der „Hellfire“-Zeit wurden live rekonstruiert, wobei der Schwerpunkt auf Improvisation und der Leidenschaft der Aufführung liegt. <br>Dieses Werk enthält viele verschiedene Interpretationen der Studioversion und definiert „Black Midi als Live-Band“.                                                                    |
 
 Durch diese Werke hat sich Black Midi von „Improvisation zur Konstruktion“, „vom Lärm zur Struktur“ und „vom Live-Chaos zur Studiopräzision“ entwickelt.
@@ -79,13 +79,13 @@ Wir werden die nationale und internationale Kritik, Medien- und Fanreaktionen au
 
 ### 3‑1. Debützeit – Schockierendes und frisches großes Lob
 
-- Ihr Debütalbum *Schlagenheim* wurde von vielen Kritikern als „unvorhersehbar“, „kantiger Sound“ und „die Grenzen des bestehenden Rock/Post-Punk durchbrechend“ hoch gelobt. Insbesondere gab es viele Komplimente für seine Schlagzeugtechnik (Morgan Simpson), mit Kommentaren wie „seine spielerischen Fähigkeiten sind in so jungen Jahren außergewöhnlich“ und „der Aufstieg junger Talente“.
+- Ihr Debütalbum *Schlagenheim* wurde von vielen Kritikern als „unvorhersehbar“, „kantiger Sound“ und „die Grenzen des bestehenden Rock/Post-Punk durchbrechend“ hoch gelobt. Insbesondere gab es viele Komplimente zu seiner Schlagzeugtechnik (Morgan Simpson), mit Kommentaren wie „seine spielerischen Fähigkeiten sind in so jungen Jahren außergewöhnlich“ und „der Aufstieg junger Talente“.
 
 - Sie erregten Aufmerksamkeit in den japanischen Medien und ihr Debüt wurde als „die bemerkenswerteste ausländische Band des Jahres 2019“ und „Kandidat für das beste Album des Jahres“ vorgestellt. Einige japanische Hörer und Autoren haben argumentiert, dass ihr Sound mit „Games“, japanischem Jazz, Alternative und Noise in Einklang steht und nicht nur von traditionellen westlichen Rockfans, sondern auch von Subkultur-/Alternative-Hörern akzeptiert wurde.
 
 - Auch die Herkunft ihres Namens aus dem schwarzen Musikpartitur-Genre „Black Midi“ ist als unerwartete kulturelle Verbindung mit Japan zu einem heißen Thema geworden, und ihre Position als „junge britische Band mit Bezügen zur japanischen Kultur/Internetkultur“ hat ihr Interesse an Japan weiter gestärkt.
 
-Auf diese Weise erregten Black Midi während ihrer Debütphase als „heller neuer Star“ und „junger Rock des Experimentierens und der Impulsivität“ große Aufmerksamkeit bei Medien und Hörern in Europa, Amerika und Japan.
+Auf diese Weise erregten Black Midi während ihrer Debütperiode als „heller neuer Star“ und „junge Rockband voller Experimente und Impulse“ große Aufmerksamkeit bei Medien und Hörern in Europa, Amerika und Japan.
 
 ### 3‑2. Cavalcade, Hellfire – Eine Anspielung auf Expansion und eine Anspielung auf Esoterik
 
@@ -93,9 +93,9 @@ Auf diese Weise erregten Black Midi während ihrer Debütphase als „heller neu
 
 - Andererseits gab es auch Kommentare wie „Der Klang ist zu dicht“, „Das Gleichgewicht zwischen Lärm und Struktur ist schwer zu finden“ und „Es erweckt eher den Eindruck, zu aufwändig zu sein als die Freiheit einer Live-Improvisation.“ Einige Kritiker lobten Cavalcades Opulenz und Struktur, waren jedoch der Meinung, dass die „rohe Gefahr“ und der „Improvisationsimpuls“, die für ihr Debütwerk charakteristisch waren, nachgelassen hatten.
 
-- Darüber hinaus gab es in Bezug auf ihr drittes Album *Hellfire* Komplimente wie „das experimentellste und theatralischste aller Zeiten“, „eine Gruppe von Liedern mit Erzählung, Allegorie und Charakter“, „es wählt den Hörer, aber es hat eine starke Wirkung“ und „ein Kunstwerk, das über den Rahmen von ‚Rock‘ hinausgeht“. Besonders die radikale Struktur und der Sound von Hellfire sowie die Vielschichtigkeit der Musik wurden hoch gelobt gelobt.
+- Darüber hinaus gab es in Bezug auf ihr drittes Album *Hellfire* Komplimente wie „das experimentellste und theatralischste aller Zeiten“, „eine Gruppe von Liedern mit Erzählung, Allegorie und Charakter“, „es wählt den Hörer, aber es hat eine starke Wirkung“ und „ein Kunstwerk, das über den Rahmen von ‚Rock‘ hinausgeht“. Insbesondere die radikale Komposition und der radikale Sound von Hellfire sowie die Vielschichtigkeit der Musik wurden hoch gelobt Lob.
 
-- Allerdings gibt es gleichzeitig auch hartnäckige Beschwerden darüber, dass „die Struktur zu komplex und der Eingang zu eng ist“, „man muss sich mehr anhören als nur den ersten Eindruck“ und „es ist ein Werk, das die Leute entweder mögen oder hassen“, und einige sagen, dass die Songs von Black Midi schwer zu sagen seien „für jedermann“.
+- Allerdings gibt es gleichzeitig auch hartnäckige Beschwerden darüber, dass „die Struktur zu komplex und der Eingang zu eng ist“, „man muss sich mehr anhören als den ersten Eindruck“ und „es ist ein Werk, das die Leute entweder mögen oder hassen“, und einige sagen, dass die Songs von Black Midi schwer zu sagen seien „für jedermann“.
 Mit anderen Worten: Black Midis Wachstumsphase war eine Zeit, in der es seine Techniken, seine Komposition und seine Musikalität erweiterte und seine Radikalität und Raffinesse die Grenzen der Musik verschob, die leicht in Vor- und Nachteile unterteilt und vom Hörer gewählt werden konnte.
 
 ### 3-3. Der Wert von Live-Auftritten und „Performance/Improvisation“ – Live-Alben und Neubewertung
@@ -122,9 +122,9 @@ Mit anderen Worten: Black Midis Wachstumsphase war eine Zeit, in der es seine Te
 - Die Musik von Black Midi umfasst ein breites Spektrum an Genres, darunter Math Rock, Progressive Rock, Post-Punk, Noise, Jazz/Avant-Jazz, Improvisation, Kabarett-/Theaterelemente usw., und hat eine gründliche Einstellung zur Kreuzung und Mischung von Genres. Dieser Ansatz stellte eine neue Art der Rock-/Experimentalmusik dar, die nicht an traditionelle „Rock-ness“ oder „Genre-ness“ gebunden ist. Für viele nachfolgende Bands und Künstler wurde das Mischen/Eklektizismus/Experimentieren über Genregrenzen hinweg zu einem Modell, das zur „natürlichen Wahl“ werden könnte.
 - Darüber hinaus hat Kuro Midis Einstellung, nicht nur Studioaufnahmen, sondern auch „Live“, „Improvisation“, „Rekonstruktion“ und „Lebendigkeit der Aufführung“ zu betonen, neue Richtlinien für junge Bands und Indie-/Underground-Musiker gesetzt. Die Idee, dass es keine strenge Grenze zwischen aufgenommenen Werken und Live-Auftritten gibt und dass beide den gleichen Wert haben, ist eine wichtige Perspektive für die Art und Weise, wie Bands und Musik im 21. Jahrhundert sein sollten.
 
-### 4‑3. Internationale Verbreitung/Internetverbreitung und Einfluss auf Subkulturen
+### 4‑3. Internationale/Internetverbreitung und Einfluss auf Subkulturen
 
-– Die Werke von Black Midi haben sich nicht nur im Vereinigten Königreich verbreitet, sondern auch bei Indie-Hörern und Subkulturen/Internetkulturen auf der ganzen Welt, darunter Europa, Amerika und Japan. Insbesondere die Hybridität, „Unorthodoxie“, Improvisation und freie Genrekreuzung ihres Sounds fand in allen Ländern und Kulturen großen Anklang. Infolgedessen wurden die Grenzen zwischen experimenteller Musik und Indie-Musik neu überdacht und viele Hörer wurden dazu inspiriert, „Musik zu erkunden, die nicht an konventionelle Grenzen gebunden ist“.
+– Die Werke von Black Midi haben sich nicht nur im Vereinigten Königreich verbreitet, sondern auch bei Indie-Hörern und Subkulturen/Internetkulturen auf der ganzen Welt, einschließlich Europa, Amerika und Japan. Insbesondere die Hybridität, „Unorthodoxie“, Improvisation und freie Genrekreuzung ihres Sounds fand in allen Ländern und Kulturen großen Anklang. Dadurch wurden die Grenzen zwischen experimenteller Musik und Indie-Musik erneut in Frage gestellt und viele Hörer wurden dazu inspiriert, „Musik zu erkunden, die nicht an konventionelle Grenzen gebunden ist“.
 
 - In Japan bezieht sich der Name der Band auf das Wort „Black Midi“, und die Affinität des Sounds nicht nur zu westlicher Musik, sondern auch zu alternativer Musik, japanischem Jazz, Gaming-Kultur und Internetkultur hat deutlich gemacht, dass die Band nicht nur importierter Rock ist, sondern auch eine Affinität zu japanischen Subkulturen hat. Diese interkulturellen Bezüge stärkten die internationale und kulturelle Bedeutung von Black Midi.
 
@@ -134,7 +134,7 @@ Mit anderen Worten: Black Midis Wachstumsphase war eine Zeit, in der es seine Te
 
 Bands wie Black Midi sind aufgrund ihres experimentellen Charakters nicht immer bei allen beliebt. Auf die folgenden Einschränkungen sowie Vor- und Nachteile wurde hingewiesen.
 
-- Die Struktur des Liedes ist komplex, Lärm und Experimente sind stark ausgeprägt, und die Leute sagen, es sei „schwierig, loszulegen“, „schwer zu verstehen“ und „die Geschmäcker sind weitgehend geteilt“. Diese Tendenz macht sich besonders in Werken wie *Cavalcade* und *Hellfire* bemerkbar, die einen starken kompositorischen und experimentellen Charakter haben.
+- Die Struktur des Liedes ist komplex, Lärm und Experimente sind stark ausgeprägt, und die Leute sagen, es sei „schwierig, loszulegen“, „schwer zu verstehen“ und „die Geschmäcker sind weitgehend unterschiedlich“. Diese Tendenz macht sich besonders in Werken wie *Cavalcade* und *Hellfire* bemerkbar, die einen starken kompositorischen und experimentellen Charakter haben.
 
 - Für Hörer, die „Improvisationschaos/Live-ähnliche Intensität“ suchen, kann sich der Studiobau manchmal wie ein „Mangel an Live-Feeling“ oder eine „übermäßige Produktion“ anfühlen. Tatsächlich gab es im Zuge der Weiterentwicklung der Band auch gemischte Kritiken.
 

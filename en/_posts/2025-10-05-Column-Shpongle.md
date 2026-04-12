@@ -9,7 +9,7 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Column] Shpongle: The cycle of sound and the journey of consciousness'
+title: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
 ---
 
 
@@ -314,7 +314,7 @@ This structure causes a psychological phenomenon called an "acoustic trip."
 | Reverb reverberation | Expansion of spatial localization | Dissolution of ego |
 | Polyrhythm | Cognitive delay | Dreamy floating feeling |
 
-Scientifically, Shpongle is a project to ""rebuild the brain with sound.''
+Scientifically, Shpongle is a project to ""restructure the brain with sound.''
 
 ---
 

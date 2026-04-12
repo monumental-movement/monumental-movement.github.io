@@ -15,7 +15,7 @@ title: Futureshock – La paranoïa de la fierté
 ---
 
 
-Futureshock est composé des DJ/producteurs britanniques Alex Tepper et Phil Dockerty.
+Futureshock est un groupe composé des DJ et producteurs britanniques Alex Tepper et Phil Dockerty.
 duo électronique par. Principalement actif de 1998 à 2003.
 
 "Pride's Paranoia" est un morceau house progressif sorti sur le label Parlophone en 2003.

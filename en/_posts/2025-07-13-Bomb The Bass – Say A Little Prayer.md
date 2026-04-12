@@ -16,7 +16,7 @@ title: Bomb The Bass – Say A Little Prayer
 
 Timothy Simenon (Tim Simenon), also known as Bomb The Bass, is a major figure in the UK electronic music scene who contributed to the acid house scene of the late 1980s. He is best known for his masterpiece "Beat Dis".
 
-"Say A Little Prayer" is a cover of a classic song written by Burt Bacharach & Hal David and released by Dionne Warwick in 1967.
+"Say A Little Prayer" is a cover of the famous song written by Burt Bacharach & Hal David and released by Dionne Warwick in 1967.
 
 The Bomb The Bass version is an acid house and downtempo remix released in 1988 by Rhythm King, a label specializing in house and acid house.
 

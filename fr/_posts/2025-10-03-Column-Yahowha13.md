@@ -58,7 +58,7 @@ Mariage, épouses et enfants : Son épouse légale était Robin Popper (plus tar
 Des articles de journalisme et de non-fiction ont exploré cette double nature, avec des anecdotes sur lui comme un « soldat/ancien marine/héros de guerre » et des histoires sur lui comme un « chef de secte/ex-marine/voleur de banque » avec des accusations d'implication dans des vols de banque et des meurtres.
 
 
-Pendant que la commune fonctionnait, il existe des documents faisant état de conflits typiques des opérations sectaires, tels que « l'abandon de biens personnels », « la séparation des parents » et « l'autorisation de marier de jeunes membres ».
+Pendant que la commune fonctionnait, il existe des documents faisant état de conflits typiques des opérations sectaires, tels que « l'abandon de biens personnels », « la séparation des membres de la famille » et « l'autorisation de marier de jeunes membres ».
 
 
 Le 25 août 1975, il est décédé dans un accident alors qu'il tentait son premier vol en deltaplane à Hawaï (il se serait écrasé et serait décédé environ 9 heures plus tard). Cet accident est effectivement devenu un événement symbolisant la « fin » de Yahooha13.
@@ -73,7 +73,7 @@ Après cela, les membres de la congrégation se sont dispersés, mais celle-ci a
 
 #### Membres constituants et historique de dénomination
 
-Programmation principale : principalement Djin Aquarian (guitare), Octavius ​​​​Aquarian (batterie) et Sunflower Aquarian (basse), ainsi que d'autres musiciens portant des noms de famille Verseau tels que Lovely, Hom, Rhythm, Pythias et Aquarian.
+Programmation principale : principalement Djin Aquarian (guitare), Octavius ​​​​​​Aquarian (batterie) et Tournesol Aquarian (basse), ainsi que d'autres musiciens croyants du « nom de famille Aquarian » tels que Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
 Initialement publié sous le nom de « Father Yod & The Spirit of '76 ». Après cela, la notation telle que « Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13 » a été utilisée avec quelques fluctuations.
@@ -128,7 +128,7 @@ Durant cette période, il explore la fusion des expérimentations acoustiques et
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I'm Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (inédit en 1975 → sorti plus tard), etc.
 
 
-Au cours de cette période, des tentatives ont également été faites pour incorporer plus de « structuralité » et de « musicalité », avec un style qui comprenait un mélange de riffs de guitare déformés, de phrases répétitives et de poésie et de chant fragmentés.
+Au cours de cette période, des tentatives ont également été faites pour incorporer davantage de « structuralité » et de « musicalité », avec un style qui comprenait un mélange de riffs de guitare déformés, de phrases répétitives et de poésie et de chant fragmentés.
 
 
 En particulier, Penetration: An Aquarian Symphony est considéré comme l'œuvre la plus populaire et la plus réévaluée de l'histoire du groupe, et a été rééditée à plusieurs reprises.
@@ -150,7 +150,7 @@ Depuis les années 2000, il y a eu des rééditions et des réimpressions d'arch
 
 ### Liste d'albums recommandés par génération
 
-Ce qui suit est une liste d'œuvres majeures liées à Yahowha13/Father Yod organisées par année en tant qu'œuvres recommandées.
+Ce qui suit est une liste d'œuvres majeures liées à Yahowha13/Father Yod, organisées par année en tant qu'œuvres recommandées.
 
 
 | Année | Nom de l'album | Explication | Lien |
@@ -217,7 +217,7 @@ En 2012, la sortie du film documentaire The Source Family (réalisé par Jodi Wi
 ---
 
 
-#### Réunions/Activités
+#### Réunions/activités
 
 En 2007, les membres originaux (Sunflower, Octavius, Djin) se seraient produits en live pour la première fois en 33 ans.
 
@@ -379,7 +379,7 @@ Les rééditions varient dans le degré d'édition de la source sonore en foncti
 
 ---
 
-### Points forts et ordre d'écoute recommandé (débutant → intermédiaire → chercheurs)
+### Points forts de l'écoute et ordre d'écoute recommandé (pour débutants → intermédiaires → chercheurs)
 
 **Chanson représentative/tableau représentatif (introduction)** : Commencez par parcourir Pénétration : Une Symphonie du Verseau une fois.
 
@@ -417,7 +417,7 @@ Documentaire sur la famille source (The Source Family, 2012) – Matériel vidé
 
 #### Pistes sous le nom de « Ya Ho Wha 13 »
 
-L'accent est mis sur les « vocalisations magiques » plutôt que sur les paroles. Les mots ressemblent plus à un cri ou à un chant qu’à être clairement chantés.
+L'accent est mis sur les « vocalisations magiques » plutôt que sur les paroles. Les mots ressemblent plus à un cri ou à un chant qu’à un chant clairement chanté.
 
 Le son « Ya Ho Wha » lui-même est un mantra sacré de la Famille Source, une expression du « nom de Dieu » que les Yods utilisaient quotidiennement.
 
@@ -467,7 +467,7 @@ Le son « Ya Ho Wha » lui-même est un mantra sacré de la Famille Source, une 
 
 ** Boom des rééditions psychédéliques des années 90 ** : P.S.F. Records et Captain Trip Records ont activement introduit Yahooha 13.
 
-Il a été présenté comme un « psychédélique culte fantôme » dans des magazines tels que Eureka et Eurorock Press, et les auditeurs japonais le collectionnent avidement.
+Il a été présenté comme un « psychédélique culte fantôme » dans des magazines tels que « Eureka » et « Eurorock Press », et les auditeurs japonais le collectionnent avidement.
 
 **Tendances d'évaluation** : Au Japon, il est apprécié comme « hérétique » et « psychédélique ésotérique », et est devenu un objet de collection dans les magasins de disques importés (Disc Union, Melon, Manhattan Records, etc.).
 

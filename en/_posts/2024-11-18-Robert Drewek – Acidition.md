@@ -13,7 +13,7 @@ title: Robert Drewek – Acidition
 ---
 
 
-Robert Drewek is the general manager of DBH Music, an electronic music distributor based in Frankfurt, Germany. He is also active as a duo RDRS with Robin Scholz.
+Robert Drewek is the general manager of DBH Music, an electronic music distributor based in Frankfurt, Germany. Robin ScholzとのデュオRDRSとしても活動している。
 
 "Acidition" is an acid house minimal tech house track released in 2005 by the German label i220.
 

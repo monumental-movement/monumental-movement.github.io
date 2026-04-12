@@ -103,10 +103,10 @@ At this moment, a culture of software acceptance of external plugins began.
 
 * Migration from Atari to Mac/Windows
 * Equipped with a unique "Environment" function
-* Actively introduce soft synths
+* Actively introducing soft synths
 
 emagic and Steinberg compete as two major DAWs from Germany.
-Digidesign is moving toward becoming the "absolute king of audio editing."
+Digidesign is on its way to becoming the "absolute king of audio editing."
 
 ---
 

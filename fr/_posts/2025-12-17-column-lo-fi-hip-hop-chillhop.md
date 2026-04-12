@@ -22,7 +22,7 @@ title: '[Chronique] Lo-Fi Hip Hop / Chillhop (beat culture enregistrée à la ma
 
 Texte : mmr｜Thème : Faits historiques sur la culture du beat enregistrée à la maison collectivement connue sous le nom de Lo-Fi Hip Hop / Chillhop, y compris son contexte, ses conditions techniques, sa structure de distribution, son esthétique et son acceptation sociale.
 
-Lo‑Fi Hip Hop est devenu un nom établi pour une pratique musicale basée sur la production de rythmes hip-hop qui se caractérise par une qualité sonore intentionnellement basse résolution, une organisation simple et des structures très répétitives. Chillhop est un nom dérivé qui met l'accent sur son utilisation d'écoute, en particulier l'aspect consommé dans des contextes de travail/musique environnementale.
+Lo‑Fi Hip Hop est devenu un nom bien établi pour une pratique musicale basée sur la production de rythmes hip-hop qui se caractérise par une qualité sonore intentionnellement basse résolution, une organisation simple et des structures très répétitives. Chillhop est un nom dérivé qui met l'accent sur son utilisation d'écoute, en particulier l'aspect consommé dans des contextes de travail/musique environnementale.
 
 Le terme Lo‑Fi signifie « basse fidélité » et fait référence à une attitude qui considère les limitations de la technologie d'enregistrement et le bruit comme un élément d'expression plutôt que comme un défaut. D’un autre côté, Chillhop n’est pas tant un nom de genre qu’un label formé au sein de la culture de catégorisation et de playlist sur les plateformes de distribution.
 
@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## 2. La production hip-hop comme culture antérieure
+## 2. La production hip-hop en tant que culture antécédente
 
 Les origines directes du Lo-Fi Hip Hop résident dans la culture de production hip-hop beat de la fin des années 1980 et 1990. Des techniques telles que la construction de rythmes répétitifs à l'aide d'échantillonneurs et de boîtes à rythmes, l'échantillonnage à partir de disques et la reconstruction de breakbeats ont été reprises dans la production ultérieure de rythmes Lo-Fi.
 
@@ -54,7 +54,7 @@ Les origines directes du Lo-Fi Hip Hop résident dans la culture de production h
 
 ## 3. Diffusion de la culture de l'enregistrement à domicile et de l'environnement de production numérique
 
-De la fin des années 1990 aux années 2000, les logiciels DAW et les ordinateurs personnels sont devenus plus populaires. Cela a permis aux particuliers sans studio professionnel de produire des rythmes à la maison.
+De la fin des années 1990 aux années 2000, les logiciels DAW et les ordinateurs personnels sont devenus plus populaires. Cela a permis à des personnes ne disposant pas d'un studio professionnel de produire des rythmes à la maison.
 
 Dans cet environnement d'enregistrement à domicile, il est devenu courant que la production soit réalisée en utilisant uniquement une simple interface audio, un contrôleur MIDI peu coûteux et des écouteurs. On pense que la nature privée de l’espace de production a encouragé une tendance plus introspective et discrète au son.
 
@@ -117,7 +117,7 @@ Si cette formalisation abaisse les barrières à l’entrée, elle limite égale
 
 ## 10. Commercialisation et perspective critique
 
-Lo‑Fi Hip Hop/Chillhop était fortement lié à un modèle de revenus basé sur les vues en streaming. Les structures adaptées à une lecture à long terme sont hautement compatibles avec les algorithmes et il existe de nombreux cas de succès commercial.
+Lo‑Fi Hip Hop/Chillhop est fortement lié à un modèle de revenus basé sur les vues en streaming. Les structures adaptées à une lecture à long terme sont hautement compatibles avec les algorithmes et il existe de nombreux cas de succès commercial.
 
 D’un autre côté, on critique également le fait que la consommation de musique en tant que fond rend difficile l’évaluation d’œuvres individuelles.
 
@@ -143,13 +143,13 @@ Cette culture ne se limite pas à une région spécifique, mais se forme simulta
 
 ### années 1990
 
-* Les caractéristiques de qualité sonore des échantillonneurs à faible débit deviennent monnaie courante
+* Les caractéristiques de qualité sonore des échantillonneurs low-bit deviennent monnaie courante
 
 ### Début des années 2000
 
 * Vulgarisation des DAW et des environnements d'enregistrement à domicile
 
-### Années 2010
+### Années 2010
 
 * Le terme Lo‑Fi Hip Hop / Chillhop s'est imposé dans la culture du streaming.
 
@@ -236,7 +236,7 @@ Cette culture de l’imitation a conduit à une homogénéisation des genres et 
 
 ### Début des années 1990
 
-* Les caractéristiques de qualité sonore des échantillonneurs à faible débit deviennent monnaie courante
+* Les caractéristiques de qualité sonore des échantillonneurs low-bit deviennent monnaie courante
 
 ### Fin des années 1990
 
@@ -244,7 +244,7 @@ Cette culture de l’imitation a conduit à une homogénéisation des genres et 
 
 ### Début des années 2000
 
-* Diffusion de l'environnement DAW et normalisation de la production individuelle
+* La diffusion de l'environnement DAW et la normalisation de la production individuelle
 
 ### Fin des années 2000
 

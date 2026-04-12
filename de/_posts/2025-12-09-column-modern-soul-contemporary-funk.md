@@ -20,7 +20,7 @@ title: '[Kolumne] Modern Soul / Zeitgenössischer Funk'
 
 Text: mmr｜Thema: Rhythmus, Performance und Produktionsästhetik, die Soul und Funk im 21. Jahrhundert neu definieren
 
-Modern Soul und Contemporary Funk beziehen sich auf Stile, die sich in den späten 1990er bis 2010er Jahren zu einem modernen Klangbild entwickelten und Elemente von Jazz, Hip-Hop, R&B, Neo-Soul und Beat-Musik einbeziehen und gleichzeitig die Soul/Funk-Tradition erben.
+Modern Soul und Contemporary Funk beziehen sich auf Stile, die sich in den späten 1990er bis 2010er Jahren zu einem modernen Klangbild entwickelten und Elemente von Jazz, Hip-Hop, R&B, Neo-Soul und Beat-Musik einbezogen und gleichzeitig die Soul/Funk-Tradition erbten.
 
 Zu den repräsentativen Künstlern zählen **Hiatus Kaiyote**, **Anderson .Paak** sowie D’Angelo, Robert Glasper, Thundercat, Vulfpeck, Cory Henry, The Internet und mehr.
 
@@ -76,7 +76,7 @@ Besonders hervorzuheben sind „minimaler Funk mit einer reduzierten Anzahl von 
 
 ### 2-1. Ende der 1990er Jahre: Aufstieg des Neo-Souls
 
-Die von D'Angelo, Erykah Badu, Lauryn Hill und Maxwell ins Leben gerufene Neo-Soul-Musik verwischte die Grenzen zwischen Jazz, Funk und R&B und eröffnete neue Horizonte mit einer Produktion, die ein analoges Gefühl betonte.
+Die von D'Angelo, Erykah Badu, Lauryn Hill und Maxwell ins Leben gerufene Neo-Soul-Musik verwischte die Grenzen zwischen Jazz, Funk und R&B und eröffnete neue Horizonte mit einer Produktion, die den Schwerpunkt auf ein analoges Feeling legte.
 
 hier etabliert
 
@@ -201,7 +201,7 @@ Die Produktion von Modern Soul/Contemporary Funk ist eine perfekte Fusion aus DA
 * Die Songstruktur ist eine suiteartige Struktur, in der mehrere Abschnitte miteinander verbunden sind.
 * Komplexe Akzente am Schlagzeug
 * Atypische Synthesizer-/Gitarrenstimmen
-* Starker Einsatz von Offbeat
+* Starker Gebrauch von Offbeat
 
 #### Struktur von Hiatus Kaiyote
 

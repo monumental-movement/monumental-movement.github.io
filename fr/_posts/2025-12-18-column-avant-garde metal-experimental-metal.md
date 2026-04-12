@@ -45,7 +45,7 @@ color: #fff;
 
 ## Hypothèses structurelles dans le métal
 
-Pour comprendre le métal d’avant-garde, il est d’abord nécessaire de clarifier quelle est la prémisse du métal ordinaire.
+Afin de comprendre le métal d’avant-garde, il faut d’abord clarifier sur quoi est basé le métal normal.
 
 Le métal traditionnel a été formé à partir d’un ensemble d’hypothèses structurelles telles que les suivantes.
 
@@ -85,7 +85,7 @@ Lorsque la structure devient problématique, le métal passe à une nouvelle ét
 
 Gorguts a démantelé le death metal de l'intérieur, en utilisant son vocabulaire au maximum.
 
-Dans leur musique, les riffs sont présents mais sans force motrice, les signatures rythmiques sont notées mais instables, et le développement est perçu comme des ruptures plutôt que comme une continuité. Il ne s'agit pas d'une introduction d'éléments extérieurs au genre, mais d'un effet d'avant-garde créé par une distorsion de la grammaire interne.
+Dans leur musique, les riffs sont présents mais sans force motrice, les signatures rythmiques sont notées mais instables, et le développement est perçu comme des ruptures plutôt que comme une continuité. Il ne s’agit pas d’une introduction d’éléments extérieurs au genre, mais d’un effet d’avant-garde créé par une distorsion de la grammaire interne.
 
 ---
 
@@ -177,7 +177,7 @@ Dans ce travail, la séparation des structures va encore plus loin. Les chansons
 | Méthode | Démolition | Superposition |
 | Temps | Rupture | Parallèle |
 | Rythme | Destruction de la sensation du pouls | Contrôle respiratoire |
-| Dissonances | Armement structurel | Direction spatiale |
+| Dissonances | Armement structurel | Production spatiale |
 
 ---
 

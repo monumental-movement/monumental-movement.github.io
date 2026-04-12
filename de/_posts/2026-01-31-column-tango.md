@@ -29,8 +29,8 @@ Vom Ende des 19. bis Anfang des 20. Jahrhunderts entstand Buenos Aires durch ein
 Im Mittelpunkt standen Spanien und Italien, in denen sich osteuropäische, afrikanische und indigene Kulturen vermischten und Arbeit, Armut und Einsamkeit an der Tagesordnung waren.
 
 Der Tango wuchs auf der „Unterseite“ dieser Stadt auf.
-Es wurde nicht auf den Bällen der gehobenen Gesellschaft aufgeführt, sondern in den Innenhöfen von Hafenarbeiterkneipen, Pensionen und Bordellen.
-Körperliche Distanz, Blickkontakt und Improvisation waren wichtiger als musikalische Raffinesse.
+Es wurde nicht auf den Bällen der High Society getanzt, sondern in den Innenhöfen von Hafenarbeiterkneipen, Pensionen und Bordellen.
+Körperliche Distanz, Sichtlinie und Improvisation waren wichtiger als musikalische Raffinesse.
 
 > Tango ist eine Kultur, die immer an der Peripherie und nicht im Zentrum der Gesellschaft ihren Anfang nahm.
 
@@ -91,7 +91,7 @@ Dieser Ausschluss schuf ein einzigartiges Gefühl der Einheit und des Stolzes im
 Zu Beginn des 20. Jahrhunderts erlangte der Tango auf unerwartete Weise gesellschaftlichen Status.
 Es geschah nicht in Argentinien, sondern in Europa.
 
-Tango wurde hauptsächlich von Künstlern und Tänzern, die von Buenos Aires nach Europa reisten, nach Paris eingeführt.
+Tango wurde hauptsächlich von Künstlern und Tänzern, die von Buenos Aires nach Europa reisten, nach Paris gebracht.
 Als exotischer und sinnlicher Tanz wurde er in gesellschaftlichen Kreisen der Oberschicht populär.
 
 Dieser Erfolg in Europa hat den Ruf Argentiniens in Argentinien völlig verändert.

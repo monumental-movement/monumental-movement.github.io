@@ -68,7 +68,7 @@ Nous prenons les morceaux emblématiques de Len Faki et les analysons en détail
 
 #### informations de base
 -BPM : 125
-- Tonalité : Sol Majeur
+- Tonalité : Sol majeur
 - Sortie : Berghain 03 mix CD inclus, 2009
 
 #### Structure et rythme de la chanson
@@ -90,7 +90,7 @@ Il est souvent utilisé du milieu au sommet d’un set et constitue la piste pri
 
 #### informations de base
 -BPM : 129
-- Tonalité : Sol Majeur
+- Tonalité : Sol majeur
 - Durée : Environ 8 minutes 15 secondes
 
 #### Structure et rythme de la chanson

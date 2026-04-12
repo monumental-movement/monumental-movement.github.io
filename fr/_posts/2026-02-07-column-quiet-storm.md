@@ -26,7 +26,7 @@ L'album « A Quiet Storm » de Smokey Robinson, sorti en 1975, en est considér�
 
 Le nom de l'album a été adopté comme titre d'une émission de fin de soirée sur une station FM à Washington, D.C., donnant à Quiet Storm une définition claire. Dans le programme, des chansons ayant la même température étaient jouées consécutivement, et les silences et fondus entre les chansons étaient également calculés. Plutôt qu’un genre, Quiet Storm a commencé à fonctionner comme un cadre reliant des périodes et des émotions.
 
-> Quiet Storm était un concept né non pas du type de musique, mais du lieu où la musique était placée.
+> Quiet Storm est un concept né non pas du type de musique, mais du lieu où la musique était placée.
 
 
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ## Le lien entre la radio de fin de soirée et la culture urbaine
 
-La radio FM des années 1970 se trouvait à un tournant majeur en termes de qualité sonore et de programmation. Par rapport à l’époque où la AM était la norme, la FM avait moins de bruit et était capable de fournir toute la gamme, des graves aux aigus. Ces conditions techniques ont fait du choix de jouer du R&B lent et délicat la nuit une option viable.
+La radio FM des années 1970 se trouvait à un tournant majeur en termes de qualité sonore et de programmation. Par rapport à l'époque où la AM était la norme, la FM avait moins de bruit et était capable de fournir toute la gamme, des graves aux aigus. Ces conditions techniques ont fait du choix de jouer du R&B lent et délicat la nuit une option viable.
 
 L’atmosphère dans le studio tard dans la nuit était complètement différente de celle du jour. Les lumières étaient tamisées et le DJ était assis seul dans la cabine, face au micro tout en regardant les lumières de la ville à travers la vitre. Quelques disques sont sélectionnés à l'avance et placés à côté de la platine, mais le déroulement n'est pas lié à un scénario strict. Comme les réponses des auditeurs ne peuvent être reçues que par téléphone ou par courrier, les DJ finissent par s'adresser à des auditeurs imaginaires.
 
@@ -72,7 +72,7 @@ L'enregistrement vocal est également distinctif. Les chanteurs se tiennent souv
 
 ## Artistes et œuvres représentatifs
 
-Les artistes évoqués dans le cadre de Quiet Storm avaient un fort intérêt pour la création sonore en studio. Le travail solo de Smokey Robinson s'est éloigné de la structure de production collective de l'ère Motown et s'est concentré sur des enregistrements émotionnels individuels. Le nombre de pistes est limité et la composition est choisie pour que chaque son perdure longtemps.
+Les artistes évoqués dans le cadre de Quiet Storm avaient un fort intérêt pour la création sonore en studio. Le travail solo de Smokey Robinson s'est éloigné de la structure de production collective de l'ère Motown et s'est concentré sur des enregistrements émotionnels individuels. Le nombre de morceaux est limité et la composition est choisie pour que chaque son perdure longtemps.
 
 Luther Vandross a été particulièrement influent dans le placement des chants de fond. Dans ses œuvres, le refrain overdubbed ajoute de la profondeur, tandis que la mélodie principale ressort toujours clairement. On dit que l’angle de la voix et la quantité de respiration ont été finement ajustés grâce à plusieurs prises en studio.
 

@@ -10,7 +10,7 @@ tags:
 - Hard Rock
 - Heavy Metal
 - 80s
-title: Baby Tuckoo – Les larmes d’un clown
+title: Baby Tuckoo – Les larmes d'un clown
 ---
 
 
@@ -20,7 +20,7 @@ Ce disque est un disque de Hard Rock/Heavy Metal sorti par le label indépendant
 
 A est une reprise de "The Tears of a Clown" de Smokey Robinson & the Miracles (produit par Hank Cosby, Smokey Robinson & Stevie Wonder).
 
-B est un single extrait de l'album "Force Majeure" de Baby Tuckoo.
+B est un extrait de l'album "Force Majeure" de Baby Tuckoo.
 
 #### Liste des chansons
 ```md

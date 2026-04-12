@@ -17,11 +17,11 @@ title: '[Spalte] Ambient Techno / Deep Ambient'
 
 ## 1. Konzepte und Terminologie
 
-Text: mmr｜Thema: Anstatt die beiden als Genrenamen zu trennen, geht es bei beiden um die gemeinsame Designphilosophie von „Zeit versinken“, „Raum, in dem man Druck verspürt“ und „ein Zustand, in dem Klang weiterhin existiert“.
+Text: mmr｜Thema: Anstatt die beiden als Genrenamen zu trennen, geht es bei beiden um die gemeinsame Designphilosophie von „Zeit versinken lassen“, „Raum, in dem man Druck verspürt“ und „einem Zustand, in dem Klang weiterhin existiert“.
 
 Ambient Techno ist ein Bereich der elektronischen Musik, der in den frühen 1990er Jahren gegründet wurde und ein Musikstil ist, der die repetitive rhythmische Struktur von Techno mit der Räumlichkeit und Nachhaltigkeit von Ambient-Musik verbindet. Seine Besonderheit besteht darin, dass es das Zeitgefühl der Clubmusik beibehält und gleichzeitig als Musik der Wertschätzung fungiert.
 
-Deep Ambient (sog. Deep-Sea-Ambient) weist einen höheren Abstraktionsgrad auf und erfordert keine Anwesenheit von Beats. Der Schwerpunkt liegt auf extrem tiefen Klangbildern, anhaltenden Klängen mit Schwerpunkt auf niedrigen Frequenzbändern und Kompositionen, die die Konturen der Zeit verschleiern.
+Deep Ambient (sog. Deep-Sea-Ambient) weist einen höheren Abstraktionsgrad auf und erfordert keine Anwesenheit von Beats. Der Schwerpunkt liegt auf extrem tiefen Klangbildern, anhaltenden, auf tiefe Frequenzen konzentrierten Klängen und Kompositionen, die die Konturen der Zeit verschleiern.
 
 ---
 
@@ -74,7 +74,7 @@ Diese Metapher ist kein Zufall. In tiefem Wasser werden hohe Frequenzen gedämpf
 
 In der Tiefseeakustik dienen tiefe Frequenzen nicht nur der Energiegewinnung. Das Band um 20 Hz bis 80 Hz spielt keine melodische Rolle, sondern dient zur Darstellung des Drucks und der Masse des Raumes.
 
-Subbass hat oft keinen klaren Anschlag, er steigt langsam an und klingt langsam ab. Dadurch wird der Zuhörer in einen Zustand versetzt, in dem er den Schall nicht „hört“, sondern als Schalldruck „spürt“.
+Subbass hat oft keinen klaren Anschlag, er steigt langsam an und klingt langsam ab. Dadurch wird der Hörer in einen Zustand versetzt, in dem er den Schall nicht „hört“, sondern als Schalldruck „spürt“.
 
 Vom Mittel-Tief-Bereich bis zum Mitteltonbereich werden anhaltende Töne mit unterdrückten Obertönen platziert, was der Vergleichmäßigung der Klangdichte dient.
 
@@ -92,7 +92,7 @@ Wichtig ist, dass der Nachhall als Indikator für den Zeitablauf fungiert. Währ
 
 ## 7. Technisches Kapitel: Psychologische Auswirkungen und Hörbedingungen
 
-Das Aufrechterhalten niedriger Frequenzen, langsamer Veränderungen und langer Nachhallzeiten führt zu einer psychologisch geringeren Wachsamkeit. Das bedeutet, dass Musik keine Emotionen weckt, sondern als Instrument zur Regulierung von Bewusstseinszuständen fungiert.
+Das Aufrechterhalten niedriger Frequenzen, langsamer Veränderungen und langer Nachhall führt zu einer psychologisch geringeren Wachsamkeit. Das bedeutet, dass Musik keine Emotionen weckt, sondern als Instrument zur Regulierung von Bewusstseinszuständen fungiert.
 
 Tiefsee-Ambient-Musik hat eine hohe Affinität zu Konzentration, Selbstbeobachtung und einem halbwachen Zustand und eignet sich daher hervorragend für Hintergrundmusik und Meditation bei der Arbeit.
 

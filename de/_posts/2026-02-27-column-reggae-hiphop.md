@@ -16,7 +16,7 @@ title: '[Kolumne] Reggae × Hip-Hop: Von Soundsystemen zu Weltstädten – eine 
 
 
 
-## Von Soundsystemen bis zu globalen Standards, die Genealogie der Basskultur, die Grenzen überschreitet
+## Von Soundsystemen bis zu Weltstandards, die Genealogie der Basskultur, die Grenzen überschreitet
 
 Text: mmr｜Thema: Das Hin und Her des Rhythmus, der Jamaika und die Bronx verbindet, und die Kulturgeschichte der Expansion in globale Städte
 

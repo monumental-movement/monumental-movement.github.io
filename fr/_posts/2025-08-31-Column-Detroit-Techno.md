@@ -24,7 +24,7 @@ La techno de Détroit est une « musique électronique avec une touche humaine �
 
 ### Origines et définition — Quand et qui l'a appelé « techno » ?
 
-Au début des années 1980, à Détroit, la musique électronique de danse utilisant pleinement les synthés et les boîtes à rythmes s'est développée.
+Au début des années 1980, à Détroit, la musique dance électronique utilisant pleinement les synthés et les boîtes à rythmes s'est développée.
 
 Dirigés par Juan Atkins, Derrick May et Kevin Saunderson (pas le soi-disant « trio de Berlin » mais le « trio de Détroit »), ils ont présenté une esthétique sonore différente de l'« électro » et de la « house » existantes, et elle s'est imposée comme « techno ».
 
@@ -37,7 +37,7 @@ Dirigés par Juan Atkins, Derrick May et Kevin Saunderson (pas le soi-disant « 
 
 ### Contexte culturel et social : l'ombre de la ville industrielle de Détroit
 
-Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y a grandi.
+Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y poussait.
 
 D’un autre côté, la culture des DJ radio afro-américains (par exemple des curateurs comme Electrifying Mojo) et la culture des clubs se sont mélangées à la musique électronique européenne (en particulier Kraftwerk) pour créer une direction unique (l’influence de Kraftwerk et d’autres est souvent soulignée).
 
@@ -49,9 +49,9 @@ D’un autre côté, la culture des DJ radio afro-américains (par exemple des c
 
 - Construit autour de boîtes à rythmes (TR-808/909) et de synthés (type Roland, analogiques).
 
-- Superposez un travail de synthétiseur mélodique/textural sur des rythmes répétitifs simples.
+- Superposez un travail de synthé mélodique/textural sur des rythmes répétitifs simples.
 
-- Le style Detroit est plus froid et mécanique que la house, mais il a « de la mélodie et de l'émotion ».
+- Le style Detroit est plus froid et plus mécanique que la house, mais il a « de la mélodie et de l'émotion ».
 
 La frontière entre DJ et producteur était floue et les chansons étaient affinées grâce à la pratique (mixage/réaction) dans les clubs.
 
@@ -103,7 +103,7 @@ Diverses générations ont suivi, dont Richie Hawtin (une deuxième génération
 
 ### Rôle des labels et sorties importants
 
-Des labels indépendants locaux tels que Metroplex (Juan Atkins) et Transmat (Derrick May, *Transmat a été fondé au milieu des années 1980) ont donné aux créateurs une liberté directe et sont devenus des bases d'exportation vers le monde. Les singles de ces labels se sont développés dans les clubs et sont finalement devenus internationaux grâce aux albums et aux compilations. *(Nous vous recommandons de vérifier les informations détaillées sur l'établissement et l'année de sortie pour chaque œuvre.)
+Les labels indépendants locaux tels que Metroplex (Juan Atkins) et Transmat (Derrick May, fondé au milieu des années 1980) ont donné aux créateurs une liberté directe et sont devenus des bases pour exporter dans le monde. Les singles de ces labels se sont développés dans les clubs et sont finalement devenus internationaux grâce aux albums et aux compilations. *(Nous vous recommandons de vérifier les informations détaillées sur l'établissement et l'année de sortie pour chaque œuvre.)
 
 <hr>
 
@@ -118,7 +118,7 @@ La techno de Détroit s'est combinée à la culture rave et club berlinoise dans
 
 **Mode** : Les vêtements de travail, l'utilité et l'esthétique minimale/fonctionnelle influencent les tenues de club.
 
-**Visuel/Art** : les œuvres d'art utilisant des textures industrielles et des contrastes entre le néon et l'acier sont à la hausse.
+**Visuel/Art** : les œuvres d'art utilisant des textures industrielles et des contrastes entre le néon et l'acier sont en hausse.
 
 **Perspective technologique** : La démocratisation du matériel de production musicale (distribution de matériel d'occasion, synthétiseurs bon marché) a conforté l'idée selon laquelle « n'importe qui peut produire de la musique ».
 

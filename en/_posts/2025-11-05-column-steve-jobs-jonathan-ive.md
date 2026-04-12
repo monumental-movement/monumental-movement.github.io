@@ -17,7 +17,7 @@ title: '[Column] Steve Jobs and Jonathan Ive - Resonance between sound and desig
 ## Prologue: A new culture of fusion of music and technology
 
 
-Text: mmr｜Theme: Tracing the evolution of the two men's music views, design philosophies, and product lines based on primary materials and reliable testimonies.
+Text: mmr｜Theme: Tracing the changes in the duo's music views, design philosophy, and product line based on primary materials and reliable testimonies.
 
 
 Among the many products Apple has created, the design surrounding "sound" has always been at the center of it.
@@ -66,7 +66,7 @@ His aesthetic sense is rooted in Bauhaus rationalism, but he also has a deep obs
 
 In his 2024 podcast, Life in Seven Songs, he shares seven songs that have shaped his life.
 These include **U2"s "40"** and **The Temptations" "Papa Was a Rollin" Stone"**.
-It is clear that he has a special affinity for the "thickness" and "temperature" of analog sounds.
+It is clear that he has a special affinity for the ""thickness" and ""temperature" of analog sounds.
 
 > "Music, like products, is an art that creates shapes in space."
 > — Jonathan Ive (2024)
@@ -154,7 +154,7 @@ After Jobs passed away, Ive described him as follows:
 > "He looked at products the way you listen to music: there"s rhythm, there"s harmony, there's silence."
 
 Ive himself calls the design work he continues with LoveFrom a "sound process."
-In other words, design is not only a visual art, but also an act of constructing sound.
+In other words, design is both visual art and the act of constructing sound.
 
 ---
 

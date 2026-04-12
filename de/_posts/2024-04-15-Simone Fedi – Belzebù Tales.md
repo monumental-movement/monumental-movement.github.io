@@ -20,7 +20,7 @@ Er ist außerdem Mitglied des italienischen Elektro-Disco-Funk-Projekts Out Of C
 
 „Belzebù Tales“ ist ein Disco-Track, der 2007 vom renommierten Label Eskimo veröffentlicht wurde.
 
-Diese Platte ist Simone Fedis Signature-Werk, das ein weltweiter Hit war und von Tiga, Lindstrom, Aeroplane, Jason Eldredge, Low Motion Disco, Munk (Gomma), Serge (Clone), Zak Frost, Piccadilly Records, Phonica Records usw. rezensiert wurde.
+Diese Platte ist Simone Fedis Signaturwerk, das ein weltweiter Hit war und von Tiga, Lindstrom, Aeroplane, Jason Eldredge, Low Motion Disco, Munk (Gomma), Serge (Clone), Zak Frost, Piccadilly Records, Phonica Records usw. rezensiert wurde.
 
 #### Trackliste
 ```md

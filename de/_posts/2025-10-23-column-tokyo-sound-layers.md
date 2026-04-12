@@ -93,7 +93,7 @@ Obwohl es ein Schmelztiegel der Subkultur ist, hat es einen neuen Kontext gescha
 
 ### 2. Der Klang von Akihabara ist „Augmented Reality“
 Eine Stadt, in der „Musik“ und „Technologie“ verschmelzen. Live-Streaming, VTuber, KI-Musik.
-Akihabara entwickelt sich zu einem „futuristischen Pop-Testgelände“ in einem anderen Zeitrahmen als andere Gegenden Tokios.
+Akihabara ist ein „futuristisches Pop-Testgelände“ und entwickelt sich in einem anderen Zeitrahmen als andere Gegenden Tokios.
 
 ---
 

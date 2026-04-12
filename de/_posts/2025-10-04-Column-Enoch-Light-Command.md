@@ -81,7 +81,7 @@ flowchart TD
 ### Repräsentative Serien und Alben
 
 Persuasive Percussion-Reihe (erstmals 1959 veröffentlicht)
-Eine Serie, die als „Stereo-Prunkstück“ gedacht ist, bei der Schlaginstrumente im Vordergrund stehen. Bekanntheit erlangte es durch die Songauswahl und das Layout, die selbst bei Außenstehenden großen Eindruck hinterließen. Auch die Umschlaggrafiken und die Erklärung des Gatefolds waren damals innovativ.
+Eine Serie, die als „Stereo-Prunkstück“ gedacht ist, bei der Schlaginstrumente im Vordergrund stehen. Bekanntheit erlangte es durch die Songauswahl und das Layout, die selbst bei Außenstehenden großen Eindruck hinterließen. Auch die Umschlaggrafik und die Erklärung des Gatefolds waren damals innovativ.
 
 
 Provokative Percussion-Serie
@@ -156,7 +156,7 @@ Er tritt in einem breiten Spektrum von Genres auf, darunter nicht nur Jazz, sond
 
 ### Begegnung und Beziehung mit Enoch Light
 
-- **Grand Award → Regelmäßiger Gitarrist bei Command Records**
+- **Grand Award → Regelmäßiger Gitarrist während der Command Records-Ära**
 
 Als Enoch Light Grand Award and Command gründete, versammelte er New Yorks Top-Session-Talente. Unter ihnen ist Tony Mottola der Stammgitarrist.
 
@@ -181,7 +181,7 @@ Mottola war eine der Säulen, die Commands „Lounge/Easy-Listening-Route“ unt
 - **Command Records Stammgitarrist**
 
 Er nimmt fast immer an den Aufnahmen des von Light ins Leben gerufenen Grand Award~Command teil.
-Er war verantwortlich für die Durchführung von Gitarrenlokalisierungsexperimenten in der Reihe „Persuasive Percussion“ und anderen Werken.
+Er war verantwortlich für die Gitarrenlokalisierungsexperimente in der „Persuasive Percussion“-Reihe.
 
 - **Veröffentlichung eines Soloalbums**
 
@@ -213,13 +213,13 @@ Betont die Auswirkungen von Hall und Nachhallverarbeitung
 
 ### Aktuelle Situation und Auswirkungen
 
-Command Records selbst endete praktisch um 1970, aber ihre Werke sind immer noch in Form von Neuauflagen, hochwertigen Remastern und Neuauflagen für Audiophile im Umlauf. Überzeugende/provokative Lieder und Jacken werden weiterhin im Kontext von „Mid-Century-Design“ und Junggesellenabschiedskultur zitiert und sind auch Gegenstand von Sampling und Remixen. Sein Einfluss auf die moderne Hörkultur (Vintage-Audio-Hobbys, virtuelle Raumsimulationen usw.) ist beträchtlich.
+Command Records selbst endete praktisch um 1970, aber ihre Werke sind immer noch durch Neuauflagen, hochwertige Remaster und Neuauflagen für Audiophile im Umlauf. Überzeugende/provokative Lieder und Jacken werden weiterhin im Kontext von „Mid-Century-Design“ und Junggesellenabschiedskultur zitiert und sind auch Gegenstand von Sampling und Remixen. Sein Einfluss auf die moderne Hörkultur (Vintage-Audio-Hobbys, virtuelle Raumsimulationen usw.) ist beträchtlich.
 
 
 ---
 
 ### Zusammenfassung: Legacy of Enoch Light
 
-Enoch Light war ein Mann, der nicht nur „guten Klang“ anstrebte, sondern auch ein Objekt namens Schallplatte entwarf und damit das „Hörerlebnis“ im Stereozeitalter neu definierte. Die Werke von Command Records werden auch heute noch im Kontext der Audiogeschichte, Designgeschichte und Popkultur neu bewertet. Die „Überraschung“, die man verspürt, wenn man zum ersten Mal Musik hört, ist Wrights wahres Wesen, und seine Werke bewahren immer noch diese magische Kraft.
+Enoch Light war ein Mann, der nicht nur „guten Klang“ anstrebte, sondern auch ein Objekt namens Schallplatte entwarf und damit das „Hörerlebnis“ im Stereo-Zeitalter neu definierte. Die Werke von Command Records werden auch heute noch im Kontext der Audiogeschichte, Designgeschichte und Popkultur neu bewertet. Die „Überraschung“, die man spürt, wenn man zum ersten Mal Musik hört, ist Wrights wahres Wesen, und seine Werke bewahren immer noch diese magische Kraft.
 
 Außerdem ging die Beziehung zwischen Enoch Light und Tony Mottola über die reine Beziehung zwischen „Produzent und Gitarrist“ hinaus. Durch die Kombination von Lights Aufnahmeästhetik mit Mottolas flexiblem und vielseitigem Gitarrenspiel wurde Command Records zu einer Pop-Ikone des Weltraumzeitalters, die weiterhin Audiophile auf der ganzen Welt in ihren Bann zieht.

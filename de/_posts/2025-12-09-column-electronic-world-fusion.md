@@ -45,7 +45,7 @@ color: #fff;
 
 ### 1-1 Fortschritt der elektronischen Musik und Import der Weltmusik
 
-Seit den 1970er Jahren, als sich elektronische Musikinstrumente verbreiteten, wurde Musik aus aller Welt durch die Aufnahmetechnologie und die Plattenindustrie über nationale Grenzen hinweg eingeführt. Es wurde ein Umfeld geschaffen, in dem elektronische Klänge und Volksmusik aufeinandertreffen konnten, und es entstanden experimentelle Fusionswerke.
+Seit den 1970er Jahren, als elektronische Musikinstrumente weit verbreitet waren, wurde Musik aus aller Welt durch die Aufnahmetechnik und die Plattenindustrie über nationale Grenzen hinweg eingeführt. Es wurde ein Umfeld geschaffen, in dem elektronische Klänge und Volksmusik aufeinandertreffen konnten, und es entstanden experimentelle Fusionswerke.
 
 ### 1-2 Sampling und Kritik ethnischer Musik
 
@@ -231,7 +231,7 @@ Electronic World Fusion ersetzt nicht nur Volksmusik durch elektronische Klänge
 **„Der Prozess, durch den Klang Kultur übersetzt und verschiedene Werte verbindet“**
 kann verstanden werden als
 
-Das Genre verkörpert den klanglichen Dialog, da Nitin Sawhney in seiner Arbeit multikulturelle Gesellschaften darstellt und Thievery Corporation Musik aus der ganzen Welt mit urbanen Kontexten der elektronischen Musik verbindet.
+Das Genre verkörpert den klanglichen Dialog, da Nitin Sawhney in seiner Arbeit multikulturelle Gesellschaften darstellt und Thievery Corporation Musik aus der ganzen Welt mit urbanen elektronischen Musikkontexten verbindet.
 
 ---
 

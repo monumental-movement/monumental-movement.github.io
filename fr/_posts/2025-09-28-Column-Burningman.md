@@ -169,7 +169,7 @@ Inferno en 1995 a été une année importante dans la mesure où elle a fait pre
 
 #### 1996 : Démarchandisation
 
-1996 a été l’année où Burning Man a accéléré sa transformation d’un « festival » en une ville expérimentale communautaire.
+1996 a été l'année où Burning Man a accéléré sa transformation d'un « festival » à une ville expérimentale communautaire.
 
 Les valeurs qui « trouvent de la valeur dans l'expérience elle-même » ont imprégné les participants et ont soutenu la formation ultérieure d'œuvres d'art à grande échelle et de villes thématiques.
 
@@ -179,7 +179,7 @@ Les valeurs qui « trouvent de la valeur dans l'expérience elle-même » ont im
 
 #### 1997 : Fécondité
 
-1997 est l'année où le symbolisme de la nature, de la vie et de la renaissance de Burning Man est devenu pour la première fois le thème central.
+1997 a été l'année où le symbolisme de la nature, de la vie et de la renaissance de Burning Man est devenu pour la première fois le thème central.
 
 Le prototype de la « célébration de la vie et de la créativité » dont ont hérité les thèmes ultérieurs (Voûte céleste 2004, Fertilité 2.0 2012, etc.).
 
@@ -205,7 +205,7 @@ Le thème de la roue du temps/circularité. Les pâtés de maisons et les rues o
 
 Le thème est l'expression et la symbolique du corps et du corps humain. Il existe de nombreuses installations qui testent la physicalité, l'esthétique et les limites du corps.
 
-En outre, à partir de cette année, les installations de temples ont commencé à s'implanter et des installations combinant spiritualité et structure, telles que le « Temple de l'esprit » (ou des concepts similaires), sont apparues.
+En outre, à partir de cette année, des installations de temples ont commencé à prendre racine et des installations combinant spiritualité et structure, comme le « Temple de l'esprit » (ou des concepts similaires), sont apparues.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -241,7 +241,7 @@ Cette année, le nombre de projets enregistrés comme art thématique a augment�
 
 2004 a été l'année où la « vision cosmique » et la « prière communautaire » ont été combinées, et elle est considérée comme le précurseur des thèmes scientifiques et spatiaux ultérieurs tels que « Cargo Cult (2013) » et « I, Robot (2018). »
 
-Des ingénieurs de la NASA de la Bay Area et des gens du MIT Media Lab ont également participé, ce qui en fait un exemple symbolique de la trinité « science x art x spiritualité ».
+Des ingénieurs de la NASA de la Bay Area et des personnes du MIT Media Lab ont également participé, ce qui en fait un exemple symbolique de la trinité « science x art x spiritualité ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MaloSn8beds?si=2XMtiZReALnV7h0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -361,7 +361,7 @@ A l’origine, le thème était le concept de multivers. Cependant, en raison du
 
 ---
 
-#### 2021 : Réflexion
+#### 2021 : Réflexion
 
 Une approche fusion hybride/virtuel/physique avec pour thème « réflexion et réflexion » dans un contexte de restrictions sur les événements sur place.
 
@@ -393,7 +393,7 @@ Le thème est inconnu et imprévisible, et une composition stimulante est dével
 
 #### 2025 : Demain aujourd'hui
 
-Se concentrer sur le futur proche, les inventions futures et les concepts sociaux. Un art qui incarne "Demain à aujourd'hui", un prototypage et un design qui induit un espace de dialogue futuriste.
+Se concentrer sur le futur proche, les inventions futures et les plans sociaux. Un art qui incarne "Demain à aujourd'hui", un prototypage et un design qui induit un espace de dialogue futuriste.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

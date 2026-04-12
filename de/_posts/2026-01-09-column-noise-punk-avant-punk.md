@@ -18,7 +18,7 @@ title: '[Kolumne] Noise Punk / Avant-Punk ─ Wenn destruktiver Impuls zur Ideol
 
 ## Prolog: Warum Punk brechen musste
 
-Text: mmr｜Thema: Über Noise-Punk/Avant-Punk, der als Erinnerungsinstrument für die ständige Ablehnung der sicheren Zone der Musik dient
+Text: mmr｜Thema: Über Noise-Punk/Avant-Punk, der ein Erinnerungsgerät zur ständigen Ablehnung der sicheren Zone der Musik ist
 
 Noise Punk/Avant Punk ist ein Versuch der extremen Selbstzerstörung, der aus der Punk-Bewegung hervorgegangen ist, die Ende der 1970er Jahre entstand. Anstelle der oberflächlichen Bilder des frühen Punks wie Geschwindigkeit und Rebellion zeichnet sich Punk durch seinen zugrunde liegenden Impuls der „Verleugnung“, „Verweigerung“ und „Zerstörung“ aus, der sich auf die musikalische Struktur selbst erstreckt.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 Um 1977 verbreitete sich Punk rasant und wurde gleichzeitig schnell formalisiert. 3 Akkorde, kurze Lieder, aggressive Einstellung. Sie entwickelten sich schnell zu einem Stil und begannen, reproduziert zu werden. Noise Punk/Avant Punk entstand aus einem starken Gefühl des Unbehagens in dieser Situation.
 
-Das Problem für sie bestand darin, dass Rock erneut auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird zur Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
+Das Problem für sie bestand darin, dass Rock wieder einmal auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird zur Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
 
 Diese Haltung schien Punk zu leugnen, in Wirklichkeit war sie jedoch eine gründliche Umsetzung des grundlegenden Geistes des Punk.
 
@@ -118,7 +118,7 @@ B --> D[DNA]
 C --> E[The Pop Group]
 </div>
 
-Obwohl DNA und The Pop Group im selben Avant-Punk-Kontext angesiedelt sind, ist ihr Fokus unterschiedlich. Die einen konzentrierten sich auf die Zerstörung der Felsstruktur selbst, die anderen musikalisierten ihre Wut auf gesellschaftliche Strukturen.
+Obwohl DNA und The Pop Group im selben Avant-Punk-Kontext stehen, ist ihr Fokus unterschiedlich. Die einen konzentrierten sich auf die Zerstörung der Felsstruktur selbst, die anderen musikalisierten ihre Wut auf gesellschaftliche Strukturen.
 
 Dieser Unterschied zeigt, dass Avant-Punk keine einheitliche Methodik war.
 
@@ -139,7 +139,7 @@ timeline
 
 Dieser Trend trat in kurzer Zeit intensiv auf und hinterließ einen tiefgreifenden Einfluss auf die nachfolgende alternative Musik.
 
-> Die Geschichte des Noise Punk ist kurz, aber seine Nachbeben sind lang anhaltend.
+> Obwohl die Geschichte des Noise Punk kurz ist, dauern seine Nachbeben noch lange an.
 
 ---
 

@@ -16,7 +16,7 @@ title: '[Kolumne] Desert City: Geschichte, Anekdoten und moderne Bedeutung von B
 
 ## Erinnerungen an Kunst und Themen, die in der Wüste geschnitzt wurden
 
-Text: mmr｜Thema: Wer die Geschichte von Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“
+Text: mmr｜Thema: Wer die Geschichte des Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“.
 
 Burning Man ist mehr als nur ein Festival, es ist ein Testgelände für die gemeinsame Schaffung einer Black Rock City. Es begann 1986 an den Stränden der San Francisco Bay Area und findet seit den 1990er Jahren jährlich in der Black Rock Desert in Nevada statt. Es ist ein Ort, an dem sich Kunst, Feuer, Technologie und eine Kultur des Schenkens kreuzen und die tief mit der Unternehmens- und Startup-Kultur der Bay Area verknüpft ist.
 
@@ -64,7 +64,7 @@ Burning Man hat eine lange Beziehung zum Silicon Valley. In den späten 1990er-J
 
 ### Beteiligung und Kontroverse berühmter Personen/Prominenten
 
-Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten von Teilnehmern mit Reichtum und Einfluss führen.
+Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten der Teilnehmer mit Reichtum und Einfluss führen.
 
 ---
 
@@ -265,7 +265,7 @@ Ein Thema, das die widersprüchlichen Achsen von Hoffnung und Angst untersucht. 
 
 Ein Thema, das die Beziehung zwischen Natur und Zivilisation neu überdenkt. Eine Komposition basierend auf dem Motiv des „Grünen Mannes“ (einer anthropomorphen Figur aus Pflanzen und natürlich vorkommenden Pflanzen).
 
-Allerdings sorgte in diesem Jahr sein brennendes Kunstwerk „Crude Awakening“, das eine riesige Bohrinsel imitierte, für Kontroversen und wurde kritisiert.
+Doch in diesem Jahr sorgte sein brennendes Kunstwerk „Crude Awakening“, das eine riesige Bohrinsel imitierte, für Kontroversen und wurde kritisiert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -309,7 +309,7 @@ Eine erneute Prüfung und Aktualisierung von „Fertility“ aus dem Jahr 1997. 
 
 Mit dem Frachtkult (der Kluft zwischen materieller Kultur und Glauben) als Motiv untersuchen wir die moderne Konsumgesellschaft, Frachtverteilung und Ritualisierung erneut.
 
-Viele der Lager und Strukturen drücken die Kluft zwischen der „verehrten Materie“ und der „Geschenkökonomie“ aus.
+Viele Lager und Strukturen drücken die Kluft zwischen dem „verehrten Material“ und der „Geschenkökonomie“ aus.
 
 ---
 
@@ -329,7 +329,7 @@ Das Thema des Spiegelkarnevals ist Gerät, Reflexion und Illusion. Mit Spiegelst
 
 #### 2016: Da Vincis Werkstatt
 
-Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug auf die italienische Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
+Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug zur italienischen Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -393,7 +393,7 @@ Das Thema ist Unbekanntheit und Unvorhersehbarkeit, und es wird eine herausforde
 
 #### 2025: Morgen heute
 
-Fokussierung auf die nahe Zukunft, zukünftige Erfindungen und Sozialpläne. Kunst, die „Morgen ins Heute“ verkörpert, Prototyping und Design, das einen futuristischen Dialograum induziert.
+Fokussierung auf die nahe Zukunft, zukünftige Erfindungen und soziale Konzepte. Kunst, die „Morgen ins Heute“ verkörpert, Prototyping und Design, das einen futuristischen Dialograum induziert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -405,13 +405,13 @@ Die obige Liste wurde unter Bezugnahme auf die Themenbeschreibungen aus dem offi
 
 Der Tempel (ein Ort des Gebets) und der Mann selbst werden oft als Reaktion auf ein Thema gestaltet, mit Elementen, die vom Thema unabhängig sind, aber jedes Jahr neu konfiguriert werden.
 
-Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert eher als „suggestiver Rahmen“.
+Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert vielmehr als „suggestiver Rahmen“.
 
 ---
 
 ### Fazit: Zukünftiges Stadtexperiment in der Wüste
 
-Burning Man ist eine moderne kulturelle Experimentalstadt, die sich aus dem Thema Inferno (1995) → Dekommodifizierung (1996) → Fertility (1997) → Vault of Heaven (2004) → 2010–2025 entwickelt hat und Spiritualität, partizipative Kunst, Dekomerzialisierung und Lebensausdruck vereint.
+Burning Man ist eine moderne kulturelle Experimentalstadt, die sich aus dem Thema Inferno (1995) → Dekommodifizierung (1996) → Fertility (1997) → Vault of Heaven (2004) → 2010–2025 entwickelt hat und Spiritualität, partizipative Kunst, Dekommerzialisierung und Lebensausdruck vereint.
 
 Das jedes Jahr wechselnde Thema und das großformatige Kunstwerk dienen den Teilnehmern als Mittel, ihre Werte und sozialen Beziehungen anhand ihrer Erfahrungen zu hinterfragen. Die vergänglichen Städte, die in der Wüste gebaut wurden, prägen sich in die Erinnerungen des Einzelnen ein und haben weiterhin einen nachhaltigen Einfluss auf Gesellschaft, Kultur und Kreativität.
 

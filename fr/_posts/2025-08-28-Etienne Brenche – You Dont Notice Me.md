@@ -16,7 +16,7 @@ title: Etienne Brenche – Tu ne me remarques pas
 
 House/Deep House est sorti en 1999 sur le label House basé à Londres Touchdown Recordings (un sous-label de Defender Music) de 1999 à 2002. Le producteur est Dominic Moir, connu comme un pionnier de la early house et de l'acid house.
 
-Sous le nom d'Etienne Brénche, il ne reste que deux disques 12 pouces, celui-ci et The Fantasy, tous deux sortis sur Touchdown Recordings.
+Sous le nom d'Etienne Brénche, il ne reste que deux disques 12 pouces, celui-ci sorti sur Touchdown Recordings et The Fantasy.
 
 
 #### Liste des chansons

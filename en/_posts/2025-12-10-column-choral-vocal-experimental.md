@@ -20,7 +20,7 @@ title: '[Column] Choral / Vocal Experimental'
 Text: mmr｜Theme: Historical development, representative artists, technique analysis, sound recording/video context, contemporary work trends
 
 "Choral/Vocal Experimental" is a field that was born from the intersection of experimental music, acoustic research, and electroacoustic ideas from the latter half of the 20th century on the oldest musical form of chorus.
-Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using the voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
+Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
 This trend presented a new listening style to traditional choral culture and had a major impact on acoustic art as a whole.
 
 ---
@@ -65,7 +65,7 @@ Here we take a bird's-eye view of how choral music acquired experimental element
 ## 2-3. Ligeti and new acoustic thinking (1960s)
 
 György Ligeti is an important figure in choral experimentation.
-He established a technique called ""micropolyphony'' and proposed a new form of voice in which a large number of small sound patterns are densely packed to form an acoustic cloud-like texture.
+He established a technique called ""micropolyphony,'' and proposed a new form of voice in which a large number of small sound patterns are densely packed to form an acoustic cloud-like texture.
 
 especially
 
@@ -208,8 +208,8 @@ Whittaker is known for her choral works that maintain a classical beauty while l
 
 ### Virtual Choir
 
-"Virtual Choir", which took place in the 2010s, is an attempt to integrate individual voices recorded from all over the world and create a gigantic chorus.
-This is noteworthy in terms of music history as an **expansion of the concept of choral singing in the internet age**.
+"Virtual Choir", which took place in the 2010s, was an attempt to integrate individual voices recorded from all over the world into a gigantic chorus.
+This is notable in music history as an **expansion of the concept of choral singing in the internet age**.
 
 ---
 

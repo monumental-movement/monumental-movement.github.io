@@ -36,7 +36,7 @@ De nombreuses personnes ont expérimenté le phénomène de revivre instantaném
 
 Ce système de mémoire a fait de la musique le symbole d’une génération.
 
-> La musique n'est pas seulement un son, mais un dispositif qui préserve les émotions d'une époque et a façonné la mémoire de générations.
+> La musique n'est pas seulement un son, mais un dispositif qui préserve les émotions d'une époque et a façonné la mémoire des générations.
 
 
 ---
@@ -161,7 +161,7 @@ La musique a également une forte influence sur la formation de l’identité in
 La recherche psychologique montre que les gens se souviennent plus fortement de la musique lorsqu'ils l'écoutaient à la fin de l'adolescence ou au début de la vingtaine.
 Cette période constitue une étape importante dans le développement de la personnalité et les expériences musicales sont susceptibles d’être liées à la mémoire à long terme.
 
-Par conséquent, les gens ont le sentiment que la musique de leur jeunesse est « leur propre musique ».
+Les gens ont donc le sentiment que la musique de leur jeunesse est « leur propre musique ».
 
 Ce phénomène est souvent appelé « choc de réminiscence ».
 

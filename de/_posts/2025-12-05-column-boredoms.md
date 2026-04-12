@@ -103,7 +103,7 @@ Live-Auftritte waren in dieser Zeit immer unvorhersehbar und das Bühnengeschehe
 ---
 
 „Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, aber Klangordnung, Wiederholung und Minimalismus stark betont.
-Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Atmosphäre anzunehmen.
+Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Anmutung anzunehmen.
 
 ### 3-2. Der Höhepunkt von „Vision Creation Newsun“
 
@@ -111,7 +111,7 @@ Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiede
 
 ---
 
-Im folgenden Jahr war „Vision Creation Newsun“ aus dem Jahr 1999 eines der prägenden Werke in Boredoms‘ Karriere.
+Die Vision Creation Newsun des darauffolgenden Jahres 1999 war eines der prägenden Werke in Boredoms‘ Karriere.
 Natürliche Klänge, ethnische Percussion, anhaltende Klänge und zyklische Strukturen, Gitarrendrohnen, vielschichtige Rhythmen ...
 
 Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sich stattdessen in kosmischen Minimalismus und rituellen Trance.
@@ -120,7 +120,7 @@ Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sic
 
 ### 3.3 Hintergrund der Psychedelisierung
 - Ais Perspektive wechselt von impulsiver Zerstörung zu „kosmischer Expansion“
-- Yuka Yoshimura (Yoshimi) spielt eine zentrale Rolle und sorgt für wichtige Entwicklungen in den Bereichen Schlagzeug, Gesang und Elektronik.
+- Yuka Yoshimura (Yoshimi) spielt eine zentrale Rolle und sorgt für wichtige Entwicklungen in den Bereichen Schlagzeug/Gesang/Elektronik.
 - Erhöhtes Interesse an Minimalismus und sich wiederholenden Strukturen
 
 Dadurch veränderten sich seine Werke Ende der 1990er Jahre zu einem „Lichtwirbel“-Sound und erlangten internationale Anerkennung.
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Kapitel 5: Aktivitäten seit 2010er Jahren
-Seit den 2010er Jahren gibt Boredoms weiterhin zeitweise Live-Auftritte, während sich die kreativen Aktivitäten jedes Mitglieds vertieft haben.
+Seit den 2010er Jahren führt Boredoms weiterhin zeitweise Live-Auftritte durch, während sich die kreativen Aktivitäten jedes Mitglieds vertiefen.
 Insbesondere **Eyes visuelle Kunstaktivitäten** und **Yoshimis Aktivitäten mit OIOOO/SAICOBABA** nahmen zu, was den Eindruck erweckte, dass Boredoms eher ein „kollektives Projekt“ als eine „Band“ sei.
 
 ---

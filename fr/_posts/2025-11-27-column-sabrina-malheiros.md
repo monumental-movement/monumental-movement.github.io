@@ -73,7 +73,7 @@ Depuis ses débuts, Sabrina a toujours visé une « coexistence de la tradition 
 
 ### ● Photo globale de l'album
 
-« Clareia » signifie « éclairer » et « éclairer ». Tout comme le titre l'indique, l'album entier est plein d'une clarté semblable à celle du soleil et de grooves doux.
+« Clareia » signifie « éclaircir » et « éclairer ». Tout comme le titre l'indique, l'album entier est plein d'une clarté semblable à celle du soleil et de grooves doux.
 
 Il y a des moments de jazz-funk doux qui vous donnent une impression directe de la lignée d'Azimuth, tandis que les mélodies sophistiquées, les belles cordes et les percussions légères de MPB sont délicieusement combinées.
 
@@ -94,7 +94,7 @@ En particulier, le remix de « Clareia » par les trois groupes suivants qui ont
 
 ---
 
-### **Quantity Henry Wu (Kamaal Williams) Remix**
+### ** ● Remix de Henry Wu (Kamaal Williams) **
 
 Henry Wu était une figure centrale du mouvement de renaissance du jazz du sud de Londres, également connu sous le nom de Yussef Kamaal.
 
@@ -104,7 +104,7 @@ Son remix met l'accent sur un travail de batterie complexe dans la veine du ryth
 ・Rhodes doux
 ・Base de référence en mettant l'accent sur la syncope
 
-En conséquence, "Clareia" a acquis un nouveau look qui se fond naturellement sur les pistes de danse de Londres.
+"Clareia" a ainsi acquis un nouveau look qui se fond naturellement sur les pistes de danse londoniennes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGKTAHvAkG0?si=PdoogKBlxjEmegiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

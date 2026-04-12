@@ -138,7 +138,7 @@ Où irons-nous au 21e siècle ?
 À une époque où les médias sociaux connectent le monde et où l’IA joue un rôle dans l’imagination, l’expression **« Wrong Way Up »** semble encore plus réaliste.
 La « fausse ascension » est désormais une métaphore de la civilisation.
 
-L'album d'Eno & Cale avait une prémonition de "musique après avoir abandonné le paradis".
+L'album d'Eno & Cale avait une prémonition de « musique après avoir abandonné le paradis ».
 La mélodie demande doucement. "Si vous ne trouvez pas le paradis, construisez-le en musique."
 
 Le moment à la fin de "La Plage" où Richard regarde son écran d'ordinateur avec un sourire aux lèvres.

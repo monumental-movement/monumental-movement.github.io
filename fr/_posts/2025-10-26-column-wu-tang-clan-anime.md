@@ -53,7 +53,7 @@ Cette structure est similaire aux anime japonais, en particulier « Dragon Ball 
 Son Goku et Kenshiro se transcendent en combattant des ennemis extérieurs.
 RZA (le chef spirituel du Wu-Tang) a déclaré plus tard :
 
-> « Les guerriers anime étaient notre vie.
+> « Les guerriers animés étaient notre vie.
 > Ils se sont entraînés dans la solitude et ont lutté contre le monde. »
 
 Ce « shaolin spirituel = histoire d'entraînement » a une structure similaire à la lutte de rue.
@@ -76,7 +76,7 @@ Il s'est ensuite impliqué dans la production de la bande originale d'Afro Samur
 
 ---
 
-## Chapitre 3 : « Afro Samurai » et la chaîne de réimportation
+## Chapitre 3 : « Afro Samurai » et la chaîne des réimportations
 
 En 2007, l'anime japonais « Afro Samurai » a été diffusé dans tout le pays.
 Le doubleur est Samuel L. Jackson.
@@ -89,15 +89,15 @@ Cette œuvre était un véritable « remix mutuel » de la culture japonaise et 
 > Cette transformation symbolique est au cœur de l'esthétique hip-hop post-Wu-Tang Clan.
 
 Pour RZA, « Afro Samurai » est l'œuvre qui incarne le plus concrètement son « orientation orientale ».
-En même temps, il devient un pionnier de la « fusion avec le hip-hop » pour l'industrie japonaise de l'anime.
+En même temps, il devient un pionnier de la « fusion avec le hip-hop » pour l'industrie japonaise de l'animation.
 
 ---
 
-## Chapitre 4 : Un nouvel horizon pour le hip-hop ouvert par une vision du monde de type anime
+## Chapitre 4 : Un nouvel horizon pour le hip-hop ouvert par une vision du monde animée
 
 Après le Wu-Tang Clan, le hip-hop a acquis le « langage pour parler d'anime ».
 Tyler, The Creator fait référence à "Akira" et "Neon Genesis Evangelion",
-Kanye West dépeint un monde semblable à un anime dans le MV de "Strong Feeling",
+Kanye West dépeint un monde semblable à celui d'un anime dans le MV de "Strong Feeling",
 Lil Uzi Vert et Megan Thee Stallion intègrent fièrement la « culture otaku » dans leur identité.
 
 Tous ces phénomènes sont une extension de la « fenêtre sur la fantaisie orientale » ouverte par le Wu-Tang.
@@ -125,7 +125,7 @@ Ici, l’anime renoue une fois de plus avec le langage de la « rue ».
 
 ## Conclusion : Épée et Microphone – A l'intersection de deux terrains d'entraînement
 
-L’« Est » vu par le clan Wu-Tang n’est pas le fruit de l’imagination ;
+L’« Orient » vu par le clan Wu-Tang n’est pas le fruit de l’imagination ;
 C'était un détournement structurel pour introduire des éléments philosophiques tels que **l'autodiscipline, la sérénité et l'unité spirituelle** dans un monde de violence.
 En même temps, cela correspond aux « histoires de bataille et de croissance » que les anime japonais ont dépeintes.
 

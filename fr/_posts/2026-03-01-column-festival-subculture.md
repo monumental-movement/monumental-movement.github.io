@@ -56,7 +56,7 @@ color: #fff;
 ### Festival et éruption collective
 
 Le sociologue Émile Durkheim a qualifié la forte exaltation collective des rituels religieux de « bouillonnement collectif ».
-C'est un phénomène dans lequel un individu est inclus dans un groupe et entre dans un état qui dépasse la conscience de soi normale.
+Il s’agit d’un phénomène dans lequel un individu est intégré à un groupe et entre dans un état qui va au-delà de la conscience de soi normale.
 
 De l’Antiquité au Moyen Âge, les festivals étaient des outils centraux d’intégration communautaire. La musique, la danse et les rythmes répétitifs favorisent la synchronisation du groupe.
 La culture des festivals hérite de cette structure sous une forme sécularisée.
@@ -109,7 +109,7 @@ Les bracelets, T-shirts et signes de main courants fonctionnent comme un capital
 ### Contagion émotionnelle
 
 Les acclamations, les sauts et les refrains de la foule diffusent les émotions.
-Des recherches ont montré que le processus d'imitation des expressions faciales et des mouvements corporels d'autrui augmente le partage émotionnel.
+Des recherches ont montré que le processus consistant à imiter les expressions faciales et les mouvements corporels des autres augmente le partage émotionnel.
 
 Lors des festivals, ce processus se déroule simultanément avec des dizaines de milliers de personnes.
 
@@ -151,7 +151,7 @@ Le Prodigy a apporté une énergie agressive dans de grands espaces de foule.
 
 ### Le design émotionnel à l'ère de l'EDM
 
-Avicii a affiné la structure anthémique et la culture chorale accélérée.
+Avicii a affiné la structure anthémique et accéléré la culture chorale.
 
 > Les artistes fonctionnent comme des concepteurs de la psychologie des foules.
 

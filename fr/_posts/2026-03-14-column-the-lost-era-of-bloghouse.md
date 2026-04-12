@@ -120,7 +120,7 @@ E --> F[クラブヒット]
 
 La particularité de ce système était la rapidité de la promotion.
 
-Il n'était pas rare que la source sonore soit publiée sur des blogs avant la sortie du disque, et se diffuse en quelques jours auprès des DJ du monde entier.
+Il n'était pas rare que la source sonore soit publiée sur des blogs avant la sortie du disque, et diffusée en quelques jours auprès des DJ du monde entier.
 
 L’explosion de la culture du remix a été encore plus importante.
 
@@ -206,7 +206,7 @@ Il ne s'agissait pas de versions officielles et étaient souvent distribuées gr
 
 Cette culture a apporté une nouvelle sensation de vitesse à la musique de club.
 
-> Bloghouse était un son qui combinait des impulsions rock et des rythmes électro-house.
+> Bloghouse était un son qui mêlait des impulsions rock à des rythmes électro-house.
 
 ---
 

@@ -42,9 +42,9 @@ color: #fff;
 
 ## Kapitel 1: Mikrotöne und die Vorgeschichte des Jazz
 
-### 1-1 Historische Stellung mikrotonaler Intervalle
+### 1-1 Historische Position des mikrotonalen Intervalls
 
-Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoreischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der 12-Temperament-Stimmung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
+Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoräischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der 12-Temperament-Stimmung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
 
 Zu Beginn des 20. Jahrhunderts begannen Komponisten, gezielt mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
 
@@ -68,7 +68,7 @@ Die Gründe, warum das Vierteltonsystem im Jazz Aufmerksamkeit erregt hat, lasse
 * Spannungsunterteilung im harmonischen Verlauf
 * Erweiterung der melodischen Freiheit im improvisatorischen Ausdruck
 
-Insbesondere bei Improvisationsaufführungen werden Intervalle, die im 12-Ton-Temperierungssystem als „äußere Töne“ behandelt wurden, im Vierteltonsystem als interne Grundtöne neu definiert.
+Insbesondere bei Improvisationsdarbietungen werden Intervalle, die im 12-gleichschwebenden System als „äußere Töne“ behandelt wurden, im Vierteltonsystem als innere Grundtöne neu definiert.
 
 ---
 
@@ -106,7 +106,7 @@ Bei der Improvisation werden Spannung und Entspannung dadurch erzeugt, dass die 
 
 Maneri führte Bildungsaktivitäten hauptsächlich in Boston durch und bildete viele Schüler aus. Sein Bildungssystem weist die folgenden Merkmale auf.
 
-* Schwerpunkt auf der auditiven Schulung des mikrotonalen Sinnes
+* Schwerpunkt auf auditivem Training des mikrotonalen Sinnes
 * Sequenzkontinuumsanalyse für Improvisationsdarbietungen
 * Verständnis der relativen Tonhöhe durch Resonanzerfahrungen unter Schülern
 
@@ -138,11 +138,11 @@ flowchart TB
 
 ### 4-3 Leistungs-/Arrangementanalyse
 
-Im Ansatz von Collier können einzelne Stimmen unterschiedliche Klangannahmen haben. Obwohl das Ganze mikrotonal ist, behält jeder Teil seine logische Konsistenz bei. Dabei handelt es sich eher um eine hochkonzipierte Ensembleoperation als um Improvisation.
+Im Ansatz von Collier können einzelne Stimmen unterschiedliche Klangannahmen haben. Obwohl das Ganze mikrotonal ist, behält jeder Teil seine logische Konsistenz bei. Dabei handelt es sich eher um eine hochkonstruierte Ensembleoperation als um eine Improvisation.
 
 ---
 
-## Kapitel 5: Verwendung von Mikrotönen in der Improvisation
+## Kapitel 5: Mikrotonoperation in der Improvisation
 
 ### 5-1 Phrasenkonstruktion
 
@@ -170,7 +170,7 @@ Dadurch kann der mikrotonale Ausdruck als auditive Wirkung quantitativ analysier
 
 Es werden erweiterte Viertelnoten und Vorzeichen verwendet, die vollständige Notation ist jedoch schwierig und hängt stark vom Hörverständnis des Interpreten ab. Dieser Punkt hat eine Affinität zur mündlichen Natur des Jazz.
 
-### 6-2 Anpassungen im Ensemble
+### 6-2 Anpassung im Ensemble
 
 In mikrotonalen Ensembles ist die gemeinsame Nutzung relativer Tonhöhen wichtiger als die absoluter Tonhöhen. Eine gängige Methode besteht darin, die harmonischen Beziehungen während der Probenphase zu überprüfen und die Tonhöhe anhand der Resonanz anzupassen.
 

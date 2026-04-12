@@ -54,7 +54,7 @@ The band's name is said to be derived from the word "Zeni" and the German word "
 - **How ​​to Kill (1987)**
 - **Vast Impotenz (1988/Cassette)**
 
-In their early works, while centered around noise rock and hardcore, we can already see the beginnings of the repetitive structures, destructive riffs, and mathematically irregular time signatures that would become their signature.
+In their early works, while centered around noise rock and hardcore, we can already see the beginnings of the repetitive structures, destructive riffs, and mathematically irregular time signatures that would later become their hallmarks.
 
 In 1988, **Mitsuru Tabata** joined the group, further increasing the quality of the guitars. Since then, Tabata has been the pillar of Zeni Geva's sound for a long time.
 
@@ -131,7 +131,7 @@ Zeni Geva is receiving renewed attention from the noise/metal/hardcore/avant-gar
 - Non-4/4 beat relentless loop
 
 ### 6-2. Role of drums
-- Early on, it was more hardcore.
+- In the beginning, it was more hardcore.
 - Mathematics and polyrhythm in the 90s
 - After joining Tatsuya Yoshida, an intense and unusual approach
 

@@ -47,7 +47,7 @@ color: #fff;
 ## Introduction:
 
 À la fin du XXe siècle, la musique du continent africain a commencé à imprégner le monde sous de nouvelles formes. Alors que le Nigérian Fela Kuti défendait « l'Afrobeat politique », le Malien Habib Koité a lancé une révolution de manière plus discrète.
-──Avec une seule guitare, il a recréé le son de l'instrument à cordes traditionnel du Mali « Kamalengoni » et a créé « Musique malienne sans frontières » avec le groupe **Bamada**.
+──Avec une seule guitare, il a recréé le son de l'instrument à cordes traditionnel du Mali, le « kamarengoni », et a créé « la musique malienne sans frontières » avec le groupe « **Bamada** ».
 
 Sa musique ne parle pas de politique. Cependant, au sein de cette tranquillité se trouvent la **dignité ethnique et la continuité culturelle**. Koité était un « traducteur de l'esthétique africaine » à l'ère de la musique mondiale.
 
@@ -63,7 +63,7 @@ Cette diversité est la « polyphonie fondamentale » de la musique malienne, et
 
 ---
 
-## Chapitre 2 : Origine et années de formation d'Habib Koite
+## Chapitre 2 : Origine et années de formation d'Habib Koite
 
 Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère faisait partie de la famille de Geri et elle a grandi entourée de musique et d'histoires dès son plus jeune âge.
 Jeune homme, il étudie à l'**Institut National des Arts (INA)** de Bamako, où il maîtrise la guitare classique et le solfège.
@@ -77,7 +77,7 @@ Le son produit par cette guitare rejette l'accordage européen et se rapproche d
 ## Chapitre 3 : Formation de Bamada – Un dialogue entre le battement du cœur de la ville et la tradition
 
 En 1988, Koité forme son propre groupe **Bamada**.
-Bamada est l'argot désignant la capitale Bamako et signifie « le peuple de Bamako ». Le nom du groupe lui-même symbolise **un pont entre la ville et le folklore**.
+Bamada est l'argot de la capitale Bamako et signifie « le peuple de Bamako ». Le nom du groupe lui-même symbolise **un pont entre la ville et le folklore**.
 
 Le son de Bamada combine un format de groupe occidental (guitare, basse, batterie, percussions) avec des instruments traditionnels africains tels que le balafon et le camalengoni.
 Koité a demandé aux membres de « mettre différents rythmes ethniques à la table », **traduisant la diversité du Mali en un ensemble**.
@@ -140,7 +140,7 @@ Cette métaphore de la « racine et de la branche » décrit le mieux la philoso
 Les générations suivantes des Koité comprenaient les **Rokia Traoré**, **Fatoumata Diawara** et **Vieux Farka Touré**.
 Tous ont hérité du « contexte acoustique africain » instauré par Koité, tout en évoluant dans une direction plus personnelle et expérimentale.
 
-En d’autres termes, Habib Koité a été le premier à faire le lien entre la musique malienne et l’expression individuelle.
+En d’autres termes, Habib Koité a été le premier à faire le pont entre la musique malienne et l’expression individuelle.
 
 ---
 

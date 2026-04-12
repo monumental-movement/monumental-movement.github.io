@@ -122,7 +122,7 @@ Im Jahr 1996 kam es zum größten Wendepunkt in der DAW-Geschichte.
 * Eine Kultur geschaffen, in der Tonquellen und Effekte auf einem PC laufen
 
 VST wurde später zu Apple AU, Digidesign RTAS/AAX, Propellerhead Rack Extensions usw.
-Es ist der „Vorfahre“ aller Plug-In-Standards.
+Es ist der „Vorfahre“ aller Plug-in-Standards.
 
 ### ■ MOTU: Verbessern Sie die Videosynchronisierung mit Digital Performer 2.0
 
@@ -155,7 +155,7 @@ Als Tatsachen bestätigte Punkte:
 * **Beenden Sie die Windows-Version von Logic und wechseln Sie nur zu Mac**
 * Übertragung auf die Entwicklung von GarageBand (2004).
 * Der Preis von Logic Pro wird deutlich sinken und seine Beliebtheit wird zunehmen
-* Deutlich erhöhte Anzahl originaler Apple-Software-Soundquellen und Loop-Materialien
+* Deutlich erhöhte Anzahl an Original-Apple-Software-Soundquellen und Loop-Materialien
 
 Diese Akquisition ist
 **Dies ist der größte Faktor, der das Image von „Musikproduktion = Mac“ bestimmt hat**.
@@ -190,7 +190,7 @@ Auch nach der Übernahme bleibt die Ausrichtung unverändert und die technologis
 ### ■ MOTU: Als Standard für Film- und Fernsehkomponisten etabliert
 
 * Die Genauigkeit der Videosynchronisation hat sich in der DP5/6-Ära weiter erhöht
-* Da es nur für den Mac geeignet ist, ist es mit Videosystemen kompatibel.
+* Da es nur für Mac geeignet ist, ist es mit Videosystemen kompatibel.
 * Wird häufig von Komponisten verwendet, die häufig Soft-Synthesizer verwenden
 
 ### ■ Adobe: Cool Edit → Broadcast-Bearbeitung mit Audition integrieren
@@ -226,7 +226,7 @@ In dieser Zeit wurden DAWs mit **CPU-abhängiger nativer Verarbeitung** zum Main
 ### ■ Steinberg, MOTU und Adobe werden ebenfalls weiterhin aktualisiert
 
 *Steinberg hat seine VST3-Engine aktualisiert.
-*MOTU geht mit DP9/10 in den modernen Workflow über
+* MOTU geht mit DP9/10 in den modernen Workflow über
 * Die Marktdurchdringung von Adobe Audition ist auf die steigende Nachfrage nach Podcasts zurückzuführen
 
 Zu diesem Zeitpunkt war das Wort „DAW“ völlig gebräuchlich,
@@ -262,7 +262,7 @@ In den letzten Jahren hat die Geschichte der DAWs einen weiteren großen Wandel 
 
 ### ■ Adobe: Steigende Nachfrage nach Vertrieb und Rundfunk
 
-* Vorteile der Integration mit Premiere
+* Integrationsvorteil mit Premiere
 * Stark in der YouTube-/Podcast-Ära
 
 ---

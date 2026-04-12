@@ -230,7 +230,7 @@ It continues to expand as "music that creates an atmosphere."
 
 ## 9. Where is dark jazz headed?
 With the spread of AI-generated video, VJ software, and indie games,
-We have entered an era where visuals and sounds are talked about in the same breath.
+We are now in an era where visuals and sounds are talked about in the same breath.
 
 Due to the nature of dark jazz, which is ""slow and has many blank spaces,''
 It is thought that it will continue to have new value by mixing with images.
@@ -242,10 +242,17 @@ There is still a high possibility that it will grow as the "sound of the city" i
 ---
 
 # At the end
-Dark jazz is not the background music of a bar or the sound effects of a night town.
+Dark jazz is not the background music of a bar or the sound effects of a night town;
 **This is a modern art that depicts the loneliness and shadows of cities using only sound. **
 
 Each artist, mainly Bohren & der Club of Gore, has drawn different ways of drawing shadows.
 
 ---
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKJuLwAF514?si=V_GDUkIjkRnkVbrN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

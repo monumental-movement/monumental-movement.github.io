@@ -70,7 +70,7 @@ Cet espace, où circulaient musique, alcool et nourriture, deviendra plus tard l
 
 ## Chapitre 2 Roots Rock et Dub Era (années 1970)
 
-### ▪ Les ingénieurs du son deviennent « compositeurs »
+### ▪ Les ingénieurs du son deviennent des « compositeurs »
 
 King Tubby, Lee Perry, Errol Thompson et d'autres ont utilisé la table de mixage comme un instrument de musique et ont inventé une nouvelle expression sonore appelée « dub ».
 **Effacer les voix et reconstruire le rythme avec des échos**—Cette idée est devenue le point de départ de la culture du remix ultérieure.
@@ -79,7 +79,7 @@ King Tubby, Lee Perry, Errol Thompson et d'autres ont utilisé la table de mixag
 
 ### ▪ Philosophie des basses des enceintes
 
-Les « basses » du système audio avaient une connotation religieuse.
+Les « basses » du système audio avaient un son religieux.
 Liés à l'esprit rastafarien, ils expriment leur vision de l'univers comme « ton grave = terre » et « ton aigu = ciel ».
 Cette idée a ensuite été héritée par le **UK dub** (Jah Shaka, Aba Shanti-I) et la **soundclash culture**.
 
@@ -101,7 +101,7 @@ Cette chanson, qui utilise les préréglages rythmiques du Casio MT-40, est cons
 ### ▪ MC (Deejay) occupe le devant de la scène
 
 La culture du grillage s'est rapprochée du DJ rap et a influencé la naissance du hip-hop.
-C'est une histoire bien connue selon laquelle le Jamaïcain Kool Herc a introduit un système de sonorisation dans le Bronx de New York et a lancé la culture breakbeat.
+C'est une histoire bien connue selon laquelle le Jamaïcain Kool Herc a introduit un système de son dans le Bronx de New York et a lancé la culture breakbeat.
 
 ---
 
@@ -131,7 +131,7 @@ Depuis lors, des sons locaux sont nés dans tout le Japon et un espace culturel 
 ### ▪ Impact sur la pop mondiale
 
 Sean Paul, Vybz Kartel, Popcaan et d'autres ont pris d'assaut le courant dominant.
-Dans les années 2010, « One Dance »** de **Drake et « Lean On »** de **Major Lazer ont fait la pop dancehall.
+Dans les années 2010, « One Dance »** de **Drake et « Lean On »** de **Major Lazer ont fait de la pop dancehall.
 Le motif rythmique « Dem Bow » a été étendu au reggaeton, aux Afrobeats et à la K-Pop.
 
 ### ▪ Bass en tant que diaspora

@@ -26,9 +26,9 @@ Text: mmr｜Thema: Die Geburt und der kulturelle Einfluss von Dubstep
 
 Dubstep wurde Ende der 1990er und Anfang der 2000er Jahre in der Underground-Szene im Süden Londons geboren. Es zeichnet sich durch eine Ästhetik aus, die man als „Bass-Überlegenheit“ bezeichnen kann, während es sich an den Trends von UK Garage, 2-Step, Jungle und Drum'n'Bass orientiert.
 
-London war damals ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
+London war zu dieser Zeit ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
 
-Dubstep, das auf diesem Boden geboren wurde, hat eine einzigartige Entwicklung durchgemacht, die sich auf starken Subbass, dunkle und enge Räumlichkeit und unterteilte Rhythmen konzentriert.
+Dubstep, das auf diesem Boden geboren wurde, hat eine einzigartige Entwicklung durchgemacht, die auf schwerem Subbass, dunkler und enger Räumlichkeit und unterteilten Rhythmen basiert.
 
 <hr>
 
@@ -77,7 +77,7 @@ Ab etwa 2008 verbreitete sich Dubstep über den britischen Untergrund hinaus und
 
 ### Dubstep in Japan
 
-Ende der 2000er Jahre wurde es in Japan allmählich populär und Goth-Trad erregte weltweite Aufmerksamkeit. Sein Sound hat eine einzigartige Entwicklung durchgemacht, indem er den Kontext von Noise-/experimenteller Musik einbezieht und gleichzeitig eine Verbindung zur Londoner Szene herstellt.
+In den späten 2000er Jahren wurde es in Japan allmählich populär und Goth-Trad erregte weltweite Aufmerksamkeit. Sein Sound hat eine einzigartige Entwicklung durchgemacht, indem er den Kontext von Noise-/Experimentalmusik einbezieht und gleichzeitig eine Verbindung zur Londoner Szene herstellt.
 Durch Veranstaltungen in Clubs in Shibuya und Veröffentlichungen inländischer Labels entstand eine einzigartige japanische Dubstep-Kultur.
 
 <hr>

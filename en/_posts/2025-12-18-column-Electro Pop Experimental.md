@@ -42,7 +42,7 @@ color: #fff;
 
 ## Chapter 1 Premise of electronic music before electropop
 
-In order to understand the formation of electronic pop experiments, it is necessary to look at the history of the combination of electronic music and popular music in the latter half of the 20th century.
+In order to understand the formation of the electronic pop experiment system, it is necessary to take a bird's-eye view of the history of the combination of electronic music and popular music in the latter half of the 20th century.
 
 ### Combining synthesizer and pop structures
 
@@ -114,7 +114,7 @@ The visuals presented along with the music do not serve to explain the worldview
 
 Carpenter Brut represents a different direction in electropop experimentation.
 
-### Acoustic features
+### Acoustic characteristics
 
 * Synthwave tone design
 * Extremely emphasized rhythm and distortion
@@ -128,7 +128,7 @@ The experimental nature of Carpenter Brut manifests itself less in the music its
 
 ## Chapter 7 Visual Culture and Electropop Experiments
 
-In electropop experimental music, the following elements work together, rather than just the music alone.
+In electropop experimental music, the following elements work together, rather than just music alone.
 
 * Album artwork
 * Music video

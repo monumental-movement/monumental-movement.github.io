@@ -60,14 +60,14 @@ It wasn't until the beginning of the 21st century that the idea of ​​using s
 
 ---
 
-## Chapter 2: Birth of alcohol that allows you to listen to sounds
+## Chapter 2: Birth of alcohol that listens to sound
 
 ### ● Origin of idea
 The impetus was the ""acoustic aging'' of wine that a wine brewer saw in Tokyo.
 I learned about an attempt to speed up maturation by playing classical music,
 He returned to Amami thinking, ""Maybe it could be done with shochu.''
 
-In 2005, a certain warehouse on Amami Oshima installed acoustic speakers in its storage room for the first time.
+In 2005, an acoustic speaker was installed in a warehouse on Amami Oshima for the first time.
 The subjects tested were classical music (Bach, Mozart) and island songs (such as Satokuni Taka's ""Asahabushi'').
 Six months later, the people involved who tasted it were surprised.
 "Even though it's the same raw sake, it was more mellow when I listened to it."
@@ -276,7 +276,7 @@ E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024
 
 * **Amami Oshima**: Largest concentration of warehouses. The birthplace of acoustic maturity.
 * **Kikaijima**: Features a unique mineral feel made using hard water.
-* **Tokunoshima/Okinerabujima**: Research on sea-breeze aging and low-temperature fermentation is progressing.
+* **Tokunoshima/Okinerabujima**: Research into sea breeze aging and low-temperature fermentation is progressing.
 * **Yoronjima**: Culturally, it exists somewhere between Okinawa's awamori.
 
 ---
@@ -291,7 +291,7 @@ Acoustic maturation is not just a "device";
 **This is the "resonance of the island" where the topography itself becomes an instrument**.
 
 > "Amami is an island like one giant speaker.
-> The wind plays a low pitch, the waves play a medium pitch, and the insects' voices play a high pitch. "
+>The wind plays a low pitch, the waves play a medium pitch, and the voices of insects play a high pitch. "
 > —— Machida Sake Brewery・Torji talk
 
 ---

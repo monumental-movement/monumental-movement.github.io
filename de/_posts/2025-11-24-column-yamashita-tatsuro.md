@@ -55,7 +55,7 @@ Tatsuro Yamashitas musikalische Einstellung wurde in der analogen Rock/Pop-Aufna
 - Studio: Frühes japanisches Studio (Victor, Nichion, CBS Sony usw.)
 - Musikalischer Hintergrund: Starkes Engagement für die amerikanische Aufnahmekultur wie Brian Wilson, Phil Spector, Stax usw.
 
-In dieser Zeit, so Tatsuro, habe er bereits die Idee gefestigt, dass „Aufnahmetechnologie die Grundlage der Musik ist“.
+In dieser Zeit, so Tatsuro, habe er bereits die Idee gefestigt, dass „Aufnahmetechnologie die Grundlage der Musik sei“.
 
 ### ■ Klangeigenschaften von „SONGS“ (1975)
 - Selbstchorus-Overdubbing
@@ -97,7 +97,7 @@ Im Mittelpunkt stand dabei das **CBS Sony Shinanomachi Studio**.
 Der Sound aus dieser Zeit wird oft als „Idealform des City-Pop“ bezeichnet.
 
 ## ■ Aufnahmeästhetik von „FOR YOU“ (1982)
-Dieses Werk gilt als eines der Spitzenwerke von Tatsuro.
+Dieses Werk gilt als eines der Spitzenwerke Tatsuros.
 Akustische Eigenschaften:
 
 1. **Höchste Klarheit bei analogen Aufnahmen**
@@ -191,7 +191,7 @@ Tatsuro behält im digitalen Zeitalter die folgende Haltung bei:
 - Vermeiden Sie übermäßigen Schalldruck
 - Behält die Rundheit des Hochtonbereichs und die Dicke des Mitteltonbereichs bei
 
-Insbesondere sein neuestes Werk hat einen Klang, der eine Verschmelzung von „analoger Rundheit“ und „digitalem Informationsgehalt“ auf hohem Niveau darstellt.
+Insbesondere sein neuestes Werk hat einen Sound, der eine Verschmelzung von „analoger Rundheit“ und „digitalem Informationsgehalt“ auf hohem Niveau darstellt.
 
 ---
 
@@ -217,7 +217,7 @@ timeline
 ### – Unterschiede in der Akustik basierend auf Tatsuros Werken
 
 | Artikel | Analoge Zeit (~1980er Jahre) | Digitale Periode (1990er-Jahre) |
-|------|-------------|--------------------------|
+|------|-------------|-------------------------|
 | Aufnahmemedien | Klebeband (2 Zoll) | PCM/ProTools |
 | Klangeindruck | Warm, dick, rund | Klar, scharf |
 | Chor | Je mehr Sie schichten, desto mehr fügt es sich zusammen | Es neigt dazu, steif zu werden, wenn es geschichtet wird |

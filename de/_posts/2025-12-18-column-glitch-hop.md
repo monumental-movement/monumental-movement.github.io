@@ -41,7 +41,7 @@ color: #fff;
 
 Von Ende der 1990er bis Anfang der 2000er Jahre, mit der Verbreitung von DAW-Umgebungen und Verbesserungen der CPU-Leistung, wurden extreme Sample-Aufteilung, nichtlineare Tonhöhen-/Zeittransformation und Echtzeit-Effektverarbeitung zu praktischen Produktionsmethoden. Damit wurden die Voraussetzungen dafür geschaffen, dass glitchartige Verarbeitungen, die bisher auf experimentelle Musik und Kunstkontexte beschränkt waren, ins Zentrum der Beatmusik rücken.
 
-Glitch Hop entstand an der Schnittstelle zwischen dem aus dem Hip-Hop stammenden Looping-Gefühl und der stark bearbeitungsorientierten Klangverarbeitung, die in IDM und Electronica kultiviert wird. Während Taktart und Tempo relativ stabil sind, lösen sich die inneren Töne ständig auf und verbinden sich wieder neu. Diese duale Struktur erzeugt einen physischen Groove und gleichzeitig eine Wahrnehmungsstimulation.
+Glitch Hop entstand an der Schnittstelle zwischen dem Looping-Gefühl des Hip-Hop und der stark bearbeitungsorientierten Klangverarbeitung, die in IDM und Electronica kultiviert wird. Während Taktart und Tempo relativ stabil sind, lösen sich die inneren Töne ständig auf und verbinden sich wieder neu. Diese duale Struktur erzeugt einen physischen Groove und gleichzeitig eine Wahrnehmungsstimulation.
 
 ---
 
@@ -49,7 +49,7 @@ Glitch Hop entstand an der Schnittstelle zwischen dem aus dem Hip-Hop stammenden
 
 ### 2.1 Tempo und Groove
 
-Der Tempobereich von Glitch Hop liegt im Allgemeinen bei 85–110 BPM. Dies passt gut zum Halftime-Feeling des Hip-Hop und maximiert das Gewichtsgefühl im unteren Bereich. Das Ausmaß des Schwunges ist nicht festgelegt, sondern wird bewusst für jede Spur angepasst, und sowohl mechanische Steifigkeit als auch künstliche Abweichung existieren gleichzeitig.
+Der Tempobereich von Glitch Hop liegt im Allgemeinen bei 85–110 BPM. Dies passt gut zum Halftime-Feeling des Hip-Hop und maximiert das Gewichtsgefühl im unteren Bereich. Das Ausmaß des Schwunges ist nicht festgelegt, sondern wird bewusst für jede Spur angepasst, und sowohl mechanische Steifigkeit als auch künstliche Abweichung existieren nebeneinander.
 
 ### 2.2 Rhythmusstruktur
 
@@ -57,7 +57,7 @@ Die Grundanordnung von Kick und Snare ist relativ einfach, Hi-Hats und perkussiv
 
 ### 2.3 Sounddesign
 
-Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass ist mit einer vielschichtigen Struktur vom Subbass bis zum Mittelbass konzipiert, und Verzerrung, Bit-Crusher, Waveshaping usw. werden stufenweise angewendet. In den hohen Frequenzen werden Geräusche, Klickgeräusche und kurze körnige Fragmente als räumliche Akzente gesetzt.
+Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass ist mit einer mehrschichtigen Struktur vom Subbass bis zum Mittelbass konzipiert, und Verzerrung, Bit-Crusher, Waveshaping usw. werden stufenweise angewendet. In den hohen Frequenzen werden Geräusche, Klickgeräusche und kurze körnige Fragmente als räumliche Akzente gesetzt.
 
 ---
 
@@ -67,7 +67,7 @@ Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass i
 
 The Glitch Mob hat eine Methode etabliert, um Beats und Sounddesign durch den Einsatz eines Mehrpersonen-Produktionssystems stark zu unterteilen und zu integrieren. Ihre Lieder verzichten auf einfache Schleifenwiederholungen und verändern stattdessen mit jeder Entwicklung die rhythmische und klangliche Dichte.
 
-Der Bass ist so konzipiert, dass er die treibende Kraft des Songs ist, und seine Phasenbeziehung zur Kick wird streng kontrolliert. Das Subband ist oft monaural angeordnet und zeichnet sich durch ein Design aus, das die Stabilität bei der Clubwiedergabe betont.
+Der Bass soll die treibende Kraft des Songs sein und sein Phasenverhältnis zum Bass wird streng kontrolliert. Das Subband ist oft monaural angeordnet und zeichnet sich durch ein Design aus, das die Stabilität bei der Clubwiedergabe betont.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,7 +179,7 @@ flowchart LR
 
 ## 12. Klanganalyse nach Frequenzband
 
-Der niedrige Bereich ist der Kern von Glitch Hop und der Bereich, der direkt eine physische Reaktion hervorruft. Hier wird der Subbass oft als intermittierender Impuls und nicht als anhaltender Klang behandelt. Die Kompression wird stark ausgeübt, die Freigabezeit wird jedoch relativ kurz eingestellt, um eine übermäßige Expansion zu vermeiden.
+Der niedrige Bereich ist der Kern von Glitch Hop und der Bereich, der direkt eine physische Reaktion hervorruft. Hier wird der Subbass oft als intermittierender Impuls und nicht als anhaltender Ton behandelt. Die Kompression wird stark ausgeübt, die Freigabezeit wird jedoch relativ kurz eingestellt, um eine übermäßige Expansion zu vermeiden.
 
 In diesem Band überlappen sich das Körpergeräusch und die Bassobertöne des Kicks oft, was zu Trübungen führt. Bei Glitch Hop liegt der Schwerpunkt auf der Differenzierung in der Klanggestaltungsphase und nicht auf der Reduzierung durch EQ. Dadurch kommt es in vielen Fällen vor, dass das Band selbst relativ hohl wird.
 

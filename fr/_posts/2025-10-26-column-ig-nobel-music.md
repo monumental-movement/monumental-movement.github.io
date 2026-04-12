@@ -48,7 +48,7 @@ Le prix a été décerné à des recherches qui font rire et réfléchir.
 
 En plus des domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
 Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.
-En effet, la science du son n’est pas qu’un simple phénomène ondulatoire.
+En effet, la science du son n’est pas seulement un phénomène ondulatoire.
 C’est parce qu’il pénètre profondément dans les émotions humaines, la société et la physiologie.
 
 Retraçant l'histoire du prix Ig Nobel,
@@ -74,7 +74,7 @@ L’étude a comparé des souris dans les groupes suivants :
 
 En conséquence, il a été rapporté que la période de survie après une transplantation cardiaque était prolongée d'une moyenne de 7 jours à 27 jours dans le groupe Opera (*Teikyo Univ. Med. J.*, 2013).
 La musique, en particulier la structure et le rythme classiques,
-On dit que cela pourrait affecter la réponse immunitaire et la tolérance au stress.
+Il semblerait que cela puisse affecter la réponse immunitaire et la tolérance au stress.
 
 Cette recherche vise à traiter la musique comme un stimulus médical.
 Cette idée a été très appréciée et transcende les frontières entre l’art et la science.

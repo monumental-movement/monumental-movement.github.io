@@ -56,7 +56,7 @@ color: #fff;
 
 ![Image](https://m.media-amazon.com/images/I/61MKY9HyTgL._UF1000%2C1000_QL80_.jpg)
 
-„Mobile Suit Gundam“ wurde 1979 als TV-Anime ausgestrahlt. Es stellte anschaulich Themen wie Krieg, Newtypes und Weltraumschlachten dar und wurde zum Beginn einer tiefgreifenden Reihe von Werken, die über die Grenzen von Riesenroboter-Anime (Mobile Suit) hinausgingen. In dieser Serie ist jedoch neben den visuellen und narrativen Elementen des Mecha- und Menschendramas eine weitere wichtige Säule die „Musik“. Titellieder, Einfügungslieder und musikalische Begleitung (BGM) sind nicht nur Zubehör; Sie unterstützen die Geschichte, erweitern das Weltbild und tragen dazu bei, die Emotionen der Zuschauer zu wecken.
+„Mobile Suit Gundam“ wurde 1979 als TV-Anime ausgestrahlt. Es stellte Themen wie Krieg, Newtypes und Weltraumschlachten anschaulich dar und wurde zum Beginn einer tiefgreifenden Reihe von Werken, die über die Grenzen von Riesenroboter-Anime (Mobile Suit) hinausgingen. In dieser Serie ist jedoch neben den visuellen und narrativen Elementen des Mecha- und Menschendramas eine weitere wichtige Säule die „Musik“. Titellieder, Einfügungslieder und musikalische Begleitung (BGM) sind nicht nur Zubehör; Sie unterstützen die Geschichte, erweitern das Weltbild und tragen dazu bei, die Emotionen der Zuschauer zu wecken.
 
 In diesem Artikel betrachten wir die Mobile Suit Gundam-Reihe aus der Perspektive der Musik. Während wir die Veränderungen in der Serie und der Musik von 1979 bis 2025 verfolgen, werden wir entschlüsseln, wie die Musik Gundam geprägt hat und wie sie sich im Laufe der Zeit verändert hat. Die Struktur der Musik, Änderungen in den Texten, Melodien, Aufnahme-/Verbreitungsformate und thematische Funktionen der Musik – begeben wir uns auf eine Reise, um der Welt von Gundam zu „lauschen“ und diese als Anhaltspunkte zu nutzen.
 
@@ -68,7 +68,7 @@ Ich möchte, dass die Leser der Welt des Werks aufmerksam zuhören und sich dabe
 
 ### 1.1 Gundams erster Auftritt und historischer Hintergrund
 
-Im April 1979 begann die Ausstrahlung der Fernsehserie „Mobile Suit Gundam“. Im Gegensatz zu traditionellen „Helden-Roboter“-Anime vertritt er eine „echte Roboter“-Ansicht, stellt den Krieg als Sumpf dar und befasst sich eingehend mit menschlichem Drama und Mecha-Action anhand der Entwicklung des Jungen Amuro Ray und dem Schauplatz des Universal Century (U.C.)-Krieges mit dem Fürstentum Zeon.
+Im April 1979 begann die Ausstrahlung der Fernsehserie „Mobile Suit Gundam“. Im Gegensatz zu traditionellen „Helden-Roboter“-Animes vertritt er eine „echte Roboter“-Ansicht, stellt den Krieg als Sumpf dar und befasst sich eingehend mit menschlichen Dramen sowie Mecha-Action anhand des Heranwachsens des Jungen Amuro Ray und dem Schauplatz des Universal Century (U.C.)-Krieges mit dem Fürstentum Zeon.
 
 Rückblickend auf das damalige Musikumfeld war es auch eine Zeit, in der TV-Anime-Titellieder und Einfügungslieder begannen, sich von „Spielliedern für Kinder“ zu „Hitsongs für die allgemeine Verbreitung“ zu wandeln. Als sich die Basis der Musikhörer von leichtem Pop zu Synthesizer-Orchestern erweiterte, erlebte auch die Gundam-Musik einen Wandel.
 
@@ -80,7 +80,7 @@ Zum jetzigen Zeitpunkt gibt es drei Hauptinnovationen, die die Gundam-Musik geze
 
 - **Verallgemeinerung von Titelliedern**
 
-:Anime-Titellieder tauchen zunehmend in den Top-Charts von Oricon auf und sie haben begonnen, den Aspekt von „Popmusik“ statt von „Liedern für Kindersendungen“ anzunehmen.
+:Anime-Titelsongs tauchen zunehmend in den Top-Charts von Oricon auf und sie haben begonnen, den Aspekt von „Popmusik“ statt von „Liedern für Kinderprogramme“ anzunehmen.
 
 - **Vertiefung der musikalischen Begleitung**: Es war nicht nur ein Hintergrundgeräusch, sondern wurde als Klang zur Darstellung von Krieg und menschlichem Drama konstruiert.
 
@@ -138,7 +138,7 @@ Wir sind in eine Ära eingetreten, in der „Gundam-Musik“ nicht nur „Hinter
 
 ### 3.2 Beispiel: Soundtrack-Komposition der „Mobile Suit Gundam SEED“-Reihe
 
-Für „Mobile Suit Gundam SEED“ (2002-) waren Hiroyuki Kono und andere für die Musik verantwortlich und nicht der Komponist Hiroyuki Sawano, und der Titelsong, der Insert-Song, der Charaktersong, die Remix-CD und die „Suit-CD“ wurden entwickelt.
+Für „Mobile Suit Gundam SEED“ (2002-) waren Hiroyuki Kono und andere für die Musik verantwortlich und nicht der Komponist Hiroyuki Sawano, und es wurden der Titelsong, der Insert-Song, der Charaktersong, die Remix-CD und die „Suit-CD“ entwickelt.
 Diese Struktur zeigt, dass Gundam-Musik zu „einem Produkt/einer Kultur geworden ist, die nicht vom Werk getrennt werden kann“. Musik ist zu einer Marke geworden und funktioniert auch außerhalb von Produktionen (Live-Shows, Bonus-CDs, Kollaborationen).
 
 ### 3.3 Aktuelle Arbeit: Musikalisches Experiment in „Mobile Suit Gundam: Witch of Mercury“
@@ -184,7 +184,7 @@ Diese Remixe/Arrangements tragen dazu bei, das „Hören von Gundam“ zu förde
 
 ---
 
-## Kapitel 6: Diskussion und Zukunftsausblick
+## Kapitel 6: Diskussion und Zukunftsaussichten
 
 ### 6.1 Was ist die Universalität der Gundam-Musik?
 
@@ -262,7 +262,7 @@ Eine Pop-Einheit, die Ende der 1990er Jahre die Anime-Song-Szene repräsentierte
 
 - **Hiroko Moriguchi**
 
-Ein Sänger, der von den 1980er Jahren bis heute aktiv war. Er war für viele Titelsongs der Gundam-Serie verantwortlich, darunter den Eröffnungstitelsong für „Mobile Suit Zeta Gundam“, „With Love to the Star of Water“ und den Titelsong für „Mobile Suit Gundam F91“, „ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~“.
+Ein Sänger, der von den 1980er Jahren bis heute aktiv war. Er war für viele Titelsongs der Gundam-Serie verantwortlich, darunter den Eröffnungssong für „Mobile Suit Zeta Gundam“, „With Love to the Star of Water“ und den Titelsong für „Mobile Suit Gundam F91“, „ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~“.
 
 
 ---

@@ -55,7 +55,7 @@ Vers 2010, à mesure que la culture du partage sur Internet mûrissait, les anci
 
 ## Caractéristiques musicales : son et structure
 
-Les caractéristiques musicales de Dreamwave/Chill Synthwave sont la transparence des harmonies, la stabilité du tempo et la lenteur des changements de timbre. Des tempos moyens à lents sont principalement utilisés, le rythme est répétitif et la boîte à rythmes est souvent placée de manière sobre.
+Les caractéristiques musicales de Dreamwave/Chill Synthwave sont la transparence des harmonies, la stabilité du tempo et la lenteur des changements de timbre. Des tempos principalement moyens à lents sont utilisés, le rythme est répétitif et la boîte à rythmes est souvent placée de manière sobre.
 
 Les accords de septième majeure, add9 et sus sont souvent utilisés pour les harmonies, et l'accent est mis sur un sentiment de continuité plutôt que sur un sentiment de résolution. Bien que la mélodie ait un cœur chantant, elle évite les hauts et les bas excessifs et utilise de nombreuses notes soutenues et de longues notes des synthés principaux.
 

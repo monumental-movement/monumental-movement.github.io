@@ -109,7 +109,7 @@ La manipulation de bandes est devenue le prototype de l'électronique live ulté
 
 ### 7.1 Affirmation du bruit
 
-Avec la musique sur bande, la distorsion, le sifflement et les marques d'édition n'étaient pas éliminés, mais traités comme faisant partie de la structure musicale. Ceci est directement lié à l’esthétique de la pratique du bruit dans les années 1970.
+Avec la musique sur bande, la distorsion, le sifflement et les marques de montage n'étaient pas éliminés, mais traités comme faisant partie de la structure musicale. Ceci est directement lié à l’esthétique de la pratique du bruit dans les années 1970.
 
 ### 7.2 Bruit spécifique au média
 

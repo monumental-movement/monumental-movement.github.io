@@ -52,7 +52,7 @@ In der Romantik des 19. Jahrhunderts galt „Wahnsinn“ bei Dichtern und Malern
 Es pries den Adel der Seele, die nicht in die Gesellschaft passt. Byron, Rimbaud, Van Gogh.
 Diese Linie wird seit dem 20. Jahrhundert an Musiker und Filmregisseure weitergegeben.
 
-Sie machten „das Leben selbst“ zur Kunst.
+Sie machten das „Leben selbst“ zur Kunst.
 In dem Moment, in dem Arbeit und Leben zusammenpassen, wird das Publikum von der Wahrheit berauscht.
 
 ---

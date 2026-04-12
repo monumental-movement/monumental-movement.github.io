@@ -22,7 +22,7 @@ title: '[Kolumne] Geschichte des Future Jazz, berühmte Platten und Änderungen 
 
 Text: mmr｜Thema: Ein Genre, das den improvisatorischen Charakter des Jazz und die Innovation elektronischer Musik verbindet
 
-Future Jazz entstand in den frühen 1990er Jahren als ein Genre, das den improvisatorischen Charakter des Jazz mit der Innovation elektronischer Musik verbindet. Es entwickelte sich mit der Entwicklung der Clubkultur und einer neuen Generation von Musiktechnologie und ist eng mit Trends wie **Acid Jazz, Nu-Jazz und Broken Beat** verbunden. Im Folgenden werden wir die Entwicklung der Band im Laufe der Jahrzehnte verfolgen und die Veränderungen bei repräsentativen Meisterwerken und der verwendeten Ausrüstung erläutern.
+Future Jazz entstand in den frühen 1990er Jahren als ein Genre, das den improvisatorischen Charakter des Jazz mit der Innovation elektronischer Musik verbindet. Es entwickelte sich mit der Entwicklung der Clubkultur und einer neuen Generation von Musiktechnologie und ist eng mit Trends wie **Acid Jazz, Nu-Jazz und Broken Beat** verbunden. Im Folgenden werden wir die Entwicklung der Band im Laufe der Jahre verfolgen und die Veränderungen bei repräsentativen Meisterwerken und der verwendeten Ausrüstung erläutern.
 
 ---
 
@@ -214,7 +214,7 @@ Im Zeitalter von Streaming und KI wurde Future Jazz neu bewertet und mit modular
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
 | 1 | Alfa Mist | Weiter so | Melancholischer Future Jazz. |
-| 2 | Kamaal Williams | Warte | Ein repräsentativer zeitgenössischer Jazzsong aus London. |
+| 2 | Kamaal Williams | Warte | Ein repräsentatives zeitgenössisches Jazzstück aus London. |
 | 3 | Shabaka Hutchings | Hektik | Spirituell und kraftvoll. |
 | 4 | Nubya Garcia | Tempo | Saxophon sticht heraus. |
 | 5 | Blue Lab Beats | Ananas | Eine Fusion aus Hip-Hop und Jazz. |

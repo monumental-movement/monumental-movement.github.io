@@ -192,7 +192,7 @@ Auf YouTube haben sich Videogenres wie „Slowcore Edit“ und „Sadcore-Atmosp
 
 ---
 
-# 7. Slowcore seit 2000
+# 7. Slowcore seit den 2000ern
 ## ■ Beispiele für geerbte Künstler
 - **Duster** (1996~) Neubewertung
 - **Zigaretten nach dem Sex** (2012~)

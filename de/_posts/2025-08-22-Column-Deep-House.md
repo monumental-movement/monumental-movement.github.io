@@ -49,7 +49,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musikalische Features
 
-**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠Tragik“.
+**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠tragisch“.
 
 **Beat**: Der Kick hat einen runden und tiefen Nachgeschmack. Die Hi-Hat ist ein Shuffle zu einem leichten Swing. Die Texturen 909/707/727 und 808 sind Standard.
 
@@ -82,7 +82,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 - Mr. Fingers – Amnesie
 
-- Ron Trent – ​​​​Veränderte Zustände
+- Ron Trent – ​​​​Veränderte Staaten
 
 - Kerri Chandler – Atmosphäre
 
@@ -93,7 +93,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Chicago Deep**: Schwerer Kick + Soul-Reverb. Beispiel: Mr. Fingers, Ron Trent.
 
-**Jersey/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
+**Jersey-/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
 
 **Detroit Deep**: Lo-Fi-Textur mit Jazz-Soul-Feeling. Beispiel: Moodymann, Theo Parrish (an der Grenze).
 
@@ -204,4 +204,15 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musik, die man im Laufe der Zeit genießen kann, nicht in einem Moment
 
-Deep House ist Musik, die man im Laufe der Zeit genießen kann. Anstelle eines einzelnen, auffälligen Hits gibt es eine „bequeme Fortsetzung“, die Publikum und Zuhörer miteinander synchron hält. Wenn Sie alles verstehen, von historischen Ursprüngen bis hin zu aktuellen Substilen und den Geheimnissen der Produktion und des DJings, können Sie Ihre Auswahl und Ihr Verständnis erheblich vertiefen.
+Deep House ist Musik, die man im Laufe der Zeit genießen kann. Anstelle eines einzelnen, auffälligen Hits gibt es eine „bequeme Fortsetzung“, die Publikum und Zuhörer miteinander synchron hält. Wenn Sie alles verstehen, von historischen Ursprüngen bis hin zu aktuellen Substilen und den Geheimnissen der Produktion und des DJings, können Sie Ihre Auswahl und Wertschätzung erheblich vertiefen.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71eFE_9VizI?si=SJuJ1A6POH72lP09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

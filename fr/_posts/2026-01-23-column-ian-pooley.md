@@ -16,7 +16,7 @@ title: '[Chronique] Ian Pooley ── Les contours de la musique club des année
 
 
 
-## Première vie et parcours musical
+## Première vie et formation musicale
 
 Texte : mmr｜Thème : La présence importante qui soutient structurellement la house music depuis les années 1990
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Début de carrière et scène house britannique des années 1990
 
-Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, où le son minimal influencé par la techno de Détroit se croisait avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
+Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, le son minimal influencé par la techno de Détroit se croisant avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
 
 Vers 1994, son travail attire progressivement l'attention des DJ de clubs. La philosophie de conception consistant à se fondre dans le flux du mix sans utiliser de breaks flashy ou d'échantillons excessifs avait une valeur différente de celle des hits instantanés.
 
@@ -90,7 +90,7 @@ Le mixeur n'était pas seulement un dispositif de contrôle du volume, mais fonc
 
 De nombreux artistes travaillant dans le même contexte house britannique des années 90 se sont tournés vers une production davantage axée sur les échantillons ou centrée sur la voix. Pooley, de son côté, a continué à rechercher la beauté structurelle de la musique instrumentale.
 
-Par exemple, alors que les producteurs fortement influencés par la house américaine mettent l'accent sur les pics d'émotion, Pooley met l'accent sur le changement de groove au fil du temps. Il s’agit d’une approche rendue possible grâce à l’environnement de production dans lequel d’infimes différences s’accumulent lors du fonctionnement des équipements.
+Par exemple, alors que les producteurs fortement influencés par la house américaine mettent l'accent sur les pics d'émotion, Pooley met l'accent sur le changement de groove au fil du temps. Cette approche est possible en raison de l'environnement de production dans lequel des différences infimes s'accumulent lors du fonctionnement des équipements.
 
 ### Poste au sein de la UK House
 
@@ -102,7 +102,7 @@ Sur la scène house britannique, Pooley se situait quelque part entre le mainstr
 
 ## Importance du chef-d'œuvre et de l'album « Meridian »
 
-L'album Meridian, sorti en 1997, constitue une étape importante dans la carrière d'Ian Pooley. Dans cette œuvre, l'esthétique présentée dans les singles et les sorties 12 pouces a été organisée et intégrée dans le format de l'album.
+L'album Meridian, sorti en 1997, constitue une étape importante dans la carrière de Ian Pooley. Dans cette œuvre, l'esthétique présentée dans les singles et les sorties 12 pouces a été organisée et intégrée dans le format de l'album.
 
 Les chansons de « Meridian » mettent l'accent sur la durabilité plutôt que sur l'impact immédiat. Lorsqu’on l’écoute seul, cela semble sans prétention, mais au fur et à mesure que vous l’écoutez, la sophistication de sa structure émerge progressivement.
 
@@ -122,13 +122,13 @@ Les DJ ne « jouent » pas de chansons, ils les « arrangent ». Pooley a profon
 
 ### Comparaison avec les morceaux pour DJ contemporains
 
-À la fin des années 1990, de nombreux titres house se concentraient sur des effets immédiats et avaient une structure qui suscitait une réaction du public en peu de temps. Bien que ceux-ci aient été temporairement très efficaces, leur fréquence d’utilisation a eu tendance à diminuer à long terme.
+À la fin des années 1990, de nombreux morceaux house se concentraient sur des effets immédiats et avaient une structure qui suscitait une réaction du public en peu de temps. Bien que ceux-ci aient été temporairement très efficaces, leur fréquence d’utilisation a eu tendance à diminuer à long terme.
 
 Les chansons de Pooley, en revanche, suppriment intentionnellement le pic de réaction. Cela a permis aux DJ de concevoir eux-mêmes la dynamique de l’ensemble du set, et les chansons sont devenues un matériau réutilisable encore et encore.
 
 ### Rôle dans la culture house DJ britannique
 
-Pour les DJ house britanniques, les chansons de Pooley ont servi de plaque tournante inter-genres. Il peut être intégré naturellement dans des décors deep house, tech house ou minimalistes, et sa flexibilité est très appréciée.
+Pour les DJ house britanniques, les chansons de Pooley ont servi de plaque tournante inter-genres. Il peut être incorporé naturellement dans des décors deep house, tech house ou minimalistes, et sa flexibilité est très appréciée.
 
 Résultat : les camions de Pooley continuent de circuler tranquillement en dehors de la mode. C’est l’une des chansons les plus idéales de la culture DJ.
 
@@ -162,7 +162,7 @@ Début des années 1990 : production musicale à grande échelle
 1997 Sortie de l'album "Meridian"
 Poursuite d’activités de production stables depuis les années 2000
 
-> Ce qui se voit tout au long de la chronologie, c'est une attitude de production cohérente et inébranlable.
+> Ce que l'on peut constater tout au long de la chronologie, c'est une attitude de production cohérente et inébranlable.
 
 ---
 

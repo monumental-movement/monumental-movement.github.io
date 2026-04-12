@@ -25,7 +25,7 @@ In den späten 1960er Jahren wurden die amerikanische und britische Jugendkultur
 
 Jeans, Fransenjacken, Batikhemden, Sandalen und geblümte Haaraccessoires waren in Woodstock üblich. Insbesondere die ethnischen Westen und Perlenverzierungen, die Janis Joplin auf der Bühne trug, wurden zu Ikonen, die das Publikum nachahmen konnte, und die Teilnehmer brachten ihre eigenen Batik- und Blumenkränze mit, was den gesamten Veranstaltungsort zu einer Art Modenschau machte.
 
-In Großbritannien entstand Mitte der 1960er Jahre die Mod-Kultur. Die Londoner King's Road und Carnaby Street waren voller Miniröcke, Stiefel, Anzugjacken und modischer Mäntel, und der Streetstyle junger Leute entsprach den Bildern der Künstler. Bei den Konzerten der Beatles und Rolling Stones waren Musik und Mode eng miteinander verflochten, wobei das Publikum als Ausdrucksform die Kleidung der Künstler nachahmte.
+In Großbritannien entstand Mitte der 1960er Jahre die Mod-Kultur. Die Londoner King's Road und Carnaby Street waren voller Miniröcke, Stiefel, Anzugjacken und modischer Mäntel, und der Streetstyle junger Leute passte zu den Bildern der Künstler. Bei den Konzerten der Beatles und Rolling Stones waren Musik und Mode eng miteinander verflochten, wobei das Publikum die Kleidung der Künstler als eine Form des Selbstausdrucks nachahmte.
 
 > Festivals sind zu einem Prüfstein nicht nur für Musik, sondern auch für Mode als Ort der freien Selbstdarstellung geworden.
 
@@ -67,7 +67,7 @@ timeline
 
 Die Rave-Kultur der 1990er Jahre entstand in städtischen Lagerhäusern und verlassenen Fabriken. Der Hush Club in Manchester und der Tresor in Berlin waren Testgelände für die Verschmelzung von Musik und Mode. Die Teilnehmer trugen fluoreszierende Oberteile, Röhrenoberteile, LED-Accessoires und Plastikschmuck, um ein Erlebnis zu schaffen, das Licht und Musik kombinierte.
 
-Beim Berlin Techno Festival verwandelten Laser und Lichter, die auf den Böden und Wänden des Clubs installiert waren, die Besucher in „lebende Beleuchtungsgeräte“, da ihre Kleidung das Licht reflektierte und sich veränderte. Bei den Live-Shows von Underworld und Fatboy Slim fungierten Kostüme als visuelle Erweiterungen der Musik und verwischten die Grenzen zwischen Teilnehmer und Darsteller.
+Beim Berlin Techno Festival verwandelten Laser und Lichter, die auf den Böden und Wänden des Clubs installiert waren, die Besucher in „lebende Beleuchtungskörper“, da ihre Kleidung das Licht reflektierte und sich veränderte. Bei den Live-Shows von Underworld und Fatboy Slim fungierten Kostüme als visuelle Erweiterungen der Musik und verwischten die Grenzen zwischen Teilnehmer und Darsteller.
 
 > Kostüme, die das Musikerlebnis erweitern, haben eine Kultur geschaffen, in der Festivalteilnehmer selbst zu Kunstwerken werden.
 
@@ -85,7 +85,7 @@ timeline
 
 Der EDM-Boom der 2000er Jahre führte zur globalen Expansion großer Festivals wie Coachella, Ultra Music Festival und Tomorrowland. Nike, Adidas, Coach und andere stellten Festivalkleidung und Accessoires vor, und die Teilnehmer brachten ihre Individualität zum Ausdruck, indem sie Markenkleidung mit selbstgemachten Artikeln kombinierten.
 
-Bunte Sportbekleidung, Festival-spezifische Stiefel und glänzende Accessoires verstärkten den visuellen Eindruck beim Tanzen und Bewegen. Auf der Bühne von David Guetta leuchteten die LED-Armbänder der Teilnehmer synchron zur Musik auf und schufen so eine visuelle Performance, die Kostüme und Musik verschmolz.
+Bunte Sportkleidung, Festival-spezifische Stiefel und glänzende Accessoires verstärkten den visuellen Eindruck beim Tanzen und Bewegen. Auf der Bühne von David Guetta leuchteten die LED-Armbänder der Teilnehmer synchron zur Musik auf und schufen so eine visuelle Performance, die Kostüme und Musik verschmolz.
 
 > Die Beziehung zwischen Musik und Mode ist komplexer geworden und wir sind in eine Ära eingetreten, in der der Ausdruck von Individualität und der Wert einer Marke gleichzeitig angestrebt werden.
 
@@ -150,7 +150,7 @@ East Coast (Studio 54, Manhattan Warehouse Rave) hat einen wunderschönen Stil, 
 
 ### Großbritannien gegen Deutschland
 
-Punk-Raves in London und Manchester sind geprägt von DIY, Irokesen, zerrissenen T-Shirts und fluoreszierenden Oberteilen.
+Punk-Raves in London und Manchester zeichnen sich durch DIY, Irokesenschnitte, zerrissene T-Shirts und fluoreszierende Oberteile aus.
 In Berlin finden Techno- und Warehouse-Partys statt, wobei der Schwerpunkt auf der Lichterzeugung mit LED-Zubehör, Neonfarben und reflektierenden Materialien liegt.
 
 <div class="mermaid">

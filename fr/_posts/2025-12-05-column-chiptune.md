@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 : Les origines du 8 bits - Puces de source sonore Famicom et Game Boy
+## Chapitre 1 : Origine du 8 bits - Puce source sonore Famicom et Game Boy
 
 ### 1-1. "Ricoh 2A03" qui a déterminé le son de la Famicom/NES
 
@@ -89,8 +89,8 @@ Les ondes carrées ont une structure harmonique plus claire que les autres forme
 
 - **12,5 %** : Fin et pointu
 - **25 %** : Lumineux
-- **50 %** : Standard
-- **75 %** : Épais et doux
+- **50 %** : Standard
+- **75 %** : Épais et doux
 
 La majeure partie de « l’esprit de la chanson » de Chiptune réside ici.
 
@@ -181,7 +181,7 @@ Chiptune ne se limite en aucun cas à une « reproduction de musique de jeu », 
 
 ## Chapitre 6 : Analyse technique Chiptune et méthode de composition
 
-### 6-1. Construire une mélodie principale
+### 6-1. Construisez une mélodie principale
 
 - Utilise une onde carrée avec un rapport cyclique de 25% / 50%
 - Slide et vibrato conservent les caractéristiques de la puce source sonore
@@ -274,3 +274,11 @@ La liberté de la chaîne Wave est à l'origine de la musique numérique.
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aO1nwUlb9NY?si=UIFZl3C_-Ys-NfHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

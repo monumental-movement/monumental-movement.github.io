@@ -26,7 +26,7 @@ Texte : mmr｜Thème : Chill-out et esthétique du rythme profond
 ### Qu'est-ce que le downtempo ?
 Le "Downtempo", comme son nom l'indique, est un type de musique électronique au tempo lent. Généralement, le BPM (tempo) se situe autour de 60 à 110, et il se caractérise par des rythmes et des sons relaxants destinés à l'écoute et à la détente, plutôt que par des rythmes intenses pour les clubs.
 
-Entre les battements de cœur palpitants et l’agitation, un soudain silence apparaît. Si c'est de la musique, le downtempo est ce moment de respiration profonde. Dans le monde de la culture club et de la musique électronique, ce genre de musique se situe à l'opposé des rythmes rapides comme la techno et la house, mais c'est un genre musical proche des émotions de l'auditeur et qui se fond dans la nuit de la ville. C'est du downtempo.
+Entre les battements de cœur palpitants et l’agitation, un soudain silence apparaît. Si c'est de la musique, le downtempo est ce moment de respiration profonde. Dans le monde de la culture club et de la musique électronique, c'est un genre musical qui se situe à l'opposé des rythmes rapides de la techno et de la house, mais qui est proche des émotions de l'auditeur et se fond dans la nuit de la ville. C'est du downtempo.
 
 Le downtempo est créé à l'intersection de plusieurs genres, notamment la sensation flottante de l'ambient, les grooves du hip-hop et les éléments organiques du jazz et de la soul.
 Bien qu'il recoupe souvent des styles tels que le chillout, le trip hop et la musique lounge, il est également utilisé comme terme général pour désigner un groove doux qui englobe ces styles.
@@ -57,7 +57,7 @@ La structure des chansons downtempo varie, mais le dénominateur commun est un r
 
 - Beats Loopy (breakbeats et batterie dérivée du hip-hop)
 
-- ligne de basse chaude et profonde
+- ligne de basse profonde et chaude
 
 - Pads et échantillons traités par effets
 

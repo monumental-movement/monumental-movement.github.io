@@ -11,8 +11,8 @@ tags:
 - Nostalgia
 - Citypop
 - Retro
-title: '[Chronique] Le boom des « chansons rétro Showa » s''étend à l''étranger :
-  Quand la nostalgie traverse les frontières'
+title: '[Chronique] Le boom des « Showa retro songs » s''étend à l''étranger : Quand
+  la nostalgie traverse les frontières'
 ---
 
 
@@ -28,7 +28,7 @@ L'apparition soudaine de « Midnight Door~Stay With Me » de Miki Matsubara et
 Cependant, ce « renouveau de la pop Showa » n’est pas qu’un passe-temps nostalgique. Il s'agit plutôt d'une **redécouverte des sensations analogiques à l'ère numérique** et d'un nouveau phénomène culturel de **« partage émotionnel » mondial**.
 
 Dans cet article, nous explorerons comment les chansons Showa résonnent à l’étranger et comment elles sont reçues et reconstruites.
-Nous l'explorerons sous plusieurs angles, notamment (1) le contexte historique, (2) l'environnement médiatique, (3) la structure de réception à l'étranger et (4) la perspective de la traduction musicale.
+Nous l'explorerons sous plusieurs angles, notamment 1) le contexte historique, 2) l'environnement médiatique, 3) la structure d'accueil à l'étranger et 4) les perspectives de traduction musicale.
 
 ---
 
@@ -53,7 +53,7 @@ La gamme est extrêmement large, depuis les sentiments enka d'Hibari Misora, jus
 
 Cependant, ce qu'ils ont en commun, c'est « la croyance en la mélodie » et le « romantisme dans l'ombre du temps ».
 Les chansons Showa, qui se sont développées avec la croissance économique d'après-guerre, ont établi un « axe de coordination émotionnelle » dans la vie des gens.
-Par exemple, les mélodies de Takashi Miki ont un sentiment de nostalgie et les arrangements de Kyohei Tsutsumi ont un côté urbain. **
+Par exemple, les mélodies de Takashi Miki ont un sentiment de nostalgie et les arrangements de Kyohei Tsutsumi évoquent un rêve de ville. **
 
 Cette « réverbération des rêves » deviendra plus tard le moteur qui attire les jeunes d’outre-mer.
 
@@ -76,7 +76,7 @@ Musique appelée à l'origine « pop urbaine » au Japon,
 ## Chapitre 3 : Vaporwave et l'illusion de l'ère Showa
 
 Vaporwave est un mouvement artistique né de la culture américaine des babillards électroniques au début des années 2010.
-De vieilles publicités japonaises, des graphiques numériques des années 1980 et des images sonores déformées de cassettes ont été reconstitués comme les « réverbérations » de la société de consommation.
+De vieilles publicités japonaises, des graphiques numériques des années 1980 et des images sonores déformées provenant de cassettes ont été reconstitués comme les « réverbérations » de la société de consommation.
 
 Ce n’est pas un hasard si les mélodies et les sons des chansons Showa ont été naturellement fusionnés ici.
 **Réverbération douce, douceur urbaine et romantisme à outrance. **

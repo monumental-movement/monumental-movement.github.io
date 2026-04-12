@@ -48,7 +48,7 @@ color: #fff;
 ### Chicago Club – Lagerhaus und seine Räume
 
 Das Haus in Chicago entwickelte sich rund um den „Warehouse Club“.
-Das 1977 eröffnete Warehouse war eine verlassene städtische Fabrik, die in einen Warehouse-Club umgewandelt wurde, der legendär wurde, als Frankie Knuckles dort als DJ auftrat.
+Das 1977 eröffnete Warehouse war eine verlassene städtische Fabrik, die in einen Warehouse-Club umgewandelt wurde, der legendär wurde, als Frankie Knuckles dort als DJ auflegte.
 
 Der riesige Raum des Lagerhauses, die Höhe der Decke und das Echo des Betons verliehen der Musik eine einzigartige Tiefe und Dynamik. Die Klänge auf dem Boden hallten in den Körpern des Publikums wider und schufen so ein Gemeinschaftserlebnis, das über ein bloßes Musikerlebnis hinausging.
 
@@ -207,6 +207,16 @@ Die von Pionieren wie Frankie Knuckles und Larry Heard geschmiedete Verschmelzun
 Sein Einfluss erstreckt sich auf britischen Acid House, Detroit Techno, modernen EDM und Deep House, und Chicago Beats leben auch heute noch in Clubs auf der ganzen Welt weiter. Chicago House ist sowohl ein Erbe der Vergangenheit als auch ein Leuchtturm für die Musikkultur der Zukunft.
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CBljRXzYvk?si=3mJHk6QtxdBAihsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Verwandte Spalten
 

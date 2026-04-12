@@ -50,7 +50,7 @@ color: #fff;
 ## 2. Establishment of French Touch: Situation in Paris in the late 1990s
 ### ● Background: An encounter between house and disco
 In the mid-1990s, the Parisian club scene absorbed American house music while forming a unique structure that brought disco/soul samples to the fore.
-While the influence of Chicago House was strong, house began to function as a new type of ""pop music" by mixing in the ""sophisticated melodic feel" unique to Europe.
+While strongly influenced by Chicago House, house began to function as a new type of ""pop music" as it mixed with a ""sophisticated melodic feel" unique to Europe.
 
 ### ● Existence of label/base
 - **Roulé (Thomas Bangalter)**

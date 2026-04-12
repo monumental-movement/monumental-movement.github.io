@@ -50,7 +50,7 @@ Wie Stockhausen und Varèse entwickelte Macero schon früh ein Bewusstsein dafü
 In den späten 1950er Jahren wurde er Mitarbeiterproduzent bei Columbia Records und arbeitete mit Künstlern wie Miles Davis und Dave Brubeck zusammen.
 Was ihn jedoch von anderen Produzenten unterschied, war, dass er den Schnitt selbst als einen Ort der Schöpfung verstand.
 
-> „Auch nach dem Ende der Aufführung hört die Musik nicht auf. Im Schnittraum beginnt sie von vorne.“
+> „Auch nach dem Ende der Aufführung endet die Musik nicht. Im Schnittraum beginnt sie von vorne.“
 > — Teo Macero
 
 ---
@@ -86,7 +86,7 @@ flowchart LR
 Mit Bitches Brew aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch mehr.
 Mehr als sechs Tonbandgeräte liefen gleichzeitig, sodass das Studio wie ein Labor wirkte.
 
-Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer Flut fragmentierter Improvisationen führt.
+Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer **Flut fragmentierter Improvisation** führt.
 Macero fügte diese Fragmente zu Einheiten von mehreren Metern zusammen und gestaltete durch Bearbeitung den rhythmischen Fluss und den akustischen „Ort“.
 
 > „Ich habe die Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
@@ -117,7 +117,7 @@ graph TD
 
 ## Kapitel 4: Die Idee der Bearbeitung = Komposition
 
-Der größte Beitrag von Teo Macero bestand darin, die Aufnahmetechnologie von einem Hilfswerkzeug zu einem kreativen Medium zu machen.
+Teo Maceros größter Beitrag bestand darin, die Aufnahmetechnologie von einem Hilfswerkzeug zu einem kreativen Medium zu machen.
 Es war der Vorläufer des Paradigmas „Bearbeiten = Komponieren“.
 
 - Strukturumwandlung durch physikalisches Schneiden (Bandspleiß)
@@ -216,7 +216,7 @@ Es war ein Akt des Komponierens, so wie ein Architekt einen Raum entwirft.
 
 ---
 
-## Kapitel 9: Philosophische Aspekte der Bearbeitungstechnologie —— Die Idee des „Komponierens von Ohren“
+## Kapitel 9: Philosophische Aspekte von Bearbeitungstechniken —— Die Idee des „Komponierens von Ohren“
 
 Macellos redaktionelle Philosophie besteht darin, Aufnahmen nicht als „objektive Aufzeichnungen“, sondern als „rekonstruierte Erfahrungen“ zu betrachten.
 Hier gibt es eine philosophische Grundlage, die sich durch die gesamte Kunst des 20. Jahrhunderts zieht.
@@ -238,7 +238,7 @@ Für ihn war Improvisation die „Generierung von Materialien“ und der Schnitt
 
 ## Kapitel 10: Akustische Analyse – „Hörstruktur“, erstellt durch Bearbeitung
 
-Die Bearbeitung durch Teo Macero veränderte nicht nur die Komposition der Musik, sondern veränderte auch den akustischen Raum und die Struktur des Hörens.
+Die Bearbeitung durch Teo Macero veränderte nicht nur die Songstruktur, sondern veränderte auch den akustischen Raum und die Struktur des Hörens.
 Besonders beim Vergleich von „In a Silent Way“ und „Bitches Brew“ erkennt man eine klare Klangphilosophie in der Schnittrichtung.
 
 | Elemente | „In a Silent Way“ (1969) | „Bitches Brew“ (1970) |
@@ -247,7 +247,7 @@ Besonders beim Vergleich von „In a Silent Way“ und „Bitches Brew“ erkenn
 | Bearbeitungsmethode | Nehmen Sie Umkehr/Schleife | Spleiß + Mehrschichtanordnung |
 | Akustische Empfindung | Flüssig und meditativ | Dicht und explosiv |
 | Stereoraum | Betonung der Geräumigkeit (Links- und Rechtstrennung) | Schwerpunkt auf Dichte (Zentrumskonzentration) |
-| Rhythmus aufbauen | Mit der Bearbeitung den Groove betonen | Konfliktgestaltung mit Bearbeitung |
+| Rhythmus aufbauen | Den Groove durch Schnitt betonen | Konfliktgestaltung mit Bearbeitung |
 | Zweck | „Zeitlosen“ Klang erzeugen | Aufbau einer „Ordnung des Chaos“ |
 
 Diese akustischen Designs waren auch das Ergebnis der Ausnutzung der damaligen Einschränkungen der analogen Technologie.
@@ -285,7 +285,7 @@ Man kann sagen, dass Maceros bearbeiteter Sound bereits die „Skulptur der Zeit
 
 ---
 
-## Ergänzende Abbildung: „Komposition durch Bearbeitung“-Modell im Macero-Stil
+## Ergänzende Abbildung: „Komposition durch Bearbeitung“-Modell im Masero-Stil
 
 <div class="mermaid">
 
@@ -388,7 +388,7 @@ flowchart LR
 | Spleiß ① | Erzwungener Übergang vom Drum/Bass-Layer zum Trompetensolo | So schneiden, dass es wie eine „spontane“ Komposition aussieht |
 | Spleiß ② | Verbindung der Sitzungen B und C (Tempoinkongruenz) | Hörverwirrung → Trance-Effekt |
 | Spleiß ③ | Übereinanderlegen verschiedener Rhythmusebenen | Mehrschichtige Rillen |
-| Spleißen ④ | Rekursives Einfügen eines Themas | Strukturelle Zirkularisierung (In a Silent Way-Technik) |
+| Spleiß ④ | Rekursives Einfügen eines Themas | Strukturelle Zirkularisierung (In a Silent Way-Technik) |
 
 
 ---
@@ -409,7 +409,7 @@ graph TD
 </div>
 
 Diese „bearbeitete Partitur“ enthält die Zeit, das Tempo und den Quell-Take jedes Segments.
-Macero nannte es die „Karte des Klangs“.
+Macero nannte es die „Landkarte des Klangs“.
 Man kann sagen, dass sie der später von Brian Eno vertretenen „Studiokompositionsmethode“ vorausging.
 
 ---
@@ -461,7 +461,7 @@ sequenceDiagram
 </div>
 
 Der Schnitt in „Bitches Brew“ ist eine „Post-Recording-Erweiterung“ der Jazzimprovisation.
-Maseros Kunst liegt an der Grenze zwischen der Unmittelbarkeit der Aufführung und der Konstruktion des Schnitts.
+Masellos Kunst liegt an der Grenze zwischen der Unmittelbarkeit der Aufführung und der Konstruktion des Schnitts.
 Es war ein Versuch, den Studioraum als „ein weiteres Instrument“ zu nutzen.
 
 ---

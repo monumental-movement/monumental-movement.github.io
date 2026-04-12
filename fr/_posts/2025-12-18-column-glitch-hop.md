@@ -57,7 +57,7 @@ L'arrangement de base de la grosse caisse et de la caisse claire est relativemen
 
 ### 2.3 Conception sonore
 
-Dans Glitch Hop, le ton joue un rôle plus important que la mélodie. La basse est conçue avec une structure multicouche allant des basses aux médiums, et la distorsion, le broyeur de bits, la mise en forme d'onde, etc. sont appliqués par étapes. Dans les hautes fréquences, des bruits, des clics et de courts fragments granulaires sont placés comme des accents spatiaux.
+Dans Glitch Hop, le ton joue un rôle plus important que la mélodie. La basse est conçue avec une structure multicouche allant des basses aux médiums, et la distorsion, le broyeur de bits, la mise en forme des ondes, etc. sont appliqués par étapes. Dans les hautes fréquences, des bruits, des clics et de courts fragments granulaires sont placés comme des accents spatiaux.
 
 ---
 
@@ -193,7 +193,7 @@ La gamme des hautes fréquences est responsable des informations spatiales et de
 
 Dans un mixage Glitch Hop, la profondeur ne s'exprime pas par la quantité de réverbération, mais par la netteté de l'attaque et le taux de décroissance. Les notes placées au recto ont des queues courtes, tandis que les notes placées au verso ont de longues queues.
 
-Alors que la gamme basse est fixée presque au centre, les éléments glitch des gammes moyenne et haute sont activement placés à gauche et à droite. Autopan est souvent utilisé pour éviter le positionnement statique.
+Alors que la plage basse est fixée presque au centre, les éléments glitch dans la plage moyenne et haute sont activement placés à gauche et à droite. Autopan est souvent utilisé pour éviter le positionnement statique.
 
 ---
 

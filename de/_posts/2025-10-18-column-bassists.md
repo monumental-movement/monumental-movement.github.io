@@ -75,7 +75,7 @@ Rhythmus, der zwischen Klängen spricht – das hat den Jazz zur Kunstform erhob
 ---
 
 Yoshio Suzuki und Kunimitsu Inaba, die Nachkriegs-Jazzcafés in Japan unterstützten,
-Genießen Sie diese „Freiheit der Bassklänge“ mit der Sensibilität unseres eigenen Landes,
+Genießen Sie diese „Freiheit der Bassklänge“ mit den Sensibilitäten Ihres eigenen Landes,
 Schon bald kreierten sie nachts in Tokio ihren eigenen, einzigartigen Groove.
 
 ---
@@ -127,7 +127,7 @@ Was er etablierte, war die Ästhetik des „Grooves auf Japanisch“.
 ---
 
 Hironori Ito von der Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-Sie haben einen Weltklasse-Sound zwischen populären Songs und AOR geschaffen.
+Sie haben einen Sound geschaffen, der die Welt zwischen populären Liedern und AOR verbindet.
 Die Bassgitarre spielte hinter den Kulissen keine Rolle mehr, sondern wurde zu einem Element, das die „Würde“ der Musik unterstützte.
 
 ---

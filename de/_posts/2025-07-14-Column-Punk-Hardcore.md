@@ -131,7 +131,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 </table>
 </div>
 
-Die beiden stehen jedoch nicht in einer widersprüchlichen Beziehung. Man kann sagen, dass Hardcore eine weiterentwickelte oder verzweigte Form von Punk ist, oder vielmehr kann man es so interpretieren, dass Hardcore radikaler wird, weil man versucht, die fundamentalistischen Aspekte des Punks beizubehalten.
+Die beiden stehen jedoch nicht in einer widersprüchlichen Beziehung. Man kann sagen, dass Hardcore eine weiterentwickelte oder verzweigte Form des Punk ist, oder vielmehr kann man es so interpretieren, dass Hardcore radikaler wird, weil man versucht, die fundamentalistischen Aspekte des Punks beizubehalten.
 
 
 <hr>
@@ -144,7 +144,7 @@ Es hat sich in verschiedene Subgenres wie Post-Hardcore, Emo, Crustcore und Melo
 
 In Japan hat Hardcore-Punk (GAUZE, Lip Cream, G.I.S.M. usw.) eine einzigartige Kultur geschaffen.
 
-Heutzutage gibt es eine Neubewertung der Festivals der Generation Z und der DIY-Generation und sie behalten weiterhin ihre Stärke als Subkultur.
+Mittlerweile gibt es eine Neubewertung der Generation-Z- und DIY-Festivals und sie behalten weiterhin ihre Stärke als Subkultur.
 
 
 <hr>

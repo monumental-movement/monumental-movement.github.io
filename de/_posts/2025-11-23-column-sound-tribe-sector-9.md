@@ -89,7 +89,7 @@ Repräsentatives Lied:
 - „Atlas“
 - "Etwas"
 - „Arigato“
-- „Tokio“
+-"Tokio"
 -„Völker“
 
 Diese werden in der aktuellen Setlist häufig gespielt und symbolisieren am besten das musikalische Image von STS9.
@@ -148,7 +148,7 @@ Seit Beginn von STS9
 - Pädagogische Unterstützung
 - Umweltschutz
 - Lokale Aktivitäten
-Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen wie:
+Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen, wie z
 
 Es gibt auch viele Auftritte, bei denen ein Teil des Live-Ticket-Erlöses gespendet wird, und viele Lieder, die soziale Themen zum Thema haben.
 Insbesondere „Peaceblaster“ (2008) wird als konzeptionelle Arbeit mit politischen und ökologischen Themen als Hintergrund positioniert.
@@ -168,7 +168,7 @@ Bei den Live-Arrangements gab es viele Versuche, vergangene Songs im EDM-Stil zu
 
 ## 5-3. Aktueller STS9
 
-In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner behauptet, veranstaltete aber auch seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine Community-ähnlichen Aktivitäten.
+In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner behauptet, veranstaltete aber auch seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine gemeinschaftsähnlichen Aktivitäten.
 
 ---
 
@@ -193,7 +193,7 @@ Um das Gefühl von Electronica bei Live-Auftritten zu reproduzieren,
 - Granulare Verarbeitung
 Jedes Instrument nutzt diese aktiv.
 
-Dies sorgt auch bei Live-Auftritten für **akustische Dichte** und erzeugt ein dreidimensionales Gefühl, das dem eines DJ-Sets ähnelt.
+Dies gewährleistet auch bei Live-Auftritten eine **akustische Dichte** und erzeugt ein dreidimensionales Gefühl, das dem eines DJ-Sets ähnelt.
 
 ---
 
@@ -280,7 +280,7 @@ Die Live-Shows von STS9 passen gut zu Festivals.
 - Bonnaroo
 - Elektrischer Wald
 - Suwannee Hulaween
-Ihre „Late Night Sets“ auf großen Festivals wie „Late Night“ sind legendär.
+Ihre „Late-Night-Sets“ auf großen Festivals wie „Late Night“ sind legendär.
 
 ## 11-3. Pionierbeispiele von Community-Künstlern
 
@@ -298,7 +298,7 @@ Er ist eine seltene Person, die dies seit über 20 Jahren fortsetzt.
 Die Musik ist nie nur mit aufgenommenen Werken vollständig,
 Es wird ständig mit dem „Hier und Jetzt“-Erlebnis einer Live-Aufführung aktualisiert.
 
-Ihre Schritte sind
+ihre Schritte sind
 ** „Wie nah kann eine Live-Band an elektronische Musik herankommen?“
 „Inwieweit kann elektronische Musik die Dynamik von Live-Musik einfangen?“**
 Es ist ein fortlaufendes Experiment zur Beantwortung dieser Frage und kann als eines der Symbole der Musikkultur des 21. Jahrhunderts selbst bezeichnet werden.

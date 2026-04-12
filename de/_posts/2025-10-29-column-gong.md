@@ -18,7 +18,7 @@ title: '[Kolumne] Gong-Legende: Ära, Mythos, Klang und Gemeinschaft'
 ## 1. Einführung: Musiker als Wissenschaftler
 
 
-Text: mmr | Thema: Gong, die „kosmische Gemeinschaft“, aufgebaut von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
+Text: mmr｜Thema: Gong, die „kosmische Gemeinschaft“, gegründet von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
 
 > „Wir waren eine fliegende Teekanne, die durch die Revolution segelte.“
 > - Daevid Allen
@@ -99,7 +99,7 @@ Beim Gleiten der Saiten verändert sich der Klang wie eine Flüssigkeit.
 - **Space Whisper** von Gilly Smith:
 Er murmelt mit leiser Stimme, als würde er durch den Raum schweben und die Klanglandschaft einhüllen.
 
-Hinzu kommen Didier Margrives Saxophon und Pierre Moherlins Percussion, wodurch eine harmonische Mischung aus Jazz, Rock und poetischer Rezitation entsteht.
+Hinzu kommen das Saxophon von Didier Margrive und die Percussion von Pierre Moherlin, wodurch eine harmonische Mischung aus Jazz, Rock und poetischer Rezitation entsteht.
 
 > 🎧 Hörempfehlungen: *Fliegende Teekanne*, *Angel’s Egg*, *You*
 
@@ -120,7 +120,7 @@ Dabei handelt es sich nicht nur um Alben, sondern um mythologische Epen von „P
 | Pot Head Pixies | Geister des Glücks und des Chaos |
 | Oktavdoktor | Wissenschaftler, der Klang und Ordnung manipuliert |
 
-> „Ich bin dein Radiozwerg, direkt vom Planeten Gong …“
+> „Ich bin dein Funkzwerg, direkt vom Planeten Gong …“
 
 Gong begründete das Konzept des „narrativen Klangs“ in der Musik.
 
@@ -168,7 +168,7 @@ Auch nach Allens Tod im Jahr 2015 lebt Gong als „sich regenerierendes kollekti
 ## Kapitel 8 Die Welt der Gong-Mythologie – Charaktere, Ikonographie und Weltanschauung {#chapter8}
 
 Gong ist eine umfassende Kunst, die Musik, Mythologie und Kunst integriert.
-Im Mittelpunkt der Radio Gnomes-Trilogie stehen Charaktere, Planeten, Sprachen, Sender usw., die eng miteinander verflochten sind.
+Im Mittelpunkt der Radio-Gnome-Trilogie stehen Charaktere, Planeten, Sprachen, Sender usw., die eng miteinander verflochten sind.
 
 Unten ist ein Diagramm, das seine symbolische Struktur zeigt:
 

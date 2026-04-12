@@ -77,7 +77,7 @@ It"s a testament to the genre"s flexibility that it was able to coexist with agg
 
 From the late 1990s to the 2000s, DAWs and software samplers became popular, and the production environment changed significantly. The once expensive hardware is gradually becoming obsolete, and editing accuracy is dramatically improving.
 
-Even so, the sample culture centered around the Amen Blake continued to be inherited, processed, and reinterpreted. The extremely finely chopped breaks became the core of creating the tension unique to drum & bass.
+Even so, the sample culture centered around the Amen Blake continued to be inherited, processed, and reinterpreted. The extremely finely chopped breaks became the core of creating the tension unique to drum and bass.
 
 > Advances in technology have changed the expression, but the essence of the obsession with rhythm has remained the same.
 
@@ -85,7 +85,7 @@ Even so, the sample culture centered around the Amen Blake continued to be inher
 
 ## Temporary decline and mainstreaming
 
-In the mid-2000s, drum"n"bass became incorporated into pop music and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the level of attention to it decreased relatively.
+In the mid-2000s, drum"n"bass became incorporated into pop music and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the attention level relatively declined.
 
 However, the genre itself did not disappear during this period, and the underground scene continued to see releases and events. In fact, in some ways, the lack of outside attention has led to a deepening of introversion.
 
@@ -105,7 +105,7 @@ Also, with the spread of the Internet and distribution platforms, it has become 
 
 ## Influence on contemporary music
 
-In today"s electronic music, hip-hop, and experimental music, there are many rhythmic structures that clearly have a jungle/drum"n'bass influence. The irregular, propulsive beat in particular has been cited across genres.
+There are many rhythmic structures in current electronic music, hip-hop, and experimental music that have clear influences from jungle/drum"n"bass. The irregular, propulsive beat in particular has been cited across genres.
 
 This influence is often more structural than timbral, and extends to reinterpretations of breakbeats.
 

@@ -24,7 +24,7 @@ Texte : mmr｜Thème : Festivals et villes, son et lumière, foules et technolog
 Un éclair de lumière laser divise le ciel nocturne, la basse tremble profondément dans son corps et d'innombrables bras se lèvent à l'unisson.
 Le phénomène appelé « EDM » était plus qu’un simple genre musical, c’était une célébration de l’ère numérique.
 Dans les années 2010, les villes du monde entier ont été remodelées par le son. Le désert de Las Vegas, les forêts de Belgique, la baie de Tokyo.
-Dans cette chronique, nous examinerons la naissance, la transformation et « l'au-delà » de l'EDM, à l'intersection du son, de la lumière, du corps et de la technologie.
+Dans cette chronique, nous examinerons la naissance, la transformation et « l'au-delà » de l'EDM à l'intersection du son, de la lumière, du corps et de la technologie.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWb5Qc-fBvk?si=636O5zlmISbww-15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -81,7 +81,7 @@ Ces développements ont abouti à une « militarisation du son ».
 
 Surtout la compression de la chaîne latérale.
 Ce « pompage » unique qui fait respirer tout le corps au rythme du coup de pied.
-C'est le battement de cœur d'EDM.
+C'est le cœur de l'EDM.
 C’est l’époque où les techniques de la musique de club furent étendues au grand public.
 
 ---
@@ -231,7 +231,7 @@ flowchart TD
 | Synthé | Sérum Xfer | Symbolise le design tonal de l'EDM moderne |
 | Synthé | NI Massif | Pilier de la fin des années 2000 et du début des années 2010 |
 | Synthé | Sylenth1 | Fort dans les sons lead classiques |
-| Plugin | Waves L2/FabFilter Pro-L | Norme de mastering qui a soutenu les guerres du volume |
+| Plug-in | Waves L2/FabFilter Pro-L | Norme de mastering qui a soutenu les guerres du volume |
 | Matériel DJ | Série CDJ pionnière | Équipement de jeu DJ standard mondial |
 | Moniteur | KRK Rokit/Yamaha HS5 | Un moniteur indispensable pour les producteurs de chambres |
 

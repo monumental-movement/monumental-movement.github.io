@@ -24,7 +24,7 @@ Texte : mmr | Thème : Une époque où l’IA crée de la musique et où les hu
 En 2025, on ne parlera plus de musique en termes de « genre ».
 L'expérience d'écoute sur Spotify et Apple Music est réorganisée pour s'adapter à l'ambiance, au moment et à l'occasion, dépassant les catégories « rock », « hip-hop » et « électronique ».
 
-« Écouter un jour de pluie », « Piste à 2 heures du matin », « Matin avec café » : ces titres de liste indiquent une nouvelle valeur : « le contexte plutôt que le genre ».
+« Écouter un jour de pluie », « Piste à 2 heures du matin » et « Une matinée passée avec un café ». Ces titres de liste indiquent une nouvelle valeur : « le contexte plutôt que le genre ».
 On parle de la musique non pas en termes de ce dont elle est faite, mais en fonction de la façon dont elle résonne/s'adapte aux situations.
 
 Au cœur de ce changement se trouvent l’IA, la nostalgie et la « mémoire » de l’auditeur.
@@ -128,7 +128,7 @@ La caractéristique de 2025 est la coexistence du calme (Minimal) et de la densi
 
 #### « Club tranquille » et « electronica introspective »
 
-La popularité des « slow grooves » comme l'Afro House et l'Amapiano symbolise une époque où la danse peut aussi être « introspection ».
+La popularité des « grooves lents » comme l'Afro House et l'Amapiano symbolise une époque où la danse peut aussi être « introspection ».
 Des sets de 100 à 110 BPM deviennent la norme dans les clubs de Berlin et de Séoul, créant un espace où l'on peut « réfléchir en dansant ».
 Au Japon, les festivals gastronomiques, alias foodman et yahyel, explorent la « musique de club tranquille ».
 
@@ -150,7 +150,7 @@ La musique n’est pas consommée comme une « chose » mais comme un « moment 
 #### Maturation de la culture playlist
 
 Sur Spotify, les « playlists basées sur l'ambiance » sont devenues courantes, et il semble que « la musique fasse désormais partie de l'arrière-plan ».
-Mais en réalité, parce qu’il s’agit d’un « arrière-plan », il est nécessaire qu’il « entre en résonance avec l’environnement ».
+Mais en réalité, parce qu’il s’agit d’un « arrière-plan », il doit « entrer en résonance avec l’environnement ».
 Les auditeurs recherchent des « chansons qui changent l’atmosphère » et les artistes créent des « chansons qui dessinent des lieux ».
 
 #### Redéfinir le format de l'album

@@ -29,7 +29,7 @@ Les éléments d'identification de la musique, tels que la mesure, la mélodie e
 * Réverbération spatiale
 *Source sonore inconnue
 
-Ritual Ambient se distingue par le fait qu'il utilise cette méthode de type Dark Ambient tout en introduisant une « structure progressive » claire. Le ritualisme ne s’établit pas à travers des symboles, mais à travers l’agencement des sons et la conception de leur durée.
+Ritual Ambient se distingue par le fait qu'il utilise cette méthode de type Dark Ambient tout en introduisant une « structure progressive » claire. Le ritualisme s'établit non pas à travers des symboles, mais à travers l'agencement des sons et la conception de leur durée.
 
 
 ---
@@ -54,9 +54,9 @@ De la fin des années 1970 aux années 1980, les gens autour de la musique indus
 
 * Utilisation de sons d'usine, de sons médicaux et de sons environnementaux
 * Conception de fréquence en gardant à l'esprit l'inconfort
-* Refus de répéter ou d'élargir
+* Refus de répéter ou de développer
 
-Ces tentatives ont abouti à une « musique qui ne peut pas être entendue », ce qui a jeté les bases du son immersif auquel aspirait plus tard Dark Ambient.
+Ces tentatives ont abouti à une « musique qui ne peut pas être entendue » et ont jeté les bases du son immersif auquel aspirait plus tard Dark Ambient.
 
 ---
 

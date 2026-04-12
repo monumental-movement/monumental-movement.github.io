@@ -40,7 +40,7 @@ color: #fff;
 ## Chapitre 1 : Début de carrière et début de carrière
 
 ### 1.1 Enfance et origine du surnom
-- **Vrai nom/naissance**
+- **Vrai nom/Naissance**
 Le vrai nom de M. Vegas est **Clifford Smith**. Né le 29 septembre 1974 à Kingston, Jamaïque.
 - **Pseudo "M. Vegas"**
 Enfant, elle jouait au football en short rose à l'école et ses camarades de classe la comparaient à une « fille de Vegas ». Le surnom de « Mr.Vegas » a été adopté comme nom de scène.
@@ -69,7 +69,7 @@ Il a enregistré « Nike Air » avec un producteur, même avec la mâchoire tend
 - **Thème des paroles**
 Il contient des messages critiques et moraux sur le comportement sexuel et met en lumière le respect d'elles-mêmes des femmes et la force de leur insistance à dire « non ».
 - **Reconnaissance internationale**
-Ce fut un succès non seulement en Jamaïque, mais aussi en Angleterre et aux États-Unis.
+Ce fut un succès non seulement en Jamaïque mais aussi en Angleterre et aux États-Unis.
 - **Prix**
 A remporté le titre de « Meilleur artiste reggae » aux MOBO Awards.
 
@@ -186,7 +186,7 @@ Passionné par l'éducation, les commentaires sociaux et la préservation de la 
 | Année | Événements |
 |---|---|
 | 1974 | Clifford Smith (M. Vegas), né à Kingston |
-| 1997 | "Nike Air" enregistré malgré une blessure à la mâchoire |
+| 1997 | « Nike Air » enregistré malgré une blessure à la mâchoire |
 | 1998 | Sortie du single « Heads High » et du premier album « Heads High » |
 | 2001 | Sortie de l’album « Damn Right » |
 | 2004 | Sortie de l'album « Pull Up » |

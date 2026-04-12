@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Gründung von French Touch: Situation in Paris Ende der 1990er Jahre
 ### ● Hintergrund: Eine Begegnung zwischen House und Disco
 Mitte der 1990er Jahre nahm die Pariser Clubszene amerikanische House-Musik auf und bildete gleichzeitig eine einzigartige Struktur, die Disco-/Soul-Samples in den Vordergrund rückte.
-Während House stark vom Chicago House beeinflusst war, begann es als neue Art von „Popmusik“ zu fungieren, da es sich mit einem „anspruchsvollen melodischen Gefühl“ vermischte, das einzigartig in Europa ist.
+Während House stark vom Chicago House beeinflusst war, begann es als neue Art von „Popmusik“ zu fungieren, da es sich mit einem „anspruchsvollen melodischen Gefühl“ vermischte, das nur in Europa zu finden ist.
 
 ### ● Vorhandensein von Label/Basis
 - **Roulé (Thomas Bangalter)**
@@ -86,7 +86,7 @@ Insbesondere während der „Discovery“-Phase gilt es nicht, die Probe auf Hoc
 ### ● ③ Band-/Kompressionstextur
 Außenbordkompressoren (insbesondere der Alesis 3630) wurden damals häufig in Studioumgebungen eingesetzt.
 Dieser Kompressor hat eine „grobe“ Klangqualität, aber
-Im Gegenteil, es wurde zu einem entscheidenden Element bei der Schaffung von **dem druckvollen Kick + Crushed-Loop von French Touch**.
+Im Gegenteil, es wurde zu einem entscheidenden Element bei der Schaffung von **dem druckvollen Kick + Crushed Loop von French Touch**.
 
 ---
 
@@ -191,11 +191,11 @@ Der Filter-Sweep von French Touch basierte auf analogen harmonischen Änderungen
 ### ◆ ② Plattenkultur: Musikproduktion basierend auf Sampling
 Ein Großteil von French Touch beginnt mit Vinyl-Samples.
 Hier liegt die „Freude am Entdecken“ von Musik**.
-Es war die Atmosphäre der Zeit, als Clubkultur und Plattenkultur direkt miteinander verbunden waren.
+Es war die Atmosphäre jener Zeit, als Clubkultur und Plattenkultur unmittelbar miteinander verbunden waren.
 Das Ausgraben von Aufzeichnungen selbst war das Tor zur Schöpfung.
 
 Vinyl-Eigenschaften:
-- Lärm = Textur
+- Rauschen = Textur
 - Die Dicke des Tons ändert sich je nach Stiftdruck.
 - Das Klangbild ändert sich je nach der Umgebung, in der Sie dieselbe Aufnahme rippen.
 
@@ -271,7 +271,7 @@ Die Aufbaumethode ist dieselbe.
 
 - Mit Tiefpassfilter abschließen
 - nach und nach öffnen
-- Kontrollieren Sie den Groove, indem Sie Tritte einfügen und entfernen
+- Kontrollieren Sie den Groove durch Einsetzen und Entfernen von Kicks
 
 Dies ist seit Daft Punks „Da Funk“ ein beständiges Erbe.
 

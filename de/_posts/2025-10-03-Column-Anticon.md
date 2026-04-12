@@ -263,7 +263,7 @@ Es gibt Berichte, dass die offizielle Website und die Aktivitäten seit 2018 ges
 
 **Dekoration und Dekonstruktion von Wörtern**: Vocals im Anticon-Stil verschönern oft Wörter, um Bedeutung und Emotionen aufzurütteln. Auch aus kulturwissenschaftlicher Sicht ist die Lyrikanalyse (Wortschatzhäufigkeit, Themenwechsel) interessant.
 
-**Produktionsexperimentalität**: Tracks, die Feldaufnahmen, Lärm und subtile Atmosphäre nutzen, müssen mit einer anderen Messlatte angehört werden als traditioneller Beat-orientierter Hip-Hop.
+**Produktionsexperimentalität**: Tracks, die Feldaufnahmen, Lärm und subtile Atmosphären nutzen, müssen mit einer anderen Messlatte angehört werden als traditioneller Beat-orientierter Hip-Hop.
 
 **Gemeinschaftspolitik**: Die Konflikte und Lösungen des Labelmanagements, der Eigentumsverhältnisse und der künstlerischen Politik sind nützliche Materialien, um über die Politik der Indie-Musik nachzudenken. Der Weggang von Sole im Jahr 2010 und die Auflösung von Alias ​​nach seinem Tod sind wichtige Fallbeispiele.
 

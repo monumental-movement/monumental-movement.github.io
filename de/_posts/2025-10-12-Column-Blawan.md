@@ -210,7 +210,7 @@ flowchart TD
 ---
 
 > „Als ich zum ersten Mal hörte, dass „Why They Hide Their Bodys…“
-> Der Verein hatte für einen Moment das Gefühl, „eingefroren“ zu sein.
+> Der Verein fühlte sich für einen Moment wie „eingefroren“.
 > Angst und Vergnügen kommen gleichzeitig.
 > So einen Lkw gibt es alle 10 Jahre. ”
 > —— **Ben UFO (Hessle Audio)**
@@ -234,7 +234,7 @@ flowchart TD
 > „Wenn ich Blawan auf der DJ-Seite spiele,
 > Jeder steht für einen Moment bereit.
 >Aber dann lachst du.
-> Ihr Körper reagiert von alleine. Das ist nicht logisch. ”
+> Ihr Körper reagiert von selbst. Das ist nicht logisch. ”
 > —— **Objekt**
 
 ---
@@ -285,6 +285,15 @@ Blawan ist ein Künstler, dessen Blut durch die kalte Welt fließt.
 > „Klang ist der Schatten des Körpers“
 >——Blawan (aus dem Interview)
 
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-yRUFugjp4?si=OMNled0lUg104Q_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

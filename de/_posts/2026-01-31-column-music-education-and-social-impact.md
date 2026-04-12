@@ -23,7 +23,7 @@ Text: mmr｜Thema: Wie hat die Musikausbildung die Gesellschaft verändert? - Ku
 
 
 Musikpädagogik ist nicht nur technische Ausbildung. Wie Lesen, Schreiben und Rechnen wurde es als System zur Festlegung dessen konzipiert, was Nationen, Religionen und Gemeinschaften gemeinsam haben sollten.
-In Schulen, Kirchen, beim Militär und in lokalen Gemeinschaften ist Musik seit jeher mit Gruppenbildung, Disziplin und der Vermittlung von Werten verbunden.
+In Schulen, Kirchen, beim Militär und in örtlichen Gemeinden ist Musik seit jeher mit Gruppenbildung, Disziplin und der Vermittlung von Werten verbunden.
 
 Im Westen wurde in mittelalterlichen Klöstern eine systematische Musikausbildung etabliert. Die einheitliche Weitergabe des gregorianischen Chorals war das früheste Beispiel für die Untrennbarkeit von Musiknotation und Bildungssystem.
 Hier war Musik sowohl eine religiöse Praxis als auch ein Bildungsinhalt, der eine Wissensklasse kultivierte.
@@ -53,7 +53,7 @@ color: #fff;
 ## Gestaltung des öffentlichen Bildungssystems und des Musiklehrplans
 
 
-Nach dem 19. Jahrhundert, als in verschiedenen Ländern Schulpflichtsysteme eingeführt wurden, wurde Musik zu einem formalen Unterrichtsfach.
+Nach dem 19. Jahrhundert, als in jedem Land eine Schulpflicht eingeführt wurde, wurde Musik zum offiziellen Unterrichtsfach.
 In Preußen und Frankreich wurde Musikunterricht mit moralischer Bildung kombiniert und spielte eine Rolle bei der Vermittlung von kollektivem Verhalten und Disziplin.
 
 In den Vereinigten Staaten wurde Ende des 19. Jahrhunderts das Konzept des „Musikverständnisses“ eingeführt, wobei der Schwerpunkt nicht nur auf der Entwicklung von Aufführungstechniken, sondern auch von Wertschätzungsfähigkeiten lag.
@@ -78,7 +78,7 @@ Volkslieder, Festmusik und religiöse Musik wurden durch generationsübergreifen
 Die europäische Blaskapellenkultur ist ein typisches Beispiel für die musikalische Ausbildung der Arbeiterklasse während der Industriellen Revolution.
 Fabriken und lokale Organisationen stellten Instrumente zur Verfügung und durch Ensembleauftritte wurden Disziplin und Solidarität gefördert.
 
-In Lateinamerika und Afrika findet der Musikunterricht häufig außerhalb der Schule statt und es wurde eine Kultur gepflegt, die den Schwerpunkt auf körperlichen Ausdruck und Improvisation legt.
+In Lateinamerika und Afrika findet der Musikunterricht oft außerhalb der Schule statt und es wurde eine Kultur gepflegt, die den körperlichen Ausdruck und die Improvisation betont.
 Dies zeigt die Existenz eines Wissenssystems, das sich von der westlichen Partiturausbildung unterscheidet.
 
 Die gemeinschaftliche Musikbildung hat eine Rolle bei der Bewahrung der kulturellen Vielfalt und der sozialen Integration gespielt.
@@ -95,7 +95,7 @@ Der Zugang zur Musikausbildung ist seit langem stark an die soziale Schicht gebu
 Die Anschaffungskosten für Musikinstrumente, die Unterrichtskosten und die Zeitverfügbarkeit waren günstiger als bei der Mittelschicht.
 
 Die klassische Musikausbildung wird insbesondere mit der Elitebildung in Verbindung gebracht und fungiert als Symbol für kulturelles Kapital.
-Andererseits konzentrierte sich die Musikausbildung der Arbeiterklasse auf Gruppenformate wie Chöre und Blasorchester.
+Andererseits konzentrierte sich die Musikausbildung der Arbeiterklasse auf Gruppenformen wie Chöre und Blasorchester.
 
 Ab der zweiten Hälfte des 20. Jahrhunderts wurde die Ungleichheit der Möglichkeiten der Musikausbildung durch öffentliche Subventionen und den Ausbau der Schulbildung teilweise ausgeglichen.
 Allerdings beeinflussen wirtschaftliche Faktoren weiterhin die Musikinstrumentenausbildung und die Berufsausbildung.
@@ -135,7 +135,7 @@ Wissen, das früher auf spezialisierte Institutionen beschränkt war, kann heute
 Dies hat zu einer Demokratisierung der Musikausbildung und einer Diversifizierung der Bewertungsstandards geführt.
 
 Andererseits wurde auch auf die Trennung zwischen systematischer Ausbildung und Selbststudium hingewiesen.
-Es bestehen zwar Befürchtungen hinsichtlich eines Rückgangs der Grundlagentheorie und der Notenlesefähigkeit, doch auch Lernergebnisse, bei denen die Kreativität im Vordergrund steht, wurden bestätigt.
+Es bestehen zwar Befürchtungen hinsichtlich eines Rückgangs der Grundlagentheorie und der Notenlesefähigkeit, doch wurden auch Lernergebnisse bestätigt, bei denen die Kreativität im Vordergrund steht.
 
 Das digitale Umfeld hat die Musikausbildung von einer eingleisigen Karriere zu einem mehrgleisigen Lernmodell gewandelt.
 
@@ -167,7 +167,7 @@ timeline
 Obwohl Musikpädagogik ein Bereich ist, dessen Ergebnisse schwer zu quantifizieren sind, hat sie langfristige Auswirkungen auf die Gesellschaft.
 Aspekte wie kulturelles Erbe, soziale Teilhabe und die Bildung eines Gemeinschaftsgefühls sind in anderen Bildungsbereichen nur schwer zu ersetzen.
 
-Obwohl sich die Musikausbildung als System ständig verändert, ist die Erfahrung der Interaktion mit anderen durch Klang selbst universell.
+Obwohl sich die Musikausbildung als System immer verändert hat, ist die Erfahrung der Interaktion mit anderen durch Klang selbst universell.
 Es ist einer der Bereiche der Bildung, der am deutlichsten zeigt, nach welchem ​​Menschen die Gesellschaft sucht.
 
 > Musikpädagogik hat in aller Stille, aber sicher die Werte der Gesellschaft geprägt.

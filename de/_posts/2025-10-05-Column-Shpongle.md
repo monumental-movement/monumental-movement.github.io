@@ -19,7 +19,7 @@ title: '[Kolumne] Shpongle: Reinkarnation des Klangs und Reise des Bewusstseins'
 Text: mmr｜Thema: Philosophie des akustischen Universums, gezeichnet von Raja Ram und Simon Posford
 
 
-Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. 1996 gegründet, inspiriert von der totalen Sonnenfinsternis in Indien, präsentierten sie eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
+Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. 1996 gegründet, inspiriert von der totalen Sonnenfinsternis in Indien, präsentierten sie eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-orientierten Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
 
 ---
 
@@ -144,7 +144,7 @@ flowchart TD
 
 #### Shpongletron: Mandala aus Ton und Licht
 
-Während der Live-Performance kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
+Während des Live-Auftritts kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
 Die Bilder von Android Jones werden mit dem Ton synchronisiert.
 Raja Ram wird als „zeremonieller Guru“ auf der Bühne stehen und Posford wird als „Klangalchemist“ auf der Bühne stehen.
 Die Live-Performance selbst wird zu einer Erweiterung des meditativen Erlebnisses.
@@ -315,7 +315,7 @@ Diese Struktur verursacht ein psychologisches Phänomen, das als „akustischer 
 | Nachhall | Nachhall | Erweiterung der räumlichen Lokalisierung | Auflösung des Ego |
 | Polyrhythmus | Kognitive Verzögerung | Verträumtes Schwebegefühl |
 
-Wissenschaftlich gesehen ist Shpongle ein Projekt zum „Wiederaufbau des Gehirns mit Klang“.
+Wissenschaftlich gesehen ist Shpongle ein Projekt zur „Umstrukturierung des Gehirns mit Klang“.
 
 ---
 

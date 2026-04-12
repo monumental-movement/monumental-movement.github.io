@@ -9,7 +9,7 @@ permalink: /fr/column-why-we-listen-to-music-when-sad/
 tags:
 - Neuroscience
 - Emotion
-title: '[Chronique] Pourquoi les gens écoutent de la musique quand ils sont tristes
+title: '[Chronique] Pourquoi les gens écoutent-ils de la musique quand ils sont tristes
   ? Le son comme empathie, mémoire et réglage neuronal'
 ---
 
@@ -105,7 +105,7 @@ timeline
 
 </div>
 
-En regardant cette tendance, on constate que la musique de tristesse a toujours existé comme miroir de la société.
+En regardant cette tendance, on constate que la musique de tristesse a toujours existé comme un miroir de la société.
 La douleur d'un individu se transforme en voix du temps.
 
 ---

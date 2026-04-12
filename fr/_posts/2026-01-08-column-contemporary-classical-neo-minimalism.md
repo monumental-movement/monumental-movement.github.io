@@ -68,7 +68,7 @@ Le terme « classique contemporain » ne fait pas référence à un style strict
 
 ### Changements dans les institutions et l'environnement
 
-Les compositeurs de cette époque ne basaient pas nécessairement leurs activités principalement sur des commandes d'orchestres ou d'opéras. Les home studios, les labels indépendants et la distribution numérique jouent un rôle important.
+Les compositeurs de cette époque ne fondaient pas nécessairement leurs activités principalement sur des commandes d'orchestres ou d'opéras. Les home studios, les labels indépendants et la distribution numérique jouent un rôle important.
 
 Une autre particularité est que les œuvres enregistrées sont considérées comme aussi importantes, sinon plus, que les concerts.
 
@@ -88,7 +88,7 @@ De nombreux compositeurs maintiennent un centre tonal clair, mais ne supposent p
 
 Ce traitement harmonique n'est pas une reproduction du romantisme du XIXe siècle, mais peut être compris comme un choix pour assurer la stabilité acoustique.
 
-### Conception des tons
+### Conception sonore
 
 Dans le néo-minimalisme, le timbre est un élément aussi important que la mélodie et l’harmonie, voire plus. Des pianos en feutre, des pianos préparés, des instruments à cordes avec des instruments assourdis et des réverbérations traitées électroniquement sont utilisés, et la durée et la décroissance de la résonance elle-même forment la forme.
 
@@ -138,7 +138,7 @@ La technique elle-même trouve ses origines dans la musique expérimentale du mi
 
 ### Composition et improvisation
 
-Ses œuvres comprennent à la fois des motifs strictement notés et des éléments d'improvisation. Alors qu'un certain motif rythmique est répété, d'infimes changements provoqués par la manipulation physique de l'interprète déterminent la musique.
+Ses œuvres comprennent à la fois des motifs strictement notés et des éléments d'improvisation. À mesure qu'un certain motif rythmique se répète, d'infimes changements provoqués par la manipulation physique de l'interprète déterminent la musique.
 
 ### Connexion avec d'autres champs
 

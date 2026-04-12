@@ -54,7 +54,7 @@ In dieser Zeit gab es auch den Aufstieg von Indie-Labels, Auftritte auf internat
 - **Merzbau**: Beim Übergang von analogen Geräten zu Laptop-Lärm spiegelt es Tierrechte und Vegetarismus wider.
 - **Feuerwehrmann**: Eine Existenz, die die Grenze zwischen „Lärmband“ und „Performance-Kunst“ verwischt.
 - **Boredoms**: Eine Mischung aus Psychedelik und Noise, die die amerikanische Alternative-Szene beeinflusst.
-- **Melt-Banana**: „Nano Core“ kombiniert Hardcore-Geschwindigkeit und Noise-Textur.
+- **Melt-Banana**: „Nano Core“ vereint die Geschwindigkeit von Hardcore und die Textur von Noise.
 
 ---
 
@@ -63,7 +63,7 @@ In dieser Zeit gab es auch den Aufstieg von Indie-Labels, Auftritte auf internat
 
 ### Keiji Haino
 - **Features**: Ein „Klangritual“, das Gitarre, Gesang und Feedback voll ausnutzt. Eine Klangwelt rund um Improvisation, die man als religiös oder magisch bezeichnen kann.
-- **Veränderung**: Von Soloarbeiten in den 1970er Jahren zu aktiven Aktivitäten in Bands wie Fushitsusha seit den 1990er Jahren. Weiter erforschen über den Rahmen der Improvisation hinaus.
+- **Wandel**: Von Soloarbeiten in den 1970er Jahren zu aktiven Aktivitäten in Bands wie Fushitsusha seit den 1990er Jahren. Weiter erforschen über den Rahmen der Improvisation hinaus.
 - **Anekdote**: Er ist als „Klangschamane“ bekannt, weil er vor einem Konzert alle Saiten seiner Gitarre wechselt und den Klang wie in einem Ritual loslässt.
 
 | Album | Funktionen | Links |
@@ -118,7 +118,7 @@ In dieser Zeit gab es auch den Aufstieg von Indie-Labels, Auftritte auf internat
 
 - **Eigenschaften**: Superschneller Hardcore + Lärm. Sängerin Yasuko O. zeichnet sich durch ihre süße und schneidende Stimme aus.
 - **Änderungen**: Anfang der 90er Jahre gegründet, mit Unterstützung von Steve Albini nach Übersee expandiert. In den 2000er Jahren veränderte sich der Sound hin zu einem elektronischeren und strukturelleren Sound.
-- **Anekdote**: Sie erhielten während ihrer Auslandstournee begeisterte Kritiken von John Zorn und erlangten in der amerikanischen Alternative-Szene als „Japans schnellste Band“ Kultstatus.
+- **Anekdote**: Sie erhielten während ihrer Auslandstournee begeisterte Kritiken von John Zorn und erlangten als „Japans schnellste Band“ in der amerikanischen Alternative-Szene Kult-Popularität.
 
 | Album | Funktionen | Links |
 |----------|------|--------------|
@@ -130,7 +130,7 @@ In dieser Zeit gab es auch den Aufstieg von Indie-Labels, Auftritte auf internat
 
 ## Empfohlene Alben nach Generation
 
-| Ära | Künstler/Album | Funktionen | Links |
+| Era | Artist/Album | Funktionen | Links |
 |------|-----------|------|---------|
 | 1991 | Boredoms – *Pop Tatari* | アヴァンギャルド・ノイズとロックの狂気的融合 | [Amazon](https://amzn.to/3VCBLKA) |
 | 1994 | Melt-Banana – *Speak Squeak Creak* | 初期代表作。爆発的スピードのナノ・コア | [Amazon](https://amzn.to/4pEjYR3) |
@@ -170,11 +170,11 @@ A2: Der Einstieg in Super æ von Boredoms und Merzbeat von Merzbow ist relativ e
 
 **F3: Wie kamen Noise und Rock zusammen? **
 
-A3: Durch den Einfluss von Psychedelika und Punk ist ein neuer Ausdruck entstanden, der dröhnende Klänge und Improvisation vereint.
+A3: Durch den Einfluss von Psychedelika und Punk ist ein neuer Ausdruck entstanden, der dröhnende Klänge und Improvisation verbindet.
 
 **F4: Wie hängt es mit der Soundtrack-Produktion und der KI-Musikgenerierung zusammen? **
 
-A4: Experimenteller Sound verleiht der Videoarbeit ein einzigartiges Spannungsgefühl und präsentiert eine Struktur, die auf KI-generierte Musikforschung angewendet werden kann.
+A4: Experimenteller Sound verleiht der Videoarbeit ein einzigartiges Spannungsgefühl und stellt eine Struktur dar, die auf KI-generierte Musikforschung angewendet werden kann.
 
 ---
 

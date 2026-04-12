@@ -15,7 +15,7 @@ title: Eve Gallagher – Love Is A Master Of Disguise
 
 Eve Gallagher is a house music singer from the UK.
 
-"Love Is A Master Of Disguise" is the second single, produced by Mark Brydon. Frankie Knuckles participated as the producer for the first track on the A-side and B-side, and the third track on the B-side was remixed by Steve Anderson of the production group Brothers In Rhythm.
+"Love Is A Master Of Disguise" is the second single, produced by Mark Brydon. Frankie Knuckles participated as a producer for the first track on the A-side and B-side, and the third track on the B-side was remixed by Steve Anderson of the production group Brothers In Rhythm.
 
 #### Tracklist
 ```md

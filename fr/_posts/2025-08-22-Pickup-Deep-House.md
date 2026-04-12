@@ -46,7 +46,7 @@ B2. Sascha Dive –Untitled
 ### Peej – Devenir cosmique
 <a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.webp"></a>
 
-Résumé : Un morceau de deep house de Paul Johnston (Peej) sorti en 2005 sur DiY Discs, le successeur du label de musique house britannique Strictly 4 Groovers. La face A comprend plusieurs mixages tels que "Cosmic Love (Interstellar Overdrive Mix)".
+Résumé : Un morceau de deep house de Paul Johnston (Peej) sorti en 2005 sur DiY Discs, le successeur du label de musique house britannique Strictly 4 Groovers. La face A comprend plusieurs mix tels que "Cosmic Love (Interstellar Overdrive Mix)".
 
 Points recommandés : Une deep house qui enveloppe doucement l'auditeur, combinant un rythme lo-fi avec un son fantastique qui vous donne l'impression d'être dans un espace profond.
 

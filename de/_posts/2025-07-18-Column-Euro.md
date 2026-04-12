@@ -24,7 +24,7 @@ Text: mmr｜Thema: Das Gesamtbild der europäischen Musikkultur in den 90er Jahr
 
 ### Was ist die wahre Identität der Musik namens Euro?
 
-Die „Euromusik“ der 1990er Jahre war kein bestimmtes Genre, sondern vielmehr ein allgemeiner Begriff für populäre Dance-Pop-Musik, die sich hauptsächlich in Kontinentaleuropa entwickelte.
+Die „Euromusik“ der 1990er Jahre war kein bestimmtes Genre, sondern ein allgemeiner Begriff für populäre Dance-Pop-Musik, die sich hauptsächlich in Kontinentaleuropa entwickelte.
 Die bekanntesten davon waren „Eurobeat“ und „Eurodance“, aber gleichzeitig liefen auch andere Genres wie Eurotrance, High Energy und Synth-Pop.
 
 Mit anderen Worten: Der Euro der 1990er Jahre war das „Popbild des modernen Europas“, das Partykultur, Tanzmusik, eingängige Melodien und Technologie vereinte.
@@ -94,7 +94,7 @@ Das bedeutet, dass Euromusic eine Musikkultur ist, die Sinnesfreuden über polit
 
 ● [2 Unlimited – “Get Ready For This” (1991)](https://amzn.to/4mXEgCl)
 
-Aus den Niederlanden. „Eurodance-Hymne“ wird häufig bei Sportveranstaltungen und in der Werbung verwendet.
+Aus den Niederlanden. „Eurodance-Hymne“ wird häufig in Sportveranstaltungen und in Werbespots verwendet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -172,7 +172,7 @@ Euro-Musik kam bei Kritikern lange Zeit nicht gut an. Der Grund ist wie folgt:
 
 - Massenproduktion/Anonymität (die Präsenz bestimmter Künstler ist schwach)
 
-- Kommerzieller Erfolg = Missachtung der Kunstfertigkeit
+- Kommerzieller Erfolg = Missachtung der Kunst
 
 Andererseits beweist es aber auch, dass Musik jeden erreichen kann.
 
@@ -206,6 +206,12 @@ Ist es für Sie Nostalgie oder Neuheit?
 
 <hr>
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iev_0jeS2gE?si=-_VlFxZvm5_-0X6t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 

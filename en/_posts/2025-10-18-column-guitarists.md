@@ -107,7 +107,7 @@ color: #fff;
 
 ---
 
-# III. Japan: A history of silent and roaring guitarists
+# III. Japan: Silence and Roaring History of Guitarists
 
 ## 1. After the war and the dawn of electric power (1950s to 1970s)
 

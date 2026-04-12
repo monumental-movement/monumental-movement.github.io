@@ -20,7 +20,7 @@ title: '[Column] Blawan: Pleasure of Steel and the Body Deep in the Night — Ec
 Text: mmr｜Theme: About Blawan's cold yet somehow human beat that continues to have roots in the UK underground
 
 Once upon a time, the industrial areas of northern England were filled with the smell of steam and metal.
-Jamie Roberts, or Blawan, may have grown up unconsciously inhaling its reverberations.
+Jamie Roberts -- or Blawan -- may have grown up unconsciously inhaling its reverberations.
 The bloodline of electronic music flowing from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 It has echoed the rhythm of labor and the breathing of the city at the same time.
 
@@ -284,6 +284,15 @@ Blawan is an artist whose blood flows through the cold world.
 > "Sound is the shadow of the body"
 >——Blawan (from interview)
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-yRUFugjp4?si=OMNled0lUg104Q_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

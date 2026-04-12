@@ -11,7 +11,7 @@ tags:
 - NY House
 - 90s
 title: '[Kolumne] Strictly Rhythm – Von seinen Anfängen bis zur Gegenwart: Historischer
-  Hintergrund, berühmte Aufzeichnungen und Änderungen in der Ausrüstung'
+  Hintergrund, berühmte Aufzeichnungen und Veränderungen in der Ausrüstung'
 ---
 
 
@@ -120,7 +120,7 @@ DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu 
 |---|---|---|---|
 | 1 | Wamdue-Projekt | König meines Schlosses | Ein Welthit, eine exquisite Fusion aus Melodie und Rhythmus. |
 | 2 | Barbara Tucker | Hör auf, mit meinem Verstand zu spielen | Groove-Deep-House mit Gesang als Hauptdarsteller. | 2 | Barbara Tucker | Hör auf, mit meinem Verstand zu spielen | |
-| 3 | George Morel | Let’s Groove 98 | Veröffentlicht 1998 mit einem modernen Arrangement. |
+| 3 | George Morel | Let's Groove 98 | Veröffentlicht 1998 mit einem modernen Arrangement. |
 | 4 | Rollenleute | Der Regen | Ein Werk, das jazzige Elemente und House-Beats vereint. |
 | 5 | Groove Armada | Superstylin’ | Funkiger und energiegeladener Clubsong. |
 | 6 | Armand Van Helden | Du kennst mich nicht | Melodischer House, ein Klassiker im Club. |
@@ -131,7 +131,7 @@ DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu 
 
 ---
 
-## 2007~2010: Neustart und internationale Expansion
+## 2007–2010: Neustart und internationale Expansion
 
 **Hintergrund**: Digitale Verbreitung und Globalisierung von Tanzmusik.
 
@@ -173,7 +173,7 @@ Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuaufl
 
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
-| 1 | Könige von morgen | Endlich (Remaster 2014) | Traditioneller Deep House neu gemastert mit sanfter Klangqualität. |
+| 1 | Könige von morgen | Endlich (Remaster 2014) | Traditioneller Deep House neu gemastert, sanfte Klangqualität. |
 | 2 | Dennis Ferrer | Maniac 3000 | Verfügt über einen modernen und raffinierten House-Beat. |
 | 3 | Quentin Harris | Meine Freude (Neubearbeitung) | Deep House für Clubs neu aufgelegt. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | Eine Neuinterpretation des Vocal-House voller Emotionen. |
@@ -219,5 +219,5 @@ Strictly Rhythm vermittelt A&R ein umfassendes Verständnis dafür, „was in ei
 - Wikipedia: Streng Rhythmus
 - Red Bull Music Academy: Gladys Pizarro
 - Resident Advisor / XLR8R: Etikettenschließung/-rekonstruktion
-- Offizielle BMG-Neuigkeiten: Übernahme des Strictly Rhythm-Katalogs
+- Offizielle BMG-Neuigkeit: Übernahme des Strictly Rhythm-Katalogs
 - Interview mit Todd Terry / Masters At Work: Ausrüstung und Produktionsmethoden

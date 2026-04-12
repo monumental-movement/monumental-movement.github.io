@@ -74,7 +74,7 @@ Dans la production hip-hop traditionnelle, les boucles de deux à huit mesures c
 
 ---
 
-La production de Madlib se caractérise par une méthode d'improvisation centrée autour de sampleurs matériels. Lors de la production à l'aide de la série SP, la manipulation physique prime sur l'édition visuelle, laissant intacts les décalages et les fluctuations des échantillons dans la musique.
+La production de Madlib se caractérise par une méthode d'improvisation centrée autour de samplers matériels. Lors de la production à l'aide de la série SP, la manipulation physique prime sur l'édition visuelle, laissant intacts les décalages et les fluctuations des échantillons dans la musique.
 
 * Les échantillons sont sélectionnés dans le but de préserver le son original.
 * Pas de quantification stricte
@@ -142,7 +142,7 @@ La structure, dans laquelle de nombreuses pièces courtes sont disposées succes
 
 ---
 
-## Chronologie : Instrumentaux expérimentaux de hip-hop
+## Chronologie : instrumentaux expérimentaux de hip-hop
 
 * Années 1990 : Distribution indépendante d'œuvres instrumentales
 * Années 2000 : Augmentation du nombre de collections de rythmes basées sur des échantillonneurs
@@ -153,7 +153,7 @@ La structure, dans laquelle de nombreuses pièces courtes sont disposées succes
 
 ## Intersection avec d'autres genres
 
-L'instrumental expérimental s'identifie au hip-hop par la présence d'un rythme, tout en se connectant à l'improvisation ambiante, noise et jazz.
+L'instrument expérimental s'identifie au hip-hop par la présence d'un rythme, tout en se connectant à l'ambiance, au bruit et à l'improvisation jazz.
 
 ---
 

@@ -71,7 +71,7 @@ color: #fff;
 | Nacht des Feuers | Niko | Ein Klassiker, der die Flip-Flop-Generation und die Anime-Generation verbindet |
 | Weltraumjunge | Dave Rodgers | Beliebt für sein schnelles Tempo und seine starke Melodie |
 | Tanzen | Vicky Vale | Beeindruckend in der frühen Rennszene eingesetzt |
-| Schlag der aufgehenden Sonne | Dave Rodgers | Hochgefühl und dramatische Entwicklung |
+| Schlag der aufgehenden Sonne | Dave Rodgers | Hochgefühl und dramatische Entwicklungen |
 | Niemand schläft in Tokio | Edo Boys | Tokio Klangbild und Geschwindigkeitsgefühl |
 | Schneller Speed-Boy | Marko Polo | Titel und Rhythmus, die das Gefühl von Geschwindigkeit verkörpern |
 | Erinnere dich an mich | Leslie Parrish | Ein melodisches, emotionales und beliebtes Lied |
@@ -213,7 +213,7 @@ Drift: ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (Rutschgeräusch) </
 
 | Bereich | Repräsentative Elemente | Verbindung mit Eurobeat |
 | ------- | ------------------------------------ | -------------------- |
-| Toge Runner-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
+| Toge-Läufer-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
 | Clubkultur | Parapara, Velfarre | Direkt verbunden mit Avex Eurobeat |
 | Internetkultur | Deja Vu Memes | Wiederexplosion auf YouTube/TikTok |
 | Spielkultur | Initial D Arcade Stage, Gran Turismo | Eurobeat wird zur Standard-Hintergrundmusik |

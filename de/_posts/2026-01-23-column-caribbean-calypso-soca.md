@@ -46,7 +46,7 @@ color: #fff;
 
 ## Ursprung und Entstehung von Calypso
 
-Die Ursprünge von Calypso reichen bis ins 18. und 19. Jahrhundert auf der Insel Trinidad zurück. Die während der französischen Kolonialzeit eingeführte Karnevalskultur und die aus Westafrika stammende Call-and-Response-Gesangs- und Improvisationspoesiekultur, bei der das Geschichtenerzählen im Mittelpunkt steht, vermischten sich zu einer einzigartigen Gesangsform. Ursprünglich auf Französisch-Kreolisch gesungen, handelte es sich um eine für die Kolonialmächte schwer verständliche Form der Gesellschaftskritik.
+Die Ursprünge von Calypso reichen bis ins 18. und 19. Jahrhundert auf der Insel Trinidad zurück. Die während der französischen Kolonialzeit eingeführte Karnevalskultur und die aus Westafrika stammende Call-and-Response-Gesangs- und Improvisationspoesiekultur, bei der das Geschichtenerzählen im Mittelpunkt stand, vermischten sich zu einer einzigartigen Gesangsform. Ursprünglich auf Französisch-Kreolisch gesungen, handelte es sich um eine für die Kolonialmächte schwer verständliche Form der Gesellschaftskritik.
 
 Im späten 19. Jahrhundert, unter britischer Herrschaft, dehnte sich Calypso auf städtische Gebiete aus und umfasste gleichzeitig Englisch. Bevor Zeitungen populär wurden, waren Calypsonianer de facto Reporter, die in Versen über Skandale, Politik, Kriminalität und Liebesromane berichteten. Lyrische Klugheit, Ironie und Doppeldeutigkeit waren wichtige Bewertungskriterien, wobei der Schwerpunkt eher auf der Schärfe der Worte als auf der Melodie lag.
 
@@ -72,7 +72,7 @@ Steelpans tauchten Anfang des 20. Jahrhunderts auf und ihre akustischen Eigensch
 
 In der ersten Hälfte des 20. Jahrhunderts führten Aufnahmetechnik und Rundfunkübertragung Calypso über seine Grenzen hinaus. Aufnahmen in den Vereinigten Staaten und in England führten zu gewissen Einschränkungen hinsichtlich der Aufführungszeit, der Klangqualität und des lyrischen Inhalts, gewannen aber im Gegenzug ein internationales Publikum. Infolgedessen werden obszöne Äußerungen und politische Kritik unterdrückt und allgemeinere Themen nehmen zu.
 
-Während dieses Prozesses wurde Calypso zunehmend als exotische, tropische Musik konsumiert. Gleichzeitig wird auf der Insel jedoch ein radikalerer und direkterer Ausdruck beibehalten, der eine duale Struktur bildet. Die Trennung zwischen ausländischen und inländischen, aufgezeichneten und Live- sowie offiziellen und inoffiziellen Formen von Soca beeinflusste später die Entstehung von Soca.
+Während dieses Prozesses wurde Calypso zunehmend als exotische, tropische Musik konsumiert. Gleichzeitig wird auf der Insel jedoch ein radikalerer und direkterer Ausdruck beibehalten, der eine duale Struktur bildet. Die Trennung zwischen ausländischer und inländischer Musik, Aufnahme- und Live-Auftritten sowie offizieller und inoffizieller Musik sollte später die Entstehung von Soca beeinflussen.
 
 >Während die Modernisierung Calypso erweiterte, diente sie auch als Test für seine Schärfe.
 
@@ -121,7 +121,7 @@ Diese Veränderung ist nicht auf den Sündenfall zurückzuführen, sondern auf d
 
 Im späten 20. Jahrhundert verbreiteten sich Soca und Calypso aufgrund der Zunahme karibischer Einwanderer nach London, New York und Toronto. In diesen Städten wurde der Karneval neu erfunden und Musik fungiert als Identitätsstifter für Einwanderergemeinschaften.
 
-Gleichzeitig schritt die gegenseitige Befruchtung mit lokaler Musik voran und auch die Fusion mit Hip-Hop und House entstand. Der Kern des Festes und die sich wiederholende Struktur werden jedoch beibehalten und die Kontinuität mit seinen Ursprüngen gewahrt.
+Gleichzeitig schritt die gegenseitige Befruchtung mit lokaler Musik voran und auch die Fusion mit Hip-Hop und House entstand. Der Kern des Festes und die sich wiederholende Struktur bleiben jedoch erhalten und wahren die Kontinuität mit seinen Ursprüngen.
 
 > Soca und Calypso sind Musik, die bewegt, aber nie ihren Kern verliert.
 
@@ -146,7 +146,7 @@ timeline
 
 ## Regionale Entwicklung: Calypso-Kultur außerhalb von Trinidad
 
-Während Trinidad das institutionelle und kommerzielle Zentrum war, entwickelte sich die Calypso-Kultur in der gesamten Karibik unterschiedlich. In Ländern wie Barbados, St. Lucia und Grenada ist der Umfang zwar gering, die Akzeptanz ist jedoch enger mit der örtlichen Gemeinschaft verknüpft.
+Während Trinidad das institutionelle und kommerzielle Zentrum war, entwickelte sich die Calypso-Kultur in der gesamten Karibik unterschiedlich. In Ländern wie Barbados, St. Lucia und Grenada ist der Umfang zwar gering, die Akzeptanz ist jedoch enger mit der lokalen Gemeinschaft verbunden.
 
 Auf Barbados betonte Calypso eher seine feierlichen Aspekte als seine soziale Satire und wurde schon früh mit der Tourismusbranche in Verbindung gebracht. Die Musik wurde für ein Publikum außerhalb der Insel konzipiert, wobei der Schwerpunkt auf melodischer Klarheit und Vertrautheit lag. Andererseits bleiben auch lokale sprachliche Ausdrücke und Alltagsthemen erhalten und bilden eine zweischichtige Struktur.
 
@@ -168,7 +168,7 @@ Besonders in London gab es starken Kontakt zu Reggae und Dub und die bassorienti
 
 ## Differenzierung und Unterteilung nach Soca
 
-Seit den 1980er Jahren hat sich die Soca rasch in sich selbst zersplittert. „Boogie Soca“ zeichnete sich durch sanftere, tanzflächenfreundlichere Grooves mit deutlichen Disco- und Funk-Einflüssen aus. Das Tempo ist moderat, mit Schwerpunkt auf Wiederholung und Vergnügen.
+Seit den 1980er Jahren hat sich die Soca rasch in sich selbst zersplittert. Boogie Soca zeichnete sich durch sanftere Grooves aus, die tanzflächenfreundlicher waren, mit deutlichen Disco- und Funk-Einflüssen. Das Tempo ist moderat, mit Schwerpunkt auf Wiederholung und Vergnügen.
 
 Power Soca hat ein hohes Tempo und ein starkes Schlaggefühl, das an einen Karnevalsumzug erinnert. Die Dichte des Schlagzeugs und der Percussion nimmt zu und die Songs sind darauf ausgelegt, in kurzer Zeit maximalen Schwung zu erzeugen. Die Texte sind minimalistisch und der Fokus liegt auf Shouts.
 

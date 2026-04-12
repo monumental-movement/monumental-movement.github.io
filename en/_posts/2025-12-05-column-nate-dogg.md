@@ -190,7 +190,7 @@ Snoop Dogg and Warren G, in particular, have said that their sound would not hav
 
 ---
 
-## 10. Nate Dogg Chronology
+## 10. Nate Dogg Timeline
 
 <div class="mermaid">
 timeline

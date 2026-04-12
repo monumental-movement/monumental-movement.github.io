@@ -188,7 +188,7 @@ Die Musik von Recondite ist nicht mechanischer Natur, sondern
 Wenn das Baden im Wald ein Akt der „Rückkehr des Menschen zur Natur“ ist,
 Die Musik von Recondite ist ein Akt der „Rückführung von Techno in die Natur“.
 Künstlich und organisch, Stadt und Wald, Takt und Stille – sie alle verschmelzen in ihm.
-Es schwingt mit als eine neue „**Poetik der digitalen Natur**“.
+Es schwingt mit als eine neue „**Poetik digitaler Natur**“.
 
 > Hören Sie Recondite, als würden Sie ein Waldbad nehmen.
 > Das ist der Moment, in dem wir uns daran erinnern, dass Techno wieder „lebendig“ ist.

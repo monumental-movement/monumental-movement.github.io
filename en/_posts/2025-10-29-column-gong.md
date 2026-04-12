@@ -17,7 +17,7 @@ title: '[Column] Gong legend: era, myth, sound and community'
 ## 1. Introduction: Musician as Scientist
 
 
-Text: mmr | Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
+Text: mmr｜Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
 
 > "We were a flying teapot sailing through the revolution."
 > ― Daevid Allen
@@ -40,7 +40,7 @@ color: #fff;
 
 ## table of contents
 
-* [Chapter 1 France in the late 1960s - revolutionary period of exaltation and chaos] (#chapter1)
+* [Chapter 1 France in the late 1960s - Revolutionary period of exaltation and chaos] (#chapter1)
 * [Chapter 2 Birth and Anecdote - Anarchy Commune that Creates a Paradise] (#chapter2)
 * [Chapter 3 Musical DNA - Glissando guitar and chant "Space Whisper"] (#chapter3)
 * [Chapter 4 Radio Gnomes Trilogy - Myths and Albums] (#chapter4)

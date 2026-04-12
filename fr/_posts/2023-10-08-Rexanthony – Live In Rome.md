@@ -13,7 +13,7 @@ title: Rexanthony – Live à Rome
 ---
 
 
-" Live In Rome " est un album live du DJ et producteur italien Rexanthony. Cet album est sorti comme une collection de ses performances live.
+"Live In Rome" est un album live du DJ et producteur italien Rexanthony. Cet album est sorti comme une collection de ses performances live.
 
 Lexanthony est actif dans les genres de musique électronique tels que la techno et la hard trance, et est connu pour l'énergie et le style unique de ses performances. Ses sets live sont remplis de rythmes puissants, de sons de synthétiseur durs et d'effets pour attirer les foules des clubs et des festivals.
 

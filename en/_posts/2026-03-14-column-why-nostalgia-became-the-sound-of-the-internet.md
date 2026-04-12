@@ -62,7 +62,7 @@ color: #fff;
 
 ### A cultural concept that has existed since the 19th century
 
-The word "nostalgia" originated as a medical term in the 17th century.
+The word nostalgia was created as a medical term in the 17th century.
 The term was coined by the Swiss physician Johannes Hofer to describe the psychological state experienced by soldiers away from home.
 
 The etymology is

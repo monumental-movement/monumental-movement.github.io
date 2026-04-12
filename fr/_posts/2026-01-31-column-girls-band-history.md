@@ -15,15 +15,15 @@ title: '[Chronique] Histoire mondiale de la scène girl band'
 ---
 
 
-## Prologue : la forme d'expression du groupe de filles
+## Prologue : La forme d'expression du girl band
 
 Texte : mmr｜Thème : Comment les femmes ont actualisé l'histoire de la musique sous la forme de groupes
 
 
 
-Dans l’histoire du rock et de la pop, les groupes de filles ont longtemps été considérés comme une anomalie. Cependant, en réalité, les groupes exclusivement féminins ont toujours été en conflit avec les systèmes, la technologie et les normes sociales de l’époque, tout en construisant leurs propres expressions uniques. Les groupes de filles ne sont pas simplement classés par sexe, mais constituent un ensemble de pratiques entourant la production, la performance et l'autodétermination.
+Dans l’histoire du rock et de la pop, les groupes de filles ont longtemps été considérés comme une anomalie. Cependant, en réalité, les groupes exclusivement féminins ont toujours été en conflit avec les systèmes, la technologie et les normes sociales de l’époque, tout en construisant leurs propres expressions. Les groupes de filles ne sont pas simplement classés par sexe, mais constituent un ensemble de pratiques entourant la production, la performance et l'autodétermination.
 
-Même avant le développement de l’industrie musicale, les femmes se produisaient dans des ensembles à la maison et dans les communautés locales. Au 20ème siècle, avec l'établissement de l'industrie du disque et de la culture du live house, la présence même des femmes en public en tant que groupe a commencé à prendre une signification sociale. Cet article reconstruit ces tendances comme une histoire mondiale.
+Même avant le développement de l’industrie musicale, les femmes se produisaient dans des ensembles à la maison et dans les communautés locales. Au 20e siècle, avec l'établissement de l'industrie du disque et de la culture du live house, la présence même des femmes en public en tant que groupe a commencé à prendre une signification sociale. Cet article reconstruit ces tendances comme une histoire mondiale.
 
 > L'histoire des girls bands est à la fois une histoire musicale et une histoire sociale.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Années 1950-60 : L'aube du rock et l'émergence des ensembles féminins
 
-Dans les années 1950, le rock and roll est né aux États-Unis et le groupe est devenu le centre de la culture des jeunes. D’un autre côté, les musiciennes de l’époque étaient souvent au premier plan en tant que chanteuses, et les performances étaient généralement interprétées par des hommes. Un groupe qui est apparu comme une exception était un groupe entièrement féminin qui jouait d’instruments de musique.
+Dans les années 1950, le rock and roll est né aux États-Unis et le groupe est devenu le centre de la culture des jeunes. D’un autre côté, les musiciennes de l’époque se faisaient souvent remarquer en tant que chanteuses, et les performances étaient généralement interprétées par des hommes. Un groupe qui est apparu comme une exception était un groupe entièrement féminin qui jouait d’instruments de musique.
 
 Les Shirelles et les Ronettes, apparus en 1964, étaient techniquement des groupes vocaux, mais en tant que collectif à prédominance féminine, ils eurent une forte influence sur leurs successeurs. Finalement, à la fin des années 1960, on a commencé à voir des femmes jouer de la guitare et de la batterie sur la côte ouest des États-Unis et au Royaume-Uni.
 
@@ -72,7 +72,7 @@ Dans les années 1970, avec la montée de la deuxième vague féministe, les fem
 
 ## Années 1980 : Punk, DIY, expansion des groupes de filles
 
-Le punk a mis l'accent sur l'attitude plutôt que sur la technique et a promu l'idée que n'importe qui pouvait créer un groupe. Cette idée était extrêmement importante pour les femmes. Au Royaume-Uni, des groupes tels que The Slits et the Raincoats sont apparus, présentant des sons et des visuels qui rejetaient les notions conventionnelles de femmes.
+Le punk a mis l'accent sur l'attitude plutôt que sur la technique et a promu l'idée que n'importe qui pouvait créer un groupe. Cette idée était extrêmement importante pour les femmes. Au Royaume-Uni, des groupes tels que The Slits et the Raincoats sont apparus, présentant des sons et des visuels qui rejetaient les notions conventionnelles de la femme.
 
 Aux États-Unis, le nombre de groupes féminins augmente sur les scènes punk de Los Angeles et de New York, et des réseaux se constituent via des labels DIY et des fanzines. La mauvaise performance n'a pas été considérée comme un défaut, mais comme une partie de l'expression de l'artiste.
 
@@ -159,11 +159,11 @@ Au cours de l'ère du rock alternatif des années 1990, les groupes de filles so
 
 ## Expansion régionale : singularité européenne
 
-La scène européenne des girl bands a un bagage culturel différent de celui des États-Unis. En Grande-Bretagne, la société de classes et la culture de la jeunesse étaient étroitement liées, et le fait que les femmes formaient un groupe était une expression de leur position sociale.
+La scène européenne des girl bands a un contexte culturel différent de celui des États-Unis. En Grande-Bretagne, la société de classes et la culture de la jeunesse étaient étroitement liées, et le fait que les femmes formaient un groupe était une expression de leur position sociale.
 
 L'ère post-punk de la fin des années 1970 et des années 1980 a vu une augmentation du nombre de groupes basés dans les écoles d'art et les réseaux scolaires, combinant expérimentation musicale et conscience politique. Dans ce contexte, les groupes féminins sont devenus une présence qui a joué un rôle dans l’avant-garde musicale et la critique sociale.
 
-En Europe continentale, une scène se forme autour de Berlin et de Paris où les frontières entre art et musique s'estompent. Les groupes féminins ont développé leurs propres expressions tout en croisant la culture des clubs et l'art de la performance.
+En Europe continentale, une scène se forme autour de Berlin et de Paris où les frontières entre art et musique s'estompent. Les groupes féminins ont développé leurs propres expressions uniques tout en croisant la culture des clubs et l'art de la performance.
 
 > En Europe, les girls bands faisaient partie d'un mouvement culturel.
 
@@ -207,7 +207,7 @@ L’histoire des girls bands est également étroitement liée aux changements d
 
 L'éducation et la communauté étaient essentielles à l'augmentation des groupes de filles. La promotion de l'éducation musicale, des ateliers et des événements réservés aux femmes ont créé de nouveaux participants.
 
-Depuis les années 1990 notamment, les réseaux de femmes ont favorisé le partage de connaissances et d’expériences et soutenu la formation d’une scène durable.
+Surtout depuis les années 1990, les réseaux entre femmes ont favorisé le partage de connaissances et d’expériences et soutenu la formation d’une scène durable.
 
 > La communauté est un dispositif qui permet à l'histoire de continuer.
 

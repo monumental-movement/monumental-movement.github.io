@@ -54,7 +54,7 @@ color: #fff;
 
 Le Murmur de R.E.M. de 1983 est particulièrement important en tant que point de départ d'une approche alternative. Tout en s'éloignant du commercialisme, ils présentent des mélodies influencées par le folk rock et des paroles ambiguës, et gagnent un large public, notamment dans les villes universitaires américaines. Le succès de R.E.M. a été le moment qui a prouvé qu'« un nouveau type de rock, différent du mainstream, mais disposant d'un public fiable » pouvait être créé.
 
-À la même époque, des groupes tels que The Replacements, Hüsker Dü, The Feelies et Sonic Youth ont émergé, mélangeant avec souplesse bruit, mélodie et expérimentation. En particulier, l'exploration par Sonic Youth de l'accordage de la guitare et de la structure du bruit a eu une influence majeure sur la musique alternative ultérieure.
+À peu près à la même époque, des groupes tels que The Replacements, Hüsker Dü, The Feelies et Sonic Youth ont émergé, mélangeant avec souplesse bruit, mélodie et expérimentation. En particulier, l'exploration par Sonic Youth de l'accordage de la guitare et de la structure du bruit a eu une influence majeure sur la musique alternative ultérieure.
 
 Au Royaume-Uni, The Smiths a fait ses débuts en 1984. Combinant la délicatesse de la guitar pop avec des thèmes sociaux, il a déterminé les valeurs du rock indépendant ultérieur.
 
@@ -64,7 +64,7 @@ Le trait commun de cette période est que « l’idéologie a précédé la musi
 - Émergent des villes régionales et des villes universitaires
 - Capter des émotions et des voix qui ne sont pas couvertes par les majors
 
-Ces trois sont devenus la base d’Alterna plus tard.
+Ces trois sociétés sont devenues la base d’Alterna ultérieure.
 
 ---
 
@@ -100,7 +100,7 @@ Cependant, il n’est pas exact de parler d’alternative dans son ensemble en t
 
 ---
 
-## **Chapitre 4 : Diversification et fragmentation (1995-1999)**
+## **Chapitre 4 : Diversification et fragmentation (1995-1999)**
 
 Depuis 1995, l’alternative est passée du statut de « genre » à celui de « méthodologie qui traverse les genres ».
 
@@ -122,7 +122,7 @@ Ce mouvement se connecte à des groupes lyriques et expérimentaux comme Radiohe
 La montée de Tortue, Mogwai, Godspeed You ! Black Emperor et d’autres ont repoussé les limites du rock.
 
 L’alternative n’est plus un style unique ;
-**"Un ​​terme général désignant la créativité qui n'est pas capturé par le commercialisme"**
+**"Un ​​terme général désignant la créativité qui n'est pas récupérée par le commercialisme"**
 Il est désormais compris comme.
 
 ---
@@ -133,7 +133,7 @@ Au début des années 2000, des groupes tels que The Strokes, The White Stripes,
 
 Dans le même temps, des groupes tels que Arcade Fire, Modest Mouse, The National et Franz Ferdinand ont émergé à divers endroits, et la musique alternative recoupait la définition plus large du « rock indépendant ».
 
-À la fin des années 2000, la culture des festivals américains (Coachella, Lollapalooza) s’est développée et davantage d’actes indépendants ont occupé la scène principale. Voir des groupes autrefois underground occuper le devant de la scène lors des festivals est devenu monnaie courante.
+À la fin des années 2000, la culture des festivals américains (Coachella, Lollapalooza) s'est développée et davantage d'actes indépendants ont occupé la scène principale. Voir des groupes autrefois underground occuper le devant de la scène lors des festivals est devenu monnaie courante.
 
 ---
 
@@ -141,7 +141,7 @@ Dans le même temps, des groupes tels que Arcade Fire, Modest Mouse, The Nationa
 
 Depuis les années 2010, les frontières des genres rock se sont estompées en raison de la diffusion du streaming, et l’alternative a fini par avoir des significations plus diverses.
 
-Avec le parcours psychédélique de Tame Impala, la fusion numérique/folk de Bon Iver, l'expérimentation de Deerhunter et la montée des artistes féminines (St. Vincent, Mitski, Phoebe Bridgers), l'alternatisme a complètement évolué vers « l'altera en tant qu'attitude esthétique ».
+Avec le parcours psychédélique de Tame Impala, la fusion numérique/folk de Bon Iver, l'expérimentation de Deerhunter et la montée en puissance d'artistes féminines (St. Vincent, Mitski, Phoebe Bridgers), l'alternatisme a complètement évolué vers « l'altera en tant qu'attitude esthétique ».
 
 Plutôt que « l’anti-commercialisme » du passé,
 **"Une attitude de production qui met l'accent sur l'indépendance et l'expérimentation"**

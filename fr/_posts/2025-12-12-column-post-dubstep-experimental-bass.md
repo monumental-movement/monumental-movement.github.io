@@ -59,7 +59,7 @@ Le rythme est basé sur le **2-step** dérivé du garage, mais il inclut égalem
 - La grosse caisse varie de **110 à 130 BPM** au lieu d'environ 140
 - Snare a une tonalité d'attaque faible sans accentuer le backbeat
 - Les chapeaux sont souvent fabriqués à partir d'enregistrements de terrain traités plutôt qu'à partir de métal.
-- En plus des boîtes à rythmes, vous pouvez utiliser des échantillons courts tels que le bruit de petits objets qui frappent, le bruit du grattage du papier, etc.
+- En plus des boîtes à rythmes, vous pouvez utiliser des échantillons courts tels que le bruit de petits objets qui frappent, le bruit de grattage de papier, etc.
 
 ### 1-3 Espace acoustique : réverbération, particule, enregistrement sur le terrain
 Le post-dubstep peut être décrit comme un « genre qui crée de l'espace ». En particulier, les éléments suivants sont distinctifs.
@@ -80,7 +80,7 @@ Sa caractéristique la plus importante est sa capacité à extraire le sentiment
 
 ### Caractéristiques sonores
 - L'échantillon vocal est extrêmement traité et contient plusieurs formants, ce qui lui donne une sensation « de genre indéterminé ».
-- Mettre le Vinyl Crackle (bruit d'enregistrement) au premier plan
+- Mettre le craquement du vinyle (bruit d'enregistrement) au premier plan
 - Le coup de pied est une attaque basse comme un tonnerre lointain en pleine nuit
 - La caisse claire a une qualité sonore sèche, non métallique, mais comme des "morceaux de bois cassés"
 - Dans l'ensemble, un "médium brumeux" domine, et la mélodie reste un motif court.
@@ -104,7 +104,7 @@ James Blake est unique en ce qu'il sort le post-dubstep du contexte de la cultur
 
 ### Caractéristiques acoustiques
 - Minimalisme extrême centré autour du piano et du chant
-- Les basses sont minimales et disposées en douceur autour de 50-70 Hz.
+- Les basses sont minimes et disposées en douceur autour de 50 à 70 Hz.
 - La progression d'accords a une sensation harmonique classique.
 - Supprime la manipulation des formants et brouille la frontière entre les sons naturels et les sons électroniques
 - En fonction de la profondeur de la compression, la « respiration » fonctionne comme le rythme de la chanson

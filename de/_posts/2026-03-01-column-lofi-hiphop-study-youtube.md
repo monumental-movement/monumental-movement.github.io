@@ -20,7 +20,7 @@ title: '[Kolumne] Warum Lo-Fi-Hip-Hop zum Standard für Studium und Beruf geword
 
 ## Was ist Lo-Fi-Hip-Hop?
 
-Text: mmr｜Thema: Untersuchung des historischen Hintergrunds der weltweiten Unterstützung von Lo-Fi-Hip-Hop als „Hintergrundmusik für Studium und Beruf“ und der Struktur seiner Popularität.
+Text: mmr｜Thema: Untersuchung des historischen Hintergrunds der weltweiten Verbreitung von Lo-Fi-Hip-Hop als „Hintergrundmusik für Studium und Beruf“ und der Struktur seiner Popularität.
 
 Lo-Fi-Hip-Hop ist ein Subgenre des instrumentalen Hip-Hop, das sich durch absichtlich laute und verzerrte Texturen, einfache Beats und kurze Loop-Strukturen auszeichnet.
 Texte fehlen oft und das Tempo liegt bei etwa 60-90 BPM.
@@ -51,7 +51,7 @@ color: #fff;
 
 Lo-Fi-Hip-Hop hat seine Wurzeln im Underground-Hip-Hop der 1990er Jahre. Es zeichnete sich durch eine Sampling-basierte Produktionsmethode und einen kühlen, introspektiven Ton aus. J Dilla und Nujabes werden als ikonische Figuren genannt.
 
-J Dilla entwickelte ein einzigartiges Off-the-Grid-Drum-Arrangement, das sogenannte „Dilla-Feeling“. Nujabes erfanden Jazz und Soul sanft neu und machten instrumentalen Hip-Hop international populär. Seine Lieder wurden im TV-Anime „Samurai Champloo“ verwendet und erreichten ausländische Hörer.
+J Dilla entwickelte ein einzigartiges Off-the-Grid-Drum-Arrangement, das sogenannte „Dilla-Feeling“. Nujabes machte Instrumental-Hip-Hop mit einer sanfteren Neuinterpretation von Jazz und Soul international populär. Seine Lieder wurden im TV-Anime „Samurai Champloo“ verwendet und erreichten ausländische Hörer.
 
 Von Ende der 2000er bis Anfang der 2010er Jahre schritt die Digitalisierung von Produktionsumgebungen voran und der Online-Austausch von DAWs und gesampelten Materialien wurde alltäglich. Das Genre nahm langsam Gestalt an, wobei unbekannte Beatmaker Songs auf Plattformen wie Bandcamp und SoundCloud veröffentlichten.
 
@@ -88,9 +88,9 @@ Produzent mit Sitz in Tokio. Durch die Verschmelzung von Jazz und Hip-Hop präse
 
 Bekannt für seine Lo-Fi-Texturen und experimentellen Beats. Obwohl sie nicht direkt dem Lo-Fi-Genre zuzuordnen sind, werden die Einflüsse im Kontext des DIY-Geistes diskutiert.
 
-### Tompbeats
+### Tomppabeats
 
-Vertreter der SoundCloud-Generation der 2010er Jahre. Aufgrund seiner kurzen Schlingenstruktur und nostalgischen Textur erfreute es sich großer Beliebtheit.
+Vertreter der SoundCloud-Generation der 2010er Jahre. Aufgrund seiner kurzen Schlaufenstruktur und nostalgischen Textur erfreute es sich großer Beliebtheit.
 
 ### Idealismus
 
@@ -119,7 +119,7 @@ flowchart LR
     F --> G
 </div>
 
-> Akustische Merkmale haben eine Struktur, die mit der psychologischen Konzentration gut vereinbar ist.
+> Akustische Merkmale haben eine Struktur, die gut mit der psychologischen Konzentration vereinbar ist.
 
 ---
 
@@ -127,7 +127,7 @@ flowchart LR
 
 Lo-Fi-Hip-Hop ist über ein reines Musikgenre hinaus zu einem Symbol der Arbeitskultur im digitalen Zeitalter geworden. Insbesondere nach der Corona-Pandemie ist durch die zunehmende Verbreitung von Homeoffice und Online-Lernen die Nachfrage nach Hintergrundmusik, die für längere stationäre Arbeiten geeignet ist, gestiegen.
 
-Der Live-Chat von YouTube ermöglicht es Zuschauern aus aller Welt, mitzuteilen, wo sie sich befinden und was sie gerade tun, und schafft so einen pseudo-kollaborativen Raum. Dabei handelt es sich eher um „Environmental Sharing Media“ als um ein musikalisches Erlebnis.
+Der Live-Chat von YouTube ermöglicht es Zuschauern aus der ganzen Welt, mitzuteilen, wo sie sich befinden und was sie gerade tun, und schafft so einen pseudo-kollaborativen Raum. Dabei handelt es sich eher um „Environmental Sharing Media“ als um ein musikalisches Erlebnis.
 
 Lo-Fi ist auch mit visueller Ästhetik verbunden. Wiederkehrende Motive wie Illustrationen im Anime-Stil, Regengeräusche, Fensterbänke und Laptops vermitteln gleichzeitig ein Gefühl von Einsamkeit und Geborgenheit. Durch die Kombination von Ton und Video wurde eine Markenikone geschaffen.
 

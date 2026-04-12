@@ -189,7 +189,7 @@ flowchart TD
 
 ---
 
-# 8. Grands travaux
+# 8. Travaux majeurs
 
 ##8-1. Chef-d'œuvre de Chillwave
 
@@ -227,7 +227,7 @@ Le **fond de grille + typographie néon** de Synthwave créé par des graphistes
 
 # 10. Présent et futur des deux genres
 
-Synthwave est toujours très demandé comme bande sonore pour les jeux et les drames, et est souvent utilisé dans les jeux VR et indépendants.
+Synthwave est toujours très demandé comme bande originale pour les jeux et les drames, et est souvent utilisé dans les jeux VR et indépendants.
 Chillwave, en revanche, est de plus en plus évoquée comme une « ère indépendante » des années 2010, mais a été héritée dans le contexte de la dream pop et de la room pop.
 
 ---

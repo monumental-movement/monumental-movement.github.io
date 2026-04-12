@@ -63,7 +63,7 @@ Textural Drone se caractérise par une structure dans laquelle plusieurs couches
 
 ### 2-2. Techniques de superposition
 
-La superposition de plusieurs pistes transforme la musique d'une structure linéaire en une structure planaire. Chaque couche a une période et une vitesse de modulation indépendantes, produisant des fluctuations asynchrones dans leur ensemble.
+La superposition de plusieurs pistes transforme la musique d'une structure linéaire en une structure superficielle. Chaque couche a une période et une vitesse de modulation indépendantes, produisant des fluctuations asynchrones dans leur ensemble.
 
 <div class="mermaid">
 flowchart LR

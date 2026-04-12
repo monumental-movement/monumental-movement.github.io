@@ -89,7 +89,7 @@ Dabei spielen Streichinstrumente, Klavier, Chor und Schlaginstrumente eine zentr
 
 ### Jackenkunst und visuelle Darstellung
 
-Neoklassische Darkwave-Bilder beziehen sich oft auf religiöse Gemälde, mittelalterliche Manuskripte, symbolistische Gemälde und ruinöse Landschaften. Die Personen sind in der Regel anonym und Kompositionen, die weder Zeit noch Ort angeben, werden ausgewählt.
+Neoklassische Darkwave-Bilder beziehen sich häufig auf religiöse Gemälde, mittelalterliche Manuskripte, symbolistische Gemälde und ruinöse Landschaften. Die Personen sind in der Regel anonym und Kompositionen, die weder Zeit noch Ort angeben, werden ausgewählt.
 
 ### Farbe und Textur
 
@@ -102,7 +102,7 @@ Dunkle Farben (Schwarz, Tiefrot, Braun, Grau) überwiegen und der Kontrast wird 
 
 ## Akustische Analyse
 
-### Räumliche Verarbeitung
+### Raumverarbeitung
 
 Hall- und Verzögerungseinstellungen sind oft so konzipiert, dass sie einen großen Raum mit einem klaren Gefühl für die Entfernung zwischen den Schallquellen erzeugen. Dies ermöglicht es dem Zuhörer, die Musik als Ort zu erleben.
 

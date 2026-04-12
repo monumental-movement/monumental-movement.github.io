@@ -22,7 +22,7 @@ title: '[Kolumne] Geschichte der Weltstraßenmusik – Genealogie der Klänge, d
 
 Text: mmr | Thema: Verfolgen, wie Musik, die auf den Straßen der Städte entstand, die Weltkultur prägte
 
-Unter Straßenmusik versteht man eine Musikkultur, die nicht in kommerziellen Einrichtungen oder Theatern, sondern an öffentlichen Orten wie Straßen, Plätzen, Märkten und U-Bahn-Stationen entstand und sich entwickelte.
+Straßenmusik bezeichnet eine Musikkultur, die nicht in kommerziellen Einrichtungen oder Theatern, sondern an öffentlichen Orten wie Straßen, Plätzen, Märkten und U-Bahn-Stationen entstand und sich entwickelte.
 
 Hier steht die Gemeinschaft über den Institutionen, die Improvisation über der Partitur und die Körperlichkeit des Feldes über der Autorität.
 

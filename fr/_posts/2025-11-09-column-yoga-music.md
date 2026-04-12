@@ -20,7 +20,7 @@ title: '[Chronique] Fusion du yoga et de la musique : histoire, science et guid
 
 Texte : mmr | Thème : Une exploration complète du contexte historique, des bases scientifiques, des influences culturelles et des pratiques modernes du yoga et de la musique.
 
-Le yoga est plus qu’un simple exercice physique ; c'est une sagesse ancienne qui intègre l'esprit et le corps. Ses origines remontent à la période védique, vers 1 500 avant JC, lorsque la récitation de mantras et de poésie était étroitement associée à la méditation et aux rituels religieux. Les vibrations sonores jouaient un rôle pour calmer l’esprit et aiguiser les sens physiques.
+Le yoga est plus qu’un simple exercice physique ; c'est une sagesse ancienne qui intègre l'esprit et le corps. Ses origines remontent à la période védique, vers 1 500 avant JC, lorsque la récitation de mantras et de poésie était étroitement associée à la méditation et aux rituels religieux. Les vibrations sonores jouaient un rôle en apaisant l’esprit et en aiguisant les sens physiques.
 
 Par exemple, chanter « Om » (ॐ) fait résonner les vibrations graves dans tout le corps, ce qui a pour effet de réguler la respiration et le rythme cardiaque. Les ragas (combinaisons de gammes) de la musique classique indienne étaient utilisés pour ajuster l'état d'esprit et du corps en fonction de la saison et de l'heure de la journée.
 
@@ -47,7 +47,7 @@ color: #fff;
 ## table des matières
 1. [Chapitre 1 : Rythme ancien et spiritualité](#chapitre1)
 2. [Chapitre 2 : Yoga moderne et musicothérapie](#chapitre2)
-3. [Chapitre 3 : Yoga moderne et musique](#chapitre3)
+3. [Chapitre 3 : Yoga et musique modernes](#chapitre3)
 4. [Chapitre 4 : Perspective scientifique](#chapitre4)
 5. [Chapitre 5 : Aspects culturels et sociaux](#chapitre5)
 6. [Chapitre 6 : Guide pratique](#chapitre6)
@@ -95,7 +95,7 @@ Depuis les années 1970, la musique new age à des fins de méditation et de gu�
 
 ## Chapitre 3 : Yoga moderne et musique {#chapter3}
 
-Au 21ème siècle, le yoga est devenu très populaire dans le monde entier. Il est intégré dans la vie quotidienne via des studios urbains et des services en ligne. La musique soutient le rythme de la respiration et du mouvement et favorise la concentration et la relaxation.
+Au 21e siècle, le yoga est devenu très populaire dans le monde entier. Il est intégré dans la vie quotidienne via des studios urbains et des services en ligne. La musique soutient le rythme de la respiration et du mouvement et favorise la concentration et la relaxation.
 
 ### Utilisation de la musique de fond en studio
 

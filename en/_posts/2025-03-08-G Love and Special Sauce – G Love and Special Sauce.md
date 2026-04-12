@@ -15,7 +15,7 @@ title: G. Love & Special Sauce – G. Love & Special Sauce
 ---
 
 
-G. Love & Special Sauce is a rock band from Philadelphia. He has an organic and unique style that mixes elements of blues, hip-hop, rock, and soul.
+G. Love & Special Sauce is a rock band from Philadelphia. Characterized by an organic and unique style that mixes elements of blues, hip-hop, rock, and soul.
 
 Their debut album, ""G. Love & Special Sauce,'' released by Okeh Records in 1994, became a huge hit, with the seventh song on the album, Cold Beverage, becoming a hit.
 

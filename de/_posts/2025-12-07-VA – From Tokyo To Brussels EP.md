@@ -13,7 +13,7 @@ title: VA – Von Tokio nach Brüssel EP
 ---
 
 
-Ein Projektalbum, das 2004 von MB Elektronics, einem Label von Marco Bailey, veröffentlicht wurde.
+Ein Projektalbum, das 2004 von MB Elektronics, einem von Marco Bailey geführten Label, veröffentlicht wurde.
 
 A ist ein Track von Japans führendem Techno-DJ Q'hey und der belgischen DJ-Legende Marco Bailey.
 

@@ -15,7 +15,7 @@ title: Brennbarer Edison – Blaubart
 
 Combustible Edison ist eine amerikanische Lounge-/Jazz-/Easy-Listening-Band, die Anfang der 1990er Jahre in Providence, Rhode Island, gegründet wurde.
 
-Enthält die Originalversion des Albums und Remixe von Peter Thomas Sound Orchestra, Saint Etienne und mehr.
+Enthält die Original-Albumversion und Remixe von Peter Thomas Sound Orchestra, Saint Etienne und mehr.
 
 #### Trackliste
 ```md

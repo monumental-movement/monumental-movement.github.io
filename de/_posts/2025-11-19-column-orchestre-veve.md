@@ -21,7 +21,7 @@ title: '[Kolumne] Orchestra Veve: Eine vollständige Geschichte der renommierten
 
 Text: mmr｜Thema: Hintergrund der Gründung von Orchestra Veve, musikalische Merkmale der goldenen Ära, technische Aspekte, Analyse repräsentativer Lieder, Vergleich mit anderen Bands
 
-Orchestra Veve ist eine Band, die eine wichtige Position in der Musikgeschichte des Kongo (ehemals Zaire) einnimmt. Sie waren am Wendepunkt des Übergangs von der Rumba Congolaise zum Soukous aktiv und führten die Szene vor allem in den 1970er Jahren mit ihren kraftvollen Aufnahmen und innovativen Ensembles an.
+Orchestra Veve ist eine Band, die eine wichtige Position in der Musikgeschichte des Kongo (ehemals Zaire) einnimmt. Sie waren am Wendepunkt des Übergangs von Rumba Congolaise zu Soukous aktiv und führten die Szene vor allem in den 1970er Jahren mit ihren kraftvollen Aufnahmen und innovativen Ensembles an.
 
 ---
 
@@ -41,7 +41,7 @@ color: #fff;
 
 # Kapitel 1 Hintergrund der Entstehung und Situation der kongolesischen Musikszene
 
-Bereits Ende der 1960er Jahre hatte die kongolesische Musik im Grande Quartier eine wettbewerbsfähige Live-Kultur geformt. Da mehrere starke Bands wie OK Jazz, African Fiesta und Zaïko miteinander konkurrierten und die Verfeinerung von Gitarrenensembles und polyphonen Gesangsparts zunahm, nahm die Zahl unabhängiger Labels zu, die den Erfolg junger Musiker unterstützten.
+Bereits Ende der 1960er Jahre hatte die kongolesische Musik im Grande Quartier eine wettbewerbsfähige Live-Kultur geformt. Als starke Bands wie OK Jazz, African Fiesta und Zaïko miteinander konkurrierten und die Verfeinerung von Gitarrenensembles und Gesangspolyphonie zunahm, nahm die Zahl unabhängiger Labels zu, die den Erfolg junger Musiker unterstützten.
 
 Orchestra Veve wurde inmitten dieser musikalischen Fluidität geboren, die durch die Urbanisierung und Medienexpansion in der Zeit nach der Unabhängigkeit hervorgerufen wurde. Insbesondere war es eine Zeit, in der aufgrund der Kombination aus der starken Tanzkultur des Kongo, dem wachsenden Einfluss von Rundfunkanstalten und der Nachfrage nach Auftritten in Straßenbars mehrere aufstrebende Bands entstanden.
 
@@ -85,7 +85,7 @@ Der Grund, warum dieses „Koexistenz von Quantität und Qualität“ möglich w
 
 - **Systematisierung zur Maximierung der Betriebsrate Ihres eigenen Studios**
 - **Rotationssystem zwischen den Darstellern**
-- **Reduzierte Aufnahmezeit pro Song (ein Song ist in mehreren Stunden fertig)**
+- **Reduzierte Aufnahmezeit pro Song (ein Song wurde in mehreren Stunden fertiggestellt)**
 - **Verbesserte Reproduzierbarkeit durch die Erstellung von Ensemble-Vorlagen**
 
 Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentative Lieder, die in diesem goldenen Zeitalter entstanden sind.
@@ -102,7 +102,7 @@ Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die 
 
 ## Rolle der Leadgitarre
 
-Veves Leadgitarre zeichnete sich durch eine schärfere „Notch“-Melodie aus als andere Bands dieser Zeit. Besonders auffällig bei Aufnahmen aus den 1970er Jahren.
+Veves Leadgitarre zeichnete sich durch eine schärfere „Notch“-Melodie aus als bei anderen Bands dieser Zeit. Besonders auffällig bei Aufnahmen aus den 1970er Jahren.
 
 - Chromatischer Leitanstieg
 - schnelles Tremolo
@@ -115,7 +115,7 @@ war ein Symbol des Veve-Sounds. Es beeinflusste auch die späteren Rapa-Lapa- �
 Veves Gesang basiert auf **drei- bis vierstimmiger Harmonie**, wobei eine Person die Hauptmelodie beibehält, während die anderen zwei oder drei die Gegenmelodie hinzufügen.
 Verglichen mit der einzeiligen Musik von ZAïko und der auf tiefen Harmonien basierenden Musik von OK Jazz liegt Veve irgendwo dazwischen, mit vielen **leichten und hellen Harmonien**.
 
-## Innovation in der Rhythmussektion
+## Innovation in der Rhythmusgruppe
 
 Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter ist als die Soukous aus derselben Zeit und eine Textur beibehält, die der einer Rumba ähnelt.
 
@@ -123,7 +123,7 @@ Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die R�
 
 # Kapitel 6 Analyse repräsentativer Lieder
 
-## Song A: Zonga Andowe – rhythmisches Fundament und melodische Struktur
+## Lied A: Zonga Andowe – rhythmisches Fundament und melodische Struktur
 
 „Zonga Andowe“ ist mit seinem sich wiederholenden Refrain und der melodischen Gitarrenstruktur einer der beliebtesten Hits von Veve.
 
@@ -153,7 +153,7 @@ graph TD
 
 ### Technische Analyse
 
-* **Saxophon präsentiert Melodie am Anfang → Gitarre imitiert**
+* **Das Saxophon präsentiert die Melodie zu Beginn → die Gitarre imitiert**
 * **Gesang ist „Fragen“ und Refrain ist „Antwort“**
 * **Lineares, hohes Gitarrensolo**
 
@@ -177,12 +177,12 @@ sequenceDiagram
 
 ## Lied C: Nitarudia – Tanzorientierter Soukous-Abend
 
-In diesem Lied erscheint eine schnellere und segmentiertere Gitarre als Vorläufer des Soukousu-Stils. Es gilt als der zukunftsorientierteste Klang von Veves Werken.
+In diesem Lied erscheint eine schnellere und fragmentiertere Gitarre als Vorläufer dafür, dass das Lied Sokusu wird. Es gilt als der zukunftsorientierteste Klang von Veves Werken.
 
 ### Technische Analyse
 
 * **Hi-Hat: 16-Minuten-Schritte jetzt verfügbar**
-* **Gitarre: Auf einem Pentagramm (im Notensystem) betrachtet, steigt das Arpeggio treppenförmig an**
+* **Gitarre: Auf einem Pentagramm (Notenzeile) betrachtet, steigt das Arpeggio treppenförmig an**
 * **Bass: Phrase, die in 2-Takt-Einheiten „hüpft“**
 
 ### Struktur des Gitarrenansatzes
@@ -216,7 +216,7 @@ Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Int
 # Kapitel 8 Tanzkultur und Rezeptionsgeschichte: Kongo und die Diaspora
 
 Veves Musik hatte großen Einfluss auf die urbane Tanzkultur des Kongo.
-Besonders beliebt ist es in Bars (Tanzlokalen) und jedes Mal, wenn die Aufnahme einer Band abgespielt wird, etablieren sich bestimmte Schritte.
+Besonders beliebt ist es in Bars (Tanzlokalen) und jedes Mal, wenn die Aufnahme einer Band gespielt wird, etablieren sich bestimmte Schritte.
 
 * **Stil, der große Handgesten verwendet**
 * **Schritte mit starker Seitwärtsbewegung**
@@ -233,14 +233,14 @@ Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und das Vereinig
 ## Unterschied zu Zaïko Langa Langa
 
 * **Zaïko: leicht, schnell, percussionlastig, lange Seben**
-* **Veve: sanft, Rumba-artig, saxofonischer Schwerpunkt, Chorpolyphonie**
+* **Veve: sanft, Rumba-artig, saxophonischer Schwerpunkt, Chorpolyphonie**
 
 Obwohl beide aus derselben Zeit stammen, sind ihre Richtungen sehr unterschiedlich.
 
 ## Musikalische Distanz mit OK Jazz
 
 Da Veran selbst von OK Jazz ist, haben sie den gleichen Sinn für Harmonie und Tiefe der melodischen Verarbeitung, aber
-Veve ist moderner und tanzbarer als OK Jazz.
+Veve ist im Vergleich zu OK Jazz moderner und tanzbarer.
 
 ## Gemeinsamkeiten mit Afrisa International
 

@@ -18,7 +18,7 @@ title: '[Chronique] L''histoire de la musique réécrite par des algorithmes'
 
 ## L'histoire de la musique a été réécrite par la « technologie »
 
-Texte : mmr｜Thème : Décrypter comment les algorithmes ont modifié la structure des succès musicaux et l'histoire des genres
+Texte : mmr｜Thème : Dévoiler comment les algorithmes ont modifié la structure des succès musicaux et l'histoire des genres
 
 
 En regardant l’histoire de la musique, la mécanique des succès a toujours changé en raison de la technologie.
@@ -80,7 +80,7 @@ Par exemple, aux États-Unis, le rock and roll des années 1950,
 Au Royaume-Uni, des émissions telles que BBC Radio 1 ont déterminé les tendances musicales.
 
 Les disquaires étaient également des lieux de découverte importants.
-Recommandations du personnel, équipement d'écoute, conception de la veste, etc.
+Recommandations du personnel, équipement d'écoute, conception de veste, etc.
 Cela a stimulé la curiosité des auditeurs.
 
 Les ventes de CD ont atteint leur apogée dans les années 1990,
@@ -106,14 +106,14 @@ L’avènement d’Internet a soudainement brisé cette restriction.
 
 À la fin des années 2000, les services de distribution de musique sont rapidement devenus populaires.
 
-Le système de recommandation de streaming revêt une importance particulière.
+Le système de recommandation de streaming est particulièrement important.
 
 L'algorithme utilise principalement les données suivantes.
 
 - Jouer l'histoire
 - Taux de saut
 - Nombre de sauvegardes
-- Ajouter une playlist
+- Ajouter une liste de lecture
 - Similitude des utilisateurs
 
 Analysez ces données et

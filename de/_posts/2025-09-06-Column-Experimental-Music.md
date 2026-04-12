@@ -58,7 +58,7 @@ color: #fff;
 | Pierre Schäffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4’33’’ | 1952 |
 | John Cage | Williams-Mix | 1952 |
-| Pierre Henry | Symphonie für einen Menschen | 1950 |
+| Pierre Henry | Symphonie für einen Mann seines Herzens | 1950 |
 | Karlheinz Stockhausen | Studie II | 1954 |
 | Edgard Varèse | Poème électronique | 1958 |
 | John Cage | Imaginäre Landschaft Nr.4 | 1951 |
@@ -83,7 +83,7 @@ color: #fff;
 
 | Künstler | Verfolgen | Jahr |
 |--------------|----------|----|
-| La Monte Young | Der zweite Traum vom Abspanntransformator für Hochspannungsleitungen | 1962 |
+| La Monte Young | Der zweite Traum vom Abwärtstransformator für Hochspannungsleitungen | 1962 |
 | Terry Riley | In C | 1968 |
 | Steve Reich | Klavierphase | 1967 |
 | Pauline Oliveros | Tschüss Schmetterling | 1965 |
@@ -97,7 +97,7 @@ color: #fff;
 ---
 
 ## 1970er Jahre: Lärm, die Entstehung der Industrie
-- **Hintergrund:** Einbeziehung von „Noise“ in die Musik bei gleichzeitiger Überschneidung mit Punk und Avantgarde-Kunst. Die Geburt der Industriekultur.
+- **Hintergrund:** Einbeziehung von „Noise“ in die Musik bei gleichzeitiger Verknüpfung mit Punk und Avantgarde-Kunst. Die Geburt der Industriekultur.
 - **Ausrüstung:** EMS Synthi A, ARP 2600, Roland System 100, selbstgebauter Rauschgenerator.
 
 ### Meisterwerk
@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## 2000er: Laptops und Globalisierung
-- **Hintergrund:** Noise, Electronica und Field Recording verbreiteten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
+- **Hintergrund:** Noise, Electronica und Field Recordings verbreiten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
 - **Ausrüstung:** Ableton Live, SuperCollider, Kontakt, Laptop.
 
 ### Meisterwerk
@@ -231,7 +231,7 @@ color: #fff;
 | Tim Hecker | Jungfrauen | 2013 |
 | Holly Herndon | Chor | 2014 |
 | Ben Frost | Venter | 2014 |
-| Yves Tumor | Eine Orchidee lecken | 2018 |
+| Yves-Tumor | Eine Orchidee lecken | 2018 |
 | Caterina Barbieri | Fantasien | 2019 |
 | Kaitlyn Aurelia Smith | Eine Absicht | 2016 |
 | Roly Porter | 4101 | 2016 |

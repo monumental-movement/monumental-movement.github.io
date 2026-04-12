@@ -65,7 +65,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - Klare Melodie-/Refrain-Struktur → Einfache Erstellung von Tanz-Choreografien
 
-- Dramatische Songentwicklung → Passend zum Höhepunkt des Swings
+- Dramatische Songentwicklung → passend zum Höhepunkt des Swings
 
 
 <hr>
@@ -80,7 +80,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - Erläuterungen zur Choreographie werden auf Jacken und Broschüren veröffentlicht.
 
-● Signiert mit einem speziellen Eurobeat-Label
+● Signiert mit einem exklusiven Eurobeat-Label
 
 Italienische Labels wie Time, A-Beat C und Delta haben Exklusivverträge mit avex unterzeichnet, um Musik speziell für den japanischen Markt zu produzieren.
 
@@ -96,7 +96,7 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 - Vertrieb von Choreografie-Videos (VHS, später DVD)
 
-- Serien wie „Parapara Paradise“ und „Parapara Kyonen“ sind ebenfalls erhältlich.
+- Es erscheinen auch Serien wie „Parapara Paradise“ und „Parapara Kyonen“.
 
 ● Medienproduktion
 
@@ -119,7 +119,7 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 ● „Aufwachen“ der YouTube-Generation
 
-- Ein zweiter Parapara-Boom findet vor Ort statt, da frühere Choreografievideos und Lieder online geteilt werden.
+- Ein zweiter Parapara-Boom findet lokal statt, da frühere Choreografievideos und Lieder online geteilt werden.
 
 - Es gibt auch Phänomene, bei denen ausländische Fans wiederentdeckt werden und gelobt werden, als wären sie reimportiert worden.
 

@@ -134,7 +134,7 @@ Knowledge that was previously limited to specialized institutions can now be sha
 This has brought about the democratization of music education and the diversification of evaluation standards.
 
 On the other hand, the division between systematic education and self-study has also been pointed out.
-While there are concerns about a decline in basic theory and music reading ability, learning outcomes that emphasize creativity have also been confirmed.
+While there are concerns about a decline in basic theory and music reading skills, learning outcomes that emphasize creativity have also been confirmed.
 
 The digital environment has moved music education from a single-track career to a multi-track learning model.
 

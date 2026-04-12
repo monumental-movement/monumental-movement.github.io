@@ -154,7 +154,7 @@ Tours are more than just performances; they form a mobile community. A market wi
 
 Artists such as Jefferson Airplane and Janis Joplin were active around the same time, and the region as a whole was forming its own music scene.
 
-### Genre deconstruction
+### Genre Deconstruction
 
 Blues, folk, rock, and jazz merge, and existing classifications become meaningless. This freedom is the hallmark of the San Francisco sound.
 
@@ -225,7 +225,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[san francisco] --> B[counter culture]
+    A[san francisco] --> B[counterculture]
     B --> C[Grateful Dead]
     C --> D[improvisation]
     C --> E[dead heads]

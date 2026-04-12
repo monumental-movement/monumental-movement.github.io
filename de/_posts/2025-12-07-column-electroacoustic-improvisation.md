@@ -106,7 +106,7 @@ Merkmale:
 - Selbstgebaute/modifizierte Synthesizerschaltungen, Signalgeneratoren usw.
 - Spielt „steuerbare elektronische Signale“ anstelle von Rauschen
 - Behandeln Sie elektronische Klänge wie Jazzphrasen
-- Verfolgung der Übereinstimmung zwischen körperlichen Bewegungen und elektronischen Reaktionen
+- Verfolgung des Zusammenspiels zwischen körperlichen Bewegungen und elektronischen Reaktionen
 
 Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen elektronischer Klänge“ und ist ein repräsentatives Beispiel für die Improvisationsmöglichkeiten des modularen Betriebs.
 
@@ -117,7 +117,7 @@ Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen ele
 # 3-3. Otomo Yoshihide / Sachiko M (Japan)
 Die asiatischen Wurzeln von EAI entstanden in einem Bereich, der sich mit der „Onkyoha“-Bewegung der späten 1990er Jahre überschnitt.
 
-- Sachiko M etabliert extremen Minimalismus mithilfe des internen Testtons (Sinuswelle) des Samplers.
+- Sachiko M stellt extremen Minimalismus mithilfe des internen Testtons (Sinuswelle) des Samplers her.
 - Otomo Yoshihide entwickelt akustische Improvisationen mit Plattenspielern, Gitarren und Samplern
 - Filament (Otomo x Sachiko M) ist eine wichtige Einheit im EAI-Kontext
 

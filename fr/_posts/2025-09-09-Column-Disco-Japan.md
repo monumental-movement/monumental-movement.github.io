@@ -75,9 +75,9 @@ color: #fff;
 | Piste | Artiste | Commentaires |
 |--------------|--------------|--------------|
 | J'adore t'aimer bébé | Donna Été | Un chef-d'œuvre qui a posé les bases d'un chant sensuel et de rythmes 4/4. |
-| Je ressens de l'amour | Donna Summer et Giorgio Moroder | Piste synth-disco révolutionnaire. |
+| Je ressens de l'amour | Donna Summer & Giorgio Moroder | Revolutionary synth-disco track. |
 | Rester en vie | Bee Gees | Hymne disco mondial. |
-| Le Freak | Chics | Un symbole de groove et de sophistication. |
+| Le Freak | Chics | A symbol of groove and sophistication. |
 | OVNI | Dame rose | Une chanson qui symbolise le disco populaire japonais. |
 | Ancien journal | Akiko Wada | Un chef-d'œuvre qui intègre une voix chantée émouvante au disco. |
 | Disco Inferno | Les Tramps | Un classique intemporel qui enflamme les pistes de danse. |
@@ -99,7 +99,7 @@ Le Japon est entré dans une période de bulle économique et de grandes discoth
 - **Chef-d'œuvre représentatif (Japon)**
 - Yoko Oginome — *Héros de la danse* (1985)
 -Akina Nakamori — *DÉSIR -Passion-* (1986)
-- Motoharu Sano — *Jeunes Sangs* (1985)
+- Motoharu Sano — *Jeunes sangs* (1985)
 
 - **Relation avec la culture japonaise**
 Formation des fondements de la « fan dance culture » qui s'est poursuivie avec Bodycon et Juliana Tokyo. Les remix disco de musique occidentale et japonaise sont devenus populaires à la radio et à la télévision.
@@ -259,7 +259,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi et d'autres ont été redécouve
 | Je ne peux pas arrêter le sentiment | Justin Timberlake | Discothèque Pop |
 | La Baie | Métronomie | Nu-Disco Indépendant |
 | DANSE. | Justice | Électro x Disco |
-| Je me sens mieux | Puce chaude | Électro-pop |
+| Je me sens mieux | Puce chaude | Orienté électropop |
 | Feux rouges | Liens | Intersection de l'EDM et du Nu-Disco |
 
 

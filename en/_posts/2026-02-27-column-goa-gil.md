@@ -122,7 +122,7 @@ The audience dances through the night, sharing a sense of unity as the sun rises
 
 In the late 1990s, the sound shifted to the darker, faster Psytrance. He also evolved his set in line with this trend.
 
-The deep bass is emphasized more and the bass line is more complex. The number of sounds increases and the space becomes denser. However, the long set structure was maintained.
+The bass is more emphasized and the bass line is more complex. The number of sounds increases and the space becomes denser. However, the long set structure was maintained.
 
 What was important to him was the journey, not the name of the genre.
 

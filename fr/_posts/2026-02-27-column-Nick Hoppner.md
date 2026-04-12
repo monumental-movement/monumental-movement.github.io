@@ -85,7 +85,7 @@ Les DJ résidents du Berghain sont bien plus que de simples invités. Ils sont a
 
 Le jeu de Höppner a tendance à mettre l'accent sur les grooves soutenus plutôt que sur les pics soudains. La gamme BPM s'étend de la house à la techno, avec des transitions douces.
 
-### Structure pour assembler le sol
+### Structure pour l'assemblage du sol
 
 Sa structure d'ensemble peut être organisée en trois couches.
 

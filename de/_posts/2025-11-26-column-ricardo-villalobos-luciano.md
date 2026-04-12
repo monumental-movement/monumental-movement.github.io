@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Kapitel 1: Der von Musik und Herkunft gewobene Weg
+## Kapitel 1: Der von Musik und Herkunft geflochtene Weg
 
 ### Die Flugbahn von Villalobos
 
@@ -50,7 +50,7 @@ Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit de
 
 ### Lucianos Flugbahn
 
-Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung, als er sich mit Disco, House und Techno beschäftigte und gleichzeitig nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
+Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung und beschäftigte sich mit Disco, House und Techno, während er nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
 
 Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die südamerikanische Begeisterung mit europäischem Minimalismus verbanden. Lucianos Musik steht stets im „Dialog mit der Tanzfläche“ und stellt die körperlichen Empfindungen des Tänzers in den Mittelpunkt.
 
@@ -64,7 +64,7 @@ Die Philosophie des Sense Clubs war klar. „Tanzen ist nicht nur eine Bewegung,
 
 ### Sense Club frühe Live-Anekdoten
 
-Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Titel nacheinander ab und nimmt dabei winzige Anpassungen am Plattenspieler vor. Währenddessen mischte Luciano in Echtzeit Samples von Schlaginstrumenten. Das Publikum tanzte lange und am Ende des Sets schien es, als sei es mit dem Fluss der Zeit verschmolzen. Dieses Erlebnis war ein Moment, der die musikalischen Philosophien der beiden symbolisierte.
+Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Titel nacheinander ab und nimmt dabei winzige Anpassungen am Plattenteller vor. Währenddessen mischte Luciano in Echtzeit Samples von Schlaginstrumenten. Das Publikum tanzte lange und am Ende des Sets schien es, als sei es mit dem Fluss der Zeit verschmolzen. Dieses Erlebnis war ein Moment, der die musikalischen Philosophien der beiden symbolisierte.
 
 ---
 
@@ -72,7 +72,7 @@ Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Tit
 
 ### Entwicklung von Alcachofa und Villalobos
 
-Im Jahr 2003 veröffentlichte Villalobos das Album Alcachofa. Dieses Werk wird als Meisterwerk gefeiert, das die Sprache der Clubkultur neu definiert. Während des langen Tracks, der über 10 Minuten dauert, ändert sich der Rhythmus minutiös und die Beats verflechten sich unaufhörlich. Die Körper der Zuhörer tauchten auf natürliche Weise in den Fluss der Zeit ein und der Boden wurde zu einer Art „Zeremonienraum“.
+Im Jahr 2003 veröffentlichte Villalobos das Album Alcachofa. Dieses Werk wird als Meisterwerk gefeiert, das die Sprache der Clubkultur neu definiert. Im langen Track, der über 10 Minuten dauert, ändert sich der Rhythmus minutiös und die Beats greifen ständig ineinander. Die Körper der Zuhörer tauchten auf natürliche Weise in den Fluss der Zeit ein und der Boden wurde zu einer Art „Zeremonienraum“.
 
 Beispiele für im Album enthaltene Songs:
 
@@ -102,11 +102,11 @@ Die langen Tracks von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel de
 
 ## Kapitel 5 Globaler Einfluss und Legende
 
-Der Live-Auftritt von Sense Club beim Mutek Festival (Chile) im Jahr 2004 gilt als legendäres Set. Während des fast dreistündigen Sets manipulierte Villalobos lange Tracks, während Luciano in Echtzeit Percussion-Samples hinzufügte. Das Publikum wurde eins auf dem Boden und das Tanzen selbst wurde zu einem kulturellen Erlebnis.
+Der Live-Auftritt von Sense Club beim Mutek Festival (Chile) im Jahr 2004 gilt als legendäres Set. Während des fast dreistündigen Sets manipulierte Villalobos lange Tracks, während Luciano in Echtzeit Percussion-Samples hinzufügte. Das Publikum wurde eins auf der Tanzfläche und das Tanzen selbst wurde zu einem kulturellen Erlebnis.
 
 ### Welttournee und internationaler Einfluss
 
-Beide treten live in ganz Europa, Südamerika und Nordamerika auf. Vor allem Auftritte in Berlin, Zürich, Santiago und New York waren groß angelegt und hatten revolutionäre Auswirkungen auf die Clubkultur. Die heutigen Tech-House- und minimalistischen Stile sind deutlich von ihren Bemühungen beeinflusst.
+Beide treten live in ganz Europa, Südamerika und Nordamerika auf. Vor allem Auftritte in Berlin, Zürich, Santiago und New York waren groß angelegt und hatten revolutionäre Auswirkungen auf die Clubkultur. Der heutige Tech-House-Stil und der minimalistische Stil sind deutlich von ihren Bemühungen beeinflusst.
 
 ---
 
@@ -149,7 +149,7 @@ timeline
 ## Musikalität und Klanganalyse
 
 - **Rhythmus**: Eine Fusion aus subtiler Percussion aus Südamerika und europäischen Minimal-Beats
-- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und körperliches Eintauchen zu fördern
+- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und Körpervertiefung zu fördern
 - **Transkulturalität**: Als Brücke zwischen den Kulturen des Nordens und des Südens koexistieren die Wärme des Lateinischen und die Präzision des Techno.
 
 ---

@@ -116,7 +116,7 @@ Henry Rollins schließt sich Black Flag an, nachdem sich S.O.A. auflöst. Dort e
 
 S.O.A selbst wird selten als Vertreter des New Yorker Hardcore erwähnt. Als Aufzeichnung dieser „Niemandsphase“ liefert es jedoch wichtige Hinweise zum Verständnis dessen, was nachfolgende Bands geerbt und was sie verworfen haben.
 
-> S.O.A fungierte als Wendepunkt, nicht als Endpunkt.
+> S.O.A fungierte eher als Wendepunkt als als Endpunkt.
 
 ---
 
@@ -140,7 +140,7 @@ Daher ist es schwierig, S.O.A. unabhängig zu bewerten. Allerdings ist S.O.A une
 1981 Einstellung der Aktivitäten/de facto Auflösung
 Nach 1981 zerstreuten sich die Mitglieder zu Hardcore-Bands im ganzen Land.
 
-> Auch wenn die Aktivitäten von S.O.A. nur von kurzer Dauer sind, sind sie eng mit den Veränderungen der Zeit verknüpft.
+> Obwohl die Aktivitäten von S.O.A. nur von kurzer Dauer sind, sind sie eng mit den Veränderungen der Zeit verknüpft.
 
 ## Beziehungsdiagramm mit Schwerpunkt auf S.O.A
 

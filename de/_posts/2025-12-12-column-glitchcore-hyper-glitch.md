@@ -47,7 +47,7 @@ color: #fff;
 
 Die Idee von Glitch selbst geht auf die Ästhetik der Electronica in den späten 1990er Jahren zurück (Oval, Alva Noto, Ryoji Ikeda usw.). Er behandelte CD-Lesefehler und digitale Signalstörungen als musikalisches Material und zitierte aktiv die „Ästhetik des Scheiterns“.
 
-Glitch-Musik aus dieser Zeit war experimenteller und legte den Schwerpunkt eher auf Textur, Raum und Struktur als auf Rhythmus. Andererseits unterschied sich der spätere Glitchcore definitiv dadurch, dass er stark mit der Pop- und Internetkultur verbunden war.
+Glitch-Musik aus dieser Zeit war experimenteller und legte den Schwerpunkt eher auf Textur, Raum und Struktur als auf Rhythmus. Andererseits unterscheidet sich der spätere Glitchcore entscheidend dadurch, dass er stark mit der populären Pop- und Internetkultur verbunden ist.
 
 ---
 
@@ -147,7 +147,7 @@ Merkmale:
 
 ### 3-3　Dylan Brady Solo Works
 
-Dylan Bradys Solowerk war noch traplastiger und erweiterte die aggressivere Seite von Hyper-Glitch durch die Kombination von ultratiefen Bässen und extremem Clipping.
+Dylan Bradys Solowerk war noch traplastiger und erweiterte die aggressivere Seite von Hyper-Glitch durch die Kombination von extrem tiefem Bass und extremem Clipping.
 
 ---
 
@@ -268,7 +268,7 @@ Ein weiteres wichtiges Merkmal ist, dass Ausdrücke im Anime-Stil, Vocaloid-Kult
 
 ### 7-3 SoundCloud-Persönlichkeit
 
-Osquinn und Glaive brachten Emo-Akkordfolgen, Gitarreneinschläge und leichten Gesang in Glitchcore. Dies stellt eine introvertiertere, melodischere Richtung des „kantigen“ Charakters von Hyperpop dar.
+Osquinn und Glaive brachten Emo-Akkordfolgen, Gitarreneinschläge und luftigen Gesang in Glitchcore. Dies stellt eine introvertiertere, melodischere Richtung des „kantigen“ Charakters von Hyperpop dar.
 
 ---
 
@@ -311,7 +311,7 @@ Diese stimmen vollständig mit Glitchcore-Techniken überein.
 
 ### 10-1 Weitere Beschleunigung der Fragmentierung
 
-Da Musik kürzer wird und eher in Fragmenten als in Alben verbreitet wird, geht man davon aus, dass sich Glitchcore-Ideen weiter verbreiten werden.
+Da Musik immer kürzer wird und eher in Fragmenten als in Alben verbreitet wird, geht man davon aus, dass sich Glitchcore-Ideen weiter verbreiten werden.
 
 ---
 
@@ -341,3 +341,11 @@ Man kann sagen, dass es eines der Genres ist, das die Geschwindigkeit, Fragmenti
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4GIWf2Eyph8?si=V9Ehq42kiAHp0lF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

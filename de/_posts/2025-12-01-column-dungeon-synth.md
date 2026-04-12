@@ -140,7 +140,7 @@ timeline
 # ■ 4. Sounddesign: Dungeon Synth-Produktionstechniken
 
 Dungeon Synth ist „ein Genre, das die Einschränkungen der Ausrüstung als Ästhetik sublimiert.“
-Im Folgenden fassen wir die Klangquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
+Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
 
 ---
 
@@ -157,7 +157,7 @@ Viele Künstler suchten das Gefühl von Spielekonsolen und PCM-Tastaturen aus de
 GM-Klaviere, Chor-Aahs, Streicher, Pads usw. Billigkeit und Nostalgie werden als Werte behandelt.
 
 ### ■ Soft-Synth
-In der heutigen Zeit werden häufig verwendet:
+In der heutigen Zeit werden häufig folgende verwendet:
 
 - **DSK-freies VST**
 - DSK ChoirZ, DSK Strings usw.
@@ -200,7 +200,7 @@ Das Hinzufügen einer Rauheit von etwa 8 bis 12 Bit verstärkt das 90er-Jahre-Fe
 - Wow & Flatter
 - Rauschen (Bandrauschen)
 
-Viele Künstler nehmen ihre Songs tatsächlich auf Kassette auf.
+Viele Künstler nehmen ihre Songs tatsächlich auf Kassetten auf.
 
 ### ■ EQ-Verarbeitung
 - **Low (unter 100 Hz) entfernen** → In Richtung Mono/Altgeräte-Feeling
@@ -213,7 +213,7 @@ Konkret eingesetzt werden:
 
 - Halle (gefühlt wie eine mittelalterliche Halle)
 - Platte (altmodischer metallischer Nachhall)
-- Weniger frühe Reflexionen/längerer Zerfall
+- Weniger frühe Reflexionen/längerer Verfall
 
 ### ■ Stereobreite
 - Das Pad ist breit
@@ -315,7 +315,7 @@ Nachfolgend finden Sie einen Plan für die tatsächliche Erstellung eines Songs.
 
 # ■ 9. Kulturelle Bedeutung von Dungeon Synth
 
-Dungeon Synth ist eine seltene Musikrichtung, die die intensive Weltanschauung des Black Metal mit der Ruhe der Ambient-Musik verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
+Dungeon Synth ist eine seltene Art von Musik, die die intensive Weltanschauung des Black Metal mit der Ruhe des Ambient verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
 
 - Einzelne Schöpfer erzählen ihre eigenen Geschichten, ohne sich auf groß angelegte Szenen verlassen zu müssen
 – Stark verbunden mit der Ästhetik von Fantasy-Literatur, TRPGs und Spielemusik

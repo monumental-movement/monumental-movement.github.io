@@ -23,11 +23,11 @@ Text: mmr｜Thema: „Abgrund des Klangs“, geboren aus dem Berliner Untergrund
 
 1993, nur wenige Jahre nach dem Fall der Berliner Mauer.
 Die Stadt wird immer noch wieder aufgebaut, verlassene Fabriken und Lagerhäuser werden in Clubs umgewandelt. Tresor, E-Werk, Planet und schließlich Berghain.
-Inmitten dieses Chaos verursachte **Basic Channel** still und leise eine seismische Verschiebung in der Akustik.
+Inmitten dieses Chaos sorgte **Basic Channel** still und leise für eine seismische Verschiebung der Akustik.
 
 Ihre Musik war weder Minimal noch Techno oder House.
 **Der Raum schwingt in den Tiefen des Rhythmus mit**.
-──Dies hat eine neue Tiefe in der Clubkultur auf der ganzen Welt geschaffen.
+──Dies schuf eine neue „Tiefe“ in der Clubkultur auf der ganzen Welt.
 
 
 > Der Rhythmus atmet zwischen Stille und Nachhall.
@@ -78,7 +78,7 @@ Der Sound, der die harten Rhythmen des Detroit Techno mit der räumlichen Verarb
 - „Verfall“, nicht Melodie, baut Musik auf.
 
 Der Musikkritiker Simon Reynolds sagte später:
-> „Ihre Musik verwandelte Techno von „Architektur“ in ein „Wetterphänomen“.
+> „Ihre Musik verwandelte Techno von „Architektur“ in „Wetterphänomen“.
 
 Es war nur **Schallklimawandel**.
 
@@ -208,7 +208,7 @@ Das Ende eines Rhythmus wird zum Ausgangspunkt des nächsten Nachhalls – diese
 
 ---
 
-Der Sound von Basic Channel ist zeitlos und bleibt dennoch im „Gegenwart“.
+Der Sound von Basic Channel ist zeitlos und bleibt dennoch in der „Präsensform“.
 Der Grund dafür ist, dass sie nicht nur Techno geschaffen haben, sondern den Akt des Zuhörens neu aufgebaut haben.
 
 Das Echo hört nie auf.

@@ -79,7 +79,7 @@ Der DJ war dafür verantwortlich, die Tontechnik vorzubereiten, die Stromversorg
 
 Der Vorgang, rhythmische Teile aus Funk- und Soul-Platten zu extrahieren und sie zu wiederholen, während man die Reaktion des Publikums beobachtete, wurde spontan und raffiniert.
 
-Zu diesem Zeitpunkt waren DJs eher Zeitmanipulatoren als Schöpfer.
+Zu diesem Zeitpunkt waren DJs weniger Schöpfer als vielmehr Zeitkontrolleure.
 
 > Die Aufgabe des DJs bestand nicht darin, Musik zu spielen, sondern die Energie der Gruppe zu kontrollieren.
 
@@ -105,7 +105,7 @@ Die Wiederholung der Breakbeats veränderte den körperlichen Ausdruck der Tänz
 
 Diese Bewegungen waren keine Choreographie, sondern spontane Reaktionen. Im Kreis umringt vom Publikum und dem DJ machten die Tänzer ihre Präsenz mit ihren Körpern deutlich.
 
-Später wurde diese Tanzkultur Breakdance genannt, doch zunächst gab es weder einen klaren Namen noch ein System dafür.
+Später wurde diese Tanzkultur Breakdance genannt, zunächst gab es jedoch keinen eindeutigen Namen oder System dafür.
 
 >Tanz war keine Technik, die man zeigen konnte, sondern eine unmittelbare Reaktion auf Klang.
 

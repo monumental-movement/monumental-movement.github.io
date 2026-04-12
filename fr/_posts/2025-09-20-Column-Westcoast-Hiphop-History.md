@@ -9,7 +9,7 @@ permalink: /fr/column-westcoast-hiphop-history/
 tags:
 - Hiphop
 - Rap
-title: '[Chronique] Aperçu du hip-hop de la côte Ouest — de ses origines à l''underground'
+title: '[Chronique] Aperçu du hip-hop de la côte ouest — de ses origines à l''underground'
 ---
 
 
@@ -59,7 +59,7 @@ color: #fff;
 ## Années 1990 : L'âge d'or et l'apogée du G‑Funk
 
 * **Producteurs représentatifs** : Dr. Dre, DJ Quik, Battlecat
-* **Majors labels** : Death Row Records, Priority, Ruthless
+* **Principaux labels** : Death Row Records, Priority, Ruthless
 * **Contexte culturel** : G-Funk était étroitement associé à la culture lowrider et automobile, avec son échantillonnage funk des années 70 et ses basses synthétisées épaisses.
 * **Conflit Est-Ouest** : Le conflit entre la côte Est et la côte Ouest s'intensifie, conduisant à la tragédie de 2Pac et The Notorious B.I.G.
 * **Vidéo/Mode** : les MV présentant des lowriders, des plages et les rues de South Central deviennent populaires. Dickies, Chuck Taylor et les bandanas sont emblématiques.
@@ -79,7 +79,7 @@ color: #fff;
 
 * **Producteurs représentatifs** : Madlib, Daz Dillinger, Battlecat
 * **Grands labels** : Stones Throw, Aftermath
-* **Contexte culturel** : le G‑Funk grand public s'affaiblit et des groupes underground de Los Angeles comme Project Blowed et Freestyle Fellowship attirent l'attention. Le mouvement Bay Area Hyphy s'est également produit.
+* **Contexte culturel** : le G‑Funk grand public s'affaiblit et des groupes underground de Los Angeles tels que Project Blowed et Freestyle Fellowship attirent l'attention. Le mouvement Bay Area Hyphy s'est également produit.
 * **Vidéo/Mode** : Les expressions visuelles de type skate, graffiti et club de jazz se multiplient, et les marques de rue telles que Supreme et BAPE deviennent populaires.
 
 **Album recommandé (extrait)**
@@ -178,7 +178,7 @@ flowchart TD
 Le hip-hop de la côte ouest est né de la culture de rue de Los Angeles à la fin des années 1970 et, grâce à la montée du gangsta rap et du G-Funk dans les années 1980 et 1990, il est devenu une tendance musicale mondiale.
 Des vidéoclips à petit budget, des styles de mode uniques et des liens avec la culture lowrider ont créé une expression authentique de la côte ouest.
 
-Depuis les années 2000, la diversité s’est élargie avec le succès de groupes underground indépendants comme Madlib et The Game. En outre, Kendrick Lamar et d'autres artistes d'influence mondiale qui utilisent pleinement les SNS et Internet sont apparus, et leurs chansons et expressions visuelles contenant des messages conscients forment une nouvelle tendance dans le hip-hop de la côte ouest.
+Depuis les années 2000, la diversité s’est élargie avec le succès de groupes underground indépendants comme Madlib et The Game. En outre, Kendrick Lamar et d'autres artistes d'influence mondiale qui utilisent pleinement les réseaux sociaux et Internet sont apparus, et leurs chansons et expressions visuelles contenant des messages conscients forment une nouvelle tendance dans le hip-hop de la côte ouest.
 
 Plus qu'un simple genre musical, le hip-hop de la région continue d'influencer les messages sociaux, la mode, le cinéma et la culture dans son ensemble, et continue d'inspirer les artistes et les fans du monde entier.
 

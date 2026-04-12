@@ -52,7 +52,7 @@ In order to understand the darkness of Norse folk, it is necessary to confirm th
 
 Gods are not immortal, but face old age, betrayal, and death. Odin sacrifices his eyes to gain knowledge, and Loki becomes a god, but also a destroyer, leading to the end of the world.
 
-What is important about this mythological system is that there is no assumption that order will last forever. A worldview that is premised on extinction makes musical expressions more strongly reflect destiny than hope.
+What is important about this mythological system is that there is no assumption that order will last forever. A worldview that is predicated on perdition makes musical expressions more strongly reflect destiny than hope.
 
 > Norse mythology contains the idea of ​​accepting an inevitable end rather than salvation.
 
@@ -74,13 +74,13 @@ Folk song lyrics repeatedly tell stories of encounters with these beings resulti
 ## Violence and death in ballads
 
 
-Many of the ballads that have been sung throughout Scandinavia since the Middle Ages are extremely violent in the modern sense. Murders between siblings, betrayal by lovers, infanticide by mothers, and dead people returning as ghosts are all told in a matter-of-fact manner.
+Many of the ballads that have been sung throughout Scandinavia since the Middle Ages are extremely violent in modern terms. Murders between siblings, betrayal by lovers, infanticide by mothers, and dead people returning as ghosts are all told in a matter-of-fact manner.
 
 These ballads often proceed like a list of facts, without emotional excitement. The melody is also restrained, with a structure that leaves interpretation to the listener.
 
 There is no intention to glorify violence, and death is depicted as an extension of everyday life rather than a special incident. There is a calmness and darkness characteristic of Scandinavian folk.
 
-> Talking about death was not unusual in Norse folk.
+> Talking about death was not unusual in Nordic folk.
 
 ---
 

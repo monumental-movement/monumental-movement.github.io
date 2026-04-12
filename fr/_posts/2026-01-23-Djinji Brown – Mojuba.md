@@ -15,7 +15,7 @@ title: Djinji Brown – Mojuba
 ---
 
 
-Djinji Brown est le fils du saxophoniste alto de jazz Marion Brown, actif sur la scène jazz d'avant-garde new-yorkaise dans les années 1960 et qui a joué avec John Coltrane, Archie Shepp, John Tchicai et d'autres.
+Djinji Brown est le fils de la saxophoniste alto de jazz Marion Brown, active sur la scène jazz d'avant-garde new-yorkaise dans les années 1960 et qui a joué avec John Coltrane, Archie Shepp, John Tchicai et d'autres.
 
 "Mojuba" est un morceau tribal/deep house/africain sorti en 2002 par le label indépendant américain Seven Heads.
 

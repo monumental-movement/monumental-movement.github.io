@@ -49,7 +49,7 @@ Opinions religieuses, environnement géographique, culture ethnique, philosophie
 Toutes ces choses se combinent pour faire du black metal une entité unique et différente des autres genres.
 
 Dans cet article, nous organiserons de manière exhaustive le tableau d'ensemble sur la base de faits historiques, et
-De plus, **l'analyse régionale, l'analyse approfondie des bandes individuelles et la répartition chronologique** sont également intégrées.
+De plus, **l'analyse régionale, l'exploration approfondie de bandes individuelles et la répartition chronologique** sont également intégrées.
 Construisez la théorie définitive du black metal complet.
 
 ---
@@ -105,7 +105,7 @@ Cependant, le cadre esthétique (Satan, anti-religion, dark record, anti-commerc
 
 # **Chapitre 3 : Deuxième vague (1990-1998) — La Norvège a changé le monde**
 
-La période la plus importante de l’histoire du black metal se situe entre 1990 et 1998.
+La période la plus importante de l’histoire du black metal s’étend de 1990 à 1998.
 L'accent était mis sur les jeunes musiciens underground norvégiens.
 
 ## ■ Concepts clés
@@ -237,7 +237,7 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 **Un style qui vise à créer une nature semblable à la transe et à l'effondrement de la notion du temps par la répétition**.
 * Continuant à faire une déclaration forte dans le débat culturel et religieux norvégien au début des années 1990,
 En raison d'une couverture médiatique excessive, « l'image dangereuse » du black metal s'est établie.
-* Après l'incident (meurtre d'Euronymous) et l'arrestation, la source sonore de Burzum est devenue plus ambiante.
+* Après l'incident (meurtre d'Euronymous) et l'arrestation, la source sonore de Burzum est devenue plus orientée vers l'ambiance.
 
 ---
 
@@ -393,7 +393,7 @@ Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les tr
 
 **1991**
 
-* Mayhem : mort (fait)
+* Mayhem : Mort (fait)
 * Darkthrone : a décidé de passer du death metal au black metal
 
 **1992**

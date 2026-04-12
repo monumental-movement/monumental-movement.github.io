@@ -11,7 +11,7 @@ title: Deep Dish Feat. Stevie Nicks – Dreams
 ---
 
 
-「Dreams」は、
+"Dreams" is
 This is an EP by Deep Dish released in 2006 by the UK label "Positiva".
 
 #### Tracklist

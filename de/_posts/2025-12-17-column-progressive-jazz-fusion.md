@@ -23,7 +23,7 @@ Text: mmr｜Thema: Modulare Drohnen als Schnittstelle zwischen der Geschichte de
 
 Progressiver Jazz/Fusion ist ein Entwicklungstrend im Jazz, der sich in den späten 1960er bis 1970er Jahren herausbildete und als Ergebnis der gleichzeitigen Integration mehrerer musikalischer Redewendungen wie Modal Jazz, Post-Bop, Rock, Funk, zeitgenössischer Musik und Volksmusik entstand. „Progressiv“ bedeutet hier nicht einfach nur technische Raffinesse, sondern bezieht sich auf die Haltung selbst, die musikalische Struktur, Rhythmusgestaltung, Klangfarbenanordnung und die Beziehung zwischen Improvisation und Komposition immer wieder neu organisiert.
 
-Obwohl der Begriff Fusion oft als Kompromiss zwischen Jazz und Rock verstanden wird, ist die Realität komplexer. Äußere Bedingungen wie die Standardisierung elektrischer Instrumente, die Weiterentwicklung der PA- und Studiotechnik, Veränderungen bei den Aufnahmemedien und die Beschleunigung des internationalen Musikaustauschs beeinflussten direkt die Aufführungsstile und die strukturelle Gestaltung. In diesem Artikel analysieren wir die interne Logik des Progressive Jazz/Fusion, wobei wir uns auf Weather Report und Mahavishnu Orchestra konzentrieren, die den Kern dieses Trends bilden, und gleichzeitig die Struktur, Instrumente und Aufführungsphilosophie analysieren.
+Obwohl der Begriff Fusion oft als Kompromiss zwischen Jazz und Rock verstanden wird, ist die Realität komplexer. Äußere Bedingungen wie die Standardisierung elektrischer Instrumente, die Weiterentwicklung der PA- und Studiotechnik, Veränderungen bei den Aufnahmemedien und die Beschleunigung des internationalen Musikaustauschs beeinflussten direkt die Aufführungsstile und die strukturelle Gestaltung. In diesem Artikel untersuchen wir die zugrunde liegende Logik des Progressive Jazz/Fusion, indem wir die Struktur, Instrumente und Aufführungsphilosophie von Weather Report und Mahavishnu Orchestra analysieren, die den Kern dieses Trends bilden.
 
 ---
 
@@ -45,7 +45,7 @@ color: #fff;
 
 In den späten 1960er Jahren erweiterte der Jazz sein Vokabular über den Hardbop hinaus und gewann durch modales Spiel und freie Improvisation an Flexibilität in seiner zeitlichen Struktur. Andererseits wandelte sich die Rockmusik zu einer Musik, die auf lauten Lautstärken und sich wiederholenden Beats basierte und für große Hörumgebungen konzipiert war. Die Weiterentwicklung elektrischer Instrumente und Verstärkertechnologie hat die Verbindung zwischen beiden auf einer physischen und nicht auf einer ideologischen Ebene erweitert.
 
-In dieser Zeit führten viele Jazzmusiker E-Pianos, E-Bässe und verstärkte Gitarren ein und bildeten Ensembles, die auf Lautstärke, Sustain und Klangmanipulation basierten, die mit herkömmlichen akustischen Formationen unmöglich waren. Infolgedessen setzten sich neue Aufführungsformen mit langen Strukturen, zyklischen Riffs, komplexen Metren und sich wiederholenden Strukturen durch, und Progressive Jazz/Fusion wurde als eigenständige Strömung anerkannt.
+In dieser Zeit führten viele Jazzmusiker E-Pianos, E-Bässe und verstärkte Gitarren ein und bildeten Ensembles, die auf Lautstärke, Sustain und Klangmanipulation basierten, die mit herkömmlichen akustischen Formationen unmöglich waren. Infolgedessen setzten sich neue Aufführungsformen mit langen Strukturen, kreisförmigen Riffs, komplexen Metren und sich wiederholenden Strukturen durch, und Progressive Jazz/Fusion wurde als eigenständige Strömung anerkannt.
 
 ---
 
@@ -74,7 +74,7 @@ In dieser Struktur wird die Zunahme oder Abnahme der akustischen Dichte selbst z
 
 ### Besetzung und Rollenverteilung
 
-Die Tastatur nutzt ein E-Piano oder einen Synthesizer, und anstatt einen harmonischen Verlauf zu präsentieren, erzeugt er eine Klangschicht aus gehaltenen Noten und fragmentierten Phrasen. Der Bass unterstützt nicht nur die tiefen Töne, er trägt auch die melodische Bewegung und gibt so die Richtung des gesamten Liedes vor. Anstatt einen konstanten Takt beizubehalten, bestimmen die Trommeln das Ganze durch Textur, Akzentsetzung und Anpassung der Dichte.
+Die Tastatur nutzt ein E-Piano oder einen Synthesizer, und anstatt einen harmonischen Verlauf zu präsentieren, erzeugt er eine Klangschicht aus gehaltenen Noten und fragmentierten Phrasen. Der Bass unterstützt nicht nur die tiefen Töne, er trägt auch die melodische Bewegung und gibt die Richtung des gesamten Liedes vor. Anstatt einen konstanten Takt beizubehalten, treiben die Trommeln das Ganze durch Textur, Akzentsetzung und Anpassung der Dichte voran.
 
 ---
 
@@ -84,7 +84,7 @@ Die Tastatur nutzt ein E-Piano oder einen Synthesizer, und anstatt einen harmoni
 
 Das Mahavishnu Orchestra nahm seine Tätigkeit in den frühen 1970er Jahren auf und zeichnete sich durch extrem schnelle Tempi, komplexe Taktstrukturen und einen streng komponierten Unisono aus. Während Weather Report den Schwerpunkt auf die Erzeugung von Flüssigkeiten legte, kontrastiert Mahavishnu Orchestra mit der Betonung der Konstruierbarkeit und Reproduzierbarkeit.
 
-Die Improvisation findet hier eher in einem komponierten Rahmen als in völliger Freiheit statt. Jeder Künstler muss innerhalb höchster technischer Grenzen auftreten, und das Ensemble als Ganzes verfügt über die Integrität einer Präzisionsmaschine.
+Die Improvisation entwickelt sich hier eher in einem komponierten Rahmen als in völliger Freiheit. Jeder Künstler muss innerhalb höchster technischer Grenzen auftreten, und das Ensemble als Ganzes verfügt über die Integrität einer Präzisionsmaschine.
 
 ### Rhythmische Struktur und Form
 

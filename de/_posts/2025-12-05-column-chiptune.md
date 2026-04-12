@@ -77,7 +77,7 @@ Der Game Boy ist mit einer CPU + PSG-Soundquelle namens **Sharp LR35902** ausges
 - Kanal, mit dem Sie 4-Bit-Wellenformen mit 32 Samples frei zeichnen können
 - **Geräuschkanal**
 
-Der Wellenformspeicher ist das Herzstück der Kreativität, und selbst im modernen Game Boy Chiptune wird der Wave-Kanal häufig zur Erzeugung von Bässen, Lead-, Kick- und einzigartigen Tönen verwendet. Besonders attraktiv ist die Dicke im unteren Bereich, die als „Game-Boy-ähnlicher Klang“ geschätzt wird, einschließlich des für die Hardware typischen DAC-Rauschens.
+Der Wellenformspeicher ist das Herzstück der Kreativität, und selbst im modernen Game Boy Chiptune wird dieser Wellenkanal häufig für Bass, Lead, Kick und die Erzeugung einzigartiger Töne verwendet. Besonders attraktiv ist die Dicke im unteren Bereich, die als „Game-Boy-ähnlicher Klang“ geschätzt wird, einschließlich des für die Hardware typischen DAC-Rauschens.
 
 ---
 
@@ -274,3 +274,11 @@ Die Freiheit des Wave-Kanals ist der Ursprung der digitalen Musik.
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aO1nwUlb9NY?si=UIFZl3C_-Ys-NfHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

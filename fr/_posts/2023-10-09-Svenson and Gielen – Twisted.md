@@ -13,7 +13,7 @@ title: Svenson & Gielen – Tordu
 ---
 
 
-« Tordu » est
+"Tordu" est
 Il s'agit d'un EP de Svenson & Gielen, une unité de Svenson et Johan Gielen, sorti en 2002 sur le label allemand "Dos Or Die Recordings".
 
 #### Liste des chansons

@@ -50,7 +50,7 @@ Jamals erstes Album als Leader war 1951 „New Talent“, ein Album, das sich um
 
 ### 1955–56 – Der Erfolg von At the Pershing: But Not for Me
 
-Das 1955 gegründete Ahmad Jamal Trio (Israel Crosby am Bass, Vernel Fournier am Schlagzeug) trat regelmäßig in der Pershing Lounge in Chicago auf. Eine 1958 veröffentlichte Aufnahme dieses Live-Auftritts, At the Pershing: But Not for Me, war ein großer kommerzieller und kritischer Erfolg. Vor allem die Aufführung von „Poinciana“ war ein Hit und hinterließ nicht nur bei Jazzfans, sondern auch beim allgemeinen Publikum großen Eindruck.
+Das 1955 gegründete Ahmad Jamal Trio (Israel Crosby am Bass, Vernel Fournier am Schlagzeug) trat regelmäßig in der Pershing Lounge in Chicago auf. Eine 1958 veröffentlichte Aufnahme dieses Live-Auftritts, At the Pershing: But Not for Me, war ein großer kommerzieller und kritischer Erfolg. Insbesondere die Aufführung von „Poinciana“ war ein Hit und hinterließ nicht nur bei Jazzfans, sondern auch beim allgemeinen Publikum großen Eindruck.
 
 Dieses Album enthält:
 
@@ -121,7 +121,7 @@ Ahmad Jamals Karriere ist von vielen klassischen Alben geprägt. Nachfolgend fin
 ## Zeitleiste
 
 Nachfolgend finden Sie eine Zeitleiste, die sich auf die wichtigsten Ereignisse und Werke von Ahmad Jamal konzentriert.
-Um den Verlauf der Karriere zu veranschaulichen, sind auch Illustrationen in Mermaid-Notation enthalten.
+Um den Karriereverlauf zu veranschaulichen, sind auch Illustrationen in Mermaid-Notation enthalten.
 
 <div class="mermaid">
 timeline
@@ -158,7 +158,7 @@ Jamals Spiel mit Leerstellen hatte einen starken Einfluss auf Miles‘ Modeära 
 - **Minimalistische Themenpräsentation**
 Jamals Sinn für Struktur spiegelt sich auch in Miles' Arrangements aus seiner Quintettzeit wider.
 - **Trio-Dynamik**
-Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles‘ Bandzusammenspiel bei.
+Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles' Band-Zusammenspiel bei.
 
 Jamals Einfluss ist so bedeutend, dass man sagen kann, dass er ihn nicht nur „mochte“, sondern tatsächlich die Struktur von Miles‘ Musik veränderte.
 
@@ -192,7 +192,7 @@ Jamals charakteristischer Stil, die Ästhetik der Ruhe, wurde an die folgenden G
 - Brad Mehldau
 -Vijay Iyer et al.
 
-Vor allem im zeitgenössischen Jazz haben sich **Aufführungen, die sich minimalistischer Strukturen und Leerräume bedienen** weithin durchgesetzt, und Jamal wird zugeschrieben, dass er dafür den Grundstein gelegt hat.
+Vor allem im zeitgenössischen Jazz haben sich **Aufführungen, die minimalistische Strukturen und Leerräume nutzen** durchgesetzt, und Jamal wird zugeschrieben, dass er dafür den Grundstein gelegt hat.
 
 ### 5. Späte Bewertung und Aktivitäten in späteren Jahren
 Seit den 2000er Jahren hat Jamal Aktivitäten mit folgenden Merkmalen entwickelt:
@@ -207,12 +207,12 @@ In seinen späteren Jahren wuchs Jamals Ruf von einem „Meister“ zu einer „
 
 ## Abschluss
 
-Ahmad Jamal war nicht nur ein „begabter Jazzpianist“, sondern ein Innovator, der die Struktur des Jazz grundlegend veränderte.
+Ahmad Jamal war nicht nur ein „erfahrener Jazzpianist“, sondern ein Innovator, der die Struktur des Jazz grundlegend veränderte.
 
 - Wie man mit Platz umgeht
 - Das Trio neu definieren
 - Prähistorische Rolle des modalen Ansatzes
-- Riesiger Einfluss auf die nächste Generation
+- Großer Einfluss auf die nächste Generation
 - Globale Aktivitäten
 
 Durch diese Bemühungen gilt Jamal als eine der wichtigsten Persönlichkeiten, die den Jazz vom 20. bis 21. Jahrhundert geprägt haben.

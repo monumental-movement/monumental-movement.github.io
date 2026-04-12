@@ -74,9 +74,9 @@ Während die Songstruktur extrem vereinfacht ist, erzeugen der Klangdruck und di
 
 Gabba Hardcore war keine Kultur, die allein durch das Hören definiert werden konnte. Skinheads und extrem kurze Frisuren waren sowohl praktisch auf dem verschwitzten, heißen Boden als auch Symbole kollektiver Identität.
 
-Sportbekleidung und Turnschuhe sind das Ergebnis der Priorisierung der Funktionalität, um den Menschen das Tanzen über einen längeren Zeitraum zu ermöglichen, und wurden ohne Rücksicht auf Trends in der Modebranche entwickelt. Hier gab es eine Ästhetik, die nicht „zur Schau gestellt“, sondern „zum Gebrauch“ gedacht war.
+Sportbekleidung und Turnschuhe sind das Ergebnis einer Priorisierung der Funktionalität, die es den Menschen ermöglicht, über einen längeren Zeitraum hinweg zu tanzen, und wurden ohne Rücksicht auf Trends in der Modebranche entwickelt. Hier gab es eine Ästhetik, die nicht „zur Schau gestellt“, sondern „zum Gebrauch“ gedacht war.
 
-Der Tanz war hüpfend und zeichnete sich durch Bewegungen aus, bei denen der ganze Körper gegen den Rhythmus geworfen wurde. Anstelle des individuellen Ausdrucks liegt der Schwerpunkt auf der kollektiven Begeisterung, die aus der gemeinsamen Bewegung entsteht.
+Der Tanz war hüpfend und zeichnete sich durch Bewegungen aus, bei denen der ganze Körper gegen den Rhythmus geworfen wurde. Anstelle des individuellen Ausdrucks liegt der Schwerpunkt auf der kollektiven Begeisterung, die durch das Teilen derselben Bewegungen entsteht.
 
 > Gabas Körperlichkeit war eine extreme Demonstration der Musik als Mittel zur Schaffung sozialer Solidarität.
 
@@ -88,7 +88,7 @@ Selbst innerhalb der Niederlande waren die musikalischen Ausrichtungen zwischen 
 
 Rotterdams Hardcore hingegen fungiert als Reaktion auf diese Raffinesse. Unmittelbare Wirkung und Zerstörungskraft haben Vorrang vor Melodie und Atmosphäre, und das Kriterium ist „ob man es aushalten kann“ und nicht „ob man tanzen kann“.
 
-Dieser Konflikt wurde von den Medien übertrieben und die Szenen in beiden Städten waren oft gegensätzlich. In Wirklichkeit war der Fluss von Menschen und Einfluss jedoch wechselseitig, und die Spannung selbst war die Vitalität der Szene.
+Dieser Konflikt wurde von den Medien übertrieben, wobei die Szenen in beiden Städten oft gegensätzlich dargestellt wurden. In Wirklichkeit war der Fluss von Menschen und Einfluss jedoch wechselseitig, und die Spannung selbst war die Vitalität der Szene.
 
 > Die Unterschiede zwischen den beiden Städten isolierten den Hardcore nicht, sondern betonten vielmehr seine Präsenz.
 
@@ -130,7 +130,7 @@ Seit den 2000er Jahren hat sich eine einzigartige japanische Interpretation von 
 
 Seit den 2010er Jahren erfährt der 90er-Jahre-Hardcore eine Neubewertung. Elemente, die einst wegen ihrer Übertreibung gemieden wurden, werden mittlerweile eher als ein Element der Aufrichtigkeit angesehen.
 
-Gabba-ähnliche Geschwindigkeit und Verzerrung bekommen im Kontext zeitgenössischen Technos und experimenteller Musik eine neue Bedeutung. Der ehemalige Aufstand dient heute als Bezugspunkt.
+Gabba-artige Geschwindigkeit und Verzerrung bekommen im Kontext zeitgenössischen Technos und experimenteller Musik eine neue Bedeutung. Der ehemalige Aufstand dient heute als Bezugspunkt.
 
 > Gabba Hardcore ist eine unvollendete Kultur, die im Laufe der Zeit immer wieder neu interpretiert wird.
 
@@ -163,7 +163,7 @@ flowchart TD
     E --> F[Speedcore]
 </div>
 
-> Die Geschichte von Gabba Hardcore ist die Aufzeichnung eines langen Experiments an der Schnittstelle von Geschwindigkeitsdrang und urbaner Kultur.
+> Die Geschichte von Gabba Hardcore ist die Aufzeichnung eines langen Experiments an der Schnittstelle zwischen Geschwindigkeitsdrang und urbaner Kultur.
 
 ---
 

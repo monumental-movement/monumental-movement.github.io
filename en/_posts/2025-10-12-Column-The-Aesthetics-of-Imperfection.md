@@ -45,7 +45,7 @@ color: #fff;
 ## 1. The rekindling of Indie Sleaze and the pleasure of "roughness"
 
 ### 1-1. What lies behind Y2K nostalgia
-2020年代半ば、Y2Kリバイバルはファッションから音楽、インターネット文化にまで波及した。  
+In the mid-2020s, the Y2K revival spread from fashion to music to internet culture.
 Among them, the term "Indie Sleaze" is once again in the spotlight.
 In the early 2000s, a party lit by digital camera flashes,
 Muses whose make-up is still ruined,
@@ -76,7 +76,7 @@ Charli XCX's ""brat'' sublimated that feeling into pop music.
 ### 2-1. Casual reality
 When you listen to "brat", the first thing you feel is the comfort of being "unfinished."
 The vocals are rough, the mix is ​​staticy, and the lyrics are spit out impulsively.
-However, there is a "raw" feel to it that is not found in other pop music.
+However, there is a "raw" quality to it that is not found in other pop music.
 It is a ""human touch'' that is the opposite of the era of perfection.
 
 ### 2-2. The antithesis of a perfect world

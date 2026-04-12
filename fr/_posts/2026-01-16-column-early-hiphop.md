@@ -127,7 +127,7 @@ Des phrases courtes, des phrases qui riment et des appels répétés émergent n
 ## Graffitis et surfaces urbaines
 
 
-À peu près à la même époque, les graffitis sur les métros et les bâtiments étaient également profondément liés aux débuts de la culture hip-hop.
+À la même époque, les graffitis sur les métros et les bâtiments étaient également profondément liés aux débuts de la culture hip-hop.
 
 Le fait d'écrire son nom, de laisser une trace et de graver sa présence dans l'espace urbain en mouvement était un moyen d'expression, au même titre que la musique et la danse.
 

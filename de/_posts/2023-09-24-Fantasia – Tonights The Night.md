@@ -9,13 +9,13 @@ permalink: /de/fantasia-tonights-the-night/
 tags:
 - House
 - Tech House
-title: Fantasia – Tonight's The Night
+title: Fantasia – Tonight’s The Night
 ---
 
 
 Fantasia ist ein 1988 veröffentlichtes Projekt von Helen Sheppard und Tim Gordine.
 
-Dies ist ein Synth-Pop-Song aus den 80er Jahren, der von „Chrysalis“ aus Großbritannien veröffentlicht wurde.
+Es handelt sich um eine 80er-Jahre-Synthesizer-Pop-Veröffentlichung aus dem Vereinigten Königreich „Chrysalis“.
 
 #### Trackliste
 ```md

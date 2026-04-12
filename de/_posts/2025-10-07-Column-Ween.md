@@ -17,7 +17,7 @@ title: '[Kolumne] Ween – Ein seltsames Universum, geboren aus einer Vorstadtga
 
 ## „Was ist Ween?“
 
-Text: mmr | Thema: Boognish, ein seltsamer Gott, geboren in einer Vorstadtgarage in Amerika. Von seinem Abstieg bis zur Lo-Fi-Alchemie und der Tiefsee-Mythologie zeichnet „The Mollusk“ das musikalische Universum nach, das von den seltsamen Brüdern Ween geschaffen wurde.
+Text: mmr | Thema: Boognish, ein seltsamer Gott, geboren in einer Vorstadtgarage in Amerika. Von seinem Abstieg bis zur Lo-Fi-Alchemie und der Tiefseemythologie zeichnet „The Mollusk“ das musikalische Universum nach, das von den seltsamen Brüdern Ween geschaffen wurde.
 
 
 > Eine versteckte Garage in einem Vorort von Amerika.

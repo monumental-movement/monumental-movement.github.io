@@ -63,7 +63,7 @@ In the mid-1920s, one-shot recording was the norm in recording studios in Chicag
 
 In his scat, the syllables have no meaning, but the rhythmic arrangement is very clear. The beginning of the phrase is the attack of the trumpet, and the ending naturally converges with the breath. Here the voice acts as a melodic instrument, and the absence of lyrics becomes a prerequisite rather than an omission.
 
-当時のレコードを注意深く聴くと、バンドとの距離感も重要であることが分かる。スキャットは伴奏に埋もれることなく、しかし突出しすぎることもない。アンサンブルの内部で即興を行うという感覚が、すでに完成されていた。
+If you listen carefully to records from that time, you will see that a sense of distance from the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn"t stand out too much either. The sense of improvising within the ensemble had already been perfected.
 
 <div class="mermaid">
 timeline

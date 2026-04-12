@@ -24,7 +24,7 @@ Texte : mmr｜Thème : L'analyse structurelle du fonctionnement de l'anime a r
 « Cyberpunk : Edgerunners » est une série animée basée sur le monde du jeu « Cyberpunk 2077 ».
 Il sera distribué simultanément dans le monde entier sur Netflix en septembre 2022, et la chanson « I Really Want to Stay at Your House » utilisée dans le film est redevenue un succès mondial après sa distribution.
 
-Cette œuvre se positionne comme un exemple représentatif de la manière dont la propriété intellectuelle des jeux, la production d’animation, la distribution mondiale et l’économie du streaming se croisent pour repousser une chanson existante au sommet des charts.
+Cette œuvre se positionne comme un exemple représentatif de l’intersection de la propriété intellectuelle des jeux, de la production d’animation, de la distribution mondiale et de l’économie du streaming, repoussant une chanson existante au sommet des charts.
 
 > Il ne s'agissait pas seulement d'un succès d'anime, mais d'un événement qui a marqué un changement dans la structure même de la distribution musicale.
 
@@ -89,7 +89,7 @@ D --> E[Streaming Surge]
 E --> F[Chart Re Entry]
 </div>
 
-### Expansion des re-hits
+### Extension des re-hits
 
 Après le début de la distribution, il a été rapporté que le nombre d'écoutes avait augmenté de dizaines de millions sur Spotify et qu'il était entré dans les charts dans plusieurs régions, notamment aux États-Unis et au Royaume-Uni.
 Il est également apparu dans le classement mondial de Billboard.
@@ -106,10 +106,10 @@ Ce phénomène diffère des succès de type chanson thématique télévisée dan
 
 Les caractéristiques sont les suivantes.
 
-・ Battement à mi-tempo stable
+・ Battement stable à mi-tempo
 ・Pad de synthèse spatial
 ・Une mélodie sautillante avec un refrain qui met l'accent sur l'émotion
-・Phrases répétitives et mémorables
+・ Phrases répétitives et mémorables
 
 Le son est hautement compatible avec la sensibilité urbaine cyberpunk, évoquant à la fois le futur proche et la nostalgie.
 
@@ -169,7 +169,7 @@ En raison de son affinité avec la vision du monde cyberpunk, l’intérêt pour
 
 Après la distribution de l’anime, il a également été confirmé que les listes de lecture associées et les artistes similaires étaient concernés.
 
-> Cela a également influencé la réévaluation du genre musical lui-même.
+> Cela a également influencé la réévaluation des genres musicaux eux-mêmes.
 
 ---
 

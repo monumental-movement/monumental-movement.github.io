@@ -27,7 +27,7 @@ La magie de la production musicale, autrefois confinée aux murs d'un studio, es
 
 Un producteur de chambre n’est pas seulement quelqu’un qui crée du son seul.
 Ils sont l'incarnation de la « démocratisation » de l'industrie musicale, et en même temps ils sont aussi un symbole de la « créativité de la solitude ».
-Aujourd'hui, avec un accès direct au monde via Spotify et SoundCloud, la chambre n'est plus un « espace privé ». Grâce à son réseau, elle est devenue la base d'une nouvelle ville musicale = ville numérique.
+De nos jours, avec un accès direct au monde via Spotify et SoundCloud, la chambre n'est plus un « espace privé ». Grâce à son réseau, elle est devenue la base d'une nouvelle ville musicale = ville numérique.
 
 ---
 
@@ -77,7 +77,7 @@ Les bruits de l'extérieur, le craquement du lit, le bruit de la respiration en 
 
 ---
 
-## Chapitre 3 : L'ère de SoundCloud et YouTube — « Partager » et « Découvrir »
+## Chapitre 3 : L'ère de SoundCloud et YouTube — « Partager » et « Découvrir »
 
 ### Nouveau formulaire « release »
 
@@ -128,7 +128,7 @@ Leurs activités présentaient une nouvelle structure appelée « musique pop sa
 
 ### L'intersection de Niconico Douga et YouTube
 
-Alors que la culture du commentaire et les œuvres dérivées s’entrelacent en plusieurs couches, la chambre s’est transformée en un lieu de production collaborative.
+Alors que la culture du commentaire et les œuvres dérivées s’entremêlent en plusieurs couches, la chambre s’est transformée en un lieu de production collaborative.
 « Créer par une seule personne » a finalement pris un sens dans un réseau où « de nombreuses personnes résonnaient ensemble ».
 
 ---

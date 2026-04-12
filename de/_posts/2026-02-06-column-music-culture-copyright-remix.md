@@ -20,7 +20,7 @@ title: '[Kolumne] Remix-Kultur und die Frage der Rechte: zwischen Kopieren und K
 
 Text: mmr | Thema: Die Remix-Kultur hat sich vom 20. zum 21. Jahrhundert rasant ausgeweitet und umfasst Musik, Video, Kunst und Internet-Ausdruck. Obwohl das Urheberrechtssystem zum Schutz der Rechte der Urheber entwickelt wurde, hat es andererseits immer zu Konflikten mit kulturellen Praktiken geführt, die auf Wiederverwendung, Zitat und Änderung basieren. Dieses Papier nimmt die historische Entwicklung der Remix-Kultur als Ausgangspunkt, organisiert die institutionellen Merkmale des japanischen Rechts, des US-amerikanischen Rechts und des EU-Rechts und untersucht die Beziehung zwischen Rechten und Schöpfung aus mehreren Blickwinkeln, wobei der Anwendungsbereich über die Musik hinaus auf Videos, Memes und abgeleitete Werke ausgeweitet wird.
 
-Schon bevor das Wort Remix populär wurde, basierte die menschliche Kultur immer auf Wiederverwendung und Modifikation. Werke wie Parodien auf Volkslieder, Variationen mündlicher Literatur und melodische Adaptionen religiöser Musik waren keine fixierten, fertigen Produkte, sondern wurden im Laufe des Übertragungsprozesses transformiert.
+Schon bevor das Wort Remix populär wurde, basierte die menschliche Kultur immer auf Wiederverwendung und Modifikation. Werke wie Parodien auf Volkslieder, Variationen mündlicher Literatur und melodische Adaptionen religiöser Musik waren keine fixierten, fertigen Produkte, sondern wurden während des Übertragungsprozesses transformiert.
 
 Auch nach der Neuzeit, als sich das Konzept der Notenschrift und der Komponisten etablierte, galten Variationen, Bearbeitungen und Zitate als legitime schöpferische Akte. Die Themen und Variationen in der klassischen Musik und die Interpretation von Standards im Jazz zeigen, dass die Rekonstruktion vorhandener Materialien im Mittelpunkt des Ausdrucks steht.
 
@@ -104,7 +104,7 @@ Die Richtlinie zum digitalen Binnenmarkt klärte die Verantwortlichkeiten der Pl
 
 ## Übersetzung und Zitierung nach japanischem Recht
 
-Das japanische Urheberrecht legt großen Wert auf das Recht zur Anpassung, und eine Nutzung, die eine Änderung mit sich bringt, erfordert im Allgemeinen eine Genehmigung. Zitate müssen strenge Anforderungen erfüllen und passen nicht unbedingt zu Remixen.
+Das japanische Urheberrecht legt großen Wert auf das Recht zur Anpassung, und eine Verwendung, die eine Änderung mit sich bringt, erfordert im Allgemeinen eine Genehmigung. Zitate müssen strenge Anforderungen erfüllen und passen nicht unbedingt zu Remixen.
 
 Andererseits wurden in den letzten Jahren Anstrengungen unternommen, um auf das digitale Zeitalter zu reagieren, beispielsweise durch die Einführung flexibler Regelungen zur Einschränkung von Rechten und die Einführung einer Nichtstraftat. Die Kultur der abgeleiteten Schöpfung hat sich auf einzigartige Weise zwischen Systemen und Praktiken entwickelt.
 

@@ -88,7 +88,7 @@ color: #fff;
 - Multipiste numérique (ADAT, DAT)
 - Saisie avec Mac + Cubase
 
-### 10 chansons recommandées (années 1990)
+### 10 chansons recommandées (années 1990)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|

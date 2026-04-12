@@ -79,7 +79,7 @@ Mit diesem Album präsentierten sie das Paradoxon: „Ist Rock nicht das System 
 
 ---
 
-### Kapitel 3: Begegnung mit amerikanischer Musik und dem Beginn des „Alternative Country“
+### Kapitel 3: Begegnung mit amerikanischer Musik und dem Beginn des „Alt-Country“
 > **„Inmitten von Wein und Staub war die Wahrheit.“**
 
 1985年の[『Fear and Whiskey』](https://amzn.to/4mV4QMk)で、Mekonsは完全に新しい地平へ踏み出す。  
@@ -110,7 +110,7 @@ Obwohl er für diese Arbeit Pro Tools verwendete, verwendete er zum Mischen absi
 ---
 
 ### Kapitel 5: Feminismus und Solidarität, Perspektiven weiblicher Mitglieder
-> **„Während sich die Stimmen vermehren, spaltet sich die Wahrheit.“**
+> **„Je mehr Stimmen lauter werden, desto gespaltener wird die Wahrheit.“**
 
 Sally Timms verdient in der Geschichte von Mekons besondere Erwähnung.
 Als sie der Gruppe 1985 offiziell beitrat, fungierte sie nicht nur als Sängerin, sondern auch als „Geschichtenerzählerin“.
@@ -133,9 +133,9 @@ Regisseur Joe Angio beschreibt sie als „lebende Kunstwerke“.
 Diese Arbeit zeigt, wie Mekons verschiedene Ausdrucksformen durchlaufen haben, darunter nicht nur Musik, sondern auch Malerei, Fotografie, Poesie und politischen Aktivismus.
 Jon Langford war selbst als Maler tätig und zeichnete ein „antiromantisches Bild Amerikas“, indem er die Landschaften des Mittleren Westens der USA symbolisch darstellte.
 
-Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauigkeit“.
+Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauheit“.
 Langford sagte: „Lärm liegt uns im Blut“, und bei der Aufnahme zog er es vor, das Noise Gate zu entfernen und die Umgebungsgeräusche beizubehalten.
-Dieses „vernarbte Geräusch“ war der Realismus, an den Mekons glaubte.
+Dieser „vernarbte Klang“ war der Realismus, an den Mekons glaubte.
 
 ---
 
@@ -143,7 +143,7 @@ Dieses „vernarbte Geräusch“ war der Realismus, an den Mekons glaubte.
 > **„Selbst wenn wir uns auflösen, wird es nicht enden. Denn es wird nicht enden, es ist Mekons.“**
 
 Die Mekons lösten sich mehrmals auf und formierten sich neu.
-Allerdings ist es nicht das Ende, sondern eher ein Zyklus wie die Jahreszeiten.
+Allerdings handelt es sich dabei nicht um das Ende, sondern eher um einen Zyklus wie die Jahreszeiten.
 2019年の[『Deserted』](https://amzn.to/4nHdkYD)は、メンバーが砂漠に集まり数日で録音したセッション盤。  
 Man spürt die „stille Wut“ dieser Menschen, die ihre besten Jahre erreicht haben.
 Akustische Gitarre, elektronisches Dröhnen und entfernte Windgeräusche. Es klingt wie ein „Testament der Menschlichkeit“.

@@ -72,7 +72,7 @@ Craig Baldwin ist ein experimenteller Filmemacher, der die „Other Cinema“-Re
 
 ### Craig Baldwins Meisterwerk der Filmografie
 
-Nachfolgend haben wir Baldwins Hauptwerke nach Jahr geordnet aufgelistet.
+Nachfolgend sind Baldwins Hauptwerke nach Jahr geordnet aufgeführt.
 
 #### 1990er Jahre
 
@@ -168,5 +168,5 @@ Als Pionier des Underground-Films hat Craig Baldwin politische und soziale Theme
 
 Seine Arbeit erweitert kontinuierlich die Bandbreite des filmischen Ausdrucks und bietet dem Publikum neue Perspektiven. Baldwins Werk ist ein Muss für Filmliebhaber und -forscher, und seine Arbeit sollte weiterhin angeschaut werden.
 
-Other Cinema ist ein wichtiger Knotenpunkt der Filmkultur im Mission District von San Francisco und bietet Liebhabern von Underground- und Experimentalfilmen ein seltenes Erlebnis. Seine DVD-Sammlung ist eine wichtige Ressource für ein tiefes Verständnis der Filmgeschichte und -kultur. Für Filmliebhaber und Forscher ist es auf jeden Fall einen Besuch wert.
+Other Cinema ist ein wichtiger Knotenpunkt der Filmkultur im Mission District von San Francisco und bietet Liebhabern von Underground- und Experimentalfilmen ein seltenes Erlebnis. Seine DVD-Sammlung ist eine wichtige Ressource für ein tiefes Verständnis der Filmgeschichte und -kultur. Es ist definitiv ein Ort, der für Filmfans und Forscher einen Besuch wert ist.
 

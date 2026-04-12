@@ -17,7 +17,7 @@ title: '[Chronique] Psychic TV : L''histoire complète d''un groupe multimédia 
 ---
 
 
-## 1. Introduction
+## 1. Présentation
 
 
 Texte : mmr｜Thème : Histoire, philosophie, musicalité, activités live, rituels et influence sur les générations futures de Psychic TV depuis sa formation jusqu'à sa disparition
@@ -53,7 +53,7 @@ Grâce à son travail avec COUM Transmissions, Genesis a développé un fort int
 
 #### 2.2 Dissolution de Throbbing Gristle et formation de télévision psychique
 
-Throbbing Gristle a été formé en 1976 et a choqué le monde de la musique à la fin des années 1970 avec sa musique noise, industrielle et ses performances live de style guérilla. Cependant, en 1981, le groupe se dissout. Peu de temps après, Genesis débute un nouveau projet musical et artistique avec Peter Christopherson et Alex Fergusson. C'est Psychic TV.
+Throbbing Gristle a été formé en 1976 et a choqué le monde de la musique à la fin des années 1970 avec sa musique noise, industrielle et ses performances live de style guérilla. Cependant, en 1981, le groupe se sépare. Peu de temps après, Genesis débute un nouveau projet musical et artistique avec Peter Christopherson et Alex Fergusson. C'est Psychic TV.
 
 Psychic TV a été conçu non seulement comme un groupe de musique, mais comme un « collectif multimédia » intégrant musique, vidéo, performance et occultisme, et avait dès le début une structure qui mettait l'accent sur l'expérimentation et la provocation.
 
@@ -63,13 +63,13 @@ Psychic TV a été conçu non seulement comme un groupe de musique, mais comme u
 
 #### 3.1 Composition des membres et premiers travaux
 
-La programmation initiale de Psychic TV était composée de Genesis P‑Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
+La programmation initiale de Psychic TV était composée de Genesis P-Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
 
 La musique ancienne était caractérisée par une innovation qui transcendait les frontières traditionnelles des genres, combinant l'agressivité punk, la liberté psychédélique et le bruit expérimental.
 
 #### 3.2 Spectacles vivants et activités d'art vidéo
 
-Psychic TV a également innové dans sa performance live. De nombreuses performances en direct utilisaient du matériel vidéo et des écrans multiples pour offrir au public une expérience stimulante et rituelle. Une tentative a été faite pour reconstruire le spectacle vivant lui-même comme une sorte d'espace rituel, non seulement à travers la musique mais aussi à travers les images et l'expression physique.
+Psychic TV a également innové dans sa performance live. De nombreuses performances en direct utilisaient du matériel vidéo et des écrans multiples pour offrir au public une expérience stimulante et cérémoniale. Une tentative a été faite pour reconstruire le spectacle vivant lui-même comme une sorte d'espace rituel, non seulement à travers la musique mais aussi à travers les images et l'expression physique.
 
 #### 3.3 Naissance de toi Temple de Psychick Youth (T.O.P.Y.)
 
@@ -85,11 +85,11 @@ En 1986, Psychic TV lance un projet ambitieux : sortir un album live mensuel. Fi
 
 #### 4.2 Transformation des styles musicaux
 
-Au cours de cette période intermédiaire, en plus du noise industriel traditionnel et du punk, une variété d'éléments tels que la musique psychédélique, pop et expérimentale ont été incorporés, et le style musical a considérablement changé. Dans leurs performances live et leurs albums, la musique, la vidéo et la performance étaient étroitement liées, et le talent artistique intégrant l'audition, le visuel et la spiritualité se démarquait.
+Au cours de cette période intermédiaire, en plus du noise industriel traditionnel et du punk, une variété d'éléments tels que la musique psychédélique, pop et expérimentale ont été incorporés, et le style musical a considérablement changé. Dans leurs spectacles et albums, la musique, la vidéo et la performance étaient étroitement liées, et le talent artistique intégrant l'audition, le visuel et la spiritualité se démarquait.
 
 #### 4.3 Magie, magie du chaos et pensée approfondie
 
-La pratique de la magie du chaos et de l'occultisme à travers T.O.P.Y. a atteint son niveau le plus profond au cours de cette période. Genesis P‑Orridge explore la transformation personnelle et la construction d'une communauté à travers la magie et les rituels, liant indissociablement le travail d'un groupe et la pratique idéologique.
+La pratique de la magie du chaos et de l'occultisme à travers T.O.P.Y. a atteint son niveau le plus profond au cours de cette période. Genesis P‑Orridge explore l'auto-transformation et la construction d'une communauté à travers la magie et les rituels, liant indissociablement le travail d'un groupe et la pratique idéologique.
 
 ---
 
@@ -101,7 +101,7 @@ En 1992, Psychic TV a fait l'objet d'un scandale dans le programme d'information
 
 #### 5.2 Immigration aux États-Unis et évolution des activités
 
-Après avoir déménagé aux États-Unis, Genesis a changé son orientation créative tout en conservant la spiritualité et l'expérimentation de PTV. Les collaborations avec de nouveaux collaborateurs et membres se sont multipliées et la gamme de musiques et de performances rituelles s'est élargie.
+Après avoir déménagé aux États-Unis, Genesis a changé son orientation créative tout en conservant la spiritualité et l'expérimentalisme de PTV. Les collaborations avec de nouveaux collaborateurs et membres se sont multipliées et la gamme de musique et de performances rituelles s'est élargie.
 
 #### 5.3 Dissolution et projets parallèles
 
@@ -117,7 +117,7 @@ En 2003, Psychic TV a été réunie sous le nom de PTV3, a accueilli de nouveaux
 
 #### 6.2 Albums et œuvres conceptuelles
 
-Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et 'Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
+Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et ``Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
 
 #### 6.3 Dernière année et mort de Genesis
 

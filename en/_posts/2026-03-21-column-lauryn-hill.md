@@ -17,7 +17,7 @@ title: '[Column] Lauryn Hill -- A record of music where soul and truth intersect
 
 ## Prologue: When voices change the times
 
-Text: mmr｜Theme: A trajectory of expression that fuses the inner world of the individual and social perspective, carving "truth" into music
+Text: mmr｜Theme: A trajectory of expression that fused the inner world of the individual and social perspective, carving "truth" into music
 
 The music scene of the 1990s was a time when hip-hop and R&B rapidly became mainstream and were established as huge industries. Music videos, radio, and record company strategies have made music more influential than ever before, while also increasing the pressures of homogenization and commercialism.
 

@@ -86,7 +86,7 @@ Durant cette période, le folk expérimental américain était dispersé sous la
 
 ---
 
-# 3. Années 1980-90 : Influence de l'Industriel/Neofolk et rôle du Current 93
+# 3. Années 1980-90 : Influence des Industriels/Neofolk et rôle du Current 93
 
 Dans les années 1980 et 1990, le « neofolk » avec des éléments acoustiques a émergé de la scène post-industrielle britannique.
 L'un des acteurs centraux est **Current 93 (dirigé par David Tibet)**.
@@ -101,7 +101,7 @@ L'un des acteurs centraux est **Current 93 (dirigé par David Tibet)**.
 Il a défini les caractéristiques actuelles du Folk Expérimental : « musique expérimentale x acoustique x récitation poétique ».
 
 ## Intersection avec Neofolk
-Neofolk (Death in June, Sol Invictus, etc.) est souvent politiquement controversé, mais sur le plan sonore
+Les Neofolk (Death in June, Sol Invictus, etc.) sont souvent politiquement controversés, mais sur le plan sonore
 **Arrangement minimal x guitare folk x drone x poésie solennelle**
 Ces éléments sont liés à l'orientation expérimentale de Psych Folk.
 
@@ -142,7 +142,7 @@ Dans les années 2010, Experimental Folk a commencé à brouiller les frontière
 - Fusion avec **enregistrement sonore environnemental/terrain**
 
 À partir de cette époque, Experimental Folk a commencé à élargir ses frontières de genre.
-**Ambiance / Drone / Chambre Folk / Post-Industriel / Minimalisme Acoustique**
+**Ambiance / Drone / Folk de chambre / Post-industriel / Minimalisme acoustique**
 Il se développe de manière ramifiée et superposée.
 
 ---

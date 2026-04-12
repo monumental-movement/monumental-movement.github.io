@@ -21,7 +21,7 @@ title: '[Chronique] Des cordes qui transmettent directement des émotions et des
 
 Texte : mmr｜Thème : Expliquer les principaux guitaristes du monde et du Japon du point de vue de l'époque, du genre, de la technique et de la philosophie.
 
-La guitare est plus qu’un simple instrument de musique ; dans l’histoire de la musique depuis le XXe siècle, il fonctionne comme une extension du corps qui transmet directement des émotions et des idées. Au moment où vos doigts touchent les cordes, le son est généré par les vibrations de vos doigts et atteint le monde via des amplificateurs et des effecteurs. Le son produit par une guitare agit comme un miroir, reflétant les émotions, l'état mental et même le contexte culturel d'une personne.
+La guitare est plus qu’un simple instrument de musique ; dans l’histoire de la musique depuis le XXe siècle, il fonctionne comme une extension du corps qui transmet directement les émotions et les pensées. Dès que vos doigts touchent les cordes, le son est généré par les vibrations de vos doigts et atteint le monde via des amplificateurs et des effecteurs. Le son produit par une guitare agit comme un miroir, reflétant les émotions, l'état mental et même le contexte culturel d'une personne.
 
 L’image du guitariste est différente entre le Japon et le monde. Aux États-Unis et au Royaume-Uni, le blues et le rock sont devenus la base et le genre est devenu un genre dominant. Cependant, le Japon a connu un développement plus complexe et plus fluide, du boom électrique d’après-guerre au bruit underground, à l’improvisation et au post-rock. Le caractère unique des guitares japonaises émerge à l’intersection de la technique traditionnelle et de l’expression destructrice underground.
 
@@ -58,7 +58,7 @@ color: #fff;
 ---
 
 
-**Lou Reed (The Velvet Underground)** utilise des progressions d'accords simples et des dissonances pour apporter une subversion artistique à sa musique. C'était pop, mais provocateur, et contenait un esprit underground.
+**Lou Reed (The Velvet Underground)** utilise de simples progressions d'accords et des dissonances pour apporter une subversion artistique à sa musique. C'était pop, mais provocateur, et contenait un esprit underground.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-#III. Japon : silence et histoire rugissante des guitaristes
+#III. Japon : Une histoire de guitaristes silencieux et rugissants
 
 ## 1. Après la guerre et l'avènement de l'électricité (années 1950 à 1970)
 
@@ -122,7 +122,7 @@ color: #fff;
 
 ## 2. Mouvement clandestin (années 1970-80)
 
-**Takashi Mizutani (Les Rallizes Dénudés)** a eu une énorme influence sur la scène noise/underground japonaise avec son noise décadent de guitare et ses performances psychédéliques.
+**Takashi Mizutani (Les Rallizes Dénudés)** a eu une énorme influence sur la scène noise/underground japonaise avec son noise de guitare décadent et ses performances psychédéliques.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3XUkzRWei34?si=q2N0itqSX4Kgd3AZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -177,7 +177,7 @@ color: #fff;
 
 ## 4. La nouvelle génération de solitaires (années 2010-2020)
 
-**Ichika Nito** est un artiste talentueux de la génération SNS, utilisant pleinement la polyrythmie, le tapping et la construction d'harmonies. Diffusé dans le monde via YouTube.
+**Ichika Nito** est un artiste talentueux de la génération SNS, utilisant pleinement la polyrythmie, le tapping et la construction d'harmonies. Diffusion dans le monde via YouTube.
 
 **Ichiko Aoba** utilise une guitare acoustique pour exprimer des contes folkloriques oniriques.
 
@@ -205,7 +205,7 @@ Keiji Haino considère la guitare comme une extension de son corps et de son esp
 
 La guitare a toujours été un symbole de liberté d'expression, de l'underground au monde. L'ère est arrivée où « la température et l'idéologie de l'interprète » sont plus importantes que la technique.
 
-> Le tremblement des cordes de guitare continue de résonner à travers les époques.
+> Le tremblement des cordes de guitare continue de résonner à travers les âges.
 
 
 ---

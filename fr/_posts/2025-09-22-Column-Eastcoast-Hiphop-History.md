@@ -75,7 +75,7 @@ color: #fff;
 
 * **Producteurs représentatifs** : Just Blaze, The Alchemist, Swizz Beatz
 * **Principaux labels** : Roc-A-Fella, Rawkus Records, G-Unit Records
-* **Contexte culturel** : Alors que Jay-Z, DMX, 50 Cent et d'autres ont connu un succès commercial, l'underground Mos Def, Talib Kweli et d'autres ont développé le « rap conscient ». La culture mixtape a prospéré.
+* **Contexte culturel** : Alors que Jay-Z, DMX, 50 Cent et d'autres ont connu un succès commercial, l'underground Mos Def, Talib Kweli et d'autres ont développé le « rap conscient ». La culture mixtape a prospéré.
 * **Vidéo/Mode** : production de vidéoclips à grande échelle, des marques telles que Rocawear, Sean John et Ecko sont populaires.
 
 **Albums recommandés**
@@ -90,7 +90,7 @@ color: #fff;
 
 ## Années 2010 à aujourd’hui : Diversification et influence mondiale
 
-* **Producteurs représentatifs** : Metro Boomin (penchant sudiste, mais également influencé par New York), Hit-Boy, Statik Selektah
+* **Producteurs représentatifs** : Metro Boomin (du sud, mais aussi influencé par NY), Hit-Boy, Statik Selektah
 * **Major labels** : Top Dawg (également lié à NY), Griselda Records
 * **Contexte culturel** : Parallèlement à l'influence de Kendrick Lamar, à New York, Griselda (Westside Gunn, Conway, Benny the Butcher) fait revivre l'ambiance des années 90. Le nombre d’artistes issus d’Internet augmente également.
 * **Vidéo/Mode** : Une fusion de grandes marques et de streetwear (Supreme, Off-White, Balenciaga). Les vidéoclips documentaires ont le vent en poupe.
@@ -153,7 +153,7 @@ color: #fff;
 
 ## résumé
 
-Le hip-hop de la côte Est est né des fêtes de quartier du Bronx, a connu un succès commercial dans les années 80 et a atteint son âge d'or dans les années 90. Caractérisés par des paroles combinant critique sociale et réalisme de la rue, ainsi que par des rythmes d'échantillonnage précis, ils ont influencé la vidéo, la mode, le cinéma et même l'expression littéraire.
+Le hip-hop de la côte Est est né des fêtes de quartier du Bronx, a connu un succès commercial dans les années 80 et a atteint son âge d'or dans les années 90. Il se caractérise par des paroles qui combinent critique sociale et réalisme de la rue, ainsi que par des rythmes d'échantillonnage détaillés, et a influencé la vidéo, la mode, le cinéma et même l'expression littéraire.
 Depuis les années 2000, il y a eu des succès majeurs comme Jay-Z et 50 Cent, et des artistes conscients comme Mos Def et Talib Kweli. Depuis les années 2010, New York attire à nouveau l'attention grâce au renouveau de Griselda et Nas, et le hip hop dur et lyrique typique de la côte Est est hérité.
 
 ---

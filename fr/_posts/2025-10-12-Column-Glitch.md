@@ -101,7 +101,7 @@ Ce sont tous des **problèmes structurels** de la société numérique.
 
 L'émergence de l'art NFT est aussi un bruit qui a changé le concept de « propriété » à l'ère de la reproduction numérique.
 Même si les données devraient pouvoir être copiées à l’infini, elles redéfinissent la rareté comme un « élément unique en son genre ».
-Les contradictions continuent d'exister en tant que contradictions – c'est l'essence même de Glitch.
+Les contradictions continuent d’exister en tant que contradictions – c’est l’essence même de Glitch.
 
 La société deviendra de plus en plus « optimisée ».
 Cependant, le monde optimisé est en quelque sorte étouffant.
@@ -144,7 +144,7 @@ Les humains eux-mêmes sont le plus gros Glitch.
 
 ---
 
-### Conclusion : l'espoir dans le bug
+### Conclusion : l'espoir à l'intérieur du bug
 
 Le monde continue de s'effondrer.
 Nos réseaux, nos villes et nous-mêmes.

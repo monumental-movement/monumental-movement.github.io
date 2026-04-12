@@ -14,7 +14,7 @@ title: '[Chronique] Définition du punk et du hardcore : le tournant de la colè
 ---
 
 
-## Définition du punk et du hardcore ─ Le carrefour de la colère et de l'expression
+## Définition du punk et du hardcore : le carrefour de la colère et de l'expression
 
 Texte : mmr｜Thème : Punk/Hardcore
 
@@ -152,7 +152,7 @@ De nos jours, il y a une réévaluation parmi la génération Z et les festivals
 
 ### Au-delà de la « rébellion »
 
-Le punk et le hardcore ne sont pas seulement des genres musicaux. Il s'agit plutôt d'une expression de la philosophie « avoir sa propre voix », et c'est un médium qui l'exprime à travers le son, le corps et le groupe.
+Le punk et le hardcore ne sont pas seulement des genres musicaux. Il s'agit plutôt d'une expression de la philosophie « avoir sa propre voix », et c'est un médium qui exprime cela à travers le son, le corps et le groupe.
 Ce que ces deux tendances nous demandent n’est pas seulement de la destruction, mais peut-être une ligne directrice pour l’avenir : « À quoi devons-nous résister et que devons-nous créer ? »
 
 ---

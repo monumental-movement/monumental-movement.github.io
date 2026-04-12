@@ -19,7 +19,7 @@ title: '[Spalte] Musikähnlicher Manga-Künstler Keiichi Koike – Visueller Rhy
 ## Prolog: The Line Rings – Keiichi Koike, ein „musikalischer Manga-Künstler“
 
 
-Text: mmr｜Thema: Gedanken darüber, dass Keiichi Koikes Manga „Comics sind, die wie Musik sind“
+Text: mmr｜Thema: Gedanken zur Tatsache, dass Keiichi Koikes Manga „Comics sind, die wie Musik sind“
 
 
 Der Manga von Keiichi Koike ist eher ein Hörerlebnis als ein Leseerlebnis.
@@ -78,7 +78,7 @@ Präzise Linien und visuelle Rhythmen vermitteln dem Leser ein musikalisches Erl
 Die langfristige Serialisierung vertieft die spirituelle Welt und verfeinert die Komposition und Linienführung.
 
 - **2009**: Band 3 von „ULTRA HEAVEN“ veröffentlicht.
-Die neuen Bücher, die alle vier Jahre erscheinen, sind eine echte Lektüre.
+Die neuen Bücher, die alle vier Jahre erscheinen, sind ein echtes Lesevergnügen.
 
 ---
 

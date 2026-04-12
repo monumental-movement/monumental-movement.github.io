@@ -20,7 +20,7 @@ title: '[Kolumne] Zeni Geva – 30 Jahre Geschichte als Höhepunkt des japanisch
 
 Text: mmr｜Thema: Entschlüsselung der Klangentwicklung, wo sich Gewalt, Präzision und strukturelle Schönheit kreuzen
 
-Zeni Geva ist eine Band, die in der Geschichte des japanischen experimentellen Noise Rock/Hardcore eine ganz besondere Position einnimmt. Seit ihrer Gründung im Jahr 1987 ist ihr Sound durchweg gewalttätig und gleichzeitig unglaublich strukturiert und umfasst präzise berechnete mathematische Rhythmen. Die weitreichende Klangphilosophie des Anführers **KK Null (Kazuyuki Kishino)** bildet weiterhin den Kern der Band und hatte starken Einfluss auf die Underground-Szene in Japan und im Ausland.
+Zeni Geva ist eine Band, die eine einzigartige Position in der Geschichte des japanischen experimentellen Noise Rock/Hardcore einnimmt. Seit ihrer Gründung im Jahr 1987 ist ihr Sound durchweg gewalttätig und gleichzeitig unglaublich strukturiert und umfasst präzise berechnete mathematische Rhythmen. Die weitreichende Klangphilosophie des Anführers **KK Null (Kazuyuki Kishino)** bildet weiterhin den Kern der Band und hatte starken Einfluss auf die Underground-Szene in Japan und im Ausland.
 
 Ihre Musik ist mit Lärm, metallischen Gitarren, zerstörerischen Trommeln, sich wiederholenden Strukturen und elektroakustischen Texturen überlagert. Die Geschichte von Zeni Geva, die von den 1990er Jahren bis heute zeitweise aktiv war, ist als Bindeglied zwischen japanischer Noise-Kultur und ausländischem Underground äußerst wichtig.
 
@@ -62,7 +62,7 @@ In ihren frühen Werken, die sich auf Noise Rock und Hardcore konzentrieren, kö
 ---
 
 ## 2. Leap (1991–1995): Begegnung mit Albini und internationale Anerkennung
-1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
+Im Jahr 1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
 
 ### „Totale Kastration (1991)“
 Das erste von Albini aufgenommene Album in voller Länge.
@@ -86,7 +86,7 @@ Es gilt als das Album mit der ausgewogensten Integration von Akustik, Struktur u
 Im Jahr 1996 kam es zu einem Schlagzeugwechsel, Blake Fleming stieß für kurze Zeit zur Band. Später trat **Masataka Fujikake** der Band bei und Zeni Gevas Rhythmen wurden komplexer, schneller und vielschichtiger.
 
 ### Stärkung der strukturellen Musikalität
-In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder mit einer Länge von mehr als 16 Minuten.
+In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder, die länger als 16 Minuten waren.
 - Mehrere Teile divergieren und laufen wieder zusammen
 - Kontrapunktisches Riff mit zwei Gitarren
 - Verstärkter Einsatz elektronischer Geräte wie Nulltron
@@ -113,13 +113,13 @@ Für Zeni Geva hatte die Hinzufügung von Yoshida erneut einen starken Einfluss.
 
 ---
 
-## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und globale Neuaufmerksamkeit
+## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und weltweit erneuerte Aufmerksamkeit
 ### „Lebendig und aufstrebend (2010)“
 - Live-Soundquelle aus dem Lineup von 2009
 - Tatsuya Yoshidas perverses Schlagzeug und Null & Tabatas Gitarrenduell sind spektakulär
 
 Seitdem wurden die Live-Aktivitäten in Asien und Europa wieder aufgenommen.
-Zeni Geva erhält erneut Aufmerksamkeit aus der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
+Zeni Geva erfährt erneut Aufmerksamkeit in der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
 
 ---
 
@@ -158,7 +158,7 @@ Es wird sowohl im Inland als auch international weiterhin als eine Einheit bewer
 
 ---
 
-# Chronologie (Zeni Geva Hauptchronologie)
+# Chronologie (Hauptchronologie von Zeni Geva)
 
 | Jahr | Veranstaltungen |
 |---|---|

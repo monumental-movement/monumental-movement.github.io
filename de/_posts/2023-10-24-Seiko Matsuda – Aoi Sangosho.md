@@ -25,7 +25,7 @@ B. True Love そっとくちづけて
 
 Arrangement – ​​Masaaki Omura
 Komponieren – Yuichiro Oda
-Text – Noriko Miura
+Songtext – Noriko Miura
 Titelbild – Kishin Shinoyama
 
 [メルカリで購入](https://jp.mercari.com/item/m25110922187?afid=6142608987){: .button1}

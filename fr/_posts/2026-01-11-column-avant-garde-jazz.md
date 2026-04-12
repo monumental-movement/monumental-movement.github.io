@@ -17,7 +17,7 @@ title: '[Chronique] Avant-Garde Jazz : un mouvement qui a démantelé les struct
 
 
 
-## Prologue : Le moment où le jazz entre dans "l'inconnu"
+## Prologue : Le moment où le jazz entre dans « l'inconnu »
 
 Texte : mmr｜Thème : Sur l'essence du jazz d'avant-garde, souvent éloigné du mainstream comme musique de solution.
 
@@ -49,7 +49,7 @@ color: #fff;
 
 Le Bebop, créé dans les années 1940, a considérablement accru la liberté d’improvisation, mais a également créé des normes très sophistiquées. Les progressions d'accords complexes, les tempos rapides et la diction partagée étaient à la fois des contraintes passionnantes et nouvelles pour les interprètes expérimentés. Dans les années 1950, le hard bop et le jazz modal sont nés et des tentatives ont été faites pour libérer partiellement la musique des accords et de la tonalité.
 
-En particulier, le mode jazz constitue une étape préalable importante. La méthode d'improvisation sur de longues périodes et à échelle limitée a donné aux interprètes une idée qui n'était pas liée à une progression harmonique. Les efforts de Miles Davis et de John Coltrane ont servi de pont vers le jazz d'avant-garde. Cependant, le cadre de mesure, de thème et d’ordre des solos a été conservé.
+En particulier, le mode jazz constitue une étape préliminaire importante. La méthode d'improvisation sur de longues périodes et à échelle limitée a donné aux interprètes une idée qui n'était pas liée à une progression harmonique. Les efforts de Miles Davis et John Coltrane ont servi de pont vers le jazz d’avant-garde. Cependant, le cadre de mesure, de thème et d’ordre des solos a été conservé.
 
 > Le jazz d'avant-garde a commencé par interroger ce « cadre qui demeure » lui-même.
 
@@ -89,7 +89,7 @@ En harmolodics, chaque joueur a les mêmes droits mélodiques. Il n’est pas n�
 
 Cecil Taylor incarne le summum de la construction du jazz d'avant-garde. Même si ses performances sont souvent décrites comme un déversement d’émotion, il s’agit en réalité d’un art temporel très organisé. Bien qu'improvisé, sa plus grande caractéristique est qu'il présente la densité et l'ordre d'un bâtiment.
 
-### Redéfinir le jeu du piano
+### Redéfinir les techniques de jeu du piano
 
 Le style de jeu de Taylor traite le clavier non pas comme une série de mélodies, mais comme une masse de sons. Des clusters à grande vitesse utilisant les deux mains et des polyrythmies complexes ont transformé le piano d'un instrument mélodique en un instrument à percussion.
 
@@ -124,7 +124,7 @@ Le Sun Ra Arkestra n'avait pas de composition fixe, et le nombre de membres et l
 
 Dans cet enregistrement, la tonalité et la mesure ont peu de sens. Des phrases fragmentées, des sons semblables à du bruit et des performances de groupe soudaines apparaissent alternativement. Ce qui est important c’est que la musique ne progresse pas de manière linéaire.
 
-Les motifs courts et répétés modifient la perception du temps de l'auditeur et conduisent la musique dans une expérience cyclique. L'improvisation fonctionne comme un rituel collectif plutôt que comme une démonstration de compétences individuelles.
+Des motifs courts et répétés modifient la perception du temps de l'auditeur et conduisent la musique dans une expérience cyclique. L'improvisation fonctionne comme un rituel collectif plutôt que comme une démonstration de compétences individuelles.
 
 ### Pensée cosmique et structure musicale
 

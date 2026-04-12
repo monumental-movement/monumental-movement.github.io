@@ -157,7 +157,7 @@ Das Live-Setup von Surgeon zeichnet sich durch das Streben nach maximalem Ausdru
 <hr>
 
 
-### Von einer kleinen Box zum unendlichen Klang
+### Von einer kleinen Box zu unendlichem Klang
 
 Die modularen Synthesizer von Eurorack bieten Künstlern mit ihrer Flexibilität und Erweiterbarkeit neue kreative Freiheiten. Mit seiner Weiterentwicklung wird seine Rolle in der Musikszene noch wichtiger.
 

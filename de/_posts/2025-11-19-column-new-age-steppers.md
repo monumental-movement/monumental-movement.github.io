@@ -73,7 +73,7 @@ Sherwood war seit den 1970er Jahren an Reggae-Labels und -Vertrieb beteiligt und
 Gleichzeitig interagierte er mit Post-Punk-Acts wie The Slits, The Pop Group, The Fall und Alternative TV und verstand intuitiv das „Misstrauen gegenüber dem bestehenden Musiksystem“, das sie empfanden.
 
 1979 gründete er **On-U Sound**, um seine Experimente zu maximieren.
-NAS war das früheste Symbol dafür und erweckte den Eindruck, dass „On-U Sound = ein grenzüberschreitendes DIY-Soundlabor“.
+NAS war das früheste Symbol dafür und erweckte den Eindruck, dass „On-U Sound = ein grenzüberschreitendes DIY-Klanglabor“.
 
 ---
 
@@ -97,7 +97,7 @@ Insbesondere die engen Grooves der Gruppe Roots Radics und die raue und wilde En
 Diese Fusion war damals selbst für Großbritannien schockierend.
 Dies liegt daran, dass es eine tiefe kulturelle Kluft zwischen der jamaikanischen Einwanderergemeinschaft und dem weißen Punk-/Avantgarde-Publikum in London gab und es nur sehr wenige Musikprojekte gab, die direkt miteinander interagierten.
 
-NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und einen Raum für Koproduktion zu schaffen.
+NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und Raum für Koproduktion zu schaffen.
 
 ---
 
@@ -133,7 +133,7 @@ Die Teilnahme von Mark Stewart verstärkte die Aufregung.
 
 ## ■ „Foundation Steppers“ (1983)
 
-Es ist der Reggae-ähnlicheste Song von NAS, mit einem stabileren Groove-Gefühl.
+Es ist der „Reggae-artigeste“ Song als NAS, und das Gefühl eines stabilen Grooves nimmt zu.
 Diese Arbeit hat auch starke gesellschaftspolitische Themen.
 
 ## ■ „Liebe für immer“ (2012)
@@ -192,7 +192,7 @@ NAS war mehr als nur ein Musikprojekt; In den 1970er und 1980er Jahren wurde es 
 * Unruhen in Brixton
 * Kürzungen im öffentlichen Dienst
 
-Es hat einen Hintergrund von sozialen Themen wie z.
+Es hat einen Hintergrund mit sozialen Themen wie z.
 
 Ari Up hatte eine lange Geschichte mit der jamaikanischen Einwanderergemeinschaft und Mark Stewart vertrat eine antikapitalistische Haltung.
 Auch wenn NAS politische Texte nicht direkt veröffentlichte, war „Musik machen als Experiment“ in einer multikulturellen Gesellschaft selbst eine politische Praxis.
@@ -204,7 +204,7 @@ Auch wenn NAS politische Texte nicht direkt veröffentlichte, war „Musik mache
 Nach „Foundation Steppers“ von 1983 wurden die Arbeiten unter dem Namen NAS eingestellt.
 Aber sein Einfluss breitete sich weit und breit aus.
 
-## ● Betroffenes Gebiet
+## ● Betroffener Bereich
 
 * Bristols Massive Attack, Tricky, Smith & Mighty
 * UK Dub, Digital Dub

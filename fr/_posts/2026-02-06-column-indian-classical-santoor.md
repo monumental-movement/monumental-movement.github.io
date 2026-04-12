@@ -96,7 +96,7 @@ Depuis la fin du XXe siècle, les progrès de la technologie d'enregistrement on
 
 Cela a conduit à son application non seulement aux performances solos, mais également aux ensembles et à la musique de film.
 
-> La technologie a accru la présence de Santour, pas son volume.
+> La technologie a élargi la présence de Santour, pas son volume.
 
 ---
 
@@ -106,7 +106,7 @@ Depuis les années 1970, Santoor est associé au jazz, à la musique ambiante et
 
 Même dans les performances en dehors du cadre classique indien, la pensée raga continue d'influencer le choix des sons.
 
-> Même dans des lieux très éloignés de la tradition, la façon de penser de Santoor ne s'est pas perdue.
+> Même dans des endroits très éloignés de la tradition, la façon de penser de Santoor ne s'est pas perdue.
 
 ---
 
@@ -183,7 +183,7 @@ timeline
 
 ## Chapitre final : La mémoire culturelle comme vibration
 
-Le santur n'est pas qu'un instrument folklorique. C’est une réponse à la question de savoir comment le son mémorise le temps. Lorsque d'innombrables cordes frappent en même temps, les notes individuelles disparaissent et seule la résonance globale demeure.
+Le santur n'est pas seulement un instrument folklorique. C’est une réponse à la question de savoir comment le son mémorise le temps. Lorsque d'innombrables cordes frappent en même temps, les notes individuelles disparaissent et seule la résonance globale demeure.
 
 Cette caractéristique est la raison pour laquelle le Santour continue d'être mis à jour même à l'époque moderne.
 

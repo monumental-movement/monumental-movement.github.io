@@ -47,7 +47,7 @@ Lorsque Pan Sonic a été formé en Finlande au début des années 90, la scène
 Mika Vainio était à l'origine actif dans le genre industriel/noise, et au début des années 1990, il s'est tourné vers les expériences sonores électriques. Ilpo Vaisanen a également évolué entre les domaines de l'électronique DIY et de l'art de la performance.
 
 ### Débuts sous le nom de Panasonic
-Vers 1993, les deux hommes ont commencé à collaborer sous le nom de **Panasonic** et ont sorti leur première source sonore en 1994. Une grande partie de l'équipement était constituée de circuits analogiques modifiés, de systèmes de rétroaction et d'oscillateurs, et le composant principal était des « vibrations électroniques physiques » qui étaient complètement différentes des formes existantes de musique de club.
+Vers 1993, les deux hommes ont commencé à collaborer sous le nom **Panasonic** et ont sorti leur première source sonore en 1994. Une grande partie de l'équipement était constituée de circuits analogiques modifiés, de systèmes de rétroaction et d'oscillateurs, et le composant principal était des vibrations électroniques physiques, qui étaient complètement différentes des formes existantes de musique de club.
 Sur la scène musicale de l’époque, rares étaient ceux qui présentaient le minimalisme électroacoustique sous une forme aussi pure.
 
 ### Problème de nom avec Matsushita Electric
@@ -189,7 +189,7 @@ D --> F["ライブ音響"]
 # Conclusion : L’existence qui a fait de la musique électronique une « substance »
 
 Pan Sonic était une figure unique de la musique électronique qui a élargi le monde en « dépouillant le son ».
-Le son est froid, dur et en même temps palpite comme un être vivant.
+Le son est froid, dur et en même temps palpite comme celui d’un être vivant.
 Le minimalisme qu'ils présentaient n'était pas seulement une question de simplification, mais un acte de confrontation à la **vibration des circuits électroniques, qui est la racine du son**.
 
 Les œuvres et les pensées qu’ils ont laissées continueront de résonner comme l’épine dorsale de la musique électronique.

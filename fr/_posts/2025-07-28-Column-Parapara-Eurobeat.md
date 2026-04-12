@@ -96,7 +96,7 @@ C'est ainsi que le « marché Eurobeat » unique au Japon s'est formé et s'est 
 
 - Distribution de vidéos chorégraphiques (VHS, puis DVD)
 
-- Des séries telles que « Parapara Paradise » et « Parapara Kyonen » apparaissent également
+- Des séries telles que « Parapara Paradise » et « Parapara Kyonen » sont également disponibles.
 
 ● Production médiatique
 

@@ -23,7 +23,7 @@ En revanche, si vous recherchez une pure excentricité, écoutez « Funky Duck �
 
 Si vous aimez les drames d'espionnage, nous avons « Paranoia » et « Long Shadow ».
 
-Même dans des chansons courtes comme « Marionette », l'album fait toujours sentir sa présence, et l'album se termine par le « Planète 54 » réfléchi et mélancolique.
+Même dans des chansons courtes comme "Marionette", l'album fait toujours sentir sa présence, et l'album se termine par le "Planet 54" réfléchi et mélancolique.
 
 #### Liste des chansons
 ```md

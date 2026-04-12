@@ -58,7 +58,7 @@ Au début des années 1990, alors qu'il fait ses débuts sous le nom de KMD, il 
 Il est resté silencieux pendant plusieurs années et est revenu avec un masque métallique. **
 
 DOOM a fait du masque un symbole de « création » plutôt que d'« évasion ».
-Ses paroles sont pleines de métriques complexes, de rimes internes et de métaphores, et sont un mélange de structure littéraire et de style de rue.
+Ses paroles sont pleines de rythmes complexes, de rimes internes et de métaphores, et sont un mélange de structure littéraire et de style de rue.
 Par exemple, dans « Figaro », la chaîne de voyelles et le rythme des consonnes sonnent comme un instrument. C'était un rappeur qui manipulait les mots non pas comme des « significations » mais comme des « sons ».
 
 ---
@@ -69,7 +69,7 @@ Par exemple, dans « Figaro », la chaîne de voyelles et le rythme des consonne
 Madlib échantillonne le jazz et les bandes sonores qu'il a enregistrées au Brésil et les envoie à DOOM comme une sorte de journal sur cassette. DOOM l'écoutait chez lui et le rappait presque de manière improvisée.
 
 La rapidité de ce « va-et-vient » détermine la densité du travail.
-Les rythmes et le rap conservent une crudité qui résiste à la modification, privilégiant la « sensation » à la perfection.
+Les rythmes et le rap conservent une crudité qui résiste à la modification, privilégiant le « ressenti » à la perfection.
 Peanut Butter Wolf, directeur de Stones Throw à l'époque, a déclaré : « L'enregistrement ressemblait plus à un rituel qu'à une expérience. »
 
 ---
@@ -104,13 +104,13 @@ Par exemple, le passage suivant :
 
 > "Le reste est vide, sans cerveau sauf le nerd intelligent"
 
-Les rimes internes de « vide », « cerveau » et « intelligent » sont enchaînées, transcendant le contexte et créant un sens en elles-mêmes.
+Les rimes internes de « vide », « cerveau » et « intelligent » s’enchaînent, transcendant le contexte et créant un sens en elles-mêmes.
 Son rap fonctionne comme un dispositif sonore plutôt que comme de la poésie.
 
 ### Tout en majuscules
 « TOUT EN MAJUSCULES lorsque vous épelez le nom de l'homme »──
 Ici, DOOM définit son propre symbolisme.
-L’ordre « Écrivez votre nom en majuscules » est comme un sortilège pour se protéger sous le masque.
+L’ordre « Écrivez votre nom en majuscules » est comme un sort pour se protéger sous le masque.
 Cette chanson, y compris le clip (style dessin animé), a été le pionnier de la fusion de la **culture hip-hop = super-héros**.
 
 ---
@@ -121,7 +121,7 @@ La photo de la pochette (prise par Eric Coleman) est un gros plan du masque mét
 La composition, dans laquelle la moitié du visage est immergée dans l’ombre, symbolise l’écart entre anonymat et exposition, mythe et réalité.
 Ce masque servait à la fois de moyen d’expression en tant qu’artiste noir et de forme de résistance aux médias commerciaux.
 
-Le masque de DOOM est une référence de la culture pop au Dr. Doom de Marvel, mais plus profondément, il représente un renversement de pouvoir et d'identité.
+Le masque de DOOM est une référence de la culture pop au Dr Doom de Marvel, mais plus profondément, il représente un renversement de pouvoir et d'identité.
 Il y a ici un paradoxe : « méchant = personne qui a la liberté de parler »**.
 
 ---

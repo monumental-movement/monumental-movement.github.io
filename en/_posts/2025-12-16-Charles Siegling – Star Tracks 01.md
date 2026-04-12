@@ -13,7 +13,7 @@ title: Charles Siegling – Star Tracks 01
 ---
 
 
-A Tribal/Techno track released by Paris-based DJ/producer Charles Siegling, who is also known for his techno unit Technasia with Amil Khan, on his own label Star Tracks, which he founded in 2000.
+A Tribal/Techno track released by Paris-based DJ/producer Charles Siegling, known for his techno unit Technasia with Amil Khan, on his own label Star Tracks, founded in 2000.
 
 #### Tracklist
 ```md

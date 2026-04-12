@@ -57,13 +57,13 @@ graph TD
 
 ### 1-2. Geburt des brasilianischen Boogie
 
-Der brasilianische Boogie entwickelte sich innerhalb von MPB zu einem eher Groove-orientierten und tanzbareren Stil.
+Der brasilianische Boogie entwickelte sich innerhalb von MPB zu einem eher Groove-orientierten und tanzbaren Stil.
 Charakteristische Elemente sind wie folgt:
 
 - Rhythmus-Sektion mit ausgeprägtem Groove-Gefühl
 - Verwendung von E-Pianos und Synthesizern
 - Anspruchsvolle Chorarbeit
-- Songtext über Stadtleben und Liebe
+- Liedtext über Stadtleben und Liebe
 
 Zu den repräsentativen Künstlern gehören **Tim Maia, Cassiano, Hyldon und Carlos Dafé**.
 
@@ -171,7 +171,7 @@ graph TD
 
 ---
 
-## 8. Beispiel für eine Musikanalyse
+## 8. Beispiel einer Musikanalyse
 
 ### 8-1. Aus „Racional“ von Tim Maia
 

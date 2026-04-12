@@ -73,7 +73,7 @@ Aus diesem Grund wird in vielen Werken völlige Stille vermieden und sehr leise 
 
 Der Charakter von Ambient Techno / Deep Ambient verändert sich je nach Wiedergabemedium stark. Große Lautsprecher, Kopfhörer und kleine Geräte. Jeder erzeugt eine andere Tiefe.
 
-Bei Kopfhörern wird der physikalische Druck der tiefen Frequenzen verringert, aber die Dichte des Innenraums erhöht. Bei der Lautsprecherwiedergabe hingegen wird der Raum selbst zum Resonator.
+Bei Kopfhörern wird der physikalische Druck in den tiefen Frequenzen verringert, die Dichte des Innenraums nimmt jedoch zu. Bei der Lautsprecherwiedergabe hingegen wird der Raum selbst zum Resonator.
 
 ---
 

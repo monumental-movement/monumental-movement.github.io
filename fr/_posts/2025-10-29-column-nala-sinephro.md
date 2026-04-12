@@ -20,7 +20,7 @@ title: '[Chronique] Nala Sinephro - Respiration sonore et silence cosmique : l''
 
 Texte : mmr｜Thème : Le jazz n'est pas une question de technique ou d'expansion des genres, mais de la question fondamentale de ce que le son peut apporter aux humains.
 
-Lorsque nous entendons pour la première fois la musique de Nala Sinephro, nous sommes obligés d’abandonner le concept de « chanson ».
+Lorsque nous entrons pour la première fois en contact avec la musique de Nala Sinephro, nous sommes obligés d’abandonner le concept de « chanson ».
 Son premier album Space 1.8, sorti chez Warp Records en 2021, était une œuvre qui faisait fondre les frontières entre jazz et ambient, synthèse modulaire et improvisation comme si elle respirait.
 
 Harpe, saxophone ténor, synthétiseur modulaire et l'espace lui-même.
@@ -55,7 +55,7 @@ Il a formé un langage sonore unique qui évolue librement entre harpe et synth�
 > « Pour moi, le son est comme des particules dans l’air. »
 > – Nala Sinéphron
 
-Comme elle le dit, le son est superposé sous forme de « grains » et réfracte le temps comme la lumière.
+Comme elle le dit, le son est constitué de couches de « particules » et réfracte le temps comme la lumière.
 
 ---
 
@@ -84,7 +84,7 @@ La musique de Nala Sinephro est dans l'esprit d'Harold Budd, Alice Coltrane et L
 Il s'agit d'un « modernisme contemplatif » qui a été redéfini dans l'ère post-club du 21e siècle.
 
 Sa harpe et ses synthés diffusent une « improvisation de type jazz » dans l'espace en ajoutant des couches sonores.
-Le rythme disparaît, la mélodie dérive et il ne reste plus que la sensation du temps et de l'espace.
+Le rythme disparaît, la mélodie dérive et tout ce qui reste est la **sensation du temps et de l'espace**.
 
 
 <div class="mermaid">
@@ -141,7 +141,7 @@ En même temps, c’est aussi une déclaration de lenteur face à la vitesse de 
 | 2018 | Rejoignez Total Refreshment Center et démarrez des séances d'improvisation |
 | 2021 | « Space 1.8 » sorti chez Warp Records |
 | 2022 | Reconnaissance internationale acquise par Gilles Peterson et d'autres |
-| 2024 | Début d'un nouveau projet de production/live modulaire |
+| 2024 | Début d'un nouveau projet de production/modulaire en direct |
 
 ---
 
@@ -167,7 +167,7 @@ graph TD
 
 ---
 
-## Conclusion : Le futur du son palpite en silence
+## Conclusion : Le futur du son vibre en silence
 
 La musique de Nala Sinephro réouvre la question « Qu'est-ce que le jazz ?
 Il ne s’agit pas d’une extension de technique ou de genre, mais plutôt d’une question fondamentale de ce que le son peut apporter à l’humain.

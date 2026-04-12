@@ -93,7 +93,7 @@ In diesem Umfeld nehmen Musikwerke den Charakter von Aufzeichnungen des Produkti
 
 ## Kapitel 5 Produktionsprozess und visuelle Darstellung in Grimes
 
-Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den Produktionsprozess und den visuellen Ausdruck als untrennbar dargestellt hat.
+Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den Produktionsprozess und den visuellen Ausdruck als untrennbar darstellt.
 
 ### Musikalische Features
 
@@ -107,7 +107,7 @@ Grimes' Produktion zeichnet sich dadurch aus, dass er in seinen Werken bewusst S
 
 ### Visuelle Integration
 
-Die zur Musik präsentierten Visuals dienen nicht dazu, das Weltbild des Songs zu erklären, sondern vielmehr dazu, die Produktionsphilosophie selbst zu visualisieren.
+Die zur Musik präsentierten Visuals dienen nicht dazu, das Weltbild des Liedes zu erklären, sondern vielmehr dazu, die Produktionsidee selbst zu visualisieren.
 
 ---
 
@@ -117,7 +117,7 @@ Carpenter Brut repräsentiert eine andere Richtung im Elektropop-Experiment.
 
 ### Akustische Eigenschaften
 
-* Synthwave-Klangdesign
+* Synthwave-Tondesign
 * Extrem betonter Rhythmus und Verzerrung
 * Koexistenz von Pop-Stil und exzessiver Produktion
 
@@ -129,7 +129,7 @@ Der experimentelle Charakter von Carpenter Brut manifestiert sich weniger in der
 
 ## Kapitel 7 Visuelle Kultur und Elektropop-Experimente
 
-In der experimentellen Elektropop-Musik wirken die folgenden Elemente zusammen und nicht nur die Musik allein.
+In der experimentellen Elektropop-Musik wirken die folgenden Elemente zusammen und nicht nur Musik allein.
 
 * Albumcover
 * Musikvideo
@@ -198,7 +198,7 @@ Anstatt diese Elemente einfach zu verschmelzen, zeichnet es sich jedoch dadurch 
 Durch die Einbeziehung des Produktionsprozesses und visueller Informationen erleben die Zuhörer gleichzeitig Folgendes:
 
 * Musik hören
-* Vorstellung des Produktionsprozesses
+*Vorstellung des Produktionsprozesses
 * Beobachtung der Schöpferpersönlichkeit
 * Visuelle narrative Interpretation
 

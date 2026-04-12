@@ -9,7 +9,7 @@ permalink: /fr/va-synchronicity-2nd-session/
 tags:
 - Hiphop
 - 00s
-title: VA – Synchronicité 2ème Séance
+title: VA – Synchronicité 2e séance
 ---
 
 

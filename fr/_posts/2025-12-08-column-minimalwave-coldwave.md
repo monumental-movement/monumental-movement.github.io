@@ -48,7 +48,7 @@ color: #fff;
 - **Principales régions : Amérique/Belgique/Pays-Bas/Royaume-Uni**
 - **Période centrale : 1978-1986**
 - **Caractéristiques : Synthés principalement analogiques, structure minimale, plus rustique et expérimental que la techno pop**
-- Culture de cassettes principalement DIY et labels de distribution indépendants
+- Culture cassettes DIY principalement et labels de distribution indépendants
 - Systématisé par le label new-yorkais **Minimal Wave Records (Veronica Vasicka)** dans les années 2000
 
 ### ● Vague de froid
@@ -179,7 +179,7 @@ Compilation représentative :
 - *The Minimal Wave Tapes Vol.2 (2012, Stones Throw)*
 
 ### ● 6-2. Internet et redécouverte
-- Avec la diffusion des Discogs, des sources sonores rares de l'époque des cassettes se partagent.
+- Avec la diffusion des Discogs, des sources sonores rares de l'ère des cassettes se partagent.
 - D'anciens enregistrements téléchargés sur YouTube se sont répandus parmi les jeunes
 - La culture des blogs (par exemple Mutant Sounds) introduit des sources sonores rares
 
@@ -262,7 +262,7 @@ timeline
 - **Minimalisme + charme primitif des sons électroniques analogiques**
 - **Force spirituelle DIY**
 - **Solitude et froideur héritées du post-punk**
-- **Esthétique lo-fi de la culture cassette**
+- **Esthétique lo-fi de la culture des cassettes**
 
 Ceux-ci sont également communs à la culture moderne des producteurs de chambres à coucher et à Synthwave/Vaporwave.
 Parallèlement à la réévaluation des équipements analogiques, Minimal Wave/Coldwave continuera d’être exploré et mis à jour.

@@ -44,7 +44,7 @@ color: #fff;
 # 1. Was ist Chillwave?
 ## 1-1. Geburt (um 2009)
 Chillwave wurde im Allgemeinen um das Jahr 2009 gegründet.
-Der Name wurde populär, als das Musikmedium „Hipster Runoff“ im selben Jahr das Wort „Chillwave“ verwendete, und es verbreitete sich als Witz im Internet.
+Der Name wurde populär, als das Musikmedium „Hipster Runoff“ im selben Jahr das Wort „Chillwave“ verwendete und es als Witz im Internet verbreitete.
 
 Die Eigenschaften sind wie folgt.
 
@@ -69,7 +69,7 @@ Chillwave liegt irgendwo zwischen Indie-Rock und Electronica und fällt mit der 
 
 # 2. Was ist Synthwave?
 ## 2-1. Entstehung (Mitte der 2000er bis Anfang der 2010er Jahre)
-Die Ursprünge von Synthwave liegen früher als bei Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
+Die Ursprünge von Synthwave liegen früher als Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
 „A Real Hero“ von College & Electric Youth, das im frühen Film „Drive“ (2011) verwendet wurde, wurde zum Katalysator für seine Verbreitung im Mainstream.
 
 Merkmale:
@@ -78,7 +78,7 @@ Merkmale:
 - **Konzentriert sich auf analoge Synthesizer (Juno-106, DX7, Prophet usw.)**
 - **treibender 4/4-Beat (Synthwave)**
 - **Langsamer Ambient (Dreamwave/Retrowave)**
-- **Neon, Gitter, Pink x Blau 80er-Jahre-Visuals**
+- **Neon-, Gitter-, Pink- und Blau-80er-Visuals**
 
 Hauptkünstler:
 

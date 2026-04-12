@@ -14,7 +14,7 @@ title: Jean-Michel Bernard – La science du sommeil
 ---
 
 
-Bande originale du film « Sleep in Love », écrit et réalisé par Michel Gondry, qui a travaillé sur des vidéoclips pour Björk, The Chemical Brothers, Daft Punk, Radiohead, etc.
+Bande originale du film « The Encouragement of Love » écrit et réalisé par Michel Gondry, qui a travaillé sur des vidéoclips pour Björk, The Chemical Brothers, Daft Punk, Radiohead, etc.
 
 Michel Gondry était également le batteur du groupe de rock français Oui Oui.
 

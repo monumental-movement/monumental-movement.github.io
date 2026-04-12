@@ -47,7 +47,7 @@ Les jeunes du Bronx organisent des soirées DJ dans des espaces publics abandonn
 Les clubs et les fêtes de quartier étaient bien plus que de simples salles de concert ; ils étaient un symbole d'unité communautaire.
 
 ### L'importance des cassettes radio et de démonstration
-À l'époque, le hip-hop était popularisé grâce à des programmes de radio (par exemple "The Show" de WBLS) et les cassettes démo étaient un moyen important de découvrir des artistes.
+À l'époque, le hip-hop était popularisé grâce à des programmes de radio (par exemple « The Show » de WBLS) et les cassettes démo étaient un moyen important de découvrir des artistes.
 DJ Kool Herc et Afrika Bambaataa ont diffusé leurs mixtapes à la radio locale et lors de soirées, contribuant ainsi à faire passer le message.
 
 ### Chef-d'œuvre représentatif
@@ -92,7 +92,7 @@ Extrayez des phrases de disques soul, funk et jazz à l'aide d'un échantillonne
 
 ### Côte Est contre Côte Ouest
 Les tensions régionales influencent la musique, comme en témoigne le conflit entre The Notorious B.I.G. et 2Pac.
-Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de rap battles et de premières nouveautés, favorisant une culture rap battle.
+Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de battles de rap et de premières nouveautés, favorisant une culture de battle de rap.
 
 ### Sud (Atlanta, Houston, Nouvelle-Orléans)
 OutKast et UGK ont émergé et ont établi leur propre son unique. La distribution de cassettes dans les clubs a soutenu la diffusion du hip-hop régional.
@@ -129,7 +129,7 @@ Cela augmente la proportion de rythmes originaux.
 
 ---
 
-## Des années 2010 à aujourd'hui : l'ère du streaming et la mondialisation
+## Des années 2010 à aujourd'hui : l'ère du streaming et la mondialisation
 
 ### Combiner culture club et culture en ligne
 Principalement diffusé en version numérique sur SoundCloud, YouTube, Spotify, etc. Le club a immédiatement changé son rôle de lieu d'observation des réactions.
@@ -195,7 +195,7 @@ Un incident impliquant une utilisation non autorisée de la boucle de guitare de
 | années 1980 | *Payé en totalité*, *Il faut une nation de millions* | James Brown, Funk, période d'abus d'échantillonnage d'âme |
 | années 1990 | *La Chronique*, *Tous les regards sur moi* | Parlement-Funkadelic, G-Funk |
 | Années 2000 | *Stakonia*, *Tha Carter III* | Échantillonnage réduit/synthé mainstream |
-| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement fait maison + Auto-Tune |
+| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement maison + Auto-Tune |
 | Années 2020 | *M. Moral et les Big Steppers*, *L'intersaison* | Exemple de régression + expérience de battement générée par l'IA |
 
 ---

@@ -49,7 +49,7 @@ En Allemagne de l’Ouest, à la fin des années 1960, les jeunes de la généra
 - **Production indépendante et anti-commercialisme** : Les albums sont enregistrés sur des labels indépendants et de petits studios, en privilégiant les éléments expérimentaux.
 - **Fusion inter-genres** : flexibilité pour intégrer de manière croisée le jazz, le folk, le rock et le classique.
 
-Les groupes emblématiques incluent **Can, Neu!, Kraftwerk, Faust et Amon Düül II**, dont le son a directement influencé le Neo-Krautrock ultérieur.
+Les groupes emblématiques incluent **Can, Neu!, Kraftwerk, Faust et Amon Düül II**, dont le son a directement influencé le Neo-Krautrock plus tard.
 
 <div class="mermaid">
 flowchart TD
@@ -161,7 +161,7 @@ timeline
 Le Neo-Krautrock est plus qu'une simple réédition, il influence la musique contemporaine :
 
 - **Post-lock** : Introduction de structures répétitives et d'expressions spatiales.
-- **Electronica** : méthode de combinaison de sources sonores analogiques et numériques.
+- **Electronica** : Une méthode de combinaison de sources sonores analogiques et numériques.
 - **Indie Rock** : Héritage de l'esprit de la production indépendante et des performances live.
 - **Diversification des expressions live** : Les performances live multimédia liées à la vidéo et à l'éclairage ont également le vent en poupe.
 

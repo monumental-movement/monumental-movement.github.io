@@ -24,7 +24,7 @@ title: '[Spalte] Dego & Kaidi und Sound Signature'
 
 
 
-## Einleitung – Entstehung und Kontext von Broken Beat
+## Einleitung – Geburt und Kontext von Broken Beat
 
 Text: mmr｜Thema: EUK Über die Schnittstelle von Broken Beat und globaler schwarzer Musik
 
@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Schwarz spielte bei diesem Trend eine zentrale Rolle. Degos Lauf des Labels brachte viele Künstler und Veröffentlichungen von Broken Beat hervor und machte es zu einem kulturellen Zentrum für britische schwarze Musik. In diesem Umfeld wurde auch die Zusammenarbeit zwischen Kaidi und Dego gefördert, die zahlreiche Clubhits und Studioveröffentlichungen hervorbrachte.
+2000Schwarz spielte bei diesem Trend eine zentrale Rolle. Degos Lauf des Labels brachte viele Künstler und Veröffentlichungen von Broken Beat hervor und machte es zu einem kulturellen Zentrum für britische schwarze Musik. In diesem Umfeld entwickelte sich auch die Zusammenarbeit zwischen Kaidi und Dego, die zahlreiche Clubhits und Studioveröffentlichungen hervorbrachte.
 
 ---
 

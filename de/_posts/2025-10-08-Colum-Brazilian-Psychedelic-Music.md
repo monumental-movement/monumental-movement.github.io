@@ -49,7 +49,7 @@ color: #fff;
 1968 erschien das Compilation-Album **Tropicália: ou Panis et Circencis**. Dies war nicht nur ein Album, es war ein kulturelles Bekenntnis.
 Gilberto Gil, Caetano Veloso, Os Mutuntes, Gal Costa, Nara León und andere nahmen teil und präsentierten eine brasilianische Avantgarde, die Ton, Video und Poesie integriert.
 
-Os Mutantes war besonders innovativ. **Sergio Diaz**s Fuzz-Gitarre, **Rita Lees süßer, aber provokativer Gesang und improvisatorische Geräuschmanipulation waren mit dem britischen Pink Floyd und Soft Machine vergleichbar. Ihr 1970 erschienenes Album A Divina Comédia ou Ando Meio Desligado gilt als klanglicher Wendepunkt in der Geschichte der brasilianischen Musik.
+Os Mutantes war besonders innovativ. **Sergio Diaz**s Fuzz-Gitarre, **Rita Lees süßer, aber provokanter Gesang und improvisatorische Geräuschmanipulation waren mit dem britischen Pink Floyd und Soft Machine vergleichbar. Ihr 1970 erschienenes Album A Divina Comédia ou Ando Meio Desligado gilt als klanglicher Wendepunkt in der Geschichte der brasilianischen Musik.
 
 > „Os Mutantes aßen Steine, schluckten Bossa Nova und spuckten die Zukunft aus.“
 > — Rolling Stone Brasilien (1971)
@@ -139,3 +139,14 @@ Die „Tropical Vision“ hallt immer noch irgendwo auf der Welt nach.
 
 > „Psychedelia betrachtet die Realität in deinem Kopf.“
 > — Gilberto Gil
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9lB07O0eMYA?si=K3vV_zT2Wd6MVRn5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

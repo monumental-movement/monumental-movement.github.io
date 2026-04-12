@@ -60,7 +60,7 @@ Der Rhythmus des Herzschlags ist eine Metapher für das Leben,
 ### 2. Tanz, der den „Takt“ der Community trifft
 
 Tanzen wird oft als „nonverbale Kommunikation“ bezeichnet.
-Sein Wesen liegt jedoch eher in der Neubestätigung der Gesellschaft durch die Resonanz des Körpers.
+Ihr Wesen liegt jedoch vielmehr in der Neubestätigung der Gesellschaft durch die Resonanz des Körpers.
 Festivaltänze und religiöse Trances sind
 Es war ein Gerät, das das „Selbst“ in einem rhythmischen Fluss zum Schmelzen brachte, der über das Individuum hinausging.
 
@@ -114,14 +114,14 @@ Es war eine moderne Version eines alten Rituals.
 
 Unmittelbar nach dem Fall der Mauer war Berlin eine rechtsfreie Zone und ein Versuchsfeld für die Freiheit.
 Clubs wie Tresor und Berghain
-In einer Stadt, die auf eine politische und wirtschaftliche Umstrukturierung wartet, wurde eine neue physische Gemeinschaft geschaffen.
+Es schuf eine neue physische Gemeinschaft in einer Stadt, die auf eine politische und wirtschaftliche Umstrukturierung wartete.
 Da ist „Tanzen“ selbst
 Es war ein politischer Akt der Erinnerung und Wiedergeburt.
 
 ### 2. Tokio: Zwischen Regulierung und Kreativität
 
 Japans Clubkultur entwickelte sich unter den rechtlichen Zwängen des Entertainment Business Act.
-In diesem Land, in dem „Tanzen“ einst als „illegal“ galt,
+In diesem Land, in dem Tanzen einst als illegal galt,
 Die Menschen suchten nach neuen Wegen, ihren Körper im Takt von Geräuschen zu bewegen.
 Shibuya, Daikanyama, Shimokitazawa und lokale kleine Kisten――
 Geheime Tanzlokale bildeten die Unterwelt der Stadt.
@@ -170,7 +170,7 @@ Was der Soziologe Durkheim als „kollektives Aufbrausen“ bezeichnet, ist
 Es ist ein Moment, in dem gleichzeitig die Energie der Gemeinschaft angeregt wird.
 Die Tanzfläche des Clubs ist eine moderne Nachbildung genau dessen.
 Ein Ort, an dem einsame Menschen durch Rhythmus mit anderen in Kontakt treten können.
-Es ist ein primitiveres und viel physischer empathisches Mittel als soziale Medien.
+Es ist ein primitiveres und viel körperlich empathischeres Gerät als SNS.
 
 ---
 
@@ -196,4 +196,4 @@ Mit jedem Schlag bekräftigen wir den Rhythmus des Lebens.
 
 Was ist Tanzen?
 Sobald ich mein individuelles Selbst zerlege,
-Es ist der älteste und neueste Akt der Neusynchronisation mit der Welt.
+Es ist der älteste und neueste Akt der Neusynchronisierung mit der Welt.

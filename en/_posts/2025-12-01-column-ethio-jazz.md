@@ -44,7 +44,7 @@ color: #fff;
 
 # # 1. The foundation of Ethiopian music: the pentatonic scale (kinet) and unique modal culture
 
-Ethiopia has had a multi-layered musical culture since ancient times, including Ethiopian Orthodox chants (Zara), the Azmari culture of local bards, and the urban music of the capital Addis Ababa.
+A multi-layered musical culture has existed in Ethiopia since ancient times, including Ethiopian Orthodox Christian chants (Zara), local Azmari minstrel culture, and the urban music of the capital Addis Ababa.
 
 Particularly famous is Ethiopia's unique modal system called ""qenet.''
 There are four typical Kinets:
@@ -144,7 +144,7 @@ Military band recordings were reissued, and this triggered a worldwide re-evalua
 In 2005, as the music for the film **Broken Flowers** directed by Jim Jarmusch.
 Many of Mulatu's songs were used, and it attracted a lot of attention.
 
-After this event, collaborations with artists from Europe and North America increased,
+After this event, collaborations with European and North American artists increased.
 Ethio-Jazz once again becomes recognized as an international music genre.
 
 ---
@@ -215,7 +215,7 @@ Reevaluated internationally with the Éthiopiques series.
 
 ### ■ Tilahun Gessesse
 
-A singer known as the "King of Ethiopian Music." He is a former military band member and has advanced singing skills.
+A singer known as the "King of Ethiopian Music." He is a former military band member and has high singing skills.
 
 ### ■ Hailu Mergia
 

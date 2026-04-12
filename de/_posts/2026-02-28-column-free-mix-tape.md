@@ -77,7 +77,7 @@ Auch in Atlanta und im Süden entwickelte sich eine einzigartige Mixtape-Kultur,
 
 ### 2000er Jahre: Digitalisierung und P2P-Ausbau
 
-In den frühen 2000er Jahren beschleunigten die Verbreitung von CD-Rs und die Verbreitung des Internets die Mixtape-Kultur. Durch Filesharing-Dienste und Blogs ist eine Verbreitung über physische Zwänge hinaus möglich geworden.
+In den frühen 2000er Jahren beschleunigten die Verbreitung von CD-Rs und die Verbreitung des Internets die Mixtape-Kultur. Durch Filesharing-Dienste und Blogs ist eine Verbreitung über physische Grenzen hinaus möglich geworden.
 
 50 Cent erlangte in dieser Zeit große Bedeutung. Er veröffentlichte eine Reihe kostenloser Mixtapes und etablierte seine Popularität auf der Straße, was zu einem Großauftrag führte.
 
@@ -93,7 +93,7 @@ In den 2010er Jahren wurde das Konzept der „kostenlosen Verbreitung“ mit dem
 
 Ein typisches Beispiel ist „Acid Rap“ von Chance the Rapper. Obwohl es ohne kommerziellen Verkauf veröffentlicht wurde, erhielt es Kritikerlob und gewann später einen Grammy.
 
-Obwohl Mixtapes „kostenlos“ sind, werden sie in der Evaluierungsökonomie äußerst wichtig.
+Obwohl Mixtapes „kostenlos“ sind, erlangen sie in der Evaluationsökonomie eine enorme Bedeutung.
 
 > Kostenlos bedeutet nicht länger geringer Wert.
 

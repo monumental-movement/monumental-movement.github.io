@@ -98,7 +98,7 @@ Finalement
 le hip hop est
 Paris,
 Tokyo,
-Se propager à Johannesburg.
+Propagation à Johannesburg.
 
 En France, les immigrés de la deuxième génération parlaient des problèmes des banlieues à travers le rap, et au Japon, une culture unique s'est formée, associant clubbing et mode de rue.
 
@@ -155,7 +155,7 @@ La musique de rue est bien plus qu’un simple divertissement.
 * Médium de résistance politique
 * Formation de l'identité urbaine
 * Fusion de la mode, de la danse et de l'art
-* Former un réseau culturel mondial
+* Formation d'un réseau culturel mondial
 
 Le hip-hop a été débattu aux Nations Unies et le reggae a été inscrit au patrimoine culturel immatériel de l'UNESCO. Mais son point de départ est toujours l’espace public.
 

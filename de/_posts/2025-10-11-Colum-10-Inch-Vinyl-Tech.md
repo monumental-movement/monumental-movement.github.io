@@ -114,7 +114,7 @@ Dieser Vorgang ist besonders bei 10-Zoll-Modellen wichtig, da die Stabilität de
 Bei 10-Zoll-Scheiben beträgt die Dicke im Allgemeinen etwa 1,8 bis 2,0 mm und das Gewicht etwa 120 bis 150 g.
 Beeinflusst durch den Boom bei 12-Zoll-Schallplatten mit einem Gewicht von 180 g neigen wir dazu zu denken, dass „schwerer eine bessere Klangqualität bedeutet“, aber in Wirklichkeit sind die Dichte und die Ebenheit des Materials wichtiger.
 
-Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger dazu neigt, sich zu verziehen und weniger Resonanzen zu verursachen.
+Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger wahrscheinlich ist, dass es sich verzieht und weniger Resonanzen verursacht.
 Mit anderen Worten: Auch wenn es dünn ist, ist der Klang satt. Aus diesem Grund gibt es auch bei einer leichten 10-Zoll-Scheibe nahezu keinen Nachteil hinsichtlich der Klangqualität.
 
 ---

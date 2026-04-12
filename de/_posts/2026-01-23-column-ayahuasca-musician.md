@@ -48,7 +48,7 @@ color: #fff;
 
 ## Kapitel 1: Der erste Kontaktpunkt zwischen Musikern und Ayahuasca
 
-In der zweiten Hälfte des 20. Jahrhunderts wurde die südamerikanische Ritualkultur durch Ethnologie und Literatur in die westliche Gesellschaft eingeführt. Ursprünglich wurde Ayahuasca nicht als Mittel zur Musikproduktion verstanden, sondern als eine Erfahrung, die die eigene Wahrnehmung der Welt herausforderte.
+In der zweiten Hälfte des 20. Jahrhunderts wurde die südamerikanische Ritualkultur durch Ethnologie und Literatur in die westliche Gesellschaft eingeführt. Zunächst wurde Ayahuasca nicht als Mittel zur Musikproduktion verstanden, sondern als eine Erfahrung, die die eigene Wahrnehmung der Welt herausforderte.
 Erst in den 1990er Jahren begannen Musiker, ihre Erfahrungen öffentlich zu teilen. Durch die Schaffung eines Kontextes, in dem elektronische Musik und experimentelle Musik mit Spiritualität und Körperlichkeit verbunden werden, wurde ein Ort des Geschichtenerzählens geschaffen.
 
 > Ayahuasca war eher eine Frage der Wahrnehmung als der Technik mit Musik verbunden.
@@ -66,7 +66,7 @@ Konsequent in seinen Aussagen ist seine Haltung, seine Erfahrungen nicht an best
 
 ## Kapitel 3: Ai Yamazukas Reisen und rituelle Erlebnisse in den späten 1990er Jahren
 
-Ai Yamazuka erwähnte erstmals Ende der 1990er Jahre Reisen und rituelle Erlebnisse. In Interviews und Gesprächen hat er über seine Reiseerlebnisse und Erfahrungen rund um den Körper und die Gruppenheit gesprochen.
+Ai Yamazuka erwähnte erstmals Ende der 1990er Jahre Reisen und rituelle Erfahrungen. In Interviews und Gesprächen hat er über seine Reiseerlebnisse und Erfahrungen rund um den Körper und die Gruppenheit gesprochen.
 Der sich wiederholende Rhythmus und die feierliche Natur der späten „Boredoms“ und „OOIOO“ lassen sich nicht auf ein einziges Erlebnis reduzieren. Er beschreibt sie als eine Kombination aus Reisen, körperlichem Training und gemeinschaftlicher Leistung.
 
 > Ai Yamazukas Erzählung zeigt ihre Erfahrung nicht als Erklärung ihrer Arbeit, sondern als Veränderung ihrer Sicht auf den Körper.
@@ -93,7 +93,7 @@ Die räumliche Verarbeitung und das Zeitempfinden in dieser Arbeit ist ein Versu
 
 ## Kapitel 6: Erzählte Erfahrungen und die Wahl der Stille
 
-Während einige Musiker über ihre Erfahrungen sprechen, schweigen viele andere lieber. Schweigen ist kein Verleugnen, sondern eine Haltung, die bereits in der Musik zum Ausdruck kommt.
+Während einige Musiker über ihre Erfahrungen sprechen, schweigen viele andere lieber. Schweigen ist keine Verleugnung, sondern eine Haltung, die bereits in der Musik zum Ausdruck kommt.
 Ob Sie darüber reden oder nicht, es ist eine verantwortungsvolle Entscheidung für Sie als Musiker.
 
 > Erzählte Erlebnisse und Schweigen sind beides Haltungen zum Schutz der Musik.
@@ -102,7 +102,7 @@ Ob Sie darüber reden oder nicht, es ist eine verantwortungsvolle Entscheidung f
 
 ## Kapitel 7: Missbrauch, Mythologisierung und Verzerrung in der SNS-Ära
 
-Im Zeitalter der sozialen Medien wird eine sorgfältige Aussage oft vereinfacht. In seinen eigenen Aussagen gibt es keine Behauptung, dass seine Erfahrung seine Arbeit hervorgebracht habe.
+Im Zeitalter der sozialen Medien wird eine sorgfältige Aussage oft vereinfacht. In seinen eigenen Aussagen gibt es keine Behauptung, dass seine Erfahrung zu seiner Arbeit geführt habe.
 Missbrauch und Mythologisierung sind eher eine Frage der Erzählung als der Erfahrung.
 
 > Mythen entstehen nicht aus Erfahrung, sondern aus kurzen Worten.

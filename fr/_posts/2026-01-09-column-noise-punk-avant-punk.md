@@ -16,7 +16,7 @@ title: '[Chronique] Noise Punk / Avant-Punk ─ Quand la pulsion destructrice de
 
 
 
-## Prologue : Pourquoi le punk a-t-il dû rompre ?
+## Prologue : Pourquoi le punk a dû rompre
 
 Texte : mmr｜Thème : À propos du noise punk/avant punk, qui est un dispositif de mémoire permettant de rejeter constamment la zone de sécurité de la musique
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Punk après Punk : effondrement des conditions préalables
 
-Vers 1977, le punk se répand rapidement et en même temps se formalise rapidement. 3 accords, chansons courtes, attitude agressive. Ils sont rapidement devenus un style et ont commencé à être reproduits. Le noise punk/avant punk est né d’un fort sentiment de malaise face à cette situation.
+Vers 1977, le punk se répand rapidement et en même temps se formalise rapidement. 3 accords, chansons courtes, attitude agressive. Ils sont rapidement devenus un style et ont commencé à être reproduits. Le noise punk/avan punk est né d’un fort sentiment de malaise face à cette situation.
 
 Le problème pour eux était que le rock était une fois de plus réduit à une « musique facile à comprendre ». La rébellion devient un symbole et la dissidence devient à la mode. Afin de rejeter le processus lui-même, la musique s’est intentionnellement orientée dans une direction incompréhensible.
 
@@ -139,7 +139,7 @@ timeline
 
 Cette tendance s'est produite de manière intensive sur une courte période et a laissé une profonde influence sur la musique alternative ultérieure.
 
-> L'histoire du noise punk est courte, mais ses répliques sont longues.
+> Même si l'histoire du noise punk est courte, ses répliques se poursuivent longtemps.
 
 ---
 

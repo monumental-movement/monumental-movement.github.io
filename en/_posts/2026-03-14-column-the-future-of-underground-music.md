@@ -152,7 +152,7 @@ G --> H[Global Underground Scene]
 
 </div>
 
-> The Internet has transformed underground music from a local culture to a global network.
+> The Internet has transformed underground music from a local culture into a global network.
 
 ---
 

@@ -41,7 +41,7 @@ color: #fff;
 
 ## ■ Hardrock und Outlaw-Lifestyle
 
-Hard Rock ist mehr als nur ein Musikgenre, es wird oft als eine untrennbare „Lebensweise“ bezeichnet.
+Hardrock ist mehr als nur ein Musikgenre, es wird oft als eine untrennbare „Lebensweise“ bezeichnet.
 Symbole dafür waren die **Muscle Cars** und **Harley-Davidsons**, die aus dem Hintergrund der amerikanischen Kultur entstanden sind.
 
 Die 1960er und 1970er Jahre waren eine turbulente Zeit für die Vereinigten Staaten, in der der Vietnamkrieg, die Bürgerrechtsbewegung und der Konflikt zwischen konservativen Werten und Gegenkultur zu einem Sumpf wurden. Junge Menschen, die sich gegen die bestehende Ordnung und gesellschaftliche Normen auflehnten, suchten unter dem Stichwort „Freiheit“ ihren Ausdruck, Rock und Motorkultur waren hierfür symbolische Mittel.
@@ -55,7 +55,7 @@ Das Dröhnen des großvolumigen Motors war so wild wie die Verzerrung eines Mars
 Der Film „Easy Rider“ aus dem Jahr 1969 ist ein Symbol für die Jugendkultur und den Hardrock-Lifestyle der damaligen Zeit.
 Die Reise der Protagonisten auf Motorrädern durch Amerika auf der Suche nach Freiheit war nicht nur eine Reise, sondern eine Metapher für den „Ausbruch aus dem System“. Steppenwolfs „Born To Be Wild“, das auf dem Soundtrack spielt, schwingt mit dem Dröhnen der Motorräder mit und wird bis heute als Hardrock-Hymne der Freiheit weitergegeben.
 
-Man kann sagen, dass dieser Film die enge Beziehung zwischen Hardrock und Autokultur definiert hat, indem er den Moment visualisierte, als Musik, Motorräder und Freiheit zusammenkamen.
+Man kann sagen, dass dieser Film die enge Beziehung zwischen Hardrock und der Autokultur definiert hat, indem er den Moment visualisierte, als Musik, Motorräder und Freiheit zusammenkamen.
 
 ---
 
@@ -73,7 +73,7 @@ Dies spiegelte die amerikanische „Kultur der Geschwindigkeit“ der 1970er Jah
 ## ■ Motorgeräusch = ein weiterer Rock-Sound
 
 Hardrock wird von mehr als nur explosiven Gitarren und schwerem Schlagzeug getragen.
-Für die Fans war der Sound des Motors selbst „eine andere Art von Rock’n’Roll“.
+Für die Fans war der Klang des Motors selbst „eine andere Art von Rock’n’Roll“.
 
 - **Das Dröhnen des V8-Motors** schwingt mit dem Gitarrenriff mit und vermittelt dem Hörer ein Gefühl der körperlichen Befreiung.
 - Das Geräusch eines Motors ist „unkontrollierter Lärm“ und überschneidet sich mit dem rebellischen Geist des Rock, da er die soziale Ordnung und Stille stört.
@@ -134,7 +134,7 @@ Wenn das Dröhnen des Motors und das Gitarrenriff mitschwingen, erschüttert die
 
 | Songtitel | Künstler | Kommentar |
 |------|---------------|------|
-| Kickstart My Heart | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
+| Kickstart mein Herz | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
 | Verrückter Zug | Ozzy Osbourne | Ein rasantes Riff, das zum Fahren geeignet ist. |
 | Von einem Gebet leben | Bon Jovi | Singt über Jugend- und Roadmovie-Szenen. |
 | Pik-Ass | Motörhead | Lieder, die am engsten mit der Motorradkultur verbunden sind. |
@@ -198,7 +198,7 @@ Die Kultur von Harley-Davidson und amerikanischen Muscle-Cars hat die japanische
 
 | Künstler | Lied | Erscheinungsjahr | Funktionen |
 |--------------|------|--------|------|
-| LAUTHEIT | Verrückte Nächte | 1985 | Ein monumentales Stück japanischer Hardrock, das sich in der ganzen Welt ausgebreitet hat |
+| LAUTHEIT | Verrückte Nächte | 1985 | Ein monumentales Stück japanischer Hardrock, das sich auf der ganzen Welt ausgebreitet hat |
 | X JAPAN | Rostiger Nagel | 1994 | Symphonischer und lyrischer Hardrock |
 | B’z | LIEBE PHANTOM | 1995 | Fusion aus Hardrock- und J-POP-Melodien |
 | SEX-MASCHINENGEWEHRE | Deutsche Macht | 1998 | Japanischer HR-Vertreter der 90er Jahre mit Humor und Spannung |

@@ -116,7 +116,7 @@ Sie symbolisierten eine Ära, in der „mechanisch sein“ zu „niedlich“ wur
 ---
 
 Cornelius, Denki Groove und tofubeats haben den Techno-Pop ebenfalls diversifiziert und lokale Gefühle mit globalen Beats kombiniert.
-Der japanische Synthie-Pop hat sich zu einer „Übersetzung“ und nicht nur zu einer bloßen Nachahmung entwickelt.
+Der japanische Synthie-Pop ist zu einer „Übersetzung“ und nicht nur zu einer bloßen Nachahmung geworden.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fK2q8WKp91A?si=fU9HTDZOL09vuyM-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -142,7 +142,7 @@ Dahinter verbirgt sich eine durchgängige technologische Ästhetik von YMO bis P
 
 ---
 
-## Kapitel 6 Technologie und Emotionen: Wenn Maschinen Menschen anziehen
+## Kapitel 6 Technologie und Emotionen: Wenn Maschinen Menschen darstellen
 
 Sequenzer, Sampler, Autotune.
 Dabei handelte es sich nicht um Werkzeuge für „Genauigkeit“, sondern um Pinsel, die dazu dienten, „menschliche Mehrdeutigkeit“ hervorzuheben.
@@ -276,3 +276,12 @@ Wer der Geschichte des elektronischen Klangs nachspürt, geht auch den Aufzeichn
 Es ist eine kontinuierliche „Poesie der Technologie“, von YMOs frühen Experimenten bis hin zu Charli XCXs digitaler Traurigkeit.
 Synthpop endet nie. Tatsächlich wird das Wesentliche im Zeitalter der KI erneut in Frage gestellt.
 
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31kX8PKRocs?si=qSr699AGZ9ci1rGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Sur l’évolution de la musique de restauration rapide e
 La musique du restaurant de hamburgers n'est pas seulement une chanson commerciale, mais un « portrait sonore de l'époque ».
 Quelles valeurs la société recherchait et à quel rythme elle vivait - tout cela est condensé dans un jingle et un logo sonore de 15 secondes.
 
-La pop familiale optimiste de McDonald's, les riffs de guitare rebelles de Burger King et la chaleur artisanale du ukulélé de Mos Burger.
+La pop familiale optimiste de McDonald's, les riffs de guitare rebelles de Burger King et les sons de ukulélé fabriqués à la main de Mos Burger.
 Plutôt que des publicités d’entreprise, ce sont les « souvenirs sonores de l’époque ».
 
 ---
@@ -44,14 +44,14 @@ color: #fff;
 
 ## Chapitre 1 Le rêve américain et la naissance de la musique fast food (années 1970-1980)
 
-### 1-1 Chanter « hamburger = bonheur » : la première publicité de McDonald's
+### 1-1 Chanter « hamburger = bonheur » : la première publicité de McDonald's
 "You Deserve a Break Today" a été produit en 1971 par l'agence de publicité américaine **DDB (Doyle Dane Bernbach)**.
 Composé par Sid Woloshin, paroles de Dan Kallis.
 Il avait une sensation édifiante semblable à une comédie musicale et symbolisait McDonald's comme une « guérison » dans une société de consommation.
 
 > ♪ « Vous méritez une pause aujourd'hui, alors levez-vous et partez chez McDonald's ! »
 
-Cette chanson a été vendue en single aux États-Unis et a connu un succès inhabituel, entrant dans les charts radiophoniques.
+Cette chanson fut un succès inhabituel, se vendant en single aux États-Unis et entrant dans les charts radiophoniques.
 C’était la première fois que les publicités de restauration rapide entraient dans le domaine de la musique pop.
 
 ### 1-2 Lien avec l'industrie musicale : de la publicité aux chansons à succès
@@ -106,7 +106,7 @@ Introduction précoce du concept de « musique soutenant le goût ».
 ## Chapitre 5 Redéfinir l'ère numérique : « Le pouvoir de la marque sonore » véhiculé en 5 secondes (années 2010-2020)
 
 ### 5-1 Reconstruction du logo sonore
-- McDonald's : Jingle pentatonique universel (supervisé par Pharrell et Hiroshi Kawabe)
+- McDonald's : Jingle pentatonique universel (supervisé par Pharrell, Hiroshi Kawabe)
 - Changer le tempo/l'arrangement des touches pour chaque pays
 
 ### 5-2 Tendances dans la collaboration SNS x artistes

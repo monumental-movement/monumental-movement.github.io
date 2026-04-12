@@ -59,7 +59,7 @@ color: #fff;
 
 Ce mouvement se caractérise par un groove unique qui combine instruments live et rythmes électroniques. La musique live comprend du piano, des claviers, des cors et des percussions, superposés à des motifs de batterie complexes et des rythmes house. Le résultat est un son unique qui hérite de l'héritage du jazz, du funk et de la soul tout en ayant l'immédiateté et le caractère dansant de la musique de club.
 
-Des artistes tels que Dego, Kaidi Tatham, IG Culture, Bugz in the Attic et Neon Phusion ont contribué de manière significative à la croissance de Broken Beat. En particulier, le label 2000Black de Dego a servi de plaque tournante du genre, produisant de nombreux artistes talentueux. Dans ce contexte, Dego & Kaidi formeront une relation de collaboration qui élargira le contexte de la musique noire britannique.
+Des artistes tels que Dego, Kaidi Tatham, IG Culture, Bugz in the Attic et Neon Phusion ont contribué de manière significative à la croissance de Broken Beat. En particulier, le label 2000Black de Dego a servi de plaque tournante du genre, produisant de nombreux artistes talentueux. Dans ce contexte, Dego & Kaidi ont forgé une relation de collaboration qui élargit le contexte de la musique noire britannique.
 
 ---
 
@@ -77,7 +77,7 @@ Kaidi Tatham est un multi-instrumentiste, producteur et compositeur qui connaît
 
 ## Scène Broken Beat et 2000Black
 
-Broken Beat est un produit de la culture des clubs qui s'est développée dans l'ouest de Londres. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught et d'autres ont été les pionniers de la scène et, en combinant librement des éléments de jazz, de soul, de funk, de latin, de hip-hop et de house, ils ont établi une position unique en tant que musique de club pour adultes.
+Broken Beat est un produit de la culture des clubs qui s'est développée dans l'ouest de Londres. Des pionniers tels que IG Culture, Bugz in the Attic, Neon Phusion et Afronaught ont formé la scène et, en combinant librement des éléments de jazz, de soul, de funk, de latin, de hip-hop et de house, ils ont établi une position unique en tant que musique de club pour adultes.
 
 <div class="mermaid">
 flowchart LR
@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Le noir a joué un rôle central dans cette tendance. La gestion du label par Dego a donné naissance à de nombreux artistes et sorties Broken Beat, ce qui en fait un centre culturel pour la musique noire britannique. La collaboration entre Kaidi et Dego a également été favorisée dans cet environnement, produisant de nombreux succès en club et en studio.
+2000Le noir a joué un rôle central dans cette tendance. La gestion du label par Dego a donné naissance à de nombreux artistes et sorties Broken Beat, ce qui en fait un centre culturel pour la musique noire britannique. La collaboration entre Kaidi et Dego s'est également nourrie dans cet environnement, produisant de nombreux succès en club et en studio.
 
 ---
 
@@ -182,7 +182,7 @@ La collaboration entre Dego & Kaidi et Sound Signature était plus que la simple
 | 1999 | Kaidi & 2000Black collaboration initiale |
 | 2003 | Annonce de l'hymne du club par Dego & Kaidi |
 | 2006 | Bugz dans le grenier « De retour dans la niche » |
-| 2015 | Dego & Kaidi «ADAM ROCK DISSED !!» Sortie EP |
+| 2015 | Dego et Kaidi « ADAM ROCK DISSÉ !! » Sortie EP |
 | 2017 | Sortie de l'album « A So We Gwarn » |
 | 2017 à aujourd'hui | Les activités solo et collaboratives se poursuivent, Sound Signature évolue |
 

@@ -23,7 +23,7 @@ Texte : mmr | Thème : « La révolution musicale par le montage » construit
 
 À la fin des années 1960, la musique de Miles Davis n'est plus une extension de ses performances live, mais se transforme en une « architecture sonore » construite par l'enregistrement et le montage. Derrière ce changement se trouve le producteur et monteur **Teo Macero**.
 
-Masero n’était pas seulement une personne « dans les coulisses ». Entre ses mains, un grand nombre de bandes de sessions ont été coupées, collées et réassemblées, donnant naissance à un ensemble d'œuvres que l'on peut qualifier de « composition par montage ».
+Masero n’était pas seulement une personne « dans les coulisses ». Entre ses mains, un grand nombre de bandes de sessions ont été coupées, collées et réassemblées, donnant naissance à un ensemble d'œuvres que l'on pourrait qualifier de « composition par montage ».
 « In a Silent Way » (1969) et « Bitches Brew » (1970) en sont d'excellents exemples. Il y a une **révolution dans l'esthétique du montage** qui dépasse les frontières entre « performance » et « composition ».
 
 ---
@@ -225,20 +225,20 @@ Il y a ici un fondement philosophique qui résonne dans tout l’art du XXe siè
 | -------------------------- | -------------------- | ------------- |
 | **Constructivisme** | Le sens se crée à travers l'agencement et le réarrangement des matériaux | Architecture/Musique contemporaine |
 | **Chance contrôlée** | Contrôler les fragments improvisés par le montage | Cage, Varèse |
-| **Sculpter dans le temps** | Concevoir le « temps auditif » par le montage | Montage de films (Tarkovsky) |
+| **Sculpter dans le temps** | Concevoir un « temps auditif » par le montage | Montage de films (Tarkovsky) |
 | **Méta-composition** | Reconfigurer les matériaux à un niveau de composition supérieur | Art sonore, culture DAW |
 
 Macero a été la première personne à incarner le concept de « composition en deux étapes », dans lequel la musique est composée après l'enregistrement.
 Pour lui, l'improvisation était la « génération de matériaux » et le montage était le « lieu de construction ».
 
-> "La performance est le processus de création de matériel, et le montage est le processus de transformation de celui-ci en sens."
+> "La performance est le processus de création de matériel, et l'édition est le processus de transformation de celui-ci en sens."
 > — Téo Macero
 
 ---
 
 ## Chapitre 10 : Analyse acoustique —— « Structure auditive » créée par édition
 
-Le montage de Teo Macero a non seulement modifié la composition de la musique, mais a également transformé l'espace acoustique et la structure même de l'écoute.
+Le montage de Teo Macero n'a pas seulement changé la structure de la chanson, mais a également transformé l'espace acoustique et la structure même de l'écoute.
 Surtout lorsque l'on compare "In a Silent Way" et "Bitches Brew", vous pouvez voir une philosophie sonore claire dans la direction du montage.
 
 | Éléments | « De manière silencieuse » (1969) | «Bitches Brew» (1970) |
@@ -418,7 +418,7 @@ On peut dire qu'elle a précédé la « méthode de composition en studio » pr�
 
 | Éléments | Techniques | Intention acoustique |
 | ---------- | -------------------- | -------------------- |
-| Espace stéréo | Localisation (placement du tambour à gauche et à droite) impossible en performance réelle | Expansion du sens visuel spatial |
+| Espace stéréo | Localisation (placement du tambour à gauche et à droite) impossible en performance réelle | Expansion du sens visuel de l'espace |
 | Répétition de bande | Réinsérer la même phrase (structure récursive) | Effet d'hypnose auditive |
 | Fonctionnement égaliseur/réverbération | Unification de la texture entre plusieurs prises | Pseudo-génération de continuité spatio-temporelle |
 | « Coutures » de réverbération fragmentée | Délibérément laissé pour compte | Transformer les traces du montage en musique (transformer les coutures sonores en « structure ») |
@@ -474,7 +474,7 @@ Il n’a pas tracé de frontière claire entre la performance et le montage. Cet
 Dans la production musicale moderne, les actes que nous effectuons inconsciemment, tels que le « cut and loop », l'« automation » et le « remix », sont tous des extensions de la philosophie de Macero.
 Son accomplissement n’est rien de moins que de transformer la technologie de l’enregistrement en une forme d’art en tant qu’extension de la pensée humaine.
 
-> "Le montage, c'est mettre des ciseaux dans le temps. Et le temps coupé devient une nouvelle musique."
+> "Monter, c'est couper le temps avec des ciseaux. Et le temps coupé devient une nouvelle musique."
 > — Téo Macero
 
 ---
