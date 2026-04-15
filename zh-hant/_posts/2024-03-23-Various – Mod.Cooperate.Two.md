@@ -10,7 +10,7 @@ tags:
 - House
 - Minimal
 - Glitch
-title: Various – Mod.Cooperate.Two
+title: 各種 – Mod.Cooperate.Two
 ---
 
 

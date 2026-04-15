@@ -11,11 +11,11 @@ tags:
 - House
 - French House
 - 00s
-title: Philippe B – Can You Feel It
+title: Philippe B – 你能感覺到嗎
 ---
 
 
-オランダのプロデューサーグループSolid SessionsがPronti & Kalmaniをフィーチャーしたヴォーカルトランストラック「Janeiro」は、2000年のリリース以降数々の有名DJにremixされている。
+「Janeiro」是荷蘭製作人團體 Solid Sessions 與 Pronti & Kalmani 合作的一首 trance 歌曲，自 2000 年發行以來已被許多著名 DJ 重新混音。
 
 這張唱片是荷蘭 DJ/製作人 Armin van Buuren 和 Paul Hutsch 的混音版本，於 2002 年在 Alpha+ 廠牌發行。
 

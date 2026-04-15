@@ -24,4 +24,4 @@ DJ 混音 – Todh Teri
 
 Jet Set Novelty CD 2020 夏季
 
-[在 Mercari 購買](https://jp.mercari.com/item/m46631373981?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46631373981?afid=6142608987){: .button1}

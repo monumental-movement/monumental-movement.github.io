@@ -18,7 +18,7 @@ title: 精選 90 年代的英國 techno 作品
 <小時>
 
 ### Justin Berkovi – Fast-Wide E.P.
-<a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
+<a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20</a>
 
 發佈時間：1998
 
@@ -75,7 +75,7 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏
 
 發佈時間：1997 年
 
-英國科技與電子音樂。由 NovaMute 發行。 Mixmag 90 年代排名前 5 名的專輯
+UK techno & electronica. Released by NovaMute. Mixmag 90 年代排名前 5 的專輯
 
 #### 曲目表
 ```md

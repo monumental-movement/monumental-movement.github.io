@@ -9,11 +9,11 @@ permalink: /zh-hant/cursor-miner-remote-control/
 tags:
 - Techno
 - Leftfield
-title: Cursor Miner – Remote Control
+title: Cursor Miner – 遠端控制
 ---
 
 
-Cursor Miner 是 Rob Tubb（本名 Rob Tubb）的一個專案。
+Cursor Minerは、本名Rob Tubb（ロブ・タブ）によるプロジェクトです。
 
 Cursor Miner 是純粹的舞池讚歌、扭曲的碎拍、瘋狂的實驗、流行風格和社會評論的混合體。
 

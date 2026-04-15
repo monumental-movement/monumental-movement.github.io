@@ -14,7 +14,7 @@ title: Sinnamon – 我現在需要你
 ---
 
 
-Sinnamon 是美國 R&B 聲樂三人組。 《I Need You Now》（1983）被誉为20世纪80年代R&B/电子/后迪斯科的代表歌曲之一。
+Sinnamon 是美國 R&B 聲樂三人組。 《I Need You Now》（1983）被譽為20世紀80年代R&B/電子/後迪斯科的代表歌曲之一。
 
 這張唱片由 Worx Records 廠牌於 1996 年發行，是 House/Garage House 混音版「I Need You Now」。
 

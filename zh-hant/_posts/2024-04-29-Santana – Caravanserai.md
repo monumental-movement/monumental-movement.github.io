@@ -10,7 +10,7 @@ tags:
 - Rock
 - Psychedelic
 - 70s
-title: Santana – Caravanserai
+title: 桑塔納 – 商隊旅館
 ---
 
 

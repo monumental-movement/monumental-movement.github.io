@@ -13,7 +13,7 @@ title: 艱苦的音樂會－獲得力量
 ---
 
 
-The Hard Concertは、イタリアのプロデューサーPaolo Armaroli、イタリアのダンスレーベルDJ Movementの創設者でありDJ/プロデューサーのPieradis Rossini、ダンスミュージックプロデューサー/DJのGraziano Fanelli、イタリアのプロデューサーMarco Rizziによるイタロ・ユーロダンスプロジェクト。
+Hard Concert 是義大利製作人 Paolo Armaroli、DJ/製作人 Pieradis Rossini、義大利舞曲廠牌 DJ Movement 創辦人、舞曲製作人/DJ Graziano Fanelli 和義大利製作人 Marco Rizzi 的義大利歐洲舞蹈計畫。
 
 《Get The Power》據說是The Hard Concert 的代表作。
 

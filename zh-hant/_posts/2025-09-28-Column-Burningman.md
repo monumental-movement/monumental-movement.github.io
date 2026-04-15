@@ -17,7 +17,7 @@ title: '[專欄]沙漠之城：火人節的歷史、軼事和現代意義'
 
 文：mmr｜主題：了解火人節的歷史，就明白它不僅僅是一個節日，更是一次“未來城市與人類實驗”
 
-火人節不只是一個節日，它還是合作創造黑石城的試驗場。它於 1986 年在舊金山灣區的海灘上開始，自 20 世紀 90 年代以來每年在內華達州的黑岩沙漠舉行。這是一個藝術、火、科技和送禮文化交會的地方，與灣區的企業和創業文化深深交融。
+火人节不仅仅是一个节日，它还是合作创建黑石城的试验场。它于 1986 年在旧金山湾区的海滩上开始，自 20 世纪 90 年代以来每年在内华达州的黑岩沙漠举办。這是一個藝術、火、科技和送禮文化交會的地方，與灣區的企業和創業文化深深交融。
 
 ---
 
@@ -90,9 +90,9 @@ color: #fff;
 
 
 |年份|雜誌/媒體 |筆記/關係 |連結 |
-| ----： | --------------------------- | ------------------------ | ----------------- |
+| ----: | ------------------------ | | ------------------------ | ----------------- |
 |書籍 | *火人節：燃燒的藝術*（照片書）|一本涵蓋節日藝術的經典書籍| [亞馬遜](https://amzn.to/3VFFwNge) |
-|書籍 | *塵埃的往事*（羅克珊傑西）|一部走近全球燃燒文化的遊記| [亞馬遜](https://amzn.to/4nv3MQw) |
+|書籍 | *塵埃中的往事*（羅克珊傑西）|一部走近全球燃燒文化的遊記| [亞馬遜](https://amzn.to/4nv3MQw) |
 
 ---
 
@@ -230,7 +230,7 @@ flowchart TD
 
 #### 2003：難以置信
 
-對宗教、信仰、神秘、幻覺和超越的探索。無論是主題或藝術，都更體現了儀式、祈禱和儀式空間的意義。
+對宗教、信仰、神秘、幻覺和超越的探索。無論是主題或藝術，都更體現了儀式、祈禱和儀式空間的意識。
 
 今年，主題藝術登記項目數量快速增長。
 
@@ -264,7 +264,7 @@ flowchart TD
 
 重新思考自然與文明之間關係的主題。以「綠人」（植物和自然植物的擬人化形象）為主題的構圖。
 
-然而，當年他模仿巨型石油鑽井平台的燃燒藝術作品《粗暴的覺醒》引起了爭議，受到批評。
+然而，當年他模仿巨型石油鑽井平台的燃燒藝術作品《粗暴的覺醒》引發了爭議和批評。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -314,7 +314,7 @@ flowchart TD
 
 #### 2014：商隊旅行
 
-主題是商隊旅館（商隊旅館/貿易站）。該藝術作品圍繞著人員和貨物流動、貿易、旅程和停留以及文化交流等主題進行創作。
+主題是商隊旅館（商隊旅館/貿易站）。該藝術作品圍繞著人員和貨物流動、貿易、旅程和停留以及文化交流等主題創作。
 
 ---
 
@@ -368,7 +368,7 @@ flowchart TD
 
 ---
 
-#### 2022年：Waking Dreams
+#### 2022：夢醒
 
 構圖以覺醒與覺醒為主題，以對夢境與現實之間波動的意識和覺醒的視角進行創作。
 
@@ -392,7 +392,7 @@ flowchart TD
 
 #### 2025：明天今天
 
-關注不久的將來、未來的發明和社會計劃。體現「從明天到今天」的藝術、原型設計和引發未來對話空間的設計。
+關注不久的將來、未來的發明和社會概念。體現「從明天到今天」的藝術、原型設計和引發未來對話空間的設計。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

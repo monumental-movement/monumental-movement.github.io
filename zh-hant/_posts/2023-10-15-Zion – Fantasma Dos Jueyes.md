@@ -9,7 +9,7 @@ permalink: /zh-hant/zion-fantasma-dos-jueyes/
 tags:
 - Speedcore
 - Hardcore
-title: 錫安 – 幻想多斯朱耶斯
+title: 錫安 – 幻想猶太人
 ---
 
 
@@ -17,7 +17,7 @@ Zion 是一位活躍於拉丁美洲雷鬼音樂界的藝術家，也是波多黎
 
 Zion & Lennox 是與 Daddy Yankee 和 Don Omar 一起出現在雷鬼音樂黃金時代的樂隊，發行了許多熱門歌曲。
 
-B面は、プエルトリコのサルサシンガーDomingo Quiñones（ドミンゴ・キニョーネス）をフィーチャリング。
+B 面由波多黎各薩爾薩歌手多明哥‧奎尼奧內斯 (Domingo Quiñones) 主演。
 
 #### 曲目表
 ```md

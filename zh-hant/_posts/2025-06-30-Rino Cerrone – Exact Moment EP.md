@@ -14,10 +14,10 @@ title: Rino Cerrone – Exact Moment EP
 ---
 
 
-Rino Cerrone 是一位義大利 techno/tech house DJ 和製作人，自 1990 年以來一直在那不勒斯工作。 （于 2024 年去世）
+Rino Cerrone 是一位義大利 techno/tech house DJ 和製作人，自 1990 年以來一直在那不勒斯工作。 （於 2024 年去世）
 
 《Exact Moment EP》是一首 Techno/Tech House 曲目，由伯恩廠牌 Phont Music 於 2002 年發行。
-A2 & B1 の最後はlocked groove(ロックド・グルーヴ)になっている。
+A2、B1末端為鎖緊槽。
 
 #### 曲目表
 ```md

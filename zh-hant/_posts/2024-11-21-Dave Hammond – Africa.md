@@ -10,7 +10,7 @@ tags:
 - Eurobeat
 - Euro
 - 90s
-title: Dave Hammond – Africa
+title: 戴夫哈蒙德 – 非洲
 ---
 
 

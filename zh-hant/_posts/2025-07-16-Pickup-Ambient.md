@@ -92,7 +92,7 @@ D3. String Of Pearls
 <小時>
 
 ### Sanjiva – 流動喜悅的秘密房間
-<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%E2%80%93%20Secret%20Rooms%Flowaver%2009%(
+<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%Flowa$
 
 類型： 環境電子技術
 
@@ -156,7 +156,7 @@ B2. A C Tractor
 ### 冷靜－來自太陽和地球的人們
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20FromSun%20The">ThewebromSun20Thearth%
 
-類型： 環境音樂 / 巴利阿里群島音樂
+類型： 氛圍音樂 / 巴利阿里群島音樂
 
 發佈時間：2023 年 10 月
 
@@ -187,7 +187,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 類型：環境/最小
 
-リリース：2004年（Minimiseレーベル）
+發佈時間：2004 年（最小化標籤）
 
 格式：乙烯基
 

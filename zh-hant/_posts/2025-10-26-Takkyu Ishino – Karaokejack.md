@@ -18,7 +18,7 @@ title: 石野卓急 – 卡拉 OK 傑克
 第九首歌曲《Creatures Of The Night》是與Beroshima共同創作的。
 
 
-石野卓球 - カラオケジャック
+石野卓急 - 卡拉 OK 傑克
 
 第一批限量版紙護套規格
 

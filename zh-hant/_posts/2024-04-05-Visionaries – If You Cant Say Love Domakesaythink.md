@@ -16,7 +16,7 @@ title: 有遠見的人 – 如果你不能說愛 Domakesaythink
 
 Visionaries 是一個六人有意識的嘻哈團體，成立於 1995 年，總部位於洛杉磯。
 
-成員包括 LMNO (J. Kelly)、2Mex (A. Ocana)、Key-Kool (Kikuo Nishi)、DJ Rhettmatic (N. Nirza)、Lord Zen (D. Hood) 和 Dannu (D. Reyes)。
+メンバーは、LMNO (J. Kelly)、2Mex (A. Ocana)、Key-Kool (Kikuo Nishi)、 DJ Rhettmatic (N. Nirza) 、Lord Zen (D. Hood) 、Dannu（D. Reyes）。
 
 A 面的第 1 首和第 3 首由世界著名 DJ J.Rocc（綽號 Funky President）製作。
 

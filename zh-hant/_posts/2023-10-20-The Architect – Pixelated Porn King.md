@@ -9,7 +9,7 @@ permalink: /zh-hant/the-architect-pixelated-porn-king/
 tags:
 - Techno
 - Minimal
-title: 建築師 – 像素化色情之王
+title: The Architect – Pixelated Porn King
 ---
 
 

@@ -15,7 +15,7 @@ title: Da Techno Bohemian – Bangin' Bass
 ---
 
 
-Da Techno Bohemian 是鹿特丹出生的 DJ 和电子音乐制作人 Koen Groeneveld 以及（硬）浩室 DJ 和制作人 Addy van der Zwan 之间的一个工作室项目。這對二人組還以許多其他名字表演，包括 The Ultimate Seduction 和 Klubbheads。
+Da Techno Bohemian 是鹿特丹出生的 DJ 和電子音樂製作人 Koen Groeneveld 以及（硬）浩室 DJ 和製作人 Addy van der Zwan 之間的工作室項目。這對二人組還以許多其他名字表演，包括 The Ultimate Seduction 和 Klubbheads。
 
 A 面的第二首曲目是英國 house 音樂二人組 Rhythm Masters 的混音版，他們與 Todd Terry、Junior Vasquez、David Morales 和 Roger Sanchez 等藝術家進行了混音。
 

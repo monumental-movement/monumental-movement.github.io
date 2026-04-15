@@ -14,7 +14,7 @@ title: 探險家－米洛的維納斯
 ---
 
 
-The ExplorersはプログレッシブロックバンドRoxy Music(ロキシーミュージック)の元メンバー Phil ManzaneraとAndy MacKayがJames Wraithをvocal迎え結成したグループ。
+The Explorers 是由前衛搖滾樂團 Roxy Music、Phil Manzanera 和 Andy MacKay 的前成員組成的樂隊，由 James Wraith 擔任主唱。
 
 探索者樂團於 1985 年在維珍唱片公司發行了同名唱片“Explorers”，但於 1986 年解散。
 

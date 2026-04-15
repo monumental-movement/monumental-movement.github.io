@@ -9,7 +9,7 @@ permalink: /zh-hant/glam-prove-your-love/
 tags:
 - Euro Beat
 - Rare
-title: Glam – Prove Your Love
+title: Glam – 證明你的愛
 ---
 
 

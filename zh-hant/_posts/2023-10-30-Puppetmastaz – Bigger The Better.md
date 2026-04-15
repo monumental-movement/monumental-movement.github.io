@@ -9,13 +9,13 @@ permalink: /zh-hant/puppetmastaz-bigger-the-better/
 tags:
 - Hiphop
 - Rap
-title: Puppetmastaz – 越大越好
+title: Puppetmastaz – Bigger The Better
 ---
 
 
-Puppetmastaz 是 1996 年在柏林成立的德國嘻哈樂隊，由來自德國、美國和加拿大的成員組成，包括 Max Turner、Chilly Gonzales、Paul PM、Mister Maloke、Mocky 和 ​​Alex Tiller（2003 年離開樂隊）。
+Puppetmastaz(パペットマスターズ)は、1996年にベルリンで結成されたドイツのヒップホップグループで、Max Turner(マックス ターナー)、 Chilly Gonzales(チリー ゴンザレス)、Paul PM(ポール PM/Mister Malokeミスター マローク)、Mocky(モッキー)、そして 2003 年にバンドを脱退したAlex Tiller(アレックス ティラー)といったドイツ、米国、カナダ出身のメンバーで構成されています。
 
-Puppetmastaz 使用手偶進行表演，其音樂風格融合了饒舌、放克和電子音樂元素。
+Puppetmastazは、ハンドパペットを使ってショーをおこない、ラップ、ファンク、エレクトロニカなどの要素を取り入れた音楽スタイルが特徴です。
 
 #### 曲目表
 ```md
@@ -28,7 +28,7 @@ B1. Mastaplan
 B2. What U Need
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m42662167380?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42662167380?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yZoEGcTtR-Q?si=DGPwvCcUvMhps1LS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ title: 大衛‧阿爾瓦拉多 – 藍色
 ---
 
 
-《Blue》是一首 Progressive House/Tech House 歌曲，由 David Alvarado 於 2001 年發行，他是洛杉磯地下 house 界的資深人士，曾在 Ovum、Peacefrog、NRK、Plastic City 和 Ultra 等唱片公司發行過作品。
+「Blue」は、Ovum, Peacefrog, NRK, Plastic City, Ultraなどのレーベルから作品をリリースするロサンゼルスのアンダーグラウンドハウスシーンのベテランDavid Alvarado (デビッド・アルバラード)が2001年にリリースした Progressive House／Tech Houseトラック。
 
 A 是創新的 techno/tech house DJ Christian Smith 和 John Selway 的混音作品。
 

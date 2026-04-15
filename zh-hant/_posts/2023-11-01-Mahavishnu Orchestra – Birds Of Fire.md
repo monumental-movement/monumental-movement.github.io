@@ -10,11 +10,11 @@ tags:
 - Fusion
 - Jazz
 - Rock
-title: Mahavishnu Orchestra – 火鳥
+title: Mahavishnu Orchestra – Birds Of Fire
 ---
 
 
-Mahavishnu Orchestra 是一支先鋒融合爵士搖滾樂團，由英國吉他手 John McLaughlin 於 1970 年組成。
+Mahavishnu Orchestra（マハヴィシュヌ・オーケストラ）は、1970年にイギリス人ギタリストJohn McLaughlin(ジョン・マクラフリン)によって結成されたフュージョン・ジャズ・ロックの草分け的バンド。
 
 Birds Of Fire 於 1973 年發行，是 Mahavishnu Orchestra 的第二張專輯，成為爵士搖滾領域的全球熱門專輯。
 

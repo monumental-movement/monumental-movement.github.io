@@ -13,7 +13,7 @@ title: Workidz – 工作吧
 ---
 
 
-WorkidzことDavid Nagy は、ハンガリーのブダペストに拠点に活動するトラックメーカー。
+David Nagy，也稱為 Workidz，是一家位於匈牙利布達佩斯的卡車製造商。
 
 比利時Montini於2007年發行的《Work It》是Workidz的代表作。
 

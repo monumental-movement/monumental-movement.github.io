@@ -9,7 +9,7 @@ permalink: /zh-hant/delon-and-dalcan-fascination-in-the-sound/
 tags:
 - Electro House
 - 00s
-title: Delon & Dalcan – 迷戀 / In The Sound
+title: Delon & Dalcan – 魅力 / In The Sound
 ---
 
 

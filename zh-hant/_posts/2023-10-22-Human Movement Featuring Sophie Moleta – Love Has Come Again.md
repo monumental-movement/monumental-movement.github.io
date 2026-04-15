@@ -13,9 +13,9 @@ title: 蘇菲莫萊塔 (Sophie Moleta) 的《人類運動》——愛又來了
 ---
 
 
-人類運動是來自英國海峽群島（澤西島）的馬克·米切爾和保羅·麥克的一個計畫。
+人類運動是來自英國海峽群島（澤西島）的馬克米切爾和保羅麥克的一個計畫。
 
-《Love Has Come Again》由英國前衛唱片公司 Renaissance 於 2001 年發行。
+「Love Has Come Again」は、UKのプログレッシブ・ハウス・レーベルRenaissanceより2001年にリリース。
 
 Remix 由來自布魯克林的 DJ Angel Moraes 創作，他曾為 Pet Shop Boys 等樂團製作混音作品。
 

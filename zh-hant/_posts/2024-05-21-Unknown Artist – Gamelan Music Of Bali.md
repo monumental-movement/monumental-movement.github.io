@@ -10,13 +10,13 @@ tags:
 - Tribal
 - Folk
 - Field Recording
-title: 未知藝術家 – 峇裡島加麥蘭音樂
+title: Unknown Artist – Gamelan Music Of Bali
 ---
 
 
 Lyrichord 唱片公司發行的峇裡島加美蘭音樂專輯。
 
-美國 Lyrichord 唱片公司由 Peter Fritsch 於 1950 年創立，是美國歷史最悠久的人類音樂傳統收藏和發行公司，包括儀式、部落和民族傳統的現場錄音。這張專輯由魯比·奧恩斯坦錄製。
+美國 Lyrichord 唱片公司由 Peter Fritsch 於 1950 年創立，是美國歷史最悠久的人類音樂傳統收藏和發行公司，包括儀式、部落和民族傳統的現場錄音。 This album was recorded by Ruby Ornstein.
 
 據說加麥蘭的起源大約在公元 404 年，因為它被刻在婆羅浮屠和普蘭巴南遺址的浮雕上。還。甘美蘭於2021年12月15日被聯合國教科文組織註冊為世界非物質文化遺產。
 

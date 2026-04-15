@@ -15,7 +15,7 @@ title: '[專欄] 高品牌與噪音音樂－奢華與激進音響的交匯'
 
 ## 乍一看，兩者似乎毫無關聯。
 
-文：mmr｜主題：近期時裝秀與噪音音樂的緣分
+文：mmr｜テーマ：近年のファッションショーと、ノイズミュージックとの親和性
 
 噪音音樂都是關於地下現場、汗水和反饋聲音以及極限表演。另一方面，高端品牌是巴黎、米蘭和東京的T台、閃亮的紡織品和高度的精緻。
 人們很容易認為兩者不能交叉。
@@ -38,7 +38,7 @@ color: #fff;
 </style>
 
 
-### 時裝秀和噪音的親密感
+### ファッションショーとノイズの親密さ
 
 自1990年代以來，高端品牌演出不僅積極引入搖滾和古典音樂，還引入噪音/工業音樂。
 
@@ -84,9 +84,9 @@ color: #fff;
 ### 品牌與噪音/實驗音樂案例研究
 
 |品牌 |使用的音樂/藝人 |生產特色 |
-| -------------------- | ----------------- | ------------- |
+| --------------------- | ----------------- | ------------- |
 | [**COMME des GARÇONS**](https://amzn.to/42fzNDE) |無人機，噪音最小 |透過不和諧來「解構美」|
-| [**山本耀司**](https://amzn.to/42cl0JT) |類似無人機的即興創作靈感來自 Keiji Haino |沉默與咆哮的對比|
+| [**山本耀司**](https://amzn.to/42cl0JT) |類似無人機的即興創作靈感來自 Keiji Haino |沉默與咆哮的對比 |
 | [**Balenciaga**](https://amzn.to/3KItfr1) |工業噪音、環境聲音|引發戰爭和崩潰的生產|
 | [**瑞克歐文斯**](https://amzn.to/3KGkWMm) |無人機噪音、低頻聲音|儀式沉浸式體驗 |
 | [**古馳**](https://amzn.to/4gIXl9X) |古典+電子噪音|奢靡與洋氣的碰撞|
@@ -99,11 +99,11 @@ color: #fff;
 
 ### 每個品牌的噪音處理方法
 
-主要ブランドとノイズの深掘り事例
+主要品牌和噪音的深入範例
 
 ✦ [COMME des GARÇONS](https://amzn.to/42fzNDE)
 
-川久保玲追求「美的解構」與噪音的親和力。
+川久保玲が追求する「美の解体」とノイズの親和性。
 
 節目中引入了無人機、金屬聲和實驗音樂。
 
@@ -119,7 +119,7 @@ color: #fff;
 
 ✦ [巴黎世家](https://amzn.to/3KItfr1)
 
-デムナ期にインダストリアルノイズを全面導入。
+德姆納時期全面引入工業噪音。
 
 轟鳴聲在泥濘的跑道和破敗的空間中迴響。
 
@@ -153,7 +153,7 @@ color: #fff;
 
 環境聲音和白噪音於 2000 年代引入。
 
-都市雑音を「エレガンス」と融合。
+將城市喧囂與「優雅」融為一體。
 
 相關藝術家：Ryoji Ikeda，Oval。
 
@@ -196,14 +196,14 @@ color: #fff;
 |品牌 |指定及相關藝術家|生產特色 |
 | -------------------- | -------------------------------------------------- | ---------------- |
 | [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | Merzbow、灰野敬二、阿爾瓦諾托 |透過不和諧解構美學 |
-| [**山本耀司**](https://amzn.to/42cl0JT) |灰野敬二，即興演奏家 |沉默與咆哮的對比|
+| [**山本耀司**](https://amzn.to/42cl0JT) |灰野敬二，即興演奏家 |沉默與咆哮的對比 |
 | [**Balenciaga**](https://amzn.to/3KItfr1) |跳動的軟骨，懷特豪斯，深棕色瑪麗 |被毀壞的空間和劇烈的音響效果|
-| [**瑞克歐文斯**](https://amzn.to/3KGkWMm) | Sunn O)))，Deathprod，西北 |儀式沉浸式體驗|
+| [**瑞克歐文斯**](https://amzn.to/3KGkWMm) | Sunn O)))，Deathprod，西北 |儀式沉浸式體驗 |
 | [**古馳**](https://amzn.to/4gIXl9X) |亞歷山德羅·科爾蒂尼·芬內斯 |奢靡與洋氣的碰撞|
 | [**維維安·韋斯特伍德**](https://amzn.to/46DRqyf) | Sex Pistols，早期工業團體 |反體制和反美學的介紹|
-| [**Prada**](https://amzn.to/4nonZY9)             | Ryoji Ikeda、Oval                       | 都市雑音をエレガンスに変換   |
+| [**Prada**](https://amzn.to/4nonZY9) |池田亮司，橢圓形 |化城市喧囂為優雅 |
 | [**亞歷山大·麥奎因**](https://amzn.to/46wxWLO) | Aphex Twin，克里斯·沃森 |美麗與死亡的毀滅性產物|
-| [**路易威登**](https://amzn.to/3KgB7jB) |本·弗羅斯特 (Ben Frost) | Oneohtrix Point Never未來/城市實驗聲音 |
+| [**Louis Vuitton**](https://amzn.to/3KgB7jB)     | Oneohtrix Point Never、Ben Frost        | 未来的・都市的な実験音     |
 | [**迪奧**](https://amzn.to/4mBaLWU) |威廉·巴辛斯基、蒂姆·赫克 |無人機與奢侈品的融合|
 | [**聖羅蘭**](https://amzn.to/3KlN6we) |天鵝，蟲膠|黑皮與吼的親和力|
 
@@ -215,9 +215,9 @@ color: #fff;
 
 從噪音/實驗音樂來看，與高端品牌的接觸也很重要。
 
-[Merzbow](https://amzn.to/4mG80nl)（日本噪音大師）...雖然主題是環境問題和反消費，但它卻矛盾地融入了奢侈品。
+[Merzbow](https://amzn.to/4mG80nl)（日本のノイズ巨匠）…環境問題や反消費をテーマにしつつ、逆説的にラグジュアリーに取り込まれる。
 
-[Keiji Haino](https://amzn.to/4ntvDR6)...就像服裝一樣，「解構形式」的即興創作引起了設計師的共鳴。
+[灰野敬二](https://amzn.to/4ntvDR6)…衣服同様「形式を解体する」即興演奏がデザイナーに響く。
 
 [Throbbing Gristle](https://amzn.to/46nkrzq)...作為工業之父，它與Balenciaga和Rick Owens的美學直接相關。
 
@@ -233,7 +233,7 @@ color: #fff;
 ### 按品牌顯示影片連結和值得注意的地方
 
 |品牌 |影片標題|製作/聲音重點 |連結 |
-| --------------------- | -------------------------------------------------- | --------------------------------- | ----------------------------------------------------- |
+| -------------------- | -------------------------------------------------- |------------------------------------ |---------------------------------------------------------------- |
 | **COMME des GARÇONS** | COMME des GARÇONS FW25「小即強」|適合解讀演出整體氛圍以及暗光與音樂的重疊 | [YouTube](https://www.youtube.com/watch?v=YW0q4spnnj8) |
 | **COMME des GARÇONS** | 2024 年春夏 |關注揭示川久保玲時期實驗本質的聲音選擇與發展 | [YouTube](https://www.youtube.com/watch?v=QBmd_Z90GbY) |
 | **COMME des GARÇONS** | 2026 春夏男裝 |易於理解最新系列中的製作和空間聲音趨勢 | [YouTube](https://www.youtube.com/watch?v=14r7GrH1HPM) |
@@ -255,7 +255,7 @@ COMME des GARÇONS — 將實驗聲音/噪音融入「表演音樂」的傳統
 |展示/材料|特色藝術家 |補充要點|參考文獻 |
 |------------------------------------------------ |------------------------------------------------: |------------------------------------------------------------------------------------------------ |---------------- |
 | Comme des Garçons SS15（《紅色》等系列劇集）| **無人機類型的聲音，包括 Sunn O)))、地球（無人機/無人機金屬）** | Dazed 在一篇特別報道中報道稱，“SS15 配樂中使用了無人機類型的樂隊 (Sunn O)))、Earth)。”這是該劇的黑暗美學和聲音緊密的一個例子。 ([茫然](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [茫然](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
-| Comme des Garçons（为时装秀制作的声音）| **Florian Hecker**（为时尚制作音乐/已发行 12 英寸版本）| 有报道称，Hecker 为 Comme des Garçons 制作了几首歌曲，并且 Editions Mego 已发行了限量版。專為該節目製作的「當代聲音」作品。 （[電報](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
+| Comme des Garçons（為時裝秀製作的聲音）| **Florian Hecker**（為時尚製作音樂/已發行 12 英寸版本）| 有報道稱，Hecker 為 Comme des Garçons 製作了幾首歌曲，並且 Editions Mego 已發行了限量版。專為該節目製作的「當代聲音」作品。 （[電報](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | SS14/Archive 播放清單等 |顯示播放清單（實驗聲音、環境聲音和噪音的混合）|上傳到 Dazed 的 SoundCloud/播放清單等的節目聲音拼貼範例。方便「驗證」節目聲源。 ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?
 
 ---
@@ -301,7 +301,7 @@ COMME des GARÇONS — 將實驗聲音/噪音融入「表演音樂」的傳統
 
 #### Prada — 顯示 Plastikman (Richie Hawtin) 的聲源（例）
 
-**音源（ストリーミング）**: [Plastikman](https://amzn.to/48AkKrV) — "Inxtro"（Prada 2021 Runway Soundtracks） — [edm.com](https://edm.com/lifestyle/richie-hawtin-prada-runway-soundtracks-2021)   
+**聲音來源（串流媒體）**：[Plastikman](https://amzn.to/48AkKrV) —「Inxtro」（Prada 2021 Runway Soundtracks）—[edm.com](https://edm.com/lifestyle/richie-hawtin-prada-runway-soundtracks-2021)
 **注意事項**
 - 將極簡科技的物理性轉移到秀場上。 Frédéric Sanchez 的聲音設計範例。
 
@@ -315,15 +315,15 @@ COMME des GARÇONS — 將實驗聲音/噪音融入「表演音樂」的傳統
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga 2019 冬季 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4);顯示播放清單 — [YouTube 播放清單](https://www.youtube.com/playlistHIocu4);顯示播放清單 — [YouTube 播放清單](https://www.youtube.com/playlistlist?list |聲音設計：**BFRND**（顯示專屬樂譜）/工業聲音使用範例 |
 | [**瑞克歐文斯**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ；FW25等（很多）|無人機/低頻製作。從表演影片中可以確認沉浸式噪音的產生 |
 | **亞歷山大·麥奎因** | 2020 年秋冬活動 — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery 和 Alessandro Cortini** 被指定為競選歌曲（歌曲“At First Sight”）|
-| **路易威登** |各種演出和餘興派對記錄（示例存檔）— Daft Punk / Virgil Abloh 的 DJ 相關事宜（多個） |過去，**Daft Punk**為 LV 提供歌曲編輯，並使用 **Dev Hynes (Blood Orange)** 進行配樂（Virgil Abloh 時期） |
-| **迪奧** | Dior（各種活動/展示影片）|有許多案例涉及 Frédéric Sanchez 等聲音設計師，並且與環境/無人機類型的製作有聯繫 |
+| **路易威登** |各種演出和餘興派對記錄（示例檔案）——Daft Punk / Virgil Abloh 的 DJ 關係等（多個） |過去，**Daft Punk**為 LV 提供歌曲編輯，並使用 **Dev Hynes (Blood Orange)** 進行配樂（Virgil Abloh 時期） |
+| **迪奧** | Dior（各種活動/展示影片）|有許多聲音設計師（例如 Frédéric Sanchez）參與的案例，並且與環境/無人機類型的製作有聯繫 |
 
 ---
 
 ### 概括
 
 「高品牌」和「噪音音樂」乍看之下似乎毫無關係。
-だが両者は、美を解体し再構築する美学を共有している。
+然而，兩者都有一種解構和重建美的美學。
 噪音撕碎了奢華的虛偽，卻反而增強了其品牌價值。
 21世紀T台上迴盪的轟鳴聲證明，品牌不是“被消費的存在”，而是“挑釁的存在”。
 

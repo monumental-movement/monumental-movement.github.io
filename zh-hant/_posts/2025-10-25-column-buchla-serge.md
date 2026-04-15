@@ -12,7 +12,7 @@ tags:
 - Techno
 - Modular
 - History
-title: 【コラム】 BuchlaとSerge：電子音響のもうひとつの系譜
+title: 【專欄】Buchla 和 Serge：電子聲學的另一個譜系
 ---
 
 
@@ -96,7 +96,7 @@ Buchler 為藝術家創建了定制機器，而 Serge 植根於 DIY 文化和大
 
 ### 2-2. Serge 的理念：補丁可程式性
 
-Sergeの根本思想は、**“One module, many functions”**。  
+Serge 的基本理念是**「一個模組，多種功能」**。
 換句話說，這個想法是單一電路可以具有無限多種工作模式，這取決於它的連接方式。
 例如，雙通用斜坡發生器（俗稱“DSG”）
 - 信封
@@ -119,7 +119,7 @@ Sergeの根本思想は、**“One module, many functions”**。
 |功能設計|專用模組配置|組合通用模組|
 |控制|抽象電壓操作|具體訊號處理 |
 |聲學趨勢 |有機、動態、流暢 |線性、清晰、反應快 |
-|文化影響|藝術聲音、裝置|噪音、電子音樂、DIY 電子音樂 |
+|文化影響 |藝術聲音、裝置|噪音、電子音樂、DIY 電子音樂 |
 
 ---
 
@@ -132,7 +132,7 @@ Sergeの根本思想は、**“One module, many functions”**。
 | 1974 | Serge 模組化公告 | “人民的合成器”口號 |
 | 1980 | Serge 雙斜率產生器簡介 |已完成補丁概念|
 | 20 世紀 90 年代 |塞爾日重新評估期 |模擬的復興與復發|
-| 2004 | Eurorack 繁榮開始 |繼承Doepfer、Make Noise等 |
+| 2004 | Eurorack 繁榮開始 |繼承Doepfer、Make Noise等|
 | 2020 年代 | Buchla 美國/Serge 轉載|原創思想的重新語境化|
 
 ---
@@ -166,7 +166,7 @@ timeline
 ## 6. 連結現代：演算法與身體之間
 
 Buchla/Serge 精神在 Max/MSP、VCV Rack 甚至人工智慧生成的音樂工具中依然生氣勃勃。
-それは単なる“モジュールの組み合わせ”ではなく、**時間・空間・身体・確率を接続するアート的フレーム**である。
+它不僅僅是一個“模組的組合”，而是一個連接時間、空間、身體和機率的藝術框架。
 
 模組化合成器不僅僅是創造聲音的「工具」；
 它是一種產生聲音和人之間發生的「事件」的媒介。
@@ -187,11 +187,17 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。
 中士也說。
 > “每個補丁都是一個作品。”
 
-彼らにとって、電圧とは単なる信号ではなく、  
+對他們來說，電壓不只是一個訊號；更是一個訊號。
 **這是「一種連結人類意志和機器的詩意語言。」**
 
 即使到了 2025 年，我們仍繼續聆聽那股電壓的詩意。
 
 ---
 
+### YouTube 播客
 
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bVHO4y4znW8?si=8bfuNpxwJy43R_SL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

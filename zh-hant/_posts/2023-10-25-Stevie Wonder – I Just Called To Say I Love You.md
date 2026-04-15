@@ -14,7 +14,7 @@ title: 史蒂維旺德 – 我只是打電話說我愛你
 ---
 
 
-1984 年，Motown 發行了《Stevie Wonder – I Just Called To Say I Love You》。
+「Stevie Wonder（スティーヴィー・ワンダー） – I Just Called To Say I Love You」は、1984にモータウンからリリースされました。
 
 #### 曲目表
 ```md

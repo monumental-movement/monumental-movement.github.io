@@ -9,7 +9,7 @@ permalink: /zh-hant/michael-jackson-will-you-be-there/
 tags:
 - Pops
 - Soul
-title: 麥可傑克森 - 你會在那裡嗎
+title: Michael Jackson – Will You Be There
 ---
 
 

@@ -38,7 +38,7 @@ color: #fff;
 
 
 #### 1. 溫斯頓一家－《阿門，兄弟》(1969)
-俗稱「**阿門休息**」。六秒鐘的鼓獨奏催生了無數流派，包括嘻哈、叢林、鼓貝斯和硬核電子音樂。來自 N.W.A. 各地的製作人《Public Enemy》、《Aphex Twin》和《The Prodigy》創造了這一突破。
+俗稱「**阿門休息**」。六秒鐘的鼓獨奏催生了無數流派，包括嘻哈、叢林、鼓貝斯和硬核科技音樂。來自 N.W.A. 各地的製作人《Public Enemy》、《Aphex Twin》和《The Prodigy》創造了這一突破。
 前鼓手格雷戈里·科爾曼去世時沒有得到任何獎勵，但軍鼓和踩鈸之間的「律動精神」繼續產生共鳴。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxZuq57_bYM?si=9sRN2gAN9wrfNQmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -94,7 +94,7 @@ Bob James是流暢爵士樂的象徵，這首歌所產生的「hardbreak」在19
 ---
 
 #### 8. 不可思議的邦戈樂團 – “阿帕契” (1973)
-庫爾·赫克 (Kool Herc) 在布朗克斯的一次街區派對上使用了兩份傳奇的突破。這就是為什麼它被稱為嘻哈音樂的起源。
+庫爾·赫克 (Kool Herc) 在布朗克斯的一次街區派對上使用了兩份傳奇的突破。這就是為什麼它被稱為嘻哈的起源。
 它仍然作為舞者和轉盤演奏者的“神聖經典”而存在。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WY-Z6wm6TMQ?si=M_5a01O_-SpSNVzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,7 +132,7 @@ Wu-Tang Clan 的“C.R.E.A.M.”中使用的原始旋律。甜美的弦樂和憂
 
 ---
 
-#### 13. The Isley Brothers – “Between the Sheets” (1983)
+#### 13. 艾斯利兄弟 – 《床單之間》(1983)
 以Notorious B.I.G.的《Big Poppa》和Jay-Z的《Ignorant Shit》等歌曲而聞名。性感而憂鬱的醇厚是90年代R&B的起源。
 光滑的凹槽有一種完美的程度，感覺像是在採樣的前提下寫的。
 
@@ -171,7 +171,7 @@ Wu-Tang Clan 的“C.R.E.A.M.”中使用的原始旋律。甜美的弦樂和憂
 ---
 
 #### 18. 巴瑞懷特（Barry White）－「寶貝，我要多愛你一點」（1973）
-在取样世界里，它是爱情的象征。 《夢想》和肯伊威斯特引用過，它跨越了靈魂和慾望之間的界限。
+在取樣世界裡，它是愛情的象徵。 《夢想》和肯伊威斯特引用過，它跨越了靈魂和慾望之間的界限。
 甜美弦樂的「持續聲音」為嘻哈音樂帶來了奢華的感覺。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -222,7 +222,7 @@ E --> F["2020s AI Sampling Era"]
 ---
 
 
-### 結語：リズムは永遠に循環する
+### 結論：節奏是永恆循環的。
 
 採樣是藉用別人的時間來談論新時代的行為。
 這背後是無名音樂家的呼吸，是器材的喧鬧，是文化的傳承。
@@ -242,7 +242,7 @@ E --> F["2020s AI Sampling Era"]
 
 ### 參考
 
-- [WhoSampled.com](WhoSampled.com) 
+- [WhoSampled.com](WhoSampled.com)
 - [碎拍聖經](https://amzn.to/3J9CXma)
 
 ---

@@ -23,7 +23,7 @@ title: '[專欄]無聊：混沌建造者的軌跡與膨脹的宇宙'
 在日本音樂史上，**無聊**作為一個無法在任何背景下完全解釋的實體佔據著獨特的地位。
 他們於 20 世紀 80 年代末在大阪成立，後來影響了世界各地的音樂家，逐漸發展成為噪音、硬核、前衛、迷幻和後來的節奏合奏團。
 
-因為《無聊》超越了類型的界限，所以它不能用簡單的歷史敘事來捕捉。然而，他們的活動固然與時代有關，但同時又與時代脫節。
+因為《無聊》超越了類型的界限，所以它不能用簡單的歷史敘事來捕捉。然而，他們的活動固然與時代相關，但同時又與時代脫節。
 
 ---
 
@@ -42,9 +42,9 @@ color: #fff;
 
 
 ## 第一章：大阪地下鐵的形成歷史與地層
-1980年代，大阪有著與東京不同的獨特的地下文化。劇院、廢棄建築和現場音樂場所混合在一起，創造了許多龐克、硬核、噪音和表演藝術之間界線模糊的地方。 **山塚愛**，Boredoms的核心成員，在吸收這種雜亂的環境的同時，尋找著自己的表達方式。
+1980年代，大阪有著與東京不同的獨特的地下文化。劇院、廢棄建築和現場音樂場所混合在一起，創造了許多龐克、硬核、噪音和表演藝術之間界限模糊的地方。 **山塚愛**，Boredoms的核心成員，在吸收這種雜亂的環境的同時，尋找著自己的表達方式。
 
-艾未未早年的活動具有強烈的表演導向，他不僅練習聲音，還練習身體動作、物體和拼貼式的表達。
+艾未未早年的活動有強烈的表演導向，他不僅練習聲音，也練習身體動作、物品和拼貼式的表達。
 經過這個「前音樂」階段後，後來成為Boredoms原型的**Hanatarash**開始成形。
 
 ### 圖1：山塚愛的早期家譜
@@ -102,7 +102,7 @@ flowchart TD
 ---
 
 1998年的《超級æ》（Super æ）是一部保持了傳統噪音混合元素的作品，但非常強調聲音順序、重複和極簡主義。
-音は重層化され、反復リズムの中にトランス感が紛れ込み、サイケデリックな広がりを持ち始めた。
+聲音變得富有層次，一種恍惚的感覺融入了重複的節奏中，開始呈現出一種迷幻的感覺。
 
 ### 3-2. 「創視新太陽」巔峰之作
 
@@ -130,13 +130,13 @@ flowchart TD
 
 ### 4-1.成員變動及新架構變動
 
-2000年代初頭、メンバー構成に大きな変化が生まれる。
+2000年代初，會員組成發生了重大變化。
 吉他手和貝斯手被排除在外，陣容轉向以「鼓和打擊樂」為中心的新結構。
 以 Yoshimi P-We 為中心的多層次的鼓和打擊樂風格將成為 Boredoms 的標誌。
 
 ### 4-2. “Seadrum / House of Sun”的新階段
 
-2004年，發行《Seadrum / House of Sun》。
+2004年、『Seadrum / House of Sun』を発表。
 海灘錄音、長長的嗡嗡聲、冥想結構、環境聲音和重複的元素相結合，創造了一個感覺像「聲音儀式」的世界。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ObBwAq-Nx0A?si=Rg_siWf8KjzNuZaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -144,14 +144,14 @@ flowchart TD
 ---
 
 在這裡，樂團的名字經常被寫成V∞redoms，而Boredoms本身的概念也變成了“集體創作體”，而不是一個音樂單位。
-進入2000年代，Boredoms有了新的發展，包括**V∞redoms**這個名字，其中最具標誌性的就是以7月7日舉行的“7x7x7”現場演出**開始的大型鼓樂團。
+在2000年代，Boredoms有了新的發展，包括**V∞redoms**這個名字，其中最具標誌性的就是以7月7日舉行的“7x7x7”現場演出**開始的大型鼓樂團。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### 4.3 缸筒的意義
-- 巨大的多節奏結構與多人鼓
+- 多人数ドラムによる巨大なポリリズム構造  
 - 圓形場地佈置吸引觀眾
 - 在人工智慧的指導下強調視覺/物理體驗
 
@@ -169,7 +169,7 @@ flowchart TD
 
 ---
 
-## 第5章：2010年代以降の活動
+## 第 5 章：2010 年代以來的活動
 自2010年代以來，Boredoms繼續斷斷續續地進行現場表演，而每個成員的創作活動也不斷深化。
 特別是，**Eye 的視覺藝術活動**和 **Yoshimi 與 OOIOO/SAICOBABA** 的活動不斷擴大，給人的印像是 Boredoms 更像是一個「集體項目」而不是一個「樂團」。
 
@@ -278,7 +278,7 @@ timeline
 Boredoms 不僅僅是一支樂隊，它可以說是一個隨著時間的推移而改變形狀的“地方本身”。
 艾未未的哲學觀點、吉美的身體節奏以及每個成員的獨特性錯綜複雜地交織在一起，這個團體就像一個巨大的有機體一樣成長。
 
-如果你仔細看看，包括OOIOO和Eye的個人歷史，Boredoms的活動繼續像「無中心漩渦」一樣蔓延，他們的影響力繼續在全世界範圍內被引用。
+如果你仔細看看，包括OOIOO和Eye的個人歷史，Boredoms的活動繼續像「無中心漩渦」一樣蔓延，他們的影響力繼續在全世界範圍內被提及。
 
 ---
 

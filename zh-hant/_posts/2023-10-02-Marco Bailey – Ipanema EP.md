@@ -15,7 +15,7 @@ title: Marco Bailey – 伊帕內瑪 EP
 
 《Ipanema EP》是 Marco Bailey 於 2001 年在瑞典唱片公司「Zync」發行的一張 EP。
 
-聲音樣本的來源是「Mamborama - Cuba Te Llama」。
+人聲樣本的來源是「Mamborama - Cuba Te Llama」。
 
 
 #### 曲目表

@@ -11,15 +11,15 @@ tags:
 - Funk
 - Soul
 - 90s
-title: 西西爾帕克——《大家跳舞》
+title: Cecil Parker – Dance Everybody
 ---
 
 
 塞西爾·帕克是一位來自費城的四、八度歌手和詞曲作者。
 
-最著名的作品是 1980 年發行的深情民謠《真的，真的很愛你》和《Love Is》。
+1980年にリリースしたソウルフルなバラード「Really, Really Love You」と「Love Is」でよく知られている。
 
-《DanceEverybody》是一首 House 歌曲，於 1992 年在 Echo Dance 上發行，Echo Dance 是美國早期 house 廠牌 Echo USA 的子廠牌。由傑弗裡·柯林斯製作，詹姆斯·布拉頓和馬龍·格蘭特混音。
+《DanceEverybody》是一首 House 歌曲，於 1992 年在 Echo Dance 上發行，Echo Dance 是美國早期 house 廠牌 Echo USA 的子廠牌。由杰弗里·柯林斯制作，詹姆斯·布拉顿和马龙·格兰特混音。
 
 
 #### 曲目表
@@ -31,7 +31,7 @@ B1. Dance Everybody (Original Vocal)
 B2. Dance Everybody (Backburner Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKvKt6pFzp0?si=UBe9tm-kfeqVyTOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ title: Lo-Fidelity Allstars – 迪斯可機關槍
 ---
 
 
-《Lo-Fidelity Allstars - Disco Machine Gun》中的「Puppy Phat」以其慢節奏的節奏、厚重的節拍和骯髒的低音線，模糊了 Trip-hop 和 Big Beat 之間的界限。這首歌被隱藏為 B 面，是 Lo-Fi 最好的歌曲之一。
+《Lo-Fidelity Allstars - Disco Machine Gun》中的「Puppy Phat」以其慢節奏的節奏、厚重的節拍和骯髒的低音線，模糊了 Trip-hop 和 Big Beat 之間的界限。這首歌隱藏在 B 面，是 Lo-Fi 最好的歌曲之一。
 
 
 #### 曲目表

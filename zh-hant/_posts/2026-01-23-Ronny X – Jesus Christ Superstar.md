@@ -14,7 +14,7 @@ title: Ronny X – 萬世巨星
 ---
 
 
-Ronny X，也稱為 Ronald Fiolet，是一位以 FIO 名義活躍於多個團體的藝術家。
+Ronny X，也稱為 Ronald Fiolet，是一位以 FIO 名義活躍於各種團體的藝術家。
 
 由 Andrew Lloyd Webber 和 RonnyX、荷蘭 trance DJ/製作人 Misja Helsloot 等人重新混音的電子/前衛 Trance 曲目和 Tim Rice 的“Jesus Christ Superstar”。它於 2006 年由荷蘭獨立廠牌 Timatics 發行。
 

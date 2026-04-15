@@ -15,7 +15,7 @@ title: Lab4 – 我們都不是聖人
 
 Lab4 是由 Adam Newman 和 Les Elston 組成的英國硬舞團體。
 
-Side A 是日本領先的硬舞製作人兼 DJ Nish 的混音作品。
+Side A 是日本領先的硬舞製作人和 DJ Nish 的混音作品。
 
 《None Of Us Are Saints》於 2006 年在 avex 的子廠牌 Superb Trax 發行。
 

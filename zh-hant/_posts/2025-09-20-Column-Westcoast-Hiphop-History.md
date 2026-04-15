@@ -17,7 +17,7 @@ title: 【專欄】西海岸嘻哈音樂概述－從起源到地下
 
 文：mmr｜主題：從西岸嘻哈誕生到現在，製作人、廠牌、東西方衝突、傑作、視覺表達、時尚變遷
 
-西岸嘻哈音樂始於街區派對和源自放克的節拍，在擴展到主流音樂的同時，它始終融入了地下創造力。本文總結了不同時代的主要人物、製作人、品牌、視覺美學和時尚的變化，以及學術參考和唱片目錄。
+西海岸嘻哈音樂始於街區派對和源自放克的節拍，在擴展到主流音樂的同時，它始終融入了地下創造力。本文總結了不同時代的主要人物、製作人、品牌、視覺美學和時尚的變化，以及學術參考和唱片目錄。
 
 ---
 
@@ -40,17 +40,17 @@ color: #fff;
 
 ## 1970 年代至 1980 年代：起源和早期創新
 
-* **代表製作人**：Egyptian Lover、早期Dr. Dre（世界級Wreckin’ Cru時期）
-* **主要レーベル**：Priority Records、Ruthless Records（後期）
-* **文化背景**：洛杉磯的街道與幫派社會（Crips、Bloods）有著緊密的聯繫，一種強調現實主義的表達方式由此誕生。
-* **视频/时尚**：主要是低成本MV。 Kangol、阿迪達斯、本土運動鞋是基本款式。
+* **代表製作人**：Egyptian Lover、早期Dr. Dre（世界級Wreckin’ Cru時代）
+* **主要唱片公司**：Priority Records、Ruthless Records（已故）
+* **文化背景**：洛杉磯的街道與黑幫社會（Crips、Bloods）之間有著緊密的聯繫，一種強調現實主義的表達方式由此誕生。
+* **影片/時尚**：主要是低成本MV。 Kangol、阿迪達斯、本土運動鞋是基本款式。
 
 **推薦專輯**
 
 
 |專輯 |藝人 |亞馬遜連結 |推薦點|
 |----------|-------------|-------------|----------------|
-| *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | ギャングスタ・ラップの基礎を築いた重要作 |
+| *韻有酬* (1987) |冰-T | [亞馬遜](https://amzn.to/46NqVaQ) |奠定黑幫說唱基礎的重要作品 |
 | *衝出康普頓* (1988) |西北地區 | [亞馬遜](https://amzn.to/4neTnsc) |一部震撼社會的有爭議的作品。西海岸的標誌|
 | *尼羅河上* (1984) |埃及情人 | [亞馬遜](https://amzn.to/3VsfDCE) |電子與饒舌的傑出融合 |
 
@@ -75,9 +75,9 @@ color: #fff;
 
 ---
 
-## 2000年代：獨立與地下復興
+## 2000年代：インディペンデントとアンダーグラウンドの再興
 
-* **代表製作人**：Madlib、Daz Dillinger、Battlecat
+* **代表的プロデューサー**：Madlib、Daz Dillinger、Battlecat
 * **主要標籤**：Stones Throw、Aftermath
 * **文化背景**：主流 G-Funk 正在衰落，Project Blowed 和 Freestyle Fellowship 等洛杉磯地下樂團正在受到關注。灣區 Hyphy 運動也發生了。
 * **影片/時尚**：滑板、塗鴉、爵士俱樂部般的視覺表現方式不斷增多，Supreme、BAPE等街頭品牌越來越受歡迎。
@@ -92,10 +92,10 @@ color: #fff;
 
 ---
 
-## 2010 年代至今：多元化與全球影響力
+## 2010年代〜現在：多様化と世界的影響力
 
 * **代表製作人**：DJ Mustard、Hit-Boy、Flying Lotus
-* **主要廠牌**：Top Dawg Entertainment (TDE)、Stones Throw
+* **主要レーベル**：Top Dawg Entertainment（TDE）、Stones Throw
 * **文化背景**：隨著Kendrick Lamar等人的出現，「意識」這個表達方式又被復興了。網路和SNS正在加速音樂和時尚的傳播，提高其全球影響力。
 * **影片/時尚**：音樂錄影帶具有電影感並具有強烈的訊息，而時尚是高級品牌和街頭服飾（Gucci、Off-White、Supreme等）的融合。
 
@@ -103,7 +103,7 @@ color: #fff;
 
 |專輯 |藝人 |亞馬遜連結 |推薦點|
 |----------|-------------|-------------|----------------|
-| *good kid, m.A.A.d city* (2012) | Kendrick Lamar | [Amazon](https://amzn.to/4pp320C) | 映画的叙事詩のような構成と物語性 |
+| *好孩子，m.A.A.d 城市* (2012) |肯德里克·拉馬爾 | [亞馬遜](https://amzn.to/4pp320C) |像電影史詩一樣的結構和敘事|
 | *為蝴蝶拉皮條* (2015) |肯德里克·拉馬爾 | [亞馬遜](https://amzn.to/42IAWDN) |爵士/放克與社會批評的融合 |
 
 
@@ -124,7 +124,7 @@ color: #fff;
 
 ## 參考資料/延伸閱讀
 
-* [張信哲《停不下來：嘻哈世代的歷史》](https://amzn.to/4gCxTmv)
+* [張信哲《無法停止不會停止：嘻哈世代的歷史》](https://amzn.to/4gCxTmv)
 * [Eithne Quinn “Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap”](https://amzn.to/4pxcP4X)
 * [謝麗爾凱斯「饒舌音樂與街頭意識」](https://amzn.to/3IuNrMj)
 * 《The Source》《XXL》《OG Magazine》檔案文章（節錄）
@@ -196,6 +196,6 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 [[專欄]東海岸嘻哈概述—從布朗克斯到布魯克林和世界」](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[專欄]東海岸嘻哈歷史—從布朗克斯到布魯克林和世界」](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [[專欄]美國嘻哈歷史：包括地區、俱樂部、媒體和設備的整體圖像](https://monumental-movement.jp/Column-Hiphop-History)

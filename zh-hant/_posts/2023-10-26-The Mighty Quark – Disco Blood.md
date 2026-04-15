@@ -13,7 +13,7 @@ title: 強大的夸克——迪斯可之血
 ---
 
 
-Mighty Quark 是 DK7 的 Mark O'Sullivan 和 Walter Bäcklin 的最小技術單元。
+The Mighty Quarkは、DK7のMark O'SullivanとWalter Bäcklinのミニマルテクノユニット。
 
 A 面「Disco Blood」由瑞典 techno house DJ Jesper Dahlbäck 擔綱演出，「Physical」則由愛爾蘭 DJ Fish Go Deep 混音。
 

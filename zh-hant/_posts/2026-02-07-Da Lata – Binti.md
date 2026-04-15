@@ -15,7 +15,7 @@ title: 達拉塔 – 賓蒂
 
 
 
-Da Lata 是一個英國樂隊，由 Chris Franck 和 Patrick Forge 於 1994 年組成。達拉塔音樂的特點是融合了非裔巴西的影響和他的家鄉倫敦的大熔爐。
+Da Lata 是一個英國樂隊，由 Chris Franck 和 Patrick Forge 於 1994 年組成。達拉塔的音樂的特點是融合了非裔巴西的影響和他的家鄉倫敦的大熔爐。
 
 《Binti》是一首未來爵士樂/拉丁歌曲，由 Palm Pictures 於 2000 年發行，該唱片公司的創始人是 Island Records 的創新者 Chris Blackwell。
 

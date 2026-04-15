@@ -16,7 +16,7 @@ title: 各種 – Overnight Remixes II
 
 80 年代末到 90 年代的 Euro house、techno、newbeat、garage house 合輯。
 
-其中包括硬派科技巨頭 2 Unlimited、比利時 Eurodance 和新節拍樂團 Bizz Nizz，以及英國音樂團體 Soft Cell（領先的新浪潮樂團之一）。
+其中包括硬蕊科技巨頭 2 Unlimited、比利時 Eurodance 和新節拍樂團 Bizz Nizz，以及英國音樂團體 Soft Cell（領先的新浪潮樂團之一）。
 
 #### 曲目表
 ```md

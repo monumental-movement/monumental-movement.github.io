@@ -18,7 +18,7 @@ Lisa Pin-Up (Lisa Chilcott) 是一位英國硬屋 DJ/製作人。她也是 Hard 
 
 Porl Young，又名 Elvira，是一位英國製作人/DJ。 90年代中期，他是英國哥德搖滾樂團Rosetta Stone的成員。
 
-《Sexy》是 Rock Hard Recordings 廠牌於 2000 年發行的 Hard House 曲目。
+《Sexy》是 Rock Hard Recordings 廠牌於 2000 年發行的 Hard House 歌曲。
 
 B 是比利時電子音樂製作人 Fred Baker 的獨奏混音版，名為 Frenchtek/jumpstyle。
 

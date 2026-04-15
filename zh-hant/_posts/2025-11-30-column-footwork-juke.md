@@ -63,7 +63,7 @@ Footwork/Juke的音樂特點如下。
 - **節奏**：非常快，大約 160 BPM。
 - **節奏結構**：複雜的切分音，使用TR-808/909鼓機。
 - **取樣**：高速錄製碎片人聲、嘻哈和R&B樂句。
-- **歌曲結構**：以循環為中心重複短語。它經常使用奇怪的拍號和不規則的停頓。
+- **曲構成**：ループ中心で短いフレーズを繰り返す。変拍子や不規則なブレイクを用いることが多い。  
 - **聲學特徵**：強調低頻低音鼓，小鼓細膩分散。巧妙利用立體空間。
 
 ---
@@ -74,7 +74,7 @@ Footwork/Juke的音樂特點如下。
 
 - **步驟複雜性**：足部動作快速且複雜。
 - **對戰形式**：透過舞蹈對戰，建立了比拼技能的文化。
-- **地域密着性**：シカゴ南部コミュニティのクラブやパーティが中心。  
+- **本地焦點**：專注於南芝加哥社區的俱樂部和派對。
 - **影片文化**：透過YouTube和SNS傳播到世界各地。
 
 <div class="mermaid">
@@ -90,13 +90,13 @@ flowchart LR
 
 Footwork/Juke 場景中存在以下重要人物和標籤。
 
-|藝術家/製作人 |貢獻|
+|藝術家/製作人 |貢獻 |
 |--------------------------|------|
 | DJ 拉沙德 |在國際上傳播步法的核心人物。部署複雜的節奏和創新的取樣技術|
 | DJ 史賓 |與DJ Rashad打造Footwork聲音，對年輕人影響力大 |
 | RP 噓 |早期步法創始人之一，Ghetto House 變身步法 |
 |特拉克斯曼 |為芝加哥 Juke 場景的發展做出了貢獻 |
-|穆星球 |英國廠牌 Footwork 在國際上發布 |
+|穆星球|英國廠牌 Footwork 在國際上發布 |
 
 ---
 
@@ -141,7 +141,7 @@ timeline
 ---
 
 - **DJ Spinn – “完全”**
-創意樣本運用，舞蹈與音樂緊密結合。
+樣本的創意運用以及舞蹈與音樂之間的緊密連結。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

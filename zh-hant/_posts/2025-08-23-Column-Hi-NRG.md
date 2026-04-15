@@ -14,7 +14,7 @@ title: 【專欄】高能與LGBTQ：象徵解放與認同的舞曲
 ---
 
 
-## 解放とアイデンティティを象徴したダンスミュージック
+## 象徵解放和身份的舞曲
 
 
 文：mmr｜主題：與美國同性戀文化和愛滋病危機時代重疊的「解放與團結」象徵音樂
@@ -26,7 +26,7 @@ title: 【專欄】高能與LGBTQ：象徵解放與認同的舞曲
 從 20 世紀 70 年代末到 80 年代，Hi-NRG（高能量）作為源自迪斯科的電子快節奏舞曲而出現。
 該聲音的特點是快節奏（120-140 BPM）、基於合成器的連複段和戲劇性的女聲，並且比傳統迪斯科有一種更宣洩和更有活力的感覺。
 
-Hi-NRG 在同性戀俱樂部中擁有特別強大的追隨者。在 1970 年代石牆騷亂之後，LGBTQ 群體在俱樂部場景中尋求表達和身份的一席之地，Hi-NRG 充當了他們的「解放音樂」。
+Hi-NRG 在同性戀俱樂部中擁有特別強大的追隨者。 1970 年代 70 年代石牆騷亂之後，LGBTQ 群體在俱樂部場景中尋求表達和身份的一席之地，Hi-NRG 充當了他們的「解放音樂」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -68,7 +68,7 @@ Bobby Orlando 的神聖歌曲（例如“You Think You're a Man”）象徵著 H
 
 ---
 
-**哈澤爾·迪恩**
+**Hazell Dean**
 
 一位英國 Hi-NRG 歌手，在俱樂部場景中深受支持，被稱為“同性戀女王”。她的許多歌曲都表達了 LGBTQ 的愛和渴望。
 
@@ -95,7 +95,7 @@ Bobby Orlando 的神聖歌曲（例如“You Think You're a Man”）象徵著 H
 ### Hi-NRG 的遺產和現代影響
 
 Hi-NRG 最終演變成芝加哥 house 和 Eurobeat，並對當今的 EDM 和 Hyperpop 產生了影響。
-特別是在 LGBTQ 群體中，Hi-NRG 經典音樂繼續在 Pride 活動和同性戀俱樂部中播放，提供了一種重溫這種自由感的方式。
+特にLGBTQコミュニティにおいては、今でも Prideイベント やゲイクラブでHi-NRGクラシックがプレイされ続け、当時の解放感を追体験する手段となっています。
 
 當代變裝皇后文化和超流行藝術家（SOPHIE、Kim Petras 等）承載著 Hi-NRG 誇張能量和性別表達的 DNA。
 
@@ -108,7 +108,7 @@ Hi-NRG 最終演變成芝加哥 house 和 Eurobeat，並對當今的 EDM 和 Hyp
 Hi-NRG 不僅僅是「舞曲」；它是一種體現 LGBTQ 群體的歷史、鬥爭和解放的流派。
 強勁的節拍和閃爍的合成器是 20 世紀 80 年代同性戀俱樂部對生命的慶祝，也是逃避社會壓迫的一種手段。
 
-即使在今天，在討論音樂與性之間的關係時，Hi-NRG 仍然被重新評估為必不可少的存在。
+即使在今天，在討論音樂與性之間的關係時，Hi-NRG 仍然被重新評估為一個重要的存在。
 
 ---
 

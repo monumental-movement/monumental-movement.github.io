@@ -14,7 +14,7 @@ title: 推文 – 哎呀（天哪）
 ---
 
 
-Charlene Keys，也被稱為 Tweet，是一位美國 R&B/靈魂樂歌手、詞曲作者、吉他手和演員。
+TweetことCharlene Keysは、アメリカのR&B/ソウルシンガー、ソングライター、ギタリスト、女優。
 
 Elektra 於 2002 年發行的《Oops (Oh My)》是 Tweet 的首張個人單曲。
 

@@ -19,7 +19,7 @@ title: 挑選迴響貝斯作品
 <小時>
 
 ### Benga & Walsh VS Darqwan – 癮君子/大保護
-<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%2000%)>
+<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%200%>
 
 特點：由三個人以不同的方式負責各個方面，使這幅作品兩面都具有吸引力。
 

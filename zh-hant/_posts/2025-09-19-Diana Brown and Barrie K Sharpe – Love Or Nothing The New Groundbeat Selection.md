@@ -11,12 +11,12 @@ tags:
 - Downtempo
 - Funk
 - 90s
-title: 戴安娜·布朗 (Diana Brown) 和巴里·K·夏普 (Barrie K. Sharpe) – Love Or Nothing（The New
-  Groundbeat Selection）
+title: 戴安娜布朗 (Diana Brown) 和巴里夏普 (Barrie K. Sharpe) – Love Or Nothing（The New Groundbeat
+  Selection）
 ---
 
 
-戴安娜·布朗 (Diana Brown) 和巴里·K·夏普 (Barrie K. Sharpe) 是 20 世紀 90 年代初期倫敦的搖滾/酸爵士/稀有節奏二人組。他在 FFRR Records 發行了 5 張單曲和 1 張專輯。
+戴安娜·布朗 (Diana Brown) 和巴里·K·夏普 (Barrie K. Sharpe) 是 20 世紀 90 年代初期倫敦的搖滾樂/酸性爵士樂/稀有節奏二人組。他在 FFRR Records 發行了 5 張單曲和 1 張專輯。
 
 這張唱片是 1991 年發行的《Love Or Nothing》的 New Groundbeat Selection 版本。 B1 是音樂家/製作人 Steve Anderson 的混音版，Steve Anderson 因與 Kylie Minogue 的合作而聞名。
 

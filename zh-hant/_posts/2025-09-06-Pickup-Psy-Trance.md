@@ -21,7 +21,7 @@ title: 挑選 Psy-Trance 作品
 
 ## Psy-Trance 精選作品
 
-Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリックトランス）** のおすすめ盤を解説付きで紹介します。  
+介紹 Monumental-Movement.jp 上列出的推薦 **Psy-Trance** 專輯並附有說明。
 收藏從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
 
 ---
@@ -54,7 +54,7 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ### 太陽。項目 – *Zwork*
 <a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
-- **發布發布日期**：2025-09-05
+- **リリース掲載日**：2025-09-05  
 
 - **評論**：Gore/Psy-Trance 計畫在德國成立。一部回歸根源的作品，聲音讓人想起 90 年代的黃金時代。
 
@@ -96,7 +96,7 @@ F2. Deeper And Deeper
 <a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
-- **評論**：總結墨西哥恍惚場景的彙編。一部可以讓你領略地域特色、風格多元的作品。
+- **評論**：總結墨西哥恍惚場景的彙編。一部可以讓你享受地域特色和多元風格的作品。
 
 #### 曲目表
 ```md
@@ -184,7 +184,7 @@ B2. Whales 'n' Wave (Edit)
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **評論**：來自德國的藝術家。这是一部雄心勃勃的作品，通过巧妙的声音设计展示了现代 Psy-Trance。
+- **評論**：來自德國的藝術家。這是一部雄心勃勃的作品，透過巧妙的聲音設計展示了現代 Psy-Trance。
 
 #### 曲目表
 ```md
@@ -206,7 +206,7 @@ AA. Inner Child
 
 ---
 
-### Various – *Resonance Mood*
+### 各種 – *共鳴情緒*
 <a href="https://monumental-movement.jp/Various-Resonance-Mood/"><img src="../assets/images/Various%20%E2%80%93%20Resonance%20Mood.webp"></a>
 
 - **發布發布日期**：2024-05-13
@@ -243,7 +243,7 @@ F. Sandman – Target Eye
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 
-- **评论**：1995 年由 Flying Rhino Records 发行。代表果阿恍惚黃金時代的經典作品。
+- **評論**：1995 年由 Flying Rhino Records 發行。代表果阿恍惚黃金時代的經典作品。
 
 #### 曲目表
 ```md

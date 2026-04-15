@@ -9,7 +9,7 @@ permalink: /zh-hant/mexico-park-avenue-ep/
 tags:
 - House
 - Tech House
-title: Mexico – Park Avenue EP
+title: 墨西哥 – Park Avenue EP
 ---
 
 

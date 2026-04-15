@@ -10,7 +10,7 @@ tags:
 - New-Wave
 - Rock
 - 80s
-title: Elvis Costello And The Attractions – Let Them All Talk
+title: 埃爾維斯·科斯特洛 (Elvis Costello) 和景點 – 讓他們都來談談
 ---
 
 

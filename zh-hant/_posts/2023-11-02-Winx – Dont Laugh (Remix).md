@@ -15,7 +15,7 @@ title: Winx – 別笑（混音）
 
 B 面是 Richie Hawtin 的混音版。
 
-Richie Hawtin Remix 是真正的經典，以其鼓編程、平移和音量的使用而聞名。
+Richie Hawtin Remix 是真正的經典，以其鼓編程、聲像和音量的使用而聞名。
 
 #### 曲目表
 ```md

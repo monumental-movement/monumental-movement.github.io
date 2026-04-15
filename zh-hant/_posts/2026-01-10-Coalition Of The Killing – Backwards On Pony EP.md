@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Coalition Of The Killing – Backwards On Pony EP
+title: 殺戮聯盟 – Backwards On Pony EP
 ---
 
 

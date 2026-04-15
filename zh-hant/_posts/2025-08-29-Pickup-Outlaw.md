@@ -57,7 +57,7 @@ title: 挑選Outlaw的作品
 
 格式：CD
 
-類型： 混合科技
+類型：混合科技
 
 簡介： 2004年發布，與Tresor合作的作品。一位領先的 techno 製作人的深入介紹。
 
@@ -93,7 +93,7 @@ title: 挑選Outlaw的作品
 
 格式：CD
 
-ジャンル：German Techno / Compilation
+類型： 德國電子音樂 / 合輯
 
 簡介： 發行於 1998 年，這是一張華麗的合輯，俯瞰 80 年代和 90 年代的 techno 場景。
 
@@ -201,7 +201,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 
 
 ### Benga & Walsh vs Darqwan – 癮君子/大保護
-<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%2000%)>
+<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%200%>
 
 格式：黑膠唱片/CD
 

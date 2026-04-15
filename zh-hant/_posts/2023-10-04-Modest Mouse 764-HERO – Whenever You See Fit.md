@@ -9,12 +9,12 @@ permalink: /zh-hant/modest-mouse-764-hero-whenever-you-see-fit/
 tags:
 - Downtempo
 - Indie Rock
-title: 適度的滑鼠 764-HERO – 每當您覺得合適時
+title: Modest Mouse 764-HERO – Whenever You See Fit
 ---
 
 
-「只要你覺得合適」就是
-這是 Modest Mouse/764-HERO 於 1998 年在 Suicide Squeeze 上發行的 EP。
+「Whenever You See Fit」は、
+1998年にSuicide SqueezeからリリースされたModest Mouse / 764-HEROによるEPです。
 
 #### 曲目表
 ```md
@@ -25,7 +25,7 @@ B1. Whenever You See Fit (DJ Dynomite D Mix)
 B2. Whenever You See Fit (Sientific American Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

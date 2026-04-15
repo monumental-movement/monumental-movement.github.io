@@ -14,7 +14,7 @@ title: 另一個自我 – 搖滾歌手
 ---
 
 
-Alter Egoは、1992年にRoman FlügelとJörn Elling Wuttkeが結成したドイツのエレクトロニックミュージックデュオ。
+Alter Ego 是德國電子音樂二人組，由 Roman Flügel 和 Jörn Elling Wuttke 於 1992 年組成。
 
 2004 年發行的《Rocker》風靡全球，由 Felix Da Housecat、2 Many DJs 和 The Chemical Brothers 等 DJ 演奏，這首 Electro House 歌曲成為 2004 年歐洲舞曲之一。
 

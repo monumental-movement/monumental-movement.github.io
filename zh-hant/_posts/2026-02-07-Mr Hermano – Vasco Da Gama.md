@@ -10,7 +10,7 @@ tags:
 - Latin
 - Deep House
 - 90s
-title: 埃爾馬諾先生 – 瓦斯科達伽馬
+title: Mr Hermano – Vasco Da Gama
 ---
 
 

@@ -16,7 +16,7 @@ title: DJ TRAJIC – Porchbums
 
 
 DJ TRAJIC 是 20 世紀 90 年代芝加哥硬屋先鋒。
-＆傳奇。他最出名的是他的热门歌曲“Show Me Your Face”。
+＆傳奇。他最出名的是他的熱門歌曲“Show Me Your Face”。
 
 《Porchbums》是一首 Hard House 歌曲，由 Underground Construction 廠牌於 1996 年發行。
 

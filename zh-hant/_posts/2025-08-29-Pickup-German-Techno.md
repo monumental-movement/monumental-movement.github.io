@@ -58,7 +58,7 @@ title: 挑選德國Techno作品
 
 
 
-亮點：德國DJ/製作人Splank的專案Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面「Souls At Zero（原始專輯版本）」與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的深度和戲劇性。
+亮點：德國DJ/製作人Splank的專案Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面「Souls At Zero（原始專輯版本）」與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的沉重和戲劇性。
 
 
 #### 曲目表
@@ -80,10 +80,10 @@ B. Souls At Zero (Sven Väth Remix)
 
 
 ### Cygnus X – 橘色主題（混音版）
-<a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
+<a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20X%20%E2%80%93%20The%20Orange%(Thewebp.
 
 
-亮點：德國組合Cygnus X充滿活力、振奮人心的trance techno傑作《The Orange Theme》的混音專輯，收錄了Moonman、Bervoets & De Goeij、Mark Van Dale和Enrico等人的多種混音作品，讓您享受捕捉原曲精髓的適合俱樂部的編曲。
+亮點：德國組合 Cygnus X 充滿活力、振奮人心的 trance techno 傑作《The Orange Theme》的混音版。包含 Moonman、Bervoets & De Goeij、Mark Van Dale 和 Enrico 等人的各種混音版，讓您享受捕捉原曲精髓的適合俱樂部的編曲。
 
 
 #### 曲目表
@@ -112,7 +112,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-亮點：托馬斯·舒馬赫 (Thomas Schumacher) 2001 年推出的個人項目“Elektrochemie LK”。這是一首極具吸引力的作品，將紮實的節奏與經典的德國科技美學融為一體。自由奔放、前衛的賽道發展讓人眼睛一亮。
+魅力ポイント：Thomas Schumacher（トーマス・シューマッハ）のソロプロジェクト「Elektrochemie LK」による2001年リリース作品。堅牢なビートとクラシカルなドイツ・テクノの美学が融合された魅力的な一枚。自由奔放かつエッジの効いたトラック展開が光ります。
 
 
 #### 曲目表

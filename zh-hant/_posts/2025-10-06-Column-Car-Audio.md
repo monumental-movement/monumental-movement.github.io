@@ -63,7 +63,7 @@ color: #fff;
 
 ### 日產/英菲尼迪
 
-- **代表車型**：InfinitiQX80（Bose 16揚聲器系統）
+- **代表モデル**：インフィニティQX80（Bose 16スピーカーシステム）  
 - **技術**：為了優化車內音響效果，與 BOSE 合作分析和調整了揚聲器放置和材料反射。
 
 ---
@@ -89,8 +89,8 @@ color: #fff;
 
 ### 梅賽德斯·奔馳
 
-- **代表モデル**：Sクラス（Burmester 3Dサラウンド、最大23スピーカー、1,500W）  
-- **技術**：透過 DSP 進行最佳化，在車內每個位置再現均勻的聲學特性
+- **代表型號**：S級（Burmester 3D環繞，最多23個揚聲器，1,500W）
+- **技術**：車内各位置で均一な音響特性を再現するため、DSPで最適化  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMQnxK2CLgQ?si=--nEKP_C-P9mTh_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ color: #fff;
 ### 寶馬
 
 - **代表型號**：7 系列（Bang & Olufsen 16 個揚聲器，1,400W）
-- **技術**：以駕駛為中心的音場設計，依照車速修正音量
+- **技術**：ドライバー中心の音場設計、車両速度に応じた音量補正  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUaHmJV97BM?si=S8_fw0fSIAqal-jG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -107,14 +107,14 @@ color: #fff;
 
 ### 奧迪
 
-- **代表型號**：A8（Bang & Olufsen 高級音響系統，19 個揚聲器，1,650W）
+- **代表モデル**：A8（Bang & Olufsen Advanced Sound System、19スピーカー、1,650W）  
 - **技術**：利用多通道DSP實現三維聲音再現
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 美國聲音的力量
+## アメリカン・サウンドの迫力
 
 ### 福特/雪佛蘭
 
@@ -143,7 +143,7 @@ color: #fff;
 
 ### 法拉利/蘭博基尼
 
-- **代表モデル**：フェラーリ812スーパーファスト（JBL 12スピーカー、380W）  
+- **代表車型**：法拉利 812 Superfast（JBL 12 揚聲器，380W）
 - **技術**：與引擎聲音產生共鳴的調校
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOsCPEuEcvE?si=N-o9TuGhXnz6dcNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -159,7 +159,7 @@ color: #fff;
 
 ---
 
-### プジョー／ルノー
+### 標緻/雷諾
 
 - **代表車型**：標緻508（Focal 12揚聲器，400W）
 - **技術**：儘管是緊湊型汽車，但最大限度地提高了空間聲學效果
@@ -270,7 +270,7 @@ Tesla 的 DSP 控制連接電訊號和情緒。
 **「跑步時能聽到什麼樣的聲音？」**這是新的經驗值。
 
 汽車音響從未停止發展。
-音響設計はAIが補正し、シートは共振板となり、ドライバーの心拍や気分に合わせて音場が変わる。
+聲學設計經過AI修正，座椅變成共鳴板，根據駕駛者的心跳和心情改變聲場。
 我們最終將得到一個超越國家和品牌的聲音平等的境界。
 跑步時傾聽的行為再次增強了人類的敏感度。
 

@@ -29,7 +29,7 @@ B. Rain Falls On The Lonely = 淋しい雨
 編曲：John Fiddy
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IGVQlBBYdG0?si=5YsPxWJ_FgF9HDTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

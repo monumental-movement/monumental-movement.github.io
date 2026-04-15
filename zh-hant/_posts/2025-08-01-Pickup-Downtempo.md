@@ -20,7 +20,7 @@ title: 挑選慢節奏作品
 ### 適中的滑鼠 / 764‑HERO – 任何您認為合適的時候
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20W7%770.Wweb
 
-一首充滿安靜節奏的呆萌獨立 EP
+静かなリズムが染みるドゥープなインディEP
 
 #### 曲目表
 ```md

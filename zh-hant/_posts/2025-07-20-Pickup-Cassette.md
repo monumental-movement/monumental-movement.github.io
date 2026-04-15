@@ -264,7 +264,7 @@ B. Side B
 ### 各種 - 享受！故事
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%">20Story.webp.
 
-20 世紀 90 年代？經典嘻哈祖魯民族時代早期合輯
+20 世紀 90 年代？经典嘻哈祖鲁民族时代早期合辑
 
 #### 曲目表
 ```md

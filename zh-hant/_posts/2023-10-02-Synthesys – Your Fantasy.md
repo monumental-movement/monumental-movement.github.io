@@ -9,7 +9,7 @@ permalink: /zh-hant/synthesys-your-fantasy/
 tags:
 - Italo
 - Disco
-title: Synthesys – Your Fantasy
+title: Synthesys – 您的幻想
 ---
 
 

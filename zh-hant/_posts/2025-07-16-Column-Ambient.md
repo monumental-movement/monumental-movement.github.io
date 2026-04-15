@@ -61,7 +61,7 @@ title: '[專欄]什麼是氛圍音樂？ 「存在的聲音」而不是聽到的
 
 代表作品：
 
-- [**Discreet Music（1975）**](https://amzn.to/4nafH64)
+- [**謹慎音樂 (1975)**](https://amzn.to/4nafH64)
 
 - [**環境 1：機場音樂 (1978)**](https://amzn.to/48shEpU)
 
@@ -71,7 +71,7 @@ title: '[專欄]什麼是氛圍音樂？ 「存在的聲音」而不是聽到的
 
 [Klaus Schulze](https://amzn.to/4pCnE5H)、[Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：與德國電子產品的融合。
 
-[The Orb](https://amzn.to/4pA2F3v)、[Aphex Twin](https://amzn.to/46GS9Ps)：從技術到 IDM 角度重建環境。
+[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps)：テクノ〜IDMの視点からアンビエントを再構築。
 
 Ambient House/Ambient Techno 的興起。
 
@@ -139,7 +139,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 **● 環境科技**
 
-テクノのリズムにアンビエントの空間処理を融合。
+將技術節奏與環境空間處理融合在一起。
 
 **藝術家**：[The Orb](https://amzn.to/48qQQ9x)、[全球通訊](https://amzn.to/3K8GJMK)、[Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
@@ -167,7 +167,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 ### 氛圍是空間藝術
 
-氛圍音樂不僅是背景音樂，也與以下思想和藝術概念有著深刻的連結。
+アンビエント音楽は単なるBGMではなく、次のような思想・芸術概念とも深く結びついている。
 
 **● 極簡主義與時間藝術**
 
@@ -185,7 +185,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 他利用現場錄音和自然聲音，旨在融合人造和自然。
 
-與現代心理健康/冥想/慢科技密切相關。
+現代のメンタルヘルス／瞑想／スローテックと結びつきが強い。
 
 
 <小時>

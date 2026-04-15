@@ -17,7 +17,7 @@ Kagami 的一首科技迪斯可曲目，由科技廠牌 Frogman Records 於 2001
 
 B 面的第一首曲目是 Ben Tisdall 和 Daz Saund 的樂團 Sound Associates 的混音版。
 
-B 面的第二首歌是德國 DJ 兼製作人 Thomas Schumacher 的混音版。
+B 面的第二首曲目是由德國 DJ 兼製作人 Thomas Schumacher 重新混音的。
 
 #### 曲目表
 ```md

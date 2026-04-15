@@ -9,7 +9,7 @@ permalink: /zh-hant/warlords-of-pez-warlords-of-pez/
 tags:
 - Rock
 - 00s
-title: Warlords Of Pez – Warlords Of Pez
+title: 佩斯軍閥 – 佩斯軍閥
 ---
 
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/staxx-of-joy-featuring-carol-leeming-you/
 tags:
 - House
 - 90s
-title: Staxx Of Joy 主演卡羅爾利明 – 你
+title: Staxx Of Joy Featuring Carol Leeming – You
 ---
 
 
@@ -17,9 +17,9 @@ Staxx Of Joy 是由房屋/車庫製作人西蒙·索恩 (Simon Thorne) 和湯姆
 
 其他名稱包括 staxx、Katch、So Damn Tuff、Tuff Boys 和 Tuff Productions。
 
-《你》是一首由英國歌手 Carol Leeming 演唱的 house 歌曲。 1995年由哥倫比亞發行。
+《You》是一首由英国歌手卡罗尔·利明 (Carol Leeming) 演唱的 house 歌曲。 1995年由哥倫比亞發行。
 
-B 面的第一首歌是 house DJ 兼製作人 Junior Vasquez 的混音版。
+B 面的第一首歌曲是 house DJ 兼製作人 Junior Vasquez 的混音版。
 
 #### 曲目表
 ```md

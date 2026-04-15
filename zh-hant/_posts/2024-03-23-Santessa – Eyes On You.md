@@ -18,7 +18,7 @@ Santessa 的《Eyes On You》於 2000 年由 Disco Volante 廠牌發行。
 
 製作人是 Stuart Matthewman，他是薩德樂隊 (Sade) 的吉他手/薩克斯手，與薩德·阿杜 (Sade Adu)、保羅·S·丹曼 (Paul S. Denman) 和安德魯·黑爾 (Andrew Hale) 合作。
 
-Side A 是英國靈魂/新靈魂/流行二人組 Hil St Soul 的混音版，由歌手 Hilary Mwelwa 和製作人 Victor Redwood-Sawyer 組成。
+A面はシンガーのHilary MwelwaとプロデューサーのVictor Redwood-Sawyerからなるブリティッシュソウル・ネオソウル＆ポップデュオHil St Soulによるremix。
 
 B面的第一首曲目是英國電子音訊4 Hero的Marc Mac（又名Marc Clair）和Dego（又名Dennis McFarlane）的混音版。
 

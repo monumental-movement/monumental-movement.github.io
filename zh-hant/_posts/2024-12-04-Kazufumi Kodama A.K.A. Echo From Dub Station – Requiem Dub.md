@@ -10,7 +10,7 @@ tags:
 - Reggae
 - Dub
 - 90s
-title: Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub
+title: 兒玉和文 A.K.A.來自 Dub Station 的“Echo”——Requiem Dub
 ---
 
 

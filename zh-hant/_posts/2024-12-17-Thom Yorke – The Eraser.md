@@ -12,7 +12,7 @@ tags:
 - Indie Rock
 - Experimental
 - Rock
-title: Thom Yorke – The Eraser
+title: 湯姆約克——橡皮擦
 ---
 
 

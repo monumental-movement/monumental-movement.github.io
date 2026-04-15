@@ -15,7 +15,7 @@ title: 約翰‧巴克托 – 人類 3
 
 約翰·巴托（Johan Svensson）是一位瑞典 Techno 製作人。他經營 Mankind、Zync 和 Countdown 2000 等唱片公司。
 
-「Mankind 3」は、1998年にJohan BactoのレーベルMANKINDからリリースされたTechno。
+《Mankind 3》是 Johan Bacto 的廠牌 MANKIND 於 1998 年發行的一首 Techno 歌曲。
 
 #### 曲目表
 ```md

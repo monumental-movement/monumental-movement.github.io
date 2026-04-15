@@ -15,7 +15,7 @@ title: 戴夫和 DOPE 博士 – 狂野起來
 
 由義大利製作人 Dave Rodgers 和 Dr. D.O.P.E. 製作的 TM NETWORK 的《Get Wild》的超科技編曲組合。
 
-プロデューサーは、Alberto Contini（アルベルト・コンティニ）とDave Rodgers（デイヴロジャース）。
+製片：阿爾貝托康蒂尼和戴夫羅傑斯。
 
 #### 曲目表
 ```md

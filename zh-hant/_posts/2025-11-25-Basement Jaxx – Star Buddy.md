@@ -15,13 +15,13 @@ title: 地下室 Jaxx – 明星/好友
 
 Side A 【remix of Kathy Sledge - Another Star (covering Stevie Wonder - Another Star / Creepin')】
 
-Side B 【re-edit of Buddy Rich - Nuttville (from The Roar Of '74)】
+B 面 [Buddy Rich - Nuttville 的重新編輯（來自 The Roar Of '74）]
 
-Basement Jaxx 於 2000 年發布的非官方 House 混音版。
+Basement Jaxx (ベースメントジャックス)が2000年にリリースした非公式Houseリミックス。
 
-A 是 House 曲目「Another Star」的混音版，是 Kathy Sledge 翻唱 Stevie Wonder 的「Another Star / Creepin'」。
+Aは、Stevie Wonder(スティービーワンダー)の『Another Star / Creepin'』をKathy SledgeがカヴァーしたHouse トラック『Another Star』のremix。
 
-B 是對 Buddy Rich 1974 年發行的專輯“The Roar Of '74”中歌曲“Nuttville”的重新編輯。
+Bは、1974年にリリースされたBuddy Richのアルバム『The Roar Of '74』の収録曲『Nuttville』のリエディット。
 
 #### 曲目表
 ```md

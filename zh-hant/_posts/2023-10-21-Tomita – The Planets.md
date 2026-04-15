@@ -9,7 +9,7 @@ permalink: /zh-hant/tomita-the-planets/
 tags:
 - Ambient
 - Classic
-title: 富田——行星
+title: Tomita – The Planets
 ---
 
 

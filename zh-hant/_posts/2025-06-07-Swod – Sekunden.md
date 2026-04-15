@@ -18,7 +18,7 @@ Swod 是音樂家 Oliver Doerell 和 Stephan Wöhrmann 的錄音專案。
 
 Oliver Doerell 是一位以電子音樂為基礎的多樂器演奏家，也以 Cummi Flu 為藝名。 Stephan Wöhrmann 是一位現代古典鋼琴和鼓演奏家。兩人都是獨唱藝術家，為舞蹈、電影和聲音裝置創作音樂。
 
-《Sekunden》是德國廠牌City Center Offices於2007年發行的一張極簡現代古典實驗專輯。
+《Sekunden》是德國廠牌City Center Offices於2007年發行的極簡現代古典實驗專輯。
 
 #### 曲目表
 ```md
