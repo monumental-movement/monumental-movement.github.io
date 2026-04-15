@@ -25,5 +25,5 @@ A. Sub-Machine
 B. The Unheard
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46434330656?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m46434330656?afid=6142608987){: .button1}
 

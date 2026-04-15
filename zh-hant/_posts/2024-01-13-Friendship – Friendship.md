@@ -14,7 +14,7 @@ title: 友誼－友誼
 ---
 
 
-Abraham Laboriel（エイブラハム・ラボリエル/アブラハム・ロペス・ラボーリエル）, Alex Acuña（アレックス・アクーニャ）, Don Grusin （ドン・グルーシン）, Ernie Watts（アーニー・ワッツ）, Lee Ritenour（リー・リトナー）, Steve Forman（スティーブ・フォーマン）というトップミュージシャンが集結して制作された
+由頂尖音樂家亞伯拉罕·拉博瑞爾、亞歷克斯·阿庫納、唐·格魯辛、厄尼·瓦茨、李·里特諾和史蒂夫·福爾曼製作。
 友誼
 爵士放克專輯。 1979 年上映。
 
@@ -26,13 +26,13 @@ Abraham Laboriel（エイブラハム・ラボリエル/アブラハム・ロペ
 
 10 歲時，他與一個名為“Los Traviesos”的搖滾樂隊進行了第一次錄音。
 
-10代はメキシコでミュージシャンと俳優の両方として活動した後、ボストンに渡りバークリー音楽院に入学。
+青少年時期，他在墨西哥擔任音樂家和演員，然後搬到波士頓並就讀伯克利音樂學院。
 
 1972年獲得作曲學士學位。在校期間，他也與該校教員電顫琴演奏家加里·伯頓（Gary Burton）一起表演。
 
 隨後，他與約翰尼·馬西斯 (Johnny Mathis)、米歇爾·勒格朗 (Michel Legrand) 和亨利·曼奇尼 (Henry Mancini) 等藝術家一起巡演，並於 1976 年搬到洛杉磯，開始了多流派的錄音室錄音生涯。
 
-彼は、数多くのジャズアーティストと共演・レコーディングを行い、その中には、ジョージ・ベンソン、ラリー・カールトン、ザ・クルセイダーズ、エラ・フィッツジェラルド、デイヴ・グルーシン、ハービー・ハンコック、フレディ・ハバード、アル・ジャロウ、ジョン・クレマー、マンハッタン・トランスファー、ジョー・パス、ジョー・サンプル、ラロ・シフリン、ダイアン・シューア、サラ・ヴォーン、ジョー・ザヴィヌルなどが含まれます。
+他曾與許多爵士藝術家合作演出和錄製唱片，包括 George Benson、Larry Carlton、The Crusaders、Ella Fitzgerald、Dave Grusin、Herbie Hancock、Freddie Hubbard、Al Jarreau、John Kremer、Manhattan Transfer、Joe Pass、Joe Sample、Lalo Schifrin、Diane Schur、Sarah Vaughan、Joewinul 等。
 
 他還與 Lee Ritenour、Ernie Watts 和 Alex Acuna 一起與 Friendship 樂團一起錄製唱片，並繼續與 Lee 和 Dave Grusin 一起表演和錄製，並在 GRP Records 上發行了作品。
 

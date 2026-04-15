@@ -13,7 +13,7 @@ title: 特洛伊·皮爾斯 – 25 Bitches Vol.我
 ---
 
 
-Troy Pierce（トロイピアース）は、ベルリンを拠点に活動するアメリカのエレクトロニック・ミュージックDJ・プロデューサー。 
+Troy Pierce 是一位居住在柏林的美國電子音樂 DJ 和製作人。
 
 Troy Pierce 也以 Louderbach 的身份活躍，這是與 Gibby Miller 合作的一個最小的 techno house 項目，並與 Magda 和 Marc Houle 一起經營德國品牌 Items & Things。
 

@@ -26,7 +26,7 @@ title: 各種 – 太空斗篷
 曲目 10 錄製於 1960 年 3 月 23 日 · 選自專輯“Accent On Bamboo”
 曲目 11 錄製於 1959 年 3 月 23 日 · 選自專輯“Les Baxter's Wild Guitars”
 曲目 12 錄製於 1949 年 8 月 4 日 · 選自專輯“Music For Piece Of Mind”
-录制第 13 轨 c． 1959 · 選自專輯“Felix Slatkin Conducts Fantastic Percussion!”
+錄製第 13 軌 c． 1959 · 選自專輯“Felix Slatkin Conducts Fantastic Percussion!”
 錄製第 14 軌 c． 1963 · 收錄於專輯《管風琴壯觀！ 》
 曲目 15 錄製於 1960 年 8 月 10 日 · 選自專輯“Mr. Percussion”
 曲目 16 錄製於 1959 年 5 月 21 日 · 選自專輯“Ping-Pong”

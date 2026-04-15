@@ -11,7 +11,7 @@ tags:
 - Hard House
 - House
 - 00s
-title: Neutron Tom – Funky Shit
+title: 中子湯姆 – 時髦的狗屎
 ---
 
 

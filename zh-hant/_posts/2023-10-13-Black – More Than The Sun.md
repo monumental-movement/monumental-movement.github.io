@@ -9,11 +9,11 @@ permalink: /zh-hant/black-more-than-the-sun/
 tags:
 - Rock
 - New-Wave
-title: 黑色——不僅僅是太陽
+title: 黑色－不只是太陽
 ---
 
 
-Black 是英國歌手兼作曲家 C​​olin Vearncombe 的別名，也是他自己樂團的名字。
+Black 是英國歌手兼作曲家 C​​olin Vearncombe 的別名，也是他的樂團的名稱。
 
 #### 曲目表
 ```md

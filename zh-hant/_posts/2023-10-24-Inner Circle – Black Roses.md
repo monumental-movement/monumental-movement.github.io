@@ -14,7 +14,7 @@ title: 內圈-黑玫瑰
 ---
 
 
-Inner Circle(インナー・サークル)は、The Inner Circle Bandまたは The Bad Boys of Reggae(バッド・ボーイズ・オブ・レゲエ)としても知られ、1968年にキングストンで結成されたジャマイカのレゲエバンド。
+Inner Circle，也被稱為 The Inner Circle Band 或 The Bad Boys of Reggae，是一支於 1968 年在金斯敦成立的牙買加雷鬼樂隊。
 
 這張CD中收錄的《Bad Boys》風靡全球，並以美國電視節目COPS的主題曲而聞名。
 

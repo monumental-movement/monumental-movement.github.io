@@ -10,7 +10,7 @@ tags:
 - House
 - Garage House
 - 90s
-title: Lulu – Independence
+title: 露露——獨立
 ---
 
 

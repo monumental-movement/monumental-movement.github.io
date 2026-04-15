@@ -8,11 +8,11 @@ layout: post
 permalink: /zh-hant/pickup-noise-music/
 tags:
 - Noise
-title: 拾取噪音音樂作品
+title: ノイズミュージック(Noise Music)作品をピックアップ
 ---
 
 
-“超越音樂界限的純粹聲學體驗，Noise Music 作品”
+「音楽の境界を超える、純粋な音響体験、ノイズミュージック(Noise Music)作品群」
 
 <小時>
 
@@ -46,7 +46,7 @@ title: 拾取噪音音樂作品
 ### Zeni Geva – 對痛苦的渴望
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
-- **背景**：1987 年在東京成立。以 KK.Null 和 Tatsuya Yoshida 為代表，他們跨越前衛搖滾/HC/金屬/噪音搖滾。 1993年在芝加哥錄製。
+- **背景**：1987 年在東京成立。以 KK.Null 和 Tatsuya Yoshida 为代表，他们跨越前卫摇滚/HC/金属/噪音摇滚。 1993年在芝加哥錄製。
 - **亮點**：侵略性的聲像範圍從大膽的連複段到即興爆炸。噪音与摇滚交汇的代表。
 
 #### 曲目表
@@ -64,7 +64,7 @@ B4. The Body = ザ ボディー
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -78,7 +78,7 @@ B4. The Body = ザ ボディー
 ### 裸身集會 – 現場演出 1972
 <a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.web</a>
 
-- **背景**：1967年在京都成立。活躍於1960年代至1990年代的傳奇樂隊，對日本國內外的噪音搖滾產生了巨大影響。保持邪教受歡迎程度。
+- **Background**: Formed in Kyoto in 1967. A legendary band that was active from the 1960s to the 1990s and had a great influence on noise rock both in Japan and abroad.保持邪教受歡迎程度。
 - **亮點**：荒涼的持續聲音、咆哮的嗡嗡聲、最小的重複節奏。日本噪音心理的原始體驗直接擊中你。
 
 #### 曲目表
@@ -103,11 +103,11 @@ B4. The Body = ザ ボディー
 
 
 
-### 髮型學 – 令人厭惡的恐懼印象/我一生中最好的髮型 (7")
-<a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webMy%</a>
+### Hair Stylistics – Impression Of Nasty Dread / Best Of Hair-Style In My Life (7")
+<a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
-- **背景**：Masaya Nakahara 的髮型設計。 7 吋型號於 1999 年發布，至今仍引領實驗和噪音環境。
+- **背景**：Masaya Nakahara 的发型设计。 7 吋型號於 1999 年發布，至今仍引領實驗和噪音環境。
 - **亮點**：短版包含剪輯的感覺和噪音過大的瞬間最大風速。非常適合初學者和收藏。
 
 #### 曲目表
@@ -118,7 +118,7 @@ B. Best Of Hair-Style In My Life
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
 
 <br>
 
@@ -128,8 +128,8 @@ B. Best Of Hair-Style In My Life
 ### 塞巴斯蒂安——抽菸致命
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **背景**：Ed Banger 周圍的法國電子旗手。一首為未來電子音樂注入「尖叫噪音」的單曲。
-- **亮點**：「Dolami」的急劇斷裂和飽和。這是在俱樂部形式中享受噪音質感的一個很好的例子。
+- **背景**：Ed Banger周辺のフレンチ・エレクトロ旗手。未来派エレクトロに“叫ぶようなノイズ”を注入したシングル。  
+- **聴きどころ**：「Dolami」の鋭角ブレイクスと飽和。クラブ・フォーマットでノイズの質感を楽しむ好例。
 
 #### 曲目表
 ```md
@@ -152,7 +152,7 @@ B2  Shoot
 
 
 ### 醉意 – 月球上的裸體 / 太空高爾夫
-<a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.webp"></a>
+<a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20%20GolfGolf.Space>
 
 - **背景**：舊金山休息室拼貼二人組。抽象/旅行跳躍/實驗/噪音元素的混合。
 - **值得聆聽的亮點**：Lo-fi 感覺 x Mondo 剪輯。這也是對「耳朵友善的噪音」的愉快介紹。

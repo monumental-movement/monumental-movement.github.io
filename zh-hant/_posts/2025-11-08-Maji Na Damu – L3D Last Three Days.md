@@ -18,7 +18,7 @@ Maji Na Damu 是由 JUN JUN 和 Ta 組成的日本女性 techno/trance 組合。
 
 《L3D (Last Three Days)》於 2000 年在 Out Of Tune 發行，該唱片公司由前 Pizzicato Five 樂團成員高波圭太郎創立。
 
-A 面和 B 面皆由 DJ 19 重新混音，H.Garden (Master Mind) 由 Hiroshi Okawa 和 Eiki Kurosawa 重新混音。
+A面B面ともにRemixは、DJ 19と、小川弘と黒沢永紀によるH.Garden(Master Mind/マスターマインド)。
 
 #### 曲目表
 ```md

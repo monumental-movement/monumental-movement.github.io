@@ -10,7 +10,7 @@ tags:
 - Techno
 - Latin
 - 00s
-title: Andrew McLauchlan – Love Story
+title: 安德魯麥克勞克蘭 – 愛情故事
 ---
 
 

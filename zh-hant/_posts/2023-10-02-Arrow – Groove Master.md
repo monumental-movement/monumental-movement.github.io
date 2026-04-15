@@ -14,7 +14,7 @@ title: 箭頭 – Groove Master
 ---
 
 
-Arrow（アロー）こと、Alphonsus Cassell（アルフォンサス・カッセル）は、モントセラトのカリプソおよびソカの音楽家であり、モントセラト出身のソカの最初のスーパースター。1982年の「ホット・ホット・ホット」が国際的ヒット曲として有名。
+阿方索斯·卡塞爾（Alphonsus Cassell），也被稱為阿羅（Arrow），是一位蒙特塞拉特卡里普索和索卡音樂家，也是蒙特塞拉特第一位索卡巨星。他們 1982 年的歌曲“Hot Hot Hot”成為國際熱門歌曲。
 
 Side A Groove Master（Acid Soca House Dub）是一首在浩室音樂和俱樂部音樂愛好者中流行的歌曲。
 

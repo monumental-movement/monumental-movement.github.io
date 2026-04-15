@@ -9,7 +9,7 @@ permalink: /zh-hant/joel-mull-imagination/
 tags:
 - Techno
 - 00s
-title: 喬爾馬爾——想像力
+title: Joel Mull – Imagination
 ---
 
 

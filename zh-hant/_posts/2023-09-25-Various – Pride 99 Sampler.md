@@ -9,7 +9,7 @@ permalink: /zh-hant/various-pride-99-sampler/
 tags:
 - Sample
 - Rare
-title: Various – Pride '99 Sampler
+title: 各種 – Pride '99 採樣器
 ---
 
 

@@ -14,7 +14,7 @@ title: Lexy / Autotune – 澀谷之戀
 ---
 
 
-ベルリンを拠点に活動するDJ／プロデューサーLexy(Alexander Gerlach)と、ドイツのエレクトロ/テクノ/ハウス プロデューサーデュオAutotuneの共同制作。
+由柏林 DJ/製作人 Lexy (Alexander Gerlach) 和德國電子/電子/浩室製作人二人組 Autotune 共同製作。
 
 《Shibuya Love》是一首 Electro House/Tech House 歌曲，於 2001 年在 Low Spirit Recordings 的子廠牌 Jakuza Records 上發行。
 

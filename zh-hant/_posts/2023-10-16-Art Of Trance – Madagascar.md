@@ -14,7 +14,7 @@ title: 恍惚藝術－馬達加斯加
 
 Side A 是 Matthias Hoffmann 和 Ralf Hildenbeutel 的德國 trance 計畫 Cygnus X 的混音版。
 
-B面１曲目は、オランダの DJ/プロデューサーFerry Corsten（フェリー・コーステン/System F）によるremix。
+B 面的第一首曲目是荷蘭 DJ/製作人 Ferry Corsten (System F) 的混音版。
 
 #### 曲目表
 ```md

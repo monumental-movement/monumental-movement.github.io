@@ -14,7 +14,7 @@ title: Marcin Czubala – 我可以讓你跳舞 EP
 ---
 
 
-Marcin Czubalaは、クラシック音楽の経験をバックグラウンドにもつポーランド出身のミニマルテクノDJ・プロデューサー。2007年からは、ベルリンを拠点とするドイツのテクノ/ハウス レーベルMOBILEEのメンバーとしても活動している。
+Marcin Czubala 是一位來自波蘭的極簡 techno DJ 和製作人，擁有古典音樂背景。自 2007 年以來，他一直是總部位於柏林的德國 techno/house 品牌 MOBILEE 的成員。
 
 《I Can Make You Dance EP》是法國電子廠牌 ANLX 於 2003 年發行的電子曲目。
 

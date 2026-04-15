@@ -8,13 +8,13 @@ layout: post
 permalink: /zh-hant/veronica-sales-keep-love-coming/
 tags:
 - Euro Beat
-title: 維羅妮卡銷售 – 讓愛不斷到來
+title: 維羅妮卡銷售 – 讓愛不斷湧現
 ---
 
 
 Veronica Sales 的《Keep Love Coming》於 1995 年由 Eurobeat 廠牌 A.Beat-C 發行。維羅妮卡·銷售 (Veronica Sales) 的化名還包括亞歷山德拉 (Alexandra)。
 
-プロデューサーは、イタリアのプロデューサーでユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers（デイヴ ロジャース）。
+製作人是戴夫羅傑斯 (Dave Rodgers)，他是一位義大利製作人，也是 Eurobeat 廠牌 A.Beat-C 的共同創辦人。
 
 #### 曲目表
 ```md

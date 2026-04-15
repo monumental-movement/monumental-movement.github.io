@@ -10,7 +10,7 @@ tags:
 - Rock
 - Latin
 - 7inch
-title: The Champs – Tequila
+title: 冠軍 – 龍舌蘭酒
 ---
 
 
@@ -23,7 +23,7 @@ A. The Champs–Tequila
 B. Patsy Cline–Walkin' After Midnight
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38758160167?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m38758160167?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RcA7L9o_ptw?si=FHZazSTyzu6rVEWh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

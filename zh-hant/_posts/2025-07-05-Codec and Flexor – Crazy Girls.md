@@ -15,7 +15,7 @@ title: 編解碼器與屈肌 – 瘋狂女孩
 ---
 
 
-Codec & Flexorは、ドイツを拠点とするDJ、プロデューサー、作曲家、マルチインストゥルメンタリストSven Zalac（Codec）とドイツの作曲家・プロデューサーMathias Freund（Flexor）によるデュオ。
+Codec & Flexor 是一個二人組合，由德國 DJ、製作人、作曲家和多樂器演奏家 Sven Zalac（Codec）和德國作曲家兼製作人 Mathias Freund（Flexor）組成。
 
 House、Tech House 和 Electroclash 曲目於 2001 年由 Christian Morgenstern 創立的廠牌 Forte Records 發行。
 

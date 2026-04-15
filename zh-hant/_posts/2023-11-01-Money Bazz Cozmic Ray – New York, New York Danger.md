@@ -12,7 +12,7 @@ title: Money Bazz Cozmic Ray – 紐約，紐約危險
 ---
 
 
-這是 Money Bazz 和 Cozmic Ray 於 1998 年在「Psycho V Records」廠牌上發行的 EP。
+1998年にレーベル「Psycho V Records」からリリースされたMoney BazzとCozmic RayのEPです。
 
 #### 曲目表
 ```md

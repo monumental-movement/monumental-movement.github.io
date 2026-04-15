@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/charly-lownoise-mental-theo-wonderfull-days/
 tags:
 - Happy Hardcore
-title: Charly Lownoise Mental Theo – 美好的日子
+title: Charly Lownoise Mental Theo – Wonderfull Days
 ---
 
 

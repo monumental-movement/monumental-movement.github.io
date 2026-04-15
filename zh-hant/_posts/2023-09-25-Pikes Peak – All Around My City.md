@@ -9,12 +9,12 @@ permalink: /zh-hant/pikes-peak-all-around-my-city/
 tags:
 - Punk
 - Ska
-title: 派克峰－我的城市周圍
+title: Pike's Peak – All Around My City
 ---
 
 
 「我的城市周圍」是
-1999年にリリースされた広島発のパンクスカバンド「Pike's Peak」のレコードです。
+這是來自廣島的龐克斯卡樂團 Pike's Peak 於 1999 年發行的唱片。
 
 
 #### 曲目表

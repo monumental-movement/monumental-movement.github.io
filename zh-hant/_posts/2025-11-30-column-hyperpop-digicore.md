@@ -134,7 +134,7 @@ flowchart TD
 
 ---
 
-## 4-3. 100 gecs 結構（類型過度擁擠）
+## 4-3. 100 gecs 的構造（ジャンル過密混入）
 
 * 一首歌曲融合了斯卡、金屬、Trap 和 EDM
 * BPM變革，快速發展
@@ -182,21 +182,21 @@ flowchart LR
 * **Ableton Live**（強大的 Hyperpop 音效設計）
 * 在某些情況下也會使用 GarageBand / Logic。
 
-## Hyperpop 製作範例
+## Hyperpop 側面製作範例
 
 
 - 1.利用Auto-Tune對頂線進行強力改造
 - 2. 使用 FM + Wavetable 建立合成器
-- 3. グリッチ加工（Stutter / Granular）
+- 3.毛邊處理（Stutter/Granular）
 - 4. 過度失真和 OTT 導致斷線
 
 
-## Digicore 側面生產範例
+## Digicore 側の制作例
 
 
 - 1. DI吉他→飽和度
 - 2. 輕鼓（Trap 基調）
-- 3.自動調諧+加倍器
+- 3. Auto-Tune + Doubler
 - 4.增加哭泣的頂線
 
 ---
@@ -205,17 +205,17 @@ flowchart LR
 
 ## 軟體
 
-* 自動調諧/音調校正
-* Little AlterBoy（共振峰）
+* Auto-Tune / Pitch Correction
+* Little AlterBoy（formant）
 * 奧特
-* Serum/Vital（輕量且免費至低價）
-* FabFilter Pro-Q / Pro-L（基本處理）
+* Serum / Vital（軽量で無料〜低価格）
+* FabFilter Pro-Q / Pro-L（基本処理）
 
 ## 硬體
 
 * 低成本DI BOX（吉他錄音）
-* 音訊介面（Scarlett 2i2等）
-* 電容式麥克風（AT2020等熱門型號）
+* オーディオインターフェイス（Scarlett 2i2 など）
+* コンデンサマイク（AT2020 等の普及モデル）
 
 ---
 
@@ -228,20 +228,20 @@ flowchart LR
 * 經常使用的飽和度
 * 強限制器
 
-## 數位芯
+## Digicore
 
 * 輕微提升吉他頻段 2-4kHz
-* ボーカルは中心的に配置（広げすぎない）
+* 將人聲放在中間（不要分散太多）
 * 808底座適中
 
 ---
 
 # 9.視覺和文化特徵
 
-* 基於 Discord 伺服器的協作文化
-* TikTok 的病毒結構
-* 阿凡達/數位化身
-* 與動漫、遊戲文化的融合
+* Discord サーバーを基盤とする共同制作文化
+* TikTok 発のバイラル構造
+* アバター／デジタル身体性
+* アニメ・ゲーム文化との融合
 
 <div class="mermaid">
 graph TD
@@ -255,7 +255,7 @@ graph TD
 
 # 10. 總結
 
-Hyperpop 和 Digicore 是隨著音樂製作工具的民主化和網路文化的成熟而誕生的趨勢。製作的便利性、混音文化、社群媒體傳播以及年輕創作者的實驗精神結合在一起，瓦解了傳統的流派結構，呈現出一種新的流行形式。
+Hyperpop と Digicore は、音楽制作ツールの民主化とインターネット文化の成熟を背景に生まれた潮流である。制作の簡易さ、リミックス文化、SNS 拡散、若年クリエイターの実験精神が結びつき、従来のジャンル構造を解体しながら新たなポップの形を提示した。
 
 未來，由於AI人聲、生成聲源、即時協作等方面的進步，它很可能會進一步細分和擴展。
 

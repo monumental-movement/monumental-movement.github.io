@@ -15,7 +15,7 @@ title: 邏輯系統——邏輯
 
 這張專輯包括“Clash”，它也被用在 DJ Harvey 的混音“Sarcastic Study Masters”中。
 
-使用設備：Emu Synthesizer、Moog IIIC、Prophet 5、ARP Odyssey、Oberheim 8 Voices、Yamaha SS-30、Yamaha CS-10、Polymoog、Yamaha CP-80、Hohner Clavinet D-6、EMS VCS-3、Pollard Synrum、Roland Jupiter 83、80836,383-383-383-380-380-380-380-380-383-38-380363、80038、Roland-80-383-38038、3083-383、380-380-380-303-380363、8038。
+使用設備：Emu Synthesizer、Moog IIIC、Prophet 5、ARP Odyssey、Oberheim 8 Voices、Yamaha SS-30、Yamaha CS-10、Polymoog、Yamaha CP-80、Hohner Clavinet D-6、EMS VCS-3、Pollard Synrum、Roland Jupid-83,808、Roland MC38,338
 
 松武秀樹 1981 年的原始版本。
 

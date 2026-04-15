@@ -15,7 +15,7 @@ title: 型號 500 – 流動
 ---
 
 
-Model 500は、Juan Atkins(ホアン・アトキンス)の別名義。
+Model 500 是胡安·阿特金斯 (Juan Atkins) 的另一個名字。
 
 《THE FLOW》是一首經過各種混音的歌曲。胡安·阿特金斯 (Juan Atkins) 的“G-Funk Mix”散發出純粹的 R&B 氛圍。
 
@@ -32,7 +32,7 @@ T1. The Flow M26 (Underworld MK. 2 Mix)
 T2. The Flow M38 (Alex Reece Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

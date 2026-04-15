@@ -55,7 +55,7 @@ color: #fff;
 
 ## 二. Cloud Rap的組成（2009-2012）
 
-### ●Lil B與Based World文化區
+### ●Lil B及Based World文化區
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYfceJhgvRM?si=Ok7zKwZ_Q9mI5Vp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

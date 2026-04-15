@@ -14,7 +14,7 @@ title: 愛斯基摩人和埃及－從恩典墮落
 ---
 
 
-Eskimos & Egypt(エスキモーズ&エジプト)は、イギリスのマンチェスターを拠点し、1980年代後半〜1990年代半ばにかけて活躍したクロスオーバーバンド。
+Eskimos & Egypt 是一支總部位於英國曼徹斯特的跨界樂隊，活躍於 20 世紀 80 年代末至 90 年代中期。
 
 《Fall From Grace》是 Eskimos & Egypt 的傑作，於 1993 年在 1990 年代初的英國 house/techno 廠牌 Deutsch Englische Freundschaft 上發行。
 

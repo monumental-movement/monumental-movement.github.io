@@ -14,7 +14,7 @@ title: 東加 – 歡迎來到森巴敦
 ---
 
 
-TONGA 是 DJ Corradino、Gianluca Lul 和 Mauro Gazzotti 的項目，是經典森巴舞經典《Welcome To Sambatown》的拉丁浩室重製版。 EMMA等眾多DJ演奏的傑作。
+TONGA 是 DJ Corradino、Gianluca Lul 和 Mauro Gazzotti 的一個項目，是經典森巴舞經典《Welcome To Sambatown》的拉丁浩室重製版。 EMMA等眾多DJ演奏的傑作。
 
 #### 曲目表
 ```md

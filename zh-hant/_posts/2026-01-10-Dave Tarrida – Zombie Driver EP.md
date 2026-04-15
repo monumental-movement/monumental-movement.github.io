@@ -16,7 +16,7 @@ title: 戴夫塔里達 (Dave Tarrida) – 殭屍駕駛 EP
 
 戴夫塔里達 (Dave Tarrida) 是一位來自蘇格蘭的製片人。他與史蒂夫格倫克羅斯一起經營 Sativae Recordings。
 
-《Zombie Driver EP》是英國 techno DJ/製作人 Justin Berkovi 創立的唱片公司 Predicaments 於 1999 年發行的一首 techno/實驗曲目。
+「Zombie Driver EP」は、イギリスのテクノDJ／プロデューサーJustin Berkoviが設立したレーベルPredicamentsから1999年にリリースされたTechno／Experimentalトラック。
 
 #### 曲目表
 ```md

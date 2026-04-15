@@ -11,7 +11,7 @@ tags:
 - Ambient
 - House
 - Italo
-title: 【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る
+title: 【專欄】宇宙之聲與 Daniele Baldelli－空間與速度之間的舞動
 ---
 
 
@@ -76,9 +76,9 @@ Daniele Baldelli 真正的創新在於將速度（節奏）視為一種音樂元
 他說話了。
 
 > 「混合音樂流派很容易。
->  However, ``cosmizing'' them at one speed is a matter of sensibility, not technology. ”
+>  然而，以一種速度「宇宙化」它們是一個感性問題，而不是技術問題。 」
 
-他的混音範圍從 110 BPM 放克到 85 BPM 非洲打擊樂，以減慢合成環境的速度。
+他的混音範圍從 110 BPM 放克到 85 BPM 非洲打擊樂再到慢速合成環境。
 **轉移順利**。你甚至感覺不到歌曲之間的界線。
 整個晚上，感覺就像一艘太空船正在下降並脫離軌道。
 
@@ -87,9 +87,9 @@ Daniele Baldelli 真正的創新在於將速度（節奏）視為一種音樂元
 ## 4. 聲音的材料研究 - Cosmic 中聲源的重新定位
 
 巴爾代利是將歌曲視為「素材」的 DJ 先驅。
-有一種在轉盤上再次「創作」錄製的聲音的強烈感覺。
+我有一種強烈的感覺，要在轉盤上再次「創作」錄製的聲音。
 
-|所使用的來源 |具體例子|
+|使用的來源 |具體例子|
 |:--|:--|
 |發電廠| Kraftwerk、Can、Ash Ra Tempel |
 |義大利電子音樂|克勞迪奧·吉齊 (Claudio Gizzi)、圖利奧·德·皮斯科波 (Tullio De Piscopo)
@@ -104,7 +104,7 @@ Daniele Baldelli 真正的創新在於將速度（節奏）視為一種音樂元
 ## 5. 宇宙俱樂部內部結構－聲場建築
 
 ### 地方：
-北イタリア、ガルダ湖畔の「**Discoteca Cosmic**」（1979–1984）
+義大利北部加爾達湖畔的「**Discoteca Cosmic**」（1979-1984）
 
 ### 特徵：
 - 天花板較低，迴聲獨特。
@@ -123,7 +123,7 @@ Daniele Baldelli 真正的創新在於將速度（節奏）視為一種音樂元
 他使用的設備具有獨特的特點，使他有別於其他迪斯可 DJ。
 
 - Technics SL-1200（2 台）+ Revox 磁帶座
-- Roland Space Echo RE-201  
+- 羅蘭太空迴聲 RE-201
 - Eko 多音均衡器
 - 附捲對卷膠帶的樣品環
 
@@ -186,7 +186,7 @@ flowchart TD
 
 ## 10.結論：以宇宙的速度跳舞
 
-Cosmic Soundは、ディスコの歴史の中で**最も定義不可能な領域**だ。
+Cosmic Sound 是迪斯可歷史上最難定義的領域。
 在那裡，流派、國家、速度和文化融合在一起，並出現了**「聲音哲學」**。
 丹尼爾·巴爾德里 (Daniele Baldelli) 將這一哲學描述為「向空間的轉化」。
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/charly-lownoise-and-mental-theo-together-in-wonderland/
 tags:
 - Techno
 - Happy Hardcore
-title: Charly Lownoise 與 Mental Theo –Together In Wonderland
+title: Charly Lownoise 和 Mental Theo –Together In Wonderland
 ---
 
 

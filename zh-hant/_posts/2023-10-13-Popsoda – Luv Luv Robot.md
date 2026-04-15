@@ -9,7 +9,7 @@ permalink: /zh-hant/popsoda-luv-luv-robot/
 tags:
 - Electro
 - Synth-Pop
-title: Popsoda – Luv Luv 機器人
+title: Popsoda – Luv Luv Robot
 ---
 
 

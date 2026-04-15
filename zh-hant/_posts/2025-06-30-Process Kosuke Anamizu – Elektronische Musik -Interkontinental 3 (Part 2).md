@@ -20,7 +20,7 @@ Steve Barnes，也被稱為 Process，是一位來自英國的 DJ。
 
 Kosuke Anamizu 是一位來自日本的電子音樂聲音設計師和作曲家。
 
-このレコードは2004年にドイツの名門レーベルTraum Schallplatten(トラウム・シャルプラッテン)からリリースされたコンピレーション。
+這張唱片是著名的德國唱片公司 Traum Schallplatten 於 2004 年發行的合輯。
 
 #### 曲目表
 ```md

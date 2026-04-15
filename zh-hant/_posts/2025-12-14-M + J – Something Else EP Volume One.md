@@ -10,7 +10,7 @@ tags:
 - House
 - Future Jazz
 - 90s
-title: M + J – Something Else EP 第一卷
+title: M + J – Something Else EP Volume One
 ---
 
 

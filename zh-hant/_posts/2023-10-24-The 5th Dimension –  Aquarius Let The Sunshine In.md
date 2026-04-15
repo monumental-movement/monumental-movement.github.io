@@ -10,7 +10,7 @@ tags:
 - Soul
 - Psychedelic
 - 7inch
-title: The 5th Dimension –  Aquarius Let The Sunshine In
+title: 第五次元——水瓶座讓陽光照進來
 ---
 
 

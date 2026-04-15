@@ -10,13 +10,13 @@ tags:
 - Soul
 - Disco
 - 7inch
-title: Johnnie Taylor – Disco Lady
+title: 強尼泰勒 – 迪斯可女士
 ---
 
 
 《迪斯科女士》是約翰尼泰勒最熱門的歌曲。製片人是唐戴維斯。
 
-この曲には、 Parliament-Funkadelic（パーラメント・ファンカデリック）のベーシストBootsy Collins（ブーツィ・コリンズ）、キーボード奏者のBernie Worrel（バーニー・ウォレル）、ギタリストのGlenn Goins（グレン・ゴーインズ）、ドラマーの Tiki Fulwood（ティキ・フルウッド）がゲスト参加している。
+這首歌的嘉賓包括Parliament-Funkadelic 貝斯手 Bootsy Collins、鍵盤手 Bernie Worrel、吉他手 Glenn Goins 和鼓手 Tiki Fulwood。
 
 #### 曲目表
 ```md
@@ -25,7 +25,7 @@ A. Disco Lady
 B. You're The Best In The World
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m59655834321?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59655834321?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-1kwZLw9dg?si=GzMROTTK2GDl15qL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: 【專欄】灣區噪音/實驗音樂場景－50年的破壞與共鳴
 
 ## 灣區發生了什麼事？
 
-文字：mmr |主題：機器、拼貼和即興創作的交集——灣區孕育的噪音/實驗音樂的歷史和推薦唱片
+文：mmr｜主題：機器、拼貼與即興的交會－灣區噪音/實驗音樂的歷史與推薦唱片
 
 
 
@@ -75,7 +75,7 @@ SRL 以其破壞性機械性能而聞名，由 Marc Poulin 於 1978 年創立。
 
 #### Matmos 和局部推導
 
-Matmos は1990年代にサンフランシスコで結成され、サンプリングを用いたコンセプチュアルな作品で国際的に評価されました。2000年代以降も実験音楽の“コンセプチュアル側”を牽引し、アート機関や現代音楽系フェスとの接続を強めています。
+Matmos 於 20 世紀 90 年代在舊金山成立，因其使用採樣的概念性工作而獲得國際讚譽。自2000年代以來，它持續引領實驗音樂的“觀念面”，加強與藝術機構和當代音樂節的聯繫。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -110,14 +110,14 @@ Matmos は1990年代にサンフランシスコで結成され、サンプリン
 | Negativland — *遠離噪音* | 1987 |磁帶拼貼和短歌的混合，傑作| [亞馬遜](https://amzn.to/47akMEX) |
 | Matmos — *一次切割的機會就是一次治癒的機會* | 2001 |使用醫療聲音的概念作品| [亞馬遜](https://amzn.to/48IJtKN) |
 |馬特莫斯 — *內戰* | 2003 |概念的延續和抽樣實驗| [亞馬遜](https://amzn.to/4gKSuoA) |
-|灣區彙編（區域版）| 2010 年代 |以本地分佈為主。推薦從 Bandcamp 或當地品牌購買 | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
-| Bill Orcutt — *跳上它* | 2023 |實驗聲學。灣區吉他作品的代表範例 |[Amazon](https://amzn.to/4o2jF0Q) |
+|灣區彙編（地區版）| 2010 年代 |以本地分佈為主。推薦從 Bandcamp 或當地品牌購買 | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
+|比爾·奧卡特 — *跳上它* | 2023 |實驗聲學。灣區吉他作品的代表範例 |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 
 ---
 
-### 總結（現在/未來）
+### まとめ（今／未来）
 
 灣區的噪音/實驗音樂不斷更新，不僅是一種「破壞」行為，也是一種「重新編輯和批評」行為。 SRL 的機械劇場、Negativland 的媒體批評、Matmos 的聲音研究——都提出了超越音樂的實踐。目前，數位發行和在地 DIY 的結合正在取得進展，Bandcamp 和當地音樂節正在支持年輕藝術家。聆聽和參與場景是理解這個場景的最佳方式。
 

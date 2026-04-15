@@ -13,7 +13,7 @@ title: 弗朗西斯科壯舉。亞當伯克 – Esplanade 97
 ---
 
 
-ネオエレクトロとIDMサウンドを専門とするイタリアのレーベルNature Recordsより2004年にリリースされた「Esplanade 97」は、イタリアのDJ/プロデューサーFrancisco(Francesco de Bellis)と Adam Bourke（アダムバーク）によるテクノ・エレクトロトラック。
+《Esplanade 97》由專門從事新電子音樂和 IDM 聲音的意大利唱片公司 Nature Records 於 2004 年發行，是一首由義大利 DJ/製作人 Francisco (Francesco de Bellis) 和 Adam Bourke 創作的科技電子歌曲。
 
 #### 曲目表
 ```md

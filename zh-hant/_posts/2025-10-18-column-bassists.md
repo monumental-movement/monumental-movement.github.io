@@ -11,7 +11,7 @@ tags:
 - Rock
 - Citypop
 - Fusion
-title: 【コラム】 低音の惑星：世界と日本のベーシスト文化史──地表の下で鳴る音
+title: 【專欄】貝斯星球：世界及日本貝斯手的文化史－地表下的聲音
 ---
 
 
@@ -21,7 +21,7 @@ title: 【コラム】 低音の惑星：世界と日本のベーシスト文化
 文：mmr｜主題：滲透世界的「貝斯哲學」與日本貝斯手文化
 
 我們常常被旋律吸引。
-だが、音楽を「感じる」瞬間は、いつも身体の奥で鳴っている低音にある。  
+然而，我們「感受到」音樂的時刻總是在我們身體深處產生共鳴的低音。
 當俱樂部裡的低音炮震動空氣時，或者當現場演奏室裡的敲擊聲擊中你的胸口時，
 其中心是一個看不見的重力，稱為“底座”。
 
@@ -55,7 +55,7 @@ color: #fff;
 
 ## 二.世界的地殼變化：低音驅動的 20 世紀音樂史
 
-### 1. ジャズの反骨から始まる
+### 1.從爵士樂的反叛開始。
 
 聆聽 Charles Mingus 演奏
 這聽起來不僅僅是低音線，它聽起來像是對社會的聲明。
@@ -98,7 +98,7 @@ Sid Vicious（性手槍樂團）拒絕詭計，用他的存在發出叛逆的聲
 
 ---
 
-### 3. Funk與實驗：貝斯脫穎而出的時代
+### 3. Funk與實驗：貝斯走在前面的時代
 
 當拉里·格雷厄姆的巴掌演奏風格誕生的那一刻，
 貝斯本身就成了節奏。
@@ -127,13 +127,13 @@ Bootsy Collins 的宇宙放克，
 
 山下達郎樂隊的伊藤博典、後藤繼俊、岡澤晃──
 他們創造了一種連接流行歌曲和 AOR 之間世界的聲音。
-ベースは裏方ではなく、音楽の「品格」を支える要素となった。
+低音吉他不再扮演幕後角色，而是成為支撐音樂「尊嚴」的元素。
 
 ---
 
 ### 2. 地下運動：噪音、後搖滾、俱樂部文化
 
-90年代以降、日本のアンダーグラウンドは低音で繋がりはじめる。  
+1990年代後，日本地下音樂開始與貝斯音樂連結。
 NUMBER GIRL 的中尾健太郎陷入了扭曲和憤怒的狀態，
 ZAZEN BOYS 的 Ichiro Yoshida 將奇怪的拍號提升為「構建智慧」。
 
@@ -146,7 +146,7 @@ ROVO和Shibusa Shirazu的貝斯手，
 ---
 
 downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
-そこには、叫びではなく“呼吸する静けさ”がある。
+沒有尖叫聲，只有「呼吸靜止」。
 
 ---
 
@@ -154,7 +154,7 @@ downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
 
 2000年代，貝斯再次改變了面貌。
 大澤伸一將「人類貝斯」帶入俱樂部曲目，
-STUTS 和 yahyel 將打字和現場音樂結合在一起。
+STUTS 和 yahyel 將打字和現場音樂結合。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -193,7 +193,7 @@ Fender Precision、爵士貝斯、Rickenbacker。
 每種形狀都顯示音樂思想本身的差異。
 
 合成貝斯的發展也使貝斯聲音大眾化。
-Moog、Roland、Novation──機械が感情を持つようになり、  
+穆格、羅蘭、Novation——機器有感情，
 基線從“程序”變為“個性”。
 
 在哈科之後，無憂無慮變成了沉默的詩人。

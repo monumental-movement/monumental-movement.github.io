@@ -13,9 +13,9 @@ title: 各種 – 奢華 II E.P
 ---
 
 
-「Adrenalin」と「I Think I Want Some More」は、1992年からの楽曲で、タイムレスなトラックです。
+「Adrenalin」和「I Think I Want Some More」是 1992 年的歌曲，是永恆的曲目。
 
-このEPのトラックはBasement PhilのHistory of Rave番組でも取り上げられていました。
+這張 EP 中的曲目也出現在 Basement Phil 的 History of Rave 節目中。
 
 #### 曲目表
 ```md
@@ -28,7 +28,7 @@ B1. The Coma Kid–1000 Feet
 B2. Ray Vee–R.V. Theme
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30325030920?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m30325030920?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rKr7m4PPcRw?si=XORIla2XgPodMSOq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

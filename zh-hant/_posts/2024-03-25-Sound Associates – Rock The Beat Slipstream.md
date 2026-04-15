@@ -9,7 +9,7 @@ permalink: /zh-hant/sound-associates-rock-the-beat-slipstream/
 tags:
 - Techno
 - 90s
-title: Sound Associates – 搖滾節拍滑流
+title: Sound Associates – 搖滾 The Beat Slipstream
 ---
 
 

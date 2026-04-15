@@ -13,8 +13,8 @@ title: 各種 – 超級巨星
 ---
 
 
-「各種-超級巨星」是
-這是牙買加廠牌「Rookie Production」發行的一張合輯。
+「Various – Superstar」は、
+ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 
 #### 曲目表
 ```md

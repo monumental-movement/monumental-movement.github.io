@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Le' Bopre – Stereo Jack
+title: Le' Bopre – 立體聲傑克
 ---
 
 
@@ -24,6 +24,6 @@ title: Le' Bopre – Stereo Jack
 A. Stereo Jack
 ```
 
-※單面
+*單面
 
 [在 Mercari 購買](https://jp.mercari.com/item/m32057039971?afid=6142608987){: .button1}

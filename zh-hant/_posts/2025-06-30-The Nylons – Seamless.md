@@ -14,7 +14,7 @@ title: 尼龍－無縫
 ---
 
 
-The Nylonsは、1978年〜2017年まで活動したカナダのアカペラグループ。The Turtles「Happy Together」、Steam「Na Na Hey Hey Kiss Him Goodbye」、The Tokens「The Lion Sleeps Tonight」などのPopsのカヴァーでよく知られている。
+The Nylons 是一支加拿大無伴奏合唱團，活躍於 1978 年至 2017 年。他最出名的作品包括 The Turtles 的《Happy Together》、Steam 的《Na Na Hey Hey Kiss Him Goodbye》和 The Tokens 的《The Lion Sleeps Tonight》。
 
 《Seamless》是Open Air Records於1986年發行的一張專輯。
 

@@ -14,7 +14,7 @@ title: 各種 – Blast From the Past EP
 ---
 
 
-B面は、カナダのテックハウス/ディープハウスのDJ兼プロデューサーJay Tripwire(ジェイ・トリップワイヤー)が、Herbie Hancock(ハービー・ハンコック)「Rockitt」をBootleg remix。
+B 面是加拿大 tech house/deep house DJ 兼製作人 Jay Tripwire 為 Herbie Hancock 的《Rockitt》進行盜版混音。
 
 #### 曲目表
 ```md

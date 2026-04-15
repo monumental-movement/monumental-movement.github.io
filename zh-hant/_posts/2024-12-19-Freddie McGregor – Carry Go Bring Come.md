@@ -15,9 +15,9 @@ title: 弗雷迪麥格雷戈 – Carry Go Bring Come
 
 弗雷迪·麥格雷戈是一位來自牙買加的雷鬼音樂家。 1963 年，他開始為 Studio One 廠牌錄製唱片時年僅七歲。 1975 年，他皈依了拉斯特法裡教。
 
-1980年初頭にリリースした「Bobby Babylon」で一躍有名になり、「Big Ship」「Push Comes to Shove」「Just Don't Want to Be Lonely」など数多くのヒット曲を生み出した。
+他在 20 世紀 80 年代初因發行《Bobby Babylon》而一舉成名，並創作了許多熱門歌曲，包括《Big Ship》、《Push Comes to Shove》和《Just Don't Want to Be Lonely》。
 
-「Carry Go Bring Come」は、プロデューサーにAugustus "Gussie" Clarke (オーガスタスガッシークラーク)を迎え、1994年にリリースされたレゲエアルバム。14曲目は日本盤のみのボーナストラック。
+《Carry Go Bring Come》是一張雷鬼專輯，由製作人奧古斯都·「Gussie」·克拉克於 1994 年發行。第 14 首曲目是僅在日文版提供的附贈曲目。
 
 #### 曲目表
 ```md

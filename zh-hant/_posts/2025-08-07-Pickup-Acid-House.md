@@ -10,7 +10,7 @@ tags:
 - Acid
 - Acid House
 - 90s
-title: アシッドハウス作品をピックアップ
+title: 拿起酸屋工作
 ---
 
 
@@ -43,7 +43,7 @@ B.  That Acid Track (Dub Version)
 ### 各種 – 城市酸
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-1988 年正品。捕捉迷幻屋燃點的重要收藏。強大的芝加哥影響力。
+1988 年正品。捕捉迷幻屋燃點的重要合輯。強大的芝加哥影響力。
 
 #### 曲目表
 ```md
@@ -92,7 +92,7 @@ B2. Everyday Balloon
 ### 轟炸低音 – 說一點祈禱
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20The%20Bass%20%E2%80%93%20Say%20A%
 
-Acid x dub x pop. 1988 年的藝術作品超越了流派界限。
+酸 x 配音 x 流行。 1988 年的藝術作品超越了流派界限。
 
 #### 曲目表
 ```md

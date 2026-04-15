@@ -17,7 +17,7 @@ Stock、Hausen & Walkman（Andrew Sharpley 和 Matt Wand）是一支活躍於 19
 
 《器官移植》第2卷是繼《器官移植》（1996）之後的第二次發行，《器官移植》被高度評價為20世紀90年代實驗電子音樂/後現代採樣文化的象徵。
 
-Matt WandのレーベルHot Airから2000年にリリースされた。
+該歌曲於 2000 年由 Matt Wand 的 Hot Air 廠牌發行。
 
 #### 曲目表
 ```md

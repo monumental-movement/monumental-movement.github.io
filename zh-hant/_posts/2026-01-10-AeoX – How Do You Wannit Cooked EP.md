@@ -10,7 +10,7 @@ tags:
 - Techno
 - Experimental
 - 00s
-title: AeoX – How Do You Wannit Cooked EP
+title: AeoX – 你想要怎麼煮熟 EP
 ---
 
 

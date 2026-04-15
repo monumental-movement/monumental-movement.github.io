@@ -16,7 +16,7 @@ title: 何奧利佛 – Sentience
 
 Oliver Ho 是一位駐倫敦的 techno DJ 和製作人。
 
-《Sentience》是 Oliver Ho 的杰作，于 1999 年在 James Ruskin 和 Richard Polson 创立的 Blueprint 唱片公司发行。何錕的首張專輯也以同一廠牌發行。
+「Sentience」は、James RuskinとRichard Polson によって設立されたレーベルBlueprintから1999年にリリースされたOliver Hoの代表作。Oliver Hoのデビューアルバムも同レーベルからリリースされた。
 
 
 #### 曲目表

@@ -9,7 +9,7 @@ permalink: /zh-hant/cristian-vogel-whipaspank/
 tags:
 - Techno
 - UK Techno
-title: Cristian Vogel – Whipaspank
+title: 克里斯蒂安沃格爾 – Whipaspank
 ---
 
 

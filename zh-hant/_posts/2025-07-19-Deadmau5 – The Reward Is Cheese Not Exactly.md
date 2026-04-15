@@ -17,7 +17,7 @@ title: Deadmau5 – 獎勵不完全是奶酪
 
 Joel Thomas Zimmerman，也被稱為 Deadmau5，是一位加拿大 DJ 和製作人。他以Deadmau5為名的作品的特點是融合了Progressive House和Electro House的風格。迄今為止，他已獲得六項葛萊美獎提名。
 
-「The Reward Is Cheese / Not Exactly」は、2008年にフレンチハウスレーベルRoyal Flush Recordsからリリースされたテックハウス・エレクトロ・プログレッシブハウストラック。
+《The Reward Is Cheese / Not Exactly》是一首科技浩室電子前衛浩室曲目，於 2008 年由法國浩室廠牌 Royal Flush Records 發行。
 
 A 是與加拿大 DJ 和製作人 Jelo 共同製作的作品。
 

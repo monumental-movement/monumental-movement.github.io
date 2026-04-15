@@ -9,7 +9,7 @@ permalink: /zh-hant/sandy-warez-tribal-tricks-vol-1/
 tags:
 - Techno
 - 00s
-title: 桑迪·瓦雷兹 (Sandy Warez) – 部落技巧卷。 1
+title: 桑迪·瓦雷茲 (Sandy Warez) – 部落技巧卷。 1
 ---
 
 

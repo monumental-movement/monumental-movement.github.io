@@ -15,7 +15,7 @@ title: Engenheiros Do Hawaii – Surfando Karmas 與 DNA
 ---
 
 
-Engenheiros do Hawaii（来自夏威夷的工程师）是一支巴西摇滚乐队，于 1983 年在阿雷格里港成立，一直活跃到 2008 年。該樂團因其文字遊戲和諷刺、批評歌曲而廣受歡迎。主唱兼貝斯手 Humberto Gessinger 是唯一的原始成員。
+Engenheiros do Hawaii（來自夏威夷的工程師）是一支巴西搖滾樂隊，於 1983 年在阿雷格里港成立，一直活躍到 2008 年。該樂團因其文字遊戲和諷刺、批評歌曲而廣受歡迎。主唱兼貝斯手 Humberto Gessinger 是唯一的原始成員。
 
 《Surfando Karmas & DNA》是2002年發行的專輯，收錄了《Esportes Radicais》、《Terceira do Plural》等代表歌曲。
 

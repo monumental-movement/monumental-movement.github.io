@@ -25,10 +25,10 @@ title: 百鳥-黑水
 特里·福賽斯
 ・中島勝希
 ・佐藤正
-・Katsuhiro Idomoto
+・井戶本克宏
 ・竹內和武
 ・大宜味源
-・高木一宏
+・Kazuhiro Takagi
 ・戶高和美
 ・土地誠等
 

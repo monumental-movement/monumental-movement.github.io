@@ -199,7 +199,7 @@ AA2. Soundtrack
 ### 傑夫米爾斯 – Very EP
 <a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.p"></a>
 
-特徴：クラブのウォームアップに最適とされる、ミニマルで緊張感のある作品。
+特色： 簡約而緊張的單品，非常適合俱樂部熱身。
 
 推薦重點：簡單卻逐漸累積的聲像拉緊地板，讓你從一開始就創造出自己獨特的世界觀。
 
@@ -252,7 +252,7 @@ B2. Black Avenger
 
 
 ### Jeff Mills – Skin Deep EP
-<a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
+<a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.
 
 特點：歌曲《野性的呼喚》引用了麥可傑克森的《Off The Wall》中的打擊樂。
 
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 特色： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡風格的歌曲。
 
-推薦重點： 可以體驗90年代初地下感覺的收藏家必備的一張唱片，聲音粗獷卻渾厚。
+推薦重點：可以體驗90年代初期地下感覺的收藏家必備的一張碟，粗獷卻又堅固的感覺。
 
 
 #### 曲目表

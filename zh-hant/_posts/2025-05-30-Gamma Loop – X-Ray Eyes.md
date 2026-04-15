@@ -16,7 +16,7 @@ title: 伽瑪環 – X 射線眼
 
 Gamma Loop 是德國製作人和聲音設計師 Jürgen Driessen 在他的德國硬式 trance/acid 計畫中使用的名稱。他還以各種其他名字活躍，例如 Bruce Wayne 和 Exit EEE。
 
-這張唱片是 Ugly Bug Records 發行的 house 曲目，該唱片公司由 Pete Bones（The Shaker）於 1993 年創立，擅長融合時髦的 Pumping House 和前衛 trance 的風格。 Ugly Bug Records 是許多 DJ 最喜歡的唱片公司，其中包括 Tony De Vit。
+这张唱片是 Ugly Bug Records 发行的 house 曲目，该唱片公司由 Pete Bones（The Shaker）于 1993 年创立，擅长融合时髦的 Pumping House 和前卫 trance 的风格。 Ugly Bug Records 是許多 DJ 最喜歡的唱片公司，其中包括 Tony De Vit。
 
 #### 曲目表
 ```md

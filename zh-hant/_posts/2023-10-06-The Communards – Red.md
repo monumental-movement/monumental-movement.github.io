@@ -13,11 +13,11 @@ title: 公社會員 – 紅色
 ---
 
 
-《Red》是英国音乐二人组 The Communards 的一张专辑。這張專輯發行於 1987 年。 The Communards 是由吉米·萨默维尔 (Jimmy Somerville) 和理查德·科尔斯 (Richard Coles) 组成的乐队，以融合舞曲流行和合成流行音乐元素的音乐而闻名。
+《Red》是英國音樂雙人組 The Communards 的專輯。這張專輯發行於 1987 年。 The Communards 是由吉米·薩默維爾 (Jimmy Somerville) 和理查德·科爾斯 (Richard Coles) 組成的樂隊，以融合舞曲流行和合成流行音樂元素的音樂而聞名。
 
 《Red》是公社樂團的首張專輯，被廣泛認為是他們最成功的作品之一。這張專輯收錄了充滿情感的歌聲和適合跳舞的節奏的歌曲。
 
-アルバムには、ヒットシングル「Don't Leave Me This Way」や「Never Can Say Goodbye」などが含まれています。これらの楽曲は、The Communardsの特徴的なサウンドと、ダンスフロアでの人気を受けて商業的にも成功を収めました。
+這張專輯包括《Don't Leave Me This Way》和《Never Can Say Goodbye》等熱門單曲。由於公社樂隊獨特的聲音和舞池的流行，這些歌曲在商業上取得了成功。
 
 #### 曲目表
 ```md

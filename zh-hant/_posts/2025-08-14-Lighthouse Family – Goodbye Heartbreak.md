@@ -13,7 +13,7 @@ title: 燈塔家族 – 再見心碎
 ---
 
 
-Lighthouse Family(ラウトハウスファミリー)は、1990年代半ば〜2000年初頭に活躍したブリティッシュポップソウルデュオ。1995年のデビューアルバム『Ocean Drive』はUKのみならずヨーロッパでもヒットした。
+Lighthouse Family 是活躍於 20 世紀 90 年代中期至 2000 年代初的英國流行靈魂樂二人組。他們 1995 年的首張專輯《Ocean Drive》不僅在英國而且在歐洲都很受歡迎。
 
 這張唱片是由 Linslee Campbell 和 DJ Barry B 對專輯《Ocean Drive》中的單曲《Goodbye Heartbreak》進行混音的慢節奏曲目。 Wildcard 廠牌於 1996 年發行的宣傳專輯。
 

@@ -27,7 +27,7 @@ B1. No Communication
 B2. Messy Miss
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67887411446?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m67887411446?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8d4DqNWv9Qg?si=Af1KYNUnEd3WgwQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

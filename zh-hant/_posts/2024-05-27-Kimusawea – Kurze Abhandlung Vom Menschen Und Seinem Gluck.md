@@ -15,7 +15,7 @@ title: Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück
 ---
 
 
-Kimusawea 是一支硬核/後硬核/實驗樂隊，由來自德國法蘭克福的 Alexandra Petrović 和 Hajo Greif 組成。虽然乐队于 1998 年解散，但 Alexandra Petrović 在 2003 年至 2007 年期间继续成为德国实验磨核/金属乐队 Bolz'n 的成员，并从 2007 年开始成为 Idiot Switch 的成员。
+Kimusawea 是一支硬核/後硬核/實驗樂隊，由來自德國法蘭克福的 Alexandra Petrović 和 Hajo Greif 組成。雖然樂團於 1998 年解散，但 Alexandra Petrović 在 2003 年至 2007 年期間繼續成為德國實驗磨核/金屬樂團 Bolz'n 的成員，並從 2007 年開始成為 Idiot Switch 的成員。
 
 A 面的第三首曲目包括 David Lynch 的“Wild at Heart”和“Elephant Man”、Terry Gilliam 的“Brazil”以及 Saul Bass 的“Phase IV: Insect Panic”的樣本。
 

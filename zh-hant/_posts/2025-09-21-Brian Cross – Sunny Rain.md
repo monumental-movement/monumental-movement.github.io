@@ -31,7 +31,7 @@ B1. Sunny Rain (Stonebridge Mix)
 B2. Sunny Rain (Tony Arzadon Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61187518725?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61187518725?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ra_LPpTNxAc?si=oasBjeY1i1YlW7O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

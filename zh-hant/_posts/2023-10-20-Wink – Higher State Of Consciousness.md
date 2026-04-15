@@ -15,7 +15,7 @@ title: 眨眼－更高的意識狀態
 
 Josh Wink，又名 Wink，是一位來自美國費城的電子舞曲 DJ/製作人/混音師。 Wink 是 20 世紀 90 年代初美國銳舞界的先鋒 DJ，《Higher State Of Consciousness》是他的代表歌曲之一。
 
-A面のremixはDirty SouthとTV Rock。B面のremixはMarco V。
+A面混音版是《Dirty South》和《TV Rock》。 B面混音是Marco V。
 
 #### 曲目表
 ```md

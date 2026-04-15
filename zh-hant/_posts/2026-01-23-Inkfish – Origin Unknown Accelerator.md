@@ -15,7 +15,7 @@ title: Inkfish – 起源未知加速器
 
 
 
-Inkfish 是一個瑞典 House/Progressive House 製作人團體，自 20 世紀 90 年代末以來一直活躍。他曾在 Azuli、Bedrock、Doppelganger、Mistake Music、Parquet、Renaissance 和 Stereo Productions 等知名唱片公司發行專輯。
+Inkfish 是一個瑞典 House/Progressive House 製作人團體，自 20 世紀 90 年代末以來一直活躍。他曾在 Azuli、Bedrock、Doppelganger、Mistake Music、Parquet、Renaissance 和 Stereo Productions 等知名唱片公司發行作品。
 
 《Origin Unknown / Accelerator》於 2000 年在 Dorigen Music 廠牌上發行，是一首 Trance/Techno 曲目，主要由 Inkfish 成員 Mattias Lindblom 製作，同時也以 Springa 名義表演。
 

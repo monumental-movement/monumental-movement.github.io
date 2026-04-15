@@ -9,7 +9,7 @@ permalink: /zh-hant/technova-transcience-remixes/
 tags:
 - Techno
 - Rare
-title: Technova – Transcience Remixes
+title: Technova – 超科學混音
 ---
 
 
