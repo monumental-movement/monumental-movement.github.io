@@ -557,3 +557,14 @@ Yahowha 13 と Father Yod の音楽は、単なるサイケデリック・ロッ
 アルバム『Penetration: An Aquarian Symphony』や『I’m Gonna Take You Home』に代表される音源は、宗教的儀式とサイケデリック即興の融合を記録したものであり、現代のリスナーにとっても未だに刺激的です。アメリカではカルト史の資料として、ドイツでは音響実験として、日本では秘教サイケとして再評価され、それぞれの文化圏で独自の解釈が生まれています。
 
 今日ではストリーミング配信や再発盤を通じて、Yahowha 13 の音楽は広くアクセス可能となり、過去のカルト的活動が現代音楽シーンへの影響として結実しています。Father Yod の精神と Source Family の実験精神は、単なる音楽の枠を超え、今なお新しい世代に「共同体・即興・スピリチュアルの可能性」を問いかけ続けているのです。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vwL9ksLh3gg?si=DyXwowHOZrYRirsi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

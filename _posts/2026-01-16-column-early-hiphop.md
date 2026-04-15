@@ -171,3 +171,11 @@ DJが音で空間を占拠し、ダンサーが身体で床を占拠し、グラ
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QtytdV0hECI?si=tKm_zTNvzXlZqTUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

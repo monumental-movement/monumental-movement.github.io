@@ -116,6 +116,8 @@ flowchart TD
 「死と再生」「時間制限」「人類救済」といったテーマは、ジャズが持つ“即興的な生の再構築”と響き合う。
 特に Kamasi Washington のスピリチュアル・ジャズは、物語全体に「ラザロ＝蘇り」のモチーフを重層的に響かせている。
 
+---
+
 ### ■ まとめ
 
 ジャズ／フュージョンは、アニメに都会性と即興性をもたらし、時に物語全体の「生と死」「破壊と再生」を象徴する。
@@ -124,6 +126,15 @@ flowchart TD
 
 そして「ラザロ」の名が示すように、ジャズは常に新しい形で蘇り、アニメの世界に寄り添い続けていく。
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqpGA_5SQgE?si=4_hNF2QmS9MkCjOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
