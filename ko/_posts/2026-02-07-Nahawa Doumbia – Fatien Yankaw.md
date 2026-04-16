@@ -15,7 +15,7 @@ title: Nahawa Doumbia – Fatien / Yankaw
 
 
 
-마리 출신의 가수 Nahawa Doumbia(나하와 던비아)의 앨범 'Yankaw'에 수록된 Fatien/Yankaw의 Deep House/African 리믹스. 1999년에 Frédéric Galliano의 Afro/World에 특화된 라벨 Frikyiwa에서 발매되었다.
+마리 출신의 가수 Nahawa Doumbia(나하와 던비아)의 앨범 'Yankaw'에 수록된 Fatien / Yankaw의 Deep House/African 리믹스. 1999년에 Frédéric Galliano의 Afro/World에 특화된 라벨 Frikyiwa에서 발매되었다.
 
 A는 Broken Beat의 이노베이터 IG Culture에 의한 리믹스.
 B는 Aqua Bassino, 일렉트로닉 프로듀서 Jason Robertson의 리믹스.

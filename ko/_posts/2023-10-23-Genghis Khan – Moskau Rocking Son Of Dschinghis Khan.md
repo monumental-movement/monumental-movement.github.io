@@ -16,7 +16,7 @@ title: Genghis Khan – Moskau Rocking Son Of Dschinghis Khan
 
 Genghis Khan(징기스칸)은 1979년부터 1985년에 걸쳐 세계적으로 활약한 서독 그룹.
 
-'Moskau(메자세 모스크바)'는 1979년 릴리스의 앨범 '징기스칸'에서 싱글컷으로 세계적인 히트가 되었다.
+'Moskau (메자세 모스크바)'는 1979년 릴리스의 앨범 '징기스칸'에서 싱글컷으로 세계적인 히트가 되었다.
 
 #### Tracklist
 ```md

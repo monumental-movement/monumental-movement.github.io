@@ -21,7 +21,7 @@ title: 애시드 재즈 작품 픽업
 ### Corduroy – High Havoc
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
 
-개요 : 런던 거점의 4인조 애시드 재즈 밴드 Corduroy에 의한, 1993년 릴리스의 컨셉 앨범의 2번째 작품. Acid Jazz Records에서 발표되었습니다.
+개요 : 런던 거점의 4인조 애시드 재즈 밴드 Corduroy에 의한 1993년 릴리스의 컨셉 앨범의 2번째 작품. Acid Jazz Records에서 발표되었습니다.
 
 추천 포인트: 2곡째의 「London England」는 1990년대의 댄스 플로어 클래식이라고 불리며, 그 밖에도 UK 인디 차트 TOP10 들어간 싱글이 수록되는 등, 그들의 대표작으로서 높이 평가되고 있습니다.
 
@@ -129,7 +129,7 @@ B2. Flight To Havana
 ### Various – Totally Wired Nine
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
-개요: 1992년, UK의 Acid Jazz 라벨에서 발매된 어시드 재즈의 올스타 컴필레이션 앨범입니다. 댄스 플로어에서 인기를 얻은 다채로운 아티스트의 대표적인 트랙을 수록.
+개요 : 1992 년 UK의 Acid Jazz 레이블에서 출시 된 어시드 재즈의 올스타 편집 앨범입니다. 댄스 플로어에서 인기를 얻은 다채로운 아티스트의 대표적인 트랙을 수록.
 m.m.r
 
 추천 포인트 : Corduroy, Mother Earth, Sons Of Judah 등, 어시드 재즈의 초기를 물들인 명곡이 늘어선 귀중한 한 장. 장르의 퍼짐과 그루브감을 단번에 맛볼 수 있습니다.

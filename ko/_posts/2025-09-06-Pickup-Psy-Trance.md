@@ -21,7 +21,7 @@ title: Psy-Trance(사이케델릭 트랜스) 작품을 픽업
 
 ## Psy-Trance(사이케델릭 트랜스)의 주목 작품
 
-Monumental-Movement.jp 에서 게재되고 있는 **Psy-Trance(사이케델릭 트랜스)**의 추천반을 해설 첨부로 소개합니다.
+Monumental-Movement.jp 에서 게재되고 있는 **Psy-Trance(사이키델릭트랜스)**의 추천반을 해설 첨부로 소개합니다.
 90년대의 고어 트랜스의 명작으로부터, 현대적인 사운드 디자인을 도입한 작품까지 폭넓게 갖추어져 있습니다.
 
 ---

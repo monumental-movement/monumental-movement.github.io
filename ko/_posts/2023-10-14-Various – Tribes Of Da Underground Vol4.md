@@ -13,7 +13,7 @@ title: Various – Tribes Of Da Underground Vol4
 ---
 
 
-Fred Everything은 딥하우스 씬에서 활약하고 있는 프랑스계 캐나다인의 일렉트로닉 뮤지션/DJ.
+Fred Everything은 딥 하우스 씬에서 활약하고 있는 프랑스계 캐나다인의 일렉트로닉 뮤지션/DJ.
 
 Pressure Drop은 Justin Langlands와 Dave Henley로 구성된 UK 일렉트로닉 뮤직 듀오.
 

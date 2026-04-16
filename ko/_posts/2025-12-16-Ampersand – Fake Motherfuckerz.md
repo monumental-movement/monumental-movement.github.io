@@ -16,7 +16,7 @@ title: Ampersand – Fake Motherfuckerz
 
 Ampersand (앰퍼샌드)는 Benjamin Westermann과 Henrik Bueren의 단위입니다.
 
-「Fake Motherfuckerz」는, 벨기에의 DJ/프로듀서 Stefaan Vandenberghe 일명 Dr. Lektroluv 주재의 벨기에・전자 라벨 Lektroluv로부터, 2008년에 릴리스한 Techno/Electro 트랙.
+「Fake Motherfuckerz」는 벨기에의 DJ/프로듀서 Stefan Fan Vandenberghe 일명 Dr.
 
 #### Tracklist
 ```md

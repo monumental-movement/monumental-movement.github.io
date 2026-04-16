@@ -19,7 +19,7 @@ A의 "Impact USA"는 "Impact (The Earth Is Burning)"의 셀프 리믹스.
 
 B의 "Lush"는 EDM DJ / 프로듀서 Francis Prève와 Cochise (Jeremy Ball)에 의한 remix.
 
-댄스 뮤직 라벨 FFRR Records에서 1993 년에 출시 된 Techno 트랙.
+댄스 뮤직 라벨 FFRR Records에서 1993 년에 발표 된 Techno 트랙.
 
 
 #### Tracklist

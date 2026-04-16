@@ -16,9 +16,9 @@ title: Noisia – Yellow Brick Raar
 
 Noisia(노이지아)는, 2022년에 해산한 네덜란드의 드럼 베이스 트리오. 드럼 베이스, 하우스, 브레이크, 일렉트로닉 사운드 등 폭넓은 음악을 제작하고 있으며, 2014년에는 모모이로 클로버 Z의 '맹렬 우주 교향곡·제7악장 '무한의 사랑'(Emperor Style)'에 수록된 LOST CHILD의 remix도 다뤘다.
 
-「Yellow Brick / Raar」는, Noisia 자신이 운영하는 라벨 Division Recordings보다 2007년에 릴리스 된 브레이크·하우스 트럭.
+"Yellow Brick / Raar"는 Noisia 자신이 운영하는 라벨 Division Recordings보다 2007 년에 릴리스 된 브레이크 하우스 트랙.
 
-'Yellow Brick'은 중독성이 뛰어난 최고의 트럭으로, 익숙한 뇌 된장을 흔드는 노이지아의 기준선과 매우 편안하고 심플한 비트가 특징입니다.
+'Yellow Brick'은 중독성이 뛰어난 최고의 트럭으로 익숙한 뇌를 흔드는 노이지아의 베이스 라인과 매우 편안하고 심플한 비트가 특징입니다.
 
 하나의 "Raar"는 댄스 플로어를 완전히 파괴하는 트랙입니다.
 

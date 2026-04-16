@@ -90,7 +90,7 @@ color: #fff;
 |---|---|---|---|
 | 1 | Kruder & Dorfmeister | High Noon | 다운 템포 Future Jazz의 대표곡. |
 | 2 | Jazzanova | Fedime’s Flight | 복잡한 리듬이 특징. |
-| 3 | Rainer Trüby Trio | Donaueschingen | 클럽 친화적인 재즈. |
+| 3 | Rainer Trüby Trio | Donaueschingen | 클럽 친화적 인 재즈. |
 | 4 | Trüby Trio | Galacia | 라틴어 요소가 강한 노래. |
 | 5 | De-Phazz | The Mambo Craze | 팝으로 듣기 쉽다. |
 | 6 | Fauna Flash | Tel Aviv | 어둡고 깊은 비트. |
@@ -157,7 +157,7 @@ Nu-Jazz는 일렉트로니카와 융합하여 청취색을 강화했다.
 | 5 | Skalpel | High | 폴란드의 샘플링 재즈. |
 | 6 | Nostalgia 77 | Quiet Dawn | 소울 풀 작품. |
 | 7 | Sidsel Endresen | Out Here | 실험적인 보컬 재즈. |
-| 8 | Hidden Orchestra | Footsteps | 영화관에서 깊은. |
+| 8 | Hidden Orchestra | Footsteps | |
 | 9 | Portico Quartet | Knee-Deep in the North Sea | 행드럼과 재즈의 융합. |
 | 10 | Cinematic Orchestra | Breathe | 섬세하고 깊이있는 트럭. |
 

@@ -15,7 +15,7 @@ title: Mark De Clive-Lowe – Six Degrees
 
 Mark De Clive-Lowe(마크 드 클라이브 로우)는 뉴질랜드 출신의 재즈키 보디스트, 음악 프로듀서, 작곡가, 아티스트, 클럽 DJ.
 
-"Six Degrees"는 Universal Jazz에서 2000년에 릴리스된 마크 드 클라이브 로우 세 번째 앨범.
+'Six Degrees'는 Universal Jazz에서 2000년에 발매된 마크 드 클라이브 로우 세 번째 앨범.
 
 #### Tracklist
 ```md

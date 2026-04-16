@@ -15,7 +15,7 @@ title: Mansun – Taxlo$$ (Remixes)
 ---
 
 
-'Taxloss'(Taxlo$$)는 영국의 얼터너티브 록 밴드 Mansun이 1997년에 발표한 데뷔 스튜디오 앨범 'Attack of the Grey Lantern'의 싱글. 「Taxloss」의 앨범 ver.와 리믹스집이 수록되어 있다.
+'Taxloss'(Taxlo$$)는 영국의 얼터너티브 록 밴드 Mansun이 1997년에 발매한 데뷔 스튜디오 앨범 'Attack of the Grey Lantern'의 싱글. 「Taxloss」의 앨범 ver.와 리믹스집이 수록되어 있다.
 
 A1은 UK의 Trance & Psy-Trance DJ/프로듀서 John '00' Fleming에 의한 remix.
 B2는 레코드 프로듀서 Gaudi (가우디)와 Daniele Cenacchi의 remix.

@@ -13,12 +13,12 @@ title: Hiroyuki Oda – Rise Cataract
 ---
 
 
-Hiroyuki Oda(히로유키 오다), 칸자키 히로 (Hiro Kanzaki)
-클럽 뮤직 크리에이터 겸 애니메이터.
+Hiroyuki Oda(히로유키 오다), 칸자키히로 (Hiro Kanzaki)
+는 클럽 뮤직 크리에이터 겸 애니메이터.
 
 Rise / Cataract는 2007 년 네덜란드 출신의 트랜스 DJ / 프로듀서 Armin van Buuren (아민 밴 부렌)이 운영하는 Armada Music의 서브 라벨 A State Of Trance에서 출시 된 트랜스 트랙.
 
-일러스트레이터로서는 후시 발견의 라이트 노벨 '내 여동생이 이렇게 귀여울 리가 없다' 등의 삽화를 다루고, 뮤지션으로서는, Sevensenses recordings나 Otographic Music에서도 작품을 다수 릴리스하고 있다.
+일러스트레이터로서는 후시 발견의 라이트 노벨 「나의 여동생이 이렇게 귀여운 것은 없다」등의 삽화를 다루고, 뮤지션으로서는, Sevensenses recordings나 Otographic Music로부터도 작품을 다수 릴리스하고 있다.
 
 #### Tracklist
 ```md

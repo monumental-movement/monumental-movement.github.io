@@ -14,7 +14,7 @@ title: Lemare – Good Times
 
 
 "Good Times"는
-1998년에 릴리스된, 영국의 R&B 아티스트 LEMARE(레마/Lemar Obika)의 「Good Times」.
+1998년에 발매된, 영국의 R&B 아티스트 LEMARE(레마/Lemar Obika)의 「Good Times」.
 
 #### Tracklist
 ```md

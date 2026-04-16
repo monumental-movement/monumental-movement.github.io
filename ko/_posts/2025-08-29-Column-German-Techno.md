@@ -30,7 +30,7 @@ German Techno(독일 테크노)는 1980년대 후반부터 1990년대 초반에 
 
 ### 역사적 배경 : 베를린 벽 붕괴와 테크노 폭발
 
-1989년 베를린의 벽 붕괴는 독일에서 테크노 발전의 전환이었다. 동서의 문화가 융합하는 가운데, 폐허나 창고를 활용한 파티가 급증해, 베를린은 「자유의 소리」를 상징하는 테크노의 성지가 되었습니다.
+1989년 베를린의 벽 붕괴는 독일의 테크노 발전의 전환이었다. 동서의 문화가 융합하는 가운데, 폐허나 창고를 활용한 파티가 급증해, 베를린은 「자유의 소리」를 상징하는 테크노의 성지가 되었습니다.
 
 - **Tresor (트레조아)**: 1991년에 설립된 클럽 겸 라벨. 디트로이트 테크노와 베를린 독자적인 경질의 사운드를 다리 한 존재.
 
@@ -82,7 +82,7 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 - 신디사이저에 의한 반복적 리프가 많다
 
-**대표적인 움직임**: 프랑크푸르트의 클럽 '도리안 그레이', 베를린의 언더그라운드 파티가 장면을 지원한다.
+**대표적 움직임**: 프랑크푸르트의 클럽 '도리안 그레이', 베를린의 언더그라운드 파티가 장면을 지원한다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9u7x5UQHlqA?si=plSaqk1woQjz_HrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -118,7 +118,7 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 - 디트로이트의 '소울풀' 요소가 희미해져 냉철하고 기계적인 소리에
 
-** 대표 아티스트 **: Chris Liebing, Johannes Heil, Heiko Laux.
+** 대표 아티스트**: Chris Liebing, Johannes Heil, Heiko Laux.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -182,10 +182,10 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 ### 라이프 스타일과 밀접하게 연결되어 진화
 
-오늘날의 German Techno는 힘들고 산업적인 조류에서 멜로딕으로 서정적인 표현에 이르기까지 폭넓게 진화하면서도 여전히 베를린 테크노의 도시라는 상징적인 지위를 유지하고 있습니다.
+오늘날의 German Techno는 하드와 산업의 조류에서 멜로디하고 서정적인 표현에 이르기까지 폭넓게 진화하면서도 여전히 베를린 테크노의 도시라는 상징적인 지위를 유지하고 있습니다.
 
 결론적으로 German Techno는 과거의 문화적 산물인 동시에 미래의 사운드 디자인을 개척하는 실험장이기도 하다.
-그 역사를 탐험하면서 작품을 듣는 것은 도시와 인간, 기계와 감정이 교차하는 음악의 역동성을 이해하는 것 외에는 없습니다.
+그 역사를 탐험하면서 작품을 듣는 것은 도시와 인간, 기계와 감정이 섞인 음악의 역동성을 이해하는 것 외에 다른 것입니다.
 
 
 ---

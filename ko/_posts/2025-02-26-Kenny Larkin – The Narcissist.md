@@ -15,7 +15,7 @@ title: Kenny Larkin – The Narcissist
 ---
 
 
-Kenny Larkin(케니 라킨)은, 디트로이트 출신의 테크노 하우스 프로듀서 DJ. Juan Atkins(후안 앳킨스)와 Derick May(데릭 메이)의 영향을 받아 활동을 시작해 Richie Hawtin(리치 호우틴)과 John Acquaviva의 라벨 Plus 8이나 Buzz, Warp 등 수많은 라벨로부터 릴리스하고 있다.
+Kenny Larkin(케니 라킨)은, 디트로이트 출신의 테크노 하우스 프로듀서 DJ. Juan Atkins(후안 앳킨스)와 Derick May(데릭 메이)의 영향을 받아 활동을 시작해 Richie Hawtin(리치 호틴)과 John Acquaviva의 라벨 Plus 8나 Buzz, Warp 등 수많은 라벨로부터 릴리스하고 있다.
 
 'The Narcissist'는 영국의 인디펜덴 트래블 Peacefrog Records에서 2004년에 발표된 하우스 테크노 다운 템포 앨범.
 

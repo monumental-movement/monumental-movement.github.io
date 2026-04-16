@@ -52,7 +52,7 @@ B. The Flirting Kind
 
 출시: 2025년 5월 1일 게재. 바글루스(Trevor Horn과 Geoff Downes의 UK New Wave Unit)의 데뷔 앨범.
 
-추천 포인트 : "Video Killed the Radio Star" 등 신디팝 / 뉴 웨이브의 상징적 악곡을 포함하여 시대를 상징하는 명반. 나중에 두 사람이 밴드 Yes에 가입한 것도 화제가 되었습니다.
+추천 포인트 : "Video Killed the Radio Star" 등 신디팝 / 뉴 웨이브의 상징적 악곡을 포함한 시대를 상징하는 명반. 나중에 두 사람이 밴드 Yes에 가입한 것도 화제가 되었습니다.
 
 
 #### Tracklist

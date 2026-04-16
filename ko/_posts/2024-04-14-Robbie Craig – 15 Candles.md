@@ -17,7 +17,7 @@ title: Robbie Craig – 15 Candles
 
 700장 한정 프로모판.
 
-A면은 UK 갤러지 아티스트 Laurence Bagnall과 Stanton Warriors의 멤버이며 UK 갤러지 하우스 베이스 뮤직의 프로듀서 Mark Yardley의 remix.
+A면은 UK 갤러지 아티스트 Laurence Bagnall과 Stanton Warriors의 멤버이며, UK 갤러지 하우스 베이스 음악의 프로듀서 Mark Yardley의 remix.
 
 #### Tracklist
 ```md

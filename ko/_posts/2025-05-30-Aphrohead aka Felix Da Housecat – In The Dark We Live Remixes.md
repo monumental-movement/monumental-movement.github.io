@@ -17,7 +17,7 @@ title: Aphrohead aka Felix Da Housecat – In The Dark We Live (Remixes)
 
 Aphrohead는 시카고 하우스의 2세대 하우스 레전드Felix Da Housecat의 별명의.
 
-"In The Dark We Live (Remixes)"는 1994년에 벨기에의 라벨 Re-load Records에서 발표된 테크노 어시드 트랙.
+「In The Dark We Live (Remixes)」는 1994년에 벨기에의 라벨 Re-load Records에서 릴리스된 테크노 어시드 트랙.
 
 A면 1곡째와 B면은 "테크노 남작"(John Peel이 명명)의 이명을 가진 UK 일렉트로닉 댄스 뮤직 DJ, 프로듀서 Dave Clarke (데이비드 클락)에 의한 remix.
 

@@ -20,7 +20,7 @@ title: 【칼럼】 Modern Soul / Contemporary Funk
 
 문장：mmr｜테마：21세기의 서울과 펑크를 재정의하는 리듬, 연주, 제작미학에 대해서
 
-Modern Soul(모던 서울) 및 Contemporary Funk(컨템포러리 펑크)는 1990년대 후반부터 2010년대 이후에 걸쳐 서울/펑크의 전통을 계승하면서 재즈, 힙합, R&B, 네오서울, 비트뮤직의 요소를 담아 현대적인 음상으로 진화한 스타일을 가리킨다.
+Modern Soul(모던 서울) 및 Contemporary Funk(컨템포러리 펑크)는 1990년대 후반부터 2010년대 이후에 걸쳐 서울/펑크 전통을 계승하면서 재즈, 힙합, R&B, 네오서울, 비트뮤직의 요소를 담아 현대적인 음상으로 진화한 스타일을 가리킨다.
 
 대표적인 아티스트로는 **Hiatus Kaiyote(하이에이터스 카이요테)**, **Anderson .Paak(앤더슨 파크)**를 비롯하여 D’Angelo, Robert Glasper, Thundercat, Vulfpeck, Cory Henry, The Internet 등이 포함됩니다.
 
@@ -150,7 +150,7 @@ flowchart TD
 
 * 다중 코러스
 * 멜로디의 도약(Hiatus Kaiyote의 특징)
-* 스캇 / 비브라토 / 팔셋의 다용도
+* 스캇/비브라토/팔셋의 다용
 * 실러블 세분화
 
 ---
@@ -300,7 +300,7 @@ flowchart TD
 | 2011 | Hiatus Kaiyote 멜버른에서 활동 시작 |
 | 2012 | Robert Glasper Experiment 'Black Radio' 출시 |
 | 2014 | Anderson .Paak "Venice"발표 |
-| 2015 | Hiatus Kaiyote 'Choose Your Weapon' 발표 |
+| 2015 | Hiatus Kaiyote "Choose Your Weapon"발표 |
 | 2016 | Anderson .Paak "Malibu"발표 |
 | 2017 | Thundercat "Drunk"발표 |
 | 2021 | Hiatus Kaiyote "Mood Valiant"발표 |
@@ -319,7 +319,7 @@ Modern Soul / Contemporary Funk는
 * 최신 제작 기술
 을 통합한 하이브리드 스타일이다.
 
-Hiatus Kaiyote의 복잡하고 전위적인 퓨처 서울, Anderson .Paak의 소울 풀과 펑키 밴드 접근. 이들은 21세기 서울/펑크의 상징적 스타일을 나타내며 지금도 전세계 뮤지션에 계속 영향을 미치고 있다.
+Hiatus Kaiyote의 복잡하고 아방가르드한 퓨처 서울, Anderson .Paak의 소울 풀 펑키 밴드 접근법. 이들은 21세기 서울/펑크의 상징적 스타일을 나타내며 지금도 전세계 뮤지션에 계속 영향을 주고 있다.
 
 ---
 

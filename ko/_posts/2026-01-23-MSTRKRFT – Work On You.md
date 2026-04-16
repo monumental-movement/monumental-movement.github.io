@@ -13,7 +13,7 @@ title: MSTRKRFT – Work On You
 ---
 
 
-Mstrkrft(마스터 크래프트)는 2005년에 Death from Above(DFA/데스프롬 아바브 1979)의 Jesse F. Keeler와 일렉트로팝 그룹 Girlsareshort의 Al-P(Alex Puodziukas)에 의해 결성된 캐나다의 일렉트로닉
+Mstrkrft(마스터 크래프트)는 2005년 Death from Above(DFA/데스프롬 아바브 1979)의 Jesse F. Keeler와 일렉트로팝 그룹 Girlsareshort의 Al-P(Alex Puodziukas)에 의해 결성된 캐나다의 일렉트로닉
 
 'Work On You'는 2006년 호주 라벨 Modular Recordings에서 출시된 Electro 트랙.
 

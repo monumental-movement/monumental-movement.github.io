@@ -16,7 +16,7 @@ title: Olav Basoski – Water Fire Rhythm Love EP1
 
 Olav Basoski는 1990년대 후반부터 활동하는 네덜란드 하우스의 중진.
 
-2004년에 자신의 라벨 Rootz Records로부터 릴리스한 「Water Fire Rhythm Love EP1」은, Olav Basoski의 세련된 House/Electro 사운드를 즐길 수 있는 마무리가 되고 있다.
+2004년에 자신의 라벨 Rootz Records에서 발매한 「Water Fire Rhythm Love EP1」은, Olav Basoski의 세련된 House/Electro 사운드를 즐길 수 있는 마무리가 되고 있다.
 
 #### Tracklist
 ```md

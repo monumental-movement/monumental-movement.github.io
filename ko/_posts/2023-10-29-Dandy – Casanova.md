@@ -13,7 +13,7 @@ title: Dandy – Casanova
 ---
 
 
-Dandy (댄디)의 "Casanova (카사노바)"는 이탈리아 라벨 Flea Records에서 1989 년에 발표되었습니다.
+Dandy(댄디)의 'Casanova(카사노바)'는 이탈리아의 라벨인 Flea Records에서 1989년에 출시되었습니다.
 
 #### Tracklist
 ```md

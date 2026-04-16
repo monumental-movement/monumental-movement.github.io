@@ -14,9 +14,9 @@ title: Space Frog – X-Ray (Follow Me) - Remixes
 ---
 
 
-독일 베를린 출신의 하드 트랜스/트랜스 DJ Space Frog Cet Merlin의 트랜스트랙.
+독일 베를린 출신의 하드 트랜스 / 트랜스 DJ Space Frog 및 Cet Merlin의 트랜스 트럭.
 
-X-Ray (Follow Me)는 Mysterious Art, P.M. Sampson, Culture Beat 등 당시 독일 댄스 차트를 석권한 라벨 Dance Pool에서 1997년에 릴리스.
+'X-Ray (Follow Me)'는 Mysterious Art, P.M. Sampson, Culture Beat 등 당시 독일 댄스 차트를 석권한 라벨 Dance Pool에서 1997년에 릴리스.
 
 A면은 「Ecuador」로 유명한 Sash!(사샤)에 의한 remix.
 

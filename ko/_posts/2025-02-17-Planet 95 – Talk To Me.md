@@ -18,7 +18,7 @@ Planet 95는 Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo, Renato
 「Talk To Me」는, 1996년에 글래스고의 라벨 Limbo Records로부터 릴리스 된 하우스 트럭 2매 세트.
 
 B면은 Cotton Club에 의한 remix.
-C&D면 2곡째는, 글래스고를 거점으로 활동하는 DJ·프로듀서이며, 스코틀랜드의 전설적인 클럽 Tunnel club에서 오랜 레지던트를 맡은 Michael Kilkie에 의한 remix.
+C&D면 2곡째는, 글래스고를 거점으로 활동하는 DJ·프로듀서이며, 스코틀랜드의 전설적인 클럽Tunnel club에서 오랜 레지던트를 맡은 Michael Kilkie에 의한 remix.
 D면 1곡째는 글래스고에 있는 Apollo Studios의 엔지니어 & 프로듀서 Andy Haldane의 remix.
 
 

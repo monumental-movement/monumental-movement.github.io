@@ -14,7 +14,7 @@ title: Phauna – Naturally (Remixes)
 ---
 
 
-Mellee Fresh와 DJ Spydabrown이 설립한 캐나다 하우스 라벨 Play Records에서 2003년에 출시된 딥 하우스 트럭.
+Mellee Fresh와 DJ Spydabrown에 의해 설립된 캐나다 하우스 라벨 Play Records에서 2003년에 출시된 딥 하우스 트럭.
 
 #### Tracklist
 ```md

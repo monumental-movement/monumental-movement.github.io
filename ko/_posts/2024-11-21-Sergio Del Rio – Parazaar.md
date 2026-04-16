@@ -17,7 +17,7 @@ Sergio Del Rio는 이탈리아 출신의 DJ 프로듀서. DJ Power, Ethnosonique
 
 "Parazaar"는 스페인 라벨 Vale Music의 하우스 전문 부문에서 2003 년 릴리스 된 하우스 트랙.
 
-A면 1곡째는 이탈리아 프로듀서 Fedo의 remix.
+A면 1곡째는 이탈리아의 프로듀서 Fedo의 remix.
 
 #### Tracklist
 ```md

@@ -14,7 +14,7 @@ title: Act Four - Carat Trax 1 – Carat Trax 1
 
 
 "Carat Trax 1"은
-1994년에 벨기에의 라벨 「Circus」로부터 발매되었다고 Andres Romero와 Stefan Wuyts에 의한 유닛 Act Four의 EP입니다
+1994년 벨기에의 라벨 'Circus'에서 발매되었다고 Andres Romero와 Stefan Wuyts에 의한 유닛 Act Four의 EP입니다.
 
 
 #### Tracklist

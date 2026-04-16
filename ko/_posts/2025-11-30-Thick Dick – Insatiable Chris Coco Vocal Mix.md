@@ -24,7 +24,7 @@ Thick Dick Eric Miller는 E-Smoove 등 다수의 명의로 활동하는 미국�
 
 A는, Chill-Out/Balearic DJ&프로듀서 Chris Coco(Chris Mellor)에 의한 remix.
 
-B는 스웨덴 출신의 피아니스트&DJ Rasmus Faber(라스마스 페이버)에 의한 remix.
+B는, 스웨덴 출신의 피아니스트&DJ Rasmus Faber(라스마스·페이버)에 의한 remix.
 
 #### Tracklist
 ```md

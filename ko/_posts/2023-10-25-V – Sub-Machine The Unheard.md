@@ -14,7 +14,7 @@ title: V – Sub-Machine The Unheard
 ---
 
 
-"Sub-Machine / The Unheard"는
+'Sub-Machine/The Unheard'는
 1995년에 UK의 라벨 「Gift Records」로부터 릴리스 된 7 인치의 레코드입니다.
 
 

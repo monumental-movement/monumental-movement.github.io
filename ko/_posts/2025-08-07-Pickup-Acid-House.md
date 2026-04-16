@@ -70,7 +70,7 @@ B4. Charm–Walk On The Wild Side
 ### Petter – Untitled Acid EP
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-현대적인 소리 만들기로 어시드를 재구축. 미니멀~프로그레의 사이에 감돌린다.
+현대적인 소리 만들기로 어시드를 재구축. 미니멀~프로그레의 사이에 감돈다.
 
 #### Tracklist
 ```md

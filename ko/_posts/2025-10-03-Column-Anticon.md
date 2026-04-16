@@ -40,8 +40,8 @@ color: #fff;
 
 ## 역사와 정신 — '반(anti)'으로서의 출자
 
-Anticon은 1998년, **Sole(Tim Holland)**나 **Doseone(Adam Drucker)**, **Jel(Jeffrey Logan)**, **Odd Nosdam(David Madson)**, **Pedestrian(James Brandon Best)**, **Yoni Wolf(Why?)**
-이름은 "ant-icon(반·아이콘)"의 어감에서 채취되어 기성품 장르와 상업적 규범에 대한 저항을 상징하고 있다.
+Anticon은 1998년 **Sole(Tim Holland)**과 **Doseone(Adam Drucker)**, **Jel(Jeffrey Logan)**, **Odd Nosdam(David Madson)**, **Pedestrian(James Brandon Best)**, **Yoni Wolf(Why?)** 등
+이름은 "ant-icon(반·아이콘)"의 어감에서 채취되어 기성품 장르나 상업적 규범에 대한 저항을 상징하고 있다.
 
 대표적인 프로젝트로는 **cLOUDDEAD**, **Themselves**, **Subtle**, **Deep Puddle Dynamics** 등이 있다.
 

@@ -14,7 +14,7 @@ title: Mac Zimms – Ancient Myth
 ---
 
 
-Mac Zimms Willem Jelle Faber는 1980년대 후반부터 활동하는 네덜란드 출신의 DJ/프로듀서. 트랜스, 하드 트랜스, 테크 트랜스 씬으로 활약해, 유명 라벨 2Play, Black Hole Recordings로부터도 다수 릴리스 하고 있어, 히트곡 「Horny Horns」로 알려진 Freek Fontein과의 듀오 Perfect Phase로서도 활약했다.
+Mac Zimms Willem Jelle Faber는 1980년대 후반부터 활동하는 네덜란드 출신의 DJ/프로듀서. 트랜스, 하드 트랜스, 테크 트랜스 씬으로 활약해, 유명 라벨 2Play, Black Hole Recordings로부터도 다수 릴리스하고 있어, 히트곡 「Horny Horns」로 알려진 Freek Fontein과의 듀오 Perfect Phase로서도 활약했다.
 
 'Ancient Myth'는 2001년 네덜란드 트라이벌 하우스 라벨 Bango에서 출시된 Tech House 트랙.
 

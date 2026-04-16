@@ -16,7 +16,7 @@ title: Hamel & Blackwatch – Discotek
 
 Hamel과 Bill Hamel (빌 하멜)은 미국의 트랜스 그룹 Fatum의 창립 멤버로 알려진 레코드 프로듀서 & 리믹서. 다룬 리믹스 작품으로 그래미상에 노미네이트되고 있다. Blackwatch(블랙 워치)와 Michael Thomas는 프로그레시브 하우스의 프로듀서.
 
-Hamel과 Blackwatch의 공작 Discotek은 2001년 UK의 레이블 Bedrock에서 출시된 Progressive House 트랙.
+Hamel과 Blackwatch의 공작 Discotek은 2001년 UK의 라벨 Bedrock에서 출시된 Progressive House 트랙.
 
 #### Tracklist
 ```md

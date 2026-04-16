@@ -54,14 +54,14 @@ color: #fff;
 
 | 아티스트 | 트럭 | 년 |
 |--------------|----------|----|
-Pierre Schaeffer | Étude aux chemins de fer | 1948 |
+| Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4’33’’ | 1952 |
 | John Cage | Williams Mix | 1952 |
 | Pierre Henry | Symphonie pour un homme seul | 1950 |
 | Karlheinz Stockhausen | Studie II | 1954 |
 | Edgard Varèse | Poème électronique | 1958 |
 | John Cage | Imaginary Landscape No.4 | 1951 |
-| Luigi Russolo (재녹음 작품) | Intonarumori Demo | 1940s 재현 |
+| Luigi Russolo (재녹음작품) | Intonarumori Demo | 1940s 재현 |
 | Morton Feldman | Projection I | 1950 |
 | Earle Brown | December 1952 | 1952 |
 
@@ -117,7 +117,7 @@ Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | Laurie Anderson | O Superman (라이브 원곡) | 1979 |
 | Tangerine Dream | Phaedra | 1974 |
 | Kraftwerk | Autobahn | 1974 |
-| Suicide | 고스트 라이더 | 1977 |
+| Suicide | Ghost Rider | 1977 |
 | Charlemagne Palestine | Strumming Music | 1974 |
 | Robert Ashley | Automatic Writing | 1979 |
 
@@ -172,7 +172,7 @@ Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | Aphex Twin | Rhubarb | 1994 |
 | Autechre | Eutow | 1995 |
 | Fennesz | Aus | 1997 |
-| 류지 이케다 | +/- [1] | 1996 |
+| Ryoji Ikeda | +/- [1] | 1996 |
 | Pan Sonic | Urania | 1995 |
 | Scanner | Mass Observation | 1994 |
 | Matmos | California Rhinoplasty | 1998 |

@@ -14,7 +14,7 @@ title: Thomas Schumacher – When I Rock (Remix)
 
 
 "When I Rock (Remix)"는
-1998년 UK의 라벨 "Bush"에서 발매된 Thomas Schumacher의 EP입니다.
+1998년에 UK의 라벨 「Bush」로부터 발매된 Thomas Schumacher에 의한 EP입니다.
 
 #### Tracklist
 ```md

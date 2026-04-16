@@ -14,7 +14,7 @@ title: Mendo – Remember
 ---
 
 
-Mendo와 David Ortega는 스위스 출신의 DJ 프로듀서이며 라벨 Clarise Records의 창립자입니다.
+Mendo와 David Ortega는 스위스 출신의 DJ 프로듀서이며 라벨 Clarise Records의 창시자입니다.
 
 "Remember"는 Luciano (루티아노) 주재의 레이블 Cadenza (카덴자)에서 2009 년에 출시 된 House & Minimal 트랙.
 

@@ -48,7 +48,7 @@ color: #fff;
 </style>
 
 
-## 제1장 Bohla로 시작하는 철의 이야기
+## 제1장 Bohla로 시작하는 철 이야기
 
 2011년, R&S Records로부터 릴리스된 「Bohla EP」.
 딱딱하고 기묘하게 부드러운 리듬이 클럽에 "새로운 무게"를 가져왔다.
@@ -77,7 +77,7 @@ DAW 안이 아니라 **손가락 끝과 노브로 소리를 잡는다**.
 
 많은 DJ가 이 트랙을 피크 타임에 투하하고,
 클럽 플로어가 한순간 '폭력적인 도취'에 휩싸였다고 한다.
-이 노래는 단순히 히트가 아니라
+이 노래는 단순히 히트가 아니라,
 테크노에게 “감정없는 감정”을 되살린 상징이었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -113,7 +113,7 @@ Karenn의 라이브는 「연주」라기보다 「단조」에 가깝다.
 그 작은 틈새에 인간의 감정이 퍼진다.
 
 소리를 깎아내어 구조만을 남긴다.
-그 스토이크함이 반대로, Blawan의 “정서”를 두드러지게 하고 있다.
+그 스토크함이 반대로, Blawan의 “정서”를 두드러지게 하고 있다.
 
 ---
 
@@ -125,7 +125,7 @@ Karenn의 라이브는 「연주」라기보다 「단조」에 가깝다.
 하드웨어 노이즈가 어딘가 부드럽게 들린다.
 
 클럽이 닫혀도 신체의 리듬은 사라지지 않았다.
-그는 **모듈러 신디안에서 “인간의 호흡”을 발견했다**.
+그는 **모듈러 신디안에서 '인간의 호흡'을 발견했다**.
 전자기기가 심장의 고동을 모방한다――그런 역설적인 시대의 소리이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -140,7 +140,7 @@ Paula Temple과 Giant Swan의 폭력적인 리듬,
 그리고 스키 마스크의 섬세한 입자.
 그 모든 것이 그 안에서 재건되었습니다.
 
-베를린의 무기질보다 런던의 습도.
+베를린의 무기질보다 런던의 습도를.
 디지털보다 손바닥의 압력을.
 Blawan는 **땅의 무게**를 선택하는 것을 계속하고 있다.
 그것은 클럽이 다시 "장소"로 유지하기위한 저항이기도합니다.
@@ -154,15 +154,15 @@ Blawan는 **땅의 무게**를 선택하는 것을 계속하고 있다.
 Blawanの最新作[『SickElixir』（2025）](https://www.amazon.co.jp/dp/B087B9MBK4)は、テクノの構造を解体しながらも、なお“人間”の存在を感じさせる稀有な作品だ。 
 소음과 왜곡이 소용돌이치는 가운데 리듬은 붕괴 직전에 균형을 유지하고 목소리는 의미를 잃고 악기로 변모한다.
 "Rabbit Hole"로 꽂는 빛, "NOS"에서 중저음의 분류.
-그 순간마다, Blawan의 소리는 ** 차가움과 열정의 경계선 **을 오가는.
+그 순간마다, 블라완의 소리는 ** 차가움과 열정의 경계선 **을 오가는.
 
 배경에는 친구의 상실이나 의존과의 갈등 등 그 자신의 '생'이 누워 있다.
 차가운 기계음의 안쪽에서 울리는 것은 상실과 재생의 호흡음이다.
-'Why They Hide Their Bodies Under My Garage.'에서 충격을 준 그가 10년을 거쳐 도달한 것은 “파괴 속에 머무는 기도”이다.
+'Why They Hide Their Bodies Under My Garage.'에서 충격을 준 그가 10년을 거쳐 도달한 것은 '파괴 속에 머무는 기도'이다.
 
-테크노가 추상화하고 클럽이 디지털에 녹아가는 지금, Blawan은 굳이 “중력”을 되찾는다.
+테크노가 추상화하고 클럽이 디지털에 녹아가는 지금 Blawan은 굳이 “중력”을 되찾는다.
 강철 도시의 정맥을 흐르는 비트.
-그 가운데 그는 조용히 묻는다——**소리는 아직 인간에서 있을 수 있을까? **
+그 가운데 그는 조용히 질문한다. **
 
 ---
 
@@ -249,7 +249,7 @@ flowchart TD
 > "클럽 문화가 디지털에 녹아 가면서,
 > Blawan은 “중력”을 되찾았다.
 > 소리가 땅에 떨어진다.
-> 그것이 지금, 제일 인간적인 일이라고 생각한다. "
+> 그것이 지금, 제일 인간적인 것이라고 생각한다. "
 > —— **Resident Advisor 작가 코멘트에서**
 
 ---
@@ -272,8 +272,8 @@ flowchart TD
 ### 종장 강철의 기도——춤추는 것, 그것은 살아남는 것
 
 Blawan의 소리는 때로는 차갑고 때로는 거칠다.
-하지만 그 안에는 확실히 '인간의 기도'가 담겨 있다.
-춤추는 행위는 도시의 소음 속에서 '살아남기' 위한 의식이다.
+그러나 그 깊은 곳에는 분명 '인간의 기도'가 있습니다.
+춤추는 행위는 도시의 소음 속에서 “살아남는” 의식이다.
 "Why They Hide Their Bodies Under My Garage."가 여전히 사람들을 끌어들이는 것은,
 거기에 공포와 구제가 모두 있기 때문이다.
 
@@ -282,8 +282,17 @@ Blawan의 소리는 때로는 차갑고 때로는 거칠다.
 Blawan은 차가운 세계에 피를 통하게 하는 아티스트이다.
 
 > 「소리는, 신체의 그림자다」
->——Blawan (인터뷰에서)
+>——Blawan(인터뷰에서)
 
+
+---
+
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-yRUFugjp4?si=OMNled0lUg104Q_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -343,7 +352,7 @@ flowchart TD
 
 | 구분 | 장비 | 용도 | 특징 |
 | ---------- | ------------------------------------ | ---------- | -------------------- |
-| Sequencer | ** Intellijel Metropolis ** | 멜로디 리듬 생성 | 하드 16 스텝 느낌을 중시 |
+| Sequencer | ** Intellijel Metropolis ** | 멜로디 리듬 생성 | 하드 16 스텝 감을 중시 |
 | Oscillator | **Verbos Complex VCO / Plaits** | 메인 발진원 | 아날로그 왜곡과 디지털 입자를 병용 |
 | Drum Synth | **Moog DFAM** | 금속 타악기 | Blawan 사운드의 "산업 소음"핵 |
 | FX Chain | **Analog Heat / Mimeophon / BigSky** | 텍스처 조정 | 드라이브 및 리버브로 공간 구축 |
@@ -365,7 +374,7 @@ Blawan은 "타격"이 아니라 "연주"를하고있다.
 ### 후기
 
 밤의 거리에 울리는 중저음.
-모두가 스마트폰으로 소리를 소모하는 시대에
+모두가 스마트폰으로 소리를 소비하는 시대에
 Blawan은 **“만지는 소리”**를 되찾으려고 한다.
 
 스틸 같은 소리 속에 인간의 온기가 있다.

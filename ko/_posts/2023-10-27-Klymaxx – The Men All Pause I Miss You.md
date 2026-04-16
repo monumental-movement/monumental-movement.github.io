@@ -14,7 +14,7 @@ title: Klymaxx – The Men All Pause / I Miss You
 ---
 
 
-Klymaxx(클라이맥스)는 Bernadette Cooper(버나데트 쿠퍼)가 만든 80년대의 걸즈 펑크 밴드. 'I Miss You'는 세계적 히트가 되었다.
+Klymaxx(클라이맥스)는, Bernadette Cooper(버나데트 쿠퍼)가 만든 80년대의 걸즈 펑크 밴드. 'I Miss You'는 세계적 히트가 되었다.
 
 #### Tracklist
 ```md

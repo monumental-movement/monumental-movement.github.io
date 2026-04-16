@@ -50,11 +50,11 @@ Hyperpop:
 
 Digicore:
 
-* SoundCloud/Discord 출시의 젊은층에 의한 DIY 팝
+* SoundCloud/Discord 출시의 청년층에 의한 DIY 팝
 * Lo-fi 기타 및 이모적 가창, 간단한 비트, 보컬 체인의 인공적 처리
 * glaive와 ericdoa로 대표되는 "internet-core"미학
 
-양자는 겹치면서도, **Hyperpop=과잉화, Digicore=소박하지만 넷적**이라는 방향성의 차이가 있다.
+양자는 겹치면서도 **Hyperpop=과잉화, Digicore=소박하지만 넷적**이라는 방향성의 차이가 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=-LXGf4a86VqNcowG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -141,7 +141,7 @@ flowchart TD
 
 ---
 
-# 5. 음향 특징 : Digicore 측면의 사운드 구조
+# 5. 음향 특징 : Digicore 측면 사운드 구조
 
 ## 5-1. Lo-fi 기타×이모적 가창
 
@@ -197,7 +197,7 @@ flowchart LR
 - 1. 기타를 DI → Saturation
 - 2. 가벼운 드럼(Trap 기조)
 - 3. Auto-Tune + Doubler
-- 4. 우는 탑라인이 겹쳐진다
+- 4. 호울계 톱 라인을 거듭한다
 
 ---
 
@@ -236,7 +236,7 @@ flowchart LR
 
 ---
 
-#9. 시각·문화적 특징
+# 9. 시각 · 문화적 특징
 
 * Discord 서버를 기반으로 한 공동 제작 문화
 * TikTok 발의 바이럴 구조

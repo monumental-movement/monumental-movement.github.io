@@ -14,9 +14,9 @@ title: Justin Berkovi – Shinkansen Tracks
 ---
 
 
-Justin Berkovi는 런던에 본사를 둔 Techno DJ / 프로듀서이자 라벨 Predicamentst와 Nightrax의 설립자이기도합니다.
+Justin Berkovi는 런던을 거점으로 하는 Techno DJ/프로듀서이며, 라벨 Predicamentst와 Nightrax의 설립자이기도 하다.
 
-"Shinkansen Tracks"는 AdamX 주재의 Techno / Industrial Techno / EBM / Acid / Experimental 레이블 Sonic Groove에서 1999 년에 출시 된 Techno / Minimal 트랙.
+"Shinkansen Tracks"는 AdamX 주재의 Techno/Industrial Techno/EBM/Acid/Experimental 라벨 Sonic Groove에서 1999년에 출시된 Techno/Minimal 트랙.
 
 #### Tracklist
 ```md

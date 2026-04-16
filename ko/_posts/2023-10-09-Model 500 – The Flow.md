@@ -17,7 +17,7 @@ title: Model 500 – The Flow
 
 Model 500은 Juan Atkins(호안 앳킨스)의 별명의.
 
-「THE FLOW」는, 다채로운 리믹스가 베풀어진 악곡입니다. Juan Atkins는 'G-Funk Mix'로 순수한 R&B 분위기를 자아냅니다.
+「THE FLOW」는, 다채로운 리믹스가 베풀어진 악곡입니다. Juan Atkins는 G-Funk Mix에서 순수한 R&B 분위기를 자아냅니다.
 
 반면 Alex Reece Mix는 부드러운 재즈 스텝 리믹스를 수행하지만 보컬이 완전히 통일되지 않고 약간 리듬에 맞지 않는 것처럼 느껴집니다.
 

@@ -13,13 +13,13 @@ title: Access 58 – Dark Side EP
 ---
 
 
-Access 58은 포르투갈 출신 Paulo Nascimento (Urban Ritual)와 프랑스 출신 Philippe Quenum에 의한 유닛. The Funk Element 명의에서도 발표하고 있다.
+Access 58은 포르투갈 출신 Paulo Nascimento (Urban Ritual)와 프랑스 출신 Philippe Quenum에 의한 유닛. The Funk Element 명의로도 발표하고 있다.
 
 「Dark Side EP」는 Access58의 라벨로부터 1999년에 릴리스한 Techno 트랙.
 
 AA1은, 미국의 techno/ambient 프로듀서&DJ Steve Stoll에 의한 remix.
 
-AA2는 자신의 라벨인 LL Records, Tresor, Djax-Up-Beats, Konsequent, Music Man Records 등 명문 라벨에서 발표하고 있는 독일의 Techno 프로듀서 Pacou의 remix.
+AA2는 자신의 라벨인 LL Records, Tresor, Djax-Up-Beats, Konsequent, Music Man Records 등 명문 라벨에서 발매하고 있는 독일의 Techno 프로듀서 Pacou의 remix.
 
 #### Tracklist
 ```md

@@ -15,7 +15,7 @@ title: Scooter – Call Me Mañana
 
 Scooter(스쿠터)는 1993년 독일 함부르크에서 설립된 해피 하드 코어 레이브 테크노 뮤직 밴드.
 
-'Call Me Mañana'는 1998년 앨범 'No Time to Chill(노 타임 투 칠)'의 싱글 컷으로 L.A. Style의 1991년 싱글 'James Brown Is Dead'의 샘플.
+「Call Me Mañana」는, 1998년의 앨범 「No Time to Chill(노타임 투 칠)」로부터의 싱글 컷으로, L.A. Style의 1991년의 싱글 「James Brown Is Dead」로부터의 샘플.
 
 #### Tracklist
 ```md

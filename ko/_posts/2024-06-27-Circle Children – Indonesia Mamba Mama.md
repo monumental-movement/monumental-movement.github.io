@@ -14,7 +14,7 @@ title: Circle Children – Indonesia Mamba Mama
 ---
 
 
-Circle Children은 US의 DJ 프로듀서 Armand Van Helden(아만드 반 헬든)의 별명의 하나.
+Circle Children은 US의 DJ 프로듀서 Armand Van Helden(아먼드 밴 헬든)의 별명의 하나.
 
 「Indonesia / Mamba Mama」는, 하우스 라벨 Strictly Rhythm에서 1993년에 릴리스된 하우스 트라이벌 하우스 트럭. 이그제큐티브 프로듀서는 Strictly Rhythm의 공동 창립자 Gladys Pizarro.
 

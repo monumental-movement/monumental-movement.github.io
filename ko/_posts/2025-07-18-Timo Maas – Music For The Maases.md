@@ -13,7 +13,7 @@ title: Timo Maas – Music For The Maases
 ---
 
 
-Timo Maas(티모 마스)는, 1990년대부터 활약하는 독일의 레전드 DJ·프로듀서·리믹서. 이비자의 DC10, 베를린의 Tresor를 비롯해 국내외의 유명 클럽 & 페스티벌에서 플레이해, 2008년에는 자신의 라벨 Rockets & Ponies를 시작해, Wolfgang Haffner, Ricardo Villalobos, Maetrik, Nightmares on Wax, Addison Groove 등의 아티스트의 작품을
+Timo Maas(티모 마스)는, 1990년대부터 활약하는 독일의 레전드 DJ·프로듀서·리믹서. 이비자의 DC10, 베를린의 Tresor를 비롯해 국내외 유명 클럽 & 페스티벌에서 플레이하고, 2008년에는 자신의 라벨 Rockets & Ponies를 시작, Wolfgang Haffner, Ricardo Villalobos, Maetrik, Nightmares on Wax, Addison Groove 등의 아티스트의 작품을
 
 이 레코드는 2000년 UK의 레이블 Hope Recordings에서 발표된 테크노 트랙과 remix로 구성된 믹스 앨범.
 

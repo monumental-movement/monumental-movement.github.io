@@ -13,7 +13,7 @@ title: Manix – Manic Minds
 ---
 
 
-Manix (매닉스)는 4 Hero의 Marc Clair의 솔로 프로젝트. Manix는 UK의 올드 스쿨 브레이크 비트를 중심으로 한 당시의 레이브 장면에서 중요한 아티스트 중 한 명.
+「Manix(마닉스)」는, 4 Hero의 Marc Clair의 솔로 프로젝트. Manix는 UK의 올드 스쿨 브레이크 비트를 중심으로 한 당시의 레이브 장면에서 중요한 아티스트 중 한 명.
 
 【샘플 일람】
 Track Ai

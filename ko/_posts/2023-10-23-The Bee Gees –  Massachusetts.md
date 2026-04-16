@@ -14,7 +14,7 @@ title: The Bee Gees – Massachusetts
 ---
 
 
-"Massachusetts"(매사추세츠)는 Bee Gees가 1967년에 발표한 곡으로 세계적인 히트가 되었다. 이 곡의 메인 보컬은 Robin Gibb(로빈 깁).
+"Massachusetts"(매사추세츠)는 Bee Gees가 1967년에 발매한 악곡으로 세계적인 히트가 되었다. 이 곡의 메인 보컬은 Robin Gibb(로빈 깁).
 
 #### Tracklist
 ```md

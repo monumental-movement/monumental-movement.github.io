@@ -14,9 +14,9 @@ title: Lynch – I Found Out
 ---
 
 
-Lynch (린치)와 Roger Lynch (본명 Roger Troutman II)는 전설적인 US의 펑크 뮤지션 Roger Troutman (로저 트라우트만)의 아들.
+Lynch(린치)와 Roger Lynch(본명 Roger Troutman II)는 전설적인 US의 펑크 뮤지션 Roger Troutman(로저 트라우트만)의 아들.
 
-1989년에 Capitol Records에서 발매된 'I Found Out'은 Roger Troutman이 프로듀스하고 Lester Troutman, Larry Troutman 등 Zapp 멤버가 참가하고 있다.
+1989년에 Capitol Records에서 발매된 「I Found Out」은, Roger Troutman이 프로듀스해, Lester Troutman, Larry Troutman 등, Zapp(자프)의 멤버가 참가하고 있다.
 
 
 #### Tracklist

@@ -16,9 +16,9 @@ title: Modest Mouse – We Were Dead Before
 
 Modest Mouse(모데스트 마우스)는, 1992년에 워싱턴주에서 결성되어 현재는 오레곤주 포틀랜드를 거점으로 활동하는 US얼터너티 블록&인디 록 밴드.
 
-2007년에 Epic에서 발표된 이 앨범은, 빌보드 앨범 차트 1위를 획득한 모데스트 마우스의 대표작.
+2007년에 Epic에서 릴리스된 이 앨범은, 빌보드 앨범 차트 1위를 획득한 모데스트 마우스의 대표작.
 
-프로듀서는 The Hives(더 하이브스), Elvis Costello(엘비스 코스테로), Counting Crows(Counting Crows) 등을 다루는 Dennis Herring.
+프로듀서는 The Hives(더 하이브스), Elvis Costello(엘비스 코스텔로), Counting Crows(Counting Crows) 등을 다루는 Dennis Herring.
 
 
 #### Tracklist

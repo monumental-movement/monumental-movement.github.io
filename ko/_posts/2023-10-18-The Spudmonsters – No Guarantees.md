@@ -16,7 +16,7 @@ title: The Spudmonsters – No Guarantees
 
 The Spudmonsters(스패드 몬스터즈)는 오하이오주 클리블랜드 출신의 Don Foose, Scott Roberts, Steve Swanson, Eric Matthews, Chris Andrews에 의해 1987년에 결성된 US 슬래시 메탈, 하드 코어, 크로스 오버 밴드.
 
-'No Guarantees'는 1995년 독일 라벨 Massacre Records에서 출시되었다.
+「No Guarantees」는 1995년에 독일의 라벨 Massacre Records로부터 릴리스 되었다.
 
 #### Tracklist
 ```md

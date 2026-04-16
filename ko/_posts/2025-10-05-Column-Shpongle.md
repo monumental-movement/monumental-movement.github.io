@@ -106,7 +106,7 @@ Shpongle는 그 철학적 상징이었다.
 | 확장 | “A New Way to Say Hooray!” | 다층 타악기 | Lila (하나님의 놀이) |
 환상 | "Nothing Is Something Worth Doing" | 리듬 붕괴에서 재생 | Maya (환영) |
 | 해탈 | “Ineffable Mysteries” | 소리 소실 | Moksha(해방) |
-재생 | "The Magumba State" | 플루트의 귀환 | Saṃsāra (윤회) |
+| 재생 | “The Magumba State” | 플루트의 귀환 | Saṃsāra (윤회) |
 
 ---
 
@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-Shpongle의 노래는 한 노래에서 우주를 생성, 파괴, 재생합니다.
+Shpongle의 노래는 한 곡에서 우주를 생성, 파괴, 재생합니다.
 듣기 자체가 철학 행위이다.
 
 ---
@@ -185,7 +185,7 @@ flowchart TD
 **Brahman(룽)** | 소리의 창조 에너지 |
 **Maya(환상)** | 사운드의 변화와 다층화 |
 **Atman(我)** | 리스너의 내적 의식 |
-**Lila(희롱)** | 곡중의 유머와 변용 |
+** 릴라 (놀이) ** | 노래의 유머와 변화 |
 **Nāda(소리)** | 우주의 진동=음향 그 자체 |
 
 
@@ -325,11 +325,11 @@ Raja Ram는 말한다.
 
 > "나는 소리의 여인이다. 하나님을 찾는 대신 소리 속에서 깨어난다."
 
-Shpongle은 기술과 영성의 교차로에서 태어난 21세기 경전.
+Shpongle은 기술과 영성의 교차로에서 태어난 21 세기의 경전.
 전자음이 만트라가 되고, 비트가 명상이 되어, 듣는 것이 기도가 된다.
 
 소리는 태어나 변화하고 침묵으로 돌아가 다시 되살아난다.
-그 무한의 순환이야말로 「소리의 윤회(Saṃsāra of Sound)」이며, Shpongle가 그리는 세계 그 자체이다.
+그 무한한 순환이야말로 「소리의 윤회(Saṃsāra of Sound)」이며, Shpongle가 그리는 세계 그 자체이다.
 
 > “Nothing Lasts... But Nothing Is Lost.”
 > ― 모두는 사라졌지만 아무것도 잃지 않는다.

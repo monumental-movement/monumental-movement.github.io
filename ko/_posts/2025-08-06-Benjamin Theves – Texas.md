@@ -19,7 +19,7 @@ Benjamin Theves는 프랑스 출신의 일렉트로닉 아티스트/프로듀서
 
 '텍사스'는 전세계 파티에서 헤비플레이된 00년대 중기의 명작으로 벤자민 테브스의 데뷔작&대표작으로 알려져 있다.
 
-Texas는 2005년에 Patrick Alavi 주재의 라벨 Roxour의 제1탄으로 발표되었다. B면은, 「ReroX」라고 알려진 Patrick Alavi의 remix판. Patrick Alavi는 Funk/House/electronic을 mix한 스타일이 특징.
+Texas는 2005년 Patrick Alavi 주재의 라벨 Roxour의 제1탄으로 출시되었다. B면은, 「ReroX」라고 알려진 Patrick Alavi의 remix판. Patrick Alavi는 Funk/House/electronic을 mix한 스타일이 특징.
 
 
 #### Tracklist

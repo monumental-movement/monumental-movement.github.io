@@ -13,7 +13,7 @@ title: DSK – Work My Body Over (Sweat)
 ---
 
 
-DSK는 Davis-Stone-Klein (Larry Davis 래리 데이비스, Joe Stone 조 스톤, Paul Klein 폴 클라인)의 Hot Productions 팀에 의해 제작 된 하우스 댄스 뮤직 프로젝트.
+DSK는 Davis-Stone-Klein ( Larry Davis 래리 데이비스, Joe Stone 조 스톤, Paul Klein 폴 클라인)의 Hot Productions 팀에 의해 제작 된 하우스 댄스 뮤직 프로젝트.
 
 "Work My Body Over (Sweat)"는 활기차고 춤추기 쉬운 비트와 캐치 보컬이 특징이며, 90 년대에 댄스 클럽과 라디오에서 자주 플레이 된 한 곡.
 

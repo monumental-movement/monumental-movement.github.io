@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1. Tech House란 무엇인가
 
-Tech House의 일반적인 이해는 "하우스의 온도감을 유지하면서 테크노의 구조와 음향 처리를 도입한 댄스 뮤직"이다. 하우스의 펑키함과 바닥의 굵기를 남기면서 테크노에서 볼 수 있는 미니멀리즘, 금속적인 질감, 반복 구조가 결합된다.
+Tech House의 일반적인 이해는 "하우스의 온도감을 유지하면서 테크노의 구조와 음향 처리를 도입한 댄스 뮤직"이다. 하우스의 펑키함과 바닥의 두께를 남기면서 테크노에서 볼 수 있는 미니멀리즘, 금속적인 질감, 반복 구조가 결합된다.
 
 특징을 정리하면 다음과 같다.
 
@@ -132,7 +132,7 @@ Fabric은 1999년 개업 이후, 그 믹스 CD시리즈 「Fabric」 「Fabricli
 * Steve Bug (Poker Flat)
 * Booka Shade
 * M.A.N.D.Y.
-* Ricardo Villalobos (미니멀하지만 Tech House와도 교차)
+* Ricardo Villalobos (미니멀하지만 Tech House와 교차)
 * Loco Dice
 * Luciano
 * John Tejada
@@ -237,7 +237,7 @@ Tech House를 결정한 라벨로서 다음을 들 수 있다.
 * Hot Creations
 * Dirtybird
 
-이 라벨은 클럽 현장의 요구에 부응하는 기능성이 높은 트랙, 미니멀 지향 및 음향 처리의 정밀도를 고집하여 Tech House의 음상을 정의했다.
+이 라벨은 클럽 현장의 요구에 부응하는 기능성이 높은 트럭, 미니멀 지향 및 음향 처리의 정밀도를 고집하여 Tech House의 음상을 정의했다.
 
 ---
 

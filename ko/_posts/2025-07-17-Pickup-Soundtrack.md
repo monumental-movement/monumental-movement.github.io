@@ -19,7 +19,7 @@ title: 사운드 트랙 작품을 픽업
 ### Jerry Goldsmith – A Patch Of Blue
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
-형식: vinyl
+형식: 비닐
 
 작품: 1965년 공개 영화 '언젠가 본 푸른 하늘'(A Patch of Blue)의 사운드 트랙. 1978년 재발반.
 

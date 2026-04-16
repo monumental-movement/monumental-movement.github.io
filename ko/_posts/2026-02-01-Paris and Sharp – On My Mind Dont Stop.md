@@ -15,7 +15,7 @@ title: Paris & Sharp – On My Mind Don't Stop
 
 
 
-Paris & Sharp(Luis Paris & Martin Sharp)는 라벨 Stone Cold Records, Viper Records, Orient Recordings를 운영하고 있는 Luis Paris와 UK의 DJ/일렉트로하우스 프로듀서인 Martin Sharp의 유닛.
+Paris & Sharp(루이스 파리 & 마틴 샤프)는 Stone Cold Records, Viper Records, Orient Recordings라는 레이블을 운영하는 Luis Paris와 영국 DJ/일렉트로 하우스 프로듀서 Martin Sharp가 결성한 유닛입니다.
 
 "On My Mind / Don't Stop"은 라벨 Hammered Trax에서 2000 년에 출시 된 Trance / House 트랙.
 

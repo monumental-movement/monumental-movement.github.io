@@ -14,9 +14,9 @@ title: Urban Soul – I Got This Feeling
 ---
 
 
-Urban Soul과 Roland Clark는 애틀랜타 출신의 House/Deep House 프로듀서/DJ/songwriter/vocalist.
+Urban Soul Roland Clark는 애틀랜타 출신의 House/Deep House 프로듀서/DJ/songwriter/vocalist.
 
-「I Got This Feeling」은, 미국의 라벨 Music Station으로부터 1993년에 릴리스된 House/Garage House.
+「I Got This Feeling」은, 미국의 라벨 Music Station에서 1993년에 릴리스된 House/Garage House.
 
 #### Tracklist
 ```md

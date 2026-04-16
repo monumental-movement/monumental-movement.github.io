@@ -38,7 +38,7 @@ color: #fff;
 
 
 #### 1. The Winstons – “Amen, Brother” (1969)
-통칭 "**Amen Break**". 6초 드럼 솔로는 힙합, 정글, 드럼베이스, 하드코어 테크노 등 무수한 장르를 만들어냈다. N.W.A.와 Public Enemy부터 Aphex Twin, The Prodigy에 이르기까지 모든 프로듀서가 이 브레이크를 잘라냈다.
+통칭 "**Amen Break**". 6초의 드럼 솔로는 힙합, 정글, 드럼 베이스, 하드코어 테크노 등 무수한 장르를 만들어냈다. N.W.A.와 Public Enemy부터 Aphex Twin, The Prodigy에 이르기까지 모든 프로듀서가 이 브레이크를 자른다.
 전 드러머인 Gregory Coleman은 보상받지 못한 채 평생을 닫았지만, 그 스네어와 하이햇 사이에 머무르는 '그루브의 영혼'은 지금도 계속 울린다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxZuq57_bYM?si=9sRN2gAN9wrfNQmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -54,8 +54,8 @@ color: #fff;
 ---
 
 #### 3. The Clash – “Straight to Hell” (1982)
-M.I.A.의 'Paper Planes'에서 재부상한 애수의 기타와 타악기. 이민, 노동, 고독을 주제로 한 가사가 21세기 정치적 힙합에 호응한다.
-이 곡의 샘플링은 단순한 음재가 아니라 "반항의 유전자"로서 계승되고 있다.
+M.I.A.의 'Paper Planes'에서 재부상한 애수 기타와 타악기. 이민, 노동, 외로움을 주제로 한 가사가 21세기 정치적 힙합에 호응한다.
+이 곡의 샘플링은 단순한 음재가 아니라 "반항의 유전자"로 계승되고 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t7SvtikTkrM?si=FUZiDw4Zb60WldzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -196,11 +196,11 @@ The Roots, Eric B. & Rakim, Arrested Development 등이 사용. 드럼 브레이
 
 | 연대 | 사건 |
 |------|---------|
-| 1960s | 서울/펑크의 녹음 기술이 발전. 드럼 브레이크 문화의 싹. |
+| 1960s | 서울/펑크의 녹음 기술이 발전. 드럼 브레이크 문화의 모에. |
 | 1973 | Kool Herc이 블록 파티에서 "Apache"를 두 장 사용. 힙합 탄생. |
 | 1984 | Run-D.M.C.가 최초의 상업적 샘플링 히트를 달성. |
 1989 | Public Enemy 「Fear of a Black Planet」에서 다중 샘플링 기법이 확립. |
-| 1994 | Wu-Tang Clan, RZA의 "노이즈 샘플링"이 새로운 조류를 낳는다. |
+1994 | Wu-Tang Clan, RZA의 "노이즈 샘플링"이 새로운 조류를 낳는다. |
 | 2000s | Daft Punk, Kanye West가 서울 샘플을 팝화. |
 | 2020s | AI 샘플링 및 저작권 문제의 새로운 시대에. |
 

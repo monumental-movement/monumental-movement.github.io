@@ -14,7 +14,7 @@ title: Various – Viennatone
 
 
 "Various – Viennatone"은
-1999년에 독일의! k7 records로부터 릴리스된 작품입니다.
+1999년에 독일의! k7 records로부터 릴리스 된 작품입니다.
 
 #### Tracklist
 ```md

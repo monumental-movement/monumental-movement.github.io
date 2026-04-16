@@ -100,7 +100,7 @@ D3. String Of Pearls
 
 포맷: 2-track 12″
 
-특징: Charles Reix에 의하여 깊은 트랜스 트럭
+특징 : Charles Reix의 깊은 트랜스 트럭
 
 #### Tracklist
 ```md

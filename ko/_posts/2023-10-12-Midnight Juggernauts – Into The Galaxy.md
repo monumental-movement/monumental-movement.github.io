@@ -13,7 +13,7 @@ title: Midnight Juggernauts – Into The Galaxy
 ---
 
 
-Midnight Juggernauts(미드나이트 재규어 노트)는 2004년부터 2014년까지 활동한 호주 일렉트로닉 뮤직 밴드로 일렉트로닉, 인디, 신디팝 등의 요소를 도입한 독자적인 사운드로 인기를 얻었다. 'Into The Galaxy'는 그들의 대표곡 중 하나로 알려져 있다.
+Midnight Juggernauts(미드나이트 재규어 노츠)는 2004년부터 2014년까지 활동한 호주 일렉트로닉 뮤직 밴드로 일렉트로닉, 인디, 신디팝 등의 요소를 도입한 독자적인 사운드로 인기를 얻었다. 'Into The Galaxy'는 그들의 대표곡 중 하나로 알려져 있다.
 
 A면 2곡째는, 파리를 거점으로 하는 프랑스의 전자 음악 프로듀서 겸 라이브 퍼포머 팀이며, Chambre404의 창설자인 Chateau Marmont에 의한 remix.
 

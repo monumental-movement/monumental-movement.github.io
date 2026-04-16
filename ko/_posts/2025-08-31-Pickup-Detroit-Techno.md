@@ -9,7 +9,7 @@ permalink: /ko/pickup-detroit-techno/
 tags:
 - Detroit Techno
 - 90s
-title: 디트로이트 테크노(Detroit Techno) 작품을 픽업
+title: 디트로이트 테크노(Detroit Techno) 작품 픽업
 ---
 
 
@@ -112,7 +112,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 특징 : 미니멀을 기반으로 앰비언트, 브레이크 비트, 퓨처 재즈 등을 융합한 드라마틱한 음상.
 
-추천 포인트 : 깊이와 세련을 겸비한 앨범으로 청취자를 감정적인 여행에 초대한다. DJ나 리스너 불문하고, 차분히 듣고 싶은 작품.
+추천 포인트 : 깊이와 세련을 겸비한 앨범으로, 청취자를 감정적인 여행에 초대한다. DJ나 리스너 불문하고, 차분히 듣고 싶은 작품.
 
 #### Tracklist
 ```md
@@ -142,7 +142,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-특징 : 댄서블 그루브와 추상 실험성을 양립. 트랙 예 : "Tangible-Theory Proliferation (Ultradyne Remix)" "Fantasy Era".
+특징 : 댄서블 그루브와 추상 실험성을 양립. 트랙 예: "Tangible-Theory Proliferation (Ultradyne Remix)" "Fantasy Era".
 
 추천 포인트 : 탐구적인 테크노 체험을 요구하는 청취자에게 최적. 바닥이든 헤드폰이든 실험적인 사운드로 끌려갑니다.
 
@@ -201,7 +201,7 @@ AA2. Soundtrack
 
 특징: 클럽의 워밍업에 최적인 미니멀하고 긴장감이 있는 작품.
 
-추천 포인트 : 심플하면서도 서서히 쌓이는 음상이 플로어를 계약하고 세트의 초반부터 독자적인 세계관을 만들어 낼 수 있습니다.
+추천 포인트 : 심플하면서도 서서히 겹쳐지는 음상이 플로어를 계약하고 세트의 초반부터 독자적인 세계관을 만들어 낼 수 있습니다.
 
 #### Tracklist
 ```md

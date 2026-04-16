@@ -16,7 +16,7 @@ title: Hyena Featuring Ricky Trauma –I've Got To Dance
 Hyena Featuring Ricky Trauma의 'I've Got To Dance'는
 B면의 「Velvet Mix」가 추천.
 
-루이지 스탠가의 별로 알려지지 않은 프로덕션이지만, 필수 체크인 트랙입니다.
+루이지 스탠가에 의한 별로 알려지지 않은 프로덕션입니다만, 필수 체크인 트랙입니다.
 
 #### Tracklist
 ```md

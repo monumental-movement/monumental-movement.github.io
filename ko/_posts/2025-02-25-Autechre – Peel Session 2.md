@@ -15,7 +15,7 @@ title: Autechre – Peel Session 2
 ---
 
 
-Peel Session 2는 Autechre의 두 번째 존필 세션으로 1999년 9월 8일에 방송되었으며 CD는 2000년에 Warp Records에서 출시되었습니다.
+Peel Session 2는 Autechre의 두 번째 존필 세션으로 1999년 9월 8일에 방송되었으며 CD는 2000년 Warp Records에서 출시되었습니다.
 
 John Peel(존 필)에 처음으로 이 녹음이 전달되었을 때, 4곡째 「19 Headaches」이외의 트랙에는 이름이 붙어 있지 않았기 때문에, 그 자신이 트랙에 이름을 붙였다고 한다.
 

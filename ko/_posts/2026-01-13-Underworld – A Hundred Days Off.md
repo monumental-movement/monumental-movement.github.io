@@ -14,7 +14,7 @@ title: Underworld – A Hundred Days Off
 ---
 
 
-'A Hundred Days Off'는 2002년 영국의 일렉트로닉 뮤직그룹 Underworld(언더월드)가 발매한 6번째 앨범이며, 이 앨범은 2001년에 달렌 에머슨이 그룹 탈퇴 후 첫 앨범이다. 안셈 'Two Months Off'가 수록되어 있다. (일본판)
+'A Hundred Days Off'는 2002년 영국의 일렉트로닉 뮤직그룹 Underworld(언더월드)가 발표한 6번째 앨범이며, 이 앨범은 2001년에 달렌 에머슨이 그룹 탈퇴 후 첫 앨범이다. 안셈 'Two Months Off'가 수록되어 있다. (일본판)
 
 #### Tracklist
 ```md

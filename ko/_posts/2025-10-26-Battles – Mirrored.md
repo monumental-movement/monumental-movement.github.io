@@ -17,7 +17,7 @@ title: Battles – Mirrored
 
 Battles(배틀스)는, 2002년에 전 Don Caballero(돈 카바레로)&Storm & Stress의 Ian Williams(이안 윌리엄스)에 의해 결성된 체험 락 밴드.
 
-'Mirrored'는 2007년 Warp Records에서 출시된 Battles의 데뷔 앨범. 저명 미디어로 2007년도 베스트 앨범으로 선정되는 등 높은 평가를 받은 Battles의 대표작.
+'Mirrored'는 2007년 Warp Records에서 발매된 Battles의 데뷔 앨범. 저명 미디어에서 2007년도 베스트 앨범으로 선정되는 등 높은 평가를 받은 Battles의 대표작.
 
 이 CD는 보너스 트랙, 씰, 포스터가 들어간 일본판.
 
