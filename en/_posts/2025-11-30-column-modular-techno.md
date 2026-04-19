@@ -100,7 +100,7 @@ British-born Surgeon is known as one of the first artists to introduce modular s
 
 ## Ø [Phase]
 
-Ø [Phase], whose work focuses on a minimal and stoic sonic aesthetic in techno, actively utilizes modular synths in both studio and live production. It is particularly characterized by its complex phase modulation approach and the introduction of drone-like elements that utilize feedback loops, and has been praised for giving organic movement to minimal techno.
+Ø [Phase], whose work focuses on a minimal and stoic sonic aesthetic within techno, actively utilizes modular synths in both studio and live production. It is particularly characterized by its complex phase modulation approach and the introduction of drone-like elements that utilize feedback loops, and has been praised for giving organic movement to minimal techno.
 
 ## Richie Hawtin
 
@@ -296,6 +296,15 @@ graph LR
 Modular Techno is an extremely unique and innovative genre formed by the intersection of the freedom of modular synths and the rhythmic structure of techno. Technology, culture, sound, and performance are intertwined in a complex manner, and it continues to evolve and expand around the world.
 At the root of this is the most fundamental joy in electronic music: ""manipulating the moment when a sound is created live.''
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbEiN4noB24?si=r0UPXvEOLmhojRgK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

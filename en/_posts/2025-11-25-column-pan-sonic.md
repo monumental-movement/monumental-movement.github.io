@@ -67,10 +67,10 @@ He rarely uses commercially available synthesizers, instead focusing on the foll
 - Voltage control circuit
 - Physical materials such as amplifiers, metal pieces, magnetic coils, etc.
 
-As a result, Pan Sonic's sound has a rawness that sounds like a recording of the exact moment an electronic component operates. The sound is harsh, the particles are large, and it is overwhelmingly physical.
+As a result, Pan Sonic's sound has a rawness that sounds like a recording of the exact moment an electronic component operates. The sound is harsh, the particles are large, and it feels overwhelmingly physical.
 
 ## 2-2. Minimal structure
-Although the sonic material is extremely simple, the song has a detailed structure.
+Although the sonic material is extremely simple, the songs have a detailed structure.
 
 - repeating pulses
 - Finely fluctuating frequency

@@ -156,7 +156,7 @@ Many artists sought the feel of game consoles and PCM keyboards from the 90s.
 GM pianos, Choir Aahs, Strings, Pads, etc. Cheapness and nostalgia are treated as values.
 
 ### ■ Soft synth
-In modern times, the following are commonly used:
+In modern times, the following are often used:
 
 - **DSK free VST**
 - DSK ChoirZ, DSK Strings, etc.
@@ -181,7 +181,7 @@ Dungeon Synth emphasizes **repetition, a small number of motives, and long pads*
 - Focus on **diatone/simple melodies** rather than chromatic scales
 - Slow tempo (40-70 BPM)
 
-### ▼ Treatment of rhythm
+### ▼ Handling of rhythm
 Dungeon Synth is often **rhythmless (drumless)**.
 Even if there were, the only sounds were small toms, percussion, and light timpani.
 

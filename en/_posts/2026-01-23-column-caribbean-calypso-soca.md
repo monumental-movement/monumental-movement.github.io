@@ -45,7 +45,7 @@ color: #fff;
 
 ## Origin and formation of Calypso
 
-Calypso's origins date back to the 18th and 19th centuries on the island of Trinidad. The carnival culture introduced during the French colonial period and the call-and-response singing and improvisational poetry culture originating from West Africa, which centered on storytelling, intermingled to create a unique form of song. Originally sung in French-Creole, it was a form of social criticism that was difficult for the colonial powers to understand.
+Calypso's origins date back to the 18th and 19th centuries on the island of Trinidad. The carnival culture introduced during the French colonial period and the call-and-response singing and improvisational poetry culture originating from West Africa, centered on storytelling, intermingled to create a unique form of song. Originally sung in French-Creole, it was a form of social criticism that was difficult for the colonial powers to understand.
 
 In the late 19th century, under British rule, calypso expanded to urban areas while incorporating English. Before newspapers became popular, calypsonians were de facto reporters, reporting on scandals, politics, crime, and romance in verse. Lyric cleverness, irony, and double meaning were important evaluation criteria, and emphasis was placed on the sharpness of the words rather than the melody.
 
@@ -57,7 +57,7 @@ At this stage, calypso changed from mere folk music to urban popular music. Perf
 
 ## The inseparability of carnival and music
 
-Trinidad's Carnival is a cultural device whose music refuses to be understood in isolation. After the emancipation of slaves, carnival functioned as a place where physical expression and noise that had been suppressed were made public. Costumes, marches, percussion instruments, and songs come together to transform the urban space itself into a stage.
+Trinidad's Carnival is a cultural device whose music refuses to be understood in isolation. After the emancipation of slaves, carnival functioned as a place where physical expression and noise that had been suppressed were made public. Costumes, processions, percussion instruments, and songs come together to transform the urban space itself into a stage.
 
 Calypso is intensively produced and performed from the preparation period to the actual carnival, and the songs are completed by being danced. The audience was not passive consumers, but participants in the music by singing and chanting. This interaction made the evaluation of music more than just a recording.
 
@@ -71,7 +71,7 @@ Steelpans appeared in the early 20th century, and their acoustic characteristics
 
 In the first half of the 20th century, recording technology and radio broadcasting took calypso outside its borders. Recordings in the United States and England imposed certain restrictions on performance time, sound quality, and lyrical content, but in return they gained an international audience. As a result, obscene expressions and political criticism are suppressed, and more generic themes increase.
 
-During this process, calypso became increasingly consumed as exotic, tropical music. At the same time, however, a more radical and direct expression is maintained on the island, forming a dual structure. The division between foreign and domestic, recording and live performances, and official and unofficial music would later influence the birth of soca.
+During this process, calypso became increasingly consumed as exotic, tropical music. At the same time, however, a more radical and direct expression is maintained on the island, forming a dual structure. The division between foreign and domestic, recorded and live, and official and unofficial forms of soca later influenced the birth of soca.
 
 >While modernization expanded calypso, it also served as a test of its sharpness.
 
@@ -184,7 +184,7 @@ C --> D[carnival specialization]
 
 ## Technological innovation and 21st century soca
 
-With the spread of digital production environments, soca can now be mass-produced even on a low budget. As a result, the supply of music for each year's carnival increases explosively. On the other hand, the immediacy and speed of consumption are also accelerating, shortening the lifespan of songs.
+With the spread of digital production environments, soca can now be mass-produced even on a low budget.結果として、毎年のカーニバルに向けた楽曲供給は爆発的に増加する。 On the other hand, the immediacy and speed of consumption are also accelerating, shortening the lifespan of songs.
 
 SNS and video sharing culture have further strengthened the combination of dance and music. The choreography becomes inseparable from the music, and visual diffusion becomes a condition for success. This trend is creating new forms of expression while preserving the essence of festival music.
 

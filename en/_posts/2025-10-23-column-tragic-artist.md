@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Genealogy of destructive artists
 
 A destructive artist is one who turns the urge for self-destruction into a driving force for creation.
-Their history began with the birth of modern art.
+彼らの歴史は、近代芸術の誕生とともに始まった。
 
 In 19th century Romanticism, poets and painters considered "madness" to be a symbol of creativity.
 It extolled the nobility of the soul that cannot fit into society. Byron, Rimbaud, Van Gogh.

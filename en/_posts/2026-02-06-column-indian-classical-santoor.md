@@ -20,7 +20,7 @@ title: '[Column] Santoor: Sonic innovation and modern reinterpretation in Indian
 
 Text: mmr｜Theme: The history of the Indian classical musical instrument santoor and the overall picture of modern interpretations that continue to update the tradition
 
-Although the santoor is a relatively new mainstream instrument in Indian classical music, it is associated with an extremely ancient musical perspective. The structure, in which countless metal strings strung over a wooden resonance box are struck with thin mallets, does not separate melody and rhythm, but treats the particles of sound themselves as a flow of time.
+Although the santoor is a relatively new mainstream instrument in Indian classical music, it is associated with an extremely ancient musical perspective. The structure, in which countless metal strings strung over a wooden resonance box are struck with thin mallets, does not separate melody and rhythm, but treats the sound particles themselves as a flow of time.
 
 In Indian classical music, what is important is not ""where the melody goes" but ""how the notes rise and fall". The santour can be said to be the instrument that most directly visualizes this idea.
 
@@ -95,7 +95,7 @@ Since the late 20th century, advances in recording technology have had a signifi
 
 This has led to its application not only to solo performances but also to ensembles and film music.
 
-> Technology has expanded Santour's presence, not its volume.
+> Technology has expanded Santour's presence, not volume.
 
 ---
 
@@ -184,7 +184,7 @@ timeline
 
 The santur is not just a folk instrument. This is one answer to the question of how sound remembers time. When countless strings strike at the same time, the individual notes disappear and only the overall resonance remains.
 
-This characteristic is the reason why santours continue to be updated even in modern times.
+This characteristic is the reason why santour continues to be updated even in modern times.
 
 > The santour is not an instrument that preserves the past, but a device that transforms the past into the present.
 

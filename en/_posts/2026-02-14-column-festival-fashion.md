@@ -166,7 +166,7 @@ graph TD
 
 ---
 
-## List of materials and trending colors by generation
+## List of materials and trending colors by era
 
 ### 1960s-1970s
 
@@ -202,7 +202,7 @@ graph TD
 *Top: tie dye shirt
 *Bottom: Bell bottom jeans
 *Accessories: flower crown, beaded necklace
-* Shoes: Sandals
+* Shoes: sandals
 
 ### Punk London Style (1976)
 

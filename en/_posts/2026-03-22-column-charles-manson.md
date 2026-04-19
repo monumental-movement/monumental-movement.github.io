@@ -167,7 +167,7 @@ graph TD
 
 ## Media and Mythologization
 
-The Manson incident is being consumed not just as a crime, but as a ""story.'' Newspapers, television, and books depicted him as a symbol of evil, and his image expanded.
+The Manson incident is being consumed not just as a crime, but as a ""story''. Newspapers, television, and books depicted him as a symbol of evil, and his image expanded.
 
 At the same time, his existence came to be talked about as a kind of myth, and influenced culture such as music and movies.
 

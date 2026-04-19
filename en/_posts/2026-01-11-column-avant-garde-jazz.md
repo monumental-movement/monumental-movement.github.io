@@ -18,7 +18,7 @@ title: '[Column] Avant-Garde Jazz—a movement that dismantled structure and red
 
 ## Prologue: The moment when jazz stepped into the "unknown"
 
-Text: mmr｜Theme: On the essence of Avant-Garde Jazz, which is often distanced from others as a music of solution.
+Text: mmr｜Theme: On the essence of Avant-Garde Jazz, which is often distanced from the mainstream as a music of solution.
 
 
 In the mid-20th century, jazz seemed like a mature music. There were distinct styles: swing, bebop, and hard bop, and a shared language of chord progressions, time signatures, and solo structures. However, in the late 1950s, a movement began to doubt this very premise, quietly but surely. Does music really need to follow harmony and form? How free can improvisation be? The movement that would later be called ""Avant-Garde Jazz'' was born from these questions.

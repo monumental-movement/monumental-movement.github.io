@@ -23,7 +23,7 @@ Jump scares are a thing of the past, and instead low frequencies, environmental 
 This was also an application of the psychoacoustic discovery that hearing affects the deeper psyche more directly than vision.
 
 Horror movies of this era not only gave fear, but also ""eroded"' the audience"s inner world through sound.
-At the center of this change was a new generation of production studios such as A24 and Blumhouse.
+At the center of this change were a new generation of production studios such as A24 and Blumhouse.
 
 ---
 
@@ -165,7 +165,7 @@ Fear is no longer confined to the ears of individuals.
 ### Final chapter: Fear is audible — the cultural significance of modern horror audio
 
 In horror films since 2010, sound has gone beyond mere presentation and has become a medium that questions the very existence of the film.
-Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritualistic rhythm.
+Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritual rhythm...
 All of these are acoustic translations of the question, "What is fear?"
 
 The sounds of horror resonate with social anxiety and individual loneliness.

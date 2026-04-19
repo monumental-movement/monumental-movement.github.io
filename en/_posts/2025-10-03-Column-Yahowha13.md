@@ -216,7 +216,7 @@ In 2009, a compilation of unreleased songs such as [Magnificence in the Memory](
 ---
 
 
-#### Reunion/activities
+#### Reunion/Activities
 
 In 2007, the original members (Sunflower, Octavius, Djin) reportedly performed live for the first time in 33 years.
 
@@ -237,7 +237,7 @@ It is argued that his orientation toward improvisation, spatiality, and transcen
 
 In fields such as commune culture, cult movements, and outsider music research, the existence of Yahowha13/Source Family has become a typical example and subject of research.
 
-On the other hand, it also includes a controversial approach that includes ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
+On the other hand, it also includes controversial topics such as ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
 
 ---
 
@@ -309,7 +309,7 @@ Fact: Many tracks are centered around chants, fragmented lines, and religious de
 
 Main motif:
 
-Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - Divine name/sacred role.
+Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - divine name/sacred role.
 
 
 References to the archetypal "travel/purification/elements (fire/water/air/earth)" — a symbol that also appears in the album/song titles.
@@ -563,3 +563,14 @@ More than just psychedelic rock, Yahowha 13 and Father Yod's music was a sonic r
 His recordings, such as the albums Penetration: An Aquarian Symphony and I"m Gonna Take You Home, document a fusion of religious ritual and psychedelic improvisation that remains evocative even to modern listeners. It has been reevaluated in the United States as a document of cult history, in Germany as an acoustic experiment, and in Japan as an esoteric psychedelic religion, with each culture developing its own unique interpretations.
 
 Today, through streaming and reissues, Yahowha 13's music is widely accessible, and their cult past has culminated in their influence on the contemporary music scene. The spirit of Father Yod and the experimental spirit of Source Family go beyond mere music and continue to challenge new generations to the possibilities of community, improvisation, and spirituality.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vwL9ksLh3gg?si=DyXwowHOZrYRirsi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

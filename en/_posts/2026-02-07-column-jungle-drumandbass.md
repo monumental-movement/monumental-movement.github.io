@@ -85,7 +85,7 @@ Even so, the sample culture centered around the Amen Blake continued to be inher
 
 ## Temporary decline and mainstreaming
 
-In the mid-2000s, drum"n"bass became incorporated into pop music and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the attention level relatively declined.
+In the mid-2000s, drum"n"bass became incorporated into pop music and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the level of attention to it decreased relatively.
 
 However, the genre itself did not disappear during this period, and the underground scene continued to see releases and events. In fact, in some ways, the lack of outside attention has led to a deepening of introversion.
 
@@ -105,7 +105,7 @@ Also, with the spread of the Internet and distribution platforms, it has become 
 
 ## Influence on contemporary music
 
-There are many rhythmic structures in current electronic music, hip-hop, and experimental music that have clear influences from jungle/drum"n"bass. The irregular, propulsive beat in particular has been cited across genres.
+In today"s electronic music, hip-hop, and experimental music, there are many rhythmic structures that clearly have a jungle/drum"n'bass influence. The irregular, propulsive beat in particular has been cited across genres.
 
 This influence is often more structural than timbral, and extends to reinterpretations of breakbeats.
 

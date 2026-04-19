@@ -395,7 +395,7 @@ He presented a perspective that is still relevant even after more than 20 years.
 The legacy of Company Flow is
 It goes beyond the value of mere musical works.
 
-* Indie possibilities
+* Possibility of indie
 * Artist autonomy
 * Significance of politics
 * Underground as aesthetics

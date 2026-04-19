@@ -114,7 +114,7 @@ The visuals presented along with the music do not serve to explain the worldview
 
 Carpenter Brut represents a different direction in electropop experimentation.
 
-### Acoustic characteristics
+### Acoustic features
 
 * Synthwave tone design
 * Extremely emphasized rhythm and distortion
@@ -197,7 +197,7 @@ However, rather than simply merging these elements, it is distinctive in that it
 By including the production process and visual information, listeners simultaneously experience the following:
 
 * Listening to music
-*Imagination of the production process
+* Imagining the production process
 * Observation of creator personality
 * Visual narrative interpretation
 

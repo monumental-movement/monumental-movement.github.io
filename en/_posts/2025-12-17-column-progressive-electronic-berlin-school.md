@@ -59,7 +59,7 @@ At the same time, a movement to fuse rock and avant-garde art was gaining moment
 
 Tangerine Dream was formed in 1967, and their early work combined rock formations with avant-garde improvisation. In the early 1970s, he began composing using synthesizers and sequencers.
 
-What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-length structure that musicalizes the flow of time itself, which differs from traditional song formats.
+What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-form structure that musicalizes the flow of time itself, which differs from traditional song formats.
 
 ### Klaus Schulze
 
@@ -77,13 +77,13 @@ Ash Ra Tempel began as a project that fused electronic sounds, guitar, and impro
 
 ### Repeat structure with sequencer
 
-The most distinctive element of the Berlin School is the repetitive sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
+The most distinctive element of the Berlin School is the repeated sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
 
 ### Long format
 
 While traditional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
 
-### Tone design
+### Sound design
 
 The instability and fluctuation of analog synthesizers became part of the sonic aesthetic of the Berlin School. The minute deviations caused by temperature changes and voltage fluctuations give an organic look to mechanical repetition.
 
@@ -167,7 +167,7 @@ In order to accurately understand the Berlin School, it is necessary to organize
 
 ### Before Kraftwerk
 
-Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock, and also a release from academic electronic music.
+Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock and academic electronic music.
 
 ### After Kraftwerk
 

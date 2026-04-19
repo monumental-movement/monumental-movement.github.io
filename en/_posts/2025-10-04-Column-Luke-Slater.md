@@ -135,7 +135,7 @@ The 7th Plain = "The deep world of ambient techno" by Luke Slater.
 | Year | Album name | Features | Link |
 | ---- | --------------------- | --------------------- | ------------------------------------------ |
 | 1994 | *The 4 Cornered Room* | A masterpiece of ambient techno | [Amazon](https://amzn.to/4nttGUI) |
-| 1994 | *My Yellow Wise Rug* | Experimental work with a high sense of space | [Amazon](https://amzn.to/3VOULWo) |
+| 1994 | *My Yellow Wise Rug* | Experimental work with a high degree of spatiality | [Amazon](https://amzn.to/3VOULWo) |
 | 2016 | *Chronicles I* | Archive collection (Warp Records period) | [Amazon](https://amzn.to/4mK8uJ7) |
 | 2016 | *Chronicles II* | Second archive collection | [Amazon](https://amzn.to/4gYSJN4) |
 | 2018 | *Chronicles III* | Collection including unreleased sound sources | [Amazon](https://amzn.to/4mPG9AW) |
@@ -202,7 +202,7 @@ Under his solo name, he is known for a wide range of works spanning techno, elec
 
 **Position**
 
-Slater is acclaimed as a flexible creator who crosses scenes, combining the hardness of techno with a pop sensibility.
+Slater is acclaimed as a flexible creator who traverses the scene, balancing the hardness of techno with a pop sensibility.
 It laid the foundation for later aliases such as Planetary Assault Systems and The 7th Plain.
 
 ---

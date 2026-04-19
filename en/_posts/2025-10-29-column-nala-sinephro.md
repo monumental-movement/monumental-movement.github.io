@@ -19,7 +19,7 @@ title: '[Column] Nala Sinephro - Sound Breathing and Cosmic Silence: The Current
 
 Text: mmr｜Theme: Jazz is not about technique or genre expansion, but about the fundamental question of what sound can bring to humans.
 
-When we first come into contact with Nala Sinephro's music, we are forced to let go of the concept of a "song."
+When we first hear Nala Sinephro's music, we are forced to let go of the concept of a "song."
 His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation as if it were breathing.
 
 Harp, tenor saxophone, modular synthesizer, and space itself.
@@ -61,7 +61,7 @@ As she says, the sound is layered as "grains" and refracts time like light.
 ## Chapter 2: Structure of "Space 1.8" and transformation of consciousness
 
 The track structure of Space 1.8 is reminiscent of a yoga or meditation session.
-From Space 1 to Space 8 -- all songs are arranged like "breathing phases".
+From Space 1 to Space 8 - all songs are arranged like "breathing phases".
 
 - **Space 1:** "Entrance" where subtle modular sounds open up the space
 - **Space 2:** Harp and saxophone dialogue, inner vibration
@@ -140,7 +140,7 @@ At the same time, it is also a declaration of slowness in response to the speed 
 | 2018 | Join Total Refreshment Center and start improvisational sessions |
 | 2021 | "Space 1.8" released from Warp Records |
 | 2022 | International recognition gained by Gilles Peterson and others |
-| 2024 | New production/modular live project start |
+| 2024 | Start of new production/modular live project |
 
 ---
 

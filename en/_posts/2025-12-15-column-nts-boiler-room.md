@@ -54,7 +54,7 @@ A feature of NTS is that it does not give any particular genre an advantage in p
 
 Boiler Room started out as a project to stream small indoor DJ events in London. The camera enters the same space as the DJ, and is characterized by a format that includes the presence of the audience.
 
-This format differs from traditional video recording, where a camera is placed behind the DJ booth, in that the audience, space, and performers are all in the same frame. As a result, DJ performance has been visualized as an expression that includes "physical and social behavior" rather than an act of "only sound."
+This format differs from traditional video recording in which a camera is installed behind the DJ booth, and has a structure in which the audience, space, and performers are all in the same frame. As a result, DJ performance has been visualized as an expression that includes "physical and social behavior" rather than an act of "only sound."
 
 ---
 
@@ -64,7 +64,7 @@ DJ sets at NTS and Boiler Room tend to be different from peak-time club setups. 
 
 Particularly in NTS, long sets lasting over two hours are common, and a style that gently builds a narrative while crossing genres is often seen. On the other hand, Boiler Room has many relatively short sets, emphasizing the development in sync with the heat of the space.
 
-> "The conditions of live streaming changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
+> "The condition of live streaming has changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
 
 ---
 
@@ -148,7 +148,7 @@ The facts summarized in this paper will serve as a foundation for considering fu
 The practice of the live streaming artists appearing on NTS and Boiler Room is more about ""music as a body of movement'' than the name of a genre.
 
 DJ sets and experimental performances in live streams are presented as a state of continuous change over time, rather than as a finished piece of work.
-This can be regarded as "recordable movement."
+This can be viewed as "recordable movement."
 
 > "The moment music rejects fixed formats, its movement becomes most evident."
 
@@ -166,7 +166,7 @@ On NTS, it has been confirmed that there are many cases in which material in the
 
 ## Supplementary Chapter 3 Example density across genres
 
-Looking at the activities of live streaming artists, cross-genre is the norm rather than the exception. Fragments of dance music, noise, jazz, folk music, and pop are concatenated within the same set.
+Looking at the activities of live streaming artists, cross-genre is the norm rather than the exception. Fragments of dance music, noise, jazz, folk music, and pop are concatenated in the same set.
 
 This is more a result of changing listening conditions in the distribution environment than an intentional avant-garde. Listening for long periods of time in a private environment allows for rapid genre changes.
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 

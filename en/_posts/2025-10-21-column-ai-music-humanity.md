@@ -23,7 +23,7 @@ Text: mmr | Theme: An era where AI creates music and humans reinterpret it. In a
 Music in 2025 will no longer be talked about in terms of "genre."
 The listening experience on Spotify and Apple Music is being reorganized to fit the mood, time, and occasion, going beyond the categories of "rock," "hip-hop," and "electronica."
 
-""Listening on a rainy day," ""Track at 2 a.m." and ""A morning spent with coffee." These list titles indicate a new value: ""context over genre."
+"Listening on a rainy day," "Track at 2 a.m.," "Morning with coffee" -- these list titles indicate a new value: "context over genre."
 Music is talked about not in terms of what it's made of, but in terms of how it resonates/fits situations.
 
 At the heart of this change are AI, nostalgia, and the listener's own "memory."
@@ -95,7 +95,7 @@ The tempo is slow, the kick is deep, the bass is organic - "stillness for dancin
 
 #### City Pop Re-evaluation: Reimported from the East
 
-After the Japanese song [**Mariya Takeuchi "Plastic Love"**] (https://amzn.to/3J6YPhZ) became viral again overseas, City Pop was reorganized globally as "Asian Nostalgia."
+After the phenomenon of [**Mariya Takeuchi's "Plastic Love"**](https://amzn.to/3J6YPhZ), which originated in Japan, went viral overseas, City Pop was reorganized globally as "Asian Nostalgia."
 As of 2025, young artists from Thailand, Indonesia, and South Korea are re-creating the "Oriental Dream" by quoting City Pop-style chord progressions and textures.
 The center of global pop is not just Los Angeles, but has expanded to Bangkok, Seoul, and Tokyo.
 
@@ -128,7 +128,7 @@ The characteristic of 2025 is the coexistence of stillness (Minimal) and density
 #### "Quiet club" and "introspective electronica"
 
 The popularity of ""slow grooves" such as Afro House and Amapiano symbolizes an era in which dancing can also be ""introspection".
-Sets of 100 to 110 BPM are becoming the norm in clubs in Berlin and Seoul, creating a space where you can "think while dancing."
+In clubs in Berlin and Seoul, sets of 100 to 110 BPM are becoming the norm, creating a space where you can "think while dancing."
 In Japan, food festivals a.k.a foodman and yahyel are exploring "quiet club music."
 
 #### On the contrary, there is also a movement to master "density"

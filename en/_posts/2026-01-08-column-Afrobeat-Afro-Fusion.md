@@ -20,7 +20,7 @@ title: '[Column] Afrobeat / Afro-Fusion - Structural changes and global expansio
 Text: mmr｜Theme: The fact that Afrobeat developed around Nigeria's live culture, how Afro-Fusion came to be used in a cross-border production and distribution environment, and the history of the music industry and diaspora movements.
 
 
-Afrobeat and Afro-Fusion are musical cultures that originated in West Africa, particularly Nigeria and Ghana. Although the two are often confused, they have different historical backgrounds, musical structures, and social roles. This article organizes the history from the establishment of Afrobeat to the development of Afro-Fusion, based only on verifiable facts, and comprehensively describes changes in musical characteristics, production techniques, social context, and international reception.
+Afrobeat and Afro-Fusion are musical cultures that originated in West Africa, particularly Nigeria and Ghana. Although the two are often confused, they have different historical backgrounds, musical structures, and social roles. This article organizes the history from the establishment of Afrobeat to the development of Afro-Fusion based only on verifiable facts, and comprehensively describes changes in musical characteristics, production techniques, social context, and international reception.
 
 > "This article avoids evaluation and subjective interpretation and consists only of information based on historical materials, testimonies, and recorded historical facts."
 

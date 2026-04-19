@@ -92,7 +92,7 @@ Representative of the 2010s SoundCloud generation. It gained popularity due to i
 
 ### Idealism
 
-Their melodic, piano-based Lo-Fi beats have expanded their support in the streaming era.
+Their melodious, piano-based Lo-Fi beats have expanded their support in the streaming era.
 
 > The major artists shared an attitude of emphasizing production aesthetics over commercialism.
 
@@ -105,7 +105,7 @@ Their melodic, piano-based Lo-Fi beats have expanded their support in the stream
 *Toppabeats "Monday Loop"
 * Idealism "Snowfall"
 
-These songs share the characteristic of avoiding complex developments and presenting texture and atmosphere within short loops. The volume changes are small and there are no lyrics, so it's hard to distract.
+These songs share the characteristic of avoiding complex developments and presenting texture and atmosphere within short loops. The volume changes are small and there are no lyrics, so it doesn't distract you.
 
 <div class="mermaid">
 flowchart LR
@@ -159,6 +159,6 @@ Music with a repetitive structure is suitable for loop playback. 24-hour distrib
 
 For a generation raised on YouTube and streaming, algorithmic recommendations and playlist culture are the norm, and Lo-Fi was a natural fit for that context.
 
-> The popularity of Lo-Fi hip-hop is not a coincidence; it is shaped by the interaction between acoustic structures and the digital environment.
+> The popularity of Lo-Fi hip-hop is not a coincidence, but is shaped by the interaction of acoustic structures and digital environments.
 
 ---

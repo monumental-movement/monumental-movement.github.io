@@ -16,7 +16,7 @@ title: Carabao – Made In Thailand Vol.5
 
 Carabao, formed in the Philippines in 1982 by Yuanyong Opakul (also known as Aed) and Kirati Promsaka Na Sakon Nakhon, is a Thai rock band that is very popular in Thailand and other Asian countries.
 
-"Made in Thailand" is Carabao"s fifth album released in 1984 (2527 on the Thai calendar), and is Carabao"s masterpiece, which became a huge hit and sold a total of 5 million copies.
+"Made in Thailand" is Carabao"s fifth album, released in 1984 (2527 on the Thai calendar), and is Carabao"s masterpiece, which became a huge hit and sold a total of 5 million copies.
 
 #### Tracklist
 ```md

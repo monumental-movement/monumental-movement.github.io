@@ -136,7 +136,7 @@ This system allowed the audience to receive the same acoustic experience no matt
 
 Grateful Dead fans are called "Deadheads" and have formed their own culture. They followed tours, shared information and built their own networks.
 
-### Tape culture
+### Tape Culture
 
 Bands allow live recordings, and a culture develops where fans exchange recordings with each other. This frees music from centralized distribution.
 
@@ -154,7 +154,7 @@ Tours are more than just performances; they form a mobile community. A market wi
 
 Artists such as Jefferson Airplane and Janis Joplin were active around the same time, and the region as a whole was forming its own music scene.
 
-### Genre Deconstruction
+### Genre deconstruction
 
 Blues, folk, rock, and jazz merge, and existing classifications become meaningless. This freedom is the hallmark of the San Francisco sound.
 
@@ -225,7 +225,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[san francisco] --> B[counterculture]
+    A[san francisco] --> B[counter culture]
     B --> C[Grateful Dead]
     C --> D[improvisation]
     C --> E[dead heads]

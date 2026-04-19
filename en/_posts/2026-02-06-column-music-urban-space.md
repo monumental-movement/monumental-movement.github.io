@@ -48,7 +48,7 @@ In the early 20th century, New Orleans was a port city where diverse cultures in
 
 ### New York and Tin Pan Alley
 
-In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry established a format for popular music that reflected the city's speed and commerciality.
+In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry defined the format of popular music, reflecting the city's speed and commerciality.
 
 > Modern cities had the power to push music from improvisation to industry.
 
@@ -187,7 +187,7 @@ Here, music defines the space first, followed by urban functions. Clubs were mor
 
 Detroit techno is an extension of the urban rhythms shaped by the automobile industry. Regular mechanical movements, wide roads, and the hollowing out that followed the population exodus fostered an inorganic and persistent sense of beat.
 
-Here, techno became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
+Techno here became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
 
 > Detroit's music preserves in sound the form of what the city has lost.
 
@@ -199,7 +199,7 @@ Here, techno became more than just entertainment, it became a device for abstrac
 flowchart TB
 A[high density housing] --> B[Low volume/high resolution oriented]
 C[hollowed out area] --> D[Loud volume/repetitive structure]
-E[Redevelopment area] --> F[Accumulation of club culture]
+E[redevelopment area] --> F[Accumulation of club culture]
 </div>
 
 Urban structures directly determine the volume, repeatability, and environment in which music is played. This is a consequence of living conditions, not a cultural choice.
@@ -212,7 +212,7 @@ Urban structures directly determine the volume, repeatability, and environment i
 
 <div class="mermaid">
 flowchart LR
-A[on the road] --> B[hole]
+A[on the street] --> B[hole]
 B --> C[club]
 C --> D[online space]
 </div>
@@ -249,7 +249,7 @@ The scale of the city is smaller than Tokyo, and the music scene circulates in v
 
 Musical culture in local cities has matured on its own timeline, while being influenced by the central government. Due to Fukuoka's geographical proximity to Asia and its character as a port city, it has been quick to accept foreign culture, and clubs and live music venues tend to cluster in the city center.
 
-Due to the climate and size of the city, Sapporo has a strong indoor orientation, and events that cross genres are held for a long time. The urban margins have functioned as spaces for experimental expression.
+Due to the climate and size of the city, Sapporo has a strong indoor orientation, and events that cross genres are held for a long time. The urban margins have functioned as a space for experimental expression.
 
 > Regional cities have matured music at a different rate than the central region.
 

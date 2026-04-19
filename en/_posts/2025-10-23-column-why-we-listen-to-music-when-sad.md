@@ -112,7 +112,7 @@ The pain of an individual is transformed into the voice of the times.
 ## Chapter 5: "Aesthetics of Sadness" in Japanese Culture
 
 In Japan, there has been a concept called ""mono aware'' since ancient times.
-This idea does not deny sadness, but rather affirms it as a ""beautiful emotion.''
+This is an idea that does not deny sadness, but rather affirms it as a ""beautiful emotion.''
 From gagaku's ""Ettenraku'' to the narration of biwa priests, and even enka,
 Music in Japanese culture consistently contains a sense of sadness.
 
@@ -202,7 +202,7 @@ Music is a medium that turns sadness into love.
 | Sadness | Amygdala/Insular Cortex | Slow tempo, minor chord | Lacrimal gland stimulation, slow heart rate |
 | Relief | Prefrontal cortex/nucleus accumbens | Gentle harmony | Stable breathing, increase in alpha waves |
 | Empathy | Medial prefrontal cortex | Vocal-centered structure | Oxytocin secretion |
-| Regeneration | Cingulate cortex | Crescendo structure | Dopamine rise |
+| Regeneration | Cingulate Cortex | Crescendo Structure | Dopamine Rise |
 
 
 >"When you are sad, you listen to music not because you are afraid of silence.
@@ -234,7 +234,7 @@ graph TD
     B -->|elicit an emotional response| D[Cingulate cortex: Empathy/self-consciousness]
     C -->|Pleasure evaluation| E[Nucleus accumbens: dopamine reward system]
     D -->|Synchronization with other people's emotions| F[Insular cortex: generation of bodily empathy]
-    E -->|Increase satisfaction| B
+    E -->|Amplify your sense of satisfaction| B
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#b2df8a,stroke:#66a61e

@@ -85,7 +85,7 @@ While Happy End, who were active at the same time, presented a sophisticated for
 
 Chabo's staging left a strong impression on the audience. Rather than "singing" the lyrics, he expressed them using his entire body. Their appearance completely deviated from the conventional framework of popular songs and folk music.
 
-The band's performance as a whole was also extremely unstable, creating a unique sense of tension. Tempo fluctuations, pitch instability, sudden stops—all were part of the live show.
+The band's performance as a whole was also extremely unstable, creating a unique sense of tension. Tempo fluctuations, pitch instability, sudden stops—all were part of the live performance.
 
 Although this type of expression was considered immature by the mainstream music of the time, it also had a strong sense of reality. It was not complete music, but a sound that only existed ""in this moment.''
 

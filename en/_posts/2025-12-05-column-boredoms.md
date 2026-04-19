@@ -219,7 +219,7 @@ Since the early 1990s, Ai has been using turntables and cassettes as materials, 
 ## 7.3 Inclination to Rhythm (2000s)
 During the bore drum period, Ai's interest shifted greatly to the physical aspects of rhythm, and his role as a conductor became central.
 
-### Eye expression evolution
+### Evolution of Eye expression
 
 <div class="mermaid">
 flowchart TD

@@ -296,7 +296,7 @@ Highways remain unchanged. asphalt, guardrails, and lighting. They are just stru
 
 However, it is humans who give meaning to it.
 
-The time of night, the state of solitude, the act of speed. When they overlap, the space changes into something else.
+The time of night, the state of solitude, the act of speed. When they overlap, the space transforms into something else.
 
 It is not a myth in the religious sense. However, when it is repeated, passed down, and shared, it certainly takes on a "mythical" quality.
 

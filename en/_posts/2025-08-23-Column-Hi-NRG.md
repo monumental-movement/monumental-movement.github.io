@@ -52,7 +52,7 @@ For example, Evelyn Thomas"s ""High Energy" and Hazell Dean"s ""Searchin"' becam
 
 🌈 Fusion with drug culture
 
-Bobby Orlando"s Divine songs (e.g. "You Think You"re a Man") are symbolic of the direct connection between Hi-NRG and drag queen culture. Her performances were radical and provocative, breaking down the boundaries of music and gender expression.
+Bobby Orlando"s Divine songs (e.g. "You Think You"re a Man") are emblematic of the direct connection between Hi-NRG and drag queen culture. Her performances were radical and provocative, breaking down the boundaries of music and gender expression.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd2Gzkkwe9Q?si=1vDrkwCLzK8yabnV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ A UK Hi-NRG singer who was so supported in the club scene that she was called th
 
 **Divine**
 
-While active as a drag queen, she gained worldwide attention with Hi-NRG. They boldly displayed sexual expression and integrated music and gender politics.
+While active as a drag queen, she gained worldwide attention with Hi-NRG. Boldly displaying sexual expression, they integrated music and gender politics.
 
 **Evelyn Thomas**
 A diva who defined the genre with her signature song "High Energy." It was explosively popular in gay clubs and spread Hi-NRG worldwide.

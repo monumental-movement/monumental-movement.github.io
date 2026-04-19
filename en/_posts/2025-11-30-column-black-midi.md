@@ -20,7 +20,7 @@ title: '[Column] Black Midi — The impact of experimental rock from London and 
 
 Text: mmr｜Theme: From their formation to their main works, their evaluation both domestically and internationally, and their influence on subsequent bands and culture.
 
-Black Midi is a young rock/experimental music band formed in London in 2017. Just a few years after their debut, they shocked the world of indie rock with their bold sound, overwhelming performance, and unpredictable live structure that went beyond the boundaries of conventional rock and post-punk.
+Black Midi is a young rock/experimental music band formed in London in 2017. Just a few years after their debut, they shocked the world of indie rock with their bold sound, overwhelming performance, and unpredictable live structure that went beyond traditional rock and post-punk.
 
 ---
 
@@ -65,7 +65,7 @@ A brief history of Black Midi's discography and the characteristics of each work
 | **2018** | Single **"bmbmbm" and others** | **First release from Speedy Wunderground. **<br>From here on, the band's official activities began in earnest. Strong minimalism and repetitive noise aesthetics emerged as early characteristics.                                                                                            |
 | **2019** | **1st album "Schlagenheim"** | **Produced by: Dan Carey. Recorded in just a few days. **<br>Introducing a variety of tones such as synths, organs, banjos, and drum machines while maintaining a live-like energy. <br><br>**Critical review**: Top 50 UK charts, Mercury Prize nominee. <br>It has been described as "the most important debut work of the end of the 2010s" due to its rough yet dense construction. |
 | **2021** | **2nd album "Cavalcade"** | **The compositional and chamber music approach is clearly expanded from the previous work. **<br>Adds saxophone, viola, keyboard, etc., and integrates vocabulary such as jazz, progressive rock, post-punk, and contemporary music. <br>The signature song "John L" combines chaotic structure + cult fable + theatricality, and the band's "coexistence of frenzy and precision" reaches its peak.                                       |
-| **2022** | **3rd album "Hellfire"** | **The most "theatrical" work with even stronger story, character, and allegory. **<br>A mixture of noise, odd time signatures, baroque developments, and kabare-style storytelling. <br>The structure is such that each song takes place in a different setting, with themes of black humor, war fables, and sin and redemption. <br><br>**Characteristics after this period**: A policy of actively creating differences between studio works and live reinterpretations has become established.          |
+| **2022** | **3rd album "Hellfire"** | **The most "theatrical" work with even stronger story, character, and allegory. **<br>A mixture of noise, odd time signatures, baroque developments, and kabare-style storytelling. <br>The structure is such that each song takes place in a different setting, with themes of black humor, war fables, and sin and redemption. <br><br>**Characteristics after this period**: A policy of actively creating differences between studio works and live reinterpretations took hold.          |
 | **2022** | **Live album "Live Fire"** | **Fest recording in Portugal. **<br>The songs from the "Hellfire" period have been reconstructed live, emphasizing improvisation and the passion of the performance. <br>This work contains many different interpretations from the studio version, and defines "Black Midi as a live band."                                                                    |
 
 Through these works, Black Midi has evolved from "improvisation to construction," "from noise to structure," and "from live chaos to studio precision."
@@ -80,7 +80,7 @@ We will summarize the domestic and international criticism, media, and fan react
 
 - Their debut album *Schlagenheim* was highly praised by many critics as ""unpredictable," ""edgy sound," and ""breaking the boundaries of existing rock/post-punk." In particular, there were many compliments on his drumming technique (Morgan Simpson), with comments such as ""his playing ability being extraordinary at such a young age" and ""the rise of young talent.''
 
-- They received attention in the Japanese media, and their debut was introduced as ""the most noteworthy overseas band of 2019" and ""a candidate for the best album of the year." Some Japanese listeners and writers have argued that their sound resonates with "games," Japanese jazz, alternative, and noise, and was accepted not only by traditional Western rock fans but also by subculture/alternative listeners.
+- 日本のメディアでも注目され、彼らのデビューは「2019年もっとも注目すべき海外バンド」「今年のベスト・アルバム候補」として紹介された。日本のリスナー・ライターの中には、彼らのサウンドが“ゲーム”、和ジャズ、オルタナ、ノイズなどと呼応すると論じる者もあり、従来の洋楽ロックファンだけでなく、サブカルチャー／オルタナ系のリスナーにも受け入れられた。 
 
 - The origin of their name from the black musical score genre "Black Midi" has also become a hot topic as an unexpected cultural connection with Japan, and their position as "a young British band with references to Japanese culture/internet culture" has further strengthened their interest in Japan.
 
@@ -88,11 +88,11 @@ In this way, during their debut period, Black Midi attracted intense attention f
 
 ### 3‑2. Cavalcade, Hellfire—A nod to expansion and a nod to esotericism
 
-- After the release of their 2nd album *Cavalcade*, many critics commented that it was ""more structured and ambitious," ""A labyrinth of madness that swallowed up many genres such as jazz, progressive rock, and experimental music," and ""It's rare for a young artist to be able to change and expand this much.'' In particular, praise has been given to the expanded composition that includes saxophone, keyboards, strings, etc., and the variety of musical developments.
+- After the release of their 2nd album *Cavalcade*, many critics commented that it was ""more structured and ambitious," ""A labyrinth of madness that swallowed up multiple genres such as jazz, progressive rock, and experimental music," and ""It's rare for a young artist to be able to change and expand this much.'' In particular, praise has been given to the expanded composition that includes saxophone, keyboards, strings, etc., and the variety of musical developments.
 
 - On the other hand, there were also comments such as ""the sound is too dense," ""the balance between noise and structure is difficult to find," and ""it gives the impression of being too elaborate, rather than the freedom of live improvisation." Some critics praised Cavalcade's opulence and structure, but felt that the ""raw danger" and ""improvisational impulse'' characteristic of their debut work had diminished.
 
-- Furthermore, regarding their third album *Hellfire*, there were compliments such as ""the most experimental and theatrical ever", ""a group of songs with a narrative, allegory, and character", ""it chooses the listener, but it has a strong impact", and ""a work of art that goes outside the framework of 'rock"." In particular, Hellfire"s radical composition and sound, as well as the multi-layered nature of the music, have received high praise.
+- Furthermore, regarding their third album *Hellfire*, there were compliments such as ""the most experimental and theatrical ever", ""a group of songs with a narrative, allegory, and character", ""it chooses the listener, but it has a strong impact", and ""a work of art that goes outside the framework of 'rock"." In particular, Hellfire"s radical structure and sound, as well as the multi-layered nature of the music, have been highly praised.
 
 - However, at the same time, there are also persistent complaints that ""the structure is too complex and the entrance is narrow", ""you have to listen to it more than the initial impact", and ""it"s a work that people either like or hate", and some say that Black Midi"s songs are difficult to say ""for everyone".
 In other words, Black Midi's period of growth was a period in which it expanded its techniques, composition, and musicality, and its radicalness and sophistication pushed the boundaries of music that could easily be divided into pros and cons and that could be chosen by the listener.
@@ -137,7 +137,7 @@ Bands like Black Midi aren't always popular with everyone because of their exper
 
 - For listeners who seek "improvisational chaos/live-like intensity," studio construction can sometimes feel like a "lack of a live feel" or "excessive production." In fact, as the band evolved, there were also mixed reviews.
 
--Also, because it is extremely technical, it is well received by "intelligent people" who value performance and compositional beauty, but it is difficult for those who seek sentimentality, emotional movement, catchy melodies, and familiarity. In particular, the lyrics, singing, and song's ""excessiveness" and ""distorted structure" tend to be divided into ""like/dislike'' opinions.
+-Also, because it is extremely technical, it is well received by "intelligent people" who value performance and compositional beauty, but it is difficult for those who seek sentimentality, emotional movement, catchy melodies, and familiarity. In particular, the lyrics, singing, and song's ""excessiveness" and ""distorted structure" tend to be split into ""like/dislike'' opinions.
 
 Still, the value of Black Midi lies in the following points.
 

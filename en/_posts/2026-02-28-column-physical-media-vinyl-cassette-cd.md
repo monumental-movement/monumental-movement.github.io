@@ -69,7 +69,7 @@ In 1963, Philips introduced the compact cassette. Recording is becoming more dem
 
 In 1982, the compact disc jointly developed by Sony and Philips was introduced to the market. It became popular in the 1990s due to its durability, low noise, and ease of cueing.
 
-> Technological innovation always reorganizes the roles of traditional media rather than eliminating them.
+> Technological innovation always reorganizes the role of traditional media rather than eliminating them.
 
 ---
 

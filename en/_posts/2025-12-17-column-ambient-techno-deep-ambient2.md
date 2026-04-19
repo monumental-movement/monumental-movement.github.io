@@ -40,7 +40,7 @@ color: #fff;
 
 One of the important features of Deep Ambient and Ambient Techno is that they prioritize "playback time" over individual songs. Sustaining for 10, 20, or more minutes is a design imperative, not a lack of deployment.
 
-長時間再生では、短期的な刺激や記号的展開は意味を失う。代わりに、微細な変化、密度の揺らぎ、定位の移動が知覚の中心となる。これは、音楽が情報ではなく環境として機能していることを示している。
+When played over a long period of time, short-term stimuli and symbolic developments lose their meaning. Instead, subtle changes, fluctuations in density, and shifts in localization become the center of perception. This shows that music functions as an environment rather than information.
 
 ---
 
@@ -72,7 +72,7 @@ For this reason, in many works, complete silence is avoided, and very faint soun
 
 Ambient Techno / Deep Ambient's character changes greatly depending on the playback media. Large speakers, headphones and small devices. Each creates a different depth.
 
-ヘッドフォンでは、低域の物理的圧力は減少するが、内部空間の密度が増す。 On the other hand, in speaker playback, the space itself becomes a resonator.
+In headphones, the physical pressure of the low frequencies is reduced, but the density of the internal space is increased. On the other hand, in speaker playback, the space itself becomes a resonator.
 
 ---
 
@@ -102,9 +102,9 @@ Even if it is an artificial sound, if the sense of distance, reflection, and shi
 
 ## 10. Listener independence
 
-In this kind of music, the listener is not a passive entity. It's always up to the listener to decide how much attention to give and when to let the music become the background.
+In this kind of music, the listener is not a passive entity. It's always up to the listener to decide how much attention to give and when to let the music become a background.
 
-Ambient Techno / Deep Ambient is extremely democratic music in that it doesn't force listening intensity.
+Ambient Techno/Deep Ambient is extremely democratic music in that it does not force listening intensity.
 
 ---
 

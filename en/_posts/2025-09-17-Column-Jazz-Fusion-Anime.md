@@ -79,7 +79,7 @@ flowchart TD
     A198["1980s: City pop elements + jazz fusion permeate the soundtrack"]
     A199["1990s: "Cowboy Bebop" Yoko Kanno & The Seatbelts"]
     A200["2000s: "Nodame Cantabile" Classical + Jazz Arrangement"]
-    A201["2010s: Narrating jazz through the depiction of the 'Apollo on the Slope' session"]
+    A201["2010s: Narrating jazz through the depiction of the "Apollo on the Slope" session"]
     A202["2020s: "LAZARUS" (MAPPA x Shinichiro Watanabe x Kamasi Washington and others)"]
 
     A1970 --> A198 --> A199 --> A200 --> A201 --> A202
@@ -123,6 +123,8 @@ flowchart TD
 Themes such as "death and rebirth," "time limits," and "salvation of humanity" resonate with the "improvisational reconstruction of life" that is inherent in jazz.
 In particular, Kamasi Washington's spiritual jazz echoes the motif of ""Lazarus = resurrection'' in multiple layers throughout the story.
 
+---
+
 ### ■ Summary
 
 Jazz/fusion brings urbanity and improvisation to anime, and sometimes symbolizes the ""life and death" and ""destruction and rebirth" of the entire story.
@@ -131,6 +133,15 @@ All of these are extensions of jazz's ""free and regenerative spirit.''
 
 And as the name "Lazarus" suggests, jazz is constantly revived in new forms and continues to be closely linked to the world of anime.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqpGA_5SQgE?si=4_hNF2QmS9MkCjOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

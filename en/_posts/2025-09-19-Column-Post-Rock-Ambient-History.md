@@ -17,7 +17,7 @@ title: '[Column] History of post-rock/ambient and changes in equipment [Analysis
 
 Text: mmr｜Theme: Post-rock and ambient, from their origins in the 1970s to their future prospects
 
-Post-rock and ambient music have their origins in the experimental spirit of the 1970s, and have continued to evolve amid scenes and technological innovations.
+ポストロックとアンビエントは1970年代の実験精神を起点に、シーンと技術革新の中で進化し続けてきた。  
 Here, we will provide a comprehensive list of masterpieces, equipment, and cultural backgrounds so that you can get a panoramic view of the period **from the 1970s to the 2020s**.
 
 ---
@@ -51,7 +51,7 @@ color: #fff;
 | *Discreet Music* | Brian Eno | 1975 | Tape Loop Experiment |
 
 **Main equipment**
-- Moog Modular
+-Moog Modular
 - EMS Synthi AKS
 - Revox A77 Tape
 

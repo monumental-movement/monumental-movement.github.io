@@ -41,7 +41,7 @@ color: #fff;
 
 ## Chapter 1: Microtones and the Prehistory of Jazz
 
-### 1-1 Historical position of microtonal interval
+### 1-1 Historical position of microtonal intervals
 
 Microtonal intervals have existed in Western music since before the 20th century. The comma difference in the Pythagorean temperament and just intonation of the Middle Ages and Renaissance period includes an interval difference of less than a semitone. However, with the establishment of 12-equal temperament for the purpose of simplifying music notation and teaching, these ideas receded into a theoretical background.
 

@@ -67,7 +67,7 @@ The TR-1000 is, so to speak, a ""rhythm mirror image device.''
 ### Chapter 3 Physical Design and Interface
 #### ── Regaining the feeling of "playing" a machine
 
-The TR-1000's panel design follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
+The panel design of the TR-1000 follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
 Machined aluminum knob, step button with rounded edges.
 This tactile design is an expression of the belief that ""the hands remember the music before they can express the sound.''
 
@@ -112,7 +112,7 @@ In the 1980s, the TR-808 gave birth to hip-hop, the 909 gave birth to techno, an
 The TR series has always stood at a turning point in music history.
 
 The TR-1000 is also carving out a new symbol in modern club culture, where AI and live performance coexist.
-Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotion."
+Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotions."
 In a cultural context, the TR-1000 does not mean an "extension of nostalgia" but an "expansion of rhythmic consciousness."
 
 ---

@@ -92,7 +92,7 @@ Northern soul developed not only with music, but also with its own dance style a
 
 To enable this physical expression, emphasis was placed on functionality in clothing. Tight jeans, loose tops, and shoes with slippery soles became the norm, and a culture of expressing individuality with patches and badges took root.
 
-What is important is that these styles were not trends handed down from above, but were born out of practice on the dance floor.
+What is important is that these styles were not handed down as trends from above, but were born out of practice on the dance floor.
 
 > The physical culture of Northern Soul was formed as a result of adaptation to music and space.
 
@@ -127,7 +127,7 @@ In Japan, Northern Soul was not reproduced in the same form as in Britain. Rathe
 
 It tends to emphasize the sound quality of records, the rarity of records, and the commitment to original records rather than dance, and is characterized by its strong connection to collector culture. On the other hand, the essence of music that can be danced to is maintained, and dance-oriented events continue to be held.
 
-> Japanese Northern Soul has established itself by uniquely adjusting the balance between appreciation and physicality.
+>Japan's Northern Soul has established itself by uniquely adjusting the balance between appreciation and physicality.
 
 ---
 

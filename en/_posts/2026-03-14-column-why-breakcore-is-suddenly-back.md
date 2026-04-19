@@ -245,7 +245,7 @@ In this way, Breakcore is not a rave culture.
 
 "Internet culture"
 
-was revived inside.
+was revived within.
 
 > Breakcore's resurgence began not in clubs, but on the internet.
 

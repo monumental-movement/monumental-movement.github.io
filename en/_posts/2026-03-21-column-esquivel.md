@@ -76,7 +76,7 @@ However, the resulting sound offered a completely different experience from trad
 <div class="mermaid">
 graph LR
 A[mono music] --> B[stereo technology]
-B --> C[Separation of left and right sound]
+B --> C[Left and right separation of sound]
 C --> D[Birth of spatial expression]
 D --> E[new listening experience]
 </div>

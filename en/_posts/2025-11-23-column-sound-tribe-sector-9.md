@@ -88,7 +88,7 @@ Representative song:
 - "Atlas"
 - "Something"
 - "Arigato"
--"Tokyo"
+- "Tokyo"
 -"Peoples"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
@@ -147,7 +147,7 @@ Since the beginning of STS9
 - Educational support
 - Environmental protection
 - Local activities
-He has actively participated in charity activities such as
+He has actively participated in charity activities such as:
 
 There are also many performances that donate a portion of the live ticket proceeds, and many songs that have social issues as their theme.
 In particular, "Peaceblaster" (2008) is positioned as a conceptual work with political and environmental themes as its background.
@@ -199,7 +199,7 @@ This ensures **acoustic thickness** even during live performances, creating a th
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
 ## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
-- Opener (worldview presentation)
+- Opener (world view presentation)
 - Midfield build-up
 - floor peak
 - Deep downtempo part
@@ -288,7 +288,7 @@ It is also important because it shows how artists should be in the 21st century 
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performance"
+# 12. Conclusion: 21st century "bands that evolve through live performances"
 
 Sound Tribe Sector 9 is
 **An attempt to transfer the structure of electronic music to live performance while maintaining the band format**

@@ -24,7 +24,7 @@ Text: mmr｜Theme: Is rhythm a human or a machine thing? The story of the TR-808
 
 In 1980, Roland released a rhythm machine that would rewrite the history of music. TR-808 Rhythm Composer. The machine, now simply known as the 808, was not a successful product when it first came out.
 
-In the market at the time, there was a strong emphasis on reproducing more realistic drum sounds. While sample-based drum machines like Lindrum strive for ""authenticity'', the TR-808 deliberately chose an artificial sound using analog circuitry. As a result, the resulting sound was judged to be "unrealistic" and was distanced from the market.
+The market at the time placed emphasis on reproducing more realistic drum sounds. While sample-based drum machines like Lindrum strive for ""authenticity'', the TR-808 deliberately chose an artificial sound using analog circuitry. As a result, the resulting sound was judged to be "unrealistic" and was distanced from the market.
 
 However, this ""unrealism'' later turned into a decisive value.
 

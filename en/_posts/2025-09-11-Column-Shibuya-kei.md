@@ -183,7 +183,7 @@ color: #fff;
 - Software-based production
 - Analog and digital hybrid
 
-### Recommended 10 songs (2020s)
+### 10 recommended songs (2020s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|

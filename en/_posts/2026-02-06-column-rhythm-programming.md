@@ -10,14 +10,14 @@ tags:
 - Rhythm
 - Programming
 - Electronic
-title: '[Column] Design theory of rhythm programming'
+title: 【コラム】 リズムプログラミングのデザイン理論
 ---
 
 
 
 ## Prologue: Rhythm is designed, not played.
 
-Text: mmr｜Theme: View rhythm programming as a design concept rather than a performance technique, and decipher the overall picture of modern beat aesthetics from the design of 16 steps, loops, and tone arrangement.
+文：mmr｜テーマ：リズムプログラミングを演奏技術ではなく設計思想として捉え、16ステップ・ループ・音色配置の設計から現代ビート美学の全体像を読み解く
 
 
 Rhythm programming is not a matter of lining up the dots accurately. It is an act of design: how to divide time, where to emphasize, and where to leave blank space. If performance is a series of instantaneous decisions, programming is similar to thinking from a bird's-eye view of time as a whole.
@@ -55,11 +55,11 @@ Accent design does not require all notes to be played at the same intensity. By 
 ### Case: Fixed strong beat and shifted strong beat
 
 * Strong beat fixed: 1st and 3rd beats are always at maximum intensity
-*Strong beat shift: 1st beat maximum, 3rd beat suppressed
+* 強拍ずらし：1拍目最大、3拍目を抑制
 
 In the latter, the second half feels lighter and the loop gives the impression of rolling forward.
 
-> The 16 equal divisions are not a final design, but a draft for the design.
+> 均等な16分割は完成形ではなく、設計のための下書きである。
 
 ---
 
@@ -248,7 +248,7 @@ Even with the same 16 steps, if your starting point is different, the texture of
 * 1960s: Introduction of mechanical time
 * 1970s: Establishment of repetitive structure
 * 1980s: Popularization of 16-step design
-* 1990s: Misalignment and human feel
+* 1990s: Misalignment and human feeling
 * 2000s: Software abstraction
 * 2010s and beyond: Design as aesthetics
 

@@ -192,7 +192,7 @@ They started making music in high school.
 The influences were diverse.
 
 - european electronic music
-- Funk
+- funk
 - disco
 - SF culture
 

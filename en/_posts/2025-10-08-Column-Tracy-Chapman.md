@@ -20,7 +20,7 @@ Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing abou
 
 
 ""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
-Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey deeply stirs the soul of the listener.
+Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
 
@@ -57,12 +57,12 @@ These experiences later led to the social awareness and focus on the weak that c
 ---
 
 ### ● Between academics and music
-After attending a local school, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
+After attending local schools, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
 
 He later took his passion for music and literature to Tufts University, where he studied art and humanities while continuing his musical career.
 It is said that during his university days, his daily activities included live performances on campus, improvisational performances with friends, and the fusion of poetry and music.
 
-The interactions he had with the people he met during this period - university friends, local music friends, and seniors in the folk scene - became the basis for later creative networks and mutual understanding.
+The interactions he had with the people he met during this period -- university friends, local music friends, and seniors in the folk scene -- became the basis for later creative networks and mutual understanding.
 
 ---
 
@@ -171,7 +171,7 @@ Additionally, our relationships with producers and engineers have matured, allow
 Chapman continued to release select releases into the 2000s.
 Although he has changed musicality and accompaniment style in 2000"s *Telling Stories*, 2002"s *Let It Rain*, 2005"s *Where You Live*, and 2008"s *Our Bright Future*, he has consistently maintained a sense of spontaneity and gentleness.
 
-For *Where You Live*, she was involved in the production and is said to have had an influence on the sound design.
+For *Where You Live*, she herself was involved in the production and is said to have had an influence on the sound design.
 Additionally, she rarely uses streaming, instead offering her works through CDs and vinyl. This is an expression of the company's stance of ""protecting the means by which artists can be fairly rewarded.'' :
 
 ---
