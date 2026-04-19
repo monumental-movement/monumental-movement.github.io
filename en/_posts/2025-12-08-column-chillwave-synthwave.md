@@ -163,7 +163,7 @@ The sound itself is close to "reconstruction of 80s movies".
 flowchart TB
     A2005["2005: Kavinsky and College establish a style that would become Synthwave"] --> A2009
     A2009["2009: Washed Out"s ""Life of Leisure" and Neon Indian"s ""Psychic Chasms" are recognized as Chillwave's representative works."] --> A2010
-    A2010["2010: Kavinsky"s ""Nightcall" and Toro y Moi"s ""Causes of This" were released, increasing the popularity of both genres."] --> A2011
+    A2010["2010: Kavinsky"s "Nightcall" and Toro y Moi"s "Causes of This" were released and the popularity of both genres increased."] --> A2011
     A2011["2011: The movie 'Drive' soundtrack influenced the global spread of Synthwave"] --> A2013
     A2013["2013: The end of the chillwave boom begins to be talked about in the music media"] --> A2016
     A2016["2016: FM-84"s Atlas and The Midnight"s activities further expand the popularity of Synthwave"] --> A2020

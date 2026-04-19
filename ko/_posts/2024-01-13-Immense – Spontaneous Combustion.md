@@ -13,7 +13,7 @@ title: Immense – Spontaneous Combustion
 ---
 
 
-1999년에 UK의 라벨 「FatCat Records」로부터 릴리스 된 Dave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Davies등으로 구성된 밴드 「Immense」의 EP입니다.
+1999년에 UK의 라벨 「FatCat Records」로부터 릴리스된 Dave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Davies등으로 구성된 밴드 「Immense」의 EP입니다.
 
 #### Tracklist
 ```md

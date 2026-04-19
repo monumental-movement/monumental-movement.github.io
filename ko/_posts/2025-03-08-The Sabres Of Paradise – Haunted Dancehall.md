@@ -17,7 +17,7 @@ title: The Sabres Of Paradise – Haunted Dancehall
 
 The Sabres Of Paradise(세이버스 오브 파라다이스)는 런던 출신의 UK 일렉트로닉 뮤직 그룹. 멤버는 Andrew Weatherall(앤드류 웨더올), Jagz Kooner, Gary Burns.
 
-'Haunted Dancehall'은 1995년 Warp Records에서 발표된 The Sabres Of Paradise의 두 번째 앨범으로, 2007년 영국 신문 The Guardian에서 '죽기 전에 들려야 할 1000장의 앨범' 선정되는 등 오랜 세월에 걸쳐 평가 받고 있는 앨범.
+'Haunted Dancehall'은 1995년 Warp Records에서 발매된 The Sabres Of Paradise의 두 번째 앨범으로, 2007년 영국 신문 The Guardian에서 '죽기 전에 들려야 할 1000장의 앨범' 선정되는 등 오랜 세월에 걸쳐 평가받고 있는 앨범.
 
 #### Tracklist
 ```md

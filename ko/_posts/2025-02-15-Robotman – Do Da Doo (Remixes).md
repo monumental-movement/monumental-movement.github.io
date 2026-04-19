@@ -27,7 +27,7 @@ David Holmes Remix -
 
 Exploding Plastic Remix -
 
-이 리믹스는 보다 실험적인 접근법을 채택하고, 다른 텍스처를 노래에 제공합니다.
+이 리믹스는 보다 실험적인 접근법을 채택하고 있으며, 다른 텍스처를 노래에 제공합니다.
 
 J.Acquaviva's Flare For Disco Mix -
 

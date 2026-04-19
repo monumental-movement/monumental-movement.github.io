@@ -15,7 +15,7 @@ title: 일렉트로(Electro) 작품을 픽업
 ---
 
 
-"80년대 사이버 환상이 지금도 계속 춤추고 있는 일렉트로(Electro) 작품군"
+“80년대 사이버 환상이 지금도 계속 춤추고 있는 일렉트로(Electro) 작품군”
 
 <hr>
 
@@ -74,7 +74,7 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 ### Arthur Baker vs. Rennie Pilgrem – Like No Other (Remixes)
 <a href="https://jp.mercari.com/item/m55195821890?afid=6142608987"><img src="../assets/images/Arthur%20Baker%20Vs%20Rennie%20Pilgrem%20%E2%80%93%20Like%20No%20Other%20(Remixes).webp"></a>
 
-포인트 : 일렉트로의 선구자 Arthur Baker가 UK의 브레이크 비트 중진 Rennie Pilgrem의 손으로 빅 비트 & 일렉트로 스타일로 재구성된 리믹스 판. 「Electro와 힙합의 가교를 쌓은 인물끼리의 신해석」이 매력입니다.
+포인트 : 일렉트로의 선구자 Arthur Baker가 UK의 브레이크 비트 중진 Rennie Pilgrem의 손으로 빅 비트 & 일렉트로 스타일로 재구성된 리믹스 판. 「Electro와 힙합의 가교를 쌓은 인물끼리의 새로운 해석」이 매력입니다.
 
 매력: 리믹스로 되살아나는 일렉트로 선구성
 
@@ -126,7 +126,7 @@ B. Video Hi 8 (Instrumental)
 
 포인트 : 1994 년에 결성 된 독일 일렉트로 프로젝트 Beroshima의 Frank Muller의 출시. Ulrich Schnauss도 참가한 적이 있어, 미니멀 & 디스코적 접근이 융합된 일렉트로 사운드가 특징입니다.
 
-매력: 미니멀 & 디스코적 일렉트로
+매력: 미니멀&디스코적 일렉트로
 
 
 #### Tracklist

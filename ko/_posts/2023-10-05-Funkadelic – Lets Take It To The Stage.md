@@ -17,7 +17,7 @@ title: Funkadelic – Let's Take It To The Stage
 
 「Let's Take It to the Stage」는 그루비한 펑크 비트와 파워풀한 기타 플레이가 특징적이고 팬카데릭의 실험적인 어프로치와 역동적인 퍼포먼스를 반영하고 있습니다.
 
-'Get Off Your Ass and Jam'과 'Stuffs and Things'는 팬카데릭 음악의 다양성과 창의성을 보여주며, 실험적인 사운드와 독특한 스타일을 구현합니다.
+'Get Off Your Ass and Jam'과 'Stuffs and Things'는 팬카데릭 음악의 다양성과 창의성을 보여주며 실험적인 사운드와 독특한 스타일을 구현합니다.
 
 #### Tracklist
 ```md

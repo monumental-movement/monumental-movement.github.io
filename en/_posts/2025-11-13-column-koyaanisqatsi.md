@@ -116,7 +116,7 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 
 ---
 
-## Chapter 5: The correspondence relationship between video composition and music
+## Chapter 5: The relationship between video composition and music
 
 | Scene | Music motif | Meaning/effect |
 | ----------- | -------- | ---------- |

@@ -113,7 +113,7 @@ In the 2000s, the structure of underground music changed significantly.
 
 The reason is the Internet.
 
-The advent of MySpace, blogs, forums, etc. has changed the way music is discovered.
+The advent of MySpace, blogs, forums, etc. has changed the way we discover music.
 
 Once upon a time
 
@@ -152,7 +152,7 @@ G --> H[Global Underground Scene]
 
 </div>
 
-> The Internet has transformed underground music from a local culture into a global network.
+> The Internet has transformed underground music from a local culture to a global network.
 
 ---
 

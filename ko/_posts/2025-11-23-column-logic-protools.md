@@ -21,7 +21,7 @@ title: 【칼럼】DAW사를 형성한 6사――Apple / Avid / Steinberg / MOTU
 문장: mmr｜테마:Logic/Pro Tools/Steinberg/MOTU/Adobe의 DAW 기술사
 
 
-2025년 현재 음악 제작의 중심에 있는 도구는 거의 예외 없이 'DAW(Digital Audio Workstation)'다.
+2025년 현재 음악 제작의 중심에 있는 툴은 거의 예외 없이 ‘DAW(Digital Audio Workstation)’다.
 그러나 이 업계가 현재 형태에 이르기까지의 길은 단순하지 않았다. 거기에는 **기업 인수**, **기술 규격 발명**, **하드웨어와 소프트의 통합**, 그리고 **영상·방송과의 연계**를 둘러싼 40년 이상에 걸친 복잡한 역사가 있다.
 
 그 전체상을 형성한 것은, 다음의 6사이다:
@@ -34,7 +34,7 @@ title: 【칼럼】DAW사를 형성한 6사――Apple / Avid / Steinberg / MOTU
 * **emagic/Digidesign(인수 전)**
 
 이들 기업이 취한 전략의 차이는 그대로 **DAW 문화의 다극화**를 낳았다.
-애플과 에이비드가 인수에 의한 '수직통합'을 진행한 반면 스테인버그, MOTU, 어도비는 '기술규격'과 '영역특화'로 영향력을 확립했다.
+애플과 아비드가 인수에 의한 '수직통합'을 진행한 반면 스테인버그·MOTU·어도비는 '기술규격'과 '영역특화'로 영향력을 확립했다.
 
 ---
 
@@ -54,7 +54,7 @@ color: #fff;
 
 ## 1. 1980년대 : 시퀀서의 시대와 "시작의 4사"
 
-DAW사의 기원은 1980년대 초반 시퀀서로 거슬러 올라간다.
+DAW사의 기원은 1980년대 전반의 시퀀서로 거슬러 올라간다.
 음성을 다루기 전의 “순수한 MIDI 편집 소프트”의 시대이다.
 
 ### ■ Atari ST가 낳은 황금 시대
@@ -144,7 +144,7 @@ VST는 이후 Apple AU, Digidesign RTAS/AAX, Propellerhead Rack Extensions 등
 
 ## 4. 2000년대 초반 : 두 인수극이 DAW 역사를 바꾼다
 
-여기서 역사를 결정적으로 바꾼 ‘기업 인수’가 일어난다.
+여기서 역사를 결정적으로 바꾼 “기업 인수”가 일어난다.
 
 ### ■ 4-1 Apple이 emagic 인수 (2002)
 
@@ -173,7 +173,7 @@ Apple과 Avid의 두 회사
 
 ---
 
-## 5. 2000–2010년대: Steinberg, MOTU, Adobe의 독특한 전략
+## 5. 2000–2010년대: Steinberg, MOTU, Adobe의 독자적인 전략
 
 Apple과 Avid가 '수직 통합'을 진행한 반면,
 Steinberg·MOTU·Adobe는 “전문 영역 강화”로 세력을 늘렸다.
@@ -219,7 +219,7 @@ Steinberg·MOTU·Adobe는 “전문 영역 강화”로 세력을 늘렸다.
 ### ■ Avid : HDX 및 AAX로 마이그레이션
 
 * DSP와 네이티브 통합
-* Pro Tools는 여전히 스튜디오 표준입니다.
+* Pro Tools는 여전히 스튜디오 표준
 * 영화의 대규모 믹싱에서는 Pro Tools 이외의 옵션이 거의 없는 상태로
 
 ### ■ Steinberg, MOTU, Adobe도 업데이트 계속
@@ -310,7 +310,7 @@ timeline
 
 Apple이 emagic을 인수하고 Avid가 Digidesign을 통합함으로써,
 DAW 시장은 **OS×영상 제작×스튜디오 인프라**의 축으로 크게 바뀌었다.
-한편 Steinberg는 **VST**라는 역사적 규격을 만들고,
+한편 Steinberg는 **VST**라는 역사적 표준을 만들고,
 MOTU는 **영상 동기화**를 극복하고,
 Adobe는 **방송·동영상 편집과의 통합**에서 독자적인 시장을 형성했다.
 

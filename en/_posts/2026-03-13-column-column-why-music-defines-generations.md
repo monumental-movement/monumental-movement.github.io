@@ -31,7 +31,7 @@ A medium is needed to fix the emotions of the event in memory.
 Music has played the strongest role in this.
 
 Music is an art that is connected to time, and at the same time it is accompanied by emotion.
-Many people have experienced the phenomenon of instantly reliving the scenery and emotions of a certain era the moment they hear a particular song.
+Many people have experienced the phenomenon of instantly reliving the scenery and emotions of a certain era when they hear a particular song.
 
 This memory system has turned music into a symbol of a generation.
 
@@ -59,7 +59,7 @@ color: #fff;
 
 One of the reasons why music symbolizes a generation is because of its strong ties to youth culture.
 
-20世紀以前、音楽は主に社交や宗教のためのものであり、年齢による文化差はそれほど大きくなかった。
+Before the 20th century, music was primarily for social and religious purposes, and cultural differences by age were not that great.
 However, in the 20th century, with urbanization and the development of popular media, youth culture began to be recognized as an independent social stratum.
 
 Especially after World War II, the concept of the teenager emerged.

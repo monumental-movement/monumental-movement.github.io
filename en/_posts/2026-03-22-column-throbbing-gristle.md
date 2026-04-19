@@ -143,7 +143,7 @@ This approach would later influence live experiences in noise, industrial, and e
 
 Throbbing Gristle has always been subject to criticism and censorship due to its extreme expressions.
 
-Their work was often misunderstood and treated as ""dangerous'' for its depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
+Their works were often misunderstood and treated as ""dangerous'' for their depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
 
 In this respect, they were also pioneers of media criticism. It used sound and visuals to show how information is manipulated and consumed.
 

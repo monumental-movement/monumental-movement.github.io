@@ -13,7 +13,7 @@ title: Jungle Brothers – Jungllenium Remixes
 ---
 
 
-「Jungllenium Remixes」는, Junngle Brothers의 곡을 다양한 프로듀서나 리믹서가 리믹스한 작품집입니다.
+「Jungllenium Remixes」는, Junngle Brothers의 악곡을 다양한 프로듀서나 리믹서가 리믹스한 작품집입니다.
 
 
 #### Tracklist

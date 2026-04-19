@@ -71,7 +71,7 @@ This attitude later became the prototype for open structures in improvised music
 
 ## Chapter 3: John Cage and the Turning Point of Silence
 
-John Cage fundamentally challenged the premise that the composer is the main person who composes music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
+John Cage fundamentally challenged the premise that the composer is the subject of music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
 
 This structure shifted the center of gravity from the act of ""creating" music to the act of ""listening." A work is created not by its sonic content, but by its time frame and how it directs attention.
 
@@ -143,7 +143,7 @@ On the dance floor, individual bodies synchronize to the rhythm and form a colle
 
 In the 21st century, the functional differences between museums and music festivals have rapidly narrowed. Sound works performed in exhibition spaces are presented as timed performances, and images and spatial design are prerequisites for music events.
 
-The audience not only ""appreciates'' the work, but also completes the experience by staying in the place and placing their bodies there. The genre classification is merely a matter of operational convenience; the experience design is the core of the work.
+The audience not only ""appreciates'' the work, but completes the experience by staying in the place and placing their bodies there. The genre classification is merely a matter of operational convenience; the experience design is the core of the work.
 
 > The boundaries have not disappeared, but the focus of the question has shifted.
 

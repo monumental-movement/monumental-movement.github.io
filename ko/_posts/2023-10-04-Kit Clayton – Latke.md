@@ -13,7 +13,7 @@ title: Kit Clayton – Latke
 ---
 
 
-Latke는 2001년 Orthlorng Musork에서 출시된 본명 Joshua Kit Clayton(샌프란시스코 거주)의 EP입니다.
+Latke는 2001년 Orthlorng Musork에서 출시된 본명 Joshua Kit Clayton(샌프란시스코에 거주)에 의한 EP입니다.
 
 #### Tracklist
 ```md

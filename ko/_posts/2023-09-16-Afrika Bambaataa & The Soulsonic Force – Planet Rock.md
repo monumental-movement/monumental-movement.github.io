@@ -14,7 +14,7 @@ title: Afrika Bambaataa & The Soulsonic Force – Planet Rock
 ---
 
 
-미국의 힙합 아티스트인 Afrika Bambaataa와 그의 밴드 The Soulsonic Force의 곡으로 1982년에 출시되었습니다.
+미국의 힙합 아티스트, Afrika Bambaataa와 그의 밴드 The Soulsonic Force의 악곡으로 1982 년에 발표되었습니다.
 
 일렉트로닉 음악, 펑크, 힙합의 요소를 융합시킨 선구적인 악곡으로 알려져 있습니다. 이 노래는 독특한 신디사이저 리프와 보컬 샘플을 특징으로했으며, 그 혁신적인 사운드는 힙합과 댄스 음악의 진화에 큰 영향을 미쳤습니다.
 

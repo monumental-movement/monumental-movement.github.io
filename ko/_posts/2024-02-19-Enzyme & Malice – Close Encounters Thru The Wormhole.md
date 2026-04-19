@@ -18,9 +18,9 @@ title: Enzyme & Malice – Close Encounters Thru The Wormhole
 
 Enzyme과 Malice는 Portal 명의에서도 활동.
 
-Enzyme(엔자임)은 다작한 하드코어 브레이크스 DJ 겸 프로듀서로 레코딩 파트너의 Malice(마리스)와 함께 2Fresh와 2FX Records의 공동 소유자입니다.
+Enzyme(엔자임)은 다작한 하드코어 브레이크스 DJ 겸 프로듀서로 레코딩 파트너인 Malice(마리스)와 함께 2Fresh와 2FX Records의 공동 소유자입니다.
 
-그는 다작한 작품과 활기차고 파워풀한 라이브 퍼포먼스로 알려져, 하드코어 브레이크스, 테크노, 정글 등 다양한 장르를 융합시킨 독특한 스타일입니다.
+그는 그 다작 작품과 활기차고 파워풀한 라이브 퍼포먼스로 알려져, 하드코어 브레이크스, 테크노, 정글 등 다양한 장르를 융합시킨 독특한 스타일입니다.
 
 #### Tracklist
 ```md

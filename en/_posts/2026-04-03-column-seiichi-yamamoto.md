@@ -91,7 +91,7 @@ Vision Creation Newsun is also recognized as an important work in the psychedeli
 
 ### Acoustic impact
 
-Seiichi Yamamoto's sustained sound using delay has become a reference technique in the areas of drone and ambient as well.
+Seiichi Yamamoto's sustained sound using delay has become a reference technique in the areas of drone and ambient.
 
 > Seiichi Yamamoto's sound is evaluated not as a genre but as a sonic phenomenon.
 

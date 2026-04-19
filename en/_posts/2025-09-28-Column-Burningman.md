@@ -99,7 +99,7 @@ Since the 2000s, giant "mutant vehicles" and sculptures made of fire have attrac
 
 ### Contemporary implications and challenges
 
-While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental concerns, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
+While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental issues, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
 
 ---
 
@@ -272,7 +272,7 @@ However, in that year, his burning art ""Crude Awakening,'' which imitated a gia
 
 #### 2008: American Dream
 
-American Dream/Questions about consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
+American Dream/Question for consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
 
 ---
 
@@ -298,7 +298,7 @@ The themes are rites of passage, transition, and transformation. Festival-like i
 
 #### 2012: Fertility 2.0
 
-A re-examination and update of 1997's "Fertility". The theme is creativity, rebirth, and budding into the future.
+A re-examination and update of 1997's "Fertility". The theme is creativity, regeneration, and budding for the future.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxRAg9Pcpm4?si=UmFXzznWDdCJXQTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -14,7 +14,7 @@ title: Djaimin – Give You
 ---
 
 
-Djaimin은 스위스의 톱 DJ 프로듀서. 1980년대에는 몬트루의 Platinum Club의 레지던트를 맡아, 스위스의 라디오국 Couleur 3에서 처음으로 라이브 하우스 뮤직을 선보인 최초의 DJ의 1명으로도 알려진, 스위스 하우스 씬의 레전드. Mr. Mike와의 유닛 Black & White Brothers로도 활약했다.
+Djaimin은 스위스의 톱 DJ 프로듀서. 1980년대에는 몬트루의 Platinum Club의 레지던트를 맡아 스위스의 라디오 방송국 Couleur 3에서 처음으로 라이브 하우스 뮤직을 선보인 최초의 DJ 중 한 명으로도 알려진 스위스 하우스 장면의 레전드. Mr. Mike와의 유닛 Black & White Brothers로도 활약했다.
 
 「Give You」는, 스위스 최초의 하우스 레코딩으로, 세계적으로 대히트한 하우스 트럭.
 

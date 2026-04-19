@@ -16,7 +16,7 @@ title: Lukie D Determine – Between The Sheets
 
 The Isley Brothers(아이슬리 브라더스)의 「Between the Sheets」를 자메이카의 댄스 홀 씬을 대표하는 싱어 Lukie D(루키 D) & Determine가 커버.
 
-B면은 자메이카 출신의 레게 & 가수 가수 Chevelle Franklyn (셰벨 프랭클린)의 "Got To Be Real". Chevelle Franklyn은 2010년 그래미상 최우수 현대 고스펠 앨범상을 수상.
+B면은 자메이카 출신의 레게 & 가스펠 가수 Chevelle Franklyn (셰벨 프랭클린)의 "Got To Be Real". Chevelle Franklyn은 2010년 그래미상 최우수 현대 고스펠 앨범상을 수상.
 
 #### Tracklist
 ```md

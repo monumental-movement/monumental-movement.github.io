@@ -17,7 +17,7 @@ title: Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This
 ---
 
 
-Pop Will Eat Itself는, 1986년에 결성된 영국의 얼터너티 블록 밴드.
+Pop Will Eat Itself는 1986년에 결성된 영국의 대체 블록 밴드.
 
 #### Tracklist
 ```md

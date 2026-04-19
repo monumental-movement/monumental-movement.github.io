@@ -118,7 +118,7 @@ Vale은 샌프란시스코의 City Lights 서점에서 일했을 때, Lawrence F
 - **Modern Primitives가 낳은 충격**
 신체 개조를 「예술」로서 소개. 피어싱과 문신 문화를 금기에서 문화로 승화시켰다. 이후의 아트 이벤트나 퍼포먼스에도 직결했다.
 
-- **John Waters와의 협력관계**
+- **John Waters와의 협력 관계**
 『Incredibly Strange Films』 제작시 존 워터스가 많은 자료를 제공. "Vale만이 내 영화를 문화적 가치로 다뤘다"고 술회.
 
 - **Ballard 특집과 서브칼 문학**

@@ -89,7 +89,7 @@ Importantly during this period of transition, Greg Ginn took full control and so
 
 ---
 
-The next important moment was the addition of Ron Reis (later known as Chavo Pederast). A representative example of the sound source recorded during the period when he was the vocalist is the 7-inch "Jealous Again". This work is particularly highly rated among the early Black Flag.
+The next important moment was the addition of Ron Reis (later known as Chavo Pederast). A representative example of the sound source recorded during the period when he was the vocalist is the 7-inch ""Jealous Again''. This work is particularly highly rated among the early Black Flag.
 
 "Jealous Again" is about simple jealousy, and has an aggressive yet somewhat sarcastic expression. Ron Reis" vocals are a little more restrained than Keith Morris"s, and the outline of his words is clearer. As a result, the structure and rhythm of the songs become more pronounced.
 
@@ -127,7 +127,7 @@ This DIY model set a realistic precedent for later indie rock and hardcore scene
 
 ## Change in musicality: From speed to weight
 
-In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated and the noisy texture became emphasized.
+In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated, and the noisy texture became emphasized.
 
 This change was not just an experiment, but also a reflection of touring life, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
 
@@ -153,7 +153,7 @@ flowchart TD
 
 ---
 
-## Impact and legacy
+## Impact and Legacy
 
 Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to compromise musically became a reference point for countless bands.
 

@@ -13,7 +13,7 @@ title: Robbie Craig – Special
 ---
 
 
-Robbie Craig is a singer-songwriter from London. He has been active as the lead vocalist of East17 since 2014 after Brian Harvey left the group.
+Robbie Craig is a singer-songwriter from London. He has been active as the lead vocalist of East17 since 2014 after Brian Harvey left the band.
 
 "Special" is a house/garage house track released in 1995 by Public Demand, an important label in the UK garage and 2-step scene.
 

@@ -162,7 +162,7 @@ Neo-Krautrock is more than just a reissue, it's influencing contemporary music:
 - **Post-lock**: Introduction of repetitive structures and spatial expressions.
 - **Electronica**: A method of combining analog and digital sound sources.
 - **Indie Rock**: Inheriting the spirit of independent production and live performances.
-- **Diversification of live expressions**: Multimedia live performances linked to video and lighting are also on the rise.
+- **Diversification of live expressions**: Multimedia live performances linked to video and lighting are also increasing.
 
 <div class="mermaid">
 flowchart TD

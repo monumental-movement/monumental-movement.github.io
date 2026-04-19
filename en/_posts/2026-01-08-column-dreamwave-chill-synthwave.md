@@ -77,7 +77,7 @@ B --> C[Tone selection]
 C --> D[emotional listening]
 </div>
 
-> Images are not an aid, but are incorporated as part of music understanding.
+> Visuals are not an aid, but are incorporated as part of music understanding.
 
 ---
 

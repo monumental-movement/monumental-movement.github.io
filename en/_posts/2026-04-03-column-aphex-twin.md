@@ -116,7 +116,7 @@ Belongs to the genre and deviates from it at the same time. This duality places 
 
 There are many stories about Aphex Twin.
 
-For example, there is a story where a hard drive full of unreleased songs was left behind on an airplane, and it was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
+For example, there's a story about someone who left a hard disk full of unreleased songs on an airplane, which was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
 
 Even more famous are his anecdotes about live performances. In some cases, they only played the sound source, or intentionally caused confusion, in a way that betrayed the ""performance'' that the audience expected.
 

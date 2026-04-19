@@ -14,7 +14,7 @@ title: VA – Trojan Calypso Box Set
 ---
 
 
-트로이 장 칼립소 편집
+트로이 쟈 칼립소 편집
 
 한정판 박스 세트(CD3매 세트)
 

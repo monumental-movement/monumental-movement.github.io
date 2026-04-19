@@ -43,7 +43,7 @@ Mr.Vegas' real name is **Clifford Smith**. Born September 29, 1974 in Kingston, 
 - **Nickname "Mr. Vegas"**
 As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas girl." The nickname "Mr.Vegas" was adopted as his stage name.
 - **Encounter with music**
-From an early age, he was influenced by the local sound system culture and grew up familiar with music, performing at local parties.
+From an early age, he was influenced by the local sound system culture and grew up surrounded by music, performing at local parties.
 
 ### 1.2 Jaw injury and first hit "Nike Air"
 - **Significant Event**
@@ -67,7 +67,7 @@ As a result of his jaw injury and treatment, he has developed a unique intonatio
 - **Lyrics Theme**
 It contains critical and moral messages about sexual behavior, and highlights women's self-respect and the strength of their insistence on saying "no."
 - **International recognition**
-It was a success not only in Jamaica but also in England and the United States.
+It was a success not only in Jamaica, but also in England and the United States.
 - **Award**
 Won "Best Reggae Artist" at the MOBO Awards.
 
@@ -95,7 +95,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 - However, he did not completely retire and continued to collaborate with Major Lazer and others.
 
 ### 3.3 Establishment of independent label and "Sweet Jamaica"
-- Founded his own label **MV Music**.
+- Established his own label **MV Music**.
 - Released the album "Sweet Jamaica" (2012) as a two-disc set. Contains classic reggae covers and dancehall songs.
 
 ---
@@ -111,7 +111,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 - Participating artists: Daddy U-Roy, Demelo, Greentone. Producers: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Social activities and statements
-- Participating in or speaking at political events in Jamaica.
+- Participating in or speaking out at political events in Jamaica.
 - Dedicated to the inheritance of sound system culture, sound clash, and local culture.
 
 ---

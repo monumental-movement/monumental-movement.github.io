@@ -170,7 +170,7 @@ flowchart TD
 
 1996년은 버닝맨이 '페스티벌'에서 커뮤니티 실험 도시로의 변화를 가속시킨 해.
 
-참가자가 '체험 그 자체에 가치를 찾아낸다'는 가치관이 침투해, 후의 거대 아트 작품이나 테마형 도시의 형성을 지지했습니다.
+참가자가 '체험 그 자체에 가치를 찾아낸다'는 가치관이 침투하여, 후의 거대 아트 작품과 테마형 도시의 형성을 지지했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -190,17 +190,17 @@ flowchart TD
 
 수수께끼 같은 존재, 우주와 의식의 모호함을 탐구하는 테마. 참가형의 부유 혹은 빛을 사용한 인터랙티브 작품이 눈에 띄었다.
 
-예를 들면, 「30피트의 부유체(luminous float) “Nebulous Entity”」라는 작품이 보도되고 있다.
+예를 들어 30피트의 부유체(luminous float) “Nebulous Entity”라는 작품이 보도되고 있다.
 
 ---
 
 #### 1999: The Wheel of Time
 
-때의 고리/순환성이라는 테마. 거리와 거리의 표시에 행성을 모티브로 한 개조가 이루어졌다.
+때의 고리/순환성이라는 테마. 가구나 거리의 표시에 행성을 모티브로 한 개장이 이루어졌다.
 
 ---
 
-#### 2000년: The Body
+#### 2000: The Body
 
 인체·육체의 표현·상징이 주제. 신체성과 미학, 육체의 한계를 시험하는 설치가 많이.
 
@@ -222,7 +222,7 @@ flowchart TD
 
 #### 2002년: The Floating World
 
-우키요를 모티브로 가설 세계 비일상 확장이라는 관점에서 아트가 구축.
+「우키요」를 모티브로, 가설 세계·비일상의 확장이라는 관점에서 아트가 구축.
 
 수중 감각, 부유감, 환상성을 갖춘 구조체가 출현.
 
@@ -264,7 +264,7 @@ flowchart TD
 
 자연과 문명의 관계를 묻는 테마. 「그린맨(식물・자연생기성의 의인상)」을 모티브로 한 구성.
 
-다만 이 해에는 거대한 석유굴착탑을 본뜬 연소아트 “Crude Awakening”이 논쟁을 불러 비판되었다.
+다만, 이 해에는 거대한 석유 굴착탑을 본뜬 연소 아트 “Crude Awakening”이 논쟁을 불러 비판되었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -286,7 +286,7 @@ flowchart TD
 
 #### 2010년: Metropolis – The Life of Cities
 
-도시론·도시의 생명성을 탐구하는 테마. 건축적 요소, 도시구조의 축도와 어레인지, 도시와 인간의 상호관계성을 묻는 아트가 전개되었다.
+도시론·도시의 생명성을 탐구하는 테마. 건축적 요소, 도시 구조의 축도와 어레인지, 도시와 인간의 상호관계성을 묻는 아트가 전개되었다.
 
 ---
 

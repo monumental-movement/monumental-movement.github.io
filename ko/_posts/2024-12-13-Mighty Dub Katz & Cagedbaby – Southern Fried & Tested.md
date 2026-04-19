@@ -13,7 +13,7 @@ title: Mighty Dub Katz & Cagedbaby – Southern Fried & Tested
 ---
 
 
-2007년에 출시된 Fatboy Slim Norman Cook과 Gareth Hansome의 유닛 Mighty Dub Katz와 Cagedbaby의 하우스 mix CD2매 세트.
+2007년에 출시된, Fatboy Slim Norman Cook과 Gareth Hansome의 유닛 Mighty Dub Katz와 Cagedbaby에 의한 하우스 mix CD2매 세트.
 
 #### Tracklist
 ```md

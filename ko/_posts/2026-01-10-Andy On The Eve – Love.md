@@ -16,7 +16,7 @@ title: Andy On The Eve – Love
 
 Andy On The Eve는 벨기에의 유명 프로듀서 Jean-Yves Vanloo, Quadran의 프로듀서로 알려진 프랑스 DJ/프로듀서 Philippe Van Mullem, Thierry Traisnel의 프로젝트. 이 프로젝트의 릴리스는 「Melodies Of Passion」(1991), 「Love」(1992)의 2장만.
 
-「Love」는, 1992년에 라벨 Beat De Ville로부터 릴리스된 Trance/Techno 트럭.
+「Love」는, 1992년에 라벨 Beat De Ville로부터 릴리스된 Trance/Techno트랙.
 
 #### Tracklist
 ```md

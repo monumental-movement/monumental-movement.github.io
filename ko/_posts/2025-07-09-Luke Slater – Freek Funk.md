@@ -14,7 +14,7 @@ title: Luke Slater – Freek Funk
 ---
 
 
-Luke Slater(루크 슬레이터)는 1990년대 초부터 테크노 씬의 제일선에서 활약하는 영국의 일렉트로닉 뮤지션, DJ, 레코드 프로듀서. 별명의로 Planetary Assault Systems나 LSD등이 있다.
+Luke Slater(루크 슬레이터)는 1990년대 초부터 테크노신의 제일선에서 활약하는 영국의 일렉트로닉 뮤지션, DJ, 레코드 프로듀서. 별명의로 Planetary Assault Systems나 LSD등이 있다.
 
 「Freek Funk」는, 1997년에 UK의 테크노＆일렉트로니카 라벨 NovaMute(노바뮤트)로부터 릴리스된 Techno 앨범. 히트곡 「Love」가 수록되어 있다.
 

@@ -15,7 +15,7 @@ title: '【칼럼】 Noise Music(노이즈 뮤직) — 발상부터 현재까지
 
 ## 노이즈=미학: 귀에 걸리는 소리를 '쾌락'이나 '예술'로 변환한다.
 
-문장 : mmr | 테마 : 반역과 파괴 - 기존 음악과 사회 질서에 도전.
+문장：mmr｜테마：반역과 파괴—기존의 음악이나 사회질서에의 도전.
 
 「노이즈」는 단순히 「잡음」이 아니라, 기성의 음악어법(선율・화성・리듬)을 일탈해, 소리 그 자체, 질감, 물리적 충격이나 청각적인 자극을 중시하는 표현 영역을 가리킵니다. 예술적·기술적·사회적 배경이 조합되어 태어나 100년 이상에 걸쳐 형태를 계속 바꾸어 왔습니다.
 
@@ -32,7 +32,7 @@ title: '【칼럼】 Noise Music(노이즈 뮤직) — 발상부터 현재까지
 
 ---
 
-### 대표작
+### 대표 작품
 - 루솔로의 "노이즈 머신"에 의한 실연 기록.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ title: '【칼럼】 Noise Music(노이즈 뮤직) — 발상부터 현재까지
 ### 중요한 사건 · 인물
 - 피에르 셰페르에 의한 musique concrète (1948 ~).
 
-### 대표작
+### 대표 작품
 - 피에르 앙리와 Tod Dockstader의 작품.
 
 ### 장비 및 기술
@@ -65,7 +65,7 @@ title: '【칼럼】 Noise Music(노이즈 뮤직) — 발상부터 현재까지
 ### 시대 배경
 자물쇠의 실험성이 향상되고 소음이 자물쇠의 맥락에 통합됩니다.
 
-### 대표 작품
+### 대표작
 - [Lou Reed『Metal Machine Music』（1975）](https://amzn.to/3WNSdYQ)
 
 ### 장비 및 기술
@@ -80,7 +80,7 @@ title: '【칼럼】 Noise Music(노이즈 뮤직) — 발상부터 현재까지
 ### 중요한 사건 · 인물
 - Throbbing Gristle이 "인더스트리얼" 개념을 확립.
 
-### 대표 작품
+### 대표작
 - [『Kollaps』（Einstürzende Neubauten）](https://amzn.to/4qBmQPd)、[Throbbing Gristle](https://amzn.to/4oybzgF)の初期盤。
 
 ### 장비 및 기술
@@ -95,11 +95,11 @@ title: '【칼럼】 Noise Music(노이즈 뮤직) — 발상부터 현재까지
 ### 중요한 사건 · 인물
 - [Whitehouse（UK）](https://amzn.to/4hnbz0z)、[Merzbow（日本）](https://amzn.to/3L64TI1)
 
-### 대표 작품
+### 대표작
 - Merzbow 'Pulse Demon' 주변 작품, Whitehouse의 초기반.
 
 ### 장비 및 기술
-- 파괴적인 앰프, 라디오 잡음, 왜곡 페달, 카세트 녹음.
+- 파괴적인 증폭기, 라디오 잡음, 왜곡 페달, 카세트 녹음.
 
 ---
 

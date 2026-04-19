@@ -12,7 +12,7 @@ title: DJ Nozawa + Capital – Ai Autumn Oak
 ---
 
 
-DJ NOZAWA는 일본 최고의 턴테이블 리스트 중 한 명으로 여겨지고 있다. 98년에 Shing02가 이끄는 크리에이터 집단 Terracotta Troops에 가입해, 99년에 릴리스된 「녹황색 인종」에 참가. 97년과 98년에는 2년 연속 DMC 일본 대표가 된다.
+DJ NOZAWA는 일본 최고의 턴테이블리스트 중 한 명으로 여겨지고 있다. 98년에 Shing02가 이끄는 크리에이터 집단 Terracotta Troops에 가입해, 99년에 릴리스된 「녹황색 인종」에 참가. 97년과 98년에는 2년 연속 DMC 일본 대표가 된다.
 
 「Ai/Autumn Oak」는 2003년에 출시된 DJ Nozawa와 Capital(Jonathan Patterson)의 공작.
 

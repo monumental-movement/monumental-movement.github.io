@@ -17,7 +17,7 @@ title: Don Diablo – Casa Del Diablo
 
 Don Diablo(돈디아블로)는, 네덜란드 출신의 DJ·디지털 아티스트·레코드 프로듀서. EDM의 서브 장르, 퓨처 하우스의 장르의 선구자의 한명으로 알려져 있어, 더치 하우스 라벨 HEXAGON을 운영하고 있다.
 
-"Casa Del Diablo"는 런던의 레이블 Y2K에서 2002 년에 릴리스 된 Don Diablo의 트랜스 테크노 하드 트랜스 트랙.
+「Casa Del Diablo」는 런던의 라벨 Y2K로부터 2002년에 릴리스된 Don Diablo의 트랜스·테크노·하드 트랜스 트럭.
 
 #### Tracklist
 ```md

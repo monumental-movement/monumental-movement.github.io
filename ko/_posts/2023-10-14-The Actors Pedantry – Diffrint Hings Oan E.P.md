@@ -9,7 +9,7 @@ permalink: /ko/the-actors-pedantry-diffrint-hings-oan-e-p/
 tags:
 - IDM
 - House
-title: The Actors Pedantry – Diffrint Hings Oan E.P
+title: 배우들의 행상 – Diffprint Hings Oan E.P
 ---
 
 

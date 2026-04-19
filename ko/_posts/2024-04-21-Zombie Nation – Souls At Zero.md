@@ -19,7 +19,7 @@ title: Zombie Nation – Souls At Zero
 
 "Souls At Zero"는 2003 년 Florian Senfter와 Wolfram "Wolfen" Gottardt에 의해 설립 된 라벨 Dekathlon Records에서 발표 된 테크노 일렉트로 트랙.
 
-B면은 Sven Väth의 리믹스입니다.
+B면은 Sven Väth (스벤 바스)에 의한 remix.
 
 #### Tracklist
 ```md

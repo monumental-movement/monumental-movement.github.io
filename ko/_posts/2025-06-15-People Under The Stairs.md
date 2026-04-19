@@ -18,7 +18,7 @@ NY를 거점으로 활동하는 DJ bossy boots (Elinah)에 의한 리에디트. 
 
 A면은 1997년부터 2019년까지 활동한 LA 출신 크리스토퍼 포르투갈(Thes One)과 마이클 터너(Double K)에 의한 힙합 듀오 People Under The Stairs(피플 언더 더 스티어스)의 'Tuxedo Rap'의 Re-Edit.
 
-B면은 1960년대 후반 아프리카계 미국인 민권운동에서 탄생한 시인과 음악가들의 모임인 '마지막 시인'(The Last Poets)이 1977년 발표한 명작 'Garden Of Delights'를 재편집한 작품이다.
+B면은, 1960년대 후반의 아프리카계 미국인의 공민권 운동으로부터 태어난 시인과 음악가의 그룹 The Last Poets(라스트 포엣츠)에 의한 77년 릴리스의 명반 「Garden Of Delights 」의 Re-Edit.
 
 
 #### Tracklist

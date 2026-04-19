@@ -14,7 +14,7 @@ title: N-Trance – Electronic Pleasure
 ---
 
 
-N-Trance는 1990년에 Kevin O'Toole와 Dale Longwort에 의해 결성된 영국의 일렉트로닉 음악 듀오.
+N-Trance는 1990년 Kevin O'Toole과 Dale Longwort에 의해 결성된 영국의 일렉트로닉 음악 듀오.
 
 'Electronic Pleasure'는 1995년 출시된 N-Trance 첫 풀 길이 스튜디오 앨범으로 히트곡 'Set You Free' 'Stayin' Alive' 'Electronic Pleasure' 등이 수록돼 있다.
 

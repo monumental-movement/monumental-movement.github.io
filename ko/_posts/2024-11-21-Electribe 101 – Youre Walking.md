@@ -19,7 +19,7 @@ Electribe 101은 1988년~1992년에 활동한 그룹. 프런트는 Billie Ray Ma
 
 다크, 사이키델릭, 블루지, 일렉트로닉 소울 풀하우스를 자랑하며, 1990년 Depeche Mode 투어 'World Violation Tour'에서는 지원을 맡았다.
 
-'You're Walking'은 1990년에 발표된 Electribe 101의 첫 앨범 'Electribal Memories'에서 싱글 컷으로 A면은 David Morales의 remix.
+'You're Walking'은 1990년에 발표된 Electribe 101의 첫 앨범 'Electribal Memories'에서 싱글 컷으로, A면은 David Morales의 remix.
 
 #### Tracklist
 ```md

@@ -53,7 +53,7 @@ As a result, the futuristic and political techno born in the United States was l
 
 ### Label "Tresor Records"
 
-Established in 1991 as an attached club, Tresor Records functions as an important techno label.
+Established in 1991 as part of a club, Tresor Records functions as an important techno label.
 
 [Jeff Mills – Waveform Transmission Series](https://amzn.to/4mJeXE1)
 
@@ -170,7 +170,7 @@ The sounds released from that vault still reverberate in club culture around the
 
 ### Related columns
 
-🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 

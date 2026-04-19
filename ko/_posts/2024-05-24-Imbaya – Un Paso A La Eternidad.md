@@ -18,7 +18,7 @@ title: Imbaya – Un Paso A La Eternidad
 
 Imbaya는 플루트와 기타를 기조로 가끔 보컬을 더한 전통적인 남미 음악을 연주하는 볼리비아의 트리오. 멤버는 케이나, 케나초, 프라우타 데 빵(팜플루트), 산포나 등 안데스 문화의 악기 연주자 Jaime Vega와 Carlos Vega & Mario Vega.
 
-「Un Paso A La Eternidad(영원에의 한 걸음)」는, 페루의 케추아족에 의해 만들어진 네이티브 음악을 베이스로 한 앨범으로, 1993년에 릴리스된 카세트 테이프.
+'Un Paso A La Eternidad(영원에의 한 걸음)'는 페루의 케추아족에 의해 만들어진 네이티브 음악을 기반으로 한 앨범으로 1993년에 발표된 카세트 테이프.
 
 #### Tracklist
 ```md

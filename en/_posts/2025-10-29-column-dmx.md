@@ -192,7 +192,7 @@ Those words still serve as a self-forgiveness mantra for many young people today
 ## X. Conclusion: Mythical structure called DMX
 
 DMX's story is more than just a hip-hop biography.
-It was a **modern religious drama** and a myth about the coexistence of **violence and prayer**.
+It was a **modern religious drama** and a myth depicting **the coexistence of violence and prayer**.
 
 *His "roar" is not anger, but a cry to prove his existence**
 *His "prayer" is not salvation but **continuation of the battle**
@@ -256,7 +256,7 @@ D -->|silence| F[prayer monologue]
 
 ## Final Chapter: Barking Prayer
 
-DMX's music is not a "testimony of the streets" but a "record of the soul."
+DMX's music is not a ""street testimony" but a ""record of the soul."
 That cry is the very truth of people who lived their lives clinging to their faith without giving in to violence.
 
 > "If you"re real, you"re gonna feel it." ― DMX

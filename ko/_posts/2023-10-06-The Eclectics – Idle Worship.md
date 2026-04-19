@@ -14,7 +14,7 @@ title: The Eclectics – Idle Worship
 
 
 "Idle Worship"은
-1997년 라벨 'Jump Up! Records'에서 발매된 미국 스카펑크 밴드 The Eclectics의 앨범입니다.
+1997년에 라벨 「Jump Up! Records」로부터 발매된 미국의 스카펑크 밴드 The Eclectics의 앨범입니다.
 
 
 #### Tracklist

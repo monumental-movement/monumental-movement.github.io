@@ -56,7 +56,7 @@ All three had experience singing in church, and Nate Dogg in particular had exte
 This foundation of gospel singing had a decisive influence on his later style.
 Although her voice was linear with little vibrato, it had a deep resonance and a sense of rhythm that was naturally ingrained in her body.
 
-### Joining the Marine Corps
+### Joining the Marines
 
 After graduating high school, Nate Dogg **enlisted in the US Marine Corps** and was discharged after serving for about three years.
 This experience changed his life circumstances, but it was also a period that essentially forced him to return to Long Beach and music.
@@ -108,7 +108,7 @@ This success earned Nate Dogg recognition as ""the best hook maker on the West C
 Nate Dogg's singing voice is distinctive at first glance, but if you break it down into its elements, it can be summarized as follows.
 
 ### ■ Thick voice derived from gospel music
-The vibration of the vocal cords is strong and the resonance is deep.
+The vocal cords vibrate strongly and the sound is deep.
 
 ### ■ Straight-line singing with little vibrato
 This made it extremely compatible with the hard beats of hip-hop.
@@ -162,7 +162,7 @@ Representative participating songs:
 - "Area Codes" (Ludacris, 2001)
 - "21 Questions" (50 Cent, 2003)
 - "Nobody Does It Better"
--"I Got Love"
+- "I Got Love"
 
 In particular, "21 Questions" reached number one in the US.
 Although it is a sweet R&B sound, it is important that Nate Dogg's voice does not lose the tension of the street.
@@ -173,7 +173,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-213, consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
+213, the trio of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---

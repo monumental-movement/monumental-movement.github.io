@@ -18,7 +18,7 @@ title: Kelly-G Perfect Rhythm – Trip Into The Future
 
 프로듀서는 UK 출신으로 US를 거점으로 활동하는 Kelly-G Aron Friedman.
 
-Unie Weimer와 Aron Friedman이 운영하는 초기 UK 하드코어 & 테크노 라벨 Perception Records에서 1991년에 발매된 브레이크비츠 하드코어 테크노트랙.
+Unie Weimer와 Aron Friedman이 운영하는 초기 UK 하드코어 & 테크노 라벨 Perception Records에서 1991년에 출시된 브레이크비츠 하드코어 테크노트랙.
 
 #### Tracklist
 ```md

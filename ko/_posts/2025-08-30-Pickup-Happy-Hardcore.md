@@ -14,7 +14,7 @@ title: 해피 하드코어(Happy Hardcore) 작품 픽업
 ---
 
 
-「과거도 미래도 뛰어넘는, 무한의 하이텐션, 해피 하드 코어(Happy Hardcore) 작품군」
+「과거도 미래도 뛰어넘는, 무한한 하이텐션, 해피 하드 코어(Happy Hardcore) 작품군」
 
 <hr>
 
@@ -23,7 +23,7 @@ title: 해피 하드코어(Happy Hardcore) 작품 픽업
 
 출시 : 1994년 / 네덜란드 해피 하드코어 대표작
 
-특징 : 캐치한 멜로디와 긍정적인 에너지로 90년대 유로 댄스 레이브 장면을 석권한 클래식. 지금도 많은 클럽과 레이브에서 사랑받고 있습니다.
+특징: 캐치한 멜로디와 긍정적인 에너지로 90년대 유로 댄스 레이브 장면을 석권한 클래식. 지금도 많은 클럽과 레이브에서 사랑받고 있습니다.
 
 #### Tracklist
 ```md
@@ -47,7 +47,7 @@ B2. Wonderfull Days (Radio Mix)
 ### Scooter – Call Me Mañana
 <a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp"></a>
 
-출시 : 1998 년, "No Time to Chill"수록 싱글
+출시 : 1998 년 "No Time to Chill"수록 싱글
 
 특징 : "James Brown Is Dead"(L.A. Style)의 강렬한 샘플 사용이 빛나는 해피 하드 코어 트랜스. 해외 밴드 Scooter에 의한 이색작.
 
@@ -72,7 +72,7 @@ B2. Call Me Mañana (Heavy Horses Radio)
 ### Ratty – Sunrise (Here I Am)
 <a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(Here%20I%20Am).webp"></a>
 
-개요: Scooter 트랜스 파생 프로젝트 Ratty의 노래
+개요 : Scooter 트랜스 파생 프로젝트 Ratty의 노래
 
 특징 : "She’s The Sun"오리지널 버전 "Sunrise (Ratty's Inferno)"를 표현. 클럽에서 빛나는 열정적인 플로어용 트럭입니다.
 

@@ -59,7 +59,7 @@ Features include the following:
 * Gives breathing dynamics without making the side chain extremely deep
 * Focus on "build ~ melody" rather than drop
 
-Although the influence of Mt. Eden is large, the genre name ""Chillstep'' arose naturally within internet culture.
+Although the influence of Mt. Eden is large, the name ""Chillstep'' as a genre arose spontaneously within internet culture.
 
 ---
 

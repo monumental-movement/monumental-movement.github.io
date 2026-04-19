@@ -15,7 +15,7 @@ title: Snap! – Cult Of Snap (World Power Mix)
 
 Snap! – Cult Of Snap (World Power Mix)은 Snap!의 곡입니다. Snap!은 1980년대와 1990년대에 활약한 독일의 유로댄스 그룹으로, 히트곡 'The Power'나 'Rhythm Is a Dancer' 등으로 알려져 있습니다. Cult Of Snap (World Power Mix)은 캐치 사운드와 팝 에너지가 특징입니다.
 
-「Cult Of Snap (World Power Mix)」은 Snap!의 인기 곡 중 하나이며 댄스 뮤직 팬과 팝 뮤직 애호가에게는 친숙한 곡입니다.
+「Cult Of Snap (World Power Mix)」은 Snap!의 인기 곡 중 하나이며 댄스 뮤직 팬이나 팝 뮤직 애호가에게는 친숙한 곡입니다.
 
 팝 뮤직과 댄스 뮤직의 요소를 융합시켜, 듣는 사람을 춤추게 할 뿐만 아니라, 즐거운 음악 체험을 제공합니다.
 

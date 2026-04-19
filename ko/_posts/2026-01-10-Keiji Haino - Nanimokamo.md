@@ -24,7 +24,7 @@ VHS(비디오 테이프)
 
 감독은 미카미 히로시 『조몬에서 우주로 조몬의 노래(Johmon Rock)』(VHS) 등 담당한 VideoArtist의 노부키 소이치로.
 
-Art Direction은, 아시노 케이지, 불실자, John Zorn, 요시자와 모토지 등의 재킷을 다루는 아라이 야스히사.
+Art Direction은, 아이노 케이지, 불실자, John Zorn, 요시자와 모토지 등의 재킷을 다루는 아라이 야스히사.
 
 프로듀서는, P.S.F. Records의 오너 생기주 히데오.
 

@@ -20,7 +20,7 @@ title: '[Column] Memories of the vibrations of Mukkuri: A cultural history of th
 
 Text: mmr｜Theme: Deciphering the sonic philosophy of Ainu culture and its historical changes through the smallest musical instrument "mukkuri" that resonates with the body and nature.
 
-The mukkuri, a traditional Ainu musical instrument, is a type of musical instrument classified as a so-called ""mouth harp.'' A tongue-shaped part (reed) is cut out from the center of a long, thin bamboo board, and a string is attached to the end. When the string is pulled, the reed vibrates, producing sound using the oral cavity as a resonator.
+The mukkuri, a traditional Ainu musical instrument, is a type of musical instrument classified as a so-called ""mouth harp.'' A tongue-shaped part (reed) is cut out from the center of a long, thin bamboo board, and a string is attached to the end. When the string is pulled, the reed vibrates, generating sound using the oral cavity as a resonator.
 
 Although the mukkuri has a simple structure, it produces extremely delicate changes in sound. Although the pitch itself cannot be changed significantly, the timbre changes depending on how the mouth opens, the position of the tongue, and the way one breathes, resulting in a wide variety of acoustic expressions.
 
@@ -97,7 +97,7 @@ D --> E[finishing]
 
 Machining the reed part is particularly important, as slight differences in thickness and shape can greatly affect the sound. Therefore, the skill and experience of the producer determines the sound quality.
 
-It is also sometimes decorated with carvings, and has value not only as a musical instrument but also as a craft.
+It is also sometimes decorated with carvings, making it valuable not only as a musical instrument but also as a craft.
 
 > Mukkuri is a product of precision handiwork that combines crafts and acoustic technology.
 
@@ -118,7 +118,7 @@ On the other hand, common points include the use of body resonance and timbre ch
 
 From this comparison, it can be seen that even among the universal musical instruments known as the mouth harp, the mukkuri has a form that is particularly closely connected to daily life.
 
-> Mukkuri is a musical instrument that is closely connected to daily life in the global mouth harp culture.
+> Mukkuri is a musical instrument closely connected to daily life in the global mouth harp culture.
 
 ---
 

@@ -18,7 +18,7 @@ title: '[Column] Possibilities of virtual bands: How intangible music has expand
 
 ## What is a virtual band?
 
-Text: mmr | Theme: Deciphering from historical facts how virtual bands that combine digital technology and storytelling have changed the way music is made, heard, and believed.
+Text: mmr｜Theme: Deciphering from historical facts how virtual bands that combine digital technology and storytelling have changed the way music is made, heard, and believed.
 
 
 ### The invention of a "music unit" that has no substance

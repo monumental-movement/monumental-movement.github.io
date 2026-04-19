@@ -12,7 +12,7 @@ title: Fun Fun – Baila Bolero
 ---
 
 
-"Baila Bolero" develops Fun Fun's distinctive dance-pop sound. The song title "Baila Bolero" means "dancing the bolero" in Spanish, and as the name suggests, the song is full of energy and a cheerful rhythm that is easy to dance to.
+"Baila Bolero" develops Fun Fun's distinctive dance-pop sound. The song title "Baila Bolero" means "dancing the bolero" in Spanish, and as the name suggests, the song is full of energy and a cheerful rhythm that makes it easy to dance.
 
 This song is a dance floor song that combines elements of bolero and disco, and features a cool rhythm and catchy melody. The vivid vocals by the Fan Fan members also enhance the charm of the song.
 

@@ -17,7 +17,7 @@ title: Devo – New Traditionalists
 
 "New Traditionalists"는 1981년에 발매된 US의 뉴웨이브 밴드, Devo(디보)의 4번째 앨범이며, 밴드 최초의 완전 셀프 프로듀스·앨범.
 
-‘Whip It’이 수록된 전작의 앨범 Freedom Of Choice(욕망심리학)의 히트를 받으며, 이 앨범에서는 ‘탈진화’를 컨셉으로 신디사이저의 리프와 리듬&전자 타악기에 중점을 둔 미니멀한 분위기가 되고 있다.
+'Whip It'이 수록된 전작의 앨범 Freedom Of Choice(욕망심리학)의 히트를 받으며, 이 앨범에서는 '탈진화'를 컨셉으로 신디사이저의 리프와 리듬&전자 타악기에 중점을 둔 미니멀한 분위기가 되고 있다.
 
 #### Tracklist
 ```md

@@ -115,7 +115,7 @@ The transformation of voice into a material is an expansion of expression, and a
 
 ### 5-1. Identity and voice
 
-Voice reflects an individual's physical characteristics, but it is easily altered by processing techniques. This allows artists to expand their range of self-expression, and listeners to update their awareness of voice.
+Voice reflects an individual's physical characteristics, but it is easily altered by processing techniques. This allows artists to expand their range of self-expression, and listeners to update their awareness of voices.
 
 ### 5-2. Performance ethics and generation technology
 

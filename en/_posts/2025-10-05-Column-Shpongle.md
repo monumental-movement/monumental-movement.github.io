@@ -344,7 +344,7 @@ The sound transcends science, philosophy, religion, and technology.
 He is reconstructing human consciousness itself as sound.
 
 It's not just music.
-It is an evolution of the act of "listening" itself,
+It is the evolution of the act of "listening" itself,
 It is the mandala of consciousness left to humanity by Raja Ram and Simon Posford.
 
 > "Sound is born, disappears, and returns again. That's what Shpongle is."

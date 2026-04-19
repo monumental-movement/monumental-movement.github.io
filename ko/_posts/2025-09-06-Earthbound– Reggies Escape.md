@@ -18,7 +18,7 @@ Earthbound(어스 바운드)는, Alex Dallas와 Alex Gustafson에 의한 듀오.
 
 스위스 취리히를 거점으로 하는 라벨 Straight Ahead로부터 1998년에 릴리스된 Earthbound 「Reggie's Escape 」의 Drum n Bass/Downtempo remix(1999년).
 
-A는, UK의 정글(jungle) DJ ​​Charlie Dark(Charlie Williams/Attica Blues)에 의한 remix.
+A는, UK의 정글(jungle)DJ Charlie Dark(Charlie Williams/Attica Blues)에 의한 remix.
 
 B는 Drum and Bass 프로젝트 Hidden Agenda로도 활약한 Markx Mark Goodings에 의한 remix. Mark Goodings는 Switch, Phonique, Trevor Loveys 등의 mix도 다루고 있다.
 

@@ -22,7 +22,7 @@ Text: mmr｜Theme: Tracing the unique sound philosophy created by a different-di
 Late 1970s, on the shores of Lake Garda in northern Italy.
 Little did anyone know that this place, which was just a resort for tourists, would later become the center of an acoustic phenomenon called **Cosmic Sound**.
 The central figure is **Daniele Baldelli**.
-He has become more than just a DJ, he has become known as an ""architect who reconstructs the speed of sound and space.''
+He is not just a DJ, but has become known as an ""architect who reconstructs the speed of sound and space.''
 
 The disco scene at the time was dominated by 4/4 rhythms, represented by American soul and house music.
 However, Baldelli interweaves ethnic music, electronic sounds, progressive rock, African drums, and even krautrock.
@@ -77,7 +77,7 @@ he speaks.
 > ""It's easy to mix music genres.
 > However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
-His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
+His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
 Throughout the night it feels like a spaceship is going down and out of orbit.
 
@@ -194,6 +194,15 @@ That DNA is certainly alive and well.
 
 > "Cosmic means searching for the inner universe, not the universe."
 > ― Daniele Baldelli
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/abOIMrM9L_Y?si=ViroigDH0MaB6ivN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

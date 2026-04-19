@@ -14,7 +14,7 @@ title: Rude Solo Craig Walsh – Voodoo 2
 ---
 
 
-Rude Solo(루드 솔로)는 일렉트로닉 뮤직 듀오 Two Lone Swordsmen(트론스 워즈맨) 명의로 알려진 Andrew Weatherall(앤드류 웨자올)과 Keith Tenniswood(키스 테니스우드)의 프로젝트.
+Rude Solo(루드 솔로)는 일렉트로닉 뮤직 듀오 Two Lone Swordsmen(투론스 워즈맨) 명의로 알려진 Andrew Weatherall(앤드류 웨자올)과 Keith Tenniswood(키스 테니스우드)의 프로젝트.
 
 Craig Walsh(크레이그 월쉬)는 별명 Soundscape로서 3rd Alternative, Project One, Subculture, The Cause에 소속되어 Primal Scream의 트랙 'Original Sin'으로 보컬을 담당한 Nina Walsh는 형제 여동생.
 

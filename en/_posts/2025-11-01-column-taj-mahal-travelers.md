@@ -18,7 +18,7 @@ title: '[Column] Taj Mahal Travel Group and Takehisa Kosugi - A journey to unlea
 ## I. Starting point in the 1960s: Beyond musical institutions
 
 
-Text: mmr｜Theme: A sonic pilgrimage where improvisation and environmental sounds intertwine - A record of a journey to the outside of music drawn by Takehisa Kosugi and the Taj Mahal Travel Group
+Text: mmr｜Theme: A sonic pilgrimage where improvisation and environmental sounds intertwine - A record of a journey to the outside of music, drawn by Takehisa Kosugi and the Taj Mahal Travel Group
 
 
 In the early 1960s, Japan's avant-garde music scene was quietly flourishing.

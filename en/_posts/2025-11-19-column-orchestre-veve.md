@@ -176,7 +176,7 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 

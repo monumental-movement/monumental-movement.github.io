@@ -14,7 +14,7 @@ title: Euphone – The Lakewood
 ---
 
 
-Euphone(유폰)은 시카고를 거점으로 활동하는 포스트 록 밴드.
+Euphone은 시카고에 기반을 둔 포스트 록 밴드입니다.
 
 Five Style(5스타일)의 전 멤버이자 The Lonesome Organist(론삼 오르가니스트) 명의로도 활동하는 Jeremy Jacobsen이 이 앨범에서 정식으로 멤버로 참여하고 있다.
 

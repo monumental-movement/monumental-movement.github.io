@@ -13,7 +13,7 @@ title: Justin Berkovi – I Can Feel The Sound
 
 
 Justin Berkovi is a London-based techno DJ/producer and founder of Predicaments.
-また、Justin Berkovi はCristian Vogel（クリスチャン・ヴォーゲル）が主軸のmusic&ヴィジュアル・アート集団「NO FUTURE」にSi Begg（サイ・ベグ）、ジャミー・リデル（Jamie Lidell）らと共に参加している。
+Additionally, Justin Berkovi is participating in the music and visual art group NO FUTURE, which is led by Christian Vogel, along with Si Begg, Jamie Lidell, and others.
 
 "I Can Feel The Sound" was released in 2004 by Belgian techno label Music Man Records. Side A is a remix by DJ/producer Phil Kieran from Belfast, Northern Ireland. The first song on side B is a remix by French DJ Max Waldern.
 

@@ -165,7 +165,7 @@ pie
 
 The fusion of Ambient and Rap creates a new experience at the intersection of musical genres. History, theory, production methods, and listener experience interact to provide an introspective space that goes beyond mere appreciation.
 
-With technological advances such as AI-generated music and binaural recording, meditation playlists have the potential to become more personalized and provide a deeply immersive experience.
+With technological advances such as AI-generated music and binaural recordings, meditation playlists have the potential to become more personalized and provide a deeply immersive experience.
 
 > Our inner journey opens at the intersection of silence and beat.
 

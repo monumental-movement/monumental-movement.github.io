@@ -119,7 +119,7 @@ However, visual kei and idol culture survived with a "different grammar."
 
 If K-POP's strength lies in its precision as a "completed product,"
 Japanese subculture music is about "imperfection" and "closeness,"
-In other words, the value is the amount of room for fan intervention.
+In other words, the value is **a lot of room for fan intervention**.
 The reason why overseas fans are attracted to Japanese underground idols and indie visual kei is that
 This is because I sympathize with its "open and unfinished nature."
 

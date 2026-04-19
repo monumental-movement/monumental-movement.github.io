@@ -53,7 +53,7 @@ color: #fff;
 
 #### Descendents (1978 결성)
 - 1979년 'Milo Goes to College' 출시
-- 팝업으로 멜로딕 하드 코어의 기초를 구축
+- 팝업으로 멜로디 하드 코어의 기초를 구축
 - 특징 : 짧은 노래, 캐치 코러스, 개인 가사
 - 대표곡 : “Myage”, ”Suburban Home”
 
@@ -159,7 +159,7 @@ flowchart TD
 | 1991 | Hi-Standard 결성 | — |
 | 1995 | 'Growing Up' | Hi-Standard |
 | 1997 | 일본 멜로코어 붐 | ELLEGARDEN 결성 |
-| 1998 | Hi-Standard 미국 투어 | Fat Wreck Chords 계약 |
+| 1998 | 하이 스탠다드 아메리칸 투어 | Fat Wreck 코드 계약 |
 | 2001 | 메이저 데뷔 | ELLEGARDEN 'Bring Your Board!!' |
 
 ---

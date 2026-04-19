@@ -59,7 +59,7 @@ What is important is that post-rock was not a ""negation of rock.'' While the gu
 
 ## Changes in the listening experience brought about by instrumentalization
 
-One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the foreground, the music was freed from concrete meanings and narratives, turning it into a more abstract experience.
+One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the picture, the music was freed from concrete meanings and stories, and turned into a more abstract experience.
 
 With instrumental music, the listener doesn't have to follow the words. Instead, attention is directed to the overlapping sounds, changes in strength and weakness, and the passage of time itself. This is a listening experience that requires active immersion rather than passive consumption.
 

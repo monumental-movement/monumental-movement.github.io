@@ -16,7 +16,7 @@ title: Eve Gallagher – Love Is A Master Of Disguise
 
 Eve Gallagher (이브 갤러거)는 UK 출신의 하우스 뮤직 싱어.
 
-「Love Is A Master Of Disguise」는 2번째의 싱글로, 프로듀서는 Mark Brydon. A면과 B면 1곡째는 Frankie Knuckles(프랑키 너클스)가 프로듀서로서 참가하고, B면 3곡째는 프로듀스 그룹 Brothers In Rhythm의 Steve Anderson(스티브 앤더슨)이 remix하고 있다.
+「Love Is A Master Of Disguise」는 2번째 싱글로, 프로듀서는 Mark Brydon. A면과 B면 1곡째는 Frankie Knuckles(프랑키 너클스)가 프로듀서로서 참가하고, B면 3곡째는 프로듀스 그룹 Brothers In Rhythm의 Steve Anderson(스티브 앤더슨)이 remix하고 있다.
 
 #### Tracklist
 ```md

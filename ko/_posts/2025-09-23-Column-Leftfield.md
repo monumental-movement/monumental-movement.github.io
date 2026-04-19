@@ -85,7 +85,7 @@ flowchart TD
 
 ### 관련 키워드 / Related Keywords
 
-Leftfield 장르와는, UK 일렉트로니카, 트립 홉과의 관계
+Leftfield 장르란?, UK 일렉트로니카, 트립홉과의 관계
 
 
 

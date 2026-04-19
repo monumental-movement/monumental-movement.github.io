@@ -15,7 +15,7 @@ title: Cheap Trick – In Color
 
 Cheap Trick(치프 트릭)은 로빈 잔더, 릭 닐슨, 톰 피터슨, 반 E 카를로스에 의해 1974년 일리노이주 록포드에서 결성된 US 록 밴드.
 
-'In Color(창창한 고속도로)'는 Cheap Trick의 2nd 앨범. 프로듀서는 Ted Nugent(테드 뉴젠트)의 프로듀서 등으로 알려진 톰 워먼.
+「In Color(창창한 고속도로)」는 Cheap Trick의 2nd 앨범. 프로듀서는 Ted Nugent(테드 뉴젠트)의 프로듀서 등으로 알려진 톰 워먼.
 
 #### Tracklist
 ```md

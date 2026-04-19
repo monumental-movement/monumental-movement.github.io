@@ -19,11 +19,11 @@ title: Harmonic 33 –Music For Film, Television & Radio Volume One
 
 "Bossa Nova Supernova"와 "Departure Lounge"처럼 이지 청취가 원활하게 흐릅니다.
 
-반대로 철저한 기발함을 요구한다면, "Funky Duck"을 들어보자.
+반대로 철저한 기발함을 추구한다면 "Funky Duck"을 들어보자.
 
 스파이 드라마를 좋아한다면 "Paranoia"와 "Long Shadow"가 준비되어 있습니다.
 
-"Marionette"와 같은 짧은 악곡에서도, 그 존재감은 제대로 주장해, 생각깊고 멜랑콜릭인 "Planet 54"로, 이 앨범은 마무리됩니다.
+"Marionette"와 같은 짧은 악곡에서도, 그 존재감은 제대로 주장하고, 생각깊고 멜랑콜릭인 "Planet 54"로, 이 앨범은 마무리됩니다.
 
 #### Tracklist
 ```md

@@ -44,7 +44,7 @@ Footwork/Juke was born in Chicago's ghetto communities in the late 1980s and ear
 
 - **Late 1980s**: As Chicago House flourishes, a more aggressive house sound known as "Ghetto House" develops at area clubs and parties.
 - **Early 1990s**: A culture of short breakbeats, repeated samples, and fast-moving dance steps known as Juke was established.
-- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely linked begins to spread.
+- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely connected begins to spread.
 
 <div class="mermaid">
 flowchart TD
@@ -162,7 +162,7 @@ Creative sample use, close connection between dance and music.
 
 ---
 
-## 10. Summary
+## 10. まとめ
 
 Footwork/Juke is more than just a music genre, it is a form of expression that brings together Chicago's social background, street dance culture, and the creativity of young people. Although it has spread internationally, it remains a culture rooted in local communities.
 

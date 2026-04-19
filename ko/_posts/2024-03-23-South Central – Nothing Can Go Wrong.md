@@ -14,7 +14,7 @@ title: South Central – Nothing Can Go Wrong
 ---
 
 
-「Nothing Can Go Wrong」은, 2007년에 UK의 인디펜덴트레이벨 A/G/P로부터 릴리스된, 영국 브라이튼 출신의 DJ 듀오 South Central(사우스 센트럴)에 의한 글리치 일렉트로 트랙.
+「Nothing Can Go Wrong」은, 2007년에 UK의 인디펜덴트레이벨 A/G/P로부터 릴리스된, 영국 브라이튼 출신의 DJ 듀오 South Central(사우스 센트럴)에 의한 글리치 일렉트로트랙.
 
 #### Tracklist
 ```md

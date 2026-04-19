@@ -17,7 +17,7 @@ title: '[Column] The Afro-Cuban skeleton - The genealogy of the heartbeat carved
 ## Introduction: Another history of American music told by taiko drums
 
 
-Text: mmr｜Theme: Centered around Sabu Martinez and Arsenio Rodríguez
+Text: mmr｜Theme: Based on Sabu Martinez and Arsenio Rodríguez
 Tracing the turning points of Latin music history longitudinally
 
 In the 1950s, a rhythm exchanged at the back door of a jazz club shook the very fabric of American music.
@@ -62,7 +62,7 @@ It is against this background that a blind revolutionary named **Arsenio Rodríg
 ### "El Ciego Maravilloso (The Miraculous Blind Player)"
 
 Born in Havana, Arsenio lost his eyesight in an accident as a child.
-In exchange for this sense, he gained the supernatural ability to hear the "inner structure of rhythm."
+In exchange for this sensation, he gained the supernatural ability to hear the "inner structure of rhythm."
 
 ### His innovations:
 
@@ -110,7 +110,7 @@ His sound is connected to later Afro-spiritual jazz (Pharoah Sanders, Alice Colt
 
 When Arsenio moved to the United States in 1950 and started working in Harlem,
 Sabu had been doing sessions in the same city.
-Although their point of contact is not a direct collaboration,
+Although their point of contact is not direct co-starring,
 They were deeply intersected within the **Bronx-Harlem Afro-diaspora culture**.
 
 | Era | Arsenio Rodríguez | Sabu Martinez |

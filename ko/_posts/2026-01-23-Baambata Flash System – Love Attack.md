@@ -16,9 +16,9 @@ title: Baambata Flash System – Love Attack
 
 Baambata Flash System은 Sergio Flash와 Steiv 명의로도 알려진 이탈리아 아티스트입니다.
 
-「Love Attack」은, 1989년에 이탈리아의 이탈로디스코/유로비 트래블 Asia Records로부터 발매된 Eurobeat/Hi NRG트랙.
+「Love Attack」은, 1989년에 이탈리아의 이탈로디스코/유로비 트래블 Asia Records로부터 릴리스된 Eurobeat/Hi NRG트럭.
 
-프로듀서는, 이타로 댄스/이탈로디스코의 이름 프로듀서들, Mauro Farina, Florian Fadinger, Giuliano Crivellente의 팀 Aston, Martin & Fadinger(F.C.F.).
+프로듀서는 이탈로 댄스/이탈로디스코의 이름 프로듀서들, Mauro Farina, Florian Fadinger, Giuliano Crivellente의 팀 Aston, Martin & Fadinger(F.C.F.).
 
 #### Tracklist
 ```md

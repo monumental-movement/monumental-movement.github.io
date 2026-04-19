@@ -99,7 +99,7 @@ Music is a therapy, a medium, and a technique for crossing boundaries.
 ## Integration of mythology, language, and music
 
 
-In indigenous Amazonian societies, myths are often told in songs. Specific melodies are associated with specific stories, and when sung, past events are recreated in the present.
+In Amazonian indigenous societies, myths are often told in songs. Specific melodies are associated with specific stories, and when sung, past events are recreated in the present.
 
 In a society without written materials, music functions as a memory device. Forgetting the melody is synonymous with losing the story. The language itself is melodic, and the boundaries between spoken words and songs are blurred.
 

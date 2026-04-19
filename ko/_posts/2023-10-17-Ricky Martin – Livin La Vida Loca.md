@@ -13,7 +13,7 @@ title: Ricky Martin – Livin' La Vida Loca
 ---
 
 
-1999년에 릴리스된 리키 마틴의 세계에서 히트한 유명한 Livin' La Vida Loca의 리믹스가 수록된 2장 세트 EP입니다.
+1999년에 릴리스된 리키 마틴의 세계에서 히트한 유명한 Livin' La Vida Loca의 리믹스가 수록된 2매 세트 EP입니다.
 
 #### Tracklist
 ```md

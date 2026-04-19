@@ -302,7 +302,7 @@ His activities are as DJ Keiji Haino.
 
 In this style, they perform while playing music from around the world on CDJs.
 
-The music selected is not limited to any genre.
+The music selected is not limited to genre.
 
 folk music
 rock
@@ -423,7 +423,7 @@ By encountering unknown sounds, my music also changes.
 
 ### Flow of solo and major works
 
-Keiji Haino has released a huge amount of recorded works from the late 1970s to the present.
+Keiji Haino has released a vast amount of recorded works from the late 1970s to the present.
 The format is diverse, including studio works, live recordings, limited editions, and collaborations, and the total number is said to be in the hundreds.
 
 The following is a flow of important works that are widely known among them.
@@ -851,3 +851,11 @@ By continuing to go beyond existing boundaries, they have shown the possibilitie
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QqNCBj6OvsA?si=3ImcXtCiLh5B4Ff_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

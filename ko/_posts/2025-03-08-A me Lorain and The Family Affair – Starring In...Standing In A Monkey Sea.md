@@ -19,7 +19,7 @@ title: A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Se
 
 1990년 RCA에서 발매된 이 앨범은 미국의 팝 싱어이며, 펑크 밴드 The Family Affair의 프런트, A'me Lorain(에이미 롤레인)의 데뷔 앨범. 일본제는 「토키메키의 원더랜드」
 
-1990년에 발매한 수록곡 Whole Wide World는 전미의 댄스 차트에서 대히트가 되어, 영화 True Love의 사운드 트랙에도 사용되었다.
+1990년에 발표한 수록곡 Whole Wide World는 전미의 댄스 차트에서 대히트가 되어, 영화 True Love의 사운드 트랙에도 사용되었다.
 
 
 #### Tracklist

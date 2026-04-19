@@ -13,7 +13,7 @@ title: Plutocracy – Dankstahz
 ---
 
 
-「Dankstahz」는,
+"Dankstahz"는
 1996년에 독일의 라벨 「Anomie Records」로부터 릴리스된 캘리포니아에서 결성된 그라인드 코어 밴드 「Plutocracy」에 의한 10 인치 레코드입니다.
 
 #### Tracklist

@@ -18,7 +18,7 @@ title: Miles Davis – Originals / Moods
 
 F-1과 F-3는, Howard Roberts Chorale나 Harry Belafonte(해리 베라폰테)와의 일로 알려진 Howard A. Roberts(하워드 로버츠)가 프로듀스.
 
-F-4의 「It's About That Time」은, bass가 Dave Holland(데이브 홀랜드), piano가 Chic Corea(틱 코리아)와 Joe Zawinul(조·자비눌).
+F-4의 'It's About That Time'은 bass가 Dave Holland(데이브 홀랜드), piano가 Chic Corea(틱 코리아)와 Joe Zawinul(조 자비눌).
 
 #### Tracklist
 ```md

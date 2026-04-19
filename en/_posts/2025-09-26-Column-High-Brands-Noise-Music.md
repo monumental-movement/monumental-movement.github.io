@@ -329,6 +329,15 @@ The roar that echoes on the runways of the 21st century is proof that brands are
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lk1stD9OoT4?si=5pUqbzW7aon05sg7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Related columns
 
 

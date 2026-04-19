@@ -64,7 +64,7 @@ color: #fff;
 ### Nissan/Infiniti
 
 - **Representative model**: Infiniti QX80 (Bose 16 speaker system)
-- **Technology**: Analyze speaker placement and material reflections and conduct tuning in collaboration with BOSE to optimize in-car acoustics
+- **Technology**: To optimize in-car acoustics, speaker placement and material reflections were analyzed and tuned in collaboration with BOSE.
 
 ---
 

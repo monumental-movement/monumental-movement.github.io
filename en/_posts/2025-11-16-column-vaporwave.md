@@ -59,7 +59,7 @@ Early Eccojams were not just slowdowns, but devices that created new emotions by
 ### 2-2 Direction of aesthetics
 
 * **The collapse of an artificial utopia** (Utopian Virtual)
-* **Decadence, industrialization, destructive future image** (Hardvapour)
+* **Decadence, industrialization, and destructive future vision** (Hardvapour)
 * **The sweetness and irony of consumer culture** (Future Funk)
 * **Fusion of urban ghostliness and environmental sounds** (Mallsoft)
 
@@ -175,7 +175,7 @@ graph TD
 
 What is vaporwave and its core definition**
 
-### **5-1　Beyond "genre"**
+### **5-1 Towards an existence that transcends "genre"**
 
 Vaporwave was initially treated as a ""minor genre that originated on the Internet'', but
 After spreading for more than 10 years, it has become a cultural device that transcends genres, as shown below.

@@ -99,17 +99,17 @@ This album would later be reevaluated as a precursor to "alt-country" artists su
 In the 1990s, the Mekons moved to Chicago.
 Jon Langford deepens his collaboration with American musicians, developing other projects such as the Waco Brothers and Pine Valley Cosmonauts.
 Sally Timms will be collaborating with local poets and Tom Greenhalgh will be involved in video production.
-During this period, Mekons existed as a "drifting artistic community" that transcended nationality and genre.
+During this period, Mekons existed as a ""drifting artistic community'' that transcended nationality and genre.
 
 It was said that "Mekons" music sounds like it doesn"t belong anywhere."
 Like immigrants, they moved between musical contexts, creating temporary homes there.
 The album [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) is a symbol of this, and its acoustic composition, which includes brass and violin, emphasizes its "foreignness."
-Although he used Pro Tools for this work, he intentionally used an analog console for mixing, leaving a ""human imbalance.''
+Although he used Pro Tools for this work, he purposely used an analog console for mixing, leaving a ""human imbalance.''
 
 ---
 
 ### Chapter 5: Feminism and Solidarity, Perspectives of Female Members
-> **"As more voices grow, the truth becomes more divided."**
+> **"As voices multiply, the truth splits."**
 
 Sally Timms deserves special mention in Mekons history.
 When she officially joined the group in 1985, she functioned not just as a vocalist, but as a "storyteller."

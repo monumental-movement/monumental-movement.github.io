@@ -23,7 +23,7 @@ Text: mmr｜Theme: About Kendrick Lamar, who expanded hip-hop from fragmentary s
 
 Kendrick Lamar's body of work is not a collection of songs, but has a structure closer to a full-length novel or a classic epic poem. His albums go beyond the concept of "song order" and overlap personal and social history while manipulating time, perspective, and narrator. There is no chance or improvisation, but a carefully designed narrative structure.
 
-Hip-hop originally developed as an expression that captures the emotions and reality of the moment. Every battle, every block party, every song on the radio had value in its ephemerality. But Kendrick offered a way to use the format to tell long-distance stories. The structure, which can only be seen in its entirety by listening to the album as a whole, requires listeners to actively read it.
+Hip-hop originally developed as an expression that captures the emotions and reality of the moment. Every battle, every block party, every song on the radio had value in its ephemerality. But Kendrick offered a way to use the format to tell long-distance stories. The structure, which can only be seen in its entirety by listening to the album as a whole, requires the listener to actively read it.
 
 Furthermore, his story cannot be reduced to self-praise or success stories. Rather, by actively placing failure, fear, regret, and contradiction at the center of the story, he visualizes the ""weakness" and ""silence" that hip-hop has avoided. This overlaps with the history of epic poems, which depict not only the glory of heroes but also their trials and sufferings.
 
@@ -52,7 +52,7 @@ color: #fff;
 
 Kendrick Lamar Duckworth was born in 1987 in Compton, California. This city has been a symbol of West Coast gangsta rap since N.W.A. It was a space where violence, poverty, police power, and racial issues were embedded in everyday life. Kendrick's narrative never departs from this concrete sense of place.
 
-Compton is more than just a backdrop; it has the power to define the story. Concrete details such as travel routes, intersections, residential areas, and fast food restaurants appear repeatedly and resist abstraction. The city itself functions as a character, like a city-state or a battlefield in an epic poem.
+Compton is more than just a backdrop; it has the power to define the story. Concrete details such as travel routes, intersections, residential areas, and fast food restaurants appear repeatedly and resist abstraction. Like a city-state or a battlefield in an epic poem, the city itself functions as a character.
 
 ### Narrator's position
 

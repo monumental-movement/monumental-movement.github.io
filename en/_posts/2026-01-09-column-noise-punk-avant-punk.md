@@ -137,7 +137,7 @@ timeline
 
 This trend occurred intensively in a short period of time and left a deep influence on subsequent alternative music.
 
-> Although the history of noise punk is short, its aftershocks continue for a long time.
+> The history of noise punk is short, but its aftershocks are long lasting.
 
 ---
 

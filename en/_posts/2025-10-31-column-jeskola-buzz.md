@@ -135,7 +135,7 @@ In this chapter, we will highlight artists who actually used Buzz or have been m
 ### 5.1 Definitely used: James Holden
 
 James Holden has mentioned in multiple interviews that he used Buzz to produce music. For example, a MusicRadar article states, "When we first interviewed Holden – all the way back in 2006 – he was using Jeskola Buzz, a free, tracker‑based software environment, to write his debut album *The Idiots Are Winning*."
-Additionally, forum posts include statements such as "James Holden"s music … got me into it, he works primarily with (or at least used to) Buzz."
+Additionally, forum posts include statements such as "James Holden's music … got me into it, he works primarily with (or at least used to) Buzz."
 
 #### Interview style quotation (reconstruction)
 

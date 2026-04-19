@@ -19,7 +19,7 @@ title: '[Column] Rara: Festival music and social memory resounding on the street
 
 ## Prologue: A procession of sounds filling the road
 
-Text: mmr｜Theme: The history and present of street culture where religion, politics, and community intersect, deciphered through Haitian festival music Rara
+Text: mmr｜Theme: The history and present of street culture where religion, politics, and community intersect, deciphered through Haitian festival music rara
 
 The season has arrived on the dry land of Haiti, where sharp metal sounds and low, undulating drums overlap. Rara does not have a specific venue. Music moves along the roads, penetrates the villages, and transforms people's living spaces into stages. The group continues walking until dawn, accompanied by costumes, dances, and religious symbols. This music is not entertainment, but prayer, political statement, and history storyteller.
 

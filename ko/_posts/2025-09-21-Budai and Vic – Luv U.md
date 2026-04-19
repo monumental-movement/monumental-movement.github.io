@@ -18,7 +18,7 @@ Budai & Vic Imre Bugyik & Viktor Kámán은 2000년부터 제작을 시작하여
 
 「Luv U」는, 2006년에 I Love Deep Records 분 출시된 Deep House.
 
-A는 독일 DJ/프로듀서 Terry Lee Brown Jr.(Norman Feller)에 의한 remix.
+A는 독일의 DJ/프로듀서 Terry Lee Brown Jr.(Norman Feller)에 의한 remix.
 
 B2는 헝가리 출신의 DJ/프로듀서 Andro(Gábor Baki)에 의한 remix.
 

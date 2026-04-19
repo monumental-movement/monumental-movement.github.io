@@ -181,7 +181,7 @@ These differences are not ""misinterpretations'' but are legitimate forms of inh
 
 ## Role differentiation of singing, dancing, and didgeridoo
 
-It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo changes its role.
+It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo's role changes.
 
 In parts of East Arnhem Land, the didgeridoo functions as a stable support that keeps the pitch as low as possible and matches the rhythm of the lyrics. In contrast, in the West, the didgeridoo provides rhythmic cues and guides the dancers' movements.
 
@@ -191,7 +191,7 @@ In parts of East Arnhem Land, the didgeridoo functions as a stable support that 
 
 ## Musical representation seen in rock paintings
 
-Rock art throughout northern Australia depicts human figures holding long, tubular instruments, as well as hunting and ceremonial scenes. These have been interpreted to refer to the didgeridoo or its predecessor.
+Rock art throughout northern Australia depicts human figures holding long, tubular musical instruments, as well as hunting and ceremonial scenes. These have been interpreted to refer to the didgeridoo or its predecessor.
 
 The depiction of musical instruments in rock art is more a symbol of ritual action than a realistic record. The body decorations and placement of the figures suggest that music was performed as a collective practice.
 

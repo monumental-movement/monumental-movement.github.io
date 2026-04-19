@@ -82,7 +82,7 @@ An album released by Richie Hawtin under the alias Plastikman on the NovaMute la
 
 ## Chapter 3: "Consumed" – The aesthetics of "silence"
 1998's _Consumed_ is an outlier in the history of techno. The BPM is slow and the rhythm is no longer a drum, but a low frequency sound like breathing.
-This work, which seems to be floating in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
+This work, which seems to float in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
 
 With this work, Hawtin becomes the first artist to equate "minimalism" with "nihility." Plastikman's minimalism was not an omission, but a strategy of silence that highlighted the contours of existence.
 
@@ -97,7 +97,7 @@ On his stage, an environment was constructed in which MacBook, MIDI controller, 
 ---
 
 ## Chapter 5: Playing Plastikman with "EX"
-""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to the museum space.
+""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to a museum space.
 The stage is shrouded in darkness, and Houtin stands as if imprisoned in a glowing cage. The audience shares the experience of ""observing the structure of sound" rather than ""watching a DJ."
 
 > "Plastikman remains the music of an inward journey."

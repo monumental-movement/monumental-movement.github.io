@@ -14,7 +14,7 @@ title: Good Groove w Soul – Funkin' You4
 ---
 
 
-Good Groove(Klaus Löschner)는 독일 뮌헨 출신의 테크노 DJ/프로듀서. 1985년에 활동을 시작해 당시 유행의 Babalu Club에서 Sven Väth, Westbam, Dr. Motte와 함께 뮌헨에서 최초의 뮌헨 테크노 파티를 주최했다.
+Good Groove(Klaus Löschner)는 독일 뮌헨 출신의 테크노 DJ/프로듀서. 1985년 활동을 시작해 당시 유행의 Babalu Club에서 Sven Väth, Westbam, Dr. Motte와 함께 뮌헨에서 최초의 뮌헨 테크노 파티를 주최했다.
 
 A2는, UK의 일렉트로닉 뮤지션/DJ/프로듀서 Luke Slater(루크·슬레이터)에 의한 remix.
 

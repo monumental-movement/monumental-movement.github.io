@@ -62,7 +62,7 @@ Y. Cosmic Glue
 ### Dillinja – Fluid / Hard Noize
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
-박력의 "Reese"베이스가 울리는, 앵글라 드럼 베이스 스테디셀러 트랙의 12 ".
+박력의 “Reese” 베이스가 울리는, 앙그라·드럼 베이스 스테디셀러 트럭의 12″.
 
 #### Tracklist
 ```md

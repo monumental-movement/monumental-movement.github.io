@@ -13,7 +13,7 @@ title: Dave and Dr. DOPE – Get Wild
 ---
 
 
-이탈리아 프로듀서 Dave Rodgers (데이브 로저스)와 Dr. D.O.P.E. (닥터 도프)에 의한 TM NETWORK (TM 네트워크)의 "Get Wild (겟 와일드)"의 하이퍼 테크노 어레인지 믹스.
+이탈리아의 프로듀서 Dave Rodgers(데이브 로저스)와 Dr. D.O.P.E.(닥터 도프)에 의한 TM NETWORK(TM 네트워크)의 「Get Wild(겟 와일드)」의 하이퍼 테크노·어레인지 믹스.
 
 프로듀서는 Alberto Contini(알베르토 콘티니)와 Dave Rodgers(데이브 로저스).
 

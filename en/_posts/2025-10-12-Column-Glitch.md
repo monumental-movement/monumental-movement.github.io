@@ -67,7 +67,7 @@ That's why the unstable beauty created by JPEG corruption and signal noise feels
 
 Glitch has also permeated fashion and advertising.
 The method of incorporating the disordered pixels into the design took the street culture by storm in the late 2010s as "broken design."
-We are finally able to enjoy the fact that it is not perfect, and that even digital has "noise".
+We are finally able to enjoy the fact that it is not perfect, and that even digital products contain "noise."
 
 ---
 

@@ -212,7 +212,7 @@ flowchart TD
 Changes in music exposure among young people:
 
 * Decrease in TV viewing time
-* Increased YouTube viewing time
+* YouTube視聴時間の増加
 * Increased gameplay time
 * Establishment of streaming usage
 

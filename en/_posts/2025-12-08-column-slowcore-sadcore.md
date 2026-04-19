@@ -152,7 +152,7 @@ example:
 | Kick --- | Snare ----- | Hat - |
 
 
-Controlling ""margin length'' is more important than tempo.
+Controlling the ""margin length'' is more important than the tempo.
 
 ---
 
@@ -232,7 +232,7 @@ flowchart TD
 ---
 
 # 10. Summary
-Slowcore/Sadcore is a genre that was born in the 1990s in American indie music and places value on ""quietness.'' Slow tempo, few notes, distant reverberations, and introspective lyrics. These were born as the opposite of intense music, but now they are once again in the spotlight in visual culture and social media.
+Slowcore/Sadcore is a genre that was born in the 1990s in the American indie genre and places value on ""quietness.'' Slow tempo, few notes, distant reverberations, and introspective lyrics. These were born as the opposite of intense music, but now they are once again in the spotlight in visual culture and social media.
 
 Rather, the limitation of ""few sounds'' **allows the listener to sink deeper into the music, allowing the contours of the world to emerge more clearly**.
 Slowcore is a unique type of music that quietly depicts the smallest units of emotion.
