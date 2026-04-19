@@ -19,7 +19,7 @@ title: '[Column] Musical culture of indigenous Amazonians: a universe of sounds 
 
 ## Prologue: A world of sounds that fills the forest
 
-Text: mmr｜Theme: Music culture is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
+Text: mmr｜Theme: Music culture that is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
 
 The Amazon River Basin is one of the most culturally diverse regions in the world. Hundreds of indigenous groups have lived together, each with their own distinct languages, myths, and social structures. In this context, music has developed not as an independent form of entertainment or art, but as an act that is inseparable from life itself.
 
@@ -70,7 +70,7 @@ These musics do not "describe" nature. This is an act to reaffirm that humans ex
 
 ---
 
-## Symbolism of instrumentation and materials
+## Symbolism of instrument systems and materials
 
 
 The instruments used are made from materials obtained from the surrounding environment. The main materials are wood, bamboo, bone, seeds, shells, and clay, each with specific symbolism.

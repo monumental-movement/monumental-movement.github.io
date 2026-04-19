@@ -98,7 +98,7 @@ Rotor's guitar and bass slide like a streamline,
 Music has made "moving forward" itself an objective.
 
 NEU! recorded in the studio due to a lack of funds.
-Rotate the tape backwards, change the speed, cut and paste the sounds,
+Rotating the tape in reverse, changing the speed, cutting and pasting the sounds,
 It shook the boundary between "life" and "machine."
 
 > "Motorik is the sound of ""human continuation,'' not a machine."

@@ -93,7 +93,7 @@ In this way, the Gundam music of the 1979-80s can be said to be an opportunity t
 
 The meaning that Gundam music played in this era can be summarized as follows. First, as anime music began to connect with the mass market, the works themselves began to be developed as "music products." Music releases, such as theme song singles, theatrical accompaniment album releases, and song introductions on radio programs, became a regular part of the production.
 
-Music also served as a device to channel the emotions of the audience. The bass rhythm during battle scenes, the tranquil strings in outer space, the chorus when the Newtype awakens, the lyrical melodies during scenes of friendship and farewell... these acoustic effects supported the multilayered story world of the Gundam series.
+Music also served as a device to channel the emotions of the audience. Bass rhythms during battle scenes, tranquil strings in outer space, choruses when Newtypes awaken, lyrical melodies during scenes of friendship and farewell... these acoustic effects supported the multi-layered story world of the Gundam series.
 
 Furthermore, these musical devices had a major influence on subsequent series. For example, in 1985, ""To the Planet of Water with Love'' (sung by Hiroko Moriguchi) had Neil Sedaka as the composer, and international composers and melodies have begun to be used.
 

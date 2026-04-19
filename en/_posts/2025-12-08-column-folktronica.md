@@ -52,7 +52,7 @@ Main features:
 - Digital editing (cut-up, granular processing)
 - Field recording texture
 - Simple but emotional melody
-- Coexistence of "touch" and "artificial objects"
+- Coexistence of "touch" and "artificial object"
 
 ### ■ What is Indietronica?
 The flow of introducing electronic music into the context of indie rock.

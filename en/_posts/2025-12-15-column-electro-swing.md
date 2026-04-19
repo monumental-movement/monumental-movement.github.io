@@ -51,7 +51,7 @@ On the other hand, electronic dance music, which has developed since the 1970s, 
 ## 2. Preconditions for the establishment of a genre
 
 
-In order for Electro Swing to come into being, the following technical and cultural conditions were necessary.
+In order for Electro Swing to come into existence, the following technical and cultural conditions were necessary.
 
 * Popularization of digital sampling technology
 *Early Internet culture where copyright management was relatively loose
@@ -187,7 +187,7 @@ This is achieved through rhythmic simplification and melodic fragments with stro
 
 ## 18. Reception in Japan
 
-Although Electro Swing has not become a large-scale movement in Japan, it has been intermittently accepted in the context of club events, dance scenes, and video production. It has a high affinity with jazz cafe culture, a reappraisal of Showa songs, and a vintage orientation.
+Although Electro Swing has not become a large-scale movement in Japan, it has been accepted intermittently in the context of club events, dance scenes, and video production. It has a high affinity with jazz cafe culture, a reappraisal of Showa songs, and a vintage orientation.
 
 On the other hand, another characteristic is that it was difficult to form a clear domestic scene. This is influenced by a tendency to subdivide existing genres and a cultural tendency to avoid excessive stylization.
 

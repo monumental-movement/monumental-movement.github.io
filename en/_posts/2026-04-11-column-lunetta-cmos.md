@@ -146,7 +146,7 @@ However, the decisive difference is that the focus is on logic signals rather th
 
 ## Acoustic characteristics
 
-### Dominance of square waves
+### Square wave domination
 
 The basic waveform of CMOS Synth is a square wave. This results in the following characteristics:
 
@@ -218,7 +218,7 @@ The voltage itself acts as a parameter.
 
 ---
 
-## Chronology: Deployment of CMOS Synth and Lunetta
+## Timeline: Deployment of CMOS Synth and Lunetta
 
 ### 1970s-1990s
 

@@ -190,7 +190,7 @@ The prototype of the "celebration of life and creativity" that has been inherite
 
 A theme that explores mysterious existence and the ambiguity of the universe and consciousness. Interactive works using participatory levitation or light stood out.
 
-For example, it has been reported that there is a work called ""30-foot luminous float 'Nebulous Entity.''
+For example, it has been reported that he has a work called ""30-foot luminous float 'Nebulous Entity.''
 
 ---
 
@@ -264,7 +264,7 @@ A theme that explores the conflicting axes of hope and fear. There were structur
 
 A theme that reconsiders the relationship between nature and civilization. A composition based on the motif of the "Green Man" (an anthropomorphic figure of plants and naturally occurring plants).
 
-However, in that year, his burning art ""Crude Awakening,'' which imitated a giant oil rig, caused controversy and was criticized.
+However, in that year, his burning art ""Crude Awakening'', which imitated a giant oil rig, caused controversy and was criticized.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -298,7 +298,7 @@ The themes are rites of passage, transition, and transformation. Festival-like i
 
 #### 2012: Fertility 2.0
 
-A re-examination and update of 1997's "Fertility". The theme is creativity, regeneration, and budding for the future.
+A re-examination and update of 1997's "Fertility". The theme is creativity, rebirth, and budding into the future.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxRAg9Pcpm4?si=UmFXzznWDdCJXQTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -308,7 +308,7 @@ A re-examination and update of 1997's "Fertility". The theme is creativity, rege
 
 Using the cargo cult (the gap between material culture and faith) as a motif, we re-examine modern consumer society, cargo distribution, and ritualization.
 
-Many camps and structures express the gap between the ""material being worshiped" and the ""gift economy."
+Many of the camps and structures express the gap between the "material being worshiped" and the "gift economy."
 
 ---
 
@@ -392,7 +392,7 @@ The theme is unknown and unpredictability, and a challenging composition is deve
 
 #### 2025: Tomorrow Today
 
-Focusing on the near future, future inventions, and social concepts. Art that embodies "Tomorrow into Today", prototyping, and design that induces a futuristic dialogue space.
+Focusing on the near future, future inventions, and social plans. Art that embodies "Tomorrow into Today", prototyping, and design that induces a futuristic dialogue space.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

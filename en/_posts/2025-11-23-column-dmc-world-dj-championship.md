@@ -189,7 +189,7 @@ Turntablism has been around since the 2000s.
 - DJ School
 - Workshop
 - University Music and Media Department
-It was also incorporated into the club, and came to be evaluated as a genre of music rather than just a club technique.
+It has come to be recognized as a genre of music rather than just a club technique.
 
 ---
 

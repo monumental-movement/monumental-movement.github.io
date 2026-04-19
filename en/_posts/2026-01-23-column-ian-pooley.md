@@ -89,7 +89,7 @@ The mixer was not just a volume control device, but functioned as part of the so
 
 Many artists working in the same '90s UK house context gravitated toward more sample-driven or vocal-centered production. Pooley, on the other hand, continued to pursue the structural beauty of instrumental music.
 
-For example, while producers heavily influenced by US house emphasized emotional peaks, Pooley emphasizes the change in grooves over time. This approach is possible because of the production environment where minute differences are accumulated through the operation of equipment.
+For example, while producers heavily influenced by US house emphasized emotional peaks, Pooley emphasizes the change in grooves over time. This is an approach that is possible because of the production environment where minute differences are accumulated through the operation of equipment.
 
 ### Position within UK House
 

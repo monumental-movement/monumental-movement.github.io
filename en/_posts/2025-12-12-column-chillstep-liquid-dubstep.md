@@ -218,7 +218,7 @@ Emphasis is placed on ""sustainability" and ""lingering resonance" rather than m
 
 * Sine wave center
 * Mix in triangle waves to add warmth if desired
-* LFO is gentle
+*LFO is gentle
 * Side chain is thin
 * Release is short and tight
 

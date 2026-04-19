@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## The history of voice begins with poetry reading
+## The history of the voice begins with the recitation of poetry
 
 ### Poetry before letters
 
@@ -144,7 +144,7 @@ With online distribution and network-based works, readings are not tied to a spe
 
 <div class="mermaid">
 graph LR
-A[ancient oral poetry] --> B[Printing of modern poetry]
+A[ancient oral poetry] --> B[modern printing of poetry]
 B --> C[1910s Dada audio poetry]
 C --> D[1950s beat reading]
 D --> E[1960s Sound art established]

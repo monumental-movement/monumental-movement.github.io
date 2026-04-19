@@ -20,7 +20,7 @@ title: '[Column] Santoor: Sonic innovation and modern reinterpretation in Indian
 
 Text: mmr｜Theme: The history of the Indian classical musical instrument santoor and the overall picture of modern interpretations that continue to update the tradition
 
-Although the santoor is a relatively new mainstream instrument in Indian classical music, it is associated with an extremely ancient musical perspective. The structure, in which countless metal strings strung over a wooden resonance box are struck with thin mallets, does not separate melody and rhythm, but treats the sound particles themselves as a flow of time.
+Although the santoor is a relatively new mainstream instrument in Indian classical music, it is associated with an extremely ancient musical perspective. The structure, in which countless metal strings strung over a wooden resonance box are struck with thin mallets, does not separate melody and rhythm, but treats the particles of sound themselves as a flow of time.
 
 In Indian classical music, what is important is not ""where the melody goes" but ""how the notes rise and fall". The santour can be said to be the instrument that most directly visualizes this idea.
 
@@ -85,7 +85,7 @@ Even in the performance of the santoor, the time period, emotional character, an
 
 Once in the tala, the santoor begins to take on a percussive driving force, blurring the line between melody and rhythm. This duality creates a charm that is not found in other melodic instruments.
 
-> The santour is an instrument that exists in the middle area between melody and rhythm.
+> The santour is an instrument that exists between melody and rhythm.
 
 ---
 
@@ -95,7 +95,7 @@ Since the late 20th century, advances in recording technology have had a signifi
 
 This has led to its application not only to solo performances but also to ensembles and film music.
 
-> Technology has expanded Santour's presence, not volume.
+> Technology has expanded Santour's presence, not its volume.
 
 ---
 
@@ -113,7 +113,7 @@ Even in performances outside of the Indian classical framework, raga thinking co
 
 Modern santour players go back and forth between pure classical performance and experimental expression. With an emphasis on complete improvisation, sonic texture, and the treatment of silence, the santour is being redefined as a musical object.
 
-Performances often begin with a soft note. The moment the mallet touches the string, before there is a distinct sound of impact, you can feel the presence of a metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
+Performances often begin with a soft note. The moment the mallet touches the string, before there is a clear sound of impact, you can feel the metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
 
 > The santour is changing from an instrument to be played to one that shapes the listening space.
 

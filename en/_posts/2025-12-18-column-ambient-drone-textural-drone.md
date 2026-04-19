@@ -58,7 +58,7 @@ Since the 1970s, ambient music has presented a form of listening that assumes co
 
 ### 2-1. The concept of texture
 
-Textural Drone is characterized by a structure in which multiple tonal layers change slightly over time, rather than a single sustained pitch. Texture here is the sum total of overtone distribution, noise components, spatial localization, and dynamics fluctuations.
+Textural Drone is characterized by a structure in which multiple tonal layers vary slightly over time, rather than a sustained single pitch. Texture here is the sum total of overtone distribution, noise components, spatial localization, and dynamics fluctuations.
 
 ### 2-2. Layering techniques
 
@@ -78,7 +78,7 @@ flowchart LR
 
 ### 3-1. Work characteristics
 
-Stars of the Lid uses strings, brass, and electronic sounds, and is characterized by an extremely slow development. In their works, clear melodic progressions and rhythms are eliminated, and the main structure is the retention of harmony and the breathing of tones.
+Stars of the Lid uses strings, brass, and electronic sounds, and is characterized by an extremely slow development. In their works, clear melodic progressions and rhythms are eliminated, and the main structure is the stay of harmony and the breathing of tones.
 
 ### 3-2. Recording and mixing
 

@@ -81,7 +81,7 @@ During production, she was stalked and her living environment was shaken up. Thi
 
 ---
 
-## Homogenic (1997): The inner volcano
+## "Homogenic" (1997): The inner volcano
 
 ""Homogenic" is often cited as her masterpiece. Here, she succeeded in embodying her ""inner landscape" as sound.
 
@@ -161,7 +161,7 @@ timeline
 
 <div class="mermaid">
 flowchart TD
-A[voice] --> B[emotion]
+A[voice] --> B[emotions]
 A --> C[body]
 C --> D[rhythm]
 D --> E[electronic sound]

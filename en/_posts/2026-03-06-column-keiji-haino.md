@@ -31,7 +31,7 @@ It's not even noise.
 
 However, it has left its mark on all areas.
 
-Since the 1970s, he has been active at the center of Japan's underground music, crossing over into improvisation, noise, psychedelic, drone, and folk singing.
+Since the 1970s, he has been active at the center of Japan's underground music scene, crossing over into improvisation, noise, psychedelic, drone, and folk singing.
 
 He has often collaborated with experimental musicians and rock musicians from overseas, and has received high praise internationally.
 
@@ -302,7 +302,7 @@ His activities are as DJ Keiji Haino.
 
 In this style, they perform while playing music from around the world on CDJs.
 
-The music selected is not limited to genre.
+The music selected is not limited to any genre.
 
 folk music
 rock
@@ -423,7 +423,7 @@ By encountering unknown sounds, my music also changes.
 
 ### Flow of solo and major works
 
-Keiji Haino has released a vast amount of recorded works from the late 1970s to the present.
+Keiji Haino has released a huge amount of recorded works from the late 1970s to the present.
 The format is diverse, including studio works, live recordings, limited editions, and collaborations, and the total number is said to be in the hundreds.
 
 The following is a flow of important works that are widely known among them.
@@ -740,7 +740,7 @@ Drone --> Haino
 Psychedelic --> Haino
 
 Haino --> Fushitsusha[Fushitsusha]
-Haino --> SoloWorks[Solo activity]
+Haino --> SoloWorks[Solo activities]
 Haino --> DJStyle[DJ Keiji Haino]
 
 </div>

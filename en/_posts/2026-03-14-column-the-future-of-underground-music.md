@@ -113,7 +113,7 @@ In the 2000s, the structure of underground music changed significantly.
 
 The reason is the Internet.
 
-The advent of MySpace, blogs, forums, etc. has changed the way we discover music.
+The advent of MySpace, blogs, forums, etc. has changed the way music is discovered.
 
 Once upon a time
 
@@ -132,7 +132,7 @@ The emergence of SoundCloud is also important.
 
 This platform has created a system that allows music to be released without going through a label.
 
-As a result, underground music is freed from geographical locations.
+As a result, underground music is freed from geographical location.
 
 The scenes in Berlin, London, and Tokyo will be connected to each other by the Internet.
 

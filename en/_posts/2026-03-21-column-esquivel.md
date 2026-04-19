@@ -49,7 +49,7 @@ color: #fff;
 
 Esquivel was born in 1918 in Tampico, Mexico. He received piano education from an early age and thoroughly acquired the basics of classical music. However, his interest was not simply in performance techniques, but in the structural aspect of ""how the sounds are arranged and how they resonate.''
 
-During the 1940s and 1950s, he worked as a music director in the Mexican radio and television industry. My experience during this period was decisive. Broadcast music must leave a strong impression within a limited amount of time, and to achieve this, sound density, placement, and timing are extremely important.
+During the 1940s and 1950s, he worked as a music director in Mexico's radio and television industry. My experience during this period was decisive. Broadcast music must leave a strong impression within a limited amount of time, and to that end, sound density, placement, and timing are extremely important.
 
 It was here that he honed his ability to treat sound not as a line but as a collection of points. Short phrases, fragmented sounds, sudden shifts—these would become the core of his later style.
 
@@ -61,7 +61,7 @@ Already at this stage, his music was not just centered around melodies, but was 
 
 ---
 
-## Expansion into America and the stereo revolution
+## American expansion and stereo revolution
 
 In the late 1950s, Esquivel moved his activities to the United States. At the time, home audio equipment was rapidly becoming popular in America as the consumer society expanded.
 

@@ -37,7 +37,7 @@ color: #fff;
 
 ### Father Yod/James Edward Baker — Trajectory and Legend
 
-#### Early life and career
+#### Early life and transition
 
 Born July 4, 1922 in Cincinnati, Ohio. He later talks about his experience serving as a Marine (although some point out that his Silver Star medal cannot be found in official records).
 
@@ -318,7 +318,7 @@ References to the archetypal "travel/purification/elements (fire/water/air/earth
 Doctrinal/ritual phrases (words indicated by redacted track names such as "man the messiah")—words that are improvised and layered as a leader's declaration.
 
 
-How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sound itself is a ritual / (2) Words are suggestive and poetic triggers that generate a communal experience on the spot." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
+How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sounds themselves are rituals / (2) Words are suggestive and poetic triggers that generate an on-the-spot communal experience." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
 
 ---
 
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Highlights & recommended listening order (beginner → intermediate → researchers)
+### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 

@@ -187,7 +187,7 @@ flowchart TD
 
 - Fusion with pop punk
 - Screamo melocore (A Day to Remember, etc.)
-- In Japan, emphasis is placed on melody while retaining youthful/daily lyrics.
+- In Japan, emphasis is placed on melody while maintaining youthful/everyday lyrics.
 - In America, political messages and powerful live performances are the focus
 
 ---

@@ -142,7 +142,7 @@ Bands allow live recordings, and a culture develops where fans exchange recordin
 
 ### A community on the move
 
-Tours are more than just performances; they form a mobile community. A market will be born around the venue, and a unique economic zone will be formed.
+Tours are more than just performances; they form mobile communities. A market will be born around the venue, and a unique economic zone will be formed.
 
 > Deadheads were the bearers of culture, but also the creators.
 
@@ -190,7 +190,7 @@ Live-centered activities continued, and touring itself became established as a c
 
 ---
 
-## End and succession
+## End and inheritance
 
 ### Jerry Garcia Death
 

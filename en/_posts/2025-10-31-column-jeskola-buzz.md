@@ -91,7 +91,7 @@ This led to the following trends:
 
 * Individual developers publish sound sources/effects, and you can enjoy new sounds/processing just by downloading and incorporating them.
 * Users began to take on the challenge of ""how far they could create circuits" and ""how much experimental sound could they get."
-* People who create experimental works that cross musical genres are increasingly choosing Buzz as a "tool."
+* There has been an increase in the number of cases in which people who create experimental works that cross musical genres choose Buzz as a "tool."
 
 ### 3.4 Lightweight, immediate, and superior as an experimental environment
 
@@ -135,7 +135,7 @@ In this chapter, we will highlight artists who actually used Buzz or have been m
 ### 5.1 Definitely used: James Holden
 
 James Holden has mentioned in multiple interviews that he used Buzz to produce music. For example, a MusicRadar article states, "When we first interviewed Holden – all the way back in 2006 – he was using Jeskola Buzz, a free, tracker‑based software environment, to write his debut album *The Idiots Are Winning*."
-Additionally, forum posts include statements such as "James Holden's music … got me into it, he works primarily with (or at least used to) Buzz."
+Additionally, forum posts include statements such as "James Holden"s music … got me into it, he works primarily with (or at least used to) Buzz."
 
 #### Interview style quotation (reconstruction)
 
@@ -156,7 +156,7 @@ In this way, Holden"s early works have a sonic language that is highly compatibl
 
 ### 5.2 Possible use mentioned: Aphex Twin
 
-Regarding Aphex Twin (real name Richard D. James), no solid primary documents (official interviews, etc.) have been found that say he "used Buzz," and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonials. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
+Regarding Aphex Twin (real name Richard D. James), no reliable primary materials (official interviews, etc.) have been found that say he "used Buzz", and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonies. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
 Also stated in the HackerNews thread:
 
 > "I still miss the fast productive workflow of Jeskola Buzz from back in the day. Modular software synth + tracker with pattern sequencing."
@@ -225,7 +225,7 @@ This stagnation/resumption structure was also influenced by external factors suc
 Buzz's legacy can be broadly categorized into three things:
 
 - 1. **Spread of modular thinking**: The idea of ​​putting together patches on software became popular, and the image that ""creating sound = connecting cables'' became established.
-- 2. **User expansion/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
+- 2. **User extension/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
 - 3. **Promotion of individual creators/DIY music**: Indie/underground electronic music production has been revitalized by the availability of a sophisticated acoustic environment at a low price or free of charge.
 
 These are not just relics of the "retro tools" of the past, but also influence the current music production environment and even the context of live/modular equipment.

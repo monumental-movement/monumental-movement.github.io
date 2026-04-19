@@ -154,7 +154,7 @@ Street music is more than just entertainment.
 * Medium of political resistance
 * Formation of urban identity
 * Fusion of fashion, dance, and art
-* Formation of a global cultural network
+* Forming a global cultural network
 
 Hip-hop has been discussed at the United Nations, and reggae has been registered as a UNESCO Intangible Cultural Heritage. However, its starting point is always in public space.
 

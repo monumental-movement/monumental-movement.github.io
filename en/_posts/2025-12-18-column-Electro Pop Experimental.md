@@ -42,7 +42,7 @@ color: #fff;
 
 ## Chapter 1 Premise of electronic music before electropop
 
-In order to understand the formation of the electronic pop experiment system, it is necessary to take a bird's-eye view of the history of the combination of electronic music and popular music in the latter half of the 20th century.
+In order to understand the formation of electronic pop experiments, it is necessary to take a bird's-eye view of the history of the combination of electronic music and popular music in the latter half of the 20th century.
 
 ### Combining synthesizer and pop structures
 
@@ -74,7 +74,7 @@ These will later serve as a basis for enhanced experimentation.
 * Sound image design that does not hide artificiality
 * Simultaneous visual expression and music production
 
-This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only activity.''
+This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only act.''
 
 ---
 
@@ -128,7 +128,7 @@ The experimental nature of Carpenter Brut manifests itself less in the music its
 
 ## Chapter 7 Visual Culture and Electropop Experiments
 
-In electropop experimental music, the following elements work together, rather than just music alone.
+In electropop experimental music, the following elements work together, rather than just the music alone.
 
 * Album artwork
 * Music video

@@ -152,7 +152,7 @@ graph TD
 
 ### Technical analysis
 
-* **The saxophone presents the melody at the beginning → the guitar imitates**
+* **Saxophone presents melody at the beginning → Guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
 * **Linear, high-pitched guitar solo**
 
@@ -212,7 +212,7 @@ One of the characteristics of this work is that it prioritizes the live exciteme
 
 ---
 
-# Chapter 8 Dance culture and reception history: Congo and the diaspora
+# Chapter 8 Dance culture and history of reception: Congo and diaspora
 
 Veve"s music was very influential in Congo"s urban dance culture.
 It is especially popular at bars (dance halls), and each time a band's recording is played, certain steps become established.
@@ -238,7 +238,7 @@ Although both are from the same era, their directions are very different.
 
 ## Musical distance with OK Jazz
 
-Since Veran himself is from OK Jazz, they have the same sense of harmony and depth of melodic processing, but
+Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
 Veve is more modern and danceable compared to OK Jazz.
 
 ## Commonalities with Afrisa International

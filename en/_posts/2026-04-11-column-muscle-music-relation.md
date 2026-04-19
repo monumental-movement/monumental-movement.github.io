@@ -185,7 +185,7 @@ The choice of music for training can be divided into whether you want to ""lift 
 - Ancient Methods – Knights & Bishops
 - Blawan – Why They Hide Their Bodies Under My Garage
 
-> In the high-intensity parts, the intensity and repetition of the sound become important, and the minimal repetition of underground takes concentration to the maximum.
+> The intensity and repetition of the sound become important in the high-intensity parts, and underground's minimal repetition pushes concentration to the limit.
 
 ---
 

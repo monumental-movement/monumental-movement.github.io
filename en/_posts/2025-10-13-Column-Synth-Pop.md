@@ -97,7 +97,7 @@ This was the moment when Kraftwerk's ideas were reflected in the gorgeous mirror
 
 At that time, a quiet revolution was beginning in Tokyo.
 The sound produced by YMO (Yellow Magic Orchestra) in 1978 was not just an imitation, but a reimagining of electronic music into an "Asian context."
-Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibilities: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
+Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s sense of rhythm: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
 
 Ryuichi Sakamoto later said:
 > "Technology is a way to make music more human."
@@ -125,7 +125,7 @@ Japanese synth pop has matured as a "translation" rather than a mere imitation.
 
 YMO's impact spread across the ocean to many artists.
 Daft Punk praised Ryuichi Sakamoto's sound design in interviews, and their sense of melody is clearly influenced by Japanese minimalism.
-Radiohead's ""Kid A" is a work that further introspectively develops the idea of ​​""depicting emotions with electronic sounds" presented by YMO.
+Radiohead"s ""Kid A" is an introspective development of YMO"s idea of ​​""depicting emotions with electronic sounds."
 "Everything in Its Right Place" is cold and beautiful, as if the ghosts of "BGM" and "Technodelic" have come back to life.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ Behind this is a continuous technological aesthetic from YMO to Perfume.
 
 ---
 
-## Chapter 6 Technology and Emotions: When Machines Depict Humans
+## Chapter 6 Technology and emotions: When machines draw humans
 
 Sequencer, sampler, autotune.
 These were not tools for ""accuracy," but brushes used to highlight ""human ambiguity."
@@ -190,7 +190,7 @@ As AI composition advances, the "human artificiality" of synthpop may be the las
 
 Synthpop is both the "sound of the future" and the "sound of nostalgia for the past."
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
-Even now, as digital technology has evolved and AI has begun to compose music, humans continue to search for ""self'' within the sounds of machines.
+Even now, as digital technology advances and AI begins to compose music, humans continue to search for ""self'' in the sounds of machines.
 
 The ""relationship between technology and emotion'' that Ryuichi Sakamoto continued to ask until the end is now once again a front-line theme.
 And somewhere in that lineage lies YMO"s electronic smile, Perfume"s polyrhythms, and Charli XCX's pixelated tears.

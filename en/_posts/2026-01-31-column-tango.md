@@ -100,7 +100,7 @@ Tango, which was once rejected, began to be reinterpreted as a ""national cultur
 
 ---
 
-## Golden Age and popular culture
+## Golden Age and Popular Culture
 
 
 From the 1930s to the 1950s, tango entered its "golden age."
@@ -180,7 +180,7 @@ Tango has once again become a ""mirror that reflects society.''
 
 <div class="mermaid">
 graph TD
-A[Established in the port area in the 1880s] --> B[early 1900s social exclusion]
+A[Established in the port area in the 1880s] --> B[Early 1900s Social exclusion]
 B --> C[1910s European fashion]
 C --> D[1930s-50s Golden Age]
 D --> E[1960s Decline]

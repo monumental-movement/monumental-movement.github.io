@@ -71,7 +71,7 @@ Performance is not about demonstrating physical skill, but rather about setting 
 
 Alvin Lucier is a composer who places the physical behavior of sound waves at the center of his works. In his works, the composer's intentional manipulation is kept to a minimum, and the acoustic phenomena unfold autonomously.
 
-In his most famous work, I Am Sitting in a Room, by repeatedly playing back and re-recording the spoken word in the same space, the resonant frequencies unique to the room are emphasized, and the language eventually disappears. This process clearly shows how sound moves from information to physical phenomenon.
+In his masterpiece "I Am Sitting in a Room," the recited audio is repeatedly played back and re-recorded in the same space, emphasizing the resonant frequencies unique to the room, until the language disappears. This process clearly shows how sound moves from information to physical phenomenon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -96,11 +96,11 @@ flowchart LR
 
 ### 4-1 Architectural acoustics
 
-Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if the installation location is different.
+Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if it is installed in a different location.
 
 ### 4-2 Spectator position
 
-The position and movement of the audience is a factor that changes the acoustic experience. The work is not intended to be listened to from a fixed point.
+The audience's standing position and movement are factors that change the acoustic experience. The work is not intended to be listened to from a fixed point.
 
 ---
 

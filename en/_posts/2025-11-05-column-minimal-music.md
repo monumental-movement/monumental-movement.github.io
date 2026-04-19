@@ -165,7 +165,7 @@ The acoustic space was presented as "digital minimalism".
 
 | Artist | Main works | Features |
 |------|------------|------|
-| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical/acoustic refinement |
+| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical music/acoustic refinement |
 | Ryoji Ikeda | 《dataplex》《test pattern》 | Mathematical/frequency minimalism |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion of electro acoustics and piano |
 | Rei Harakami | 《Red Curb》《lust》 | Warm repetition of Lo-fi electronics |

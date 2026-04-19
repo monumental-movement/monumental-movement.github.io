@@ -244,6 +244,6 @@ Field recording is not just a technique, but an act of creating a "sonic memory.
 
 🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Column] Andy Goldsworthy and music - artistic resonance surrounding time and nature](https://monumental-movement.jp/Column-Andy-Goldsworthy)

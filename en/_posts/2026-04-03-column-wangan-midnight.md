@@ -132,7 +132,7 @@ Wangan Midnight depicts a series of such choices.
 
 Wangan Midnight is not just fiction, but is closely tied to real street culture.
 
-From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Metropolitan Expressway Bayside Route was one of its central locations.
+From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Bayside Route of the Metropolitan Expressway was one of its central locations.
 
 Although this culture was not widely covered by the media, it definitely existed and attracted many young people.
 
@@ -280,7 +280,7 @@ The difference is clear:
 | Role | Create space | Incite emotion |
 | Tempo | Medium to high speed | Fixed high speed |
 | Main character | Engine sound + environmental sound | Music |
-| Experience | Introspection | Upliftment |
+| Experience | Introspection | Uplifting |
 
 Eurobeat is "music that makes you feel speed."
 The sound of the bay is "a state of being in speed."
@@ -296,7 +296,7 @@ Highways remain unchanged. asphalt, guardrails, and lighting. They are just stru
 
 However, it is humans who give meaning to it.
 
-The time of night, the state of solitude, the act of speed. When they overlap, the space transforms into something else.
+The time of night, the state of solitude, the act of speed. When they overlap, the space changes into something else.
 
 It is not a myth in the religious sense. However, when it is repeated, passed down, and shared, it certainly takes on a "mythical" quality.
 

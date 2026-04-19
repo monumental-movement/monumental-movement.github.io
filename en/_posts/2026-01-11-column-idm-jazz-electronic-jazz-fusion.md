@@ -116,7 +116,7 @@ On the surface, simple repetition continues, but internally the accent positions
 
 ### Polyrhythm and Polymeter
 
-In IDM x Jazz, polyrhythm, in which multiple rhythm cycles run simultaneously, and polymeter, which have different time signatures, are used together. What is important is that they are mathematically consistent and not completely chaotic.
+IDM x Jazz uses both polyrhythm, which has multiple rhythm cycles running at the same time, and polymeter, which has a different time signature. What is important is that they are mathematically consistent and not completely chaotic.
 
 ### Micro timing control
 

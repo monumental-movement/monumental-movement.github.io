@@ -18,7 +18,7 @@ title: '[Column] Throbbing Gristle and the birth of industrial—the moment when
 
 ## Introduction: Where does music break down?
 
-Text: mmr｜Theme: A record of innovation that deconstructed the definition of music through noise and provocation and transformed the sounds of industrial society into art.
+Text: mmr｜Theme: A record of innovation that deconstructed the definition of music through noise and provocation and transformed the sounds of industrial society into art
 
 In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question of ""What is music?'' remained fixed, with almost no one questioning it.
 
@@ -94,7 +94,7 @@ This decision was extremely important. Their work was not accepted commercially 
 
 They managed all recording, production, distribution, and sales themselves. This complete autonomy became the basic model for the later independent scene.
 
-Industrial Records was more than just a label, it was an expansion device for ideas. Not only the music, but also the visuals, text, logo, and packaging were all designed based on a unified concept.
+Industrial Records was more than just a label, it was an expansion device for thought. Not only the music, but also the visuals, text, logo, and packaging were all designed based on a unified concept.
 
 In addition, the influence spread to other artists through this label. From this point on, the concept of "industrial" expanded into a concrete movement.
 
@@ -130,7 +130,7 @@ Sounds are loud and repetitive, images are disturbing, and words are spoken prov
 
 This is no coincidence. They were intentionally testing the limits of the audience's senses and psychology.
 
-In addition, each live performance had a different structure, was highly improvisational, and had low reproducibility. In other words, he refused to be fixed as a work of art.
+In addition, each live performance had a different structure, was highly improvised, and had low reproducibility. In other words, he refused to be fixed as a work of art.
 
 This approach would later influence live experiences in noise, industrial, and even club culture.
 
@@ -143,11 +143,11 @@ This approach would later influence live experiences in noise, industrial, and e
 
 Throbbing Gristle has always been subject to criticism and censorship due to its extreme expressions.
 
-Their works were often misunderstood and treated as ""dangerous'' for their depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
+Their work was often misunderstood and treated as ""dangerous'' for its depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
 
 In this respect, they were also pioneers of media criticism. It used sound and visuals to show how information is manipulated and consumed.
 
-> They were a mirror of society, and at the same time a lens that amplified distortions.
+>They were a mirror of society, and at the same time a lens that amplified distortions.
 
 ---
 
@@ -203,7 +203,7 @@ timeline
 
 Throbbing Gristle didn't expand on music. I completely destroyed music once.
 
-What emerged as a result was the genre known as industrial, and even more so, an idea that is common to modern electronic music as a whole.
+What emerged as a result was the genre of industrial, and even more so, an idea that applies to modern electronic music as a whole.
 
 Their works are still not easy to listen to. However, this sense of discomfort makes us question what we are looking for in music.
 

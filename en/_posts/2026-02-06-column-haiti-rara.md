@@ -70,7 +70,7 @@ Religious aspects differ from region to region, and even within the same rara, t
 
 ## Chapter 3 Instrumentation and Acoustic Structure
 
-Lara's defining feature is the metal wind instrument vaksen. Long pipes made of bamboo or metal are blown, and multiple players play single notes to form a polyrhythm. Added to this are drums, maracas, and metal percussion instruments.
+Lara's defining feature is the metal wind instrument vaksen. A polyrhythm is formed by blowing a long tube made of bamboo or metal, with multiple players playing single notes. Added to this are drums, maracas, and metal percussion instruments.
 
 The vaxin is not so much a melodic instrument as a device for building layers of sound. Each player plays a different pitch and rhythm, creating an overall undulating sound. Music is not written into musical scores, but is inherited through physical memory.
 

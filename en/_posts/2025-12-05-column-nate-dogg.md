@@ -9,8 +9,7 @@ layout: post
 tags:
 - Hiphop
 - classic
-title: '[Column] Nate Dogg: The trajectory of the "king of hooks" that symbolizes
-  G-Funk'
+title: '[Column] Nate Dogg: The trajectory of the "king of hooks" who symbolizes G-Funk'
 ---
 
 
@@ -108,7 +107,7 @@ This success earned Nate Dogg recognition as ""the best hook maker on the West C
 Nate Dogg's singing voice is distinctive at first glance, but if you break it down into its elements, it can be summarized as follows.
 
 ### ■ Thick voice derived from gospel music
-The vocal cords vibrate strongly and the sound is deep.
+The vibration of the vocal cords is strong and the resonance is deep.
 
 ### ■ Straight-line singing with little vibrato
 This made it extremely compatible with the hard beats of hip-hop.

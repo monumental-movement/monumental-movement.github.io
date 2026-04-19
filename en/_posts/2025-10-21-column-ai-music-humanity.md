@@ -23,7 +23,7 @@ Text: mmr | Theme: An era where AI creates music and humans reinterpret it. In a
 Music in 2025 will no longer be talked about in terms of "genre."
 The listening experience on Spotify and Apple Music is being reorganized to fit the mood, time, and occasion, going beyond the categories of "rock," "hip-hop," and "electronica."
 
-"Listening on a rainy day," "Track at 2 a.m.," "Morning with coffee" -- these list titles indicate a new value: "context over genre."
+""Listening on a rainy day," ""Track at 2 a.m." and ""A morning spent with coffee." These list titles indicate a new value: ""context over genre."
 Music is talked about not in terms of what it's made of, but in terms of how it resonates/fits situations.
 
 At the heart of this change are AI, nostalgia, and the listener's own "memory."
@@ -52,7 +52,7 @@ In the field of 2025, these will dissolve the boundaries between professionals a
 
 #### AI "makes sounds", humans "choose meanings"
 
-For example, electronica artist Arca treats AI sound as a material and combines it with his own real voice. What she does is ""context design that asks why you should choose one out of the countless possibilities created by AI.''
+For example, electronica artist Arca uses AI sound as a material and combines it with his own real voice. What she does is ""context design that asks why you should choose one out of the countless possibilities created by AI.''
 Similarly, James Blake from the UK created an album [""Playing Robots Into Heaven" (2024)] (https://amzn.to/3L1hE6D) with the theme of ""human fragility" while treating AI as a ""co-author.''
 
 What these examples show is that AI is becoming less of a ""creator of sound" and more of a ""mirror that highlights what people choose."
@@ -95,7 +95,7 @@ The tempo is slow, the kick is deep, the bass is organic - "stillness for dancin
 
 #### City Pop Re-evaluation: Reimported from the East
 
-After the phenomenon of [**Mariya Takeuchi's "Plastic Love"**](https://amzn.to/3J6YPhZ), which originated in Japan, went viral overseas, City Pop was reorganized globally as "Asian Nostalgia."
+After the Japanese song [**Mariya Takeuchi "Plastic Love"**] (https://amzn.to/3J6YPhZ) became viral again overseas, City Pop was reorganized globally as "Asian Nostalgia."
 As of 2025, young artists from Thailand, Indonesia, and South Korea are re-creating the "Oriental Dream" by quoting City Pop-style chord progressions and textures.
 The center of global pop is not just Los Angeles, but has expanded to Bangkok, Seoul, and Tokyo.
 
@@ -128,7 +128,7 @@ The characteristic of 2025 is the coexistence of stillness (Minimal) and density
 #### "Quiet club" and "introspective electronica"
 
 The popularity of ""slow grooves" such as Afro House and Amapiano symbolizes an era in which dancing can also be ""introspection".
-In clubs in Berlin and Seoul, sets of 100 to 110 BPM are becoming the norm, creating a space where you can "think while dancing."
+Sets of 100 to 110 BPM are becoming the norm in clubs in Berlin and Seoul, creating a space where you can "think while dancing."
 In Japan, food festivals a.k.a foodman and yahyel are exploring "quiet club music."
 
 #### On the contrary, there is also a movement to master "density"
@@ -148,7 +148,7 @@ Music is not consumed as a "thing" but as a "moment in the flow".
 
 #### Maturation of playlist culture
 
-On Spotify, ""mood-based playlists" have become mainstream, and it appears that ""music is becoming a part of the background."
+On Spotify, ""mood playlists" have become mainstream, and it appears that ""music is becoming a part of the background."
 However, in reality, because it is a "background", it is required to "resonate with the environment".
 Listeners are looking for ""songs that change the atmosphere," and artists are creating ""songs that design places."
 

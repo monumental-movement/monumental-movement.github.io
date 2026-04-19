@@ -144,7 +144,7 @@ Military band recordings were reissued, and this triggered a worldwide re-evalua
 In 2005, as the music for the film **Broken Flowers** directed by Jim Jarmusch.
 Many of Mulatu's songs were used, and it attracted a lot of attention.
 
-After this event, collaborations with artists from Europe and North America increased,
+After this event, collaborations with European and North American artists increased.
 Ethio-Jazz once again becomes recognized as an international music genre.
 
 ---
@@ -215,7 +215,7 @@ Reevaluated internationally with the Éthiopiques series.
 
 ### ■ Tilahun Gessesse
 
-A singer known as the "King of Ethiopian Music." He is a former military band member and has high singing skills.
+A singer known as the "King of Ethiopian Music." He is a former military band member and has advanced singing skills.
 
 ### ■ Hailu Mergia
 
@@ -237,7 +237,7 @@ It was later rediscovered in Washington, D.C., and toured the world.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Expanding the interpretation of jazz modes
+* Expansion of jazz mode interpretation
 * Frequently used as sample material in hip-hop
 * Influence on Afrobeat/Afrofusion
 

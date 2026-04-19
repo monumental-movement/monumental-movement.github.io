@@ -80,7 +80,7 @@ D --> E[groove generation]
 ---
 
 
-## Fusion with hip-hop: Expansion of sampling culture
+## Fusion with hip-hop: expansion of sampling culture
 
 MPC became explosively popular, especially in the hip-hop scene. This was because it perfectly matched the culture of cutting out sounds from existing records and reconstructing them in a new context.
 

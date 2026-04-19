@@ -104,7 +104,7 @@ Examples of major appearances:
 - 2023: Main stage closing (first woman)
 
 - **BBC Radio 1 Essential Mix (2018)**
-- Featured appearances on global radio.
+- Featured appearances on worldwide radio.
 
 In this way, he has successfully expanded from a club DJ to a global festival artist.
 
@@ -172,7 +172,7 @@ He has also released experimental works such as "The Heads That Know (feat. Comm
 | 2015 | Started activities under real name, announced Weltschmerz EP |
 | 2017 | Closer, Wisdom EP released, attracting attention in Europe and America |
 | 2018 | BBC Radio 1 Essential Mix appearance |
-| 2019 | KNTXT established |
+| 2019 | Establishment of KNTXT |
 | 2022 | Tomorrowland Main Stage Closing |
 | 2023 | Movement Festival Closing |
 | 2024 | KNTXT store opened, Époque label started |

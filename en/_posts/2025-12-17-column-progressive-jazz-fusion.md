@@ -150,7 +150,7 @@ Progressive jazz/fusion left a legacy of thinking that linked structural design 
 
 ## Conclusion
 
-Progressive Jazz/Fusion was more a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
+Progressive Jazz/Fusion was more of a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
 
 ---
 

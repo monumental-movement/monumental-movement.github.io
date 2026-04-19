@@ -101,7 +101,7 @@ This became the basis of Minimal Wave/Coldwave.
 - Oppenheimer Analysis (UK)
 - Turquoise Days (UK)
 - Eleven Pond (US, New York)
-- Martin Dupont (France but also re-evaluated in the context of Minimal Wave)
+- Martin Dupont (France but also re-evaluated in the Minimal Wave context)
 
 There are many people who symbolize the DIY trend of electronic music.
 In particular, **Oppenheimer Analysis**'s "The Devil's Dancers" was later reissued by Minimal Wave Records and became a signature song.
@@ -230,7 +230,7 @@ flowchart TD
     B --> C["Minimal Wave<br>(US/UK/BE/NL)"]
     A --> D["Post-Punk<br>(UK/FR)"]
     D --> E["Coldwave<br>(FR/BE)"]
-    C --> F["2000s Re-discovery<br>Minimal Wave Records"]
+    C --> F["2000s Rediscovery<br>Minimal Wave Records"]
     E --> F
     F --> G["Modern movement<br>TR/ST, Cold Cave"]
 </div>

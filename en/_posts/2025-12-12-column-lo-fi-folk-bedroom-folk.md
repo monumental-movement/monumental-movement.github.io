@@ -41,7 +41,7 @@ color: #fff;
 ## 1. Origin: The germination of Takuroku folk (1970s–1990s)
 
 ### 1-1. 1970s: Rise of home recording culture
-Consumer tape recorders became popular in the late 1970s, and with the advent of inexpensive cassette decks, the culture of recording at home spread. Even in the world of folk music, the prototype of ""home-recorded folk'' has emerged, in which artists record themselves playing and singing in their own rooms.
+Consumer tape recorders became popular in the late 1970s, and with the advent of inexpensive cassette decks, the culture of recording at home spread. In the world of folk music, the prototype of ""home-recorded folk'' has emerged, in which artists themselves record themselves playing and singing in their own rooms.
 
 #### Main practices
 - Plug the dynamic microphone directly into the cassette deck
@@ -214,7 +214,7 @@ These have had a great influence on modern Bedroom Pop and singing culture.
 
 ## 10. Conclusion
 Lo-Fi Folk / Bedroom Folk has pioneered a new expression of folk music, taking into account the limitations of recording equipment and the personal living space.
-Iron & Wine and the early works of Sufjan Stevens are iconic examples of the sheer charm of home recording, and they continue to influence many artists today.
+Iron & Wine and Sufjan Stevens' early works are iconic examples of the sheer charm of home recording, and they continue to influence many artists today.
 
 The small voices recorded in the room recorded the ""feel of everyday life'' as sound that was not available in studio production, and carved out a new chapter in the history of folk music.
 

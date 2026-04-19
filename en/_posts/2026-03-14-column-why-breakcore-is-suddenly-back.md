@@ -362,7 +362,7 @@ There are five main ones:
 
 4. Ease of DIY production
 
-5. Mixed genre culture
+5. Genre mixed culture
 
 In other words, Breakcore is
 
@@ -391,7 +391,7 @@ It's not music from a big industry.
 
 rather
 
-"Cultural Gap"
+"Culture Gap"
 
 It is music born from.
 

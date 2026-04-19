@@ -42,7 +42,7 @@ color: #fff;
 # 1. Formation and initial activities: The origin of minimalism in cold regions
 
 ### Geographical conditions of Finland
-When Pan Sonic was formed in Finland in the early 90s, the electronic music scene wasn"t that huge, and club culture was limited. However, Helsinki"s underground formed its own cultural sphere, a mix of industrial, noise, and DIY sounds.
+When Pan Sonic was formed in Finland in the early '90s, the electronic music scene wasn"t that huge, and club culture was limited. However, Helsinki"s underground formed its own cultural sphere, a mix of industrial, noise, and DIY sounds.
 Mika Vainio was originally active in the industrial/noise genre, and in the early 1990s he turned to electrical sound experiments. Ilpo Vaisanen similarly moved between the realms of DIY electronics and performance art.
 
 ### Debut under the name Panasonic
@@ -70,7 +70,7 @@ He rarely uses commercially available synthesizers, instead focusing on the foll
 As a result, Pan Sonic's sound has a rawness that sounds like a recording of the exact moment an electronic component operates. The sound is harsh, the particles are large, and it feels overwhelmingly physical.
 
 ## 2-2. Minimal structure
-Although the sonic material is extremely simple, the songs have a detailed structure.
+Although the sonic material is extremely simple, the song has a detailed structure.
 
 - repeating pulses
 - Finely fluctuating frequency

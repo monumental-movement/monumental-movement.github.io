@@ -49,7 +49,7 @@ color: #fff;
 
 In the mid-20th century, Egypt had the largest film industry in the Arab world, and music was an integral part of film. The songs of Umm Kulthum and Abdel Haleem Hafez were widely distributed through movies and radio, creating a star image common to the Arab-speaking world.
 
-The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop acquired the character of ""regional standard music'' from an early stage.
+The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop gained the character of ""regional standard music'' from an early stage.
 
 > The concentration of mass media quickly connected Arab pop to a broader market.
 

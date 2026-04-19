@@ -18,7 +18,7 @@ title: '[Column] Does the genre of music you listen to in your youth influence y
 
 ## Prologue: Why does the "music I listened to when I was young" remain?
 
-Text: mmr｜Theme: Examining the long-term effects of music listened to during adolescence and young adulthood on values, career views, and social participation using empirical research data from various countries.
+Text: mmr｜Theme: Verifying the long-term effects of music listened to during adolescence and young adulthood on values, career views, and social participation using empirical research data from various countries
 
 When many people think back to a certain time in their lives, they conjure up memories that are strongly associated with specific music. It's not just nostalgia. Psychology and neuroscience have repeatedly shown that experiences from our late teens to early 20s tend to become the foundation of our self-concept and value judgments.
 
@@ -213,7 +213,7 @@ What the empirical data shows is not a simple cause and effect that music determ
 
 Although it manifests itself differently depending on the country and system, the music you listen to in your youth continues to serve as a reference point throughout your life.
 
-> Musical experiences in early life are not a map of life, but a compass.
+> Musical experiences in early childhood are not a map of life, but a compass.
 
 ---
 

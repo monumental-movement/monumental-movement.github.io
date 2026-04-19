@@ -73,7 +73,7 @@ This was not just a collection of folk music, but an exploration of the fundamen
 | Tibet/Mongolia | Homie chanting | Laryngeal resonance and overtone separation |
 
 Rather than treating these as "materials," Yamashiro et al. observed and reconstructed their structure, function, and social significance.
-In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to the ""group creation", ""information environment", and ""sound environmental studies" of the Geino Yamashiro Gumi.
+In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to Geino Yamashiro Gumi's ""group creation," ""information environment," and ""sound environmental studies."
 
 > "People form groups based on sound. Sound evolves through groups."
 > — Shoji Yamashiro

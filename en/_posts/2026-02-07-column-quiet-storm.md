@@ -87,7 +87,7 @@ In the 1980s, the studio environment rapidly became digital. Multi-track recordi
 
 On the radio station side, program formats are now clearly defined and song selection lists are shared. Although DJs still had a certain degree of discretion, standards for tempo and mood became stricter, and consistency as nighttime R&B was emphasized. This allows you to have a similar experience no matter what city you're in.
 
-On the other hand, excessive sophistication also invited criticism. It was pointed out that there was a danger that the social message and improvisational nature would recede, and the music would become background music. Still, for late-night listeners, a stable musical experience had irreplaceable value.
+On the other hand, excessive sophistication also invited criticism. It was pointed out that there was a danger that the social message and improvisational nature would recede and the music would become background music. Still, for late-night listeners, a stable musical experience had irreplaceable value.
 
 > The conflict between homogenization and security shaped Quiet Storm in the 1980s.
 

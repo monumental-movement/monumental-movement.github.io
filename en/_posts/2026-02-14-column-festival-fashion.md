@@ -22,7 +22,7 @@ Text: mmr｜Theme: Exploring the evolution of festival music and fashion, the in
 
 In the late 1960s, American and British youth culture became inseparably linked to music and fashion. The Monterey Pop Festival in 1967 and Woodstock in 1969 became more than just musical events, they became symbols of freedom, anti-war, and self-expression.
 
-Jeans, fringed jackets, tie-dye shirts, sandals, and floral hair accessories were common at Woodstock. In particular, the ethnic vests and beaded decorations that Janis Joplin wore on stage became icons for the audience to emulate, and participants brought their own tie-dye and flower crowns, making the entire venue a kind of fashion show.
+Jeans, fringed jackets, tie-dye shirts, sandals, and floral hair accessories were common at Woodstock. In particular, the ethnic vests and beaded decorations that Janis Joplin wore on stage became icons that audiences wanted to emulate, and participants brought their own tie-dye and flower crowns, making the entire venue resemble a fashion show.
 
 In the UK, Mod culture emerged in the mid-1960s. London"s King"s Road and Carnaby Street were filled with miniskirts, boots, suit jackets, and mod coats, and the street style of young people matched the visuals of artists. At Beatles and Rolling Stones concerts, music and fashion became closely intertwined, with audience members imitating the artists' clothing as a form of self-expression.
 
@@ -166,7 +166,7 @@ graph TD
 
 ---
 
-## List of materials and trending colors by era
+## List of materials and trending colors by generation
 
 ### 1960s-1970s
 

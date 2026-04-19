@@ -192,7 +192,7 @@ They started making music in high school.
 The influences were diverse.
 
 - european electronic music
-- funk
+- Funk
 - disco
 - SF culture
 
@@ -340,7 +340,7 @@ In London, it is associated with rave culture.
 
 Japan has developed its own club scene.
 
-In this way, techno becomes a global music.
+This is how techno becomes a global music.
 
 But the important thing is that all cities shared the same ideology.
 

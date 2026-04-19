@@ -10,14 +10,14 @@ tags:
 - Rhythm
 - Programming
 - Electronic
-title: 【コラム】 リズムプログラミングのデザイン理論
+title: '[Column] Design theory of rhythm programming'
 ---
 
 
 
 ## Prologue: Rhythm is designed, not played.
 
-文：mmr｜テーマ：リズムプログラミングを演奏技術ではなく設計思想として捉え、16ステップ・ループ・音色配置の設計から現代ビート美学の全体像を読み解く
+Text: mmr｜Theme: View rhythm programming as a design concept rather than a performance technique, and decipher the overall picture of modern beat aesthetics from the design of 16 steps, loops, and tone arrangement.
 
 
 Rhythm programming is not a matter of lining up the dots accurately. It is an act of design: how to divide time, where to emphasize, and where to leave blank space. If performance is a series of instantaneous decisions, programming is similar to thinking from a bird's-eye view of time as a whole.
@@ -48,24 +48,24 @@ The basic unit of electronic rhythm design is 16 steps, which are divided into 1
 
 ### 4/4・16 steps basic layout example
 
-The most basic structure is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
+The most basic arrangement is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
 
 Accent design does not require all notes to be played at the same intensity. By simply making the first beat of the kick the strongest and the third beat a little weaker, you can create a sense of front and back in the flow of time.
 
 ### Case: Fixed strong beat and shifted strong beat
 
 * Strong beat fixed: 1st and 3rd beats are always at maximum intensity
-* 強拍ずらし：1拍目最大、3拍目を抑制
+*Strong beat shift: 1st beat maximum, 3rd beat suppressed
 
 In the latter, the second half feels lighter and the loop gives the impression of rolling forward.
 
-> 均等な16分割は完成形ではなく、設計のための下書きである。
+> The 16 equal divisions are not a final design, but a draft for the design.
 
 ---
 
 ## Chapter 2: Grid and Human Feel Design
 
-An arrangement that perfectly follows the grid fixes time, but does not move it. This is where intentional deviations are introduced.
+Arrangements that follow the grid perfectly fix time, but do not move it. This is where intentional deviations are introduced.
 
 ### Case: Backbeat Snare Delay
 
@@ -165,7 +165,7 @@ By rearranging existing loops, you can redesign the structure while preserving t
 
 ### Case: Complete step reconstruction
 
-By arranging it from scratch, the time structure purely reflects the design concept.
+By arranging it from scratch, the time structure purely reflects the design philosophy.
 
 > The idea of ​​rhythm design changes depending on whether it is material-driven or structure-driven.
 

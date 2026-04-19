@@ -155,7 +155,7 @@ Vaporwave is
 * Consumer culture
 * Digital society
 
-It began as an art satirizing the
+It began as an art that satirizes.
 
 But at the same time, this genre has generated a strong sense of nostalgia.
 

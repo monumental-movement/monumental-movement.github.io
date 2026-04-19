@@ -22,9 +22,9 @@ Text: mmr｜Theme: A long-form study that traces the history of how performance 
 
 Music has long been understood as a combination of the design act of composition and the reproduction act of performance. There, musical scores were central, and sound was merely the realization of visualized information. However, in the 20th century, this assumption began to rapidly shake. Urban noise due to industrialization, the spread of recording technology, and the expansion of popular culture have transformed sound from ""an object to be controlled" to ""something that exists in the environment."
 
-At the same time, in the field of art, there is a growing movement to place more value on the production process and the act itself than on the completed object. Events that occur outside the painting or sculpture, the passage of time, and the audience's reactions have come to be recognized as part of the work. Music was also not unrelated to this trend.
+At the same time, in the field of art, there is a growing movement to place more value on the production process and the act itself than on the completed object. Events that occur outside of paintings and sculptures, the passage of time, and the reactions of the audience have come to be recognized as part of the work. Music was also not unrelated to this trend.
 
-In this chapter, we will organize the historical background that led to sound transcending the framework of music and being reconsidered as actions and situations, and clarify the premises of each subsequent chapter.
+In this chapter, we will summarize the historical background that led to sound transcending the framework of music and being reconsidered as actions and situations, and clarify the premises of each subsequent chapter.
 
 > The moment sound was recognized as an action, music began to stand on the same level as art.
 
@@ -71,7 +71,7 @@ This attitude later became the prototype for open structures in improvised music
 
 ## Chapter 3: John Cage and the Turning Point of Silence
 
-John Cage fundamentally challenged the premise that the composer is the subject of music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
+John Cage fundamentally challenged the premise that the composer is the main person who composes music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
 
 This structure shifted the center of gravity from the act of ""creating" music to the act of ""listening." A work is created not by its sonic content, but by its time frame and how it directs attention.
 
@@ -149,7 +149,7 @@ The audience not only ""appreciates'' the work, but completes the experience by 
 
 ---
 
-## Chronology: A two-layer timeline of performance art and music
+## Chronology: A two-tiered timeline of performance art and music
 
 <div class="mermaid">
 timeline

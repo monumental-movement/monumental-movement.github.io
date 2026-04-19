@@ -52,7 +52,7 @@ In order to understand the darkness of Norse folk, it is necessary to confirm th
 
 Gods are not immortal, but face old age, betrayal, and death. Odin sacrifices his eyes to gain knowledge, and Loki becomes a god, but also a destroyer, leading to the end of the world.
 
-What is important about this mythological system is that there is no assumption that order will last forever. A worldview that is predicated on perdition makes musical expressions more strongly reflect destiny than hope.
+What is important about this mythological system is that there is no assumption that order will last forever. A worldview that is premised on extinction makes musical expressions more strongly reflect destiny than hope.
 
 > Norse mythology contains the idea of ​​accepting an inevitable end rather than salvation.
 
@@ -100,7 +100,7 @@ The very structure of the instrument forms a sonic world that avoids clear resol
 ## Christianization and transformation of dark mythology
 
 
-Even after the Nordic world became Christian, old myths and animist beliefs did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and they slip into folk songs.
+Even after the Nordic world became Christian, old myths and animism did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and they slip into folk songs.
 
 Christian concepts such as the devil, hell, and sin were combined with existing dark entities to form new narratives. As a result, Nordic folk takes on a double darkness.
 

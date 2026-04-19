@@ -25,7 +25,7 @@ K-POP is not just a music genre. It is a comprehensive entertainment model that 
 
 In South Korea, a training system led by talent agencies was established in the late 1990s, and training in singing, dancing, language, media relations, etc. has been conducted over several years through the trainee system. Representative agencies include SM Entertainment, YG Entertainment, and JYP Entertainment.
 
-This flow of ""nurturing → debut → continuous content supply"' has a high affinity with the SNS era, which is an important prerequisite for K-POP"s success.
+This flow of ""nurturing → debut → continuous content supply"' had a high affinity with the SNS era, which became an important prerequisite for K-POP"s success.
 
 > The strength of K-POP lies not in individual songs, but in a comprehensive "strategic model" that includes operational design.
 
@@ -75,9 +75,9 @@ Particularly on TikTok, dance challenges function as a spreading device, and whe
 
 ### Case Study: BTS Global Expansion
 
-BTS made extensive use of SNS in the late 2010s and formed an international fandom even before they were exposed to English-speaking media. Appearances on American music award shows and talk shows are based on existing fandom.
+BTS made full use of SNS in the late 2010s and formed an international fandom even before they were exposed to English-speaking media. Appearances on American music award shows and talk shows are based on existing fandom.
 
-By actively communicating on Twitter, they were shaping trends overseas even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
+By actively communicating on Twitter, they were shaping overseas trends even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
 
 > SNS is not just an advertising medium for K-POP, but the center of fandom formation.
 
@@ -85,7 +85,7 @@ By actively communicating on Twitter, they were shaping trends overseas even bef
 
 ## Chronology of K-POP expansion seen through data
 
-### Main events
+### Major events
 
 * 1996: H.O.T. debut
 * 2009: Girls' Generation enters Japan

@@ -18,7 +18,7 @@ title: '[Column] Boredoms: The trajectory of the builder of chaos and the expand
 
 ## Prologue: Who were the Boredoms?
 
-Text: mmr｜Theme: Following the evolution of Boredoms, and how its work form, live performances, and derivative units have developed.
+Text: mmr｜Theme: Following the evolution of Boredoms, and how their work form, live performances, and derivative units have developed.
 
 In the history of Japanese music, **Boredoms** occupy a unique position as an entity that cannot be fully explained in any context.
 Formed in Osaka in the late 1980s, they went on to influence musicians around the world, morphing into noise, hardcore, avant-garde, psychedelia, and later rhythm ensembles.
@@ -211,7 +211,7 @@ In this chapter, I will systematically organize the personal activities of **Yam
 ### 7.1 Initial interest
 - Collage, Manga, Concrete Art
 - Destructive performance
-- More interested in "place" than sound
+- Interested in "place" rather than sound
 
 ### 7.2 Formation of sampling sense
 Since the early 1990s, Ai has been using turntables and cassettes as materials, specializing in ""tactile editing'' that connects fragments of physical sound.
@@ -219,7 +219,7 @@ Since the early 1990s, Ai has been using turntables and cassettes as materials, 
 ## 7.3 Inclination to Rhythm (2000s)
 During the bore drum period, Ai's interest shifted greatly to the physical aspects of rhythm, and his role as a conductor became central.
 
-### Evolution of Eye expression
+### Eye expression evolution
 
 <div class="mermaid">
 flowchart TD

@@ -65,7 +65,7 @@ In the late 1980s, **Galaxie 500** are considered to be the forerunners of slowc
 In 1991, during the alternative explosion symbolized by Nirvana"s ""Nevermind," the attitude of ""don"t dare to turn up the volume" emerged as a paradoxical alternative.
 
 ## ■ Midwestern American indie aesthetics
-Focusing on small labels in regional cities such as Minnesota, Ohio, and California, **a rustic recording environment = Lo-Fi aesthetics** became associated with slowcore.
+Focusing on small labels in regional cities such as Minnesota, Ohio, and California, the **rustic recording environment = Lo-Fi aesthetics** became associated with slowcore.
 
 ---
 
@@ -152,7 +152,7 @@ example:
 | Kick --- | Snare ----- | Hat - |
 
 
-Controlling the ""margin length'' is more important than the tempo.
+Controlling ""margin length'' is more important than tempo.
 
 ---
 
@@ -232,7 +232,7 @@ flowchart TD
 ---
 
 # 10. Summary
-Slowcore/Sadcore is a genre that was born in the 1990s in the American indie genre and places value on ""quietness.'' Slow tempo, few notes, distant reverberations, and introspective lyrics. These were born as the opposite of intense music, but now they are once again in the spotlight in visual culture and social media.
+Slowcore/Sadcore is a genre that was born in the 1990s in American indie music and places value on ""quietness.'' Slow tempo, few notes, distant reverberations, and introspective lyrics. These were born as the opposite of intense music, but now they are once again in the spotlight in visual culture and social media.
 
 Rather, the limitation of ""few sounds'' **allows the listener to sink deeper into the music, allowing the contours of the world to emerge more clearly**.
 Slowcore is a unique type of music that quietly depicts the smallest units of emotion.

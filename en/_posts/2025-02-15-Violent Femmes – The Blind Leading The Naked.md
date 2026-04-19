@@ -13,7 +13,7 @@ title: Violent Femmes – The Blind Leading The Naked
 ---
 
 
-Violent Femmes is an American folk-punk band from Milwaukee, Wisconsin. 1980年代のアンダーグラウンドフォークパンクとオルタナティヴロックシーンの不可欠なバンドとされており、特にフォークロック、インディーロック、グランジ、ポップパンク、エモ、および1980年代後半から1990年代のオルタナティヴロックシーンにおいて、その後のムーブメントに大きな影響を与えた。
+Violent Femmes is an American folk-punk band from Milwaukee, Wisconsin. Considered an integral part of the underground folk-punk and alternative rock scenes of the 1980s, they had a major influence on subsequent movements, particularly in folk rock, indie rock, grunge, pop-punk, emo, and alternative rock scenes of the late 1980s and 1990s.
 
 This album, released in 1986, was the third album by the Violent Femmes and was produced by Jerry Harrison of the Talking Heads.
 

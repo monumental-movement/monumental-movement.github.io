@@ -64,7 +64,7 @@ In the 20th century, the field of music therapy was established, and it began to
 
 The reason why music brings healing can be explained from a neuroscience perspective.
 
-The human brain responds very sensitively to external sound stimuli. In particular, rhythm and frequency have the property of synchronizing with brain waves. This is called "entrainment".
+The human brain responds very sensitively to external sound stimuli. In particular, rhythm and frequency have the property of being synchronized with brain waves. This is called "entrainment".
 
 The main types of brain waves are:
 
