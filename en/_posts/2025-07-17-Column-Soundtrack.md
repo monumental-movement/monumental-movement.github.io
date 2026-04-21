@@ -87,7 +87,7 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be distributed in high resolution.
+Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 
@@ -103,7 +103,7 @@ The boundary between "functionality" and "artistic" in film music is once again 
 
 flowchart TD
   A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
-  B["💿Records (1950s-1980s) General distribution of film music. Mainly recording highlights"]
+  B["💿 Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
   C["📼 Cassette / 8-track (1970s-80s) Popularity in home and car playback devices. Portability of movie music."]
   D["💽CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
   E["📀 DVD/Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
@@ -193,7 +193,7 @@ Mixes based on Dolby Atmos and spatial audio are also on the rise.
 
 ### "Separation" and "reunification" of music and images
 
-The medium of film music is not simply a means of delivering sound; it is a device that can be separated from the image and appreciated on its own, or reconnected with the image to allow for a re-experience.
+The medium of film music is not simply a means of delivering sound; it is a device that can be separated from the image and appreciated on its own, or reconnected with the image to enable re-experience.
 
 Scores that give you new discoveries when you listen to them on CD (e.g. Thomas Newman's music)
 

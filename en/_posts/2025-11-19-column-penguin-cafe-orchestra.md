@@ -53,7 +53,7 @@ PCO's origins lie in a strange event in 1972, when founder Simon Jeffes "succumb
 That's when he had a daydream-like inspiration that later became known as the "Penguin Cafe vision."
 There existed a "utopia" where people could gather freely and continue to make music without discipline or form.
 
-To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structures of minimal music.
+To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structure of minimal music.
 The music was neither traditional nor avant-garde, but crystallized as a sound that could only be found here.
 
 ---
@@ -126,7 +126,7 @@ It's a quiet yet dramatic song that feels like the expansion and contraction of 
 
 ### 3-3. **Telephone and Rubber Band (1981)**
 
-A strange piece of music in which a two-tone telephone suddenly rings in a classical ensemble.
+A strange piece of music in which a two-tone telephone suddenly rings out over a classical ensemble.
 
 **Features**
 
@@ -147,7 +147,7 @@ The main albums are explained below.
 
 Debut album released on Virgin Records' sub-label Obscure.
 Among the Obscure works produced by Brian Eno, this is the most "different" and "bright".
-A fusion of folklore and repetitive structure almost completes the later style.
+Folklore and repetitive structures are fused, and the later style is almost complete.
 
 ### ● *Penguin Cafe Orchestra* (1981)
 
@@ -193,7 +193,7 @@ PCO's music is emotional but not descriptive, so it is valued as ""sound that al
 ### ● Impact on subsequent generations
 
 * Max Richter
-* Olafur Arnalds
+*Olafur Arnalds
 * Penguin Cafe (successor project by son Arthur Jeffes)
 * Folk/Minimal artists
 

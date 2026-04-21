@@ -82,7 +82,7 @@ It was highly praised as an idea that transcends the boundaries between art and 
 ### 2.2 2017: "Vaginal Music Player" Research
 
 In 2017, a study by the **Institut Marquès** in Barcelona, ​​Spain
-He won the Ig Nobel Prize in Medicine.
+Winner of the Ig Nobel Prize in Medicine.
 This team developed an **intravaginal speaker** called "Babypod",
 We investigated how fetuses respond to musical stimuli in the womb.
 
@@ -135,7 +135,7 @@ The two share the same spirit of inquiry with different methodologies.
 
 ---
 
-### 3.3 Audience as "subject" – between emotions and data
+### 3.3 Audience as "subject" – between emotion and data
 
 In recent neuroscience research, fMRI has been used to measure brain activity while listening to music.
 Efforts are underway to analyze the mechanisms by which pleasure and empathy occur.

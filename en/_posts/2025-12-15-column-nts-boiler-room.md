@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Establishment of NTS Radio and broadcasting culture
+## Chapter 1 Establishment of NTS Radio and broadcasting culture
 
 NTS Radio is an internet radio based in London that broadcasts DJ programs and live performances 24 hours a day. Broadcast content is wide-ranging, including club music, experimental music, folk music, and improvisational performances.
 
@@ -64,7 +64,7 @@ DJ sets at NTS and Boiler Room tend to be different from peak-time club setups. 
 
 Particularly in NTS, long sets lasting over two hours are common, and a style that gently builds a narrative while crossing genres is often seen. On the other hand, Boiler Room has many relatively short sets, emphasizing the development in sync with the heat of the space.
 
-> "The condition of live streaming has changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
+> "The conditions of live streaming changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
 
 ---
 
@@ -148,7 +148,7 @@ The facts summarized in this paper will serve as a foundation for considering fu
 The practice of the live streaming artists appearing on NTS and Boiler Room is more about ""music as a body of movement'' than the name of a genre.
 
 DJ sets and experimental performances in live streams are presented as a state of continuous change over time, rather than as a finished piece of work.
-This can be viewed as "recordable movement."
+This can be regarded as "recordable movement."
 
 > "The moment music rejects fixed formats, its movement becomes most evident."
 
@@ -166,7 +166,7 @@ On NTS, it has been confirmed that there are many cases in which material in the
 
 ## Supplementary Chapter 3 Example density across genres
 
-Looking at the activities of live streaming artists, cross-genre is the norm rather than the exception. Fragments of dance music, noise, jazz, folk music, and pop are concatenated in the same set.
+Looking at the activities of live streaming artists, cross-genre is the norm rather than the exception. Fragments of dance music, noise, jazz, folk music, and pop are concatenated within the same set.
 
 This is more a result of changing listening conditions in the distribution environment than an intentional avant-garde. Listening for long periods of time in a private environment allows for rapid genre changes.
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 
@@ -192,7 +192,7 @@ When images exist, physical movements and spatial configurations have meaning. W
 
 ## Supplementary Chapter 6 Managing improvisation
 
-Improvisation is not chaotic. Live streaming artists design improvisations based on conditions such as streaming time, number of listeners, and technical constraints.
+Improvisation is not chaotic. Live streaming artists design improvisations based on conditions such as delivery time, number of listeners, and technical constraints.
 
 Unknownness appears as controlled uncertainty rather than pure chance.
 

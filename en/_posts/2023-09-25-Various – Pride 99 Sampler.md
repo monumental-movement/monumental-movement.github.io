@@ -43,5 +43,5 @@ B6. Meg Hentges–This Kind Of Love
 B7. Fosse Soundtrack –Sing, Sing, Sing, Part 1
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
 

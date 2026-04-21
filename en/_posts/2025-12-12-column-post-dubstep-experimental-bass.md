@@ -103,7 +103,7 @@ James Blake is unique in taking post-dubstep out of the context of club culture 
 
 ### Acoustic features
 - Extreme minimalism centered around piano and vocals
-- The bass is minimal and smoothly arranged around 50-70Hz.
+- The bass is minimal and smoothly arranged around 50 to 70Hz.
 - The chord progression has a classical harmonic feel.
 - Suppress formant manipulation and blur the boundary between natural sounds and electronic sounds
 - Depending on the depth of compression, "breathing" functions as the rhythm of the song
@@ -134,7 +134,7 @@ James Blake's approach has been treated as an important turning point, connectin
 ### 3-3 Base generation
 - Mainly sine waves
 - Short envelope with Attack 5~20ms, Release 100~200ms
-- Other layers are organized with HPF to keep low end clear below 60Hz
+- Organize other layers with HPF to keep low end clear below 60Hz
 - The stereo spread is left to field recording, and the bass itself is monaural.
 
 ---

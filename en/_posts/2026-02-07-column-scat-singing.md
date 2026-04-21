@@ -63,7 +63,7 @@ In the mid-1920s, one-shot recording was the norm in recording studios in Chicag
 
 In his scat, the syllables have no meaning, but the rhythmic arrangement is very clear. The beginning of the phrase is the attack of the trumpet, and the ending naturally converges with the breath. Here the voice acts as a melodic instrument, and the absence of lyrics becomes a prerequisite rather than an omission.
 
-If you listen carefully to records from that time, you will see that a sense of distance from the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn"t stand out too much either. The sense of improvising within the ensemble had already been perfected.
+If you listen carefully to records from that time, you"ll realize that the sense of distance between you and the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn't stand out too much either. The sense of improvising within the ensemble had already been perfected.
 
 <div class="mermaid">
 timeline
@@ -103,7 +103,7 @@ Using bebop idioms vocally was an act that presupposed an understanding of impro
 
 <div class="mermaid">
 flowchart LR
-    A[Bebop usage] --> B[fast tempo]
+    A[bebop usage] --> B[fast tempo]
     A --> C[complex harmony]
     B --> D[instrumental scat]
     C --> D

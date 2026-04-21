@@ -18,7 +18,7 @@ title: '[Column] Music and urban space: A history of mutual generation woven by 
 
 ## Introduction Why do cities produce music?
 
-Text: mmr｜Theme: Since the 20th century, music has interacted with urban space, tracing the history of how music has reshaped the shape and feel of cities while crossing streets, clubs, homes, and media, using examples from specific cities and genres.
+Text: mmr｜Theme: Since the 20th century, music has interacted with urban space, tracing the history of how music has reshaped the shape and feel of cities while crossing streets, clubs, homes, and media, through examples from specific cities and genres.
 
 Cities bring people together, divide them, and rearrange them. Population density, immigration, industry, transportation, regulation. When these elements overlap, music becomes not just entertainment, but the very rhythm of urban life. The sounds of a factory, the repetition of traffic, and the buzz of a crowd are structured through the musician's sensibility and become a genre. Cities are not musical "stages". It is a musical generator, and at the same time, it is an entity that is reinterpreted through music.
 
@@ -48,7 +48,7 @@ In the early 20th century, New Orleans was a port city where diverse cultures in
 
 ### New York and Tin Pan Alley
 
-In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry defined the format of popular music, reflecting the city's speed and commerciality.
+In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry established a format for popular music that reflected the city's speed and commerciality.
 
 > Modern cities had the power to push music from improvisation to industry.
 

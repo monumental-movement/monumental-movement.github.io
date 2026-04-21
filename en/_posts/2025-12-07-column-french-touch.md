@@ -189,7 +189,7 @@ French Touch's filter sweep relied on analog harmonic changes.
 
 ### ◆ ② Record culture: Music production based on sampling
 Much of French Touch begins with vinyl samples.
-Here is the ""joy of discovering'' music**.
+Here lies the ""joy of discovering'' music**.
 It was the atmosphere of the time when club culture and record culture were directly connected.
 Digging records itself was the gateway to creation.
 

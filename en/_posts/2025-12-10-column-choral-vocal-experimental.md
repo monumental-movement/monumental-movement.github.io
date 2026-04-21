@@ -20,7 +20,7 @@ title: '[Column] Choral / Vocal Experimental'
 Text: mmr｜Theme: Historical development, representative artists, technique analysis, sound recording/video context, contemporary work trends
 
 "Choral/Vocal Experimental" is a field that was born from the intersection of experimental music, acoustic research, and electroacoustic ideas from the latter half of the 20th century on the oldest musical form of chorus.
-Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
+Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using the voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
 This trend presented a new listening style to traditional choral culture and had a major impact on acoustic art as a whole.
 
 ---

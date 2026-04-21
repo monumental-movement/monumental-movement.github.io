@@ -20,7 +20,7 @@ title: '[Column] Complete history of vaporwave culture — label history, acoust
 Text: mmr｜Theme: Vaporwave, a movement that started as a music genre, is a huge cultural sphere surrounding memory, history, media, and social psychology.
 
 
-Vaporwave is a cultural phenomenon that was born around 2010 at the intersection of Internet culture, post-financial crisis emotions, and archived images of the past. This article synthesizes label history, aesthetics, acoustic structure, sociocultural theory, derivative genres, semiotics, chronology, and illustrations, and redefines vaporwave as a ""comprehensive art born in an era of lost future.''
+Vaporwave is a cultural phenomenon that was born around 2010 at the intersection of Internet culture, post-financial crisis emotions, and archived images of the past. This article synthesizes label history, aesthetics, acoustic structure, sociocultural theory, derivative genres, semiotics, chronology, and illustrations, and reinterprets vaporwave as ""a comprehensive art born in an era of lost future.''
 
 ---
 
@@ -48,7 +48,7 @@ The establishment of vaporwave is closely related to the blogging culture of the
 - **Beer On The Rug** is the label that most emblematically recorded early vaporwave, producing many iconic artists such as MACINTOSH PLUS, Laserdisc Visions, and Luxury Elite.
 - **Constellation Tatsu** has deepened their approach to ambient music, fusing tape culture and spiritual aesthetics.
 - **Dream Catalog** emphasized the reconstruction of the image of China and Japan, a sci-fi view of the future, and the ghostly nature of cities.
-- **Orange Milk Records** expanded the possibilities of music after Vaporwave in the context of experimental electronic music, and also established a unique position in terms of artwork.
+- **Orange Milk Records** expanded the possibilities of music after vaporwave in the context of experimental electronic music, and also established a unique position in terms of artwork.
 
 ## Chapter 2: Transformation of Vaporwave Aesthetics
 
@@ -59,7 +59,7 @@ Early Eccojams were not just slowdowns, but devices that created new emotions by
 ### 2-2 Direction of aesthetics
 
 * **The collapse of an artificial utopia** (Utopian Virtual)
-* **Decadence, industrialization, and destructive future vision** (Hardvapour)
+* **Decadence, industrialization, destructive future image** (Hardvapour)
 * **The sweetness and irony of consumer culture** (Future Funk)
 * **Fusion of urban ghostliness and environmental sounds** (Mallsoft)
 

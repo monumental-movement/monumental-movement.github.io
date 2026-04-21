@@ -24,7 +24,7 @@ Text: mmr｜Theme: Showa songs and pop are fused with 21st century internet cult
 In the 2020s, tags such as ""Showa Retro," ""Showa Kayo," and ""Japanese 80s Pop'' are spreading explosively on SNS and streaming services around the world.
 It was a symbolic event that Miki Matsubara"s ""Midnight Door~Stay With Me" and Tatsuro Yamashita"s ""Ride on Time" suddenly appeared on Spotify's global charts.
 
-However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotion sharing"**.
+However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotional sharing"**.
 
 In this article, we will explore how Showa songs resonate overseas and how they are being received and reconstructed.
 We will explore it from multiple angles, including 1) historical background, 2) media environment, 3) overseas reception structure, and 4) musical translation perspectives.
@@ -150,7 +150,7 @@ Nostalgia is no longer about retrospection, but has become an energy for re-crea
 
 Showa songs are becoming etched into the world"s emotional map, transcending Japan"s historical context.
 This echo is also a return to the ""individual memory'' that was being lost due to globalization.
-The songs of the Showa era have become an ""emotional refuge'' not only for the Japanese of the past, but for all lonely young people of the 21st century.
+The songs of the Showa era have become an ""emotional refuge'' not only for Japanese people of the past, but for all lonely young people of the 21st century.
 
 Even though the Showa era has become far away, it continues to be replayed in someone's mind somewhere in the ocean of the Internet.
 

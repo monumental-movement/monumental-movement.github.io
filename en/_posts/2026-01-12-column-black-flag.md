@@ -129,7 +129,7 @@ This DIY model set a realistic precedent for later indie rock and hardcore scene
 
 In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated, and the noisy texture became emphasized.
 
-This change was not just an experiment, but also a reflection of touring life, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
+This change was not just an experiment, but also a reflection of life on the road, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
 
 During this period, Black Flag expanded the boundaries of hardcore and laid the foundation for later influences on sludge, grunge, and alternative rock.
 
@@ -153,7 +153,7 @@ flowchart TD
 
 ---
 
-## Impact and Legacy
+## Impact and legacy
 
 Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to compromise musically became a reference point for countless bands.
 

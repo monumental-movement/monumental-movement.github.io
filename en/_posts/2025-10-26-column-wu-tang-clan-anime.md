@@ -70,7 +70,7 @@ Mokugyo, the koto, the shakuhachi, the sound of temple bells -- these were symbo
 However, in the 2000s, his interest expanded to ""Japanese anime.''
 RZA showed strong respect for **Nujabes**, who was the music supervisor for "Samurai Champloo".
 Ghostface Killah expanded his alias from "Tony Starks" to "Iron Man".
-He later became involved in producing the soundtrack for Afro Samurai.
+He later became involved in the production of the soundtrack for ""Afro Samurai''.
 At this point, Asian culture moves from mere quotation to the realm of co-production = collaboration.
 
 ---
@@ -92,7 +92,7 @@ At the same time, it became a pioneer of ""fusion with hip-hop'' for the Japanes
 
 ---
 
-## Chapter 4: A new horizon for hip-hop opened up by an anime worldview
+## Chapter 4: A new horizon for hip-hop opened up by an anime-like worldview
 
 After Wu-Tang Clan, hip-hop acquired the ""language to talk about anime.''
 Tyler, The Creator references "Akira" and "Neon Genesis Evangelion",
@@ -115,7 +115,7 @@ It emphasized the "Zen" aspect of hip-hop and resonated with RZA's spiritual wor
 In particular, Nujabes' music combines sampling and the aesthetics of ma.
 He was spiritually connected to the Wu-Tang Clan, the "Samurai of Sound."
 
-In the 2020s, clear references appear in Japanese anime works as well.
+In the 2020s, clear references appear in Japanese anime works.
 The influence of lo-fi hip-hop can be seen in the BGM of "Jujutsu Kaisen".
 Multiple hip-hop artists will participate in the ending of "Chainsaw Man."
 Here, anime once again reconnects with the language of the "street."
@@ -132,7 +132,7 @@ Street MCs sharpen their rap skills like a sword,
 Anime characters transcend themselves through "training."
 These two stories transcend cultural barriers and converge into one spiritual archetype: the poetics of the warrior.
 
-Today, hip-hop and anime share the same global myth.
+Nowadays, hip-hop and anime share the same global myth.
 It's no coincidence that the Wu-Tang Clan got its start.
 Their "microphone path" is
 It was truly a modern-day translation of "Samurai Spirit."

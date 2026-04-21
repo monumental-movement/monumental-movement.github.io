@@ -162,7 +162,7 @@ Creative sample use, close connection between dance and music.
 
 ---
 
-## 10. まとめ
+## 10. Summary
 
 Footwork/Juke is more than just a music genre, it is a form of expression that brings together Chicago's social background, street dance culture, and the creativity of young people. Although it has spread internationally, it remains a culture rooted in local communities.
 

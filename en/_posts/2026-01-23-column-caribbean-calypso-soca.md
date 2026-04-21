@@ -57,7 +57,7 @@ At this stage, calypso changed from mere folk music to urban popular music. Perf
 
 ## The inseparability of carnival and music
 
-Trinidad's Carnival is a cultural device whose music refuses to be understood in isolation. After the emancipation of slaves, carnival functioned as a place where physical expression and noise that had been suppressed were made public. Costumes, processions, percussion instruments, and songs come together to transform the urban space itself into a stage.
+Trinidad's Carnival is a cultural device whose music refuses to be understood in isolation. After the emancipation of slaves, carnival functioned as a place where physical expression and noise that had been suppressed were made public. Costumes, marches, percussion instruments, and songs come together to transform the urban space itself into a stage.
 
 Calypso is intensively produced and performed from the preparation period to the actual carnival, and the songs are completed by being danced. The audience was not passive consumers, but participants in the music by singing and chanting. This interaction made the evaluation of music more than just a recording.
 
@@ -184,7 +184,7 @@ C --> D[carnival specialization]
 
 ## Technological innovation and 21st century soca
 
-With the spread of digital production environments, soca can now be mass-produced even on a low budget.結果として、毎年のカーニバルに向けた楽曲供給は爆発的に増加する。 On the other hand, the immediacy and speed of consumption are also accelerating, shortening the lifespan of songs.
+With the spread of digital production environments, soca can now be mass-produced even on a low budget. As a result, the supply of music for each year's carnival increases explosively. On the other hand, the immediacy and speed of consumption are also accelerating, shortening the lifespan of songs.
 
 SNS and video sharing culture have further strengthened the combination of dance and music. The choreography becomes inseparable from the music, and visual diffusion becomes a condition for success. This trend is creating new forms of expression while preserving the essence of festival music.
 

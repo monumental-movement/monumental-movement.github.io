@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Genealogy of destructive artists
 
 A destructive artist is one who turns the urge for self-destruction into a driving force for creation.
-彼らの歴史は、近代芸術の誕生とともに始まった。
+Their history began with the birth of modern art.
 
 In 19th century Romanticism, poets and painters considered "madness" to be a symbol of creativity.
 It extolled the nobility of the soul that cannot fit into society. Byron, Rimbaud, Van Gogh.
@@ -123,7 +123,7 @@ Now that AI is in charge of creation and communities are expanding where people 
 There is no need to worship "ruin" as a myth.
 
 In fact, ""survival'' itself may be a new art form.
-Creation that moves towards recovery rather than destruction.
+Creation that moves toward recovery rather than destruction.
 Beyond that lies the image of a truly free artist.
 
 ---

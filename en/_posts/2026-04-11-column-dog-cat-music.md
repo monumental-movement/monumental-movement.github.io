@@ -108,7 +108,7 @@ It has been confirmed that music that incorporates these elements induces a rela
 
 Characteristics of sounds that cats like:
 
-*Includes high frequency
+*Including high frequency
 * Soft continuous sound
 * Rhythm is simple or slow
 
@@ -239,7 +239,7 @@ A gentle tempo and a structure that mimics nature tends to elicit a relaxing res
 
 - Johann Sebastian Bach – Air on the G String
 
-The highly periodic structure and constant dynamics make it easy to synchronize with the dog's heartbeat. It is also important that there are few sudden peaks.
+Its highly periodic structure and constant dynamics make it easy to synchronize with your dog's heartbeat. It is also important that there are few sudden peaks.
 
 - Brian Eno – Music for Airports
 
@@ -307,7 +307,7 @@ Due to the extreme frequency design (especially high frequencies), it includes a
 
 - Fennesz – Endless Summer
 
-It has a structure between noise and melody, and is characterized by a high-frequency texture.
+It has an intermediate structure between noise and melody, and is characterized by a high-frequency texture.
 
 ### Unsuitable example
 

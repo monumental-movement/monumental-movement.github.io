@@ -79,7 +79,7 @@ In a large club in Berlin, the bass makes the entire building vibrate. Minimal t
 
 ### Coincidence between Chicago and TB-303
 
-Acid techno's origins lie in Chicago in the mid-1980s. The Roland TB-303 was originally designed for guitar practice, but was considered a failure in the market. However, this equipment, which found its way onto the second-hand market, created a bass sound that had never been seen before with its unique resonance and slide function.
+Acid techno's origins lie in Chicago in the mid-1980s. The Roland TB-303 was originally designed for guitar practice, but was considered a failure in the market. However, this equipment, which found its way onto the used market, created an unprecedented bass sound with its unique resonance and slide function.
 
 ### Combining with UK rave culture
 
@@ -163,7 +163,7 @@ C --> G[excessive resonance]
 
 ## Conclusion Balancing reduction and excess
 
-Minimal techno and acid techno used the same language, techno, but reached completely opposite expressions. Minimalism gained depth by stripping things down, and acid created enthusiasm by distorting it. The existence of these two extremes allows techno to transcend mere dance music and continue to exist as part of urban culture itself.
+Minimal techno and acid techno used the same language, techno, but reached completely opposite expressions. Minimalism gained depth by stripping things down, and acid created excitement by distorting it. The existence of these two extremes allows techno to transcend mere dance music and continue to exist as part of urban culture itself.
 
 > The strength of techno lies in the fact that it contains both calm and frenzy at the same time.
 

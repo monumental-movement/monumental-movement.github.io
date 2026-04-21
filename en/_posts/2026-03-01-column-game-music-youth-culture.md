@@ -90,7 +90,7 @@ The song was later performed by orchestra around the world.
 
 Started in 2002
 **Distant Worlds: music from FINAL FANTASY**
-has performed repeatedly in North America, Europe, and Japan, and established game music in classical halls.
+performed in North America, Europe, and Japan, and established game music in classical halls.
 
 At this stage, game music transitioned from a ""domestic experience" to a ""performance art in public spaces."
 
@@ -212,7 +212,7 @@ flowchart TD
 Changes in music exposure among young people:
 
 * Decrease in TV viewing time
-* YouTube視聴時間の増加
+* Increased YouTube viewing time
 * Increased gameplay time
 * Establishment of streaming usage
 

@@ -131,7 +131,7 @@ In particular, Japan's strengths include "accuracy of sound," "composition abili
 In Japan, it has spread through the streets and events since the mid-2000s, and techniques are shared between performers through practice sessions and participation in competitions.
 
 ## ◆ 2. Strong technical orientation
-Japanese players are strong in sound accuracy and attention to detail, and are highly praised even by overseas players.
+Japanese players are strong in sound accuracy and attention to detail, and are praised even by overseas players.
 
 ## ◆ 3. Fusion with video and editing culture
 Mainly on YouTube and SNS,
@@ -172,7 +172,7 @@ He has helped raise the profile of Loopstation players in Japan, and has a great
 
 ### ● Precise technique
 RUSY is known for his highly accurate rhythms and smooth combination techniques, and has received high praise mainly at domestic tournaments in Japan.
-Features include:
+The characteristics are:
 
 - tight groove
 - Clear and dense pronunciation
@@ -245,7 +245,7 @@ With the development of Loopstation, beatboxing
 Towards an area that can be called
 
 ## ◆ 2. Combination with visual culture
-""Video-based showcases'' are increasing in competitions around the world.
+The number of ""video-based showcases'' is increasing in tournaments around the world.
 We live in an era where SNS accelerates style.
 
 ## ◆ 3. Future of Japanese strengths

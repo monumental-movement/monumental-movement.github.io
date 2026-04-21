@@ -23,7 +23,7 @@ Text: mmr｜Theme: Unraveling how street racing culture and film sound were comb
 
 When we watch a movie, we don't just feel the speed from the screen. Rather, it is the sound that is decisive. The roar of the engine, the squeal of the tires, and the tempo of the music. When these things come together, "speed" goes beyond visual perception and becomes a physical sensation.
 
-Fast and Furious, released in 2001, was a film that shared this feeling on a global scale. This movie, which depicts illegal street racing and youth culture in Los Angeles at night, is remembered as not just a car action movie, but as a ""movie that runs with sound.''
+Fast and Furious, released in 2001, was a work that shared this feeling on a global scale. This movie, which depicts illegal street racing and youth culture in Los Angeles at night, is remembered as not just a car action movie, but as a ""movie that runs with sound.''
 
 After this work, the perception that "speed = sound" continued to be reinforced in pop culture.
 
@@ -67,7 +67,7 @@ For example, the pitch of engine sounds is often emphasized more than the actual
 
 The tempo of the music also plays an important role. It's not just songs with a fast BPM (tempo) that are used; rather, by layering detailed rhythms on songs with a medium tempo, a sustained sense of tension is created.
 
-In this way, the movie has created a world that feels faster than it actually is.
+In this way, the movie creates a world that feels faster than it actually is.
 
 > Movie speed is a designed illusion, not a reproduction of reality.
 
@@ -162,7 +162,7 @@ It"s not just physical speed. It"s a total experience that combines sound, rhyth
 
 That"s why even when we"re in front of a screen, we feel as if we're running.
 
-Speed ​​isn"t something you see with your eyes, it"s something you believe with your ears.
+Speed ​​is not something you see with your eyes, it's something you believe with your ears.
 
 > True speed exists in the illusion created by sound
 

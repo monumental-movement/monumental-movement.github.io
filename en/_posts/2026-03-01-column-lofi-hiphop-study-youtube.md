@@ -53,7 +53,7 @@ J Dilla established a unique off-the-grid drum arrangement, the so-called "Dilla
 
 From the late 2000s to the early 2010s, the digitalization of production environments progressed, and online sharing of DAWs and sampled materials became commonplace. The genre slowly took shape, with unknown beatmakers releasing songs on platforms like Bandcamp and SoundCloud.
 
-Around 2013, the format of ""24-hour live streaming'' on YouTube became widespread. The symbol of this is a channel that continues to play music along with visuals of an anime-style girl sitting at a desk. Lofi Girl, as it would become widely known, established the format of 24-hour streaming and became a cultural device with millions of concurrent viewers.
+Around 2013, the format of ""24-hour live streaming'' on YouTube became widespread. The symbol of this is a channel that continues to play music along with visuals of an anime-style girl sitting at a desk. Lofi Girl, as it became widely known, established the format of 24-hour streaming and became a cultural device with millions of concurrent viewers.
 
 Even on Spotify, playlists such as "Chill" and "Focus" are spread by algorithms, and Lo-Fi hip-hop is being redefined as a "functional music category" rather than a "genre."
 
@@ -105,7 +105,7 @@ Their melodious, piano-based Lo-Fi beats have expanded their support in the stre
 *Toppabeats "Monday Loop"
 * Idealism "Snowfall"
 
-These songs share the characteristic of avoiding complex developments and presenting texture and atmosphere within short loops. The volume changes are small and there are no lyrics, so it doesn't distract you.
+These songs share the characteristic of avoiding complex developments and presenting texture and atmosphere within short loops. The volume changes are small and there are no lyrics, so it's hard to distract.
 
 <div class="mermaid">
 flowchart LR
@@ -159,6 +159,6 @@ Music with a repetitive structure is suitable for loop playback. 24-hour distrib
 
 For a generation raised on YouTube and streaming, algorithmic recommendations and playlist culture are the norm, and Lo-Fi was a natural fit for that context.
 
-> The popularity of Lo-Fi hip-hop is not a coincidence, but is shaped by the interaction of acoustic structures and digital environments.
+> The popularity of Lo-Fi hip-hop is not a coincidence; it is shaped by the interaction between acoustic structures and the digital environment.
 
 ---

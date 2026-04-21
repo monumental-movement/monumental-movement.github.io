@@ -17,7 +17,7 @@ title: '[Column] Why does music that was born underground come back again and ag
 
 ## What is Underground Music?
 
-Text: mmr｜Theme: Why does the music that comes from underground come back again and again? Deciphering the cyclical structure of underground culture and its relationship with society through the history of jazz, punk, house, grime, etc.
+Text: mmr | Theme: Why does the music that comes from underground come back again and again? Deciphering the cyclical structure of underground culture and its relationship with society through the history of jazz, punk, house, grime, etc.
 
 
 ### Sound starting from an invisible place
@@ -202,7 +202,7 @@ In other words, underground culture is born as a **reaction** of mainstream cult
 
 This cycle is repeated over and over again.
 
-> The resurgence of the underground is not a coincidence, but a natural reaction to mainstream culture.
+> The resurgence of the underground is not an accident, but a natural reaction to mainstream culture.
 
 ---
 

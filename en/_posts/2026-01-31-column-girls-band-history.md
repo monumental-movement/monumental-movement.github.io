@@ -20,7 +20,7 @@ Text: mmr｜Theme: How women have updated music history in the form of bands
 
 
 
-In the history of rock and pop, girl bands have long been considered an anomaly. However, in reality, all-female bands have always been in conflict with the systems, technology, and social norms of the times, while building up their own unique expressions. Girls bands are not simply categorized by gender, but are a collection of practices surrounding production, performance, and self-determination.
+In the history of rock and pop, girl bands have long been considered an anomaly. However, in reality, all-female bands have always been in conflict with the systems, technology, and social norms of the times, while building up their own unique expressions. Girls' bands are not simply categorized by gender, but are a collection of practices surrounding production, performance, and self-determination.
 
 Even before the development of the music industry, women have performed in ensembles at home and in local communities. In the 20th century, with the establishment of the record industry and live house culture, the very presence of women in public as a band began to take on social meaning. This paper reconstructs these trends as world history.
 
@@ -152,7 +152,7 @@ In America, there has long been a sense of social discomfort towards women ownin
 
 During the alternative rock era of the 1990s, girl bands became genre-crossing entities, moving freely between rock, punk, and indie. As a result, all-female bands began to be recognized as one of many types of bands, rather than as something special.
 
-> The North American scene was a testing ground where the two extremes of commercial and DIY coexisted.
+> The North American scene was a testing ground where the two extremes of commerce and DIY coexisted.
 
 ---
 

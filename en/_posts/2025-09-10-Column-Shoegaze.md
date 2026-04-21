@@ -185,7 +185,7 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 - Popularization of **home recording/distribution environment**
 - **Hybrid operation of vintage equipment and latest technology**
 
-### 10 recommended songs (2020s)
+### Recommended 10 songs (2020s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|

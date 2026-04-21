@@ -74,7 +74,7 @@ Rhythm that speaks between sounds - this is what has elevated jazz to an art for
 ---
 
 Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
-Enjoying this "freedom of bass sounds" with the sensibilities of your own country,
+Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
 Before long, they were creating their own unique groove at night in Tokyo.
 
 ---

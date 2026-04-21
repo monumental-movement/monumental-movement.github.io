@@ -65,7 +65,7 @@ Initially known as destructive noise rock, it gradually shifted to a structure b
 
 Due to its extreme volume and vibration, sound acts not only as an auditory sensation but also as a physical sensation.
 
-#### Trance through repetition
+#### Trance by repetition
 
 Due to the long repetition, the sense of time becomes diluted and the audience is led into a trance state.
 
@@ -91,7 +91,7 @@ Vision Creation Newsun is also recognized as an important work in the psychedeli
 
 ### Acoustic impact
 
-Seiichi Yamamoto's sustained sound using delay has become a reference technique in the areas of drone and ambient.
+Seiichi Yamamoto's sustained sound using delay has become a reference technique in the areas of drone and ambient as well.
 
 > Seiichi Yamamoto's sound is evaluated not as a genre but as a sonic phenomenon.
 
@@ -176,7 +176,7 @@ Sounds exist not as phrases, but as phenomena that continue to overlap.
 
 The last song on the album, ""Mantral,'' is not only a complete studio work, but it can also be understood more three-dimensionally by tracing its origins.
 
-This song originally derives from a motif played during the Boredoms' period, but it has never been released by Boredoms.
+The song originally derives from a motif played during the Boredoms' period, but it has never been released by Boredoms.
 
 In other words, ""Mantral'' can be said to be a reconstruction of the repetitive phrases and trance structure that were born in the Boredoms scene in his solo work.
 

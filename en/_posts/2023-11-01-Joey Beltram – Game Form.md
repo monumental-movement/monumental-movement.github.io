@@ -23,7 +23,7 @@ He turned to house music in 1985, the same year that the first wave of Chicago h
 
 A year later, they caught the attention of Belgium's R&S Records, who released their first major record, Energy Flash, by mid-1990, with a string of equally impressive releases to follow.
 
-Throughout the 1990s, he continued to make timeless music on the cutting edge label of the time.
+Throughout the 1990s, he continued to create timeless music on the cutting edge label of the time.
 
 In 1999, he founded his own label, STX Records, which currently records with both JB³ and Joey Beltram.
 

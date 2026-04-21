@@ -152,7 +152,7 @@ Since 1998, internationalization and diversification have progressed rapidly.
 * Fusion with folk music
 
 Black metal is said to be a "diversification of ideas, music, and cultural areas."
-Move to a new phase.
+Shift to a new phase.
 
 ---
 

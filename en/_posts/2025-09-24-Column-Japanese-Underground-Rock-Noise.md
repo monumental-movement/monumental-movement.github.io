@@ -90,11 +90,11 @@ This period also saw the rise of indie labels, appearances at international fest
 
 - **Features**: The world's first "noise band". In addition to noise performances, they became legendary for their extreme performances (food throwing, sparks, naked dancing).
 - **Changes**: Started their activities in the 80"s, and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
-- **Anecdote**: The act of ""butchering a chicken'' during a live performance sparked a huge discussion in overseas media and was treated as a social scandal.
+- **Anecdote**: The act of ""butchering a chicken'' during a live performance caused a huge discussion in overseas media and was treated as a social scandal.
 
 | Album | Features | Links |
 |----------|------|--------------|
-| *蔵六の奇病* (1980) | 初期の暴力的ノイズの記録 | [Amazon](https://amzn.to/3ItXW2H) |
+| *Zoroku's Strange Disease* (1980) | Records of early violent noise | [Amazon](https://amzn.to/3ItXW2H) |
 | *Noise Densetsu* (2014) | All members of Merzbau and Incapacitors participate, session sound source with Hijikaido | [Amazon](https://amzn.to/3WbpsVI) |
 
 ---
@@ -165,7 +165,7 @@ A1: The 1990s was a time of an explosion of innovative experiments, and the 2000
 
 **Q2: Which works would you recommend for beginners to listen to? **
 
-A2: Boredoms『Super æ』やMerzbow『Merzbeat』は比較的入りやすい入門盤です。
+A2: Boredoms" Super æ and Merzbow"s Merzbeat are relatively easy to get into.
 
 **Q3: How did noise and rock come together? **
 
@@ -179,7 +179,7 @@ A4: Experimental sound gives a unique sense of tension to the video work, and pr
 
 ### summary
 
-90年代〜2000年代の日本アンダーグラウンド・ロックとノイズは、単なる音楽ジャンルではなく、文化的実験場でした。灰野敬二の儀式的演奏、Merzbowの機材的進化、非常階段の破壊的パフォーマンス、Melt-Bananaの疾走感、Boredomsのサイケ・ノイズ融合は、世界の音楽史に残る唯一無二の表現です。
+Japanese underground rock and noise from the 1990s to the 2000s was not just a musical genre, but a cultural testing ground. Keiji Haino"s ceremonial performance, Merzbow"s technological evolution, Hijikadan"s destructive performance, Melt-Banana"s driving sensation, and Boredoms' psychedelic noise fusion are unique expressions that will remain in the history of world music.
 
 ---
 

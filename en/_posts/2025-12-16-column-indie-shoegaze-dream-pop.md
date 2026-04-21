@@ -75,8 +75,8 @@ Delay is used to create overlapping reverberations rather than being synchronize
 
 ### 2-2. Rhythm in the background
 
-The drums and bass don't act as a driving force behind the song, but function as a center of gravity to support the sound image.
-The tempo is relatively constant, and emphasis is placed on the continuation of a state rather than dramatic development.
+The drums and bass don't act as the driving force behind the song, but function as a center of gravity to support the sound image.
+The tempo is relatively constant, and emphasis is placed on the continuation of a state rather than dramatic developments.
 
 ---
 
@@ -185,7 +185,7 @@ This technique contributed to both the spatial spaciousness of dream pop and the
 ### A-2. Redefining foreground and background in the mix
 
 Traditional rock mixes typically place vocals and lead instruments in the foreground.
-However, in shoegaze/dream pop, this principle is intentionally broken.
+However, in shoegaze/dream pop, this principle is deliberately broken.
 
 Vocals are embedded in the midrange and treated in the same way as guitar and synthesizer reverberations.
 This arrangement creates the effect of giving the listener a bird's-eye view of the entire sound, rather than focusing their attention on one point.

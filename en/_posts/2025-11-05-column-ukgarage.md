@@ -23,7 +23,7 @@ Text: mmr｜Theme: UK garage nurtured in the underground of London in the 90s. T
 In the mid-1990s, there was a sonic revolution quietly underway in London's underground clubs.
 Its name is "UK Garage". Based on American Garage House, they have established a unique "shuffling rhythm" by combining jungle rhythms, R&B vocals, and Jamaican sound system culture.
 
-This new sound was more than just a genre of club music, and served as an expression of urban multiculturalism and immigrant communities. UK garage eventually branched out into **2-Step, Speed ​​Garage, Grime, and Dubstep**, becoming the cornerstone of today's UK bass culture.
+This new sound was more than just a genre of club music, it served as an expression of urban multiculturalism and immigrant communities. UK garage eventually branched out into **2-Step, Speed ​​Garage, Grime, and Dubstep**, becoming the cornerstone of current UK bass culture.
 
 ---
 
@@ -105,7 +105,7 @@ This phenomenon of ""sound and voice becoming one'' became the foundation for th
 
 ## Chapter 5: Early 2000s—Mainstreaming and fragmentation
 
-2000年前後、UKガラージはチャート上で黄金期を迎える。  
+Around 2000, UK garage entered its golden age on the charts.
 **Craig David**'s ""Born To Do It" (2000) reached number 1 in the UK, and 2-Step became popular in pop music. However, at the same time, a backlash against ""commercialization" arose.
 
 From 2001 to 2003, a more aggressive and dark sound emerged in clubs. This became the starting point for later **Grime** and **Dubstep**.
@@ -128,7 +128,7 @@ It is this diversity that creates the ""fluctuation'' of the rhythm.
 - **The DIY spirit of British cities**
 
 This intersection formed the UK's unique sonic identity.
-The UKG party was also a common space that transcended class and race, and served as a positive means of expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
+The UKG party was also a common space that transcended class and race, and served as a means of positive expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
 
 ---
 

@@ -61,7 +61,7 @@ The live house ""LOFT'' opened in 1976, establishing Shinjuku as a free zone for
 ## Chapter 2: Shibuya - Between the club and the street
 
 ### 1. The illusion of Shibuya-kei
-In the 1990s, Shibuya was in the spotlight as a "music city connected to the world."
+In the 1990s, Shibuya was in the spotlight as a ""music city connected to the world.''
 A network of sounds spreading from the 7th floor of Tower Records. Pizzicato Five, Cornelius, Kenji Ozawa.
 The pop sensibilities imported from overseas were simultaneously redefined as Japanese cool.
 

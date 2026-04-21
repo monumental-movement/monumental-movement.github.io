@@ -125,7 +125,7 @@ In the space of a club, non-numerical elements such as audience reaction and atm
 
 Therefore, AI is not positioned as a replacement for DJs, but as a supporting tool. The final decision is still left to humans.
 
-> As technology advances, the value of human intuition increases relatively.
+> As technology evolves, the value of human intuition increases relatively.
 
 ---
 

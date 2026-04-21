@@ -183,7 +183,7 @@ Acid jazz is ""intellectual and danceable music'' that was born out of the urban
 
 The music was born from the fusion of London's immigrant culture, club culture, and the dissatisfaction of post-industrial society.
 
-In Europe, it developed into tourism and post-reunification urban culture, in the United States, it was combined with hip-hop, and in Japan, it developed into Shibuya-kei and club jazz.
+In Europe, it developed into tourism and urban culture after reunification, in the United States, it was combined with hip-hop, and in Japan, it developed into Shibuya-kei and club jazz.
 
 The end of the Cold War and globalization encouraged its proliferation, and it served as a geopolitical symbol of freedom and exchange.
 

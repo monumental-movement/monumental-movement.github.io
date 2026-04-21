@@ -174,7 +174,7 @@ Currently, D&B reigns as the foundation of bass music around the world. Scenes a
 
 **● Featured contemporary artists**
 
-**Noisia (disbanded)**: God-level production skills.
+**Noisia (disbanded)**: God-level production technology.
 
 **Alix Perez**: A sonic alchemist who can do everything from dub to half step.
 
@@ -187,4 +187,4 @@ Currently, D&B reigns as the foundation of bass music around the world. Scenes a
 
 Drum & Bass is more than just club music. It is the beat of anxiety, hope, speed, tension, and resistance of people living in the city.
 
-This music connects, moves, and makes people think in a divided society. Once you fall in love with the rhythm, D&B will begin to flow within you.
+This music connects, moves, and makes people think in a divided society. Once you're captivated by the rhythm, D&B will begin to flow within you too.

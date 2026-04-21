@@ -69,7 +69,7 @@ This **troublesomeness actually creates attachment**.
 
 ## Chapter 2: Memories in Noise -- Analog and Nostalgia
 
-The "thud" noise the moment the needle drops.
+The moment the needle drops, there's a ""sah'' noise.
 For some reason, many people feel nostalgic just by listening to it.
 
 This phenomenon is psychologically called the "Proust effect."

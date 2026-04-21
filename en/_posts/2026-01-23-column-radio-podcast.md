@@ -160,7 +160,7 @@ This is a more personal, long-form reimagining of DJ culture from the golden age
 
 
 The traditional radio economy relied on advertising.
-The structure in which value was determined by viewer ratings and reach was optimized for large-scale broadcasting.
+The structure in which value was determined by viewer ratings and number of viewers was optimized for large-scale broadcasting.
 
 Niche music cultures and specialized narratives are difficult to establish under this model.
 

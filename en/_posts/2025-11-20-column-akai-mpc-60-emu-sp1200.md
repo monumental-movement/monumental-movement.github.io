@@ -74,7 +74,7 @@ In the mid-to-late 1980s, semiconductor memory prices were orders of magnitude h
 * **Key features**: 8-track sequencer, filter (analog), individual outs
 
 **Design philosophy and features**
-The SP-1200 was designed with the time constraints of a sampler in mind, and is optimized for the workflow of "cutting and arranging short samples." Combined with internal analog circuitry, the result is a thick low-frequency range with a "roughness" or "undulation." Based on the specifications and E-mu"s technical documents from the time, it can be confirmed that the SP-1200"s A/D path and filter design contribute to the acoustic coloration.
+The SP-1200 was designed with the time constraints of a sampler in mind, and is optimized for the workflow of "cutting and arranging short samples." Combined with internal analog circuitry, the result is a thick low-frequency range with a "roughness" or "undulation." Based on the specifications and E-mu"s technical documentation from the time, we can confirm that the SP-1200"s A/D path and filter design contribute to its acoustic coloration.
 
 **Practical usage**
 
@@ -197,7 +197,7 @@ flowchart TD
 
 ## Chapter 9: UI/UX and instrumentation — Establishment of a performance approach using MPC
 
-The MPC series popularized the concept of a "sampler = an instrument to be played." In particular, the 16 pads, pad sensitivity, low latency for instant playback, and built-in sequencer make it possible to improvise, and its use in live performances and impromptu sessions has expanded. The fact that the fusion of Roger Linn"s design philosophy (emphasizing the human sense of performance) and Akai"s product design supported the success of the MPC60 is supported by multiple developer interviews.
+The MPC series popularized the concept of a "sampler = an instrument to be played." In particular, the 16 pads, pad sensitivity, low latency for instant playback, and built-in sequencer make it possible to improvise, and its use in live performances and impromptu sessions has expanded. The fact that the fusion of Roger Linn"s design philosophy (emphasizing the human sense of playing) and Akai"s product design supported the success of the MPC60 is supported by multiple developer interviews.
 
 ---
 
@@ -216,7 +216,7 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and Outlook
+## Chapter 12: Summary and outlook
 
 The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace their roots, you always come back to these devices.
 
@@ -437,7 +437,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 stages"] --> C["coarse step"]
+    A["12bit 4096 steps"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

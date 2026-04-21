@@ -18,7 +18,7 @@ title: '[Column] Possibilities of virtual bands: How intangible music has expand
 
 ## What is a virtual band?
 
-Text: mmr｜Theme: Deciphering from historical facts how virtual bands that combine digital technology and storytelling have changed the way music is made, heard, and believed.
+Text: mmr | Theme: Deciphering from historical facts how virtual bands that combine digital technology and storytelling have changed the way music is made, heard, and believed.
 
 
 ### The invention of a "music unit" that has no substance
@@ -64,7 +64,7 @@ These cases already had two elements necessary for later virtual bands. First, t
 
 ### Establishment of an environment where characters can "activate"
 
-From the late 1990s to the early 2000s, CG, the Internet, and the digital music production environment rapidly developed. As a result, the characters are not just illustrations, but characters that move and grow within the video, and become entities that can be continuously exposed.
+From the late 1990s to the early 2000s, computer graphics, the Internet, and the digital music production environment rapidly developed. As a result, the characters are not just illustrations, but characters that move and grow within the video, and become entities that can be continuously exposed.
 
 In terms of music production, with the spread of DAWs and sampling technology, music production that is divorced from the physicality of performance has become commonplace. Singing voices can also be edited and processed to make it unclear who they belong to. This was an important change that led to later speech synthesis culture.
 

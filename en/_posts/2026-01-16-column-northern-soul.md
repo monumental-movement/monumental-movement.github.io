@@ -47,7 +47,7 @@ color: #fff;
 
 The background to the birth of Northern Soul was the regional disparities that plagued British society in the 1960s and the transformation of youth culture. In the south, centered on London, mod, psychedelic, and later rock culture became visible, while in the industrial metropolitan areas of the north, there was a different kind of interest in black American music.
 
-In cities such as Manchester, Wigan, Blackpool and Sheffield, a culture of working-class young people flocking to clubs on weekend nights and dancing for long hours took root. There, songs that no one knew but were overwhelmingly danceable were more valuable than the latest hits.
+In cities such as Manchester, Wigan, Blackpool and Sheffield, a culture of working-class young people flocking to clubs on weekend nights and dancing for long hours took hold. There, songs that no one knew but were overwhelmingly danceable were more valuable than the latest hits.
 
 What is important in this context is the physical and psychological distance between northern England and America. Soul music, which originated in the American South and Detroit, resonated more strongly with the sensibilities of young people in the North than in London. This is because themes such as labor, oppression, and solidarity were shared as daily sensibilities.
 
@@ -92,7 +92,7 @@ Northern soul developed not only with music, but also with its own dance style a
 
 To enable this physical expression, emphasis was placed on functionality in clothing. Tight jeans, loose tops, and shoes with slippery soles became the norm, and a culture of expressing individuality with patches and badges took root.
 
-What is important is that these styles were not handed down as trends from above, but were born out of practice on the dance floor.
+What is important is that these styles were not trends handed down from above, but were born out of practice on the dance floor.
 
 > The physical culture of Northern Soul was formed as a result of adaptation to music and space.
 

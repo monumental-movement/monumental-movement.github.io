@@ -112,7 +112,7 @@ These works are a mix of pop songs and classical arias, and are characterized by
 * "Cold Song"
 * "Simple Man"
 
-In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop production.
+In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop direction.
 
 > A unique musical language was created through the coexistence of classical quotations and pop structures.
 
@@ -146,7 +146,7 @@ He prioritized artistic expression over commercial success, an attitude that res
 
 ---
 
-## Detailed analysis of representative works: Voices and Crystals of Deformities
+## Detailed analysis of representative works: Voices and Crystals of Deformity
 
 ### "Total Eclipse"
 
@@ -162,7 +162,7 @@ Both the lyrics and the sound have a somewhat apocalyptic and cold impression, a
 
 The song, an aria based on Henry Purcell"s operatic work, showcases Nomi"s classical roots in its purest form.
 
-His singing is not just a reproduction, but uses an extremely deformed vibrato and visual presentation to amplify the images of "cold" and "death" that the original song has. His movements and facial expressions on stage are more like sculptures or video works than music.
+His singing is not just a reproduction, but uses extremely deformed vibrato and visual presentation to amplify the images of "cold" and "death" that the original song has. His movements and facial expressions on stage are more like sculptures or video works than music.
 
 This song is an iconic performance that proves that classical and new wave can be fused.
 
@@ -259,7 +259,7 @@ At the time, understanding of the disease was extremely limited, and his death w
 
 ---
 
-## Impact and Legacy
+## Impact and legacy
 
 ### Impact on posterity
 

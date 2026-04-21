@@ -184,7 +184,7 @@ In the 1970s, ostracism had a strong presence from outside society. Although the
 
 The sense of alienation that arose on the backside of high economic growth, the opposition to homogenization, and the search for individual expression. All of these are condensed into the existence of ostracism.
 
-They were not at the center of history. However, the sound that was echoing in a place far from the center spoke of another reality of the times.
+They were not at the center of history. However, the sound that was coming from somewhere off center spoke of another reality of the times.
 
 > The sound of ostracism is a record of those who did not fit into society, and that non-conformity was what gave them value.
 

@@ -52,7 +52,7 @@ color: #fff;
 
 ### Distance between cities and individuals
 
-Japan in the late 1970s was at the end of its period of high economic growth, and society's values ​​were beginning to waver. The city continued to expand, but within it individuals felt increasingly isolated and uncomfortable.
+In the late 1970s, Japan was at the end of its period of high economic growth, and society's values ​​were beginning to waver. The city continued to expand, but within it individuals felt increasingly isolated and uncomfortable.
 
 Even in the field of music, there is a movement to distance itself from the popular popular songs and rock. In contrast to the industrial structure centered around large studios and record companies, small-scale, autonomous production began to be explored.
 
@@ -144,7 +144,7 @@ Rather, there is an attitude of relativizing the framework of genre itself.
 
 ### Expansion of personal production
 
-Sudden Cardboard's activities had an important meaning in the later Japanese indie scene. In particular, it was significant in that it showed that recording at home can be an effective means of expression.
+Sudden Cardboard's activities later had an important meaning in the Japanese indie scene. In particular, it was significant in that it showed that recording at home can be an effective means of expression.
 
 Their practice spread the awareness that ""anyone can make music.'' This is not a technical issue, but an awareness issue.
 

@@ -16,7 +16,7 @@ title: '[Column] Poetry of the heartbeat: The world of Iranian genius percussion
 ## 1. Introduction
 
 
-Text: mmr｜Theme: Carefully follow his path from his upbringing to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
+Text: mmr｜Theme: Carefully follow his path from his early life to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
 
 Mohammad Reza Mortazavi is a rare percussionist who fundamentally reinterprets traditional Persian percussion instruments in modern musical expression. His performances are not just a display of rhythmic technique, but are accompanied by a deep spirituality that sometimes induces a trance, inviting the audience on a physical and conscious journey. In this sense, his activities are important in creating new musical horizons that go beyond the binary oppositions of ""traditional music and experimental music," ""East and West," and ""past and future.''
 
@@ -55,7 +55,7 @@ Through a variety of playing techniques, the tambak has a history of establishin
 
 The **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi not only performs with tambacks, but also with duffs, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
-The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of instruments and derive unknown expressions from there.
+The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of musical instruments and derive unknown expressions from there.
 
 ---
 
@@ -172,7 +172,7 @@ A live experience like this is not just something you hear with your ears, but a
 
 Mortazavi has received international recognition for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
 
-In particular, Pitchfork drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic precision and spiritual depth of his more than 30 new techniques.
+Pitchfork in particular drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic precision and spiritual depth of his more than 30 new techniques.
 
 Also, their physicality and spirituality are often emphasized in live reviews. Drummerszone and others have described in detail the striking points, hand parts, and resonance operations he uses, noting that his hands appear as if they were playing a "sound system."
 

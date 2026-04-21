@@ -23,7 +23,7 @@ Text: mmr｜Theme: The rise and re-evaluation of Myspace music culture in the 20
 
 > In the early 2000s, with the emergence of Myspace as a place where the Internet and music intersect, the traditional record-based music distribution changed dramatically.
 
-Myspace was born in America in 2003. It was originally designed as a social networking site for students and creators to interact, but when music functionality was added in 2004, it quickly began to influence the shaping of music culture. Until then, music distribution had relied on limited distribution through record companies. For indie bands and new artists, there were very limited means of disseminating their demo material, and they had to rely on local live performances and friend networks.
+Myspace was born in America in 2003. It was originally designed as a social networking site for students and creators to interact, but when music functionality was added in 2004, it quickly began to influence the formation of music culture. Until then, music distribution had relied on limited distribution through record companies. For indie bands and new artists, there were very limited means of disseminating their demo material, and they had to rely on local live performances and friend networks.
 
 Myspace's music feature revolutionized this situation. The system that allows anyone to upload their own music, publish it on their profile page, and share it with friends and visitors presents a new way to disseminate music that does not require traditional distribution channels. Users can spread music through their "friends" and follow their favorite artists to listen to their latest songs. Furthermore, since the design of the profile page could be freely customized, it became possible to express not only music but also visual expression and individuality.
 
@@ -90,7 +90,7 @@ The user-generated word-of-mouth and comment culture went beyond simply exchangi
 
 > Myspace was not only a platform for music, but also a platform that supported users' self-expression and culture formation.
 
-Myspace was more than just a place to share music; it also served as a canvas for individuals to express their culture and hobbies. The customizability of profile pages was an important element that reflected users' aesthetic sense and tastes. It was possible to select background images, colors, fonts, and decorate using HTML and CSS, allowing artists to present a visual worldview along with music.
+Myspace was more than just a place to share music; it also served as a canvas for individuals to express their culture and hobbies. The customizability of profile pages was an important element that reflected users' aesthetic sense and tastes. It was possible to select background images, colors, fonts, and even decorate using HTML and CSS, allowing artists to present a visual worldview along with music.
 
 Communities rooted in specific genres and regions have also been actively formed. Users who shared the same hobbies and values, such as emo, punk, indie rock, and hip-hop, connected with each other through friend requests and comments, and an online scene was built. This was a global network that transcended geographical constraints, unlike traditional music scenes that were limited to certain regions. Live events and self-produced CDs were also actively announced, and a culture was formed in which online communities were directly connected to offline activities.
 
