@@ -19,7 +19,7 @@ title: '[Kolumne] Didgeridoo-Musik und australische indigene Kultur'
 
 ## Was ist ein Didgeridoo?
 
-Text: mmr｜Thema: Eine vielschichtige Kulturgeschichte der Didgeridoo-Musik, die in indigenen Gesellschaften im Norden Australiens verwurzelt ist, ausgehend von regionalen Unterschieden, sprachlichen Unterschieden und Stammesbeispielen.
+Text: mmr｜Thema: Eine vielschichtige Kulturgeschichte der Didgeridoo-Musik, die in indigenen Gesellschaften im Norden Australiens verwurzelt ist und auf regionalen Unterschieden, sprachlichen Unterschieden und Stammesbeispielen basiert.
 
 
 Das Didgeridoo ist ein traditionelles Blasinstrument, das von den australischen Aborigine-Gemeinschaften hauptsächlich von der Nordküste bis ins Landesinnere verwendet wird. Im Allgemeinen besteht das Material aus einem von Termiten ausgehöhlten Eukalyptusbaumstamm und die Öffnung auf einer Seite ist mit Bienenwachs beschichtet, um das Mundgefühl anzupassen. Obwohl die Struktur äußerst einfach ist, beschränken sich die abgegebenen Klänge nicht auf monophone Borduntöne, sondern bestehen aus komplexen akustischen Schichten, die Obertöne, Rhythmus und Lautäußerungen kombinieren.
@@ -78,7 +78,7 @@ In der westlichen Region gibt es mehrere Namen wie „Mago“, „Panpi“ und �
 
 Das Volk der Yolngu ist eine große sprachliche und kulturelle Gruppe, die im östlichen Arnhemland lebt und für das Studium der Didgeridoo-Kultur von zentraler Bedeutung ist. In ihrer Gesellschaft sind Gesangslinien sowohl an väterliche als auch mütterliche Abstammungslinien gebunden, und die Leistungsqualifikationen werden streng kontrolliert.
 
-Ein Yidaki-Künstler ist nicht nur ein Musiker; Er oder sie muss sich mit Texten, Tanz und Mythologie auskennen. Die Aufführung unterstützt immer das Singen und Tanzen und wird niemals als Soloaufführung behandelt.
+Ein Yidaki-Darsteller ist nicht nur ein Musiker; Er oder sie muss sich mit Texten, Tanz und Mythologie auskennen. Die Aufführung unterstützt immer das Singen und Tanzen und wird niemals als Soloaufführung behandelt.
 
 > In der Yolngu-Gesellschaft wird Musik als Teil des Wissenssystems vererbt.
 
@@ -106,9 +106,9 @@ Es gab auch Altersbeschränkungen und Auftritte mit bestimmten Liedreihen waren 
 
 ## Regionale Unterschiede im Spielstil
 
-Die Zirkularatmung ist eine weit verbreitete Technik, deren Anwendung jedoch je nach Region unterschiedlich ist. Im Osten wird die Stabilität anhaltender Klänge betont, während im Westen intermittierende rhythmische Veränderungen im Vordergrund stehen.
+Die Zirkularatmung ist eine weit verbreitete Technik, ihre Anwendung variiert jedoch je nach Region. Im Osten wird die Stabilität anhaltender Klänge betont, während im Westen intermittierende rhythmische Veränderungen im Vordergrund stehen.
 
-Darüber hinaus gibt es regionale Unterschiede in den Techniken zur Erzeugung simultaner Stimmen, wie etwa dem Hinzufügen eines tiefen Knurrens oder der Betonung von Zungenlauten. Diese sind nicht improvisiert, sondern für jede Liedreihe stilisiert.
+Es gibt auch regionale Unterschiede in den Techniken, die zur Erzeugung simultaner Stimmen verwendet werden, wie etwa das Hinzufügen eines tiefen Knurrens oder das Hervorheben von Zungenlauten. Diese sind nicht improvisiert, sondern für jede Liedreihe stilisiert.
 
 > Der Unterschied in der Technik liegt nicht in der Natur der Improvisation, sondern im Unterschied im Traditionssystem.
 
@@ -212,7 +212,7 @@ Auch die Klangmuster des Didgeridoos werden nicht als bloße Begleitung betracht
 
 ---
 
-## Beziehung zwischen Felskunst, mündlicher Überlieferung und modernen Aufzeichnungen
+## Beziehung zwischen Felskunst, mündlicher Überlieferung und modernen Schallplatten
 
 Moderne Forschung umfasst Querverweise zwischen Felskunst, mündlichen Überlieferungen und Audioaufnahmen ab dem 20. Jahrhundert. Es ist nicht möglich, das Gesamtbild der Kultur zu erfassen, wenn man nur einen von ihnen betrachtet.
 

@@ -82,7 +82,7 @@ Empfohlene Punkte: Ein Meisterwerk, das den zukunftsorientierten und coolen Soun
 ### Modell 500 – Durchfluss
 <a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
-Features: Minimale Trackstruktur mit einfachen Synthesizerlinien und Rhythmus. Es zeichnet sich durch seine räumliche, schwebende Synthesizerarbeit und seinen coolen, mechanischen Rhythmus aus.
+Features: Minimale Trackstruktur mit einfachen Synthesizerlinien und Rhythmus. Es zeichnet sich durch seine räumliche, schwebende Synthesizerarbeit und seinen kühlen, mechanischen Rhythmus aus.
 
 Empfohlener Punkt: Ein Song, der Sie die Ursprünge des Detroit Techno erleben lässt. Indem Sie es zu Beginn eines DJ-Sets hinzufügen, können Sie ein „Detroit-ähnliches kosmisches Gefühl“ auf dem Boden erzeugen. Auch für Anfänger leicht zu hören, perfekt, um das Weltbild des Model 500 zu verstehen.
 
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 Features: Track, der 1992 von Axis unter dem Namen „M“ veröffentlicht wurde. Ein Song, der den frühen Detroit-Minimal repräsentiert.
 
-Empfohlene Punkte: Eine unverzichtbare CD für Sammler, die das Underground-Feeling der frühen 90er Jahre mit einem rauen, aber robusten Sound erleben können.
+Empfohlene Punkte: Eine unverzichtbare CD für Sammler, die das Underground-Feeling der frühen 90er Jahre erleben können, mit einem rauen, aber robusten Spielgefühl.
 
 
 #### Trackliste

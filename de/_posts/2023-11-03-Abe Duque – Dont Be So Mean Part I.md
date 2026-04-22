@@ -22,7 +22,7 @@ Nachdem er unter dem Namen KILRIAN gearbeitet hatte, gründete er 2002 mit DJ Ma
 
 Abe Duque Records geht bewusst den Underground-Weg, indem auf den Scheiben Veröffentlichungsinformationen und Credits eingeprägt sind.
 
-Er arbeitete an Remixen für die Chemical Brothers und Pet Shop Boys und trat 2005 bei WIRE und 2007 bei Asagiri JAM live auf.
+Er arbeitete an Remixen für Bands wie Chemical Brothers und Pet Shop Boys und trat 2005 bei WIRE und 2007 bei Asagiri JAM live auf.
 
 „Don't be So Mean“ wurde 2008 veröffentlicht und ist ein Techno-Track, der auf Tanzflächen auf der ganzen Welt populär wurde.
 

@@ -37,7 +37,7 @@ color: #fff;
 
 
 
-## Kapitel 1: Die Schnittstelle von Daten und Psychologie
+## Kapitel 1: Die Schnittstelle zwischen Daten und Psychologie
 
 Hinter dem Wiederaufleben von Aufzeichnungen stehen **psychologische Wünsche und soziale Reaktionen**.
 Die Bewegung, das physische Musikerlebnis zurückzugewinnen, ist auch eine unbewusste Rebellion der digitalen Generation.
@@ -78,7 +78,7 @@ Der Anstieg der Plattenverkäufe hat nicht nur etwas mit Nostalgie zu tun;
 Es ist ein Symbol für das neue Verbraucherverhalten des „Kauferlebnisses“.
 
 Insbesondere viele der Käufer der Generation Z sind selbst die „digitale Generation“.
-Für sie fungieren Schallplatten als „unbekannte Klassiker“ – ein neues Erzählmittel.
+Schallplatten fungieren für sie als „unbekannte Klassiker“ – ein neues Erzählmittel.
 
 ---
 

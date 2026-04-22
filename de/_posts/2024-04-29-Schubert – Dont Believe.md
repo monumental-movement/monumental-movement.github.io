@@ -10,13 +10,13 @@ tags:
 - Techno
 - Minimal
 - German Techno
-title: Schubert – Glauben Sie nicht dem Chord-Pop-Hype
+title: Schubert – Don't Believe The Chord-Pop Hype
 ---
 
 
-Ein Minimal-Techno-Track des in Leipzig ansässigen deutschen Techno-Produzenten Schubert alias Matthias Kretzschmar.
+ライプツィヒに拠点を置くドイツのテクノプロデューサーSchubertことMatthias Kretzschmarによるミニマル・テクノトラック。
 
-Co-Produzent ist Daniel Stefanik, ein deutscher DJ und Produzent, ebenfalls mit Sitz in Leipzig.
+共同プロデューサーは、同じくライプツィヒに拠点を置くドイツの DJ＆プロデューサーのDaniel Stefanik。
 
 #### Trackliste
 ```md

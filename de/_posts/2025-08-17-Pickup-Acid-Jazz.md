@@ -105,7 +105,7 @@ B2. Joe (Extended Dub)
 
 Zusammenfassung: Ein Future-Jazz-Track der Funk-Soul-Rockband Akimbo mit dem Gitarristen Simon Bartholomew von Brand New Heavies und anderen. Es wurde 1999 auf dem britischen Label Acid Jazz veröffentlicht.
 
-Empfohlene Punkte: Dies ist ein anspruchsvoller Track, der sich wie eine moderne Funk/Jazz-Fusion anfühlt, mit einem „Future Jazz“-Stil, den man als Weiterentwicklung des Acid Jazz bezeichnen kann.
+Empfohlene Punkte: Dies ist ein anspruchsvoller Track, der sich wie eine moderne Funk/Jazz-Fusion anfühlt, mit einem „Future Jazz“-Stil, der als Weiterentwicklung des Acid Jazz bezeichnet werden kann.
 
 #### Trackliste
 ```md

@@ -60,7 +60,7 @@ color: #fff;
 |------|--------------|----------|
 | Du hast es mir klar gemacht | Mein verdammter Valentinstag | Fusion aus Lärm und süßer Melodie |
 | Bald | Mein verdammter Valentinstag | Ein Meisterwerk, das das zukünftige Image von Shoegaze prägte |
-| Loreley | Cocteau-Zwillinge | Pionier verträumter Texturen |
+| Lorelei | Cocteau-Zwillinge | Pionier verträumter Texturen |
 | Genau wie Honig | Die Kette von Jesus und Maria | Der Prototyp süßer Melodie und Brüllen |
 | Primitive Maler | Filz | Eine Fusion aus britischem Indie und Ästhetik |
 | Kondensstreifen | Fahrt | Majestätische Streicher und Gebrüll |
@@ -104,7 +104,7 @@ color: #fff;
 
 ---
 
-## 2000er – Revival-Periode
+## 2000er Jahre – Revival-Periode
 ### Historischer Hintergrund
 - Fusion mit Post-Rock-Bands wie Mogwai und Sigur Rós.
 - Eine neue Generation des Shoegaze-Revivals schreitet hauptsächlich in Amerika voran.

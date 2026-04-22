@@ -19,7 +19,7 @@ title: '[Kolumne] Warum Breakcore plötzlich zurück ist – Der Grund, warum ch
 
 ## Was ist Breakcore?
 
-Text: mmr｜Thema: Verstehen, warum sich Breakcore, ein Musikgenre aus Hochgeschwindigkeits-Breakbeats und digitalem Chaos, dank der modernen Internet-Generation erneut explosionsartig ausbreitet, aus Geschichte und Kultur.
+Text: mmr｜Thema: Aus Geschichte und Kultur entschlüsseln, warum sich Breakcore, ein Musikgenre aus Hochgeschwindigkeits-Breakbeats und digitalem Chaos, dank der modernen Internet-Generation erneut explosionsartig verbreitet.
 
 
 In der Geschichte der elektronischen Musik tauchen in jeder Epoche „Genres auf, die den gesunden Menschenverstand stören“.
@@ -36,7 +36,7 @@ Breakcore ist Musik, die dadurch entsteht, dass man die Hochgeschwindigkeits-Bre
 Die Funktionen lassen sich in den folgenden drei Hauptpunkten zusammenfassen.
 
 - superschneller Breakbeat
-- Genrebrechendes Sampling
+- Genre-brechendes Sampling
 - absichtliches Chaos
 
 Das Tempo überschreitet oft 160-220 BPM und der Beat ist in Sekunden zerhackt.
@@ -76,7 +76,7 @@ Jungle und Drum and Bass entwickelten sich damals in der Clubszene rasant.
 
 Diese Genres entstanden durch die Dekonstruktion von Drumloops, die als „Amen Breaks“ bekannt sind.
 
-Doch Mitte der 1990er Jahre begannen einige Künstler, den Beat noch weiter auszudehnen.
+Doch Mitte der 1990er Jahre begannen einige Künstler, den Beat noch weiter zu treiben.
 
 Die folgende Kultur hat dies beeinflusst.
 
@@ -175,7 +175,7 @@ Dafür gibt es mehrere Gründe.
 
 Da ist zunächst der weltweite EDM-Boom.
 
-Die elektronische Musik entwickelte sich in den 2010er Jahren zu einem größeren Festivalsound.
+In den 2010er Jahren verlagerte sich die elektronische Musik hin zu einem größeren Festivalsound.
 
 Seine Eigenschaften waren wie folgt.
 
@@ -363,7 +363,7 @@ Es gibt fünf Hauptgründe:
 
 4. Einfache DIY-Produktion
 
-5. Gemischte Genrekultur
+5. Genre-Mischkultur
 
 Mit anderen Worten, Breakcore ist
 
@@ -392,7 +392,7 @@ Es ist keine Musik aus einer großen Industrie.
 
 eher
 
-„Kulturelle Kluft“
+„Kulturlücke“
 
 Es ist Musik, die daraus entsteht.
 

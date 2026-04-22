@@ -23,7 +23,7 @@ Text: mmr｜Thema: Symbolische Musik der „Befreiung und Solidarität“, die s
 
 ### Geburt von Hi-NRG und der schwulen Clubkultur
 
-Von den späten 1970er bis 1980er Jahren entstand Hi-NRG (High Energy) als eine elektronische und rasante Tanzmusik, die von der Disco abgeleitet war.
+Von den späten 1970er bis 1980er Jahren entwickelte sich Hi-NRG (High Energy) zu einer elektronischen und rasanten Tanzmusik, die aus der Disco abgeleitet war.
 Der Sound zeichnete sich durch schnelle Tempi (120–140 BPM), Synthesizer-Riffs und dramatischen Frauengesang aus und wirkte kathartischer und energiegeladener als traditioneller Disco-Sound.
 
 Hi-NRG hatte eine besonders große Fangemeinde in Schwulenclubs. Nach den Stonewall-Unruhen in den 1970er Jahren suchte die LGBTQ-Community nach einem Platz für ihren Ausdruck und ihre Identität in der Clubszene, und Hi-NRG fungierte als ihre „Musik der Befreiung“.
@@ -70,11 +70,11 @@ Ein Sänger, der offen schwul war. Ihr Signature-Song „You Make Me Feel (Might
 
 **Hazell Dean**
 
-Eine britische Hi-NRG-Sängerin, die in der Clubszene so großen Anklang fand, dass sie als „Gay Queen“ bezeichnet wurde. Viele ihrer Lieder sprechen für die Liebe und das Verlangen von LGBTQ.
+Eine britische Hi-NRG-Sängerin, die in der Clubszene so großen Anklang fand, dass sie als „Gay Queen“ bezeichnet wurde. Viele ihrer Lieder sprechen für LGBTQ-Liebe und -Begierde.
 
 **Göttlich**
 
-Während sie als Drag Queen aktiv war, erlangte sie mit Hi-NRG weltweite Aufmerksamkeit. Sie zeigten mutig sexuellen Ausdruck und integrierten Musik und Geschlechterpolitik.
+Während sie als Drag Queen aktiv war, erlangte sie mit Hi-NRG weltweite Aufmerksamkeit. Sie zeigten mutig ihren sexuellen Ausdruck und integrierten Musik und Geschlechterpolitik.
 
 **Evelyn Thomas**
 Eine Diva, die mit ihrem Signature-Song „High Energy“ das Genre definierte. Es erfreute sich in Schwulenclubs explosionsartiger Beliebtheit und verbreitete Hi-NRG weltweit.

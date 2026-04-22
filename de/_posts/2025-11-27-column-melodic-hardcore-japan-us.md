@@ -52,7 +52,7 @@ color: #fff;
 ### 2.1 Frühe Pioniere
 
 #### Descendents (gegründet 1978)
-- 1979 erscheint „Milo Goes to College“.
+- 1979 erschien „Milo Goes to College“.
 - Bauen Sie die Grundlage für Pop und melodischen Hardcore
 - Features: kurze Lieder, eingängige Refrains, persönliche Texte
 - Repräsentative Lieder: „Myage“, „Suburban Home“
@@ -65,7 +65,7 @@ color: #fff;
 
 #### NOFX (gegründet 1983)
 -Kommerzieller Erfolg mit Ribbed im Jahr 1991
-- Anführer der Melocore-Szene der 90er Jahre, basierend auf Fat Wreck Chords
+- Anführer der Melocore-Szene der 90er basierend auf Fat Wreck Chords
 - Features: Text mit Humor und Gesellschaftssatire
 - Repräsentative Lieder: „Linoleum“, „Bob“
 

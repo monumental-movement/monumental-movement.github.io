@@ -21,7 +21,7 @@ title: '[Kolumne] Afrobeat / Afro-Fusion – Strukturelle Veränderungen und glo
 Text: mmr｜Thema: Die Tatsache, dass sich Afrobeat rund um die Live-Kultur Nigerias entwickelte, wie Afro-Fusion in einer grenzüberschreitenden Produktions- und Vertriebsumgebung eingesetzt wurde und die Geschichte der Musikindustrie und der Diasporabewegungen.
 
 
-Afrobeat und Afro-Fusion sind Musikkulturen, die ihren Ursprung in Westafrika, insbesondere Nigeria und Ghana, haben. Obwohl die beiden oft verwechselt werden, haben sie unterschiedliche historische Hintergründe, musikalische Strukturen und soziale Rollen. Dieser Artikel gliedert die Geschichte von der Etablierung des Afrobeat bis zur Entwicklung der Afro-Fusion ausschließlich auf der Grundlage nachprüfbarer Fakten und beschreibt umfassend Veränderungen in den musikalischen Merkmalen, Produktionstechniken, dem sozialen Kontext und der internationalen Rezeption.
+Afrobeat und Afro-Fusion sind Musikkulturen, die ihren Ursprung in Westafrika haben, insbesondere in Nigeria und Ghana. Obwohl die beiden oft verwechselt werden, haben sie unterschiedliche historische Hintergründe, musikalische Strukturen und soziale Rollen. Dieser Artikel gliedert die Geschichte von der Gründung des Afrobeat bis zur Entwicklung der Afro-Fusion ausschließlich auf der Grundlage nachprüfbarer Fakten und beschreibt umfassend Veränderungen in den musikalischen Merkmalen, Produktionstechniken, dem sozialen Kontext und der internationalen Rezeption.
 
 > „Dieser Artikel vermeidet eine Bewertung und subjektive Interpretation und besteht nur aus Informationen, die auf historischen Materialien, Zeugenaussagen und aufgezeichneten historischen Fakten basieren.“
 
@@ -69,7 +69,7 @@ Seine Bands Africa 70 und später Egypt 80 etablierten eine Form, die sich von d
 
 Eine typische Afrobeat-Komposition besteht aus einem Schlagzeug, mehreren Schlaginstrumenten, E-Bass, Gitarre, Bläsern, Keyboards und Gesang. Obwohl der Rhythmus auf dem 4/4-Takt basiert, spielt jedes Instrument ein unabhängiges, sich wiederholendes Muster, wodurch insgesamt ein komplexer Polyrhythmus entsteht.
 
-Songs dauern oft mehr als 10 Minuten und bestehen aus einem Intro, einer Groove-Entwicklung, einem improvisierten Solo und einem Gesangsteil. Die Texte wurden in Englisch, Pidgin-Englisch und Yoruba verfasst und kritisierten oft die politische Situation, Ungerechtigkeit und Machtstruktur in der nigerianischen Gesellschaft.
+Songs dauern oft mehr als 10 Minuten und bestehen aus einem Intro, einer Groove-Entwicklung, einem improvisierten Solo und einem Gesangsteil. Die Texte wurden in Englisch, Pidgin-Englisch und Yoruba verfasst und kritisierten häufig die politische Situation, Ungerechtigkeit und Machtstruktur in der nigerianischen Gesellschaft.
 
 > „Der politische Charakter der Texte führte zu Spannungen mit der damaligen nigerianischen Regierung, die zu mehreren Razzien und Verhaftungen führten.“
 
@@ -93,7 +93,7 @@ Afrobeat beeinflusste auch Nachbarländer wie Ghana, Benin und Togo. Insbesonder
 
 ### Fela Kutis spätere Jahre und Nachfolge
 
-Während Felas internationales Ansehen Ende der 1980er Jahre zunahm, blieb die politische Situation in Nigeria instabil. Nach Felas Tod im Jahr 1997 wurde seine Musik von seinen Söhnen Femi Kuti und Sheun Kuti weitergeführt. Sie behielten die grundlegende Afrobeat-Struktur bei und integrierten gleichzeitig moderne Aufnahmetechniken und ein internationales Produktionsumfeld.
+Während Felas internationales Ansehen Ende der 1980er Jahre zunahm, blieb die politische Lage in Nigeria instabil. Nach Felas Tod im Jahr 1997 wurde seine Musik von seinen Söhnen Femi Kuti und Sheun Kuti weitergeführt. Sie behielten die grundlegende Afrobeat-Struktur bei und integrierten gleichzeitig moderne Aufnahmetechniken und ein internationales Produktionsumfeld.
 
 ## Neubewertung und Internationalisierung
 

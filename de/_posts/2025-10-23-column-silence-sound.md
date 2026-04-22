@@ -98,7 +98,7 @@ Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern 
 Der Akt des Zuhörens ist nicht nur eine Sensation.
 Es ist auch eine ethische Haltung, anderen gegenüber offen zu sein.
 
-In der Musiktherapie wird das „Hören von Klängen“ häufig mit einem Training zum „Akzeptieren anderer“ kombiniert.
+Im Bereich der Musiktherapie wird das „Hören von Klängen“ häufig mit einem Training zum „Akzeptieren anderer“ kombiniert.
 Auch der Soziologe James Calhoun weist darauf hin, dass „die Stille im öffentlichen Raum verschwindet.“
 Ständig Hintergrundmusik abspielen, ständiger Informationsfluss.
 Haben wir Angst vor der „Zeit ohne Ton“?
@@ -157,7 +157,7 @@ Musik verbindet uns wieder mit der Welt.
 | ----- | -------------------- | ------------- |
 | 1952 | „4:33“ Premiere | John Cage |
 | 1967 | „Soundwalk“-Konzept vorgeschlagen | Max Newhouse |
-| 1977 | „Tuning of the World“ Verlag | R. Marie Schäfer |
+| 1977 | „Tuning of the World“ Verlag | R. Marie Schaefer |
 | 1982 | Der Aufstieg der Ambient-Musik | Brian Eno |
 | 2000er | Ausbau der Field-Recording-Kultur | Chris Watson, Ryuichi Sakamoto |
 | 2020er | „Stille“ mit KI-generierter Musik neu bewerten | Klangkünstler aus verschiedenen Ländern |

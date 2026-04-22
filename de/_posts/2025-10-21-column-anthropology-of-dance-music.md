@@ -50,7 +50,7 @@ color: #fff;
 
 Aus archäologischer Sicht waren die frühesten „Musikinstrumente“ Schlaginstrumente.
 Es ist ein Stein oder Baum, der zum Jagen oder Beten geschlagen wird.
-Einen „Beat“ zu kreieren war auch ein Akt der Schaffung einer Gemeinschaft.
+Das Erschaffen eines „Beats“ war auch ein Akt der Schaffung einer Gemeinschaft.
 
 In vielen Stammesgesellschaften in Afrika und Ozeanien
 Die Trommel war sowohl Mittel zur Informationsübermittlung als auch zentraler Bestandteil von Ritualen.
@@ -60,7 +60,7 @@ Der Rhythmus des Herzschlags ist eine Metapher für das Leben,
 ### 2. Tanz, der den „Takt“ der Community trifft
 
 Tanzen wird oft als „nonverbale Kommunikation“ bezeichnet.
-Ihr Wesen liegt jedoch vielmehr in der Neubestätigung der Gesellschaft durch die Resonanz des Körpers.
+Sein Wesen liegt jedoch eher in der Neubestätigung der Gesellschaft durch die Resonanz des Körpers.
 Festivaltänze und religiöse Trances sind
 Es war ein Gerät, das das „Selbst“ in einem rhythmischen Fluss zum Schmelzen brachte, der über das Individuum hinausging.
 
@@ -150,7 +150,7 @@ flowchart TB
 
 ---
 
-## Kapitel 4: Trance und Ekstase – Tanz als Bewusstseinstransformation
+## Kapitel 4: Trance und Ekstase – Tanz als Transformation des Bewusstseins
 
 ### 1. Uralte Schicht im Trancezustand
 

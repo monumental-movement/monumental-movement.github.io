@@ -74,7 +74,7 @@ Hier analysieren wir die Texte jedes Liedes aus gesellschaftskritischer Sicht un
 
 This Heat (1976–82) war eine experimentelle Rockband aus London, bestehend aus Charles Hayward, Charles Burrell und Gareth Williams. Cunningham war maßgeblich an der Aufnahme und Bearbeitung beteiligt und leistete technische Unterstützung bei der Einführung von Bandschleifen, Feedback und akustischen Collagen.
 
-Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio, das aus einem Kühllager umgebaut wurde) wurde für Cunningham zu einem Ort, an dem er seine technischen Fähigkeiten unter Beweis stellen konnte. Durch das Schneiden und Zusammenfügen von Bändern, das Rückwärtsabspielen und das Zerlegen der Aufnahme in 24 Spuren entstanden Klänge, die später direkt mit den Post-Rock- und Noise-Szenen verbunden werden sollten.
+Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio, das aus einem Kühllager umgebaut wurde) wurde für Cunningham zu einem Ort, an dem er seine technischen Fähigkeiten unter Beweis stellen konnte. Durch das Schneiden und Zusammenfügen von Bändern, das Rückwärtsabspielen und das Zerlegen der Aufnahme in 24 Spuren entstanden Klänge, die später direkt mit der Post-Rock- und Noise-Szene verbunden werden sollten.
 
 ---
 
@@ -83,7 +83,7 @@ Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio
 #### „Diese Hitze“ (1979)
 
 - **„Not Waving“**: Der Titel erinnert an ein Gedicht von Stevie Smith. Symbol für individuelle Einsamkeit und nationale Entfremdung.
-- **„24 Track Loop“**: Kein Liedtext, sondern drückt die „mechanische Wiederholung des Kapitalismus“ mit Ton aus. Die Endlosschleife ist eine Metapher für den „Stillstand der Zeit“.
+- **„24 Track Loop“**: Kein Liedtext, drückt aber die „mechanische Wiederholung des Kapitalismus“ mit Ton aus. Die Endlosschleife ist eine Metapher für das „Zeitalter der Stagnation“.
 - **„Horizontales Halten“**: Aus der TV-Terminologie zitiert. Eine Satire auf „Informationsmanipulation“ und „Massenmedienkontrolle“ während des Kalten Krieges.
 
 ---
@@ -94,7 +94,7 @@ Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio
 
 ---
 
-#### „Deceit“ (1981)
+#### „Täuschung“ (1981)
 
 Das beste Werk der Band. Das ganze Thema ist **Angst und Lügen (Täuschung) über den Atomkrieg während des Kalten Krieges**.
 - **„Schlaf“**: Der wiegenliedartige Text, der „Schlaf in Frieden“ flüstert, ist eigentlich ironisch, denn „die Welt bricht zusammen, während du schläfst.“
@@ -126,7 +126,7 @@ Der Text war klarer als in der Studioversion und der soziale Kommentar wurde üb
 ---
 
 #### Analoger EQ und Outboard
-- Verwendet einen EQ im Neve- und Trident-Stil.
+- Verwendet EQ im Neve- und Trident-Stil.
 - Der lebhafte Auftritt der Band wird gezielt „verzerrt“ und „räumlich arrangiert“, um seinen experimentellen Charakter zu betonen.
 - Es wurde verwendet, um ein „akustisches Unbehagen“ zu erzeugen, und nicht für eine Standardkorrektur.
 
@@ -176,7 +176,7 @@ flowchart TD
 ### Abschluss
 
 - **Lyrische Interpretation**: This Heat kritisiert den Kalten Krieg sowohl textlich als auch klanglich.
-- **Cunninghams Aufnahmephilosophie**: Verwendet Geräte wie Revox, Studer und EQ als „politische metaphorische Geräte“.
+- **Cunninghams Aufnahmephilosophie**: Verwendet Geräte wie Revox, Studer und EQ als „politisches metaphorisches Gerät“.
 - **Historische Bedeutung experimenteller Musik**: Über Post-Punk hinaus ist sie direkt mit den Grundlagen der modernen Sampling-/DAW-Kultur und sogar der KI-Musikproduktion verbunden.
 
 Ihre Musik ist immer noch eine Werkgruppe, die als „Aufnahme = Kritik = Experiment“ neu bewertet werden sollte.

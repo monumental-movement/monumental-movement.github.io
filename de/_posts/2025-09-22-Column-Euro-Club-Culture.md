@@ -21,7 +21,7 @@ Text: mmr｜Genre: Musikkulturstudie｜Thema: Die Schnittstelle zwischen dem Eur
 
 Euro-Musik, repräsentiert durch „Eurobeat“ und „Eurodance“, ist ein Genre, das in den 1990er Jahren die Clubs und Charts dominierte, aber oft als „Unterhaltungsmusik“ missverstanden wird. In Wirklichkeit handelte es sich jedoch um eine hybride Existenz, die an der Schnittstelle von Massenmedien mit Schwerpunkt auf Radio und Underground-Rave-Kultur entstand.
 
-Dieser Artikel untersucht die Rolle, die Euromusic zwischen der Clubszene und der Popmusik in zwei Kontexten spielte: Radio und Rave.
+Dieser Artikel untersucht die Rolle, die Euromusic zwischen der Clubszene und der Popmusik aus zwei Kontexten spielte: Radio und Rave.
 
 ---
 
@@ -109,7 +109,7 @@ Obwohl es sich um ein kommerzielles Paket handelt, hat die Songauswahl Club-Flai
 
 **● Brücke von Euro zu Trance**
 
-Eurotrance, eine Verbindung zwischen Eurodance und Trance, entstand Ende der 90er Jahre.
+Eurotrance, eine Verbindung zwischen Euro-Tanz und Trance, erschien Ende der 90er Jahre.
 
 ATB, Fragma, Darude und andere präsentieren einen Sound, der sich zwischen Pop und Club bewegt
 
@@ -132,7 +132,7 @@ Nostalgischer und dennoch funktionaler Sound für Open-Air- und Festivalszenen
 ### Fazit: Euro lebte an der Grenze zwischen „Pop“ und „Club“
 
 Euro-Musik war nicht nur „lässige Chartmusik“ oder „harte Club-Tracks“.
-Ihr wahrer Wert liegt in der Tatsache, dass es Musik war, die ein Gleichgewicht zwischen Medien und Untergrund, Melodie und Rhythmus, System und Körperlichkeit aufrechterhielt.
+Ihr wahrer Wert liegt in der Musik, die ein Gleichgewicht zwischen Medien und Underground, Melodie und Rhythmus, System und Körperlichkeit aufrechterhält.
 
 Hören Sie es im Radio und tanzen Sie im Club.
 Das war vielleicht die „richtigste“ Art, den Euro in den 1990er Jahren auszugeben.

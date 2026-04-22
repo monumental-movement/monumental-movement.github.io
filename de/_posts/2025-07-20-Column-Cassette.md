@@ -220,7 +220,7 @@ Kassetten sind ein sowohl praktisches als auch analoges Format, das in der Gesch
 
 Mit der Verbesserung der Materialien und der Entwicklung der Aufnahmetechnik hat sich auch die Klangqualität weiterentwickelt und jeder Typ weist unterschiedliche akustische Eigenschaften auf.
 
-Obwohl es in Bezug auf Frequenzband und Signal-Rausch-Verhältnis nicht so gut wie das digitale Gerät ist, erfreut es sich aufgrund seines warmen Klangs und seiner einfachen Bedienung nach wie vor großer Beliebtheit.
+Obwohl es in Bezug auf Frequenzband und Signal-Rausch-Verhältnis nicht so gut ist wie das digitale Gerät, erfreut es sich aufgrund seines warmen Klangs und seiner einfachen Bedienung nach wie vor großer Beliebtheit.
 
 <hr>
 

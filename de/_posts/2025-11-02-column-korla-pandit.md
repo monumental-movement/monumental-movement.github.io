@@ -11,23 +11,23 @@ tags:
 - History
 - Lounge
 - 70s
-title: '[Kolumne] Korla Pandit und die Vision von Exotica: Träume und Masken des Nachkriegsamerikas'
+title: 【コラム】 コルラ・パンディットとエキゾチカの幻影：ポスト戦後アメリカの夢と仮面
 ---
 
 
-## Prolog: Was war Exotica?
+## 序章：エキゾチカとは何だったのか
 
 
-Text: mmr｜Thema: Erforschung der Rolle der Korla Pandits bei der Schaffung von Exotika und der Ästhetik des Orientalismus in der amerikanischen Nachkriegskultur
+文：mmr｜テーマ：エキゾチカの創世期におけるコルラ・パンディットの役割と、戦後アメリカ文化におけるオリエンタリズムの美学を探る
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
 
 ---
 
-Amerika in den 1950er Jahren.
-Eine Musik namens „Exotica“ erschien zu einer Zeit, als Fernsehen in den Haushalten allgegenwärtig war und Kalter Krieg und Wohlstand nebeneinander existierten.
-Es war ein klanglicher Ausdruck des Orientalismus, der „fremde Länder“ wie den Südpazifik, Asien und Afrika als imaginäre Paradiese darstellte.
+1950年代のアメリカ。
+テレビが家庭に普及し、冷戦と繁栄が同居する時代、**エキゾチカ（Exotica）**と呼ばれる音楽が登場した。  
+それは、南太平洋・アジア・アフリカなど「異国」を想像上の楽園として描き出す、**オリエンタリズムの音響的表現**だった。
 
 Tiki-Kultur, hawaiianische Bars, Rumba-Rhythmen und exotische Melodien.
 Im Mittelpunkt stand die geheimnisvolle Keyboarderin „Korla Pandit“.
@@ -124,8 +124,8 @@ Referenz/Quelle:
 
 ---
 
-Die Korla Pandit Show, die ab 1951 ausgestrahlt wurde, war eine der ersten amerikanischen Musikfernsehshows.
-Die Inszenierung, die nur aus Bild und Ton ohne gesprochene Worte aufgebaut war, bot den weißen Zuschauern zu dieser Zeit ein „sicheres fremdes Land“.
+Die Korla Pandit Show, die ab 1951 ausgestrahlt wurde, war eine der ersten Musikfernsehshows Amerikas.
+Die Inszenierung, die nur aus Bild und Ton ohne gesprochene Worte aufgebaut war, bot den weißen Zuschauern damals ein „sicheres fremdes Land“.
 
 Pundit hatte mehr als 1.000 Sendungen, was ihr mehr Fernsehpräsenz verschaffte als ihrem Zeitgenossen Nat King Cole.
 Allerdings konnte er nur dadurch Erfolg haben, dass er seine Identität als schwarzer Künstler verbarg;

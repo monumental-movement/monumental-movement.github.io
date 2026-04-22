@@ -21,7 +21,7 @@ title: '[Kolumne] Von den Ursprüngen des NY House bis zur Gegenwart ─ Geschic
 Text: mmr｜Thema: Die Entwicklung der gefühlvollen New Yorker House-Stimmen und urbanen Grooves
 
 
-New York House entstand aus den Echos der Disco und der Aufregung der Underground-Clubkultur und entwickelte sich schließlich zu einer globalen Hauptstadt der Tanzmusik. In diesem Artikel werden wir die Geschichte der Musik von ihren Anfängen bis zur Gegenwart Jahr für Jahr nachzeichnen, einschließlich historischer Hintergründe, repräsentativer Meisterwerke und Veränderungen in der Ausstattung.
+New York House entstand aus den Echos der Disco und der Aufregung der Underground-Clubkultur und entwickelte sich schließlich zu einer globalen Hauptstadt der Tanzmusik. In diesem Artikel werden wir die Geschichte der Musik von ihren Anfängen bis heute Jahr für Jahr nachzeichnen, einschließlich historischer Hintergründe, repräsentativer Meisterwerke und Veränderungen in der Ausstattung.
 
 ---
 

@@ -11,16 +11,16 @@ tags:
 - Tech House
 - House
 - 00s
-title: Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Teil 2)
+title: Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Part 2)
 ---
 
 
-Steve Barnes, auch bekannt als Process, ist ein DJ aus England.
-Auch als kosmisches Sandwich bekannt.
+ProcessことSteve Barnesはイギリス出身のDJ。
+Cosmic Sandwich名義でもよく知られている。
 
-Kosuke Anamizu ist ein Sounddesigner und Komponist elektronischer Musik aus Japan.
+Kosuke Anamizuは、日本出身のエレクトロニックミュージックサウンドデザイナー＆コンポーザー。
 
-Bei dieser Platte handelt es sich um eine Zusammenstellung, die 2004 vom renommierten deutschen Label Traum Schallplatten veröffentlicht wurde.
+このレコードは2004年にドイツの名門レーベルTraum Schallplatten(トラウム・シャルプラッテン)からリリースされたコンピレーション。
 
 #### Trackliste
 ```md

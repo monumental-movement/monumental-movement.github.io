@@ -93,7 +93,7 @@ Seine Lieder unterwandern oft die normale 16-Takt-Struktur.
 Der Fluss bricht plötzlich ab und kommt wieder zurück. Denn „**emotionaler Rhythmus**“ hatte oberste Priorität.
 
 ### 3. Leistung
-Bei Live-Auftritten war es nicht ungewöhnlich, dass die Zuschauer während DMXs Gebeten weinten.
+Bei Live-Auftritten war es nicht ungewöhnlich, dass Zuschauer während DMXs Gebeten weinten.
 Als er schrie: „**Herr, gib mir ein Zeichen!**“, klang er eher wie ein Prediger als wie ein Rapper.
 
 ---
@@ -193,7 +193,7 @@ Diese Worte dienen vielen jungen Menschen auch heute noch als Mantra der Selbstv
 ## X. Fazit: Mythische Struktur namens DMX
 
 Die Geschichte von DMX ist mehr als nur eine Hip-Hop-Biografie.
-Es war ein **modernes religiöses Drama** und ein Mythos über die Koexistenz von **Gewalt und Gebet**.
+Es war ein **modernes religiöses Drama** und ein Mythos, der die **Koexistenz von Gewalt und Gebet** darstellte.
 
 *Sein „Gebrüll“ ist keine Wut, sondern ein Schrei, um seine Existenz zu beweisen**
 *Sein „Gebet“ ist keine Erlösung, sondern **Fortsetzung des Kampfes**
@@ -204,7 +204,7 @@ Aber sein Geist schreit immer noch „Arf! Arf!“** aus den Lautsprechern vor d
 
 ---
 
-## DMX-Chronologie (Hauptaktivitäten und Ereignisse)
+## DMX-Zeitleiste (Hauptaktivitäten und Ereignisse)
 
 <div class="mermaid">
 
@@ -257,7 +257,7 @@ D -->|静寂| F[祈りの独白]
 
 ## Letztes Kapitel: Bellendes Gebet
 
-Die Musik von DMX ist kein „Zeugnis der Straße“, sondern eine „Aufnahme der Seele“.
+Die Musik von DMX ist kein „Straßenzeugnis“, sondern eine „Platte der Seele“.
 Dieser Schrei ist die wahre Wahrheit von Menschen, die ihr Leben lang an ihrem Glauben festgehalten haben, ohne der Gewalt nachzugeben.
 
 > „Wenn du real bist, wirst du es spüren.“ ― DMX

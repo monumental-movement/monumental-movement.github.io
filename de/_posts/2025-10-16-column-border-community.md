@@ -50,7 +50,7 @@ color: #fff;
 Im Jahr 2001 machte Holden mit dem auf Silver Planet veröffentlichten Song „A Break in the Clouds“ auf sich aufmerksam.
 Ihr Sound sprengte damals die Grenzen des Progressive House. Melancholisch und doch architektonisch. Die schwebenden Melodien machten Clubabende zu einem poetischen Erlebnis.
 
-Beginnend mit diesem Song schafft er einen Klangraum, der weder Trance noch House ist.
+Beginnend mit diesem Song entwickelt er einen Sound, der weder Trance noch House ist.
 Dieser Fluss kristallisierte sich später in der Form der Grenzgemeinschaft heraus.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -139,6 +139,14 @@ Die Reise des Klangs, der Grenzen überschreitet, ist noch nicht zu Ende.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8vGUwZvnir0?si=B8BrhT9WFmaYUSIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aU2hwliaQWo?si=jrHS_UZ5wN9coD6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

@@ -47,7 +47,7 @@ color: #fff;
 ### 1-1 „Hamburger = Glück“ singen: Früher Werbespot von McDonald’s
 „You Deserve a Break Today“ wurde 1971 von der amerikanischen Werbeagentur **DDB (Doyle Dane Bernbach)** produziert.
 Komponiert von Sid Woloshin, Text von Dan Kallis.
-Es hatte eine erhebende Atmosphäre, die einem Musical ähnelte, und symbolisierte McDonald's als „Heilung“ in einer Konsumgesellschaft.
+Es hatte eine erhebende Wirkung, die einem Musical ähnelte, und symbolisierte McDonald's als „Heilung“ in einer Konsumgesellschaft.
 
 > ♪ „Du hast dir heute eine Pause verdient, also steh auf und geh weg – zu McDonald’s!“
 
@@ -109,7 +109,7 @@ Frühe Einführung des Konzepts „Musik unterstützt den Geschmack“.
 - McDonald's: Universeller pentatonischer Jingle (betreut von Pharrell und Hiroshi Kawabe)
 - Ändern Sie Tempo/Tonartanordnung für jedes Land
 
-### 5-2　Trend der Zusammenarbeit zwischen SNS und Künstlern
+### 5-2 Trends in der Zusammenarbeit zwischen SNS und Künstlern
 
 | Jahr | Marke | Künstler | Songtitel/-eigenschaften |
 |----|------------|----------------|-------------|
@@ -122,7 +122,7 @@ Frühe Einführung des Konzepts „Musik unterstützt den Geschmack“.
 ## Kapitel 6 Psychologie des Sound Branding: Fusion von Geschmack und Gehör
 - Hohe Töne betonen die Süße
 - Niedriger Bereich betont die Bitterkeit
-- Erhöhte Fluktuationsrate um 15 % bei einer Filial-Hintergrundmusik von 120 bpm
+- Erhöhte Fluktuationsrate um 15 % bei einer Laden-Hintergrundmusik von 120 bpm
 
 ---
 

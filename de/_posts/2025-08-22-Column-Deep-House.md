@@ -49,7 +49,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musikalische Features
 
-**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠tragisch“.
+**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠Tragik“.
 
 **Beat**: Der Kick hat einen runden und tiefen Nachgeschmack. Die Hi-Hat ist ein Shuffle zu einem leichten Swing. Die Texturen 909/707/727 und 808 sind Standard.
 
@@ -93,7 +93,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Chicago Deep**: Schwerer Kick + Soul-Reverb. Beispiel: Mr. Fingers, Ron Trent.
 
-**Jersey-/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
+**Jersey/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
 
 **Detroit Deep**: Lo-Fi-Textur mit Jazz-Soul-Feeling. Beispiel: Moodymann, Theo Parrish (an der Grenze).
 
@@ -155,7 +155,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Früher Höhepunkt**: Ron Trent/Chez Damiers treibende Kraft
 
-**Plateau**: Verfeinerung von Jimpster ~ Freerange
+**Plateau**: Verfeinerung von Jimpster zu Freerange
 
 **Farbwechsel**: Henrik Schwarzs Live-Feeling
 
@@ -183,7 +183,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ・Larry Heard präsentiert Mr. White – „The Sun Can’t Compare“
 
-・Kerri Chandler – „Atmosphere“
+・Kerri Chandler – „Atmosphäre“
 
 ・Ron Trent – ​​„Altered States“
 

@@ -9,7 +9,7 @@ permalink: /de/stardust-music-sounds-better-with-you/
 tags:
 - House
 - French House
-title: Stardust – Musik klingt bei dir besser
+title: Stardust – Mit dir klingt Musik besser
 ---
 
 

@@ -66,7 +66,7 @@ Sitar, Sarod und Bansuri, die Hauptinstrumente der Hindustani-Musik, legen alle 
 
 Aus diesem Grund galt die Santour lange Zeit als „unvollendetes klassisches Instrument“. Diese Einschränkung wurde jedoch zur Grundlage für spätere einzigartige Interpretationen.
 
-> Einschränkungen waren kein Nachteil, sondern eine Voraussetzung für die Schaffung neuer musikalischer Idiome.
+> Einschränkungen waren kein Nachteil, sondern eine Voraussetzung für die Schaffung neuer musikalischer Ausdrucksformen.
 
 ---
 
@@ -74,7 +74,7 @@ Aus diesem Grund galt die Santour lange Zeit als „unvollendetes klassisches In
 
 Pandit Shivkumar Sharma war der Mann, der die Santoor im späten 20. Jahrhundert als offizielles Soloinstrument in der klassischen indischen Musik förderte. Er verbesserte die Saitenstruktur des Santoor und realisierte das für die Raga-Darbietung notwendige Tonleitersystem.
 
-Darüber hinaus erlangte der Santur seinen Status als melodisches Instrument, indem er die Körnigkeit des durch das Anschlagen der Saiten erzeugten Klangs nutzte und eine Spielmethode etablierte, die Gamaka und Meando simuliert.
+Darüber hinaus erlangte der Santur seinen Status als Melodieinstrument, indem er sich die Körnigkeit des Klangs zunutze machte, der durch das Anschlagen der Saiten erzeugt wurde, und eine Spielmethode etablierte, die Gamaka und Meando simuliert.
 
 > Sharmas Leistung bestand nicht darin, das Instrument zu verändern, sondern darin, die Art und Weise zu verändern, wie das Instrument gehört wurde.
 
@@ -82,7 +82,7 @@ Darüber hinaus erlangte der Santur seinen Status als melodisches Instrument, in
 
 ## Santoor in Raga und Tara
 
-Auch bei der Darbietung des Santoor werden der Zeitraum, der emotionale Charakter und die Tonleiterstruktur des Raga strikt beachtet. Der klare Anschlag der Streicher verleiht der statischen Entwicklung von Aarap ein neues Spannungsgefühl.
+Auch bei der Aufführung des Santoor werden der Zeitraum, der emotionale Charakter und die Tonleiterstruktur des Raga strikt beachtet. Der klare Anschlag der Streicher verleiht der statischen Entwicklung von Aarap ein neues Spannungsgefühl.
 
 Sobald der Santoor in der Tala angekommen ist, beginnt er eine perkussive treibende Kraft anzunehmen und verwischt die Grenze zwischen Melodie und Rhythmus. Diese Dualität erzeugt einen Charme, den man bei anderen Melodieinstrumenten nicht findet.
 
@@ -96,7 +96,7 @@ Seit dem späten 20. Jahrhundert hatten Fortschritte in der Aufnahmetechnik eine
 
 Dies hat dazu geführt, dass es nicht nur auf Soloauftritte, sondern auch auf Ensembles und Filmmusik angewendet wird.
 
-> Die Technologie hat die Präsenz von Santour erweitert, nicht sein Volumen.
+> Die Technologie hat die Präsenz von Santour erweitert, nicht das Volumen.
 
 ---
 
@@ -106,7 +106,7 @@ Seit den 1970er Jahren wird Santoor mit Jazz, Ambient- und Minimal-Musik in Verb
 
 Auch bei Aufführungen außerhalb des klassischen indischen Rahmens beeinflusst das Raga-Denken weiterhin die Auswahl der Klänge.
 
-> Auch an Orten fernab der Tradition ist Santoors Denkweise nicht verloren gegangen.
+> Auch an Orten fern der Tradition ist Santoors Denkweise nicht verloren gegangen.
 
 ---
 
@@ -122,7 +122,7 @@ Aufführungen beginnen oft mit einer sanften Note. In dem Moment, in dem der Sch
 
 ## Symbiotische Beziehung zwischen kaschmirischen Volksliedern und Santoor
 
-In Kaschmir war Santoor schon vor der klassischen Musik eng mit der Volkskultur verbunden. Es wurde oft zu einem Lied bei Hochzeitszeremonien, saisonalen Festen und religiösen Zusammenkünften gespielt.
+In Kaschmir war Santoor bereits vor der klassischen Musik eng mit der Volkskultur verbunden. Es wurde oft zu einem Lied bei Hochzeitszeremonien, saisonalen Festen, religiösen Versammlungen und anderen Anlässen gespielt.
 
 Beim Spielen der Santour als Begleitung zu Volksliedern haben die Intonation der Melodie und der Sprechstil Vorrang vor strengen Tonleitern. Der Schlägel wird nicht mit konstanter Kraft nach unten geschwungen, sondern ändert seine Geschwindigkeit und seinen Winkel subtil, um sich an die Atmung des Sängers anzupassen.
 

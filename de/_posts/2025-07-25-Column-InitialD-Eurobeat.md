@@ -66,7 +66,7 @@ Eurobeat war mit der Parapara-Kultur und der Anime-Song-Mix-Kultur der 1990er Ja
 
 Das Tempo von Eurobeat (140-160 BPM) passt sehr gut zum Geschwindigkeitsgefühl eines Autos. In den Rennszenen von Initial D fungierte Eurobeat als „akustischer Beschleuniger“.
 
-Zum Beispiel:
+たとえば：
 
 [「Deja Vu」（Dave Rodgers）](https://amzn.to/3KiOkYW)
 
@@ -78,7 +78,7 @@ Beim Abspielen dieser Lieder kann man die Geschwindigkeit des Autos auf dem Bild
 
 ● Grund 2: Inländischer Anime x importierte Musik fühlt sich an wie ein Reimport.
 
-Durch die mutige Einführung des in Italien hergestellten Eurobeat in die rein japanischen Anime-Medien entstand eine hybride Subkultur, die reimportiert wurde. Diese Struktur entspricht der Globalisierung von Anime und verbreitet sich im Fandom in Europa und den Vereinigten Staaten.
+Durch die mutige Einführung des in Italien hergestellten Eurobeat in die rein japanischen Anime-Medien entstand eine hybride Subkultur, die reimportiert wurde. Diese Struktur entspricht der Globalisierung von Anime und breitet sich auf die Fangemeinde in Europa und den Vereinigten Staaten aus.
 
 
 <hr>
@@ -115,7 +115,7 @@ Eurobeat ist Musik, die von Geschwindigkeit spricht, und gleichzeitig ist es zu 
 „Initial D“ ist zu Ende, aber die Erinnerungen an Eurobeat kursieren immer noch im Internet. Auch wenn das Rennen vorbei ist, beginnt das Rennen jedes Mal, wenn die Musik abgespielt wird, von neuem.
 
 Es ist auch ein Wiedererleben unserer eigenen „Jugend“ und unseres „Impulses“.
-Sogar jetzt, wenn ich dieses Geräusch höre, schlägt mein Herz verrückt.
+Auch jetzt noch, wenn ich dieses Geräusch höre, schlägt mein Herz verrückt.
 
 ---
 

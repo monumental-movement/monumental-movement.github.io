@@ -20,7 +20,7 @@ title: '[Kolumne] Moderne Wiederbelebung der Free-Mixtape-Kultur: Von Kassetten 
 
 Text: mmr｜Thema: Warum braucht es wieder eine Redaktionskultur, die von der Straße kommt?
 
-Ein kostenloses Mixtape ist ein musikalisches Werk, das hauptsächlich von DJs und Künstlern aus bestehenden Songs, unveröffentlichten Songs, Freestyle-Soundquellen usw. bearbeitet und kombiniert und für inoffizielle oder Werbezwecke kostenlos verbreitet wird.
+Ein kostenloses Mixtape ist ein musikalisches Werk, das hauptsächlich von DJs und Künstlern aus bestehenden Songs, unveröffentlichten Songs, Freestyle-Soundquellen usw. bearbeitet und kombiniert und für inoffizielle oder Werbezwecke kostenlos verteilt wird.
 
 Es ist seit den 1980er Jahren eng mit der Hip-Hop-Kultur verbunden und hat die Bewertung von Künstlern über andere Kanäle als den kommerziellen Vertrieb ausgeweitet.
 
@@ -55,7 +55,7 @@ color: #fff;
 
 Die Ursprünge der Free-Mixtape-Kultur liegen im New York der späten 1970er Jahre. DJs der Bronx-Blockpartys entwickelten die Kunst, immer wieder Funk- und Disco-Breaks zu spielen.
 
-Die repräsentativen Künstler Kool Herc und Grandmaster Flash haben ihre Live-Auftritte aufgezeichnet und als Kassetten verteilt, um die Energie ihrer Auftritte in physischen Medien festzuhalten.
+Die repräsentativen Künstler Kool Herc und Grandmaster Flash haben ihre Live-Auftritte aufgezeichnet und als Kassetten verteilt, um die Energie ihrer Auftritte in physischen Medien einzufangen.
 
 Damals waren Mixtapes keine kommerziellen Produkte, sondern Aufnahmemedien, die sich durch Handverkäufe und Mundpropaganda verbreiteten. Die „Atmosphäre des Abends“ war wichtiger als die Qualität der Aufnahme.
 
@@ -93,7 +93,7 @@ In den 2010er Jahren wurde das Konzept der „kostenlosen Verbreitung“ mit dem
 
 Ein typisches Beispiel ist „Acid Rap“ von Chance the Rapper. Obwohl es ohne kommerziellen Verkauf veröffentlicht wurde, erhielt es Kritikerlob und gewann später einen Grammy.
 
-Obwohl Mixtapes „kostenlos“ sind, erlangen sie in der Evaluationsökonomie eine enorme Bedeutung.
+Obwohl Mixtapes „kostenlos“ sind, werden sie in der Evaluierungsökonomie äußerst wichtig.
 
 > Kostenlos bedeutet nicht länger geringer Wert.
 
@@ -228,7 +228,7 @@ Dies ist auf eine Kombination von Faktoren zurückzuführen, darunter Nostalgie 
 
 Eine Playlist ist eine Sammlung von Songauswahlen, aber ein Mixtape ist ein Arbeitsformat, bei dem Bearbeitung, Verbindung und Klangfluss im Vordergrund stehen.
 
-> Mixtapes sind eine Kultur des „Verbindens“ statt des „Anreihens“.
+> Mixtapes sind eine Kultur des „Verbindens“ statt des „Anstellens“.
 
 ---
 

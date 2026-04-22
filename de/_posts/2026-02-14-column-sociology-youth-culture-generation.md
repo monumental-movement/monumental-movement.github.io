@@ -19,13 +19,13 @@ title: '[Kolumne] Beeinflusst das Musikgenre, das Sie in Ihrer Jugend gehört ha
 
 ## Prolog: Warum bleibt die „Musik, die ich gehört habe, als ich jung war“ bestehen?
 
-Text: mmr｜Thema: Überprüfung der langfristigen Auswirkungen von im Jugend- und jungen Erwachsenenalter gehörter Musik auf Werte, Berufsauffassungen und soziale Teilhabe anhand empirischer Forschungsdaten aus verschiedenen Ländern
+Text: mmr｜Thema: Untersuchung der langfristigen Auswirkungen von Musik, die im Jugend- und jungen Erwachsenenalter gehört wird, auf Werte, Karriereauffassungen und soziale Teilhabe anhand empirischer Forschungsdaten aus verschiedenen Ländern.
 
 Wenn viele Menschen an eine bestimmte Zeit in ihrem Leben zurückdenken, rufen sie Erinnerungen wach, die stark mit einer bestimmten Musik verbunden sind. Es ist nicht nur Nostalgie. Psychologie und Neurowissenschaften haben wiederholt gezeigt, dass Erfahrungen aus unserem späten Teenager- bis frühen Zwanzigeralter dazu neigen, die Grundlage unseres Selbstverständnisses und unserer Werturteile zu bilden.
 
 In dieser Zeit sind die Amygdala, die für die emotionale Verarbeitung verantwortlich ist, und der Dopaminkreislauf, der für das Belohnungssystem verantwortlich ist, besonders aktiv, wodurch Kinder sehr sensibel auf neue Reize reagieren. Da Musik gleichzeitig Emotionen, soziale Zugehörigkeit und körperliche Empfindungen stimuliert, prägt sie sich tiefer in unser Gedächtnis ein als andere kulturelle Elemente.
 
-Dieser Artikel untersucht auf der Grundlage langfristiger Folgebefragungen, Sozialstatistiken und Generationenvergleichsstudien in verschiedenen Ländern, inwieweit die in der Jugend gehörten Musikgenres das spätere Leben und das soziale Verhalten beeinflussen.
+In diesem Artikel wird anhand langfristiger Folgebefragungen, Sozialstatistiken und Generationenvergleichsstudien in verschiedenen Ländern untersucht, inwieweit die in der Jugend gehörten Musikgenres das spätere Leben und das Sozialverhalten beeinflussen.
 
 > Musikalische Erfahrungen aus der frühen Kindheit bleiben einem im Leben, nicht als Erinnerung, sondern als Beurteilungskriterium.
 
@@ -51,7 +51,7 @@ Der Zusammenhang zwischen Musikpräferenzen und Persönlichkeitsmerkmalen wurde 
 
 Repräsentative Analysen haben bestätigt, dass Menschen, die in ihren prägenden Jahren abwechslungsreiche Musik abseits des Mainstreams bevorzugten, tendenziell aufgeschlossener sind. Wer hingegen hauptsächlich Mainstream-Genres mit klaren Strukturen hörte, war ehrlicher und normorientierter.
 
-Wichtig ist, dass „prägende Geschmäcker“ stärker mit Persönlichkeitsmerkmalen im Erwachsenenalter korrelieren als aktuelle Musikgeschmäcker. Dies deutet darauf hin, dass die durch Musik geformten Werte langfristig erhalten bleiben, anstatt dass sich die Persönlichkeit geschmacklich verändert.
+Wichtig ist, dass „prägende Geschmäcker“ stärker mit Persönlichkeitsmerkmalen im Erwachsenenalter korrelieren als aktuelle Musikgeschmäcker. Dies deutet darauf hin, dass die durch Musik gebildeten Werte langfristig erhalten bleiben, anstatt dass sich die Persönlichkeit verändert.
 
 > Musik bestimmt nicht die Persönlichkeit, sondern stärkt die Richtung der Persönlichkeitsentwicklung.
 
@@ -63,7 +63,7 @@ Längsschnittstudien aus mehreren Ländern haben gezeigt, dass der Grad der Bete
 
 Wer mit der experimentellen und Anti-Establishment-Musikkultur vertraut ist, verfolgt eher Bereiche der Kreativität und Selbstbestimmung wie Kunst, Forschung, IT und Medien. Andererseits hatten diejenigen, die hauptsächlich kommerzielle und traditionelle Genres hörten, tendenziell Jobs mit hoher institutioneller Stabilität.
 
-Da diese Beziehung auch nach Berücksichtigung des familiären Umfelds und des Bildungshintergrunds bestehen bleibt, wird interpretiert, dass die Musikkultur einen unabhängigen Einfluss auf Werte und Berufswünsche hat.
+Da dieser Zusammenhang auch nach Berücksichtigung des familiären Umfelds und des Bildungshintergrunds bestehen bleibt, wird interpretiert, dass die Musikkultur einen unabhängigen Einfluss auf Werte und Berufswünsche hat.
 
 > Die Musikkultur bestimmt nicht direkt den Karriereweg, sondern prägt die Prioritäten der Entscheidungen.
 
@@ -71,7 +71,7 @@ Da diese Beziehung auch nach Berücksichtigung des familiären Umfelds und des B
 
 ## Kapitel 3: Auswirkungen auf politisches Bewusstsein und gesellschaftliche Teilhabe
 
-Untersuchungen, die den Zusammenhang mit politischem Bewusstsein analysieren, zeigen, dass Menschen, die in jungen Jahren Musik mit starken sozialen Botschaften hörten, als Erwachsene tendenziell höhere Wahlquoten und Beteiligungsquoten an sozialen Bewegungen hatten. Die Studie wird nach Generationen aufgeschlüsselt und über mehrere Jahrzehnte verglichen.
+Untersuchungen, die den Zusammenhang mit politischem Bewusstsein analysieren, zeigen, dass Menschen, die in jungen Jahren Musik mit starken sozialen Botschaften hörten, als Erwachsene tendenziell höhere Wahlbeteiligungen und Beteiligungsquoten an sozialen Bewegungen hatten. Die Studie wird nach Generationen aufgeschlüsselt und über mehrere Jahrzehnte verglichen.
 
 Andererseits neigen diejenigen, die mit einer Musikkultur vertraut sind, die Unterhaltung und Individualismus in den Vordergrund stellt, eher dazu, ihre Werte durch Konsumverhalten und Lebensstil auszudrücken als durch institutionelle politische Partizipation.
 
@@ -85,7 +85,7 @@ Es ist wichtig, dass Musik beim Erlernen von Formen der Beteiligung und des Dist
 
 Rock ist seit den 1950er Jahren stark mit der Jugendkultur verbunden. Die Generation, die in ihrer Jugend hauptsächlich Rockmusik hörte, sieht Selbstdarstellung und autoritätsfeindliche Einstellungen tendenziell positiv.
 
-Langzeitstudien haben gezeigt, dass diese Gruppe auch nach dem Erwachsenenalter eher dazu neigt, ihre Meinung am Arbeitsplatz und in der Gesellschaft zu äußern. Andererseits besteht wahrscheinlich auch Misstrauen gegenüber dem System.
+Langzeitstudien haben gezeigt, dass diese Gruppe auch nach dem Erwachsenenalter eher dazu neigt, ihre Meinung am Arbeitsplatz und in der Gesellschaft zu äußern. Andererseits dürfte auch Misstrauen gegenüber dem System bestehen.
 
 ### Altersgruppe mit der größten Auswirkung
 
@@ -171,7 +171,7 @@ Seit den 2000er Jahren unterscheiden sich die musikalischen Erfahrungen junger M
 
 Darüber hinaus fungieren Clubkultur und elektronische Musik in städtischen Gebieten als neue soziale Erfahrungen im Zusammenhang mit der Nachtwirtschaft. Diese Divergenzen führen zu unterschiedlichen Berufsauffassungen und Arbeitsstilentscheidungen.
 
-> In den letzten Jahren haben sich in Japan Musikerfahrungen zunehmend in Arbeitsstilen niedergeschlagen.
+> In den letzten Jahren haben sich in Japan Erfahrungen mit der Musik zunehmend in Arbeitsstilen niedergeschlagen.
 
 ---
 

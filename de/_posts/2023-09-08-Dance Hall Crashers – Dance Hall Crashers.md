@@ -15,7 +15,7 @@ title: Dance Hall Crashers – THE OLD RECORD (1989-1992)
 
 DANCE HALL CRASHERS ist eine amerikanische Ska-Core-Band, die 1989 in Berkeley, Kalifornien, gegründet wurde.
 
-1989 gründeten Matt Freeman und Tim Armstrong, Rancids Mutterband Operation Ivy, die Band als Nebenprojekt.
+1989 gründeten Matt Freeman und Tim Armstrong von Rancids Mutterband Operation Ivy die Band als Nebenprojekt.
 
 Dieses Album „THE OLD RECORD (1989-1992)“ wurde 1996 veröffentlicht.
 

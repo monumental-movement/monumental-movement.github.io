@@ -19,7 +19,7 @@ Einseitig
 
 Darren Emerson ist ein britischer DJ/Produzent/Musiker. Von 1991 bis 2000 war er Mitglied der britischen Gruppe für elektronische Musik Underworld. Nachdem er die Gruppe verlassen hatte, spielte er Live-Shows auf der ganzen Welt und leitete das britische House/Tech-House-Label Underwater Records.
 
-„H2O“ ist ein Single-Ausschnitt aus dem Album Underwater Episode 1 (2002), gemischt von Darren Emerson und Tim Deluxe. Ein Progressive House/House-Track, veröffentlicht von Darren Emersons eigenem Label Underwater Records.
+„H2O“ ist ein Single-Ausschnitt aus dem Album Underwater Episode 1 (2002), gemischt von Darren Emerson und Tim Deluxe. Ein Progressive House/House-Track, veröffentlicht auf Darren Emersons eigenem Label Underwater Records.
 
 #### Trackliste
 ```md

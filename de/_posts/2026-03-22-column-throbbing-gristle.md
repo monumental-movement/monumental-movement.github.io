@@ -19,7 +19,7 @@ title: '[Kolumne] Throbbing Gristle und die Geburt des Industrial – der Moment
 
 ## Einleitung: Wo bricht Musik zusammen?
 
-Text: mmr｜Thema: Eine Aufzeichnung der Innovation, die die Definition von Musik durch Lärm und Provokation dekonstruierte und die Klänge der Industriegesellschaft in Kunst verwandelte.
+Text: mmr｜Thema: Eine Aufzeichnung der Innovation, die die Definition von Musik durch Lärm und Provokation dekonstruierte und die Klänge der Industriegesellschaft in Kunst verwandelte
 
 Mitte der 1970er Jahre war die Rockmusik bereits ausgereift und die Popmusik entwickelte sich zu einer Branche. Andererseits blieb die grundlegende Frage „Was ist Musik?“ unverändert und wurde kaum von jemandem in Frage gestellt.
 
@@ -131,7 +131,7 @@ Geräusche sind laut und wiederholen sich, Bilder sind verstörend und Worte wer
 
 Das ist kein Zufall. Sie testeten bewusst die Grenzen der Sinne und der Psychologie des Publikums.
 
-Darüber hinaus hatte jede Live-Aufführung eine andere Struktur, war stark improvisiert und hatte eine geringe Reproduzierbarkeit. Mit anderen Worten: Er weigerte sich, als Kunstwerk fixiert zu werden.
+Darüber hinaus hatte jede Live-Aufführung eine andere Struktur, war stark improvisiert und hatte eine geringe Reproduzierbarkeit. Mit anderen Worten, er weigerte sich, als Kunstwerk fixiert zu werden.
 
 Dieser Ansatz sollte später Live-Erlebnisse in der Lärm-, Industrie- und sogar Clubkultur beeinflussen.
 
@@ -148,7 +148,7 @@ Ihre Arbeit wurde wegen der Darstellung von Gewalt und Tabuthemen oft missversta
 
 In dieser Hinsicht waren sie auch Pioniere der Medienkritik. Mithilfe von Ton und Bild wurde gezeigt, wie Informationen manipuliert und konsumiert werden.
 
-> Sie waren ein Spiegel der Gesellschaft und gleichzeitig eine Linse, die Verzerrungen verstärkte.
+>Sie waren ein Spiegel der Gesellschaft und gleichzeitig eine Linse, die Verzerrungen verstärkte.
 
 ---
 
@@ -202,7 +202,7 @@ timeline
 
 ## Fazit: Was nur diejenigen sahen, die Musik zerstörten
 
-Throbbing Gristle hat die Musik nicht erweitert. Ich habe die Musik einmal völlig zerstört.
+Throbbing Gristle hat die Musik nicht erweitert. Ich habe die Musik einmal komplett zerstört.
 
 Daraus entstand das sogenannte Industrial-Genre und noch mehr eine Idee, die der modernen elektronischen Musik insgesamt gemeinsam ist.
 

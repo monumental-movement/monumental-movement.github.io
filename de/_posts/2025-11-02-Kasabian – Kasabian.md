@@ -21,9 +21,9 @@ title: Kasabian – Kasabian
 
 
 
-Das erste Album von Kasabian, einer Alternative-/Elektro-Rockband aus Leicester, England, erschien 2004. Kasabian zeichnet sich durch einen Sound aus, der Rock-Electronica kombiniert.
+イギリス・レスター出身のオルタナティブ／エレクトロ ロックバンドKasabianが、2004年にリリースしたファーストアルバム。カサビアンは、ロックエレクトロニカを融合させたサウンドが特徴。
 
-Kasabian gilt als eine der aktivsten britischen Rockbands des 21. Jahrhunderts.
+カサビアンは、21世紀にイギリスから登場したロックバンドの中で、最も活躍しているバンドのひとつと評されている。
 
 #### Trackliste
 ```md

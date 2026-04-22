@@ -11,13 +11,13 @@ tags:
 - Euro House
 - Disco
 - 80s
-title: Pseudonym – Sie haben das Recht zu schweigen
+title: Pseudonym – You Have The Right To Remain Silent
 ---
 
 
-Die Produzenten sind der britische DJ/Produzent Ian Levine und der energiegeladene Produzent Steven Wagner. Ian Levine modernisiert die britische Soulmusik des Nordens und ist auch als Schöpfer des Hi NRG-Stils bekannt.
+プロデューサーは、イギリス出身のDJ・プロデューサーIan Levine（イアン・レヴィン）とハイエナジーのプロデューサーSteven Wagner。Ian Levineは、UKのNorthern soul music（ノーザン・ソウルミュージック）を現代化し、Hi NRGスタイルの開発者としても知られている。
 
-„You Have The Right To Remain Silent“ ist ein energiegeladener Eurohouse-Disco-Track, der 1988 auf Saturday Records veröffentlicht wurde, einem auf Hi-NRG spezialisierten Sublabel von Nightmare Records.
+「You Have The Right To Remain Silent」は、Nightmare Recordsのサブレーベルであり、Hi-NRG専門のSaturday Recordsから1988年にリリースされたハイエナジー・ユーロハウス・ディスコトラック。
 
 #### Trackliste
 ```md

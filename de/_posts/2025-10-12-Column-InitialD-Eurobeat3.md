@@ -25,12 +25,12 @@ Text: mmr｜Thema: Initial D, Eurobeat und das Schicksal der darauffolgenden „
 
 
 „Initial D“ und Eurobeat. Über die Zeit, in der diese Verbindungen als kulturelles Mittel fungierten, kann nicht mehr nur mit „Nostalgie“ gesprochen werden.
-Von Ende der 1990er bis Anfang der 2000er Jahre erzeugte die Resonanz von Bildern von über Bergpässe fahrenden Autos und schnellen Geräuschen ein unbewusstes, gemeinsames Erlebnis.
+Von Ende der 1990er bis Anfang der 2000er Jahre erzeugte die Resonanz von Bildern von über Gebirgspässen fahrenden Autos und schnellen Geräuschen ein unbewusstes, gemeinsames Erlebnis.
 Geschwindigkeit = Musik und Musik = Beschleunigung von Emotionen.
 
 Aber die Zeiten haben sich geändert, Autos sind leiser geworden und Musik ist zu Streaming geworden.
 Dennoch bleibt Eurobeats „Erinnerung an die Geschwindigkeit“ bestehen.
-Vielmehr verwandelt sie sich nun in eine neue Art von „laufender Musik“ im Kontext von **digitalem Raum, KI-Generierung und Echtzeit-Sound**.
+Vielmehr verwandelt es sich nun in eine neue Art von „laufender Musik“ im Kontext von **digitalem Raum, KI-Generierung und Echtzeit-Sound**.
 
 
 <style type="text/css">
@@ -65,7 +65,7 @@ Es ist nicht das Erbe eines Genres, sondern das Erbe eines Gefühls der Beschleu
 - Übermäßige Wiederholung von Raumhall und Klatschen
 
 Diese Eigenschaften sind genau die Echos von Eurobeat.
-Und jetzt beginnt sein Nachhall im Internet erneut zu pulsieren.
+Und jetzt beginnt sein Nachhall im Internetraum erneut zu pulsieren.
 
 ---
 
@@ -73,7 +73,7 @@ Und jetzt beginnt sein Nachhall im Internet erneut zu pulsieren.
 
 In den 2020er Jahren gibt es viele junge Künstler, die bewusst das Eurobeat-ähnliche „Gefühl der Beschleunigung“ zitieren.
 Wenn Sie beispielsweise den Tags „Eurobeat Remake“ und „Nightcore Revival“ auf YouTube folgen,
-Man sieht, dass unzählige Tracks an der Schnittstelle von EDM, Anime-Kultur und Game-Musik entstehen.
+Man sieht, dass unzählige Tracks an der Schnittstelle von EDM, Anime-Kultur und Spielemusik entstehen.
 
 Der Aufbau von EDM, der Stimmschwung von Hyperpop, der Melodieanstieg von Trance.
 Was sie durchdringt, ist die Idee eines „Klangs, der Auftrieb schafft“.
@@ -105,7 +105,7 @@ Dies ist eine technologische Nachstellung dessen, was Initial D früher mit Vide
 ### ● VR/AR-Fahrraum
 
 Soundscapes spielen in virtuellen Fahrumgebungen eine wichtige Rolle.
-Windgeräusche, Reifenreibung, Tunnelechos, Motorschwankungen ...
+Windgeräusche, Reifenreibung, Tunnelechos, Motorschwankungen...
 Durch die Synchronisierung all dessen mit einem Eurobeat-ähnlichen Tempo verstärkt sich das Gefühl des Eintauchens dramatisch.
 
 „Touge“ steckt jetzt in einem VR-Headset.
@@ -146,7 +146,7 @@ Die Ära, in der „Ihr Auto zum Song wird“, beginnt auf dem Prüfstand bereit
 
 ### ● Eurobeat-Revival von SNS
 
-Auf TikTok und YouTube ist die Zahl der Posts, die „Eurobeat x eigenes Fahrvideo“ kombinieren, explosionsartig gestiegen.
+Auf TikTok und YouTube ist die Zahl der Posts, die „Eurobeat x dein eigenes Fahrvideo“ kombinieren, explosionsartig gestiegen.
 Dabei handelt es sich nicht nur um Nostalgie, sondern um ein „neues Format zum Teilen des Fahrgefühls“.
 Es handelt sich sozusagen um ein „Speed-Sharing-Medium“.
 

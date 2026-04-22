@@ -52,7 +52,7 @@ color: #fff;
 
 ### Die Ära der Phonographen und Schallplatten
 
-Im Jahr 1877 erfand Thomas Edison den Phonographen und ermöglichte damit die Aufzeichnung von Tönen. Ursprünglich handelte es sich um eine Wachsröhre, später wurde daraus eine Scheibenform. Die kommerzielle Aufnahme begann in den 1890er Jahren und Musik wurde zum ersten Mal zu einem kommerziellen Produkt, das reproduziert werden konnte.
+Im Jahr 1877 erfand Thomas Edison den Phonographen und ermöglichte damit die Aufzeichnung von Tönen. Anfangs handelte es sich um eine Wachsröhre, später wurde daraus eine Scheibenform. Die kommerzielle Aufnahme begann in den 1890er Jahren und Musik wurde zum ersten Mal zu einem kommerziellen Produkt, das reproduziert werden konnte.
 
 Zu Beginn des 20. Jahrhunderts wurden SP-Discs mit 78 U/min zum Standard und Plattenfirmen trieben weltweit die Industrialisierung voran. Musik hat sich von etwas, das gespielt wird, zu etwas gewandelt, das gekauft wird.
 

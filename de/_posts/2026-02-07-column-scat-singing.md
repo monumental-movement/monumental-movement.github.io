@@ -64,7 +64,7 @@ Mitte der 1920er Jahre war die One-Shot-Aufnahme in den Aufnahmestudios in Chica
 
 In seinem Scat haben die Silben keine Bedeutung, aber die rhythmische Anordnung ist sehr klar. Der Anfang der Phrase ist der Anschlag der Trompete, und das Ende konvergiert natürlich mit dem Atem. Hier fungiert die Stimme als Melodieinstrument und das Fehlen von Texten wird eher zur Voraussetzung als zum Versäumnis.
 
-Wenn man sich die Platten aus dieser Zeit genau anhört, erkennt man, dass auch die Distanz zur Band wichtig war. Der Scat geht zwar nicht in der Begleitung unter, fällt aber auch nicht allzu sehr auf. Das Improvisationsgefühl innerhalb des Ensembles war bereits perfektioniert.
+Wenn Sie sich die Platten aus dieser Zeit genau anhören, werden Sie feststellen, dass auch die Distanz zwischen Ihnen und der Band wichtig war. Der Scat geht zwar nicht in der Begleitung unter, fällt aber auch nicht allzu sehr auf. Das Improvisationsgefühl innerhalb des Ensembles war bereits perfektioniert.
 
 <div class="mermaid">
 timeline

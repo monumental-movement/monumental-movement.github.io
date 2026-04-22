@@ -31,7 +31,7 @@ Indem wir das Drama und den emotionalen Ausdruck aufgeben, die traditionelle wes
 Stattdessen hat es sich in eine Kunst verwandelt, die es uns ermöglicht, auf „Zeit und Struktur“ selbst zu hören.
 Terry Rileys „In C“, Steve Reichs „Piano Phase“,
 Und Philip Glass‘ „Einstein on the Beach“——
-Sie machten die Wiederholung von Klängen zu einem meditativen und nicht zu einem langweiligen Erlebnis.
+Sie machten die Klangwiederholung zu einem meditativen Erlebnis und nicht zu einem langweiligen Erlebnis.
 
 Schließlich durchdrang diese Philosophie die Welt der elektronischen Musik.
 Im konstanten Rhythmus von TR-808 und 909,
@@ -46,7 +46,7 @@ Wir verfolgen, wie daraus ein einziger sinnlicher und philosophischer Trend wurd
 Minimalismus bedeutet nicht nur „Entkleiden“.
 Es ist ein Akt des Betrachtens der „Ewigkeit“, die in der kleinsten Klangeinheit steckt.
 Eine unendliche Fluktuation, die zwischen Stille und Rhythmus entsteht.
-In dieser Umgebung spüren Menschen „Präsenz“ durch Hören.
+In dieser Umgebung spüren Menschen „Präsenz“ durch das Hören.
 
 ---
 
@@ -67,7 +67,7 @@ color: #fff;
 ## Kapitel 1: Die Ursprünge der Minimal Music – Terry Riley und Steve Reich
 
 1964 wurde In C von Terry Riley uraufgeführt.
-Dieses Stück hatte eine beispiellose Struktur, wobei die Interpreten 53 kurze Notenmuster frei wiederholten.
+Dieses Stück hatte eine beispiellose Struktur, bei der die Interpreten 53 kurze Notenmuster frei wiederholten.
 Jede Phrase überlagert sich mit einer leichten Verschiebung und erzeugt so einen Klang, der scheinbar endlos anhält.
 Diese „freie Wiederholung“ ist eine Idee, die später zur elektronischen Musik und DJ-Kultur führen sollte.
 
@@ -134,9 +134,9 @@ Durch die Wiederholung und den Nachhall niedriger Frequenzen entstand ein akusti
 
 Brian Enos Musik für Flughäfen (1978)
 Es ist nicht nur der Vater der Ambient-Musik, sondern auch der Ursprung des „statischen Minimalismus“.
-Die zufällige Überlappung von Loop-Tapes erweiterte die auditive Zeitachse.
+Die zufällige Überlappung von Looptapes erweiterte die auditive Zeitlinie.
 
-Später, in Radioheads „Alles an seinem richtigen Platz“ (2000),
+Später, in Radioheads „Everything in Its Right Place“ (2000),
 Sich wiederholende Synthesizer und Gesangsloops verleihen der Popmusik ein Reichsches Phasengefühl.
 
 **Vergleichstabelle: Wiederholungsstruktur in Eno und Radiohead**
@@ -154,27 +154,27 @@ Sich wiederholende Synthesizer und Gesangsloops verleihen der Popmusik ein Reich
 
 Isao Tomita nutzte einen Synthesizer, um klassische Musik in „elektronischer Wiederholung“ zu rekonstruieren.
 In Moonlight (1974) prägen subtile Modulationsschwankungen den Klangraum.
-Dieses Gefühl der „elektronischen Beharrlichkeit“ gilt auch für spätere Techno-Ambient-Musik.
+この“電子的持続”の感覚は後のテクノ・アンビエントにも通じる。
 
-### Ryoji Ikeda: Minimale Daten und Häufigkeit
+### 池田亮司：データと周波数のミニマル
 
-Ryoji Ikedas Werke verwandeln reine Frequenzen, Zahlen und Daten in Musik.
-„dataplex“ (2005) wiederholt und teilt ultrahochfrequente Klänge, die die Grenzen der menschlichen Wahrnehmung auf die Probe stellen.
-Der akustische Raum wurde als „digitaler Minimalismus“ präsentiert.
+池田亮司の作品は、純粋な周波数・数値・データを音楽化する。  
+《dataplex》(2005)では、人間の知覚限界を試す超高周波サウンドを反復・分割し、  
+音響空間を“デジタル的ミニマル”として提示した。
 
-### Liste japanischer minimalistischer Künstler
+### 日本のミニマル系アーティスト一覧
 
-| Künstler | Hauptwerke | Funktionen |
-|------|------------|------|
-| Isao Tomita | 《Mondlicht》《Planet》 | Elektronische klassische Musik/akustische Verfeinerung |
-| Ryoji Ikeda | 《Dataplex》《Testmuster》 | Mathematischer/Frequenz-Minimalismus |
-| Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion von Elektroakustik und Klavier |
-| Rei Harakami | 《Red Curb》《lust》 | Warme Wiederholung der Lo-Fi-Elektronik |
-| Asa-Chang & Pilgerfahrt | 《Blumen》 | Schnittstelle zwischen Minimalismus und menschlicher Stimme |
+| アーティスト | 主な作品 | 特徴 |
+|---------------|-----------|------|
+| 冨田勲 | 《月の光》《惑星》 | 電子クラシック／音響の緻密化 |
+| 池田亮司 | 《dataplex》《test pattern》 | 数学的・周波数的ミニマル |
+| Alva Noto + 坂本龍一 | 《Vrioon》《Summvs》 | エレクトロ音響とピアノの融合 |
+| Rei Harakami | 《Red Curb》《lust》 | Lo-fi電子の温かい反復 |
+| Asa-Chang & 巡礼 | 《花》 | ミニマルリズムと人声の交錯 |
 
 ---
 
-## Kapitel 6: Chronologie – Entwicklung und Divergenz der Minimal Music
+## 第6章：年表 ― ミニマル音楽の進化と分岐
 
 <div class="mermaid">
 
@@ -195,13 +195,13 @@ timeline
 
 ---
 
-## Fazit: „Veränderung“ entsteht durch Wiederholung
+## 結語：反復の中に生まれる“変化”
 
-Beim Minimalismus geht es nicht nur um „weniger“.
-Es ist die Kunst, innerhalb der Grenzen die größte Freiheit zu entdecken.
-Diese Linie setzt sich von Terry Rileys „In C“ bis zu Ryoji Ikedas „Dataplex“ fort.
-Während sich die Form von analog zu digital, vom Körper zu Daten verändert,
-Auch heute noch experimentiert er weiterhin „mit Klang und Zeit“.
+ミニマルとは単なる「少なさ」ではない。
+それは、**制限の中で最大の自由を発見する芸術**である。
+Terry Rileyの《In C》から、Ryoji Ikedaの《dataplex》まで続くこの系譜は、
+アナログからデジタル、身体からデータへと形を変えながら、
+今もなお「音と時間の実験」を続けている。
 
 ---
 

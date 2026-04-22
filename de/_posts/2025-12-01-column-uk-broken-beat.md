@@ -43,7 +43,7 @@ color: #fff;
 Mitte der 1990er Jahre entwickelten sich Jazz-Funk und Drum and Bass in der britischen Clubszene rasant. In diesem Zusammenhang entstand Musik mit freieren und unregelmäßigeren Rhythmen als Ableger des traditionellen Four-on-the-Floor-House und des Jazz-Funk. Dies bildete die Grundlage für das Genre, das später Broken Beat genannt wurde.
 
 - **Jazz-Funk-Swing-Feeling**: Komplexe Akkordfolgen und unregelmäßige Taktart-Rhythmen
-- **Komplexität von Drum and Bass und Dschungelrhythmen**: schnelle Breakbeats und unregelmäßige Snare-Platzierungen
+- **Komplexe Drum-and-Bass- und Jungle-Rhythmen**: schnelle Breakbeats und unregelmäßige Snare-Platzierungen
 - **Fusion mit der Hip-Hop-Sampling-Kultur**: Gleichzeitiger Einsatz von Live-Musik und Sampling
 
 > „Damals ging es nicht nur um Tanzen oder Musikhören, es machte mehr Spaß, den Swing und Groove zu spüren, der hinter dem Rhythmus entstand.“
@@ -66,7 +66,7 @@ Repräsentative Etiketten:
 
 - **Rising High**: Ursprung des frühen Electronica-Jazz-Funk
 - **Reinforced Records**: Brücke zwischen Drum & Bass und Broken Beat
-- **Talkin’ Loud**: Eine Veröffentlichung, die Soul- und Jazz-Elemente betont.
+- **Talkin’ Loud**: Eine Veröffentlichung, die Soul- und Jazz-Elemente in den Vordergrund rückt.
 - **2000Black**: Aktivitäten als Künstlergruppe und Gemeinschaftsaufbau
 
 <div class="mermaid">
@@ -156,7 +156,7 @@ Broken Beat wurde nicht nur von einzelnen Künstlern, sondern auch von Community
 - **Londoner Clubs**: Broken Beat-Sets erobern sich bei Plastic People, The End und anderen
 
 > „Broken Beat war nicht nur Musik zum Anhören, es war ein Genre, in dem man tanzen und den Rhythmus erleben konnte.“
-> — Aussage eines damaligen Clubpatrons
+> — Aussage eines damaligen Clubmäzens
 
 <div class="mermaid">
 graph LR

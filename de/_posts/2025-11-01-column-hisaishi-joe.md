@@ -17,7 +17,7 @@ title: '[Kolumne] Joe Hisaishi und Studio Ghibli – 40 Jahre musikverwobene Ges
 ## Prolog: Wenn Musik die Geschichte bewegt
 
 
-Text: mmr | Thema: Eine lange Kolumne, die faktenbasiert auf die Geschichte der Zusammenarbeit zwischen Joe Hisaishi und Studio Ghibli zurückblickt. Wir verfolgen 40 Jahre Musikgeschichte, vom Ursprung des Namens bis zum Hauptsoundtrack
+Text: mmr | Thema: Eine lange Kolumne, die faktenbasiert auf die Geschichte der Zusammenarbeit zwischen Joe Hisaishi und Studio Ghibli zurückblickt. Eine 40-jährige musikalische Reise, von der Entstehung des Namens bis zum Hauptsoundtrack.
 
 
 In der Geschichte des japanischen Films ist die Existenz des Komponisten Joe Hisaishi (englischer Name: Joe Hisaishi) einzigartig.
@@ -75,7 +75,7 @@ Dieser Name wurde erstmals 1981 offiziell auf dem Album Information verwendet.
 1984 wurde Hisaishi ausgewählt, die Musik für den Film „Nausicaa aus dem Tal des Windes“ von Tokuma Shoten und Top Craft zu leiten.
 Das Lied verwendet eine Kombination aus Synthesizern und ethnischen Instrumenten, was für Animationsmusik ungewöhnlich ist.
 
-Ursprünglich wollte Regisseur Hayao Miyazaki „Musik, die den Atem zwischen Natur und Maschinerie spüren lässt“.
+Ursprünglich wollte Regisseur Hayao Miyazaki „Musik, die den Atem zwischen Natur und Maschinerie spüren lässt.“
 Als Reaktion darauf schlug Hisaishi einen „Environmental-Music-Ansatz“ vor, der eine Weltanschauung durch Rhythmus und Ton darstellt.
 
 Das Hauptthema, „Legend of the Wind“, wurde später zu einem von Hisaishis Erkennungsliedern.
@@ -130,7 +130,7 @@ Mit diesem Werk konstruierte Hisaishi erstmals „imaginäre Periodenmusik“ un
 Als Hisaishi 1997 die Musik für Prinzessin Mononoke komponierte, setzte er ein komplettes Orchester und einen Chor ein, um einen Klang mit religiöser Tiefe zu erzeugen.
 Das Thema dieser Arbeit ist das Zusammenleben von Natur und Mensch, und auch Hisaishis Musik entwickelt sich auf eine Weise, die diese Idee unterstützt.
 
-Der Einsatz eines gemischten Chors, der tiefe Klang der Pauke und die Platzierung der Stille zeigen die Reife von Hisaishis musikalischer Ausdrucksweise.
+Der Einsatz eines gemischten Chors, der tiefe Klang der Pauke und die Platzierung der Stille zeigen die Reife von Hisaishis musikalischer Diktion.
 In diesem Jahr komponierte Hisaishi auch die Musik für Takeshi Kitanos „HANA-BI“, das gleichzeitig in einem anderen Kontext große Anerkennung fand.
 
 ---
@@ -138,7 +138,7 @@ In diesem Jahr komponierte Hisaishi auch die Musik für Takeshi Kitanos „HANA-
 ## Kapitel 9: Spirited Away (2001) – Aufbau eines weltweiten Rufs
 
 Im Jahr 2001 erschien „Chihiros Reise ins Zauberland“ von Studio Ghibli und Hisaishis Musik erregte internationale Aufmerksamkeit.
-Der Titelsong „Always Again and Again“ (komponiert von Joe Hisaishi, gesungen von Yumi Kimura) gewann den Preis für die beste Musik bei den 25. Japan Academy Awards.
+Der Titelsong „Itsou Izumo Demo“ (komponiert von Joe Hisaishi, gesungen von Yumi Kimura) gewann den Preis für die beste Musik bei den 25. Japan Academy Awards.
 
 Die Musik zeichnet sich durch die Klarheit der Melodie und die Schönheit des „Ma“ aus, was die Fantasie der Geschichte verstärkt.
 Dieses Werk gewann 2003 den Oscar für den besten Animationsfilm und Hisaishis Name verbreitete sich auf der ganzen Welt.
@@ -159,7 +159,7 @@ In diesen Werken wird Hisaishis Musik zu einem Element, das die „innere Zeit d
 
 ## Kapitel 11: „Wie lebst du?“ (2023) – Klangabstraktion und neue Herausforderungen
 
-„How do you live“, der 2023 in die Kinos kommt, ist der erste abendfüllende Film von Regisseur Hayao Miyazaki seit 10 Jahren.
+„How do you live?“, der 2023 in die Kinos kommt, ist der erste abendfüllende Film von Regisseur Hayao Miyazaki seit 10 Jahren.
 Für die Musik war erneut Joe Hisaishi verantwortlich.
 
 Dieses Werk verwendet eine abstrakte Klangstruktur und betont eher Resonanz und Textur als Melodie.

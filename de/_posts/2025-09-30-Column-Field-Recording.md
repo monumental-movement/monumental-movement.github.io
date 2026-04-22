@@ -71,12 +71,12 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 
 | Künstler | Tätigkeitsübersicht/Repräsentative Arbeiten | Verwendete Ausrüstung (typisch) |
 | -------------------------- | --------------------------------------------------------------- | ----------------------------------------------------- |
-| **Alan Lomax** | Volksmusikarchiv des 20. Jahrhunderts. Aufnahme von Feldaufnahmen aus den USA in die ganze Welt. Repräsentative Werke: *The Alan Lomax Collection* | Ampex-Tonbandgerät, Nagra (1950er Jahre und später), verschiedene dynamische Mikrofone |
-| **Chris Watson** | Ehemaliges Cabaret Voltaire. Verantwortlich für die Aufnahme natürlicher Geräusche für die BBC und Dokumentarfilmproduktionen. Repräsentative Werke: *El Tren Fantasma* (2011) | Sound Devices 7-Serie, Nagra, Sennheiser MKH-Serie Mikrofone |
-| **Bernie Krause** | Ein führender Experte für natürliche Umgebungsgeräusche (Biophonik). Repräsentative Werke: *The Great Animal Orchestra* | Nagra IV, Tongeräte-Recorder, Neumann & Sennheiser-Mikrofon |
-| **Hildegard Westerkamp** | Soundwalk/Akustische Ökologie-Bewegung. Werke: *Kits Beach Soundwalk* | Ursprünglich Nagra-Band, jetzt komplett digitale Geräte |
+| **Alan Lomax** | 20th Century Folk Music Archive. Aufnahme von Feldaufnahmen aus den USA in die ganze Welt. Repräsentative Werke: *The Alan Lomax Collection* | Ampex-Tonbandgerät, Nagra (1950er Jahre und später), verschiedene dynamische Mikrofone |
+| **Chris Watson** | Ehemaliges Cabaret Voltaire. BBCやドキュメンタリー制作で自然音の録音を担当。 Representative works: *El Tren Fantasma* (2011) | Sound Devices 7-Serie, Nagra, Sennheiser MKH-Serie Mikrofone |
+| **Bernie Krause** | Ein führender Experte für natürliche Umgebungsgeräusche (Biophonik). Representative works: *The Great Animal Orchestra* | Nagra IV, Tongeräte-Recorder, Neumann & Sennheiser-Mikrofon |
+| **Hildegard Westerkamp** | Soundwalk/Acoustic Ecology Movement. Works: *Kits Beach Soundwalk* | Ursprünglich Nagra-Band, jetzt komplett digitale Geräte |
 | **Toshiya Tsunoda** | Japanischer Klangkünstler. Nehmen Sie winzige Geräusche aus Containern und in der Stadt auf. Repräsentative Werke: *Auszug aus dem Field Recording Archive* | DAT-Recorder, Kondensatormikrofon, Kontaktmikrofon |
-| **Francisco López** | Unbearbeitete oder verarbeitete Umgebungsgeräusche aus aller Welt zur Schaffung von Werken. Repräsentative Werke: *La Selva* | DAT-Recorder (früh), derzeit Sound Devices, Schoeps-Mikrofon |
+| **Francisco López** | Unbearbeitete oder verarbeitete Umgebungsgeräusche aus aller Welt zur Schaffung von Werken. Representative works: *La Selva* | DAT-Recorder (früh), derzeit Sound Devices, Schoeps-Mikrofon |
 | **Annea Lockwood** | Viele Arbeiten beschäftigen sich mit dem Thema Natur und Umwelt. Repräsentative Werke: *A Sound Map of the Hudson River* | Feldrekorder (Nagra → digital), Unterwassermikrofon (Hydrophon) |
 | **Ryuichi Sakamoto** | In seinen späteren Jahren sammelte er Umweltgeräusche und reflektierte sie in seinen Werken. Repräsentative Werke: *async* | Zoom H-Serie, DPA-Mikrofon, Unterwassermikrofon |
 
@@ -171,7 +171,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 
 #### Nagra von Bernie Krause
 
-- Die Batterie, die ich bei meinen frühen Naturaufnahmen auf dem Rücken trug, wog über 10 kg.
+- Der Akku, den ich bei meinen frühen Naturaufnahmen auf dem Rücken trug, wog über 10 kg.
 
 - „Ich habe mehr Angst, etwas zu verpassen, als müde zu sein“, sagte er.
 

@@ -52,7 +52,7 @@ Waajeed (richtiger Name Robert O'Bryant) wurde Ende der 1970er Jahre in Detroit 
 Der Name des Künstlers ist arabischen Ursprungs und leitet sich von einem Wort ab, das „finden“ oder „entdecken“ bedeutet.
 
 Schon in jungen Jahren wuchs er in einem Umfeld auf, das von **Detroits Soul-/Gospel-Kultur** beeinflusst war, und kam später mit Slum Village in Kontakt.
-In den späten 1990er und frühen 2000er Jahren schuf Detroit einen neuen Standard für Neo-Soul/Hip-Hop, symbolisiert durch J Dilla. Waajeed war einer der Vorreiter auf diesem Gebiet und wandte sich neben seiner Tätigkeit als Fotograf auch der Musikproduktion zu.
+In den späten 1990er und frühen 2000er Jahren schuf Detroit einen neuen Standard für Neo-Soul/Hip-Hop, symbolisiert durch J Dilla. Als Vorreiter auf diesem Gebiet wandte sich Waajeed der Musikproduktion zu und arbeitete gleichzeitig als Fotograf.
 
 ### **● Beziehung zum Slum Village**
 
@@ -68,7 +68,7 @@ Was Waajeed hier absorbierte, war mehr als nur das Erstellen von Beats.
 # **2. PPP-Zeit (Platinum Pied Pipers): Ein neuer Verbindungspunkt zwischen Hip-Hop und Soul**
 
 In den frühen 2000er Jahren gründeten Waajeed und Saadiq **Platinum Pied Pipers (PPP)**.
-Dabei handelt es sich um ein Projekt, das Hip-Hop, R&B, Soul und Beat-Musik organisch miteinander verbindet und durch seinen Sitz in Detroit weltweite Anerkennung erlangt hat.
+Dabei handelt es sich um ein Projekt, das Hip-Hop, R&B, Soul und Beat-Musik auf organische Weise miteinander verbindet und durch seinen Sitz in Detroit weltweite Anerkennung erlangt hat.
 
 ### **2005 „Triple P“**
 
@@ -273,7 +273,7 @@ Es wird weiterhin als **Clubmusik bezeichnet, die gleichzeitig auf die Wurzeln u
 
 Waajeeds Karriere bestand darin, die „Schichten der Geschichte“ der Stadt Detroit weiterhin neu zu interpretieren, indem er sie mit der zeitgenössischen Clubkultur kreuzte.
 Nicht nur die einzelnen Werke sind attraktiv;
-**Es ist auch wichtig als Methode zur Übersetzung urbaner Erinnerung und schwarzer Spiritualität in Musik**, und seine Existenz wird weiterhin ein Symbol sein, das die Entwicklung der Detroiter Musik unterstützt.
+**Es ist auch wichtig als Methode zur Umsetzung urbaner Erinnerung und schwarzer Spiritualität in Musik**, und seine Existenz wird weiterhin ein Symbol sein, das die Entwicklung der Detroiter Musik unterstützt.
 
 ---
 

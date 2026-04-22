@@ -18,7 +18,7 @@ title: '[Kolumne] Progressive Rock und Anime: Eine epische, sich überschneidend
 
 Text: mmr｜Thema: Progressive Rock, der eine hohe Affinität zu Anime hat
 
-Wenn wir über die Beziehung zwischen Anime und Musik sprechen, fallen uns direkt miteinander verbundene Genres wie J-POP, Idol-Songs, Eurobeat und Electronica ein. Wenn Sie jedoch etwas tiefer graben, werden Sie feststellen, dass **Progressive Rock** eine überraschend starke Affinität hat. Oberflächlich betrachtet scheint es weit von „Anime-Songs“ entfernt zu sein, aber seine lange Struktur, seine schwierigen Rhythmen und seine konzeptalbumartige Erzählweise stimmen tatsächlich in vielerlei Hinsicht mit den Eigenschaften des Anime-Mediums überein.
+Wenn wir über die Beziehung zwischen Anime und Musik sprechen, fallen uns direkt miteinander verbundene Genres wie J-POP, Idol-Songs, Eurobeat und Electronica ein. Wenn Sie jedoch etwas tiefer graben, werden Sie feststellen, dass es eine überraschend starke Affinität zum **Progressive Rock** hat. Oberflächlich betrachtet scheint es weit von „Anime-Songs“ entfernt zu sein, aber seine lange Struktur, seine schwierigen Rhythmen und seine konzeptalbumartige Erzählweise stimmen tatsächlich in vielerlei Hinsicht mit den Eigenschaften des Anime-Mediums überein.
 
 ---
 
@@ -88,14 +88,14 @@ Darüber hinaus sind die westlichen Ideen und religiösen Motive, denen Eva huld
 ### ■ Warum wurde Progressive Rock im Anime nicht zum Mainstream?
 Der Mainstream der Anime-Musik ist jedoch J-POP, Rock, Elektro usw., und es gibt nur wenige Beispiele dafür, dass Progressive Rock in den Vordergrund gerückt wird. Einer der Gründe dafür könnte der **Unterschied zur Kommerzialität** sein. Progressive-Rock-Songs sind oft schwer zu verstehen, lang und haben keine eingängigen Hooks. Es passt nicht gut zu dem „kurzen, wirkungsvollen Haken“, der für Eröffnungen und Enden erforderlich ist.
 
-Andererseits besteht jedoch immer noch Raum dafür, dass Progressive-Rock-Techniken an „Orten mit einem hohen Maß an Freiheit“ wie Soundtracks, OVAs und Filmversionen weiterbestehen. Angesichts des Aufstiegs von Post-Rock und Progressive Metal in den letzten Jahren sind die Möglichkeiten sogar noch größer.
+Andererseits gibt es jedoch immer noch Raum dafür, dass Progressive-Rock-Techniken an „Orten mit einem hohen Maß an Freiheit“ wie Soundtracks, OVAs und Filmversionen weiterbestehen. Angesichts des Aufstiegs von Post-Rock und Progressive Metal in den letzten Jahren sind die Möglichkeiten sogar noch größer.
 
 ---
 
 ### ■ Was wäre, wenn Progressive Rock in den Anime eingedrungen wäre?
 Stellen Sie sich das einfach vor.
 - Symphonischer Progressive Rock, der die Fantasiewelt von Hayao Miyazakis Werken unterstützt.
-- King-Crimson-artiges schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
+- King-Crimson-ähnliches, schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
 - Stellen Sie sich langfristige Serienwerke als Alben vor und entwerfen Sie Musik mit Progressive-Rock-Suiten für jede Staffel.
 
 Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombination aus Musikgenres und visuellen Ausdrucksformen, sondern hat das Potenzial, sich auf die strukturelle Gestaltung der gesamten Geschichte auszudehnen.

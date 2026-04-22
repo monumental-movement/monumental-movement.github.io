@@ -50,7 +50,7 @@ color: #fff;
 
 ### Sound aus der Gemeinde
 
-Amapianos Ursprünge liegen in der Township-Kultur Südafrikas am Stadtrand. Vor allem in den Gebieten Johannesburg und Pretoria existierte Musik schon immer als etwas „Nebenlebens“.
+Amapianos Ursprünge liegen in der Township-Kultur Südafrikas am Stadtrand. Besonders in den Gebieten Johannesburg und Pretoria existierte Musik schon immer als etwas „Nebenlebens“.
 
 Seit den 1990er Jahren suchen junge Menschen nach neuen Ausdrucksmöglichkeiten in einer Post-Apartheid-Gesellschaft. Dabei spielte das Kwaito-Genre eine wichtige Rolle. Das langsame Tempo und die sich wiederholenden Beats beeinflussten direkt das spätere Amapiano.
 
@@ -86,7 +86,7 @@ Viele der Tracks verfügen bewusst über eine reduzierte Anzahl an Sounds. Hi-Ha
 
 Dieser Leerraum gibt dem Zuhörer Raum für Fantasie. Gleichzeitig wird es zum Bewegungsraum für Tänzer.
 
-Mit anderen Worten, der Mangel an Klang ist kein „Mangel“, sondern ein „Design“.
+Mit anderen Worten: Der Mangel an Klang ist kein „Mangel“, sondern ein „Design“.
 
 ### Global übersetzbar
 
@@ -142,7 +142,7 @@ Traditionell veröffentlichten Künstler Musik und die Medien verbreiteten sie. 
 
 Dadurch werden „Treffer“ nicht mehr geplant, sondern später entdeckt.
 
-> Amapiano ist zu einer Musik geworden, die durch Algorithmen und Benutzeraktionen auf natürliche Weise wächst.
+> Amapiano ist zu einer Musik geworden, die auf natürliche Weise durch Algorithmen und Benutzeraktionen wächst.
 
 ---
 
@@ -154,7 +154,7 @@ Derzeit beschleunigt Amapiano seine Fusion mit anderen Genres. Crossover mit Afr
 
 ### Produktionsverfeinerung
 
-Die anfängliche Rauheit wurde nach und nach verfeinert, mit größerer Präzision im Mix und Sounddesign. Andererseits gibt es auch Bewegungen, die bewusst ein Lo-Fi-Feeling hinterlassen.
+Die anfängliche Rauheit wurde nach und nach verfeinert, mit größerer Präzision in der Mischung und im Sounddesign. Andererseits gibt es auch Bewegungen, die bewusst ein Lo-Fi-Feeling hinterlassen.
 
 ### Globale/lokale Wiederverbindung
 

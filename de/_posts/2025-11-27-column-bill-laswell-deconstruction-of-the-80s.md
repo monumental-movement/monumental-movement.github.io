@@ -91,7 +91,7 @@ Laswells größter Wendepunkt in den 1980er Jahren war der Kontakt mit Herbie Ha
 - Etablierung einer Fusion aus Turntablism und Elektro/Jazz
 - Unterstützung der weltweiten Verbreitung der Elektro-Hip-Hop-Kultur
 
-Dieses Werk soll „ein Symbol dafür sein, die Grenzen zwischen 80er-Jahre-Pop und Underground aufzubrechen“.
+Dieses Werk sei „ein Symbol dafür, die Grenzen zwischen 80er-Jahre-Pop und Underground aufzubrechen“.
 
 ---
 

@@ -25,7 +25,7 @@ title: '[Kolumne] Von der Schnittstelle zwischen Disco und japanischer Kultur bi
 Text: mmr｜Thema: Japans einzigartige Rezeption und Entwicklung der Disco, die sich in den 1970er Jahren hauptsächlich in den Vereinigten Staaten entwickelte
 
 
-Disco wurde in den 1970er Jahren in den USA geboren und erlebte zusammen mit der urbanen Kultur, einem Gefühl der Befreiung unter schwarzen und lateinamerikanischen Gemeinschaften sowie technologischen Fortschritten einen regelrechten Aufschwung. Etwa zur gleichen Zeit wurde der „New-York-Trend“ nach Japan importiert und verbreitete sich in Nachtlebenzentren wie Roppongi, Akasaka und Ginza. In diesem Artikel werden wir die Beziehung zwischen Disco und japanischer Kultur jahrzehntelang nachzeichnen und die berühmtesten Platten, Ausrüstung, Clubgeschichte und empfohlenen Titel ordnen.
+Disco wurde in den 1970er Jahren in den Vereinigten Staaten geboren und erlebte zusammen mit der urbanen Kultur, einem Gefühl der Befreiung unter schwarzen und lateinamerikanischen Gemeinschaften und Fortschritten in der Technologie einen regelrechten Aufschwung. Etwa zur gleichen Zeit wurde der „New-York-Trend“ nach Japan importiert und verbreitete sich in Nachtlebenzentren wie Roppongi, Akasaka und Ginza. In diesem Artikel werden wir die Beziehung zwischen Disco und japanischer Kultur jahrzehntelang nachzeichnen und die berühmtesten Platten, Ausrüstung, Clubgeschichte und empfohlenen Titel ordnen.
 
 ---
 
@@ -149,7 +149,7 @@ Auch nach dem Platzen der japanischen Blase entwickelte sich die Disco zu einer 
 Wechsel von „Juliana Tokyo“ zur Shibuya Club Culture. Aus der Disco-Generation entwickelte sich die Club-Generation.
 
 - **Hauptausrüstung**
-- Akai MPC-Serie
+-Akai MPC-Serie
 - Pioneer CDJ-500 (1992)
 -Roland JP-8000
 
@@ -232,7 +232,7 @@ Nu-Disco expandierte weltweit und Künstler wie Caribou und Todd Terje gewannen 
 - **Repräsentatives Meisterwerk (Japan)**
 - Gen Hoshino – *YELLOW DANCER* (2015)
 - KAPSEL – *FESTSTELLTASTE* (2013)
-- tofubeats — *Positiv* (2015)
+- tofubeats – *Positiv* (2015)
 
 - **Beziehung zur japanischen Kultur**
 Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi und andere wurden wiederentdeckt und die Genealogie von Disco und City-Pop verbreitete sich auf eine neue Generation.

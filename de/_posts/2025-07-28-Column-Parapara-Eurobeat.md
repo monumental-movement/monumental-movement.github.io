@@ -78,7 +78,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - „Verknüpfte Produkte“, die ParaPara Floor- und CD-Shops verbinden
 
-- Erläuterungen zur Choreographie werden auf Jacken und Broschüren veröffentlicht.
+- Erläuterungen zur Choreografie werden auf Jacken und Broschüren veröffentlicht.
 
 ● Signiert mit einem exklusiven Eurobeat-Label
 
@@ -96,7 +96,7 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 - Vertrieb von Choreografie-Videos (VHS, später DVD)
 
-- Es erscheinen auch Serien wie „Parapara Paradise“ und „Parapara Kyonen“.
+- Serien wie „Parapara Paradise“ und „Parapara Kyonen“ sind ebenfalls erhältlich.
 
 ● Medienproduktion
 
@@ -119,7 +119,7 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 ● „Aufwachen“ der YouTube-Generation
 
-- Ein zweiter Parapara-Boom findet lokal statt, da frühere Choreografievideos und Lieder online geteilt werden.
+- Ein zweiter Parapara-Boom findet vor Ort statt, da frühere Choreografievideos und Lieder online geteilt werden.
 
 - Es gibt auch Phänomene, bei denen ausländische Fans wiederentdeckt werden und gelobt werden, als wären sie reimportiert worden.
 

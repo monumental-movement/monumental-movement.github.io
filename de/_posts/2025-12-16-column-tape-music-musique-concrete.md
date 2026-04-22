@@ -26,7 +26,7 @@ Vor der konkreten Musik wurde Musik als eine Kombination abstrahierter Elemente 
 
 ### 1.2 Rundfunktechnik und Experimentierraum
 
-Die dem Sender angeschlossene Forschungseinrichtung fungierte anders als der Aufführungsort als Experimentierraum. Die in einem ausschließlich der Reproduktion dienenden Raum gespielten Klänge wurden vom Körper des Interpreten getrennt und der Akt des Zuhörens selbst neu strukturiert.
+Die an den Sender angeschlossene Forschungseinrichtung fungierte anders als der Aufführungsort als Experimentierraum. Die in einem ausschließlich der Reproduktion dienenden Raum gespielten Klänge wurden vom Körper des Interpreten getrennt und der Akt des Zuhörens selbst neu strukturiert.
 
 
 ---
@@ -65,7 +65,7 @@ Durch die extrem nahe Platzierung des Mikrofons an der Schallquelle wurden winzi
 
 ### 3.2 Mehrpunkt-Soundsammlung
 
-Bei der Tonaufnahme mit mehreren Mikrofonen handelte es sich um die Aufnahme einer einzelnen Tonquelle aus verschiedenen Perspektiven und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Bearbeitungsprozess.
+Die Tonaufnahme mit mehreren Mikrofonen war der Vorgang, eine einzelne Tonquelle aus verschiedenen Perspektiven einzufangen und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Bearbeitungsprozess.
 
 ---
 
@@ -113,7 +113,7 @@ Bei Tonbandmusik wurden Verzerrungen, Rauschen und Bearbeitungsspuren nicht bese
 
 ### 7.2 Medienspezifisches Rauschen
 
-Die für Bänder charakteristischen Sättigungs-, Aussetzer- und Gleichlaufschwankungen wurden als Ausdruckselemente unabhängig von der Tonquelle neu bewertet.
+Die für Bänder typischen Sättigung, Aussetzer und Gleichlaufschwankungen wurden als Ausdruckselemente unabhängig von der Tonquelle neu bewertet.
 
 ---
 
@@ -174,7 +174,7 @@ flowchart LR
 
 ## Fazit: Das Herzstück der Aufarbeitung der 1970er Jahre
 
-Tonbandmusik/konkrete Musik wurde in den 1970er Jahren in der Avantgarde-Musik als Grundlage zwischen Improvisation, Noise und elektronischem Klang wiederentdeckt. Die Methodik der Intervention in physischen Medien definierte Musik neu als zeitliches Ereignis, ein Einfluss, der bis heute anhält.
+Tonbandmusik/Konkrete Musik wurde in den 1970er Jahren in der Avantgarde-Musik als Grundlage zwischen Improvisation, Noise und elektronischem Klang wiederentdeckt. Die Methodik der Intervention in physischen Medien definierte Musik neu als zeitliches Ereignis, ein Einfluss, der bis heute anhält.
 
 ---
 

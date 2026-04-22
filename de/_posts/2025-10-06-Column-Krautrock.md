@@ -51,7 +51,7 @@ Seine abstrakte, mathematische Klangkonstruktion vermittelte späteren jungen Me
 
 Die CAN-Gründer Holger Czukay und Irmin Schmidt waren seine Schüler.
 Nachdem sie eine klassische Ausbildung erhalten hatten, betrachteten sie Rock als eine Erweiterung der modernen Musik und nicht als Anti-Kunst.
-Ihr experimenteller Geist verbindet sich mit der Kommunalkultur, die der Studentenbewegung folgte, und das Studio verwandelt sich in einen „sozialen Experimentierort“.
+Ihr Experimentiergeist verbindet sich mit der Kommunalkultur, die der Studentenbewegung folgte, und das Studio verwandelt sich in einen „sozialen Experimentierort“.
 
 > „Wir haben keinen Blues. Wir müssen einfach unseren eigenen Sound machen.“
 > — Holger Czukay (CAN)
@@ -64,7 +64,7 @@ Diese Haltung der Suche nach dem „Sound des eigenen Landes“ war der Ursprung
 
 „Inner Space Studio“ ist ein altes Schloss am Stadtrand von Köln.
 Hier wurde der Mythos von CAN geboren.
-**Jaki Liebezeit**s metronomartiges Schlagzeug,
+**Jaki Liebezeit**'s metronomartiges Schlagzeug,
 **Michael Caroli** Gitarre,
 Und **Damo Suzuki**, ein Sänger, der aus Japan eingewandert ist.
 
@@ -102,7 +102,7 @@ NEU! aus Geldmangel im Studio aufgenommen.
 Das Band rückwärts drehen, die Geschwindigkeit ändern, die Töne ausschneiden und einfügen,
 Es erschütterte die Grenze zwischen „Leben“ und „Maschine“.
 
-> „Motorik ist der Klang der „menschlichen Fortsetzung“, nicht einer Maschine.“
+> „Motorik ist der Klang einer ‚menschlichen Fortsetzung‘, nicht einer Maschine.“
 > — Klaus Dinger
 
 Diese einfache rhythmische Struktur ähnelt David Bowies Berlin-Trilogie.
@@ -122,13 +122,13 @@ Sie schufen neue Musik, indem sie das „Rockformat“ völlig zerstörten.
 Mitglied **Jan Ermler** sagt.
 „Wir haben nicht an Rock geglaubt. Das Einzige, woran wir geglaubt haben, war ‚Aufnahmeband‘.“
 
-Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und erinnert an ein pulsierendes Herz.
+Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und ähnelte einem pulsierenden Herzen.
 Auch die Musik war fragmentiert.
 Die Lieder haben keine Melodie und ähneln eher dem Anhören einer Radiosendung.
 Es war jedoch eine Herausforderung für das eigentliche Gerüst der Popmusik.
 
 Sie waren stark von Pop-Art und Dadaismus beeinflusst.
-Die folgenden Punk-, Industrial- und Sampling-Kulturen basierten alle auf Fausts Genen.
+Die darauf folgenden Punk-, Industrial- und Sampling-Kulturen basierten alle auf Fausts Genen.
 
 > „Zerstörung ist der Anfang der Schöpfung.“
 > — Jan Ermler (Faust)
@@ -169,7 +169,7 @@ Die „Zukunft“, die sie sahen, liegt jetzt in unserer aktuellen Musiklandscha
 ### Revolution im Schweigen
 Einheit **Cluster** von **Dieter Möbius** und **Hans-Joachim Roedelius**.
 Im Gegensatz zu CAN und Faust sind sie kaum „Lärm“ oder „Rock“.
-Der Nachhall und das Atmen der Stadt waren zwischen den anorganischen elektronischen Klängen und der Stille zu spüren.
+Zwischen den anorganischen elektronischen Klängen und der Stille war der Nachhall und Atem der Stadt zu spüren.
 
 Sein Debütalbum Cluster 71 (1971) ist eine Reihe experimenteller Tonbandklänge, aber auch irgendwie meditativ.
 Der Nachfolger „Zuckerzeit“ (1974) wurde von Klaus Dinger von Neu! produziert und führte einen minimalistischen und angenehmen Rhythmus ein.
@@ -221,7 +221,7 @@ Man kann sagen, dass Krautrocks „spirituelles Experiment“ hier seinen religi
 
 Ehemaliger Tangerine Dream-Schlagzeuger und Sucher nach elektronischer Musik **Klaus Schulz**.
 Er erweiterte den Krautrock eher durch Einzelarbeit im Studio als in einer Gruppenumgebung.
-Sie konstruierten lange Tracks, von denen jeder über 30 Minuten dauerte, und kreierten sie so, als wollten sie die Zeit mit Sound „formen“.
+Sie konstruierten lange Tracks, von denen jeder über 30 Minuten dauerte, und schufen so, als wollten sie die Zeit mit Sound „formen“.
 
 Seine Meisterwerke „Timewind“ (1975) und „Moondawn“ (1976) sind elektronische Meditationen mit endlosen Rhythmen und Sequenzern.
 Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum Ausgangspunkt für den „Philosophen der Elektronen“.
@@ -236,7 +236,7 @@ Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum 
 
 Ende der 1970er Jahre erlebte die Jugend in Deutschland erneut einen Wandel.
 Der experimentelle Geist des Krautrock manifestiert sich in Punk und New Wave.
-In Berlin schufen David Bowie und Brian Eno die „Berlin-Trilogie“ und nahmen Krauts Ästhetik auf.
+In Berlin produzierten David Bowie und Brian Eno die „Berlin-Trilogie“ und nahmen Krauts Ästhetik auf.
 
 - Bowies „Low“ (1977) ist eine Fusion von Neu! und Cluster.
 - Joy Division und The Fall haben motorische Rhythmen wieder in den Rock eingebracht.

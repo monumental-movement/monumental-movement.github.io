@@ -282,7 +282,7 @@ C --> D[大衆音楽へ]
 | 1990er Jahre | Ausbau der elektronischen Experimentalmusik |
 | 2000er | Popularisierung digitaler Musik |
 
-> Die Geschichte der experimentellen Musik war schon immer eine Geschichte, in der es darum ging, die Grenzen der Musik zu verschieben.
+> In der Geschichte der experimentellen Musik ging es immer darum, die Grenzen der Musik zu verschieben.
 
 ---
 

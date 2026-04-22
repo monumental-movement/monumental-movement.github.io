@@ -172,7 +172,7 @@ timeline
 ## Fazit: Der Schlag wehte aus dem Süden
 
 Als „Dance Raja Dance“ 1987 gegründet wurde, hatte Indien noch keine wirtschaftliche Liberalisierung erlebt.
-Der „Atem der Befreiung“ hallte jedoch bereits im Rhythmus von Musik und Tanz wider.
+Doch im Rhythmus von Musik und Tanz hallte bereits der „Atem der Befreiung“ wider.
 
 Vijaya Anands Leistung liegt darin, Musik als Vorbote gesellschaftlichen Wandels zu nutzen.
 Seine Disco-Beats waren nicht nur Unterhaltung, sondern eine Erklärung dafür, dass Südindien seine eigene kulturelle Zukunft tanzen sollte.

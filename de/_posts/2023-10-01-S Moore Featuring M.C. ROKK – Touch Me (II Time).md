@@ -13,7 +13,7 @@ title: S Moore mit M.C. ROKK – Touch Me (II-Zeit)
 ---
 
 
-„Touch Me (II Time)“ ist eine EP von S Moore, mit bürgerlichem Namen Sandro Murru, die 1999 auf dem italienischen Label „Hot Trax“ veröffentlicht wurde.
+„Touch Me (II Time)“ ist eine EP von S Moore, richtiger Name Sandro Murru, die 1999 auf dem italienischen Label „Hot Trax“ veröffentlicht wurde.
 
 #### Trackliste
 ```md

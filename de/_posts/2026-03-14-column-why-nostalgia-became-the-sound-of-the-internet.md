@@ -33,7 +33,7 @@ YouTube, Blogs, soziale Medien und Streaming.
 Da Musik aus allen Epochen nun gleichzeitig zugänglich ist, wird Musik zunehmend als „Archiv der Zeit“ und nicht mehr als „Gegenwart“ konsumiert.
 
 Disco der 1970er Jahre, Synthie-Pop der 1980er Jahre, R&B der 1990er Jahre, Indie-Rock der 2000er Jahre.
-Sie alle reihen sich auf derselben Zeitachse auf.
+Sie alle reihen sich auf der gleichen Zeitachse auf.
 
 In dieser Situation wird Musik nicht als etwas Neues, sondern als Zeitschichten erlebt.
 Und das Gefühl, das all diese Schichten durchdrang, war Nostalgie.
@@ -63,7 +63,7 @@ color: #fff;
 
 ### Ein Kulturkonzept, das seit dem 19. Jahrhundert existiert
 
-Das Wort Nostalgie entstand im 17. Jahrhundert als medizinischer Begriff.
+Das Wort „Nostalgie“ entstand als medizinischer Begriff im 17. Jahrhundert.
 Der Begriff wurde vom Schweizer Arzt Johannes Hofer geprägt, um den psychischen Zustand zu beschreiben, den Soldaten außerhalb der Heimat erleben.
 
 Die Etymologie ist
@@ -133,7 +133,7 @@ Dadurch entsteht bei den Menschen ein gemeinsames „Pseudogedächtnis“.
 
 ## Nostalgie als Musikgenre
 
-### Das Aufkommen von Vaporwave
+### Das Aufkommen der Dampfwelle
 
 Anfang der 2010er Jahre wurde aus dem Internet ein Musikgenre geboren.
 
@@ -156,7 +156,7 @@ Vaporwave ist
 * Konsumkultur
 * Digitale Gesellschaft
 
-Es begann als eine Kunst, die persifliert.
+Es begann als eine satirische Kunst
 
 Aber gleichzeitig hat dieses Genre ein starkes Gefühl der Nostalgie erzeugt.
 
@@ -189,7 +189,7 @@ In den späten 2010er Jahren verbreitete sich eine andere Form der Nostalgiemusi
 Diese Musik ist
 
 * Lärm aufzeichnen
-*Bandverzerrung
+* Bandverzerrung
 * alte Jazz-Samples
 
 Es zeichnet sich durch solche Dinge aus.
@@ -242,7 +242,7 @@ Das Internet bietet Unmengen an Musik, erzeugt aber auch Müdigkeit.
 Die zweite ist **Identitätsstabilität**.
 Nostalgische Musik vermittelt ein Gefühl der Sicherheit in einer sich schnell verändernden Gesellschaft.
 
-Das dritte ist **Bewunderung für Analoges**.
+Das dritte ist **Bewunderung für das Analoge**.
 Digitale Perfektion kann manchmal kalt wirken.
 
 Als Reaktion darauf entstand die Nostalgiemusik.

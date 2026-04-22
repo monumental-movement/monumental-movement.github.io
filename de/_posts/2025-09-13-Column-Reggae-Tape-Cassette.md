@@ -54,7 +54,7 @@ Kompaktkassetten, die Anfang der 1970er Jahre unter dem Philips-Standard eingef�
 
 ---
 
-## 1980er Jahre – Goldenes Zeitalter der Kassettenkultur und Verbreitung von Reggae
+## 1980er – Goldenes Zeitalter der Kassettenkultur und Verbreitung von Reggae
 
 - **Popularisierung von Kassetten**
 In den 1980er Jahren wurden Kassetten zum weltweit beliebtesten Musikmedium. Günstig und leicht zu transportieren, ist es mit dem Aufkommen von Wiedergabegeräten wie Radiokassettenspielern und Walkmans weitaus bekannter geworden als Schallplatten.
@@ -110,7 +110,7 @@ Eine Liste berühmter Aufnahmen, die die Reggae-Kassettenkultur symbolisieren. D
 
 ## Repräsentative Reggae-Künstler nach Epoche
 
-Die Klänge repräsentativer Künstler, die eng mit der Kassettenkultur verbunden sind, sind nach Epochen geordnet.
+Die Klänge repräsentativer Künstler, die eng mit der Kassettenkultur verbunden sind, sind nach Jahrzehnten geordnet.
 
 | Ära | Repräsentative Künstler/Sounds | Eigenschaften |
 |------|-------------|------|
@@ -149,7 +149,7 @@ Die Verbreitung von Reggae und Kassettenkultur wird parallel als Bewegungen inne
 
 | Alter | Bewegungen in Jamaika | Bewegungen in Japan |
 |------|-----|-------------|
-| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae wurde in begrenztem Umfang eingeführt und es gibt noch immer fast keine allgemeine Anerkennung. |
+| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae ist in begrenztem Umfang bekannt und es gibt noch fast keine allgemeine Anerkennung. |
 | 1970er Jahre | Die Soundsystem-Kultur erweitert sich. Kompaktkassetten beginnen einzuströmen. | Bob Marley wird durch einige Musikzeitschriften und importierte Plattenläden vorgestellt. |
 | 1980-82 | Die Kassettenaufnahme nahm im Bereich der Tonsysteme rasch zu. Auf der Straße verteilt. | Einige Plattenläden in Tokio und Osaka beginnen, aus Jamaika mitgebrachte Kassetten inoffiziell zu vertreiben. |
 | 1985 | Das Riddim „Sleng Teng“ wird eingeführt und das digitale Zeitalter beginnt. Beschleunigt die Kassettenaufnahme. | Der Import lokaler Aufnahmekassetten durch Überseereisende und DJs nimmt zu und sie werden in der Clubszene eingesetzt. |

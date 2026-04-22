@@ -73,7 +73,7 @@ Dies spiegelte die amerikanische „Kultur der Geschwindigkeit“ der 1970er Jah
 ## ■ Motorgeräusch = ein weiterer Rock-Sound
 
 Hardrock wird von mehr als nur explosiven Gitarren und schwerem Schlagzeug getragen.
-Für die Fans war der Klang des Motors selbst „eine andere Art von Rock’n’Roll“.
+Für die Fans war der Sound des Motors selbst „eine andere Art von Rock’n’Roll“.
 
 - **Das Dröhnen des V8-Motors** schwingt mit dem Gitarrenriff mit und vermittelt dem Hörer ein Gefühl der körperlichen Befreiung.
 - Das Geräusch eines Motors ist „unkontrollierter Lärm“ und überschneidet sich mit dem rebellischen Geist des Rock, da er die soziale Ordnung und Stille stört.
@@ -87,14 +87,14 @@ Das Dröhnen der wegfahrenden Autos und Motorräder war selbst ein musikalisches
 Diese Komposition aus „Hardrock x Auto-/Motorradkultur“ wurde ebenfalls einzigartig in Japan entwickelt.
 Bosozoku, das in der japanischen Jugendkultur von Ende der 1970er bis 1980er Jahre auftauchte, hatte einen ähnlichen Geist wie die amerikanische Outlaw-Kultur, da sie im Inland hergestellte Motorräder anstelle von Harleys als Hauptstütze verwendeten, sich aber durch Motorengeräusche und -geräusche ausdrückten.
 
-Viele japanische Hardrock-Fans und Heavy-Metal-Enthusiasten haben Motorräder und umgebaute Autos zu einem Teil ihres Lebensstils gemacht, und die Resonanz zwischen Musik und Motorkultur war in der japanischen Gesellschaft sicherlich lebendig und gut. Man kann sagen, dass dies das Ergebnis der Überlagerung der amerikanischen „Freiheitssehnsucht“ mit der „kriminellen Kultur“ Japans ist.
+Viele japanische Hardrock-Fans und Heavy-Metal-Enthusiasten haben Motorräder und umgebaute Autos als Teil ihres Lebensstils integriert, und die Resonanz zwischen Musik und Motorkultur war in der japanischen Gesellschaft sicherlich lebendig und gut. Man kann sagen, dass dies das Ergebnis der Überlagerung der amerikanischen „Freiheitssehnsucht“ mit der „kriminellen Kultur“ Japans ist.
 
 ---
 
 ## ■ Resonanz zwischen Musik und Autokultur
 
 Um Hardrock zu verstehen, geht es nicht nur darum, sich Alben anzuhören.
-Die Existenz von „Harleys, die die Straße hinunterfahren“ und „Muscle Cars, die durch die Nacht schneiden“ ist von wesentlicher Bedeutung, und die Kombination ihrer visuellen und dröhnenden Geräusche bildet das kulturelle Gesamtbild.
+Die Existenz von „Harleys, die die Straße entlangfahren“ und „Muscle Cars, die durch die Nacht schneiden“ ist von wesentlicher Bedeutung, und die Kombination ihrer visuellen und dröhnenden Geräusche bildet das kulturelle Gesamtbild.
 
 Wenn das Dröhnen des Motors und das Gitarrenriff mitschwingen, erschüttert die Musik nicht nur die Hörsinne, sondern den gesamten Körper und macht das Publikum zum „Erlebenden“. Hier liegt der Kern des Hardrocks wie in keinem anderen Genre.
 
@@ -134,7 +134,7 @@ Wenn das Dröhnen des Motors und das Gitarrenriff mitschwingen, erschüttert die
 
 | Songtitel | Künstler | Kommentar |
 |------|---------------|------|
-| Kickstart mein Herz | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
+| Kickstart My Heart | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
 | Verrückter Zug | Ozzy Osbourne | Ein rasantes Riff, das zum Fahren geeignet ist. |
 | Von einem Gebet leben | Bon Jovi | Singt über Jugend- und Roadmovie-Szenen. |
 | Pik-Ass | Motörhead | Lieder, die am engsten mit der Motorradkultur verbunden sind. |
@@ -157,7 +157,7 @@ Andererseits haben sich in Europa und Japan Stile entwickelt, die Lyrik und Tech
 | Künstler | Album | Erscheinungsjahr | Funktionen |
 |-------------|----------|---------|------|
 | Guns N‘ Roses | Benutze deine Illusion I & II | 1991 | Ein Meisterwerk, das Hardrock und Balladen vereint |
-| Metallica | Schwarzes Album | 1991 | „Enter Sandman“ durchbricht die Grenze zwischen Metal und Rock |
+| Metallica | Schwarzes Album | 1991 | Mit „Enter Sandman“ | durchbrechen sie die Grenzen zwischen Metal und Rock
 | Foo Fighters | Die Farbe und die Form | 1997 | Rockhymne der neuen Generation nach Grunge |
 | Audioslave | Audioslave | 2002 | Rage x Soundgarden Crossover |
 | Samtrevolver | Schmuggelware | 2004 | Rückkehr ehemaliger GNR-Mitglieder zum klassischen Rock nach den 90ern |
@@ -179,7 +179,7 @@ Andererseits haben sich in Europa und Japan Stile entwickelt, die Lyrik und Tech
 
 ## Hardrock und Outlaw-Lifestyle
 
-Hardrock ist mehr als nur ein Musikgenre und wird oft als „Lifestyle“ bezeichnet. Symbolisch dafür sind amerikanische Muscle-Cars und Harley-Davidson.
+Hardrock ist mehr als nur ein Musikgenre und wird oft als „Lifestyle“ bezeichnet. Symbol dafür sind amerikanische Muscle-Cars und Harley-Davidson.
 Das Dröhnen des großvolumigen Motors hallt durch die Stadt und ähnelt der Verzerrung eines Gitarrenverstärkers. Als ob Musik und Maschinen auf der gleichen Frequenz schwingen, stellen Fahrer und Fahrer ihre Präsenz zur Schau.
 
 Es ist auch eng mit der Outlaw-Kultur verbunden. Biker-Banden und die Straßenkultur der 70er Jahre hatten oft Hardrock als Soundtrack. Der Wunsch nach Freiheit und Abweichung von der Norm ist Ausdruck starker, unwiderstehlicher Impulse, genau wie ein Hardrock-Gitarrenriff.
@@ -198,9 +198,9 @@ Die Kultur von Harley-Davidson und amerikanischen Muscle-Cars hat die japanische
 
 | Künstler | Lied | Erscheinungsjahr | Funktionen |
 |--------------|------|--------|------|
-| LAUTHEIT | Verrückte Nächte | 1985 | Ein monumentales Stück japanischer Hardrock, das sich auf der ganzen Welt ausgebreitet hat |
+| LAUTHEIT | Verrückte Nächte | 1985 | Ein monumentales Stück japanischer Hardrock, das sich in der ganzen Welt ausgebreitet hat |
 | X JAPAN | Rostiger Nagel | 1994 | Symphonischer und lyrischer Hardrock |
-| B’z | LIEBE PHANTOM | 1995 | Fusion aus Hardrock- und J-POP-Melodien |
+| B'z | LIEBE PHANTOM | 1995 | Fusion aus Hardrock- und J-POP-Melodien |
 | SEX-MASCHINENGEWEHRE | Deutsche Macht | 1998 | Japanischer HR-Vertreter der 90er Jahre mit Humor und Spannung |
 | Dir und grau | Unklar | 2003 | Düster und avantgardistisch, international gefeiert |
 

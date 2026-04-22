@@ -10,7 +10,7 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Good Groove w Soul – Funkin' You4
+title: Guter Groove mit Soul – Funkin' You4
 ---
 
 

@@ -98,7 +98,7 @@ D --> E[仕上げ]
 
 Besonders wichtig ist die Bearbeitung des Rohrblattteils, da leichte Unterschiede in Dicke und Form den Klang stark beeinflussen können. Daher bestimmen das Können und die Erfahrung des Produzenten die Klangqualität.
 
-Manchmal ist es auch mit Schnitzereien verziert und hat nicht nur als Musikinstrument, sondern auch als Kunsthandwerk einen Wert.
+Manchmal ist es auch mit Schnitzereien verziert, was es nicht nur als Musikinstrument, sondern auch als Kunsthandwerk wertvoll macht.
 
 > Mukkuri ist ein Produkt präziser Handarbeit, das Handwerk und Akustiktechnologie vereint.
 
@@ -127,7 +127,7 @@ Aus diesem Vergleich lässt sich erkennen, dass die Mukkuri auch unter den unive
 
 Mit dem Fortschreiten der Modernisierung erfuhr die Ainu-Kultur große Veränderungen. Mukkuri ist da keine Ausnahme, und irgendwann stand seine Tradition kurz vor dem Aussterben.
 
-Ab der zweiten Hälfte des 20. Jahrhunderts begann jedoch im Zuge der Bewegung zur kulturellen Wiederbelebung eine Neubewertung von Mukkuri. Die Möglichkeiten für Aufführungen in den Bereichen Bildung, Tourismus und darstellende Kunst haben zugenommen und es erregt erneut Aufmerksamkeit.
+Ab der zweiten Hälfte des 20. Jahrhunderts begann jedoch eine Neubewertung von Mukkuri im Zuge der Bewegung zur kulturellen Wiederbelebung. Es erregt erneut Aufmerksamkeit, da es zunehmend in der Bildung, im Tourismus und in den darstellenden Künsten aufgeführt wird.
 
 Darüber hinaus hat sich der Mukkuri-Sound mit der Entwicklung der Aufnahmetechnologie sowohl im Inland als auch international verbreitet und sein Wert als Volksmusik wurde anerkannt.
 
@@ -174,7 +174,7 @@ Dadurch ist es eher eine Musik, die man „fühlen“ kann, statt sie anzuhören
 
 In der modernen Gesellschaft bedeutet die Mukkuri mehr als nur ein traditionelles Musikinstrument.
 
-Während digitale Musik und elektronische Klänge zum Mainstream werden, stellen körperbezogene Klänge wie Mukkuri kontrastierende Werte dar. Es gibt Unmittelbarkeit, Zufall und Individualität.
+Während digitale Musik und elektronische Klänge zum Mainstream werden, stellen körperbasierte Klänge wie Mukkuri gegensätzliche Werte dar. Es gibt Unmittelbarkeit, Zufall und Individualität.
 
 Darüber hinaus ist die Art und Weise, wie aus einer minimalistischen Struktur eine reichhaltige Akustik geschaffen werden kann, für die Produktion zeitgenössischer Musik von großem Nutzen.
 

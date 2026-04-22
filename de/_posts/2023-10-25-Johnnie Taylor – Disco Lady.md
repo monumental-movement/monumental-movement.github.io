@@ -16,7 +16,7 @@ title: Johnnie Taylor – Disco Lady
 
 „Disco Lady“ ist Johnnie Taylors größter Hit. Der Produzent ist Don Davis.
 
-Der Song enthält Gastauftritte des Parliament-Funkadelic-Bassisten Bootsy Collins, des Keyboarders Bernie Worrel, des Gitarristen Glenn Goins und des Schlagzeugers Tiki Fulwood.
+Der Song enthält Gastauftritte von Parliament-Funkadelic-Bassist Bootsy Collins, Keyboarder Bernie Worrel, Gitarrist Glenn Goins und Schlagzeuger Tiki Fulwood.
 
 #### Trackliste
 ```md

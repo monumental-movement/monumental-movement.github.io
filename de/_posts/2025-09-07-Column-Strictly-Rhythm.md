@@ -42,7 +42,7 @@ color: #fff;
 
 ## 1989-1992: Geburt und „NY Local Experiment Station“-Zeitraum
 
-**Historischer Hintergrund**: House/Techno, das in Chicago und Detroit entstanden war, hielt Anfang der 1990er Jahre Einzug in New Yorker Clubs. Es war eine Zeit, in der die Clubkultur im Begriff war, kommerzialisiert zu werden, und es blieb ein Underground-Experimentiergeist bestehen.
+**Historischer Hintergrund**: House/Techno, der in Chicago und Detroit entstanden war, hielt Anfang der 1990er Jahre Einzug in New Yorker Clubs. Es war eine Zeit, in der die Clubkultur im Begriff war, kommerzialisiert zu werden, und es blieb ein Underground-Experimentiergeist bestehen.
 
 **Was ist passiert**: 1989 von Mark Finkelstein und Gladys Pizarro gegründet. Seit unserer Gründung konzentrieren wir uns auf DJ-orientierte 12-Zoll-Musik und produzieren Sound, der direkt auf die Tanzfläche trifft und in örtlichen Clubs beliebt ist.
 
@@ -120,7 +120,7 @@ DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu 
 |---|---|---|---|
 | 1 | Wamdue-Projekt | König meines Schlosses | Ein Welthit, eine exquisite Fusion aus Melodie und Rhythmus. |
 | 2 | Barbara Tucker | Hör auf, mit meinem Verstand zu spielen | Groove-Deep-House mit Gesang als Hauptdarsteller. | 2 | Barbara Tucker | Hör auf, mit meinem Verstand zu spielen | |
-| 3 | George Morel | Let's Groove 98 | Veröffentlicht 1998 mit einem modernen Arrangement. |
+| 3 | George Morel | Let’s Groove 98 | Veröffentlicht 1998 mit einem modernen Arrangement. |
 | 4 | Rollenleute | Der Regen | Ein Werk, das jazzige Elemente und House-Beats vereint. |
 | 5 | Groove Armada | Superstylin’ | Funkiger und energiegeladener Clubsong. |
 | 6 | Armand Van Helden | Du kennst mich nicht | Melodischer House, ein Klassiker im Club. |
@@ -173,7 +173,7 @@ Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuaufl
 
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
-| 1 | Könige von morgen | Endlich (Remaster 2014) | Traditioneller Deep House neu gemastert, sanfte Klangqualität. |
+| 1 | Könige von morgen | Endlich (Remaster 2014) | Traditioneller Deep House neu gemastert mit sanfter Klangqualität. |
 | 2 | Dennis Ferrer | Maniac 3000 | Verfügt über einen modernen und raffinierten House-Beat. |
 | 3 | Quentin Harris | Meine Freude (Neubearbeitung) | Deep House für Clubs neu aufgelegt. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | Eine Neuinterpretation des Vocal-House voller Emotionen. |
@@ -219,5 +219,5 @@ Strictly Rhythm vermittelt A&R ein umfassendes Verständnis dafür, „was in ei
 - Wikipedia: Streng Rhythmus
 - Red Bull Music Academy: Gladys Pizarro
 - Resident Advisor / XLR8R: Etikettenschließung/-rekonstruktion
-- Offizielle BMG-Neuigkeit: Übernahme des Strictly Rhythm-Katalogs
+- Offizielle BMG-Neuigkeiten: Übernahme des Strictly Rhythm-Katalogs
 - Interview mit Todd Terry / Masters At Work: Ausrüstung und Produktionsmethoden

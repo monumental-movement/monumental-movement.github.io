@@ -42,11 +42,11 @@ color: #fff;
 
 ## Kapitel 1: Mikrotöne und die Vorgeschichte des Jazz
 
-### 1-1 Historische Position des mikrotonalen Intervalls
+### 1-1 Historische Stellung mikrotonaler Intervalle
 
-Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoräischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der 12-Temperament-Stimmung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
+Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoreischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der 12-Temperament-Stimmung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
 
-Zu Beginn des 20. Jahrhunderts begannen Komponisten, gezielt mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
+Zu Beginn des 20. Jahrhunderts begannen Komponisten, absichtlich mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
 
 ### 1-2 Blues und Tonhöhenmehrdeutigkeit
 
@@ -98,7 +98,7 @@ flowchart TD
 
 ### 3-3 Leistungsanalyse: Mikrotonale Manipulation bei Blasinstrumenten
 
-Maneris Spiel nutzt eine Kombination aus Fingersatz und Ansatz, um eine äußerst präzise Tonhöhenmanipulation zu erreichen. Die Tonhöhen werden als sanfte Kurven und nicht als Schritte behandelt, und die gesamte Phrase ist als eine Reihe kontinuierlicher Änderungen aufgebaut.
+Maneris Spiel nutzt eine Kombination aus Fingersatz und Ansatz, um eine äußerst präzise Tonhöhenmanipulation zu erreichen. Die Tonhöhen werden als sanfte Kurven und nicht als Stufen behandelt, und die gesamte Phrase ist als eine Reihe kontinuierlicher Änderungen aufgebaut.
 
 Bei der Improvisation werden Spannung und Entspannung dadurch erzeugt, dass die Tonhöhendichte erhöht und verringert wird, während ein bestimmtes Tonzentrum mehrdeutig bleibt. Diese Methode vermittelt dem Zuhörer ein anderes Zeitgefühl als traditioneller tonaler Jazz.
 
@@ -138,7 +138,7 @@ flowchart TB
 
 ### 4-3 Leistungs-/Arrangementanalyse
 
-Im Ansatz von Collier können einzelne Stimmen unterschiedliche Klangannahmen haben. Obwohl das Ganze mikrotonal ist, behält jeder Teil seine logische Konsistenz bei. Dabei handelt es sich eher um eine hochkonstruierte Ensembleoperation als um eine Improvisation.
+Im Ansatz von Collier können einzelne Stimmen unterschiedliche Klangannahmen haben. Obwohl das Ganze mikrotonal ist, behält jeder Teil seine logische Konsistenz bei. Dabei handelt es sich eher um eine hochkonzipierte Ensembleoperation als um Improvisation.
 
 ---
 

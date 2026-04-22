@@ -20,7 +20,7 @@ title: '[Kolumne] Madvillain „Madvillainy“ ─ Hip-Hop-Mythos des 21. Jahrhu
 
 文：mmr｜テーマ：ヒップホップという形式そのものを解体した後に、再構築する“音の迷宮”である[『Madvillainy』](https://amzn.to/3JhySfH)について考察
 
-Im Frühjahr 2004 stellte ein von einem kleinen Label in Los Angeles, **Stones Throw Records**, veröffentlichtes Album stillschweigend die konventionelle Meinung des Hip-Hop auf den Kopf.
+Im Frühjahr 2004 stellte ein von einem kleinen Label in Los Angeles, **Stones Throw Records**, veröffentlichtes Album stillschweigend die herkömmliche Meinung des Hip-Hop auf den Kopf.
 **Madvillain [『Madvillainy』](https://amzn.to/3JhySfH)**――それは、**ラップアルバムでありながら、詩集でもあり、電波を通じたサウンド・コラージュでもある。**
 
 Zu Beginn des 21. Jahrhunderts bewegte sich der amerikanische Hip-Hop in Richtung der extravaganten „Markenkultur“, die durch Jay-Z und 50 Cent symbolisiert wurde. Auf der anderen Seite geht es in diesem Album um Anonymität und die Poetik von Fragmenten und es hat tiefe Wurzeln im Untergrund der Welt.
@@ -50,16 +50,16 @@ color: #fff;
 Madlib (richtiger Name Otis Jackson Jr.) ist ein „Sampler-Poet“, der musikalisches Chaos alchemisiert.
 Seine Beats basieren nicht auf einem systematischen Rhythmus, sondern werden von einer „Ästhetik des Zufalls“ dominiert. Alte Schallplatten, Tonarchive aus Bibliotheken, Anime-Soundeffekte – all das kann als Material verwendet werden.
 
-Besonders in dieser Arbeit ist **SP-303 Dr. Sample** der Schlüssel. Obwohl es günstiger und Lo-Fi-fähiger ist als ein typischer MPC, behält Madlib aktiv seine raue Textur**. Indem sie die Tonhöhe des Samplings veränderten und den Loop leicht schwanken ließen, erreichten sie eine „Instabilität, die bei einer Live-Performance nicht reproduziert werden kann“.
+Besonders in dieser Arbeit ist **SP-303 Dr. Sample** der Schlüssel. Obwohl es günstiger und Lo-Fi-fähiger ist als ein typischer MPC, behält Madlib aktiv seine raue Textur**. Indem sie die Tonhöhe des Samplings veränderten und den Loop leicht schwanken ließen, erreichten sie eine „Instabilität, die bei einer Live-Aufführung nicht reproduziert werden kann“.
 
 ### MF DOOM: Der maskierte Dichter
 MF DOOM (richtiger Name Daniel Dumile) wurde aus einer Tragödie geboren.
-Als er Anfang der 1990er Jahre als KMD debütierte, verlor er seinen jüngeren Bruder Subroc bei einem Unfall und sein Vertrag mit dem Label wurde gekündigt.
+Als er Anfang der 1990er Jahre als KMD debütierte, verlor er seinen jüngeren Bruder Subroc bei einem Unfall und sein Vertrag mit dem Label endete.
 Er schwieg mehrere Jahre lang und kehrte mit einer Metallmaske zurück. **
 
 DOOM machte die Maske zu einem Symbol für „Schöpfung“ und nicht für „Flucht“.
 Seine Texte sind voller komplexer Versmaße, Binnenreime und Metaphern und eine Mischung aus literarischer Struktur und Streetstyle.
-Im „Figaro“ beispielsweise klingen die Vokalkette und der Konsonantenrhythmus wie ein Instrument. Er war ein Rapper, der Wörter nicht als „Bedeutungen“, sondern als „Geräusche“ manipulierte.
+Im „Figaro“ zum Beispiel klingen die Vokalkette und der Rhythmus der Konsonanten wie ein Instrument. Er war ein Rapper, der Wörter nicht als „Bedeutungen“, sondern als „Geräusche“ manipulierte.
 
 ---
 
@@ -83,7 +83,7 @@ Die akustischen Eigenschaften lassen sich in den folgenden drei Punkten zusammen
 2. **Räumliche Komprimierung**: Minimieren Sie Hall und räumliche Verarbeitung, um den Abstand zwischen Samples nahe Null zu bringen.
 3. **Frequenzverzerrung**: Erzeugt einen **VHS-ähnlichen Klang**, bei dem die hohen Frequenzen durch den umfassenden Einsatz von SP-303-Effekten entfernt werden.
 
-Auch hier handelt es sich um eine „**Rekordrekonstruktion**“ von Madlib. Er betrachtete den Lärm und das Knistern alter Aufnahmen als „Komponenten“ und nicht als „Materialien“ und verwandelte Hip-Hop in eine Archäologie des Klangs.
+Auch hier handelt es sich um eine „**Rekordrekonstruktion**“ von Madlib. Er betrachtete den Lärm und das Knistern alter Aufnahmen als „Bestandteile“ und nicht als „Materialien“ und verwandelte Hip-Hop in eine Archäologie des Klangs.
 
 ---
 
@@ -213,7 +213,7 @@ flowchart TD
 [『Madvillainy』](https://amzn.to/3JhySfH)は、ヒップホップという形式そのものを解体した後に、再構築する“音の迷宮”である。
 Es gibt keinen „Abschluss“ oder „Ende“.
 Gesampelte Klänge gewinnen wieder an Bedeutung, auch wenn sie ihren Ursprung verlieren.
-Die von DOOM hinterlassene Maske leuchtet immer noch in Underground-Studios auf der ganzen Welt.
+Die Maske, die DOOM hinterlassen hat, leuchtet immer noch in Underground-Studios auf der ganzen Welt.
 
 > „Es ist nicht so verrückt wie der Bösewicht.“
 > MF DOOM

@@ -11,8 +11,8 @@ tags:
 - CD
 - Cassette
 - History
-title: '[Kolumne] „Vom Geräusch einer Nadel bis zum Strömen lebt der Klang im Laufe
-  der Zeit weiter.“ Von der Ära des Zurückspulens zur Ära des unendlichen Überspringens'
+title: '[Kolumne] „Vom Klang einer Nadel bis zum Strömen lebt der Klang im Laufe der
+  Zeit weiter.“ Von der Ära des Zurückspulens zur Ära des unendlichen Überspringens'
 ---
 
 
@@ -167,7 +167,7 @@ Hören: Fast klar, aber im Vergleich zu einer CD kann es sich etwas komprimiert 
 
 #### Datensätze
 
-Aktuelle Situation: Weltweit erholen sich die Verkäufe von analogen Schallplatten stetig, wobei der Schwerpunkt auf der Vintage-Nachfrage und der klangqualitätsorientierten Bevölkerungsgruppe liegt. Besonders bei jungen Menschen macht sich die analoge Regression bemerkbar.
+Aktuelle Situation: Weltweit erholen sich die Verkäufe analoger Schallplatten stetig, wobei der Schwerpunkt auf der Vintage-Nachfrage und der auf Klangqualität ausgerichteten Bevölkerungsgruppe liegt. Besonders bei jungen Menschen macht sich die analoge Regression bemerkbar.
 
 Zukunft: Mit der Unterstützung von Enthusiasten analoger Tonquellen wird ein kleiner, aber nachhaltiger Markt erwartet. Auch Hybridprodukte (analog + digital) sind verfügbar.
 
@@ -196,7 +196,7 @@ Zukunft: Obwohl es als verpacktes Medium schrumpft, liegt der Schlüssel darin, 
 
 Aktueller Stand: Fast vom Markt verschwunden. Auch in Japan gehört eine gewisse Unterstützung der Vergangenheit an.
 
-Zukünftig: Es bleibt nur noch für eine begrenzte Zeit zur Konservierung oder als Hobby übrig.
+Zukünftig: Es wird nur noch für eine begrenzte Zeit zur Konservierung oder als Hobby verbleiben.
 
 
 <hr>
@@ -212,7 +212,7 @@ Dolby Atmos ist eine objektbasierte 3D-Soundtechnologie, die über den herkömml
 
 Eine Schallbildplatzierung in Höhenrichtung ist möglich
 
-Verbessert das Live-Feeling und das Präsenzgefühl von Filmen, Spielen und Musik erheblich
+Verbessert das Live-Feeling und das Gefühl der Präsenz von Filmen, Spielen und Musik erheblich
 
 Kann in Heimkinos, Kopfhörern und Smartphones abgespielt werden
 

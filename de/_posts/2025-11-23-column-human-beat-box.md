@@ -57,7 +57,7 @@ Seit den 2000er Jahren hat sich eindeutig eine globale Turnierkultur herausgebil
 Eine Weltmeisterschaft in Deutschland. Es wird mehrere Kategorien geben, z. B. Solo, Tag und Crew.
 
 - **Grand Beatbox Battle (GBB)**
-Obwohl es zunächst relativ klein war, ist es seit Ende der 2010er Jahre schnell gewachsen. Bildung großer internationaler Divisionen wie Solo-, Loop-Station-, Tag- und Crew-Teams.
+Obwohl es zunächst relativ klein war, ist es seit Ende der 2010er Jahre schnell gewachsen. Bildung großer internationaler Abteilungen wie Solo-, Loop-Station-, Tag- und Crew-Teams.
 
 Diese Wettbewerbe steigerten weltweit das Niveau der technischen Fähigkeiten, standardisierten Bewertungskriterien, unterteilten Genres und steigerten die Komplexität der Aufführungsformate.
 
@@ -132,7 +132,7 @@ Japans Stärken sind insbesondere „Genauigkeit des Tons“, „Kompositionsfä
 In Japan hat es sich seit Mitte der 2000er Jahre auf den Straßen und bei Veranstaltungen verbreitet, und Techniken werden zwischen Künstlern durch Übungsstunden und die Teilnahme an Wettbewerben weitergegeben.
 
 ## ◆ 2. Starke technische Ausrichtung
-Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus und werden sogar von ausländischen Spielern gelobt.
+Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus und werden selbst von ausländischen Spielern hoch gelobt.
 
 ## ◆ 3. Fusion mit Video- und Bearbeitungskultur
 Hauptsächlich auf YouTube und SNS,
@@ -143,7 +143,7 @@ Ein weiteres Merkmal ist, dass sich die komplexe Beatbox-Technik schon früh ent
 
 # 6. **Ein tiefer Einblick in Japans repräsentative Spieler**
 
-Im Folgenden werfen wir einen faktenbasierten Blick auf japanische Spieler, die international aktiv sind, und fassen deren Eigenschaften und Erfolge zusammen.
+Im Folgenden werfen wir einen faktenbasierten Blick auf international aktive japanische Spieler und fassen deren Eigenschaften und Erfolge zusammen.
 
 ---
 
@@ -197,10 +197,10 @@ Es ist in diesem Teil.
 
 ### ● Koeys Stil
 - Schärfe für den Kampf
-- Entwicklung, die sich den Schalldruck zunutze macht
+- Entwicklung, die den Schalldruck nutzt
 - Einbindung detaillierter Technologie in Schlüsselpunkte
 
-Unter den jüngsten japanischen Spielern ist er ein Spieler mit einem Ton, der bei Live-Auftritten heraussticht.
+Unter den neueren japanischen Spielern ist er ein Spieler mit einem Ton, der bei Live-Auftritten heraussticht.
 
 ---
 
@@ -246,7 +246,7 @@ Mit der Entwicklung von Loopstation, Beatboxen
 Hin zu einem Bereich, der angerufen werden kann
 
 ## ◆ 2. Kombination mit visueller Kultur
-„Videobasierte Showcases“ nehmen bei Wettbewerben auf der ganzen Welt zu.
+Die Zahl der „videobasierten Showcases“ nimmt bei Turnieren auf der ganzen Welt zu.
 Wir leben in einer Zeit, in der SNS den Stil beschleunigt.
 
 ## ◆ 3. Zukunft der japanischen Stärken

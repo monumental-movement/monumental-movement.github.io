@@ -21,7 +21,7 @@ title: '[Kolumne] Neo-Krautrock: Moderne Neuinterpretation des klassischen Kraut
 
 Text: mmr｜Thema: Geschichte des Krautrock, Geburt des Neo-Krautrock, musikalische Methoden bedeutender Künstler, Album-/Songanalyse, Live-Beispiele
 
-Neo-Krautrock ist eine Musikrichtung, die den Ende der 1960er und 1970er Jahre in Deutschland entstandenen Krautrock mit modernen Methoden neu interpretiert. Krautrocks Markenzeichen der **repetitiven Rhythmen (Motorik Beats)**, **Elektroakustik** und **Experimentiergeist** wurden von zeitgenössischen Künstlern wie Tropic of Cancer und Panda Lux in neuen Formen wiederbelebt und bieten ein vielschichtiges, räumliches Klangerlebnis.
+Neo-Krautrock ist eine Musikrichtung, die den Ende der 1960er und 1970er Jahre in Deutschland entstandenen Krautrock mit modernen Methoden neu interpretiert. Krautrocks Markenzeichen des **repetitiven Rhythmus (Motorik Beat)**, der **Elektroakustik** und des **Experimentalgeists** wurden von zeitgenössischen Künstlern wie Tropic of Cancer und Panda Lux in neuen Formen wiederbelebt und bieten ein vielschichtiges, räumliches Klangerlebnis.
 
 
 ---
@@ -191,4 +191,10 @@ Neo-Krautrock bringt den Geist des Krautrock zurück ins 21. Jahrhundert und wir
 
 ---
 
+### YouTube-Podcast
 
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dv_DTaRX9kE?si=CJx9r1V1kgR-qCUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

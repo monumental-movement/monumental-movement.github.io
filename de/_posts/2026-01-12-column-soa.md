@@ -112,11 +112,11 @@ Die Band löste sich um 1981 auf. Der Grund für die Auflösung der Gruppe ist e
 ## Fluss abgeleitet von S.O.A
 
 
-Henry Rollins schließt sich Black Flag an, nachdem sich S.O.A. auflöst. Dort erlangte er einen nachhaltigeren und strukturierteren Ausdruck. Andererseits beteiligten sich Mitglieder der New Yorker Seite und umliegende Persönlichkeiten an der Bildung der Szene, die zu Agostic Front und Cro-Mags führte.
+Henry Rollins schließt sich Black Flag an, nachdem sich S.O.A. auflöst. Dort erlangte er einen nachhaltigeren und strukturierteren Ausdruck. Andererseits waren Mitglieder der New Yorker Seite und umliegende Persönlichkeiten an der Bildung der Szene beteiligt, die zu Agostic Front und Cro-Mags führte.
 
 S.O.A selbst wird selten als Vertreter des New Yorker Hardcore erwähnt. Als Aufzeichnung dieser „Niemandsphase“ liefert es jedoch wichtige Hinweise zum Verständnis dessen, was nachfolgende Bands geerbt und was sie verworfen haben.
 
-> S.O.A fungierte eher als Wendepunkt als als Endpunkt.
+> S.O.A fungierte als Wendepunkt, nicht als Endpunkt.
 
 ---
 

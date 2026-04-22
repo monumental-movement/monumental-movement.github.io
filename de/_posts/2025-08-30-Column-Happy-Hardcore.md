@@ -37,7 +37,7 @@ Wie der Name schon sagt, handelt es sich bei diesem Genre um eine Kombination au
 
 ### Relevanz für die japanische Kultur
 
-#### Affinität zu Anime-/Spielemusik
+#### Affinität zu Anime-/Game-Musik
 
 Happy Hardcore legt Wert auf helle und eingängige Melodien und passt daher gut zum Geschmack von Anime-Songs und Spielemusik.
 
@@ -73,7 +73,7 @@ Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan au
 
 ### Kulturelle Schlüsselwörter
 
-- **Kawaii**: Die japanische „Kawaii-Kultur“ spiegelt sich in der schnellen Popmelodie wider.
+- **Kawaii**: Die japanische „niedliche Kultur“ spiegelt sich in der schnellen Popmelodie wider.
 
 - **Otaku-Kultur**: Direkt verbunden mit der Anime-, Doujinshi- und Akihabara-Clubkultur.
 
@@ -98,7 +98,7 @@ Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan au
 ### Die einzigartige Rolle der japanischen Kultur in der globalen Musikgeschichte
 
 Happy Hardcore entstand ursprünglich aus dem britischen Rave, verschmolz jedoch mit der japanischen Kultur (Anime, Spiele, Doujins, Musikspiele) und bildete eine einzigartige „J-Core“-Kultur.
-Heute wird es mit „Happy Hardcore = Anime-ähnliche Niedlichkeit“ in Verbindung gebracht und Japan ist international zu einem wichtigen Stützpunkt geworden.
+Heute wird es mit „Happy Hardcore = Anime-ähnliche Niedlichkeit“ in Verbindung gebracht und Japan hat sich zu einem wichtigen internationalen Stützpunkt entwickelt.
 
 ---
 

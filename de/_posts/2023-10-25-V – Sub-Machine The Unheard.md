@@ -14,8 +14,8 @@ title: V – Sub-Machine The Unheard
 ---
 
 
-„Sub-Machine / The Unheard“ ist
-Dabei handelt es sich um eine 7-Zoll-Platte, die 1995 vom britischen Label „Gift Records“ veröffentlicht wurde.
+「Sub-Machine / The Unheard」は、
+1995年にUKのレーベル「Gift Records」からリリースされた７インチのレコードです。
 
 
 #### Trackliste

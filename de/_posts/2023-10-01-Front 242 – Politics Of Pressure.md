@@ -9,7 +9,7 @@ permalink: /de/front-242-politics-of-pressure/
 tags:
 - EBM
 - Noise
-title: Front 242 – Politik des Drucks
+title: Front 242 – Politics Of Pressure
 ---
 
 

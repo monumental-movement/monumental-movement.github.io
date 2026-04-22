@@ -22,7 +22,7 @@ Derzeit wohnhaft in Houston, Texas, USA.
 
 Florian Holzinger, auch bekannt als Woodbay, ist Musikproduzent und Sounddesigner mit den Schwerpunkten Elektronik, House und Funk.
 
-Giorgio Moroder (richtiger Name: Giovanni Giorgio Moroder) wurde am 26. April 1940 in St. Ulrich, Bozen, Italien geboren.
+Giorgio Moroder (bürgerlicher Name: Giovanni Giorgio Moroder) wurde am 26. April 1940 in St. Ulrich, Bozen, Italien geboren.
 
 Ein Musiker aus Italien, der Komponist, Arrangeur, Produzent, Performer und DJ ist. Er gilt als einer der innovativsten und einflussreichsten Persönlichkeiten der elektronischen und Disco-Musik.
 

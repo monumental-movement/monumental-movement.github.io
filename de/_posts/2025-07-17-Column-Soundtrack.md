@@ -40,7 +40,7 @@ Ein Pianist und ein Orchester sorgten für Live-Musik im Kino. Daher gab es zu d
 
 [『ジャズ・シンガー』（1927）](https://amzn.to/3Wn4CTH)を皮切りに**光学式録音（Optical Sound）**が導入され、映像フィルムの中に音声情報（スコア）を記録する時代へ。
 
-Etwa zu dieser Zeit wurde klar, was „Soundtrack = Audiomaterial eines Films“ bedeutet.
+Etwa zu dieser Zeit wurde die Bedeutung von „Soundtrack = Film-Audiomaterial“ klar.
 
 **●Wichtige Medien für Filmmusik: technologische Veränderungen bei Aufnahme und Wiedergabe**
 
@@ -74,13 +74,13 @@ Seit den 1980er Jahren erfreut es sich als Format mit hoher Klangqualität, lang
 
 Es wurde möglich, vollständige Partituren aufzunehmen, was ein goldenes Zeitalter für die Wertschätzung von Filmmusik einläutete.
 
-Es sind auch auf Soundtracks spezialisierte Labels erschienen (La-La Land Records, Intrada, Varese Sarabande usw.).
+Es treten auch auf Soundtracks spezialisierte Labels auf (La-La Land Records, Intrada, Varese Sarabande usw.).
 
 ■DVD/Blu-ray: Video + Musik
 
 Ein Medium zum „Neuerleben“ von Soundtracks in Videoarbeiten.
 
-Der räumliche Ausdruck von Musik hat sich durch stereophone Technologien wie 5.1ch/DTS stark weiterentwickelt.
+Der räumliche Ausdruck von Musik hat sich mit stereofonen Technologien wie 5.1ch/DTS stark weiterentwickelt.
 
 ■Digitale Tonquelle (MP3/WAV/FLAC/AAC)
 
@@ -88,7 +88,7 @@ Verkauf von Musikquellen auf iTunes und Amazon MP3.
 
 Auch unabhängige Filmkomponisten werden auf Plattformen wie Bandcamp vorgestellt.
 
-Vollständige Partituren, unveröffentlichte Songs und Alternativaufnahmen können in hoher Auflösung geliefert werden.
+Vollständige Partituren, unveröffentlichte Songs und alternative Takes können in hoher Auflösung verbreitet werden.
 
 ■Abonnement (Spotify / Apple Music usw.)
 
@@ -200,7 +200,7 @@ Partituren, die beim Hören auf CD zu neuen Entdeckungen führen (z. B. die Musi
 
 Ein Soundtrack, der „Erinnerungen weckt“, indem er von den Bildern getrennt wird
 
-Das Aufkommen von Medien der nächsten Generation, die wieder mit Bildern integriert werden, wie etwa Spielemusik und VR
+Das Aufkommen von Medien der nächsten Generation, die wieder mit Videos integriert werden, wie z. B. Spielemusik und VR
 
 
 <hr>

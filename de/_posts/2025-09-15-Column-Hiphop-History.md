@@ -42,11 +42,11 @@ color: #fff;
 
 ## Ende der 1970er Jahre: Die Ursprünge der Bronx und die Grundlagen der Clubkultur
 
-### Regions-/Epochenhintergrund
+### Hintergrund der Region/Ära
 Junge Leute in der Bronx veranstalten DJ-Partys in verlassenen öffentlichen Räumen und Gemeindezentren. Durch die Wiederholung gebrochener Beats entwickelte sich der B-Boy/B-Girl-Tanz.
 Clubs und Blockpartys waren mehr als nur Musikveranstaltungsorte; Sie waren ein Symbol der Einheit der Gemeinschaft.
 
-### Die Bedeutung von Radio- und Demotapes
+### Die Bedeutung von Radio- und Demobändern
 Damals wurde Hip-Hop durch Radiosendungen populär gemacht (z. B. „The Show“ von WBLS), und Demotapes waren ein wichtiges Mittel, um Künstler zu entdecken.
 DJ Kool Herc und Afrika Bambaataa spielten ihre Mixtapes im lokalen Radio und auf Partys und trugen so zur Verbreitung der Musik bei.
 
@@ -115,7 +115,7 @@ Dr. Dres „The Chronic“ (1992) nutzt gekonnt Sampling, während G-Funk viele 
 
 ### Clubkultur
 DJ-Sets entstanden in Clubs in New York und LA. In einer Zeit ohne Radio und Streaming waren Songs in den Clubs für Aufsehen gesorgt.
-Bevor es Demotapes und das Internet gab, spielten Rap-Battles nur in Clubs eine Rolle.
+Bevor es Demotapes und das Internet gab, spielten Rap-Battles eine zentrale Rolle in Clubs.
 
 Probenentnahme und Ausrüstungsänderungen
 Mit der Verbreitung von DAWs (Pro Tools, Ableton Live) ist es nun möglich, mithilfe von Synthesizern und Plug-Ins einzigartige Klangquellen zu erstellen, ohne auf Sampling angewiesen zu sein.
@@ -153,7 +153,7 @@ Erweiterung der Verwendung von Plugins und Beispielpaketen
 
 ### Kombinierter Einfluss von Region, Verein, Medien und Produktionsmethoden
 
-**East Coast**: Breakbeat, Social Rap, Platten-Sampling-Kultur
+**Ostküste**: Breakbeat, Social Rap, Platten-Sampling-Kultur
 
 **Westküste**: Gangsta-Rap, G-Funk, ausgelassene Partys in den Clubs
 
@@ -230,7 +230,7 @@ Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war D
 | 1980er Jahre | Osten (zentriert in NYC) | Goldenes Zeitalter des Samplings, Schwerpunkt auf Lyrik |
 | 1990er Jahre | West (LA, Bay) | G-Funk auf dem Höhepunkt, 2Pac vs. Biggie |
 | 2000er | Süden (ATL, Houston, Miami) | Trap Eve, Crunk und der Aufstieg von Screwstyle |
-| 2010er | Trap (Süd) + Mittlerer Westen (Chicago Drill, Kanye, Detroit Beat) | Sampling-Reduktion + FL Studio-Spread |
+| 2010er | Trap (Süd) + Mittlerer Westen (Chicago Drill, Kanye, Detroit Beat) | Sampling-Reduzierung + FL Studio-Spread |
 | 2020er | Multipolarisierung (Ost, West, Süden, Mittlerer Westen) | KI-Beat, Stichprobenregression, dezentrale Internetkultur |
 
 ---
@@ -444,7 +444,7 @@ Die Karte der Macht visualisiert, in welche Region sich das Zentrum der Szene in
 
 ## Abschluss
  
-Hip-Hop hat sich so entwickelt, dass es die Kultur und den sozialen Hintergrund jeder Region widerspiegelt. Die Ostküste, die Westküste und der Süden haben jeweils ihre eigenen einzigartigen Stile, die nicht nur die Musik, sondern auch Mode, Sprache, soziale Bewegungen und mehr beeinflusst haben. Hip-Hop wird sich weiterentwickeln, da neue Techniken und Ausdrucksmethoden auftauchen.
+Hip-Hop hat sich so entwickelt, dass es die Kultur und den sozialen Hintergrund jeder Region widerspiegelt. Die Ostküste, die Westküste und der Süden haben jeweils ihre eigenen einzigartigen Stile, die nicht nur die Musik, sondern auch Mode, Sprache und soziale Bewegungen beeinflusst haben. Hip-Hop wird sich weiterentwickeln, da neue Techniken und Ausdrucksmethoden auftauchen.
 
 ---
 

@@ -62,11 +62,11 @@ Das Wichtige an diesem mythologischen System ist, dass es keine Annahme gibt, da
 ## Volksglauben und dunkle Wesen
 
 
-In der nordischen Region blieb der Volksglaube auch nach dem Christentum noch lange erhalten. Es wurde angenommen, dass Geister in Wäldern, Seen, Bergen und Sümpfen lebten und dass diese Geister den Menschen sowohl Segen als auch Schaden brachten.
+In der nordischen Region blieb der Volksglaube auch nach dem Christentum noch lange bestehen. Es wurde angenommen, dass Geister in Wäldern, Seen, Bergen und Sümpfen lebten und dass diese Geister den Menschen sowohl Segen als auch Schaden brachten.
 
 Weibliche Waldgeister wie der schwedische Skogsloh, der norwegische Huldra und der finnische Metsan Vaki gelten als schön und einladend, sollen aber für diejenigen, die ihnen zu nahe kommen, zerstörerisch sein.
 
-Volksliedtexte erzählen immer wieder Geschichten von Begegnungen mit diesen Wesen, die zum Tod oder zum Wahnsinn führten. Dies waren keine Fabeln, sondern dienten als praktische Warnungen für das Zusammenleben mit der Natur.
+Volksliedtexte erzählen immer wieder Geschichten von Begegnungen mit diesen Wesen, die zu Tod oder Wahnsinn führten. Dies waren keine Fabeln, sondern dienten als praktische Warnungen für das Zusammenleben mit der Natur.
 
 > Die Dunkelheit des skandinavischen Volkes war keine Horrorproduktion, sondern Weisheit zum Überleben.
 
@@ -101,7 +101,7 @@ Die Struktur des Instruments selbst bildet eine Klangwelt, die eine klare Auflö
 ## Christianisierung und Transformation der dunklen Mythologie
 
 
-Auch nachdem die nordische Welt christlich wurde, verschwanden alte Mythen und der Animismus nicht vollständig. Diese werden als Häresien, Aberglauben und Volksmärchen umgedeutet und in Volkslieder eingearbeitet.
+Auch nachdem die nordische Welt christlich wurde, verschwanden alte Mythen und animistische Überzeugungen nicht vollständig. Diese werden als Häresien, Aberglauben und Volksmärchen umgedeutet und in Volkslieder überführt.
 
 Christliche Konzepte wie Teufel, Hölle und Sünde wurden mit bestehenden dunklen Wesenheiten kombiniert, um neue Erzählungen zu bilden. Dadurch erhält der nordische Folk eine doppelte Dunkelheit.
 

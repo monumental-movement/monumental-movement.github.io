@@ -37,7 +37,7 @@ Acid Jazz ist vor allem in Großbritannien populär geworden und interpretiert J
 
 - **Ausstattungsmerkmale**
 -Akai MPC60/S1000
--Roland TR-808 / TR-909
+- Roland TR-808 / TR-909
 - Hauptsächlich Plattenspieler und Sampler
 
 <style type="text/css">

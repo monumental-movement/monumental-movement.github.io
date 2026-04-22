@@ -12,7 +12,7 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Kolumne] Buchla und Serge: Eine weitere Genealogie der elektronischen Akustik'
+title: '[Kolumne] Buchla und Serge: Eine weitere Linie der elektronischen Akustik'
 ---
 
 
@@ -118,8 +118,8 @@ Diese Philosophie setzt sich direkt in den heutigen Max/MSP-Patches, Reaktor Blo
 | Betriebsphilosophie | Performativ (Klang als Aktion) | Funktional (Klang als Struktur) |
 | Funktionelles Design | Dedizierte Modulkonfiguration | Kombination allgemeiner Module |
 | Kontrolle | Abstrakter Spannungsbetrieb | Konkrete Signalmanipulation |
-| Akustische Trends | Organisch, dynamisch, sanft | Lineare, klare, schnelle Reaktion |
-| Kulturelle Einflüsse | Kunstklang, Installation | Noise, Techno, DIY elektronische Musik |
+| Akustische Trends | Organisch, dynamisch, geschmeidig | Lineare, klare, schnelle Reaktion |
+| Kulturelle Einflüsse | Kunstklang, Installation | Noise, Techno, elektronische DIY-Musik |
 
 ---
 
@@ -140,7 +140,7 @@ Diese Philosophie setzt sich direkt in den heutigen Max/MSP-Patches, Reaktor Blo
 ## 5. Auswirkungen auf die modulare Kultur
 
 Die Philosophie von Buchler und Sarge definierte Klang selbst als „sozialen Akt“ neu.
-Mit anderen Worten: Er verlagerte seinen Fokus von „Instrumenten“ auf „Umgebungen“ und „Schnittstellen“.
+Mit anderen Worten, er verlagerte seinen Fokus vom „Instrument“ auf die „Umgebung“ und die „Schnittstelle“.
 
 Die modularen „unendlichen Kombinationen“ von Eurorack sind nicht einfach die Freiheit der Teile, sondern die Neukonfiguration der Bedeutung.
 Buchlas „Körperlichkeit“ und Serges „Strukturalität“ sind verschmolzen, und die heutige elektronische Musik wird immer „dezentrischer“.

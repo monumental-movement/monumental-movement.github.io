@@ -53,7 +53,7 @@ color: #fff;
 
 Bristol war in den 1970er Jahren eine scheinbar friedliche Provinzstadt.
 Doch hinter den Kulissen schritten die soziale Spaltung, die wirtschaftliche Stagnation und die Entfremdung der Einwanderergemeinschaften voran.
-Ähnlich wie bei den Unruhen in Brixton (London) 1976 verschärften sich in Bristol die Konflikte zwischen Polizei und Jugendlichen.
+Ähnlich wie bei den Brixton-Unruhen (London) 1976 verschärften sich in Bristol die Konflikte zwischen Polizei und Jugendlichen.
 Eine „Kluft zwischen Staat und Straße“ wurde zur Norm.
 
 Als Hafenstadt hatte Bristol aufgrund der Einwanderer aus Jamaika eine tief verwurzelte **Reggae- und Dub-Kultur**.
@@ -75,7 +75,7 @@ Die Mitglieder sind zwischen Ende Teenager und Anfang 20.
 **Dan Catsis (Bass)** und **John Waddington (Gitarre)** waren die Hauptakteure.
 
 Im Gegensatz zu den Londoner Punks waren sie sich bewusst, politisch und künstlerisch zu sein.
-Ihr Debütalbum „**Y**“ (1979) war schon damals eine Ketzerei über eine Ketzerei.
+Ihr Debütalbum „**Y**“ (1979) war schon damals eine Häresie unter Ketzern.
 Die Unordnung des Free Jazz, der Deep Space des Dub, der destruktive Impuls des Punk ...
 Diese überschneiden sich als **sozialkritische Gedichte und poetische Schreie**.
 
@@ -89,7 +89,7 @@ Man kann sagen, dass es der Prototyp des späteren industriellen/politischen Lä
 
 ## Kapitel 3: Verschmelzung von Gedanken und Klang – „Widerstand als Kunst“
 
-Das war es, was The Pop Group von anderen Punkbands unterschied
+Das unterschied The Pop Group von anderen Punkbands
 Er hatte eindeutig das Verständnis, dass „Musik eine Waffe des Denkens“ ist.**
 
 Sie wurden vom Marxismus, Situationismus und den Philosophien von Bataille und Derrida beeinflusst.
@@ -98,7 +98,7 @@ Themen wie „Macht“, „Überwachung“ und „Medienmanipulation“ tauchen 
 Akustisch haben wir uns die damalige Aufnahmetechnik zunutze gemacht,
 **In großem Umfang räumliche Verarbeitung, Hall, Bandmanipulation und Improvisation eingesetzt**.
 Dies wurde später von Adrian Sherwood (On-U Sound) und Lee Perry entwickelt.
-Es überschneidet sich auch mit dem Prototyp des „Political Dub“.
+Es überschneidet sich auch mit dem Prototyp des „politischen Dubs“.
 
 > Sound war nicht nur Unterhaltung, sondern **Lärm zum Widerstand**.
 
@@ -112,7 +112,7 @@ Danach geht jedes Mitglied einen anderen Weg.
 - Mark Stewart: Zusammenarbeit mit Adrian Sherwood als Solokünstler und Gründung von **Industrial Dub**.
 - Gareth Sager und Bruce Smith: Gründung von **Rip Rig + Panic**.
 Auch eine junge **Neneh Cherry** war dabei.
-- Dan Catsis: Er blieb der Grundstein der Bristoler Musik und engagierte sich später bei Massive Attack.
+- Dan Catsis: Später engagierte er sich bei Massive Attack und blieb ein Eckpfeiler der Bristoler Musik.
 
 Aus dieser Divergenz entstand die Vielfalt des Bristol-Sounds.
 Trip Hop, Dub, experimentelle Musik, politischer Hip Hop ...
@@ -123,7 +123,7 @@ Der Einfluss der Pop Group ist in ihnen allen verankert.
 ## Kapitel 5: Neubewertung und Wiederbelebung im 21. Jahrhundert
 
 Die Popgruppe ist längst eine Kultfigur.
-Seit den 2000er Jahren wurde es im Zuge des Post-Punk-Revivals neu bewertet.
+Seit den 2000er Jahren wurde es im Zuge des Post-Punk-Revival-Trends neu bewertet.
 Besonders seit 2005, nach den **Gang of Four- und Wire-Reunions**,
 Auch sie nahmen ihre Aktivitäten im Jahr 2010 wieder auf. Im Jahr 2015 veröffentlichte er sein neues Werk „Citizen Zombie“.
 
@@ -226,6 +226,6 @@ Diese Einstellung beeinflusst weiterhin die Underground-Kultur nicht nur in Bris
 
 > „Das ist keine Unterhaltung. Das ist Widerstand.“
 
-Ihre Schreie hallen noch immer in der Stille wider.
+Ihre Schreie hallen immer noch in der Stille wider.
 
 ---

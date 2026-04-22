@@ -10,8 +10,9 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: '[Kolumne] Der „Klang des Euro“ ändert sich je nach Landesgrenze: Italien,
-  Deutschland und Schweden: Unterschiede in der Euro-Musik der drei großen Produktionsländer'
+title: '[Spalte] „Euro-Sounds“ ändern sich je nach Landesgrenze: Italien, Deutschland
+  und Schweden: Unterschiede in der Euro-Musik, die von den drei großen Produktionsländern
+  produziert wird'
 ---
 
 
@@ -93,7 +94,7 @@ color: #fff;
 -Schnapp!
 -Culture Beat
 -Echter McCoy
-- U96
+-U96
 -Roller
 
 **Kultureller Hintergrund**
@@ -133,7 +134,7 @@ color: #fff;
 - Armee der Liebenden
 
 **Kultureller Hintergrund**
-- Schweden verfügt über ein hohes Maß an Englischunterricht und die Liedtexte sind überwiegend auf Englisch.
+- Schweden verfügt über ein hohes Maß an Englischunterricht und die Texte sind größtenteils auf Englisch.
 - Seit ABBA ist es Tradition, exportorientierte Popmusik zu machen.
 - Klangerzeugung, die die Melodie eher in der Mitte als hart betont
 

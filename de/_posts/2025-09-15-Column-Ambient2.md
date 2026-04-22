@@ -306,7 +306,7 @@ Ambient hat den Aspekt einer „akustischen Architektur“.
 
 - Verwendung im medizinischen Bereich (Entspannung vor und nach Operationen, Verbesserung der Konzentration).
 - Unverzichtbare Musik für Meditation und Yoga.
-- Forschungsberichte zufolge haben „binaurale Beats“ mit natürlichen Klängen und niedrigen Frequenzen eine stressreduzierende Wirkung.
+- Forschungsberichte zeigen, dass „binaurale Beats“ mit natürlichen Klängen und niedrigen Frequenzen eine stressreduzierende Wirkung haben.
 - Durch die Verschmelzung mit Psychotherapie und Musiktherapie hat sich Ambient-Musik als „therapeutische Musik“ etabliert.
 
 ---

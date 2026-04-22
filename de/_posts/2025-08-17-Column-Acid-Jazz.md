@@ -107,7 +107,7 @@ Die Verbreitung von Acid Jazz war auch eng mit der Geopolitik in Europa, den Ver
 
 #### US-Szene
 
-Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten gab es den ursprünglichen Funk- und Soul-Jazz der 70er Jahre, daher wirkte die Bezeichnung „Acid Jazz“ aus Großbritannien frisch und wurde von den Clubszenen von New York und Chicago übernommen.
+Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten existierten 70er-Jahre-Jazz-Funk und -Soul als Originale, so dass die Bezeichnung „Acid Jazz“ aus Großbritannien frisch wirkte und in den Clubszenen von New York und Chicago übernommen wurde.
 
 そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
 一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
@@ -121,7 +121,7 @@ Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten gab 
 
 日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-Es hatte eine Affinität zur Konsumkultur der Blasenwirtschaft und der Shibuya-Szene und wurde zu einer Brücke zwischen Europa und Asien.
+Es hatte eine Affinität zur Konsumkultur der Zeit der Blasenwirtschaft und der Shibuya-kei-Szene und wurde zu einer Brücke zwischen Europa und Asien.
 
 Ab Ende der 1990er Jahre gewann es mit der Ausbreitung der Clubkultur in Ländern wie Südkorea und Taiwan allmählich an Akzeptanz.
 
@@ -189,3 +189,14 @@ In Europa entwickelte sich daraus nach der Wiedervereinigung Tourismus und Stadt
 Das Ende des Kalten Krieges und die Globalisierung förderten seine Verbreitung und es diente als geopolitisches Symbol für Freiheit und Austausch.
 
 Acid Jazz ist die Kristallisation von Klängen, die urbane Vielfalt und Raffinesse in Grooves übersetzen.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2JWXLhBFUeQ?si=uOcH8hkjRy-mxCSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

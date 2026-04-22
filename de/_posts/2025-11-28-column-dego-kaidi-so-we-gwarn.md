@@ -29,7 +29,7 @@ title: '[Spalte] Dego & Kaidi und Sound Signature'
 Text: mmr｜Thema: EUK Über die Schnittstelle von Broken Beat und globaler schwarzer Musik
 
 
-In den späten 1990er Jahren entstand eine neue Musikbewegung in der Clubkultur im Westen Londons. Es handelt sich um ein Genre namens „Broken Beat“ (auch bekannt als „Bruk“), das sich vom traditionellen 4/4 House oder Drum and Bass unterscheidet und mutig komplexe, springende Rhythmen und Elemente aus Jazz, Funk und Soul einbezieht. Broken Beat ist mehr als nur ein Musikstil. Er entwickelte sich aus den schwarzen Communities im Westen Londons, der Clubkultur und kreativen Underground-Netzwerken.
+In den späten 1990er Jahren entstand eine neue Musikbewegung in der Clubkultur im Westen Londons. Es handelt sich um ein Genre namens „Broken Beat“ (auch bekannt als „Bruk“), das sich vom traditionellen 4/4 House oder Drum and Bass unterscheidet und mutig komplexe, springende Rhythmen und Elemente aus Jazz, Funk und Soul einbezieht. Broken Beat ist mehr als nur ein Musikstil: Er entwickelte sich aus den schwarzen Communities im Westen Londons, der Clubkultur und kreativen Underground-Netzwerken.
 
 <div class="mermaid">
 flowchart TD
@@ -77,7 +77,7 @@ Kaidi Tatham ist eine Multiinstrumentalistin, Produzentin und Komponistin, die s
 
 ## Broken Beat-Szene und 2000Black
 
-Broken Beat ist ein Produkt der Clubkultur, die sich rund um West-London entwickelte. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught und andere waren Pioniere der Szene und etablierten durch die freie Kombination von Elementen aus Jazz, Soul, Funk, Latin, Hip-Hop und House eine einzigartige Position als Clubmusik für Erwachsene.
+Broken Beat ist ein Produkt der Clubkultur, die sich rund um West-London entwickelte. Pioniere wie IG Culture, Bugz in the Attic, Neon Phusion und Afronaught prägten die Szene und etablierten durch die freie Kombination von Elementen aus Jazz, Soul, Funk, Latin, Hip-Hop und House eine einzigartige Position als Clubmusik für Erwachsene.
 
 <div class="mermaid">
 flowchart LR
@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Schwarz spielte bei diesem Trend eine zentrale Rolle. Degos Lauf des Labels brachte viele Künstler und Veröffentlichungen von Broken Beat hervor und machte es zu einem kulturellen Zentrum für britische schwarze Musik. In diesem Umfeld entwickelte sich auch die Zusammenarbeit zwischen Kaidi und Dego, die zahlreiche Clubhits und Studioveröffentlichungen hervorbrachte.
+2000Schwarz spielte bei diesem Trend eine zentrale Rolle. Degos Lauf des Labels brachte viele Künstler und Veröffentlichungen von Broken Beat hervor und machte es zu einem kulturellen Zentrum für britische schwarze Musik. In diesem Umfeld wurde auch die Zusammenarbeit zwischen Kaidi und Dego gefördert, die zahlreiche Clubhits und Studioveröffentlichungen hervorbrachte.
 
 ---
 

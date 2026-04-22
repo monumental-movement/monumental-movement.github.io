@@ -47,16 +47,16 @@ color: #fff;
 
 Funk ist rhythmus- und bassgetriebene Musik. Harmonische Abfolgen werden auf ein Minimum beschränkt und die gleichen Phrasen werden über lange Zeiträume wiederholt. Diese Wiederholung ist nicht stagnierend, sondern eine dynamische Struktur, die durch Akzent-, Timing- und Klangfarbenänderungen des Interpreten ständig aktualisiert wird.
 
-Im Funk der 1970er-Jahre bildeten die Trommeln einen Groove auf der Grundlage von Sechzehntelnoten, und der Bass manipulierte den Schwerpunkt des Beats, während er sich mit der Kick verschränkte. Gitarren und Keyboards fungierten als Rhythmusinstrumente, wobei der Schwerpunkt eher auf dem Schneiden und Stechen als auf Akkorden lag.
+Im Funk der 1970er-Jahre bildeten die Trommeln einen Groove auf der Basis von Sechzehntelnoten, und der Bass manipulierte den Schwerpunkt des Beats, während er sich mit der Kick verschränkte. Gitarren und Keyboards fungierten als Rhythmusinstrumente, wobei der Schwerpunkt eher auf dem Schneiden und Stechen als auf Akkorden lag.
 
-Zu diesem Zeitpunkt verfügte Funk bereits über die Qualitäten einer Loop-basierten Musik, und seine spätere Digitalisierung war eine natürliche Erweiterung.
+Zu diesem Zeitpunkt hatte Funk bereits die Qualitäten einer Loop-basierten Musik, und seine spätere Digitalisierung war eine natürliche Erweiterung.
 
 ---
 
 ## Kapitel 2: Änderungen vor der Elektronikisierung
 
 
-In den späten 1970er Jahren begannen Fortschritte in der Studiotechnologie die Art und Weise, wie Funk produziert wurde, zu verändern. Mit der Verbreitung der Mehrspuraufzeichnung begann man, Aufführungen aufzuschlüsseln und als Material zu behandeln, das bearbeitet werden konnte. Dadurch wurde mehr Wert auf rhythmische Präzision und klangliche Einheitlichkeit gelegt.
+In den späten 1970er Jahren begannen Fortschritte in der Studiotechnologie die Art und Weise, wie Funk produziert wurde, zu verändern. Mit der Verbreitung der Mehrspuraufzeichnung wurden Aufführungen zunehmend zerlegt und als bearbeitbares Material behandelt. Dadurch wurde mehr Wert auf rhythmische Präzision und klangliche Einheitlichkeit gelegt.
 
 Etwa zur gleichen Zeit wurden E-Pianos und frühe Synthesizer eingeführt, und das Keyboard wandelte sich von einem reinen Harmonieinstrument zu einem Instrument zur Wiedergabe von Klangfarben. Zu diesem Zeitpunkt wurden die Ideen für spätere Synthesizer-Bässe und elektronische Leads vorbereitet.
 
@@ -67,7 +67,7 @@ Etwa zur gleichen Zeit wurden E-Pianos und frühe Synthesizer eingeführt, und d
 
 In den frühen 1980er Jahren markierte der flächendeckende Einsatz von Drum Machines einen entscheidenden Wendepunkt. Der Rhythmus wechselt vom Spielen zum Programmieren, und Tempo und Wiederholung werden vollständig kontrollierbar. Dies entfernte einige der menschlichen Schwankungen aus dem Funk und verlieh ihm eine mechanische Präzision.
 
-Allerdings untergräbt die völlige Mechanik die Attraktivität von Funk, weshalb eine „Pseudo-Physikalität“ eingeführt wird, die Swing-Werte und Geschwindigkeitsänderungen nutzt. Diese Idee wurde vom Electro-Funk zum Modern Funk übernommen.
+Allerdings untergräbt die völlige Mechanik den Reiz von Funk, weshalb eine „Pseudo-Physikalität“ mithilfe von Swing-Werten und Geschwindigkeitsänderungen eingeführt wird. Diese Idee wurde vom Electro-Funk zum Modern Funk übernommen.
 
 Gleichzeitig wurden Synthesizer-Basslinien alltäglich, und der tiefe Bereich wurde eher von der Klanggestaltung als von der Spieltechnik dominiert.
 
@@ -97,7 +97,7 @@ Diese Linie geht von einer Studioproduktion aus und die Songs sind als äußerst
 
 ## Kapitel 6: Struktur von Jamiroquai-Derivaten
 
-Jamiroquai-Derivate behalten die Leistungsstruktur einer Funkband bei und integrieren elektronische Elemente. Das Zusammenspiel von Schlagzeug, Bass, Gitarre und Keyboard wird betont, rhythmische Schwankungen und Dynamik bleiben erhalten.
+Jamiroquai-Derivate behalten die Leistungsstruktur einer Funkband bei und integrieren gleichzeitig elektronische Elemente. Das Zusammenspiel von Schlagzeug, Bass, Gitarre und Keyboard wird betont, rhythmische Schwankungen und Dynamik bleiben erhalten.
 
 Elektronische Musikinstrumente spielen eine unterstützende Rolle und werden zur Klangfarbenerweiterung und räumlichen Bearbeitung eingesetzt. Hier liegen Live-Auftritt und Studioproduktion auf einer Linie und die körperliche Überzeugungskraft geht über die Reproduzierbarkeit.
 

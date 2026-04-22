@@ -13,9 +13,9 @@ title: CJ Stone – City Lights (Jean Elan Mix)
 ---
 
 
-CJ Stone (Andreas Litterscheid) ist ein deutscher DJ und Musikproduzent, der in der Tanzmusikszene aktiv ist und Mitglied von Bass Bumpers.
+CJ Stone（Andreas Litterscheid）はダンスミュージックシーンで活躍するドイツのDJ 兼音楽プロデューサーであり、Bass Bumpers（バス・バンパーズ）のメンバー。
 
-Die B-Seite ist ein Remix von Jean Elan (Sven Koslik), einem deutschen DJ und House-Musikproduzenten aus Berlin, der auch Mitglied von Bass Bumpers ist.
+B面は、同じくBass Bumpersのメンバーである、ベルリン出身のドイツ人DJ兼ハウスミュージックプロデューサーJean Elan(Sven Koslik)によるremix。
 
 #### Trackliste
 ```md

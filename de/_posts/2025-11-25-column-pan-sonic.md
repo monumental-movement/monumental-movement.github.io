@@ -22,7 +22,7 @@ Text: mmr｜Thema: Hintergrund der Entstehung von Pan Sonic, akustischer Ansatz,
 
 Wenn man über die Geschichte der elektronischen Musik seit den 1990er Jahren spricht, gibt es nur wenige Künstler, die die Materialität des Klangs so sehr verändert haben wie **Pan Sonic (ehemals Panasonic)**. Das in Helsinki ansässige Duo Mika Vainio und Ilpo Väisänen hat die Grenzen zwischen Techno, Industrial, Noise und Minimalismus gründlich aufgehoben und Werke mit hochreinen elektronischen Schwingungen geschaffen, die man als „die Rohheit der Elektrizität“ bezeichnen kann.
 
-Insbesondere ihre Aktivitäten von Mitte bis Ende der 1990er Jahre fanden großen Anklang bei der Berliner Minimal-Techno-Szene, der elektronischen Soundszene von Warp Records in Großbritannien und der japanischen Noise-Kultur und erweiterten den Horizont des experimentellen Sounds erheblich. Das Besondere an Pan Sonic ist, dass er sich nicht auf allgemeine Synthesizer oder Computer verlässt, sondern **selbstgebaute analoge Geräte, modifizierte Elektronik und minimale Schrittsequenzen** verwendet, um Klangskulpturen von durch und durch struktureller Schönheit zu schaffen.
+Ihre Aktivitäten von Mitte bis Ende der 1990er Jahre fanden insbesondere bei der Berliner Minimal-Techno-Szene, der elektronischen Soundszene von Warp Records in Großbritannien und der japanischen Noise-Kultur großen Anklang und erweiterten den Horizont des experimentellen Sounds erheblich. Das Besondere an Pan Sonic ist, dass er sich nicht auf allgemeine Synthesizer oder Computer verlässt, sondern **selbstgebaute analoge Geräte, modifizierte Elektronik und minimale Schrittsequenzen** verwendet, um Klangskulpturen von durch und durch struktureller Schönheit zu schaffen.
 
 ---
 
@@ -68,7 +68,7 @@ Er verwendet selten handelsübliche Synthesizer, sondern konzentriert sich statt
 - Spannungsregelkreis
 - Physikalische Materialien wie Verstärker, Metallteile, Magnetspulen usw.
 
-Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und er ist überwältigend körperlich.
+Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und es fühlt sich überwältigend körperlich an.
 
 ## 2-2. Minimale Struktur
 Obwohl das Klangmaterial äußerst einfach ist, weist der Song eine detaillierte Struktur auf.
@@ -108,7 +108,7 @@ Ein 234-minütiges Meisterwerk mit 4 CDs. Man kann sagen, dass es der Höhepunkt
 Dies ist das Werk, das Pan Sonics „Zeit“ und „Struktur“ am deutlichsten demonstriert.
 
 ## 3-5. *Gravitoni* (2010)
-Ein spätes Meisterwerk mit tieferer elektronischer Textur und minimalistischer Struktur. Dies ist im Wesentlichen das letzte Werk vor der Pause, und es übt einen schwerkraftähnlichen Druck aus.
+Ein spätes Meisterwerk mit einer tieferen elektronischen Textur und minimalistischer Struktur. Dies ist im Wesentlichen das letzte Werk vor der Pause, und es übt einen schwerkraftähnlichen Druck aus.
 
 ---
 
@@ -119,7 +119,7 @@ Die Live-Auftritte von Pan Sonic wurden als ein noch kraftvolleres Erlebnis besc
 - Extrem tiefe Frequenzen lassen die Luft erzittern
 - Minimal und doch brutal
 - Gefühl, als würde der Klang den „Raum“ selbst verändern
-- Improvisierte Feedback-Operationen
+- Impromptu-Feedback-Operationen
 
 Es gibt wenig visuelle Präsentation und minimale Beleuchtung. Vielmehr wird das Publikum mit der Materialität von Klang konfrontiert.
 Während des Live-Auftritts konzentrierte er sich auf seine Hände, während er die elektronischen Schaltkreise bediente, und die Veränderungen im Klang selbst wurden zu einer Performance.

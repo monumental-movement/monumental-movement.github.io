@@ -41,7 +41,7 @@ color: #fff;
 
 
 ## 1. Entstehungsperiode (1987–1990): Ursprünge von Gewalt und Struktur
-Zeni Geva wurde 1987 gegründet. Die Hauptfigur ist KK Null. Er hatte bereits durch frühere Aktivitäten wie YBO2 einen äußerst experimentellen Musikstil etabliert und war eine Person mit interdisziplinärem Wissen über Noise-/Hardcore-/Avantgarde-Musik.
+Zeni Geva wurde 1987 gegründet. Die Hauptfigur ist KK Null und YBO2など前身活動ですでに実験性の高い音楽性を確立してtollり、ノイズ／ハードコア／前衛音楽の横断的な知識を持つ人物だった.
 
 ### Erste Mitglieder
 - **KK Null** (Vo/Gt)
@@ -51,7 +51,7 @@ Zeni Geva wurde 1987 gegründet. Die Hauptfigur ist KK Null. Er hatte bereits du
 
 Der Name der Band soll sich aus dem Wort „Zeni“ und dem deutschen Wort „Gewalt“ (Gewalt) ableiten und ist in das soziale Konzept der Geldgewalt eingebettet.
 
-### Frühe Werke
+### 初期作品
 - **How ​​to Kill (1987)**
 - **Vast Impotenz (1988/Kassette)**
 
@@ -61,7 +61,7 @@ In ihren frühen Werken, die sich auf Noise Rock und Hardcore konzentrieren, kö
 
 ---
 
-## 2. Leap (1991–1995): Begegnung mit Albini und internationale Anerkennung
+## 2. 飛躍（1991–1995）：アルビニとの出会いと国際的評価
 Im Jahr 1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
 
 ### „Totale Kastration (1991)“
@@ -86,14 +86,14 @@ Es gilt als das Album mit der ausgewogensten Integration von Akustik, Struktur u
 Im Jahr 1996 kam es zu einem Schlagzeugwechsel, Blake Fleming stieß für kurze Zeit zur Band. Später trat **Masataka Fujikake** der Band bei und Zeni Gevas Rhythmen wurden komplexer, schneller und vielschichtiger.
 
 ### Stärkung der strukturellen Musikalität
-In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder, die länger als 16 Minuten waren.
+In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder mit einer Länge von mehr als 16 Minuten.
 - Mehrere Teile divergieren und laufen wieder zusammen
 - Kontrapunktisches Riff mit zwei Gitarren
 - Verstärkter Einsatz elektronischer Geräte wie Nulltron
 
 ### „10.000 Lichtjahre (2001)“
 - Erhöhte elektronische Texturen
-- Vielschichtige Kombination aus Noise/metallischer Gitarre/ungewöhnlicher Taktart/elektronischen Klängen
+- Noise/metallische Gitarre/ungewöhnliche Taktart/elektronische Klänge verflechten sich in mehreren Schichten
 - Zeni Geva als Klangskulptur, anders als in den 1980er-90er Jahren
 
 In dieser Zeit erreichte die Band ihre musikalische Reife, doch gleichzeitig nahmen Nulls Soloaktivitäten und andere Projekte zu und die Zeit zwischen den Veröffentlichungen als Band wurde länger.
@@ -119,7 +119,7 @@ Für Zeni Geva hatte die Hinzufügung von Yoshida erneut einen starken Einfluss.
 - Tatsuya Yoshidas perverses Schlagzeug und Null & Tabatas Gitarrenduell sind spektakulär
 
 Seitdem wurden die Live-Aktivitäten in Asien und Europa wieder aufgenommen.
-Zeni Geva erfährt erneut Aufmerksamkeit in der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
+Zeni Geva erhält erneut Aufmerksamkeit aus der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
 
 ---
 

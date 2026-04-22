@@ -86,7 +86,7 @@ Curtis‘ Falsettgesang ist eine ewige Botschaft der „sich weiterentwickelnden
 ---
 
 #### 7. Bob James – „Take Me to the Mardi Gras“ (1975)
-Der Kuhglocken- und Glockenklang des Schlagzeugs war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
+Der Kuhglocken- und Glockenklang der Trommeln war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
 Bob James ist ein Symbol des Smooth Jazz, und der „harte Bruch“, den dieser Song hervorbrachte, wurde in der Sampling-Kultur der 1990er Jahre vergöttert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +171,7 @@ Ein Meisterwerk des instrumentalen Funks, das von LL Cool J und Public Enemy als
 ---
 
 #### 18. Barry White – „I’m Gonna Love You Just a Little More Baby“ (1973)
-In der Sampling-Welt ist es ein Symbol der Liebe. Das von The Dream und Kanye West zitierte Werk bewegt sich auf der Grenze zwischen Seele und Verlangen.
+Der von The Dream und Kanye West zitierte Text bewegt sich auf der Grenze zwischen Seele und Verlangen.
 Der „nachhaltige Klang“ süßer Streicher verlieh Hip-Hop ein luxuriöses Gefühl.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

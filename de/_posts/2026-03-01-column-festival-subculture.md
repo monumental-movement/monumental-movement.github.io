@@ -56,15 +56,15 @@ color: #fff;
 ### Festival und kollektiver Ausbruch
 
 Der Soziologe Émile Durkheim nannte die starke kollektive Hochstimmung bei religiösen Ritualen ein „kollektives Furunkel“.
-Dabei handelt es sich um ein Phänomen, bei dem ein Individuum in eine Gruppe aufgenommen wird und in einen Zustand gerät, der über das normale Selbstbewusstsein hinausgeht.
+Dabei handelt es sich um ein Phänomen, bei dem ein Individuum in eine Gruppe aufgenommen wird und in einen Zustand eintritt, der über das normale Selbstbewusstsein hinausgeht.
 
 Von der Antike bis zum Mittelalter waren Feste zentrale Instrumente der gemeinschaftlichen Integration. Musik, Tanz und sich wiederholende Rhythmen fördern die Gruppensynchronisation.
-Die Festivalkultur erbt diese Struktur in säkularisierter Form.
+Die Festivalkultur übernimmt diese Struktur in säkularisierter Form.
 
 ### Gegenkultur der 1960er Jahre
 
 Das Woodstock Festival 1969 ist ein historisches Ereignis, an dem etwa 400.000 Menschen teilnahmen.
-Die Antikriegsbewegung, die Hippie-Kultur und die Rockmusik überschnitten sich, und Musikveranstaltungen wurden mit sozialen Bewegungen verknüpft.
+Antikriegsbewegungen, Hippie-Kultur und Rockmusik überschnitten sich, und Musikveranstaltungen wurden mit sozialen Bewegungen verknüpft.
 
 Zu diesem Zeitpunkt erweiterte sich die Bedeutung von Festivals vom „Musikhören“ zum „Teilen von Werten“.
 
@@ -244,7 +244,7 @@ Denn gemeinsame Ziele und synchronisierte Aktionen verringern die psychologische
 
 ### Warum gehen wir immer wieder zum selben Festival?
 
-Denn das Zugehörigkeitsgefühl und die Reaktivierung des Gedächtnisses stimulieren das Belohnungssystem.
+Denn das Zugehörigkeitsgefühl und die Erinnerungsreaktivierung stimulieren das Belohnungssystem.
 
 ### Werden Subkulturen durch die Kommerzialisierung verschwinden?
 

@@ -9,13 +9,13 @@ permalink: /de/krysko-serenity/
 tags:
 - Drum n Bass
 - Rare
-title: Krysko – Gelassenheit
+title: Krysko – Serenity
 ---
 
 
-Krysko ist ein DJ, der Residencies bei The Redlight und The Warehouse Project in Großbritannien innehatte und von vielen Tanzmusikfans unterstützt und respektiert wird.
+UKのThe RedlightやThe Warehouse Projectでレジデントを務め、多くダンスミュージックファンに支持され尊敬されているDJ、Krysko（クリスコ）。
 
-„Serenity“ ist ein Dschungeltrack, der vom legendären Mischtechniker Mike Marsh im The Exchange in London gemastert und 1994 auf dem britischen Label Whatever veröffentlicht wurde.
+「Serenity」は、ロンドンのThe Exchangeで伝説的なミキシングエンジニアとして知られているMike Marsh氏によってマスタリングされ、1994年にUKレーベルWhatever からリリースされたジャングルトラック。
 
 #### Trackliste
 ```md

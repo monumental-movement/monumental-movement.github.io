@@ -78,7 +78,7 @@ Reaktionsfähigkeit, als ob der Rhythmus „atmen“ würde. Aus diesem Grund le
 
 ---
 
-### Kapitel 4 Akustische Struktur: Entwicklung des Tieftonbereichs und der Rhythmustextur
+### Kapitel 4 Akustische Struktur: Entwicklung tiefer Frequenzen und rhythmischer Textur
 #### ── Um den „Geist des 808-Kicks“ zu überwinden
 
 Das Herzstück des TR-1000 ist eine Low-End-Designphilosophie.
@@ -113,7 +113,7 @@ In den 1980er Jahren brachte der TR-808 den Hip-Hop hervor, der 909 den Techno u
 Die TR-Serie stand schon immer an einem Wendepunkt in der Musikgeschichte.
 
 Der TR-1000 schafft auch ein neues Symbol in der modernen Clubkultur, in der KI und Live-Performance nebeneinander existieren.
-Detroits DJ Bone beschreibt den TR-1000 als „atmende Rhythmusmaschine“, und der Tokioter Produzent Seiho sagt: „Rhythmus hat begonnen, Emotionen zu entwickeln.“
+Detroits DJ Bone beschreibt den TR-1000 als „atmende Rhythmusmaschine“, und der Tokioter Produzent Seiho sagt: „Rhythmus hat begonnen, Emotionen zu erzeugen.“
 Im kulturellen Kontext bedeutet der TR-1000 keine „Erweiterung der Nostalgie“, sondern eine „Erweiterung des rhythmischen Bewusstseins“.
 
 ---

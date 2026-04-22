@@ -23,7 +23,7 @@ title: '[Kolumne] Die Geburt von Akai MPC und der Beat-Kultur: Wie Sampling das 
 Text: mmr｜Thema: „Zeit“ und „Physikalität“ neu definiert durch Sampling und Pad-Bedienung
 
 
-In den späten 1980er Jahren begannen die Rhythmen, die zuvor nur im Studio zu hören waren, in unsere Fingerspitzen einzudringen. Es handelt sich nicht um ein Keyboard oder eine Partitur, sondern um den physischen Akt, durch das Anschlagen Musik zu erzeugen. Im Mittelpunkt stand die MPC-Serie von Akai.
+In den späten 1980er Jahren begannen die Rhythmen, die zuvor dem Studio vorbehalten waren, in unsere Fingerspitzen einzudringen. Es handelt sich nicht um ein Keyboard oder eine Partitur, sondern um den physischen Akt, durch das Anschlagen Musik zu erzeugen. Im Mittelpunkt stand die MPC-Serie von Akai.
 
 Diese Maschine ist nicht nur eine Drum-Maschine und auch nicht nur ein Sampler. Es war ein Gerät, das Geräusche zerhackte, sie neu ordnete und die Zeit selbst rekonstruierte.
 
@@ -51,7 +51,7 @@ In den 1980er Jahren gab es bereits Sampler. Aber sie waren teuer und komplizier
 
 Es gibt jemanden, der diese beiden Funktionen integriert und in eine intuitiv nutzbare Form gebracht hat. Roger Linn. Zuvor hatte er mit dem LM-1 und der LinnDrum die Geschichte der Drum Machines verändert.
 
-Sein Ziel war jedoch ein Gerät zur Erzeugung freierer Rhythmen.
+Sein Ziel war jedoch ein freieres Gerät zur Rhythmuserzeugung.
 
 > Aus der Fusion von Sampler und Drum Machine entstand die Idee von MPC.
 
@@ -76,7 +76,7 @@ C --> D[スイング調整]
 D --> E[グルーヴ生成]
 </div>
 
-> Der MPC60 hat die „menschliche Fluktuation“ wieder in den Takt gebracht.
+> MPC60 hat die „menschliche Fluktuation“ wieder in den Takt gebracht.
 
 ---
 

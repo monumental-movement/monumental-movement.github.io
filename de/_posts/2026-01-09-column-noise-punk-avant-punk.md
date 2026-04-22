@@ -46,9 +46,9 @@ color: #fff;
 
 ## Punk nach Punk: Zusammenbruch der Voraussetzungen
 
-Um 1977 verbreitete sich Punk rasant und wurde gleichzeitig schnell formalisiert. 3 Akkorde, kurze Lieder, aggressive Einstellung. Sie entwickelten sich schnell zu einem Stil und begannen, reproduziert zu werden. Noise Punk/Avant Punk entstand aus einem starken Gefühl des Unbehagens in dieser Situation.
+Um 1977 verbreitete sich Punk rasant und wurde gleichzeitig schnell formalisiert. 3 Akkorde, kurze Lieder, aggressive Einstellung. Sie entwickelten sich schnell zu einem Stil und begannen, reproduziert zu werden. Noise Punk/Avan Punk entstand aus einem starken Gefühl des Unbehagens in dieser Situation.
 
-Das Problem für sie bestand darin, dass Rock wieder einmal auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird zur Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
+Das Problem für sie bestand darin, dass Rock erneut auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird in Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
 
 Diese Haltung schien Punk zu leugnen, in Wirklichkeit war sie jedoch eine gründliche Umsetzung des grundlegenden Geistes des Punk.
 

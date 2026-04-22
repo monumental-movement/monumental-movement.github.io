@@ -62,7 +62,7 @@ graph TD
 
 ## Entwicklung modularer Synthesizer
 
-In den 1990er Jahren erschienen analog/digitale Hybridmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
+In den 1990er Jahren erschienen hybride Analog-/Digitalmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
 
 Insbesondere seit 1995 sorgt der von Doepfer vorgeschlagene Eurorack-Standard dafür, dass Module kompatibel und kompakt sind und es für Einzelpersonen einfacher ist, modulare Sets zusammenzustellen. Dies führt direkt zur Erweiterung der Modular Techno-Szene ab den 2000er Jahren.
 
@@ -98,7 +98,7 @@ Wenn man über das Genre Modular Techno spricht, ist es besonders wichtig, wer m
 
 ## Chirurg (Anthony Child)
 
-Der in Großbritannien geborene Surgeon gilt als einer der ersten Künstler, der modulare Synthesizer im techno-industriellen Trend einführte. Seit den 2010er Jahren basieren seine Live-Sets auf Eurorack-Modulen und etablieren damit einen Stil, der sich eher durch „völlig improvisierte Klangerzeugung“ als durch Track-Wiedergabe auszeichnet. Seine Live-Kompositionen entwickeln sich durch eine Kombination aus Klangveränderungen durch Patching-Änderungen und Rhythmusgenerierung mithilfe eines Sequenzers, sodass das Publikum physische Veränderungen in Rhythmus und Lärm in Echtzeit erleben kann.
+Der in Großbritannien geborene Surgeon gilt als einer der ersten Künstler, der modulare Synthesizer im techno-industriellen Trend einführte. Seit den 2010er-Jahren basieren seine Live-Sets auf Eurorack-Modulen und etablieren damit einen Stil, der eher durch „völlig improvisierte Klangerzeugung“ als durch Track-Wiedergabe gekennzeichnet ist. Seine Live-Kompositionen entwickeln sich durch eine Kombination aus Klangveränderungen durch Patching-Änderungen und Rhythmusgenerierung mithilfe eines Sequenzers, sodass das Publikum physische Veränderungen in Rhythmus und Lärm in Echtzeit erleben kann.
 
 ## Ø [Phase]
 
@@ -301,6 +301,15 @@ Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „d
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbEiN4noB24?si=r0UPXvEOLmhojRgK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # Detaillierte Ausstattungsliste (Modular Techno häufig verwendete Module)
 
 Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig von echten Modular-Techno-Künstlern verwendet werden, mit Schwerpunkt auf Eurorack.
@@ -371,7 +380,7 @@ Der Live-Auftritt des Surgeon-Duos mit Daniel Bean zeichnet sich durch einen Ans
 
 ## Alte Methoden
 
-Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Geräuschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
+Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Rauschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
 
 ## Rødhåd
 

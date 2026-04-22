@@ -156,7 +156,7 @@ Wichtigste japanische Spieler:
 ### ▪ DIY-Geist und modernes Erbe
 
 In den letzten Jahren kam es zu Überschneidungen mit Dubstep/Techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** sind derzeit aktiv.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** und andere sind derzeit aktiv.
 Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound mit unseren eigenen Händen zu erzeugen“.
 
 ---

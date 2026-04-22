@@ -43,7 +43,7 @@ color: #fff;
 
 Das primitivste Musikinstrument der Menschheitsgeschichte ist die Stimme, und der gemeinschaftliche Ausdruck mehrerer Menschen durch die Stimme hat sich eng mit religiösen Ritualen und Gemeinschaftsstrukturen entwickelt.
 Das moderne Bild von „Chor = disziplinierte, homogene Harmonie“ ist jedoch eigentlich nur eine Reihe von Werten, die während eines begrenzten Zeitraums vom 19. bis zum 20. Jahrhundert vorherrschend wurden.
-In der zweiten Hälfte des 20. Jahrhunderts, mit dem Aufkommen der Avantgarde-Musik und Fortschritten in der Akustik, wurde der Chorgesang dramatisch ausgeweitet, da die Stimme wiederentdeckte, dass sie mehr konnte.
+In der zweiten Hälfte des 20. Jahrhunderts, mit dem Aufkommen der Avantgarde-Musik und Fortschritten in der Akustik, wurde der Chorgesang dramatisch erweitert, da die Stimme wiederentdeckte, dass sie mehr konnte.
 
 Chor-/Gesangsexperimental ist ein Feld, das im Zuge der Wiederentdeckung etabliert wurde, und es ist zutreffender, es als eine Gruppe von Methoden zur Maximierung des künstlerischen Potenzials der Stimme zu betrachten und nicht nur als ein Genre.
 
@@ -60,7 +60,7 @@ Wir betrachten hier aus der Vogelperspektive, wie die Chormusik über einen lang
 
 ## 2-2. Erste Hälfte des 20. Jahrhunderts: die Entstehung avantgardistischer Perspektiven auf die Stimme
 
-* Mit der Zwölftontechnik von Schönberg und Webern, Strawinskys vielschichtigen Rhythmen und Bartóks Einführung akustischer Aspekte der Volksmusik nahm auch der Einsatz der Stimme rasch zu.
+* Mit Schönbergs und Weberns Zwölftontechnik, Strawinskys vielschichtigen Rhythmen und Bartóks Einführung akustischer Aspekte der Volksmusik nahm auch die Verwendung der Stimme rasch zu.
 * Carl Orffs Carmina Burana (1937) wird als symbolisches Werk zitiert, das die Stimme als „primitive Energiequelle“ behandelt.
 
 ## 2-3. Ligeti und neues akustisches Denken (1960er Jahre)
@@ -95,11 +95,11 @@ Eric Whitacre schlägt eine Brücke zwischen traditioneller Chormusik und einem 
 *《Schlaf》(2000)
 usw. liegen zwischen Polyphonie und reicher Parallelharmonie und zeichnen sich durch harmonische Dichte und Manipulation der Texturdichte aus.
 
-Darüber hinaus war die Initiative „Virtual Choir“ innovativ, da sie die Realität des Chorgesangs auf die digitale kollaborative Produktion erweiterte.
+Darüber hinaus war die Initiative „Virtual Choir“ insofern innovativ, als sie die Realität des Chorgesangs auf die digitale kollaborative Produktion erweiterte.
 
 ---
 
-# 3. Chronologie: Wichtige Entwicklungen im experimentellen Chor-/Gesangsbereich
+# 3. Chronologie: Wichtige Entwicklungen im Chor-/Gesangsexperiment
 
 <div class="mermaid">
 timeline
@@ -133,13 +133,13 @@ Eine von Ligeti entwickelte Technik, bei der jede Stimme gleichzeitig leicht unt
 **Eine Textur wie eine riesige Obertongruppe** erscheint.
 *Besonders am Anfang von „Lux Aeterna“ überlagert sich der unbegleitete Refrain schichtweise, wodurch der Effekt einer **dreidimensionalen Erweiterung** des Klangs entsteht.
 
-## 4-2. Mikroton-/Pitchbend
+## 4-2. Mikroton/Pitch-Bend
 
 Eine Methode, die feinere Tonhöhen als normale Halbtöne verwendet (z. B. 1/4 Ton) und das „Schwanken“, „Interferenz“ und „Stöhnen“ der Stimme nutzt.
 
 ### Akustische Phänomene
 
-* Wenn zwei Stimmen leicht unterschiedliche Frequenzen abgeben, entsteht ein **Schlag**, der einen zitternden Effekt im Raum erzeugt.
+* Wenn zwei Stimmen leicht unterschiedliche Frequenzen aussenden, entsteht ein **Schlag**, der einen zitternden Effekt im Raum erzeugt.
 * In den Vokalwerken der Spektralmusikschule werden reichhaltige Klangfarbenübergänge durch die Kombination von Änderungen in **Vokalformanten** und mikrotonaler Manipulation gestaltet.
 
 ## 4-3. Topologie/Kanonstruktur
@@ -177,7 +177,7 @@ Aktuelle Experimente verwenden manchmal Echtzeitverarbeitung und Mehrkanalvertei
 * Tonhöhenverschiebung
 * Granulare Verarbeitung
 
-Damit wird das statische Bild des Chores vollständig aufgelöst und die Partikelisierung und räumliche Verteilung der Stimmen zum Zentrum der musikalischen Struktur.
+Damit wird das statische Bild des Chores vollständig aufgelöst und die **partikuläre/räumliche Verteilung der Stimmen** zum Zentrum der musikalischen Struktur.
 
 ---
 
@@ -209,7 +209,7 @@ Whittaker ist für ihre Chorwerke bekannt, die eine klassische Schönheit bewahr
 
 ### Virtueller Chor
 
-„Virtual Choir“, das in den 2010er Jahren stattfand, war ein Versuch, aus aller Welt aufgenommene Einzelstimmen zu einem gigantischen Chor zu integrieren.
+„Virtual Choir“, das in den 2010er Jahren stattfand, ist ein Versuch, aus aller Welt aufgenommene Einzelstimmen zu integrieren und einen gigantischen Refrain zu schaffen.
 Dies ist in der Musikgeschichte als **Erweiterung des Konzepts des Chorgesangs im Internetzeitalter** bemerkenswert.
 
 ---
@@ -321,7 +321,7 @@ Kooperationen mit Tanzkompanien und darstellenden Künsten, die Stimme und körp
 
 # 10. Zusammenfassung
 
-Choral/Vocal Experimental betrachtet die Stimme nicht als eine Ansammlung von Tonhöhen, sondern vielmehr
+Choral/Vocal Experimental betrachtet die Stimme nicht als eine Ansammlung von Tonhöhen, sondern vielmehr als eine Ansammlung von Tonhöhen
 **Es handelt sich um einen Bereich, der sich umfassend mit akustischen, räumlichen, physikalischen und sozialen Phänomenen befasst**.
 
 Die von Ligeti und Whittaker demonstrierten stimmlichen Möglichkeiten wurden von modernen Komponisten weiter ausgebaut.

@@ -44,7 +44,7 @@ color: #fff;
 
 In den 1970er Jahren demokratisierten Synthesizer von Moog, ARP und japanischen Herstellern wie Roland und Yamaha die Musikproduktion.
 Elektronischer Klang, der bis dahin riesigen Studiogeräten vorbehalten war, hielt nach und nach Einzug in Haushalte und Veranstaltungsorte für Live-Musik.
-Kraftwerks „The Robots“ ist anorganisch, als würde es die Grenzen zwischen Mensch und Maschine in Frage stellen, schwingt jedoch mit einem seltsamen Sinn für Humor mit.
+Kraftwerks „The Robots“ ist anorganisch, als würde es die Grenzen zwischen Mensch und Maschine in Frage stellen, strahlt aber dennoch einen seltsamen Sinn für Humor aus.
 Die von ihnen präsentierte Vision von „Mensch = Maschine“ wurde zum Konzept, das der gesamten nachfolgenden Popmusik zugrunde lag.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/og9MIfeDR3w?si=CbK10wexfZZ09ot6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -142,7 +142,7 @@ Dahinter verbirgt sich eine durchgängige technologische Ästhetik von YMO bis P
 
 ---
 
-## Kapitel 6 Technologie und Emotionen: Wenn Maschinen Menschen darstellen
+## Kapitel 6 Technologie und Emotionen: Wenn Maschinen Menschen anziehen
 
 Sequenzer, Sampler, Autotune.
 Dabei handelte es sich nicht um Werkzeuge für „Genauigkeit“, sondern um Pinsel, die dazu dienten, „menschliche Mehrdeutigkeit“ hervorzuheben.
@@ -191,9 +191,9 @@ Während die KI-Komposition voranschreitet, könnte die „menschliche Künstlic
 
 Synthpop ist sowohl der „Sound der Zukunft“ als auch der „Sound der Nostalgie für die Vergangenheit“.
 Warum berühren uns die kalten elektronischen Klänge der 1980er Jahre so sehr? Denn sie enthalten die „Temperatur einer Zeit, als die Menschen an die Zukunft glaubten“.
-Selbst jetzt, wo die digitale Technologie voranschreitet und KI beginnt, Musik zu komponieren, suchen Menschen weiterhin in den Geräuschen von Maschinen nach ihrem „Selbst“.
+Selbst jetzt, da sich die digitale Technologie weiterentwickelt und KI begonnen hat, Musik zu komponieren, suchen Menschen weiterhin in den Klängen von Maschinen nach ihrem „Selbst“.
 
-Die „Beziehung zwischen Technologie und Emotion“, nach der Ryuichi Sakamoto bis zum Schluss immer wieder gefragt hat, ist nun wieder ein vordergründiges Thema.
+Die „Beziehung zwischen Technologie und Emotion“, die Ryuichi Sakamoto bis zum Schluss immer wieder fragte, ist nun wieder ein vordergründiges Thema.
 Und irgendwo in dieser Linie liegen YMOs elektronisches Lächeln, Perfumes Polyrhythmen und Charli XCXs pixelige Tränen.
 
 Die Zukunft klingelt immer in elektronischen Träumen.
@@ -256,7 +256,7 @@ A1. Synthpop ist ein Genre, das elektronische Klänge in Popsongs integriert, un
 
 A2. Beispiele hierfür sind Depeche Mode, New Order, Pet Shop Boys und Human League.
 
-- **Q3. Wie hat japanischer Synthie-Pop das Ausland beeinflusst? **
+- **Q3. Welchen Einfluss hat japanischer Synth-Pop auf Übersee? **
 
 A3. Der experimentelle Geist von YMO und Ryuichi Sakamoto beeinflusste Daft Punk und Radiohead und wurde zum Ursprung der „elektronischen Menschheit“ im KI-Zeitalter.
 

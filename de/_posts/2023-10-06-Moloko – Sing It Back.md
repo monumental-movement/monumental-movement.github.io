@@ -9,13 +9,13 @@ permalink: /de/moloko-sing-it-back/
 tags:
 - House
 - Garage House
-title: Moloko – Sing es zurück
+title: Moloko – Sing It Back
 ---
 
 
 „Sing It Back“ ist ein Lied des irisch-britischen Duos für elektronische Musik Moloko (Róisín Murphy und Mark Brydon).
 
-Das Lied erschien erstmals in seiner Originalversion auf ihrem zweiten Album „I Am Not a Doctor“ (1998) und wurde am 8. März 1999 als Single veröffentlicht und erreichte Platz 45 der britischen Single-Charts. Der Song erzielte Erfolg in den Charts und erreichte im September 1999 Platz 4 in Großbritannien, nachdem er von DJ Boris Dlugosch remixt wurde.
+Das Lied erschien erstmals in seiner Originalversion auf ihrem zweiten Album „I Am Not a Doctor“ (1998) und wurde am 8. März 1999 als Single veröffentlicht und erreichte Platz 45 der britischen Single-Charts. Der Song war erfolgreich in den Charts und erreichte im September 1999 Platz 4 in Großbritannien, nachdem er von DJ Boris Dlugosch remixt worden war.
 
 #### Trackliste
 ```md

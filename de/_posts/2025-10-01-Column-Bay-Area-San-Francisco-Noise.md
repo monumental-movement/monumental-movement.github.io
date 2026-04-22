@@ -11,18 +11,17 @@ tags:
 - Experimental
 - 80s
 - 90s
-title: '[Spalte] Bay Area Noise/Experimentelle Musikszene – 50 Jahre Zerstörung und
-  Resonanz'
+title: 【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史
 ---
 
 
-## Was ist in der Bay Area passiert?
+## ベイエリアで何が起きたか？
 
-Text: mmr｜Thema: Die Schnittstelle von Maschinen, Collage und Improvisation – die Geschichte und empfohlene Diskographie der in der Bay Area gepflegten Noise-/Experimentalmusik
+文：mmr｜テーマ：機械とコラージュ、即興の交差点──ベイエリアで育まれたノイズ／実験音楽の歴史とおすすめディスコグラフィ
 
 
 
-Die Bay Area mit ihren Zentren rund um San Francisco und Oakland ist ein subkulturelles Testgelände und bietet einen einzigartigen „Ort für die tatsächliche Produktion“ von Noise-/experimenteller Musik. Die Bühnen und Methoden sind vielfältig, etwa Performance-Kunst, die den DIY-Geist der 1970er und 1980er Jahre und die Gewalt von Maschinen und Geräuschen in den Vordergrund stellte (z. B. Survival Research Laboratories), und Gruppen, die die Tonbandcollagen-/Sampling-Kultur auf ein populäres Niveau brachten (z. B. Negativland). Diese Aktivitäten führten zu Live-Häusern, Kunsträumen, Kassetten-/Indie-Labels und später zur Festivalkultur.
+サンフランシスコとオークランドを中心とするベイエリアは、サブカルチャーの実験場であり、ノイズ／実験音楽にとって特異な「実作の場」を提供してきました。1970〜80年代のDIY精神、機械と音響の暴力性を前景化したパフォーマンス・アート（例：Survival Research Laboratories）や、テープコラージュ／サンプリング文化をポピュラーレベルに押し上げたグループ（例：Negativland）など、舞台も手法も多様です。これらの活動はライブハウスやアートスペース、カセット/インディーレーベル、そして後のフェスティバル文化へと接続していきます。
 
 ---
 
@@ -43,8 +42,8 @@ color: #fff;
 
 ## Übersicht
 
-Die San Francisco Bay Area war von den späten 1970er Jahren bis heute ein wichtiger Knotenpunkt für Noise-/experimentelle Musik.
-Wir werden die Genealogie der lokal kultivierten Noise-/Experimentalmusik nachzeichnen und die wichtigsten Personen/Gruppen, Veranstaltungsorte/Festivals und empfohlenen Alben nach Jahr erklären.
+サンフランシスコ湾岸（ベイエリア）は、1970年代末から現在に至るまで、ノイズ／実験音楽の重要な拠点でした。
+現地で育まれたノイズ／実験音楽の系譜を辿り、主要人物・団体、現場・フェス、年代別おすすめアルバムを解説します。
 
 <div class="mermaid">
 flowchart TD
@@ -56,11 +55,11 @@ flowchart TD
 
 ---
 
-### Hauptakteure und Feldökologie
+### キー・プレイヤーと場の生態
 
-#### Survival Research Laboratories (SRL)
+#### Survival Research Laboratories（SRL）
 
-SRL, bekannt für seine zerstörerische mechanische Leistung, wurde 1978 von Marc Poulin gegründet. Die Show, bei der riesige Geräte zum Einsatz kamen und die Geräusche von Feuer, Staub und Metall zu hören waren, machte die „Sichtbarkeit“ und „Gefahr“ von Lärm deutlich und etablierte die Bay Area als „Testgelände für Geräusche und Maschinen“. Die Aktivitäten von SRL werden nicht nur für die Darstellung akustischer Geräusche gelobt, sondern auch für ihre Sicht auf Industrietechnologie.
+機械による破壊的パフォーマンスで知られるSRLは、1978年にマーク・ポーリンによって発足。巨大な装置と火・粉塵・金属音を用いたショーは、ノイズの“視覚性”と“危険性”を明確に提示し、ベイエリアを「音と機械の実験場」として確立しました。SRLの活動は音響的なノイズ表現のみならず、産業技術への眼差しとしても評価されています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Cp7aD0q63g?si=SGP_qqxe3psR5CwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -68,29 +67,29 @@ SRL, bekannt für seine zerstörerische mechanische Leistung, wurde 1978 von Mar
 
 #### Negativland
 
-Eine Gruppe, die im Raum San Francisco aktiv ist und für ihre medienkritischen Arbeiten bekannt ist, die Sampling/Collage verwenden. Werke wie „Escape From Noise“ aus den späten 1980er Jahren waren wichtige Werke, die die Schnittstelle von Lärm und Popkultur zeigten und durch DIY-Radio und gefälschte Werbetechniken Kontroversen und Aufmerksamkeit erregten.
+サンフランシスコ周辺で活動し、サンプリング／コラージュを用いたメディア批評的作品で知られる集団。1980年代後半の『Escape From Noise』などは、ノイズとポップカルチャーの接合点を示した重要作で、DIYラジオやフェイク広告的手法を通じて論争と注目を集めました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Matmos und lokale Ableitung
+#### Matmos とローカル派生
 
-Matmos wurde in den 1990er Jahren in San Francisco gegründet und erlangte internationale Anerkennung für ihre konzeptionelle Arbeit, die Sampling nutzt. Seit den 2000er Jahren ist es weiterhin führend auf der „konzeptionellen Seite“ der experimentellen Musik und stärkt seine Verbindungen zu Kunstinstitutionen und Festivals für zeitgenössische Musik.
+Matmos は1990年代にサンフランシスコで結成され、サンプリングを用いたコンセプチュアルな作品で国際的に評価されました。2000年代以降も実験音楽の“コンセプチュアル側”を牽引し、アート機関や現代音楽系フェスとの接続を強めています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Gemeinschaft und Feld (Noise Pop, Bay Improviser usw.)
+### コミュニティと現場（Noise Pop・Bay Improviser ほか）
 
-Die Bay Area ist die Heimat von Indie-Festivals wie Noise Pop und improvisatorischen/experimentellen Musikgemeinschaften wie Bay Improviser, die für die Weitergabe von Ausdrucksformen und Veranstaltungsorten an jüngere Generationen verantwortlich sind. Diese Szenen zirkulieren durch den Veranstaltungsort „live“ und bieten eine Plattform, auf der sich Altes und Neues kreuzen.
+ベイエリアにはNoise Popのようなインディフェスや、Bay Improviser のような即興／実験音楽コミュニティが存在し、若い世代の表現と場の継承を担っています。これらは“ライブ”という場を通じてシーンを循環させ、新旧が交差するプラットフォームを提供します。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zuetPCa6C5U?si=GUpW_QiphCpXrUHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Hauptdarsteller
+### 主要アクト
 
 * [**Survival Research Laboratories（SRL）**](https://www.srl.org) — 機械的パフォーマンスと破壊美学。パフォーマンス芸術とノイズの境界を曖昧にした組織。
 
@@ -98,15 +97,15 @@ Die Bay Area ist die Heimat von Indie-Festivals wie Noise Pop und improvisatoris
 
 * [**Matmos**](https://amzn.to/43iSp60) — サンプリング／コンセプチュアルな作品で国際的評価を受けたデュオ。現代音楽や美術館とも接続する。
 
-* **Lokales Improvisations-/Noise-Netzwerk** – Communities wie Bay Improviser pflegen und aktualisieren das Feld.
+* **ローカル即興／ノイズ・ネットワーク** — Bay Improviser のようなコミュニティが現場を維持・更新している。
 
 ---
 
 ### Empfohlene Alben nach Generation
 
-Im Folgenden sind die im Haupttext erwähnten Hauptwerke aufgeführt.
+以下は、本文で挙げた主要作品
 
-| Künstler / Werk | Jahr | Notizen | Link |
+| アーティスト / 作品  | 年 | 備考   | リンク |
 | ------ | ---- | --------------- | ----------- | --------------- |
 | Negativland — *Escape From Noise*  |  1987 | テープコラージュと短い楽曲の混在、代表作  | [Amazon](https://amzn.to/47akMEX) |
 | Matmos — *A Chance To Cut Is A Chance To Cure* |  2001 | 医療音を素材にしたコンセプト作  |  [Amazon](https://amzn.to/48IJtKN) | 
@@ -118,15 +117,15 @@ Im Folgenden sind die im Haupttext erwähnten Hauptwerke aufgeführt.
 
 ---
 
-### Zusammenfassung (jetzt/zukünftig)
+### まとめ（今／未来）
 
-Lärm-/experimentelle Musik in der Bay Area wird ständig aktualisiert, nicht nur als Akt der „Zerstörung“, sondern auch als „Neubearbeitung und Kritik“. Das mechanische Theater von SRL, die Medienkritik von Negativland, die Klangforschung von Matmos – sie alle haben Praktiken präsentiert, die über Musik hinausgehen. Derzeit schreitet ein Hybrid aus digitalem Vertrieb und lokalem DIY voran und Bandcamp und lokale Festivals unterstützen junge Künstler. Zuhören und an der Szene teilnehmen ist der beste Weg, diese Szene zu verstehen.
+ベイエリアのノイズ／実験音楽は、「破壊する」だけでなく「再編集し、批評する」行為として常に更新を続けています。SRLの機械劇場、Negativlandのメディア批評、Matmosのサウンド・リサーチ──いずれも音楽を越えた実践を提示してきました。現在はデジタル配信とローカルDIYのハイブリッドが進み、Bandcampやローカルフェスが若手を支えています。現場で聴き・参加することが、このシーンを理解する最良の方法です。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Anhang: Lokale Gemeinschaften und Veranstaltungen
+### 付録：現地コミュニティとイベント
 
 * [Bay Improviser](https://www.bayimproviser.com): ベイエリアの即興／実験コミュニティのキュレーションとカレンダー（運営の連絡先や月次イベント情報を掲載）。
 * [Noise Pop](https://www.noisepopfest.com): サンフランシスコの年次フェス。地元インディ／実験アクトの露出機会を提供。

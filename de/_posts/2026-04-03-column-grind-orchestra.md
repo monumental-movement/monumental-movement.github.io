@@ -25,7 +25,7 @@ Der Name Grind Orchestra bringt die Natur der Musik auf den Punkt. „Grind“ b
 
 Dieses 1995 vom ehemaligen Boredoms-Mitglied Toyohito Yoshikawa gegründete Projekt begann seine Aktivitäten mit der Überschreitung der Grenzen von Hardcore-, Noise- und Improvisationsmusik.
 
-Obwohl sie eine typische Bandstruktur haben, ähneln sie in Wirklichkeit eher einem Experiment, das die Kollision und Entwicklung von Klängen in Echtzeit erzeugt, als einer Gruppe, die feste Lieder spielt.
+Obwohl sie eine typische Bandstruktur haben, handelt es sich eigentlich nicht um eine Gruppe, die feste Lieder vorträgt, sondern eher um ein Experiment, das die Kollision und Entwicklung von Klängen in Echtzeit erzeugt.
 
 > Grind Orchestra ist ein Klangkollektiv, das den Impuls des Hardcore mit der Freiheit der Improvisation verbindet.
 
@@ -53,7 +53,7 @@ In den 1990er Jahren erregte die Kansai-Alternative-Szene weltweite Aufmerksamke
 
 1994, ungefähr zur Zeit seines Weggangs, gründete er eine neue Gruppe namens Grind Orchestra.
 
-Seine Zusammensetzung war von Anfang an äußerst einzigartig. Mit insgesamt vier Perkussionisten, Theremin und Elektronik wich die Band vom traditionellen Bandkonzept ab.
+Seine Zusammensetzung war von Anfang an äußerst einzigartig. Neben insgesamt vier Percussionisten bestand die Band abweichend vom traditionellen Bandkonzept aus einem Theremin und einer Elektronik.
 
 Was durch dieses Arrangement entstand, war ein wogender Beat und japanischer Gesang, in dem Bedeutung und Klang auf mehreren Ebenen miteinander verflochten sind. Es war nicht nur Noise oder Hardcore, es war eine seltsame Popwelt, die es sonst nirgendwo gab.
 
@@ -188,7 +188,7 @@ Insbesondere sein auf Rhythmus und Stimme ausgerichteter Ansatz hatte großen Ei
 
 ## Fazit – Pop, der von der Struktur abweicht
 
-Grind Orchestra ist ein seltenes Projekt, das auf den Impulsen von Hardcore und der Textur von Noise basiert, darin aber auch eine ungewöhnliche Pop-Qualität findet.
+Grind Orchestra ist ein seltenes Projekt, das auf den Impulsen des Hardcore und der Textur des Noise basiert und gleichzeitig eine ungewöhnliche Pop-Qualität findet.
 
 Physische Beats mit mehreren Percussions, über die Bedeutung hinausgehender Gesang und in späteren Phasen eingeführte melodische Elemente. Durch die Mischung dieser Elemente entstand Musik wie keine andere.
 

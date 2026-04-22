@@ -36,7 +36,7 @@ Traditionell war es als Hintergrundmusik positioniert, die das Spielerlebnis erg
 * Explosion von abgeleiteten Werken aufgrund der Internetkultur
 * Streaming und Playlist-Generierung
 * E-Sport und Großserienproduktion
-*Änderungen der Musikexpositionszeit bei jungen Menschen
+*Änderungen in der Musikexpositionszeit bei jungen Menschen
 * Entscheidende Phase des Mainstreamings
 
 ---
@@ -92,7 +92,7 @@ Das Lied wurde später von Orchestern auf der ganzen Welt aufgeführt.
 
 Begonnen im Jahr 2002
 **Distant Worlds: Musik aus FINAL FANTASY**
-ist wiederholt in Nordamerika, Europa und Japan aufgetreten und hat die Spielemusik in klassischen Sälen etabliert.
+trat in Nordamerika, Europa und Japan auf und etablierte die Spielemusik in klassischen Sälen.
 
 Zu diesem Zeitpunkt wandelte sich Spielemusik von einem „häuslichen Erlebnis“ zu einer „Performance-Kunst im öffentlichen Raum“.
 
@@ -102,7 +102,7 @@ Zu diesem Zeitpunkt wandelte sich Spielemusik von einem „häuslichen Erlebnis�
 
 ### 3. Explosion abgeleiteter Werke und Internetkultur (2000er Jahre)
 
-Mit der Verbreitung von Video-Sharing-Sites breitet sich die Kultur der Performance-Videos und Remixe rasant aus.
+Mit der Verbreitung von Video-Sharing-Sites nimmt die Kultur der Performance-Videos und Remixe rasch zu.
 
 besonders
 **Touhou-Projekt**

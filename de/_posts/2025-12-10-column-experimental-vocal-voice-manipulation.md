@@ -21,7 +21,7 @@ title: '[Spalte] Experimentelle Stimm-/Stimmanipulation – Geschichte und Techn
 
 Text: mmr｜Thema: Experimenteller Gesang, der die Stimme als Material/Geschichte, Techniken, Repräsentanten und zeitgenössische Trends der Stimmmanipulation verarbeitet, erzeugt und neu ordnet
 
-Im 21. Jahrhundert hat sich die Singstimme von einem bloßen Überbringer einer Melodie zu einem bearbeitbaren akustischen Material entwickelt. Mit der Verfügbarkeit von Werkzeugen wie Aufnahme-/Bearbeitungstechnologie, Effekten, Sampling, Echtzeitverarbeitung und Erzeugungstechnologie hat die Stimme eine vielfältige Rolle als Instrument, Textur, räumliche Beschreibung und sogar Datenressource übernommen. Künstler wie Björk und Imogen Heap, die ihre eigenen Stimmen als Hauptmaterial für ihre Experimente und durch technologische Durchbrüche wie Granularsynthese und KI-basierte Resynthese geschaffene Ausdrucksformen verwenden, haben die Möglichkeiten der Stimme erheblich erweitert.
+Im 21. Jahrhundert hat sich die Singstimme von einem bloßen Überbringer von Melodien zu einem bearbeitbaren akustischen Material entwickelt. Mit der Verfügbarkeit von Werkzeugen wie Aufnahme-/Bearbeitungstechnologie, Effekten, Sampling, Echtzeitverarbeitung und Erzeugungstechnologie hat die Stimme eine vielfältige Rolle als Instrument, Textur, räumliche Beschreibung und sogar Datenressource übernommen. Künstler wie Björk und Imogen Heap, die ihre eigenen Stimmen als Hauptmaterial für ihre Experimente verwenden, und Ausdrucksformen, die durch technologische Durchbrüche wie Granularsynthese und KI-basierte Resynthese geschaffen wurden, haben die Möglichkeiten der Stimme erheblich erweitert.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### 1-1. Aufnahmetechnik und Tonbanderzeugung
 
-Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und frequenzmäßigen Eigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen teilweise von ihren bestehenden sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
+Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und Frequenzeigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen manchmal von ihren vorhandenen sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
 
 ### 1-2. Die Ära der Synthese und der analogen Ausrüstung
 
@@ -116,11 +116,11 @@ Die Transformation der Stimme in ein Material ist eine Erweiterung des Ausdrucks
 
 ### 5-1. Identität und Stimme
 
-Die Stimme spiegelt die körperlichen Merkmale einer Person wider, kann jedoch durch Verarbeitungstechniken leicht verändert werden. Dies ermöglicht es Künstlern, ihr Spektrum an Selbstdarstellungen zu erweitern und Zuhörern, ihr Bewusstsein für die Stimme zu aktualisieren.
+Die Stimme spiegelt die körperlichen Merkmale einer Person wider, kann jedoch durch Verarbeitungstechniken leicht verändert werden. Dies ermöglicht es Künstlern, ihr Spektrum an Selbstdarstellungen zu erweitern, und Zuhörern, ihr Bewusstsein für Stimmen zu aktualisieren.
 
 ### 5-2. Leistungsethik und Generationstechnik
 
-Die Reproduktion von Stimmen und die Nachahmung der Stimmen anderer mithilfe von KI wirft ethische Fragen auf. Fragen der Einwilligung und Zuschreibung, etwa die Frage, wessen Stimme wie verwendet wird, müssen parallel zur Entwicklung der Ausdruckstechnologie erörtert werden.
+Die Reproduktion von Stimmen und die Nachahmung der Stimmen anderer mithilfe von KI wirft ethische Fragen auf. Fragen der Einwilligung und Zuschreibung, beispielsweise wer die Stimme verwendet und wie sie verwendet wird, müssen parallel zur Entwicklung der Ausdruckstechnologie erörtert werden.
 
 ---
 
@@ -128,7 +128,7 @@ Die Reproduktion von Stimmen und die Nachahmung der Stimmen anderer mithilfe von
 
 ### 6-1. Extraktion und Konvertierung von Audiofunktionen
 
-Durch maschinelles Lernen ist es möglich, Tonhöhe, Spektralhülle, Timing und Ausspracheeigenschaften von Sprache mit hoher Präzision zu extrahieren und auf andere Stimmen oder synthetisierte Klänge zu übertragen. Stiltransferanwendungen erregen Aufmerksamkeit als Methode, um Merkmale des bestehenden Gesangs in neue Kontexte zu integrieren.
+Durch maschinelles Lernen ist es möglich, die Tonhöhe, die Spektralhülle, das Timing und die Ausspracheeigenschaften von Sprache mit hoher Präzision zu extrahieren und auf andere Stimmen oder synthetisierte Klänge zu übertragen. Stiltransferanwendungen erregen Aufmerksamkeit als Methode, um Merkmale des bestehenden Gesangs in neue Kontexte zu integrieren.
 
 ### 6-2. Grenze zwischen synthetischer Sprache und Schöpfung
 

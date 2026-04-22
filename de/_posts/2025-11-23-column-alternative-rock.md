@@ -96,7 +96,7 @@ Allerdings stellte er andere Werte dar als kommerzieller Rock und wurde zu einer
 
 Etwa zur gleichen Zeit erzielten Bands aus Seattle wie Pearl Jam, Soundgarden und Alice in Chains nacheinander Erfolge und wurden weltweit als „Vertreter des Grunge/Alternative“ anerkannt.
 
-Allerdings ist es nicht korrekt, über Alternative als Ganzes nur im Hinblick auf Grunge zu sprechen. Etwa zur gleichen Zeit traten Bands mit unterschiedlichen Stilrichtungen wie Pavement, Smashing Pumpkins, Breeders und Belly auf, und der Bereich der alternativen Musik erweiterte sich rasch.
+Allerdings ist es nicht korrekt, über Alternative als Ganzes nur im Hinblick auf Grunge zu sprechen. Etwa zur gleichen Zeit traten Bands mit unterschiedlichen Stilrichtungen wie Pavement, Smashing Pumpkins, Breeders und Belly auf, und der Bereich der alternativen Musik expandierte rasch.
 
 ---
 
@@ -196,7 +196,7 @@ Was ist die Geschichte des Alternative Rock?
 **Eine Geschichte der „Rebellion der Peripherie gegen das Zentrum“, die sich immer wieder in den Mainstream einfügt und ihr Erscheinungsbild jedes Mal verändert**
 Es ist.
 
-Es entstand am Rande des kommerziellen Rock, wurde vom Mainstream aufgenommen und verwandelte sich dann wieder in den Underground.
+Es entstand am Rande des kommerziellen Rock, wurde vom Mainstream aufgenommen und verwandelte sich dann wieder in den Untergrund.
 Dieser Zyklus ist das Symbol von Alterna und seine größte Anziehungskraft in den letzten 40 Jahren.
 
 Egal wie sich die Musik der Zukunft verändert,

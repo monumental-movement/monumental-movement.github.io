@@ -42,7 +42,7 @@ Mit anderen Worten: Bloghouse war weniger ein Musikgenre als vielmehr eine Clubk
 Damals spielten Musikblogs die Rolle, neue Musikquellen vorzustellen. Viele Websites listeten die MP3s als Direktdownloads auf, sodass Leser die neuesten Titel kostenlos erhalten konnten.
 Dieses System schuf ein einzigartiges Vertriebsnetz, das nicht durch Werbeaktionen von Plattenfirmen vermittelt wurde.
 
-Rückblickend auf die Geschichte der Clubkultur zeigt sich, dass die Art und Weise, wie Musik verbreitet wird, je nach Medium sehr unterschiedlich ist. Das Radio machte Rockmusik populär, Plattenläden schufen House-Musik und Blogs schufen Bloghouse.
+Blickt man auf die Geschichte der Clubkultur zurück, so variiert die Verbreitung von Musik je nach Medium stark. Das Radio machte Rockmusik populär, Plattenläden schufen House-Musik und Blogs schufen Bloghouse.
 
 > Bloghouse war ein Testgelände für die Clubkultur, die durch den Musikvertrieb im Internetzeitalter geschaffen wurde.
 
@@ -202,7 +202,7 @@ A --> E[Techno]
 Ein weiteres Merkmal von Bloghouse ist seine Remix-Kultur.
 
 Viele DJs überarbeiteten bestehende Songs, um neue Dancefloor-Versionen zu erstellen.
-Dies waren keine offiziellen Veröffentlichungen und wurden oft kostenlos auf Blogs verbreitet.
+Dies waren keine offiziellen Veröffentlichungen und wurden oft kostenlos auf Blogs verteilt.
 
 Diese Kultur brachte ein neues Gefühl von Geschwindigkeit in die Clubmusik.
 

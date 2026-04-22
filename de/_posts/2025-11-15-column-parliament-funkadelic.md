@@ -75,7 +75,7 @@ flowchart TD
 ## Kapitel 2: Der Aufstieg von Funkadelic – Die Psychedelisierung der schwarzen Musik (1968-)
 
 Im Jahr 1968 stellte sich George Clinton einen „schwarzen Jimi Hendrix“ vor und gründete **Funkadelic**.
-Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic vermischte sich noch weiter:
+Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic mischte sich weiter:
 
 ### ● Musikalische Eigenschaften von Funkadelic
 
@@ -129,7 +129,7 @@ Was P-Funk einzigartig macht, ist nicht nur die Stärke seines Grooves, sondern 
 Das Trommeln von Jerome „Bigfoot“ Braley und anderen weist die folgenden Merkmale auf.
 
 * Minimale Bassdrum
-* Snare ist tief und zurück
+* Die Schlinge liegt tief und nah am Rücken.
 *Hi-Hat hat ein wenig Shuffle
 
 Dadurch fühlt es sich an, als würde sich der Beat vorwärts bewegen, während er schwebt.
@@ -162,7 +162,7 @@ Barney Worrells Minimoog brachte zum ersten Mal „kosmische elektronische Klän
 
 ### ■ Parlament „Mothership Connection“ (1975)
 
-* Das zentrale Werk des P-Funk-Mythos
+* Das zentrale Werk der P-Funk-Mythologie
 * Welthits wie „Give Up the Funk“ und „Mothership Connection“
 * Maximiert die Live-Theatralik
 
@@ -269,14 +269,14 @@ timeline
 ## Fazit: P-Funk ist ein „riesiges Archiv schwarzer Futures“
 
 George Clinton ist mehr als nur ein Funk-Leader.
-Er war ein „Kulturarchitekt“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
+Er war ein „Kulturdesigner“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
 
 Die Weltanschauung von P-Funk ist bis heute lebendig und bildet die Grundlage für aktuellen Hip-Hop, R&B, Elektrokunst und Mode.
 Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft spricht, wird ihr Raumschiff „Mothership“ niemals landen.
 
 ---
 
-### Anhang: Empfohlene Diskografie (von der Einführung bis zum Deep Dive)
+### Anhang: Empfohlene Diskographie (von der Einführung bis zum Deep Dive)
 
 * Funkadelic „Maggot Brain“
 * Funkadelic „Cosmic Slop“

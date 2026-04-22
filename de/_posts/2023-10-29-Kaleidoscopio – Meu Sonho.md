@@ -13,9 +13,9 @@ title: Kaleidoscópio – Meu Sonho
 ---
 
 
-Kaleidoscópio (Kaleidoscópio/Kaleido) ist ein Drum'n'Bass- und Bossa-Nova-Duo bestehend aus Ramilson Maia (DJ Ramilson Maia) und Janaina Lima (DJ Ramilson Maia) aus São Paulo, Brasilien. Es wurde Anfang der 2000er Jahre in Brasilien und Italien populär und verbreitete sich dann weltweit.
+Kaleidoscópio （カレイドスコピオ /カレイド） は、ブラジルのサンパウロ出身のRamilson Maia（DJ ラミルソン・マイア）とJanaina Lima（ジャナイナ・リマ）によるドラムンベース＆ボサノバのデュオ。2000年代前半からブラジルとイタリアで人気を博し、その後世界的な人気となりました。
 
-Die B-Seite enthält einen Remix des brasilianischen DJ Deeplick.
+B面はブラジルのDJ、Deeplickによるリミックスを収録。
 
 #### Trackliste
 ```md

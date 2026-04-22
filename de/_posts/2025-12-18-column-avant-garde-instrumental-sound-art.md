@@ -44,7 +44,7 @@ color: #fff;
 
 ### 1-1 Von experimenteller Musik bis hin zu akustischer Kunst
 
-Seit den 1950er Jahren wurde der Klang mit der Entwicklung elektronischer Musikstudios von der Darbietung von Musikinstrumenten getrennt und zu einem Objekt, das als Signal manipuliert werden kann. Technologien wie Magnetband, Oszillatoren und Filter machten es möglich, Ton aufzunehmen, zu verarbeiten und neu zu arrangieren.
+Seit den 1950er Jahren, mit der Entwicklung elektronischer Musikstudios, wurde der Klang von der Darbietung von Musikinstrumenten getrennt und ist zu einem Objekt geworden, das als Signal manipuliert werden kann. Technologien wie Magnetband, Oszillatoren und Filter machten es möglich, Ton aufzunehmen, zu verarbeiten und neu zu arrangieren.
 
 Mit diesem Wandel sind musikalische Werke nicht mehr auf Aufführungsorte beschränkt, sondern halten Einzug in Museen, Galerien und öffentliche Räume. Der Begriff Klangkunst wird verwendet, um eine Gruppe von Werken zu bezeichnen, deren Hauptmaterial Klang ist, die jedoch nicht unbedingt musikalischen Systemen oder Aufführungskonventionen folgen.
 

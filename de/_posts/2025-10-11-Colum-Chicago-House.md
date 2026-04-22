@@ -145,7 +145,7 @@ In den späten 1980er Jahren expandierte Chicago House über seine Grenzen hinau
 
 ## Kapitel 8: Repräsentative Diskographie
 
-| Künstler | Titel | Jahr | Link |
+| アーティスト | タイトル | 年 | リンク |
 |-------------|----------|----|---------------|
 | Frankie Knuckles | Baby Powder / Your Love | 1983 | [Amazon](https://amzn.to/477bklH) |
 | Marshall Jefferson | Move Your Body | 1986 | [Amazon](https://amzn.to/3VWEWNo) |

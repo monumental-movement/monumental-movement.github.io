@@ -21,7 +21,7 @@ title: Holen Sie sich Dubstep-Werke
 ### Benga & Walsh gegen Darqwan – Süchtige / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-Besonderheiten: Drei Personen mit unterschiedlichen Herangehensweisen sind für jeden Aspekt verantwortlich, was das Stück zu einem Stück mit einer attraktiven Komposition auf beiden Seiten macht.
+Merkmale: Für jeden Aspekt sind drei Personen mit unterschiedlichen Herangehensweisen verantwortlich, was das Stück zu einem Stück mit einer attraktiven Komposition auf beiden Seiten macht.
 
 
 Warum: Bengas Basstiefe, Walshs Groove und Darqwans Originalität kommen in jedem Track durch.

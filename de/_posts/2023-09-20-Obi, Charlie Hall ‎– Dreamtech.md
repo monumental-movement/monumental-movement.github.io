@@ -14,13 +14,13 @@ title: Obi, Charlie Hall – Dreamtech
 ---
 
 
-Obi, Charlie Halls „Dreamtech“ ist eine sehr seltene Platte. A1 und B1 sind wirklich genrelose Tracks, die beide Elemente von Broken Beat/Leftfield/Dub enthalten, wobei afrikanische Vocals/Gesänge eine tribale 90er-Jahre-Stimmung erzeugen.
+Obi, Charlie Hallの「Dreamtech」は、非常にレアなレコードです。A1とB1は、本当にジャンルレスなトラックで、どちらもブロークンビート/レフトフィールド/ダブの要素を含み、アフリカのボーカル/チャントがトライバルな90年代のムードを醸し出しています。
 
-Percussion und bewegende Synthesizer-Linien runden dieses hervorragende After Hours-Juwel ab. Es ist wie etwas, das man in den Chillout-Räumen vieler Nachtclubs der 90er Jahre hören würde.
+パーカッションと動きのあるシンセラインが、優れたアフターアワーの宝石のような作品を完成させています。まるで90年代の多くのナイトクラブのチルアウトルームで聞かれるようなものです。
 
-B2 ist ein völlig magisches und hypnotisches Tribal-Broken-Beat-Deep-House-Meisterwerk. Diese Platte verwendet für die damalige Zeit typische Samples und Vocals und hat eine wunderbare mystische Stimmung.
+B2では、完全に呪術的かつ催眠的なトライバルなブロークンビートディープハウスの名曲です。このレコードはその時代らしいサンプルやボーカルが使われており素晴らしい神秘的なムードがあります。
 
-Diese Platte ist wirklich der Traum eines jeden Liebhabers, und so etwas findet man bei den 12-Zoll-Platten, die Sie suchen, nur selten. Dies ist definitiv eine Platte, die mehr Aufmerksamkeit verdient.
+このレコードは、まさにディガーの夢であり探し物の12インチレコードの中でこのようなものを見つけることは稀で滅多にありません。間違いなくもっと注目される価値のあるレコードと言えるでしょう。
 
 #### Trackliste
 ```md

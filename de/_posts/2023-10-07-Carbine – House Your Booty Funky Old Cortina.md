@@ -9,13 +9,13 @@ permalink: /de/carbine-house-your-booty-funky-old-cortina/
 tags:
 - Techno
 - Acid
-title: Karabiner – Bringen Sie Ihren Hintern unter, Funky Old Cortina
+title: Karabiner – Bringen Sie Ihre Beute unter, Funky Old Cortina
 ---
 
 
 „House Your Booty / Funky Old Cortina“ ist ein von Carbine als Single veröffentlichter Song, der zwei Titel enthält.
 
-„House Your Booty“ ist ein energiegeladener und grooviger House-Track mit einem Beat und Rhythmus, der den Boden in Schwung bringt. Das eingängige Sampling und die funkige Basslinie schaffen eine Atmosphäre, die zum Tanzen einlädt.
+„House Your Booty“ ist ein energiegeladener und grooviger House-Track mit Beat und Rhythmus, der den Tanz in Schwung bringt. Das eingängige Sampling und die funkige Basslinie schaffen eine Atmosphäre, die zum Tanzen einlädt.
 
 Andererseits ist „Funky Old Cortina“ ein Song mit eher funkigen und Retro-Elementen. Es verfügt über straffe Drum-Beats und klassische Funk-Sounds, sodass Sie eine Vintage-Atmosphäre genießen können.
 

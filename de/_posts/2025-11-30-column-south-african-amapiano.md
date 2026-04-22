@@ -51,7 +51,7 @@ Amapiano wird von folgenden Genres beeinflusst:
 
 Insbesondere die Öffentlichkeitsarbeit durch Township-Clubs, Straßenfeste, Taxistände usw. spielte bei der Geburt von Amapiano eine wichtige Rolle.
 
-### Akustische Eigenschaften
+### Akustische Merkmale
 
 Der Sound von Amapiano besteht aus folgenden Elementen:
 
@@ -97,7 +97,7 @@ Mehreren Quellen zufolge begannen die Experimente mit Amapiano um 2012, und spä
 
 ---
 
-### Abbildung 2: Geburtsort und anfängliche Verbreitung
+### Abbildung 2: Geburtsort und anfängliche Ausbreitung
 
 <div class="mermaid">
 graph TD
@@ -111,7 +111,7 @@ graph TD
 
 ---
 
-Ich habe es. Jetzt erweitere ich Kapitel 3 und die folgenden Kapitel und erstelle einen **vollständigen Entwurf auf Japanisch**, während ich auch Markdown-Diagramme einfüge.
+Ich habe es. Jetzt erweitere ich Kapitel 3 und die folgenden und erstelle einen **vollständigen Entwurf auf Japanisch**, während ich auch Markdown-Diagramme einfüge.
 
 ---
 

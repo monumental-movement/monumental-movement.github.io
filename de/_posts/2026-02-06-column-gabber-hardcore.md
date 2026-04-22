@@ -88,7 +88,7 @@ Selbst innerhalb der Niederlande waren die musikalischen Ausrichtungen zwischen 
 
 Rotterdams Hardcore hingegen fungiert als Reaktion auf diese Raffinesse. Unmittelbare Wirkung und Zerstörungskraft haben Vorrang vor Melodie und Atmosphäre, und das Kriterium ist „ob man es aushalten kann“ und nicht „ob man tanzen kann“.
 
-Dieser Konflikt wurde von den Medien übertrieben, wobei die Szenen in beiden Städten oft gegensätzlich dargestellt wurden. In Wirklichkeit war der Fluss von Menschen und Einfluss jedoch wechselseitig, und die Spannung selbst war die Vitalität der Szene.
+Dieser Konflikt wurde von den Medien übertrieben, wobei die Szenen in beiden Städten oft gegensätzlich dargestellt wurden. In Wirklichkeit war der Fluss von Menschen und Einfluss jedoch wechselseitig und die Spannung selbst war die Vitalität der Szene.
 
 > Die Unterschiede zwischen den beiden Städten isolierten den Hardcore nicht, sondern betonten vielmehr seine Präsenz.
 
@@ -130,7 +130,7 @@ Seit den 2000er Jahren hat sich eine einzigartige japanische Interpretation von 
 
 Seit den 2010er Jahren erfährt der 90er-Jahre-Hardcore eine Neubewertung. Elemente, die einst wegen ihrer Übertreibung gemieden wurden, werden mittlerweile eher als ein Element der Aufrichtigkeit angesehen.
 
-Gabba-artige Geschwindigkeit und Verzerrung bekommen im Kontext zeitgenössischen Technos und experimenteller Musik eine neue Bedeutung. Der ehemalige Aufstand dient heute als Bezugspunkt.
+Gabba-ähnliche Geschwindigkeit und Verzerrung bekommen im Kontext zeitgenössischen Technos und experimenteller Musik eine neue Bedeutung. Der ehemalige Aufstand dient heute als Bezugspunkt.
 
 > Gabba Hardcore ist eine unvollendete Kultur, die im Laufe der Zeit immer wieder neu interpretiert wird.
 

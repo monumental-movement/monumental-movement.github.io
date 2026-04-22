@@ -52,7 +52,7 @@ Die Rave-Kultur, die seit den späten 1980er Jahren existierte, war die Mutterge
 
 Mit dem Criminal Justice and Public Order Act im Jahr 1994 änderte sich die Situation jedoch völlig. Dieses Gesetz ging hart gegen Musikveranstaltungen mit „repetitiven Beats“ vor und versetzte der Rave-Kultur einen schweren Schlag.
 
-Diese Regelung beschleunigt die Entwicklung der Musik. In Abkehr von der einfachen Vier-auf-dem-Boden-Struktur wurden komplexere und geteilte Rhythmen angestrebt.
+Diese Regelung beschleunigt die Entwicklung der Musik. In Abkehr von der einfachen Vier-auf-der-Boden-Struktur wurden komplexere und geteilte Rhythmen angestrebt.
 
 Wichtig hierbei ist „Amen-Pause“. Diese kurze Trommelphrase wurde unzählige Male zerhackt und wieder zusammengesetzt, um sie in den Kernrhythmus des Dschungels zu verwandeln.
 
@@ -95,7 +95,7 @@ Eine repräsentative Persönlichkeit, die den Dschungel auf die Weltbühne brach
 
 „Inner City Life“ ist ein Lied, das gleichzeitig die Einsamkeit und Hoffnung des Stadtlebens darstellt und ein wichtiges Werk ist, das die Lyrik des Dschungels zeigt.
 
-Eine bekannte Anekdote besagt, dass Goldie, als er dieses Lied kreierte, sich einer anderen Richtung als dem traditionellen „Raga-basierten Dschungel“ bewusst war. Dadurch wurde es zu einer Brücke zum späteren Drum and Bass.
+Eine berühmte Anekdote besagt, dass Goldie, als er dieses Lied schuf, sich einer anderen Richtung als dem traditionellen „Raga-basierten Dschungel“ bewusst war. Dadurch wurde es zu einer Brücke zum späteren Drum and Bass.
 
 ### Shy FX – „Original Nuttah“ (1994)
 

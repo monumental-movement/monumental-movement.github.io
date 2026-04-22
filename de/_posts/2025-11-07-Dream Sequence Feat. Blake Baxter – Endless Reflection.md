@@ -14,7 +14,7 @@ title: Dream Sequence Feat. Blake Baxter – Endlose Reflexion
 ---
 
 
-Einer der Begründer des Detroit Techno, Blake Baxter, auch bekannt als The Prince Of Techno, spielte Tresor, als er 1992 auf seiner ersten UR-Europatournee (Underground Resistance) Berlin besuchte und so die mittlerweile legendäre Berlin-Detroit-Verbindung entwickelte. Dies führte zu dem 1995 von Tresor veröffentlichten Album.
+Einer der Begründer des Detroit Techno, Blake Baxter, auch bekannt als The Prince Of Techno, spielte Tresor, als er 1992 auf seiner ersten UR-Europatournee (Underground Resistance) Berlin besuchte und entwickelte so die mittlerweile legendäre Berlin-Detroit-Verbindung. Dies führte zu dem 1995 von Tresor veröffentlichten Album.
 
 #### Trackliste
 ```md

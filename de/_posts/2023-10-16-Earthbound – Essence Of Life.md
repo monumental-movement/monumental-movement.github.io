@@ -9,13 +9,13 @@ permalink: /de/earthbound-essence-of-life/
 tags:
 - Trance
 - Progressive
-title: Earthbound – Essenz des Lebens
+title: Earthbound – Essence Of Life
 ---
 
 
-Earthbound ist ein schwedischer Euro-Progressive-Dance-Act, der von Anders Eriksson und Fredrik Johansson gegründet wurde.
+Earthboundは、Anders ErikssonとFredrik Johanssonによるスウェーデンのユーロ・プログレッシブダンスアクト。
 
-Side A ist ein Remix des britischen Trance- und Psytrance-DJ/Produzenten/Remixers John '00' Fleming (John Fleming). B-Seite ist ein Remix von Skynet UK (Ian Widgery).
+A面はUKトランス＆サイトランスDJ/プロデューサー/リミキサーJohn '00' Fleming(John Fleming)によるremix。B面はSkynet UK（Ian Widgery）によるremix。
 
 #### Trackliste
 ```md

@@ -16,7 +16,7 @@ title: Gammaschleife – Röntgenaugen
 
 Gamma Loop ist der Name, den der deutsche Produzent und Sounddesigner Jürgen Driessen für sein deutsches Hard-Trance/Acid-Projekt verwendet. Er ist auch unter verschiedenen anderen Namen wie Bruce Wayne und Exit EEE aktiv.
 
-Bei dieser Platte handelt es sich um einen House-Track, der von Ugly Bug Records veröffentlicht wurde, einem 1993 von Pete Bones (The Shaker) gegründeten Label, das sich auf einen Stil spezialisiert hat, der funkigen, pumpenden House und progressiven Trance verbindet. Ugly Bug Records gilt als Lieblingslabel vieler DJs, darunter auch Tony De Vit.
+Bei dieser Platte handelt es sich um einen House-Track, der von Ugly Bug Records veröffentlicht wurde, einem 1993 von Pete Bones (The Shaker) gegründeten Label, das sich auf einen Stil spezialisiert hat, der funkigen, pumpenden House und progressiven Trance verbindet. Ugly Bug Records ist als Lieblingslabel vieler DJs bekannt, darunter auch Tony De Vit.
 
 #### Trackliste
 ```md

@@ -101,7 +101,7 @@ Extreme Bassklänge und subtile Dynamiken lassen sich beispielsweise in einer St
 
 NTS und Boiler Room haben ihre Sendungen archiviert und zum späteren Ansehen und Anhören zur Verfügung gestellt. Dieser Archivcharakter verwandelt Live-Auftritte von kurzlebigen Ereignissen in referenzierbare Materialien.
 
-Die Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit, sondern auch durch das spätere Ansehen neu interpretieren.
+Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit neu interpretieren, sondern auch durch späteres Anschauen.
 
 ---
 
@@ -159,7 +159,7 @@ Dies kann als „aufzeichnbare Bewegung“ angesehen werden.
 
 Traditionell wurde zwischen der Musikproduktion im Studio und dem Auftritt vor Ort unterschieden. In einer Live-Streaming-Umgebung verschwimmt diese Unterscheidung jedoch. Wohnungen, temporäre Räume, öffentliche Einrichtungen, Ateliers ohne Publikum usw. werden gleichzeitig zu Produktions- und Aufführungsräumen.
 
-Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen Material mitten in der Produktion oder unfertige Tonquellen so abgespielt werden, wie es im Programm enthalten ist. Gelegentlich veröffentlicht Boiler Room auch Live-Sets, die kurz vor den Proben stehen.
+Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen gerade produziertes Material oder unfertige Tonquellen so abgespielt wird, wie es im Programm ist. Gelegentlich veröffentlicht Boiler Room auch Live-Sets, die kurz vor den Proben stehen.
 
 > „Das Verschwinden von Studios und Locations befreite die Musik von der ‚Vorbereitung‘“
 
@@ -191,7 +191,7 @@ Wenn Bilder existieren, haben körperliche Bewegungen und räumliche Konfigurati
 
 ---
 
-## Ergänzungskapitel 6 Improvisation managen
+## Ergänzungskapitel 6 Improvisation verwalten
 
 Improvisation ist nicht chaotisch. Live-Streaming-Künstler entwerfen Improvisationen basierend auf Bedingungen wie Streaming-Zeit, Anzahl der Zuhörer und technischen Einschränkungen.
 
@@ -217,7 +217,7 @@ NTS und Boiler Room haben ein Modell demonstriert, das sich von der traditionell
 
 ---
 
-## Ergänzendes Kapitel 9 Bezug zur Musikgeschichte
+## Ergänzungskapitel 9 Bezug zur Musikgeschichte
 
 Diese Live-Streaming-Kulturen stehen im Einklang mit der Geschichte der Improvisationsmusik, der experimentellen Musik und der DJ-Kultur. Neue Technologien machen bestehende Praktiken nicht unsichtbar, sondern positionieren sie neu.
 

@@ -42,7 +42,7 @@ color: #fff;
 
 ## Prototyp von Weihnachtsliedern aus den 1950er bis 1970er Jahren
 
-### Popsongs der 1950er Jahre mit Familien und Winterszenen
+### Popsongs der 1950er Jahre mit Familien- und Winterszenen
 
 Im Amerika der Nachkriegszeit war Bing Crosbys „White Christmas“ (veröffentlicht 1942) eine Ikone. Es zeigt ein ideales Weihnachtsfest zu Hause und wurde im Radio und auf Single-Platten weit verbreitet.
 

@@ -32,7 +32,7 @@ Es ist nicht einmal Lärm.
 
 Allerdings hat es in allen Bereichen seine Spuren hinterlassen.
 
-Seit den 1970er Jahren ist er im Zentrum der japanischen Underground-Musik aktiv und grenzt an Improvisation, Noise, Psychedelic, Drone und Volksgesang.
+Seit den 1970er Jahren ist er im Zentrum der japanischen Underground-Musikszene aktiv und grenzt an Improvisation, Noise, Psychedelic, Drone und Volksgesang.
 
 Er hat oft mit experimentellen Musikern und Rockmusikern aus Übersee zusammengearbeitet und international großes Lob erhalten.
 
@@ -40,7 +40,7 @@ Andererseits ist die Medienpräsenz äußerst gering.
 
 Auf der Bühne ist er für seinen ikonischen Auftritt in schwarzer Kleidung, langen Haaren und Sonnenbrillen bekannt und ist auch für seine Leistung bekannt, die weder seine eigenen noch die anderer „nachahmt“.
 
-Er ist ein Künstler, der nicht nur die Musik selbst präsentiert, sondern auch den Akt der Aufführung durch echte Improvisation.
+Er ist ein Künstler, der nicht nur die Musik selbst, sondern auch den Akt der Darbietung durch echte Improvisation präsentiert.
 
 > Keiji Haino ist nicht nur Musiker, er ist so etwas wie ein spiritueller Entdecker japanischer Experimentalmusik.
 
@@ -90,7 +90,7 @@ Sie sollten in der Lage sein, Musik freier abzuspielen.
 
 Diese Idee führte später zu seinem Interesse an Improvisation.
 
-> Keiji Hainos frühe Rockerfahrungen wurden zum Ausgangspunkt für seine Herangehensweise an Musik als eine Form spirituellen Ausdrucks.
+> Keiji Hainos frühe Rockerfahrungen wurden zum Ausgangspunkt für sein Verständnis von Musik als Form spirituellen Ausdrucks.
 
 ---
 
@@ -112,7 +112,7 @@ Keiji Haino wird eine der zentralen Figuren sein.
 Banderfahrung der frühen 1970er Jahre
 
 Lost Araf war eine Band, der Keiji Haino in den frühen 1970er Jahren angehörte, bevor er Fushitsusha gründete.
-Diese Gruppe war eine der frühen japanischen Underground-Rockbands und ihre Musik war von psychedelischem Rock und Blues beeinflusst.
+Diese Gruppe war eine der ersten japanischen Underground-Rockbands und ihre Musik war von psychedelischem Rock und Blues beeinflusst.
 
 Zu dieser Zeit steckte die Rockbandkultur in Japan noch in den Kinderschuhen, und nach und nach bildete sich eine eigene Underground-Szene heraus, die sich von der kommerziellen Musik unterschied.
 Lost Araf war eine der Gruppen, die in diesem Trend aktiv waren, und war für Keiji Haino eine wichtige frühe musikalische Erfahrung.
@@ -129,7 +129,7 @@ Aktivitäten mit Lost Alaf waren einer der Ausgangspunkte für Keiji Hainos Musi
 
 ### Beziehung mit Toru Takemitsu
 
-Verbindung mit zeitgenössischer japanischer Musik
+Verbindung mit japanischer zeitgenössischer Musik
 
 Über die Musik von Keiji Haino wird oft im Kontext von Rock und Noise gesprochen, sie weist aber auch Verbindungen zur zeitgenössischen japanischen Musik auf.
 
@@ -140,7 +140,7 @@ Seine Musikphilosophie war einzigartig und kombinierte westliche Klassik mit jap
 
 Keiji Haino soll ein starkes Interesse an der Musikphilosophie von Toru Takemitsu gehabt haben, und eine gemeinsame Sensibilität lässt sich in der Art und Weise erkennen, wie sie mit den Grenzen von Klang und Raum umgehen.
 
-Selbst bei einer dröhnenden Lärmvorstellung herrscht immer Stille.
+Auch bei einer dröhnenden Lärmvorstellung herrscht immer Stille.
 Die Betonung der Beziehung zwischen Klang und Stille ähnelt der zeitgenössischen japanischen Musik.
 
 Darüber hinaus ist in Hainos ruhigen Solostücken und anhaltenden Drone-Stücken seine Betonung des akustischen Raums deutlich zu erkennen.
@@ -184,7 +184,7 @@ Es wird gesagt, dass der Live-Auftritt eher ein Erlebnis als eine Musik war.
 
 Das Publikum war von Klang umhüllt, die Aufführungen dauerten teilweise mehrere Stunden.
 
-Ungefähr zu dieser Zeit begann Hainos Musik zu etwas zu werden, das sich nicht durch ein Genre erklären ließ.
+Ungefähr zu dieser Zeit begann sich Hainos Musik zu etwas zu entwickeln, das sich nicht durch ein Genre erklären ließ.
 
 Rock-Energie
 Free-Jazz-Freiheit
@@ -245,7 +245,7 @@ Keiji Hainos Musik wird oft durch dröhnende Gitarren und intensive Improvisatio
 
 Sein Solo-Percussion-Stück „Everything“ ist ein typisches Beispiel.
 
-Obwohl dieses Stück Schlagzeug und Percussion verwendet, liegt der Schwerpunkt eher auf der Resonanz und dem anhaltenden Klang als auf dem Rhythmus.
+Obwohl dieses Stück Schlagzeug und Percussion verwendet, liegt der Schwerpunkt eher auf der Resonanz und dem nachklingenden Klang als auf dem Rhythmus.
 
 Der Nachhall, der sich nach dem Aufprallgeräusch ausbreitet.
 Schallschwingungen schwanken im Raum.
@@ -299,11 +299,11 @@ D --> C
 
 In den 2010er Jahren begann Keiji Haino, in neuen Formen aufzutreten.
 
-Seine Aktivitäten umfassen die Tätigkeit als DJ Keiji Haino.
+Seine Aktivitäten sind als DJ Keiji Haino.
 
 In diesem Stil treten sie auf, während sie auf CDJs Musik aus aller Welt spielen.
 
-Die ausgewählte Musik ist auf kein Genre beschränkt.
+Die ausgewählte Musik ist nicht auf ein Genre beschränkt.
 
 Volksmusik
 Felsen
@@ -378,9 +378,9 @@ Keiji Haino verwendet viele Instrumente, die folgenden sind jedoch besonders wic
 
 | Instrument | Funktionen |
 | ----------- | ----------- |
-| E-Gitarre | Zentrum von Lärm und Drohnen |
+| E-Gitarre | Zentrum von Lärm und Drohne |
 | Akustische Gitarre | Auftritt mit Gesang |
-| Hurdy-gurdy | Drohne mit anhaltendem Ton |
+| Drehleier | Drohne mit anhaltendem Ton |
 | Schlagzeug | Soloaufführung „Everything“ |
 | Trommelmaschine | DJ-Auftritt der 2010er Jahre |
 | Synthesizer | Improvisationssound |
@@ -404,7 +404,7 @@ Und es gibt noch eine weitere Angewohnheit bei seinen Auslandstouren.
 Das bedeutet, dass Sie in den besuchten Städten CDs und Schallplatten kaufen müssen.
 
 Schauen Sie in einem örtlichen CD-Laden vorbei und suchen Sie nach unbekannter Musik.
-Wählen Sie unabhängig von Genre oder Nationalität etwas aus, das Ihnen ins Auge fällt.
+Wählen Sie unabhängig von Genre oder Nationalität etwas aus, das Ihnen ins Ohr fällt.
 
 Es ist nicht nur eine Sammlung.
 Dabei handelt es sich um die Suche nach Geräuschen, die Sie noch nie zuvor gehört haben, nach Geräuschen aus Kulturen, die Sie nicht kennen, und nach Musik, die nicht in bestehende Klassifizierungen passt.
@@ -420,7 +420,7 @@ Durch die Begegnung mit unbekannten Klängen verändert sich auch meine Musik.
 ---
 
 
-## Chronologie der Keiji Haino-Diskographie (Auszug)
+## Chronologie der Keiji Haino-Diskografie (Auszug)
 
 ### Fluss von Solo- und Hauptwerken
 
@@ -452,7 +452,7 @@ Die folgenden Informationen wurden aus mehreren zuverlässigen Quellen zusammeng
 | Jahr | Titel | Etikett | Notizen |
 |---|---|---|---|
 | 1989 | **Fushitsusha Double Live (Live I)** | PSF | Eine der frühesten Veröffentlichungen auf dem PSF-Label. 2-Disc-Live-LP |
-| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (mit Hiroshi Mikami und Motoharu Yoshizawa) | PSF | Ein improvisiertes Meisterwerk des Trios mit Hiroshi Mikami und Motoharu Yoshizawa |
+| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (mit Hiroshi Mikami und Motoharu Yoshizawa) | PSF | Ein Meisterwerk der Improvisation des Trios mit Hiroshi Mikami und Motoharu Yoshizawa |
 | 1991 | **Fushitsusha (Double Live / Live II)** | PSF | Eines der wichtigsten Dokumente des japanischen Psychedelic Rock der 1990er Jahre |
 | 1993 | **Allegorisches Missverständnis** | Avant (unter der Leitung von John Zorn) | Veröffentlicht auf John Zorns Avant-Label |
 | 1994 | **Pathétique** | PSF | Oren Ambarchi beschreibt es als „eines meiner Lieblingswerke von Fushitsusha“ |
@@ -484,7 +484,7 @@ Keiji Hainos Musik besteht aus drei Hauptelementen.
 * Drohne
 * Lied
 
-Diese sind nicht unabhängig, sondern überlagern sich zu Musik.
+Diese sind nicht unabhängig voneinander, sondern überlagern sich zu Musik.
 
 <div class="mermaid">
 
@@ -510,7 +510,7 @@ Song --> Spiritual[精神的表現]
 
 In Hainos Musik existieren Lärm und Stille, Gesang und Improvisation immer gleichzeitig.
 
-> Die Kollision und Resonanz von Klängen ist Keiji Hainos Musikphilosophie.
+> Die Kollision und Resonanz von Klängen ist Keiji Hainos musikalische Philosophie.
 
 ---
 
@@ -679,7 +679,7 @@ Climax --> Silence
 
 </div>
 
-Live-Auftritte beginnen mit Stille, dann bauen sich nach und nach Drohnen und Geräusche auf und der Klang erreicht seinen Höhepunkt mit Gesang und Geschrei. Es hat oft eine Struktur, die wieder zur Stille zurückkehrt.
+Bei einer Live-Aufführung beginnt die Aufführung mit Stille, dann bauen sich nach und nach Drohnen und Geräusche auf, und der Klang erreicht seinen Höhepunkt durch Hinzufügung von Gesang und Geschrei. Es hat oft eine Struktur, die wieder zur Stille zurückkehrt.
 
 Dieser Zyklus erzeugt ein Gefühl, das einem religiösen Ritual oder einer meditativen Erfahrung ähnelt.
 
@@ -700,7 +700,7 @@ Keiji Haino wird seit vielen Jahren von westlichen Musikmedien hoch gelobt.
 | Heugabel | Ikone der experimentellen Musik |
 | Der Quietus | Ein Musiker, der Lärm und Spiritualität vereint |
 
-Er ist auf vielen Festivals in Europa und Nordamerika aufgetreten und gilt als starker Einfluss in der freien Improvisations- und Noise-Szene.
+Er ist auf zahlreichen Festivals in Europa und Nordamerika aufgetreten und gilt als starker Einflussfaktor in der freien Improvisations- und Noise-Szene.
 
 > Keiji Haino nimmt nicht nur in Japan, sondern auch in der Geschichte der experimentellen Musik weltweit eine einzigartige Position ein.
 
@@ -813,7 +813,7 @@ Dieser Preis wird an Künstler verliehen, die seit vielen Jahren innovative Akti
 
 Im Laufe seiner mehr als 50-jährigen Tätigkeit hat er eine einzigartige Musikwelt geschaffen, die sich über bestehende Genres hinwegsetzt und sich über verschiedene Bereiche wie Improvisation, Noise, Drone, Rock, Blues und Free Jazz erstreckt.
 
-Seine Aktivitäten haben sich durch die Zusammenarbeit mit Musikern und Künstlern aus der ganzen Welt ausgeweitet und es ist zu einer wichtigen Präsenz in der zeitgenössischen experimentellen Musikszene geworden.
+Seine Aktivitäten wurden durch die Zusammenarbeit mit Musikern und Künstlern aus der ganzen Welt erweitert und es ist zu einer wichtigen Präsenz in der zeitgenössischen experimentellen Musikszene geworden.
 
 > Keiji Haino wird beim Musikbiennale-Festival von Venedig 2026 mit dem Lifetime Achievement Award ausgezeichnet.
 
@@ -852,3 +852,11 @@ Indem sie weiterhin über bestehende Grenzen hinausgingen, zeigten sie die Mögl
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QqNCBj6OvsA?si=3ImcXtCiLh5B4Ff_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

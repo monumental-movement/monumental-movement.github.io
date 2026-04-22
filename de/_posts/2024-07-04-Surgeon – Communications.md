@@ -10,11 +10,11 @@ tags:
 - Techno
 - UK Techno
 - 90s
-title: Chirurg – Kommunikation
+title: Surgeon – Communications
 ---
 
 
-Das erste Album von Surgeon erschien 1996 auf dem von Regis und Female gegründeten britischen Label Downwards. Dieses Album wurde von JEFF MILLS unterstützt und gilt als Durchbruch und Meisterwerk, das Surgeons Namen der Welt bekannt machte.
+RegisとFemaleによって設立されたイギリスのレーベルDownwardsから1996年にリリースされたSurgeon（サージョン）の1st アルバム。このアルバムは、JEFF MILLS（ジェフミルズ）がサポートし、Surgeonの名を世に知らしめた出世作＆名作と言われている。
 
 #### Trackliste
 ```md

@@ -52,7 +52,7 @@ color: #fff;
 # Kapitel 1: Junger MC aus Brooklyn – Der Ausgangspunkt von El-P (1990–1993)
 
 Die Hauptfigur von Company Flow, **El-P (El Producto)**, stammt aus Brooklyn, New York.
-Er verbrachte seine Kindheit in einer Zeit, als die Hip-Hop-Bewegung in New York explosionsartig expandierte, und beschäftigte sich bereits als Teenager mit dem Rappen und der Produktion von Kassetten.
+Er verbrachte seine Kindheit in einer Zeit, als die Hip-Hop-Bewegung in New York explosionsartig expandierte, und beschäftigte sich bereits als Teenager mit dem Rappen und dem Produzieren von Kassetten.
 
 Die folgenden Veranstaltungsorte waren Anfang der 1990er Jahre im New Yorker Untergrund wichtig.
 
@@ -102,7 +102,7 @@ Die von El-P konstruierten Beats haben die folgende Textur.
 * Hauptsächlich SP-1200, verbraucht aber viel „Dreck“
 * Industrielärm
 * Minimaler, aber verstörender, angespannter Rhythmus
-* Häufige Verwendung von „Chop“, um Proben in kleine Stücke zu zerkleinern
+* Häufiger Einsatz von „Chop“, um Proben in kleine Stücke zu zerkleinern
 
 ### ● 2. Die Einzigartigkeit der Texte
 
@@ -227,7 +227,7 @@ Es besteht aus aufwändigen Metaphern und abstrakten Ausdrücken.
 
 „The Fire in Which You Burn“ wird aus folgenden Gründen hoch gelobt:
 
-* Repräsentative Songs, die die Politik von Company Flow deutlich machen
+* Repräsentative Lieder, die die Politik von Company Flow deutlich machen
 * Die Sounddesign-Fähigkeiten von El-P sind hervorragend.
 * Inhalte, die den Underground-Hip-Hop der späten 90er Jahre symbolisieren
 * Viele Prototypelemente späterer Werke von Def Jux (Cannibal Ox usw.) sind zu sehen.
@@ -276,7 +276,7 @@ Der Sound ist eindeutig zukunftsorientiert und weist einen direkten Bezug zum Kl
 # Kapitel 9: Aussetzung der Aktivitäten und Fortschritt der Mitglieder (2001–)
 
 Um 2001 wurde Company Flow inaktiv.
-Obwohl es sich dabei nicht um eine eindeutige „Auflösungserklärung“ handelt, gilt es als faktisches Ende ihrer Tätigkeit.
+Obwohl es sich dabei nicht um eine eindeutige „Auflösungserklärung“ handelt, gilt sie als faktische Beendigung ihrer Tätigkeit.
 
 Die Entwicklung der Mitglieder seitdem ist wie folgt.
 
@@ -369,7 +369,7 @@ Es verkörperte den Untergrund als „vom Kommerz unabhängigen Gedanken“.
 
 ---
 
-## ● 3. Aufbau des Fundaments des experimentellen Hip-Hop
+## ● 3. Die Grundlage für experimentellen Hip-Hop schaffen
 
 Die akustische Philosophie von El-P
 
@@ -396,7 +396,7 @@ Er präsentierte eine Perspektive, die auch nach mehr als 20 Jahren noch aktuell
 Das Erbe von Company Flow ist
 Es geht über den Wert bloßer Musikwerke hinaus.
 
-* Indie-Möglichkeiten
+* Möglichkeit von Indie
 * Autonomie des Künstlers
 * Bedeutung der Politik
 * Untergrund als Ästhetik

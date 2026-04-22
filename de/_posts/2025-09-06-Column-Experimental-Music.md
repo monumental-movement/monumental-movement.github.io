@@ -30,7 +30,7 @@ Text: mmr｜Thema: Veränderungen in der experimentellen Musik von der Avantgard
 - **Hintergrund:** Europa und Amerika der Nachkriegszeit versuchen, Musik zu rekonstruieren. Es erscheinen „Music of Chance“ von John Cage und Musique Concrète von Schaeffer.
 - **Ausrüstung:** Tonbandgerät, präpariertes Klavier, früher Oszillator.
 
-### Meisterwerk
+### 名盤
 - [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)  
 - [John Cage – *Sonatas and Interludes* (1948)](https://amzn.to/425qJRN)  
 - [Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)  
@@ -58,7 +58,7 @@ color: #fff;
 | Pierre Schäffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4’33’’ | 1952 |
 | John Cage | Williams-Mix | 1952 |
-| Pierre Henry | Symphonie für einen Mann seines Herzens | 1950 |
+| Pierre Henry | Symphonie für einen Menschen | 1950 |
 | Karlheinz Stockhausen | Studie II | 1954 |
 | Edgard Varèse | Poème électronique | 1958 |
 | John Cage | Imaginäre Landschaft Nr.4 | 1951 |
@@ -72,7 +72,7 @@ color: #fff;
 - **Hintergrund:** Resoniert mit Minimalismus, avantgardistischen Kunstbewegungen und psychedelischer Kultur. Die Geburt des modularen Synthesizers.
 - **Ausstattung:** Moog Modular, Buchla, EMS VCS3, Tape Loop.
 
-### Meisterwerk
+### 名盤
 - [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)  
 - [Terry Riley – *In C* (1968)](https://amzn.to/46p9sEc)  
 - [Silver Apples – *Silver Apples* (1968)](https://amzn.to/3ImPkLd)  
@@ -97,10 +97,10 @@ color: #fff;
 ---
 
 ## 1970er Jahre: Lärm, die Entstehung der Industrie
-- **Hintergrund:** Einbeziehung von „Noise“ in die Musik bei gleichzeitiger Verknüpfung mit Punk und Avantgarde-Kunst. Die Geburt der Industriekultur.
+- **Hintergrund:** Einbeziehung von „Noise“ in die Musik bei gleichzeitiger Überschneidung mit Punk und Avantgarde-Kunst. Die Geburt der Industriekultur.
 - **Ausrüstung:** EMS Synthi A, ARP 2600, Roland System 100, selbstgebauter Rauschgenerator.
 
-### Meisterwerk
+### 名盤
 - [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)  
 - [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
 - [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)  
@@ -129,7 +129,7 @@ color: #fff;
 - **Hintergrund:** Mit der Verbreitung von Kassetten-MTR wuchs die experimentelle Underground-Musikszene. In Japan hat sich eine „Lärm“-Szene etabliert.
 - **Ausstattung:** Tascam Portastudio, Roland TR-808, Yamaha DX7, Kurzwellenradio.
 
-### Meisterwerk
+### 名盤
 - [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)  
 - [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)  
 - [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)  
@@ -154,11 +154,11 @@ color: #fff;
 ---
 
 
-## 1990er Jahre: Digitale Experimente und Glitches
+## 1990er: Digitale Experimente und Glitches
 - **Hintergrund:** Mit der Verbreitung von PCs und Samplern schritt die akustische Dekonstruktion und Rekonstruktion voran. Verbindet sich auch mit IDM und Ambient-Musik.
 - **Ausrüstung:** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
-### Meisterwerk
+### 名盤
 - [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)  
 - [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
 - [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)  
@@ -187,7 +187,7 @@ color: #fff;
 - **Hintergrund:** Noise, Electronica und Field Recordings verbreiten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
 - **Ausrüstung:** Ableton Live, SuperCollider, Kontakt, Laptop.
 
-### Meisterwerk
+### 名盤
 - [Fennesz – *Endless Summer* (2001)](https://amzn.to/3K9awVB)  
 - [Wolf Eyes – *Burned Mind* (2004)](https://amzn.to/4nCm8P2)  
 - [Ryoji Ikeda – *Dataplex* (2005)](https://amzn.to/4nLgwSW)  
@@ -216,7 +216,7 @@ color: #fff;
 - **Hintergrund:** Verschmelzung mit Klangkunst und Installation. ASMR, Drohnen und Ambient-Musik werden neu bewertet.
 - **Ausstattung:** Eurorack-Modul, Max for Live, Pure Data, DIY-Instrumente.
 
-### Meisterwerk
+### 名盤
 - [Oneohtrix Point Never – *Replica* (2011)](https://amzn.to/3W29tJz)  
 - [Tim Hecker – *Virgins* (2013)](https://amzn.to/3VrREDB)  
 - [Holly Herndon – *Platform* (2015)](https://amzn.to/3W1lCyj)  
@@ -244,7 +244,7 @@ color: #fff;
 - **Hintergrund:** KI-Komposition, algorithmische Musik und immersive Erlebnisse im VR/AR-Raum sind im Gange. Noise und experimentelle Musik überschneiden sich erneut mit der Clubszene.
 - **Ausrüstung:** KI-Generierungstools (RAVE, Magenta Studio), Eurorack, modularer Synthesizer + Algorithmus für maschinelles Lernen.
 
-### Meisterwerk
+### 名盤
 - [Holly Herndon – *PROTO* (2019, AIボーカル合唱)](https://amzn.to/4nhKdv3)  
 - [Kali Malone – *Living Torch* (2022)](https://amzn.to/4nJoBYc)
 - [Caterina Barbieri – *Spirit Exit* (2022)](https://amzn.to/3W4Hg4M)  

@@ -76,7 +76,7 @@ Die Struktur von Downtempo-Songs ist unterschiedlich, der gemeinsame Nenner ist 
 
 <hr>
 
-### Ableitung und Diversifizierung: Downtempo rund um die Welt
+### Ableitung und Diversifikation: Downtempo rund um die Welt
 Downtempo hat durch seine Verschmelzung mit lokaler Kultur und ethnischer Musik verschiedene Entwicklungen durchlaufen.
 
 **Lounge-Musik**: Entwickelt als Musik, die in Hotels und Cafés gespielt wird (z. B. Thievery Corporation)
@@ -91,11 +91,11 @@ Downtempo hat durch seine Verschmelzung mit lokaler Kultur und ethnischer Musik 
 <hr>
 
 ### Modernität und Neubewertung: Die stillen Herrscher der Spotify-Ära
-Im Streaming-Zeitalter der 2020er Jahre wird Downtempo als „entspannende Playlist“ und „Hintergrundmusik für die Arbeit“ neu bewertet. Insbesondere der moderne Downtempo-Stil, bekannt als Post-Trip-Hop, hat Eingang in die Filmmusik, die Spielemusik und sogar in die Modebranche gefunden.
+Im Streaming-Zeitalter der 2020er Jahre wird Downtempo als „entspannende Playlist“ und „Hintergrundmusik für die Arbeit“ neu bewertet. Insbesondere der moderne Downtempo-Stil namens Post-Trip-Hop hat Eingang in die Filmmusik, die Spielemusik und sogar in die Modebranche gefunden.
 
 **Während es im Kontext von „Chill“, „Entspannung“ und „Konzentration“ wieder an Aufmerksamkeit gewinnt**, gibt es auf Spotify und YouTube viele Playlists mit den Namen „Lo-Fi“, „Chillhop“ und „Study Beats“, die den Hörern als Downtempo im weitesten Sinne bekannt sind.
 
-Darüber hinaus verschwimmen die Grenzen zwischen Umweltmusik und Ambient-Musik, und Musik entwickelt sich weiter zu einer Musik, die enger auf den psychologischen Zustand und die Lebensszene eines Individuums abgestimmt ist.
+Darüber hinaus verschwimmen die Grenzen zwischen Umgebungsmusik und Ambient-Musik, und Musik entwickelt sich weiter zu einer Musik, die enger auf den psychologischen Zustand und die Lebensszene eines Individuums abgestimmt ist.
 
 Künstler wie Bonobo, Tycho, Khruangbin und Japans Pictured Resort und Cuushe sind wichtige Akteure im modernen Downtempo.
 

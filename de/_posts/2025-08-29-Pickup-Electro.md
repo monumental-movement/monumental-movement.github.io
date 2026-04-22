@@ -124,7 +124,7 @@ B. Video Hi 8 (Instrumental)
 ### Beroshima – Dance The Machine
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp"></a>
 
-Point: Eine Veröffentlichung von Frank Muller des 1994 gegründeten deutschen Electro-Projekts Beroshima. Auch Ulrich Schnauss war dabei und ihr Electro-Sound ist eine Fusion aus Minimal- und Disco-Ansätzen.
+Point: Eine Veröffentlichung von Frank Müller des 1994 gegründeten deutschen Electro-Projekts Beroshima. Auch Ulrich Schnauss war dabei und ihr Electro-Sound ist eine Fusion aus minimalistischen und Disco-Ansätzen.
 
 Charme: Minimal und Disco-Elektro
 

@@ -10,7 +10,7 @@ permalink: /de/modjo-chillin-uk/
 tags:
 - House
 - French House
-title: Modjo – Chillin' – Großbritannien
+title: Modjo – Chillin' - UK
 ---
 
 
@@ -20,11 +20,11 @@ title: Modjo – Chillin' – Großbritannien
 
 
  
-„Modjo – Chillin‘“ ist ein 2001 vom französischen Duo Modjo veröffentlichtes Lied. Dieses Lied ist auf ihrem selbstbetitelten Debütalbum Modjo enthalten.
+「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
 
-„Chillin‘“ ist ein Song, der Elemente von Disco- und House-Musik mit einem leichten und groovigen Beat, einer funkigen Basslinie und fesselnden Vocals kombiniert.
+「Chillin'」は、ディスコとハウスミュージックの要素を組み合わせた楽曲で、軽快でグルーヴィなビート、ファンキーなベースライン、そして魅力的なボーカルが特徴です。
 
-Dieses Lied ist als Pop-Tanzmusik bekannt, die eine entspannte Atmosphäre und eine helle Melodie ausstrahlt.
+この曲は、リラックスした雰囲気と明るいメロディが共鳴するポップなダンスミュージックとして知られています。
 
 ※UK盤とItaly盤がありますが、こちらはUK盤となります。 Italy盤は[こちら](https://monumental-movement.jp/Modjo-Chillin/)
 

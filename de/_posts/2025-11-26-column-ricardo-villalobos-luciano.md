@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Kapitel 1: Der von Musik und Herkunft geflochtene Weg
+## Kapitel 1: Der von Musik und Herkunft gewobene Weg
 
 ### Die Flugbahn von Villalobos
 
@@ -50,7 +50,7 @@ Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit de
 
 ### Lucianos Flugbahn
 
-Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung und beschäftigte sich mit Disco, House und Techno, während er nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
+Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung, als er sich mit Disco, House und Techno beschäftigte und gleichzeitig nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
 
 Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die südamerikanische Begeisterung mit europäischem Minimalismus verbanden. Lucianos Musik steht stets im „Dialog mit der Tanzfläche“ und stellt die körperlichen Empfindungen des Tänzers in den Mittelpunkt.
 
@@ -58,7 +58,7 @@ Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die süd
 
 ## Kapitel 2: Begegnung und die Geburt von Sense Club
 
-Als Villalobos Ende der 1990er-Jahre in einem chilenischen Club am Plattenspieler saß, spürte Luciano die rhythmischen Konturen und fand sofort Resonanz bei ihm. Die beiden werden ein gemeinsames Projekt namens „Sense Club“ starten. Dieser Ort, an dem sich lateinamerikanische Rhythmen und europäischer Techno kreuzen, hat den Rahmen einer einfachen musikalischen Einheit überschritten und ist zu einem Testgelände für Kultur und Körper geworden.
+Als Villalobos Ende der 1990er Jahre in einem chilenischen Club an einem Plattenteller saß, spürte Luciano die rhythmischen Konturen und fand sofort Resonanz bei ihm. Die beiden werden ein gemeinsames Projekt namens „Sense Club“ starten. Dieser Veranstaltungsort, der lateinamerikanische Rhythmen und europäischen Techno verbindet, ist über den Rahmen einer bloßen musikalischen Einheit hinausgegangen und hat sich zu einem Testgelände für Kultur und Körper entwickelt.
 
 Die Philosophie des Sense Clubs war klar. „Tanzen ist nicht nur eine Bewegung, sondern ein Ritual, das Kultur und Körper verbindet.“ Lange Sets, subtile Percussion und die gelegentliche Kakophonie von Klängen hauchen der Tanzfläche neues Leben ein.
 
@@ -72,7 +72,7 @@ Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Tit
 
 ### Entwicklung von Alcachofa und Villalobos
 
-Im Jahr 2003 veröffentlichte Villalobos das Album Alcachofa. Dieses Werk wird als Meisterwerk gefeiert, das die Sprache der Clubkultur neu definiert. Im langen Track, der über 10 Minuten dauert, ändert sich der Rhythmus minutiös und die Beats greifen ständig ineinander. Die Körper der Zuhörer tauchten auf natürliche Weise in den Fluss der Zeit ein und der Boden wurde zu einer Art „Zeremonienraum“.
+Im Jahr 2003 veröffentlichte Villalobos das Album Alcachofa. Dieses Werk wird als Meisterwerk gefeiert, das die Sprache der Clubkultur neu definiert. Während des langen Tracks, der über 10 Minuten dauert, ändert sich der Rhythmus minutiös und die Beats verflechten sich unaufhörlich. Die Körper der Zuhörer tauchten auf natürliche Weise in den Fluss der Zeit ein und der Boden wurde zu einer Art „Zeremonienraum“.
 
 Beispiele für im Album enthaltene Songs:
 
@@ -90,23 +90,23 @@ Etwa zur gleichen Zeit gründete Luciano das in der Schweiz ansässige Label Cad
 
 ---
 
-## Kapitel 4 Schnittstelle von Kultur und Klang
+## Kapitel 4 Schnittmenge von Kultur und Klang
 
 Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl wurde der Club mehr als nur ein Spielplatz, sondern eine kulturelle Verkörperung. Das Publikum bewegte sich unbewusst zwischen zwei Welten, als es sich dem Takt hingab.
 
 ### Revolution von Rhythmus und Körper
 
-Die langen Tracks von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
+Die langen Stücke von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
 
 ---
 
 ## Kapitel 5 Globaler Einfluss und Legende
 
-Der Live-Auftritt von Sense Club beim Mutek Festival (Chile) im Jahr 2004 gilt als legendäres Set. Während des fast dreistündigen Sets manipulierte Villalobos lange Tracks, während Luciano in Echtzeit Percussion-Samples hinzufügte. Das Publikum wurde eins auf der Tanzfläche und das Tanzen selbst wurde zu einem kulturellen Erlebnis.
+Der Live-Auftritt von Sense Club beim Mutek Festival (Chile) im Jahr 2004 gilt als legendäres Set. Während des fast dreistündigen Sets manipulierte Villalobos lange Tracks, während Luciano in Echtzeit Percussion-Samples hinzufügte. Das Publikum wurde eins auf dem Boden und das Tanzen selbst wurde zu einem kulturellen Erlebnis.
 
 ### Welttournee und internationaler Einfluss
 
-Beide treten live in ganz Europa, Südamerika und Nordamerika auf. Vor allem Auftritte in Berlin, Zürich, Santiago und New York waren groß angelegt und hatten revolutionäre Auswirkungen auf die Clubkultur. Der heutige Tech-House-Stil und der minimalistische Stil sind deutlich von ihren Bemühungen beeinflusst.
+Beide treten live in ganz Europa, Südamerika und Nordamerika auf. Vor allem Auftritte in Berlin, Zürich, Santiago und New York waren groß angelegt und hatten revolutionäre Auswirkungen auf die Clubkultur. Die heutigen Tech-House- und minimalistischen Stile sind deutlich von ihren Bemühungen beeinflusst.
 
 ---
 

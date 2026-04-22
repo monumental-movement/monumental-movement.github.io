@@ -112,7 +112,7 @@ Merkmale:
 
 Ein Ingenieur, der die Studioarbeit unterstützt.
 
-Er ist für das reichhaltige Sounddesign verantwortlich und nutzt dabei Synthesizer, Sampler, Programmierung usw. voll aus.
+Er ist für das umfassende Sounddesign verantwortlich und nutzt dabei Synthesizer, Sampler, Programmierung usw. voll aus.
 
 Jazz und
 Er bringt seinen klassischen Hintergrund mit und verleiht seinen Arrangements Tiefe.
