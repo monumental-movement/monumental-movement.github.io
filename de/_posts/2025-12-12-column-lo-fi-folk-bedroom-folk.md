@@ -50,7 +50,7 @@ In den späten 1970er-Jahren erfreuten sich Tonbandgeräte für Privatanwender g
 - One-Take-Aufnahme fast ohne Abmischung
 - Klangerzeugung, die die natürlichen Echos des Raumes beibehält
 
-Obwohl die Klangqualität keineswegs hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu bewahren.
+Obwohl die Klangqualität nicht hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu wahren.
 
 ### 1-2. 1980er–1990er: Verbindung zwischen Indie-Folk und Takuroku
 In den späten 1980er Jahren kamen kostengünstige 4-Spur-Kassettenrecorder (z. B. TASCAM Portastudio) auf den Markt, und die Qualität des Homerecordings verbesserte sich dramatisch.
@@ -87,7 +87,7 @@ Viele der Aufnahmen werden im Haus des Künstlers gemacht und umfassen:
 Diese Elemente prägten ab den 2000er Jahren das Klangbild des Lo-Fi Folk.
 
 ### 2-2. Produktionsmethode der frühen Werke von Sufjan Stevens
-Sufjan Stevens‘ frühe Werke, insbesondere Seven Swans (2004), und seine früheren und späteren Gesangsaufnahmen zeigen eine aktive Nutzung von Heimaufnahmen.
+Sufjan Stevens‘ frühe Werke, insbesondere Seven Swans (2004), und seine früheren und späteren Gesangsaufnahmen zeigen den aktiven Einsatz von Homerecordings.
 
 ### ● Haupttechniken
 - Spielen Sie viele Instrumente selbst
@@ -146,7 +146,7 @@ Obwohl die Klangqualität klarer als zuvor war, wurden Mischungen, die immer noc
 ---
 
 ## 5. 2020er Jahre: Post-Lo-Fi und akustische Rückkehr
-In den 2020er Jahren tendiert Lo-Fi Folk zu einem statischeren Ansatz. Mit minimalistischen Kompositionen, einem Schwerpunkt auf Live-Aufnahmen und der Reduzierung von offensichtlichem Lärm bewegt sich Bedroom Folk auf eine Bühne zu, auf der „Lebensklang-Realismus“ und „hochaufgelöste Intimität“ nebeneinander existieren.
+In den 2020er Jahren tendiert Lo-Fi Folk zu einem statischeren Ansatz. Mit minimalistischen Kompositionen, einem Schwerpunkt auf Live-Aufnahmen und einer Reduzierung offener Geräusche bewegt sich Bedroom Folk auf eine Bühne zu, auf der „Lebensklang-Realismus“ und „hochaufgelöste Intimität“ nebeneinander existieren.
 
 - Niedrigere Preise für hochwertige Kondensatormikrofone
 - Verbesserte DAW-Standard-Plug-Ins

@@ -60,7 +60,7 @@ Zu den Funktionen gehören:
 * Verleiht Atmungsdynamik, ohne dass die Seitenkette extrem tief wird
 * Konzentrieren Sie sich eher auf „Build ~ Melodie“ als auf Drop
 
-Obwohl der Einfluss von Mt. Eden groß ist, entstand der Genrename „Chillstep“ ganz natürlich innerhalb der Internetkultur.
+Obwohl der Einfluss von Mt. Eden groß ist, entstand der Name „Chillstep“ als Genre spontan in der Internetkultur.
 
 ---
 
@@ -85,7 +85,7 @@ Das Symbol von Chillstep ist „sanfter Subbass“.
 
 ### 2-3 Melodie und Synthesizer-Design
 
-* Leitung: Sanfte Sägewelle oder analoge Emulation
+* Lead: Sanfte Sägewelle oder analoge Emulation
 * Pad: Breites Stereo, hochdichte Textur mit unterdrückten Obertönen
 * Klavier: Hall mit langem Nachhall und weniger Vorverzögerung
 * Streicher: Verstärken Sie das Legato und verbinden Sie die obere Linie reibungslos
@@ -200,7 +200,7 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 #### Lead Synth
 
 * Sägewelle + Rauschen-Mischung
-* Langsamerer Angriff, längere Freigabe
+* Langsamerer Angriff, längeres Release
 * Fügen Sie einen analogen Stildrift hinzu
 
 #### Unterlage
@@ -219,7 +219,7 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 
 * Sinuswellenzentrum
 * Bei Bedarf Dreieckswellen untermischen, um für mehr Wärme zu sorgen
-* LFO ist sanft
+*LFO ist sanft
 * Seitenkette ist dünn
 * Die Freigabe ist kurz und fest
 

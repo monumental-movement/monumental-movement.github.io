@@ -19,7 +19,7 @@ title: '[Kolumne] Shpongle: Reinkarnation des Klangs und Reise des Bewusstseins'
 Text: mmr｜Thema: Philosophie des akustischen Universums, gezeichnet von Raja Ram und Simon Posford
 
 
-Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. 1996 gegründet, inspiriert von der totalen Sonnenfinsternis in Indien, präsentierten sie eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-orientierten Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
+Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. Die 1996 gegründete Band wurde von der totalen Sonnenfinsternis in Indien inspiriert und präsentierte eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-orientierten Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
 
 ---
 
@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-Shpongles Lieder erschaffen, zerstören und regenerieren Universen in einem Lied.
+Shpongles Lieder erschaffen, zerstören und regenerieren Universen in einem einzigen Lied.
 Zuhören selbst ist ein philosophischer Akt.
 
 ---
@@ -315,7 +315,7 @@ Diese Struktur verursacht ein psychologisches Phänomen, das als „akustischer 
 | Nachhall | Nachhall | Erweiterung der räumlichen Lokalisierung | Auflösung des Ego |
 | Polyrhythmus | Kognitive Verzögerung | Verträumtes Schwebegefühl |
 
-Wissenschaftlich gesehen ist Shpongle ein Projekt zur „Umstrukturierung des Gehirns mit Klang“.
+Wissenschaftlich gesehen ist Shpongle ein Projekt zum „Wiederaufbau des Gehirns mit Klang“.
 
 ---
 

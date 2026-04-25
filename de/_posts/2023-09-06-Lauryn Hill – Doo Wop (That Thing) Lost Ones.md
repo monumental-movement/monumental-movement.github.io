@@ -14,9 +14,9 @@ title: Lauryn Hill – Doo Wop (That Thing) / Lost Ones
 ---
 
 
-„Lauryn Hill – Doo Wop (That Thing) / Lost Ones“ ist ein Lied der amerikanischen Singer-Songwriterin Lauryn Hill. Das Lied wurde als Single aus ihrem Debüt-Soloalbum The Miseducation of Lauryn Hill (1998) veröffentlicht.
+「Lauryn Hill - Doo Wop (That Thing) / Lost Ones」は、アメリカのシンガーソングライターであるローリン・ヒル（Lauryn Hill）による楽曲です。この曲は、彼女のソロデビューアルバム『The Miseducation of Lauryn Hill』（1998年）からのシングルとしてリリースされました。
 
-„Lost Ones“ ist ein Song, der sich durch einen kraftvollen Beat und aggressiven Rap auszeichnet. In diesem Lied vermittelt Lauryn Hill eine Botschaft über ihre eigenen Erfahrungen und sozialen Probleme, und ihr kraftvoller Ausdruck und ihre leidenschaftliche Leistung sind beeindruckend.
+「Lost Ones」は、力強いビートとアグレッシブなラップが特徴の楽曲です。この曲では、ローリン・ヒルが自身の経験や社会的な問題についてメッセージを伝えており、力強い表現力と情熱的なパフォーマンスが印象的です。
 
 #### Trackliste
 ```md

@@ -11,26 +11,25 @@ tags:
 - Lyric
 - Hiphop
 - Rap
-title: '[Kolumne] Probleme bei der Übersetzung von Texten und beim kulturellen Transfer:
-  Wenn Worte die Grenze der Musik überschreiten'
+title: 【コラム】 歌詞翻訳と文化移入問題──言葉が音楽を越境するとき
 ---
 
 
 
-## Prolog-Texte vermitteln nicht nur „Bedeutung“
+## 序章　歌詞は「意味」だけを運んでいない
 
-Text: mmr｜Thema: Warum trägt die Liedtextübersetzung Kultur in sich? Über die Geschichte der Fehlinterpretation, Transformation und Etablierung
+文：mmr｜テーマ：歌詞翻訳はなぜ文化を運ぶのか──誤読・変容・定着の歴史について
 
 
-In der Popmusik dienen Texte nicht nur der Informationsvermittlung.
-Es handelt sich um einen Text mit extrem hoher kultureller Dichte, der Aussprache, Prosodie, Metapher, soziale Annahmen, religiöse Ansichten, Klassengefühl und sogar die Atmosphäre der Zeit umfasst.
+ポピュラー音楽において、歌詞は単なる情報伝達の手段ではない。
+発音、韻律、比喩、社会的前提、宗教観、階級感覚、そして時代の空気までを内包した、極めて文化密度の高いテキストである。
 
-Beim Übersetzen von Liedtexten geht es nicht darum, Sprachen zu ersetzen, sondern vielmehr darum, eine Kultur in eine andere Umgebung zu übertragen.
-Diese Transplantation ist nicht immer erfolgreich. Vielmehr sind sie oft verzerrt, fehlen und haben manchmal eine andere Bedeutung als das Original.
+歌詞翻訳とは、言語を置き換える作業ではなく、文化を別の環境へ移植する行為に近い。
+この移植は必ずしも成功しない。むしろ、多くの場合で歪み、欠落し、時には原曲とは異なる意味を帯びる。
 
-In diesem Artikel werden wir die Lyrikübersetzung aus der Perspektive der „kulturellen Bedeutung“ betrachten und ihre historische Entwicklung, ihren theoretischen Rahmen, spezifische Beispiele und Merkmale ihrer Rezeption in Japan ausschließlich auf der Grundlage von Fakten ordnen.
+本稿では、歌詞翻訳を「文化移入」という観点から捉え、その歴史的展開、理論的枠組み、具体的事例、日本における受容の特徴までを、事実のみをもとに整理していく。
 
-> Die Lyrikübersetzung ermöglicht das Überschreiten musikalischer Grenzen, löscht aber nicht kulturelle Grenzen aus.
+> 歌詞翻訳は、音楽の国境を越えさせるが、文化の国境を消すわけではない。
 
 ---
 
@@ -48,25 +47,25 @@ color: #fff;
 </style>
 
 
-## Kapitel 1 „Kulturelle Annahmen von Liedtexten“, die vor der Übersetzung bestehen
+## 第1章　翻訳以前に存在する「歌詞の文化的前提」
 
-Die Liedtexte basieren auf den erforderlichen Kenntnissen, die der Sprecher und das Publikum teilen.
-Ortsnamen, Eigennamen, religiöse Symbole, Umgangssprache und Verweise auf soziale Institutionen sind für Menschen in einer Kultur selbsterklärend, in einer anderen verlieren sie jedoch ihre Bedeutung.
+歌詞は、話者と受け手が共有している前提知識の上に成立する。
+地名、固有名詞、宗教的象徴、スラング、社会制度への言及は、その文化圏に属する人間にとっては説明不要だが、別の文化圏では意味を失う。
 
-Biblische Metaphern im Blues und Gospel, urbane Codes im Hip-Hop und Erzählungen über Land und Verwandtschaft in der Country-Musik sind Elemente, die bei der Übersetzung leicht verloren gehen.
+ブルースやゴスペルにおける聖書的隠喩、ヒップホップにおける都市コード、カントリー音楽における土地と血縁の物語性などは、翻訳によって容易に剥落する要素である。
 
-In diesem Stadium ist es wichtig, dass die Unübersetzbarkeit auf den „Grad der kulturellen Gemeinsamkeit“ und nicht auf die „sprachliche Struktur“ zurückzuführen ist.
-Situationen, die grammatikalisch übersetzbar, aber kulturell unverständlich sind, sind bei der Liedtextübersetzung an der Tagesordnung.
+この段階で重要なのは、翻訳不能性が「言語構造」ではなく「文化共有度」に起因している点である。
+文法的には翻訳可能でも、文化的には理解不能という事態は、歌詞翻訳において常態化している。
 
-> Es ist nicht so, dass die Texte schwierig wären, sondern dass die Welt, die die Texte vermitteln, eine andere ist.
+> 歌詞が難しいのではなく、歌詞が前提としている世界が違うのである。
 
 ---
 
-## Kapitel 2: Übersetzungsethik schwankt zwischen wörtlichen und paraphrasierten Übersetzungen
+## 第2章　直訳と意訳のあいだで揺れる翻訳倫理
 
-Im Bereich der Textübersetzung ist die Wahl zwischen wörtlicher Übersetzung und wörtlicher Übersetzung immer ein Thema.
-Wörtliche Übersetzungen sind gut darin, die Bedeutung zu bewahren, verlieren aber oft an Rhythmus und Emotion.
-Parallelübersetzungen bewahren den Hörsinn und die Emotionen, weichen jedoch tendenziell von der Bedeutung des Originaltextes ab.
+歌詞翻訳の現場では、直訳と意訳の選択が常に問題となる。
+直訳は意味の保存に優れるが、リズムや感情を損なうことが多い。
+意訳は聴感や情緒を保つが、原文の意味から逸脱しやすい。
 
 Insbesondere in der Popmusik gibt es starke Einschränkungen hinsichtlich Melodie und Wortzahl und die Logik der Prosaübersetzung greift nicht.
 Das Hinzufügen oder Entfernen einer einzelnen Silbe stört die gesamte Melodie und zwingt Übersetzer dazu, die Bedeutung ständig zu reduzieren und neu zu konstruieren.
@@ -81,7 +80,7 @@ Die daraus resultierenden übersetzten Texte sind ein Kompromiss zwischen dem Or
 ## Kapitel 3 Übersetzungen, die gesungen werden können und „Übersetzungen, die nicht gesungen werden können“
 
 Lyrische Übersetzungen werden in Übersetzungen zum Lesen und Übersetzungen zum Singen unterteilt.
-Im letzteren Fall sind die einfache Aussprache, die Vokalfolge und die Akzentposition wichtig.
+Im letzteren Fall sind einfache Aussprache, Vokalkontinuität und Akzentposition wichtig.
 
 Japanisch hat eine einfache Silbenstruktur und viele Vokale, was es schwierig macht, die Konsonantenfolge und Betonungsstruktur des Englischen zu reproduzieren.
 Daher wird beim Singen englischer Liedtexte auf Japanisch häufig die Bedeutung der Wörter vereinfacht oder die Grammatik neu geordnet.
@@ -98,7 +97,7 @@ Aus diesem Grund tendieren japanische Texte dazu, dem Klang den Vorrang vor der 
 Nach dem Krieg strömte mit der Verbreitung von Radio und Schallplatten eine große Menge westlicher Popmusik nach Japan.
 In dieser Zeit wurden viele Lieder in ihrer Originalsprache oder mit einfachen Übersetzungen eingeführt.
 
-Andererseits wurde es in vielen Fällen als beliebtes Lied adaptiert, wobei der Originalmelodie neue japanische Texte hinzugefügt wurden.
+Andererseits gibt es viele Fälle, in denen es als beliebtes Lied adaptiert wurde und der Originalmelodie neue japanische Texte hinzugefügt wurden.
 Hierbei handelt es sich nicht um reine Übersetzungen, sondern um kulturelle Nachbildungen.
 
 Der in dieser Zeit entstandene Brauch „japanischer Texte, die von den Originalliedern getrennt sind“ hatte einen lang anhaltenden Einfluss.
@@ -147,10 +146,10 @@ Dies hat Hip-Hop zu einem Sonderfall von kultureller Bedeutung ohne jegliche Üb
 
 ---
 
-## Kapitel 8: Japanischer Rap und kultureller Import in die entgegengesetzte Richtung
+## Kapitel 8 Japanischer Rap und der gegenteilige Kulturtransfer
 
 Die Etablierung des japanischen Rap erfolgte nicht durch die Übersetzung englischer Texte, sondern durch die Transplantation von Form und Haltung.
-Dabei liegt der Fokus eher auf Nachahmung und Rekonstruktion als auf Übersetzung.
+Hier liegt der Fokus eher auf Nachahmung und Rekonstruktion als auf Übersetzung.
 
 Bei der Anpassung der englischen Prosodie an die japanische wurde das einzigartige japanische Rhythmusgefühl betont und ein neues Ausdruckssystem geboren.
 Dabei handelt es sich nicht um eine Übersetzung, sondern um eine Lokalisierung des Kulturtransfers.

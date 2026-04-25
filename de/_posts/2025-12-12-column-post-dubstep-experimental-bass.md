@@ -22,9 +22,9 @@ Text: mmr｜Thema: Über die neue Basskultur, die aus urbanen Nachhall entsteht
 
 Post-Dubstep ist eine Bewegung, die den Bass-Ausdruck nach Dubstep erweiterte und sich Ende der 2000er Jahre hauptsächlich in London formierte. Ausgehend vom tiefen Bass, der vom Dub abgeleiteten räumlichen Verarbeitung und der Garagenrhythmusstruktur des traditionellen Dubstep zeichnet es sich dadurch aus, dass es sich auf R&B, Soul, experimentelle elektronische Musik, Ambient und kunstorientierte Beatmusik ausgeweitet hat.
 
-In Südlondon (Croydon, Brixton usw.), dem Zentrum des frühen Dubstep, gab es einen „dunklen Subbass-Sound“, der sich durch die DMZ-Partykultur etablierte, aber etwa von 2006 bis 2009 begannen junge Produzenten, vielfältigere Elemente einzuführen. Zu den Vertretern dieser Generation zählen **Burial**, **Mount Kimbie** und **James Blake**, die später weltweite Anerkennung erlangten.
+In Südlondon (Croydon, Brixton usw.), dem Zentrum des frühen Dubstep, gab es einen „dunklen Subbass-Sound“, der durch die DMZ-Partykultur etabliert wurde, aber etwa von 2006 bis 2009 begannen junge Produzenten, vielfältigere Elemente einzuführen. Zu den Vertretern dieser Generation zählen **Burial**, **Mount Kimbie** und **James Blake**, die später weltweite Anerkennung erlangten.
 
-Indem sie nicht nur die Clubkultur, sondern auch „urbane Nachhallzeiten“ wie Stadtlärm, Nachtverkehr, Handyaufnahmen und Feldaufnahmen als Beispielmaterialien einbezog, schufen sie eine neue Emotionalität, die in herkömmlicher Bassmusik nicht vorhanden war.
+Durch die Einbeziehung nicht nur der Clubkultur, sondern auch „urbaner Nachhall“ wie Stadtlärm, Nachtverkehr, Handyaufnahmen und Feldaufnahmen als Beispielmaterialien schufen sie eine neue Emotionalität, die in herkömmlicher Bassmusik nicht vorhanden war.
 
 ---
 
@@ -59,7 +59,7 @@ Der Beat basiert auf dem aus der Garage abgeleiteten **2-Step**, enthält aber a
 - Die Bassdrum reicht von **110 bis 130 BPM** statt etwa 140
 - Snare hat einen schwachen Attack-Ton, ohne den Backbeat zu betonen
 - Hüte werden oft aus verarbeiteten Feldaufnahmen und nicht aus Metall hergestellt.
-- Verwenden Sie kurze Samples nicht nur von Drum Machines, sondern auch von Geräuschen beim Auftreffen kleiner Objekte, Geräuschen beim Kratzen von Papier usw.
+- Zusätzlich zu Drum Machines können Sie auch kurze Samples verwenden, z. B. das Geräusch von aufschlagenden kleinen Objekten, das Geräusch von kratzendem Papier usw.
 
 ### 1-3 Akustischer Raum: Nachhall, Partikelisierung, Feldaufzeichnung
 Post-Dubstep kann als „Genre, das Raum schafft“ beschrieben werden. Insbesondere die folgenden Elemente zeichnen sich aus.
@@ -79,11 +79,11 @@ Seit seinem Debüt im Jahr 2006 gilt Burial als zentrales Symbol des Post-Dubste
 Seine wichtigste Eigenschaft ist seine Fähigkeit, das Gefühl der Einsamkeit in der Stadt hervorzurufen.
 
 ### Klangeigenschaften
-- Das Vokal-Sample ist extrem in der Tonhöhe bearbeitet und enthält mehrere Formanten, was ihm ein „geschlechtsunbestimmtes“ Gefühl verleiht.
+- Das Vokal-Sample ist stark in der Tonhöhe bearbeitet und enthält mehrere Formanten, was ihm ein „geschlechtsunbestimmtes“ Gefühl verleiht.
 - Vinyl-Crackle (Plattengeräusch) in den Vordergrund rücken
 - Der Tritt ist ein leiser Angriff wie ein entfernter Donner mitten in der Nacht
 - Die Snare hat eine trockene Klangqualität, nicht metallisch, sondern wie „zerbrochene Holzstücke“
-- Insgesamt dominiert ein „nebliger Mitteltonbereich“, die Melodie bleibt ein kurzes Motiv.
+- Insgesamt dominiert ein „nebliger Mitteltonbereich“ und die Melodie bleibt ein kurzes Motiv.
 - Häufige Verwendung von kurzen Release-Pads, die schnell verschwinden
 
 ### Probenahmemethode
@@ -102,7 +102,7 @@ Durch diese Methoden rekonstruierten Burials Lieder „Erinnerungen an die Stadt
 
 James Blake ist einzigartig darin, Post-Dubstep aus dem Kontext der Clubkultur herauszunehmen und ihn mit dem Ausdruck eines Singer-Songwriters zu verbinden.
 
-### Akustische Eigenschaften
+### Akustische Merkmale
 - Extremer Minimalismus mit Schwerpunkt auf Klavier und Gesang
 - Der Bass ist minimal und gleichmäßig um 50-70 Hz verteilt.
 - Die Akkordfolge hat ein klassisches harmonisches Gefühl.
@@ -112,7 +112,7 @@ James Blake ist einzigartig darin, Post-Dubstep aus dem Kontext der Clubkultur h
 ### Sampling-Beispiel
 - Kürzen Sie Ihre eigene Stimme, verschieben Sie sie in der Tonhöhe und verwandeln Sie sie in ein obertonreiches Pad
 - Klavierpedalgeräusch im Vordergrund mit Komprimierung
-- Kurzes Pulsgeräusch (Klick) im Tieftonbereich mischen und als Kick-Ersatz verwenden
+- Mischen Sie kurzes Pulsgeräusch (Klick) im Tieftonbereich und verwenden Sie es als Kick-Ersatz
 
 James Blakes Ansatz wurde als wichtiger Wendepunkt angesehen, der „experimentelle Bassmusik“ und „introspektives Songwriting“ verbindet.
 
@@ -181,7 +181,7 @@ Seit den 2010er Jahren hat sich Post-Dubstep über ein vom Dubstep abgeleitetes 
 ### 6-1 Typische Frequenzbandverteilung
 - 20~60Hz: Sinuswellenbasis
 - 200–800 Hz: Feldaufnahme/Geräusch/Gesangsfragmente
-- 1~3 kHz: Chirp-Sound, verarbeitete Percussion
+- 1~3kHz: Chirp-Sound, verarbeitete Percussion
 - 8~12 kHz: Luftgefühl, Zerstäubungsgeräusch
 
 ### 6-2 Liedkomposition
@@ -212,3 +212,11 @@ Post-Dubstep/Experimental Bass wird weiterhin ein fruchtbarer Boden für neue Kl
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmBantr7ZY4?si=yPHT6Eev-qSqxil8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

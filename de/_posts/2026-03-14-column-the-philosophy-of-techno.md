@@ -209,7 +209,7 @@ Diese Themen werden zu wichtigen Motiven im Techno.
 
 Diese Musik war auch eine neue Form der schwarzen Musik.
 
-Obwohl sie eine Jazz- und Funk-Tradition haben, integrieren sie elektronische Musik.
+Sie haben eine Jazz- und Funk-Tradition, integrieren aber auch elektronische Musik.
 
 Mit anderen Worten: Techno war eine Mischung aus schwarzer Musik und futuristischen Ideen.
 
@@ -310,7 +310,7 @@ Techno verwendet die gleiche Methode.
 
 Kleine Veränderungen bewirken über einen langen Zeitraum große Auswirkungen.
 
-Besonders wirkungsvoll ist dies auf der Clubfläche.
+Dies ist besonders wirkungsvoll auf der Clubfläche.
 
 - Leichte Filteränderungen.
 - Hi-Hat hinzugefügt.
@@ -341,9 +341,9 @@ In London wird es mit der Rave-Kultur in Verbindung gebracht.
 
 Japan hat eine eigene Clubszene entwickelt.
 
-Auf diese Weise wird Techno zu einer globalen Musik.
+So wird Techno zu einer globalen Musik.
 
-Aber das Wichtigste ist, dass alle Städte die gleiche Ideologie teilten.
+Wichtig ist jedoch, dass alle Städte die gleiche Ideologie teilten.
 
 - Vorstellungskraft für die Zukunft.
 - Interesse an Technik.

@@ -54,7 +54,7 @@ Die Band wurde in Texas gegründet und hatte von Anfang an Elemente, die zum Syn
 
 Obwohl sich die Mitglieder im Laufe der Zeit ändern, sind die anfänglichen Kernmitglieder wie folgt.
 
-* **Gibby Haynes** – Gesang, Gitarre, visuelle Leitung
+* **Gibby Haynes** – Gesang, Gitarre, visuelle Regie
 * **Paul Leary** – Gitarre
 * **King Coffey** – Schlagzeug
 * **Teresa Taylor** – Schlagzeug (Doppeltrommelkonfiguration)
@@ -92,9 +92,9 @@ flowchart TD
 
 ---
 
-# **3. Chaotische Zeit der 80er: Hellseher... Machtlos... Another Man's Sac (1984)**
+# **3. Chaotische Zeit der 80er: Hellseherisch… Machtlos… Another Man’s Sac (1984)**
 
-Damals bestand das Live-Set aus einer Kombination aus Live-Action-16-mm-Filmmaterial, Stroboskoplichtern und Noise-Gitarren, wodurch ein „zeremonieller“ Raum entstand, der die Toleranz des Publikums auf die Probe stellte.
+Damals bestand das Live-Set aus einer Kombination aus Live-Action-16-mm-Filmmaterial, Stroboskoplichtern und Noise-Gitarren und schuf so einen „zeremoniellen“ Raum, der die Toleranz des Publikums auf die Probe stellte.
 
 ### ● Repräsentatives Lied
 
@@ -140,7 +140,7 @@ flowchart TD
 # **5. Hairway to Steven (1988): Länger und strukturierter**
 
 Lange und kurze Lieder werden abwechselnd arrangiert und der „Umriss des Liedes“ wird deutlicher als zuvor.
-Um die Live-Reproduzierbarkeit zu verbessern, wurde auch bei der Studioaufnahme mit einer klaren Rollenverteilung verfahren.
+Um die Live-Reproduzierbarkeit zu verbessern, wurde auch bei der Studioaufnahme mit einer klaren Rollenverteilung vorgegangen.
 
 <div class="mermaid">
 flowchart TD
@@ -195,7 +195,7 @@ Mit diesem Album wurden ernsthaft digitale Sampler-Effekte eingeführt und das K
 
 * Direkt aufgenommenes Gitarrenriff, improvisierte Performance mit geschichteter Verzerrung
 * Das Saxophon bildet mit kurzen Phrasen eine Kakophonie
-* Das Schlagzeug verwendet viele ungewöhnliche Taktarten und nimmt im Studio grundsätzlich in einem Take auf.
+* Das Schlagzeug verwendet viele seltsame Taktarten und nimmt im Studio grundsätzlich in einem Take auf.
 
 2. **Lady Sniff**
 
@@ -391,7 +391,7 @@ flowchart TD
 # **9. Liste der von Butthole Surfers verwendeten Ausrüstung**
 
 
-Die von Butthole-Surfern verwendete Ausrüstung schwankt im Laufe der Jahre stark, das Folgende bleibt jedoch in der Literatur erhalten.
+Die von Butthole Surfers verwendete Ausrüstung schwankt im Laufe der Jahre stark, aber Folgendes bleibt in der Literatur erhalten.
 
 ## 9.1 Gitarre/Verstärker
 

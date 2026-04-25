@@ -76,7 +76,7 @@ Ihr frühes Werk war eine dichte Mischung aus der Geschwindigkeit des Hardcore u
 Im Jahr 1988 erregten sie in der Indie-Szene im Ausland Aufmerksamkeit und wurden zu einem heißen Thema in der Underground-Community der Vereinigten Staaten.
 1989 wurden sie von Sonic Youth stark unterstützt und durch die Interaktion mit ihnen wurden sie mit den großen amerikanischen Indies verbunden.
 
-### Musikalische Struktur der frühen Boredoms
+### Musikalische Struktur früher Boredoms
 
 <div class="mermaid">
 flowchart TD
@@ -102,7 +102,7 @@ Live-Auftritte waren in dieser Zeit immer unvorhersehbar und das Bühnengeschehe
 
 ---
 
-„Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, aber Klangordnung, Wiederholung und Minimalismus stark betont.
+„Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, jedoch großen Wert auf Klangordnung, Wiederholung und Minimalismus legt.
 Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Anmutung anzunehmen.
 
 ### 3-2. Der Höhepunkt von „Vision Creation Newsun“
@@ -111,7 +111,7 @@ Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiede
 
 ---
 
-Die Vision Creation Newsun des darauffolgenden Jahres 1999 war eines der prägenden Werke in Boredoms‘ Karriere.
+Im folgenden Jahr war „Vision Creation Newsun“ aus dem Jahr 1999 eines der prägenden Werke in Boredoms‘ Karriere.
 Natürliche Klänge, ethnische Percussion, anhaltende Klänge und zyklische Strukturen, Gitarrendrohnen, vielschichtige Rhythmen ...
 
 Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sich stattdessen in kosmischen Minimalismus und rituellen Trance.
@@ -154,7 +154,7 @@ In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen *
 ### 4.3 Bedeutung der Bohrtrommel
 - Riesige Polyrhythmik-Struktur mit Multiplayer-Schlagzeug
 - Kreisförmiger Veranstaltungsort, der das Publikum anzieht
-- Betonung der visuellen/physischen Erfahrung unter der Leitung von Ai
+- Betonung der visuellen/körperlichen Erfahrung unter der Leitung von Ai
 
 ### Strukturdiagramm der Bohrtrommel
 
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Kapitel 5: Aktivitäten seit 2010er Jahren
-Seit den 2010er Jahren führt Boredoms weiterhin zeitweise Live-Auftritte durch, während sich die kreativen Aktivitäten jedes Mitglieds vertiefen.
+Seit den 2010er Jahren gibt Boredoms weiterhin zeitweise Live-Auftritte, während sich die kreativen Aktivitäten jedes Mitglieds vertieft haben.
 Insbesondere **Eyes visuelle Kunstaktivitäten** und **Yoshimis Aktivitäten mit OIOOO/SAICOBABA** nahmen zu, was den Eindruck erweckte, dass Boredoms eher ein „kollektives Projekt“ als eine „Band“ sei.
 
 ---
@@ -279,7 +279,14 @@ timeline
 Boredoms ist mehr als nur eine Band, man kann sagen, es ist ein „Ort selbst“, der im Laufe der Zeit seine Form verändert.
 Ais philosophische Perspektive, Yoshimis körperlicher Rhythmus und die Einzigartigkeit jedes einzelnen Mitglieds sind eng miteinander verbunden und die Gruppe ist wie ein riesiger lebender Organismus gewachsen.
 
-Wenn Sie einen Blick darauf werfen, einschließlich der persönlichen Geschichte von OIOOO und Eye, breiten sich die Aktivitäten von Boredoms weiterhin wie ein „zentrloser Wirbel“ aus, und auf ihren Einfluss wird weiterhin auf der ganzen Welt verwiesen.
+Wenn Sie einen Blick darauf werfen, einschließlich der persönlichen Geschichte von OIOOO und Eye, breiten sich die Aktivitäten von Boredoms weiterhin wie ein „zentrloser Wirbel“ aus, und ihr Einfluss wird weiterhin auf der ganzen Welt erwähnt.
 
 ---
 
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmCzcTwOQrE?si=DxJJbvyyGeqMRTXy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

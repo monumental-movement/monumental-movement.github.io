@@ -42,7 +42,7 @@ color: #fff;
 
 # **2. Kindheit und familiärer Hintergrund: Ein Mädchen mit einer „ungewöhnlichen Stimme“, geboren in Queens**
 
-Cyndi Lauper wurde 1953 in Queens, New York geboren. Ihre Mutter ist eine italienisch-amerikanische Frau, die Kunst und Theater liebt. Es gab einen Streit mit seinem Vater und das familiäre Umfeld war nicht friedlich. Ich bin in einer sogenannten „komplizierten Familie“ aufgewachsen.
+Cyndi Lauper wurde 1953 in Queens, New York, geboren. Ihre Mutter ist eine italienisch-amerikanische Frau, die Kunst und Theater liebt. Es gab einen Streit mit seinem Vater und das familiäre Umfeld war nicht friedlich. Ich bin in einer sogenannten „komplizierten Familie“ aufgewachsen.
 
 Als Cindy klein war, gehörte sie zu der Sorte Kind, die fast alles sang. Er sang neben seiner Mutter in der Küche und sogar im Hinterhof des Hauses und war möglicherweise etwas laut gegenüber seinen Geschwistern. Allerdings war die Singstimme anders als normal. Es ist groß, dehnbar, sieht aus, als würde es einen zum Weinen bringen, und doch ist es stark. Ein Lehrer in der Schule sagte mir sogar: „Du solltest diese seltsame Stimme ein wenig dämpfen.“
 
@@ -54,7 +54,7 @@ Ihre Mutter liebte die Stimme jedoch sehr. Denn selbst in schwierigen Familiensi
 
 # **3. Jugend: Rebellischer Geist und Neigung zur Kunst**
 
-In ihrer Jugend wandte sich Cindy der Kunst zu, malte, schrieb Gedichte und probierte alles Kreative aus. Ich habe versucht, eine Kunsthochschule zu besuchen, aber selbst dort konnte ich mich nicht an die Umgebung anpassen, in der ich von „Regeln“ und „richtigem Ausdruck“ besessen war.
+In ihrer Jugend wandte sich Cindy der Kunst zu und versuchte alles Kreative, einschließlich Malen und Schreiben von Gedichten. Ich habe versucht, eine Kunsthochschule zu besuchen, aber selbst dort konnte ich mich nicht an die Umgebung anpassen, in der ich von „Regeln“ und „richtigem Ausdruck“ besessen war.
 
 Das Leben von Cyndi Lauper hat ein einheitliches Thema. Es ist ein starker Wille, der sagt: „Ich möchte ich selbst sein.“ Dieser Wille wurde geschärft, als sie etwa 20 Jahre alt war und durch die überfüllten Straßen von New York zog.
 
@@ -135,7 +135,7 @@ Es heißt, dass sich in dem Lied die Gefühle einer Zeit widerspiegeln, in der d
 
 ### **She Bop**
 
-Es war für seine Zeit ein sehr gewagtes Lied, ein Popsong über Sexualität.
+Für die damalige Zeit war es ein sehr kühnes Lied, ein Popsong über Sexualität.
 
 ---
 
@@ -152,7 +152,7 @@ Es gibt drei Gründe.
 
 Sie genießt jedes Mal, wenn sie Japan besucht, japanisches Essen und freundet sich schnell mit den Mitarbeitern vor Ort an. Als er während der Japan-Tournee 1994 hörte, dass sich im Publikum ein Fan mit einer Behinderung befand, nahm er sich nach der Bühne Zeit, um ihn persönlich zu treffen.
 
-Darüber hinaus wurde das 2001er Album „Shine“ nur in Japan veröffentlicht. Dies soll eine Möglichkeit gewesen sein, „den japanischen Fans etwas zurückzugeben“.
+Darüber hinaus wurde das Album „Shine“ aus dem Jahr 2001 nur in Japan veröffentlicht. Dies soll eine Möglichkeit gewesen sein, „den japanischen Fans etwas zurückzugeben“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61cwXn85sxk?si=NMR2yKfbhBEPlTIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -201,7 +201,7 @@ Cindy legte keinen Wert darauf, „erfolgreiche Formen zu wiederholen“ und leg
 
 # **12. Herausforderung am Broadway: Gewinnt den Tony Award für „Kinky Boots“**
 
-2013 war er für Text und Komposition des Musicals „Kinky Boots“ verantwortlich und gewann den Tony Award für den besten Originalsong.
+2013 war er für den Text und die Komposition des Musicals „Kinky Boots“ verantwortlich, das ihm den Tony Award für den besten Originalsong einbrachte.
 
 Ursprünglich wuchs Cindy nicht nur als Sängerin auf, sondern war auch stark von der Ausdruckskultur wie Film und Theater beeinflusst. Dies wurde in Form des Broadway verwirklicht.
 

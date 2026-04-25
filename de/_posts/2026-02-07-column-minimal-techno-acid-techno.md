@@ -66,7 +66,7 @@ Berlin war damals stark vom Post-Bauhaus-Funktionalismus und dem Minimalismus de
 
 ### Die Anzahl der Töne begrenzen und das Zeitgefühl erweitern
 
-Minimal Techno verwendet extrem wenige Sounds. Es ist nicht ungewöhnlich, dass Tracks nur aus Kicks, Hi-Hats und kurzen Synthesizer-Phrasen bestehen. Allerdings ist die Wiederholung nicht eintönig und der Hörsinn wird ständig durch winzige Änderungen der Lautstärke, des EQs und Schwankungen im Timing aktualisiert.
+Minimal Techno verwendet extrem wenige Sounds. Es ist nicht ungewöhnlich, dass Tracks nur aus Kicks, Hi-Hats und kurzen Synthesizer-Phrasen bestehen. Allerdings ist die Wiederholung nicht eintönig und der Hörsinn wird ständig durch winzige Änderungen der Lautstärke, des EQ und Schwankungen im Timing aktualisiert.
 
 ### Interaktion mit dem Clubraum
 

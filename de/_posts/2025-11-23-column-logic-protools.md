@@ -94,7 +94,7 @@ Die von Pro Tools eingeführte nichtlineare Bearbeitung entsprach nicht mehr dem
 
 ### ■ Steinbergs Transformation: Cubase Audio (1992)
 
-* MIDI- und Audio-Integration
+*MIDI- und Audio-Integration
 * Damals innovative Bearbeitungsfunktionen
 * **VST 1.0** wurde 1996 eingeführt und hatte einen der größten Einfluss in der DAW-Geschichte.
 
@@ -190,7 +190,7 @@ Auch nach der Übernahme bleibt die Ausrichtung unverändert und die technologis
 ### ■ MOTU: Als Standard für Film- und Fernsehkomponisten etabliert
 
 * Die Genauigkeit der Videosynchronisation hat sich in der DP5/6-Ära weiter erhöht
-* Da es nur für Mac geeignet ist, ist es mit Videosystemen kompatibel.
+* Da es nur für den Mac geeignet ist, ist es mit Videosystemen kompatibel.
 * Wird häufig von Komponisten verwendet, die häufig Soft-Synthesizer verwenden
 
 ### ■ Adobe: Cool Edit → Broadcast-Bearbeitung mit Audition integrieren
@@ -316,7 +316,7 @@ MOTU beherrscht die **Videosynchronisation**,
 Adobe hat mit der **Integration in Rundfunk und Videobearbeitung** einen eigenen Markt geschaffen.
 
 Obwohl die sechs Unternehmen miteinander konkurrieren,
-Dadurch haben sie gemeinsam die „Kultur der Musikproduktion selbst“ geprägt.
+Dadurch haben sie gemeinsam die Kultur der Musikproduktion geprägt.
 
 Nach 2025 KI-Bearbeitung, Cloud-Kollaboration, Ausbau der mobilen Produktion usw.
 Die Zukunft von DAWs wird eine neue Dimension annehmen.

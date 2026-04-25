@@ -16,7 +16,7 @@ title: Kollabierte Lunge – Brettspiel
 
 
 
-Collapsed Lung ist eine 1992 gegründete Britpop/Rap-Rock-Gruppe. Am bekanntesten ist sie für „Eat My Goal“.
+Collapsed Lung ist eine 1992 gegründete Britpop/Rap-Rockgruppe. Am bekanntesten ist sie für „Eat My Goal“.
 
 „Board Game“ ist ein Dub/Acid Jazz/Drum n Bass-Song, der von Deceptive veröffentlicht wurde, einem Label, das 1996 von Steve Lamacq von BBC Radio 1 gegründet wurde.
 

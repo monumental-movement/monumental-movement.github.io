@@ -52,7 +52,7 @@ Panic änderte kurzzeitig seinen Namen in Black Flag. Der Name bezieht sich auf 
 
 Die anfänglichen Mitglieder wechselten drastisch, wobei Gesang, Bass und Schlagzeug häufig ersetzt wurden. Diese Instabilität war eine Schwäche, aber auch ein Faktor, der die Festlegung der musikalischen Ausrichtung der Band verhinderte. Greg Ginns Gitarrenspiel war von Anfang an von übermäßiger Verzerrung und sich wiederholenden Riffs geprägt, und wir können bereits die Anfänge seiner späteren Entwicklung erkennen.
 
-> Die frühen Black Flags waren ein Impuls, bevor sie Gestalt annahmen.
+> Das frühe Black Flag war ein Impuls, bevor es Gestalt annahm.
 
 ---
 

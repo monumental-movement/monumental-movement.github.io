@@ -9,7 +9,7 @@ permalink: /de/column-hardrock-mysticism/
 tags:
 - Hard Rock
 - Rock
-title: '[Kolumne] Die Schnittstelle zwischen Hardrock, orientalischer Philosophie
+title: '[Kolumne] Die Schnittstelle zwischen Hard Rock, orientalischer Philosophie
   und Mystik'
 ---
 
@@ -48,7 +48,7 @@ Andererseits lässt sich ein weiterer Trend im Hard Rock in der Einführung orie
 
 Noch deutlicher wird dieser Trend bei **Rainbow**, das von Blackmore gegründet wurde. Ihr Signature-Song „Stargazer“ verbindet orientalische Tonleitern mit mystischen Texten und großartiger Orchestrierung. Dieses Lied geht über reinen Hardrock hinaus; es hat einen Sinn für Maßstäbe, als wäre es der musikalische Ausdruck eines großen Mythos oder eines epischen Gedichts. Darüber hinaus nutzte die Produktion während der Live-Aufführung Feuer und Licht voll aus, um die mystische Sicht auf die Welt zu betonen und dem Publikum ein „außerweltliches Erlebnis“ zu bieten.
 
-Auf diese Weise war die Musik von Deep Purple und Rainbow nicht einfach eine Erweiterung des westlichen Rocks, sondern man könnte sagen, dass sie eine neue Musiksprache geschaffen hat, indem sie aktiv östliches Denken und mystische Bilder einführte. Ihre Bemühungen hatten großen Einfluss auf den späteren Metal und Progressive Rock und begründeten eine Linie des „mystischen Hard Rock“, die bis heute andauert.
+Auf diese Weise war die Musik von Deep Purple und Rainbow nicht einfach eine Erweiterung des westlichen Rocks, sondern man könnte sagen, dass sie eine neue Musiksprache geschaffen hat, indem sie aktiv östliches Denken und mystische Bilder eingeführt hat. Ihre Bemühungen hatten großen Einfluss auf den späteren Metal und Progressive Rock und begründeten eine Linie des „mystischen Hard Rock“, die bis heute andauert.
 
 So gesehen sind Led Zeppelins okkulte Erkundungen und die Einführung östlicher Musikskalen durch Deep Purple und Rainbow beides Elemente, die Hard Rock zu mehr als nur einem Musikgenre, sondern zu einem kulturellen Phänomen gemacht haben.
 
@@ -68,7 +68,7 @@ flowchart LR
 
 </div>
 
-Wie in diesem Diagramm gezeigt, kombiniert Hardrock die Kraft des westlichen Rocks mit Einflüssen aus der östlichen Philosophie und dem Okkultismus. Als Ergebnis haben wir eine „reiche musikalische Grundlage“ geschaffen, die auf die Produktion von Filmsoundtracks und die neueste KI-Musikgeneration angewendet werden kann.
+Wie in diesem Diagramm gezeigt, kombiniert Hardrock die Kraft des westlichen Rocks mit Einflüssen aus östlichem Denken und Okkultismus. Als Ergebnis haben wir eine „reiche musikalische Grundlage“ geschaffen, die auf die Produktion von Filmsoundtracks und die neueste KI-Musikgeneration angewendet werden kann.
 
 ---
 
@@ -95,7 +95,7 @@ Diese Eigenschaften vermitteln dem Hörer ein „außerweltliches Erlebnis“ un
 
 ## Einfluss von Hardrock auf KI-Musik
 
-In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-Musikgenerierung** mithilfe von KI weiter. Die „mystischen Akkordfolgen“ und die „Einführung orientalischer Tonleitern“, die man im Hardrock findet, können der KI beigebracht werden und geben Hinweise für die Erstellung einzigartiger Songs.
+In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-Musikgenerierung** mithilfe von KI weiter. Die „mystischen Akkordfolgen“ und die „Einführung orientalischer Tonleitern“, die man im Hard Rock findet, können der KI beigebracht werden und geben Hinweise für die Erstellung einzigartiger Songs.
 
 ### Tatsächliches Anwendungsbeispiel
 
@@ -108,7 +108,7 @@ In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-
 ## FAQ
 
 **F1: ​​Was ist der Unterschied zwischen Hard Rock und Heavy Metal? **
-A1: Hardrock ist eine Erweiterung des Bluesrocks und behält ein starkes Gespür für Groove- und Rock'n'Roll-Elemente. Heavy Metal hingegen ist aggressiver und legt eher Wert auf Riffs und Geschwindigkeit.
+A1: Hardrock ist eine Erweiterung des Bluesrocks und behält ein starkes Gespür für Groove- und Rock'n'Roll-Elemente bei. Heavy Metal hingegen ist aggressiver und legt eher Wert auf Riffs und Geschwindigkeit.
 
 **F2: In welchen spezifischen musikalischen Elementen taucht das östliche Denken auf? **
 A2: Wir drücken „Exotik“ und „Mystik“ aus, indem wir orientalische Tonleitern wie pentatonische Tonleitern und Ragas (indische Musikmodi) verwenden.

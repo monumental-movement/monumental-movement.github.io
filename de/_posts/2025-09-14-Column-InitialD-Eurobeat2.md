@@ -71,7 +71,7 @@ color: #fff;
 | Nacht des Feuers | Niko | Ein Klassiker, der die Flip-Flop-Generation und die Anime-Generation verbindet |
 | Weltraumjunge | Dave Rodgers | Beliebt für sein schnelles Tempo und seine starke Melodie |
 | Tanzen | Vicky Vale | Beeindruckend in der frühen Rennszene eingesetzt |
-| Schlag der aufgehenden Sonne | Dave Rodgers | Hochgefühl und dramatische Entwicklungen |
+| Schlag der aufgehenden Sonne | Dave Rodgers | Hochgefühl und dramatische Entwicklung |
 | Niemand schläft in Tokio | Edo Boys | Tokio Klangbild und Geschwindigkeitsgefühl |
 | Schneller Speed-Boy | Marko Polo | Titel und Rhythmus, die das Gefühl von Geschwindigkeit verkörpern |
 | Erinnere dich an mich | Leslie Parrish | Ein melodisches, emotionales und beliebtes Lied |
@@ -182,7 +182,7 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 
 ---
 
-### Zusammenfassungstabelle zum Hintergrund des Zeitalters
+### Übersichtstabelle zum Hintergrund des Zeitalters
 
 | Ära | Musikalische Besonderheiten | Verwandte Künstler | Beziehung zu Initial D |
 | ----- | ------------------- | ------------------------ | ----------- |
@@ -190,7 +190,7 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 | 1980er Jahre | Italo Disco, Hi-NRG | Den Harrow, Fancy | Ursprung von Eurobeat |
 | 1990er Jahre | Avex Eurobeat goldenes Zeitalter | Dave Rodgers, Max Coveri | Erster D-Soundtrack |
 | 2000er | Verbreitung im Internet, Parapara-Kultur | Niko, Domino | Kombination mit Spiel- und Anime-Kultur |
-| 2010er | Meme, Wiederbelebung | Internet-Memes (Deja Vu) | Weltweite Neuausrichtung |
+| 2010er | Memeisierung, Wiederbelebung | Internet-Memes (Deja Vu) | Erneute Aufmerksamkeit weltweit |
 | 2020er | EDM / Synthwave-Fusion | Aktuelle DJs, Produzenten | Auf dem Weg zu einem neuen Klang |
 
 ---
@@ -209,7 +209,7 @@ Drift: ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (Rutschgeräusch) </
 
 ---
 
-###Übersichtstabelle der kulturellen Kontaktpunkte
+### Übersichtstabelle der kulturellen Kontaktpunkte
 
 | Bereich | Repräsentative Elemente | Verbindung mit Eurobeat |
 | ------- | ------------------------------------ | -------------------- |

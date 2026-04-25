@@ -73,7 +73,7 @@ Unter ihnen ist nur noch „ich“ übrig.
 
 Auf einer Autobahn zu fahren ist extrem einsam. Selbst wenn jemand auf dem Beifahrersitz sitzt, sind Sie praktisch allein. Alle Entscheidungen bleiben Ihnen überlassen und Sie sind für die Ergebnisse verantwortlich.
 
-Die Charaktere in Wangan Midnight können dieser Einsamkeit nicht entgehen. Vielmehr versuchen sie darin ihre eigene Existenz zu bestätigen. Geschwindigkeit ist keine Flucht, sondern ein Mittel zum Dialog.
+Die Charaktere in Wangan Midnight können dieser Einsamkeit nicht entkommen. Vielmehr versuchen sie darin ihre eigene Existenz zu bestätigen. Geschwindigkeit ist keine Flucht, sondern ein Mittel zum Dialog.
 
 Die Lichter der Stadt sind wunderschön, aber gleichzeitig kalt. In diesem Licht zu laufen bedeutet auch, die Distanz zur Welt zu spüren. Deshalb ist das momentane Gefühl der Einheit, das man in diesem Moment verspürt, so stark.
 
@@ -87,7 +87,7 @@ Dieses „Hin und Her zwischen Einsamkeit und Zweisamkeit“ bestimmt den Ton de
 
 Auch wenn das Thema das gleiche ist, kann das Erlebnis je nach Verwendung der Musik stark variieren.
 
-Der Eurobeat in Initial D ist ein Gerät, das das Geschwindigkeitsgefühl durch Rhythmus und Tempo betont. Durch die Beschleunigung der Sinne des Zuschauers und die Synchronisierung von Sehen und Hören wird das Rennen zur Unterhaltung.
+Der Eurobeat in Initial D ist ein Gerät, das den Sinn für Geschwindigkeit durch Rhythmus und Tempo betont. Durch die Beschleunigung der Sinne des Zuschauers und die Synchronisierung von Sehen und Hören wird das Rennen zur Unterhaltung.
 
 Zurückhaltender ist dagegen der Sound bei Wangan Midnight. Motorgeräusche, Windgeräusche und das Gefühl der Reifen auf dem Boden. Dies sind die Hauptfiguren, und die Musik bleibt eine Ergänzung zu ihnen.
 
@@ -133,7 +133,7 @@ Wangan Midnight zeigt eine Reihe solcher Entscheidungen.
 
 Wangan Midnight ist nicht nur Fiktion, sondern ist eng mit der realen Straßenkultur verbunden.
 
-Von den späten 1980er bis in die 1990er Jahre existierte in den städtischen Gebieten Japans auf Schnellstraßen eine informelle Rennkultur. Insbesondere der Metropolitan Expressway Bayside Route war einer seiner zentralen Standorte.
+Von den späten 1980er bis in die 1990er Jahre existierte in den städtischen Gebieten Japans auf Schnellstraßen eine informelle Rennkultur. Insbesondere die Bayside Route des Metropolitan Expressway war einer seiner zentralen Standorte.
 
 Obwohl diese Kultur in den Medien nicht umfassend behandelt wurde, existierte sie durchaus und zog viele junge Menschen an.
 
@@ -191,7 +191,7 @@ Obwohl es hauptsächlich auf Synthesizern basiert, ist es nicht auffällig und b
 Dadurch entsteht eher ein Gefühl des „Gleitens“ als des „Sprintens“.
 Die Musik soll die Temperatur und Geschwindigkeit der Stadt so darstellen, wie sie ist, und keine Emotionen wecken.
 
-> Indem die Musik nicht im Mittelpunkt steht, rückt die Weltanschauung in den Vordergrund.
+> Dadurch, dass die Musik nicht im Mittelpunkt steht, rückt die Weltanschauung in den Vordergrund.
 
 ---
 
@@ -246,7 +246,7 @@ Merkmale:
 ・Eine erhebende Akkordfolge
 
 Allerdings ist es immer noch nicht so auffällig wie Eurobeat.
-Es ist für „städtische Schnellstraßengeschwindigkeiten“ optimiert.
+Es ist für „Stadtautobahngeschwindigkeiten“ optimiert.
 
 ---
 
@@ -281,7 +281,7 @@ Der Unterschied ist klar:
 | Rolle | Platz schaffen | Emotionen wecken |
 | Tempo | Mittlere bis hohe Geschwindigkeit | Feste hohe Geschwindigkeit |
 | Hauptfigur | Motorgeräusch + Umgebungsgeräusch | Musik |
-| Erfahrung | Selbstbeobachtung | Erhebung |
+| Erfahrung | Selbstbeobachtung | Erhebend |
 
 Eurobeat ist „Musik, die Geschwindigkeit spüren lässt.“
 Das Geräusch der Bucht ist „ein Zustand des Seins in Geschwindigkeit“.

@@ -93,7 +93,7 @@ Der Northern Soul entwickelte sich nicht nur mit der Musik, sondern auch mit sei
 
 Um diesen körperlichen Ausdruck zu ermöglichen, wurde bei der Kleidung Wert auf Funktionalität gelegt. Enge Jeans, weite Oberteile und Schuhe mit rutschigen Sohlen wurden zur Norm, und eine Kultur, die Individualität durch Aufnäher und Abzeichen zum Ausdruck brachte, etablierte sich.
 
-Wichtig ist, dass es sich bei diesen Stilen nicht um von oben überkommene Trends handelte, sondern um die Praxis auf der Tanzfläche.
+Wichtig ist, dass diese Stile nicht als Trends von oben überliefert wurden, sondern aus der Praxis auf der Tanzfläche entstanden sind.
 
 > Die Körperkultur des Northern Soul entstand als Ergebnis der Anpassung an Musik und Raum.
 
@@ -128,7 +128,7 @@ In Japan wurde Northern Soul nicht in der gleichen Form reproduziert wie in Gro�
 
 Es betont tendenziell die Klangqualität von Schallplatten, die Seltenheit von Schallplatten und das Bekenntnis zu Originalschallplatten statt zum Tanz und zeichnet sich durch seine starke Verbindung zur Sammlerkultur aus. Andererseits bleibt der Kern der tanzbaren Musik erhalten und es finden weiterhin tanzorientierte Veranstaltungen statt.
 
-> Japanese Northern Soul hat sich etabliert, indem es auf einzigartige Weise die Balance zwischen Wertschätzung und Körperlichkeit schafft.
+>Japans nördliche Seele hat sich durch die einzigartige Balance zwischen Wertschätzung und Körperlichkeit etabliert.
 
 ---
 

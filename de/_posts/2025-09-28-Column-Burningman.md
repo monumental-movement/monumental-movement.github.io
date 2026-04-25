@@ -43,7 +43,7 @@ color: #fff;
 
 ### Ursprung und Entwicklung: vom Strand bis zur Wüste
 
-Burning Man begann 1986, als Larry Harvey und Jerry James am Baker Beach in San Francisco ein hölzernes Abbild (The Man) verbrannten. Von da an wuchs die Zahl der Teilnehmer, und nach dem ersten Umzug in die Black Rock Desert im Jahr 1990 verwandelte sich die Veranstaltung in ein temporäres Städtebauprojekt in der Wüste.
+„Burning Man“ begann 1986, als Larry Harvey und Jerry James am Baker Beach in San Francisco ein hölzernes Abbild („The Man“) verbrannten. Von da an wuchs die Zahl der Teilnehmer, und nach dem ersten Umzug in die Black Rock Desert im Jahr 1990 verwandelte sich die Veranstaltung in ein temporäres Städtebauprojekt in der Wüste.
 
 ---
 
@@ -64,14 +64,14 @@ Burning Man hat eine lange Beziehung zum Silicon Valley. In den späten 1990er-J
 
 ### Beteiligung und Kontroverse berühmter Personen/Prominenten
 
-Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten der Teilnehmer mit Reichtum und Einfluss führen.
+Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten von Teilnehmern mit Reichtum und Einfluss führen.
 
 ---
 
 
 ### Anekdote/Legende
 
-Als es 1990 verlegt wurde, war ein polizeiliches Verbot des Abbrennens an Stränden ein Wendepunkt und man entschied sich für den Umzug in die Wüste.
+Als es 1990 verlegt wurde, war ein polizeiliches Verbot, am Strand zu brennen, ein Wendepunkt und man entschied sich für den Umzug in die Wüste.
 Brennender Mann
 
 Eine interessante Geschichte besagt, dass die Wurzeln von „Google Doodle“ mit der Urlaubsankündigung des Gründers bei Burning Man (der Schnittstelle zwischen Unternehmenskultur und Festivals) zusammenhängen.
@@ -273,7 +273,7 @@ Doch in diesem Jahr sorgte sein brennendes Kunstwerk „Crude Awakening“, das 
 
 #### 2008: Amerikanischer Traum
 
-American Dream/Fragen zur Konsumgesellschaft. Es gibt viel Kunst zu Themen wie Konsumismus, Mythologie und soziale Struktur.
+Amerikanischer Traum/Frage an die Konsumgesellschaft. Es gibt viel Kunst zu Themen wie Konsumismus, Mythologie und soziale Struktur.
 
 ---
 
@@ -329,7 +329,7 @@ Das Thema des Spiegelkarnevals ist Gerät, Reflexion und Illusion. Mit Spiegelst
 
 #### 2016: Da Vincis Werkstatt
 
-Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug zur italienischen Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
+Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug auf die italienische Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -393,7 +393,7 @@ Das Thema ist Unbekanntheit und Unvorhersehbarkeit, und es wird eine herausforde
 
 #### 2025: Morgen heute
 
-Fokussierung auf die nahe Zukunft, zukünftige Erfindungen und soziale Konzepte. Kunst, die „Morgen ins Heute“ verkörpert, Prototyping und Design, das einen futuristischen Dialograum induziert.
+Fokussierung auf die nahe Zukunft, zukünftige Erfindungen und Sozialpläne. Kunst, die „Morgen ins Heute“ verkörpert, Prototyping und Design, das einen futuristischen Dialograum induziert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -405,7 +405,7 @@ Die obige Liste wurde unter Bezugnahme auf die Themenbeschreibungen aus dem offi
 
 Der Tempel (ein Ort des Gebets) und der Mann selbst werden oft als Reaktion auf ein Thema gestaltet, mit Elementen, die vom Thema unabhängig sind, aber jedes Jahr neu konfiguriert werden.
 
-Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert vielmehr als „suggestiver Rahmen“.
+Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert eher als „suggestiver Rahmen“.
 
 ---
 

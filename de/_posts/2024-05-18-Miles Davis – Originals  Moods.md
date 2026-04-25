@@ -18,7 +18,7 @@ Eine der vier Kassetten umfassenden Zusammenstellungen von Miles Davis, die 1988
 
 F-1 und F-3 werden von Howard A. Roberts produziert, der für seine Arbeit mit Howard Roberts Chorale und Harry Belafonte bekannt ist.
 
-In „It's About That Time“ von F-4 sind Dave Holland am Bass und Chick Corea und Joe Zawinul am Klavier zu hören.
+In „It's About That Time“ von F-4 sind Dave Holland am Bass sowie Chick Corea und Joe Zawinul am Klavier zu hören.
 
 #### Trackliste
 ```md

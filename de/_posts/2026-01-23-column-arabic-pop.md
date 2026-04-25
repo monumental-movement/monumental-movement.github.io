@@ -25,7 +25,7 @@ Arabischer Pop ist ein allgemeiner Begriff für populäre Musik, die in arabisch
 
 Diese Musik war lange Zeit auf den lokalen Konsum ausgerichtet, aber im 21. Jahrhundert, als sich das Vertriebsumfeld veränderte, weitete sich die Präsenz auf dem globalen Markt rasch aus.
 
-> Die Internationalisierung des arabischen Pops wurde eher durch Veränderungen in der Vertriebsstruktur als durch Veränderungen im Musikstil beschleunigt.
+> Die Internationalisierung des arabischen Pops wurde eher durch Veränderungen in der Vertriebsstruktur als durch Veränderungen in den Musikstilen beschleunigt.
 
 ---
 
@@ -60,7 +60,7 @@ Auch der nationale Rundfunk spielte eine wichtige Rolle und Musik wurde als Inst
 
 ### Wendepunkt in den 1990er Jahren
 
-In den 1990er Jahren führte die Ausbreitung des Satellitenrundfunks zur Entstehung grenzüberschreitender Musiksender. Ein im Libanon ansässiger Musiksender sendete 24 Stunden am Tag Musikvideos und produzierte Popstars mit visuellen Bildern.
+In den 1990er Jahren führte die Ausbreitung des Satellitenrundfunks zur Entstehung grenzüberschreitender Musikkanäle. Ein im Libanon ansässiger Musiksender sendet 24 Stunden am Tag Musikvideos und produziert so massenhaft Popstars mit visuellen Bildern.
 
 In dieser Zeit erfreuten sich Sänger wie Nancy Ajram und Amr Diab großer Beliebtheit, und arabischer Pop wurde als panarabisches Marktprodukt und nicht als einzelne nationale Kultur neu definiert.
 

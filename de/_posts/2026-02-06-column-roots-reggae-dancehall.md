@@ -52,7 +52,7 @@ color: #fff;
 
 In Jamaika waren in den 1960er und 1970er Jahren, als die Roots-Reggae-Generation heranwuchs, Politik und Kultur eng miteinander verbunden. Bevor Musik Unterhaltung war, diente sie der Bildung und dem Austausch von Ideen. Der Grund, warum Bob Marleys Lieder über nationale Grenzen hinweg akzeptiert wurden, lag darin, dass es neben der Melodie auch ein universelles Thema der Unterdrückung und Befreiung gab.
 
-Künstler wie Burning Spear und Culture schrieben Geschichte und Erinnerung in Lieder ein und erweiterten die persönliche Geschichte zur kollektiven Geschichte. Der Rhythmus war langsam, schwer und sich wiederholend und schuf eine Struktur, die dem Zuhörer Zeit zum Nachdenken gab.
+Künstler wie Burning Spear und Culture schrieben Geschichte und Erinnerung in Lieder ein und erweiterten die persönliche Geschichte zur kollektiven Geschichte. Der Rhythmus war langsam, schwer und repetitiv und schuf eine Struktur, die dem Zuhörer Zeit zum Nachdenken gab.
 
 Das Wichtige am Roots-Reggae ist, dass die Künstler, bevor sie Stars sind, Geschichtenerzähler sind. Musik war kein Mittel zur Selbstdarstellung, sondern ein Medium zur Bewahrung der Überzeugungen einer Generation.
 
@@ -72,7 +72,7 @@ Dubs Gespür für die Subtraktion von Klängen und die Betonung des Raums steht 
 
 ## Kapitel 3: Soundsystemkultur, ein Gerät zur Generationserneuerung
 
-Das Soundsystem war ein Ort, an dem Musik abgespielt wurde, und gleichzeitig ein Mittel, um die Protagonisten zwischen den Generationen zu verändern. Diese Kultur, die es sogar jungen Menschen ohne Studio oder Musikinstrument ermöglichte, als Selektoren oder MCs mitzuwirken, löste vorübergehend hierarchische Strukturen auf.
+Das Soundsystem war ein Ort, an dem Musik gespielt werden konnte, und gleichzeitig war es ein Mittel, um die Protagonisten zwischen den Generationen zu verändern. Diese Kultur, die es sogar jungen Menschen ohne Studio oder Musikinstrument ermöglichte, als Selektoren oder MCs mitzuwirken, löste vorübergehend hierarchische Strukturen auf.
 
 Bei der Sound Clash-Szene war die Reaktion des Publikums entscheidend. Der hier entwickelte Improvisationscharakter und Wettbewerbsgeist werden die Werte der Dancehall-Generation prägen.
 

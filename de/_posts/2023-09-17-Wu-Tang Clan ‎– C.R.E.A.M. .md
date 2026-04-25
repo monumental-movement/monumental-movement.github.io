@@ -15,7 +15,7 @@ title: Wu-Tang Clan – C.R.E.A.M.
 
 Dieses Lied erscheint auf dem Debüt-Studioalbum des Wu-Tang-Clans, Enter the Wu-Tang (36 Chambers), das 1993 veröffentlicht wurde. „C.R.E.A.M.“ ist einer der bekanntesten und einflussreichsten Songs des Wu-Tang-Clans.
 
-Sie sind bekannt für ihre fesselnde Produktion und ihre introspektiven Texte, die „As Long As I've Got You“ von The Charmels zum Beispiel enthalten. Sie reflektieren die Nöte des Lebens in verarmten Vierteln und das Streben nach finanziellem Erfolg.
+Sie sind bekannt für ihre mitreißende Produktion und ihre introspektiven Texte, die „As Long As I've Got You“ von The Charmels zum Beispiel enthalten. Sie reflektieren die Nöte des Lebens in verarmten Vierteln und das Streben nach finanziellem Erfolg.
 
 #### Trackliste
 ```md

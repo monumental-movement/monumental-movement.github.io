@@ -90,7 +90,7 @@ color: #fff;
 
 ## 2010er-heute: Diversifizierung und globaler Einfluss
 
-* **Repräsentative Produzenten**: Metro Boomin (südländisch, aber auch von New York beeinflusst), Hit-Boy, Statik Selektah
+* **Repräsentative Produzenten**: Metro Boomin (südländisch geprägt, aber auch von New York beeinflusst), Hit-Boy, Statik Selektah
 * **Große Labels**: Top Dawg (auch mit NY verbunden), Griselda Records
 * **Kultureller Kontext**: Parallel zu Kendrick Lamars Einfluss ließ Griselda (Westside Gunn, Conway, Benny the Butcher) in New York das 90er-Jahre-Feeling wieder aufleben. Auch die Zahl der Künstler, die aus dem Internet stammen, nimmt zu.
 * **Video/Mode**: Eine Fusion aus High-Marken und Streetwear (Supreme, Off-White, Balenciaga). Dokumentarische Musikvideos sind auf dem Vormarsch.

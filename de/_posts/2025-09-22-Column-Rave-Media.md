@@ -79,7 +79,7 @@ Rave war keine Klangquelle oder Partitur, sondern ein Phänomen selbst. Daher st
 
 ### Wer archiviert? Medienverfall
 
-**● Spontanes Archiv aus dem Untergrund**
+**● Spontane Archive aus dem Untergrund**
 
 Seit den 2000er Jahren haben weltweit die folgenden Versuche begonnen.
 
@@ -104,7 +104,7 @@ Gemäß dem Entertainment Business Law wurden Clubs als „Unterhaltungsunterneh
 
 Es war leicht, auf das Aufnehmen von Fotos und Videos zu verzichten (besonders in Shibuya und Roppongi).
 
-Zeitschriftenmedien (wie „LOUD“ und „ele-king“) konnten nur einen begrenzten Umfang verfolgen.
+Zeitschriftenmedien (wie „LOUD“ und „ele-king“) konnten nur einem begrenzten Umfang folgen.
 
 Daher existiert der Tokio-Rave der 1990er-Jahre nur noch „in Erinnerung“.
 

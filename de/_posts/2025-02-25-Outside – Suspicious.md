@@ -11,17 +11,17 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: Draußen – Verdächtig
+title: Outside – Sus?icious
 ---
 
 
-Outside ist eine britische Jazz-Funk-Gruppe, die von Matt Cooper, Andreas Allen und Patrice Blanchard gegründet wurde.
+Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
 
-In den Tracks 2 und 8 ist der britische Sänger Cleveland Watkiss zu hören.
+2,8曲目は、イギリスのシンガーCleveland Watkiss(クリーヴランド・ワトキス)をフィーチャー。
 
-In den Tracks 4 und 7 ist Constantine Weir von der britischen Acid-Jazz-Gruppe Galliano zu hören.
+4,7曲目は、UKアシッドジャズグループGalliano(ガリアーノ)のConstantine Weir(コンスタンティン・ウィアー)をフィーチャー。
 
-Bei dieser CD handelt es sich um eine japanische Version, die 1998 von Avex veröffentlicht wurde.
+このCDは1998年にAvexからリリースされた日本盤。
 
 #### Trackliste
 ```md
@@ -42,5 +42,5 @@ Bonus Tracks
 
 [メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

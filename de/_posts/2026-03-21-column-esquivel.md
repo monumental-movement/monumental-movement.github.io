@@ -20,7 +20,7 @@ title: '[Kolumne] Esquivel und die Designphilosophie des Space Age Pop'
 
 Text: mmr｜Thema: Musikgeschichte, die den Moment offenbart, in dem sich die Sehnsucht nach der Zukunft in Klang verwandelte
 
-Mitte des 20. Jahrhunderts trat für den Menschen eine Ära ein, in der er sich zum ersten Mal der „Zukunft“ als Erweiterung der Realität bewusst wurde. Raketenentwicklung, künstliche Satelliten, Atomkraft und die Verbreitung von Haushaltsgeräten – das waren nicht nur technologische Innovationen, sondern gaben den Menschen das Gefühl, dass sich ihr Leben selbst veränderte.
+Mitte des 20. Jahrhunderts trat die Menschheit in eine Ära ein, in der sich die Menschen zum ersten Mal der „Zukunft“ als Erweiterung der Realität bewusst wurden. Raketenentwicklung, künstliche Satelliten, Atomkraft und die Verbreitung von Haushaltsgeräten – das waren nicht nur technologische Innovationen, sondern gaben den Menschen das Gefühl, dass sich ihr Leben selbst veränderte.
 
 Dieses „Zukunftsgefühl“ hatte nicht nur starken Einfluss auf Architektur und Industriedesign, sondern auch auf die Musik. Die Person, die dieses Gefühl am einzigartigsten in Klang übersetzt hat, ist Juan García Esquivel.
 
@@ -50,11 +50,11 @@ color: #fff;
 
 Esquivel wurde 1918 in Tampico, Mexiko, geboren. Schon in jungen Jahren erhielt er Klavierunterricht und eignete sich gründlich die Grundlagen der klassischen Musik an. Sein Interesse galt jedoch nicht nur den Aufführungstechniken, sondern auch dem strukturellen Aspekt, „wie die Klänge angeordnet sind und wie sie mitschwingen“.
 
-In den 1940er und 1950er Jahren arbeitete er als Musikdirektor in der mexikanischen Radio- und Fernsehbranche. Meine Erfahrung in dieser Zeit war entscheidend. Rundfunkmusik muss innerhalb einer begrenzten Zeit einen starken Eindruck hinterlassen. Um dies zu erreichen, sind Klangdichte, Platzierung und Timing äußerst wichtig.
+In den 1940er und 1950er Jahren arbeitete er als Musikdirektor in der mexikanischen Radio- und Fernsehbranche. Meine Erfahrung in dieser Zeit war entscheidend. Rundfunkmusik muss innerhalb einer begrenzten Zeit einen starken Eindruck hinterlassen. Dafür sind Klangdichte, Platzierung und Timing äußerst wichtig.
 
 Hier verfeinerte er seine Fähigkeit, Klang nicht als Linie, sondern als Ansammlung von Punkten zu behandeln. Kurze Phrasen, fragmentierte Klänge, plötzliche Veränderungen – sie sollten zum Kern seines späteren Stils werden.
 
-Aufgrund der Eigenschaften des Rundfunks als Medium musste Ton außerdem als Ersatz für das Sehen dienen. Mit anderen Worten, zu diesem Zeitpunkt hatte er ganz natürlich die Idee, Klang „visuell zu konstruieren“.
+Aufgrund der Eigenschaften des Rundfunks als Medium musste der Ton außerdem als Ersatz für das Sehen dienen. Mit anderen Worten, zu diesem Zeitpunkt hatte er ganz natürlich die Idee, Klang „visuell zu konstruieren“.
 
 Bereits zu diesem Zeitpunkt konzentrierte sich seine Musik nicht nur auf Melodien, sondern tendierte auch zu räumlicher und struktureller Gestaltung.
 
@@ -62,7 +62,7 @@ Bereits zu diesem Zeitpunkt konzentrierte sich seine Musik nicht nur auf Melodie
 
 ---
 
-## Expansion nach Amerika und die Stereo-Revolution
+## Amerikanische Expansion und Stereorevolution
 
 In den späten 1950er Jahren verlagerte Esquivel seine Aktivitäten in die USA. Zu dieser Zeit erfreuten sich Heim-Audiogeräte in Amerika mit der Ausbreitung der Konsumgesellschaft immer größerer Beliebtheit.
 
@@ -82,7 +82,7 @@ C --> D[空間表現の誕生]
 D --> E[新しいリスニング体験]
 </div>
 
-Esquivel war der Erste, der die Möglichkeiten des Stereo-Zeitalters erkannte und sie in extremer Form verkörperte.
+Esquivel war der Erste, der die Möglichkeiten des Stereo-Zeitalters verstand und sie in extremer Form verkörperte.
 
 > Stereo war eine Erfindung des Raums, nicht der Klangqualität, und er verwandelte sie in Musik.
 
@@ -107,7 +107,7 @@ D --> E[音の空間配置]
 E --> F[未来的サウンド]
 </div>
 
-Dieses Werk war mehr als nur ein Album, man könnte es als „Prototyp zukünftiger Musik“ bezeichnen.
+Dieses Werk war nicht nur ein Album, sondern ein Prototyp für zukünftige Musik.
 
 > „Other Worlds, Other Sounds“ war keine Musik, es war eine Blaupause für die Zukunft.
 
@@ -115,15 +115,15 @@ Dieses Werk war mehr als nur ein Album, man könnte es als „Prototyp zukünfti
 
 ## Die Erfindung des Studios: Aufnahmetechnik neu definiert
 
-Wenn man über Esquivels Innovation spricht, ist die Art und Weise, wie er mit dem Studio umgeht, von entscheidender Bedeutung. Für ihn war das Studio nicht nur ein Aufnahmegerät, sondern ein Ort, an dem er Musik machte.
+Ein wesentlicher Aspekt von Esquivels Innovation ist die Art und Weise, wie er mit dem Studio umgeht. Für ihn war das Studio nicht nur ein Aufnahmegerät, sondern ein Ort, an dem er Musik machte.
 
-Mikrofonplatzierung, Schallabstand und Nachhalldesign während der Aufnahme werden alle als Teil der Komposition behandelt. Mit anderen Worten: Er stellte den Aufnahmeprozess selbst in den Mittelpunkt der Musikproduktion.
+Mikrofonplatzierung, Schallabstand und Nachhallgestaltung während der Aufnahme werden alle als Teil der Komposition behandelt. Mit anderen Worten: Er stellte den Aufnahmeprozess selbst in den Mittelpunkt der Musikproduktion.
 
 Dies ist ein Konzept, das in der modernen DAW-Produktion alltäglich geworden ist, zu dieser Zeit jedoch äußerst fortschrittlich war.
 
 Seine Methode lässt sich wie folgt zusammenfassen:
 
-* Die Klanglokalisierung wird in der Kompositionsphase entwickelt
+* Entwerfen der Klanglokalisierung in der Kompositionsphase
 * Anordnung nach räumlicher Ausdehnung
 * Vervollständigen Sie den Ton während der Aufnahme und nicht erst danach
 * Struktur basierend auf der Hörumgebung (Lautsprecher)
@@ -144,7 +144,7 @@ Dieser Prozess verlagerte den Schwerpunkt der Musikproduktion von „Performance
 
 ## Grund für die Ablehnung: Nicht mehr zeitgemäß
 
-In den späten 1960er Jahren änderten sich die musikalischen Trends rasant. Der Aufstieg des Rock, die Ausbreitung der Gegenkultur und die Betonung politischer Botschaften – Musik verlangte zunehmend nach direkterem und stärkerem Ausdruck.
+In den späten 1960er Jahren änderten sich die musikalischen Trends rasant. Der Aufstieg des Rock, die Verbreitung der Gegenkultur und die Betonung politischer Botschaften – Musik verlangte zunehmend nach direkterem und stärkerem Ausdruck.
 
 In diesem Sinne wurde Esquivels Musik als „leicht“ und „veraltet“ angesehen. Obwohl seine Musik zukunftsorientiert war, hatte sie auch Aspekte der Konsumgesellschaft, die sie mit neuen Werten unvereinbar machten.
 
@@ -179,7 +179,7 @@ Sein Sound wurde nicht als Relikt der Vergangenheit, sondern als unvollendetes P
 
 ---
 
-## Einfluss auf die Neuzeit: Das Erbe der Klangraumgestaltung
+## Einfluss auf die Neuzeit: Das Erbe der soliden Raumgestaltung
 
 Der Raum ist zu einem wichtigen Element der modernen Musikproduktion geworden. Neben Stereo haben sich Technologien wie Surround und Spatial Audio weit verbreitet und Klang wird mittlerweile dreidimensional behandelt.
 

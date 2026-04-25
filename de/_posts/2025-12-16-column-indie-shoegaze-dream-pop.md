@@ -50,7 +50,7 @@ color: #fff;
 
 ### 1-1. Akustische Sensation nach Post-Punk
 
-In den späten 1970er und frühen 1980er Jahren dekonstruierte der Postpunk die Struktur des Rock und verlagerte sein Augenmerk auf Klangfarbe, Textur und räumliche Behandlung.
+In den späten 1970er und frühen 1980er Jahren dekonstruierte der Postpunk die Strukturen des Rock und verlagerte sein Augenmerk auf Klangfarbe, Textur und räumliche Behandlung.
 Synthesizer, Hall und Delay sind nicht länger bloße Dekoration, sondern fungieren als Elemente, die die Struktur des Songs selbst prägen.
 
 In diesem Prozess wandelte sich die Singstimme von der Hauptfigur, die die Geschichte erzählte, zu einem bloßen Teil des Klangs.
@@ -124,7 +124,7 @@ Die vagen Umrisse, der geringe Kontrast und die nahezu monochromatischen Farben 
 ### 5-2. Musikvideo-Trends
 
 Die Bilder erzählen keine Geschichte, sondern bestehen aus Lichtfragmenten, Zeitlupe und Überlagerungen.
-Auch Kameraführung und Schnitt vermeiden einen klaren Fokus und betonen das Gefühl des visuellen Schwebens.
+Auch die Kameraführung und der Schnitt vermeiden einen klaren Fokus und betonen das Gefühl des visuellen Schwebens.
 
 [„Bild existiert nicht als Erklärung, sondern als Erweiterung der Empfindung“]
 
@@ -202,13 +202,13 @@ Durch diese Anordnung entsteht der Effekt, dass der Zuhörer den gesamten Klang 
 Der Rhythmus in Shoegaze und Dream Pop dient nicht als Mittel zur Herbeiführung von Entwicklung, sondern als Mittel zur Aufrechterhaltung eines Zustands.
 Das Drum-Pattern ist relativ einfach und legt weniger Wert auf Füllungen und Akzente.
 
-Daher betont das Lied eher die „Zeit, die bleibt“, als die „Zeit, die fortschreitet“.
+Daher betont das Lied die „Zeit, die weiter vergeht“ und nicht die „Zeit, die fortschreitet“.
 
 ---
 
 ### B-2. Körperliche Steigerung neu definieren
 
-Auf den ersten Blick mag Shoegaze bei hoher Lautstärke wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
+Auf den ersten Blick mag bei hoher Lautstärke gespielter Shoegaze wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
 Der Fokus liegt nicht auf rhythmischen Sprüngen, sondern auf Umhüllung durch Schalldruck und Immersion durch Sustain.
 
 Dies ist ein Erlebnis, bei dem der Körper des Publikums nicht nach vorne gedrückt wird, sondern in den Klang eintaucht.

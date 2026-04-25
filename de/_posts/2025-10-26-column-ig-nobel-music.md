@@ -40,13 +40,13 @@ color: #fff;
 
 ---
 
-## 1. Prolog: Wo Wissenschaft und Musik aufeinandertreffen
+## 1. Prolog: Wo Wissenschaft und Musik aufeinander treffen
 
 Der **Ig-Nobelpreis** ist als „exzentrischer kleiner Bruder“ des Nobelpreises bekannt.
 Seit seiner Gründung im Jahr 1991 durch die amerikanische satirische Wissenschaftszeitschrift *Annals of Improbable Research*
 Der Preis wird an Forschung verliehen, die Menschen zum Lachen und Nachdenken anregt.
 
-Neben Bereichen wie Physik, Medizin, Frieden und Literatur wird dieser Preis auch in Bereichen wie Physik, Medizin, Frieden und Literatur vergeben.
+Neben Bereichen wie Physik, Medizin, Frieden und Literatur wird dieser Preis auch in Bereichen wie Physik, Medizin, Frieden und Literatur verliehen.
 Forschungen zu „Klang“ und „Musik“ haben oft Aufmerksamkeit erregt.
 Dies liegt daran, dass die Wissenschaft des Schalls nicht nur ein Wellenphänomen ist.
 Dies liegt daran, dass es tief in die menschlichen Emotionen, die Gesellschaft und die Physiologie eindringt.
@@ -83,8 +83,8 @@ Es wurde als eine Idee hoch gelobt, die die Grenzen zwischen Kunst und Wissensch
 
 ### 2.2 2017: Forschung zum „Vaginal Music Player“.
 
-Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​​​Spanien, durchgeführt
-Gewinner des Ig-Nobelpreises für Medizin.
+Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​Spanien, durchgeführt
+Er gewann den Ig-Nobelpreis für Medizin.
 Dieses Team entwickelte einen **intravaginalen Lautsprecher** namens „Babypod“,
 Wir haben untersucht, wie Föten im Mutterleib auf musikalische Reize reagieren.
 
@@ -137,10 +137,10 @@ Die beiden teilen den gleichen Forschungsgeist mit unterschiedlichen Methoden.
 
 ---
 
-### 3.3 Publikum als „Subjekt“ – zwischen Emotion und Daten
+### 3.3 Das „Subjekt“ des Publikums – zwischen Emotionen und Daten
 
 In neueren neurowissenschaftlichen Forschungen wurde fMRT verwendet, um die Gehirnaktivität beim Musikhören zu messen.
-Derzeit werden Anstrengungen unternommen, um die Mechanismen zu analysieren, durch die Freude und Empathie entstehen.
+Es werden Anstrengungen unternommen, die Mechanismen zu analysieren, durch die Freude und Empathie entstehen.
 Beim Ig-Friedensnobelpreis 2019 (Niederlande/Polnistik)
 Der Preis ging an eine Studie, die „wütende Reaktionen beim Hören unangenehmer Geräusche“ untersuchte.
 Wie reagieren Menschen auf Geräusche? Die Frage ist,

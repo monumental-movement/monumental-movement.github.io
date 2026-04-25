@@ -48,7 +48,7 @@ color: #fff;
 
 ## Kapitel 1: Straßenrennkultur und die Realität des Klangs
 
-Die Verfolgung der Wurzeln des Films führt uns zur tatsächlichen Straßenrennkultur, die Ende der 1990er Jahre an der Westküste der Vereinigten Staaten vorherrschte. Umgebaute Autos, nächtliche Autobahnen und Illegalität. Es herrschte eine einzigartige Klangumgebung.
+Die Verfolgung der Wurzeln des Films führt uns zur tatsächlichen Straßenrennkultur, die Ende der 1990er Jahre an der Westküste der Vereinigten Staaten vorherrschte. Modifizierte Autos, nächtliche Autobahnen und Illegalität. Es herrschte eine einzigartige Klangumgebung.
 
 Das hohe Geräusch eines Turboladers, das Auslassgeräusch eines Abblasventils und das tiefe Abgasgeräusch. Dabei handelte es sich nicht nur um mechanische Geräusche, sondern um „Geräuschsignaturen“, die die Persönlichkeit und den Status des Fahrers anzeigten.
 
@@ -108,7 +108,7 @@ Nach Fast & Furious MAX nimmt die Serie eine große Wendung. Es wandelte sich vo
 
 Damit einhergehend wird sich auch die Rolle des Klangs verändern. Die frühen realistischen Fahrzeuggeräusche wurden nach und nach abstrahiert und Explosionen, Kollisionen und Umgebungsgeräusche betont.
 
-Darüber hinaus erweiterte sich mit der Ankunft von Dwayne Johnson die Klangskala sofort. Um körperliche Stärke auszudrücken, werden tiefe Bassklänge betont.
+Darüber hinaus erweiterte sich mit der Ankunft von Dwayne Johnson die Klangskala sofort. Um körperliche Stärke auszudrücken, werden tiefe Basstöne betont.
 
 Auf diese Weise verlagerte die Serie den Schwerpunkt des Klangs von „Geschwindigkeit“ auf „Aufprall“.
 

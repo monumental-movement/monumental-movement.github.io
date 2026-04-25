@@ -51,7 +51,7 @@ color: #fff;
 Einer der Faktoren, die die Klangqualität einer Schallplatte bestimmen, ist die Anzahl der Umdrehungen (U/min) und die lineare Geschwindigkeit.
 
 - **7 Zoll Single: 45 U/min**
-Der Klang ist an der Außenperipherie sehr kraftvoll und die hohen Frequenzen werden hervorragend wiedergegeben. Allerdings nimmt die Verzerrung am Innenumfang zu.
+Der Klang ist an der äußeren Peripherie sehr kraftvoll und die hohen Frequenzen werden hervorragend wiedergegeben. Allerdings nimmt die Verzerrung am Innenumfang zu.
 
 - **12 Zoll LP: 33⅓U/min**
 Es eignet sich für die Langzeitwiedergabe und sorgt für eine stabile Klangqualität, allerdings sind die hohen Frequenzen etwas gedämpft.
@@ -112,9 +112,9 @@ Dieser Vorgang ist besonders bei 10-Zoll-Modellen wichtig, da die Stabilität de
 ### Pressmaterial und Gewicht: 180 g Hinter dem Mythos
 
 Bei 10-Zoll-Scheiben beträgt die Dicke im Allgemeinen etwa 1,8 bis 2,0 mm und das Gewicht etwa 120 bis 150 g.
-Beeinflusst durch den Boom bei 12-Zoll-Schallplatten mit einem Gewicht von 180 g neigen wir dazu zu denken, dass „schwerer eine bessere Klangqualität bedeutet“, aber in Wirklichkeit sind die Dichte und die Ebenheit des Materials wichtiger.
+Beeinflusst durch den Boom bei 12-Zoll-Hochleistungsschallplatten mit einem Gewicht von 180 g neigen wir dazu zu denken, dass „schwerer eine bessere Klangqualität bedeutet“, aber in Wirklichkeit sind die Dichte und die Ebenheit des Materials wichtiger.
 
-Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger wahrscheinlich ist, dass es sich verzieht und weniger Resonanzen verursacht.
+Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger dazu neigt, sich zu verziehen und weniger Resonanzen zu verursachen.
 Mit anderen Worten: Auch wenn es dünn ist, ist der Klang satt. Aus diesem Grund gibt es auch bei einer leichten 10-Zoll-Scheibe nahezu keinen Nachteil hinsichtlich der Klangqualität.
 
 ---
@@ -148,7 +148,7 @@ Aus diesem Grund entscheiden sich Club- und Noise-Künstler häufig für den 10-
 
 ---
 
-### Mastering Philosophy: Technik, um in begrenzter Zeit „ein Werk zu schnitzen“.
+### Beherrschung der Philosophie: Technik, um in begrenzter Zeit „ein Werk zu schnitzen“.
 
 10-Zoll-Schneiden ist nicht nur eine Technik, sondern auch eine „Bearbeitungsästhetik“.
 Da die Zeit begrenzt ist, ist es wichtig zu entscheiden, welche Geräusche beibehalten und welche entfernt werden sollen.

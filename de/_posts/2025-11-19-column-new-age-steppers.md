@@ -21,7 +21,7 @@ title: '[Kolumne] New Age Steppers: Die Revolution eines Action-Labels, das die 
 
 Text: mmr｜Thema: Über die Geschichte des „gemischten Teams“, das On-U Sound symbolisierte, und die Innovationen, die es hinterließ
 
-Auch wenn die Punk-Explosion Ende der 1970er Jahre in London nachgelassen hatte, war die Gesellschaft immer noch von vielen Spaltungen wie Arbeitslosigkeit, Spaltung, Streiks und Diskriminierung von Einwanderern geplagt. Die Szene wirkte wie eine Einöde, doch ihre Spalten wurden zu einer Brutstätte der Musik.
+Obwohl die Punk-Explosion Ende der 1970er Jahre nachgelassen hatte, war die Gesellschaft in London noch immer von vielen Spaltungen wie Arbeitslosigkeit, Spaltung, Streiks und Diskriminierung von Einwanderern geplagt. Die Szene wirkte wie eine Einöde, doch ihre Spalten wurden zu einer Brutstätte der Musik.
 Post-Punk-Künstler gingen schnell über das Rockformat hinaus und widmeten sich Dub, Reggae, afrikanischer Percussion, Noise, elektronischen Klängen und DIY-Aufnahmetechniken.
 
 Genau in dieser komplexen Zeit erhob sich ein junger Produzent namens **Adrian Sherwood** und begann, das riesige Netzwerk aufzubauen, das später als **On-U Sound** bekannt wurde.
@@ -97,7 +97,7 @@ Insbesondere die engen Grooves der Gruppe Roots Radics und die raue und wilde En
 Diese Fusion war damals selbst für Großbritannien schockierend.
 Dies liegt daran, dass es eine tiefe kulturelle Kluft zwischen der jamaikanischen Einwanderergemeinschaft und dem weißen Punk-/Avantgarde-Publikum in London gab und es nur sehr wenige Musikprojekte gab, die direkt miteinander interagierten.
 
-NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und Raum für Koproduktion zu schaffen.
+NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und einen Raum für Koproduktion zu schaffen.
 
 ---
 
@@ -133,7 +133,7 @@ Die Teilnahme von Mark Stewart verstärkte die Aufregung.
 
 ## ■ „Foundation Steppers“ (1983)
 
-Es ist der „Reggae-artigeste“ Song als NAS, und das Gefühl eines stabilen Grooves nimmt zu.
+Es ist der Reggae-ähnlicheste Song von NAS, mit einem stabileren Groove-Gefühl.
 Diese Arbeit hat auch starke gesellschaftspolitische Themen.
 
 ## ■ „Liebe für immer“ (2012)
@@ -192,7 +192,7 @@ NAS war mehr als nur ein Musikprojekt; In den 1970er und 1980er Jahren wurde es 
 * Unruhen in Brixton
 * Kürzungen im öffentlichen Dienst
 
-Es hat einen Hintergrund mit sozialen Themen wie z.
+Es hat einen Hintergrund von sozialen Themen wie z.
 
 Ari Up hatte eine lange Geschichte mit der jamaikanischen Einwanderergemeinschaft und Mark Stewart vertrat eine antikapitalistische Haltung.
 Auch wenn NAS politische Texte nicht direkt veröffentlichte, war „Musik machen als Experiment“ in einer multikulturellen Gesellschaft selbst eine politische Praxis.
@@ -204,7 +204,7 @@ Auch wenn NAS politische Texte nicht direkt veröffentlichte, war „Musik mache
 Nach „Foundation Steppers“ von 1983 wurden die Arbeiten unter dem Namen NAS eingestellt.
 Aber sein Einfluss breitete sich weit und breit aus.
 
-## ● Betroffener Bereich
+## ● Betroffenes Gebiet
 
 * Bristols Massive Attack, Tricky, Smith & Mighty
 * UK Dub, Digital Dub
@@ -250,7 +250,7 @@ Der Prototyp für die „genreübergreifende Schöpfung“, mit der sich Musiker
 1980 Beginn der Aufnahme von New Age Steppers (Ari Up, Mark Stewart, Roots Radics nehmen teil)
 1981 „New Age Steppers“ erscheint
 1981 erscheint „Action Battlefield“.
-1983 „Foundation Steppers“ erscheint
+1983 erscheint „Foundation Steppers“.
 1984-2000 Die NAS-Aktivitäten wurden praktisch eingestellt
 2010　Ari Up ist verstorben
 2012 „Love Forever“ veröffentlicht (Gedenkwerk inklusive unveröffentlichtem Material)

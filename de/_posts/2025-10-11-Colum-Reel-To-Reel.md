@@ -72,14 +72,14 @@ Doch gerade diese „Endlichkeit“ macht Klang zu einem besonderen Ereignis.
 
 ---
 
-## Kapitel 3 Genealogie des analogen Revivals und der nächsten Welle
+## Kapitel 3 Genealogie und die nächste Welle der analogen Wiederbelebung
 In den letzten 20 Jahren haben wir das „analoge Comeback“ viele Male miterlebt.
 Schallplatten beleben das visuelle Ritual** durch das „Objekt“ der Jacke.
 Kassetten brachten den DIY-Geist und die **Lo-Fi-Freiheit** zurück.
 
 Und Reel-to-Reel geht noch weiter.
 Es ist eine Rückkehr zur „reinen Form des Klangs“ und dem eigentlichen Ursprung des Aufnahmevorgangs.
-Entschlossen, den Klang nicht auf eine Festplatte oder in die Wolke zu gravieren, sondern auf die irreversible Substanz des Magnetismus.
+Entschlossen, den Klang nicht auf einer Festplatte oder in der Wolke einzugravieren, sondern auf der irreversiblen Substanz des Magnetismus.
 
 Das analoge Revival ist nicht nur ein nostalgisches Revival;
 **Es ist eine menschliche Gegenkultur zur digitalen Sättigung**.
@@ -92,7 +92,7 @@ T. Rex‘ „Electric Warrior“ ist ein heißer Glam-Rock-Metal.
 Yes „The Yes Album“ ist ein Progressive-Rock-Akustikraum.
 Ziel ist es, sie in einer Qualität wiederzugeben, die den Masterbändern möglichst nahe kommt.
 
-Wichtig ist hierbei jedoch nicht die „Klangqualität“.
+Wichtig ist hier jedoch nicht die „Klangqualität“.
 „High Fidelity“ ist nicht nur „High Fidelity“, sondern auch **Realitätstreue**.
 Rauschen und Verzerrungen wurden durch die Welle der Digitalisierung beseitigt,
 Tatsächlich war es ein Beweis für die menschliche Unvollkommenheit der Musik.

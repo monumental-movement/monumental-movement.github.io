@@ -52,7 +52,7 @@ Felas Musik zeichnet sich durch lange (10 bis 30 Minuten) sich wiederholende Gro
 
 ### Politische und kulturelle Aktivitäten
 
-Fela erklärte sein Anwesen zur „Kalakuta-Republik“ und betrieb es als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, hat aber auch physische Nachteile.
+Fela erklärte seine Villa zur „Kalakuta-Republik“ und betrieb sie als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, sie hat jedoch auch einen physischen Schaden verursacht.
 
 ---
 
@@ -76,7 +76,7 @@ Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politisch
 
 ### Beteiligte Bands/Produzenten/Menschen um sie herum
 
-**Koola Lobitos (früh)** → Afrika ’70 (kultigste Konfiguration) → Ägypten 80 (Konfiguration nach 1980). Obwohl die Mitglieder jede Saison wechseln, zeichnet es sich durch eine große Zusammensetzung aus Bläsergruppe, Chor und Rhythmusgruppe aus.
+**Koola Lobitos (früh)** → Afrika ’70 (kultigste Konfiguration) → Ägypten 80 (Konfiguration nach 1980). Obwohl die Mitglieder jede Saison wechseln, zeichnet es sich durch eine große, gemeinsame Zusammensetzung aus Bläsergruppe, Chor und Rhythmusgruppe aus.
 
 ---
 
@@ -94,7 +94,7 @@ Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politisch
 
 ### Anekdote/Legende
 
-**„Expensive Shit“-Vorfall**: Fela nutzte den Vorfall, bei dem die Polizei angeblich einen Marihuana-Joint platziert hatte, als Vorwand für die Verhaftung und verwandelte daraus ein Lied (Album „Expensive Shit“). Diese Geschichte wird als Anekdote überliefert, die Felas Anti-Establishment-Image symbolisiert.
+**„Expensive Shit“-Vorfall**: Fela nutzte den Vorfall, bei dem die Polizei angeblich einen Marihuana-Joint platzierte, als Vorwand für die Festnahme und verwandelte ihn in ein Lied (Album „Expensive Shit“). Diese Geschichte wird als Anekdote weitergegeben, die Felas Anti-Establishment-Image symbolisiert.
 
 **Angriff auf Kalakuta und Tod der Mutter**: Der Vorfall, bei dem Felas Mutter angeblich verletzt wurde, als Kalakuta vom Militär angegriffen wurde, wurde zur treibenden Kraft hinter ihren späteren Liedern und Aktivitäten.
 

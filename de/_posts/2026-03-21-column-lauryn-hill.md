@@ -19,7 +19,7 @@ title: '[Kolumne] Lauryn Hill – Eine Musikaufzeichnung, in der sich Seele und 
 
 ## Prolog: Wenn Stimmen die Zeiten ändern
 
-Text: mmr｜Thema: Eine Ausdrucksbahn, die die innere Welt der individuellen und sozialen Perspektive verschmolz und „Wahrheit“ in die Musik verwandelte
+Text: mmr｜Thema: Eine Ausdrucksbahn, die die innere Welt des Individuums und der sozialen Perspektive verschmolz, um „Wahrheit“ in die Musik zu verwandeln
 
 Die Musikszene der 1990er Jahre war eine Zeit, in der Hip-Hop und R&B schnell zum Mainstream wurden und sich als riesige Industrien etablierten. Musikvideos, Radio und Plattenfirmenstrategien haben die Musik einflussreicher gemacht als je zuvor und gleichzeitig den Druck der Homogenisierung und Kommerzialisierung erhöht.
 
@@ -75,7 +75,7 @@ In dieser Zeit wurden auch Ausdrücke festgestellt, die offenbar von Roberta Fla
 
 Der Erfolg der Fugees war ein Wendepunkt, aber auch eine Einschränkung. Es entsteht eine Kluft zwischen der Richtung der Gruppe und dem individuellen Ausdruck.
 
-Hill interessierte sich allmählich für die Schaffung von Werken, die sich mit dem eigenen Inneren auseinandersetzen. Dahinter standen Veränderungen in ihren romantischen Beziehungen, ihrer spirituellen Erkundung und sogar ihren Erfahrungen als Mutter.
+Hill begann allmählich, Werke anzustreben, die sich mit dem eigenen Inneren auseinandersetzen. Dahinter standen Veränderungen in ihren romantischen Beziehungen, ihrer spirituellen Erkundung und sogar ihren Erfahrungen als Mutter.
 
 Für sie ist Musik nicht mehr eine an die Außenwelt gerichtete Darbietung, sondern ein Mittel des Dialogs mit sich selbst.
 
@@ -86,7 +86,7 @@ Hill gab zu dieser Zeit nicht nur sein Solodebüt, sondern beschäftigte sich au
 Das Ergebnis war das Album von 1998
 Die Fehlbildung von Lauryn Hill.
 
-> Als ich die Erfolgsgruppe verließ, erschien zum ersten Mal meine „wahre Stimme“.
+> Als ich die Erfolgsgruppe verließ, kam meine „wahre Stimme“ zum ersten Mal zum Vorschein.
 
 ---
 
@@ -109,7 +109,7 @@ Das Wort „Misseducation“ im Titel suggeriert die Infragestellung bestehender
 ### Vielschichtige Musik
 
 Es ist ein repräsentatives Lied
-Doo Wop (That Thing) enthält Elemente des klassischen Souls und bietet gleichzeitig eine Kritik der modernen Romantik.
+„Doo Wop (That Thing)“ enthält Elemente des klassischen Souls und bietet gleichzeitig eine Kritik der modernen Romantik.
 
 In Ex-Factor werden persönliche Gefühle mit äußerster Offenheit ausgedrückt.
 
@@ -176,7 +176,7 @@ Dieses Werk erhielt gemischte Kritiken, aber seine Offenheit war von unschätzba
 
 ---
 
-## Einfluss und Erbe: Wellen breiten sich leise aus
+## Einfluss und Erbe: Wellen, die sich leise ausbreiten
 
 ### Erweiterung des weiblichen Ausdrucks
 

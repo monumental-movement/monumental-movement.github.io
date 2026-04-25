@@ -77,7 +77,7 @@ color: #fff;
 
 # 2. Kindheit und Township-Landschaft
 
-Brenda Fassie ist in einem südafrikanischen Township (Ranga) geboren und aufgewachsen. Die Gemeinde war ein Produkt des städtischen Raums der Apartheid-Ära und ein Ort institutioneller Segregation und wirtschaftlicher Unterdrückung. Das Leben, die Religion, die gemeinschaftlichen Netzwerke und die Unterhaltung der dort lebenden Menschen bildeten eine einzigartige Kultur, und Musik war ein Ausdrucksmittel, das tief im täglichen Leben verwurzelt war.
+Brenda Fassie ist in einem südafrikanischen Township (Ranga) geboren und aufgewachsen. Die Gemeinde war ein Produkt des städtischen Raums der Apartheid-Ära und ein Ort institutioneller Segregation und wirtschaftlicher Unterdrückung. Das Leben, die Religion, die gemeinschaftlichen Netzwerke und die Unterhaltung der dort lebenden Menschen stellten eine einzigartige Kultur dar, und Musik war ein Ausdrucksmittel, das tief im täglichen Leben verwurzelt war.
 
 Da sie mit einer Mutter aufwuchs, die gerne Klavier spielte und sang, und schon früh ihr Taschengeld mit dem Singen in der Kirche und vor Touristen verdiente, erhielt sie eine frühe praktische Ausbildung, die den Grundstein für ihre Auftrittsfähigkeiten legte. Dieses Umfeld führte direkt zu späterer musikalischer Vielfalt (Gesang, der Englisch, Zulu und Xhosa mischte, Rhythmusgefühl und Improvisation).
 
@@ -125,7 +125,7 @@ Brendas Texte vermischten sich oft mit dem Township-Leben, den Prüfungen der sc
 
 Seit 1996 konzentriert sie ihre Bemühungen auf die Musikproduktion und erzielte mit mehreren Alben kommerziellen Erfolg. Vor allem Werke wie „Memeza“ und „Nomakanjani“ waren große Erfolge und festigten ihren Status Ende der 1990er Jahre.
 
-In Werken aus dieser Zeit kann man hören, wie Brendas stimmlicher Ausdruck reifer wird, auch wenn sie Kwaito- und Tanzbeats einbezieht. Ihr Charisma auf der Bühne, die geschickte Einbindung des Publikums und ihre produktionstechnische Raffinesse bei den Aufnahmen brachten ihnen erneut breite Unterstützung ein.
+In Werken aus dieser Zeit kann man hören, wie Brendas stimmlicher Ausdruck reifer wird, auch wenn sie Kwaito- und Tanzbeats einbezieht. Ihr Charisma auf der Bühne, die geschickte Einbindung des Publikums und die produktionstechnische Raffinesse bei den Aufnahmen brachten ihnen erneut breite Unterstützung ein.
 
 ---
 
@@ -141,7 +141,7 @@ Bühnenkostüme, Mimik und Aufführungsregie sind ebenfalls Teil ihrer Identitä
 
 Im April 2004 brach Brenda zu Hause zusammen und wurde ins Krankenhaus gebracht. Nach mehrtägiger Behandlung verstarb er am 9. Mai. Es gab mehrere Berichte über die Todesursache, aber der Schlussbericht lautete, dass Asthmaanfälle und Komplikationen dazu beigetragen hätten.
 
-Ihr Tod löste in der südafrikanischen Musikwelt einen tiefen Schock aus und erntete zahlreiche Ehrungen aus dem In- und Ausland. Eine posthume Best-Of-Zusammenstellung und eine retrospektive Zusammenstellung bewahren Brendas Musik für Generationen von Künstlern und Hörern. In einigen Fällen führen ihre Söhne und Musikschüler ihr Erbe fort.
+Ihr Tod löste einen tiefen Schock in der südafrikanischen Musikwelt aus und erntete zahlreiche Ehrungen aus dem In- und Ausland. Eine posthume Best-Of-Zusammenstellung und eine retrospektive Zusammenstellung bewahren Brendas Musik für Generationen von Künstlern und Hörern. In einigen Fällen führen ihre Söhne und Musikschüler ihr Erbe fort.
 
 ---
 

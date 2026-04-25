@@ -134,7 +134,7 @@ Es wird verwendet, um den Groove in der Mitte eines Satzes aufrechtzuerhalten od
 #### grundlegende Informationen
 - BPM: 125
 - Tonart: g-Moll
-- Länge: Ungefähr 8 Minuten 44 Sekunden
+- Länge: Ungefähr 8 Minuten und 44 Sekunden
 
 #### Songstruktur und Rhythmus
 Es hat ein starkes melodisches Element, wobei Pads und Synthesizer allmählich mit dem Rhythmus im Intro verschmelzen.
@@ -215,7 +215,7 @@ timeline
 - Halten Sie Produktionsstandards mit Ihren eigenen Veröffentlichungen aufrecht
 
 ### 5.3 Globale Auswirkungen
-- Berliner Techno durch internationale Tourneen und Festivalauftritte in die Welt tragen
+- Berliner Techno durch internationale Tourneen und Festivalauftritte in der Welt verbreiten
 - Präsentieren eines neuen Cluberlebnisses mit Online-Sets
 
 ---

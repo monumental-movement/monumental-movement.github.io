@@ -20,7 +20,7 @@ title: '[Kolumne] Buchla Music Easel und die Philosophie der „Solitary Perform
 Text: mmr｜Thema: Musikstaffelei, die auch in der Neuzeit von vielen Live-Künstlern als „kleinstes Orchester, das alleine gespielt werden kann“ gepriesen wird
 
 
-Die **Buchla Music Easel**, die 1973 erschien, ist eine tragbare Version der berühmten analogen modularen **Buchla 200-Serie**.
+Die 1973 eingeführte **Buchla Music Easel** ist eine tragbare Version der berühmten analogen modularen **Buchla 200-Serie**.
 Der Designer Don Buchla nannte das Instrument eine „tragbare Kompositionsumgebung“.
 Es handelte sich nicht nur um ein kleines Modul, sondern um ein „persönliches improvisiertes Gerät“.
 
@@ -123,7 +123,7 @@ Ciani sagt: „Buchla ist ein Ateminstrument.“
 Klanglich erzeugt Easels **asynchrone Modulation** einen Fluss von Obertönen, der durch den Raum zu schweben scheint.
 Beim Publikum entsteht die Illusion, dass „die Melodie selbst gespielt wird“.
 
-### Wellenformanalyse: Merkmale der Improvisationsstruktur
+### Wellenformanalyse: Merkmale improvisierter Strukturen
 
 | Elemente | Technische Punkte | Höreindrücke |
 | ------------ | ------------- | ------------ |

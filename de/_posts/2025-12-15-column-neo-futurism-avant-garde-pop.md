@@ -166,7 +166,7 @@ Die Stärke der visuellen Elemente erhöht die Sichtbarkeit des Werks mehr als d
 
 ## 11. Kritische Empfangs- und Bewertungsachse
 
-Die traditionelle Popkritik konzentrierte sich auf die Songstruktur und das Hit-Potenzial. Im Neo-Futurismus/Avantgarde-Pop ist jedoch die Gesamtheit von Klang, Bild und körperlichem Ausdruck Gegenstand der Bewertung.
+Die traditionelle Popkritik konzentrierte sich auf die Songstruktur und das Hit-Potenzial. Im Neo-Futurismus/Avantgarde-Pop ist jedoch die Gesamtheit von Ton, Bild und körperlichem Ausdruck Gegenstand der Bewertung.
 
 Es gibt eine zunehmende Tendenz, dass Kritik darauf basiert, „welche Art von Fragen gestellt werden“ und nicht darauf, „leicht zu verstehen“ zu sein. Dies bedeutet, sich der Achse der zeitgenössischen Kunstbewertung zu nähern.
 
@@ -201,7 +201,7 @@ Ausdrucksformen, die sich über Geschlecht, Körper und Technologie erstreckten,
 
 ## Abschluss
 
-Neofuturismus/Avantgarde-Pop ist kein Stil, der die Zukunft verschönert, sondern eine Praxis, die die Beziehung zwischen dem aktuellen Körper und der Technologie visualisiert. Werke von FKA Twigs und Arca zeigen, wie Musik Vision, Denken und Körper integrieren kann.
+Neofuturismus/Avantgarde-Pop ist kein Stil, der die Zukunft verschönert, sondern eine Praxis, die die Beziehung zwischen dem gegenwärtigen Körper und der Technologie visualisiert. Werke von FKA Twigs und Arca zeigen, wie Musik Vision, Denken und Körper integrieren kann.
 
 Dieser Trend ist kein vorübergehender Trend, sondern der jüngste in einem kulturellen Kontinuum, das sich von der Avantgarde des 20. Jahrhunderts erstreckt. Die Avantgarde steht nicht mehr an der Peripherie, sondern erneuert sich weiterhin im Pop.
 

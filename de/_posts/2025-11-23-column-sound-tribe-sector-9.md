@@ -148,7 +148,7 @@ Seit Beginn von STS9
 - Pädagogische Unterstützung
 - Umweltschutz
 - Lokale Aktivitäten
-Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen, wie z
+Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen wie:
 
 Es gibt auch viele Auftritte, bei denen ein Teil des Live-Ticket-Erlöses gespendet wird, und viele Lieder, die soziale Themen zum Thema haben.
 Insbesondere „Peaceblaster“ (2008) wird als konzeptionelle Arbeit mit politischen und ökologischen Themen als Hintergrund positioniert.
@@ -168,7 +168,7 @@ Bei den Live-Arrangements gab es viele Versuche, vergangene Songs im EDM-Stil zu
 
 ## 5-3. Aktueller STS9
 
-In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner behauptet, veranstaltete aber auch seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine gemeinschaftsähnlichen Aktivitäten.
+In den 2020er Jahren behauptete STS9 eine feste Position als Festival-Headliner, veranstaltete gleichzeitig seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine gemeinschaftsähnlichen Aktivitäten.
 
 ---
 
@@ -176,7 +176,7 @@ In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner be
 ## 6-1. Rhythmusstruktur: percussiongetriebener Groove
 
 Das größte Merkmal von STS9 ist seine Ensemblestruktur, bei der Schlagzeug und Percussion im Mittelpunkt stehen.
-In der elektronischen Musik spielt Live-Musik die Rolle einer Drum-Machine, auf der Bass, Gitarre, Synthesizer und Samples geschichtet sind.
+In der elektronischen Musik spielt Live-Musik die Rolle eines Drumcomputers, auf dem Bass, Gitarre, Synthesizer und Samples geschichtet sind.
 
 - Afrobeat
 - Breakbeats
@@ -216,7 +216,7 @@ Während der Nachtvorstellung des Festivals fungiert die Beleuchtung selbst als 
 ## 7-3. Gemeinschaftskultur
 
 STS9-Fans sind stark gemeinschaftsorientiert, was typisch für die Jam-Band-Szene ist.
-Es gibt auch viele „Reisefans“, die die Tour verfolgen.
+Es gibt auch viele „reisende Fans“, die die Tour verfolgen.
 
 ---
 
@@ -280,7 +280,7 @@ Die Live-Shows von STS9 passen gut zu Festivals.
 - Bonnaroo
 - Elektrischer Wald
 - Suwannee Hulaween
-Ihre „Late-Night-Sets“ auf großen Festivals wie „Late Night“ sind legendär.
+Ihre „Late Night Sets“ auf großen Festivals wie „Late Night“ sind legendär.
 
 ## 11-3. Pionierbeispiele von Community-Künstlern
 
@@ -298,7 +298,7 @@ Er ist eine seltene Person, die dies seit über 20 Jahren fortsetzt.
 Die Musik ist nie nur mit aufgenommenen Werken vollständig,
 Es wird ständig mit dem „Hier und Jetzt“-Erlebnis einer Live-Aufführung aktualisiert.
 
-ihre Schritte sind
+Ihre Schritte sind
 ** „Wie nah kann eine Live-Band an elektronische Musik herankommen?“
 „Inwieweit kann elektronische Musik die Dynamik von Live-Musik einfangen?“**
 Es ist ein fortlaufendes Experiment zur Beantwortung dieser Frage und kann als eines der Symbole der Musikkultur des 21. Jahrhunderts selbst bezeichnet werden.

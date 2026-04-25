@@ -86,7 +86,7 @@ Insbesondere während der „Discovery“-Phase gilt es nicht, die Probe auf Hoc
 ### ● ③ Band-/Kompressionstextur
 Außenbordkompressoren (insbesondere der Alesis 3630) wurden damals häufig in Studioumgebungen eingesetzt.
 Dieser Kompressor hat eine „grobe“ Klangqualität, aber
-Im Gegenteil, es wurde zu einem entscheidenden Element bei der Schaffung von **dem druckvollen Kick + Crushed Loop von French Touch**.
+Im Gegenteil, es wurde zu einem entscheidenden Element bei der Schaffung von **dem druckvollen Kick + Crushed-Loop von French Touch**.
 
 ---
 
@@ -271,7 +271,7 @@ Die Aufbaumethode ist dieselbe.
 
 - Mit Tiefpassfilter abschließen
 - nach und nach öffnen
-- Kontrollieren Sie den Groove durch Einsetzen und Entfernen von Kicks
+- Kontrollieren Sie den Groove, indem Sie Tritte einfügen und entfernen
 
 Dies ist seit Daft Punks „Da Funk“ ein beständiges Erbe.
 

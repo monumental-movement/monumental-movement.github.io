@@ -19,7 +19,7 @@ title: '[Kolumne] DMC World DJ Championship: Der Weg des Turntablismus zur globa
 
 # DMC World DJ Championship – Weltgeschichte des Turntablism
 
-Text: mmr｜Thema: Geschichte der DMC World DJ Championship, technologische Innovation, Crowdfunding, Geschichte der Weltmeisterschaft, Erfolge japanischer Spieler, Ausrüstungskultur, Turntablism
+Text: mmr｜Thema: Geschichte der DMC World DJ Championship, technologische Innovation, Crowdfunding, Veränderungen in der Weltmeisterschaft, Erfolge japanischer Spieler, Ausrüstungskultur, Turntablism
 
 Die **DMC World DJ Championship (im Folgenden als DMC bezeichnet)** ist als einer der größten DJ-Battles der Welt bekannt und hat sich seit ihrer Gründung im Jahr 1985 mit dem Wachstum der Turntablism-Kultur weiterentwickelt.
 Der Prozess, durch den Hip-Hop-DJ-Techniken als „musikalischer Ausdruck“ unabhängig wurden und als „Weltwettbewerb“ weiter institutionalisiert wurden, ist eine einzigartige Geschichte, die mit keinem anderen Genre vergleichbar ist.
@@ -114,7 +114,7 @@ Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eing
 
 ## 5-1　Die Kraft der Community, die die Fortsetzung des Turniers unterstützt hat
 Obwohl DMC ein Weltklasse-Turnier ist, ist es keine kommerziell große Organisation und stand schon immer vor finanziellen Herausforderungen.
-Insbesondere Ende der 2010er Jahre, als die Belastung durch die Betriebskosten zunahm, führte DMC mehrfach **Crowdfunding** durch, das sich an Fans und die DJ-Community richtete.
+Insbesondere Ende der 2010er Jahre, als die Belastung durch die Betriebskosten zunahm, führte DMC mehrfach **Crowdfunding** für Fans und die DJ-Community durch.
 
 ### Wichtigste Fakten
 - Die **DMC Foundation** führte ein Spendenprojekt durch und es wurden Mittel für die Fortsetzung des Turniers bereitgestellt.

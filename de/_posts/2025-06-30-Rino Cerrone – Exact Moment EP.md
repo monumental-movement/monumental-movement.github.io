@@ -14,7 +14,7 @@ title: Rino Cerrone – Exact Moment EP
 ---
 
 
-Rino Cerrone ist ein italienischer Techno/Tech-House-DJ und Produzent, der seit 1990 in Neapel lebt. (Tod im Jahr 2024)
+Rino Cerrone ist ein italienischer Techno-/Tech-House-DJ und Produzent, der seit 1990 in Neapel lebt. (Tod im Jahr 2024)
 
 „Exact Moment EP“ ist ein Techno/Tech-House-Track, der 2002 vom Berner Label Phont Music veröffentlicht wurde.
 Das Ende von A2 und B1 ist eine verriegelte Rille.

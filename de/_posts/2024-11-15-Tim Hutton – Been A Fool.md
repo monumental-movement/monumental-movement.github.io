@@ -14,11 +14,11 @@ title: Tim Hutton – Been A Fool
 ---
 
 
-Tim Hutton ist ein britischer Produzent, Songwriter und Multiinstrumentalist. Außerdem ist er mit Thomas Melchior im experimentellen Techno-Duo Vulva und Yoni aktiv.
+Tim Hutton(ティム・ハットン)は、UKのプロデューサー、ソングライター、マルチインストゥルメンタリスト。Thomas Melchiorとの実験的なテクノデュオVulva、Yoniなどでも活動している。
 
-„Been A Fool“ ist ein House-Future-Jazz-Track aus dem Jahr 2000.
+「Been A Fool」は、2000年にリリースされたハウス・フューチャージャズトラック。
 
-Der erste Song auf der B-Seite ist ein Remix der britischen Hip-Hop-Gruppe The Nextmen, die Songs wie Public Enemy, The Pharcyde und Blackalicious remixt hat.
+B面1曲目は、Public Enemy, the Pharcyde, Blackaliciousなどのremixを手がけるUKのHipHopグループThe Nextmenによるremix。
 
 #### Trackliste
 ```md

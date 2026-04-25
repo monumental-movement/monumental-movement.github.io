@@ -89,7 +89,7 @@ flowchart TD
 
 Nicht nur Einzelpersonen, sondern auch die Gesellschaft formt Erinnerungen auf der Grundlage von „10 Sekunden Klang“.
 Zum Beispiel die Olympia-Fanfare, das Intro eines Star-Wars-Films oder der Ton einer Smartphone-Benachrichtigung.
-Diese subtilen Klänge rufen eine gemeinsame emotionale Reaktion über Generationen und Grenzen hinweg hervor.
+Diese subtilen Klänge rufen gemeinsame emotionale Reaktionen über Generationen und Grenzen hinweg hervor.
 
 Es ist kein Zufall, dass sich TikTok und YouTube Shorts seit den 2000er Jahren auf 10–15 Sekunden lange Soundloops konzentrieren.
 Der Algorithmus wählt den „Klang aus, der am schnellsten Emotionen auslöst“, was zu einem kulturell bedingten Reflex geworden ist.

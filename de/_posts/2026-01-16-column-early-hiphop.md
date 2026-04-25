@@ -105,7 +105,7 @@ Die Wiederholung der Breakbeats veränderte den körperlichen Ausdruck der Tänz
 
 Diese Bewegungen waren keine Choreographie, sondern spontane Reaktionen. Im Kreis umringt vom Publikum und dem DJ machten die Tänzer ihre Präsenz mit ihren Körpern deutlich.
 
-Später wurde diese Tanzkultur Breakdance genannt, zunächst gab es jedoch keinen eindeutigen Namen oder System dafür.
+Später wurde diese Tanzkultur Breakdance genannt, doch zunächst gab es weder einen klaren Namen noch ein System dafür.
 
 >Tanz war keine Technik, die man zeigen konnte, sondern eine unmittelbare Reaktion auf Klang.
 
@@ -178,3 +178,11 @@ Das Verständnis dieses frühen Stadiums führt zu einer Neukonzeption von Hip-H
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QtytdV0hECI?si=tKm_zTNvzXlZqTUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

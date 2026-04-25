@@ -9,15 +9,15 @@ permalink: /de/janet-jackson-doesnt-really-matter/
 tags:
 - House
 - Pops
-title: Janet Jackson – Ist eigentlich egal
+title: Janet Jackson – Doesn't Really Matter
 ---
 
 
-„Doesn’t Really Matter“ ist ein Lied, das als Soundtrack für den Film „The Nutty Professor 2“ entstand. Der Song zeichnet sich durch einen schnellen, poppigen Sound und eine eingängige Melodie aus, und Janet Jacksons dynamischer Gesang sticht hervor.
+「Doesn't Really Matter」は、映画『ナッティ・プロフェッサー2』のサウンドトラックとして制作された曲です。この曲は、アップテンポでポップなサウンドとキャッチーなメロディが特徴で、ジャネット・ジャクソンのダイナミックなヴォーカルが際立っています。
 
-Janet Jacksons kraftvolle Singstimme, kombiniert mit dem rhythmischen und energiegeladenen Sound, schafft einen Song, der den Zuhörern Selbstvertrauen und Positivität verleiht.
+ジャネット・ジャクソンの力強い歌声と、リズミカルでエネルギッシュなサウンドが相まって、リスナーに自信と前向きな気持ちを与える曲となっています。
 
-„Does’t Really Matter“ gewann nach seiner Veröffentlichung schnell an Popularität und erreichte Platz eins der Billboard Hot 100-Charts. Es wurde für einen Grammy Award nominiert und wurde zu einem der wichtigsten Songs in Janet Jacksons Karriere.
+「Doesn't Really Matter」はリリース後すぐに人気を博し、ビルボードHot 100チャートで1位を獲得。グラミー賞にもノミネートされジャネット・ジャクソンのキャリアにおいて重要な楽曲の一つとなりました。
 
 #### Trackliste
 ```md

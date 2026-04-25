@@ -21,7 +21,7 @@ title: '[Kolumne] Floating Points und Akustik als Wissenschaft – Analytische E
 Text: mmr | Thema: Floating Points vom Neurowissenschaftler Sam Shepherd. Entdecken Sie die wissenschaftliche Struktur, die in seiner Musik verborgen ist, und ihre Neudefinition als Ambient-Jazz
 
 **Sam Shepherd**, auch bekannt als Floating Points, war Neurowissenschaftler, bevor er Musiker wurde.
-Das „präzise Sounddesign“ und die „organische Improvisation“, die seine Arbeit charakterisieren, sind genau die Gedanken, die ihm entstehen, wenn er zwischen Labor und Bühne hin und her pendelt. Elektronische Klänge sind keine anorganischen Daten, sondern können als Wellenformen betrachtet werden, die auf die gleiche Weise schwanken wie Gehirnreaktionen. Für ihn ist Klang sowohl ein „messbares Naturphänomen“ als auch der „unkontrollierbare Atem des Lebens“.
+Das „präzise Sounddesign“ und die „organische Improvisation“, die seine Arbeit charakterisieren, sind genau die Gedanken, die ihm entstehen, wenn er zwischen Labor und Bühne hin und her geht. Elektronische Klänge sind keine anorganischen Daten, sondern können als Wellenformen betrachtet werden, die auf die gleiche Weise wie Gehirnreaktionen schwanken. Für ihn ist Klang sowohl ein „messbares Naturphänomen“ als auch der „unkontrollierbare Atem des Lebens“.
 
 ---
 
@@ -80,7 +80,7 @@ Dort koexistieren Wissenschaft und Spiritualität, Messung und Gebet als ein aku
 ---
 
 ### 5. Analysediagramm: Akustisches Triaxialmodell
-Nachfolgend finden Sie ein abstraktes Modell, das die akustische Struktur von Floating Points anhand der „Frequenzachse“, „Schalldruckachse“ und „Achse der Improvisationsbahn“ darstellt.
+Nachfolgend finden Sie ein abstraktes Modell, das die akustische Struktur von Floating Points anhand der „Frequenzachse“, der „Schalldruckachse“ und der „Achse der Improvisationsbahn“ darstellt.
 
 <div class="mermaid">
 
@@ -135,7 +135,7 @@ timeline
 ### 8. Fazit: Schall beobachten
 
 Die Musik von Floating Points zu hören ist eher ein Akt des „Beobachtens“ des Klangs, als dass man ihn „erlebt“.
-Hier fungiert das Gehör als wissenschaftliches Sinnesorgan, und Musik stellt den Mittelweg** zwischen Geist und Körper dar.
+Hier fungiert das Gehör als wissenschaftliches Sinnesorgan, und Musik stellt den Mittelweg** zwischen Geist und Physischem dar.
 
 Das Genre des Ambient-Jazz wurde von ihm aus „experimenteller Musik in Stille“ geschaffen.
 Es entwickelte sich zu „Musik als Beobachtung“.

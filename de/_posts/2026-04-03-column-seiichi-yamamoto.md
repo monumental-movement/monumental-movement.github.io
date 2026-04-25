@@ -92,7 +92,7 @@ Vision Creation Newsun gilt auch als wichtiges Werk im psychedelischen und Drohn
 
 ### Akustische Wirkung
 
-Seiichi Yamamotos anhaltender Klang mittels Delay ist auch in den Bereichen Drone und Ambient zu einer Referenztechnik geworden.
+Seiichi Yamamotos anhaltender Sound mittels Delay ist auch in den Bereichen Drone und Ambient zu einer Referenztechnik geworden.
 
 > Seiichi Yamamotos Sound wird nicht als Genre, sondern als klangliches Phänomen bewertet.
 
@@ -161,7 +161,7 @@ ROVO konzentriert sich auf langfristige, sich wiederholende Strukturen.
 ### Mehrschichtung der Zeit durch Verzögerung
 
 * Nachhaltigkeit durch Feedback
-* Verschmelzung von Geräuschen und Obertönen
+* Verschmelzung von Rauschen und Obertönen
 
 <div class="mermaid">
 flowchart TD
@@ -177,11 +177,11 @@ Klänge existieren nicht als Phrasen, sondern als Phänomene, die sich immer wie
 
 Der letzte Song des Albums, „Mantral“, ist nicht nur ein komplettes Studiowerk, sondern lässt sich auch dreidimensionaler verstehen, indem man seinen Ursprüngen nachspürt.
 
-Dieses Lied geht ursprünglich auf ein Motiv zurück, das während der Zeit der Boredoms gespielt wurde, wurde jedoch nie von Boredoms veröffentlicht.
+Das Lied geht ursprünglich auf ein Motiv zurück, das während der Zeit der Boredoms gespielt wurde, wurde jedoch nie von Boredoms veröffentlicht.
 
 Mit anderen Worten kann man sagen, dass „Mantral“ eine Rekonstruktion der repetitiven Phrasen und der Trance-Struktur ist, die in der Boredoms-Szene in seinem Solowerk entstanden sind.
 
-Darüber hinaus ist diese Melodie auch auf OIOOOs Album „Mountain Book“ zu finden. Hier werden dieselben Melodiefragmente von Seiichi Yamamoto in einem anderen Arrangement und Kontext entwickelt.
+Darüber hinaus ist diese Melodie auch auf OIOOOs Album „Mountain Book“ zu hören. Hier werden dieselben Melodiefragmente von Seiichi Yamamoto in einem anderen Arrangement und Kontext entwickelt.
 
 Diese Tatsache ist wichtig.
 
@@ -207,7 +207,7 @@ Im Mittelpunkt steht eine einfache, wiederholte Melodie. Diese Melodie wird mit 
 * Der Rhythmus ist nicht explizit und bleibt bestehen
 * Der Weltraum wächst weiter
 
-Anstatt den Rhythmus vorzugeben, fungiert das Schlagzeug als „Achse, die die Musik trägt“.
+Anstatt den Rhythmus zu bestimmen, fungiert das Schlagzeug als „Achse, die die Musik trägt“.
 
 * Ein Muster, das sich in regelmäßigen Abständen wiederholt
 * Minimalistisches Blasen ohne übermäßige Dekoration
@@ -241,7 +241,7 @@ Der Klang zirkuliert endlos und der Zuhörer wird in sein Inneres entführt.
 
 Die Namba-Bären sind unverzichtbar, wenn man über die Aktivitäten von Seiichi Yamamoto spricht.
 
-Dieser Ort ist mehr als nur ein Veranstaltungsort für Live-Musik; Es fungierte als wichtiger Geburtsort der japanischen Underground-Musik.
+Dieser Ort ist mehr als nur ein Veranstaltungsort für Live-Musik. Es fungierte als wichtiger Geburtsort der japanischen Underground-Musik.
 
 ### Management und Philosophie
 
@@ -279,7 +279,7 @@ Die Förderung der nächsten Generation beeinflusst nicht nur andere, sondern sc
 
 Seiichi Yamamotos Musik besteht nicht nur aus seinem individuellen Talent.
 
-Die extreme Akustik einer Vielzahl teilnehmender Bands, der Ruf im Ausland und das Management des Namba Bears-Veranstaltungsorts – diese Dinge interagieren miteinander, um die Tiefe des Klangs weiter zu verbessern.
+Die extreme Akustik der verschiedenen teilnehmenden Bands, der Ruf im Ausland und das Management des Namba Bears-Veranstaltungsorts – diese Dinge interagieren miteinander und aktualisieren die Tiefe des Klangs kontinuierlich.
 
 Die Aufgabe, die nächste Generation zu fördern, hat keinen einseitigen Einfluss. Der Kontakt mit neuen Klängen und unreifen Ausdrucksformen rüttelt den eigenen Klang auf und aktualisiert ihn.
 

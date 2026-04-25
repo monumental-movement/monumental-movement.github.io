@@ -10,15 +10,15 @@ tags:
 - Rock
 - Nostalgic
 - 7inch
-title: Elvis – Ich will es wirklich nicht wissen
+title: Elvis - I Really Don't Want To Know
 ---
 
 
-„I Really Don't Want To Know“ wurde ursprünglich von Don Robertson und Howard Barnes geschrieben und 1953 veröffentlicht.
+「I Really Don't Want To Know（知りたくないの）」は、元々Don Robertson（ドン ロバートソン）とHoward Barnes（ハワード バーンズ）が制作し、1953年にリリースされた。
 
-Es wurde von vielen Künstlern gecovert, darunter Les Paul & Mary Ford, Andy Williams, Eddie Arnold, Johnny Rodriguez, Tommy Edwards, Ronnie Dove, Jason & the Scorchers, Anne Murray und Jerry Lee Lewis.
+これまでに、レス・ポール&メリー・フォード、アンディ・ウィリアムス、エディ・アーノルド、ジョニー・ロドリゲス、トミー・エドワーズ、ロニー・ドーヴ、ジェイソン&ザ・スコーチャーズ、アン・マレー、ジェリー・リー・ルイスなど多くのアーティストがカヴァーしている。
 
-Diese Elvis-Version wurde 1971 von RCA Victor veröffentlicht.
+この、ElvisヴァージョンはRCAビクターより1971年にリリースされた。
 
 #### Trackliste
 ```md

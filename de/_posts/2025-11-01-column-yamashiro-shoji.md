@@ -68,7 +68,7 @@ Dies war nicht nur eine Sammlung von Volksmusik, sondern eine Untersuchung der g
 | Region | Musik/Rituale | Forschungsschwerpunkt |
 |------|-------------|------------|
 | Bali, Indonesien | Kecak, Gamelan | Kollektive Trance und Zeitstruktur |
-| Afrikanischer Tropenwald | Pygmäenwaldgesang | Synchronisation von Umgebungsgeräuschen und dem Körper |
+| Afrikanischer Tropenwald | Pygmäenwald singt | Synchronisation von Umgebungsgeräuschen und dem Körper |
 | Osteuropa Bulgarien | Frauenchor | Ungleiche Metrum- und Obertonstruktur |
 | Kaukasus Georgien | Männerchor | Raumresonanz und Sozialität |
 | Tibet/Mongolei | Homie singt | Kehlkopfresonanz und Obertontrennung |

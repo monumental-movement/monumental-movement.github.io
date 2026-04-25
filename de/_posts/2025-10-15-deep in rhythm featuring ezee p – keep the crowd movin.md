@@ -15,7 +15,7 @@ title: Deep In Rhythm mit Ezee P – Keep The Crowd Movin'
 ---
 
 
-Breakbeat/House/Hip Hop vom Tanzmusikprojekt Deep In Rhythm featuring Ezee P, veröffentlicht 1990 auf dem britischen Label Debut der 90er Jahre.
+Breakbeat/House/Hip Hop vom Tanzmusikprojekt Deep In Rhythm featuring Ezee P, veröffentlicht 1990 auf dem britischen 90er-Jahre-Label Debut.
 
 #### Trackliste
 ```md

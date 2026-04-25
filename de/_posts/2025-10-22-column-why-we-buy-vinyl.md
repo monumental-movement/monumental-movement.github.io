@@ -70,7 +70,7 @@ Diese **Beschwerlichkeit erzeugt tatsächlich Bindung**.
 
 ## Kapitel 2: Erinnerungen im Lärm – Analog und Nostalgie
 
-In dem Moment, in dem die Nadel fällt, ertönt ein „Sah“-Geräusch.
+Das „knallende“ Geräusch in dem Moment, in dem die Nadel fällt.
 Aus irgendeinem Grund verspüren viele Menschen schon beim Hören Nostalgie.
 
 Dieses Phänomen wird psychologisch als „Proust-Effekt“ bezeichnet.
@@ -148,7 +148,7 @@ Aber genau darum geht es bei einem „lebendigen Klang“.
 
 Psychologisch gesehen neigen Menschen eher dazu, „an Unvollkommenheiten festzuhalten“ als an Perfektion.
 Akzeptiere diese Unvollkommenheit als Teil von dir.
-Das ist der Reiz daran als „Geist des Analogen“.
+Das ist der Reiz des „Ghost of Analog“.
 
 --Platten sind keine Grabsteine ​​der Musik.
 Vielmehr ist **das menschliche Gedächtnis selbst ein rotierendes Gerät**.

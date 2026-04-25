@@ -14,7 +14,7 @@ title: Groove Man – Funky Peak No Limit
 ---
 
 
-Ein House-Track, der 2005 vom kolumbianischen DJ/Produzenten Groove Man auf dem französischen House-Label Vector Records veröffentlicht wurde.
+コロンビア出身のDJ / プロデューサーGroove Manが2005年にフレンチハウスレーベルVector Recordsからリリースしたハウストラック。
 
 #### Trackliste
 ```md

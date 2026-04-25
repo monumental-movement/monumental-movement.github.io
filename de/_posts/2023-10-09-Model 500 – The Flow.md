@@ -19,7 +19,7 @@ Model 500 ist ein anderer Name von Juan Atkins.
 
 „THE FLOW“ ist ein Song, der verschiedenen Remixen unterzogen wurde. Juan Atkins versprüht mit seinem „G-Funk Mix“ pure R&B-Atmosphäre.
 
-Der Alex Reece Mix hingegen hat einen sanften Jazz-Step-Remix, aber der Gesang ist nicht ganz einheitlich und fühlt sich etwas nicht synchron zum Rhythmus an.
+Der Alex Reece Mix hingegen hat einen Smooth-Jazz-Step-Remix, aber der Gesang ist nicht ganz einheitlich und fühlt sich etwas nicht synchron zum Rhythmus an.
 
 Unterwelt MK. 2 Mix ist ein einfacher, clubtauglicher Track mit einem dunklen und leicht aggressiven Feeling. Frank De Wulf bietet jedoch einen Remix an, der Elemente des Tribal House enthält, und der „Original Mix“ behält immer noch seinen Glanz.
 

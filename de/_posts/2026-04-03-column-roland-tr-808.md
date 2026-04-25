@@ -57,7 +57,7 @@ Der Klang des TR-808 wird durch analoge Schaltkreise und nicht durch Samples erz
 
 Dies war eine Design-„Einschränkung“ und auch eine „Instabilität“.
 
-Insbesondere der Bassdrum-Sound wird durch eine Brückenoszillatorschaltung vom T-Typ erzeugt. Diese Schaltung erzeugt eine abklingende Sinuswelle, wodurch der charakteristische „Bong“-Bassklang entsteht. Durch Anpassen der Länge dieses Abklingens entsteht ein Subbass-ähnlicher Klang.
+Insbesondere der Bassdrum-Sound wird durch eine Oszillatorschaltung vom Brücken-T-Typ erzeugt. Diese Schaltung erzeugt eine abklingende Sinuswelle, wodurch der charakteristische „Bong“-Bassklang entsteht. Durch Anpassen der Länge dieses Abklingens entsteht ein Subbass-ähnlicher Klang.
 
 Dadurch wurde der TR-808 mehr als nur ein Drumcomputer, er fungierte als „Bassinstrument“.
 
@@ -73,7 +73,7 @@ Mit anderen Worten: Der TR-808 war zwar eine Maschine, aber „keine vollständi
 
 ## Von der Straße aufgenommener Ton
 
-Der wahre Wert des TR-808 zeigte sich nicht im Mainstream, sondern auf der Straße. Als die Preise fielen, wurden 808-Modelle immer leichter auf dem Gebrauchtmarkt erhältlich und fanden ihren Weg in die Untergrundkreise von New York und Los Angeles.
+Der wahre Wert des TR-808 zeigte sich nicht im Mainstream, sondern auf der Straße. Als die Preise fielen, wurden 808-Modelle immer leichter auf dem Gebrauchtmarkt verfügbar und fanden ihren Weg in die Untergrundkreise von New York und Los Angeles.
 
 Besonders im Hip-Hop war seine Präsenz entscheidend.
 
@@ -150,7 +150,7 @@ flowchart LR
 
 Dieser als „früher 808-Klassiker“ bekannte Song ist eine Fusion aus Hip-Hop und Elektro. Der tiefe Bass der Kick, der trockene Klang der Snare und der sequenzierte Rhythmus sind alle einzigartig für die 808.
 
-Als Anekdote sagte Afrika Bambaataa zum Zeitpunkt der Produktion: „Ich war auf der Suche nach einem Klang, den Menschenhand nicht erzeugen konnte.“ Die Präzision der Aufnahme und die Fluktuation des Analogen wurden hervorragend gemixt, was der Musik ein futuristisches urbanes Flair verlieh.
+Als Anekdote sagte Afrika Bambaataa zum Zeitpunkt der Produktion: „Ich war auf der Suche nach einem Klang, den Menschenhand nicht erzeugen konnte.“ Die Präzision der Aufnahme und die Fluktuation des Analogen wurden hervorragend gemixt, was der Musik ein futuristisches, urbanes Flair verlieh.
 
 ---
 
@@ -170,7 +170,7 @@ Während der Produktion optimierte Marvin Gaye den Groove des Songs mit einer 80
 
 808-Percussion kam auch auf dem ersten Album der Beastie Boys stark zum Einsatz. Der schwere Bass zu Beginn von „No Sleep Till Brooklyn“ ist die Wirkung, die der 808 erzeugte.
 
-Eine Anekdote: Die Mitglieder nutzten offenbar einen Step-Sequenzer, um den Rhythmus zu „spielen“, anstatt den 808 direkt anzusteuern. Das Ergebnis ist ein mechanischer und dennoch freigeistiger Groove.
+Eine Anekdote: Anscheinend nutzten die Mitglieder einen Step-Sequenzer, um den Rhythmus zu „spielen“, anstatt den 808 direkt anzusteuern. Das Ergebnis ist ein mechanischer und dennoch freigeistiger Groove.
 
 ---
 
@@ -178,7 +178,7 @@ Eine Anekdote: Die Mitglieder nutzten offenbar einen Step-Sequenzer, um den Rhyt
 
 > 808 ist auch in der Popmusik beliebt
 
-Der TR-808 lauert auch im Intro von „I Wanna Dance with Somebody“. Insbesondere die Präzision von Hi-Hat und Snare verstärkte den Dancefloor-tauglichen Groove.
+Der TR-808 lauert auch im Intro von „I Wanna Dance with Somebody“. Insbesondere die Präzision von Hi-Hat und Snare verstärkte den tanzflächentauglichen Groove.
 
 Während der Produktion sagte Produzent Narada Michael Walden: „Ohne den 808 hätten wir diesen Rhythmus nicht schaffen können.“ Die trockene Schärfe, die echte Trommeln nicht erzeugen können, revolutionierte das Tanzgefühl der Popmusik.
 
@@ -190,7 +190,7 @@ Während der Produktion sagte Produzent Narada Michael Walden: „Ohne den 808 h
 
 In den frühen 90er Jahren wandte Autechre 808-Percussion auf elektronische Ambient-Musik an. Nutzen Sie den Bass-Kick und den nachklingenden Snare-Sound als Textur und nicht nur als Rhythmus.
 
-Als Anekdote: Sie haben die „unvollkommene Fluktuation“ des 808 aktiv integriert und den Klang absichtlich gestört, um ein Gefühl räumlicher Weite zu erzeugen. Dies führte direkt zum charakteristischen Sound der späteren IDM (Intelligent Dance Music).
+Als Anekdote: Sie haben die „unvollkommene Fluktuation“ des 808 aktiv einbezogen und den Klang absichtlich gestört, um ein Gefühl räumlicher Weite zu erzeugen. Dies führte direkt zum charakteristischen Sound der späteren IDM (Intelligent Dance Music).
 
 ---
 

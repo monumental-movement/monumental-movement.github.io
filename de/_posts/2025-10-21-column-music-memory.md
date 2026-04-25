@@ -102,7 +102,7 @@ Zu diesem Zeitpunkt wird Musik nicht zum internen Gedächtnis eines Individuums,
 
 ---
 
-## Kapitel 5: Der Körper, der sich erinnert – Synapsen zwischen Musik, Gehirn und Emotionen
+## Kapitel 5: Der Körper, der sich erinnert – Synapsen zwischen Musik und Gehirn und Emotionen
 
 Musik wird nicht nur im Gehirn, sondern auch im Körper gespeichert.
 So wie Musiker sagen, dass ihre Hände sich an eine Phrase erinnern, wenn sie sie einmal auswendig gelernt haben.
@@ -120,7 +120,7 @@ Was Benedict Anderson eine „imaginierte Gemeinschaft“ nennt, ist
 Unterstützt wurde es durch „gemeinsame Musik“ wie die Nationalhymne und das Schullied.
 
 Allerdings entsteht in der heutigen Zeit das „kollektive Gedächtnis“ auf den Bühnen von Festivals und Clubs, nicht in Ländern.
-In dem Moment, in dem Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
+Sobald Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
 
 Es ist ein neues „Ritual“ des 21. Jahrhunderts und eine Erneuerung der Erinnerung.
 
@@ -193,7 +193,7 @@ flowchart TD
 ### Referenzen
 
 | Buchtitel | Autor | Herausgeber | Link |
-|------|--------|----------|---------------|
+|------|-------|-----------|---------------|
 | 音楽嗜好症 ― 脳と音楽が出会うとき | オリヴァー・サックス | 早川書房 | [Amazon](https://amzn.to/3IVGnc9) |
 | あなたの脳は音楽をどう感じるか | ダニエル・J・レヴィティン | 白揚社 | [Amazon](https://amzn.to/43k1Hig) |
 | 音楽と脳：響きあう人間の心 | 伊藤正男 | 中央公論新社 | [Amazon](https://amzn.to/3Wd4DJI) |

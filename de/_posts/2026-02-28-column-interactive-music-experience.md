@@ -12,7 +12,7 @@ tags:
 - Technology
 - Streaming
 title: '[Kolumne] Die Zukunft interaktiver Musikerlebnisse – der aktuelle Stand des
-  Hörens und Schaffens im Zuge der Weiterentwicklung der Technologie'
+  technologiegestützten Hörens und Schaffens'
 ---
 
 
@@ -53,7 +53,7 @@ color: #fff;
 
 ## Geschichte
 
-Die Anfänge interaktiver Musik reichen bis in die vordigitale Zeit zurück. Bandmanipulation und Live-Improvisation „veränderten bereits die Musik“. Erst mit der Entwicklung der Computer- und Spielkultur entwickelte sich daraus eine klare Struktur.
+Die Anfänge interaktiver Musik reichen bis in die vordigitale Zeit zurück. Bandmanipulation und Live-Improvisation „veränderten bereits die Musik“. Allerdings etablierte es sich erst mit der Entwicklung der Computer- und Spielekultur als klare Struktur.
 
 ### 1970er-1980er: Elektronische Instrumente und MIDI
 

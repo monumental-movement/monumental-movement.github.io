@@ -14,7 +14,7 @@ title: Bag Raiders – Die Bag Raiders EP
 ---
 
 
-Bag Raiders sind ein australisches Musikduo, dessen Hit „Fun Punch“ auf dieser EP enthalten ist.
+Bag Raiders sind ein australisches Musikduo, dessen Hitsong „Fun Punch“ auf dieser EP enthalten ist.
 
 Bag Raiders sind im Bereich der elektronischen Musik aktiv und ihre Musik ist bekannt für einen Sound, der Tanzmusik und Pop-Elemente verbindet.
 

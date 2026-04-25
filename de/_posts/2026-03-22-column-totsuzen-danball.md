@@ -53,9 +53,9 @@ color: #fff;
 
 ### Entfernung zwischen Städten und Einzelpersonen
 
-Japan befand sich Ende der 1970er Jahre am Ende seiner Phase hohen Wirtschaftswachstums und die Werte der Gesellschaft gerieten ins Wanken. Die Stadt wuchs weiter, doch die Menschen fühlten sich darin immer isolierter und unwohler.
+In den späten 1970er Jahren befand sich Japan am Ende seiner Phase hohen Wirtschaftswachstums und die Werte der Gesellschaft gerieten ins Wanken. Die Stadt wuchs weiter, doch die Menschen fühlten sich darin immer isolierter und unwohler.
 
-Auch im Musikbereich gibt es eine Tendenz, sich von den populären Schlagerliedern und dem Rock zu distanzieren. Im Gegensatz zur industriellen Struktur, die sich auf große Studios und Plattenfirmen konzentrierte, begann man, eine autonome Produktion in kleinem Maßstab zu erforschen.
+Auch im Musikbereich gibt es eine Tendenz, sich von den populären Schlagerliedern und dem Rock zu distanzieren. Im Gegensatz zur industriellen Struktur, die sich auf große Studios und Plattenfirmen konzentrierte, begann man, die autonome Produktion in kleinem Maßstab zu erforschen.
 
 In diesem Zusammenhang tauchte plötzlich Karton auf. Ihre Musik drückte direkt die subtilen Beschwerden und unbeschreiblichen Empfindungen des städtischen Lebens aus.
 
@@ -145,7 +145,7 @@ Vielmehr besteht eine Haltung der Relativierung des Genrerahmens selbst.
 
 ### Erweiterung der persönlichen Produktion
 
-Die Aktivitäten von Sudden Cardboard hatten eine wichtige Bedeutung in der späteren japanischen Indie-Szene. Es war insbesondere insofern von Bedeutung, als es zeigte, dass das Aufnehmen zu Hause ein wirksames Ausdrucksmittel sein kann.
+Die Aktivitäten von Sudden Cardboard hatten später eine wichtige Bedeutung in der japanischen Indie-Szene. Es war insbesondere insofern von Bedeutung, als es zeigte, dass das Aufnehmen zu Hause ein wirksames Ausdrucksmittel sein kann.
 
 Ihre Praxis verbreitete das Bewusstsein, dass „jeder Musik machen kann“. Dabei handelt es sich nicht um eine technische Frage, sondern um eine Bewusstseinsfrage.
 
@@ -207,3 +207,11 @@ Ihre Arbeit war kein großer kommerzieller Erfolg. Sein Einfluss breitet sich je
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xsUBt1dTp9U?si=yoYiBgK-_xb2KKE2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -58,7 +58,7 @@ In dieser Zeit wurden die Grundlagen des **zeitlichen/rhythmischen Ausdrucks** i
 
 - **1986**: Erstes Buch „SPINOZA“ veröffentlicht (Sakushasha).
 Gekennzeichnet durch philosophische Themen und abstrakte Bilder.
-**Visuelle Musikalität** wird durch die Anpassung der Liniendichte, der Bildschirmkomposition und des zeitlichen Rhythmus sichtbar.
+Durch die Anpassung der Liniendichte, der Bildkomposition und des zeitlichen Rhythmus kommt **visuelle Musikalität** zum Vorschein.
   
 - **1988**: Veröffentlichung von „Katajikenai“ (Hakusensha) und „G (GATE 1)“ (Schola).
 Die spannungsgeladenen Linien im Science-Fiction-Setting und der Ausdruck des menschlichen Körpers wirken wie musikalische Polyrhythmen.
@@ -78,7 +78,7 @@ Präzise Linien und visuelle Rhythmen vermitteln dem Leser ein musikalisches Erl
 Die langfristige Serialisierung vertieft die spirituelle Welt und verfeinert die Komposition und Linienführung.
 
 - **2009**: Band 3 von „ULTRA HEAVEN“ veröffentlicht.
-Die neuen Bücher, die alle vier Jahre erscheinen, sind ein echtes Lesevergnügen.
+Die neuen Bücher, die alle vier Jahre erscheinen, sind eine echte Lektüre.
 
 ---
 
@@ -109,7 +109,7 @@ Obwohl Koike von diesen Einflüssen beeinflusst ist, ist er insofern einzigartig
 
 ---
 
-## Kapitel 6: Vergleich von Arbeitsmotiven und -techniken
+## Kapitel 6: Vergleich von Arbeitsmotiven und Techniken
 
 <div class="mermaid">
 

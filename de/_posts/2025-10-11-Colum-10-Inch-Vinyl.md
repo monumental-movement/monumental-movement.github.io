@@ -25,7 +25,7 @@ Text: mmr｜Thema: Weder 7 Zoll noch 12 Zoll. Die Klangästhetik und Erinnerunge
 10-Zoll-Schallplatte.
 In diesem Wort liegt eine gewisse Mehrdeutigkeit. Es hat eine einzigartige, aber halbfertige Präsenz, die sich von der unmittelbaren Wirkung einer 7-Zoll-Single oder dem befriedigenden Gefühl einer 12-Zoll-LP unterscheidet. Wenn wir einen Blick auf die Geschichte der Schallplatten werfen, können wir sehen, dass dieses „Zwischenformat“ einen Wendepunkt in der Zeit markierte.
 
-10 Zoll sind nicht nur eine Frage der Größe. Es war auch eine andere Philosophie, die „Zeitdauer“ und „Klangdichte“ neu definierte. Die Beschränkung auf etwa 10 Minuten pro Seite zwang Künstler und Ingenieure, sich für „Kondensation“ zu entscheiden, und das Ergebnis war ein überraschend klar definierter Klang und ein Hörerlebnis, das Konzentration erforderte.
+10 Zoll ist nicht nur eine Frage der Größe. Es war auch eine andere Philosophie, die „Zeitdauer“ und „Klangdichte“ neu definierte. Die Beschränkung auf etwa 10 Minuten pro Seite zwang Künstler und Ingenieure, sich für „Kondensation“ zu entscheiden, und das Ergebnis war ein überraschend klar definierter Klang und ein Hörerlebnis, das Konzentration erforderte.
 
 „Gerade lange genug, um etwas zu trinken, wenn man mit dem Zuhören fertig ist.“
 Die Ästhetik von 10 Zoll liegt in diesem Zeitgefühl.
@@ -64,7 +64,7 @@ Labels wie Blue Note, Prestige und Clef beschränkten die Experimente der Künst
 
 Miles Davis [„Junger Mann mit Horn“](https://amzn.to/4qkdGGC) (1952), Thelonious Monk [„Thelonious Monk Trio“](https://amzn.to/4ol2uI1) (1954), Charlie Parker [„Now’s the Time“](https://amzn.to/4qkfrUe) (1953). Alle diese Werke waren wie „Kurzfilme“, bei denen die beste Komposition innerhalb der Beschränkungen von 10 Zoll angestrebt wurde.
 
-Vor dem Aufkommen der 12-Zoll-LP war das 10-Zoll-Format das Testfeld für das neue Konzept der „LP“. Zu einer Zeit, als das Format für Langwerke noch nicht festgelegt war, vermittelte das 10-Zoll-Format dem Künstler ein Gefühl von „Zusammenhalt“ und hinterließ gleichzeitig die Dichte eines „ausgeschnittenen Moments“.
+Vor der Einführung der 12-Zoll-LP war die 10-Zoll-Version das Testfeld für das neue Konzept der „LP“. Zu einer Zeit, als das Format für Langwerke noch nicht festgelegt war, vermittelte das 10-Zoll-Format dem Künstler ein Gefühl von „Zusammenhalt“ und hinterließ gleichzeitig die Dichte eines „ausgeschnittenen Moments“.
 
 Was nicht übersehen werden darf, ist die Entwicklung des Jackendesigns. Blue Note, das dem Erscheinen von Reid Miles vorausging, war für seine einfachen Kompositionen bekannt, die Typografie und Fotoränder nutzten, aber der Goldene Schnitt kam in der 10-Zoll-Ära am schönsten zum Ausdruck.
 

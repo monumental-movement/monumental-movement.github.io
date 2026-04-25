@@ -67,7 +67,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Britische Rave-Kultur und Clubbing
 
 **Meisterwerk**
-- Untergrundwiderstand – *X-101/X-102* (1991–)
+- Underground Resistance – *X-101/X-102* (1991–)
 - Aphex Twin – *Selected Ambient Works 85–92* (1992)
 - Basic Channel – *BCD* (1994)
 - Robert Hood – *Minimal Nation* (1994)
@@ -135,7 +135,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 **Soundtrends**
 - Kraftvolle Kicks und Riff-Wiederholungen
-- Harter Techno ~ Schranz-Comeback
+- Hard Techno ~ Schranz-Comeback
 - Rekontextualisierung von Trans-Motiven
 
 **Ausrüstung**
@@ -144,7 +144,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - ASM Hydrasynth
 - Polyend Tracker / Dirtywave M8
 - Akai MPC One/Live II
-- KI-Mastering, Stammtrennungstool
+- KI-Mastering, Stammtrennungswerkzeuge
 
 ---
 
@@ -169,7 +169,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 ### Zusammenfassung
 Der Kern von Techno ist „Wiederholung“ und „Sounddesign“.
-Rhythmen stammen direkt von x0x ab, Klangbilddesign von Samplern, Bearbeitungsästhetik aus der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
+Rhythmen, die direkt von x0x abstammen, Klangbilddesign von Samplern, Bearbeitungsästhetik der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
 
 
 ---

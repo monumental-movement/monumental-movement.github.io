@@ -44,7 +44,7 @@ color: #fff;
 # 1. Was ist Chillwave?
 ## 1-1. Geburt (um 2009)
 Chillwave wurde im Allgemeinen um das Jahr 2009 gegründet.
-Der Name wurde populär, als das Musikmedium „Hipster Runoff“ im selben Jahr das Wort „Chillwave“ verwendete und es als Witz im Internet verbreitete.
+Der Name wurde populär, als das Musikmedium „Hipster Runoff“ im selben Jahr das Wort „Chillwave“ verwendete, und es verbreitete sich als Witz im Internet.
 
 Die Eigenschaften sind wie folgt.
 
@@ -58,7 +58,7 @@ Repräsentative Künstler:
 
 - **Ausgewaschen** (Ernest Greene)
 - Ihre EP „Life of Leisure“ aus dem Jahr 2009 gilt als Meisterwerk des Genres.
-- **Neon Indian** (Alan Palomo)
+- **Neon-Indianer** (Alan Palomo)
 - „Psychic Chasms“ aus dem Jahr 2009 ist ein symbolträchtiges Werk der Szene.
 - **Toro y Moi** (Chaz Bear)
 - 2010 mit „Causes of This“ als bedeutender Chillwave-Act anerkannt.
@@ -69,7 +69,7 @@ Chillwave liegt irgendwo zwischen Indie-Rock und Electronica und fällt mit der 
 
 # 2. Was ist Synthwave?
 ## 2-1. Entstehung (Mitte der 2000er bis Anfang der 2010er Jahre)
-Die Ursprünge von Synthwave liegen früher als Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
+Die Ursprünge von Synthwave liegen früher als bei Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
 „A Real Hero“ von College & Electric Youth, das im frühen Film „Drive“ (2011) verwendet wurde, wurde zum Katalysator für seine Verbreitung im Mainstream.
 
 Merkmale:
@@ -78,7 +78,7 @@ Merkmale:
 - **Konzentriert sich auf analoge Synthesizer (Juno-106, DX7, Prophet usw.)**
 - **treibender 4/4-Beat (Synthwave)**
 - **Langsamer Ambient (Dreamwave/Retrowave)**
-- **Neon-, Gitter-, Pink- und Blau-80er-Visuals**
+- **Neon, Gitter, Pink x Blau 80er-Jahre-Visuals**
 
 Hauptkünstler:
 
@@ -148,7 +148,7 @@ Auch die Ausrüstung, die bei Chillwave und Synthwave zum Einsatz kommt, ist seh
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet-Reihe
--Korg Polysix
+- Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
 -Roland TR-707, TR-808

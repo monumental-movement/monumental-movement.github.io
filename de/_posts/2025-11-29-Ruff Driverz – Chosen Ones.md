@@ -10,13 +10,13 @@ permalink: /de/ruff-driverz-chosen-ones/
 tags:
 - Trance
 - 00s
-title: Ruff Driverz – Auserwählte
+title: Ruff Driverz – Chosen Ones
 ---
 
 
-Ruff Driverz ist ein britisches DJ-/Remix-/Produktionsduo bestehend aus Brad Carter und Chris Brown, das von 1998 bis 2019 aktiv war. Bekannt für Hits wie „Dreaming“ (1998) und „Waiting for the Sun“ (1999), traten sie auch unter den Namen 2000BC und Transit auf.
+Ruff Driverzは、1998年から2019年まで活動したBrad CarterとChris BrownによるUKのDJ/リミックス/プロダクションデュオ。「Dreaming 」(1998)や「Waiting for the Sun 」(1999)などのヒット曲で知られ、2000BC やTransit名義でも活動していた。
 
-„Chosen Ones“ ist ein Trance-Track, der im Jahr 2000 auf dem britischen Label Recognition veröffentlicht wurde.
+「Chosen Ones」は、2000年にUKのレーベルRecognitionからリリースされたTranceトラック。
 
 #### Trackliste
 ```md

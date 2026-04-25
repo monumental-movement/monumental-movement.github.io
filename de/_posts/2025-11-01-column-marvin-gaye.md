@@ -99,7 +99,7 @@ In dieser Zeit erlebte Gaye die Freude am Schaffen, aber auch das Scheitern der 
 
 ### „Here, My Dear“ (1976) – Etablierung als Beichtalbum
 1976 veröffentlichte er das Album Here, My Dear, das die Bedingungen seiner Scheidung von seiner Frau Anna Gordy widerspiegelte. Obwohl dies kein kommerzieller Erfolg war, wurde es als „Geständnisalbum“ positioniert, das später neu bewertet wurde.
-Nach der Veröffentlichung dieses Albums war Gaye körperlich und geistig erschöpft und erreichte einen Wendepunkt in seinem Leben.
+Nach der Veröffentlichung dieses Albums war Gaye sowohl körperlich als auch geistig erschöpft und erreichte einen Wendepunkt in seinem Leben.
 
 
 ---
@@ -143,7 +143,7 @@ Marvin Gaye war nicht nur ein Hitmacher, sondern auch jemand, der Künstlern den
 Darüber hinaus zeigte der Einsatz des Roland TR-808 bei „Midnight Love“ auch neue Möglichkeiten für die Fusion von elektronischem Equipment und Soulmusik auf.
 
 ### Persönliches seltsames Schicksal
-Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart ein menschliches Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
+Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart das menschliche Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
 Wenn man darüber hinaus aus der „Was wäre, wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? Sie zeugen von einem „seltsamen Leben“, in dem Zufall und Notwendigkeit ineinander greifen.
 
 ### Neubewertung und Erweiterung des Ausdrucks in der Neuzeit
@@ -181,7 +181,7 @@ Ich hoffe, dass dieses Manuskript eine Gelegenheit bietet, Marvin Gaye, seine Mu
 | Jahr | Veranstaltungen |
 |----|--------|
 | 2. April 1939 | Marvin Pentz Gay Jr. wird in Washington, D.C. geboren |
-| Um 1955-56 | Trat der US-Luftwaffe bei und wurde nach kurzer Zeit entlassen. |
+| Um 1955-56 | Trat der US Air Force bei und wurde nach kurzer Zeit entlassen. |
 | 1961 | Debüt als Solosänger. |
 | 1964 | Hit „How Sweet It Is (To Be Loved by You)“ veröffentlicht. |
 | 1968 | „I Heard It Through the Grapevine“ wird Motowns größter Hit. |

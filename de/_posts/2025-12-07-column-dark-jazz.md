@@ -22,7 +22,7 @@ title: '[Kolumne] Dark Jazz / Noir Jazz ─ Die Klänge einer Stadt, angezogen v
 Text: mmr｜Thema: Über die Geschichte des Dark Jazz rund um Bohren & der Club of Gore
 
 Dark Jazz/Noir Jazz ist ein Subgenre, das in der Geschichte des Jazz eine besonders einzigartige Entwicklung durchgemacht hat.
-Es ist keine verrauchte Late-Night-Bar oder eine regennasse Gasse in der Stadt; Vielmehr ist es Musik, die den „Schatten“ der Stadt zeichnet und den Hörer in eine einsame Geschichte führt.
+Es ist keine verrauchte Nachtbar oder eine regennasse Gasse in der Stadt; Vielmehr ist es Musik, die den „Schatten“ der Stadt zeichnet und den Hörer in eine einsame Geschichte führt.
 
 Dieser Artikel organisiert den Fluss des Dark Jazz von den späten 1990er Jahren bis heute, basierend auf Daten von tatsächlichen Künstlern und Werken rund um **Bohren & der Club of Gore**, und befasst sich umfassend mit seiner musikalischen Struktur und Kompatibilität mit Filmen/Bildern.
 
@@ -62,10 +62,10 @@ Durch die Kombination dieser Eigenschaften entstand ein einzigartiges Klangbild,
 ## 2. Bedeutende Künstler und ihre Rollen
 ### ● Bohren & der Club of Gore (1992–)
 Gegründet in Nordrhein-Westfalen, Deutschland.
-Obwohl es mehrere Mitgliederwechsel gab, sind die folgenden Punkte konsistent geblieben.
+Obwohl es mehrere Mitgliederwechsel gab, sind die folgenden Punkte gleich geblieben.
 
 - Ursprünglich von einer Slow-Doom-/Hardcore-Band
-- In den 1990er Jahren wandte er sich dem Ansatz zu, „Jazz in einem extrem langsamen Tempo zu spielen“.
+- In den 1990er Jahren wandte er sich dem Ansatz zu, „Jazz in extrem langsamem Tempo zu spielen“
 - Tim Bruns (Schlagzeug), Mickey Kohlmeyer (Klavier/Orgel), Robin Schuller (Bass), Christoph Kloser (Saxophon/Klavier) und andere spielen Schlüsselrollen.
 
 Musikalisch ist die größte Besonderheit, dass es das Tempo des Doom Metal, die Instrumentierung des Jazz und die Räumlichkeit der Filmmusik vereint.
@@ -152,7 +152,7 @@ Das Klangbild des Dark Jazz lässt viel „Leerraum“, sodass die Videoseite fr
 Diese Szenen und dunkler Jazz passen sehr gut zusammen.
 
 ### ● Grund 3: Struktur der Filmmusik
-Die Lieder von Bohren & der Club of Gore legen den Schwerpunkt eher auf eine „beständige Atmosphäre“ als auf klare Melodien, wodurch sie sich natürlich in filmische Kontexte einfügen.
+Die Lieder von Bohren & der Club of Gore legen den Schwerpunkt eher auf eine „anhaltende Atmosphäre“ als auf klare Melodien, wodurch sie sich natürlich in filmische Kontexte einfügen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1vxl0Yd7TOY?si=_cIKvS-nnEUq7wOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -218,7 +218,7 @@ flowchart TD
 
 ## 8. Aktueller Stand des Dark Jazz
 Durch lange Mixe auf YouTube und „Night View + Dark Jazz“-Videos von Zuschauern,
-Seit den 2020er Jahren kommt es zu einer Aufarbeitung bei jungen Hörern.
+Seit den 2020er Jahren kommt es vor allem bei jungen Hörern zu einer Neubewertung der Musik.
 
 - „Leise Musik“ erfreut sich neben dem Trend des Lo-Fi-Hip Hop zunehmender Beliebtheit
 - Wird als Hintergrundmusik für Videoproduktionen, VJ und unabhängige Filme verwendet
@@ -231,7 +231,7 @@ Als „Musik, die Atmosphäre schafft“ wird sie immer weiter ausgebaut.
 
 ## 9. Wohin entwickelt sich der Dark Jazz?
 Mit der Verbreitung von KI-generierten Videos, VJ-Software und Indie-Spielen
-Wir befinden uns jetzt in einer Zeit, in der Bild und Ton in einem Atemzug genannt werden.
+Wir sind in eine Ära eingetreten, in der Bild und Ton in einem Atemzug gesprochen werden.
 
 Aufgrund der Natur des Dark Jazz, der „langsam ist und viele Leerstellen aufweist“
 Man geht davon aus, dass es durch die Vermischung mit Bildern weiterhin einen neuen Wert erhält.
@@ -243,7 +243,7 @@ Es besteht immer noch eine hohe Wahrscheinlichkeit, dass es sich im 21. Jahrhund
 ---
 
 # Am Ende
-Dark Jazz ist nicht die Hintergrundmusik einer Bar oder die Soundeffekte einer Nachtstadt;
+Dark Jazz ist nicht die Hintergrundmusik einer Bar oder die Soundeffekte einer Nachtstadt.
 **Dies ist eine moderne Kunst, die die Einsamkeit und Schatten von Städten nur mit Ton darstellt. **
 
 Jeder Künstler, vor allem Bohren & der Club of Gore, hat unterschiedliche Arten der Schattenzeichnung gezeichnet.

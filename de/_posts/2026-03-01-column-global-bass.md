@@ -12,7 +12,7 @@ tags:
 - Culture
 - Electronic
 title: '[Kolumne] Rise of Global Bass: Eine Karte moderner Musik, die Rhythmen aus
-  der ganzen Welt vereint'
+  aller Welt vereint'
 ---
 
 
@@ -64,9 +64,9 @@ Seit den 2000er Jahren hat der Ausbau der DJ-Kultur und der digitalen Vertriebsi
 
 In den 1990er Jahren entstand in Großbritannien eine Basskultur, die Jungle, UK Garage, Grime und Dubstep umfasste. Die Betonung von Tiefbass und Subbass hatte direkten Einfluss auf das spätere Sounddesign von Global Bass.
 
-Etwa zur gleichen Zeit entwickelte sich in den Favelas von Rio de Janeiro, Brasilien, der Baile Funki. Es handelte sich um eine einzigartige Clubkultur mit portugiesischem Rap und lokaler Beat-Sensibilität, mit Anspielungen auf Miami-Bass und Hip-Hop.
+Etwa zur gleichen Zeit entwickelte sich Baile Funki in den Favelas von Rio de Janeiro, Brasilien. Es handelte sich um eine einzigartige Clubkultur mit portugiesischem Rap und lokaler Beat-Sensibilität, mit Anspielungen auf Miami-Bass und Hip-Hop.
 
-Mitte der 2000er Jahre führte der amerikanische Produzent Diplo brasilianische Musik ein und beschleunigte damit die Verbindung zum internationalen Clubmarkt. Seine Aktivitäten sind insofern wichtig, als sie lokale Musik als „Clubmusik“ und nicht als „Weltmusik“ darstellten.
+Mitte der 2000er Jahre führte der amerikanische Produzent Diplo brasilianische Musik ein und beschleunigte damit die Verbindungen zum internationalen Clubmarkt. Seine Aktivitäten sind insofern wichtig, als sie lokale Musik als „Clubmusik“ und nicht als „Weltmusik“ neu darstellten.
 
 Im Jahr 2007 wurde M.I.A. veröffentlichte das Album „Kala“. Es vereinte Elemente aus Südasien, Afrika und der Karibik mit elektronischen Beats und war ein kritischer und kommerzieller Erfolg. Diese Arbeit zeigte, dass multikulturelle Klänge vom Popmarkt akzeptiert werden konnten.
 
@@ -112,13 +112,13 @@ Verbindung von Dancehall und EDM.
 
 Dies sind typische Beispiele für die Umsetzung regionaler Rhythmen in Vereinsstrukturen.
 
-> Wenn Sie jeden Song einzeln untersuchen, können Sie Innovationen in der Rhythmusstruktur erkennen.
+> Bei der Betrachtung jedes Liedes sind Neuerungen in der rhythmischen Struktur erkennbar.
 
 ---
 
 ### Kulturelle Auswirkungen
 
-Global Bass hat die kulturelle Hybridität beschleunigt. Gleichzeitig entstand eine Diskussion über kulturelle Aneignung.
+Gleichzeitig entstand eine Diskussion über kulturelle Aneignung.
 Doch in Wirklichkeit ist es auch Musik, die das tägliche Miteinander einer multikulturellen Stadt widerspiegelt.
 
 Die Ausweitung der Festivalwirtschaft hat die Möglichkeiten für regionale Künstler erhöht, international aufzutreten.

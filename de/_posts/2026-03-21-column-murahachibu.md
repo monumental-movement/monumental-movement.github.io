@@ -53,9 +53,9 @@ color: #fff;
 
 ### Das Ende des hohen Wirtschaftswachstums und der Wandel der Gesellschaft
 
-In den 1970er Jahren näherte sich Japan dem Ende seiner seit dem Krieg andauernden Phase schnellen Wirtschaftswachstums. Die Städte entwickelten sich rasant, der Lebensstandard verbesserte sich und viele Menschen verspürten allmählich Wohlstand. Andererseits kommt es jedoch zu einer zunehmenden Homogenisierung der Gesellschaft und der zunehmenden Unterdrückung individueller Werte und Freiheiten.
+In den 1970er Jahren näherte sich Japan dem Ende seiner seit dem Krieg andauernden Phase schnellen Wirtschaftswachstums. Die Städte entwickelten sich rasant, der Lebensstandard verbesserte sich und viele Menschen verspürten allmählich ein Gefühl des „Wohlstands“. Andererseits kommt es jedoch zu einer zunehmenden Homogenisierung der Gesellschaft und einer zunehmenden Unterdrückung individueller Werte und Freiheiten.
 
-Die Studentenbewegung, die Ende der 1960er Jahre ihren Höhepunkt erreichte, ließ in den 1970er Jahren rasch nach. Der politische Enthusiasmus, der aufgrund von Sicherheitsproblemen und Universitätsstreitigkeiten vorübergehend gestiegen war, geriet aufgrund von Rückschlägen ins Stocken, sodass viele junge Menschen nirgendwo hingehen konnten.
+Die Studentenbewegung, die Ende der 1960er Jahre ihren Höhepunkt erreichte, ließ in den 1970er Jahren rasch nach. Der politische Enthusiasmus, der aufgrund von Sicherheitsproblemen und Universitätsstreitigkeiten vorübergehend gestiegen war, geriet aufgrund von Rückschlägen ins Stocken, so dass viele junge Menschen nirgendwo hingehen konnten.
 
 Darüber hinaus war die Osaka Expo 1970 ein symbolisches Ereignis, das Japan als Wirtschaftsmacht in der internationalen Gemeinschaft etablierte, signalisierte aber auch den Beginn einer Ära, in der unter der Führung des Staates über „Zukunft“ und „Fortschritt“ gesprochen wurde.
 
@@ -69,7 +69,7 @@ In einer solchen Gesellschaft gehen junge Menschen, die sich nicht zugehörig f�
 
 ### Live House und Improvisation
 
-In den frühen 1970er Jahren war die Musikszene Japans noch nicht entwickelt und die Live-House-Kultur steckte noch in den Kinderschuhen. Statt Großkonzerten standen Aufführungen in kleinen Räumen im Vordergrund, und das Erlebnis dort bestimmte das Wesen der Musik.
+In den frühen 1970er Jahren war die Musikszene Japans noch nicht entwickelt und die Live-House-Kultur steckte noch in den Kinderschuhen. Anstelle von Großkonzerten standen Aufführungen in kleinen Räumen im Vordergrund, und das Erlebnis dort bestimmte das Wesen der Musik.
 
 Murakami hatte an solchen Orten eine überwältigende Präsenz. Ihre Auftritte lehnten vorgegebene Harmonien ab und entwickelten sich jedes Mal anders. Sogar die Störung der Struktur eines Liedes wurde als Teil des Ausdrucks akzeptiert.
 
@@ -89,7 +89,7 @@ Chabos Inszenierung hinterließ beim Publikum einen starken Eindruck. Anstatt di
 
 Auch der Auftritt der Band insgesamt war äußerst instabil, was ein einzigartiges Spannungsgefühl erzeugte. Temposchwankungen, Tonhöheninstabilität, plötzliche Stopps – all das war Teil der Live-Show.
 
-Obwohl diese Art des Ausdrucks in der damaligen Mainstream-Musik als unausgereift galt, hatte sie doch auch einen starken Realitätssinn. Es war keine vollständige Musik, sondern ein Klang, der nur „in diesem Moment“ existierte.
+Obwohl diese Art des Ausdrucks in der damaligen Mainstream-Musik als unreif galt, hatte sie auch einen starken Realitätssinn. Es war keine vollständige Musik, sondern ein Klang, der nur „in diesem Moment“ existierte.
 
 > Der geächtete Live-Auftritt war eine Erfahrung, die die Grenze zwischen Musik und Realität verwischte.
 
@@ -99,7 +99,7 @@ Obwohl diese Art des Ausdrucks in der damaligen Mainstream-Musik als unausgereif
 
 ### Unsichtbare Existenz
 
-Ausgrenzung kam in Massenmedien wie Fernsehen oder Radio selten vor. Dies lag nicht einfach an fehlenden Möglichkeiten, sondern vielmehr daran, dass ihre Äußerungen nicht in den medialen Rahmen passten.
+In Massenmedien wie Fernsehen oder Radio kam Ausgrenzung selten vor. Dies lag nicht einfach an fehlenden Möglichkeiten, sondern vielmehr daran, dass ihre Äußerungen nicht in den medialen Rahmen passten.
 
 Die Musikindustrie bestand damals hauptsächlich aus Volks- und Popliedern, wobei der Schwerpunkt auf der Qualität und Freundlichkeit der Botschaft lag. Die Musik der Ächtung passte in keine dieser Kategorien.
 

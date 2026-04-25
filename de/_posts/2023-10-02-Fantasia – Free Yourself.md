@@ -9,11 +9,11 @@ permalink: /de/fantasia-free-yourself/
 tags:
 - House
 - Deep House
-title: Fantasie – Befreie dich
+title: Fantasia – Free Yourself
 ---
 
 
-House REMIX von Fantasia – Free Yourself von Charles Spencer & David Harness.
+Charles Spencer＆David HarnessによるFantasia – Free YourselfのハウスREMIX。
 
 #### Trackliste
 ```md

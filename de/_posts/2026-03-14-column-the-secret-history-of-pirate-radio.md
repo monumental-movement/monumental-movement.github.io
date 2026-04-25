@@ -250,7 +250,7 @@ C --> D
 
 Die Regierung geht seit Jahren hart gegen Piratenradios vor.
 
-Beschlagnahmung von Sendern, Geldstrafen und Störung des Rundfunks.
+Beschlagnahmung von Sendern, Geldstrafen und Beeinträchtigung des Rundfunks.
 
 Es konnte jedoch nicht vollständig gelöscht werden.
 

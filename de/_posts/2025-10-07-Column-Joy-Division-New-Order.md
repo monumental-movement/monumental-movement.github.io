@@ -42,7 +42,7 @@ color: #fff;
 ### Kapitel 1: Schatten von Manchester
 
 **„Post-Punk-Embryonenbewegung“**
-Ende der 1970er Jahre befand sich Großbritannien mitten in einer wirtschaftlichen Rezession und einem industriellen Niedergang, und in städtischen Gebieten entwickelte sich die Jugendkultur eigenständig. Manchester war keine Ausnahme, und unter dem Rauch der Fabrik und dem grauen Himmel existierte Musik als Medium, um Verzweiflung und Hoffnung zugleich auszudrücken.
+Ende der 1970er Jahre befand sich Großbritannien mitten in einer wirtschaftlichen Rezession und einem industriellen Niedergang, und die Jugendkultur entwickelte sich in städtischen Gebieten eigenständig. Manchester war keine Ausnahme, und unter dem Rauch der Fabrik und dem grauen Himmel existierte Musik als Medium, um Verzweiflung und Hoffnung zugleich auszudrücken.
 
 **"Anbruch der Bandgründung"**
 1976 trafen sich Bernard Sumner, Peter Hook und Stephen Morris und gründeten Joy Division. Die frühen Mitglieder verbanden sich durch die Schule und die lokale Punkszene und spielten zunächst Coversongs, entwickelten sich aber schließlich zu eigenen Songs, die ihr Gefühl der Isolation und der Düsterkeit der Stadt widerspiegelten.
@@ -57,13 +57,13 @@ Kraftrock von Kraftwerk und Neu!, die kalten, harten Klänge von Velvet Undergro
 ### Kapitel 2: Despair of Sound – The World of Joy Division
 
 **"Interner Sound"**
-Die Texte von Ian Curtis schildern Selbstentfremdung, soziale Ängste und innere Dunkelheit. Lieder wie „Transmission“ und „She's Lost Control“ sind Meisterwerke, die die Einsamkeit des Einzelnen mit der anorganischen Natur der Stadt überlagern.
+Die Texte von Ian Curtis schildern Selbstentfremdung, soziale Ängste und innere Dunkelheit. Lieder wie „Transmission“ und „She’s Lost Control“ sind Meisterwerke, die die Einsamkeit des Einzelnen mit der anorganischen Natur der Stadt überlagern.
 
 **„Produktionsinnovation“**
 Produzent Martin Hannett nutzte Aufnahmetechniken, um einen räumlichen Klang zu erzielen, der sich von traditioneller Rockmusik unterschied. Der Hall am Schlagzeug und die dreidimensionale Platzierung des Basses waren wichtige Elemente, die die Kälte und Spannung des Sounds von Joy Division erzeugten.
 
 **„Die Magie der Live-Performance“**
-Die frühen Live-Shows von Joy Division mit ihrer gedämpften Beleuchtung und den einzigartigen Tanzbewegungen von Curtis überwältigten das Publikum. Der Bühnenauftritt, der bei einem begrenzten Publikum legendär wurde, hatte großen Einfluss auf die spätere New-Wave-/Post-Punk-Generation.
+Die frühen Live-Shows von Joy Division überwältigten das Publikum mit ihrer gedämpften Beleuchtung und den einzigartigen Tanzbewegungen von Curtis. Der Bühnenauftritt, der bei einem begrenzten Publikum legendär wurde, hatte großen Einfluss auf die spätere New-Wave-/Post-Punk-Generation.
 
 Amazonで購入 → [Unknown Pleasures](https://amzn.to/4h2l8BW)
 
@@ -150,7 +150,7 @@ Amazonで購入 → [Still](https://amzn.to/4mXpD1Z)
 Die BBC-Sessions und Demoaufnahmen umfassen viele berühmte Songs, die später nicht in Alben aufgenommen wurden. Die Ausgrabungen durch Fans gehen auch jetzt noch weiter.
 
 **„Live-Improvisation und Unfälle“**
-Auch Geräteprobleme und improvisierte Arrangements bei Live-Auftritten verstärken die Ausdruckskraft der Band. Ihr legendärer Live-Auftritt sorgte bei den Fans für Gesprächsstoff.
+Auch Geräteprobleme und improvisierte Arrangements bei Live-Auftritten stärken die Ausdruckskraft der Band. Ihr legendärer Live-Auftritt sorgte bei den Fans für Gesprächsstoff.
 
 **„Änderungen in der Ausstattung und Aufnahmetechnik“**
 Von Martin Hannetts Produktionstechniken bis zur Einführung von Synthesizern und Drum Machines war die Wahl der Ausrüstung eng mit Veränderungen in der Musikalität verbunden.
@@ -177,7 +177,7 @@ All diese Dinge bildeten zusammen einen Kulturraum namens Manchester Sound.
 
 Der Sound von Joy Division ist ein Spiegel, der in die Nacht blickt,
 Die Klänge von New Order waren ein Leuchtfeuer, um durch die Nacht zu tanzen.
-Ihr Werdegang wird als „ein Hoffnungsschimmer, den nur diejenigen spielen können, die die Tragödie überwunden haben“ beschrieben.
+Ihr Weg wird als „ein Hoffnungsschimmer beschrieben, den nur diejenigen spielen können, die die Tragödie überwunden haben“.
 Es hallt immer noch in unzähligen Künstler- und Clubetagen wider.
 
 Inmitten der Spotify-Playlist und dem rotierenden Sound analoger Discs,

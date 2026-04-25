@@ -13,7 +13,7 @@ title: '[Kolumne] Definition von Punk und Hardcore: der Wendepunkt von Wut und A
 ---
 
 
-## Definition von Punk und Hardcore ─ Der Schnittpunkt von Wut und Ausdruck
+## Definition von Punk und Hardcore: der Schnittpunkt von Wut und Ausdruck
 
 Text: mmr｜Thema: Punk/Hardcore
 
@@ -76,7 +76,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 
 ▍Kultureller Hintergrund
 
-– In den frühen 1980er Jahren in den USA entwickelt, insbesondere in Kalifornien und Washington D.C.
+– In den frühen 1980er Jahren in den Vereinigten Staaten entwickelt, insbesondere in Kalifornien und Washington D.C.
 
 – Symbol für Polizeirepression, Wut auf die konservative Gesellschaft und gewalttätige Live-Kultur.
 
@@ -131,7 +131,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 </table>
 </div>
 
-Die beiden stehen jedoch nicht in einer widersprüchlichen Beziehung. Man kann sagen, dass Hardcore eine weiterentwickelte oder verzweigte Form des Punk ist, oder vielmehr kann man es so interpretieren, dass Hardcore radikaler wird, weil man versucht, die fundamentalistischen Aspekte des Punks beizubehalten.
+Die beiden stehen jedoch nicht in einer widersprüchlichen Beziehung. Man kann sagen, dass Hardcore eine weiterentwickelte oder verzweigte Form von Punk ist, oder vielmehr kann man es so interpretieren, dass Hardcore radikaler wird, weil man versucht, die fundamentalistischen Aspekte des Punks beizubehalten.
 
 
 <hr>
@@ -142,7 +142,7 @@ Seit dem 21. Jahrhundert wurden Punk und Hardcore in verschiedenen Formen übern
 
 Es hat sich in verschiedene Subgenres wie Post-Hardcore, Emo, Crustcore und Melodic Hardcore verzweigt.
 
-In Japan hat Hardcore-Punk (GAUZE, Lip Cream, G.I.S.M. usw.) eine einzigartige Kultur geschaffen.
+Hardcore-Punk (GAUZE, Lip Cream, G.I.S.M. usw.) hat auch in Japan eine eigene Kultur aufgebaut.
 
 Mittlerweile gibt es eine Neubewertung der Generation-Z- und DIY-Festivals und sie behalten weiterhin ihre Stärke als Subkultur.
 

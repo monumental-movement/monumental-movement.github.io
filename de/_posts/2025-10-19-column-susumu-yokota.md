@@ -53,14 +53,14 @@ Bemerkenswert ist, dass er seine Werke unter mehreren Namen veröffentlichte. Un
 
 ---
 
-## Kapitel 3: Album-Dekonstruktion – Die Tiefen eines großartigen Albums
+## Kapitel 3: Albumdekonstruktion – Die Tiefen eines großartigen Albums
 
 ### „Sakura“ (1999)
 Susumu Yokotas Meisterwerk und ein monumentales Werk in der Geschichte der Ambient-Musik.
 Die leise Melodie und die Umgebungsgeräusche sind überlagert und führen das Bewusstsein des Zuhörers sanft nach innen. Es hat eine Vergänglichkeit, die den Moment fallender Kirschblüten im Klang einfängt, und es ist eine Verschmelzung japanischer Lyrik und universeller Schönheit.
 
 Das Album hat eine hervorragende Struktur und das ganze Album fließt wie ein einziger „Atemzug“. Es beginnt leise, erzeugt einen schwachen Rhythmus und verschwindet dann. Es ist wie der Kreislauf des Lebens und der Jahreszeiten.
-Der Grund, warum „Sakura“ weiterhin von Ambient-Musikfans auf der ganzen Welt geliebt wird, liegt wahrscheinlich darin, dass es dieses „Zeitgefühl“ durch den Klang perfekt abbildet.
+Der Grund, warum „Sakura“ weiterhin bei Ambient-Musikfans auf der ganzen Welt so beliebt ist, liegt wahrscheinlich darin, dass es dieses „Zeitgefühl“ durch den Klang perfekt abbildet.
 
 ### „Symbol“ (2001)
 Erstellen Sie Ihr eigenes Klangbild und nutzen Sie dabei das Sampling klassischer Musik voll aus.
@@ -85,7 +85,7 @@ Die Songs konzentrieren sich auf Drohnen, Umgebungsgeräusche und harmonische St
 Für Yokota könnte man sagen, dass dieser Name ein „Kanal ist, der das Unbewusste und das Universum verbindet“.
 Wenn die Musik unter dem Namen Susumu Yokota „irdische Poesie“ ist, ist Anima Mundi „himmlisches Gebet“.
 
-Das 12-Zoll-Lied „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen verbindet. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
+Das 12-Zoll-Lied „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen kombiniert. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
 
 #### Trackliste
 ```md
@@ -118,7 +118,7 @@ Im Ausland wurde er als „Japans Brian Eno“ beschrieben, aber Yokotas Musik w
 ## Kapitel 6: Leben und Körperlichkeit
 
 Yokotas Live-Auftritt war nicht nur eine Nachstellung, sondern ein Versuch, „den Raum selbst auszuspielen“.
-Er verzichtete so weit wie möglich auf Beleuchtung und Bilder und verwandelte den Raum mit der „Luftdichte“, die der Klang hat.
+Er verzichtete so weit wie möglich auf Beleuchtung und Bilder und verwandelte den Raum mit der „Luftdichte“, die der Klang besitzt.
 Das Publikum wird von Klangpartikeln umhüllt und verliert sein Zeitgefühl. Es war eine Erfahrung, bei der es sich anfühlte, als würde jeder Mensch mit dem Klang verschmelzen.
 
 Seine Haltung war ein seltenes Beispiel für die Kombination der tänzerischen Körperlichkeit von Techno mit der meditativen Natur von Ambient.
@@ -147,7 +147,7 @@ Darüber hinaus wurde Yokotas Geist sicherlich von zeitgenössischen Ambient-Kü
 
 ---
 
-## Diskographie (Hauptwerke)
+## ディスコグラフィー（主要作品）
 
 | Jahr | Titel | Name | Erklärung | Link |
 |----|------------|---------|------|---------------|

@@ -9,12 +9,12 @@ permalink: /de/frankie-knuckles-featuring-adeva-whadda-u-want-from-me/
 tags:
 - House
 - Garage
-title: Frankie Knuckles featuring Adeva –Whadda U Want (From Me)
+title: Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)
 ---
 
 
-„Frankie Knuckles featuring Adeva – Whatda U Want (From Me)“
-Diese EP enthält auch Remixe berühmter Frankie Knuckles-Titel aus dem Jahr 1995.
+「Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)」は、
+1995年にリリースされたフランキー・ナックルズの有名なトラックのリミックスも収録したEPです。
 
 #### Trackliste
 ```md

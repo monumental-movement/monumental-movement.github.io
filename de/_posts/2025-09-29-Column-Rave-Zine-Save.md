@@ -46,7 +46,7 @@ Sie werden oft nicht erfasst. Es wird weder in den Medien berichtet noch in der 
 
 Derzeit erregt jedoch ein DIY-Medium namens „Zine“ Aufmerksamkeit, das die Fragmente aufgreift und die Geschichte neu erzählt.
 
-Ein Zine ist keine Zeitschrift, kein Tagebuch oder Bericht. Es ist jedoch näher an den „Stimmen der beteiligten Personen“ als alle anderen. In der Rave-Kultur, die sich von Natur aus der Aufzeichnung widersetzt, haben Zines das Potenzial, als „Erinnerungshilfen“ zu dienen.
+Ein Zine ist keine Zeitschrift, kein Tagebuch oder Bericht. Es ist jedoch näher an den „Stimmen der beteiligten Personen“ als alle anderen. In der Rave-Kultur, die sich von Natur aus der Aufnahme widersetzt, haben Zines das Potenzial, als „Erinnerungshilfen“ zu dienen.
 
 ---
 
@@ -56,7 +56,7 @@ Rave ist eine Musikkultur, die die Erfahrung des Hier und Jetzt betont und aufgr
 
 | Gründe, warum die Aufzeichnung schwierig ist | Inhalt |
 |--------------------|-------------------------------------------------|
-| Auf Underground-Raves in den 1990er-Jahren herrschten besonders starke Tabus in Bezug auf Fotografie und Aufnahme, und die Mitnahme von Ausrüstung war oft verboten |
+| Auf Underground-Raves in den 1990er-Jahren herrschten Tabus in Bezug auf Fotografieren und Aufnehmen, und das Mitbringen von Ausrüstung war oft verboten |
 | Illegalität/Anonymität | Es werden keine Aufzeichnungen geführt, um einer Entdeckung durch die Polizei oder die Regierung zu entgehen |
 | Vorübergehend | Ereignisse auf dem Boden verschwinden für einen Moment |
 
@@ -112,13 +112,13 @@ flowchart TD
 
 ---
 
-### Warum sollte man im digitalen Zeitalter alles auf Papier behalten?
+### Warum sollte man im digitalen Zeitalter die Dinge auf Papier behalten?
 
 | Funktionen | Digital | Papier (Zine) |
 | --------- | --------------------------------- | ---------------------------------------- |
 | Kann verschwinden | Kann aufgrund eines defekten Links oder einer Löschung verschwinden | Bleibt semipermanent in Ihrem Besitz |
 | Kopieren | Unbegrenztes Kopieren möglich | Begrenzte physische Kopie = Präsenz als „Beweis“ |
-| Teilen | Sofort mit einem Klick teilen | Persönliche Zustellung/Versand = physisches Ritual |
+| Teilen | Sofort mit einem Klick teilen | Persönliche Zustellung/Versand = körperliches Ritual erforderlich |
 | Einfach Nachrichten zu senden | Jeder kann problemlos Nachrichten senden | Anstrengungen = Konzentration der Gedanken des Schöpfers |
 
 

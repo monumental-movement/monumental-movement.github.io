@@ -134,10 +134,10 @@ Sie behandelt Schlaginstrumente nicht als Symbole der „Zeit“, sondern als �
 
 # **2-3. Takashi Kokubo – Entdecker von Komfort und Wohnakustik**
 
-Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunk-Audio seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
+Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunkaudio seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
 
 ## ● Repräsentative Werke
-- **《Ion-Serie》 (1980er-Jahre)**
+- **《Ion-Serie》(1980er-Jahre)**
 Eine als CD produzierte Umweltmusikserie mit Luftreinigern.
 - **《A Dream Sails Out To Sea》 (1987)**
 Nach einem erneuten Auftreten wurde der Patient im Ausland erneut untersucht.
@@ -170,7 +170,7 @@ Ein elektronisches und zugleich idyllisches Meisterwerk.
 ## ● 3-1. Synthesizer-Kultur
 In den 1980er Jahren dominierten japanische Hersteller elektronischer Musikinstrumente den Weltmarkt und hatten großen Einfluss auf die Ambient-Musik.
 
-Geräte, die häufig genutzt wurden (innerhalb des nachweisbaren Bereichs)
+Geräte, die häufig verwendet wurden (innerhalb des nachweisbaren Bereichs)
 - Yamaha DX7
 - Roland Juno-Serie
 - Roland RE-201 (Bandecho)
@@ -198,7 +198,7 @@ Umweltmusik ging in diesem Zusammenhang über die bloße Hintergrundmusik hinaus
 
 ## ● 4-2. Verbindung mit „Komfortfunktionen“ von Haushaltsgeräten
 
-Ein Symbol dafür ist die Musik von Takashi Kokubo, die Luftreinigern beiliegt.
+Die Musik von Takashi Kokubo, die Luftreinigern beiliegt, ist ein Symbol dafür.
 Haushaltsgeräte x Umweltakustik
 Er begründete eine einzigartige japanische Idee.
 
@@ -283,7 +283,7 @@ Die Welt hat das neu bewertet
 **Nicht nur die Schönheit der Musik selbst, sondern auch die darin enthaltene einzigartige japanische Philosophie**
 Es ist.
 
-Ambient-Musik hat auf der ganzen Welt immer wieder neue Bedeutungen, und die Werke aus den 1980er Jahren, aus denen sie hervorgegangen ist, werden wahrscheinlich ein wichtiges Fundament der Musikgeschichte bleiben.
+Ambient-Musik erhält auf der ganzen Welt immer wieder neue Bedeutungen, und die Werke aus den 1980er-Jahren, aus denen sie hervorgegangen ist, dürften weiterhin ein wichtiges Fundament der Musikgeschichte bleiben.
 
 ---
 

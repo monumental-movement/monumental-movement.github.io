@@ -10,21 +10,21 @@ tags:
 - House
 - Breaks
 - Electro
-title: Noisia – Gelber Ziegelstein Raar
+title: Noisia – Yellow Brick Raar
 ---
 
 
-Noisia ist ein niederländisches Drum-and-Bass-Trio, das sich 2022 auflöste. Er produziert eine breite Palette an Musik, darunter Drum'n'Bass, House, Breaks und elektronische Sounds, und 2014 arbeitete er auch am Remix von LOST CHILD, der in Momoiro Clover Zs „Furious Space Symphony – 7th Movement ‚Infinite Love‘ (Emperor Style)“ enthalten war.
+Noisia（ノイジア）は、2022年に解散したオランダのドラムンベーストリオ。ドラムンベース、ハウス、ブレイク、エレクトロニックサウンドなど幅広い音楽を制作しており、2014年にはももいろクローバーZの『猛烈宇宙交響曲・第七楽章「無限の愛」（Emperor Style）』に収録されているLOST CHILDのremixも手がけた。
 
-„Yellow Brick / Raar“ ist ein Breakout-House-Track, der 2007 von Noisias eigenem Label Division Recordings veröffentlicht wurde.
+「Yellow Brick / Raar」は、Noisia自身が運営するレーベルDivision Recordingsより2007年にリリースされたブレイク・ハウストラック。
 
-„Yellow Brick“ ist ein süchtig machender, erhebender Track mit einer bekannten lauten Basslinie und einem sehr beruhigenden und einfachen Beat.
+「Yellow Brick」は中毒性のある最高に盛り上がるトラックで、おなじみの脳みそを揺さぶるようなノイジアのベースラインと、とても心地よくシンプルなビートが特徴です。
 
-„Raar“ hingegen ist ein Track, der die Tanzfläche absolut zerstören wird.
+一方の「Raar」は、ダンスフロアを完全に破壊するようなトラックです。
 
-Wo „Yellow Brick“ mit einem einfachen Beat und Tempo gedämpft war, fühlt es sich bei „Raar“ so an, als würde man mit einem finsteren Bass und einem verrückten Beat, der absichtlich falsch wirkt, in den Kopf getroffen.
+「Yellow Brick」がシンプルなビートとテンポで抑えめだったのに対し、「Raar」は邪悪なベースと、意図的にずれているように感じる狂ったビートで頭を殴られるような感覚になります。
 
-Dies ist ein Muss für alle Noise-Fans, auch wenn Sie keine House-Musik mögen.
+たとえハウスミュージックが好きでなくても、全てのノイジアファン必聴のレコードです。
 
 #### Trackliste
 ```md

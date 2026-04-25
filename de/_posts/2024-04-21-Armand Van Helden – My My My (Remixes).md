@@ -20,7 +20,7 @@ Der erste Titel auf Seite A ist ein Remix von We Deliver, bestehend aus den brit
 
 Der zweite Titel auf Seite A ist ein Remix des britischen Elektronikmusikers und Produzenten Thomas Gandey, auch bekannt als Cagedbaby.
 
-Die B-Seite ist ein Remix von Deekline & Wizard, einer Zusammenarbeit zwischen dem britischen Electro-Break-DJ und Produzenten DJ Dee Kline (Nicholas Annand) und Wizard (Greg Fleming).
+Die B-Seite ist ein Remix von Deekline & Wizard, einer Zusammenarbeit zwischen dem britischen Elektro-Break-DJ und Produzenten DJ Dee Kline (Nicholas Annand) und Wizard (Greg Fleming).
 
 #### Trackliste
 ```md

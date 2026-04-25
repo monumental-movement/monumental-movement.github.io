@@ -21,7 +21,7 @@ title: '[Kolumne] Black Midi – Der Einfluss des experimentellen Rocks aus Lond
 
 Text: mmr｜Thema: Von ihrer Gründung bis zu ihren Hauptwerken, ihrer Bewertung im In- und Ausland und ihrem Einfluss auf nachfolgende Bands und Kultur.
 
-Black Midi ist eine junge Rock-/Experimentalmusikband, die 2017 in London gegründet wurde. Nur wenige Jahre nach ihrem Debüt schockierten sie die Welt des Indie-Rock mit ihrem kühnen Sound, ihrer überwältigenden Performance und ihrer unvorhersehbaren Live-Struktur, die über die Grenzen von konventionellem Rock und Post-Punk hinausging.
+Black Midi ist eine junge Rock-/Experimentalmusikband, die 2017 in London gegründet wurde. Nur wenige Jahre nach ihrem Debüt schockierten sie die Welt des Indie-Rock mit ihrem kühnen Sound, ihrer überwältigenden Performance und ihrer unvorhersehbaren Live-Struktur, die über traditionellen Rock und Post-Punk hinausging.
 
 ---
 
@@ -49,7 +49,7 @@ color: #fff;
 - **Betreuer/Tourteilnehmer** (je nach Saison): Keyboarder, Saxophonist, etc. (z.B. Keyboarder Seth Evans, Saxophonist Kaidi Akinnibi)
 - **Musikstil/Genre**: Er verfügt über eine breite Palette experimenteller Stile, darunter Math Rock, Progressive Rock, Post-Punk, Noise und Avant-Jazz. Gekennzeichnet durch Improvisation, strukturelle Komplexität und Genremischung.
 
-- **Herkunft des Bandnamens**: Sie selbst haben den Namen der Band von „Black Midi“ (eine in „Schwarz“ ausgefüllte Partitur mit vielen MIDI-Noten) übernommen, einem Internetkultur-/Musikgenre, das seinen Ursprung in Japan hat. Es besteht jedoch kein direkter klanglicher Zusammenhang, es handelt sich lediglich um eine Anspielung auf den Namen.
+- **Herkunft des Bandnamens**: Sie selbst haben den Namen der Band von „Black Midi“ (eine in „Schwarz“ ausgefüllte Partitur mit vielen MIDI-Noten) übernommen, einem Internetkultur-/Musikgenre, das seinen Ursprung in Japan hat. Es besteht jedoch kein direkter klanglicher Zusammenhang, es handelt sich lediglich um einen Namensbezug.
 
 Black Midi begann in der Live-House- und Indie-/Underground-Szene im Süden Londons und hat trotz ihres jungen Alters seit ihrem Debüt im Jahr 2019 schnell an Aufmerksamkeit gewonnen, ausgestattet mit herausragender Technik und Experimentierfreude.
 
@@ -63,9 +63,9 @@ Eine kurze Geschichte der Diskographie von Black Midi und die Merkmale jedes Wer
 
 | **Jahr** | **Werktitel/Format** | **Merkmale/Zusammenfassung (Version mit verbesserter Sichtbarkeit)** |
 | -------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2018** | Single **„bmbmbm“ und andere** | **Erste Veröffentlichung von Speedy Wunderground. **<br>Von hier an begannen die offiziellen Aktivitäten der Band ernsthaft. Als frühe Merkmale kristallisierten sich starker Minimalismus und repetitive Geräuschästhetik heraus.                                                                                            |
+| **2018** | Single **„bmbmbm“ und andere** | **Erste Veröffentlichung von Speedy Wunderground. **<br>Von hier an begannen die offiziellen Aktivitäten der Band ernsthaft. Als frühe Merkmale zeichneten sich starker Minimalismus und repetitive Geräuschästhetik ab.                                                                                            |
 | **2019** | **1. Album „Schlagenheim“** | **Produziert von: Dan Carey. Aufgenommen in nur wenigen Tagen. **<br>Einführung einer Vielzahl von Klängen wie Synthesizer, Orgeln, Banjos und Drum Machines unter Beibehaltung einer lebendigen Energie. <br><br>**Kritische Rezension**: Top 50 UK-Charts, Nominierung für den Mercury Prize. <br>Es wurde aufgrund seiner rauen, aber dennoch dichten Konstruktion als „das wichtigste Debütwerk des Endes der 2010er Jahre“ beschrieben. |
-| **2021** | **2. Album „Cavalcade“** | **Der kompositorische und kammermusikalische Ansatz ist gegenüber dem Vorgängerwerk deutlich erweitert. **<br>Fügt Saxophon, Bratsche, Keyboard usw. hinzu und integriert Vokabeln wie Jazz, Progressive Rock, Post-Punk und zeitgenössische Musik. <br>Der Signature-Song „John L“ vereint chaotische Struktur + Kult-Fabel + Theatralik und die „Koexistenz von Raserei und Präzision“ der Band erreicht ihren Höhepunkt.                                       |
+| **2021** | **2. Album „Cavalcade“** | **Der kompositorische und kammermusikalische Ansatz ist gegenüber dem Vorgängerwerk deutlich erweitert. **<br>Fügt Saxophon, Bratsche, Keyboard usw. hinzu und integriert Vokabeln wie Jazz, Progressive Rock, Post-Punk und zeitgenössische Musik. <br>Der repräsentative Song „John L“ vereint chaotische Struktur + Kultfabel + Theatralik und die „Koexistenz von Raserei und Präzision“ der Band erreicht ihren Höhepunkt.                                       |
 | **2022** | **3. Album „Hellfire“** | **Das „theatralischste“ Werk mit noch stärkerer Geschichte, Charakter und Allegorie. **<br>Eine Mischung aus Lärm, seltsamen Taktarten, barocken Entwicklungen und Geschichtenerzählen im Kabare-Stil. <br>Die Struktur ist so, dass jedes Lied in einer anderen Umgebung spielt, mit Themen wie schwarzem Humor, Kriegsfabeln sowie Sünde und Erlösung. <br><br>**Merkmale nach dieser Zeit**: Es hat sich eine Politik etabliert, aktiv Unterschiede zwischen Studiowerken und Live-Neuinterpretationen herzustellen.          |
 | **2022** | **Live-Album „Live Fire“** | **Festaufnahme in Portugal. **<br>Die Lieder aus der „Hellfire“-Zeit wurden live rekonstruiert, wobei der Schwerpunkt auf Improvisation und der Leidenschaft der Aufführung liegt. <br>Dieses Werk enthält viele verschiedene Interpretationen der Studioversion und definiert „Black Midi als Live-Band“.                                                                    |
 
@@ -89,13 +89,13 @@ Auf diese Weise erregten Black Midi während ihrer Debütperiode als „heller n
 
 ### 3‑2. Cavalcade, Hellfire – Eine Anspielung auf Expansion und eine Anspielung auf Esoterik
 
-- Nach der Veröffentlichung ihres zweiten Albums *Cavalcade* bemerkten viele Kritiker, dass es „strukturierter und ehrgeiziger“ sei, „ein Labyrinth des Wahnsinns, das viele Genres wie Jazz, Progressive Rock und experimentelle Musik verschlang“ und „es ist selten, dass ein junger Künstler in der Lage ist, sich so stark zu verändern und zu erweitern.“ Besonders gelobt wurde die erweiterte Komposition, die Saxophon, Keyboards, Streicher usw. umfasst, und die Vielfalt des Musicals Entwicklungen.
+- Nach der Veröffentlichung ihres zweiten Albums *Cavalcade* bemerkten viele Kritiker, dass es „strukturierter und ehrgeiziger“ sei, „ein Labyrinth des Wahnsinns, das mehrere Genres wie Jazz, Progressive Rock und experimentelle Musik verschlingt“ und „es ist selten, dass ein junger Künstler in der Lage ist, sich so stark zu verändern und zu erweitern.“ Besonders gelobt wurde die erweiterte Komposition, die Saxophon, Keyboards, Streicher usw. umfasst, und die Vielfalt des Musicals Entwicklungen.
 
 - Andererseits gab es auch Kommentare wie „Der Klang ist zu dicht“, „Das Gleichgewicht zwischen Lärm und Struktur ist schwer zu finden“ und „Es erweckt eher den Eindruck, zu aufwändig zu sein als die Freiheit einer Live-Improvisation.“ Einige Kritiker lobten Cavalcades Opulenz und Struktur, waren jedoch der Meinung, dass die „rohe Gefahr“ und der „Improvisationsimpuls“, die für ihr Debütwerk charakteristisch waren, nachgelassen hatten.
 
-- Darüber hinaus gab es in Bezug auf ihr drittes Album *Hellfire* Komplimente wie „das experimentellste und theatralischste aller Zeiten“, „eine Gruppe von Liedern mit Erzählung, Allegorie und Charakter“, „es wählt den Hörer, aber es hat eine starke Wirkung“ und „ein Kunstwerk, das über den Rahmen von ‚Rock‘ hinausgeht“. Insbesondere die radikale Komposition und der radikale Sound von Hellfire sowie die Vielschichtigkeit der Musik wurden hoch gelobt Lob.
+- Darüber hinaus gab es in Bezug auf ihr drittes Album *Hellfire* Komplimente wie „das experimentellste und theatralischste aller Zeiten“, „eine Gruppe von Liedern mit Erzählung, Allegorie und Charakter“, „es wählt den Hörer, aber es hat eine starke Wirkung“ und „ein Kunstwerk, das über den Rahmen von ‚Rock‘ hinausgeht“. Besonders die radikale Struktur und der Sound von Hellfire sowie die Vielschichtigkeit der Musik wurden hoch gelobt gelobt.
 
-- Allerdings gibt es gleichzeitig auch hartnäckige Beschwerden darüber, dass „die Struktur zu komplex und der Eingang zu eng ist“, „man muss sich mehr anhören als den ersten Eindruck“ und „es ist ein Werk, das die Leute entweder mögen oder hassen“, und einige sagen, dass die Songs von Black Midi schwer zu sagen seien „für jedermann“.
+- Allerdings gibt es gleichzeitig auch hartnäckige Beschwerden darüber, dass „die Struktur zu komplex und der Eingang zu eng ist“, „man muss sich mehr anhören als nur den ersten Eindruck“ und „es ist ein Werk, das die Leute entweder mögen oder hassen“, und einige sagen, dass die Songs von Black Midi schwer zu sagen seien „für jedermann“.
 Mit anderen Worten: Black Midis Wachstumsphase war eine Zeit, in der es seine Techniken, seine Komposition und seine Musikalität erweiterte und seine Radikalität und Raffinesse die Grenzen der Musik verschob, die leicht in Vor- und Nachteile unterteilt und vom Hörer gewählt werden konnte.
 
 ### 3-3. Der Wert von Live-Auftritten und „Performance/Improvisation“ – Live-Alben und Neubewertung
@@ -134,7 +134,7 @@ Mit anderen Worten: Black Midis Wachstumsphase war eine Zeit, in der es seine Te
 
 Bands wie Black Midi sind aufgrund ihres experimentellen Charakters nicht immer bei allen beliebt. Auf die folgenden Einschränkungen sowie Vor- und Nachteile wurde hingewiesen.
 
-- Die Struktur des Liedes ist komplex, Lärm und Experimente sind stark ausgeprägt, und die Leute sagen, es sei „schwierig, loszulegen“, „schwer zu verstehen“ und „die Geschmäcker sind weitgehend unterschiedlich“. Diese Tendenz macht sich besonders in Werken wie *Cavalcade* und *Hellfire* bemerkbar, die einen starken kompositorischen und experimentellen Charakter haben.
+- Die Struktur des Liedes ist komplex, Lärm und Experimente sind stark ausgeprägt, und die Leute sagen, es sei „schwierig, loszulegen“, „schwer zu verstehen“ und „die Geschmäcker sind weitgehend geteilt“. Diese Tendenz macht sich besonders in Werken wie *Cavalcade* und *Hellfire* bemerkbar, die einen starken kompositorischen und experimentellen Charakter haben.
 
 - Für Hörer, die „Improvisationschaos/Live-ähnliche Intensität“ suchen, kann sich der Studiobau manchmal wie ein „Mangel an Live-Feeling“ oder eine „übermäßige Produktion“ anfühlen. Tatsächlich gab es im Zuge der Weiterentwicklung der Band auch gemischte Kritiken.
 

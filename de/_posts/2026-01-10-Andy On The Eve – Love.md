@@ -14,7 +14,7 @@ title: Andy On The Eve – Liebe
 ---
 
 
-Andy On The Eve ist ein Projekt des berühmten belgischen Produzenten Jean-Yves Vanloo, des französischen DJs/Produzenten Philippe Van Mullem, bekannt als Produzent von Quadran, und Thierry Traisnel. Von diesem Projekt gab es nur zwei Veröffentlichungen: „Melodies Of Passion“ (1991) und „Love“ (1992).
+Andy On The Eve ist ein Projekt des berühmten belgischen Produzenten Jean-Yves Vanloo, des französischen DJ/Produzenten Philippe Van Mullem, bekannt als Produzent von Quadran, und Thierry Traisnel. Von diesem Projekt gab es nur zwei Veröffentlichungen: „Melodies Of Passion“ (1991) und „Love“ (1992).
 
 „Love“ ist ein Trance/Techno-Track, der 1992 auf dem Label Beat De Ville veröffentlicht wurde.
 

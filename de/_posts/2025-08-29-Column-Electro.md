@@ -15,7 +15,7 @@ title: '[Kolumne] Elektro: Der Rhythmus der von Maschinen geformten Stadt der Zu
 ---
 
 
-## Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
+##Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
 
 
 Text: mmr｜Thema: Elektronischer Herzschlag, geboren mit Breakdance
@@ -149,5 +149,5 @@ In der japanischen Szene haben Ken Ishii und Goth-Trad Elektroelemente integrier
 
 ### Ein elektrischer Groove, der die Grenze zwischen Maschine und Mensch erschüttert
 
-Electro ist nicht nur ein vorübergehendes Genre, sondern ein Grundpfeiler der Entwicklung elektronischer Musik. Seine DNA lebt in Hip-Hop, Techno, House, Electroclash und sogar moderner elektronischer Tanzmusik weiter.
+Elektro ist nicht nur ein vorübergehendes Genre, sondern ein Grundpfeiler der Entwicklung elektronischer Musik. Seine DNA lebt in Hip-Hop, Techno, House, Electroclash und sogar moderner elektronischer Tanzmusik weiter.
 Der Klang von Maschinen und Menschen ist der Kern von Elektro und der Grund, warum er weiterhin die Zukunft der Musik vorhersagt.

@@ -10,11 +10,11 @@ tags:
 - Electro
 - Glitch
 - 00s
-title: South Central – Nichts kann schief gehen
+title: South Central – Nothing Can Go Wrong
 ---
 
 
-„Nothing Can Go Wrong“ ist ein Glitch-Electro-Track von South Central, einem DJ-Duo aus Brighton, Großbritannien, der 2007 auf dem britischen Independent-Label A/G/P veröffentlicht wurde.
+「Nothing Can Go Wrong」は、2007年にUKのインディペンデントレーベルA/G/Pからリリースされた、イギリス・ブライトン出身のDJデュオSouth Central（サウスセントラル）によるグリッチ・エレクトロトラック。
 
 #### Trackliste
 ```md

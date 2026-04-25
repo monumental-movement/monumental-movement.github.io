@@ -15,7 +15,7 @@ title: Nobukazu Takemura – Meteor
 
 „Nobukazu Takemura – Meteor“ ist eine Platte des japanischen Musikkünstlers Nobukazu Takemura (Nobukazu Takemura). Nobukazu Takemura ist ein Musikproduzent und Komponist, der für seine elektronische und experimentelle Musik bekannt ist.
 
-„Meteor“ ist eines der repräsentativsten Werke von Nobukazu Takemura. Das 1999 erschienene Werk verbindet elektronische Klänge und Ambient-Elemente und entwickelt die verträumte Klanglandschaft, die für Nobukazu Takemuras Musik charakteristisch ist.
+„Meteor“ ist eines der repräsentativsten Werke von Nobukazu Takemura. Das 1999 erschienene Werk verbindet elektronische Klänge und Ambient-Elemente und entwickelt so die verträumte Klanglandschaft, die das Markenzeichen der Musik von Nobukazu Takemura ist.
 
 #### Trackliste
 ```md

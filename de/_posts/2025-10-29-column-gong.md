@@ -18,7 +18,7 @@ title: '[Kolumne] Gong-Legende: Ära, Mythos, Klang und Gemeinschaft'
 ## 1. Einführung: Musiker als Wissenschaftler
 
 
-Text: mmr｜Thema: Gong, die „kosmische Gemeinschaft“, gegründet von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
+Text: mmr | Thema: Gong, die „kosmische Gemeinschaft“, aufgebaut von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
 
 > „Wir waren eine fliegende Teekanne, die durch die Revolution segelte.“
 > - Daevid Allen
@@ -114,7 +114,7 @@ Eine zwischen 1973 und 1974 veröffentlichte Trilogie.
 
 Dabei handelt es sich nicht nur um Alben, sondern um mythologische Epen von „Planet Gong“. In Form einer Radiosendung treten Zero the Hero und Pot Head Pixies auf und die Reise durch Raum und Bewusstsein wird geschildert.
 
-|Charakter |Eigenschaften |
+| Charakter | Funktionen |
 | :-- | :-- |
 | Zero the Hero | Ein Reisender, der zwischen der Erde und dem Gong-Planeten reist |
 | Pot Head Pixies | Geister des Glücks und des Chaos |
@@ -168,7 +168,7 @@ Auch nach Allens Tod im Jahr 2015 lebt Gong als „sich regenerierendes kollekti
 ## Kapitel 8 Die Welt der Gong-Mythologie – Charaktere, Ikonographie und Weltanschauung {#chapter8}
 
 Gong ist eine umfassende Kunst, die Musik, Mythologie und Kunst integriert.
-Im Mittelpunkt der Radio-Gnome-Trilogie stehen Charaktere, Planeten, Sprachen, Sender usw., die eng miteinander verflochten sind.
+Im Mittelpunkt der Radio Gnomes-Trilogie stehen Charaktere, Planeten, Sprachen, Sender usw., die eng miteinander verflochten sind.
 
 Unten ist ein Diagramm, das seine symbolische Struktur zeigt:
 
@@ -255,5 +255,13 @@ timeline
 Es war keine „Musikgruppe“, sondern **eine andere Art, auf der Welt zu sein**.
 Und selbst jetzt, in einer bestimmten Frequenz in uns,
 Ihr „Radiozwerg“ sendet weiterhin leise.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ug5CJ0LHiuI?si=waB4Qr7XzGQW7tzq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

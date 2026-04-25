@@ -28,7 +28,7 @@ title: '[Kolumne] Dungeon Synth – Eine Underground-Ambient-Ästhetik, die vom 
 Text: mmr｜Thema: Über die Geschichte, Produktionstechniken und die kulturelle Stellung von Dungeon Synth, einem vom Black Metal abgeleiteten Underground-Ambient-Genre
 
 Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung durch minimalistische Synthesizer-Sounds zum Ausdruck bringt.
-Seine Ursprünge lassen sich auf die europäische Extremmusikszene der frühen 1990er-Jahre zurückführen, doch seit Ende der 2010er-Jahre hat sich die zweite und dritte Generation mit der Ausweitung der Bandcamp-Kultur rasant vergrößert und hat sich inzwischen zu einem gigantischen DIY-Netzwerk entwickelt.
+Seine Ursprünge liegen in der europäischen Extremmusikszene der frühen 1990er Jahre, doch ab Ende der 2010er Jahre, mit der Ausbreitung der Bandcamp-Kultur, wuchs die zweite und dritte Generation rasch an und hat sich mittlerweile zu einem riesigen DIY-Netzwerk entwickelt.
 
 ---
 
@@ -75,10 +75,10 @@ In den frühen 1990er Jahren, am Rande des skandinavischen Black Metal, begannen
 Von besonderer Bedeutung sind:
 - **Mortiis (Norwegen)**
 Ehemaliges Mitglied des Kaisers. Etablierte einen mittelalterlichen Fantasy-Stil „Dark Dungeon Music“.
-- **Burzum (Norwegen) frühe Klavierstücke**
+- **Frühe Klavierstücke von Burzum (Norwegen)**
 Der letzte Song von „Hvis Lyset Tar Oss“ und die Ambient-Tracks von „Filosofem“ hinterließen eine starke Symbolik für den späteren Dungeon Synth.
 
-Obwohl es sich dabei um Klangquellen aus der Zeit vor „Dungeon Synth als Genrename“ handelt, werden sie von späteren Generationen eindeutig als Quelle behandelt.
+Obwohl es sich hierbei um Klangquellen handelt, die älter waren als der Begriff „Dungeon Synth als Genrename“, werden sie von späteren Generationen eindeutig als Quelle behandelt.
 
 ### ● 2-2. Erste Welle (1995–2000)
 Von 1995 bis 2000 veröffentlichte ein junges europäisches Projekt, das Mortiis „Era I“ vorausging, Cernunnos Woods, Depressive Silence und Old Tower Werke, die hauptsächlich auf Tonband vertrieben wurden.
@@ -140,7 +140,7 @@ timeline
 # ■ 4. Sounddesign: Dungeon Synth-Produktionstechniken
 
 Dungeon Synth ist „ein Genre, das die Einschränkungen der Ausrüstung als Ästhetik sublimiert.“
-Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
+Im Folgenden fassen wir die Klangquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
 
 ---
 
@@ -213,7 +213,7 @@ Konkret eingesetzt werden:
 
 - Halle (gefühlt wie eine mittelalterliche Halle)
 - Platte (altmodischer metallischer Nachhall)
-- Weniger frühe Reflexionen/längerer Verfall
+- Weniger frühe Reflexionen/längerer Zerfall
 
 ### ■ Stereobreite
 - Das Pad ist breit
@@ -277,7 +277,7 @@ Der visuelle Einfluss ist äußerst groß und trägt dazu bei, das Weltbild des 
 - **Lehen (USA)**
 
 ## ● Moderne (2024–)
-- Erhebliche Multinationalisierung und Fragmentierung.
+- Signifikante Multinationalisierung und Segmentierung.
 Themen wie Wald / Winter / Heroisch / Cosmic Synth haben zugenommen.
 
 ---

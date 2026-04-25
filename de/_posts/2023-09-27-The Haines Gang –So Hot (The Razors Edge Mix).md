@@ -9,12 +9,12 @@ permalink: /de/the-haines-gang-so-hot-the-razors-edge-mix/
 tags:
 - Synth-Pop
 - 80s
-title: The Haines Gang – So Hot (The Razor's Edge Mix)
+title: The Haines Gang –So Hot (The Razor's Edge Mix)
 ---
 
 
-„So Hot (The Razor’s Edge Mix)“ ist
-Dies ist ein Synth-Pop-Song von Perry Haines‘ Projekt „The Haines Gang“, der 1982 auf London Records veröffentlicht wurde.
+「So Hot (The Razor's Edge Mix)」は、
+1982年にLondon RecordsからリリースされたPerry Hainesのプロジェクトである「The Haines Gang」によるシンセポップです。
 
 #### Trackliste
 ```md

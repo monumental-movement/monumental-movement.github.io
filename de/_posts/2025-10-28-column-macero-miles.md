@@ -50,7 +50,7 @@ Wie Stockhausen und Varèse entwickelte Macero schon früh ein Bewusstsein dafü
 In den späten 1950er Jahren wurde er Mitarbeiterproduzent bei Columbia Records und arbeitete mit Künstlern wie Miles Davis und Dave Brubeck zusammen.
 Was ihn jedoch von anderen Produzenten unterschied, war, dass er den Schnitt selbst als einen Ort der Schöpfung verstand.
 
-> „Auch nach dem Ende der Aufführung endet die Musik nicht. Im Schnittraum beginnt sie von vorne.“
+> „Auch nach dem Ende der Aufführung hört die Musik nicht auf. Im Schnittraum beginnt sie von vorne.“
 > — Teo Macero
 
 ---
@@ -86,10 +86,10 @@ flowchart LR
 Mit Bitches Brew aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch mehr.
 Mehr als sechs Tonbandgeräte liefen gleichzeitig, sodass das Studio wie ein Labor wirkte.
 
-Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer **Flut fragmentierter Improvisation** führt.
+Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer Flut fragmentierter Improvisationen führt.
 Macero fügte diese Fragmente zu Einheiten von mehreren Metern zusammen und gestaltete durch Bearbeitung den rhythmischen Fluss und den akustischen „Ort“.
 
-> „Ich habe die Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
+> „Ich habe Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
 > — Teo Macero
 
 Seine Methode ähnelte der Musique Concrète, war aber auch mit der freien Improvisation des Jazz verbunden.
@@ -117,7 +117,7 @@ graph TD
 
 ## Kapitel 4: Die Idee der Bearbeitung = Komposition
 
-Teo Maceros größter Beitrag bestand darin, die Aufnahmetechnologie von einem Hilfswerkzeug zu einem kreativen Medium zu machen.
+Der größte Beitrag von Teo Macero bestand darin, die Aufnahmetechnologie von einem Hilfswerkzeug zu einem kreativen Medium zu machen.
 Es war der Vorläufer des Paradigmas „Bearbeiten = Komponieren“.
 
 - Strukturumwandlung durch physikalisches Schneiden (Bandspleiß)
@@ -281,7 +281,7 @@ graph LR
 
 → Konzentrieren Sie sich auf die „Tiefenachse“ und nicht auf Stereo links und rechts.
 
-Man kann sagen, dass Maceros bearbeiteter Sound bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
+Man kann sagen, dass Maceros Tonbearbeitung bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
 
 ---
 

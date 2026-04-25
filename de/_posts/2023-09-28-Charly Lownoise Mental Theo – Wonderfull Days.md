@@ -12,7 +12,7 @@ title: Charly Lownoise Mental Theo – Wonderfull Days
 ---
 
 
-Dieses Lied gilt als niederländischer Happy-Hardcore-Klassiker aus dem Jahr 1994. Charly Lownoise und Mental Theo sind ein niederländisches DJ- und Produzentenduo, das in der Eurodance- und Happy-Hardcore-Szene der 1990er Jahre große Erfolge erzielte.
+Dieses Lied ist als niederländischer Happy-Hardcore-Klassiker bekannt und wurde 1994 veröffentlicht. Charly Lownoise und Mental Theo sind ein niederländisches DJ- und Produzentenduo, das in der Eurodance- und Happy-Hardcore-Szene der 1990er Jahre große Erfolge erzielte.
 
 „Wonderfull Days“ wird in vielen Clubs und bei Rave-Events gespielt und ist wegen seiner eingängigen Melodie und positiven Energie bei vielen beliebt.
 

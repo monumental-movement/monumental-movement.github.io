@@ -14,7 +14,7 @@ title: Djaimin – Gib dir
 ---
 
 
-Djaimin ist ein Top-Schweizer DJ und Produzent. Als Legende der Schweizer House-Szene war er in den 1980er-Jahren Resident im Platinum Club in Montreux und einer der ersten DJs, die Live-House-Musik beim Schweizer Radiosender Couleur 3 aufführten. Außerdem war er mit Mr. Mike in der Gruppe Black & White Brothers aktiv.
+Djaimin ist ein Top-Schweizer DJ und Produzent. Als Legende der Schweizer House-Szene war er in den 1980er Jahren Resident im Platinum Club in Montreux und einer der ersten DJs, die Live-House-Musik beim Schweizer Radiosender Couleur 3 aufführten. Außerdem war er mit Mr. Mike in der Gruppe Black & White Brothers aktiv.
 
 „Give You“ war die erste House-Aufnahme der Schweiz und wurde weltweit ein Riesenhit.
 

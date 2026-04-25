@@ -64,7 +64,7 @@ Das Wesentliche ist, dass die Konstruktion des Rhythmus selbst mit der Videobear
 
 Die 1988 veröffentlichte Filmversion von AKIRA war ein wichtiger Wendepunkt in der Geschichte der Anime-Musik.
 
-Der Geino Yamashiro Gumi, der für die Musik verantwortlich war, ist eine Gruppe, deren Aktivitäten auf der Erforschung ethnischer Musik basieren und ein groß angelegtes Soundsystem geschaffen haben, das Shomyo, Gamelan, Schlaginstrumente und elektronische Verarbeitung kombiniert.
+Die Geino Yamashiro Gumi, die für die Musik verantwortlich war, sind eine Gruppe, deren Aktivitäten auf der Erforschung ethnischer Musik basieren. Sie schufen ein groß angelegtes Soundsystem, das Shomyo, Gamelan, Schlaginstrumente und elektronische Verarbeitung kombinierte.
 Die vielschichtigen Polyrhythmen, die Betonung der Obertöne und der kollektive Chor stellten symbolisch das Chaos der Stadt Neo-Tokio der nahen Zukunft dar.
 
 Im Gegensatz zur herkömmlichen symphonischen Begleitung ist es wichtig, dass der Rhythmus eine Struktur hat, die das Bild „antreibt“.
@@ -83,7 +83,7 @@ Dies ist ein Beispiel dafür, wie man die Spannung zwischen Körperlichkeit und 
 In „Cowboy Bebop“, das 1998 ausgestrahlt wurde, bewegte sich Yoko Kanno frei zwischen Jazz, Big Band, Funk und Electronica.
 Der Eröffnungssong „Tank!“ ist ein High-Speed-Big-Band-Song, aber seine rhythmische Trennung und redaktionelle Struktur spiegeln die Sensibilität der Post-Club-Kultur wider.
 
-> Die 1990er Jahre waren eine Zeit, in der elektronischer Sound und Genreüberschreitungen ernsthaft Einzug in TV-Anime hielten.
+> Die 1990er Jahre waren eine Zeit, in der elektronischer Sound und Genreüberschreitungen ernsthaft Einzug in die Fernsehanimation hielten.
 
 ---
 
@@ -98,7 +98,7 @@ Dies ist ein Beispiel dafür, wie man Beats in das Zeitgefühl der Geschichte ei
 
 Etwa zur gleichen Zeit, mit der Verbreitung digitaler Produktionsumgebungen, wurde die Musikproduktion auf Basis von DTM alltäglich. Die Kosten für die Einführung experimenteller Rhythmen sanken, und dies breitete sich auch auf Fernsehserien aus.
 
-> In den 2000er Jahren wurden Beats eher zur inneren Sprache des Animes als zur äußeren Kultur.
+> In den 2000er Jahren wurden Beats eher zur inneren Sprache des Anime als zur äußeren Kultur.
 
 ---
 
@@ -152,7 +152,7 @@ timeline
 
 ### Unterhaltung Yamashiro Gumi
 
-Ethnische Musikforschung und große Chöre.
+Ethnische Musikforschung und groß angelegter Chor.
 Es wurden Aufnahmen mit mehreren Hundert Personen gemacht, bei der Produktion standen die physikalischen Schwingungen von Schlaginstrumenten im Mittelpunkt.
 
 ### Kenji Kawai
@@ -192,21 +192,21 @@ I[インダストリアル/EDM] --> J[Cyberpunk: Edgerunners]
 * PSYCHO-PASS-Hauptthema
 * Cyberpunk: Edgerunners fügen Songs ein
 
-Dabei handelt es sich nicht nur um beliebte Lieder.
+Das sind nicht nur beliebte Lieder.
 Dies ist ein Beispiel dafür, wie rhythmische Struktur, Tongestaltung und räumliche Verarbeitung direkt mit dem Tempo und dem Schnittsinn der Geschichte verknüpft sind.
 
 Bei der Animation wird die Videobearbeitung Bild für Bild verwaltet.
 Daher hat die Synchronisierung des Beat-Zyklus und der Schnittteilung einen starken Effekt.
 Experimentelle Beats werden oft unter Berücksichtigung dieser Synchronisation entwickelt.
 
-> Der Beat ist nicht mehr nur Hintergrundmusik, sondern ist zum Bindeglied zur Schnitttheorie selbst geworden.
+> Der Beat ist nicht mehr nur Hintergrundmusik, sondern ist zu einer Verbindung zur Schnitttheorie selbst geworden.
 
 ---
 
 ## Kulturelle Auswirkungen
 
 Experimentelle Soundtracks haben auch europäische und amerikanische Filmemacher und Musiker beeinflusst.
-Akira und Ghost in the Shell sind zu Bezugspunkten für den Cyberpunk-Ausdruck geworden.
+Akira und Ghost in the Shell sind Bezugspunkte für den Cyberpunk-Ausdruck.
 
 Auch die Hip-Hop- und Lo-Fi-Kultur wurde durch Anime reexportiert.
 Samurai Champloo trug zur internationalen Sichtbarkeit der japanischen Beatkultur bei.

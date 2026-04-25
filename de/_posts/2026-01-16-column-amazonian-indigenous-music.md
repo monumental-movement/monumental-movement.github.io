@@ -24,7 +24,7 @@ Text: mmr｜Thema: Musikkultur ist kein festes Erbe, sondern wurde vererbt, wäh
 
 Das Amazonasbecken ist eine der kulturell vielfältigsten Regionen der Welt. Hunderte indigene Gruppen haben zusammengelebt, jede mit ihren eigenen Sprachen, Mythen und sozialen Strukturen. In diesem Zusammenhang hat sich Musik nicht als eigenständige Form der Unterhaltung oder Kunst entwickelt, sondern als ein Akt, der untrennbar mit dem Leben selbst verbunden ist.
 
-Es werden Lieder gesungen, um für Erfolg bei der Jagd und in der Landwirtschaft zu beten, und Tänze markieren saisonale Zyklen und Meilensteine ​​des Wachstums. Musik ist nicht etwas, das man hört, sondern etwas, das man tut, und sie ist auch ein Akt, der die Zugehörigkeit zu einer Gemeinschaft bestätigt. Im Amazonaswald herrscht nahezu keine Stille. Vögel, Insekten, Wind und Wasser erzeugen alle Geräusche, und auch menschliche Musik ist in diesem Kontinuum platziert.
+Es werden Lieder gesungen, um für Erfolg bei der Jagd und in der Landwirtschaft zu beten, und Tänze markieren saisonale Zyklen und Meilensteine ​​des Wachstums. Musik ist nicht etwas, das man hört, sondern etwas, das man tut, und sie ist auch ein Akt, der die Zugehörigkeit zu einer Gemeinschaft bestätigt. Im Amazonaswald herrscht nahezu keine Stille. Vögel, Insekten, Wind und Wasser erzeugen Geräusche, und auch menschliche Musik ist in diesem Kontinuum platziert.
 
 > Die indigene Musik des Amazonas existiert als ein Akt, der die Grenzen zwischen Natur und Mensch auflöst.
 
@@ -173,3 +173,10 @@ Solange es Wälder gibt und Menschen dort leben, wird die Musik weiter spielen.
 
 ---
 
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dv8e-Wc5GG8?si=TbNAmAsgEJ4zMplE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

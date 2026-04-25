@@ -53,7 +53,7 @@ In den frühen Tagen bestand der Kern der Band aus fragmentarischen, abstrakten 
 ---
 
 ### Anekdote/Wendepunkt
-- **Abgang von Sole (2010)**: Mitbegründer Sole gab 2010 seinen Abschied von Anticon bekannt. Es heißt, dass es Meinungsverschiedenheiten in den geschäftlichen Ansichten und Richtungen gegeben habe, er bemerkte jedoch, dass sie weiterhin auf persönlicher Basis zusammenarbeiten würden.
+- **Abgang von Sole (2010)**: Mitbegründer Sole gab 2010 seinen Abschied von Anticon bekannt. Es heißt, dass es Unterschiede in den geschäftlichen Ansichten und Richtungen gegeben habe, er bemerkte jedoch, dass sie weiterhin auf persönlicher Basis zusammenarbeiten würden.
 
 - **Alias ​​​​ist verstorben (2018)**: Mitbegründer, Produzent/Künstler Alias ​​​​verstarb plötzlich im Jahr 2018. Seitdem sind die Aktivitäten des Labels zurückgegangen und eines seiner Gründungsmitglieder, Sole, hat erklärt, dass das Label nach Alias‘ Tod aufgelöst wurde. Dies ist ein klarer Wendepunkt in der Geschichte von Anticon
 
@@ -287,7 +287,7 @@ Es gibt Berichte, dass die offizielle Website und die Aktivitäten seit 2018 ges
 
 Anticon war mehr als nur ein Hip-Hop-Label; Es war ein kulturelles Experiment, das neue Möglichkeiten für Worte und Klänge vorschlug und Elemente experimenteller Musik, Post-Rock und Electronica einbezog. Wichtige Mitglieder wie Sole, Doseone, Jel, Alias, Odd Nosdam und Why? Sie haben ihre poetischen Ausdrucksformen und Klangwelten durch Soloarbeiten, Bands und Kooperationen weiter aktualisiert.
 
-Im Mittelpunkt seiner Aktivitäten steht das Bewusstsein für die „Ausweitung des Underground-Hip-Hop“ von Ende der 1990er bis in die 2000er Jahre. Infolgedessen hat Anticon einen starken Charakter als „Kunstkollektiv“, „unabhängiges Labor“ und „ideologische Gemeinschaft“ angenommen. Die fantastischen Werke von cLOUDDEAD, die poporientierten Alben von Why? und die experimentellen Produktionen von Alias ​​und Odd Nosdam werden fortgesetzt bis heute viele Zuhörer und Musiker prägen.
+Im Mittelpunkt seiner Aktivitäten steht das Bewusstsein für die „Ausweitung des Underground-Hip-Hop“ von Ende der 1990er bis in die 2000er Jahre. Infolgedessen hat Anticon einen starken Charakter als „Kunstkollektiv“, „unabhängiges Labor“ und „ideologische Gemeinschaft“ angenommen. Die fantastischen Werke von cLOUDDEAD, die poporientierten Alben von Why? und die experimentelle Produktion von Alias und Odd Nosdam bleiben bestehen prägen bis heute viele Zuhörer und Musiker.
 
 Obwohl das Label Ende der 2010er Jahre mit dem Tod von Alias ​​​​und der Zerstreuung der Mitglieder faktisch zu Ende ging, pulsiert sein Geist weiterhin in den Aktivitäten jedes Künstlers. Anticons genreübergreifende Ästhetik ist zu einem der Eckpfeiler der modernen Indie-Musik und DIY-Kultur geworden und wurde auf Spotify und Bandcamp an eine neue Generation experimenteller Künstler weitergegeben.
 

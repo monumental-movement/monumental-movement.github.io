@@ -117,9 +117,9 @@ Die Fusion-Musik dieser Zeit zeichnete sich dadurch aus, dass sie zwar experimen
 
 ## 1980er Jahre｜Diaspora und Wiederaufbau
 
-### Rolle der deutschen Einwanderergemeinschaft
+### Die Rolle der deutschen Einwanderergemeinschaft
 
-In den 1980er Jahren wurden traditionelle Musik und Popmusik in türkischen Einwanderergemeinschaften, hauptsächlich in Westdeutschland, neu aufgelegt.
+In den 1980er Jahren wurde traditionelle Musik und Popmusik in türkischen Einwanderergemeinschaften, hauptsächlich in Westdeutschland, neu aufgelegt.
 
 Bei Hochzeiten und Gemeinschaftsveranstaltungen wurden betonte Rhythmen beim Tanzen bevorzugt.
 

@@ -21,7 +21,7 @@ title: '[Kolumne] Electronic World Fusion: Der Punkt, an dem sich elektronische 
 
 Text: mmr｜Thema: Von den Ursprüngen von Electronic World Fusion bis zu seinen technischen Aspekten, repräsentativen Werken, regionalen Besonderheiten und zeitgenössischer Bedeutung
 
-In der zweiten Hälfte des 20. Jahrhunderts entwickelte sich die elektronische Musik rund um Synthesizer und Sampler, doch gleichzeitig begann auch traditionelle Musik aus aller Welt Einzug in die westliche Popkultur zu halten. Electronic World Fusion ist ein Bereich, in dem die beiden vollständig miteinander verbunden sind, und es ist ein seltenes Genre, in dem sich Geschichte, Kultur und Ideologie von Technologie und Volksmusik überschneiden.
+In der zweiten Hälfte des 20. Jahrhunderts entwickelte sich die elektronische Musik rund um Synthesizer und Sampler, doch gleichzeitig begann auch traditionelle Musik aus aller Welt Einzug in die westliche Popkultur zu halten. Electronic World Fusion ist ein Bereich, in dem die beiden vollständig miteinander verbunden sind, und ein seltenes Genre, in dem sich Geschichte, Kultur und Ideologie von Technologie und Volksmusik überschneiden.
 
 Zu den repräsentativen Künstlern zählen **Nitin Sawhney**, der indische klassische Musik und soziale Themen einbezieht, und **Thievery Corporation**, der Downtempo mit verschiedenen musikalischen Elementen aus Lateinamerika, dem Nahen Osten und Asien verbindet.
 
@@ -45,7 +45,7 @@ color: #fff;
 
 ### 1-1 Fortschritt der elektronischen Musik und Import der Weltmusik
 
-Seit den 1970er Jahren, als elektronische Musikinstrumente weit verbreitet waren, wurde Musik aus aller Welt durch die Aufnahmetechnik und die Plattenindustrie über nationale Grenzen hinweg eingeführt. Es wurde ein Umfeld geschaffen, in dem elektronische Klänge und Volksmusik aufeinandertreffen konnten, und es entstanden experimentelle Fusionswerke.
+Seit den 1970er Jahren, als sich elektronische Musikinstrumente verbreiteten, wurde Musik aus aller Welt durch die Aufnahmetechnologie und die Plattenindustrie über nationale Grenzen hinweg eingeführt. Es wurde ein Umfeld geschaffen, in dem elektronische Klänge und Volksmusik aufeinandertreffen konnten, und es entstanden experimentelle Fusionswerke.
 
 ### 1-2 Sampling und Kritik ethnischer Musik
 
@@ -221,7 +221,7 @@ In der heutigen Zeit schreitet die Analyse und Erzeugung von Schallquellen mithi
 ### 8-3 Bedeutung der Zusammenarbeit
 
 * Live-Aufnahme mit traditionellen Instrumentalisten
-*Muss mit einem Verständnis für den kulturellen Hintergrund regionaler Musik produziert werden.
+*Muss mit einem Verständnis für den kulturellen Hintergrund der lokalen Musik produziert werden.
 
 ---
 
@@ -231,7 +231,7 @@ Electronic World Fusion ersetzt nicht nur Volksmusik durch elektronische Klänge
 **„Der Prozess, durch den Klang Kultur übersetzt und verschiedene Werte verbindet“**
 kann verstanden werden als
 
-Das Genre verkörpert den klanglichen Dialog, da Nitin Sawhney in seiner Arbeit multikulturelle Gesellschaften darstellt und Thievery Corporation Musik aus der ganzen Welt mit urbanen elektronischen Musikkontexten verbindet.
+Das Genre verkörpert den klanglichen Dialog, da Nitin Sawhney in seiner Arbeit multikulturelle Gesellschaften darstellt und Thievery Corporation Musik aus der ganzen Welt mit urbanen Kontexten der elektronischen Musik verbindet.
 
 ---
 

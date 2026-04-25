@@ -125,7 +125,7 @@ Während Städte Musik produzieren, regulieren sie sie auch. Überfüllung, Lär
 
 Radio, Fernsehen und Internet, die die Musik scheinbar von der Stadt trennten, schufen tatsächlich ein neues Bild der Stadt. Bestimmte Städtenamen fungieren weiterhin als Klangmarken.
 
-> Die Medien erweiterten die Stadt und ließen die Musik scheinbar unabhängig von der Geographie erscheinen.
+> Die Medien erweiterten die Stadt und erweckten den Eindruck, als sei die Musik von der Geographie befreit.
 
 ---
 
@@ -148,7 +148,7 @@ Obwohl Clubmusik und Hip-Hop grenzüberschreitend gemeinsame Formate haben, nehm
 * 1930er Jahre: Die Musikindustrie konzentriert sich auf New York
 *Elektrifizierter Blues, der in den 1950er Jahren in Chicago etabliert wurde
 * 1960er Jahre: Motown boomt in Detroit
-* Geburtsstunde des Hip-Hop in New York in den 1970er Jahren
+* Geburt des Hip-Hop in New York in den 1970er Jahren
 * 1980er Jahre: House in Chicago, Techno in Detroit
 * Clubkultur gepaart mit urbaner Neuordnung im Berlin der 1990er Jahre
 * Seit den 2000er Jahren: Urbane Musik durch das Internet neu definiert
@@ -226,7 +226,7 @@ Die Orte, an denen Musik gespielt wird, haben sich im Zuge der Veränderungen im
 
 ## Kapitel 15 Tokio: Überfüllte Stadt und Indoor-Musik
 
-Tokio ist eine der am dichtesten besiedelten Städte der Welt und ihre Musikkultur hat sich konsequent in Richtung Innenräume verlagert. Städtische Strukturen, in denen Wohn- und Gewerbegebiete eng miteinander verflochten sind, und die hohe Empfindlichkeit der Gesellschaft gegenüber nächtlichem Lärm haben die Kultur lauter Musik im Freien unterdrückt und die Eleganz geschlossener Räume wie Untergrundclubs, Veranstaltungsorte für Live-Musik und Hörbars gefördert.
+Tokio ist eine der am dichtesten besiedelten Städte der Welt und ihre Musikkultur hat sich konsequent in Richtung Innenräume verlagert. Städtische Strukturen, in denen Wohn- und Gewerbegebiete eng miteinander verflochten sind, und die hohe Sensibilität der Gesellschaft gegenüber nächtlichem Lärm haben die Kultur lauter Musik im Freien unterdrückt und die Eleganz geschlossener Räume wie Untergrundclubs, Veranstaltungsorte für Live-Musik und Hörbars gefördert.
 
 Seit den 1960er Jahren, mit der Verbreitung importierter Schallplatten und der Verbreitung von Audiogeräten, hat die „Hörumgebung“ selbst in Tokio einen kulturellen Wert erlangt. Musik ist sowohl zu einem gemeinsamen Erlebnis als auch zu einem Objekt geworden, das der Einzelne auswählen, sammeln und spielen kann. Aufgrund der geringen Größe der Stadt interessieren sich die Menschen mehr für die Auflösung von Tonbildern und für genreübergreifendes Wissen als für die Lautstärke.
 

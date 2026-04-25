@@ -27,7 +27,7 @@ Text: mmr｜Thema: Warum kommt die Musik, die aus dem Untergrund kommt, immer wi
 Viele Revolutionen in der Musikgeschichte waren von Anfang an nicht für die Massen gedacht.
 Tatsächlich ist das Gegenteil der Fall.
 
-Viele neue Musik kommt von unbekannten Orten.
+Viele neue Musik kommt aus unbekannten Orten.
 
 - Underground-Club
 - Lagerparty
@@ -337,7 +337,7 @@ Die Musikgeschichte ist eine Wiederholung dieses Prozesses.
 
 Die Klänge, die im Untergrund beginnen, werden schließlich zu den Klängen der Zeit.
 
-> Die Zukunft der Musik beginnt immer im Untergrund zu klingen, was noch nicht absehbar ist.
+> Die Zukunft der Musik beginnt immer im Untergrund zu klingen, was noch nicht abzusehen ist.
 
 ---
 

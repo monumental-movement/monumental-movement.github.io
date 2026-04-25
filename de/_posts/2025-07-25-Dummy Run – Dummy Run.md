@@ -11,13 +11,13 @@ tags:
 - Drum n Bass
 - Experimental
 - 90s
-title: Dummy-Lauf – Dummy-Lauf
+title: Dummy Run – Dummy Run
 ---
 
 
-Dummy Run ist ein experimentelles Elektro-Duo von Andrew Sharpley und Nick Birmingham.
+Dummy Run (ダミーラン)は、Andrew Sharpley, Nick BirminghamによるエクスペリメンタルエレクトロDuo 。
 
-Das selbstbetitelte Album, das 1996 vom britischen Label Hot Air veröffentlicht wurde, ist ein Album, auf dem Sie Dummy Runs einzigartigen Drum'n'Bass + Left Field-Stil genießen können.
+1996年にUKのレーベルHot Airからリリースしたセフルタイトルアルバムは、ドラムンベース+レフトフィールドなDummy Run独自のスタイルが堪能できる一枚。
 
 #### Trackliste
 ```md

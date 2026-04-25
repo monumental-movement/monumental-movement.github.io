@@ -105,7 +105,7 @@ Die rätselhafte Natur von Songtiteln bekräftigt das „Recht des Klangs, sich 
 
 ### 3.1 „Syro“ (2014): Fertigstellung des Akustikarchivs
 
-Sein erstes Album seit 13 Jahren, „Syro“, ist eine Mischung aus analoger Rückgabe und digitaler Bearbeitung.
+Sein erstes Album seit 13 Jahren, „Syro“, ist eine Fusion aus analoger Rückkehr und digitaler Bearbeitung.
 Alle Songs verfügen über detaillierte Credits für das verwendete Equipment,
 Aphex Twin legt nahe, dass „jeder Ton eine technische Geschichte hat“.
 
@@ -145,7 +145,7 @@ Mit anderen Worten: Seine Musik ist ein Testfeld für den Post-KI-Humanismus.
 
 Der Kern von Aphex Twin besteht darin, „fremd zu bleiben“, auch wenn sich die Zeiten ändern.
 Selbst wenn Musik in Mode kommt, lässt sein Sound immer einen „Spielraum“ übrig.
-In diesem Bereich gibt es Raum für den Zuhörer, seine eigenen Gefühle zum Ausdruck zu bringen.
+In diesem leeren Raum gibt es Raum für Zuhörer, ihre eigenen Gefühle auszudrücken.
 
 ---
 

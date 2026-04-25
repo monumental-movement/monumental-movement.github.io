@@ -54,7 +54,7 @@ color: #fff;
 Die Bittiefe ist ein Index, der angibt, wie viele Ebenen die Klangamplitude ausgedrückt werden kann.
 Wenn es 16 Bit ist, gibt es 65.536 Ebenen, und wenn es 8 Bit ist, gibt es nur 256 Ebenen. Je kleiner die Anzahl der Stufen ist, desto rauer ist die Lautstärkeänderung und desto auffälliger ist das Quantisierungsrauschen.
 
-Aufgrund von Kosten- und Verarbeitungsleistungsbeschränkungen waren in frühen digitalen Audiogeräten niedrige Bittiefen üblich. Dies war eine Designnotwendigkeit und nicht beabsichtigt.
+Niedrige Bittiefen waren in frühen digitalen Audiogeräten aufgrund von Kosten- und Verarbeitungsleistungsbeschränkungen üblich. Dies war eine Designnotwendigkeit und nicht beabsichtigt.
 
 > Low-Bit-Sound existierte zunächst als „unvermeidliche Einschränkung“.
 
@@ -135,9 +135,9 @@ Das resultierende Quantisierungsrauschen, stufenartige Lautstärkeänderungen, e
 
 ---
 
-### Etablierung als Wirkung
+### Als Effekt etabliert
 
-Seit Ende der 1990er-Jahre werden Bit-Crusher in DAWs und Multieffektgeräten verbaut.
+Seit Ende der 1990er Jahre werden Bit-Crusher in DAWs und Multieffektgeräten verbaut.
 Dies war eine entscheidende Änderung, die Low-Bit-Töne als „wählbare Töne“ positionierte.
 
 Eine niedrige Auflösung wird nicht mehr als Einschränkung, sondern als Ausdrucksmittel betrachtet.
@@ -152,7 +152,7 @@ Eine niedrige Auflösung wird nicht mehr als Einschränkung, sondern als Ausdruc
 ### Kontingenz und digitales Rauschen
 
 Phänomene wie CD-Lesefehler, Datenbeschädigung und Verarbeitungsfehler sollten beseitigt sein.
-Einige elektronische Musiker beginnen jedoch, dies als Klangmaterial zu betrachten.
+Einige elektronische Musiker beginnen jedoch, dies als Klangmaterial zu behandeln.
 
 Low-Bit-Rauschen und Glitches haben gemeinsam, dass beide auf digitale Unvollkommenheit schließen lassen.
 

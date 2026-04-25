@@ -117,7 +117,7 @@ In den 2000er Jahren entstand vor allem an der Ostküste der USA ein neuer Trend
 - Harmonie traditioneller Folklore von den britischen Inseln
 - Ruhiger und vielschichtiger Gesang
 - Elektro-/Drohnen-Folk-Elemente
-- Zeitgenössische Rekonstruktion des Acid-Folk-Kontexts der 1960er und 1970er Jahre
+– Zeitgenössische Rekonstruktion des Acid-Folk-Kontexts der 1960er und 1970er Jahre
 
 Sie schlugen eine Brücke zwischen Psych Folk und Indie-Rock/Ambient/Drone und spielten eine Schlüsselrolle beim Wiederaufleben des Experimental Folk in den 2000er Jahren.
 

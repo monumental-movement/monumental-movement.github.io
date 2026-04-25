@@ -43,7 +43,7 @@ color: #fff;
 
 ## Kapitel 1 Prämisse der elektronischen Musik vor dem Elektropop
 
-Um die Entstehung des elektronischen Pop-Experimentsystems zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
+Um die Entstehung elektronischer Pop-Experimente zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
 
 ### Kombination von Synthesizer- und Pop-Strukturen
 
@@ -103,7 +103,7 @@ Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den
 
 ### Merkmale des Produktionsprozesses
 
-Grimes' Produktion zeichnet sich dadurch aus, dass er in seinen Werken bewusst Spuren der Einschränkungen der Aufnahmeumgebung und der persönlichen Produktion hinterlässt. Rauschen, unausgeglichene Lautstärke und übermäßige Effektbearbeitung sind keine Anzeichen mangelnder Perfektion, sondern dienen als Beweis für die Existenz des Schöpfers.
+Grimes' Produktion zeichnet sich dadurch aus, dass er in seinen Werken bewusst Spuren der Einschränkungen der Aufnahmeumgebung und der persönlichen Produktion hinterlässt. Rauschen, unausgeglichene Lautstärke und übermäßige Effektbearbeitung sind kein Zeichen mangelnder Perfektion, sondern dienen als Beweis für die Existenz des Schöpfers.
 
 ### Visuelle Integration
 
@@ -115,7 +115,7 @@ Die zur Musik präsentierten Visuals dienen nicht dazu, das Weltbild des Liedes 
 
 Carpenter Brut repräsentiert eine andere Richtung im Elektropop-Experiment.
 
-### Akustische Eigenschaften
+### Akustische Merkmale
 
 * Synthwave-Tondesign
 * Extrem betonter Rhythmus und Verzerrung
@@ -129,7 +129,7 @@ Der experimentelle Charakter von Carpenter Brut manifestiert sich weniger in der
 
 ## Kapitel 7 Visuelle Kultur und Elektropop-Experimente
 
-In der experimentellen Elektropop-Musik wirken die folgenden Elemente zusammen und nicht nur Musik allein.
+In der experimentellen Elektropop-Musik wirken die folgenden Elemente zusammen und nicht nur die Musik allein.
 
 * Albumcover
 * Musikvideo
@@ -228,12 +228,12 @@ Dies macht das Stück eher zu einem kontinuierlichen Interpretationsprozess als 
 * Ausbau des unabhängigen Vertriebs
 * Entstehung des Experimentierens
 
-### 2010er Jahre
+### 2010年代
 
 * Visualisierung des Produktionsprozesses von Grimes et al.
 * Vertiefung der Integration von Bild und Musik
 
-### 2020er Jahre
+### 2020年代
 
 *Weitere Verwischung der Produktionsumgebung und der Arbeitsgrenzen
 

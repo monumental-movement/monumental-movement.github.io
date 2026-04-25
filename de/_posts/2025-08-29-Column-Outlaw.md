@@ -20,7 +20,7 @@ title: '[Kolumne] Interaktionsgeschichte von Musikkultur und „Outlaws“ nach 
 
 ## „Musik kommt vom Rand der Gesellschaft“
 
-Text: mmr｜Thema: Langgelesene Kolumne, die Subkulturforschung und die Temperatur des Feldes verbindet
+Text: mmr｜Thema: Lang gelesene Kolumne, die Subkulturforschung und die Temperatur des Feldes verbindet
 
 „Musik kommt vom Rand der Gesellschaft.“ Dieser Satz ist alt, aber er verfehlt nicht den Kern. Das Gefühl von Dringlichkeit, Antinormativität und gemeinschaftlicher Leidenschaft, das aus der Marginalität resultiert, wird oft als „Gesetzloser“ visualisiert und kristallisiert sich in Form von Klang, Raumnutzung, Mode und Körpertechniken heraus. In diesem Artikel verfolgen wir die wichtigsten Genres/Szenen ab den 1950er Jahren nach Alter und betrachten die Schnittstelle zwischen „Musik und Outlaws“ aus der Perspektive der Soziologie und Kulturwissenschaften (Hebdidge, Cohen, Beaudrieu, Becker usw.).
 
@@ -28,7 +28,7 @@ Text: mmr｜Thema: Langgelesene Kolumne, die Subkulturforschung und die Temperat
 
 ### 1950er: Bebop ~ Rockabilly – Ästhetik der Peripherie und Sitten der „Nonkonformität“
 
-Die späte Modernisierung des Jazz (Bebop bis Hard Bop) wurde mit Nachtclubs, Drogen und dem Lebensstil der schwarzen Bohème in Verbindung gebracht und schuf das Bild eines intellektuellen Gesetzlosen, der von den Nachkriegsnormen abwich, die auf „Arbeit und Disziplin“ ausgerichtet waren.
+Die späte Modernisierung des Jazz (Bebop bis Hardbop) wurde mit Nachtclubs, Drogen und dem schwarzen Bohème-Lebensstil in Verbindung gebracht und schuf das Bild eines intellektuellen Gesetzlosen, der von den Nachkriegsnormen abwich, die auf „Arbeit und Disziplin“ ausgerichtet waren.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CX-Y-6kw8HU?si=ozurQgmBGI0_T1C-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,7 +40,7 @@ Rock and Roll/Rockabilly ist eine grenzüberschreitende Fusion aus weißer Jugen
 
 ---
 
-**Mechanismus**: Mischung aus Musik, die Rassen- und Klassengrenzen überschreitet + nächtliche Unterhaltung = „moralische Panik“ auslösen (Volksteufel und moralische Panik: Stanley Cohen). Vorschriften von Polizei, Schulen und Religionsgemeinschaften stärken vielmehr die Einheit der Szene.
+**Mechanismus**: Mischung aus Musik, die Rassen- und Klassengrenzen überschreitet + nächtliche Unterhaltung = „moralische Panik“ auslösen (Volksteufel und moralische Panik: Stanley Cohen). Vorschriften von Polizei, Schulen und Religionsgemeinschaften stärken tatsächlich die Einheit der Szene.
 
 
 <hr>
@@ -72,13 +72,13 @@ Garage/Protopunk ist ein DIY-Geist und Anti-Kommerzialismus. Schulhallen und Lag
 
 ### 1970er Jahre: Punk, Reggae, Disco: Kampf und Flucht, geboren aus der städtischen Krise
 
-Punk (NY/UK) baut Anti-Establishment-Parolen und eine minimale Kapitalinfrastruktur (Indie-Labels, Zines, besetzte Veranstaltungsorte) vor dem Hintergrund von Arbeitslosigkeit, Verwüstung und Rassenkonflikten auf. Gruben, Stacheln und DIY-Sicherheitsnadeln sind visuelle Symbole für „illegales Einfädeln“.
+Punk (NY/UK) baut Anti-Establishment-Slogans und minimale Kapitalinfrastruktur (Indie-Labels, Zines, besetzte Veranstaltungsorte) vor dem Hintergrund von Arbeitslosigkeit, Verwüstung und Rassenkonflikten auf. Gruben, Stacheln und DIY-Sicherheitsnadeln sind visuelle Symbole für „illegales Einfädeln“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IwsVWZ-c8Eo?si=6qD5twRzmr6LVRzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Reggae/Dub wird mit der Soundsystemkultur in Verbindung gebracht und ist für die Selbstverteidigung und den Stolz von Einwanderergemeinschaften verantwortlich. Es kommt häufig zu Spannungen mit der Polizei und in den Liedtexten geht es um Widerstand gegen systemischen Rassismus.
+Reggae/Dub wird mit der Soundsystemkultur in Verbindung gebracht und ist für die Selbstverteidigung und den Stolz von Einwanderergemeinschaften verantwortlich. Es kommt häufig zu Spannungen mit der Polizei und in den Texten geht es um Widerstand gegen systemischen Rassismus.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwY7eY5I-9I?si=KQNXax_3yLCDTEcN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -126,7 +126,7 @@ Dem Metall wurde das Image verliehen, „dämonisiert“ zu werden, und es löst
 
 <hr>
 
-### 1990er: Rave/Acid House, Grunge, Gangsta Rap – Verhandlung der Grenzen zwischen Legal und Illegalität
+### 1990er Jahre: Rave/Acid House, Grunge, Gangsta Rap – Verhandlung der Grenzen zwischen legal und illegal
 
 Rave/Acid House streitet mit den Behörden wegen illegaler Partys in Lagerhäusern und im Freien sowie wegen Drogenproblemen. Das Aufkommen von Mobiltelefonen und Internet-Schwarzen Brettern beschleunigte die „Mobile Party“.
 
@@ -214,7 +214,7 @@ Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, 
 
 **Radikalisierung der Erzählung**: Der Realismus/die Übertreibung der Texte wird von den Medien als Kriminalwarnung missverstanden.
 
-**Medienapparat**: Berichterstattung schafft einen „populären Teufel“ (Cohens Moral Panic).
+**Medienapparat**: Berichterstattung schafft einen „Volksteufel“ (Cohens moralische Panik).
 
 **Reflexion mit dem System**: Der Kreislauf von Razzia → Untergrund → Stärkung der Solidarität → kommerzielle Erholung → erneute Abweichung.
 
@@ -250,7 +250,7 @@ Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, 
 ### Wer zieht die Grenzen?
 
 Die Beziehung zwischen Musik und Gesetzlosen ist keine Verherrlichung des Verbrechens. Vielmehr handelt es sich um eine Visualisierung der Machtdynamik darüber, „wer, was und wie man Abweichung nennt“ und gleichzeitig eine Geschichte der Kreativität der Peripherie.
-Vom Rockabilly in den 1950er-Jahren bis zum Micro-Rave in den 2020er-Jahren hat Musik die Grenzen von Normen ausgereizt, gesellschaftliche Starrheiten gelockert und mit neuen öffentlichen Sensibilitäten experimentiert. Obwohl ihr Outlaw-Charakter gefährlich ist, prägen die Beats, die aus diesem Funken entspringen, oft die nächste Mainstream-Bewegung – und zwar ständig.
+Vom Rockabilly in den 1950er-Jahren bis zum Micro-Rave in den 2020er-Jahren hat Musik die Grenzen von Normen ausgereizt, gesellschaftliche Starrheiten gelockert und mit neuen öffentlichen Sensibilitäten experimentiert. Ihr Outlaw-Charakter ist gefährlich, aber die Beats, die aus diesem Funken entspringen, prägen oft die nächste Mainstream-Bewegung – und zwar ständig.
 
 ---
 

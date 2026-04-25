@@ -25,7 +25,7 @@ Es ist nicht mehr erst gestern, dass die Musikproduktion jetzt in einem „Raum�
 Dies ist jedoch seit dem 21. Jahrhundert, als die Digitalisierung ihren Höhepunkt erreicht hat, „normal“ geworden.
 Die Magie der Musikproduktion, die einst auf die Wände eines Studios beschränkt war, ist dank Laptops und kostengünstigen Audioschnittstellen, DAWs (Digital Audio Workstations), endlich in jedermanns Zimmer angekommen.
 
-Ein Schlafzimmerproduzent ist nicht nur jemand, der allein den Ton erzeugt.
+Ein Schlafzimmerproduzent ist nicht nur jemand, der allein Sound erzeugt.
 Sie verkörpern die „Demokratisierung“ der Musikindustrie und sind gleichzeitig auch ein Symbol für die „Kreativität der Einsamkeit“.
 Heutzutage, mit direktem Zugang zur Welt über Spotify und SoundCloud, ist das Schlafzimmer kein „privater Raum“ mehr. Durch sein Netzwerk ist es zur Basis einer neuen Musikstadt = digitalen Stadt geworden.
 

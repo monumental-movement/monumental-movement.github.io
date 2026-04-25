@@ -49,7 +49,7 @@ Die Grundeinheit der elektronischen Rhythmusgestaltung sind 16 Schritte, die in 
 
 ### 4/4・16-Schritte-Grundlayout-Beispiel
 
-Die grundlegendste Struktur besteht darin, den Kick auf dem 1. und 3. Schlag und die Snare auf dem 2. und 4. Schlag zu platzieren. Diese Anordnung erzeugt ein Gefühl der Stabilität, aber nicht mehr und nicht weniger.
+Die einfachste Anordnung besteht darin, den Kick auf dem 1. und 3. Schlag und die Snare auf dem 2. und 4. Schlag zu platzieren. Diese Anordnung erzeugt ein Gefühl der Stabilität, aber nicht mehr und nicht weniger.
 
 Beim Akzentdesign müssen nicht alle Noten mit der gleichen Intensität gespielt werden. Indem Sie einfach den ersten Schlag des Tritts stärker und den dritten Schlag etwas schwächer machen, können Sie im Fluss der Zeit ein Gefühl von Vorne und Hinten erzeugen.
 
@@ -66,7 +66,7 @@ Im letzteren Fall fühlt sich die zweite Hälfte leichter an und die Schleife ve
 
 ## Kapitel 2: Raster- und Human-Feel-Design
 
-Eine Anordnung, die dem Raster perfekt folgt, fixiert die Zeit, verschiebt sie aber nicht. Hier werden absichtliche Abweichungen eingeführt.
+Anordnungen, die dem Raster folgen, fixieren die Zeit perfekt, verschieben sie aber nicht. Hier werden absichtliche Abweichungen eingeführt.
 
 ### Fall: Backbeat Snare Delay
 
@@ -150,7 +150,7 @@ Tempo ist ein numerischer Wert, aber das Erlebnis ist gestaltet.
 
 ### Fall: BPM-Konstante/Wahrnehmungsänderung
 
-Selbst bei den gleichen 120 BPM wird es sich schneller anfühlen, wenn Sie den Backbeat betonen, und wenn Sie das Intervall erweitern, wird es sich langsamer anfühlen.
+Selbst bei denselben 120 BPM fühlt es sich schneller an, wenn Sie den Backbeat betonen, und wenn Sie das Intervall erweitern, fühlt es sich langsamer an.
 
 > Tempo ist kein Zahlenwert, sondern ein wahrnehmungsmäßiges Gestaltungsergebnis.
 
@@ -188,7 +188,7 @@ Indem starke Klänge außerhalb des Zeitraums platziert werden, wird das Zeitgef
 
 ---
 
-## Kapitel 10: Genreübergreifender Vergleich des Rhythmusdesigns
+## Kapitel 10: Genreübergreifender Rhythmus-Design-Vergleich
 
 ### Techno
 
@@ -200,7 +200,7 @@ Der Schwerpunkt liegt auf aus Samples abgeleiteten Backbeats und Fluktuationen. 
 
 ### IDM
 
-Strukturelle Komplexität und asymmetrisches Design. Diskrepanzen in der Periode und unregelmäßige Taktarten stören das Zeitgefühl.
+Strukturelle Komplexität und asymmetrisches Design. Unstimmigkeiten in der Periode und unregelmäßige Taktarten stören das Zeitgefühl.
 
 > Genre ist eine Sammlung von Rhythmus-Design-Ideen.
 
@@ -220,7 +220,7 @@ Bei dieser Denkweise wird das Raster einer Nachbearbeitung unterzogen, und der R
 
 TR-Sequenzer unterteilen die Zeit explizit in gleiche Schritte. Da man auf einen Blick erkennen kann, wo Ton und wo Leerstellen sind, sind Platzierung und Auslassung die Hauptkriterien für die Beurteilung.
 
-Hier geht die Struktur über die Spielbarkeit und die Rhythmen werden logisch aufgebaut.
+Dabei geht die Struktur über die Spielbarkeit und die Rhythmen werden logisch aufgebaut.
 
 ### Klavierrollendenken: Abstrahierte Zeitmanipulation
 
@@ -234,7 +234,7 @@ Gehen wir unter den gleichen Bedingungen von einem Grundschlag aus 4/4 16 Steps,
 
 Beim MPC-Denken schlagen Sie zunächst auf natürliche Weise mit dem Pad an und passen dann die Abweichung und Stärke später an. Das fertige Produkt wird ein physischer Moment mit leichten Schwankungen sein.
 
-Platzieren Sie beim TR-Denken zunächst den Kick auf der 1., 5., 9. und 13. Stufe und die Snare auf der 5. und 13. Stufe und berücksichtigen Sie bei Bedarf Auslassungen und Akzente. Das fertige Produkt wird eine klare Struktur und Zeitplanung haben.
+Platzieren Sie beim TR-Denken zunächst den Kick auf der 1., 5., 9. und 13. Stufe und die Snare auf der 5. und 13. Stufe und berücksichtigen Sie bei Bedarf Auslassungen und Akzente. Das fertige Produkt wird eine klare Struktur und Zeiteinteilung haben.
 
 Beim Piano-Roll-Denken richten Sie die Anfangspunkte und Längen der Noten visuell aus, verschieben einige davon jedoch absichtlich nach vorne oder hinten. Das ausgefüllte Formular wird eine Zeitstruktur sein, die die Entwurfsabsicht so visualisiert, wie sie ist.
 
@@ -265,7 +265,7 @@ B --> C[体感グルーヴ]
 
 ---
 
-## Abbildung 2: Struktur der Zeitschicht
+## Abbildung 2: Zeitschichtstruktur
 
 <div class="mermaid">
 graph TD

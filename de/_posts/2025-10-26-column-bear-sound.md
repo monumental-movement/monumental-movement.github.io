@@ -18,7 +18,7 @@ title: '[Spalte] Erweiterung des Bärenschadens und der Schalleinwirkung'
 
 Text: mmr | Thema: Eine Analyse der in den letzten Jahren zunehmenden Schäden durch Bären unter dem Gesichtspunkt der Auswirkungen von Lärm und Verhaltenskontrolle. Untersuchung der Rolle von Sounddesign im Zusammenleben von Mensch und Bär
 
-In den letzten Jahren haben die durch Bären verursachten Schäden in Japan rapide zugenommen. Es gibt etwa 1.000 Fälle von Ernteschäden pro Jahr, und die Schäden durch Menschen haben sich in den letzten 10 Jahren etwa verdoppelt („Wild Animal Damage Statistics 2024“ des Umweltministeriums). Die bisherigen physikalischen Maßnahmen reichen nicht aus und es bedarf nachhaltiger Schadensbegrenzungsmaßnahmen.
+In den letzten Jahren haben die durch Bären verursachten Schäden in Japan rapide zugenommen. Es gibt etwa 1.000 Fälle von Ernteschäden pro Jahr, und die Schäden durch Menschen haben sich in den letzten 10 Jahren etwa verdoppelt (Wildtierschadensstatistik 2024 des Umweltministeriums). Die bisherigen physikalischen Maßnahmen reichen nicht aus und es bedarf nachhaltiger Schadensbegrenzungsmaßnahmen.
 
 Was Aufmerksamkeit erregt, ist die „Kontrolle des Bärenverhaltens durch Geräusche“. Bären haben einen gut entwickelten Hörsinn und reagieren empfindlich auf menschliche Stimmen, Warngeräusche und künstliche Geräusche bei bestimmten Frequenzen. In den letzten Jahren wurden immer mehr Demonstrationsexperimente von Landwirten, Kommunalverwaltungen und Forschungseinrichtungen durchgeführt, wodurch die Möglichkeiten einer vernünftigen Bewirtschaftung auf der Grundlage wissenschaftlicher Erkenntnisse erweitert wurden.
 
@@ -81,7 +81,7 @@ Mit der Zunahme von Obstplantagen und Nusswäldern kommt es immer häufiger vor,
 
 ### 3.3 Auswirkungen des Klimawandels
 
-Aufgrund des Rückgangs des Schneefalls und der Schwankungen des Fruchtwachstums im zeitigen Frühjahr ist es wahrscheinlicher, dass sie in Zeiten der Nahrungsmittelknappheit menschliche Siedlungen besuchen.
+Aufgrund des Rückgangs des Schneefalls und der Schwankungen des Fruchtwachstums im zeitigen Frühjahr ist es wahrscheinlicher, dass sie in Zeiten der Nahrungsmittelknappheit menschliche Siedlungen aufsuchen.
 
 ### 3.4 Schadensstatistik nach Regionen (2020–2024)
 
@@ -156,7 +156,7 @@ Klangerzeugung nach Verhaltensmustern mittels KI-Analyse. Decken Sie ein großes
 
 ### 6.2 Internationale Fälle
 
-- **Kalifornien, USA**: Einbruchschutz mit elektronischen Klängen und menschlicher Stimme
+- **Kalifornien, USA**: Einbruchschutz mit elektronischen Klängen und menschlichen Stimmen
 
 - **BC, Kanada**: Nicht-tödliches Akustikmanagement reduziert Ernteschäden
 

@@ -11,17 +11,17 @@ tags:
 - Experimental
 - Ambient
 - 90s
-title: Mike & Rich – erfahrene Knob-Twiddler
+title: Mike & Rich – Expert Knob Twiddlers
 ---
 
 
-Mike & Richs „Expert Knob Twiddlers“ (1996) ist ein Gemeinschaftsalbum von Richard D. James, alias Aphex Twin, und Mike Paradinas, alias µ-Ziq, zwei Genies, die in den 90er Jahren die elektronische Musikszene anführten.
+Mike & Richの『Expert Knob Twiddlers』（1996年）は、エイフェックス・ツイン（Aphex Twin）ことRichard D. Jamesとµ-ZiqことMike Paradinasという、90年代エレクトロニック・ミュージックシーンを牽引した二人の鬼才によるコラボレーションアルバム。
 
-Das Lied entstand innerhalb weniger Tage während der Weltmeisterschaft 1994 und soll aus einer betrunkenen Jam-Session entstanden sein. Dieser Hintergrund erzeugt eine leichte und freigeistige Atmosphäre in der Musik.
+制作は1994年のワールドカップ期間中に数日間で終わり、酒に酔った状態でのジャムセッションから生まれたとされています。この背景が、音楽に漂う軽妙で奔放な雰囲気を形作っています。
 
-Von Paradinas als „eine aktualisierte Version von Easy Listening und Funk“ beschrieben, werden Melodien, die an Lounge-Musik und Aufzugsmusik der 70er Jahre erinnern, mit verzerrten Beats und den skurrilen Tönen analoger Synthesizer verschmolzen.
+Paradinasが「イージーリスニングとファンクのアップデート版」と形容したように、70年代のラウンジミュージックやエレベーター音楽を思わせるメロディが、歪んだビートやアナログシンセの奇抜な音色と融合しています。
 
-Diese Tracks sind das Ergebnis einer Verschmelzung des unvorhersehbaren Experimentalismus von Aphex Twin und der melodischen Struktur von µ-Ziq und schaffen so ein Klangabenteuer, das über bloße „geschriebene Musik“ hinausgeht.
+これらのトラックは、両者の持ち味であるAphex Twinの予測不能な実験性とµ-Ziqのメロディアスな構造が融合した結果であり、単なる「打ち込み音楽」を超えた音の冒険を感じさせます。
 
 #### Trackliste
 ```md
@@ -39,5 +39,5 @@ Diese Tracks sind das Ergebnis einer Verschmelzung des unvorhersehbaren Experime
 
 [メルカリで購入](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

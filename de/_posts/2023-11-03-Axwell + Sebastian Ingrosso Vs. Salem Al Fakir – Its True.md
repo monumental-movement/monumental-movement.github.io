@@ -19,7 +19,7 @@ Axwell war zusammen mit Sebastian Ingrosso und Steve Angello Teil der schwedisch
 
 Lars Salem Al Fakir ist ein schwedischer Musiker, Sänger, Songwriter und Plattenproduzent.
 
-Er ist auch als alternatives Popmusik-Duo Vargas & Lagola aktiv.
+Er ist auch als Alternative-Pop-Duo Vargas & Lagola aktiv.
 
 „It's True“ ist ein Progressive-House-Track, der 2007 von Axtone Records veröffentlicht wurde.
 

@@ -137,7 +137,7 @@ color: #fff;
 
 ---
 
-## 2010er – Neubewertung und Erweiterung
+## 2010er Jahre – Neubewertung und Erweiterung
 ### Historischer Hintergrund
 - Es wurde von der Internet-Generation wiederentdeckt und wurde im Ausland als „Shibuya-kei“ zu einem Genre.
 - Wiederbelebung parallel zur Neubewertung von City Pop.

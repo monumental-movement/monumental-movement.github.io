@@ -47,7 +47,7 @@ color: #fff;
 ## Einführung:
 
 Ende des 20. Jahrhunderts begann die Musik des afrikanischen Kontinents in neuen Formen die Welt zu durchdringen. Während sich Fela Kuti aus Nigeria für „politischen Afrobeat“ einsetzte, startete Habib Koité aus Mali eine Revolution auf eine ruhigere Art und Weise.
-──Mit einer einzigen Gitarre reproduzierte er den Klang von Malis traditionellem Saiteninstrument „Kamalengoni“ und schuf mit der Band **Bamada** „Mali-Musik ohne Grenzen“.
+──Mit nur einer Gitarre hat er den Klang von Malis traditionellem Saiteninstrument „Kamarengoni“ nachgebildet und mit der Band „**Bamada**“ „Mali-Musik ohne Grenzen“ geschaffen.
 
 Seine Musik redet nicht über Politik. In dieser Ruhe liegt jedoch die **ethnische Würde und kulturelle Kontinuität**. Koité war ein „Übersetzer afrikanischer Ästhetik“ im Zeitalter der globalen Musik.
 
@@ -80,7 +80,7 @@ Der von dieser Gitarre erzeugte Klang lehnt die europäische Stimmung ab und ten
 Bamada ist die umgangssprachliche Bezeichnung für die Hauptstadt Bamako und bedeutet „Volk von Bamako“. Der Bandname selbst symbolisiert **eine Brücke zwischen Stadt und Folklore**.
 
 Bamadas Sound kombiniert ein westliches Bandformat (Gitarre, Bass, Schlagzeug, Percussion) mit traditionellen afrikanischen Instrumenten wie Balafon und Camalengoni.
-Koité forderte die Mitglieder auf, „verschiedene ethnische Rhythmen auf den Tisch zu bringen“ und **die Vielfalt innerhalb Malis in ein Ensemble zu übersetzen**.
+Koité forderte die Mitglieder auf, „verschiedene ethnische Rhythmen an den Tisch zu bringen“ und **die Vielfalt innerhalb Malis in ein Ensemble zu übersetzen**.
 
 ---
 
@@ -184,7 +184,7 @@ Es handelt sich um eine „stille Methode“, mit der Musik die soziale Solidari
 
 ---
 
-## Diagramm: Genealogie der malischen Musik und die Position von Koité
+## Diagramm: Genealogie der malischen Musik und die Stellung von Koité
 
 <div class="mermaid">
 

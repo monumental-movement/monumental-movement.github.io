@@ -9,15 +9,15 @@ permalink: /de/cursor-miner-remote-control/
 tags:
 - Techno
 - Leftfield
-title: Cursor Miner – Fernbedienung
+title: Cursor Miner – Remote Control
 ---
 
 
-Cursor Miner ist ein Projekt von Rob Tubb (richtiger Name Rob Tubb).
+Cursor Minerは、本名Rob Tubb（ロブ・タブ）によるプロジェクトです。
 
-Cursor Miner ist eine Mischung aus reinen Dancefloor-Hymnen, verdrehten Breakbeats, verrückten Experimenten, Pop-Flair und sozialen Kommentaren.
+Cursor Minerは、純粋なダンスフロアのアンセム、ひねくれたブレイクビーツ、非常識な実験、ポップなセンス、そして社会的なコメントをふんだんに取り入れた作風です。
 
-Er wurde als eine Fusion von Beck und David Bowie mit Kraftwerk und Oetaker beschrieben, was mitten in einem illegalen Rave der frühen 90er Jahre passieren würde.
+彼はベックとデヴィッド・ボウイがクラフトワークとオーテカーと融合し、90年代初頭の違法なレイブのど真ん中で何が起こるかのようと評されています。
 
 #### Trackliste
 ```md

@@ -19,7 +19,7 @@ title: '[Kolumne] Post-Rock/Ambient-Interaktion mit Film und Architektur'
 Text: mmr｜Thema: Post Rock/Ambient und Filme/Architektur
 
 Die Entwicklung von Post-Rock/Ambient beschränkt sich nicht nur auf ein Musikgenre, sondern weist eine Affinität zu Raumkunst wie **Film, Architektur und Stadtplanung** auf.
-Neben historischen Meisterwerken organisieren wir auch Interaktionen mit Film und Architektur sowie Ambient-Erlebnisse im urbanen Raum.
+Hier organisieren wir neben historischen Meisterwerken auch Interaktionen mit Filmen und Architektur sowie Ambient-Erlebnisse im urbanen Raum.
 
 ---
 
@@ -66,7 +66,7 @@ Ambient/Post-Rock zeigt eine starke Präsenz im Dialog mit urbanen Räumen und A
 | Fondation Louis Vuitton | Brian Eno (Ausstellungston) | 2014 | Raumklang, der zum Fluss des Ausstellungsraums passt |
 | High Line Park, NYC | Verschiedene Ambient-Kompositionen | 2009 | Lauferlebnis mit Dauergeräuschen im Stadtraum |
 | Tate Modern Turbinenhalle | Verschiedene Klanginstallationen | 2000er | Drohnensound und Erweiterung des Publikumserlebnisses in einem riesigen Raum |
-| Oculus, NYC | Klanginstallation von Steve Reich / Einfluss von La Monte Young | 2016 | Integration von architektonischem Hall und städtischem Akustikdesign |
+| Oculus, NYC | Klanginstallation von Steve Reich / Einfluss von La Monte Young | 2016 | Integration von architektonischem Hall und urbanem Akustikdesign |
 
 **Punkt**
 - Die Themen des Stadtraums sind „Verlängerung der Zeit“ und „Verschmelzung mit Umweltgeräuschen“
@@ -116,7 +116,7 @@ Film ↔ Architektur: Wechselwirkung zwischen bildender Kunst und Raumgestaltung
 #### Der Wiedergänger (2015)
 
 - **Komponist**: Ryuichi Sakamoto & Alva Noto
-- **Features**: Den Druck von Natur und Zeit mit elektronischen Klängen und Umgebungsgeräuschen zum Ausdruck bringen
+- **Features**: Den Druck der Natur und der Zeit mit elektronischen Klängen und Umgebungsgeräuschen zum Ausdruck bringen
 - **サウンドサンプル**: [Main Theme](https://www.youtube.com/watch?v=Czv8J1W4yYU)
 
 #### Solaris (2002)
@@ -161,7 +161,7 @@ Ambient/Post-Rock hat eine starke Präsenz im Dialog mit urbanen Räumen und Arc
 
 Post-Rock/Ambient ist nicht nur ein Musikgenre, sondern hat sich als Methode zur Gestaltung von Zeit und Raum entwickelt.
 
-Psychologische Erweiterung im Film: Manipulation der Zeit mit Drohnen, Loops und Klanglandschaften
+Psychologische Erweiterung im Film: Zeitmanipulation mit Drohnen, Loops und Soundscapes
 
 Anwendungen in Architektur und Stadtplanung: das Erlebnis des Aufenthalts in einem Raum, des Gehens und der Harmonie mit städtischen Umgebungsgeräuschen
 

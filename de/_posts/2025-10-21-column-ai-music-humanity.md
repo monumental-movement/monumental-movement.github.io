@@ -24,7 +24,7 @@ Text: mmr | Thema: Eine Ära, in der KI Musik erschafft und Menschen sie neu int
 Über Musik im Jahr 2025 wird nicht mehr nach „Genre“ gesprochen.
 Das Hörerlebnis auf Spotify und Apple Music wird je nach Stimmung, Zeit und Anlass neu organisiert und geht über die Kategorien „Rock“, „Hip-Hop“ und „Electronica“ hinaus.
 
-„An einem regnerischen Tag hören“, „Track um 2 Uhr morgens“ und „Ein Morgen mit Kaffee verbracht.“ Diese Listentitel weisen auf einen neuen Wert hin: „Kontext über Genre“.
+„An einem regnerischen Tag hören“, „Track um 2 Uhr morgens“, „Morgen mit Kaffee“ – diese Listentitel weisen auf einen neuen Wert hin: „Kontext über Genre“.
 Über Musik spricht man nicht danach, woraus sie besteht, sondern danach, wie sie mitschwingt bzw. zu Situationen passt.
 
 Im Zentrum dieser Veränderung stehen KI, Nostalgie und das eigene „Gedächtnis“ des Hörers.
@@ -56,7 +56,7 @@ Das „Schaffen“ von Musik ist keine Spezialkompetenz mehr, sondern hat sich z
 Der Electronica-Künstler Arca beispielsweise behandelt KI-Sound als Material und kombiniert ihn mit seiner eigenen echten Stimme. Was sie macht, ist „Kontextdesign, das fragt, warum man sich für eine der unzähligen Möglichkeiten der KI entscheiden sollte.“
 同様に、UK発のJames BlakeはAIを「共作者」として扱いながら、“人間の脆さ”をテーマにアルバム[『Playing Robots Into Heaven』（2024）](https://amzn.to/3L1hE6D)を構築した。
 
-Diese Beispiele zeigen, dass KI immer weniger zu einem „Klangerzeuger“ und mehr zu einem „Spiegel, der hervorhebt, was Menschen wählen“ wird.
+Diese Beispiele zeigen, dass KI immer weniger zu einem „Klangerzeuger“ wird, sondern eher zu einem „Spiegel, der hervorhebt, was Menschen wählen“.
 Gerade weil die Werkzeuge allen offen stehen, wird die kontextuelle Macht des Einzelnen = die Bedeutung der Wahl in Frage gestellt.
 
 ---
@@ -86,7 +86,7 @@ Man kann sagen, dass ihre „Methode, vergangene Klänge in Material umzuwandeln
 ### Kapitel 3: Lokale Musik überschreibt den globalen Kontext
 
 Die Geschwindigkeit, mit der Musik Grenzen überschreitet, hat sich im Zeitalter der sozialen Medien dramatisch verändert.
-Im Mittelpunkt steht eine Welle lokaler Ursprünge wie Afrobeats, Amapiano, Latin Trap, K-Pop und eine Neubewertung des City Pop.
+Im Mittelpunkt steht eine Welle lokaler Ursprünge wie Afrobeats, Amapiano, Latin Trap, K-Pop und eine Neubewertung von City Pop.
 
 #### Afrobeats und Amapiano: Mainstream-Sounds aus dem Süden
 
@@ -128,8 +128,8 @@ Charakteristisch für das Jahr 2025 ist das Nebeneinander von Stille (Minimal) u
 
 #### „Quiet Club“ und „introspektive Electronica“
 
-Die Popularität von „Slow Grooves“ wie Afro House und Amapiano symbolisiert eine Ära, in der Tanzen auch „Introspektion“ sein kann.
-Sätze von 100 bis 110 BPM werden in Clubs in Berlin und Seoul zur Norm und schaffen einen Raum, in dem man „tanzend denken“ kann.
+Die Popularität von „Slow Grooves“ wie Afro House und Amapiano symbolisiert eine Ära, in der Tanzen auch zur „Introspektion“ werden kann.
+In Clubs in Berlin und Seoul werden Sets mit 100 bis 110 BPM zur Norm und schaffen einen Raum, in dem man „tanzend denken“ kann.
 In Japan erforschen Food-Festivals, auch bekannt als Foodman und Yahyel, „ruhige Clubmusik“.
 
 #### Im Gegenteil, es gibt auch eine Bewegung zur Beherrschung der „Dichte“

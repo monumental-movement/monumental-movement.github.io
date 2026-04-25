@@ -20,7 +20,7 @@ title: '[Kolumne] Tango – Von den Rändern der Gesellschaft zur Weltkultur, ih
 
 ## Prolog Tango war Gesellschaft, bevor er „Musik“ war
 
-Text: mmr｜Thema: Auf den Spuren der sozialen Bedeutung des Tangos, von seiner Entstehung am Rande der Gesellschaft über das Vergessen bis hin zu seiner Wiederbelebung als globale Kultur
+Text: mmr｜Thema: Auf den Spuren der sozialen Bedeutung des Tangos, von seiner Geburt an der Peripherie der Gesellschaft bis zu seinem Vergessen und seiner Wiederbelebung als globale Kultur.
 
 Tango wurde nicht von Anfang an als Kunst geboren.
 Es war das Ergebnis der klanglichen Übersetzung der Verzerrungen und Spannungen der sozialen Struktur der argentinischen Hafenstadt Buenos Aires.
@@ -28,9 +28,9 @@ Es war das Ergebnis der klanglichen Übersetzung der Verzerrungen und Spannungen
 Vom Ende des 19. bis Anfang des 20. Jahrhunderts entstand Buenos Aires durch einen raschen Zustrom von Einwanderern und entwickelte sich zu einer weltweit einzigartigen multiethnischen Stadt.
 Im Mittelpunkt standen Spanien und Italien, in denen sich osteuropäische, afrikanische und indigene Kulturen vermischten und Arbeit, Armut und Einsamkeit an der Tagesordnung waren.
 
-Der Tango wuchs auf der „Unterseite“ dieser Stadt auf.
-Es wurde nicht auf den Bällen der High Society getanzt, sondern in den Innenhöfen von Hafenarbeiterkneipen, Pensionen und Bordellen.
-Körperliche Distanz, Sichtlinie und Improvisation waren wichtiger als musikalische Raffinesse.
+Tango wuchs auf der „Unterseite“ dieser Stadt auf.
+Es wurde nicht auf den Bällen der gehobenen Gesellschaft aufgeführt, sondern in den Innenhöfen von Hafenarbeiterkneipen, Pensionen und Bordellen.
+Körperliche Distanz, Blickkontakt und Improvisation waren wichtiger als musikalische Raffinesse.
 
 > Tango ist eine Kultur, die immer an der Peripherie und nicht im Zentrum der Gesellschaft ihren Anfang nahm.
 

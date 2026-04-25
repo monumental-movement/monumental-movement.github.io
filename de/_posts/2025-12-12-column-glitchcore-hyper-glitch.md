@@ -21,7 +21,7 @@ title: '[Kolumne] Glitchcore / Hyper-Glitch Pop bricht weiter zusammen, die Zuku
 Text: mmr｜Thema: Entstehungsprozess von Glitchcore/Hyper-Glitch, akustische Techniken, kultureller Hintergrund, repräsentative Künstler, Entwicklung in den 2020er Jahren und Zukunftsaussichten
 
 Glitchcore und Hyper-Glitch sind ein seit Ende der 2010er Jahre auftretender Trend in der internetgenerierten Pop-/Elektronikmusik, bei dem „Korruption“, „Fragmentierung“ und „Überlastung“ im Mittelpunkt seiner Ästhetik stehen.
-Klickgeräusche, Rauschen, digitale Verzerrung, Tonhöhenverschiebungen, Vocaloid-ähnliche Verarbeitung, schnelle Songentwicklung, bizarre Temposchwankungen – das herausragendste Merkmal dieses Albums ist, dass es versucht, ein „Gleichgewicht zwischen Exzess und Verfall“ auszudrücken, indem es diese Elemente in einem äußerst poppigen Kontext verschmilzt.
+Klickgeräusche, Rauschen, digitale Verzerrung, Tonhöhenverschiebungen, Vocaloid-ähnliche Verarbeitung, schnelle Songentwicklung, seltsame Temposchwankungen – das herausragendste Merkmal dieses Albums ist, dass es versucht, ein „Gleichgewicht zwischen Exzess und Verfall“ auszudrücken, indem es diese Elemente in einem äußerst poppigen Kontext verschmilzt.
 
 Acts wie SOPHIE, A. G. Cook und 100 Gecs brachten diesen „Broken Pop“ auf ein internationales Niveau und bewiesen, dass viele Künstler mithilfe von DAWs und Sample-Packs „aus ihren eigenen Räumen heraus eine globale Musiksprache erschaffen“ konnten.
 
@@ -180,7 +180,7 @@ Beispielmethode:
 * Teilen Sie die Proben in Millisekunden
 * Zufällige Platzierung von Rauschfragmenten
 * Transienten absichtlich zerstören
-* Häufiger Einsatz von Reverse und Time Stretch
+* Häufige Verwendung von Reverse und Time Stretch
 
 ---
 
@@ -192,7 +192,7 @@ Punkt:
 
 * Gleichzeitiges Brennen der Stiele
 * Überlagerung dichter Schichten
-* Zu niedrige Reichweite
+* Zu viel Bass
 * Extremer Einsatz von Schalldruckbegrenzern
 
 ---

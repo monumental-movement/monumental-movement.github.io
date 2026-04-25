@@ -34,7 +34,7 @@ Als Pioniere gelten insbesondere die folgenden zwei Gruppen:
 
 - [**DAF**](https://amzn.to/4ogYOH1)（Deutsch Amerikanische Freundschaft、ドイツ）
 
-Durch den vollen Einsatz kalter, scharfer Elektronik, heftiger Minimalbeats und militaristischer Vocals schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
+Indem sie kalte, scharfe Elektronik, gewalttätige Minimalbeats und militaristische Vocals voll ausnutzten, schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
 
 
 <hr>
@@ -45,7 +45,7 @@ Um es einfach auszudrücken: Der Sound von EBM ist „anorganisch und physisch�
 
 #### Harter und minimaler Beat
 
-- Hauptsächlich im 4/4-Takt, BPM etwa 120–140
+- Hauptsächlich im 4/4-Takt, BPM etwa 120-140
 
 - Mechanischer Rhythmus wie Industriemaschinen
 
@@ -157,7 +157,7 @@ EBM hatte auch großen Einfluss auf die folgenden Genres:
 ### Verbindung zur Clubkultur: EBM als Körpermusik
 EBM ist nicht nur Musik, die man zu Hause hört, sondern hat einen sehr starken Aspekt als „Musik zum Tanzen“. Seit den späten 1980er Jahren hat sich EBM zu einer etablierten Kultur entwickelt, die sich auf bestimmte Nachtclubs und Festivals (z. B. Wave-Gotik-Treffen, Amphi Festival) konzentriert, begleitet von dunkler Kleidung, Leder und Cyberkostümen.
 
-In den 1990er Jahren, als man sie noch als „Old School EBM“ betrachtete, verzweigte sich die Szene wie folgt:
+In den 1990er Jahren, als man damals noch als „Old School EBM“ galt, verzweigte sich die Szene wie folgt:
 
 - Futurepop（[VNV Nation](https://amzn.to/4942pDT)、[Covenant](https://amzn.to/4n5mRYq)など）
 

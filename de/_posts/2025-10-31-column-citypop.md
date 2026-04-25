@@ -61,7 +61,7 @@ Von den späten 1970er bis in die 1980er Jahre erlangte die japanische Gesellsch
 Haushaltsgeräte, Autos, Mode und Musik symbolisierten den „urbanen Lebensstil“.
 Sonys Walkman (1979) leitete eine Revolution im „Musik-Mitnehmen“ ein und City Pop wurde zum idealen Soundtrack.
 
-Nach und nach eröffnen UKW-Sender und DJs spielen die neuesten Hits auf Englisch. Die Akkordfolge erinnert an die Winde der amerikanischen Westküste und wird mit Bildern von Städten wie Tokio, Yokohama und Kobe in Verbindung gebracht.
+Nach und nach eröffnen UKW-Sender und DJs spielen die neuesten Hits auf Englisch. Die Akkordfolge, die an die Winde der amerikanischen Westküste erinnert, ist mit Bildern von Städten wie Tokio, Yokohama und Kobe verknüpft.
 Man kann sagen, dass die damaligen Zuhörer durch City-Pop ihr „Leben in der Stadt“ zum Ausdruck brachten.
 In dieser Zeit erreichte Japans Aufnahmetechnologie das höchste Niveau der Welt und die Klangqualität der Schallplatten war extrem hoch. Es war eine Zeit, in der die Stadt sowohl akustisch als auch gesellschaftlich großen Anklang fand.
 
@@ -70,11 +70,11 @@ In dieser Zeit erreichte Japans Aufnahmetechnologie das höchste Niveau der Welt
 ## 4. Musikalische Eigenschaften: Akkorde, Grooves, Aufnahmeästhetik
 
 Das Herz des City-Pops liegt in harmonischer Raffinesse und rhythmischer Flexibilität.
-Die Akkordfolge verwendet häufig die Dur-7 und -9, wodurch ein schwebendes Gefühl entsteht. Der melancholische Moment der unerwarteten Veränderung in Diminish lädt den Hörer in die „Nachtstadt“ ein.
+Die Akkordfolge verwendet häufig die Dur-7 und -9, wodurch ein schwebendes Gefühl entsteht. Der melancholische Moment des unerwarteten Wechsels in Diminish lädt den Hörer in die „Nachtstadt“ ein.
 Obwohl der Rhythmus AOR-ähnlich ist, nimmt er die Disco- und Soul-Trends der Zeit auf und zeichnet sich durch einen leichten Groove von etwa 110 BPM aus.
 
 In Bezug auf die Aufnahme glänzt die „Ästhetik des Raums“, die von der analogen Ausrüstung und den erfahrenen Ingenieuren der damaligen Zeit geschaffen wurde.
-Die Hallverarbeitung und der Präzisions-EQ des Studios sorgten für Transparenz und Feuchtigkeit.
+Die Hallverarbeitung und EQ-Präzision des Studios erreichten sowohl „Transparenz“ als auch „Feuchtigkeit“.
 Insbesondere Tatsuro Yamashitas „SPACY“ (1978) wird als monumentales Werk überliefert, das die Kunstfertigkeit der Studioaufnahme an ihre ultimative Grenze brachte.
 Die Perfektion dieses Klangs ist einer der Gründe, warum er mehr als 40 Jahre später in Übersee „entdeckt“ wurde.
 
@@ -110,7 +110,7 @@ Obwohl sie nichts über die 80er Jahre wissen, teilen sie durch Daten die „Eri
 
 ## 7. Die Perspektive ausländischer DJs: Vom Zuhören auf der Tanzfläche
 
-Überall brachten DJs City Pop in Clubs: Frankreich, Südkorea, London, LA.
+Überall brachten DJs City Pop in die Clubs: Frankreich, Südkorea, London, LA.
 Night Tempo, Yung Bae und Macross 82-99 gehören zu den bekanntesten.
 Sie probierten und interpretierten City-Pop neu und schufen so ein neues Genre namens „Future Funk“.
 

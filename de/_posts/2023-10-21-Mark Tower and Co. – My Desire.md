@@ -9,13 +9,13 @@ permalink: /de/mark-tower-and-co-my-desire/
 tags:
 - Euro Beat
 - Hi NRG
-title: Mark Tower & Co. – Mein Wunsch
+title: Mark Tower & Co. – My Desire
 ---
 
 
-Komponiert von Giuliano Crivellente, Mauro Farina. Der Sänger ist Gianni Coraini (auch bekannt als Ken Laszlo, DJ NRG und viele andere).
+作曲は、Giuliano Crivellente（ジュリアーノ・クリヴェレンテ）, Mauro Farina（マウロ・ファリーナ）。vocalは、Gianni Coraini（別名義：Ken Laszlo/ケン・ラズロ、DJ NRGなど多数）。
 
-„Mark Tower & Co. – My Desire“ wurde 1990 vom italienischen Italo Disco- und Eurobeat-Label Asia Records veröffentlicht.
+「Mark Tower & Co. – My Desire」は、イタリアのイタロディスコ＆ユーロビートレーベルAsia Recordsより1990年にリリース。
 
 #### Trackliste
 ```md

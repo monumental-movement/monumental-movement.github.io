@@ -77,7 +77,7 @@ Es liegt jedoch ein seltsames **„Vergnügen“** darin.
 Es komprimierte den Körper des Zuhörers und ließ ihn gleichzeitig los – es war ein Moment der **Angst und Euphorie**.
 
 Viele DJs lassen diesen Track zu Spitzenzeiten fallen,
-Berichten zufolge herrschte auf dem Clubgelände ein Moment „heftiger Euphorie“.
+Berichten zufolge herrschte im Club ein Moment „heftiger Euphorie“.
 Dieses Lied ist nicht nur ein Hit,
 Es war ein Symbol für die Wiederbelebung von „Gefühlen ohne Emotionen“ im Techno.
 
@@ -210,7 +210,7 @@ flowchart TD
 ---
 
 > „Als ich zum ersten Mal hörte, dass „Why They Hide Their Bodys…“
-> Der Verein fühlte sich für einen Moment wie „eingefroren“.
+> Der Verein hatte für einen Moment das Gefühl, „eingefroren“ zu sein.
 > Angst und Vergnügen kommen gleichzeitig.
 > So einen Lkw gibt es alle 10 Jahre. ”
 > —— **Ben UFO (Hessle Audio)**
@@ -231,7 +231,7 @@ flowchart TD
 
 ---
 
-> „Wenn ich Blawan auf der DJ-Seite spiele,
+> „Wenn ich Blawan auf dem DJ-Gelände spiele,
 > Jeder steht für einen Moment bereit.
 >Aber dann lachst du.
 > Ihr Körper reagiert von selbst. Das ist nicht logisch. ”
@@ -372,7 +372,7 @@ Daher behält sein Techno eine „menschliche Instabilität“.
 
 ---
 
-### Nachtrag
+### 後記
 
 Schwere Bässe hallen durch die nächtliche Stadt.
 In einer Zeit, in der jeder Ton über sein Smartphone konsumiert,

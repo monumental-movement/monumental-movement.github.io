@@ -21,7 +21,7 @@ Text: mmr｜Thema: Von Happy End über YMO bis Ambient – ​​Auf den Spuren 
 
 **Haruomi Hosono** ist eine Musikerin, die seit einem halben Jahrhundert die japanische Popmusik verändert.
 Von den späten 1960er Jahren bis zur Gegenwart hat seine Musik einen einzigartigen Horizont geschaffen, indem sie „die Ära veränderte“, anstatt „die Ära zu definieren“.
-Verschiedene Kulturen, Humor, Nostalgie, Technologie – all das vermischt sich in Hosonos Sound.
+Verschiedene Kulturen, Humor, Nostalgie, Technologie – all das vermischt sich mit Hosonos Sound.
 
 ---
 
@@ -69,11 +69,11 @@ Mit dem Aufkommen von Folk und GS begann die Suche nach einem neuen Ausdruck nam
 Happy End war die erste Band, die „japanische Rhythmen erkundete, die keine Imitationen englischer Rhythmen waren“.
 
 #### Produktionsumgebung
-Die damaligen Aufnahmen fanden im Vorgängerstudio des Yotsuya Onkyo House statt. Warmer Klang von analogen Bandaufnahmen und Vintage-Geräten.
+Die damaligen Aufnahmen fanden im Vorgängerstudio des Yotsuya Onkyo House statt. Warmer Klang von analoger Bandaufnahme und Vintage-Geräten.
 Obwohl sie von amerikanischen Bands wie The Band und Buffalo Springfield beeinflusst wurden, stellten sie literarische japanische Texte in den Vordergrund.
 
 #### Anekdote
-Hosono, der über die vielen Geräteprobleme während der Aufnahme frustriert war, sagte Berichten zufolge: „Ich möchte einen Ort, an dem ich den Ton etwas besser aufnehmen kann.“
+Hosono, der über die vielen Geräteprobleme während der Aufnahme frustriert war, soll gesagt haben: „Ich möchte einen Ort, an dem ich den Ton etwas besser aufnehmen kann.“
 Danach wurde es für ihn zur Grundlage, seine eigenen Klangideale zu verfolgen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -87,7 +87,7 @@ Danach wurde es für ihn zur Grundlage, seine eigenen Klangideale zu verfolgen.
 - „Caramel Mama“ (1975)
   
 Sie verschmelzen Elemente aus Folk und Psychedelic Rock und zeigen eine Musikalität, die direkt mit dem späteren Happy End verbunden ist.
-Hosono beteiligte sich am Bass und am Keyboard und stellte seine Improvisations- und Arrangierfähigkeiten unter Beweis.
+Hosono war am Bass und am Keyboard beteiligt und stellte seine Improvisations- und Arrangierfähigkeiten unter Beweis.
 
 #### Historischer Hintergrund
 Es war eine Übergangszeit, in der Folk- und psychedelische Musik in Japan Aufmerksamkeit erregte und eine urbane Rockkultur entstand.
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) ist eine revolutionäre Einheit, die das Wort Techn
 Als Anführer nutzte Hosono Rhythmusmaschinen und Sequenzer, um asiatischen Humor und futuristische Klänge zu verbinden.
 
 #### Historischer Hintergrund
-In den frühen 1980er Jahren erreichte Japan den Höhepunkt seines technologischen und wirtschaftlichen Wohlstands.
+In den frühen 1980er Jahren erreichte Japan den Höhepunkt seines technologischen und wirtschaftlichen Wachstums.
 Eine Zeit, in der die Entwicklung von Computern, Videospielen und elektronischen Musikinstrumenten mit der Musik verschmolzen war.
 Der Sound von YMO war ein Symbol für Japan als elektronische Nation.
 
@@ -274,7 +274,7 @@ Im Zeitalter von KI und Streaming bringt Hosono erneut das Thema „Ruhe“ zur 
 Seine Werke, die die Grenzen zwischen elektronischen und natürlichen Klängen auflösen, haben einen starken Einfluss auf jüngere Künstlergenerationen.
 
 #### Historischer Hintergrund
-Einsamkeit und die Beschleunigung der Digitalisierung seit der Pandemie.
+Einsamkeit und beschleunigte Digitalisierung seit der Pandemie.
 Hosonos Sound wird als ein Akt neu bewertet, der „Zuhören“, „Ruhe“ und „Menschlichkeit“ wiederherstellt.
 
 #### Produktionsumgebung

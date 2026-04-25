@@ -22,7 +22,7 @@ title: STS9 – Artefakt
 
 
 
-„Artifact“ ist das dritte Studioalbum von Sound Tribe Sector 9 (STS9), das 2005 veröffentlicht wurde. Dieses Werk stellt den Sound und die Kreativität von STS9 voll zur Geltung und hat in der elektronischen Musik- und Jam-Band-Szene für seinen einzigartigen Sound und seinen innovativen Ansatz große Anerkennung gefunden.
+„Artifact“ ist das dritte Studioalbum von Sound Tribe Sector 9 (STS9), das 2005 veröffentlicht wurde. Dieses Werk stellt den Sound und die Kreativität von STS9 voll zur Geltung und hat in der elektronischen Musik- und Jam-Band-Szene für seinen einzigartigen Sound und seinen innovativen Ansatz großes Lob erhalten.
 
 Ihr Sound kombiniert Elemente aus verschiedenen Genres, darunter Ambient, Electronica, Jazz, Funk und Dubstep.
 

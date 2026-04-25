@@ -206,9 +206,9 @@ Energy Dome ist kein Helm, der die Zukunft verschließt.
 
 #### Devo – Neue Traditionalisten
 
-„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo aus dem Jahr 1981 und das erste komplett selbstproduzierte Album der Band.
+「New Traditionalists」は1981年にリリースされたUSのニューウェイヴバンド、Devo（ディーヴォ）の4作目のアルバムであり、バンド初の完全セルフプロデュース・アルバム。
 
-Nach dem Erfolg ihres vorherigen Albums Freedom Of Choice (Desire Psychology), das „Whip It“ enthielt, hat dieses Album eine minimalistische Atmosphäre mit einem Schwerpunkt auf Synthesizer-Riffs, Rhythmus und elektronischer Percussion, mit dem Konzept der „Deevolution“.
+「Whip It」が収録された前作のアルバムFreedom Of Choice（欲望心理学）のヒットを受けて、このアルバムでは「脱進化」をコンセプトにシンセサイザーのリフとリズム＆電子パーカッションに重点を置いたミニマルな雰囲気になっている。
 
 #### Trackliste
 ```md

@@ -52,9 +52,9 @@ color: #fff;
 
 Die Ursprünge von PCO gehen auf ein seltsames Ereignis im Jahr 1972 zurück, als Gründer Simon Jeffes „aufgrund einer Lebensmittelvergiftung hohem Fieber erlag“.
 Dabei hatte er eine tagtraumartige Inspiration, die später als „Penguin Café-Vision“ bekannt wurde.
-Es existierte eine „Utopie“, in der sich Menschen frei versammeln und ohne Disziplin oder Form weiter Musik machen konnten.
+Es gab eine „Utopie“, in der sich Menschen frei versammeln und ohne Disziplin oder Form weiter Musik machen konnten.
 
-Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitive Struktur der Minimal Music vereint.
+Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitiven Strukturen der Minimal Music vereint.
 Die Musik war weder traditionell noch avantgardistisch, sondern kristallisierte sich als ein Klang heraus, der nur hier zu finden war.
 
 ---
@@ -84,7 +84,7 @@ Unter der Leitung von Simon Jeffes nehmen ehemalige klassische Musiker, Volksmus
 ### ● Der Kern ihrer Ideologie
 
 Jeffes beschrieb seine Musik als „spontane Strukturen“.
-Es handelt sich nicht um die Regeln der westlichen Musik oder die Traditionen der Volksmusik, sondern um einen **organischen Prozess**, bei dem eine Anhäufung von Klängen durch Zufall entsteht.
+Dabei handelt es sich nicht um die Regeln der westlichen Musik oder die Traditionen der Volksmusik, sondern um einen **organischen Prozess**, bei dem durch Zufall eine Ansammlung von Klängen entsteht.
 Diese „Spontaneität“ ist der Grund dafür, dass der Sound von PCO zwar manchmal magisch ist, aber dennoch ein warmes, alltägliches Gefühl hat.
 
 ---
@@ -133,7 +133,7 @@ Ein seltsames Musikstück, in dem plötzlich ein zweifarbiges Telefon über eine
 
 * Looping von Telefonaudio durch Bandmanipulation
 * Elektronischer Klang, der als „Fremdkörper“ über dem Ensemble existiert
-* Humorvoll und gleichzeitig postmodern
+* Humorvoll und zugleich postmodern
 
 In Bezug auf Minimal + Found Sound überschneidet sich dieses Werk mit der Abstammung von Brian Eno.
 
@@ -153,7 +153,7 @@ Folklore und sich wiederholende Strukturen verschmelzen und der spätere Stil is
 ### ● *Penguin Cafe Orchestra* (1981)
 
 Enthält das berühmte Lied „Telephone and Rubber Band“.
-Er hat einen starken volksmusikalischen Ansatz und hat sich eine einzigartige „Tanzqualität“ angeeignet.
+Es hat einen starken volksmusikalischen Ansatz und hat eine einzigartige „Tanzqualität“ erlangt.
 
 ### ● *Rundfunk von zu Hause aus* (1984)
 
@@ -198,14 +198,14 @@ Die Musik von PCO ist emotional, aber nicht beschreibend, daher wird sie als „
 * Penguin Cafe (Nachfolgeprojekt von Sohn Arthur Jeffes)
 * Folk-/Minimalisten-Künstler
 
-PCOs Ansatz der „Abwesenheit von Genres“ und „einer Verschmelzung von Kammermusik und Volksinstrumenten“ war ein Vorläufer des modernen postklassischen Trends.
+PCOs Ansatz der „Abwesenheit von Genres“ und „einer Verschmelzung von Kammermusik und Volksinstrumenten“ war ein Vorreiter des modernen postklassischen Trends.
 
 ---
 
 ## Kapitel 6: Der Tod und die Folgen von Simon Jeffes
 
 1997 verstarb Simon Jeffes im Alter von 48 Jahren an einem Gehirntumor.
-Obwohl es für die Musikwelt ein großer Verlust war, werden die verbleibenden Aufnahmen, unveröffentlichten Noten und Aufführungspartituren immer noch neu bewertet.
+Obwohl es ein großer Verlust für die Musikwelt war, werden die verbleibenden Aufnahmen, unveröffentlichten Noten und Aufführungspartituren immer noch neu bewertet.
 
 Später startete sein Sohn **Arthur Jeffes** ein neues Projekt unter dem Namen „Penguin Cafe“.
 Obwohl sie den Geist von PCO übernehmen, touren sie als moderneres Ensemble durch die Welt.

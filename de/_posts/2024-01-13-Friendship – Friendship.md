@@ -28,7 +28,7 @@ Im Alter von 10 Jahren machte er seine ersten Aufnahmeerfahrungen mit einer Rock
 
 Als Teenager arbeitete er sowohl als Musiker als auch als Schauspieler in Mexiko, bevor er nach Boston zog und sich am Berklee College of Music einschrieb.
 
-Er erlangte 1972 seinen Bachelor-Abschluss in Komposition. Während seines Studiums trat er auch mit dem Vibraphonisten Gary Burton auf, einem Fakultätsmitglied der Schule.
+Er erwarb 1972 seinen Bachelor-Abschluss in Komposition. Während seines Studiums trat er auch mit dem Vibraphonisten Gary Burton auf, einem Fakultätsmitglied der Schule.
 
 Anschließend tourte er mit Künstlern wie Johnny Mathis, Michel Legrand und Henry Mancini, bevor er 1976 nach Los Angeles zog und eine Studiokarriere mit mehreren Genres begann.
 

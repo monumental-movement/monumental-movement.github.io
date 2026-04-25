@@ -19,7 +19,7 @@ title: '[Spalte] Mathcore / Experimental Metal Gründliche Erklärung: Extrem ko
 
 ## Mathcore / Experimenteller Metal
 
-Text: mmr｜Thema: Geschichte, technische Merkmale, Hauptwerke, Analyse der Songstruktur, Aufführungstechniken und Einfluss auf verwandte Genres
+Text: mmr｜Thema: Geschichte, technische Merkmale, Hauptwerke, Analyse der Liedstruktur, Aufführungstechniken und Einfluss auf verwandte Genres
 
 **Mathcore** ist einer der anspruchsvollsten Stile der Heavy-Musik, der sich von Ende der 1990er bis in die 2000er Jahre rasant weiterentwickelte und sich durch mathematische Komplexität, nichtlinearen Verlauf und extreme Dynamik auszeichnet. Während dieses Genre auf der Aggressivität von Hardcore und Metalcore basiert, integriert es Elemente von Jazz, experimenteller Musik und Progressive Metal, unterwandert aktiv den traditionellen 4/4-Takt und verfolgt eine seltsame Taktstruktur, die man als mathematisch bezeichnen kann.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 Die Wurzeln von Mathcore liegen im **Hardcore-Punk** und **Metalcore** der späten 1980er und frühen 90er Jahre. Insbesondere Bands wie Converge, Botch und Coalesce begannen, nicht nur Aggression, sondern auch **unregelmäßige Riffstrukturen, Akkordausbrüche und plötzliche Tempowechsel** einzuführen und bereiteten damit die Bühne für das, was später Mathcore werden sollte.
 
-### Untergrundszene Boston-New Jersey
+### Untergrundszene aus Boston und New Jersey
 
 DEP entstand Ende der 1990er Jahre im Nordosten der USA, zu einer Zeit, als die Fusion von Hardcore- und Noise-Rock aktiv war, und durch die Kombination mit „Technokratismus“ entstanden neue Variationen mit beispielloser Geschwindigkeit und Komplexität.
 
@@ -130,7 +130,7 @@ flowchart TD
 
 * Umgang mit **metrischer Modulation** (der Illusion des Tempos)
 * Mehrstufige Anordnung von Snare-Akzenten
-* Polyrhythmische gleichzeitige Aussprache (z. B. 5 verbundene Figuren über 4/4)
+*Polyrhythmische simultane Aussprache (z. B. 5 verbundene Figuren über 4/4)
 
 ### Basis
 

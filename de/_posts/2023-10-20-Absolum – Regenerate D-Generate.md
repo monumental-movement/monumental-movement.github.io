@@ -9,7 +9,7 @@ permalink: /de/absolum-regenerate-d-generate/
 tags:
 - Trance
 - Psychedelic
-title: Absolum – Regenerate D-Generate
+title: Absolum – D-Generieren regenerieren
 ---
 
 

@@ -19,7 +19,7 @@ title: '[Kolumne] Niedergang und Wiederbelebung der Radiokultur aus musikkulture
 
 ## Ein Gerät namens Radio, das vor der Musik existierte
 
-Text: mmr｜Thema: Das Medium der Stimme, das sich durch Musik verwandelt – Über die Kulturgeschichte vom Radio bis zum Podcast
+Text: mmr｜Thema: Das Medium der Stimme, das sich durch Musik verändert – Kulturgeschichte vom Radio bis zum Podcast
 
 
 Radio wird oft als Musikmedium bezeichnet, doch als es erfunden wurde, bestand seine Essenz im gleichzeitigen Teilen von Audio.
@@ -116,7 +116,7 @@ Das Radio wird als „Stimme, die keine Konzentration erfordert“ überleben.
 Während dieser Zeit wird die Musik zur Hintergrundmusik und die Erzählung wird vereinfacht.
 Obwohl sein Einfluss abgenommen hat, ist seine Verbreitung im Alltag geblieben.
 
-> Radio blieb als Hintergrundgeräusch erhalten.
+> Das Radio blieb als Hintergrundgeräusch erhalten.
 
 ---
 
@@ -136,7 +136,7 @@ Radio muss keine „Sendung“ mehr sein.
 ## Den Podcast neu erfinden
 
 Podcasts waren Radio ohne Sender.
-Von Einzelpersonen produziert, von Einzelpersonen gesprochen und Einzelpersonen erreicht.
+Von Einzelpersonen erstellt, von Einzelpersonen gesprochen und Einzelpersonen erreicht.
 
 Im Gegensatz zur Musikverbreitung steht bei Podcasts das Geschichtenerzählen im Vordergrund.
 Musik wird zu einem Objekt, das analysiert, erinnert und kontextualisiert werden muss.
@@ -161,7 +161,7 @@ Dies ist eine persönlichere, umfassendere Neuinterpretation der DJ-Kultur aus d
 
 
 Die traditionelle Radiowirtschaft war auf Werbung angewiesen.
-Die Struktur, in der der Wert anhand der Einschaltquoten und der Anzahl der Zuschauer ermittelt wurde, wurde für die Ausstrahlung im großen Maßstab optimiert.
+Die Struktur, in der der Wert anhand der Einschaltquoten und der Reichweite ermittelt wurde, wurde für eine groß angelegte Ausstrahlung optimiert.
 
 Nischenmusikkulturen und spezialisierte Narrative lassen sich in diesem Modell nur schwer etablieren.
 
@@ -174,7 +174,7 @@ Nischenmusikkulturen und spezialisierte Narrative lassen sich in diesem Modell n
 
 Podcasts haben kein einheitliches Einnahmemodell.
 
-Werbung, Sponsoring, Produkte und Veranstaltungen.
+Werbung, Sponsoring, Produkte und Events.
 Mehrere Einnahmequellen werden kombiniert und die Urheber bleiben unabhängig.
 
 ---

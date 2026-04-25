@@ -29,7 +29,7 @@ Goa Gil ist ein amerikanischer DJ und eine der zentralen Figuren aus den Anfäng
 * Bekannt für lange Sets von über 10 Stunden
 * Gestorben im Jahr 2023
 
-> DJing war für ihn ein Akt der Demontage und Rekonstruktion der Zeit.
+> Für ihn war DJing ein Akt der Demontage und Rekonstruktion der Zeit.
 
 ---
 
@@ -121,7 +121,7 @@ Das Publikum tanzt durch die Nacht und teilt ein Gefühl der Einheit, während d
 
 ### 5. Von Goa-Trance zu Psytrance
 
-In den späten 1990er Jahren verlagerte sich der Sound hin zum dunkleren, schnelleren Psytrance. Auch sein Set hat er diesem Trend entsprechend weiterentwickelt.
+In den späten 1990er Jahren verlagerte sich der Sound hin zum düstereren, schnelleren Psytrance. Auch sein Set hat er diesem Trend entsprechend weiterentwickelt.
 
 Der Bass wird stärker betont und die Basslinie ist komplexer. Die Anzahl der Geräusche nimmt zu und der Raum wird dichter. Die lange Satzstruktur wurde jedoch beibehalten.
 
@@ -197,7 +197,7 @@ Die Partykultur in Goa bot ein anderes Zeitdesign als kommerzielle Clubs.
 * DJ ist die Person, die den Abend gestaltet
 * Dawn ist ein wichtiges Produktionselement
 * Gemeinschaftsaufbau durch Tanz
-* Nicht-kommerzielle/mobile Kultur
+* Nichtkommerzielle/mobile Kultur
 
 Die 24-Stunden-Termine der heutigen großen Psychedelic-Festivals sind eine Erweiterung dieser Kultur.
 

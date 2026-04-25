@@ -23,7 +23,7 @@ Text: mmr｜Thema: Wohin entwickelt sich die Underground-Musik angesichts der Ve
 Der Begriff Underground-Musik ist nicht nur ein Genrename.
 Es handelt sich um ein kulturelles Konzept, das sich auf Musik außerhalb von Verbreitung, Macht, Medien und Gemeinschaft bezieht.
 
-In den Vereinigten Staaten begann man in den 1960er Jahren, den Begriff „Underground“ für Rock-, Jazz- und Folk-Bewegungen zu verwenden, über die in den Mainstream-Medien nicht berichtet wurde.
+In den 1960er Jahren begann man in den Vereinigten Staaten den Begriff „Underground“ für Rock-, Jazz- und Folk-Bewegungen zu verwenden, über die in den Mainstream-Medien nicht berichtet wurde.
 Vor allem in San Francisco und New York entstanden durch Verbindungen zu alternativen Zeitungen und der Kunstszene einzigartige Kulturräume.
 
 Es gibt drei Merkmale der Underground-Musik.
@@ -114,7 +114,7 @@ In den 2000er Jahren veränderte sich die Struktur der Underground-Musik erhebli
 
 Der Grund ist das Internet.
 
-Das Aufkommen von MySpace, Blogs, Foren usw. hat die Art und Weise, wie Musik entdeckt wird, verändert.
+Das Aufkommen von MySpace, Blogs, Foren usw. hat die Art und Weise, wie wir Musik entdecken, verändert.
 
 Es war einmal
 
@@ -183,7 +183,7 @@ Auf Bandcamp
 
 Eine Struktur war geboren.
 
-Dies kann als eine digitale Version der Schallplattenkultur betrachtet werden.
+Dies kann als eine digitale Version der Plattenkultur betrachtet werden.
 
 > Auch im Streaming-Zeitalter schafft Underground-Musik weiterhin eine eigene Wirtschaftszone.
 
@@ -254,7 +254,7 @@ Die Essenz der Underground-Musik bleibt jedoch dieselbe.
 
 Es ist eine Kultur, die außerhalb des Mainstreams entsteht und von der Gemeinschaft getragen wird.
 
-Wenn man sich die Geschichte anschaut, schien die Underground-Musik immer kurz davor zu stehen, zu verschwinden, um dann wieder aufzutauchen.
+Wenn man sich die Geschichte anschaut, schien Underground-Musik immer kurz davor zu stehen, zu verschwinden, um dann wieder aufzutauchen.
 
 Der Grund ist einfach.
 

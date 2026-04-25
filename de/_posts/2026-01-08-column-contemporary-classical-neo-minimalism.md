@@ -46,9 +46,9 @@ color: #fff;
 
 ### Die Etablierung des Minimalismus des 20. Jahrhunderts
 
-Der in den 1960er Jahren von La Monte Young, Terry Riley, Steve Reich und Philip Glass in den Vereinigten Staaten gegründete Minimalismus zeichnete sich durch kurze Wiederholungen, allmähliche Veränderungen und klare metrische Strukturen aus. Dies wird als Reaktion auf die damalige Selleriemusik und die immer komplexer werdende Avantgardemusik verstanden.
+Der in den 1960er Jahren von La Monte Young, Terry Riley, Steve Reich und Philip Glass in den Vereinigten Staaten gegründete Minimalismus zeichnete sich durch kurze Wiederholungen, allmähliche Veränderungen und klare metrische Strukturen aus. Dies wird als Reaktion auf die Selleriemusik der Zeit und die immer komplexer werdende Avantgardemusik verstanden.
 
-Der Minimalismus beeinflusste schließlich die Oper, die Filmmusik und die Tanzmusik und wurde im späten 20. Jahrhundert in der klassischen Musik institutionell akzeptiert.
+Der Minimalismus beeinflusste schließlich die Oper, die Filmmusik und die Tanzmusik und wurde in der zweiten Hälfte des 20. Jahrhunderts in der klassischen Musik institutionell akzeptiert.
 
 ### Übergang zum Postminimalismus
 
@@ -120,7 +120,7 @@ Nils Frahm ist ein deutscher Komponist und Pianist, der schon in jungen Jahren e
 
 ### Studio und Instrumente
 
-Frahm nutzt sein eigenes Studio als Zentrum seiner Kreationen und kombiniert mehrere Klaviere, Synthesizer und Bandmaschinen. Seine Arbeit zeichnet sich durch eine Produktionsmethode aus, die Improvisation und Schnitt kombiniert.
+Frahm nutzt sein eigenes Studio als Zentrum seiner Kreationen und kombiniert mehrere Klaviere, Synthesizer und Tonbandgeräte. Seine Arbeit zeichnet sich durch eine Produktionsmethode aus, die Improvisation und Schnitt kombiniert.
 
 > „Er unterscheidet sich von traditionellen klassischen Komponisten dadurch, dass Aufführung, Komposition und Aufnahme nicht getrennt sind.“
 

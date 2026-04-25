@@ -20,7 +20,7 @@ title: '[Kolumne] Warum Lo-Fi-Hip-Hop zum Standard für Studium und Beruf geword
 
 ## Was ist Lo-Fi-Hip-Hop?
 
-Text: mmr｜Thema: Untersuchung des historischen Hintergrunds der weltweiten Verbreitung von Lo-Fi-Hip-Hop als „Hintergrundmusik für Studium und Beruf“ und der Struktur seiner Popularität.
+Text: mmr｜Thema: Untersuchung des historischen Hintergrunds der weltweiten Unterstützung von Lo-Fi-Hip-Hop als „Hintergrundmusik für Studium und Beruf“ und der Struktur seiner Popularität.
 
 Lo-Fi-Hip-Hop ist ein Subgenre des instrumentalen Hip-Hop, das sich durch absichtlich laute und verzerrte Texturen, einfache Beats und kurze Loop-Strukturen auszeichnet.
 Texte fehlen oft und das Tempo liegt bei etwa 60-90 BPM.
@@ -51,7 +51,7 @@ color: #fff;
 
 Lo-Fi-Hip-Hop hat seine Wurzeln im Underground-Hip-Hop der 1990er Jahre. Es zeichnete sich durch eine Sampling-basierte Produktionsmethode und einen kühlen, introspektiven Ton aus. J Dilla und Nujabes werden als ikonische Figuren genannt.
 
-J Dilla entwickelte ein einzigartiges Off-the-Grid-Drum-Arrangement, das sogenannte „Dilla-Feeling“. Nujabes machte Instrumental-Hip-Hop mit einer sanfteren Neuinterpretation von Jazz und Soul international populär. Seine Lieder wurden im TV-Anime „Samurai Champloo“ verwendet und erreichten ausländische Hörer.
+J Dilla entwickelte ein einzigartiges Off-the-Grid-Drum-Arrangement, das sogenannte „Dilla-Feeling“. Nujabes machte instrumentalen Hip-Hop mit einer sanfteren Neuinterpretation von Jazz und Soul international populär. Seine Lieder wurden im TV-Anime „Samurai Champloo“ verwendet und erreichten ausländische Hörer.
 
 Von Ende der 2000er bis Anfang der 2010er Jahre schritt die Digitalisierung von Produktionsumgebungen voran und der Online-Austausch von DAWs und gesampelten Materialien wurde alltäglich. Das Genre nahm langsam Gestalt an, wobei unbekannte Beatmaker Songs auf Plattformen wie Bandcamp und SoundCloud veröffentlichten.
 
@@ -88,7 +88,7 @@ Produzent mit Sitz in Tokio. Durch die Verschmelzung von Jazz und Hip-Hop präse
 
 Bekannt für seine Lo-Fi-Texturen und experimentellen Beats. Obwohl sie nicht direkt dem Lo-Fi-Genre zuzuordnen sind, werden die Einflüsse im Kontext des DIY-Geistes diskutiert.
 
-### Tomppabeats
+### Tompbeats
 
 Vertreter der SoundCloud-Generation der 2010er Jahre. Aufgrund seiner kurzen Schlaufenstruktur und nostalgischen Textur erfreute es sich großer Beliebtheit.
 
@@ -107,7 +107,7 @@ Ihre melodischen, auf Klavier basierenden Lo-Fi-Beats haben ihre Popularität im
 *Toppabeats „Monday Loop“
 * Idealismus „Schneefall“
 
-Gemeinsam ist diesen Liedern, dass sie komplexe Entwicklungen vermeiden und Textur und Atmosphäre in kurzen Schleifen präsentieren. Die Lautstärkeänderungen sind gering und es gibt keine Liedtexte, sodass man kaum abgelenkt werden kann.
+Gemeinsam ist diesen Liedern, dass sie komplexe Entwicklungen vermeiden und Textur und Atmosphäre in kurzen Schleifen präsentieren. Die Lautstärkeänderungen sind gering und es gibt keine Liedtexte, sodass Sie nicht abgelenkt werden.
 
 <div class="mermaid">
 flowchart LR
@@ -119,7 +119,7 @@ flowchart LR
     F --> G
 </div>
 
-> Akustische Merkmale haben eine Struktur, die gut mit der psychologischen Konzentration vereinbar ist.
+> Akustische Merkmale haben eine Struktur, die mit der psychologischen Konzentration gut vereinbar ist.
 
 ---
 
@@ -161,6 +161,6 @@ Musik mit repetitiver Struktur eignet sich für die Loop-Wiedergabe. Die 24-Stun
 
 Für eine Generation, die mit YouTube und Streaming aufgewachsen ist, sind algorithmische Empfehlungen und Playlist-Kultur die Norm, und Lo-Fi passte perfekt in diesen Kontext.
 
-> Die Popularität von Lo-Fi-Hip-Hop ist kein Zufall; Es ist geprägt von der Interaktion zwischen akustischen Strukturen und der digitalen Umgebung.
+> Die Popularität von Lo-Fi-Hip-Hop ist kein Zufall, sondern wird durch das Zusammenspiel von akustischen Strukturen und digitalen Umgebungen geprägt.
 
 ---

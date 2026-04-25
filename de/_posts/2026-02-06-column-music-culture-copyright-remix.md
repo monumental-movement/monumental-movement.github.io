@@ -86,7 +86,7 @@ Gleichzeitig gibt es Ausnahmen wie Zitate, persönliche Nutzung und Bildungsnutz
 
 Ein besonderes Merkmal des US-amerikanischen Urheberrechts ist die Fair-Use-Bestimmung. Es verfügt über die Flexibilität, eine Nutzung ohne Genehmigung zuzulassen, nachdem Faktoren wie der Zweck der Nutzung, die Art der Arbeit, der Umfang der Nutzung und die Auswirkungen auf den Markt umfassend ermittelt wurden.
 
-Bei Musiksampling-Klagen ist die Zahl der Fälle gestiegen, in denen sogar kurze Fragmente als rechtsverletzend beurteilt werden, modifizierte Verwendungen für Parodie und Kritik wurden jedoch bis zu einem gewissen Grad geschützt. Dieses Konzept der Verformbarkeit ist zu einem wichtigen Kriterium in der Video-Remix- und Meme-Kultur geworden.
+Bei Musiksampling-Klagen ist die Zahl der Fälle gestiegen, in denen sogar kurze Fragmente als rechtsverletzend beurteilt werden, modifizierte Verwendungen für Parodie und Kritik wurden jedoch bis zu einem gewissen Grad geschützt. Dieses Konzept der Wandelbarkeit ist zu einem wichtigen Kriterium in der Video-Remix- und Meme-Kultur geworden.
 
 > Das US-Recht weist eine Struktur auf, in der Meinungsfreiheit und Rechtsschutz nachträglich angepasst werden.
 
@@ -104,7 +104,7 @@ Die Richtlinie zum digitalen Binnenmarkt klärte die Verantwortlichkeiten der Pl
 
 ## Übersetzung und Zitierung nach japanischem Recht
 
-Das japanische Urheberrecht legt großen Wert auf das Recht zur Anpassung, und eine Verwendung, die eine Änderung mit sich bringt, erfordert im Allgemeinen eine Genehmigung. Zitate müssen strenge Anforderungen erfüllen und passen nicht unbedingt zu Remixen.
+Das japanische Urheberrecht legt großen Wert auf das Recht zur Anpassung, und eine Nutzung, die eine Änderung mit sich bringt, erfordert im Allgemeinen eine Genehmigung. Zitate müssen strenge Anforderungen erfüllen und passen nicht unbedingt zu Remixen.
 
 Andererseits wurden in den letzten Jahren Anstrengungen unternommen, um auf das digitale Zeitalter zu reagieren, beispielsweise durch die Einführung flexibler Regelungen zur Einschränkung von Rechten und die Einführung einer Nichtstraftat. Die Kultur der abgeleiteten Schöpfung hat sich auf einzigartige Weise zwischen Systemen und Praktiken entwickelt.
 

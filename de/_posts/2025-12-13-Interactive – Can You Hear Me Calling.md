@@ -9,15 +9,15 @@ permalink: /de/interactive-can-you-hear-me-calling/
 tags:
 - Trance
 - 90s
-title: Interaktiv – Können Sie mich rufen hören?
+title: Interactive – Can You Hear Me Calling
 ---
 
 
-Interactive ist eine deutsche elektronische Musikgruppe, die Anfang der 90er Jahre aktiv war. Einer der Mitglieder, Jens Lissat, war auch im Produktionsduo Off-Shore aktiv.
+Interactiveは、90年代前半に活躍したドイツのエレクトロニックミュージックグループ。メンバーの一人、Jens LissatはプロダクションデュオOff-Shoreでも活動していた。
 
-A ist ein Remix des deutschen Produzentenduos JLRZ (Jens Lissat & Ramon Zenker).
+Aは、ドイツのプロデューサーデュオJLRZ(Jens Lissat & Ramon Zenker)によるremix。
 
-B ist ein Remix von Resistance D, einem Live-Act für elektronische Tanzmusik, bestehend aus den Frankfurter Produzenten Maik Maurice und Pascal Dardoufas (Pascal FEOS).
+Bは、フランクフルトのプロデューサーであるMaik MauriceとPascal Dardoufas（Pascal FEOS)からなるエレクトロニックダンスミュージックライブアクトResistance Dによるremix。
 
 #### Trackliste
 ```md

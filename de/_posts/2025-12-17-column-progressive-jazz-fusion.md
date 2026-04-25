@@ -45,7 +45,7 @@ color: #fff;
 
 In den späten 1960er Jahren erweiterte der Jazz sein Vokabular über den Hardbop hinaus und gewann durch modales Spiel und freie Improvisation an Flexibilität in seiner zeitlichen Struktur. Andererseits wandelte sich die Rockmusik zu einer Musik, die auf lauten Lautstärken und sich wiederholenden Beats basierte und für große Hörumgebungen konzipiert war. Die Weiterentwicklung elektrischer Instrumente und Verstärkertechnologie hat die Verbindung zwischen beiden auf einer physischen und nicht auf einer ideologischen Ebene erweitert.
 
-In dieser Zeit führten viele Jazzmusiker E-Pianos, E-Bässe und verstärkte Gitarren ein und bildeten Ensembles, die auf Lautstärke, Sustain und Klangmanipulation basierten, die mit herkömmlichen akustischen Formationen unmöglich waren. Infolgedessen setzten sich neue Aufführungsformen mit langen Strukturen, kreisförmigen Riffs, komplexen Metren und sich wiederholenden Strukturen durch, und Progressive Jazz/Fusion wurde als eigenständige Strömung anerkannt.
+In dieser Zeit führten viele Jazzmusiker E-Pianos, E-Bässe und verstärkte Gitarren ein und bildeten Ensembles, die auf Lautstärke, Sustain und Klangmanipulation basierten, die mit herkömmlichen akustischen Formationen unmöglich waren. Infolgedessen setzten sich neue Aufführungsformen mit langen Strukturen, zyklischen Riffs, komplexen Metren und sich wiederholenden Strukturen durch, und Progressive Jazz/Fusion wurde als eigenständige Strömung anerkannt.
 
 ---
 
@@ -59,7 +59,7 @@ Diese Idee zeichnet sich dadurch aus, dass Improvisation als „Klangproduktion 
 
 ### Strukturmerkmale und Zeitgestaltung
 
-Die Songstrukturen von Weather Report verzichten oft auf ein lineares Format thematischer Präsentation und abwechselnder Soli und nehmen stattdessen eine zyklische und variable Struktur an. Kurze Motive und Akkordfragmente werden wiederholt, wobei sich Rhythmusanordnung, Tonumfang und Klangfarbe jedes Mal ändern, was zu einer allmählichen Transformation des gesamten Stücks führt.
+Die Liedstrukturen von Weather Report verzichten oft auf ein lineares Format thematischer Präsentation und abwechselnder Soli und nehmen stattdessen eine zyklische und variable Struktur an. Kurze Motive und Akkordfragmente werden wiederholt, wobei sich Rhythmusanordnung, Tonumfang und Klangfarbe jedes Mal ändern, was zu einer allmählichen Transformation des gesamten Stücks führt.
 
 <div class="mermaid">
 flowchart TD
@@ -74,7 +74,7 @@ In dieser Struktur wird die Zunahme oder Abnahme der akustischen Dichte selbst z
 
 ### Besetzung und Rollenverteilung
 
-Die Tastatur nutzt ein E-Piano oder einen Synthesizer, und anstatt einen harmonischen Verlauf zu präsentieren, erzeugt er eine Klangschicht aus gehaltenen Noten und fragmentierten Phrasen. Der Bass unterstützt nicht nur die tiefen Töne, er trägt auch die melodische Bewegung und gibt die Richtung des gesamten Liedes vor. Anstatt einen konstanten Takt beizubehalten, treiben die Trommeln das Ganze durch Textur, Akzentsetzung und Anpassung der Dichte voran.
+Die Tastatur nutzt ein E-Piano oder einen Synthesizer, und anstatt einen harmonischen Verlauf zu präsentieren, erzeugt er eine Klangschicht aus gehaltenen Noten und fragmentierten Phrasen. Der Bass unterstützt nicht nur die tiefen Töne, er trägt auch die melodische Bewegung und gibt so die Richtung des gesamten Liedes vor. Anstatt einen konstanten Takt beizubehalten, bestimmen die Trommeln das Ganze durch Textur, Akzentsetzung und Anpassung der Dichte.
 
 ---
 
@@ -82,9 +82,9 @@ Die Tastatur nutzt ein E-Piano oder einen Synthesizer, und anstatt einen harmoni
 
 ### Entstehung und Ästhetik der Band
 
-Das Mahavishnu Orchestra nahm seine Tätigkeit in den frühen 1970er Jahren auf und zeichnete sich durch extrem schnelle Tempi, komplexe Taktstrukturen und einen streng komponierten Unisono aus. Während Weather Report den Schwerpunkt auf die Erzeugung von Flüssigkeiten legte, kontrastiert Mahavishnu Orchestra mit der Betonung der Konstruierbarkeit und Reproduzierbarkeit.
+Das Mahavishnu Orchestra nahm seine Tätigkeit Anfang der 1970er Jahre auf und zeichnete sich durch extrem schnelle Tempi, komplexe Taktarten und einen streng komponierten Unisono aus. Während Weather Report den Schwerpunkt auf die Erzeugung von Flüssigkeiten legte, kontrastiert Mahavishnu Orchestra mit der Betonung der Konstruierbarkeit und Reproduzierbarkeit.
 
-Die Improvisation entwickelt sich hier eher in einem komponierten Rahmen als in völliger Freiheit. Jeder Künstler muss innerhalb höchster technischer Grenzen auftreten, und das Ensemble als Ganzes verfügt über die Integrität einer Präzisionsmaschine.
+Die Improvisation findet hier eher in einem komponierten Rahmen als in völliger Freiheit statt. Jeder Künstler muss innerhalb höchster technischer Grenzen auftreten, und das Ensemble als Ganzes verfügt über die Integrität einer Präzisionsmaschine.
 
 ### Rhythmische Struktur und Form
 

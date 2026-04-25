@@ -25,7 +25,7 @@ title: '[Kolumne] Deutscher Techno und die Pandemie in den 2020er Jahren: Kultur
 ## Pandemie: Eine wahre Geschichte von allem, vom Lockdown über die Wiedereröffnung bis hin zur Neudefinition von Musik
 
 
-Text: mmr | Thema: Wie sich deutscher Techno in den 2020er Jahren verändert hat, was verloren ging und was gewonnen wurde
+Text: mmr｜Thema: Wie hat sich der deutsche Techno in den 2020er Jahren verändert, was ist verloren gegangen und was wurde gewonnen?
 
 
 Der deutsche Techno erlebte in den 2020er Jahren einen dramatischen seismischen Wandel, der sich auf die **COVID-19-Pandemie (2020–2022)** konzentrierte.
@@ -79,7 +79,7 @@ Dieses „Zeichen der Beschleunigung“ wurde durch die Pandemie jäh unterbroch
 
 # Kapitel 2: März 2020 – Erster „landesweiter Club-Lockdown“
 ## ● Clubs in ganz Deutschland müssen schließen
-Im März 2020 hat die Bundesregierung Folgendes als Infektionsschutzmaßnahme angekündigt:
+Im März 2020 hat die Bundesregierung folgende Maßnahmen zur Infektionsprävention angekündigt:
 **Ankündigte vollständige Schließung von Clubs, Bars und Freizeiteinrichtungen**.
 
 Dies war eine rechtliche Maßnahme und alle Clubs wurden sofort geschlossen.
@@ -90,7 +90,7 @@ Zum ersten Mal in ihrer Geschichte kam es in der weltberühmten Technostadt zu e
 - Alle Clubs geschlossen (März 2020 bis Anfang 2021)
 - Alle geschlossen, einschließlich Berghain und Tresor
 - Die Einnahmen aus dem Clubtourismus werden auf Null reduziert
-- Berufe wie DJs, Personal, Licht- und Tonarbeiter haben Einkommensverluste erlitten.
+- Berufe wie DJs, Personal, Licht- und Tonarbeiter haben Einkommenseinbußen erlitten.
 - Staatliche Unterstützung mit Kurzarbeitsgeld
 
 Statistiken und Medienberichte bestätigen, dass Zehntausende Arbeitnehmer betroffen sind, die auf Vereine als Einnahmequelle angewiesen sind.
@@ -110,7 +110,7 @@ Im März 2020 starteten wir **United We Stream**, das weltweit erste groß angel
 - Von Millionen Menschen gesehen
 - Ähnliche Modelle verbreiten sich in Städten auf der ganzen Welt
 
-Die Online-Präsenz hat das Stereotyp auf den Kopf gestellt, dass Clubs eine Kultur seien, die in einem physischen Raum stattfindet.
+Die Online-Präsenz hat das Klischee, dass Clubs eine Kultur sind, die in einem physischen Raum stattfindet, auf den Kopf gestellt.
 Es wurde bewiesen, dass Clubkultur auch als digitales Medium funktionieren kann.
 
 ## ● Musik wird durch DJ-Sets ohne Publikum introvertiert
@@ -194,7 +194,7 @@ Von hier an ändert sich die Musik drastisch.
 ### Funktionen nach dem Neustart:
 - 150-170 BPM sind üblich
 - Stärkere Trance-Elemente
-- Der Rave-Stil der 90er ist zurück
+- Die Rave-Sounds der 90er sind zurück
 - Industrie-x-Transformator-Hybrid wird etabliert
 - „Hochgeschwindigkeits-4-Takt“ ist weltweit zum Mainstream geworden
 
@@ -210,7 +210,7 @@ Partys, die **30–40 Stunden am Stück** dauern, sind immer häufiger geworden.
 
 ## ● High-Speed-Techno breitet sich in den umliegenden Städten aus
 - Frankfurt: Zunahme harter Ereignisse
-- Leipzig: IfZ lockt Highspeed-Techno-Kunden an
+- Leipzig: IfZ lockt Highspeed-Techno-Publikum an
 - Hamburg: Der Aufstieg junger DJs bei PAL
 - Dresden: Lokaler Rave ist zurück
 
@@ -232,7 +232,7 @@ Berlin hat die Fragilität seiner Stadtstruktur offengelegt, die zu stark vom To
 Seitdem hat die Stadt begonnen, kulturelle Maßnahmen für die Anwohner zu stärken.
 
 ## ● 3) Digitalisierung und Archivierung schreiten voran
-Im Zuge der Pandemie wurden die historischen Materialien, Videos und Audioquellen des Clubs online verfügbar gemacht.
+Im Zuge der Pandemie wurden die historischen Materialien, Videos und Audioquellen des Clubs online zur Verfügung gestellt.
 Ab 2023 werden Archivprojekte im Rahmen der Kulturpolitik gefördert.
 
 ---
@@ -258,7 +258,7 @@ Vor und nach der Pandemie veränderte sich die Tonproduktion wie folgt:
 ### 2022–2024:
 - 150–170 BPM
 - Betont das Gefühl des digitalen Ausschnitts
-- Verzerrung auf ultrahohen Bereich erweitert
+- Verzerrung auf ultrahohe Frequenzen ausgeweitet
 - Trance-Akkordarbeit der 90er
 
 Mit anderen Worten,
@@ -282,7 +282,7 @@ timeline
 
 # Kapitel 10: Zukunftsprognosen nach 2025
 ## ● 1) Wird es weiterhin Geschwindigkeitssteigerungen geben?
-Ab 2024 werden 150-170 BPM der Mainstream sein.
+Ab 2024 werden 150–170 BPM der Mainstream sein.
 Es ist unklar, ob dies so weitergehen wird, aber es kann aufgrund der folgenden Faktoren so weitergehen:
 
 - Die visuelle Präsentation auf SNS passt gut zu Hochgeschwindigkeitsmusik

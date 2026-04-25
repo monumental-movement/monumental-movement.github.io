@@ -21,8 +21,8 @@ Text: mmr | Thema: Tracy Chapman ist eine seltene Künstlerin, die weiterhin üb
 
 
 „Für die Stimmlosen sprechen“ – das ist wahrscheinlich eines der treffendsten Worte, um Tracy Chapmans Musik und Leben zu beschreiben.
-Seit ihrem Debüt im Jahr 1988 hat sie auffällige Inszenierungen und übertriebene Inszenierungen vermieden und weiterhin die Gesellschaft mit akustischen Tönen und einer leisen Sprechstimme dargestellt, und ihre Reise berührt die Seele des Zuhörers zutiefst.
-In diesem Artikel möchte ich ihre Erziehung, ihren kreativen Prozess, ihre Tontechnologie, wichtige Beziehungen und Schnittmengen mit der Zeit nachzeichnen und entschlüsseln, warum ihre Lieder auch heute noch Nachhall finden.
+Seit ihrem Debüt im Jahr 1988 verzichtet sie auf auffällige Inszenierungen und übertriebene Inszenierungen und schildert weiterhin die Gesellschaft mit akustischen Tönen und einer leisen Sprechstimme, und ihre Reise berührt langsam die Seele des Zuhörers.
+In diesem Artikel möchte ich ihre Erziehung, ihren kreativen Prozess, ihre Tontechnologie, ihre wichtigen Beziehungen und ihren Schnittpunkt mit der Zeit nachzeichnen und entschlüsseln, warum ihre Lieder auch heute noch Nachhall haben.
 
 
 ---
@@ -49,7 +49,7 @@ Obwohl seine Familie nicht wohlhabend war, liebte seine Mutter Gospelmusik und s
 Als Kind, im Alter von drei Jahren, schenkte ihm seine Mutter eine Ukulele, und einer Anekdote zufolge war es seine erste Erfahrung mit einem Musikinstrument.
 Mit acht Jahren begann sie auch, Texte und Melodien zu schreiben, und einmal sagte sie: „Lieder schreiben ist wie ein Tagebuch schreiben.“
 
-Irgendwann, als er etwa 14 Jahre alt war, kam es zu einem Rassenaufstand, und er erzählte von einem schockierenden Erlebnis, bei dem eine Waffe auf ihn gerichtet war und ihm gesagt wurde, er solle „rennen“, woraufhin er fast erschossen wurde.
+Irgendwann, als er etwa 14 Jahre alt war, kam es zu einem Rassenaufstand, und er erzählte von einem schockierenden Erlebnis, bei dem eine Waffe auf ihn gerichtet war und ihm gesagt wurde, er solle „laufen“, woraufhin er fast erschossen wurde.
 
 Diese Erfahrungen führten später zu dem sozialen Bewusstsein und der Konzentration auf die Schwachen, die in „Talkin’ ’bout a Revolution“ zu sehen sind.
 
@@ -58,7 +58,7 @@ Diese Erfahrungen führten später zu dem sozialen Bewusstsein und der Konzentra
 ---
 
 ### ● Zwischen Wissenschaft und Musik
-Nachdem er eine örtliche Schule besucht hatte, trat Chapman über das Stipendienprogramm „A Better Chance“ in die Wooster School in Connecticut ein.
+Nachdem er örtliche Schulen besucht hatte, besuchte Chapman über das Stipendienprogramm „A Better Chance“ die Wooster School in Connecticut.
 
 Später brachte er seine Leidenschaft für Musik und Literatur an die Tufts University, wo er Kunst und Geisteswissenschaften studierte und gleichzeitig seine musikalische Karriere fortsetzte.
 Es heißt, dass zu seinen täglichen Aktivitäten während seiner Studienzeit Live-Auftritte auf dem Campus, Improvisationsaufführungen mit Freunden und die Verschmelzung von Poesie und Musik gehörten.
@@ -85,7 +85,7 @@ In einem Aufnahme-Workshop-Forum heißt es:
 
 > „Zwei Mikrofone, zwei Kompressoren und fünf Equalizer … mussten sorgfältig ausbalanciert werden, damit Sologesang oder Sologitarre allein gut klangen, aber zusammen verschmolzen sie auf magische Weise.“
 
-Mit anderen Worten: Anstatt Gesang und Gitarre getrennt aufzunehmen, wurde der Ansatz gewählt, sie miteinander zu mischen und gleichzeitig ein Gefühl der Synchronisation und Atmosphäre beizubehalten.
+Mit anderen Worten: Anstatt Gesang und Gitarre getrennt aufzunehmen, wurde der Ansatz gewählt, sie miteinander zu mischen und dabei ein Gefühl der Synchronisation und Atmosphäre beizubehalten.
 Sie überlegten, DI (Direkteingang) für die Gitarre zu verwenden, aber die damalige Technologie birgt ein hohes Risiko für Rauschen und Phasenverschiebungen und konzentrierte sich daher auf die Verbesserung der Mikrofonaufnahme.
 
 Darüber hinaus hat Chapman öffentlich erklärt, dass er den Song in den frühen Phasen der Produktion mit Papier, Stift und einem tragbaren Tonbandgerät entwickelt habe, anstatt sich auf Computer oder digitale Geräte zu verlassen.
@@ -192,7 +192,7 @@ Der Verhandlungsprozess für diese Phase soll vorsichtig gewesen sein, da die Gr
 Obwohl Chapman sich nicht unbedingt als „Protestsängerin“ betrachtet, haben ihre Lieder immer einen sozialen Aspekt.
 Wie sie sagt:
 
-> „Ich weiß, dass ich als Protestsängerin abgestempelt wurde, und das ist kein Etikett, das ich akzeptiere … Ich hoffe, jeder weiß, dass ich das nicht bin … In dieser Hinsicht ist das eine Fiktion.“
+> „Ich weiß, dass ich als Protestsängerin abgestempelt wurde, und ich akzeptiere diese Bezeichnung nicht … Ich hoffe, jeder weiß, dass ich das nicht bin … In dieser Hinsicht ist das eine Fiktion.“
 
 Dennoch sind ihre Lieder für viele Zuhörer eine Quelle der Empathie und des Widerstands gegen Ungerechtigkeit, Ungleichheit und Einsamkeit.
 
@@ -201,7 +201,7 @@ Dennoch sind ihre Lieder für viele Zuhörer eine Quelle der Empathie und des Wi
 ## Kapitel 6 Zuhörer und Lieder neu entdecken
 
 ### ● Trends bei Covern und Neuinterpretationen
-Insbesondere „Fast Car“ hat viele Coverversionen hervorgebracht, aber die vom Country-Stil inspirierte Neuinterpretation von Luke Combs sorgte in den 2020er Jahren für ein Wiederaufleben und sorgte für eine Resonanz zwischen dem Original und neuen Interpretationen.
+Vor allem „Fast Car“ hat viele Coverversionen hervorgebracht, aber die vom Country-Stil inspirierte Neuinterpretation von Luke Combs sorgte in den 2020er Jahren für ein Wiederaufleben und sorgte für eine Resonanz zwischen dem Original und neuen Interpretationen.
 Dadurch sind Chapmans Lieder nicht mehr nur „berühmte Lieder aus der Vergangenheit“, sondern zu etwas geworden, das über Generationen weitergegeben werden kann.
 
 Darüber hinaus sorgen Live-Auftritte und Neukonfigurationen in Akustik-Sessions für eine Leichtigkeit der Akustik und eine Neupräsentation der Texte.
@@ -214,13 +214,13 @@ Unter diesen weisen Chapmans Lieder einen hohen Reinheitsgrad auf, der unnötige
 
 Zum Beispiel die Entzerrung, um den Mitteltonbereich klar zu halten, das Mischen, um eine übermäßige Anhebung des Tieftonbereichs zu vermeiden, und die Unterdrückung von Hall und räumlicher Verarbeitung – all das sind Faktoren, die dafür sorgen, dass ihre Songs so gestaltet sind, dass sie nicht mit dem Lärm verschmelzen.
 
-Darüber hinaus ist der Ansatz, das „Live-Feeling“ in der Original-Songaufnahme zu betonen (wie die oben erwähnten zwei Mikrofone und die Anpassung des Kompressors), auch heute noch wirksam, da „das Gefühl der Live-Performance = ein Element, das Menschen näher zusammenbringt.“
+Darüber hinaus ist der Ansatz, das „Live-Feeling“ in der Original-Songaufnahme zu betonen (z. B. die oben erwähnten beiden Mikrofone und die Anpassung des Kompressors), auch heute noch wirksam, da „das Gefühl der Live-Performance = ein Element, das Menschen einander näher bringt“.
 
 ---
 
 ## Letztes Kapitel: Ein ruhiges Licht, das die Dunkelheit erhellt
 
-Tracy Chapmans Lieder bestehen immer aus der Dreifaltigkeit von „stillem Zorn“, „einem genauen Blick“ und „poetischer Distanz“.
+Tracy Chapmans Lieder bestehen immer aus der Dreieinigkeit von „stillem Zorn“, „einem genauen Blick“ und „poetischer Distanz“.
 sie schreit nicht laut. Doch jedes Wort dringt langsam tief ins Herz des Zuhörers.
 
 Was sie hinterlässt, ist weder eine protzige Bühne noch eine überbordende Produktion.

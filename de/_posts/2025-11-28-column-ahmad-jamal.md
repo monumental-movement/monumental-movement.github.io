@@ -50,7 +50,7 @@ Jamals erstes Album als Leader war 1951 „New Talent“, ein Album, das sich um
 
 ### 1955–56 – Der Erfolg von At the Pershing: But Not for Me
 
-Das 1955 gegründete Ahmad Jamal Trio (Israel Crosby am Bass, Vernel Fournier am Schlagzeug) trat regelmäßig in der Pershing Lounge in Chicago auf. Eine 1958 veröffentlichte Aufnahme dieses Live-Auftritts, At the Pershing: But Not for Me, war ein großer kommerzieller und kritischer Erfolg. Insbesondere die Aufführung von „Poinciana“ war ein Hit und hinterließ nicht nur bei Jazzfans, sondern auch beim allgemeinen Publikum großen Eindruck.
+Das 1955 gegründete Ahmad Jamal Trio (Israel Crosby am Bass, Vernel Fournier am Schlagzeug) trat regelmäßig in der Pershing Lounge in Chicago auf. Eine 1958 veröffentlichte Aufnahme dieses Live-Auftritts, At the Pershing: But Not for Me, war ein großer kommerzieller und kritischer Erfolg. Vor allem die Aufführung von „Poinciana“ war ein Hit und hinterließ nicht nur bei Jazzfans, sondern auch beim allgemeinen Publikum großen Eindruck.
 
 Dieses Album enthält:
 
@@ -121,7 +121,7 @@ Ahmad Jamals Karriere ist von vielen klassischen Alben geprägt. Nachfolgend fin
 ## Zeitleiste
 
 Nachfolgend finden Sie eine Zeitleiste, die sich auf die wichtigsten Ereignisse und Werke von Ahmad Jamal konzentriert.
-Um den Karriereverlauf zu veranschaulichen, sind auch Illustrationen in Mermaid-Notation enthalten.
+Um den Verlauf der Karriere zu veranschaulichen, sind auch Illustrationen in Mermaid-Notation enthalten.
 
 <div class="mermaid">
 timeline
@@ -153,69 +153,69 @@ Die Musik von Ahmad Jamal nimmt einen einzigartigen Platz in der Jazzgeschichte 
 Miles Davis bezeichnete Jamal im Laufe seines Lebens wiederholt als seinen „einflussreichsten Pianisten“.
 Insbesondere sind folgende Punkte wichtig:
 
-- **Das Konzept des „Raums“**
-Jamals Spiel mit Leerstellen hatte einen starken Einfluss auf Miles‘ Modeära ab den späten 1950er Jahren.
-- **Minimalistische Themenpräsentation**
-Jamals Sinn für Struktur spiegelt sich auch in Miles' Arrangements aus seiner Quintettzeit wider.
-- **Trio-Dynamik**
-Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles' Band-Zusammenspiel bei.
+- **“Space（間）”の概念**  
+  Jamalの余白を使う演奏は、マイルスの1950年代後半〜モード時代に強い影響を与えた。
+- **ミニマルなテーマ提示**  
+  Jamalの構成感は、マイルスのクインテット期のアレンジにも反映。
+- **トリオのダイナミズム**  
+  ベースとドラムの対話的アプローチは、マイルスバンドのインタープレイ形成にも寄与。
 
-Jamals Einfluss ist so bedeutend, dass man sagen kann, dass er ihn nicht nur „mochte“, sondern tatsächlich die Struktur von Miles‘ Musik veränderte.
+Jamalの影響は、単に「好きだった」ではなく、**実際にマイルスの音楽の構造を変えた**と言えるほどの重大性を持ちます。
 
-### 2. Das Klaviertrio-Format neu definieren
-Vor Jamal wurden Klaviertrios typischerweise vom Klavier geleitet und von einer Rhythmusgruppe begleitet.
-Aber Jamal hat die Struktur wie folgt geändert:
+### 2. ピアノ・トリオという形式の再定義
+Jamal以前のピアノトリオは、ピアノが主導し、リズムセクションが伴奏する形式が主流でした。  
+しかしJamalは次のように構造を変えました：
 
-- Positionierung von Bass und Schlagzeug als „gleichberechtigte Instrumente“
-- Das Klavier wechselt flexibel zwischen der Hauptmelodie und der Begleitrolle.
-- Komposition mit Schwerpunkt auf Dynamik und Raum
+- ベースとドラムを「対等な楽器」と位置づけた  
+- ピアノは主旋律と伴奏の役割を柔軟に行き来する  
+- ダイナミクスと空間に重点を置いた構成
 
-Diese Innovation legte den Grundstein für das moderne Klaviertrio, das später von Bill Evans, Herbie Hancock, Keith Jarrett und anderen entwickelt wurde.
+この革新により、後のビル・エヴァンスやハービー・ハンコック、キース・ジャレットらが展開する**現代ピアノ・トリオの礎**が築かれました。
 
-### 3. Internationale Aktivitäten und kultureller Einfluss
-Seit den 1960er Jahren treten sie aktiv in Europa, dem Nahen Osten und Asien auf und haben außerhalb der Vereinigten Staaten eine große Fangemeinde gewonnen.
-Die Auswirkungen spiegeln sich wider in:
+### 3. 国際的活動と文化的影響
+1960年代以降、ヨーロッパ、中東、アジアでの公演を積極的に行い、アメリカ国外でも大きな支持を獲得しました。  
+その影響は次の点に表れています：
 
-- Auftritte auf internationalen Jazzfestivals
-- Großer Einfluss auf nichtamerikanische Pianisten
-- Erweiterung des kulturellen Horizonts nach der Konvertierung zum Islam (Konvertierung in den 1950er Jahren)
-- Wechselnde musikalische Perspektiven für ein globales Publikum
+- 国際的なジャズフェスティバル出演  
+- 非アメリカ圏のピアニストに与えた高度な影響  
+- イスラム教に改宗して以降の文化的視野の広がり（1950年代に改宗）  
+- 世界的な聴衆に向けた音楽観の変化
 
-Insbesondere die Tatsache, dass er in den 1950er Jahren konvertierte und den Namen „Ahmad Jamal“ annahm, symbolisiert seine Haltung als Künstler mit kultureller Unabhängigkeit.
+特に1950年代に改宗し「Ahmad Jamal」を名乗った点は、文化的主体性を持った芸術家としての姿勢を象徴しています。
 
-### 4. „Die Kunst des Weltraums“ erben
-Jamals charakteristischer Stil, die Ästhetik der Ruhe, wurde an die folgenden Generationen weitergegeben:
+### 4. “静けさの美学（The Art of Space）” の継承
+Jamalの代表的スタイルである「静けさの美学」は、以下の世代へ継承されました：
 
-- Herbie Hancock
-- McCoy Tyner
-- Keith Jarrett
-- Brad Mehldau
--Vijay Iyer et al.
+- Herbie Hancock  
+- McCoy Tyner  
+- Keith Jarrett  
+- Brad Mehldau  
+- Vijay Iyer など
 
-Vor allem im zeitgenössischen Jazz haben sich **Aufführungen, die minimalistische Strukturen und Leerräume nutzen** durchgesetzt, und Jamal wird zugeschrieben, dass er dafür den Grundstein gelegt hat.
+特に現代ジャズでは、**ミニマルな構造と余白を生かした演奏**が広く受け入れられ、その基盤を築いたのはJamalの功績です。
 
-### 5. Späte Bewertung und Aktivitäten in späteren Jahren
-Seit den 2000er Jahren hat Jamal Aktivitäten mit folgenden Merkmalen entwickelt:
+### 5. 後期の評価と晩年の活動
+2000年代以降のJamalは、以下の特徴を持つ活動を展開しました：
 
-- Touriert trotz seines fortgeschrittenen Alters weiterhin energisch
-- Veröffentlichte viele Live-Alben hauptsächlich auf europäischen Labels
-- Aktive Zusammenarbeit mit Jazzmusikern der jungen Generation
+- 高齢にも関わらず精力的なツアーを継続  
+- ヨーロッパのレーベルを中心にライブ盤を多数リリース  
+- 若い世代のジャズミュージシャンとの積極的な共演  
 
-In seinen späteren Jahren wuchs Jamals Ruf von einem „Meister“ zu einer „lebenden Legende“, und seine ruhigen und ausgefeilten Darbietungen fanden weiterhin Unterstützung bei Zuhörern auf der ganzen Welt.
+晩年のJamalは「巨匠」から「生きる伝説」へと評価を拡大し、その穏やかで研ぎ澄まされた演奏は世界中のリスナーに支持され続けました。
 
 ---
 
 ## Abschluss
 
-Ahmad Jamal war nicht nur ein „erfahrener Jazzpianist“, sondern ein Innovator, der die Struktur des Jazz grundlegend veränderte.
+Ahmad Jamalは、単なる“技巧に優れたジャズピアニスト”ではなく、**ジャズの構造そのものを変えた革新者**でした。  
 
-- Wie man mit Platz umgeht
-- Das Trio neu definieren
-- Prähistorische Rolle des modalen Ansatzes
-- Großer Einfluss auf die nächste Generation
-- Globale Aktivitäten
+- 空間の扱い方  
+- トリオの再定義  
+- モーダルアプローチの前史的役割  
+- 後進への多大な影響  
+- グローバルな活動  
 
-Durch diese Bemühungen gilt Jamal als eine der wichtigsten Persönlichkeiten, die den Jazz vom 20. bis 21. Jahrhundert geprägt haben.
+これらを通じ、Jamalは20世紀から21世紀にかけてのジャズを形づくった、最重要人物のひとりとして評価されています。
 
 ---
 

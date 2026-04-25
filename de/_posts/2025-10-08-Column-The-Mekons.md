@@ -11,26 +11,26 @@ tags:
 - Postpunk
 - Artrock
 - Rock
-title: '[Kolumne] Die Mekons – Ein Weg der Rebellion und Neuerfindung'
+title: 【コラム】 The Mekons — 反逆と再発明の軌跡
 ---
 
 
-## Die Rebellion beginnt an der Leeds Art School
+## 反逆の始まり、リーズのアートスクールから  
 
-Text: mmr｜Thema: Vom Leeds-Punk bis zur amerikanischen Wildnis. Die 45-jährige Geschichte der Musik und Gemeinschaft der Mekons
+文：mmr｜テーマ：リーズのパンクからアメリカの荒野へ。The Mekonsが示した音楽と共同体の45年史
 
-> **„Es begann mit Lachen, nicht mit Rebellion.“**
+> **「始まりは反抗ではなく、笑いだった。」**
 
-1977, University of Leeds, Nordengland.
-Die Mekons wurden von Studenten in einer Ecke eines Hörsaals gegründet und dachten scherzhaft: „Vielleicht könnten wir selbst eine Band gründen.“ Jon Langford, Tom Greenhalgh, Kevin Lycett und andere wurden zu Symbolen der Post-Punk-Kultur. Sie hatten keine musikalischen Fähigkeiten und liehen sich sogar Instrumente aus.
-Damals war Punk eine Revolution, die jeder starten konnte. Der Name Mekons soll von der „Rebellen“-Figur in Byrons Stück „Der Fluch der Minerva“ stammen.
+1977年、イングランド北部リーズ大学。
+学生たちが講義室の片隅で、「自分たちでもバンドができるんじゃないか」と冗談交じりに始めたのがMekonsだった。Jon Langford、Tom Greenhalgh、Kevin Lycettら、後にポストパンクの文化圏を象徴する面々である。彼らは演奏技術を持たず、楽器すら借り物だったという。
+当時、パンクとは「誰でも始められる革命」だった。Mekonsの名は、バイロンの戯曲『The Curse of Minerva』に登場する“反逆者”に由来すると言われる。
 
-Die 1978 veröffentlichte Single „Where Were You / I'll Have To Dance Then (On My Own)“ symbolisiert ihren frühen Punk-Geist.
-„Where Were You?“ schildert die Einsamkeit junger Menschen und ihre Zweifel an der Gesellschaft mit scharfen Gitarrenriffs und Gesang, gemischt mit Lärm. Die B-Seite I'll Have To Dance Then (On My Own) drückt Selbstentfremdung und den Wunsch nach Freiheit mit Punk-Energie aus.
-Obwohl die Aufnahme grob ist, steckt sie voller Improvisationen mit Freunden von der Universität, und man kann die Ursprünge der „Ästhetik der Unvollkommenheit“ erkennen, die Mekons später verfolgte.
+1978年リリースの**シングル《Where Were You / I'll Have To Dance Then (On My Own)》**は、彼らの初期パンク精神を象徴する作品である。
+《Where Were You?》は、若者の孤独と社会への疑念を、切れ味鋭いギターリフと雑音まじりのヴォーカルで描写。B面《I'll Have To Dance Then (On My Own)》は、自己疎外と自由への希求をパンク的エネルギーで表現している。
+録音は粗削りながらも、大学の友人たちとの即興性に満ち、Mekonsが後に追求する「不完全さの美学」の原点を見ることができる。
 
-Zusammen mit ihrer frühen Single „Never Been in a Riot“ gilt diese Single als wichtiger Teil der frühen Dreifaltigkeit von Mekons aus Gesellschaftskritik, Humor und Selbsterforschung.
-Bei Live-Shows war es damals üblich, dass das Publikum jedes Mal, wenn dieses Lied endete, lachte, verwirrt war und sich manchmal auch stritt.
+初期シングル《Never Been in a Riot》と並んで、このシングルはMekons初期の社会批評とユーモア、そして自己探求の三位一体を示す重要作とされる。
+当時のライヴでは、この曲が終わるたびに観客が笑い、混乱し、時に議論が巻き起こるという光景が日常だった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71s-T8oUTQs?si=JRL_vF4jjerlZhUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,129 +49,129 @@ color: #fff;
 </style>
 
 
-### Kapitel 1: Entfliehen Sie dem rauen und tollpatschigen Punk
-> **„Ungeschicklichkeit war Aufrichtigkeit.“**
+### 第1章：ラフで不器用なパンクからの脱皮  
+> **「不器用さこそが、誠実だった。」**
 
 1979年発表のデビュー・アルバム[『The Quality of Mercy Is Not Strnen』](https://amzn.to/477GZ6y)。タイトルは“ストレン”という誤植そのものがバンドの姿勢を象徴していた。  
-Aufgenommen in den Virgin Studios in London. Damals sagten sie: „Es war das erste Mal, dass ich einen Mixertisch gesehen habe.“
-Die Akustik ist rau und der Mikrofonabstand und die Balance sind instabil. Dennoch wurden die heulende Gitarre und die Verzerrung des Gesangs als „aus Unwissenheit geborene Kreativität“ aufgenommen. Es gibt keinen Produzenten und das Klangbild basiert auf dem DIY-Geist.
+録音はロンドンのVirginスタジオ。当時、彼らは「初めてミキサー卓を見た」と語っている。  
+音響的には粗削りで、マイクの距離やバランスが安定しない。それでも、ギターのハウリングやヴォーカルの歪みが「無知から生まれた創造性」として記録された。プロデューサーは存在せず、DIY精神がそのまま音像になっている。
 
-„Wir waren weder politisch noch romantisch, wir waren nur verwirrt“, sagt Jon Langford.
-Zu dieser Zeit waren sich die Mekons bewusst, dass sie eher „handeln“ als eine Rebellion auszuleben. Deshalb spiegelte ihr Sound den „Zweifel“ wider, den andere Punkbands losgelassen hatten.
+「我々は政治的でもロマンチックでもなく、ただ混乱していた」とJon Langfordは語る。  
+当時のMekonsは、反逆を演じることではなく、“演じることそのもの”への自覚をもっていた。だからこそ彼らの音は、他のパンク・バンドが手放した“疑念”を鳴らしていたのだ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Kapitel 2: Postpunk und Gesellschaftskritik
-> **„Was nach der Wut blieb, war ein beobachtender Blick.“**
+### 第2章：ポストパンクと社会批評  
+> **「怒りのあとに残ったのは、観察のまなざしだった。」**
 
-In den frühen 1980er Jahren, als Punk immer beliebter wurde, änderten die Mekons nach und nach ihre Form.
-Sie verlassen London und verwandeln sich in eine gesellschaftskritische Gruppe, die Politik und Kultur miteinander verbindet. Im Kontext der Bewegungen „Theater of Hate“ und „Red Wedge“ entschied sich Mekons für „Gemeinschaft statt Musik“.
-Die Mitgliederzahl ist nicht festgelegt, Freunde aus der Studienzeit kommen und gehen und nehmen manchmal mit bis zu 10 Leuten auf. Sein Charakter als Kunstkollektiv wird immer stärker.
+80年代初頭、パンクが消費される中で、Mekonsは次第にその形を変えていく。  
+彼らはロンドンを離れ、政治と文化を交差させる社会批評集団へと変貌する。Theatre of HateやRed Wedge運動に連なる文脈の中で、Mekonsは“音楽よりも共同体”を選んだ。  
+メンバーは固定されず、大学時代の仲間が出入りしながら、時には10人近くで録音を行う。アート・コレクティブとしての性質が強まっていく。
 
 1989年の代表作[『The Mekons Rock ’n’ Roll』](https://amzn.to/4nIWLMc)は、その総括だった。  
-Eine einzigartige räumliche Komposition mit doppeltem Tracking der Gitarre, übermäßigem Hall und unterdrückten tiefen Frequenzen des Basses. Dabei handelte es sich um Spielereien, die die „formale Schönheit des Rock“ absichtlich verfälschen sollten.
-Mit diesem Album präsentierten sie das Paradoxon: „Ist Rock nicht das System selbst?“
+ギターのダブルトラッキング、過剰なリバーブ、そしてベースの低域を抑えた独特の空間構成。これらは“ロックの形式美”を意図的にズラすための仕掛けだった。  
+彼らはこのアルバムで、「ロックとは体制そのものではないか？」という逆説を提示した。
 
-> „Wir wissen, dass Rock’n’Roll gefährlich ist. Er kann Länder zerstören.“
-> — *The Mekons, Interview 1989*
+> “We know that rock and roll is dangerous. It can destroy countries.”  
+> — *The Mekons, interview 1989*
 
 ---
 
-### Kapitel 3: Begegnung mit amerikanischer Musik und dem Beginn des „Alt-Country“
-> **„Inmitten von Wein und Staub war die Wahrheit.“**
+### 第3章：アメリカ音楽との出会いと“オルタナ・カントリー”の夜明け  
+> **「酒と砂塵の中に、真実があった。」**
 
 1985年の[『Fear and Whiskey』](https://amzn.to/4mV4QMk)で、Mekonsは完全に新しい地平へ踏み出す。  
-Was da war, war die Folk- und Country-Musik des amerikanischen Südens sowie das Gefühl des „Heimatverlusts“, das die britische Nachkriegsgesellschaft empfand.
-In dieser Zeit entdeckte Jon Langford beim Hören von Hank Williams und Merle Haggard wieder, dass „Country der Blues der Arbeiterklasse ist“.
+そこにあったのは、アメリカ南部のフォークとカントリー、そして戦後の英国社会が抱える“故郷喪失”の感情だった。  
+Jon Langfordはこの時期、Hank WilliamsやMerle Haggardを聴きながら「カントリーこそ労働者階級のブルースだ」と再発見したという。
 
-Aufgenommen in Woodlands, Leeds, einem damaligen Indie-Studio. Die direkt online auf analogem Band aufgenommene Gitarre hat eine natürliche Sättigung, die die Verzerrung des Verstärkers ausnutzt, und für den Gesang werden häufig Raummikrofone verwendet.
-Dieser Lo-Fi-Sound erzeugt eher ein „poetisches Gefühl der Distanz“ als einen „schlammigen Geruch“.
-Dieses Album wurde später als Vorläufer von „Alt-Country“-Künstlern wie Uncle Tupelo und Wilco neu bewertet.
+録音は、当時のインディ・スタジオであるLeedsのWoodlandsにて。アナログテープに直接ライン録りしたギターは、アンプの歪みを活かした自然な飽和を持ち、ボーカルにはルームマイクを多用。  
+このローファイな音響が“泥臭さ”ではなく“詩的な距離感”を生んでいる。  
+このアルバムは、のちにUncle TupeloやWilcoといった“オルタナ・カントリー”の先駆として再評価される。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Kapitel 4: Rock and Roll als Einwanderer
-> **„Felsen haben keine Grenzen, aber Einwanderer brauchen Land.“**
+### 第4章：移民としてのロックンロール  
+> **「ロックは国境を持たない。だが、移民には土地が必要だ。」**
 
-In den 1990er Jahren zogen die Mekons nach Chicago.
-Jon Langford vertieft seine Zusammenarbeit mit amerikanischen Musikern und entwickelt weitere Projekte wie die Waco Brothers und Pine Valley Cosmonauts.
-Sally Timms wird mit lokalen Dichtern zusammenarbeiten und Tom Greenhalgh wird an der Videoproduktion beteiligt sein.
-Während dieser Zeit existierte Mekons als „treibende Künstlergemeinschaft“, die über Nationalität und Genre hinausging.
+90年代、Mekonsは活動の拠点をシカゴへ移す。  
+Jon Langfordはアメリカ人ミュージシャンとの連携を深め、Waco BrothersやPine Valley Cosmonautsといった別プロジェクトを展開。  
+Sally Timmsは地元の詩人たちと共演し、Tom Greenhalghは映像制作に関わる。  
+この時期のMekonsは、国籍やジャンルを超えた“漂流する芸術共同体”として存在していた。
 
-Es hieß: „Die Musik von Mekons klingt, als ob sie nirgendwo hingehöre.“
-Wie Einwanderer bewegten sie sich zwischen musikalischen Kontexten und schufen dort vorübergehende Häuser.
+「Mekonsの音楽は、どこにも属さない音」と評された。  
+彼らは移民のように音楽の文脈を渡り歩き、そこに仮住まいの居場所を作った。  
 アルバム[『Journey to the End of the Night』（2000）](https://amzn.to/4q3A5HR)はその象徴であり、ブラスやヴァイオリンを加えた音響構成が“異郷性”を強調する。  
-Obwohl er für diese Arbeit Pro Tools verwendete, verwendete er zum Mischen absichtlich eine analoge Konsole, was zu einem „menschlichen Ungleichgewicht“ führte.
+この作品ではPro Toolsを導入しながらも、ミックスにはあえてアナログ卓を使い、「人間的な不均衡」を残したという。
 
 ---
 
-### Kapitel 5: Feminismus und Solidarität, Perspektiven weiblicher Mitglieder
-> **„Je mehr Stimmen lauter werden, desto gespaltener wird die Wahrheit.“**
+### 第5章：フェミニズムと連帯、女性メンバーの視点  
+> **「声が増えるたびに、真実は分裂する。」**
 
-Sally Timms verdient in der Geschichte von Mekons besondere Erwähnung.
-Als sie der Gruppe 1985 offiziell beitrat, fungierte sie nicht nur als Sängerin, sondern auch als „Geschichtenerzählerin“.
-Ihre klare Stimme hatte die Kraft, die politische Sprache der Band in poetische Allegorie zu verwandeln.
-Sally sagt: „Eine Geschichte zu erzählen ist wirkungsvoller als Wut herauszuschreien.“ Durch die Hinzufügung ihrer Perspektive wurde Mekons in einem feministischen Kontext neu bewertet.
+Mekonsの歴史において、Sally Timmsの存在は特筆すべきだ。  
+1985年に正式加入した彼女は、単なるボーカリストではなく、“物語の語り部”として機能した。  
+彼女の透明な声は、バンドの政治的言葉を詩的な寓話に変える力を持っていた。  
+Sallyは「怒りを叫ぶよりも、物語を語る方が強い」と語る。彼女の視点が加わったことで、Mekonsはフェミニズム的な文脈でも再評価された。
 
-Sein polyphoner Charakter ist zusammen mit seinen Zeitgenossen „Raincoats“ und „Au Pairs“ ein seltenes Beispiel dafür, wie die Stimme einer Frau soziale Realität erlangt.
-Bei Live-Auftritten gibt es viele Szenen, in denen Sally laut vorliest und Langford auf der Gitarre begleitet, was die „Musik = Geschichtenerzählen“-Struktur der Mekons deutlich macht.
+その多声性は、同時代のRaincoatsやAu Pairsと並んで、女性の発言が社会的リアリティを獲得した稀な例でもある。  
+ライヴではSallyが朗読を行い、Langfordがギターで伴奏する場面も多く、Mekonsの“音楽＝語り”という構造が明確になる。  
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iQJbxIaUEjI?si=M-SWXL5_ebqPcrqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Kapitel 6: Mekons als Kunst – Multimedia und Dokumentation
-> **„Ihre Kunst ist ein Zeugnis und eine Feier.“**
+### 第6章：芸術としてのMekons — マルチメディアとドキュメンタリー  
+> **「彼らのアートは、証言であり、祝祭である。」**
 
 2013年のドキュメンタリー映画[『Revenge of the Mekons』](https://amzn.to/3KJVhCA)は、その活動の核心を映し出した。  
-Regisseur Joe Angio beschreibt sie als „lebende Kunstwerke“.
-Diese Arbeit zeigt, wie Mekons verschiedene Ausdrucksformen durchlaufen haben, darunter nicht nur Musik, sondern auch Malerei, Fotografie, Poesie und politischen Aktivismus.
-Jon Langford war selbst als Maler tätig und zeichnete ein „antiromantisches Bild Amerikas“, indem er die Landschaften des Mittleren Westens der USA symbolisch darstellte.
+監督Joe Angioは彼らを「生きるアート作品」と形容している。  
+この作品では、Mekonsが音楽だけでなく、絵画、写真、詩、政治運動といったさまざまな表現形態を横断してきたことが描かれる。  
+Jon Langford自身も画家として活動しており、アメリカ中西部の風景を象徴的に描くことで“反ロマンチックなアメリカ像”を提示した。
 
-Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauheit“.
-Langford sagte: „Lärm liegt uns im Blut“, und bei der Aufnahme zog er es vor, das Noise Gate zu entfernen und die Umgebungsgeräusche beizubehalten.
-Dieser „vernarbte Klang“ war der Realismus, an den Mekons glaubte.
+アナログ録音を維持しながらも、彼らの音は「粗さ」を意図的に演出している。  
+Langfordは「ノイズは我々の血だ」と語り、録音現場ではノイズゲートを外し、環境音を残したテイクを好んだという。  
+この“傷のある音”こそ、Mekonsが信じるリアリズムだった。
 
 ---
 
-### Kapitel 7: Jenseits von Dekonstruktion und Reorganisation
-> **„Selbst wenn wir uns auflösen, wird es nicht enden. Denn es wird nicht enden, es ist Mekons.“**
+### 第7章：解体と再結成を越えて  
+> **「解散しても、終わらない。終わらないから、Mekonsだ。」**
 
-Die Mekons lösten sich mehrmals auf und formierten sich neu.
-Allerdings handelt es sich dabei nicht um das Ende, sondern eher um einen Zyklus wie die Jahreszeiten.
+Mekonsは何度も解散と再結成を繰り返した。  
+だがそれは終わりではなく、“季節のような循環”である。  
 2019年の[『Deserted』](https://amzn.to/4nHdkYD)は、メンバーが砂漠に集まり数日で録音したセッション盤。  
-Man spürt die „stille Wut“ dieser Menschen, die ihre besten Jahre erreicht haben.
-Akustische Gitarre, elektronisches Dröhnen und entfernte Windgeräusche. Es klingt wie ein „Testament der Menschlichkeit“.
+そこには壮年期を迎えた彼らの“静かな怒り”が漂う。  
+アコースティック・ギターと電子ドローン、遠くの風の音。まるで“人類の遺言”のようなサウンドだ。
 
-> „Wir sind immer noch hier, nicht weil wir sein sollten, sondern weil wir es können.“
+> “We are still here, not because we should be, but because we can be.”  
 > — *Jon Langford, 2019*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p5y0KqiGjOM?si=ynwQfZRqbD2I6-wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Letztes Kapitel: Warum haben die Mekons „überlebt“?
-> **„Hoffnung ist kollektives Überleben.“**
+### 終章：Mekonsはなぜ「生き延びた」のか  
+> **「希望とは、集団で生き延びることだ。」**
 
-Seit über 45 Jahren lehnen sie den Kommerzialismus ab und suchen nach einer Möglichkeit, ihren Lebensunterhalt außerhalb der Musikindustrie zu verdienen.
-Es ist eine Ästhetik der Solidarität, nicht der Selbsterhaltung.
-Ihr Werk hat die Ideale des Post-Punks überschritten und ist zur wahren Praxis der „Überlebenskunst“ geworden.
+45年以上にわたり、彼らは商業主義を拒み、音楽産業の外で“生きる方法”を探してきた。  
+それは自己保存ではなく、連帯の美学である。  
+彼らの作品群は、ポストパンクの理念を超えて、「生き延びる芸術」の実践そのものとなった。  
 
-Die Musik von Mekons ist nicht perfekt. Aber diese Unvollkommenheit steht im Einklang mit der Unvollkommenheit der Welt.
-Deshalb klingeln sie immer noch.
+Mekonsの音楽は完璧ではない。だがその不完全さが、世界の不完全さと共鳴する。  
+それが、彼らがいまも鳴らす理由だ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afFqy--NADw?si=Zgaw5OYcbM0x6V3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Die Mekons-Hauptdiskographie
+## The Mekons 主要ディスコグラフィー
 
-| Erscheinungsjahr | Titel | Notizen | Link |
+| 発売年 | タイトル | 備考 | リンク |
 |:--:|:--|:--|:--|
 | 1978 | *Where Were You / I'll Have To Dance Then (On My Own)* | デビュー初期シングル、パンク精神の象徴 | [Amazon](https://amzn.to/3ICpuDb) |
 | 1979 | *The Quality of Mercy Is Not Strnen* | 初期パンクの記録 | [Amazon](https://amzn.to/475k7ED) |
@@ -183,7 +183,7 @@ Deshalb klingeln sie immer noch.
 
 ---
 
-## Chronologie – Geschichte der Mekons
+## 年表 — The Mekonsの歩み
 
 <div class="mermaid">
 

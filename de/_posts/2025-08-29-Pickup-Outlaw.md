@@ -170,7 +170,7 @@ Format: Vinyl
 
 Genre: Acid / Techno / Trance
 
-Zusammenfassung: 1992 erschienen, eine großartige Zusammenstellung aus Tresors frühen Jahren. Ein historisches Stück, das die „Echos der Familie“ verkörpert.
+Zusammenfassung: 1992 erschienen, eine großartige Zusammenstellung aus den Anfängen von Tresor. Ein historisches Stück, das die „Echos der Familie“ verkörpert.
 
 
 Outlaw-Feeling: Erinnerungen an urbane Gemeinschaftsimprovisationen und dunkle Kämpfe, die die Entstehung der Szene prägen.
@@ -302,7 +302,7 @@ Genre: Breaks / Electro (mit Industrial Hip Hop / Dubstep Remix)
 Überblick: Veröffentlicht im Jahr 2003. Ein destruktives Stück eines DJs, der die Lücke zwischen Punk und elektronischen Sounds spannt.
 
 
-Outlaw-Feeling: Das gewalttätige Vergnügen, Genre-Kollision und -Mischung zu erleben. Der Drang, etablierte Spaltungen aufzubrechen.
+Outlaw-Feeling: Das gewalttätige Vergnügen der Genre-Kollision und -Mischung. Der Drang, etablierte Spaltungen aufzubrechen.
 
 #### Trackliste
 ```md

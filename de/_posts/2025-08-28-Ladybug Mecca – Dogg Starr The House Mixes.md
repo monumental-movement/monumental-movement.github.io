@@ -10,15 +10,15 @@ tags:
 - House
 - Deep House
 - 00s
-title: Marienkäfer-Mekka – Dogg Starr (The House Mixes)
+title: Ladybug Mecca – Dogg Starr (The House Mixes)
 ---
 
 
-HOUSE-Mix aus „Dogg Starr“, einem Signature-Song von Ladybug Mecca (Mary Ann Vieira), bekannt als MC der Jazz-Hip-Hop-Gruppe Digable Planets. Es wurde 2007 von San Franciscos renommiertem Label OM Records veröffentlicht.
+ジャズヒップホップ・ユニット Digable Planets のMCとして知られているLadybug Mecca（Mary Ann Vieira）の代表曲「Dogg Starr」のHOUSE mix。2007年にサンフランシスコの名門レーベルOM Recordsからリリースされた。
 
-A1 ist ein Remix des kanadischen DJs/Produzenten Fred Everything (Frédéric Blais), einem Schwergewicht der Deep-House-Szene.
+A1は、Deep Houseシーンの重鎮、カナダ出身のDJ／プロデューサーFred Everything(Frédéric Blais)によるremix。
 
-B2 ist ein Remix von Johnny Fiasco, einem DJ/Produzenten der zweiten Generation des Chicago House, der Anfang der 1990er Jahre mit Veröffentlichungen auf Cajual Records und Relief Records Aufmerksamkeit erregte.
+B2は、1990年代初頭にCajual RecordsやRelief Records からのリリースで注目されたシカゴハウス第2世代を代表する DJ／プロデューサーJohnny Fiascoによるremix。
 
 
 #### Trackliste

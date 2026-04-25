@@ -13,12 +13,11 @@ tags:
 - Industrial
 - Indie Rock
 - 10s
-title: Pop wird sich selbst fressen – Das ist der Tag... Das ist die Stunde... Das
-  ist das!
+title: Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This!
 ---
 
 
-Pop Will Eat Itself ist eine britische Alternative-Rock-Band, die 1986 gegründet wurde.
+Pop Will Eat Itselfは、1986年に結成されたイギリスのオルタナティブロックバンド。
 
 #### Trackliste
 ```md

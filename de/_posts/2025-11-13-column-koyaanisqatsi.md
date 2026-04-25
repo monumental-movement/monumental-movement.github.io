@@ -57,7 +57,7 @@ Der Titel des Films, „Koyaanisqatsi“, ist ein Hopi-Wort und bedeutet „Lebe
 Reggio hielt dieses Wort für ein Symbol der Industrie- und Informationsgesellschaft in der zweiten Hälfte des 20. Jahrhunderts.
 
 Im Eröffnungsvideo ist ein rötlich-brauner, felsiger Berg zu sehen, der in der Wildnis aufragt, und der tiefe **Refrain „Koyaanisqatsi“** hallt in der Stille wider.
-Schließlich beginnen sich die Geräusche der Maschinen der menschlichen Zivilisation, die Hektik der Stadt und die Beschleunigung der Konsumgesellschaft zu einem Rhythmus zu überschneiden.
+Schließlich beginnen sich die Geräusche der Maschinen der menschlichen Zivilisation, die Hektik der Stadt und die Beschleunigung der Konsumgesellschaft zu einem Rhythmus zu überlagern.
 
 > Natürlich und künstlich. Stille und Überfüllung. Licht und Geschwindigkeit.
 > Dieser Film ist eine Reihe von Kontrasten, und das ist die Botschaft.
@@ -190,7 +190,7 @@ Man kann sagen, dass Reggio und Glass mit der gesamten Trilogie einen „moderne
 
 Am Ende von „Koyanisqatsi“, den Überresten einer Rakete, die nicht gestartet werden konnte,
 Es fällt langsam zu Boden.
-In dem Moment, in dem Glass‘ Musik leise verklingt, wird das Publikum plötzlich von „Stille“ umhüllt.
+In dem Moment, in dem Glass‘ Musik leise verklingt, ist das Publikum plötzlich in „Stille“ gehüllt.
 
 Es ist nicht der Zusammenbruch der Zivilisation, sondern ein leerer Raum für eine Wiedergeburt.
 

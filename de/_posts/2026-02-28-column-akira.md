@@ -24,7 +24,7 @@ Text: mmr｜Thema: Warum AKIRA immer noch wie der „Sound der Zukunft“ klingt
 
 1988 wurde ein Animationsfilm aus Japan veröffentlicht, das sich mitten in der Blasenwirtschaft befand. Das Originalwerk stammt von Katsuhiro Otomo. Die Musik stammt von Shoji Yamashiro, dem Leiter der Unterhaltungsgruppe Yamashiro. Der Name des Werkes ist AKIRA.
 
-Auch wenn seit seiner Veröffentlichung fast 40 Jahre vergangen sind, wird der Sound dieses Films nie alt. Tatsächlich ist in den letzten Jahren mit dem Wiederaufleben des Cyberpunk der Kontext von „Warum AKIRA immer noch nach Zukunft klingt“ stärker geworden.
+Auch wenn seit seiner Veröffentlichung fast 40 Jahre vergangen sind, wird der Sound dieses Films nie langweilig. Tatsächlich ist in den letzten Jahren mit dem Wiederaufleben des Cyberpunk der Kontext von „Warum AKIRA immer noch nach Zukunft klingt“ stärker geworden.
 
 Der Grund ist nicht nur Nostalgie. Außer Kontrolle geratene Städte, Spannungen zwischen Staat und Technologie, Ausbrüche der Jugend und die Transformation des Körpers. Der Soundtrack, der an der Schnittstelle von Volksmusik und elektronischen Klängen spielt, spiegelt auf unheimliche Weise die heutige Welt wider.
 
@@ -61,7 +61,7 @@ Die Musik wurde parallel zur Produktion des Films konzipiert. Regisseur Otomo su
 
 ### Positionsbeziehung zu Cyberpunk
 
-AKIRA wird oft als Meisterwerk des Cyberpunk eingestuft. Blade Runner erschien 1982, sechs Jahre vor der Veröffentlichung des Films. Dieses hier zeigt urbane Dekadenz mit Vangelis‘ Synthesizer-Sounds.
+Akira wird oft als Meisterwerk des Cyberpunk eingestuft. Blade Runner erschien 1982, sechs Jahre vor der Veröffentlichung des Films. Dieses hier zeigt urbane Dekadenz mit Vangelis‘ Synthesizer-Sounds.
 
 Andererseits drückte AKIRA die Zukunft nicht nur mit elektronischen Klängen aus. Vielmehr wurden ethnische, rituelle und physische Klänge in den Vordergrund gerückt, die gleichzeitig Technologie und Magie erklingen ließen.
 
@@ -87,7 +87,7 @@ Die Geino Yamashiro-gumi waren eine Musikgruppe um Shoji Yamashiro, die Volksmus
 
 Bei der Produktion von AKIRAs Musik verwendeten sie echte Gesangstechniken und Percussion-Instrumentenstrukturen, anstatt einfach nur einen „Volksmusikstil“ zu kreieren.
 
-Der Eröffnungssong „Kaneda“ ist symbolisch. Schlagzeug, Refrains und kommunikative Lautäußerungen. Die Beats sind keine einfachen Vier-Beat-Beats, sondern sind mit komplexen Rhythmen überlagert.
+Der Eröffnungssong „Kaneda“ ist symbolisch. Vokalisationen wie Trommeln, Refrains und Statements. Die Beats sind keine einfachen Vier-Beat-Beats, sondern sind mit komplexen Rhythmen überlagert.
 
 ### Fusion aus elektronischen und Folk-Sounds
 
@@ -121,9 +121,9 @@ Der Ton folgt nicht dem Sehen, sondern repräsentiert den Herzschlag des Körper
 
 ### Tetsuos Transformation und Sound
 
-In der zweiten Hälfte der Geschichte werden Tetsuos ungezügelte Fähigkeiten und seine körperliche Verwandlung klanglich kraftvoll dargestellt. Die Kombination aus hochfrequenten elektronischen Klängen, wogenden Bässen und der Spannung des Refrains erzeugt ein hörbares Gefühl des Unbehagens.
+In der zweiten Hälfte der Geschichte werden Tetsuos ungezügelte Fähigkeiten und seine körperliche Transformation kraftvoll durch den Klang dargestellt. Die Kombination aus hochfrequenten elektronischen Klängen, wogenden Bässen und der Spannung des Refrains erzeugt ein hörbares Gefühl des Unbehagens.
 
-Wichtig dabei ist, dass der Sound nicht nur eine Performance ist, sondern „Teil der Geschichte“.
+Wichtig dabei ist, dass der Sound nicht nur eine Performance ist, sondern „Teil der Geschichte“ ist.
 
 Musik ist nicht der Hintergrund. Sie existiert als Stimme, die den Willen der Stadt, den Druck des Staates und den Zusammenbruch des Einzelnen symbolisiert.
 
@@ -154,7 +154,7 @@ Inmitten dieses Wiederauflebens wird AKIRA erneut als „vollendete Form“ und 
 
 ---
 
-## Einfluss und Nachfolge: Ausbreitung auf die globale Musik- und visuelle Kultur
+## Einfluss und Erbe: Verbreitung in der globalen Musik- und visuellen Kultur
 
 Die Bilder und die Musik von AKIRA haben viele Künstler beeinflusst. Neonstädte, Motorräder, militärische Forschung und außer Kontrolle geratene Jugendliche.
 
@@ -170,7 +170,7 @@ Besonders wichtig ist, dass es mit dem Klischee „Zukunft = kalte elektronische
 
 ### Echte Städte haben aufgeholt
 
-Zufälligerweise war 2019 das Bühnenjahr für AKIRA. Pandemien, soziale Unruhen, nationale und persönliche Spannungen. Es schien, als hätte die reale Stadt die Fiktion eingeholt.
+Zufälligerweise war 2019 das Bühnenjahr für AKIRA. Pandemien, soziale Unruhen und Spannungen zwischen Nationen und Einzelpersonen. Es schien, als hätte die reale Stadt die Fiktion eingeholt.
 
 ### Rückkehr von Cyberpunk
 
@@ -186,7 +186,7 @@ Der Sound von AKIRA wurde nicht durch KI oder Algorithmen erzeugt, sondern durch
 
 ---
 
-## Fazit: Ein Werk, das weiterhin zukunftsweisend ist
+## Fazit: Ein Werk, das weiterhin mit der Zukunft in Resonanz steht
 
 AKIRAs Musik ist nicht auf eine bestimmte Epoche festgelegt. Der experimentelle Geist von 1988, die Ergebnisse ethnischer Musikforschung und der Wendepunkt in der Anime-Geschichte. Sie haben sich kristallisiert und schwingen immer noch auf neue Weise mit.
 

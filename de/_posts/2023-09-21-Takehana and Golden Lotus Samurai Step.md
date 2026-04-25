@@ -15,7 +15,7 @@ title: Takehana und Golden Lotus – Samurai-Schritt
 
 „Samurai Step“ ist ein vom japanischen Produzenten Takehana und dem amerikanischen Produzenten/DJ Golden Lotus gemeinsam produzierter Track.
 
-Basierend auf Bassmusik, einem Genre der elektronischen Musik, kombiniert der Track energiegeladene und dynamische Elemente wie schwere Basslinien, rhythmische Drum-Patterns, Effekte und Sampling. Die Melodie und Klänge, die an traditionelle japanische Musik und Samurai-Kultur erinnern, verleihen dem Lied eine unverwechselbare Atmosphäre.
+Basierend auf Bassmusik, einem Genre elektronischer Musik, kombiniert der Track energiegeladene und dynamische Elemente wie schwere Basslinien, rhythmische Drum-Patterns, Effekte und Sampling. Die Melodie und Klänge, die an traditionelle japanische Musik und Samurai-Kultur erinnern, verleihen dem Lied eine unverwechselbare Atmosphäre.
 
 „Samurai Step“ ist ein Favorit unter Fans und Künstlern elektronischer Musik. Ihre Musik bietet neue Perspektiven und musikalische Erfahrungen durch die Verschmelzung japanischer Kultur und der zeitgenössischen Musikszene.
 

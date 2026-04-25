@@ -46,9 +46,9 @@ color: #fff;
 
 ## 1950–60er Jahre: Der Vorabend des Rock und die Entstehung von Frauenensembles
 
-In den 1950er Jahren entstand in den USA der Rock'n'Roll und die Bandform wurde zum Zentrum der Jugendkultur. Andererseits standen damals oft Musikerinnen als Sängerinnen im Vordergrund und der Auftritt wurde in der Regel von Männern übernommen. Eine Ausnahme bildete eine rein weibliche Gruppe, die Musikinstrumente spielte.
+In den 1950er Jahren entstand in den USA der Rock'n'Roll und die Bandform wurde zum Zentrum der Jugendkultur. Andererseits traten damals oft Musikerinnen als Sängerinnen in den Vordergrund und der Auftritt wurde in der Regel von Männern übernommen. Eine Ausnahme bildete eine rein weibliche Gruppe, die Musikinstrumente spielte.
 
-Die Shirelles und die Ronettes, die 1964 auftraten, waren technisch gesehen Gesangsgruppen, aber als von Frauen dominiertes Kollektiv hatten sie einen starken Einfluss auf ihre Nachfolger. In den späten 1960er Jahren begann man schließlich, an der Westküste der Vereinigten Staaten und im Vereinigten Königreich Frauen dabei zu beobachten, wie sie Gitarren und Schlagzeug in die Hand nahmen.
+Die Shirelles und die Ronettes, die 1964 auftauchten, waren technisch gesehen Gesangsgruppen, aber als von Frauen dominiertes Kollektiv hatten sie einen starken Einfluss auf ihre Nachfolger. Schließlich, in den späten 1960er Jahren, wurde an der Westküste der Vereinigten Staaten und in England allmählich der Anblick von Frauen sichtbar, die Gitarren und Schlagzeug in die Hand nahmen.
 
 <div class="mermaid">
 flowchart LR
@@ -64,7 +64,7 @@ B --> C[バンド形態への移行]
 
 In den 1970er Jahren, mit dem Aufkommen des Feminismus der zweiten Welle, begannen Frauen, ihre Rechte als Subjekte der Meinungsäußerung geltend zu machen. In Amerika unterzeichnete Fanny einen Großvertrag und zeigte damit, dass eine rein weibliche Rockband kommerziell rentabel sein könnte.
 
-Etwa zur gleichen Zeit nahm in Großbritannien die Zahl der Bands, darunter auch Frauen, im Zusammenhang mit Pub Rock und Glam Rock zu. Obwohl Suzy Quatro eine Solokünstlerin ist, ist sie als jemand wichtig, der das Image einer Rockfrau mit Bass etabliert hat. Obwohl Girlbands noch in der Minderheit waren, begannen sich die Bedingungen für die Teilnahme am Rockformat zu lockern.
+Etwa zur gleichen Zeit nahm in Großbritannien die Zahl der Bands, darunter auch Frauen, im Zusammenhang mit Pub Rock und Glam Rock zu. Obwohl Suzy Quatro eine Solokünstlerin ist, ist sie wichtig als jemand, der das Image einer Rockfrau mit Bass etabliert hat. Obwohl Girlbands noch in der Minderheit waren, begannen sich die Bedingungen für die Teilnahme am Rockformat zu lockern.
 
 > Die 1970er Jahre waren eine Zeit, in der die Teilnahmevoraussetzungen selbst neu definiert wurden.
 
@@ -74,7 +74,7 @@ Etwa zur gleichen Zeit nahm in Großbritannien die Zahl der Bands, darunter auch
 
 Punk legte mehr Wert auf die Einstellung als auf die Technik und förderte die Idee, dass jeder eine Band gründen könne. Diese Idee war für Frauen äußerst wichtig. In Großbritannien traten Bands wie The Slits und The Raincoats auf, die Sounds und Bilder präsentierten, die konventionelle Vorstellungen von Frauen ablehnten.
 
-In den USA nimmt die Zahl weiblicher Bands in der Punkszene von LA und New York zu und es bilden sich Netzwerke über DIY-Labels und Fanzines. Die schlechte Leistung wurde nicht als Fehler angesehen, sondern als Teil des Ausdrucks des Künstlers.
+In den Vereinigten Staaten nimmt die Zahl weiblicher Bands in der Punkszene von LA und New York zu und es bilden sich Netzwerke über DIY-Labels und Fanzines. Die schlechte Leistung wurde nicht als Fehler angesehen, sondern als Teil des Ausdrucks des Künstlers.
 
 <div class="mermaid">
 flowchart TD
@@ -110,7 +110,7 @@ In Japan tourten Shonen Knife und Chatmonchy im Ausland und verbanden den lokale
 
 Seit den 2010er Jahren sind Streaming und SNS zum Mainstream geworden und die Sichtbarkeit von Girlbands hat dramatisch zugenommen. Genres, Nationalitäten und Geschlechtsausdrücke werden vielfältiger und traditionelle Klassifizierungen verlieren an Bedeutung.
 
-In Südkorea, Südostasien und Südamerika entstehen Frauenbands, die Musik verbreiten, die ihre jeweiligen sozialen Verhältnisse widerspiegelt. Der Begriff „Girlband“ selbst wurde überdacht und nun als ein Begriff behandelt, der nur auf den historischen Kontext hinweist.
+In Südkorea, Südostasien und Südamerika entstehen Frauenbands, die Musik verbreiten, die ihre jeweiligen sozialen Verhältnisse widerspiegelt. Der Begriff „Girlband“ selbst wurde überdacht und mittlerweile als ein Begriff behandelt, der nur auf den historischen Kontext hinweist.
 
 <div class="mermaid">
 flowchart LR
@@ -149,9 +149,9 @@ Zukünftige Girlbands könnten auf der Vergangenheit aufbauen und andere Namen t
 
 Die Geschichte der Girlbands in Nordamerika ist geprägt von der Spannung zwischen kommerzieller Musik und Underground. Seine Entwicklung verlief schrittweise, von der Gesangsgruppenkultur in den 1960er Jahren über den Einstieg in die Rockindustrie in den 1970er Jahren bis hin zu DIY-Netzwerken seit den 1980er Jahren.
 
-In Amerika gibt es seit langem ein gesellschaftliches Unbehagen gegenüber Frauen, die Musikinstrumente besitzen. Infolgedessen waren frühe Frauenbands anfällig für starke Eingriffe seitens des Managements und der Produzenten und es brauchte Zeit, bis sie das Recht auf Selbstbestimmung erlangten. Andererseits verbreiteten sich in Universitäts- und Regionalstädten Frauenbands, die nichts mit kommerziellem Erfolg zu tun hatten.
+In Amerika gibt es seit langem ein gesellschaftliches Unbehagen gegenüber Frauen, die Musikinstrumente besitzen. Infolgedessen waren frühe Frauenbands anfällig für starke Eingriffe seitens des Managements und der Produzenten, und es brauchte Zeit, bis sie das Recht auf Selbstbestimmung erlangten. Andererseits verbreiteten sich in Universitäts- und Regionalstädten Frauenbands, die nichts mit kommerziellem Erfolg zu tun hatten.
 
-Während der Alternative-Rock-Ära der 1990er Jahre wurden Girlbands zu genreübergreifenden Einheiten, die sich frei zwischen Rock, Punk und Indie bewegten. Infolgedessen wurden rein weibliche Bands zunehmend als eine von vielen Arten von Bands und nicht als etwas Besonderes anerkannt.
+Während der Alternative-Rock-Ära der 1990er Jahre wurden Girlbands zu genreübergreifenden Einheiten, die sich frei zwischen Rock, Punk und Indie bewegten. Infolgedessen wurden reine Frauenbands eher als eine von vielen Arten von Bands denn als etwas Besonderes erkannt.
 
 > Die nordamerikanische Szene war ein Testgelände, in dem die beiden Extreme von Werbung und Heimwerken nebeneinander existierten.
 
@@ -173,7 +173,7 @@ In Kontinentaleuropa formiert sich rund um Berlin und Paris eine Szene, in der d
 
 Die Geschichte der Girlbands in Japan entwickelte sich in einem anderen Medienumfeld und einer anderen Industriestruktur als in Europa und Amerika. Während der Group-Sounds-Ära der 1960er Jahre gab es fast keine Frauenbands und populäre Lieder und Rock waren klar getrennt.
 
-Von Ende der 1970er bis in die 1980er Jahre tauchten mit der Verbreitung der Amateurbandkultur und Live-Musik-Veranstaltungsorten nach und nach rein weibliche Bands auf. Seit den späten 1980er Jahren, mit der Ausbreitung der Indie-Kultur, haben Frauenbands ihre eigene Szene gegründet.
+Von Ende der 1970er bis in die 1980er Jahre, mit der Verbreitung der Amateurbandkultur und Live-Musik-Veranstaltungsorten, entstanden nach und nach rein weibliche Bands. Seit den späten 1980er Jahren, mit der Ausbreitung der Indie-Kultur, haben Frauenbands ihre eigene Szene gegründet.
 
 Seit den 1990er Jahren sind japanische Girlbands durch Auslandstourneen und internationale Anerkennung nicht nur mit dem heimischen Markt, sondern auch mit der Welt verbunden. Während dieses Prozesses wurden Japans einzigartige Pop-Sensibilität und der DIY-Geist neu bewertet.
 

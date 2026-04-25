@@ -28,7 +28,7 @@ Veröffentlichung: 24. Single, veröffentlicht im Jahr 1984. Ein Lied von Elvis 
 Die Band wurde Ende 1977 in London gegründet und hinterließ mit ihrer vielfältigen Musikalität große Spuren in der Rockwelt. Außerdem wurde er 2003 in die Rock and Roll Hall of Fame aufgenommen.
 
 Empfohlene Punkte
-Eine perfekte Mischung aus kantiger New-Wave-Gitarre und Rhythmus und raffiniertem Pop-Feeling. Dies ist ein wichtiger Song, der die Energie der britischen Rock-/New-Wave-Szene der 80er Jahre spüren lässt.
+Eine perfekte Mischung aus kantiger New-Wave-Gitarre und -Rhythmus und raffiniertem Pop-Feeling. Dies ist ein wichtiger Song, der die Energie der britischen Rock-/New-Wave-Szene der 80er Jahre spüren lässt.
 
 #### Trackliste
 ```md
@@ -81,7 +81,7 @@ Empfohlene Punkte: Ein Meisterwerk, das die Ära symbolisiert, einschließlich i
 ### Der Ausdruck – Der Ausdruck
 <a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20Expression.webp"></a>
 
-Veröffentlichung: Veröffentlicht am 26. Oktober 2023. Ein selbstbetiteltes Album einer australischen Synth-Pop-New-Wave-Band.
+Veröffentlichung: Veröffentlicht am 26. Oktober 2023. Ein selbstbetiteltes Album einer australischen Synthpop-New-Wave-Band.
 
 Empfohlene Punkte: New Wave mit starkem Pop-Einschlag, mit scharfen Gitarrenriffs, Synthesizern und einzigartigem Gesang. Perfekt für alle, die Synth-Pop der frühen 80er mögen.
 

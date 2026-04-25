@@ -26,7 +26,7 @@ Die Stadt Tokio hat ihre Konturen durch den Klang kontinuierlich verändert.
 Die Geräusche von Zügen, Menschenmengen, das Summen von Neonreklamen, Straßengitarren und Underground-Beats.
 Jeder Klang existiert nebeneinander und setzt sich aus verschiedenen Epochen und unterschiedlichen Schichten zusammen.
 
-In dieser Kolumne konzentrieren wir uns auf vier Bereiche in Tokio, in denen sich die Musikkulturen besonders überschneiden: Shinjuku, Shibuya, Shimokitazawa und Akihabara, und verfolgen die Klangveränderungen von der Nachkriegszeit bis heute.
+In dieser Kolumne konzentrieren wir uns auf vier Bereiche in Tokio, in denen sich die Musikkulturen besonders überschneiden: Shinjuku, Shibuya, Shimokitazawa und Akihabara, und verfolgen die Entwicklung des Klangs von der Nachkriegszeit bis heute.
 Es ist nicht nur ein Stück lokaler Geschichte, sondern eine Aufzeichnung der „Klanglandschaft“ der Stadt, ein durch Musik vermitteltes Spiegelbild der Gesellschaft.
 
 ---

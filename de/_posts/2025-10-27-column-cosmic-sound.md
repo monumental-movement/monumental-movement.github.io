@@ -11,26 +11,26 @@ tags:
 - Ambient
 - House
 - Italo
-title: '[Kolumne] Cosmic Sound und Daniele Baldelli – Tanz zwischen Raum und Geschwindigkeit'
+title: 【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る
 ---
 
 
-## 1. Prolog: Wo die Space-Disco geboren wurde
+## 1. 序章：宇宙のディスコが生まれた場所
 
 
-Text: mmr｜Thema: Auf den Spuren der einzigartigen Klangphilosophie, die durch eine andersdimensionale Mischung, Geschwindigkeitsmanipulation und die Verschmelzung von Volksmusik und elektronischen Klängen entsteht.
+文：mmr｜テーマ：異次元的ミックス、速度の操作、民族音楽と電子音の融合が築いた唯一無二のサウンド哲学を辿る
 
-Ende der 1970er Jahre, am Ufer des Gardasees in Norditalien.
-Niemand wusste, dass dieser Ort, der nur ein Ferienort für Touristen war, später zum Zentrum eines akustischen Phänomens namens **Cosmic Sound** werden würde.
-Die zentrale Figur ist **Daniele Baldelli**.
-Er ist mehr als nur ein DJ geworden, er ist als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt geworden.
+1970年代末、北イタリアのガルダ湖畔。  
+観光客のためのリゾート地にすぎなかったこの場所が、後に「**Cosmic Sound**」という名の音響現象の中心地になるとは誰も思っていなかった。  
+その中心人物が**Daniele Baldelli（ダニエレ・バルデッリ）**。  
+彼は、単なるDJではなく、**「音の速度と空間を再構築する建築家」**として語られる存在となった。
 
-In der damaligen Disco-Szene dominierten 4/4-Rhythmen, vertreten durch amerikanische Soul- und House-Musik.
-Allerdings verwebt Baldelli ethnische Musik, elektronische Klänge, Progressive Rock, afrikanische Trommeln und sogar Krautrock.
-**Wir haben das Konzept des „kosmischen Tempos“ vorgestellt**, das es Ihnen ermöglicht, den BPM frei zu ändern.
+当時のディスコ・シーンは、アメリカ発のソウルやハウスに代表される4/4リズムが主流。  
+だがBaldelliは、そこに**民族音楽・電子音・プログレ・ロック・アフリカン・ドラム・クラウトロック**までを織り交ぜ、  
+**BPMを自在に変化させる「コズミック・テンポ」**という概念を提示した。
 
-> „Ich glaube nicht an Genres. Ich glaube nur an den Klangfluss.“
-> - Daniele Baldelli
+> 「私はジャンルを信じない。信じるのは“音の流れ”だけだ。」  
+> ― Daniele Baldelli
 
 ---
 
@@ -48,38 +48,38 @@ color: #fff;
 </style>
 
 
-## 2. Was ist kosmischer Klang? - Ein undefinierbares akustisches Erlebnis
+## 2. Cosmic Soundとは何か ― 定義不能の音響体験
 
-Cosmic Sound wird oft als „kosmische Disco“ übersetzt.
-Damit ist aber nicht nur Science-Fiction-Sounddesign gemeint.
-Vielmehr bezieht es sich auf **DJ-Spiel, das Zeit und Schwerkraft verzerrt**.
+Cosmic Sound（コズミック・サウンド）は、「宇宙的ディスコ」と訳されることが多い。  
+だが、それは単にSF的なサウンドデザインを意味するのではない。  
+むしろ、**時間と重力を歪めるようなDJプレイ**そのものを指す。
 
-### Charakteristische Elemente
+### 特徴的要素
 
-- **Tempoflüssigkeit**:
-Spielt eine Schallplatte mit 45 U/min bei 33 U/min ab und passt die Tonhöhe zusätzlich um mehr als ±8 % an.
-Dadurch klingt derselbe Titel wie ein Signal von einem unbekannten Planeten.
+- **テンポの流動性**：  
+  45回転のレコードを33回転で再生し、さらにピッチを±8%以上調整。  
+  これにより、同じトラックがまるで未知の惑星からの信号のように聴こえる。
 
-- **Kulturelle Mischung**:
-Eine Mischung aus deutschem Krautrock (Can, Neu!), afrikanischer Musik, elektronischem Ambient und italienischer Synth-Disco.
-Es ist wie eine außerirdische Jukebox.
+- **異文化混交**：  
+  ジャーマン・クラウトロック（Can, Neu!）とアフリカ音楽、電子アンビエント、伊産シンセ・ディスコを混合。  
+  まるで地球外のジュークボックス。
 
-- **Ritual**:
-Im Cosmic Club werden Lichter und Spiegelkugeln unterdrückt, stattdessen dominieren Rauch und Projektoren den Raum.
-Anstatt zu tanzen, hatte das Publikum das Gefühl, in den Klang „eingetaucht“ zu sein.
+- **リチュアル（儀式）性**：  
+  Cosmic Clubでは、照明もミラーボールも抑え、代わりにスモークとプロジェクターが空間を支配。  
+  聴衆は踊るというよりも、**音に“没入”する体験**をしていた。
 
 ---
 
-## 3. Baldellis Spielphilosophie – Eine Bewusstseinsrevolution in Richtung „Geschwindigkeit“
+## 3. Baldelliのプレイ哲学 ― 「速度」への意識革命
 
-Die eigentliche Innovation von Daniele Baldelli bestand darin, Geschwindigkeit (Tempo) als musikalisches Element zu behandeln.
-er spricht.
+Daniele Baldelliが真に革新的だったのは、**速度（tempo）を音楽的要素として扱ったこと**である。  
+彼は語る。
 
-> „Es ist einfach, Musikgenres zu mischen.“
-> Allerdings ist es eine Frage der Sensibilität, nicht der Technologie, sie mit einer Geschwindigkeit zu „kosmisieren“. ”
+> 「音楽のジャンルを混ぜることは簡単だ。  
+>  しかし、それらを**ひとつの速度で“宇宙化”すること**は、技術ではなく感性の問題なんだ。」
 
-Seine Mixe reichen von 110-BPM-Funk über 85-BPM-Afro-Percussion bis hin zu verlangsamtem Synth-Ambient.
-**Übertragt reibungslos**. Man spürt nicht einmal die Grenzen zwischen den Liedern.
+彼のミックスでは、BPM 110のファンクからBPM 85のアフロ・パーカッションへ、さらにスローダウンしたシンセ・アンビエントへと  
+**Sanfter Übergang**. Man spürt nicht einmal die Grenzen zwischen den Liedern.
 Die ganze Nacht über fühlt es sich an, als würde ein Raumschiff abstürzen und die Umlaufbahn verlassen.
 
 ---
@@ -194,7 +194,16 @@ Einige der heutigen DJs, insbesondere Künstler, die mit langsameren Tempi und i
 Diese DNA ist sicherlich lebendig und gesund.
 
 > „Kosmisch bedeutet die Suche nach dem inneren Universum, nicht nach dem Universum.“
-> - Daniele Baldelli
+> ― Daniele Baldelli
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/abOIMrM9L_Y?si=ViroigDH0MaB6ivN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

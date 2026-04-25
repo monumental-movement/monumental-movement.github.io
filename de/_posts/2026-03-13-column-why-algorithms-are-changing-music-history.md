@@ -21,7 +21,7 @@ title: '[Kolumne] Musikgeschichte durch Algorithmen neu geschrieben'
 Text: mmr｜Thema: Aufdecken, wie Algorithmen die Struktur von Musikhits und die Geschichte der Genres verändert haben
 
 
-Blickt man zurück auf die Musikgeschichte, so hat sich die Mechanik von Hits aufgrund der Technologie immer verändert.
+Rückblickend auf die Musikgeschichte hat sich die Mechanik von Hits aufgrund der Technologie immer verändert.
 
 Das Radio war zu Beginn des 20. Jahrhunderts das erste große Medium, das Musik in die Haushalte brachte.
 Danach verteilte die Tonträgerindustrie Musik als Handelsware auf der ganzen Welt.
@@ -120,7 +120,7 @@ Analysieren Sie diese Daten und
 Empfehlen Sie jedem Benutzer unterschiedliche Songs.
 
 Ein typisches Beispiel ist Spotifys Discover Weekly.
-Diese 2015 eingeführte Funktion
+Diese im Jahr 2015 eingeführte Funktion
 Generieren Sie jede Woche eine neue Playlist für jeden Benutzer.
 
 Infolgedessen viele Künstler
@@ -251,7 +251,7 @@ Genres wie
 Verbreitet innerhalb der Internetkultur und der Algorithmen.
 
 Besonders Lo-Fi-Hip-Hop
-Dies ist ein typisches Beispiel dafür, wie es sich über die YouTube-Verbreitung verbreitete.
+Dies ist ein typisches Beispiel dafür, wie es sich über die YouTube-Distribution verbreitete.
 
 Musik optimiert für Studium und Beruf
 Gute Kompatibilität mit Algorithmen.

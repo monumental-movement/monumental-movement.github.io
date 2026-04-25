@@ -45,7 +45,7 @@ color: #fff;
 </style>
 
 
-## Kapitel 1 Historischer Ursprung von Lala
+## Kapitel 1 Historische Ursprünge von Lala
 
 Der Ursprung von Lala ist eng mit den tiefen Schichten der haitianischen Gesellschaft verbunden, die zwischen dem 18. und 19. Jahrhundert entstand. In Saint-Domingue pflegten während der französischen Kolonialzeit Menschen aus verschiedenen Teilen Afrikas ihre eigenen religiösen Rituale und ihre eigene Musikkultur. Obwohl diese Traditionen unter der Plantagenkontrolle unterdrückt wurden, wurden sie in Fragmenten durch nächtliche Versammlungen und Feste weitergegeben.
 
@@ -91,7 +91,7 @@ B --> E[集団音響]
 
 Lara hat in der Vergangenheit soziale Kommentare und politische Botschaften übermittelt. Der Text kann Satire auf aktuelle Ereignisse oder die Machthaber beinhalten, und der Marsch selbst kann eine Form des Protests sein.
 
-Unter der Diktatur wurden Rara-Märsche manchmal überwacht, doch die Musik und die Feierlichkeiten dienten dazu, Meinungen auszudrücken und gleichzeitig direkte Repression zu vermeiden. Die Art der Straßenbewegung war wichtig, um Zensur und Kontrolle zu vermeiden.
+Unter der Diktatur wurden Rara-Märsche manchmal überwacht, aber die Musik und die Feierlichkeiten dienten dazu, Meinungen auszudrücken und gleichzeitig direkte Repression zu vermeiden. Die Art der Straßenbewegung war wichtig, um Zensur und Kontrolle zu vermeiden.
 
 > Lala ist ein Sprechgerät im öffentlichen Raum, das eine feierliche Maske trägt.
 
@@ -111,7 +111,7 @@ Rara wird auch in Einwanderergemeinschaften vererbt, und im Ausland abgehaltene 
 
 Das moderne Lala pendelt zwischen traditionellen Ritualen, Tourismus und Musikindustrie. Während Aufnahmen und Bühnenproduktionen ein neues Publikum gewinnen, wurde auch darauf hingewiesen, dass die Gefahr besteht, dass die Essenz von Straßenmärschen verloren geht.
 
-Dennoch taucht Lara jedes Jahr in der Fastenzeit wieder auf der Straße auf. Selbst in Situationen, in denen Strom und Ressourcen begrenzt sind, kann Musik entstehen, solange Körper und Atem präsent sind. Diese Tatsache unterstützt die Nachhaltigkeit von Lala.
+Dennoch taucht Lara jedes Jahr in der Fastenzeit wieder auf der Straße auf. Auch in Situationen, in denen Strom und Ressourcen begrenzt sind, kann Musik entstehen, solange Körper und Atem präsent sind. Diese Tatsache unterstützt die Nachhaltigkeit von Lala.
 
 > Lala ist weiterhin wandelnde Musik, auch wenn sie sich an die moderne Zeit anpasst.
 
@@ -153,7 +153,7 @@ D --> E[帰還または別拠点]
 
 Lara hält lange durch. Es wurden Märsche aufgezeichnet, die einige Stunden bis über Nacht dauerten und manchmal mehrere Tage dauerten. Obwohl die Darsteller Pausen einlegen, laufen, blasen und klopfen sie im Grunde weiter. Müdigkeit ist unvermeidlich und das Teilen dieser Grenze wird Teil des Rituals selbst.
 
-Die körperlichen Anforderungen werden durch die Einfachheit und Wiederholbarkeit der Musik unterstützt. Aus diesem Grund haben nachhaltige Muster einen höheren Stellenwert als komplexe Melodien und fortgeschrittene Techniken. Musik ist nicht darauf ausgelegt, den Körper zu überanstrengen, sondern ist so optimiert, dass sie eine Form darstellt, die der Körper aushalten kann.
+Die körperlichen Anforderungen werden durch die Einfachheit und Wiederholbarkeit der Musik unterstützt. Aus diesem Grund haben nachhaltige Muster einen höheren Stellenwert als komplexe Melodien und fortgeschrittene Techniken. Musik soll den Körper nicht überanstrengen, sondern optimal unterstützen.
 
 > Lalas musikalische Struktur basiert auf der Voraussetzung, dass der Körper weitergehen kann.
 
@@ -185,7 +185,7 @@ Seit dem späten 20. Jahrhundert wird Rara als Musikgenre neu interpretiert, das
 
 Allerdings ist die aufgenommene Lala nur ein Teil des Originalerlebnisses. Musik, getrennt vom Gehen, Umgebungsgeräuschen und zufälligen Ereignissen, kann nicht umhin, ein Fragment eines Rituals zu sein.
 
-> Lala ist Musik, die sich zwar als Genre kategorisiert, sich aber noch nicht vollständig durchgesetzt hat.
+> Lala ist Musik, die sich, obwohl sie als Genre klassifiziert wurde, noch nicht vollständig etabliert hat.
 
 ---
 
@@ -201,7 +201,7 @@ Vergleichende Studien betonen marschierende, repetitive und partizipatorische St
 
 ## Final Chapter Musik, die weitergeht
 
-Rara ist eine Kultur, die eher durch Übung als durch Aufzeichnungen überlebt hat. Es gibt keine Musikpartituren oder feste Formen, und die Klänge werden durch den Körper aktualisiert. Wenn der Marsch endet, verschwindet die Musik, um im folgenden Jahr wieder auf den Straßen zu erscheinen.
+Rara ist eine Kultur, die eher durch Übung als durch Aufzeichnungen überlebt hat. Es gibt keine Musikpartituren oder feste Formen, und die Klänge werden durch den Körper aktualisiert. Wenn der Marsch endet, verschwindet die Musik, um im folgenden Jahr wieder auf den Straßen aufzutauchen.
 
 Dieser Zyklus ist der Kern von Lala. Ein Moment, in dem Geschichte, Religion, Politik und Leben zusammenkommen und als Klang sichtbar werden. Heute geht Lara weiterhin durch die Straßen Haitis.
 

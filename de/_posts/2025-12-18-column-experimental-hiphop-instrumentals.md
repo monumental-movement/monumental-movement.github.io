@@ -11,7 +11,7 @@ tags:
 - Experimental
 - Hiphop
 - Instrumental
-title: '[Kolumne] Experimentelle Hip-Hop-Instrumentale'
+title: '[Kolumne] Experimentelle Hip-Hop-Instrumente'
 ---
 
 
@@ -20,7 +20,7 @@ title: '[Kolumne] Experimentelle Hip-Hop-Instrumentale'
 
 Text: mmr｜Thema: Die Geschichte der Etablierung experimenteller Hip-Hop-Instrumentalmusik, der Produktionsprozess, Sampling-Techniken, Klangstruktur und die Produktionspraktiken von Knxwledge und Madlib.
 
-Hip-Hop ist im Wesentlichen eine Kultur, in der sich der verbale Ausdruck des MC und die sich wiederholende Struktur des Beats ergänzen. Seit den 1990er-Jahren jedoch eigenständige Instrumentalwerke ohne Rap zu kursieren begannen, traten Beats als Thema und nicht als Begleitung in den Vordergrund. Insbesondere bei experimentellen Instrumenten ist keine homogene Beatstruktur oder ein Entwicklungsdesign für den Rap erforderlich, und Zeit, Textur und Fragmentierung werden zu den Hauptdesignzielen.
+Hip-Hop ist im Wesentlichen eine Kultur, in der sich der verbale Ausdruck des MC und die sich wiederholende Struktur des Beats ergänzen. Doch seit in den 1990er-Jahren Instrumentalwerke ohne Rap unabhängig voneinander zu kursieren begannen, traten Beats als Thema und nicht als Begleitung in den Vordergrund. Insbesondere bei experimentellen Instrumenten ist keine homogene Beat-Struktur oder ein Entwicklungsdesign für den Rap erforderlich, und Zeit, Textur und Fragmentierung werden zu den Hauptdesignzielen.
 
 > „Der Verzicht auf Wrap ist kein Versäumnis, sondern eine Erweiterung der Gestaltungsfreiheit.“
 

@@ -173,7 +173,7 @@ Heute wird Acid House inmitten der Retro-Kultur und der Wiederbelebung analoger 
 
 - Explosive Verbreitung von TB-303-Klonflugzeugen (Nachbildung analoger Ausrüstung)
 
-Acid House ist mehr als nur ein Musikgenre, es ist weiterhin die Schnittstelle zwischen elektronischer Musik und Gegenkultur.
+Acid House ist mehr als nur ein Musikgenre, es steht weiterhin an der Schnittstelle zwischen elektronischer Musik und Gegenkultur.
 
 
 <hr>

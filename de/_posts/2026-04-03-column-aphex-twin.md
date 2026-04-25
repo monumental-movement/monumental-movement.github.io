@@ -53,7 +53,7 @@ color: #fff;
 
 Richard D. James, auch bekannt als Aphex Twin, wurde 1971 in Cornwall im Südwesten Englands geboren. Es wird gesagt, dass er schon in jungen Jahren ein starkes Interesse an elektronischen Geräten hatte und mit selbstgebauten und modifizierten Geräten Klänge erzeugte.
 
-„Informationsstörung“ ist wichtig, wenn man über seine Karriere spricht. In Interviews vermischt er bewusst Wahrheit und Fiktion. Beispielsweise können Aussagen wie der Überfall auf eine Bank als Kind, der Besitz eines Militärpanzers oder das Komponieren von Musik im Traum nicht als wahr angesehen werden.
+„Informationsstörung“ ist wichtig, wenn man über seine Karriere spricht. In Interviews vermischt er bewusst Wahrheit und Fiktion. Beispielsweise können Aussagen wie der Raub einer Bank als Kind, der Besitz eines Militärpanzers oder das Komponieren von Musik im Traum nicht als wahr bestimmt werden.
 
 Entscheidend ist jedoch nicht, ob es eine Lüge oder eine Wahrheit ist. Er demontiert das „eigentliche Bild eines Künstlers“. Mit anderen Worten handelt es sich um eine Strategie, die die Beziehung zwischen dem Werk und der Persönlichkeit verschleiert und die Interpretation des Hörers beeinflusst.
 
@@ -77,7 +77,7 @@ In den späten 1990er Jahren schlug er eine aggressivere und experimentellere Ri
 
 und Drukqs im Jahr 2001. In diesem Album koexistieren ultraschnelle und komplexe Drum-Programme mit ruhiger Klaviermusik. Hier kommt seine Ästhetik – das Zusammenleben von Chaos und Ordnung – am deutlichsten zum Ausdruck.
 
-„Syro“ aus dem Jahr 2014 integriert Elemente aus der Vergangenheit und verleiht ihnen einen anspruchsvolleren Sound.
+„Syro“ aus dem Jahr 2014 integriert Elemente aus der Vergangenheit und verleiht ihnen gleichzeitig einen anspruchsvolleren Sound.
 
 > Seine Arbeit ist keine Evolution, sondern eine Reihe von Bewegungen in verschiedene Dimensionen.
 

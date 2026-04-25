@@ -11,11 +11,11 @@ tags:
 - Triphop
 - Abstract
 - 90s
-title: Verschiedene – Build & Destroy (The Best Of Mo Wax Recordings)
+title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
 ---
 
 
-Ein Compilation-Album mit zwei CDs, das 1996 von MO WAX veröffentlicht wurde, einem legendären Label, das die 90er Jahre repräsentiert.
+90年代を代表する伝説のレーベルMO WAXから1996年リリースされた2枚組のコンピレーションアルバム。
 
 #### Trackliste
 ```md

@@ -13,7 +13,7 @@ title: '[Kolumne] Rhythmus der Stadtnacht: Soziologie der Clubkultur'
 ---
 
 
-## Der Moment, in dem die Nacht der Stadt zu läuten beginnt
+## Der Moment, in dem die Nacht der Stadt einzuläuten beginnt
 
 
 Text: mmr｜Thema: Entschlüsselung der Clubkultur, die sich zusammen mit Veränderungen in der sozialen Struktur von Städten entwickelt hat, aus soziologischer, kulturgeschichtlicher und technologischer Perspektive.
@@ -65,7 +65,7 @@ Musik ist sowohl Protest als auch Feier.
 ## Kapitel 3: Berlin, Tokio, London – Vergleich der Clubkultur nach Städten
 
 ### Berlin
-Nach dem Fall der Mauer wurde die zerstörte Stadt zum Versuchsfeld für die Freiheit. Clubs wie Tresor, Berghain und Watergate entstanden aus der chaotischen Vermischung östlicher und westlicher Kulturen.
+Nach dem Einsturz der Mauer wurde die zerstörte Stadt zum Versuchsfeld für die Freiheit. Clubs wie Tresor, Berghain und Watergate entstanden aus der chaotischen Vermischung östlicher und westlicher Kulturen.
 Clubs dienen nicht nur der Unterhaltung; Sie fungieren als „neue öffentliche Sphäre der Gesellschaft“.
 
 ### Tokio

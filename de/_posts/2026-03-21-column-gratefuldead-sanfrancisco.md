@@ -57,7 +57,7 @@ Viele von ihnen stellten bestehende gesellschaftliche Strukturen in Frage und su
 
 ### LSD und erweiterte Wahrnehmung
 
-„Acid Tests“ von Ken Kesey und den Merry Pranksters ist ein ikonisches Ereignis in der Kultur der Region. Die Musik, das Licht und die LSD-induzierten Wahrnehmungsveränderungen führten zu einem Erlebnis, das anders ist als jedes traditionelle Konzert.
+„Acid Tests“ von Ken Kesey und den Merry Pranksters ist ein ikonisches Ereignis in der Kultur der Region. Die Musik, das Licht und die LSD-induzierten Wahrnehmungsveränderungen führten zu einem Erlebnis, das mit keinem traditionellen Konzert vergleichbar ist.
 
 In diesem Zusammenhang war Musik nicht nur Unterhaltung, sondern fungierte als Mittel zur Bewusstseinstransformation.
 
@@ -79,7 +79,7 @@ Im selben Jahr änderte die Band ihren heutigen Namen. Der Name stammt aus der a
 
 Diese Symbolik sollte später eng mit ihrer Musik und der Spiritualität ihrer Gemeinschaft verbunden werden.
 
-> Der Bandname war nicht nur eine Bezeichnung, sondern auch ein Statement zur Ideologie.
+> Der Bandname war nicht nur eine Bezeichnung, sondern auch eine Gedankenaussage.
 
 ---
 
@@ -105,7 +105,7 @@ Dieses Format sollte einen großen Einfluss auf die spätere Live-Kultur haben.
 
 ### Fließfähigkeit des Liedes
 
-Grateful-Dead-Songs haben keine feste Form. Der Aufbau des gleichen Liedes verändert sich bei jeder Aufführung und weist teilweise völlig unterschiedliche Entwicklungen auf.
+Grateful-Dead-Songs haben keine feste Form. Die Struktur desselben Liedes ändert sich bei jeder Aufführung und weist teilweise völlig unterschiedliche Entwicklungen auf.
 
 Diese Fluidität schafft ein „einmaliges Erlebnis“ für das Publikum.
 

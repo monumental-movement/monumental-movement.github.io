@@ -47,7 +47,7 @@ color: #fff;
 
 #### 2.1 Genesis P-Orridge- und COUM-Getriebe
 
-Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokante und politische Themen in ihre Kunst ein.
+Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokative und politische Themen in ihre Kunst ein.
 
 Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Interesse an der Integration von bildender Kunst, Musik und Performance, was den Grundstein für seine spätere Arbeit legte. Er gründete auch Throbbing Gristle, die als Pioniere der Industrial-Musik international anerkannt wurden.
 
@@ -55,7 +55,7 @@ Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Intere
 
 Throbbing Gristle wurde 1976 gegründet und schockierte die Musikwelt Ende der 1970er Jahre mit ihrem Lärm, ihrer Industrial-Musik und ihren Live-Auftritten im Guerilla-Stil. 1981 löste sich die Gruppe jedoch auf. Kurz darauf startete Genesis ein neues musikalisches und künstlerisches Projekt mit Peter Christopherson und Alex Fergusson. Das ist Psychic TV.
 
-Psychic TV wurde nicht nur als Musikband konzipiert, sondern als „Multimedia-Kollektiv“, das Musik, Video, Performance und Okkultismus integriert und von Anfang an eine Struktur hatte, die den Schwerpunkt auf Experimente und Provokation legte.
+Psychic TV war nicht nur eine Musikband, sondern wurde als „Multimedia-Kollektiv“ konzipiert, das Musik, Video, Performance und Okkultismus integriert und von Anfang an eine Struktur hatte, die Experimente und Provokation in den Vordergrund stellte.
 
 ---
 
@@ -69,7 +69,7 @@ Frühe Musik zeichnete sich durch Innovationen aus, die über traditionelle Genr
 
 #### 3.2 Live-Auftritte und Videokunstaktivitäten
 
-Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritten wurden Videogeräte und mehrere Bildschirme eingesetzt, um dem Publikum ein herausforderndes und rituelles Erlebnis zu bieten. Es wurde versucht, die Live-Performance selbst als eine Art rituellen Raum zu rekonstruieren, nicht nur durch Musik, sondern auch durch Bilder und körperlichen Ausdruck.
+Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritten wurden Videogeräte und mehrere Bildschirme eingesetzt, um dem Publikum ein herausforderndes und zeremonielles Erlebnis zu bieten. Es wurde versucht, die Live-Performance selbst als eine Art rituellen Raum zu rekonstruieren, nicht nur durch Musik, sondern auch durch Bilder und körperlichen Ausdruck.
 
 #### 3.3 Geburt von Thee Temple ov Psychick Youth (T.O.P.Y.)
 
@@ -115,7 +115,7 @@ Nach seinem Umzug in die Vereinigten Staaten änderte Genesis seinen kreativen S
 
 Im Jahr 2003 wurde Psychic TV als PTV3 wieder vereint, begrüßte neue Mitglieder wie Edley ODowd und nahm Aktivitäten wieder auf, die Video, Ton und Performance integrierten.
 
-#### 6.2 Alben und konzeptuelle Arbeiten
+#### 6.2 Alben und konzeptionelle Arbeiten
 
 Zu den späteren Alben gehörten „Hell Is Invisible...Heaven Is Her/e“, „Mr. „Alien Brain vs. The Skinwalkers“ und „Alienist“, die ihren früheren Experimentalismus fortsetzten und gleichzeitig ein strukturiertes Konzept präsentierten.
 
@@ -169,6 +169,6 @@ graph LR
 
 ### 10. Fazit
 
-Psychic TV war eine umfassende Bewegung, die Musik, Rituale und Ideologie kreuzte. Ihre Arbeit geht über die bloße Musik hinaus und erforscht Magie, Bilder, den Körper, Spiritualität und Gemeinschaft. Genesis P-Orridges Vision sprengt Genregrenzen und nimmt zukünftige Ausdrucksformen vorweg, und sein Einfluss bleibt tief in der zeitgenössischen experimentellen Musik und Gegenkultur verankert.
+Psychic TV war eine umfassende Bewegung, die Musik, Rituale und Ideologie kreuzte. Ihre Arbeit geht über die reine Musik hinaus und erforscht Magie, Bilder, den Körper, Spiritualität und Gemeinschaft. Genesis P-Orridges Vision sprengt Genregrenzen und nimmt zukünftige Ausdrucksformen vorweg, und sein Einfluss bleibt tief in der zeitgenössischen experimentellen Musik und Gegenkultur verankert.
 
 ---
