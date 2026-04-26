@@ -175,6 +175,15 @@ EDMは終わっていない。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96D3BZ5q2Io?si=7gDsCT5qUIxfOZoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 付録A：年表 — EDM主要ムーブメント（1990–2025）
 
 <div class="mermaid">

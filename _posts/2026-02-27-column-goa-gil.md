@@ -215,3 +215,12 @@ D --> E[Daytime Psychedelic Phase]
 > Goa Gilのパーティーは、時間を拡張する実験場だった。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yx9c4IrmyT4?si=hBq2uYJyZ6vv9T2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
