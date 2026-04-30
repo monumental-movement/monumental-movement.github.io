@@ -15,11 +15,11 @@ title: Bomb The Bass – Say A Little Prayer
 ---
 
 
-Bomb The Bass Timothy Simenon (Tim Simenon)은 1980 년대 후반의 애시드 하우스 장면에 공헌한 UK 일렉트로닉 음악 장면의 대고소. 명작 「Beat Dis」로 잘 알려져 있다.
+Bomb The Bass ことTimothy Simenon (Tim Simenon) は、1980年代後半のアシッドハウスシーンに貢献したUKエレクトロニックミュージックシーンの大御所。名作「Beat Dis」でよく知られている。
 
-"Say A Little Prayer"는 Burt Bacharach & Hal David 작, 1967년에 Dionne Warwick에 의해 발표된 명곡의 커버.
+「Say A Little Prayer」は、Burt Bacharach & Hal David 作、1967年に Dionne Warwick によってリリースされた名曲のカヴァー。
 
-Bomb The Bass 버전은 어시드 하우스 & 다운 템포 remix에서 1988년 하우스 어시드 하우스를 전문으로 하는 라벨 Rhythm King에서 출시되었다.
+Bomb The Bass バージョンは、アシッドハウス&ダウンテンポremix で、1988年にハウス・アシッドハウスを専門とするレーベルRhythm Kingからリリースされた。
 
 
 #### Tracklist

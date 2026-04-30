@@ -14,7 +14,7 @@ title: Eagles – Hotel California
 ---
 
 
-Eagles(이글스)의 앨범 「호텔・캘리포니아」의 타이틀곡. 작사·작곡은, Don Felder(동·펠더), Don Henley(동·헨리).
+Eagles（イーグルス）のアルバム「ホテル・カリフォルニア」のタイトル曲。作詞・作曲は、Don Felder（ドン・フェルダー）、Don Henley（ドン・ヘンリー）。
 
 #### Tracklist
 ```md

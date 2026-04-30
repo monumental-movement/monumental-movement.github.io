@@ -15,9 +15,9 @@ title: Three Million – I've Been Robbed
 ---
 
 
-Three Million은 Larry Butler, Mark King, Wanda Butler에 의한 유닛. Larry와 Wanda는 Jim Grant와 함께 Odds And Ends로 Today Records에서 활동했지만, 70년대 후반에 United Artists로 이적했을 때 Jim Grant로 바뀌어 Mark King이 가입했다. 라벨 Cotillion으로 이적 후 이름을 Three Million으로 변경했다.
+Three Million は、Larry Butler, Mark King, Wanda Butlerによるユニット。LarryとWanda はJim Grant と共にOdds And Ends としてToday Recordsで活動していたが、70年代後半にUnited Artistsに移籍した際Jim Grant に変わりMark Kingが加入した。レーベルCotillionに移籍後は名前をThree Millionに変更した。
 
-「I've Been Robbed」는, 1983년에 라벨 Cotillion으로부터 릴리스된 Disco/Funk/Boogie. 프로듀서는 Gene Lawson & Reuben Cross.
+「I've Been Robbed」は、1983年にレーベルCotillionからリリースされたDisco／Funk／Boogie。プロデューサーはGene Lawson & Reuben Cross。
 
 #### Tracklist
 ```md

@@ -11,19 +11,19 @@ tags:
 - Noise
 - Trance
 - Tribal
-title: 【칼럼】 Boredoms：혼돈의 구축자로서의 궤적과 확장하는 우주
+title: 【コラム】 Boredoms：混沌の構築者としての軌跡と拡張する宇宙
 ---
 
 
 
-## 서장 : Boredoms는 누구였습니까?
+## 序章：Boredomsとは何者だったのか
 
-문장：mmr｜테마：Boredoms의 변천을 쫓아, 그 작품 형태·라이브·파생 유닛이 어떻게 발전했는지에 대해서
+文：mmr｜テーマ：Boredomsの変遷を追い、その作品形態・ライブ・派生ユニットがどのように発展したのかについて
 
-일본의 음악사에서 **Boredoms**(보아담스)는 어떤 맥락에서도 완전히 설명할 수 없는 존재로서 특이한 위치를 차지하고 있다.
-1980년대 후반 오사카에서 결성된 이들은 노이즈, 하드코어, 아방가르드, 사이케델리아, 그리고 후년의 리듬 앙상블로 변화를 이루며 전세계 뮤지션에 영향을 미쳤다.
+日本の音楽史において **Boredoms**（ボアダムス）は、どの文脈においても完全に説明しきれない存在として特異な位置を占めている。  
+1980年代後半、大阪で結成された彼らは、ノイズ、ハードコア、アヴァンギャルド、サイケデリア、さらに後年のリズムアンサンブルへと変化を遂げ、世界中のミュージシャンに影響を及ぼした。
 
-Boredoms는 장르를 넘어서기 때문에 단순한 역사 서술로는 파악할 수 없다. 그러나 그 활동은 확실히 시대와 연동해, 동시에 시대와 단절하고 있었다.
+Boredomsはジャンルを越境するため、単純な歴史叙述では捉えられない。しかしその活動は確かに時代と連動し、同時に時代と断絶していた。  
 
 ---
 
@@ -41,13 +41,13 @@ color: #fff;
 </style>
 
 
-## 제1장:결성 전사와 오사카 언더그라운드의 지층
-1980년대 오사카에는 도쿄와는 다른 독자적인 언더그라운드 문화가 형성되어 있었다. 극장, 폐빌딩, 라이브하우스가 혼재해 펑크, 하드코어, 노이즈, 퍼포먼스 아트의 경계가 모호한 장소가 많이 태어났다. Boredoms의 핵이 된 멤버 ** 야마즈카 아이 **는이 잡다한 환경을 흡수하면서 자신의 표현을 모색했다.
+## 第1章：結成前史と大阪アンダーグラウンドの地層
+1980年代の大阪には、東京とは異なる独自のアンダーグラウンド文化が形成されていた。劇場、廃ビル、ライブハウスが混在し、パンク、ハードコア、ノイズ、パフォーマンスアートの境界が曖昧な場が多く生まれた。Boredomsの核となったメンバーである **山塚アイ** は、この雑多な環境を吸収しながら自身の表現を模索した。
 
-아이는 초기에는 퍼포먼스 색이 강한 활동을 실시해, 소리뿐만 아니라 신체의 움직임, 오브제, 콜라주적인 표현을 실천하고 있었다.
-이러한 "음악 이전"적인 단계를 거쳐 나중에 Boredoms의 원형이되는 **Hanatarash(하나타라시)**가 움직이기 시작한다.
+アイは初期にはパフォーマンス色が強い活動を行い、音だけでなく身体の動き、オブジェ、コラージュ的な表現を実践していた。  
+こうした“音楽以前”的な段階を経て、後にBoredomsの原型となる **Hanatarash（ハナタラシ）** が動き出す。
 
-### 그림 1 : 야마즈카 아이의 초기 계보
+### 図1：山塚アイの初期系譜
 
 <div class="mermaid">
 flowchart TD
@@ -59,23 +59,23 @@ flowchart TD
 
 
 
-Hanatarash의 라이브는 과격함으로 알려져, 실제로 중기를 반입하는 등 위험행위가 문제시되기도 했다. 이 극단적 인 폭력과 표현 충동은 나중에 Boredoms에서 "제어 된 혼란"으로 바뀝니다.
+Hanatarashのライブは過激さで知られ、実際に重機を持ち込むなど危険行為が問題視されることもあった。この極端な暴力性と表現衝動は、後のBoredomsにおける“制御された混沌”へと変化していく。
 
 ---
 
-## 2장: Boredoms의 성립과 초기 하드코어 기간(1986–1990)
+## 第2章：Boredomsの成立と初期ハードコア期（1986–1990）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jWk2ApP8Ljw?si=0TcBtGnj_aRKaBDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Boredoms는 1986년경에 오사카에서 시동했고, 초기 멤버에는 **야마즈카 아이, 타바타 미츠, 요시카와 토요토, HIRA** 등이 참가했다.
-이들의 초기 작품은 하드 코어의 속도감과 노이즈의 파괴력을 고밀도로 혼합한 것으로, 외치고, 단편화한 비트, 갑작스런 정적이 연속적으로 전환되는 구성을 가지고 있었다.
+Boredomsは1986年頃に大阪で始動し、初期メンバーには **山塚アイ、田畑満、吉川豊人、HIRA** などが参加した。  
+彼らの初期作品はハードコアの速度感とノイズの破壊力を高密度で混ぜ合わせたもので、叫び、断片化したビート、突然の静寂が連続的に切り替わる構成を持っていた。
 
-1988년 해외 인디 씬에서도 주목을 끌게 되어 미국의 언더그라운드 커뮤니티에서 화제에.
-1989년에는 **Sonic Youth**가 강력하게 지지하고 그들과의 교류를 통해 미국의 대형 인디에 연결된다.
+1988年、海外のインディーシーンでも注目を集めるようになり、米国のアンダーグラウンドコミュニティで話題に。  
+1989年には **Sonic Youth** が強力に支持し、彼らとの交流を介してアメリカのラージ・インディーへと接続される。
 
-### 초기 Boredoms의 음악 구조
+### 初期Boredomsの音楽構造
 
 <div class="mermaid">
 flowchart TD
@@ -89,73 +89,73 @@ flowchart TD
 
 
 
-이 시기의 라이브는 항상 예측 불가능하고, 스테이지상의 액션도 격렬했지만, 점차 앙상블의 정밀도가 오르고, 음향 구조가 복잡해져 간다.
+この時期のライブは常に予測不可能で、ステージ上のアクションも激しかったが、次第にアンサンブルの精度が上がり、音響構造が複雑化していく。
 
 ---
 
-## 제3장: 90년대 사이키델릭기와 구축성 획득(1990–1999)
+## 第3章：90年代のサイケデリック期と構築性の獲得（1990–1999）
 
-### 3-1. 'Super æ'에 도달
+### 3-1. 『Super æ』への到達
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FK4JAnszGvk?si=0ggxJZxjvvvp-Nrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-1998년의 슈퍼 아(Super æ)는 기존의 노이즈 믹스처의 요소를 유지하면서 소리의 질서, 반복, 미니멀리즘이 크게 앞서 나온 작품이다.
-소리는 중층화되어 반복 리듬 속에 트랜스감이 섞여, 환각적인 퍼짐을 갖기 시작했다.
+1998年の『Super æ（スーパーアー）』は、従来のノイズ・ミクスチャーの要素を保ちつつ、音の秩序、反復、ミニマリズムが大きく前に出た作品である。
+音は重層化され、反復リズムの中にトランス感が紛れ込み、サイケデリックな広がりを持ち始めた。
 
-### 3-2. Vision Creation Newsun이라는 정점
+### 3-2. 『Vision Creation Newsun』という頂点
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZPtaUSEvf8?si=fmN--hwnaNjaAAFu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-다음 1999년의 「Vision Creation Newsun」은 Boredoms의 경력에 ​​있어서의 결정적 작품의 하나.
-자연음, 민족적 타악기, 지속음과 순환 구조, 기타 드론, 다층 리듬…
+翌1999年の『Vision Creation Newsun』は、Boredoms のキャリアにおける決定的作品のひとつ。
+自然音、民族的パーカッション、持続音と循環構造、ギタードローン、多層リズム……。
 
-여기서 Boredoms는 "록 밴드"조차도 우주적 미니멀리즘과 의례적 변압기로 심화되었습니다.
-
----
-
-### 3.3 사이키델릭화 배경
-- 아이의 시점이 충동적 파괴에서 “우주적 확대”로 이행
-- 요시무라 유카(Yoshimi)가 중심적인 역할을 하며, 드럼/보컬/일렉트로닉스 면에서 중요한 발전을 가져온다
-- 미니멀리즘과 반복 구조에 대한 관심이 강화
-
-이 결과 90년대 후반의 작품은 '빛의 소용돌이'와 같은 사운드로 변화해 국제적 평가가 높아졌다.
+ここでの Boredoms は“ロックバンド”でさえなく、宇宙的ミニマリズムと儀礼的トランスへと深化していった。
 
 ---
 
-## 제4장: V∞redoms/보아드람에 의한 리듬 앙상블기(2000–2010)
+### 3.3 サイケデリック化の背景
+- アイの視点が衝動的破壊から“宇宙的拡大”へと移行  
+- 吉村由加（Yoshimi）が中心的役割を担い、ドラム／ヴォーカル／エレクトロニクス面で重要な発展をもたらす  
+- ミニマルリズムと反復構造への興味が強まる  
 
-### 4-1. 멤버 이동과 새로운 구조로의 변화
+この結果、90年代後半の作品は「光の渦」のようなサウンドに変化し、国際的評価が高まった。
 
-2000년대 초반 멤버 구성에 큰 변화가 생긴다.
-기타리스트나 베이스가 빠져, 편성은 보다 「드럼×퍼커션」을 핵으로 한 새로운 구조로 향한다.
-Yoshimi P-We를 중심으로 하는 드럼/타악기의 중층적인 스타일은, 이후의 Boredoms의 특징이 된다.
+---
 
-### 4-2. 『Seadrum / House of Sun』에 의한 신국면
+## 第4章：V∞redoms／ボアドラムによるリズムアンサンブル期（2000–2010）
 
-2004년 『Seadrum / House of Sun』을 발표.
-해변 녹음의 요소, 장척의 드론, 명상적인 구조, 환경음과 반복이 융합해, “소리의 의례”와 같은 세계가 성립했다.
+### 4-1. メンバーの移動と新構造への変化
+
+2000年代初頭、メンバー構成に大きな変化が生まれる。
+ギタリストやベースが抜け、編成はより「ドラム × パーカッション」を核とした新しい構造へと向かう。
+Yoshimi P-We を中心とするドラム／打楽器の重層的スタイルは、この後の Boredoms の特徴になる。
+
+### 4-2. 『Seadrum / House of Sun』による新局面
+
+2004年、『Seadrum / House of Sun』を発表。
+ビーチ録音の要素、長尺のドローン、瞑想的な構造、環境音と反復が融合し、“音の儀礼”のような世界が成立した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ObBwAq-Nx0A?si=Rg_siWf8KjzNuZaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-여기서 밴드명은 종종 V∞redoms(보아담스)로 표기되어 Boredoms 자체의 개념이 음악 유닛이라기 보다 '집단적 창조체'로 변화해 간다.
-2000년대에 Boredoms는 **V∞redoms** 명의를 포함한 새로운 전개에 들어가, 특히 상징적인 것이 **7월 7일에 개최된 “7x7x7” 라이브**를 시작으로 하는 대규모 드럼 앙상블이다.
+ここで、バンド名はしばしば V∞redoms（ヴォアダムス） と表記され、Boredoms 自体の概念が音楽ユニットというより「集団的創造体」へと変化していく。
+2000年代にBoredomsは **V∞redoms** 名義を含む新展開に入り、特に象徴的なのが **7月7日に開催された“7x7x7”ライブ** を皮切りとする大規模ドラムアンサンブルである。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 4.3 보어 드럼의 의미
-- 다수 드럼에 의한 거대한 폴리 리듬 구조
-- 관객을 캡처하는 원환 구조의 회장 레이아웃
-- 아이의 지휘에 의한 시각/신체적 체험의 중시
+### 4.3 ボアドラムの意義
+- 多人数ドラムによる巨大なポリリズム構造  
+- 観客を取り込む円環構造の会場レイアウト  
+- アイの指揮による視覚／身体的体験の重視  
 
-### 보어드럼 구조도
+### ボアドラムの構造図
 
 <div class="mermaid">
 flowchart TD
@@ -169,26 +169,26 @@ flowchart TD
 
 ---
 
-## 5장: 2010년대 이후 활동
-2010년대 이후 Boredoms는 간헐적인 라이브 활동을 계속하면서 멤버 개개인의 창작 활동도 심화한다.
-특히 **Eye의 비주얼 아트적 활동**이나 **Yoshimi의 OOIOO/SAICOBABA 등에서의 활동**이 퍼져 Boredoms는 "밴드"라기보다 "집합체적 프로젝트"의 인상이 강해졌다.
+## 第5章：2010年代以降の活動
+2010年代以降、Boredomsは断続的なライブ活動を続けながら、メンバー個々の創作活動も深化する。  
+特に **Eye のヴィジュアルアート的活動** や **Yoshimi のOOIOO／SAICOBABAなどでの活動** が広がり、Boredomsは“バンド”というより“集合体的プロジェクト”の印象が強まった。
 
 ---
 
-## 제6장: OOIOO(오아이오)의 성립과 진화
-OOIOO는 **Yoshimi P-We**에 의해 1990년대 후반에 시작된 프로젝트로, Boredoms와는 다른 방향성을 가지면서, 깊고 강한 연결을 가진다.
+## 第6章：OOIOO（オーアイオー）の成立と進化
+OOIOOは **Yoshimi P-We** によって1990年代後半にスタートしたプロジェクトで、Boredomsとは異なる方向性を持ちながら、深部で強いつながりを持つ。
 
-### 6.1 OOIOO의 특징
-- 다층적 타악기
-- 주술적 및 환경 음적 음성
-- 폴리 리듬과 최소한의 융합
-- 멤버 구성의 변화를 전제로 한 유연한 체제
+### 6.1 OOIOOの特徴
+- 多層的パーカッション  
+- 呪術的・環境音的ボイス  
+- ポリリズムとミニマルの融合  
+- メンバー構成の変容を前提とした柔軟な体制  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJ1FLn7T448?si=3zMUsGzxLXOw_50q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### OOIOO의 음악 구조
+### OOIOOの音楽構造
 
 <div class="mermaid">
 flowchart TD
@@ -201,25 +201,25 @@ flowchart TD
 
 ---
 
-OOIOO의 활동은 Boredoms의 후기 리듬 앙상블과 상호작용하고 있으며, 요시무라의 방향성이 Boredoms의 사운드에도 귀환하는 구조를 가진다.
+OOIOOの活動はBoredomsの後期リズムアンサンブルと相互作用しており、吉村の方向性がBoredomsのサウンドにも帰還する構造を持つ。
 
 ---
 
-## 제7장: 야마즈카 아이(Yamantaka Eye)의 개인사와 창작관
-이 장에서는 지금까지 단편적으로 접해 온 '야마즈카 아이'의 개인 활동을 체계적으로 정리한다.
+## 第7章：山塚アイ（Yamantaka Eye）の個人史と創作観
+本章では、これまで断片的に触れられてきた **山塚アイ** の個人活動を体系的に整理する。
 
-### 7.1 초기 관심
-벡터
-- 파괴적 성능
-- 소리보다 “장”에 대한 관심
+### 7.1 初期の興味
+- コラージュ、漫画、具体的アート  
+- 破壊的パフォーマンス  
+- 音よりも“場”への関心  
 
-### 7.2 샘플링 감각 형성
-아이는 90년대 초반부터 턴테이블과 카세트를 소재로 취급해 물질적인 소리의 단편을 잇는 “촉각적인 편집”을 자랑했다.
+### 7.2 サンプリング感覚の形成
+アイは90年代初期からターンテーブルやカセットを素材として扱い、物質的な音の断片をつなぎ合わせる“触覚的な編集”を得意とした。
 
-## 7.3 리듬에 경사(2000년대)
-보어드럼기에서 아이의 관심은 리듬의 물리적·신체적 측면으로 크게 이행해 지휘자로서의 역할이 중심이 되었다.
+## 7.3 リズムへの傾斜（2000年代）
+ボアドラム期において、アイの関心はリズムの物理的・身体的側面へと大きく移行し、指揮者としての役割が中心となった。
 
-### 아이의 표현 진화
+### Eyeの表現進化
 
 <div class="mermaid">
 flowchart TD
@@ -231,32 +231,32 @@ flowchart TD
 
 ---
 
-## 8장: Boredoms의 음악적 구조 체계화
-본 장에서는 Boredoms의 음악을 구조적으로 정리한다.
+## 第8章：Boredomsの音楽的構造を体系化する
+本章では、Boredomsの音楽を構造的に整理する。
 
-### 8.1 상반되는 양극성
-1. **파괴적·돌발적 요소**
-2. **반복 및 구조성 획득**
+### 8.1 相反する二極性
+1. **破壊的・突発的要素**  
+2. **反復と構造性の獲得**
 
-이 양극성을 오가는 것으로, 그들의 작품은 독특한 유동성을 가졌다.
+この二極性を行き来することで、彼らの作品は独特の流動性を持った。
 
-### 8.2 리듬 구조
-후기의 Boredoms에서는, 리듬이 주어가 되어, 선율이나 가사는 보조적 역할로 이행했다.
-
----
-
-## 9장: 멤버 변천과 앙상블 확장
-Boredoms의 특징 중 하나는 **고정 멤버성이 얇고 역할이 계속 확장한 것**이다.
-
-- Yoshimi: 드럼/보컬/퍼커션/전자
-- 신지 마스코 : 기타와 장비 구축
-- E-Da: 드럼
-- Yo2ro: 드럼
-- Others : 다양한 드러머와 게스트가 다수 참여
+### 8.2 リズム構造
+後期のBoredomsでは、リズムが主語となり、旋律や歌詞は補助的役割へ移行した。
 
 ---
 
-## 제10장: Boredoms의 역사 연표
+## 第9章：メンバーの変遷とアンサンブルの拡張
+Boredomsの特徴のひとつは、**固定メンバー性が薄く、役割が拡張し続けたこと** である。
+
+- Yoshimi：ドラム／ヴォーカル／パーカッション／エレクトロニクス  
+- Shinji Masuko：ギターと機材構築  
+- E-Da：ドラム  
+- Yo2ro：ドラム 
+- Others：多様なドラマーやゲストが多数参加  
+
+---
+
+## 第10章：Boredomsの歴史年表
 
 <div class="mermaid">
 timeline
@@ -274,11 +274,18 @@ timeline
 
 ---
 
-## 종장 : Boredoms는 "확장하는 우주"입니다
-Boredoms는 단순한 밴드가 아니라 **시간에 따라 형상을 바꾸는 “장 그 자체”**라고 말할 수 있다.
-거기에는 아이의 철학적 시점, Yoshimi의 신체적 리듬, 멤버 각자의 독자성이 복잡하게 얽혀 하나의 거대한 생명체처럼 성장해 왔다.
+## 終章：Boredomsとは“拡張する宇宙”である
+Boredomsは単なるバンドではなく、**時間とともに形状を変える“場そのもの”** と言える。  
+そこにはアイの哲学的視点、Yoshimiの身体的リズム、メンバー各自の独自性が複雑に絡み合い、ひとつの巨大な生命体のように成長してきた。
 
-OOIOO나 Eye의 개인사를 포함해 부감하면, Boredoms의 활동은 “중심이 없는 소용돌이”와 같이 퍼져 계속되고 있어 지금도 그 영향은 전세계에서 참조되고 있다.
+OOIOOやEyeの個人史を含めて俯瞰すると、Boredomsの活動は“中心のない渦”のように広がり続けており、現在でもその影響は世界中で参照され続けている。
 
 ---
 
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmCzcTwOQrE?si=DxJJbvyyGeqMRTXy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

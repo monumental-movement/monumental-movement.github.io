@@ -13,7 +13,7 @@ title: Anthony Vieira – Merino EP
 ---
 
 
-Anthony Vieira는 Raoul Delgardo와 Tony Soares Vieira의 단위입니다. Anthony Vieira – Merino EP는 UK의 테크노 라벨 Sheep Records보다 1999년에 릴리스.
+Anthony Vieira는 Raoul Delgardo와 Tony Soares Vieira의 단위입니다. "Anthony Vieira - Merino EP"는 UK의 테크노 라벨 Sheep Records보다 1999 년에 릴리스.
 
 #### Tracklist
 ```md

@@ -27,7 +27,7 @@ title: 【칼럼】 어시드 재즈(Acid Jazz)──클럽 문화와 도시의 
 
 어시드 재즈(Acid Jazz)는 1980년대 후반 런던에서 태어난 음악 무브먼트이며, 재즈, 펑크, 서울, 힙합, 라틴, 레어 그루브 등을 믹스한 크로스오버 사운드를 특징으로 한다. 명칭의 유래는 DJ [길레스 피터슨(Gilles Peterson)](https://amzn.to/3KOnzMr)과 레코드 프로듀서 [에디 필러(Eddie Piller)](https://amzn.to/4hdwdAb)가 설립한 라벨 「Acid Jazz Records」에 거슬러 올라간다.
 
-1980년대 클럽 씬에서는 애시드 하우스와 힙합의 열기에 호응하면서 블랙 뮤직을 재평가하는 움직임이 강해지고 있었다. 그 중 '춤추는 재즈' '클럽 대응의 소울풀한 음악'으로 애시드 재즈는 등장한 것이다.
+1980년대 클럽 씬에서는 어시드 하우스와 힙합의 열기에 호응하면서 블랙 뮤직을 재평가하는 움직임이 강해지고 있었다. 그 중 '춤추는 재즈' '클럽 대응의 소울풀한 음악'으로 애시드 재즈는 등장한 것이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -68,7 +68,7 @@ title: 【칼럼】 어시드 재즈(Acid Jazz)──클럽 문화와 도시의 
 
 ### 주변 국가의 지정 학적 맥락
 
-Acid Jazz의 확산은 유럽, 미국, 아시아의 지정학과 밀접하게 관련되어있었습니다.
+Acid Jazz의 확산은 유럽, 미국 및 아시아의 지정학과 밀접하게 관련되어있었습니다.
 
 
 <hr>

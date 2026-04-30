@@ -15,7 +15,7 @@ title: VA – Cinema Beer Nuts
 ---
 
 
-하드 코어 펑크 편집 : Hopeless Records의 Cinema Beer 시리즈
+ハードコア・パンク コンピレーション：Hopeless RecordsのCinema Beerシリーズ
 
 VA – Cinema Beer Nuts
 

@@ -20,7 +20,7 @@ title: 90년대 UK 테크노 작품 픽업
 ### Justin Berkovi – Fast - Wide E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
 
-Released: 1998년
+출시: 1998년
 
 UK · Cloned - Vinyl에서 출시 된 4 트랙 EP. A면에 'Brutal - City', 'Risk - Rumblin', B면에 'Steadycam', 'Neon'
 

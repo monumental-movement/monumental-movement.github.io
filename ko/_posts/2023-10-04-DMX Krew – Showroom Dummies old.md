@@ -14,7 +14,7 @@ title: DMX Krew – Showroom Dummies old
 
 
 「Showroom Dummies」는,
-1998년 독일 라벨 'International Deejay Gigolo Records'에서 출시된 DMX Krew의 EP입니다.
+1998 년 독일 라벨 "International Deejay Gigolo Records"에서 출시 된 DMX Krew의 EP입니다.
 
 
 #### Tracklist

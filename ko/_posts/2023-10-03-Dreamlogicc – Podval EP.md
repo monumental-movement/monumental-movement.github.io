@@ -13,9 +13,9 @@ title: Dreamlogicc – Podval EP
 ---
 
 
-Dreamlogicc – Podval EP는 미국 라벨 Kimochi에서 2012년에 출시되었습니다.
+「Dreamlogicc – Podval EP」は、アメリカのレーベル	Kimochiから2012年にリリースされました。
 
-※200장의 한정판으로, A3 와 A4 는 크레딧 되지 않은 간주로, 락 된 그루브로 끝납니다.
+※200枚の限定版で、A3 と A4 はクレジットされていない間奏で、ロックされたグルーヴで終わります。
 
 #### Tracklist
 ```md

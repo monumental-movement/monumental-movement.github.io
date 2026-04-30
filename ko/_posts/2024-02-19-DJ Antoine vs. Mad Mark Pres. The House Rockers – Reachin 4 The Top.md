@@ -14,7 +14,7 @@ title: DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top
 ---
 
 
-DJ Zki & Dobre에 의해 설립된 네덜란드 하우스 라벨 Fresh Fruit Records에서 2000년에 출시된 DJ 앙투안 & 매드마크의 하우스 갈라지 하우스 트럭.
+DJ Zki & Dobre에 의해 설립된 네덜란드 하우스 라벨 Fresh Fruit Records에서 2000년에 발매된, DJ 앙투안 & 매드마크의 하우스 갈라지 하우스 트럭.
 
 #### Tracklist
 ```md

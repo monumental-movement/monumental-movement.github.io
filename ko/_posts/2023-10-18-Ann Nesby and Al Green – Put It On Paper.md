@@ -16,7 +16,7 @@ title: Ann Nesby & Al Green – Put It On Paper
 
 Ann Nesby(앤 네스비)의 앨범 「Put It On Paper(풋 잇 온 페이퍼)」를 DJ Spen & Karizma가 mix.
 
-Karizma(카리즈마)는, 볼티모어 출신의 DJ/프로듀서이며 전 The Basement Boys의 멤버. 딥 하우스, 딥 테크노, 힙합, 재즈, 브로큰 비트 등 폭넓은 장면에서 활약.
+Karizma (카리즈마)는 볼티모어 출신 DJ / 프로듀서이며 전 The Basement Boys의 멤버. 딥 하우스, 딥 테크노, 힙합, 재즈, 브로큰 비트 등 폭넓은 장면에서 활약.
 
 DJ Spen은 볼티모어 출신의 DJ/프로듀서이며 전 The Basement Boys의 멤버. 2000년대 초반에 DJ Spen & The MuthaFunkaz를 결성.
 

@@ -9,13 +9,13 @@ permalink: /ko/surgeon-force-form-tresor-117/
 tags:
 - Techno
 - DJ
-title: Surgeon – Force+Form(Tresor 117)
+title: Surgeon – Force+Form（Tresor 117）
 ---
 
 
-Tresor(트레조아)로부터 1999년에 릴리스된 UK 일렉트로닉 뮤지션&DJ, Surgeon(서전)의 CD.
+Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、Surgeon（サージョン）のCD。
 
-Surgeon은 DJ 세트에서 Ableton Live와 Final Scratch를 사용한 최초의 DJ 중 하나로도 알려져 있습니다.
+Surgeonは、DJ セットでAbleton Live と Final Scratch を使用した最初の DJ の 1 人としても知られている。
 
 
 #### Tracklist

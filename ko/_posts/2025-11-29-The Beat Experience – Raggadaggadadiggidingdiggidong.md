@@ -22,9 +22,9 @@ title: The Beat Experience – Raggadaggadadiggidingdiggidong
 
 
 
-The Beat Experience(비트 체험)는 Stefan Heinemann의 수많은 별명의 하나. Stefan Heinemann은 독일 출신의 House/Electro/Trance 프로듀서&DJ Thorsten Kaiser(DJ Thoka)와의 프로젝트, Hypertrophy 등에서도 활동하고 있었다.
+The Beat Experience(ビートエクスペリエンス)は、Stefan Heinemannの数ある別名義の一つ。Stefan Heinemannは、ドイツ出身のHouse/Electro/Trance プロデューサー&DJ Thorsten Kaiser(DJ Thoka)とのプロジェクト、Hypertrophyなどでも活動していた。
 
-'Raggadaggadadiggidingdiggidong'은 1994년 독일 Dance Pop 레이블 Blow Up에서 출시된 Euro House 트럭. 프로듀서는 The Wild Boys.
+「Raggadaggadadiggidingdiggidong」は、1994年にドイツのDance PopレーベルBlow UpからリリースされたEuro Houseトラック。プロデューサーはThe Wild Boys。
 
 #### Tracklist
 ```md

@@ -15,7 +15,7 @@ title: Deep In Rhythm Featuring Ezee P – Keep The Crowd Movin'
 ---
 
 
-90s의 UK 라벨 Debut로부터 1990년에 릴리스된, 댄스 뮤직 프로젝트 Deep In Rhythm Featuring Ezee P에 의한 Breakbeat/House/Hip Hop.
+90sのUKレーベルDebutから1990年にリリースされた、ダンスミュージックプロジェクトDeep In Rhythm Featuring Ezee PによるBreakbeat／House／Hip Hop。
 
 #### Tracklist
 ```md

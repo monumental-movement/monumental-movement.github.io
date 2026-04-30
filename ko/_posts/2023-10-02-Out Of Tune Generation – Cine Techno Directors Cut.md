@@ -15,7 +15,7 @@ title: Out Of Tune Generation – Cine Techno Director's Cut
 
 Out Of Tune Generation은 타카나미 케이타로(피치카트 파이브)의 프로젝트. A1은 몬드 영화, 'Sweden: Heaven and Hell'의 삽입곡 '마나 마나'의 하우스 커버.
 
-A2는 그리스 영국 영화 '물고기가 나온 날'의 커버.
+A2는, 그리스·영국 영화 「물고기가 나온 날」의 커버.
 
 B1의 Linus & Lucy는, 땅콩(특히 스누피의 메리 크리스마스)로 자주 흐르는 빈스 가랄디가 1964년에 발표한 악곡 Linus & Lucy(라이너스 앤 루시)의 커버. B2는 영국 영화 "입술에서 칼"의 커버.
 

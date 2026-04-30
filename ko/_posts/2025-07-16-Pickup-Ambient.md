@@ -11,24 +11,24 @@ tags:
 - 90s
 - 80s
 - 70s
-title: 앰비언트 작품 픽업
+title: アンビエント作品をピックアップ
 ---
 
 
-"정적과 소리의 경계를 탐구해, 심원한 몰입 체험을 가져오는 주목해야 할 앰비언트 작품군"
+「静寂と音の境界を探り、深遠な没入体験をもたらす注目すべきアンビエント作品群」
 
 <hr>
 
 ### Dreamlogicc – Podval EP
 <a href="https://jp.mercari.com/item/m64740020390?afid=6142608987"><img src="../assets/images/Dreamlogicc%20%E2%80%93%20Podval%20EP.webp"></a>
 
-장르：Ambient Techno
+ジャンル：Ambient Techno
 
-출시: 2012년(US 라벨 Kimochi)
+リリース：2012年（USレーベル Kimochi）
 
-포맷: 한정 200장 앨범(Vinyl)
+フォーマット：限定200枚アルバム（Vinyl）
 
-특징: 깊은 그루브와 공간적인 사운드스케이프를 융합한 작품
+特徴：ディープなグルーヴと空間的なサウンドスケープを融合した作品 
 
 #### Tracklist
 ```md
@@ -57,13 +57,13 @@ B2. Equalizer
 ### Spacetime Continuum – Emit Ecaps
 <a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
 
-장르: Ambient/IDM/Techno
+ジャンル：Ambient / IDM / Techno
 
-출시: 1996년(Reflective Records)
+リリース：1996年（Reflective Records）
 
-포맷: 2매 세트 LP
+フォーマット：2枚組LP
 
-특징: Jonah Sharp의 90년대 언더그라운드 앰비언트 걸작
+特徴：Jonah Sharpの90年代アンダーグラウンド・アンビエント傑作 
 
 #### Tracklist
 ```md
@@ -94,13 +94,13 @@ D3. String Of Pearls
 ### Sanjiva – Secret Rooms Over Flowing Delight
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
-장르：Ambient Electronic Techno
+ジャンル：Ambient Electronic Techno
 
-출시: 1996년(Ninetysix Sounds)
+リリース：1996年（Ninetysix Sounds）
 
-포맷: 2-track 12″
+フォーマット：2-track 12″
 
-특징 : Charles Reix의 깊은 트랜스 트럭
+特徴：Charles Reixによる深みあるトランストラック 
 
 #### Tracklist
 ```md
@@ -121,13 +121,13 @@ B. Over Flowing Delight
 ### Dub Tractor – Scary H H Loop / 104 Dub
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
 
-장르:Ambient/Experimental/Trip Hop
+ジャンル：Ambient / Experimental / Trip Hop
 
-출시: 1997년
+リリース：1997年
 
-포맷: 12″
+フォーマット：12″
 
-특징 : 덴마크산의 실험적 앰비언트 트립 홉 작품. Luke Vibert (Wagon Christ) 리믹스도 수록
+特徴：デンマーク産の実験的アンビエント・トリップホップ作品。Luke Vibert（Wagon Christ）リミックスも収録 
 
 #### Tracklist
 ```md
@@ -156,13 +156,13 @@ B2. A C Tractor
 ### Calm – People From The Sun And The Earth
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
-장르: Ambient / Balearic House
+ジャンル：Ambient / Balearic House
 
-출시: 2023년 10월
+リリース：2023年10月
 
 포맷: Vinyl
 
-특징 : 일본의 칠 아웃 앰비언트 대표작. Dixon 리믹스를 포함한 4 트랙 EP
+特徴：日本のチルアウト・アンビエント代表作。Dixonリミックスも含む4トラック EP 
 
 #### Tracklist
 ```md
@@ -185,13 +185,13 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ### David Donohoe – Nature Morte!
 <a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
-장르：Ambient/Minimal
+ジャンル：Ambient / Minimal
 
-출시: 2004년(Minimise 레이블)
+リリース：2004年（Minimiseレーベル）
 
 포맷: Vinyl
 
-특징: 아일랜드 출신, 미니멀 앰비언트의 수작
+特徴：アイルランド出身、ミニマルアンビエントの秀作 
 
 #### Tracklist
 ```md
@@ -213,13 +213,13 @@ B. Our Ghosts
 ### Mr. Blank – On The Ground
 <a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
-장르：Ambient / Dub / Future Jazz / Hip-House
+ジャンル：Ambient / Dub / Future Jazz / Hip‑House
 
-출시: 1994년
+リリース：1994年
 
-포맷: 2매 세트 Vinyl
+フォーマット：2枚組Vinyl
 
-특징 : Steve Miller의 일명 작품. 다양한 장르가 섞인 깊은 칠아웃 사운드
+特徴：Steve Millerの別名義作品。多様なジャンルが混ざり合った深いチルアウトサウンド 
 
 #### Tracklist
 ```md
@@ -254,13 +254,13 @@ D4. The End Game
 
 ### Deep Forest – Deep Forest
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
-장르：Ambient/Downtempo/New Age
+ジャンル：Ambient/Downtempo/New Age
 
-출시: 1992년
+リリース：1992年
 
 포맷: CD
 
-특징 : 민족음악과 전자음의 융합, 그래미 후보, 대표곡 'Sweet Lullaby' 수록
+特徴：民族音楽と電子音の融合、グラミー候補、代表曲「Sweet Lullaby」収録 
 
 #### Tracklist
 ```md

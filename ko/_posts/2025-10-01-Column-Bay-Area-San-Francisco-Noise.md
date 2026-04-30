@@ -17,7 +17,7 @@ title: 【칼럼】 베이 에리어 노이즈 / 실험 음악 장면 — 파괴
 
 ## 베이 지역에서 무슨 일이 일어 났습니까?
 
-문장：mmr｜테마：기계와 콜라주, 즉흥의 교차점──베이 에리어에서 자란 노이즈/실험 음악의 역사와 추천 디스코 그래피
+문장：mmr｜테마：기계와 콜라주, 즉흥의 교차점──베이 에어리어에서 자란 노이즈/실험 음악의 역사와 추천 디스코 그래피
 
 
 
@@ -55,11 +55,11 @@ flowchart TD
 
 ---
 
-### 키 플레이어와 필드의 생태
+### 키 플레이어와 필드 생태
 
 #### Survival Research Laboratories (SRL)
 
-기계에 의한 파괴적 퍼포먼스로 알려진 SRL은 1978년 마크 폴린에 의해 발족. 거대한 장치와 불·분진·금속음을 이용한 쇼는, 노이즈의 “시각성”과 “위험성”을 명확하게 제시해, 베이 에어리어를 「소리와 기계의 실험장」으로서 확립했습니다. SRL의 활동은 음향적 노이즈 표현뿐만 아니라 산업 기술에 대한 눈빛으로도 평가되고 있습니다.
+기계에 의한 파괴적 퍼포먼스로 알려진 SRL은 1978년 마크 폴린에 의해 발족. 거대한 장치와 불·분진·금속음을 이용한 쇼는, 노이즈의 “시각성”과 “위험성”을 명확하게 제시해, 베이 에리어를 「소리와 기계의 실험장」으로서 확립했습니다. SRL의 활동은 음향적 노이즈 표현뿐만 아니라 산업 기술에 대한 눈빛으로도 평가되고 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Cp7aD0q63g?si=SGP_qqxe3psR5CwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

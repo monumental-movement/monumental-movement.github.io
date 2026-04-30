@@ -14,9 +14,9 @@ title: Norken – Soul Static Bureau
 ---
 
 
-Norken Lee Anthony Norris(리 앤서니 노리스)는 영국의 데본을 거점으로 하는 영국의 일렉트로닉 프로듀서.
+NorkenことLee Anthony Norris（リー・アンソニー・ノリス）は、イギリスのデヴォンを拠点とするイギリスのエレクトロニックプロデューサー。
 
-2000년에 릴리스된 2매 세트 LP 「Soul Static Bureau」는, 온화하고 에모쇼날인 요소를 가지면서도, 세련된 리듬과 Norken 독특한 사운드 디자인이 특징의 테크노·미니멀·딥하우스 트랙.
+2000年にリリースされた２枚組LP「Soul Static Bureau」は、穏やかでエモーショナルな要素を持ちながらも、洗練されたリズムとNorken独特のサウンドデザインが特徴のテクノ・ミニマル・ディープハウストラック。
 
 #### Tracklist
 ```md

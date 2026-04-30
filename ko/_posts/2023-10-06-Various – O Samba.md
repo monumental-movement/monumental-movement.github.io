@@ -14,7 +14,7 @@ title: Various – O Samba
 
 
 "Various – O Samba"는
-1991년에 출시된 David Byrne에 의해 컴파일된 편집의 카세테 테이프입니다.
+1991년에 출시된 David Byrne에 의해 컴파일된 편집 카세테 테이프입니다.
 
 #### Tracklist
 ```md

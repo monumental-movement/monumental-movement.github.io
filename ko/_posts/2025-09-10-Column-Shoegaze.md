@@ -55,7 +55,7 @@ color: #fff;
 </style>
 
 
-| 노래 이름 | 아티스트 | 코멘트 |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
 You Made Me Realise | My Bloody Valentine | 소음과 감미로운 멜로디의 융합 |
 | Soon | My Bloody Valentine | 나중에 슈게이즈 동상을 결정한 명곡 |
@@ -88,7 +88,7 @@ You Made Me Realise | My Bloody Valentine | 소음과 감미로운 멜로디의 
 
 ### 추천 10곡(1990s)
 
-| 노래 이름 | 아티스트 | 코멘트 |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
 | Only Shallow | My Bloody Valentine | 장르를 결정한 포효 팝 |
 | When the Sun Hits | Slowdive | 아름다운 부유감의 상징 |
@@ -121,7 +121,7 @@ You Made Me Realise | My Bloody Valentine | 소음과 감미로운 멜로디의 
 
 ### 추천 10곡(2000s)
 
-| 노래 이름 | 아티스트 | 코멘트 |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
 | Run Into Flowers | M83 | 드림과 포효의 융합 |
 | America | Asobi Seksu | 일본의 서정과 슈게이즈의 만남 |
@@ -154,7 +154,7 @@ Dreams Burn Down (Live) | Ride | 리바이벌 시기의 상징적 연주 |
 
 ### 추천 10곡(2010s)
 
-| 노래 이름 | 아티스트 | 코멘트 |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
 | How Long Have You Known | DIIV | 네오 슈게이즈의 깃발 |
 | Doused | DIIV | 질주감과 깊은 리버브 |
@@ -187,7 +187,7 @@ Dreams Burn Down (Live) | Ride | 리바이벌 시기의 상징적 연주 |
 
 ### 추천 10곡(2020s)
 
-| 노래 이름 | 아티스트 | 코멘트 |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
 | Famine Asylum | Nothing | 현대적이고 중후한 포효 |
 | Catch The Breeze (Rework) | Slowdive | 신생 Slowdive의 상징 |

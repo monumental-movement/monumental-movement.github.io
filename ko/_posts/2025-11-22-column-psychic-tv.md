@@ -46,15 +46,15 @@ color: #fff;
 
 #### 2.1 Genesis P‑Orridge 및 COUM Transmissions
 
-Genesis Breyer P-Orridge (1950-2020)는 영국의 전위 예술계에서 가장 영향력있는 인물 중 하나입니다. 청년기부터 반문화적인 활동에 관여해, 1970년대에는 COUM Transmissions라는 퍼포먼스 집단을 주도. COUM은 플럭스주의에 영향을 받은 퍼포먼스 아트를 전개해 도발적이고 정치적인 주제를 예술에 도입했다.
+Genesis Breyer P-Orridge (1950-2020)는 영국의 전위 예술계에서 가장 영향력있는 인물 중 하나입니다. 청년기부터 반문화적인 활동에 관여해, 1970년대에는 COUM Transmissions라는 퍼포먼스 집단을 주도. COUM은 플럭스주의에 영향을 받은 퍼포먼스 아트를 전개하고 도발적이고 정치적인 주제를 예술에 도입했다.
 
 COUM Transmissions의 활동을 통해 Genesis는 시각 예술, 음악, 공연의 통합에 강한 관심을 갖게 되고, 그 후의 활동의 기반을 구축한다. 그는 또한 Throbbing Gristle을 결성하여 산업 음악의 선구자로 국제적으로 인정받을 것입니다.
 
 #### 2.2 Throbbing Gristle 해산과 Psychic TV 결성
 
-Throbbing Gristle은 1976년에 결성되어 노이즈, 공업음악, 게릴라적인 라이브 퍼포먼스에 의해 1970년대 말의 음악계에 충격을 주었다. 그러나 1981년, 그룹은 한 번 해산. 그 직후 Genesis는 Peter Christopherson과 Alex Fergusson과 함께 새로운 음악 및 예술 프로젝트를 시작합니다. 그것이 Psychic TV이다.
+Throbbing Gristle은 1976년에 결성되어 노이즈, 공업음악, 게릴라적인 라이브 퍼포먼스에 의해 1970년대 말의 음악계에 충격을 주었다. 그러나 1981년, 그룹은 한 번 해산. 그 직후 Genesis는 Peter Christopherson과 Alex Fergusson과 함께 새로운 음악 및 예술 프로젝트를 시작합니다. 그것은 Psychic TV이다.
 
-Psychic TV는 단순한 음악 밴드가 아니라 음악, 영상, 퍼포먼스, 오컬티즘을 통합하는 '멀티미디어 컬렉티브'로 설계되었으며, 당초부터 실험성과 도발성을 전면에 밀어내는 구조를 가지고 있었다.
+Psychic TV는 단순한 음악 밴드가 아니라 음악, 영상, 퍼포먼스, 오컬티즘을 통합하는 '멀티미디어 컬렉티브'로 설계되었으며, 당초부터 실험성과 도발성을 전면으로 밀어내는 구조를 가지고 있었다.
 
 ---
 
@@ -70,7 +70,7 @@ Psychic TV의 초기 멤버는 Genesis P-Orridge(보컬, 작사), Peter Christop
 
 Psychic TV는 라이브 공연에서도 혁신적이었습니다. 많은 라이브에서는 영상기재나 멀티스크린을 이용해 관객에게 도전적이고 의식적인 체험을 제공했다. 음악뿐만 아니라 영상과 신체 표현을 통해 라이브 자체를 일종의 의식 공간으로 재구축하려는 시도가 이루어졌다.
 
-#### 3.3 Thee Temple ov Psychick Youth(T.O.P.Y.)의 탄생
+#### 3.3 Thee Temple ov Psychick Youth (T.O.P.Y.)의 탄생
 
 1981년, Psychic TV와 병행하여 **Thee Temple ov Psychick Youth(T.O.P.Y.)**가 설립되었다. T.O.P.Y.는 밴드의 사상적·의식적 활동을 지지하는 조직이며, 카오스·매직을 기반으로 한 정신성과 커뮤니티의 탐구를 목적으로 하고 있었다. T.O.P.Y.는 단순한 팬클럽이 아니라 의식, 철학, 정신변용의 실천을 통해 멤버와 지지자를 연결하는 역할을 담당했다.
 

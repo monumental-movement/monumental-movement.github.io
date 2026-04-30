@@ -14,7 +14,7 @@ title: Michel Polnareff – Gift Pack Series
 ---
 
 
-"Michel Polnareff - Gift Pack Series"는 1973 년 Epic에서 출시되었습니다.
+「Michel Polnareff – Gift Pack Series」は、	1973年にEpicからリリースされました。
 
 #### Tracklist
 ```md

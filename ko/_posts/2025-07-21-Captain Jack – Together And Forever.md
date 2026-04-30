@@ -15,9 +15,9 @@ title: Captain Jack – Together And Forever!
 ---
 
 
-Captain Jack(캡틴 잭)은 90년대 유로 댄스 장면을 대표하는 독일 쾰른의 댄스 프로젝트. 초기 멤버는 프로듀서 Udo Niebergall과 Richard Witte. 90년대의 모든 유명한 페스티벌의 헤드 라이너를 맡아 고조된 파티 메이커.
+Captain Jack(キャプテン・ジャック)は、90年代のユーロダンスシーンを代表するドイツ・ケルンのダンスプロジェクト。初期メンバーは、プロデューサーUdo NiebergallとRichard Witte。90年代の全ての有名なフェスティバルのヘッドライナーを務め盛り上げたパーティーメーカー。
 
-"Together And Forever!"는 1997년에 EMI 독일의 댄스 서브 라벨 -Cologne Dance Label(CDL)에서 출시된 Eurodance, Euro House 트랙.
+「Together And Forever! 」は、1997年にEMIドイツのダンスサブレーベル-Cologne Dance Label(CDL)からリリースされたEurodance, Euro Houseトラック。
 
 #### Tracklist
 ```md

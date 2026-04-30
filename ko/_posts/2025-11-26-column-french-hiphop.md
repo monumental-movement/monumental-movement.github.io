@@ -119,7 +119,7 @@ flowchart TB
 | 파리 외곽 | 정치 및 사회 비판, 거리 감각 | NTM, Rohff, La Fouine |
 마르세유 | 아프리카 카리브해 음악 영향, 철학적 리릭 | IAM, Jul, Soprano |
 | 리옹 | 실험적 비트, 재즈/펑크 융합 | L'Entourage |
-| 북 프랑스 | 산업 도시 사회 문제 표현 | Fianso, Kery James |
+| 북프랑스 | 산업 도시 사회 문제 표현 | Fianso, Kery James |
 
 ---
 

@@ -13,8 +13,8 @@ title: Modest Mouse 764-HERO – Whenever You See Fit
 ---
 
 
-'Whenever You See Fit'은
-1998년 Suicide Squeeze에서 출시된 Model Mouse/764-HERO에 의한 EP입니다.
+「Whenever You See Fit」は、
+1998年にSuicide SqueezeからリリースされたModest Mouse / 764-HEROによるEPです。
 
 #### Tracklist
 ```md

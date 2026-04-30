@@ -198,7 +198,7 @@ Y. Kauna
 #### Pergon – #2
 <a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>
 
-90년대 초의 독일 아시드 테크노. 경파로 기계적인 소리가 매력.
+90년대 초반의 독일 어시드 테크노. 경파로 기계적인 소리가 매력.
 
 #### Tracklist
 ```md

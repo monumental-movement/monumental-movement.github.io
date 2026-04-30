@@ -13,7 +13,7 @@ title: Various – Go Head Now Get Live
 ---
 
 
-1999년에 발매된 본작은 Future Shock에서 발매된 일본과 미국의 래퍼가, 라벨이나 국적의 틀을 넘어 모은 편집 앨범 「SYNCHRONICITY」로부터의 싱글입니다.
+1999년에 발매된 본작은, Future Shock에서 발매된 일본과 미국의 래퍼가, 라벨이나 국적의 틀을 넘어 모은 편집 앨범 「SYNCHRONICITY」로부터의 싱글입니다.
 
 미국에서는 Matt Fingaz, Will Pack, Craig G, 일본에서는 DJ Yas와 블레이드 (Hazu)가 참여한 언더 그라운드 트랙을 수록.
 

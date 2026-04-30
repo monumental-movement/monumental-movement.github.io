@@ -16,7 +16,7 @@ title: Small World – I Believe
 
 Small World와 Paul Hunter (폴 헌터)는 스코틀랜드 글래스고 출신의 프로듀서이며, 그랜드 세프트 오토 시리즈의 Grand Theft Auto IV와 San Andreas (샌 안드레스)의 음악을 다룬 Michael Hunter (마이클 헌터)의 형제. Paul Hunter는 Brother Of Soul, Dual Tone, Poets Of Thought, Second Crusade, The Stic 명의에서도 활동하고 있다.
 
-'I Believe'는 Paul Hunter 자신이 운영하는 힙합, 다운 템포, 펑크, 재즈, 레게를 망라한 라벨 Red Hook Recordings에서 2005년에 발표된 트립 홉 다운 템포 트랙.
+'I Believe'는 Paul Hunter 자신이 운영하는 힙합, 다운 템포, 펑크, 재즈, 레게를 망라한 라벨 Red Hook Recordings에서 2005년에 릴리스된 트립 홉 다운 템포 트랙.
 
 #### Tracklist
 ```md

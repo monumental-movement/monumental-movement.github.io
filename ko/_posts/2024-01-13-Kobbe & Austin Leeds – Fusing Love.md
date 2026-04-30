@@ -14,9 +14,9 @@ title: Kobbe & Austin Leeds – Fusing Love
 ---
 
 
-미국인 DJ / 프로듀서 Kobbe Pierre Cobbaert와 Austin Leeds (오스틴 리즈)의 프로그레시브 하우스 트럭.
+アメリカ人DJ/プロデューサーKobbeことPierre CobbaertとAustin Leeds（オースティン・リーズ）によるプログレッシブハウストラック。
 
-B면은 DJ/프로듀서 Markus Schulz(마커스 슐츠)에 의한 remix.
+B面は、DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）によるremix。
 
 #### Tracklist
 ```md

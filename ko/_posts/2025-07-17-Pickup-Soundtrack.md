@@ -12,14 +12,14 @@ title: 사운드 트랙 작품을 픽업
 ---
 
 
-「이야기의 정감을 소리로 연주해 영상 체험을 새로운 차원으로 끌어올리는 주목할만한 사운드트랙 작품군」
+「이야기의 정감을 소리로 되살려 영상 체험을 새로운 차원으로 끌어올리는 주목할만한 사운드트랙 작품군」
 
 <hr>
 
 ### Jerry Goldsmith – A Patch Of Blue
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
-형식: 비닐
+형식: vinyl
 
 작품: 1965년 공개 영화 '언젠가 본 푸른 하늘'(A Patch of Blue)의 사운드 트랙. 1978년 재발반.
 
@@ -116,7 +116,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 
 형식: CD
 
-작품：1989년의 명작 영화 『뉴 시네마 파라다이스』의 사운드 트랙.
+작품 : 1989 년의 명작 영화 "뉴 시네마 파라다이스"의 사운드 트랙.
 
 #### Tracklist
 ```md

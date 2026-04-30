@@ -21,7 +21,7 @@ title: 유로 뮤직 작품 픽업
 
 포맷: Vinyl
 
-장르: Euro House / Synth-pop
+장르: Euro House/Synth-pop
 
 출시일: 2024년 11월 15일 게재 (Rednex – Cotton Eye Joe)
 

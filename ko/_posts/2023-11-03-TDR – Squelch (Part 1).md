@@ -15,7 +15,7 @@ title: TDR – Squelch (Part 1)
 
 Tom De Ridder 톰 데 리더의 "Squelch (Part 1)"는 네덜란드의 테크 프로그레시브 하우스 트랜스 라벨 Oxygen Recordings에서 2005 년에 발표 된 트랜스 테크 하우스 트랙.
 
-A면 1곡째는, 시어, 더 킬러스, 스웨디시 하우스 마피아, 디페쉬 모드 등의 remix를 다루는 네덜란드의 DJ/프로듀서 Sander Van Doorn(썬더·밴·돈)에 의한 remix.
+A면 1곡째는, 시어, 더 키라즈, 스웨디시 하우스 마피아, 디페쉬 모드 등의 remix를 다루는 네덜란드의 DJ/프로듀서 Sander Van Doorn(썬더·밴·돈)에 의한 remix.
 
 #### Tracklist
 ```md

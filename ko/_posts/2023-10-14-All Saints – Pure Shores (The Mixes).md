@@ -13,7 +13,7 @@ title: All Saints – Pure Shores (The Mixes)
 ---
 
 
-A면 1곡째는 UK 출신의 DJ/프로듀서/사운드 디자이너 코스모스 Tom Middleton(톰 미들턴)에 의한 remix.
+A면 1곡째는 UK 출신의 DJ/프로듀서/사운드 디자이너 Cosmos 일 Tom Middleton(톰 미들턴)에 의한 remix.
 
 A면 2곡째는 Outlaw Posse, Brothers Like Outlaw의 전 멤버 K-Gee와 Karl Clive Gordon의 remix.
 

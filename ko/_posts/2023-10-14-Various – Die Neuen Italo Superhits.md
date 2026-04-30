@@ -13,7 +13,7 @@ title: Various – Die Neuen Italo Superhits
 ---
 
 
-'Various – Die Neuen Italo Superhits'는 1987년 독일 라벨 'Ariola'에서 발매된 편집 앨범입니다.
+「Various – Die Neuen Italo Superhits」は、1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
 
 #### Tracklist
 ```md

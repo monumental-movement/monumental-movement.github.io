@@ -13,7 +13,7 @@ title: Tony Cook and The Trunk-O-Funk – Cash Advance
 ---
 
 
-The Trunk-O-Funk는, 70년대 후반부터 JAMES BROWN(제임스·브라운) 밴드의 드러머로서 활약한 TONY COOK(토니·쿡)의 밴드. 하우스에 현대적인 펑크 그루브가 특징의 한 곡.
+The Trunk-O-Funk は、70年代後半からJAMES BROWN（ジェームス・ブラウン）バンドのドラマーとして活躍したTONY COOK（トニー・クック）のバンド。ハウスに現代的なファンク・グルーヴが特徴の一曲。
 
 #### Tracklist
 ```md

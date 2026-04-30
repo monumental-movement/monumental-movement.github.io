@@ -15,11 +15,11 @@ title: Lulu – Independence
 
 
 
-「Independence」는 스코틀랜드 출신의 싱어송 라이터 Lulu가, 1993년에 발매한 11번째 앨범 「Independence」(1993)로부터의 퍼스트 싱글. 1982년 이래 신곡을 발표하지 않았던 루루의 컴백곡으로 알려져 있다.
+「Independence」は、スコットランド出身のシンガーソングライターLuluが、1993年にリリースした11枚目のアルバム『Independence』（1993）からのファーストシングル。1982年以来新曲をリリースしていなかったLuluのカムバック曲として知られている。
 
-B1은, 하우스 뮤직의 선구자의 한명인, 미국의 일렉트로닉·뮤지션/DJ Tony Humphries에 의한 리믹스.
+B1は、ハウスミュージックの先駆者の一人である、アメリカのエレクトロニック・ミュージシャン／DJ Tony Humphriesによるリミックス。
 
-B2는 Dave Seaman, Steve Anderson, Alan Bremner에 의한 영국의 일렉트로닉 뮤직 그룹 Brothers in Rhythm의 리믹스.
+B2は、Dave Seaman, Steve Anderson, Alan BremnerによるイギリスのエレクトロニックミュージックグループBrothers in Rhythm によるリミックス。
 
 #### Tracklist
 ```md

@@ -11,7 +11,7 @@ tags:
 - 90s
 - 80s
 - 00s
-title: 【칼럼】 US HipHop(미국 힙합)의 역사:지역·클럽·미디어·기재를 포함한 전체상
+title: 【칼럼】 US HipHop(미국 힙합)의 역사：지역・클럽・미디어・기재를 포함한 전체상
 ---
 
 
@@ -49,7 +49,7 @@ color: #fff;
 당시의 힙합은 라디오 프로그램(예: WBLS의 "The Show")에서 퍼졌고 데모 테이프가 아티스트 발굴의 중요한 수단이었습니다.
 DJ 쿨 하크와 Afrika Bambaataa는 자신의 믹스 테이프를 지역 라디오와 파티에서 흘려 정보 확산에 기여했습니다.
 
-### 대표적인 명반
+### 代表的な名盤
 
 [The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
@@ -72,7 +72,7 @@ Public Enemy나 Eric B. & Rakim이 등장해, 정치적·사회적 메세지를 
 ### 데모 테이프와 라디오의 역할
 지역 라디오 (KDAY, KMEL)에서 신곡이 온에어되어 데모 테이프를 듣는 젊은이들이 입소문으로 확산. 특히 현지 라디오의 DJ는 장면의 심판 역할이었습니다.
 
-### 대표적인 명반
+### 代表的な名盤
 
 [Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
@@ -100,7 +100,7 @@ OutKast와 UGK가 등장하여 독자적인 사운드를 확립. 클럽에서의
 저작권 문제나 비용의 증가에 의해, 오리지널 음원 제작이나 라이브 연주를 도입하는 아티스트가 증가.
 Dr. Dre 「The Chronic」(1992)은 샘플링을 능숙하게 사용하면서, G-funk에서는 신디나 오리지날 베이스 라인을 다용.
 
-### 대표적인 명반
+### 代表的な名盤
 
 **East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
@@ -116,11 +116,11 @@ Dr. Dre 「The Chronic」(1992)은 샘플링을 능숙하게 사용하면서, G-
 뉴욕과 LA 클럽에서 DJ 세트가 진화. 라디오나 스트리밍 이전에, 클럽의 플로어에서 곡이 버즈하는 시대.
 랩 배틀은 데모 테이프와 인터넷 이전에 클럽이 발신의 중심이었습니다.
 
-탈샘플링 및 기재의 변화
+탈샘플링과 기재의 변화
 DAW(Pro Tools, Ableton Live)의 보급에 의해, 샘플링에 의존하지 않고, 신디나 플러그인으로 독자 음원을 제작 가능하게.
 이것에 의해, 오리지날 비트의 비율이 증가.
 
-### 대표적인 명반
+### 代表的な名盤
 
 [Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
@@ -142,7 +142,7 @@ DAW(Ableton Live, FL Studio)
 
 플러그인 및 샘플 팩 사용 확대
 
-### 대표적인 명반
+### 代表的な名盤
 
 [Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 
@@ -203,7 +203,7 @@ Funkadelic 기타 루프를 무단 사용한 사건. 샘플은 「1초라도 무
 
 | 지역 | 클럽 | 라디오 방송국 |
 |------|--------|----------|
-| East (NYC) | Paradise Garage, Tunnel, Latin Quarter | WBLS, KISS FM |
+East (NYC) | Paradise Garage, Tunnel, Latin Quarter | WBLS, KISS FM |
 | West (LA) | The Good Life Cafe, Club Unity, Echoplex | KKBT (The Beat), Power 106 |
 | South (ATL, Houston, Miami) | Magic City, Fifth Ward Block Parties, Club Rolex | Hot 107.9, SwishaHouse Radio, 99 Jamz |
 | Midwest (Chicago, Detroit, KC) | The Mid, Detroit Basement Parties, Blue Room (KC) | WGCI (Chicago), WJLB (Detroit), Hot 103 Jamz (KC) |
@@ -296,7 +296,7 @@ flowchart TB
 
 ---
 
-##1980s(여명기: 드럼 머신과 샘플러)
+##1980s(여명기: 드럼머신과 샘플러)
 
 <table class="table-wave">
 <tr>
@@ -433,7 +433,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 **보충적 고려사항**
 
-계보도에 의해 「사제관계」나 「영향관계」를 직감적으로 파악할 수 있다.
+계보도에 의해 「사제 관계」나 「영향 관계」를 직감적으로 파악할 수 있다.
 
 파형 비교는 음악적 진화를 시각적으로 포착합니다.
 

@@ -14,7 +14,7 @@ title: So-Low – The Hourglass Pulse
 ---
 
 
-'So-Low – The Hourglass / Pulse'는 에섹스를 거점으로 하는 프로그레시브 하우스 라벨 X-Gate Records에서 1992년에 발매되었다.
+「So-Low – The Hourglass / Pulse」は、エセックスを拠点とするプログレッシブハウスレーベルX-Gate Recordsから1992年にリリースされた。
 
 #### Tracklist
 ```md

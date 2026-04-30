@@ -17,7 +17,7 @@ title: Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Tra
 
 UK의 하우스 프로듀서 Steve Mac(스티브 맥)과 사이트랜스 씬으로도 유명한 UK 출신의 하우스 트리오 Mosquito(모스키토), Dirty Vegas(더티 베가스)나 Squeeze(스퀴즈)로 활동하는 Steve Smith(스티브 스미스)에 의한 하우스 트럭.
 
-B면 1곡째는 Freemasons(프리 메이슨즈)에 의한 remix.
+B면 1곡째는 Freemasons(프리메이슨즈)에 의한 remix.
 
 #### Tracklist
 ```md

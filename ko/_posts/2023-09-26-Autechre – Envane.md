@@ -13,7 +13,7 @@ title: Autechre – Envane
 ---
 
 
-Autechre는 숀 부스(Sean Booth)와 롭 브라운(Rob Brown)으로 구성된 영국 테크노 유닛입니다.
+Autechre는 Sean Booth와 Rob Brown으로 구성된 영국 테크노 유닛입니다.
 
 Envane은 Autechre(오테카)가 1997년에 발매한 CD로, 전자 음악에 대한 독자적인 어프로치, 복잡한 리듬, 추상 사운드 스케이프, 실험적인 사운드 디자인이 특징입니다.
 

@@ -14,7 +14,7 @@ title: Kierra Sheard – Just Until
 ---
 
 
-Kierra Kiki Sheard(키에라 키키 쉐어드)는, US 디트로이트 출신의 고스펠 싱어. 일본에서는 KiKi(키키)로 알려져 있다. 어머니는 고스펠계의 명문, 클락 시스터즈의 Karen Clark Sheard(카렌 클락 쉐어드).
+Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
 
 #### Tracklist
 ```md

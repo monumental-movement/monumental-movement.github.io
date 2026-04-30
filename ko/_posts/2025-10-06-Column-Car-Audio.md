@@ -9,7 +9,7 @@ permalink: /ko/column-car-audio/
 tags:
 - History
 - Car
-title: 【칼럼】 세계의 차와 사운드 여행 — 자동차 오디오 강국별 철저 가이드
+title: 【칼럼】 세계의 자동차와 사운드 여행 — 자동차 오디오 강국별 철저 가이드
 ---
 
 
@@ -36,16 +36,16 @@ color: #fff;
 </style>
 
 
-## 일본 메이커의 음향 철학
+## 일본 제조사의 음향 철학
 
 ### 도요타 / 렉서스
 
-- **대표 모델 오디오 사양**
+-** 대표 모델의 오디오 사양**
 - 렉서스 LS: Mark Levinson 3D 서라운드, 17 스피커, 1,200W
 - 소프트웨어로 방 보정 기능 포함
 
 - **메이커와 브랜드 제휴**
-- Mark Levinson과의 장기 협력을 통한 고급 차량용 사운드 설계
+- Mark Levinson과의 장기 협업으로 고급 차량용 사운드 설계
 
 - ** 일화 및 기술 **
 - 차내의 각 소재·천장이나 시트 천도 음향 보정을 고려해 선정되고 있다
@@ -64,7 +64,7 @@ color: #fff;
 ### 닛산/인피니티
 
 - **대표 모델**: 인피니티 QX80(Bose 16 스피커 시스템)
-- **기술**: 차내 음향을 최적화하기 위해 스피커 배치 및 소재 반사를 분석하고 BOSE와 공동으로 튜닝
+- **기술**: 차량 내 음향을 최적화하기 위해 스피커 배치 및 소재 반사를 분석하고 BOSE와 공동으로 튜닝
 
 ---
 
@@ -80,7 +80,7 @@ color: #fff;
 ### 마쓰다 스바루
 
 - **대표 모델**: CX-5(Bose 12 스피커)
-- **기술**: 차내 공간의 음향 특성을 측정하고 최적화
+-**기술**: 차내 공간의 음향 특성을 측정하고 최적화
 
 ---
 
@@ -108,7 +108,7 @@ color: #fff;
 ### 아우디
 
 - **대표 모델**: A8(Bang & Olufsen Advanced Sound System, 19 스피커, 1,650W)
--**기술**: 멀티채널 DSP로 입체음향 재현
+- **기술**: 멀티채널 DSP로 입체음향 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -153,7 +153,7 @@ color: #fff;
 ### 마세라티 / 알파 로메오
 
 - **대표 모델**: 기브리(Bowers & Wilkins 15 스피커, 1,170W)
-- **기술**: Nautilus 트위터로 고화질 사운드 재현
+-**기술**: Nautilus 트위터로 고화질 사운드 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -246,7 +246,7 @@ color: #fff;
 
 ## 기술 동향과 미래의 차내 음악 경험
 
-- 능동 노이즈 제거 및 DSP 최적화
+- 액티브 노이즈 제거 및 DSP 최적화
 - AI에 의한 개인용 음질 조정
 - EV 시대의 정숙성을 살린 새로운 사운드 디자인
 

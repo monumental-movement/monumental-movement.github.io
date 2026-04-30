@@ -13,9 +13,9 @@ title: Mexico – Park Avenue EP
 ---
 
 
-Jun Yamabe의 프로젝트 "Mexico"는 일본 라벨 United Sounds Of Blue에서 2003 년에 출시되었습니다.
+Jun Yamabeによるプロジェクト「Mexico」は日本のレーベル United Sounds Of Blueから2003年にリリースされました。
 
-V.A. "U.S.B.-United Sounds Of Blue-"에서 싱글 컷.
+V.A.「U.S.B.-United Sounds Of Blue-」からのシングルカット。
 
 #### Tracklist
 ```md

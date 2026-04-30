@@ -14,7 +14,7 @@ title: The Beatles – Let It Be
 ---
 
 
-The Beatles의 「Let It Be(렛・잇트・비)」는, 1970년 3월에 릴리스되어, 다음 달에 비틀즈가 해산이 되었기 때문에 비틀즈가 활동중에 발매한 마지막 싱글.
+The Beatles의 「Let It Be(렛・잇트・비)」는, 1970년 3월에 릴리스 되어, 다음 달에 비틀즈가 해산이 되었기 때문에 비틀즈가 활동중에 발매한 마지막 싱글.
 
 #### Tracklist
 ```md

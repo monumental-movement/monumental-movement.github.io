@@ -14,9 +14,9 @@ title: The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remix
 ---
 
 
-The Pharcyde(퍼사이드)는 1989년에 결성된 LA의 사우스 센트럴 출신인 US 얼터너티브 힙합 그룹.
+The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサウスセントラル出身のUSオルタナティブ・ヒップホップグループ。
 
-이 앨범은 퍼사이드 베스트 트럭과 리믹스집.
+このアルバムは、ファーサイドのベストトラックとリミックス集。
 
 #### Tracklist
 ```md

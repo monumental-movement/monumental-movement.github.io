@@ -15,7 +15,7 @@ title: Hiroshi Fujiwara + Shinichi Osawa Feat. Crystal Kay – Lost Child
 ---
 
 
-일본의 음악 프로듀서인 후지와라 히로시(Hiroshi Fujiwara)와 오사와 신이치(Shinichi Osawa)가 Crystal Kay를 피처한 곡으로, 이들의 콜라보레이션 작품으로 출시되었습니다.
+일본의 음악 프로듀서인 후지와라 히로시(Hiroshi Fujiwara)와 오사와 신이치(Shinichi Osawa)가 Crystal Kay를 피처한 악곡으로 그들의 콜라보레이션 작품으로 출시되었습니다.
 
 'Lost Child'는 일렉트로닉 음악과 팝의 요소를 융합시킨 곡으로, 독특한 비트, 매력적인 멜로디, 크리스탈 케이의 아름다운 보컬이 특징입니다.
 

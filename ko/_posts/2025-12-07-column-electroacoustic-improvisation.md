@@ -10,17 +10,17 @@ permalink: /ko/column-electroacoustic-improvisation/
 tags:
 - Electroacoustic
 - Improvisation
-title: 【칼럼】 Electroacoustic Improvisation(즉흥 전음)의 전사
+title: 【コラム】 Electroacoustic Improvisation（即興電音）の全史
 ---
 
 
 
-## Fennesz에서 Toral까지 전자와 즉흥 융합
+## FenneszからToralまで、電子と即興の融合
 
-문장：mmr｜테마：Christian Fennesz, Rafael Toral, AMM, Sachiko M, Otomo Yoshihide에 대해서
+文：mmr｜テーマ：Christian Fennesz、Rafael Toral、AMM、Sachiko M、Otomo Yoshihideについて
 
-Electroacoustic Improvisation(이하 EAI)은 1990년대 말~2000년대 초반에 걸쳐 유럽과 일본을 중심으로 형성된 **전자 음향과 즉흥 연주를 융합시킨 음악적 조류**이다.
-‘즉흥음악’, ‘전자음향음악’, ‘노이즈’, ‘필드 레코딩’, ‘모듈러 신디’, ‘디지털 샘플러’가 교차해 기존 재즈 친화 즉흥(Free Improvisation)과 음향파와도 다른 독자적인 실천 체계를 확립했다.
+Electroacoustic Improvisation（以下、EAI）は、1990年代末〜2000年代初頭にかけて、ヨーロッパと日本を中心に形成された**電子音響と即興演奏を融合させた音楽的潮流**である。  
+「即興音楽」「電子音響音楽」「ノイズ」「フィールドレコーディング」「モジュラーシンセ」「デジタル・サンプラー」が交差し、従来のジャズ寄り即興（Free Improvisation）や音響派とも異なる独自の実践体系を確立した。
 
 ---
 
@@ -38,145 +38,145 @@ color: #fff;
 </style>
 
 
-## 1. EAI란 무엇인가
-EAI는 'Electroacoustic Improvisation'의 약칭으로, **전자 음향의 처리·가공 기술을 이용한 즉흥 연주**를 가리키는 말로서 2000년 전후부터 국제적으로 사용되게 되었다.
-명확한 통일 정의가 존재하는 것은 아니지만, 공통점으로서 이하를 들 수 있다.
+## 1. EAI とは何か  
+EAI は「Electroacoustic Improvisation」の略称で、**電子音響の処理・加工技術を用いた即興演奏**を指す言葉として2000年前後から国際的に用いられるようになった。  
+明確な統一定義が存在するわけではないが、共通点として以下が挙げられる。
 
-- 전자 장비(모듈러, 노트북, 이펙터, 샘플러)를 즉흥적으로 조작
-- 생악기와 전자음의 경계를 모호하게 한다
-- 소리의 지속, 미세음(햄, 히스, 신호음)을 적극 이용
-- 전통적인 리듬 및 선율 구조로부터의 이탈
-- '연주 동작 그 자체'도 감상 대상이 된다
-- 라이브 코딩 이전 세대이면서 전기적 조작을 주축에 둔다.
+- 電子機材（モジュラー、ラップトップ、エフェクター、サンプラー）を即興的に操作する  
+- 生楽器と電子音の境界を曖昧化する  
+- 音の持続、微細音（ハム、ヒス、信号音）を積極利用  
+- 伝統的なリズム・旋律構造からの離脱  
+- 「演奏動作そのもの」も鑑賞対象となる  
+- ライブコーディング以前の世代でありつつ、電気的操作を主軸に置く
 
-EAI는 즉흥음악의 맥락에서 언급되는 경우가 많지만, 음향기술·전자공학·노이즈문화 등 여러 영역이 겹치기 때문에 단일 장르라기보다 **실천적 영역**이라고 부르는 것이 더 적합하다.
+EAIは即興音楽の文脈で語られることが多いが、音響技術・電子工学・ノイズ文化など、複数領域が重なるため単一のジャンルというよりも**実践的領域**と呼ぶ方が適切である。
 
 ---
 
-## 2. 역사적 배경: EAI를 준비한 4개의 원류
+## 2. 歴史的背景：EAIを準備した4つの源流
 
-### 2-1. 원류①: 1970년대의 전자음향음악
-Pierre Henry, Iannis Xenakis, Karlheinz Stockhausen 등이 개척한 전자 음향의 제작 기법은 후속 EAI에서의 소재 처리—그래뉼러, 신호 조작, 전자 노이즈에 대한 관심—을 만들어냈다.
-특히 라이브 전자 음향(Live electronics)의 발전은 EAI의 즉흥성과 연결되는 중요한 기반이 된다.
+### 2-1. 源流①：1970年代の電子音響音楽  
+Pierre Henry、Iannis Xenakis、Karlheinz Stockhausen らが開拓した電子音響の制作技法は、後のEAIにおける素材処理—グラニュラー、信号操作、電子ノイズへの関心—を生み出した。  
+特にライブ電子音響（Live electronics）の発展は、EAIの即興性と結びつく重要な基盤となる。
 
-### 2-2. 원류②: Free Improvisation(자유 즉흥)
-AMM(영국, 1960년대~)은 전자기기(라디오, 접촉 마이크 등)를 연주에 도입한 선구적 존재이다.
-Eddie Prévost와 Keith Rowe가 보여준 "비 악기 소리의 해방"은 나중에 EAI의 담담이 될 것입니다.
+### 2-2. 源流②：Free Improvisation（自由即興）  
+AMM（英国、1960年代〜）は電子機器（ラジオ、接触マイク等）を演奏に取り入れた先駆的存在である。  
+Eddie Prévost や Keith Rowe が示した「非楽器的音の解放」は、後のEAIの胆となる。
 
-### 2-3. 원류③: 1980~1990년대의 노이즈 / 얼터너티브 전자음향
-일본의 노이즈(Merzbow, Incapacitants 등)는 음향소재의 극한적 추구에 의해 '소리의 물질성'을 드러냈다.
-한편 Otomo Yoshihide와 Sachiko M은 미니멀하고 정밀한 전자음(사인파)을 즉흥적으로 도입하여 EAI의 초석이 되는 「음수의 감소」 「공간의 강조」를 내세웠다.
+### 2-3. 源流③：1980〜1990年代のノイズ / オルタナティヴ電子音響  
+日本のノイズ（Merzbow、Incapacitantsなど）は、音響素材の極限的追求により「音の物質性」を露わにした。  
+一方で Otomo Yoshihide や Sachiko M は、ミニマルで精緻な電子音（サイン波）を即興に導入し、EAIの礎となる「音数の減少」「空間の強調」を打ち出した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2-4. 원류④: 1990년대 후반 노트북 음악
-Max/MSP, SuperCollider 등의 보급에 의해, 랩톱이 즉흥 연주의 장소에 등장했다.
-이는 **실시간 음향처리의 민주화**를 의미하며 EAI의 '전자기재에 의한 즉흥'을 결정적으로 뒷받침한다.
+### 2-4. 源流④：1990年代後半のラップトップ音楽  
+Max/MSP、SuperCollider などの普及により、ラップトップが即興演奏の場に登場した。  
+これは **リアルタイム音響処理の民主化**を意味し、EAIの「電子機材による即興」を決定的に後押しする。
 
 ---
 
-## 3. 주요 아티스트의 실천 분석
+## 3. 主要アーティストの実践分析
 
 ---
 
-# 3-1. **Christian Fennesz**
-오스트리아 출신. 기타를 음원으로 사용하면서 노트북으로 가공하여 멜로디와 노이즈의 경계를 완만하게 횡단하는 스타일로 알려져있다.
-대표작 'Endless Summer'(2001)는 전자 음향과 기타 음향의 융합 예로 높이 평가되었다.
+# 3-1. **Christian Fennesz**  
+オーストリア出身。ギターを音源に使いながら、ノートPCで加工し、メロディとノイズの境界を緩やかに横断するスタイルで知られる。  
+代表作『Endless Summer』（2001）は電子音響とギター音響の融合例として高く評価された。
 
-EAI 관점에서 중요한 점은 다음과 같습니다.
+EAI的観点で重要なのは、以下の点である：
 
-- 기타의 생음과 가공음을 동일 평면으로 취급
-- 글리치 노이즈를 즉흥적으로 도입
-- 노트북을 '제2 악기'로 취급
-- 신호 처리(필터링, 그래뉼러)를 연주 행위로 통합
+- ギターの生音と加工音を同一平面で扱う  
+- グリッチノイズを即興に導入  
+- ラップトップを「第二の楽器」として扱う  
+- 信号処理（フィルタリング、グラニュラー）を演奏行為として組み込む
 
-특히 라이브 퍼포먼스에서는, 기타의 미세한 노이즈를 받아들여, 가공해, 리얼타임에 공간화하는 공정이 즉흥성을 담당하고 있다.
+特にライブパフォーマンスでは、ギターの微細なノイズを取り込み、加工し、リアルタイムに空間化する工程が即興性を担っている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ibE5Spt4Pkw?si=rFolW3Ja88GV3WpB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# 3-2. **Rafael Toral**
-포르투갈 출신. 당초는 앰비언트에 가까운 전자 음향 작품을 제작했지만, 2003년경부터 'Space Program'이라고 총칭되는 프로젝트를 전개해 **전자 기기를 수동 조작하는 즉흥 연주**로 전환했다.
+# 3-2. **Rafael Toral**  
+ポルトガル出身。当初はアンビエント寄りの電子音響作品を制作していたが、2003年ごろから「Space Program」と総称されるプロジェクトを展開し、**電子機器を手動操作する即興演奏**へと転換した。
 
 특징:
 
-- 신디 회로, 시그널 제너레이터 등을 자작/개조
-- 노이즈가 아닌 '제어 가능한 전자 신호'를 연주
-- 전자음을 재즈적 문구처럼 취급
-- 신체 동작과 전자 반응의 일치를 추구
+- シンセ回路、シグナルジェネレーターなどを自作/改造  
+- ノイズではなく「制御可能な電子信号」を演奏  
+- 電子音をジャズ的フレーズのように扱う  
+- 身体動作と電子反応の一致を追求
 
-Toral은 EAI 중에서도 「전자음의 수탄」을 철저한 존재로서 특이하고, 모듈러 조작의 즉흥적 가능성을 나타내는 대표격이다.
+ToralはEAIの中でも「電子音の手弾き」を徹底した存在として特異であり、モジュラー操作の即興的可能性を示す代表格である。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoJ3vPqkz-w?si=lldtAtTk2AVOX-Ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#3-3. Otomo Yoshihide / Sachiko M (일본)
-1990년대 후반의 '음향파'와 겹치는 영역에서 EAI의 아시아계 뿌리를 형성했다.
+# 3-3. Otomo Yoshihide / Sachiko M（日本）  
+1990年代後半の「音響派」と重なる領域で、EAIのアジア系ルーツを形成した。
 
-- Sachiko M은 샘플러의 내부 테스트 톤 (사인파)을 사용하여 극한의 미니멀리즘을 확립
-- Otomo Yoshihide는 턴테이블, 기타, 샘플러를 이용하여 음향 즉흥을 발전
-- Filament(오토모×Sachiko M)는 EAI적 맥락에서 중요한 유닛
+- Sachiko M はサンプラーの内部テストトーン（サイン波）を用いた極度のミニマリズムを確立  
+- Otomo Yoshihide はターンテーブル、ギター、サンプラーを用い音響即興を発展  
+- Filament（大友×Sachiko M）はEAI的文脈で重要なユニット
 
-특히 '여백', '무음의 취급'이 강조되어 나중의 국제적 EAI 무브먼트에 큰 영향을 미친다.
+特に「余白」「無音の扱い」が強調され、後の国際的EAIムーブメントに大きな影響を及ぼす。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPQHPCoF3Sk?si=idpKewbUugbRWurv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# 3-4. AMM (영국)
-1960년대부터 활동하는 AMM은 전자기기를 연주에 도입한 가장 고급의 그룹이다.
-Keith Rowe의 "수평 배치 기타"는 나중의 EAI에서 라디오 노이즈와 접촉 마이크 이용의 원형이되었다.
+# 3-4. AMM（イギリス）  
+1960年代から活動するAMMは、電子機器を演奏に取り入れた最古級のグループである。  
+Keith Rowe の「水平置きギター」は、後のEAIにおけるラジオノイズや接触マイク利用の原型となった。
 
-EAI는 AMM의 미학 - "연주의 사회성" "정적의 이용" "소리의 우발성의 존중" -을 계승하고 있다.
+EAIはAMMの美学—「演奏の社会性」「静寂の利用」「音の偶発性の尊重」—を継承している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-T8rmnHtbg?si=Lg5jvSyXo2LDfG8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# 4. 사용 장비와 기술의 체계 분석
+# 4. 使用機材と技法の体系分析
 
-## 4-1. 장비: 모듈러 신디
-EAI의 모듈러는
+## 4-1. 機材：モジュラーシンセ  
+EAIにおけるモジュラーは、
 
-- 예측 불가능한 신호 변화
-- 논템포/논코드로 조작
-- 전압 제어에 의한 미세음 생성
+- 予測不可能な信号変化  
+- ノンテンポ／ノンコードでの操作  
+- 電圧制御による微細音生成  
 
-등 즉흥을 향한 특성을 가진다.
+など、即興に向いた特性を持つ。
 
-## 4-2. 샘플러
-EAI에서는 샘플러를 음원으로서가 아니라 **신호 발생기/회로 장치**로 취급하는 경우가 많다.
-Sachiko M의 예는 대표적이며 내부 테스트 톤만 사용했습니다.
+## 4-2. サンプラー  
+EAIではサンプラーを音源としてではなく、**信号発生器／回路装置**として扱うことが多い。  
+Sachiko M の例はその代表で、内部テストトーンのみを使用した。
 
-## 4-3. 노트북
-Max/MSP나 Pure Data를 이용한 실시간 처리는 Fennesz 스타일로 대표된다.
-랩톱은 센서가 아니라 **가공 자체가 연주행위**가 되는 점이 중요하다.
+## 4-3. ラップトップ  
+Max/MSP や Pure Data を用いたリアルタイム処理は、Fennesz のスタイルに代表される。  
+ラップトップはセンサーではなく、**加工そのものが演奏行為**となる点が重要である。
 
-## 4-4. 이펙터 / 물리적 노이즈
-접촉 마이크, 믹서 피드백, 전원 노이즈 등 **음악적 의도를 넘은 신호**를 이용하는 수법도 널리 보인다.
-
----
-
-# 5. 지역별 전개
-
-### 5-1. 유럽 : Vienna / Berlin / London
-- Fennesz (비엔나 주변)
-- AMM(런던)
-- Erstwhile Records (EAI의 중요 레이블)
-
-### 5-2. 일본 : 도쿄를 중심으로 한 음향파
-- Off Site(센다기, 1990년대 후반~2000년대 초반)는 국제 EAI 교류의 거점이었다
-
-### 5-3. 포르투갈 : 리스본의 전자 즉흥
-- Rafael Toral이 중심 인물로 활동
+## 4-4. エフェクター / 物理的ノイズ  
+接触マイク、ミキサーのフィードバック、電源ノイズなど、**音楽的意図を超えた信号**を利用する手法も広く見られる。
 
 ---
 
-# 6. EAI 관련 연표
+# 5. 地域別展開
+
+### 5-1. ヨーロッパ：Vienna / Berlin / London  
+- Fennesz（ウィーン周辺）  
+- AMM（ロンドン）  
+- Erstwhile Records（EAIの重要レーベル）
+
+### 5-2. 日本：東京を中心とした音響派  
+- Off Site（千駄木、1990年代後半〜2000年代前半）は国際的EAI交流の拠点であった
+
+### 5-3. ポルトガル：Lisbonの電子即興  
+- Rafael Toral が中心的人物として活動
+
+---
+
+# 6. EAI 関連の年表
 
 <div class="mermaid">
 timeline
@@ -194,7 +194,7 @@ timeline
 
 ---
 
-#7. EAI 개념 관계 다이어그램
+# 7. EAI の概念関係図
 
 <div class="mermaid">
 flowchart TD
@@ -210,23 +210,23 @@ flowchart TD
 
 ---
 
-#8. EAI의 현재와 미래의 배포
+# 8. EAI の現在と今後の展開
 
-EAI는 명확한 장면으로는 2000년대 초반 정도의 집중을 보이지 않지만, 장비의 진화와 함께 새로운 형태를 낳고 있다.
-특히 다음 영역과의 연결이 진행 중입니다.
+EAIは明確なシーンとしては2000年代前半ほどの集中を見せていないものの、機材の進化とともに新たな形態を生み続けている。  
+特に以下の領域との接続が進んでいる：
 
-- 라이브 코딩
-- 모듈러 신디의 자동 생성 시스템
-- 사운드 아트 / 설치
-- 필드 녹음 기술과의 융합
-- 공간음향(Ambisonics)의 즉흥 이용
+- ライブコーディング  
+- モジュラーシンセの自動生成システム  
+- サウンドアート / インスタレーション  
+- フィールドレコーディング技術との融合  
+- 空間音響（Ambisonics）の即興利用
 
-EAI는 '장르'가 아니라 '실천'이기 때문에 전기 신호를 다루는 음악가가 존재하는 한 그 형태는 계속 변화할 것이다.
+EAIは「ジャンル」ではなく「実践」であり続けるため、電気信号を扱う音楽家が存在する限り、その形は変化し続けるだろう。
 
 ---
 
-# 결어
+# 結語
 
-Electroacoustic Improvisation은 전자기술, 음향과학, 자유 즉흥, 노이즈문화 등 다양한 영역이 어우러지는 희귀한 실천체계로, Christian Fennesz나 Rafael Toral의 활동은 그 중심적인 위치를 차지하고 있다.
+Electroacoustic Improvisation は、電子技術・音響科学・自由即興・ノイズ文化など多様な領域が交わる稀有な実践体系であり、Christian Fennesz や Rafael Toral の活動はその中心的な位置を占めている。  
 
 ---

@@ -13,7 +13,7 @@ title: VA – Rock'N'Roll & Rock-A-Billy Inferno
 ---
 
 
-로큰롤 & 로커빌리는 2001년 Stardust Records에서 출시된 로커빌리의 편집 앨범입니다.
+ロックンロール&ロカビリーは、2001年にStardust Recordsからリリースされたロカビリーのコンピレーションアルバムです。
 
 #### Tracklist
 ```md

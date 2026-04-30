@@ -15,7 +15,7 @@ title: Mike & Rich – Expert Knob Twiddlers
 ---
 
 
-Mike & Rich의 'Expert Knob Twiddlers'(1996년)는 에이펙스 트윈(Aphex Twin)과 Richard D. James와 µ-Ziq와 Mike Paradinas라는 90년대 일렉트로닉 음악 장면을 견인한 두 사람의 귀재에 의한 콜라보레이션 앨범.
+Mike & Rich의 'Expert Knob Twiddlers'(1996년)는 에이펙스 트윈(Aphex Twin)과 Richard D. James와 µ-Ziq와 Mike Paradinas라는 90년대 일렉트로닉 뮤직 장면을 견인한 두 사람의 귀재에 의한 콜라보레이션 앨범.
 
 제작은 1994년 월드컵 기간 동안 며칠 만에 끝나 술에 취한 상태에서 잼 세션에서 태어난 것으로 알려져 있습니다. 이 배경이 음악에 감도는 경묘하고 분방한 분위기를 형성하고 있습니다.
 

@@ -10,17 +10,17 @@ tags:
 - Drum n Bass
 - Downtempo
 - 90s
-title: Earthbound – Reggie's Escape
+title: Earthbound– Reggie's Escape
 ---
 
 
-Earthbound(어스 바운드)는, Alex Dallas와 Alex Gustafson에 의한 듀오.
+Earthbound(アースバウンド)は、Alex DallasとAlex Gustafsonによるデュオ。
 
-스위스 취리히를 거점으로 하는 라벨 Straight Ahead로부터 1998년에 릴리스된 Earthbound 「Reggie's Escape 」의 Drum n Bass/Downtempo remix(1999년).
+スイスのチューリッヒを拠点とするレーベルStraight Aheadから1998年にリリースされた Earthbound「Reggie's Escape 」のDrum n Bass／Downtempo remix(1999年)。
 
-A는, UK의 정글(jungle)DJ Charlie Dark(Charlie Williams/Attica Blues)에 의한 remix.
+Aは、UKのジャングル(jungle)DJ Charlie Dark(Charlie Williams／Attica Blues)によるremix。
 
-B는 Drum and Bass 프로젝트 Hidden Agenda로도 활약한 Markx Mark Goodings에 의한 remix. Mark Goodings는 Switch, Phonique, Trevor Loveys 등의 mix도 다루고 있다.
+Bは、Drum and Bass プロジェクトHidden Agendaとしても活躍したMarxことMark Goodingsによるremix。Mark Goodings は、Switch, Phonique, Trevor Loveysなどのmix も手掛けている。
 
 
 #### Tracklist

@@ -13,7 +13,7 @@ title: Christine 23 Onna – Shiny Crystal Planet
 ---
 
 
-'Shiny Crystal Planet'은 2000년 알케미 레코즈에서 발매된 야마자키 마조와 토다 보오의 유닛 Christine 23 Onna의 앨범입니다.
+'Shiny Crystal Planet'은 2000년 알케미 레코즈에서 출시된 야마자키 마조와 토다 보오의 유닛 Christine 23 Onna의 앨범입니다.
 
 
 #### Tracklist

@@ -17,7 +17,7 @@ title: Buggles – The Age Of Plastic
 
 Buggles(바글루스)는 1977년 Trevor Horn(트레버 혼)과 Geoff Downes(제프 다운스)에 의해 결성된 UK의 뉴 웨이브 밴드. 1979년 데뷔 싱글 'Video Killed the Radio Star'는 세계적인 히트가 되었다.
 
-1980년에 Island Records 출시된 「The Age Of Plastic」은, 배글스의 첫 앨범. 이 앨범은 재발반(US반).
+1980년에 Island Records 출시된 「The Age Of Plastic」은, 바글루스의 첫 앨범. 이 앨범은 재발반(US반).
 
 Trevor Horn과 Geoff Downes는 이 앨범 출시 이후 프로그레시블록 밴드 Yes에 가입했다.
 

@@ -17,7 +17,7 @@ title: Ecstatic Orange – World Keeps Spinning
 
 Ecstatic Orange(엑스타틱 오렌지)는, Elisa Carrahar와 MIchael Czerkas Amory에 의한 듀오.
 
-'World Keeps Spinning'은 1990년~1995년까지 The Moonflowers, Praise Space Electric, Me, Rorschach, Mammal, Ecstatic Orange의 작품을 출시했던 사이키델릭 락, 아트 락, 인디락, 스큐드 팝 전문의 UK 레코드 라벨 Pop God에서 다운 1995년.
+'World Keeps Spinning'은 1990년~1995년까지 The Moonflowers, Praise Space Electric, Me, Rorschach, Mammal, Ecstatic Orange의 작품을 출시했던 사이키델릭 락, 아트 락, 인디 록, 스큐드 팝 전문의 UK 레코드 라벨 Pop God에서 다운 1995년.
 
 #### Tracklist
 ```md

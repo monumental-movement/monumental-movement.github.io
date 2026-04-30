@@ -60,7 +60,7 @@ color: #fff;
 1960년대 말 파리는 혁명의 실험장이었다.
 대학 분쟁, 스트리트 액션, 아트의 해방――「5월 혁명」의 열기가 젊은이들을 감싸, 음악과 시와 정치가 혼연 일체가 된다.
 
-공의 탄생은 바로 그 중이었다. 반체제·아나키·정신세계·코뮌문화. 이들이 섞여 Gong은 “소리에 의한 공동 환상”을 구현해 나간다.
+곤의 탄생은 바로 그 중이었다. 반체제·아나키·정신세계·코뮌문화. 이들이 서로 섞여 Gong은 "소리에 의한 공동 환상"을 구현한다.
 
 > 🎵 추천 음원: *Magick Brother* (1969), *Camembert Electrique* (1971)
 
@@ -255,5 +255,13 @@ timeline
 그것은 '음악집단'이라기보다는 **세계의 또 다른 존재 방식**이었다.
 그리고 지금도 우리 어딘가의 주파수에서,
 그들의 '라디오 놈'은 조용히 방송을 계속하고 있다.
+
+---
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ug5CJ0LHiuI?si=waB4Qr7XzGQW7tzq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

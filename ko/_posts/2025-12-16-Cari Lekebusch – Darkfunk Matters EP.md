@@ -13,7 +13,7 @@ title: Cari Lekebusch – Darkfunk Matters EP
 ---
 
 
-「Darkfunk Matters EP」는, 스웨덴의 일렉트로닉 뮤직계의 중진 Cari Lekebusch(카리·레케부시)가, 2005년에 UK의 라벨 Tortured Records로부터 릴리스한 Techno 트랙.
+「Darkfunk Matters EP」は、スウェーデンのエレクトロニックミュージック界の重鎮Cari Lekebusch(カリ・レケブッシュ)が、2005年にUKのレーベルTortured RecordsからリリースしたTechnoトラック。
 
 #### Tracklist
 ```md

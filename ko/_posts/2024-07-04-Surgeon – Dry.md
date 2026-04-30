@@ -14,7 +14,7 @@ title: Surgeon – Dry
 ---
 
 
-영국의 DJ 일렉트로닉 뮤지션 Surgeon(서전)과 Anthony Child가 자신이 운영하는 라벨 Dynamic Tension Records(다이나믹 텐션 레코즈)로부터 1999년에 릴리스한 테크노 트랙.
+イギリスのDJ・エレクトロニックミュージシャンSurgeon（サージョン）ことAnthony Childが、自身が運営するレーベルDynamic Tension Records（ダイナミックテンションレコーズ）から1999年にリリースしたテクノトラック。
 
 #### Tracklist
 ```md

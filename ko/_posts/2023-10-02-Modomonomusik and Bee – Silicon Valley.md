@@ -13,8 +13,8 @@ title: Modomonomusik and Bee – Silicon Valley
 ---
 
 
-"Silicon Valley"는
-2001년에 독일의 라벨로부터 릴리스된 Kamue Flash Bee와 Logic Sisters에 의한 유닛 「Modomonomusik & Bee」의 EP입니다.
+「Silicon Valley」は、
+2001年にドイツのレーベルからリリースされたKamue Flash BeeとLogic Sistersによるユニット「Modomonomusik & Bee」のEPです。
 
 #### Tracklist
 ```md

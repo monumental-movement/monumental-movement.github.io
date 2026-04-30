@@ -14,11 +14,11 @@ title: Dollar Brand – Ancient Africa
 ---
 
 
-남아프리카인 피아니스트, 작곡가 Dollar Brand Abdullah Ibrahim(압둘라 이브라힘)이 1974년 Trio Records에서 발표한 포스트밥 앨범.
+南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
 
-이 앨범 "달러 브랜드 - 고대 아프리카"는 1972 년 6 월 코펜하겐의 Jazz-Hus Montmartre에서 라이브 녹음.
+このアルバム 「ダラー・ブランド – 古代アフリカ」は、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
 
-Abdullah Ibrahim(압둘라 이브라힘)은 2020년 음악을 통한 일본과 남아프리카 공화국 간의 우호 친선에 기여한 것으로 욱일 쌍광장을 수장.
+Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
 
 #### Tracklist
 ```md

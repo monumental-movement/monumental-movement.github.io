@@ -15,9 +15,9 @@ title: Masterboy – Different Dreams
 ---
 
 
-1990년부터 활동하는 Masterboy는 유럽에서 가장 잘 알려진 독일의 유로댄스 프로젝트.
+1990年から活動するMasterboyは、ヨーロッパで最もよく知られているドイツのユーロダンスプロジェクト。
 
-'Different Dreams'는 1994년 발매된 Masterboy 3번째 앨범에서 'Feel the Heat of the Night', 'I Got to Give It Up', 'Everybody Needs Somebody', 'Is This The Love' 등 히트곡이 수록돼 있다.
+「Different Dreams」は、1994年にリリースされたMasterboy3枚目のアルバムで「Feel the Heat of the Night」「I Got to Give It Up」「Everybody Needs Somebody」「Is This The Love」などヒット曲が収録されている。
 
 #### Tracklist
 ```md

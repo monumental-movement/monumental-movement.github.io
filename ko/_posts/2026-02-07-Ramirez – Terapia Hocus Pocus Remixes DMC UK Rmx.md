@@ -16,13 +16,13 @@ title: Ramirez – Terapia (Hocus Pocus Remixes + DMC UK Rmx)
 
 
 
-Ramirez는 90년대 초에 이탈리아 DFC 라벨에 의한 일렉트로닉 댄스 뮤직 프로젝트. DFC의 프로덕션 팀, Davide Rizzatti, Elvio Moratto, Ricki Persi, 가수 Alex Quiroz Buelvas 등이 참가하고 있다.
+Ramirezは、90年代初頭にイタリアのDFCレーベルによるエレクトロニック・ダンス・ミュージックプロジェクト。DFCのプロダクションチーム、Davide Rizzatti、Elvio Moratto、Ricki Persi、シンガーAlex Quiroz Buelvasなどが参加している。
 
-Terapia는 1993년 라벨 DFC에서 출시된 Trance/Hardcore/Techno 트랙.
+「Terapia」は、1993年にレーベルDFCからリリースされたTrance／Hardcore／Technoトラック。
 
-A1&AA1은 Ferry Ridderhof와 Peter Garnefski의 네덜란드 프로덕션 듀오 Hocus Pocus의 remix.
+A1&AA1は、Ferry RidderhofとPeter GarnefskiによるオランダのプロダクションデュオHocus Pocusのremix。
 
-AA2는, 영국의 DJ/레코드 프로듀서로, Bedrock이나 Sasha & John Digweed로서도 활동하는 John Digweed에 의한 remix.
+AA2は、イギリスのDJ／レコードプロデューサーで、BedrockやSasha & John Digweedとしても活動するJohn Digweedによるremix。
 
 #### Tracklist
 ```md

@@ -11,11 +11,11 @@ tags:
 - Jpop
 - Neo-Classical
 - 00s
-title: Yoko Kanno feat. Maaya Sakamoto – 23시 음악
+title: Yoko Kanno feat. Maaya Sakamoto – 23時の音楽
 ---
 
 
-스가노 요코 feat. 사카모토 마야에 의한 세토 아사카 & 요시카와 아키시 출연의 NHK 연속 드라마 「한밤중은 다른 얼굴」의 미니 사운드 트랙.
+菅野よう子 feat. 坂本真綾による、瀬戸朝香&吉川晃司出演のNHK連続ドラマ「真夜中は別の顔」のミニサウンドトラック。
 
 #### Tracklist
 ```md

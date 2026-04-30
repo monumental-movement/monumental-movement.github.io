@@ -14,13 +14,13 @@ title: WestBam – Electro RMXs
 ---
 
 
-WestBam (Maximilian Lenz)은 독일 출신의 DJ / 프로듀서이며 라벨 Low Spirit의 공동 설립자.
+WestBam (Maximilian Lenz)は、ドイツ出身のDJ／プロデューサーであり、レーベルLow Spiritの共同設立者。
 
-「Electro RMXs」는 2000년에 Low Spirit의 서브 라벨 Electric Kingdom에서 출시된 Electro/Ghettotech.
+「Electro RMXs」 は、2000年にLow Spirit のサブレーベルElectric KingdomからリリースされたElectro／Ghettotech。
 
-A는, US의 Breaks/Breakbeat 프로듀서 DJ Icey에 의한 remix.
+Aは、USのBreaks/BreakbeatプロデューサーDJ Iceyによるremix。
 
-AA1은 Ghettotech의 선구자 DJ Assault에 의한 remix. AA2는, 디트로이트 출신의 DJ Godfather에 의한 remix.
+AA1は、GhettotechのパイオニアDJ Assaultによるremix。AA2は、デトロイト出身のDJ Godfatherによるremix。
 
 #### Tracklist
 ```md

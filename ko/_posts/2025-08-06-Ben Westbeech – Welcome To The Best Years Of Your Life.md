@@ -15,9 +15,9 @@ title: Ben Westbeech – Welcome To The Best Years Of Your Life
 ---
 
 
-Ben Westbeech는 UK 출신의 DJ 프로듀서. Breach 명의나 KON(Christian Taylo)과의 콜라보레이션 The Vision으로도 알려져 있다.
+Ben WestbeechはUK出身のDJ・プロデューサー。Breach名義やKON(Christian Taylo)とのコラボThe Visionとしても知られている。
 
-'Welcome To The Best Years Of Your Life'는 Ben Westbeech의 데뷔 앨범으로 Gilles Peterson의 UK 라벨 Brownswood Recordings에서 2007년에 발매되었다.
+「Welcome To The Best Years Of Your Life」は、Ben Westbeechのデビューアルバムで、Gilles PetersonのUKレーベルBrownswood Recordingsから2007年にリリースされた。
 
 #### Tracklist
 ```md

@@ -8,18 +8,18 @@ layout: post
 permalink: /ko/pickup-cassette/
 tags:
 - Cassette
-title: 카세트 테이프 작품을 픽업
+title: カセットテープ作品をピックアップ
 ---
 
 
-"언더그라운드의 숨결을 생생하게 새겨, 독자적인 미학을 발하는 주목해야 할 카세트 테이프 작품군"
+「アンダーグラウンドの息吹を生々しく刻み込み、独自の美学を放つ注目すべきカセットテープ作品群」
 
 <hr>
 
-### No Artist – Environments (Cassette Two)
+### No Artist – Environments (Cassette Two) 
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
 
-1970년대 필드 녹음/힐링 자연 환경을 포착한 치유계 사운드스케이프.
+1970年代  フィールド録音／ヒーリング 自然環境を捉えた癒し系サウンドスケープ。
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 ### The Art of Noise – In No Sense Nonsense
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
-1987년 Leftfield 신디팝 아트 팝×실험 들러, 독특한 신디작.
+1987年 Leftfieldシンセポップ アートポップ×実験寄り、ユニークなシンセ作。
 
 #### Tracklist
 ```md

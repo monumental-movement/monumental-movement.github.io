@@ -13,10 +13,10 @@ title: Kalim Shabazz – Peak Bomb
 ---
 
 
-Kalim Shabazz(칼림 샤바즈)는 뉴욕을 거점으로 하는 DJ 겸 프로듀서. Nick Jones(닉 존스)와 함께 Soul Movement
-(Moments Of Soul)로서도 활동.
+Kalim Shabazz（カリム・シャバズ）は、ニューヨークを拠点とするDJ兼プロデューサー。Nick Jones（ニック ジョーンズ）と共にSoul Movement
+（Moments Of Soul）としても活動。
 
-B면은 독일 출신으로 베를린을 거점으로 활동하는 하우스 DJ/프로듀서 Phonique(포닉)과 Michael Vater에 의한 remix.
+B面は、ドイツ出身でベルリンを拠点に活動するハウスDJ/プロデューサー Phonique(フォニック）ことMichael Vaterによるremix。
 
 #### Tracklist
 ```md

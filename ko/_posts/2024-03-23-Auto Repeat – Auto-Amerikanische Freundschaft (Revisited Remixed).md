@@ -14,7 +14,7 @@ title: Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed)
 ---
 
 
-Auto Repeat 알렉산더 뮐러가 1995년에 발매한 하우스 테크노 트럭.
+Auto Repeat 알렉산더 뮐러가 1995년에 발표한 하우스 테크노 트럭.
 
 A면 1곡째는, US하우스 DJ Paul Johnson에 의한 remix.
 

@@ -14,7 +14,7 @@ title: Resonance Meditation - Gong Geladag
 ---
 
 
-호소노 하루신이 감수한 Lost & Found 시리즈의 제1탄 앨범. 2000년 4월 17일 발리 섬에서 24bit 192KHz sonic system에 의한 현지 녹음 음원.
+細野晴臣が監修したLost & Foundシリーズの第一弾アルバム。2000年4月17日バリ島で24bit 192KHz sonic system による現地録音音源。
 
 #### Tracklist
 ```md
@@ -25,10 +25,10 @@ title: Resonance Meditation - Gong Geladag
 05. 古典儀礼曲「慈愛」/Traditional(トラディッショナル）
 ```
 
-호소노 하루신 감수 "Lost & Found"
+細野晴臣監修 "Lost & Found"
 
 Resonance Meditation - Gong Geladag
 
-공명 메디테이션 공명 명상- 곤 그라다그
+レゾナンスメディテーション 共鳴瞑想- ゴング・グラダグ 
 
 [メルカリで購入](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}

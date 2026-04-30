@@ -16,11 +16,11 @@ title: 【칼럼】 DMC World DJ Championship：턴테이브리즘이 세계 문
 ---
 
 
-# DMC World DJ Championship — 턴테이블의 세계사
+# DMC World DJ Championship - 턴테이블의 세계사
 
 문장：mmr｜테마：DMC World DJ Championship의 역사, 기술 혁신, 클라우드 펀딩, 세계 대회의 변천, 일본세의 공적, 기재 문화, Turntablism에 대해서
 
-세계 최대의 DJ 배틀로 알려진 **DMC World DJ Championship(이하 DMC)**은 1985년의 발족 이래 턴테이블 문화의 성장과 함께 걸어왔다.
+세계 최대급의 DJ 배틀로 알려진 **DMC World DJ Championship(이하 DMC)**은 1985년의 발족 이래 턴테이블 문화의 성장과 함께 걸어왔다.
 힙합 DJ 기법이 '음악적 표현'으로 자립하고, '세계대회'로 제도화되어 가는 과정은 다른 장르에 유례없는 독특한 역사이다.
 
 ---
@@ -92,7 +92,7 @@ Cheese 이후, DJ는 "노래를 흘린다"뿐만 아니라,
 
 ---
 
-# 제4장 디지털화와 대회 규칙의 재편(2000~2010)
+# 제4장 디지털화와 대회 룰의 재편(2000~2010)
 
 ## 4-1 Final Scratch, Serato, Traktor: 디지털 음원 도입
 2000년대 중반 **DVS(Digital Vinyl System)**가 보급되면 DMC 대회에서도 사용이 허가되는 방향으로 진행되었다.
@@ -113,7 +113,7 @@ Cheese 이후, DJ는 "노래를 흘린다"뿐만 아니라,
 
 ## 5-1 대회 계속을 지원하는 커뮤니티의 힘
 DMC는 세계적 대회이지만, 상업적으로 거대한 조직이 아니라 경제적인 과제도 항상 가지고 있었다.
-특히 2010년대 후반 운영비 부담이 커졌기 때문에 DMC는 팬과 DJ 커뮤니티를 대상으로 여러 차례 **클라우드 펀딩**을 실시하고 있다.
+특히 2010년대 후반 운영비 부담이 커지면서 DMC는 팬과 DJ 커뮤니티를 대상으로 여러 차례 **클라우드 펀딩**을 실시하고 있다.
 
 ### 주요 사실
 - ** DMC Foundation **로 자금 조달 프로젝트가 실시되어 대회 계속 자금에 충당
@@ -171,7 +171,7 @@ DMC의 중심에 계속 있는 기재가 **Technics SL-1200 시리즈**이다.
 - 높은 토크 턴 테이블
 - DJ 전용 믹서(PMC 시리즈)
 를 투입하고 전세계의 턴테이블리스트로부터 지지를 모았다.
-DMC 장소에서 Vestax 믹서가 자주 사용되었으며 그 존재는 턴테이블 문화의 발전에 크게 기여했습니다.
+DMC 회장에서도 Vestax의 믹서가 자주 사용되었으며, 그 존재는 턴테이블 문화의 발전에 크게 기여했다.
 
 ## 7-3 Rane에 배턴
 2010년대 이후에는 **Rane**이 DMC의 공식 스폰서를 맡았고, 많은 세계 대회에서 Rane Sixty-Two, Seventy-Two, Twelve 등이 채용되었다.
@@ -282,7 +282,7 @@ flowchart TD
 
 ## **② 턴테이블 리스트의 “세대계보도”**
 
-(사실만 : 특정 연자의 관계성이 아니라 시대 구분의 일반적인 계보)
+(사실만 : 특정 연자의 관계성이 아니라 시대 구분의 일반 계보)
 
 ### 턴테이블의 세대 구분
 
@@ -400,7 +400,7 @@ flowchart LR
 
 ## **⑧ DMC 세계대회 “역대 룰 변경” 구조도**
 
-### DMC 규칙의 역사(주요 변경)
+### DMC 규칙의 역사 (주요 변경)
 
 <div class="mermaid">
 timeline
@@ -414,5 +414,14 @@ timeline
     2023 : ハイブリッド方式へ
 </div>
 
+
+---
+
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nh1LkoO_--E?si=frOaj4N60C7HvDUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

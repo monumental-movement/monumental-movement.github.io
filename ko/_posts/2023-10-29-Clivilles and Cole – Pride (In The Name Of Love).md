@@ -13,7 +13,7 @@ title: Clivilles and Cole – Pride (In The Name Of Love)
 ---
 
 
-A면은 U2의 Pride (In The Name Of Love)를 테크노/클럽 어레인지로 커버.
+A面は、U2のPride (In The Name Of Love) をテクノ/クラブアレンジでカバー。
 
 #### Tracklist
 ```md

@@ -13,7 +13,7 @@ title: Various – Total House Commitment EP
 ---
 
 
-샌프란시스코 하우스 라벨, THC - Total House Commitment에서 출시된 딥하우스/테크하우스 편집.
+サンフランシスコ・ハウス・レーベル、THC - Total House Commitmentからリリースされた、ディープハウス/テックハウスコンピレーション。
 
 #### Tracklist
 ```md

@@ -14,9 +14,9 @@ title: Aleph – Fire On The Moon
 ---
 
 
-Aleph는 데이브 로저스의 보컬을 갖춘 1980년대 이탈로디스코 밴드. 다른 멤버는 Donato Bellini와 Marco Manzi.
+Alephは、デイブ・ロジャースのボーカルをフィーチャーした1980年代のイタロディスコバンド。他のメンバーはDonato BelliniとMarco Manzi。
 
-"Fire On The Moon"은 Aleph의 세 번째 싱글.
+「Fire On The Moon」はAlephの3枚目のシングル。
 
 #### Tracklist
 ```md

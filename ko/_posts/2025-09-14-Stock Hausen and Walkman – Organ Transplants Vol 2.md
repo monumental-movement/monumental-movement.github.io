@@ -13,11 +13,11 @@ title: Stock, Hausen & Walkman – Organ Transplants Vol. 2
 ---
 
 
-Stock, Hausen & Walkman(Andrew Sharpley & Matt Wand)은 1991년~2001년에 활동한 영국의 체험 일렉트로닉 유닛. 컷업, 샘플링, 뮤직 콘크레이트, 정크 팝적 요소를 믹스한 사운드가 특징.
+Stock, Hausen & Walkman(Andrew Sharpley & Matt Wand)は、1991年〜2001年に活動したイギリスのエクスペリメンタル・エレクトロニック・ユニット。カットアップ、サンプリング、ミュージック・コンクレート、ジャンク・ポップ的要素をミックスしたサウンドが特徴。
 
-「Organ Transplants Vol. 2」는, 90년대의 익스피리멘탈 일렉트로니카/포스트·모던 샘플링 문화를 상징하는 존재라고 높이 평가된 「Organ Transplants」(96년)에 이어 제2탄.
+「Organ Transplants Vol. 2」は、90年代のエクスペリメンタル・エレクトロニカ／ポスト・モダン・サンプリング文化を象徴する存在と高く評価された「Organ Transplants」(96年)に続く第2弾。
 
-Matt Wand의 레이블 Hot Air에서 2000 년에 출시되었습니다.
+Matt WandのレーベルHot Airから2000年にリリースされた。
 
 #### Tracklist
 ```md

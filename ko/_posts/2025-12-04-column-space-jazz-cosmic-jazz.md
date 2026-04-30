@@ -90,7 +90,7 @@ Sun Ra가 조기에 신디사이저를 도입한 역사는 특필해야 한다. 
 
 ### ● Alice Coltrane
 
-하프와 오르간을 이용한 영적 우주관의 구축으로 알려져 있다. 'Journey in Satchidananda' 등은 명상성과 우주성을 겸비한 대표적인 작품이다.
+하프와 오르간을 이용한 정신적 우주관의 구축으로 알려져 있다. 'Journey in Satchidananda' 등은 명상성과 우주성을 겸비한 대표적인 작품이다.
 
 ### ● Lonnie Liston Smith
 

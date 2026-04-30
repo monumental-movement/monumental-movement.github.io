@@ -14,9 +14,9 @@ title: Ralph Myerz & The Jack Herren Band – A Special EP
 ---
 
 
-Ralph Myerz and the Jack Herren Band는 1997년부터 활동하는 노르웨이 일렉트로니카/힙합 그룹/프로듀서.
+Ralph Myerz and the Jack Herren Bandは、1997年から活動するノルウェーのエレクトロニカ/ヒップホップグループ/プロデューサー。
 
-「A Special EP」는, 2002년에 로스앤젤레스를 거점으로 하는 라벨 Emperor Norton에서 릴리스된 Future Jazz/Downtempo 트랙.
+「A Special EP」は、2002年にロサンゼルスを拠点とするレーベルEmperor NortonからリリースされたFuture Jazz／Downtempoトラック。
 
 #### Tracklist
 ```md

@@ -18,7 +18,7 @@ Modest Mouse(모데스트 마우스)는, 1992년에 워싱턴주에서 결성되
 
 2007년에 Epic에서 릴리스된 이 앨범은, 빌보드 앨범 차트 1위를 획득한 모데스트 마우스의 대표작.
 
-프로듀서는 The Hives(더 하이브스), Elvis Costello(엘비스 코스텔로), Counting Crows(Counting Crows) 등을 다루는 Dennis Herring.
+프로듀서는 The Hives(더 하이브스), Elvis Costello(엘비스 코스테로), Counting Crows(Counting Crows) 등을 다루는 Dennis Herring.
 
 
 #### Tracklist

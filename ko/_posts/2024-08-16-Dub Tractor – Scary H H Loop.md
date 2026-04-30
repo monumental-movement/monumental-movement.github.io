@@ -19,7 +19,7 @@ title: Dub Tractor – Scary H H Loop / 104 Dub
 
 "Scary H H Loop / 104 Dub"는 1997 년에 출시 된 트립 팝 경험 앰비언트 트랙.
 
-B면 1곡째는, 콘월 일파의 재인 Luke Vibert(루크·바이버트)가 프로듀스&remix. Wagon Christ(왜건 크라이스트)는 Luce Vibert의 일명.
+B면 1곡째는, 콘월 일파의 재인 Luke Vibert(루크·바이버트)가 프로듀스＆remix. Wagon Christ(왜건 크라이스트)는 Luce Vibert의 별명의.
 
 #### Tracklist
 ```md

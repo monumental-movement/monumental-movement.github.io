@@ -13,8 +13,8 @@ title: The Cuckoos – Iscariot
 ---
 
 
-"Iscariot"는
-1992년에 UK의 라벨 「Imaginary Records」로부터 발매된 The Cuckoos에 의한 EP입니다.
+「Iscariot」は、
+1992年にUKのレーベル「Imaginary Records」からリリースされたThe CuckoosによるEPです。
 
 
 #### Tracklist

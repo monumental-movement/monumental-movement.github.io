@@ -13,8 +13,8 @@ title: Klangkontakt – Dekadent
 ---
 
 
-「Dekadent」는,
-WestBam(웨스트 밤), DJ Dick, William Röttger, Claus Jankuhn 등에 의해 설립된 Low Spirit Recordings의 서브 라벨 Nextfire Recordings로부터 2001년에 릴리스된 Klangkontakt(Dennis Shadow)에 의한 프로그레시그 하우스 트럭.
+「Dekadent」は、
+WestBam（ウエストバム）、DJ Dick、William Röttger、Klaus Jankuhnなどによって設立されたLow Spirit RecordingsのサブレーベルNextfire Recordingsから2001年にリリースされたKlangkontakt（Dennis Shadow）によるプログレッシグハウストラック。
 
 #### Tracklist
 ```md

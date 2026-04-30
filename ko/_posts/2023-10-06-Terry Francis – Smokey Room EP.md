@@ -13,9 +13,9 @@ title: Terry Francis – Smokey Room EP
 ---
 
 
-Terry Francis는 1966년 7월 28일 Epsom에서 태어난 영국 DJ 겸 프로듀서입니다.
+Terry Francis는 1966년 7월 28일에 Epsom에서 태어난 영국 DJ 겸 프로듀서입니다.
 
-그의 경력은 1988년에 Leatherhead의 Hamilton's 와인 바에서 어시드 하우스의 밤을 공동 승진으로 시작되었습니다. 동시에 지붕 장인으로 일했습니다.
+그의 경력은 1988년 Leatherhead의 Hamilton's 와인 바에서 어시드 하우스의 밤을 공동 승진하는 것으로 시작되었습니다. 동시에 지붕 장인으로 일했습니다.
 
 1990년에는 Worthing의 Sterns에서 레지던트 DJ가 되었습니다. 또한 Swag Records에서 일한 적이 있습니다. 그는 Eye 4 Sound와 Wiggle이라는 두 개의 레코드 라벨의 공동 소유자이기도했습니다.
 

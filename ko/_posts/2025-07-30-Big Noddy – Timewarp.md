@@ -14,9 +14,9 @@ title: Big Noddy – Timewarp
 ---
 
 
-Big Noddy는, UK하드하우스의 프로듀서Digger의 프로젝트 명의.
+Big Noddy は、UKハードハウスのプロデューサーDiggerのプロジェクト名義。
 
-Digger는 UK의 하드하우스/UK갈라지/테크하우스계 라벨 Casa Nostra로부터 다수 릴리스하고 있으며, 이 레코드 「Timewarp」도 1999년에 라벨 Casa Nostra로부터 릴리스 되었다.
+Digger は、UKのハードハウス／UKガラージ／テックハウス系レーベル Casa Nostra から多数リリースしており、このレコード「Timewarp」も1999年にレーベル Casa Nostra からリリースされた。
 
 #### Tracklist
 ```md

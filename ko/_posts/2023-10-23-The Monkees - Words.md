@@ -14,7 +14,7 @@ title: The Monkees - Words
 ---
 
 
-The Monkees(더 몽키스)는 Davy Jones(데이비 존스), Micky Dolenz(미키 드렌츠), Mike Nesmith(마이크 네스미스) Peter Tork(피터 토크)의 4명으로 결성된 US 락 밴드. The Monkees가 스스로 출연하는 일화 완결형 도타바타 코미디 TV 프로그램 '더 몽키스 쇼'와 레코드 판매를 연동하는 미디어 믹스 전략을 취하고 있었다.
+The Monkees(ザ・モンキーズ)は、Davy Jones（デイビー・ジョーンズ) 、Micky Dolenz（ミッキー・ドレンツ) 、Mike Nesmith （マイク・ネスミス) Peter Tork（ピーター・トーク) の４人で結成されたUSロックバンド。The Monkeesが自ら出演する一話完結型のドタバタコメディTV番組『ザ・モンキーズ・ショー』とレコード販売を連動するメディアミックス戦略をとっていた。
 
 #### Tracklist
 ```md

@@ -15,9 +15,9 @@ title: Marco Carola – Appendix C
 
 
 
-Marco Carola(마르코 카로라)는, 이탈리아의 일렉트로닉 뮤지션/DJ. Minus, Plus 8, 2M, Primate Recordings 등 명문 라벨에서 음악을 출시하고 있다.
+Marco Carola (マルコ・カロラ)は、イタリアのエレクトロニックミュージシャン／DJ。Minus、Plus 8、2M、Primate Recordingsなどの名門レーベルから音楽をリリースしている。
 
-「Appendix C」는, Gaetano Parisio 주최의 이탈리아의 Techno / Tech House 라벨 Southsoul Appendix로부터 2002년에 릴리스된 Techno/Tech House 트랙.
+「Appendix C」は、Gaetano Parisio主催のイタリアのTechno / Tech House レーベルSouthsoul Appendixから2002年にリリースされた Techno／Tech Houseトラック。
 
 #### Tracklist
 ```md

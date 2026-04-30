@@ -43,7 +43,7 @@ color: #fff;
 ### 1-1. 벽의 흔적에 울려 퍼진 킥
 
 Tresor, E-Werk, 그리고 나중에 세계적인 상징이 될 Berghain.
-베를린의 테크노는 디트로이트에 대한 동경과 동시에 **도시의 재생 프로젝트**이기도 했다. Jeff Mills와 Underground Resistance가 가져온 경질의 리듬은 사회주의의 그림자를 끌어들이는 거리에서 자유의 대변자가 되었다.
+베를린의 테크노는 디트로이트에 대한 동경과 동시에 **도시의 재생 프로젝트**이기도 했다. Jeff Mills와 Underground Resistance가 가져온 단단한 리듬은 사회주의의 그림자를 끌어들이는 도시에서 자유의 대변자가 되었다.
 
 > 「이 거리에서는 소리가 정치야」
 > — Dimitri Hegemann(Tresor 창립자)
@@ -144,7 +144,7 @@ EDM 이전의 유럽은 여기에서 시작되었습니다.
 
 다이얼 레코드, 판타 듀 프린스, 로렌스.
 북국의 테크노는 **외로움과 시**를 빚고 있다.
-반짝이는 베를린의 대극에있는 내성적인 멜랑콜리.
+반짝이는 베를린의 대극에 내성적인 멜랑콜리.
 '춤추는 음악'이 아니라 '생각하기 위한 비트'.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8KylRW2SNc?si=cgZ8SEtZQIceTH6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -155,7 +155,7 @@ EDM 이전의 유럽은 여기에서 시작되었습니다.
 
 동독 시대부터 이어지는 DIY 정신이 이 도시의 지하에 숨쉬고 있다.
 폐허를 클럽으로 바꾸고 수제 시스템으로 소리를 냅니다.
-거기에 있는 것은, 상업화와는 무연의 **공동체로서의 테크노**.
+거기에 있는 것은 상업화와는 무관한 **공동체로서의 테크노**.
 그들에게 음악은 정치적이고 일상적입니다.
 
 ### 4-3. “중심이 아닌 테크노”의 의미
@@ -336,7 +336,7 @@ flowchart TD
 
 테크노의 리듬은 과거를 망각하는 것이 아니라 기억을 박동으로 저장하는 장치이다.
 독일이라는 나라의 역사가 지금도 비트로 맥박하고 있다.
-그것이 이 나라가 세계 어느 곳보다도 '소리에 성실'을 유지하는 이유다.
+그것이 이 나라가 세계 어느 곳보다도 '소리에 성실'로 남아 있는 이유다.
 
 
 ---

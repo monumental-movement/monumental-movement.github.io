@@ -15,9 +15,9 @@ title: Thugfucker – Disco V / Knight Rider
 ---
 
 
-Thugfucker는 2004년 미국 DJ/프로듀서 Greg Oreck과 아일랜드 출신으로 NY를 거점으로 활동하는 DJ Holmar Filipsson의 듀오로 시작했지만, 그 후에 Greg Oreck의 솔로 프로젝트가 되었다.
+Thugfuckerは、2004年にUSのDJ／プロデューサーGreg Oreckとアイルランド出身でNYを拠点に活動するDJ Holmar Filipssonのデュオとしてスタートしたが、のちにGreg Oreckのソロプロジェクトとなった。
 
-「Disco V / Knight Rider」는 2006년에 Thugfucker( Greg Oreck&Holmar Filipsson) 자신의 라벨 Thugfucker Recordings 로부터 릴리스한 House/Electro/Disco 트럭.
+「Disco V / Knight Rider」は2006年にThugfucker( Greg Oreck&Holmar Filipsson)自身のレーベルThugfucker Recordings からリリースしたHouse／Electro／Discoトラック。
 
 #### Tracklist
 ```md

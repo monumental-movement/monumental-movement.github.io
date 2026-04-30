@@ -14,7 +14,7 @@ title: DJ Belal – Reggaeton Party Mix 05
 ---
 
 
-A면은 Amerie 「1 Thing」의 remix 버젼. B면은 50 Cent - 「Candy Shop」의 remix 버젼.
+A面はAmerie 「1 Thing」のremixヴァージョン。B面は50 Cent -「Candy Shop」のremixヴァージョン。
 
 #### Tracklist
 ```md

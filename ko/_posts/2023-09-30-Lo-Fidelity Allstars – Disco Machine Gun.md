@@ -13,7 +13,7 @@ title: Lo-Fidelity Allstars – Disco Machine Gun
 ---
 
 
-'Lo-Fidelity Allstars - Disco Machine Gun'의 'Puppy Phat'은 다운 템포의 템포를 가지면서도 굵은 비트와 슬리지한 기준선으로 트립 홉과 빅 비트의 경계를 모호하게 합니다. B면으로 숨어있는 이 노래는 Lo-Fi의 최고의 트랙 중 하나입니다.
+「Lo-Fidelity Allstars - Disco Machine Gun」の「Puppy Phat」は、ダウンテンポのテンポを持ちながらも太いビートとスリージーなベースラインで、トリップホップとビッグビートの境界を曖昧にします。B面として隠れているこの曲は、Lo-Fiの最高のトラックの1つです。
 
 
 #### Tracklist

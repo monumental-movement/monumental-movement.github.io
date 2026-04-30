@@ -18,7 +18,7 @@ Sinnamon은 미국 출신의 여성 R&B 보컬 트리오. 'I Need You Now'(1983)
 
 1996년에 라벨 Worx Records로부터 릴리스된 이 레코드는, 「I Need You Now」의 House/Garage House MIX.
 
-A1은 Tee와 Todd Terry (토드 테리)에 의한 remix.
+A1은 Tee와 Todd Terry(토드 테리)에 의한 remix.
 A2는 "Little" Louie Vega와 Kenny "Dope" Gonzalez의 유닛 Masters At Work에 의한 remix.
 
 B1은 DJ&프로듀서 Matthias Heilbronn과 Mike Delgado의 듀오 Deep Zone에 의한 remix.

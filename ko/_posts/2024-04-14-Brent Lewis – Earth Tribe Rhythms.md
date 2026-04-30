@@ -13,7 +13,7 @@ title: Brent Lewis – Earth Tribe Rhythms
 ---
 
 
-Brent Lewis(브렌토루이스)는 오랜 세월에 걸쳐 많은 유명한 아티스트들과 공연하고 있는 퍼커셔니스트&드러머.
+Brent Lewis(브렌토루이스)는 오랜 세월에 걸쳐 많은 유명한 아티스트와 공연하고 있는 퍼커셔니스트&드러머.
 
 2곡째 Ode to Buckwheat는 올리버 스톤 감독의 영화 'JFK'의 오리지널 사운드 트랙에 수록되어 있다.
 

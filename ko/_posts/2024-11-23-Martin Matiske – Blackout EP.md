@@ -13,9 +13,9 @@ title: Martin Matiske – Blackout EP
 ---
 
 
-Martin Matiske는 독일의 DJ 프로듀서 컴포저. Blackploid 명의에서도 활동하고 있다.
+Martin Matiskeは、ドイツのDJ・プロデューサー・コンポーザー。Blackploid名義でも活動している。
 
-「Blackout EP」는, DJ Hell이 운영하는 라벨 International Deejay Gigolo Records로부터 2006년에 릴리스된 일렉트로 트랙.
+「Blackout EP」は、DJ Hellが運営するレーベルInternational Deejay Gigolo Recordsから2006年にリリースされたエレクトロトラック。
 
 #### Tracklist
 ```md

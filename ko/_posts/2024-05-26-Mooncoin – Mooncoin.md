@@ -16,9 +16,9 @@ title: Mooncoin – Mooncoin
 ---
 
 
-Mooncoin은, Mikie Zekley(미키 제크리)와 Michael Hubbert(마이클 허버트)에 의한 듀오로, 아일랜드 음악, 켈트 음악 & 영국 음악을 조합한 스타일이 특징.
+Mooncoinは、Mickie Zekley（ミッキー・ゼクリー）とMichael Hubbert（マイケル・ハバート）によるデュオで、アイルランド音楽、ケルト音楽＆イギリス音楽を組み合わせたスタイルが特徴。
 
-「Mooncoin」은, US의 라벨 Kicking Mule Records로부터 1982년에 릴리스된 레어 음원.
+「Mooncoin」は、USのレーベルKicking Mule Recordsから1982年にリリースされたレア音源。
 
 
 #### Tracklist

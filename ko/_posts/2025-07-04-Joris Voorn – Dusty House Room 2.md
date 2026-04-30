@@ -15,7 +15,7 @@ title: Joris Voorn – Dusty House Room 2
 
 Joris Voorn(요리스 본)은 암스테르담 출신의 더치 테크노계를 대표하는 DJ&리믹서.
 
-'Dusty House Room 2'는 Joris Voorn과 Edwin Oosterwal이 운영하는 라벨 Rejected에서 2009년에 발표된 Tech House 트랙.
+"Dusty House Room 2"는 Joris Voorn과 Edwin Oosterwal이 운영하는 라벨 Rejected에서 2009 년에 출시 된 Tech House 트랙.
 
 A1 'Chase The Mouse'는 1978년 영화 'Midnight Express/미드나이트 익스프레스'에 사용된 Giorgio Moroder(조르지오 모로더)의 'The Chase/체이스'를 샘플링하고 있다.
 

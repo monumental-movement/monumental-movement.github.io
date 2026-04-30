@@ -14,13 +14,13 @@ title: Crystal Waters – The Boy From Ipanema
 ---
 
 
-Crystal Waters는 1990년대의 히트곡 'Gypsy Woman(집시 우먼)', '100% Pure Love(100% 퓨어 러브)'로 알려진 US의 하우스 & 댄스 뮤직 싱어 송 라이터.
+Crystal Watersは、1990年代のヒット曲「Gypsy Woman(ジプシー・ウーマン)」、「100% Pure Love(100% ピュア・ラブ)」で知られるUSのハウス&ダンスミュージックシンガーソングライター。
 
-「The Boy From Ipanema」는, 1996년에 릴리스된 하우스 트럭.
+「The Boy From Ipanema」は、1996年にリリースされたハウストラック。
 
-A면은 House music의 DJ 프로듀서 Frankie Knuckles(프랑키 너클스)의 remix.
+A面は、House musicのDJ・プロデューサーFrankie Knuckles(フランキーナックルズ)のremix。
 
-B면은 House music의 DJ 프로듀서 Todd Terry(토드 테리)의 remix.
+B面は、House musicのDJ・プロデューサーTodd Terry(トッドテリー)のremix。
 
 #### Tracklist
 ```md
