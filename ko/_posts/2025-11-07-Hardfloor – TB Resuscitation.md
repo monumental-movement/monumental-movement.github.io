@@ -15,10 +15,10 @@ title: Hardfloor – TB Resuscitation
 ---
 
 
-Hardfloor는 1991년에 결성
-독일의 애시드 테크노/테크하우스 듀오.
+Hardfloorは、1991年に結成した
+ドイツのアシッドテクノ／テックハウス デュオ。
 
-1993년에 UK의 인디펜덴 트래블 Moonshine Music에서 릴리스된 Hardfloor(하드 플로어)의 첫 앨범. 테크노·아시드 테크노의 명반되는 Hardfloor의 대표작.
+1993年にUKのインディペンデントレーベルMoonshine Musicからリリースされた、Hardfloor(ハードフロア)のファーストアルバム。テクノ・アシッドテクノの名盤されるHardfloorの代表作。
 
 #### Tracklist
 ```md

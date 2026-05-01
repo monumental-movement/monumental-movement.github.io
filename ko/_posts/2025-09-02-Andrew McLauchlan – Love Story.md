@@ -14,7 +14,7 @@ title: Andrew McLauchlan – Love Story
 ---
 
 
-Andrew McLauchlan은 스코틀랜드 출신의 프로듀서 . 1998년에 Dan March와 라벨 Figment(피그먼트)를 설립.
+Andrew McLauchlan은 스코틀랜드 출신의 프로듀서. 1998년에 Dan March와 라벨 Figment(피그먼트)를 설립.
 
 Andrew McLauchlan의 대표작으로 알려진 'Love Story'는 원래 1999년 Figment의 컴필레이션 'Chorusline EP'로 출시되어 2000년 UK의 노포 라벨 Bush(부시 레코드)에 라이선스&리믹스되어 재발매되었다.
 

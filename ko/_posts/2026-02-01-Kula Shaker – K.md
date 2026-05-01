@@ -15,7 +15,7 @@ title: Kula Shaker – K
 
 
 
-쿨라 셰이커(Kula Shaker)는 1990년대의 브릿팝 시대에 두각을 드러낸 프론트맨의 Crispian Mills가 이끄는 영국의 사이키델릭/인디 록 밴드.
+쿨라 셰이커(Kula Shaker)는 1990년대의 브릿팝 시대에 두각을 드러낸 프론트맨 Crispian Mills가 이끄는 영국의 사이키델릭/인디 록 밴드.
 
 1996년에 발매한 데뷔 앨범 'K'는 영국 앨범 차트에서 1위를 차지한 Kula Shaker의 대표작.
 #### Tracklist

@@ -14,13 +14,13 @@ title: Armand Van Helden – My My My (Remixes)
 ---
 
 
-Armand Van Helden(아맨드 반헬덴)의 앨범 「New York: A Mix Odyssey」에 수록되어 있는 「My My My」의 remix집.
+Armand Van Helden（アーマンドヴァンヘルデン）のアルバム「New York: A Mix Odyssey」に収録されている「My My My」のremix集。
 
-A면 1곡째는, UK의 하우스 DJ＆프로듀서 Paul Roberts, Russ Morgan, Paul Birchall로 이루어지는 We Deliver에 의한 remix.
+A面１曲目は、UKのハウスDJ＆プロデューサー　Paul Roberts、Russ Morgan、Paul BirchallからなるWe Deliverによるremix 。
 
-A면 2곡째는, UK의 일렉트로닉·뮤지션 겸 프로듀서 Cagedbaby 토마스 Gandey에 의한 remix.
+A面２曲目は、UKのエレクトロニック・ミュージシャン兼プロデューサーCagedbabyことThomas Gandeyによるremix。
 
-B면은, UK 일렉트로 브레이크 DJ겸 프로듀서의 DJ Dee Kline (Nicholas Annand)와 Wizard (Greg Fleming)의 콜라보레이션 Deekline & Wizard에 의한 remix.
+B面は、UK エレクトロ・ブレイクDJ兼プロデューサーの DJ Dee Kline (Nicholas Annand) と Wizard (Greg Fleming) のコラボレーションDeekline & Wizardによるremix。
 
 #### Tracklist
 ```md

@@ -18,7 +18,7 @@ title: Strike – Inspiration (Remo-Con Vs. Toshio Ueki Remix)
 
 DJ Remo-con이란 Tetsuya Tamura는, 세계의 하드 댄스나 테크노의 페스티벌, ULTRA Japan등에서도 자주 라이브를 실시하고 있는, 일본의 하드 댄스계를 대표하는 아티스트의 한 사람.
 
-Toshio Ueki(우에키 토시오)는 1990년대 초반부터 활동하는 DJ&집필가. 에이벡스의 컴필레이션 시리즈 등 다종다양하게 활동하고 있다.
+Toshio Ueki(우에키 토시오)는 1990년대 초부터 활동하는 DJ&집필가. 에이벡스의 컴필레이션 시리즈 등 다종다양하게 활동하고 있다.
 
 #### Tracklist
 ```md

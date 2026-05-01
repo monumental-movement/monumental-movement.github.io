@@ -12,9 +12,9 @@ title: Deodato – Deodato 2
 ---
 
 
-Deodato, Eumir Deodato (에우미르 데오다트)는 브라질 뮤지션 / 작곡가 / 어레인저 / 프로듀서.
+Deodatoこと、Eumir Deodato（エウミール・デオダート）は、ブラジルのミュージシャン/作曲家/アレンジャー/プロデューサー。
 
-1973년 릴리스의 데오다트 2번째 앨범 '랩소디 인 블루'에서는 George Gershwin(조지 가슈윈)의 'Rhapsody In Blue', Maurice Ravel(모리스 라벨)의 '죽은 공주를 위한 파바누', The Moody Blues(무디 블루스)의 「새틴의 밤」등을 데오다트류의 어레인지를 더해 수록.
+1973年リリースのデオダート２作目のアルバム「ラプソディー・イン・ブルー」では、George Gershwin（ジョージ・ガーシュウィン）の「Rhapsody In Blue」、Maurice Ravel（モーリス・ラヴェル）の「亡き王女のためのパヴァーヌ」、The Moody Blues（ムーディー・ブルース）の「サテンの夜」などをデオダート流のアレンジを加えて収録。
 
 #### Tracklist
 ```md

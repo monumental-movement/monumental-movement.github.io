@@ -17,11 +17,11 @@ Side A 【remix of Kathy Sledge - Another Star (covering Stevie Wonder - Another
 
 Side B 【re-edit of Buddy Rich - Nuttville (from The Roar Of '74)】
 
-Basement Jaxx(베이스먼트 잭스)가 2000년에 릴리스한 비공식 House 리믹스.
+Basement Jaxx (ベースメントジャックス)が2000年にリリースした非公式Houseリミックス。
 
-A는 Stevie Wonder(스티비 원더)의 'Another Star / Creepin'을 Kathy Sledge가 커버한 House 트랙 'Another Star'의 remix.
+Aは、Stevie Wonder(スティービーワンダー)の『Another Star / Creepin'』をKathy SledgeがカヴァーしたHouse トラック『Another Star』のremix。
 
-B는, 1974년에 릴리스된 Buddy Rich의 앨범 「The Roar Of '74」의 수록곡 「Nuttville」의 리에디트.
+Bは、1974年にリリースされたBuddy Richのアルバム『The Roar Of '74』の収録曲『Nuttville』のリエディット。
 
 #### Tracklist
 ```md

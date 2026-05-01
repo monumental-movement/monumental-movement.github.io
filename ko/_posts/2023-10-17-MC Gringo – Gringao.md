@@ -24,7 +24,7 @@ MC Gringo는 독일 출생의 뮤지션 겸 음악 프로듀서.
 
 MC
 트럭 A2: MC Binho
-트랙 A4: MC Dandao
+트럭 A4: MC Dão
 
 #### Tracklist
 ```md

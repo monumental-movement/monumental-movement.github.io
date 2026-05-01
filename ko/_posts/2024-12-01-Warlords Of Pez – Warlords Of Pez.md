@@ -15,7 +15,7 @@ title: Warlords Of Pez – Warlords Of Pez
 
 하루카 그 은하 우주에서 왔다…라는 설정의 Warlords Of Pez는 아일랜드의 록 밴드. 멤버는 아일랜드 인디 팝 밴드 The Chalets의 전 멤버 Chris Judge 등.
 
-아일랜드의 록/일렉트로니카 라벨 Trust Me I'm A Thief에서 2006년에 발표된 컨셉 앨범.
+아일랜드의 록/일렉트로니 라벨 Trust Me I'm A Thief에서 2006년에 발표된 컨셉 앨범.
 
 
 #### Tracklist

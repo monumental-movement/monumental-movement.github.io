@@ -13,7 +13,7 @@ title: Johannes Heil – Paranoid Dancer
 ---
 
 
-Heiko Laux (헤이코 라우)의 레이블 Kanzleramt에서 출시 된 Johannes Heil (요하네스 헤일)의 명작 Paranoid Dance의 리마스터 판.
+Heiko Laux（ヘイコ・ラウ）のレーベルKanzleramtからリリースされた、Johannes Heil（ヨハネス・ヘイル）の名作Paranoid Danceのリマスター盤。
 
 #### Tracklist
 ```md

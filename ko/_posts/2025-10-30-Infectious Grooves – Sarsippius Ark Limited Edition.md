@@ -21,7 +21,7 @@ title: Infectious Grooves – Sarsippius' Ark (Limited Edition)
 
 
 
-임펙셔스 그루브스
+インフェクシャスグルーヴス
 
 #### Tracklist
 ```md

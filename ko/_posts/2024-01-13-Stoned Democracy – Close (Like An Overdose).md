@@ -14,13 +14,13 @@ title: Stoned Democracy – Close (Like An Overdose)
 ---
 
 
-Stoned Democracy는 Chris Rushby와 Roland Armstrong (Rollo)의 단위입니다.
+Stoned Democracyは、Chris RushbyとRoland Armstrong（Rollo）によるユニット。
 
-별명의로 High On Love(HOL)로서도 활동. 멤버의 Roland Armstrong (Rollo)는 Dido (다이드)의 형입니다.
+別名義でHigh On Love（HOL）としても活動。メンバーのRoland Armstrong（Rollo）は、Dido（ダイド）の兄。
 
-「Close (Like An Overdose)」는 런던을 거점으로 하는 서울, 댄스, 하우스 뮤직의 라벨 Champion보다 1993년에 릴리스.
+「 Close (Like An Overdose)」はロンドンを拠点とするソウル、ダンス、ハウス ミュージックのレーベルChampionより1993年にリリース。
 
-B면은, 하우스 씬으로 활약하는 Kerri Chandler(켈리 챈들러)에 의한 remix.
+B面は、ハウスシーンで活躍するKerri Chandler（ケリー・チャンドラー）によるremix。
 
 #### Tracklist
 ```md

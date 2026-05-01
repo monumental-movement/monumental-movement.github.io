@@ -51,7 +51,7 @@ color: #fff;
 EDM은 21세기 '축제건축'이었던 것이다.
 
 원래 EDM이라는 말은 장르명이라기보다 마케팅 용어였다.
-그러나 그 애매함이야말로 시대를 상징하고 있었다.
+그러나 그 애매함이 시대를 상징하고 있었다.
 하우스라도 테크노라도 트랜스라도 좋다 - 중요한 것은 "체험"이었다.
 한 소리가 세계를 흔드는 그런 착각을 누구나 한 번은 믿었다.
 
@@ -66,7 +66,7 @@ EDM은 21세기 '축제건축'이었던 것이다.
 이윽고 2000년대 후반 유럽의 클럽 문화가 미국에 “역수입”된다.
 Avicii의 "Levels", Swedish House Mafia의 "Don’t You Worry Child", David Guetta의 "Titanium".
 그들은 단순한 노래가 아니라 '빛의 언어'였다.
-2010년대, EDM은 **팝의 중심**으로 뛰어오른다. 언더그라운드의 꿈은 아레나의 환호로 바뀌었다.
+2010년대 EDM은 **팝의 중심**으로 뛰어오른다. 언더그라운드의 꿈은 경기장의 환호로 바뀌었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oAHg2zHfCsk?si=hJI5ruJGYGumfgW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -106,7 +106,7 @@ EDM 페스는 기술이 만들어낸 새로운 **공동체 의식**이었다.
 
 ### Ⅴ. 글로벌 자본과 SNS 시대
 
-EDM은 “유통의 혁명”과 함께 있었다.
+EDM은 "유통의 혁명"과 함께 있었다.
 SoundCloud, YouTube, Beatport.
 클릭 하나로 전세계 DJ가 소리를 교환했다.
 
@@ -139,14 +139,14 @@ Future Bass, Trap, Tech House, Drumstep.
 
 일본에서 EDM이 본격적으로 정착한 것은 2013년 전후.
 ULTRA JAPAN이 상륙하고 ZEDD와 Hardwell이 일본에 왔을 때,
-걸프의 하늘이 빛에 휩싸였다.
+걸프의 하늘이 빛에 싸여 있었다.
 
 일본에서는 클럽보다 '페스티벌'로서의 도입이 먼저였다.
 그것은 바로 "공동체에 대한 욕망"의 표현이었을지도 모른다.
 
 나카타 야스타카, Perfume, Ado——
 J-POP은 EDM의 구조를 흡수하여 보다 극적이고 시각적인 소리로 진화했다.
-TikTok 세대에 있어서, “춤출 수 있다”라고는 신체가 아니고**손가락 끝의 동작**일지도 모른다.
+TikTok 세대에 있어서, “춤출 수 있다”라고는 신체가 아니고 **손가락 끝의 동작**일지도 모른다.
 디지털에서 튀는 빛, 스마트폰 저쪽의 군중.
 일본의 EDM은 **내향적인 축제**라는 새로운 형태에 도착했다.
 
@@ -181,6 +181,15 @@ EDM은 기술 축제이자 동시에
 EDM은 끝나지 않았다.
 다만 모양을 바꾸고 있는 것이다.
 ** 디지털 축제는 아직 끝나지 않는다. **
+
+---
+
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96D3BZ5q2Io?si=7gDsCT5qUIxfOZoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -229,7 +238,7 @@ flowchart TD
 | DAW | FL Studio | 비트 메이킹 지향, 젊은 프로듀서 납품업자 |
 | DAW | Logic Pro | 작곡/믹스까지의 통합 환경 |
 | 신디 | Xfer Serum | 현대 EDM의 음색 디자인을 상징 |
-| 신디 | NI Massive | 2000년대 후반 ~ 2010년대 초기 주력 |
+| 신디 | NI Massive | 2000년대 후반~2010년대 초기 주력 |
 | 신디 | Sylenth1 | 클래식 리드 사운드에 강한 |
 | 플러그인 | Waves L2/FabFilter Pro-L | 라우드니스 전쟁을 지지한 마스터링 클래식 |
 | DJ 장비 | Pioneer CDJ 시리즈 | 글로벌 표준 DJ 플레이 장비 |

@@ -13,7 +13,7 @@ title: Pleasure & Pain – Higher
 ---
 
 
-Pleasure & Pain(프레저&페인)은 80년대부터 활약하는 이타로의 유명 프로듀서 FRED VENTURA(프레드 벤츄라)의 프로젝트(1990-1992).
+Pleasure & Pain（プレジャー&ペイン）は、80年代から活躍するイタロの有名プロデューサーFRED VENTURA（フレッド・ベンチュラ）のプロジェクト（1990-1992）。
 
 #### Tracklist
 ```md

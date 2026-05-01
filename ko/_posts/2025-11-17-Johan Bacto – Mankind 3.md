@@ -13,7 +13,7 @@ title: Johan Bacto – Mankind 3
 ---
 
 
-Johan Bacto(Johan Svensson)는 스웨덴의 Techno 프로듀서입니다. Mankind, Zync, Countdown 2000 등의 라벨을 운영하고 있다.
+Johan Bacto(Johan Svensson)は、スェーデンのTechnoプロデューサー。Mankind, Zync, Countdown 2000などのレーベルを運営している。
 
 Mankind 3는 1998년 Johan Bacto의 라벨 MANKIND에서 출시된 Techno.
 

@@ -13,7 +13,7 @@ title: Earthbound – Essence Of Life
 ---
 
 
-Earthbound는 Anders Eriksson과 Fredrik Johansson의 스웨덴 유로 프로그레시브 댄스 액트입니다.
+Earthbound는 Anders Eriksson과 Fredrik Johansson의 스웨덴 유로 프로그레시브 댄스 액트.
 
 A면은 UK트랜스 & 사이트랜스 DJ/프로듀서/리믹서 John '00' Fleming(John Fleming)에 의한 remix. B면은 Skynet UK(Ian Widgery)에 의한 remix.
 

@@ -16,7 +16,7 @@ title: Various – Elektronische Musik -Interkontinental 5
 
 
 「Various – Elektronische Musik -Interkontinental 5」는,
-2006년에 독일의 라벨 「Traum Schallplatten」에서 릴리스된 3장 세트의 컴필레이션 앨범입니다.
+2006년에 독일의 라벨 「Traum Schallplatten」에서 릴리스된 3매 세트의 컴필레이션 앨범입니다.
 
 #### Tracklist
 ```md

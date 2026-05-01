@@ -10,15 +10,15 @@ tags:
 - Minimal
 - Ambient
 - Field Recording
-title: '[칼럼] Andy Goldsworthy와 음악 - 시간과 자연을 둘러싼 예술적 공진'
+title: 【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
 ---
 
 
-## Andy Goldsworthy와 음악 - 시간과 자연을 둘러싼 예술적 공진
+## Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
 
-문장：mmr｜테마：Andy Goldsworthy의 작품과 앰비언트나 필드 녹음, 미니멀·뮤직이 가지는 소리의 공명성에 대해서
+文：mmr｜テーマ：Andy Goldsworthyの作品とアンビエントやフィールド録音、ミニマル・ミュージックがもつ音の共鳴性について
 
-앤디 골즈 워지 (Andy Goldsworthy, 1956-)는 자연 소재를 이용한 설치와 랜드 아트로 알려진 영국의 아티스트. 그의 작품은 시간의 흐름, 소재의 변화, 자연의 순환 등의 요소를 테마로 하고 있다. 그 어프로치는 음악--특히 앰비언트나 필드 레코딩, 미니멀·뮤직--과 많은 공통점을 가지고 있다.
+アンディー・ゴールズワージー（Andy Goldsworthy, 1956-）は、自然素材を用いたインスタレーションやランド・アートで知られるイギリスのアーティスト。彼の作品は時間の流れ、素材の変化、自然の循環といった要素をテーマにしている。そのアプローチは音楽――特にアンビエントやフィールドレコーディング、ミニマル・ミュージック――と多くの共通点を持っている。
 
 ---
 
@@ -37,29 +37,29 @@ color: #fff;
 </style>
 
 
-### Goldsworthy의 작품과 음악의 공통성
+### Goldsworthyの作品と音楽の共通性
 
-| 테마 | Goldsworthy의 작품 | 음악과의 공통점 |
+| テーマ | Goldsworthyの作品 | 音楽との共通点 |
 |--------|----------------|----------------|
-**시간** | 얼음, 잎, 가지 등이 녹거나 시들거나 하는 변화를 전제로 한 작품 | 페이즈 시프트나 루프에 의한 음악적 시간 감각(예: 스티브 라이히) |
-**장소** | 작품은 제작 장소의 자연 환경과 불가분 |
-** 바보** | 바람, 비, 햇빛에 의해 붕괴되는 작품 | 사라지는 잔향과 지속음의 페이드 아웃 |
-**순환** | 계절과 자연 현상의 사이클을 강조 | 드론과 반복 구조에 의한 순환적 시간 감각 |
-** 침묵 ** | 공간과 틈새의 중요성 | 존 케이지와 앰비언트 작품에서 "무음"의 존재 |
+| **時間** | 氷、葉、枝などが溶けたり枯れたりする変化を前提にした作品 | フェーズシフトやループによる音楽的時間感覚（例：スティーヴ・ライヒ） |
+| **場所** | 作品は制作場所の自然環境と不可分 | フィールド録音による「その場の音」を取り込む音楽 |
+| **儚さ** | 風、雨、日差しによって崩壊する作品 | 消えゆく残響や持続音のフェードアウト |
+| **循環** | 季節や自然現象のサイクルを強調 | ドローンや反復構造による循環的時間感覚 |
+| **沈黙** | 空間や間合いの重要性 | ジョン・ケージやアンビエント作品における「無音」の存在 |
 
 ---
 
-### Goldsworthy의 대표 작품 / 프로젝트
+### Goldsworthyの代表的な作品・プロジェクト
 
-- **Snowball Series**: 도시에 거대한 눈덩이를 설치하고 시간과 함께 녹아가는 모습을 전시.
-- **Icicle Star**: 얼음 조각을 별 모양으로 짜고 일출에서 녹는 작품.
-- **Stone River (1997)**: 미국 스탠포드 대학에 설치된 돌의 사행하는 벽.
-- **Rowan Leaves and Hole**: 붉은 잎을 원형으로 배치하고 수면에 떠 있는 작품.
-- **Storm King Wall (1997–98)**: 뉴욕의 폭풍 킹 아트 센터에 있는 장대한 사행 돌벽.
+- **Snowball Series**: 都市に巨大な雪玉を設置し、時間と共に溶けていく様子を展示。
+- **Icicle Star**: 氷片を星形に組み上げ、日の出で融解する作品。
+- **Stone River (1997)**: アメリカ・スタンフォード大学に設置された石の蛇行する壁。
+- **Rowan Leaves and Hole**: 赤い葉を円形に配置し、水面に浮かべる作品。
+- **Storm King Wall (1997–98)**: ニューヨークのストーム・キング・アートセンターにある長大な蛇行石壁。
 
 ---
 
-### Goldsworthy의 저서
+### Goldsworthyの著書
 
 - [『A Collaboration with Nature』 (1990)](https://amzn.to/48qQfVp)
 - [『Hand to Earth』 (1990)](https://amzn.to/46r497l)
@@ -72,66 +72,66 @@ color: #fff;
 
 ---
 
-### Goldsworthy 작품에 맞는 음악 재생목록(장르별)
+### Goldsworthy作品に合う音楽プレイリスト（ジャンル別）
 
-#### 앰비언트
+#### アンビエント
 
-- Brian Eno - *Ambient 1: Music for Airports*
+- Brian Eno ― *Ambient 1: Music for Airports*
 - Harold Budd ― *The Pearl*
 - Stars of the Lid ― *And Their Refinement of the Decline*
 
-#### 필드 녹음
+#### フィールド録音
 
 - Chris Watson ― *Weather Report*
-- Jana Winderen - *Energy Field*
-- Hildegard Westerkamp - *Into the Labyrinth*
+- Jana Winderen ― *Energy Field*
+- Hildegard Westerkamp ― *Into the Labyrinth*
 
-#### 미니멀
+#### ミニマル
 
-- Steve Reich - *Music for 18 Musicians*
-- Terry Riley - *In C*
-- Philip Glass - *Glassworks*
+- Steve Reich ― *Music for 18 Musicians*
+- Terry Riley ― *In C*
+- Philip Glass ― *Glassworks*
 
 ---
 
-### "시간 흐름"에 따른 구성 재생 목록
+###  「時間の流れ」に沿った構成プレイリスト
 
-#### 아침
+#### 朝
 
-- Brian Eno - *Ambient 1: Music for Airports*
+- Brian Eno ― *Ambient 1: Music for Airports*
 - Chris Watson ― *Morning at the River*
-- Steve Reich - *Music for 18 Musicians*
+- Steve Reich ― *Music for 18 Musicians*
 
-#### 낮
+#### 昼
 
-- Terry Riley - *In C*
-- Jana Winderen - *Energy Field*
-- Philip Glass - *Glassworks*
+- Terry Riley ― *In C*
+- Jana Winderen ― *Energy Field*
+- Philip Glass ― *Glassworks*
 
-#### 저녁
+#### 夕方
 
-- Harold Budd & Brian Eno - *The Pearl*
-- Hildegard Westerkamp - *Kits Beach Soundwalk*
+- Harold Budd & Brian Eno ― *The Pearl*
+- Hildegard Westerkamp ― *Kits Beach Soundwalk*
 - Stars of the Lid ― *Requiem for Dying Mothers*
 
-#### 밤
+#### 夜
 
-- William Basinski - *The Disintegration Loops*
-- Eliane Radigue - *Trilogie de la Mort*
-- Biosphere - * Substrata *
+- William Basinski ― *The Disintegration Loops*
+- Eliane Radigue ― *Trilogie de la Mort*
+- Biosphere ― *Substrata*
 
-### 계절의 흐름
+### 季節の流れ
 
-- 봄: Ryuichi Sakamoto - *Async*
-- 여름: Chris Watson ― *Weather Report*
-- 가을 : Johann Johannsson - *Orphée *
-- 겨울 : Alva Noto & Ryuichi Sakamoto ― *Vrioon*
+- 春：Ryuichi Sakamoto ― *Async*
+- 夏：Chris Watson ― *Weather Report*
+- 秋：Johann Johannsson ― *Orphée*
+- 冬：Alva Noto & Ryuichi Sakamoto ― *Vrioon*
 
 ---
 
 ### 결론
 
-앤디 골즈 워지의 작품은 시간과 자연과 함께 변화하고 사라져 가는 '일회성'을 갖고 있다. 그 미학은 앰비언트나 필드 녹음, 미니멀 뮤직이 가지는 소리의 「환경성」 「반복」 「침묵」과 강하게 공명한다. 양자를 조합해 체험하는 것으로, 시각과 청각을 횡단하는 「자연과의 대화」가 태어난다.
+アンディー・ゴールズワージーの作品は、時間や自然とともに変化し消えていく「一回性」を宿している。その美学は、アンビエントやフィールド録音、ミニマル・ミュージックがもつ音の「環境性」「反復」「沈黙」と強く共鳴する。両者を組み合わせて体験することで、視覚と聴覚を横断する「自然との対話」が生まれる。
 
 ---
 

@@ -14,7 +14,7 @@ title: Cactus World News – Urban Beaches
 ---
 
 
-칵타스 월드 뉴스는 1984년 4월에 더블린에서 결성된 아일랜드의 록 밴드. 1985년 UK의 하드 록 밴드 The Cult(더 컬트)와 영국 투어를 실시해, MCA 레코드와 계약.
+칵타스 월드 뉴스는 1984년 4월에 더블린에서 결성된 아일랜드의 록 밴드. 1985년에 UK의 하드 록 밴드 The Cult(더 컬트)와 영국 투어를 실시해, MCA 레코드와 계약.
 
 1986년 MCA 레코드에서 발매한 'Urban Beaches'는 칵타스 월드 뉴스의 데뷔 앨범으로 프로듀서는 The Rolling Stones(롤링 스톤즈)를 다룬 Chris Kimsey(크리스 김지).
 

@@ -13,7 +13,7 @@ title: Rough Cutt – Rough Cutt
 ---
 
 
-Rough Cutt (러프 컷)는 Ozzy Osbourne (오지 오스본)의 Jake E. Lee (제이크 E. 리), Orgy (오지)의 Amir Derakh (아밀 데라크), Quiet Riot (콰이어트 라이엇)의 Paul Shortino(폴·쇼티노)등이 재적하고 있던 LA 출신의 US헤비메탈·밴드.
+Rough Cutt（ラフ・カット）は、 Ozzy Osbourne（オジー・オズボーン）のJake E. Lee（ジェイク・E・リー）,  Orgy（オージー）のAmir Derakh（アミール・デラク）, Quiet Riot（クワイエット・ライオット）のPaul Shortino（ポール・ショーティノ）などが在籍していたLA出身のUSヘヴィメタル・バンド。
 
 #### Tracklist
 ```md

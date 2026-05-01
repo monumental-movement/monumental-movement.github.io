@@ -15,7 +15,7 @@ title: Logic System – Logic
 
 DJ Harvey의 믹스 'Sarcastic Study Masters'에서도 사용된 "Clash"가 수록된 앨범입니다.
 
-사용기재는 Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog , Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Synd VP-330, Roland MC-8, Roland TR-808, 등
+사용 기재는 Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog , Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Synd VP-330, Roland MC-8, Roland TR-808, 등
 
 마츠부 히데키에 의한 1981년의 오리지널판.
 

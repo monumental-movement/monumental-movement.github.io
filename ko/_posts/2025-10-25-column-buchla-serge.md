@@ -49,7 +49,7 @@ color: #fff;
 
 ### 1-1. 샌프란시스코 테이프 뮤직 센터에서
 
-1960년대 초, 샌프란시스코의 테이프 뮤직 센터에서는 **Morton Subotnick**과 **Pauline Oliveros** 등이 실험 음악과 기술의 새로운 관계를 모색하고 있었다.
+1960년대 초 샌프란시스코의 테이프 뮤직 센터에서는 **Morton Subotnick**과 **Pauline Oliveros** 등이 실험 음악과 기술의 새로운 관계를 모색하고 있었다.
 그들이 요구한 것은, 「피아노나 기타의 연장이 아닌 악기」였다.
 
 Subotnick의 의뢰에 응하여 등장한 것이 **Buchla Series 100(1963-1966)**이다.
@@ -104,7 +104,7 @@ Serge의 근본 사상은 **“One module, many functions”**.
 - 트리거 지연
 - 클럭 분배기
 - 혼돈 모듈
-패치 구성에 따라 기능이 변경됩니다.
+그리고 패치 구성에 따라 기능이 변경됩니다.
 
 이 사상은 오늘의 Max/MSP 패칭, Reaktor Blocks, 혹은 Eurorack의 Make Noise 「Maths」에 직계로 계승되고 있다.
 

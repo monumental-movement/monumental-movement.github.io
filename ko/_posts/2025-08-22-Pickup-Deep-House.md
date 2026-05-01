@@ -21,7 +21,7 @@ title: 딥 하우스 작품 픽업
 ### Various – Workshop 04
 <a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.webp"></a>
 
-개요: 'Workshop 04'는 Vinyl에서 출시된 미니멀함과 딥하우스의 요소가 어우러진 작품입니다. A면에는 독일의 뮤지션 Move D(David Moufang)와 Fragment에 의한 딥 하우스 트럭, B1에는 Even Tuell의 딥 미니멀 하우스, B2에는 Sascha Dive에 의한 다운 템포 트럭이 수록되어 있습니다.
+개요: 'Workshop 04'는 Vinyl에서 출시된 미니멀함과 딥하우스의 요소가 어우러진 작품입니다. A면에는 독일의 뮤지션 Move D(David Moufang)와 Fragment에 의한 딥 하우스 트랙, B1에는 Even Tuell의 딥 미니멀 하우스, B2에는 Sascha Dive에 의한 다운 템포 트랙이 수록되어 있습니다.
 
 추천 포인트 : 클럽감 넘치는 그루브와 깊이있는 음상이 매력. 유럽의 세련된 하우스/미니멀 씬을 맛보고 싶은 분에게 딱 한 장입니다.
 

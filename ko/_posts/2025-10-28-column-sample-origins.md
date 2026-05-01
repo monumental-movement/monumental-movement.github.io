@@ -38,7 +38,7 @@ color: #fff;
 
 
 #### 1. The Winstons – “Amen, Brother” (1969)
-통칭 "**Amen Break**". 6초의 드럼 솔로는 힙합, 정글, 드럼 베이스, 하드코어 테크노 등 무수한 장르를 만들어냈다. N.W.A.와 Public Enemy부터 Aphex Twin, The Prodigy에 이르기까지 모든 프로듀서가 이 브레이크를 자른다.
+통칭 "**Amen Break**". 6초의 드럼 솔로는 힙합, 정글, 드럼 베이스, 하드코어 테크노 등 무수한 장르를 만들어냈다. N.W.A.와 Public Enemy부터 Aphex Twin, The Prodigy에 이르기까지 모든 프로듀서가 이 브레이크를 잘라냈다.
 전 드러머인 Gregory Coleman은 보상받지 못한 채 평생을 닫았지만, 그 스네어와 하이햇 사이에 머무르는 '그루브의 영혼'은 지금도 계속 울린다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxZuq57_bYM?si=9sRN2gAN9wrfNQmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

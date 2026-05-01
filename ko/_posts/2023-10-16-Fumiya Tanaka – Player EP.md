@@ -9,12 +9,12 @@ permalink: /ko/fumiya-tanaka-player-ep/
 tags:
 - Techno
 - Tribal
-title: 타나카 후미야 – 플레이어 EP
+title: Fumiya Tanaka – Player EP
 ---
 
 
-「Player EP」는,
-2002년 토레마 레코드에서 발매된 푸미야 타나카의 EP입니다.
+「Player EP」は、
+2002年にTorema RecordsからリリースされたFumiya TanakaのEPです。
 
 
 #### Tracklist

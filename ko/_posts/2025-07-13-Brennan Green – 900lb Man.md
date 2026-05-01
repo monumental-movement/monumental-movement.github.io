@@ -15,11 +15,11 @@ title: Brennan Green – 900lb Man
 ---
 
 
-Brennan Green은 NY 언더그라운드 디스코 ~ 일렉트로 베테랑 DJ, 프로듀서, 엔지니어. Metro Area나 라벨 DFA에 영향을 준 인물로도 알려져 있으며 Kid Creole & The Coconuts의 remix나 ARTHUR RUSSELL의 트리뷰트 밴드 ARTHUR'S LANDING(아서즈 랜딩)의 프로듀스로도 유명.
+Brennan Greenは、NYアンダーグラウンド・ディスコ〜エレクトロのベテランDJ、プロデューサー、エンジニア。Metro Area やレーベルDFA に影響を与えた人物としても知られ、Kid Creole & The CoconutsのremixやARTHUR RUSSELLのトリビュート・バンドARTHUR'S LANDING(アーサーズ・ランディング)のプロデュースでも有名。
 
-900lb Man은 2006년 Jet Set에서 출시된 House, Tech House, Acid House 트랙.
+「900lb Man」は、2006年にJet Set からリリースされたHouse, Tech House, Acid Houseトラック。
 
-A는 KZA와 DJ Kent에 의한 Duo, Force Of Nature(F.O.N 포스 오브 네이처)에 의한 remix.
+Aは、KZA とDJ KentによるDuo、Force Of Nature(F.O.N フォース・オブ・ネイチャー)によるremix。
 
 
 #### Tracklist

@@ -14,13 +14,13 @@ title: Klaxons – Golden Skans
 ---
 
 
-2005년에 UK의 뉴크로스로 결성된 록 밴드 Klaxons (크락슨즈) 「Golden Skans」의 remix.
+2005年にUKのニュークロスで結成されたロックバンドKlaxons (クラクソンズ)「Golden Skans」のremix。
 
-A면은 1곡째는, Ed Banger Records/Ed Rec(에드뱅거 레코드) 소속의 일렉트로닉 뮤지션&DJ, SebastiAn(세바스티안)에 의한 remix.
+A面は１曲目は、Ed Banger Records/Ed Rec(エドバンガーレコード)所属のエレクトロニックミュージシャン＆DJ、SebastiAn（セバスチャン）によるremix。
 
-A면 2곡째는, 프랑스의 프로듀서이며, Para One과 Bobmo와 함께 라벨 Marble을 운영하는 Surkin에 의한 remix.
+A面２曲目は、フランスのプロデューサーであり、Para OneとBobmoと共にレーベル Marbleを運営するSurkinによるremix。
 
-B면은, 영국의 DJ＆프로듀서 Erol Alkan에 의한 remix.
+B面は、イギリスのDJ＆プロデューサーErol Alkanによるremix。
 
 #### Tracklist
 ```md

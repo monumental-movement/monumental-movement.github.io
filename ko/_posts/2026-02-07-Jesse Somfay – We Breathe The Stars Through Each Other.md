@@ -18,7 +18,7 @@ title: Jesse Somfay – We Breathe The Stars Through Each Other
 
 Jesse Somfay(제시 솜페이)는 2000년대 중반부터 명문 라벨 Archipel과 Traum Schallplatten을 중심으로 활동하고 있는 캐나다 출신의 프로듀서. 미니멀 테크노, 앰비언트, 슈게이저를 융합시킨 스타일이 특징. Borealis(보레아리스) 명의에서의 활동으로도 잘 알려져 있다.
 
-"We Breathe The Stars Through Each Other"는 2005년 라벨 Traum Schallplatten에서 출시된 Jesse Somfay의 대표작 Techno/Minimal/Acid 트랙. 앨범 'Between The Dark And The Light'에 수록되어 있다.
+"We Breathe The Stars Through Each Other"는 2005년 라벨 Traum Schallplatten에서 발표된 Jesse Somfay의 대표작 Techno/Minimal/Acid 트랙. 앨범 'Between The Dark And The Light'에 수록되어 있다.
 
 #### Tracklist
 ```md

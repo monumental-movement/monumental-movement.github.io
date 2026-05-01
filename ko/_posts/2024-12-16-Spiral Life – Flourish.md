@@ -15,7 +15,7 @@ title: Spiral Life – Flourish
 ---
 
 
-1995년에 릴리스된 「Flourish」는, Spiral Life(스파이럴 라이프)의 3번째의 스튜디오 앨범이며, 라스트 앨범.
+1995년에 발매된 「Flourish」는, Spiral Life(스파이럴 라이프)의 3번째 스튜디오 앨범이며, 마지막 앨범.
 
 Spiral Life는 1993년부터 1996년에 활동한 하야 코지와 이시다 쇼키치에 의한 유닛. 3년간의 활동으로, 3장의 오리지날 앨범을 릴리스, 「Flourish」는 제일의 히트작이 되었다.
 

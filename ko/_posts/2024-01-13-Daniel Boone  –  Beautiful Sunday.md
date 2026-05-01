@@ -10,13 +10,13 @@ tags:
 - Nostalgic
 - 7inch
 - Pops
-title: Daniel Boone – Beautiful Sunday
+title: Daniel Boone  –  Beautiful Sunday
 ---
 
 
-Daniel Boone(다니엘 분)은, 영국 출신의 싱어송 라이터.
+Daniel Boone(ダニエル　ブーン)は、イギリス出身のシンガーソングライター。
 
-「Beautiful Sunday(뷰티풀 선데이)」는 세계적인 대히트가 되었다. 일본에서는 좋은 아침 720(TBS 계열)의 코너, 캐러밴 II의 테마곡으로 알려져, 다나카 성아에 의한 커버 곡도 히트했다.
+「Beautiful Sunday（ビューティフルサンデー）」は世界的な大ヒットとなった。日本では、おはよう720(TBS系列)のコーナー、キャラバンIIのテーマ曲として知られ、田中星児によるカヴァー曲もヒットした。
 
 #### Tracklist
 ```md

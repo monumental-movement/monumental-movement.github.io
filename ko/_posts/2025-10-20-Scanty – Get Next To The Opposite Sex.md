@@ -16,7 +16,7 @@ title: Scanty – Get Next To The Opposite Sex
 
 Scanty와 Richard Marshall(리처드 마샬)은 오랜 세월에 걸쳐 다양한 명의로 수많은 유명한 클럽 레코드를 다루어 온 런던을 거점으로 하는 DJ/프로듀서.
 
-「Get Next To The Opposite Sex」는, Garry Blackburn & Norman Cook 주재의 라벨 Southern Fried Records로부터 2001년에 릴리스된 House/Tech House.
+「Get Next To The Opposite Sex」는 Garry Blackburn & Norman Cook 주재의 라벨 Southern Fried Records에서 2001년에 릴리스된 House/Tech House.
 
 #### Tracklist
 ```md

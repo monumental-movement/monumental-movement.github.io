@@ -13,7 +13,7 @@ title: Synapsi feat Conny Lee – Are You Leaving Me
 ---
 
 
-"Are You Leaving Me"는
+「Are You Leaving Me」は、
 1993년에 이탈리아의 라벨 「Technology」로부터 발매된 Synapsi에 의한 EP입니다.
 
 

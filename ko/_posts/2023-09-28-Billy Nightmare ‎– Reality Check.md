@@ -13,11 +13,11 @@ title: Billy Nightmare – Reality Check
 ---
 
 
-시카고의 레이브 장면에서 나타난 Billy Nightmare "Mystic Bill" Torres의 EP입니다.
+シカゴのレイヴシーンから現れたBilly Nightmareこと“Mystic Bill” TorresのEPです。
 
-원래 이 프로젝트는 'Billy's Nightmare'라는 제목이 될 예정이었지만, 일생 불운을 초래하지 않도록, Torres는 이것을 Billy Nightmare로 전환하기로 결정하여 Mystic Bill이라는 별명을 옆에 두고, 머리카락을 잘라, 사운드를 바꾸고, 이 새로운 페르소나가 되었습니다.
+元々、このプロジェクトは「Billy's Nightmare」と題される予定でしたが、一生不運を招かないように、TorresはこれをBilly Nightmareに切り替えることに決めてMystic Billという別名を横に置き、髪を切り、サウンドを変え、この新しいペルソナとなりました。
 
-Reality Check에는 1996년 시카고의 Mirage Studios에서 녹음된 4개의 트랙이 포함되어 있습니다.
+『Reality Check』には1996年にシカゴのMirage Studiosで録音された4つのトラックが含まれています。
 
 A면의 두 트랙은 어두운 비트로 머리에 잠시 동안 그림자를 떨어 뜨립니다. B면에는 같은 노래의 두 가지 버전이 있으며, 모두 Mystic Bill이 제작할 수 있는 다양성을 보여줍니다.
 

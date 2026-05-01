@@ -15,7 +15,7 @@ title: The Bollock Brothers – The Bunker (From The Forthcoming Film)
 ---
 
 
-The Bollock Brothers(볼록 브라더스)는 런던의 프로모터/DJ/매니저이며, 4"Be 2"의 멤버였던 Jack McDonald(족 맥도날드)에 의해 1979년에 결성된 영국의 Punk/New Wave 밴드.
+The Bollock Brothers(볼록 브라더스)는 런던의 프로모터/DJ/매니저이며, 4"Be 2"의 멤버였던 Jock McDonald(족 맥도날드)에 의해 1979년에 결성된 영국의 Punk/New Wave 밴드.
 
 1980년에 발표한 'The Bunker'는 The Bollock Brothers의 대표곡으로 잘 알려져 있다. 프로듀서는 섹스 권총의 John Lydon (존 라이든)의 형제 Jimmy Lydon.
 

@@ -15,9 +15,9 @@ title: Le' Bopre – Stereo Jack
 
 
 
-Peter Grummich는 Lee Anderson과 Classic Action 명의에서도 활동. Sender Records의 설립자 Benno Blome과의 Blome & Grummich와 Mark Pfurtscheller와의 듀오에서도 활동하고 있다.
+Peter Grummichは、Lee AndersonやClassic Action名義でも活動。Sender Recordsの設立者Benno BlomeとのBlome & GrummichやMark Pfurtschellerとのデュオでも活動している。
 
-"Stereo Jack"은 2004년 Boot Music Berlin에서 출시된 Techno/Minimal 트랙. (단면)
+「Stereo Jack 」は、2004年にBoot Music BerlinからリリースされたTechno／Minimalトラック。(片面)
 
 #### Tracklist
 ```md

@@ -26,7 +26,7 @@ Track Ai
 Track Aii
 
 피아노: Bizarre Inc - Playing With Knives.
-경고음 소음: Tears For Fears - Mad World.
+삐 소음: Tears For Fears - Mad World.
 보컬: Public Enemy - Black Steel In The Hour Of Chaos.
 
 Track AAi

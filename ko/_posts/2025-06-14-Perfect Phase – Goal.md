@@ -15,11 +15,11 @@ title: Perfect Phase – Goal!!!
 ---
 
 
-Perfect Phase는 1980년대부터 활동하는 네덜란드 테크노, 트랜스, 하드하우스 DJ, 프로듀서, Freek Fontein(The Freak)과 Willem Faber(Mac Zimms)에 의한 프로젝트.
+Perfect Phase は、1980年代から活動するオランダのテクノ、トランス、ハードハウスのDJ、プロデューサー、Freek Fontein(The Freak)とWillem Faber(Mac Zimms)によるプロジェクト。
 
-이 레코드는, 2000년에 네덜란드의 댄스 라벨 2-Play 또는 릴리스된 House · HardHouse 트랙.
+このレコードは、2000年にオランダのダンスレーベル2-PlayかリリースされたHouse ・HardHouseトラック。
 
-재킷 디자인은 네덜란드의 클럽 Locomotion의 레지던트로서 활약한 Deaz D. Dennis Harinck가 다룬다.
+ジャケットデザインは、オランダのクラブLocomotionのレジデントとして活躍したDeaz D.ことDennis Harinckが手がけた。
 
 
 

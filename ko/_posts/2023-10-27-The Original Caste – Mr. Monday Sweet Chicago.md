@@ -14,7 +14,7 @@ title: The Original Caste – Mr. Monday / Sweet Chicago
 ---
 
 
-The Original Caste는 캐나다의 포크 그룹입니다. 1966년 앨버타주 캘거리에서 결성되어 당시에는 '더 노스 컨트리 싱어스'라는 이름으로 활동하고 있었습니다.
+The Original Casteは、カナダのフォーク・グループ。 1966年にアルバータ州カルガリーで結成され、当時は「ザ・ノース・カントリー・シンガーズ」という名前で活動していました。
 
 #### Tracklist
 ```md

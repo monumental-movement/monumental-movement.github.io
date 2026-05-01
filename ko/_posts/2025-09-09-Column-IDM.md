@@ -62,7 +62,7 @@ color: #fff;
 | 6 | Orbital | Belfast | 댄스와 듣기 다리 |
 | 7 | The Orb | Little Fluffy Clouds | 샘플링을 구사한 명작 |
 | 8 | Speedy J | De-Orbit | 앰비언트 테크노의 원점 |
-| 9 | Seefeel | Plainsong | 기타 노이즈와 IDM 접근법 |
+| 9 | Seefeel | Plainsong | 기타 노이즈 및 IDM 접근법 |
 | 10 | Global Communication | 14:31 | 명상적 앰비언트 작품 |
 
 ---
@@ -157,7 +157,7 @@ color: #fff;
 
 ---
 
-## 2020년대 ~ 현재: 분산하는 IDM의 유전자
+## 2020년대 ~ 현재: 분산하는 IDM 유전자
 스트리밍 시대, 장르의 경계는 점점 모호하게. IDM의 요소는 앰비언트, 하이퍼팝, 테크노, Lo-fi 비트 등 다양한 장면에서 숨쉬고 있다.
 
 - ** 대표적인 명반 **
@@ -167,7 +167,7 @@ color: #fff;
 - Skee Mask – *Pool* (2021)
 
 - **기재의 특징**
-**AI 지원 툴과 제네레이티브 음악 소프트**의 활용.
+**AI 지원 툴과 제네레티브 음악 소프트웨어**의 활용.
 모듈러와 소프트를 조합한 하이브리드 제작.
 
 ### 추천 10곡 리스트(2020년대~현재)

@@ -13,9 +13,9 @@ title: Newworldaquarium – The Twenty EP
 ---
 
 
-90년대에는 ROSS 154명의로 활동하고 있던, Jochem Peteri 일 Newworldaquarium(NWAQ)(뉴월드 아쿠아리움)은 암스테르담을 거점으로 하는 디트로이트 테크노 일렉트로 아티스트입니다.
+90年代にはROSS 154名義で活動していた、Jochem Peteri ことNewworldaquarium（NWAQ）(ニューワールドアクアリウム)はアムステルダムを拠点とするデトロイト・テクノ・エレクトロアーティストです。
 
-이 레코드는 디트로이트 사운드로 유명한 명문 레이블 "Delsin (델신)"에서 2006 년에 발표되었습니다.
+このレコードはデトロイト・サウンドで有名な名門レーベル「Delsin(デルシン)」から2006年にリリースされました。
 
 #### Tracklist
 ```md

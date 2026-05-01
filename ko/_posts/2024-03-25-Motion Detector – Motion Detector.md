@@ -14,7 +14,7 @@ title: Motion Detector – Motion Detector
 ---
 
 
-미국의 라벨 Losonofono Records로부터 2002년에 릴리스된 Motion Detector(모션 디텍터)의 하우스·더브 트럭.
+アメリカのレーベルLosonofono Recordsから2002年にリリースされたMotion Detector（モーションディテクター）のハウス・ダブトラック。
 
 #### Tracklist
 ```md

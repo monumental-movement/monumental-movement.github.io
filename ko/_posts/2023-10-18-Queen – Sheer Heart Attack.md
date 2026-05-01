@@ -12,8 +12,8 @@ title: Queen – Sheer Heart Attack
 ---
 
 
-'Sheer Heart Attack'은 Queen(퀸)의 3번째 앨범.
-프로듀서는 Queen과 Roy Thomas Baker(로이 토마스 베이커). 또 John Deacon이 만든 곡이 수록되기 시작한 것도 이 앨범에서.
+『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。
+プロデューサーは、QueenとRoy Thomas Baker（ロイ・トーマス・ベイカー）。また、John Deaconの作った曲が収録され始めたのもこのアルバムから。
 
 #### Tracklist
 ```md

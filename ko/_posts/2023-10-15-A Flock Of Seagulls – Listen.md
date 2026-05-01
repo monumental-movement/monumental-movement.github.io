@@ -13,9 +13,9 @@ title: A Flock Of Seagulls – Listen
 ---
 
 
-A Flock Of Seagulls(플록 오브 시걸스)는 영국 리버풀에서 마이크 스코어와 그의 동생 알리에 의해 설립된 뉴 웨이브, 신디팝, 뉴로맨틱 밴드.
+A Flock Of Seagulls（フロック・オブ・シーガルズ）は、イギリスのリバプールでマイク・スコアと彼の弟アリによって設立されたニュー・ウェイヴ、 シンセポップ、ニューロマンティック・バンド。
 
-1983년에 발매된 「Listen」은 A Flock Of Seagulls의 두 번째 스튜디오 앨범.
+1983年にリリースされた「Listen」は、A Flock Of Seagullsの２枚目のスタジオアルバム。
 
 #### Tracklist
 ```md

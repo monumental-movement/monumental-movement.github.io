@@ -13,7 +13,7 @@ title: Various – Raging Thrash From Blind Vision
 ---
 
 
-「Raging Thrash From Blind Vision」은,
+"Raging Thrash From Blind Vision"은
 2000년에 Answer Records에서 발표된 이 레코드는 나고야의 로컬 HARDCORE의 컴필레이션 앨범.
 
 #### Tracklist

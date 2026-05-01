@@ -14,9 +14,9 @@ title: Bryan Cox – Freaks On Tha Floor
 ---
 
 
-Bryan Cox(브라이언 콕스)는, 뉴욕 출신의 DJ/프로듀서. 디스코, 일렉트로, 하우스, 테크노의 다양한 스타일을 믹스시킨 스타일이 특징. Spinnin, Toolroom, 100%pure, Detected, Great Stuff, Sublime 등 명문 라벨에서 출시하고 있다.
+Bryan Cox (ブライアン・コックス)は、ニューヨーク出身のDJ／プロデューサー。ディスコ、エレクトロ、ハウス、テクノの様々なスタイルをミックスさせたスタイルが特徴。Spinnin, Toolroom, 100%pure, Detected, Great Stuff, Sublimeなど名門レーベルからリリースしている。
 
-「Freaks On Tha Floor」는, 2005년에 미국의 라벨 Eden Recordings로부터 릴리스된 House/Techno.
+「Freaks On Tha Floor」は、2005年にアメリカのレーベルEden RecordingsからリリースされたHouse／Techno。
 
 #### Tracklist
 ```md

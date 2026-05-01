@@ -12,9 +12,9 @@ title: Air Frog – Bon Voyage
 ---
 
 
-Air Frog는 스웨덴 테크노 DJ/프로듀서 Jesper Dahlbäck(JESPER DAHLBACK/제스퍼 달백)과 Stephan Grieder에 의한 테크노 프로젝트.
+Air Frogは、スウェーデンのテクノDJ/プロデューサーJesper Dahlbäck（JESPER DAHLBACK/ジェスパー・ダールバック）とStephan Griederによるテクノプロジェクト。
 
-B면은, 스웨덴의 테크노 DJ/프로듀서의 Adam Beyer(아담·베이어)에 의한 remix.
+B面は、スウェーデンのテクノDJ/プロデューサーのAdam Beyer（アダム・ベイヤー ）によるremix。
 
 #### Tracklist
 ```md

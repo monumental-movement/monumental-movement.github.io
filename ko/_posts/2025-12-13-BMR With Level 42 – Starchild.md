@@ -14,11 +14,11 @@ title: BMR With Level 42 – Starchild
 ---
 
 
-BMR은 독일 하우스의 개척자로도 알려진 DJ&프로듀서 Boris Dlugosch와 Michi Lange에 의한 프로젝트.
+BMRは、ジャーマンハウスのパイオニアとしても知られるDJ&プロデューサー Boris DlugoschとMichi Langeによるプロジェクト。
 
-Level 42(레벨 42)는 'Something about you' 'Lessons in love'로 알려진 영국의 퓨전 팝 밴드.
+Level 42(レベル42)は、『Something about you』『Lessons in love』で知られるイギリスのフュージョン・ポップ・バンド。
 
-「Starchild」는 독일의 DJ 프로듀서 Mousse T가 설립한 라벨 Peppermint Jam으로부터 2001년에 릴리스된 House/Disco 트럭.
+「Starchild」は、ドイツのDJ・プロデューサーMousse Tが設立したレーベルPeppermint Jamから2001年にリリースされたHouse／Discoトラック。
 
 #### Tracklist
 ```md

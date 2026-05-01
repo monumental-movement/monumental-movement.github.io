@@ -13,11 +13,11 @@ title: Mase – Welcome Back
 ---
 
 
-Mase(메이스/Ma$e)는 제이 Z, DMX, 릴 김 등이 참가한 1997년 히트 앨범 '할렘 월드' 등으로 알려진 플로리다 출신의 래퍼.
+Mase(メイス／Ma$e)は、ジェイZ、DMX、リル・キムなどが参加した1997年のヒットアルバム『ハーレム・ワールド』などで知られるフロリダ出身のラッパー。
 
-1999년에 세컨드 앨범 「더블 업」을 릴리스 후, 은퇴하지만, 2004년에 「Welcome Back」으로 복귀.
+1999年にセカンドアルバム『ダブル・アップ』をリリース後、引退するが、2004年に「Welcome Back」で復帰。
 
-"Welcome Back"은 Bad Boy Entertainment에서 출시되었으며 B의 "Breathe, Stretch, Shake"는 P. Diddy를 특징으로합니다.
+「Welcome Back」は、Bad Boy Entertainmentからリリースされ、Bの「Breathe, Stretch, Shake」はP. Diddyをフィーチャーしている。
 
 #### Tracklist
 ```md

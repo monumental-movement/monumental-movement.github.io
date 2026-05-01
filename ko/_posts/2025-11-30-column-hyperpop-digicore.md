@@ -11,16 +11,16 @@ tags:
 - Juke
 - House
 - Chicago
-title: 【칼럼】 Hyperpop / Digicore
+title: 【コラム】 Hyperpop / Digicore
 ---
 
 
 
-# Hyperpop / Digicore : 차세대 인터넷 음악의 전체 이미지
+# Hyperpop / Digicore：次世代インターネット音楽の全体像
 
-문장：mmr｜테마：차세대 인터넷발 음향·제작·문화의 종합 분석
+文：mmr｜テーマ：次世代インターネット発 音響・制作・文化の総合分析
 
-Hyperpop과 Digicore는 2010년대 후반~2020년대에 TikTok, SoundCloud, Discord 커뮤니티를 중심으로 성장한 팝과 클럽 뮤직의 경계를 녹인 인터넷발의 음악 조류이다. 본고에서는 **100 gecs / Charli XCX / glaive / ericdoa / underscores ** 등에 이어지는 계보를 축으로, 소리의 특징, 제작 수법, 사용 기재, 문화 배경을 종합적으로 정리한다.
+Hyperpop と Digicore は 2010年代後半〜2020年代に TikTok、SoundCloud、Discord コミュニティを中心に成長した、ポップとクラブ・ミュージックの境界を溶かしたインターネット発の音楽潮流である。本稿では **100 gecs / Charli XCX / glaive / ericdoa / underscores** などに連なる系譜を軸に、音の特徴、制作手法、使用機材、文化背景を総合的に整理する。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtfkrGRK8wA?si=ckNcrMGikgYF5Luo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,27 +40,27 @@ color: #fff;
 </style>
 
 
-# 1. 개요 : Hyperpop / Digicore 란 무엇입니까?
+# 1. 概要：Hyperpop / Digicore とは何か
 
-Hyperpop:
+Hyperpop：
 
-* 팝×클럽×노이즈의 극단적인 융합
-* 과도한 피치 가공, 붕괴하는 드롭, 빛나는 고주파 신디
-* PC Music(A. G. Cook, SOPHIE)의 영향이 크다
+* ポップ×クラブ×ノイズの極端な融合
+* 過度なピッチ加工、崩壊するドロップ、きらびやかな高周波シンセ
+* PC Music（A. G. Cook, SOPHIE）の影響が大きい
 
-Digicore:
+Digicore：
 
-* SoundCloud/Discord 출시의 청년층에 의한 DIY 팝
-* Lo-fi 기타 및 이모적 가창, 간단한 비트, 보컬 체인의 인공적 처리
-* glaive와 ericdoa로 대표되는 "internet-core"미학
+* SoundCloud/Discord 発の若年層による DIY ポップ
+* Lo-fi なギターやエモ的歌唱、簡素なビート、ボーカルチェーンの人工的処理
+* glaive や ericdoa に代表される "internet-core" の美学
 
-양자는 겹치면서도 **Hyperpop=과잉화, Digicore=소박하지만 넷적**이라는 방향성의 차이가 있다.
+両者は重なりつつも、**Hyperpop＝過剰化、Digicore＝素朴だがネット的** という方向性の違いがある。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=-LXGf4a86VqNcowG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# 2. 주요 아티스트와 역할
+# 2. 主要アーティストと役割
 
 <div class="mermaid">
 graph LR
@@ -82,7 +82,7 @@ graph LR
 
 ---
 
-# 3. 연표 : Hyperpop / Digicore의 발전
+# 3. 年表：Hyperpop / Digicore の発展
 
 <div class="mermaid">
 timeline
@@ -101,12 +101,12 @@ timeline
 
 ---
 
-# 4. 음향 특징 : Hyperpop 측의 사운드 구조
+# 4. 音響特徴：Hyperpop 側のサウンド構造
 
-## 4-1. 과도한 피치 가공 및 포먼트 조작
+## 4-1. 過度なピッチ加工とフォルマント操作
 
-* Auto-Tune을 강하게 적용 (Retune Speed ​​가장 빠른)
-* 포먼트를 상하시켜 "애니메이션 음성" "합성 음성"적 효과
+* Auto-Tune を強めに適用（Retune Speed 最速）
+* フォルマントを上下させて“アニメ声”“合成音声”的効果
 
 <div class="mermaid">
 flowchart LR
@@ -119,11 +119,11 @@ flowchart LR
 
 ---
 
-## 4-2. 글리치·붕괴계 드롭
+## 4-2. グリッチ・崩壊系ドロップ
 
 * bitcrush
 * time-stretch extreme
-* harsh noise, FM 기반
+* harsh noise、FMベース
 
 <div class="mermaid">
 flowchart TD
@@ -134,26 +134,26 @@ flowchart TD
 
 ---
 
-## 4-3. 100 gecs적 구조(장르 과밀 오염)
+## 4-3. 100 gecs 的構造（ジャンル過密混入）
 
-* 스카, 메탈, 트랩, EDM을 한 곡으로 혼합
-* BPM 변화, 급전개
+* スカ、メタル、トラップ、EDM を一曲に混在
+* BPM 変化、急展開
 
 ---
 
-# 5. 음향 특징 : Digicore 측면 사운드 구조
+# 5. 音響特徴：Digicore 側のサウンド構造
 
-## 5-1. Lo-fi 기타×이모적 가창
+## 5-1. Lo-fi ギター×エモ的歌唱
 
-* DI 연결의 깨끗한 기타를 가볍게 왜곡
-* Saturation + Chorus에서 "꼬인 lo-fi 느낌"
+* DI 接続のクリーンギターを軽く歪ませる
+* Saturation + Chorus で“ねじれた lo-fi 感”
 
 ## 5-2. Internet-era Vocal Chain
 
 * Auto-Tune
-* 포먼트 인상(가벼운)
+* フォルマント上げ（軽め）
 * Doubler / Slapback
-* OTT (가벼운)
+* OTT（軽め）
 
 <div class="mermaid">
 flowchart LR
@@ -166,82 +166,82 @@ flowchart LR
 
 ---
 
-## 5-3. Minimal Trap / DnB 영향
+## 5-3. Minimal Trap / DnB 影響
 
-* 808 베이스는 겸손
-* 킥은 짧은
-* 하이햇은 1/8~1/32의 미세한 롤
+* 808 ベースは控えめ
+* キックは短い
+* ハイハットは 1/8〜1/32 の細かいロール
 
 ---
 
-# 6. 제작 기법과 DAW
+# 6. 制作手法と DAW
 
-## 사용 DAW
+## 使用 DAW
 
-* **FL Studio** (가장 많습니다. 특히 Digicore)
-* **Ableton Live**(Hyperpop의 사운드 디자인에 강함)
-* GarageBand / Logic도 일부에서 사용
+* **FL Studio**（最も多い。特に Digicore）
+* **Ableton Live**（Hyperpop のサウンドデザインに強い）
+* GarageBand / Logic も一部で使用
 
-## Hyperpop 측 제작 예
-
-
-- 1. 톱 라인을 Auto-Tune으로 강변 변환
-- 2. 신디를 FM + Wavetable로 작성
-- 3. 글리치 가공 (Stutter / Granular)
-- 4. Drop에 과도한 distortion 및 OTT
+## Hyperpop 側の制作例
 
 
-## Digicore 측 제작 예
+- 1. トップラインを Auto-Tune で強変換
+- 2. シンセを FM + Wavetable で作成
+- 3. グリッチ加工（Stutter / Granular）
+- 4. Drop に過度な distortion と OTT
 
 
-- 1. 기타를 DI → Saturation
-- 2. 가벼운 드럼(Trap 기조)
+## Digicore 側の制作例
+
+
+- 1. ギターを DI → Saturation
+- 2. 軽いドラム（Trap基調）
 - 3. Auto-Tune + Doubler
-- 4. 호울계 톱 라인을 거듭한다
+- 4. 号泣系トップラインを重ねる
 
 ---
 
-# 7. 장비 및 플러그인 (Digicore에 특히 많음)
+# 7. 機材・プラグイン（Digicore に特に多い）
 
-## 소프트웨어
+## ソフトウェア
 
-* Auto-Tune/Pitch Correction
-* Little AlterBoy (formant)
+* Auto-Tune / Pitch Correction
+* Little AlterBoy（formant）
 * OTT
-* Serum / Vital (경량으로 무료 ~ 저렴한 가격)
-* FabFilter Pro-Q/Pro-L(기본 처리)
+* Serum / Vital（軽量で無料〜低価格）
+* FabFilter Pro-Q / Pro-L（基本処理）
 
-## 하드웨어
+## ハードウェア
 
-* 저비용 DI BOX(기타 녹음)
-* 오디오 인터페이스(Scarlett 2i2 등)
-* 콘덴서 마이크(AT2020 등의 보급 모델)
+* ローコスト DI BOX（ギター録音）
+* オーディオインターフェイス（Scarlett 2i2 など）
+* コンデンサマイク（AT2020 等の普及モデル）
 
 ---
 
-#8.믹스의 특징
+# 8. ミックスの特徴
 
 ## Hyperpop
 
-* 고역을 강조(10~16kHz)
-* OTT 깊이
-* Saturation 다용도
-* 리미터 강화
+* 高域を強調（10〜16kHz）
+* OTT 深め
+* Saturation 多用
+* リミッター強め
 
 ## Digicore
 
-* 기타 대역 2~4kHz를 가볍게 부스트
-* 보컬은 중심적으로 배치(너무 넓지 않음)
-* 808 베이스는 겸손
+* ギター帯域 2〜4kHz を軽くブースト
+* ボーカルは中心的に配置（広げすぎない）
+* 808 ベースは控えめ
 
 ---
 
-# 9. 시각 · 문화적 특징
+# 9. 視覚・文化的特徴
 
-* Discord 서버를 기반으로 한 공동 제작 문화
-* TikTok 발의 바이럴 구조
-* 아바타/디지털 신체성
-* 애니메이션·게임 문화와의 융합
+* Discord サーバーを基盤とする共同制作文化
+* TikTok 発のバイラル構造
+* アバター／デジタル身体性
+* アニメ・ゲーム文化との融合
 
 <div class="mermaid">
 graph TD
@@ -255,9 +255,9 @@ graph TD
 
 # 10. 요약
 
-Hyperpop과 Digicore는 음악 제작 도구의 민주화와 인터넷 문화의 성숙을 배경으로 태어난 조류입니다. 제작의 간이성, 리믹스 문화, SNS 확산, 청소년 크리에이터의 실험 정신이 결합되어 기존 장르 구조를 해체하면서 새로운 팝의 형태를 제시했다.
+Hyperpop と Digicore は、音楽制作ツールの民主化とインターネット文化の成熟を背景に生まれた潮流である。制作の簡易さ、リミックス文化、SNS 拡散、若年クリエイターの実験精神が結びつき、従来のジャンル構造を解体しながら新たなポップの形を提示した。
 
-앞으로는 AI 보컬, 생성 음원, 실시간 콜라보레이션 등의 진전에 의해 더욱 세분화·확장해 나갈 가능성이 높다.
+今後は、AI ボーカル、生成音源、リアルタイムコラボなどの進展によって、さらに細分化・拡張していく可能性が高い。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNYqwpx7Cys?si=df8PJvts5E8hHOvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -16,7 +16,7 @@ title: Spacetime Continuum – Emit Ecaps
 ---
 
 
-90년대의 언더그라운드 테크노 앰비언트 일렉트로니카 씬의 중진, Spacetime Continuum(스페이스 타임 콘티늄) 것 Jonah Sharp(조나 샤프)가, 자신의 라벨 Reflective Records로부터 1996년에 릴리스한 2매 세트 LP.
+90年代のアンダーグラウンド テクノ・アンビエント・エレクトロニカシーンの重鎮、Spacetime Continuum（スペースタイムコンティニウム）ことJonah Sharp（ジョナ・シャープ）が、自身のレーベルReflective Recordsから1996年にリリースした２枚組LP。
 
 #### Tracklist
 ```md

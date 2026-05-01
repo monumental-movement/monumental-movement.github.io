@@ -15,9 +15,9 @@ title: Turntable Terror – Break
 ---
 
 
-Turntable Terror 마이클 드 Hey (미셸 데 헤이)는 네덜란드 로테르담 출신의 베테랑 DJ / 프로듀서. Michel de Hey가 인터뷰에서 "더 하드한 사운드를 추구하기 위해"에 사용한 명의가 Turntable Terror라고 대답하고 있다.
+Turntable Terror ことMichel de Hey（ミシェル・デ・ヘイ）は、オランダ・ロッテルダム出身のベテランDJ／プロデューサー。Michel de Heyがインタビューで、“よりハードなサウンドを追求するため“に用いた名義がTurntable Terror だと答えている。
 
-Break은 Turntable Terror의 대표자 중 하나로, 1991년 미국의 라벨 Invasion Recordings에서 출시된 Breakbeat, Techno, Swingbeat 트랙. 프로모션 보드.
+「Break」はTurntable Terror の代表の一つで、1991年にUSのレーベルInvasion RecordingsからリリースされたBreakbeat, Techno, Swingbeatトラック。プロモ盤。
 
 #### Tracklist
 ```md

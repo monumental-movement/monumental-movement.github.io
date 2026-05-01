@@ -13,9 +13,9 @@ title: Recycled Loops – Body Re Fuel
 ---
 
 
-Recycled Loops는 Umek(우멕)과 Valentino Kanzyani(발렌티노 칸자니)에 의한 슬로베니아발 테크노 프로젝트.
+Recycled Loopsは、Umek（ウメック）とValentino Kanzyani（ヴァレンチノ・カンジャニ）によるスロベニア発のテクノプロジェクト。
 
-「Body Re:Fuel」은 Recyclopedia Eclectronica 시리즈의 3번째 작품.
+「Body Re:Fuel」は、Recyclopedia Eclectronicaシリーズの３作目。
 
 #### Tracklist
 ```md

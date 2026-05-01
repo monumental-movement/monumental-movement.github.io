@@ -14,9 +14,9 @@ title: Croisette – Nothing But Blackmail
 
 
 
-프로덕션 듀오 Fiachra Trench와 Ian Levine이 작곡·프로듀스한 Disco 프로젝트.
+プロダクションデュオFiachra TrenchとIan Levineが作曲・プロデュースしたDiscoプロジェクト。
 
-UK의 80s 댄스 라벨 Passion에서 1986년에 출시된 Disco 트럭.
+UK の80sダンスレーベルPassionから1986年にリリースされたDiscoトラック。
 
 #### Tracklist
 ```md

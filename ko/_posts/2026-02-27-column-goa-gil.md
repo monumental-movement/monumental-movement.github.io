@@ -98,7 +98,7 @@ BPM을 서서히 올려 트랜스 상태로 유도
 
 BPM은 130대 전반부터 시작해, 피크시에는 150대 전후에 이르기도 한다. 신스의 아르페지오는 다층적이며 긴 브레이크 다운은 적습니다. 지속적인 그루브가 중시되었다.
 
-> 그의 층은 “춤추기 위해”라기보다 “몰입하기 위한” 공간이었다.
+> 그의 플로어는 “춤추기 위해”라기보다 “몰입하기 위한” 공간이었다.
 
 ---
 
@@ -123,9 +123,9 @@ BPM은 130대 전반부터 시작해, 피크시에는 150대 전후에 이르기
 
 1990년대 후반, 사운드는 보다 어둡고 빠른 Psytrance로 이행한다. 그도 그 흐름 속에서 세트를 진화시켰다.
 
-보다 중저음이 강조되고,베이스 라인은 복잡화. 음수는 증가하고 공간은 밀도를 증가시킨다. 그럼에도 불구하고 긴 세트의 구조는 유지되었다.
+보다 중저음이 강조되고,베이스 라인은 복잡화. 음수는 증가하고 공간은 밀도를 증가시킨다. 그래도 긴 세트의 구조는 유지되었다.
 
-그에게 중요했던 것은 "여행"이었고 장르 이름이 아니었다.
+그에게 중요했던 것은 "여행"이었고 장르명이 아니었다.
 
 > 그는 항상 변화하면서 의식성만은 놓지 않았다.
 
@@ -168,7 +168,7 @@ D --> E[Daytime Psychedelic Phase]
 
 ---
 
-## 주요 아티스트
+## Key Artists
 
 * Goa Gil
 * Astral Projection
@@ -217,8 +217,17 @@ D --> E[Daytime Psychedelic Phase]
 
 ### Q3. 왜 거기까지 오랜 시간이 필요했는가?
 
-그는 댄스를 통한 의식변용을 중시하고 있으며, 시간의 지속이 중요하다고 생각하고 있었다.
+그는 댄스를 통한 의식변용을 중시하고 있어 시간의 지속이 중요하다고 생각하고 있었다.
 
 > Goa Gil의 파티는 시간을 확장하는 실험장이었다.
+
+---
+
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yx9c4IrmyT4?si=hBq2uYJyZ6vv9T2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

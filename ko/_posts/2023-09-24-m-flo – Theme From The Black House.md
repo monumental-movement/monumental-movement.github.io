@@ -9,11 +9,11 @@ permalink: /ko/m-flo-theme-from-the-black-house/
 tags:
 - JPop
 - Soundtrack
-title: m-flo – Theme From The Black House (검은 집)
+title: m-flo – Theme From The Black House (黒い家)
 ---
 
 
-1999년에 발매된 m-flo의 트럭이 수록된 영화 「검은 집」의 주제가의 싱글 컷입니다.
+1999年にリリースされたm-floのトラックが収録された映画「黒い家」の主題歌のシングルカットです。
 
 #### Tracklist
 ```md

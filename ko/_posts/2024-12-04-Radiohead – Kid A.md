@@ -15,7 +15,7 @@ title: Radiohead - Kid A
 ---
 
 
-UK의 록 밴드 Radiohead의 2000년에 릴리스한 4번째 스튜디오 앨범. 프로듀서는 Nigel Godrich(나이젤·고드리치).
+UK의 록 밴드 Radiohead의 2000년에 릴리스한 4번째 스튜디오 앨범. 프로듀서는 Nigel Godrich(나이젤 고드리치).
 
 #### Tracklist
 ```md

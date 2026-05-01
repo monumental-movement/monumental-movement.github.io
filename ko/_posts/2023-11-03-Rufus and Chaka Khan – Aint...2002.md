@@ -13,11 +13,11 @@ title: Rufus & Chaka Khan – Ain't...2002
 ---
 
 
-Rufus & Chaka Khan(루퍼스 & 차카칸)은 1970년대에서 가장 인기 있고 영향력이 있었던 시카고 출신의 아메리칸 펑크 밴드.
+Rufus & Chaka Khan（ルーファス＆チャカカーン）は、1970年代で最も人気があり影響力があったシカゴ出身のアメリカンファンクバンド。
 
-리드 싱어의 Chaka Khan의 경력을 시작한 것으로 잘 알려져 있다.
+リードシンガーのChaka Khanのキャリアをスタートさせたことでよく知られている。
 
-「Ain't...2002」는, Rufus & Chaka Khan의 히트곡 「Ain't Nobody」를 캐나다 출신의 하우스 프로듀서 Julius Papp(줄리아 스팍)이 하우스 리믹스.
+「Ain't...2002」は、Rufus & Chaka Khanのヒット曲「Ain't Nobody」をカナダ出身のハウスプロデューサーJulius Papp（ジュリアスパップ）がハウスリミックス。
 
 #### Tracklist
 ```md

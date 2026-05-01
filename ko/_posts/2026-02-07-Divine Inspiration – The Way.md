@@ -14,9 +14,9 @@ title: Divine Inspiration – The Way
 
 
 
-Divine Inspiratio는 스코틀랜드의 Fochabers에 본사를 둔 David Lewin, Lee Robinson, Paul Crawley, Sarah-Jane Scott의 트랜스 프로젝트.
+Divine Inspiratio는 스코틀랜드의 Fochabers에 본사를 둔 David Lewin, Lee Robinson, Paul Crawley, Sarah-Jane Scott의 트랜스 프로젝트입니다.
 
-이 레코드는 2002년 UK의 라벨 Heat Recordings에서 발표된 벨기에의 트랜스프로듀서 Svenson과 Johan Gielen에 의한 "The Way"의 Trance 리믹스. 프로모션 보드.
+이 레코드는 2002년 UK의 라벨 Heat Recordings에서 발표된 벨기에의 트랜스 프로듀서 Svenson과 Johan Gielen에 의한 "The Way"의 Trance 리믹스. 프로모션 보드.
 
 #### Tracklist
 ```md

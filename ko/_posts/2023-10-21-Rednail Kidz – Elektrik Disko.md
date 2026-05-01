@@ -13,7 +13,7 @@ title: Rednail Kidz – Elektrik Disko
 ---
 
 
-Rednail Kidz는 80년대 시카고 하우스 초기부터 활동하는 DJ 프로듀서 Derick Carter(데릭 카터)와 Chris Nazuka(크리스 나즈카)에 의한 US 딥 하우스 프로덕션 듀오.
+Rednail Kidz는 80년대 시카고 하우스 초기부터 활동하는 DJ 프로듀서 Derrick Carter(데릭 카터)와 Chris Nazuka(크리스 나즈카)에 의한 US 딥 하우스 프로덕션 듀오.
 
 별명으로 Rednail Kid, Anthony Pearson(앤서니 피어슨)을 멤버로 맞이한 Rednail Kidz + 1이 있다.
 

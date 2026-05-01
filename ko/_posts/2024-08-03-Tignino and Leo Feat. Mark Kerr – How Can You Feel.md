@@ -15,7 +15,7 @@ title: Tignino & Leo Feat. Mark Kerr – How Can You Feel
 ---
 
 
-이탈리아의 DJ 프로듀서 Daniele Tignino와 시칠리아 섬 출신의 뮤지션 Ottavio Leo가 스코틀랜드의 록 밴드 Simple Minds(심플 마인즈)의 프런트맨 Jim Kerr(짐카)의 형제 Mark Kerr(마크 카)를 피처링한 일렉트로 하우스 트랙.
+이탈리아의 DJ 프로듀서 Daniele Tignino와 시칠리아 섬 출신의 뮤지션 Ottavio Leo가, 스코틀랜드의 록 밴드 Simple Minds(심플 마인즈)의 프런트맨 Jim Kerr(짐카)의 형제 Mark Kerr(마크 카)를 피처링한 일렉트로 하우스 트랙.
 
 A면 1곡째는 독일 DJ & 프로듀서 듀오 D-Nox & Beckers에 의한 remix.
 

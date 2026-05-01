@@ -15,11 +15,11 @@ title: Ican – Si Se Puede E.P
 
 
 
-Ican은 Esteban Adame과 Santiago Salazar의 듀오입니다.
+Icanは、Esteban AdameとSantiago Salazarによるデュオ。
 
-Esteban Adame은 2004년 디트로이트 언더그라운드 레지스탕스인 마이크 뱅크스에 초청되어 뱅크스가 시작한 새로운 프로젝트(Galaxy 2 Galaxy/Los Hermanos)에 키보드 연주자로 참가해 G2G의 밴드 동료인 Santiago Salazar(DJ S2)와 Ican의 활동을 시작했다.
+Esteban Adameは、2004年にデトロイトのアンダーグラウンド・レジスタンスのマイク・バンクスに招かれ、バンクスが立ち上げていた新プロジェクト（Galaxy 2 Galaxy / Los Hermanos）にキーボード奏者として参加し、G2Gのバンド仲間でもあるSantiago Salazar（DJ S2）と Icanの活動を開始した。
 
-'Si Se Puede E.P.'는 2006년에 Santiago Salazar와 Esteban Adame의 라벨 Ican Productions에서 출시된 Deep House 트랙.
+「Si Se Puede E.P.」は、Santiago Salazar とEsteban Adameのレーベル Ican Productions から2006年にリリースされたDeep Houseトラック。
 
 #### Tracklist
 ```md

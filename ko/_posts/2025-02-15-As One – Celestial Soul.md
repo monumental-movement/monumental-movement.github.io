@@ -16,9 +16,9 @@ title: As One – Celestial Soul
 ---
 
 
-AS ONE은 영국의 DJ 테크노 프로듀서 Kirk Degiorgio(커크 디조지오)의 솔로 프로젝트 명의. 디트로이트 테크노와 펑크, 서울, 재즈가 믹스한 스타일이 특징.
+AS ONEは、イギリスのDJ・テクノプロデューサー Kirk Degiorgio(カーク・ディジョージオ)のソロプロジェクト名義。デトロイトテクノとファンク、ソウル、ジャズがミックスしたスタイルが特徴。
 
-'Celestial Soul'은 1995년 라벨 New Electronica에서 발매된 CD.
+「Celestial Soul」は、1995年にレーベルNew ElectronicaからリリースされたCD。
 
 #### Tracklist
 ```md

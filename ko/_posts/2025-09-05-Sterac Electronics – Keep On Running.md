@@ -14,13 +14,13 @@ title: Sterac Electronics – Keep On Running
 ---
 
 
-Sterac Electronics Steve Rachmad는 세계적으로 활약하는 암스테르담 출신의 테크노 프로듀서/DJ. 네덜란드에 디트로이트 테크노를 퍼뜨린 존재로서 널리 칭해지고 있다.
+Sterac Electronics こと Steve Rachmad は世界的に活躍するアムステルダム出身のテクノプロデューサー／DJ。オランダにデトロイトテクノを広めた存在として広く称されている。
 
-Sterac, Parallel 9, Ignacio, Scorp, Black Scorpion, Tons of Tones, Dreg, Adverse Match 등 다양한 명의를 음악 스타일에 맞추어 구분하고 있다.
+Sterac、Parallel 9、Ignacio、Scorp、Black Scorpion、Tons of Tones、Dreg、Adverse Matchなど様々な名義を音楽スタイルに合わせて使い分けている。
 
-Sterac Electronics는 일렉트로, 펑크, 80s 디스코에 포커스한 스타일을 출시할 때 사용하고 있으며, 어느 음원도 높게 평가되고 있다.
+Sterac Electronics は、エレクトロ、ファンク、80sディスコにフォーカスしたスタイルをリリースする際に使用しており、どの音源も高く評価されている。
 
-「Keep On Running」은, 2003년에 벨기에의 라벨 Music Man Records로부터 릴리스된 Techno/Electro/Indie Dance.
+「Keep On Running」は、2003年にベルギーのレーベルMusic Man RecordsからリリースされたTechno／Electro／Indie Dance。
 
 
 #### Tracklist

@@ -14,7 +14,7 @@ title: Exdream – Fight Fire With Fire
 
 
 「Fight Fire With Fire」는,
-1996년 이탈리아 라벨 "Easy Beat"에서 출시된 Fausto Guio와 Roberta Granà의 프로젝트 Exdream의 EP입니다.
+1996 년 이탈리아 라벨 "Easy Beat"에서 출시 된 Fausto Guio와 Roberta Granà의 프로젝트 Exdream의 EP입니다.
 
 #### Tracklist
 ```md

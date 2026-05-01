@@ -14,7 +14,7 @@ title: Kujay Dada – Let It Play
 ---
 
 
-Kujay Dada는, UK의 트랜스 DJ＆프로듀서 Danny Graham, Dave Cowen, Jon Constantine, Kurt Howes에 의한 프로젝트.
+Kujay Dada는 UK의 트랜스 DJ & 프로듀서 Danny Graham, Dave Cowen, Jon Constantine, Kurt Howes의 프로젝트.
 
 Let It Play는 2002년 DJ 겸 프로듀서인 Bob Roar(밥 로어)에 의해 설립된 UK 하우스/딥하우스/텍하우스 레코드 라벨 Phonetic Recordings에서 2005년에 발표된 하우스 트랙.
 

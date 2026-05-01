@@ -14,13 +14,13 @@ title: The Count & Sinden Featuring Kid Sister – Beeper
 ---
 
 
-Sinden & Count Of Monte Cristal은 Graeme Sinden과 Joshua Harvey의 듀오입니다.
+Sinden & Count Of Monte Cristalは、Graeme SindenとJoshua Harveyのデュオ。
 
-시카고를 거점으로 하는 미국인의 래퍼 겸 가수 Kid Sister와 Melissa Lauren을 피처링한 「Beeper」는, 90년대 말의 UK 스피드 차고 스타일을 도입한 트럭.
+シカゴを拠点とするアメリカ人のラッパー兼歌手Kid SisterことMelissa Laurenをフィーチャリングした「Beeper」は、90年代末のUKスピードガレージスタイルを取り入れたトラック。
 
-「Beeper」는 일렉트로닉 뮤직 중에서도 자유분방함이 두드러지는 트럭이며, 90년대 후반의 스피드 차고에의 회귀감도 최고입니다.
+「Beeper」は、エレクトロニックミュージックの中でも自由奔放さが際立つトラックであり、90年代後半のスピードガレージへの回帰感も最高です。
 
-UK 차고의 단명한 돌연변이 중 하나라고 할 수 있지만, 지금도 뿌리 깊은 영향을 남기고 있습니다.
+UKガレージの短命な突然変異の一つとも言えますが、今でも根強い影響を残しています。
 
 #### Tracklist
 ```md

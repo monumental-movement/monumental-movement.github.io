@@ -15,9 +15,9 @@ title: The Basstards – If You Touch This, You Go To Heaven
 ---
 
 
-The Basstards는 Señor Coconut And His Orchestra의 멤버로도 활동하는 DJ Argenis Brito, Cem Oral과 Jammin' Unit, 라벨 Tuning Spork Records의 주재 Jay Haze에 의한 프로젝트.
+The Basstardsは、Señor Coconut And His Orchestra のメンバーとしても活動するDJ Argenis Brito, Cem OralことJammin' Unit, レーベルTuning Spork Records の主宰Jay Hazeによるプロジェクト。
 
-"If You Touch This, You Go To Heaven"는 Tuning Spork Records의 서브 라벨 Tuning Spork Family Affair에서 2005년에 발표된 Techno/Minimal/Acid 트랙.
+「If You Touch This, You Go To Heaven」は、Tuning Spork Records のサブレーベルTuning Spork Family Affairから2005年にリリースされたTechno／Minimal／Acid トラック。
 
 #### Tracklist
 ```md

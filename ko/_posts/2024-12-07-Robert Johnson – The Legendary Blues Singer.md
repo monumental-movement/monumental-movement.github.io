@@ -12,7 +12,7 @@ title: Robert Johnson – The Legendary Blues Singer
 ---
 
 
-Robert Johnson은 20세기에서 가장 영향력 있는 뮤지션 중 한 명으로 알려진, 블루스 & 델타 블루스 스타일의 거장.
+Robert Johnson은 20 세기에서 가장 영향력있는 뮤지션 중 한 명으로 알려진 블루스 & 델타 블루스 스타일의 거장.
 
 1936년부터 1937년까지 두 번의 녹음으로 남긴 음원은 후세의 뮤지션에 큰 영향을 미쳤다.
 

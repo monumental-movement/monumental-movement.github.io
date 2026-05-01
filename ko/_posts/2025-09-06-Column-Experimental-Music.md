@@ -54,7 +54,7 @@ color: #fff;
 
 | 아티스트 | 트럭 | 년 |
 |--------------|----------|----|
-| Pierre Schaeffer | Étude aux chemins de fer | 1948 |
+Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4’33’’ | 1952 |
 | John Cage | Williams Mix | 1952 |
 | Pierre Henry | Symphonie pour un homme seul | 1950 |
@@ -172,7 +172,7 @@ color: #fff;
 | Aphex Twin | Rhubarb | 1994 |
 | Autechre | Eutow | 1995 |
 | Fennesz | Aus | 1997 |
-| Ryoji Ikeda | +/- [1] | 1996 |
+| 류지 이케다 | +/- [1] | 1996 |
 | Pan Sonic | Urania | 1995 |
 | Scanner | Mass Observation | 1994 |
 | Matmos | California Rhinoplasty | 1998 |
@@ -260,7 +260,7 @@ color: #fff;
 | Autechre | Sign | 2020 |
 | Lee Gamble | A Tergo Real | 2021 |
 | Object Blue | Ecstasy of Saint Teresa | 2021 |
-| 류지 이케다 | 울트라 | 2020 |
+| Ryoji Ikeda | Ultra | 2020 |
 | Kali Malone | The Sacrificial Code | 2020 |
 | Marina Herlop | miu | 2022 |
 

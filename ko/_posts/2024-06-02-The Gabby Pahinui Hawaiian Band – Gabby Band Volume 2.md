@@ -15,7 +15,7 @@ title: The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2
 ---
 
 
-'Gabby Band Volume 2'는 1970년대 하와이안 르네상스의 중심 인물로 하와이안 뮤직을 대표하는 슬랙키 기타리스트&보컬리스트 Gaby Pahinui(개비 파히누이)가 72년부터 Gaby Band(개비 밴드)로 알려진 앨범으로 1970년.
+'Gabby Band Volume 2'는 1970년대 하와이안 르네상스의 중심인물로 하와이안 뮤직을 대표하는 슬랙키 기타리스트 & 보컬리스트 Gaby Pahinui(개비 파히누이)가 72년부터 Gaby Band(개비 밴드)로 알려진 앨범으로 1970년.
 
 개비 파히누이는 2002년 하와이안 뮤직의 전당에 들어갔다.
 

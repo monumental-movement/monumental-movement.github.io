@@ -14,10 +14,10 @@ title: Gregorythme – Peter Pan Syndrom
 ---
 
 
-Gregorythme(
-그레고리즘) Gregory Poncet은 Laps와의 딥 테크노 듀오 Digitaline으로도 활동 중. Gregorythme 명의에서는, 2006년부터 Bruchstuecke, Minibar, Sushitech, Minimood, Rebirth, no19, Cityfox등의 라벨로부터 작품을 릴리스 하고 있다.
+Gregorythme（
+グレゴリズム）ことGregory Poncetは、LapsとのディープテクノデュオDigitalineとしても活動中。Gregorythme名義では、2006年よりBruchstuecke、Minibar、Sushitech、Minimood、Rebirth、no19、Cityfoxなどのレーベルから作品をリリースしている。
 
-「Peter Pan Syndrom」은 2008년에 Sushitech의 서브 라벨로 딥한 하우스 베이스의 사운드에 특화한 Sushitech Purple로부터 릴리스 된 미니멀 테크노 트럭.
+「Peter Pan Syndrom」は2008年にSushitechのサブレーベルでディープなハウスベースのサウンドに特化したSushitech Purpleからリリースされたミニマルテクノトラック。
 
 #### Tracklist
 ```md

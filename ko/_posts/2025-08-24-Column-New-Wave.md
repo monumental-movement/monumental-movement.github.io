@@ -60,7 +60,7 @@ Joy Division이나 The Cure와 같이 어둡고 실험적인 사운드를 추구
 
 가사에는 도시생활의 소외감, 냉전하의 불안, 기술사회에 대한 풍자 등이 반영됐다. Devo의 아이러니컬 퍼포먼스는 그 상징이다.
 
-음악학적으로 보면, 뉴 웨이브는 펑크의 삼화음적 단순함을 기반으로 전자음향의 확장과 아트록적 지성을 부여한 운동으로 자리매김된다.
+음악학적으로 보면, 뉴 웨이브는 펑크의 삼화음적 단순함을 기반으로 전자음향의 확장과 아트락적 지성을 부여한 운동으로 자리매김된다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_QLzthSkfM?si=H6GbBWjj-B8J_FOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

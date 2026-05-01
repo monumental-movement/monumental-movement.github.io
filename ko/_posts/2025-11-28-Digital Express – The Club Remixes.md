@@ -20,13 +20,13 @@ title: Digital Express – The Club (Remixes)
 
 
 
-Digital Express는 네덜란드 테크노계에서 가장 영향력 있는 프로듀서 중 한 명으로 알려진 Jeroen Search와 네덜란드의 아시드 테크노 라벨 X-Trax의 창립자 Mischa van der Heiden(DJ Misjah)에 의한 Acid/Techno 프로젝트.
+Digital Expressは、オランダテクノ界で最も影響力のあるプロデューサーの一人として知られるJeroen Searchと、オランダのアシッド・テクノレーベルX-Traxの創設者Mischa van der Heiden(DJ Misjah)によるAcid/Technoプロジェクト。
 
-'The Club (Remixes)'는 스페인 라벨 Blanco Y Negro에서 2005년에 발매되었다.
+「The Club (Remixes)」は、スペインのレーベルBlanco Y Negroから2005年にリリースされた。
 
-A1은 네덜란드 Techno DJ, Paco Lesotto 및 Peter Horrevorts에 의해 remix.
+A1は、オランダのTechno DJ , Paco LesottoことPeter Horrevortsによるremix。
 
-A2hq, 1990년 초부터 활약하는 네덜란드 DJ/프로듀서 Michel De Hey에 의한 remix.
+A2hq、1990年初頭から活躍するオランダのDJ／プロデューサーMichel De Heyによるremix。
 
 #### Tracklist
 ```md

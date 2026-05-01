@@ -18,7 +18,7 @@ title: Big Punisher Wu All-Stars – Beware Soul In The Hole
 
 'Soul In The Hole' Wu-Tang Clan과 관련된 아티스트 집단 Wu All-Stars의 악곡으로, 동명의 농구 다큐멘터리 영화에 대한 헌신이 되어, 뉴욕시의 스트리트 농구 문화의 그리티한 에센스를 포착해, 활기찬 랩 바스와 캐치.
 
-두 곡 모두 1990년대 후반의 동해안 힙합 장면이 짙어져 있습니다.
+두 곡 모두 1990년대 후반의 동해안 힙합 장면이 짙게 어우러져 있습니다.
 
 #### Tracklist
 ```md

@@ -107,7 +107,7 @@ B5. Astral Trip
 ### Patrick Bernhardt – Atlantis Angelis
 <a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp"></a>
 
-특징 : 캐나다 라벨 "Imagine Records"에서 출시 된 Patrick Bernhardt의 앨범입니다. 앰비언트와 뉴에이지의 요소를 융합시킨 환상적인 소리 세계가 펼쳐집니다.
+특징 : 캐나다의 라벨 "Imagine Records"에서 발표 된 Patrick Bernhardt의 앨범입니다. 앰비언트와 뉴에이지의 요소를 융합시킨 환상적인 소리 세계가 펼쳐집니다.
 
 매력: 깊은 명상 상태를 촉진하는 신디사이저의 음색이 특징으로, 심신의 릴렉제이션에 적합합니다.
 

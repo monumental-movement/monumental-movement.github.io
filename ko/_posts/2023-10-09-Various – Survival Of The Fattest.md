@@ -13,8 +13,8 @@ title: Various – Survival Of The Fattest
 ---
 
 
-"Survival Of The Fattest"는
-1996년에 라벨 「Fat Wreck Chords」에서 발매된 컴필레이션 앨범입니다.
+「Survival Of The Fattest」は、
+1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
 
 #### Tracklist
 ```md

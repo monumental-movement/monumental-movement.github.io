@@ -14,9 +14,9 @@ title: Marco Sfogli – reMarcoble
 ---
 
 
-Marco Sfogli(마르코·스포리)는, 이탈리아의 기타리스트. 미국의 프로그레시브 메탈 밴드 Dream Theater(드림 극장)의 James LaBrie(제임스 라브리에), PFM, Icefish 등과 공연하고 있다.
+Marco Sfogli(マルコ・スフォーリ)は、イタリアのギタリスト。USのプログレッシブメタルバンドDream Theater (ドリームシアター)のJames LaBrie(ジェイムズ・ラブリエ)、PFM、Icefish等と共演している。
 
-2012년 JTC Records에서 발표된 이 앨범은 Marco Sfogli의 두 번째 솔로 앨범.
+2012年にJTC Recordsからリリースされたこのアルバムは、Marco Sfogliの2枚目のソロアルバム。
 
 
 #### Tracklist

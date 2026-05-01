@@ -13,9 +13,9 @@ title: Model 500 – Deep Space
 ---
 
 
-Model 500은 디트로이트 테크노의 선구자 중 한 명으로 알려진 DJ 프로듀서 Juan Atkins(호안 앳킨스)가 2008년까지 사용한 별명의. 2008년 이후 Model 500은 Juan Atkins, Underground Resistance의 Milton Baldwin(DJ Skurge) & Mark Taylor에서 활동하고 있다.
+Model 500は、デトロイトテクノの先駆者の1人として知られるDJ・プロデューサーJuan Atkins(ホアン・アトキンス)が2008年まで使用した別名義。2008年以降、Model 500はJuan Atkins、Underground ResistanceのMilton Baldwin(DJ Skurge)& Mark Taylorで活動している。
 
-'Deep Space'는 1995년 라벨 R&S Records에서 출시된 Juan Atkins의 테크노 앨범. 1990년대 디트로이트 테크노를 대표하는 명반.
+「Deep Space」は、1995年にレーベルR & S RecordsからリリースされたJuan Atkinsのテクノアルバム。1990年代のデトロイトテクノを代表する名盤。
 
 #### Tracklist
 ```md

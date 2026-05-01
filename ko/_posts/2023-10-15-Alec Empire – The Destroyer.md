@@ -13,7 +13,7 @@ title: Alec Empire – The Destroyer
 ---
 
 
-Alec Empire (알렉 엠파이어)는 독일의 실험적 일렉트로닉 뮤지션이며 밴드 Atari Teenage Riot의 창립 멤버.
+Alec Empire（アレック・エンパイア）は、ドイツの実験的エレクトロニック・ミュージシャンであり、バンド Atari Teenage Riotの創設メンバー。
 
 #### Tracklist
 ```md

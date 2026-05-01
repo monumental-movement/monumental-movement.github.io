@@ -13,7 +13,7 @@ title: The Cage Featuring Nona Hendryx – Do What Ya Wanna Do
 ---
 
 
-The Cage는, Nona Hendryx를 중심으로 결성된 밴드로, 제작에는 뉴로맨틱의 발상 밴드로서 이름이 높은 영국의 신디팝 그룹 Visage(비사지)의 멤버였던 Rusty Egan(드럼), Steve Barnacle(베이스/기타), Gary Barnacle(삭스/싱크).
+The Cage는, Nona Hendryx를 중심으로 결성된 밴드로, 제작에는 뉴로맨틱의 발상의 밴드로서 이름이 높은 영국의 신디팝 그룹 Visage(비사지)의 멤버였던 Rusty Egan(드럼), Steve Barnacle(베이스/기타), Gary Barnacle(삭스/싱크).
 
 1982년에 릴리스된 「Do What Ya Wanna Do」는, 1977년에 T-Connection이 릴리스한 Disco 트랙을 Funk Disco 테이스트에 어레인지한 커버버전. 디스코 씬과 포스트펑크의 크로스오버로 높이 평가되고 있다.
 

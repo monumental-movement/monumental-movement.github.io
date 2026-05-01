@@ -13,9 +13,9 @@ title: Tina – There Must Be An Angel
 ---
 
 
-NEW WAVE기의 명곡 유리즈믹스(EURYTHMIC)의 커버입니다.
+NEW WAVE期の名曲ユーリズミックス (EURYTHMIC)のカバーです。
 
-경쾌하고 소울풀하게 영어 커버한 90년대의 인기작.
+軽やかでソウルフルに英語カバーした９０年代の人気作。
 
 #### Tracklist
 ```md

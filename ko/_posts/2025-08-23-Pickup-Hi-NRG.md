@@ -43,7 +43,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ### Norma Sheffield – “Look Me In The Eyes”
 <a href="https://jp.mercari.com/item/m83336143177?afid=6142608987"><img src="../assets/images/Norma%20Sheffield%20%E2%80%93%20Look%20Me%20In%20The%20Eyes.webp"></a>
 
-Italo/Hi-NRG계 프로젝트의 미려한 가창이 두드러지는 1장. 서정적이고 애절한 코드 진행에 주목.
+Italo/Hi-NRG계 프로젝트의 아름다운 가창이 두드러지는 1장. 서정적이고 애틋한 코드 진행에 주목.
 
 #### Tracklist
 ```md

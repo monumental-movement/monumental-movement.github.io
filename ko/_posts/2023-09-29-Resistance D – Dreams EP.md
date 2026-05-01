@@ -14,8 +14,8 @@ title: Resistance D – Dreams EP
 ---
 
 
-Dreams EP는 1992년 라벨 Direct Drive에서 출시된 Resistance D의 EP입니다.
-하드 트랜스와 멜로디어스함을 조합한 스타일입니다.
+「Dreams EP」は、1992年にレーベルDirect DriveからリリースされたResistance DのEPです。
+ハードトランスとメロディアスさを組み合わせたスタイルです。
 
 #### Tracklist
 ```md

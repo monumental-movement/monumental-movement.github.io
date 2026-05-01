@@ -15,13 +15,13 @@ title: Magicnumber – Flyaway
 
 
 
-Magicnumber는 영국의 뮤지션/작곡가/프로듀서/베이시스트 Ross Hillard의 별명의. Magicnumber 명의에서는 하우스, 서울, 다운템포, 재즈~오케스트랄 요소를 도입한 폭넓은 사운드를 전개하고 있다.
+Magicnumberは、イギリスのミュージシャン／作曲家／プロデューサー／ベーシストRoss Hillardの別名義。Magicnumber名義では、ハウス、ソウル、ダウンテンポ、ジャズ〜オーケストラル要素を取り入れた幅広いサウンドを展開している。
 
-"Flyaway"는 2004 년 modern & urban club / lounge 뮤직에 특화된 라벨 Stereo Deluxe에서 출시된 Deep House 트랙.
+「Flyaway 」は、2004年にmodern & urban club/ loungeミュージックに特化したレーベルStereo DeluxeからリリースされたDeep Houseトラック。
 
-A2는 Conan Manchester와 Dan Smith에 의한 영국의 House 프로덕션 팀 Liquid People의 리믹스.
+A2は、Conan Manchester と Dan SmithによるイギリスのHouseプロダクションチームLiquid Peopleによるリミックス。
 
-B2는 Andy Mac과 DJ/프로듀서 Atjazz(Martin Iveson)에 의한 리믹스.
+B2は、Andy Macと、DJ／プロデューサーAtjazz(Martin Iveson)によるリミックス。
 
 #### Tracklist
 ```md

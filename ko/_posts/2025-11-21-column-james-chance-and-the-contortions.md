@@ -39,7 +39,7 @@ color: #fff;
 
 
 
-## 1. 제임스 찬스 태어난 음악 배경
+## 1. 제임스 찬스 태어나 음악 배경
 
 James Chance(본명 James Siegfried)는 1953년 미국 위스콘신주에서 태어나 피아노를 배운다. 프리저즈, 특히 오넷 콜맨과 앨버트 아이러의 영향을 받아 기존 음악 형식에 묶이지 않는 표현을 지향했다.
 1975년에 뉴욕으로 이주하여 Flaming Youth나 Teenage Jesus and the Jerks 등의 초기 밴드 활동을 거쳐 자신의 비전을 구현하는 밴드 **Contortions**를 결성한다.
@@ -79,7 +79,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 ### 대표곡 「Contort Yourself」
 
-- **구조 분석**:
+-**구조 분석**:
 - 소개는 드럼의 불규칙한 16 분 음표 리듬에서 시작
 - 기준선은 반복적이고 펑크적이며 색소폰이 자유롭게 선회합니다.
 - **비트 분석**:

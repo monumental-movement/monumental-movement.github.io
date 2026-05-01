@@ -13,7 +13,7 @@ title: The Foundation Featuring Jay Williams – Rejoice
 ---
 
 
-1993년에 NY의 하우스 라벨 One Records에서 발표된 The Foundation, 도미니카계 미국인의 하우스 DJ/리믹서/프로듀서 Roger Sanchez(로저 산체스)의 하우스 트럭.
+1993년에 NY의 하우스 라벨 One Records에서 발매된 The Foundation, 도미니카계 미국인의 하우스 DJ/리믹서/프로듀서 Roger Sanchez(로저 산체스)의 하우스 트럭.
 
 #### Tracklist
 ```md
