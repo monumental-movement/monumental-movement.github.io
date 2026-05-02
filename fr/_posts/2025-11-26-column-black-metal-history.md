@@ -49,7 +49,7 @@ Opinions religieuses, environnement géographique, culture ethnique, philosophie
 Toutes ces choses se combinent pour faire du black metal une entité unique et différente des autres genres.
 
 Dans cet article, nous organiserons de manière exhaustive le tableau d'ensemble sur la base de faits historiques, et
-De plus, **l'analyse régionale, l'exploration approfondie de bandes individuelles et la répartition chronologique** sont également intégrées.
+De plus, **l'analyse régionale, l'analyse approfondie des bandes individuelles et la répartition chronologique** sont également intégrées.
 Construisez la théorie définitive du black metal complet.
 
 ---
@@ -113,7 +113,7 @@ L'accent était mis sur les jeunes musiciens underground norvégiens.
 * Faire de l'enregistrement lo-fi une « esthétique »
 *Riff de trémolo
 * Crier Vo
-* Expression de « Ice Wasteland » par la répétition et la vitesse
+* Expression du « désert de glace » par la répétition et la vitesse
 * Peinture de cadavre
 * Vue naturelle sur l'hiver, la forêt et la solitude
 
@@ -250,7 +250,7 @@ En raison d'une couverture médiatique excessive, « l'image dangereuse » du bl
 * L'enregistrement est extrêmement lo-fi,
 
 * Mur de guitare vertical
-* Frappes monotones de charleston et de caisse claire
+* Coups de charleston et de caisse claire monotones
 * Base extrêmement légère
 devient la version définitive du « son du black metal scandinave » = « son froid ».
 
@@ -353,7 +353,7 @@ Chaque style a été subdivisé et a mené son expansion mondiale.
 
 — Grands événements + liste des chefs-d'œuvre par année —**
 
-Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les travaux sont basés sur l'année de publication officielle et l'année d'occurrence.
+Vous trouverez ci-dessous une **chronologie basée sur des faits**. Les incidents et les travaux sont basés sur l'année de publication officielle et l'année d'occurrence.
 
 ---
 
@@ -393,8 +393,8 @@ Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les tr
 
 **1991**
 
-* Mayhem : Mort (fait)
-* Darkthrone : a décidé de passer du death metal au black metal
+* Mayhem : mort (fait)
+* Darkthrone : a décidé de passer du death metal au black metal.
 
 **1992**
 

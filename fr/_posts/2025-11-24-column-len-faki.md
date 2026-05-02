@@ -17,7 +17,7 @@ title: '[Chronique] L''analyse approfondie de la techno par Len Faki : De Berlin
 
 ## Introduction
 
-Texte : mmr｜Thème : De la carrière et du parcours de Len Faki, analyse de la structure, du rythme et des caractéristiques acoustiques de ses chansons représentatives, l'axe temporel des DJ sets, les techniques de production/mixage et l'influence sur la scène
+Texte : mmr｜Thème : De la carrière et du parcours de Len Faki, analyse de la structure, du rythme et des caractéristiques acoustiques de ses chansons représentatives, de l'axe temporel des DJ sets, des techniques de production/mixage et de l'influence sur la scène
 
 Len Faki est une figure emblématique à l’avant-garde de la techno moderne, un DJ et producteur profondément connecté au cœur de la culture club berlinoise.
 Son travail et ses DJ sets offrent une expérience qui va bien au-delà de la simple musique, créant une structure unique d'espace et de temps sur les sols des clubs et des festivals.
@@ -155,7 +155,7 @@ Il s’agit d’un morceau important qui crée des pics d’émotion et des mome
 
 #### informations de base
 - BPM : Estimé autour de 128
-- Tonalité : Estimé La mineur
+- Tonalité : Estimé La Mineur
 - Structure : Produit une sensation futuriste avec des rythmes mécaniques et des synthés
 
 #### Structure et rythme de la chanson

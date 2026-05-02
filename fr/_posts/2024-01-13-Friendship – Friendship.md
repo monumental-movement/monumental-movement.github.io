@@ -10,35 +10,35 @@ tags:
 - Jazz
 - Smooth Jazz
 - 70s
-title: Amitié – Amitié
+title: Friendship – Friendship
 ---
 
 
-Produit par les meilleurs musiciens Abraham Laboriel, Alex Acuña, Don Grusin, Ernie Watts, Lee Ritenour et Steve Forman.
-Amitié
-Album jazz-funk de. Sorti en 1979.
+Abraham Laboriel（エイブラハム・ラボリエル/アブラハム・ロペス・ラボーリエル）, Alex Acuña（アレックス・アクーニャ）, Don Grusin （ドン・グルーシン）, Ernie Watts（アーニー・ワッツ）, Lee Ritenour（リー・リトナー）, Steve Forman（スティーブ・フォーマン）というトップミュージシャンが集結して制作された
+Friendship（フレンドシップ）
+によるジャズファンクアルバム。1979年リリース。
 
-Abraham Laboriel est un bassiste mexicain né le 17 juillet 1947 à Mexico.
+Abraham Laborielは、メキシコ人ベーシストで1947年7月17日にメキシコシティで生まれました。
 
-Il est également le fondateur du groupe Koinonia.
+バンド「コイノニア」の創設者でもあります。
 
-Sa première éducation musicale lui vient de son père, guitariste et compositeur.
+幼少期の音楽教育は、ギタリストであり作曲家でもある父親から受けました。
 
-À l'âge de 10 ans, il fait sa première expérience d'enregistrement avec un groupe de rock'n'roll appelé "Los Traviesos".
+10歳の頃、"Los Traviesos" というロックンロールグループで初レコーディングを経験します。
 
-Durant son adolescence, il a travaillé comme musicien et acteur au Mexique, avant de déménager à Boston et de s'inscrire au Berklee College of Music.
+10代はメキシコでミュージシャンと俳優の両方として活動した後、ボストンに渡りバークリー音楽院に入学。
 
-A obtenu un baccalauréat en composition en 1972. Pendant ses études, il a également joué avec le vibraphoniste Gary Burton, membre du corps professoral de l'école.
+1972年に作曲専攻で学士号を取得します。在学中には、同校の教員であるヴィブラフォン奏者のゲイリー・バートンとも共演しています。
 
-Il tourne ensuite avec des artistes tels que Johnny Mathis, Michel Legrand et Henry Mancini, avant de s'installer à Los Angeles en 1976 et de commencer une carrière d'enregistrement multi-genres en studio.
+その後、ジョニー・マティス、ミシェル・ルグラン、ヘンリー・マンシーニといったアーティストとツアーを行い、1976年にはロサンゼルスに移り、多岐にわたるジャンルのスタジオレコーディングキャリアをスタートさせます。
 
-Il a joué et enregistré avec de nombreux artistes de jazz, dont George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schifrin, Diane Schur, Sarah Vaughan, Joe Zawinul et d'autres.
+彼は、数多くのジャズアーティストと共演・レコーディングを行い、その中には、ジョージ・ベンソン、ラリー・カールトン、ザ・クルセイダーズ、エラ・フィッツジェラルド、デイヴ・グルーシン、ハービー・ハンコック、フレディ・ハバード、アル・ジャロウ、ジョン・クレマー、マンハッタン・トランスファー、ジョー・パス、ジョー・サンプル、ラロ・シフリン、ダイアン・シューア、サラ・ヴォーン、ジョー・ザヴィヌルなどが含まれます。
 
-Il a également enregistré avec le groupe Friendship avec Lee Ritenour, Ernie Watts et Alex Acuna, et continue de se produire et d'enregistrer avec Lee et Dave Grusin, sortant des œuvres sur GRP Records.
+また、リー・リトナー、アーニー・ワッツ、アレックス・アキュナと組んだバンド「フレンドシップ」でもレコーディングを行い、現在もリーやデイヴ・グルーシンと共演・レコーディングを続けており、GRPレコードから作品を発表しています。
 
-De plus, il était un bassiste recherché et était recherché par d'innombrables artistes, dont Lionel Richie, Quincy Jones, Jeffrey Osbourne, Chaka Khan, Robbie Robertson, Kenny Rogers, Kenny Loggins et Ruben Blades.
+さらに、ライオネル・リッチー、クインシー・ジョーンズ、ジェフリー・オズボーン、チャカ・カーン、ロビー・ロバートソン、ケニー・ロジャース、ケニー・ロギンス、ルーベン・ブレイズなど、数え切れないほどのアーティストからの依頼を受け、引っ張りだこのベーシストでした。
 
-Pour la troisième année consécutive, il a été élu « joueur le plus utile dans la catégorie basse » par les membres de la Los Angeles Grammy Awards Organizing Association (NARAS), le plaçant juste derrière Ray Brown et Chuck Domannico.
+ロサンゼルス支部グラミー賞主催団体 (NARAS) の会員による投票では、3年連続で「ベース部門の最優秀者 (Most Valuable Player)」に選ばれ、レイ・ブラウンやチャック・ドーマンニコに続く栄誉に輝きました。
 
 #### Liste des chansons
 ```md

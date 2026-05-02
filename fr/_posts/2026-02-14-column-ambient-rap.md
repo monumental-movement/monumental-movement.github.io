@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Interpréter l'espace sonore méditatif créé par la fus
 
 À première vue, Ambient et Rap semblent être des genres musicaux complètement opposés. Ambient a évolué à partir des sons électroniques des années 1970, notamment de Brian Eno, et met l'accent sur l'espace, le silence et la profondeur spatiale. Le rap, quant à lui, est une culture née dans le Bronx, à New York, à la fin des années 1970, centrée sur le rythme et l'expression linguistique pour transmettre la vie urbaine et les messages sociaux.
 
-La fusion des deux a commencé à se dessiner progressivement à partir de la fin des années 1990. "Endtroducing...." (1996) de DJ Shadow est connu comme une œuvre pionnière utilisant pleinement l'échantillonnage et la fusion des rythmes et de l'ambiance. Ces dernières années, le travail de Nujabes et J Dilla a inspiré des playlists méditatives combinant rythmes hip-hop et textures ambiantes.
+La fusion des deux a commencé à se dessiner progressivement à partir de la fin des années 1990. "Endtroducing...." (1996) de DJ Shadow est connu comme une œuvre pionnière utilisant pleinement l'échantillonnage et la fusion des rythmes et de l'ambiant. Ces dernières années, le travail de Nujabes et J Dilla a inspiré des playlists méditatives combinant rythmes hip-hop et textures ambiantes.
 
 > L'intersection du silence et du rythme crée un nouvel espace sonore réflexif
 
@@ -97,7 +97,7 @@ Donuts (2006) est une série de courtes boucles, avec un rythme ambiant qui invi
 
 ### Lotus volant
 
-"Cosmogramma" (2010) est un morceau croisé d'électro, de jazz et de hip-hop. Présente un son Rap ambiant futuriste.
+"Cosmogramma" (2010) est un morceau croisé d'électro, de jazz et de hip-hop. Présente un son rap ambiant futuriste.
 
 > L'individualité et les méthodes de production de l'artiste colorent de diverses manières l'espace sonore méditatif.
 
@@ -110,9 +110,9 @@ Vous trouverez ci-dessous un exemple spécifique de structure de liste de lectur
 | Temps | Titre de la chanson | Artiste | Caractéristiques |
 | ----------- | -------------------------------- | -------------------- | ---------------- |
 | 0h00-17h30 | En apesanteur | Union Marconi | Ambiance calme |
-| 17h30-10h00 | Amour(sic) Partie 3 | Nujabes exploit. Shing02 | Flux de rap doux |
+| 17h30-10h00 | Amour(sic) Partie 3 | Exploit Nujabes. Shing02 | Flux de rap doux |
 | 10h00-15h00 | Minuit dans un monde parfait | DJ Ombre | Échantillonnage x Ambiant |
-| 15h00-20h30 | Dame Brune | Nujabes exploit. Cise Starr | Jazz Ambiant Rap |
+| 15h00-20h30 | Dame Brune | Exploit Nujabes. Cise Starr | Jazz Ambiant Rap |
 | 20h30-25h00 | Deux peuvent gagner | J Dilla | Améliorer la concentration grâce aux boucles |
 | 25h00-30h30 | Voir à travers U | Lotus volant | Rythme complexe et sensation d'espace |
 | 30h30-35h00 | Réflexion éternelle | Talib Kweli et Hi-Tek | Renforcer le rythme et guider l'auto-réflexion |

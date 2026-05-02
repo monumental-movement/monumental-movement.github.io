@@ -11,25 +11,25 @@ tags:
 - SoundSystem
 - Dancehall
 - Reggae
-title: '[Chronique] Dancehall et sound systems : la basse fait bouger le monde'
+title: 【コラム】 ダンスホールとサウンドシステム——低音が世界を動かす
 ---
 
 
-## Prologue : La révolution commence par la basse
+## 序章：低音から始まる革命
 
 
-Texte : mmr | Thème : Le dancehall est plus qu'un simple genre musical, il s'agit de la philosophie de l'espoir selon laquelle « chacun peut avoir son propre son ».
+文：mmr｜テーマ：ダンスホールとは、単なる音楽ジャンルではなく、 「誰もが自分の音を持つことができる」という希望の哲学について
 
-Kingston à minuit.
-Une basse grondante est émise par un haut-parleur monté sur le plateau d'un camion.
-C'était « une autre radio » qui résonnait dans les rues de la pauvreté.
-Les personnes sans journaux ni télévision peuvent partager des informations et échanger des messages par le biais du son.
-**Un système audio est un dispositif d'expression qui intègre la musique, la politique et la communauté**.
-Finalement, les vagues traverseraient l’océan et secoueraient Londres, New York et même Tokyo.
+真夜中のキングストン。  
+トラックの荷台に積まれたスピーカーから、地鳴りのようなベースが放たれる。  
+それは貧困の街角に響く「もう一つのラジオ」だった。  
+新聞もテレビも届かない人々が、音によって情報を共有し、メッセージを交わす。  
+**サウンドシステムとは、音楽と政治と共同体が一体化した表現装置**であり、  
+やがてその波は海を越え、ロンドンやニューヨーク、東京までも震わせることになる。
 
-Cette chronique présente la culture du sound system née dans les rues de la Jamaïque.
-Comment le dancehall est-il devenu un phénomène musical mondial ?
-Nous le suivrons du point de vue de l’histoire, de l’idéologie, de la technologie et de la société.
+このコラムでは、ジャマイカのストリートで生まれたサウンドシステム文化が、  
+どのようにして**ダンスホール**という世界的音楽現象へ進化したのかを、  
+歴史・思想・技術・社会の観点からたどっていく。
 
 ---
 
@@ -47,47 +47,47 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 Naissance du sound system (années 1940-1960)
+## 第1章　サウンドシステムの誕生（1940〜1960年代）
 
-### ▪ Le moment où les fêtes de rue deviennent « culture »
+### ▪ ストリートのパーティが「文化」になる瞬間
 
-Dans la Jamaïque d’après-guerre, les propriétaires de magasins de disques et les jeunes mélomanes chargeaient des camions, installaient des haut-parleurs et commençaient à jouer de la musique toute la nuit. C'est l'origine du « sound system ».
+戦後のジャマイカでは、レコード店主や音楽好きの若者たちがトラックを積み、スピーカーを並べ、夜通し音楽を流すようになった。これが「サウンドシステム」の起源である。
 
-Un système initial typique est :
+代表的な初期システムは：
 
-| Opérateur | Nom | Période d'activité | Caractéristiques |
-|------|------|------------|------|
-| Tom le Grand Sébastien | années 1950 | Principalement du jazz et du R&B. Les premiers systèmes « mobiles » |
-| Duc Reid | Duc Reid le cheval de Troie | Années 1950-60 | Un célèbre opérateur armé d'armes à feu diplômé de la police. Fondé plus tard par Treasure Isle |
-| Clément « Coxsone » Dodd | Sir Coxsone Temps fort | Années 1950 ~ | Ancien Studio Un. À la tête de l'ère du ska |
+| オペレーター | 名称 | 活動時期 | 特徴 |
+|---------------|------|-----------|------|
+| トム・ザ・グレート・セバスチャン | Tom the Great Sebastian | 1950s | ジャズやR&B中心。最初期の「移動式」システム |
+| デューク・リード | Duke Reid the Trojan | 1950s〜60s | 銃を持つ警察上がりの名オペレーター。後にTreasure Isle設立 |
+| クレメント・“コックスソン”・ドッド | Sir Coxsone Downbeat | 1950s〜 | Studio Oneの前身。スカ時代を牽引 |
 
-### ▪ Économie locale et communauté
+### ▪ ローカル経済と共同体
 
-Pour les pauvres, la danse n’est pas seulement un divertissement, mais un lieu d’expression et de survie.
-Cet espace, où circulaient musique, alcool et nourriture, deviendra plus tard le prototype de l’industrie du reggae.
-
----
-
-## Chapitre 2 Roots Rock et Dub Era (années 1970)
-
-### ▪ Les ingénieurs du son deviennent des « compositeurs »
-
-King Tubby, Lee Perry, Errol Thompson et d'autres ont utilisé la table de mixage comme un instrument de musique et ont inventé une nouvelle expression sonore appelée « dub ».
-**Effacer les voix et reconstruire le rythme avec des échos**—Cette idée est devenue le point de départ de la culture du remix ultérieure.
-
-> « Le Dub est l'espace où l'esprit parle. » -Lee Perry
-
-### ▪ Philosophie des basses des enceintes
-
-Les « basses » du système audio avaient un son religieux.
-Liés à l'esprit rastafarien, ils expriment leur vision de l'univers comme « ton grave = terre » et « ton aigu = ciel ».
-Cette idée a ensuite été héritée par le **UK dub** (Jah Shaka, Aba Shanti-I) et la **soundclash culture**.
+貧しい人々にとって、ダンスは単なる娯楽ではなく「表現と生存の場」。  
+音楽・酒・食事が循環するこの空間が、のちの**レゲエ産業の原型**となった。
 
 ---
 
-## Chapitre 3 Révolution numérique et émergence du dancehall (années 80-90)
+## 第2章　ルーツ・ロックとダブの時代（1970年代）
 
-### ▪ Lacune et explosion d'argot
+### ▪ サウンドエンジニアが「作曲家」になる
+
+キング・タビー、リー・ペリー、エロル・トンプソンらがミキシング卓を楽器のように操り、「ダブ（Dub）」という新たな音響表現を発明した。  
+**ボーカルを消し、リズムを反響で再構築する**——この発想が、後のリミックス文化の出発点となる。
+
+> “Dub is the space where the spirit speaks.” — Lee Perry
+
+### ▪ スピーカーの低音哲学
+
+サウンドシステムの「ベース」は宗教的な響きを持っていた。  
+ラスタファリアンの精神と結びつき、「低音＝地球」「高音＝天」として宇宙観を表現する。  
+この思想は後に**UKダブ**（Jah Shaka、Aba Shanti-I）や**サウンドクラッシュ文化**に継承されていく。
+
+---
+
+## 第3章　デジタル革命とダンスホールの登場（1980〜90年代）
+
+### ▪ スラックネスとスラングの爆発
 
 En 1985, « Under Mi Sleng Teng » de **Wayne Smith** a tout changé.
 Cette chanson, qui utilise les préréglages rythmiques du Casio MT-40, est considérée comme le premier reggae entièrement numérique de l'histoire, et à partir de ce moment-là, le « dancehall numérique » est devenu courant.

@@ -11,14 +11,14 @@ tags:
 - Electro
 - Reggaeton
 - Favela Funk
-title: Edu K – Popozuda Rock N'Roll
+title: Edu K – Popozuda Rock N' Roll
 ---
 
 
-Eduardo Martins Dornelles, également connu sous le nom d'Edu K, est un musicien et producteur brésilien. Il est surtout connu comme le chanteur du groupe de rock brésilien DeFalla.
+Edu KことEduardo Martins Dornellesは、ブラジル出身のミュージシャン／プロデューサー。ブラジルのロックバンド、DeFalla(デファラ)のボーカリストとしてよく知られている。
 
-"Popozuda Rock N' Roll" est un morceau de Ragga HipHop/Electro/Reggaeton/Favela Funk publié par Man Recordings, un label basé à Berlin qui publie du baile funki brésilien et d'autres musiques.
-Le producteur exécutif est Daniel Haaksman.
+「Popozuda Rock N' Roll」は、ブラジルのバイレファンキ などをリリースするベルリン拠点のレーベルMan RecordingsからリリースされたRagga HipHop／Electro／Reggaeton／Favela Funk。
+エグゼクティブプロデューサーはDaniel Haaksman。
 
 
 

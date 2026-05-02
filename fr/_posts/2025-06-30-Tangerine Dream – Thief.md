@@ -14,7 +14,7 @@ title: Tangerine Dream – Voleur
 ---
 
 
-Bande originale du premier film de Michael Mann en tant que réalisateur (titre original : Thief), sorti en 1981 (titre original : Thief) (d'après le roman de Frank Hochmer). Version japonaise.
+Bande originale du premier film de Michael Mann en tant que réalisateur (titre original : Thief), sorti en 1981 (titre original : Thief) (d'après le roman de Frank Hochmer). Édition japonaise.
 
 Tangerine Dream, qui était en charge de la musique, est un groupe de musique électronique allemand formé en 1967 par Edgar Froese. Avec CAN, Amon Düül II, Kraftwerk et NEU!, ils sont connus comme l'un des principaux groupes de krautrock.
 

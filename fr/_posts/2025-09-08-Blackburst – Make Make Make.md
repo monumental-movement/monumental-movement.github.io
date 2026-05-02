@@ -15,7 +15,7 @@ title: Blackburst – Faire Faire Faire
 
 Blackburst est un projet d'Edward Boellaard. Il travaille également sous les noms de Axe Force et Human Impact.
 
-"Make Make Make" est House, sorti en 1997 par Mr. Cheng's Quality Tunes, un label indépendant basé à Amsterdam, aux Pays-Bas, spécialisé dans la early house, la lo-fi house, la techno rétro, la disco indie et les beats brisés.
+"Make Make Make" est House, sorti en 1997 par Mr. Cheng's Quality Tunes, un label indépendant basé à Amsterdam, aux Pays-Bas, spécialisé dans la early house, la lo-fi house, la techno rétro, l'indie disco et les beats brisés.
 
 
 #### Liste des chansons

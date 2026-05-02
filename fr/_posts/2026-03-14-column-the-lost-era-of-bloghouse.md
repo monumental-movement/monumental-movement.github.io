@@ -24,7 +24,7 @@ Texte : mmr | Thème : L'histoire de la naissance et de la disparition du « Blo
 
 ### Une nouvelle culture de club créée par Internet
 
-Au milieu des années 2000, la structure de distribution de la musique club connaît des changements majeurs. En plus des canaux de diffusion traditionnels centrés sur les disquaires et la communauté des DJ, Internet, notamment les blogs musicaux, a commencé à devenir une nouvelle base de diffusion.
+Au milieu des années 2000, la structure de distribution de la musique club connaît des changements majeurs. Outre les canaux de diffusion traditionnels centrés sur les disquaires et la communauté des DJ, Internet, notamment les blogs musicaux, a commencé à devenir une nouvelle base de diffusion.
 
 Le style musical qui a émergé au cours de cette période était la culture qui est devenue plus tard connue sous le nom de « Bloghouse ».
 Bloghouse n'est pas un genre musical strict, mais plutôt un mouvement étroitement lié à la culture Internet.
@@ -104,7 +104,7 @@ Les principaux moyens de découvrir la musique étaient :
 
 Le blog MP3 était particulièrement important.
 
-Le blog musical était un site sur lequel l'administrateur présentait sa musique préférée.
+Le blog musical était un site sur lequel l'administrateur présentait la musique qu'il aimait.
 L'article était accompagné d'un fichier MP3 que les lecteurs pouvaient télécharger directement.
 
 Ces sites existaient par milliers et étaient reliés entre eux pour former un réseau.
@@ -120,7 +120,7 @@ E --> F[クラブヒット]
 
 La particularité de ce système était la rapidité de la promotion.
 
-Il n'était pas rare que la source sonore soit publiée sur des blogs avant la sortie du disque, et diffusée en quelques jours auprès des DJ du monde entier.
+Il n'était pas rare que la source sonore soit publiée sur des blogs avant la sortie du disque, et se diffuse en quelques jours auprès des DJ du monde entier.
 
 L’explosion de la culture du remix a été encore plus importante.
 

@@ -47,7 +47,7 @@ color: #fff;
 
 Les années 1980 ont été une période de transition de l'analogique au numérique, et le vocabulaire de la musique électronique s'est développé de manière explosive avec la diffusion des synthétiseurs polyphoniques, des sources sonores FM et du standard MIDI. Dans le même temps, le rôle croissant de la vidéo domestique, de la télévision par câble et de la musique de film a créé un lien étroit entre la musique et les images.
 
-Vers 2010, à mesure que la culture du partage sur Internet mûrissait, les anciennes vidéos, sources sonores et éléments de conception ont commencé à être remis en circulation. Dans cette tendance, l’image sonore des années 1980 n’était pas seulement nostalgique, mais devenait un objet à reconstruire avec une sensibilité moderne. Dreamwave / Chill Synthwave se présente comme une réinterprétation qui se concentre particulièrement sur la « mémoire scénique ».
+Vers 2010, à mesure que la culture du partage sur Internet mûrissait, les anciennes vidéos, sources sonores et éléments de conception ont commencé à être remis en circulation. Dans cette tendance, l’image sonore des années 1980 n’était pas seulement nostalgique, mais devenait un objet à reconstruire avec une sensibilité moderne. Dreamwave / Chill Synthwave se présente comme une réinterprétation qui se concentre en particulier sur la « mémoire scénique ».
 
 > Les années 1980 évoquées ici relèvent davantage d'une mémoire collective que d'une époque réelle.
 
@@ -67,7 +67,7 @@ En termes de tonalité, les pads Juno, le piano électrique DX, les basses trait
 
 ## Relation avec l'esthétique visuelle
 
-Dreamwave / Chill Synthwave peut être compris plus profondément lorsqu'il est combiné avec des images que par la musique seule. Les villes au crépuscule, les néons, les côtes, les promenades nocturnes et les textures de type VHS sont fréquemment référencés.
+Dreamwave / Chill Synthwave peut être compris plus profondément lorsqu'il est combiné avec des images que avec la musique elle-même. Les villes au crépuscule, les néons, les côtes, les promenades nocturnes et les textures de type VHS sont fréquemment référencés.
 
 Ces éléments visuels sont synchronisés avec le tempo et la tonalité de la chanson, rappelant à l'auditeur une scène qu'il a déjà vue quelque part. Les images jouent le rôle de présenter la situation plutôt que de raconter une histoire.
 

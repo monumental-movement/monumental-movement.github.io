@@ -13,12 +13,12 @@ tags:
 - Chillhop
 - 80s
 - 90s
-title: '[Chronique] Lo-Fi Hip Hop / Chillhop (beat culture enregistrée à la maison)'
+title: 【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）
 ---
 
 
 
-## 1. Définition du concept et disposition des noms
+## 1. 概念定義と呼称の整理
 
 Texte : mmr｜Thème : Faits historiques sur la culture du beat enregistrée à la maison collectivement connue sous le nom de Lo-Fi Hip Hop / Chillhop, y compris son contexte, ses conditions techniques, sa structure de distribution, son esthétique et son acceptation sociale.
 
@@ -54,7 +54,7 @@ Les origines directes du Lo-Fi Hip Hop résident dans la culture de production h
 
 ## 3. Diffusion de la culture de l'enregistrement à domicile et de l'environnement de production numérique
 
-De la fin des années 1990 aux années 2000, les logiciels DAW et les ordinateurs personnels sont devenus plus populaires. Cela a permis à des personnes ne disposant pas d'un studio professionnel de produire des rythmes à la maison.
+De la fin des années 1990 aux années 2000, les logiciels DAW et les ordinateurs personnels sont devenus plus populaires. Cela a permis aux particuliers sans studio professionnel de produire des rythmes à la maison.
 
 Dans cet environnement d'enregistrement à domicile, il est devenu courant que la production soit réalisée en utilisant uniquement une simple interface audio, un contrôleur MIDI peu coûteux et des écouteurs. On pense que la nature privée de l’espace de production a encouragé une tendance plus introspective et discrète au son.
 
@@ -93,7 +93,7 @@ Ceci est un exemple de la façon dont la conception de la distribution a directe
 
 ## 7. Création de la catégorie Chillhop
 
-Le nom Chillhop a été créé lors du processus d'organisation des genres et d'optimisation des playlists sur les plateformes de distribution. Le tempo était modéré, la pression sonore était contenue et la mélodie était répétitive, en mettant l'accent sur le fait de ne pas trop attirer l'attention de l'auditeur.
+Le nom Chillhop a été créé lors du processus d’organisation des genres et d’optimisation des playlists sur les plateformes de distribution. Le tempo était modéré, la pression sonore était contenue et la mélodie était répétitive, en mettant l'accent sur le fait de ne pas trop attirer l'attention de l'auditeur.
 
 Cette catégorisation a amené un certain niveau de conscience du format du côté de la production et, par conséquent, l'homogénéisation musicale a progressé.
 
@@ -149,7 +149,7 @@ Cette culture ne se limite pas à une région spécifique, mais se forme simulta
 
 * Vulgarisation des DAW et des environnements d'enregistrement à domicile
 
-### Années 2010
+### Années 2010
 
 * Le terme Lo‑Fi Hip Hop / Chillhop s'est imposé dans la culture du streaming.
 

@@ -9,7 +9,7 @@ permalink: /fr/column-hearing-health/
 tags:
 - History
 - Ambient
-title: '[Chronique] Le miracle de l''écoute : l''avenir du « son » imaginé par la
+title: '[Chronique] Le miracle de l''écoute : l''avenir du « son » envisagé par la
   Hearing Health Foundation'
 ---
 
@@ -142,7 +142,7 @@ Les recherches sur la structure hiérarchique complexe sont également appliqué
 
 ## 4. Entre bruit et silence : une théorie culturelle de la prévention
 
-Les bruits forts des concerts de rock, l’utilisation excessive des écouteurs et le bruit de la ville.
+Les bruits forts des concerts de rock, l’usage excessif des écouteurs et le bruit de la ville.
 Celles-ci peuvent être qualifiées de « pollution auditive » d’aujourd’hui.
 La campagne #KeepListening de HHF est un mouvement social qui reconsidère la relation entre volume et distance.
 
@@ -167,7 +167,7 @@ La philosophie de HHF apporte également un soutien scientifique à son esprit.
 ## 6. Société et soutien : une communauté qui crée le futur de l'oreille
 
 HHF favorise l'alphabétisation culturelle en matière de santé auditive par le biais de dons, de subventions de recherche et d'éducation.
-Par exemple, les lauréats des **subventions de recherche émergente** sélectionnés chaque année sont :
+Par exemple, les lauréats des **Subventions de recherche émergente** sélectionnés chaque année sont :
 De l’édition génétique à l’intelligence artificielle, il dépeint le « futur de l’écoute » sous différents angles.
 
 Par ailleurs, dans le magazine en ligne grand public **Hearing Health Magazine**,
@@ -183,7 +183,7 @@ Il présente des expériences réelles et des chroniques d'experts, et propose l
 La science de l’audition est aussi la science de notre sensibilité.
 La reproduction du son peut être la « reproduction de l'existence humaine ».
 Les activités de la Hearing Health Foundation transcendent les frontières entre la médecine et l'art.
-Il éclaire discrètement l’avenir de la culture autour de « l’écoute ».
+Il éclaire discrètement l’avenir de la culture entourant « l’écoute ».
 
 ---
 

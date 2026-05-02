@@ -62,7 +62,7 @@ La musique n'était ni traditionnelle ni avant-gardiste, mais cristallisée comm
 ## Chapitre 2 Organisation et philosophie : Un « orchestre » non figé
 
 La composition de PCO change à chaque album et performance live, et est différente d'un « groupe » avec des membres fixes.
-Dirigé par Simon Jeffes, d'anciens musiciens classiques, musiciens folk et musiciens expérimentaux participent et agissent comme un « groupe de musique de chambre qui se rassemble sur la base d'un projet ».
+Dirigé par Simon Jeffes, d'anciens musiciens classiques, des musiciens folk et des musiciens expérimentaux participent et agissent comme un « groupe de musique de chambre qui se rassemble sur la base d'un projet ».
 
 ### ● Principaux participants
 
@@ -127,13 +127,13 @@ C'est une chanson calme mais dramatique qui donne l'impression que l'expansion e
 
 ### 3-3. **Téléphone et élastique (1981)**
 
-Un étrange morceau de musique dans lequel un téléphone bicolore sonne soudain dans un ensemble classique.
+Étrange morceau de musique dans lequel un téléphone bicolore retentit soudain au-dessus d'un ensemble classique.
 
-**Caractéristiques**
+**特徴**
 
 * Boucle audio du téléphone par manipulation de bande
 * Son électronique qui existe comme un « objet étranger » au-dessus de l'ensemble
-* Humour mais postmoderne à la fois
+* Humoristique mais postmoderne à la fois
 
 En termes de son minimal + trouvé, cette œuvre recoupe la lignée de Brian Eno.
 
@@ -141,7 +141,7 @@ En termes de son minimal + trouvé, cette œuvre recoupe la lignée de Brian Eno
 
 ## Chapitre 4 Vision du monde par album
 
-**PCO construit un « espace imaginaire » pour chaque œuvre.'' **
+**PCO construit un «espace imaginaire» pour chaque œuvre.'' **
 Les principaux albums sont expliqués ci-dessous.
 
 ### ● *Musique du Penguin Café* (1976)
@@ -180,7 +180,7 @@ La musique de PCO a été reçue de diverses manières dans de nombreux pays, bi
 ### ● Affinité avec la culture café/lounge
 
 Elle a été réévaluée lors du boom de la « musique de café » à la fin des années 1990.
-La « musique d'ambiance avec une déclaration », légère et facile à écouter, sans pour autant faire partie du fond sonore, a attiré l'attention.
+La « musique d'ambiance avec une déclaration », légère et facile à écouter, sans toutefois devenir un élément de fond, a attiré l'attention.
 
 ### ● Utilisation intensive des médias
 
@@ -235,7 +235,7 @@ timeline
 </div>
 ---
 
-## Illustration : Plan de structure acoustique du PCO
+## Illustration : Carte de la structure acoustique du PCO
 
 <div class="mermaid">
 

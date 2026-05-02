@@ -9,12 +9,12 @@ permalink: /fr/the-eclectics-idle-worship/
 tags:
 - Ska
 - Punk
-title: Les éclectiques – Culte oisif
+title: The Eclectics – Idle Worship
 ---
 
 
-Le « culte oisif » est
-Il s'agit d'un album du groupe ska-punk américain The Eclectics, sorti en 1997 par le label Jump Up ! Enregistrements.
+「Idle Worship」は、
+1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。
 
 
 #### Liste des chansons

@@ -35,7 +35,7 @@ Le breakcore est une musique créée en déconstruisant extrêmement les breakbe
 
 Les fonctionnalités peuvent être résumées dans les trois points principaux suivants.
 
-- breakbeat ultra rapide
+- breakbeat super rapide
 - Un échantillonnage bouleversant
 - chaos intentionnel
 
@@ -225,7 +225,7 @@ Les facteurs suivants ont eu un impact particulièrement important :
 
 - Plateforme vidéo
 - Culture vidéo courte
-- Culture du jeu
+-Culture du jeu
 - Culture animée
 
 Le son Breakcore rapide et chaotique est
@@ -383,7 +383,7 @@ Qu’arrivera-t-il à Breakcore dans le futur ?
 Si vous regardez l’histoire, ce genre a toujours vécu dans les endroits suivants.
 
 - Souterrain
--Internet
+- Internet
 - Culture du bricolage
 
 En d’autres termes, Breakcore est

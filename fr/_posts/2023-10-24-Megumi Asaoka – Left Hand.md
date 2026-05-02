@@ -10,17 +10,17 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: Megumi Asaoka – Mon petit ami est gaucher
+title: 麻丘めぐみ – わたしの彼は左きき
 ---
 
 
-"Megumi Asaoka - Mon petit ami est gaucher" est sorti en 1973.
+「麻丘めぐみ – わたしの彼は左きき」は、1973年にリリースされました。
 
-Paroles – Kazuya Senke
+歌詞– 千家和也
 
-Musique et arrangements – Kyohei Tsutsumi
+ミュージック＆アレンジ – 筒美京平
 
-Membre d'enregistrement (guitare) - Masayoshi Takanaka
+レコーディングメンバー(ギター) – 高中正義
 
 #### Liste des chansons
 ```md

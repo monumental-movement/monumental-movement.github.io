@@ -75,7 +75,7 @@ Son vrai nom est Thomas Moen Hermansen. Héritant de l'esprit du Detroit-Italo e
 
 ### Lindstrøm
 
-Son vrai nom est Hans-Peter Lindstrøm. Son son est appelé le porte-drapeau de la « disco cosmique » et combine des couches de synthé, un travail de batterie lourd et l'essence de l'ambient. Ses chefs-d'œuvre, tels que « Where You Go I Go Too » et « It's A Fidelity Affair », ont reçu un grand succès pour leurs compositions élégantes et dansantes.
+本名はHans-Peter Lindstrøm。 Son son est considéré comme le porte-drapeau de la « disco cosmique » et combine des couches de synthétiseur, un travail de batterie lourd et l'essence de l'ambient. Ses chefs-d'œuvre, tels que « Where You Go I Go Too » et « It's A Fidelity Affair », ont reçu un grand succès pour leurs compositions élégantes et dansantes.
 
 **Principales activités produites/impliquées** :
 
@@ -128,7 +128,7 @@ Les albums et mix de Mungolian Jet Set présentent également des chanteurs et i
 
 #### Caractéristiques sonores
 
-Cross-genre : Un mélange d'éléments disco, cosmiques, house, jazz, afro et même rock et prog.
+Cross-genre : Un mélange d'éléments disco, cosmiques, house, jazz, afro et même rock et progressif.
 
 Sens du remix : Il est connu pour ses remix de « voyage dans l’espace » qui changent audacieusement la structure de la chanson originale et la prolongent sur plus de 10 minutes.
 
@@ -160,7 +160,7 @@ Un film documentaire racontant l'histoire et le développement de la scène musi
 
 ---
 
-### Analyse : Pourquoi la discothèque norvégienne est acclamée à l'échelle internationale
+### Analyse : Pourquoi la discothèque norvégienne est-elle acclamée à l'échelle internationale
 
 1. **Esthétique de la texture** : La coexistence des manières scandinaves de créer un « espace » (réverbération et espace) avec une sensation analogique chaleureuse.
 2. **Culture du long track** : Un style qui met l'accent sur le « voyage » à travers les albums plutôt que les clubs.
@@ -173,3 +173,12 @@ Un film documentaire racontant l'histoire et le développement de la scène musi
 
 Prins Thomas, Lindstrøm et Mungolian Jet Set continuent d'envoyer de la « disco à température » depuis la Norvège vers le monde. Compte tenu de leur parcours musical et de leur travail de production, leurs morceaux vont au-delà de la simple musique dance et offrent une expérience d'écoute teintée d'une idée scandinave du temps et du paysage.
 
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-GVxJf7NAi8?si=WRd45yvZacaq0jYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

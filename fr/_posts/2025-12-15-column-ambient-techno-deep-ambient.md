@@ -21,7 +21,7 @@ Texte : mmr｜Thème : Plutôt que de séparer les deux en tant que noms de ge
 
 Ambient Techno est un domaine de la musique électronique créé au début des années 1990 et est un style musical qui combine la structure rythmique répétitive de la techno avec la spatialité et la durabilité de la musique ambiante. Sa particularité est qu'il conserve la notion de temps de la musique de club tout en fonctionnant également comme une musique d'appréciation.
 
-Deep Ambient (appelé deep-sea ambient) a un niveau d'abstraction plus élevé et ne nécessite pas la présence de rythmes. L'accent est mis sur des images sonores extrêmement profondes, des sons soutenus centrés sur des bandes de basses fréquences et des compositions qui obscurcissent les contours du temps.
+Deep Ambient (appelé deep-sea ambient) a un niveau d'abstraction plus élevé et ne nécessite pas la présence de rythmes. L'accent est mis sur des images sonores extrêmement profondes, des sons soutenus centrés sur les basses fréquences et des compositions qui obscurcissent les contours du temps.
 
 ---
 
@@ -56,7 +56,7 @@ L'Orb intègre le traitement spatial de l'ambiant, de la techno et du dub, prés
 
 Ce qui est remarquable, c'est que même dans les scènes où le rythme est au premier plan, il ne montre jamais sa force motrice. Le battement n'est pas un appareil qui dirige le mouvement, mais sert plutôt de point de référence pour mesurer la profondeur.
 
-Cette philosophie de conception est devenue la base de l'Ambient Techno et a eu une influence décisive sur les expressions ultérieures de la Deep Ambient et de la deep-sea techno.
+Cette philosophie de conception est devenue la base de l'Ambient Techno et a eu une influence décisive sur les expressions ultérieures de Deep Ambient et de deep-sea techno.
 
 
 ---
@@ -76,7 +76,7 @@ En acoustique des grands fonds, les basses fréquences n’existent pas uniqueme
 
 Les basses n'ont souvent pas une attaque claire, montant lentement et déclinant lentement. En conséquence, l’auditeur est placé dans un état dans lequel il n’« entend » pas le son, mais le « ressent » comme une pression acoustique.
 
-Du bas-médium au médium, des sons soutenus avec des harmoniques supprimées sont placés, ce qui sert à égaliser la densité du son.
+Du médium-bas au médium, des sons soutenus avec des harmoniques supprimées sont placés, ce qui sert à égaliser la densité du son.
 
 
 ---
@@ -121,7 +121,7 @@ La différence décisive avec la musique ambiante des profondeurs réside dans l
 
 La Deep Techno se caractérise par sa structure minimale, son tempo lent et son développement sobre. C'est une musique qui recherche la profondeur tout en conservant le contexte du club.
 
-Alors qu'Ambient Techno/Deep Ambient se démarque de la nature du club, Deep Techno introduit le son des profondeurs marines tout en conservant la fonction du sol. Cette différence crée une nette différence d’utilisation et de posture d’écoute.
+Alors qu'Ambient Techno/Deep Ambient se distancie de la nature du club, Deep Techno introduit le son des profondeurs marines tout en conservant la fonction du sol. Cette différence crée une nette différence d’utilisation et de posture d’écoute.
 
 
 ---

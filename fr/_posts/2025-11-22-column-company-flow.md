@@ -27,7 +27,7 @@ title: '[Chronique] Company Flow : L''horizon du hip-hop alternatif ouvert par l
 
 Texte : mmr｜Thème : De la formation à la dissolution de Company Flow, analyse de l'œuvre, structure solide, histoire des membres, signification historique
 
-À New York, à la fin des années 1990, alors que le hip-hop devenait une immense industrie commerciale, une énergie réactionnaire underground tourbillonnait autour de lui.
+À New York, à la fin des années 1990, alors que le hip-hop devenait une énorme industrie commerciale, une énergie réactionnaire underground tourbillonnait autour de lui.
 Les grands groupes de musique dirigés par Bad Boy Records élargissaient leurs sons scintillants, mais du côté de la rue, un nombre croissant d'artistes recherchaient un style d'expression plus rigide et politiquement chargé.
 
 **Company Flow** était au centre de cette démarche.
@@ -72,7 +72,7 @@ Ensuite, **M. Len** a rejoint le groupe en tant que DJ, complétant ainsi la str
 # Chapitre 2 : Les premières activités de Company Flow et son esprit indépendant (1993-1995)
 
 Après avoir formé l'unité, ils n'avaient plus d'aspirations majeures,
-**Nous avons sorti de la musique à notre rythme et avons maintenu une attitude de protection farouche de l'autonomie des artistes**.
+**Nous avons sorti de la musique à notre rythme et maintenu une attitude de protection farouche de l'autonomie des artistes**.
 
 Un symbole en est le lancement de leur propre label indépendant **Official Recordings**.
 
@@ -80,7 +80,7 @@ En 1995, Company Flow était le premier single de 12 pouces du label.
 **"Techniques juvéniles"** sorti.
 
 Ce single est devenu un sujet brûlant parmi les auditeurs underground de New York à l'époque.
-Ce fut l’occasion pour leur nom de se répandre rapidement.
+Ce fut l'occasion pour leur nom de se répandre rapidement.
 
 ---
 
@@ -241,7 +241,7 @@ On dit que « Funcrusher Plus » a établi une « idéologie underground » auto
 Funcrusher Plus a été un succès, mais à mesure que Rawkus élargissait sa taille et formait des alliances capitalistiques,
 Company Flow a donné la priorité au **maintien de l'autonomie des artistes**.
 
-Les divergences d'opinion avec le label se sont progressivement creusées,
+Les divergences d'opinions avec le label se sont progressivement creusées,
 En 1999, ils quittent Rawkus Records.
 
 Se tenir à distance des « grands systèmes »,
@@ -314,7 +314,7 @@ Beaucoup mélangent œuvres et collaborations.
 | Année | Titre | Tapez | Étiquette |
 | ---- | ------------------------------- | ---------- | ------------------------------------ |
 | 1995 | Techniques juvéniles | Simple de 12 pouces | Enregistrements officiels |
-| 1996 | Broyeur de fun | PE | Enregistrements officiels |
+| 1996 | Broyeur de fun | EP | Enregistrements officiels |
 | 1997 | Funcrusher Plus | Albums | Registres Rawkus |
 | 2000 | Petit Johnny de l'hôpital | Album instrumental | Registres Rawkus |
 
@@ -365,7 +365,7 @@ Cela a montré que même les œuvres indépendantes peuvent créer des normes cu
 ## ● 2. Mise en place de « l'underground comme idée »
 
 Ce n'est pas seulement une production à petit budget,
-Il incarnait l’underground en tant que « pensée indépendante du commercialisme ».
+Il incarnait l’underground comme une « pensée indépendante du commercialisme ».
 
 ---
 

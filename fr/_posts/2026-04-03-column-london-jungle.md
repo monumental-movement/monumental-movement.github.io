@@ -11,24 +11,24 @@ tags:
 - Jungle
 - Drum n Bass
 - UK Culture
-title: '[Chronique] Bruits de la jungle : les tensions urbaines de Londres'
+title: 【コラム】 ジャングルの音：ロンドンの都市的緊張
 ---
 
 
 
-## Le moment où la pression urbaine devient sonore
+## 都市の圧力が音になる瞬間
 
-Texte : mmr｜Thème : Les sons et les gens de la jungle créés par la tension urbaine de Londres, et leur réalité
+文：mmr｜テーマ：ロンドンの都市的緊張が生んだジャングルの音と人物、その実像
 
-Londres au début des années 1990. Réaménagement, hausse du chômage, expansion des communautés d'immigrants et renforcement de la réglementation policière. Une combinaison de ces facteurs complexes avait progressivement accru la pression sur la ville.
+1990年代初頭のロンドン。再開発、失業率の上昇、移民コミュニティの拡大、そして警察による規制強化。こうした複雑な要因が絡み合い、都市は静かに圧力を蓄積していた。
 
-Jungle est la traduction directe de cette pression en son. C’était plus qu’une simple musique de club, c’était une culture qui présentait la tension et la déconnexion de la ville telle qu’elle était sous forme d’acoustique.
+ジャングルは、この圧力がそのまま音に変換されたものだ。単なるクラブミュージックではなく、都市の緊張や断絶をそのまま音響として提示する文化だった。
 
-Le son est extrêmement rapide, fragmenté et lourd. Fragmentation breakbeat, vibrations sub-basses et voix dérivées du dancehall. Ils reflètent directement la structure culturelle multicouche de Londres.
+その音は極端に速く、断片的で、そして重い。ブレイクビーツの細分化、サブベースの振動、ダンスホール由来の声。それらはロンドンの多層的な文化構造をそのまま映し出している。
 
-Cette musique n'était pas prévue. Il est né du fait que les DJ et producteurs présents sur place ont actualisé le son tout en répondant à l'atmosphère du lieu.
+この音楽は計画的に作られたものではない。現場のDJやプロデューサーたちが、その場の空気に反応しながら音を更新していった結果として生まれた。
 
-> Jungle n'est pas un genre musical, mais une structure sonore qui visualise les pressions de la ville.
+> ジャングルは音楽ジャンルではなく、都市の圧力が可視化された音の構造である。
 
 ---
 
@@ -46,25 +46,25 @@ color: #fff;
 </style>
 
 
-## Divergence avec la culture rave
+## レイヴ文化からの分岐
 
-La culture rave qui existe depuis la fin des années 1980 était à l’origine de la jungle. À commencer par l’acid house, d’énormes fêtes illégales étaient organisées partout.
+1980年代後半から続くレイヴ文化は、ジャングルの母体だった。アシッドハウスに始まり、巨大な違法パーティーが各地で開催されていた。
 
-Cependant, en 1994, la situation a complètement changé avec la loi sur la justice pénale et l'ordre public. Cette loi a réprimé les événements musicaux comportant des « rythmes répétitifs » et la culture rave a reçu un coup dur.
+しかし1994年、「Criminal Justice and Public Order Act」によって状況は一変する。この法律は“反復的ビート”を持つ音楽イベントを取り締まる内容であり、レイヴ文化は大きな打撃を受けた。
 
-Cette régulation accélère l'évolution de la musique. S'éloignant de la simple structure à quatre sur le sol, des rythmes plus complexes et divisés ont été recherchés.
+この規制は音楽の進化を加速させる。四つ打ちの単純な構造から離れ、より複雑で分断されたリズムが求められるようになる。
 
-L'important ici est "Amen break". Cette courte phrase de batterie a été découpée et réassemblée d'innombrables fois, la transformant en rythme de base de la jungle.
+ここで重要になるのが「Amen break」だ。この短いドラムフレーズは、無数に切り刻まれ、再構築され、ジャングルの核となるリズムへと変化した。
 
-Dans le même temps, le lieu d'activité se déplace des clubs vers les radios pirates, et la musique se diffuse de manière plus locale et underground.
+同時に、クラブから海賊ラジオへと活動の場が移行し、音楽はよりローカルで地下的な形で広がっていく。
 
-> La fin de la rave marque le début de la jungle, et la régulation accélère la créativité.
+> レイヴの終焉はジャングルの始まりであり、規制は創造性を加速させた。
 
 ---
 
-## Structure du son : fragmentation et reconstruction
+## サウンドの構造：分断と再構築
 
-La structure du son de la jungle elle-même était innovante. Il se caractérise non seulement par la vitesse, mais aussi par une conception rythmique qui décompose le temps lui-même.
+ジャングルの音は構造そのものが革新的だった。速さだけではなく、時間そのものを分解するようなリズム設計が特徴である。
 
 <div class="mermaid">
 graph TD
@@ -75,124 +75,124 @@ E[サブベース] --> D
 F[ダンスホール要素] --> D
 </div>
 
-Le tempo est de 160-170BPM. Cependant, la vitesse perçue est plus rapide que cela. En effet, la « densité du temps » change en fonction de l'emplacement des breakbeats.
+テンポは160〜170BPM。しかし体感速度はそれ以上に感じられる。これはブレイクビーツの配置によって“時間の密度”が変化しているためだ。
 
-Les sub-basses qui s'y ajoutent sont une extension de la culture reggae/dub. Le son passe de quelque chose que vous entendez à quelque chose que vous ressentez avec votre corps.
+そこに加わるサブベースは、レゲエ／ダブ文化の延長線上にある。音は聴くものではなく、身体で感じるものへと変化する。
 
-De plus, avec l'ajout de la voix du Raga MC et des phrases en patois, les sons ont un contexte culturel.
+さらに、ラガMCの声やパトワ語のフレーズが加わることで、音は文化的文脈を持つ。
 
-> L'essence de la jungle n'est pas la vitesse, mais la reconstruction du temps divisé.
-
----
-
-## Artistes et morceaux représentatifs
-
-Jungle a été formé par d'innombrables producteurs, mais certains artistes et chansons sont particulièrement emblématiques.
-
-### Goldie — « La vie dans le centre-ville » (1994)
-
-Une figure représentative qui a amené la jungle sur la scène mondiale. Goldie était à l'origine un graffeur et a apporté cette sensibilité visuelle à sa musique.
-
-« Inner City Life » est une chanson qui dépeint à la fois la solitude et l'espoir de la vie urbaine, et constitue une œuvre importante qui montre le lyrisme de la jungle.
-
-Une anecdote bien connue est que lorsque Goldie a créé cette chanson, il était conscient d'une direction différente de la traditionnelle « jungle basée sur le raga ». En conséquence, il est devenu un pont vers la drum and bass ultérieure.
-
-### Shy FX — « Original Nuttah » (1994)
-
-Un morceau emblématique de Raga Jungle. Créé avec des MC Apache britanniques, il a explosé dans les clubs et à la radio.
-
-On dit que le succès de cette chanson a rapproché la jungle du courant dominant.
-
-Bien que la production ait été réalisée avec un équipement relativement simple, la rudesse du travail s'est avérée être une source d'énergie et a bénéficié d'un soutien massif sur place.
-
-### LTJ Bukem — « Horizons » (1995)
-
-C'est une personne qui a établi un style qu'on appelle surtout "intelligent" même dans la jungle. Son son met l'accent sur le flottement plutôt que sur l'agressivité.
-
-« Horizons » a montré que la jungle peut être plus qu'une simple musique de danse, elle peut aussi être écoutée.
-
-On dit que Bukem a progressivement ajusté le tempo et la spatialité tout en observant la réaction du public du club.
-
-### Remarque — « RIP » (1994)
-
-L'une des figures les plus innovantes dans la réinvention des breakbeats. Les morceaux de Remarc se caractérisent par des rythmes extrêmement détaillés.
-
-Il a profité des limites de son équipement et a créé ses propres grooves uniques en coupant les échantillons jusqu'à leurs limites.
-
-### General Levy — « Incroyable » (1994)
-
-Cette chanson symbolise aussi la commercialisation de la jungle. Il est devenu un grand succès avec son MC puissant et son accroche accrocheuse.
-
-Cependant, certains acteurs du milieu l'ont critiqué comme étant « trop commercial » et a été temporairement banni de la radio de la BBC. Cet événement symbolise le conflit de valeurs au sein de la jungle.
-
-> Jungle n'est pas l'œuvre d'un individu, mais s'est formée à l'intersection de l'énergie de la scène et des personnages.
+> ジャングルの本質は速度ではなく、分断された時間の再構築にある。
 
 ---
 
-## Radio pirate et évolution de la distribution
+## 代表的アーティストとトラック
 
-La radio pirate a joué un rôle déterminant dans l’expansion de la jungle. À Londres, des ondes radio illégales étaient diffusées quotidiennement et les dernières nouveautés étaient partagées en temps réel.
+ジャングルは無数のプロデューサーによって形成されたが、その中でも特に象徴的な存在と楽曲がある。
 
-Cela permet une distribution sans passer par une maison de disques. Les camions sont évalués par le biais des clubs et de la radio, puis éliminés sur place.
+### Goldie — “Inner City Life” (1994)
 
-Les DJ n'étaient pas seulement des joueurs, mais aussi des conservateurs et des éditeurs. Le travail était toujours en évolution, à mesure que les morceaux changeaient de sens dans le mix.
+ジャングルを世界に押し上げた代表的存在。Goldieは元々グラフィティ・アーティストであり、その視覚的感覚を音楽にも持ち込んだ。
 
-> Jungle n'est pas une œuvre, mais un processus généré par la distribution et le site.
+“Inner City Life”は、都市生活の孤独と希望を同時に描いた楽曲で、ジャングルの持つ叙情性を示した重要作である。
+
+逸話として有名なのは、Goldieがこの楽曲を制作する際、従来の「ラガ主体のジャングル」とは異なる方向性を意識していた点だ。結果として、後のドラムンベースへの橋渡しとなった。
+
+### Shy FX — “Original Nuttah” (1994)
+
+ラガ・ジャングルの象徴的トラック。UK ApacheのMCとともに制作され、クラブとラジオで爆発的に広まった。
+
+この曲の成功により、ジャングルが一気にメインストリームへ接近したとされる。
+
+制作は比較的シンプルな機材で行われたが、その粗さが逆にエネルギーとなり、現場での圧倒的な支持を得た。
+
+### LTJ Bukem — “Horizons” (1995)
+
+ジャングルの中でも特に“インテリジェント”と呼ばれるスタイルを確立した人物。彼の音は攻撃性よりも浮遊感を重視している。
+
+“Horizons”は、ジャングルが単なるダンス音楽ではなく、リスニングミュージックとしても成立することを示した。
+
+Bukemはクラブで観客の反応を見ながら、徐々にテンポや空間性を調整していったと語られている。
+
+### Remarc — “R.I.P.” (1994)
+
+ブレイクビーツの再構築において最も革新的な人物の一人。Remarcのトラックは極端に細かく刻まれたリズムが特徴である。
+
+彼は機材の制約を逆手に取り、サンプルを極限まで切り刻むことで独自のグルーヴを生み出した。
+
+### General Levy — “Incredible” (1994)
+
+この曲はジャングルの商業化を象徴する存在でもある。強烈なMCとキャッチーなフックで大ヒットした。
+
+しかし一部のシーンからは「商業的すぎる」と批判され、BBCラジオから一時的に排除されるという出来事もあった。この出来事は、ジャングル内部の価値観の対立を象徴している。
+
+> ジャングルは個人の作品ではなく、現場のエネルギーと人物が交差することで形成された。
 
 ---
 
-## Transition vers la drum and bass
+## 海賊ラジオと流通の変化
 
-Au milieu des années 1990, la jungle a progressivement évolué vers la drum and bass.
+ジャングルの拡散において、海賊ラジオは決定的な役割を果たした。ロンドンでは非合法の電波が日常的に飛び交い、最新トラックがリアルタイムで共有されていた。
 
-L'album Timeless de Goldie était une œuvre marquante, présentant les éléments de la jungle sous une forme plus sophistiquée.
+これにより、レコード会社を介さない流通が成立する。トラックはクラブとラジオを通じて評価され、その場で淘汰される。
 
-Les éléments raga ont diminué et des sons plus abstraits et minimaux sont devenus courants. Ce changement est le résultat d’une prise de conscience de l’écoute non seulement dans les clubs mais aussi à la maison.
+DJは単なる再生者ではなく、キュレーターであり編集者だった。ミックスの中でトラックの意味が変わるため、作品は常に流動的な状態にあった。
 
-Cependant, la structure du breakbeat et l’importance de la basse restent intactes.
-
-> La drum and bass est une forme raffinée de jungle, et son noyau reste inchangé.
+> ジャングルは作品ではなく、流通と現場によって生成されるプロセスである。
 
 ---
 
-## Chronologie : Formation de la jungle de Londres
+## ドラムンベースへの移行
 
-| Année | Événements |
+1990年代中盤、ジャングルは徐々に変化し、ドラムンベースへと発展していく。
+
+Goldieのアルバム『Timeless』はその象徴的作品であり、ジャングルの持つ要素をより洗練された形で提示した。
+
+ラガ要素は減少し、より抽象的でミニマルなサウンドが主流となる。この変化は、クラブだけでなく家庭でのリスニングを意識した結果でもある。
+
+ただし、ブレイクビーツの構造や低音の重要性はそのまま維持されている。
+
+> ドラムンベースはジャングルの洗練形であり、その核心は変わっていない。
+
+---
+
+## 年表：ロンドン・ジャングルの形成
+
+| 年    | 出来事                    |
 | ---- | ---------------------- |
-| 1988 | Acid house et expansion de la culture rave |
-| 1992 | Le son de la jungle s'écarte du hardcore |
-| 1994 | Application de la Loi sur la justice pénale |
-| 1994 | « Original Nuttah » à succès |
-| 1994 | « La vie dans la ville » apparaît |
-| 1995 | Développement d'une jungle intelligente |
-| 1996 | Le nom drum & bass s'impose |
+| 1988 | アシッドハウスとレイヴ文化の拡大       |
+| 1992 | ハードコアからジャングル的サウンドが分岐   |
+| 1994 | Criminal Justice Act施行 |
+| 1994 | “Original Nuttah”ヒット   |
+| 1994 | “Inner City Life”登場    |
+| 1995 | インテリジェント・ジャングルの発展      |
+| 1996 | ドラムンベースの呼称が定着          |
 
-> Les jungles se sont formées rapidement sur plusieurs années et ont évolué au rythme des changements urbains.
-
----
-
-## Interaction entre la ville et la musique
-
-La jungle est un microcosme de la ville de Londres. Le multiculturalisme, la classe et la tension se manifestent tous dans le son.
-
-Culture immigrée, sound system, raves, radio pirate. À leur croisement, une nouvelle musique naît.
-
-Cette structure a été héritée plus tard par Grime et UK Garage.
-
-> La jungle est un microcosme de Londres, une expression sonore de la ville elle-même.
+> ジャングルは数年の間に急速に形成され、都市の変化と同期して進化した。
 
 ---
 
-## Conclusion : La pression comme son
+## 都市と音楽の相互作用
 
-Jungle n'est pas créé par un artiste spécifique. Il est né de l’intersection des conditions urbaines et des activités des gens.
+ジャングルはロンドンという都市の縮図である。多文化、階級、緊張、それらすべてが音として現れている。
 
-Cependant, les camions et les personnes qui y sont nées ont certainement façonné cette époque.
+移民文化、サウンドシステム、レイヴ、海賊ラジオ。それらが交差することで、新しい音楽が生まれた。
 
-Des rythmes rapides, des rythmes fragmentés et des basses profondes. Ce sont toutes des expressions de la pression urbaine.
+その構造は、後のグライムやUKガラージにも受け継がれている。
 
-Et cette pression existe encore aujourd’hui dans diverses formes de musique.
+> ジャングルはロンドンの縮図であり、都市そのものの音響的表現である。
 
-> Jungle n'est pas une musique, mais un enregistrement des pressions exercées par la ville.
+---
+
+## 結論：音としての圧力
+
+ジャングルは特定のアーティストによって作られたものではない。都市の条件と人々の活動が交差した結果として生まれた。
+
+しかし、その中で生まれたトラックや人物は、確実に時代を形作った。
+
+高速ビート、断片化されたリズム、重低音。それらはすべて都市の圧力の表現である。
+
+そしてその圧力は、今もなおさまざまな音楽に形を変えて存在し続けている。
+
+> ジャングルは音楽ではなく、都市が発する圧力の記録である。
 
 ---

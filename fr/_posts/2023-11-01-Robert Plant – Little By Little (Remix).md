@@ -10,17 +10,17 @@ tags:
 - Rock
 - Remix
 - 7inch
-title: Robert Plant – Petit à petit (Remix)
+title: Robert Plant – Little By Little (Remix)
 ---
 
 
-La face A est un remix de Rob Dickins.
+A面は、Rob Dickins（ロブ・ディキンス）によるリミックス。
 
-Les faces C et D sont enregistrées en direct à Dallas (24 juin 1985).
+C面とD面は、ダラスでのライブ録音（1985年6月24日）。
 
-Robert Anthony Plant est né en 1948 à West Bromwich, dans le Staffordshire, en Angleterre.
+ロバート・アンソニー・プラントは、1948年にイギリスのスタッフォードシャー州ウェスト・ブロムウィッチで生まれました。
 
-Robert Plant est principalement connu comme le chanteur du groupe de rock Led Zeppelin et est considéré comme l'un des plus grands chanteurs de l'histoire du rock.
+ロバート・プラントは主に、ロックバンド「 Led Zeppelin」のボーカリストとして知られ、ロック史上最高のボーカリストの一人として称賛されています。
 
 #### Liste des chansons
 ```md

@@ -12,13 +12,13 @@ tags:
 - Euro Beat
 - 90s
 - Rare
-title: Ziggy – No Police (Aztèque Remix)
+title: Ziggy – No Police (Aztec Remix)
 ---
 
 
-"No Police" est un morceau énergique composé et produit par Christoff Wybouw, également connu sous le nom de Serge Gobin, connu comme membre du projet new beat belge J.C. Project, The Beast et War People. Christoff Wybouw est célèbre pour « Arabeat », sorti sous le pseudonyme de Bingo !.
+「 No Police 」は、ベルギーのニュービートプロジェクトJ.C.ProjectやThe Beast、War Peopleのメンバーとして知られるChristoff WybouwことSerge Gobinが作曲・プロデュースしたハイエナジートラック。 Christoff Wybouwは、別名義のBingo!でリリースした「Arabeat」が有名。
 
-Ce disque est un disque mexicain rare sorti en 1987 par le label de danse mexicain Maxi, avec une pochette différente du disque belge.
+このレコードは、メキシコのダンスレーベルMaxiから1987年にリリースされたメキシコ盤でベルギー盤とはジャケが違うレアレコード。
 
 #### Liste des chansons
 ```md

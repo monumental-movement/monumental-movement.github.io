@@ -8,15 +8,15 @@ layout: post
 permalink: /fr/c-mos-2-million-ways/
 tags:
 - House
-title: C-Mos – 2 millions de façons
+title: C-Mos – 2 Million Ways
 ---
 
 
-C-Mos est le pseudonyme du DJ belge Olivier Abbeloos.
+C-Mosは、ベルギー出身のDJ Olivier Abbeloosの別名義。
 
-The A-side est un remix du DJ/producteur suédois Axwell (Axel Hedfors), également membre de Swedish House Mafia.
+A面は、Swedish House Mafia（スウェディッシュ ハウス マフィア）のメンバーでもあるスウェーデンのDJ/プロデューサーAxwell（アクスウェル/Axel Hedfors）によるremix。
 
-La face B est un remix de Jules Spinner, membre des Bhangra Knights.
+B面は、Bhangra KnightsのメンバーJules Spinner（ジュールズ・スピナー）によるremix。
 
 #### Liste des chansons
 ```md

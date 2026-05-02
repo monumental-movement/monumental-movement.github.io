@@ -57,7 +57,7 @@ Le kraftrock de Kraftwerk et Neu!, les sons froids et durs du Velvet Underground
 ### Chapitre 2 : Désespoir du son – Le monde de Joy Division
 
 **"Son interne"**
-Les paroles de Ian Curtis dépeignent l’aliénation de soi, l’anxiété sociale et l’obscurité intérieure. Des chansons telles que « Transmission » et « She's Lost Control » sont des chefs-d'œuvre qui chevauchent la solitude de l'individu et la nature inorganique de la ville.
+Les paroles de Ian Curtis dépeignent l’aliénation de soi, l’anxiété sociale et l’obscurité intérieure. Des chansons telles que « Transmission » et « She's Lost Control » sont des chefs-d'œuvre qui chevauchent la solitude de l'individu avec la nature inorganique de la ville.
 
 **"Innovation de production"**
 Le producteur Martin Hannett a utilisé des techniques d'enregistrement pour rechercher un son spatial différent de la musique rock traditionnelle. La réverbération de la batterie et le placement tridimensionnel de la basse étaient des éléments importants qui créaient la froideur et la tension du son de Joy Division.
@@ -78,7 +78,7 @@ Curtis, qui souffrait d'épilepsie et de dépression, passe ses journées tirail
 Concilier vie conjugale et activités du groupe était extrêmement difficile. Sa relation avec sa femme Debbie et sa relation secrète avec sa maîtresse se chevauchent également, amplifiant la réalité de la solitude qui imprègne les paroles.
 
 **"La Dernière Nuit"**
-Le 18 mai 1979, Ian Curtis décède à son domicile de Manchester. La tragédie a choqué les membres du groupe et les fans et a jeté une ombre profonde sur l’histoire de la musique.
+Le 18 mai 1979, Ian Curtis décède à son domicile de Manchester. La tragédie a choqué les membres du groupe et les fans et a jeté une ombre profonde sur l'histoire de la musique.
 
 Amazonで購入 → [Closer](https://amzn.to/48mYLF8)
 

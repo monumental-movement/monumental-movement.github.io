@@ -9,11 +9,11 @@ permalink: /fr/markus-schulz-coldharbour-selections-volume-2/
 tags:
 - Trance
 - Progressive
-title: Markus Schulz – Sélections Coldharbour Volume 2
+title: Markus Schulz – Coldharbour Selections Volume 2
 ---
 
 
-Une compilation de morceaux progressifs house et trance sélectionnés sous la marque "Coldharbour" par Markus Schulz, un DJ/producteur allemand basé à Miami, en Floride.
+フロリダ州マイアミに拠点を置くドイツ人DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）が「Coldharbour」ブランドでセレクトしたプログレッシブ ハウス & トランストラックのコンピレーション。
 
 #### Liste des chansons
 ```md

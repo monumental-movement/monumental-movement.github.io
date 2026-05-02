@@ -57,7 +57,7 @@ De plus, la petite surface de la carte réduit la distorsion interne, rendant la
 
 ---
 
-### L'âge d'or du 10 pouces des années 1950 : terrain d'expérimentation pour le jazz et la musique classique
+### L'âge d'or du 10 pouces des années 1950 : le terrain d'expérimentation du jazz et de la musique classique
 
 Le 10 pouces connaît son apogée à l’aube du jazz au début des années 1950.
 Des labels comme Blue Note, Prestige et Clef ont limité l'expérimentation des artistes au format 10 pouces.

@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Implantation de la French Touch : Situation à Paris à la fin des années 1990
 ### ● Contexte : Une rencontre entre house et disco
 Au milieu des années 1990, la scène club parisienne absorbe la house américaine tout en formant une structure unique mettant en avant les samples disco/soul.
-Alors que l'influence de la Chicago House était forte, la house commença à fonctionner comme un nouveau type de « musique pop » en y intégrant la « sensation mélodique sophistiquée » unique à l'Europe.
+Bien que fortement influencée par la Chicago House, la house a commencé à fonctionner comme un nouveau type de « musique pop » car elle se mélangeait à une « sensation mélodique sophistiquée » unique à l'Europe.
 
 ### ● Existence d'étiquette/base
 - **Roulé (Thomas Bangalter)**
@@ -97,7 +97,7 @@ En 1998, l'unité "Stardust" de Thomas Bangalter + Alan Braxe + Benjamin Diamond
 Caractéristiques:
 - Samples le riff de "Fate" de Chaka Khan
 - Traitement du filtre de type étiquette Roulé
-- Mélodie extrêmement sophistiquée et ambiance disco
+- Mélodie extrêmement sophistiquée et sensation disco
 
 Ce succès a établi la culture de la French Touch selon laquelle « la pop est une extension du jeu et de l'expérimentation ».
 Bien qu’il ne s’agisse que d’une chanson, elle est devenue un mythe car elle résume toute l’esthétique de la French Touch.
@@ -119,7 +119,7 @@ A. Music Sounds Better With You
 ## 5. Cassius : Un sentiment de liberté et d'art à Paris
 **Cassius "1999"** de Philippe Zdar et Boom Bass a encore accru la popularité de la French Touch.
 
-- Utilisation intensive d'échantillonnage funk/soul
+- Utilisation intensive du sample funk/soul
 - Profondément connecté à la culture de rue et à la scène artistique parisienne
 - Haute densité de mélange et centre de gravité qui le fait toujours danser
 
@@ -190,7 +190,7 @@ Le balayage du filtre de French Touch reposait sur des changements harmoniques a
 
 ### ◆ ② Culture du disque : production musicale basée sur l'échantillonnage
 Une grande partie de la French Touch commence avec des échantillons de vinyles.
-Voici la « joie de découvrir » la musique**.
+C'est là que réside la « joie de découvrir » la musique**.
 C’était l’ambiance de l’époque où la culture des clubs et la culture du disque étaient directement liées.
 Creuser des archives en soi était la porte d’entrée vers la création.
 

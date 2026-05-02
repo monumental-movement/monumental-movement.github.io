@@ -21,7 +21,7 @@ title: Rednex – Oeil de coton Joe 2
 
 
 
-Rednex – Joe aux yeux de coton
+Rednex – Cotton Eye Joe
 
 Rednecks - Coton Eye Joe
 

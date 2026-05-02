@@ -9,13 +9,13 @@ permalink: /fr/nobukazu-takemura-meteor/
 tags:
 - Techno
 - Minimal
-title: Nobukazu Takemura – Météore
+title: Nobukazu Takemura – Meteor
 ---
 
 
-« Nobukazu Takemura – Meteor » est un disque de l'artiste musical japonais Nobukazu Takemura (Nobukazu Takemura). Nobukazu Takemura est un producteur et compositeur de musique connu pour sa musique électronique et expérimentale.
+「Nobukazu Takemura – Meteor」は、日本の音楽アーティストである竹村延和（タケムラ　ノブカズ）によるレコードです。竹村延和はエレクトロニックミュージックやエクスペリメンタルな音楽で知られる音楽プロデューサー、作曲家です。
 
-"Meteor" est l'une des œuvres les plus représentatives de Nobukazu Takemura. Sorti en 1999, c'est une œuvre qui fusionne sons électroniques et éléments ambiants, développant le paysage sonore onirique qui caractérise la musique de Nobukazu Takemura.
+「Meteor」は、竹村延和の代表的な作品の1つで、1999年にリリースされ、エレクトロニックサウンドとアンビエント要素を融合させた作品であり、竹村延和の音楽の特徴である幻想的なサウンドスケープが展開されています。
 
 #### Liste des chansons
 ```md

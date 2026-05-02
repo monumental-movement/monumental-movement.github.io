@@ -9,15 +9,15 @@ permalink: /fr/midnight-juggernauts-into-the-galaxy/
 tags:
 - House
 - Electro
-title: Midnight Juggernauts – Dans la galaxie
+title: Midnight Juggernauts – Into The Galaxy
 ---
 
 
-Midnight Juggernauts était un groupe de musique électronique australien actif de 2004 à 2014, gagnant en popularité pour son son unique qui incorporait des éléments d'électronique, d'indie et de synth pop. "Into The Galaxy" est connue comme l'une de leurs chansons emblématiques.
+Midnight Juggernauts（ミッドナイト・ジャガーノーツ）は、2004年から2014年まで活動したオーストラリアのエレクトロニック・ミュージックバンドで、エレクトロニック、インディー、シンセポップなどの要素を取り入れた独自のサウンドで人気を博した。「Into The Galaxy」は、彼らの代表曲の一つとして知られている。
 
-Le deuxième morceau de la face A est un remix de Chateau Marmont, fondateur de Chambre404, un producteur de musique électronique français et une équipe d'interprètes live basée à Paris.
+A面２曲目は、パリを拠点とするフランスの電子音楽プロデューサー兼ライブパフォーマー チームであり、Chambre404の創設者のChateau Marmontによるremix。
 
-La première chanson de la face B est un remix du groupe électronique/alternatif britannique Metronomy. La deuxième chanson de la face B est un remix du musicien/producteur électronique français Danger (Franck Rivoire).
+B面１曲目は、イギリスのエレクトロニック/オルタナティブバンドMetronomyによるremix。B面２曲目はフランスの電子ミュージシャン/プロデューサーDanger（Franck Rivoire）によるremix。
 
 #### Liste des chansons
 ```md

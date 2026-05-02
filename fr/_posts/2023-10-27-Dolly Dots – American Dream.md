@@ -9,11 +9,11 @@ permalink: /fr/dolly-dots-american-dream/
 tags:
 - Disco
 - 80s
-title: Dolly Dots – Rêve américain
+title: Dolly Dots – American Dream
 ---
 
 
-Dolly Dots était un groupe de filles néerlandais actif de la fin des années 1970 à la fin des années 1980. Ce fut un succès non seulement aux Pays-Bas, mais aussi en Belgique, au Japon et en Turquie.
+Dolly Dots（ドリー ドッツ）は、1970年後半から1980年後半まで活動したオランダのガールズグループです。オランダだけでなく、ベルギー、日本、トルコでも成功を収めました。
 
 #### Liste des chansons
 ```md

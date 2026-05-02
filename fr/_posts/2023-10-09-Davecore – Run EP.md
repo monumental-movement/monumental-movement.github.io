@@ -9,12 +9,12 @@ permalink: /fr/davecore-run-ep/
 tags:
 - Electro
 - Breaks
-title: Davecore – Courez ! PE
+title: Davecore – Run! EP
 ---
 
 
-"Run! EP" est
-Il s'agit d'un EP de Davecore sorti en 2002 sur le label suédois "Kône Records".
+「Run! EP」は、
+2002年にスウェーデンのレーベル「Kône Records」からリリースされたDavecoreによるEPです。
 
 
 #### Liste des chansons

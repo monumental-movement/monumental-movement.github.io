@@ -46,7 +46,7 @@ color: #fff;
 
 | Travail | Artiste | Année | Caractéristiques |
 |------|--------------|----|------|
-| *Ambient 1 : Musique pour les aéroports* | Brian Eno | 1978 | Définir le concept d'"ambiance" |
+| *Ambient 1 : Musique pour les aéroports* | Brian Eno | 1978 | Définir le concept d'« ambiance » |
 | *Un autre monde vert* | Brian Eno | 1975 | Pionnier des sensibilités post-rock |
 | *Phèdre* | Rêve de mandarine | 1974 | Innovation basée sur le séquenceur |
 | *Musique discrète* | Brian Eno | 1975 | Expérience de boucle de bande |
@@ -146,7 +146,7 @@ color: #fff;
 | Travail | Artiste | Année | Caractéristiques |
 |------|--------------|----|------|
 | *Promesses* | Points flottants, Pharoah Sanders et LSO | 2021 | Jazz x Classique x Ambient |
-| *Lamentations* | William Basinski | 2020 | L'esthétique de l'effondrement à l'ère numérique |
+| *Lamentations* | William Basinski | 2020 | L'esthétique effondrée à l'ère numérique |
 | Projets ambiants d'IA | Divers | Années 2020 | Musique infiniment générative |
 | *Tout* | Prairie lente | 2022 | Postclassique méditatif |
 

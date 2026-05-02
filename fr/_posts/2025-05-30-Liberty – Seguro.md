@@ -10,13 +10,13 @@ tags:
 - Electronic
 - Hard Trance
 - 00s
-title: Liberté – Sécurité
+title: Liberty – Seguro
 ---
 
 
-Liberty est un duo composé des DJ/producteurs belges Johan Goyvaerts (DJ Liberty) et Maurits Engelen (Maurizzio). L'oncle de Maurizzio est Praga Khan, qui est considéré comme l'un des pionniers de la scène belge new beat/acid house/techno-electronic dance music.
+Libertyは、ベルギーのDJ・プロデューサー Johan Goyvaerts(DJ Liberty)とMaurits Engelen(Maurizzio)によるデュオ。Maurizzioの叔父は、ベルギー発祥のニュービート/アシッドハウス/テクノエレクトロニックダンスミュージックシーンのパイオニアの一人とみなされているPraga Khan(プラガ・カーン)。
 
-"Seguro" est un morceau de hard trance sorti par le label belge No Name Records Trance en 2000.
+「Seguro」は、2000年にベルギーのレーベルNo Name Records Tranceからリリースされたハードトランストラック。
 
 #### Liste des chansons
 ```md

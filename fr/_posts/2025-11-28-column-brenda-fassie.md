@@ -11,7 +11,7 @@ tags:
 - African
 - 80s
 - 90s
-title: '[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de
+title: '[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de
   lutte'
 ---
 
@@ -130,7 +130,7 @@ Dans les œuvres de cette période, vous pouvez entendre les expressions vocales
 
 ---
 
-#8. Voix et corps : présence scénique et technique de chant
+# 8. Voix et corps : présence scénique et technique de chant
 
 Le charme de Brenda réside dans la qualité de sa voix elle-même. Ses armes étaient un médium épais et ferme, une expressivité alliant puissance et lyrisme et une approche improvisée du rythme. La mise en scène impliquait souvent un dialogue avec le public et avait le pouvoir de l'unifier.
 
@@ -184,7 +184,7 @@ flowchart TB
 
 # 13. Évaluation socioculturelle et influence sur la postérité
 
-Les réalisations de Brenda vont au-delà du succès musical et ont un impact culturel et social. Elle a poussé les voix des townships et des communautés noires au centre de la musique pop, a contribué à la visibilité LGBTQ et a ouvert la voie à la prochaine génération d’artistes noires.
+Les réalisations de Brenda vont au-delà du succès musical et ont un impact culturel et social. Elle a poussé les voix des townships et des communautés noires au centre de la musique pop, a contribué à la visibilité LGBTQ et a ouvert la voie à la prochaine génération de femmes artistes noires.
 
 D’un autre côté, les reportages sur les problèmes et les scandales liés à la drogue ont également fourni du matériel pour montrer les côtés lumineux et sombres des étoiles. Aujourd’hui, elle reste une figure emblématique de l’histoire de la musique sud-africaine.
 

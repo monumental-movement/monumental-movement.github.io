@@ -50,7 +50,7 @@ color: #fff;
 Les instruments à percussion sont le début de la musique et le battement du cœur du monde.
 Les tambours des villages africains remplacent les paroles et les congas latino-américaines sont une continuation de la prière.
 Et dans les villes après la révolution industrielle, il s’est synchronisé avec le rythme des machines.
-La batterie est née au début du 20ème siècle.
+La batterie est née au début du 20e siècle.
 La combinaison de la caisse claire, de la grosse caisse et du charleston a été conçue comme une extension des membres humains,
 Le jazz en a fait une « structure d'improvisation ».
 

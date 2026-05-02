@@ -14,7 +14,7 @@ title: The Rascals – Les gens doivent être libres My World
 ---
 
 
-The Rascals est un groupe de soul aux yeux bleus formé à New York en 1964. Ils ont sorti une série de chansons à succès de 1965 à 1969, et People Got To Be Free (Hymn to Freedom) est l'une de leurs chansons à succès et de leurs chansons phares.
+The Rascals est un groupe de soul aux yeux bleus formé à New York en 1964. Ils ont sorti une série de chansons à succès de 1965 à 1969, et People Got To Be Free (Hymn to Freedom) est l'une de leurs chansons à succès et de leurs chansons signature.
 
 Le groupe a également influencé des musiciens japonais tels que Shogo Hamada et Tatsuro Yamashita.
 #### Liste des chansons

@@ -82,7 +82,7 @@ En particulier, *Black Earth* est traité comme un chef-d'œuvre du genre, avec 
 
 ---
 
-### ● L'ensemble Kilimanjaro Darkjazz (TKDE)
+### ● L'Ensemble Kilimanjaro Darkjazz (TKDE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zhaVSloxRmk?si=7SQMyYqa_WfQ6YCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -218,7 +218,7 @@ flowchart TD
 
 ## 8. État actuel du dark jazz
 A travers de longs mixages sur YouTube et des vidéos « night view + dark jazz » des téléspectateurs,
-Depuis les années 2020, on assiste à une remise en question de la musique, notamment auprès des jeunes auditeurs.
+Depuis les années 2020, il y a une remise en question chez les jeunes auditeurs.
 
 - La « musique calme » gagne en popularité parallèlement à la tendance du Lo-fi Hip Hop
 - Utilisé comme BGM pour la production vidéo, le VJ et les films indépendants
@@ -243,7 +243,7 @@ Il y a encore de fortes chances qu'il devienne le « son de la ville » au 21e s
 ---
 
 # A la fin
-Le dark jazz n’est pas la musique d’ambiance d’un bar ou les effets sonores d’une ville nocturne.
+Le dark jazz n’est pas la musique d’ambiance d’un bar ou les effets sonores d’une ville nocturne ;
 **Il s'agit d'un art moderne qui dépeint la solitude et les ombres des villes en utilisant uniquement le son. **
 
 Chaque artiste, principalement Bohren & der Club de Gore, a dessiné différentes manières de dessiner les ombres.

@@ -57,11 +57,11 @@ Le son du TR-808 est généré par des circuits analogiques et non par des écha
 
 Il s’agissait d’une « contrainte » de conception et également d’une « instabilité ».
 
-En particulier, le son de la grosse caisse est généré par un circuit oscillateur en pont de type T. Ce circuit produit une onde sinusoïdale décroissante, créant le son de basse distinctif du « bong ». En ajustant la durée de cette décroissance, un son semblable à celui d’une sous-basse est créé.
+En particulier, le son de la grosse caisse est généré par un circuit oscillateur en pont de type T. Ce circuit produit une onde sinusoïdale décroissante, créant ce boom de basse distinctif. En ajustant la durée de cette décroissance, un son semblable à celui d’une sous-basse est créé.
 
 En conséquence, le TR-808 est devenu plus qu'une simple boîte à rythmes, il a fonctionné comme un « instrument de basse ».
 
-Les différences individuelles sont encore plus importantes. Même avec le même TR-808, le son est légèrement différent. Cela est dû aux variations des pièces utilisées dans la fabrication et constitue une caractéristique difficile à reproduire avec les équipements numériques modernes.
+Les différences individuelles sont encore plus importantes. Même avec le même TR-808, le son est légèrement différent. Cela est dû aux variations dans les pièces utilisées dans la fabrication et constitue une caractéristique difficile à reproduire avec les équipements numériques modernes.
 
 Le fait que le son ne soit pas parfaitement reproduit signifie que chaque prestation sera légèrement différente. Cela crée une fluctuation similaire à celle d’une performance humaine.
 
@@ -148,9 +148,9 @@ flowchart LR
 
 > Le moment où la basse TR-808 a changé le rythme au coin d'une rue
 
-Connue comme « un des premiers classiques du 808 », cette chanson est une fusion de hip-hop et d’électro. Les basses profondes du kick, le son sec de la caisse claire et le rythme séquencé sont tous uniques au 808.
+Connue comme « l’un des premiers classiques du 808 », cette chanson est une fusion de hip-hop et d’électro. Les basses profondes du kick, le son sec de la caisse claire et le rythme séquencé sont tous uniques au 808.
 
-Pour anecdote, au moment de la production, Afrika Bambaataa a déclaré : « Je cherchais un son qui ne pouvait pas être frappé par des mains humaines. » La précision de l'enregistrement et la fluctuation de l'analogique étaient délicieusement mélangées, donnant à la musique une sensation urbaine futuriste.
+Pour l'anecdote, au moment de la production, Afrika Bambaataa a déclaré : « Je cherchais un son qui ne pouvait pas être frappé par des mains humaines. » La précision de l'enregistrement et la fluctuation de l'analogique étaient délicieusement mélangées, donnant à la musique une atmosphère futuriste et urbaine.
 
 ---
 
@@ -170,7 +170,7 @@ Pendant la production, Marvin Gaye a peaufiné le groove de la chanson à l'aide
 
 Les percussions 808 ont également été largement utilisées sur le premier album des Beastie Boys. La basse lourde au début de « No Sleep Till Brooklyn » est l’impact produit par le 808.
 
-Pour l'anecdote, les membres ont apparemment utilisé un séquenceur pas à pas pour "jouer" le rythme au lieu de frapper directement le 808. Le résultat est un groove à la fois mécanique et libre.
+Pour anecdote, les membres ont apparemment utilisé un séquenceur pas à pas pour "jouer" le rythme au lieu de frapper directement le 808. Le résultat est un groove à la fois mécanique et libre.
 
 ---
 
@@ -233,7 +233,7 @@ En regardant ces chefs-d'œuvre, vous pouvez voir que le 808 est plus qu'une sim
 
 ## Pourquoi le 808 est-il toujours utilisé ?
 
-De nos jours, le son du TR-808 est également reproduit par logiciel. Cependant, le mot « 808 » fonctionne toujours comme une sorte de concept musical, pas seulement comme un élément d'équipement.
+De nos jours, le son du TR-808 est également reproduit par logiciel. Cependant, le mot « 808 » fonctionne toujours comme une sorte de concept musical, et non comme un simple élément d'équipement.
 
 Surtout dans le hip-hop, le kick 808 est traité comme la ligne de basse elle-même. Il crée des mélodies en changeant la hauteur, brouillant les frontières entre rythme et harmonie.
 
@@ -241,7 +241,7 @@ C’est une idée qui n’existait pas dans la théorie musicale conventionnelle
 
 Et dans la production moderne, 808 sons sont traités, déformés, étirés et superposés. Même ainsi, le « 808 » n’est pas perdu.
 
-En effet, il ne s'agit pas simplement d'un son, mais d'une norme pour « la façon dont les basses devraient être ».
+En effet, il ne s'agit pas simplement d'un son, mais d'une norme pour « ce que devrait être la basse ».
 
 > 808 est passé d'une machine à un concept
 

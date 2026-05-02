@@ -13,7 +13,7 @@ title: Denki Groove – Orange Remixes
 ---
 
 
-"ORANGE REMIXES" contient des versions remixées de chansons de l'album "ORANGE" (1998) de Denki Groove par d'autres artistes et producteurs. Le remixeur inclut la participation d'artistes et de créateurs nationaux et internationaux célèbres et contient des chansons qui ajoutent de nouvelles interprétations et arrangements à la musique de Denki Groove.
+"ORANGE REMIXES" contient des versions remixées de chansons de l'album "ORANGE" de Denki Groove (1998) par d'autres artistes et producteurs. Le remixeur inclut la participation d'artistes et de créateurs nationaux et internationaux célèbres et contient des chansons qui ajoutent de nouvelles interprétations et arrangements à la musique de Denki Groove.
 
 Couvrant des genres tels que la musique électronique, la techno, la house et l'ambient, vous pourrez profiter d'une variété de styles et d'approches musicales. Les remixeurs poussent encore plus loin les chansons originales de Denki Groove en y injectant leurs propres idées et sons.
 

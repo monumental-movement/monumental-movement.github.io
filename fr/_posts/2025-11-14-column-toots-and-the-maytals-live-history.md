@@ -96,7 +96,7 @@ Lors de performances live, Toots invitait parfois les membres du public à danse
 
 ### 2.2 « Funky Kingston » et expansion en Amérique (1975)
 
-En 1975, avec la sortie de l'album "Funky Kingston", ils partent en tournée à New York. Des chansons comme « Pressure Drop », « Monkey Man » et « Funky Kingston » ont été jouées, et le public a dansé et chanté au rythme des appels de Toots.
+En 1975, avec la sortie de l'album « Funky Kingston », ils tournent à New York. Des chansons comme « Pressure Drop », « Monkey Man » et « Funky Kingston » ont été jouées, et le public a dansé et chanté au rythme des appels de Toots.
 
 **Caractéristiques du spectacle live** :
 
@@ -176,7 +176,7 @@ Les spectacles live fonctionnent comme des rassemblements communautaires. Le pub
 Une culture de « l'expérience » de la musique s'est répandue grâce à une communication bidirectionnelle avec le public. Le public participe au spectacle dans le cadre de la scène.
 
 3. **Impact international**
-Grâce à des performances live en Europe et en Amérique, le reggae s'est répandu dans le monde entier et est devenu un moyen d'échange interculturel.
+Grâce à des concerts en Europe et en Amérique, le reggae s'est répandu dans le monde entier et est devenu un moyen d'échange interculturel.
 
 ---
 

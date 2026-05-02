@@ -82,7 +82,7 @@ Vers des morceaux sombres et expérimentaux
 
 Il appelle cela du « yoga psychédélique » et dit vouloir transformer la conscience par la danse.
 
-> Le décor a été conçu autour de courbes rituelles et non du temps.
+> L'ensemble a été conçu autour de courbes rituelles et non du temps.
 
 ---
 
@@ -220,5 +220,14 @@ La situation diffère selon le moment et le lieu. C'était une forme semi-inform
 Il mettait l’accent sur la transformation de la conscience par la danse et croyait que la persistance du temps était importante.
 
 > La fête de Goa Gil était un terrain d'essai pour l'expansion du temps.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yx9c4IrmyT4?si=hBq2uYJyZ6vv9T2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

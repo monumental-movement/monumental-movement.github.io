@@ -9,15 +9,15 @@ permalink: /fr/markus-schulz-fly-to-colors/
 tags:
 - Trance
 - Progressive
-title: Markus Schulz – Voler vers les couleurs
+title: Markus Schulz – Fly To Colors
 ---
 
 
-"Fly To Colors" est une chanson du DJ et producteur allemand de transe Markus Schulz. Cette chanson est incluse dans son album "Progression" (2007).
+「Fly To Colors」は、ドイツのトランスDJ・プロデューサー、マーカス・シュルツ（Markus Schulz）による楽曲です。この曲は、彼のアルバム「Progression」（2007年）に収録されています。
 
-"Fly To Colors" est connu comme un morceau de transe mélodique et émotionnelle et est devenu l'un des sons emblématiques de Marcus Schulz. Les chansons sont caractérisées par de belles mélodies de piano, de magnifiques sons de synthétiseur et des montées et descentes délicates, procurant une excitation émotionnelle aux auditeurs.
+「Fly To Colors」は、メロディックでエモーショナルなトランストラックとして知られており、マーカス・シュルツのシグネチャーサウンドの一つとなっています。曲は美しいピアノメロディや壮大なシンセサイザーサウンド、繊細なビルドアップとドロップが特徴で、聴く人々に感情的な興奮を与えます。
 
-« Fly To Colors » incarne le style de transe classique de Marcus Schulz, avec son rythme énergique et son paysage sonore épique. Il a également été joué par des DJ de transe tels qu'Armin van Buuren et est devenu populaire sur les pistes de danse des clubs et des festivals.
+「Fly To Colors」は、マーカス・シュルツのクラシックなトランススタイルを体現した楽曲であり、エネルギッシュなビートやエピックなサウンドスケープが耳に残ります。また、アーミン・ファン・ビューレン（Armin van Buuren）などのトランスDJによってプレイされ、クラブやフェスティバルのダンスフロアで人気を集めました。
 
 
 #### Liste des chansons

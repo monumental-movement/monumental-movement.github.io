@@ -72,11 +72,11 @@ En particulier dans les performances d'improvisation, les intervalles qui étaie
 
 ---
 
-## Chapitre 3 : La théorie et la pratique de Joe Maneri
+## Chapitre 3 : La théorie et la pratique de Joe Maneri
 
 ### 3-1 Contexte et positionnement
 
-Joe Maneri est une personne qui a développé sa propre théorie microtonale alors qu'il était actif en tant que saxophoniste et clarinettiste. Bien qu'il soit basé sur un tempérament égal à 24, il mettait également l'accent sur le sens de l'intonation juste et était un éducateur qui liait étroitement la théorie et la pratique.
+Joe Maneri est une personne qui a développé sa propre théorie microtonale alors qu'il était actif comme saxophoniste et clarinettiste. Bien qu'il soit basé sur un tempérament égal à 24, il mettait également l'accent sur le sens de l'intonation juste et était un éducateur qui liait étroitement la théorie et la pratique.
 
 ### 3-2 Structure de la théorie microtonale
 
@@ -107,7 +107,7 @@ Dans l'improvisation, la tension et la libération sont créées en augmentant e
 Maneri a mené des activités éducatives principalement à Boston et a formé de nombreux disciples. Son système éducatif présente les caractéristiques suivantes.
 
 * Accent sur l'entraînement auditif du sens microtonal
-* Analyse du continuum de séquence pour la performance improvisée
+* Analyse du continuum de séquences pour la performance improvisée
 * Comprendre la hauteur relative à travers des expériences de résonance parmi les disciples
 
 Ses étudiants développent la méthodologie de Maneri et l'appliquent à de plus grands ensembles et projets d'enregistrement. En conséquence, les fondements techniques du jazz microtonal continuent d’être hérités et élargis.

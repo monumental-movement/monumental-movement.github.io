@@ -33,7 +33,7 @@ Il y a trois caractéristiques de la musique underground.
 - Expérimentabilité
 
 Dans les années 1970, le punk devient son symbole.
-Dans les clubs de Londres et de New York, un esprit DIY en matière de production musicale se répand en dehors des grands labels.
+Dans les clubs de Londres et de New York, un esprit de production musicale DIY se répand en dehors des grands labels.
 
 Dans les années 1980, cette culture underground s’est étendue à la musique électronique.
 
@@ -114,7 +114,7 @@ Dans les années 2000, la structure de la musique underground a considérablemen
 
 La raison est Internet.
 
-L'avènement de MySpace, des blogs, des forums, etc. a changé la façon dont la musique est découverte.
+L'avènement de MySpace, des blogs, des forums, etc. a changé notre façon de découvrir la musique.
 
 Il était une fois
 

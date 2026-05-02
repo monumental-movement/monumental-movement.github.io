@@ -11,13 +11,13 @@ tags:
 - Euro House
 - Hi NRG
 - 90s
-title: E-Rotic – Aidez-moi Dr Dick
+title: E-Rotic – Help Me Dr. Dick
 ---
 
 
-E-Rotic est un groupe allemand d'Eurodance formé en 1994. Les premiers membres étaient la chanteuse Lyane Leigh et le rappeur Richard Michael Smith (alias Raz-Ma-Taz). Le producteur est David Brandes.
+1994年に結成されたE-Rotic（エロティック）はドイツのユーロダンスアクト。初期のメンバーはヴォーカリストLyane LeighとラッパーRichard Michael Smith（別名Raz-Ma-Taz）。プロデューサーは、David Brandes。
 
-"Help Me Dr. Dick" est un morceau Eurohouse/Eurodance sorti en 1996 par le label dance-pop Blow Up à Stuttgart, en Allemagne.
+「Help Me Dr. Dick」は、1996年にドイツ、シュトゥットガルトのダンスポップレーベルBlow Upからリリースされたユーロハウス・ユーロダンストラック。
 
 #### Liste des chansons
 ```md

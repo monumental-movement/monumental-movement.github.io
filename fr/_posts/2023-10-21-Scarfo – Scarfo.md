@@ -9,11 +9,11 @@ permalink: /fr/scarfo-scarfo/
 tags:
 - Pops
 - Rock
-title: Écharpe – Écharpe
+title: Scarfo – Scarfo
 ---
 
 
-Scarfo est un groupe de rock britannique formé en 1994 par Jamie Hince, Nick Prior et Al Saunders.
+Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
 
 #### Liste des chansons
 ```md

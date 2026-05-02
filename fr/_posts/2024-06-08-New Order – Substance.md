@@ -11,13 +11,13 @@ tags:
 - Synth-Pop
 - Rock
 - 80s
-title: Nouvel ordre – substance
+title: New Order – Substance
 ---
 
 
-New Order est un groupe de rock britannique dont le prédécesseur était Joy Division, l'un des groupes post-punk les plus représentatifs.
+New Order（ニュー・オーダー）は、ポストパンクの代表的なバンドの一つJoy Division（ジョイ・ディヴィジョン）を前身とするUKロックバンド。
 
-Cette cassette est une compilation de singles de New Order sortis en 1987 et comprend des succès tels que « Ceremony », « Blue Monday » et « Confusion ».
+このカセットは1987年にリリースされたNew Orderのシングルコンピレーションで、「Ceremony（セレモニー）」「Blue Monday（ブルーマンデー）」「Confusion（コンフュージョン）」などのヒット曲が収録されている。
 
 #### Liste des chansons
 ```md

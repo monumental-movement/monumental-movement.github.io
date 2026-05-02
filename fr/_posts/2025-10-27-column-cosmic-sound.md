@@ -25,7 +25,7 @@ Personne ne savait que cet endroit, qui n'était qu'un lieu de villégiature pou
 Le personnage central est **Daniele Baldelli**.
 Il n'est pas seulement un DJ, mais il est également connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
 
-La scène disco de l’époque était dominée par les rythmes 4/4, représentés par la soul et la house music américaines.
+La scène disco de l'époque était dominée par le rythme 4/4, représenté par la soul et la house music américaines.
 Cependant, Baldelli entremêle musique ethnique, sons électroniques, rock progressif, batterie africaine et même krautrock.
 **Nous avons présenté le concept de "tempo cosmique"**, qui permet de changer librement le BPM.
 
@@ -195,6 +195,15 @@ Cet ADN est certainement bien vivant.
 
 > "Cosmique signifie rechercher l'univers intérieur, pas l'univers."
 > -Danièle Baldelli
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/abOIMrM9L_Y?si=ViroigDH0MaB6ivN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

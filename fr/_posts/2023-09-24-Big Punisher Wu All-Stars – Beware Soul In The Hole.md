@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Wu-Tang
 - 90s
-title: Big Punisher Wu All-Stars – Attention à l’âme dans le trou
+title: Big Punisher Wu All-Stars – Méfiez-vous de l’âme dans le trou
 ---
 
 

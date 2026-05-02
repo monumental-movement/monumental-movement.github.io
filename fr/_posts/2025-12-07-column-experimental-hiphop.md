@@ -126,13 +126,13 @@ Ceux-ci ont créé le terrain musical qui a directement conduit aux Shabazz Pala
 Shabazz Palaces a été lancé vers 2009, dirigé par Ishmael Butler (anciennement de Digable Planets).
 
 ### Caractéristiques
-- Construit avec une combinaison de percussions ouest-africaines, de psychédélisme, de son ambiant et expérimental.
+- Une combinaison de percussions ouest-africaines, de psychédélisme, de son ambiant et expérimental.
 - Le rap est souvent mélodique et cryptographique, et ne repose pas sur la structure traditionnelle de 16 mesures.
 - "Black Up" (2011) est un chef d'oeuvre du hip-hop abstrait des années 2010.
 
 ---
 
-## 5. Expérience de battement : « désalignement » et grooves non linéaires d'après J Dilla
+## 5. Expérience de battement : « désalignement » et grooves non linéaires d'après J Dilla
 
 Au cœur du hip-hop expérimental depuis les années 2000 se trouve la « réinvention du rythme ».
 
@@ -193,7 +193,7 @@ Cela a donné naissance à une tendance axée sur la texture.
 
 - Poésie/usage philosophique.
 - Beats cross jazz/abstrait/lo-fi.
-- Haute densité et abstraction des mots.
+- La densité et l'abstraction des mots sont élevées.
 
 ---
 

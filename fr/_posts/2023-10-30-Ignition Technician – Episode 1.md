@@ -9,13 +9,13 @@ permalink: /fr/ignition-technician-episode-1/
 tags:
 - Techno
 - 00s
-title: Technicien d’allumage – Épisode 1
+title: Ignition Technician – Episode 1
 ---
 
 
-Ignition Technician est un groupe composé de Cracker Jack, DJ Special Needs et Slut Peddlers.
+Ignition Technician（イグニッション テクニシャン）は、Cracker Jack, DJ Special Needs, Slut Peddlersからなるグループです。
 
-Cet EP est sorti en 2001 sur le label britannique Tortured Records.
+このEPは、2001年にUKのレーベルTortured Recordsからリリースされました。
 
 #### Liste des chansons
 ```md

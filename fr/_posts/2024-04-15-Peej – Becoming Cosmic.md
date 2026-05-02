@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - Rare
-title: Peej – Devenir cosmique
+title: Peej – Becoming Cosmic
 ---
 
 
-Un morceau house/deep house de Paul Johnston, également connu sous le nom de Peej.
+PeejことPaul Johnstonによるハウス・ディープハウストラック。
 
-Sorti en 2005 sur DiY Discs, le successeur du label de musique house britannique Strictly 4 Groovers.
+UKのハウスミュージックレーベルStrictly 4 Grooversの後継DiY Discsから2005年にリリース。
 
 #### Liste des chansons
 ```md

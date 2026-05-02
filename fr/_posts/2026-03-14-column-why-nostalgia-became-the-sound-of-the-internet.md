@@ -286,7 +286,7 @@ C'est **rétro-futur**.
 
 c'est
 
-"L'avenir vu du passé"
+"Le futur vu du passé"
 
 C'est l'esthétique.
 

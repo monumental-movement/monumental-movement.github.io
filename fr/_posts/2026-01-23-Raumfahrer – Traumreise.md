@@ -14,7 +14,7 @@ title: Raumfahrer – Traumreise
 ---
 
 
-Raumfahrer est un projet du DJ/producteur allemand Hard Trance Dirk Nothroff (DJ The Crow) et David Rzenno. Il travaille également sous le nom d'Überdruck.
+Raumfahrer is a project by German Hard Trance DJ/producers Dirk Nothroff (DJ The Crow) and David Rzenno. Il travaille également sous le nom d'Überdruck.
 
 "Traumreise", sorti en 2001, est un morceau de Fenslau Acid/Hard Trance qui a refait l'hymne classique de LDC en hommage à T. Fenslau.
 

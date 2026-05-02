@@ -49,7 +49,7 @@ Zeni Geva a été créée en 1987. Le personnage central est KK Null. Il avait d
 - **Ikuo Taketani** (Dr)
 -**Elle** (Vo)
 
-Le nom du groupe serait dérivé du mot « Zeni » et du mot allemand « Gewalt » (violence), et serait ancré dans le concept social de **Money Violence**.
+Le nom du groupe serait dérivé du mot « Zeni » et du mot allemand « Gewalt » (violence), et est ancré dans le concept social de **Money Violence**.
 
 ### Premiers travaux
 - **Comment tuer (1987)**
@@ -69,7 +69,7 @@ Le premier album complet enregistré par Albini.
 La violence de Zeni Geva et le son sec et direct d'Albini s'accordent parfaitement, ce qui leur vaut de très bonnes critiques à l'étranger.
 
 ### "Désir d'agonie (1993)"
-- Sorti du label américain **Alternative Tentacles** (organisé par Jello Biafra)
+- Sortie du label américain **Alternative Tentacles** (organisé par Jello Biafra)
 - La tournée à l'étranger commence sérieusement
 - A sorti de nombreux EP et singles à peu près à la même époque (Nai-Ha, Disgraceland, etc.)
 

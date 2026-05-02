@@ -9,11 +9,11 @@ permalink: /fr/headshop-4-sale/
 tags:
 - Techno
 - Hardcore Techno
-title: Headshop – 4 Promos !
+title: Headshop – 4 Sale!
 ---
 
 
-Headshop est un projet d'Olaf Pozsgay (The Viking/Dirty Dozen), un artiste techno acide hardcore électronique actif depuis les années 90.
+Headshopは、90年代から活動しているエレクトロニック・ハードコア・ アシッド ・テクノ アーティストOlaf Pozsgay（The Viking/Dirty Dozen）のプロジェクト。
 
 #### Liste des chansons
 ```md

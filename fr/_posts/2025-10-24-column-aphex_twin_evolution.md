@@ -20,7 +20,7 @@ title: '[Chronique] Les débuts d''Aphex Twin et nos jours -- au-delà du point 
 
 Texte : mmr｜Thème : Comparer les premiers travaux d'Aphex Twin avec leurs réalisations actuelles et interpréter de manière critique les changements dans leur structure acoustique, leur philosophie et leur technologie.
 
-Au début des années 1990, Richard D. James (Aphex Twin) est apparu comme quelqu'un qui a complètement bouleversé la grammaire existante des genres comme la techno et l'ambient. Ses premières œuvres sont des **expériences sonores où les rêves des machines et les illusions humaines s'entrelacent**, et son son actuel se situe entre **les structures de type intelligence artificielle et le retour de la nostalgie**.
+Au début des années 1990, Richard D. James (Aphex Twin) est apparu comme quelqu'un qui a complètement bouleversé la grammaire existante des genres comme la techno et l'ambient. Ses premières œuvres sont des expérimentations sonores où s'entremêlent rêves mécaniques et illusions humaines, et son son actuel se situe entre une structure d'intelligence artificielle et un retour à la nostalgie.
 
 Ci-dessous, nous comparerons et examinerons ces « changements » et « imchangements » à partir des quatre axes du travail, de la technologie, de l'esthétique et de l'idéologie.
 
@@ -86,7 +86,7 @@ C'est étonnant qu'ils aient créé cette complexité dans un environnement pré
 ### 2.2 « Viens voir papa » « Windowlicker » ─ Médias et cauchemars
 
 De 1997 à 1999, Aphex Twin a combiné la musique avec « l'horreur visuelle ».
-Le groupe PV créé en collaboration avec Chris Cunningham a transformé l'instabilité du son électronique en amorphe de la vidéo.
+Le groupe PV créé en collaboration avec Chris Cunningham **a converti l'instabilité du son électronique en amorphité des images**.
 
 À l'époque où MTV le présentait comme le "génie le plus étrange".
 Il sentait déjà que sa musique risquait de s’intégrer à la culture populaire.
@@ -153,7 +153,7 @@ C’est dans cet espace vide que les auditeurs ont la possibilité de projeter l
 
 Après Aphex Twin, la musique électronique n'est plus seulement un « genre ».
 Les artistes influencés par lui incluent Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-Toutes ces questions reconsidèrent la « génération de sens » du son lui-même.
+Toutes ces questions reconsidèrent la génération de sens du son lui-même.
 
 > « À une époque où la musique est convertie en données, Aphex Twin est devenu un « sculpteur de perception ».
 

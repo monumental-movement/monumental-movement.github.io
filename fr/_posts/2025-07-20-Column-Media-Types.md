@@ -167,7 +167,7 @@ Audition : Presque claire, mais comparée à un CD, elle peut sembler un peu com
 
 #### Enregistrements
 
-Situation actuelle : À l’échelle mondiale, les ventes de disques analogiques se redressent régulièrement, centrées sur la demande vintage et sur des données démographiques axées sur la qualité sonore. La régression analogique est particulièrement visible chez les jeunes.
+Situation actuelle : À l'échelle mondiale, les ventes de disques analogiques se redressent régulièrement, centrées sur la demande vintage et une démographie axée sur la qualité sonore. La régression analogique est particulièrement visible chez les jeunes.
 
 Avenir : Un marché restreint mais durable est attendu avec le soutien des passionnés de sources sonores analogiques. Des produits hybrides (analogique + numérique) sont également disponibles.
 

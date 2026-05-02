@@ -60,7 +60,7 @@ Dans le même temps, un mouvement visant à fusionner le rock et l’art d’ava
 
 Tangerine Dream a été formé en 1967 et leurs premiers travaux combinaient des formations rock et une improvisation avant-gardiste. Au début des années 1970, il commence à composer à l’aide de synthétiseurs et de séquenceurs.
 
-Ce qui le distingue est sa structure, qui superpose des changements tonals et des mélodies improvisées sur un motif séquentiel répétitif. Cette méthode a créé une structure longue qui musicalise le flux du temps lui-même, ce qui diffère des formats de chansons traditionnels.
+Ce qui le distingue est sa structure, qui superpose des changements tonals et des mélodies improvisées sur un motif séquentiel répétitif. Cette méthode a créé une structure de longue durée qui musicalise le flux du temps lui-même, ce qui diffère des formats de chansons traditionnels.
 
 ### Klaus Schulze
 
@@ -82,9 +82,9 @@ L'élément le plus distinctif de la Berlin School est le motif sonore répété
 
 ### Format long
 
-Alors que la musique pop et rock traditionnelle est basée sur des structures de chansons qui durent plusieurs minutes, il n'est pas rare qu'une seule chanson de la musique de la Berlin School dure plus de 20 minutes. Il s’agit d’une forme rendue possible par le développement de la performance improvisée et de la technologie d’enregistrement.
+Alors que la musique pop et rock conventionnelle est basée sur des structures de chansons qui durent plusieurs minutes, il n'est pas rare qu'une seule chanson de la musique de la Berlin School dure plus de 20 minutes. Il s’agit d’une forme rendue possible par le développement de la performance improvisée et de la technologie d’enregistrement.
 
-### Conception sonore
+### Conception des tons
 
 L'instabilité et la fluctuation des synthétiseurs analogiques sont devenues partie intégrante de l'esthétique sonore de l'école de Berlin. Les infimes écarts provoqués par les changements de température et les fluctuations de tension donnent un aspect organique à la répétition mécanique.
 
@@ -102,13 +102,13 @@ La Berlin School se situe entre la musique électronique académique et la musiq
 
 Avec la diffusion des synthétiseurs numériques et du MIDI, l'environnement de production a radicalement changé. Les limitations inhérentes aux équipements analogiques ont été réduites et la reproductibilité améliorée. D’un autre côté, la contingence observée au début de la Berlin School est réduite.
 
-Durant cette période, la méthode de la Berlin School est réinterprétée comme le prototype de la techno et de la transe. La fusion de rythmes et de séquences répétitifs prend un nouveau sens dans le contexte de la musique dance.
+Durant cette période, la méthode de la Berlin School est réinterprétée comme le prototype de la techno et de la transe. La fusion de rythmes et de séquences répétitifs prend un nouveau sens dans le contexte de la dance music.
 
 ---
 
 ## Chapitre 6 L'héritage des temps modernes
 
-Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de la Berlin School attire à nouveau l'attention dans les petits studios et l'improvisation live. Ce n’est pas lié à la nostalgie, mais à un intérêt croissant pour la musique générée en temps réel.
+Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de la Berlin School attire à nouveau l'attention dans les petits studios et dans l'improvisation live. Ce n’est pas lié à la nostalgie, mais à un intérêt croissant pour la musique générée en temps réel.
 
 ---
 

@@ -10,15 +10,15 @@ tags:
 - House
 - Future Jazz
 - 00s
-title: Tim Hutton – J'ai été un imbécile
+title: Tim Hutton – Been A Fool
 ---
 
 
-Tim Hutton est un producteur, auteur-compositeur et multi-instrumentiste britannique. Il est également actif au sein du duo techno expérimentale Vulva et Yoni avec Thomas Melchior.
+Tim Hutton(ティム・ハットン)は、UKのプロデューサー、ソングライター、マルチインストゥルメンタリスト。Thomas Melchiorとの実験的なテクノデュオVulva、Yoniなどでも活動している。
 
-"Been A Fool" est un morceau de jazz house sorti en 2000.
+「Been A Fool」は、2000年にリリースされたハウス・フューチャージャズトラック。
 
-Le premier morceau de la face B est un remix du groupe hip-hop britannique The Nextmen, qui a créé des remix pour Public Enemy, the Pharcyde, Blackalicious, etc.
+B面1曲目は、Public Enemy, the Pharcyde, Blackaliciousなどのremixを手がけるUKのHipHopグループThe Nextmenによるremix。
 
 #### Liste des chansons
 ```md

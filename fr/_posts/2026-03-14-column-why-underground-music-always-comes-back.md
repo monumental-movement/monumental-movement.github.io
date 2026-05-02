@@ -35,7 +35,7 @@ Beaucoup de nouvelles musiques viennent d’endroits obscurs.
 - petit magasin de disques
 - Cassette autoproduite
 
-La musique qui naît dans ces lieux est souvent au premier abord « des sons qu'on ne comprend pas ».
+La musique née dans ces lieux est souvent au premier abord « des sons qu'on ne comprend pas ».
 
 En regardant l'histoire,
 
@@ -97,7 +97,7 @@ Deuxièmement, il existe une **liberté technique**.
 - Matériel d'enregistrement peu coûteux
 - de nouveaux instruments
 - radio pirate
--Internet
+- Internet
 
 Lorsque la technologie se généralise, la musique se démocratise soudainement.
 
@@ -175,7 +175,7 @@ Ce changement n’est pas la fin de la culture.
 
 Cela fait plutôt **partie d'un cycle**.
 
-> Quand la culture underground connaît du succès, elle devient la culture dominante, et à partir de ce moment, le prochain underground naît.
+> Quand la culture underground connaît du succès, elle devient la culture dominante, et à partir de ce moment, le prochain underground est né.
 
 ---
 
@@ -193,7 +193,7 @@ Il s’agit d’une réaction de la jeune génération.
 - La culture est désormais sécurisée
 - Les messages ont été affaiblis
 
-Lorsqu’une nouvelle génération ressent cela, elle s’en va ailleurs.
+Lorsqu’une nouvelle génération ressent cela, elle part ailleurs.
 
 - fête d'entrepôt
 - Événements de bricolage

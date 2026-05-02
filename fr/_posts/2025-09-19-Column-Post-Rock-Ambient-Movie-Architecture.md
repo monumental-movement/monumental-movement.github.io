@@ -161,7 +161,7 @@ L’ambient/post-rock est fortement présent en dialogue avec les espaces urbain
 
 Le post-rock/ambient n’est pas seulement un genre musical, mais a évolué en tant que méthode de conception du temps et de l’espace.
 
-Expansion psychologique au cinéma : manipuler le temps avec des drones, des boucles et des paysages sonores
+Expansion psychologique au cinéma : manipulation du temps avec des drones, des boucles et des paysages sonores
 
 Applications en architecture et en urbanisme : l'expérience de rester dans un espace, les lignes de marche et l'harmonie avec les sons de l'environnement urbain
 

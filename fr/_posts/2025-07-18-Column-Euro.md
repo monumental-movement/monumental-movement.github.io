@@ -9,30 +9,29 @@ permalink: /fr/column-euro/
 tags:
 - Euro
 - 90s
-title: '[Chronique] Qu''était-ce que la musique européenne des années 90 ? ──Un festin
-  de pistes de danse et de mélodies'
+title: 【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴
 ---
 
 
-## Qu'était-ce que la musique européenne des années 90 ? ──Un festin de pistes de danse et de mélodies
+## 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴
 
-Texte : mmr｜Thème : Le tableau complet de la culture musicale européenne dans les années 90
+文：mmr｜テーマ：90年代のユーロ・ミュージック文化の全貌
 
-
-
-<hr>
-
-### Quelle est la véritable identité de la musique appelée Euro ?
-
-L'« Euro Music » des années 1990 n'était pas un genre spécifique, mais plutôt un terme général désignant la musique dance-pop populaire qui s'est développée principalement en Europe continentale.
-Les plus emblématiques d'entre eux étaient « Eurobeat » et « Eurodance », mais d'autres genres tels que l'Eurotrance, la haute énergie et la synth pop existaient également en même temps.
-
-En d’autres termes, l’euro des années 1990 était « l’image pop de l’Europe moderne » qui fusionnait culture de la fête, musique dance, mélodies entraînantes et technologie.
 
 
 <hr>
 
-### Principales classifications et caractéristiques des genres
+### Euroと呼ばれる音楽の正体とは？
+
+90年代の「ユーロ・ミュージック（Euro Music）」とは、特定のジャンルというより、ヨーロッパ大陸を中心に発展した大衆的ダンス・ポップ音楽の総称である。
+中でももっとも象徴的なのは「ユーロビート」や「ユーロダンス（Eurodance）」だが、それに留まらず、ユーロトランス、ハイエナジー、シンセポップなども同時期に併走していた。
+
+つまり90年代のユーロは、**パーティ・カルチャー、ダンス・ミュージック、キャッチーなメロディとテクノロジーが融合した“現代ヨーロッパのポップ像”**だったのだ。
+
+
+<hr>
+
+### 主なジャンル分類と特徴
 
 <div class="table-border">
 <table>
@@ -81,20 +80,20 @@ En d’autres termes, l’euro des années 1990 était « l’image pop de l’E
 
 <hr>
 
-### Langage commun entre l'Europe et la pop après la guerre froide
+### 冷戦後ヨーロッパとポップの共通言語
 
-Après la chute du mur de Berlin en 1989, l’Europe s’est rapidement transformée en un marché du divertissement transfrontalier. L'« euro-pop chantée en anglais » a commencé à pénétrer le marché international, même en provenance de pays non anglophones (comme l'Allemagne, les Pays-Bas, l'Italie et la Suède).
+1989年のベルリンの壁崩壊以降、ヨーロッパは急速に国境を越えたエンタメ市場へと変化した。英語圏ではない国々（ドイツ、オランダ、イタリア、スウェーデンなど）からも、“英語で歌うユーロ・ポップ”が国際市場に進出するようになる。
 
-Cela signifie qu’Euromusic est une culture musicale qui donne la priorité au plaisir sensoriel plutôt qu’aux frontières politiques. Du rythme, des synthés et un refrain simple et répétable. Celles-ci sont devenues un « langage commun » qui transcende les langues et les frontières.
+これは、ユーロミュージックが政治的境界よりも感覚的快楽を優先する音楽文化であることを意味している。リズム、シンセ、そしてシンプルで繰り返しやすいサビ。これらは言語や国境を越える“共通言語”となった。
 
 
 <hr>
 
-### Histoires de réussite grand public (1990-1999)
+### メインストリームにおける成功例（1990〜1999）
 
 ● [2 Unlimited – “Get Ready For This” (1991)](https://amzn.to/4mXEgCl)
 
-Des Pays-Bas. « L’hymne de l’Eurodance » est souvent utilisé sur les sites sportifs et dans les publicités.
+オランダ発。スポーツ会場やCMにも多用される“Eurodanceアンセム”。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -102,7 +101,7 @@ Des Pays-Bas. « L’hymne de l’Eurodance » est souvent utilisé sur les site
 
 ● [Ace of Base – “The Sign” (1993)](https://amzn.to/4mXEhGp)
 
-Groupe pop suédois. Classé n°1 sur le Billboard Hot 100 depuis 100 ans.
+スウェーデンのポップグループ。Billboard Hot 100年間1位に輝く。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -110,7 +109,7 @@ Groupe pop suédois. Classé n°1 sur le Billboard Hot 100 depuis 100 ans.
 
 ● [Corona – “Rhythm of the Night” (1994)](https://amzn.to/3KFlcLU)
 
-Fabriqué en Italie. Ce fut également un succès sur le marché latino-américain, démontrant la polyvalence d'Eurodance.
+イタリア産。中南米市場でもヒットし、Eurodanceの汎用性を示す。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -118,91 +117,91 @@ Fabriqué en Italie. Ce fut également un succès sur le marché latino-américa
 
 ● [Eiffel 65 – “Blue (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
 
-Un chef-d'œuvre d'Italo Dance. Une fusion de voix numérique et de mélodie.
+Italo Danceの代表作。デジタルボイスとメロディの融合。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Distribution sonore des années 90
+### 90年代的な音の流通
 
-** ● CD Maxi Single Culture **
+**● CDマキシシングル文化**
 
-Plusieurs remix et faces B sont inclus dans une seule chanson, ce qui la rend adaptée aussi bien aux clubs qu'aux maisons.
+1曲に複数のリミックスやB面を収録し、クラブ〜家庭まで対応。
 
-** ● MTV Europe **
+**● MTV Europe**
 
-Une base de « culture de la danse visuelle » qui vend de la vidéo et de la musique comme un ensemble.
+映像と音楽をセットで売る“ビジュアル・ダンスカルチャー”の拠点に。
 
-** ● Super Eurobeat (Japon) **
+**● スーパーユーロビート（日本）**
 
-Une série développée indépendamment au Japon par Avex. Également lié à la culture Initial D.
+エイベックスが日本で独自展開したシリーズ。頭文字D文化ともリンク。
 
-** ● Disque réimporté produit en Europe et distribué au Japon **
+**● ヨーロッパ製作、日本流通の逆輸入盤**
 
-Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAHARAJA NIGHT)
-
-
-<hr>
-
-### Acceptation de l'euro des années 90 au Japon
-
-**Eurobeat** : développement original par avex
-
-- Impact sur la famille TRF, globe et Komuro.
-
-- Au cœur de la culture Initial D et Parapara.
-
-**Eurodance** : hybride Disco-J-Pop
-
-- Des groupes japonais comme MAX et V6 ont sorti de nombreuses reprises.
-
-**Fusion avec la culture visuelle** : culture européenne non occidentale
-
-- Il a également été incorporé dans les OP d'anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l'euro ».
+イタリア・ドイツ制作、日本企画、国内盤CD（例：MAHARAJA NIGHT）
 
 
 <hr>
 
-### Pourquoi les critiques l'ont-ils ignoré ? ──"Légèreté" et "Anti-art"
+### 日本における90'sユーロの受容
 
-Pendant longtemps, la musique européenne n’a pas été bien accueillie par la critique. La raison est la suivante :
+**ユーロビート**：avexによる独自展開
 
-- Structure simple, paroles superficielles (souvent absurdes)
+- TRF、globe、小室ファミリーへの影響。
 
-- Production de masse/anonymat (la présence d'artistes spécifiques est faible)
+- 頭文字Dやパラパラ文化の中核に。
 
-- Succès commercial = mépris du talent artistique
+**ユーロダンス**：ディスコ～J-Popのハイブリッド
 
-Mais d’un autre côté, cela prouve aussi que la musique peut toucher tout le monde.
+- MAXやV6など、日本のグループがカバーを多数リリース。
 
+**ヴィジュアル文化との融合**：非洋楽的ユーロ文化
 
-<hr>
-
-### Réévaluation et renaissance : la situation dans les années 2020 et au-delà
-
-Ces dernières années, Euromusic a été réévalué des manières suivantes :
-
-- L'euro dance comme origine des sons Hyperpop et Y2K
-
-- Retour des années 90 (Post-Eurodance) sur la scène club
-
-- Comme City Pop, l'Eurobeat du Japon a été redécouvert par la génération Internet.
-
-De plus, l'euro des années 90 touche un nouveau public grâce à une lecture accrue sur Spotify et YouTube.
-
+- アニメOPやゲームBGMにも取り込まれ、“非洋楽的ユーロ文化”が成立。
 
 
 <hr>
 
-### La musique européenne était "un plaisir sans frontières"
+### なぜ批評家は無視したのか？──「軽さ」と「反芸術」
 
-La musique européenne des années 1990 était un phénomène qui a fait de la danse, du plaisir et de la mélodie un langage international, et non des paroles ou de la politique.
-Cette légèreté est devenue une arme qui lui a permis de transcender les frontières et les valeurs des genres.
+ユーロミュージックは批評家からは長らく評価されなかった。理由は以下の通り：
 
-Aujourd’hui, une fois de plus, la « chaleur naïve » de l’euro pourrait nous poser une question qui transcende les genres et les générations.
+- シンプルな構造、歌詞の浅さ（しばしば無意味）
 
-Est-ce pour vous de la nostalgie ou de la nouveauté ?
+- 大量生産／匿名性（特定作家の存在感が薄い）
+
+- 商業的成功＝芸術性の軽視
+
+だが、逆に言えばそれは誰にでも届く音楽であったという証拠でもある。
+
+
+<hr>
+
+### 再評価とリバイバル：2020年代以降の状況
+
+近年、ユーロミュージックは次のような形で再評価されている：
+
+- HyperpopやY2Kサウンドの源流としてのユーロダンス
+
+- クラブシーンにおける90s回帰（Post-Eurodance）
+
+- City Pop同様、ネット世代が再発見した日本経由のユーロビート
+
+また、SpotifyやYouTubeでの再生数増加により、90年代ユーロは新たなリスナー層にも届いている。
+
+
+
+<hr>
+
+### ユーロミュージックは「国境なき快楽」だった
+
+90年代のユーロミュージックは、歌詞でもなく政治でもなく、踊りと快感とメロディを国際語に変えた現象だった。
+その軽やかさこそが、ジャンルの境界や価値観の壁を越えていく武器となった。
+
+いま再び、ユーロの“ナイーヴな熱さ”が、ジャンルや世代を超えて私たちに問いかけているのかもしれない。
+
+それはあなたにとって懐かしさか、それとも新しさか？
 
 <hr>
 

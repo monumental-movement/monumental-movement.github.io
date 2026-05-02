@@ -10,13 +10,13 @@ tags:
 - Rock
 - Parody
 - 7inch
-title: Animaux économiques - Minato no Yoko
+title: Economic Animals - Minato no Yoko
 ---
 
 
-Economic Animals est un groupe masqué dirigé par Tsutomu Sasaki. "The Return of Minato no Yoko" est sorti en 1975 comme suite et parodie de "Minato no Yoko Yokohama Yokosuka" et comme chanson de réponse.
+エコノミック・アニマルズは、佐々木勉が中心となった覆面バンド。「帰ってきた港のヨーコ」は、「港のヨーコ・ヨコハマ・ヨコスカ」の後日譚＆パロディー、アンサーソングとして1975年にリリースされた。
 
-Paroles/composition/chanson : Economic Animals
+作詞・作曲・歌：エコノミック・アニマルズ
 
 #### Liste des chansons
 ```md

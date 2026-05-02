@@ -26,7 +26,7 @@ Le mot années 1960 évoque des images de liberté, d’amour, de musique et de 
 
 Cependant, son éclat a toujours reposé sur l’équilibre. Lorsque les systèmes sociaux sont ébranlés, les gens gagnent en liberté, mais en même temps ils sont également confrontés à l’anxiété et à la confusion. Charles Manson est la personne qui a absorbé et incarné cette anxiété de manière extrême.
 
-Ce n’est pas seulement un criminel, mais quelqu’un qui est entré dans les fissures de son époque, a déformé les idéaux qui existaient là-bas et les a transformés en violence. Dans cet article, nous décrypterons la structure de Manson en croisant l’individu Manson avec l’époque des années 1960.
+Ce n’est pas seulement un criminel, mais quelqu’un qui est entré dans les fissures de son époque, a déformé les idéaux qui existaient là-bas et les a transformés en violence. Dans cet article, nous décrypterons la structure de Manson en faisant coïncider l’individu Manson avec l’époque des années 1960.
 
 > Plus les idéaux étaient fortement recherchés à une époque, plus des distorsions extrêmes risquaient de se produire dans les coulisses.
 
@@ -58,7 +58,7 @@ La musique était au centre de tout. Les Beatles ont publié des œuvres axées 
 
 ### Guerre et division
 
-Mais dans le même temps, la société américaine était profondément divisée. La guerre du Vietnam était au centre de cette situation et les jeunes étaient farouchement opposés au système de conscription. La réalité de la guerre entre dans la vie quotidienne à travers la télévision et la confiance dans la nation est ébranlée.
+Mais dans le même temps, la société américaine était profondément divisée. La guerre du Vietnam en était au centre et les jeunes étaient farouchement opposés au système de conscription. La réalité de la guerre entre dans la vie quotidienne à travers la télévision et la confiance dans la nation est ébranlée.
 
 En outre, la montée du mouvement des droits civiques, les violentes réactions négatives à son encontre et les assassinats de dirigeants politiques se sont poursuivis, déstabilisant la société dans son ensemble. L’écart entre les idéaux et la réalité se creusait rapidement et derrière l’espoir se cachaient toujours la colère et la peur.
 
@@ -96,9 +96,9 @@ Il s'adapte à son environnement et adopte habilement le langage et les valeurs 
 
 Finalement, un groupe de jeunes femmes se forme autour de lui. Ils vivaient ensemble, partageaient de la drogue et acceptaient la parole de Manson comme absolue.
 
-En apparence, cela ressemblait à une commune paisible et libre, mais en réalité c'était une structure de domination complète. La volonté individuelle est progressivement démantelée et remplacée par l'idéologie de Manson.
+En apparence, cela ressemblait à une commune pacifique et libre, mais en réalité c'était une structure de domination complète. La volonté individuelle est progressivement démantelée et remplacée par l'idéologie de Manson.
 
->Les gens qui se sont rassemblés en quête de liberté ont fini par se lier aux relations les plus gênantes.
+>Les gens qui se sont réunis en quête de liberté ont fini par se lier aux relations les plus gênantes.
 
 ---
 
@@ -112,7 +112,7 @@ Ce revers poussa ses idées dans une direction plus extrême.
 
 ### Interprétation de « Helter Skelter »
 
-Manson a créé ses propres interprétations des chansons de The White Album. Il a notamment réinterprété l’expression « Helter Skelter » comme un symbole de guerre raciale et l’a placée au cœur de son idéologie apocalyptique.
+Manson a créé ses propres interprétations des chansons de The White Album. Il a notamment réinterprété l’expression « Helter Skelter » comme un symbole de guerre raciale et l’a placée au centre de son idéologie apocalyptique.
 
 Cette interprétation était entièrement la sienne et n'avait aucun rapport avec la réalité. Cependant, au sein d’une communauté fermée, elle fonctionnait comme la seule vérité.
 
@@ -130,7 +130,7 @@ Le crime a été extrêmement brutal et a eu un fort impact sur la société. Il
 
 ### Réaction de la société
 
-Cet incident a conduit à un changement majeur dans l’opinion des gens sur la culture hippie. La vie communautaire et libre, auparavant décrite comme idéale, a commencé à être réévaluée comme dangereuse et chaotique.
+Cet incident a conduit à un changement majeur dans l’opinion des gens sur la culture hippie. La vie communautaire et libre, précédemment décrite comme idéale, a commencé à être réévaluée comme dangereuse et chaotique.
 
 Les médias ont largement couvert cet incident, soulignant la « fin d'une époque idéale ».
 
@@ -187,7 +187,7 @@ Même si la contre-culture n’a pas complètement disparu, ses idéaux purs ont
 
 ---
 
-## Conclusion : Les distorsions créées par l'époque
+## Conclusion : Distorsion créée par l'époque
 
 Charles Manson était à la fois unique et un produit de son époque, les années 1960. Le fossé qui s’est créé au milieu de changements majeurs dans la société a rendu possible des existences comme la sienne.
 

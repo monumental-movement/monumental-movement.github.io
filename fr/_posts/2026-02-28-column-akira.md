@@ -12,25 +12,24 @@ tags:
 - FilmMusic
 - Cyberpunk
 - 80s
-title: '[Chronique] Pourquoi AKIRA sonne-t-il toujours comme le son du futur ? — Sons
-  folk d''avant-garde et résurgence du cyberpunk'
+title: 【コラム】 AKIRAはなぜいまも未来の音で鳴るのか —— 前衛民族サウンドとサイバーパンク再燃
 ---
 
 
 
-## Prologue : Pourquoi « AKIRA sonne toujours comme le futur »
+## 序章：なぜ「AKIRAはいまも未来に聞こえる」のか
 
-Texte : mmr｜Thème : Pourquoi AKIRA sonne toujours comme le « son du futur » – Prophéties sur la ville et le corps dessinées par des sons folk d'avant-garde
+文：mmr｜テーマ：AKIRAがいまも“未来の音”に聞こえる理由——前衛民族サウンドが描いた都市と身体の予言
 
-En 1988, un film d’animation est sorti au Japon, alors en pleine bulle économique. L'œuvre originale est de Katsuhiro Otomo. La musique est de Shoji Yamashiro, qui dirige le groupe de divertissement Yamashiro. Le nom de l’œuvre est AKIRA.
+1988年、バブル経済の熱気が渦巻く日本から一本のアニメ映画が放たれた。原作は大友克洋。音楽は芸能山城組を率いる山城祥二。作品名はAKIRA。
 
-Même si près de 40 ans se sont écoulés depuis sa sortie, le son de ce film ne vieillit jamais. En fait, ces dernières années, avec la résurgence du cyberpunk, le contexte de « Why AKIRA Still Sounds Future » est devenu plus fort.
+公開から四十年近くが経とうとしているにもかかわらず、この映画の音は古びない。むしろ近年、サイバーパンクが再燃するなかで、「Why AKIRA Still Sounds Future」という文脈が強まっている。
 
-La raison n’est pas seulement la nostalgie. Villes en fuite, tensions entre l'État et la technologie, élans de jeunesse et transformation des corps. La bande originale, qui joue à l'intersection de la musique folk et des sons électroniques, résonne étrangement avec le monde d'aujourd'hui.
+その理由は単なるノスタルジーではない。都市の暴走、国家とテクノロジーの緊張、若者の暴発、そして身体の変容。そのすべてを、民族音楽と電子音響の交差点で鳴らしたサウンドトラックが、いまの世界と不気味なほど呼応しているからだ。
 
-Dans cet article, basé sur des faits, nous décrypterons comment la musique d'AKIRA est devenue le « son du futur » à travers son contexte de production, sa structure acoustique, ses influences culturelles et le processus de réévaluation.
+本稿では、事実に基づきながら、AKIRAの音楽がいかにして“未来の音”となったのかを、制作背景、音響構造、文化的影響、そして再評価の流れまでを通して読み解いていく。
 
-> Le son d'AKIRA anticipait notre présent, pas le futur de 1988.
+> AKIRAの音は、1988年の未来ではなく、私たちの現在を先取りしていた。
 
 
 ---
@@ -49,23 +48,23 @@ color: #fff;
 </style>
 
 
-## Urban Prophecy : L'espace acoustique appelé Neo Tokyo
+## 都市の予言：ネオ東京という音響空間
 
-### Œuvre originale et processus d'adaptation cinématographique
+### 原作と映画化のプロセス
 
-Le manga original « AKIRA » a commencé à être publié en série en 1982 et l'histoire se déroule à Néo-Tokyo après une guerre nucléaire. La version cinématographique est sortie en 1988. Le coût total de production était sans précédent à l'époque, ce qui en faisait un projet exceptionnel dans l'histoire de l'animation japonaise.
+原作漫画『AKIRA』は1982年から連載が始まり、核戦争後のネオ東京を舞台に物語が展開する。映画版は1988年公開。総制作費は当時としては異例の規模で、日本アニメ史上でも突出したプロジェクトだった。
 
-L'histoire se déroule à Neo Tokyo en 2019. Expériences militaires, manifestations antigouvernementales, gangs de motards et développement de pouvoirs surnaturels. Il dépeint l’effondrement et la renaissance d’une ville, reflétant fortement l’atmosphère de la fin de la guerre froide.
+物語の舞台は2019年のネオ東京。軍事実験、反政府デモ、バイク暴走族、超能力開発。冷戦末期の空気を色濃く反映しながら、都市の崩壊と再生を描いた。
 
-La musique a été conçue en parallèle de la production du film. Le réalisateur Otomo recherchait un son plus fondamental et religieux que l'accompagnement existant de type anime. En conséquence, le groupe qui a été distingué était le groupe de divertissement Yamashiro.
+音楽は映画制作と並行して構想された。監督の大友は、既存のアニメ的劇伴ではなく、より根源的で宗教的な響きを求めた。その結果、白羽の矢が立ったのが芸能山城組だった。
 
-### Relation positionnelle avec Cyberpunk
+### サイバーパンクとの位置関係
 
-AKIRA est souvent classé comme un chef-d’œuvre du cyberpunk. Blade Runner est sorti en 1982, six ans avant la sortie du film. Celui-ci dépeint la décadence urbaine en utilisant les sons de synthétiseur de Vangelis.
+AKIRAはしばしばサイバーパンクの代表作と並べられる。映画公開6年前の1982年にはBlade Runnerが登場している。こちらはヴァンゲリスによるシンセサウンドで都市の退廃を描いた。
 
-D’un autre côté, AKIRA n’exprime pas l’avenir uniquement avec des sons électroniques. Au contraire, il a mis en avant les sons ethniques, rituels et physiques, la technologie sonore et la magie en même temps.
+一方、AKIRAは電子音だけで未来を表現しなかった。むしろ民族的、儀式的、身体的な音を前面に押し出し、テクノロジーと呪術を同時に鳴らした。
 
-Ce choix actualiserait plus tard l’image du cyberpunk.
+この選択こそが、のちのサイバーパンク像を更新することになる。
 
 <div class="mermaid">
 flowchart LR
@@ -75,29 +74,29 @@ C --> D[都市×儀式的音響]
 D --> E[再評価と再燃]
 </div>
 
-> Néo-Tokyo a été construit non seulement par la vue mais aussi par le son.
+> ネオ東京は視覚だけでなく、音によっても構築されていた。
 
 ---
 
-## La structure du son ethnique d'avant-garde : Le défi du groupe de divertissement Yamashiro
+## 前衛民族サウンドの構造：芸能山城組の挑戦
 
-### Qu'est-ce que Geino Yamashiro Gumi ?
+### 芸能山城組とは何か
 
-Le Geino Yamashiro-gumi était un groupe musical formé autour de Shoji Yamashiro qui recherchait et pratiquait la musique folklorique. Ses sujets de recherche incluaient le gamelan indonésien, la musique rituelle balinaise et les polyrythmies africaines, et il tentait de les reconstruire à sa manière.
+芸能山城組は、山城祥二を中心に結成された音楽集団で、民族音楽の研究と実践を行っていた。インドネシアのガムラン、バリ島の儀式音楽、アフリカのポリリズムなどを研究対象とし、独自の再構築を試みていた。
 
-En produisant la musique d'AKIRA, ils ont appliqué de véritables techniques vocales et structures d'instruments de percussion, plutôt que de simplement créer un « style de musique folk ».
+AKIRAの音楽制作において、彼らは単なる「民族音楽風」ではなく、実際の発声法や打楽器構造を応用した。
 
-La chanson d'ouverture « Kaneda » est symbolique. Batterie, chœurs et vocalisations communicatives. Les rythmes ne sont pas de simples battements à quatre temps, mais sont superposés de rythmes complexes.
+象徴的なのがオープニングの「金田」。太鼓、合唱、声明のような発声。拍節は単純な4拍子ではなく、複雑なリズムが重層する。
 
-### Fusion de sons électroniques et folk
+### 電子音と民族音の融合
 
-La bande originale d'AKIRA combine des éléments ethniques et des synthétiseurs. Cependant, les sons électroniques ne sont pas le personnage principal. Il ne fonctionne que comme un dispositif d'extension d'espace.
+AKIRAのサウンドトラックは、民族的要素とシンセサイザーを併用している。だが電子音は主役ではない。あくまで空間の拡張装置として機能する。
 
-La raison pour laquelle cette structure a créé un sentiment d’avenir est claire.
+この構造が未来感を生んだ理由は明確だ。
 
-Une grande partie du « son du futur » des années 1980 était centrée sur les synthés. Cependant, AKIRA a mis au premier plan des voix et des instruments de percussion que l'on pourrait qualifier de primitifs. Le résultat était un son dont l’axe temporel n’a pas pu être déterminé.
+1980年代の「未来音」は多くがシンセ中心だった。だがAKIRAは、原始的とも言える声と打楽器を前面に出した。結果として、時間軸を特定できない音が生まれた。
 
-C'était un son qui n'appartenait ni au passé ni au futur.
+それは過去にも未来にも属さない音だった。
 
 <div class="mermaid">
 flowchart TD
@@ -107,31 +106,31 @@ C[シンセサイザー] --> D
 D --> E[時間軸を超えた未来感]
 </div>
 
-> L'avenir d'AKIRA s'est construit non seulement sur la technologie, mais aussi sur les sons des rituels.
+> AKIRAの未来はテクノロジーだけではなく、儀式の響きで構築されていた。
 
 ---
 
-## Corps et Son : Conception sonore de la Fugue et de la Transformation
+## 身体と音：暴走と変容のサウンドデザイン
 
-### Rythme de la scène vélo
+### バイクシーンのリズム
 
-La poursuite en moto au début du film est bien plus qu’une simple scène d’action. L'accent mis sur le rythme, la synchronisation avec le son du moteur et le battement de la batterie créent une excitation physique.
+映画冒頭のバイクチェイスは、単なるアクションではない。リズムの強調、エンジン音との同期、太鼓の拍動が身体的な興奮を生む。
 
-Le son ne suit pas la vision, mais représente le battement du cœur du corps. Le public se synchronise inconsciemment avec le rythme.
+音は視覚を追随するのではなく、身体の鼓動を代弁する。観客は無意識にそのリズムに同期する。
 
-### La transformation et le son de Tetsuo
+### 鉄雄の変容と音響
 
-Dans la seconde moitié de l'histoire, les capacités rampantes et la transformation physique de Tetsuo sont puissamment représentées en termes de son. La combinaison de sons électroniques à haute fréquence, de basses ondulantes et de la tension du refrain crée un sentiment de malaise audible.
+物語後半、鉄雄の能力暴走と肉体変容は、音響面でも強烈に描かれる。高周波的な電子音と低音のうねり、合唱の緊張感が重なり、聴覚的な不安を生む。
 
-Ce qui est important ici, c'est que le son n'est pas seulement une performance, mais qu'il fait « partie de l'histoire ».
+ここで重要なのは、音が単なる演出ではなく「物語の一部」である点だ。
 
-La musique n'est pas le fond. Elle existe comme une voix qui symbolise la volonté de la ville, la pression de l’État et l’effondrement de l’individu.
+音楽は背景ではない。都市の意思、国家の圧力、個人の崩壊を象徴する声として存在している。
 
-> Le son d'AKIRA n'était pas les émotions du personnage, mais le battement du cœur de la ville elle-même.
+> AKIRAの音はキャラクターの感情ではなく、都市そのものの鼓動を鳴らしていた。
 
 ---
 
-## Chronologie : Intersection d'AKIRA et Cyberpunk
+## 年表：AKIRAとサイバーパンクの交差
 
 <div class="mermaid">
 timeline
@@ -142,62 +141,62 @@ timeline
     2020 : サイバーパンク再評価の波
 </div>
 
-Lors de sa sortie en 1988, il a été diffusé non seulement au Japon mais aussi à l'étranger, gagnant en popularité en Amérique du Nord et en Europe.
+1988年公開当時、日本国内だけでなく海外でも上映され、北米や欧州でカルト的人気を獲得した。
 
-Au 21e siècle, il est réévalué avec la remasterisation Blu-ray et 4K.
+21世紀に入り、Blu-rayや4Kリマスターによって再評価が進む。
 
-De plus, ces dernières années, la résurgence des jeux et des animes a renforcé le contexte cyberpunk. L’un des symboles en est Cyberpunk : Edgerunners.
+さらに近年、ゲームやアニメの再ブームによって、サイバーパンクの文脈が強まった。その象徴の一つがCyberpunk: Edgerunnersである。
 
-Au milieu de cette résurgence, AKIRA est une fois de plus considérée comme la « forme complétée » plutôt que « l'original ».
+この再燃の中で、AKIRAは「元祖」ではなく、「完成形」として再び参照されている。
 
-> AKIRA n'était pas à l'avant-garde de son époque, mais plutôt une œuvre qui remettait en question son époque à plusieurs reprises.
-
----
-
-## Influence et succession : propagation à la musique et à la culture visuelle mondiales
-
-Les visuels et la musique d'AKIRA ont influencé de nombreux créateurs. Villes néon, motos, recherche militaire et jeunesse en fuite.
-
-En termes de musique, l'idée de fusion d'éléments ethniques et de sons électroniques a ensuite été liée aux sons expérimentaux et à la musique de club.
-
-Il est particulièrement important de briser le stéréotype selon lequel « le futur = sons électroniques froids ». Cela montrait plutôt que l’avenir pouvait être décrit avec une résonance physique et autochtone.
-
-> L'influence d'AKIRA est restée sur le monde non pas comme une citation, mais comme une mise à jour d'idées.
+> AKIRAは時代の先端だったのではなく、時代を何度も迎え撃つ作品だった。
 
 ---
 
-## Pourquoi cela se reproduit-il maintenant ?
+## 影響と継承：世界的な音楽・映像文化への波及
 
-### Les vraies villes ont rattrapé leur retard
+AKIRAのビジュアルと音楽は、数多くのクリエイターに影響を与えた。ネオン都市、バイク、軍事研究、暴走する若者。
 
-Par coïncidence, 2019 a été l’année de la scène pour AKIRA. Pandémies, troubles sociaux, tensions nationales et personnelles. Il semblait que la ville réelle avait rattrapé la fiction.
+音楽面では、民族的要素と電子音の融合という発想が、のちの実験的サウンドやクラブミュージックにも接続される。
 
-### Le retour du Cyberpunk
+特に「未来＝冷たい電子音」という固定観念を崩した点は大きい。未来はむしろ、身体的で土着的な響きと共に描かれる可能性があると示した。
 
-L’esthétique cyberpunk est réévaluée dans les jeux, les anime et la mode. Des néons, des corps prothétiques et une société de surveillance. AKIRA est à l'origine de ce code visuel.
-
-Mais le son est encore plus important que la vue.
-
-À l’ère du numérique, la voix physique et les percussions à plusieurs niveaux semblent paradoxalement fraîches.
-
-Le son d'AKIRA n'a pas été créé par l'IA ou des algorithmes, mais par des vocalisations et des respirations humaines collectives.
-
-> Parce que nous vivons à l'ère du numérique, les sons physiques d'AKIRA sonnent comme l'avenir.
+> AKIRAの影響は引用ではなく、発想の更新として世界に残った。
 
 ---
 
-## Conclusion : Une œuvre qui continue de résonner avec le futur
+## なぜいま再燃するのか
 
-La musique d'AKIRA n'est pas figée dans une époque précise. L'esprit expérimental de 1988, les résultats de la recherche sur les musiques ethniques et le tournant de l'histoire de l'anime. Ils se sont cristallisés et résonnent encore d’une manière nouvelle.
+### 現実の都市が追いついた
 
-La réponse à la question « Pourquoi AKIRA semble toujours futur » est simple.
+2019年は、偶然にもAKIRAの舞台年だった。パンデミック、社会不安、国家と個人の緊張。現実の都市が、フィクションに追いついたかのように見えた。
 
-C'est parce qu'ils n'ont pas représenté l'avenir avec des sons électroniques.
+### サイバーパンクの復権
 
-Rituel, chœur, percussions et bruit urbain. En les mélangeant, il a créé un son affranchi de l’axe du temps.
+ゲーム、アニメ、ファッションでサイバーパンク的美学が再評価されている。ネオン、義体、監視社会。その視覚的コードの源流にAKIRAがある。
 
-AKIRA n'a pas prédit l'avenir. Il présentait le son du futur.
+だが視覚以上に重要なのは音だ。
 
-> AKIRA n'est pas une œuvre achevée, mais un futur qui continue de résonner encore aujourd'hui.
+デジタル全盛の時代に、身体的な声と打楽器の重層は逆説的に新鮮に響く。
+
+AKIRAの音は、AIやアルゴリズムではなく、人間の集団的発声と呼吸で構築された。
+
+> デジタル時代だからこそ、AKIRAの身体的サウンドは未来に聞こえる。
+
+---
+
+## 結論：未来を鳴らし続ける作品
+
+AKIRAの音楽は、特定の年代に固定されない。1988年の実験精神、民族音楽研究の成果、アニメ史の転換点。それらが結晶し、いまも新しく響く。
+
+「Why AKIRA Still Sounds Future」という問いへの答えは単純だ。
+
+未来を電子音で描かなかったからだ。
+
+儀式、合唱、打楽器、そして都市のノイズ。それらを混在させることで、時間軸から自由なサウンドを作り上げた。
+
+AKIRAは未来を予言したのではない。未来の鳴り方を提示した。
+
+> AKIRAは終わった作品ではなく、いまも鳴り続ける未来そのものだ。
 
 ---

@@ -66,7 +66,7 @@ En particulier, les tendances suivantes ont été à la base de la création de 
 * Minimalisme de la techno britannique (Surgeon, Regis, Dave Clarke, etc.)
 * Une version britannique du groove de l'US House (Chicago/NY)
 * Mélange de Tribal House, Garage et Progressive House
-* Styles DJ multi-genres de Pirate Radio et de la scène club londonienne (The End, etc.)
+* Styles DJ multi-genres issus de Pirate Radio et de la scène club londonienne (The End, etc.)
 
 Les gens réunis au club ne recherchaient pas seulement de la techno ou de la house, mais appréciaient de longues pièces de DJ mêlant des éléments des deux. Grâce à ce processus, il a développé un sens du mixage qui allie naturellement la « dureté de la techno » et la « chaleur de la house ».
 
@@ -230,7 +230,7 @@ Voici les labels qui définissent Tech House.
 
 * Se tortiller
 * Enregistrements de butin
-*La fin des enregistrements
+*Les enregistrements de fin
 * Poker plat
 *Mobile
 * Bedrock (plus progressif, mais recoupe Tech House)
@@ -249,7 +249,7 @@ Bien que Tech House ne soit liée par aucun équipement spécifique, les tendanc
 * Sources sonores de boîte à rythmes telles que 909, 808, 707, etc.
 * Traitement principalement basé sur des échantillons plutôt que modulaire
 * La réverbération est courte
-* Resserrez les médiums avec EQ
+* Resserrez les médiums avec l'égaliseur
 * Développement progressif en unités de 16 à 24 bars
 
 La philosophie de production met l'accent sur « l'esthétique de la soustraction » et sur la « conception d'un espace vide qui fonctionne dans l'espace d'un club ».

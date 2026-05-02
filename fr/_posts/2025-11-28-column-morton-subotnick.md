@@ -30,7 +30,7 @@ Texte : mmr｜Thème : À propos du « futur contrôlable » lancé par les inno
 Morton Subotnick (1933–) est un musicien contemporain américain et compositeur de musique électronique, largement connu comme la personne qui a sorti le premier disque commercial au monde entièrement produit à l'aide de synthétiseurs, Silver Apples of the Moon (1967).
 Cette œuvre est sortie chez Nonesuch Records, un label spécialisé dans la musique classique, et était révolutionnaire dans la mesure où elle présentait les sons électroniques comme une « œuvre » d'une manière inédite à l'époque.
 
-Les innovations de Subotnick vont au-delà de la simple composition de musique électronique ; il joue également un rôle clé dans le développement du synthétiseur Buchla de la côte ouest et a eu une influence à long terme sur la culture des synthés modulaires modernes.
+Les innovations de Subotnick vont au-delà de la simple composition de musique électronique ; il est également important en tant que personnage clé dans le développement du synthétiseur Buchla de la côte ouest et a eu une influence à long terme sur la culture des synthés modulaires modernes.
 
 ---
 
@@ -69,32 +69,32 @@ Cette installation était un centre de recherche fondamental sur la musique éle
 
 À l'époque, Subotnick explorait la structuration et la « jouabilité » des sons électroniques, en utilisant pleinement les techniques de musique concrète et de montage sur bande.
 
-### ● Rencontre avec Don Buchla
+### ● Don Buchla との出会い
 
-Les amis du Tape Music Center ont reconnu la nécessité d'un nouvel instrument de musique pour rendre l'acoustique électronique plus jouable et ont demandé à l'ingénieur Don Buchla d'en développer un.
-Le résultat de cette collaboration a été la **Buchla Series 100**, qui est devenue l'origine de ce qui deviendra plus tard la « West Coast Synthesis ».
-
----
-
-#**3. Naissance de la synthèse de la côte ouest : pensées de Buchla et Subotnick**
-
-La plus grande innovation résultant de la collaboration de Subotnick et Buchla a été une orientation pour les instruments de musique électroniques qui a adopté une approche différente de celle des systèmes East Coast Moog.
-
-## ● L'idée de « jeter le clavier »
-
-Subotnick recherchait une « sculpture sonore » utilisant des signaux de contrôle qui s'écartaient des gammes et de l'harmonie traditionnelles.
-En réponse, Buchla n'incluait pas de clavier, mais incluait un contrôleur tactile et une source de tension aléatoire.
-
-## ● Tonalité et contrôle supérieurs
-
-L’idée selon laquelle la modulation et les commandes complexes déterminent la structure musicale reste intacte dans la culture moderne des synthés modulaires.
+Tape Music Center の仲間たちは、電子音響をもっと“演奏できるもの”へ変えるため、新たな楽器の必要性を認識し、技術者 Don Buchla に開発を依頼する。
+この共同作業の中で誕生したのが **Buchla Series 100**、後の “West Coast Synthesis” の原点である。
 
 ---
 
-# **4. "Silver Apples of the Moon" (1967) : Une œuvre qui a changé l'histoire de la musique électronique**
+# **3. West Coast Synthesis の誕生：Buchla と Subotnick の思想**
 
-Le chef-d'œuvre et l'œuvre symbolique de Subotnick dans l'histoire de la musique électronique.
-**``Pommes d'argent de la Lune''**.
+Subotnick と Buchla の協働が生み出した最大の発明は、東海岸の Moog システムとは異なるアプローチを持つ電子楽器の方向性であった。
+
+## ● 「鍵盤を捨てる」という思想
+
+Subotnick は従来の音階や和声から離れた **コントロール信号による“音の彫刻”** を求めていた。
+それに応える形で Buchla はキーボードを搭載せず、タッチ式のコントローラやランダム電圧源を搭載した。
+
+## ● 音色とコントロールの優位
+
+モジュレーションと複合的なコントロールが音楽構造を決定するという思想は、現代のモジュラーシンセ文化にそのまま受け継がれている。
+
+---
+
+# **4. 「Silver Apples of the Moon」（1967）：電子音楽史を変えた作品**
+
+Subotnick の代表作かつ電子音楽史の象徴的作品が
+**『Silver Apples of the Moon』** である。
 
 <div class="mermaid">
 flowchart LR
@@ -106,105 +106,105 @@ flowchart LR
 
 ---
 
-### Caractéristiques du travail
+### 作品の特徴
 
-* L'histoire entière se compose uniquement de sons électroniques de Buchla 100
-* Structure incluant des éléments rythmiques, ce qui était inhabituel à l'époque.
-*L'un des premiers morceaux de musique électronique sortis par un label commercial
-* Styles de composition pouvant être connectés aux arts du spectacle et au multimédia
+* 全編が Buchla 100 による電子音のみで構成
+* 当時としては珍しいリズミカルな要素を含む構造
+* 商業レーベルから発売された初の電子音楽作品のひとつ
+* 舞台芸術・マルチメディアと接続可能な作曲スタイル
 
-Cette œuvre a non seulement été très appréciée en tant qu'œuvre d'art, mais elle a également été l'un des premiers exemples de musique électronique établie en tant que « marchandise à apprécier ».
-
----
-
-#**5. Années 1970 : électronique en direct et activités pédagogiques**
-
-Depuis les années 1970, Subotnick se concentre sur les performances live manipulant les sons électroniques en temps réel.
-En particulier, un système unique appelé « Ghost Electronics » traite le son de l'interprète de manière externe et ajoute une modulation complexe.
-
-### ● Idée de base du système Ghost Electronics
-
-* Son de l'interprète → envoyer au processeur externe
-* Modulé par rétroaction ou tension de commande
-* La musique live et le traitement électronique deviennent une expression unifiée indissociable
-
-Ce système a été utilisé dans de nombreuses productions et a joué un rôle important dans la connexion des artistes classiques avec la musique électronique.
+この作品はアート作品として高く評価されただけでなく、電子音楽を“鑑賞対象となる商品”として成立させた最初期の事例でもあった。
 
 ---
 
-#**6. Application aux logiciels d'art médiatique et d'éducation musicale pour les enfants**
+# **5. 1970年代：ライブ・エレクトロニクスと教育活動**
 
-Depuis les années 1980, Subotnick s'intéresse à la relation entre l'acoustique et les interfaces et travaille à la création de matériel pédagogique musical interactif à l'aide d'ordinateurs.
-Ses projets représentatifs incluent la série « Making Music » (années 1980).
-Il s’agit d’un logiciel qui permet aux enfants d’en apprendre davantage sur les sons et les structures tout en l’utilisant, et qui a été largement utilisé dans les milieux éducatifs américains.
+Subotnick は 1970 年代以降、電子音をリアルタイムに操作するライブ・パフォーマンスに重点を置いた。
+特に「Ghost Electronics」と呼ばれる独自のシステムは、演奏者の音を外部処理し、複雑なモジュレーションを加える仕組みである。
 
----
+### ● Ghost Electronics システムの基本的発想
 
-#**7. Post-90 : l'influence à long terme de la musique électronique et la résurgence de la culture modulaire**
+* 演奏者の音 → 外部プロセッサへ送る
+* フィードバックや制御電圧によって変調
+* 生演奏と電子処理が不可分の一体表現になる
 
-Au 21e siècle, alors que les synthétiseurs modulaires sont réévalués, le travail et les idées de Subotnick ont ​​de nouveau attiré l'attention.
-En particulier, avec la diffusion des produits modulaires de la côte Ouest (oscillateurs complexes, générateurs de fonctions, tensions aléatoires, etc.), il y a eu un mouvement croissant pour positionner Subotnick comme le « père ».
-
----
-
-#**8. Travaux majeurs et analyse des fonctionnalités**
-
-Ce qui suit est un résumé des œuvres majeures de Subotnick d'un point de vue structurel.
-
-## ● Pommes d'argent de la lune (1967)
-
-* Fonctionne pour Buchla 100
-* Structure rythmique avec contrôle de tension
-* Présente une structure en couches de sons électroniques
-
-## ● Le taureau sauvage (1968)
-
-* Construit uniquement avec des sons électroniques
-* Une œuvre qui explore l'équilibre entre opérabilité et structure acoustique
-
-## ● Sidewinder (1971)
-
-* Concentrez-vous sur le traitement en direct
-* Concentrez-vous sur le maintien et la transformation des sons électroniques
-
-## ● Jusqu'au printemps (1975)
-
-* Une pièce sonore électronique qui structure les changements des saisons.
-* Créé sur la base des enregistrements d'exploitation du système Buchla
+このシステムは多くの作品に使用され、クラシック演奏家と電子音楽を結びつける重要な役割を果たした。
 
 ---
 
-#**9. Chronologie Morton Subotnick**
+# **6. メディアアート、子ども向け音楽教育ソフトへの応用**
 
-| Année | Événements |
-| ----------- | ----------------------------------------------------- |
-| 1933 | Né à Los Angeles |
-| années 1950 | Actif en tant que clarinettiste, intérêt accru pour la musique d'avant-garde |
-| 1962 | Création du San Francisco Tape Music Center avec Oliveros, Sender et d'autres |
-| 1963-1965 | Impliqué dans le développement de Buchla Series 100 avec Don Buchla |
-| 1967 | "Les Pommes d'Argent de la Lune" annoncées |
-| 1968 | « Le taureau sauvage » annoncé |
-| années 1970 | Une série d'œuvres utilisant le système Ghost Electronics |
-| années 1980 | Production de la série « Making Music » de logiciels d'éducation musicale pour enfants |
-| Années 1990-2000 | Les travaux sont en cours de réévaluation |
-| Depuis les années 2010 | Les concerts rétrospectifs et les productions documentaires progressent partout dans le monde |
+1980 年代以降、Subotnick は音響とインターフェイスの関係に関心を持ち、コンピュータを利用したインタラクティブな音楽教材づくりに取り組んだ。
+代表的なプロジェクトに **「Making Music」シリーズ（1980年代）** がある。
+これは子どもが操作しながら音と構造を学べるソフトウェアで、アメリカの教育現場で広く使用された。
 
 ---
 
-#**10. La philosophie de Subotnick : Qu'est-ce que la « performance » dans la musique électronique ?**
+# **7. 90年代以降：電子音楽の長期的影響とモジュラー文化の再興**
 
-Les concepts fondamentaux que Morton Subotnick a constamment poursuivis sont :
-
-1. **Le son électronique n'est pas seulement un matériau, il peut devenir la structure elle-même**
-2. **La tension de contrôle est « l’écriture manuscrite » de la composition**
-3. **La frontière entre performance et composition n'existe pas dans la musique électronique**
-4. **Les interfaces définissent les conditions de la créativité**
-
-Les idées de Subotnick sont à la base des idées de conception qui sont courantes dans la culture modulaire Eurorack d'aujourd'hui (oscillateurs complexes, aléatoires, dossiers d'ondes, etc.).
+21世紀に入り、モジュラーシンセの再評価が進むと、Subotnick の作品と思想は再び注目を集める。
+特に West Coast 系モジュラー（複雑発振器、関数ジェネレーター、ランダム電圧など）の普及に伴い、Subotnick を“祖”として位置づける動きが強まった。
 
 ---
 
-#**11. L'influence de Subotnick : liens avec les temps modernes**
+# **8. 主要作品と特徴分析**
+
+下記は Subotnick の主要作品の構造的観点からの要点である。
+
+## ● Silver Apples of the Moon（1967）
+
+* Buchla 100 のための作品
+* 電圧制御によるリズム的構造
+* 電子音のレイヤー構成が特徴
+
+## ● The Wild Bull（1968）
+
+* 電子音のみで構築
+* 操作性と音響構造のバランスを探る作品
+
+## ● Sidewinder（1971）
+
+* ライブ処理を重視
+* 電子音の持続と変形が焦点
+
+## ● Until Spring（1975）
+
+* 季節の変化を構造化した電子音作品
+* Buchla システムの操作記録を元に制作
+
+---
+
+# **9. Morton Subotnick 年表**
+
+| 年           | 出来事                                                      |
+| ----------- | -------------------------------------------------------- |
+| 1933        | ロサンゼルスに生まれる                                              |
+| 1950年代      | クラリネット奏者として活動、前衛音楽へ関心を深める                                |
+| 1962        | San Francisco Tape Music Center を Oliveros、Sender らと共に設立 |
+| 1963–65     | Don Buchla とともに Buchla Series 100 の開発に関与                 |
+| 1967        | 『Silver Apples of the Moon』発表                            |
+| 1968        | 『The Wild Bull』発表                                        |
+| 1970年代      | Ghost Electronics システムを利用した作品シリーズ                        |
+| 1980年代      | 子ども向け音楽教育ソフト「Making Music」シリーズ制作                         |
+| 1990–2000年代 | 作品の再評価が進む                                                |
+| 2010年代以降    | 世界各地で回顧コンサート、ドキュメンタリー制作が進む                               |
+
+---
+
+# **10. Subotnick の思想：電子音楽における“演奏”とは何か**
+
+Morton Subotnick が一貫して追求してきた中心概念は以下である：
+
+1. **電子音は単なる素材ではなく、構造そのものになり得る**
+2. **コントロール電圧は作曲の“筆跡”である**
+3. **演奏と作曲の境界が電子音楽には存在しない**
+4. **インターフェイスは創造性の条件を規定する**
+
+Subotnick の考え方は、今日の Eurorack モジュラー文化において当たり前となっている設計思想（複雑発振器、ランダム、ウェーブフォルダ等）の基礎となっている。
+
+---
+
+# **11. Subotnick の影響：現代への連接**
 
 <div class="mermaid">
 graph TD
@@ -218,26 +218,26 @@ graph TD
 
 ---
 
-### Zone d'influence
+### 影響の領域
 
-* Philosophie de conception de synthétiseur modulaire
-* Structure de l'électronique en direct
-* Enseignement de l'informatique musicale
-* Conception d'interactions en art médiatique
-* Influence de la chaîne sur l'IDM/musique expérimentale/art sonore
+* モジュラーシンセの設計思想
+* ライブ・エレクトロニクスの構造
+* コンピュータ音楽の教育
+* メディアアートのインタラクションデザイン
+* IDM／実験音楽／サウンドアートへの連鎖的影響
 
 ---
 
-# **Conclusion : quel héritage les réalisations de Subotnick ont-elles laissé ?**
+# **結語：Subotnick の功績は何を遺したのか**
 
-La réussite de Morton Subotnick réside dans la réinvention du cadre même de la musique électronique.
-Il a élevé le son électronique de la « manipulation du timbre » à la « génération structurelle », et le système qu'il a créé avec Buchla est le fondement de la culture des synthés modulaires d'aujourd'hui.
+Morton Subotnick の功績は、電子音楽の枠組みそのものを刷新した点にある。
+彼は電子音を“音色の操作”から“構造の生成”へ引き上げ、Buchla と共に創り出したシステムは、今日のモジュラーシンセ文化の土台となっている。
 
-"La musique électronique peut être l'avenir de la musique classique"
-Même si Subotnick n’a pas prononcé ces mots lui-même, c’est exactement ce que montre la trajectoire de son œuvre.
+“電子音楽は未来のクラシックとなり得る”
+この言葉を Subotnick 自身が発したわけではないが、その活動の軌跡はまさにそれを示している。
 
-Lorsqu'on parle de l'histoire de la musique électronique, le nom de Morton Subotnick revient toujours au début.
-Et même aujourd’hui, plus d’un demi-siècle plus tard, son influence n’a pas diminué, mais continue de croître.
+電子音楽の歴史を語るとき、Morton Subotnick の名前は必ず最初の段階で現れる。
+そしてその影響は、半世紀以上経った現在も衰えるどころか、むしろ拡大し続けている。
 
 ---
 

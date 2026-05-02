@@ -14,7 +14,7 @@ title: Raoul Zerna – Dans les rainures
 ---
 
 
-Raoul Zerna est un DJ et producteur dont le style house beat est influencé par la techno, la tech house et le latin. Il a des racines en Équateur et est basé à Los Angeles. En tant que DJ, il a collaboré avec des artistes tels que Carl Cox, DJ Sneak, Bad Boy Bill, DJ Dan et DJ Keoki, et a joué dans des festivals et des spectacles à travers le monde.
+Raoul Zernaは、テクノ、テックハウス、ラテンの影響を受けたハウスビートスタイルが特徴のDJ・プロデューサーIl a des racines en Équateur et est basé à Los Angeles. DJ et Carl Cox, DJ Sneak, Bad Boy Bill, DJ Dan et DJ Keoki.
 
 "Inside The Grooves" est un morceau house/tech house sorti en 2006 par le label de San Francisco Mizumo Music.
 

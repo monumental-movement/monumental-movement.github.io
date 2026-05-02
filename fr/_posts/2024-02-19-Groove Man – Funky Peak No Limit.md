@@ -10,11 +10,11 @@ tags:
 - House
 - French House
 - 00s
-title: Groove Man – Funky Peak sans limite
+title: Groove Man – Funky Peak No Limit
 ---
 
 
-Un morceau house sorti par le DJ/producteur colombien Groove Man sur le label house français Vector Records en 2005.
+コロンビア出身のDJ / プロデューサーGroove Manが2005年にフレンチハウスレーベルVector Recordsからリリースしたハウストラック。
 
 #### Liste des chansons
 ```md

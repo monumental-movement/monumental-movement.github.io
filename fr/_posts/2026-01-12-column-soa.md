@@ -18,7 +18,7 @@ title: '[Chronique] S.O.A (State Of Alert) — La première sonnette d''alarme a
 
 ## Prologue : Que signifiait le nom S.O.A
 
-Texte : mmr｜Thème : À propos de la musique présentée comme la structure même du temps
+Texte : mmr｜Thème : À propos de la musique présentée comme la structure du temps lui-même
 
 S.O.A est un groupe de punk hardcore formé à New York en 1980. Leur période active est extrêmement courte et leur discographie officielle est limitée. Cependant, son existence ne peut être considérée comme une simple préhistoire ou une étape préparatoire. S.O.A est apparu à la frontière entre le punk des années 70 et le hardcore des années 80, capturant la tension, la violence et l'étouffement des jeunes de la ville de New York d'une manière qui ne pouvait plus être effacée.
 
@@ -78,7 +78,7 @@ Cette musicalité est différente de la « lourdeur » et du « groove » du har
 
 ## Paroles et position d'expression
 
-Les paroles de SOA sont courtes et directes, avec peu de métaphore ou de récit. Ce qui est dépeint ici est un sentiment fragmenté d’oppression, de colère et de légitime défense. Il ne prescrit pas explicitement une idéologie politique ou un mouvement social particulier, mais se concentre plutôt sur des réactions réflexives aux circonstances dans lesquelles se trouvent les individus.
+Les paroles de SOA sont courtes et directes, avec peu de métaphore ou de récit. Ce qui est représenté ici est un sentiment fragmenté d’oppression, de colère et d’auto-défense. Il ne prescrit pas explicitement une idéologie politique ou un mouvement social particulier, mais se concentre plutôt sur des réactions réflexives aux circonstances dans lesquelles se trouvent les individus.
 
 Cette attitude diffère de la ligne droite et du hardcore politique ultérieurs. La S.O.A existait à un stade antérieur au développement de son idéologie et émettait une anxiété et une violence inexprimées sous forme de son.
 
@@ -102,7 +102,7 @@ Aucune politique n’est pas une œuvre évaluée pour son exhaustivité ou sa q
 
 Les activités live de SOA ont été de courte durée et les lieux étaient limités. Ils se produisaient principalement dans de petits clubs et des espaces de bricolage, et n'étaient alors connus que sur la scène punk new-yorkaise. Lors des performances live, l'accent était mis sur l'énergie de la collision plutôt que sur la perfection musicale, et la distance avec le public était extrêmement étroite.
 
-Le groupe s'est dissous vers 1981. La raison de la dissolution du groupe ressemble plus à une disparition spontanée due au mouvement des membres et à des changements dans leurs intérêts qu'à un incident spécifique. Cependant, cette dissolution ne met pas fin à S.O.A. Au lieu de cela, il se propage d’une manière différente.
+Le groupe s'est dissous vers 1981. La raison de la dissolution du groupe ressemble plus à une disparition spontanée due au mouvement des membres et à des changements dans leurs intérêts qu'à un incident spécifique. Toutefois, cette dissolution ne met pas fin à S.O.A. Au lieu de cela, il se propage d’une manière différente.
 
 > S.O.A était un groupe live et était plus présent sur le terrain que sur disque.
 
@@ -157,7 +157,7 @@ E --> G[Cro-Mags]
 ---
 
 
-## Conclusion : les sons restent en alerte
+## Conclusion : les sons sont laissés en alerte
 
 > S.O.A n'était pas une œuvre achevée, mais une alarme qui retentissait.
 

@@ -16,7 +16,7 @@ title: Plastikman – Musique
 ---
 
 
-Un album sorti par Richie Hawtin sous le pseudonyme Plastikman sur le label NovaMute en 1994. Il s'agit du troisième album studio de Richie Hawtin et du deuxième sous son nom Plastikman.
+Richie Hawtin (リッチー・ホゥティン)の別名義Plastikman(プラスティックマン)として1994年にレーベルNovaMuteからリリースしたアルバム。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
 #### Liste des chansons
 ```md

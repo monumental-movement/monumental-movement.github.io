@@ -11,13 +11,13 @@ tags:
 - Trance
 - Techno
 - 90s
-title: Réacteur Groove – Magie
+title: Groove Reactor – Magick
 ---
 
 
-Groove Reactor est un projet belge de Maurice Engelen, Nikkie Van Lierop et Oliver Adams. Oliver Adams est connu comme l'un des producteurs les plus prospères des dernières époques du new beat, du hardbeat, du skizzo et de la techno belge.
+Groove Reactor (グルーヴリアクター)は、Maurice Engelen, Nikkie Van Lierop, Oliver Adamsによるベルギーのプロジェクト。Oliver Adams(オリバー・アダムス)は、後期ニュービート、ハードビート、skizzo、ベルギーテクノ時代の最も成功したプロデューサーの1人として知られている。
 
-"Magick" est un morceau Breakbeat/Trance/Techno sorti en 1992 par le label de danse belge Dance Opera, actif de 1990 à 2003.
+「Magick」は、1990年〜2003年まで活動したベルギーのダンスレーベルDance Opera から1992年にリリースされたBreakbeat／Trance／Technoトラック。
 
 #### Liste des chansons
 ```md

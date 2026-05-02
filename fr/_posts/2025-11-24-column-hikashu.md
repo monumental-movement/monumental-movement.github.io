@@ -10,21 +10,20 @@ tags:
 - New-Wave
 - Techno Pop
 - 70s
-title: '[Chronique] Hikashu : Une histoire transfrontalière de la pop d''avant-garde :
-  une expérience musicale qui se poursuit des années 1970 à nos jours'
+title: 【コラム】 ヒカシュー：前衛ポップの越境史——1970年代から現在まで続く音楽実験体
 ---
 
 
-## Couvre les méthodes de création, les membres, la chronologie et les graphiques
+## 創作手法、メンバー、年表、図表を網羅
 
-Texte : mmr | Thème : Une longue chronique de Hikashu, apparu à l'aube de la techno/new wave à la fin des années 1970 et pionnier de la « pop expérimentale japonaise ». Trajectoire de la formation au présent
+文：mmr｜テーマ：1970年代末のテクノ／ニューウェーブ黎明期に登場し、“日本の実験ポップ”を切り開いたヒカシューの長編コラム。結成から現在までの軌跡
 
-Hikashu est un groupe qui occupe une place unique dans l’histoire du pop/rock japonais.
-Depuis leurs débuts en 1978, ils ont librement croisé des éléments tels que la **new wave, la musique d'avant-garde, le théâtre musical, l'improvisation, la musique électronique et la musique folk** tout en conservant leurs créations uniques qui « continuent de bousculer le concept de genre ».
+ヒカシュー（Hikashu）は、日本のポップ／ロック史において類例のない立ち位置を占める集団である。  
+1978年の登場以来、**ニューウェーブ、前衛音楽、ミュージックシアター、即興、電子音楽、民族音楽**といった要素を自在に横断しながら、“ジャンル概念を揺さぶり続ける”独自の創作を維持してきた。
 
-Il est généralement connu pour ses performances bizarres et humoristiques centrées sur Koichi Makigami (voix, thérémine) et pour ses premiers succès techno tels que "At the End of the 20th Century". Cependant, la réalité est que son champ d’action est bien plus large et qu’il a toujours été impliqué dans les grandes lignes de l’histoire de la musique expérimentale japonaise.
+一般的には、巻上公一（声・テルミン）を中心とした怪奇かつユーモラスなパフォーマンス、または「20世紀の終りに」など初期テクノ歌謡のヒットで知られる。しかし、その実態ははるかに射程が広く、**日本の実験音楽史の主要線に常に関わり続けてきた存在**である。
 
-Dans cet article, nous analyserons les changements dans les activités de Hikashu au cours des 45 dernières années sous de multiples perspectives, notamment le contexte historique, l'analyse musicale, l'expérience professionnelle et les changements dans la culture live.
+本稿では、ヒカシューの **45年以上にわたる活動の変遷** を、歴史的文脈・音楽的分析・作品背景・ライブ文化の変化といった複数の観点から整理する。
 
 ---
 
@@ -41,135 +40,135 @@ color: #fff;
 }
 </style>
 
-# 1. La veille de la formation : l'intersection du théâtre underground et de la musique expérimentale (~ 1977)
+# 1. 結成前夜：アングラ演劇と実験音楽の交差点（〜1977）
 
-Les racines de Hikashu résident dans la culture du théâtre underground, de la danse d'avant-garde et de l'improvisation libre qui se répandait à Tokyo dans les années 1970.
+ヒカシューのルーツは、1970年代の東京に広がっていた **アングラ演劇、前衛舞踏、自由即興（フリーインプロヴィゼーション）** の文化圏にある。
 
-- Koichi Makigami a une formation en vocalisations théâtrales et en expression physique improvisée, et se consacre aux méthodes qui traitent la voix comme un « instrument ».
-- Chojin Mita (guitare) explore une approche sonore qui relie rock et musique contemporaine
-- Makoto Inoue (clavier) a également abordé la musique électronique et les œuvres sur bande, ce qui a ensuite conduit à son travail de synthétiseur unique.
+- 巻上公一は演劇的発声・即興的身体表現を背景に、音声を「楽器」として扱う方法に傾倒  
+- 三田超人（ギター）はロックと現代音楽を結ぶ音響的アプローチを模索  
+- 井上誠（キーボード）は電子音楽・テープ作品にも触れ、のちの独特のシンセワークへつながる
 
-Cette diversité d'expériences a jeté les bases de Hikashu, non seulement un groupe axé sur la performance, mais un groupe qui s'étend du théâtre, de l'art sonore et de la musique pop.
-
----
-
-# 2. Formation et premières activités (1978-1980)
-—Avec la vague techno/new wave
-
-En 1978, le « Hikashu » officiel a débuté.
-À peu près à la même époque, YMO fait ses débuts au Japon et le pont entre la musique électronique et la musique pop devient immédiatement visible. Cependant, Hikashu, tout en restant proche de cette tendance, développe une pop étrange qui ne s'écarte guère de la grammaire de la pop populaire.
-
-En particulier, les performances de 1979 à 1980 sont considérées comme plus que leur son, mais plutôt comme « leur existence elle-même est avant-gardiste », et elles présentent les caractéristiques suivantes :
-
-- **Paroles absurdes**
-- **Également manipulation vocale acoustique** (chant harmonique, modulation d'expiration, syllabes dénuées de sens)
-- **Connexion avec des chansons techno**
-- Sensibiliser le grand public par une exposition médiatique (apparitions TV, etc.)
-
-« At the End of the 20th Century » est devenu en 1980 leur plus grand succès et est toujours hautement considéré comme une chanson représentative de la musique techno japonaise.
+この多様な背景が「演奏ありきのバンド」ではなく、**演劇・音響芸術・ポップスを横断する集団**としてのヒカシューの基盤を作った。
 
 ---
 
-# 3. Indiéisation et approfondissement (1981-1985)
-—De la pop à « l’expérience musicale »
+# 2. 結成と初期活動（1978–1980）  
+—テクノ／ニューウェーブの波とともに
 
-Au début des années 1980, Hikashu quitte le cadre d'un label majeur et s'oriente vers un système de création plus libre.
+1978年、正式な「ヒカシュー」が始動。  
+同時期の日本ではYMOがデビューし、電子音楽とポップスの架橋が一気に可視化されていた。だが、ヒカシューはそのブームに寄り添いながらも、**大衆ポップの文法をギリギリで逸脱する奇妙なポップ**を展開する。
 
-Points importants pendant cette période :
+特に1979〜80年のパフォーマンスは、音よりもまず“存在そのものが前衛”と語られ、以下の特徴をもつ：
 
-- Bien que le son soit pop, la structure est clairement une musique moderne.
-- Mise en scène théâtrale forte
-- Signatures rythmiques complexes et approche de la guitare acoustique
-- Expression du bruit par la voix
+- **不条理な歌詞**  
+- **音響的とも言えるボーカル操作**（倍音唱法、呼気の変調、意味のない音節）  
+- **テクノ歌謡との接点**  
+- メディア露出（TV出演など）によって一般層にも認知拡大  
 
-C'est le début d'une rupture avec le genre, et ne peut être catégorisé comme ce qu'on appelle la « new wave/techno ».
-
----
-
-# 4. Expansion des activités de Koichi Makigami (fin des années 1980 – années 1990)
-—À la techno, à la musique folk, au thérémine et aux arts du spectacle
-
-Parallèlement aux activités de groupe, le leader Koichi Makigami élargit le champ de ses activités en mettant l'accent sur **l'expansion de la voix**.
-
-- Exploration plus approfondie du chant diphonique
-- Collaboration avec la danse contemporaine
-- Connexion avec John Zorn (NY avant-garde mondiale)
-- A piloté le boom du thérémine à la fin des années 1990 et contribué à sa diffusion au Japon
-
-Hikashu lui-même a introduit des rythmes de musique ethnique, des gammes non occidentales et de la poésie abstraite, se transformant en « pop expérimentale de nationalité inconnue ».
+1980年の「20世紀の終りに」は、彼らにとって最大のヒット曲となり、日本のテクノ歌謡の代表曲として現在でも評価が高い。
 
 ---
 
-# 5. Années 2000 : Système live doré avec membres stables
-—Équilibre exquis entre improvisation et pop
+# 3. インディ化と深化（1981–1985）  
+—ポップから「音楽実験体」へ
 
-Depuis les années 2000, Hikashu a continué à donner des concerts mensuels pendant longtemps et est entré dans un état extrêmement stable en tant que groupe.
+80年代前半、ヒカシューは大手レーベルの枠から離れ、**より自由度の高い創作体制**に移行する。
 
-Caractéristiques de cette période :
+この時期の重要点：
 
-- Basé sur un usage improvisé, mais met également l'accent sur la musique structurelle
-- Démontrer un haut niveau de performance tout en gardant du non-sens et de l'humour
-- Développement multidirectionnel incluant des sources sonores live, des éditions limitées, des œuvres expérimentales peu structurées, etc.
+- サウンドはポップでありながら、構造は明らかに現代音楽的  
+- 演劇性の強いステージング  
+- 複雑な変拍子と音響的ギターアプローチ  
+- 声によるノイズ表現
 
-Surtout depuis les années 2010, le nombre de représentations à l'étranger a augmenté plusieurs fois par an et le groupe est devenu un habitué des festivals de musique d'avant-garde du monde entier.
-
----
-
-# 6. Hikashu moderne (années 2010-2020)
-—Faites de votre travail une « expérimentation continue »
-
-Hikashu continue d'être actif dans les années 2020, et bien qu'il s'agisse d'un groupe de longue date, il est unique dans le sens où sa politique créative n'est pas du tout figée.
-
-- Remise en avant de la musique électronique
-- Réinterprétation de la voix et du corps
-- Introduction d'instruments ethniques
-- Travail abstrait avec ensemble minimal
-- Un arrangement live qui reconstitue avec audace des chansons d'antan.
-
-Le style de Hikashu consistant à « réexpérimenter » en utilisant des œuvres du passé plutôt que de « reproduire des chansons célèbres du passé » est unique à Hikashu.
+いわゆる「ニューウェーブ／テクノ」という括りでは収まらない、**脱ジャンル化の始まり**である。
 
 ---
 
-# 7. Analyse détaillée des caractéristiques musicales
-—Éléments qui font du Hikashu Hikashu
+# 4. 巻上公一の活動拡張（1980年代後半–1990年代）  
+—テクノ、民族音楽、テルミン、舞台芸術へ
 
-### ■ 1. L'idée de transformer la voix en instrument
-La voix de Koichi Makigami est un mélange des éléments suivants :
+グループとしての活動と並行し、リーダー巻上公一は **声の拡張** を主軸に活動範囲を拡大する。
 
-- Chant diphonique
-- Manipulation du ton en changeant la résonance orale
-- Amélioration du son respiratoire
-- des « mots acoustiques » avec des syllabes dénuées de sens
-- Doublage dramatique
+- 倍音唱法のさらなる探求  
+- コンテンポラリーダンスとの共演  
+- ジョン・ゾーン（NY前衛界）の人脈との接続  
+- 1990年代後半のテルミンブームを牽引し、日本国内への普及に寄与  
 
-Il ne s’agit pas seulement de voix, mais d’une exploration de la voix en tant que matériau acoustique.
-
-### ■ 2. Rythme à plusieurs niveaux
-Au début, les nouveaux rythmes stoïques ressemblant à des vagues se démarquent, mais à partir du milieu, des ensembles complexes avec plusieurs rythmes existant en même temps se multiplient.
-
-### ■ 3. « L'humour structurel » plutôt que « l'absurdité »
-Les paroles et la production de Hikashu peuvent sembler bizarres, mais beaucoup d'entre elles sont structurées de manière extrêmement précise.
-Le non-sens n’est pas un « gag qui arrête la pensée », mais un moyen permettant de secouer la frontière entre le langage et le son.
-
-### ■ 4. Thérémine et acoustique électronique
-Des éléments qui caractérisent Hikashu depuis les années 1990.
-La tonalité instable du thérémine perturbe la structure du chant tout en lui donnant une impression d'expansion spatiale.
+ヒカシュー自体も、民族音楽のリズムや非西洋音階、抽象的ポエジーを導入し、**“国籍不詳の実験ポップ”**へ変貌していく。
 
 ---
 
-# 8. Aperçu des principaux membres
+# 5. 2000年代：安定メンバーによる黄金のライブ体制  
+—即興 × ポップの絶妙バランス
 
-- **Koichi Makigami** : Voix : Thérémine. le centre du groupe. Un large éventail d'activités allant de la musique d'avant-garde au théâtre en passant par la musique folklorique.
-- **Mita Chojin** : Guitare. Habile en traitement acoustique et en techniques de jeu irrégulières.
-- **Akira Toyama** (participation temporaire) : Batterie. Introduire un sens du jazz/improvisation dans le groupe.
-- **Masami Sakaide** : Basse. Contribue à la complexité de la structure rythmique.
-- **Makoto Inoue** (initiale) : Clavier. Cela a déterminé le côté techno/new wave de Hikashu au début.
+2000年代以降、ヒカシューは月例のライブ活動を長期的に継続し、バンドとして極めて安定した状態に入る。
 
-*L'histoire des membres est longue et compliquée, mais seuls les personnages principaux seront traités ici.
+この時期の特徴：
+
+- 即興語法をベースにしつつ、構造的な楽曲も重視  
+- ナンセンスとユーモアを保ちながら高度な演奏力を発揮  
+- ライブ音源、限定盤、ミニマル構成の実験作品など、多方向展開  
+
+特に2010年代以降は、年に数回の海外公演も増加し、**世界的な前衛音楽フェスティバルの常連**となる。
 
 ---
 
-# 9. Chronologie (principales tendances)
+# 6. 現代のヒカシュー（2010–2020s）  
+—“実験し続けること”を作品にする
+
+ヒカシューは2020年代に入っても活動を継続し、長寿バンドでありながら **創作方針がまったく固定化されていない**点が特異である。
+
+- 電子音楽の再強調  
+- 声と身体の再解釈  
+- 民族楽器の導入  
+- 最小限のアンサンブルによる抽象作品  
+- 往年の曲を大胆に再構成するライブアレンジ  
+
+「過去の名曲を再現する」よりも、むしろ過去作を素材に“再実験”するスタイルは、ヒカシューならではだ。
+
+---
+
+# 7. 音楽的特徴の詳細分析  
+—ヒカシューをヒカシューたらしめる要素
+
+### ■ 1. 声を楽器化する発想  
+巻上公一の声は以下の要素が混在している：
+
+- 倍音唱法  
+- 口腔共鳴の変化による音色操作  
+- ブレス音の強調  
+- 意味のない音節による“音響語”  
+- 演劇的な声の演じ分け  
+
+これらは単なるボーカルではなく、**音響的素材としての声**の探求である。
+
+### ■ 2. リズムの多層化  
+初期にはニューウェーブ的なストイックなビートが目立つが、中期以降は複数の拍感が同時に存在する複雑なアンサンブルが増える。
+
+### ■ 3. 「不条理」ではなく「構造的ユーモア」  
+ヒカシューの歌詞や演出は奇天烈に見えるが、その多くが極めて緻密に構造化されている。  
+ナンセンスは“思考停止のギャグ”ではなく、**言語と音の境界を揺らすための装置**となる。
+
+### ■ 4. テルミンと電子音響  
+90年代以降のヒカシューを特徴づける要素。  
+テルミンの不安定な音程は、曲の構造を攪乱しつつ、空間的な広がりを与える。
+
+---
+
+# 8. 主要メンバーの概観
+
+- **巻上公一**：声・テルミン。バンドの中心。前衛音楽〜演劇〜民族音楽まで幅広い活動。  
+- **三田超人**：ギター。音響処理・変則奏法の使い手。  
+- **外山明**（時期参加）：ドラム。ジャズ／即興の感覚をバンドに導入。  
+- **坂出雅海**：ベース。リズム構造の複雑化に貢献。  
+- **井上誠**（初期）：キーボード。初期ヒカシューのテクノ・ニューウェーブ感を決定づけた。
+
+※メンバー変遷は長く複雑だが、ここでは主要人物のみを扱う。
+
+---
+
+# 9. 年表（主要動向）
 
 <div class="mermaid">
 timeline
@@ -188,43 +187,43 @@ timeline
 
 ---
 
-# 10. Œuvres représentatives (extrait)
+# 10. 代表作品（抜粋）
 
-* **À la fin du 20e siècle** (1980)
-* **Rumeurs d'humanité**
-* **Hikashu (premier album)**
-* **Vie**
-* **Visage humain**
-* **Œuvres d'improvisation et de structure (prolifiques dans les années 2000)**
+* **20世紀の終りに**（1980）
+* **うわさの人類**
+* **ヒカシュー（デビュー期アルバム）**
+* **生きること**
+* **人間の顔**
+* **即興と構造の作品群（2000年代多作）**
 
-Ces œuvres continuent de développer la vision du monde unique de Hikashu, quelles que soient les tendances.
-
----
-
-# 11. Importance de Hikashu
-
-—Pas un « groupe de longue durée » mais une « expérience durable »
-
-La particularité de Hikashu réside dans le fait qu'elle est restée un groupe artistique naturel qui évolue au fil du temps.
-
-1. Faites des allers-retours libres entre major et underground
-2. Poursuivre l’art acoustique centré sur la voix
-3. Attitude pour continuer à créer quelles que soient les tendances du temps
-4. Libération du cadre des groupes de rock traditionnels
-5. Philosophie live qui traverse toujours les genres et fait même des réinterprétations une « expérimentation »
-
-Il ne suffit pas de parler simplement de Hikashu comme d’une « légende de la nouvelle vague japonaise » ; il devrait plutôt être positionné comme un tournant important dans l’histoire de la musique contemporaine et de l’art d’avant-garde japonais.
+これらの作品は流行とは無関係に、常にヒカシュー固有の世界観を展開し続けている。
 
 ---
 
-# 12. Conclusion
+# 11. ヒカシューの意義
 
-—L'« état » de Hikashu
+—“長寿バンド”ではなく“持続する実験”
 
-Hikashu est plus qu'un « groupe », c'est un terrain d'expérimentation du son, du corps et de l'humour.
-Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « présent ».
+ヒカシューの特異性は、**時間とともに変質していく自然体のアート集団であり続けたこと**にある。
 
-Cette attitude est d’une valeur unique dans l’histoire de la musique japonaise.
-Hikashu ne se termine jamais. Ils existent toujours comme un « État » permanent.
+1. メジャーとアングラを自在に往復
+2. 声を中心にした音響芸術の追求
+3. 時代の流行とは無関係に創作を続ける姿勢
+4. 伝統的ロックバンドの枠組みからの解放
+5. 常にジャンル横断的で、再演すら“実験”にするライブ哲学
+
+ヒカシューは「日本のニューウェーブのレジェンド」として単に語るには不十分であり、むしろ**日本の現代音楽・前衛芸術史の重要節点**として位置づけるべき存在である。
+
+---
+
+# 12. 結語
+
+—ヒカシューという“状態”
+
+ヒカシューは“バンド”というより、**音と身体とユーモアの実験場**である。
+結成から45年を超えても、彼らは過去を再演するためではなく、常に“今”を新しく発見するためにステージに立つ。
+
+その姿勢こそが、日本の音楽史において唯一無二の価値を持つ。
+ヒカシューは終わらない。彼らは常に、現在進行形の「状態」として存在している。
 
 ---

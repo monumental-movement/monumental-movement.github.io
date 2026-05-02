@@ -139,7 +139,7 @@ A1. Les tonalités électroniques sont utilisées pour transmettre intuitivement
 
 A2. Des exemples représentatifs incluent « 2001 : L'Odyssée de l'espace », « Star Wars », « Blade Runner » et « Interstellar ».
 
-**T3. Comment l’IA est-elle impliquée dans la musique de film de science-fiction ? **
+**T3. Comment l’IA est-elle impliquée dans la musique de films de science-fiction ? **
 
 A3. Actuellement, les outils de composition d’IA sont utilisés pour créer des bandes-annonces de films de science-fiction et la production sonore de jeux, ce qui constitue un exemple de pratique futuriste.
 
@@ -151,7 +151,7 @@ A3. Actuellement, les outils de composition d’IA sont utilisés pour créer de
 * Il a été exprimé de diverses manières, notamment avec des sons électroniques, des synthétiseurs, un orchestre et de l'ambiance.
 * Tout au long de l'histoire, on peut dire que la **relation entre les humains et la technologie** a été visualisée à travers le son.
 
-> La future musique de film de science-fiction ouvrira un nouveau monde grâce à la collaboration entre l'IA et les compositeurs humains.
+> Les futures musiques de films de science-fiction ouvriront un nouveau monde grâce à la collaboration entre l'IA et les compositeurs humains.
 
 
 ---

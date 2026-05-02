@@ -10,12 +10,12 @@ tags:
 - Electronic
 - House
 - 90s
-title: Dee Jacobee – Je suis vivant Todd Terry Mix
+title: Dee Jacobee – I'm Alive Todd Terry Mix
 ---
 
 
-"I'm Alive" du chanteur R&B britannique Dee Jacobee par un DJ/artiste de musique house américain
-Un morceau house remixé par les remixeurs Todd Terry et D.A.R.C.
+UKのR&BシンガーDee Jacobee の「I'm Alive」をアメリカのDJ・ハウスミュージックの
+リミキサーTodd TerryとD.A.R.C.がremixしたハウストラック。
 
 #### Liste des chansons
 ```md

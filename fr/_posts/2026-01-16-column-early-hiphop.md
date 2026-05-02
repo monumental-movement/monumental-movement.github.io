@@ -10,25 +10,24 @@ permalink: /fr/column-early-hiphop/
 tags:
 - Hiphop
 - Rap
-title: '[Chronique] Les débuts de la culture hip-hop avant Bambaataa : une chaîne
-  d''expressions née naturellement de la scène du Bronx'
+title: 【コラム】 バンバータ以前の初期ヒップホップ文化──ブロンクスの現場から自然発生した表現の連鎖
 ---
 
 
 
-## Prologue : Le hip-hop a commencé « avant d'être défini »
+## 序章：ヒップホップは「定義される前」に始まっていた
 
-Texte : mmr｜Thème : DJ, danse, voix et expressions de rue qui sont apparues spontanément dans le Bronx au début des années 1970, avant que le hip-hop ne soit considéré comme une idée ou un mouvement.
+文：mmr｜テーマ：ヒップホップが思想や運動として語られる以前、1970年代初頭のブロンクスで自然発生したDJ・ダンス・声・街の表現について
 
-Le phénomène culturel qui se produisait dans le sud du Bronx à New York au début des années 1970 n'avait pas encore de nom, « hip-hop ». Il n'y avait pas d'idéologie unifiée ni de conscience de ce mouvement.
+1970年代初頭のニューヨーク、サウス・ブロンクスで起きていた文化的現象は、当時まだ「ヒップホップ」という名前を持っていなかった。そこには統一された理念も、運動としての自覚も存在していなかった。
 
-Les jeunes se sont simplement rassemblés, ont fait de la musique, ont dansé, ont élevé la voix et ont laissé leur empreinte sur la ville. Cette série d’actions s’organisera plus tard comme une culture unique.
+若者たちはただ集まり、音を鳴らし、踊り、声を上げ、街に痕跡を残していた。その一連の行為が、後年ひとつの文化として整理されることになる。
 
-Ce qui est important pour comprendre cette période, c’est que les pratiques culturelles fondamentales existaient déjà avant Afrika Bambaataa, qui deviendra plus tard une icône.
+この時代を理解する上で重要なのは、後に象徴的存在となるアフリカ・バンバータ以前にも、すでに文化の核となる実践が存在していたという点である。
 
-Le hip-hop n’est pas l’invention d’une seule personne, mais un phénomène complexe créé par l’environnement et la nécessité.
+ヒップホップは誰か一人の発明ではなく、環境と必要性が生み出した複合的な現象だった。
 
->Le hip-hop n'est pas né d'une idéologie, mais c'est une culture qui doit son nom à l'accumulation d'actions.
+> ヒップホップは理念から生まれたのではなく、行為の積み重ねから名前を与えられた文化だった。
 
 ---
 
@@ -45,16 +44,16 @@ color: #fff;
 }
 </style>
 
-## Conditions urbaines du sud du Bronx
+## サウス・ブロンクスという都市条件
 
 
-De la fin des années 1960 aux années 1970, le sud du Bronx a connu un déclin urbain rapide. La partition due à la construction d'autoroutes, au déclin de l'industrie manufacturière, à la perte d'emplois et à l'exode de la population a progressé simultanément.
+1960年代後半から1970年代にかけて、サウス・ブロンクスは急激な都市衰退を経験していた。高速道路建設による分断、製造業の衰退、雇用喪失、人口流出が同時に進行した。
 
-Les maisons ont été abandonnées, les incendies et les incendies criminels étaient monnaie courante et les services publics ont été gravement dégradés. Il y avait peu d’activités culturelles formelles ou d’opportunités récréatives auxquelles les jeunes pouvaient participer.
+住宅は放棄され、火災や放火が頻発し、公共サービスは著しく低下した。若者たちが参加できる正式な文化活動や娯楽の場はほとんど存在しなかった。
 
-Au lieu de cela, des espaces publics tels que des parcs, des gymnases scolaires, des centres communautaires et des cours d’appartements ont été utilisés. Ces lieux étaient mal gérés, avaient des propriétaires incertains et étaient libres d'utilisation.
+その代替として利用されたのが、公園、学校の体育館、コミュニティセンター、アパートの中庭といった公共空間だった。これらの場所は、管理が緩く、持ち主が不明確で、自由な使用が可能だった。
 
-Cet espace vide urbain est devenu un terrain fertile pour permettre des expressions uniques, différentes de l’industrie musicale et de la culture des clubs existantes.
+この都市的余白が、既存の音楽産業やクラブ文化とは異なる独自の表現を許容する土壌となった。
 
 <div class="mermaid">
 graph TD
@@ -66,115 +65,123 @@ D --> E[非公式文化の発生]
 
 ---
 
-> Le point de départ du hip-hop n'était pas la musique, mais le vide créé par la ville.
+> ヒップホップの出発点は音楽ではなく、都市が生んだ空白だった。
 
 ---
 
-## Naissance du rôle de DJ
+## DJという役割の誕生
 
 
-Les DJ ont joué le rôle le plus central dans les débuts de la culture hip-hop. Cependant, à cette époque, les DJ ressemblaient davantage à des organisateurs d’événements qu’à des musiciens et des artistes qu’ils sont aujourd’hui.
+初期ヒップホップ文化において、最も中心的な役割を担っていたのがDJだった。ただしこの段階のDJは、現在のような音楽家やアーティストというよりも、イベントの実務担当者に近い存在だった。
 
-Le DJ était chargé de préparer l'équipement de sonorisation, d'assurer l'alimentation électrique, d'apporter les disques et de faire en sorte que la fête ait lieu. En plus de « sélectionner » la musique, il fallait également « créer l'espace ».
+DJは音響機材を用意し、電源を確保し、レコードを持ち込み、パーティそのものを成立させる責任を負っていた。音楽を「選ぶ」ことと同時に、「場を成立させる」ことが求められていた。
 
-Le fait d'extraire des parties rythmiques de disques funk et soul et de les répéter tout en observant la réaction du public est devenu spontané et sophistiqué.
+ファンクやソウルのレコードからリズムが際立つ部分を抜き出し、観客の反応を見ながら繰り返すという行為は、自然発生的に洗練されていった。
 
-A cette époque, les DJ étaient moins des créateurs que des contrôleurs du temps.
+この段階では、DJは創作者というよりも、時間を操作する調整者だった。
 
-> Le rôle du DJ n'était pas de jouer de la musique, mais de contrôler l'énergie du groupe.
-
----
-
-## Découverte et mise en place de breakbeats
-
-
-Les disques funk et soul comportaient souvent de courts intermèdes composés uniquement de musique instrumentale. A ce moment, le DJ remarque que les mouvements des danseurs sont les plus intenses.
-
-En utilisant deux copies du même disque et en en jouant alternativement des parties, une technique a été créée pour allonger intentionnellement le rythme. C'est devenu le prototype de la structure qui sera plus tard appelée breakbeat.
-
-Ce qui est important, c’est que cette méthode n’était pas une invention théorique, mais qu’elle a été créée à la suite de l’observation des réactions du public. La structure musicale a été réorganisée par des réponses corporelles.
-
-> Blake a reçu un sens en étant dansé et non en étant découvert.
+> DJは音を流す存在ではなく、集団のエネルギーを制御する役割だった。
 
 ---
 
-## Formation de la culture de la danse
+## ブレイクビーツの発見と定着
 
 
-La répétition des breakbeats changeait grandement l'expression physique des danseurs. Des mouvements plus proches du sol, des rotations, des arrêts et redémarrages brusques se développent plutôt que des mouvements verticaux.
+ファンクやソウルのレコードには、楽器演奏のみになる短い間奏部分が存在していた。この瞬間に、ダンサーたちの動きが最も激しくなることにDJたちは気づく。
 
-Ces mouvements n’étaient pas des chorégraphies mais des réactions impromptues. Dans un cercle entouré du public et du DJ, les danseurs marquaient leur présence avec leur corps.
+同じレコードを二枚使い、その部分を交互に再生することで、リズムを意図的に延長する技法が生まれた。これが後にブレイクビーツと呼ばれる構造の原型となる。
 
-Cette culture de la danse a ensuite été appelée breakdance, mais au début, il n’existait ni nom ni système clair.
+重要なのは、この手法が理論的発明ではなく、観客の反応を観察した結果として生まれた点である。音楽構造は身体反応によって再編された。
 
->La danse n'était pas une technique à montrer, mais une réponse immédiate au son.
-
----
-
-## Rôle de la voix avant MC
-
-
-L'utilisation de la voix dans les premières fêtes était pratique plutôt que poétique. Les voix ont été utilisées pour remuer la foule, attirer l’attention et maintenir le rythme de la fête.
-
-Des phrases courtes, des phrases qui riment et des appels répétés émergent naturellement et se connectent progressivement au rythme.
-
-À ce stade, il y avait peu de récits personnels ou de commentaires sociaux, et l’objectif était de maintenir l’énergie de l’espace.
-
-> Le rap était une technique d'entretien d'un groupe avant d'être une expression.
+> ブレイクは発見されたのではなく、踊られることで意味を与えられた。
 
 ---
 
-## Graffitis et surfaces urbaines
+## ダンス文化の形成
 
 
-À la même époque, les graffitis sur les métros et les bâtiments étaient également profondément liés aux débuts de la culture hip-hop.
+ブレイクビーツの反復は、ダンサーの身体表現を大きく変化させた。上下運動よりも床に近い動き、回転、急停止と再始動が発達していく。
 
-Le fait d'écrire son nom, de laisser une trace et de graver sa présence dans l'espace urbain en mouvement était un moyen d'expression, au même titre que la musique et la danse.
+これらの動きは振付ではなく、即興的な反応だった。観客とDJに囲まれた円の中で、ダンサーは自らの存在を身体で示した。
 
-Les DJ ont occupé l'espace avec le son, les danseurs ont occupé la piste avec leur corps et les graffitis ont occupé la ville visuellement.
+このダンス文化は、後にブレイクダンスと呼ばれるようになるが、当初は明確な名称も体系も存在しなかった。
 
->Le hip-hop était une expression globale qui utilisait la ville comme toile.
-
----
-
-## Groupe avant Bambaataa
-
-
-Avant l’intégration culturelle et l’idéalisation d’Afrika Bambaataa, il existait déjà de nombreux praticiens inconnus dans le domaine.
-
-Bien que nombre d’entre elles ne soient pas enregistrées et soient souvent omises dans les récits ultérieurs, ce sont ces pratiques collectives qui constituent la base de la culture.
-
-Le hip-hop n’était pas une invention individuelle, mais un ensemble d’actes répondant à l’environnement.
-
-> L'essence du hip-hop n'était pas dans les héros, mais dans la scène.
+> ダンスは見せる技術ではなく、音に対する即時的な応答だった。
 
 ---
 
-## Chronologie : Les débuts de la culture hip-hop avant Bambaataa
+## MC以前の声の役割
 
 
-| Années | Principaux mouvements |
+初期パーティにおける声の使用は、詩的表現ではなく実務的なものだった。観客を煽り、注意を促し、パーティの流れを維持するために声が使われた。
+
+短いフレーズ、韻を踏む言い回し、反復される掛け声が自然に生まれ、次第にリズムと結びついていく。
+
+この段階では個人的物語や社会的主張はほとんど存在せず、目的は場のエネルギーを保つことにあった。
+
+> ラップは表現以前に、集団を維持するための技術だった。
+
+---
+
+## グラフィティと都市表面
+
+
+同時期、地下鉄や建物の壁面に描かれていたグラフィティも、初期ヒップホップ文化と深く結びついていた。
+
+名前を書く、痕跡を残す、移動する都市空間に自分の存在を刻む行為は、音楽やダンスと同様に自己表現の手段だった。
+
+DJが音で空間を占拠し、ダンサーが身体で床を占拠し、グラフィティは視覚で街を占拠した。
+
+> ヒップホップは街をキャンバスとして使った総合表現だった。
+
+---
+
+## バンバータ以前の群像
+
+
+アフリカ・バンバータが文化の統合と理念化を行う以前、現場にはすでに多くの無名の実践者が存在していた。
+
+彼らの多くは記録に残らず、後年の語りの中で省略されがちだが、文化の基礎を形作ったのはこうした集団的実践だった。
+
+ヒップホップは個人の発明ではなく、環境に応答した多数の行為の集合体だった。
+
+> ヒップホップの本質は英雄ではなく、現場にあった。
+
+---
+
+## 年表：バンバータ以前の初期ヒップホップ文化
+
+
+| 年代       | 主な動き              |
 | -------- | ----------------- |
-| Fin des années 1960 | Le déclin urbain dans le sud du Bronx se poursuit |
-| Vers 1970 | Augmentation des fêtes informelles dans les espaces publics |
-| 1971-1972 | Les techniques DJ qui prolongent les pauses s'imposent |
-| 1972-1973 | Le rôle de MC devient courant |
-| Avant 1973 | Développement parallèle du graffiti dansant |
+| 1960年代後半 | サウス・ブロンクスの都市衰退が進行 |
+| 1970年前後  | 公共空間での非公式パーティ増加   |
+| 1971–72年 | ブレイクを延ばすDJ手法が定着   |
+| 1972–73年 | MC的役割が一般化         |
+| 1973年以前  | ダンス・グラフィティの並行発展   |
 
-> La chronologie montre l'accumulation d'actions et non d'événements.
-
----
-
-## Dernier chapitre : La force de la culture avant qu'elle n'ait un nom
-
-
-La culture que l’on appellera plus tard hip-hop était initialement inorganisée, mais elle était dans cette mesure flexible et forte.
-
-Avant que les idées et les définitions ne soient données, les sons produisaient des sons, les corps bougeaient et les villes étaient utilisées. La culture a d'abord été réalisée, puis discutée.
-
-Comprendre cette première étape conduit à reconcevoir le hip-hop comme un dispositif culturel qui répond aux circonstances plutôt que comme un genre figé.
-
-> L'essence du hip-hop réside dans l'époque à laquelle il a été créé plutôt que dans le moment où il a été achevé.
+> 年表は出来事ではなく、行為の蓄積を示している。
 
 ---
 
+## 終章：名前が付く前の文化の強度
+
+
+後にヒップホップと呼ばれる文化は、当初は整理されていなかったが、その分だけ柔軟で強度を持っていた。
+
+理念や定義が与えられる前に、音は鳴り、身体は動き、街は使われていた。文化はまず行われ、その後に語られた。
+
+この初期段階を理解することは、ヒップホップを固定化されたジャンルではなく、状況に応答する文化装置として捉え直すことにつながる。
+
+> ヒップホップは完成された瞬間よりも、生成されていた時間にこそ本質がある。
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QtytdV0hECI?si=tKm_zTNvzXlZqTUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

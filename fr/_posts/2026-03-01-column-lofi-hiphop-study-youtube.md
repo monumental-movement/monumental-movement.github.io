@@ -20,7 +20,7 @@ title: '[Chronique] Pourquoi le hip-hop Lo-Fi est devenu un standard pour étudi
 
 ## Qu'est-ce que le hip-hop Lo-Fi ?
 
-Texte : mmr｜Thème : Examiner le contexte historique du hip-hop Lo-Fi devenu populaire dans le monde entier en tant que « musique de fond pour étudier et travailler » et la structure de sa popularité.
+Texte : mmr｜Thème : Examiner le contexte historique du hip-hop Lo-Fi devenu mondialement soutenu en tant que « musique de fond pour étudier et travailler » et la structure de sa popularité.
 
 Le hip-hop Lo-Fi est un sous-genre du hip-hop instrumental caractérisé par des textures intentionnellement bruyantes et déformées, des rythmes simples et des structures de boucles courtes.
 Les paroles sont souvent absentes et le tempo se situe autour de 60-90 BPM.
@@ -78,7 +78,7 @@ timeline
 
 ### J Dilla
 
-Producteur de Détroit. La conception des battements, qui conserve une oscillation semblable à celle d'un humain, a eu une grande influence sur les générations suivantes.
+Producteur de Détroit. La conception des battements, qui conserve une oscillation semblable à celle d'un être humain, a eu une grande influence sur les générations suivantes.
 
 ### Nujabés
 
@@ -94,7 +94,7 @@ Représentant de la génération SoundCloud des années 2010. Il a gagné en pop
 
 ### Idéalisme
 
-Leurs rythmes Lo-Fi mélodieux basés sur le piano ont élargi leur soutien à l'ère du streaming.
+Leurs rythmes Lo-Fi mélodiques basés sur le piano ont élargi leur soutien à l'ère du streaming.
 
 > Les artistes majeurs partageaient une attitude consistant à mettre l'accent sur l'esthétique de la production plutôt que sur le commercialisme.
 
@@ -107,7 +107,7 @@ Leurs rythmes Lo-Fi mélodieux basés sur le piano ont élargi leur soutien à l
 *Toppabeats « Monday Loop »
 * Idéalisme "Chutes de neige"
 
-Ces chansons partagent la caractéristique d’éviter les développements complexes et de présenter la texture et l’atmosphère dans de courtes boucles. Les changements de volume sont faibles et il n'y a pas de paroles, il est donc difficile de se distraire.
+Ces chansons partagent la caractéristique d’éviter les développements complexes et de présenter la texture et l’atmosphère dans de courtes boucles. Les changements de volume sont faibles et il n'y a pas de paroles, donc cela ne vous distrait pas.
 
 <div class="mermaid">
 flowchart LR
@@ -161,6 +161,6 @@ La musique à structure répétitive convient à la lecture en boucle. La distri
 
 Pour une génération élevée sur YouTube et le streaming, les recommandations algorithmiques et la culture des playlists sont la norme, et Lo-Fi était un choix naturel pour ce contexte.
 
-> La popularité du hip-hop Lo-Fi n'est pas une coïncidence ; il est façonné par l’interaction des structures acoustiques et des environnements numériques.
+> La popularité du hip-hop Lo-Fi n'est pas une coïncidence ; il est façonné par l’interaction entre les structures acoustiques et l’environnement numérique.
 
 ---

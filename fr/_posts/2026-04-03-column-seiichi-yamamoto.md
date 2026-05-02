@@ -66,7 +66,7 @@ Initialement connu sous le nom de noise rock destructeur, il a progressivement �
 
 En raison de son volume et de ses vibrations extrêmes, le son agit non seulement comme une sensation auditive mais aussi comme une sensation physique.
 
-#### Transe par la répétition
+#### Transe par répétition
 
 En raison de la longue répétition, la notion du temps se dilue et le public est plongé dans un état de transe.
 
@@ -207,7 +207,7 @@ Ici, la mélodie répétée est amplifiée d'innombrables fois par des retards, 
 * Le rythme n'est pas explicite et persiste
 * L'espace continue de s'étendre
 
-La batterie ne sert pas tant à donner le rythme qu'à « l'axe qui soutient la musique ».
+Plutôt que de marquer le rythme, la batterie fonctionne comme « l'axe qui soutient la musique ».
 
 * Un motif qui se répète à intervalles réguliers
 * Soufflage minimaliste sans décoration excessive
@@ -259,7 +259,7 @@ Les ours de Namba se caractérisent par leur développement à travers le « lie
 
 Dans cet environnement, de nombreux jeunes acquièrent de l’expérience et forment leurs propres expressions.
 
-Ce qui est important dans ce processus n'est pas d'expérimenter le « son terminé », mais d'expérimenter le « son en cours ».
+Ce qui est important dans ce processus n'est pas d'éprouver le « son terminé », mais d'éprouver le « son en cours ».
 
 Tout comme la propre musique de Seiichi Yamamoto trouve de la valeur dans l'inachevé et la continuité, ce lieu met également l'accent sur le processus.
 
@@ -271,7 +271,7 @@ En étant quotidiennement exposé à une variété de performances et de sons no
 
 Le fait de nourrir la prochaine génération influence non seulement les autres, mais crée également un cycle dans lequel la profondeur de son propre son continue d'être mise à jour.
 
-> La musique est l'expression d'un individu, mais en même temps, c'est aussi un phénomène nourri par le lieu.
+> La musique est l'expression d'un individu, mais en même temps un phénomène nourri par le lieu.
 
 ---
 

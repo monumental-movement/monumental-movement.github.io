@@ -10,23 +10,23 @@ permalink: /fr/column-northern-soul/
 tags:
 - Northern Soul
 - Soul
-title: '[Chronique] Origine de la Northern Soul et sa popularité au Japon'
+title: 【コラム】 ノーザンソウルの起源と日本での人気
 ---
 
 
 
-## Qu'est-ce que la Northern Soul ?
+## ノーザンソウルとは何か
 
-Texte : mmr｜Thème : Comment Northern Soul, née en Angleterre dans les années 1960, s'est répandue au Japon et a gagné une acceptation et un soutien uniques, à propos de l'histoire, de la culture et de la scène locale.
+文：mmr｜テーマ：1960年代英国で生まれたノーザンソウルが、どのように日本へ伝播し、独自の受容と支持を獲得していったのかを、歴史・文化・現場について
 
 
-Le terme Northern Soul est à la fois un genre musical et un concept qui fait référence à des attitudes et pratiques culturelles spécifiques. Il s'agit d'une culture musicale qui a été soutenue avec enthousiasme dans la scène des clubs du nord de l'Angleterre, se concentrant principalement sur la musique soul up-tempo produite en Amérique entre le milieu et la fin des années 1960, en particulier les chansons de labels mineurs qui n'ont pas connu de succès commercial.
+ノーザンソウルという言葉は、音楽ジャンルであると同時に、特定の文化的態度と実践を指す概念として成立している。主に1960年代中盤から後半にかけてアメリカで制作されたアップテンポのソウル・ミュージック、とりわけ商業的成功には至らなかったマイナー・レーベルの楽曲を中心に、英国北部のクラブ・シーンで熱狂的に支持された音楽文化である。
 
-Ses caractéristiques sont claires. Le BPM est rapide, la signature rythmique à 4 mesures est soulignée, une section de cuivres et une ligne de basse dynamique sont incluses, et la chanson est conçue pour donner la priorité absolue à la sensation élévatrice sur la piste de danse. De nombreuses paroles parlent d'amour ou de chagrin, mais l'accent a été mis sur des rythmes et des grooves qui évoquent des réactions physiques plutôt que des messages sociaux.
+その特徴は明確だ。BPMは速く、4拍子が強調され、ホーン・セクションと躍動的なベースラインを備え、ダンスフロアでの高揚感を最優先に設計されている。歌詞の内容は恋愛や失恋を主題とするものが多いが、社会的メッセージ性よりも身体的反応を引き起こすリズムとグルーヴが重視された。
 
-Il est important de noter que la Northern Soul n’a pas commencé comme une « musique nostalgique ». Pour les jeunes du nord de l’Angleterre de l’époque, il ne s’agissait pas de musique du passé, mais de musique de sol constamment renouvelée.
+重要なのは、ノーザンソウルが「懐古音楽」として始まったわけではない点である。当時の英国北部の若者たちにとって、それは過去の音楽ではなく、現在進行形で更新され続けるフロア・ミュージックだった。
 
->Avant que la Northern Soul ne soit un genre musical, elle se formait comme un ensemble d'attitudes d'écoute et de culture de la danse spécifiques.
+> ノーザンソウルは音楽ジャンルである前に、特定の聴取態度とダンス文化の集合体として形成された。
 
 ---
 
@@ -74,7 +74,7 @@ Les DJ se sont rendus directement aux États-Unis pour faire des achats, trouvan
 ## Culture club et rôle du DJ
 
 
-Dans Northern Soul, les DJ n’étaient pas seulement des sélectionneurs de musique, mais aussi des conservateurs culturels. La sélection des chansons était hautement stratégique et compétitive, car les disques appartenant à un DJ particulier étaient directement liés à la réputation du club.
+Dans Northern Soul, les DJ n’étaient pas seulement des sélectionneurs de musique, mais aussi des conservateurs culturels. La sélection des chansons était extrêmement stratégique et compétitive, car les disques appartenant à un DJ particulier étaient directement liés à la réputation du club.
 
 Les clubs typiques incluent le Twisted Wheel de Manchester et le plus tard emblématique Wigan Casino. Les événements nocturnes étaient courants dans ces clubs, avec des danseurs dansant pendant des heures.
 
@@ -124,7 +124,7 @@ Les passionnés de soul-funk et les DJ japonais ont adopté la Northern Soul dan
 ## L'acceptation unique et la scène des clubs du Japon
 
 
-Au Japon, Northern Soul n'a pas été reproduit sous la même forme qu'en Grande-Bretagne. Plutôt qu'un club exclusif ouvert toute la nuit, il s'est développé en une communauté centrée autour d'événements DJ, de bars et de disquaires.
+Au Japon, Northern Soul n'a pas été reproduit sous la même forme qu'en Grande-Bretagne. Plutôt qu'un club exclusif ouvert toute la nuit, il s'est développé en une communauté centrée autour d'événements DJ, de bars et de magasins de disques.
 
 Il tend à mettre l'accent sur la qualité sonore des disques, la rareté des disques et l'engagement envers les disques originaux plutôt que la danse, et se caractérise par son lien étroit avec la culture des collectionneurs. D’un autre côté, l’essence de la musique sur laquelle on peut danser est préservée et des événements axés sur la danse continuent d’être organisés.
 

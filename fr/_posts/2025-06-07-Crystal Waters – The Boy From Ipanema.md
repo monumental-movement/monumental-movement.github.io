@@ -20,7 +20,7 @@ Crystal Waters est une auteure-compositrice-interprète américaine de house et 
 
 La face A est un remix du DJ/producteur de musique house Frankie Knuckles.
 
-La face B est un remix du DJ et producteur de musique house Todd Terry.
+La face B est un remix du DJ et producteur de house music Todd Terry.
 
 #### Liste des chansons
 ```md

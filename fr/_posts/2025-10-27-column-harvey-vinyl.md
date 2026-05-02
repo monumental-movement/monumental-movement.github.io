@@ -103,7 +103,7 @@ Ces mots sont au cœur de l'esthétique de Harvey.
 
 ---
 
-## Chapitre 5 : L'éthique analogique à l'ère numérique
+## Chapitre 5 : L'éthique analogique à l'ère numérique
 
 Aujourd’hui, de nombreux DJ peuvent parcourir le monde avec une seule clé USB.
 Mais Harvey part toujours en tournée avec une caisse de disques.
@@ -123,7 +123,7 @@ DJ Harvey a récemment déclaré dans une interview :
 > "Je ne suis plus un 'collectionneur'. Je vis juste avec la musique."
 
 En ces mots, il y a la **liberté** que j'ai atteinte à la fin de ma carrière de DJ de plus de 40 ans.
-Collectionner des disques n'était pas un acte de « possession » de la musique, mais plutôt une manière de vivre du temps ensemble.
+Collectionner des disques n'était pas un acte de « possession » de la musique, mais plutôt une façon de vivre du temps ensemble.
 
 Les murs de sa maison sont tapissés de disques analogiques. Il ne s’agit cependant en aucun cas d’archives statiques.
 Chaque fois qu'Harvey laisse tomber l'aiguille, le temps inscrit au tableau reprend vie.

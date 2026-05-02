@@ -10,15 +10,15 @@ tags:
 - Electro House
 - Tech House
 - 00s
-title: Lexy / Autotune – Shibuya Amour
+title: Lexy / Autotune – Shibuya Love
 ---
 
 
-Coproduit par le DJ/producteur berlinois Lexy (Alexander Gerlach) et le duo allemand de producteurs électro/techno/house Autotune.
+ベルリンを拠点に活動するDJ／プロデューサーLexy(Alexander Gerlach)と、ドイツのエレクトロ/テクノ/ハウス プロデューサーデュオAutotuneの共同制作。
 
-"Shibuya Love" est une chanson Electro House/Tech House sortie sur le sous-label Jakuza Records de Low Spirit Recordings en 2001.
+「Shibuya Love」は、2001年にLow Spirit RecordingsのサブレーベルJakuza RecordsからリリースされたElectro House／Tech House。
 
-B1 est un remix du DJ techno allemand Rok, qui a sorti de nombreuses chansons sur des labels prestigieux tels que International Deejay Gigolo Records, Müller Records et Tresor.
+B1は、 International Deejay Gigolo Records, Müller Records やTresorなどの名門レーベルから数多くの楽曲をリリースしているドイツのテクノDJ Rokによるremix。
 
 
 #### Liste des chansons

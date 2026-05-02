@@ -10,11 +10,11 @@ tags:
 - House
 - Techno
 - 90s
-title: Séquence de rêve Feat. Blake Baxter – Réflexion sans fin
+title: Dream Sequence Feat. Blake Baxter – Endless Reflection
 ---
 
 
-L'un des créateurs de la techno de Détroit, Blake Baxter, alias The Prince Of Techno, a joué Tresor lors de sa visite à Berlin en 1992 lors de sa première tournée européenne UR (Underground Resistance), développant la désormais légendaire connexion Berlin-Detroit. Cela a conduit à l'album sorti par Tresor en 1995.
+デトロイト・テクノのオリジネーターの一人、The Prince Of TechnoことBlake Baxter(ブレイク・バクスター)が、1992年に初のUR(Underground Resistance)ヨーロッパツアーでベルリンを訪れた際、Tresorでプレイした事で今や伝説的なベルリン-デトロイトコネクションを開拓した。これがきっかけで、1995年にTresorからリリースしたアルバム。
 
 #### Liste des chansons
 ```md

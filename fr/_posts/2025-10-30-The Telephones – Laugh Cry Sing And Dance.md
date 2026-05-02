@@ -24,7 +24,7 @@ title: Les téléphones – Riez, pleurez, chantez... et dansez !!!
 
 Un groupe japonais formé en 2005 et a fait ses débuts en major en 2009 avec un son dance rock influencé par le revival post-punk/new wave.
 
-"Riez, pleurez, chantez... et dansez !!!" sorti en 2013 est leur quatrième album majeur.
+2013年にリリースされた「Laugh, Cry, Sing... And Dance!!!」は、4枚目のメジャーアルバム。
 
 #### Liste des chansons
 ```md

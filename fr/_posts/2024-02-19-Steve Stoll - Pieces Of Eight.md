@@ -20,7 +20,7 @@ La deuxième chanson de la face B est un remix du DJ et producteur techno britan
 
 B1 sur ce disque se démarque encore plus avec sa ligne de basse à la fois apaisante et puissante et le timing parfait des pads.
 
-"Killin' it" de B2 est un morceau riche en basses qui penche plus vers le trip-hop que vers la techno, avec ses basses sales et profondes et son rythme funky.
+"Killin' it" de B2 est un morceau riche en basses qui penche davantage vers le trip-hop que vers la techno, avec ses basses sales et profondes et son rythme funky.
 
 #### Liste des chansons
 ```md

@@ -88,16 +88,16 @@ Pour la première fois de son histoire, la ville techno de renommée mondiale a 
 
 ### Impact:
 - Tous les clubs fermés (mars 2020 à début 2021)
-- Tous fermés incluant Berghain et Trésor
+- Tous fermés y compris Berghain et Trésor
 - Les revenus du tourisme des clubs sont réduits à zéro
-- Des professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
+- Les professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
 - Aide du gouvernement avec le « Kurzarbeitegeld » (indemnité de chômage partiel)
 
 Les statistiques et les médias confirment que des dizaines de milliers de travailleurs qui dépendent des clubs comme source de revenus ont été touchés.
 
 ---
 
-# Chapitre 3 : L’ère du ligne et « United We Stream » (2020-2021)
+# Chapitre 3 : L'ère du ligne et « United We Stream » (2020-2021)
 La pandémie a poussé la culture des clubs en ligne.
 
 ## ● Lancement de « United We Stream »
@@ -114,7 +114,7 @@ Aller en ligne a bousculé le stéréotype selon lequel les clubs sont une cultu
 Cela a prouvé que la culture des clubs peut également fonctionner comme un support numérique.
 
 ## ● La musique devient introvertie à cause des DJ sets sans public
-Puisqu'il n'y a pas de sol,
+Puisqu'il n'y a pas de plancher,
 Les DJ sets se sont orientés vers les tendances suivantes :
 
 - Le BPM diminue
@@ -160,7 +160,7 @@ Cet étrange phénomène a progressé en 2020-2021.
 ## ● Les clubs seront légalement reclassés en « équipements culturels » (2021)
 En 2021, le Bundestag allemand a pris une décision historique.
 
-**Protéger légalement les clubs en tant qu'« institutions culturelles »**
+**Protection juridique des clubs en tant qu'« institutions culturelles » (Kultureinrichtung)**
 
 Il s’agit en fait d’un tournant majeur.
 Jusqu’alors, les clubs étaient considérés comme une industrie de la vie nocturne.

@@ -22,7 +22,7 @@ Texte : mmr｜Thème : À propos du jalon artistique de la seconde moitié du 
 
 "Koyanisqatsi, réalisé par Godfrey Reggio et mis en musique par Philip Glass, est une œuvre qui a fondamentalement changé les horizons du cinéma et de la musique dans la seconde moitié du XXe siècle."
 
-> « La vie déséquilibrée. »
+> « La vie déséquilibrée. »
 > ― Koyaanisqatsi (Hopi)
 
 

@@ -61,7 +61,7 @@ color: #fff;
 |------|--------------|--------------|
 | Vous êtes couleur naturelle | Eiichi Otaki | Monument pop de la ville |
 | Étincelle | Tatsuro Yamashita | Son urbain sophistiqué |
-| septembre | Mariya Takeuchi | Pop AOR légère |
+| Septembre | Mariya Takeuchi | Pop AOR légère |
 | Numéro de téléphone | Miki Matsubara | Des chefs-d'œuvre réévalués à l'étranger |
 | L'amour parle | Tatsuro Yamashita | Fusion d'éléments de boogie |
 | Centre-ville | Bébé de sucre | Origine de la pop urbaine |
@@ -120,7 +120,7 @@ color: #fff;
 - Synthé logiciel (Native Instruments, Arturia)
 - Culture DJ sur ordinateur portable
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -130,7 +130,7 @@ color: #fff;
 | L'amour est psychédélique | Tomoyuki Tanaka | Héritage sonore de Shibuya |
 | Denki Bilibili | Parfum (produit par Nakata) | Évolution du style Shibuya |
 | Polyrythmie | Parfum | Succès mondial |
-| Le son de la musique | Cubisme graphique | Sens Latin et Shibuya |
+| Le son de la musique | Cubisme Graphique | Sens Latin et Shibuya |
 | Bonjour | Capsules | Néo Future Pop |
 | Tensions estivales | HALCALI | Rap féminin et sensation Shibuya |
 | Thème de l'amour | Kenji Ozawa | Symbole de renaissance et d'expérimentation |

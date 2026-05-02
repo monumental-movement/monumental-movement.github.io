@@ -101,7 +101,7 @@ Bien que les mixtapes soient « gratuites », elles deviennent extrêmement impo
 
 ### Années 2020 : archives et réévaluation
 
-Dans les années 2020, avec la résurgence des cassettes physiques, les mixtapes sont réévaluées en tant que patrimoine culturel. Les réimpressions de cassettes en édition limitée et la distribution officielle en streaming de mix DJ ont augmenté.
+Dans les années 2020, avec la résurgence des cassettes physiques, les mixtapes sont réévaluées en tant que patrimoine culturel. Les réimpressions de cassettes en édition limitée et la distribution officielle en streaming de mix DJ se sont multipliées.
 
 Une structure se dessine dans laquelle cohabitent publication sur le cloud et nostalgie des supports physiques.
 
@@ -196,7 +196,7 @@ Premièrement, le modèle de distribution de l’industrie musicale. Nous avons 
 
 Deuxièmement, le statut des DJ en tant que monteurs s’est amélioré. Il est désormais reconnu comme conservateur, et non seulement comme reproducteur.
 
-Troisièmement, la formation de valeurs axées sur la communauté. Un axe d'évaluation différent des graphiques et des ventes est né.
+Troisièmement, la formation de valeurs axées sur la communauté. Un axe d'évaluation différent de celui des graphiques et des ventes a été créé.
 
 Aujourd’hui, l’édition manuelle et les combinaisons thématiques suscitent un regain d’intérêt en tant que contre-culture des systèmes de recommandation basés sur des algorithmes.
 

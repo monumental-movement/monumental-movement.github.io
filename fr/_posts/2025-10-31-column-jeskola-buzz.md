@@ -53,7 +53,7 @@ Ce qui était distinctif, c'est que le logiciel lui-même se composait d'une mac
 
 * Initiale : fonctionne sous Windows 95/98. Il était léger et disposait d'un écran d'édition de motifs de type tracker et d'une vue modulaire (Machine View).
 * Écosystème de plug-ins : Depuis le début du développement, il existe une spécification « Buzzlib » qui permet aux utilisateurs de créer et de distribuer librement des sources sonores et des effets, et de nombreuses machines sont apparues au sein de la communauté.
-* Mise à niveau de la version : le développement officiel a été temporairement bloqué (en raison de la perte du code source), mais il a été annoncé en juin 2008 que le développement reprendrait.
+* Mise à niveau de la version : bien que le développement officiel ait été temporairement bloqué (en raison de la perte du code source), il a été annoncé en juin 2008 que le développement reprendrait.
 *Dernière build : Build 1503 publiée le 16 janvier 2016.
 
 ### Signification/arrière-plan du nom
@@ -112,13 +112,13 @@ Cela a rendu courant le téléchargement de la machine de quelqu'un d'autre et l
 
 ### 4.2 Relation profonde avec la démoscène
 
-Buzz a gagné en popularité dans la démoscène (culture expérimentale non commerciale de l'art informatique/de la musique), principalement en Europe du Nord et de l'Est. La légèreté, l'évolutivité et la possibilité de patch de Buzz étaient parfaites pour la scène de démonstration, où la compétition consistait à voir combien de sons et d'images uniques pouvaient être produits en utilisant le moins de ressources possible.
+Buzz a gagné en popularité dans la démoscène (culture expérimentale non commerciale de l'art informatique/de la musique), principalement en Europe du Nord et de l'Est. La légèreté, l'évolutivité et la possibilité de patch de Buzz étaient parfaites pour la scène des démos, où la compétition consistait à voir combien de sons et d'images uniques pouvaient être produits avec le moins de ressources possible.
 Pour cette raison, le style de « création de vos propres sources sonores et création de motifs » sur Buzz a été soutenu par de nombreux créateurs de démos/indépendants.
 
 ### 4.3 Création d'un forum/tutoriel en ligne
 
 Des informations sur l'utilisation de Buzz, des conseils de câblage de la machine, des exemples de traitement d'échantillons/de construction de chaînes d'effets, etc. ont été accumulées sur des forums, des blogs et YouTube. En conséquence, nous avons créé un environnement dans lequel même les débutants peuvent apprendre relativement facilement « ce que Buzz peut faire ».
-Cette culture de l'apprentissage a créé une tendance à « apprendre à utiliser/modifier/partager » et a élevé Buzz du statut d'« outil » à celui de « plateforme ».
+Cette culture de l'apprentissage a créé une tendance consistant à « apprendre à utiliser/modifier/partager » et a élevé Buzz du statut d'« outil » à celui de « plateforme ».
 
 ### 4.4 Utilisation dans tous les genres musicaux et création d'une sous-culture
 
@@ -158,7 +158,7 @@ Ainsi, les premières œuvres de Holden ont un langage sonore hautement compatib
 ### 5.2 Utilisation possible mentionnée : Aphex Twin
 
 Concernant Aphex Twin (de son vrai nom Richard D. James), aucun document primaire solide (interviews officielles, etc.) n'a été trouvé indiquant qu'il "a utilisé Buzz", et il n'y a que des mentions de "il a utilisé/pourrait utiliser Buzz" dans les messages du forum et les témoignages d'utilisateurs. Par exemple, sur le forum KVR, un utilisateur a déclaré : "...mon tracker préféré est Jeskola Buzz...", suggérant qu'AFX (Aphex Twin) utilise peut-être un logiciel de tracker.
-Également indiqué dans le fil de discussion HackerNews :
+Également indiqué dans le fil HackerNews :
 
 > "Le flux de travail productif rapide de Jeskola Buzz de l'époque me manque toujours. Synthé logiciel modulaire + tracker avec séquençage de motifs. "
 
@@ -219,7 +219,7 @@ Cette structure de stagnation/reprise a également été influencée par des fac
 
 * La version Build1503 du 16 janvier 2016 a été publiée et existe en tant que dernière version.
 * En outre, des logiciels/environnements héritant de la philosophie de Buzz sont apparus, tels que l'environnement de module Tracker pour Linux et un renouveau en tant que système « modulaire doux ».
-*De plus, avec la renaissance du matériel modulaire (Eurorack, etc.), l'idée de « construire et câbler vos propres circuits » a été réévaluée, et la sensation/idée de fonctionnement de type Buzz est présentée comme une « expérience originale ».
+*De plus, avec la renaissance du matériel modulaire (Eurorack, etc.), l'idée de « construire et câbler vos propres circuits » a été réévaluée, et la sensation/idée de fonctionnement de type Buzz est présentée comme une « expérience originale ».
 
 ### 7.3 Traces laissées : Résumé
 
@@ -248,7 +248,7 @@ En d'autres termes, l'existence de Buzz a brisé le stéréotype selon lequel «
 Vous trouverez ci-dessous une chronologie de l'histoire et des événements majeurs de Buzz.
 
 | Année | Événements |
-| ------------ | ------------------------------------------------------------------------- |
+| ------------ | ------------------------------------------------------------------- |
 | Vers 1997 | Jeskola Buzz publié. Introduit comme un tracker modulaire pour Windows.                                |
 | 1998 | La version initiale active la communauté des utilisateurs. De nombreux plugins/machines sont apparus.                                    |
 | 1999 | Utilisation répandue parmi les scènes de démonstration et la musique électronique indépendante.                                                 |

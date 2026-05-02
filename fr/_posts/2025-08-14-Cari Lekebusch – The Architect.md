@@ -12,17 +12,17 @@ tags:
 - Electro
 - Downtempo
 - 00s
-title: Cari Lekebusch – L’architecte
+title: Cari Lekebusch – The Architect
 ---
 
 
-Cari Lekebusch est une DJ/productrice représentant la Suède.
+Cari Lekebusch (カリ レケブッシュ)は、スウェーデンを代表するDJ／プロデューサー。
 
-Aaron (Aaron Phiri), présenté dans A1 et 2, est un musicien actif en tant que membre de Boogaloo, un groupe caractérisé par un son jazzy HIPHOP.
+A1、2フィーチャーしているAaron(Aaron Phiri)は、ジャジーなHIPHOPサウンドが特徴のグループ、Boogalooの一員として活躍したミュージシャン。
 
-Krister (Krister Linder), présent sur B2, est un musicien électronique suédois.
+B2でフィーチャーしているKrister(Krister Linder/クリスター・リンダー)は、スウェーデンのエレクトロニック・ミュージシャン。
 
-Techno/Deep House/Electro/Downtempo est sorti en 2004 par Truesoul, un label fondé par Adam Beyer et basé à Stockholm, en Suède.
+アダム・ベイヤーによって設立され、スウェーデンのストックホルムを拠点とするレコードレーベルTruesoulから2004年にリリースされたTechno／Deep House／Electro／Downtempo。
 
 #### Liste des chansons
 ```md

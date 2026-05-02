@@ -84,9 +84,9 @@ En fait, de nombreuses chansons post-rock ont ​​trouvé leur place dans les 
 
 ## Explosions in the Sky : des paroles qui embrassent des souvenirs personnels
 
-Explosions in the Sky est un groupe de rock instrumental formé à Austin, au Texas, en 1999. Dès un stade relativement précoce, ils ont établi un style mélodieux et une structure claire.
+Explosions in the Sky est un groupe de rock instrumental formé à Austin, Texas en 1999. Dès un stade relativement précoce, ils ont établi un style mélodieux et une structure claire.
 
-Ce qui est symbolique dans leurs premières activités est un événement fortuit survenu immédiatement après leurs débuts. La sortie de l’œuvre qui a tant attiré leur musique a coïncidé avec une période d’une importance particulière pour la société américaine, suscitant involontairement de fortes associations émotionnelles. Cette expérience leur aurait fait prendre conscience que « la musique prend un sens selon son contexte ».
+Ce qui est symbolique dans leurs premières activités est un événement fortuit survenu immédiatement après leurs débuts. La sortie de l’œuvre qui a tant attiré l’attention sur leur musique a coïncidé avec une période d’une importance particulière pour la société américaine, suscitant involontairement de fortes associations émotionnelles. Cette expérience leur aurait fait prendre conscience que « la musique prend un sens selon son contexte ».
 
 La structure de la chanson d’Explosions in the Sky est claire. Des arpèges simples et des phrases à note unique sont présentés et, à mesure qu'ils sont répétés, le nombre de notes et le volume augmentent progressivement. La batterie visualise la montée de l'émotion par étapes, pour finalement former un grand point culminant.
 
@@ -102,7 +102,7 @@ La raison pour laquelle leur musique a été utilisée dans tant de productions 
 
 Bonne chance à vous ! Black Emperor est un collectif musical né à Montréal à la fin des années 1990. Il a un fort caractère de collectif fluide plutôt que de composition fixe, et se caractérise par une grande formation qui utilise plusieurs guitares, basses, batterie, instruments à cordes et enregistrements sur le terrain.
 
-Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Il n’y a souvent pas d’accroches ou de résolutions claires, ce qui nécessite de la patience et de la concentration de la part de l’auditeur.
+Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Les chansons n'ont souvent pas de refrain ou de résolution claire, ce qui nécessite de la patience et de la concentration de la part de l'auditeur.
 
 Quelle bonne chance pour vous ! Black Emperor présenté était une tentative d'enregistrer le temps social et historique avec des sentiments sonores plutôt que personnels. Les sons, les annonces et les récits fragmentés de la ville évoquent un sentiment collectif d’anxiété et de tension plutôt que de manifester un message spécifique.
 
@@ -161,7 +161,7 @@ Cette tendance ne constitue pas une rupture brutale, mais peut être comprise co
 
 Actuellement, le rock instrumental et cinématographique post-rock s'est imposé comme une méthode d'expression plutôt que comme un nom de genre spécifique. Sa structure continue d'être référencée dans différents contextes tels que des vidéos, des jeux et des installations.
 
-Deux directions énoncées par Explosions in the Sky et Godspeed You ! Black Emperor sert toujours de points de référence créatifs. La musique sans paroles continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
+Deux directions énoncées par Explosions in the Sky et Godspeed You! Black Emperor sert toujours de points de référence créatifs. La musique sans paroles continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
 
 > La musique instrumentale post-rock continuera de créer de nouvelles histoires à travers le silence et le temps.
 

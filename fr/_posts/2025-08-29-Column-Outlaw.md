@@ -116,7 +116,7 @@ Le hip-hop repose sur les « quatre piliers » que sont les block parties, le gr
 
 ---
 
-Le métal a reçu l'image d'être « diabolisé » et a suscité des controverses sur l'autorégulation comme celle du PMRC. Selon le sous-genre, cela peut également créer des conflits sociaux liés à des incidents violents et à des déclarations discriminatoires.
+Le métal a reçu l'image d'être « diabolisé » et a suscité des controverses sur l'autorégulation comme le PMRC. Selon le sous-genre, cela peut également créer des conflits sociaux liés à des incidents violents et à des déclarations discriminatoires.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ Les Leftfield/Queer Clubs reconstruisent des espaces nocturnes sécurisés et é
 
 ### Années 2020 : Espaces irréguliers après la pandémie : Micro-rave et communautés locales
 
-Pendant la période de confinement, des DJ/streaming en plein air de style guérilla se sont produits partout dans le monde. Des tentatives ont été faites pour « réoccuper les espaces publics » tels que les parcs, les toits et les rues, et les négociations avec la police et les habitants sont entrées dans une nouvelle étape.
+Pendant la période de confinement, des DJ/streaming en extérieur de style guérilla se sont produits partout dans le monde. Des tentatives ont été faites pour « réoccuper les espaces publics » tels que les parcs, les toits et les rues, et les négociations avec la police et les habitants sont entrées dans une nouvelle étape.
 
 L'hybridation des mouvements sociaux et des événements musicaux (soirées de collecte de fonds, cuisines communautaires d'entraide, etc.) progresse et l'accent est mis sur le soin et la recherche de consensus plutôt que sur la dichotomie « illégal/légal ».
 
@@ -207,7 +207,7 @@ L'hybridation des mouvements sociaux et des événements musicaux (soirées de c
 
 **Conversion d'espace** : Entrepôt/ruines/rue → club/site (problèmes de construction illégale, de bruit et d'occupation).
 
-**Périphérie économique** : Friction entre la distribution informelle (démarrage, mixage, vente manuelle) et le régime du droit d'auteur.
+**Périphérie économique** : Friction entre la distribution informelle (démarrage, mixage, vente manuelle) et le régime du droit d'auteur.
 
 **Techniques physiques** : mouvements qui semblent violents/obscènes à l'extérieur, tels que le moshing, le break et les liquidations.
 

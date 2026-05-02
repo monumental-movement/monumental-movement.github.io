@@ -75,7 +75,7 @@ Un rythme qui parle entre les sons, c'est ce qui a élevé le jazz au rang d'art
 ---
 
 Yoshio Suzuki et Kunimitsu Inaba, qui ont soutenu les cafés de jazz d'après-guerre au Japon,
-Profitant de cette « liberté des sons de basse » avec les sensibilités de votre propre pays,
+Profitant de cette « liberté des sons graves » avec les sensibilités de notre propre pays,
 En peu de temps, ils créaient leur propre groove unique la nuit à Tokyo.
 
 ---

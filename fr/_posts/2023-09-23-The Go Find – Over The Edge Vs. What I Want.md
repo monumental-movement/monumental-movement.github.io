@@ -9,11 +9,11 @@ permalink: /fr/the-go-find-over-the-edge-vs-what-i-want/
 tags:
 - House
 - Electro
-title: The Go Find – Over The Edge Vs. Ce que je veux
+title: The Go Find – Over The Edge Vs. What I Want
 ---
 
 
-The Go Find est un groupe indie pop belge dirigé par Dieter Sermeus. Leur musique a un charme unique en raison de sa fusion d'éléments pop et d'arrangements house et électroniques.
+The Go Findは、Dieter Sermeus主宰のベルギーのインディーポップバンドです。彼らの音楽は、ポップな要素とハウス&エレクトロニックなアレンジの融合によって独自の魅力を持っています。
 
 #### Liste des chansons
 ```md

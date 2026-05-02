@@ -10,13 +10,13 @@ tags:
 - House
 - Euro House
 - 90s
-title: La saveur – Mettez la main sur moi
+title: The Flavour – Get Your Hands On Me
 ---
 
 
-The Flavor est un projet de studio de Neil Claxton et Johnny Jay, également connu sous le nom de Development Corporation.
+The Flavour (ザ・フレイバー )は、Development Corporation としても知られるNeil Claxton と Johnny Jayによるスタジオ・プロジェクト。
 
-"Get Your Hands On Me", sorti sur le label Jive en 1994, est un morceau House/Euro House mettant en vedette le chanteur house de Chicago Darryl Pandy.
+1994年にレーベルJiveからリリースされた「Get Your Hands On Me」は、シカゴ出身のHouseシンガーDarryl PandyをフィーチャーしたHouse／Euro Houseトラック。
 
 #### Liste des chansons
 ```md

@@ -199,7 +199,7 @@ Cela crée une tension psychologique.
 À la fin du XXe siècle, les musiciens ont commencé à utiliser cet effet intentionnellement.
 
 Le bruit n’est pas seulement du bruit.
-C’était une manière de stimuler directement les émotions.
+C’était une façon de stimuler directement les émotions.
 
 ### L'avènement de la musique noise
 
@@ -265,7 +265,7 @@ B --> C[音楽の革新]
 C --> D[大衆音楽へ]
 </div>
 
-> Une grande partie de la musique pop d'aujourd'hui est issue d'expériences qui n'avaient jamais été comprises auparavant.
+> Une grande partie de la musique pop actuelle est issue d'expériences qui n'avaient jamais été comprises auparavant.
 
 ---
 

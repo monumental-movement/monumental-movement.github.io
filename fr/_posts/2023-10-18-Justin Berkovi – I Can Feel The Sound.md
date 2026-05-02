@@ -9,14 +9,14 @@ permalink: /fr/justin-berkovi-i-can-feel-the-sound/
 tags:
 - Techno
 - UK Techno
-title: Justin Berkovi – Je peux sentir le son
+title: Justin Berkovi – I Can Feel The Sound
 ---
 
 
-Justin Berkovi est un DJ/producteur techno basé à Londres et fondateur de Predicaments.
-De plus, Justin Berkovi participe au groupe de musique et d'art visuel NO FUTURE, dirigé par Christian Vogel, avec Si Begg, Jamie Lidell et d'autres.
+Justin Berkovi（ジャスティン・ベルコヴィ）は、ロンドンを拠点とするテクノDJ/プロデューサーであり、Predicamentsの創設者。
+また、Justin Berkovi はCristian Vogel（クリスチャン・ヴォーゲル）が主軸のmusic&ヴィジュアル・アート集団「NO FUTURE」にSi Begg（サイ・ベグ）、ジャミー・リデル（Jamie Lidell）らと共に参加している。
 
-"I Can Feel The Sound" est sorti en 2004 sur le label techno belge Music Man Records. Side A est un remix du DJ/producteur Phil Kieran de Belfast, en Irlande du Nord. La première chanson de la face B est un remix du DJ français Max Waldern.
+「 I Can Feel The Sound」は、ベルギーのテクノレーベルMusic Man Recordsより2004年にリリース。A面は北アイルランド、ベルファスト出身のDJ/プロデューサーPhil Kieranのremix。B面１曲目はフランス出身のDJ Max Waldernのremix。
 
 #### Liste des chansons
 ```md

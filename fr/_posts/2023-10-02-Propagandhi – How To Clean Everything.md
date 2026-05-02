@@ -9,13 +9,13 @@ permalink: /fr/propagandhi-how-to-clean-everything/
 tags:
 - Punk
 - Hardcore
-title: Propagandhi – Comment tout nettoyer
+title: Propagandhi – How To Clean Everything
 ---
 
 
-"How to Clean Everything" est le premier album du groupe punk rock Propagandhi, sorti en 1993 sur Fat Wreck Chords.
+「How to Clean Everything」は、1993年にFat Wreck ChordsからリリースされたパンクロックバンドPropagandhiのデビューアルバムです。
 
-Mike Daronco d'Allmusic a déclaré que l'album était « une version amusante, vivante mais orientée vers le masse d'Anarchy 101 » et Ron Knox de Vice Media a déclaré en 2016 que l'album était conçu pour poser un défi aux auditeurs.
+AllmusicのMike Daroncoは、このアルバムは「賑やかながらも大衆に向けた『アナーキー101』を表現し、楽しい」と述べ、Vice MediaのRon Knoxは2016年に、このアルバムはリスナーに挑戦を投げかけるためにデザインされたものだと述べました。
 
 #### Liste des chansons
 ```md

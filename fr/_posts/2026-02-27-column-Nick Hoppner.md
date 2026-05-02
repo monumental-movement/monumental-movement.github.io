@@ -169,7 +169,7 @@ Bien qu'Ostgut Ton ait cessé d'être actif par la suite, l'esthétique formée 
 
 Nick Höppner était chargé de faire fonctionner le système, de le vérifier sur le terrain et de l'enregistrer comme source sonore. Sa carrière est un exemple de la manière dont les cultures urbaines s'auto-organisent et acquièrent une influence internationale.
 
-Pas une puissance de star explosive, mais une pratique et une réflexion soutenues. C’est cette force motrice silencieuse qui a façonné un aspect de la Berlin House.
+Pas une célébrité explosive, mais une pratique et une réflexion soutenues. C’est cette force motrice silencieuse qui a façonné un aspect de la Berlin House.
 
 > Les sons émis au sol transcendent le système, mais sont pris en charge par le système.
 

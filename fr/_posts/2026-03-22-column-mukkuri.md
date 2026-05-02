@@ -98,7 +98,7 @@ D --> E[仕上げ]
 
 L'usinage de la partie anche est particulièrement important, car de légères différences d'épaisseur et de forme peuvent grandement affecter le son. Par conséquent, la compétence et l’expérience du producteur déterminent la qualité sonore.
 
-Il est aussi parfois décoré de sculptures et a une valeur non seulement comme instrument de musique mais aussi comme artisanat.
+Il est aussi parfois décoré de sculptures, ce qui le rend précieux non seulement comme instrument de musique mais aussi comme artisanat.
 
 > Mukkuri est un produit artisanal de précision qui allie artisanat et technologie acoustique.
 

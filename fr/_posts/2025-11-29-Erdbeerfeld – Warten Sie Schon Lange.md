@@ -16,7 +16,7 @@ title: Erdbeerfeld – Pourquoi avez-vous Schön Lange ?
 ---
 
 
-Erdbeerfeld est un duo formé par l'artiste sonore Susanne Feld et l'artiste sampleur Sascha Wild.
+Erdbeerfeld est un duo formé par l'artiste sonore Susanne Feld et l'artiste sampler Sascha Wild.
 
 « Warten Sie Schön Lange ? » est un morceau Electro/Synth-pop/Tech House sorti par le label allemand Hal 9000 en 2005. La distribution est assurée par Kompakt.
 

@@ -9,13 +9,13 @@ permalink: /fr/various-exterminator-presents-turn-on-the-heat/
 tags:
 - Reggae
 - Dancehall
-title: Divers – Exterminator présente Allumez la chaleur
+title: Various – Exterminator Presents Turn On The Heat
 ---
 
 
-« Exterminator présente Allumez la chaleur » est
-Un album de compilation très classique de Fatis Burrell en un riddim sorti par le label britannique "Sir Coxsone" en 1989.
-est.
+「Exterminator Presents Turn On The Heat」は、
+1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム
+です。
 
 
 #### Liste des chansons

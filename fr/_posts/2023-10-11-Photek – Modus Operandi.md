@@ -9,15 +9,15 @@ permalink: /fr/photek-modus-operandi/
 tags:
 - Downtempo
 - Jungle
-title: Phototek – Modus Operandi
+title: Photek – Modus Operandi
 ---
 
 
-Rupert Parkes, mieux connu sous le nom de Photek, est un DJ britannique de musique électronique, producteur de disques et compositeur de télévision et de cinéma basé à Los Angeles.
+Photekとして知られているRupert Parkes （ルパート・パークス）は、ロサンゼルスを拠点とするイギリスの電子音楽 DJ/レコード プロデューサー、テレビおよび映画音楽の作曲家。
 
-Photek a reçu trois nominations consécutives aux Grammy Awards dans la catégorie Meilleur enregistrement de remix, non classique, pour "End of Line" de Daft Punk sur la bande originale du film Tron: Legacy en 2012, et pour "Lie Down in Darkness" de Moby en 2012.
+Photekは、2012 年に映画『トロン: レガシー』のサウンドトラックに収録されているダフトパンクの「エンド・オブ・ライン」、2012 年にモービーズ の「ライ・ダウン・イン・ダークネス」で、非クラシック部門の最優秀リミックス・レコーディング部門で 3 回連続でグラミー賞にノミネートされた。
 
-"Modus Operandi" est un futur morceau de jazz downtempo jungle de Photek sorti en 1998 sur le sous-label électronique/dance Science de Virgin Group à la fin des années 90.
+「Modus Operandi」は、90年代後半のVirginグループのエレクトロニック/ダンスサブレーベルScienceより1998年にリリースされたPhotekのフューチャージャズ・ダウンテンポ ・ジャングルトラック。
 
 #### Liste des chansons
 ```md

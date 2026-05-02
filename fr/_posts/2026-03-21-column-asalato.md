@@ -54,13 +54,13 @@ color: #fff;
 
 ### Vie et rythme en Afrique de l'Ouest
 
-Les origines d'Asarat se situent en Afrique de l'Ouest, en particulier dans la région autour du Ghana. Des instruments de musique simples fabriqués à partir de matériaux naturels sont utilisés dans la vie quotidienne de la région depuis l'Antiquité. L’un d’eux est l’asarat, qui est composé de noix séchées attachées ensemble avec de la ficelle.
+Les origines d'Asarat se situent en Afrique de l'Ouest, en particulier dans la région autour du Ghana. Des instruments de musique simples fabriqués à partir de matériaux naturels sont utilisés dans la vie quotidienne de la région depuis l'Antiquité. L’un d’eux est l’asarat, qui est composé de noix séchées liées ensemble par une ficelle.
 
 Ces instruments étaient naturellement utilisés dans la vie quotidienne, ainsi que lors de cérémonies religieuses et d'événements musicaux particuliers. Des sons ont été émis dans diverses situations, notamment pendant les pauses des travaux agricoles, les jeux d'enfants et les interactions dans le village.
 
 Par conséquent, le rythme d’Asarat n’a pas été strictement noté, mais a été transmis comme une sensation gravée sur le corps. Il a été transmis de génération en génération à travers les traditions orales et les performances, et différents styles se sont formés dans chaque région.
 
-De plus, cet instrument n'était pas limité à une classe ou à un spécialiste particulier. Il s’agit d’un objet ouvert que tout le monde peut saisir et avec lequel jouer, et c’est un élément important qui soutient sa diffusion culturelle.
+De plus, cet instrument n'était pas limité à une classe ou à un spécialiste particulier. Il s’agit d’un objet ouvert que chacun peut saisir et avec lequel jouer, et c’est un élément important qui soutient sa diffusion culturelle.
 
 > L'histoire d'Asarat est ancrée dans l'histoire de la vie plutôt que dans l'histoire de la musique.
 
@@ -119,7 +119,7 @@ En plus des techniques de jeu de base, il existe de nombreuses techniques avanc�
 
 Ces techniques impliquent un fort attrait visuel ainsi que sonore. Les spectateurs peuvent ressentir le rythme non seulement en écoutant les sons, mais aussi en observant les mouvements.
 
-Cette caractéristique le rend hautement compatible avec d’autres expressions physiques comme la jonglerie et la danse. En fait, dans les spectacles de rue contemporains, l’asarat est souvent intégré à l’art visuel.
+Cette caractéristique le rend très compatible avec d’autres expressions physiques comme la jonglerie et la danse. En fait, dans les spectacles de rue contemporains, l’asarat est souvent intégré à l’art visuel.
 
 De plus, plutôt que de simplement reproduire le rythme, les interprètes improvisent et modifient leur prestation en fonction de l'atmosphère du lieu et de leur relation avec le public. Cette nature improvisée renforce son attrait en tant que performance live.
 
@@ -132,7 +132,7 @@ De plus, plutôt que de simplement reproduire le rythme, les interprètes improv
 
 ### De la musique du monde à la rue
 
-Dans la seconde moitié du XXe siècle, l'Asarat a été introduit dans des régions autres que l'Afrique de l'Ouest dans le cadre de la tendance des musiques du monde. Avec l’intérêt croissant pour la musique folklorique, cet instrument a progressivement acquis une reconnaissance internationale.
+Dans la seconde moitié du XXe siècle, l’Asarat a été introduit dans des régions autres que l’Afrique de l’Ouest dans le cadre du mouvement des musiques du monde. Avec l’intérêt croissant pour la musique folklorique, cet instrument a progressivement acquis une reconnaissance internationale.
 
 Par la suite, il s'est développé sous une nouvelle forme en Europe et au Japon, en le liant à la culture du spectacle de rue et de la jonglerie. En particulier dans les zones urbaines, il est devenu largement utilisé dans le cadre de spectacles mêlant musique et expression visuelle.
 
@@ -212,7 +212,7 @@ De plus, comme cela nécessite que les mains gauche et droite bougent indépenda
 
 La production musicale moderne est de plus en plus numérisée et le contrôle par ordinateur est devenu courant. Parmi ceux-ci, l'Asarato occupe une position unique en tant qu'instrument très physique et analogique.
 
-Cela contraste avec la musique numérique dans la mesure où elle crée des rythmes qui incluent les fluctuations humaines et le hasard, plutôt que la précision mécanique.
+Contrairement à la musique numérique, elle crée des rythmes qui incluent les fluctuations humaines et le hasard, plutôt que la précision mécanique.
 
 De plus, la fusion avec la musique électronique progresse et l'asarato est de plus en plus intégré aux performances live. Cela permet de créer des expressions qui dépassent les frontières entre analogique et numérique.
 

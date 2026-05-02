@@ -10,21 +10,21 @@ tags:
 - House
 - Minimal
 - Electro
-title: Lee Burridge et Dan F – Traitez-les méchants, gardez-les vifs
+title: Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen
 ---
 
 
-Lee Burridge est un DJ et producteur britannique. Au début des années 1990, il a contribué au lancement de la scène des clubs underground de Hong Kong.
+Lee Burridge（リー バリッジ）は、イギリス出身の DJ 兼プロデューサー。1990 年代初頭は、香港のアンダーグラウンドクラブシーンの立ち上げに貢献した。 
 
-Il est également actif sous le nom de Tyrant Soundsystem avec DJ Craig Richards et Sasha.
+また、 DJ Craig Richards（DJ クレイグ・リチャーズ）とSasha（サシャ）と共にTyrant Soundsystem としても活動している。
 
-Dan Findlay, également connu sous le nom de Dan F, est un DJ et propriétaire de bar basé à Hong Kong.
+Dan FことDan Findlay は、香港を拠点とする DJ 兼バーのオーナー。
 
-Avec Technasia et d'autres, Dan F est connu comme l'un des premiers artistes basés à Hong Kong à sortir de la musique de club, notamment du breakbeat, de la tech house et de la techno minimale.
+Dan Fはテクナシアなどと並んで、香港を拠点にブレイクビーツ、テックハウス、ミニマルテクノなどクラブミュージックをリリースした最初のアーティストの 1 人として知られている。 
 
-Dan F travaille également sous d’autres noms : Red Buddha, Random Source et Sinosine.
+Dan F は、別名義でRed Buddha、Random Source、Sinosineとしても活動している。
 
-"Treat 'Em Mean, Keep 'Em Keen" est un morceau minimal électro-house sorti en 2006 par le label Almost Anonymous.
+「Treat 'Em Mean, Keep 'Em Keen」は、レーベルAlmost Anonymousから2006年にリリースされたエレクトロハウス・ミニマルトラック。
 
 #### Liste des chansons
 ```md

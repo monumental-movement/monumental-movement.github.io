@@ -48,7 +48,7 @@ color: #fff;
 
 ## Pensée acoustique à partir du Mexique
 
-Esquivel est né en 1918 à Tampico, au Mexique. Il a reçu une formation de piano dès son plus jeune âge et a acquis en profondeur les bases de la musique classique. Cependant, son intérêt ne se limitait pas aux techniques d'interprétation, mais aussi à l'aspect structurel de « la façon dont les sons sont disposés et comment ils résonnent ».
+Esquivel est né en 1918 à Tampico, au Mexique. Il a reçu une formation de piano dès son plus jeune âge et a acquis en profondeur les bases de la musique classique. Cependant, son intérêt ne portait pas simplement sur les techniques d'interprétation, mais aussi sur l'aspect structurel de « la façon dont les sons sont disposés et comment ils résonnent ».
 
 Au cours des années 1940 et 1950, il a travaillé comme directeur musical dans l'industrie mexicaine de la radio et de la télévision. Mon expérience durant cette période a été déterminante. La musique diffusée doit laisser une forte impression dans un laps de temps limité et, à cette fin, la densité sonore, le placement et le timing sont extrêmement importants.
 
@@ -124,7 +124,7 @@ C’est un concept devenu courant dans la production de DAW modernes, mais il é
 Sa méthode peut être résumée ainsi :
 
 * La localisation sonore est conçue dès la phase de composition
-* Agencement basé sur l'expansion spatiale
+* Aménagement basé sur l'expansion spatiale
 * Complétez le son pendant l'enregistrement plutôt qu'après
 * Structure basée sur l'environnement d'écoute (enceintes)
 
@@ -138,7 +138,7 @@ D --> E[完成作品]
 
 Ce processus a déplacé le centre de gravité de la production musicale de la « performance » vers la « conception ».
 
-> Esquivel a transformé la musique de quelque chose à jouer en quelque chose à concevoir.
+> Esquivel a transformé la musique de quelque chose à jouer à quelque chose à concevoir.
 
 ---
 
@@ -202,7 +202,7 @@ A --> E[現代ポップ]
 
 Son héritage ne réside pas dans le genre, mais dans l'idée même de musique.
 
-> Esquivel était en avance sur la manière dont la musique serait créée à l'avenir.
+> Esquivel était en avance sur la façon dont la musique serait créée à l'avenir.
 
 ---
 
@@ -228,7 +228,7 @@ La musique d'Esquivel est le produit d'une époque qui rêvait d'avenir. Cependa
 
 Écouter sa musique, ce n'est pas regarder en arrière. Il s’agit aussi de redécouvrir un autre avenir possible.
 
-Bon nombre des méthodes courantes dans la production musicale moderne – conception spatiale, traitement sonore, production en studio – existaient déjà chez lui.
+Bon nombre des techniques courantes dans la production musicale moderne – conception spatiale, traitement sonore, production centrée en studio – existaient déjà chez lui.
 
 L’avenir n’apparaît pas soudainement. Il existe en tant qu’espèce dans le passé et sera éventuellement redécouvert.
 

@@ -9,13 +9,13 @@ permalink: /fr/combustible-edison-bluebeard/
 tags:
 - Downtempo
 - Latin
-title: Edison combustible – Barbe Bleue
+title: Combustible Edison – Bluebeard
 ---
 
 
-Combustible Edison est un groupe américain de lounge/jazz/easy listening formé à Providence, Rhode Island au début des années 1990.
+Combustible Edisonはアメリカン・ラウンジ/ジャズ/イージーリスニングバンドで、1990年代初頭にロードアイランド州プロビデンスで結成されました。
 
-Contient la version originale de l'album et des remixes de Peter Thomas Sound Orchestra, Saint Etienne, et plus encore.
+オリジナルのアルバムバージョンとPeter Thomas Sound Orchestra、Saint Etienneなどによるリミックスを収録。
 
 #### Liste des chansons
 ```md

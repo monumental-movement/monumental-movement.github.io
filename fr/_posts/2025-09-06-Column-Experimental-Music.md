@@ -30,7 +30,7 @@ La « musique expérimentale » est née comme une tentative de s'écarter des h
 - **Contexte :** L'Europe et l'Amérique d'après-guerre cherchent à reconstruire la musique. Apparaissent «Music of Chance» de John Cage et musique concrète de Schaeffer.
 - **Équipement :** Magnétophone, piano préparé, premier oscillateur.
 
-### Chef-d'œuvre
+### 名盤
 - [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)  
 - [John Cage – *Sonatas and Interludes* (1948)](https://amzn.to/425qJRN)  
 - [Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)  
@@ -72,7 +72,7 @@ color: #fff;
 - **Contexte :** Résonne avec le minimalisme, les mouvements artistiques d'avant-garde et la culture psychédélique. La naissance du synthétiseur modulaire.
 - **Équipement :** Moog Modular, Buchla, EMS VCS3, boucle de bande.
 
-### Chef-d'œuvre
+### 名盤
 - [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)  
 - [Terry Riley – *In C* (1968)](https://amzn.to/46p9sEc)  
 - [Silver Apples – *Silver Apples* (1968)](https://amzn.to/3ImPkLd)  
@@ -100,7 +100,7 @@ color: #fff;
 - **Contexte :** Incorporer le « bruit » dans la musique tout en croisant le punk et l'art d'avant-garde. La naissance de la culture industrielle.
 - **Équipement :** EMS Synthi A, ARP 2600, Roland System 100, générateur de bruit maison.
 
-### Chef-d'œuvre
+### 名盤
 - [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)  
 - [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
 - [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)  
@@ -129,7 +129,7 @@ color: #fff;
 - **Contexte :** Avec la diffusion des cassettes MTR, la scène musicale expérimentale underground s'est développée. Au Japon, une scène « noise » s'est constituée.
 - **Équipement :** Tascam Portastudio, Roland TR-808, Yamaha DX7, radio ondes courtes.
 
-### Chef-d'œuvre
+### 名盤
 - [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)  
 - [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)  
 - [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)  
@@ -140,7 +140,7 @@ color: #fff;
 
 | Artiste | Piste | Année |
 |--------------|----------|----|
-| Arc de Merz | Musique Acoustique Métallique | 1981 |
+| Merzbow | Musique acoustique métal | 1981 |
 | Infirmière avec plaie | Yagga Blues | 1982 |
 | Glenn Branca | Leçon n°1 | 1980 |
 | Actuel 93 | Le sang des chiens monte | 1984 |
@@ -158,7 +158,7 @@ color: #fff;
 - **Contexte :** Avec la diffusion des PC et des échantillonneurs, la déconstruction et la reconstruction acoustique ont progressé. Se connecte également à l'IDM et à la musique ambiante.
 - **Équipement :** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
-### Chef-d'œuvre
+### 名盤
 - [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)  
 - [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
 - [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)  
@@ -178,7 +178,7 @@ color: #fff;
 | Scanner | Observation de masse | 1994 |
 | Matmos | Rhinoplastie en Californie | 1998 |
 | Ikeda + Alva Noto | Acronyme universitaire | 1999 |
-| Arc de Merz | Démon Pulse (piste 1) | 1996 |
+| Merzbow | Démon Pulse (piste 1) | 1996 |
 
 ---
 
@@ -187,7 +187,7 @@ color: #fff;
 - **Contexte :** Les enregistrements de bruit, d'électro et de terrain se sont répandus à l'échelle internationale. Les « performances sur ordinateur portable » lors de concerts sont devenues monnaie courante.
 - **Équipement :** Ableton Live, SuperCollider, Kontakt, ordinateur portable.
 
-### Chef-d'œuvre
+### 名盤
 - [Fennesz – *Endless Summer* (2001)](https://amzn.to/3K9awVB)  
 - [Wolf Eyes – *Burned Mind* (2004)](https://amzn.to/4nCm8P2)  
 - [Ryoji Ikeda – *Dataplex* (2005)](https://amzn.to/4nLgwSW)  
@@ -216,7 +216,7 @@ color: #fff;
 - **Contexte :** Fusionné avec l'art sonore et l'installation. L'ASMR, les drones et la musique d'ambiance sont en cours de réévaluation.
 - **Équipement :** Module Eurorack, Max pour Live, Pure Data, instruments DIY.
 
-### Chef-d'œuvre
+### 名盤
 - [Oneohtrix Point Never – *Replica* (2011)](https://amzn.to/3W29tJz)  
 - [Tim Hecker – *Virgins* (2013)](https://amzn.to/3VrREDB)  
 - [Holly Herndon – *Platform* (2015)](https://amzn.to/3W1lCyj)  
@@ -244,7 +244,7 @@ color: #fff;
 - **Contexte :** La composition d'IA, la musique algorithmique et les expériences immersives dans l'espace VR/AR sont en cours. La noise et la musique expérimentale croisent à nouveau la scène club.
 - **Equipement :** Outils de génération d'IA (RAVE, Magenta Studio), Eurorack, synthétiseur modulaire + algorithme de machine learning.
 
-### Chef-d'œuvre
+### 名盤
 - [Holly Herndon – *PROTO* (2019, AIボーカル合唱)](https://amzn.to/4nhKdv3)  
 - [Kali Malone – *Living Torch* (2022)](https://amzn.to/4nJoBYc)
 - [Caterina Barbieri – *Spirit Exit* (2022)](https://amzn.to/3W4Hg4M)  
@@ -270,7 +270,7 @@ color: #fff;
 ## L'avenir de la musique expérimentale
 La musique expérimentale a toujours continué à repousser les frontières de la musique. Depuis les expériences de piano et de bande préparées dans les années 1940, jusqu'au bruit et à l'industriel dans les années 70, en passant par les problèmes numériques dans les années 90, jusqu'à la musique générée par l'IA dans les années 2020, tout est en constante évolution.
 
-L’essence de la musique expérimentale est l’imprévisibilité et l’esprit d’exploration. Même en dehors de la musique commerciale, son influence imprègne le rock, la musique de club, la musique contemporaine et la pop, ce qui en fait une force avec laquelle il faut compter.
+L'essence de la musique expérimentale est l'imprévisibilité et l'esprit d'exploration. Même en dehors de la musique commerciale, son influence imprègne le rock, la musique de club, la musique contemporaine et la pop, ce qui en fait une force avec laquelle il faut compter.
 
 À l’avenir, même le concept de « musique » pourrait changer en raison de la fusion de l’IA, des interfaces des ondes cérébrales et de la VR/AR.
 **La musique expérimentale est un miroir qui prédit l'avenir et continuera de présenter de « nouveaux horizons sonores » aux auditeurs et aux créateurs. **

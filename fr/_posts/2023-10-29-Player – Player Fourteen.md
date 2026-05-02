@@ -9,11 +9,11 @@ permalink: /fr/player-player-fourteen/
 tags:
 - Techno
 - UK Techno
-title: Joueur – Joueur quatorze
+title: Player – Player Fourteen
 ---
 
 
-Player est un groupe techno composé de divers membres, dont Jon Nuccle, Mark Turner, Pete Simpson et Richard Wilkinson.
+Playerは、Jon Nuccle、Mark Turner、Pete Simpson、Richard Wilkinsonなど多彩なメンバーからなるテクノ集団。
 
 #### Liste des chansons
 ```md

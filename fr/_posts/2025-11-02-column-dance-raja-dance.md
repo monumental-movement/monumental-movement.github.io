@@ -72,7 +72,7 @@ Le film était le point culminant d'une **musical-action-romance** qui réunissa
 ### Résumé de l'histoire
 Un jeune homme nommé Raja (Vishnuvardhan) vit comme danseur dans un centre-ville, mais gagne en popularité nationale après avoir participé à un concours de danse télévisé. Après avoir traversé la trahison, l'amour et les secrets de famille, ils expriment enfin leurs « propres racines » à travers la danse, une histoire émouvante.
 
-L'intrigue est simple, mais ce qui est remarquable, c'est l'intégration de la production et de la musique. La chanson titre « Dance Raja Dance » serait la première chanson de l'histoire du cinéma indien à combiner batterie électronique et rap kannada.
+L'intrigue est simple, mais ce qui mérite d'être souligné, c'est l'intégration de la production et de la musique. La chanson titre « Dance Raja Dance » serait la première chanson de l'histoire du cinéma indien à combiner batterie électronique et rap kannada.
 
 ---
 
@@ -103,7 +103,7 @@ Cette "ambiance MTV du sud de l'Inde" a ensuite été héritée par A.R. Rehman 
 C’était une époque où la chaîne de télévision publique Doordarshan s’ouvrait à la diffusion commerciale et où les jeunes des zones rurales rêvaient de devenir des stars.
 
 Le décor dans lequel le personnage principal de « Dance Raja Dance », Raja, devient célèbre grâce à une émission télévisée symbolise véritablement la germination des valeurs néolibérales.
-Surmonter les contraintes du travail, de la classe et de la famille et réussir grâce au talent et au travail acharné : c'est ce que l'on peut appeler la « version indienne du rêve américain ».
+Surmonter les contraintes du travail, de la classe sociale et de la famille et réussir grâce au talent et au travail acharné : c'est ce que l'on peut appeler la « version indienne du rêve américain ».
 
 ---
 
@@ -112,7 +112,7 @@ Surmonter les contraintes du travail, de la classe et de la famille et réussir 
 | Titre de la chanson | Chanteur | Caractéristiques | Remarques |
 |------|------|------|------|
 | **Danse Raja Danse** | SP Balasubrahmanyam | Batterie électronique + rythme folk | Thème d'ouverture |
-| **Préma Préma** | S. Janaki | Pad de synthé + mélodie raga | Scène romantique |
+| **Préma Préma** | S. Janaki | Pad de synthétiseur + mélodie raga | Scène romantique |
 | **Ninna Preetige** | Mano, Vani Jairam | Structure d'appel et de réponse | Utilisé dans des situations de concours |
 | **Mélange final** | Divers | Reprise de la composition de toutes les chansons | Scène finale de danse |
 

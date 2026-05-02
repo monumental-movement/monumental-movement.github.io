@@ -19,7 +19,7 @@ title: '[Chronique] DEVO et Energy Dome ─ Utopie et théorie de la dégénére
 ## Prologue : Que signifie le dôme rouge ?
 
 
-Texte : mmr｜Thème : Utiliser le symbole de DEVO « Energy Dome » comme indice, déchiffrer la théorie de la dégénérescence, la technologie, la pensée DIY et la transformation de la culture pop
+Texte : mmr｜Thème : Utiliser le symbole "Energy Dome" de DEVO comme indice, déchiffrer la théorie de la dégénérescence, la technologie, la pensée DIY et la transformation de la culture pop
 
 À la fin des années 1970, le groupe new wave américain **DEVO** incarnait une nouvelle ère du pop art, non seulement avec sa musique mais aussi avec son iconographie visuelle.
 Le symbole en est le chapeau en plastique rouge qu'ils portaient sur scène et dans leurs clips -- **Energy Dome**.
@@ -88,8 +88,8 @@ En d’autres termes, l’Energy Dome est un dispositif humoristique permettant 
 ## Chapitre 4 : Culture DIY et techno-anarchisme
 
 DEVO a utilisé des appareils électroniques et des synthétiseurs faits maison pour créer son son, avec un regard ironique sur le rock commercial.
-À l'aide de synthés Roland et ARP, ils ont modifié leurs propres structures de boucles proto-techno et reproduit en direct.
-Cette pratique peut être considérée comme le prototype du dernier **mouvement indépendant/Lo-Fi**.
+Utilisant des synthés Roland et ARP, ils ont modifié leurs propres structures de boucles proto-techno et reproduit en live.
+Cette pratique peut être considérée comme le prototype du dernier **mouvement Indépendant/Lo-Fi**.
 
 Ils ont fait la satire du monde de l'entreprise tout en profitant des méthodes corporatives (logos, slogans, commercialisation).
 Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques postmodernes.
@@ -99,7 +99,7 @@ Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les 
 ## Chapitre 5 : Fonctionner comme pop ─ « Whip It » et ses idées fausses
 
 En apparence, le hit « Whip It » de 1980 ressemble à une simple synth-pop comique.
-Cependant, les paroles sont une parodie d'anti-héroïsme, disant : « Réparez le monde vous-même ».
+Cependant, les paroles sont une parodie d'anti-héroïsme, disant : « Réparez le monde vous-même ».
 L'humour de DEVO n'était pas seulement absurde, mais fonctionnait comme une critique d'une société manipulée par les médias.
 
 Dans leurs clips, ils condensent des laboratoires blancs, des sons synthétisés et des mouvements mécaniques dans un format pop-cynique.
@@ -146,7 +146,7 @@ Ce style visuel a ensuite influencé l'esthétique de la production des films ja
 Dans les années 1990, elle a été réévaluée comme pionnière de l’ère Internet.
 Leur stratégie de marque auto-satirique préfigurait l’auto-marchandisation post-Web 2.0.
 
-Ils se réunissent dans les années 2000 avec « Something for Everybody » (2010), une satire sur « la démocratie à l’ère des algorithmes ».
+Ils se sont réunis dans les années 2000 et ont écrit « Something for Everybody » (2010), une satire sur « la démocratie à l’ère des algorithmes ».
 Dans les années 2020, il continue d’actualiser sa théorie de la dégénérescence pour inclure les NFT et la culture de l’IA.
 
 ---

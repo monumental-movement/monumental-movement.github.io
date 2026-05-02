@@ -14,7 +14,7 @@ title: Aigles – Hôtel Californie
 ---
 
 
-La chanson titre de l'album des Eagles « Hotel California ». Paroles et musique de Don Felder et Don Henley.
+Chanson titre de l'album des Eagles « Hotel California ». Paroles et musique de Don Felder et Don Henley.
 
 #### Liste des chansons
 ```md

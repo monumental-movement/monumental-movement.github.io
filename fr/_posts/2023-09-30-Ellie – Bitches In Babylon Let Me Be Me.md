@@ -9,14 +9,14 @@ permalink: /fr/ellie-bitches-in-babylon-let-me-be-me/
 tags:
 - Abstract
 - Downtempo
-title: Ellie - Chiennes à Babylone, laisse-moi être moi
+title: Ellie – Bitches In Babylon Let Me Be Me
 ---
 
 
-"Bitches In Babylon, laisse-moi être moi" est
-Il s'agit de l'EP d'Ellie sorti par Crue-L en 1997.
+「Bitches In Babylon Let Me Be Me」は、
+1997年にCrue-LからリリースされたEllieのEPです。
 
-La face A comprend un remix de Takeshi Kubota et la face B est un remix de Tucchi de Shaka Zombie.
+A面はクボタタケシのリミックスが収録され、B面はあのシャカゾンビのツッチーによるリミックス。
 
 
 #### Liste des chansons

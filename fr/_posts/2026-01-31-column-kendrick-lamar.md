@@ -19,12 +19,12 @@ title: '[Chronique] Kendrick Lamar : La structure et la pensée qui ont transfo
 
 ## Prologue : Le moment où le hip-hop devient une histoire
 
-Texte : mmr｜Thème : À propos de Kendrick Lamar, qui a fait passer le hip-hop d'une expression de soi fragmentaire à un long art narratif.
+Texte : mmr｜Thème : À propos de Kendrick Lamar, qui a fait passer le hip-hop d'une expression de soi fragmentaire à un long art narratif.
 
 
 L'œuvre de Kendrick Lamar n'est pas un recueil de chansons, mais a une structure plus proche d'un roman complet ou d'un poème épique classique. Ses albums vont au-delà du concept « d’ordre des chansons » et chevauchent l’histoire personnelle et sociale tout en manipulant le temps, la perspective et le narrateur. Il n’y a ni hasard ni improvisation, mais une structure narrative soigneusement conçue.
 
-Le hip-hop s'est développé à l'origine comme une expression qui capture les émotions et la réalité du moment. Chaque bataille, chaque fête de quartier, chaque chanson à la radio avait de la valeur dans son caractère éphémère. Mais Kendrick a proposé un moyen d'utiliser ce format pour raconter des histoires à distance. La structure, qui ne peut être vue dans son intégralité qu’en écoutant l’album dans son ensemble, impose aux auditeurs de le lire activement.
+Le hip-hop s'est développé à l'origine comme une expression qui capture les émotions et la réalité du moment. Chaque bataille, chaque fête de quartier, chaque chanson à la radio avait de la valeur dans son caractère éphémère. Mais Kendrick a proposé un moyen d'utiliser ce format pour raconter des histoires à distance. La structure, qui ne peut être vue dans son intégralité qu'en écoutant l'album dans son ensemble, nécessite une lecture active de l'auditeur.
 
 De plus, son histoire ne peut être réduite à des éloges personnels ou à des histoires de réussite. Au contraire, en plaçant activement l'échec, la peur, le regret et la contradiction au centre de l'histoire, il visualise la « faiblesse » et le « silence » que le hip-hop a évité. Cela recoupe l’histoire des poèmes épiques, qui dépeignent non seulement la gloire des héros mais aussi leurs épreuves et leurs souffrances.
 
@@ -53,7 +53,7 @@ color: #fff;
 
 Kendrick Lamar Duckworth est né en 1987 à Compton, en Californie. Cette ville est un symbole du gangsta rap de la côte ouest depuis N.W.A. C’était un espace où la violence, la pauvreté, le pouvoir policier et les problèmes raciaux étaient ancrés dans la vie quotidienne. Le récit de Kendrick ne s'écarte jamais de ce sens concret du lieu.
 
-Compton est bien plus qu'une simple toile de fond ; il a le pouvoir de définir l’histoire. Des détails concrets tels que des itinéraires de déplacement, des intersections, des zones résidentielles et des restaurants fast-food apparaissent à plusieurs reprises et résistent à l'abstraction. La ville elle-même fonctionne comme un personnage, comme une cité-État ou un champ de bataille dans un poème épique.
+Compton est bien plus qu'une simple toile de fond ; il a le pouvoir de définir l’histoire. Des détails concrets tels que des itinéraires de déplacement, des intersections, des zones résidentielles et des fast-foods apparaissent à plusieurs reprises et résistent à l'abstraction. Comme une cité-État ou un champ de bataille dans un poème épique, la ville elle-même fonctionne comme un personnage.
 
 ### Position du narrateur
 
@@ -79,7 +79,7 @@ Bien que chaque chanson semble être une nouvelle indépendante, elles sont reli
 
 ---
 
-## good kid, m.A.A.d city : album épique complet
+## good kid, m.A.A.d city : album épique complet
 
 ### L'album entier est l'histoire d'une nuit
 

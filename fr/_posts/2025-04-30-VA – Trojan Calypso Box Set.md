@@ -10,13 +10,13 @@ tags:
 - Reggae
 - Calypso
 - Mento
-title: VA – Coffret Trojan Calypso
+title: VA – Trojan Calypso Box Set
 ---
 
 
-Compilation du cheval de Troie Calypso
+トロージャン　カリプソコンピレーション
 
-Coffret édition limitée (3 CD)
+限定版ボックスセット(CD3枚組)
 
 #### Liste des chansons
 ```md

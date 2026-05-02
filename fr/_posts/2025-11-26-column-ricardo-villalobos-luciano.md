@@ -116,14 +116,14 @@ Tous deux se produisent en live dans toute l’Europe, en Amérique du Sud et en
 
 - *Alcachofa* (2003, Perlon)
 - *Vasco* (2008, Perlon)
-- *Série EP Sei Es Drum* (2007-2015, Sei Es Drum)
+- *Série EP Sei Es Drum* (2007–2015, Sei Es Drum)
 - *Dépendant et Heureux* (2012, Perlon)
 
 ### Lucien
 
 - *Rise of Angel* (2002, Cadenza)
 - *Pas d'amis* (2004, Cadenza)
-- *Crime* (2005, Cadenza)
+- *Crimen* (2005, Cadenza)
 - Série *Luciano DJ Mix* (2003-2010, Cadenza)
 
 ---
@@ -156,7 +156,7 @@ timeline
 
 ## Conclusion
 
-Les efforts de Ricardo Villalobos, Luciano et Sense Club sont allés au-delà de la simple popularité des clubs et ont ouvert de nouveaux horizons dans la musique, la culture et le corps de la fin des années 1990 aux années 2000. La musique qu'ils ont laissée derrière eux n'est pas une gloire passée, mais un indice pour l'avenir et continue d'avoir une solide influence sur la culture des clubs d'aujourd'hui.
+Les efforts de Ricardo Villalobos, Luciano et Sense Club sont allés au-delà de la simple popularité des clubs et ont ouvert de nouveaux horizons dans les domaines de la musique, de la culture et du corps, de la fin des années 1990 aux années 2000. La musique qu'ils ont laissée derrière eux n'est pas une gloire passée, mais un indice pour l'avenir et continue d'avoir une solide influence sur la culture des clubs d'aujourd'hui.
 
 ---
 

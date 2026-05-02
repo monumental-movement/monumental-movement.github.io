@@ -11,17 +11,17 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: Dehors – Suspect
+title: Outside – Sus?icious
 ---
 
 
-Outside est un groupe britannique de jazz-funk formé par Matt Cooper, Andreas Allen et Patrice Blanchard.
+Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
 
-Les pistes 2 et 8 mettent en vedette le chanteur britannique Cleveland Watkiss.
+2,8曲目は、イギリスのシンガーCleveland Watkiss(クリーヴランド・ワトキス)をフィーチャー。
 
-Les pistes 4 et 7 présentent Constantine Weir du groupe britannique d'acid jazz Galliano.
+4,7曲目は、UKアシッドジャズグループGalliano(ガリアーノ)のConstantine Weir(コンスタンティン・ウィアー)をフィーチャー。
 
-Ce CD est une version japonaise publiée par Avex en 1998.
+このCDは1998年にAvexからリリースされた日本盤。
 
 #### Liste des chansons
 ```md

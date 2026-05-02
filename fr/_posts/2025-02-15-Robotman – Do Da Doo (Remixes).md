@@ -15,25 +15,25 @@ title: Robotman – Do Da Doo (Remixes)
 ---
 
 
-"Robotman - Do Da Doo (Remixes)" est un album de remix du projet "Robotman" de Richie Hawtin sorti en 1994. Cet album contient plusieurs remix différents.
+「Robotman – Do Da Doo (Remixes)」は、1994年にリリースされたリッチー・ホーティン（Richie Hawtin）によるプロジェクト「Robotman」のリミックスアルバムです。このアルバムにはいくつかの異なるリミックスが含まれています。
 
-Acid House Remix de Plastikman
+Plastikman's Acid House Remix - 
 
-Remixé par Richie Hawtin lui-même, il présente une acoustique acide et un rythme techno distinctif. Ce remix a été très apprécié pour ses effets sonores uniques.
+リッチー・ホーティン自身によるリミックスで、酸性の音響とテクノの特徴的なビートが特徴的です。このリミックスはその独特の音響効果により、非常に評価されています。
 
-David Holmes Remix
+David Holmes Remix - 
 
-Ce remix de David Holmes offre un son techno plus sombre et plus profond.
+デヴィッド・ホームズが手掛けたこのリミックスは、よりダークで深みのあるテクノ・サウンドを提供しています。
 
-Remix de plastique explosif
+Exploding Plastic Remix - 
 
-Ce remix adopte une approche plus expérimentale et apporte une texture différente à la chanson.
+このリミックスは、より実験的なアプローチを採用しており、異なるテクスチャーを楽曲にもたらします。
 
-Flare pour Disco Mix de J.Acquaviva -
+J.Acquaviva's Flare For Disco Mix - 
 
-Remixé par Johnny Acquaviva, il intègre des éléments disco tout en conservant l'essence de la techno.
+ジョニー・アクアヴィーヴァによるリミックスで、ディスコの要素を取り入れつつも、テクノのエッセンスを保っています。
 
-Sur la base de sa discographie, de ses critiques musicales et de ses informations de vente, l'album est très apprécié des fans de techno et des collectionneurs, et le remix de Plastikman en particulier est connu pour son innovation.
+ディスコグラフィーや音楽のレビュー、販売情報から、このアルバムはテクノファンやコレクターの間で高く評価されており、特にPlastikmanのリミックスはその革新性で知られています。
 
 #### Liste des chansons
 ```md

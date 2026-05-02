@@ -16,7 +16,7 @@ title: '[Chronique] Ian Pooley ── Les contours de la musique club des année
 
 
 
-## Première vie et formation musicale
+## Première vie et parcours musical
 
 Texte : mmr｜Thème : La présence importante qui soutient structurellement la house music depuis les années 1990
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Début de carrière et scène house britannique des années 1990
 
-Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, le son minimal influencé par la techno de Détroit se croisant avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
+Au début des années 1990, Ian Pooley a commencé à produire dans son environnement familial. À l’époque, une nouvelle tendance se formait en Europe, où le son minimal influencé par la techno de Détroit se croisait avec le groove unique de la house britannique. En Allemagne, Pooley était parfaitement conscient des tendances.
 
 Vers 1994, son travail attire progressivement l'attention des DJ de clubs. La philosophie de conception consistant à se fondre dans le flux du mix sans utiliser de breaks flashy ou d'échantillons excessifs avait une valeur différente de celle des hits instantanés.
 
@@ -102,7 +102,7 @@ Sur la scène house britannique, Pooley se situait quelque part entre le mainstr
 
 ## Importance du chef-d'œuvre et de l'album « Meridian »
 
-L'album Meridian, sorti en 1997, constitue une étape importante dans la carrière de Ian Pooley. Dans cette œuvre, l'esthétique présentée dans les singles et les sorties 12 pouces a été organisée et intégrée dans le format de l'album.
+L'album Meridian, sorti en 1997, constitue une étape importante dans la carrière d'Ian Pooley. Dans cette œuvre, l'esthétique présentée dans les singles et les sorties 12 pouces a été organisée et intégrée dans le format de l'album.
 
 Les chansons de « Meridian » mettent l'accent sur la durabilité plutôt que sur l'impact immédiat. Lorsqu’on l’écoute seul, cela semble sans prétention, mais au fur et à mesure que vous l’écoutez, la sophistication de sa structure émerge progressivement.
 

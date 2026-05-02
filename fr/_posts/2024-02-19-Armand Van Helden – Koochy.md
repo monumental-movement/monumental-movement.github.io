@@ -14,21 +14,21 @@ title: Armand Van Helden – Koochy
 ---
 
 
-"Koochy" est sorti en 2000 en tant que premier single du quatrième album studio d'Armand Van Helden, Killing Puritans (2000).
+「Koochy クーチィー」はArmand Van Helden（アーマンドヴァンヘルデン）の4枚目のスタジオ・アルバム『Killing Puritans  キリング・ピューリタンズ』（2000年）からのリード・シングルとして2000年にリリースされた。
 
-Échantillonnage approfondi du single "Cars" de Gary Numan de 1979.
+ Gary Numan（ゲイリーニューマン）の1979年のシングル「Cars カーズ」を多量にサンプリング。
 
-Armand Van Helden est un DJ, producteur de disques, remixeur et auteur-compositeur originaire de Boston, Massachusetts, États-Unis.
+アーマンド・ヴァン・ヘルデンは、アメリカ合衆国マサチューセッツ州ボストン出身のDJ、レコードプロデューサー、リミキサー、ソングライターです。
 
-Il est né le 16 février 1970 d'un père d'origine néerlandaise et indonésienne et d'une mère d'origine française et libanaise.
+1970年2月16日に、オランダ人とインドネシア人の血を引く父親と、フランス人とレバノン人の血を引く母親のもとに生まれました。
 
-Parce que son père était dans l'US Air Force, il a passé son enfance à parcourir le monde, notamment aux Pays-Bas, en Lettonie, en Turquie et en Italie.
+父親がアメリカ空軍に所属していたため、幼少期はオランダ、ラトビア、トルコ、イタリアなど世界各地を転々としていました。
 
-Il a acheté une boîte à rythmes à l'âge de 13 ans et a commencé à jouer comme DJ deux ans plus tard.
+13歳でドラムマシンを買い、2年後にはDJ活動をスタートさせています。
 
-Avec une carrière de plus de 30 ans, il est connu comme un pilier du monde de la house music.
+彼は、30年以上にわたるキャリアを持ち、ハウスミュージック界の重鎮として知られています。
 
-Les singles les plus connus de Van Helden sont "You Don't Know Me", "I Want Your Soul", "My My My" (avec Tara McDonald) et "Bonkers" (avec Dizzee Rascal). Les deux chansons ont atteint la première place des charts de danse britanniques et ont atteint la deuxième place des charts de danse Billboard.
+ヴァン・ヘルデンが最も知られるシングルは、「You Don't Know Me」、「I Want Your Soul」、「My My My」(タラ・マクドナルド featuring)、そして「Bonkers」(ディジー・ラスカル featuring)です。いずれの曲もイギリスのダンスチャートで1位を獲得し、ビルボードのダンスチャートでも最高2位にランクインしました。
 
 #### Liste des chansons
 ```md

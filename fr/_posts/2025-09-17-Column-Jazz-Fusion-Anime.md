@@ -112,7 +112,7 @@ flowchart TD
 | Lupin Troisième traverse la ville nocturne | Dave Brubeck « Prenez cinq » | La légèreté de la quintuple signature souligne le style de Lupin |
 | Spike contre Vicious (confrontation finale de Cowboy Bebop) | John Coltrane « Un amour suprême » | Symbolise une tension sublime et une bataille fatidique |
 | Une scène du travail de Makoto Shinkai un jour de pluie | Bill Evans « Valse pour Debby » | Le piano transparent résonne avec la beauté de l'image |
-| Séance à Sakamichi no Apollon | Art Blakey « Gémissement » | La chaleur des tambours et des cors amplifie l'ivresse de la jeunesse |
+| Session à Sakamichi no Apollon | Art Blakey « Gémissement » | La chaleur des tambours et des cors amplifie l'ivresse de la jeunesse |
 | Grave guerre psychologique (Eva et Death Note) | Miles Davis «Et alors» | Le jazz en mode cool soutient la tension intellectuelle |
 | LAZARUS : Scène de bataille finale avec limite de temps | Kamasi Washington « Changement de la garde » | Un son grandiose et spirituel met l'accent sur le thème de la survie humaine |
 
@@ -124,14 +124,25 @@ flowchart TD
 Des thèmes tels que « mort et renaissance », « limites de temps » et « salut de l'humanité » résonnent avec la « reconstruction improvisée de la vie » inhérente au jazz.
 En particulier, le jazz spirituel de Kamasi Washington fait écho au motif de « Lazarus = résurrection » à plusieurs niveaux tout au long de l'histoire.
 
+---
+
 ### ■ Résumé
 
-Le jazz/fusion apporte de l'urbanité et de l'improvisation à l'anime, et symbolise parfois la « vie et la mort » et la « destruction et la renaissance » de toute l'histoire.
-Le style de « Lupin Troisième », le style de « Cowboy Bebop », la passion juvénile de « Apollo sur la pente » et l'échelle de science-fiction de « LAZARUS »──
+Le jazz/fusion apporte urbanité et improvisation à l'anime, et symbolise parfois la « vie et la mort » et la « destruction et la renaissance » de toute l'histoire.
+Le style de « Lupin III », le style de « Cowboy Bebop », la passion juvénile de « Apollo sur la pente » et l'échelle de science-fiction de « LAZARUS »──
 Tous ces éléments sont des extensions de « l’esprit libre et régénérateur » du jazz.
 
 Et comme le nom « Lazarus » l’indique, le jazz renaît constamment sous de nouvelles formes et continue d’être étroitement lié au monde de l’anime.
 
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqpGA_5SQgE?si=4_hNF2QmS9MkCjOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

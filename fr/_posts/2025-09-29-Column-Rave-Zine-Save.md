@@ -58,14 +58,14 @@ Le rave est une culture musicale qui met l’accent sur l’expérience de l’i
 | Raisons pour lesquelles il est difficile d'enregistrer | Contenu |
 |----------------------------------|-------------------------------------------------|
 | Les tabous sur la photographie et l'enregistrement étaient particulièrement forts lors des raves underground des années 1990, et il était souvent interdit d'apporter du matériel |
-| Illégalité/Anonymat | Aucun registre n'est conservé pour éviter d'être détecté par la police ou le gouvernement |
+| Illégalité/Anonymat | Aucun dossier n'est conservé pour éviter d'être détecté par la police ou le gouvernement |
 | Transitoire | Les événements sur le terrain disparaissent un instant |
 
 Ainsi, la « véritable image » de nombreuses raves ne demeure pas. Le manque de sources sonores, d’images et d’enregistrements menace de perturber l’héritage culturel.
 
 ---
 
-### Qu'est-ce qu'un Zine ? : Documents alternatifs créés par des individus
+### Qu'est-ce qu'un Zine ? : Records alternatifs créés par des individus
 
 Zine est l'abréviation de « Magazine » et est une publication indépendante que chacun peut créer librement. Il s'agit d'une entité culturelle qui ne s'appuie pas sur la technologie d'impression ou sur le Web, mais qui s'appuie uniquement sur le papier et les photocopieuses.
 
@@ -119,7 +119,7 @@ flowchart TD
 | ----------------------- | --------------------------------- | --------------------------------------------- |
 | Peut disparaître | Peut disparaître en raison d'un lien rompu ou d'une suppression | Restera en votre possession de manière semi-permanente |
 | Copier | Copie infinie possible | Copie physique limitée = présence comme « preuve » |
-| Partager | Partagez instantanément en un clic | Remise en mains propres/envoi postal = rituel physique impliqué |
+| Partager | Partagez instantanément en un clic | Remise en main propre/envoi postal = rituel physique impliqué |
 | Facile à envoyer des messages | N'importe qui peut facilement envoyer des messages | Efforts à faire = concentration des pensées du créateur |
 
 

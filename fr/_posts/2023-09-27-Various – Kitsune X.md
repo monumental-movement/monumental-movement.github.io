@@ -9,13 +9,13 @@ permalink: /fr/various-kitsune-x/
 tags:
 - House
 - Electro
-title: Divers – Kitsuné X
+title: Various – Kitsuné X
 ---
 
 
-"Kitsuné X" est le troisième album très attendu de la maison française Kitsune, sorti en 2005.
+「Kitsuné X」は、フランスのKitsuneによる2005年にリリースされた待望の3作目です。
 
-Il s'agit d'une compilation de forme libre basée sur l'électro, le disco et le punk.
+エレクトロ、ディスコ・パンクをベースに、フリーフォームで展開されるコンピレーションアルバムです。
 
 #### Liste des chansons
 ```md

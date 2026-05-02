@@ -23,7 +23,7 @@ title: '[Chronique] Roots Reggae vs Dancehall ─ Deux âmes du reggae nées d''
 
 Texte : mmr｜Thème : Organiser le reggae root et le dancehall dans la perspective du changement générationnel et décrire la continuité de la culture reggae qui se poursuit jusqu'à nos jours.
 
-L’histoire de la musique jamaïcaine devient plus claire lorsqu’elle est lue comme un changement de générations plutôt que comme une évolution des genres. Le reggae Roots et le dancehall n'étaient pas des valeurs concurrentes, mais des langages musicaux choisis par des jeunes qui ont vécu à des époques différentes pour répondre à leurs propres réalités.
+L’histoire de la musique jamaïcaine devient plus claire lorsqu’elle est lue comme un changement de générations plutôt que comme une évolution des genres. Le reggae root et le dancehall n'étaient pas des valeurs concurrentes, mais des langages musicaux choisis par des jeunes qui ont vécu à des époques différentes pour répondre à leurs propres réalités.
 
 Le reggae Roots, qui a atteint sa maturité dans les années 1970, alors que les idéaux post-indépendance étaient encore communautaires, a placé les messages sociaux et la spiritualité au cœur de sa musique. Comme l’illustre Bob Marley et Burning Spear, les chansons transcendaient l’individu et fonctionnaient comme une voix collective.
 
@@ -74,7 +74,7 @@ Le sens du dub de soustraire le son et de mettre l'accent sur l'espace est direc
 
 La sonorisation était un lieu de diffusion de la musique, et en même temps, un dispositif permettant de changer les protagonistes entre les générations. Cette culture, qui permettait même à des jeunes sans studio ni instrument de musique de participer en tant que sélecteurs ou MC, a temporairement démantelé les structures hiérarchiques.
 
-Sur la scène Sound Clash, la réaction du public a été déterminante. Le caractère improvisé et l’esprit de compétition développés ici constitueront les valeurs de la génération dancehall.
+Sur la scène Sound Clash, la réaction du public a été déterminante. Le caractère improvisé et l’esprit de compétition développés ici formeront les valeurs de la génération dancehall.
 
 > Le sound system était un lieu où les générations pouvaient se réapproprier la musique.
 

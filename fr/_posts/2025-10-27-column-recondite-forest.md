@@ -67,7 +67,7 @@ Le kick est toujours discret, laissant plutôt les réverbérations des synthés
 Cette structure correspond au mécanisme par lequel les bains de forêt stimulent le système nerveux parasympathique chez l'homme.
 
 > Les bains de forêt font appel à de multiples stimuli tels que les sons naturels, la lumière, les odeurs et l'humidité.
-> Il réduirait les hormones de stress chez les humains (enquête de l'Agence forestière, 2004).
+> Il réduirait les hormones de stress chez l'homme (enquête de l'Agence forestière, 2004).
 
 Lors des performances live de Recondite, on a l'impression qu'un «**feuillet électronique**» enveloppe la salle.
 Bien qu'il s'agisse d'une **nature artificielle** reproduite avec un équipement numérique,
@@ -96,7 +96,7 @@ Ses rythmes sont méditatifs et conçus pour se synchroniser avec les battements
 
 De la psychologie musicale, on sait qu'un certain tempo favorise un état dans lequel le système nerveux parasympathique est dominant.
 Par conséquent, l’expérience live Recondite est plus qu’un simple événement de club ;
-On peut dire qu'il fonctionne comme un "**bain de forêt en ville**".
+On peut dire qu'il fonctionne comme « **Bain de forêt dans la ville** ».
 
 ---
 
@@ -149,7 +149,7 @@ timeline
 ## Chapitre 8 : Analyse acoustique - Structure rythmique de la forêt
 
 Lorsque vous analysez la forme d'onde de la piste de Recondite,
-**Conçu pour faire fluctuer organiquement les médiums-aigus dans la bande 2-6 kHz**.
+**Conçu pour faire fluctuer organiquement la gamme moyenne-haute dans la bande 2-6 kHz**.
 Ceci est proche du spectre des sons du vent et du bruissement des arbres.
 
 <div class="mermaid">
@@ -183,7 +183,7 @@ En d’autres termes, il présente une nouvelle physicalité appelée **Music = 
 ## Chapitre 10 : Conclusion – La techno revient en forêt
 
 La musique de Recondite n'est pas de nature mécanique, mais
-**Il maintient un équilibre comme une machine qui respire dans la nature**.
+**Il maintient un équilibre qui ressemble à une machine qui respire dans la nature**.
 
 Si les bains de forêt sont un acte de « retour des humains à la nature »,
 La musique de Recondite est un acte de « retour de la techno à la nature ».

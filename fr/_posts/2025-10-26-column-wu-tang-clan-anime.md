@@ -47,13 +47,13 @@ color: #fff;
 
 Le mot « Shaolin » apparaît à plusieurs reprises dans les premiers travaux du Wu-Tang Clan.
 Ce n'est pas seulement un passe-temps asiatique.
-Pour eux, "Shaolin" était une métaphore de l'entraînement intérieur, de l'entraînement au milieu de la pauvreté et de la violence.
+Pour eux, « Shaolin » était une métaphore de l'entraînement intérieur, de l'entraînement au milieu de la pauvreté et de la violence.
 
 Cette structure est similaire aux anime japonais, en particulier « Dragon Ball », « Fist of the North Star » et « Naruto ».
 Son Goku et Kenshiro se transcendent en combattant des ennemis extérieurs.
 RZA (le chef spirituel du Wu-Tang) a déclaré plus tard :
 
-> « Les guerriers animés étaient notre vie.
+> « Les guerriers anime étaient notre vie.
 > Ils se sont entraînés dans la solitude et ont lutté contre le monde. »
 
 Ce « shaolin spirituel = histoire d'entraînement » a une structure similaire à la lutte de rue.
@@ -89,15 +89,15 @@ Cette œuvre était un véritable « remix mutuel » de la culture japonaise et 
 > Cette transformation symbolique est au cœur de l'esthétique hip-hop post-Wu-Tang Clan.
 
 Pour RZA, « Afro Samurai » est l'œuvre qui incarne le plus concrètement son « orientation orientale ».
-En même temps, il devient un pionnier de la « fusion avec le hip-hop » pour l'industrie japonaise de l'animation.
+En même temps, il devient un pionnier de la « fusion avec le hip-hop » pour l'industrie japonaise de l'anime.
 
 ---
 
 ## Chapitre 4 : Un nouvel horizon pour le hip-hop ouvert par une vision du monde animée
 
-Après le Wu-Tang Clan, le hip-hop a acquis le « langage pour parler d'anime ».
+Après le Wu-Tang Clan, le hip-hop a acquis le « langage pour parler d’anime ».
 Tyler, The Creator fait référence à "Akira" et "Neon Genesis Evangelion",
-Kanye West dépeint un monde semblable à celui d'un anime dans le MV de "Strong Feeling",
+Kanye West dépeint un monde semblable à un anime dans le MV de "Strong Feeling",
 Lil Uzi Vert et Megan Thee Stallion intègrent fièrement la « culture otaku » dans leur identité.
 
 Tous ces phénomènes sont une extension de la « fenêtre sur la fantaisie orientale » ouverte par le Wu-Tang.
@@ -117,7 +117,7 @@ En particulier, la musique de Nujabes combine échantillonnage et esthétique du
 Il était spirituellement connecté au clan Wu-Tang, le « Samouraï du Son ».
 
 Dans les années 2020, des références claires apparaissent dans les œuvres d’animation japonaises.
-L'influence du hip-hop lo-fi est visible dans la musique de fond de "Jujutsu Kaisen".
+L'influence du hip-hop lo-fi peut être vue dans la musique de fond de "Jujutsu Kaisen".
 Plusieurs artistes hip-hop participeront à la fin de « Chainsaw Man ».
 Ici, l’anime renoue une fois de plus avec le langage de la « rue ».
 

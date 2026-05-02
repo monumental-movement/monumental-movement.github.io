@@ -19,7 +19,7 @@ title: Christopher Mali – S’il vous plaît, levez-vous
 
 
 
-Un morceau Hip Hop publié par AV8 Records, un label house/hip hop connu pour avoir sorti des œuvres importantes d'Armand Van Helden.
+Armand Van Helden の重要作品をリリースした事で知られるハウス／ヒップホップのレーベルAV8 RecordsからリリースされたHip Hopトラック。
 
 #### Liste des chansons
 ```md

@@ -16,7 +16,7 @@ title: VA – Fille de tank
 ---
 
 
-Bande originale du film de science-fiction post-apocalyptique « Tank Girl » réalisé par Rachel Talalay, sorti en salles en 1995. Tank Girl est une adaptation en direct d'une bande dessinée culte au Royaume-Uni. La bande originale a été assemblée par Courtney Love et Graeme Revell de SPK a fourni la musique originale. Devo a enregistré une nouvelle version de "Girl U Want" pour le film parce qu'elle était une grande fan de la bande dessinée.
+Bande originale du film de science-fiction post-apocalyptique « Tank Girl » réalisé par Rachel Talalay, sorti en salles en 1995. Tank Girl est une adaptation live-action de la bande dessinée culte britannique. La bande originale a été assemblée par Courtney Love et Graeme Revell de SPK a fourni la musique originale. Devo a enregistré une nouvelle version de "Girl U Want" pour le film parce qu'elle était une grande fan de la bande dessinée.
 
 #### Liste des chansons
 ```md

@@ -10,19 +10,18 @@ tags:
 - 70s
 - Disco
 - Citypop
-title: '[Chronique] Disco japonais des années 70 et Red Lark - L''esthétique de la
-  nuit représentée par la musique et les cigarettes'
+title: 【コラム】 日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学
 ---
 
 
-## Disco japonais des années 70 et Red Lark - Une esthétique nocturne dessinée par la musique et les cigarettes
+## 日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学
 
 
-Texte : mmr | Thème : Un disque de l'époque japonaise des années 1970, lorsque les publicités disco et Red Lark se mêlaient. Souvenir d'une nuit où se croisent la musique, la mode et l'odeur des cigarettes
+文：mmr｜テーマ：日本の1970年代、ディスコと赤ラークの広告が交錯した時代の記録。音楽・ファッション・煙草の匂いが交わる夜の記憶をたどる
 
-Le Japon dans les années 1970. Shinjuku, Akasaka, Roppongi.
-La ville nocturne essayait de conquérir une liberté inconnue grâce au mot « disco ».
-L'atmosphère était remplie de boules à facettes lumineuses, de grooves de type Soul Train et de l'emballage rouge de Red Lark.
+1970年代の日本。新宿、赤坂、六本木。  
+夜の街は「ディスコ」という言葉を通じて、未知の自由を獲得しようとしていた。  
+その空気を彩ったのは、**光るミラーボール、Soul Train的なグルーヴ、そして赤ラークの赤いパッケージ**だった。
 
 ---
 
@@ -40,79 +39,79 @@ color: #fff;
 </style>
 
 
-## 1. Un dispositif transculturel appelé « disco » né la nuit en ville
+## 1. 都市の夜に生まれた「ディスコ」という異文化装置
 
-Au début des années 1970, les zones urbaines du Japon étaient parsemées de clubs ouverts par des jeunes hommes revenant des États-Unis.
-Les discothèques telles que « Mugen », « Cléopâtre » et « Space Capsule » ne sont pas de simples pistes de danse ;
-**C'était un espace d'expérience complet où se mélangeaient musique, parfums, éclairage, cigarettes et mode**.
+1970年代前半、日本の都市部にはアメリカ帰りの青年たちが開いたクラブが点在していた。  
+「ムゲン」「クレオパトラ」「スペースカプセル」などのディスコは、単なるダンスフロアではなく、  
+**音楽・香り・照明・煙草・ファッションが交錯する総合的体験空間**だった。
 
 
-À l'époque, l'accent musical était soul-disco avec des groupes tels que **The Trammps, KC and the Sunshine Band et Donna Summer**.
-Cependant, les DJ japonais ne se contentent pas de jouer des disques importés ;
-**J'ai perfectionné mon « sens acoustique urbain » pré-YMO**.
-Sensation du BPM, gestion des basses et synchronisation de l'éclairage.
-La nuit, le « son » et la « lumière » devenaient un organisme respiratoire.
-
----
-
-## 2. L'alouette rouge, un « symbole de la ville »
-
-En 1972, Japan Monopoly Corporation (prédécesseur de JT) a lancé la série « LARK ».
-« Red Lark » était particulièrement populaire parmi les jeunes.
-Le dessin, avec des lettres blanches sur fond rouge, était un symbole de « liberté », de « ville » et de « cool », un précurseur de l'esprit américain.
-
-Red Lark est plus qu’une simple cigarette.
-Dans des magazines comme "Heibon Punch", "POPEYE", et "non-no" de l'époque,
-**Il est apparu comme un « accessoire urbain » que l'on peut voir dans les discothèques, les cafés de jazz, les boîtes de nuit et les clichés de mode**.
-
-> "J'avais l'impression que la nuit commençait si j'allumais l'alouette rouge avant de danser."
-
-La couleur rouge de cette cigarette résonne avec la lumière réfléchie de la boule à facettes,
-Une palette de couleurs contrastées de rouge et d’argent a été sculptée dans la nuit de la ville.
+当時の音楽的中心には、**The Trammps、KC and the Sunshine Band、Donna Summer** らのソウル〜ディスコがあった。  
+しかし日本のDJたちは単に輸入盤を流すのではなく、  
+**YMO以前の「都市型音響感覚」**を磨いていった。  
+BPM感覚、低音の扱い、そして照明の同期。  
+夜は「音」と「光」が呼吸する有機体となっていった。
 
 ---
 
-## 3. Fusion de la mode et de la culture nocturne
+## 2. 赤ラークという「都会の象徴」
 
-Vers 1975, la culture disco se développe rapidement.
-« MUGEN » à Akasaka, « Space Capsule » à Shibuya et « Suntory Bar Moon » à Shinjuku.
-Les jeunes de l’époque portaient des chemises boiteuses, des pantalons évasés et des chaussures à plateforme.
-Ils dansaient avec l'odeur de cigarette et de parfum qui flottait dans l'air.
+1972年、日本専売公社（JTの前身）が発売した**「ラーク（LARK）」**シリーズの中で、  
+特に若者層に浸透したのが**「赤ラーク」**だった。  
+赤地に白文字のデザインは、アメリカン・スピリットの先駆けのような「自由」「都会」「クール」の象徴だった。
 
+赤ラークは単なる煙草ではない。  
+当時の雑誌『平凡パンチ』『POPEYE』『non-no』などの誌面では、  
+**ディスコ、ジャズ喫茶、ナイトクラブ、ファッションスナップと共に写る「都市のアクセサリー」**として登場した。
 
-La stratégie publicitaire de l'époque était basée sur l'image de « Red Lark = un homme libre et urbain ».
-L'affiche représente un homme et une femme tenant des cigarettes à la bouche sous les lumières d'un club de jazz.
-En arrière-plan, les touches Fender Rhodes et le bruit de la glace qui fond dans un verre.
-Tout a été conçu comme une « expression visuelle musicale ».
+> 「踊る前に赤ラークを灯せば、夜が始まる気がした。」
 
----
-
-## 4. Réception japonaise de la musique disco - Du « rythme enka » à la « respiration soul »
-
-Au milieu des années 1970, il existait une forte image du **disco=divertissement musical occidental** au Japon, mais
-En fait, l’industrie musicale japonaise a également absorbé son influence.
-
-Par exemple:
-- **« 240 Million Eyes » de Hiromi Go (1984)** trouve ses racines dans l'exaltation du disco des années 70.
-- **Pink Lady "UFO" (1977)** est un exemple réussi de production nationale de synth disco de style Donna Summer.
-- **« Awakening » (1982)** de Hiroshi Sato a sublimé les souvenirs de la scène nocturne d'Akasaka en city pop.
-
-Il ne faut pas oublier que l'espace disco des années 1970 a été le point de départ de cette tendance.
+この煙草の赤が、ミラーボールの反射光と呼応し、  
+都市の夜に**ひとつのカラーパレット＝赤と銀の対比**を刻んだ。
 
 ---
 
-## 5. Stratégie publicitaire et conception visuelle de Red Lark
+## 3. ファッションとナイトカルチャーの融合
 
-Les publicités d'Aka Lark sont influencées par les graphistes Masayoshi Nakajo et Mitsuo Katsui.
-Néon, flou de mouvement, collage de photos et « rouge brillant ».
+1975年前後、ディスコ文化は急速に拡大する。  
+赤坂の「MUGEN」、渋谷の「スペースカプセル」、新宿の「サントリー・バー・ムーン」。  
+当時の若者は、**ラメシャツ、フレアパンツ、厚底シューズ**をまとい、  
+煙草と香水の匂いを漂わせて踊った。
 
 
-Cette philosophie de conception mènera plus tard aux pochettes de disques City Pop (Tatsuro Yamashita, Mariya Takeuchi, Toshio Kadomatsu).
-En d’autres termes, la « musicalité visuelle » de Red Lark anticipait la « conception visuelle musicale » ultérieure.
+当時の広告戦略では、「赤ラーク＝都会的で自由な男」をイメージ化。  
+ポスターにはジャズクラブの照明下で煙草をくわえる男女、  
+背景にフェンダーローズの鍵盤、グラスの氷が溶ける音。  
+すべてが**「音楽的な映像表現」**として設計されていた。
 
 ---
 
-## 6. Chronologie : L'intersection de la discothèque des années 1970 et de Red Lark
+## 4. ディスコ音楽の日本的受容 ―「演歌のリズム」から「ソウルの呼吸」へ
+
+1970年代中盤、日本では**ディスコ＝洋楽的娯楽**のイメージが強かったが、  
+実際には日本の歌謡界もその影響を吸収していった。
+
+たとえば：
+- **郷ひろみ「2億4千万の瞳」(1984)** のルーツには、70年代ディスコの高揚感がある。
+- **ピンク・レディー「UFO」(1977)** は、Donna Summer的シンセ・ディスコを国産化した成功例。
+- **佐藤博『awakening』(1982)** は、赤坂のナイトシーンの記憶をシティポップに昇華させた。
+
+こうした流れの起点に、**70年代のディスコ空間があった**ことは見逃せない。
+
+---
+
+## 5. 赤ラークの広告戦略と視覚デザイン
+
+赤ラークの広告には、**グラフィックデザイナー・仲條正義、勝井三雄**らの影響が見られる。  
+ネオン、モーションブラー、フォトコラージュ、そして「光沢ある赤」。
+
+
+このデザイン哲学は、のちの**シティポップ・レコードジャケット（山下達郎、竹内まりや、角松敏生）**へと連なっていく。  
+つまり、赤ラークの「視覚的音楽性」は、後の「音楽的視覚デザイン」を先取りしていたのである。
+
+---
+
+## 6. 年表：1970年代ディスコと赤ラークの交差点
 
 <div class="mermaid">
 
@@ -132,50 +131,50 @@ timeline
 
 ---
 
-## 7. Intersection du son et de la fumée : la nuit comme sensualité
+## 7. 音と煙の交差点：官能としての夜
 
-Les nuits japonaises de la fin des années 1970 sont connues pour la densité du son et de la fumée.
-Parfum, alcool et douce fumée d’alouette rouge.
-Ils diffusent dans l'espace et se mélangent aux basses des enceintes.
+70年代後半、日本の夜は音と煙の濃度で記憶される。
+香水、アルコール、そして赤ラークの甘い煙。
+それらが空間の中で拡散し、スピーカーの低音と混じり合う。
 
-Les DJ disent parfois qu'ils peuvent « lire le BPM grâce au flux de fumée ».
-Une époque où l’air lui-même était le média.
-Les disques vinyles et les cigarettes brûlaient au même rythme.
-
----
-
-## 8. La génération post-disco et les réverbérations de Red Lark
-
-Au début des années 1980, de grandes discothèques comme « Maharaja » et « Kisanadu » voient le jour,
-Au fil du temps, la musique a évolué de la city pop à l'eurobeat.
-Cependant, « l'odeur de décadence urbaine et de liberté » à son origine était gravée dans la couleur rouge de Red Lark.
-
-Aujourd’hui encore, on y trouve des magazines vintage et des murs de cafés.
-Le logo "LARK" reste discret.
-Ce n'est pas seulement de la nostalgie,
-L'esthétique de la nuit = symbole du sentiment urbain.
+DJたちは時に「煙の流れでBPMを読む」とも言った。
+空気そのものがメディアだった時代。
+アナログレコードと紙巻煙草が、同じリズムで燃焼していた。
 
 ---
 
-## 9. Conclusion : Rémanence rouge et argent
+## 8. ポスト・ディスコ世代と赤ラークの残響
 
-Au Japon, dans les années 1970, la discothèque et Red Lark étaient les deux rouages ​​de la nuit.
-Son et fumée, lumière et rouge.
-Le décor créé par ces œuvres est toujours vivant dans la mode city pop et revival.
+1980年代初頭、「マハラジャ」や「キサナドゥ」などの大型ディスコが誕生し、
+やがて音楽はシティポップからユーロビートへと進化した。
+しかし、その源流にあった**“都市の退廃と自由の匂い”**は、赤ラークの赤に刻まれていた。
 
-Lorsque vous allumez le Red Lark, les nuits tokyoïtes des années 1970 reviennent à vous l'espace d'un instant.
+現在でもヴィンテージ雑誌や喫茶店の壁には、
+「LARK」のロゴが静かに残っている。
+それは単なるノスタルジーではなく、
+夜の美学＝アーバン・センチメントの象徴である。
 
 ---
 
-## Annexe : Liste des chansons disco de référence
+## 9. 結語：赤と銀の残光
+
+1970年代の日本において、ディスコと赤ラークは「夜の両輪」だった。
+音と煙、光と赤。
+それらが織りなす風景は、いまもシティポップやリバイバル・ファッションの中で息づいている。
+
+赤ラークを灯すとき、70年代の東京の夜が、ほんの一瞬だけ蘇る。
+
+---
+
+## 付録：参考ディスコ楽曲リスト
 
 
-| Titre de la chanson | Artiste | Année | Remarques |
-| ----------------- | ------------------ | ---- | ------------------ |
-| Rester en vie | Bee Gees | 1977 | Chanson signature « Saturday Night Fever » |
-| Disco Inferno | Les Tramps | 1976 | Standardisé dans les clubs japonais |
-| Boogie Pays des Merveilles | Terre, vent et feu | 1979 | Populaire sur MUGEN |
-| Âme Dracula | Sang chaud | 1977 | Fournisseur DJ à l'époque |
-| Corrida de l'Amour | Quincy Jones | 1981 | Une extension de l'ambiance disco japonaise |
+| 曲名                | アーティスト             | 年    | 備考                  |
+| ----------------- | ------------------ | ---- | ------------------- |
+| Stayin' Alive     | Bee Gees           | 1977 | 『サタデー・ナイト・フィーバー』代表曲 |
+| Disco Inferno     | The Trammps        | 1976 | 日本のクラブで定番化          |
+| Boogie Wonderland | Earth, Wind & Fire | 1979 | MUGENで人気            |
+| Soul Dracula      | Hot Blood          | 1977 | 当時のDJ御用達            |
+| 愛のコリーダ            | Quincy Jones       | 1981 | 日本的ディスコ感覚の延長線       |
 
 ---

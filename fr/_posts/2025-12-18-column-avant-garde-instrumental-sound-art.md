@@ -11,18 +11,18 @@ tags:
 - Avant-Garde
 - Instrumental
 - Art
-title: '[Chronique] Art instrumental/sonore d''avant-garde'
+title: 【コラム】 Avant-Garde Instrumental / Sound Art（前衛インスト／サウンドアート）
 ---
 
 
 
-## Introduction : Comment le son devient une œuvre d'art
+## 序論：音が作品になるまで
 
-Texte : mmr｜Thème : En nous concentrant sur Alvin Lucier et Christian Fennesz, nous organiserons la lignée continue depuis les expériences sonores analogiques jusqu'au traitement numérique et clarifierons la structure de l'art sonore, y compris sa relation avec les images.
+文：mmr｜テーマ：Alvin Lucier と Christian Fennesz を中心に、アナログ音響実験からデジタル処理へと至る連続的な系譜を整理し、映像との関係性を含めた音響芸術の構造を明らかにする
 
-Depuis le XXe siècle, la musique s’est éloignée du cadre de l’art temporel centré sur la mélodie et l’harmonie pour s’étendre à un domaine d’expression complet incluant les phénomènes physiques, l’espace et le support d’enregistrement lui-même. L’art instrumental et sonore d’avant-garde n’est pas une forme qui met en valeur l’habileté et la capacité d’interprétation d’un instrument, mais présente plutôt l’ensemble du processus par lequel le son est généré, propagé, réfléchi, modifié et perçu comme une œuvre.
+20世紀以降、音楽は旋律や和声を中心とする時間芸術という枠組みから離れ、物理現象・空間・記録媒体そのものを含む総合的な表現領域へと拡張した。前衛インストゥルメンタルおよびサウンドアートは、楽器の技巧や演奏能力を誇示する形式ではなく、音が発生し、伝播し、反射し、変質し、知覚されるまでの過程全体を作品として提示する。
 
-Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales, et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant à chaque fois des résultats différents. Ce qui importe ici, plutôt que les intentions du compositeur, c'est la structure elle-même, la manière dont le phénomène acoustique se présente et se connecte à l'espace et à la technologie.
+この領域では、音楽作品は必ずしも楽譜に還元されず、再演可能性も前提とされない。むしろ作品は条件設定として存在し、その都度異なる結果を生む。ここで重要なのは、作曲者の意図よりも、音響現象がどのように立ち上がり、空間や技術と結びつくかという構造そのものである。
 
 ---
 
@@ -40,47 +40,47 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 : Constitution historique de l'art sonore
+## 第1章：サウンドアートの歴史的成立
 
-### 1-1 De la musique expérimentale à l'art acoustique
+### 1-1 実験音楽から音響芸術へ
 
-Depuis les années 1950, avec le développement des studios de musique électronique, le son s’est séparé de la performance des instruments de musique et est devenu un objet manipulable comme un signal. Des technologies telles que la bande magnétique, les oscillateurs et les filtres ont permis d'enregistrer, de traiter et de réorganiser le son.
+1950年代以降、電子音楽スタジオの整備により、音は楽器演奏から切り離され、信号として操作可能な対象となった。磁気テープ、発振器、フィルターといった技術は、音を記録・加工・再配置することを可能にした。
 
-Avec ce changement, les œuvres musicales ne se limitent plus aux salles de spectacle, mais s'installent dans les musées, les galeries et les espaces publics. Le concept d'art sonore a été utilisé pour désigner un groupe d'œuvres qui utilisent le son comme matériau principal mais ne suivent pas nécessairement les systèmes musicaux ou les conventions de performance.
+この変化により、音楽作品は演奏会場に限定されず、美術館、ギャラリー、公共空間へと進出する。サウンドアートという概念は、音を主素材としながらも、音楽制度や演奏慣習に必ずしも従わない作品群を指すために用いられてきた。
 
-### 1-2 De l'art temporel à l'art spatial
+### 1-2 時間芸術から空間芸術へ
 
-En art sonore, l’agencement spatial est plus important que le développement temporel. Le placement de plusieurs enceintes, la structure architecturale et le mouvement de l'auditeur sont les conditions de création de l'œuvre. Le son ne voyage pas dans une seule direction, mais continue de circuler dans l'environnement.
-
----
-
-## Chapitre 2 : Concepts instrumentaux d'avant-garde
-
-### 2-1 Redéfinition des instruments de musique
-
-Dans la musique instrumentale d’avant-garde, les instruments n’ont pas de forme fixe. Les instruments existants sont élargis ou modifiés, ou l'environnement lui-même est traité comme un instrument. Les microphones, les haut-parleurs, les résonateurs et les espaces architecturaux sont des composants équivalents.
-
-### 2-2 Modifications du comportement en matière de performances
-
-La performance ne consiste pas à démontrer une habileté physique, mais plutôt à définir des conditions et des systèmes d'exploitation. L’interprète ne contrôle pas directement le son, mais est responsable de la conception des conditions dans lesquelles le son est produit.
+サウンドアートにおいては、時間的展開よりも空間的配置が重視される。複数のスピーカー配置、建築構造、聴取者の移動が、作品の成立条件となる。音は一方向に進行するのではなく、環境の中で循環し続ける。
 
 ---
 
-## Chapitre 3 : La philosophie acoustique d'Alvin Lucier
+## 第2章：前衛インストゥルメンタルの概念
 
-### 3-1 Composition à base d'ondes sonores
+### 2-1 楽器の再定義
 
-Alvin Lucier est un compositeur qui place le comportement physique des ondes sonores au centre de ses œuvres. Dans ses œuvres, les manipulations intentionnelles du compositeur sont réduites au minimum et les phénomènes acoustiques se déroulent de manière autonome.
+前衛インストゥルメンタルにおいて、楽器は固定的な形態を持たない。既存の楽器は拡張・改変され、あるいは環境そのものが楽器として扱われる。マイクロフォン、スピーカー、共鳴体、建築空間は等価な構成要素となる。
 
-Dans son chef-d'œuvre « Je suis assis dans une pièce », l'audio récité est lu et réenregistré à plusieurs reprises dans le même espace, mettant l'accent sur les fréquences de résonance uniques à la pièce, jusqu'à ce que la langue disparaisse. Ce processus illustre clairement la transition du son de l'information au phénomène physique.
+### 2-2 演奏行為の変質
+
+演奏とは身体的技巧の発揮ではなく、条件設定やシステム操作を指す。演奏者は音を直接制御するのではなく、音が生成される状況を設計する役割を担う。
+
+---
+
+## 第3章：Alvin Lucier の音響思想
+
+### 3-1 音波を主題とする作曲
+
+Alvin Lucier は、音波の物理的挙動そのものを作品の中心に据えた作曲家である。彼の作品では、作曲者の意図的操作は最小限に抑えられ、音響現象が自律的に展開する。
+
+代表作《I Am Sitting in a Room》では、朗読音声を同一空間で繰り返し再生・再録音することで、部屋固有の共鳴周波数が強調され、最終的に言語は消失する。この過程は、音が情報から物理現象へと移行する様子を明確に示している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 3-2 Rétroaction et auto-génération
+### 3-2 フィードバックと自己生成
 
-Lucier a utilisé des phénomènes de feedback et a souvent utilisé des structures dans lesquelles les sons changent de manière auto-générée. Ici, composer revient plutôt à fixer les conditions de départ, et les résultats sont différents à chaque fois.
+Lucier はフィードバック現象を用い、音が自己生成的に変化する構造を多く用いた。ここでは作曲は開始条件の設定に近く、結果は毎回異なる。
 
 <div class="mermaid">
 flowchart LR
@@ -93,39 +93,39 @@ flowchart LR
 
 ---
 
-## Chapitre 4 : Espace et Audition chez Lucier
+## 第4章：Lucier における空間と聴取
 
-### 4-1 Acoustique architecturale
+### 4-1 建築音響
 
-Le travail de Lucier s'appuie fortement sur les dimensions spatiales, les matériaux et les propriétés réfléchissantes. Même si la pièce est la même, les résultats acoustiques varieront considérablement si le lieu d'installation est différent.
+Lucier の作品は、空間の寸法、素材、反射特性に強く依存する。同一作品であっても、設置場所が異なれば音響結果は大きく変化する。
 
-### 4-2 Position du spectateur
+### 4-2 観客の位置
 
-La position debout et les mouvements du public sont des facteurs qui modifient l'expérience acoustique. L’œuvre n’est pas destinée à être écoutée depuis un point fixe.
+観客の立ち位置や移動は、音響体験を変化させる要因となる。作品は固定された一点から聴かれることを前提としない。
 
 ---
 
-## Chapitre 5 : L'environnement de production de Christian Fennesz
+## 第5章：Christian Fennesz の制作環境
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BU7-TwdQhyo?si=_iskop-M4YBKi38X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 5-1 Guitare et traitement numérique
+### 5-1 ギターとデジタル処理
 
-Christian Fennesz déconstruit et reconstruit les sons de guitare électrique grâce au traitement numérique. Le son original est modifié par le traitement des effets et les calculs informatiques, et la relation causale entre les actions de performance et les résultats auditifs devient floue.
+Christian Fennesz は、エレクトリックギターの音をデジタル処理によって分解・再構築する。原音はエフェクト処理やコンピュータ演算を通じて変質し、演奏動作と聴覚結果の因果関係は不明瞭になる。
 
-### 5-2 Bruit et résolution
+### 5-2 ノイズと解像度
 
-Des facteurs tels que la distorsion, la compression et les données manquantes sont traités comme des composants plutôt que comme des défauts. Au fur et à mesure que le son perd de sa clarté, il acquiert une nouvelle texture.
+歪み、圧縮、データ欠損といった要素は、欠陥ではなく構成要素として扱われる。音は明瞭さを失うことで、新たな質感を獲得する。
 
 ---
 
-## Chapitre 6 : Fennesz et les médias visuels
+## 第6章：Fennesz と映像メディア
 
-### 6-1 Placement parallèle avec vidéo
+### 6-1 映像との並列配置
 
-Dans le travail de Fennesz, les images sont disposées comme des éléments parallèles plutôt que comme des explications sonores. Le son et la vidéo ne sont souvent pas synchronisés.
+Fennesz の作品では、映像は音の説明ではなく、並列する要素として配置される。音と映像は同期しない場合も多い。
 
 <div class="mermaid">
 flowchart LR
@@ -136,44 +136,44 @@ flowchart LR
 
 ---
 
-## Chapitre 7 : Continuité analogique et numérique
+## 第7章：アナログとデジタルの連続性
 
-Le son physique dont s'occupe Lucier et le traitement numérique dont s'occupe Fennesz ne sont pas discontinus, mais un flux continu. Tous deux respectent l’autonomie du son et limitent le contrôle humain.
-
----
-
-## Chapitre 8 : Le son dans l'espace d'exposition
-
-### 8-1 Son lors de l'installation
-
-Le son est placé dans l'espace d'exposition au même titre que la sculpture et la vidéo. La durée est un attribut de l’œuvre, et les points de départ et d’arrivée ne sont pas nécessairement précisés.
-
-### 8-2 Configuration et conditions techniques
-
-Les alimentations électriques, le câblage et le placement des équipements sont traités comme faisant partie des travaux. Des différences dans les conditions de construction signifient également des différences dans les travaux.
+Lucier が扱った物理音響と、Fennesz が扱うデジタル処理は断絶ではなく連続した流れにある。どちらも音の自律性を尊重し、人為的制御を限定する点で共通している。
 
 ---
 
-## Chapitre 9 : Transformation du comportement d'écoute
+## 第8章：展示空間における音
 
-En art sonore, l’écoute n’est pas un acte passif. Les spectateurs bougent, choisissent et expérimentent partiellement. L’ensemble n’est possible que comme un ensemble d’expériences individuelles.
+### 8-1 インスタレーションとしての音
 
----
+音は展示空間において、彫刻や映像と同様に配置される。持続時間は作品の属性であり、始点と終点は必ずしも明示されない。
 
-## Chapitre 10 : Chronologie (étendue)
+### 8-2 設営と技術条件
 
-* Années 1930 : Recherches sur les appareils électroacoustiques
-* Années 1950 : Création de studios de musique électronique
-* Années 1960 : Musique expérimentale et minimalisme
-* Années 1970 : l'installation sonore s'installe
-* Années 1990 : traitement numérique du signal et ordinateurs portables
-* Après les années 2000 : Intégration avec les images et l'espace
+電源、配線、機材配置は作品の一部として扱われる。設営条件の差異は作品の差異でもある。
 
 ---
 
-## Conclusion : Pratiques structurelles autour du son
+## 第9章：聴取行為の変容
 
-L’art instrumental/sonore d’avant-garde est une pratique qui brise les frontières entre musique et art, performance et environnement, production et reproduction. Bien qu'Alvin Lucier et Christian Fennesz utilisent des époques et des techniques différentes, ils partagent une direction commune : exposer le son comme un phénomène.
+サウンドアートにおいて、聴取は受動的行為ではない。観客は移動し、選択し、部分的に体験する。全体像は個々の体験の集合としてのみ成立する。
+
+---
+
+## 第10章：年表（拡張）
+
+* 1930年代：電子音響装置の研究
+* 1950年代：電子音楽スタジオの設立
+* 1960年代：実験音楽とミニマリズム
+* 1970年代：サウンドインスタレーションの定着
+* 1990年代：デジタル信号処理とノートPC
+* 2000年代以降：映像・空間との統合
+
+---
+
+## 結論：音をめぐる構造的実践
+
+前衛インストゥルメンタル／サウンドアートは、音楽と美術、演奏と環境、制作と再生の境界を解体する実践である。Alvin Lucier と Christian Fennesz は、異なる時代と技術を用いながらも、音を現象として露呈させるという共通の方向性を示している。
 
 ---
 

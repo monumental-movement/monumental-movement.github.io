@@ -65,7 +65,7 @@ Ce son était une « lumière sonore » qui réchauffait le microcosme de la mai
 
 L'accordéon de Morty Nevins n'était pas seulement un accompagnement, c'était un créateur de mélodie et d'espace.
 Le lead bouge comme une diapositive, le soufflet bouge comme une respiration et le tempo fluctue légèrement.
-Ceux-ci créent la **sentiment unique de flottement et de bonheur** de Three Suns.
+Ceux-ci créent la **sentiment unique de flottement et de bonheur** des Trois Soleils.
 
 Dans les années 1950, ils signent un contrat avec RCA et publient une série d'œuvres expérimentales intégrant l'enregistrement magnétique et la technologie stéréo.
 "Movin' 'n' Groovin'" (1956), "Midnight for Two" (1957), etc.
@@ -92,7 +92,7 @@ C'était vraiment du **design intérieur du son**.
 | Audio haute fidélité | Vulgarisation de la lecture stéréo à la maison | Enregistrement avec des effets acoustiques à l'esprit |
 | Culture des cocktails | Symbole des loisirs urbains | Musique fusionnée avec « ivresse » |
 | Films maison | BGM à l’ère du film 8 mm | Trois Soleils était fréquemment utilisé |
-| Orienté vers l'espace | Esthétique de l’ère spatiale | Le son flottant résonne |
+| Orienté vers l'espace | Esthétique de l'ère spatiale | Le son flottant résonne |
 
 ---
 

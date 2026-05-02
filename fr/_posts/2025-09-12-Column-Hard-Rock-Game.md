@@ -171,8 +171,8 @@ color: #fff;
 |------|--------------|
 | À la fin | Parc Linkin |
 | Ramper | Parc Linkin |
-| Hachez Suey ! | Système d'un duvet |
-| Toxicité | Système d'un duvet |
+| Hachez Suey ! | Système d'un Down |
+| Toxicité | Système d'un Down |
 | Cochise | Audioesclave |
 | Comme une pierre | Audioesclave |
 | Engourdi | Parc Linkin |
@@ -235,7 +235,7 @@ color: #fff;
 
 ## Liste des chansons de hard rock incluses dans le jeu musical
 
-Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band** ont joué un rôle important en faisant connaître les classiques du hard rock du passé à une nouvelle génération. De plus, de nombreuses interprétations uniques du hard rock sont apparues dans les jeux musicaux d’arcade japonais. Vous trouverez ci-dessous des exemples d'enregistrement typiques.
+Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band** ont joué un rôle important en faisant connaître les classiques du hard rock du passé à une nouvelle génération. De plus, de nombreuses interprétations uniques du hard rock sont apparues dans les jeux musicaux d’arcade japonais. Ce qui suit est un exemple d’enregistrement typique.
 
 ---
 
@@ -244,9 +244,9 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
 | Héros de la guitare (2005) | Fumée sur l'eau | Violet profond | Chansons célèbres apparues dans la première génération |
-| Guitar Hero II (2006) | Doux enfant O’ Mine | Guns N'Roses | Solo de guitare impressionnant |
+| Guitar Hero II (2006) | Sweet Child O’ Mine | Guns N'Roses | Impressive guitar solo |
 | Guitar Hero II (2006) | Continuez Wayward Son | Kansas | Hymne du hard rock |
-| Guitar Hero III (2007) | Bienvenue dans la jungle | Guns N'Roses | L'une des chansons les plus populaires de la série |
+| Guitar Hero III (2007) | Welcome to the Jungle | Guns N'Roses | L'une des chansons les plus populaires de la série |
 | Guitar Hero III (2007) | Un | Métallique | Célèbre comme chanson très difficile |
 | Guitar Hero III (2007) | À travers le feu et les flammes | ForceDragon | Chanson intense légendaire |
 | Héros de la guitare : Aerosmith (2008) | Rêvez sur | Aérosmith | Spin-off spécifique au groupe |
@@ -258,7 +258,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
-| Groupe de rock (2007) | Paranoïaque | Sabbat noir | Chansons représentatives de l'enregistrement original |
+| Groupe de rock (2007) | Paranoïaque | Sabbat noir | Representative songs from the original recording |
 | Groupe de rock (2007) | Ne vous laisserez plus tromper | Le Qui | Longue Roche |
 | Groupe de rock 2 (2008) | Hachez Suey ! | Système d'un Down | Représentant Nu-Metal |
 | Groupe de rock 2 (2008) | Pour toujours | Foo combattants | Chansons représentatives des années 90 |

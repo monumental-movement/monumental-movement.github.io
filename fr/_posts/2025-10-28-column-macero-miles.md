@@ -23,7 +23,7 @@ Texte : mmr | Thème : « La révolution musicale par le montage » construit
 
 À la fin des années 1960, la musique de Miles Davis n'est plus une extension de ses performances live, mais se transforme en une « architecture sonore » construite par l'enregistrement et le montage. Derrière ce changement se trouve le producteur et monteur **Teo Macero**.
 
-Masero n’était pas seulement une personne « dans les coulisses ». Entre ses mains, un grand nombre de bandes de sessions ont été coupées, collées et réassemblées, donnant naissance à un ensemble d'œuvres que l'on pourrait qualifier de « composition par montage ».
+Masero n’était pas seulement une personne « dans les coulisses ». Entre ses mains, un grand nombre de bandes de sessions ont été coupées, collées et réassemblées, donnant naissance à un ensemble d'œuvres que l'on peut qualifier de « composition par montage ».
 « In a Silent Way » (1969) et « Bitches Brew » (1970) en sont d'excellents exemples. Il y a une **révolution dans l'esthétique du montage** qui dépasse les frontières entre « performance » et « composition ».
 
 ---
@@ -131,7 +131,7 @@ En d’autres termes, Macero s’est forgé un nouveau métier : « compositeur 
 
 ---
 
-## Chapitre 5 : Tension avec Miles
+## Chapitre 5 : Tension avec Miles
 
 La relation entre Miles Davis et Macero a toujours été une relation de collaboration et de conflit.
 Tandis que Miles recherchait la liberté d'improvisation, Macero cherchait à façonner les résultats par le montage.
@@ -225,13 +225,13 @@ Il y a ici un fondement philosophique qui résonne dans tout l’art du XXe siè
 | -------------------------- | -------------------- | ------------- |
 | **Constructivisme** | Le sens se crée à travers l'agencement et le réarrangement des matériaux | Architecture/Musique contemporaine |
 | **Chance contrôlée** | Contrôler les fragments improvisés par le montage | Cage, Varèse |
-| **Sculpter dans le temps** | Concevoir un « temps auditif » par le montage | Montage de films (Tarkovsky) |
+| **Sculpter dans le temps** | Concevoir le « temps auditif » par le montage | Montage de films (Tarkovsky) |
 | **Méta-composition** | Reconfigurer les matériaux à un niveau de composition supérieur | Art sonore, culture DAW |
 
 Macero a été la première personne à incarner le concept de « composition en deux étapes », dans lequel la musique est composée après l'enregistrement.
 Pour lui, l'improvisation était la « génération de matériaux » et le montage était le « lieu de construction ».
 
-> "La performance est le processus de création de matériel, et l'édition est le processus de transformation de celui-ci en sens."
+> "La performance est le processus de création de matériel, et le montage est le processus de transformation de celui-ci en sens."
 > — Téo Macero
 
 ---
@@ -285,7 +285,7 @@ On peut dire que le son édité de Macero mettait déjà en pratique la « sculp
 
 ---
 
-## Figure supplémentaire : modèle « composition par édition » de style Macero
+## Figure supplémentaire : modèle « composition par édition » de style Masero
 
 <div class="mermaid">
 
@@ -305,10 +305,10 @@ graph TD
 
 ---
 
-## Chapitre 11 : « Bitches Brew » —— Composition de la bande et carte d'édition
+## Chapitre 11 : « Bitches Brew »—— Composition de la bande et carte d'édition
 
 Bitches Brew a été enregistré au Columbia Studio B entre le 19 et le 21 août 1969.
-Les sessions se sont étalées sur trois jours, chacune durant des dizaines de minutes **sous forme de jam impromptu**.
+Les sessions se sont étalées sur trois jours, chacune durant des dizaines de minutes **sous la forme d'un jam impromptu**.
 Teo Macero a assemblé et édité cette grande quantité de matériel enregistré pour créer la structure finale de l'album.
 
 ---
@@ -386,14 +386,14 @@ flowchart LR
 | Méthode d'édition | Contenu | Effet |
 | ------ | ----------------------- | -------------------------- |
 | Épissure ① | Transition forcée de la couche batterie/basse au solo de trompette | Découpé pour donner l'impression d'une composition « spontanée » |
-| Épissure ② | Connexion des sessions B et C (inadéquation de tempo) | Confusion auditive → effet de transe |
-| Épissure ③ | Superposition de différentes couches rythmiques | Rainures multicouches |
-| Épissure ④ | Insertion récursive du thème | Circularisation structurelle (technique In a Silent Way) |
+| スプライス② | セッションBとCの接続（テンポ不一致）     | 聴覚的混乱 → トランス効果             |
+| スプライス③ | 異なるリズム層を重ねる             | グルーヴの多層化                   |
+| スプライス④ | テーマの再帰挿入                | 構造的円環化（In a Silent Way的技法） |
 
 
 ---
 
-## Diagramme conceptuel de la « partition éditée » de Masero
+## マセロの「編集譜面」概念図
 
 <div class="mermaid">
 
@@ -408,27 +408,27 @@ graph TD
 
 </div>
 
-Cette « partition éditée » comprend la durée, le tempo et la source de chaque segment.
-Macero l'appelait la « carte du son ».
-On peut dire qu'elle a précédé la « méthode de composition en studio » prônée plus tard par Brian Eno.
+この「編集譜面」には、各セグメントの時間・テンポ・素材出典テイクが記されており、
+マセロはそれを“音の地図（map of sound）”と呼んでいた。
+後年のブライアン・イーノが提唱する「スタジオ作曲法」に先行するものと言える。
 
 ---
 
-## Points de construction acoustique
+## 音響的構築ポイント
 
-| Éléments | Techniques | Intention acoustique |
-| ---------- | -------------------- | -------------------- |
-| Espace stéréo | Localisation (placement du tambour à gauche et à droite) impossible en performance réelle | Expansion du sens visuel de l'espace |
-| Répétition de bande | Réinsérer la même phrase (structure récursive) | Effet d'hypnose auditive |
-| Fonctionnement égaliseur/réverbération | Unification de la texture entre plusieurs prises | Pseudo-génération de continuité spatio-temporelle |
-| « Coutures » de réverbération fragmentée | Délibérément laissé pour compte | Transformer les traces du montage en musique (transformer les coutures sonores en « structure ») |
+| 要素         | 手法                     | 音響的意図                    |
+| ---------- | ---------------------- | ------------------------ |
+| ステレオ空間     | リアル演奏では不可能な定位（ドラム左右配置） | 視覚的空間感覚の拡張               |
+| テープリピート    | 同フレーズを再挿入（再帰構造）        | 聴覚的催眠効果                  |
+| EQ／リバーブ操作  | マルチテイク間の質感統一           | 時空的連続性の擬似生成              |
+| 断片残響の“継ぎ目” | わざと残す                  | 編集痕跡を音楽化（サウンドの継ぎ目を“構造”に） |
 
 ---
 
-## "Modifier la composition" résultante
+## 結果としての「編集作曲」
 
-« Bitches Brew », créée par Macero, n'est plus une « œuvre compilée à partir de performances ».
-Il s'agit d'une « improvisation structurelle » qui utilise le montage lui-même comme méthode de composition.
+マセロが創った『Bitches Brew』は、もはや“演奏を編集した作品”ではない。
+それは、編集そのものを作曲法とする**「構造的即興」**である。
 
 <div class="mermaid">
 
@@ -441,7 +441,7 @@ graph LR
 
 ---
 
-## Supplément : Reconfigurer la structure temporelle en éditant
+## 補足：編集による時間構造の再構成
 
 <div class="mermaid">
 
@@ -460,26 +460,26 @@ sequenceDiagram
 
 </div>
 
-Le montage dans « Bitches Brew » est une « extension post-enregistrement » de l'improvisation jazz.
-L'art de Masello réside à la frontière entre l'instantanéité de la performance et la construction du montage.
-Il s'agissait d'une tentative d'utiliser l'espace du studio comme « un autre instrument ».
+『Bitches Brew』における編集は、ジャズ即興の“録音後的延長”である。
+演奏の瞬間性と編集の構築性がせめぎ合うその境界に、マセロの芸術が宿る。
+それはスタジオという空間を「もうひとつの楽器」として奏でる試みだった。
 
 ---
 
-## Dernier chapitre : L'héritage de « l'oreille » de Teo Macero
+## 終章：テオ・マセロの“耳”が遺したもの
 
-Le montage de Macero n'était pas seulement un « post-traitement » mais une redéfinition de l'art de l'enregistrement lui-même.
-Il n’a pas tracé de frontière claire entre la performance et le montage. Cet écart était plutôt la source de la créativité.
+マセロの編集は、単なる「後処理」ではなく、**録音芸術そのものの再定義**であった。
+彼は演奏と編集のあいだに明確な線を引かなかった。むしろその間隙こそが創造の源泉だった。
 
-Dans la production musicale moderne, les actes que nous effectuons inconsciemment, tels que le « cut and loop », l'« automation » et le « remix », sont tous des extensions de la philosophie de Macero.
-Son accomplissement n’est rien de moins que de transformer la technologie de l’enregistrement en une forme d’art en tant qu’extension de la pensée humaine.
+現代の音楽制作において、私たちが無意識に行う“カット＆ループ”、“オートメーション”、“リミックス”といった行為は、すべてマセロの思想の延長線上にある。
+彼の功績は、録音というテクノロジーを**人間の思考の延長として芸術化**したことに他ならない。
 
-> "Monter, c'est couper le temps avec des ciseaux. Et le temps coupé devient une nouvelle musique."
+> 「編集とは、時間にハサミを入れることだ。そして、切られた時間は新しい音楽になる。」
 > — Téo Macero
 
 ---
 
-## Diagramme associé : Structure de la génération de musique par édition
+## 関連図：編集による音楽生成の構造
 
 <div class="mermaid">
 
@@ -503,7 +503,7 @@ graph LR
 ---
 
 
-## Références/Matériaux
+## 参考文献・資料
 
 - [Paul Tingen, Miles Beyond: The Electric Explorations of Miles Davis, 1967–1991](https://amzn.to/4qwnywM)
 

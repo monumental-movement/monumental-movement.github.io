@@ -9,17 +9,17 @@ permalink: /fr/fun-fun-baila-bolero/
 tags:
 - Italo
 - Disco
-title: Fun Fun – Baila Boléro
+title: Fun Fun – Baila Bolero
 ---
 
 
-"Baila Bolero" développe le son dance-pop distinctif de Fun Fun. Le titre de la chanson « Baila Bolero » signifie « danser le boléro » en espagnol et, comme son nom l'indique, la chanson est pleine d'énergie et a un rythme joyeux sur lequel il est facile de danser.
+「Baila Bolero」は、ファン・ファンの特徴的なダンスポップサウンドを展開しています。曲名の「Baila Bolero」はスペイン語で「ボレロを踊る」という意味であり、その名の通り、楽曲は陽気で踊りやすいリズムとエネルギーに溢れています。
 
-Cette chanson est une chanson de piste de danse qui combine des éléments de boléro et de disco, et présente un rythme cool et une mélodie entraînante. Les voix vives des membres de Fan Fan renforcent également le charme de la chanson.
+この曲は、ボレロとディスコの要素を組み合わせたダンスフロア向けの楽曲であり、カッチョイなリズムとキャッチーなメロディが特徴です。ファン・ファンのメンバーによる鮮やかなヴォーカルも、曲の魅力を引き立てています。
 
-"Baila Bolero" est l'une des chansons devenues populaires lors du boom disco et eurodisco de l'époque, et est connue comme un chef-d'œuvre parmi les fans. Son son optimiste et son rythme dansant en font une chanson populaire dans les soirées dansantes et les clubs.
+「Baila Bolero」は、当時のディスコやユーロディスコブームの中で人気を博した曲の一つであり、ファン・ファンの代表作として知られています。その陽気なサウンドと踊りやすいリズムから、ダンスパーティーやクラブでの定番曲として愛されています。
 
-Le "Baila Bolero" de Fan Fan est un régal pour les amateurs de disco et d'eurodisco en raison de sa qualité amusante et dansante. En écoutant la chanson, vous pouvez ressentir le charme de la musique dance des années 80 et l'énergie de cette époque.
+ファン・ファンの「Baila Bolero」は、その楽しさとダンス性の高さから、ディスコやユーロディスコの愛好家にとって特別な存在です。曲を聴くことで、80年代のダンスミュージックの魅力や当時のエネルギーを感じることができます。
 
 #### Liste des chansons
 ```md

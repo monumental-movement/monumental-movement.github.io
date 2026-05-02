@@ -40,124 +40,124 @@ color: #fff;
 
 ---
 
-## 1. Prologue : Là où la science et la musique se rencontrent
+## 1. Prologue : Là où science et musique se rencontrent
 
 Le **Prix Ig Nobel** est connu comme le « petit frère excentrique » du prix Nobel.
-Depuis sa création en 1991 par la revue scientifique satirique américaine *Annals of Improbable Research*,
-Le prix a été décerné à des recherches qui font rire et réfléchir.
+1991年にアメリカの風刺科学誌 *Annals of Improbable Research* によって創設されて以来、  
+“人を笑わせ、そして考えさせる” 研究に与えられてきた。
 
-En plus des domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
-Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.
-En effet, la science du son n’est pas seulement un phénomène ondulatoire.
-C’est parce qu’il pénètre profondément dans les émotions humaines, la société et la physiologie.
+この賞の舞台では、物理・医学・平和・文学などの分野に加え、  
+しばしば「音」や「音楽」に関する研究が注目されてきた。  
+それは、**音の科学**が単なる波動現象ではなく、  
+人間の感情・社会・生理にまで深く入り込んでいるからである。
 
-Retraçant l'histoire du prix Ig Nobel,
-« Les recherches qui traitent scientifiquement des phénomènes musicaux » apparaissent à plusieurs reprises.
-Il existe la science de « mesurer le monde à travers le son » et
-Il existe une intersection de l'art qui nous permet de « ressentir le monde à travers le son ».
-
----
-
-## 2. Le son comme expérience - le moment où la science rencontre la musique
-
-### 2.1 2013 : Expérience de transplantation de souris destinées à écouter de l'opéra
-
-En 2013, une équipe de recherche dirigée par **Niimi Masanori** de l'Université Teikyo,
-Il a attiré l'attention grâce à une expérience dans laquelle il a fait écouter de la musique à des souris transplantées cardiaques.
-Ce résultat a été récompensé par le prix Ig Nobel de médecine.
-
-L’étude a comparé des souris dans les groupes suivants :
-
-- Groupe d'écoute d'opéra (La Traviata de Verdi)
-- Groupe qui écoutait de la musique pop comme Enya
-- Groupe de contrôle silencieux
-
-En conséquence, il a été rapporté que la période de survie après une transplantation cardiaque était prolongée d'une moyenne de 7 jours à 27 jours dans le groupe Opera (*Teikyo Univ. Med. J.*, 2013).
-La musique, en particulier la structure et le rythme classiques,
-Il semblerait que cela puisse affecter la réponse immunitaire et la tolérance au stress.
-
-Cette recherche vise à traiter la musique comme un stimulus médical.
-Cette idée a été très appréciée et transcende les frontières entre l’art et la science.
+イグ・ノーベル賞の歴史をたどると、  
+「音楽的現象を科学的に扱った研究」が繰り返し登場している。  
+そこには、“音を通じて世界を測る”という科学と、  
+“音を通じて世界を感じる”という芸術の交差点がある。
 
 ---
 
-### 2.2 2017 : Recherche « Lecteur de musique vaginale »
+## 2. 実験としての音 ― 科学が音楽に出会う瞬間
 
-En 2017, une étude de l'**Institut Marquès** de Barcelone, Espagne
-Lauréat du prix Ig Nobel de médecine.
-Cette équipe a développé un **haut-parleur intravaginal** appelé "Babypod",
-Nous avons étudié comment les fœtus réagissent aux stimuli musicaux dans l'utérus.
+### 2.1 2013年：オペラを聴かせたマウスの移植実験
 
-Selon les recherches, comparé à la diffusion du son via un haut-parleur depuis l'extérieur du corps de la mère,
-On dit que lorsque les vibrations étaient appliquées directement via le Babypod, le fœtus montrait une réaction en bougeant sa bouche et sa langue.
-Ce résultat suggère « un développement précoce de la réponse auditive fœtale ».
-Scientifiquement étayé la possibilité que la musique soit liée au développement physiologique.
-Il a également attiré beaucoup d'attention dans la société en tant qu'exemple de visualisation du « lien entre la vie et le son ».
+2013年、帝京大学の **新見正則（Niimi Masanori）** らの研究チームが、  
+心臓移植を行ったマウスに音楽を聴かせた実験で注目を集めた。  
+この成果がイグ・ノーベル賞医学賞（Medicine Prize）として表彰された。
 
----
+研究では、マウスを以下の群に分けて比較した：
 
-### 2.3 2020 : Cris et résonance des crocodiles - une expérience évolutive en acoustique
+- オペラ（ヴェルディ《ラ・トラヴィアータ》）を聴かせた群  
+- エンヤなどのポップ音楽を聴かせた群  
+- 無音の対照群
 
-En 2020, recherche menée par **Takeshi Nishimura** et ses collègues du Primate Research Institute de l'Université de Kyoto
-A reçu le **Prix Acoustique**.
-L’équipe de recherche a placé des crocodiles dans un environnement de gaz mixte d’hélium et d’oxygène (Heliox).
-Analyser les formants (composantes résonantes) du cri.
-En conséquence, nous avons confirmé que la structure de résonance change également à mesure que la densité de l’air change.
+結果、オペラ群では心臓移植後の生存期間が**平均7日→27日に延長**するという報告が得られた（*Teikyo Univ. Med. J.*, 2013）。  
+音楽、特にクラシカルな構造とリズムが、  
+免疫応答やストレス耐性に影響を与える可能性を示唆したとされる。
 
-Il s'agissait d'une démonstration expérimentale selon laquelle **la résonance vocale dépend de la taille du corps et de la structure du conduit vocal**.
-Autrement dit, une communication biologique appelée « cris »
-Cela montre clairement qu'il repose sur des principes physiques et acoustiques.
+この研究は“音楽を医学的刺激として扱う”という、  
+芸術と科学の境界を越える発想として高く評価された。
 
 ---
 
-## 3. La musique elle-même et le prix Ig Nobel - « l'esprit expérimental » de la composition, de l'interprétation et du public
+### 2.2 2017年：「ヴァギナル・ミュージック・プレーヤー」研究
 
-### 3.1 L'intersection entre la « structure » et la « science » de la musique
+2017年、スペイン・バルセロナの **Institut Marquès** による研究が  
+イグ・ノーベル医学賞を受賞した。  
+このチームは「Babypod」と呼ばれる**膣内スピーカー**を開発し、  
+胎児が子宮内で音楽刺激にどのように反応するかを調べた。
 
-La scène du prix Ig Nobel elle-même est pleine d'humour musical.
-Lors de la cérémonie de remise des prix, les scientifiques présentent leurs articles sous forme d'opéra,
-Un format de présentation avec une « structure rythmique » de « présentation de 24 secondes + résumé de 7 mots » sera utilisé.
-C’est le moment où les frontières entre articles scientifiques et performances musicales s’estompent.
-
-Cet « humour structuré » recoupe le sens du rythme et de l’ordre de la musique.
-La musique existe aussi à l’intersection de la raison et du jeu.
-
----
-
-### 3.2 La musique comme « expérience sociale utilisant le son »
-
-« 4 Minutes 33 Seconds » de John Cage (1952) est connue pour être une musique qui ne produit aucun son.
-Du point de vue d'Ig Nobel, cela peut également être interprété comme une « expérience auditive/psychologique dans un environnement silencieux ».
-"Musique générative" proposée par Brian Eno,
-Il s’agit d’un exemple de transplantation des concepts scientifiques de hasard, d’algorithmes et de structure temporelle dans l’art.
-
-Tout comme la science découvre les « lois du monde » à travers des expériences,
-Les musiciens explorent également les « lois de l’écoute » à travers des expériences.
-Les deux partagent le même esprit d’enquête avec des méthodologies différentes.
+研究によれば、母体外からスピーカーで音を流した場合よりも、  
+Babypod経由で直接振動を与えた方が、胎児が**口や舌を動かす反応**を示したという。  
+この成果は「胎児の聴覚反応の初期発達」を示唆するものであり、  
+音楽が生理的発達に関わる可能性を科学的に裏づけた。  
+また、社会的にも「生命と音のつながり」を可視化した事例として話題を呼んだ。
 
 ---
 
-### 3.3 Le public comme « sujet » – entre émotions et données
+### 2.3 2020年：ワニの鳴き声と共鳴 ― 音響の進化的実験
 
-Dans des recherches récentes en neurosciences, l’IRMf a été utilisée pour mesurer l’activité cérébrale tout en écoutant de la musique.
-Des efforts sont en cours pour analyser les mécanismes par lesquels le plaisir et l’empathie se produisent.
-Lors du Prix Ig Nobel de la Paix 2019 (études néerlandaises/polonaises),
-Le prix a été décerné à une étude portant sur les « réactions de colère lorsque l'on entend des sons désagréables ».
-Comment les gens réagissent-ils au son ? La question est,
-Elle ne se limite plus à la psychologie, mais s'étend aux domaines sociaux et culturels.
+2020年、京都大学霊長類研究所の **西村剛（Takeshi Nishimura）** らの研究が  
+**音響学賞（Acoustics Prize）** を受賞した。  
+研究チームは、クロコダイルをヘリウムと酸素の混合ガス（Heliox）環境下に置き、  
+その鳴き声のフォルマント（共鳴成分）を解析。  
+結果、空気密度が変化すると共鳴構造も変わることを確認した。
 
----
-
-### 3.4 "L'idée à la Ig Nobel" du musicien
-
-``Concert qui convertit les ondes cérébrales en son'' de **Sigur Rós** d'Islande,
-Le « travail acoustique qui convertit les sons environnementaux en données et les reconstruit » de Ryuichi Sakamoto est
-Il s’agit véritablement d’une expérience de fusion entre science et musique.
-Cela met en lumière l’image du musicien comme « un scientifique qui observe le monde à travers le son ».
+これは、**声の共鳴が身体サイズや声道構造に依存する**ことを実験的に示すものだった。  
+つまり、「鳴き声」という生物的コミュニケーションが  
+物理的・音響的原理に基づいて成立していることを明確にしたのである。
 
 ---
 
-## 4. Chronologie : Prix Ig Nobel et histoire de la recherche sur le son et la musique
+## 3. 音楽そのものとイグ・ノーベル賞 ― 作曲・演奏・聴衆の“実験精神”
+
+### 3.1 音楽の「構造」と「科学」の接点
+
+イグ・ノーベル賞の舞台自体が、音楽的なユーモアに満ちている。  
+授賞式では、科学者がオペラ形式で論文を発表したり、  
+「24秒プレゼン＋7語要約」という“リズム構造”の発表形式が用いられる。  
+科学的論文と音楽的パフォーマンスの境界が曖昧になる瞬間である。
+
+この「構造化されたユーモア」こそ、音楽のリズム感・秩序感と重なる。  
+音楽もまた、**理性と遊びの交錯点**に存在するのだ。
+
+---
+
+### 3.2 「音を使った社会実験」としての音楽
+
+ジョン・ケージ《4分33秒》（1952）は、音を出さない音楽として知られるが、  
+イグ・ノーベル的視点で見れば「無音環境下の聴覚・心理実験」とも解釈できる。  
+ブライアン・イーノが提唱した“ジェネレーティブ・ミュージック”も、  
+偶然性・アルゴリズム・時間構造という科学的概念を芸術に移植した例である。
+
+科学が実験を通して“世界の法則”を発見するように、  
+音楽家もまた実験を通して“聴取の法則”を探る。  
+両者は異なる方法論で同じ探究心を共有している。
+
+---
+
+### 3.3 聴衆という「被験者」 ― 感情とデータのあいだ
+
+近年の神経科学研究では、音楽を聴くときの脳活動をfMRIで測定し、  
+快楽や共感の発生メカニズムを解析する試みが進む。  
+イグ・ノーベル平和賞2019（オランダ・ポーランド研究）では、  
+「嫌な音を聞いたときの怒り反応」を調べた研究が表彰された。  
+人が音にどう反応するか――その問いは、  
+もはや心理学だけでなく、社会的・文化的領域に広がっている。
+
+---
+
+### 3.4 音楽家の「イグ・ノーベル的発想」
+
+アイスランドの **Sigur Rós** が行った「脳波を音に変換するコンサート」や、  
+坂本龍一の「環境音をデータ化して再構成する音響作品」は、  
+まさに科学と音楽の融合的実験だ。  
+それは、**“音で世界を観察する科学者”としての音楽家**の姿を浮かび上がらせる。
+
+---
+
+## 4. 年表：イグ・ノーベル賞と音・音楽の研究史
 
 <div class="mermaid">
 
@@ -175,12 +175,12 @@ timeline
 
 ---
 
-## 5. Conclusion : Au-delà des frontières entre science et musique
+## 5. 結語：科学と音楽の境界線を超えて
 
-Derrière la nouveauté du prix Ig Nobel se cache la « pureté de la question ».
-Cela s’apparente un peu à la manière dont les artistes interrogent le monde à travers le son.
-Musique et science - lorsque ces deux domaines se croisent,
-Une nouvelle « harmonie » naît entre l’émotion humaine et la raison.
+イグ・ノーベル賞は、奇抜さの裏に「問いの純粋さ」を宿している。
+それは、芸術家が音を通して世界を問う姿勢とどこか似ている。
+音楽と科学――この二つの領域が交わるとき、
+人間の感情と理性のあいだに新しい“ハーモニー”が生まれるのだ。
 
 ---
 

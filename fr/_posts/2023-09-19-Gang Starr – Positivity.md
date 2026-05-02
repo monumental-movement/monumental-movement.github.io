@@ -10,15 +10,15 @@ tags:
 - Hiphop
 - 90s
 - Gangsta
-title: Gang Starr – Positivité
+title: Gang Starr – Positivity
 ---
 
 
-Gang Starr est un duo hip-hop américain (Guru & DJ Premier) actif de la fin des années 1980 aux années 1990. "Positivity" apparaît sur leur troisième album studio, "Daily Operation" (1992).
+Gang Starrは、1980年代後半から1990年代にかけて活動したアメリカのヒップホップデュオ(Guru&DJ Premier)です。「Positivity」は、彼らの3枚目のスタジオアルバムである「Daily Operation」（1992年）に収録されています。
 
-Cette chanson vise à transmettre un message positif et une énergie positive.
+この曲は、ポジティブなメッセージと前向きなエネルギーを伝えることをテーマにしています。
 
-La combinaison du style de rap unique de Guru et des rythmes caractéristiques de Premier lui a valu d'être reconnu comme l'un des chefs-d'œuvre de Gang Starr et un classique du hip-hop.
+Guruの独特なラップスタイルとPremierの特徴的なビートが組み合わさり、Gang Starrの代表作の一つとして、またヒップホップのクラシックとして高く評価されています。
 
 #### Liste des chansons
 ```md

@@ -22,7 +22,7 @@ Andrew Field-Pickering est un producteur/DJ de Washington, D.C., qui travaille �
 
 Ari Goldman est un DJ/producteur basé à Washington, D.C. et directeur du label World Building.
 
-"Big Coast" est un morceau Leftfield/House/Dub/New Beat/Disco sorti par le label Future Times en 2010. (édition promo)
+"Big Coast" est un morceau Leftfield/House/Dub/New Beat/Disco sorti sur le label Future Times en 2010. (édition promo)
 
 #### Liste des chansons
 ```md

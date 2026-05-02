@@ -63,7 +63,7 @@ Le live house « LOFT » a ouvert ses portes en 1976, faisant de Shinjuku une zo
 
 ### 1. L'illusion du Shibuya-kei
 Dans les années 1990, Shibuya était sous le feu des projecteurs en tant que « ville musicale connectée au monde ».
-Un réseau de sons se propageant depuis le 7ème étage de Tower Records. Pizzicato Cinq, Cornelius, Kenji Ozawa.
+Un réseau de sons qui se diffuse depuis le 7ème étage de Tower Records. Pizzicato Cinq, Cornelius, Kenji Ozawa.
 Les sensibilités pop importées d’outre-mer ont été simultanément redéfinies comme cool japonaise.
 
 ### 2. L'essor de la culture club

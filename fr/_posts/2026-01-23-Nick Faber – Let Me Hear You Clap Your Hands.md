@@ -11,13 +11,13 @@ tags:
 - Electro
 - Hiphop
 - 90s
-title: Nick Faber – Laisse-moi t’entendre taper dans tes mains
+title: Nick Faber – Let Me Hear You Clap Your Hands
 ---
 
 
-Nick Faber est un producteur/musicien basé à Londres.
+Nick Faberは、ロンドンを拠点に活動するプロデューサー／ミュージシャン。
 
-"Let Me Hear You Clap Your Hands" est un morceau Breaks/Electro sorti sur le label Breakbeat/Hip Hop Marble Bar en 1999.
+「Let Me Hear You Clap Your Hands」は、1999年にBreakbeat／Hip HopレーベルMarble BarからリリースされたBreaks／Electro トラック。
 
 #### Liste des chansons
 ```md

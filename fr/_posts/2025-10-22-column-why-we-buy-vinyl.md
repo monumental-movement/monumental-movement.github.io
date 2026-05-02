@@ -92,7 +92,7 @@ Contient des fluctuations plus proches des « sons naturels » que des sons num�
 Cette fluctuation subtile (fluctuation 1/f) est
 Il est connu pour résonner avec les ondes cérébrales alpha et produire un effet relaxant.
 
-En d'autres termes, les enregistrements analogiques sont un **bruit confortable pour le corps**.
+En d’autres termes, les enregistrements analogiques sont un **bruit confortable pour le corps**.
 Inconsciemment, nous recherchons un son qui ne soit pas trop formel.
 
 ---
@@ -109,7 +109,7 @@ Friedrich Kittler l'a déclaré dans « Media Archaeology ».
 Alors que le son évolue de « l'enregistrement » à la « lecture »,
 Le disque reste le seul support permettant de toucher le temps.
 
-Lorsque vous posez l’aiguille, elle émet un son et lorsque vous la relevez, le silence revient.
+Lorsque vous posez l’aiguille, elle émet un son, et lorsque vous la relevez, le silence revient.
 Au sein de ce mécanisme simple, il y a un **dialogue entre le temps et le corps**.
 
 ---
@@ -125,7 +125,7 @@ Il fonctionne plutôt comme une « preuve d’expérience ».
 
 Le talent artistique de la pochette, le fait de retourner le disque,
 Les pas physiques ne sont pas dans l'application.
-C'est également l'expression d'une **culture anti-transparence** à l'ère numérique.
+C'est également une expression de la **culture anti-transparence** à l'ère numérique.
 
 ---
 
@@ -148,7 +148,7 @@ Mais c’est ça, un « son vivant ».
 
 Psychologiquement, les gens ont tendance à « s’attacher aux imperfections » plutôt qu’à la perfection.
 Acceptez cette imperfection comme faisant partie de vous-même.
-C'est là tout son attrait en tant que « fantôme de l'analogique ».
+C'est là tout l'attrait du "fantôme de l'analogique".
 
 --Les disques ne sont pas des pierres tombales pour la musique.
 Au contraire, **la mémoire humaine elle-même est un appareil rotatif**.

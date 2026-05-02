@@ -89,7 +89,7 @@ Cette signature rythmique a été réutilisée plus tard dans la musique de club
 ### L'avènement du disque et de la radio
 
 Après les années 1920, avec la diffusion de la technologie d’enregistrement et de la radiodiffusion, la musique régionale a commencé à affluer dans les villes.
-La musique de danse s'est également transformée en musique écoutée à la maison.
+La musique de danse s’est également transformée en musique écoutée à la maison.
 
 ### Le germe de la pop orientale
 

@@ -46,7 +46,7 @@ color: #fff;
 
 ## Années 1950-60 : L'aube du rock et l'émergence des ensembles féminins
 
-Dans les années 1950, le rock and roll est né aux États-Unis et le groupe est devenu le centre de la culture des jeunes. D’un autre côté, les musiciennes de l’époque se faisaient souvent remarquer en tant que chanteuses, et les performances étaient généralement interprétées par des hommes. Un groupe qui est apparu comme une exception était un groupe entièrement féminin qui jouait d’instruments de musique.
+Dans les années 1950, le rock and roll est né aux États-Unis et le groupe est devenu le centre de la culture des jeunes. D’un autre côté, les musiciennes de l’époque étaient souvent au premier plan en tant que chanteuses, et les performances étaient généralement interprétées par des hommes. Un groupe qui est apparu comme une exception était un groupe entièrement féminin qui jouait d’instruments de musique.
 
 Les Shirelles et les Ronettes, apparus en 1964, étaient techniquement des groupes vocaux, mais en tant que collectif à prédominance féminine, ils eurent une forte influence sur leurs successeurs. Finalement, à la fin des années 1960, on a commencé à voir des femmes jouer de la guitare et de la batterie sur la côte ouest des États-Unis et au Royaume-Uni.
 
@@ -64,7 +64,7 @@ B --> C[バンド形態への移行]
 
 Dans les années 1970, avec la montée de la deuxième vague féministe, les femmes ont commencé à faire valoir leurs droits en tant que sujets d’expression. En Amérique, Fanny a signé un contrat majeur, démontrant qu'un groupe de rock entièrement féminin pouvait être commercialement viable.
 
-À peu près à la même époque, au Royaume-Uni, le nombre de groupes incluant des femmes a augmenté dans le contexte du pub rock et du glam rock. Bien que Suzy Quatro soit une artiste solo, elle est importante en tant que personne qui a établi l'image d'une femme rock avec une basse. Bien que les groupes de filles soient encore minoritaires, les conditions de participation au format rock ont ​​commencé à se desserrer.
+À peu près à la même époque, au Royaume-Uni, le nombre de groupes comprenant des femmes a augmenté dans le contexte du pub rock et du glam rock. Bien que Suzy Quatro soit une artiste solo, elle est importante en tant que personne qui a établi l'image d'une femme rock avec une basse. Bien que les groupes de filles soient encore minoritaires, les conditions de participation au format rock ont ​​commencé à se desserrer.
 
 > Les années 1970 ont été une époque où les conditions de participation elles-mêmes ont été réécrites.
 
@@ -137,7 +137,7 @@ Années 2010 : diversité et redéfinition
 
 ## Dernier chapitre : les groupes de filles comme histoire
 
-L’histoire mondiale des groupes de filles n’est pas une progression linéaire, mais une série d’essais et d’erreurs intermittents. Ils sont bloqués par le système, oubliés, et pourtant ils réapparaissent. On peut dire que cette répétition est l’essence de cette scène.
+L’histoire mondiale des groupes de filles n’est pas une progression linéaire, mais une série d’essais et d’erreurs intermittents. Ils sont bloqués par le système, oubliés, et pourtant ils réapparaissent. Cette répétition peut être considérée comme l’essence de cette scène.
 
 Les futurs groupes de filles pourraient s’appuyer sur le passé et porter des noms différents. Cependant, tant que les femmes continueront à faire de la musique sous forme de groupes, cette histoire continuera à s’actualiser.
 
@@ -159,7 +159,7 @@ Au cours de l'ère du rock alternatif des années 1990, les groupes de filles so
 
 ## Expansion régionale : singularité européenne
 
-La scène européenne des girl bands a un contexte culturel différent de celui des États-Unis. En Grande-Bretagne, la société de classes et la culture de la jeunesse étaient étroitement liées, et le fait que les femmes formaient un groupe était une expression de leur position sociale.
+La scène européenne des girl bands a un bagage culturel différent de celui des États-Unis. En Grande-Bretagne, la société de classes et la culture de la jeunesse étaient étroitement liées, et le fait que les femmes formaient un groupe était une expression de leur position sociale.
 
 L'ère post-punk de la fin des années 1970 et des années 1980 a vu une augmentation du nombre de groupes basés dans les écoles d'art et les réseaux scolaires, combinant expérimentation musicale et conscience politique. Dans ce contexte, les groupes féminins sont devenus une présence qui a joué un rôle dans l’avant-garde musicale et la critique sociale.
 
@@ -207,7 +207,7 @@ L’histoire des girls bands est également étroitement liée aux changements d
 
 L'éducation et la communauté étaient essentielles à l'augmentation des groupes de filles. La promotion de l'éducation musicale, des ateliers et des événements réservés aux femmes ont créé de nouveaux participants.
 
-Surtout depuis les années 1990, les réseaux entre femmes ont favorisé le partage de connaissances et d’expériences et soutenu la formation d’une scène durable.
+Depuis les années 1990 notamment, les réseaux de femmes ont favorisé le partage de connaissances et d’expériences et soutenu la formation d’une scène durable.
 
 > La communauté est un dispositif qui permet à l'histoire de continuer.
 

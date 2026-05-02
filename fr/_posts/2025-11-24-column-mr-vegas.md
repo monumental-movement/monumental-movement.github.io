@@ -40,7 +40,7 @@ color: #fff;
 ## Chapitre 1 : Début de carrière et début de carrière
 
 ### 1.1 Enfance et origine du surnom
-- **Vrai nom/Naissance**
+- **Vrai nom/naissance**
 Le vrai nom de M. Vegas est **Clifford Smith**. Né le 29 septembre 1974 à Kingston, Jamaïque.
 - **Pseudo "M. Vegas"**
 Enfant, elle jouait au football en short rose à l'école et ses camarades de classe la comparaient à une « fille de Vegas ». Le surnom de « Mr.Vegas » a été adopté comme nom de scène.
@@ -175,7 +175,7 @@ Signature d'un contrat avec un label à Los Angeles et sortie de l'album « Pull
 
 M. Vegas est un musicien dont le travail est un mélange complexe de la culture du sound system de Kingston, des luttes de la jeunesse, de la foi, de la responsabilité sociale et d'une vision de l'avenir.
 
-Ses chansons phares « Nike Air » et « Heads High » symbolisent le point de départ de sa carrière, tandis que « Kokane » présente un avertissement de tentation et de danger. Son dernier album, « Ghetto Reggae », combine un hommage à l'époque et au lieu où il a grandi avec un message contemporain.
+Ses chansons phares « Nike Air » et « Heads High » symbolisent le point de départ de sa carrière, tandis que « Kokane » présente un avertissement de tentation et de danger. Son dernier album, « Ghetto Reggae », combine un message moderne avec le respect de l'époque et du lieu dans lesquels il a grandi.
 
 Passionné par l'éducation, les commentaires sociaux et la préservation de la culture, il est non seulement musicien, mais également porteur, messager et leader culturel.
 

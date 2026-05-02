@@ -48,7 +48,7 @@ color: #fff;
 
 ## Le lien entre la radio de fin de soirée et la culture urbaine
 
-La radio FM des années 1970 se trouvait à un tournant majeur en termes de qualité sonore et de programmation. Par rapport à l'époque où la AM était la norme, la FM avait moins de bruit et était capable de fournir toute la gamme, des graves aux aigus. Ces conditions techniques ont fait du choix de jouer du R&B lent et délicat la nuit une option viable.
+La radio FM des années 1970 se trouvait à un tournant majeur en termes de qualité sonore et de programmation. Par rapport à l’époque où la AM était la norme, la FM avait moins de bruit et était capable de fournir toute la gamme, des graves aux aigus. Ces conditions techniques ont fait du choix de jouer du R&B lent et délicat la nuit une option viable.
 
 L’atmosphère dans le studio tard dans la nuit était complètement différente de celle du jour. Les lumières étaient tamisées et le DJ était assis seul dans la cabine, face au micro tout en regardant les lumières de la ville à travers la vitre. Quelques disques sont sélectionnés à l'avance et placés à côté de la platine, mais le déroulement n'est pas lié à un scénario strict. Comme les réponses des auditeurs ne peuvent être reçues que par téléphone ou par courrier, les DJ finissent par s'adresser à des auditeurs imaginaires.
 
@@ -72,7 +72,7 @@ L'enregistrement vocal est également distinctif. Les chanteurs se tiennent souv
 
 ## Artistes et œuvres représentatifs
 
-Les artistes évoqués dans le cadre de Quiet Storm avaient un fort intérêt pour la création sonore en studio. Le travail solo de Smokey Robinson s'est éloigné de la structure de production collective de l'ère Motown et s'est concentré sur des enregistrements émotionnels individuels. Le nombre de morceaux est limité et la composition est choisie pour que chaque son perdure longtemps.
+Les artistes évoqués dans le cadre de Quiet Storm avaient un fort intérêt pour la création sonore en studio. Le travail solo de Smokey Robinson s'est éloigné de la structure de production collective de l'ère Motown et s'est concentré sur des enregistrements émotionnels individuels. Le nombre de pistes est limité et la composition est choisie pour que chaque son perdure longtemps.
 
 Luther Vandross a été particulièrement influent dans le placement des chants de fond. Dans ses œuvres, le refrain overdubbed ajoute de la profondeur, tandis que la mélodie principale ressort toujours clairement. On dit que l’angle de la voix et la quantité de respiration ont été finement ajustés grâce à plusieurs prises en studio.
 
@@ -88,7 +88,7 @@ Dans les années 1980, l’environnement du studio est rapidement devenu numéri
 
 Du côté des radios, les formats de programmes sont désormais clairement définis et les listes de sélection de chansons sont partagées. Même si les DJ disposaient encore d'un certain degré de discrétion, les normes de tempo et d'ambiance sont devenues plus strictes et la cohérence du R&B nocturne a été mise en avant. Cela vous permet de vivre une expérience similaire quelle que soit la ville dans laquelle vous vous trouvez.
 
-D’un autre côté, une sophistication excessive suscite également des critiques. Il a été souligné qu'il existait un risque que le message social et le caractère improvisé disparaissent et que la musique devienne une musique de fond. Pourtant, pour les auditeurs de fin de soirée, une expérience musicale stable avait une valeur irremplaçable.
+D’un autre côté, une sophistication excessive suscite également des critiques. Il a été souligné qu'il existait un risque que le message social et le caractère improvisé s'effacent et que la musique devienne une musique de fond. Pourtant, pour les auditeurs de fin de soirée, une expérience musicale stable avait une valeur irremplaçable.
 
 > Le conflit entre homogénéisation et sécurité a façonné Quiet Storm dans les années 1980.
 

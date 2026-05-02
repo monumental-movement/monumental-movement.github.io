@@ -9,12 +9,12 @@ permalink: /fr/various-superstar/
 tags:
 - Reggae
 - Dancehall
-title: Divers – Superstar
+title: Various – Superstar
 ---
 
 
-« Divers – Superstar » est
-Il s'agit d'un album de compilation publié par le label jamaïcain "Rookie Production".
+「Various – Superstar」は、
+ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 
 #### Liste des chansons
 ```md

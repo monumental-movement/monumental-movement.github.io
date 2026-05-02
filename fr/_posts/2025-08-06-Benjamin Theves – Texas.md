@@ -11,15 +11,15 @@ tags:
 - Electro
 - Disco
 - 00s
-title: Benjamin Théves – Texas
+title: Benjamin Theves – Texas
 ---
 
 
-Benjamin Theves est un artiste/producteur électronique français.
+Benjamin Thevesは、フランス出身のエレクトロニック・アーティスト／プロデューサー。
 
-"Texas" est un chef-d'œuvre du milieu des années 2000 qui a été largement joué lors de soirées à travers le monde et est connu comme le premier et le chef-d'œuvre de Benjamin Theves.
+「Texas」は、世界中のパーティーでヘヴィプレイされた00年代中期の名作で、Benjamin Thevesのデビュー作&代表作として知られている。
 
-"Texas" est sorti en 2005 en tant que premier album sur le label Roxour de Patrick Alavi. La face B est une version remixée de Patrick Alavi connue sous le nom de "ReroX". Le style de Patrick Alavi est un mélange de Funk/House/électronique.
+「Texas」は、2005年にPatrick Alavi 主宰のレーベルRoxourの第一弾としてリリースされた。B面は、『ReroX 』として知られるPatrick Alavi のremix版。Patrick Alavi は、Funk／House／electronicをmixしたスタイルが特徴。
 
 
 #### Liste des chansons

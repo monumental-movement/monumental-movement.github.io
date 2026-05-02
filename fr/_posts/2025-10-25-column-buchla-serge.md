@@ -19,7 +19,7 @@ title: '[Chronique] Buchla et Serge : Une autre généalogie de l''acoustique é
 ## « Introduction – Qu'est-ce que le modulaire ? »
 
 
-Texte : mmr | Thème : L'histoire spirituelle des synthés modulaires de la côte Ouest. Comment les idées de Don Buchler et Serge Tocheny ont été transposées dans la conception sonore d'aujourd'hui
+Texte : mmr | Thème : Histoire spirituelle des synthés modulaires de la côte Ouest. Comment les idées de Don Buchler et Serge Tocheny ont été transposées dans la conception sonore d'aujourd'hui
 
 Début des années 1970, côte ouest américaine.
 Il y a des gens qui ont quitté le studio de musique électronique de leur université et ont essayé de réintégrer **un appareil de conception sonore** dans leurs espaces de création personnels.

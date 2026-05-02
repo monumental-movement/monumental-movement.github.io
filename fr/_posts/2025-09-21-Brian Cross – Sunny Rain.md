@@ -10,17 +10,17 @@ tags:
 - House
 - Electro
 - 00s
-title: Brian Cross – Pluie ensoleillée
+title: Brian Cross – Sunny Rain
 ---
 
 
-Brian Cross (Brian Fortuny Cruz) est un DJ/producteur espagnol.
+Brian Cross (Brian Fortuny Cruz)は、スペインのDJ／プロデューサー。
 
-Ce disque est House/Electro, sorti en 2008 par le label dance/house italien Net's Work International. (édition promotionnelle)
+このレコードは、イタリアのダンス/ハウスレーベルNet's Work Internationalから2008年にリリースされたHouse／Electro。(プロモ盤)
 
-A1 est un remix de Robbie Rivera, responsable du label Juicy Music de Miami.
+A1は、マイアミのレーベルJuicy Musicの主宰Robbie Riveraによるremix。
 
-B1 est un remix du DJ/producteur suédois StoneBridge (Sten Hallström), connu pour ses remix nominés aux Grammy Awards de "Show Me Love" de Robin S (1993) et "Closer" de Ne-Yo (2008).
+B1は、 Robin S「Show Me Love」(1993)のリミックスやNe-Yo「Closer」(2008)のリミックスでグラミー賞にノミネートされた事で知られる、スウェーデン出身のDJ／プロデューサーStoneBridge(Sten Hallström)によるremix。
 
 #### Liste des chansons
 ```md

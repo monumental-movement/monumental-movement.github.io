@@ -132,7 +132,7 @@ Les atouts du Japon incluent notamment « la précision du son », la « capacit
 Au Japon, il s'est répandu dans les rues et lors d'événements depuis le milieu des années 2000, et les techniques sont partagées entre artistes à travers des séances d'entraînement et de participation à des compétitions.
 
 ## ◆ 2. Forte orientation technique
-Les joueurs japonais sont forts en termes de précision sonore et d'attention aux détails, et sont très appréciés même par les joueurs étrangers.
+Les joueurs japonais sont forts en termes de précision sonore et d'attention aux détails, et sont loués même par les joueurs étrangers.
 
 ## ◆ 3. Fusion avec la culture de la vidéo et du montage
 Principalement sur YouTube et SNS,
@@ -173,7 +173,7 @@ Il a contribué à rehausser le profil des joueurs de Loopstation au Japon et a 
 
 ### ● Technique précise
 RUSY est connu pour ses rythmes très précis et ses techniques de combinaison fluides, et a reçu des éloges principalement lors de tournois nationaux au Japon.
-Les fonctionnalités incluent :
+Les caractéristiques sont :
 
 - rainure serrée
 - Prononciation claire et dense
@@ -198,7 +198,7 @@ C'est dans cette partie.
 ### ● Le style de Koey
 - Acuité pour le combat
 - Aménagement qui profite de la pression acoustique
-- Intégrer une technologie détaillée dans les points clés
+- Intégration d'une technologie détaillée dans les points clés
 
 Parmi les joueurs japonais récents, c'est un joueur avec un ton qui se démarque lors des performances live.
 
@@ -243,7 +243,7 @@ timeline
 ## ◆ 1. La frontière entre la production musicale est floue
 Avec le développement de Loopstation, le beatboxing
 **"Version en temps réel de la production musicale"**
-Vers un territoire que l'on peut appeler
+Vers un espace que l'on peut appeler
 
 ## ◆ 2. Combinaison avec la culture visuelle
 Les « vitrines vidéo » se multiplient dans les compétitions du monde entier.
@@ -264,7 +264,7 @@ On peut s’attendre à ce qu’il continue à être actif à la fois dans Loops
 
 # Conclusion - Le Human Beatbox en tant que culture
 
-Human Beatbox est une culture expressive moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
+Human Beatbox est une culture d’expression moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
 Maintenant que la culture de la compétition mûrit, que la technologie évolue et que des artistes japonais émergent, le beatboxing subit des changements majeurs et le beatboxing devient plus qu'une simple technique, il devient un genre musical international.
 
 J'espère que cet article vous aidera à comprendre l'histoire et l'avenir du beatboxing.

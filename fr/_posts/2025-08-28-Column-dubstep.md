@@ -38,7 +38,7 @@ Le dubstep est soutenu par la pression physique des sons de basse, à tel point 
 
 - **Tempo** : BPM environ 138-142.
 
-- **Rythme** : structure de battement brisé dérivée du 2-step. Le coup de pied n'est pas un temps à quatre temps, mais la caisse claire est accentuée sur le troisième temps.
+- **Rythme** : Structure de battement brisé dérivée du 2-step. Le coup de pied n'est pas un temps à quatre temps, mais la caisse claire est accentuée sur le troisième temps.
 
 - **Bass** : Caractérisé par des sous-basses profondes, une ligne de basse déformée et ce qu'on appelle "Wobble Bass".
 
@@ -84,7 +84,7 @@ Une culture dubstep typiquement japonaise s'est formée grâce à des événemen
 
 ### Influence culturelle du dubstep
 
-- **Pénétration dans la scène EDM** : Connecté à la culture du festival et devenir une présence qui résonne sur la scène principale.
+- **Pénétration dans la scène EDM** : Connecté à la culture des festivals et devenir une présence qui résonne sur la scène principale.
 
 - **Réévaluation de la bass music** : A considérablement influencé le développement de genres ultérieurs tels que la trap et la future bass.
 

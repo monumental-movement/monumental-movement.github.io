@@ -141,7 +141,7 @@ Cette structure s'est répétée à plusieurs reprises au cours de l'histoire.
 
 | Âge | Genres musicaux | Contexte social |
 | ----- | ------ | ------ |
-| années 1960 | Folklorique | Mouvement des droits civiques |
+| années 1960 | Folklorique | Mouvement des Droits Civiques |
 | années 1970 | Punk | Anxiété économique |
 | années 1980 | Hip-Hop | Culture urbaine |
 | années 1990 | Grunge | Sentiment d'aliénation chez les jeunes |

@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Musique caribéenne à la croisée de la domination colon
 
 Les Caraïbes sont bien plus qu’une simple zone géographique. Il s’agit d’un espace historiquement comprimé dans lequel la domination coloniale des puissances européennes, la déportation forcée d’Afrique, la rupture de la culture autochtone et le mélange post-libération se chevauchent en même temps. Dans cet environnement, la musique servait plus qu’un simple divertissement. Pour les personnes privées de langue et dont la voix politique était restreinte, les chansons étaient un dépositaire de la mémoire, un moyen de critique sociale et un moyen de réorganiser les communautés.
 
-Calypso et soca sont ses réalisations les plus emblématiques. Bien que les deux soient souvent consommés comme musique de danse, ils sont empreints de résistance à la domination coloniale, d’humour ouvrier et de tension entre urbanisation et célébration. Il ne suffit pas de distinguer simplement que le calypso est une musique parlée et la soca est une musique du corps. Les deux branches proviennent de la même racine et sont le résultat de la réponse aux exigences de différentes époques.
+Calypso and soca are its most iconic achievements. Bien que les deux soient souvent consommés comme musique de danse, ils sont empreints de résistance à la domination coloniale, d’humour ouvrier et de tension entre urbanisation et célébration. It is not enough to simply distinguish that calypso is spoken music and soca is music of the body. Both branches stem from the same root and are the result of responding to the demands of different times.
 
 > La musique caribéenne est un lieu où l'histoire elle-même continue de jouer son rythme.
 
@@ -58,7 +58,7 @@ Les origines du Calypso remontent aux XVIIIe et XIXe siècles sur l'île de Trin
 
 ## L'inséparabilité du carnaval et de la musique
 
-Le Carnaval de Trinidad est un dispositif culturel dont la musique refuse d'être comprise de manière isolée. Après l’émancipation des esclaves, le carnaval a fonctionné comme un lieu où l’expression physique et le bruit qui avaient été supprimés étaient rendus publics. Costumes, marches, percussions et chants s'assemblent pour transformer l'espace urbain lui-même en scène.
+Le Carnaval de Trinidad est un dispositif culturel dont la musique refuse d'être comprise de manière isolée. Après l’émancipation des esclaves, le carnaval a fonctionné comme un lieu où l’expression physique et le bruit qui avaient été supprimés étaient rendus publics. Costumes, cortèges, percussions et chants s'assemblent pour transformer l'espace urbain lui-même en scène.
 
 Calypso est produit et interprété de manière intensive depuis la période de préparation jusqu'au carnaval proprement dit, et les chansons sont complétées par la danse. Le public n'était pas des consommateurs passifs, mais des participants à la musique en chantant et en scandant. Cette interaction a fait de l’évaluation de la musique plus qu’un simple enregistrement.
 
@@ -72,7 +72,7 @@ Les steelpans sont apparus au début du 20e siècle et leurs caractéristiques a
 
 Dans la première moitié du XXe siècle, la technologie d’enregistrement et la radiodiffusion ont fait sortir le calypso de ses frontières. Les enregistrements aux États-Unis et en Angleterre imposaient certaines restrictions sur la durée des performances, la qualité sonore et le contenu des paroles, mais en retour, ils gagnaient un public international. En conséquence, les expressions obscènes et les critiques politiques sont supprimées et les thèmes plus génériques se multiplient.
 
-Au cours de ce processus, le calypso est devenu de plus en plus consommé comme musique exotique et tropicale. Mais en même temps, une expression plus radicale et directe est maintenue sur l’île, formant une double structure. La division entre les formes étrangères et nationales, enregistrées et vivantes, et les formes officielles et non officielles de soca ont influencé plus tard la naissance de la soca.
+Au cours de ce processus, le calypso est devenu de plus en plus consommé comme musique exotique et tropicale. Mais en même temps, une expression plus radicale et directe est maintenue sur l’île, formant une double structure. La division entre l'étranger et le national, l'enregistrement et les performances live, et la musique officielle et non officielle influencera plus tard la naissance de la soca.
 
 >Si la modernisation a élargi le calypso, elle a également servi à tester son acuité.
 
@@ -80,7 +80,7 @@ Au cours de ce processus, le calypso est devenu de plus en plus consommé comme 
 
 ## Contexte de la naissance de la soca
 
-Dans les années 1970, la société trinidadienne connaît des changements majeurs. Le nombre croissant de jeunes, l'afflux de musique disco et funk ainsi que la diffusion des instruments électriques et de la technologie des studios imposent de nouvelles exigences au calypso traditionnel. Les chansons, centrées sur les paroles et ayant un tempo modéré, ont progressivement commencé à paraître insatisfaisantes lors des festivals.
+Dans les années 1970, la société trinidadienne connaît des changements majeurs. Le nombre croissant de jeunes, l'afflux de musique disco et funk ainsi que la diffusion des instruments électriques et de la technologie de studio imposent de nouvelles exigences au calypso traditionnel. Les chansons, centrées sur les paroles et ayant un tempo modéré, ont progressivement commencé à paraître insatisfaisantes lors des festivals.
 
 La Soca est née dans ce contexte. On dit que le nom est un mot inventé combinant soul et calypso, et la musique a en fait conservé la structure du calypso, mais a mis le rythme au premier plan et a renforcé la basse et la batterie. Les paroles deviennent plus simples, les répétitions et les chants augmentent et l’élévation physique prime.
 

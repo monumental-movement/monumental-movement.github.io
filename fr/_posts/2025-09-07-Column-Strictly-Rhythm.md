@@ -19,7 +19,7 @@ title: '[Chronique] Strictly Rhythm — De ses origines à nos jours : contexte
 ## Pourquoi Strictly Rhythm était spécial
 
 
-Texte : mmr｜Thème : De la création du légendaire label house new-yorkais **Strictly Rhythm** à nos jours, organisé par époque du point de vue du contexte historique, des chefs-d'œuvre représentatifs et des tendances des équipements de production de l'époque.
+Texte : mmr｜Thème : De la création du légendaire label maison new-yorkais **Strictly Rhythm** à nos jours, organisé par époque du point de vue du contexte historique, des chefs-d'œuvre représentatifs et des tendances des équipements de production de l'époque.
 
 
 Strictly Rhythm (communément appelé Strictly) est un label spécialisé house fondé à New York en 1989. Avec leur sens A&R aiguisé dans la rue et leur sélection de chansons orientée club, ils ont dominé la scène house des années 90 à New York et dans le monde. Le label excellait dans la découverte et le développement de DJ/producteurs tout en trouvant un équilibre entre les « sons » underground et les succès commerciaux.
@@ -61,7 +61,7 @@ De nombreuses productions utilisaient des platines vinyles et des échantillonne
 | 3 | Disque dur | Au plus profond de moi | Une chanson deep house classique avec une mélodie émouvante. |
 | 4 | Georges Morel | Groovons | House des débuts de New York avec un groove minimaliste mais exceptionnel. |
 | 5 | Maîtres au travail | La danse Ha | Une œuvre qui met l'accent sur les éléments percussifs de la house. |
-| 6 | Kenny Dope | L'EP Bucketheads | Utilisation impressionnante d’échantillons et de rythmes innovants. |
+| 6 | Kenny Dope | L'EP Bucketheads | Utilisation impressionnante d'échantillons et de rythmes innovants. |
 | 7 | Le réseau souterrain | Tout va bien | Un hit club avec un équilibre parfait entre mélodie et rythme. |
 | 8 | Groove Armada | La musique house ne mourra jamais | Hommage à House, influençant les versions ultérieures. |
 | 9 | Logique | L'avertissement (Juan Atkins Remix) | Une fusion rafraîchissante d'approche techno et de house. |
@@ -104,7 +104,7 @@ De nombreuses productions utilisaient des platines vinyles et des échantillonne
 
 ## 1998-2002 : Expansion, confusion et fermeture
 
-**Contexte** : Le pic du boom et l'intensification de la concurrence sur le marché. Alors que la marque cherche une stratégie globale, ses liens capitalistiques avec de grandes entreprises font sensation.
+**Contexte** : Le pic du boom et l'intensification de la concurrence sur le marché. Alors que la griffe cherche une stratégie globale, ses liens capitalistiques avec de grandes entreprises font sensation.
 
 **Événement** : Après un partenariat avec Warner, l'activité a été temporairement suspendue en 2002.
 
@@ -173,11 +173,11 @@ La marque/catalogue est toujours active et est utilisée comme « atout » pour 
 
 | Non | Artiste | Piste | Commentaires |
 |---|---|---|---|
-| 1 | Rois de demain | Enfin (Remasterisé 2014) | Deep house traditionnelle remasterisée, qualité sonore douce. |
+| 1 | Rois de demain | Enfin (Remasterisé 2014) | Deep house traditionnelle remasterisée avec une qualité sonore fluide. |
 | 2 | Denis Ferrer | Maniaque 3000 | Présente un rythme house moderne et sophistiqué. |
 | 3 | Quentin Harris | Ma joie (réédition) | Deep house rééditée pour les clubs. |
 | 4 | Barbara Tucker | Pensez (à ce sujet) 2015 Mix | Une réinterprétation de la house vocale, pleine d'émotion. |
-| 5 | Miel de Dijon | Houze Muzik (sortie stricte) | A la pointe de la house moderne, avec un accent sur le groove. |
+| 5 | Miel de Dijon | Houze Muzik (sortie stricte) | À la pointe de la house moderne, avec un accent sur le groove. |
 | 6 | Louie Véga | Rituel de danse (2016) | Deep house aux saveurs latines. |
 | 7 | DJ Spen | L'esprit de la maison | Une version moderne de l'essence de la maison traditionnelle. |
 | 8 | David Penn | Escroc fils | Un air de club avec un groove et une mélodie douces. |

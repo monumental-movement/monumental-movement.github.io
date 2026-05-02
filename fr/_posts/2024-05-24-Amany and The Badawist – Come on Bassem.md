@@ -11,18 +11,18 @@ tags:
 - Egypt
 - African
 - Lebanon
-title: Amany & The Badawist – Allez, Bassem
+title: Amany & The Badawist – Come on, Bassem
 ---
 
 
-"Allez, Bassem" est une cassette publiée par le label libanais Badawist Phone.
-Angel Nabil Ayyoub, également connu sous le nom d'Amany, est un danseur et chorégraphe libanais.
+「Come on, Bassem」は、レバノンのレーベルBadawist Phoneからリリースされたカセットテープ。
+Amany（アマニ）ことAngel Nabil Ayyoubは、レバノン出身のダンサー兼振付師。
 
-Producteur – Nazih Dia
+プロデューサー – Nazih Dia
 
-Voix – Maan Al-Amir
+ヴォーカル– Maan Al-Amir
 
-Arrangement - Bassem Yazbek
+アレンジーBassem Yazbek
 
 #### Liste des chansons
 ```md

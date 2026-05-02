@@ -10,11 +10,11 @@ tags:
 - Disco
 - Garage
 - 00s
-title: Sugababes – Son de l’âme
+title: Sugababes – Soul Sound
 ---
 
 
-La première face B de l'EP « Soul Sound » de Sugar Babes est un remix de Dave Lee, alias Joey Negro, un DJ et producteur de house music britannique également connu sous les noms de Jakatta, Doug Willis, Raven Maize et Sessomatto.
+シュガーベイブスによるEP 「ソウルサウンド」のB面１曲目は、Jakatta、Doug Willis、Raven Maize、Sessomatto名義でも知られる、UKのDJ・ハウスミュージックプロデューサJoey NegroことDave Leeによるremix。
 
 #### Liste des chansons
 ```md

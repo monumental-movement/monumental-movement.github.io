@@ -127,7 +127,7 @@ Un ouvrage qui critique directement l'apartheid.
 ## 4. Actualités et réactions en Afrique du Sud à l'époque
 
 - En 1986, la tournée internationale d'Alpha Blondy attire l'attention et les images de leur concert à Johannesburg se répandent clandestinement dans les communautés non blanches.
-- Les médias sud-africains ont attribué au concert une mauvaise note pour l'establishment blanc, mais la communauté noire l'a accueilli comme un "symbole d'espoir".
+- Les médias nationaux sud-africains ont attribué au concert une mauvaise note pour l'establishment blanc, mais la communauté noire l'a accueilli comme un "symbole d'espoir".
 - Article d'un journal local (traduit à l'époque) : "Un chanteur du continent africain a chanté notre désir de liberté. Nous sommes encouragés par sa musique."
 
 ---

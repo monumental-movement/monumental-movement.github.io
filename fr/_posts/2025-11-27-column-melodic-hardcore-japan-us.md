@@ -89,7 +89,7 @@ flowchart TD
 - Avec le succès de « Dookie » de Green Day (1994) et de « Smash » de The Offspring (1994), Melocore a acquis une reconnaissance commerciale.
 - Distribution internationale de Fat Wreck Chords, un label indépendant d'Epitaph Records
 - Analyse des albums :
-- Green Day « Dookie » : Mélodie, conserve l'énergie punk
+- Green Day « Dookie » : axé sur la mélodie, conserve l'énergie punk
 - NOFX « Punk in Drublic » : Satire sociale, équilibre entre mélodie et vitesse
 
 ### 2.3 Culture live américaine Melocore

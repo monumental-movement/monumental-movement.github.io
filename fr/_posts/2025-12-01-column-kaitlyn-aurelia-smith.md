@@ -19,9 +19,9 @@ title: '[Chronique] Kaitlyn Aurelia Smith — Les échos de la « vie électriqu
 
 Texte : mmr｜Thème : À propos de son éducation et de son parcours, des changements dans son travail et son son, et de la « philosophie du son » à travers Buchla
 
-Dans le monde de la musique électronique et des synthés modulaires, les synthés sont souvent traités comme des symboles de « machines ». Pourtant, son son bouleverse ces a priori. Le son est chaud et riche, comme si « vous pouviez sentir un être vivant ou un souffle organique au plus profond des câbles et des boutons d'un synthétiseur modulaire ».
+Dans le monde de la musique électronique et des synthés modulaires, les synthés sont souvent traités comme des symboles de « machines ». Pourtant, son son bouleverse ces a priori. Le son est chaud et riche, comme si « vous pouviez sentir un être vivant ou une respiration organique au plus profond des câbles et des boutons d'un synthétiseur modulaire ».
 
-En choisissant du matériel vintage ou modulaire, notamment du matériel modulaire de style Buchla, elle crée un écosystème sonore par « accidentalité », « instabilité », « manuelité », ou « vibrations électriques et résonance avec le corps », plutôt que de simples sons de synthèse.
+En choisissant du matériel vintage ou modulaire, notamment du matériel modulaire de style Buchla, elle crée un écosystème sonore par « accidentalité », « instabilité », « manuelité », ou encore « vibrations électriques et résonance avec le corps », plutôt que de simples sons de synthèse.
 
 En mêlant soigneusement les voix, les instruments live, les enregistrements sur le terrain, la nature et la physicalité, il élève le modulaire d'une « machine froide » à un « vaisseau sonore vivant ». Les amateurs de synthés modulaires et de style Buchla seront fortement attirés par cette attitude.
 
@@ -50,7 +50,7 @@ Sa ville natale est Orcas Island, dans l'État de Washington, au nord-ouest des 
 
 La brise de l'île, le bruissement du vent dans les arbres, le chant des oiseaux, les ondulations de l'eau... ces sensations naturelles et ces sons environnementaux ont été inculqués dans ses oreilles et son corps au fur et à mesure qu'elle grandissait.
 
-Parallèlement, il est exposé dès son plus jeune âge aux instruments traditionnels tels que le piano et la guitare et s'essaye à la composition musicale, développant ainsi son sens de la hauteur et de la musique. Cet environnement de « nature x instruments traditionnels x apprentissage indépendant » est devenu la base du passage ultérieur au module.
+Parallèlement, il est exposé dès son plus jeune âge aux instruments traditionnels tels que le piano et la guitare et s'essaye à la composition musicale, développant ainsi son sens de la tonalité et de la musique. Cet environnement de « nature x instruments traditionnels x apprentissage indépendant » est devenu la base du passage ultérieur au module.
 
 Ces expériences lui ont fourni les axes du « naturel », de la « spatialité » et de la « physicalité » alors qu'elle s'est ensuite tournée vers la musique électronique/modulaire.
 
@@ -62,7 +62,7 @@ En grandissant, elle a étudié la composition et la théorie du son dans un ét
 
 Cependant, après avoir quitté le cadre de ses années d'étudiant et être retourné dans sa ville natale, un changement inattendu se produit : il rencontre une Buchla 100 que lui a prêtée un voisin. Lorsqu'elle a acheté pour la première fois un synthétiseur modulaire, elle ne l'a pas vu comme un « outil fragile », mais comme une « co-star », « un être vivant » et « un corps électrique ».
 
-L'instabilité de Buchla, les patchs manuels et les changements sonores imprévisibles - à travers une telle contingence et instabilité, elle choisit de faire ressortir le « son vivant », la « vibration », « l'espace » et la « physique » du synthé.
+L'instabilité, le patch manuel et les changements sonores imprévisibles de Buchla - à travers une telle contingence et instabilité, elle choisit de faire ressortir le « son vivant », la « vibration », « l'espace » et la « physique » du synthé.
 
 Cette transformation est à la base de toutes ses œuvres ultérieures.
 
@@ -125,7 +125,7 @@ En mélangeant les formes d'onde électroniques de Buchla avec le bruissement de
 L'instabilité de Buchla, la nature manuelle des correctifs, les écarts et fluctuations incontrôlables - tout cela n'est pas accueilli comme des « défauts », mais plutôt comme des « marges créatives », des « changements chimiques inattendus » et des « coïncidences sonores ».
 
 - **Sensation corporelle et expérience vibratoire**
-Plutôt que de considérer le son comme quelque chose que vous entendez avec vos oreilles, nous le considérons comme quelque chose que vous ressentez avec votre corps et que vous ressentez sous forme de vibrations. Voix, respiration, mouvement, vibration : en les reliant aux vibrations électriques du synthétiseur, la musique se développe en une perception qui utilise non seulement le sens auditif mais aussi le corps tout entier.
+Plutôt que de considérer le son comme quelque chose que vous entendez avec vos oreilles, nous le considérons comme quelque chose que vous ressentez avec votre corps et que vous ressentez sous forme de vibrations. Voix, respiration, mouvement, vibration : en les reliant aux vibrations électriques du synthétiseur, la musique est élargie en une perception qui utilise non seulement le sens auditif mais aussi le corps tout entier.
 
 - **Plusieurs couches de temporalité, de spatialité et de mémoire**
 Les drones, les ondulations, les pads et les enregistrements sur le terrain prolongent le temps, épaississent l'espace et créent des souvenirs, des émotions et des liens avec la nature dans le son.
@@ -170,7 +170,7 @@ Ainsi, son son n'a pas évolué de manière linéaire, mais a continué à s'él
 
 ---
 
-## Conclusion — Message à ceux qui aiment Buchla
+## Clôture — Un message à ceux qui aiment Buchla
 
 Le parcours de Kaitlyn Aurelia Smith n'a jamais été une expérience technique ou une démonstration de compétences. Son objectif est de créer un « monde de sensations » riche et poétique qui entremêle « le corps, la nature, l'électricité, le temps et l'espace » à travers le « dispositif technique » d'un synthétiseur modulaire.
 

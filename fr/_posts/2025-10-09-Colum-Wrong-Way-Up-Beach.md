@@ -11,21 +11,20 @@ tags:
 - Ambient
 - Film
 - Soundtrack
-title: '[Chronique] Wrong Way Up et « The Beach » – Réverbérations de l’utopie et
-  de l’autre côté de la civilisation'
+title: 【コラム】 Wrong Way Up と『The Beach』——ユートピアの残響と文明の裏面
 ---
 
 
-## Prologue : Ceux qui se dirigent vers le sud – le fantasme du « paradis » moderne
+## 序章：南へ向かう者たち — 現代の“楽園”幻想
 
-Texte : mmr | Thème : Explorer les sons de l'utopie et s'évader à travers "Wrong Way Up" et "The Beach" de Brian Eno et John Cale avec Leonardo DiCaprio
+文：mmr｜テーマ：Brian Eno & John Cale『Wrong Way Up』とレオナルド・ディカプリオ主演『The Beach』を通して、ユートピアと逃避のサウンドを探る
 
-À la fin des années 1990, le monde croyait encore au mot « paradis ». La fin de la guerre froide, la naissance d’Internet et les rêves de mondialisation.
-Cependant, des fissures apparaissaient déjà derrière ce rêve. **« Wrong Way Up » (1990)** de Brian Eno et John Cale et **« The Beach » (2000)** de Leonardo DiCaprio se situent aux extrémités opposées de ce gouffre.
+1990年代末、世界はまだ〈楽園〉という言葉を信じていた。冷戦の終焉、インターネットの胎動、グローバル化への夢。  
+だが、その夢の裏側にはすでに亀裂が走っていた。**Brian Eno & John Cale『Wrong Way Up』（1990）**と、**レオナルド・ディカプリオ主演『The Beach』（2000）**は、その亀裂の両端に立つ作品である。
 
-Les deux histoires parlent de se diriger vers le sud. Il dépeint la solitude et la désillusion qui se cachent dans la tentative de trouver le paradis au bout de l'évasion.
-"Wrong Way Up" oscille entre sons électroniques et mélodies et dévoile un "voyage intérieur". « The Beach » dépeint « l'effondrement d'une communauté » au cœur d'un paysage tropical.
-Le paradis n'est plus un lieu, mais une projection de l'esprit.
+どちらも「南」を目指す物語だ。逃避の果てに楽園を見出そうとし、そこに潜む孤独と幻滅を描く。  
+『Wrong Way Up』は電子音とメロディのあいだで揺れながら、“内なる旅”を展開する。『The Beach』はトロピカルな風景の奥で、“共同体の崩壊”を映し出す。  
+楽園はもはや場所ではなく、**心のプロジェクション**なのだ。
 
 ---
 
@@ -42,28 +41,28 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 : Le miracle de la collaboration : Eno et Cale, l'intersection de deux cerveaux
+## 第1章：コラボレーションの奇跡——EnoとCale、二つの脳の交差点
 
-Dans les années 1970, Eno quitte Roxy Music et devient un leader de la musique expérimentale.
-John Cale, quant à lui, a quitté l'influence du Velvet Underground et dérive entre classique et avant-garde.
-Tout au long des années 1980, les deux hommes se sentent éloignés l'un de l'autre, mais se rencontrent finalement dans un studio londonien en 1990.
+1970年代、EnoはRoxy Musicを脱退し、実験音楽の先導者となる。  
+一方のJohn CaleはVelvet Undergroundの影響力を離れ、クラシックとアヴァンギャルドの間を漂っていた。  
+二人は80年代を通して互いの軌跡を遠くに感じながら、1990年、ロンドンのスタジオでついに交わる。
 
-Wrong Way Up est un album qui combine parfaitement la pensée sonore ambiante d'Eno avec le drame architectural de Cale.
-Pendant l'enregistrement, les deux se sont souvent affrontés. L'idée d'Eno de « se raser » et la nature de « construction » de Cale se sont affrontées de front.
-Mais cette tension donne vie au son. La sensation de flottement de "Spinning Away", le rythme superposé de "One Word" et l'anxiété transparente de "Empty Frame".
-Tout était le produit de « coopération et de friction ».
+『Wrong Way Up』は、Enoの環境音的思考とCaleの構築的ドラマが絶妙に融合したアルバムだ。  
+録音中、二人はしばしば衝突した。Enoの“削ぎ落とす”発想と、Caleの“積み上げる”性質が真っ向からぶつかったのだ。  
+だが、その緊張が音に生命を吹き込む。「Spinning Away」の浮遊感、「One Word」の重層的リズム、「Empty Frame」の透明な不安。  
+すべてが“協調と摩擦”の産物だった。
 
-> "On ne collabore pas pour se mettre d'accord. On collabore pour *découvrir*." —Brian Eno
+> “You don’t collaborate to agree. You collaborate to *discover*.” — Brian Eno
 
 ---
 
-## Chapitre 2 : « Un autre voyage » intitulé « Mauvais chemin vers le haut »
+## 第2章：『Wrong Way Up』という“もう一つの旅”
 
-Le titre « Wrong Way Up » a un double sens.
-C'est un sentiment d'inconfort dans un « monde à l'envers » et en même temps, c'est une allégorie d'un « esprit qui erre à mesure qu'il s'élève ».
+タイトルの「Wrong Way Up（間違った上昇）」には、二重の意味がある。  
+それは「逆さまの世界」への違和感であり、同時に「上昇しながらも迷走する心」の寓話でもある。  
 
-Sur le plan sonore, l'ambiance douce caractéristique d'Eno est imprégnée de l'intention mélodique de Cale.
-Par exemple, « Spinning Away » est un mélange parfait de sentiments flottants et de nostalgie. Les particules synthétiques scintillent comme des reflets à la surface de l'océan, et la voix de Cale évoque l'idée de « terre lointaine ».
+音響的には、Enoが得意とする滑らかなアンビエンスに、Caleの旋律的な意志が注入されている。  
+たとえば「Spinning Away」は、浮遊感と郷愁が絶妙に交錯する。シンセの粒子が海面の反射のようにきらめき、Caleの声が“遠ざかる陸地”を思わせる。 
 
 ---
 
@@ -71,28 +70,28 @@ Par exemple, « Spinning Away » est un mélange parfait de sentiments flottants
 
 ---
 
-> « Sur une colline, alors que le jour se dissout,
-> Avec mon crayon transformant les instants en lignes… »
+> “Up on a hill, as the day dissolves,  
+> With my pencil turning moments into line…”
 
-La mélodie est comme un « croquis de mémoire ».
-Cet album était un précurseur de la « pop environnementale » d'Eno à partir des années 1990, et a été hérité des sons de Coldplay et de Moby.
-La « fausse ascension » peut faire référence au chemin que nous empruntons et que nous croyons être le bon chemin.
+その旋律は、まるで〈記憶のスケッチ〉だ。  
+Enoが90年代以降展開する「環境的ポップ」の先駆として、このアルバムは後のColdplayやMobyのサウンドへと受け継がれていく。  
+「間違った上昇」とは、私たちが“正しいと思い込んで進む道”のことかもしれない。
 
 ---
 
-## Chapitre 3 : « La plage » – L'histoire de l'effondrement d'une utopie à l'ère numérique
+## 第3章：『The Beach』——デジタル時代のユートピア崩壊譚
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqDoxUxpobg?si=YFA4A7iZT9YZtY_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Le film « The Beach » de Danny Boyle, sorti en 2000, résume le « mythe de l'évasion » des jeunes de la fin du 20e siècle.
-Richard, joué par DiCaprio, obtient une carte de la légendaire « île cachée » dans un hôtel bon marché de Bangkok et se dirige vers le « paradis » avec ses amis.
-Cependant, ce qui les attend n’est pas le bonheur, mais la folie communautaire et l’effondrement individuel.
+2000年、ダニー・ボイルが描いた映画『The Beach』は、20世紀末の若者たちの“逃避神話”を集約する。  
+ディカプリオ演じるリチャードは、バンコクの安宿で伝説の“隠された島”の地図を手に入れ、仲間と共に“楽園”へ向かう。  
+だが、その先に待っているのは幸福ではなく、共同体の狂気と個人の崩壊だった。
 
-Le réalisateur Boyle dépeint le paysage tropical comme une « réalité éblouissante ».
+ボイル監督は、トロピカルな風景を“眩しすぎる現実”として描いた。  
 『The Beach』の音楽も印象的だ。[**All Saints「Pure Shores」**](https://amzn.to/432zg8k)の透明なコーラス、[**Moby「Porcelain」**](https://amzn.to/46KLDZ2)の静謐な電子音。  
-C'étaient des échos d'une « utopie électronique » qui était une extension de « Wrong Way Up ».
+それらは『Wrong Way Up』の延長線上にある、“電子的ユートピア”の残響だった。  
 
 ---
 
@@ -100,9 +99,9 @@ C'étaient des échos d'une « utopie électronique » qui était une extension 
 
 ---
 
-> "Le paradis n'est pas un endroit, c'est un état d'esprit." (extrait de « La plage »)
+> “Paradise is not a place — it’s a state of mind.”（『The Beach』より）
 
-A la fin du film, Richard perd ses amis et revient à la réalité.
+映画の終盤、リチャードは仲間を失い、現実に戻る。  
 Le « faible son électronique » qui joue à ce moment-là fait écho à la frontière entre la beauté et la perte, tout comme « Wrong Ascent » d'Eno & Cale.
 
 ---
@@ -134,7 +133,7 @@ Ici, le son et les images se chevauchent parfaitement, créant une « illusion d
 
 ---
 
-Où irons-nous au 21e siècle ?
+Où irons-nous au 21ème siècle ?
 À une époque où les médias sociaux connectent le monde et où l’IA joue un rôle dans l’imagination, l’expression **« Wrong Way Up »** semble encore plus réaliste.
 La « fausse ascension » est désormais une métaphore de la civilisation.
 

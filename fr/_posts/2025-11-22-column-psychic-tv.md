@@ -12,18 +12,17 @@ tags:
 - Art
 - 80s
 - 90s
-title: '[Chronique] Psychic TV : L''histoire complète d''un groupe multimédia qui
-  croise musique, rituel et idéologie'
+title: 【コラム】 Psychic TV：音楽と儀式、思想を横断したマルチメディア集団の全史
 ---
 
 
-## 1. Présentation
+## 1. Introduction
 
 
-Texte : mmr｜Thème : Histoire, philosophie, musicalité, activités live, rituels et influence sur les générations futures de Psychic TV depuis sa formation jusqu'à sa disparition
+文：mmr｜テーマ：Psychic TV の結成から終焉までの歴史、思想、音楽性、ライブ活動、儀式性、そして後世への影響について
 
 
-Formé en Angleterre en 1981, Psychic TV est plus qu'un simple groupe de musique ; c'est un collectif artistique complet qui intègre la musique, la vidéo, la performance et l'occultisme. Construits autour des idées et de la vision de Genesis Breyer P-Orridge, les efforts de Psychic TV sont restés à l'avant-garde de la contre-culture des années 1980 aux années 2000, fusionnant musique industrielle, psychédéliques, acid house, art de la performance et culture rituelle.
+1981年にイギリスで結成された Psychic TV は、単なる音楽バンドに留まらず、音楽、映像、パフォーマンス、オカルティズムを統合した総合的な芸術集団である。Genesis Breyer P‑Orridge を中心に、彼／彼女の思想とヴィジョンを軸として構築された Psychic TV の活動は、工業音楽、サイケデリック、アシッド・ハウス、パフォーマンスアート、儀式文化を融合させ、1980年代から2000年代にかけてカウンターカルチャーの最前線を走り続けた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -43,98 +42,98 @@ color: #fff;
 </style>
 
 
-### 2. Origine et contexte
+### 2. 起源と背景
 
-#### 2.1 Transmissions Genesis P‑Orridge et COUM
+#### 2.1 Genesis P‑Orridge と COUM Transmissions
 
-Genesis Breyer P‑Orridge (1950-2020) est l'une des figures les plus influentes de l'avant-garde britannique. Il s'implique dès son plus jeune âge dans des activités contre-culturelles et dirige dans les années 1970 un groupe de performance appelé COUM Transmissions. COUM développe un art de la performance influencé par le fluxisme, incorporant des thèmes provocateurs et politiques dans son art.
+Genesis Breyer P‑Orridge（1950–2020）は、イギリスの前衛芸術界において最も影響力のある人物の一人である。若年期から反文化的な活動に関わり、1970年代には COUM Transmissions というパフォーマンス集団を主導。COUM はフラックス主義に影響を受けたパフォーマンスアートを展開し、挑発的で政治的なテーマを芸術に取り入れた。
 
-Grâce à son travail avec COUM Transmissions, Genesis a développé un fort intérêt pour l'intégration des arts visuels, de la musique et de la performance, qui a jeté les bases de son travail ultérieur. Il a également formé Throbbing Gristle, qui est devenu internationalement reconnu comme pionnier de la musique industrielle.
+COUM Transmissions の活動を通じて、Genesis は視覚芸術、音楽、パフォーマンスの統合に強い関心を持つようになり、その後の活動の基盤を築く。彼はまた、Throbbing Gristle を結成し、産業音楽のパイオニアとして国際的に認知されることとなる。
 
-#### 2.2 Dissolution de Throbbing Gristle et formation de télévision psychique
+#### 2.2 Throbbing Gristle 解散と Psychic TV 結成
 
-Throbbing Gristle a été formé en 1976 et a choqué le monde de la musique à la fin des années 1970 avec sa musique noise, industrielle et ses performances live de style guérilla. Cependant, en 1981, le groupe se sépare. Peu de temps après, Genesis débute un nouveau projet musical et artistique avec Peter Christopherson et Alex Fergusson. C'est Psychic TV.
+Throbbing Gristle は 1976 年に結成され、ノイズ、工業音楽、ゲリラ的なライブパフォーマンスによって、1970年代末の音楽界に衝撃を与えた。しかし 1981 年、グループは一度解散。その直後、Genesis は Peter Christopherson および Alex Fergusson とともに新たな音楽・芸術プロジェクトを始動させる。それが Psychic TV である。
 
-Psychic TV a été conçu non seulement comme un groupe de musique, mais comme un « collectif multimédia » intégrant musique, vidéo, performance et occultisme, et avait dès le début une structure qui mettait l'accent sur l'expérimentation et la provocation.
-
----
-
-### 3. Premières années (1981-1985)
-
-#### 3.1 Composition des membres et premiers travaux
-
-La programmation initiale de Psychic TV était composée de Genesis P-Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
-
-La musique ancienne était caractérisée par une innovation qui transcendait les frontières traditionnelles des genres, combinant l'agressivité punk, la liberté psychédélique et le bruit expérimental.
-
-#### 3.2 Spectacles vivants et activités d'art vidéo
-
-Psychic TV a également innové dans sa performance live. De nombreuses performances en direct utilisaient du matériel vidéo et des écrans multiples pour offrir au public une expérience stimulante et cérémoniale. Une tentative a été faite pour reconstruire le spectacle vivant lui-même comme une sorte d'espace rituel, non seulement à travers la musique mais aussi à travers les images et l'expression physique.
-
-#### 3.3 Naissance de toi Temple de Psychick Youth (T.O.P.Y.)
-
-En 1981, **Thee Temple ov Psychick Youth (T.O.P.Y.)** a été fondé en parallèle avec Psychic TV. T.O.P.Y. était une organisation qui soutenait les activités idéologiques et rituelles du groupe et visait à explorer la spiritualité et la communauté basées sur la magie du chaos. Plus qu'un simple fan club, T.O.P.Y. a servi à unir ses membres et ses partisans à travers des rituels, une philosophie et des pratiques transformationnelles.
+Psychic TV は単なる音楽バンドではなく、音楽、映像、パフォーマンス、オカルティズムを統合する「マルチメディア・コレクティブ」として設計され、当初から実験性と挑発性を前面に押し出す構造を持っていた。
 
 ---
 
-### 4. Mi-parcours : réussite et expérimentation (1986-1991)
+### 3. 初期時代（1981–1985）
 
-#### 4.1 Planification mensuelle des albums live
+#### 3.1 メンバー構成と最初の作品
 
-En 1986, Psychic TV lance un projet ambitieux : sortir un album live mensuel. Finalement, 17 albums sont sortis et le groupe a fait preuve d'innovation quantitative dans ses efforts musicaux. Cette sortie de masse a renforcé la relation du groupe avec la communauté des fans et a influencé les scènes musicales électroniques et expérimentales ultérieures.
+Psychic TV の初期メンバーは、Genesis P‑Orridge（ヴォーカル、作詞）、Peter Christopherson（映像、音響）、Alex Fergusson（ギター）で構成されていた。最初の楽曲「Just Drifting」は、Genesis の詩的なヴィジョンを反映し、バンドの音楽的出発点となった。
 
-#### 4.2 Transformation des styles musicaux
+初期の音楽は、パンクの攻撃性、サイケデリックの自由度、そして実験的ノイズの融合で構成され、従来のジャンルの枠を超えた革新性が特徴であった。
 
-Au cours de cette période intermédiaire, en plus du noise industriel traditionnel et du punk, une variété d'éléments tels que la musique psychédélique, pop et expérimentale ont été incorporés, et le style musical a considérablement changé. Dans leurs spectacles et albums, la musique, la vidéo et la performance étaient étroitement liées, et le talent artistique intégrant l'audition, le visuel et la spiritualité se démarquait.
+#### 3.2 ライブと映像芸術活動
 
-#### 4.3 Magie, magie du chaos et pensée approfondie
+Psychic TV はライブパフォーマンスにおいても革新的であった。多くのライブでは映像機材やマルチスクリーンを用い、観客に挑戦的で儀式的な体験を提供した。音楽だけでなく、映像や身体表現を通じて、ライブ自体を一種の儀式空間として再構築する試みがなされた。
 
-La pratique de la magie du chaos et de l'occultisme à travers T.O.P.Y. a atteint son niveau le plus profond au cours de cette période. Genesis P‑Orridge explore l'auto-transformation et la construction d'une communauté à travers la magie et les rituels, liant indissociablement le travail d'un groupe et la pratique idéologique.
+#### 3.3 Thee Temple ov Psychick Youth（T.O.P.Y.）の誕生
 
----
-
-### 5. Tournant et procès (1992-1999)
-
-#### 5.1 Scandale et auto-exil
-
-En 1992, Psychic TV a fait l'objet d'un scandale dans le programme d'information de la chaîne, qui présentait des allégations d'abus rituels. L'incident a conduit à une enquête policière et Genesis a été contraint de s'exiler, quittant l'Angleterre et s'installant aux États-Unis.
-
-#### 5.2 Immigration aux États-Unis et évolution des activités
-
-Après avoir déménagé aux États-Unis, Genesis a changé son orientation créative tout en conservant la spiritualité et l'expérimentalisme de PTV. Les collaborations avec de nouveaux collaborateurs et membres se sont multipliées et la gamme de musique et de performances rituelles s'est élargie.
-
-#### 5.3 Dissolution et projets parallèles
-
-En 1999, Psychic TV s'est officiellement dissoute, mais Genesis a lancé un projet appelé Thee Majesty. Il s'agissait d'une activité expressive davantage centrée sur le langage, la poésie et la parole, et qui s'inscrivait dans la continuité de l'héritage spirituel du PTV.
+1981年、Psychic TV と並行して **Thee Temple ov Psychick Youth（T.O.P.Y.）** が設立された。T.O.P.Y. は、バンドの思想的・儀式的活動を支える組織であり、カオス・マジックを基盤にした精神性とコミュニティの探求を目的としていた。T.O.P.Y. は単なるファンクラブではなく、儀式、哲学、精神変容の実践を通じてメンバーや支持者を結びつける役割を担った。
 
 ---
 
-### 6. Reprise et période tardive (2003-2020)
+### 4. 中期：成功と実験（1986–1991）
 
-#### 6.1 PTV3 et nouvelle gamme
+#### 4.1 月刊ライブ・アルバムの企画
 
-En 2003, Psychic TV a été réunie sous le nom de PTV3, a accueilli de nouveaux membres tels qu'Edley ODowd et a repris ses activités intégrant vidéo, son et performance.
+1986年、Psychic TV は毎月ライブ・アルバムをリリースするという野心的なプロジェクトを開始。最終的には 17 枚のアルバムがリリースされ、バンドは音楽活動の量的革新を示した。この大量リリースは、ファンコミュニティとバンドの関係を強化し、後の電子音楽・実験音楽のシーンにも影響を与えた。
 
-#### 6.2 Albums et œuvres conceptuelles
+#### 4.2 音楽スタイルの変容
 
-Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et ``Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
+この中期には、従来の工業ノイズやパンクに加え、サイケデリック、ポップ、実験音楽など多彩な要素が取り入れられ、音楽スタイルが大きく変容した。ライブやアルバムでは、音楽、映像、パフォーマンスが密接に結びつき、聴覚と視覚、精神性を一体化させる芸術性が際立った。
 
-#### 6.3 Dernière année et mort de Genesis
+#### 4.3 マジック、カオス・マジック、思想の深化
 
-En 2017, Genesis a annoncé qu'il souffrait de leucémie myéloïde chronique et a par la suite réduit ses activités de tournée. Il est décédé le 14 mars 2020 à l'âge de 70 ans, marquant la fin des activités de Psychic TV.
-
----
-
-### 7. Impact et héritage
-
-* Influence sur l'acid house et la musique expérimentale
-* Propagation de la magie du chaos
-* Genre, transformation corporelle et signification culturelle des expériences de panlogie
-* Influence sur les artistes et groupes contemporains
+T.O.P.Y. を通じたカオス・マジックやオカルティズムの実践は、この時期に最も深化した。Genesis P‑Orridge は、マジックや儀式を通じて自己変容とコミュニティ形成を追求し、バンド活動と思想的実践を不可分に結びつけた。
 
 ---
 
-### 8. Chronologie
+### 5. 転機と試練（1992–1999）
+
+#### 5.1 スキャンダルと自己亡命
+
+1992年、Psychic TV は放送局の報道番組によるスキャンダルの対象となり、儀式的虐待の疑惑が取り上げられた。この騒動により、警察による捜査が行われ、Genesis は自己亡命を余儀なくされ、イギリスを離れてアメリカに移住した。
+
+#### 5.2 アメリカ移住と活動の変化
+
+アメリカ移住後、Genesis は創作活動の焦点を変えつつも、PTV の精神性や実験性を維持した。新たな協力者やメンバーとのコラボレーションが増え、音楽や儀式的パフォーマンスの幅が拡大した。
+
+#### 5.3 解散とサイド・プロジェクト
+
+1999年、Psychic TV は正式に解散したが、Genesis は Thee Majesty というプロジェクトを開始。これはより言語・詩・スピーチを中心にした表現活動であり、PTV の精神的遺産を継承したものであった。
+
+---
+
+### 6. 復活と後期（2003–2020）
+
+#### 6.1 PTV3 と新ラインナップ
+
+2003年、PTV3 として再結成された Psychic TV は、Edley ODowd など新たなメンバーを迎え、映像・音響・パフォーマンスを統合した活動を再開した。
+
+#### 6.2 アルバムと概念作品
+
+後期アルバムには『Hell Is Invisible… Heaven Is Her/e』や『Mr. Alien Brain vs. The Skinwalkers』、『Alienist』があり、以前の実験性を継承しながらも構造化された概念を提示した。
+
+#### 6.3 最終年と Genesis の死去
+
+2017年、Genesis は慢性骨髄性白血病を公表し、その後ツアー活動を縮小。2020年3月14日、70歳で死去し、Psychic TV の活動は終焉を迎えた。
+
+---
+
+### 7. 影響と遺産
+
+* アシッド・ハウスや実験音楽への影響
+* カオス・マジックの普及
+* ジェンダー、身体変容、パンロジニー実験の文化的意義
+* 現代アーティストやバンドへの影響
+
+---
+
+### 8. 年表
 
 <div class="mermaid">
 timeline
@@ -155,7 +154,7 @@ timeline
 
 ---
 
-### 9. Tableau généalogique
+### 9. 系譜図
 
 <div class="mermaid">
 graph LR
@@ -167,8 +166,8 @@ graph LR
 
 ---
 
-### 10.Conclusion
+### 10. 結論
 
-Psychic TV était un mouvement complet qui croisait musique, rituel et idéologie. Leur travail va au-delà de la musique, explorant la magie, les images, le corps, la spiritualité et la communauté. La vision de Genesis P‑Orridge bouleverse les frontières des genres et anticipe les futures formes d'expression, et son influence reste profondément gravée dans la musique expérimentale et la contre-culture contemporaines.
+Psychic TV は音楽、儀式、思想を横断する総合的運動であった。彼らの活動は単なる音楽を超え、マジック、映像、身体、精神性、コミュニティの探求を提示。Genesis P‑Orridge のヴィジョンは、ジャンルの枠を破壊し、未来の表現形態を先取りするものであり、その影響は現代の実験音楽・カウンターカルチャーに深く刻まれている。
 
 ---

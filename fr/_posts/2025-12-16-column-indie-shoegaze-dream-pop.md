@@ -76,7 +76,7 @@ Le delay est utilisé pour créer des réverbérations superposées plutôt que 
 
 ### 2-2. Rythme en arrière-plan
 
-La batterie et la basse n'agissent pas comme une force motrice derrière la chanson, mais fonctionnent comme un centre de gravité pour soutenir l'image sonore.
+La batterie et la basse n'agissent pas comme la force motrice de la chanson, mais fonctionnent comme un centre de gravité pour soutenir l'image sonore.
 Le rythme est relativement constant et l’accent est mis sur la continuation d’un État plutôt que sur un développement spectaculaire.
 
 ---
@@ -162,7 +162,7 @@ L'indie shoegaze et la dream pop ont transformé la musique d'un objet à écout
 Il ne s’agit pas d’une démonstration d’habileté, mais d’une conception des sens, d’une expression globale qui relie les sensations visuelles et physiques.
 
 My Bloody Valentine et Cocteau Twins, dans leurs directions différentes, ont montré jusqu'où la musique pouvait être abstraite.
-L’image sonore qu’ils ont laissée continue de se retrouver, directement ou indirectement, dans de nombreuses œuvres indépendantes, encore aujourd’hui.
+L’image sonore qu’ils ont laissée continue de se retrouver, directement ou indirectement, dans de nombreuses œuvres indépendantes, même aujourd’hui.
 
 ["Cette musique ne s'arrête jamais. Elle est toujours rejouée sous une forme différente."]
 
@@ -186,7 +186,7 @@ Cette technique a contribué à la fois à l’espace spatial de la dream pop et
 ### A-2. Redéfinir le premier plan et l’arrière-plan dans le mix
 
 Les mixages rock traditionnels placent généralement le chant et les instruments principaux au premier plan.
-Cependant, dans la shoegaze/dream pop, ce principe est intentionnellement brisé.
+Cependant, dans la shoegaze/dream pop, ce principe est délibérément brisé.
 
 Les voix sont intégrées dans les médiums et traitées de la même manière que les réverbérations de guitare et de synthétiseur.
 Cet arrangement crée l'effet de donner à l'auditeur une vue plongeante sur l'ensemble du son, plutôt que de concentrer son attention sur un point.

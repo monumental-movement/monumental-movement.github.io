@@ -10,18 +10,18 @@ tags:
 - House
 - Minimal
 - 00s
-title: Le Dø – Sur mes épaules
+title: The Dø – On My Shoulders
 ---
 
 
-The Dø est un groupe de pop indie franco-finlandais formé à Paris en 2005. Les membres sont Olivia Merilahti et Dan Levy. Leur premier album studio, « A Mouthful », sorti en 2008, a été un succès mondial, en tête des charts français.
+The Døは、2005年にパリで結成されたフィンランド系フランスのインディーポップバンド。メンバーはOlivia Merilahti&Dan Levy。2008年リリースした1stスタジオアルバム『A Mouthful』は、フランスのチャートでトップになるなど世界的にもヒットした。
 
-Ce disque est un mix House/Minimal du premier single "On My Shoulders". Il est sorti en 2009 sur le label Voidcom.
+このレコードは、1stシングル「On My Shoulders」のHouse／Minimalミックス。2009年にレーベルVoidcomからリリースされた。
 
-La face A présente le DJ/producteur français Alexkid (Alexis Mauri) et le duo de DJ house allemand M.A.N.D.Y. (DJ Pat Bo et Phil D. Young).
-mélanger.
+A面は、フレンチDJ／プロデューサーAlexkid(Alexis Mauri)とドイツのHouse DJデュオM.A.N.D.Y.(DJ Pat Bo& Phil D. Young)
+によるmix。
 
-La face B est un mix d'Alexkid (Alexis Mauri) et Philipp Jung.
+B面は、Alexkid(Alexis Mauri)とPhilipp Jungによるmix。
 
 
 #### Liste des chansons

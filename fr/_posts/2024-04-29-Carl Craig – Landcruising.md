@@ -10,15 +10,15 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Carl Craig – Croisière terrestre
+title: Carl Craig – Landcruising
 ---
 
 
-Carl Craig est membre de la deuxième génération de la techno de Détroit, découverte par Derrick May, connu comme l'un des fondateurs de la techno de Détroit avec Kevin Saunderson et Juan Atkins.
+Kevin Saunderson(ケビン・サンダーソン)、Juan Atkins(ホアン・アトキンス)と共にデトロイトテクノ創始者の一人として知られるDerrick May(デリック・メイ)に発掘された、デトロイトテクノ第二世代のCarl Craig。
 
-Il crée un son qui intègre divers éléments tels que l'ambient innovant, la techno, le breakbeat et le jazz futur.
+革新的なアンビエント、テクノ、ブレイクビート、フューチャージャズなど様々な要素を盛り込んだサウンドを作っている。
 
-"Landcruising", sorti en 2005 par Blanco Y Negro, filiale de WEA, est le premier album de Carl Craig et est considéré comme un chef-d'œuvre. En 2005, l'album a été remasterisé, remixé et de nouvelles chansons ajoutées, et est sorti sous le titre « The Album Formerly Known As... » par le label RushHour, et a été réévalué.
+WEAの子会社Blanco Y Negroから2005年にリリースされた 「Landcruising」は、カールクレイグの1stアルバムであり名作とされる一枚。2005年にはリマスター＆リミックス＋新曲追加で、タイトル「The Album Formerly Known As...」としてレーベルRushHourからリリースされ再評価されている。
 
 #### Liste des chansons
 ```md

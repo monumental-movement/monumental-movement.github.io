@@ -15,7 +15,7 @@ title: Zeni Geva – 10 000 années-lumière
 
 
 « Zeni Geva – 10 000 années-lumière » est
-Album promotionnel de l'album enregistré à Chicago Electrical Audio en octobre 2000.
+Promo de l'album enregistré à Chicago Electrical Audio en octobre 2000.
 
 #### Liste des chansons
 ```md

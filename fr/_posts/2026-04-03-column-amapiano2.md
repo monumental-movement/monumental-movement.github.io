@@ -56,7 +56,7 @@ Depuis les années 1990, les jeunes recherchent de nouvelles façons de s’expr
 
 Dans le même temps, la house music était localisée. Le 4/4, originaire d'Europe et d'Amérique, s'est transformé en une forme plus lente, plus lourde et plus « physique ».
 
-De cette manière, un terrain fertile s'est formé dans lequel « formats étrangers » et « sensations physiques locales » ont fusionné.
+Un terrain fertile s'est ainsi formé dans lequel « formats étrangers » et « sensations physiques locales » ont fusionné.
 
 ### Culture du bricolage et de la distribution
 
@@ -198,7 +198,7 @@ flowchart TD
 
 ## Conclusion : Une époque où la musique se diffuse comme une « structure »
 
-Amapiano n’est pas seulement une success story de genre. Cela indique un changement dans la structure même de « la façon dont la musique se propage ».
+Amapiano n’est pas seulement une success story de genre. Cela indique un changement dans la structure même de « la manière dont la musique se propage ».
 
 Culture locale, sons distinctifs, expression physique et prolifération décentralisée. Leur combinaison crée un phénomène global sans centre spécifique.
 

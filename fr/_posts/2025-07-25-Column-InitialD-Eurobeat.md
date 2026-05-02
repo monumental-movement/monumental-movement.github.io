@@ -66,7 +66,7 @@ Eurobeat était lié à la culture parapara et à la culture du mélange de chan
 
 Le tempo d'Eurobeat (140-160 BPM) se marie très bien avec la sensation de vitesse d'une voiture. Dans les scènes de course d'Initial D, Eurobeat fonctionnait comme un « accélérateur sonore ».
 
-Par exemple:
+たとえば：
 
 [「Deja Vu」（Dave Rodgers）](https://amzn.to/3KiOkYW)
 
@@ -111,7 +111,7 @@ L'Eurobeat est une musique qui parle de vitesse, et en même temps, elle est dev
 
 <hr>
 
-### La mémoire de la vitesse ne s'effacera jamais
+### La mémoire de la vitesse ne disparaîtra jamais
 ``Initial D'' est terminé, mais les souvenirs d'Eurobeat circulent encore sur Internet. Même si la course est terminée, à chaque fois que la musique retentit, la course recommence.
 
 C'est aussi une expérience de revivre notre propre « jeunesse » et notre « impulsion ».

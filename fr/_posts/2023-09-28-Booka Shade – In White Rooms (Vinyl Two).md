@@ -9,15 +9,15 @@ permalink: /fr/booka-shade-in-white-rooms-vinyl-two/
 tags:
 - House
 - Electro
-title: Booka Shade – Dans les salles blanches (Vinyl Two)
+title: Booka Shade – In White Rooms (Vinyl Two)
 ---
 
 
-"Booka Shade - In White Rooms (Vinyl Two)" est une chanson du duo électronique allemand Booka Shade.
+「Booka Shade - In White Rooms (Vinyl Two)」は、ドイツのエレクトロニックデュオであるブッカ・シェード（Booka Shade）による楽曲です。
 
-Sortie en 2005, cette chanson était l'une des œuvres phares de Booka Shade et est devenue un succès majeur dans leur carrière.
+2005年にリリースされたこの曲は、ブッカ・シェードの代表作の一つであり、彼らのキャリアにおいて大きな成功を収めた曲となりました。
 
-La combinaison d'une ligne de basse lourde, d'une mélodie de synthétiseur et d'un rythme résonnant crée une musique house qui incorpore des éléments de musique électronique, créant une chanson à l'atmosphère sombre et mystérieuse.
+重厚なベースライン、シンセサイザーのメロディ、響きのあるリズムが組み合わさり、エレクトロニックミュージックの要素を取り入れたハウスミュージックであり、ダークでミステリアスな雰囲気が特徴な一曲となっています。
 
 #### Liste des chansons
 ```md

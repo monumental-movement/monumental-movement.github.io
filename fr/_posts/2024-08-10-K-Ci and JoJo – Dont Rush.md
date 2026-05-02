@@ -10,17 +10,17 @@ tags:
 - RnB
 - Swing
 - Garage House
-title: K-Ci & JoJo – Ne vous précipitez pas
+title: K-Ci & JoJo – Don't Rush
 ---
 
 
-Casey (K.C.) et Jojo
+ケイシー（ケー・シー）＆ジョジョ
 
-K-Ci & JoJo est un duo R&B américain composé des frères Cedric "K-Ci" Haley et Joel "JoJo" Haley.
+K-Ci & JoJo は、セドリック"K-Ci"ヘイリー と ジョエル"JoJo"ヘイリー 兄弟からなるUSの R&B デュオ。
 
-K-Ci et JoJo sont également les chanteurs principaux du groupe R&B Jodeci, dont le hit "All My Life" de 1998 a reçu plusieurs nominations aux Grammy Awards.
+K-Ci & JoJo は、R&B グループ Jodeci のリードシンガーでもあり、1998 年のスマッシュヒット「All My Life」は複数のグラミー賞にノミネートされた。
 
-"Don't Rush" est un extrait du premier album de K-Ci & JoJo "Love Always".
+「Don't Rush 」は、K-Ci & JoJo のデビュー アルバム「Love Always」からのシングルカット。
 
 #### Liste des chansons
 ```md

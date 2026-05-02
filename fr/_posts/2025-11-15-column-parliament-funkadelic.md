@@ -22,7 +22,7 @@ title: '[Chronique] Parlement / Funkadelic : Toute l''histoire de la révolution
 Texte : mmr｜Thème : À propos de la vision du monde du P-Funk, qui existe toujours comme fondement du hip-hop, du R&B, de l'électro, de l'art et de la mode actuels.
 
 
-Dans l'histoire de la musique noire américaine de la seconde moitié du XXe siècle, **Parliament/Funkadelic (communément appelé P-Funk)** est le groupe qui combine le plus grand mythe et l'innovation sonore.
+Dans l'histoire de la musique noire américaine de la seconde moitié du XXe siècle, **Parliament/Funkadelic (communément appelé P-Funk)** est le groupe qui combine la plus grande mythologie et innovation sonore.
 Dirigé par George Clinton, ce collectif était plus qu'un simple groupe, c'était un projet gigantesque mêlant une histoire multivers, une sensibilité technologique futuriste et les rythmes profondément physiques du funk.
 
 Le P-Funk devient clair lorsqu’on le comprend en fonction des trois axes suivants.
@@ -286,7 +286,7 @@ Tant que P-Funk restera au centre d’une musique noire qui parle du futur, leur
 
 ---
 
-### Annexe : Composition live (schéma de reproduction du Mothership Tour de 1976)
+### Annexe : Composition live (carte de reproduction du Mothership Tour de 1976)
 
 <div class="mermaid">
 flowchart TD

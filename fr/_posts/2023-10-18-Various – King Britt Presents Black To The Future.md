@@ -9,13 +9,13 @@ permalink: /fr/various-king-britt-presents-black-to-the-future/
 tags:
 - Downtempo
 - Deep House
-title: Divers – King Britt présente Black To The Future
+title: Various – King Britt Presents Black To The Future
 ---
 
 
-Une compilation de King Britt, figure incontournable de la scène house de Philadelphie.
+フィラデルフィアのハウスシーンのキーパーソンKing Britt（キング・ブリット）によるコンピレーション 。
 
-The Society, le premier morceau de la face A, est un projet du compositeur/arrangeur/saxophoniste Thomas Hass, membre en tournée de Senor Coconut.
+A面１曲目のThe Societyは、Senor Coconut （セニョール・ココナッツ）のツアー・メンバーであり、作曲家/編曲家/サックス奏者Thomas Hass（トーマス・ハス）のプロジェクト。
 
 #### Liste des chansons
 ```md

@@ -80,7 +80,7 @@ Par exemple, aux États-Unis, le rock and roll des années 1950,
 Au Royaume-Uni, des émissions telles que BBC Radio 1 ont déterminé les tendances musicales.
 
 Les disquaires étaient également des lieux de découverte importants.
-Recommandations du personnel, équipement d'écoute, conception de veste, etc.
+Recommandations du personnel, équipement d'écoute, conception de la veste, etc.
 Cela a stimulé la curiosité des auditeurs.
 
 Les ventes de CD ont atteint leur apogée dans les années 1990,
@@ -106,14 +106,14 @@ L’avènement d’Internet a soudainement brisé cette restriction.
 
 À la fin des années 2000, les services de distribution de musique sont rapidement devenus populaires.
 
-Le système de recommandation de streaming est particulièrement important.
+Le système de recommandation de streaming revêt une importance particulière.
 
 L'algorithme utilise principalement les données suivantes.
 
 - Jouer l'histoire
 - Taux de saut
 - Nombre de sauvegardes
-- Ajouter une liste de lecture
+- Ajouter une playlist
 - Similitude des utilisateurs
 
 Analysez ces données et
@@ -278,7 +278,7 @@ Les genres musicaux naissent et évoluent.
 
 ## Problèmes avec l'algorithme
 
-Les algorithmes présentent des problèmes mais aussi des avantages.
+Les algorithmes ont aussi bien des problèmes que des avantages.
 
 Les typiques sont
 

@@ -105,7 +105,7 @@ Centrées sur SoundCloud, la production et la consommation à grande vitesse se 
 
 ### ● Méthodologie Lo-Fi HipHop
 
-* Culture d'échantillonneur telle que MPC
+* Culture d'échantillonneurs tels que MPC
 * Bruit, texture analogique, distorsion de la cassette
 * Expansion de la culture du streaming sous le nom de Chillhop / Study Beats
 

@@ -50,7 +50,7 @@ color: #fff;
 
 D'un point de vue archéologique, les premiers « instruments de musique » étaient des instruments à percussion.
 C'est une pierre ou un arbre battu pour la chasse ou la prière,
-Créer un « beat » était aussi un acte de création d’une communauté.
+Créer un « beat » était aussi un acte de création d'une communauté.
 
 Dans de nombreuses sociétés tribales d'Afrique et d'Océanie,
 Le tambour était à la fois un moyen de transmission d’informations et un élément central des rituels.

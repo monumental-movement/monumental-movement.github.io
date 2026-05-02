@@ -9,12 +9,12 @@ permalink: /fr/supersci-on-the-grind/
 tags:
 - Hiphop
 - Rap
-title: Supersci – À la bourre
+title: Supersci – On The Grind
 ---
 
 
-"On The Grind" est
-Un single extrait de l'album "Pinetrees On The Pavement" de SUPERSCI, sorti en 2006 sur le label suédois "Flyphonic Phonogram".
+「On The Grind」は、
+2006年にスウェーデンのレーベル「Flyphonic Phonogram」からリリースされたSUPERSCIによるアルバム『Pinetrees On The Pavement』からのシングルカット。
 
 #### Liste des chansons
 ```md

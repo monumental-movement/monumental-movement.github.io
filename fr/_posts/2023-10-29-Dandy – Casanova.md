@@ -13,7 +13,7 @@ title: Dandy – Casanova
 ---
 
 
-"Casanova" de Dandy est sorti en 1989 sur le label italien Flea Records.
+Dandy（ダンディ）の「Casanova（カサノバ）」は、イタリアのレーベルFlea Recordsから1989年にリリースされました。
 
 #### Liste des chansons
 ```md

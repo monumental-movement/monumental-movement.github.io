@@ -9,16 +9,16 @@ permalink: /fr/cj-bolland-psilocybin-inside-out-cyrus/
 tags:
 - Techno
 - 00s
-title: CJ Bolland / Psilocybine – Inside Out / Cyrus
+title: CJ Bolland / Psilocybin – Inside Out /Cyrus
 ---
 
 
 
-"Inside Out / Cyrus" est un album divisé sorti en 2000 par le sous-label Rewind The Classics d'UCMG UK.
+「Inside Out / Cyrus」は、UCMG UKのサブレーベルRewind The Classicsから2000年にリリースされたスプリット盤。
 
-A est un morceau de l'album de C.J. Bolland de 1992, The 4th Sign, produit par le pionnier belge de la techno Kris Vanderheyden.
+Aは、1992年にリリースし、ベルギーのテクノのパイオニアKris Vanderheydenがプロデューサーとして参加したC.J.Bollandのアルバム『The 4th Sign』からのトラック。
 
-B est un morceau de l'EP Psilocybin, sorti en 1993 par Psilocybin, un projet des DJ/producteurs techno allemands Jörg Henze et Oliver Lieb.
+Bは、ドイツのテクノDJ／プロデューサーJörg HenzeとOliver LiebによるプロジェクトPsilocybin（シロシビン）が1993年にリリースした、『Psilocybin EP』からのトラック。
 
 #### Liste des chansons
 ```md

@@ -9,16 +9,16 @@ permalink: /fr/snakeman-show-snakeman-show/
 tags:
 - JPop
 - Techno
-title: Spectacle de l'homme-serpent – ​​Spectacle de l'homme-serpent
+title: Snakeman Show  – Snakeman Show
 ---
 
 
-En guise d'anecdote sur le morceau A5 inclus dans le Snakeman Show "Dépêchez-vous et sucez-le avec votre bouche !"
-Il y a un hypothétique interrogatoire de police après l'arrestation de Paul McCartney.
+スネークマン・ショー「急いで口で吸え!」に収録されているA5のトラックに関するトリビアとして、
+ポール・マッカートニー逮捕後の架空の警察尋問があります。
 
-Le film est basé sur un interrogatoire policier fictif de Paul McCartney après son arrestation au Japon, où on lui demande à plusieurs reprises son autographe.
+ポール・マッカートニーが日本で逮捕された後の架空の警察尋問を題材にしており、彼は何度もサインを求められます。
 
-En janvier 1980, Paul McCartney s'est rendu au Japon pour une représentation. Cependant, à son arrivée à l'aéroport de Narita, il a été arrêté pour possession d'une quantité excessive de marijuana. Après avoir été détenu pendant plusieurs jours, McCartney a été condamné à une amende et contraint de quitter le pays.
+1980年1月、ポール・マッカートニーは来日公演のために日本を訪れました。しかし、成田空港に到着した際に、所持していた大麻の量が多すぎるとして逮捕されました。マッカートニーは数日間拘留された後、罰金刑を言い渡されて国外退去を余儀なくされました。
 
 #### Liste des chansons
 ```md

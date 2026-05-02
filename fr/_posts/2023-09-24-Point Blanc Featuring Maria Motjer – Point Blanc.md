@@ -10,11 +10,11 @@ tags:
 - Jazz
 - Funk
 - 10inch
-title: Point Blanc Avec Maria Motjér – Point Blanc
+title: Point Blanc Featuring Maria Motjér – Point Blanc
 ---
 
 
-Il s'agit d'un disque de 10 pouces sorti en 1996 par Groove Attack Productions (GAP) à Cologne, en Allemagne.
+1996年にドイツはケルンのGroove Attack Productions (GAP) からリリースされた10インチレコードです。
 
 #### Liste des chansons
 ```md

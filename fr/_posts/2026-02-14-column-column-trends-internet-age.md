@@ -49,11 +49,11 @@ color: #fff;
 
 > La diffusion du format MP3 et l'émergence de services P2P tels que Napster, survenue aux débuts d'Internet, ont bouleversé les idées reçues en matière de distribution musicale.
 
-En 1995, l'introduction du format MP3 a facilité la compression et le partage de fichiers musicaux, créant ainsi un environnement dans lequel les gens peuvent profiter de la musique sans avoir à acheter de CD. Le groupe indépendant de Los Angeles The Postal Service et les morceaux techno underground de Berlin ont atteint les DJ et les auditeurs du monde entier via MP3.
+En 1995, l'introduction du format MP3 a facilité la compression et le partage de fichiers musicaux, créant ainsi un environnement dans lequel les gens peuvent profiter de la musique sans avoir à acheter des CD. Le groupe indépendant de Los Angeles The Postal Service et les morceaux techno underground de Berlin ont atteint les DJ et les auditeurs du monde entier via MP3.
 
-En 1999, Napster a été introduit et les échanges de musique P2P ont explosé. Les étudiants new-yorkais ont échangé les albums de Jay-Z et d'Eminem, ce qui est devenu un sujet brûlant dans les clubs de Londres et de Tokyo. Ces mouvements ont conduit à la formation de nouveaux succès qui ne peuvent être mesurés à l'aide des graphiques traditionnels.
+En 1999, Napster a été introduit et les échanges musicaux P2P ont explosé. Les étudiants new-yorkais ont échangé les albums de Jay-Z et d'Eminem, ce qui est devenu un sujet brûlant dans les clubs de Londres et de Tokyo. Ces mouvements ont conduit à la formation de nouveaux succès qui ne peuvent être mesurés à l'aide des graphiques traditionnels.
 
-À Tokyo, le mouvement visant à réévaluer le Shibuya-kei et la city pop a atteint les fans étrangers via Internet, et il y a même eu des cas où il a été présenté dans des DJ sets à New York et Paris.
+À Tokyo, le mouvement visant à réévaluer le Shibuya-kei et la city pop a atteint les fans étrangers via Internet, et il y a même eu des cas où il a été présenté dans des DJ sets à New York et à Paris.
 
 ---
 
@@ -81,7 +81,7 @@ Il y a également eu une augmentation du nombre d'artistes indépendants entrant
 
 ## Fin des années 2010-2020 : vidéos courtes et basées sur des algorithmes
 
-> Le pouvoir viral des courtes vidéos telles que TikTok et YouTube Shorts est devenu le point de départ de nouveaux succès, et la structure traditionnelle des charts a changé.
+> Le pouvoir viral de courtes vidéos telles que TikTok et YouTube Shorts est devenu le point de départ de nouveaux succès, et la structure traditionnelle des charts a également changé.
 
 Depuis 2016, TikTok et YouTube Shorts sont devenus les principaux moyens de diffusion de la musique. "Old Town Road" du rappeur américain Lil Nas Même dans la scène des clubs berlinois, les morceaux techno qui ont retenu l'attention sur TikTok ont ​​été partagés dans toute la ville par les fans et les DJ.
 

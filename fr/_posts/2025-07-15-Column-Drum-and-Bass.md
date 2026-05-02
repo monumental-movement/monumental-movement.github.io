@@ -14,12 +14,12 @@ title: '[Chronique] L''impact de la Drum & Bass : Une poétique urbaine tissée 
 ---
 
 
-## Un rythme hybride né en ville
+## Beat hybride né en ville
 
 Texte : mmr｜Thème : Réflexions sur le son Drum & Bass/Jungle/UK
 
 
-Le Drum & Bass (D&B) est un genre musical né sur la scène des clubs underground londoniens au début des années 1990 et constitue en même temps le rythme même de la vie urbaine multiculturelle. Combinant des breakbeats rapides, des lignes de basse rugissantes et du reggae/dub/hip-hop/techno, ils ont révolutionné l'histoire de la musique britannique.
+Le Drum & Bass (D&B) est un genre musical né sur la scène des clubs underground londoniens au début des années 1990 et qui constitue en même temps le rythme même de la vie urbaine multiculturelle. Combinant des breakbeats rapides, des lignes de basse rugissantes et du reggae/dub/hip-hop/techno, ils ont révolutionné l'histoire de la musique britannique.
 
 Son évolution a été incroyable, avec de nombreuses branches allant de la jungle, du liquid funk et du techstep au neurofunk, au jump-up et au drumstep.
 
@@ -30,7 +30,7 @@ Son évolution a été incroyable, avec de nombreuses branches allant de la jung
 
 **• 1990-1993 : Mouvement Jungle**
 
-Les racines de D&B se situent dans le genre jungle. Il s'agissait d'une musique rythmique chaotique, un mélange d'acid house, de rave, de hip-hop et de reggae, centrée sur un échantillonnage d'Amen Break.
+Les racines de D&B se situent dans le genre jungle. C'était une musique rythmée chaotique, un mélange d'acid house, de rave, de hip-hop et de reggae, et centrée autour d'un échantillonnage d'Amen Break.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -112,7 +112,7 @@ Un son sombre, industriel et inorganique. Les représentants incluent Ed Rush & 
 
 ** ● Neurofunk **
 
-Évolution de l'étape technologique. Des lignes de basse principalement nerveuses et déformées. Noisia, Phace, Mefjus, etc.
+Évolution de l'étape technologique. Des lignes de basse principalement nerveuses et distordues. Noisia, Phace, Mefjus, etc.
 
 ** ● Liquid Funk **
 

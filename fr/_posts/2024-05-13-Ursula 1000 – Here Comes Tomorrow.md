@@ -12,13 +12,13 @@ tags:
 - Shibuya-kei
 - 90s
 - 00s
-title: Ursula 1000 – Voici demain
+title: Ursula 1000 – Here Comes Tomorrow
 ---
 
 
-Alex Gimeno, également connu sous le nom d'Ursula 1000, producteur et DJ lounge new-yorkais, a établi un style unique qu'il appelle le son rétro/futur en fusionnant divers sons tels que les bandes originales des années 60, le revival lounge des années 90, le Shibuya-kei, le big beat britannique, le funk et le disco.
+ニューヨークのプロデューサー&ラウンジ系DJウルスラ1000ことAlex Gimenoは、60年代のサウンドトラック、90年代のラウンジリバイバル、渋谷系、イギリスのビッグビート、ファンク、ディスコなど、多様なサウンドを融合させ、レトロ/フューチャーサウンドと呼ぶ独自のスタイルを確立。
 
-"Here Comes Tomorrow" est un morceau électro bossa nova sorti en 2006.
+「Here Comes Tomorrow」は2006年にリリースされたボサノヴァ・エレクトロトラック。
 
 #### Liste des chansons
 ```md

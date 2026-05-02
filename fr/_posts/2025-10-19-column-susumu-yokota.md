@@ -24,7 +24,7 @@ Texte : mmr｜Thème : Susumu Yokota. Un artiste solitaire qui explore l'âme du
 Au début des années 1990, la scène musicale électronique japonaise en était encore à ses balbutiements. Alors que la techno et la house devenaient populaires en tant que culture importée, la musique ambiante, axée sur les « sons environnementaux » et le « silence », restait encore un genre expérimental minoritaire.
 Susumu Yokota était un poète qui vivait dans cet espace calme. Sa musique est une extension de la culture club, mais en quelque sorte « en dehors ». C'était un artiste rare qui utilisait des particules électroniques pour représenter le souffle de la nature, la distance du vent et les réverbérations des souvenirs.
 
-Bien que Yokota ait débuté dans la scène des clubs de Tokyo, il a rapidement transcendé ce contexte. Sa musique se concentrait davantage sur la « pause » que sur le « rythme » de la musique de danse, et s'orientait vers la recherche de la tranquillité et de l'organicité de la musique électronique. Ceci est similaire au sens japonais de « wabi-sabi ».
+Bien que Yokota ait débuté dans la scène des clubs de Tokyo, il a rapidement transcendé ce contexte. Sa musique se concentrait davantage sur la « pause » que sur le « rythme » de la musique de danse, et s'orientait vers la recherche de la tranquillité et de l'organicité de la musique électronique. Ceci est similaire au sens japonais de « wabi-sabi ».
 
 ---
 
@@ -119,7 +119,7 @@ On sait également qu'Aphex Twin et Four Tet ont soutenu son travail.
 
 La performance live de Yokota n'était pas seulement une reconstitution, mais une tentative de « jouer l'espace lui-même ».
 Il a éliminé autant que possible l'éclairage et les images, transformant l'espace avec la « densité de l'air » que possède le son.
-Le public est enveloppé de particules sonores et perd la notion du temps. C’était une expérience où chaque personne se fondait dans le son.
+Le public est enveloppé de particules sonores et perd la notion du temps. C’était une expérience où chacun avait l’impression de se fondre dans le son.
 
 Sa position était un exemple rare de combinaison de la physicalité dansante de la techno avec la nature méditative de l’ambient.
 
@@ -147,7 +147,7 @@ De plus, l'esprit de Yokota a certainement été hérité par des artistes ambie
 
 ---
 
-## Discographie (œuvres principales)
+## ディスコグラフィー（主要作品）
 
 | Année | Titre | Nom | Explication | Lien |
 |----|------------|---------|------|---------------|
@@ -169,5 +169,5 @@ La musique de Susumu Yokota n'est pas racontée à travers des mélodies et des 
 Dans ce silence habitent le bruit de la ville, le souffle de la nature et la mémoire humaine.
 La musique qu’il a laissée n’est pas seulement une collection d’œuvres, mais un miroir qui reflète le moi intérieur de l’auditeur.
 
-Même après la disparition du son, quelque chose reste dans mon cœur.
+Même après la disparition du son, quelque chose reste dans votre cœur.
 C'est le plus grand « son » que le musicien Susumu Yokota ait laissé au monde.

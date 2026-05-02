@@ -12,7 +12,7 @@ tags:
 - Vinyl
 - Cassette
 - CD
-title: '[Chronique] Médias physiques et culture de collection : archiver l''histoire
+title: '[Chronique] Supports physiques et culture de collection : archiver l''histoire
   de la propriété, de la rareté et de la mémoire'
 ---
 
@@ -26,7 +26,7 @@ Même à une époque où la musique et les vidéos peuvent être diffusées inst
 
 La possession est une expérience différente du simple accès. La sensation, le poids, l'odeur de la pochette, le type dans les notes de la pochette, les rayures sur le disque. Il y a du temps qui y est gravé. Les données sont mises à jour, mais les choses s'estompent. Le paradoxe selon lequel l’altération crée de la valeur est au cœur de la culture des collectionneurs.
 
-Depuis le 20e siècle, les médias ont évolué avec le développement de la technologie d'enregistrement. Cependant, à chaque changement, les « anciens médias » n'ont pas disparu, mais sont restés, prenant un sens différent. Les disques Gramophone sont devenus des antiquités, les disques vinyles sont devenus des passe-temps audio, les cassettes sont devenues une culture du bricolage et les CD ont été réévalués.
+Depuis le 20e siècle, les médias ont évolué avec le développement de la technologie d'enregistrement. Cependant, à chaque changement, les « anciens médias » n'ont pas disparu, mais sont restés, prenant un sens différent. Les disques gramophones sont devenus des antiquités, les disques vinyles sont devenus des passe-temps audio, les cassettes sont devenues une culture du bricolage et les CD ont été réévalués.
 
 Le support physique est bien plus qu’un simple appareil d’enregistrement. C'est un moyen de relations sociales, un dispositif de visualisation du capital culturel et une archive de mémoire.
 
@@ -52,7 +52,7 @@ color: #fff;
 
 ### L'ère des phonographes et des disques
 
-En 1877, Thomas Edison invente le phonographe, permettant d'enregistrer le son. Au départ, il s’agissait d’un tube de cire, mais il a ensuite pris la forme d’un disque. L'enregistrement commercial a commencé dans les années 1890 et la musique est devenue un produit commercial pouvant être reproduit pour la première fois.
+En 1877, Thomas Edison invente le phonographe, permettant d'enregistrer des sons. Au départ, il s’agissait d’un tube de cire, mais il a ensuite pris la forme d’un disque. L'enregistrement commercial a commencé dans les années 1890 et la musique est devenue un produit commercial pouvant être reproduit pour la première fois.
 
 Au début du XXe siècle, les disques SP 78 tours sont devenus la norme et les maisons de disques ont favorisé l'industrialisation du monde entier. La musique est passée du statut de quelque chose qui se joue à celui de quelque chose qui s'achète.
 
@@ -88,7 +88,7 @@ Après la Seconde Guerre mondiale, les passionnés ont commencé à rechercher d
 
 ### Enchères et visualisation des prix
 
-Fondé en 1995, eBay a donné une visibilité internationale aux prix sur le marché des collectionneurs. Les offres gagnantes pour des enregistrements rares seront converties en données, accélérant ainsi la formation des prix du marché.
+Fondé en 1995, eBay a donné une visibilité internationale aux prix sur le marché des collectionneurs. Les enchères gagnantes pour des enregistrements rares seront converties en données, accélérant ainsi la formation des prix du marché.
 
 De même, Discogs, fondée en 2000, a combiné une base de données musicale et un marché pour permettre l'achat et la vente à l'échelle mondiale.
 

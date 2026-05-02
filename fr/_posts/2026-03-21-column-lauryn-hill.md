@@ -75,13 +75,13 @@ Aussi, des expressions qui semblent influencées par Roberta Flack ont ​​ét
 
 Le succès des Fugees constitue un tournant, mais aussi une limite. Un fossé commence à se dessiner entre la direction du groupe et l'expression individuelle.
 
-Hill s'est progressivement intéressé à la création d'œuvres qui font face à l'intériorité de chacun. Derrière cela se cachent des changements dans ses relations amoureuses, son exploration spirituelle et même ses expériences en tant que mère.
+Hill a progressivement commencé à viser des œuvres qui faisaient face à l'intérieur de chacun. Derrière cela se cachent des changements dans ses relations amoureuses, son exploration spirituelle et même ses expériences en tant que mère.
 
 Pour elle, la musique n’est plus un spectacle tourné vers l’extérieur, mais un moyen de dialogue avec soi-même.
 
 ### Concept de travail en solo
 
-À cette époque, Hill ne faisait pas seulement ses débuts en solo, mais était également fortement confronté à la question « que dois-je dire ? » La direction musicale est basée sur des rythmes hip-hop, tout en incorporant des éléments profonds de soul et de gospel.
+À cette époque, Hill ne faisait pas seulement ses débuts en solo, mais était également fortement confronté à la question de « que dois-je dire ? » La direction musicale est basée sur des rythmes hip-hop, tout en incorporant des éléments profonds de soul et de gospel.
 
 Le résultat fut l'album de 1998
 La mauvaise éducation de Lauryn Hill.

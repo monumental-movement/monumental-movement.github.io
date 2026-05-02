@@ -8,16 +8,16 @@ layout: post
 permalink: /fr/jaimy-lost-inside/
 tags:
 - House
-title: Jaimy – Perdu à l’intérieur
+title: Jaimy – Lost Inside
 ---
 
 
-En 1990, Jaimy fut l'un des premiers producteurs néerlandais à vivre de la house music. À l'âge de 19 ans, il signe son premier contrat d'enregistrement et est repris par Outland Records à Amsterdam, où il contribue à une grande partie de la musique publiée par Outland Studios.
+1990年、Jaimyはオランダのプロデューサーの中で、ハウスミュージックで生計を立てることに成功した最初の人の1人でした。19歳で初めてのレコード契約を締結し、アムステルダムのOutland Recordsに迎えられ、Outland Studiosからリリースされた音楽の多くに貢献しました。
 
-Vers 1998, j'ai rencontré mon partenaire musical, Kenny D.
-Du point de vue de la production, Jaimy & Kenny D ont principalement publié de la musique sur Black Hole Recordings, mais ont également contribué à des morceaux et des projets pour United Recordings, Combined Forces et Perfecto.
+1998年ごろ、音楽のパートナーであるKenny Dと出会いました。
+制作面では、Jaimy & Kenny Dは主にBlack Hole Recordingsから楽曲をリリースしましたが、United Recordings、Combined Forces、Perfectoにもトラックやプロジェクトを提供しました。
 
-En 2004, Jaimy s'oriente vers l'indépendance et fonde son propre label, Fatal Music. Un an plus tard, il fonde également Drum Mode.
+2004年、Jaimyは独立路線を選び、自身のレーベルFatal Musicを設立しました。1年後にはDrum Modeも設立しました。
 
 #### Liste des chansons
 ```md

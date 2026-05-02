@@ -90,12 +90,12 @@ color: #fff;
 #### Minime
 
 - Steve Reich ― *Musique pour 18 musiciens*
--Terry Riley ― *En C*
+- Terry Riley ― *En C*
 - Philip Glass - *Verrerie*
 
 ---
 
-### Playlist structurée selon « l'écoulement du temps »
+### Playlist organisée selon « l’écoulement du temps »
 
 #### matin
 
@@ -105,7 +105,7 @@ color: #fff;
 
 #### midi
 
--Terry Riley ― *En C*
+- Terry Riley ― *En C*
 - Jana Winderen ― *Champ d'énergie*
 - Philip Glass - *Verrerie*
 
@@ -118,7 +118,7 @@ color: #fff;
 #### nuit
 
 - William Basinski - *Les boucles de désintégration*
-- Eliane Radigue - *Trilogie de la Mort*
+- Éliane Radigue - *Trilogie de la Mort*
 - Biosphère ― *Substrat*
 
 ### Flux saisonnier

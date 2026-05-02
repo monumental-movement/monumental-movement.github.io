@@ -12,7 +12,7 @@ tags:
 - Experimental
 - Underground
 title: '[Chronique] Soudain le carton — une forme étrange de l''underground japonais
-  né des fluctuations du quotidien et du langage'
+  né des fluctuations de la vie quotidienne et du langage'
 ---
 
 
@@ -131,7 +131,7 @@ Soudain, le chant de Cardboard donne la priorité au rythme des mots eux-mêmes,
 
 ### Attitude qui n'appartient à aucun genre
 
-De la fin des années 1970 au début des années 1980, l’influence du punk et de la new wave s’est largement répandue au Japon. Mais soudain, le carton n’appartient plus vraiment à ces styles.
+De la fin des années 1970 au début des années 1980, l’influence du punk et de la new wave était répandue au Japon. Mais soudain, le carton n’appartient plus vraiment à ces styles.
 
 Leur musique est difficile à classer dans un genre spécifique. Même s’ils contenaient des éléments post-punk, ils n’étaient pas intéressés à les recréer.
 
@@ -149,7 +149,7 @@ Les activités de Sudden Cardboard eurent plus tard une signification importante
 
 Leur pratique a fait prendre conscience que « n'importe qui peut faire de la musique ». Il ne s'agit pas d'un problème technique, mais d'un problème de sensibilisation.
 
-La production musicale ne nécessite pas d’environnement particulier. Au contraire, des expressions uniques naissent sous contraintes.
+La production musicale ne nécessite pas d’environnement particulier. Au contraire, des expressions uniques naissent au sein de contraintes.
 
 > La création sous contraintes ouvre de nouvelles possibilités.
 
@@ -207,3 +207,11 @@ Leur travail n'a pas été un énorme succès commercial. Cependant, son influen
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xsUBt1dTp9U?si=yoYiBgK-_xb2KKE2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

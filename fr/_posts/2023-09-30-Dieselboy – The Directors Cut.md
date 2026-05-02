@@ -9,15 +9,15 @@ permalink: /fr/dieselboy-the-directors-cut/
 tags:
 - Drum n Bass
 - Rare
-title: Dieselboy – Le montage du réalisateur
+title: Dieselboy – The Director's Cut
 ---
 
 
-Il s'agit d'une cassette rare d'un mix drum and bass tech-moddy de Diesel Boy, un DJ extrêmement talentueux et populaire sur la scène drum and bass américaine.
+USドラムンベースで圧倒的な実力＆人気を誇るDJ、ディーゼルボーイによるキラーテックモーディーなドラムンベースミックスのレアテープです。
 
-Ce mix est également génial, avec timing, EQ, niveaux et transitions tous au rendez-vous, un bel exemple de ses compétences.
+このミックスも素晴らしく、タイミング、EQ、レベル、トランジション、すべてがピンポイントで彼のスキルを証明する素晴らしい代表例です。
 
-C'est un mix que vous aurez envie d'écouter encore et encore pour toujours.
+いつまでも、聴き直したくなるミックスです。
 
 #### Liste des chansons
 ```md

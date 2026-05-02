@@ -20,7 +20,7 @@ title: '[Chronique] Musique d''ambiance/environnement japonaise'
 Texte : mmr｜Thème : Le cœur de la musique environnementale japonaise des années 1980 et sa réévaluation historique
 
 
-À la fin des années 2010, « Japanese Ambient » et « Japanese Environmental Music » ont commencé à attirer beaucoup d'attention parmi les auditeurs de musique du monde entier. Il y a plusieurs raisons. Rééditions par des labels occidentaux, recommandations automatiques de YouTube, algorithme de Spotify et réinterprétation de la musique électronique/new age.
+À la fin des années 2010, « Japanese Ambient » et « Japanese Environmental Music » ont commencé à attirer beaucoup d'attention parmi les auditeurs de musique du monde entier. Il y a plusieurs raisons. Il s'agit de rééditions par des labels occidentaux, des recommandations automatiques de YouTube, de l'algorithme de Spotify et d'une remise en question de la musique électronique/new age.
 Il existe cependant des points importants qui ne peuvent être expliqués par ces seuls facteurs.
 
 C'est le fait que la « musique environnementale » japonaise des années 1980 est née d'un sol culturel différent de celui de la musique ambiante du monde entier.
@@ -128,7 +128,7 @@ Un chef-d'œuvre qui utilise des instruments à percussion, du marimba, de la vo
 - Application de la structure de la musique africaine gamelan
 
 ## ● Philosophie de production
-Elle traite les instruments à percussion non pas comme des symboles du « temps », mais comme des « appareils qui font sonner l'espace »**, créant une musique qui dépeint un « voyage » spirituel à travers des réverbérations et des harmoniques acoustiques.
+Elle traite les instruments à percussion non pas comme des symboles du « temps », mais comme des « appareils qui font sonner l'espace »**, créant une musique qui dépeint un « voyage » spirituel à travers des réverbérations acoustiques et des harmoniques.
 
 ---
 
@@ -149,7 +149,7 @@ Après récidive, le patient a été réévalué à l'étranger.
 
 ---
 
-#**2-4. Inoyama Land - Pastoralisme et description paysagère des sons électroniques**
+# **2-4. Inoyama Land - Pastoralisme et description paysagère des sons électroniques**
 
 Le duo « Inoyamaland » composé de Yasushi Yamashita et Makoto Inoue possède un style unique qui se situe à cheval entre la techno pop et la musique environnementale.
 
@@ -173,83 +173,83 @@ Dans les années 1980, les fabricants japonais d’instruments de musique élect
 Équipement souvent utilisé (dans la plage pouvant être confirmée comme étant un fait)
 -Yamaha DX7
 - Série Roland Juno
-- Roland RE-201 (écho à bande)
-- Modèle analogique Korg
-- Enregistreur de terrain (cassette/bobine à bobine)
+- Roland RE-201（テープエコー）  
+- Korgのアナログ機種  
+- フィールドレコーダー（カセット/オープンリール）
 
-## ● 3-2. Enregistrement à domicile et culture du home studio
-Les équipements d'enregistrement domestique se sont très tôt répandus au Japon et de nombreux compositeurs ont réalisé une production sonore expérimentale chez eux.
-C'était une caractéristique majeure par rapport à l'Europe et à l'Amérique, et c'est devenu la toile de fond pour l'approfondissement de la musique environnementale au niveau individuel.
+## ● 3-2. 家庭録音とホームスタジオ文化
+日本では早くから家庭用録音機器が普及し、多くの作曲家が自宅で実験的音響制作を行った。  
+これは欧米に比べても大きな特徴であり、環境音楽が個人レベルで深化した背景となった。
 
-## ● 3-3. Coopération avec la conception et l'architecture acoustiques
-Hiroshi Yoshimura et Inoyama Land ont également participé à la conception acoustique d'espaces architecturaux, d'équipements publics, de showrooms d'entreprise, etc., et l'accent a été mis sur la fonctionnalité de la musique et son influence sur l'espace.
-
----
-
-# **Chapitre 4 : Lien entre espace commercial/culture urbaine et musique environnementale**
-
-## ● 4-1. MUJI, PARCO, grand magasin BGM
-
-Les installations commerciales à Tokyo dans les années 1980 étaient axées sur le design musical,
-« Une acoustique qui améliore la qualité de vie »
-a été évoqué comme thème.
-
-Dans ce contexte, la musique environnementale est allée au-delà de la simple musique de fond et est devenue un élément qui façonne l’impression de l’espace.
-
-## ● 4-2. Connexion avec les « fonctions confort » des appareils électroménagers
-
-La musique de Takashi Kokubo qui accompagne les purificateurs d'air en est un symbole.
-Appareils électroménagers x acoustique environnementale
-Il a établi une idée typiquement japonaise.
-
-Il s’agit d’un phénomène culturel extrêmement unique au monde.
+## ● 3-3. 音響設計・建築との連携
+吉村弘やイノヤマランドは建築空間、公共施設、企業ショールームなどの音響設計にも参加しており、音楽の機能性と空間への影響力が重要視された。
 
 ---
 
-# **Chapitre 5 : Réévaluation moderne et implications**
+# **第4章：商業空間・都市文化と環境音楽の接続**
 
-## ● 5-1. Ruée vers les rechutes dans les années 2010
+## ● 4-1. 無印良品、PARCO、百貨店BGM
 
-Une série de rééditions par des labels européens et américains,
--Hiroshi Yoshimura
--Midori Takada
-- Takashi Kokubo
-- Terre d'Inoyama
-Ses œuvres sont désormais disponibles dans les disquaires du monde entier.
+1980年代の東京の商業施設は音楽デザインを重視し、  
+“生活の質を上げる音響”  
+がテーマとして掲げられた。
 
-## ● 5-2. Diffusion sur les sites de vidéos
+環境音楽はその文脈で、単なるBGMを超え、空間の印象を形作る要素となった。
 
-Grâce à l'algorithme de YouTube, le nombre de vues de « Green » et « Through the Looking Glass » a considérablement augmenté.
-Cela a créé une base d’auditeurs mondiale.
+## ● 4-2. 家電の「快適機能」との接続
 
-## ● 5-3. Influence sur la musique ambiante moderne
+小久保隆の空気清浄機付属音楽は、その象徴であり、  
+家電 × 環境音響  
+という日本独自の発想を確立した。
 
-De nombreux compositeurs ambiants des années 2020 citent la musique environnementale japonaise des années 1980 comme une influence.
-
-La raison est
-**Esthétique acoustique unique qui harmonise la mélodie et le silence**
-C'est parce qu'il est extrêmement moderne.
+これは世界的に見ても極めてユニークな文化現象である。
 
 ---
 
-# **Chapitre 6 : Chronologie des années 1970 à 2020**
+# **第5章：現代における再評価と影響**
+
+## ● 5-1. 2010年代の再発ラッシュ
+
+欧米レーベルによる再発が相次ぎ、  
+- 吉村弘  
+- 高田みどり  
+- 小久保隆  
+- イノヤマランド  
+の作品が世界中のレコードショップに並ぶようになった。
+
+## ● 5-2. 動画サイトでの拡散
+
+YouTubeのアルゴリズムにより、《Green》《Through the Looking Glass》の再生回数が大幅に増加。  
+これにより、世界的なリスナー層が形成された。
+
+## ● 5-3. 現代アンビエントへの影響
+
+2020年代のアンビエント作曲家の多くが、日本の1980年代環境音楽を影響源として挙げている。
+
+その理由は、  
+**旋律と静寂を調和させる独特の音響美学**  
+が極めて現代的だからである。
+
+---
+
+# **第6章：1970–2020 年代 年表**
 
 | Année | Événements |
 |----|--------|
-| années 1970 | Développement de la musique électronique et de l'art sonore |
-| 1975 | Hiroshi Yoshimura participe à la planification de la musique environnementale |
-| 1980 | MUJI commence les préparatifs pour une série de musique environnementale |
-| 1982 | Hiroshi Yoshimura《Musique pour neuf cartes postales》 |
-| 1983 | Midori Takada《De l'autre côté du miroir》, Inoyama Land《Danzindan-Pojidon》 |
-| 1986 | Hiroshi Yoshimura《Vert》 |
-| 1987 | Takashi Kokubo《Un rêve navigue vers la mer》 |
-| années 1990 | Diffusion de certaines œuvres arrêtée / A la veille de la réévaluation |
-| Années 2010 | Récurrence en Europe et en Amérique, réévaluation globale |
-| Années 2020 | Les expositions et les réimpressions se poursuivent et cela devient un genre international |
+| 1970s | 電子音楽・音響美術が発展 |
+| 1975 | 吉村弘が環境音楽企画に関わる |
+| 1980 | 無印良品が環境音楽シリーズの準備開始 |
+| 1982 | 吉村弘《Music For Nine Post Cards》 |
+| 1983 | 高田みどり《Through the Looking Glass》、イノヤマランド《Danzindan-Pojidon》 |
+| 1986 | 吉村弘《Green》 |
+| 1987 | 小久保隆《A Dream Sails Out To Sea》 |
+| 1990s | 一部作品が流通停止 / 再評価前夜 |
+| 2010s | 欧米で再発、世界的再評価 |
+| 2020s | 展覧会・復刻が続き国際的ジャンル化 |
 
 ---
 
-# **Chapitre 7 : Schéma des relations entre artistes majeurs et contexte**
+# **第7章：主要アーティストと文脈の関係図**
 
 <div class="mermaid">
 graph LR
@@ -265,25 +265,25 @@ graph LR
 
 ---
 
-# **Chapitre 8 : Résumé - Pourquoi la musique environnementale japonaise captive le monde**
+# **第8章：総括 ― 日本の環境音楽が世界を魅了する理由**
 
-La musique environnementale japonaise n’est pas seulement une « guérison » ou un « fond sonore ».
-**Art sonore créé par la culture urbaine, le design et la philosophie de la vie**
+日本の環境音楽は、単なる“癒やし”や“背景音”ではなく、  
+**都市文化・デザイン・生活哲学が生んだ音響芸術**  
 C'est.
 
-- Espace intermédiaire entre art et musique
-- Réponse à l'urbanisation
-- Culture de style de vie et technologie de l'électroménager
-- Innovation synthétiseur
-- Collaboration avec la conception spatiale
+- 美術と音楽の中間領域  
+- 都市化への応答  
+- 生活文化と家電テクノロジー  
+- シンセサイザーの革新  
+- 空間デザインとの連携  
 
-Tous ces éléments étaient présents au Japon dans les années 1980.
+そのすべてが80年代の日本に揃っていた。
 
-Le monde a réévalué
-**Non seulement la beauté de la musique elle-même, mais aussi la philosophie japonaise unique qu'elle contient**
+世界が再評価したのは、  
+**音楽そのものの美しさだけでなく、そこに宿された日本独自の思想**  
 C'est.
 
-La musique d’ambiance continue de prendre de nouvelles significations partout dans le monde, et les œuvres des années 1980 qui lui ont donné naissance continueront de rester un fondement important de l’histoire de la musique.
+環境音楽は今も世界で新たな意味を持ち続けており、その源流となった1980年代の作品群は、今後も音楽史の重要な基盤として残り続けるだろう。
 
 ---
 

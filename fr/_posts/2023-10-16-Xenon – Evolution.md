@@ -9,11 +9,11 @@ permalink: /fr/xenon-evolution/
 tags:
 - Italo
 - Disco
-title: Xénon – Évolution
+title: Xenon – Evolution
 ---
 
 
-Xenon est un groupe de musiciens et de producteurs coordonné par Marzio Dance (Marzio Mugnaioni), ancien DJ de la discothèque « Xenon » de Florence.
+Xenonは、フィレンツェのディスコ”Xenon”の DJだったMarzio Dance（Marzio Mugnaioni） がコーディネートしたミュージシャンとプロデューサーのグループ。
 
 #### Liste des chansons
 ```md

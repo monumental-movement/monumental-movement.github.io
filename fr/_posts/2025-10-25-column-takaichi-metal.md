@@ -56,9 +56,9 @@ Tout comme le métal est « un art qui transforme le chaos en ordre », le disco
 
 ---
 
-## Chapitre 2 : Construire une voix——La politique de la voix métallique
+## Chapitre 2 : Construire la voix ——La politique de la voix métallique
 
-Pour les hommes politiques, leur « voix » est un instrument qui incarne leurs idées. La vocalisation de Takaichi est particulièrement faible et stable parmi les femmes politiques. Acoustiquement, il est basé sur le médium-bas (environ 170-180 Hz), avec peu de variation de hauteur, rappelant le « contrôle d'acier » du chant métal.
+Pour les hommes politiques, leur « voix » est un instrument qui incarne leurs idées. La vocalisation de Takaichi est particulièrement faible et stable parmi les femmes politiques. Acoustiquement, il est basé sur le médium-bas (environ 170-180 Hz), avec peu de fluctuation de hauteur, rappelant le « contrôle d'acier » du chant métal.
 
 «La voix est l'art de faire résonner ses émotions sans les laisser se déchaîner.» Comme le symbolisent ces mots, elle vit la politique comme une «structure de fer».
 
@@ -78,7 +78,7 @@ L'accent mis par M. Takaichi sur « l'indépendance culturelle », la « souvera
 
 Comme Judas Priest, une musique qui confine la passion explosive dans un rythme ordonné. Cela correspond exactement à la position politique de M. Takaichi. Bien que la structure logique soit froide, il y a une intense « combustion » derrière elle.
 
-**"Dans la construction froide réside la vraie chaleur."** Cette phrase s'applique à la fois au métal et à la politique. À travers la personne de Sanae Takaichi, nous pouvons reconsidérer « une politique qui vit comme le son ».
+**"Dans la construction froide réside la vraie chaleur."** Cette phrase s'applique à la fois au métal et à la politique. À travers le personnage de Sanae Takaichi, on peut reconsidérer « la politique qui vit comme le son ».
 
 ---
 
@@ -115,7 +115,7 @@ flowchart TD
 
 </div>
 
-Au sein de cette structure, M. Takaichi joue avec « l'intellect qui contrôle la passion ».
+Au sein de cette structure, Takaichi joue avec « l'intellect qui contrôle la passion ».
 
 ---
 
@@ -123,7 +123,7 @@ Au sein de cette structure, M. Takaichi joue avec « l'intellect qui contrôle l
 
 Tout comme le métal a évolué en acceptant le bruit, la politique mature devient également plus forte lorsqu'elle adopte des « sons inhabituels ». L'existence de Sanae Takaichi symbolise « l'acceptation du bruit » dans la politique japonaise. Le bruit ne ressemble pas à du chaos, mais à une distorsion créative.
 
-« De nouveaux sons ne peuvent naître que du silence. » Cette phrase s'applique à la fois au métal et à la politique. À travers la personne de Sanae Takaichi, nous pouvons reconsidérer « une politique qui vit comme le son ».
+« De nouveaux sons ne peuvent naître que du silence. » Cette phrase s'applique à la fois au métal et à la politique. À travers le personnage de Sanae Takaichi, on peut reconsidérer « la politique qui vit comme le son ».
 
 ---
 
@@ -182,7 +182,7 @@ flowchart LR
 | ----------------- | ------------ | ---- | -------------------------- | --------------------------------------------- |
 | **Sabbat noir** | **Sabbat noir** | 1970 | Une œuvre qui serait la naissance du premier heavy metal au monde. L'assombrissement des bleus et la cloche de l'église SE sont symboliques.            |
 | | **Paranoïaque** | 1970 | Un chef-d'œuvre qui a établi le prototype du métal. Rapidité, sociabilité et sérieux cohabitent.    |
-| | **Maître de la réalité** | 1971 | Evolution des basses profondes avec réglage drop D. Le père du doom metal.      |
+| | **Maître de la réalité** | 1971 | Evolution des basses lourdes avec réglage drop D. Le père du doom metal.      |
 | **Violet profond** | **Violet profond dans le rock** | 1970 | Un chef-d’œuvre qui a posé les bases du hard rock. Une fusion de beauté compositionnelle classique et de puissance explosive.                    |
 | | **Boule de feu** | 1971 | Plus agressif et expérimental. Il y a un fort changement de tempo et une sensation de blues.                  |
 | | **Tête de machine** | 1972 | Un niveau de perfection qui reste dans l’histoire du rock. Le nombre d’or du riff et du groove.          |

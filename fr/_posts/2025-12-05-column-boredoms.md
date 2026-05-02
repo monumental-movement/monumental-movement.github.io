@@ -11,7 +11,7 @@ tags:
 - Noise
 - Trance
 - Tribal
-title: '[Chronique] L''ennui : la trajectoire du bâtisseur du chaos et de l''univers
+title: '[Chronique] Les ennuis : la trajectoire du bâtisseur du chaos et de l''univers
   en expansion'
 ---
 
@@ -19,10 +19,10 @@ title: '[Chronique] L''ennui : la trajectoire du bâtisseur du chaos et de l''u
 
 ## Prologue : Qui étaient les Ennuis ?
 
-Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment leur forme de travail, leurs performances live et leurs unités dérivées se sont développées.
+Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment sa forme d'œuvre, ses performances live et ses unités dérivées se sont développées.
 
 Dans l'histoire de la musique japonaise, les **ennuis** occupent une position unique en tant qu'entité qui ne peut être pleinement expliquée dans aucun contexte.
-Formés à Osaka à la fin des années 1980, ils ont influencé les musiciens du monde entier, se transformant en ensembles noise, hardcore, avant-gardiste, psychédélique et plus tard rythmiques.
+Formés à Osaka à la fin des années 1980, ils ont influencé les musiciens du monde entier, se transformant en ensembles noise, hardcore, avant-garde, psychédélique et plus tard rythmiques.
 
 Parce que Boredoms transcende les frontières des genres, il ne peut pas être capturé dans un simple récit historique. Cependant, leurs activités étaient certes liées à leur époque, et en même temps déconnectées d'elle.
 
@@ -283,3 +283,10 @@ Si vous y jetez un coup d'œil, y compris l'histoire personnelle d'OOIOO et d'Ey
 
 ---
 
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmCzcTwOQrE?si=DxJJbvyyGeqMRTXy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

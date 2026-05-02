@@ -87,7 +87,7 @@ En conséquence, nous avons obtenu une « basse fréquence tridimensionnelle » 
 
 La caisse claire est construite à l'aide d'un circuit discret + méthode de mise en forme du bruit, et le charley est construit à l'aide d'une source de bruit analogique qui comprend un micro-retard infime.
 Il a réalisé une « coexistence de réalisme acoustique et d'abstraction » qui va au-delà de la reproduction du 808/909.
-En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient une riche sensation de séparation même sur les moniteurs de studio.
+En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient un riche sentiment de séparation même sur les moniteurs de studio.
 
 ---
 
@@ -100,7 +100,7 @@ Le fondateur de Roland, **Ikutaro Kakei**, a dit un jour :
 Le TR-1000 hérite de cette philosophie dans le contexte de l'ère de l'IA.
 La fonction « Humaniser » analyse l'historique des performances et modélise les habitudes du joueur, pas seulement les fluctuations de tempo.
 Il « apprend » le rythme du bout des doigts du joueur et le restitue sous forme de son.
-En d’autres termes, le TR-1000 est aussi une « machine qui écoute les performances humaines ».
+En d’autres termes, le TR-1000 est aussi une « machine à l’écoute des performances humaines ».
 
 Ce dialogue a évolué depuis l'époque où le 808 offrait un « groove mécanique » à un « rythme résonant ».
 

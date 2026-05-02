@@ -15,7 +15,7 @@ title: Fable - Quand il est parti (il n'y a pas de soleil)
 
 Gez Dewar, également connu sous le nom de Fable, est un producteur de musique et de télévision britannique. Également connu sous le nom d'Heliotropic, une unité avec Nick Hale.
 
-Sorti en 2000 par le label britannique 3 Beat Music Ltd, "When He's Gone" est un morceau de transe qui échantillonne "Ain't No Sunshine" de Bill Withers et présente le chant de Carolyn Harding, qui a commencé sa carrière en tant que chanteuse house au début des années 80. scène Paradise Garage.
+Sorti en 2000 par le label britannique 3 Beat Music Ltd, "When He's Gone" est un morceau de transe qui échantillonne "Ain't No Sunshine" de Bill Withers et présente le chant de Carolyn Harding, qui a débuté sa carrière en tant que chanteuse house au début des années 80. scène Paradise Garage.
 
 #### Liste des chansons
 ```md

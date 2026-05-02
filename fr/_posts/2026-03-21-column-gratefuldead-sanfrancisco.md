@@ -87,7 +87,7 @@ Ce symbolisme deviendra plus tard profondément lié à leur musique et à la sp
 
 ### Improvisation et chaos
 
-Sur Acid Tests, les Grateful Dead démantelent la structure des chansons traditionnelles. Il n’y a pas de set list et les performances changent en fonction de la situation.
+Sur Acid Tests, les Grateful Dead démantelent les structures des chansons traditionnelles. Il n’y a pas de set list et les performances changent en fonction de la situation.
 
 Le public n’était pas non plus une présence passive, mais était impliqué dans la musique en tant que partie intégrante de l’espace tout entier.
 
@@ -105,7 +105,7 @@ Ce format aurait une influence majeure sur la culture live ultérieure.
 
 ### Fluidité de la chanson
 
-Les chansons de Grateful Dead n'ont pas de forme fixe. La structure d’une même chanson change à chaque fois qu’elle est interprétée, montrant parfois des évolutions complètement différentes.
+Les chansons de Grateful Dead n'ont pas de forme fixe. La structure d’une même chanson change à chaque fois qu’elle est interprétée, montrant parfois des développements complètement différents.
 
 Cette fluidité crée une « expérience unique » pour le public.
 
@@ -121,7 +121,7 @@ L'improvisation est obtenue non seulement par les compétences individuelles mai
 
 ### Défis techniques
 
-Introduit dans les années 1970, le « Wall of Sound » est un immense système audio combinant des centaines de haut-parleurs. L'objectif était de minimiser la distorsion et de produire un son uniforme, même dans les grandes salles.
+Introduit dans les années 1970, le « Wall of Sound » est un énorme système de sonorisation combinant des centaines de haut-parleurs. L'objectif était de minimiser la distorsion et de produire un son uniforme, même dans les grandes salles.
 
 ### Modifications de l'expérience en direct
 

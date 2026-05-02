@@ -21,14 +21,14 @@ title: '[Chronique] Qu''est-ce que la deep house ? ─ Explorer la profondeur du
 
 Texte : mmr｜Thème : Deep House, un genre qui continue d'évoluer tranquillement tout en intégrant l'histoire et le contexte.
 
-La deep house est une variété de house qui a germé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
+La deep house est une sorte de house qui a émergé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
 
 
 <hr>
 
 ### Contexte et développement de la naissance
 
-**1985-1990 : tôt tôt (Chicago/NJ)**
+**1985-1990 : début précoce (Chicago/NJ)**
 
 [Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) présente le prototype avec "Can You Feel It" et "Mystery of Love". Suivant le flux de [Frankie Knuckles](https://amzn.to/4nUwWJ4) et [Marshall Jefferson](https://amzn.to/3KOf4AV), une fusion de la douce sensation soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) et [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
@@ -125,7 +125,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Code** : "Marge douce" avec maj7, min9, sus2/4, 6th. Même les deux notes fondamentales + 9ème sont « profondes ».
 
-**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charley est légèrement ouvert et fin.
+**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charleston est légèrement ouvert et fin.
 
 **Groove** : « Respirez » avec un léger swing (+5 à +15 %) et des changements infimes de vélocité.
 

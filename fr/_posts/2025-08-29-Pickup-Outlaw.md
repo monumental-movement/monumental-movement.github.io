@@ -24,7 +24,7 @@ title: Récupérez les œuvres d'Outlaw
 ### Merzbow – Merzbird
 <a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Bruit expérimental
 
@@ -55,7 +55,7 @@ Sentiment de hors-la-loi : le défi qui élève la destruction sonore au rang d'
 ### Joey Beltram – The Rising Sun (CD, Mix Techno)
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Mix Techno
 
@@ -91,7 +91,7 @@ Sentiment d'outlaw : l'esprit de la techno comme battement de cœur de l'undergr
 ### Divers – Compilation Trésor Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Techno allemande / Compilation
 
@@ -129,7 +129,7 @@ Sentiment de hors-la-loi : une accumulation culturelle anti-mainstream où vous
 ### Trésor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Techno allemande / Compilation
 
@@ -261,7 +261,7 @@ B. Cosmic Minefield
 ### Skrillex – Monstres effrayants et jolis sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Dubstep / Electro / Prog House
 

@@ -16,7 +16,7 @@ title: Towa Tei – Un EP de félicitations pour l’anneau
 
 Towa Tei (ancien membre de Deee-Lite) est un producteur de musique, DJ et artiste japonais connu pour son style musical unique qui combine des genres tels que la house, l'électronique et la techno.
 
-"A Ring" est une chanson avec un rythme dansant et une mélodie entraînante, et l'arrangement sonore unique et l'échantillonnage créatif de Towa Tei se démarquent.
+"A Ring" est une chanson avec un rythme dansant et une mélodie entraînante, mettant en valeur l'arrangement sonore unique et l'échantillonnage créatif de Towa Tei.
 
 "Félicitations!" est une chanson avec des éléments plus expérimentaux et électroniques, reflétant le large éventail de styles musicaux et l'approche créative de Towa Tei.
 

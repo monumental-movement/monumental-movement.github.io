@@ -9,11 +9,11 @@ permalink: /fr/cassia-eller-participacao-especial/
 tags:
 - Pops
 - Rock
-title: Cássia Eller – Participação Especial
+title: Cássia Eller – Participaçāo Especial
 ---
 
 
-Une collection de duos de Kasia Herrere et d'artistes célèbres du MPB et de la pop brésilienne. Il est sorti en 2002, après sa mort.
+カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
 
 #### Liste des chansons
 ```md

@@ -88,7 +88,7 @@ De nombreux compositeurs maintiennent un centre tonal clair, mais ne supposent p
 
 Ce traitement harmonique n'est pas une reproduction du romantisme du XIXe siècle, mais peut être compris comme un choix pour assurer la stabilité acoustique.
 
-### Conception sonore
+### Conception des tons
 
 Dans le néo-minimalisme, le timbre est un élément aussi important que la mélodie et l’harmonie, voire plus. Des pianos en feutre, des pianos préparés, des instruments à cordes avec des instruments assourdis et des réverbérations traitées électroniquement sont utilisés, et la durée et la décroissance de la résonance elle-même forment la forme.
 

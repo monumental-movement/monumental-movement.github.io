@@ -30,7 +30,7 @@ Ce n'est même pas du rock.
 Ce n'est même pas du jazz.
 Ce n'est même pas du bruit.
 
-Cependant, elle a laissé son empreinte dans tous les domaines.
+Mais elle a laissé son empreinte dans tous les domaines.
 
 Depuis les années 1970, il est actif au centre de la musique underground japonaise, passant à l'improvisation, au noise, au psychédélique, au drone et au chant folk.
 
@@ -241,7 +241,7 @@ Les performances live impliquent souvent de longues performances d'improvisation
 
 ### Son ambiant et voix douce
 
-La musique de Keiji Haino est souvent racontée à travers des guitares rugissantes et une improvisation intense. Mais il y a un autre aspect important dans son travail. C'est un monde acoustique calme.
+La musique de Keiji Haino est souvent racontée à travers des guitares rugissantes et une improvisation intense. Cependant, il y a un autre aspect important dans son travail. C'est un monde acoustique calme.
 
 Sa pièce de percussion solo «Everything» en est un exemple typique.
 
@@ -303,7 +303,7 @@ Ses activités sont celles de DJ Keiji Haino.
 
 Dans ce style, ils se produisent en jouant de la musique du monde entier sur CDJ.
 
-La musique sélectionnée ne se limite pas au genre.
+La musique sélectionnée n'est limitée à aucun genre.
 
 musique folklorique
 rocher
@@ -364,7 +364,7 @@ Un drone se propage lentement dans l’espace, et des voix, du bruit, de la guit
 Ses performances de vielle créent le sentiment que l'espace lui-même commence à trembler, plutôt que les sons se déplaçant comme une mélodie.
 Le son soutenu transforme la sensation du temps et conduit l'auditeur dans un état de concentration tranquille.
 
-> Même si d'anciens instruments sont utilisés, les sons qui y sont joués sont toujours présents.
+> Même si des instruments anciens sont utilisés, les sons qui y sont joués sont toujours présents.
 
 ---
 
@@ -424,7 +424,7 @@ En rencontrant des sons inconnus, ma musique change aussi.
 
 ### Flux d'œuvres solos et majeures
 
-Keiji Haino a publié un grand nombre d’œuvres enregistrées depuis la fin des années 1970 jusqu’à nos jours.
+Keiji Haino a sorti une énorme quantité d’œuvres enregistrées de la fin des années 1970 à nos jours.
 Le format est diversifié, comprenant des œuvres en studio, des enregistrements live, des éditions limitées et des collaborations, et le nombre total se chiffrerait en centaines.
 
 Ce qui suit est un flux d'œuvres importantes qui sont largement connues parmi elles.
@@ -777,7 +777,7 @@ Là, le mot genre perd son sens.
 
 Il n’est pas exagéré de dire que l’existence même de Keiji Haino est devenue un genre musical.
 
-> Sa musique n'est pas à catégoriser, mais à expérimenter.
+> Sa musique n'est pas à catégoriser, mais à vivre.
 
 ---
 
@@ -852,3 +852,11 @@ En continuant à dépasser les frontières existantes, ils ont montré les possi
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QqNCBj6OvsA?si=3ImcXtCiLh5B4Ff_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

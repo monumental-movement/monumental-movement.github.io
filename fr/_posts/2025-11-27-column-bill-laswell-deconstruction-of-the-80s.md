@@ -17,7 +17,7 @@ title: '[Chronique] Bill Laswell & Friends : Déconstruction des années 80 - Le
 
 ## Pourquoi avoir choisi le titre « Déconstruction des années 80 » ?
 
-Une longue chronique qui analyse à partir de faits uniquement la « déconstruction et reconstruction acoustique » que pratiquait Bill Laswell dans les années 1980. À propos de Material, « Future Shock » de Herbie Hancock, Last Exit, la connexion à la musique du monde, et bien plus encore.
+Une longue chronique qui utilise uniquement des faits pour analyser la « déconstruction et reconstruction acoustique » que pratiquait Bill Laswell dans les années 1980. À propos de Material, « Future Shock » de Herbie Hancock, Last Exit, la connexion à la musique du monde, et bien plus encore.
 
 
 Les activités musicales de Bill Laswell dans les années 1980 étaient une série de « déconstructions et reconstructions », traversant librement les genres, les cultures, les formes de performance et les frontières nationales.
@@ -60,7 +60,7 @@ La raison pour laquelle Laswell mérite d’être qualifié de « déconstructio
 - Les œuvres sorties ont brouillé la définition du genre.
 
 Dans cet article, nous présentons Bill Laswell et les musiciens qui l'entourent.
-**La manière dont l'acoustique des années 1980 a été « déconstruite et réorganisée »** sera suivie sur la base de faits.
+**La façon dont l'acoustique des années 1980 a été « déconstruite et réorganisée »** sera suivie sur la base de faits.
 
 ---
 
@@ -110,7 +110,7 @@ Laswell s'est imposé comme « producteur, interprète et monteur ».
 
 # 4. Réorganisation des musiques du monde : Connecter l’Afrique à l’Asie
 La « World Music Compilation » de Laswell est différente de la musique du monde commerciale ;
-Il s’agira d’une « recomposition de la culture acoustique » dirigée par des artistes.
+Il s’agira d’une « recomposition de la culture acoustique » menée par des artistes.
 
 **Faits clés :**
 - Travail d'enregistrement et de montage de Fela Kuti

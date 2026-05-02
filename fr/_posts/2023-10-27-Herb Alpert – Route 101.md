@@ -14,9 +14,9 @@ title: Herb Alpert – Route 101
 ---
 
 
-"Route 101" de Herb Alpert est un extrait de l'album "Fandango" sorti en 1982.
+Herb Alpert（ハーブ・アルパート）の「Route101」は、1982年リリースのアルバム「Fandango」からのシングルカット。
 
-"Route 101" a atteint la quatrième place du classement adulte contemporain du magazine Billboard la même année.
+「Route101」は、同年ビルボード誌のアダルト・コンテンポラリー・チャートで4位を記録。
 
 #### Liste des chansons
 ```md

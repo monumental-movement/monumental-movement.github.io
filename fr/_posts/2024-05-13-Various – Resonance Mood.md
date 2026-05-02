@@ -10,13 +10,13 @@ tags:
 - Goa Trance
 - Trance
 - 90s
-title: Divers – Ambiance Résonance
+title: Various – Resonance Mood
 ---
 
 
-MATSURI PRODUCTIONS est un label britannique de trance goa fondé en 1994 par DJ TSUYOSHI et John Perloff.
+MATSURI PRODUCTIONSは、1994年にDJ TSUYOSHIがJohn Perloffが設立したUKのゴアトランスレーベル。
 
-Le label a été actif jusqu'en 1999, et depuis 2013 DJ TSUYOSHI et DJ YUTA sortent des compilations et trance psychédélique sous le nom de MATSURI DIGITAL.
+レーベルは1999年まで活動し、2013年からはDJ TSUYOSHIとDJ YUTAがMATSURI DIGITAL名義でコンピレーションやサイケデリックトランスをリリースしている。
 
 #### Liste des chansons
 ```md

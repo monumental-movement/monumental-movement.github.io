@@ -11,17 +11,16 @@ tags:
 - Post-Punk
 - Dance-Punk
 - 70s
-title: '[Chronique] James Chance and the Contortions : les pionniers de No Wave et
-  leur analyse musicale'
+title: 【コラム】 James Chance and the Contortions：ノー・ウェイヴの先駆者たちとその音楽解析
 ---
 
 
 ## Introduction
 
 
-Texte : mmr｜Thème : la vie de James Chance, les activités de Contortions, ainsi que la structure musicale, l'analyse des rythmes et le style d'interprétation de chaque album et chanson.
+文：mmr｜テーマ：James Chance の生涯、Contortions の活動、そして各アルバムや曲における音楽構造、ビート分析、演奏スタイルについて
 
-À la fin des années 1970, le centre-ville de New York formait un espace musical unique où se croisaient les impulsions du punk et l’esprit d’improvisation du jazz d’avant-garde. En son cœur, **James Chance and the Contortions** a poussé la fusion de l'avant-garde et du dance-punk à l'extrême.
+1970年代後半、ニューヨークのダウンタウンはパンクの衝動と前衛的ジャズの即興精神が交錯する特異な音楽空間を形成していた。その中心で、**James Chance and the Contortions** は前衛音楽とダンス・パンクの融合を極限まで推し進めた。  
 
 ---
 
@@ -40,24 +39,24 @@ color: #fff;
 
 
 
-## 1. Les débuts de la vie et le parcours musical de James Chance
+## 1. James Chance の生い立ちと音楽背景
 
-James Chance (de son vrai nom James Siegfried) est né dans le Wisconsin, aux États-Unis, en 1953 et a étudié le piano. Influencé par le free jazz, notamment Ornette Coleman et Albert Ayler, il vise des expressions qui ne sont pas liées aux formes musicales existantes.
-Il a déménagé à New York en 1975 et après avoir joué dans des premiers groupes tels que Flaming Youth et Teenage Jesus and the Jerks, il a formé **Contortions**, un groupe qui a réalisé sa vision.
+James Chance（本名 James Siegfried）は1953年、アメリカ・ウィスコンシン州で生まれ、ピアノを学ぶ。フリージャズ、特にオーネット・コールマンやアルバート・アイラーの影響を受け、既存の音楽形式に縛られない表現を志向した。  
+1975年にニューヨークへ移住し、Flaming Youth や Teenage Jesus and the Jerks などの初期バンド活動を経て、自らのビジョンを具現化するバンド **Contortions** を結成する。
 
 ---
 
-## 2. La formation des Contorsions et le cœur de No Wave
+## 2. Contortions 結成とノー・ウェイヴの中心
 
-En 1977, Contorsions se forme autour de James Chance. Les membres sont :
+1977年、Contortions は James Chance を中心に結成される。メンバーは以下の通り：
 
-- **Jody Harris** (guitare)
-- **Pat Place** (guitare slide)
-- **Don Christensen** (batterie)
-- **George Scott III** (basse)
-- **Adele Bertei** (clavier/choeur)
+- **Jody Harris**（ギター）  
+- **Pat Place**（スライド・ギター）  
+- **Don Christensen**（ドラム）  
+- **George Scott III**（ベース）  
+- **Adele Bertei**（キーボード／コーラス）
 
-Contorsions est actif principalement dans des live house new-yorkais tels que CBGB et Art Space. En 1978, il apparaît sur la compilation « No New York » produite par Brian Eno et devient un symbole de la no wave.
+Contortions は、CBGB、アート・スペースなどニューヨークのライブハウスを中心に活動。1978年にはブライアン・イーノがプロデュースしたコンピレーション『No New York』に参加し、ノー・ウェイヴの象徴的存在となった。
 
 <div class="mermaid">
 
@@ -74,34 +73,34 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 ---
 
-## 3. Analyse du premier album Acheter (1979)
+## 3. デビューアルバム Buy（1979）分析
 
-**Buy** est le premier album officiel sous le nom de Contorsions. L'album global est une fusion de jazz d'avant-garde, de funk et de post-punk.
+**Buy** は Contortions 名義の公式デビューアルバム。全体的に前衛ジャズ、ファンク、ポスト・パンクが融合している。  
 
-### Chanson représentative « Contorsion Yourself »
+### 代表曲「Contort Yourself」
 
-- **Analyse structurelle** :
-- L'intro commence par un rythme irrégulier de doubles croches à la batterie
-- La ligne de basse est répétitive et funky, et le saxophone tourbillonne librement.
-- **Analyse des battements** :
-- Keynote 4/4, mais le placement décalé de la caisse claire et les changements d'accent donnent toujours une impression d'oscillation.
-- Met l'accent sur l'improvisation tout en conservant une sensation de danse
+- **構造分析**：  
+  - イントロはドラムの不規則な16分音符リズムから開始  
+  - ベースラインは反復的でファンク的、サックスが自由に旋回する
+- **ビート分析**：  
+  - 4/4 基調だが、スネアのオフビート配置やアクセントの変化により、常に揺れを感じさせる  
+  - ダンス感覚を保ちながら即興性を強調
 
-### Chanson « Fais fondre toi-même »
+### 曲「Melt Yourself Down」
 
-- **Caractéristiques** : Le riff piloté par le saxophone se répète tout au long
-- **Beat** : la batterie et la basse répètent un motif funk précis et serré
-- **Effet sonore** : La cacophonie des guitares et des claviers crée une sensation de tension.
+- **特徴**：サックス主導のリフが全編を通じて反復  
+- **ビート**：ドラムとベースが正確にタイトなファンクパターンを繰り返す  
+- **サウンド的効果**：ギターやキーボードの不協和音が緊張感を演出
 
 ---
 
-## 4. James White et les Noirs Nom : Off White (1979)
+## 4. James White & the Blacks 名義：Off White（1979）
 
-**Off White**, sorti sous le pseudonyme de Contortions, combine des éléments disco avec la nature improvisée de la no wave.
+Contortions の別名義で発表された **Off White** は、ディスコ的要素とノー・ウェイヴの即興性を融合。  
 
-- « Flexi Disc » ajoute le disco quatre sur le sol au rythme funk, en conservant une structure qui permet au public de danser.
-- Les paroles reflètent des problèmes sociaux, raciaux et identitaires
-- La ligne de basse est simple, mais le saxophone et la guitare harmoniquement improvisés sont impliqués.
+- 「Flexi Disc」ではファンクリズムにディスコの四つ打ちを加え、観客が踊れる構造を保持  
+- 歌詞は社会・人種・アイデンティティ問題を反映  
+- ベースラインはシンプルながら、ハーモニックに即興サックスとギターが絡む
 
 <div class="mermaid">
 
@@ -117,15 +116,15 @@ D --> G["挑発的リズム + ダンス性"]
 
 ---
 
-## 5. Enregistrement en direct et analyse des performances
+## 5. ライヴ録音とパフォーマンス分析
 
 ### Paris 1980 – Live aux Bains Douches
 
-- Principalement des phrases d'improvisation au saxophone
-- La batterie utilise souvent des accents de caisse claire irréguliers pour créer une tension auditive
-- La guitare joue un rôle de bruit, pas de riff, et fonctionne comme une masse sonore.
+- サックスの即興フレーズが中心  
+- ドラムは不規則なスネアアクセントを多用し、聴覚的緊張を演出  
+- ギターはリフではなくノイズ的役割で、音の塊として機能
 
-### Vivre à New York (1981)
+### Live in New York（1981）
 
 - Met l'accent sur les éléments dance/punk
 - Notes de saxophone continues et lignes de basse répétées pour susciter une réponse physique du public

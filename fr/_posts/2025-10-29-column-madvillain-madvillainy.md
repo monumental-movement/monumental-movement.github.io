@@ -23,7 +23,7 @@ title: '[Chronique] Madvillain « Madvillainy » ─ Mythe hip-hop du 21e siècl
 Au printemps 2004, un album sorti par un petit label de Los Angeles, **Stones Throw Records**, bouleversait discrètement les idées reçues du hip-hop.
 **Madvillain [『Madvillainy』](https://amzn.to/3JhySfH)**――それは、**ラップアルバムでありながら、詩集でもあり、電波を通じたサウンド・コラージュでもある。**
 
-Au début du XXIe siècle, le hip-hop américain s'oriente vers l'extravagante « culture de marque » symbolisée par Jay-Z et 50 Cent. D'un autre côté, cet album parle d'anonymat et de poétique des fragments, et il a de profondes racines dans l'underground du monde.
+Au début du XXIe siècle, le hip-hop américain s'oriente vers l'extravagante « culture de marque » symbolisée par Jay-Z et 50 Cent. D’un autre côté, cet album parle d’anonymat et de poétique des fragments, et il a de profondes racines dans l’underground du monde.
 Ce qui captive l'auditeur n'est pas le degré de perfection, mais plutôt la « beauté inachevée ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ru2IrTY2UG0?si=TOIzzbHB9GSmWrvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -81,9 +81,9 @@ Les caractéristiques acoustiques peuvent être résumées dans les trois points
 
 1. **Time Disconnect** : La chanson est courte et se termine brusquement. Les transitions sont volontairement brutales.
 2. **Compression spatiale** : minimisez la réverbération et le traitement spatial pour rapprocher la distance entre les échantillons de zéro.
-3. **Distorsion de fréquence** : crée un **son de type VHS** avec les hautes fréquences supprimées en utilisant largement les effets SP-303.
+3. **Distorsion de fréquence** : Crée un **son de type VHS** avec les hautes fréquences supprimées en utilisant largement les effets SP-303.
 
-Il s'agit également d'une « **reconstitution de disque** » par Madlib. Considérant le bruit et les crépitements des vieux enregistrements comme des « composants » plutôt que des « matériaux », il a transformé le hip-hop en une archéologie du son.
+Il s'agit également d'une « **reconstitution de disque** » par Madlib. Considérant le bruit et les crépitements des vieux enregistrements comme des « éléments constitutifs » plutôt que des « matériaux », il a transformé le hip-hop en une archéologie du son.
 
 ---
 
@@ -104,7 +104,7 @@ Par exemple, le passage suivant :
 
 > "Le reste est vide, sans cerveau sauf le nerd intelligent"
 
-Les rimes internes de « vide », « cerveau » et « intelligent » s’enchaînent, transcendant le contexte et créant un sens en elles-mêmes.
+Les rimes internes de « vide », « cerveau » et « intelligent » sont enchaînées, transcendant le contexte et créant un sens en elles-mêmes.
 Son rap fonctionne comme un dispositif sonore plutôt que comme de la poésie.
 
 ### Tout en majuscules
@@ -121,7 +121,7 @@ La photo de la pochette (prise par Eric Coleman) est un gros plan du masque mét
 La composition, dans laquelle la moitié du visage est immergée dans l’ombre, symbolise l’écart entre anonymat et exposition, mythe et réalité.
 Ce masque servait à la fois de moyen d’expression en tant qu’artiste noir et de forme de résistance aux médias commerciaux.
 
-Le masque de DOOM est une référence de la culture pop au Dr Doom de Marvel, mais plus profondément, il représente un renversement de pouvoir et d'identité.
+Le masque de DOOM est une référence de la culture pop au Dr. Doom de Marvel, mais plus profondément, il représente un renversement de pouvoir et d'identité.
 Il y a ici un paradoxe : « méchant = personne qui a la liberté de parler »**.
 
 ---

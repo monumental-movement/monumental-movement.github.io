@@ -11,19 +11,19 @@ tags:
 - Experimental
 - Lo-Fi
 - Rock
-title: '[Chronique] Ween — Un univers étrange né d''un garage de banlieue'
+title: 【コラム】 Ween — 郊外のガレージから生まれた奇妙な宇宙
 ---
 
 
-## « Qu'est-ce que Ween ? »
+## 「Weenとは？」
 
-Texte : mmr | Thème : Boognish, un dieu étrange né dans un garage de banlieue américaine. De sa descente vers l'alchimie lo-fi et la mythologie des grands fonds, The Mollusk, retrace l'univers musical dessiné par les étranges frères Ween.
+文：mmr｜テーマ：アメリカ郊外のガレージで生まれた奇妙な神Boognish。その降臨からローファイの錬金術、そして深海の神話『The Mollusk』まで、Weenという異形の兄弟が描いた音楽宇宙を辿る
 
 
-> Un garage niché dans la banlieue américaine.
-> De ces ténèbres est né un dieu : Boognish.
-> ——C'est la musique elle-même qui saute d'un genre à l'autre en riant.
-> Boognish's smile contient des morceaux de musique du monde entier.
+> アメリカの郊外にひっそりと佇むガレージ。  
+> その暗がりから、ひとつの神が生まれた——Boognish。
+> ——それは、ジャンルを笑いながら飛び越える音楽そのもの。
+> Boognishの微笑みの中に、世界中の音楽の断片が詰まっている。
 
 ---
 
@@ -40,172 +40,172 @@ color: #fff;
 </style>
 
 
-## Le mythe étrange du frère Ween – Une contre-attaque depuis la banlieue américaine
+## Weenという異形の兄弟神話 — アメリカ郊外からの逆襲
 
-### L'avènement de Boognish, le dieu du polypropylène
+### ポリプロピレンの神・Boognishの降臨
 
-Un quartier résidentiel calme de Pennsylvanie au milieu des années 1980.
-Deux garçons s'emparent d'une cassette et d'un enregistreur 4 pistes et entament un étrange rituel.
-**Aaron Freeman (Gene Ween)** et **Mickey Melchiondo (Dean Ween)**.
+1980年代半ば、ペンシルベニア州の静かな住宅街。  
+二人の少年がカセットテープと4トラックレコーダーを手に、奇妙な儀式を始めた。  
+**Aaron Freeman（Gene Ween）**と**Mickey Melchiondo（Dean Ween）**である。
 
-L'existence de « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
-Dieu fictif du rire et de la folie, il était un symbole de la musique de Ween elle-même.
-Les bruits, les voix étranges et les changements de tonalité inhabituels qui étaient dispersés dans les enregistrements personnels ont tous été bénis par Boognish.
+彼らが創り出した“**Boognish**”という存在は、単なるロゴやキャラクターではない。  
+笑いと狂気を司る架空の神であり、Weenの音楽そのものの象徴だった。  
+宅録作品に散りばめられたノイズ、奇声、異常な転調のすべてが、Boognishの加護を受けていた。
 
-> "Boognish n'est pas une blague. Il est tout ce que nous faisons."
-> — *Entretien avec Dean Ween, 2003*
+> “Boognish isn’t a joke. He’s everything we do.”  
+> — *Dean Ween Interview, 2003*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HV7wiRUzR0U?si=wnxJh3oh2N9NAl2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Gene et Dean – frères imaginaires ou doubles spirituels ?
+### ジーンとディーン — 架空の兄弟か、精神の分身か
 
-Gène et Dean.
-Bien que la sonorité de leurs noms suggère « frères », ils ne sont pas liés par le sang.
-Mais musicalement, ils étaient presque comme des jumeaux.
-Gene est l'incarnation de l'émotion et du chaos, Dean est le maître de la construction et de l'artisanat.
-Au moment où les deux entrent en collision, le chaos et la magie typiques de Ween naissent.
+GeneとDean。  
+その名の響きは「兄弟」を想起させるが、血の繋がりはない。  
+しかし音楽的には、ほとんど双子のように結びついていた。  
+Geneは感情とカオスの化身、Deanは構築と技巧の職人。  
+ふたりがぶつかる瞬間、Ween特有の混沌と魔法が生まれる。
 
 [『The Pod』](https://amzn.to/46LSWjm)（1991）では、安物マイクと古びた4トラックが生み出す  
-**Règles « Dirty Beauty »**. Voix déformée, batterie étouffée,
-Pourtant, tout cela était parfaitement Ween.
-C'est comme si Boognish vivait à l'intérieur de l'équipement.
+**“汚れた美”**が支配している。歪んだボーカル、くぐもったドラム、  
+それでも全体は完璧にWeenであった。  
+まるでBoognishが機材の中に宿っていたかのようだ。
 
 ---
 
-## L'alchimie à l'ère de la lo-fi — années 1980-début des années 1990
+## ローファイ時代の錬金術 — 1980〜1990年代初期
 
-> "Je voulais un son qui ressemble à celui d'un sous-sol à 3 heures du matin."
-> — *Gene Ween, Entretien de 1992*
+> 「深夜3時の地下室で鳴っているような音が欲しかった。」  
+> — *Gene Ween, 1992 Interview*
 
-### L'univers créé par les magnétophones
+### カセット・レコーダーが生んだ宇宙
 
-Le son des débuts de Ween était la magie de l'enregistrement à domicile sur **cassette 4 pistes MTR**.
-Laisse le bruit et la distorsion intacts. Ce n’était pas de la « saleté », c’était de la « vérité ».
-Leurs enregistrements maison sont une sorte d’alchimie lo-fi.
-The Pod est un mélange bizarre de rires morbides et de structure psychédélique.
-Cela rendait les auditeurs anxieux, mais en même temps cela leur procurait un sentiment de plaisir addictif.
+初期Weenのサウンドは、**4トラック・カセットMTR**による宅録の魔法だった。  
+ノイズも歪みも消さずに残す。それは“汚さ”ではなく、“真実”だった。  
+彼らの自宅録音は、いわばローファイの錬金術。  
+『The Pod』では、病的な笑いとサイケデリックな構造が奇妙に混ざり合う。  
+聴く者を不安にさせながら、同時に中毒的な快感をもたらした。
 
-### Contact avec la scène underground
+### アンダーグラウンド・シーンとの接点
 
-Des labels indépendants comme Homestead et Shimmy Disc ont repris la folie de Ween.
-Leurs sources sonores se répandirent comme une circulation souterraine et finirent entre les mains d’excentriques.
-Durant cette période, Ween vit « entre farces et musique expérimentale ».
+HomesteadやShimmy Discといったインディ・レーベルが、Weenの狂気を拾い上げた。  
+彼らの音源は地下流通のように広まり、奇人たちの手に渡っていった。  
+この時代、Weenは「悪ふざけと実験音楽の狭間」で生きていた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzYykIA1xVg?si=9q0uPXM92Hy3hH43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## ``Chocolat et Fromage'' : Le point de bascule entre vulgarité et intellectuel
+## 『Chocolate and Cheese』：下品と高尚の臨界点
 
-> "Le genre n'a pas d'importance. J'ajoute juste toute la musique que j'aime."
-> — *Dean Ween, Entretien de 1994*
+> 「ジャンルなんて関係ない。好きな音楽を全部ぶち込むだけさ。」  
+> — *Dean Ween, 1994 Interview*
 
 1994年の[『Chocolate and Cheese』](https://amzn.to/46LSWQo)は、  
-C'est le premier chef-d'œuvre de Ween sorti de la caverne lo-fi et entré en studio.
-Pop, funk, country, rock progressif, soul... tout s'entrechoque,
-Vulgaire et noble cohabitent miraculeusement.
+Weenがローファイの洞窟からスタジオへ飛び出した最初の傑作だ。  
+ポップ、ファンク、カントリー、プログレ、ソウル……すべてが衝突し、  
+下品と高尚が奇跡的に共存する。
 
-Le groove sensuel de « **Voodoo Lady** »
-La fausse nostalgie de la « **Liberté de 76** ».
-Ils sont nés du même cœur.
-«Ça me fait rire, mais ça me fait aussi pleurer.» Cette antinomie était au cœur de Ween.
+“**Voodoo Lady**”の官能的なグルーヴと、  
+“**Freedom of ’76**”の偽りの郷愁。  
+それらは同じ心臓から生まれている。  
+「笑えるのに泣ける」、この二律背反こそがWeenの核心だった。
 
-Quand MTV a présenté "**Push th' Little Daisies**"
-Les téléspectateurs américains étaient confus.
-Est-ce un gag ? Est-ce un génie ?
-La réponse peut encore rester vague.
-Parce que Ween était les deux.
+MTVが“**Push th’ Little Daisies**”を取り上げたとき、  
+アメリカの視聴者は混乱した。  
+これはギャグなのか？天才なのか？  
+答えは今でも曖昧なままでいい。  
+Weenはその両方だったのだから。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0Xo04QhDOk?si=fNmzlJoYOsegFJJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Nostalgie country et étrange orthodoxie — « 12 Golden Country Greats »
+## 田舎の郷愁と奇妙な正統派 — 『12 Golden Country Greats』
 
-> "Je ne me moque pas de la musique country. Je l'aime vraiment trop."
-> — *Dean Ween, Entretien de 1996*
+> 「カントリーをバカにしてるんじゃない。本気で好きすぎるんだ。」  
+> — *Dean Ween, 1996 Interview*
 
 [『12 Golden Country Greats』](https://amzn.to/470mzMs)は、  
-Un album « faux country » composé de seulement 12 chansons.
-Mais les gens qui jouaient étaient de vrais musiciens de session de Nashville.
-Ween effondre le format country avec eux,
-Il a créé un chef-d’œuvre qui danse entre affection et ironie.
-Le son est à la fois drôle et suffisamment chaleureux pour vous faire monter les larmes aux yeux.
+わずか12曲で構成された“偽カントリー”アルバム。  
+しかし演奏しているのは本物のナッシュビル・セッション・ミュージシャンたちだった。  
+Weenは彼らと共に、カントリーの形式を崩壊させ、  
+愛情と皮肉のあいだで踊るような奇作を生んだ。  
+そのサウンドは、笑えるのに涙が出るほど温かい。
 
 ---
 
-## Mode groupe et mythe des profondeurs marines du « mollusque »
+## バンド・モードと『The Mollusk』の深海神話
 
-> "L'océan est sans limites. Nous voulons que notre musique soit comme ça aussi."
-> — *Gene Ween, Entretien de 1997*
+> 「海は無限だ。私たちの音楽もそうでありたい。」  
+> — *Gene Ween, 1997 Interview*
 
 [『The Mollusk』](https://amzn.to/48VBtpT)は、  
-C'est à ce moment-là que l'univers musical de Ween s'épanouit à son apogée.
-Un morceau monumental de pop psychédélique avec pour thème la mythologie océanique, mené par « **Ocean Man** ».
-La romance de Brian Wilson et la folie du capitaine Beefheart,
-C'est un album qui donne l'impression d'être enfermé dans une seule coque.
+Weenの音楽的宇宙が最も豊かに広がった瞬間だ。  
+“**Ocean Man**”を筆頭に、海洋神話を題材としたサイケデリック・ポップの金字塔。  
+Brian WilsonのロマンとCaptain Beefheartの狂気を、  
+一枚のシェル（貝殻）に閉じ込めたようなアルバムである。
 
-Tous les enregistrements sont analogiques sur une **bande 16 pistes**.
-Même les fluctuations du bruit étaient contrôlées comme de la musique, créant un pseudo-son de fond marin.
-Des effets comme des échos de guitare, des harmoniques vocales et le bruit de la mer.
-Le son lui-même raconte le mythe des profondeurs marines.
+録音はすべて**16トラック・テープ**によるアナログ方式。  
+ノイズの揺らぎまで音楽として制御し、擬似的な“海底音響”を創造した。  
+ギターの反響、ボーカルの倍音、潮騒のようなエフェクト。  
+音そのものが深海の神話を語っている。
 
 ---
 
-## Maturation et effondrement en tant que groupe en tournée
+## ツアー・バンドとしての成熟と崩壊
 
-Live Ween était un chaos complet.
-``**Live in Toronto 1996**'' ignore l'ordre des chansons.
-Le rire et le bruit se heurtent et les frontières avec le public fondent.
-C'était plus un rituel qu'un groupe.
+ライブにおけるWeenは、完全なるカオスだった。  
+『**Live in Toronto 1996**』では、曲順など無視。  
+笑いとノイズがぶつかり合い、観客との境界が溶けていく。  
+それはバンドというより、ひとつの儀式のようだった。  
 
-> « Chaque spectacle est un accident qui attend d'être beau. »
+> “Every show is an accident waiting to be beautiful.”  
 > — *Dean Ween, 1997*
 
-Mais en coulisses, des conflits éclataient entre alcool, drogue, fatigue et amitié.
-En 2008, Gene Ween quitte le groupe pour des raisons personnelles.
-Il a surmonté sa dépendance à l’alcool et a entamé un chemin tranquille vers la guérison.
-Dean a formé **The Dean Ween Group** et a connecté l'esprit de Ween d'une autre manière.
+だがその裏で、酒と薬、疲労と友情の葛藤があった。  
+2008年、Gene Weenは個人的理由でバンドを離脱。  
+アルコール依存を克服し、静かな再生の道を歩き始めた。  
+Deanは**The Dean Ween Group**を結成し、別の形でWeenの魂を繋いだ。
 
 ---
 
-## « Québec » ~ « La Cucaracha » : Laboratoire Twilight
+## 『Quebec』〜『La Cucaracha』：黄昏の実験室
 
 [『Quebec』](https://amzn.to/4gZ8SlA)（2003）は、  
-Ce travail se situe à l’intersection de l’introspection et du psychédélisme.
-Plutôt que le rire, la solitude et le silence étaient au premier plan.
-C'est à ce moment-là que Ween est confronté pour la première fois au mot « mature ».
+内省とサイケデリアの融合点にある作品だ。  
+笑いよりも、孤独と静けさが前面に出た。  
+Weenが初めて“成熟”という言葉と向き合った瞬間だった。
 
 そして2007年の[『La Cucaracha』](https://amzn.to/46STLa9)。  
-Le titre est « Cafard ».
-Comme son nom l’indique, il symbolise la force vitale qui ne mourra pas, quelle que soit la force avec laquelle vous êtes touché.
-Cette œuvre condense l’ironie et la beauté de l’existence même de Ween.
+タイトルは“ゴキブリ”。  
+その名の通り、どんなに叩かれても死なない生命力を象徴する。  
+この作品には、Weenという存在そのものの皮肉と美が凝縮されている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9q5kJE12M4?si=cWcFyISzGYTWbw5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Boognish ne meurt jamais – retrouvailles et continuation du culte
+## Boognishは死なず — 再結成とカルトの継続
 
-Dans les années 2010, Ween s'est réuni tranquillement.
-Les sourires de Gene et Dean sur scène étaient les mêmes qu'à l'époque.
-Il y avait des gens dans le public qui ont grandi en écoutant Ween dans les années 90,
-Il y avait un mélange de jeunes qui ont découvert « Push th’ Little Daisies » sur YouTube.
+2010年代、Weenは静かに再結成を果たす。  
+ステージに立ったGeneとDeanの笑顔は、あの頃のままだった。  
+観客の中には、90年代にWeenを聴いて育った世代と、  
+YouTubeで“Push th’ Little Daisies”を知った若者が混在していた。  
 
-> "Rire est notre religion."
-> — *Gene Ween, Entretien 2012*
+> 「笑うこと、それが私たちの宗教さ。」  
+> — *Gene Ween, 2012 Interview*
 
-Boognish ne mourra jamais.
-Tant qu'il rit, la musique restera gratuite.
-Ween, c'est un « rire sans fin » qui transcende les barrières des genres.
+Boognishは死なない。  
+彼が笑う限り、音楽は自由であり続ける。  
+Weenは、ジャンルの壁を越えた“無限の笑い”そのものだ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nHJayd3zBH8?si=Uz85sFGkUCLuWRES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chronologie des activités de Ween
+## Ween活動年表
 
 
 <div class="mermaid">
@@ -228,8 +228,8 @@ flowchart TD
 
 ## Discographie
 
-| Année | Albums | Remarques |
-| ---- | -------------------------------------------------------------------- | -------------------------------- |
+| 年    | アルバム                                                                | 備考                          |
+| ---- | ------------------------------------------------------------------- | --------------------------- |
 | 1990 | [GodWeenSatan: The Oneness](https://amzn.to/48mbnMH) | 初期宅録集大成                     |
 | 1991 | [The Pod](https://amzn.to/46LSWjm)                   | 奇形ローファイ美学                   |
 | 1992 | [Pure Guava](https://amzn.to/48ihoda)                | “Push th’ Little Daisies”収録 |
@@ -242,35 +242,35 @@ flowchart TD
 
 ---
 
-## Chapitre final : Les dieux qui rient sous la mer – La blague éternelle de Ween
+## 終章：海の底で笑う神々 — Weenという永遠のジョーク
 
-L’histoire de Ween ne peut pas se résumer simplement à celle d’un « groupe fou ».
-C'est le disque de deux hommes qui nageaient à travers le vaste océan de musique en riant.
-Dean et Gene se rencontrent en amis d'enfance, armés de cassettes et de matériel bon marché.
-Il a sérieusement continué à jouer avec les sons, ce qu’aucun artiste majeur ne pouvait faire.
+Weenの物語は、決して「狂気のバンド」という言葉だけで括れるものではない。  
+それは、音楽という広大な海を、笑いながら泳ぎきった二人の男たちの記録だ。  
+DeanとGene——彼らは幼なじみとして出会い、カセットテープと安物の機材を手に、  
+どんなメジャーアーティストにもできなかった“音の遊び”を本気で続けた。
 
-Ce chemin était à la fois une parodie de la culture américaine et l’amour le plus pur.
-Une mélodie de qualité B traitée comme une poubelle, une scène rurale à laquelle personne n'a prêté attention,
-Rires ivres – ils ont récupéré tout cela et en ont fait un « mythe ».
+その道は、アメリカ文化のパロディであり、同時に最も純粋な愛でもあった。  
+ゴミのように扱われたB級の旋律、誰も気に留めない田舎の情景、  
+酔いどれの笑い声——それらすべてを拾い上げ、彼らは“神話”に変えてしまった。
 
-Ween n'a créé ni un genre ni un mouvement.
-Il s'agit d'une croyance infiniment croissante selon laquelle « on peut aimer n'importe quel type de musique ».
-Il y a la décadence du rock, l'intelligence du jazz, l'avenir de la techno,
-La chaleur du pays est également égale.
+Weenが生み出したのは、ジャンルでも、ムーブメントでもない。  
+それは「どんな音楽も愛せる」という、無限に拡張する信念だ。  
+そこにはロックの退廃も、ジャズの知性も、テクノの未来も、  
+カントリーの温もりも、すべて等価に並んでいる。
 
-Ce que Boognish symbolise, ce n’est pas Dieu, mais l’envie de rire.
-Ce rire peut encore être entendu derrière les haut-parleurs quelque part dans le monde.
-Même si le son est déformé, le rythme est déformé, et tout est cassé...
-L'esprit de Ween y est toujours vivant.
+Boognishが象徴するのは“神”ではなく、“笑う衝動”そのものだ。  
+その笑いは、今も世界中のどこかでスピーカーの奥から聞こえてくる。  
+音が歪み、リズムが転げ、すべてが壊れても——  
+そこには、Weenの魂が、まだ確かに息づいている。
 
-> "Nous voulons juste nous amuser."
+> 「俺たちはただ、楽しいことをしたいだけなんだ。」  
 > — Dean Ween
 
-Et c'est l'identité éternelle de Ween.
-Riez, aimez, détruisez et reconstruisez.
-Un voyage sans fin pour revenir aux origines de la musique.
+そしてそれこそが、Weenの永遠の正体なのだ。  
+笑い、愛し、壊し、また作る。  
+音楽の原点を取り戻すための、果てしない航海。  
 
-Aujourd’hui, Ween rit encore joyeusement quelque part au fond de l’océan.
+Weenは今日も、どこかの海の底で、愉快に笑っている。
 
 ---
 

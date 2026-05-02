@@ -13,7 +13,7 @@ title: Jungle Brothers – Jungllenium Remixes
 ---
 
 
-"Jungllenium Remixes" est une collection de remixes des chansons de Jungle Brothers par divers producteurs et remixeurs.
+「Jungllenium Remixes」は、Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
 
 
 #### Liste des chansons

@@ -156,7 +156,7 @@ L'exemple du Sachiko M est un exemple typique dans lequel seule la tonalité de 
 Le traitement en temps réel utilisant Max/MSP et Pure Data est caractérisé par le style de Fennesz.
 Il est important de noter que l’ordinateur portable n’est pas un capteur ; le traitement lui-même est un acte de performance.
 
-##4-4. Effecteur / Bruit Physique
+##4-4. Effecteur / Bruit physique
 Les techniques qui utilisent des signaux au-delà de l'intention musicale, tels que les microphones de contact, le retour du mixeur et le bruit de l'alimentation électrique, sont également courantes.
 
 ---
@@ -221,7 +221,7 @@ Les connexions progressent notamment avec les domaines suivants :
 - Intégration avec la technologie d'enregistrement sur le terrain
 - Improvisation d'Ambisonics
 
-L'EAI restant une « pratique » plutôt qu'un « genre », sa forme continuera à changer tant qu'il y aura des musiciens travaillant avec des signaux électriques.
+L'EAI restant une « pratique » plutôt qu'un « genre », sa forme continuera à changer aussi longtemps qu'il y aura des musiciens travaillant avec des signaux électriques.
 
 ---
 

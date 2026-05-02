@@ -74,7 +74,7 @@ Ici, nous analyserons les paroles de chaque chanson d'un point de vue socialemen
 
 This Heat (1976-1982) était un groupe de rock expérimental de Londres composé de Charles Hayward, Charles Burrell et Gareth Williams. Cunningham a été profondément impliqué dans l'enregistrement et le montage, fournissant un soutien technique pour l'introduction des boucles de bande, du feedback et du collage acoustique.
 
-En particulier, travailler au **Cold Storage Studio** (un studio expérimental converti à partir d'un entrepôt réfrigéré) est devenu un lieu où Cunningham a pu démontrer ses compétences techniques. Couper et assembler des bandes, les lire à l'envers et désassembler l'enregistrement en 24 pistes ont donné naissance à des sons qui deviendront plus tard directement liés à la scène post-rock et noise.
+En particulier, travailler au **Cold Storage Studio** (un studio expérimental converti à partir d'un entrepôt réfrigéré) est devenu un lieu où Cunningham a pu démontrer ses compétences techniques. Couper et assembler des bandes, les lire à l'envers et désassembler l'enregistrement en 24 pistes ont donné naissance à des sons qui deviendront plus tard directement liés aux scènes post-rock et noise.
 
 ---
 
@@ -90,7 +90,7 @@ En particulier, travailler au **Cold Storage Studio** (un studio expérimental c
 
 #### « Santé et efficacité » (1980)
 
-- **"Santé et Efficacité"** : Bien que le titre semble positif à première vue, les paroles sont pleines de phrases ironiques sur la "crise énergétique" et "le mythe sanitaire de la société industrielle". Un hymne ironique qui reprend un slogan de la guerre froide et le renverse.
+- **"Santé et Efficacité"** : Bien que le titre semble positif à première vue, les paroles sont pleines de phrases ironiques sur la "crise énergétique" et "le mythe sanitaire de la société industrielle". Un hymne ironique qui prend un slogan de la guerre froide et le renverse.
 
 ---
 
