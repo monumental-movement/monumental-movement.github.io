@@ -11,31 +11,30 @@ tags:
 - 00s
 - 10s
 - 20s
-title: '[Kolumne] Sechs Unternehmen, die die DAW-Geschichte geprägt haben: Apple /
-  Avid / Steinberg / MOTU / Adobe-Technologiegeschichte und Marktstrategie'
+title: 【コラム】 DAW史を形づくった6社――Apple / Avid / Steinberg / MOTU / Adobe の技術史と市場戦略
 ---
 
 
-## Prolog: Die Entwicklung von DAW ist eine Geschichte, die durch die Strategien und technologischen Innovationen von sechs Unternehmen entstanden ist
+## 序章：DAWの進化は、6つの企業の戦略と技術革新が作りあげた物語である
 
 
-Text: mmr｜Thema: Geschichte der Logic/Pro Tools/Steinberg/MOTU/Adobe DAW-Technologie
+文：mmr｜テーマ：Logic／Pro Tools／Steinberg／MOTU／AdobeのDAW技術史
 
 
-Das zentrale Werkzeug für die Musikproduktion ist ab 2025 fast ausnahmslos eine DAW (Digital Audio Workstation).
-Der Weg der Branche zu ihrer heutigen Form war jedoch nicht einfach. Das Unternehmen blickt auf eine komplexe Geschichte zurück, die sich über mehr als 40 Jahre mit **Unternehmensübernahmen**, der **Erfindung von Technologiestandards**, der **Integration von Hardware und Software** und der **Verknüpfung von Video und Rundfunk** erstreckt.
+2025年現在、音楽制作の中心にあるツールは、ほぼ例外なく「DAW（Digital Audio Workstation）」だ。
+しかし、この業界が現在の形に至るまでの道筋は単純ではなかった。そこには **企業の買収**、**技術規格の発明**、**ハードウェアとソフトの統合**、そして **映像・放送との連係** をめぐる40年以上にわたる複雑な歴史がある。
 
-Folgende sechs Unternehmen prägten das Gesamtbild:
+その全体像を形づくったのは、次の6社である：
 
-* **Apple (Logic Pro/GarageBand)**
-* **Avid (Pro Tools)**
-* **Steinberg (Cubase/Nuendo)**
-* **MOTU (Digital Performer)**
-* **Adobe (Vorsprechen)**
-* **emagic/Digidesign (vor der Übernahme)**
+* **Apple（Logic Pro / GarageBand）**
+* **Avid（Pro Tools）**
+* **Steinberg（Cubase / Nuendo）**
+* **MOTU（Digital Performer）**
+* **Adobe（Audition）**
+* **emagic / Digidesign（買収前）**
 
-Die unterschiedlichen Strategien dieser Unternehmen haben zur **Multipolarisierung der DAW-Kultur** geführt.
-Während Apple und Avid durch Übernahmen eine „vertikale Integration“ anstrebten, festigten Steinberg, MOTU und Adobe ihren Einfluss durch „technische Standards“ und „Domänenspezialisierung“.
+これらの企業が取った戦略の違いは、そのまま **DAW文化の多極化** を生んだ。
+AppleとAvidが買収による“垂直統合”を進めた一方、Steinberg・MOTU・Adobeは“技術規格”や“領域特化”で影響力を確立した。
 
 ---
 
@@ -53,14 +52,14 @@ color: #fff;
 </style>
 
 
-## 1. 1980er Jahre: Die Ära der Sequenzer und die „vier Unternehmen, die damit begonnen haben“
+## 1. 1980年代：シーケンサーの時代と「始まりの4社」
 
-Die Ursprünge der DAW-Geschichte reichen bis zu Sequenzern in den frühen 1980er Jahren zurück.
-Dies war die Ära der „reinen MIDI-Bearbeitungssoftware“, bevor sie mit Audio umgehen konnte.
+DAW史の起源は、1980年代前半のシーケンサーに遡る。
+音声を扱う前の“純粋なMIDI編集ソフト”の時代である。
 
-### ■ Das goldene Zeitalter von Atari ST
+### ■ Atari ST が生んだ黄金時代
 
-Der 1985 eingeführte Atari ST war standardmäßig mit einem MIDI-Anschluss ausgestattet.
+1985年に登場した Atari ST には **標準でMIDI端子が搭載**されていた。
 Dadurch wurde die folgende Software in Europa schnell populär.
 
 * **Steinberg – Pro 24 (später Cubase)**
@@ -94,7 +93,7 @@ Die von Pro Tools eingeführte nichtlineare Bearbeitung entsprach nicht mehr dem
 
 ### ■ Steinbergs Transformation: Cubase Audio (1992)
 
-*MIDI- und Audio-Integration
+* MIDI- und Audio-Integration
 * Damals innovative Bearbeitungsfunktionen
 * **VST 1.0** wurde 1996 eingeführt und hatte einen der größten Einfluss in der DAW-Geschichte.
 
@@ -191,7 +190,7 @@ Auch nach der Übernahme bleibt die Ausrichtung unverändert und die technologis
 
 * Die Genauigkeit der Videosynchronisation hat sich in der DP5/6-Ära weiter erhöht
 * Da es nur für den Mac geeignet ist, ist es mit Videosystemen kompatibel.
-* Wird häufig von Komponisten verwendet, die häufig Soft-Synthesizer verwenden
+* Wird häufig von Musikkomponisten verwendet, die häufig Soft-Synthesizer verwenden
 
 ### ■ Adobe: Cool Edit → Broadcast-Bearbeitung mit Audition integrieren
 
@@ -263,7 +262,7 @@ In den letzten Jahren hat die Geschichte der DAWs einen weiteren großen Wandel 
 ### ■ Adobe: Steigende Nachfrage nach Vertrieb und Rundfunk
 
 * Integrationsvorteil mit Premiere
-* Stark in der YouTube-/Podcast-Ära
+* Stark im YouTube-/Podcast-Zeitalter
 
 ---
 
@@ -316,7 +315,7 @@ MOTU beherrscht die **Videosynchronisation**,
 Adobe hat mit der **Integration in Rundfunk und Videobearbeitung** einen eigenen Markt geschaffen.
 
 Obwohl die sechs Unternehmen miteinander konkurrieren,
-Dadurch haben sie gemeinsam die Kultur der Musikproduktion geprägt.
+Dadurch haben sie gemeinsam die „Kultur der Musikproduktion selbst“ geprägt.
 
 Nach 2025 KI-Bearbeitung, Cloud-Kollaboration, Ausbau der mobilen Produktion usw.
 Die Zukunft von DAWs wird eine neue Dimension annehmen.

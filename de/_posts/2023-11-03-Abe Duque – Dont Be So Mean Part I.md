@@ -20,9 +20,9 @@ Anfang der 90er Jahre nahm er an PROGRAM2 teil, das damals in der New Yorker Clu
 
 Nachdem er unter dem Namen KILRIAN gearbeitet hatte, gründete er 2002 mit DJ Matuss Abe Duque Records.
 
-Abe Duque Records geht bewusst den Underground-Weg, indem auf den Scheiben Veröffentlichungsinformationen und Credits eingeprägt sind.
+Abe Duque Records geht bewusst den Underground-Weg und stempelt Veröffentlichungsinformationen und Credits auf die Scheiben.
 
-Er arbeitete an Remixen für Bands wie Chemical Brothers und Pet Shop Boys und trat 2005 bei WIRE und 2007 bei Asagiri JAM live auf.
+Er arbeitete an Remixen für die Chemical Brothers und Pet Shop Boys und trat 2005 bei WIRE und 2007 bei Asagiri JAM live auf.
 
 „Don't be So Mean“ wurde 2008 veröffentlicht und ist ein Techno-Track, der auf Tanzflächen auf der ganzen Welt populär wurde.
 

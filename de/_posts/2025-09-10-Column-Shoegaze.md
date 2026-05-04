@@ -28,7 +28,7 @@ Im Folgenden blicken wir jahrzehntelang auf die Geschichte von Shoegaze zurück 
 ## 1980er Jahre – Herkunft
 ### Historischer Hintergrund
 - Während man den Trends von Post-Punk und New Wave folgte, wurde nach einem neuen Ansatz gesucht, um Gitarrengeräusche und Popmelodien zu verschmelzen.
-– Indie-Labels wie Creation Records sind führend in der Szene.
+- Indie-Labels wie Creation Records sind führend in der Szene.
 
 ### Repräsentatives Meisterwerk
 - [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
@@ -104,7 +104,7 @@ color: #fff;
 
 ---
 
-## 2000er Jahre – Revival-Periode
+## 2000er – Revival-Periode
 ### Historischer Hintergrund
 - Fusion mit Post-Rock-Bands wie Mogwai und Sigur Rós.
 - Eine neue Generation des Shoegaze-Revivals schreitet hauptsächlich in Amerika voran.

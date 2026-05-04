@@ -29,7 +29,7 @@ Goa Gil ist ein amerikanischer DJ und eine der zentralen Figuren aus den Anfäng
 * Bekannt für lange Sets von über 10 Stunden
 * Gestorben im Jahr 2023
 
-> Für ihn war DJing ein Akt der Demontage und Rekonstruktion der Zeit.
+> DJing war für ihn ein Akt der Demontage und Rekonstruktion der Zeit.
 
 ---
 
@@ -220,5 +220,14 @@ Die Situation ist je nach Zeit und Ort unterschiedlich. Es war eine halbinformel
 Er betonte die Transformation des Bewusstseins durch Tanz und glaubte, dass die Beständigkeit der Zeit wichtig sei.
 
 > Goa Gils Party war ein Testgelände für die Zeitverlängerung.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yx9c4IrmyT4?si=hBq2uYJyZ6vv9T2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

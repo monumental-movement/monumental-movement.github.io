@@ -29,7 +29,7 @@ DTM (DeskTop Music) – Auf Japanisch „DTM“ und im englischsprachigen Raum D
 Es wurden Techniken zum „Ausschneiden und Einfügen“ von Ton entwickelt, wie z. B. Bandbearbeitung, Bandschleifen und Musique Concrète. Overdub-Aufnahmen in Studios wurden populär.
 
 **1970er Jahre**: Synthesizer und frühe Computermusik
-Instrumente wie analoge Synthesizer und Minimoogs breiten sich aus und die Produktionsmethoden elektronischer Musik diversifizieren sich.
+Instrumente wie analoge Synthesizer und der Minimoog verbreiten sich, und die Produktionsmethoden elektronischer Musik diversifizieren sich.
 
 **Um 1983**: Das Erscheinen des MIDI-Standards (standardisierte Datenkommunikation zwischen Musikinstrumenten) → revolutionierte den Produktionsablauf.
 
@@ -64,7 +64,7 @@ MIDI (Musical Instrument Digital Interface) ist ein Standard zum Austausch von N
 
 ### Der Aufstieg von Computern und Software (1990er Jahre)
 
-Verbesserungen der Computerleistung und der praktische Nutzen der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
+Verbesserungen der Computerleistung und der praktische Einsatz der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
 
 <hr>
 
@@ -170,7 +170,7 @@ Backup und Versionskontrolle. Speichern Sie Projekte häufig und nutzen Sie die 
 
 DTM/DAW ist nicht nur eine Sammlung von Werkzeugen, sondern ein kulturelles Gerät, das die „Demokratisierung der Musikproduktion“ symbolisiert. Von den Tagen der Bandbearbeitung und Hardware-Synthesizer über MIDI und digitale Aufnahme bis hin zu VST- und Plug-in-Ökosystemen, bis hin zu KI und der Cloud hat die Technologie die Hürden für den Ausdruck gesenkt und eine Umgebung geschaffen, in der jeder der Welt Klang liefern kann.
 
-Die Technologie wird sich weiterentwickeln, aber im Mittelpunkt steht die Absicht des Schöpfers: „Welche Art von Klang soll ich erzeugen und warum?“ Durch die umfassende Nutzung der Technologie als Werkzeug werden weiterhin neue musikalische Ausdrucksformen entstehen.
+Die Technologie wird sich weiterentwickeln, aber im Mittelpunkt steht die Absicht des Schöpfers: „Welche Art von Klang sollen wir erzeugen und warum?“ Durch die umfassende Nutzung der Technologie als Werkzeug werden weiterhin neue musikalische Ausdrucksformen entstehen.
 
 ---
 

@@ -9,15 +9,15 @@ permalink: /de/the-dave-howard-singers-rock-on/
 tags:
 - EBM
 - 80s
-title: The Dave Howard Singers – Rock On
+title: Die Dave Howard Singers – Rock On
 ---
 
 
-The Dave Howard Singers （デイブハワードシンガーズ）は、カナダのトロントで結成されたカルト的存在のオルタナティブロックバンド/プロジェクト。
+Die Dave Howard Singers sind eine kultige Alternative-Rock-Band/ein Alternative-Rock-Projekt, die in Toronto, Kanada, gegründet wurde.
 
-1986年にリリースされた「Rock On」は、David Essex（デヴィッド・エセックス）のヒット曲「Rock On/ロックオン」のカヴァー。
+„Rock On“ erschien 1986 und ist ein Cover von David Essex‘ Hit „Rock On“.
 
-プロデューサーは、The Stranglers（ストラングラーズ）のJJ・バーネル。
+Der Produzent ist JJ Burnell von The Stranglers.
 
 #### Trackliste
 ```md

@@ -70,11 +70,11 @@ Diese **Beschwerlichkeit erzeugt tatsächlich Bindung**.
 
 ## Kapitel 2: Erinnerungen im Lärm – Analog und Nostalgie
 
-Das „knallende“ Geräusch in dem Moment, in dem die Nadel fällt.
+In dem Moment, in dem die Nadel fällt, ertönt ein „Sah“-Geräusch.
 Aus irgendeinem Grund verspüren viele Menschen schon beim Hören Nostalgie.
 
 Dieses Phänomen wird psychologisch als „Proust-Effekt“ bezeichnet.
-Hierbei handelt es sich um ein Phänomen, bei dem die Stimulation der fünf Sinne, etwa durch Gerüche und Geräusche, Erinnerungen hervorruft.
+Dabei handelt es sich um ein Phänomen, bei dem die Stimulation der fünf Sinne, etwa durch Gerüche und Geräusche, Erinnerungen hervorruft.
 Der Lärm der Schallplatte macht den Lauf der Zeit selbst hörbar.
 Mit anderen Worten: Das Anhören einer Schallplatte ist auch „ein Akt der Wiedervereinigung mit der Vergangenheit“.
 
@@ -118,7 +118,7 @@ Innerhalb dieses einfachen Mechanismus gibt es einen **Dialog zwischen Zeit und 
 
 Plattenkäufer der Generation Z
 Eigentlich weiß ich nichts über die „analoge Ära“.
-Dennoch „kaufen“ sie Schallplatten und „stellen sie“ in ihren Regalen aus.
+Dennoch „kaufen“ sie Platten und stellen sie in ihren Regalen aus.
 
 Für sie sind Aufzeichnungen keine „Archive“ oder „Sammlungen“.
 Es fungiert vielmehr als „Erfahrungsbeweis“.

@@ -37,7 +37,7 @@ color: #fff;
 </style>
 
 
-## 2. Designkonzept der Langzeitmusik
+## 2. Designkonzept für Langzeitmusik
 
 Eines der wichtigen Merkmale von Deep Ambient und Ambient Techno besteht darin, dass sie der „Wiedergabezeit“ Vorrang vor einzelnen Songs einräumen. Das Durchhalten für 10, 20 oder mehr Minuten ist ein Design-Gebot und kein Mangel an Bereitstellung.
 
@@ -49,7 +49,7 @@ Bei längerer Spieldauer verlieren kurzfristige Reize und symbolische Entwicklun
 
 Die Loops in Ambient Techno/Deep Ambient sind keine Spielerei, um Wiederholungen selbst hörbar zu machen. Vielmehr handelt es sich um ein Gerät zur künstlichen Schaffung eines Zustands, in dem es den Anschein hat, als gäbe es keine Veränderung.
 
-Es gibt keine perfekte Schleife; es gibt immer gewisse Schwankungen. Öffnen und Schließen von Filtern, Zunahme/Abnahme der Geräuschanteile, Länge der Nachhallfahne. Diese winzigen Unterschiede sind die einzigen Hinweise, die dem Zuhörer ein Gefühl für den Lauf der Zeit vermitteln.
+Es gibt keine perfekte Schleife; es gibt immer gewisse Schwankungen. Öffnen und Schließen von Filtern, Zunahme/Abnahme der Geräuschanteile, Länge der Nachhallfahne. Diese winzigen Unterschiede sind die einzigen Anhaltspunkte, die dem Zuhörer ein Gefühl für den Lauf der Zeit vermitteln.
 
 ---
 
@@ -143,7 +143,7 @@ C --> D[意識の変化]
 
 ## 16. Zusammenfassung
 
-Ambient Techno / Deep Ambient definiert den Akt des Musikhörens neu. Die Tiefseeakustik ist hierfür das optimierte Format und wird mit weiteren Anwendungen weiter ausgebaut.
+Ambient Techno / Deep Ambient definiert den Akt des Musikhörens neu. Die Tiefseeakustik ist dafür das optimierte Format und wird mit Anwendungen weiter zunehmen.
 
 ---
 

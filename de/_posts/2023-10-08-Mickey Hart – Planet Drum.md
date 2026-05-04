@@ -13,11 +13,11 @@ title: Mickey Hart – Planet Drum
 ---
 
 
-„Planet Drums“ ist ein Weltmusikalbum von Mickey Hart, einem Musiker und Musikwissenschaftler, der Mitglied der Rockband Grateful Dead war.
+「プラネット・ドラム」は、ロックバンドであるグレイトフル・デッドのメンバーであった音楽家兼音楽学者、ミッキー・ハートによるワールドミュージックのアルバムです。
 
-Das Konzept bestand darin, Schlagzeugmusik mit Percussionisten aus der ganzen Welt zu spielen und ihre unterschiedlichen Musikstile und Traditionen in einen neuen globalen Sound zu integrieren. Die an diesem Album beteiligten Musiker kamen vom amerikanischen Festland (Mickey Hart), Puerto Rico (Giovanni Hidalgo und Frank Colon), Indien (Zakir Hussain und T.H. „Vic“ Vinayakram), Nigeria (Sikiru Adepoju und Babatunde Olatunji) und Brasilien (Aatu Moreira und seine Frau, Sängerin Flora Purim).
+コンセプトは、世界中のパーカッショニストとともにドラムミュージックを演奏し、彼らの異なる音楽スタイルと伝統を新しいグローバルなサウンドに取り入れることでした。このアルバムに参加したミュージシャンは、アメリカ本土（ミッキー・ハート）、プエルトリコ（ジョヴァンニ・イダルゴとフランク・コロン）、インド（ザキール・フセインとT.H. "ヴィック" ヴィナヤクラム）、ナイジェリア（シキル・アデポジュとババトゥンデ・オラトゥンジ）、ブラジル（アートゥ・モレイラと彼の妻、ボーカリストのフローラ・プリム）から集まりました。
 
-Bei den Grammy Awards 1991 gewann es den Preis für das beste Weltmusikalbum.
+1991年のグラミー賞で最優秀ワールドミュージックアルバム賞を受賞しました。
 
 #### Trackliste
 ```md

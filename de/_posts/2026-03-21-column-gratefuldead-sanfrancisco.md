@@ -57,7 +57,7 @@ Viele von ihnen stellten bestehende gesellschaftliche Strukturen in Frage und su
 
 ### LSD und erweiterte Wahrnehmung
 
-„Acid Tests“ von Ken Kesey und den Merry Pranksters ist ein ikonisches Ereignis in der Kultur der Region. Die Musik, das Licht und die LSD-induzierten Wahrnehmungsveränderungen führten zu einem Erlebnis, das mit keinem traditionellen Konzert vergleichbar ist.
+„Acid Tests“ von Ken Kesey und den Merry Pranksters ist ein ikonisches Ereignis in der Kultur der Region. Die Musik, das Licht und die LSD-induzierten Wahrnehmungsveränderungen führten zu einem Erlebnis, das anders ist als jedes traditionelle Konzert.
 
 In diesem Zusammenhang war Musik nicht nur Unterhaltung, sondern fungierte als Mittel zur Bewusstseinstransformation.
 
@@ -79,7 +79,7 @@ Im selben Jahr änderte die Band ihren heutigen Namen. Der Name stammt aus der a
 
 Diese Symbolik sollte später eng mit ihrer Musik und der Spiritualität ihrer Gemeinschaft verbunden werden.
 
-> Der Bandname war nicht nur eine Bezeichnung, sondern auch eine Gedankenaussage.
+> Der Bandname war nicht nur eine Bezeichnung, sondern auch ein Statement zur Ideologie.
 
 ---
 
@@ -87,7 +87,7 @@ Diese Symbolik sollte später eng mit ihrer Musik und der Spiritualität ihrer G
 
 ### Improvisation und Chaos
 
-Auf „Acid Tests“ zerlegen die Grateful Dead die traditionelle Songstruktur. Es gibt keine Setlist und die Aufführung variiert je nach Situation.
+Auf „Acid Tests“ zerlegen die Grateful Dead traditionelle Songstrukturen. Es gibt keine Setlist und die Aufführung variiert je nach Situation.
 
 Auch das Publikum war keine passive Präsenz, sondern war als Teil des gesamten Raumes in die Musik eingebunden.
 
@@ -177,13 +177,13 @@ Die anfänglichen Ideale lösten sich allmählich auf und die Region begann sich
 
 ---
 
-## Nachhaltigkeit seit den 1970er Jahren
+## Nachhaltigkeit seit 1970er Jahren
 
 ### Veränderungen in der Musikalität
 
 Der Musikstil ändert sich mit der Zeit, z. B. eine Rückkehr zu Country und Folk. Aber der Kern der Improvisation bleibt bestehen.
 
-### Etablierung einer Touring-Kultur
+### Etablierung einer Tourneekultur
 
 Live-Aktivitäten wurden fortgesetzt und das Touren selbst etablierte sich als Kultur.
 
@@ -191,7 +191,7 @@ Live-Aktivitäten wurden fortgesetzt und das Touren selbst etablierte sich als K
 
 ---
 
-## Ende und Nachfolge
+## Ende und Vererbung
 
 ### Jerry Garcia Tod
 

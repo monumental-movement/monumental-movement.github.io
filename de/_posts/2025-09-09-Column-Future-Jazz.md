@@ -37,7 +37,7 @@ Acid Jazz ist vor allem in Großbritannien populär geworden und interpretiert J
 
 - **Ausstattungsmerkmale**
 -Akai MPC60/S1000
-- Roland TR-808 / TR-909
+-Roland TR-808 / TR-909
 - Hauptsächlich Plattenspieler und Sampler
 
 <style type="text/css">
@@ -154,7 +154,7 @@ Nu-Jazz verschmolz mit Electronica und stärkte den Hörstil.
 | 1 | Nils Petter Molvær | Khmer | Fusion aus Trompete und Elektro. |
 | 2 | Filmisches Orchester | Ein Haus bauen | Schöner Jazz-Hörer. |
 | 3 | Jaga-Jazzist | Alles was ich weiß ist heute Abend | Hat progressive Elemente. |
-| 4 | Bugge Wesseltoft | Existenz | Elektrojazz mit ausgeprägtem Sinn für Improvisation. |
+| 4 | Bugge Wesseltoft | Existenz | Elektro-Jazz mit einem ausgeprägten Sinn für Improvisation. |
 | 5 | Skalpell | Hoch | Polnischer Sampling-Jazz. |
 | 6 | Nostalgie 77 | Stille Morgendämmerung | Ein gefühlvolles Stück. |
 | 7 | Sidsel Endresen | Hier draußen | Experimenteller Vokaljazz. |

@@ -21,7 +21,7 @@ title: '[Kolumne] Erinnerungen an die Schwingungen von Mukkuri: Eine Kulturgesch
 
 Text: mmr｜Thema: Entschlüsselung der Klangphilosophie der Ainu-Kultur und ihrer historischen Veränderungen durch das kleinste Musikinstrument „Mukkuri“, das mit dem Körper und der Natur in Resonanz steht.
 
-Die Mukkuri, ein traditionelles Ainu-Musikinstrument, ist eine Art Musikinstrument, das als sogenannte „Maultrommel“ klassifiziert wird. Aus der Mitte eines langen, dünnen Bambusbretts wird ein zungenförmiger Teil (Rohr) herausgeschnitten und am Ende eine Schnur befestigt. Wenn an der Saite gezogen wird, vibriert das Rohrblatt und erzeugt Töne, wobei die Mundhöhle als Resonator dient.
+Die Mukkuri, ein traditionelles Ainu-Musikinstrument, ist eine Art Musikinstrument, das als sogenannte „Maultrommel“ klassifiziert wird. Aus der Mitte eines langen, dünnen Bambusbretts wird ein zungenförmiger Teil (Rohr) herausgeschnitten und am Ende eine Schnur befestigt. Wenn an der Saite gezogen wird, vibriert das Rohrblatt und erzeugt Schall, wobei die Mundhöhle als Resonator dient.
 
 Obwohl das Mukkuri eine einfache Struktur hat, erzeugt es äußerst feine Klangveränderungen. Obwohl die Tonhöhe selbst nicht wesentlich verändert werden kann, ändert sich die Klangfarbe je nach Öffnung des Mundes, der Position der Zunge und der Art und Weise, wie man atmet, was zu einer Vielzahl akustischer Ausdrucksformen führt.
 
@@ -84,7 +84,7 @@ Dieser Mechanismus ist bei Maultrommeln aus anderen Regionen (z. B. in der Mongo
 
 ## Produktionstechniken und Materialien
 
-Mukkuri wird hauptsächlich aus Bambus hergestellt. Bambus ist leicht und verfügt über eine angemessene Elastizität, wodurch es für Rohrvibrationen geeignet ist.
+Mukkuri wird hauptsächlich aus Bambus hergestellt. Bambus ist leicht und verfügt über eine ausreichende Elastizität, wodurch es für Rohrvibrationen geeignet ist.
 
 Die Produktion umfasst folgende Schritte:
 
@@ -127,9 +127,9 @@ Aus diesem Vergleich lässt sich erkennen, dass die Mukkuri auch unter den unive
 
 Mit dem Fortschreiten der Modernisierung erfuhr die Ainu-Kultur große Veränderungen. Mukkuri ist da keine Ausnahme, und irgendwann stand seine Tradition kurz vor dem Aussterben.
 
-Ab der zweiten Hälfte des 20. Jahrhunderts begann jedoch eine Neubewertung von Mukkuri im Zuge der Bewegung zur kulturellen Wiederbelebung. Es erregt erneut Aufmerksamkeit, da es zunehmend in der Bildung, im Tourismus und in den darstellenden Künsten aufgeführt wird.
+Ab der zweiten Hälfte des 20. Jahrhunderts begann jedoch im Zuge der Bewegung zur kulturellen Wiederbelebung eine Neubewertung von Mukkuri. Es erregt erneut Aufmerksamkeit, da es zunehmend in der Bildung, im Tourismus und in den darstellenden Künsten aufgeführt wird.
 
-Darüber hinaus hat sich der Mukkuri-Sound mit der Entwicklung der Aufnahmetechnologie sowohl im Inland als auch international verbreitet und sein Wert als Volksmusik wurde anerkannt.
+Darüber hinaus hat sich der Klang von Mukkuri mit der Entwicklung der Aufnahmetechnologie sowohl im Inland als auch international verbreitet und sein Wert als Volksmusik wurde anerkannt.
 
 Heutzutage wird unter Beibehaltung des traditionellen Aufführungsstils versucht, ihn mit neuer Musik zu kombinieren.
 
@@ -174,7 +174,7 @@ Dadurch ist es eher eine Musik, die man „fühlen“ kann, statt sie anzuhören
 
 In der modernen Gesellschaft bedeutet die Mukkuri mehr als nur ein traditionelles Musikinstrument.
 
-Während digitale Musik und elektronische Klänge zum Mainstream werden, stellen körperbasierte Klänge wie Mukkuri gegensätzliche Werte dar. Es gibt Unmittelbarkeit, Zufall und Individualität.
+Während digitale Musik und elektronische Klänge zum Mainstream werden, stellen körperbezogene Klänge wie Mukkuri kontrastierende Werte dar. Es gibt Unmittelbarkeit, Zufall und Individualität.
 
 Darüber hinaus ist die Art und Weise, wie aus einer minimalistischen Struktur eine reichhaltige Akustik geschaffen werden kann, für die Produktion zeitgenössischer Musik von großem Nutzen.
 

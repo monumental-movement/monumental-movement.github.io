@@ -13,9 +13,9 @@ title: Bel Amour – Bel Amour
 ---
 
 
-Bel Amour ist ein Elektro/House-Duo aus Frankreich, gegründet von Édouard de Tricasse und Jean-Claude Sindress.
+Bel Amour(ベルアムール)は、Édouard de Tricasse &Jean‑Claude Sindress によるフランス発のエレクトロ／ハウス・デュオ。
 
-Ihre 2001 veröffentlichte Debütsingle „Bel Amour“ war ein House-Track, der weltweit ein großer Hit wurde. Bei dieser Platte handelt es sich um eine italienische Version, die von der House-Abteilung von Time Records, Rise, veröffentlicht wurde.
+2001年にリリースされたデビューシングル「Bel Amour」は世界的に大ヒットとなったHouseトラック。このレコードは、Time RecordsのHouse部門Riseからリリースされたイタリア盤。
 
 
 

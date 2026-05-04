@@ -43,7 +43,7 @@ color: #fff;
 
 ## Kapitel 1 Prämisse der elektronischen Musik vor dem Elektropop
 
-Um die Entstehung elektronischer Pop-Experimente zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
+Um die Entstehung des elektronischen Pop-Experimentsystems zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
 
 ### Kombination von Synthesizer- und Pop-Strukturen
 
@@ -75,7 +75,7 @@ Diese dienen später als Grundlage für erweiterte Experimente.
 * Klangbildgestaltung, die Künstlichkeit nicht verbirgt
 * Gleichzeitiger visueller Ausdruck und Musikproduktion
 
-Dieser experimentelle Charakter zerlegt die Erfahrung des Hörers in mehrere Ebenen und erweitert das Musikhören zu einer „rein auditiven Aktivität“.
+Dieser experimentelle Charakter zerlegt das Erlebnis des Hörers in mehrere Ebenen und erweitert das Musikhören zu einem „rein auditiven Akt“.
 
 ---
 
@@ -93,17 +93,17 @@ In diesem Umfeld nehmen Musikwerke den Charakter von Aufzeichnungen des Produkti
 
 ## Kapitel 5 Produktionsprozess und visuelle Darstellung in Grimes
 
-Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den Produktionsprozess und den visuellen Ausdruck als untrennbar darstellt.
+Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den Produktionsprozess und den visuellen Ausdruck als untrennbar dargestellt hat.
 
-### Musikalische Features
+### 音楽的特徴
 
-* Klangdesign mit Schwerpunkt auf digitalen Synthesizern
+* Tondesign mit Schwerpunkt auf digitalen Synthesizern
 * Koexistenz von Popmelodie und instabiler Struktur
 * Vielschichtige Stimmverarbeitung und unrealistisches Klangbild
 
 ### Merkmale des Produktionsprozesses
 
-Grimes' Produktion zeichnet sich dadurch aus, dass er in seinen Werken bewusst Spuren der Einschränkungen der Aufnahmeumgebung und der persönlichen Produktion hinterlässt. Rauschen, unausgeglichene Lautstärke und übermäßige Effektbearbeitung sind kein Zeichen mangelnder Perfektion, sondern dienen als Beweis für die Existenz des Schöpfers.
+Grimes' Produktion zeichnet sich dadurch aus, dass er in seinen Werken bewusst Spuren der Einschränkungen der Aufnahmeumgebung und der persönlichen Produktion hinterlässt. Rauschen, unausgeglichene Lautstärke und übermäßige Effektbearbeitung sind keine Anzeichen mangelnder Perfektion, sondern dienen als Beweis für die Existenz des Schöpfers.
 
 ### Visuelle Integration
 
@@ -129,7 +129,7 @@ Der experimentelle Charakter von Carpenter Brut manifestiert sich weniger in der
 
 ## Kapitel 7 Visuelle Kultur und Elektropop-Experimente
 
-In der experimentellen Elektropop-Musik wirken die folgenden Elemente zusammen und nicht nur die Musik allein.
+In der experimentellen Elektropop-Musik wirken die folgenden Elemente zusammen und nicht nur Musik allein.
 
 * Albumcover
 * Musikvideo
@@ -228,12 +228,12 @@ Dies macht das Stück eher zu einem kontinuierlichen Interpretationsprozess als 
 * Ausbau des unabhängigen Vertriebs
 * Entstehung des Experimentierens
 
-### 2010年代
+### 2010er Jahre
 
 * Visualisierung des Produktionsprozesses von Grimes et al.
 * Vertiefung der Integration von Bild und Musik
 
-### 2020年代
+### 2020er Jahre
 
 *Weitere Verwischung der Produktionsumgebung und der Arbeitsgrenzen
 

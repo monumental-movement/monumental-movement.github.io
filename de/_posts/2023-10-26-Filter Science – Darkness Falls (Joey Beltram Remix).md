@@ -13,9 +13,9 @@ title: Filter Science – Darkness Falls (Joey Beltram Remix)
 ---
 
 
-Bei diesem „Filter Science – Darkness Falls (Joey Beltram Remix)“ handelt es sich um die Zweitpressung.
+この「Filter Science – Darkness Falls (Joey Beltram Remix)」は、セカンドプレス盤です。
 
-Der Track wurde von Shane Andrews in Melbourne, Australien, produziert und von Joy Bertram in New York, USA, remixt.
+トラックは、オーストラリア・メルボルンにて、シェーン・アンドリュース氏によって制作され、リミックスはアメリカ・ニューヨークにて、ジョイ・ベルトラム。
 
 #### Trackliste
 ```md

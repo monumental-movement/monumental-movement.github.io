@@ -9,17 +9,17 @@ permalink: /de/zombie-nation-souls-at-zero/
 tags:
 - Techno
 - 00s
-title: Zombie Nation – Seelen auf Null
+title: Zombie Nation – Souls At Zero
 ---
 
 
-Berühmt wurde Zombie Nation mit der Veröffentlichung von „Kernkraft 400“ im Jahr 1999.
+99年リリースの「Kernkraft 400」で一躍有名になったZombie Nation。
 
-Ursprünglich ein Techno-Duo bestehend aus dem deutschen DJ und Produzenten Splank! (Florian Senfter) und DJ Mooner (Emanuel Günther), jetzt Splank! (Florian Senfter) ist alleine aktiv.
+元々はドイツ人DJ 兼プロデューサーの Splank! (Florian Senfter）とDJ Mooner（Emanuel Günther）のテクノデュオだったが、現在は Splank! (Florian Senfter）一人で活動。
 
-„Souls At Zero“ ist ein Techno-Electro-Track, der 2003 von Dekathlon Records veröffentlicht wurde, einem von Florian Senfter und Wolfram „Wolfen“ Gottardt gegründeten Label.
+「Souls At Zero」は、2003年にFlorian SenfterとWolfram "Wolfen" Gottardt によって設立されたレーベルDekathlon Recordsよりリリースされたテクノ・エレクトロトラック。
 
-B-Seite ist ein Remix von Sven Väth.
+B面はSven Väth（スヴェン・ヴァス）によるremix。
 
 #### Trackliste
 ```md

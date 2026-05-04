@@ -10,11 +10,11 @@ tags:
 - Pops
 - Rock
 - 7inch
-title: Die Bee Gees – Massachusetts
+title: The Bee Gees – Massachusetts
 ---
 
 
-„Massachusetts“ ist ein 1967 von den Bee Gees veröffentlichtes Lied, das ein weltweiter Hit wurde. Der Hauptsänger dieses Liedes ist Robin Gibb.
+「Massachusetts」(マサチューセッツ) は、Bee Geesが1967年にリリースした楽曲で、世界的なヒットとなった。この曲のメインボーカルはRobin Gibb（ロビン・ギブ）。
 
 #### Trackliste
 ```md

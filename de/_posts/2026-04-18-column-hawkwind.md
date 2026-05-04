@@ -109,7 +109,7 @@ Wichtig dabei ist, dass kleine Veränderungen tatsächlich das Bewusstsein erwei
 
 ## Sound- und visuelle Integration
 
-### Ein umfassendes Live-Erlebnis
+### Ein totales Live-Erlebnis
 
 Bei Hawkwinds Live-Auftritten geht es nicht nur um Musik. Es wurde als umfassendes Kunstwerk konzipiert, das Beleuchtung, Video, Tänzer und Gedichtlesungen integriert.
 
@@ -160,7 +160,7 @@ Diese Veränderung wurde zu einer Brücke zum späteren Hard Rock, Metal und sog
 
 ### Techno vor Techno
 
-Obwohl Hawkwinds Musik direkt dem Rock zugeordnet wird, enthält ihre Struktur eindeutig Archetypen elektronischer Musik.
+Obwohl Hawkwinds Musik direkt dem Rock zuzuordnen ist, enthält ihre Struktur eindeutig Archetypen elektronischer Musik.
 
 Konstantes Tempo, Wiederholung und geschichtete Struktur. Dies sind die Grundlagen des späteren Detroit Techno und Berlin Techno. Insbesondere die Anhäufung von anhaltenden Beats und subtilen Veränderungen ist dieselbe Idee wie der Kern der Clubmusik.
 

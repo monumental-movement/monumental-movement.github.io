@@ -8,17 +8,17 @@ layout: post
 permalink: /de/cold-sensation-belgian-musictrain/
 tags:
 - New Beat
-title: Cold Sensation – Belgischer Musikzug
+title: Cold Sensation – Belgian Musictrain
 ---
 
 
-„Belgian Musictrain“ ist ein Lied der belgischen Musikgruppe Cold Sensation. Dieses Lied wurde 1991 veröffentlicht.
+「Belgian Musictrain」はCold Sensation（コールド・センセーション）というベルギーの音楽グループによる楽曲です。この曲は1991年にリリースされました。
 
-„Belgian Musictrain“ ist ein fröhlicher Song, der Elemente elektronischer Tanzmusik enthält. Wie Sie dem Titel des Liedes entnehmen können, ist das Thema eine Hommage an die belgische Musikszene und Partykultur.
+「Belgian Musictrain」はエレクトロニックダンスミュージックの要素を取り入れたアップビートな楽曲です。曲のタイトルからもわかるように、ベルギーの音楽シーンやパーティーカルチャーを祝福するようなテーマが込められています。
 
-Cold Sensation ist eine kurzzeitig beliebte Gruppe in der belgischen Tanzmusikszene und ihre Songs zeichnen sich durch energiegeladene, tanzbare Beats und Melodien aus.
+Cold Sensationはベルギーのダンスミュージックシーンで一時的に人気を博したグループであり、彼らの楽曲はエネルギッシュで踊りやすいビートとメロディが特徴です。
 
-„Belgian Musictrain“ soll die Tanzfläche mit Klängen beleben, die die damaligen Tanzmusiktrends und -technologien berücksichtigen. Dieses Lied gilt als ein Werk, das in der belgischen Tanzmusikszene ein gewisses Lob erhalten hat und für einige Tanzmusikfans aufgrund seiner eingängigen Melodie und seines Rhythmus sowie seiner Hommage an die belgische Musikszene eine besondere Bedeutung hat.
+「Belgian Musictrain」は当時のダンスミュージックのトレンドやテクノロジーを取り入れたサウンドでダンスフロアを盛り上げることを意図しています。この曲はベルギーのダンスミュージックシーンにおいて一定の評価を得た作品として知られており、キャッチーなメロディとリズム、そしてベルギーの音楽シーンへのオマージュとして一部のダンスミュージックファンにとって特別な意味を持つ曲です。
 
 #### Trackliste
 ```md

@@ -9,13 +9,13 @@ permalink: /de/cheap-trick-in-color/
 tags:
 - Rock
 - Pops
-title: Billiger Trick – in Farbe
+title: Cheap Trick – In Color
 ---
 
 
-Cheap Trick ist eine amerikanische Rockband, die 1974 in Rockford, Illinois, von Robin Zander, Rick Nielsen, Tom Peterson und Van E. Carlos gegründet wurde.
+Cheap Trick（チープ・トリック）は、ロビン・ザンダー、リック・ニールセン、トム・ピーターソン、バン・E・カルロスによって1974年にイリノイ州ロックフォードで結成されたUSロックバンド。
 
-„In Color“ ist das zweite Album von Cheap Trick. Der Produzent ist Tom Werman, der als Produzent von Ted Nugent bekannt ist.
+「In Color（蒼ざめたハイウェイ）」はCheap Trickの2ndアルバム。プロデューサーは、Ted Nugent（テッド・ニュージェント）のプロデューサー等で知られるトム・ワーマン。
 
 #### Trackliste
 ```md

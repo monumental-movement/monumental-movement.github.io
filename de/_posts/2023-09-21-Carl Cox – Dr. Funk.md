@@ -13,11 +13,11 @@ title: Carl Cox – Dr. Funk
 ---
 
 
-„Carl Cox – Dr. Funk“ ist einer der Signature-Songs von Carl Cox. Carl Cox ist ein weltbekannter Techno-DJ und Musikproduzent/Künstler aus Großbritannien.
+「Carl Cox – Dr. Funk」は、カール・コックス（Carl Cox）の代表曲の一つです。カール・コックスは、イギリス出身の世界的に有名なテクノDJおよび音楽プロデューサー/アーティストです。
 
-„Dr. Funk“ ist ein energiegeladener und tanzbarer Techno-Track mit kraftvollem Beat, kraftvoller Basslinie, rhythmischer Synthesizer-Melodie und Sampling. Die DJ-Fähigkeiten und das Talent des Produzenten von Carl Cox verleihen dem Song seine eigene Persönlichkeit und seinen eigenen Charme.
+「Dr. Funk」は、エネルギッシュでダンサブルなテクノトラックで、強力なビート、迫力のあるベースライン、リズミカルなシンセサイザーのメロディ、サンプリングなど、カール・コックスのDJスキルとプロデューサーとしての才能が、曲に独自の個性と魅力を与えています。
 
-„Dr. Funk“ ist ein bemerkenswerter Song in der Karriere von Carl Cox und bei Techno-Musikfans und der Clubszene beliebt.
+「Dr. Funk」は、カール・コックスのキャリアの中でも特筆される一曲であり、テクノミュージックファンやクラブシーンで人気を集めています。
 
 #### Trackliste
 ```md

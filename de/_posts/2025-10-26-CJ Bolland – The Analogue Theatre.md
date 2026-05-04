@@ -11,11 +11,11 @@ tags:
 - Breakbeat
 - Big Beat
 - 90s
-title: CJ Bolland – Das analoge Theater
+title: CJ Bolland – The Analogue Theatre
 ---
 
 
-Das erste Studioalbum „The Analogue Theater“, das 1996 vom belgischen Produzenten elektronischer Musik CJ Bolland veröffentlicht wurde, ist CJ Bollands Meisterwerk, zu dem auch der Welthit „Sugar Is Sweeter“ gehört. Diese CD enthält einen speziellen Bonustrack, der nur auf der japanischen Version verfügbar ist: Ken Ishiis Remix von „Sugar Is Sweeter“.
+ベルギーのエレクトロニックミュージックプロデューサー CJ Bolland(CJボーランド)が1996年にリリースした初のスタジオアルバム「The Analogue Theatre」は、世界的ヒットとなった「Sugar Is Sweeter」が収録されたCJ Bollandの代表作。このCDには日本盤のみのスペシャルボーナストラック、「Sugar Is Sweeter」のケン・イシイremixが収録されている。
 
 #### Trackliste
 ```md

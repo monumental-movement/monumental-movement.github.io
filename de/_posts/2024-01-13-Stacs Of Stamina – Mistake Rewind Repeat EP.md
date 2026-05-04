@@ -14,7 +14,7 @@ title: Stacs Of Stamina – Mistake Rewind Repeat EP
 ---
 
 
-Ein Glitch + UK Garage + IDM + experimenteller Track der schwedischen Elektro-Hip-Hop-Crew Stacs Of Stamina, veröffentlicht 2005 auf dem britischen Independent-Label Werk Discs.
+UKのインディペンデントレーベルWerk Discsから2005年にリリースされた、スウェーデンのエレクトロ・ヒップホップ・クルーStacs Of Stamina によるグリッチ＋UKガラージ＋IDM＋エクスペリメンタルトラック。
 
 #### Trackliste
 ```md

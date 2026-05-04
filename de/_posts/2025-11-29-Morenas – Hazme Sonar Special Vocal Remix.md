@@ -11,14 +11,14 @@ tags:
 - Deep House
 - Ambient
 - 90s
-title: Morenas – Hazme Soñar (Spezieller Gesangs-Remix)
+title: Morenas – Hazme Soñar (Special Vocal Remix)
 ---
 
 
 
-Morenas ist ein Projekt des italienischen DJs/Produzenten Andrea Gemolotto (Cutmaster-G), der zusammen mit Angelino Albanese, Claudio Collino, Massimino Lippoli und Riccardo Persi als Pionier der Italo-House-Szene bekannt ist.
+Morenas(モレナス)は、イタロハウスシーンのパイオニアとして知られるイタリアのDJ／プロデューサーAndrea Gemolotto(Cutmaster-G)と、Angelino Albanese、Claudio Collino、Massimino Lippoli 、Riccardo Persiによるプロジェクト。
 
-Ein Deep House/Ambient-Track, der 1990 auf dem italienischen Dance/House/Trance/Techno-Label DFC veröffentlicht wurde.
+イタリアのDance／House／Trance／TechnoレーベルDFCから1990年にリリースされたDeep House／Ambientトラック。
 
 #### Trackliste
 ```md

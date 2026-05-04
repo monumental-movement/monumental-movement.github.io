@@ -11,7 +11,7 @@ tags:
 - Rock
 - Noise
 - Post Rock
-title: '[Spalte] Saiten, die Emotionen und Gedanken direkt transportieren – Gitarristen
+title: '[Kolumne] Saiten, die Emotionen und Gedanken direkt transportieren – Gitarristen
   aus aller Welt und Japan'
 ---
 
@@ -21,7 +21,7 @@ title: '[Spalte] Saiten, die Emotionen und Gedanken direkt transportieren – Gi
 
 Text: mmr｜Thema: Erläuterung der führenden Gitarristen der Welt und Japans aus der Perspektive von Epoche, Genre, Technik und Philosophie
 
-Die Gitarre ist mehr als nur ein Musikinstrument; In der Musikgeschichte seit dem 20. Jahrhundert fungiert es als Erweiterung des Körpers, der Emotionen und Gedanken direkt übermittelt. In dem Moment, in dem Ihre Finger die Saiten berühren, wird der Klang aus den Vibrationen Ihrer Finger erzeugt und gelangt über Verstärker und Effektgeräte in die Welt. Der von einer Gitarre erzeugte Ton wirkt wie ein Spiegel und spiegelt die Emotionen, den Geisteszustand und sogar den kulturellen Hintergrund einer Person wider.
+Die Gitarre ist mehr als nur ein Musikinstrument; In der Musikgeschichte seit dem 20. Jahrhundert fungiert es als Erweiterung des Körpers, die Emotionen und Gedanken direkt transportiert. In dem Moment, in dem Ihre Finger die Saiten berühren, wird der Klang aus den Vibrationen Ihrer Finger erzeugt und gelangt über Verstärker und Effektgeräte in die Welt. Der von einer Gitarre erzeugte Ton wirkt wie ein Spiegel und spiegelt die Emotionen, den Geisteszustand und sogar den kulturellen Hintergrund einer Person wider.
 
 Das Bild eines Gitarristen ist in Japan und auf der Welt unterschiedlich. In den Vereinigten Staaten und im Vereinigten Königreich sind Blues und Rock zur Grundlage geworden und das Genre hat sich zu einem Mainstream-Genre entwickelt. Japan hat jedoch eine komplexere und frei fließendere Entwicklung erlebt, vom Elektroboom der Nachkriegszeit bis hin zu Underground-Noise, Improvisation und Post-Rock. Die Einzigartigkeit japanischer Gitarren entsteht an der Schnittstelle zwischen Mainstream-Technik und destruktivem Underground-Ausdruck.
 
@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-# III. Japan: Eine Geschichte stiller und brüllender Gitarristen
+# III. Japan: Stille und rauschende Geschichte der Gitarristen
 
 ## 1. Nach dem Krieg und dem Aufkommen der Elektrizität (1950er bis 1970er Jahre)
 
@@ -187,7 +187,7 @@ color: #fff;
 
 ---
 
-# IV. Die Gitarre neu definieren: Gerät, Körper, Gebet
+#IV. Die Gitarre neu definieren: Gerät, Körper, Gebet
 
 Die Gitarre ist nicht nur ein Musikinstrument, sondern ein Mittel zur Selbstdarstellung.
 
@@ -201,7 +201,7 @@ Keiji Haino betrachtet die Gitarre als eine Erweiterung seines Körpers und Geis
 
 ---
 
-# V. Fazit: Der anhaltende Klang der Saiten, der nie aufhört zu klingeln
+# V. Fazit: Der anhaltende Klang der Saiten, der nie aufhört zu klingen
 
 Die Gitarre war schon immer ein Symbol der freien Meinungsäußerung, vom Underground bis zur Welt. Die Ära ist angebrochen, in der „die Temperatur und die Ideologie des Künstlers“ wichtiger sind als die Technik.
 

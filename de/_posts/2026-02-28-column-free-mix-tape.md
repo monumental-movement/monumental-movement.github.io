@@ -18,13 +18,13 @@ title: '[Kolumne] Moderne Wiederbelebung der Free-Mixtape-Kultur: Von Kassetten 
 
 ## Moderne Wiederbelebung der Free-Mixtape-Kultur
 
-Text: mmr｜Thema: Warum braucht es wieder eine Redaktionskultur, die von der Straße kommt?
+Text: mmr｜Thema: Warum braucht es wieder Redaktionskultur, die von der Straße kommt?
 
-Ein kostenloses Mixtape ist ein musikalisches Werk, das hauptsächlich von DJs und Künstlern aus bestehenden Songs, unveröffentlichten Songs, Freestyle-Soundquellen usw. bearbeitet und kombiniert und für inoffizielle oder Werbezwecke kostenlos verteilt wird.
+Ein kostenloses Mixtape ist ein musikalisches Werk, das hauptsächlich von DJs und Künstlern aus bestehenden Songs, unveröffentlichten Songs, Freestyle-Soundquellen usw. bearbeitet und kombiniert und für inoffizielle oder Werbezwecke kostenlos verbreitet wird.
 
 Es ist seit den 1980er Jahren eng mit der Hip-Hop-Kultur verbunden und hat die Bewertung von Künstlern über andere Kanäle als den kommerziellen Vertrieb ausgeweitet.
 
-> Kostenlose Mixtapes dienten eher als Mittel zur „Verbreitung“ als als Mittel zum „Verkaufen“.
+> Kostenlose Mixtapes dienten eher als Mittel zur „Verbreitung“ als als Werk zum „Verkauf“.
 
 * Vertrieb außerhalb des kommerziellen Vertriebs (Kassette, CD-R, Datenvertrieb)
 * Schwerpunkt auf Re-Editing, Blending und Scratching durch DJ
@@ -55,7 +55,7 @@ color: #fff;
 
 Die Ursprünge der Free-Mixtape-Kultur liegen im New York der späten 1970er Jahre. DJs der Bronx-Blockpartys entwickelten die Kunst, immer wieder Funk- und Disco-Breaks zu spielen.
 
-Die repräsentativen Künstler Kool Herc und Grandmaster Flash haben ihre Live-Auftritte aufgezeichnet und als Kassetten verteilt, um die Energie ihrer Auftritte in physischen Medien einzufangen.
+Die repräsentativen Künstler Kool Herc und Grandmaster Flash haben ihre Live-Auftritte aufgezeichnet und als Kassetten verteilt, um die Energie ihrer Auftritte in physischen Medien festzuhalten.
 
 Damals waren Mixtapes keine kommerziellen Produkte, sondern Aufnahmemedien, die sich durch Handverkäufe und Mundpropaganda verbreiteten. Die „Atmosphäre des Abends“ war wichtiger als die Qualität der Aufnahme.
 
@@ -77,7 +77,7 @@ Auch in Atlanta und im Süden entwickelte sich eine einzigartige Mixtape-Kultur,
 
 ### 2000er Jahre: Digitalisierung und P2P-Ausbau
 
-In den frühen 2000er Jahren beschleunigten die Verbreitung von CD-Rs und die Verbreitung des Internets die Mixtape-Kultur. Durch Filesharing-Dienste und Blogs ist eine Verbreitung über physische Grenzen hinaus möglich geworden.
+In den frühen 2000er Jahren beschleunigten die Verbreitung von CD-Rs und die Verbreitung des Internets die Mixtape-Kultur. Durch Filesharing-Dienste und Blogs ist eine Verbreitung über physische Zwänge hinaus möglich geworden.
 
 50 Cent erlangte in dieser Zeit große Bedeutung. Er veröffentlichte eine Reihe kostenloser Mixtapes und etablierte seine Popularität auf der Straße, was zu einem Großauftrag führte.
 

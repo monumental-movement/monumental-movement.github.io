@@ -10,11 +10,11 @@ tags:
 - Disco
 - 70s
 - 7inch
-title: Leif Garrett – Feel The Need
+title: Leif Garrett – Fühle das Bedürfnis
 ---
 
 
-Leif Garrett （レイフ・ギャレット）は、アメリカの歌手、俳優、テレビタレントです。「Feel The Need」は、1979年にリリースされました。
+Leif Garrett ist ein amerikanischer Sänger, Schauspieler und Fernsehpersönlichkeit. „Feel The Need“ wurde 1979 veröffentlicht.
 
 #### Trackliste
 ```md

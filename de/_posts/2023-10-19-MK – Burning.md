@@ -9,15 +9,15 @@ permalink: /de/mk-burning/
 tags:
 - House
 - Anthem
-title: MK – Brennen
+title: MK – Burning
 ---
 
 
-MK (Marc Kinchen) ist ein Musikproduzent/DJ/Remixer aus Detroit. „Burning“ ist eines von MKs Meisterwerken.
+MK（Marc Kinchen/マーク・キンチェン）は、デトロイト出身の音楽プロデューサー/DJ/リミキサー。「Burning」は、MKの代表作の一つ。
 
-Der erste Titel auf Seite A ist ein Remix von Klubbheads, einem Tanzmusikproduzenten/DJ-Team aus den Niederlanden.
+A面1曲目は、オランダ出身のダンスミュージックプロデューサー/DJ チームKlubbheads（クラブヘッズ）によるremix。
 
-Der erste Song auf Seite B ist ein Remix von Sharam Jey, einem in Deutschland lebenden iranischen DJ/Produzenten.
+B面1曲目は、ドイツ在住のイラン人DJ/プロデューサーSharam Jeyによるremix。
 
 #### Trackliste
 ```md

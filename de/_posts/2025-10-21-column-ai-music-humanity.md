@@ -19,7 +19,7 @@ title: '[Kolumne] Die Ära der Musik ohne Grenzen: KI, Nostalgie und „Sound f�
 ## Prolog: Eine Ära, in der Musik im „Kontext“ gehört wird
 
 
-Text: mmr | Thema: Eine Ära, in der KI Musik erschafft und Menschen sie neu interpretieren. Wo ist in einem kreativen Umfeld, das von generativer KI dominiert wird, die „Menschlichkeit“ angesiedelt? Kulturelle Überlegungen zur Rekonstruktion von Musik und Sensibilitäten in der Post-KI-Ära
+Text: mmr | Thema: Eine Ära, in der KI Musik erschafft und Menschen sie neu interpretieren. Wo bleibt „die Menschheit“ in einem kreativen Umfeld, das von generativer KI dominiert wird? Kulturelle Überlegungen zur Rekonstruktion von Musik und Sensibilitäten in der Post-KI-Ära
 
 Über Musik im Jahr 2025 wird nicht mehr nach „Genre“ gesprochen.
 Das Hörerlebnis auf Spotify und Apple Music wird je nach Stimmung, Zeit und Anlass neu organisiert und geht über die Kategorien „Rock“, „Hip-Hop“ und „Electronica“ hinaus.
@@ -56,7 +56,7 @@ Das „Schaffen“ von Musik ist keine Spezialkompetenz mehr, sondern hat sich z
 Der Electronica-Künstler Arca beispielsweise behandelt KI-Sound als Material und kombiniert ihn mit seiner eigenen echten Stimme. Was sie macht, ist „Kontextdesign, das fragt, warum man sich für eine der unzähligen Möglichkeiten der KI entscheiden sollte.“
 同様に、UK発のJames BlakeはAIを「共作者」として扱いながら、“人間の脆さ”をテーマにアルバム[『Playing Robots Into Heaven』（2024）](https://amzn.to/3L1hE6D)を構築した。
 
-Diese Beispiele zeigen, dass KI immer weniger zu einem „Klangerzeuger“ wird, sondern eher zu einem „Spiegel, der hervorhebt, was Menschen wählen“.
+Diese Beispiele zeigen, dass KI immer weniger zu einem „Klangerzeuger“ und mehr zu einem „Spiegel, der hervorhebt, was Menschen wählen“ wird.
 Gerade weil die Werkzeuge allen offen stehen, wird die kontextuelle Macht des Einzelnen = die Bedeutung der Wahl in Frage gestellt.
 
 ---
@@ -76,7 +76,7 @@ Mit anderen Worten: Wir inszenieren die „Zukunft von damals“ unter Verwendun
 
 #### Auf dem Weg zu „Nostalgie, die das Alter nicht imitiert“
 
-Wichtig hierbei ist die Haltung „Neubearbeitung statt Nachahmung“.
+Wichtig dabei ist die Haltung „Neubearbeitung statt Nachahmung“.
 Wie Playlists wie „Retro-Future Pop“ und „Y2K Wave“ auf Spotify zeigen, bringt die aktuelle Nostalgie die „Klangtextur“ in die Vergangenheit, aber der „Produktionskontext“ ist modern.
 „BRAT“ (2024) von Charli XCX beispielsweise ist ein Beispiel für die Clubkultur der 90er Jahre und beschäftigt sich gleichzeitig mit dem Thema des Selbstbewusstseins nach dem Internet.
 Man kann sagen, dass ihre „Methode, vergangene Klänge in Material umzuwandeln“, ein Sampling der Musikgeschichte selbst ist.
@@ -86,7 +86,7 @@ Man kann sagen, dass ihre „Methode, vergangene Klänge in Material umzuwandeln
 ### Kapitel 3: Lokale Musik überschreibt den globalen Kontext
 
 Die Geschwindigkeit, mit der Musik Grenzen überschreitet, hat sich im Zeitalter der sozialen Medien dramatisch verändert.
-Im Mittelpunkt steht eine Welle lokaler Ursprünge wie Afrobeats, Amapiano, Latin Trap, K-Pop und eine Neubewertung von City Pop.
+Im Mittelpunkt steht eine Welle lokaler Ursprünge wie Afrobeats, Amapiano, Latin Trap, K-Pop und eine Neubewertung des City Pop.
 
 #### Afrobeats und Amapiano: Mainstream-Sounds aus dem Süden
 
@@ -116,7 +116,7 @@ Der Wert einer Live-Aufführung hat sich dahingehend verlagert, wie sehr man die
 #### Community in der Fan Direct-Ära
 
 Ein Fan-direktes Ökosystem mit Patreon, Bandcamp und Discord reift heran.
-Beispielsweise hat Grimes ihre KI-Stimme offiziell freigegeben und den Fans erlaubt, „Songs mit ihrer Stimme zu machen“.
+Zum Beispiel hat Grimes ihre KI-Stimme offiziell freigegeben und den Fans erlaubt, „Songs mit ihrer Stimme zu machen“.
 Dieser Wandel vom „Zuhören“ zum „Mitmachen“ verwandelt Musik in ein „Gemeinschaftserlebnis“.
 
 ---
@@ -128,8 +128,8 @@ Charakteristisch für das Jahr 2025 ist das Nebeneinander von Stille (Minimal) u
 
 #### „Quiet Club“ und „introspektive Electronica“
 
-Die Popularität von „Slow Grooves“ wie Afro House und Amapiano symbolisiert eine Ära, in der Tanzen auch zur „Introspektion“ werden kann.
-In Clubs in Berlin und Seoul werden Sets mit 100 bis 110 BPM zur Norm und schaffen einen Raum, in dem man „tanzend denken“ kann.
+Die Popularität von „Slow Grooves“ wie Afro House und Amapiano symbolisiert eine Ära, in der Tanzen auch „Introspektion“ sein kann.
+Sätze von 100 bis 110 BPM werden in Clubs in Berlin und Seoul zur Norm und schaffen einen Raum, in dem man „tanzend denken“ kann.
 In Japan erforschen Food-Festivals, auch bekannt als Foodman und Yahyel, „ruhige Clubmusik“.
 
 #### Im Gegenteil, es gibt auch eine Bewegung zur Beherrschung der „Dichte“

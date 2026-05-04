@@ -28,7 +28,7 @@ Techno ist eine Musikkultur, die in den frühen 1980er Jahren in Detroit entstan
 
 ### Übertragung und Mutation nach Europa
 
-In den späten 1980er und frühen 1990er Jahren gelangte Techno nach Europa und wurde in jeder Stadt anders interpretiert. Vor allem in Städten wie Berlin, Frankfurt und London wurde der Clubraum selbst zum prägenden Element der Musik und Techno begann nicht nur als Genre, sondern als Betriebssystem für die urbane Kultur zu fungieren.
+In den späten 1980er und frühen 1990er Jahren gelangte Techno nach Europa und wurde in jeder Stadt unterschiedlich interpretiert. Vor allem in Städten wie Berlin, Frankfurt und London wurde der Clubraum selbst zum prägenden Element der Musik und Techno begann nicht nur als Genre, sondern als Betriebssystem für die urbane Kultur zu fungieren.
 
 >Bevor es Musik gab, war Techno eine gemeinsame Sprache, um Städte und Körper zu verbinden.
 
@@ -56,7 +56,7 @@ Die Umrisse des Minimal Techno wurden Anfang der 1990er Jahre in Berlin deutlich
 
 ### Resonanz zwischen Minimalismus in Architektur und Kunst
 
-Berlin war damals stark vom Post-Bauhaus-Funktionalismus und dem Minimalismus der modernen Kunst beeinflusst. Die Ästhetik, auf Dekoration zu verzichten und die Struktur selbst freizulegen, wurde natürlich auch auf die Musik angewendet. Minimal Techno war nicht nur Musik, die in Clubs gespielt wurde, sondern auch Teil der Raumgestaltung.
+Berlin war damals stark vom Post-Bauhaus-Funktionalismus und dem Minimalismus der modernen Kunst beeinflusst. Die Ästhetik, auf Dekoration zu verzichten und die Struktur selbst freizulegen, wurde natürlich auch auf die Musik übertragen. Minimal Techno war nicht nur Musik, die in Clubs gespielt wurde, sondern auch Teil der Raumgestaltung.
 
 > Minimal Techno war ein unvermeidlicher Sound, der aus der Stadt Berlin selbst stammte.
 
@@ -80,11 +80,11 @@ In einem großen Club in Berlin bringt der Bass das gesamte Gebäude zum Schwing
 
 ### Zufall zwischen Chicago und TB-303
 
-Die Ursprünge des Acid Techno liegen Mitte der 1980er Jahre in Chicago. Der Roland TB-303 wurde ursprünglich für das Gitarrentraining entwickelt, galt jedoch auf dem Markt als Fehlschlag. Allerdings erzeugte dieses Gerät, das seinen Weg auf den Gebrauchtmarkt fand, mit seiner einzigartigen Resonanz- und Slide-Funktion einen noch nie dagewesenen Bassklang.
+Die Ursprünge des Acid Techno liegen Mitte der 1980er Jahre in Chicago. Das Roland TB-303 wurde ursprünglich für das Gitarrentraining entwickelt, galt aber auf dem Markt als Fehlschlag. Allerdings erzeugte dieses Gerät, das seinen Weg auf den Gebrauchtmarkt fand, mit seiner einzigartigen Resonanz- und Slide-Funktion einen noch nie dagewesenen Bassklang.
 
 ### Kombiniert mit der britischen Rave-Kultur
 
-In den frühen 1990er Jahren gelangte LSD nach Großbritannien und wurde mit illegalen Raves und Partys im Freien in Verbindung gebracht. Acid Techno, der in Lagerhäusern und Feldern widerhallte, war direkt mit der Freude verbunden, vom System abzuweichen und sich in eine exzessive und aggressive Richtung zu entwickeln.
+In den frühen 1990er Jahren gelangte LSD nach Großbritannien und wurde mit illegalen Raves und Partys im Freien in Verbindung gebracht. Acid Techno, der in Lagerhäusern und Feldern widerhallte, war direkt mit der Freude am Abweichen vom System verbunden und entwickelte sich in eine exzessive und aggressive Richtung.
 
 > Acid Techno war der Sound der Rebellion, der am Rande der Stadt verstärkt wurde.
 
@@ -132,7 +132,7 @@ Acid Techno bringt sofort die Temperatur auf dem Boden in die Höhe. Durch die E
 
 ---
 
-## Chronologie Schnittpunkt von Minimal und Acid
+## Chronologie Schnittpunkt von Minimal und Säure
 
 | Jahre | Veranstaltungen |
 | ---- | ------------------- |

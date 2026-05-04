@@ -66,7 +66,7 @@ Bei der Analyse der Musik von Recondite ist sie durch „Atmung im unteren Berei
 Kick ist immer gedämpft und lässt stattdessen den Nachhall der Synthesizer die Luftschichten zwischen den Bäumen zum Ausdruck bringen.
 Diese Struktur entspricht dem Mechanismus, durch den Waldbaden den Parasympathikus beim Menschen stimuliert.
 
-> Beim Waldbaden werden mehrere Reize wie natürliche Geräusche, Licht, Gerüche und Feuchtigkeit genutzt.
+> Beim Waldbaden werden vielfältige Reize wie natürliche Geräusche, Licht, Gerüche und Feuchtigkeit genutzt.
 > Es soll Stresshormone beim Menschen reduzieren (Umfrage der Forstbehörde, 2004).
 
 Bei den Live-Auftritten von Recondite fühlt es sich an, als ob ein „**elektronisches Laubreiben**“ den Veranstaltungsort umhüllt.
@@ -183,12 +183,12 @@ Mit anderen Worten: Es präsentiert eine neue Körperlichkeit namens **Musik = W
 ## Kapitel 10: Fazit – Techno kehrt in den Wald zurück
 
 Die Musik von Recondite ist nicht mechanischer Natur, sondern
-**Es hält das Gleichgewicht aufrecht wie eine Maschine, die in der Natur atmet**.
+**Es hält ein Gleichgewicht aufrecht, das sich anfühlt, als würde eine Maschine in der Natur atmen**.
 
 Wenn das Baden im Wald ein Akt der „Rückkehr des Menschen zur Natur“ ist,
 Die Musik von Recondite ist ein Akt der „Rückführung von Techno in die Natur“.
 Künstlich und organisch, Stadt und Wald, Takt und Stille – sie alle verschmelzen in ihm.
-Es schwingt mit als eine neue „**Poetik der digitalen Natur**“.
+Es schwingt mit als eine neue „**Poetik der digitalen Natur**.“
 
 > Hören Sie Recondite, als würden Sie ein Waldbad nehmen.
 > Das ist der Moment, in dem wir uns daran erinnern, dass Techno wieder „lebendig“ ist.

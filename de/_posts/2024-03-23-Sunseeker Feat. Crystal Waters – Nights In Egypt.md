@@ -10,19 +10,19 @@ tags:
 - House
 - Electronic
 - 00s
-title: Sunseeker Feat. Crystal Waters – Nights In Egypt
+title: Sunseeker Feat. Kristallwasser – Nächte in Ägypten
 ---
 
 
-フィーチャリングされているCrystal Waters（クリスタル・ウォーターズ）はハウス・ボーカリストで1961年にニュージャージー州デプトフォード・タウンシップ生まれました。
+Crystal Waters ist ein House-Sänger, der 1961 in Deptford Township, New Jersey, geboren wurde.
 
-ジャズ・ミュージシャンのジュニア・ウォーターズの娘で、エセル・ウォーターズの曾姪であり、IAH Records を運営しています。
+Sie ist die Tochter des Jazzmusikers Junior Waters und Großnichte von Ethel Waters, die IAH Records leitet.
 
-幼い頃から音楽に囲まれて育ち、父親の影響でジャズに親しみ、1980年代後半からハウス・ミュージックシーンで活動を始め、1991年にシングル「Gypsy Woman (She's Homeless)」で世界的な大ヒットを飛ばしました。
+Sie wuchs schon in jungen Jahren umgeben von Musik auf, lernte unter dem Einfluss ihres Vaters den Jazz kennen und begann Ende der 1980er Jahre in der House-Musikszene zu arbeiten, wo sie 1991 mit der Single „Gypsy Woman (She's Homeless)“ einen Welthit landete.
 
-その後も「100% Pure Love」、「Destination Calabria」など数々のヒット曲をリリースし、ハウス・ミュージック界を代表するアーティストになりました。
+Seitdem hat er viele Hits wie „100 % Pure Love“ und „Destination Calabria“ veröffentlicht und sich zu einem der führenden Künstler der House-Musikwelt entwickelt.
 
-パワフルななボーカルとキャッチーなメロディーで知られ、ライブでも圧倒的なパフォーマンスを見せ、現在は自身のレーベル IAH Records を運営し、新進気鋭のアーティストを発掘・育成するなど、音楽シーンの活性化に貢献しています。
+Bekannt für seinen kraftvollen Gesang und seine eingängigen Melodien, zeigt er auch bei Live-Shows eine überwältigende Leistung. Derzeit betreibt er sein eigenes Label IAH Records und trägt zur Wiederbelebung der Musikszene bei, indem er aufstrebende Künstler entdeckt und fördert.
 
 #### Trackliste
 ```md

@@ -18,11 +18,11 @@ title: '[Kolumne] Kulturgeschichte des Scat-Gesangs: Der Moment, in dem die Stim
 
 
 
-## Prolog Freiheit entsteht im Moment der Sinnaufgabe
+## Prolog Freiheit entsteht im Moment der Aufgabe des Sinns
 
 Text: mmr｜Thema: Die Kulturgeschichte der Geburt, Verbreitung und Erneuerung des Scat-Gesangs, bei dem die Stimme zu Rhythmus und Melodie wird, die über Worte hinausgeht.
 
-Scat-Gesang ist ein stimmlicher Ausdruck, der sich vorübergehend von bedeutungsvoller Sprache distanziert und improvisatorisch mit Silben und Lautmalerei singt. Diese Methode, die Stimme selbst durch Melodie, Rhythmus, Klangfarbe und Phrasierung als Instrument zu behandeln, war in der Geschichte des Jazz viel mehr als nur eine Gesangstechnik. Es war ein Auftritt, der die Fragen „Was ist ein Sänger?“ ​​und „Welche Rolle spielt die Stimme?“ auf den neuesten Stand brachte.
+Scat-Gesang ist ein stimmlicher Ausdruck, der sich vorübergehend von bedeutungsvoller Sprache distanziert und improvisatorisch mit Silben und Lautmalerei singt. Diese Methode, die Stimme selbst durch Melodie, Rhythmus, Klangfarbe und Phrasierung als Instrument zu behandeln, war in der Geschichte des Jazz weit mehr als nur eine Gesangstechnik. Es war ein Auftritt, der die Fragen „Was ist ein Sänger?“ ​​und „Welche Rolle spielt die Stimme?“ auf den neuesten Stand brachte.
 
 Im Amerika des frühen 20. Jahrhunderts war Jazz eine Musik, die eher vom Körper und dem Gedächtnis als von Notenblättern getragen wurde. Improvisation war kein Schmuckstück, sondern eine Praxis im Herzen der Musik. Scat ist ein natürliches Ergebnis dieser improvisatorischen Natur, die sich auf die Stimme erstreckt. Durch den vorübergehenden Verzicht auf Worte, die Bedeutung vermitteln, konnten Sänger auf der gleichen Ebene wie Interpreten stehen.
 
@@ -64,7 +64,7 @@ Mitte der 1920er Jahre war die One-Shot-Aufnahme in den Aufnahmestudios in Chica
 
 In seinem Scat haben die Silben keine Bedeutung, aber die rhythmische Anordnung ist sehr klar. Der Anfang der Phrase ist der Anschlag der Trompete, und das Ende konvergiert natürlich mit dem Atem. Hier fungiert die Stimme als Melodieinstrument und das Fehlen von Texten wird eher zur Voraussetzung als zum Versäumnis.
 
-Wenn Sie sich die Platten aus dieser Zeit genau anhören, werden Sie feststellen, dass auch die Distanz zwischen Ihnen und der Band wichtig war. Der Scat geht zwar nicht in der Begleitung unter, fällt aber auch nicht allzu sehr auf. Das Improvisationsgefühl innerhalb des Ensembles war bereits perfektioniert.
+Wenn man sich die Platten aus dieser Zeit genau anhört, erkennt man, dass auch die Distanz zur Band wichtig war. Der Scat geht zwar nicht in der Begleitung unter, fällt aber auch nicht allzu sehr auf. Das Improvisationsgefühl innerhalb des Ensembles war bereits perfektioniert.
 
 <div class="mermaid">
 timeline
@@ -152,7 +152,7 @@ Die Frikative „ske“, „sha“ und „tss“ fungieren oft als Lücken oder 
 
 Mit der Weiterentwicklung der Aufnahmetechnik sind Scat-Fragmente Gegenstand von Sampling und Zitaten geworden. Die Stimme ist zugleich Performance und Material, genreübergreifend.
 
-Scat-Ideen sind weit verbreitet, von den leichten Gesangsimprovisationen des Bossa Nova über den Fake-Gesang von Soul und Funk bis hin zu den Refrains des Pop.
+Scat-Ideen sind weit verbreitet, von den leichten Gesangsimprovisationen des Bossa Nova über den Fake-Gesang von Soul und Funk bis hin zur Chorarbeit des Pop.
 
 > Scat hat Genres überschritten und die Freiheit der Stimme weiter erweitert.
 
@@ -160,7 +160,7 @@ Scat-Ideen sind weit verbreitet, von den leichten Gesangsimprovisationen des Bos
 
 ## Ergänzungskapitel: Scat für Japanischsprachige
 
-Der Grund dafür, dass japanische Sprecher Scat als schwierig empfinden, ist nicht so sehr die Technik, sondern die Struktur der Sprache. Im Mittelpunkt der japanischen Sprache stehen Vokale mit wenigen aufeinanderfolgenden Konsonanten und klaren Silbenbrüchen. Aus diesem Grund ist es schwierig, detaillierte rhythmische Ausdrücke mithilfe von Plosiven und Frikativen zu verkörpern.
+Der Grund dafür, dass japanische Sprecher Scat als schwierig empfinden, ist nicht so sehr die Technik, sondern die Struktur der Sprache. Im Mittelpunkt der japanischen Sprache stehen Vokale mit wenigen aufeinanderfolgenden Konsonanten und deutlichen Silbenbrüchen. Aus diesem Grund ist es schwierig, detaillierte rhythmische Ausdrücke mithilfe von Plosiven und Frikativen zu verkörpern.
 
 Darüber hinaus besteht bei japanischen Lautäußerungen eine starke Verbindung zwischen Bedeutung und Klang, und es ist leicht, einen psychologischen Widerstand gegen das Aussprechen bedeutungsloser Silben zu verspüren. Scat erfordert den Mut, die Silbe nicht auszusprechen, und dieses Gefühl ist möglicherweise für Nicht-Muttersprachler leichter zu erlernen.
 

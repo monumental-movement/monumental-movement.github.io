@@ -54,7 +54,7 @@ color: #fff;
 Die Bittiefe ist ein Index, der angibt, wie viele Ebenen die Klangamplitude ausgedrückt werden kann.
 Wenn es 16 Bit ist, gibt es 65.536 Ebenen, und wenn es 8 Bit ist, gibt es nur 256 Ebenen. Je kleiner die Anzahl der Stufen ist, desto rauer ist die Lautstärkeänderung und desto auffälliger ist das Quantisierungsrauschen.
 
-Niedrige Bittiefen waren in frühen digitalen Audiogeräten aufgrund von Kosten- und Verarbeitungsleistungsbeschränkungen üblich. Dies war eine Designnotwendigkeit und nicht beabsichtigt.
+Aufgrund von Kosten- und Verarbeitungsleistungsbeschränkungen waren in frühen digitalen Audiogeräten niedrige Bittiefen üblich. Dies war eine Designnotwendigkeit und nicht beabsichtigt.
 
 > Low-Bit-Sound existierte zunächst als „unvermeidliche Einschränkung“.
 
@@ -117,7 +117,7 @@ Mit dem Aufkommen von Emulatoren, Tracker-Software und einfachen Synthesizern ve
 
 Dieser Trend verband sich auch mit späterer Lo-Fi-orientierter Musik und Indie-Musik.
 
-> Ton mit niedriger Auflösung ist im hochauflösenden Vertriebsnetz angekommen.
+> Ton mit niedriger Auflösung hat Eingang in das Vertriebsnetz mit hoher Auflösung gefunden.
 
 ---
 
@@ -135,7 +135,7 @@ Das resultierende Quantisierungsrauschen, stufenartige Lautstärkeänderungen, e
 
 ---
 
-### Als Effekt etabliert
+### Etablierung als Wirkung
 
 Seit Ende der 1990er Jahre werden Bit-Crusher in DAWs und Multieffektgeräten verbaut.
 Dies war eine entscheidende Änderung, die Low-Bit-Töne als „wählbare Töne“ positionierte.
@@ -232,13 +232,13 @@ flowchart LR
 ## Letztes Kapitel: Die Idee, eine Auflösung zu wählen
 
 Bit-Crush- und Low-Bit-Musik sind mehr als nur Soundeffekte oder Genres.
-Es kommt darauf an, wie präzise der Klang der Welt präsentiert werden soll.
+Es geht darum, zu entscheiden, wie präzise der Klang der Welt präsentiert werden soll.
 
 Mit fortschreitender Technologie werden keine Grenzen mehr von außen gesetzt.
 Aus diesem Grund ist die absichtliche Herabsetzung der Auflösung eine klare Ideologie.
 
 Niedrige Bits sind kein Relikt der Vergangenheit.
-Es ist eine Ästhetik, die erst dann zum Tragen kommt, wenn die digitale Musik ausgereift ist.
+Es ist eine Ästhetik, die erst entstehen wird, wenn die digitale Musik ausgereift ist.
 
 > Die Wahl der Klangauflösung ist gleichbedeutend mit der Wahl der Ausdrucksposition.
 

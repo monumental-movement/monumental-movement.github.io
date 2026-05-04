@@ -9,11 +9,11 @@ permalink: /de/purveyors-of-fine-funk-purveyors-of-fine-funk/
 tags:
 - Techno
 - House
-title: Lieferanten von feinem Funk – Lieferanten von feinem Funk
+title: Lieferanten von Fine Funk – Lieferanten von Fine Funk
 ---
 
 
-Purveyors Of Fine Funk ist eine Gruppe, die Songs kreiert, die Elemente der Funkmusik beinhalten, und wie der Name schon sagt, liefern sie Funk von hoher Qualität.
+Purveyors Of Fine Funk ist eine Gruppe, die Songs kreiert, die Elemente der Funkmusik enthalten, und wie der Name schon sagt, liefern sie Funk von hoher Qualität.
 
 Es enthält Elemente wie funkige Rhythmen, Slap-Bass und eine Blechbläsersektion. Die Songs haben tanzbare Grooves und eingängige Melodien, die den Zuhörer unterhalten, während er dem Rhythmus folgt.
 

@@ -24,7 +24,7 @@ Text: mmr｜Thema: Über Butthole Surfers‘ **Tonquelle, Live-Auftritt, Aufnahm
 
 
 Nur wenige Figuren im amerikanischen Untergrund der 1980er Jahre waren so bizarr, gewalttätig und halluzinatorisch wie die Butthole Surfers.
-Ihre Live-Shows werden oft mit den Begriffen „Shock Rock“, „Heavy Psychedelic“ und „Mayhem“ beschrieben, aber ihr Wesen ist viel komplexer.
+Ihre Live-Auftritte werden oft als „Shock Rock“, „Heavy Psychedelic“ und „Chaos“ beschrieben, ihr Wesen ist jedoch viel komplexer.
 
 *Verwirrung entsteht durch Berechnung,
 Dissonanz entsteht durch Improvisation,
@@ -54,12 +54,12 @@ Die Band wurde in Texas gegründet und hatte von Anfang an Elemente, die zum Syn
 
 Obwohl sich die Mitglieder im Laufe der Zeit ändern, sind die anfänglichen Kernmitglieder wie folgt.
 
-* **Gibby Haynes** – Gesang, Gitarre, visuelle Regie
+* **Gibby Haynes** – Gesang, Gitarre, visuelle Leitung
 * **Paul Leary** – Gitarre
 * **King Coffey** – Schlagzeug
 * **Teresa Taylor** – Schlagzeug (Doppeltrommelkonfiguration)
 
-Insbesondere Gibby Haynes und Paul Leary fanden trotz unterschiedlicher musikalischer Ausrichtung Harmonie und gründeten eine Aktivität, die einer Kunstgruppe ähnelte.
+Vor allem Gibby Haynes und Paul Leary fanden trotz unterschiedlicher musikalischer Ausrichtung Harmonie und gründeten eine Aktivität, die einer Kunstgruppe ähnelte.
 
 ---
 
@@ -140,7 +140,7 @@ flowchart TD
 # **5. Hairway to Steven (1988): Länger und strukturierter**
 
 Lange und kurze Lieder werden abwechselnd arrangiert und der „Umriss des Liedes“ wird deutlicher als zuvor.
-Um die Live-Reproduzierbarkeit zu verbessern, wurde auch bei der Studioaufnahme mit einer klaren Rollenverteilung vorgegangen.
+Um die Live-Reproduzierbarkeit zu verbessern, wurde auch bei der Studioaufnahme eine klare Rollenverteilung eingeführt.
 
 <div class="mermaid">
 flowchart TD
@@ -195,7 +195,7 @@ Mit diesem Album wurden ernsthaft digitale Sampler-Effekte eingeführt und das K
 
 * Direkt aufgenommenes Gitarrenriff, improvisierte Performance mit geschichteter Verzerrung
 * Das Saxophon bildet mit kurzen Phrasen eine Kakophonie
-* Das Schlagzeug verwendet viele seltsame Taktarten und nimmt im Studio grundsätzlich in einem Take auf.
+* Das Schlagzeug verwendet viele ungewöhnliche Taktarten und nimmt im Studio grundsätzlich in einem Take auf.
 
 2. **Lady Sniff**
 
@@ -375,7 +375,7 @@ flowchart TD
 * Änderungen des Bühnenklangbildes durch Reproduktion von Synth-Pad-Samples
 * Die Videoproduktion wurde auf digital verlagert, wodurch die Synchronisierung verbessert wurde
 
-### ● Live-Leistungsdiagramm (2001–)
+### ● Live-Performance-Karte (2001–)
 
 <div class="mermaid">
 flowchart TD
@@ -397,7 +397,7 @@ Die von Butthole Surfers verwendete Ausrüstung schwankt im Laufe der Jahre star
 
 *Gibson SG
 *Fender Stratocaster
-* Fender Twin Reverb (hohe Leistung)
+*Fender Twin Reverb (hohe Leistung)
 * Peavey-Verstärker (hohe Störfestigkeit)
 
 ## 9.2 Basis
@@ -445,7 +445,7 @@ Im Kern handelt es sich jedoch um ein **Experiment mit Struktur**.
 
 * Dissonanz ist nicht improvisiert, sondern „gewolltes Arrangement“
 * Lärm ist Teil des akustischen Designs
-* Das Chaos einer Live-Performance ist die präzise Koordination von Beleuchtung, Video und PA.
+* Das Chaos einer Live-Performance liegt in der präzisen Koordination von Beleuchtung, Video und PA.
 * Psychedelia ist wie eine Geschichte aufgebaut
 
 Dadurch wurden sie zu einer wichtigen Säule des amerikanischen Undergrounds und beeinflussten die Grundlagen des Alternative Rock.

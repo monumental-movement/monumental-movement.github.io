@@ -23,7 +23,7 @@ Text: mmr｜Thema: Musikalischer Ausdruck von Spannung und Struktur, geschaffen 
 
 ### Das Konzept von Namen und Anonymität
 
-Angine de Poitrine ist ein Rockduo aus Saguenay, Quebec, Kanada. Sie wurden 2019 gegründet und erregen Aufmerksamkeit durch ihren einzigartigen Stil, der experimentellen Rock und visuelle Produktion verbindet.
+Angine de Poitrine ist ein Rockduo aus Saguenay, Quebec, Kanada. Sie wurden 2019 gegründet und erregen Aufmerksamkeit für ihren einzigartigen Stil, der experimentellen Rock und visuelle Produktion verbindet.
 
 Der Name der Band bedeutet auf Französisch „Angina“. Dieser Name ist nicht nur ein Versuch, Wirkung zu erzielen, sondern symbolisiert auch die Spannung und den Druck, der ihrer Musik zugrunde liegt.
 
@@ -53,7 +53,7 @@ color: #fff;
 
 Ihre Heimatstadt Saguenay, Quebec, ist eine Region mit starken Wurzeln in der französischen Kultur und bildet eine einzigartige Kulturregion in Nordamerika. Dieses Umfeld beeinflusste auch die Musik und förderte einen anderen Ansatz als der englischsprachige Rock.
 
-Die Musikszene Quebecs legt eher Wert auf Kunstfertigkeit und Experimente als auf Kommerzialität, und Versuche, Genregrenzen zu überschreiten, sind an der Tagesordnung. In diesem Zusammenhang entstand auch Angine de Poitrine.
+Die Musikszene Quebecs tendiert dazu, den Schwerpunkt auf Kunstfertigkeit und Experimentierfreudigkeit gegenüber Kommerzialität zu legen, und Versuche, Genregrenzen zu überschreiten, sind an der Tagesordnung. In diesem Zusammenhang entstand auch Angine de Poitrine.
 
 <div class="mermaid">
 flowchart TD
@@ -102,7 +102,7 @@ Diese „Zeitverzögerung zwischen Gründung und Etablierung“ zeigt, dass ihre
 
 Obwohl Angine de Poitrines Musik auf Math Rock basiert, zeichnet sie sich dadurch aus, dass sie aktiv mikrotonale Elemente einbezieht. Es verwendet Tonhöhen, die von der standardmäßigen 12-Temperament-Temperamentierung und nicht standardmäßigen Stimmung abweichen, was zu einer einzigartigen Instabilität führt.
 
-Rhythmuslich kommen häufig komplexe Taktarten und Polyrhythmen zum Einsatz und die Musik weist eine zugleich regelmäßige und unterbrochene Struktur auf. Dadurch werden die Erwartungen des Hörers ständig enttäuscht.
+In Bezug auf den Rhythmus werden häufig komplexe Taktarten und Polyrhythmen verwendet, und die Struktur weist sowohl Regelmäßigkeit als auch Unterbrechungen auf. Dadurch werden die Erwartungen des Hörers ständig enttäuscht.
 
 <div class="mermaid">
 flowchart LR
@@ -167,7 +167,7 @@ Dieser Fluss weist auf eine zeitgenössische Struktur hin, in der Bewertungen in
 
 ### Auftritt beim FUJI ROCK FESTIVAL
 
-Im Jahr 2026 wird Angine de Poitrine zum ersten Mal nach Japan kommen und beim FUJI ROCK FESTIVAL auftreten. Dies ist ein wichtiger Wendepunkt für sie, eine Verbindung vom Untergrund zu einem breiteren Publikum.
+Im Jahr 2026 wird Angine de Poitrine zum ersten Mal nach Japan kommen und beim FUJI ROCK FESTIVAL auftreten. Für sie ist dies ein wichtiger Wendepunkt, eine Verbindung vom Untergrund zu einem breiteren Publikum.
 
 Wie experimentelle Musik wie ihre in offenen Veranstaltungsorten wie Festivals aufgenommen wird, ist ein Indikator für die Vielfalt der zeitgenössischen Musikkultur.
 
@@ -219,5 +219,14 @@ Ihre Aktivitäten, die sich um Anonymität und Experimente drehen, weisen auf ei
 
 > Das Gefühl der Spannung kann der Kern der Musik sein
 
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ATAuer2IBV4?si=7SWSBAG6Yue387cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

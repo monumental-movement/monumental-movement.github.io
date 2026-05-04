@@ -98,7 +98,7 @@ Auf diese Weise ist der Klang von Assarato nicht einfach die Aktion des „Schla
 
 ### In- und Out-Übungen
 
-Bei der Aufführung von Asarat gibt es zwei Grundbewegungen: „hinaus“ und „hinein“. „Out“ ist die Bewegung, bei der der Ball nach außen schwingt, und „In“ ist die Bewegung, bei der der Ball wieder nach innen schwingt.
+Bei der Aufführung von Asarat gibt es zwei grundlegende Bewegungen: „out“ und „in“. „Out“ ist die Bewegung, bei der der Ball nach außen schwingt, und „In“ ist die Bewegung, bei der der Ball wieder nach innen schwingt.
 
 Bei dieser Hin- und Herbewegung wird der Rhythmus durch den Zeitpunkt bestimmt, zu dem die Kugeln aufeinanderprallen. Selbst bei einfachen Mustern lassen sich durch Veränderung des Timings völlig unterschiedliche Grooves erzeugen.
 
@@ -132,7 +132,7 @@ Darüber hinaus reproduzieren die Darsteller nicht nur den Rhythmus, sondern imp
 
 ### Von Weltmusik auf die Straße
 
-In der zweiten Hälfte des 20. Jahrhunderts wurde Asarat im Rahmen der Weltmusikbewegung auch in anderen Regionen als Westafrika eingeführt. Mit dem wachsenden Interesse an Volksmusik erlangte dieses Instrument nach und nach internationale Anerkennung.
+In der zweiten Hälfte des 20. Jahrhunderts wurde Asarat im Rahmen des Weltmusiktrends auch in anderen Regionen als Westafrika eingeführt. Mit dem wachsenden Interesse an Volksmusik erlangte dieses Instrument nach und nach internationale Anerkennung.
 
 Danach entwickelte es sich in Europa und Japan in einer neuen Form und verband es mit der Straßenperformance und der Jonglierkultur. Vor allem in städtischen Gebieten wird es häufig als Teil von Aufführungen eingesetzt, die Musik und visuellen Ausdruck verbinden.
 

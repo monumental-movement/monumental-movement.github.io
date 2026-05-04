@@ -9,13 +9,13 @@ permalink: /de/the-cage-featuring-nona-hendryx-do-what-ya-wanna-do/
 tags:
 - Disco
 - 80s
-title: Der Käfig mit Nona Hendryx – Do What Ya Wanna Do
+title: The Cage Featuring Nona Hendryx – Do What Ya Wanna Do
 ---
 
 
-The Cage ist eine Band, die hauptsächlich von Nona Hendryx gegründet wurde, mit der Beteiligung von Rusty Egan (Schlagzeug), Steve Barnacle (Bass/Gitarre) und Gary Barnacle (Saxophon/Synth), die Mitglieder der britischen Synth-Pop-Gruppe Visage waren, die als Geburtsort der New Romantic-Bewegung gilt.
+The Cageは、Nona Hendryx を中心に結成されたバンドで、制作にはニューロマンティックの発祥のバンドとして名が高いイギリスのシンセポップ・グループVisage(ヴィサージ)のメンバーだった Rusty Egan（ドラム）、Steve Barnacle（ベース／ギター）、Gary Barnacle（サックス／シンセ）が参加している。
 
-„Do What Ya Wanna Do“, veröffentlicht 1982, ist eine Coverversion eines Disco-Tracks von T-Connection aus dem Jahr 1977, arrangiert im Funk-Disco-Stil. Als Crossover zwischen Disco-Szene und Post-Punk genießt es große Anerkennung.
+1982年にリリースされた「Do What Ya Wanna Do」は、1977年にT-ConnectionがリリースしたDiscoトラックをFunk Discoテイストにアレンジしたカヴァーヴァージョン。ディスコ・シーンとポストパンクのクロスオーバーとして高く評価されている。
 
 
 #### Trackliste

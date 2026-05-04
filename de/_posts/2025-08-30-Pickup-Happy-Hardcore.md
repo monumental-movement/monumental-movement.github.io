@@ -10,20 +10,20 @@ tags:
 - Happy Hardcore
 - 90s
 - 00s
-title: Holen Sie sich Happy Hardcore-Werke
+title: ハッピーハードコア（Happy Hardcore）作品をピックアップ
 ---
 
 
-„Eine Reihe endlos spannungsgeladener Happy-Hardcore-Werke, die sowohl die Vergangenheit als auch die Zukunft transzendieren.“
+「過去も未来も飛び越える、無限のハイテンション、ハッピーハードコア（Happy Hardcore）作品群」
 
 <hr>
 
 ### Charly Lownoise & Mental Theo – Wonderfull Days
 <a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%E2%80%93%20Wonderfull%20Days.webp"></a>
 
-Veröffentlicht: 1994/Niederländisches Happy-Hardcore-Meisterwerk
+リリース：1994年／オランダのハッピーハードコア代表作
 
-Features: Ein Klassiker, der mit seiner eingängigen Melodie und positiven Energie die Eurodance-/Rave-Szene der 90er im Sturm eroberte. Es wird auch heute noch von vielen Clubs und Raves geliebt.
+特徴：キャッチーなメロディとポジティブなエネルギーで、90年代のユーロダンス・レイブシーンを席巻したクラシック。今も多くのクラブやレイブで愛され続けています。
 
 #### Trackliste
 ```md
@@ -44,12 +44,12 @@ B2. Wonderfull Days (Radio Mix)
 
 
 
-### Scooter – Nenn mich Mañana
+### Scooter – Call Me Mañana
 <a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp"></a>
 
-Veröffentlicht: 1998, Single aus „No Time to Chill“
+リリース：1998年、『No Time to Chill』収録シングル
 
-Eigenschaften: Fröhlicher, Hardcore-orientierter Trance, der durch den starken Sample-Einsatz von „James Brown Is Dead“ (L.A. Style) glänzt. Ein einzigartiges Stück der Übersee-Band Scooter.
+特徴：「James Brown Is Dead」（L.A. Style）の強烈なサンプル使いが光る、ハッピーハードコア寄りのトランス。海外のバンドScooterによる異色作。
 
 #### Trackliste
 ```md
@@ -72,9 +72,9 @@ B2. Call Me Mañana (Heavy Horses Radio)
 ### Ratty – Sunrise (Here I Am)
 <a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(Here%20I%20Am).webp"></a>
 
-Übersicht: Songs von Scooters Trance-abgeleitetem Projekt Ratty
+概要：Scooter のトランス派生プロジェクト Ratty による曲
 
-Features: Stellt die Originalversion von „She’s The Sun“ „Sunrise (Ratty’s Inferno)“ dar. Eine leidenschaftliche Bodenbahn, die im Club großartig aussieht.
+特徴：「She’s The Sun」オリジナルバージョン「Sunrise (Ratty’s Inferno)」を表現。クラブで映える情熱的なフロア向けトラックです。
 
 
 #### Trackliste
@@ -95,12 +95,12 @@ B2. Sunrise (Here I Am) (Instrumental)
 <br>
 
 
-### Phase vs. DJ Sniper Feat. Karen – Forevermore / Zündsequenz
+### Phase vs. DJ Sniper Feat. Karen – Forevermore / Ignition Sequence
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
-Veröffentlicht vom britischen Label Sonic Boom
+リリース元：UK レーベル Sonic Boom
 
-Features: Eine kraftvolle EP aus fröhlichem Hardcore x Hardcore/Techno-Fusion, mit dem Titelsong „Forevermore“ und der Techno-angehauchten „Ignition Sequence“.
+特徴：表題曲「Forevermore」とテクノ風味の「Ignition Sequence」が入り混じる、ハッピーハードコア × ハードコア・テクノ融合の力強いEP。
 
 #### Trackliste
 ```md
@@ -120,12 +120,12 @@ B2. Forevermore (Original)
 <br>
 
 
-### DJ Breeze – Springe ein bisschen höher
+### DJ Breeze – Jump A Little Higher
 <a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Little%20Higher.webp"></a>
 
-Künstler: Der beliebte britische DJ/Produzent Mark Breeze
+アーティスト：イギリスの人気 DJ／プロデューサー Mark Breeze
 
-Eigenschaften: Ein Song, der von vielen Clubs unterstützt wird, mit einer mitreißenden Melodie und einem energiegeladenen Beat, sowie Samples aus „Kick Your Legs In The Air“ und „Don’t Make Me Wait (Special Version)“.
+特徴：アップリフティングなメロディとエネルギッシュなビート、さらには「Kick Your Legs In The Air」「Don’t Make Me Wait (Special Version)」のサンプリングを活かした、多くのクラブで支持されてきた一曲。
 
 #### Trackliste
 ```md

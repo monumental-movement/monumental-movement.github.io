@@ -11,13 +11,13 @@ tags:
 - Grunge
 - Alternative Rock
 - 90s
-title: Pearl Jam – Ausbeute
+title: Pearl Jam – Yield
 ---
 
 
-Pearl Jam ist eine amerikanische Rockband, die 1990 in Seattle gegründet wurde. Sie gelten neben Soundgarden und Nirvana als eine der Hauptbands der Grunge-Bewegung der frühen 1990er Jahre und gelten als „die beliebteste amerikanische Rock'n'Roll-Band der 90er Jahre".
+Pearl Jam(パール・ジャム)は、1990年にシアトルで結成されたアメリカのロックバンド。サウンドガーデンやニルヴァーナ等と共に90年代初頭のグランジ運動の主要なバンドとして知られており、「90年代で最も人気のあるアメリカのロックンロールバンド」と言われている。
 
-Pearl Jams fünftes Studioalbum „Yield“, das 1998 veröffentlicht wurde, fühlt sich an wie eine Rückkehr zum geradlinigen Rocksound der Anfangstage der Band. Brendan O'Brien ist als Produzent beteiligt.
+1998年にリリースしたPearl Jam 5枚目のスタジオアルバム「Yield(イールド)」は、バンド初期の率直なロックサウンドへの回帰を感じる仕上がりになっている。プロデューサーとしてBrendan O'Brien(ブレンダン・オブライエン)が参加している。
 
 
 #### Trackliste

@@ -13,7 +13,7 @@ title: Knoc-Turn'al – Knoc
 ---
 
 
-Der aus Long Beach stammende Knoc-Turn'al wirkte auf dem Album „Dr.
+Der aus Long Beach stammende Knoc-Turn'al war auf dem Album „Dr.
 
 „knoc“ wurde 2001 auf Elektra veröffentlicht und war Knoc-Turn'als erste Single mit Missy Elliott und Dr. Dre. (Promo-Ausgabe)
 

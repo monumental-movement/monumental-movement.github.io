@@ -22,7 +22,7 @@ title: '[Kolumne] Parliament / Funkadelic: Die ganze Geschichte der P-Funk-Revol
 Text: mmr｜Thema: Über die Weltanschauung des P-Funk, der immer noch als Grundlage des aktuellen Hip-Hop, R&B, Elektro, Kunst und Mode existiert.
 
 
-In der Geschichte der schwarzen amerikanischen Musik in der zweiten Hälfte des 20. Jahrhunderts ist **Parliament/Funkadelic (allgemein bekannt als P-Funk)** die Gruppe, die die großartigste Mythologie und Klanginnovation vereint.
+In der Geschichte der amerikanischen schwarzen Musik in der zweiten Hälfte des 20. Jahrhunderts ist **Parliament/Funkadelic (allgemein bekannt als P-Funk)** die Gruppe, die den großartigsten Mythos und Klanginnovationen vereint.
 Unter der Leitung von George Clinton war dieses Kollektiv mehr als nur eine Band, es war ein gigantisches Projekt, das eine Multiversum-Geschichte, ein futuristisches technologisches Gespür und die durch und durch physischen Rhythmen des Funk verband.
 
 P-Funk wird klar, wenn man es im Hinblick auf die folgenden drei Achsen versteht.
@@ -84,7 +84,7 @@ Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic
 * **Aufruf und Antwort zum Evangelium der schwarzen Kirche**
 * **Texte mit starker politischer Kritik**
 
-Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist berühmt für Eddie Hazells über 10-minütiges Gitarrensolo.
+Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist wegen Eddie Hazells über 10-minütigem Gitarrensolo in Erinnerung geblieben.
 Es wurde als „musikalische Verkörperung schwarzer Traurigkeit und Wut“ beschrieben.
 
 ---
@@ -129,7 +129,7 @@ Was P-Funk einzigartig macht, ist nicht nur die Stärke seines Grooves, sondern 
 Das Trommeln von Jerome „Bigfoot“ Braley und anderen weist die folgenden Merkmale auf.
 
 * Minimale Bassdrum
-* Die Schlinge liegt tief und nah am Rücken.
+* Snare ist tief und zurück
 *Hi-Hat hat ein wenig Shuffle
 
 Dadurch fühlt es sich an, als würde sich der Beat vorwärts bewegen, während er schwebt.
@@ -162,7 +162,7 @@ Barney Worrells Minimoog brachte zum ersten Mal „kosmische elektronische Klän
 
 ### ■ Parlament „Mothership Connection“ (1975)
 
-* Das zentrale Werk der P-Funk-Mythologie
+* Das zentrale Werk des P-Funk-Mythos
 * Welthits wie „Give Up the Funk“ und „Mothership Connection“
 * Maximiert die Live-Theatralik
 

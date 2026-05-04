@@ -9,15 +9,15 @@ permalink: /de/the-communards-red/
 tags:
 - Synth-Pop
 - Pops
-title: Die Kommunarden – Rot
+title: The Communards – Red
 ---
 
 
-„Red“ ist ein Album des britischen Musikduos The Communards. Dieses Album wurde 1987 veröffentlicht. The Communards sind eine von Jimmy Somerville und Richard Coles gegründete Band, die für ihre Musik bekannt ist, die Elemente von Dance-Pop und Synth-Pop enthält.
+「Red」は、イギリスの音楽デュオ、The Communardsのアルバムです。このアルバムは1987年にリリースされました。The Communardsは、Jimmy SomervilleとRichard Colesによって結成されたバンドで、ダンスポップやシンセポップの要素を取り入れた音楽で知られています。
 
-„Red“ ist das Debütalbum der Communards und gilt weithin als eines ihrer erfolgreichsten Werke. Das Album enthält Songs mit emotionalem Gesang und tanzbaren Beats.
+「Red」は、The Communardsのデビューアルバムであり、彼らの最も成功した作品の一つとして広く認知されています。アルバムには、感情的なヴォーカルとダンサブルなビートが特徴の楽曲が収録されています。
 
-Das Album enthält Hitsingles wie „Don’t Leave Me This Way“ und „Never Can Say Goodbye“. Diese Songs waren aufgrund des unverwechselbaren Sounds und der Beliebtheit auf der Tanzfläche der Communards kommerziell erfolgreich.
+アルバムには、ヒットシングル「Don't Leave Me This Way」や「Never Can Say Goodbye」などが含まれています。これらの楽曲は、The Communardsの特徴的なサウンドと、ダンスフロアでの人気を受けて商業的にも成功を収めました。
 
 #### Trackliste
 ```md

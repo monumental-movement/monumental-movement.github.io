@@ -47,109 +47,109 @@ color: #fff;
 
 Die Ursprünge des Live Coding liegen in der **Algorithmischen Komposition**.
 Zu den frühesten Beispielen zählen automatische Kompositionsexperimente von Lejaren Hiller und Iannis Xenakis in den 1950er Jahren.
-それを21世紀に引き継ぎ、**身体性とリアルタイム性を取り戻した**のがLive Codingである。
+Live Coding hat dies ins 21. Jahrhundert getragen und Körperlichkeit und Echtzeitfunktionalität zurückgebracht.
 
-2004年、Alex McLeanとNick Collinsが提唱したコミュニティ「TOPLAP」は、  
-「Show us your screens!」というスローガンを掲げた。  
-音を出す過程（コード）を観客と共有することで、  
-**生成過程そのものをパフォーマンス化**するという理念だった。
+Im Jahr 2004 wurde die Community „TOPLAP“ von Alex McLean und Nick Collins vorgeschlagen.
+Der Slogan lautete: „Zeigen Sie uns Ihre Bildschirme!“
+Indem wir den Prozess (Code) der Tonerzeugung mit dem Publikum teilen,
+Die Idee war, den Produktionsprozess selbst in eine Performance zu verwandeln.
 
-TidalCycles、SuperCollider、Sonic Piといった環境は、  
-“音を手で書く”行為を即興的に可能にし、  
-電子音楽に新しいライブ性をもたらした。
-
----
-
-## 第2章：AIがもたらす生成の変容
-
-AIミュージックの文脈では、2010年代後半に**ディープラーニングによる音楽生成**が大きく進展した。  
-OpenAIの「Jukebox」、Googleの「Magenta」、および「Riffusion」などが代表例である。
-
-AIはコードを書かない。  
-代わりに、**大量のデータからパターンを学び、生成規則を“内在化”**する。  
-つまり、AIはLive Codingの「外」にあるアルゴリズム的知能だ。  
-だが近年、その境界は急速に曖昧になっている。  
-
-たとえばTidalCyclesユーザーがGPTを利用してリアルタイムにコードを提案させたり、  
-AIがライブの反応を解析して次のリズムを予測する事例も現れ始めている。  
-こうした融合は、「AIがLive Codingの共演者になる」未来を指し示している。
+Umgebungen wie TidalCycles, SuperCollider und Sonic Pi sind es
+Ermöglicht das improvisatorische „Handschreiben von Klängen“,
+Es brachte einen neuen Live-Charakter in die elektronische Musik.
 
 ---
 
-## 第3章：人間の即興性と機械の“即興”の差異
+## Kapitel 2: Transformation der Generation durch KI
 
-人間のLive Coderは、**エラーや偶然を味方にする**。  
-予期せぬ出音や、思考のズレが音楽を推進する。  
-それに対してAIの即興は、**過去のデータに基づく“再構成”**であり、  
-本質的には確率の枠内に留まる。
+Im Kontext der KI-Musik machte die **Musikgenerierung mittels Deep Learning** Ende der 2010er Jahre erhebliche Fortschritte.
+Repräsentative Beispiele sind „Jukebox“ von OpenAI, „Magenta“ von Google und „Riffusion“.
 
-だが、この違いこそが創造の源泉でもある。  
-AIは無限の組み合わせを提供し、人間はそこに意味を見出す。  
-両者の関係は「支配と従属」ではなく、**相互補完的な創造関係**に向かっている。
+KI schreibt keinen Code.
+Stattdessen lernt es Muster aus großen Datenmengen und „verinnerlicht“ Produktionsregeln.
+Mit anderen Worten handelt es sich bei KI um algorithmische Intelligenz, die „außerhalb“ von Live Coding liegt.
+In den letzten Jahren verschwimmen die Grenzen jedoch rapide.
+
+Beispielsweise verwenden TidalCycles-Benutzer GPT, um Codes in Echtzeit vorzuschlagen.
+Es tauchen immer wieder Fälle auf, in denen KI Live-Auftritte analysiert und den nächsten Rhythmus vorhersagt.
+Diese Fusion deutet auf eine Zukunft hin, in der KI zum Co-Star im Live Coding wird.
 
 ---
 
-## 第4章：主要ツールの進化と比較
+## Kapitel 3: Unterschiede zwischen menschlicher Improvisation und maschineller „Improvisation“
 
-| ツール名 | 開発者／団体 | 特徴 | AI連携の可能性 |
+Human Live Coder **genießen Fehler und Zufälle**.
+Unerwartete Geräusche und Missverständnisse bestimmen die Musik.
+Andererseits ist KI-Improvisation eine **„Rekonstruktion“ basierend auf vergangenen Daten**,
+Im Wesentlichen bleibt es im Rahmen der Wahrscheinlichkeit.
+
+Dieser Unterschied ist jedoch auch die Quelle der Kreativität.
+KI bietet unendlich viele Kombinationen, und der Mensch erkennt darin einen Sinn.
+Die Beziehung zwischen den beiden ist nicht eine von „Dominanz und Unterordnung“, sondern eine sich gegenseitig ergänzende kreative Beziehung.
+
+---
+
+## Kapitel 4: Entwicklung und Vergleich der wichtigsten Tools
+
+| Werkzeugname | Entwickler/Organisation | Funktionen | Möglichkeit der KI-Zusammenarbeit |
 |-----------|----------------|------|----------------|
-| **TidalCycles** | Alex McLean | パターン記述に特化したHaskellベースのLive Coding環境 | ChatGPT連携でリアルタイムコード生成が可能 |
-| **SuperCollider** | James McCartney | サウンド合成とアルゴリズム作曲の老舗環境 | AIモデルによるサウンドパラメータ制御が進行中 |
-| **Sonic Pi** | Sam Aaron | 教育・パフォーマンス両面を意識したRubyベース | 教育現場でAI補助コード例が活用 |
-| **Riffusion** | Seth Forsgrenら | スペクトログラムを生成する拡散モデル | AIそのものが音を直接生成 |
+| **Gezeitenzyklen** | Alex McLean | Haskell-basierte Live-Coding-Umgebung, spezialisiert auf Musterbeschreibung | Echtzeit-Codegenerierung mit ChatGPT-Integration möglich |
+| **SuperCollider** | James McCartney | Eine seit langem etablierte Umgebung für Klangsynthese und algorithmische Komposition | Die Steuerung der Klangparameter mithilfe von KI-Modellen ist in Arbeit |
+| **Sonic Pi** | Sam Aaron | Ruby-basiert mit Blick auf Bildung und Leistung | KI-gestützte Codebeispiele für den Einsatz im Bildungsbereich |
+| **Riffusion** | Seth Forsgren et al. | Diffusionsmodell, das Spektrogramme generiert | KI selbst erzeugt direkt Klang |
 
 ---
 
-## 第5章：AIとLive Codingの協演例
+## Kapitel 5: Beispiel für die Zusammenarbeit zwischen KI und Live Coding
 
-- **AI-DJ実験（2023, Berlin CTM Festival）**  
-　人間のLive CoderがTidalCyclesで演奏し、AIがBPM・和声・空間配置を解析。  
-　リアルタイムで応答的ミックスを生成。  
-　結果、**“人間のノリ”にAIが追随する形**での共演が成立。
+- **AI-DJ Experiment (2023, Berlin CTM Festival)**
+Ein menschlicher Live-Programmierer spielt auf TidalCycles und die KI analysiert den BPM, die Harmonie und die räumliche Anordnung.
+Erzeugen Sie reaktionsschnelle Mixe in Echtzeit.
+Dadurch konnten wir in einer Form mitspielen, bei der die KI dem „menschlichen Rhythmus“ folgt.
 
-- **Algorave × GPT Jam（2024, Tokyo）**  
-　複数のLive CoderがステージでGPTベースのコード提案を受け取り、  
-　その場で修正しながら演奏。観客からのチャットが入力データに。  
-　AIが“場の空気”を読むという試みが行われた。
+- **Algorave × GPT Jam (2024, Tokio)**
+Mehrere Live-Programmierer erhalten auf der Bühne GPT-basierte Codevorschläge.
+Führen Sie gleichzeitig Korrekturen vor Ort durch. Als Eingabedaten dienen Chats des Publikums.
+Es wurde versucht, die KI die „Atmosphäre des Ortes“ lesen zu lassen.
 
-- **Riffusion＋Tidal Loop**  
-　AIが生成した断片的サウンドをTidalCyclesがランダム再配置し、  
-　**AIが“素材”、人間が“構造”を担当**する新しい制作形式。
-
----
-
-## 第6章：倫理と創造性 ― オートメーション時代の“演奏者”とは
-
-AIがコードを書く時、著作権は誰に帰属するのか？  
-即興的生成に“オリジナル”という概念は成立するのか？  
-
-これらの問いは、Live Codingの哲学と密接に関わる。  
-TOPLAPが掲げた「プロセスを公開せよ」という理念は、  
-**透明性＝創造性の民主化**を意味していた。  
-AIがこの文化に加わるとき、  
-我々は“ブラックボックス”に抗う必要がある。  
-
-生成AIがコードを提案するなら、その学習過程や判断基準も公開されるべきだ。  
-それが、アルゴリズム音楽の未来を開く鍵となる。
+- **Riffusion+Gezeitenschleife**
+TidalCycles ordnet die von der KI erzeugten fragmentierten Geräusche nach dem Zufallsprinzip neu an.
+**Ein neues Produktionsformat, bei dem die KI für „Materialien“ und der Mensch für die „Struktur“ verantwortlich ist**.
 
 ---
 
-## 第7章：未来展望 ― “アルゴリズムが奏でる共演”へ
+## Kapitel 6: Ethik und Kreativität – Was ist ein „Performer“ im Zeitalter der Automatisierung?
 
-2030年代、音楽制作の現場では「AIセッション」が一般化するだろう。  
-AIは単なるツールではなく、**共演者＝Co-Performer**として位置づけられる。  
-人間はコンセプトや感情の方向性を指示し、  
-AIは即興的に数百パターンの音を提示。  
-そこから選び・編集する行為自体が“演奏”になる。
+Wem gehört das Urheberrecht, wenn KI Code schreibt?
+Gilt das Konzept des „Originals“ auch für die Improvisationsproduktion?
 
-さらに、Live Coding環境がAIと統合されることで、  
-「プロンプト＝演奏インターフェイス」となる可能性もある。  
-もはやマウスもMIDIも不要、  
-**言語と思考そのものが音になる時代**が来つつある。
+Diese Fragen stehen in engem Zusammenhang mit der Philosophie des Live Coding.
+Die Philosophie von TOPLAP, „den Prozess zu öffnen“, lautet
+**Transparenz = Demokratisierung der Kreativität**.
+Wenn KI dieser Kultur beitritt,
+Wir müssen der „Black Box“ widerstehen.
+
+Wenn eine generative KI einen Code vorschlägt, sollten auch deren Lernprozess und Entscheidungskriterien öffentlich gemacht werden.
+Dies ist der Schlüssel zur Erschließung der Zukunft der algorithmischen Musik.
 
 ---
 
-## 図版：Live Coding × AIの進化年表
+## Kapitel 7: Zukunftsaussichten – Auf dem Weg zur „algorithmgesteuerten Zusammenarbeit“
+
+In den 2030er Jahren werden „KI-Sessions“ in der Musikproduktion alltäglich werden.
+KI ist nicht nur ein Werkzeug, sondern wird als Mitwirkender positioniert.
+Der Mensch bestimmt die Richtung von Konzepten und Emotionen,
+KI improvisiert Hunderte von Klangmustern.
+Der Akt der Auswahl und Bearbeitung von dort aus ist selbst eine „Performance“.
+
+Darüber hinaus wird durch die Integration der Live-Coding-Umgebung mit KI
+Es besteht auch die Möglichkeit, dass es zu einer „Prompt = Performance-Schnittstelle“ wird.
+Benötigen Sie keine Maus oder MIDI mehr.
+**Die Ära, in der Sprache und Gedanken selbst zu Klängen werden** naht.
+
+---
+
+## Illustration: Live-Coding × Zeitleiste der KI-Entwicklung
 
 <div class="mermaid">
 
@@ -168,7 +168,7 @@ timeline
 
 ---
 
-## 相関図：Live CoderとAIの協働構造
+## Korrelationsdiagramm: Kollaborative Struktur von Live Coder und KI
 
 
 <div class="mermaid">
@@ -187,19 +187,19 @@ flowchart TD
 
 ---
 
-## 結論：創造の新しい民主化
+## Fazit: Eine neue Demokratisierung der Kreativität
 
-Live Codingは「コードによる即興表現」を通じて、
-音楽を誰もが生成できる行為へと開いた。
-AIはその民主化をさらに推し進め、
-**“演奏する知能”を共有する文化**を作り出そうとしている。
+Live Coding erfolgt durch „improvisatorischen Ausdruck durch Akkorde“.
+Er machte Musik zu einem Akt, den jeder erschaffen konnte.
+KI wird die Demokratisierung weiter vorantreiben,
+Wir versuchen, eine **Kultur des Teilens der „Intelligenz der Leistung“** zu schaffen.
 
-アルゴリズムと人間、機械と感情。
-その境界が溶ける場所に、
-新しい音楽の地平が立ち上がる。
+Algorithmen und Menschen, Maschinen und Emotionen.
+Wo die Grenzen verschmelzen,
+Ein neuer musikalischer Horizont entsteht.
 
-> コードは譜面を超え、AIは即興を学ぶ。
-> 音楽はもはや“人間の専売特許”ではなく、
-> **共創の知能（Co-Creative Intelligence）**なのだ。
+> Akkorde gehen über Noten hinaus und KI lernt zu improvisieren.
+> Musik ist kein „exklusives Patent des Menschen“ mehr;
+> **Co-Kreative Intelligenz**.
 
 ---

@@ -11,15 +11,15 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: DO – Die Zeit läuft davon
+title: DO – Running Out Of Time
 ---
 
 
-DO (Digital Orgasm) ist ein belgischer Techno-Act, der von der M.N.O. gegründet wurde. Produktionstrio Maurice Engelen (Somora/Praga Khan), Nikkie van Lierop (Jade 4 U, Miss Lie) und Oliver Adams.
+DO (Digital Orgasm /デジタルオーガズム )は、M.N.O. productionトリオ　Maurice Engelen (Somora/Praga Khan)、Nikkie van Lierop (Jade 4 U, Miss Lie) 、Oliver AdamsによるベルギーのTechnoアクト。
 
-Digital Orgasm war neben Lords Of Acid und Channel X eines ihrer am längsten laufenden Projekte.
+Digital Orgasmは、Lords Of AcidとChannel Xと並び、彼らの数多くのプロジェクトの中で最も長く続いたプロジェクトの1つだった。
 
-A ist ein Remix von Todd Terry. B4 ist ein Remix von Josh Wink.
+Aは、Todd Terryによるremix。B4は、Josh Winkによるremix。
 
 #### Trackliste
 ```md

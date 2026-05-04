@@ -20,9 +20,9 @@ title: '[Kolumne] Progressive Electronic / Berliner Schule'
 Text: mmr｜Thema: Progressive elektronische und elektronische Musik der Berliner Schule von den späten 1960ern bis zur Gegenwart
 
 
-Die elektronische Musik des 20. Jahrhunderts begann im Bereich akademischer Forschung und experimenteller Kunst. Nach der Entwicklung elektronischer Instrumente in den 1920er und 1930er Jahren, der Magnetbandtechnik nach dem Krieg und der Gründung von Musique Concrète- und elektronischen Musikstudios in den 1950er Jahren begann sich Ende der 1960er Jahre ein Umfeld zu entwickeln, das es einzelnen Komponisten ermöglichte, außerhalb des Studios elektronische Musik zu schaffen. Inmitten dieser Veränderung entstand vor allem in Westdeutschland eine Reihe progressiver elektronischer Musik, die später unter dem Sammelbegriff „Berliner Schule“ bekannt wurde.
+Die elektronische Musik des 20. Jahrhunderts begann im Bereich akademischer Forschung und experimenteller Kunst. Nach der Entwicklung elektronischer Musikinstrumente in den 1920er und 1930er Jahren, der Magnetbandtechnologie nach dem Krieg und der Gründung von Musique Concrète- und elektronischen Musikstudios in den 1950er Jahren begann sich in den späten 1960er Jahren ein Umfeld zu entwickeln, das es einzelnen Komponisten ermöglichte, elektronische Musik außerhalb des Studios zu schaffen. Inmitten dieser Veränderung entstand vor allem in Westdeutschland eine Reihe progressiver elektronischer Musik, die später unter dem Sammelbegriff „Berliner Schule“ bekannt wurde.
 
-Die Berliner Schule ist keine einheitliche Bewegung und keine offizielle Schule im eigentlichen Sinne. Es handelt sich um einen Namen, der in der späteren Musikgeschichtsforschung und -kritik als Ergebnis der Arbeit mehrerer Komponisten in einem gemeinsamen Ballungsraum, einem gemeinsamen technischen Umfeld und mit gemeinsamen musikalischen Interessen vereinheitlicht wurde. Im Mittelpunkt stehen Komponisten und Projekte wie Tangerine Dream, Klaus Schulze und Ash Ra Tempel (später Ashra).
+Die Berliner Schule ist keine einheitliche Bewegung und keine offizielle Schule im eigentlichen Sinne. Es handelt sich um einen Namen, der in der späteren Musikgeschichtsforschung und -kritik als Ergebnis der Arbeit mehrerer Komponisten in einem gemeinsamen Ballungsraum, einem gemeinsamen technologischen Umfeld und gemeinsamen musikalischen Interessen vereinheitlicht wurde. Im Mittelpunkt stehen Komponisten und Projekte wie Tangerine Dream, Klaus Schulze und Ash Ra Tempel (später Ashra).
 
 ---
 
@@ -44,13 +44,13 @@ color: #fff;
 
 ### Gründung der elektronischen Musik der Nachkriegszeit
 
-Nach dem Zweiten Weltkrieg wurden in Deutschland Untersuchungen zur Komposition mit rein elektronischen Klängen durchgeführt, deren Mittelpunkt das Kölner Studio für elektronische Musik war. Unterdessen entwickelte sich in Frankreich die Musique Concrète, die Umgebungs- und Betongeräusche als Material nutzt. Diese Trends gaben späteren elektronischen Musikern das Konzept, „den Klang selbst zu konstruieren“.
+Nach dem Zweiten Weltkrieg wurden in Deutschland Forschungen zur Komposition mit rein elektronischen Klängen durchgeführt, deren Mittelpunkt das Kölner Studio für elektronische Musik war. Unterdessen entwickelte sich in Frankreich die Musique Concrète, die Umgebungs- und Betongeräusche als Material nutzt. Diese Trends gaben späteren elektronischen Musikern das Konzept, „den Klang selbst zu konstruieren“.
 
 In den 1960er Jahren erschienen modulare Synthesizer. Es wurde möglich, Tonhöhe, Klangfarbe und Rhythmus durch Spannungssteuerung zu ändern, sodass Komponisten den Klang in Echtzeit manipulieren konnten. Dieser technologische Fortschritt unterstützte die Entstehung der Berliner Schule, die durch lange Strukturen und sich wiederholende Abläufe gekennzeichnet ist.
 
 ### Berührungspunkt zwischen Rock und Avantgarde
 
-Gleichzeitig nahm in Westdeutschland eine Bewegung zur Verschmelzung von Rock- und Avantgarde-Kunst Fahrt auf. Als Reaktion auf den britischen und amerikanischen Rock entstanden Gruppen, die Improvisation, Wiederholung und elektronische Klänge aktiv einbauten. Der Kontext dessen, was später „Krautrock“ genannt wurde, und der elektronischen Musik der Berliner Schule entwickelte sich in einer geographisch und menschlich überschneidenden Weise.
+Gleichzeitig nahm in Westdeutschland eine Bewegung zur Verschmelzung von Rock- und Avantgarde-Kunst Fahrt auf. Als Reaktion auf den britischen und amerikanischen Rock entstanden Gruppen, die Improvisation, Wiederholung und elektronische Klänge aktiv einbezogen. Der Kontext dessen, was später „Krautrock“ genannt wurde, und der elektronischen Musik der Berliner Schule entwickelte sich in einer geographisch und menschlich überschneidenden Weise.
 
 ---
 
@@ -64,7 +64,7 @@ Das Besondere daran ist seine Struktur, die Tonwechsel und improvisierte Melodie
 
 ### Klaus Schulze
 
-Nach der Teilnahme bei Tangerine Dream und Ash Ra Tempel wird sich Klaus Schulze auf seine Solokarriere konzentrieren. Seine Werke zeichnen sich durch länger anhaltende Noten, allmähliche Veränderungen und Improvisation aus. In vielen Fällen ist der Rhythmus nicht klar erkennbar und der Übergang der Klangfarbe selbst bildet die Struktur.
+Nach der Teilnahme bei Tangerine Dream und Ash Ra Tempel wird sich Klaus Schulze auf seine Solokarriere konzentrieren. Seine Werke zeichnen sich durch länger anhaltende Töne, allmähliche Veränderungen und Improvisation aus. In vielen Fällen ist der Rhythmus nicht klar erkennbar und der Übergang der Klangfarbe selbst bildet die Struktur.
 
 Von Anfang an arbeitete Schulze in einem privaten Studio und übte mit zahlreichen Synthesizern und Tonbandgeräten vielschichtige Aufnahmen. Diese Produktionsform beeinflusste auch die spätere Ambient- und Drone-Musik.
 
@@ -114,11 +114,11 @@ Im 21. Jahrhundert werden modulare Synthesizer neu bewertet. Die Methode der Ber
 
 ## Kapitel 7 Detaillierte Analyse der technischen Grundlagen
 
-In diesem Kapitel werden wir die spezifischen technischen Elemente, die die Berliner Schule begründeten, organisieren, indem wir sie in drei Schichten unterteilen: Musikinstrumente, Steuerungssysteme und Aufnahmetechniken.
+Dieses Kapitel organisiert die spezifischen technischen Elemente, die die Berliner Schule begründeten, indem es sie in drei Schichten unterteilt: Musikinstrumente, Steuerungssysteme und Aufnahmetechniken.
 
 ### Analoger modularer Synthesizer
 
-Der Kern der Berliner Schule war der spannungsgesteuerte analoge modulare Synthesizer. Durch die Struktur der freien Verbindung von Oszillatoren, Filtern, Verstärkern und Hüllkurven mittels Patchkabeln entstand eine Produktionsumgebung, in der das musikalische Ergebnis nicht vollständig im Vorhinein festgelegt war.
+Der Kern der Berliner Schule war der spannungsgesteuerte analoge modulare Synthesizer. Durch den Aufbau der freien Verbindung von Oszillatoren, Filtern, Verstärkern und Hüllkurven über Patchkabel entstand eine Produktionsumgebung, in der das musikalische Ergebnis nicht im Vorhinein vollständig festgelegt war.
 
 Dieser Nichtdeterminismus ist eng mit dem kompositorischen Konzept der „Zeitproduktion“ der Berliner Schule verbunden. Da Tonhöhe und Rhythmus nicht durch die Notenschrift, sondern als Kette von Spannungsänderungen verwaltet werden, existiert Musik eher als Prozess als als Blaupause.
 
@@ -130,7 +130,7 @@ Wichtig ist, dass die Sequenz auf einem „Zyklus“ und nicht auf einem „Takt
 
 ### Bandaufzeichnung und mehrschichtiger Aufbau
 
-Mehrspuraufnahmen und Tonbandbearbeitung spielten in der frühen Berliner Schule eine wichtige Rolle. Durch die Aufzeichnung langer Zeiträume improvisatorischer Darbietungen, die Bearbeitung und Überlagerung von Teilen davon wurde eine nichtlineare Struktur konstruiert. Dies ist eine Einstellung, die das Studio als Kompositionsraum betrachtet und als Präzedenzfall für spätere DAW-ähnliche Produktionsdenken angesehen werden kann.
+Mehrspuraufnahmen und Tonbandbearbeitung spielten in der frühen Berliner Schule eine wichtige Rolle. Durch die Aufzeichnung langer Zeiträume improvisatorischer Darbietungen, die Bearbeitung und Überlagerung von Teilen davon wurde eine nichtlineare Struktur aufgebaut. Dies ist eine Einstellung, die das Studio als Kompositionsraum betrachtet und als Präzedenzfall für spätere DAW-ähnliche Produktionsdenken angesehen werden kann.
 
 ---
 
@@ -144,7 +144,7 @@ Ein Format, bei dem sich eine bestimmte Sequenz durch den gesamten Song zieht un
 
 ### Unschlagbarer Dauertontyp
 
-Eine Form, die auf anhaltenden Noten und langsamen Wechseln basiert, ohne eine klare Reihenfolge. Es spielt eine herausragende Rolle in den Werken von Klaus Schulze und wurde zum Prototyp für spätere Ambient- und Drone-Musik.
+Eine Form, die auf anhaltenden Noten und langsamen Wechseln ohne klare Reihenfolge basiert. Es spielt eine herausragende Rolle in den Werken von Klaus Schulze und wurde zum Prototyp für spätere Ambient- und Drone-Musik.
 
 ### Bearbeitungstyp für Improvisationsaufnahmen
 
@@ -158,7 +158,7 @@ Ab den späten 1970er Jahren weiteten die Komponisten der Berliner Schule ihre A
 
 Die Methode der Filmmusik der Berliner Schule zeichnet sich dadurch aus, dass sie eher auf räumliche Gestaltung als auf melodiegetriebene Musik setzt. Anstatt eine Geschichte zu illustrieren, spielt Musik eine Rolle beim Aufbau einer psychologischen und physischen Umgebung.
 
-Diese Praxis wurde in der späteren filmischen Ambient- und Sounddesign-orientierten elektronischen Musik übernommen.
+Diese Praxis wurde von der späteren filmischen Ambient- und Sounddesign-orientierten elektronischen Musik übernommen.
 
 ---
 
@@ -168,11 +168,11 @@ Um die Berliner Schule genau zu verstehen, ist es notwendig, ihre Beziehung zu K
 
 ### Vor Kraftwerk
 
-Vor Kraftwerk legte die Berliner Schule Wert auf Improvisation und lange Formen. Der Rhythmus ist fließend und das Stück wird eher als Übergang denn als Fortschritt wahrgenommen. Zu diesem Zeitpunkt war elektronische Musik ein Ausweg aus dem Rock und auch eine Befreiung von der akademischen elektronischen Musik.
+Vor Kraftwerk legte die Berliner Schule Wert auf Improvisation und lange Formen. Der Rhythmus ist fließend und das Stück wird eher als Übergang denn als Fortschritt wahrgenommen. Zu diesem Zeitpunkt war elektronische Musik ein Ausweg aus Rock und akademischer elektronischer Musik.
 
 ### Nach Kraftwerk
 
-Kraftwerk reorganisierte elektronische Musik in klare rhythmische Strukturen und repetitive Beats. Dies hat zur internationalen Akzeptanz elektronischer Musik als tanzbare Form geführt. Andererseits hielt die Berliner Schule Abstand vom Beatzentrismus und behielt ihre eigene Linie als zeitexpandierende Musik bei.
+Kraftwerk reorganisierte elektronische Musik in klare rhythmische Strukturen und repetitive Beats. Dies hat zur internationalen Akzeptanz elektronischer Musik als tanzbare Form geführt. Andererseits hielt die Berliner Schule Abstand vom Beat-Zentrismus und behielt ihre eigene Linie als zeitexpandierende Musik bei.
 
 Diese Divergenz als Unterscheidung zwischen Techno/Synthpop und Ambient/Drone gab der elektronischen Musikkarte späterer Jahre eine klare Achse.
 

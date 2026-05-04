@@ -18,7 +18,7 @@ title: Swing Out Sister – Formen und Muster
 
 „Shapes And Patterns“ ist das fünfte Studioalbum von Swing Out Sister, das 1997 veröffentlicht wurde.
 
-Das Lied „Now You're Not Here“ wurde als Titelsong für das Drama „Midday Moon“ geschrieben und wurde in Japan ein großer Hit. Auf diesem Album ist Gota Yashiki als Schlagzeuger zu hören.
+The song "Now You're Not Here" was written as the theme song for the drama "Midday Moon" and became a big hit in Japan. Auf diesem Album ist Gota Yashiki als Schlagzeuger zu hören.
 
 #### Trackliste
 ```md

@@ -19,7 +19,7 @@ title: '[Kolumne] Warum kommt Musik, die im Untergrund geboren wurde, immer wied
 
 ## Was ist Underground-Musik?
 
-Text: mmr｜Thema: Warum kommt die Musik, die aus dem Untergrund kommt, immer wieder zurück? Entschlüsselung der zyklischen Struktur der Underground-Kultur und ihrer Beziehung zur Gesellschaft anhand der Geschichte von Jazz, Punk, House, Grime usw.
+Text: mmr | Thema: Warum kommt die Musik, die aus dem Untergrund kommt, immer wieder zurück? Entschlüsselung der zyklischen Struktur der Underground-Kultur und ihrer Beziehung zur Gesellschaft anhand der Geschichte von Jazz, Punk, House, Grime usw.
 
 
 ### Klang, der von einem unsichtbaren Ort ausgeht
@@ -27,7 +27,7 @@ Text: mmr｜Thema: Warum kommt die Musik, die aus dem Untergrund kommt, immer wi
 Viele Revolutionen in der Musikgeschichte waren von Anfang an nicht für die Massen gedacht.
 Tatsächlich ist das Gegenteil der Fall.
 
-Viele neue Musik kommt aus unbekannten Orten.
+Viele neue Musik kommt von unbekannten Orten.
 
 - Underground-Club
 - Lagerparty
@@ -47,7 +47,7 @@ Rückblick auf die Geschichte,
 - Techno
 - Schmutz
 
-Alle diese Genres haben ihren Ursprung im Untergrund.
+Alle diese Genres haben ihren Ursprung im Underground.
 
 Mit anderen Worten: Underground ist kein Genre.
 
@@ -317,7 +317,7 @@ Oft ist es ein seltsames und unverständliches Geräusch.
 
 Aber nach ein paar Jahren kann der Sound zum Mainstream werden.
 
-> Die Untergrundkultur ist ein Labor, in dem die Zukunft der Musik getestet wird.
+> Die Underground-Kultur ist ein Labor, in dem die Zukunft der Musik getestet wird.
 
 ---
 

@@ -46,7 +46,7 @@ color: #fff;
 
 ## Der Name „Dschungel“ und die Entstehung der Anfangsszene
 
-Das Wort „Dschungel“ soll aus dem Slang des Reggae und Dancehall stammen und wurde in seinen Anfängen auch als Ragga-Dschungel bezeichnet. Die Kombination aus schnellen Beats, starkem Subbass und Geschrei und Anstoßen des MC verlieh dem Ganzen eine deutlich andere Atmosphäre als bestehende Rave-Musik.
+Das Wort „Dschungel“ soll aus dem Slang des Reggae und Dancehall stammen und wurde in seinen Anfängen auch als Ragga-Dschungel bezeichnet. Durch die Kombination von schnellen Beats, starkem Subbass und Geschrei und Anstoßen des MCs entstand eine Atmosphäre, die sich deutlich von der bestehenden Rave-Musik unterschied.
 
 Von 1992 bis 1993 spielte der Londoner Radiosender Pirates eine Schlüsselrolle bei der Förderung dieses neuen Sounds. Musik, die nicht in den offiziellen Medien ausgestrahlt wurde, gelangte über Radiowellen in die lokale Gemeinschaft.
 
@@ -78,7 +78,7 @@ Es ist ein Beweis für die Flexibilität des Genres, dass es mit aggressiven Clu
 
 Von Ende der 1990er bis in die 2000er Jahre wurden DAWs und Software-Sampler immer beliebter und die Produktionsumgebung veränderte sich erheblich. Die einst teure Hardware wird nach und nach veraltet und die Bearbeitungsgenauigkeit verbessert sich dramatisch.
 
-Dennoch wurde die Musterkultur rund um das Amen Blake weiterhin vererbt, verarbeitet und neu interpretiert. Die extrem fein gehackten Breaks wurden zum Kern der für Drum & Bass typischen Spannung.
+Dennoch wurde die Musterkultur rund um das Amen Blake weiterhin vererbt, verarbeitet und neu interpretiert. Die extrem fein gehackten Breaks wurden zum Kern der für Drum and Bass typischen Spannung.
 
 > Fortschritte in der Technologie haben den Ausdruck verändert, aber die Essenz der Rhythmusbesessenheit ist gleich geblieben.
 
@@ -88,7 +88,7 @@ Dennoch wurde die Musterkultur rund um das Amen Blake weiterhin vererbt, verarbe
 
 Mitte der 2000er Jahre wurde Drum'n'Bass in die Pop- und Werbemusik integriert und manche hielten ihn für übertrieben. Gleichzeitig entstanden in der Clubszene andere Genres, deren Aufmerksamkeit relativ abnahm.
 
-Allerdings verschwand das Genre selbst in dieser Zeit nicht und die Underground-Szene erlebte weiterhin Veröffentlichungen und Veranstaltungen. Tatsächlich hat die mangelnde Aufmerksamkeit von außen dazu geführt, dass manche Menschen introvertierter werden.
+Allerdings verschwand das Genre selbst in dieser Zeit nicht und die Underground-Szene erlebte weiterhin Veröffentlichungen und Veranstaltungen. Tatsächlich hat der Mangel an äußerer Aufmerksamkeit in gewisser Weise zu einer Vertiefung der Introvertiertheit geführt.
 
 > Die grundlegende Stärke des Genres blieb in der Zeit erhalten, als es aus dem Rampenlicht verschwand.
 
@@ -106,7 +106,7 @@ Mit der Verbreitung des Internets und der Verbreitungsplattformen ist es außerd
 
 ## Einfluss auf zeitgenössische Musik
 
-In der heutigen elektronischen Musik, im Hip-Hop und in der experimentellen Musik gibt es viele rhythmische Strukturen, die deutlich einen Jungle/Drum'n'Bass-Einfluss haben. Insbesondere der unregelmäßige, treibende Beat wurde genreübergreifend zitiert.
+In der aktuellen elektronischen Musik, im Hip-Hop und in der experimentellen Musik gibt es viele rhythmische Strukturen, die deutliche Einflüsse aus dem Jungle/Drum’n’Bass aufweisen. Insbesondere der unregelmäßige, treibende Beat wurde genreübergreifend zitiert.
 
 Dieser Einfluss ist oft eher struktureller als klanglicher Natur und erstreckt sich auf Neuinterpretationen von Breakbeats.
 

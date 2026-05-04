@@ -11,15 +11,15 @@ tags:
 - Pops
 - Alternative Rock
 - 90s
-title: Spiralleben – gedeihen
+title: Spiral Life – Flourish
 ---
 
 
-„Flourish“ erschien 1995 und ist das dritte Studioalbum und letzte Album von Spiral Life.
+1995年にリリースされた「Flourish」は、Spiral Life(スパイラルライフ)の3枚目のスタジオアルバムであり、ラストアルバム。
 
-Spiral Life ist eine Gruppe bestehend aus Koji Kurumatani und Shokichi Ishida, die von 1993 bis 1996 aktiv waren. Während ihrer dreijährigen Tätigkeit veröffentlichten sie drei Originalalben, wobei „Flourish“ ihr größter Hit wurde.
+Spiral Lifeは、1993年から1996年に活動した車谷浩司と石田ショーキチによるユニット。3年間の活動で、3枚のオリジナルアルバムをリリースし、「Flourish」は一番のヒット作となった。
 
-Das Lied „GARDEN“ wurde als Eröffnungsthema für „Asakusabashi Young Clothing Store“ verwendet.
+収録曲「GARDEN」は、「浅草橋ヤング洋品店」オープニングテーマに使用された。
 
 #### Trackliste
 ```md

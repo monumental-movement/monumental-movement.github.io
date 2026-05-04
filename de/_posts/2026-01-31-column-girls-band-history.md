@@ -46,9 +46,9 @@ color: #fff;
 
 ## 1950–60er Jahre: Der Vorabend des Rock und die Entstehung von Frauenensembles
 
-In den 1950er Jahren entstand in den USA der Rock'n'Roll und die Bandform wurde zum Zentrum der Jugendkultur. Andererseits traten damals oft Musikerinnen als Sängerinnen in den Vordergrund und der Auftritt wurde in der Regel von Männern übernommen. Eine Ausnahme bildete eine rein weibliche Gruppe, die Musikinstrumente spielte.
+In den 1950er Jahren entstand in den USA der Rock'n'Roll und die Bandform wurde zum Zentrum der Jugendkultur. Andererseits standen damals oft Musikerinnen als Sängerinnen im Vordergrund und der Auftritt wurde in der Regel von Männern übernommen. Eine Ausnahme bildete eine rein weibliche Gruppe, die Musikinstrumente spielte.
 
-Die Shirelles und die Ronettes, die 1964 auftauchten, waren technisch gesehen Gesangsgruppen, aber als von Frauen dominiertes Kollektiv hatten sie einen starken Einfluss auf ihre Nachfolger. Schließlich, in den späten 1960er Jahren, wurde an der Westküste der Vereinigten Staaten und in England allmählich der Anblick von Frauen sichtbar, die Gitarren und Schlagzeug in die Hand nahmen.
+Die Shirelles und die Ronettes, die 1964 auftraten, waren technisch gesehen Gesangsgruppen, aber als von Frauen dominiertes Kollektiv hatten sie einen starken Einfluss auf ihre Nachfolger. In den späten 1960er Jahren begann man schließlich, an der Westküste der Vereinigten Staaten und im Vereinigten Königreich Frauen dabei zu beobachten, wie sie Gitarren und Schlagzeug in die Hand nahmen.
 
 <div class="mermaid">
 flowchart LR
@@ -88,7 +88,7 @@ B --> C[女性バンドの増加]
 
 ## 1990er Jahre: Riot Grrrl und die Politik der Selbstdarstellung
 
-Anfang der 1990er Jahre entstand im Nordwesten der USA die Riot-Grrrl-Bewegung. Dieser Trend, der durch Bikini Kill und Bratmobile veranschaulicht wird, verband Musik und Feminismus direkt miteinander. Texte und Zines behandelten Themen wie sexuelle Gewalt, Körper und Macht, und Lebensräume wurden als sichere Räume neu definiert.
+Anfang der 1990er Jahre entstand im Nordwesten der USA die Riot-Grrrl-Bewegung. Dieser Trend, der durch Bikini Kill und Bratmobile veranschaulicht wird, verband Musik und Feminismus direkt miteinander. Songtexte und Zines behandelten Themen wie sexuelle Gewalt, Körper und Macht, und Lebensräume wurden als sichere Räume neu definiert.
 
 Obwohl sich diese Bewegung von der kommerziellen Musik distanzierte, machte sie die Bedeutung der Existenz von Girlbands weltweit sichtbar. Es hatte auch einen ideologischen Einfluss auf Europa und Japan und begründete die Legitimität von Frauen, die mit ihrer eigenen Stimme sprechen.
 
@@ -149,9 +149,9 @@ Zukünftige Girlbands könnten auf der Vergangenheit aufbauen und andere Namen t
 
 Die Geschichte der Girlbands in Nordamerika ist geprägt von der Spannung zwischen kommerzieller Musik und Underground. Seine Entwicklung verlief schrittweise, von der Gesangsgruppenkultur in den 1960er Jahren über den Einstieg in die Rockindustrie in den 1970er Jahren bis hin zu DIY-Netzwerken seit den 1980er Jahren.
 
-In Amerika gibt es seit langem ein gesellschaftliches Unbehagen gegenüber Frauen, die Musikinstrumente besitzen. Infolgedessen waren frühe Frauenbands anfällig für starke Eingriffe seitens des Managements und der Produzenten, und es brauchte Zeit, bis sie das Recht auf Selbstbestimmung erlangten. Andererseits verbreiteten sich in Universitäts- und Regionalstädten Frauenbands, die nichts mit kommerziellem Erfolg zu tun hatten.
+In Amerika gibt es seit langem ein gesellschaftliches Unbehagen gegenüber Frauen, die Musikinstrumente besitzen. Infolgedessen waren frühe Frauenbands anfällig für starke Eingriffe seitens des Managements und der Produzenten und es brauchte Zeit, bis sie das Recht auf Selbstbestimmung erlangten. Andererseits verbreiteten sich in Universitäts- und Regionalstädten Frauenbands, die nichts mit kommerziellem Erfolg zu tun hatten.
 
-Während der Alternative-Rock-Ära der 1990er Jahre wurden Girlbands zu genreübergreifenden Einheiten, die sich frei zwischen Rock, Punk und Indie bewegten. Infolgedessen wurden reine Frauenbands eher als eine von vielen Arten von Bands denn als etwas Besonderes erkannt.
+Während der Alternative-Rock-Ära der 1990er Jahre wurden Girlbands zu genreübergreifenden Einheiten, die sich frei zwischen Rock, Punk und Indie bewegten. Infolgedessen wurden reine Frauenbands eher als eine von vielen Arten von Bands denn als etwas Besonderes anerkannt.
 
 > Die nordamerikanische Szene war ein Testgelände, in dem die beiden Extreme von Werbung und Heimwerken nebeneinander existierten.
 
@@ -173,7 +173,7 @@ In Kontinentaleuropa formiert sich rund um Berlin und Paris eine Szene, in der d
 
 Die Geschichte der Girlbands in Japan entwickelte sich in einem anderen Medienumfeld und einer anderen Industriestruktur als in Europa und Amerika. Während der Group-Sounds-Ära der 1960er Jahre gab es fast keine Frauenbands und populäre Lieder und Rock waren klar getrennt.
 
-Von Ende der 1970er bis in die 1980er Jahre, mit der Verbreitung der Amateurbandkultur und Live-Musik-Veranstaltungsorten, entstanden nach und nach rein weibliche Bands. Seit den späten 1980er Jahren, mit der Ausbreitung der Indie-Kultur, haben Frauenbands ihre eigene Szene gegründet.
+Von Ende der 1970er bis in die 1980er Jahre tauchten mit der Verbreitung der Amateurbandkultur und Live-Musik-Veranstaltungsorten nach und nach rein weibliche Bands auf. Seit den späten 1980er Jahren, mit der Ausbreitung der Indie-Kultur, haben Frauenbands ihre eigene Szene gegründet.
 
 Seit den 1990er Jahren sind japanische Girlbands durch Auslandstourneen und internationale Anerkennung nicht nur mit dem heimischen Markt, sondern auch mit der Welt verbunden. Während dieses Prozesses wurden Japans einzigartige Pop-Sensibilität und der DIY-Geist neu bewertet.
 
@@ -187,37 +187,37 @@ Girlbands beschränken sich nicht nur auf Rockmusik. Frauenbands waren in versch
 
 Vor allem seit den 1980er Jahren brachte die Verbreitung elektronischer Musikinstrumente eine Befreiung von physischen Gegebenheiten und bestehender Technik. Frauenbands präsentierten mit Synthesizern und Drumcomputern ein neues Modell der Musikproduktion.
 
-Ihre genreübergreifenden Aktivitäten haben die Kraft, das Konzept einer All-Girl-Band ständig zu aktualisieren, anstatt es zu reparieren.
+ジャンル横断的な活動は、ガールズバンドという概念を固定化させず、常に更新する力となっている。
 
-> Die Diversifizierung der Genres hat das Spektrum der Girlbands erweitert.
-
----
-
-## Medien und Repräsentation
-
-Die Geschichte der Girlbands ist auch eng mit Veränderungen in der medialen Darstellung verbunden. In der Anfangszeit standen Seltenheit und Aussehen im Vordergrund, Musikalität wurde oft zweitrangig behandelt.
-
-Da sich die Medien verändern, von Musikmagazinen über das Fernsehen bis hin zum Internet, können Frauenbands ihr Image selbst bestimmen. Im Zeitalter von SNS ist Eigenproduktion möglich geworden und externe Regulierungen relativ geworden.
-
-> Veränderungen in der Vertretung haben die Meinungsfreiheit erweitert.
+> ジャンルの多様化は、ガールズバンドの射程を広げた。
 
 ---
 
-## Rolle der Bildung/Gemeinschaft
+## メディアと表象
 
-Bildung und Gemeinschaft waren für die Zunahme der Girlbands von entscheidender Bedeutung. Durch die Förderung der Musikausbildung, Workshops und Veranstaltungen nur für Frauen konnten neue Teilnehmer gewonnen werden.
+ガールズバンドの歴史は、メディア表象の変化とも密接に関係している。初期には珍しさや外見が強調され、音楽性は二次的に扱われることが多かった。
 
-Insbesondere seit den 1990er Jahren fördern Netzwerke unter Frauen den Wissens- und Erfahrungsaustausch und unterstützen die Bildung einer nachhaltigen Szene.
+音楽雑誌、テレビ、インターネットとメディアが変化するにつれ、女性バンドは自らのイメージをコントロールできるようになる。SNS時代には、セルフプロデュースが可能となり、外部からの規定は相対化された。
 
-> Community ist ein Gerät, das die Fortsetzung der Geschichte ermöglicht.
+> 表象の変化は、表現の自由度を拡張した。
 
 ---
 
-## Ergänzende Chronologie: Detaillierte Version
+## 教育・コミュニティの役割
 
-1950er Jahre: Frauengesangsgruppen waren die Norm
-1960er Jahre: Aufkommen weiblicher Darsteller
-1970er Jahre: Kommerzielle Gründung weiblicher Rockbands
+ガールズバンドの増加には、教育とコミュニティの存在が不可欠だった。音楽教育の普及、ワークショップ、女性限定イベントなどが、新しい参加者を生み出してきた。
+
+特に1990年代以降、女性同士のネットワークは知識と経験の共有を促進し、持続的なシーン形成を支えた。
+
+> コミュニティは、歴史を継続させる装置である。
+
+---
+
+## 補遺的年表：詳細版
+
+1950年代：女性ボーカルグループが主流
+1960年代：女性演奏家の登場
+1970年代：女性ロックバンドの商業的成立
 1980er Jahre: Punk- und DIY-Expansion
 1990er Jahre: Riot Grrrl-Bewegung
 2000er: Indie und Internationalisierung

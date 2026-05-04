@@ -110,7 +110,7 @@ Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Alb
 ### 4.2 Produktion und Veröffentlichung von „Ghetto Reggae“
 - Am 29. August 2025 erschien das Album „Ghetto Reggae“**.
 - Themen: Hommage an die Soundsystemkultur, Nachstellung von Reggae/Dancehall der 80er und 90er Jahre, Liebe, Glaube, Umweltprobleme, Bosheit, Ganja usw.
-- Teilnehmende Künstler: Daddy U-Roy, Demelo, Greentone. Produzent: Kirkledove, Ed Robinson, Jemoi Monteith.
+- Teilnehmende Künstler: Daddy U-Roy, Demelo, Greentone. Produzenten: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Soziale Aktivitäten und Aussagen
 - An politischen Veranstaltungen in Jamaika teilnehmen oder sich dazu äußern.
@@ -131,7 +131,7 @@ Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Alb
 
 ### 5.3 „Kokane (Kokane feat. Ayo)“
 - BPM ca. 96. Es gibt Remixe und mehrere Versionen.
-- In den Texten symbolisiert es Verführung, Manipulation, Vergnügen und Zerstörungswut. Verwendung von Drogen (Kokain) als Metapher.
+– In den Texten symbolisiert es Verführung, Manipulation, Vergnügen und Zerstörungswut. Verwendung von Drogen (Kokain) als Metapher.
 - Der Kontrast zwischen dem melodischen Refrain und dem rauen Gesang ist beeindruckend.
 - Stärken Sie die Botschaft und verbreiten Sie sie durch die Zusammenarbeit mit Ayo.
 
@@ -166,14 +166,14 @@ Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Alb
 
 ### 7.2 Perspektive auf die Zukunft
 - Förderung einer Neubewertung der Soundsystemkultur und des Reggae.
-- Ausweitung des Einflusses nicht nur durch Musik, sondern auch durch soziale Bewegungen, Kulturerhalt und Bildungsunterstützung.
+- Erweiterung des Einflusses nicht nur durch Musik, sondern auch durch soziale Bewegungen, Kulturerhalt und Bildungsunterstützung.
 - Ziel ist es, die digitale Verbreitung/SNS-Nutzung mit traditionellen Klängen in Einklang zu bringen.
 
 ---
 
 ## Fazit: Ein Sänger, der Tradition und Innovation verbindet
 
-Mr.Vegas ist ein Musiker, dessen Arbeit eine komplexe Mischung aus Kingstons Soundsystem-Kultur, den Kämpfen der Jugend, dem Glauben, der sozialen Verantwortung und einer Vision für die Zukunft ist.
+Mr.Vegas ist ein Musiker, dessen Arbeit eine komplexe Mischung aus Kingstons Soundsystem-Kultur, den Kämpfen der Jugend, dem Glauben, sozialer Verantwortung und einer Vision für die Zukunft ist.
 
 Seine Signature-Songs „Nike Air“ und „Heads High“ symbolisieren den Startpunkt seiner Karriere, während „Kokane“ eine Warnung vor Versuchung und Gefahr darstellt. Sein neuestes Album „Ghetto Reggae“ verbindet eine Hommage an die Zeit und den Ort, in der er aufgewachsen ist, mit einer zeitgenössischen Botschaft.
 

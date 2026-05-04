@@ -11,7 +11,7 @@ tags:
 - Techno
 - Electro
 - French Electro
-title: Para One – Midnight Swim
+title: Para One – Mitternachtsschwimmen
 ---
 
 
@@ -21,11 +21,11 @@ title: Para One – Midnight Swim
 
 
 
-Para One(パラワン)は、フランスのエレクトロニックプロデューサー。2007年のフランス映画「Water Lilies （邦題：水の中のつぼみ）（原題：Naissance Des Pieuvres」の オリジナルサウンドトラック製作で有名。
+Para One ist ein französischer Elektronikproduzent. Er ist berühmt für die Produktion des Originalsoundtracks für den französischen Film „Water Lilies“ aus dem Jahr 2007 (Originaltitel: Naissance Des Pieuvres).
 
-A面２曲目はイギリスのエレクトロニックミュージックDJ/プロデューサーRitonによるremix。
+Der zweite Titel auf Seite A ist ein Remix des britischen DJs/Produzenten für elektronische Musik Riton.
 
-B面２曲目は、Para One＆Bobmoと共にレーベルMarbleを運営するフランスのプロデューサーSurkinによるremix。
+Der zweite Song auf Seite B ist ein Remix von Surkin, einem französischen Produzenten, der mit Para One & Bobmo das Label Marble betreibt.
 
 #### Trackliste
 ```md

@@ -15,11 +15,11 @@ title: Bebop Dawg – Rumble In Rio
 ---
 
 
-Lasse Mosegard / Illinton, auch bekannt als Bebop Dawg, ist ein Musiker und Produzent mit Sitz in Barcelona.
+Bebop Dawg(ビーボップダグ)ことLasse Mosegard / Illinton(イリントン)は、バルセロナを拠点に活動するミュージシャン・プロデューサー。
 
-Er ist außerdem Mitglied von Franke And Illinton, einer Einheit mit Frank Madsen, einer führenden Persönlichkeit der progressiven psychedelischen Goa-Trance-Welt aus Dänemark, bekannt als Frank E, und Raoul Express, einer Einheit mit dem dänischen EDM-Produzenten Mads Arp.
+Frank E名義で知られるデンマーク出身のプログレッシブサイケデリックゴアトランス界の重鎮Frank MadsenとのユニットFranke And Illinton、デンマークのEDMプロデューサーMads ArpとのユニットRaoul Expressのメンバーとしても活動している。
 
-Bei dieser Platte handelt es sich um einen zukünftigen Jazz-/Latin-Track, der 2002 vom Underground-Deep-House-Label Missive (1999–2010) in Paris, Frankreich, veröffentlicht wurde.
+このレコードは、フランス・パリのアンダーグラウンドDeep-HouseレーベルMissive(1999年〜2010年)から、2002年にリリースされたフューチャージャズ・ラテントラック。
 
 #### Trackliste
 ```md

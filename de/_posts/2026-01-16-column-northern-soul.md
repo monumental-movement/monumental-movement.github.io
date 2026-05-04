@@ -93,7 +93,7 @@ Der Northern Soul entwickelte sich nicht nur mit der Musik, sondern auch mit sei
 
 Um diesen körperlichen Ausdruck zu ermöglichen, wurde bei der Kleidung Wert auf Funktionalität gelegt. Enge Jeans, weite Oberteile und Schuhe mit rutschigen Sohlen wurden zur Norm, und eine Kultur, die Individualität durch Aufnäher und Abzeichen zum Ausdruck brachte, etablierte sich.
 
-Wichtig ist, dass diese Stile nicht als Trends von oben überliefert wurden, sondern aus der Praxis auf der Tanzfläche entstanden sind.
+Wichtig ist, dass es sich bei diesen Stilen nicht um von oben überkommene Trends handelte, sondern um die Praxis auf der Tanzfläche.
 
 > Die Körperkultur des Northern Soul entstand als Ergebnis der Anpassung an Musik und Raum.
 
@@ -104,7 +104,7 @@ Wichtig ist, dass diese Stile nicht als Trends von oben überliefert wurden, son
 
 In den 1970er Jahren entstand neue Tanzmusik wie Disco, Funk und später House und die Blütezeit des Northern Soul ging zu Ende. Die Kultur selbst verschwand jedoch nicht.
 
-Auch nach der Schließung der Clubs und dem Schrumpfen der Szene bleibt Northern Soul erhalten und wird durch Sammlerkultur, Neuauflagen und retrospektive Veranstaltungen weitergegeben. Seit den 1980er-Jahren gibt es eine wachsende Bewegung zur Neubewertung, und durch Filme und Dokumentationen ist es auch jüngeren Generationen bekannt geworden.
+Auch nach der Schließung der Clubs und dem Schrumpfen der Szene bleibt Northern Soul erhalten und wird durch Sammlerkultur, Neuauflagen und retrospektive Veranstaltungen weitergegeben. Seit den 1980er Jahren gibt es eine wachsende Bewegung zu einer Neubewertung, und durch Filme und Dokumentationen ist es auch jüngeren Generationen bekannt geworden.
 
 > Northern Soul ist keine vorübergehende Modeerscheinung, sondern hat als Kultur überlebt, die immer wieder neu interpretiert wird.
 

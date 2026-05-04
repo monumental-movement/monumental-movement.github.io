@@ -50,7 +50,7 @@ Aber es gibt keinen Tastsinn. Der Klang wurde auf der Wolke zu einer abstrakten 
 
 Reel-to-Reel ist das genaue Gegenteil.
 Die Zuhörer wechseln die Walzen, beobachten die Rotation und „spielen“ den magnetischen Fluss.
-Es ist ein Akt des physischen Umgangs mit der Zeit. Schall ist nicht nur eine reproduzierte Information, sondern wird wieder zu einem Phänomen, das mit Bewegung und Reibung verbunden ist.
+Es ist ein Akt des physischen Umgangs mit der Zeit. Schall ist nicht nur reproduzierte Information, sondern wird zu einem Phänomen, das Bewegung und Reibung beinhaltet.
 
 Was moderne Menschen suchen, könnte dieser „regenerierende Körper“ sein.
 Reel-to-Reel ist ein Gerät, das die Rematerialisierung des Zuhörens fördert.
@@ -58,21 +58,21 @@ Reel-to-Reel ist ein Gerät, das die Rematerialisierung des Zuhörens fördert.
 ---
 
 ## Kapitel 2 Medientheorie des Magnetismus – Was ist Aufzeichnung?
-Betrachtet man die Oberfläche des Bandes mit einem Mikroskop, erkennt man dort unzählige aufgereihte Magnetpartikel.
+Betrachtet man die Oberfläche des Bandes mit einem Mikroskop, sieht man dort unzählige aneinandergereihte Magnetpartikel.
 Schall ist ein physikalisches Muster, in dem elektrische Signale als magnetische Schattierungen angeordnet sind.
 Anders als in der digitalen Welt, die aus Nullen und Einsen besteht, gibt es hier eine „kontinuierliche Welt“.
 
 Was Reel-to-Reel darstellt, sind keine Schalldaten, sondern **Klanggedächtnis**.
 Es handelt sich um eine Technologie, bei der „Lebendigkeit“ Vorrang vor „Genauigkeit“ hat.
 Das magnetisierte Band enthält die Atmosphäre der Aufführung, die Luftfeuchtigkeit im Raum und sogar die Absichten des Ingenieurs.
-Mit anderen Worten, es ist ein „materielles Zeitgerät“, das Klang vermittelt.
+Mit anderen Worten: Es handelt sich um ein „materielles Zeitgerät“, das Klang vermittelt.
 
 Im Gegensatz zur unendlichen digitalen Reproduktion verschlechtert sich der Magnetismus von Rolle zu Rolle, dehnt sich aus und verschwindet.
 Doch gerade diese „Endlichkeit“ macht Klang zu einem besonderen Ereignis.
 
 ---
 
-## Kapitel 3 Genealogie und die nächste Welle der analogen Wiederbelebung
+## Kapitel 3 Genealogie des analogen Revivals und der nächsten Welle
 In den letzten 20 Jahren haben wir das „analoge Comeback“ viele Male miterlebt.
 Schallplatten beleben das visuelle Ritual** durch das „Objekt“ der Jacke.
 Kassetten brachten den DIY-Geist und die **Lo-Fi-Freiheit** zurück.
@@ -92,7 +92,7 @@ T. Rex‘ „Electric Warrior“ ist ein heißer Glam-Rock-Metal.
 Yes „The Yes Album“ ist ein Progressive-Rock-Akustikraum.
 Ziel ist es, sie in einer Qualität wiederzugeben, die den Masterbändern möglichst nahe kommt.
 
-Wichtig ist hier jedoch nicht die „Klangqualität“.
+Wichtig ist hierbei jedoch nicht die „Klangqualität“.
 „High Fidelity“ ist nicht nur „High Fidelity“, sondern auch **Realitätstreue**.
 Rauschen und Verzerrungen wurden durch die Welle der Digitalisierung beseitigt,
 Tatsächlich war es ein Beweis für die menschliche Unvollkommenheit der Musik.
@@ -119,7 +119,7 @@ Reel-to-Reel ist nicht mehr „vintage“;
 ---
 
 ## Kapitel 6 Reel to Mind – Die Zukunft der Wahrnehmung erweitert um Analog
-Sich von Band zu Band anzuhören ist nicht wie das Zurückspulen der Zeit.
+Sich von Band zu Band anzuhören ist nicht so, als würde man die Zeit zurückspulen.
 Vielmehr handelt es sich um einen Akt der Rekonstruktion der Zeit.
 Während das Band abgespielt wird, nimmt die Anzahl der Bänder ab und der Ton wird in einem endlichen Raum weiter abgespielt.
 Seine Endlichkeit regt den Zuhörer zur Konzentration und zum Eintauchen an.
@@ -137,7 +137,7 @@ Da die digitale Technologie das Gedächtnis als „Daten“ dominiert,
 Reel-to-Reel versucht, sein Gedächtnis als „Material“ zurückzugewinnen.
 
 Die Neuauflage von Rhino High Fidelity ist nur der erste symbolische Schritt.
-Wenn der Klang wieder **Schwerkraft** hat, werden wir uns an die Bedeutung des Akts des „Hörens“ erinnern.
+Wenn der Klang wieder **Schwerkraft hat**, werden wir uns an die Bedeutung des Aktes „Hören“ erinnern.
 Reel dreht sich erneut um, um die Zukunft aufzuzeichnen.
 
 ---

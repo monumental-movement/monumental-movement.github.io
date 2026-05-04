@@ -53,8 +53,8 @@ Nach „Second Summer of Love“ im Jahr 1988 breitete sich die Rave-Kultur aus,
 
 ## Kapitel 2: Geburt von Speed ​​​​Garage und 2-Step
 
-### Entstehung von Speed ​​Garage (1996–1998)
-Frühe britische Werkstätten waren als „Speed ​​​​Garage“ bekannt. Dies ist ein amerikanischer House-Stil mit einer **Dschungel-Basslinie**, und einige typische Titel sind:
+### Entstehung von Speed ​​Garage (1996-1998)
+Frühe britische Werkstätten waren als „Speed ​​​​Garage“ bekannt. Dies ist ein amerikanischer House-Stil mit einer **Dschungel-Basslinie**, und einige typische Tracks sind:
 
 - **Double 99 – „RipGroove“ (1997)**
 - **Tuff Jam – „Need Good Love“ (1997)**
@@ -126,10 +126,10 @@ Es ist diese Vielfalt, die die „Schwankung“ des Rhythmus erzeugt.
 
 - **Afro-karibischer Rhythmus** (abgeleitet von Jungle und Reggae)
 - **Amerikanische R&B-Melodie**
-- **Der DIY-Geist des urbanen Großbritanniens**
+- **Der DIY-Geist britischer Städte**
 
 Dieser Schnittpunkt bildete die einzigartige Klangidentität Großbritanniens.
-Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als positives Ausdrucksmittel als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.
+Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als Mittel zur positiven Meinungsäußerung als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.
 
 ---
 

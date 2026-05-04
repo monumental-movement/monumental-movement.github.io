@@ -53,7 +53,7 @@ color: #fff;
 
 Die Ursprünge der virtuellen Band liegen in der Animations- und Konzeptalbumkultur des späten 20. Jahrhunderts. In Zeichentrickfilmen und Fernsehserien haben nicht existierende Charaktere die Lieder gesungen, und das Publikum hat sie natürlich akzeptiert. Hier wurde der Frage „Wer singt in der Geschichte“ Vorrang vor der Tatsache „Wer singt?“ eingeräumt.
 
-Auch in der Rock- und Popmusik tauchten von Ende der 1960er bis 1970er Jahre Werke mit fiktiven Bandsettings und Alter Egos auf. Dies war für den Künstler auch eine Möglichkeit, sich von seinem wahren Bild zu distanzieren und seine Meinungsfreiheit zu erhöhen.
+Auch in der Rock- und Popmusik tauchten von Ende der 1960er bis 1970er Jahre Werke mit fiktiven Bandsettings und Alter Egos auf. Dies war für den Künstler auch eine Möglichkeit, sich von seinem wahren Selbst zu distanzieren und seine Meinungsfreiheit zu erhöhen.
 
 Diese Hüllen enthielten bereits zwei Elemente, die für spätere virtuelle Bands notwendig waren. Erstens die Empfänglichkeit des Publikums, sich in ein fiktives Wesen hineinzuversetzen. Zweitens ist die Erkenntnis, dass Geschichte und Setting das musikalische Erlebnis erweitern.
 

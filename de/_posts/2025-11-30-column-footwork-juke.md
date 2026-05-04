@@ -128,7 +128,7 @@ Seit den 2010er Jahren erregt Footwork auch außerhalb der USA Aufmerksamkeit. E
 ## 7. Musikalische Analyse/repräsentative Werke
 
 - **DJ Rashad – „Let It Go“**
-Ein klassisches Beispiel für schnelle BPM, fragmentierten Gesang und komplexe rhythmische Strukturen.
+Ein klassisches Beispiel für schnellen BPM, fragmentierten Gesang und komplexe rhythmische Strukturen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qPecFEVst_c?si=dmLd03_NYbq-Dtzd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

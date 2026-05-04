@@ -66,7 +66,7 @@ Eurobeat war mit der Parapara-Kultur und der Anime-Song-Mix-Kultur der 1990er Ja
 
 Das Tempo von Eurobeat (140-160 BPM) passt sehr gut zum Geschwindigkeitsgefühl eines Autos. In den Rennszenen von Initial D fungierte Eurobeat als „akustischer Beschleuniger“.
 
-たとえば：
+Zum Beispiel:
 
 [「Deja Vu」（Dave Rodgers）](https://amzn.to/3KiOkYW)
 
@@ -102,7 +102,7 @@ Eurobeat wird in TikTok- und MAD-Videos auf neue Weise neu interpretiert.
 <hr>
 
 ### Ist Eurobeat „Memory Fuel“?
-„Initial D“ verlieh der Musik namens Eurobeat eine Geschichte und Emotion. Es handelte sich nicht nur um „Tanzmusik“, sondern um eine Erfahrung, die mit „beschleunigter Jugend“ und „Erinnerungen an Niederlagen und Siege“ verbunden war.
+„Initial D“ verlieh der Musik namens Eurobeat eine Geschichte und Emotion. Es handelte sich nicht nur um „Tanzmusik“, sondern um eine Erfahrung, die mit „beschleunigender Jugend“ und „Erinnerungen an Niederlagen und Siege“ verbunden war.
 
 Dadurch wurde Eurobeat in Japan zu einer ungewöhnlich „emotionalen“ Musik. Mit anderen Worten:
 
@@ -111,7 +111,7 @@ Eurobeat ist Musik, die von Geschwindigkeit spricht, und gleichzeitig ist es zu 
 
 <hr>
 
-### Die Erinnerung an die Geschwindigkeit wird niemals verblassen
+### Die Erinnerung an die Geschwindigkeit wird niemals verschwinden
 „Initial D“ ist zu Ende, aber die Erinnerungen an Eurobeat kursieren immer noch im Internet. Auch wenn das Rennen vorbei ist, beginnt das Rennen jedes Mal, wenn die Musik abgespielt wird, von neuem.
 
 Es ist auch ein Wiedererleben unserer eigenen „Jugend“ und unseres „Impulses“.

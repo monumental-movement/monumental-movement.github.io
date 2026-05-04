@@ -53,7 +53,7 @@ Er gründete außerdem ein Unterlabel namens Podium, das sich auf Techno-Kreativ
 
 ### 1.3 Internationale Aktivitäten
 
-Len Faki ist für seine ausgedehnten DJ-Sets bekannt und während seiner Residency im Berghain ist er als Headliner und Key-Act in Clubs und Festivals auf der ganzen Welt aufgetreten.
+Len Faki ist für seine langen DJ-Sets bekannt und während seiner Residency im Berghain ist er als Headliner und Key-Act in Clubs und Festivals auf der ganzen Welt aufgetreten.
 In den letzten Jahren haben wir auch Online-Vertriebssets und neue Albumprojekte (z. B. Fusion) entwickelt.
 Ihr Stil beeinflusst weiterhin die internationale Techno-Szene, indem er moderne Klänge vereint und gleichzeitig die Techno-Tradition bewahrt.
 
@@ -76,7 +76,7 @@ Nach dem Drop treiben Tieftonkick und Bass den Boden an, während weißes Rausch
 Dies ist eine typische Vereinskonfiguration, bei der das Spielfeld in der Pause sanfter wird und dann ein Gefühl der Aufregung aufbaut, während es sich darauf vorbereitet, wieder abzufallen.
 
 #### Akustische Eigenschaften (geschätzt)
-- Die Trittenergie ist auf den niedrigen Bereich (40–60 Hz) konzentriert.
+- Die Trittenergie konzentriert sich auf den niedrigen Bereich (40–60 Hz).
 - Subbass- und Percussion-Layer im Mitteltonbereich
 - Weißes Rauschen, Sirene und Synth-Pads schaffen einen Raum im oberen Bereich
 
@@ -134,7 +134,7 @@ Es wird verwendet, um den Groove in der Mitte eines Satzes aufrechtzuerhalten od
 #### grundlegende Informationen
 - BPM: 125
 - Tonart: g-Moll
-- Länge: Ungefähr 8 Minuten und 44 Sekunden
+- Länge: Ungefähr 8 Minuten 44 Sekunden
 
 #### Songstruktur und Rhythmus
 Es hat ein starkes melodisches Element, wobei Pads und Synthesizer allmählich mit dem Rhythmus im Intro verschmelzen.
@@ -164,7 +164,7 @@ Klare Build-Break-Drop-Struktur, perfekt für Festivals und Peak-Sets.
 #### Akustische Eigenschaften (geschätzt)
 - Tief: Starker Subbass und Kick
 - Mitteltonbereich: Mechanischer Synthesizer, rhythmische Muster
-- Hochfrequenz: Spannung durch Effekte und Lärm verlängern
+- Hochfrequenz: Spannung durch Effekte und Geräusche verlängern
 
 #### Rolle im DJ-Set
 Es wird zu Spitzenzeiten aufgestellt, um das Publikum zu begeistern und eine futuristische und kraftvolle Darbietung zu bieten.
@@ -215,7 +215,7 @@ timeline
 - Halten Sie Produktionsstandards mit Ihren eigenen Veröffentlichungen aufrecht
 
 ### 5.3 Globale Auswirkungen
-- Berliner Techno durch internationale Tourneen und Festivalauftritte in der Welt verbreiten
+- Berliner Techno durch internationale Tourneen und Festivalauftritte in die Welt tragen
 - Präsentieren eines neuen Cluberlebnisses mit Online-Sets
 
 ---

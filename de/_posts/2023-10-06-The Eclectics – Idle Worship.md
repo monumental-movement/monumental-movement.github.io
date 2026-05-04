@@ -9,12 +9,12 @@ permalink: /de/the-eclectics-idle-worship/
 tags:
 - Ska
 - Punk
-title: The Eclectics – Idle Worship
+title: Die Eklektiker – müßige Anbetung
 ---
 
 
-「Idle Worship」は、
-1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。
+„Müßige Anbetung“ ist
+Dies ist ein Album der amerikanischen Ska-Punk-Band The Eclectics, das 1997 vom Label Jump Up! veröffentlicht wurde. Aufzeichnungen.
 
 
 #### Trackliste

@@ -43,11 +43,11 @@ color: #fff;
 
 ### 1-1. Aufnahmetechnik und Tonbanderzeugung
 
-Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und Frequenzeigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen manchmal von ihren vorhandenen sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
+Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und frequenzmäßigen Eigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen teilweise von ihren bestehenden sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
 
 ### 1-2. Die Ära der Synthese und der analogen Ausrüstung
 
-Seit den 1970er Jahren erfreuen sich Vocoder und analoge Synthesizer großer Beliebtheit und führen zu Crossovers zwischen Stimmen und synthetisierten Klängen. Der Vocoder übertrug die spektrale Hüllkurve der Stimme auf einen anderen Trägerton und ermöglichte so die Verschmelzung der menschlichen Stimme mit elektronischen Klängen. Infolgedessen sind robotische/mechanische Töne weit verbreitet.
+Seit den 1970er Jahren erfreuen sich Vocoder und analoge Synthesizer großer Beliebtheit und führen zu Crossovers zwischen Stimmen und synthetisierten Klängen. Der Vocoder übertrug die spektrale Hüllkurve der Stimme auf einen anderen Trägerklang und ermöglichte so die Verschmelzung der menschlichen Stimme mit elektronischen Klängen. Infolgedessen sind robotische/mechanische Töne weit verbreitet.
 
 ---
 
@@ -116,7 +116,7 @@ Die Transformation der Stimme in ein Material ist eine Erweiterung des Ausdrucks
 
 ### 5-1. Identität und Stimme
 
-Die Stimme spiegelt die körperlichen Merkmale einer Person wider, kann jedoch durch Verarbeitungstechniken leicht verändert werden. Dies ermöglicht es Künstlern, ihr Spektrum an Selbstdarstellungen zu erweitern, und Zuhörern, ihr Bewusstsein für Stimmen zu aktualisieren.
+Die Stimme spiegelt die körperlichen Merkmale einer Person wider, kann jedoch durch Verarbeitungstechniken leicht verändert werden. Dies ermöglicht es Künstlern, ihr Spektrum an Selbstdarstellung zu erweitern und Zuhörern, ihr Bewusstsein für die Stimme zu aktualisieren.
 
 ### 5-2. Leistungsethik und Generationstechnik
 
@@ -128,7 +128,7 @@ Die Reproduktion von Stimmen und die Nachahmung der Stimmen anderer mithilfe von
 
 ### 6-1. Extraktion und Konvertierung von Audiofunktionen
 
-Durch maschinelles Lernen ist es möglich, die Tonhöhe, die Spektralhülle, das Timing und die Ausspracheeigenschaften von Sprache mit hoher Präzision zu extrahieren und auf andere Stimmen oder synthetisierte Klänge zu übertragen. Stiltransferanwendungen erregen Aufmerksamkeit als Methode, um Merkmale des bestehenden Gesangs in neue Kontexte zu integrieren.
+Durch maschinelles Lernen ist es möglich, Tonhöhe, Spektralhülle, Timing und Ausspracheeigenschaften von Sprache mit hoher Präzision zu extrahieren und auf andere Stimmen oder synthetisierte Klänge zu übertragen. Stiltransferanwendungen erregen Aufmerksamkeit als Methode, um Merkmale des bestehenden Gesangs in neue Kontexte zu integrieren.
 
 ### 6-2. Grenze zwischen synthetischer Sprache und Schöpfung
 
@@ -152,7 +152,7 @@ Hier zeigen wir Ihnen einen grundlegenden Arbeitsablauf, mit dem Sie tatsächlic
 
 ## Kapitel 8: Bildungs- und Forschungsperspektiven
 
-Stimmmanipulation ist ein Bereich, der eng mit Akustik, Psychologie und der Forschung zu künstlicher Intelligenz verbunden ist. Die Wahrnehmung der Stimmqualität, die Parametrisierung für die Stimmsynthese und das physiologische Verständnis der Vokalisierung werden zur technischen Vertiefung experimentellen Gesangs beitragen.
+Stimmmanipulation ist ein Bereich, der eng mit der Akustik, Psychologie und der Forschung zu künstlicher Intelligenz verbunden ist. Die Wahrnehmung der Stimmqualität, die Parametrisierung für die Stimmsynthese und das physiologische Verständnis der Vokalisierung werden zur technischen Vertiefung experimentellen Gesangs beitragen.
 
 ---
 

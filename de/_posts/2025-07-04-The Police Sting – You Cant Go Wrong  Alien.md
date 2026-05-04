@@ -10,11 +10,11 @@ tags:
 - House
 - Remix
 - 00s
-title: The Police Sting – Mit Alien HOUSE MIX kann man nichts falsch machen
+title: The Police Sting – You Can't Go Wrong  Alien HOUSE MIX
 ---
 
 
-Inoffizieller HOUSE MIX der berühmten Songs „When The World Is Running Down“ von The Police und „Englishman In New York“ von Sting. Veröffentlicht im Jahr 2001.
+名曲The Police(ポリス)『When The World Is Running Down』とSting(スティング)『Englishman In New York』のUnofficial (非公式) HOUSE MIX。2001年リリース。
 
 #### Trackliste
 ```md

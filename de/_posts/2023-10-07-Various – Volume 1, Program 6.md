@@ -9,12 +9,12 @@ permalink: /de/various-volume-1-program-6/
 tags:
 - New-Wave
 - House
-title: Verschiedenes – Band 1, Programm 6
+title: Various – Volume 1, Program 6
 ---
 
 
-„Verschiedenes – Band 1, Programm 6“ ist
-Dies ist eine EP des Labels „Disco Tracks Program Service“, die 1986 veröffentlicht wurde.
+「Various – Volume 1, Program 6」は、
+1986年にレーベル「Disco Tracks Program Service」からのEPです。
 
 #### Trackliste
 ```md

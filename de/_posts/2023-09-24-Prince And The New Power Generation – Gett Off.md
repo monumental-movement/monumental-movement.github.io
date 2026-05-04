@@ -16,7 +16,7 @@ title: Prince und die neue Power-Generation – Gett Off
 
 Das Lied, eine Single aus dem Album Diamonds and Pearls, ist als beliebtes Lied für Princes Tanzflächenauftritte und Live-Shows bekannt und einer der Hits seiner Musikkarriere.
 
-„Gett Off“ verfügt über einen funkigen Beat und eine groovige Basslinie, ergänzt durch Princes energiegeladene Gesangsdarbietung, was es zu einem ikonischen Teil von Princes Musikkarriere und einem Song mit besonderer Bedeutung für seine Fans und Musikliebhaber macht.
+„Gett Off“ bietet einen funkigen Beat und eine groovige Basslinie, ergänzt durch Princes energiegeladene Gesangsdarbietung, was es zu einem ikonischen Teil von Princes Musikkarriere und einem Song mit besonderer Bedeutung für seine Fans und Musikliebhaber macht.
 
 #### Trackliste
 ```md

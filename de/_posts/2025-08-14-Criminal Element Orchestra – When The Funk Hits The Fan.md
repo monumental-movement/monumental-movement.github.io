@@ -9,15 +9,15 @@ permalink: /de/criminal-element-orchestra-when-the-funk-hits-the-fan/
 tags:
 - Hiphop
 - 80s
-title: Criminal Element Orchestra – Wenn der Funk den Fan trifft
+title: Criminal Element Orchestra – When The Funk Hits The Fan
 ---
 
 
-Criminal Element Orchestra ist der Name von Arthur Bakers Elektronik-/Breaks-/Garage-House-Projekt aus den 1980er bis 1990er Jahren.
+Criminal Element Orchestra は、Arthur Baker (アーサーベイカー)が1980年代～1990年代に使用したエレクトロニック／ブレイクス／ガラージハウスのプロジェクト名。
 
-„When The Funk Hits The Fan“ erschien 1989 und war auf dem im selben Jahr veröffentlichten Album „Locked Up“ enthalten.
+1989年にリリースした「When The Funk Hits The Fan」は、同年にリリースしたアルバム『Locked Up』にも収録されている。
 
-„When the Funk Hits the Fan“ gilt als Pionier des Neo-Soul und Electronic Funk und ist einer der Signature-Songs von Arthur Baker.
+「When the Funk Hits the Fan」は、ネオソウルやエレクトロニック・ファンクの先駆けとして評価され、Arthur Baker の代表曲の一つ。
 
 
 #### Trackliste

@@ -63,7 +63,7 @@ color: #fff;
 
 ### Ein Kulturkonzept, das seit dem 19. Jahrhundert existiert
 
-Das Wort „Nostalgie“ entstand als medizinischer Begriff im 17. Jahrhundert.
+Das Wort Nostalgie entstand im 17. Jahrhundert als medizinischer Begriff.
 Der Begriff wurde vom Schweizer Arzt Johannes Hofer geprägt, um den psychischen Zustand zu beschreiben, den Soldaten außerhalb der Heimat erleben.
 
 Die Etymologie ist
@@ -133,7 +133,7 @@ Dadurch entsteht bei den Menschen ein gemeinsames „Pseudogedächtnis“.
 
 ## Nostalgie als Musikgenre
 
-### Das Aufkommen der Dampfwelle
+### Das Aufkommen von Vaporwave
 
 Anfang der 2010er Jahre wurde aus dem Internet ein Musikgenre geboren.
 
@@ -156,7 +156,7 @@ Vaporwave ist
 * Konsumkultur
 * Digitale Gesellschaft
 
-Es begann als eine satirische Kunst
+Es begann als eine Kunst, die persifliert.
 
 Aber gleichzeitig hat dieses Genre ein starkes Gefühl der Nostalgie erzeugt.
 
@@ -189,7 +189,7 @@ In den späten 2010er Jahren verbreitete sich eine andere Form der Nostalgiemusi
 Diese Musik ist
 
 * Lärm aufzeichnen
-* Bandverzerrung
+*Bandverzerrung
 * alte Jazz-Samples
 
 Es zeichnet sich durch solche Dinge aus.
@@ -232,7 +232,7 @@ Das Internet hat die schnellste technologische Innovation in der Geschichte der 
 
 Aber interessanterweise tendiert Musik umso mehr dazu, „in die Vergangenheit zu wandern“, je weiter die Technologie voranschreitet.
 
-Dies ist auch ein Phänomen, auf das Kulturforscher hingewiesen haben.
+Auch auf dieses Phänomen haben Kulturforscher hingewiesen.
 
 Es gibt drei Hauptgründe.
 
@@ -242,7 +242,7 @@ Das Internet bietet Unmengen an Musik, erzeugt aber auch Müdigkeit.
 Die zweite ist **Identitätsstabilität**.
 Nostalgische Musik vermittelt ein Gefühl der Sicherheit in einer sich schnell verändernden Gesellschaft.
 
-Das dritte ist **Bewunderung für das Analoge**.
+Das dritte ist **Bewunderung für Analoges**.
 Digitale Perfektion kann manchmal kalt wirken.
 
 Als Reaktion darauf entstand die Nostalgiemusik.

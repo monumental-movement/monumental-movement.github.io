@@ -16,9 +16,9 @@ title: G. Love & Special Sauce – G. Love & Special Sauce
 ---
 
 
-G. Love & Special Sauce ist eine Rockband aus Philadelphia. Gekennzeichnet durch einen organischen und einzigartigen Stil, der Elemente aus Blues, Hip-Hop, Rock und Soul mischt.
+G. Love & Special Sauceは、フィラデルフィア出身のロックバンド。ブルース、ヒップホップ、ロック、ソウルの要素を混ぜ合わせたオーガニックでユニークなスタイルが特徴。
 
-Ihr Debütalbum „G. „Love & Special Sauce“, 1994 von Okeh Records veröffentlicht, wurde ein großer Hit, und auch der siebte Song des Albums, „Cold Beverage“, wurde ein Hit.
+1994年にOkeh Recordsからリリースしたセリフタイトルデビューアルバム「G. Love & Special Sauce」は、収録曲7曲目のCold Beverageのヒットもあって、大ヒットとなった。
 
 
 #### Trackliste

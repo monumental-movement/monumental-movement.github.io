@@ -20,7 +20,7 @@ title: '[Kolumne] Die komplette Geschichte der elektroakustischen Improvisation'
 Text: mmr｜Thema: Über Christian Fennesz, Rafael Toral, AMM, Sachiko M, Otomo Yoshihide
 
 Elektroakustische Improvisation (EAI) ist ein Musiktrend, der elektronische Akustik und Improvisation kombiniert und sich in den späten 1990er bis frühen 2000er Jahren vor allem in Europa und Japan herausbildete.
-Improvisationsmusik, elektroakustische Musik, Noise, Field Recording, modulare Synthesizer und digitale Sampler kreuzen sich und bilden ein einzigartiges Übungssystem, das sich von herkömmlicher, jazzorientierter freier Improvisation und Akustikschule unterscheidet.
+Improvisationsmusik, elektroakustische Musik, Lärm, Field Recording, modulare Synthesizer und digitale Sampler kreuzen sich und bilden ein einzigartiges Übungssystem, das sich von der traditionellen, jazzorientierten freien Improvisation und der Akustikschule unterscheidet.
 
 ---
 
@@ -65,7 +65,7 @@ Die von Eddie Prévost und Keith Rowe demonstrierte „Befreiung nichtinstrument
 
 ### 2-3. Herkunft ③: Noise/alternativer elektronischer Sound der 1980er-1990er Jahre
 Japanischer Lärm (Merzbow, Incapacitants usw.) enthüllte die „Materialität des Klangs“ durch die ultimative Suche nach akustischen Materialien.
-Andererseits führten Otomo Yoshihide und Sachiko M minimale und raffinierte elektronische Klänge (Sinuswellen) in ihre Improvisationen ein und schufen damit die Grundlagen von EAI: „Reduzierung der Anzahl von Klängen“ und „Betonung des Raums“.
+Andererseits improvisierten Otomo Yoshihide und Sachiko M minimale und anspruchsvolle elektronische Klänge (Sinuswellen) und legten die Grundlagen von EAI fest: „Reduzierung der Anzahl von Klängen“ und „Betonung des Raums“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -106,7 +106,7 @@ Merkmale:
 - Selbstgebaute/modifizierte Synthesizerschaltungen, Signalgeneratoren usw.
 - Spielt „steuerbare elektronische Signale“ anstelle von Rauschen
 - Behandeln Sie elektronische Klänge wie Jazzphrasen
-- Verfolgung der Übereinstimmung zwischen körperlichen Bewegungen und elektronischen Reaktionen
+- Verfolgung des Zusammenspiels zwischen körperlichen Bewegungen und elektronischen Reaktionen
 
 Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen elektronischer Klänge“ und ist ein repräsentatives Beispiel für die Improvisationsmöglichkeiten des modularen Betriebs.
 

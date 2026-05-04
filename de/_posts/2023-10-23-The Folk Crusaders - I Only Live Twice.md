@@ -10,11 +10,11 @@ tags:
 - JPop
 - Folk
 - 7inch
-title: Die Volkskreuzfahrer – Ich lebe nur zweimal
+title: The Folk Crusaders - I Only Live Twice
 ---
 
 
-„Returning Yopparai“ war die Debütsingle von The Folk Crusaders und die erste millionenfach verkaufte Single in der Geschichte der Oricon-Charts. Es ist auch das Lied, das den „Underground-Folk“-Boom auslöste und ein repräsentatives Werk japanischer Comic-Lieder ist.
+『帰って来たヨッパライ』は、ザ・フォーク・クルセダーズのデビューシングルで、オリコンチャート史上初のミリオン・シングル。「アングラ・フォーク」のブームを生み出した曲でもあり、日本のコミックソングの代表的な作品。
 
 #### Trackliste
 ```md

@@ -11,20 +11,20 @@ tags:
 - Culture
 - Copyright
 - Remix
-title: '[Kolumne] Remix-Kultur und die Frage der Rechte: zwischen Kopieren und Kreieren'
+title: 【コラム】 リミックス文化と権利の問題――コピーと創造のあいだで
 ---
 
 
 
-## Historischer Prototyp des Remix-Aktes
+## リミックスという行為の歴史的原型
 
-Text: mmr | Thema: Die Remix-Kultur hat sich vom 20. zum 21. Jahrhundert rasant ausgeweitet und umfasst Musik, Video, Kunst und Internet-Ausdruck. Obwohl das Urheberrechtssystem zum Schutz der Rechte der Urheber entwickelt wurde, hat es andererseits immer zu Konflikten mit kulturellen Praktiken geführt, die auf Wiederverwendung, Zitat und Änderung basieren. Dieses Papier nimmt die historische Entwicklung der Remix-Kultur als Ausgangspunkt, organisiert die institutionellen Merkmale des japanischen Rechts, des US-amerikanischen Rechts und des EU-Rechts und untersucht die Beziehung zwischen Rechten und Schöpfung aus mehreren Blickwinkeln, wobei der Anwendungsbereich über die Musik hinaus auf Videos, Memes und abgeleitete Werke ausgeweitet wird.
+文：mmr｜テーマ：リミックス文化は、音楽・映像・アート・インターネット表現を横断しながら、20世紀から21世紀にかけて急速に拡張してきた。一方で著作権制度は、創作者の権利保護を目的として整備されながらも、再利用・引用・改変を前提とする文化実践とのあいだで常に摩擦を生んできた。本稿では、リミックス文化の歴史的展開を起点に、日本法・米国法・EU法それぞれの制度的特徴を整理し、音楽にとどまらない映像・ミーム・二次創作へと射程を広げながら、権利と創造の関係を多角的に検討する。
 
-Schon bevor das Wort Remix populär wurde, basierte die menschliche Kultur immer auf Wiederverwendung und Modifikation. Werke wie Parodien auf Volkslieder, Variationen mündlicher Literatur und melodische Adaptionen religiöser Musik waren keine fixierten, fertigen Produkte, sondern wurden während des Übertragungsprozesses transformiert.
+リミックスという言葉が一般化する以前から、人類の文化は常に再利用と改変を前提としてきた。民謡の替え歌、口承文学の異本、宗教音楽の旋律転用など、作品は固定された完成物ではなく、伝達の過程で変形するものだった。
 
-Auch nach der Neuzeit, als sich das Konzept der Notenschrift und der Komponisten etablierte, galten Variationen, Bearbeitungen und Zitate als legitime schöpferische Akte. Die Themen und Variationen in der klassischen Musik und die Interpretation von Standards im Jazz zeigen, dass die Rekonstruktion vorhandener Materialien im Mittelpunkt des Ausdrucks steht.
+楽譜と作曲者概念が確立した近代以降も、変奏曲、編曲、引用は正当な創作行為として位置づけられてきた。クラシック音楽における主題と変奏、ジャズにおけるスタンダードの解釈は、既存素材の再構成が表現の核心であることを示している。
 
-> Remixing ist ein kulturelles Selbsterneuerungsinstrument, das älter ist als das moderne Urheberrecht.
+> リミックスは近代的著作権以前から存在する、文化の自己更新装置である。
 
 ---
 
@@ -42,111 +42,111 @@ color: #fff;
 </style>
 
 
-## Visualisierung der Aufnahmetechnik und Wiederverwendung
+## 録音技術と再利用の可視化
 
-Mit der Verbreitung der Aufnahmetechnik im frühen 20. Jahrhundert veränderte sich der Gegenstand der Wiederverwendung von „Liedern“ zu „Tonquellen“. Durch Rundfunkausstrahlung, Vervielfältigung von Schallplatten und Bearbeitung von Magnetbändern begannen Materialien in einer vom Akt der Aufführung getrennten Form zu zirkulieren.
+20世紀初頭の録音技術の普及は、再利用の対象を「楽曲」から「音源」へと変化させた。ラジオ放送、レコード複製、磁気テープ編集によって、演奏行為とは切り離された形で素材が流通するようになる。
 
-Insbesondere der Tonbandschnitt bildete die technische Voraussetzung, die direkt mit dem späteren Sampling und Remix verknüpft war. Durch die Bearbeitung durch physisches Schneiden und Fügen wurde dem Schöpfer bewusst, dass es sich bei der Klangquelle um ein zerlegbares Material handelte.
+特にテープ編集は、後のサンプリングやリミックスに直結する技術的前提を形成した。物理的な切断と接合による編集は、音源が分解可能な素材であることを制作者に意識させた。
 
-> Die Technologie hat die Wiederverwendung von einer unsichtbaren Praxis zu einem sichtbaren Vorgang gemacht.
-
----
-
-## Jamaikanische Dub- und Versionskultur
-
-Dub wurde Ende der 1960er Jahre in Jamaika gegründet und etablierte Remixing als unabhängige Produktionsgruppe. Die Methode, neue Musik durch die Manipulation mehrerer Spuren bestehender Reggae-Soundquellen, das Löschen von Gesang, die Bearbeitung von Effekten und die Manipulation des Raums zu schaffen, hat die Idee, sich auf Originalsongs zu konzentrieren, zunichte gemacht.
-
-Hintergrund hierfür war eine Produktionsumgebung, die die begrenzten Ressourcen und den unmittelbaren Wettbewerb in der Soundsystemkultur optimal nutzte. Die Verarbeitung von Rechten hing mehr von der Praxis als von Institutionen ab, und die Wiederverwendung war eine routinemäßige Annahme.
-
-> Dub war die erste systematische Praxis, die die Neubearbeitung in den Mittelpunkt ihrer Entstehung stellte.
+> 技術は、再利用を不可視の慣習から可視的な操作へと変えた。
 
 ---
 
-## Erweiterung von Hip Hop und Sampling
+## ジャマイカ・ダブとバージョン文化
 
-Hip-Hop wurde Ende der 1970er Jahre in New York geboren und brachte die Remix-Kultur durch Sampling in den Mittelpunkt der urbanen Kultur. Die Wiederholung von Breakbeats und das fragmentarische Zitieren vorhandener Klangquellen trennte die Musikproduktion von der professionellen Ausbildung und verwandelte sie in eine auf Geräten und Empfindungen basierende Praxis.
+1960年代後半のジャマイカで成立したダブは、リミックスを独立した制作行為として確立した。既存レゲエ音源のマルチトラックを操作し、ボーカルの削除、エフェクト処理、空間操作によって新たな音楽を生み出す手法は、原曲中心主義を解体した。
 
-In den Anfängen des Hip-Hop gab es wenig Bewusstsein für den Umgang mit Rechten. Sobald sich der Umfang des Vertriebs vergrößert und Verbindungen zu wichtigen Branchen hergestellt werden, werden rechtliche Probleme deutlich.
+この背景には、限られた資源を最大限に活用する制作環境と、サウンドシステム文化における即時的な競争があった。権利処理は制度よりも慣行に依存しており、再利用は日常的な前提だった。
 
-> Untersuchung exponierter Punkte, an denen kulturelle Bezüge mit Ökonomie kollidieren.
-
----
-
-## Grundstruktur des Urheberrechtssystems
-
-Das Urheberrechtssystem zielt darauf ab, kreative Aktivitäten zu fördern, indem den Urhebern ausschließliche Rechte gewährt werden. Die Rechte zur Vervielfältigung, Bearbeitung und öffentlichen Übertragung sind zentral, und beim Remix sind mehrere Rechte gleichzeitig vorgesehen.
-
-Gleichzeitig gibt es Ausnahmen wie Zitate, persönliche Nutzung und Bildungsnutzung, sodass nicht jede Weiterverwendung verboten ist. Das Problem ist, dass Grenzen immer einer Interpretation bedürfen.
-
-> Das Urheberrecht ist keine feste Verbotsregel, sondern ein Rahmen zur Anpassung.
+> ダブは、再編集を創造の中核に据えた最初の体系的実践だった。
 
 ---
 
-## Remix und faire Nutzung nach US-amerikanischem Recht
+## ヒップホップとサンプリングの拡張
 
-Ein besonderes Merkmal des US-amerikanischen Urheberrechts ist die Fair-Use-Bestimmung. Es verfügt über die Flexibilität, eine Nutzung ohne Genehmigung zuzulassen, nachdem Faktoren wie der Zweck der Nutzung, die Art der Arbeit, der Umfang der Nutzung und die Auswirkungen auf den Markt umfassend ermittelt wurden.
+1970年代後半のニューヨークで誕生したヒップホップは、サンプリングを通じてリミックス文化を都市文化の中心へと押し上げた。ブレイクビーツの反復、既存音源の断片的引用は、音楽制作を専門教育から切り離し、機材と感覚に基づく実践へと変えた。
 
-Bei Musiksampling-Klagen ist die Zahl der Fälle gestiegen, in denen sogar kurze Fragmente als rechtsverletzend beurteilt werden, modifizierte Verwendungen für Parodie und Kritik wurden jedoch bis zu einem gewissen Grad geschützt. Dieses Konzept der Wandelbarkeit ist zu einem wichtigen Kriterium in der Video-Remix- und Meme-Kultur geworden.
+初期のヒップホップでは、権利処理はほとんど意識されていなかった。流通規模が拡大し、メジャー産業と接続した段階で、法的問題が顕在化する。
 
-> Das US-Recht weist eine Struktur auf, in der Meinungsfreiheit und Rechtsschutz nachträglich angepasst werden.
-
----
-
-## Harmonisierung und Ausnahmen im EU-Recht
-
-In der EU liegt der Schwerpunkt auf Richtlinien zur Harmonisierung der Systeme zwischen den Mitgliedsländern. Während der Urheberrechtsschutz relativ streng ist, gibt es klare Ausnahmen in Bezug auf Parodie und Zitat.
-
-Die Richtlinie zum digitalen Binnenmarkt klärte die Verantwortlichkeiten der Plattformen und hatte große Auswirkungen auf die Art und Weise, wie Remixe und nutzergenerierte Inhalte behandelt werden. Es wurde auch darauf hingewiesen, dass der automatische Erkennungs- und Löschmechanismus zu einer Atrophie der Expression führen kann.
-
-> Das EU-Recht strebt systematisch ein Gleichgewicht zwischen Marktintegration und Kulturschutz an.
+> サンプリングは、文化的引用が経済と衝突する地点を露わにした。
 
 ---
 
-## Übersetzung und Zitierung nach japanischem Recht
+## 著作権制度の基本構造
 
-Das japanische Urheberrecht legt großen Wert auf das Recht zur Anpassung, und eine Nutzung, die eine Änderung mit sich bringt, erfordert im Allgemeinen eine Genehmigung. Zitate müssen strenge Anforderungen erfüllen und passen nicht unbedingt zu Remixen.
+著作権制度は、創作者に排他的権利を与えることで創作活動を促進することを目的とする。複製権、翻案権、公衆送信権などが中心で、リミックスはこれら複数の権利に同時に関係する。
 
-Andererseits wurden in den letzten Jahren Anstrengungen unternommen, um auf das digitale Zeitalter zu reagieren, beispielsweise durch die Einführung flexibler Regelungen zur Einschränkung von Rechten und die Einführung einer Nichtstraftat. Die Kultur der abgeleiteten Schöpfung hat sich auf einzigartige Weise zwischen Systemen und Praktiken entwickelt.
+同時に、引用、私的使用、教育利用などの例外規定が存在し、すべての再利用が禁止されているわけではない。問題は、その境界が常に解釈を必要とする点にある。
 
->Das japanische Recht legt zwar Wert auf Klarheit, verlässt sich aber auf die Ergänzung durch Bräuche.
-
----
-
-## Video-Remix und Mashup
-
-Im Videobereich haben die Neubearbeitung von Filmen, die Rekonstruktion von Trailern und von Fans erstellte Videos die Remix-Kultur erweitert. Da visuelle Bezüge offensichtlicher sind als Musik, lassen sich Rechteprobleme leichter visualisieren.
-
-Dennoch haben die kritische Überarbeitung und der pädagogische Einsatz eine gewisse Legitimität erlangt.
-
-> Der Video-Remix betont die Kritikalität durch die Kraft visueller Zitate.
+> 著作権は固定的な禁止規則ではなく、調整の枠組みである。
 
 ---
 
-## Internet-Memes und sofortige Wiederverwendung
+## 米国法におけるリミックスとフェアユース
 
-Memes sind kulturelle Formen, die kurze Texte oder Modifikationen zu vorhandenen Bildern oder Videos hinzufügen und sich sofort verbreiten. Der unbekannte Autor, die schnelle Verbreitungsgeschwindigkeit und die Transformationskette setzen kein herkömmliches Rechtemanagement voraus.
+米国著作権法の特徴は、フェアユース規定にある。利用目的、作品の性質、使用量、市場への影響といった要素を総合的に判断し、許諾なしの利用を認める柔軟性を持つ。
 
-In vielen Fällen ist der gemeinsame soziale Kontext von zentraler Bedeutung für den Wert und die wirtschaftliche Ausbeutung ist zweitrangig.
+音楽サンプリング訴訟では、短い断片であっても侵害と判断されるケースが増えたが、パロディや批評としての変形的利用は一定程度保護されてきた。この変形性の概念は、映像リミックスやミーム文化において重要な判断軸となっている。
 
-> Memes werden wiederholt in einer Geschwindigkeit produziert und konsumiert, die das Zeitgefühl des Urheberrechtssystems überschreitet.
-
----
-
-## Abgeleitete Kreationen und Fankultur
-
-Abgeleitete Werke wie Doujinshi, Fan-Kunst und Cover-Videos sind Praktiken, die das Originalwerk gleichzeitig respektieren und kritisieren. Insbesondere in Japan wurde die Kultur durch die stillschweigende Zustimmung und Richtlinien der Rechteinhaber unterstützt.
-
-Man kann sagen, dass dies eine Entscheidung ist, die der kulturellen Nachhaltigkeit Vorrang vor einer strikten rechtlichen Anwendung einräumt.
-
-> Abgeleitete Schöpfungen sind ein kulturelles Ökosystem, das durch Vereinbarungen außerhalb des Systems entstanden ist.
+> 米国法は、表現の自由と権利保護を事後判断で調整する構造を持つ。
 
 ---
 
-## Re-Editing-Problem im KI-Zeitalter
+## EU法における調和と例外
 
-Die Generierung und Konvertierung durch KI erweitert das Konzept des Remixings weiter. Datennutzung, Ausgabeähnlichkeit und Stilimitation während der Lernphase werfen Probleme auf, die mit herkömmlichen Urheberrechtskonzepten nicht gelöst werden können.
+EUでは、加盟国間の制度調和を目的とした指令が中心となる。著作権は比較的強く保護される一方、パロディや引用に関する例外が明文化されている。
 
-> KI wird neu definieren, wer für das Remixen verantwortlich ist.
+デジタル単一市場指令は、プラットフォーム責任を明確化し、リミックスやユーザー生成コンテンツの扱いに大きな影響を与えた。自動検出と削除の仕組みは、表現の萎縮を招く可能性も指摘されている。
+
+> EU法は、市場統合と文化保護の均衡を制度的に追求している。
+
+---
+
+## 日本法における翻案と引用
+
+日本の著作権法では、翻案権が強く位置づけられており、改変を伴う利用は原則として許諾が必要とされる。引用は厳格な要件を満たす必要があり、リミックスとの相性は必ずしも良くない。
+
+一方で、近年は柔軟な権利制限規定の導入や、非親告罪化など、デジタル時代への対応が進められてきた。二次創作文化は、制度と慣行のあいだで独自の発展を遂げている。
+
+> 日本法は、明確性を重視する一方で慣行による補完に依存してきた。
+
+---
+
+## 映像リミックスとマッシュアップ
+
+映像分野では、映画の再編集、トレーラー再構成、ファンメイド映像がリミックス文化を拡張した。音楽以上に視覚的引用が明確なため、権利問題は可視化されやすい。
+
+それでも、批評的再編集や教育的利用は、一定の正当性を獲得してきた。
+
+> 映像リミックスは、視覚的引用の力を通じて批評性を強調する。
+
+---
+
+## インターネット・ミームと即時的再利用
+
+ミームは、既存画像や映像に短いテキストや改変を加え、瞬時に拡散する文化形態である。作者不明、流通速度の速さ、変形の連鎖は、従来の権利管理を前提としない。
+
+多くの場合、社会的文脈の共有が価値の中心となり、経済的利用は二次的である。
+
+> ミームは、著作権制度の時間感覚を超える速度で生成と消費を繰り返す。
+
+---
+
+## 二次創作とファン文化
+
+同人誌、ファンアート、カバー動画などの二次創作は、原作への敬意と批評を同時に含む実践である。日本では特に、権利者の黙認やガイドラインによって文化が支えられてきた。
+
+これは、厳密な法適用よりも文化的持続性を優先した選択といえる。
+
+> 二次創作は、制度外の合意によって成立してきた文化的エコシステムである。
+
+---
+
+## AI時代の再編集問題
+
+AIによる生成や変換は、リミックスの概念をさらに拡張した。学習段階でのデータ利用、出力の類似性、スタイル模倣は、従来の著作権概念では整理しきれない問題を提起している。
+
+> AIは、リミックスの主体と責任の所在を再定義する。
 
 ---
 
@@ -165,11 +165,11 @@ sequenceDiagram
     D->>E: デジタルとミーム
 </div>
 
-> Die Remix-Kultur hat sich als Reaktion auf Veränderungen in Technologie und Institutionen verändert.
+> リミックス文化は、技術と制度の変化に応じて形を変えてきた。
 
 ---
 
-## Diagramm: Remix und Rechteverteilung
+## 図：リミックスと権利の循環
 
 <div class="mermaid">
 flowchart LR
@@ -180,15 +180,15 @@ flowchart LR
     A --> B --> C --> D --> A
 </div>
 
-> Schöpfung und Rechte interagieren weiterhin zyklisch.
+> 創作と権利は循環的に相互作用し続ける。
 
 ---
 
 ## Abschluss
 
-Das Thema Remix-Kultur und -Rechte ist eher eine Geschichte der Anpassung als bloßer Konflikt. Durch Musik, Bilder, Memes und abgeleitete Werke hat die Kultur immer die Vergangenheit als Material zur Gestaltung der Zukunft genutzt. Das Rechtssystem kann den Fluss nicht vollständig kontrollieren, aber es kann ihn lenken.
+リミックス文化と権利の問題は、単なる対立ではなく調整の歴史である。音楽、映像、ミーム、二次創作を通じて、文化は常に過去を素材として未来を作ってきた。法制度はその流れを完全に制御することはできないが、方向づけることはできる。
 
-> Wie wir mit Remixen umgehen, ist ein Test dafür, wie die Gesellschaft Kreativität sieht.
+> リミックスをどう扱うかは、社会が創造性をどう位置づけるかの試金石である。
 
 ---
 

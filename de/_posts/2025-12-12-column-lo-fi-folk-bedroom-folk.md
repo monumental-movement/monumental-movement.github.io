@@ -42,7 +42,7 @@ color: #fff;
 ## 1. Ursprung: Die Entstehung des Takuroku-Volks (1970er–1990er Jahre)
 
 ### 1-1. 1970er Jahre: Aufstieg der Homerecording-Kultur
-In den späten 1970er-Jahren erfreuten sich Tonbandgeräte für Privatanwender großer Beliebtheit, und mit dem Aufkommen kostengünstiger Kassettendecks verbreitete sich die Kultur des Aufnehmens zu Hause. In der Welt der Volksmusik ist der Prototyp des „home-recorded folk“ entstanden, bei dem Künstler sich selbst beim Spielen und Singen in ihren eigenen Räumen aufzeichnen.
+Endverbraucher-Tonbandgeräte wurden in den späten 1970er Jahren populär, und mit dem Aufkommen preiswerter Kassettendecks verbreitete sich die Kultur des Aufnehmens zu Hause. In der Welt der Volksmusik ist der Prototyp des „home-recorded folk“ entstanden, bei dem Künstler sich selbst beim Spielen und Singen in ihren eigenen Räumen aufzeichnen.
 
 #### Hauptpraktiken
 - Schließen Sie das dynamische Mikrofon direkt an das Kassettendeck an
@@ -50,7 +50,7 @@ In den späten 1970er-Jahren erfreuten sich Tonbandgeräte für Privatanwender g
 - One-Take-Aufnahme fast ohne Abmischung
 - Klangerzeugung, die die natürlichen Echos des Raumes beibehält
 
-Obwohl die Klangqualität nicht hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu wahren.
+Obwohl die Klangqualität keineswegs hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu wahren.
 
 ### 1-2. 1980er–1990er: Verbindung zwischen Indie-Folk und Takuroku
 In den späten 1980er Jahren kamen kostengünstige 4-Spur-Kassettenrecorder (z. B. TASCAM Portastudio) auf den Markt, und die Qualität des Homerecordings verbesserte sich dramatisch.
@@ -114,7 +114,7 @@ Lo-Fi Folk zeichnet sich durch einen Stil aus, der die Einschränkungen des Aufn
 
 ### ● Charakteristischer Klang
 - Rundheit hoher Frequenzen aufgrund der Kassettensättigung
-- Raumlärm aufgrund der ruhigen Umgebung
+- Aufgrund der ruhigen Umgebung gibt es Raumlärm
 - Supernaher Gesangsklang
 - Kleinere Geräusche (Saitengeräusche, Bodengeräusche, Rascheln der Kleidung)
 - Aufnahmelayout mit starkem One-Take-Feeling

@@ -18,7 +18,7 @@ Stellar Project ist ein House/Dance-Projekt des italienischen Produzenten Stefan
 
 Side A ist ein Remix des italienischen House/Techno-DJ-Duos Phunk Investigation.
 
-Der erste Titel auf Seite B ist ein Remix des dänischen Produzenten Lars Frederiksen und Søren Weiles Trance-Projekt F&W.
+Der erste Titel auf der B-Seite ist ein Remix des dänischen Produzenten Lars Frederiksen und Søren Weiles Trance-Projekt F&W.
 
 Der zweite Song auf Seite B ist ein Remix des britischen DJs Paul Jackson.
 

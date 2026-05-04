@@ -71,11 +71,11 @@ Dieses Projekt positioniert sich als eine weitere Form seines Selbstausdrucks un
 # Geburt von Prefuse 73 und frühen Werken
 
 2001 veröffentlichte Herren sein Debütalbum *Vocal Studies + Uprock Narratives* unter dem Namen **Prefuse 73**.
-Es zeichnet sich durch fragmentarische Samples aus, die MPC, Vocal-Cutting-Paste und Glitch-Verarbeitung voll ausnutzen, und obwohl es viele Gastkünstler hat, hat es sein eigenes, einzigartiges Weltbild geschaffen.
+Es zeichnet sich durch fragmentarische Samples aus, die MPC, Gesangsausschneiden und -einfügen sowie Glitch-Verarbeitung voll ausnutzen, und obwohl es viele Gastkünstler hat, hat es sein eigenes, einzigartiges Weltbild geschaffen.
 
 Im Jahr 2002 veröffentlichten sie die EP *The '92 vs. '02 Collection*. Der Inhalt wurde mit elektronischem Noise und experimentellen Beats angereichert.
 
-Im Jahr 2003 erschien das bahnbrechende Album *One Word Extinguisher*. Gleichzeitig wurde auch *Extinguished: Outtakes* veröffentlicht, eine Zusammenstellung ungenutzter Takes und Remixe.
+Im Jahr 2003 erschien das bahnbrechende Album *One Word Extinguisher*. Zur gleichen Zeit wurde auch *Extinguished: Outtakes* veröffentlicht, eine Zusammenstellung ungenutzter Takes und Remixe.
 Dieses Werk entwickelte die Sample-Fragmentierung und die präzise Beat-Konstruktion weiter und diente als Brücke zwischen IDM und Hip-Hop.
 
 ---

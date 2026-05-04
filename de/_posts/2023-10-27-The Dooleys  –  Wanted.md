@@ -10,13 +10,13 @@ tags:
 - Disco
 - UK-Pop
 - 7inch
-title: Die Dooleys – Gesucht
+title: The Dooleys  –  Wanted
 ---
 
 
-Die Dooleys waren eine gemischte britische Popgruppe. Auf ihrem Höhepunkt hatte sie acht Mitglieder, sechs davon waren Mitglieder der Familie Dooley.
+The Dooleys（ドゥーリーズ）は、イギリスの男女混合ポップグループでした。全盛期にはメンバーが8人で、そのうち6人はドゥーリー家の人々でした。
 
-Von 1977 bis 1981 hatten sie mehrere Hits, die die britischen Charts anführten, wobei „Wanted“ die Top Ten erreichte.
+1977年から1981年にかけて、イギリスのチャートで上位にランクインするヒット曲をいくつか生み出し、"Wanted" (ウォンテッド) はトップ10入りを果たしました。
 
 #### Trackliste
 ```md

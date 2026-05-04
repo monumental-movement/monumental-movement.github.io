@@ -9,12 +9,12 @@ permalink: /de/inland-knights-filter-interference/
 tags:
 - House
 - Deep House
-title: Inland Knights – Interferenz filtern
+title: Inland Knights – Filter Interference
 ---
 
 
-„Filterinterferenz“ ist
-Dies ist eine EP von Inland Knights, einer Gruppe bestehend aus Andy Riley und Laurence Ritchie, die 1999 auf dem britischen Label „Drop Music“ veröffentlicht wurde.
+「Filter Interference」は、
+1999年にUKのレーベル「Drop Music」からリリースされたAndy RileyとLaurence RitchieによるユニットInland KnightsによるEPです。
 
 #### Trackliste
 ```md

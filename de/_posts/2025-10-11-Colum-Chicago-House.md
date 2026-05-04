@@ -48,13 +48,13 @@ color: #fff;
 ### Chicago Club – Lagerhaus und seine Räume
 
 Das Haus in Chicago entwickelte sich rund um den „Warehouse Club“.
-Das 1977 eröffnete Warehouse war eine verlassene städtische Fabrik, die in einen Warehouse-Club umgewandelt wurde, der legendär wurde, als Frankie Knuckles dort als DJ auflegte.
+Das 1977 eröffnete Warehouse war eine verlassene städtische Fabrik, die in einen Warehouse-Club umgewandelt wurde, der legendär wurde, als Frankie Knuckles dort als DJ auftrat.
 
 Der riesige Raum des Lagerhauses, die Höhe der Decke und das Echo des Betons verliehen der Musik eine einzigartige Tiefe und Dynamik. Die Klänge auf dem Boden hallten in den Körpern des Publikums wider und schufen so ein Gemeinschaftserlebnis, das über ein bloßes Musikerlebnis hinausging.
 
 ### Sozialer Hintergrund von Chicago in den 1980er Jahren
 
-Die frühen 1980er Jahre waren für Chicago eine schwierige wirtschaftliche Zeit.
+Die frühen 1980er Jahre waren für Chicago wirtschaftlich schwierige Zeiten.
 
 - Erhöhte Arbeitslosenquote aufgrund des industriellen Niedergangs
 - Gemeindespaltung aufgrund städtebaulicher Sanierung
@@ -145,7 +145,7 @@ In den späten 1980er Jahren expandierte Chicago House über seine Grenzen hinau
 
 ## Kapitel 8: Repräsentative Diskographie
 
-| アーティスト | タイトル | 年 | リンク |
+| Künstler | Titel | Jahr | Link |
 |-------------|----------|----|---------------|
 | Frankie Knuckles | Baby Powder / Your Love | 1983 | [Amazon](https://amzn.to/477bklH) |
 | Marshall Jefferson | Move Your Body | 1986 | [Amazon](https://amzn.to/3VWEWNo) |

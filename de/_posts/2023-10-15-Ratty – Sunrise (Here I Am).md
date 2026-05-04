@@ -13,9 +13,9 @@ title: Ratty – Sunrise (Here I Am)
 ---
 
 
-Ratty ist das Trance-Side-Projekt des deutschen Künstlers Scooter, der sich auf fröhlichen Hardcore, Bouncy, Techno, Techno, Trance und Hardstyle spezialisiert hat.
+Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
 
-Die B-Seite „Sunrise (Here I Am) (Instrumental)“ ist die Originalversion von Scooters Single „She’s The Sun“ aus dem Jahr 2000 mit dem Titel „Sunrise (Ratty’s Inferno)“.
+B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。
 
 #### Trackliste
 ```md

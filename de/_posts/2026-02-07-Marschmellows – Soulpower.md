@@ -18,7 +18,7 @@ title: Marschmellows – Seelenkraft
 
 Marschmellows ist ein elektronisches Musikprojekt, das in den späten 1990er bis 2000er Jahren in Deutschland ansässig war. Ihr Sound ist eine Fusion aus Future Jazz, Broken Beat und Downtempo und sie gelten als einer der repräsentativen Künstler von Frankfurt, Deutschlands renommiertem Label INFRACom!.
 
-„Soulpower“ ist ein House/Broken Beat/Future Jazz-Track, der auf dem Label INFRACom veröffentlicht wurde! im Jahr 1998 und auch auf dem Album „Rebound“ enthalten.
+„Soulpower“ ist ein House/Broken Beat/Future Jazz-Track, der auf dem Label INFRACom veröffentlicht wurde! im Jahr 1998, das auch im Album „Rebound“ enthalten ist.
 
 B ist ein Remix von Jazzanova, einem deutschen DJ/Produzentenkollektiv mit Sitz in Berlin.
 

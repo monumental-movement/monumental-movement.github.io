@@ -139,7 +139,7 @@ B3. Transcendastral Voyage
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
 
-Features: Ein Werk des amerikanischen Jazz-Perkussionisten und Produzenten Stephen Reed.
+Features: Ein Werk des amerikanischen Jazz-Percussionisten und Produzenten Stephen Reed.
 
 
 Charme: Spirituelle Musik, die Jazzelemente einbezieht, dieses Werk lässt Sie eins mit der Natur werden.

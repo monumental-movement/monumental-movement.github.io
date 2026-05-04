@@ -20,13 +20,13 @@ title: Modjo – Chillin‘ Italien
 
 
 
-「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
+„Modjo – Chillin‘“ ist ein 2001 vom französischen Duo Modjo veröffentlichtes Lied. Dieses Lied ist auf ihrem selbstbetitelten Debütalbum Modjo enthalten.
 
-「Chillin'」は、ディスコとハウスミュージックの要素を組み合わせた楽曲で、軽快でグルーヴィなビート、ファンキーなベースライン、そして魅力的なボーカルが特徴です。
+„Chillin‘“ ist ein Song, der Elemente aus Disco- und House-Musik mit einem leichten und groovigen Beat, einer funkigen Basslinie und fesselnden Vocals vereint.
 
-この曲は、リラックスした雰囲気と明るいメロディが共鳴するポップなダンスミュージックとして知られています。
+Dieses Lied ist als Pop-Dance-Musik bekannt, die eine entspannte Atmosphäre und eine helle Melodie ausstrahlt.
 
-*Es gibt eine britische und eine italienische Version, aber dies ist die italienische Version.
+※UK盤とItaly盤がありますが、こちらはItaly盤となります。
 
 #### Trackliste
 ```md

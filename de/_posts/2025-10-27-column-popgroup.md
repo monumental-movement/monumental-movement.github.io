@@ -75,14 +75,14 @@ Die Mitglieder sind zwischen Ende Teenager und Anfang 20.
 **Dan Catsis (Bass)** und **John Waddington (Gitarre)** waren die Hauptakteure.
 
 Im Gegensatz zu den Londoner Punks waren sie sich bewusst, politisch und künstlerisch zu sein.
-Ihr Debütalbum „**Y**“ (1979) war schon damals eine Häresie unter Ketzern.
+Ihr Debütalbum „**Y**“ (1979) war schon damals eine Ketzerei über eine Ketzerei.
 Die Unordnung des Free Jazz, der Deep Space des Dub, der destruktive Impuls des Punk ...
 Diese überschneiden sich als **sozialkritische Gedichte und poetische Schreie**.
 
 > „Wir sind alle Prostituierte“
 > - Es war eine ergreifende Erklärung gegen eine Gesellschaft, die dem Kommerzialismus und dem System ausgeliefert war.
 
-Die **rhythmische Gewalt**, die **Anschwellen des Lärms** und **Mark Stewarts fluchähnlicher Gesang** dieses Songs sind es
+Die **rhythmische Gewalt**, die **Anschwellen des Lärms** und **Mark Stewarts fluchähnlicher Gesang** dieses Liedes sind es
 Man kann sagen, dass es der Prototyp des späteren industriellen/politischen Lärms ist.
 
 ---
@@ -112,7 +112,7 @@ Danach geht jedes Mitglied einen anderen Weg.
 - Mark Stewart: Zusammenarbeit mit Adrian Sherwood als Solokünstler und Gründung von **Industrial Dub**.
 - Gareth Sager und Bruce Smith: Gründung von **Rip Rig + Panic**.
 Auch eine junge **Neneh Cherry** war dabei.
-- Dan Catsis: Später engagierte er sich bei Massive Attack und blieb ein Eckpfeiler der Bristoler Musik.
+- Dan Catsis: Er blieb der Grundstein der Bristoler Musik und engagierte sich später bei Massive Attack.
 
 Aus dieser Divergenz entstand die Vielfalt des Bristol-Sounds.
 Trip Hop, Dub, experimentelle Musik, politischer Hip Hop ...
@@ -200,7 +200,7 @@ timeline
 
 ---
 
-## Verwandtes Diagramm: Genealogie der Bristol-Musik
+## Zugehöriges Diagramm: Genealogie der Bristol-Musik
 
 <div class="mermaid">
 

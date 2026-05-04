@@ -123,7 +123,7 @@ Gründung der „Fan-Dance-Kultur“, die mit Bodycon und Juliana Tokyo fortgef�
 | Wie eine Jungfrau | Madonna | Symbolisiert die Geburt einer weiblichen Pop-Ikone. |
 | Ich fühle mit dir | Chaka Khan | Eine Fusion aus Hip-Hop und Disco. |
 | Tanzender Held | Yoko Oginome | Ein Hit, der für japanische Disco steht. |
-| WUNSCH -Leidenschaft- | Akina Nakamori | Eine Fusion aus Disco-Beats und Popsongs. |
+| WUNSCH -Leidenschaft- | Akina Nakamori | Eine Fusion aus Disco-Beat und Popsongs. |
 | Let’s Groove | Erde, Wind und Feuer | Eine Brücke von Funk zu Disco. |
 | Wort hoch! | Cameo | Funkbasierter Disco-Klassiker. |
 | Feier | Kool & The Gang | Ein klassischer Festivalsong. |
@@ -149,7 +149,7 @@ Auch nach dem Platzen der japanischen Blase entwickelte sich die Disco zu einer 
 Wechsel von „Juliana Tokyo“ zur Shibuya Club Culture. Aus der Disco-Generation entwickelte sich die Club-Generation.
 
 - **Hauptausrüstung**
--Akai MPC-Serie
+- Akai MPC-Serie
 - Pioneer CDJ-500 (1992)
 -Roland JP-8000
 
@@ -177,7 +177,7 @@ Wechsel von „Juliana Tokyo“ zur Shibuya Club Culture. Aus der Disco-Generati
 
 ## 2000er – Der Aufstieg der Nu-Disco und die Umstrukturierung der Clubs
 - **Hintergrund**
-„Nu-Disco“ und Electroclash erfreuen sich weltweit großer Beliebtheit. Das Disco-Revival in Japan schreitet voran und die Clubszene steht erneut im Rampenlicht.
+„Nu-Disco“ und Electroclash erfreuen sich weltweit großer Beliebtheit. Auch in Japan schreitet das Disco-Revival voran und die Band steht erneut im Rampenlicht der Clubszene.
 
 - **Repräsentative Meisterwerke (Ausland)**
 - Daft Punk – *Discovery* (2001)
@@ -302,7 +302,7 @@ City-Pop/Disco verbreitet sich auf TikTok und YouTube. Analoge Disco-Events sind
 | Schweben | Dua Lipa | Beliebt auf TikTok |
 | Sag es | Doja-Katze | Sehr beliebt in Japan |
 | Disco | Kylie Minogue | Moderne Disco, wie der Titel schon sagt |
-| Regen auf mich | Lady Gaga & Ariana Grande | Dance-Pop-Comeback |
+| Regen auf mich | Lady Gaga & Ariana Grande | Dance-Pop-Revival |
 | Funk in die Zukunft | Nachttempo | Future-Funk-Interpretation aus Japan |
 | Lass die Tür offen | Seidensonic | Soul x Disco-Fusion |
 | Brich meine Seele | Beyoncé | House- und Disco-Fusion |

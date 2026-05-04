@@ -20,8 +20,8 @@ title: '[Kolumne] Charlotte de Witte: Königin der Techno-Welt'
 
 Text: mmr | Thema: Entdecken Sie, wie Charlotte de Witte ihre „Techno-Welt“ durch ihre Diskographie, die Geschichte ihrer Festivalauftritte, Liedkommentare, Chronologie und Illustrationen aufgebaut hat.
 
-Die belgische DJ/Produzentin **Charlotte de Witte** gilt derzeit als eine der wichtigsten Figuren der Techno-Welt.
-Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und ihre historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
+Die belgische DJ/Produzentin Charlotte de Witte gilt derzeit als eine der wichtigsten Figuren der Techno-Welt.
+Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
 
 Ihre Karriere ist eine epische Geschichte, von bescheidenen Anfängen in Underground-Clubs in ihrer Heimatstadt Gent bis hin zu den Hauptbühnen internationaler Festivals wie Tomorrowland und Movement Festival.
 
@@ -116,7 +116,7 @@ Auf diese Weise hat er sich erfolgreich vom Club-DJ zum globalen Festivalkünstl
 Charlotte de Wittes Musik ist „düster und schlank“, basierend auf Acid und Minimal Techno, mit einigen Industrial-Elementen.
 
 - **Beat-Struktur**: Schwerer Kick, sich wiederholender Rhythmus, einfaches, aber dichtes Arrangement
-- **Klangdesign**: Nutzen Sie analoge Synthesizer und Acid-Linien
+- **Klangdesign**: Nutzen Sie analoge Synthesizer und Acid-Lines
 - **Live-Set-Philosophie**: Priorisieren Sie die Wartung und Kontrolle der Bodenenergie
 
 Klangliche Erklärung repräsentativer Lieder:
@@ -173,7 +173,7 @@ Er hat auch experimentelle Werke wie „The Heads That Know (feat. Comma Dee)“
 | 2015 | Startete Aktivitäten unter echtem Namen, kündigte Weltschmerz EP | an
 | 2017 | EP „Closer, Wisdom“ veröffentlicht, erregt Aufmerksamkeit in Europa und Amerika |
 | 2018 | BBC Radio 1 Essential Mix-Auftritt |
-| 2019 | Gründung von KNTXT |
+| 2019 | KNTXT gegründet |
 | 2022 | Abschluss der Hauptbühne von Tomorrowland |
 | 2023 | Abschluss des Bewegungsfestivals |
 | 2024 | KNTXT-Store eröffnet, Label Époque gegründet |

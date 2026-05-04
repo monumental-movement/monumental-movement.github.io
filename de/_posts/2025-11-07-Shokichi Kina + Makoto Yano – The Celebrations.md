@@ -10,14 +10,14 @@ tags:
 - Folk Rock
 - Rock
 - 90s
-title: Shokichi Kina + Makoto Yano – Die Feierlichkeiten
+title: Shokichi Kina + Makoto Yano – The Celebrations
 ---
 
 
-Live aufgenommen in Osaka und Tokio im Jahr 1982 von Shokichi Kino, dem Begründer von „Uchina Pop“, einem modernen Arrangement von Ryukyu-Volksliedern, und dem Produzenten/Pianisten Makoto Yano. Shokichi Kinos Signature-Song „Hana“ ist ebenfalls enthalten. Neuauflage im Jahr 1990 veröffentlicht.
+琉球の民謡を現代風にアレンジした『ウチナー・ポップ』を確立した喜納昌吉と、プロデューサー／ピアニストの矢野誠による1982年の大阪・東京ライブ録音。喜納昌吉の代表曲「花」も収録されている。1990年にリリースされた再発盤。
 
-Shokichi Kino + Makoto Yano
-1982 Osaka/Tokio Live „The Celebrations“
+喜納昌吉 ＋ 矢野誠
+1982年 大阪・東京ライブ「ザ・セレブレーションズ」
 
 #### Trackliste
 ```md

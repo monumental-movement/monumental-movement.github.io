@@ -11,7 +11,7 @@ tags:
 - Hard House
 - House
 - 00s
-title: Beat Reality – Get Hooked
+title: Überwinde die Realität – werde süchtig
 ---
 
 
@@ -21,11 +21,11 @@ title: Beat Reality – Get Hooked
 
 
 
-Beat Realityは、Errol Lafleur, Mark Nieuwenhuijzen, Rene van Oosterwijk(DJ Rene)によるオランダのHard Houseプロジェクト。
+Beat Reality ist ein niederländisches Hard-House-Projekt von Errol Lafleur, Mark Nieuwenhuijzen und Rene van Oosterwijk (DJ Rene).
 
-Aは、オランダのTech-trance DJ ／プロデューサーE-Craig(Dimitrie Siliakus)によるremix 。
+A ist ein Remix des niederländischen Tech-Trance-DJ/Produzenten E-Craig (Dimitrie Siliakus).
 
-Bは、Mick Shiner, Steve HillからなるUK hard-houseアクトPhlash!によるremix。
+B ist ein Remix des britischen Hardhouse-Acts Phlash!, bestehend aus Mick Shiner und Steve Hill.
 
 #### Trackliste
 ```md

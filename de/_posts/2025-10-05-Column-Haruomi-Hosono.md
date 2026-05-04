@@ -21,7 +21,7 @@ Text: mmr｜Thema: Von Happy End über YMO bis Ambient – ​​Auf den Spuren 
 
 **Haruomi Hosono** ist eine Musikerin, die seit einem halben Jahrhundert die japanische Popmusik verändert.
 Von den späten 1960er Jahren bis zur Gegenwart hat seine Musik einen einzigartigen Horizont geschaffen, indem sie „die Ära veränderte“, anstatt „die Ära zu definieren“.
-Verschiedene Kulturen, Humor, Nostalgie, Technologie – all das vermischt sich mit Hosonos Sound.
+Verschiedene Kulturen, Humor, Nostalgie, Technologie – all das vermischt sich in Hosonos Sound.
 
 ---
 
@@ -41,7 +41,7 @@ color: #fff;
 
 #### Meisterwerk: „April Fool“ (1970, Soloprojekt)
 
-Eine Mischung aus Folk, Psychedelic und Pop im Beatles-Stil, die mit Texten auf Japanisch und Englisch eine urbane Sensibilität zum Ausdruck bringt.
+Eine Fusion aus Folk, Psychedelic und Pop im Beatles-Stil, die mit Texten auf Japanisch und Englisch eine urbane Sensibilität zum Ausdruck bringt.
 Dieses Werk wurde hauptsächlich von Hosono komponiert, arrangiert und aufgeführt und dient als Brücke zum Happy End.
 
 #### Historischer Hintergrund
@@ -73,7 +73,7 @@ Die damaligen Aufnahmen fanden im Vorgängerstudio des Yotsuya Onkyo House statt
 Obwohl sie von amerikanischen Bands wie The Band und Buffalo Springfield beeinflusst wurden, stellten sie literarische japanische Texte in den Vordergrund.
 
 #### Anekdote
-Hosono, der über die vielen Geräteprobleme während der Aufnahme frustriert war, soll gesagt haben: „Ich möchte einen Ort, an dem ich den Ton etwas besser aufnehmen kann.“
+Hosono, der über die vielen Geräteprobleme während der Aufnahme frustriert war, sagte Berichten zufolge: „Ich möchte einen Ort, an dem ich den Ton etwas besser aufnehmen kann.“
 Danach wurde es für ihn zur Grundlage, seine eigenen Klangideale zu verfolgen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -161,7 +161,7 @@ Diese entspannte Atmosphäre spiegelt sich im warmen, organischen Klang wider.
 #### Repräsentative Werke:
 - **Yellow Magic Orchestra『Solid State Survivor』 (1979)**
 - **„BGM“ (1981)**
-- **„Technodelic“ (1981)**
+- **"Technodelic" (1981)**
 
 YMO (Yellow Magic Orchestra) ist eine revolutionäre Einheit, die das Wort Techno-Pop auf der ganzen Welt verbreitet hat.
 Als Anführer nutzte Hosono Rhythmusmaschinen und Sequenzer, um asiatischen Humor und futuristische Klänge zu verbinden.
@@ -218,7 +218,7 @@ Hosono sagte scherzhaft: „Bei Musik geht es darum, mit dem Zufall zu leben.“
 - „N.T.E.“ (1995)
 
 Zu dieser Zeit arbeitete er an Musik für eine Vielzahl von Medien, darunter Animationen, Filme und Werbespots.
-„Night on the Galaxy Express“ glänzt mit zarten Kompositionen, die Kenji Miyazawas Fantasy-Literatur in Klang zu übersetzen scheinen.
+„Night on the Galactic Railway“ glänzt mit zarten Kompositionen, die Kenji Miyazawas Fantasy-Literatur in Klang zu übersetzen scheinen.
 
 #### Historischer Hintergrund
 Nach dem Platzen der Blasenwirtschaft geraten Japans Werte ins Wanken.
@@ -274,7 +274,7 @@ Im Zeitalter von KI und Streaming bringt Hosono erneut das Thema „Ruhe“ zur 
 Seine Werke, die die Grenzen zwischen elektronischen und natürlichen Klängen auflösen, haben einen starken Einfluss auf jüngere Künstlergenerationen.
 
 #### Historischer Hintergrund
-Einsamkeit und beschleunigte Digitalisierung seit der Pandemie.
+Einsamkeit und die Beschleunigung der Digitalisierung seit der Pandemie.
 Hosonos Sound wird als ein Akt neu bewertet, der „Zuhören“, „Ruhe“ und „Menschlichkeit“ wiederherstellt.
 
 #### Produktionsumgebung

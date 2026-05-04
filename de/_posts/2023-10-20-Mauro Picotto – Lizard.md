@@ -9,14 +9,14 @@ permalink: /de/mauro-picotto-lizard/
 tags:
 - Trance
 - Hard Trance
-title: Mauro Picotto – Eidechse
+title: Mauro Picotto – Lizard
 ---
 
 
-Mauro Picotto ist ein italienischer Produzent und DJ, der seit Anfang der 1990er Jahre aktiv ist. Er hat mit zahlreichen Electronica-/Trance-Musikern wie DJ Tiësto und Mario Piu zusammengearbeitet.
-„Lizard“ ist einer von Mauro Picottos Signature-Songs, der 1998 von Empire State Records veröffentlicht wurde.
+Mauro Picotto（マウロ・ピコット ）は、90年代初頭から活躍するイタリア出身のプロデューサー兼 DJ 。 DJ TiëstoやMario Piuなど数多くのエレクトロニカ/トランス ミュージシャンとコラボレーションしている。
+「Lizard」は、1998年にEmpire State RecordsからリリースされたMauro Picottoの代表曲の一つ。
 
-Side A ist ein Remix von Megavoices, einer Gruppe bestehend aus Andrea Remondini und Mauro Picotto.
+A面はAndrea RemondiniとMauro PicottoによるユニットMegavoicesによるremix。
 
 #### Trackliste
 ```md

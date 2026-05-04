@@ -9,24 +9,24 @@ permalink: /de/joey-beltram-game-form/
 tags:
 - Techno
 - US Techno
-title: Joey Beltram – Spielform
+title: Joey Beltram – Game Form
 ---
 
 
-Der erste Song auf Seite B ist ein Remix des US-DJ und Produzenten Robert Armani. Der zweite Song auf der B-Seite ist ein Remix von Mike Dearborn, einem gebürtigen Chicagoer und Inhaber von Majesty Recordings.
+B面１曲目は、USのDJ 兼プロデューサーRobert Armani（ロバート・アルマーニ）のremix。B面２曲目は、シカゴ出身でMajesty RecordingsのオーナーMike Dearborn（マイク・ディアボーン）のremix。
 
 
-Joy Beltrame gilt weithin als eine der ersten Erneuerinnen der Underground-Tanzmusik.
+ジョイ・ベルトラムは、アンダーグラウンドダンスミュージック初期の革新者として広く認知されています。
 
-Er begann 1983, als er 12 Jahre alt war, als Hobby als DJ zu arbeiten und spielte hauptsächlich frühen Electro und Hip-Hop.
+彼は12歳だった1983年に、主に初期のエレクトロとヒップホップをプレイするDJとしての活動を趣味で始めました。
 
-Er wandte sich 1985 der House-Musik zu, im selben Jahr, in dem die erste Welle des Chicago House in New York ankam, und 1989, während er noch als Kurier arbeitete, begann er, einige seiner frühen Werke auf mehreren kleinen Plattenlabels in New York zu veröffentlichen.
+1985年には、シカゴハウスの第1波がニューヨークに到来したのと同じ年に、ハウスミュージックに転向し、1989年に彼はまだ宅配便の仕事をしている傍ら、ニューヨークのいくつかの小さなレコードレーベルから初期の作品の一部をリリースし始めました。
 
-Ein Jahr später erregten sie die Aufmerksamkeit des belgischen Verlags R&S Records, der Mitte 1990 seine erste große Platte, Energy Flash, herausbrachte, der eine Reihe ebenso beeindruckender Veröffentlichungen folgten.
+1年後、ベルギーのR＆Sレコーズの目に留まり、1990年中頃までに同レーベルから初のメジャーレコードとなる「Energy Flash」を発表し、その後も同様に印象的な作品を次々とリリースしました。
 
-In den 1990er Jahren schuf er weiterhin zeitlose Musik auf dem damals angesagten Label.
+90年代を通して、彼は当時の最先端レーベルで、今も色褪せない音楽を作り続けてきました。
 
-1999 gründete er sein eigenes Label STX Records, das derzeit sowohl mit JB³ als auch mit Joey Beltram aufnimmt.
+そして、1999年には、現在JB³とJoey Beltramの両方でレコーディングを行っている自身のレーベル「STX Records」を設立しました。
 
 #### Trackliste
 ```md

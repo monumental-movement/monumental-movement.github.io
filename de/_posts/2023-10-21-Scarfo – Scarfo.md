@@ -9,11 +9,11 @@ permalink: /de/scarfo-scarfo/
 tags:
 - Pops
 - Rock
-title: Scarfo – Scarfo
+title: Schalo – Schalo
 ---
 
 
-Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
+Scarfo ist eine britische Rockband, die 1994 von Jamie Hince, Nick Prior und Al Saunders gegründet wurde.
 
 #### Trackliste
 ```md

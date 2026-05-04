@@ -17,7 +17,7 @@ DJ Trajic (Carlos Gomez/Kool Kutt) ist ein in Chicago ansässiger DJ, der in den
 
 „Basics“ wurde 1997 vom in Chicago ansässigen US-amerikanischen Hard-House-/Tech-House-Label Underground Construction veröffentlicht.
 
-Der erste Titel auf Seite B ist ein Remix von JJ Flores (Jonathan Flores), einem US-amerikanischen House-DJ/Produzenten aus Chicago.
+Der erste Titel auf Seite B ist ein Remix von JJ Flores (Jonathan Flores), einem US-House-DJ/Produzenten aus Chicago.
 
 #### Trackliste
 ```md

@@ -13,7 +13,7 @@ title: Lani – Our Way To The Sun EP
 ---
 
 
-„Our Way To The Sun EP“ ist eine EP der Gruppe „Lani“ von Tim Kaelen und Tom Moons, die 2003 auf dem belgischen Label „Kairoo Records“ veröffentlicht wurde.
+「Our Way To The Sun EP」は、2003年にベルギーのレーベル「Kairoo Records」からリリースされたTim KaelenとTom Moonsによるユニット「Lani」のEPです。
 
 #### Trackliste
 ```md

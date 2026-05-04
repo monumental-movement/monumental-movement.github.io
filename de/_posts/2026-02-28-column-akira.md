@@ -18,7 +18,7 @@ title: '[Kolumne] Warum klingt AKIRA immer noch wie der Sound der Zukunft? — A
 
 
 
-## Prolog: Warum „AKIRA immer noch nach Zukunft klingt“
+## Prolog: Warum „AKIRA immer noch wie die Zukunft klingt“
 
 Text: mmr｜Thema: Warum AKIRA immer noch wie der „Sound der Zukunft“ klingt – Prophezeiungen über die Stadt und den Körper, gezeichnet von avantgardistischen Folk-Klängen
 
@@ -75,7 +75,7 @@ C --> D[都市×儀式的音響]
 D --> E[再評価と再燃]
 </div>
 
-> Neo-Tokyo wurde nicht nur durch das Sehen, sondern auch durch den Klang erbaut.
+> Neo-Tokio wurde nicht nur durch das Sehen, sondern auch durch den Klang erbaut.
 
 ---
 
@@ -87,7 +87,7 @@ Die Geino Yamashiro-gumi waren eine Musikgruppe um Shoji Yamashiro, die Volksmus
 
 Bei der Produktion von AKIRAs Musik verwendeten sie echte Gesangstechniken und Percussion-Instrumentenstrukturen, anstatt einfach nur einen „Volksmusikstil“ zu kreieren.
 
-Der Eröffnungssong „Kaneda“ ist symbolisch. Vokalisationen wie Trommeln, Refrains und Statements. Die Beats sind keine einfachen Vier-Beat-Beats, sondern sind mit komplexen Rhythmen überlagert.
+Der Eröffnungssong „Kaneda“ ist symbolisch. Schlagzeug, Refrains und kommunikative Lautäußerungen. Die Beats sind keine einfachen Vier-Beat-Beats, sondern sind mit komplexen Rhythmen überlagert.
 
 ### Fusion aus elektronischen und Folk-Sounds
 
@@ -95,7 +95,7 @@ Der Soundtrack von AKIRA kombiniert ethnische Elemente und Synthesizer. Allerdin
 
 Der Grund, warum diese Struktur ein Gefühl für die Zukunft erzeugte, ist klar.
 
-Ein Großteil des „zukünftigen Sounds“ der 1980er Jahre drehte sich um Synthesizer. Allerdings brachte AKIRA Stimmen und Schlaginstrumente in den Vordergrund, die man als primitiv bezeichnen könnte. Das Ergebnis war ein Ton, dessen Zeitachse nicht bestimmt werden konnte.
+Ein Großteil des „zukünftigen Sounds“ der 1980er Jahre drehte sich um Synthesizer. Allerdings brachte AKIRA Stimmen und Schlaginstrumente in den Vordergrund, die man als primitiv bezeichnen könnte. Das Ergebnis war ein Geräusch, dessen Zeitachse nicht bestimmt werden konnte.
 
 Es war ein Geräusch, das weder der Vergangenheit noch der Zukunft angehörte.
 
@@ -123,7 +123,7 @@ Der Ton folgt nicht dem Sehen, sondern repräsentiert den Herzschlag des Körper
 
 In der zweiten Hälfte der Geschichte werden Tetsuos ungezügelte Fähigkeiten und seine körperliche Transformation kraftvoll durch den Klang dargestellt. Die Kombination aus hochfrequenten elektronischen Klängen, wogenden Bässen und der Spannung des Refrains erzeugt ein hörbares Gefühl des Unbehagens.
 
-Wichtig dabei ist, dass der Sound nicht nur eine Performance ist, sondern „Teil der Geschichte“ ist.
+Wichtig dabei ist, dass der Sound nicht nur eine Performance ist, sondern „Teil der Geschichte“.
 
 Musik ist nicht der Hintergrund. Sie existiert als Stimme, die den Willen der Stadt, den Druck des Staates und den Zusammenbruch des Einzelnen symbolisiert.
 
@@ -154,7 +154,7 @@ Inmitten dieses Wiederauflebens wird AKIRA erneut als „vollendete Form“ und 
 
 ---
 
-## Einfluss und Erbe: Verbreitung in der globalen Musik- und visuellen Kultur
+## Einfluss und Nachfolge: Ausbreitung auf die globale Musik- und visuelle Kultur
 
 Die Bilder und die Musik von AKIRA haben viele Künstler beeinflusst. Neonstädte, Motorräder, militärische Forschung und außer Kontrolle geratene Jugendliche.
 
@@ -170,7 +170,7 @@ Besonders wichtig ist, dass es mit dem Klischee „Zukunft = kalte elektronische
 
 ### Echte Städte haben aufgeholt
 
-Zufälligerweise war 2019 das Bühnenjahr für AKIRA. Pandemien, soziale Unruhen und Spannungen zwischen Nationen und Einzelpersonen. Es schien, als hätte die reale Stadt die Fiktion eingeholt.
+Zufälligerweise war 2019 das Bühnenjahr für AKIRA. Pandemien, soziale Unruhen, nationale und persönliche Spannungen. Es schien, als hätte die reale Stadt die Fiktion eingeholt.
 
 ### Rückkehr von Cyberpunk
 
@@ -186,7 +186,7 @@ Der Sound von AKIRA wurde nicht durch KI oder Algorithmen erzeugt, sondern durch
 
 ---
 
-## Fazit: Ein Werk, das weiterhin mit der Zukunft in Resonanz steht
+## Fazit: Ein Werk, das weiterhin in die Zukunft strahlt
 
 AKIRAs Musik ist nicht auf eine bestimmte Epoche festgelegt. Der experimentelle Geist von 1988, die Ergebnisse ethnischer Musikforschung und der Wendepunkt in der Anime-Geschichte. Sie haben sich kristallisiert und schwingen immer noch auf neue Weise mit.
 

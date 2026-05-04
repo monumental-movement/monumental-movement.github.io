@@ -45,7 +45,7 @@ color: #fff;
 
 Die ab den späten 1970er Jahren entstandene Industriemusik zerstörte bewusst die moderne musikalische Prämisse von Ton, Melodie und Harmonie und behandelte nichtmusikalische Materialien wie Metallklänge, Geräusche, mechanische Klänge und Tonbandschleifen als strukturelle Einheiten. Diese Idee, „das Material selbst in Musik umzuwandeln“, wurde zur Grundlage des späteren Sounddesigns des Industrial Techno.
 
-Andererseits zeichnet sich der in den 1980er Jahren etablierte Techno durch Wiederholung, Synchronisation und gerasterte Zeit aus und hat sich in Richtung der Eliminierung menschlicher Schwankungen entwickelt. Industrial Techno entstand durch die direkte Verbindung der Zeitstruktur von Techno mit der materiellen Ausrichtung von Industrial-Musik.
+Andererseits zeichnet sich der in den 1980er Jahren etablierte Techno durch Wiederholung, Synchronisation und gerasterte Zeit aus und hat sich in Richtung der Eliminierung menschlicher Schwankungen entwickelt. Industrial Techno entstand durch die direkte Kombination der Zeitstruktur von Techno mit der materiellen Ausrichtung von Industrial-Musik.
 
 ---
 
@@ -67,7 +67,7 @@ Ein Merkmal dieser Ära ist, dass Verzerrungen und Rauschen nicht zufällig plat
 
 ## 4. Mathematische Rhythmusanalyse
 
-Der Rhythmus von Industrial Techno mag oberflächlich wie eine einfache 4/4-Wiederholung erscheinen, doch darunter verbirgt sich ein präzises Zeitschema. Wenn die Zeitachse t ist und der Zeitpunkt des Auftretens des Tritts K_i ist, wird die Grundperiode T_K wie folgt ausgedrückt.
+Der Rhythmus von Industrial Techno mag auf den ersten Blick wie eine einfache 4/4-Wiederholung erscheinen, doch darunter verbirgt sich ein präzises Zeitschema. Wenn die Zeitachse t ist und der Zeitpunkt des Auftretens des Tritts K_i ist, wird die Grundperiode T_K wie folgt ausgedrückt.
 
 K_{i+1} - K_i = T_K
 
@@ -146,7 +146,7 @@ Der Körper ist vorhersehbaren Schlägen ausgesetzt und das Gehör ist unvorhers
 | Jahre | Veranstaltungen |
 | ------ | -------------------------- |
 | 1970er Jahre | Industrial-Musik etabliert materialorientierte Struktur |
-| 1980er Jahre | Techno etabliert eine sich wiederholende Zeitstruktur |
+| 1980er Jahre | Techno etabliert eine sich wiederholende zeitliche Struktur |
 | 1990er Jahre | Fusion aus hartem Techno und Industrial |
 | 2010er | Neudefinition von modernem Industrial Techno |
 | 2020er | Integration von präzisem akustischem Design und Körperlichkeit |

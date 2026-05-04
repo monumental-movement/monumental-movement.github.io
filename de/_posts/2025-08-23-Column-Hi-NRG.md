@@ -70,7 +70,7 @@ Ein Sänger, der offen schwul war. Ihr Signature-Song „You Make Me Feel (Might
 
 **Hazell Dean**
 
-Eine britische Hi-NRG-Sängerin, die in der Clubszene so großen Anklang fand, dass sie als „Gay Queen“ bezeichnet wurde. Viele ihrer Lieder sprechen für LGBTQ-Liebe und -Begierde.
+Eine britische Hi-NRG-Sängerin, die in der Clubszene so großen Anklang fand, dass sie als „Gay Queen“ bezeichnet wurde. Viele ihrer Lieder sprechen für die Liebe und das Verlangen von LGBTQ.
 
 **Göttlich**
 

@@ -65,7 +65,7 @@ Ausgangspunkt für die internationale Aufarbeitung von Showa-Songs war YouTube E
 Ausländische Nutzer hinterließen Kommentare zu Songs aus den 1980er-Jahren, die plötzlich vom Algorithmus empfohlen wurden, fügten englische Untertitel hinzu und erstellten Remixe.
 
 Ein typisches Beispiel ist Miki Matsubaras „Midnight Door“.
-Der Anstieg der Wiedergaben breitete sich auch auf die automatischen Wiedergabelisten von Spotify aus und löste auf TikTok einen Trend namens „Japanische 80er-Jahre-Ästhetik“ aus.
+Der Anstieg der Wiedergaben breitete sich auch auf die automatischen Playlists von Spotify aus und löste auf TikTok einen Trend namens „Japanische 80er-Jahre-Ästhetik“ aus.
 
 Dies wurde durch das neu definierte Genre des **City Pop** vorangetrieben.
 Musik, die in Japan ursprünglich „Urban Pop“ genannt wurde,
@@ -102,7 +102,7 @@ Mit anderen Worten: Showa-Songs exportieren „Emotionen als Textur“.
 
 ## Kapitel 5: Die Schnittstelle zwischen digitalen Archiven und japanischer Kulturpolitik
 
-Interessant ist, dass dieser Boom durch Privathörer verbreitet wurde.
+Interessant ist, dass dieser Boom durch private Zuhörer verbreitet wurde.
 Es war nicht so, dass die japanische Regierung oder die Musikindustrie es absichtlich exportiert hätten; Vielmehr lag die Fanaktivität auf YouTube und Spotify an der Spitze.
 
 In den 2020er Jahren nahmen die „Showa Retro“-Inhalte auf Festivals und Ausstellungen in Übersee jedoch rapide zu.
@@ -138,8 +138,8 @@ Mit anderen Worten: Showa-Songs haben in Japan durch eine „externe Perspektive
 
 ## Kapitel 8: Die Zukunft der Nostalgie – Virtuelle Showa und KI-Rekonstruktion
 
-In den späten 2020er Jahren werden aufgrund der Fortschritte bei KI-Stimmen und generierter Musik nach und nach „imaginäre Showa-Songs“ erstellt.
-„Originalsong im Showa-Stil“ von Lo-Fi AI-Sänger, Video eines virtuellen Sängers, der eine Melodie im Showa-Stil singt …
+In den späten 2020er Jahren entstehen aufgrund der Fortschritte bei KI-Stimmen und generierter Musik nach und nach „imaginäre Showa-Songs“.
+„Original-Song im Showa-Stil“ von Lo-Fi AI-Sänger, Video eines virtuellen Sängers, der eine Melodie im Showa-Stil singt …
 Es handelt sich um ein kulturelles Experiment, das man als „Rekonstruktion der Erinnerung“ bezeichnen kann.
 
 Showa-Songs handeln nicht mehr von der Vergangenheit, sondern entwickeln sich zu einer Plattform, um die Vergangenheit auf futuristische Weise neu zu erleben.
@@ -164,7 +164,7 @@ Auch wenn die Showa-Ära schon in weiter Ferne liegt, spielt sie sich irgendwo i
 | 1950er Jahre | Entstehung von Nachkriegs-Popsongs, Auftritt von Hibari Misora ​​​​und Chiemi Eri | Grundlage für den Austausch von Emotionen unter den Massen |
 | 1970er Jahre | Neue Musik und das goldene Zeitalter der Idole | Yumi Matsutoya, Momoe Yamaguchi, Süßigkeiten |
 | 1980er Jahre | City-Pop-Reife | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
-| 2010er | Entdecken Sie Übersee mit YouTube und verbinden Sie sich mit der Vaporwave-Kultur | Miki Matsubara Neubewertung |
+| 2010er | Entdecken Sie Übersee mit YouTube und verbinden Sie sich mit der Vaporwave-Kultur | Miki Matsubara bewertet neu |
 | 2020er | Globaler Boom über TikTok und Spotify | „Showa Retro“ neu entfacht, Geburt der AI Showa-Musik |
 
 ---

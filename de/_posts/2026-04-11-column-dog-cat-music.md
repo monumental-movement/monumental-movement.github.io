@@ -11,25 +11,24 @@ tags:
 - Dog
 - Cat
 - Frequency
-title: '[Kolumne] Wie hören Hunde und Katzen Musik: Die Wissenschaft von Haustieren
-  und Geräuschen, entschlüsselt aus Frequenz und Genre'
+title: 【コラム】 犬と猫は音楽をどう聴くのか：周波数とジャンルから読み解くペットと音の科学
 ---
 
 
 
-## Prolog: Musik ist nicht nur etwas für Menschen
+## 序章：音楽は人間だけのものではない
 
-Text: mmr｜Thema: Wissenschaftliche Interpretation der Kompatibilität mit Musikgenres basierend auf den Höreigenschaften und der Frequenzempfindlichkeit von Hunden und Katzen
+文：mmr｜テーマ：犬と猫の聴覚特性と周波数感受性をもとに、音楽ジャンルとの相性を科学的に読み解く
 
-Das Hören von Musik für Hunde und Katzen kann sie beruhigen oder umgekehrt aufregen. Solche Erfahrungen sind keine Seltenheit. Der Grund dafür ist jedoch nicht nur die „Atmosphäre“, sondern die ausgeprägten Höreigenschaften und Frequenzunterschiede.
+犬や猫に音楽を聴かせると落ち着く、あるいは逆に興奮する。こうした体験は珍しくない。しかし、その理由は単なる「雰囲気」ではなく、明確な聴覚特性と周波数の違いに基づいている。
 
-Der menschliche Hörbereich liegt bei etwa 20 Hz bis 20 kHz. Hunde und Katzen hingegen haben die Fähigkeit, höhere Frequenzen zu hören. Mit anderen Worten: Selbst wenn sie dieselbe Musik hören, ist die „Klangwelt“, die sie empfangen, völlig unterschiedlich.
+人間の可聴域はおおよそ20Hzから20kHz。一方で犬や猫はそれよりも高い周波数を聞き取る能力を持つ。つまり、同じ音楽を聴いていても、彼らが受け取っている「音の世界」はまったく異なる。
 
-Darüber hinaus haben aktuelle Tierverhaltens- und Akustikforschungen gezeigt, dass bestimmte Musikgenres, Tempi und Frequenzbänder Stress reduzieren und das Verhalten von Haustieren verändern können.
+さらに近年の動物行動学や音響研究では、特定の音楽ジャンルやテンポ、周波数帯がペットのストレス軽減や行動変化に影響を与えることが明らかになっている。
 
-In diesem Artikel werden wir die Höreigenschaften von Hunden und Katzen, ihre bevorzugten Frequenzen und die entsprechenden Musikgenres auf der Grundlage empirischer Untersuchungen ordnen.
+本稿では、犬と猫それぞれの聴覚特性、好む周波数、そしてそれに対応する音楽ジャンルを、実証研究をベースに整理していく。
 
-> Musik betrifft alle Arten, die Art und Weise, wie sie empfunden wird, unterscheidet sich jedoch je nach Hörstruktur entscheidend.
+> 音楽は種を超えて作用するが、その感じ方は聴覚構造によって決定的に異なる。
 
 ---
 
@@ -47,90 +46,90 @@ color: #fff;
 </style>
 
 
-## Die Welt der Höreigenschaften und -frequenzen von Hunden
+## 犬の聴覚特性と周波数の世界
 
-### Hörbereich und Empfindlichkeit
+### 可聴域と感度
 
-Der Hörbereich eines Hundes beträgt etwa 40 Hz bis 45 kHz. Sie reagieren weitaus empfindlicher auf hohe Frequenzen als Menschen und reagieren besonders stark auf hohe Frequenzen über 8 kHz.
+犬の可聴域はおよそ40Hzから45kHzに達する。これは人間よりもはるかに高域に敏感であり、特に8kHz以上の高周波に対して強い反応を示す。
 
-Hunde haben außerdem eine hervorragende Fähigkeit, die Richtung von Geräuschen zu erkennen, und reagieren empfindlich auf kleinste Geräuschänderungen. Aus diesem Grund können in der Musik enthaltene hohe Tonanteile und plötzliche Geräusche einen starken Reiz darstellen.
+また、犬は音の方向検知能力にも優れており、わずかな音の変化にも敏感に反応する。このため、音楽の中に含まれる高音成分や突発的な音は強い刺激となる。
 
-### Auswirkung auf das Verhalten
+### 行動への影響
 
-Die Forschung hat die folgenden Trends identifiziert:
+研究では以下のような傾向が確認されている：
 
-* Langsames Tempo (60–80 BPM) fördert die Entspannung
-* Hohe Musik löst Wachsamkeit und Angst aus
-* Ein konstanter Rhythmus lässt sich leichter mit dem Herzschlag synchronisieren
+* ゆっくりしたテンポ（60〜80BPM）はリラックスを促進
+* 高音の強い音楽は警戒や不安を誘発
+* 一定のリズムは心拍と同調しやすい
 
-Insbesondere Studien in Tierheimen haben gezeigt, dass das Spielen klassischer Musik das Bellverhalten reduziert und die Liege- und Ruhezeit erhöht.
+特にシェルター環境での研究では、クラシック音楽を流すことで吠え行動が減少し、横になって休む時間が増加したことが報告されている。
 
-### Für Hunde geeignete Musikgenres
+### 犬に適した音楽ジャンル
 
-Die Eigenschaften von Musik, die als positiv für Hunde gelten, sind:
+犬にとって好ましいとされる音楽の特徴は以下の通り：
 
-* Zentriert auf den niedrigen bis mittleren Bereich
-* Langsames Tempo
-* Wenige plötzliche Lautstärkeänderungen
+* 低〜中音域中心
+* 緩やかなテンポ
+* 急激な音量変化が少ない
 
-insbesondere:
+具体的には：
 
-* Klassik (insbesondere Streichmusik)
-* Umgebung
-* Soft Lock (geringer Schalldruck)
+* クラシック（特に弦楽中心）
+* アンビエント
+* ソフトロック（音圧が低いもの）
 
-Umgekehrt kann Folgendes Stress verursachen:
+逆に、以下はストレス要因になりやすい：
 
-* Schwermetall (hoher Schall + hoher Schalldruck)
-* Harter Techno (schneller BPM und starker Beat)
-
----
-
-## Höreigenschaften und Reaktion der Katze auf Musik
-
-### Hörbereich und Eigenschaften
-
-Der Hörbereich von Katzen beträgt etwa 48 Hz bis 85 kHz, und sie können sogar höhere Frequenzen wahrnehmen als Hunde. Es ist speziell für die ultrahohen Frequenzen optimiert, die in Geräuschen wie Rattenschreien enthalten sind.
-
-Aus diesem Grund wird ein Großteil der für Menschen geschaffenen Musik für Katzen als zu leise oder zu eintönig empfunden.
-
-### Forschung zu artspezifischer Musik
-
-Ein wichtiges Konzept in der Tiermusikforschung ist das Konzept der „artspezifischen Musik“. Damit ist Musik gemeint, die Tiergeräusche und Herzrhythmen imitiert.
-
-Für Katzen:
-
-* Rumpelndes Geräusch (ca. 25 Hz)
-* Kätzchen miauen (hohe Frequenz)
-
-Es wurde bestätigt, dass Musik, die diese Elemente enthält, eine deutlichere Entspannungsreaktion hervorruft als normale menschliche Musik.
-
-### Für Katzen geeignete Musikgenres
-
-Eigenschaften von Geräuschen, die Katzen mögen:
-
-*Einschließlich Hochfrequenz
-* Sanfter Dauerton
-* Der Rhythmus ist einfach oder langsam
-
-Passendes Genre:
-
-* Umgebung
-* Neues Zeitalter
-* Experimentelle Musik (mit hochfrequenten Elementen)
-
-Nicht geeignet ist es hingegen für:
-
-* Starker Bass (zu anregend für Katzen)
-* Unregelmäßiges Geräusch (Warnreaktion)
+* ヘヴィメタル（高音＋高音圧）
+* ハードテクノ（速いBPMと強いビート）
 
 ---
 
-## Zusammenhang zwischen Häufigkeit und emotionaler Reaktion
+## 猫の聴覚特性と音楽への反応
 
-Der Einfluss von Musik auf Emotionen hängt nicht nur von der Melodie, sondern auch von der Häufigkeitsverteilung ab.
+### 可聴域と特徴
 
-Nachfolgend finden Sie einen Vergleich von Hunden, Katzen und Menschen:
+猫の可聴域は約48Hzから85kHzとされ、犬よりもさらに高い周波数を感知できる。特にネズミの鳴き声などに含まれる超高周波に最適化されている。
+
+このため、人間用に作られた音楽の多くは、猫にとっては「低すぎる」あるいは「単調すぎる」と感じられる。
+
+### 種特異的音楽の研究
+
+動物音楽研究の中で重要なのが「種特異的音楽」という概念である。これは、動物の鳴き声や心拍リズムを模倣した音楽のことを指す。
+
+猫の場合：
+
+* ゴロゴロ音（約25Hz）
+* 子猫の鳴き声（高周波）
+
+これらを組み込んだ音楽は、通常の人間音楽よりも明確にリラックス反応を引き起こすことが確認されている。
+
+### 猫に適した音楽ジャンル
+
+猫が好む音の特徴：
+
+* 高周波を含む
+* 柔らかい連続音
+* リズムが単純または緩やか
+
+適したジャンル：
+
+* アンビエント
+* ニューエイジ
+* 実験音楽（高周波要素を含むもの）
+
+一方で不向きなもの：
+
+* 強い低音（猫には刺激が弱すぎる）
+* 不規則なノイズ（警戒反応）
+
+---
+
+## 周波数と感情反応の関係
+
+音楽が感情に与える影響は、単に旋律だけではなく、周波数分布に大きく依存する。
+
+以下は犬・猫・人間の比較である：
 
 <div class="mermaid">
 graph LR
@@ -138,19 +137,19 @@ A[人間 20Hz-20kHz] --> B[犬 40Hz-45kHz]
 B --> C[猫 48Hz-85kHz]
 </div>
 
-Dieser Unterschied führt zu folgenden Unterschieden bei der Erkennung desselben Tons:
+この違いにより、同じ音でも以下のような認識差が生まれる：
 
-* Mensch: Angenehmer hoher Klang
-* Hund: Zu viel Stimulation
-* Katze: Unzureichende Informationen
+* 人間：心地よい高音
+* 犬：刺激が強すぎる
+* 猫：情報量が不足
 
-Darüber hinaus sind auch die „Dichte“ und „Nachhaltigkeit“ des Klangs wichtig. Kontinuierliche Geräusche vermitteln tendenziell ein Gefühl der Sicherheit, während intermittierende Geräusche eher Alarm auslösen.
+さらに、音の「密度」や「持続性」も重要である。持続音は安心感を与え、断続音は警戒を誘発する傾向がある。
 
 ---
 
-## Zusammenhang zwischen Musikgenre und Haustierverhalten
+## 音楽ジャンルとペット行動の相関
 
-Durch die Integration der Ergebnisse mehrerer Studien lässt sich der Zusammenhang zwischen Genre und Verhalten wie folgt zusammenfassen:
+複数の研究結果を統合すると、ジャンルと行動の関係は次のように整理できる：
 
 <div class="mermaid">
 graph TD
@@ -161,11 +160,11 @@ F[ロック] --> G[興奮]
 H[メタル] --> I[ストレス]
 </div>
 
-Bei Hunden ist die Wirkung klassischer Musik besonders ausgeprägt und bei Katzen ist die „Frequenzstruktur“ wichtiger als das Genre.
+犬では特にクラシック音楽の効果が顕著であり、猫ではジャンルよりも「周波数構造」の方が重要である。
 
 ---
 
-## Chronologie: Entwicklung der Tier- und Musikforschung
+## 年表：動物と音楽研究の発展
 
 <div class="mermaid">
 timeline
@@ -178,40 +177,40 @@ timeline
 
 ---
 
-## Praxis: Klangumgebungsdesign für Haustiere
+## 実践：ペットのための音環境デザイン
 
-Basierend auf wissenschaftlichen Erkenntnissen gibt es einfache Dinge, die Sie in Ihrem täglichen Leben tun können:
+科学的知見を踏まえると、日常生活でできる工夫はシンプルである：
 
-### Für Hunde
+### 犬の場合
 
-* Halten Sie die Lautstärke niedrig
-* Wählen Sie entspannende Musik
-* Vermeiden Sie das gleiche Genre für längere Zeit
+* 音量は控えめに
+* ゆったりした音楽を選ぶ
+* 長時間同じジャンルを避ける
 
-### Für Katzen
+### 猫の場合
 
-* Wählen Sie Töne aus, die hohe Frequenzen enthalten
-* Musik in der Nähe von Umgebungsgeräuschen ist effektiv
-* Stellt menschliche Vorlieben nicht in den Vordergrund
+* 高周波を含む音を選ぶ
+* 環境音に近い音楽が有効
+* 人間の好みを優先しない
 
-Noch wichtiger seien „individuelle Unterschiede“. Nicht alle Hunde und Katzen reagieren gleich und es hängt von ihrer Persönlichkeit und Erfahrung ab.
-
----
-
-## Fazit: Musik ist die Umgebung selbst
-
-Musik ist nicht nur Unterhaltung; Es ist ein Element der Umwelt, das das Verhalten und die Emotionen eines Haustieres beeinflusst.
-
-Ein Rhythmus, der Hunden Ruhe gibt, und eine Frequenz, die bei Katzen den Instinkt anspricht. Die Auswahl des richtigen Klangs für jede Art von Klang steht in direktem Zusammenhang mit der Reduzierung von Stress und der Verbesserung der Lebensqualität.
-
-Sich von einer menschenzentrierten Sicht auf Musik zu lösen und „die Welt mit den Ohren zu hören“. Das ist der sicherste Weg, die Beziehung zwischen Haustieren und Musik zu verstehen.
-
-> Alles beginnt damit, dass Musik geteilt werden kann, wir sie aber nicht auf die gleiche Weise hören.
-
+さらに重要なのは「個体差」である。すべての犬や猫が同じ反応を示すわけではなく、性格や経験によっても変化する。
 
 ---
 
-## Ergänzung: Unterschied zwischen Visualisierung und Wahrnehmung von Frequenzbändern
+## 結論：音楽は環境そのものである
+
+音楽は単なる娯楽ではなく、環境の一部としてペットの行動や感情に影響を与える要素である。
+
+犬にとっては安心をもたらすリズム、猫にとっては本能に訴える周波数。それぞれに適した音を選ぶことは、ストレス軽減や生活の質の向上に直結する。
+
+人間中心の音楽観から一歩離れ、「彼らの耳で世界を聴く」こと。それが、ペットと音楽の関係を理解する最も確かな方法である。
+
+> 音楽は共有できるが、同じようには聴こえていないという事実がすべての出発点になる。
+
+
+---
+
+## 補足：周波数帯域の可視化と知覚のズレ
 
 <div class="mermaid">
 graph LR
@@ -222,105 +221,105 @@ D --> E[45kHz<br>犬の上限]
 E --> F[85kHz<br>猫の上限]
 </div>
 
-Ein wichtiger Punkt, der aus diesem Diagramm hervorgeht, ist die Tatsache, dass der Bereich, den Menschen als „Mitte des Hörbereichs“ wahrnehmen, nur einen kleinen Teil des Bereichs für Hunde und Katzen ausmacht. Insbesondere Frequenzen über 10 kHz werden vom Menschen nur als Atmosphären- oder Obertonwahrnehmung wahrgenommen, Hunde und Katzen hingegen als klare Information.
+この図から読み取れる重要なポイントは、人間が「可聴域の中心」と感じている帯域が、犬や猫にとってはほんの一部に過ぎないという事実である。特に10kHz以上の領域は、人間にとっては空気感や倍音としてしか認識されないが、犬や猫にとっては明確な情報として知覚される。
 
-Darüber hinaus reagieren Katzen bei niedrigen Frequenzen empfindlicher auf winzige Veränderungen im mittleren bis hohen Bereich als auf Vibrationen bei niedrigen Frequenzen, und hier entsteht der Unterschied im Musikerlebnis.
+さらに低域についても、猫は振動的な低周波よりも、むしろ中高域の微細な変化に敏感であり、ここに音楽体験の差が生まれる。
 
-> Auch bei gleicher Schallquelle unterscheidet sich die „Hauptfrequenz“ je nach Art.
+> 同じ音源でも、種によって「主役の周波数」がまったく異なる。
 
 ---
 
-## Zusätzliche Informationen: Beispiele für Musik, die für Hunde geeignet ist (Dur/Untergrund)
+## 補足：犬に適した音楽例（メジャー／アンダーグラウンド）
 
-### Hauptmusik
+### メジャー音楽
 
-- Ludwig van Beethoven – Symphonie Nr.6 „Pastorale“
+- Ludwig van Beethoven – Symphony No.6 “Pastoral”
 
-Ein sanftes Tempo und eine Struktur, die die Natur nachahmt, lösen bei Hunden tendenziell eine entspannende Reaktion aus. Insbesondere die sanften Obertöne der Saiten wirken als stabile Umgebungsgeräusche.
+ゆるやかなテンポと自然を模した構成は、犬のリラックス反応を引き出しやすい。特に弦楽主体の柔らかい倍音が安定した環境音として機能する。
 
-- Johann Sebastian Bach – Air auf der G-Saite
+- Johann Sebastian Bach – Air on the G String
 
-Durch seine hochperiodische Struktur und konstante Dynamik lässt es sich leicht mit dem Herzschlag Ihres Hundes synchronisieren. Wichtig ist auch, dass es wenige plötzliche Spitzen gibt.
+周期性の高い構造と一定のダイナミクスは、犬の心拍と同調しやすい。突発的なピークが少ない点も重要。
 
-- Brian Eno – Musik für Flughäfen
+- Brian Eno – Music for Airports
 
-Als Umweltmusik konzipiert, dürfte dieses Werk aufgrund seines anhaltenden Klangs und seiner wenig stimulierenden Struktur zur Linderung von Angstzuständen beitragen.
+環境音楽として設計された本作は、持続音と低刺激な構造により、不安軽減に寄与する可能性が高い。
 
-### Untergrund-/experimentelle Musik
+### アンダーグラウンド／実験音楽
 
-- Stars of the Lid – Requiem für sterbende Mütter
+- Stars of the Lid – Requiem for Dying Mothers
 
-Zeichnet sich durch eine extrem langsame Entwicklung und einen anhaltenden, dröhnenden Klang aus. Für Hunde stellt es eine „Umgebung mit wenigen Geräuschveränderungen“ dar.
+極めて遅い展開とドローン的な持続音が特徴。犬にとっては「音の変化が少ない環境」として作用する。
 
-- William Basinski – Die Desintegrationsschleifen
+- William Basinski – The Disintegration Loops
 
-Die wiederholten Schleifen und die allmählich zusammenfallende Struktur wirken weniger irritierend und vermitteln ein gewisses Gefühl der Sicherheit.
+ループの反復と徐々に崩壊する構造は刺激が少なく、一定の安心感を維持する。
 
-- Biosphäre – Substrata
+- Biosphere – Substrata
 
-Die Textur kommt natürlichen Klängen nahe und das basszentrierte Design schafft eine angenehme Klangumgebung für Hunde.
+自然音に近いテクスチャと低音中心の設計が、犬にとって快適な音環境を形成する。
 
-### Unpassendes Beispiel
+### 不向きな例
 
-- Metallica – Meister der Puppen
+- Metallica – Master of Puppets
 
-Es hat ein schnelles Tempo und viele hochfrequente Verzerrungen, die für Hunde wahrscheinlich überreizend wirken.
+高速テンポと高音域の歪みが多く、犬にとっては過剰刺激となる可能性が高い。
 
 - Aphex Twin – Ventolin
 
-Es enthält absichtlich hochfrequente Geräusche, die das Gehör von Hunden zu stark reizen.
+意図的に高周波ノイズを含むため、犬の聴覚には強すぎる刺激となる。
 
-> Hunde akzeptieren Musik wegen ihrer „strukturellen Stabilität“ und „geringen Stimulation“.
+> 犬は「構造の安定」と「刺激の少なさ」によって音楽を受け入れる。
 
 ---
 
-## Ergänzung: Beispiele für Musik, die für Katzen geeignet ist (frequenzspezifischer Typ)
+## 補足：猫に適した音楽例（周波数特化型）
 
-### Hauptmusik
+### メジャー音楽
 
 - Claude Debussy – Clair de Lune
 
-Der zarte Anschlag und die sanfte Dynamik des hohen Bereichs kommen dem Gefühl einer Katze relativ nahe.
+高域の繊細なタッチと柔らかいダイナミクスは、猫の感覚に比較的近い。
 
 - Erik Satie – Gymnopédies
 
-Einfache, sich wiederholende Strukturen führen für Katzen nicht zu einer Informationsüberflutung.
+単純で反復的な構造が、猫にとって過剰な情報にならない。
 
-- Harold Budd – Der Pavillon der Träume
+- Harold Budd – The Pavilion of Dreams
 
-Die hochfrequente Resonanz und Räumlichkeit haben eine Dichte, die für das Hören von Katzen geeignet ist.
+高域の余韻と空間性が、猫の聴覚に適した密度を持つ。
 
-### Artenspezifische/forschungsbasierte Musik
+### 種特異的・研究ベース音楽
 
-- David Teie – Musik für Katzen
+- David Teie – Music for Cats
 
-Eine Gruppe von Liedern, die die Frequenzen des Schnurrens und Miauens einer Katze nachbilden. Es wurde experimentell bestätigt, dass es bei Katzen Interesse und Entspannungsreaktionen hervorruft.
+猫のゴロゴロ音や鳴き声の周波数を再現した楽曲群。実験的に猫の関心とリラックス反応を引き出すことが確認されている。
 
-### Untergrund-/experimentelle Musik
+### アンダーグラウンド／実験音楽
 
-- Alva Noto – Xerrox-Serie
+- Alva Noto – Xerroxシリーズ
 
-Es gibt viele hochfrequente Geräusche und winzige Klickgeräusche, die für Katzen als akustische Reize wirken können.
+高周波ノイズと微細なクリック音が多く、猫の聴覚刺激として機能する可能性がある。
 
 - Ryoji Ikeda – +/−
 
-Aufgrund der extremen Frequenzgestaltung (besonders hohe Frequenzen) umfasst es Bereiche, die für den Menschen nur schwer wahrnehmbar sind. Katzen verfügen über eine Fülle von Informationen.
+極端な周波数設計（特に高域）により、人間には知覚しづらい領域を含む。猫には情報量が豊富。
 
-- Fennesz – Endloser Sommer
+- Fennesz – Endless Summer
 
-Es hat eine Zwischenstruktur zwischen Lärm und Melodie und zeichnet sich durch eine hochfrequente Textur aus.
+ノイズとメロディの中間的構造で、高域のテクスチャが特徴。
 
-### Unpassendes Beispiel
+### 不向きな例
 
-- Hip Hop und EDM mit Schwerpunkt Bass
+- 低音重視のヒップホップやEDM
 
-Katzen neigen dazu, Geräusche als „dünn“ wahrzunehmen.
+猫にとっては知覚的に「薄い」音になりやすい。
 
-> Katzen reagieren stark auf „hochfrequente Texturen“ und „Klangdetails“.
+> 猫は「高周波の質感」と「音の細部」に強く反応する。
 
 ---
 
-## Ergänzung: Übereinstimmung zwischen Genre und Häufigkeitsverteilung
+## 補足：ジャンルと周波数分布の対応
 
 <div class="mermaid">
 graph TD
@@ -332,17 +331,17 @@ G[高周波] --> H[実験音楽]
 G --> I[電子音響]
 </div>
 
-Genre ist nicht nur ein Stil, sondern kann als eine Sammlung von Häufigkeitsverteilungen betrachtet werden. Aus dieser Perspektive wird „gute Musik“ für Haustiere nicht durch den Genrenamen, sondern durch die Frequenzstruktur definiert.
+ジャンルは単なるスタイルではなく、周波数分布の集合体として捉えることができる。この観点に立つと、ペットにとっての「良い音楽」はジャンル名ではなく、周波数構造によって定義される。
 
 ---
 
-## Ergänzendes Fazit
+## 補足結論
 
-Die Wahl der Musik für Ihr Haustier ist nicht nur eine Frage der Vorlieben, sondern auch eine Frage der „akustischen Gestaltung“. Musik, die für Menschen angenehm ist, bedeutet nicht zwangsläufig, dass sie auch für Hunde und Katzen angenehm ist.
+ペットに音楽を選ぶという行為は、単なる好みではなく「聴覚設計」に近い。人間にとって心地よい音楽が、そのまま犬や猫にとっても快適であるとは限らない。
 
-Vielmehr kommt es darauf an, wie viel Energie der Schall in welchem ​​Frequenzband hat und wie er sich mit der Zeit verändert.
+むしろ重要なのは、その音がどの周波数帯にどれだけのエネルギーを持ち、どのように時間的に変化するかという点である。
 
-> Der Schlüssel liegt darin, die Frequenzumgebung zu gestalten und nicht die Musik auszuwählen.
+> 音楽を選ぶのではなく、周波数環境を設計するという視点が鍵になる。
 
 
 ---

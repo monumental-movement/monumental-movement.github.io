@@ -9,13 +9,13 @@ permalink: /de/czerkinsky-variations-sur-natacha-remixes/
 tags:
 - Acid Jazz
 - Remix
-title: Czerkinsky – Variations Sur Natacha (Remixe)
+title: Czerkinsky – Variations Sur Natacha (Remixes)
 ---
 
 
-„Variations Sur Natacha (Remixes)“ ist eine Sammlung von Remixen des Meisterwerks „Natacha“ des französischen Produzenten elektronischer Musik Gregory Czerkinsky.
+「Variations Sur Natacha (Remixes)」は、フランスのエレクトロニックミュージックプロデューサーGregory Czerkinsky（グレゴリー・チェルキンスキィ）の代表作「Natachaナターシャ」のremix集。
 
-Czerkinsky ist auch dafür bekannt, das Lied „DO ME DO ME“ aus Kahimi Karies Album „My First Karie“ aus dem Jahr 1995 zu schreiben und zu komponieren.
+Czerkinskyは、カヒミ・カリィの1995年リリースのアルバム「My First Karie」に収録されている「DO ME DO ME」の作詞作曲を担当した事でも知られている。
 
 #### Trackliste
 ```md

@@ -11,22 +11,21 @@ tags:
 - CD
 - Cassette
 - History
-title: '[Kolumne] „Vom Klang einer Nadel bis zum Strömen lebt der Klang im Laufe der
-  Zeit weiter.“ Von der Ära des Zurückspulens zur Ära des unendlichen Überspringens'
+title: 【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 巻き戻しの時代から無限スキップの時代へ
 ---
 
 
-## Veränderungen und Vergleiche von Musikmedien: Verkauf von Schallplatten, Kassetten, CDs und MDs, Frequenzeigenschaften, zukünftige Trends und die Entstehung von Dolby Atmos
+## 音楽メディアの変遷と比較：レコード・カセット・CD・MDの売上、周波数特性、今後の動向、そしてDolby Atmosの登場
 
 
-Text: mmr｜Thema: Historischer Vergleich von Musikmedien und Aussichten für die neueste Technologie
+文：mmr｜テーマ：音楽メディアの歴史的比較と最新技術展望
 
 
 
 <hr>
 
-### Historischer Verkaufsvergleich von Musikmedien
-In den letzten Jahrzehnten haben Musikmedien eine rasante technologische Innovation und Diversifizierung erfahren. Hier geben wir einen Überblick über die weltweiten Verkaufsschätzungen für die wichtigsten physischen Medien: Schallplatten (analoge LPs), Kassetten, CDs und MDs.
+### 音楽メディアの歴史的売上比較
+過去数十年にわたり、音楽メディアは急速な技術革新を遂げ、多様化した。ここでは主要な物理メディアであるレコード（アナログLP）・カセットテープ・CD・MDの世界的な売上推定を概観する。
 
 <div class="table-border">
 <table>
@@ -67,191 +66,191 @@ In den letzten Jahrzehnten haben Musikmedien eine rasante technologische Innovat
 </table>
 </div>
 
-*Die Verkaufszahlen sind Schätzungen, die auf mehreren Quellen basieren und es gibt regionale und Altersunterschiede.
+※売上数字は複数ソースを参考にした概算で、地域差や年代差が存在します。
 
 
 <hr>
 
-### Unterschiede in den Frequenzeigenschaften und im Hörvermögen
+### 周波数特性と聴こえ方の違い
 
 
 <hr>
 
-#### Aufnahme (Analog-LP)
+#### レコード（アナログLP）
 
-Frequenzcharakteristik: Ungefähr 20 Hz bis 20 kHz (theoretischer Wert)
+周波数特性：約20Hz〜20kHz（理論値）
 
-Eigenschaften: Spüren Sie die Obertöne, die Wärme und die natürliche Verzerrung, die es nur bei analogen Geräten gibt. Es kann leicht durch den Zustand der Nadel und die Qualität der Presse beeinflusst werden und es gibt viel Lärm.
+特徴：アナログ特有の倍音成分や暖かみ、自然な音の歪みを感じる。針の状態やプレス品質に左右されやすくノイズも多い。
 
-Spektrogramm-Trend:
+スペクトログラム傾向：
 
-Hohe Frequenzen (15 kHz~) werden allmählich gedämpft
+高域（15kHz〜）はなだらかに減衰
 
-Der niedrige Bereich ist reichhaltig, aufgrund ungleichmäßiger Rotation und des Stiftdrucks kann es jedoch zu Schwankungen kommen.
+低域は豊かだが、回転ムラや針圧による揺らぎが生じることあり
 
-Lärm (Knistern, Sirene) zufällig verteilt
+ノイズ（パチパチ、サー音）がランダムに分布
 
-Hörstil: Weich, sanft und warm, mit der Tendenz, Geräusche und Verzerrungen als „Geschmack“ zu akzeptieren.
-
-
-
-<hr>
-
-#### Kassette
-
-Frequenzcharakteristik: Ungefähr 30 Hz bis 12 kHz für normales Band, ungefähr 30 Hz bis 18 kHz für Metallband
-
-Eigenschaften: Hängt von den magnetischen Eigenschaften des Bandes und der Qualität des Kopfes ab. Aufgrund von Rauschen und Bandverschleiß kann sich die Tonqualität wahrscheinlich verschlechtern.
-
-Spektrogramm-Trend:
-
-Der hohe Bereich fällt plötzlich aus (besonders bei normalem Band)
-
-Der Mittel-Tief-Bereich ist relativ stabil
-
-Zischgeräusche von etwa -50 dB breiten sich immer auf hohe Frequenzen aus
-
-Durch die Verwendung von Dolby NR werden einige hochfrequente Geräusche reduziert, die Rundheit des Klangs bleibt jedoch erhalten.
-
-Hören: Leicht gedämpft, mit mäßigen hohen Frequenzen. Es ist weich und warm, aber das Geräusch ist spürbar.
+聴こえ方：柔らかく、滑らかで温かみがあり、ノイズや歪みが「味」として受け入れられる傾向。
 
 
 
 <hr>
 
-#### CD (Compact Disc)
+#### カセットテープ
 
-Frequenzcharakteristik: 20 Hz bis 20 kHz (44,1 kHz-Abtastung)
+周波数特性：ノーマルテープで約30Hz〜12kHz、メタルテープで約30Hz〜18kHz
 
-Eigenschaften: Digitale Klangquelle mit geringem Rauschen, flacher und klarer Klangqualität.
+特徴：テープの磁気特性やヘッドの品質に依存。ヒスノイズやテープ摩耗による音質劣化が起きやすい。
 
-Spektrogramm-Trend:
+スペクトログラム傾向：
 
-Der Frequenzgang ist bis 20 kHz nahezu flach
+高域は急激にロールオフ（特にノーマルテープ）
 
-Sehr niedriges Grundrauschen, nahezu keine unnötigen Klanganteile
+中低域は比較的安定
 
-Selbst plötzliche Geräusche werden verzerrungsfrei wiedergegeben.
+常に-50dB程度のヒスノイズが高域に広がる
 
-Hören: Klar und hochauflösend, aber analoge Wärme fehlt oft.
+ドルビーNR使用で一部高域ノイズは軽減されるが、音の丸みは残る
 
-
-
-<hr>
-
-#### MD (Mini-Disc)
-
-Frequenzgang: 20 Hz bis 20 kHz (mit ATRAC-Komprimierung)
-
-Eigenschaften: Die Klangqualität kommt der einer CD nahe, aufgrund der Komprimierungsmethode können jedoch einige Detailinformationen verloren gehen.
-
-Spektrogramm-Trend:
-
-Reproduzierbarkeit im niedrigen bis mittleren Bereich nahe der CD
-
-Hohe Frequenzen werden bei etwa 17–18 kHz frühzeitig gedämpft (Auswirkung der Datenkomprimierung).
-
-Transiente Komponenten erscheinen oft „verschwommen“
-
-Hören: Fast klar, aber im Vergleich zu einer CD kann es sich etwas komprimiert anfühlen.
-
+聴こえ方：ややこもり気味で高音域は控えめ。柔らかく温かいが、ノイズも目立つ。
 
 
 
 <hr>
 
-### Aktueller Status und zukünftige Trends der einzelnen Medien
+#### CD（コンパクトディスク）
+
+周波数特性：20Hz〜20kHz（44.1kHzサンプリング）
+
+特徴：デジタル音源のためノイズが少なく、フラットでクリアな音質。
+
+スペクトログラム傾向：
+
+20kHzまでフラットに近い周波数特性
+
+ノイズフロアが非常に低く、不要音成分がほぼなし
+
+突発的な音でも歪まず再現される
+
+聴こえ方：クリアで解像度が高いが、アナログ的な暖かみは薄い場合が多い。
+
 
 
 <hr>
 
-#### Datensätze
+#### MD（ミニディスク）
 
-Aktuelle Situation: Weltweit erholen sich die Verkäufe analoger Schallplatten stetig, wobei der Schwerpunkt auf der Vintage-Nachfrage und der auf Klangqualität ausgerichteten Bevölkerungsgruppe liegt. Besonders bei jungen Menschen macht sich die analoge Regression bemerkbar.
+周波数特性：20Hz〜20kHz（ATRAC圧縮あり）
 
-Zukunft: Mit der Unterstützung von Enthusiasten analoger Tonquellen wird ein kleiner, aber nachhaltiger Markt erwartet. Auch Hybridprodukte (analog + digital) sind verfügbar.
+特徴：CDに近い音質だが圧縮方式のため一部の細部情報が失われる可能性がある。
+
+スペクトログラム傾向：
+
+低〜中域はCDに近い再現性
+
+高域は17〜18kHz程度で早めに減衰（データ圧縮の影響）
+
+しばしばトランジェント成分が「ぼやけて」再現される
+
+聴こえ方：ほぼクリアだが、CDと比べると若干圧縮感が感じられることも。
+
+
 
 
 <hr>
 
-#### Kassette
+### 各メディアの現状と今後の動向
 
-Aktueller Stand: Die einstigen Mainstream-Medien sind zurückgegangen. Begrenzte Unterstützung bei Enthusiasten und Indie-Szenen.
 
-Zukunft: Nischenpopularität als Retro-Kultur. Es überlebt als Teil von DIY-Musik und -Sammlungen.
+<hr>
+
+#### レコード
+
+現状：世界的にアナログレコードはヴィンテージ需要や音質志向の層を中心に堅調に売上回復。特に若年層のアナログ回帰が顕著。
+
+今後：アナログ音源の愛好者層の支持で小規模ながら持続的な市場が期待される。ハイブリッド製品（アナログ＋デジタル）も登場。
+
+
+<hr>
+
+#### カセットテープ
+
+現状：かつての主流メディアとしては衰退。マニアやインディーズシーンでは限定的に支持。
+
+今後：レトロ文化としてのニッチな人気。DIY音楽やコレクションの一環として存続。
 
 
 <hr>
 
 #### CD
 
-Aktuelle Situation: Durch die Ausbreitung des Streamings sind die Umsätze deutlich zurückgegangen. Bei bestimmten Gruppen (Sammler und Liebhaber von hochwertigem Klang) besteht weiterhin Nachfrage.
+現状：ストリーミングの普及で売上は大幅に減少。依然として特定層（コレクターや高音質志向者）には需要あり。
 
-Zukunft: Obwohl es als verpacktes Medium schrumpft, liegt der Schlüssel darin, es durch physischen Besitz und Mehrwert (Deluxe-Editionen usw.) zu differenzieren.
+今後：パッケージメディアとして縮小傾向だが、物理的な所有欲や付加価値（豪華盤など）での差別化が鍵。
 
 
 <hr>
 
 #### MD
 
-Aktueller Stand: Fast vom Markt verschwunden. Auch in Japan gehört eine gewisse Unterstützung der Vergangenheit an.
+現状：ほぼ市場から消滅。日本での一定支持も過去の話。
 
-Zukünftig: Es wird nur noch für eine begrenzte Zeit zur Konservierung oder als Hobby verbleiben.
-
-
-<hr>
-
-### Was ist Dolby Atmos?
+今後：保存や趣味として限定的に残るのみ。
 
 
 <hr>
 
-#### Übersicht über Dolby Atmos
-
-Dolby Atmos ist eine objektbasierte 3D-Soundtechnologie, die über den herkömmlichen kanalbasierten Surround-Sound hinausgeht und die freie Platzierung von „Klangobjekten“ im Raum ermöglicht.
-
-Eine Schallbildplatzierung in Höhenrichtung ist möglich
-
-Verbessert das Live-Feeling und das Gefühl der Präsenz von Filmen, Spielen und Musik erheblich
-
-Kann in Heimkinos, Kopfhörern und Smartphones abgespielt werden
+### Dolby Atmos（ドルビー・アトモス）とは何か？
 
 
 <hr>
 
-#### Dolby Atmos in der Musikproduktion
+#### Dolby Atmosの概要
 
-In den letzten Jahren haben Streaming-Dienste (Apple Music, Tidal usw.) damit begonnen, mit Dolby Atmos kompatible Musik zu verbreiten, und die Musikindustrie gewinnt an Aufmerksamkeit.
+ドルビー・アトモスはオブジェクトベースの3Dサウンド技術で、従来のチャンネルベースのサラウンドサウンドを超え、空間全体に「音のオブジェクト」を自由に配置できる。
 
-Bietet ein dreidimensionales Klangerlebnis, das sich von herkömmlichem Stereo unterscheidet
+高さ方向の音像配置が可能
 
-Gestalten Sie die Lokalisierung von Gesang und Instrumenten frei
+映画、ゲーム、音楽のライブ感や臨場感を格段に向上
 
-Kombiniert mit hochauflösenden Klangquellen für ein noch intensiveres Hörerlebnis
-
-
-<hr>
-
-### Zukünftige Musikmedientrends und das Potenzial von Dolby Atmos
+ホームシアター、ヘッドフォン、スマホでも対応再生可能
 
 
 <hr>
 
-#### Änderungen in den Medien
+#### 音楽制作におけるDolby Atmos
 
-Der Übergang von physischen Medien zu Streaming ist fast abgeschlossen
+近年ではストリーミングサービス（Apple Music、Tidalなど）がDolby Atmos対応の楽曲配信を開始し、音楽業界でも注目が高まっている。
 
-Der Schwerpunkt der nächsten Generation liegt auf der Unterstützung hochwertiger Klangverteilung (High Resolution, MQA) und räumlichen Audios (Dolby Atmos, Sony 360 Reality Audio).
+従来のステレオとは異なる立体的な音響体験を提供
+
+ボーカルや楽器の定位を自由に設計可能
+
+高解像度音源と組み合わせて、より没入感のあるリスニング体験を実現
 
 
 <hr>
 
-#### Entwicklung der Erfahrung
+### 今後の音楽メディア動向とDolby Atmosの可能性
 
-Benutzer bewegen sich vom bloßen Abspielen von Musik zum Erleben räumlichen Klangs
 
-Ein komplexer Markt, in dem analoger Rückschritt und digitaler Fortschritt nebeneinander existieren.
+<hr>
 
-Dolby Atmos wird als neues Ausdrucksmittel für Live-Auftritte und Festivalerlebnisse mit Spannung erwartet.
+#### メディアの変化
 
-Räumliche Audiotechnologien wie Dolby Atmos werden als „nächste Revolution im Musikerlebnis“ immer beliebter. Die Zukunft des Zuhörens wird sich weiterhin vom einfachen „Zuhören“ zum „Gefühl, als ob man tatsächlich da wäre“ entwickeln.
+物理メディアからストリーミング中心へ移行がほぼ完成
+
+高音質配信（ハイレゾ、MQA）や空間オーディオ（Dolby Atmos、Sony 360 Reality Audio）への対応が次代の焦点
+
+
+<hr>
+
+#### 体験の進化
+
+ユーザーは単なる「音楽再生」から「空間音響体験」へと移行
+
+アナログ回帰とデジタル先進の両立が起こる複雑な市場
+
+Dolby Atmosは、ライブ演奏やフェス体験の再現、新たな表現手段として期待大
+
+そして、Dolby Atmosなどの空間オーディオ技術は「音楽体験の次なる革命」として急速に普及中。未来のリスニングは、単なる「聴く」から「その場にいるかのように感じる」へと進化を続けるだろう。

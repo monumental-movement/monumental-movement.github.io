@@ -20,7 +20,7 @@ title: '[Kolumne] Madvillain „Madvillainy“ ─ Hip-Hop-Mythos des 21. Jahrhu
 
 文：mmr｜テーマ：ヒップホップという形式そのものを解体した後に、再構築する“音の迷宮”である[『Madvillainy』](https://amzn.to/3JhySfH)について考察
 
-Im Frühjahr 2004 stellte ein von einem kleinen Label in Los Angeles, **Stones Throw Records**, veröffentlichtes Album stillschweigend die herkömmliche Meinung des Hip-Hop auf den Kopf.
+Im Frühjahr 2004 stellte ein von einem kleinen Label in Los Angeles, **Stones Throw Records**, veröffentlichtes Album stillschweigend die konventionelle Meinung des Hip-Hop auf den Kopf.
 **Madvillain [『Madvillainy』](https://amzn.to/3JhySfH)**――それは、**ラップアルバムでありながら、詩集でもあり、電波を通じたサウンド・コラージュでもある。**
 
 Zu Beginn des 21. Jahrhunderts bewegte sich der amerikanische Hip-Hop in Richtung der extravaganten „Markenkultur“, die durch Jay-Z und 50 Cent symbolisiert wurde. Auf der anderen Seite geht es in diesem Album um Anonymität und die Poetik von Fragmenten und es hat tiefe Wurzeln im Untergrund der Welt.
@@ -81,9 +81,9 @@ Die akustischen Eigenschaften lassen sich in den folgenden drei Punkten zusammen
 
 1. **Time Disconnect**: Das Lied ist kurz und endet abrupt. Die Übergänge sind bewusst grob.
 2. **Räumliche Komprimierung**: Minimieren Sie Hall und räumliche Verarbeitung, um den Abstand zwischen Samples nahe Null zu bringen.
-3. **Frequenzverzerrung**: Erzeugt einen **VHS-ähnlichen Klang**, bei dem die hohen Frequenzen durch den umfassenden Einsatz von SP-303-Effekten entfernt werden.
+3. **Frequenzverzerrung**: Erzeugt einen **VHS-ähnlichen Klang** mit entfernten hohen Frequenzen durch den umfassenden Einsatz von SP-303-Effekten.
 
-Auch hier handelt es sich um eine „**Rekordrekonstruktion**“ von Madlib. Er betrachtete den Lärm und das Knistern alter Aufnahmen als „Bestandteile“ und nicht als „Materialien“ und verwandelte Hip-Hop in eine Archäologie des Klangs.
+Auch hier handelt es sich um eine „**Rekordrekonstruktion**“ von Madlib. Er betrachtete den Lärm und das Knistern alter Aufnahmen als „Komponenten“ und nicht als „Materialien“ und verwandelte Hip-Hop in eine Archäologie des Klangs.
 
 ---
 
@@ -121,7 +121,7 @@ Das Jackenfoto (aufgenommen von Eric Coleman) ist eine Nahaufnahme der Metallmas
 Die Komposition, bei der die Hälfte des Gesichts in Schatten getaucht ist, symbolisiert die Kluft zwischen Anonymität und Enthüllung, Mythos und Realität.
 Diese Maske diente sowohl als Mittel zur Selbstdarstellung als schwarzer Künstler als auch als Form des Widerstands gegen kommerzielle Medien.
 
-Die Maske von DOOM ist eine Anspielung auf Marvels Dr. Doom in der Popkultur, stellt aber im Grunde eine Umkehrung von Macht und Identität dar.
+Die Maske von DOOM ist eine Anspielung auf Marvels „Dr. Doom“ in der Popkultur, stellt aber im Kern eine Umkehrung von Macht und Identität dar.
 Hier besteht ein Paradoxon, dass „Bösewicht = Person, die die Freiheit hat zu sprechen“**.
 
 ---
@@ -152,7 +152,7 @@ Madlib, J Dilla, Aloe Blacc und andere traten auf dem Label auf und schlugen ein
 - Flying Lotus: Eine Fusion aus Jazz und Beat-Wissenschaft.
 - Earl Sweatshirt: Fragmentierter introspektiver Rap, entlehnt von DOOM.
 - Tyler, der Schöpfer: Charakterbildung und die Vererbung von Ironie.
-- Lo-Fi-Hiphop-Kultur: Übernahme des SP-Sounds und sogar Erstellung von „Study BGM“ auf YouTube.
+- Lo-Fi-Hip-Hop-Kultur: Übernahme des SP-Sounds und sogar Erstellung von „Study BGM“ auf YouTube.
 
 Darüber hinaus hat die Maskenkultur von DOOM das Image von Künstlern nach dem Internet beeinflusst.
 Anonyme Konten, VTuber, KI-generierte Musik usw. – die Wertachse hat sich von „Wer hat es gemacht“ zu „Wie es ankommt“ verschoben**.
@@ -213,7 +213,7 @@ flowchart TD
 [『Madvillainy』](https://amzn.to/3JhySfH)は、ヒップホップという形式そのものを解体した後に、再構築する“音の迷宮”である。
 Es gibt keinen „Abschluss“ oder „Ende“.
 Gesampelte Klänge gewinnen wieder an Bedeutung, auch wenn sie ihren Ursprung verlieren.
-Die Maske, die DOOM hinterlassen hat, leuchtet immer noch in Underground-Studios auf der ganzen Welt.
+Die von DOOM hinterlassene Maske leuchtet immer noch in Underground-Studios auf der ganzen Welt.
 
 > „Es ist nicht so verrückt wie der Bösewicht.“
 > MF DOOM

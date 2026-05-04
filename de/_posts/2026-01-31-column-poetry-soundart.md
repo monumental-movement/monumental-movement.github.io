@@ -53,7 +53,7 @@ Poesie war ursprünglich etwas, das „gesprochen“ wurde, bevor es geschrieben
 
 Mit der Verbreitung der Drucktechnik wurde die Poesie auf Papier fixiert und der Akt des Lesens verlagerte sich in den visuellen Mittelpunkt. Vom 19. bis zum frühen 20. Jahrhundert wurde die Rezitation von Gedichten zweitrangig und Werke wurden zunehmend als Texte bewertet. Die Lesungen der Dichter selbst gingen jedoch weiter und die Bedeutung der Stimme ging nie ganz verloren.
 
-> Auch in der Zeit, als die Poesie auf dem Papier etabliert wurde, blieb die Stimme ein weiterer Ort der Poesie.
+> Selbst in der Zeit, als die Poesie noch auf dem Papier etabliert wurde, blieb die Stimme ein weiterer Ort der Poesie.
 
 ---
 
@@ -75,7 +75,7 @@ Der italienische Futurismus brachte mechanischen und städtischen Lärm in die K
 
 ### Die Idee, Stimmen auszuschneiden und einzufügen
 
-Mitte des 20. Jahrhunderts veränderte die Einführung des Magnetbandes den Umgang mit Stimmen grundlegend. Die Lesung ist kein einmaliges Ereignis, sondern Material, das bearbeitet werden kann. Techniken wie Cut-Ups, Loops und umgekehrte Drehungen brachten eine neue Zeitachse in den poetischen Ausdruck.
+Mitte des 20. Jahrhunderts veränderte das Aufkommen von Magnetbändern den Umgang mit Stimmen grundlegend. Die Lesung ist kein einmaliges Ereignis, sondern Material, das bearbeitet werden kann. Techniken wie Cut-Ups, Loops und umgekehrte Drehungen brachten eine neue Zeitachse in den poetischen Ausdruck.
 
 ### Verbindung mit Musique Concrete
 
@@ -103,7 +103,7 @@ Beat-Poeten zeichneten ihre Lesungen auf und veröffentlichten sie auf Schallpla
 
 ### Abweichung von der Musik
 
-Seit den 1960er Jahren hat sich die Klangkunst vom Rahmen der Musik gelöst und ist zu einer Ausdrucksform geworden, die den Raum und die Umgebung betont. Bei Werken, die in Galerien und im öffentlichen Raum entstehen, verändert sich der Klang je nach Bewegung des Betrachters und dem Lauf der Zeit.
+Seit den 1960er Jahren hat sich die Klangkunst vom Rahmen der Musik gelöst und ist zu einer Ausdrucksform geworden, die den Raum und die Umwelt in den Vordergrund stellt. Bei Werken, die in Galerien und im öffentlichen Raum entstehen, verändert sich der Klang je nach Bewegung des Betrachters und dem Lauf der Zeit.
 
 ### Neuanordnung der Stimme
 
@@ -135,7 +135,7 @@ Durch die digitale Technologie ist es möglich, Stimmen in Echtzeit zu transform
 
 ### Netzwerke und verteiltes Lesen
 
-Durch die Online-Verbreitung und netzwerkbasierte Werke sind die Lektüren nicht an einen bestimmten Ort gebunden. Es kommt auch immer häufiger vor, dass Stimmen aus mehreren Orten ein einziges Werk komponieren.
+Durch die Online-Verbreitung und netzwerkbasierte Werke sind die Lesungen nicht an einen bestimmten Ort gebunden. Es kommt auch immer häufiger vor, dass Stimmen aus mehreren Orten ein einziges Werk komponieren.
 
 > Die digitale Umgebung ist zu einem Raum für die Verbreitung und Wiederintegration von Stimmen geworden.
 
@@ -189,7 +189,7 @@ In Radiowerken wird die Sendezeit selbst zur Struktur. Poesie wurde als zeitlich
 
 ### Der Körper, der Stimme gibt
 
-Das Lesen von Gedichten ist ein Ausdruck, der einem die Existenz nicht nur der Stimme, sondern auch des Körpers deutlich bewusst macht. Atmung, Haltung und Bewegung beeinflussen die Qualität der Stimme, und das Rezitieren ist auch mit der visuellen Leistung verknüpft.
+Das Lesen von Gedichten ist ein Ausdruck, der einem die Existenz nicht nur der Stimme, sondern auch des Körpers deutlich bewusst macht. Atmung, Haltung und Bewegung beeinflussen die Qualität der Stimme, und das Rezitieren ist auch mit der visuellen Leistung verbunden.
 
 ### Die Bedeutung der Improvisation
 
@@ -221,7 +221,7 @@ Eine Lesevorführung ist grundsätzlich eine einmalige Veranstaltung. Audioaufna
 
 ### Sound als Archiv
 
-Dennoch sind Audioarchive eine wichtige Informationsquelle zur Geschichte der Poesie und Klangkunst. Durch das Zuhören und Vergleichen von Stimmen aus verschiedenen Epochen werden Veränderungen im Ausdruck deutlich.
+Dennoch sind Audioarchive eine wichtige Informationsquelle zur Geschichte der Poesie und Klangkunst. Durch das Hören und Vergleichen von Stimmen aus verschiedenen Epochen werden Veränderungen im Ausdruck deutlich.
 
 > Aufgenommene Stimmen verbinden die Vergangenheit mit der Gegenwart.
 

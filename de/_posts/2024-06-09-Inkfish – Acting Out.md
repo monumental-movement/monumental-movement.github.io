@@ -16,11 +16,11 @@ title: Tintenfisch – Ausleben
 ---
 
 
-アンダーグラウンド ハウス シーンの重鎮Inkfishは、90年代から活動するプロデューサー＆DJ集団。メンバーは、ウェーデン出身のMattias Lindblom、Jesper Lindquist、Andreas Hermansson、Johan Hermansson の 4 人。
+Inkfish, ein Schwergewicht der Underground-House-Szene, ist ein seit den 90er Jahren aktives Produzenten- und DJ-Kollektiv. Die Mitglieder sind Mattias Lindblom, Jesper Lindquist, Andreas Hermansson und Johan Hermansson aus Schweden.
 
-Inkfish は、さまざまな名義で、David West、Hardy Heller、Tomas Andersson、プログレッシブ界の伝説 Ian Ossia などの大物プロデューサー/DJ と共演している。また、Medway、Tom Novy & Jerome Isma-ae、Matt Darey などをプロデュースしている。
+Inkfish hat unter verschiedenen Namen mit namhaften Produzenten/DJs wie David West, Hardy Heller, Tomas Andersson und der Progressive-Legende Ian Ossia zusammengearbeitet. Er hat auch Künstler wie Medway, Tom Novy & Jerome Isma-ae und Matt Darey produziert.
 
-「Acting Out」は、2003年に500枚限定でリリースされたInkfishのプログレッシブ・トライバルハウストラック。
+„Acting Out“ ist ein progressiver Tribal-House-Track von Inkfish, der 2003 in einer limitierten Auflage von 500 Exemplaren veröffentlicht wurde.
 
 #### Trackliste
 ```md

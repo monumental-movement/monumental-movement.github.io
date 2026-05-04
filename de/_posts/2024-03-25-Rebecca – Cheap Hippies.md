@@ -10,13 +10,13 @@ tags:
 - JPop
 - Pops
 - 80s
-title: Rebecca – Billige Hippies
+title: Rebecca – Cheap Hippies
 ---
 
 
-„CHEAP HIPPIES“ ist Rebeccas dritte 12-Zoll-Single, die 1987 veröffentlicht wurde.
+「CHEAP HIPPIES（チープ ヒッピーズ）」は、1987年にリリースされたレベッカの３枚目の12インチ・シングル。
 
-Der Remix stammt von Francois Kevorkian (Francois K), der seit Ende der 1970er Jahre in der Tanzmusikszene aktiv ist.
+remixは、1970年代後半からダンス・ミュージック・シーンで活躍するFrancois Kevorkian（フランソワ・ケヴォーキアン（Francois K / フランソワK））。
 
 #### Trackliste
 ```md

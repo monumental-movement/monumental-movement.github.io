@@ -12,14 +12,14 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Kolumne] Buchla und Serge: Eine weitere Linie der elektronischen Akustik'
+title: '[Kolumne] Buchla und Serge: Eine weitere Genealogie der elektronischen Akustik'
 ---
 
 
 ## „Einführung – Was ist modular?“
 
 
-Text: mmr | Thema: Die spirituelle Geschichte der modularen Synthesizer der Westküste. Wie die Ideen von Don Buchler und Serge Tocheny in das heutige Sounddesign übertragen wurden
+Text: mmr | Thema: Spirituelle Geschichte der modularen Synthesizer der Westküste. Wie die Ideen von Don Buchler und Serge Tocheny in das heutige Sounddesign übertragen wurden
 
 Anfang der 1970er Jahre, Amerikas Westküste.
 Es gab Leute, die das Studio für elektronische Musik ihrer Universität verließen und versuchten, **ein Gerät zur Klanggestaltung** zurück in ihre persönlichen kreativen Räume zu bringen.
@@ -84,7 +84,7 @@ Das Low Pass Gate (ein Element, das sowohl Lautstärke als auch Klangfarbe steue
 
 ---
 
-## 2. Serge Tochenin: Demokratisiertes Modul
+## 2. Serge Tochenin: demokratisiertes Modul
 
 ### 2-1. Geburt von „The People’s Synthesizer“
 

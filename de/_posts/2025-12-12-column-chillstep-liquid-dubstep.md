@@ -168,7 +168,7 @@ Chillstep-Zusammenstellungen auf YouTube verbreiteten sich, sie kombinierten vis
 2. Pad-Sound, der sich sanft darüber ausbreitet
 3. Spiegelungen auf der Wasseroberfläche schwingen mit den Obertönen der Hauptmelodie mit
 4. Die Basis versinkt im Nachglühen der nächtlichen Stadt
-5. Eine Produktion, bei der der Sternenfluss mit dem Arpeggio synchronisiert ist
+5. Eine Produktion, bei der der Sternenstrom mit dem Arpeggio synchronisiert ist
 
 Das Chillstep-Seherlebnis symbolisiert die Genremerkmale des Internetzeitalters, in dem „Musik + visueller Ausdruck“ integriert sind.
 
@@ -219,13 +219,13 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 
 * Sinuswellenzentrum
 * Bei Bedarf Dreieckswellen untermischen, um für mehr Wärme zu sorgen
-*LFO ist sanft
+* LFO ist sanft
 * Seitenkette ist dünn
 * Die Freigabe ist kurz und fest
 
 ### 5-5 Trommeln
 
-* Kick: Reduzieren Sie den Tieftonbereich nicht zu stark
+* Kick: Reduzieren Sie den Tieftonbereich nicht zu sehr
 * Snare: Dünner, tiefer Hall
 * Hut: Reduziert Verwacklungen und glättet Höhen
 * Percussion: Wassertropfen-FX aktiviert

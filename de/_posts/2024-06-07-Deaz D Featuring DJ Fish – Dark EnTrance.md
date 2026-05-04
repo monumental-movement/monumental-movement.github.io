@@ -11,13 +11,13 @@ tags:
 - Hardcore
 - Gabber
 - 90s
-title: Deaz D mit DJ Fish – Dark En'Trance
+title: Deaz D Featuring DJ Fish – Dark En'Trance
 ---
 
 
-Deaz D (Dennis Harinck) ist Resident-DJ im niederländischen Club Locomotion (-2002) und Hardcore-Produzent, der als Mitglied der Bitte-Ein-Beat-Crew bekannt ist. DJ Norman, der mit DJ Gizmo in der Hardcore-Szene aktiv ist, ist sein eigener Bruder.
+Deaz D（Dennis Harinck）は、オランダのクラブLocomotionのレジデントDJ(-2002)、Bitte-Ein-Beatのクルーとして有名なハードコアプロデューサー。DJ Gizmoと共にハードコアシーンで活躍しているDJ Normanは実の兄弟。
 
-„Dark En'Trance“ ist ein Hardcore-Gabbana-Track, der 1993 vom niederländischen Hardcore-Gabbana-Label Rave Records veröffentlicht wurde.
+「Dark En'Trance」は、オランダのハードコア・ガバレーベルRave Recordsから1993年にリリースされたハードコア・ガバトラック。
 
 #### Trackliste
 ```md

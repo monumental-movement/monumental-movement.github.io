@@ -13,7 +13,7 @@ title: Joey Beltram – E.P. Nummer Eins
 ---
 
 
-„E.P. Number One“ erschien im Jahr 2000 auf Joey Beltrams eigenem Label STX Records.
+„E.P. Number One“ wurde im Jahr 2000 auf Joey Beltrams eigenem Label STX Records veröffentlicht.
 
 #### Trackliste
 ```md

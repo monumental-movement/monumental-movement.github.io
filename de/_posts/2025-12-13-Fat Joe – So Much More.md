@@ -9,12 +9,12 @@ permalink: /de/fat-joe-so-much-more/
 tags:
 - Hiphop
 - 00s
-title: Fat Joe – So viel mehr
+title: Fat Joe – So Much More
 ---
 
 
-„So Much More“ ist ein Hip-Hop-Track von Fat Joe aus dem Jahr 2005. (Promo-Ausgabe)
-Die Produzenten sind das in Miami ansässige Produktionsduo Cool & Dre.
+「So Much More」は、2005年にリリースされたFat JoeによるHip Hopトラック。(プロモ盤)
+プロデューサーは、マイアミを拠点とするプロデューサーデュオCool & Dre。
 
 #### Trackliste
 ```md

@@ -30,7 +30,7 @@ Text: mmr｜Thema: Veränderungen in der experimentellen Musik von der Avantgard
 - **Hintergrund:** Europa und Amerika der Nachkriegszeit versuchen, Musik zu rekonstruieren. Es erscheinen „Music of Chance“ von John Cage und Musique Concrète von Schaeffer.
 - **Ausrüstung:** Tonbandgerät, präpariertes Klavier, früher Oszillator.
 
-### 名盤
+### Meisterwerk
 - [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)  
 - [John Cage – *Sonatas and Interludes* (1948)](https://amzn.to/425qJRN)  
 - [Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)  
@@ -72,7 +72,7 @@ color: #fff;
 - **Hintergrund:** Resoniert mit Minimalismus, avantgardistischen Kunstbewegungen und psychedelischer Kultur. Die Geburt des modularen Synthesizers.
 - **Ausstattung:** Moog Modular, Buchla, EMS VCS3, Tape Loop.
 
-### 名盤
+### Meisterwerk
 - [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)  
 - [Terry Riley – *In C* (1968)](https://amzn.to/46p9sEc)  
 - [Silver Apples – *Silver Apples* (1968)](https://amzn.to/3ImPkLd)  
@@ -83,7 +83,7 @@ color: #fff;
 
 | Künstler | Verfolgen | Jahr |
 |--------------|----------|----|
-| La Monte Young | Der zweite Traum vom Abwärtstransformator für Hochspannungsleitungen | 1962 |
+| La Monte Young | Der zweite Traum vom Abspanntransformator für Hochspannungsleitungen | 1962 |
 | Terry Riley | In C | 1968 |
 | Steve Reich | Klavierphase | 1967 |
 | Pauline Oliveros | Tschüss Schmetterling | 1965 |
@@ -97,10 +97,10 @@ color: #fff;
 ---
 
 ## 1970er Jahre: Lärm, die Entstehung der Industrie
-- **Hintergrund:** Einbeziehung von „Noise“ in die Musik bei gleichzeitiger Überschneidung mit Punk und Avantgarde-Kunst. Die Geburt der Industriekultur.
+- **Hintergrund:** Einbeziehung von „Noise“ in die Musik bei gleichzeitiger Verknüpfung mit Punk und Avantgarde-Kunst. Die Geburt der Industriekultur.
 - **Ausrüstung:** EMS Synthi A, ARP 2600, Roland System 100, selbstgebauter Rauschgenerator.
 
-### 名盤
+### Meisterwerk
 - [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)  
 - [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
 - [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)  
@@ -129,7 +129,7 @@ color: #fff;
 - **Hintergrund:** Mit der Verbreitung von Kassetten-MTR wuchs die experimentelle Underground-Musikszene. In Japan hat sich eine „Lärm“-Szene etabliert.
 - **Ausstattung:** Tascam Portastudio, Roland TR-808, Yamaha DX7, Kurzwellenradio.
 
-### 名盤
+### Meisterwerk
 - [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)  
 - [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)  
 - [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)  
@@ -158,7 +158,7 @@ color: #fff;
 - **Hintergrund:** Mit der Verbreitung von PCs und Samplern schritt die akustische Dekonstruktion und Rekonstruktion voran. Verbindet sich auch mit IDM und Ambient-Musik.
 - **Ausrüstung:** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
-### 名盤
+### Meisterwerk
 - [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)  
 - [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
 - [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)  
@@ -184,10 +184,10 @@ color: #fff;
 
 
 ## 2000er: Laptops und Globalisierung
-- **Hintergrund:** Noise, Electronica und Field Recordings verbreiten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
+- **Hintergrund:** Noise, Electronica und Field Recording verbreiteten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
 - **Ausrüstung:** Ableton Live, SuperCollider, Kontakt, Laptop.
 
-### 名盤
+### Meisterwerk
 - [Fennesz – *Endless Summer* (2001)](https://amzn.to/3K9awVB)  
 - [Wolf Eyes – *Burned Mind* (2004)](https://amzn.to/4nCm8P2)  
 - [Ryoji Ikeda – *Dataplex* (2005)](https://amzn.to/4nLgwSW)  
@@ -216,7 +216,7 @@ color: #fff;
 - **Hintergrund:** Verschmelzung mit Klangkunst und Installation. ASMR, Drohnen und Ambient-Musik werden neu bewertet.
 - **Ausstattung:** Eurorack-Modul, Max for Live, Pure Data, DIY-Instrumente.
 
-### 名盤
+### Meisterwerk
 - [Oneohtrix Point Never – *Replica* (2011)](https://amzn.to/3W29tJz)  
 - [Tim Hecker – *Virgins* (2013)](https://amzn.to/3VrREDB)  
 - [Holly Herndon – *Platform* (2015)](https://amzn.to/3W1lCyj)  
@@ -244,7 +244,7 @@ color: #fff;
 - **Hintergrund:** KI-Komposition, algorithmische Musik und immersive Erlebnisse im VR/AR-Raum sind im Gange. Noise und experimentelle Musik überschneiden sich erneut mit der Clubszene.
 - **Ausrüstung:** KI-Generierungstools (RAVE, Magenta Studio), Eurorack, modularer Synthesizer + Algorithmus für maschinelles Lernen.
 
-### 名盤
+### Meisterwerk
 - [Holly Herndon – *PROTO* (2019, AIボーカル合唱)](https://amzn.to/4nhKdv3)  
 - [Kali Malone – *Living Torch* (2022)](https://amzn.to/4nJoBYc)
 - [Caterina Barbieri – *Spirit Exit* (2022)](https://amzn.to/3W4Hg4M)  

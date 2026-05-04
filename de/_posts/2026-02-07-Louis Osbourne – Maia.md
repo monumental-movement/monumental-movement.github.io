@@ -15,7 +15,7 @@ title: Louis Osbourne – Maia
 
 
 
-Louis Osbourne ist DJ/Produzent und der älteste Sohn von Ozzy Osbourne. Er arbeitet auch mit dem britischen Techno/Tech-House-DJ/Produzenten Jamie Anderson als Louis Osbourne & Jamie Anderson zusammen.
+Louis Osbourne ist DJ/Produzent und der älteste Sohn von Ozzy Osbourne. Er arbeitet auch mit dem britischen Techno-/Tech-House-DJ/Produzenten Jamie Anderson als Louis Osbourne & Jamie Anderson zusammen.
 
 „Maia“ ist ein Electro/Tech-House-Track, der 2007 vom Hamburger Label Kingdom Kome Cuts veröffentlicht wurde. Co-Produzenten sind die deutschen Trance- und House-Produzenten Oliver Goedicke und Thomas Woznik.
 

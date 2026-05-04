@@ -20,7 +20,7 @@ title: '[Kolumne] Nala Sinephro – Klangatmung und kosmische Stille: Der aktuel
 
 Text: mmr｜Thema: Beim Jazz geht es nicht um Technik oder Genreerweiterung, sondern um die grundlegende Frage, was Klang dem Menschen bringen kann.
 
-Wenn wir zum ersten Mal mit der Musik von Nala Sinephro in Berührung kommen, sind wir gezwungen, das Konzept eines „Liedes“ loszulassen.
+Wenn wir zum ersten Mal mit der Musik von Nala Sinephro in Kontakt kommen, sind wir gezwungen, das Konzept eines „Liedes“ loszulassen.
 Sein Debütalbum Space 1.8, das 2021 bei Warp Records erschien, war ein Werk, das die Grenzen zwischen Jazz und Ambient, modularer Synthese und Improvisation verschmolz, als ob es atmen würde.
 
 Harfe, Tenorsaxophon, modularer Synthesizer und der Raum selbst.
@@ -115,7 +115,7 @@ Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper 
 
 Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.
 Wellenformen umhüllen die Echos der Harfe, analoge Temperaturen neutralisieren die elektronische Transparenz.
-Es ist auch ein Akt der Sublimierung von Musik zu einem **Technologiegebet**.
+Es ist auch ein Akt der Sublimierung von Musik in ein **Technologiegebet**.
 
 ---
 
@@ -141,7 +141,7 @@ Gleichzeitig ist es aber auch ein Zeichen der Langsamkeit als Reaktion auf die G
 | 2018 | Treten Sie dem Total Refreshment Center bei und beginnen Sie mit Improvisationssitzungen |
 | 2021 | „Space 1.8“ von Warp Records veröffentlicht |
 | 2022 | Internationale Anerkennung durch Gilles Peterson und andere |
-| 2024 | Start neuer Produktion/modulares Live-Projekt |
+| 2024 | Neue Produktion/modulares Live-Projekt gestartet |
 
 ---
 

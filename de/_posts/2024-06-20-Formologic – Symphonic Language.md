@@ -10,13 +10,13 @@ tags:
 - Trance
 - Dutch Trance
 - 00s
-title: Formologisch – Symphonische Sprache
+title: Formologic – Symphonic Language
 ---
 
 
-Ronald Van Gelderen, auch bekannt als Formologic, ist ein Trance-DJ und Produzent aus den Niederlanden. Er ist auch als Kid Vicious bekannt und hat auch unter den Namen N-Fluence, Electronics und Masai veröffentlicht.
+Formologic ことRonald Van Gelderen（ロナルド ファン スペンドンク）は、オランダ出身のトランスDJ・プロデューサー。Kid Vicious（キッドヴィシャス）としても知られ、N-Fluence、Electrobics、Masai名義でもリリースしている。
 
-„Symphonic Language“ ist ein Trance-Track, der im Jahr 2000 vom niederländischen Label Alien Recordings veröffentlicht wurde.
+「Symphonic Language」は、2000年にオランダのレーベルAlien Recordingsからリリースされたトランストラック。
 
 #### Trackliste
 ```md

@@ -10,13 +10,13 @@ tags:
 - Tech House
 - House
 - 00s
-title: Geisterfänger – Voo-Doo-Ritter
+title: Spirit Catcher – Voo Doo Knight
 ---
 
 
-Spirit Catcher ist ein Duo der belgischen Produzenten Jean Vanesse und Thomas Sohet. Er ist auch unter dem Namen Only Freak aktiv.
+Spirit Catcher (スピリットキャッチャー)は、ベルギーのプロデューサーJean VanesseとThomas Sohetによるデュオ。Only Freak(オンリーフリーク)名義でも活動している。
 
-„Voo Doo Knight“ ist ein Tech-House-Track, der 2004 auf dem Label Moodmusic des finnischen DJs und Produzenten Sasse veröffentlicht wurde.
+「Voo Doo Knight」は、フィンランド出身のDJ・プロデューサーSasseのレーベルMoodmusicから2004年にリリースされたTech House トラック。
 
 #### Trackliste
 ```md

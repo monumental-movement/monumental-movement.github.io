@@ -126,7 +126,7 @@ Es hat einen stark minimalistischen Ansatz zur elektronischen Akustik und kommt 
 ## 4. Klang: Analyse musikalischer Eigenschaften
 
 ### ● 4-1. Minimale Struktur
-- Wiederholen Sie eine Schleife von 2–4 Takten
+- Wiederholen Sie eine Schleife von 2-4 Takten
 - Änderungen sind subtil, wie z. B. das Öffnen/Schließen von Filtern und das Anpassen von Hüllkurven.
 - Baselines werden oft mit einem Sequenzer generiert
 

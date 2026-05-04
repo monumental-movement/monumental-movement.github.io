@@ -9,13 +9,13 @@ permalink: /de/grandmaster-flash-u-know-what-time-it-is/
 tags:
 - Hiphop
 - Break Beat
-title: Grandmaster Flash – U Know What Time It Is
+title: Grandmaster Flash – Du weißt, wie spät es ist
 ---
 
 
-グランドマスター・フラッシュは、アメリカのヒップホップのパイオニアの一人であり、DJおよび音楽プロデューサーとして知られています。
+Grandmaster Flash ist einer der Pioniere des amerikanischen Hip-Hop, bekannt als DJ und Musikproduzent.
 
-「U Know What Time It Is」は、エネルギッシュなヒップホップトラックで、グランドマスター・フラッシュのシグネチャースタイルが活かされています。ファンキーなビート、スクラッチング、サンプリング、ブレイクビートなど、ヒップホップの要素が組み合わさり、彼の独特なDJテクニックとクリエイティブなアイデアが、曲にリズムとダイナミズムを与えています。
+„U Know What Time It Is“ ist ein energiegeladener Hip-Hop-Track, der den charakteristischen Stil von Grandmaster Flash zur Geltung bringt. Seine einzigartigen DJ-Techniken und kreativen Ideen verleihen den Songs Rhythmus und Dynamik, indem er Hip-Hop-Elemente wie Funky Beats, Scratching, Sampling und Breakbeats kombiniert.
 
 #### Trackliste
 ```md

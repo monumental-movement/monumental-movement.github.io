@@ -59,7 +59,7 @@ In New York organisiert sich die Musik als Industrie mit einer Konzentration von
 
 ### Chicago und Blues
 
-Als schwarze Einwanderer aus dem Süden nach Chicago strömten, wurde der akustische Blues elektrisiert und passte sich an die laute städtische Umgebung an. Verstärker und E-Gitarren waren eine Notwendigkeit, um der Lautstärke der Stadt entgegenzuwirken.
+Als schwarze Einwanderer aus dem Süden nach Chicago strömten, wurde der akustische Blues elektrifiziert und passte sich an die laute städtische Umgebung an. Verstärker und E-Gitarren waren eine Notwendigkeit, um der Lautstärke der Stadt entgegenzuwirken.
 
 ### London und Jugendkultur
 
@@ -125,7 +125,7 @@ Während Städte Musik produzieren, regulieren sie sie auch. Überfüllung, Lär
 
 Radio, Fernsehen und Internet, die die Musik scheinbar von der Stadt trennten, schufen tatsächlich ein neues Bild der Stadt. Bestimmte Städtenamen fungieren weiterhin als Klangmarken.
 
-> Die Medien erweiterten die Stadt und erweckten den Eindruck, als sei die Musik von der Geographie befreit.
+> Die Medien erweiterten die Stadt und ließen die Musik scheinbar unabhängig von der Geographie erscheinen.
 
 ---
 
@@ -157,7 +157,7 @@ Obwohl Clubmusik und Hip-Hop grenzüberschreitend gemeinsame Formate haben, nehm
 
 * 1960er Jahre: Die importierte Rock- und Jazz-Café-Kultur breitet sich in Tokio aus
 * Die Live-House-Kultur der 1970er Jahre hielt in Osaka und Tokio Einzug
-* 1980er Jahre: Ausbreitung urbaner Diskotheken und Clubs
+* 1980er Jahre: Ausbreitung städtischer Diskotheken und Clubs
 * Die Clubkultur der 1990er Jahre breitete sich hauptsächlich in Shibuya und Shinsaibashi aus
 * In den 2000er Jahren begannen Festivals und Clubs in regionalen Städten nebeneinander zu existieren.
 * Seit den 2010er Jahren räumliche Neuordnung aufgrund von Sanierungen und Verschärfungen der Vorschriften
@@ -166,7 +166,7 @@ Obwohl Clubmusik und Hip-Hop grenzüberschreitend gemeinsame Formate haben, nehm
 
 ## Kapitel 10 Osaka: Verschiedenes und körperlicher Rhythmus
 
-Osaka hat eine städtische Struktur, in der Gewerbe- und Wohngebiete, Straßen und Innenbereiche relativ gemischt sind. Selbst in der Musikkultur steht eher die Körperlichkeit als die Logik im Vordergrund. Die Akzeptanz von Live-House-Kultur, Tanzmusik und Rockmusik wird mit dem materialistischen Charakter der Stadt in Verbindung gebracht.
+Osaka hat eine Stadtstruktur, in der Gewerbe- und Wohngebiete, Straßen und Innenbereiche relativ gemischt sind. Selbst in der Musikkultur steht eher die Körperlichkeit als die Logik im Vordergrund. Die Akzeptanz von Live-House-Kultur, Tanzmusik und Rockmusik wird mit dem materialistischen Charakter der Stadt in Verbindung gebracht.
 
 Die Größe der Stadt ist kleiner als die von Tokio, was es einfacher macht, sich den Menschenstrom vorzustellen. Daher zirkuliert Musik als gemeinsames Erlebnis innerhalb der Gemeinschaft und Szenen werden in Einheiten sichtbarer Gesichter etabliert.
 
@@ -226,7 +226,7 @@ Die Orte, an denen Musik gespielt wird, haben sich im Zuge der Veränderungen im
 
 ## Kapitel 15 Tokio: Überfüllte Stadt und Indoor-Musik
 
-Tokio ist eine der am dichtesten besiedelten Städte der Welt und ihre Musikkultur hat sich konsequent in Richtung Innenräume verlagert. Städtische Strukturen, in denen Wohn- und Gewerbegebiete eng miteinander verflochten sind, und die hohe Sensibilität der Gesellschaft gegenüber nächtlichem Lärm haben die Kultur lauter Musik im Freien unterdrückt und die Eleganz geschlossener Räume wie Untergrundclubs, Veranstaltungsorte für Live-Musik und Hörbars gefördert.
+Tokio ist eine der am dichtesten besiedelten Städte der Welt und ihre Musikkultur hat sich konsequent in Richtung Innenräume verlagert. Städtische Strukturen, in denen Wohn- und Gewerbegebiete eng miteinander verflochten sind, und die hohe Empfindlichkeit der Gesellschaft gegenüber nächtlichem Lärm haben die Kultur lauter Musik im Freien unterdrückt und die Eleganz geschlossener Räume wie Untergrundclubs, Veranstaltungsorte für Live-Musik und Hörbars gefördert.
 
 Seit den 1960er Jahren, mit der Verbreitung importierter Schallplatten und der Verbreitung von Audiogeräten, hat die „Hörumgebung“ selbst in Tokio einen kulturellen Wert erlangt. Musik ist sowohl zu einem gemeinsamen Erlebnis als auch zu einem Objekt geworden, das der Einzelne auswählen, sammeln und spielen kann. Aufgrund der geringen Größe der Stadt interessieren sich die Menschen mehr für die Auflösung von Tonbildern und für genreübergreifendes Wissen als für die Lautstärke.
 

@@ -27,7 +27,7 @@ Es gibt einen Flicker von Takayuki Shiraishi von Deep House. Dieser Track wurde 
 
 Darüber hinaus besticht „Tennis“ von JIN HIYAMA, das über einen elektrischen Breakbeat mit einzigartiger Textur verfügt, durch seinen rauen Sound und den spannenden Beat.
 
-Und schließlich ist „Storm“ von DOL-LOP enthalten, einer zentralen Figur von SOUND-CHANNEL, einem wichtigen Label, das zur japanischen Underground-Szene beigetragen hat. Dieser Track verfügt über einen einzigartigen und coolen Breakbeat, der ihm eine deutlich japanische Originalität verleiht.
+Und schließlich ist „Storm“ von DOL-LOP enthalten, einer zentralen Figur von SOUND-CHANNEL, einem wichtigen Label, das zur japanischen Underground-Szene beigetragen hat. Dieser Track verfügt über einen einzigartigen und coolen Breakbeat, der ihm ein einzigartiges japanisches Flair verleiht.
 
 Diese EP wurde als eines der wichtigsten Werke der japanischen Musikszene gefeiert. Sie werden die Essenz der damaligen Underground-Musik genießen können.
 

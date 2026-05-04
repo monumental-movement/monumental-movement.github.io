@@ -21,11 +21,11 @@ title: '[Kolumne] Grenzgeschichte von Performancekunst und Musik | Praktiken sei
 
 Text: mmr｜Thema: Eine ausführliche Studie, die die Geschichte nachzeichnet, wie sich Performancekunst und Musik überschnitten und Körper, Zeit und Raum neu definiert haben, und zwar ausschließlich auf der Grundlage von Fakten.
 
-Musik wird seit langem als eine Kombination aus dem Gestaltungsakt der Komposition und dem Reproduktionsakt der Aufführung verstanden. Dort standen Partituren im Mittelpunkt und Ton war lediglich die Umsetzung visualisierter Informationen. Im 20. Jahrhundert geriet diese Annahme jedoch schnell ins Wanken. Stadtlärm aufgrund der Industrialisierung, der Verbreitung der Aufnahmetechnologie und der Ausweitung der Populärkultur haben Klang von „einem zu kontrollierenden Objekt“ zu „etwas, das in der Umgebung existiert“ verwandelt.
+Musik wird seit langem als eine Kombination aus dem Gestaltungsakt der Komposition und dem Reproduktionsakt der Aufführung verstanden. Dort standen Partituren im Mittelpunkt und Ton war lediglich die Umsetzung visualisierter Informationen. Im 20. Jahrhundert geriet diese Annahme jedoch rasch ins Wanken. Stadtlärm aufgrund der Industrialisierung, der Verbreitung der Aufnahmetechnologie und der Ausbreitung der Populärkultur haben den Klang von „einem zu kontrollierenden Objekt“ zu „etwas, das in der Umgebung existiert“ verwandelt.
 
-Gleichzeitig gibt es im Bereich der Kunst eine wachsende Tendenz, mehr Wert auf den Produktionsprozess und die Handlung selbst zu legen als auf das fertige Objekt. Ereignisse, die außerhalb von Gemälden und Skulpturen stattfinden, der Lauf der Zeit und die Reaktionen des Publikums werden mittlerweile als Teil des Werks erkannt. Auch die Musik hatte mit diesem Trend nichts zu tun.
+Gleichzeitig gibt es im Bereich der Kunst eine zunehmende Tendenz, mehr Wert auf den Produktionsprozess und die Handlung selbst zu legen als auf das fertige Objekt. Ereignisse, die außerhalb des Gemäldes oder der Skulptur stattfinden, der Zeitablauf und die Reaktionen des Publikums werden mittlerweile als Teil des Werks erkannt. Auch die Musik hatte mit diesem Trend nichts zu tun.
 
-In diesem Kapitel werden wir den historischen Hintergrund zusammenfassen, der dazu führte, dass Klang über den Rahmen der Musik hinausging und als Handlungen und Situationen neu gedacht wurde, und die Prämissen jedes folgenden Kapitels klären.
+In diesem Kapitel werden wir den historischen Hintergrund ordnen, der dazu führte, dass Klang über den Rahmen der Musik hinausging und als Handlungen und Situationen neu gedacht wurde, und die Prämissen jedes folgenden Kapitels klären.
 
 > In dem Moment, in dem Klang als Handlung erkannt wurde, begann Musik auf einer Stufe mit Kunst zu stehen.
 
@@ -50,7 +50,7 @@ color: #fff;
 
 In Italien veränderten zu Beginn des 20. Jahrhunderts die rasche Industrialisierung und Urbanisierung die Sinneswelt der Menschen. Die Geräusche von Dampfmaschinen, Verbrennungsmotoren und Fabriken erfüllten die Stadt mit einem Schalldruck und einer Beständigkeit, die bis dahin in der Musik unvorstellbar waren. Futuristische Künstler betrachteten diesen Wandel eher als Fortschritt denn als Dekadenz und versuchten aktiv, ihn von künstlerischer Seite zu bestätigen.
 
-Das von Luigi Russolo konzipierte Intonalmoli ist ein Gerät, das sich eher auf die Klangfarbe und Textur des Geräusches als auf die Tonhöhe konzentriert. Das Spielen durch Drehen eines Griffs und Betätigen eines Hebels ähnelte eher dem Bedienen einer Maschine als dem Spielen eines Musikinstruments und hinterließ einen starken visuellen Eindruck. Das Publikum hört die Klänge und wird gleichzeitig Zeuge der körperlichen Bewegungen der Darsteller.
+Das von Luigi Russolo konzipierte Intonalmoli ist ein Gerät, das sich eher auf die Klangfarbe und Textur von Geräuschen als auf die Tonhöhe konzentriert. Das Spielen durch Drehen eines Griffs und Betätigen eines Hebels ähnelte eher dem Bedienen einer Maschine als dem Spielen eines Musikinstruments und hinterließ einen starken visuellen Eindruck. Das Publikum hört die Klänge und wird gleichzeitig Zeuge der körperlichen Bewegungen der Darsteller.
 
 Schon hier wurde Musik nicht nur als etwas Hörbares, sondern als Gesamtakt auf der Bühne präsentiert.
 
@@ -72,7 +72,7 @@ Diese Haltung wurde später zum Prototyp für offene Strukturen in der improvisi
 
 ## Kapitel 3: John Cage und der Wendepunkt des Schweigens
 
-John Cage stellte grundsätzlich die Prämisse in Frage, dass der Komponist die Hauptperson ist, die Musik komponiert. In „4 Minuten 33 Sekunden“ ist der Darsteller auf der Bühne anwesend, macht aber keine absichtliche Aussprache. Dadurch wird das Publikum gezwungen, auf Umgebungsgeräusche zu achten, die es zuvor ignoriert hat.
+John Cage stellte grundsätzlich die Prämisse in Frage, dass der Komponist das Subjekt der Musik sei. In „4 Minuten 33 Sekunden“ ist der Darsteller auf der Bühne anwesend, macht aber keine absichtliche Aussprache. Dadurch wird das Publikum gezwungen, auf Umgebungsgeräusche zu achten, die es zuvor ignoriert hat.
 
 Diese Struktur verlagerte den Schwerpunkt vom Akt des „Schaffens“ von Musik zum Akt des „Hörens“. Ein Werk entsteht nicht durch seinen klanglichen Inhalt, sondern durch seinen Zeitrahmen und die Art und Weise, wie es die Aufmerksamkeit lenkt.
 
@@ -84,9 +84,9 @@ Diese Idee steht in direktem Zusammenhang mit der späteren Idee des Framings in
 
 ## Kapitel 4: Fluxus und die Musikalisierung alltäglicher Handlungen
 
-Der größte Wendepunkt, den Fluxus darstellte, war der Abbau der besonderen Fähigkeit des „Musikspielens“. Die Event-Partitur wurde als eine Reihe von Anweisungen geschrieben, die von jedem ohne spezielle Ausbildung ausgeführt werden können. Dabei kommt es eher auf die Tatsache an, dass die Handlung ausgeführt wird, als auf Genauigkeit oder Vollständigkeit.
+Der größte Wendepunkt, den Fluxus darstellte, war der Abbau der besonderen Fähigkeit des „Musikspielens“. Die Veranstaltungspartitur wurde als eine Reihe von Anweisungen geschrieben, die von jedem ohne spezielle Ausbildung ausgeführt werden können. Dabei wird Wert auf die Tatsache gelegt, dass die Handlung ausgeführt wird, und nicht auf Genauigkeit oder Vollständigkeit.
 
-Beispielsweise weichen Handlungen wie das Stehen für eine bestimmte Zeitspanne, das Bewegen eines Gegenstands oder das Öffnen und Schließen eines Deckels völlig von herkömmlichen musikalischen Werturteilen ab. Die subtilen Klänge, die Stille und die visuelle Spannung, die dieser Auftritt erzeugte, fesselten jedoch die Aufmerksamkeit des Publikums stark.
+Beispielsweise weichen Handlungen wie das Stehen über einen bestimmten Zeitraum, das Bewegen eines Gegenstands oder das Öffnen und Schließen eines Deckels völlig von herkömmlichen musikalischen Werturteilen ab. Die subtilen Klänge, die Stille und die visuelle Spannung, die dieser Auftritt erzeugte, fesselten jedoch die Aufmerksamkeit des Publikums stark.
 
 Bevor Musik eine akustische Kunst war, wurde sie als ein Akt mit einer zeitlichen Struktur neu definiert. Die Praxis des Fluxus stand in direktem Zusammenhang mit der späteren Konzeptkunst und Performancekunst.
 
@@ -134,7 +134,7 @@ In der elektronischen Musik ist Performance nicht nur der Akt der Klangerzeugung
 
 In der Clubkultur ist das Musikerlebnis kein individuelles Erlebnis, sondern ein kollektiver Akt. Die DJ-Kabine ist sowohl Bühne als auch Kontrollraum. Die Auswahl einer Schallplatte und die Bedienung des Mischpults stehen in direktem Zusammenhang mit den körperlichen Reaktionen des Publikums.
 
-Auf der Tanzfläche synchronisieren sich einzelne Körper zum Rhythmus und bilden eine kollektive Wellenbewegung. Hier wird Musik zum Antriebsmittel des gesamten Raumes und das Publikum selbst zum Träger der Aufführung.
+Auf der Tanzfläche synchronisieren sich einzelne Körper zum Rhythmus und bilden eine kollektive Wellenbewegung. Hier wird Musik zum Antriebsmittel für den gesamten Raum und das Publikum selbst zum Träger der Aufführung.
 
 > Wenn das Publikum zu Teilnehmern wird, verschwindet die Bühne.
 

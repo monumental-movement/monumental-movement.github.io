@@ -15,7 +15,7 @@ title: Funkadelic – steht kurz davor, es in die Tat umzusetzen
 
 „Standing on the Verge of Getting It On“ ist ein Album der amerikanischen Funkband Funkadelic. Dieses Album wurde 1974 veröffentlicht. Funkadelic ist eine von George Clinton geleitete Gruppe, deren Musik für ihren psychedelischen Funk-Sound und ihren experimentellen Ansatz bekannt ist.
 
-Es ist Funkadelics sechstes Studioalbum und bietet den charakteristischen Funk-Sound und den gefühlvollen Gesang der Gruppe. Das Album bietet den unverwechselbaren Sound von Funkadelic, einschließlich lebendiger Gitarrenriffs, grooviger Basslinien und schwerer Schlagzeugmuster.
+Es ist Funkadelics sechstes Studioalbum und bietet den charakteristischen Funk-Sound und den gefühlvollen Gesang der Gruppe. Das Album bietet den unverwechselbaren Sound von Funkadelic, einschließlich lebhafter Gitarrenriffs, grooviger Basslinien und schwerer Schlagzeugmuster.
 
 #### Trackliste
 ```md

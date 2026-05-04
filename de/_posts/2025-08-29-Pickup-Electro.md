@@ -11,20 +11,20 @@ tags:
 - 80s
 - 90s
 - 00s
-title: Elektroarbeiten abholen
+title: エレクトロ（Electro）作品をピックアップ
 ---
 
 
-„Eine Sammlung von Elektrowerken, in denen die Cyber-Fantasie der 1980er Jahre bis heute tanzt.“
+「80年代のサイバー幻想が、今も踊り続けている、エレクトロ（Electro）作品群」
 
 <hr>
 
 ### Afrika Bambaataa & The Soulsonic Force – Planet Rock
 <a href="https://jp.mercari.com/item/m43312143517?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20&%20The%20Soulsonic%20Force%20%E2%80%93%20Planet%20Rock.webp"></a>
 
-Punkt: Ein historisches Meisterwerk, das als Grundpfeiler der Elektromusik gelten kann. Ein Song, der Hip-Hop und Tanzmusik mit einem Synthesizer-Riff und einem Gesangssample verbindet. Dieses Werk wird noch heute als „futuristischer Hip-Hop“ bezeichnet, der zusammen mit der Breakdance-Kultur florierte.
+ポイント：エレクトロの礎とも言える歴史的名曲。シンセサイザーリフとボーカルサンプルにより、ヒップホップとダンスミュージックの橋渡しを果たした一曲。「ブレイクダンス・カルチャーと共に隆盛した“未来的ヒップホップ”」として今なお語り継がれている作です。
 
-Attraktion: Ursprünge von Elektro, futuristischem Hip-Hop
+魅力：エレクトロの原点、未来的ヒップホップ
 
 #### Trackliste
 ```md
@@ -48,9 +48,9 @@ B. Planet Rock (Instrumental)
 <a href="https://jp.mercari.com/item/m28101658653?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20And%20Westbam%20%E2%80%93%20Agharta.webp"></a>
 
 
-Point: Kollaborations-EP von Low Spirit aus Deutschland veröffentlicht. Afrika Bambaataa und West Bum schwingen zusammen und erzeugen einen fantastischen Klang, der eine „unterirdische Stadtlandschaft“ darstellt. Dieses Album enthält mehrere Remixe, sodass Sie die Schnittstelle zwischen Elektro und Techno genießen können.
+ポイント：ドイツのLow SpiritからリリースされたコラボEP。アフリカ・バンバータとウエストバムが共鳴し、“サブテラニアンな都市風景”を描く幻想的なサウンドが展開されます。複数のリミックスが収録されており、エレクトロとテクノの交差点を楽しめる一枚。
 
-Charme: Electro x Techno, fantastische Zusammenarbeit
+魅力：エレクトロ×テクノ幻想的コラボ
 
 
 #### Trackliste
@@ -71,12 +71,12 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 <br>
 
 
-### Arthur Baker vs. Rennie Pilgrem – Like No Other (Remixe)
+### Arthur Baker vs. Rennie Pilgrem – Like No Other (Remixes)
 <a href="https://jp.mercari.com/item/m55195821890?afid=6142608987"><img src="../assets/images/Arthur%20Baker%20Vs%20Rennie%20Pilgrem%20%E2%80%93%20Like%20No%20Other%20(Remixes).webp"></a>
 
-Highlights: Ein Remix-Album des Elektro-Pioniers Arthur Baker, rekonstruiert im Big-Beat- und Elektro-Stil vom britischen Breakbeat-Schwergewicht Rennie Pilgrem. Die Attraktion sei „eine Neuinterpretation zweier Menschen, die eine Brücke zwischen Elektro und Hip-Hop geschlagen haben“.
+ポイント：エレクトロの先駆者Arthur Bakerが、UKのブレイクビーツ重鎮Rennie Pilgremの手でビッグビート＆エレクトロ風に再構築されたリミックス盤。「Electroとヒップホップの架け橋を築いた人物同士による新解釈」が魅力です。
 
-Charme: Elektro-Pioniergeist durch Remix wiederbelebt
+魅力：リミックスで蘇るエレクトロ先駆性
 
 
 #### Trackliste
@@ -99,9 +99,9 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Punkt: „Side B“ ist ein düsterer Song mit besonders starkem Elektro-Feeling. Eine „mechanische Spannung“ weht durch die ruhige Atmosphäre und entführt Sie in eine kühle, aber tiefgründige Weltanschauung.
+ポイント：「Side B」が特に強烈なエレクトロ感を発揮するダークな一曲。静謐な空気の中で“機械的な緊張感”が漂い、クールかつ奥深い世界観に引き込まれます。
 
-Charme: Dunkler und angespannter Elektro
+魅力：ダークで緊張感漂うエレクトロ
 
 
 #### Trackliste
@@ -124,9 +124,9 @@ B. Video Hi 8 (Instrumental)
 ### Beroshima – Dance The Machine
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp"></a>
 
-Point: Eine Veröffentlichung von Frank Müller des 1994 gegründeten deutschen Electro-Projekts Beroshima. Auch Ulrich Schnauss war dabei und ihr Electro-Sound ist eine Fusion aus minimalistischen und Disco-Ansätzen.
+ポイント：1994年に結成されたジャーマン・エレクトロプロジェクトBeroshimaのFrank Mullerによるリリース。Ulrich Schnaussも参加していたことがあり、ミニマル＆ディスコ的アプローチが融合されたエレクトロサウンドが特徴です。
 
-Charme: Minimal und Disco-Elektro
+魅力：ミニマル＆ディスコ的エレクトロ
 
 
 #### Trackliste
@@ -153,9 +153,9 @@ B2. Dance The Machine (Disco Club Mix)
 ### Ugra & Albrecht – Retouched EP
 <a href="https://jp.mercari.com/item/m46595455712?afid=6142608987"><img src="../assets/images/Ugra%20&%20Albrecht%20%E2%80%93%20Retouched%20EP.webp"></a>
 
-Punkt: Ein Projekt der deutschen Produzenten Sertac Ugra und Sören Albrecht. Dies ist ein seltener Track, der Elektro und House mit einem raffinierten House-Feeling und einer Elektro-Note kombiniert.
+ポイント：ドイツ人プロデューサーSertac UgraとSören Albrechtによるプロジェクト。エレクトロとハウスが融合した希少なトラックで、洗練されたハウス感とエレクトロ的エッジが同居しています。
 
-Reiz: Anspruchsvoller Electro-X-House-Track
+魅力：エレクトロ×ハウスの洗練トラック
 
 #### Trackliste
 ```md
@@ -179,9 +179,9 @@ B. Schmetterball
 ### Del Costa & Pedro Goya – Freaky Mike
 <a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%93%20Freaky%20Mike.webp"></a>
 
-Highlights: Ein Werk eines erfahrenen portugiesischen Produzentenduos. Enthält die Original- und Remix-Versionen, sodass Sie minimalistische und tanzbare Electro-Tracks genießen können.
+ポイント：ポルトガルのベテランプロデューサーデュオによる作品。オリジナルとRemixバージョンを収録し、ミニマルでダンサブルなエレクトロ系トラックが楽しめます。
 
-Charme: Minimaler und tanzbarer Elektro
+魅力：ミニマルでダンサブルなエレクトロ
 
 
 #### Trackliste

@@ -14,7 +14,7 @@ title: O’Yaba – Eine Stiftung
 ---
 
 
-O'Yaba ist eine achtköpfige südafrikanische Reggae-Gruppe unter der Leitung von Tshidiso Alexis Faku, die Anfang der 1990er Jahre gegründet wurde. Sie schufen einen einzigartigen Reggae-Sound, der jamaikanische Einflüsse mit einem unverwechselbaren südafrikanischen Touch verband und sowohl national als auch international populär wurde.
+O'Yaba (オ ヤ バ), 90 Jahre später, Tshidiso Alexis Faku schufen einen einzigartigen Reggae-Sound, der jamaikanische Einflüsse mit einem unverwechselbaren südafrikanischen Touch verband und sowohl national als auch international populär wurde.
 
 „One Foundation“ ist ein Reggae/afrikanisches Album, das 1994 vom Label QUATTRO veröffentlicht wurde.
 

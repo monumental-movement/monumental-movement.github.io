@@ -59,7 +59,7 @@ Ihre Werke waren oft anstößig und gesellschaftlich inakzeptabel. Dabei handelt
 
 „Prostitution“, die 1976 am Institute of Contemporary Arts in London stattfand, ist ein symbolisches Ereignis. Die Ausstellung löste einen solchen Aufruhr aus, dass sie im britischen Parlament debattiert wurde und sie als „Zerstörer der Zivilisation“ beschimpft wurden.
 
-Der wichtige Punkt ist jedoch, dass sie bereits hier die „Grenzen des Ausdrucks“ in Frage stellten. Musik ist nur ein nachträglich ausgewähltes Medium.
+Wichtig ist jedoch, dass sie bereits hier die „Grenzen des Ausdrucks“ in Frage stellten. Musik ist nur ein nachträglich ausgewähltes Medium.
 
 COUM nutzten ihre Körper, nicht ihre Geräusche, um mit der Gesellschaft in Konflikt zu geraten. Throbbing Gristle war derjenige, der das in Klang übersetzte.
 
@@ -95,7 +95,7 @@ Diese Entscheidung war äußerst wichtig. Ihre Arbeit wurde damals von den groß
 
 Sie verwalteten die gesamte Aufnahme, Produktion, den Vertrieb und den Verkauf selbst. Diese völlige Autonomie wurde zum Grundmodell für die spätere freie Szene.
 
-Industrial Records war mehr als nur ein Label, es war ein Expansionsinstrument für Ideen. Nicht nur die Musik, sondern auch die visuelle Gestaltung, der Text, das Logo und die Verpackung wurden nach einem einheitlichen Konzept gestaltet.
+Industrial Records war mehr als nur ein Label, es war ein Erweiterungsinstrument für Gedanken. Nicht nur die Musik, sondern auch die visuelle Gestaltung, der Text, das Logo und die Verpackung wurden nach einem einheitlichen Konzept gestaltet.
 
 Darüber hinaus breitete sich der Einfluss über dieses Label auf andere Künstler aus. Von diesem Zeitpunkt an entwickelte sich der Begriff „industriell“ zu einer konkreten Bewegung.
 
@@ -112,7 +112,7 @@ Sie konzentrierten sich nicht auf das Spielen von Instrumenten. Stattdessen nutz
 
 Wichtig ist, dass es sich nicht nur um Effekte handelt, sondern als „Klänge selbst“ behandelt werden.
 
-„Der Zweite Jahresbericht“ ist ein symbolisches Werk. Dieses Album besteht aus Live-Aufnahmen und einer Sammlung fragmentierter Klänge und demontiert das traditionelle Konzept eines „Liedes“.
+``The Second Annual Report'' is a symbolic work. Dieses Album besteht aus Live-Aufnahmen und einer Sammlung fragmentierter Klänge und demontiert das traditionelle Konzept eines „Liedes“.
 
 Darüber hinaus integriert „20 Jazz Funk Greats“ bewusst eine Pop-Struktur und bettet gleichzeitig ein Gefühl des Unbehagens ein.
 
@@ -125,13 +125,13 @@ Dies war ein äußerst strategischer Wandel. Indem sie „Musik präsentieren, d
 
 ## Live: Ein Raum, um die Grenzen Ihrer Sinne zu testen
 
-Throbbing Gristle live zu sehen war ein völlig anderes Erlebnis als ein traditionelles Konzert.
+Throbbing Gristle live zu sehen war eine völlig andere Erfahrung als ein traditionelles Konzert.
 
 Geräusche sind laut und wiederholen sich, Bilder sind verstörend und Worte werden provokativ gesprochen. Das Publikum darf nicht „genießen“, sondern muss es ertragen.
 
 Das ist kein Zufall. Sie testeten bewusst die Grenzen der Sinne und der Psychologie des Publikums.
 
-Darüber hinaus hatte jede Live-Aufführung eine andere Struktur, war stark improvisiert und hatte eine geringe Reproduzierbarkeit. Mit anderen Worten, er weigerte sich, als Kunstwerk fixiert zu werden.
+Darüber hinaus hatte jede Live-Aufführung eine andere Struktur, war stark improvisiert und hatte eine geringe Reproduzierbarkeit. Mit anderen Worten: Er weigerte sich, als Kunstwerk fixiert zu werden.
 
 Dieser Ansatz sollte später Live-Erlebnisse in der Lärm-, Industrie- und sogar Clubkultur beeinflussen.
 

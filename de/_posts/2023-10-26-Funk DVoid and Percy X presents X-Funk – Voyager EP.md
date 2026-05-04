@@ -9,11 +9,11 @@ permalink: /de/funk-dvoid-and-percy-x-presents-x-funk-voyager-ep/
 tags:
 - Techno
 - Acid
-title: Funk D'Void & Percy X präsentieren X-Funk – Voyager EP
+title: Funk D'Void & Percy X presents X-Funk – Voyager EP
 ---
 
 
-Acid Techno, veröffentlicht auf dem Soma-Label von X-Funk, einem Projekt des Techno/Tech-House-DJs/Produzenten Funk D'Void (Lars Sandberg) und DJ Percy X (Tony Scott) aus Glasgow, Schottland.
+スコットランド・グラスゴー出身のテクノ/テックハウスDJ・プロデューサーFunk D'Void（ファンク・ド・ヴォイド/Lars Sandberg）とDJ Percy X（パーシーX/Tony Scott/トニー・スコット）のプロジェクト、X-FunkがSomaレーベルからリリースしたアシッドテクノ。
 
 #### Trackliste
 ```md

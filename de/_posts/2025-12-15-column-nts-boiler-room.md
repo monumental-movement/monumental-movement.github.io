@@ -55,7 +55,7 @@ Ein Merkmal von NTS ist, dass es keinem bestimmten Genre einen Vorteil bei der P
 
 Boiler Room begann als Projekt zum Streamen kleiner Indoor-DJ-Events in London. Die Kamera betritt den gleichen Raum wie der DJ und zeichnet sich durch ein Format aus, das die Anwesenheit des Publikums einbezieht.
 
-Dieses Format unterscheidet sich von herkömmlichen Videoaufnahmen, bei denen eine Kamera hinter der DJ-Kabine platziert wird, dadurch, dass sich Publikum, Raum und Künstler alle im selben Bild befinden. Infolgedessen wurde der DJ-Auftritt als ein Ausdruck visualisiert, der „körperliches und soziales Verhalten“ umfasst, und nicht als ein Akt „nur des Klangs“.
+Dieses Format unterscheidet sich von herkömmlichen Videoaufzeichnungen, bei denen eine Kamera hinter der DJ-Kabine installiert ist, und hat eine Struktur, bei der sich Publikum, Raum und Künstler alle im selben Bild befinden. Infolgedessen wurde der DJ-Auftritt als ein Ausdruck visualisiert, der „körperliches und soziales Verhalten“ umfasst, und nicht als ein Akt „nur des Klangs“.
 
 ---
 
@@ -101,7 +101,7 @@ Extreme Bassklänge und subtile Dynamiken lassen sich beispielsweise in einer St
 
 NTS und Boiler Room haben ihre Sendungen archiviert und zum späteren Ansehen und Anhören zur Verfügung gestellt. Dieser Archivcharakter verwandelt Live-Auftritte von kurzlebigen Ereignissen in referenzierbare Materialien.
 
-Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit neu interpretieren, sondern auch durch späteres Anschauen.
+Die Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit, sondern auch durch das spätere Ansehen neu interpretieren.
 
 ---
 
@@ -159,7 +159,7 @@ Dies kann als „aufzeichnbare Bewegung“ angesehen werden.
 
 Traditionell wurde zwischen der Musikproduktion im Studio und dem Auftritt vor Ort unterschieden. In einer Live-Streaming-Umgebung verschwimmt diese Unterscheidung jedoch. Wohnungen, temporäre Räume, öffentliche Einrichtungen, Ateliers ohne Publikum usw. werden gleichzeitig zu Produktions- und Aufführungsräumen.
 
-Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen gerade produziertes Material oder unfertige Tonquellen so abgespielt wird, wie es im Programm ist. Gelegentlich veröffentlicht Boiler Room auch Live-Sets, die kurz vor den Proben stehen.
+Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen Material mitten in der Produktion oder unfertige Tonquellen so abgespielt werden, wie es im Programm enthalten ist. Gelegentlich veröffentlicht Boiler Room auch Live-Sets, die kurz vor den Proben stehen.
 
 > „Das Verschwinden von Studios und Locations befreite die Musik von der ‚Vorbereitung‘“
 
@@ -167,7 +167,7 @@ Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen gerade produzierte
 
 ## Ergänzendes Kapitel 3 Beispieldichte über Genres hinweg
 
-Betrachtet man die Aktivitäten von Live-Streaming-Künstlern, ist Cross-Genre eher die Regel als die Ausnahme. Fragmente aus Tanzmusik, Noise, Jazz, Volksmusik und Pop werden im selben Set verkettet.
+Betrachtet man die Aktivitäten von Live-Streaming-Künstlern, ist Cross-Genre eher die Regel als die Ausnahme. Fragmente aus Tanzmusik, Noise, Jazz, Volksmusik und Pop werden im selben Set aneinandergereiht.
 
 Dies ist eher ein Ergebnis veränderter Hörbedingungen im Vertriebsumfeld als eine bewusste Avantgarde. Das Hören über längere Zeiträume in einer privaten Umgebung ermöglicht schnelle Genrewechsel.
 
@@ -195,7 +195,7 @@ Wenn Bilder existieren, haben körperliche Bewegungen und räumliche Konfigurati
 
 Improvisation ist nicht chaotisch. Live-Streaming-Künstler entwerfen Improvisationen basierend auf Bedingungen wie Streaming-Zeit, Anzahl der Zuhörer und technischen Einschränkungen.
 
-Unbekanntheit erscheint eher als kontrollierte Ungewissheit als als reiner Zufall.
+Unbekanntheit erscheint eher als kontrollierte Ungewissheit als als purer Zufall.
 
 > „Bei der Improvisation geht es nicht darum, die Kontrolle zu verlieren, sondern darum, den Kontrollbereich wiederherzustellen.“
 

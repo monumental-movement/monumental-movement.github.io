@@ -9,16 +9,16 @@ permalink: /de/system-f-cry-remixes/
 tags:
 - Trance
 - Dutch Trance
-title: System F – Cry (Remixe)
+title: System F – Cry (Remixes)
 ---
 
 
-„System F – Cry (Remixe)“
-Der erste Titel auf Seite A ist ein Remix des italienischen Projekts CRW.
+「System F – Cry (Remixes)」の
+A面１曲目は、イタリアのプロジェクトCRWによるremix。
 
-Der erste Titel auf der B-Seite ist ein Remix von Oliver Lieb, einem DJ und Produzenten, der seit 1988 in der elektronischen Musikszene aktiv ist.
+B面１曲目は、1988 年からエレクトロニックミュージックシーンで活躍するDJ 兼プロデューサーOliver Lieb（オリバー リーブ）によるremix。
 
-Der zweite Track auf Seite B ist ein Self-Club-Mix von Ferry Corsten, auch bekannt als System F.
+B面２曲目はSystem FことFerry Corsten（フェリー・コーステン）によるセルフ・クラブミックス 。
 
 
 #### Trackliste

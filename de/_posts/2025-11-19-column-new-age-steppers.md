@@ -21,7 +21,7 @@ title: '[Kolumne] New Age Steppers: Die Revolution eines Action-Labels, das die 
 
 Text: mmr｜Thema: Über die Geschichte des „gemischten Teams“, das On-U Sound symbolisierte, und die Innovationen, die es hinterließ
 
-Obwohl die Punk-Explosion Ende der 1970er Jahre nachgelassen hatte, war die Gesellschaft in London noch immer von vielen Spaltungen wie Arbeitslosigkeit, Spaltung, Streiks und Diskriminierung von Einwanderern geplagt. Die Szene wirkte wie eine Einöde, doch ihre Spalten wurden zu einer Brutstätte der Musik.
+Auch wenn die Punk-Explosion Ende der 1970er Jahre in London nachgelassen hatte, war die Gesellschaft immer noch von vielen Spaltungen wie Arbeitslosigkeit, Spaltung, Streiks und Diskriminierung von Einwanderern geplagt. Die Szene wirkte wie eine Einöde, doch ihre Spalten wurden zu einer Brutstätte der Musik.
 Post-Punk-Künstler gingen schnell über das Rockformat hinaus und widmeten sich Dub, Reggae, afrikanischer Percussion, Noise, elektronischen Klängen und DIY-Aufnahmetechniken.
 
 Genau in dieser komplexen Zeit erhob sich ein junger Produzent namens **Adrian Sherwood** und begann, das riesige Netzwerk aufzubauen, das später als **On-U Sound** bekannt wurde.
@@ -73,7 +73,7 @@ Sherwood war seit den 1970er Jahren an Reggae-Labels und -Vertrieb beteiligt und
 Gleichzeitig interagierte er mit Post-Punk-Acts wie The Slits, The Pop Group, The Fall und Alternative TV und verstand intuitiv das „Misstrauen gegenüber dem bestehenden Musiksystem“, das sie empfanden.
 
 1979 gründete er **On-U Sound**, um seine Experimente zu maximieren.
-NAS war das früheste Symbol dafür und erweckte den Eindruck, dass „On-U Sound = ein grenzüberschreitendes DIY-Klanglabor“.
+NAS war das früheste Symbol dafür und erweckte den Eindruck, dass „On-U Sound = ein grenzüberschreitendes DIY-Soundlabor“.
 
 ---
 
@@ -97,7 +97,7 @@ Insbesondere die engen Grooves der Gruppe Roots Radics und die raue und wilde En
 Diese Fusion war damals selbst für Großbritannien schockierend.
 Dies liegt daran, dass es eine tiefe kulturelle Kluft zwischen der jamaikanischen Einwanderergemeinschaft und dem weißen Punk-/Avantgarde-Publikum in London gab und es nur sehr wenige Musikprojekte gab, die direkt miteinander interagierten.
 
-NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und einen Raum für Koproduktion zu schaffen.
+NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und Raum für Koproduktion zu schaffen.
 
 ---
 
@@ -133,7 +133,7 @@ Die Teilnahme von Mark Stewart verstärkte die Aufregung.
 
 ## ■ „Foundation Steppers“ (1983)
 
-Es ist der Reggae-ähnlicheste Song von NAS, mit einem stabileren Groove-Gefühl.
+Es ist der „Reggae-artigeste“ Song als NAS, und das Gefühl eines stabilen Grooves nimmt zu.
 Diese Arbeit hat auch starke gesellschaftspolitische Themen.
 
 ## ■ „Liebe für immer“ (2012)
@@ -204,7 +204,7 @@ Auch wenn NAS politische Texte nicht direkt veröffentlichte, war „Musik mache
 Nach „Foundation Steppers“ von 1983 wurden die Arbeiten unter dem Namen NAS eingestellt.
 Aber sein Einfluss breitete sich weit und breit aus.
 
-## ● Betroffenes Gebiet
+## ● Betroffener Bereich
 
 * Bristols Massive Attack, Tricky, Smith & Mighty
 * UK Dub, Digital Dub

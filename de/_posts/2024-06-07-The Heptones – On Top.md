@@ -10,15 +10,15 @@ tags:
 - Reggae
 - Rocksteady
 - Rare
-title: Die Heptones – On Top
+title: The Heptones – On Top
 ---
 
 
-Die Heptones waren ein jamaikanisches Rocksteady- und Reggae-Gesangstrio, das in den 1960er und frühen 1970er Jahren am aktivsten war.
+The Heptones（ヘプトーンズ）は、1960年代から1970年代初頭にかけて最も活躍したジャマイカのロックステディとレゲエのボーカルトリオ。
 
-Die Heptones waren Zeitgenossen der Wailers und der Maytals und galten Mitte der 1960er Jahre als ihresgleichen.
+The Heptonesは、the Wailers（ウェイラーズ）やthe Maytals（メイタルズ）と同時代人で、1960年代半ばに彼らに匹敵する存在として知られていた。
 
-„On Top“ ist ein Album, das von Studio One veröffentlicht wurde, einem jamaikanischen Aufnahmestudio und Label, das den Grundstein für jamaikanische Popmusikstile wie Ska, Rocksteady und Reggae legte. Dieses Album ist auch als Best Of The Heptones bekannt.
+「On Top」は、スカ、ロックステディ、レゲエをはじめジャマイカのポピュラー音楽スタイルの基礎を築いたジャマイカのレコーディングスタジオ＆レーベルStudio One(スタジオ・ワン)からリリースされたアルバム。このアルバムは、別名Best Of The Heptones（ベスト・オブ・ザ・ヘプトーンズ）とも言われている。
 
 #### Trackliste
 ```md

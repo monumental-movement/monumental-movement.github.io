@@ -17,7 +17,7 @@ title: Funkadelic – Lass es uns auf die Bühne bringen
 
 „Let's Take It to the Stage“ zeichnet sich durch einen groovigen Funk-Beat und kraftvolles Gitarrenspiel aus und spiegelt Funkadelics experimentellen Ansatz und dynamische Performance wider.
 
-„Get Off Your Ass and Jam“ und „Stuffs and Things“ zeigen die musikalische Vielfalt und Kreativität von Funkadelic und verkörpern ihren experimentellen Sound und einzigartigen Stil.
+„Get Off Your Ass and Jam“ und „Stuffs and Things“ zeigen Funkadelics musikalische Vielfalt und Kreativität und verkörpern ihren experimentellen Sound und einzigartigen Stil.
 
 #### Trackliste
 ```md

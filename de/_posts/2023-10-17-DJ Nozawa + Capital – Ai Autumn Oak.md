@@ -12,9 +12,9 @@ title: DJ Nozawa + Capital – Ai Autumn Oak
 ---
 
 
-DJ NOZAWA gilt als einer der besten Turntablisten Japans. 1998 schloss er sich der von Shing02 geleiteten Schöpfergruppe Terracotta Troops an und beteiligte sich 1999 an der Veröffentlichung von „Yokuyokuren“. 1997 und 1998 vertrat er zwei Jahre in Folge DMC Japan.
+DJ NOZAWAは、日本最高のターンテーブリストの一人とされている。98年にShing02率いるクリエーター集団Terracotta Troopsに加入し、99年にリリースされた『緑黄色人種』に参加。97年と98年には、二年連続DMC日本代表となる。
 
-„Ai / Autumn Oak“ ist eine Zusammenarbeit zwischen DJ Nozawa und Capital (Jonathan Patterson), veröffentlicht im Jahr 2003.
+「Ai / Autumn Oak」は、2003年にリリースされたDJ NozawaとCapital（Jonathan Patterson）の共作。
 
 #### Trackliste
 ```md

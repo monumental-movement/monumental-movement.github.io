@@ -9,7 +9,7 @@ permalink: /de/pickup-punk-hardcore/
 tags:
 - Punk
 - Hardcore
-title: Nimm Punk-/Hardcore-Werke auf
+title: パンク／ハードコア作品をピックアップ
 ---
 
 

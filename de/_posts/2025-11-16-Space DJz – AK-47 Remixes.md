@@ -10,11 +10,11 @@ tags:
 - Techno
 - Electro
 - 90s
-title: Space DJz – AK-47 Remixe
+title: Space DJz – AK-47 Remixes
 ---
 
 
-Eine 2-Disc-Sammlung von Remixen von „AK-47“, veröffentlicht 1998 vom in London ansässigen britischen Techno-DJ/Produzenten-Duo Space DJz, von Chris McCormack, Oliver Ho, The Advent, Inigo Kennedy, Umek, Gaetek und anderen.
+ロンドンを拠点とするイギリスのテクノDJ／プロデューサーデュオSpace DJzが1998年にリリースした「AK-47」をChris McCormack 、Oliver Ho、The Advent、Inigo Kennedy、Umek、Gaetekらがremixしたリミックス集2枚組。
 
 #### Trackliste
 ```md

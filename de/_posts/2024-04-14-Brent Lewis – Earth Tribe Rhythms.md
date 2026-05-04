@@ -13,7 +13,7 @@ title: Brent Lewis – Earth Tribe Rhythms
 ---
 
 
-Brent Lewis ist ein Perkussionist und Schlagzeuger, der im Laufe der Jahre mit vielen berühmten Künstlern gespielt hat.
+Brent Lewis ist ein Percussionist und Schlagzeuger, der im Laufe der Jahre mit vielen berühmten Künstlern gespielt hat.
 
 Das zweite Lied, Ode to Buckwheat, war im Originalsoundtrack von Oliver Stones Film JFK enthalten.
 

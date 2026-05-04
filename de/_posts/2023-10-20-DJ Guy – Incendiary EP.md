@@ -13,7 +13,7 @@ title: DJ Guy – Incendiary EP
 ---
 
 
-DJ Guy ist ein in London ansässiger DJ und Produzent sowie Inhaber des Labels Global Fire, das sich auf Detroit Booty und Chicago Ghetto House spezialisiert hat.
+DJ Guyは、ロンドンを拠点とする DJ 兼プロデューサーであり、Detroit booty（デトロイト・ブーティー）やChicago Ghetto House （シカゴゲットー ハウス）専門のGlobal Fireレーベルのオーナー。
 
 #### Trackliste
 ```md

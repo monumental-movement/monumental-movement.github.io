@@ -11,12 +11,12 @@ tags:
 - Rock
 - Pops
 - 60s
-title: Die Walker Brothers – Die Sonne wird nicht mehr scheinen (Baby) Du musst es
-  mir nicht sagen
+title: The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have
+  To Tell Me
 ---
 
 
-Die Walker Brothers sind eine in den 1960er Jahren in Los Angeles gegründete Gesangsgruppe.
+The Walker Brothers(ザ・ウォーカー・ブラザーズ )は、1960年代にロサンゼルスで結成されたボーカルグループ。
 
 #### Trackliste
 ```md

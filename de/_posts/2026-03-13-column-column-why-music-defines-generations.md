@@ -32,7 +32,7 @@ Um die Emotionen des Ereignisses im Gedächtnis festzuhalten, bedarf es eines Me
 Die Musik hat dabei die stärkste Rolle gespielt.
 
 Musik ist eine Kunst, die mit der Zeit verbunden ist und gleichzeitig von Emotionen begleitet wird.
-Viele Menschen haben das Phänomen erlebt, dass sie beim Hören eines bestimmten Liedes sofort die Landschaft und die Emotionen einer bestimmten Epoche wiedererleben.
+Viele Menschen haben das Phänomen erlebt, dass sie beim Hören eines bestimmten Liedes sofort die Szenerie und die Emotionen einer bestimmten Epoche wiedererleben.
 
 Dieses Erinnerungssystem hat Musik zum Symbol einer Generation gemacht.
 
@@ -107,7 +107,7 @@ Neue Musikmedien haben immer neue Kulturgenerationen hervorgebracht.
 | 2010er | Streaming | Algorithmus-Ära |
 
 Das Radio zum Beispiel verwandelte die Musik von der lokalen in die nationale Kultur.
-Die Erfahrung, zur gleichen Zeit dasselbe Lied zu hören, schafft eine gemeinsame Generationenerinnerung.
+Die Erfahrung, zur gleichen Zeit dasselbe Lied zu hören, schafft eine gemeinsame generationsübergreifende Erinnerung.
 
 In den 1970er Jahren schufen Kassetten eine persönlichere Musikkultur.
 Mixtapes wurden zu einem Mittel, um die persönliche Identität auszudrücken.
@@ -158,8 +158,8 @@ Musik ist nicht nur ein Ausdruck, sondern auch eine Reaktion auf soziale Situati
 
 Auch Musik hat einen starken Einfluss auf die Bildung der individuellen Identität.
 
-Psychologische Untersuchungen zeigen, dass sich Menschen am stärksten an die Musik erinnern, wenn sie sie im späten Teenageralter oder frühen Zwanzigerjahren hörten.
-Dieser Zeitraum ist eine wichtige Phase in der Persönlichkeitsentwicklung und musikalische Erlebnisse sind wahrscheinlich mit dem Langzeitgedächtnis verbunden.
+Psychologische Untersuchungen zeigen, dass sich Menschen am stärksten an die Musik erinnern, wenn sie sie in ihren späten Teenagerjahren oder frühen Zwanzigern hörten.
+Dieser Zeitraum ist eine wichtige Phase in der Persönlichkeitsentwicklung und musikalische Erlebnisse sind wahrscheinlich mit dem Langzeitgedächtnis verknüpft.
 
 Daher empfinden die Menschen die Musik ihrer Jugend als „ihre eigene Musik“.
 
@@ -236,7 +236,7 @@ C --> D[世代文化の分散]
 Dennoch bleibt die Kraft der Musik bestehen, eine Generation zu symbolisieren.
 
 Die Internetkultur schafft neue Formen generationsübergreifender Musik.
-Soziale Medien und Videoplattformen verbreiten blitzschnell neue Musiktrends.
+Soziale Medien und Videoplattformen verbreiten neue Musiktrends sofort.
 
 > Auch im Streaming-Zeitalter prägt Musik weiterhin Generationen, allerdings auf vielfältigere Weise.
 

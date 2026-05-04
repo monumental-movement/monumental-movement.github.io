@@ -16,7 +16,7 @@ title: Hiroyuki Oda – Rise Cataract
 Hiro Kanzaki, auch bekannt als Hiroyuki Oda
 ist ein Clubmusiker und Animator.
 
-„Rise / Cataract“ ist ein Trance-Track, der 2007 von A State Of Trance veröffentlicht wurde, einem Sublabel von Armada Music des niederländischen Trance-DJ/Produzenten Armin van Buuren.
+„Rise / Cataract“ ist ein Trance-Track, der 2007 von A State Of Trance veröffentlicht wurde, einem Sublabel von Armada Music des niederländischen Trance-DJs/Produzenten Armin van Buuren.
 
 Als Illustrator hat er Bücher wie die Light Novel „My Little Sister Can't Be This Cute“ von Tsukasa Fushimi illustriert und als Musiker zahlreiche Werke von Sevensenses Recordings und Otographic Music veröffentlicht.
 

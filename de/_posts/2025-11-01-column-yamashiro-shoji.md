@@ -60,7 +60,7 @@ Der Moment, in dem Körper, Stimme, Raum und Zeit zusammenkommen, um in Resonanz
 ## Kapitel 2: 80 Arten von „Gruppenklängen“ aus aller Welt – Suche nach einer universellen musikalischen Struktur
 
 Geino Yamashiro-gumi war von Ende der 1970er bis in die 1980er Jahre aktiv.
-Er hat tatsächlich **„80 Arten ethnischer Darbietungen aus der ganzen Welt“ aufgeführt und recherchiert.
+Er hat tatsächlich „80 Arten ethnischer Darbietungen aus der ganzen Welt“ aufgeführt und recherchiert.
 Dies war nicht nur eine Sammlung von Volksmusik, sondern eine Untersuchung der grundlegenden Frage: „Welchen Klang erzeugen Menschen als Gruppe?“
 
 ### ◇ Beispiele für Forschungs-/Leistungsziele
@@ -103,7 +103,7 @@ Es beeinflusste auch spätere weltberühmte Künstler wie Aphex Twin, Ryuichi Sa
 Nach „AKIRA“ entwickelte Yamashiro parallel zu seiner künstlerischen Tätigkeit das Konzept der „Environmental Studies of Sound“.
 Er betrachtete Schall nicht nur als Hörreiz, sondern als „Kontaktpunkt zwischen Information und Ökologie“.
 
-### ◇ Hauptwerke und Ideen
+### ◇ Hauptwerke und Gedanken
 
 | Buchtitel | Verlag/Jahr | Inhaltszusammenfassung | Link |
 |------|-------------|------------|

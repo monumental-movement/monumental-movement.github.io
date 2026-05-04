@@ -11,51 +11,50 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: '[Kolumne] Was ist Deep House? ─ Erkunden Sie die Tiefe des Klangs, der die
-  Temperatur von Soul und Jazz mit House verbindet'
+title: 【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る
 ---
 
 
-## Zunächst einmal: Was ist Deep House?
+## そもそもディープ・ハウスとは？
 
 
-Text: mmr｜Thema: Deep House, ein Genre, das sich stillschweigend weiterentwickelt und dabei Geschichte und Kontext einbezieht.
+文：mmr｜テーマ：歴史と文脈を編み込みながら、静かに進化を続けるジャンル ― Deep House。
 
-Deep House ist eine House-Variante, die Ende der 1980er Jahre im Raum Chicago-New Jersey entstand. Es zeichnet sich durch Soul-/Jazz-Harmonien, sanfte Bässe und einen zurückhaltenden Groove aus und ist eine Art Tanzmusik, die „tief und lang ist und den Körper wärmt“ und kein rauschender Höhepunkt ist. Der BPM beträgt im Allgemeinen 118–124 (langsame bis mittlere Geschwindigkeit), 7./9. Akkorde, E-Piano (Rhodes), Orgel (Korg M1-Serie) und entspannter Gesang sind symbolisch. Es verfügt über eine „Nachttemperatur“, die sowohl für den Boden als auch für das Hören gilt.
+ディープ・ハウスは1980年代後半のシカゴ～ニュージャージー周辺で芽生えたハウスの系統。ソウル／ジャズの和声感、滑らかな低音、抑制の効いたグルーヴが特徴で、ラッシュなピークではなく「深く、長く、身体を温める」タイプのダンスミュージックです。BPMは概ね118–124（遅め～中速）、7th/9th系のコード、エレピ（Rhodes）やオルガン（Korg M1系）、レイドバックしたボーカルが象徴的。フロアでもリスニングでも成り立つ“夜の温度”を持っています。
 
 
 <hr>
 
-### Hintergrund und Entwicklung der Geburt
+### 誕生の背景と展開
 
-**1985–90: Early Early (Chicago/NJ)**
+**1985–90：原初期（Chicago/NJ）**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. In Anlehnung an [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) eine Fusion aus dem süßen Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) が「Can You Feel It」「Mystery of Love」で原型を提示。[Frankie Knuckles](https://amzn.to/4nUwWJ4)、[Marshall Jefferson](https://amzn.to/3KOf4AV)の流れを受け、Jersey Garageの甘いソウル感（[Blaze](https://amzn.to/4ooZuuc)、[Kerri Chandler](https://amzn.to/4qbd4CR)）が融合。
 
-**1990er Jahre: Vertiefung und Diversifizierung**
+**1990年代：深化と多様化**
 
-[Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp) aus Chicago, [Masters At Work (MAW)](https://amzn.to/3KTsg7y) aus New York und [Moodymann](https://amzn.to/4h9ZZWB) aus Detroit erweitern die „schwarze“ Textur. Die Zahl der Stützpunkte in Großbritannien und Deutschland wird zunehmen und so eine Brücke zwischen Deep und Tech schlagen.
+シカゴの[Ron Trent & Chez Damier（Prescription）](https://amzn.to/4nOApsp)、NYの[Masters At Work（MAW）](https://amzn.to/3KTsg7y)、デトロイトの[Moodymann](https://amzn.to/4h9ZZWB)が“黒い”質感を拡張。UKや独でも拠点が増え、ディープ×テックの橋渡しが起きる。
 
-**2000er Jahre: Hörorientierung und Kultiviertheit**
+**2000年代：リスニング志向と洗練**
 
 Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな洗練へ。ドイツ圏では[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq)、[Dixon（Innervisions）](https://amzn.to/4heIsN1)がミニマル～モダンな構築美で人気に。
 
-**2010er Jahre und darüber hinaus: Gabelung und Globalisierung**
+**2010年代以降：分岐とグローバル化**
 
-Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu. In Südafrika bringt Black Coffee Afro-Deep auf Weltklasseniveau. Mit der DIY-Welle sind auch Lo-Fi-Häuser auf dem Vormarsch.
+AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。南アではBlack Coffeeがアフロ・ディープを世界水準に。DIYの波でLo-fi Houseも勃興。
 
 
 <hr>
 
-### Musikalische Features
+### 音楽的特徴
 
-**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠Tragik“.
+**和声**：メジャー7th／9th、サスコード、多めのテンション。短調でも“哀愁≠悲壮”のニュアンス。
 
-**Beat**: Der Kick hat einen runden und tiefen Nachgeschmack. Die Hi-Hat ist ein Shuffle zu einem leichten Swing. Die Texturen 909/707/727 und 808 sind Standard.
+**ビート**：キックは丸く深い余韻。ハイハットはシャッフル～軽いスウィング。909/707/727や808質感が定番。
 
-**Bass**: Hauptsächlich wogende lange Noten mit sorgfältig kontrollierten Unterbändern.
+**ベース**：サブ帯域を丁寧にコントロールしたうねるロングノートが中心。
 
-**Tastatur/Textur**: Rhodes/M1-Orgel/sanfte Streicher, Raumtyp (Delay/Reverb) ist lang, aber nicht dicht.
+**鍵盤／質感**：Rhodes/M1オルガン/柔らかなストリングス、空間系（ディレイ/リバーブ）は長めでも密度は薄く。
 
 **Gesang**: Sprechen im tiefen bis mittleren Tonbereich, Gospel-to-Soul-Abstammung. Nutzen Sie „Pause“, indem Sie die erforderliche und ausreichende Anzahl an Wörtern verwenden.
 
@@ -93,7 +92,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Chicago Deep**: Schwerer Kick + Soul-Reverb. Beispiel: Mr. Fingers, Ron Trent.
 
-**Jersey/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
+**Jersey-/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
 
 **Detroit Deep**: Lo-Fi-Textur mit Jazz-Soul-Feeling. Beispiel: Moodymann, Theo Parrish (an der Grenze).
 
@@ -144,7 +143,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Hörkontext**: Nachtfahrt, Hintergrundmusik bei der Arbeit/Lernen, Cocktailzeit.
 
-**Ästhetik**: „Emotional vor Funktionalität“. Mehr Schatten als Glitzer.
+**Ästhetik**: „Emotional vor Funktionalität“. Mehr Schatten als Glanz.
 
 
 <hr>
@@ -155,7 +154,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Früher Höhepunkt**: Ron Trent/Chez Damiers treibende Kraft
 
-**Plateau**: Verfeinerung von Jimpster zu Freerange
+**Plateau**: Verfeinerung von Jimpster ~ Freerange
 
 **Farbwechsel**: Henrik Schwarzs Live-Feeling
 
@@ -183,7 +182,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ・Larry Heard präsentiert Mr. White – „The Sun Can’t Compare“
 
-・Kerri Chandler – „Atmosphäre“
+・Kerri Chandler – „Atmosphere“
 
 ・Ron Trent – ​​„Altered States“
 

@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - 90s
-title: Photon, Inc. – Project Blast
+title: Photon, Inc. – Projekt Blast
 ---
 
 
-Photon, Inc.は、シカゴ出身の DJ・プロデューサー DJ Pierre（DJ ピエール）の別名義。
+Photon, Inc. ist der Pseudonym des in Chicago geborenen DJs und Produzenten DJ Pierre.
 
-1995年にハウスレーベルStrictly Rhythm からリリースされた「Project: Blast」は、95年を代表するワイルドピッチハウス・ディープハウストラック。
+„Project: Blast“, 1995 vom House-Label Strictly Rhythm veröffentlicht, ist ein wilder Pitch-House/Deep-House-Track, der das Jahr 1995 repräsentiert.
 
 #### Trackliste
 ```md

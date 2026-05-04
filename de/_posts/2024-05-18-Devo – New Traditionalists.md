@@ -11,13 +11,13 @@ tags:
 - Synth Pop
 - New-Wave
 - 80s
-title: Devo – New Traditionalists
+title: Devo – Neue Traditionalisten
 ---
 
 
-「New Traditionalists」は1981年にリリースされたUSのニューウェイヴバンド、Devo（ディーヴォ）の4作目のアルバムであり、バンド初の完全セルフプロデュース・アルバム。
+„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo, das 1981 veröffentlicht wurde, und das erste komplett selbstproduzierte Album der Band.
 
-「Whip It」が収録された前作のアルバムFreedom Of Choice（欲望心理学）のヒットを受けて、このアルバムでは「脱進化」をコンセプトにシンセサイザーのリフとリズム＆電子パーカッションに重点を置いたミニマルな雰囲気になっている。
+Nach dem Erfolg ihres vorherigen Albums Freedom Of Choice (Desire Psychology), das „Whip It“ enthielt, hat dieses Album eine minimalistische Atmosphäre mit einem Schwerpunkt auf Synthesizer-Riffs, Rhythmus und elektronischer Percussion, mit dem Konzept der „Deevolution“.
 
 #### Trackliste
 ```md

@@ -56,7 +56,7 @@ Alle drei hatten Erfahrung als Sänger in der Kirche, und insbesondere Nate Dogg
 Diese Grundlage des Gospelgesangs hatte entscheidenden Einfluss auf seinen späteren Stil.
 Obwohl ihre Stimme linear und wenig Vibrato war, hatte sie eine tiefe Resonanz und ein Rhythmusgefühl, das von Natur aus in ihrem Körper verwurzelt war.
 
-### Beitritt zu den Marines
+### Beitritt zum Marine Corps
 
 Nach seinem High-School-Abschluss meldete sich Nate Dogg zum US Marine Corps und wurde nach etwa drei Jahren Dienst entlassen.
 Diese Erfahrung veränderte seine Lebensumstände, aber es war auch eine Zeit, die ihn im Wesentlichen dazu zwang, nach Long Beach und zur Musik zurückzukehren.
@@ -70,7 +70,7 @@ Das ist **213 (zwei eins drei)**.
 Der Name leitet sich von der Vorwahl 213 von Long Beach ab und spiegelt deutlich ihre lokale Identität wider.
 
 Lokale Aufnahmen aus dieser Zeit zeigten bereits, dass Nate Doggs Gesangsstimme sich von den Rappern um ihn herum abhob.
-Seine Stimme klang wie eine Straße, und indem er die Melodie sang, verlieh er dem gesamten Lied ein angenehm schwebendes Gefühl.
+Seine Stimme erinnerte an die Straße, und indem er die Melodie sang, verlieh er dem gesamten Lied ein angenehm schwebendes Gefühl.
 Dieser Stil sollte später zum Kern der Gastspielkultur werden.
 
 ---
@@ -92,7 +92,7 @@ Seine Teilnahme war zu diesem Zeitpunkt fast wie ein Debüt, aber er hatte berei
 ---
 
 1994 wurde Warren Gs Signature-Song „Regulate“ veröffentlicht.
-In diesem Lied schreibt Nate Dogg nicht nur den Refrain, sondern erzählt auch die Geschichte, um die Geschichte des Liedes zu ergänzen und die gesamte Dramatik des Liedes zu unterstützen.
+Bei diesem Lied ist Nate Dogg nicht nur für den Refrain verantwortlich, sondern auch für die Erzählung, die die Geschichte des Liedes ergänzt und die Dramatik des Liedes als Ganzes unterstützt.
 
 „Regulate“ erreichte Platz 2 der US-Single-Charts.
 Dieser Erfolg brachte Nate Dogg die Anerkennung als „bester Hakenmacher an der Westküste“ ein.
@@ -108,13 +108,13 @@ Dieser Erfolg brachte Nate Dogg die Anerkennung als „bester Hakenmacher an der
 Die Singstimme von Nate Dogg ist auf den ersten Blick unverwechselbar, zerlegt man sie jedoch in ihre Elemente, lässt sie sich wie folgt zusammenfassen.
 
 ### ■ Dicke Stimme, abgeleitet von Gospelmusik
-Die Stimmbänder vibrieren stark und der Klang ist tief.
+Die Schwingung der Stimmbänder ist stark und die Resonanz ist tief.
 
 ### ■ Geradliniger Gesang mit wenig Vibrato
 Dadurch war es äußerst kompatibel mit den harten Beats des Hip-Hop.
 
 ### ■ Melodie wiederholt kurze Phrasen
-Erzeugt die „hypnotische“ Qualität, die G-Funk benötigt.
+Erzeugt die für G-Funk notwendige „hypnotische“ Qualität.
 
 ### ■ Die „Pausen“ des Rhythmus respektieren
 Singen Sie nicht zu viel, lassen Sie Lücken im Takt.
@@ -128,7 +128,7 @@ Diese Eigenschaften machten Nate Doggs Stimme zu einem wesentlichen Bestandteil 
 
 ## 6. Solowerke und ihre Positionierung
 
-Nate Dogg wird für seine Gastauftritte hochgelobt, hat aber auch mehrere Soloalben veröffentlicht.
+Nate Dogg ist für seine Gastauftritte hochgelobt, hat aber auch mehrere Soloalben veröffentlicht.
 
 #### ■ „G-Funk Classics, Vol. 1 & 2“ (1998)
 
@@ -173,7 +173,7 @@ Obwohl es sich um einen süßen R&B-Sound handelt, ist es wichtig, dass Nate Dog
 
 ## 8. 213 „The Hard Way“: Die Frucht der Freundschaft
 
-213, bestehend aus Snoop, Warren und Nate, veröffentlichten 2004 ihr offizielles Studioalbum „The Hard Way“.
+213, das Trio aus Snoop, Warren und Nate, veröffentlichte 2004 ihr offizielles Studioalbum „The Hard Way“.
 Das Album erreichte Platz eins der Billboard-Charts und war der Höhepunkt der langen Freundschaft und Karriere der drei.
 
 ---
@@ -190,7 +190,7 @@ Insbesondere Snoop Dogg und Warren G haben gesagt, dass ihr Sound ohne Nate Dogg
 
 ---
 
-## 10. Nate Dogg Chronologie
+## 10. Nate Dogg-Zeitleiste
 
 <div class="mermaid">
 timeline
@@ -249,7 +249,7 @@ Ohne seine Stimme wäre das goldene Zeitalter des Westküsten-Hip-Hops nicht den
 Nate Dogg war kein Rapper.
 Aber es blieb Teil des zentralsten Hip-Hop-Sounds.
 
-Er bewegte sich zwischen den Genres und gab dem Beat gleichzeitig ein solides Fundament.
+Er bewegte sich zwischen den Genres und gab dem Beat gleichzeitig eine solide Grundlage.
 Es gibt niemanden sonst mit einer Stimme, die Süße und Härte, Sanftheit und Straßenmusik in Einklang bringt.
 
 **Nate Dogg ist ein Symbol für G-Funk und eine Stimmrevolution in der Hip-Hop-Geschichte. **

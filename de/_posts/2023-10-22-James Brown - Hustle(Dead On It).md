@@ -10,21 +10,21 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: James Brown - Hustle!!! (Dead On It)
+title: James Brown – Hektik!!! (Tot drauf)
 ---
 
 
-「Hustle!!! (Dead On It)」は、ジェームス・ブラウンのアルバム「Dead On The Heavy Funk 1975-1983」に収録されている曲です。
+„Hustle!!! (Dead On It)“ ist ein Lied aus James Browns Album „Dead On The Heavy Funk 1975-1983“.
 
-1975年にリリースされたこの曲は、ジェームス・ブラウン独自のエネルギッシュでファンキーなサウンドで知られています。
+Dieser 1975 veröffentlichte Song ist für James Browns einzigartigen, energiegeladenen und funkigen Sound bekannt.
 
-このアルバム全体を通して、ブラウンはファンク、ソウル、R&Bなどさまざまなジャンルを融合させる才能を披露しています。
+Auf dem gesamten Album stellt Brown sein Talent für die Verschmelzung verschiedener Genres unter Beweis, darunter Funk, Soul und R&B.
 
-「Hustle!!! (Dead On It)」の歌詞は、努力、忍耐、成功へのハッスルといったテーマを取り上げています。
+Der Text von „Hustle!!! (Dead On It)“ beschäftigt sich mit Themen wie harter Arbeit, Ausdauer und dem Streben nach Erfolg.
 
-ジェームス・ブラウン特有のアップテンポでダイナミックな楽曲と演奏は、全体的なポジティブな雰囲気を醸し出しています。
+James Browns charakteristische flotte, dynamische Songs und Auftritte schaffen eine insgesamt positive Atmosphäre.
 
-この曲は、その音楽性だけでなく、モチベーションを高めるメッセージでも知られ、ファンの中でファンクやソウルの音楽愛好者にとってお気に入りとなっています。
+Der Song ist nicht nur für seine Musikalität, sondern auch für seine motivierende Botschaft bekannt, was ihn zu einem Favoriten unter Funk- und Soul-Musikliebhabern unter seinen Fans macht.
 
 #### Trackliste
 ```md

@@ -20,11 +20,11 @@ title: '[Kolumne] Esquivel und die Designphilosophie des Space Age Pop'
 
 Text: mmr｜Thema: Musikgeschichte, die den Moment offenbart, in dem sich die Sehnsucht nach der Zukunft in Klang verwandelte
 
-Mitte des 20. Jahrhunderts trat die Menschheit in eine Ära ein, in der sich die Menschen zum ersten Mal der „Zukunft“ als Erweiterung der Realität bewusst wurden. Raketenentwicklung, künstliche Satelliten, Atomkraft und die Verbreitung von Haushaltsgeräten – das waren nicht nur technologische Innovationen, sondern gaben den Menschen das Gefühl, dass sich ihr Leben selbst veränderte.
+Mitte des 20. Jahrhunderts trat für den Menschen eine Ära ein, in der er sich zum ersten Mal der „Zukunft“ als Erweiterung der Realität bewusst wurde. Raketenentwicklung, künstliche Satelliten, Atomkraft und die Verbreitung von Haushaltsgeräten – das waren nicht nur technologische Innovationen, sondern gaben den Menschen das Gefühl, dass sich ihr Leben selbst veränderte.
 
 Dieses „Zukunftsgefühl“ hatte nicht nur starken Einfluss auf Architektur und Industriedesign, sondern auch auf die Musik. Die Person, die dieses Gefühl am einzigartigsten in Klang übersetzt hat, ist Juan García Esquivel.
 
-Seine Musik ist mehr als nur Loungemusik. Dies war ein Versuch, das Hörerlebnis selbst neu zu gestalten, basierend auf der Idee, „Klang im Raum anzuordnen“. Der Klang springt zwischen dem linken und dem rechten Lautsprecher hin und her, und der Gesang wird als akustisches Material behandelt, das über Worte hinausgeht und von den Zuhörern „Erleben“ und nicht nur Zuhören verlangt.
+Seine Musik ist mehr als nur Loungemusik. Dies war ein Versuch, das Hörerlebnis selbst neu zu gestalten, basierend auf der Idee, „Klang im Raum anzuordnen“. Der Klang springt zwischen dem linken und dem rechten Lautsprecher hin und her, und der Gesang wird als akustisches Material behandelt, das über Worte hinausgeht und den Hörer zum „Erleben“ und nicht nur zum Zuhören auffordert.
 
 Es war ein Versuch, eine Zukunft vorherzusagen, die noch niemand gesehen hatte, und zwar nur mithilfe von Ton.
 
@@ -62,9 +62,9 @@ Bereits zu diesem Zeitpunkt konzentrierte sich seine Musik nicht nur auf Melodie
 
 ---
 
-## Amerikanische Expansion und Stereorevolution
+## Expansion nach Amerika und die Stereo-Revolution
 
-In den späten 1950er Jahren verlagerte Esquivel seine Aktivitäten in die USA. Zu dieser Zeit erfreuten sich Heim-Audiogeräte in Amerika mit der Ausbreitung der Konsumgesellschaft immer größerer Beliebtheit.
+In den späten 1950er Jahren verlagerte Esquivel seine Aktivitäten in die USA. Zu dieser Zeit erfreuten sich Heimaudiogeräte in Amerika mit der Ausbreitung der Konsumgesellschaft immer größerer Beliebtheit.
 
 Von besonderer Bedeutung war das Aufkommen der „Stereoaufnahme“. Es wurde möglich, linke und rechte Töne zu trennen, was bei Monoaufnahmen bis dahin unmöglich war, und Musik begann, nicht nur eine Zeitachse, sondern eine „räumliche Achse“ zu haben.
 
@@ -82,7 +82,7 @@ C --> D[空間表現の誕生]
 D --> E[新しいリスニング体験]
 </div>
 
-Esquivel war der Erste, der die Möglichkeiten des Stereo-Zeitalters verstand und sie in extremer Form verkörperte.
+Esquivel war der Erste, der die Möglichkeiten des Stereo-Zeitalters erkannte und sie in extremer Form verkörperte.
 
 > Stereo war eine Erfindung des Raums, nicht der Klangqualität, und er verwandelte sie in Musik.
 
@@ -115,15 +115,15 @@ Dieses Werk war nicht nur ein Album, sondern ein Prototyp für zukünftige Musik
 
 ## Die Erfindung des Studios: Aufnahmetechnik neu definiert
 
-Ein wesentlicher Aspekt von Esquivels Innovation ist die Art und Weise, wie er mit dem Studio umgeht. Für ihn war das Studio nicht nur ein Aufnahmegerät, sondern ein Ort, an dem er Musik machte.
+Wenn man über Esquivels Innovation spricht, ist die Art und Weise, wie er mit dem Studio umgeht, von entscheidender Bedeutung. Für ihn war das Studio nicht nur ein Aufnahmegerät, sondern ein Ort, an dem er Musik machte.
 
-Mikrofonplatzierung, Schallabstand und Nachhallgestaltung während der Aufnahme werden alle als Teil der Komposition behandelt. Mit anderen Worten: Er stellte den Aufnahmeprozess selbst in den Mittelpunkt der Musikproduktion.
+Mikrofonplatzierung, Schallabstand und Nachhalldesign während der Aufnahme werden alle als Teil der Komposition behandelt. Mit anderen Worten: Er stellte den Aufnahmeprozess selbst in den Mittelpunkt der Musikproduktion.
 
 Dies ist ein Konzept, das in der modernen DAW-Produktion alltäglich geworden ist, zu dieser Zeit jedoch äußerst fortschrittlich war.
 
 Seine Methode lässt sich wie folgt zusammenfassen:
 
-* Entwerfen der Klanglokalisierung in der Kompositionsphase
+* Die Klanglokalisierung wird in der Kompositionsphase entwickelt
 * Anordnung nach räumlicher Ausdehnung
 * Vervollständigen Sie den Ton während der Aufnahme und nicht erst danach
 * Struktur basierend auf der Hörumgebung (Lautsprecher)
@@ -144,7 +144,7 @@ Dieser Prozess verlagerte den Schwerpunkt der Musikproduktion von „Performance
 
 ## Grund für die Ablehnung: Nicht mehr zeitgemäß
 
-In den späten 1960er Jahren änderten sich die musikalischen Trends rasant. Der Aufstieg des Rock, die Verbreitung der Gegenkultur und die Betonung politischer Botschaften – Musik verlangte zunehmend nach direkterem und stärkerem Ausdruck.
+In den späten 1960er Jahren änderten sich die musikalischen Trends rasant. Der Aufstieg des Rock, die Ausbreitung der Gegenkultur und die Betonung politischer Botschaften – Musik verlangte zunehmend nach direkterem und stärkerem Ausdruck.
 
 In diesem Sinne wurde Esquivels Musik als „leicht“ und „veraltet“ angesehen. Obwohl seine Musik zukunftsorientiert war, hatte sie auch Aspekte der Konsumgesellschaft, die sie mit neuen Werten unvereinbar machten.
 
@@ -158,11 +158,11 @@ Dadurch zog er sich nach und nach aus der Öffentlichkeit zurück und geriet fü
 
 ## Neubewertung und „verlorene Zukunft“
 
-In den 1990er Jahren, als Loungemusik und Exotik neu bewertet wurden, erregte Esquivels Werk erneut Aufmerksamkeit.
+In den 1990er Jahren, als Lounge-Musik und Exotik neu bewertet wurden, erregte Esquivels Werk erneut Aufmerksamkeit.
 
 Diese Neubewertung war nicht nur Nostalgie. Vielmehr beginnt seine Musik eine neue Bedeutung als „die nicht realisierte Zukunft“ anzunehmen.
 
-Mit der Entwicklung der elektronischen Musik und der Sampling-Kultur ist die Idee, Klang als Material zu behandeln, alltäglich geworden und seine Methode wurde in einem modernen Kontext verstanden.
+Mit der Entwicklung der elektronischen Musik und der Sampling-Kultur ist der Umgang mit Klang als Material alltäglich geworden und seine Methode wird in einem modernen Kontext verstanden.
 
 <div class="mermaid">
 timeline

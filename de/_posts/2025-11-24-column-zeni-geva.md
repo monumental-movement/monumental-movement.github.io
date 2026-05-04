@@ -41,7 +41,7 @@ color: #fff;
 
 
 ## 1. Entstehungsperiode (1987–1990): Ursprünge von Gewalt und Struktur
-Zeni Geva wurde 1987 gegründet. Die Hauptfigur ist KK Null und YBO2など前身活動ですでに実験性の高い音楽性を確立してtollり、ノイズ／ハードコア／前衛音楽の横断的な知識を持つ人物だった.
+Zeni Geva wurde 1987 gegründet. Die Hauptfigur ist KK Null. Er hatte bereits durch frühere Aktivitäten wie YBO2 einen äußerst experimentellen Musikstil etabliert und war eine Person mit interdisziplinärem Wissen über Noise-/Hardcore-/Avantgarde-Musik.
 
 ### Erste Mitglieder
 - **KK Null** (Vo/Gt)
@@ -51,7 +51,7 @@ Zeni Geva wurde 1987 gegründet. Die Hauptfigur ist KK Null und YBO2など前身
 
 Der Name der Band soll sich aus dem Wort „Zeni“ und dem deutschen Wort „Gewalt“ (Gewalt) ableiten und ist in das soziale Konzept der Geldgewalt eingebettet.
 
-### 初期作品
+### Frühe Werke
 - **How ​​to Kill (1987)**
 - **Vast Impotenz (1988/Kassette)**
 
@@ -61,7 +61,7 @@ In ihren frühen Werken, die sich auf Noise Rock und Hardcore konzentrieren, kö
 
 ---
 
-## 2. 飛躍（1991–1995）：アルビニとの出会いと国際的評価
+## 2. Leap (1991–1995): Begegnung mit Albini und internationale Anerkennung
 Im Jahr 1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
 
 ### „Totale Kastration (1991)“
@@ -113,7 +113,7 @@ Für Zeni Geva hatte die Hinzufügung von Yoshida erneut einen starken Einfluss.
 
 ---
 
-## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und weltweit erneuerte Aufmerksamkeit
+## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und globale Neuaufmerksamkeit
 ### „Lebendig und aufstrebend (2010)“
 - Live-Soundquelle aus dem Lineup von 2009
 - Tatsuya Yoshidas perverses Schlagzeug und Null & Tabatas Gitarrenduell sind spektakulär

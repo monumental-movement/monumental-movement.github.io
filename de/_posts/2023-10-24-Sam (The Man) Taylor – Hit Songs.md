@@ -10,11 +10,11 @@ tags:
 - Jazz
 - Nostalgic
 - 70s
-title: Sam (The Man) Taylor – Hits
+title: Sam (The Man) Taylor – Hit Songs
 ---
 
 
-„Sam (The Man) Taylor – Sam Taylor at 25“ ist eine Sammlung von Kabelhits, die 1970 veröffentlicht wurde.
+「Sam (The Man) Taylor – 25時のサム・テイラー」は、有線のヒット曲集で、1970年にリリースされました。
 
 #### Trackliste
 ```md

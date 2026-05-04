@@ -22,7 +22,7 @@ Text: mmr｜Thema: Elektroindustrie/Über die Entstehung, Struktur und Ausbreitu
 
 Electro-Industrial und EBM (Electronic Body Music) sind Trends in der elektronischen Musik, die in den späten 1970er bis 1980er Jahren entstanden sind und sich durch die Kombination des experimentellen Geistes der Industrial-Musik mit sich wiederholenden körperlichen Bewegungen auf der Tanzfläche auszeichnen. Dieses Genre ist nicht nur ein Musikstil, sondern hat sich zu einem umfassenden Ausdruckssystem entwickelt, das Veränderungen in Produktionsmethoden, Sounddesign, Aufführungsformen und sogar Veränderungen in der Stadtkultur und dem technologischen Umfeld widerspiegelt.
 
-EBM ist nicht einseitig aus einem einzelnen Land oder einer einzelnen Stadt hervorgegangen. Es entstand durch die Schnittstelle von Post-Punk, Industrial, elektronischer Musiktechnologie und Clubkultur in mehreren Regionen, hauptsächlich Belgien, England und Deutschland. Front 242 und Nitzer Ebb sind repräsentative Beispiele für strukturelle und ästhetische Formulierungen in diesem Prozess.
+EBM ist nicht einseitig aus einem einzelnen Land oder einer einzelnen Stadt hervorgegangen. Sie entstand durch die Schnittstelle von Post-Punk, Industrial, elektronischer Musiktechnologie und Clubkultur in mehreren Regionen, hauptsächlich Belgien, England und Deutschland. Front 242 und Nitzer Ebb sind repräsentative Beispiele für strukturelle und ästhetische Formulierungen in diesem Prozess.
 
 ---
 
@@ -86,7 +86,7 @@ flowchart LR
 
 Die Basslinie in EBM hat fast keine melodische Entwicklung und besteht aus Wiederholungen einzelner Noten oder extrem begrenzten Intervallen. Dieses Design maximiert die Integration in den Rhythmus und gibt der motorischen Funktion Vorrang vor dem musikalischen Ausdruck.
 
-Sequenzen basieren auf kurzen Mustern und Entwicklungen werden durch subtile Tonänderungen und Stummschaltungsvorgänge erzeugt.
+Sequenzen basieren auf kurzen Mustern und Entwicklungen werden durch subtile Tonänderungen und Stummschaltungen erzeugt.
 
 ---
 
@@ -136,7 +136,7 @@ Nitzer Ebb rückte die Körperlichkeit in den Vordergrund, indem er die Elemente
 
 ## 11. Erweiterung zu Electro-Industrial
 
-Seit Ende der 1980er Jahre ist eine Werkgruppe entstanden, die die Struktur von EBM beibehält und gleichzeitig ihre klangliche Komplexität steigert. Es zeichnet sich durch Rauschschichten, vielschichtiges Sampling und die Konstruktion dunkler akustischer Räume aus und wurde kollektiv als Electro-Industrial bekannt.
+Seit den späten 1980er Jahren ist eine Werkgruppe entstanden, die die Struktur von EBM beibehält und gleichzeitig ihre klangliche Komplexität steigert. Es zeichnet sich durch Rauschschichten, vielschichtiges Sampling und die Konstruktion dunkler akustischer Räume aus und wurde kollektiv als Electro-Industrial bekannt.
 
 ---
 

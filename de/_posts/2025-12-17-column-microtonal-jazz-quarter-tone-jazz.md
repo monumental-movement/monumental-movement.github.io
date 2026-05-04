@@ -44,9 +44,9 @@ color: #fff;
 
 ### 1-1 Historische Stellung mikrotonaler Intervalle
 
-Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoreischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der 12-Temperament-Stimmung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
+Mikrotonale Intervalle gibt es in der westlichen Musik schon vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoräischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der Zwölftemperierung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
 
-Zu Beginn des 20. Jahrhunderts begannen Komponisten, absichtlich mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
+Zu Beginn des 20. Jahrhunderts begannen Komponisten, gezielt mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
 
 ### 1-2 Blues und Tonhöhenmehrdeutigkeit
 
@@ -106,7 +106,7 @@ Bei der Improvisation werden Spannung und Entspannung dadurch erzeugt, dass die 
 
 Maneri führte Bildungsaktivitäten hauptsächlich in Boston durch und bildete viele Schüler aus. Sein Bildungssystem weist die folgenden Merkmale auf.
 
-* Schwerpunkt auf auditivem Training des mikrotonalen Sinnes
+* Schwerpunkt auf der auditiven Schulung des mikrotonalen Sinnes
 * Sequenzkontinuumsanalyse für Improvisationsdarbietungen
 * Verständnis der relativen Tonhöhe durch Resonanzerfahrungen unter Schülern
 
@@ -138,7 +138,7 @@ flowchart TB
 
 ### 4-3 Leistungs-/Arrangementanalyse
 
-Im Ansatz von Collier können einzelne Stimmen unterschiedliche Klangannahmen haben. Obwohl das Ganze mikrotonal ist, behält jeder Teil seine logische Konsistenz bei. Dabei handelt es sich eher um eine hochkonzipierte Ensembleoperation als um Improvisation.
+Im Ansatz von Collier können einzelne Stimmen unterschiedliche Klangannahmen haben. Obwohl das Ganze mikrotonal ist, behält jeder Teil seine logische Konsistenz bei. Dabei handelt es sich eher um eine hochkonstruierte Ensembleoperation als um eine Improvisation.
 
 ---
 

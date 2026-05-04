@@ -9,14 +9,14 @@ permalink: /de/norma-sheffield-look-me-in-the-eyes/
 tags:
 - Euro Beat
 - Hi NRG
-title: Norma Sheffield – Schau mir in die Augen
+title: Norma Sheffield – Look Me In The Eyes
 ---
 
 
-Norma Sheffield ist ein italienisches Eurobeat-Projekt. Ihre öffentliche Persönlichkeit ist Francesca Contini, die auch als Komponistin tätig war.
-(Francesca Contini), aber der Gesang wurde von Chiara De Pieri übernommen.
+Norma Sheffield（ノーマ・シェフィールド）は、イタリアのユーロビートプロジェクト。公の人格は、作曲家としても活動したFrancesca Contini
+（フランチェスカ・コンティーニ）でしたが、ヴォーカルはChiara De Pieri（キアラ・デ・ピエリ）が担当。
 
-Die Produktion/der Produzent ist Dave Rodgers, italienischer Produzent und Mitbegründer des Eurobeat-Labels A.Beat-C.
+制作/プロデューサーは、イタリアのプロデューサー＆ユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers（デイヴ・ロジャース）。
 
 #### Trackliste
 ```md

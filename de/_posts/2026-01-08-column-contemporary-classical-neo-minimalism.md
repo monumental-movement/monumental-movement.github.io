@@ -23,7 +23,7 @@ Text: mmr｜Thema: Über diesen Trend, basierend auf Fakten wie Kompositionstech
 
 Die klassische Musik hat sich seit der zweiten Hälfte des 20. Jahrhunderts durch Experimente mit Atonalität, Aleatorismus und elektronischer Musik in verschiedene Richtungen verzweigt. Im 21. Jahrhundert hat ein Trend, der „Tonalität“, „Wiederholung“, „Ruhe“ und „das Hörerlebnis selbst“ betont, erneut internationale Aufmerksamkeit erlangt. Dies ist der Bereich, der allgemein als zeitgenössische Klassik oder Neominimalismus bezeichnet wird.
 
-Dieser Trend ist insofern einzigartig, als er sowohl in traditionellen klassischen Musikinstitutionen als auch in unabhängigen Musikproduktionsumgebungen entstanden ist. Künstler wie Max Richter, Nils Frahm und Hauschka haben alle einen klassischen Hintergrund, integrieren aber aktiv Aufnahmetechniken, Postproduktion, Improvisation und elektronische Instrumente.
+Dieser Trend ist insofern einzigartig, als er sich sowohl in traditionellen Institutionen für klassische Musik als auch in unabhängigen Musikproduktionsumgebungen herausgebildet hat. Künstler wie Max Richter, Nils Frahm und Hauschka haben alle einen klassischen Hintergrund, integrieren aber aktiv Aufnahmetechniken, Postproduktion, Improvisation und elektronische Instrumente.
 
 
 ---
@@ -46,9 +46,9 @@ color: #fff;
 
 ### Die Etablierung des Minimalismus des 20. Jahrhunderts
 
-Der in den 1960er Jahren von La Monte Young, Terry Riley, Steve Reich und Philip Glass in den Vereinigten Staaten gegründete Minimalismus zeichnete sich durch kurze Wiederholungen, allmähliche Veränderungen und klare metrische Strukturen aus. Dies wird als Reaktion auf die Selleriemusik der Zeit und die immer komplexer werdende Avantgardemusik verstanden.
+Der in den 1960er Jahren von La Monte Young, Terry Riley, Steve Reich und Philip Glass in den Vereinigten Staaten gegründete Minimalismus zeichnete sich durch kurze Wiederholungen, allmähliche Veränderungen und klare metrische Strukturen aus. Dies wird als Reaktion auf die damalige Selleriemusik und die immer komplexer werdende Avantgardemusik verstanden.
 
-Der Minimalismus beeinflusste schließlich die Oper, die Filmmusik und die Tanzmusik und wurde in der zweiten Hälfte des 20. Jahrhunderts in der klassischen Musik institutionell akzeptiert.
+Der Minimalismus beeinflusste schließlich die Oper, die Filmmusik und die Tanzmusik und wurde im späten 20. Jahrhundert in der klassischen Musik institutionell akzeptiert.
 
 ### Übergang zum Postminimalismus
 
@@ -162,7 +162,7 @@ Mehrere einfache Schichten werden übereinander gelegt, um einen komplexen Klang
 
 ### Der Akt des Komponierens wird Editieren genannt
 
-Nachbearbeitung, Looping und Dynamikanpassungen definieren die Struktur des Stücks selbst. Der Bearbeitungsprozess wird nicht als Nachbearbeitung, sondern als Erweiterung des Kompositionsprozesses betrachtet.
+Nachbearbeitung, Looping und Dynamikanpassungen definieren die Struktur des Stücks selbst. Der Bearbeitungsprozess wird nicht als Nachbearbeitung betrachtet, sondern als Erweiterung des Kompositionsprozesses.
 
 ---
 
@@ -225,7 +225,7 @@ flowchart LR
 
 ## Abschluss
 
-Der zeitgenössische Klassik/Neo-Minimalismus wurde von mehreren Faktoren geprägt, darunter der Geschichte seit dem Minimalismus, Fortschritten in der Aufnahmetechnologie und Veränderungen in der Hörumgebung. Max Richter, Nils Frahm und Hauschka zählen zu seinen repräsentativen Vertretern.
+Der zeitgenössische Klassik/Neo-Minimalismus wurde von mehreren Faktoren geprägt, darunter der Geschichte seit dem Minimalismus, Fortschritten in der Aufnahmetechnologie und Veränderungen in der Hörumgebung. Zu seinen repräsentativen Vertretern zählen Max Richter, Nils Frahm und Hauschka.
 
 > „Moderner Klassik/Neo-Minimalismus ist eine Praxis, die die Musikproduktionsumgebung des 21. Jahrhunderts widerspiegelt.“
 

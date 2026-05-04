@@ -13,7 +13,7 @@ title: Boymerang – Pro-Activ EP
 ---
 
 
-Boymerang ist ein Drum & Bass-Projekt von Graham Sutton, einem britischen Post-Rock-Musiker, der für seine Band Bark Psychosis bekannt ist. Ursprünglich war es ein Duo mit Daniel Gish. Graham Sutton ist außerdem Mitglied der Ambient-Pop-Gruppe Coldharbourstores.
+Boymerang und Graham Sutton (Originaltitel: Sutton) Ursprünglich war es ein Duo mit Daniel Gish. Graham Sutton ist außerdem Mitglied der Ambient-Pop-Gruppe Coldharbourstores.
 
 Boymerangs aktive Zeit war von 1995 bis 1997 kurz und die 1995 veröffentlichte „Pro-Activ EP“ war Boymerangs früher Drum n Bass-Track.
 

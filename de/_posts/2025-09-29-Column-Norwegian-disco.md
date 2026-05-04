@@ -75,7 +75,7 @@ Sein richtiger Name ist Thomas Moen Hermansen. Sie haben den Geist des Detroit-I
 
 ### Lindstrøm
 
-Sein richtiger Name ist Hans-Peter Lindstrøm. Sein Sound wird als Vorreiter des „kosmischen Disco“ bezeichnet und kombiniert Synthesizer-Layer, schwere Drum-Arbeit und die Essenz von Ambient. Seine Meisterwerke wie „Where You Go I Go Too“ und „It's A Fidelity Affair“ erhielten große Anerkennung für ihre eleganten und tanzbaren Langkompositionen.
+Sein richtiger Name ist Hans-Peter Lindstrøm. Sein Sound wird als Vorreiter des „kosmischen Disco“ bezeichnet und kombiniert Synthesizer-Layer, schwere Drum-Arbeit und die Essenz von Ambient. Seine Meisterwerke wie „Where You Go I Go Too“ und „It's A Fidelity Affair“ haben für ihre eleganten und tanzbaren Langkompositionen große Anerkennung gefunden.
 
 **Hauptaktivitäten produziert/beteiligt**:
 
@@ -112,7 +112,7 @@ Merkmale:
 
 Ein Ingenieur, der die Studioarbeit unterstützt.
 
-Er ist für das umfassende Sounddesign verantwortlich und nutzt dabei Synthesizer, Sampler, Programmierung usw. voll aus.
+Er ist für das reichhaltige Sounddesign verantwortlich und nutzt dabei Synthesizer, Sampler, Programmierung usw. voll aus.
 
 Jazz und
 Er bringt seinen klassischen Hintergrund mit und verleiht seinen Arrangements Tiefe.
@@ -121,14 +121,14 @@ Er bringt seinen klassischen Hintergrund mit und verleiht seinen Arrangements Ti
 
 **Gastmitarbeiter**
 
-Gelegentlich nehmen Randy Barracuda (aktiv in der finnischen Skweee-Szene) und Sänger/Musiker aus Norwegen und dem Ausland teil.
+Manchmal nehmen Randy Barracuda (aktiv in der finnischen Skweee-Szene) und Sänger/Musiker aus Norwegen und dem Ausland teil.
 
 Auf den Alben und Mixen von Mungolian Jet Set sind auch Gastsänger und Instrumentalisten vertreten.
 
 
 #### Klangeigenschaften
 
-Genreübergreifend: Eine Mischung aus Disco-, Cosmic-, House-, Jazz-, Afro- und sogar Rock- und Prog-Elementen.
+Genreübergreifend: Eine Mischung aus Disco, Cosmic, House, Jazz, Afro und sogar Rock- und Progressive-Elementen.
 
 Remix-Sinn: Er ist bekannt für seine „Weltraumreise“-Remixe, die die Struktur des Originalsongs mutig verändern und ihn auf über 10 Minuten verlängern.
 
@@ -173,3 +173,12 @@ Ein Dokumentarfilm, der die Geschichte und Entwicklung der norwegischen Tanzmusi
 
 Prins Thomas, Lindstrøm und Mungolian Jet Set senden weiterhin „Temperaturdisco“ aus Norwegen in die Welt. Aufgrund ihres musikalischen Hintergrunds und ihrer Produktionsarbeit gehen ihre Tracks über bloße Tanzmusik hinaus und bieten ein Hörerlebnis, das von einem skandinavischen Zeit-/Landschaftsgefühl geprägt ist.
 
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-GVxJf7NAi8?si=WRd45yvZacaq0jYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

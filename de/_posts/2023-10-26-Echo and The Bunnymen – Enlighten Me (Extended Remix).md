@@ -10,13 +10,13 @@ tags:
 - Rock
 - Post Punk
 - New-Wave
-title: Echo & The Bunnymen – Enlighten Me (Erweiterter Remix)
+title: Echo & The Bunnymen – Enlighten Me (Extended Remix)
 ---
 
 
-Echo & The Bunnymen sind eine britische Rockband, die 1978 in Liverpool gegründet wurde. Die ursprünglichen Mitglieder waren Ian Stephen McCulloch, Will Sergeant und Les Pattinson.
+Echo & The Bunnymen（エコー＆ザ・バニーメン）は、1978 年にリバプールで結成されたUKロックバンド。オリジナルメンバーは、Ian Stephen McCulloch（イアン・マカロック）、Will Sergeant（ウィル・サージェント）、Les Pattinson（レス・パティンソン）。 
 
-1980 kam Pete De Freitas als Schlagzeuger hinzu.
+1980年までにPete De Freitas（ピート・デ・フレイタス）がドラマーとして加入。
 
 #### Trackliste
 ```md

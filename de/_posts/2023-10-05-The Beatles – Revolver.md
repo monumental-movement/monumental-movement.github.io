@@ -9,13 +9,13 @@ permalink: /de/the-beatles-revolver/
 tags:
 - Rock
 - Psychedelic
-title: Die Beatles – Revolver
+title: The Beatles – Revolver
 ---
 
 
-Ein bemerkenswertes Lied auf „Revolver“ ist „Eleanor Rigby“. Dieses herzerwärmende Lied enthält ein Streichoktett und stellt Paul McCartneys Talent zum Geschichtenerzählen unter Beweis.
+「Revolver」の中で特筆すべき曲として挙げられるのは、「エリノア・リグビー」です。これは、ストリングス・オクテットをフィーチャーした心温まる曲で、ポール・マッカートニーのストーリーテリングの才能が発揮されています。
 
-Auf dem Album gibt es ein weiteres Lied namens „Taxman“. Dieses Lied wurde von George Harrison geschrieben und enthält Kritik am damaligen Hochsteuersystem in Großbritannien. „Yellow Submarine“ ist ein weiterer beliebter Titel.
+アルバムには他にも「タックスマン」という曲があります。これはジョージ・ハリスンが書いた曲で、当時のイギリスの高い税金制度に対する批判が込められています。「イエロー・サブマリン」も人気のあるトラックです。
 
 #### Trackliste
 ```md

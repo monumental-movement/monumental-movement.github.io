@@ -9,7 +9,7 @@ permalink: /de/column-westcoast-hiphop-history/
 tags:
 - Hiphop
 - Rap
-title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Ursprüngen bis
+title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Anfängen bis
   zum Underground'
 ---
 

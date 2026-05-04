@@ -8,13 +8,13 @@ layout: post
 permalink: /de/rising-star-touch-me/
 tags:
 - Trance
-title: Rising Star – Berühre mich
+title: Rising Star – Touch Me
 ---
 
 
-Ein Trance-Track von Armin van Buuren, auch bekannt als Rising Star, der 2001 auf dem deutschen Label Reef Recordings veröffentlicht wurde.
+2001年にドイツのレーベルReef RecordingsからリリースされたRising Star（ライジングスター）こと、Armin van Buurenによるトランストラック。
 
-Side A ist ein Remix des finnischen Trance-DJ Darude, der für den Titel „Sandstorm“ bekannt ist.
+A面はトラック「Sandstorm」が有名なフィンランドのトランスDJ Darude（ダルード）によるremix。
 
 #### Trackliste
 ```md

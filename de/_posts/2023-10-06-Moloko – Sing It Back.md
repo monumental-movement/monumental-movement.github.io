@@ -15,7 +15,7 @@ title: Moloko – Sing It Back
 
 „Sing It Back“ ist ein Lied des irisch-britischen Duos für elektronische Musik Moloko (Róisín Murphy und Mark Brydon).
 
-Das Lied erschien erstmals in seiner Originalversion auf ihrem zweiten Album „I Am Not a Doctor“ (1998) und wurde am 8. März 1999 als Single veröffentlicht und erreichte Platz 45 der britischen Single-Charts. Der Song war erfolgreich in den Charts und erreichte im September 1999 Platz 4 in Großbritannien, nachdem er von DJ Boris Dlugosch remixt worden war.
+The song first appeared in its original version on their second album, ``I Am Not a Doctor'' (1998), and was released as a single on March 8, 1999, reaching number 45 on the UK Singles Chart. Der Song war erfolgreich in den Charts und erreichte im September 1999 Platz 4 in Großbritannien, nachdem er von DJ Boris Dlugosch remixt worden war.
 
 #### Trackliste
 ```md

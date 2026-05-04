@@ -13,7 +13,7 @@ title: Indigo mit Joy Malcolm – Fly To The Moon
 ---
 
 
-Dies ist eine EP aus dem Projekt „Indigo“ von Luke Purewal, veröffentlicht 1999 auf dem britischen Label „Defender Music“.
+Hierbei handelt es sich um eine EP aus dem Projekt „Indigo“ von Luke Purewal, veröffentlicht 1999 auf dem britischen Label „Defender Music“.
 
 Mit Joy Malcolm, einer britischen Sängerin, die auch Mitglied des Cool World Ensembles und der Diva Singers ist und zuvor Mitglied von Incognito war.
 

@@ -17,7 +17,7 @@ title: '[Kolumne] Klaus Nomi: Der kritische Punkt der neuen Welle, eröffnet dur
 
 
 
-## Prolog: Woher kam der deformierte Popstar?
+## Prolog: Woher kommt der deformierte Popstar?
 
 Text: mmr｜Thema: Der Werdegang von Klaus Nomi, der durch die Verschmelzung von Oper und New Wave eine seltsame Form des Pop schuf
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ### Prägende Jahre in Deutschland
 
-Klaus Nomi wurde 1944 in Deutschland geboren und hieß mit bürgerlichem Namen Klaus Sperberg. Sie wuchs im Europa der Nachkriegszeit auf und zeigte schon in jungen Jahren ein starkes Interesse an der Oper. Besonders angezogen von Barockmusik und klassischer Vokalmusik eignete er sich als Countertenor durch Selbststudium und Ausbildung Gesangstechniken an.
+Klaus Nomi wurde 1944 in Deutschland geboren und hieß mit bürgerlichem Namen Klaus Sperberg. Sie wuchs im Europa der Nachkriegszeit auf und zeigte schon in jungen Jahren ein starkes Interesse an der Oper. Besonders angezogen von der Barockmusik und der klassischen Vokalmusik eignete er sich durch Selbststudium und Ausbildung Gesangstechniken als Countertenor an.
 
 Er hatte Erfahrung an der Deutschen Oper Berlin und war mit den Aspekten der darstellenden Künste hinter den Kulissen vertraut. Der in dieser Zeit entwickelte Bühnensinn und das tiefe Verständnis für klassische Musik bildeten die Grundlage für seinen späteren einzigartigen Stil.
 
@@ -113,7 +113,7 @@ Diese Werke sind eine Mischung aus Popsongs und klassischen Arien und zeichnen s
 * „Kaltes Lied“
 * „Einfacher Mann“
 
-Insbesondere „Cold Song“ basiert auf einem Werk von Henry Purcell und ist ein symbolträchtiges Lied, das seinen klassischen Hintergrund mit Popproduktion verbindet.
+Insbesondere „Cold Song“ basiert auf einem Werk von Henry Purcell und ist ein symbolträchtiges Lied, das seinen klassischen Hintergrund mit Pop-Regie verbindet.
 
 > Durch das Nebeneinander klassischer Zitate und Pop-Strukturen entstand eine einzigartige Musiksprache.
 
@@ -187,7 +187,7 @@ Dieses Cover von Lou Christies Song behält das Pop-Format bei, verwandelt es je
 
 Während er die Leichtigkeit des Originalsongs beibehält, verleiht seine Stimme dem Song eine etwas verstörende, schwebende Qualität. Dies ist ein gutes Beispiel für seine hohe Interpretationsfähigkeit.
 
-> Hervorzuheben ist seine Fähigkeit, bestehende Popmusik mit ungewöhnlichen Filtern zu rekonstruieren.
+> Besonders hervorzuheben ist seine Fähigkeit, bestehende Popmusik mit ungewöhnlichen Filtern zu rekonstruieren.
 
 ---
 
@@ -195,7 +195,7 @@ Während er die Leichtigkeit des Originalsongs beibehält, verleiht seine Stimme
 
 Dieses Lied ist ein Selbstreferenzstück, das seinen eigenen Charakter und seine eigene Weltanschauung symbolisiert. Es hat eine Struktur, die durch die Kombination nicht nur von Musik, sondern auch von Bildern und Darbietungen vervollständigt wird.
 
-Es ist untrennbar mit seinen Bühnenkostümen und Bewegungen verbunden und kann als Beispiel für die Entstehung der Existenz von „Klaus Nomi“ bezeichnet werden.
+Es ist untrennbar mit seinen Bühnenkostümen und Bewegungen verbunden und kann als Beispiel für die Entstehung der Existenz von „Klaus Nomi“ angesehen werden.
 
 > Es handelt sich um einen Metaausdruck, der die eigene Existenz zum Kunstwerk sublimiert.
 

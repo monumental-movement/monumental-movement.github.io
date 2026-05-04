@@ -10,12 +10,12 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: VA – Sanfte Beats, Spirituosen und Weisheit
+title: VA – Mellow Beats, Spirits & Wisdom
 ---
 
 
-Veröffentlicht 2008 bei P-Vine Records
-Ein jazziges und sanftes HIPHOP-Compilation-Album, ausgewählt und betreut von Toru Hashimoto.
+2008年にP-Vine Recordsからリリースされた
+橋本徹選曲・監修のジャジー&メロウなHIPHOPコンピレーション・アルバム。
 
 #### Trackliste
 ```md

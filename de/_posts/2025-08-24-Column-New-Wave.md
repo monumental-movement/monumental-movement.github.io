@@ -73,7 +73,7 @@ New Wave war nicht nur eine Bewegung in der Musik, sondern auch in der visuellen
 
 - **Das Aufkommen von MTV (1981)**
 
-Musikvideos rückten in den Mittelpunkt der Werbung, und Bands wie Duran Duran und A Flock of Seagulls integrierten visuelle Ästhetik und Musik und machten New Wave zu einem „visuellen und klanglichen Genre“.
+Musikvideos rückten in den Mittelpunkt der Werbung, und Bands wie Duran Duran und A Flock of Seagulls integrierten visuelle Ästhetik und Musik und machten New Wave zu einem „Visual-Sound-Fusion-Genre“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=4mHQUF8UG1Z67hOz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -89,7 +89,7 @@ Während die Neoromantik den DIY-Geist des Punk übernahm, präsentierte sie ein
 
 - **Beziehung zur Kunst**
 
-„Talking Heads“ aus New York dreht sich um den Absolventen der Kunsthochschule David Byrne und vereint Einflüsse aus der Minimal- und Konzeptkunst. Im Vereinigten Königreich sind Vivienne Westwoods Mode- und Post-Pop-Art-Design-Sensibilität direkt miteinander verbunden.
+„Talking Heads“ aus New York dreht sich um den Absolventen der Kunsthochschule David Byrne und vereint Einflüsse aus der Minimal Art und der Konzeptkunst. Im Vereinigten Königreich sind Vivienne Westwoods Mode- und Post-Pop-Art-Design-Sensibilität direkt miteinander verbunden.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5IsSpAOD6K8?si=InBWbY0HDV2tsWxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -129,7 +129,7 @@ New Wave war ein wichtiger Wendepunkt in der Musikgeschichte, da es „Genregren
 
 ### Kunstbewegung der Post-Punk-Ära, kein Genre
 
-New Wave entstand in den 1970er Jahren aus dem Punk und war eine wichtige Bewegung in der Musikgeschichte, die elektronische Technologie einbezog, genreübergreifend war und gesellschaftskritisch war. Gleichzeitig handelte es sich um eine umfassende kulturelle Bewegung, die die urbane Kultur der 1980er Jahre symbolisierte und Mode, Video, Kunst und Lebensstil umfasste.
+New Wave entstand in den 1970er Jahren aus dem Punk und war eine wichtige Bewegung in der Musikgeschichte, die elektronische Technologie einbezog, genreübergreifend war und gesellschaftskritisch war. Gleichzeitig war es eine umfassende kulturelle Bewegung, die die urbane Kultur der 1980er Jahre symbolisierte und Mode, Video, Kunst und Lebensstil umfasste.
 
 New Wave ist eine „umfassende Kunst der Ära“, in der Musik, Kunst, Gesellschaftskritik und Mode eng miteinander verbunden sind.
 

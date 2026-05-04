@@ -19,7 +19,7 @@ John Thomas ist ein französischer Produzent elektronischer Musik und Mitbegrün
 
 Charles Siegling, auch bekannt als Technasia, ist DJ/Musiker.
 
-„Star Tracks 03“ ist ein Techno/Tech-House-Track, der 2001 auf Star Tracks, einem Unterlabel des in Hongkong ansässigen Independent-Labels Technasia, veröffentlicht wurde.
+„Star Tracks 03“ ist ein Techno/Tech-House-Track, der 2001 auf Star Tracks, einem Sublabel des in Hongkong ansässigen Independent-Labels Technasia, veröffentlicht wurde.
 
 #### Trackliste
 ```md

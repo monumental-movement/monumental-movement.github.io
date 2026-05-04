@@ -25,7 +25,7 @@ Text: mmr｜Thema: Aufnahme, Wiedergabe und Erleben von Filmmusik
 Filmmusik besteht aus musikalischer Begleitung (Hintergrundmusik) und
 Es handelt sich um ein „anderes Skript“, das verwendet wird, um menschliche Emotionen zusammen mit visuellen Bildern wie dem Einfügen von Liedern zu steuern.
 
-Filmmusik ist zwar Teil des Films selbst, aber auch ein eigenständiges Kunstwerk, das für sich allein erlebbar ist. In diesem Artikel werden wir herausfinden, wie diese Filmmusik im Laufe der Zeit aufgenommen, verbreitet, aufgenommen und aufbewahrt wurde.
+Während Filmmusik Teil des Films selbst ist, ist sie auch ein eigenständiges Kunstwerk, das für sich allein erlebbar ist. In diesem Artikel werden wir herausfinden, wie diese Filmmusik im Laufe der Zeit aufgenommen, verbreitet, aufgenommen und aufbewahrt wurde.
 
 
 <hr>
@@ -74,7 +74,7 @@ Seit den 1980er Jahren erfreut es sich als Format mit hoher Klangqualität, lang
 
 Es wurde möglich, vollständige Partituren aufzunehmen, was ein goldenes Zeitalter für die Wertschätzung von Filmmusik einläutete.
 
-Es treten auch auf Soundtracks spezialisierte Labels auf (La-La Land Records, Intrada, Varese Sarabande usw.).
+Es sind auch auf Soundtracks spezialisierte Labels erschienen (La-La Land Records, Intrada, Varese Sarabande usw.).
 
 ■DVD/Blu-ray: Video + Musik
 
@@ -88,7 +88,7 @@ Verkauf von Musikquellen auf iTunes und Amazon MP3.
 
 Auch unabhängige Filmkomponisten werden auf Plattformen wie Bandcamp vorgestellt.
 
-Vollständige Partituren, unveröffentlichte Songs und alternative Takes können in hoher Auflösung verbreitet werden.
+Vollständige Partituren, unveröffentlichte Songs und alternative Takes können in hoher Auflösung geliefert werden.
 
 ■Abonnement (Spotify / Apple Music usw.)
 
@@ -173,7 +173,7 @@ Partituren werden zum Zweck der Aufführung und Recherche von Filmmusik veröffe
 
 ### Veränderungen im Medium aus der Sicht eines Komponisten
 
-**● John Williams-Generation (analog zur CD)**
+**● John-Williams-Generation (analog zur CD)**
 
 Analoger Master für Orchesteraufnahmen → Digitalisierung
 
@@ -200,7 +200,7 @@ Partituren, die beim Hören auf CD zu neuen Entdeckungen führen (z. B. die Musi
 
 Ein Soundtrack, der „Erinnerungen weckt“, indem er von den Bildern getrennt wird
 
-Das Aufkommen von Medien der nächsten Generation, die wieder mit Videos integriert werden, wie z. B. Spielemusik und VR
+Das Aufkommen von Medien der nächsten Generation, die wieder mit Bildern integriert werden, wie etwa Spielemusik und VR
 
 
 <hr>

@@ -101,11 +101,11 @@ Wichtig ist, dass diese Methode keine theoretische Erfindung war, sondern als Er
 ## Bildung der Tanzkultur
 
 
-Die Wiederholung der Breakbeats veränderte den körperlichen Ausdruck der Tänzer stark. Es entwickeln sich eher Bewegungen näher am Boden, Drehungen, plötzliche Stopps und Neustarts als vertikale Bewegungen.
+Die Wiederholung der Breakbeats veränderte den körperlichen Ausdruck der Tänzer stark. Bewegungen näher am Boden, Drehungen, plötzliche Stopps und Neustarts entwickeln sich eher als vertikale Bewegungen.
 
 Diese Bewegungen waren keine Choreographie, sondern spontane Reaktionen. Im Kreis umringt vom Publikum und dem DJ machten die Tänzer ihre Präsenz mit ihren Körpern deutlich.
 
-Später wurde diese Tanzkultur Breakdance genannt, doch zunächst gab es weder einen klaren Namen noch ein System dafür.
+Später wurde diese Tanzkultur Breakdance genannt, zunächst gab es jedoch keinen eindeutigen Namen oder System dafür.
 
 >Tanz war keine Technik, die man zeigen konnte, sondern eine unmittelbare Reaktion auf Klang.
 
@@ -170,7 +170,7 @@ Hip-Hop war keine individuelle Erfindung, sondern eine Ansammlung von Acts, die 
 
 Die Kultur, die später Hip-Hop genannt wurde, war zunächst unorganisiert, aber insofern flexibel und stark.
 
-Bevor Ideen und Definitionen gegeben wurden, erzeugten Geräusche Geräusche, Körper bewegten sich und Städte wurden genutzt. Zuerst wurde Kultur gemacht und dann darüber gesprochen.
+Bevor Ideen und Definitionen gegeben wurden, wurden Geräusche gehört, Körper bewegt und Städte genutzt. Zuerst wurde Kultur gemacht und dann darüber gesprochen.
 
 Das Verständnis dieses frühen Stadiums führt zu einer Neukonzeption von Hip-Hop als einem kulturellen Gerät, das auf Umstände und nicht auf ein festes Genre reagiert.
 

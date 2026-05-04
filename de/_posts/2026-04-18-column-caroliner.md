@@ -12,24 +12,25 @@ tags:
 - Noise
 - Industrial
 - Bluegrass
-title: 【コラム】 キャロライナー：サンフランシスコ地下音楽に潜む仮面の共同体
+title: '[Kolumne] Carolina Liner: Eine maskierte Community, versteckt in der Underground-Musikszene
+  von San Francisco'
 ---
 
 
 
-## キャロライナーとは何か
+## Was ist Carolliner?
 
-文：mmr｜テーマ：実験音楽からブルーグラスまでを横断するキャロライナーの音楽構造と、中核人物Gruxを軸とした流動的共同体の実像を読み解く。
+Text: mmr｜Thema: Interpretation der musikalischen Struktur von Caroliner, die von experimenteller Musik bis Bluegrass reicht, und der Realität der fließenden Gemeinschaft rund um Grux, die Kernfigur.
 
-### 仮面と匿名性から始まる物語
+### Eine Geschichte, die mit Masken und Anonymität beginnt
 
-キャロライナーは、アメリカ・サンフランシスコを拠点とする前衛音楽集団であり、1980年代後半から活動を続けている。名義は一定せず、「Caroliner Rainbow」「Caroliner Rainbow Hernia Milk Queen」など、極端に変化する長い名称でも知られる。
+Carolinaliner ist eine Avantgarde-Musikgruppe mit Sitz in San Francisco, USA, und seit den späten 1980er Jahren aktiv. Der Name ist nicht konstant und ist auch für seine langen und äußerst variablen Namen bekannt, wie zum Beispiel „Caroliner Rainbow“ und „Caroliner Rainbow Hernia Milk Queen“.
 
-音楽的には Experimental、Noise、Industrial、そして Bluegrass という一見相容れないジャンルを横断する特異な存在である。特にブルーグラス的な要素が、歪みやノイズと融合する点は他に類を見ない。
+Musikalisch sind sie eine einzigartige Einheit, die die scheinbar gegensätzlichen Genres Experimental, Noise, Industrial und Bluegrass durchquert. Insbesondere die Art und Weise, wie Bluegrass-Elemente mit Verzerrung und Rauschen verschmolzen werden, ist einzigartig.
 
-匿名性は徹底されており、メンバーの素顔や固定的な構成は明かされない。しかしその内部には明確な構造が存在する。
+Die Anonymität ist gewährleistet und die wahren Gesichter sowie die feste Zusammensetzung der Mitglieder werden nicht preisgegeben. Es gibt jedoch eine klare Struktur darin.
 
-> キャロライナーはジャンルの混交と匿名性によって成立する音響共同体である。
+>Caroliner ist eine Klanggemeinschaft, die durch eine Mischung aus Genres und Anonymität entstanden ist.
 
 ---
 
@@ -47,13 +48,13 @@ color: #fff;
 </style>
 
 
-## 中核人物とメンバー構成
+## Kernleute und Zusammensetzung der Mitglieder
 
-### Grux を軸とした流動的ネットワーク
+### Fluides Netzwerk rund um Grux
 
-キャロライナーの中心人物は Grux である。長年にわたり活動の核を担い、音楽的方向性やコンセプト形成において重要な役割を果たしてきた。
+Die Hauptfigur des Carolinaliners ist Grux. Er steht seit vielen Jahren im Mittelpunkt unserer Aktivitäten und hat unsere musikalische Ausrichtung und unser Konzept maßgeblich mitgeprägt.
 
-その周囲には複数のメンバーが関与してきた履歴があり、代表的な名前として以下が知られている。
+Es gibt eine Geschichte der Beteiligung mehrerer Mitglieder, und die folgenden werden als repräsentative Namen bezeichnet.
 
 ・Brandan Kearney
 ・Chris Cooper
@@ -63,7 +64,7 @@ color: #fff;
 ・Lara Allen
 ・Phil Franklin
 
-これらのメンバーは固定的な編成として存在するのではなく、時期やプロジェクトごとに関与の度合いが変化する流動的な構造を持つ。特に Lara Allen はボーカルやパフォーマンス面で重要な役割を担ってきたとされる。
+Diese Mitglieder existieren nicht als feste Organisation, sondern haben eine fließende Struktur, in der sich der Grad der Einbindung je nach Zeitraum und Projekt ändert. Insbesondere Lara Allen soll stimmlich und schauspielerisch eine wichtige Rolle gespielt haben.
 
 <div class="mermaid">
 flowchart TD
@@ -79,36 +80,36 @@ D --> J[Lara Allen]
 D --> K[Phil Franklin]
 </div>
 
-この構造において、中心は固定されながらも周囲は常に変化し続ける。
+In dieser Struktur ist das Zentrum fest, aber die Umgebung verändert sich ständig.
 
-> Grux の存在が連続性を担保し、他のメンバーが変化を生み出す。
-
----
-
-## サンフランシスコ地下シーンとの関係
-
-### 1980年代以降の文脈
-
-キャロライナーは1980年代後半のサンフランシスコ地下音楽シーンにおいて誕生した。この時代はDIY精神が強く、カセット文化や非商業的流通が主流であった。
-
-彼らはその環境の中で、流通の外側に位置することを選び、独自の活動を展開する。音楽のみならず、視覚表現やパフォーマンスを含む総合的なアートとして存在していた。
-
-> キャロライナーは地下シーンの中でも特に閉鎖性と独自性を強めた存在だった。
+> Die Anwesenheit von Grux sorgt für Kontinuität und andere Mitglieder sorgen für Veränderungen.
 
 ---
 
-## 音楽性の構造
+## Verbindung zur Untergrundszene von San Francisco
 
-### ブルーグラスとノイズの交差
+### Kontext nach den 1980er Jahren
 
-キャロライナーの音楽は、ジャンルの衝突によって成立している。
+Caroliner wurde Ende der 1980er Jahre in der Underground-Musikszene von San Francisco geboren. Zu dieser Zeit herrschte ein starker DIY-Geist, und die Kassettenkultur und der nichtkommerzielle Vertrieb waren Mainstream.
 
-・ブルーグラス的な弦楽器や旋律
-・ノイズによる音響の破壊
-・インダストリアル的な質感
-・実験音楽的な構造解体
+In diesem Umfeld ziehen sie es vor, sich außerhalb der Zirkulation aufzuhalten und ihre eigenen Aktivitäten zu entwickeln. Es existierte als umfassende Kunst, die nicht nur Musik, sondern auch visuellen Ausdruck und Darbietung umfasste.
 
-これらが同時に存在し、互いを打ち消し合いながら新たな音響を生み出す。
+>Caroliner war eine besonders geschlossene und einzigartige Gruppe innerhalb der Underground-Szene.
+
+---
+
+## Struktur der Musikalität
+
+### Die Schnittstelle von Bluegrass und Noise
+
+Caroliners Musik basiert auf der Kollision von Genres.
+
+・Saiteninstrumente und Melodien im Bluegrass-Stil
+・Akustische Zerstörung durch Lärm
+・Industrielle Textur
+・Experimentelle musikalische Strukturdekonstruktion
+
+Diese existieren gleichzeitig, heben sich gegenseitig auf und erzeugen neue Klänge.
 
 <div class="mermaid">
 flowchart TD
@@ -119,19 +120,19 @@ D[Experimental] --> E
 E --> F[不安定な音響]
 </div>
 
-特にブルーグラスの要素が歪みの中に埋もれる構造は、過去の音楽形式の解体と再構築を象徴している。
+Insbesondere die Struktur, in der Bluegrass-Elemente verzerrt vergraben sind, symbolisiert die Dekonstruktion und Rekonstruktion vergangener Musikformen.
 
-> 伝統音楽すらノイズの中に解体される点に、キャロライナーの特異性がある。
+>Carolinars sind insofern einzigartig, als selbst traditionelle Musik in Lärm zerlegt wird.
 
 ---
 
-## 視覚表現と儀式性
+## Visueller Ausdruck und Ritual
 
-### 身体の非個人化
+### Depersonalisierung des Körpers
 
-ライブにおいて、キャロライナーは仮面や奇怪な衣装を用い、個人の存在を消去する。
+Bei Live-Auftritten nutzt Caroliner Masken und bizarre Kostüme, um die Existenz einzelner Personen auszulöschen.
 
-これにより、演奏者は「個人」ではなく「機能」として扱われる。動きや振る舞いも意味を持たず、儀式的な反復や断片として提示される。
+Infolgedessen wird der Darsteller als „Funktion“ und nicht als „Individuum“ behandelt. Auch Bewegung und Verhalten haben keine Bedeutung und werden als rituelle Wiederholungen oder Fragmente dargestellt.
 
 <div class="mermaid">
 flowchart LR
@@ -141,54 +142,54 @@ C --> D[儀式]
 D --> E[観客との断絶]
 </div>
 
-この構造は、観客に解釈ではなく体験を強制する。
+Diese Struktur zwingt das Publikum eher zum Erleben als zum Interpretieren.
 
-> キャロライナーのライブは意味の共有を拒絶する場である。
+>Caroliners Live-Auftritt ist ein Ort, der sich weigert, Bedeutung zu teilen.
 
 ---
 
-## ディスコグラフィの特徴
+## Merkmale der Diskographie
 
-### 連続する断片
+### Aufeinanderfolgende Fragmente
 
-キャロライナーの作品は、明確な完成形を持たない。
+Caroliners Werke haben keine klare fertige Form.
 
-カセットや限定リリースを中心に発表される音源は、それぞれが断片でありながら、全体として一つの連続体を形成している。
+Obwohl es sich bei den hauptsächlich auf Kassetten und limitierten Veröffentlichungen veröffentlichten Tonquellen um Fragmente handelt, bilden sie als Ganzes ein Kontinuum.
 
-代表的なタイトルとしては以下が挙げられる。
+Zu den typischen Titeln gehören die folgenden.
 
-・"Rise of the Common Woodpile"
-・"All Her Paths Are Peaceful"
-・"The Pegging of the President"
+・„Aufstieg des gemeinen Holzstapels“
+・„Alle ihre Wege sind friedlich“
+・„The Pegging of the President“
 
-これらは独立した作品というより、継続的な音響生成の一部として理解される。
+Diese können eher als Teil einer kontinuierlichen Klangproduktion denn als eigenständige Werke verstanden werden.
 
-> ディスコグラフィは時間的に連続する音の流れである。
+> Eine Diskographie ist ein zeitlich kontinuierlicher Strom von Klängen.
 
 ---
 
 ## Chronologie
 
-### 活動の流れ
+### Ablauf der Aktivitäten
 
-| 年代       | 出来事           |
+| Jahre | Veranstaltungen |
 | -------- | ------------- |
-| 1980年代後半 | サンフランシスコで活動開始 |
-| 1990年代   | カセット中心のリリース展開 |
-| 2000年代   | CDや再発作品が増加    |
-| 2010年代以降 | 断続的に活動継続      |
+| Ende der 1980er Jahre | Betriebsaufnahme in San Francisco |
+| 1990er Jahre | Release-Entwicklung mit Schwerpunkt auf Kassetten |
+| 2000er | CDs und Neuauflagen nehmen zu |
+| Seit den 2010er Jahren | Zeitweise aktiv |
 
-> キャロライナーは断絶ではなく持続によって形成されている。
+>Carolina entsteht nicht durch Bruch, sondern durch Kontinuität.
 
 ---
 
-## 地下音楽における位置づけ
+## Position in der Underground-Musik
 
-### ジャンルの外側
+### Außerhalb des Genres
 
-キャロライナーは複数のジャンルを横断しながら、どこにも完全には属さない。
+Carolliner durchquert mehrere Genres, gehört jedoch nie vollständig zu einem.
 
-ノイズやインダストリアルと接点を持ちながらも、ブルーグラスという異質な要素を導入することで、既存の枠組みを崩している。
+Obwohl es Verbindungen zu Noise und Industrial aufweist, stört es den bestehenden Rahmen, indem es das fremde Element von Bluegrass einführt.
 
 <div class="mermaid">
 flowchart TD
@@ -200,11 +201,11 @@ E --> F[キャロライナー]
 F --> G[非分類領域]
 </div>
 
-> キャロライナーはジャンルの交差点ではなく、その外側に位置する。
+>Carolina steht nicht an der Schnittstelle der Genres, sondern außerhalb davon.
 
 ---
 
-## なぜ「伝説的」と呼ばれるのか
+## Warum heißt es „legendär“?
 
 ### Unsichtbarkeit und Beständigkeit
 

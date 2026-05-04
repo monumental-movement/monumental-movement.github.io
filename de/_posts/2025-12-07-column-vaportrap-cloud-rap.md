@@ -184,10 +184,10 @@ timeline
 
 ---
 
-## Fazit: Wohin entwickelt sich „Cloud Rap“?
+## Fazit: Wohin steuert „Cloud Rap“?
 
 Cloud Rap ist nicht nur ein Genre, es ist zu einem Symbol für Post-Internet-Hip-Hop-Produktionsmethoden, Ästhetik und Vertriebskultur geworden. Die Fusion mit Vaportrap weist weiterhin auf eine Richtung hin, in der sich Musik eher um die Online-Ästhetik als um den physischen Kontext dreht.
 
-Es wird erwartet, dass die Cloud-Rap-ähnliche Textur in Zukunft durch die Verknüpfung mit der KI der Generation noch abstrakter wird und sich zu einem atmosphärischeren und „unmenschlicheren“ Klangbild ausweitet.
+Es wird erwartet, dass die Cloud-Rap-ähnliche Textur in Zukunft durch die Verknüpfung mit der KI der Generation noch abstrakter wird und sich zu einem atmosphärischeren und „unmenschlicheren“ Klangbild entwickelt.
 
 ---

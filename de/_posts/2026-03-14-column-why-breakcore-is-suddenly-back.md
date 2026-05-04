@@ -19,7 +19,7 @@ title: '[Kolumne] Warum Breakcore plötzlich zurück ist – Der Grund, warum ch
 
 ## Was ist Breakcore?
 
-Text: mmr｜Thema: Aus Geschichte und Kultur entschlüsseln, warum sich Breakcore, ein Musikgenre aus Hochgeschwindigkeits-Breakbeats und digitalem Chaos, dank der modernen Internet-Generation erneut explosionsartig verbreitet.
+Text: mmr｜Thema: Verstehen, warum sich Breakcore, ein Musikgenre aus Hochgeschwindigkeits-Breakbeats und digitalem Chaos, dank der modernen Internet-Generation erneut explosionsartig ausbreitet, aus Geschichte und Kultur.
 
 
 In der Geschichte der elektronischen Musik tauchen in jeder Epoche „Genres auf, die den gesunden Menschenverstand stören“.
@@ -43,7 +43,7 @@ Das Tempo überschreitet oft 160-220 BPM und der Beat ist in Sekunden zerhackt.
 
 Mit anderen Worten: Breakcore ist nicht nur ein Musikgenre;
 
-„Extreme Form der Sampling-Kultur“
+„Extremform der Sampling-Kultur“
 
 Das konnte man sagen.
 
@@ -95,7 +95,7 @@ Dadurch wird die Musik rasch radikaler.
 
 Das Ergebnis war eine neue Musik, die heftiger als Dschungel und rhythmischer als Lärm war.
 
-> Breakcore wurde aus dem freisten und anarchischsten Raum der Rave-Kultur geboren.
+> Breakcore entstand aus dem freisten und anarchischsten Raum der Rave-Kultur.
 
 ---
 
@@ -175,7 +175,7 @@ Dafür gibt es mehrere Gründe.
 
 Da ist zunächst der weltweite EDM-Boom.
 
-In den 2010er Jahren verlagerte sich die elektronische Musik hin zu einem größeren Festivalsound.
+In den 2010er Jahren entwickelte sich die elektronische Musik zu einem größeren Festivalsound.
 
 Seine Eigenschaften waren wie folgt.
 
@@ -363,7 +363,7 @@ Es gibt fünf Hauptgründe:
 
 4. Einfache DIY-Produktion
 
-5. Genre-Mischkultur
+5. Gemischte Genrekultur
 
 Mit anderen Worten, Breakcore ist
 

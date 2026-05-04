@@ -209,7 +209,7 @@ Diese Themen werden zu wichtigen Motiven im Techno.
 
 Diese Musik war auch eine neue Form der schwarzen Musik.
 
-Sie haben eine Jazz- und Funk-Tradition, integrieren aber auch elektronische Musik.
+Obwohl sie eine Jazz- und Funk-Tradition haben, integrieren sie elektronische Musik.
 
 Mit anderen Worten: Techno war eine Mischung aus schwarzer Musik und futuristischen Ideen.
 
@@ -308,9 +308,9 @@ Wiederholen Sie kurze Sätze und ändern Sie sie nach und nach.
 
 Techno verwendet die gleiche Methode.
 
-Kleine Veränderungen bewirken über einen langen Zeitraum große Auswirkungen.
+Kleine Veränderungen erzeugen über einen langen Zeitraum große Auswirkungen.
 
-Dies ist besonders wirkungsvoll auf der Clubfläche.
+Besonders wirkungsvoll ist dies auf der Clubfläche.
 
 - Leichte Filteränderungen.
 - Hi-Hat hinzugefügt.
@@ -341,15 +341,15 @@ In London wird es mit der Rave-Kultur in Verbindung gebracht.
 
 Japan hat eine eigene Clubszene entwickelt.
 
-So wird Techno zu einer globalen Musik.
+Auf diese Weise wird Techno zu einer globalen Musik.
 
-Wichtig ist jedoch, dass alle Städte die gleiche Ideologie teilten.
+Aber das Wichtigste ist, dass alle Städte die gleiche Ideologie teilten.
 
 - Vorstellungskraft für die Zukunft.
 - Interesse an Technik.
 - Eine Gemeinschaft namens Club.
 
-Sie waren der Kern der Technokultur.
+Sie bildeten den Kern der Technokultur.
 
 > Techno ist ein ideologisches Netzwerk, das über Städte hinausreicht.
 
@@ -388,7 +388,7 @@ E --> F
 | 1920er Jahre | Geburt elektronischer Musikinstrumente |
 | 1940er Jahre | Magnetbandmusik |
 | 1970er Jahre | Entwicklung deutscher elektronischer Musik |
-| 1980er Jahre | Geburt von Detroit Techno |
+| 1980er Jahre | Geburt des Detroit Techno |
 | 1990er Jahre | Ausbau der globalen Clubkultur |
 | 2000er | Minimaler Techno-Trend |
 | 2010er | Festivalisierung und Globalisierung |

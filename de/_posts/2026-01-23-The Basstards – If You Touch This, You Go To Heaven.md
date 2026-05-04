@@ -15,7 +15,7 @@ title: Die Bastarde – Wenn du das berührst, kommst du in den Himmel
 ---
 
 
-The Basstards ist ein Projekt von DJ Argenis Brito, ebenfalls Mitglied von Señor Coconut And His Orchestra, Cem Oral alias Jammin' Unit und Jay Haze, Chef des Labels Tuning Spork Records.
+The Basstards ist ein Projekt von DJ Argenis Brito, ebenfalls Mitglied von Señor Coconut And His Orchestra, Cem Oral alias Jammin' Unit und Jay Haze, Leiter des Labels Tuning Spork Records.
 
 „If You Touch This, You Go To Heaven“ ist ein Techno/Minimal/Acid-Track, der 2005 auf dem Sublabel Tuning Spork Family Affair von Tuning Spork Records veröffentlicht wurde.
 

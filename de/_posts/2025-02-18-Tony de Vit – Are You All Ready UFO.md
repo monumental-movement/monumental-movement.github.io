@@ -14,7 +14,7 @@ title: Tony de Vit – Sind Sie alle bereit, UFO?
 ---
 
 
-Anthony de Vit, auch bekannt als Tony de Vit, ist ein britischer DJ und Produzent. Ihm wird zugeschrieben, dass er die Hard-House- und Hard-NRG-Sounds, die in den Underground-Szenen von Birmingham und London vorherrschten, in die Mainstream-Clubs gebracht hat, und gilt als eine der einflussreichsten Figuren dieser Ära.
+Anthony de Vit, auch bekannt als Tony de Vit, ist ein britischer DJ und Produzent. Ihm wird zugeschrieben, dass er die Hard-House- und Hard-NRG-Sounds, die in den Underground-Szenen von Birmingham und London vorherrschten, in Mainstream-Clubs gebracht hat, und gilt als eine der einflussreichsten Figuren dieser Ära.
 
 „Are You All Ready / UFO“ ist ein Hard-House-Track, der 1996 auf Jump Wax Records, einem Label von Tony De Vit & Simon Parkes, veröffentlicht wurde.
 

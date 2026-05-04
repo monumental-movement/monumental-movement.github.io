@@ -14,7 +14,7 @@ title: Eagles – Hotel California
 ---
 
 
-Titelsong aus dem Eagles-Album „Hotel California“. Text und Musik von Don Felder und Don Henley.
+Der Titelsong des Eagles-Albums „Hotel California“. Text und Musik von Don Felder und Don Henley.
 
 #### Trackliste
 ```md

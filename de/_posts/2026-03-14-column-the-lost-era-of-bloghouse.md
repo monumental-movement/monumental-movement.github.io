@@ -24,14 +24,14 @@ Text: mmr | Thema: Die Geschichte der Geburt und des Verschwindens von „Blogho
 
 ### Eine neue Clubkultur, geschaffen durch das Internet
 
-Mitte der 2000er Jahre erlebte die Vertriebsstruktur von Clubmusik große Veränderungen. Zusätzlich zu den traditionellen Verbreitungskanälen, die sich auf Plattenläden und die DJ-Community konzentrieren, begann sich das Internet, insbesondere Musikblogs, zu einer neuen Basis für die Verbreitung zu entwickeln.
+Mitte der 2000er Jahre erlebte die Vertriebsstruktur von Clubmusik große Veränderungen. Zusätzlich zu den traditionellen Verbreitungskanälen, die sich auf Plattenläden und die DJ-Community konzentrierten, begann sich das Internet, insbesondere Musikblogs, zu einer neuen Basis für die Verbreitung zu entwickeln.
 
 Der Musikstil, der in dieser Zeit entstand, war die Kultur, die später als „Bloghouse“ bekannt wurde.
 Bloghouse ist kein strenges Musikgenre, sondern eine Bewegung, die eng mit der Internetkultur verbunden ist.
 
 Zu den Funktionen gehören die folgenden Elemente:
 
-- Aggressiver Sound basierend auf Elektro-House
+- Aggressiver Sound basierend auf Electro House
 - Fusion mit Indie-Rock-Elementen
 - Vertrieb inoffizieller Remixe und Bootlegs
 - Verbreitung durch MP3-Blog
@@ -42,7 +42,7 @@ Mit anderen Worten: Bloghouse war weniger ein Musikgenre als vielmehr eine Clubk
 Damals spielten Musikblogs die Rolle, neue Musikquellen vorzustellen. Viele Websites listeten die MP3s als Direktdownloads auf, sodass Leser die neuesten Titel kostenlos erhalten konnten.
 Dieses System schuf ein einzigartiges Vertriebsnetz, das nicht durch Werbeaktionen von Plattenfirmen vermittelt wurde.
 
-Blickt man auf die Geschichte der Clubkultur zurück, so variiert die Verbreitung von Musik je nach Medium stark. Das Radio machte Rockmusik populär, Plattenläden schufen House-Musik und Blogs schufen Bloghouse.
+Rückblickend auf die Geschichte der Clubkultur zeigt sich, dass die Art und Weise, wie Musik verbreitet wird, je nach Medium sehr unterschiedlich ist. Das Radio machte Rockmusik populär, Plattenläden schufen House-Musik und Blogs schufen Bloghouse.
 
 > Bloghouse war ein Testgelände für die Clubkultur, die durch den Musikvertrieb im Internetzeitalter geschaffen wurde.
 
@@ -284,7 +284,7 @@ Im Folgenden sind die wichtigsten Hinterlassenschaften aufgeführt:
 - Anstieg der DIY-Hersteller
 - Internetgesteuerte Musikentdeckung
 
-Darüber hinaus haben die aktuellen TikTok- und SoundCloud-Kulturen eine Struktur, die dem Internet-Verbreitungsmodell der Bloghouse-Ära ähnelt.
+Darüber hinaus weisen die aktuellen TikTok- und SoundCloud-Kulturen eine Struktur auf, die dem Internet-Verbreitungsmodell der Bloghouse-Ära ähnelt.
 
 Das System zur Verbreitung von Musik in der Community wurde bereits während der Bloghouse-Ära etabliert.
 

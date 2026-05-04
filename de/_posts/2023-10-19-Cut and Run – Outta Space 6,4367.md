@@ -13,7 +13,7 @@ title: Cut & Run – Outta Space 6,4367
 ---
 
 
-„Outta Space 6,4367“ ist ein Sample von „Out Of Space“ von The Prodigy.
+「Outta Space 6,4367」は、The Prodigy 「 Out Of Space 」をサンプリング。
 
 #### Trackliste
 ```md

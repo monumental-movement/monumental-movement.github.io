@@ -23,7 +23,7 @@ Text: mmr | Thema: Die Produktion von Jean-Michel Basquiat war von einer „Samp
 
 New York in den frühen 1980er Jahren. Es wird gesagt, dass Jean-Michel Basquiat in seinem Studio in der Lower East Side immer Musik spielte. Für ihn war Klang nicht nur ein Hintergrund, sondern ein Gerät, das die Geschwindigkeit und Struktur des Denkens selbst bestimmte.
 
-Von besonderer Bedeutung war die Musik des Bebop-Innovators Charlie Parker. Schnelle, fragmentierte Phrasen, plötzliche Modulationen, Spannungen zwischen Wiederholung und Abweichung. Diese spiegeln deutlich die Sprachfragmente, die Überlagerung von Symbolen und das improvisierte Überschreiben in Basquiats Gemälden wider.
+Von besonderer Bedeutung war die Musik des Bebop-Innovators Charlie Parker. Schnelle, fragmentierte Phrasen, plötzliche Modulationen, Spannungen zwischen Wiederholung und Abweichung. Diese spiegeln deutlich die Sprachfragmente, Symbolschichten und improvisierten Überschreibungen in Basquiats Gemälden wider.
 
 Gleichzeitig war er tief mit der Hip-Hop-Kultur verbunden, die ihren Ursprung in der Bronx hatte. Die Plattenspieler-Technologie von Grandmaster Flash stellte eine neue Möglichkeit dar, die Zeit zu manipulieren, Klänge zu zerhacken, sie neu anzuordnen und ihre Bedeutung zu aktualisieren. Basquiat transformiert dies in eine visuelle Methode.
 
@@ -64,7 +64,7 @@ D --> A
 
 Diese kreisförmige Struktur steht im Einklang mit der Jazzimprovisation. Der Bildschirm ist nicht vollständig, sondern immer als laufende Arbeit vorhanden.
 
-Zu Basquiats Lieblingsjazzmusikern gehören neben Charlie Parker auch Dizzy Gillespie und Miles Davis, doch was sie gemeinsam haben, ist die Einstellung, „Strukturen aufrechtzuerhalten und sie gleichzeitig zu zerstören“.
+Zu Basquiats Lieblingsjazzmusikern gehören neben Charlie Parker auch Dizzy Gillespie und Miles Davis, doch gemeinsam haben sie die Einstellung, „Strukturen aufrechtzuerhalten und sie gleichzeitig zu zerstören“.
 
 Diese Spannung verleiht seinen Bildern einen einzigartigen Rhythmus und eine einzigartige Dichte.
 

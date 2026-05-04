@@ -19,7 +19,7 @@ title: '[Kolumne] Kann Zine Rave retten? : Möglichkeit von DIY-Medien als Speic
 Text: mmr | Genre: Medienkultur/Musikarchiv | Thema: Zine als Konservierungsmittel für nicht dokumentierte Kultur
 
 
-Ein Zine ist ein kleines Medium, das Sie selbst erstellen können. Zines waren in der Rave-Szene ebenso präsent wie in der Punkszene der 90er Jahre, der feministischen Bewegung und der Skater-Kultur. Ein Rave ist eine Feier des Augenblicks und Zines sind eine großartige Möglichkeit, sich daran zu erinnern und ihn mit anderen zu teilen.
+Ein Zine ist ein kleines Medium, das Sie selbst erstellen können. Zines waren in der Rave-Szene ebenso präsent wie in der Punkszene der 90er Jahre, der feministischen Bewegung und der Skater-Kultur. Ein Rave ist eine Feier des Augenblicks und Zines sind eine tolle Möglichkeit, ihn in Erinnerung zu behalten und mit anderen zu teilen.
 
 ---
 

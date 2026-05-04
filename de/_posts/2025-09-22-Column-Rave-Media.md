@@ -72,7 +72,7 @@ Luft, Rauch, Geruch, Temperatur am Veranstaltungsort
 
 Nonverbale Interaktion zwischen Zuschauern
 
-Rave war keine Klangquelle oder Partitur, sondern ein Phänomen selbst. Daher stellen solche Aufzeichnungen grundsätzlich andere Herausforderungen als gewöhnliche Musikarchive.
+Rave war keine Klangquelle oder Partitur, sondern ein Phänomen an sich. Daher stellen solche Aufzeichnungen grundsätzlich andere Herausforderungen als gewöhnliche Musikarchive.
 
 ---
 
@@ -104,7 +104,7 @@ Gemäß dem Entertainment Business Law wurden Clubs als „Unterhaltungsunterneh
 
 Es war leicht, auf das Aufnehmen von Fotos und Videos zu verzichten (besonders in Shibuya und Roppongi).
 
-Zeitschriftenmedien (wie „LOUD“ und „ele-king“) konnten nur einem begrenzten Umfang folgen.
+Zeitschriftenmedien (wie „LOUD“ und „ele-king“) konnten nur einen begrenzten Umfang verfolgen.
 
 Daher existiert der Tokio-Rave der 1990er-Jahre nur noch „in Erinnerung“.
 
@@ -138,7 +138,7 @@ Viele der Archive, auf die wir uns heute verlassen, sind „nicht autorisiert“
 
 - Anonyme, auf dem Benutzerspeicher basierende Setlists
 
-Allerdings ist dies auch das anschaulichste Mittel, um die „Realität des Ortes“ im Rave zu bewahren. Anstelle eines institutionalisierten Kulturerbes wird nun eine im Untergrund pulsierende Sammlung von „Erinnerungsfragmenten“ zu einem einzigen „Kulturerbe“.
+Allerdings ist dies auch das anschaulichste Mittel, die „Realität des Ortes“ im Rave zu bewahren. Anstelle eines institutionalisierten Kulturerbes wird nun eine im Untergrund pulsierende Sammlung von „Erinnerungsfragmenten“ zu einem einzigen „Kulturerbe“.
 
 ---
 

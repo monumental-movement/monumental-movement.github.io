@@ -9,13 +9,13 @@ permalink: /de/the-beatnuts-take-it-or-squeeze-it/
 tags:
 - Hiphop
 - Rap
-title: Die Beatnuts – Nehmen Sie sie oder drücken Sie sie aus
+title: The Beatnuts – Take It Or Squeeze It
 ---
 
 
-„The Beatnuts – Take It Or Squeeze It“ ist das vierte Studioalbum der Hip-Hop-Gruppe The Beatnuts. Dieses 2001 veröffentlichte Album zeigt den charakteristischen Produktionsstil und die witzigen Texte der Beatnuts.
+「The Beatnuts – Take It Or Squeeze It」は、ヒップホップグループであるビートナッツの4番目のスタジオアルバムです。2001年にリリースされたこのアルバムは、The Beatnutsの特徴的なプロダクションスタイルとウィットに富んだ歌詞を披露しています。
 
-„Take It Or Squeeze It“ basiert auf fröhlichen, funkigen Tracks, die verschiedene musikalische Elemente und Samples enthalten. Auf diesem Album entwickeln die Beatnuts ihren eigenen, einzigartigen Sound, der geschickt Elemente aus Hip-Hop, Funk und lateinamerikanischer Musik einbezieht.
+「Take It Or Squeeze It」は、アップビートでファンキーなトラックを中心に構成されており、さまざまな音楽要素やサンプルが取り入れられています。このアルバムでは、The Beatnutsがヒップホップ、ファンク、ラテン音楽の要素を巧みに取り入れながら、独自のサウンドを展開しています。
 
 #### Trackliste
 ```md

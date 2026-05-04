@@ -72,7 +72,7 @@ Es handelt sich um „von einer Maschine ausgeführte Improvisation“ und zugle
 Dieses Album überschneidet die physische „Klangmessung“ und das metaphysische „Zeitgefühl“.
 Das Motiv, das sich durch die neun Kapitel umfassende Suite zieht, ist die Wiederholung nur weniger Noten, die sich wie Quanteninterferenzmuster verändern.
 
-Das Saxophon von Pharoah Sanders fügt sich in elektronische Klänge ein und behält dabei seine menschliche „Atmung“ bei.
+Das Saxophon von Pharoah Sanders fügt sich in elektronische Klänge ein und behält dabei seine menschliche „Atmung“-Qualität.
 Das Gleichgewicht ist wie die Beziehung zwischen dem Beobachter und dem beobachteten Objekt.
 Die Geräusche von Floating Points messen den Raum und Sanders' Atem beeinflusst ihn.
 Dort koexistieren Wissenschaft und Spiritualität, Messung und Gebet als ein akustisches Phänomen.
@@ -80,7 +80,7 @@ Dort koexistieren Wissenschaft und Spiritualität, Messung und Gebet als ein aku
 ---
 
 ### 5. Analysediagramm: Akustisches Triaxialmodell
-Nachfolgend finden Sie ein abstraktes Modell, das die akustische Struktur von Floating Points anhand der „Frequenzachse“, der „Schalldruckachse“ und der „Achse der Improvisationsbahn“ darstellt.
+Nachfolgend finden Sie ein abstraktes Modell, das die akustische Struktur von Floating Points anhand der „Frequenzachse“, „Schalldruckachse“ und „Achse der Improvisationsbahn“ darstellt.
 
 <div class="mermaid">
 
@@ -135,7 +135,7 @@ timeline
 ### 8. Fazit: Schall beobachten
 
 Die Musik von Floating Points zu hören ist eher ein Akt des „Beobachtens“ des Klangs, als dass man ihn „erlebt“.
-Hier fungiert das Gehör als wissenschaftliches Sinnesorgan, und Musik stellt den Mittelweg** zwischen Geist und Physischem dar.
+Hier fungiert das Gehör als wissenschaftliches Sinnesorgan, und Musik stellt den Mittelweg** zwischen Geist und Körper dar.
 
 Das Genre des Ambient-Jazz wurde von ihm aus „experimenteller Musik in Stille“ geschaffen.
 Es entwickelte sich zu „Musik als Beobachtung“.

@@ -200,7 +200,7 @@ Spielen Sie im Radio und treten Sie in Clubs auf.
 
 Dieser Zyklus schuf die Musikszene.
 
-Zuhörer hören zu Hause im Radio einen DJ und gehen dann am Wochenende in einen Club.
+Die Zuhörer hören zu Hause im Radio einen DJ und gehen dann am Wochenende in einen Club.
 
 Das Radio war direkt mit dem Nachtleben der Stadt verbunden.
 
@@ -218,7 +218,7 @@ Es war ein Stil, der den Garage-Beat noch minimalistischer machte und den Rap in
 
 Diese Musik verbreitete sich auch über den Piratenradio.
 
-Junge MCs versammeln sich im Studio und performen spontane Raps.
+Junge MCs treffen sich im Studio und performen spontane Raps.
 
 Die Atmosphäre der Übertragung war wie eine Live-Schlacht.
 
@@ -250,7 +250,7 @@ C --> D
 
 Die Regierung geht seit Jahren hart gegen Piratenradios vor.
 
-Beschlagnahmung von Sendern, Geldstrafen und Beeinträchtigung des Rundfunks.
+Beschlagnahmung von Sendern, Geldstrafen und Störung des Rundfunks.
 
 Es konnte jedoch nicht vollständig gelöscht werden.
 

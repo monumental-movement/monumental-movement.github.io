@@ -9,15 +9,15 @@ permalink: /de/hardy-hard-everybody-shake-your-body/
 tags:
 - House
 - Tech House
-title: Hardy Hard – Jeder schüttelt deinen Körper
+title: Hardy Hard – Everybody Shake Your Body
 ---
 
 
-Hardy Hard, mit bürgerlichem Namen Kay Lippert, ist ein deutscher Techno-/Elektromusiker und DJ.
+Hardy Hardこと本名Kay Lippert（ケイ・リッパート）は、ドイツのテクノ／エレクトロのミュージシャンおよびDJ。
 
-Geboren am 10. September 1974 in Dresden. 1997 Umzug nach Berlin.
+1974年9月10日、ドレスデン生まれ。1997年にベルリンに移住。
 
-Sie begannen ihre Karriere 1993 und waren ursprünglich als Hardsequencer bekannt, doch 1997 gaben sie die Rave-Musik auf und änderten ihren Pseudonym, um einen neuen Sound zu erkunden.
+1993年から活動を開始し、元々はHardsequencerとして知られていましたが、1997年にレイヴミュージックを辞め、新しいサウンドを模索することを機にエイリアスを変更しました。
 
 #### Trackliste
 ```md

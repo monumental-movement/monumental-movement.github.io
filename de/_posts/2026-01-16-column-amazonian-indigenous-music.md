@@ -20,11 +20,11 @@ title: '[Kolumne] Musikkultur der indigenen Amazonas: ein Universum aus Klängen
 
 ## Prolog: Eine Klangwelt, die den Wald erfüllt
 
-Text: mmr｜Thema: Musikkultur ist kein festes Erbe, sondern wurde vererbt, während sie als Reaktion auf Veränderungen in der Umwelt und der Gesellschaft ihre Formen verändert.
+Text: mmr｜Thema: Musikkultur, die kein festes Erbe ist, sondern vererbt wurde, während sie als Reaktion auf Veränderungen in der Umwelt und der Gesellschaft ihre Formen veränderte.
 
 Das Amazonasbecken ist eine der kulturell vielfältigsten Regionen der Welt. Hunderte indigene Gruppen haben zusammengelebt, jede mit ihren eigenen Sprachen, Mythen und sozialen Strukturen. In diesem Zusammenhang hat sich Musik nicht als eigenständige Form der Unterhaltung oder Kunst entwickelt, sondern als ein Akt, der untrennbar mit dem Leben selbst verbunden ist.
 
-Es werden Lieder gesungen, um für Erfolg bei der Jagd und in der Landwirtschaft zu beten, und Tänze markieren saisonale Zyklen und Meilensteine ​​des Wachstums. Musik ist nicht etwas, das man hört, sondern etwas, das man tut, und sie ist auch ein Akt, der die Zugehörigkeit zu einer Gemeinschaft bestätigt. Im Amazonaswald herrscht nahezu keine Stille. Vögel, Insekten, Wind und Wasser erzeugen Geräusche, und auch menschliche Musik ist in diesem Kontinuum platziert.
+Es werden Lieder gesungen, um für Erfolg bei der Jagd und in der Landwirtschaft zu beten, und Tänze markieren saisonale Zyklen und Meilensteine ​​des Wachstums. Musik ist nicht etwas, das man hört, sondern etwas, das man tut, und sie ist auch ein Akt, der die Zugehörigkeit zu einer Gemeinschaft bestätigt. Im Amazonaswald herrscht nahezu keine Stille. Vögel, Insekten, Wind und Wasser erzeugen alle Geräusche, und auch menschliche Musik ist in diesem Kontinuum platziert.
 
 > Die indigene Musik des Amazonas existiert als ein Akt, der die Grenzen zwischen Natur und Mensch auflöst.
 

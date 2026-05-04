@@ -59,12 +59,12 @@ Der Soziologe Émile Durkheim nannte die starke kollektive Hochstimmung bei reli
 Dabei handelt es sich um ein Phänomen, bei dem ein Individuum in eine Gruppe aufgenommen wird und in einen Zustand eintritt, der über das normale Selbstbewusstsein hinausgeht.
 
 Von der Antike bis zum Mittelalter waren Feste zentrale Instrumente der gemeinschaftlichen Integration. Musik, Tanz und sich wiederholende Rhythmen fördern die Gruppensynchronisation.
-Die Festivalkultur übernimmt diese Struktur in säkularisierter Form.
+Die Festivalkultur erbt diese Struktur in säkularisierter Form.
 
 ### Gegenkultur der 1960er Jahre
 
 Das Woodstock Festival 1969 ist ein historisches Ereignis, an dem etwa 400.000 Menschen teilnahmen.
-Antikriegsbewegungen, Hippie-Kultur und Rockmusik überschnitten sich, und Musikveranstaltungen wurden mit sozialen Bewegungen verknüpft.
+Die Antikriegsbewegung, die Hippie-Kultur und die Rockmusik überschnitten sich, und Musikveranstaltungen wurden mit sozialen Bewegungen verknüpft.
 
 Zu diesem Zeitpunkt erweiterte sich die Bedeutung von Festivals vom „Musikhören“ zum „Teilen von Werten“.
 
@@ -214,7 +214,7 @@ Aber Online-Communities bewahren ein Zugehörigkeitsgefühl.
 Massenpsychologie hat nicht nur positive Auswirkungen, sondern auch Gefahren.
 Studien zu Massenlawinenunfällen haben gezeigt, dass der Dichteanstieg, sobald er einen Schwellenwert überschreitet, unkontrollierbar wird.
 
-Große Festivals der letzten Jahre legen den Schwerpunkt auf die Gestaltung von Strömungslinien, Dichtemanagement und Echtzeitüberwachung.
+Bei großen Festivals der letzten Jahre lag der Schwerpunkt auf der Gestaltung von Strömungslinien, dem Dichtemanagement und der Echtzeitüberwachung.
 
 Die institutionelle Herausforderung besteht darin, die Sicherheit zu gewährleisten und gleichzeitig den psychologischen Aufschwung aufrechtzuerhalten.
 
@@ -230,7 +230,7 @@ Die institutionelle Herausforderung besteht darin, die Sicherheit zu gewährleis
 ・Veränderungen im Musikkonsumverhalten
 ・Generationsidentitätsbildung
 
-Festivalerlebnisse werden im Langzeitgedächtnis gespeichert und werden Teil der eigenen Lebensgeschichte.
+Festivalerlebnisse bleiben im Langzeitgedächtnis gespeichert und werden Teil der eigenen Lebensgeschichte.
 
 > Festivals sind keine vorübergehenden Ereignisse, sondern kulturelle Instrumente, die Erinnerungen an das Leben schaffen.
 

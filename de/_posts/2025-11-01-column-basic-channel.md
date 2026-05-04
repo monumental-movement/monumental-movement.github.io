@@ -18,12 +18,12 @@ title: '[Kolumne] Basic Channel──Der Ursprung des Berliner Dub Techno'
 ## Prolog: Vom anonymen Lärm zur stillen Revolution
 
 
-Text: mmr｜Thema: „Abgrund des Klangs“, geboren aus dem Berliner Untergrund der 1990er Jahre – Entstehungsgeschichte von Basic Channel und Dub Techno
+Text: mmr｜Thema: Der „Abgrund des Klangs“, geboren aus dem Berliner Untergrund der 1990er Jahre – Die Entstehungsgeschichte von Basic Channel und Dub Techno
 
 
 1993, nur wenige Jahre nach dem Fall der Berliner Mauer.
-Die Stadt wird immer noch wieder aufgebaut, verlassene Fabriken und Lagerhäuser werden in Clubs umgewandelt. Tresor, E-Werk, Planet und schließlich Berghain.
-Inmitten dieses Chaos verursachte **Basic Channel** still und leise eine seismische Verschiebung in der Akustik.
+Die Stadt wird immer noch wieder aufgebaut und verlassene Fabriken und Lagerhäuser werden in Clubs umgewandelt. Tresor, E-Werk, Planet und schließlich Berghain.
+Inmitten dieses Chaos sorgte **Basic Channel** still und leise für eine seismische Verschiebung der Akustik.
 
 Ihre Musik war weder Minimal noch Techno oder House.
 **Der Raum schwingt in den Tiefen des Rhythmus mit**.
@@ -97,7 +97,7 @@ Mit anderen Worten: Musik ist kein Material, sondern ein „Ort“ – diese Phi
 
 ## Kapitel 4: Kettenreaktion──Abstraktionskette
 
-1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
+Im Jahr 1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
 Hier entwickelte sich ein eher anonymes und experimentelles Projekt.
 Hier kreuzt sich die Genealogie der späteren Berliner elektronischen Musik, darunter Monolake, Porter Ricks, Vladislav Delay und Substance.
 
@@ -208,7 +208,7 @@ Das Ende eines Rhythmus wird zum Ausgangspunkt des nächsten Nachhalls – diese
 
 ---
 
-Der Sound von Basic Channel ist zeitlos und bleibt dennoch im „Gegenwart“.
+Der Sound von Basic Channel ist zeitlos und bleibt dennoch in der „Präsensform“.
 Der Grund dafür ist, dass sie nicht nur Techno geschaffen haben, sondern den Akt des Zuhörens neu aufgebaut haben.
 
 Das Echo hört nie auf.

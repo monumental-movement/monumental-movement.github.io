@@ -49,7 +49,7 @@ color: #fff;
 
 Anfang der 1990er Jahre begann Ian Pooley, in seiner häuslichen Umgebung zu produzieren. Zu dieser Zeit bildete sich in Europa ein neuer Trend heraus, bei dem sich der vom Detroit Techno beeinflusste Minimal-Sound mit dem einzigartigen Groove des britischen House kreuzte. Während seines Aufenthalts in Deutschland war sich Pooley der Trends sehr bewusst.
 
-Um 1994 erlangte seine Arbeit allmählich Aufmerksamkeit bei Club-DJs. Die Designphilosophie, sich in den Fluss der Mischung einzufügen, ohne auffällige Breaks oder übermäßige Samples zu verwenden, hatte einen anderen Wert als sofortige Hits.
+Um 1994 erlangte seine Arbeit allmählich Aufmerksamkeit bei Club-DJs. Die Designphilosophie, sich in den Fluss der Mischung einzufügen, ohne auffällige Pausen oder übermäßige Samples zu verwenden, hatte einen anderen Wert als sofortige Hits.
 
 Pooleys Songs gelten insbesondere in der britischen Clubkultur als „zuverlässiger Mittelweg“. Sie können auf natürliche Weise rund um Haupt- und Hauptverkehrszeiten platziert werden und kollidieren nicht mit anderen LKWs. Es ist diese Funktionalität, die ihn zu einem langjährigen Unterstützer gemacht hat.
 
@@ -84,13 +84,13 @@ Das Besondere an Pooley ist, dass er nicht den Standpunkt vertrat, eine bestimmt
 
 Die Produktion erfolgt mit einer Methode, bei der die Echtzeitleistung im Vordergrund steht. Auch bei der Aufnahme mit einem Sequenzer sind Loops nicht fixiert; Sie werden durch Fader-Bedienung, Stummschaltung und Effektverarbeitung ständig verändert. Dies war ein Versuch, gleichzeitig als Studio das gleiche Zeitgefühl wie ein Club zu vermitteln.
 
-Der Mixer war nicht nur ein Lautstärkeregler, sondern fungierte als Teil der Songstruktur. Bei der Lokalisierung und Bandbreite jedes Tons wird davon ausgegangen, dass er letztendlich durch einen DJ-Mixer geleitet wird, wodurch die Diskrepanz zwischen dem Studio-Mix und dem Mix vor Ort minimiert wird.
+Der Mixer war nicht nur ein Lautstärkeregler, sondern fungierte als Teil der Songstruktur. Die Lokalisierung und das Band jedes Tons werden unter der Annahme entwickelt, dass er letztendlich durch einen DJ-Mixer geleitet wird, wodurch die Diskrepanz zwischen dem Studio-Mix und dem Mix vor Ort minimiert wird.
 
 ### Vergleich der Produktionsumgebung mit zeitgenössischen Künstlern
 
 Viele Künstler, die im gleichen britischen House-Kontext der 90er Jahre arbeiteten, tendierten zu einer eher auf Samples oder Gesang ausgerichteten Produktion. Pooley hingegen verfolgte weiterhin die strukturelle Schönheit der Instrumentalmusik.
 
-Während beispielsweise Produzenten, die stark vom US-House beeinflusst sind, den Schwerpunkt auf emotionale Höhepunkte legten, betont Pooley die Veränderung der Grooves im Laufe der Zeit. Dies ist ein Ansatz, der aufgrund der Produktionsumgebung möglich ist, in der sich durch den Betrieb der Geräte winzige Unterschiede ansammeln.
+Während beispielsweise Produzenten, die stark vom US-House beeinflusst sind, den Schwerpunkt auf emotionale Höhepunkte legten, betont Pooley die Veränderung der Grooves im Laufe der Zeit. Dieser Ansatz ist aufgrund der Produktionsumgebung möglich, in der sich durch den Betrieb der Geräte winzige Unterschiede ansammeln.
 
 ### Position im britischen Repräsentantenhaus
 
@@ -122,7 +122,7 @@ DJs „spielen“ Songs nicht, sie „arrangieren“ sie. Pooley verstand die Pr
 
 ### Vergleich mit Tracks für zeitgenössische DJs
 
-In den späten 1990er Jahren konzentrierten sich viele House-Tracks auf unmittelbare Effekte und hatten eine Struktur, die innerhalb kurzer Zeit eine Reaktion beim Publikum hervorrief. Obwohl diese vorübergehend sehr wirksam waren, nahm ihre Anwendungshäufigkeit langfristig tendenziell ab.
+In den späten 1990er Jahren konzentrierten sich viele House-Tracks auf unmittelbare Effekte und hatten eine Struktur, die innerhalb kurzer Zeit eine Reaktion beim Publikum hervorrief. Obwohl diese vorübergehend hochwirksam waren, nahm ihre Anwendungshäufigkeit langfristig tendenziell ab.
 
 Pooleys Lieder hingegen unterdrücken bewusst den Höhepunkt der Reaktion. Dadurch konnten DJs die Dynamik des gesamten Sets selbst gestalten und die Songs wurden immer wieder zu wiederverwendbarem Material.
 
@@ -138,7 +138,7 @@ Infolgedessen zirkulieren Pooleys Trucks weiterhin still und leise außerhalb de
 
 ## Position in der Clubmusikgeschichte
 
-Ian Pooley ist nicht der Typ Künstler, der zum Symbol einer Bewegung wird. Es handelt sich jedoch um eine wichtige Präsenz, die House-Musik seit den 1990er Jahren strukturell unterstützt.
+Ian Pooley ist nicht der Typ Künstler, der zum Symbol einer Bewegung wird. Es ist jedoch eine wichtige Präsenz, die House-Musik seit den 1990er Jahren strukturell unterstützt.
 
 Seine Arbeit ist immer in einem Kontext verankert und steht nie für sich allein. Diese Haltung stellt eine Perspektive dar, die Clubmusik sowohl als kulturellen Ausdruck als auch als praktisches Designobjekt betrachtet.
 

@@ -11,24 +11,24 @@ tags:
 - No Wave
 - Bossa Nova
 - Nose
-title: '[Kolumne] Grenzüberschreitender Lärm und Bossa Nova: Art Lindsays Flugbahn'
+title: 【コラム】 越境するノイズとボサノヴァ：アート・リンゼイの軌跡
 ---
 
 
 
-## Prolog: Musiker, die Grenzen sprengen
+## 序章：境界を壊す音楽家
 
-Text: mmr｜Thema: Der Werdegang von Art Lindsay, der weiterhin Lärm und brasilianische Musik durchquerte und mit Japan in Resonanz kam.
+文：mmr｜テーマ：ノイズとブラジル音楽を横断し続け、日本とも共振したアート・リンゼイの軌跡
 
-### Zwischen Lärm und Sinnlichkeit
+### ノイズと官能のあいだで
 
-Wenn viele Leute zum ersten Mal den Namen Art Lindsay hören, versuchen sie, seine Musik einem Genre zuzuordnen. Doch im Laufe seiner Karriere wird dieser Versuch schnell bedeutungslos. Er ist einer der wenigen, denen es gelungen ist, den Lärm ohne Welle und die Sanftheit brasilianischer Musik gleichzeitig zu vereinen.
+アート・リンゼイという名前を最初に聞いたとき、多くの人はその音楽を一つのジャンルに収めようとする。しかし彼のキャリアを辿ると、その試みはすぐに無意味になる。彼はノー・ウェイヴの騒音と、ブラジル音楽の柔らかさ、その両極を同時に成立させてきた数少ない存在である。
 
-In der avantgardistischen Musikbewegung, die sich Ende der 1970er Jahre in New York formierte, verwandelte er die Gitarre von einem „melodischen Instrument“ in ein „Gerät, das physische Kollisionsgeräusche erzeugt“. Andererseits sind die Feuchtigkeit und Körperlichkeit von Rio de Janeiro tief in seine Stimme und Kompositionen eingebrannt.
+1970年代後半のニューヨークで形成された前衛的な音楽運動の中で、彼はギターという楽器を「旋律を奏でるもの」から「物理的な衝突音を生む装置」へと変換した。一方で、彼の声や作曲には、リオデジャネイロの湿度と身体性が濃密に刻み込まれている。
 
-Diese Dualität ist kein Zufall. Denn seine Kindheitserfahrung in Brasilien und seine Aktivitäten in der New Yorker Kunstszene koexistieren in ihm harmonisch.
+この二面性は偶然ではない。幼少期をブラジルで過ごした経験と、ニューヨークのアート・シーンでの活動が、彼の中で矛盾なく共存しているからだ。
 
-> Seine Musik steht immer an der Schnittstelle von Stadt und Körper, Intellekt und Impuls.
+> 彼の音楽は常に、都市と身体、知性と衝動の接点に立っている。
 
 ---
 
@@ -46,121 +46,121 @@ color: #fff;
 </style>
 
 
-## Kapitel 1: In Brasilien genährte Gefühle
+## 第一章：ブラジルで育まれた感覚
 
-### Kindheit und kultureller Hintergrund
+### 幼少期と文化的背景
 
-Lindsay wurde in den USA geboren und verbrachte einen Großteil ihrer Kindheit in Brasilien. Da seine Eltern Missionare waren, war er tief in die lokale Kultur eingetaucht. Diese Erfahrung wurde zu einem wichtigen Faktor für die Bestimmung seiner späteren Musikalität.
+アメリカ生まれのリンゼイは、幼少期の多くをブラジルで過ごした。両親が宣教師として活動していたため、彼は現地の文化に深く浸ることになる。この経験は、後の彼の音楽性を決定づける重要な要素となった。
 
-Die rhythmischen Schwankungen der brasilianischen Musik, insbesondere Bossa Nova und Samba, der Klang der portugiesischen Sprache und die enge Beziehung zwischen Körper und Musik. Diese Gefühle sammeln sich in ihm als natürliche Empfindungen an.
+ブラジル音楽、とりわけボサノヴァやサンバにおけるリズムの揺らぎ、言語としてのポルトガル語の響き、そして身体と音楽の密接な関係性。これらは彼の中で自然な感覚として蓄積されていく。
 
-Der Grund, warum er in späteren Jahren oft auf Portugiesisch statt auf Englisch sang, lag im Einfluss dieser Zeit.
+後年、彼が英語ではなくポルトガル語で歌うことが多いのも、この時期の影響によるものだ。
 
-### Musik als Körperlichkeit
+### 身体性としての音楽
 
-Eines der Merkmale der brasilianischen Musik ist, dass der Klang direkt mit dem Körper verbunden ist. Rhythmus ist nicht nur eine Struktur; es ist in die Bewegung des Körpers integriert. Lindsay würde diese Sensibilität in seine spätere experimentelle Musik übertragen.
+ブラジル音楽の特徴の一つは、音が身体と直結している点にある。リズムは単なる構造ではなく、身体の動きと一体化している。リンゼイはこの感覚を、後の実験音楽にも持ち込むことになる。
 
-Ein organischer, feuchter Klang, der sich vom kalten Minimalismus New Yorks unterscheidet. Dieser Hintergrund verleiht seiner Musik eine einzigartige „Sanftheit“.
+ニューヨークの冷たいミニマリズムとは異なる、有機的で湿度のある音。彼の音楽に独特の「柔らかさ」があるのは、この背景による。
 
-> Für ihn war Musik etwas, das vom Körper kam, nicht Theorie.
-
----
-
-## Kapitel 2: New York und No Wave
-
-### Bildung von DNA
-
-In den späten 1970er Jahren wurde in der Innenstadt von New York eine Bewegung namens „No Wave“ aus starkem Widerstand gegen konventionellen Rock geboren. Im Mittelpunkt stand dabei die Band DNA, in der Lindsay Mitglied war.
-
-DNA ist für seine extrem reduzierten Kompositionen und fast schon heftigen Klänge bekannt. Seine Gitarre ignorierte Akkorde und Tonleitern und durchschnitt den Raum mit einer Reihe von Geräuschen und fragmentierten Klängen.
-
-Dieser Stil lehnte grundsätzlich die traditionellen Rockwerte ab.
-
-### Das Phänomen der No-Wave
-
-No Wave war mehr als nur ein Musikgenre, es war eine kulturelle Bewegung, die Kunst, Film und Performance überschnitt. Dabei erforscht Lindsay die Beziehung zwischen Musik, Körper und visuellem Ausdruck.
-
-DNAs Lieder auf No New York werden noch immer als symbolische Aufzeichnungen dieser Bewegung überliefert.
-
-Seine Gitarre wurde in einem anderen Kontext als der traditionellen „Spieltechnik“ bewertet. Es war vielmehr ein Versuch, den Klang selbst zu dekonstruieren und zu rekonstruieren.
-
-> Lärm bedeutete für ihn keine Zerstörung, sondern die Schaffung einer neuen Sprache.
+> 彼にとって音楽とは、理論ではなく身体から立ち上がるものだった。
 
 ---
 
-## Kapitel 3: Rückkehr nach Brasilien und Integration
+## 第二章：ニューヨークとノー・ウェイヴ
 
-### Ambivalenter Richtungswechsel
+### DNAの結成
 
-In den 1980er Jahren kehrte Lindsay nach und nach zur brasilianischen Musik zurück. Dies war jedoch nicht nur Nostalgie, sondern eine Neuinterpretation basierend auf der Erfahrung von No Wave.
+1970年代後半、ニューヨークのダウンタウンでは、既存のロックに対する強い反発から「ノー・ウェイヴ」と呼ばれる動きが生まれていた。その中心にいたのが、リンゼイが参加したバンドDNAである。
 
-In seinen Solowerken verschmelzen dissonante und geräuschartige Elemente ganz selbstverständlich mit den sanften, Bossa-Nova-artigen Kompositionen. Diese Fusion war damals äußerst originell.
+DNAは、極端に削ぎ落とされた構成と、暴力的とも言える音響で知られる。彼のギターはコードやスケールをほとんど無視し、ノイズと断片的な音の連続で空間を切り裂いた。
 
-### Zusammenarbeiten und skalieren
+このスタイルは、従来のロックの価値観を根底から否定するものだった。
 
-Lindsay vertiefte auch die Interaktionen mit vielen brasilianischen Künstlern. Besonders wichtig sind seine Beziehungen zu Caetano Veloso und Marisa Monchi.
+### ノー・ウェイヴという現象
 
-Er arbeitete auch als Produzent und Gitarrist und brachte neue Elemente in den Kontext der brasilianischen Musik ein.
+ノー・ウェイヴは単なる音楽ジャンルではなく、アート、映画、パフォーマンスを横断する文化運動だった。リンゼイはその中で、音楽と身体、視覚表現の関係を探求していく。
 
-Seine Musik aus dieser Zeit ist eine Schnittstelle zwischen New Yorker Experimenten und brasilianischer Tradition.
+No New Yorkに収録されたDNAの楽曲は、この運動を象徴する記録として今も語り継がれている。
 
-> Anstatt zurückzukehren, schuf er Kreisläufe, die verschiedene Kulturen verbanden.
+彼のギターは、従来の「演奏技術」とは異なる文脈で評価された。それはむしろ、音そのものを解体し再構築する試みだった。
 
----
-
-## Kapitel 4: Resonanz mit der japanischen Lärmszene
-
-### Kontakte seit den 1980er Jahren
-
-Die Aktivitäten von Art Lindsay waren eng mit der japanischen Noise-/Underground-Szene verbunden. Obwohl ihre direkten Verbindungen als Band begrenzt sind, gibt es eindeutig eine Resonanz auf der Ebene der musikalischen Einstellung und Ästhetik.
-
-Besonders seit den 1980er Jahren hat sich in Japan eine einzigartige Lärmkultur herausgebildet. Dabei liegt der Schwerpunkt eher auf der körperlichen Intensität und dem Klangerlebnis als auf der musikalischen Struktur. Diese Richtung überschneidet sich stark mit Lindsays Ansatz in der DNA-Phase.
-
-### Gemeinsame Ästhetik: Zerstörung und der Körper
-
-Japanische Noise-Künstler wie Ai Yamazuka und Masami Akita trennten Klang von „Bedeutung“ und behandelten ihn als reine Energie.
-
-Dies ähnelt Lindsays Versuch, die Gitarre von ihrer traditionellen Rolle zu befreien. Klang ist keine Melodie oder Akkordfolge, sondern ein physikalisches Phänomen wie Kontakt, Reibung oder Kollision.
-
-Sie legen bei ihren Auftritten auch Wert auf Körperlichkeit. Schall wird als etwas dargestellt, das der Körper aufnimmt, und nicht als etwas, das man mit den Ohren hört.
-
-### Indirekte Effekte zwischen Szenen
-
-Obwohl Acts wie Boredoms und Hijikadan keinen direkten Kontakt zu New York No Wave hatten, waren sie zeitgleich und bewegten sich in eine ähnliche Richtung.
-
-Wichtig ist, dass Lindsay als „einer der Ausgangspunkte“ fungiert. Seine Anwesenheit zeigt, dass japanischer Noise nicht nur ein lokales Phänomen ist, sondern sich im internationalen Strom experimenteller Musik verortet.
-
-### Post-90er als Wiederverbindung
-
-Seit den 1990er Jahren, als sich globale Musiknetzwerke ausweiteten, wurden die japanischen und New Yorker Undergrounds immer sichtbarer. Auch Lindsays Aktivitäten werden in diesem Zusammenhang neu bewertet.
-
-Seine Musik unterscheidet sich von der extremen Gewalt des japanischen Lärms und öffnet sich einer sinnlicheren und mehrdeutigeren Richtung. Allen gemeinsam ist jedoch die Grundhaltung der „Klangdekonstruktion“.
-
-> Die an verschiedenen Orten erzeugten Geräusche waren unterschiedliche Antworten auf dieselbe Frage.
+> ノイズは彼にとって破壊ではなく、新しい言語の創造だった。
 
 ---
 
-## Kapitel 5: Rekonstruktion von Akustik und Raum
+## 第三章：ブラジルへの回帰と融合
 
-### Aufmerksamkeit auf die Textur des Klangs
+### アンビバレントな方向転換
 
-Was in Lindsays Musik wichtiger ist als Melodie oder Rhythmus, ist die „Klangtextur“. Obwohl seine Gitarre oft Verzerrungen und Geräusche enthält, weist sie feine Nuancen auf.
+1980年代に入ると、リンゼイは徐々にブラジル音楽へと回帰していく。しかしそれは単なる懐古ではなく、ノー・ウェイヴの経験を経た上での再解釈だった。
 
-Der Klang ist nicht nur ein Effekt, sondern existiert als Erweiterung einer körperlichen Geste.
+彼のソロ作品では、柔らかなボサノヴァ調の楽曲の中に、不協和音やノイズ的な要素が自然に溶け込んでいる。この融合は当時としては非常に独創的だった。
 
-### Zusammenhang zwischen Studio- und Live-Auftritten
+### コラボレーションと拡張
 
-Er ist sich der räumlichen Ausbreitung des Klangs sowohl bei Studioaufnahmen als auch bei Live-Auftritten bewusst. Wie die Geräusche angeordnet sind und wie sie verschwinden. Der Prozess selbst wird Teil der Arbeit.
+リンゼイは多くのブラジル人アーティストとも交流を深めていく。特にカエターノ・ヴェローゾやマリーザ・モンチとの関係は重要である。
 
-Dieser Ansatz beeinflusste auch die spätere Ambient- und Experimentalmusik.
+彼はプロデューサーやギタリストとしても活動し、ブラジル音楽の文脈に新しい要素を持ち込んだ。
 
-> Klang entsteht nicht nur in der Zeit, sondern auch im Raum.
+この時期の彼の音楽は、ニューヨークの実験性とブラジルの伝統が交差する場となっている。
+
+> 彼は帰還するのではなく、異なる文化を接続する回路を作り上げた。
 
 ---
 
-## Kapitel 6: Diskographie und Geschichte
+## 第四章：日本のノイズシーンとの共振
 
-### Ablauf der Hauptarbeiten
+### 1980年代以降の接点
+
+アート・リンゼイの活動は、日本のノイズ／アンダーグラウンド・シーンとも緩やかに接続していく。直接的なバンド活動としての結びつきは限定的であるが、音楽的態度や美学のレベルでの共振は明確に存在する。
+
+特に1980年代以降、日本では独自のノイズ文化が形成されていった。そこでは、音楽的な構造よりも物理的な音の強度や体験が重視される。この方向性は、DNA期のリンゼイのアプローチと強く重なる。
+
+### 共通する美学：破壊と身体
+
+山塚アイや秋田昌美といった日本のノイズ・アーティストは、音を「意味」から切り離し、純粋なエネルギーとして扱った。
+
+これはリンゼイが行っていた、ギターを伝統的な役割から解放する試みと同質である。旋律やコード進行ではなく、接触、摩擦、衝突といった物理的現象としての音。
+
+また、パフォーマンスにおける身体性の強調も共通している。音は耳で聴くものというより、身体で受け取るものとして提示される。
+
+### シーン間の間接的影響
+
+Boredomsや非常階段などの活動は、ニューヨークのノー・ウェイヴと直接の交流があったわけではないが、同時代的に似た方向へと進んでいった。
+
+重要なのは、リンゼイがその「起点の一つ」として機能している点である。彼の存在は、日本のノイズが単なるローカルな現象ではなく、国際的な実験音楽の流れの中に位置づけられることを示している。
+
+### 再接続としての90年代以降
+
+1990年代以降、グローバルな音楽ネットワークが拡張する中で、日本とニューヨークのアンダーグラウンドはより可視化されるようになる。リンゼイの活動もまた、その文脈の中で再評価されていく。
+
+彼の音楽は、日本のノイズが持つ極端な暴力性とは異なり、より官能的で曖昧な方向へと開かれている。しかしその根底にある「音を解体する」という姿勢は共通している。
+
+> 異なる場所で生まれたノイズは、同じ問いに対する別の答えだった。
+
+---
+
+## 第五章：音響と空間の再構築
+
+### 音の質感へのこだわり
+
+リンゼイの音楽において重要なのは、旋律やリズム以上に「音の質感」である。彼のギターはしばしば歪み、ノイズを含みながらも、繊細なニュアンスを持つ。
+
+その音は、単なるエフェクトではなく、身体的なジェスチャーの延長として存在している。
+
+### スタジオとライブの関係
+
+彼はスタジオ録音とライブパフォーマンスの両方で、音の空間的な広がりを意識している。音がどのように配置され、どのように消えていくか。そのプロセス自体が作品の一部となる。
+
+このアプローチは、後のアンビエントや実験音楽にも影響を与えている。
+
+> 音は時間の中でだけでなく、空間の中でも構築される。
+
+---
+
+## 第六章：ディスコグラフィと変遷
+
+### 主な作品の流れ
 
 <div class="mermaid">
 timeline
@@ -172,13 +172,13 @@ timeline
     2000s : プロデュース・コラボ活動
 </div>
 
-Seine Karriere hat keinen einheitlichen Stil. Innerhalb dieser Veränderungen gibt es jedoch immer eine Achse der „Erkundung der Grenzen des Klangs“.
+彼のキャリアは一貫したスタイルを持たない。しかしその変化の中には、常に「音の境界を探る」という軸が存在している。
 
-### Veränderungen in den musikalischen Eigenschaften
+### 音楽的特徴の変化
 
-Vom frühen heftigen Lärm bis zum späten zarten Bossa Nova. Obwohl die Schwankungsbreite extrem ist, ist sie in gewisser Weise kontinuierlich.
+初期の暴力的なノイズから、後期の繊細なボサノヴァまで。その振れ幅は極端でありながら、どこかで連続している。
 
-Denn für ihn sind Lärm und Harmonie kein Widerspruch.
+これは彼の中で、ノイズと調和が対立するものではないからだ。
 
 > Veränderung ist keine Diskontinuität, sondern das Ergebnis kontinuierlicher Erkundung.
 

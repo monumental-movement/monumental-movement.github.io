@@ -14,7 +14,7 @@ title: Das Dø – Auf meinen Schultern
 ---
 
 
-The Dø ist eine finnisch-französische Indie-Pop-Band, die 2005 in Paris gegründet wurde. Mitglieder sind Olivia Merilahti und Dan Levy. Ihr erstes Studioalbum „A Mouthful“, das 2008 veröffentlicht wurde, war ein weltweiter Hit und führte die französischen Charts an.
+The Dø ist eine finnisch-französische Indie-Pop-Band, die 2005 in Paris gegründet wurde. Mitglieder sind Olivia Merilahti und Dan Levy. Ihr erstes Studioalbum „A Mouthful“, das 2008 veröffentlicht wurde, war ein weltweiter Hit und erreichte die Spitze der französischen Charts.
 
 Diese Platte ist ein House/Minimal-Mix der ersten Single „On My Shoulders“. Es wurde 2009 auf dem Label Voidcom veröffentlicht.
 

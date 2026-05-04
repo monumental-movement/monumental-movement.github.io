@@ -17,7 +17,7 @@ I Am Ready EP ist eine EP von Umek, einem Techno-DJ und -Produzenten aus Sloweni
 
 Diese EP ist voll von Umeks charakteristischem Techno-Sound mit tanzbaren Beats, groovigen Basslinien und raffinierten Synthesizer-Sounds. Seine Songs vereinen kraftvolle, energiegeladene und melodische Elemente und eignen sich daher perfekt für den Einsatz in der Clubszene.
 
-„I Am Ready EP“ ist der neueste Ausdruck von Umeks Musik für Umek-Fans und Techno-Musikliebhaber und ermöglicht ihnen, den Charme und die Einzigartigkeit von Umeks Musik voll und ganz zu schätzen. Sein Sound hat zur Entwicklung und Innovation der Technomusik beigetragen und ist zu einem wesentlichen Bestandteil im Leben vieler Menschen geworden.
+„I Am Ready EP“ ist der neueste Ausdruck von Umeks Musik für Umek-Fans und Techno-Musikliebhaber und ermöglicht ihnen, den Charme und die Einzigartigkeit von Umeks Musik voll und ganz zu schätzen. Sein Sound hat zur Entwicklung und Innovation der Technomusik beigetragen und ist zu einem wesentlichen Bestandteil des Lebens vieler Menschen geworden.
 
 #### Trackliste
 ```md

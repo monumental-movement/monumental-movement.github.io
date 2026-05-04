@@ -116,7 +116,7 @@ color: #fff;
 
 ## 1990er Jahre: Der Aufstieg von Alternativen und Heimkonsolen
 
-- **Zeitlicher Hintergrund**: Mit dem Aufkommen von Grunge und Alternativmusik befand sich der klassische Hardrock etwas im Niedergang. Allerdings wird es stark von Metal-Bands wie Metallica unterstützt.
+- **Zeitlicher Hintergrund**: Mit dem Aufkommen von Grunge und alternativer Musik befand sich der klassische Hardrock etwas im Niedergang. Allerdings wird es stark von Metal-Bands wie Metallica unterstützt.
 - **Berührungspunkt mit Spielen**: Mit dem Aufkommen von PlayStation und Nintendo 64 entstanden CD-Soundquellen. Auch die Verwendung von „echten Rocksongs“ in Spielen nimmt zu.
 - Die „Gran Turismo“-Reihe und „Tony Hawk’s Pro Skater“ sind Symbole für die direkte Verbindung zwischen Rock und Games.
 
@@ -157,7 +157,7 @@ color: #fff;
 
 - **Hintergrund**: Nu-Metal und Post-Grunge waren Hits. Obwohl die Tradition des Hard Rock fragmentiert ist, ist sie immer noch lebendig und wohlauf.
 - **Verbindung zu Spielen**: Die Serien „Guitar Hero“ und „Rock Band“ sind zu gesellschaftlichen Phänomenen geworden. Klassische Hardrock-Songs aus der Vergangenheit werden von einer neuen Generation wiederentdeckt.
-- Musikspiele wurden zu einem „Umerziehungsinstrument“ für Hardrock und führten Jugendliche an Led Zeppelin und Metallica heran.
+- Musikspiele wurden zu einem „Umerziehungsinstrument“ für Hardrock und führten Teenager an Led Zeppelin und Metallica.
 
 **Repräsentatives Meisterwerk**
 - Linkin Park – *Hybridtheorie* (2000)
@@ -306,7 +306,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 
 | Titel | Spuren | Künstler | Notizen |
 |----------|---------|-------------|------|
-| SOUND VOLTEX BOOTH (2012) | Schwarzer Kaiser | Grobe Skizze | Metalcore + Electro |
+| SOUND VOLTEX BOOTH (2012) | Schwarzer Kaiser | Grobe Skizze | Metalcore + Elektro |
 | SOUND VOLTEX II (2013) | XROSS-INFEKTION | BlackY gegen Siromaru | Hard Rock x Speed ​​​​Core |
 | SOUND VOLTEX III (2014) | Wachstumserinnerungen | akhuta | Bandsound |
 | SOUND VOLTEX VIVID WAVE (2019) | Ich | nora2r | Digitaler Hardrock-Stil |
@@ -368,7 +368,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 
 ## Wirkung und Bedeutung
 
-- In Übersee wurde tatsächlich die Bewegung „Guitar Hero“ → Start playing the Guitar** geboren.
+- In Übersee wurde tatsächlich die Bewegung „Guitar Hero“ → Beginne mit dem Gitarrenspielen geboren.
 - In Japan war **GuitarFreaks/DrumMania** der Pionier der Idee des „echten Performance-Feelings“ und legte den Grundstein für die Musikspielkultur.
 - **Taiko no Tatsujin** konzentriert sich auf Popmusik, aber mit ihren Originalsongs im Hardrock-/Metal-Stil prägten sie jungen Leuten einen gitarrenähnlichen Sound ein.
 - **SOUND VOLTEX** hat einen starken Electro-Ton, integriert aber aktiv Hardrock- und Metal-Elemente, um die „rockartige Wirkung“ einer neuen Generation auszudrücken.

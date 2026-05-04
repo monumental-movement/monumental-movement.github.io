@@ -10,16 +10,16 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Kolumne] Shpongle: Reinkarnation des Klangs und Reise des Bewusstseins'
+title: 【コラム】 Shpongle：音の輪廻と意識の旅
 ---
 
 
-## Raja Ram × Simon Posford: Begegnung und chemische Reaktion
+## Raja Ram × Simon Posford：出会いと化学反応
 
-Text: mmr｜Thema: Philosophie des akustischen Universums, gezeichnet von Raja Ram und Simon Posford
+文：mmr｜テーマ：Raja RamとSimon Posfordが描く音響宇宙の哲学
 
 
-Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. Die 1996 gegründete Band wurde von der totalen Sonnenfinsternis in Indien inspiriert und präsentierte eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-orientierten Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
+Shpongle（シュポングル）は、Simon Posford（サイモン・ポスフォード）とRaja Ram（ラージャ・ラム）を中心としたサイケデリック・エレクトロニカ／プシービエントの金字塔的プロジェクトです。1996年にインドでの皆既日食に触発されて結成され、民族音楽的サンプリング、アコースティック楽器、そして卓越したスタジオ・プロダクションを融合させた「聴覚の旅（audio-journey）」を提示してきました。彼らの音像はクラブ志向のトランスとは一線を画し、リスナーを時間と空間を超える物語へと誘います。
 
 ---
 
@@ -36,28 +36,28 @@ color: #fff;
 </style>
 
 
-## Prolog: Klang ist die Tür zur Erleuchtung
+## 序章：サウンドは悟りへの扉である
 
-Shpongle ist mehr als nur eine Einheit für elektronische Musik.
-Es ist der spirituelle Höhepunkt moderner elektronischer Musik und verkörpert **Klangerleuchtung**.
+Shpongle（シュポングル）は、単なるエレクトロニック・ミュージックのユニットではない。
+それは**音による悟り（Sound Enlightenment）**を体現した、現代電子音楽の霊的頂点である。
 
-Die Mitglieder sind der psychedelische Weise Raja Ram (ehemals Quintessence) und der Klangmagier Simon Posford (Hallucinogen).
-Die Band entstand 1996 aus einer zufälligen Session in den Twisted Records Studios außerhalb von London.
-Ihr Klang ist ein einzigartiges „Klangmandala“, das Bewusstsein, Meditation, Vision, Philosophie und Technologie vereint.
+メンバーは、サイケデリック界の賢者 Raja Ram（元Quintessence）と、音響魔術師 Simon Posford（Hallucinogen）。
+1996年、ロンドン郊外のTwisted Recordsスタジオでの偶然のセッションから誕生した。
+彼らの音は、意識・瞑想・幻視・哲学・テクノロジーが一体となった、唯一無二の“音の曼荼羅”である。
 
-> „Shpongle ist die Erfahrung der Erleuchtung durch Hören.“
+> 「Shpongleとは、聴覚を通じて悟りを体験すること。」
 > — Simon Posford
 
 ---
 
-## Kapitel 1: Geburt von Shpongle und historischer Hintergrund von Twisted Records
+## 第一章：Shpongleの誕生とTwisted Recordsの時代背景
 
-In den 1990er Jahren befand sich die britische psychedelische Kultur an einem Scheideweg ihrer Entwicklung.
-Eine Zeit, in der der Goa-Trance-Trend Europa erfasste und die LSD-Kultur mit der Technologie verschmolz.
-Im Zentrum dieses Trends stand Twisted Records (1996-).
+1990年代、英国のサイケデリック・カルチャーは進化の分岐点にあった。
+Goa Tranceの熱狂がヨーロッパを席巻し、LSD文化がテクノロジーと融合する時代。
+この流れの中心にあったのが Twisted Records（1996〜） だ。
 
-Twisted veröffentlicht spirituelle und intellektuelle Trance-Musik rund um Posford, darunter Hallucinogen, Younger Brother, Prometheus und Celtic Cross.
-Shpongle wurde mit dem Thema „Reise in das innere Universum“ im Mittelpunkt geboren.
+TwistedはPosfordを中心に、Hallucinogen、Younger Brother、Prometheus、Celtic Crossなど、精神的かつ知的なトランス音楽を発信。
+Shpongleはその中核として、“内的宇宙への旅”をテーマに誕生した。
 
 ---
 
@@ -72,15 +72,15 @@ flowchart TD
 
 </div>
 
-Twisted diente als „intellektuelles Mekka“ der britischen psychedelischen Kultur.
-Dies ist keine Drogenphantasie, sondern eine wissenschaftliche Erforschung von Klang und Bewusstsein.
-Shpongle war sein philosophisches Symbol.
+Twistedは、**UKサイケデリック文化の「知性の聖地」**として機能した。
+薬物幻想ではなく、音と意識の科学的探求。
+Shpongleはその哲学的象徴だった。
 
 ---
 
-## Kapitel 2: Shpongles klangliche Entwicklung durch Alben
+## 第二章：アルバムで辿るShpongleの音響進化
 
-| Jahr | Albumname | Konzept | Link |
+| 年    | アルバム名          | コンセプト       | リンク                  |
 | ---- | ----------- | ----------- | -------------- |
 | 1998 | *Are You Shpongled?*          | 音の旅の出発点     | [Amazon](https://amzn.to/4pQRXpz) |
 | 2001 | *Tales of the Inexpressible*            | 精神拡張の民族融合   | [Amazon](https://amzn.to/46U26sT) |
@@ -92,13 +92,13 @@ Shpongle war sein philosophisches Symbol.
 
 ---
 
-Jedes Album ist Teil des Kreislaufs von Leben – Illusion – Erleuchtung – Wiedergeburt.
-Die musikalische Entwicklung entspricht direkt der spirituellen Entwicklung.
+各アルバムは「生 → 幻 → 悟り → 再生」という輪廻の一部。
+音楽的進化がそのまま精神的進化に対応している。
 
 ---
 
 
-### Kapitel 3: Strukturanalyse jedes Liedes – Reinkarnation des Klangs
+### 第三章：曲ごとの構造分析 - 音の輪廻
 
 | Bühne | Songtitel | Höhepunkte | Philosophische Bedeutung |
 | -- | ---------------------------------- | -------------- | ----------- |
@@ -142,9 +142,9 @@ flowchart TD
 
 ---
 
-#### Shpongletron: Mandala aus Ton und Licht
+#### Shpongletron: Mandala aus Klang und Licht
 
-Während des Live-Auftritts kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
+Während der Live-Performance kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
 Die Bilder von Android Jones werden mit dem Ton synchronisiert.
 Raja Ram wird als „zeremonieller Guru“ auf der Bühne stehen und Posford wird als „Klangalchemist“ auf der Bühne stehen.
 Die Live-Performance selbst wird zu einer Erweiterung des meditativen Erlebnisses.

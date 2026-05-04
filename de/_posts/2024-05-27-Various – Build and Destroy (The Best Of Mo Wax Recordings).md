@@ -11,7 +11,7 @@ tags:
 - Triphop
 - Abstract
 - 90s
-title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
+title: Verschiedene – Build & Destroy (The Best Of Mo Wax Recordings)
 ---
 
 

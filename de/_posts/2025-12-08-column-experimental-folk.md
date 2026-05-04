@@ -58,7 +58,7 @@ Schottisches Duo. Einführung östlicher Instrumente, eines mikrotonalen Ansatze
 Es soll die Gruppe sein, die den Prototyp von Psych Folk geschaffen hat.
 
 - **Comus** (1969–)
-Sein 1971 erschienenes Debüt „First Utterance“* spielte im Kontext des britischen Folk, aber
+Sein Debüt „First Utterance“ aus dem Jahr 1971 spielte im Kontext des britischen Folk, aber
 ・Gruseliger Gesang
 ・Dissonante Akustikgitarre
 ・Verrücktes Arrangement für Flöte und Violine
@@ -86,7 +86,7 @@ Während dieser Zeit verbreitete sich der amerikanische Experimental-Folk als �
 
 ---
 
-# 3. 1980er-90er Jahre: Einfluss von Industrial/Neofolk und Rolle von Current 93
+# 3. 1980er-90er: Einfluss von Industrial/Neofolk und Rolle von Current 93
 
 In den 1980er und 1990er Jahren entstand aus der britischen Post-Industrial-Szene „Neofolk“ mit akustischen Elementen.
 Einer der zentralen Akteure ist **Current 93 (angeführt von David Tibet)**.
@@ -117,7 +117,7 @@ In den 2000er Jahren entstand vor allem an der Ostküste der USA ein neuer Trend
 - Harmonie traditioneller Folklore von den britischen Inseln
 - Ruhiger und vielschichtiger Gesang
 - Elektro-/Drohnen-Folk-Elemente
-– Zeitgenössische Rekonstruktion des Acid-Folk-Kontexts der 1960er und 1970er Jahre
+- Zeitgenössische Rekonstruktion des Acid-Folk-Kontexts der 1960er und 1970er Jahre
 
 Sie schlugen eine Brücke zwischen Psych Folk und Indie-Rock/Ambient/Drone und spielten eine Schlüsselrolle beim Wiederaufleben des Experimental Folk in den 2000er Jahren.
 
@@ -126,7 +126,7 @@ Zu den verwandten Akten aus derselben Zeit gehören:
 - **Sechs Aufnahmeorgane**
 - **Tierkollektiv (anfänglich)**
 - **Faun-Fabeln**
-Beispiele hierfür sind.
+などが挙げられる。
 
 ---
 
@@ -219,7 +219,7 @@ flowchart TD
 
 ---
 
-# 10. Aktueller Stand: Grenzen verschwimmen
+# 10. Aktueller Stand: Grenzverwischung
 
 Experimental Folk hat sich in den 2020er Jahren als Genre erweitert,
 - Indie-Rock

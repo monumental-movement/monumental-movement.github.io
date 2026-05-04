@@ -12,7 +12,7 @@ tags:
 - Psychedelic
 - Experimental
 - Rare
-title: The Soft Machine – The Soft Machine
+title: Die weiche Maschine – Die weiche Maschine
 ---
 
 

@@ -52,7 +52,7 @@ Die Ankunft von A24 erhöhte den Horror in den Kontext des Kunstkinos.
 Akustisches Design, das die Grenze zwischen Stille und Lärm verwischt, war das Herzstück der A24-Ästhetik.
 
 続く[『Hereditary／ヘレディタリー』（2018）](https://amzn.to/470xAxf)では、[Colin Stetson](https://amzn.to/438tcv3)のサクソフォニック・ドローンが異様な緊張を形成する。  
-Das Atemgeräusch, die Resonanz der verzerrten Stimmzungen, die Vibrationen des tiefen Basses – diese Dinge lassen Sie die Anwesenheit einer „unsichtbaren Präsenz“ körperlich spüren.
+Das Atemgeräusch, die Resonanz der verzerrten Stimmzungen, die Vibrationen des tiefen Basses – all diese Dinge lassen Sie körperlich die Präsenz einer „unsichtbaren Präsenz“ spüren.
 
 [『Midsommar』（2019）](https://amzn.to/3WzeBFe)では、[The Haxan Cloak](https://amzn.to/4mV3nFT)、[Bobby Krlic](https://amzn.to/473kC1M) が北欧の民族儀礼音楽と電子ノイズを融合。 
 Im Gegensatz zu den sonnigen Bildern verwischte der Ton die Grenze zwischen Jubel und Wahnsinn und eröffnete dem Horror eine neue Grenze.

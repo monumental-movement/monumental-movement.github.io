@@ -14,13 +14,13 @@ title: K-Ci & JoJo – Don't Rush
 ---
 
 
-ケイシー（ケー・シー）＆ジョジョ
+Casey (K.C.) & Jojo
 
-K-Ci & JoJo は、セドリック"K-Ci"ヘイリー と ジョエル"JoJo"ヘイリー 兄弟からなるUSの R&B デュオ。
+K-Ci & JoJo ist ein amerikanisches R&B-Duo, bestehend aus den Brüdern Cedric „K-Ci“ Haley und Joel „JoJo“ Haley.
 
-K-Ci & JoJo は、R&B グループ Jodeci のリードシンガーでもあり、1998 年のスマッシュヒット「All My Life」は複数のグラミー賞にノミネートされた。
+K-Ci & JoJo sind außerdem die Leadsänger der R&B-Gruppe Jodeci, deren Hit „All My Life“ aus dem Jahr 1998 mehrere Grammy-Nominierungen erhielt.
 
-「Don't Rush 」は、K-Ci & JoJo のデビュー アルバム「Love Always」からのシングルカット。
+„Don't Rush“ ist eine Single aus K-Ci & JoJos Debütalbum „Love Always“.
 
 #### Trackliste
 ```md

@@ -61,7 +61,7 @@ Dies ist eine Haltung, die die „Entwicklung“ und das „Drama“ der konvent
 
 ### Transformation der Körperlichkeit
 
-Bei Musik geht es in der Regel um die Körperlichkeit des Interpreten. Allerdings wird in der Performance von Sachiko M die Präsenz des Körpers minimiert. Die Manipulation ist minimal; vielmehr stehen der Raum und der Körper des Zuhörers im Mittelpunkt.
+Bei Musik geht es in der Regel um die Körperlichkeit des Interpreten. Allerdings wird bei Sachiko Ms Performance die Präsenz des Körpers minimiert. Die Manipulation ist minimal; vielmehr stehen der Raum und der Körper des Zuhörers im Mittelpunkt.
 
 > Das Thema des Klangs verlagert sich vom Interpreten zum Raum
 
@@ -69,7 +69,7 @@ Bei Musik geht es in der Regel um die Körperlichkeit des Interpreten. Allerding
 
 ## Nahezu stiller Raum: Rekonstruktion des Hörens
 
-### Vom „Hören“ zum „Bemerken“
+### Vom „Zuhören“ zum „Bemerken“
 
 Die Beständigkeit der Sinuswelle verdeckt den Hörfokus. Der Zuhörer ist nicht in der Lage, den Geräuschen aktiv zu folgen und konzentriert sich stattdessen auf Umgebungsgeräusche und die eigenen Körpergeräusche.
 
@@ -109,7 +109,7 @@ Ihr Stil wird mit einem Trend namens „Reduktionismus“ in Verbindung gebracht
 
 Normalerweise bedeutet Improvisation „augenblickliche Schöpfung“, aber im Fall von Sachiko M erscheint es als „der Akt der anhaltenden Entscheidung, nichts zu ändern“.
 
-> Bei der Improvisation geht es nicht um Veränderung, sondern auch um die Wahl von Kontinuität.
+> Bei der Improvisation geht es nicht um Veränderung, sondern auch darum, Kontinuität zu wählen.
 
 ---
 
@@ -123,7 +123,7 @@ In dieser Hinsicht ähnelt ihre Praxis einer Klanginstallation.
 
 ### Wahrnehmungstransformation des Raumes
 
-Da wenig Ton vorhanden ist, werden die folgenden Elemente betont:
+Da nur wenig Ton vorhanden ist, werden die folgenden Elemente betont:
 
 * Lichtveränderungen
 * Architektonische Struktur
@@ -165,9 +165,9 @@ Leistungsmerkmale:
 * Extreme Lautstärkeunterdrückung
 * Beinahe Stille wahren
 
-Das Publikum entsteht nicht als „Publikum“, sondern als „Teil des Raumes“. Anstatt Aufmerksamkeit zu erregen, verändert der Klang die eigentliche Natur der Aufmerksamkeit.
+Das Publikum existiert nicht länger als „Publikum“, sondern als „Teil des Raumes“. Anstatt Aufmerksamkeit zu erregen, verändert der Klang die eigentliche Natur der Aufmerksamkeit.
 
-Dieses Format unterscheidet sich von einem traditionellen Konzert und schafft ein Erlebnis, das einer Kunstausstellung ähnelt.
+Dieses Format unterscheidet sich von einem traditionellen Konzert und schafft ein Erlebnis, das einer Kunstausstellung näher kommt.
 
 >Leistung erscheint nicht als Ereignis, sondern als Schaffung einer Umgebung
 
@@ -212,7 +212,7 @@ Man kann sagen, dass dies einer der wichtigen Wendepunkte in der Klangkunst ist.
 
 ## Wahrnehmungsmodelldiagramm: Beziehung zwischen Sinuswellen und Raum
 
-### Wahrnehmungsstruktur in „I'm Here“
+### Wahrnehmungsstruktur in „I’m Here“
 
 <div class="mermaid">
 flowchart TD
@@ -432,7 +432,7 @@ Der Hörer gelangt nach und nach in die folgenden Zustände:
 
 ### Beziehung zu Feldman
 
-Dieses Zeitgefühl wurde auch mit Morton Feldmans Langzeitwerken verglichen. Allerdings hat Sachiko M die Elemente weiter reduziert und erreicht fast eine einzige Note.
+Dieses Zeitgefühl wurde auch mit Morton Feldmans Langzeitwerken verglichen. Allerdings hat Sachiko M die Elemente weiter reduziert und erreicht fast eine einzelne Note.
 
 > Zeit erscheint nicht als etwas, das fließt, sondern als etwas, das bleibt.
 

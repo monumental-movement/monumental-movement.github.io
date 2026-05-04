@@ -10,15 +10,15 @@ tags:
 - Disco
 - Nostalgic
 - 7inch
-title: Die Nolans – Jedes Haus sollte eines haben
+title: The Nolans –  Every Home Should Have One
 ---
 
 
-„The Nolans – Every Home Should Have One“ ist Teil einer Serie, die 1981 als Preis bei einem Coca-Cola-Gewinnspiel in Japan vergeben wurde.
+「The Nolans –  Every Home Should Have One」は、1981年に日本で開催されたコカ・コーラの懸賞の景品として配布されたシリーズのひとつです。
 
-Der Titel der Platte lautet „Adored Aye Aye“ auf der Vorderseite der Jacke und „Adored Aye Aye Every Home Should Have One“ auf der Rückseite.
+レコードのタイトルは、ジャケットの前面では「あこがれアイ・アイ・アイ」、裏面では「あこがれアイ・アイ・アイ Every Home Should Have One」となっています。
 
-Die Schallplatte enthält nur die A-Seite (Labelseite) und die B-Seite (signiertes Farbfoto der Gruppe) ist nicht gerillt. Die Schallplatte ist in einer durchsichtigen Schallplattenhülle mit rundem Boden und einer äußeren Papierhülle mit einem Foto des Künstlers verpackt. Auf der Rückseite der Außenjacke befinden sich eine kurze Künstlerbiografie (Japanisch) und Liedtexte (Englisch und Japanisch).
+レコードはA面 (レーベル面) のみ収録されており、B面 (グループのサイン入りカラー写真) には溝が切られていません。レコードは、透明な丸底のインナーレコード袋に入れられ、さらにアーティストの写真がついた外側の紙ジャケットに収められています。外側のジャケットの裏面には、アーティストの簡単な経歴 (日本語) と歌詞 (英語と日本語) が記載されています。
 
 #### Trackliste
 ```md

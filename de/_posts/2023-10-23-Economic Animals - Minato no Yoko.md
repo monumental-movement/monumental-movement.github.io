@@ -10,13 +10,13 @@ tags:
 - Rock
 - Parody
 - 7inch
-title: Economic Animals - Minato no Yoko
+title: Wirtschaftstiere - Minato no Yoko
 ---
 
 
-エコノミック・アニマルズは、佐々木勉が中心となった覆面バンド。「帰ってきた港のヨーコ」は、「港のヨーコ・ヨコハマ・ヨコスカ」の後日譚＆パロディー、アンサーソングとして1975年にリリースされた。
+Economic Animals ist eine maskierte Band unter der Leitung von Tsutomu Sasaki. „The Return of Minato no Yoko“ wurde 1975 als Fortsetzung und Parodie von „Minato no Yoko Yokohama Yokosuka“ und als Antwortlied veröffentlicht.
 
-作詞・作曲・歌：エコノミック・アニマルズ
+Text/Komposition/Lied: Economic Animals
 
 #### Trackliste
 ```md

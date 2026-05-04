@@ -10,13 +10,13 @@ tags:
 - Euro House
 - House
 - 90s
-title: N-Trance – Elektronisches Vergnügen
+title: N-Trance – Electronic Pleasure
 ---
 
 
-N-Trance ist ein britisches Duo für elektronische Musik, das 1990 von Kevin O'Toole und Dale Longwort gegründet wurde.
+N-Tranceは、1990年にKevin O'Toole と Dale Longwortによって結成されたイギリスのエレクトロニックミュージックデュオ。
 
-„Electronic Pleasure“ ist N-Trances erstes Studioalbum in voller Länge, das 1995 veröffentlicht wurde und die Hits „Set You Free“, „Stayin‘ Alive“ und „Electronic Pleasure“ enthält.
+「Electronic Pleasure」は、1995年にリリースされたN-Trance 初のフルレングススタジオアルバムで、ヒット曲「Set You Free」「Stayin' Alive」「Electronic Pleasure」などが収録されている。
 
 #### Trackliste
 ```md

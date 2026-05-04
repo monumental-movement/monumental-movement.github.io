@@ -13,9 +13,9 @@ title: Ade Fenton – Turntribalism EP
 ---
 
 
-Ade Fenton ist ein in Großbritannien ansässiger DJ/Produzent, der mit Paul Smith das Hard-Techno-Label Advanced betreibt.
+Ade Fenton は、UKを拠点に活動するDJ／プロデューサーであり、Hard technoレーベルAdvancedをPaul Smithと共に運営している。
 
-„Turntribalism EP“ ist ein Techno-Track, der im Jahr 2000 auf seinem eigenen Label Advanced veröffentlicht wurde.
+「Turntribalism EP」は、自身のレーベルAdvancedから2000年にリリースされた Technoトラック。
 
 #### Trackliste
 ```md

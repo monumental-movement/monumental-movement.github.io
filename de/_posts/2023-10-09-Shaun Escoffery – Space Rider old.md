@@ -10,7 +10,7 @@ permalink: /de/shaun-escoffery-space-rider-old/
 tags:
 - House
 - Garage House
-title: Shaun Escoffery – Space Rider alt
+title: Shaun Escoffery – Space Rider old
 ---
 
 
@@ -20,8 +20,8 @@ title: Shaun Escoffery – Space Rider alt
 
 
 
-„Space Rider“ ist
-Dies ist eine EP von Shaun Escoffery, die 2002 vom britischen Label „Oyster Music“ veröffentlicht wurde.
+「Space Rider」は、
+2002年にUKのレーベル「Oyster Music」からリリースされたShaun EscofferyによるEPです。
 
 
 #### Trackliste

@@ -9,13 +9,13 @@ permalink: /de/play-every-little-step-aint-no-mountain-high-enough/
 tags:
 - R&B
 - Funk
-title: Play – Every Little Step / Ain't No Mountain High Enough
+title: Spielen – Jeder kleine Schritt / Ain't No Mountain High Enough
 ---
 
 
-2001年に結成されたスウェーデンのポップガールグループ。
+Eine schwedische Pop-Girlgroup wurde 2001 gegründet.
 
-Bobby Brown(ボビー・ブラウン)「EVERY LITTLE STEP」のカヴァーはAaron Carter (アーロン・カーター)をフィーチャリングに迎え2004年にリリースされた。
+Ein Cover von Bobby Browns „EVERY LITTLE STEP“ mit Aaron Carter wurde 2004 veröffentlicht.
 
 #### Trackliste
 ```md

@@ -10,18 +10,17 @@ tags:
 - Ambient
 - Techno
 - Rock
-title: '[Kolumne] Susumu Yokota – Ein Universum in Stille: Eine von elektronischen
-  Klängen gezeichnete Seelenlandschaft'
+title: 【コラム】 ススム・ヨコタ — 静寂の中の宇宙：電子音が描く魂の風景
 ---
 
 
-## Kapitel 1: Elektronische Musik und Japan – Susumu Yokotas Position
+## 第1章：電子音楽と日本 — 横田進の位置づけ
 
 
-Text: mmr｜Thema: Susumu Yokota. Ein einsamer Künstler, der die Seele des Klangs an der Grenze zwischen Clubkultur und Ambient erforscht. Auf der Spur seiner Ruhe und kosmischen Natur
+文：mmr｜テーマ：ススム・ヨコタ（Susumu Yokota）。クラブ・カルチャーとアンビエントの境界で、音の魂を探った孤高のアーティスト。その静けさと宇宙性をたどる
 
 
-Anfang der 1990er Jahre steckte die elektronische Musikszene Japans noch in den Kinderschuhen. Während Techno und House als importierte Kultur populär wurden, war Ambient-Musik, die sich auf „Umgebungsgeräusche“ und „Stille“ konzentrierte, immer noch ein experimentelles Genre in der Minderheit.
+1990年代初頭、日本の電子音楽シーンはまだ黎明期にあった。テクノやハウスが輸入文化として浸透する中で、「環境音」や「静寂」を中心に据えたアンビエント音楽は、まだ少数派の実験的ジャンルだった。  
 Susumu Yokota war ein Dichter, der in diesem ruhigen Ort lebte. Seine Musik ist eine Erweiterung der Clubkultur, aber irgendwie „außerhalb“ davon. Er war ein seltener Künstler, der elektronische Teilchen nutzte, um den Atem der Natur, die Entfernung des Windes und den Nachhall von Erinnerungen darzustellen.
 
 Obwohl Yokota in der Clubszene Tokios begann, überschritt er diesen Kontext schnell. Seine Musik konzentrierte sich mehr auf „Pause“ als auf den „Rhythmus“ der Tanzmusik und strebte danach, die Ruhe und Organizität elektronischer Musik zu verfolgen. Dies ähnelt der japanischen Bedeutung von „Wabi-Sabi“.
@@ -57,10 +56,10 @@ Bemerkenswert ist, dass er seine Werke unter mehreren Namen veröffentlichte. Un
 
 ### „Sakura“ (1999)
 Susumu Yokotas Meisterwerk und ein monumentales Werk in der Geschichte der Ambient-Musik.
-Die leise Melodie und die Umgebungsgeräusche sind überlagert und führen das Bewusstsein des Zuhörers sanft nach innen. Es hat eine Vergänglichkeit, die den Moment fallender Kirschblüten im Klang einfängt, und es ist eine Verschmelzung japanischer Lyrik und universeller Schönheit.
+Die leise Melodie und die Umgebungsgeräusche sind überlagert und führen das Bewusstsein des Zuhörers sanft nach innen. Es hat eine Vergänglichkeit, die den Moment fallender Kirschblüten im Klang einfängt, und es ist eine Mischung aus japanischer Lyrik und universeller Schönheit.
 
 Das Album hat eine hervorragende Struktur und das ganze Album fließt wie ein einziger „Atemzug“. Es beginnt leise, erzeugt einen schwachen Rhythmus und verschwindet dann. Es ist wie der Kreislauf des Lebens und der Jahreszeiten.
-Der Grund, warum „Sakura“ weiterhin bei Ambient-Musikfans auf der ganzen Welt so beliebt ist, liegt wahrscheinlich darin, dass es dieses „Zeitgefühl“ durch den Klang perfekt abbildet.
+Der Grund, warum „Sakura“ weiterhin von Ambient-Musikfans auf der ganzen Welt geliebt wird, liegt wahrscheinlich darin, dass es dieses „Zeitgefühl“ durch den Klang perfekt abbildet.
 
 ### „Symbol“ (2001)
 Erstellen Sie Ihr eigenes Klangbild und nutzen Sie dabei das Sampling klassischer Musik voll aus.
@@ -68,7 +67,7 @@ Barocke und impressionistische Melodien lösen sich in Yokotas Händen in einem 
 
 ### „Grinsende Katze“ (2000)
 Ein Album mit märchenhaftem Weltbild, mit angenehmer, fantastischer Akustik.
-Es entsteht ein Gefühl der Verspieltheit, das über den Rahmen bloßer Ambient-Musik hinausgeht. Es hat die Kraft, den Zuhörer dazu zu bringen, sich eine Geschichte vorzustellen und gleichzeitig die Form des Klangs zu verändern.
+Es entsteht ein Gefühl der Verspieltheit, das über den Rahmen bloßer Ambient-Musik hinausgeht. Es hat die Kraft, den Hörer dazu zu bringen, sich eine Geschichte vorzustellen und gleichzeitig die Form des Klangs zu verändern.
 
 ### „Der Junge und der Baum“ (2003)
 Es hat eine Atmosphäre, die sich anfühlt, als wäre es in einem Wald aufgenommen worden, und einen Rhythmus, der einen an den Herzschlag des Lebens denken lässt.
@@ -80,7 +79,7 @@ Yokotas einzigartige „Musik des Lebens“, die zwischen Natur und Elektronik s
 
 „Anima Mundi“ bedeutet auf Lateinisch „Seele der Welt“.
 Die Werkserien, die Susumu Yokota unter diesem Namen entwickelte, waren diesem Namen wahrlich würdig.
-Die Songs konzentrieren sich auf Drohnen, Umgebungsgeräusche und harmonische Strukturen und erweitern den inneren Raum des Hörers. Es gibt weder Takt noch Melodie. Es gibt nur den „Klang, der existiert“.
+Die Songs konzentrieren sich auf Drones, Umgebungsgeräusche und harmonische Strukturen und erweitern den inneren Raum des Hörers. Es gibt weder Takt noch Melodie. Es gibt nur den „Klang, der existiert“.
 
 Für Yokota könnte man sagen, dass dieser Name ein „Kanal ist, der das Unbewusste und das Universum verbindet“.
 Wenn die Musik unter dem Namen Susumu Yokota „irdische Poesie“ ist, ist Anima Mundi „himmlisches Gebet“.
@@ -118,7 +117,7 @@ Im Ausland wurde er als „Japans Brian Eno“ beschrieben, aber Yokotas Musik w
 ## Kapitel 6: Leben und Körperlichkeit
 
 Yokotas Live-Auftritt war nicht nur eine Nachstellung, sondern ein Versuch, „den Raum selbst auszuspielen“.
-Er verzichtete so weit wie möglich auf Beleuchtung und Bilder und verwandelte den Raum mit der „Luftdichte“, die der Klang besitzt.
+Er verzichtete so weit wie möglich auf Beleuchtung und Bilder und verwandelte den Raum in die „Luftdichte“, die der Klang besitzt.
 Das Publikum wird von Klangpartikeln umhüllt und verliert sein Zeitgefühl. Es war eine Erfahrung, bei der es sich anfühlte, als würde jeder Mensch mit dem Klang verschmelzen.
 
 Seine Haltung war ein seltenes Beispiel für die Kombination der tänzerischen Körperlichkeit von Techno mit der meditativen Natur von Ambient.
@@ -129,7 +128,7 @@ Seine Haltung war ein seltenes Beispiel für die Kombination der tänzerischen K
 
 Yokotas Musikphilosophie besteht, einfach ausgedrückt, darin, „im Klang Leben zu finden“.
 Für ihn war Klang nicht nur ein Material, sondern eine lebendige Einheit.
-Deshalb gibt es in seinen Werken keine künstliche Kälte. Obwohl es ein elektronischer Klang ist, hat er ein warmes, pflanzliches Gefühl.
+Deshalb gibt es in seinen Werken keine künstliche Kälte. Obwohl es sich um einen elektronischen Klang handelt, hat er ein warmes, pflanzliches Gefühl.
 
 Seine Musik ist auch eine poetische Auseinandersetzung mit der Zeit.
 Die Zeit fühlt sich nicht so an, als würde sie „fließen“, sondern eher „wiegen“.
@@ -147,7 +146,7 @@ Darüber hinaus wurde Yokotas Geist sicherlich von zeitgenössischen Ambient-Kü
 
 ---
 
-## ディスコグラフィー（主要作品）
+## Diskographie (Hauptwerke)
 
 | Jahr | Titel | Name | Erklärung | Link |
 |----|------------|---------|------|---------------|
@@ -169,5 +168,5 @@ Susumu Yokotas Musik wird nicht durch auffällige Melodien und Beats erzählt, s
 In dieser Stille wohnen der Lärm der Stadt, der Atem der Natur und die menschliche Erinnerung.
 Die Musik, die er hinterlassen hat, ist nicht nur eine Sammlung von Werken, sondern ein Spiegel, der das innere Selbst des Zuhörers widerspiegelt.
 
-Selbst nachdem der Ton verstummt ist, bleibt etwas in meinem Herzen.
+Auch wenn der Ton verstummt, bleibt etwas in deinem Herzen.
 Das ist der großartigste „Sound“, den der Musiker Susumu Yokota der Welt hinterlassen hat.

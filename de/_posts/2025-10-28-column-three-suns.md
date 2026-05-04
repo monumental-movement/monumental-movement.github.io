@@ -69,7 +69,7 @@ Diese erzeugen das einzigartige **Gefühl von Schweben und Glück** von Three Su
 
 In den 1950er Jahren unterzeichneten sie einen Vertrag mit RCA und veröffentlichten eine Reihe experimenteller Werke, die Magnetaufzeichnung und Stereotechnologie beinhalteten.
 „Movin‘ n‘ Groovin‘“ (1956), „Midnight for Two“ (1957) usw.
-Es war klanglich so raffiniert, dass man es als „elektronische Wohnzimmermusik“ bezeichnen konnte.
+Es war klanglich so raffiniert, dass man es als „elektronische Wohnzimmermusik“ bezeichnen könnte.
 
 > Akkordeon = keine Nostalgie,
 > Es fungierte als „atmender Synthesizer“, der für die Zukunft des Sounddesigns verantwortlich war.
@@ -89,7 +89,7 @@ Es war wirklich **Innenarchitektur mit Klang**.
 
 | Element | Inhalt | Beziehung zu drei Sonnen |
 |------|------|-------|
-| Hi-Fi-Audio | Popularisierung der Stereowiedergabe in Privathaushalten | Aufnahme mit Blick auf akustische Effekte |
+| Hi-Fi-Audio | Popularisierung der Stereowiedergabe zu Hause | Aufnahme mit Blick auf akustische Effekte |
 | Cocktailkultur | Symbol urbaner Freizeit | Musik verschmolzen mit „Rausch“ |
 | Heimvideos | Hintergrundmusik im 8mm-Filmzeitalter | Drei Sonnen wurden häufig verwendet |
 | Raumorientiert | Ästhetik des Weltraumzeitalters | Schwebender Klang schwingt mit |
@@ -150,13 +150,13 @@ timeline
 
 Der Klang von Three Suns ist noch immer zu hören.
 Ein altes Café an der Ecke, ein alter YouTube-Kanal oder eine Lo-Fi-Playlist.
-Irgendwo da drinnen höre ich das Atmen einer Ziehharmonika.
+Irgendwo da drin kann ich das Atmen einer Ziehharmonika hören.
 
 > Das Akkordeon ist die „Lunge“ zwischen Maschine und Mensch.
 > Das war der Kern der Musik von Three Suns.
 
 Akkordeons sind nicht veraltet;
-Es beginnt wieder einmal nach einer „analogen Zukunft“ zu klingen.
+Es fängt wieder an, nach einer „analogen Zukunft“ zu klingen.
 
 ---
 

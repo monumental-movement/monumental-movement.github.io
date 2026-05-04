@@ -228,7 +228,7 @@ color: #fff;
 ### Rolls Royce
 
 - **Repräsentative Modelle**: Phantom, Ghost, Cullinan (Bespoke Audio 13–18 Lautsprecher, max. 1.300 W)
-- **Technologie**: Reproduktion in Studioqualität, die die Geräuschlosigkeit des Fahrzeugs nutzt, Geräuschreduzierung durch Aluminium- und Magnesiummaterialien
+- **Technologie**: Reproduktion in Studioqualität, die die Geräuscharmut des Fahrzeugs nutzt, Geräuschreduzierung durch Aluminium- und Magnesiummaterialien
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -256,7 +256,7 @@ color: #fff;
 ## Zusammenfassung: Vom Motorsound zur Klangkunst – eine Vision der Zukunft von Autos und Sound
 
 Autos waren früher „Transportmaschinen“. Heute ist es jedoch ein „Raum, der Klang umfasst“ und eine Erweiterung der Kultur.
-Deutschland hat Klang mit Präzisionstechnik erfüllt, Großbritannien mit Tradition und Formalität, Amerika mit Freiheit und Macht und Japan mit zarter Harmonie.
+Deutschland hat den Klang mit Präzisionstechnik durchdrungen, Großbritannien mit Tradition und Formalität, Amerika mit Freiheit und Macht und Japan mit zarter Harmonie.
 Car-Audio ist in jedem Land auch eine Verkörperung des ästhetischen Sinns und der Industriephilosophie dieser Gesellschaft.
 
 Die „stille Bühne“ von Rolls-Royce ist das Nonplusultra der Stille.
@@ -275,5 +275,5 @@ Das akustische Design wird durch KI korrigiert und der Sitz wird zu einer Resona
 Am Ende werden wir einen Bereich klanglicher Gleichheit haben, der über Länder und Marken hinausgeht.
 Das Zuhören beim Laufen schärft die menschlichen Sensibilitäten noch einmal.
 
-Was uns Autos erzählen, ist nicht die Straße, sondern die Reise des Klangs.
+Was Autos uns erzählen, ist nicht die Straße, sondern die Reise des Klangs.
 Und diese Reise hat gerade erst begonnen.

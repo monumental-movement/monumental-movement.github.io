@@ -8,11 +8,11 @@ layout: post
 permalink: /de/kagami-guardians-hammer/
 tags:
 - Techno
-title: Kagami – Wächterhammer
+title: Kagami – Guardians Hammer
 ---
 
 
-„Kagami – Guardians Hammer“ erschien 2008 auf dem Techno/Disco/House-Label Carizma.
+「Kagami – Guardians Hammer」は、テクノ/ディスコ/ハウスレーベルCarizmaより2008年にリリースされた。
 
 #### Trackliste
 ```md

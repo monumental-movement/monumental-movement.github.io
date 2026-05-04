@@ -24,7 +24,7 @@ Text: mmr｜Thema: Aufdecken, wie Algorithmen die Struktur von Musikhits und die
 Rückblickend auf die Musikgeschichte hat sich die Mechanik von Hits aufgrund der Technologie immer verändert.
 
 Das Radio war zu Beginn des 20. Jahrhunderts das erste große Medium, das Musik in die Haushalte brachte.
-Danach verteilte die Tonträgerindustrie Musik als Handelsware auf der ganzen Welt.
+Danach verteilte die Tonträgerindustrie Musik als Produkt auf der ganzen Welt.
 Mit dem Aufkommen von MTV in den 1980er Jahren wandelte sich Musik zu einer Popkultur, die mit Bildern verbunden war.
 
 Allerdings hat sich die Vertriebsstruktur der Musik im 21. Jahrhundert noch stärker verändert.
@@ -120,7 +120,7 @@ Analysieren Sie diese Daten und
 Empfehlen Sie jedem Benutzer unterschiedliche Songs.
 
 Ein typisches Beispiel ist Spotifys Discover Weekly.
-Diese im Jahr 2015 eingeführte Funktion
+Diese 2015 eingeführte Funktion
 Generieren Sie jede Woche eine neue Playlist für jeden Benutzer.
 
 Infolgedessen viele Künstler
@@ -251,7 +251,7 @@ Genres wie
 Verbreitet innerhalb der Internetkultur und der Algorithmen.
 
 Besonders Lo-Fi-Hip-Hop
-Dies ist ein typisches Beispiel dafür, wie es sich über die YouTube-Distribution verbreitete.
+Dies ist ein typisches Beispiel dafür, wie es sich über die YouTube-Verbreitung verbreitete.
 
 Musik optimiert für Studium und Beruf
 Gute Kompatibilität mit Algorithmen.
@@ -259,7 +259,7 @@ Gute Kompatibilität mit Algorithmen.
 lange Wiedergabezeit,
 Dies liegt daran, dass es für Zuhörer schwierig ist, etwas zu überspringen.
 
-TikTok hat sich auch zu einem neuen Genre von Verbreitungsgeräten entwickelt.
+TikTok ist auch zu einem neuen Genre von Verbreitungsgeräten geworden.
 
 Lieder, die in kurzen Videos verwendet werden
 Es wird sofort ein weltweiter Hit.

@@ -9,11 +9,11 @@ permalink: /de/pickup-detroit-techno/
 tags:
 - Detroit Techno
 - 90s
-title: Aufgreifende Werke von Detroit Techno
+title: デトロイト・テクノ(Detroit Techno)作品をピックアップ
 ---
 
 
-„Detroit Techno-Werke entstehen aus der Kluft zwischen Dekadenz und Hoffnung“
+「退廃と希望の狭間から生まれた、デトロイト・テクノ(Detroit Techno)作品群」
 
 <hr>
 
@@ -21,9 +21,9 @@ title: Aufgreifende Werke von Detroit Techno
 ### Claude Young – The Dexit E.P.
 <a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
 
-Eigenschaften: 1997, vom belgischen Elypsia-Label. Diese Arbeit verbindet Respekt vor Detroit mit meinem eigenen Sinn für Erkundung.
+特徴：：1997年、ベルギーElypsiaレーベルから。デトロイトへの敬意と自らの探求心が融合した作品。
 
-Empfohlene Punkte: Es hat eine einzigartige Variante ernsthafter Minimalentwicklung und ist ein Stück, auf das Sie sich verlassen können, wenn Sie einen engen Ablauf in Ihrem Set aufrechterhalten möchten.
+おすすめポイント：シリアスなミニマル展開に独自のひねりがあり、セットの流れをタイトに構築したい時に頼れる一枚。
 
 #### Trackliste
 ```md
@@ -46,13 +46,13 @@ B2. Fade
 
 
 
-### Modell 500 – Deep Space
+### Model 500 – Deep Space
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
-Eigenschaften: Songs wie „Milky Way“, „Orbit“ und „The Flow“ zeichnen sich durch schwebende Synthesizerarbeit aus, die sich wie eine Reise durch den Weltraum anfühlt, und spacige, harte Rhythmen.
+特徴：「Milky Way」「Orbit」「The Flow」など、深宇宙を旅するような浮遊感のあるシンセワークと、スペーシーで硬質なリズムが特徴。
 
-Empfohlene Punkte: Ein Meisterwerk, das den zukunftsorientierten und coolen Sound des Detroit Techno verdichtet. Platzieren Sie es zu Beginn eines DJ-Sets, um eine kosmische Atmosphäre auf dem Boden zu erzeugen.
+おすすめポイント：デトロイト・テクノの未来志向かつクールなサウンドが凝縮された名盤。DJセットの冒頭に置けば、フロアに宇宙的な空気感を作り出せます。
 
 #### Trackliste
 ```md
@@ -79,12 +79,12 @@ Empfohlene Punkte: Ein Meisterwerk, das den zukunftsorientierten und coolen Soun
 
 
 
-### Modell 500 – Durchfluss
+### Model 500 – Flow
 <a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
-Features: Minimale Trackstruktur mit einfachen Synthesizerlinien und Rhythmus. Es zeichnet sich durch seine räumliche, schwebende Synthesizerarbeit und seinen kühlen, mechanischen Rhythmus aus.
+特徴：シンプルなシンセリフとリズムが織りなすミニマルなトラック構造。空間的で浮遊感のあるシンセワークと、クールで機械的なリズム感が特徴的。
 
-Empfohlener Punkt: Ein Song, der Sie die Ursprünge des Detroit Techno erleben lässt. Indem Sie es zu Beginn eines DJ-Sets hinzufügen, können Sie ein „Detroit-ähnliches kosmisches Gefühl“ auf dem Boden erzeugen. Auch für Anfänger leicht zu hören, perfekt, um das Weltbild des Model 500 zu verstehen.
+おすすめポイント：デトロイト・テクノの原点を体感できる一曲。DJセットでは序盤に入れると、フロアに“デトロイトらしい宇宙感”を演出できます。初心者にも聴きやすく、Model 500 の世界観を理解するのに最適です。
 
 #### Trackliste
 ```md
@@ -110,9 +110,9 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Features: Dramatisches Klangbild, das Ambient, Breakbeat, Future Jazz usw. mit einer minimalistischen Basis verbindet.
+特徴：ミニマルを基盤にアンビエント、ブレイクビート、フューチャージャズなどを融合したドラマティックな音像。
 
-Empfohlene Punkte: Ein Album mit Tiefe und Raffinesse, das den Hörer auf eine emotionale Reise mitnimmt. Dies ist ein Werk, das sowohl DJs als auch Zuhörer aufmerksam anhören möchten.
+おすすめポイント：深みと洗練を兼ね備えたアルバムで、聴き手を感情的な旅に誘う。DJやリスナー問わず、じっくり聴きたい作品。
 
 #### Trackliste
 ```md
@@ -138,13 +138,13 @@ Empfohlene Punkte: Ein Album mit Tiefe und Raffinesse, das den Hörer auf eine e
 
 
 
-### Ultradyne – Unbekannte Werke
+### Ultradyne – Unknown Works
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-Eigenschaften: Balance zwischen tanzbaren Grooves und abstraktem Experimentieren. Trackbeispiele: „Tangible–Theory Proliferation (Ultradyne Remix)“ und „Fantasy Era“.
+特徴：ダンサブルなグルーヴと抽象的な実験性を両立。トラック例：「Tangible–Theory Proliferation (Ultradyne Remix)」「Fantasy Era」。
 
-Empfohlene Punkte: Perfekt für Hörer, die ein exploratives Techno-Erlebnis suchen. Ob auf dem Boden oder über Kopfhörer – der experimentelle Klang wird Sie begeistern.
+おすすめポイント：探求的なテクノ体験を求めるリスナーに最適。フロアでもヘッドフォンでも、その実験的サウンドに引き込まれます。
 
 #### Trackliste
 ```md
@@ -166,13 +166,13 @@ B2. Ultradyne–War Drum - Live
 
 
 
-### Antriebsstrang – Symphonium
+### Drivetrain – Symphonium
 <a href="https://jp.mercari.com/item/m23783674213?afid=6142608987"><img src="../assets/images/Drivetrain%20%E2%80%93%20Symphonium.webp"></a>
 
 
-Eigenschaften: Dunkler, melodiöser, energiegeladener und tanzbarer Rhythmus.
+特徴：ダークでメロディアス、エネルギッシュでダンサブルなリズムが特徴。
 
-Empfohlene Punkte: Moderner und höchst einzigartiger Klang. Dies ist ein Song, der die Tanzfläche dramatisch beleben wird, wenn Sie ihn in einem Late-Night-Club oder zu Spitzenzeiten spielen.
+おすすめポイント：現代的かつ独自性の高いサウンド。深夜クラブやピークタイムのセットに投入すれば、フロアをドラマティックに盛り上げる一曲。
 
 #### Trackliste
 ```md
@@ -196,12 +196,12 @@ AA2. Soundtrack
 
 
 
-### Jeff Mills – Sehr EP
+### Jeff Mills – Very EP
 <a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.webp"></a>
 
-Eigenschaften: Ein minimalistisches und spannungsgeladenes Stück, das sich perfekt zum Aufwärmen im Club eignet.
+特徴：クラブのウォームアップに最適とされる、ミニマルで緊張感のある作品。
 
-Empfohlene Punkte: Das einfache, aber sich allmählich ansammelnde Klangbild strafft den Boden und ermöglicht es Ihnen, von Beginn des Sets an Ihr eigenes, einzigartiges Weltbild zu schaffen.
+おすすめポイント：シンプルながらも徐々に積み重なる音像がフロアを引き締め、セットの序盤から独自の世界観を作り上げることができます。
 
 #### Trackliste
 ```md
@@ -224,12 +224,12 @@ B3. Untitled
 
 
 
-### Jeff Mills – Lebensechte E.P.
+### Jeff Mills – Lifelike E.P.
 <a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
-Features: „Condor To Mallorca“ ist ikonisch, da sein Calypso-ähnlicher Rhythmus und die Tastaturresonanz ein einzigartiges schwebendes Gefühl erzeugen.
+特徴：「Condor To Mallorca」が象徴的で、カリプソ的なリズムと鍵盤の響きが独特の浮遊感を演出。
 
-Empfohlene Punkte: Mit seiner trippigen und spirituellen Atmosphäre ist dies ein „magisches Stück“, das die Atmosphäre sofort verändert, wenn es in ein DJ-Set eingefügt wird.
+おすすめポイント：トリッピーかつスピリチュアルな雰囲気で、DJセットの中に挿入すると一気に空気を変える“魔法の一枚”。
 
 #### Trackliste
 ```md
@@ -254,9 +254,9 @@ B2. Black Avenger
 ### Jeff Mills – Skin Deep EP
 <a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
 
-Features: Der Titel „Call Of The Wild“ zitiert Percussion aus Michael Jacksons „Off The Wall“.
+特徴：収録曲「Call Of The Wild」でマイケル・ジャクソン『Off The Wall』からのパーカッションを引用。
 
-Empfohlene Punkte: Das harte Gefühl von Detroit-Techno wird mit dem Groove schwarzer Musik kombiniert und verleiht dem Boden eine einzigartige treibende Kraft.
+おすすめポイント：デトロイトテクノの硬質感にブラック・ミュージックのグルーヴが加わり、フロアにユニークな推進力を与えます。
 
 #### Trackliste
 ```md
@@ -278,12 +278,12 @@ B2. Scout
 
 
 
-### Jeff Mills – Zirkus
+### Jeff Mills – Circus
 <a href="https://jp.mercari.com/item/m96224343998?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Circus.webp"></a>
 
-Features: Eine EP, die 2 Tracks enthält und eine harte, industrielle Atmosphäre erzeugt.
+特徴：2トラックを収録し、ハードでインダストリアルな雰囲気を醸し出すEP。
 
-Empfohlener Punkt: Sein intensiver Schalldruck hat die Kraft, den Boden in Spitzenzeiten sofort zum Explodieren zu bringen.
+おすすめポイント：その強烈な音の圧力は、ピークタイムに投入することでフロアを一気に爆発させるパワーを持ちます。
 
 #### Trackliste
 ```md
@@ -303,12 +303,12 @@ B. Circus (The Big Finale Mix)
 
 
 
-### „M“ – Mehr Drama (unter dem Namen Axis)
+###  “M” – More Drama（Axis 名義）
 <a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webp"></a>
 
-Features: Track, der 1992 von Axis unter dem Namen „M“ veröffentlicht wurde. Ein Song, der den frühen Detroit-Minimal repräsentiert.
+特徴：1992年、Axisからリリースされた“M”名義のトラック。初期デトロイト・ミニマルを代表する一曲。
 
-Empfohlene Punkte: Eine unverzichtbare CD für Sammler, die das Underground-Feeling der frühen 90er Jahre erleben können, mit einem rauen, aber robusten Spielgefühl.
+おすすめポイント：荒削りながらも骨太で、90年代初期のアンダーグラウンド感をそのまま体感できるコレクター必携盤。
 
 
 #### Trackliste

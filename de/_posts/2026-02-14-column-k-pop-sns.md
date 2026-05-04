@@ -18,7 +18,7 @@ title: '[Spalte] Beziehung zwischen K-POP und SNS-Strategie | Warum erlangte es 
 
 ## Warum ist K-POP so beliebt? - Erfolgsfaktoren aus der Struktur gesehen
 
-Text: mmr｜Thema: Den Hintergrund hinter dem weltweiten Erfolg von K-POP aus der Perspektive der SNS-Strategie auf der Grundlage von Fakten verstehen
+Text: mmr｜Thema: Den Hintergrund hinter dem weltweiten Erfolg von K-POP aus der Perspektive der SNS-Strategie verstehen
 
 ### K-POP als „System“, das über Musikgenres hinausgeht
 
@@ -148,7 +148,7 @@ Durch offizielle Fanclubs, Apps, Abstimmungssysteme usw. werden wir die Begeiste
 
 ## Gründe, warum es junge Leute anspricht
 
-Für die Generation der Digital Natives ist das Anstoßen von Aktivitäten ein Vorgang, der auf SNS durchgeführt werden kann. Selbstdarstellung, Empathie und Zugehörigkeit zur Gemeinschaft kommen zusammen.
+Für die Generation der Digital Natives ist das Anstoßen von Aktivitäten ein Vorgang, der auf SNS durchgeführt werden kann. Selbstausdruck, Empathie und Zugehörigkeit zur Gemeinschaft kommen zusammen.
 
 K-POP hat ein Design, das zu seinem Verhalten passt. Nicht nur Live-Auftritte, sondern auch tägliche Botschaften bilden eine „Geschichte“, und die Fans nehmen an dieser Geschichte teil.
 

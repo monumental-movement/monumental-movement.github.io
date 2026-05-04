@@ -21,7 +21,7 @@ title: '[Kolumne] Blawan: Pleasure of Steel and the Body Deep in the Night – E
 Text: mmr｜Thema: Über Blawans kalten, aber irgendwie menschlichen Beat, der weiterhin seine Wurzeln im britischen Underground hat
 
 Es war einmal, als die Industriegebiete Nordenglands vom Geruch von Dampf und Metall erfüllt waren.
-Jamie Roberts – oder Blawan – ist möglicherweise damit aufgewachsen, den Nachhall unbewusst einzuatmen.
+Jamie Roberts oder Blawan ist möglicherweise damit aufgewachsen, den Nachhall unbewusst einzuatmen.
 Die Blutlinie der elektronischen Musik kommt aus Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 Es spiegelt gleichzeitig den Rhythmus der Arbeit und den Atem der Stadt wider.
 
@@ -71,7 +71,7 @@ Im Jahr 2012 erschütterte die weltweite Clubszene.
 Dieses eine Lied machte Blawans Namen endgültig.
 
 Der Titel ist beunruhigend.
-Das verzerrte Gesangsbeispiel klingt wie ein Geist, der in einem Keller stöhnt.
+Das verzerrte Gesangssample klingt wie ein Geist, der in einem Keller stöhnt.
 Der Beat ist schwer und wiederholt sich mit einer Hartnäckigkeit, die an Wahnsinn grenzt.
 Es liegt jedoch ein seltsames **„Vergnügen“** darin.
 Es komprimierte den Körper des Zuhörers und ließ ihn gleichzeitig los – es war ein Moment der **Angst und Euphorie**.
@@ -142,7 +142,7 @@ Und die zarten Partikel von Skee Mask.
 All das wird in ihm wieder aufgebaut.
 
 Anstelle der Sterilität Berlins bevorzuge ich die Luftfeuchtigkeit Londons.
-Verwenden Sie eher den Druck Ihrer Handfläche als den digitalen.
+Verwenden Sie den Druck Ihrer Handfläche statt des digitalen Drucks.
 Blawan wählt weiterhin **Landgewicht**.
 Es ist auch eine Form des Widerstands für den Verein, wieder ein „Ort“ zu sein.
 
@@ -161,7 +161,7 @@ Im Hintergrund liegt sein eigenes Leben, einschließlich des Verlusts von Freund
 Hinter den kalten mechanischen Geräuschen verbirgt sich das Atemgeräusch von Verlust und Wiedergeburt.
 Nachdem er mit „Why They Hide Their Bodies Under My Garage“ Eindruck gemacht hat, ist er nach mehr als zehn Jahren zu „einem Gebet, das in der Zerstörung wohnt“ gelangt.
 
-In einer Zeit, in der Techno immer abstrakter wird und Clubs mit der digitalen Welt verschmelzen, wagt Blawan es, die „Schwerkraft“ zurückzubringen.
+In einer Zeit, in der Techno immer abstrakter wird und Clubs mit der digitalen Welt verschmelzen, wagt Blawan, die „Schwerkraft“ zurückzubringen.
 Der Beat, der durch die Adern der Steel City fließt.
 Darin fragt er leise: Kann Klang noch menschlich sein? **
 
@@ -231,7 +231,7 @@ flowchart TD
 
 ---
 
-> „Wenn ich Blawan auf dem DJ-Gelände spiele,
+> „Wenn ich Blawan auf der DJ-Seite spiele,
 > Jeder steht für einen Moment bereit.
 >Aber dann lachst du.
 > Ihr Körper reagiert von selbst. Das ist nicht logisch. ”
@@ -239,7 +239,7 @@ flowchart TD
 
 ---
 
-> „Ich habe Karenns Live-Auftritt von der Seitenlinie aus verfolgt,
+> „Ich habe Karenns Live-Auftritt von der Seitenlinie aus gesehen,
 > Es fühlte sich an, als wäre man in einem Stahlwerk.
 > Hört sich an, als würden Funken fliegen.
 >Trotzdem waren die Gesichter des Publikums irgendwie freundlich. ”
@@ -372,7 +372,7 @@ Daher behält sein Techno eine „menschliche Instabilität“.
 
 ---
 
-### 後記
+### Nachtrag
 
 Schwere Bässe hallen durch die nächtliche Stadt.
 In einer Zeit, in der jeder Ton über sein Smartphone konsumiert,

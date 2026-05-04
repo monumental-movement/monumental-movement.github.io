@@ -18,7 +18,7 @@ Dean Meredith, auch bekannt als White Light Circus, ist ein britischer DJ und Pr
 
 Er ist auch unter den Namen The Rhythm Odyssey und Goat Dance aktiv.
 
-„Marching Orders“ ist ein Electro-Downtempo-Disco-Track, der 2005 vom britischen Label D.C. Recordings veröffentlicht wurde.
+„Marching Orders“ ist ein Elektro-Downtempo-Disco-Track, der 2005 vom britischen Label D.C. Recordings veröffentlicht wurde.
 
 #### Trackliste
 ```md

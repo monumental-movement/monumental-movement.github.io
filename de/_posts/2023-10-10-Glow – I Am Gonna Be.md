@@ -13,8 +13,8 @@ title: Glow – I Am Gonna Be
 ---
 
 
-„I Am Gonna Be“ ist
-Dies ist eine EP von Glow, die 1997 vom italienischen Label „DUE Records“ veröffentlicht wurde.
+「I Am Gonna Be」は、
+1997年にイタリアのレーベル「DUE Records」からリリースされたGlowによるEPです。
 
 #### Trackliste
 ```md

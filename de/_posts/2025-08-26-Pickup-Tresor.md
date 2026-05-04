@@ -10,23 +10,23 @@ tags:
 - Techno
 - German Techno
 - 90s
-title: Tresor-Werke abholen
+title: Tresor(トレゾア)作品をピックアップ
 ---
 
 
-„Der Herzschlag des Techno hallt hinter der Eisentür wider, die bemerkenswerten Werke von Tresor“
+「鉄扉の向こうで鳴り響いた、テクノの鼓動、注目すべきTresor(トレゾア)作品群」
 
 <hr>
 
 
 
-### Joey Beltram – Die aufgehende Sonne
+### Joey Beltram – The Rising Sun
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-Übersicht: Joey Beltrams Werk, 2004 bei Tresor veröffentlicht. Im CD-Format bei MMR erhältlich.
+概要：2004年にTresorからリリースされたJoey Beltramの作品。MMRではCDフォーマットで入手可能です。
 
 
-Attraktiver Punkt: Enthält viele repräsentative Songs des erfahrenen Techno-Produzenten Joey Beltram. Durch die Zusammenarbeit mit Tresor können Sie seine vertiefte Klangwelt genießen.
+魅力ポイント：ベテラン・テクノプロデューサーJoey Beltramの代表曲が多数収録。Tresorとのコラボレーションを通して彼の深化したサウンド世界が楽しめます。
 
 #### Trackliste
 ```md
@@ -52,13 +52,13 @@ Attraktiver Punkt: Enthält viele repräsentative Songs des erfahrenen Techno-Pr
 <br>
 
 
-### Joey Beltram – Spielform
+### Joey Beltram – Game Form
 <a href="https://jp.mercari.com/item/m93873699872?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20Game%20Form.webp"></a>
 
-Zusammenfassung: Eine Single mit „Game Form“ und Remixen von Robert Armani und Mike Dearborn. Veröffentlicht im Jahr 2004.
+概要：「Game Form」およびロバート・アルマーニやマイク・ディアボーンによるリミックスを収録したシングル。2004年リリース。
 
 
-Reizvoller Punkt: Es handelt sich um ein exklusives Vinylwerk mit kraftvollen Dancefloor-Tracks inklusive Remixen.
+魅力ポイント：リミックス含めてダンスフロア仕様の強力なトラックが揃う、エクスクルーシブなヴァイナル作品です。
 
 #### Trackliste
 ```md
@@ -77,13 +77,13 @@ B2. Game Form (Mike Dearborn Remix)
 <hr>
 <br>
 
-### Verschiedene – Tresor Compilation Vol. 6
+### Various – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-Zusammenfassung: Ein Compilation-Album von Tresor, das 1998 veröffentlicht wurde. Nach Band 7 aus dem Jahr 1999 ist dies ein Stück voller Charme des frühen Tresor.
+概要：1998年リリースのTresorによるコンピレーションアルバム。1999年のVol.7に続く、初期のTresorの魅力が詰まった一枚です。
 
 
-Attraktiver Punkt: Enthält ein luxuriöses Lineup, das die Berliner Technoszene der späten 90er Jahre symbolisiert, und ist ein gutes Einstiegsalbum, das es Ihnen ermöglicht, die Wurzeln und frühen Sounds des Labels intensiv zu genießen.
+魅力ポイント：90年代後半のベルリン・テクノシーンを象徴する豪華ラインナップが収録されており、レーベルのルーツと初期サウンドを深く味わえる良い入門盤。
 
 #### Trackliste
 ```md
@@ -111,13 +111,13 @@ Attraktiver Punkt: Enthält ein luxuriöses Lineup, das die Berliner Technoszene
 <hr>
 <br>
 
-### Verschiedene – Tresor Compilation Vol. 7
+### Various – Tresor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-Zusammenfassung: Die 7. Tresor-Compilation, veröffentlicht im Jahr 1999. Eine wunderschöne Sammlung von Songs weltberühmter Künstler wie Sven Väth, Ben Sims, James Ruskin, Daniel Bell und DJ Shufflemaster.
+概要：1999年発表のTresorコンピレーション第7弾。Sven Väth や Ben Sims、James Ruskin、Daniel Bell、DJ Shufflemaster など、世界的アーティストの楽曲が収録された豪華コレクションです。
 
 
-Attraktiver Punkt: Deckt ein breites Spektrum an Stilen wie Dub Techno und Ambient ab und ermöglicht es Ihnen, die Essenz des Tresor-Labels voll und ganz zu erleben. Empfohlen für Anfänger.
+魅力ポイント：Dubテクノやアンビエントなど幅広いスタイルを網羅し、Tresorレーベルのエッセンスを余すところなく体感できる一枚。初心者にもおすすめです。
 
 #### Trackliste
 ```md
@@ -145,13 +145,13 @@ Attraktiver Punkt: Deckt ein breites Spektrum an Stilen wie Dub Techno und Ambie
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Family
+### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-Zusammenfassung: Tresors frühes Compilation-Werk, das 1992 veröffentlicht wurde. Es handelt sich um einen komprimierten Inhalt voller Songs verschiedener Künstler von Seite A bis D.
+概要：1992年にリリースされたTresor初期のコンピレーション作品。A面〜D面まで多彩なアーティストによる楽曲が詰め込まれた凝縮された内容です。
 
 
-Reizvoller Punkt: Wie der Titel schon vermuten lässt, handelt es sich bei „Klang Der Familie“ um ein historisches Meisterwerk, das die Entstehungszeit der Berliner Technokultur realistisch darstellt. Besonders empfehlenswert für Analog-Fans.
+魅力ポイント：「Klang Der Familie」（家族の響き）というタイトル通り、ベルリンのテクノカルチャー形成期をリアルに感じさせる歴史的名作。アナログファンには特におすすめ。
 
 #### Trackliste
 ```md
@@ -180,10 +180,10 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ### DJ Shufflemaster – EXP
 <a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.webp"></a>
 
-Zusammenfassung: Ein Album in voller Länge, das 2001 vom japanischen Hard-Techno-DJ/Produzenten DJ Shufflemaster (Tatsuya Kanamori) veröffentlicht wurde. Es gilt als ein von Tresor veröffentlichtes Meisterwerk.
+概要：日本のハードテクノDJ／プロデューサーであるDJ Shufflemaster（金森達也）による、2001年リリースのフルアルバム。Tresorから発表された代表作として知られています。
 
 
-Attraktiver Punkt: Der tiefe, harte Techno-Sound und die detaillierte Komposition sind attraktiv. Er hat international großes Lob erhalten und ist ein wertvoller japanischer Künstler, der sich durch seine Beziehung zu Tresor auf der ganzen Welt verbreitet hat.
+魅力ポイント：重厚なハードテクノサウンドと緻密な構成が魅力。国際的にも高評価を得ており、Tresorとの関係を通して世界に広がった日本人アーティストとしても貴重な存在です。
 
 #### Trackliste
 ```md
@@ -209,13 +209,13 @@ D2. Innervisions
 <hr>
 <br>
 
-### Chrislo – Niedrig
+### Chrislo – Low
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-Überblick: Einer der verwandten Künstler, der im Abschnitt „Mehr davon entdecken“ auf Joey Beltrams Werkseite (The Rising Sun) erscheint. Von Chrislo Haas, Tresor 092.
+概要：Joey Beltramの作品ページ（The Rising Sun）の「Explore more like this」セクションに現れる関連アーティストの一つです。Chrislo Haasによる作品で、Tresor 092。
 
 
-Attraktiver Punkt: Dies ist ein Solowerk von Chrislo Haas, bekannt für seine Arbeit als D.A.F. und Liaisons Dangereuses und zeigt eine starke Verbindung zur experimentellen elektronischen Musik Berlins.
+魅力ポイント：D.A.F. や Liaisons Dangereuses などで知られるChrislo Haasのソロ活動として、ベルリンの実験的な電子音楽への強烈な接続を感じさせる一作。
 
 #### Trackliste
 ```md

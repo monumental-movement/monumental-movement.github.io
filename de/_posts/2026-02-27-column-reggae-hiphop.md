@@ -16,7 +16,7 @@ title: '[Kolumne] Reggae × Hip-Hop: Von Soundsystemen zu Weltstädten – eine 
 
 
 
-## Von Soundsystemen bis zu Weltstandards, die Genealogie der Basskultur, die Grenzen überschreitet
+## Von Soundsystemen bis hin zu globalen Standards, die Genealogie der Basskultur, die Grenzen überschreitet
 
 Text: mmr｜Thema: Das Hin und Her des Rhythmus, der Jamaika und die Bronx verbindet, und die Kulturgeschichte der Expansion in globale Städte
 
@@ -69,7 +69,7 @@ Von Ende der 1960er bis in die 1970er Jahre traten DJs auf, die über Instrument
 
 ### Die Bronx: Die Geburt des Hip Hop
 
-**DJ Kool Herc** stammt ursprünglich aus Jamaika und zog 1967 nach New York. Am 11. August 1973 demonstrierte er auf einer Party in der Sedgwick Avenue in der Bronx eine Technik zur Verlängerung von Pausen mithilfe von zwei Plattenspielern.
+Der ursprünglich aus Jamaika stammende DJ Kool Herc zog 1967 nach New York. Am 11. August 1973 demonstrierte er auf einer Party in der Sedgwick Avenue in der Bronx eine Technik zur Verlängerung von Pausen mithilfe von zwei Plattenspielern.
 
 Dieser „Breakbeat“ begeisterte die Tänzer und der MC war für die Aufregung des Publikums verantwortlich. Im Laufe der Zeit verfeinerte **Grandmaster Flash** die Theorie des schnellen Mischens und entwickelte Scratching- und präzise Cueing-Techniken.
 

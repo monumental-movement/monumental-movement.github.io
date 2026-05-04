@@ -14,7 +14,7 @@ title: Kim Taylor – Feel So Fine
 ---
 
 
-Arrangiert und komponiert von Michiel Van Eijk von Proxyon. Produzenten sind Erik van Vliet und Rob Van Eijk.
+アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
 
 #### Trackliste
 ```md

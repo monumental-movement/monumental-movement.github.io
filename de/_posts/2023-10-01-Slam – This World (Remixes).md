@@ -9,21 +9,21 @@ permalink: /de/slam-this-world-remixes/
 tags:
 - Techno
 - Minimal
-title: Slam – This World (Remixe)
+title: Slam – This World (Remixes)
 ---
 
 
-Der Remix der Wighnomy Brothers ist großartig, das Original ist typisch britische synthetische Musik mit leicht tranceartigem Pop/House-Gesang, klanglich genug transformiert, gefiltert und subtil verändert, um eine sehr scharfe und gefühlvolle Stadion-Micro-House-Hymne für das 22. Jahrhundert zu werden.
+Wighnomy Brothersのリミックスは素晴らしく、オリジナルは典型的なイギリスの合成音楽で、わずかにトランス風のポップ/ハウスのボーカルが特徴で、音響的には十分に変形し、フィルター処理され、微妙に変更され、22世紀の非常にシャープで感情的なスタジアム・マイクロハウスのアンセムになっています。
 
-Wighnomy Bros hat das höchst Undenkbare geschafft. Kreierte angesagte und mitreißende Stadionmusik.
+Wighnomy Brosはこの非常に考えられないことを成し遂げました。ヒップでスリリングなスタジアム音楽を生み出しました。
 
-Slam sind ein schottisches DJ-Produzenten-Duo (Orde Meikle, Stuart McMillan) aus Glasgow.
+Slamは、グラスゴー出身のスコットランド人 DJ プロデューサーデュオ（Orde Meikle, Stuart McMillan）です。
 
-Mitbegründer von Soma Quality Recordings und Veranstalter der Atlantis-Partys (1989–1992) und Slam-Partys (1991–) in Glasgow.
+Soma Quality Recordings の共同設立者であり、グラスゴーで開催された Atlantis パーティー (1989-1992) と Slam パーティー (1991-) のプロモーターでもあります。
 
-Wir trafen uns 1986 in Sheffield. Damals studierte Ord Geographie an der Universität und Stuart arbeitete in einer Bar.
+出会いは1986年のシェフィールド。当時、オードは大学で地理学を専攻しており、スチュアートはバーで働いていました。
 
-Die Gruppe ist nach dem legendären Titel von Phuture benannt.
+グループ名は、Phuture の伝説的トラックにちなんで名付けられました。
 
 #### Trackliste
 ```md

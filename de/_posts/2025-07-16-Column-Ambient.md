@@ -32,7 +32,7 @@ Bei diesem Genre handelt es sich um äußerst philosophische Musik, die an der G
 
 アンビエントという言葉を音楽ジャンルとして定義づけたのは、イギリスの音楽家Brian Enoである。1978年、彼は代表作[『Ambient 1: Music for Airports』](https://amzn.to/48shEpU)において、以下のように述べている：
 
-„Ambient-Musik muss in der Lage sein, viele Ebenen der Zuhöreraufmerksamkeit zu berücksichtigen, ohne eine bestimmte Ebene zu erzwingen; sie muss ebenso vernachlässigbar wie interessant sein.“
+„Ambient-Musik muss in der Lage sein, viele Ebenen der Zuhöreraufmerksamkeit zu berücksichtigen, ohne eine bestimmte Ebene zu überfordern; sie muss ebenso vernachlässigbar wie interessant sein.“
 „Ambient-Musik darf sich nicht aufdrängen, sich aber gleichzeitig ignorieren lassen.“
 
 Mit anderen Worten: Ambient-Musik ist keine Hintergrundmusik, sondern funktioniert wie Hintergrundmusik. **Es ist „Raumkunst“, die im Hintergrund des Bewusstseins fließt**.

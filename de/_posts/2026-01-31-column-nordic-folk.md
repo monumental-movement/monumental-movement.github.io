@@ -24,11 +24,11 @@ Text: mmr｜Thema: Eine lange Studie, die die dunkle Seite der Mythen und Volksg
 
 Die als Nordic Folk bekannte Musikkultur bezieht sich auf die Gesamtheit der Volkslieder, Tänze und Gesänge, die in Regionen wie Norwegen, Schweden, Finnland, Dänemark und Island überliefert wurden. Schon bevor diese Genres moderne Namen erhielten, existierten sie als Musik, die eng mit Leben, Glauben, Arbeit und Tod verbunden war.
 
-Die Melodien basieren oft auf einer Moll-Tonart, sind repetitiv und haben einen musikalischen Verlauf, der eher Spannung und Stille als „Helligkeit“ im modernen Sinne enthält. In den Texten geht es oft um Themen wie Tote, Geister, Geister, Flüche und Verrat, aber auch um Geschichten über Heldentum und Liebe.
+Die Melodien basieren oft auf einer Moll-Tonart, sind repetitiv und haben einen musikalischen Takt, der eher Spannung und Stille als „Helligkeit“ im modernen Sinne enthält. In den Texten geht es oft um Themen wie Tote, Geister, Geister, Flüche und Verrat, aber auch um Geschichten über Heldentum und Liebe.
 
 Diese Eigenschaft ist kein Zufall, sondern hängt eng mit der Struktur des mythologischen Systems und des Volksglaubens in der nordischen Welt zusammen.
 
-> Nordischer Folk war keine Unterhaltungsmusik, sondern ein Mittel zur Bewahrung einer mythischen Weltanschauung als Klang.
+> Nordic Folk war keine Unterhaltungsmusik, sondern ein Mittel zur Bewahrung einer mythischen Weltanschauung als Klang.
 
 ---
 
@@ -53,7 +53,7 @@ Um die Dunkelheit des nordischen Volkes zu verstehen, ist es notwendig, die grun
 
 Götter sind nicht unsterblich, aber sie müssen mit Alter, Verrat und Tod rechnen. Odin opfert seine Augen, um Wissen zu erlangen, und Loki wird zum Gott, aber auch zum Zerstörer, was zum Ende der Welt führt.
 
-Das Wichtige an diesem mythologischen System ist, dass es keine Annahme gibt, dass die Ordnung ewig bestehen wird. Eine Weltanschauung, die auf dem Verderben basiert, lässt musikalische Ausdrucksformen stärker das Schicksal als die Hoffnung widerspiegeln.
+Das Wichtige an diesem mythologischen System ist, dass es keine Annahme gibt, dass die Ordnung ewig bestehen wird. Eine Weltanschauung, die vom Aussterben ausgeht, führt dazu, dass musikalische Ausdrucksformen stärker das Schicksal als die Hoffnung widerspiegeln.
 
 > Die nordische Mythologie enthält die Idee, eher ein unausweichliches Ende als eine Erlösung zu akzeptieren.
 
@@ -62,11 +62,11 @@ Das Wichtige an diesem mythologischen System ist, dass es keine Annahme gibt, da
 ## Volksglauben und dunkle Wesen
 
 
-In der nordischen Region blieb der Volksglaube auch nach dem Christentum noch lange bestehen. Es wurde angenommen, dass Geister in Wäldern, Seen, Bergen und Sümpfen lebten und dass diese Geister den Menschen sowohl Segen als auch Schaden brachten.
+In der nordischen Region blieb der Volksglaube auch nach dem Christentum noch lange erhalten. Es wurde angenommen, dass Geister in Wäldern, Seen, Bergen und Sümpfen lebten und dass diese Geister den Menschen sowohl Segen als auch Schaden brachten.
 
 Weibliche Waldgeister wie der schwedische Skogsloh, der norwegische Huldra und der finnische Metsan Vaki gelten als schön und einladend, sollen aber für diejenigen, die ihnen zu nahe kommen, zerstörerisch sein.
 
-Volksliedtexte erzählen immer wieder Geschichten von Begegnungen mit diesen Wesen, die zu Tod oder Wahnsinn führten. Dies waren keine Fabeln, sondern dienten als praktische Warnungen für das Zusammenleben mit der Natur.
+Volksliedtexte erzählen immer wieder Geschichten von Begegnungen mit diesen Wesen, die zum Tod oder zum Wahnsinn führten. Dies waren keine Fabeln, sondern dienten als praktische Warnungen für das Zusammenleben mit der Natur.
 
 > Die Dunkelheit des skandinavischen Volkes war keine Horrorproduktion, sondern Weisheit zum Überleben.
 
@@ -81,7 +81,7 @@ Diese Balladen verlaufen oft wie eine Aufzählung von Fakten, ohne emotionale Er
 
 Es besteht keine Absicht, Gewalt zu verherrlichen, und der Tod wird eher als eine Erweiterung des Alltagslebens denn als ein besonderer Vorfall dargestellt. Es gibt eine Ruhe und Dunkelheit, die für den skandinavischen Volk charakteristisch ist.
 
-> Im nordischen Volk war es nichts Ungewöhnliches, über den Tod zu sprechen.
+> Im nordischen Volk war es nicht ungewöhnlich, über den Tod zu sprechen.
 
 ---
 

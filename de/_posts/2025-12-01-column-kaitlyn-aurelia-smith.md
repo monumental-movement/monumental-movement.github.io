@@ -10,20 +10,20 @@ tags:
 - Buchla
 - Modular
 - Ambient
-title: '[Kolumne] Kaitlyn Aurelia Smith – Die Echos des „elektrischen Lebens“ in Buchla'
+title: 【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き
 ---
 
 
 
 ## Einführung
 
-Text: mmr｜Thema: Über ihre Erziehung und Herkunft, Veränderungen in ihrer Arbeit und ihrem Klang sowie „Klangphilosophie“ durch Buchla
+文：mmr｜テーマ：彼女の育ちやバックグラウンド、作品とサウンドの変遷、そして Buchla を通じた「音の哲学」について
 
-In der Welt der elektronischen Musik und der modularen Synthesizer werden Synthesizer oft als Symbole für „Maschinen“ behandelt. Ihr Sound widerlegt jedoch diese Vorurteile. Der Klang ist warm und satt, als ob „man ein Lebewesen oder einen organischen Atem tief im Inneren der Kabel und Knöpfe eines modularen Synthesizers spüren könnte“.
+電子音楽やモジュラー・シンセの世界において、シンセは往々にして「機械」の象徴として扱われがちだ。しかし、彼女の音はそうした既成概念を覆す。「モジュラー・シンセのケーブルやツマミの奥に、まるで“生き物”や“有機の息吹”を感じる」ような、温かくて豊かな響きだ。
 
-Durch die Wahl von Vintage- oder modularer Ausrüstung, insbesondere modularer Ausrüstung im Buchla-Stil, schafft sie ein Klangökosystem durch „Zufall“, „Instabilität“, „Manualität“ oder „elektrische Vibrationen und Resonanz mit dem Körper“ und nicht nur durch synthetische Klänge.
+使用機材として、ヴィンテージあるいはモジュラー系、特に Buchla 系モジュラーを選ぶことで、彼女は単なる合成音ではなく、「偶発性」「不安定さ」「手作業性」、あるいは「電気の振動と身体との共振」を通じて、“音の生態系”を立ち上げる。
 
-Durch die sorgfältige Verflechtung von Stimmen, Live-Instrumenten, Feldaufnahmen, Natur und Körperlichkeit erhebt er das Modulare von einer „kalten Maschine“ zu einem „lebendigen Klanggefäß“. Menschen, die modulare Synthesizer und Synthesizer im Buchla-Stil lieben, werden von dieser Einstellung stark angezogen sein.
+そして声、生楽器、フィールド録音、自然や身体性――それらを丁寧に編み込みながら、モジュラーを「冷たい機械」から「生きた音の器」へと昇華させる。その姿勢に、モジュラーや Buchla 系シンセを愛する人々は強く惹かれるだろう。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95UvPlhjbE4?si=Kg2SbogrCMF55Cxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -44,99 +44,99 @@ color: #fff;
 
 
 
-## Orcas Island – Natur und Homeschool-Umgebung
+## Orcas Island — 自然とホームスクールの環境
 
-Ihre Heimatstadt ist Orcas Island im Bundesstaat Washington im Nordwesten der USA. Während seiner Kindheit wurde er auf dieser Insel zu Hause unterrichtet und wuchs umgeben von üppiger Natur und Ruhe auf.
+彼女の出身地はアメリカ北西部、ワシントン州の Orcas Island。幼少期はこの島でホームスクールを受けながら、豊かな自然と静けさの中で育った。
 
-Die Brise der Insel, das Rauschen des Windes in den Bäumen, das Zwitschern der Vögel, die Wellen des Wassers ... diese natürlichen Empfindungen und Umgebungsgeräusche wurden im Laufe ihrer Kindheit in ihre Ohren und ihren Körper eingepflanzt.
+島の風、木々の間を渡る風の揺らぎ、鳥のさえずり、水辺のさざめき……こうした自然の感覚や環境音が、彼女の耳と身体に染み込んで育った。
 
-Gleichzeitig kam er schon in jungen Jahren mit traditionellen Instrumenten wie Klavier und Gitarre in Kontakt und versuchte, Musik zu komponieren, wodurch er sein Gespür für Tonhöhe und Musik entwickelte. Dieses Umfeld aus „Natur x traditionelle Instrumente x unabhängiges Lernen“ wurde zur Grundlage für die spätere Umstellung auf Modularität.
+同時に、幼少からピアノやギターなど伝統楽器に触れ、作曲を試みるなど、音感や音楽への感覚を育んでいた。この「自然 × 伝統楽器 × 自主的な学び」の環境が、後のモジュラーへの転換の土台となる。
 
-Diese Erfahrungen lieferten ihr die Achsen „Natürlichkeit“, „Räumlichkeit“ und „Körperlichkeit“, als sie sich später der elektronischen/modularen Musik zuwandte.
+こうした経験は、後に電子／モジュラー音楽へと進む彼女に、「自然性」「空間性」「身体性」という軸をもたらすことになる。
 
 ---
 
-## Musikalische Ausbildung und Begegnung mit Buchla
+## 音楽教育、そして Buchla との出会い
 
-Als sie aufwuchs, studierte sie Komposition und Klangtheorie an einer Musikausbildungseinrichtung in den Vereinigten Staaten und war gleichzeitig in einem Folk-Duo mit Gitarre, Gesang und Klavier aktiv.
+成長した彼女は、米国の音楽教育機関で作曲とサウンド理論を学び、その傍らフォーク系のデュオでギターや声、ピアノを用いた活動を行っていた。
 
-Doch nachdem er die Enge seiner Studienzeit hinter sich gelassen und in seine Heimatstadt zurückgekehrt ist, kommt es zu einer unerwarteten Veränderung: Er trifft auf einen Buchla 100, den ihm ein Nachbar geliehen hat. Als sie zum ersten Mal einen modularen Synthesizer in die Hand nahm, sah sie ihn nicht als „fadenscheiniges Werkzeug“, sondern als „Co-Star“, „ein lebendiges Ding“ und „einen elektrischen Körper“.
+しかし、学生時代の枠を出た後、故郷に戻ることで思わぬ変化が訪れる――隣人から貸与された Buchla 100 との出会いだ。モジュラー・シンセを初めて手にしたとき、彼女はそれを「薄っぺらい道具」ではなく、「共演者」「生き物」「電気の身体」として捉えた。
 
-Buchlas Instabilität, manuelles Patchen und unvorhersehbare Klangverschiebungen – durch diese Zufälligkeit und Instabilität entschließt sie sich, dem Synthesizer „lebendigen Klang“, „Vibration“, „Raum“ und „Körperlichkeit“ zu verleihen.
+Buchla の不安定さ、パッチングの手作業、予測不能な音のズレ――そうした偶発性や不安定性を通じて、彼女はシンセから「生きた音」「振動」「空間」「身体性」を引き出すことを選んだ。
 
-Diese Transformation ist die Grundlage für alle seine nachfolgenden Werke.
+この転換こそが、以後の作品すべての基盤となる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uhtar8FlgzU?si=XWNGbZJzlJDCbJKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Frühe Werke und „Tides“ – Vorspiel zu modular
+## 初期作品群と “Tides” — モジュラーへの序章
 
-Ihr frühes Werk umfasste selbstproduzierte Folk- und experimentelle Tracks. Doch erst als er begann, mit dem Buchla Music Easel aufzunehmen, begann er, sich ernsthaft mit modularer/elektronischer Musik zu beschäftigen.
+彼女の初期作品群には、自主制作によるフォークや実験的なトラックが含まれていた。しかし、本格的にモジュラー／電子音楽と向き合ったのは、Buchla Music Easel を使った録音からである。
 
-Diese Aufnahme wurde später in Form von Tides: Music for Meditation and Yoga veröffentlicht. Windspiele, raschelnde Bäume, Vogelgezwitscher, Wassergeräusche, kleine Naturgeräusche – dieses Werk kombiniert Umgebungsgeräusche/Feldaufnahmen mit modularen elektronischen Wellenformen.
+この録音は後に作品として発表され、《Tides: Music for Meditation and Yoga》という形をとった。風鈴、木々のざわめき、鳥の声、水音、小さな自然のノイズ――そうした環境音／フィールド録音を、モジュラーによる電子波形と融合させた作品だ。
 
-Zu diesem Zeitpunkt hat es noch keine große Sensation hervorgerufen. Allerdings war die Richtung „modular + natürliche Klänge/Umgebungsgeräusche + Räumlichkeit“ bereits klar und das Grundgefühl ihrer Musik zeichnete sich ab.
-
----
-
-## „EARS“ – Vielschichtiges und erweitertes Klanguniversum
-
-Der eigentliche Wendepunkt war das 2016 veröffentlichte Album *EARS*. Während in diesem Werk Buchla im Mittelpunkt steht, habe ich verschiedene Klangressourcen wie Holzblasinstrumente, afrikanisches Daumenklavier (Mbira), Stimme und Feldaufnahmen gemischt, um einen vielschichtigen Klang zu erzeugen.
-
-Die Kälte elektronischer Klänge, die Sanftheit organischer Instrumente, die Fluktuation der Stimmen und natürliche Geräusche vermischen sich zu einem verträumten und lebendigen Klang, der an einen „futuristischen Dschungel“ erinnert.
-
-Mit dieser Arbeit wandelte sie sich von einer bloßen modularen Experimentatorin zu einer Malerin, die modulare Objekte zur Darstellung der organischen Welt verwendet, und erregte die Aufmerksamkeit vieler Zuhörer und Kritiker.
+この段階ではまだ大きな旋風を巻き起こしたわけではない。しかし、「モジュラー＋自然音／環境音＋空間性」という方向性はすでに鮮明であり、彼女の音楽の根底にある感覚が浮かび上がっていた。
 
 ---
 
-## „The Kid“ – Eine Reise durch den Lebenszyklus des Klangs
+## “EARS” — 多層性と拡張された音の宇宙
 
-Das 2017 erschienene Album *The Kid* ist ein Werk, das auf ihren früheren Klangexperimenten aufbaut und „Storytelling/Menschlichkeit“ noch stärker betont.
+本格的な転機となったのは、2016 年リリースのアルバム *EARS* である。この作品では、Buchla を中心にすえつつ、木管楽器、アフリカの親指ピアノ（mbira）、声、フィールド録音など、多様な音資源を混ぜ合わせ、多層構造のサウンドを構築した。
 
-Das Thema dieses Werks ist „Der Lebenszyklus von der Geburt bis zum Tod“ und es kombiniert eine Vielzahl klanglicher Elemente, darunter modulare, Orchester-, ethnische Instrumente, Percussion und Stimme, um eine dramatische und emotionale Komposition zu schaffen.
+電子音の冷たさと、有機楽器の柔らかさ、声の揺らぎ、自然のノイズ――これらが絡み合い、“未来のジャングル（futuristic jungle）” のような、幻想的かつ生き生きとしたサウンドが生まれた。
 
-Durch die Darstellung der Unschuld von Neugeborenen, des Wachstums, der Reife und Verwirrung sowie der Stille der Endgültigkeit durch das Medium elektronischer und organischer Klänge, des Körpers und des Raums kann der Zuhörer ein Gefühl von „Leben“ in den Klängen spüren.
-
-Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter mechanischer Klang“ und zeigte, dass „elektronische Musik auch menschliche Geschichten, Emotionen und Erinnerungen darstellen kann.“
+この作品により、彼女は単なるモジュラーの実験者から、「モジュラーを使って有機世界を描く画家」として、多くのリスナーと批評家から注目を集めた。
 
 ---
 
-## „Das Mosaik der Transformation“ – Eine Hommage an die Elektrizität, eine Erkundung der Körperlichkeit
+## “The Kid” — ライフサイクルを描く音の旅
 
-Der über die Jahre seit 2017 gereifte Sound erreicht mit dem 2020 erschienenen Album *The Mosaic of Transformation* neue Horizonte.
+2017年に発表されたアルバム *The Kid* は、彼女がこれまで手がけてきた音の実験を土台にしつつ、さらに「物語性／人間性」を強く打ち出した作品だ。
 
-In dieser Arbeit betrachtet sie modulare Synthesizer als „vibrationsvermittelnde Geräte“, „eine Erweiterung des Körpers“ und „einen Schnittpunkt zwischen Elektrizität und dem Körper“. Bei der Erstellung des Stücks bestand die Idee darin, Elektrizität zusammen mit täglichen Bewegungen, Atmung und körperlichen Empfindungen zu leiten – mit anderen Worten, die Absicht bestand nicht einfach darin, den modularen Klang zu erzeugen, sondern die Vibrationen mit dem Körper zu „spüren“.
+本作は「誕生から死に至るライフサイクル」をテーマとし、モジュラー、オーケストラ、民族楽器、パーカッション、声など、多彩な音の要素が折り重なり、ドラマティックで感情に訴えかける構成となっている。
 
-Infolgedessen hat dieses Werk einen Klang, der „Wellen“, „Schwankungen“, „räumliche Empfindung“ und „physische Empfindung“ anstelle von Struktur oder Form in den Vordergrund stellt. Dröhnende Stille, rollende Pads, flüsternde Stimmen und Schichten umhüllender Synthesizer schwingen über organische und elektronische, physische und elektrische, Zeit und Raum hinweg mit.
+生まれたてのあどけなさ、成長のうねり、成熟と混迷、終焉の静けさ――それらを電子音と有機音、身体と空間を媒介に描くことで、聴き手は音の中に一つの「人生」を感じ取る。
 
-Dieser Versuch ist ein höchst poetisches und meditatives Werk, das modulare/analoge Synthesizer nicht als bloße Klangquellen präsentiert, sondern als „eine Schnittstelle, die den Körper und die Welt verbindet“.
-
----
-
-## Klangphilosophie – Modular ⇔ Natur ⇔ Körper
-
-Es gibt eine konsistente Philosophie, die durch ihre Arbeiten und ihren Weg zum Vorschein kommt.
-
-- **Fusion von elektronischen Klängen und Natur-/Umweltgeräuschen/Körperlichkeit**
-Indem er Buchlas elektronische Wellenformen mit dem Rauschen des Waldes, dem Klang von Wasser, Wind, Stimmen und Live-Instrumenten mischt, überschreitet er die Dichotomie von „elektronisch = künstlich“ und „natürlich = organisch“ und kreiert einen neuen „organischen elektronischen Klang = lebendiger Klang“.
-
-- **Bestätigung der Kontingenz/Instabilität**
-Die Instabilität von Buchla, die manuelle Natur des Patchens, die unkontrollierbaren Abweichungen und Schwankungen – diese werden nicht als „Fehler“, sondern eher als „kreative Spielräume“, „unerwartete chemische Veränderungen“ und „gute Zufälle“ begrüßt.
-
-- **Körpergefühl und Vibrationserlebnis**
-Anstatt Schall als etwas zu betrachten, das Sie mit Ihren Ohren hören, betrachten wir ihn als etwas, das Sie mit Ihrem Körper spüren und als Vibrationen wahrnehmen. Stimme, Atmung, Bewegung, Vibration – durch die Verknüpfung mit den elektrischen Schwingungen des Synthesizers wird Musik zu einer Wahrnehmung erweitert, die nicht nur den Hörsinn, sondern den gesamten Körper nutzt.
-
-- **Mehrere Ebenen von Zeitlichkeit, Räumlichkeit und Erinnerung**
-Drohnen, Wellen, Flächen und Feldaufnahmen verlängern die Zeit, verdichten den Raum und schaffen im Klang Erinnerungen, Emotionen und Verbindungen zur Natur.
-
-Diese Philosophie definiert modulare Synthesizer nicht nur als Klangquellen oder Werkzeuge neu, sondern als Geräte, die „Körper, Natur, Empfindungen, Vibrationen und Zeit“ verbinden. Ihr Sound ist ein Wegweiser für alle, die eine neue Arbeitsweise in der elektronischen Musik suchen.
+この作品によって、彼女は “電子音楽＝冷たい機械音” という偏見を超え、「電子音楽でも、人間の物語や感情、記憶を描ける」ということを示した。
 
 ---
 
-## Schallentwicklung – Zeitreihen und Schallbahn
+## “The Mosaic of Transformation” — 電気への礼賛、身体性の探求
 
-Das Folgende ist eine Geschichte ihres Sounds, der sich um ihre Hauptwerke dreht und sich zwischen „elektronisch/experimentell ⇔ organisch/physisch/räumlich“ hin und her bewegt.
+2017年以降、数年をかけて成熟したサウンドは、2020年のアルバム *The Mosaic of Transformation* において、さらに新たな地平へと到達する。
+
+この作品で彼女は、モジュラー・シンセを「振動の媒介装置」「身体の延長」「電気と身体の交感点」として捉えている。制作にあたっては、日々の動きや呼吸、身体的感覚とともに電気を通す――すなわち、モジュラーを単に鳴らすのではなく、その振動を身体で“感じる”ことを意図したという。
+
+結果としてこの作品には、構造や形式よりもむしろ「波動」「揺らぎ」「空間感覚」「身体感覚」が優先されたサウンドが広がる。ドローン的静けさ、うねるパッド、ささやきのような声、包み込むようなシンセの層――それらが、有機と電子、身体と電気、時間と空間を横断して共鳴する。
+
+この試みは、モジュラー／アナログ・シンセを、単なる音源ではなく「身体と世界をつなぐインターフェース」として提示した、非常に詩的で瞑想的な作品である。
+
+---
+
+## 音の哲学 — モジュラー ⇔ 自然 ⇔ 身体
+
+彼女の作品や歩みを通して見えてくる、ひとつの一貫した哲学がある。
+
+- **電子音と自然／環境音／身体性の融合**  
+  Buchla の電子波形と、森のざわめき、水の音、風、声、生楽器――これらを混ぜ合わせることで、「電子＝人工」「自然＝有機」という二項対立を超え、新しい「有機的電子音＝生きた響き」を生み出す。
+
+- **偶発性／不安定性の肯定**  
+  Buchla の持つ不安定さ、パッチングの手作業性、制御できないズレや揺らぎ――それらを“欠点”としてではなく、むしろ「創造の余白」「思わぬ化学変化」「音の偶然性」として歓迎する。
+
+- **身体感覚と振動の体験**  
+  音を「耳で聴くもの」ではなく、「身体で感じるもの」「振動として経験するもの」として立ち上げる。声・呼吸・動き・振動──それらとシンセの電気振動をつなげ、聴覚だけでなく身体全体を使った知覚へと音楽を拡張する。
+
+- **時間性・空間性・記憶の重層**  
+  ドローン、うねり、パッド、フィールド録音──それらで時間を延長し、空間を厚くし、記憶や感情、自然とのつながりを音として構築する。
+
+この哲学は、モジュラー・シンセを単なる音源やツールとしてではなく、「身体・自然・感覚・振動・時間」をつなぐ装置として再定義するものだ。電子音楽における新しいあり方を模索する者にとって、彼女の音はひとつの道標である。
+
+---
+
+## サウンド変遷 — 時系列とサウンドの軌跡
+
+以下は、彼女の主な作品を軸に、「電子性／実験性 ⇔ 有機性／身体性／空間性」の間を行き来しながら変遷してきたサウンドの軌跡。
 
 <div class="mermaid">
 graph TD
@@ -164,21 +164,21 @@ graph TD
 
 ---
 
-Auf diese Weise hat sich ihr Klang nicht linear entwickelt, sondern auf komplexe Weise immer weiter erweitert und vertieft, wobei sie zwischen den drei Achsen: modular/elektronisch ⇔ Natur/Körper ⇔ Experiment/Komposition hin und her pendelt.
+このように、彼女の音は単線的な進化ではなく、モジュラー／電子 ⇔ 自然／身体 ⇔ 実験／構成 ―― という三つの軸を往還しながら、複合的に広がりと深化を続けてきた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d2BVO_xlqsM?si=_lCzylHzQp1WxJsa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Fazit – Nachricht an diejenigen, die Buchla lieben
+## 結び — Buchla を愛する者へのメッセージ
 
-Kaitlyn Aurelia Smiths Reise war nie ein technisches Experiment oder eine Zurschaustellung ihres Könnens. Ihr Ziel ist es, eine reichhaltige und poetische „Welt der Empfindungen“ zu schaffen, die „Körper, Natur, Elektrizität, Zeit und Raum“ durch das „technische Gerät“ eines modularen Synthesizers miteinander verbindet.
+Kaitlyn Aurelia Smith の歩みは、決して技術的実験を目的とした「スキルの見せびらかし」ではない。彼女が目指しているのは、モジュラー・シンセという“技術装置”を通じて、「身体・自然・電気・時間・空間」を織り交ぜた、豊かで詩的な「感覚の世界」を立ち上げることだ。
 
-Wenn Sie Buchla und modulare Synthesizer nicht nur als Ausrüstung, sondern als „lebende Klanggefäße“, „vibrierende Körper“ und „eine Mischung aus Zufall und Notwendigkeit“ lieben, wird ihre Arbeit Ihnen als Wegweiser für Ihre Erkundung dienen.
+もしあなたが Buchla やモジュラー・シンセを、単なる機材としてではなく、“生きた音の器”“振動の身体”“偶然と必然のあわい”として愛するなら、彼女の作品はそのまま、あなたの探求にとってのひとつの道標となるだろう。
 
-Durch den „Ort“ elektronischer Musik/modularer/analoger Synthesizer besteht die Möglichkeit, körperliche Empfindungen, Natur, Zeit und Raum, Erinnerung und Emotionen neu zu entdecken.
+電子音楽／モジュラー／アナログ・シンセという “場” によって、身体感覚や自然、時間や空間、記憶や感情──それらを再発見する可能性が、ここにはある。
 
-– Ich hoffe, dieser Artikel hilft dabei, ein neues Licht auf Ihre Liebe zu Buchla und elektronischer Musik zu werfen.
+――本稿が、あなたの Buchla や電子音楽への愛に、新たな光をあてる一助となれば幸いである。
 
 
 ---

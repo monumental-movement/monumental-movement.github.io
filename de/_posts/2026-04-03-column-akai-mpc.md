@@ -27,7 +27,7 @@ In den späten 1980er Jahren begannen die Rhythmen, die zuvor dem Studio vorbeha
 
 Diese Maschine ist nicht nur eine Drum-Maschine und auch nicht nur ein Sampler. Es war ein Gerät, das Geräusche zerhackte, sie neu ordnete und die Zeit selbst rekonstruierte.
 
-> Das Aufkommen von MPC brachte die Musikproduktion wieder auf „Performance“ zurück.
+> Das Aufkommen von MPC brachte die Musikproduktion wieder zurück zur „Performance“.
 
 ---
 
@@ -51,7 +51,7 @@ In den 1980er Jahren gab es bereits Sampler. Aber sie waren teuer und komplizier
 
 Es gibt jemanden, der diese beiden Funktionen integriert und in eine intuitiv nutzbare Form gebracht hat. Roger Linn. Zuvor hatte er mit dem LM-1 und der LinnDrum die Geschichte der Drum Machines verändert.
 
-Sein Ziel war jedoch ein freieres Gerät zur Rhythmuserzeugung.
+Sein Ziel war jedoch ein Gerät zur Erzeugung freierer Rhythmen.
 
 > Aus der Fusion von Sampler und Drum Machine entstand die Idee von MPC.
 
@@ -76,7 +76,7 @@ C --> D[スイング調整]
 D --> E[グルーヴ生成]
 </div>
 
-> MPC60 hat die „menschliche Fluktuation“ wieder in den Takt gebracht.
+> Der MPC60 hat die „menschliche Fluktuation“ wieder in den Takt gebracht.
 
 ---
 

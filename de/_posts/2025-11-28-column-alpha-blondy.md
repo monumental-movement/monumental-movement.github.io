@@ -94,7 +94,7 @@ Mit ihrem Debütalbum bekundeten sie erstmals ihr Interesse an gesellschaftliche
 - **"Jah Glory"**
 - Englischer Text: „Jah Glory soll uns Frieden und Freiheit bringen“
 - Japanische Übersetzung: „Die Herrlichkeit Jahs wird uns Frieden und Freiheit bringen.“
-- Kommentar: Eine Hymne, die Freiheit und Frieden lobt und Hoffnung angesichts der damaligen politischen Instabilität in Westafrika zum Ausdruck bringt.
+- Kommentar: Eine Hymne, die Freiheit und Frieden lobt und die Hoffnung angesichts der damaligen politischen Instabilität in Westafrika zum Ausdruck bringt.
   
 - **„Brigadier Sabari“**
 - Englischer Text: „Korruption und Machtmissbrauch, wir können es nicht ertragen“
@@ -223,8 +223,8 @@ graph LR
 
 ## 11. Fazit
 
-Die Musik von Alpha Blondy ging über die Unterhaltung hinaus und fungierte als soziales Medium. Durch seine Aktivitäten während der Apartheid-Ära zeigte er, dass Musik ein Mittel des politischen und sozialen Widerstands sein kann.
-Angesichts der Botschaft jedes Liedes und der lokalen Reaktionen ist seine Musik ein Symbol für die universellen Werte von Freiheit und Frieden und ein wichtiges Lehrmaterial für das Nachdenken über Musik und soziale Gerechtigkeit auch in der Neuzeit.
+Die Musik von Alpha Blondy ging über die Unterhaltung hinaus und fungierte als soziales Medium. Durch seine Aktivitäten während der Apartheidszeit zeigte er, dass Musik ein Mittel des politischen und sozialen Widerstands sein kann.
+In Anbetracht der Botschaft jedes Liedes und der lokalen Reaktionen ist seine Musik ein Symbol für die universellen Werte von Freiheit und Frieden und ein wichtiges Lehrmaterial für das Nachdenken über Musik und soziale Gerechtigkeit auch in der Neuzeit.
 
 ---
 

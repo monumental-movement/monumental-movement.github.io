@@ -65,7 +65,7 @@ DEVO war von Anfang an eine „Musikeinheit“ und ein „Multimediaprojekt“.
 Sie werden Live-Diamaterial projizieren, handgemachte Videos erstellen und Performancekunst aufführen.
 Sein früher Film „The Truth About De-Evolution“ aus dem Jahr 1976 gilt als Experimentalfilm, der die amerikanische Dekadenz dokumentiert.
 
-Der Film gewann 1977 einen Preis beim Ann Arbor Film Festival und erregte die Aufmerksamkeit von David Bowie und Iggy Pop.
+Der Film gewann 1977 einen Preis beim Ann Arbor Film Festival und erregte die Aufmerksamkeit von **David Bowie** und **Iggy Pop**.
 Danach unterzeichneten DEVO einen Vertrag mit Warner Brothers und veröffentlichten ihr Debütalbum „Q: Are We Not Men?“ A: We Are DEVO!'' (1978) mit Brian Eno als Produzent.
 
 ---
@@ -91,14 +91,14 @@ DEVO nutzten selbstgebaute Elektronik und Synthesizer, um ihren Sound zu kreiere
 Mithilfe von Roland- und ARP-Synthesizern modifizierten sie ihre eigenen und reproduzierten Proto-Techno-Loop-Strukturen live.
 Diese Praxis kann als Prototyp der späteren **Independent/Lo-Fi-Bewegung** bezeichnet werden.
 
-Sie verspotteten die Unternehmenswelt und nutzten dabei Unternehmensmethoden (Logos, Slogans, Kommerzialisierung).
+Sie verspotteten die Unternehmenswelt und machten sich dabei Unternehmensmethoden (Logos, Slogans, Kommerzialisierung) zunutze.
 In dem Sinne, dass DEVO selbst zu einer „Marke“ wurde und die Widersprüche einer antikapitalistischen Marke präsentierte, waren sie auch die Vorläufer postmoderner Kunstgruppen.
 
 ---
 
 ## Kapitel 5: Funktion als Pop – „Whip It“ und seine Missverständnisse
 
-Oberflächlich betrachtet klingt der Hit „Whip It“ aus dem Jahr 1980 einfach nur nach komischem Synthie-Pop.
+Oberflächlich betrachtet klingt der Hit „Whip It“ von 1980 einfach nur nach komischem Synthie-Pop.
 Der Text ist jedoch eine Parodie auf Antiheldentum und besagt: „Repariere die Welt selbst.“
 DEVOs Humor war nicht nur Unsinn, sondern fungierte als Kritik an einer medienmanipulierten Gesellschaft.
 
@@ -146,7 +146,7 @@ In den späten 1980er Jahren erlebte DEVO einen Niedergang, als sich die MTV-Kul
 In den 1990er Jahren wurde es als Pionier des Internetzeitalters neu bewertet.
 Ihre selbstsatirische Markenstrategie kündigte die Selbstkommerzialisierung nach Web 2.0 an.
 
-In den 2000er Jahren kamen sie mit „Something for Everybody“ (2010) wieder zusammen, einer Satire über „Demokratie im Zeitalter der Algorithmen“.
+In den 2000er Jahren kamen sie wieder zusammen und schrieben „Something for Everybody“ (2010), eine Satire über „Demokratie im Zeitalter der Algorithmen“.
 In den 2020er Jahren aktualisiert er seine Degenerationstheorie weiter, um NFTs und die KI-Kultur einzubeziehen.
 
 ---
@@ -192,7 +192,7 @@ Unter dem Druck, sich weiterzuentwickeln, wagten sie es, zu degenerieren.
 Vielmehr wird diese Entscheidung zu einem Mittel zur Wiederherstellung der menschlichen Freiheit.
 
 > „Wahlfreiheit ist das, was Sie haben. Wahlfreiheit ist das, was Sie wollen.“
-> ─ DEVO, Freedom of Choice (1980)
+> ─ DEVO, Freiheit der Wahl (1980)
 
 Energy Dome ist kein Helm, der die Zukunft verschließt.
 **Vielleicht ist es ein Symbol dafür, dass wir wieder die Freiheit haben zu wählen.**
@@ -206,9 +206,9 @@ Energy Dome ist kein Helm, der die Zukunft verschließt.
 
 #### Devo – Neue Traditionalisten
 
-「New Traditionalists」は1981年にリリースされたUSのニューウェイヴバンド、Devo（ディーヴォ）の4作目のアルバムであり、バンド初の完全セルフプロデュース・アルバム。
+„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo, das 1981 veröffentlicht wurde, und das erste komplett selbstproduzierte Album der Band.
 
-「Whip It」が収録された前作のアルバムFreedom Of Choice（欲望心理学）のヒットを受けて、このアルバムでは「脱進化」をコンセプトにシンセサイザーのリフとリズム＆電子パーカッションに重点を置いたミニマルな雰囲気になっている。
+Nach dem Erfolg ihres vorherigen Albums Freedom Of Choice (Desire Psychology), das „Whip It“ enthielt, hat dieses Album eine minimalistische Atmosphäre mit einem Schwerpunkt auf Synthesizer-Riffs, Rhythmus und elektronischer Percussion, mit dem Konzept der „Deevolution“.
 
 #### Trackliste
 ```md

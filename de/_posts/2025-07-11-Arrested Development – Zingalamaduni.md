@@ -9,13 +9,13 @@ permalink: /de/arrested-development-zingalamaduni/
 tags:
 - Hiphop
 - 90s
-title: Festgenommene Entwicklung – Zingalamaduni
+title: Arrested Development – Zingalamaduni
 ---
 
 
-Arrested Development ist eine amerikanische afrozentrische Hip-Hop-Gruppe, die 1988 von den Rappern Speech und Headliner gegründet wurde.
+Arrested Development (アレステッドディベロップメント)は、1988年にラッパーのSpeech とHeadliner が結成したUSのアフロセントリック・ヒップホップグループ。
 
-Der Titel „Zingalamaduni“ bedeutet auf Suaheli „Fest der Seelen (Wesen der Kultur)“ und ist das zweite Album von Arrested Development, das sich mit den kulturellen Wurzeln, der Spiritualität, den sozialen Themen und der Hoffnung der Afroamerikaner befasst. Neuauflage/japanische Version, veröffentlicht im Jahr 1997.
+タイトル『Zingalamaduni』は、スワヒリ語で「魂の祭り（Beings of Culture）」という意味で、アフリカ系アメリカ人の文化的ルーツと精神性、社会問題、希望をテーマとしたArrested Development のセカンド・アルバム。1997年にリリースされた再発・日本盤。
 
 #### Trackliste
 ```md

@@ -15,7 +15,7 @@ title: VA – Spike & Co. Do It A Cappella
 ---
 
 
-Dieses Album ist der Soundtrack für eine PBS-Dokumentation von Spike Lee aus dem Jahr 1990 über A-cappella-Musik.
+このアルバムは、1990年にSpike Leeが監督した、アカペラ音楽をテーマ にしたPBSドキュメンタリーのサウンドトラック。
 
 #### Trackliste
 ```md

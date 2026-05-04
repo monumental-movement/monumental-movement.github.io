@@ -19,7 +19,7 @@ title: '[Kolumne] DMC World DJ Championship: Der Weg des Turntablismus zur globa
 
 # DMC World DJ Championship – Weltgeschichte des Turntablism
 
-Text: mmr｜Thema: Geschichte der DMC World DJ Championship, technologische Innovation, Crowdfunding, Veränderungen in der Weltmeisterschaft, Erfolge japanischer Spieler, Ausrüstungskultur, Turntablism
+Text: mmr｜Thema: Geschichte der DMC World DJ Championship, technologische Innovation, Crowdfunding, Geschichte der Weltmeisterschaft, Erfolge japanischer Spieler, Ausrüstungskultur, Turntablism
 
 Die **DMC World DJ Championship (im Folgenden als DMC bezeichnet)** ist als einer der größten DJ-Battles der Welt bekannt und hat sich seit ihrer Gründung im Jahr 1985 mit dem Wachstum der Turntablism-Kultur weiterentwickelt.
 Der Prozess, durch den Hip-Hop-DJ-Techniken als „musikalischer Ausdruck“ unabhängig wurden und als „Weltwettbewerb“ weiter institutionalisiert wurden, ist eine einzigartige Geschichte, die mit keinem anderen Genre vergleichbar ist.
@@ -59,7 +59,7 @@ Anfangs konzentrierte sich dieser Wettbewerb nicht wie heute auf Tricks, sondern
 Ein wesentliches Ereignis in der Geschichte von DMC ist der Auftritt von DJ Cheese (USA).
 Beim Turnier 1986 führte er eine Routine vor, die den Schwerpunkt auf Scratching und Beat-Jonglage legte und damit die traditionellen, auf Mixen basierenden Regeln völlig außer Kraft setzte.
 
-Von diesem Moment an begann die Welt zu teilen, dass „Turntablism, einschließlich Scratching, das Spiel entscheidet.“
+Von diesem Moment an begann die Welt zu teilen, dass „Turntablism, einschließlich Scratching, das Spiel entscheidet“.
 
 ## 2-2　1988-1990: Auf dem Weg zur Ära des Samplings, des Beat-Jonglierens und der Komposition
 Nach Cheese spielten DJs nicht nur Lieder;
@@ -106,7 +106,7 @@ Daraus ergibt sich
 Eine solche Entwicklung findet statt.
 
 ## 4-2　Video-Qualifikation/online
-Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eingeführt, die DJs aus der ganzen Welt die Möglichkeit zur Teilnahme öffnete.
+Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eingeführt, die DJs aus der ganzen Welt die Tür zur Teilnahme öffnete.
 
 ---
 
@@ -183,7 +183,7 @@ Dies wird einen neuen DJ-Stil beschleunigen, der DVS und Analog kombiniert.
 # Kapitel 8 Globale Bewegung, die DMC unterstützt
 
 ## 8-1 Institutionalisierung regionaler Qualifikationsrunden
-DMC etablierte den Ablauf der nationalen Vorrunden → nationale Meister → Weltturniere und schuf so die Grundlage für die unabhängige Entwicklung der Szene jedes Landes.
+DMC etablierte den Ablauf der nationalen Vorrunden → nationale Meister → Weltturniere und schuf damit die Grundlage für die unabhängige Entwicklung der Szene jedes Landes.
 
 ## 8-2 Auswirkungen auf Bildung/Schulen
 Turntablism gibt es seit den 2000er Jahren.
@@ -315,7 +315,7 @@ flowchart TB
 
 ## **④ „Ausrüstungsabhängigkeitsdiagramm“ der Turntablism-Technik**
 
-(Analogabhängigkeit → Einordnung von Technikveränderungen durch die Digitalisierung)
+(Analogabhängigkeit → Einordnung von Technikänderungen durch die Digitalisierung)
 
 ### Technik- und ausrüstungsabhängiger Aufbau
 
@@ -336,7 +336,7 @@ flowchart LR
 
 ## **⑤ Trends der DMC-Weltkonferenz „Anzahl der teilnehmenden Länder“ (Konzeptdiagramm)**
 
-(Detaillierte Jahresdaten werden nicht veröffentlicht, daher nur steigende Trends und Periodenklassifizierungen)
+(Detaillierte jährliche Daten werden nicht veröffentlicht, daher nur steigende Trends und Periodenklassifizierungen)
 
 ### Veränderungen in der Anzahl der DMC-Teilnehmerländer (konzeptionelles Diagramm)
 
@@ -415,5 +415,14 @@ timeline
     2023 : ハイブリッド方式へ
 </div>
 
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nh1LkoO_--E?si=frOaj4N60C7HvDUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

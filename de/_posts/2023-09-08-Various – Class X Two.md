@@ -9,15 +9,15 @@ permalink: /de/various-class-x-two/
 tags:
 - Synth-Pop
 - Electro
-title: Verschiedenes – Klasse X Zwei
+title: Various – Class X Two
 ---
 
 
-Es verdient eine Top-Sammlung unter den Razomaid-Remixen. Das Highlight dieser Doppelpack-LP ist „The Walk“ von The Cure.
+Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
 
-Es ist erstaunlich und sogar besser als die Originalversion.
+オリジナル バージョンよりもさらに優れた素晴らしいものです。
 
-Allein dieses Lied wird Sie dazu bringen, es Ihrer Plattensammlung hinzuzufügen, daher kann ich es nur wärmstens empfehlen.
+この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
 
 #### Trackliste
 ```md

@@ -11,7 +11,7 @@ tags:
 - House
 - Deep House
 - 00s
-title: Amel Larrieux – Get Up (Hauptremixe von Guy Robin & DJ Leo)
+title: Amel Larrieux – Get Up (Guy Robin & DJ Leo Main Remixes)
 ---
 
 
@@ -21,9 +21,9 @@ title: Amel Larrieux – Get Up (Hauptremixe von Guy Robin & DJ Leo)
 
 
 
-Amel Larrieux ist eine amerikanische Sängerin, die Mitte der 1990er Jahre zusammen mit Bryce Wilson Gründungsmitglied von Groove Theory war. „Get Up“ ist eine Single aus seinem 1999 veröffentlichten Solo-Debütalbum Infinite Possibilities.
+Amel Larrieux (アメール・ラリュー)は、1990年代半ばに、Bryce WilsonとともにGroove Theoryの創設メンバーとして活躍したアメリカのシンガー。「Get Up」は、1999年にリリースしたソロデビューアルバムInfinite Possibilitiesからのシングルカット。
 
-Bei dieser Platte handelt es sich um eine inoffizielle Veröffentlichung eines House/Deep House-Mixes des britischen Produzenten Guy Robin und DJ Leo aus dem Jahr 2009.
+このレコードは、2009年にUKのプロデューサーGuy RobinとDJ LeoがHouse／Deep Houseミックスした非公式リリース盤。
 
 #### Trackliste
 ```md

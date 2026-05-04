@@ -24,7 +24,7 @@ Text: mmr｜Thema: Mit Geschwindigkeit und Verzerrung als Waffen stellen wir die
 
 In den späten 1980er Jahren reisten Chicago House und Detroit Techno nach Europa und erhielten in jeder Stadt ihre eigenen Interpretationen. In Deutschland liegt der Schwerpunkt auf minimaler und mechanischer Wiederholung, während in England Breakbeats und Rave-Kultur kombiniert werden. Unterdessen gab es in den Niederlanden ein ungewöhnlich großes Interesse an der „Härte“ und „Geschwindigkeit“ von Techno.
 
-Damals spielten niederländische DJs keinen importierten amerikanischen Techno, wie er war, sondern erhöhten stattdessen die Tonhöhe und verwendeten Equalizer, um die tiefen Frequenzen zu übertreiben, um zu sehen, wie der Boden reagieren würde. Der BPM übersteigt 140, der Beat wird linearer und die Musik wird als Schock für den Körper empfunden.
+Damals spielten niederländische DJs keinen importierten amerikanischen Techno, wie er war, sondern erhöhten stattdessen die Tonhöhe und nutzten Equalizer, um die tiefen Frequenzen zu übertreiben, um zu sehen, wie der Boden reagieren würde. Der BPM übersteigt 140, der Beat wird linearer und die Musik wird als Schock für den Körper empfunden.
 
 Diese Veränderung wurde eher durch das Feld als durch die Studioproduktion vorangetrieben. Partys in Clubs und Lagerhäusern wurden zu Testgeländen, und die Reaktion des Publikums bestimmte direkt die Richtung der Musik. Sofortige Wirksamkeit wurde wichtiger als Raffinesse und zerstörerische Kraft wichtiger als architektonische Schönheit.
 
@@ -74,7 +74,7 @@ Während die Songstruktur extrem vereinfacht ist, erzeugen der Klangdruck und di
 
 Gabba Hardcore war keine Kultur, die allein durch das Hören definiert werden konnte. Skinheads und extrem kurze Frisuren waren sowohl praktisch auf dem verschwitzten, heißen Boden als auch Symbole kollektiver Identität.
 
-Sportbekleidung und Turnschuhe sind das Ergebnis einer Priorisierung der Funktionalität, die es den Menschen ermöglicht, über einen längeren Zeitraum hinweg zu tanzen, und wurden ohne Rücksicht auf Trends in der Modebranche entwickelt. Hier gab es eine Ästhetik, die nicht „zur Schau gestellt“, sondern „zum Gebrauch“ gedacht war.
+Sportbekleidung und Turnschuhe sind das Ergebnis einer Priorisierung der Funktionalität, die es den Menschen ermöglicht, über einen längeren Zeitraum weiterzutanzen, und wurden ohne Rücksicht auf Trends in der Modebranche entwickelt. Hier gab es eine Ästhetik, die nicht „zur Schau gestellt“, sondern „zum Gebrauch“ gedacht war.
 
 Der Tanz war hüpfend und zeichnete sich durch Bewegungen aus, bei denen der ganze Körper gegen den Rhythmus geworfen wurde. Anstelle des individuellen Ausdrucks liegt der Schwerpunkt auf der kollektiven Begeisterung, die durch das Teilen derselben Bewegungen entsteht.
 
@@ -88,7 +88,7 @@ Selbst innerhalb der Niederlande waren die musikalischen Ausrichtungen zwischen 
 
 Rotterdams Hardcore hingegen fungiert als Reaktion auf diese Raffinesse. Unmittelbare Wirkung und Zerstörungskraft haben Vorrang vor Melodie und Atmosphäre, und das Kriterium ist „ob man es aushalten kann“ und nicht „ob man tanzen kann“.
 
-Dieser Konflikt wurde von den Medien übertrieben, wobei die Szenen in beiden Städten oft gegensätzlich dargestellt wurden. In Wirklichkeit war der Fluss von Menschen und Einfluss jedoch wechselseitig und die Spannung selbst war die Vitalität der Szene.
+Dieser Konflikt wurde von den Medien übertrieben, wobei die Szenen in beiden Städten oft gegensätzlich dargestellt wurden. In Wirklichkeit war der Fluss von Menschen und Einfluss jedoch wechselseitig, und die Spannung selbst war die Vitalität der Szene.
 
 > Die Unterschiede zwischen den beiden Städten isolierten den Hardcore nicht, sondern betonten vielmehr seine Präsenz.
 
@@ -118,7 +118,7 @@ In dieser Zeit begann sich Hardcore vom Mainstream zu distanzieren und sich als 
 
 Gabba/Hardcore wurde Mitte der 1990er Jahre ernsthaft in Japan eingeführt. Seine Existenz wurde einigen Techno-Enthusiasten durch importierte Schallplatten und Zeitschriftenartikel bekannt.
 
-Aufgrund seines extremen Charakters erhielt es zunächst nur begrenzte Unterstützung in der japanischen Clubszene, doch die einzigartige Energie des Hardcore führte nach und nach zu einzigartigen Interpretationen. In der japanischen Szene gab es die Tendenz, nicht nur Musikalität, sondern auch Kunst und Performance zu betonen.
+Aufgrund seines extremen Charakters erhielt es zunächst nur begrenzte Unterstützung in der japanischen Clubszene, doch die einzigartige Energie des Hardcore führte nach und nach zu einzigartigen Interpretationen. In der japanischen Szene gab es eine Tendenz, nicht nur Musikalität, sondern auch Kunst und Darbietung in den Vordergrund zu stellen.
 
 Seit den 2000er Jahren hat sich eine einzigartige japanische Interpretation von Hardcore herausgebildet, die auch in ausländischen Szenen Aufmerksamkeit erregt hat. Hier handelte es sich nicht nur um Nachahmung, sondern um eine Verschmelzung mit lokalen Sensibilitäten.
 
@@ -130,7 +130,7 @@ Seit den 2000er Jahren hat sich eine einzigartige japanische Interpretation von 
 
 Seit den 2010er Jahren erfährt der 90er-Jahre-Hardcore eine Neubewertung. Elemente, die einst wegen ihrer Übertreibung gemieden wurden, werden mittlerweile eher als ein Element der Aufrichtigkeit angesehen.
 
-Gabba-ähnliche Geschwindigkeit und Verzerrung bekommen im Kontext zeitgenössischen Technos und experimenteller Musik eine neue Bedeutung. Der ehemalige Aufstand dient heute als Bezugspunkt.
+Im Kontext von zeitgenössischem Techno und experimenteller Musik bekommen gabberartige Geschwindigkeit und Verzerrung eine neue Bedeutung. Der ehemalige Aufstand dient heute als Bezugspunkt.
 
 > Gabba Hardcore ist eine unvollendete Kultur, die im Laufe der Zeit immer wieder neu interpretiert wird.
 
@@ -163,7 +163,7 @@ flowchart TD
     E --> F[Speedcore]
 </div>
 
-> Die Geschichte von Gabba Hardcore ist die Aufzeichnung eines langen Experiments an der Schnittstelle zwischen Geschwindigkeitsdrang und urbaner Kultur.
+> Die Geschichte von Gabba Hardcore ist die Aufzeichnung eines langen Experiments an der Schnittstelle von Geschwindigkeitsdrang und urbaner Kultur.
 
 ---
 
