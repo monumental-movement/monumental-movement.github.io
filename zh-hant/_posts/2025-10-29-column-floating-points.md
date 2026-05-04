@@ -10,7 +10,7 @@ tags:
 - Ambient
 - Jazz
 - Ambient Jazz
-title: '[專欄] 浮點和聲學作為科學 - 環境爵士樂的分析發展'
+title: 【コラム】 Floating Pointsと科学としての音響 ― アンビエント・ジャズの分析的展開
 ---
 
 

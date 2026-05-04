@@ -27,7 +27,7 @@ One Day As A Lion 的特點是混合另類搖滾和饒舌的風格。
 5.  One Day As A Lion
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2EOcpSDh52I?si=CGROsJY92Gfo67U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

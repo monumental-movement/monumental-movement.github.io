@@ -9,7 +9,7 @@ permalink: /zh-hant/wu-tang-clan-c-r-e-a-m/
 tags:
 - Hiphop
 - Wu-Tang
-title: Wu-Tang Clan – C.R.E.A.M.
+title: 武當派 – C.R.E.A.M.
 ---
 
 

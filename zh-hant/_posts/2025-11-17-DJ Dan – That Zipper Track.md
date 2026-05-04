@@ -15,7 +15,7 @@ title: DJ Dan – 那條拉鍊曲目
 
 《That Zipper Track》是美國house DJ/製作人DJ Dan的代表作，於1999年發行。
 
-A 是英國 techno DJ/製作人 Carl Cox 的混音版。
+Aは、UK techno DJ ／プロデューサー Carl Cox(カールコックス)によるリミックス。
 
 B 是 DJ Trevor Rockcliffe 的混音作品，他自 90 年代初期以來一直很活躍。
 

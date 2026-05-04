@@ -11,11 +11,11 @@ tags:
 - Funk
 - Disco
 - 80s
-title: 蒂娜·瑪麗——這一定是魔法
+title: Teena Marie – It Must Be Magic
 ---
 
 
-Teena Marie，也被稱為 Lady T，是一位美國靈魂樂和 R&B 歌手。她有著獨特而深情的女高音風格。
+Lady T(レディT)の愛称で知られるTeena Marie(ティーナ・マリー)はアメリカのソウルとR&Bのシンガー。ユニークでソウルフルなソプラノヴォーカルスタイルが特徴。
 
 《It Must Be Magic》於 1981 年發行，是 Teena Marie 的第四張錄音室專輯，也是她與 Motown 合作的最後一張專輯。其中包括熱門歌曲 Square Biz。
 這張唱片由摩城的子廠牌 Gordy 發行。

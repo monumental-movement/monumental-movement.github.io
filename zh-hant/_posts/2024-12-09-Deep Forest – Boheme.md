@@ -17,7 +17,7 @@ title: 森林深處—波希米亞
 
 《Boheme》是法國雙人組合Deep Forest於1995年發行的第二張專輯。這張專輯以波西米亞風格（東歐吉普賽歌曲）為樣本，是Deep Forest的代表作，銷量超過400萬張，在15個國家獲得鑽石、白金和金獎，並獲得格萊美最佳世界音樂專輯獎。
 
-第三首歌由匈牙利民間音樂家 Márta Sebestyén 演唱，第 12 首由搖滾樂隊 Genesis 的創始歌手 Peter Gabriel 演唱。
+第三首由匈牙利民謠音樂家 Márta Sebestyén 演唱，第 12 首由搖滾樂團 Genesis 的創始歌手 Peter Gabriel 演唱。
 
 #### 曲目表
 ```md

@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/mauro-picotto-and-riccardo-ferri-new-time-new-place/
 tags:
 - Techno
-title: Mauro Picotto & Riccardo Ferri – 新時間新地點
+title: Mauro Picotto & Riccardo Ferri – New Time New Place
 ---
 
 

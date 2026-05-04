@@ -9,7 +9,7 @@ permalink: /zh-hant/plutocracy-dankstahz/
 tags:
 - Grindcore
 - Rock
-title: 財閥統治 – Dankstahz
+title: Plutocracy – Dankstahz
 ---
 
 

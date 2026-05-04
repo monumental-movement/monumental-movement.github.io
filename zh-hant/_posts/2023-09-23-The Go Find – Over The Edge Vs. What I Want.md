@@ -9,7 +9,7 @@ permalink: /zh-hant/the-go-find-over-the-edge-vs-what-i-want/
 tags:
 - House
 - Electro
-title: Go Find – 越過邊緣與。我想要什麼
+title: Go Find – 越过边缘与。我想要什麼
 ---
 
 

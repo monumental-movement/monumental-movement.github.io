@@ -15,7 +15,7 @@ title: Adultnapper－貝蒂妙廚搬到柏林
 
 
 “貝蒂妙廚搬到柏林”
-這是由 Francis Harris 策劃的 Adultnapper 的一張 EP，由英國唱片公司 Superfreq Records 於 2007 年發行。
+2007年にUKのレーベル「Superfreq Records」からリリースされたFrancis HarrisによるプロジェクトAdultnapperのEPです。
 
 
 #### 曲目表

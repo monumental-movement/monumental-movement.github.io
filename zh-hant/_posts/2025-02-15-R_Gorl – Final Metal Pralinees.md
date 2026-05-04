@@ -15,7 +15,7 @@ title: R_Görl – 最終金屬果仁糖
 
 羅伯特·戈爾（Robert Görl），也被稱為 R_Görl，是一位來自德國慕尼黑的音樂家。他也因與加比·德爾加多（Gabi Delgado）組成NDW（Neue Deutsche Welle）、EBM（Electronic Body Music）、NDH（Neue Deutsche Heate）以及被稱為techno先驅的Deutsch Amerikanische Freundschaft（DAF）而聞名。
 
-《Final Metal Pralinies》是唱片公司 Disko B 於 2000 年發行的電子專輯。
+「Final Metal Pralinies」は2000年にレーベルDisko Bからリリースされたテクノアルバム。
 
 #### 曲目表
 ```md

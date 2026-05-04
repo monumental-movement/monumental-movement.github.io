@@ -15,7 +15,7 @@ title: 耶利米 – I*LLevels E.P.第 2 卷
 
 
 
-Jeremiah（Christian Mahringer）是一位來自奧地利維也納的電子音樂製作人/DJ。 1994年，他創立了Grow！與製作二人組 Michael Peter (Duke) 和 Martin Retschitzegger (DJ Tin) 合作錄製唱片，活躍於 2000 年代中期至 2000 年代中期。
+Jeremiah（Christian Mahringer）是一位来自奥地利维也纳的电子音乐制作人/DJ。 1994年，他创立了Grow！與製作二人組 Michael Peter (Duke) 和 Martin Retschitzegger (DJ Tin) 合作錄製唱片，活躍於 2000 年代中期至 2000 年代中期。
 
 《I Levels E.P. Volume 2》是一首 Deep House/Tech House 曲目，發佈於 Grow! 1996年。
 

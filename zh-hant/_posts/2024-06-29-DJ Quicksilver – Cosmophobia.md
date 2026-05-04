@@ -14,7 +14,7 @@ title: DJ Quicksilver – Cosmophobia
 ---
 
 
-DJ Quicksilver 是一位德国-土耳其裔制作人和 DJ。代表歌曲有《Bellissima》和《Ameno》。他还为 Ian van Dahl、Faithless 和 The Verve 担任混音师。
+DJ Quicksilver 是一位德國-土耳其裔製作人和 DJ。代表歌曲有《Bellissima》和《Ameno》。他還為 Ian van Dahl、Faithless 和 The Verve 擔任混音師。
 
 《Cosmophobia》是德國trance廠牌Underdog於1999年發行的trance曲目。 A面的人聲是德語，B面的人聲是英語。
 

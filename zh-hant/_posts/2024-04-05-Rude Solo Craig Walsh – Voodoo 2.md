@@ -14,9 +14,9 @@ title: 粗魯的獨奏克雷格·沃爾什 – Voodoo 2
 ---
 
 
-Rude Solo（ルードソロ ）は、エレクトロニック・ミュージック・デュオTwo Lone Swordsmen（トゥローンスウォーズメン）名義で知られる、Andrew Weatherall（アンドリュー・ウェザオール）とKeith Tenniswood（キース・テニスウッド）のプロジェクト。
+Rude Solo 是 Andrew Weatherall 和 Keith Tenniswood 的項目，他們也被稱為電子音樂二人組「獨行俠」。
 
-Craig Walsh（クレイグウォルシュ）は別名Soundscapeとして3rd Alternative, Project One, Subculture, The Causeに所属し、Primal Screamのトラック 'Original Sin'でボーカルを担ったNina Walshは兄妹。
+克雷格沃爾什（Craig Walsh），又名 Soundscape，屬於 3rd Alternative、Project One、Subculture、The Cause 樂隊，與在 Primal Scream 的單曲《Original Sin》中擔任主唱的尼娜沃爾什 (Nina Walsh) 是兄妹。
 
 #### 曲目表
 ```md
@@ -28,7 +28,7 @@ B.  Craig Walsh – Spaark
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24524316857?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m24524316857?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WDjesrNG3j8?si=ND9j0g9Bf09OiXst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,9 +13,9 @@ title: Missy B. Lumi 遇見 Wayne Wonder – Crazy In Da Club / Oh No
 ---
 
 
-由自 2003 年以來一直活躍的 DJ Missy B 製作的嘻哈歌曲。
+2003年から活動するDJ Missy B プロデュースによるHipHopトラック。
 
-B 是 Lumi 和雷鬼歌手 Wayne Wonder 自 20 世紀 80 年代以來一直活躍的歌曲。
+Bは、Lumi と 1980年代から活動するレゲエシンガーWayne Wonder (ウェイン・ワンダー)によるトラック。
 
 #### 曲目表
 ```md

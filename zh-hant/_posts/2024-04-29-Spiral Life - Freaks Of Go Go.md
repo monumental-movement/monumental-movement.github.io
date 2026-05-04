@@ -9,11 +9,11 @@ permalink: /zh-hant/spiral-life-freaks-of-go-go/
 tags:
 - Pop Rock
 - Synth-pop
-title: 螺旋人生 – Freaks Of Go Go Spectators 2
+title: 螺旋人生 – 圍棋觀眾 2 的怪胎
 ---
 
 
-Spiral Life是一個由車谷浩司和石田翔吉組成的音樂團體。活躍時期：1993年-1996年。
+Spiral Life是一個由車谷浩司和石田翔吉組成的音樂團體。活跃时期：1993年-1996年。
 
 《Freaks Of Go Go Spectators 2》是1996年發行的概念迷你專輯，共有10首歌曲，其中包括4首新歌和專輯中未收錄的單曲的混音版。
 

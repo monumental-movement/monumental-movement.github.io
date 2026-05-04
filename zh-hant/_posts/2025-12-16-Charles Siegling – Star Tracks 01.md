@@ -10,11 +10,11 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: 查爾斯·西格林 – 星軌 01
+title: Charles Siegling – Star Tracks 01
 ---
 
 
-這是一首 Tribal/Techno 曲目，由巴黎 DJ/製作人 Charles Siegling 發行，他也因與 Amil Khan 合作的 Technasia 樂隊而聞名，他於 2000 年創立了自己的唱片公司 Star Tracks。
+Amil Khan (アミル・カーン)とのテクノユニットTechnasia(テクネイジア)でも知られ、パリを拠点に活動するDJ／プロデューサーCharles Siegling(シャール・シグリング)が、2000年に設立した自身のレーベルStar TracksからリリースしたTribal／Technoトラック。
 
 #### 曲目表
 ```md

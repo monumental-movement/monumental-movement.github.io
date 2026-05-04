@@ -24,7 +24,7 @@ B1. マネキン (Manekin) Translated By [Japanese Translation] – Miyako Takag
 B2. Cold Heart Part II
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
 
 
 

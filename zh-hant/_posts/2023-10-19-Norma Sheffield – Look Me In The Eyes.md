@@ -13,7 +13,7 @@ title: 諾瑪謝菲爾德 – 看著我的眼睛
 ---
 
 
-Norma Sheffield 是一個義大利 Eurobeat 計畫。她的公眾人物是弗朗西斯卡·康蒂尼（Francesca Contini），她也是一位作曲家。
+Norma Sheffield 是義大利 Eurobeat 計畫。她的公眾人物是弗朗西斯卡·康蒂尼（Francesca Contini），她也是一位作曲家。
 （Francesca Contini），但主唱是由 Chiara De Pieri 演唱。
 
 製作/製作人是戴夫羅傑斯 (Dave Rodgers)，他是義大利製作人和 Eurobeat 廠牌 A.Beat-C 的聯合創始人。

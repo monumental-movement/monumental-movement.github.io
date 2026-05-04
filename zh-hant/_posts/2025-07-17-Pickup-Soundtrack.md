@@ -93,7 +93,7 @@ B9. Goodbye Selina
 
 格式：卡式磁帶
 
-作品：1996年リリース、映画『ミッション：インポッシブル』のテーマ曲を収録したカセット。
+作品：1996年發行的卡帶，收錄電影《不可能的任務》主題曲。
 
 #### 曲目表
 ```md
@@ -104,7 +104,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -18,7 +18,7 @@ The Explorers 是由前衛搖滾樂團 Roxy Music、Phil Manzanera 和 Andy MacK
 
 探索者樂團於 1985 年在維珍唱片公司發行了同名唱片“Explorers”，但於 1986 年解散。
 
-このレコードはセルフタイトルアルバムからのシングルカット。
+這張唱片是同名專輯中的單曲。
 
 探索者樂團解散後，菲爾·曼薩內拉 (Phil Manzanera) 和安迪·麥卡 (Andy MacKa) 各自追求個人事業。
 

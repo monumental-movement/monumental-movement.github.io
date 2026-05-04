@@ -8,13 +8,13 @@ layout: post
 permalink: /zh-hant/norman-chung-debut/
 tags:
 - Techno
-title: 諾曼鐘 – 首次亮相
+title: Norman Chung – Debut
 ---
 
 
 Norman Chung 的首張 EP 於 2006 年由著名科技唱片公司 Sinino 發行。
 
-與來自瑞士的 DJ Deetron 合作的歌曲是必聽的，DJ Deetron 在瑞士的極簡 techno/底特律 techno 場景中備受關注。
+スイス出身のミニマルテクノ／デトロイトテクノシーンで注目されているDJ Deetron(ディートロン)とのコラボ曲は必聴。
 
 #### 曲目表
 ```md

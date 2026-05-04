@@ -9,7 +9,7 @@ permalink: /zh-hant/kagami-the-repaired-sequencer-ep/
 tags:
 - Techno
 - Disco
-title: Kagami – 修復後的音序器 EP
+title: Kagami – The Repaired Sequencer EP
 ---
 
 

@@ -10,11 +10,11 @@ tags:
 - House
 - Electro
 - 00s
-title: 恐龍 – 金剛五人組
+title: Dino – King Kong Five
 ---
 
 
-Dino Lenny，又名 Dino，是一位義大利 DJ/製作人，活躍於舞曲音樂界 30 多年。
+DinoことDino Lennyは、ダンスミュージックシーンで30年以上活躍するイタリアのDJ／プロデューサー。
 
 《金剛五人組》原本是法國樂團Mano Negra的原創歌曲，收錄在他們1989年的專輯《Puta's Fever》中並作為單曲發行。
 

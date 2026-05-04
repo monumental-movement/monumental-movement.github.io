@@ -10,13 +10,13 @@ tags:
 - Rock
 - Dub
 - Mixture
-title: Wrench – Bliss
+title: 扳手 – 幸福
 ---
 
 
-Wrench（レンチ）は、1992年7月にシゲ、坂本梓、松田智宏、名越藤丸によって結成され、日本のラウドロックシーンにおいて重要な存在となってきました。
+Wrench 於 1992 年 7 月由 Shige、Azusa Sakamoto、Tomohiro Matsuda 和 Fujimaru Nagoshi 組成，現已成為日本響亮搖滾樂壇的重要組成部分。
 
-このアルバムは、2000年にリリースされた2枚組LPです。
+這張專輯是2000年發行的雙LP唱片。
 
 #### 曲目表
 ```md

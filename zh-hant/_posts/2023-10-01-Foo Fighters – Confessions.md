@@ -9,7 +9,7 @@ permalink: /zh-hant/foo-fighters-confessions/
 tags:
 - Remix
 - Rare
-title: 噴火戰機 – 懺悔
+title: Foo Fighters – Confessions
 ---
 
 

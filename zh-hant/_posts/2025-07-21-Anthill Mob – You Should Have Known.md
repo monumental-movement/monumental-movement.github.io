@@ -14,7 +14,7 @@ title: 蟻丘暴徒－你應該知道
 ---
 
 
-Anthill Mob(アントヒルモブ)は、ロンドン東部を代表するUKガレージグループ。
+Anthill Mob 是代表東倫敦的英國車庫集團。
 
 主要成員包括製作人兼歌手 Tosh (Yoush)（又名 Andrew Alcee）和製作人 Just Juice（又名 Justin Jones）。它也以 Studio 2 的名稱發布。
 

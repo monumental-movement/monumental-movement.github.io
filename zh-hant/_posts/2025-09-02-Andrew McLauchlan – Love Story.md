@@ -16,7 +16,7 @@ title: 安德魯麥克勞克蘭 – 愛情故事
 
 安德魯·麥克勞克蘭 (Andrew McLauchlan) 是一位來自蘇格蘭的製片人。 1998年，他與 Dan March 創立了 Figment 品牌。
 
-《Love Story》被稱為安德魯·麥克勞克蘭 (Andrew McLauchlan) 的傑作，最初於 1999 年在 Figment 合輯《Chorusline EP》中發行，並於 2000 年獲得英國著名唱片公司 Bush 的授權和混音後重新發行。
+Andrew McLauchlanの代表作として知られている「Love Story 」は、元々1999年にFigmentのコンピレーション「Chorusline EP」でリリースされ、2000年にUKの老舗レーベルBush(ブッシュ・レコード)にライセンス&リミックスされ、再リリースされた。
 
 A 是瑞典 techno 二人組 Devilfish 的混音版。
 

@@ -10,13 +10,13 @@ tags:
 - House
 - Trance
 - 00s
-title: 恆星計劃壯舉。布蘭迪艾瑪 – 站起來站起來
+title: Stellar Project Feat.布蘭迪艾瑪 – 站起來站起來
 ---
 
 
 Stellar Project 是義大利製作人 Stefano Sorrentino 的浩室/舞蹈課程。
 
-Side A 是義大利 house/techno DJ 二人組 Phunk Investigation 的混音版。
+A面はイタリアのハウス/テクノ DJデュオPhunk Investigationによるremix。
 
 B 面的第一首曲目是丹麥製作人 Lars Frederiksen 和 Søren Weile 的 trance 專案 F&W 的混音版。
 

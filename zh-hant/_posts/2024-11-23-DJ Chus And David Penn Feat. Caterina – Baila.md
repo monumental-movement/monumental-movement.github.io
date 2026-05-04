@@ -17,7 +17,7 @@ title: DJ Chus 和 David Penn 的壯舉。卡特琳娜-拜拉
 
 由以“Hey Hey”而聞名的美國 house DJ 和製作人 Dennis Ferrer 對 DJ Chus 和 David Penn 的著名歌曲“Baila”進行混音。
 
-一首部落浩室/深屋曲目，由著名的英國舞曲音樂廠牌 Defected 於 2003 年發行。
+UKの名門ダンスミュージックレーベルDefectedから2003年にリリースされたトライバルハウス・ディープハウストラック。
 
 
 #### 曲目表

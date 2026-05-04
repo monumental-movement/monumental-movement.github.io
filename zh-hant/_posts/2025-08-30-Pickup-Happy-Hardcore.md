@@ -19,7 +19,7 @@ title: 挑選快樂硬蕊作品
 <小時>
 
 ### Charly Lownoise 與 Mental Theo – Wonderfull Days
-<a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%DayE2%80%93%20D.web.
+<a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%DayE2%80%93%20Wrfa.
 
 發行日期：1994年/荷蘭快樂硬派傑作
 
@@ -34,7 +34,7 @@ B2. Wonderfull Days (Radio Mix)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -121,7 +121,7 @@ B2. Forevermore (Original)
 
 
 ### DJ Breeze – 跳得更高一點
-<a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Lize%20%E2%80%93%20Jump%20A%20Little%20Hher3.
+<a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Lize%20%E2%80%93%20Jump%20A%209.
 
 藝術家：英國流行 DJ/製作人 Mark Breeze
 

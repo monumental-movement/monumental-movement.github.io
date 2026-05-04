@@ -14,9 +14,9 @@ title: 本吉‧坎德拉里奧 (Benji Candelario) 介紹阿諾德‧賈維斯 (
 ---
 
 
-Benji Candelarioは、1990年代～2000年代初頭、ソウルフルなDeepHouseサウンドで評価され、アンダーグラウンドハウスシーンで人気を博したニューヨーク出身のHouse DJ／プロデューサー。
+Benji Candelario 是一位來自紐約的 house DJ/製作人，因其深情的 DeepHouse 聲音而廣受讚譽，並在 20 世紀 90 年代和 2000 年代初期的地下 house 場景中廣受歡迎。
 
-2000年にFrankie Knucklesとの楽曲「Whistle Song」 (1992)で有名なEric Kupper主宰のHouse/Deep HouseレーベルHysteriaからリリースされた「Learn To Give」は、ソウルフル・ハウス／ガラージのヴォーカリスト Arnold Jarvisをフィーチャーしたディープハウストラック。
+《Learn To Give》於 2000 年在由 Eric Kupper 領導的 House/Deep House 廠牌 Hysteria 發行，Eric Kupper 因與 Frankie Knuckles 合作的歌曲《Whistle Song》（1992 年）而聞名。 《Learn To Give》是一首由深情浩室/車庫主唱阿諾德賈維斯 (Arnold Jarvis) 演唱的深浩室曲目。
 
 
 

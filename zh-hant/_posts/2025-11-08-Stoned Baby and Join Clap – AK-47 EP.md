@@ -14,7 +14,7 @@ title: 吸毒寶貝 & 加入拍手 – AK-47 EP
 ---
 
 
-Raúl López Martín (DJ Peque)，也被稱為 Stoned Baby，是一位來自西班牙的 DJ。他也被稱為 House D'arret 和 Rxxistance 品牌的創始人。
+Stoned Baby ことRaúl López Martín (DJ Peque)はスペイン出身のDJ。レーベルHouse D'arret やRxxistanceの設立者としても知られている。
 
 「AK-47 EP」は、2002年にレーベルPrimate Endangered Species からリリースされたTribal／Technoトラック。初回プレス限定のレッドカラーバイナル盤。
 
@@ -27,7 +27,7 @@ B1. Rxxistance Club
 B2. Virus
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m13932883481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13932883481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLQyFOmjyQA?si=8V02js6NJwczaYoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

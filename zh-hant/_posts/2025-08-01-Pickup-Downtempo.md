@@ -20,7 +20,7 @@ title: 挑選慢節奏作品
 ### 適中的滑鼠 / 764‑HERO – 任何您認為合適的時候
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20W7%770.Wweb
 
-静かなリズムが染みるドゥープなインディEP
+一首充滿安靜節奏的呆萌獨立 EP
 
 #### 曲目表
 ```md
@@ -43,7 +43,7 @@ B2. Whenever You See Fit (Sientific American Mix)
 ### B.E.F.壯舉。 Green Gartside – 我不知道為什麼我愛你
 <a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.webp"></a>
 
-Foundation 精緻的英國聲音
+Foundation の洗練された英国サウンド
 
 #### 曲目表
 ```md
@@ -62,8 +62,8 @@ B2. Family Affair (Plati Party Mix)
 <小時>
 
 
-### 搖擺姐妹 - 形狀和圖案
-<a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shaterns.And
+### Swing Out Sister – Shapes And Patterns
+<a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
 輕柔電子爵士樂與靈魂樂，風靡日本
 

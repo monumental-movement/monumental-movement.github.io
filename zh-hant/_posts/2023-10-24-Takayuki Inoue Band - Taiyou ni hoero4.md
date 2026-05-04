@@ -10,7 +10,7 @@ tags:
 - Theme
 - Nostalgic
 - 7inch
-title: 井上隆之樂隊 - Taiyou ni hoero4
+title: 井上貴之樂隊 - Taiyou ni hoero4
 ---
 
 

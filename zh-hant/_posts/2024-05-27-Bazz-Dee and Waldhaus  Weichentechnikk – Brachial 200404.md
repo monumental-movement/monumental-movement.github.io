@@ -17,9 +17,9 @@ title: Bazz-Dee & Waldhaus Weichentechnikk – Brachial 200404
 
 A面的第一首曲目是一首Techno曲目，採樣了Waldhaus和Bazz-Dee（巴斯蒂安·舒伯特）的KISS《I Was Made For Loving You》，他們被認為是Hard Techno聲音的創新者之一，風格大膽地將Hard Techno與工業硬核結合起來。
 
-A 側的第二首曲目是由 Weichentechnikk 和 Bazz-Dee 創作的 techno 曲目，他們與 Waldhaus 一起被認為是硬 techno 場景的年輕天才。
+A面２曲目は、Waldhausと並びハードテクノシーンの若き天才とも評されるWeichentechnikkとBazz-Deeによるテクノトラック。
 
-德國科技唱片公司 Brachial 於 2004 年發行了一張只有 A 面的單面唱片。
+2004年にドイツのテクノレーベルBrachial からリリースされたA面のみの片面レコード。
 
 #### 曲目表
 ```md

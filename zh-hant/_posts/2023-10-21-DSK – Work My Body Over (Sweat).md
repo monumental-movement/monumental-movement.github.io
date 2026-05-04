@@ -9,7 +9,7 @@ permalink: /zh-hant/dsk-work-my-body-over-sweat/
 tags:
 - House
 - 90s
-title: DSK – 鍛鍊身體（流汗）
+title: DSK – Work My Body Over (Sweat)
 ---
 
 

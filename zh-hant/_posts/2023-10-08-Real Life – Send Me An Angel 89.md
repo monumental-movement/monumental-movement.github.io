@@ -9,15 +9,15 @@ permalink: /zh-hant/real-life-send-me-an-angel-89/
 tags:
 - House
 - Synth-Pop
-title: Real Life – Send Me An Angel '89
+title: 現實生活 – 送我一個天使 '89
 ---
 
 
-「Send Me An Angel '89」は、オーストラリアのシンセポップバンド、リアル・ライフ（Real Life）による楽曲です。オリジナルの「Send Me An Angel」は、1983年にリリースされた彼らのシグネチャーソングでしたが、1989年にリリースされたリミックスバージョンとしても知られています。
+《Send Me An Angel '89》是澳洲合成流行樂團 Real Life 的一首歌。原版《Send Me An Angel》是他們於 1983 年發行的招牌歌曲，但也被稱為 1989 年發行的混音版。
 
-「Send Me An Angel '89」は、オリジナルの楽曲に比べてリズムやアレンジがアップデートされ、よりダンスポップなサウンドに仕上げられています。曲はシンセサイザーのメロディやエレクトリックなビートが特徴であり、壮大なサウンドスケープと共に、メロディックなヴォーカルが響き渡ります。
+與原曲相比，《Send Me An Angel '89》的節奏和編曲有所更新，使其聽起來更加流行舞曲。這首歌以合成器旋律和電音節拍為特色，旋律優美的人聲在壯麗的音景中迴盪。
 
-「Send Me An Angel '89」は、リアル・ライフの最も成功した曲の一つであり、特に1989年のリミックスバージョンは、世界的なヒットとなりました。曲は、その壮大なサウンドとキャッチーなメロディによって、多くのリスナーに愛され、クラブやラジオで頻繁にプレイされました。
+《Send Me An Angel '89》是 Real Life 最成功的歌曲之一，尤其是 1989 年的混音版，風靡全球。這首歌因其史詩般的聲音和朗朗上口的旋律而受到許多聽眾的喜愛，並經常在俱樂部和廣播中播放。
 
 #### 曲目表
 ```md
@@ -30,7 +30,7 @@ B1. Send Me An Angel '89 (House Mix)
 B2. Always
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25923654306?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m25923654306?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MguFXuRuPao?si=YdJvSAOVU6bBle4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

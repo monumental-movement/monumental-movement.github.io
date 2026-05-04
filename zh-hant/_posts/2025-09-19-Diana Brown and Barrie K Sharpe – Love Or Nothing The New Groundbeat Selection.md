@@ -11,8 +11,8 @@ tags:
 - Downtempo
 - Funk
 - 90s
-title: 戴安娜布朗 (Diana Brown) 和巴里夏普 (Barrie K. Sharpe) – Love Or Nothing（The New Groundbeat
-  Selection）
+title: 戴安娜·布朗 (Diana Brown) 和巴里·K·夏普 (Barrie K. Sharpe) – Love Or Nothing（The New
+  Groundbeat Selection）
 ---
 
 

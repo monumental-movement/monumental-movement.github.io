@@ -13,7 +13,7 @@ title: Funk D'Void 和 Percy X 推出 X-Funk – Voyager EP
 ---
 
 
-Acid techno 由 X-Funk 在 Soma 廠牌上發布，X-Funk 是來自蘇格蘭格拉斯哥的 techno/tech house DJ/製作人 Funk D'Void（Lars Sandberg）和 DJ Percy X（Tony Scott）的一個項目。
+スコットランド・グラスゴー出身のテクノ/テックハウスDJ・プロデューサーFunk D'Void（ファンク・ド・ヴォイド/Lars Sandberg）とDJ Percy X（パーシーX/Tony Scott/トニー・スコット）のプロジェクト、X-FunkがSomaレーベルからリリースしたアシッドテクノ。
 
 #### 曲目表
 ```md

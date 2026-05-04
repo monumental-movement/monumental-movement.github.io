@@ -43,9 +43,9 @@ title: 【專欄】部落之家－從「原始」節奏到現代融合
 ## 成熟與繁榮（1994-2000）
 
 **時代背景**
-90 年代中期，突破流派界限的廠牌和合輯出現了。特別是來自美國的<strong>TRIBAL America</strong>為現場的形成做出了巨大的貢獻（標籤資訊：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>）。
+90 年代中期，突破流派界限的厂牌和合辑出现了。特別是來自美國的<strong>TRIBAL America</strong>為現場的形成做出了巨大的貢獻（標籤資訊：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>）。
 
-**代表作品/人物**
+**代表作・人物**
 - Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>：一張以俱樂部為導向的部落表達的重要專輯。
 - Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>：雖然偏向前衛搖滾，但被認為是一部與 90 年代俱樂部感覺有關的作品。
 
@@ -60,7 +60,7 @@ title: 【專欄】部落之家－從「原始」節奏到現代融合
 ## 轉型與商業化（2000 年代）
 
 **時代背景**
-2000年代，部落元素與前衛/電子等融合，衍生曲風數量增加。製作環境已從主要基於硬體轉變為基於 DAW，從而可以創建更複雜的聲音設計。
+2000年代，部落元素與前衛/電子等融合，衍生曲風數量增加。製作環境已從基於硬體轉變為基於 DAW，從而可以創建更複雜的聲音設計。
 
 **生產方法的改變**
 - 廣泛使用效果處理（濾波器/殘響/延遲）的打擊樂器處理。
@@ -83,7 +83,7 @@ title: 【專欄】部落之家－從「原始」節奏到現代融合
 ## 傑作精選
 - 丹尼‧泰納利亞 — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">旅遊 (1998)</a>
 - 深盤 — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">垃圾科學 (1998)</a>
-- TRIBAL America 相關合輯/發行版（範例）：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
+- TRIBAL America 関連コンピ／リリース群（一例）：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
 
 ---
 
@@ -121,10 +121,10 @@ color: #fff;
 | 1997 |朱尼爾·瓦斯奎茲 |如果麥當娜打電話來 |象徵同性戀俱樂部場景的大膽樣本|
 | 1998 |丹尼‧特納利亞 |元素|部落打擊樂與最低限度的發展|
 | 1998 |深盤|擱淺|悠揚深沉的聲音|
-| 2001 |彼得勞霍夫 |我得到了音樂|一首以人聲為主的地板曲目 |
-| 2002 |楚斯與塞瓦略斯 |拜拉|令人印象深刻的西班牙打擊樂傑作 |
+| 2001 |彼得·勞霍夫 |我得到了音樂|一首以人聲為主的地板曲目 |
+| 2002 |楚斯與塞瓦略斯 |拜拉|令人印象深刻的西班牙打擊樂傑作|
 | 2002 |史蒂夫·勞勒 |崛起|具有深色和厚重的凹槽 |
-| 2010 |科勒克提夫大街 |最後一天 |一部以細膩而抒情的發展而閃耀的作品|
+| 2010 |科勒克提夫大街 |最後一天 |一部以細膩而抒情的發展而閃耀的作品 |
 | 2014 |十堵牆 |與大象同行|令人難忘的銅管即興演奏大受歡迎 |
 | 2020 |巴勃羅·菲耶羅 |亞巴巴|非洲節奏與現代House的融合 |
 | 2021 |黑咖啡|你需要我|深邃深情的質感|

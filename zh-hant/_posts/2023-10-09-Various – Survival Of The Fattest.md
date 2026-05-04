@@ -9,12 +9,12 @@ permalink: /zh-hant/various-survival-of-the-fattest/
 tags:
 - Punk
 - Hardcore
-title: Various – Survival Of The Fattest
+title: 各種 – 最胖者的生存
 ---
 
 
-「Survival Of The Fattest」は、
-1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
+《最胖者的生存》是
+這是一張由「Fat Wreck Chords」廠牌於1996年發行的合輯。
 
 #### 曲目表
 ```md
@@ -53,7 +53,7 @@ B7. Snuff –Walk
 B8. Me First And The Gimme Gimmes–Country Roads
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

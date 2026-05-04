@@ -10,13 +10,13 @@ permalink: /zh-hant/the-pharcyde-forever-1992-till-eternity-best-tracks-and-futu
 tags:
 - Hiphop
 - Jazzy Hiphop
-title: The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes
+title: The Pharcyde – Forever 1992 Till Eternity，最佳曲目和未來混音
 ---
 
 
-The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサウスセントラル出身のUSオルタナティブ・ヒップホップグループ。
+Pharcyde 是一支來自洛杉磯中南部的美國另類嘻哈樂隊，成立於 1989 年。
 
-このアルバムは、ファーサイドのベストトラックとリミックス集。
+這張專輯收錄了 Pharcyde 最好的曲目和混音作品。
 
 #### 曲目表
 ```md
@@ -36,5 +36,5 @@ The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサ
 14. DJ Missie 2001 Uptown Party Mix
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
 

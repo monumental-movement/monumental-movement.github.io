@@ -14,7 +14,7 @@ title: 麥卡錫－《聖經》應該被禁止嗎？
 ---
 
 
-麥卡錫是一支活躍於 1985 年至 1990 年間的英國獨立搖滾樂團。成員包括鼓手加里貝克 (Gary Baker)、吉他手兼主唱馬爾科姆伊登 (Malcolm Eden)、主音吉他手蒂姆甘恩 (Tim Gane) 和貝斯手約翰威廉森 (John Williamson)。樂團解散後，蒂姆·甘恩 (Tim Gane) 和銀行主唱 Laetitia Sadier 組成了 Stereolab。
+麥卡錫是一支活躍於 1985 年至 1990 年間的英國獨立搖滾樂團。成員包括鼓手蓋瑞貝克 (Gary Baker)、吉他手兼主唱馬爾科姆伊登 (Malcolm Eden)、主音吉他手 Tim Gane 和貝斯手約翰威廉森 (John Williamson)。樂團解散後，蒂姆·甘恩 (Tim Gane) 和銀行主唱 Laetitia Sadier 組成了 Stereolab。
 
 「聖經應該被禁止嗎？」1998 年在英國唱片公司September發行。
 

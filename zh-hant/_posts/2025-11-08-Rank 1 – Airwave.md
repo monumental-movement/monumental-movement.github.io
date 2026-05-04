@@ -14,7 +14,7 @@ title: 排名 1 – 電波
 ---
 
 
-Rank 1 是由荷蘭 trance DJ/製作人 Piet Bervoets 和 Benno De Goeij 於 1999 年啟動的計畫。他們擁有《Airwave》、《Such is Life》、《L.E.D.》、《There be light》等多首熱門歌曲，其中2000年發行的《Airwave》被稱為Rank 1的代表歌曲，也是當時trance界的讚歌。
+Rank 1 是由荷兰 trance DJ/制作人 Piet Bervoets 和 Benno De Goeij 于 1999 年启动的项目。他們擁有《Airwave》、《Such is Life》、《L.E.D.》、《There be light》等多首熱門歌曲，其中2000年發行的《Airwave》被稱為Rank 1的代表歌曲，也是當時trance界的讚歌。
 
 #### 曲目表
 ```md

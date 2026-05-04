@@ -15,7 +15,7 @@ title: Bangana – 刷新 Bang Bang Bang
 ---
 
 
-Bangana 是來自瑞典的雙人組合，由 Alf Tumble 和 Magnus Rydén 組成。也以 S.U.M.O. 名義活躍。和翻滾組合。
+Bangana 是瑞典組合，由 Alf Tumble 和 Magnus Rydén 組成。还以 S.U.M.O. 名义活跃。和翻滾組合。
 
 《Refresh / Bang Bang Bang》是瑞典廠牌 HEYA HIFI 於 2006 年發行的部落、Deep House、Broken Beat 曲目。
 

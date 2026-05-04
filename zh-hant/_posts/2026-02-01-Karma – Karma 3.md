@@ -15,7 +15,7 @@ title: 業力 – 業力 3
 
 
 
-Karma 是一個二人組合，由德國科隆唱片店和廠牌“Groove Attack”的創始人之一 Lars Vegas (Lars Dorsch) 和 DJ/製作人 Tom Dams 組成。
+Karmaは、ドイツのケルンにあるレコードショップ＆レーベル「Groove Attack」の創設者の一人Lars Vegas ( Lars Dorsch)と、DJ／プロデューサーTom Damsによるデュオ。
 
 「Karma 3」是 Groove Attack Productions 於 1997 年發行的 Breakbeat/Downtempo 曲目。
 

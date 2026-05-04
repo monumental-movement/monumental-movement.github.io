@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - 00s
-title: Phauna – 自然地（混音）
+title: Phauna – Naturally (Remixes)
 ---
 
 

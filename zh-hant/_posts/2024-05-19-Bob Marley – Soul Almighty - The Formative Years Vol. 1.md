@@ -11,7 +11,7 @@ tags:
 - Roots Reggae
 - Rocksteady
 - 90s
-title: 鮑伯馬利 - 全能靈魂 - 形成歲月卷。 1
+title: 鲍勃·马利 - 全能灵魂 - 形成岁月卷。 1
 ---
 
 

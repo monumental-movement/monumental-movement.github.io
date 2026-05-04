@@ -43,7 +43,7 @@ color: #fff;
 
 ## 一、用身體而不是耳朵聽音樂
 
-低音是一種在您聽到之前您的身體就會做出反應的聲音。
+ベースは、耳で聴くよりも先に“体が反応する音”だ。  
 他站在節奏與和聲之間，決定了音樂的重心。
 它不僅僅是伴奏，也控制著音樂的氣息。
 
@@ -74,7 +74,7 @@ color: #fff;
 ---
 
 支持日本戰後爵士咖啡館的鈴木義夫和稻葉國光，
-用自己國家的情感享受這種“自由的低音聲音”，
+用我們自己國家的感性享受這“自由的低音聲音”，
 不久之後，他們在東京的夜晚創造了自己獨特的節奏。
 
 ---
@@ -82,7 +82,7 @@ color: #fff;
 ### 2.搖滾革命：歌唱貝斯與尖叫貝斯
 
 1960年代，貝斯出現在搖滾樂的中心。
-保羅麥卡尼以一位悠揚的貝斯手開啟了一場革命，
+ポール・マッカートニーは旋律を奏でるベーシストとして革命を起こし、  
 約翰·恩特威斯爾（The Who）在喧囂中尋求建築之美。
 
 傑克·布魯斯（奶油）和約翰·保羅·瓊斯（齊柏林飛艇）
@@ -98,7 +98,7 @@ Sid Vicious（性手槍樂團）拒絕詭計，用他的存在發出叛逆的聲
 
 ---
 
-### 3. Funk與實驗：貝斯走在前面的時代
+### 3. Funk與實驗：貝斯脫穎而出的時代
 
 當拉里·格雷厄姆的巴掌演奏風格誕生的那一刻，
 貝斯本身就成了節奏。
@@ -125,8 +125,8 @@ Bootsy Collins 的宇宙放克，
 
 ---
 
-山下達郎樂隊的伊藤博典、後藤繼俊、岡澤晃──
-他們創造了一種連接流行歌曲和 AOR 之間世界的聲音。
+山下達郎バンドの伊藤広規、職人の後藤次利、岡沢章──  
+他們創造了介於流行歌曲和 AOR 之間的世界級聲音。
 低音吉他不再扮演幕後角色，而是成為支撐音樂「尊嚴」的元素。
 
 ---
@@ -137,8 +137,8 @@ Bootsy Collins 的宇宙放克，
 NUMBER GIRL 的中尾健太郎陷入了扭曲和憤怒的狀態，
 ZAZEN BOYS 的 Ichiro Yoshida 將奇怪的拍號提升為「構建智慧」。
 
-ROVO和Shibusa Shirazu的貝斯手，
-自由遊走於爵士樂與搖滾、即興創作與建構之間，
+ROVOや渋さ知らズのベーシストたちは、  
+ジャズとロック、即興と構築を自在に往来し、  
 它模糊了俱樂部文化和現場音樂之間的界線。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -146,7 +146,7 @@ ROVO和Shibusa Shirazu的貝斯手，
 ---
 
 downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
-沒有尖叫聲，只有「呼吸靜止」。
+沒有尖叫聲，而是「呼吸靜止」。
 
 ---
 
@@ -154,7 +154,7 @@ downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
 
 2000年代，貝斯再次改變了面貌。
 大澤伸一將「人類貝斯」帶入俱樂部曲目，
-STUTS 和 yahyel 將打字和現場音樂結合。
+STUTS 和 yahyel 將打字和現場音樂結合在一起。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -201,7 +201,7 @@ Fender Precision、爵士貝斯、Rickenbacker。
 
 ---
 
-## 六．結論：低音是“社會的潛意識”
+## 六．结论：低音是“社会的潜意识”
 
 低音不是音樂的中心。
 然而，它仍然是所有聲音所立足的「基礎」。

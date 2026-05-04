@@ -9,7 +9,7 @@ permalink: /zh-hant/pikes-peak-all-around-my-city/
 tags:
 - Punk
 - Ska
-title: Pike's Peak – All Around My City
+title: 派克峰－我的城市周圍
 ---
 
 

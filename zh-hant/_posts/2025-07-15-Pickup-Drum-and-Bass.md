@@ -18,7 +18,7 @@ title: 拾取鼓和貝斯作品
 <小時>
 
 ### Aquasky – 尼龍跑車 / 宇宙膠
-<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Gluswebmic">p.
+<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Gluswebmic">
 一首 12 吋的碎拍曲目，以流暢而感性的鋼琴演奏為特色，創作於 1996-97 年左右。
 
 #### 曲目表

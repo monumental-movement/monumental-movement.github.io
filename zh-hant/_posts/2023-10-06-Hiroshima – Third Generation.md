@@ -13,9 +13,9 @@ title: 廣島——第三代
 ---
 
 
-《第三代》是美國爵士融合樂團廣島的一張專輯。这张专辑发行于1983年。廣島以其獨特的音樂風格而聞名，將日本傳統音樂與爵士樂、R&B和流行音樂元素相結合。
+《第三代》是美国爵士融合乐队广岛的一张专辑。這張專輯發行於1983年。广岛以其独特的音乐风格而闻名，将日本传统音乐与爵士乐、R&B和流行音乐元素相结合。
 
-《第三代》是廣島的第三張專輯，是一張展現他們音樂成熟度和進化的作品。這張專輯融合了日本樂器、津輕三味線和卡林巴等傳統樂器，同時發展了現代爵士樂融合聲音。
+《第三代》是廣島的第三張專輯，是一張展現他們音樂成熟度和進化的作品。 The album incorporates traditional instruments such as Japanese instruments, Tsugaru shamisen, and kalimba, while developing a modern jazz fusion sound.
 
 專輯收錄歌曲《一願》、《千鶴》、《檀香》。這些歌曲結合了廣島獨特的聲音和旋律歌曲結構，為觀眾創造了愉快的音樂體驗。
 
@@ -44,7 +44,7 @@ B4. Fifths
 B5. Sukoshi Bit
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uoqer1oN01s?si=Q0LxHA2LDHTj6stt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

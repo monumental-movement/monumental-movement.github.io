@@ -9,11 +9,11 @@ permalink: /zh-hant/vinylgroover-the-world-of-vinylgroover-part-one/
 tags:
 - Happy Hardcore
 - Hardcore
-title: Vinylgroover – Vinylgroover 的世界（第一部分）
+title: Vinylgroover – The World Of Vinylgroover (Part One)
 ---
 
 
-Scott Attril，也被稱為 Vinylgroover，是一位來自英國的快樂硬核和硬室製作人/DJ。
+VinylgrooverことScott Attril（スコット・アトリル）は、UK拠点とする大ハッピーハードコア＆ハードハウス・プロデューサー/DJ。
 
 #### 曲目表
 ```md

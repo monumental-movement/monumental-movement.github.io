@@ -160,7 +160,7 @@ B. 10 Seconds To Terminate
 ### 布倫南·格林——900磅男子
 <a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20.webp.
 
-帶有迪斯可感覺的酸性曲目。溫暖的低凹槽。
+ディスコ感覚で繰り出されるアシッド・トラック。温かみあるロウ・グルーヴ。
 
 #### 曲目表
 ```md

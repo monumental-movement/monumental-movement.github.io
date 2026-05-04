@@ -10,7 +10,7 @@ tags:
 - House
 - Minimal
 - Tech House
-title: Rene Breitbarth – With A Little Luck
+title: 雷內·布賴特巴特（Rene Breitbarth）——有一點運氣
 ---
 
 

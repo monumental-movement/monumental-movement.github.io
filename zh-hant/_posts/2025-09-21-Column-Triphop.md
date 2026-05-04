@@ -106,13 +106,13 @@ flowchart LR
 
 源自布里斯托音響系統「Wild Bunch」。 3D（Robert Del Naja）在街頭藝術界也很有名（傳聞與班克斯有關係）。
 
-#### 生產技術
+#### 制作技術
 
-他沒有使用轉盤，而是“將工作室變成了一種樂器”，並將樣本和現場音樂混合在一起。其特點是深沉的低音和類似配音的空間處理。
+ターンテーブルよりも「スタジオを楽器化」し、サンプルと生演奏をブレンド。重厚な低音とダブ的な空間処理が特徴。
 
 #### 影片作品
 
-有一些短紀錄片，例如《未完成：大規模攻擊的製作》。現場錄影也可以在[官方 YouTube] (https://www.youtube.com/user/massiveattack) 上觀看。
+Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが存在。ライブ映像は[公式YouTube](https://www.youtube.com/user/massiveattack)でも視聴可。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHJi5cUZzuk?si=lfHjydKz_R698u0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -156,7 +156,7 @@ Endtroducing.... 被列入金氏世界紀錄，成為「第一張完全由樣本
 充分利用斷拍重建、節拍雜耍和時間拉伸。將轉盤視為「拼貼工具」。
 
 #### 影片作品
-出現在[DJ文化紀錄片「Scratch」(2001)](https://amzn.to/4pzrtso)。
+[DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -187,7 +187,7 @@ Endtroducing.... 被列入金氏世界紀錄，成為「第一張完全由樣本
 
 ### 原聲製作×AI音樂生成
 
-Trip hop 的电影感非常适合创作配乐。近年來，人工智慧音樂生成工具已能夠在短時間內再現 Trip-hop 風格的「黑暗漂浮感」。對於電影製作人來說，人工智慧和人類之間的合作正在開啟新的創作可能性。
+Trip hop 的電影感非常適合創作配樂。近年來，人工智慧音樂生成工具已能夠在短時間內再現 Trip-hop 風格的「黑暗漂浮感」。對於電影製作人來說，人工智慧和人類之間的合作正在開啟新的創作可能性。
 
 ---
 

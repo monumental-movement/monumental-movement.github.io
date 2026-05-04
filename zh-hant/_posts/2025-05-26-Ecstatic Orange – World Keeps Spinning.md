@@ -26,7 +26,7 @@ A. World Keeps Spinning
 B. Skimming Stones
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m67613286941?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67613286941?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VsOLS7N2dFs?si=VW8e261vGPTt_Ra5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

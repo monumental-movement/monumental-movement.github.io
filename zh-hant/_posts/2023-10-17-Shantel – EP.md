@@ -13,7 +13,7 @@ title: 香特爾 – EP
 ---
 
 
-Stefan Hantel，也稱為 Shantel，是來自德國的 DJ/音樂家/音樂製作人。
+ShantelことStefan Hantel（ステファン・ハンテル）は、ドイツ出身のDJ/ミュージシャン/音楽プロデューサー。
 
 Shantel – EP 由 Stefan Hantel 和 Daniel Haaksman 創立的德國唱片公司 Essay Recordings 於 1997 年發行。
 

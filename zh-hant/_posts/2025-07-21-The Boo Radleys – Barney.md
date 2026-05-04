@@ -10,13 +10,13 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: The Boo Radleys – Barney (...And Me)
+title: The Boo Radleys – 巴尼（…和我）
 ---
 
 
 一支與鞋迷和英倫流行音樂相關的英國另類搖滾樂隊，活躍於 1988 年至 1999 年，並於 2021 年重聚。
 
-「Barney (...And Me)」は、2025年にテレビアニメ『Lazarus ラザロ』のエンディング曲に使用された「Lazarus」も収録されている1993年リリースのアルバム『Giant Steps 』からのシングルカット。1994年にオアシスやプライマルスクリーム等が在籍したUKのインディーズレーベルCreation Records (クリエイション・レコーズ)からリリースされたIndie Rock。
+《Barney (...And Me)》是 1993 年發行的專輯《Giant Steps》中的單曲，其中還包括《Lazarus》，該歌曲被用作 2025 年電視動畫《Lazarus》的片尾曲。 Indie Rock 由英國獨立唱片公司 Creation Records 於 1994 年發行，包括 Oasis 和 Primal Scream。
 
 #### 曲目表
 ```md
@@ -27,7 +27,7 @@ B1. Zoom
 B2. Cracked Lips, Homesick
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31547000988?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m31547000988?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onlj1LrOXic?si=TKK6MiLl7VVObWyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

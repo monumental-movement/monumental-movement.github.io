@@ -9,7 +9,7 @@ permalink: /zh-hant/earth-wind-and-fire-heritage/
 tags:
 - Disco
 - Soul
-title: Earth, Wind & Fire – Heritage
+title: 土、風與火 – 遺產
 ---
 
 

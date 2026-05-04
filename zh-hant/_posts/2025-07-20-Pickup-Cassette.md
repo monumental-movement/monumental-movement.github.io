@@ -39,7 +39,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 ### 噪音的藝術——毫無意義的廢話
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%2010%20Of%20Noise%20%E2%80%93%205%20N.
 
-1987 年 Leftfield Synth 普普藝術流行 x 實驗性、獨特的合成器作品。
+1987年 Leftfieldシンセポップ アートポップ×実験寄り、ユニークなシンセ作。
 
 #### 曲目表
 ```md
@@ -264,7 +264,7 @@ B. Side B
 ### 各種 - 享受！故事
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%">20Story.webp.
 
-20 世紀 90 年代？经典嘻哈祖鲁民族时代早期合辑
+20 世紀 90 年代？經典嘻哈祖魯民族時代早期合輯
 
 #### 曲目表
 ```md

@@ -28,7 +28,7 @@ title: 拾取環境作品
 
 形式：限量200張專輯（黑膠唱片）
 
-特色：深溝與空間音景結合的作品
+特徴：ディープなグルーヴと空間的なサウンドスケープを融合した作品 
 
 #### 曲目表
 ```md
@@ -118,7 +118,7 @@ B. Over Flowing Delight
 
 <小時>
 
-### 配音拖拉機 – 可怕的 H H 循環 / 104 配音
+### Dub Tractor – Scary H H Loop / 104 Dub
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20Trac
 
 類型： 環境 / 實驗 / Trip Hop

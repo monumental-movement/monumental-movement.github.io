@@ -18,7 +18,7 @@ title: VA－這是拉丁美洲
 
 這是由 Breakbeat 廠牌 Fused & Bruished 於 1997 年發行的合輯，該廠牌由多元流派電子音樂製作人兼 DJ Simon Shackleton（又名 Elite Force）創立，他也為電影《駭客任務》製作了音樂。
 
-西蒙·沙克爾頓 (Simon Shackleton) 也以 pHrack R 和 fUtUrEcOrE 以及 Elite Force 等名義進行表演。
+Simon Shackletonは、Elite Force名義以外にもpHrack RやfUtUrEcOrE名義でも活動している。
 
 
 #### 曲目表
@@ -35,7 +35,7 @@ title: VA－這是拉丁美洲
 10. pHrack R – Di Genera
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o1q9dwq4rTA?si=nJo4NDxmNtullj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

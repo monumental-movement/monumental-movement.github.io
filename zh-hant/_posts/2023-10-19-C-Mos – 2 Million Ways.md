@@ -16,7 +16,7 @@ C-Mos 是比利時 DJ Olivier Abbeloos 的別名。
 
 A-side 是瑞典 DJ/製作人 Axwell (Axel Hedfors) 的混音作品，他也是瑞典 House Mafia 的成員。
 
-B 面是 Bhangra Knights 成員 Jules Spinner 的混音版。
+B面は、Bhangra KnightsのメンバーJules Spinner（ジュールズ・スピナー）によるremix。
 
 #### 曲目表
 ```md

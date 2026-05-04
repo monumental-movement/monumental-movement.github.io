@@ -15,7 +15,7 @@ title: Escape又名Transa－無需擔心太陽的寂靜
 
 Transa，也被稱為 Escape，是布倫丹·韋伯斯特 (Brendan Webster) 和大衛·克利福德 (David Clifford) 約翰·韋伯斯特 (John Webster) 的兄弟二人組。
 
-2003 年，Trance 在他自己的唱片公司 Exciter 上發行了《Nothing To Fear / Solar Silence》。
+「Nothing To Fear / Solar Silence」は、2003年に自身のレーベルExciterからリリースしたTrance。
 
 #### 曲目表
 ```md

@@ -13,7 +13,7 @@ title: Supersci－在磨練中
 ---
 
 
-「在磨礪中」是
+「On The Grind」は、
 選自 SUPERSCI 專輯《Pinetrees On The Pavement》的單曲，於 2006 年在瑞典廠牌「Flyphonic Phonogram」上發行。
 
 #### 曲目表

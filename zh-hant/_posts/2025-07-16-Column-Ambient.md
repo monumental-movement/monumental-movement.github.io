@@ -71,7 +71,7 @@ title: '[專欄]什麼是氛圍音樂？ 「存在的聲音」而不是聽到的
 
 [Klaus Schulze](https://amzn.to/4pCnE5H)、[Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：與德國電子產品的融合。
 
-[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps)：テクノ〜IDMの視点からアンビエントを再構築。
+[The Orb](https://amzn.to/4pA2F3v)、[Aphex Twin](https://amzn.to/46GS9Ps)：從技術到 IDM 角度重建環境。
 
 Ambient House/Ambient Techno 的興起。
 
@@ -145,7 +145,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 **●環境無人機**
 
-透過聲音波動和微小變化深度沉浸。
+音の揺らぎ、微細な変化による深い没入。
 
 藝術家：[Stars of the Lid](https://amzn.to/3Kztvsh)、[William Basinski](https://amzn.to/3VrnPmC)、[Eliane Radigue](https://amzn.to/4mrOevu)
 
@@ -167,7 +167,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 ### 氛圍是空間藝術
 
-アンビエント音楽は単なるBGMではなく、次のような思想・芸術概念とも深く結びついている。
+氛圍音樂不僅是背景音樂，也與以下思想和藝術概念有著深刻的連結。
 
 **● 極簡主義與時間藝術**
 
@@ -185,7 +185,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 他利用現場錄音和自然聲音，旨在融合人造和自然。
 
-現代のメンタルヘルス／瞑想／スローテックと結びつきが強い。
+與現代心理健康/冥想/慢科技密切相關。
 
 
 <小時>
@@ -205,7 +205,7 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 氛圍音樂是指不在音樂中心，而是在外圍的音樂。它是一門不涉及旋律或節奏的藝術，而是涉及氣氛、時間、感覺和意識的轉變。
 
-這是一種超越音樂框架的聲音，進入城市喧囂和記憶縫隙中的寂靜。這是一種你可以在空間中感受到的聲音，而不是用耳朵聽到的聲音。
+這是一種超越音樂框架的聲音，進入城市喧囂和記憶縫隙中的寂靜。它不是用耳朵聽到的，而是可以在空間中感受到的聲音。
 
 <小時>
 

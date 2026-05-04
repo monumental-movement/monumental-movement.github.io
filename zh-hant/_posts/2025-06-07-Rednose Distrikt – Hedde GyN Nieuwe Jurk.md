@@ -17,7 +17,7 @@ title: Rednose Distrikt – Hedde Gy'N Nieuwe Jurk
 
 
 Rednose Distrikt 最初是阿姆斯特丹樂團 Kid Sublime 和 Steven de Peven 之間的合作，之後 Kid Sublime 離開，Mike Kivits（又名 Aardvarck）加入。
-彼らのサウンドは、ブロークンビート、オフサイドテクノ、カットアップソウル、サンプルスラップスティックジャズなど、さまざまな要素ミックスするスタイルが特徴。
+他們的音樂特點是混合了各種元素，包括破碎的節奏、越位技術、分裂的靈魂樂和採樣的鬧劇爵士樂。
 
 這張唱片是由荷蘭唱片公司 Rockwell 的衍生公司 Rockwell Records 於 2005 年發行的抽象 Break House 曲目。 （促銷版）
 

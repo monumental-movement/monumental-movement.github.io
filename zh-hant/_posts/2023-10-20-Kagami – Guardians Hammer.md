@@ -12,7 +12,7 @@ title: 加賀美 – 守護者之鎚
 ---
 
 
-「Kagami – Guardians Hammer」於 2008 年在 techno/disco/house 廠牌 Carizma 上發行。
+「Kagami – Guardians Hammer」は、テクノ/ディスコ/ハウスレーベルCarizmaより2008年にリリースされた。
 
 #### 曲目表
 ```md

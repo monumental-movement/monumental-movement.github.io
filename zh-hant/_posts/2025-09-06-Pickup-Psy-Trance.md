@@ -51,10 +51,10 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 
 ---
 
-### 太陽。項目 – *Zwork*
+### 太陽。 Project – *Zwork*
 <a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
-- **リリース掲載日**：2025-09-05  
+- **發布發布日期**：2025-09-05
 
 - **評論**：Gore/Psy-Trance 計畫在德國成立。一部回歸根源的作品，聲音讓人想起 90 年代的黃金時代。
 
@@ -180,7 +180,7 @@ B2. Whales 'n' Wave (Edit)
 
 ---
 
-### 提姆舒爾特 – *Animatronic EP*
+### Tim Schuldt – *Animatronic EP*
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 

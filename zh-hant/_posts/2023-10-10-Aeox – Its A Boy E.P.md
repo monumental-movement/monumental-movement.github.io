@@ -9,7 +9,7 @@ permalink: /zh-hant/aeox-its-a-boy-e-p/
 tags:
 - Techno
 - Electro
-title: Aeox – It's A Boy E.P
+title: Aeox – 這是一個男孩 E.P
 ---
 
 

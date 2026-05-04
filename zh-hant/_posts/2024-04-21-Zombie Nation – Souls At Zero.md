@@ -9,7 +9,7 @@ permalink: /zh-hant/zombie-nation-souls-at-zero/
 tags:
 - Techno
 - 00s
-title: 殭屍國度－靈魂歸零
+title: Zombie Nation – Souls At Zero
 ---
 
 

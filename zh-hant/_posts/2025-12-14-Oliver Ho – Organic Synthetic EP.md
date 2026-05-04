@@ -15,7 +15,7 @@ title: Oliver Ho – 有機合成 EP
 
 英國 techno 堅定擁護者 Oliver Ho 於 2003 年在他自己的廠牌 Meta 上發行了一首 techno 曲目。
 
-樣本是 James Brown 的「Get Up (I Feel Like Being A) Sex Machine」。
+Aは、ジェームズ・ブラウンの「Get Up (I Feel Like Being A) Sex Machine」をサンプリングしている。
 
 #### 曲目表
 ```md

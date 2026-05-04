@@ -14,8 +14,8 @@ title: Zeni Geva – 10000 光年
 ---
 
 
-「Zeni Geva – 10000 光年」是
-專輯宣傳片於 2000 年 10 月在芝加哥 Electrical Audio 錄製。
+「Zeni Geva – 10000 Light Years」は、
+2000 年 10 月在芝加哥電氣音訊錄製的專輯的宣傳專輯。
 
 #### 曲目表
 ```md

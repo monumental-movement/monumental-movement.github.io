@@ -11,13 +11,13 @@ tags:
 - Electro
 - Experimental
 - 90s
-title: Guniw Tools – Dazzle
+title: Guniw 工具 – Dazzle
 ---
 
 
-Guniw Tools 是一支自 20 世紀 90 年代初以來一直活躍的樂團。他獨特的風格是利用道具、攝影、剪輯等，將他所有的專輯形象化，從視覺和聽覺上表達他的世界觀。
+Guniw Tools(グニュウ ツール)は、1990年代初頭から活動するバンド。小道具、撮影、編集等などを自ら行い、全てのアルバムを映像化するという視覚と聴覚で世界観を表現するスタイルが特徴。
 
-這張CD是Happy House廠牌於1998年發行的原版「Dazzle」。附贈原廠獨有的 3D 貼紙
+這張CD是Happy House廠牌於1998年發行的原版《Dazzle》。附贈原廠獨有的 3D 貼紙
 
 #### 曲目表
 ```md

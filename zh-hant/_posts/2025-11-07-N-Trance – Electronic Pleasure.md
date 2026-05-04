@@ -10,7 +10,7 @@ tags:
 - Euro House
 - House
 - 90s
-title: N-Trance – 電子樂趣
+title: N-Trance – Electronic Pleasure
 ---
 
 
