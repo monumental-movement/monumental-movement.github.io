@@ -389,7 +389,7 @@ color: #fff;
 
 <h3 id="21-bases-de-léchantillonnage">2.1 Bases de l’échantillonnage</h3>
 
-<p>Le processus de division des signaux analogiques en valeurs numériques (échantillonnage) a deux paramètres principaux : <strong>fréquence d’échantillonnage (Hz)</strong> et <strong>profondeur de bits de quantification (bit)</strong>. La fréquence d’échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.</p>
+<p>Il existe deux paramètres principaux dans le processus (échantillonnage) de division des signaux analogiques en valeurs numériques en les divisant en intervalles de temps fixes : <strong>fréquence d’échantillonnage (Hz)</strong> et <strong>profondeur de bits de quantification (bit)</strong>. La fréquence d’échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.</p>
 
 <ul>
   <li><strong>12 bits</strong> : Théoriquement, la plage dynamique est d’environ 72 dB (conditions idéales). En réalité, la plage dynamique effective varie en fonction de l’équipement utilisé, en raison des effets du bruit du circuit et des chemins analogiques.</li>
@@ -428,7 +428,7 @@ color: #fff;
 </ul>
 
 <p><strong>Philosophie et fonctionnalités de conception</strong>
-Le SP-1200 a été conçu en tenant compte des contraintes de temps d’un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et de la documentation technique d’E-mu de l’époque, nous pouvons confirmer que le chemin A/D et la conception du filtre du SP-1200 contribuent à sa coloration acoustique.</p>
+Le SP-1200 a été conçu en tenant compte des contraintes de temps d’un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et des documents techniques d’E-mu de l’époque, il peut être confirmé que le chemin A/D et la conception du filtre du SP-1200 contribuent à la coloration acoustique.</p>
 
 <p><strong>Utilisation pratique</strong></p>
 
@@ -458,7 +458,7 @@ Avec l’aide de Roger Linn dans la conception, le MPC60 se voulait un « sample
 
 <hr />
 
-<h3 id="43akai-s900s950">4.3Akai S900/S950</h3>
+<h3 id="43-akai-s900--s950">4.3 Akai S900 / S950</h3>
 
 <ul>
   <li>S900 (1986) : premier échantillonneur de type rack. La précision de l’échantillon atteint une bande passante de 12 bits et comporte des fonctions d’édition et de synchronisation externe.</li>
@@ -502,7 +502,7 @@ Avec l’aide de Roger Linn dans la conception, le MPC60 se voulait un « sample
 <h3 id="52-flux-de-travail-de-production-de-type-mpc60-accent-sur-les-performances">5.2 Flux de travail de production de type MPC60 (accent sur les performances)</h3>
 
 <ol>
-  <li>Enregistrez les échantillons pendant une période relativement longue (le MPC60 peut enregistrer pendant une période plus longue que le SP-1200).</li>
+  <li>Enregistrez des échantillons pendant une période relativement longue (le MPC60 peut enregistrer pendant une période plus longue que le SP-1200)</li>
   <li>Chargez dans le pad et improvisez les opérations d’entrée et de filtrage</li>
   <li>Créez des phrases à l’aide du séquenceur intégré et ajoutez du swing en modifiant la vélocité et la position de chaque note.</li>
   <li>Construire en conjonction avec d’autres équipements en utilisant la synchronisation MIDI</li>
@@ -524,7 +524,7 @@ Avec l’aide de Roger Linn dans la conception, le MPC60 se voulait un « sample
 <h3 id="62-bruit-de-quantification">6.2 Bruit de quantification</h3>
 
 <ul>
-  <li>Le bruit de quantification peut être estimé sous forme de rapport signal sur bruit (SNR). Le SNR 12 bits idéal est d’environ 72 dB, mais dans les équipements réels, il est généralement inférieur.</li>
+  <li>Le bruit de quantification peut être estimé sous forme de rapport signal/bruit (SNR). Le SNR 12 bits idéal est d’environ 72 dB, mais dans les équipements réels, il est généralement inférieur.</li>
 </ul>
 
 <hr />
@@ -548,7 +548,7 @@ Avec l’aide de Roger Linn dans la conception, le MPC60 se voulait un « sample
 <h2 id="chapitre-8-artistes-clés-et-exemples-dutilisation">Chapitre 8 : Artistes clés et exemples d’utilisation</h2>
 
 <blockquote>
-  <p>Vous trouverez ci-dessous des extraits d’exemples d’utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et de la documentation officielle.</p>
+  <p>Vous trouverez ci-dessous des extraits d’exemples d’utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et des documents officiels.</p>
 </blockquote>
 
 <div class="mermaid">
@@ -805,7 +805,7 @@ flowchart TD
 
 <hr />
 
-<h3 id="ajout-1-comparaison-de-la-quantification-12-bits-et-16-bits">Ajout 1 : Comparaison de la quantification 12 bits et 16 bits</h3>
+<h3 id="ajout-1--comparaison-de-la-quantification-12-bits-et-16-bits">Ajout 1 : Comparaison de la quantification 12 bits et 16 bits</h3>
 
 <div class="mermaid">
     
@@ -817,7 +817,7 @@ graph LR
 
 <hr />
 
-<h3 id="ajout-2--concept-de-courbe-de-filtre-sp-1200">Ajout 2 : Concept de courbe de filtre SP-1200</h3>
+<h3 id="ajout-2concept-de-courbe-de-filtre-sp-1200">Ajout 2 : Concept de courbe de filtre SP-1200</h3>
 
 <div class="mermaid">
     
@@ -1029,12 +1029,294 @@ flowchart TD
 
   
 
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
   
 
   
 
   
 
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
   
 
   
@@ -1043,6 +1325,14 @@ flowchart TD
 
   
 
+    
+
+    
+
+    
+
+  
+
   
 
   
@@ -1054,7 +1344,13 @@ flowchart TD
   
 
   
+
+    
 
+    
+
+    
+
   
 
   
@@ -1068,7 +1364,13 @@ flowchart TD
   
 
   
+
+    
 
+    
+
+    
+
   
 
   
@@ -1082,7 +1384,13 @@ flowchart TD
   
 
   
+
+    
+
+    
 
+    
+
   
 
   
@@ -1096,6 +1404,12 @@ flowchart TD
   
 
   
+
+    
+
+    
+
+    
 
   
 
@@ -1111,6 +1425,12 @@ flowchart TD
 
   
 
+    
+
+    
+
+    
+
   
 
   
@@ -1124,7 +1444,13 @@ flowchart TD
   
 
   
+
+    
 
+    
+
+    
+
   
 
   
@@ -1138,6 +1464,12 @@ flowchart TD
   
 
   
+
+    
+
+    
+
+    
 
   
 
@@ -1153,6 +1485,12 @@ flowchart TD
 
   
 
+    
+
+    
+
+    
+
   
 
   
@@ -1166,7 +1504,13 @@ flowchart TD
   
 
   
+
+    
 
+    
+
+    
+
   
 
   
@@ -1180,6 +1524,12 @@ flowchart TD
   
 
   
+
+    
+
+    
+
+    
 
   
 
@@ -1195,6 +1545,12 @@ flowchart TD
 
   
 
+    
+
+    
+
+    
+
   
 
   
@@ -1208,7 +1564,13 @@ flowchart TD
   
 
   
+
+    
 
+    
+
+    
+
   
 
   
@@ -1222,6 +1584,12 @@ flowchart TD
   
 
   
+
+    
+
+    
+
+    
 
   
 
@@ -4208,7 +4576,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Nick Faber – Let Me Hear You Clap Your Hands.webp" alt="Nick Faber – Laisse-moi t’entendre taper dans tes mains" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Nick Faber – Let Me Hear You Clap Your Hands.webp" alt="Nick Faber – Let Me Hear You Clap Your Hands" loading="lazy" decoding="async">
                     
 
                 
@@ -4216,10 +4584,10 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/fr/nick-faber-let-me-hear-you-clap-your-hands/">Nick Faber – Laisse-moi t’entendre taper dans tes mains</a>
+                <a class="text-dark" href="/fr/nick-faber-let-me-hear-you-clap-your-hands/">Nick Faber – Let Me Hear You Clap Your Hands</a>
                 
             </h2>
-            <h4 class="card-text">Nick Faber est un producteur/musicien basé à Londres.
+            <h4 class="card-text">Nick Faberは、ロンドンを拠点に活動するプロデューサー／ミュージシャン。
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -6138,7 +6506,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-lo-fi-hip-hop-chillhop.webp" alt="[Chronique] Lo-Fi Hip Hop / Chillhop (beat culture enregistrée à la maison)" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-lo-fi-hip-hop-chillhop.webp" alt="【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）" loading="lazy" decoding="async">
                     
 
                 
@@ -6146,10 +6514,10 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/fr/column-lo-fi-hip-hop-chillhop/">[Chronique] Lo-Fi Hip Hop / Chillhop (beat culture enregistrée à la maison)</a>
+                <a class="text-dark" href="/fr/column-lo-fi-hip-hop-chillhop/">【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）</a>
                 
             </h2>
-            <h4 class="card-text">1. Définition du concept et disposition des noms
+            <h4 class="card-text">1. 概念定義と呼称の整理
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -8244,7 +8612,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/8-Off – Alize For Dolo.webp" alt="8-Off – Alize pour Dolo" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/8-Off – Alize For Dolo.webp" alt="8-Off – Alize For Dolo" loading="lazy" decoding="async">
                     
 
                 
@@ -8252,10 +8620,11 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/fr/8-off-alize-for-dolo/">8-Off – Alize pour Dolo</a>
+                <a class="text-dark" href="/fr/8-off-alize-for-dolo/">8-Off – Alize For Dolo</a>
                 
             </h2>
-            <h4 class="card-text">Angel Aguilar, également connu sous le nom de 8-Off, est un MC/producteur hip-hop basé à New York. Il a sorti sous différents noms, dont Agallah, Angel Aguilar, Brad Piff et...</h4>
+            <h4 class="card-text">8-Off ことAngel Aguilarは、NYを拠点に活動するhip-hop MC/プロデューサー。Agallah, Angel Aguilar, Brad Piff, The Don Bishopなどさまざまな名義でリリースしている。
+</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -9131,7 +9500,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de lutte" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de lutte" loading="lazy" decoding="async">
                     
 
                 
@@ -9139,7 +9508,7 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/fr/column-brenda-fassie/">[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de lutte</a>
+                <a class="text-dark" href="/fr/column-brenda-fassie/">[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de lutte</a>
                 
             </h2>
             <h4 class="card-text">Introduction
