@@ -166,7 +166,7 @@ flowchart LR
 
 ---
 
-##5-3. Impact minimal sur les pièges/DnB
+##5-3. Piège minimal / Impact DnB
 
 * La base 808 est modeste
 * Le coup de pied est court

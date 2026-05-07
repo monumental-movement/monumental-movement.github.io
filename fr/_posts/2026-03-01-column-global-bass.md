@@ -112,7 +112,7 @@ Connecter le dancehall et l’EDM.
 
 Ce sont là des exemples typiques de rythmes régionaux transposés dans les structures des clubs.
 
-> En examinant chaque chanson, des innovations dans la structure rythmique peuvent être constatées.
+> Si vous examinez chaque chanson individuellement, vous pouvez constater une innovation dans la structure rythmique.
 
 ---
 
@@ -136,7 +136,7 @@ En conséquence, Global Bass joue le rôle de relativiser la structure « centre
 Même s’il existe des succès commerciaux, il est à l’origine ancré dans la culture underground des DJ.
 
 **Q. En quoi est-ce différent de la musique du monde ? **
-La différence est qu’il est reconstruit dans le contexte d’une piste de danse de club plutôt que dans le contexte d’une musique d’appréciation.
+La différence est qu'il est reconstruit dans le contexte d'une piste de danse de club plutôt que dans le contexte d'une musique d'appréciation.
 
 **Q. Êtes-vous actuellement en expansion? **
 De nouveaux rythmes régionaux sont connectés en permanence via TikTok et le streaming.

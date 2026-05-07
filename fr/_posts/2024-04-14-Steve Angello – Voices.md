@@ -19,7 +19,7 @@ Steve Angello est membre de la Swedish House Mafia, avec Axwell et Sebastian Ing
 
 Le premier morceau de la face A est un remix du DJ et producteur suédois Eric Prydz, qui travaille également sous le nom de Cirez D et Pryda.
 
-La deuxième chanson de la face B est un remix de Laidback Luke, un DJ techno house néerlandais qui a remixé divers artistes tels que « Show Me Love » de Robin S, Denki Groove et Jark Prongo.
+La deuxième chanson de la face B est un remix de Laidback Luke, un DJ techno house néerlandais qui a remixé divers artistes tels que « Show Me Love » de Robin S, Denki Groove et Jark Prongo.
 
 #### Liste des chansons
 ```md

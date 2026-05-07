@@ -13,13 +13,13 @@ title: Yellowman – Rambo
 ---
 
 
-„Rambo“ ist ein Lied des jamaikanischen Reggae-Musikers Yellowman. Yellowman war in den 1980er Jahren ein sehr beliebter Künstler der jamaikanischen Musik.
+「Rambo」は、ジャマイカのレゲエミュージシャンであるイエローマン（Yellowman）の楽曲です。イエローマンは、1980年代にジャマイカ音楽界で非常に人気のあるアーティストでした。
 
-„Rambo“ ist auf Yellowmans 1982 erschienenem Album „King Yellowman“ enthalten. Dieses Lied ist für seinen Stil namens Yellowman’s Toast Style bekannt. Der Toast-Stil ist ein Rap-Stil, der Texte zu einem Rhythmus improvisiert und sich aus der Soundsystem-Kultur der jamaikanischen Musik entwickelt hat.
+「Rambo」は、イエローマンのアルバム「King Yellowman」に収録されており、1982年にリリースされました。この曲は、イエローマンのトーストスタイルと呼ばれるスタイルで知られています。トーストスタイルは、リズムに合わせて即興で歌詞をラップするスタイルで、ジャマイカ音楽のサウンドシステムカルチャーから発展しました。
 
-„Rambo“ ist vom Actionhelden John J. Rambo aus der gleichnamigen Filmreihe inspiriert. Im Liedtext vergleicht sich Yellowman mit Lambeau und demonstriert damit seine selbstbewusste Haltung und kraftvolle Leistung.
+「Rambo」は、同名の映画シリーズのアクションヒーローであるジョン・J・ラムボーに触発されています。曲の歌詞では、イエローマンが自身をラムボーになぞらえ、自信に満ちた姿勢やパワフルなパフォーマンスを披露しています。
 
-Dieses Lied gilt als eines der Signature-Songs von Yellowman, der für seinen Dancehall-Reggae-Stil und seine kraftvollen Darbietungen bekannt ist. Sein einzigartiger Stil und sein einzigartiger künstlerischer Ansatz haben Yellowman zu einem großen Einfluss auf die jamaikanische Musikszene gemacht.
+この曲は、ダンスホールレゲエのスタイルとパワフルなパフォーマンスで知られるイエローマンの代表曲の一つとされています。彼の独特なスタイルと独自のアーティスティックなアプローチにより、イエローマンはジャマイカ音楽シーンで大きな影響力を持つ存在となりました。
 
 #### Trackliste
 ```md

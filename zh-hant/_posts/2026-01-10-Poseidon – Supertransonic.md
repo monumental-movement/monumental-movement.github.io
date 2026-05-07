@@ -9,7 +9,7 @@ permalink: /zh-hant/poseidon-supertransonic/
 tags:
 - Trance
 - 00s
-title: 波塞冬－超音速
+title: 波塞冬—超音速
 ---
 
 

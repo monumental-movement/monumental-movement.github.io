@@ -10,11 +10,11 @@ tags:
 - Italo
 - Disco
 - 80s
-title: Aleph – Fire On The Moon
+title: 阿萊夫——月亮上的火
 ---
 
 
-Alephは、デイブ・ロジャースのボーカルをフィーチャーした1980年代のイタロディスコバンド。他のメンバーはDonato BelliniとMarco Manzi。
+Aleph 是一支 20 世紀 80 年代 Italo 迪斯科樂隊，由 Dave Rogers 演唱。其他成員包括多納托·貝利尼和馬可·曼齊。
 
 《Fire On The Moon》是阿萊夫的第三首單曲。
 
@@ -25,7 +25,7 @@ A. Fire On The Moon (Extended)
 B. Fire On The Moon (Instrumental Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35638806508?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m35638806508?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N_VhW7Q2CP4?si=4s3T1RFLAU3daSOX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

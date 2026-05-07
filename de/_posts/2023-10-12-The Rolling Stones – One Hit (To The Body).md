@@ -15,7 +15,7 @@ title: Die Rolling Stones – One Hit (To The Body)
 
 „One Hit (To The Body)“ ist eine Single aus dem 1986 erschienenen Album „Dirty Work“. Text und Musik von Mick Jagger, Keith Richards und Ron Wood. Das Gitarrensolo wird vom ehemaligen Led Zeppelin-Mitglied Jimmy Page gespielt.
 
-„One Hit (To The Body)“ zeichnet sich durch ein energiegeladenes Gitarrenriff, Mick Jaggers kraftvollen Gesang und eine eingängige Melodie aus und macht es zu einem Klassiker für viele Rockmusikfans.
+„One Hit (To The Body)“ zeichnet sich durch ein energiegeladenes Gitarrenriff, Mick Jaggers kraftvollen Gesang und eine eingängige Melodie aus, die es für viele Rockmusikfans zu einem Klassiker macht.
 
 Der A-side London Mix ist ein Remix von Steve Lillywhite, der für die Produktion verantwortlich war.
 

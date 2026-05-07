@@ -28,7 +28,7 @@ Aux États-Unis du début du XXe siècle, le jazz était une musique soutenue pa
 
 Les développements dans la technologie d'enregistrement étaient également importants. En passant des cylindres de cire aux disques de gomme-laque, l'improvisation est passée d'un événement ponctuel à quelque chose qui est écouté, analysé et imité à plusieurs reprises. Le Scat était également une forme d'expression extrêmement moderne, où des éclairs d'inspiration momentanés devenaient figés dans l'histoire.
 
-> C'est lorsque la voix est dénuée de sens que la liberté d'improvisation s'accroît pleinement pour la première fois.
+> Lorsque la voix est dénuée de sens, la liberté d'improvisation s'accroît pleinement pour la première fois.
 
 ---
 
@@ -64,7 +64,7 @@ Au milieu des années 1920, l’enregistrement one-shot était la norme dans les
 
 Dans son scat, les syllabes n'ont aucun sens, mais la disposition rythmique est très claire. Le début de la phrase est l'attaque de la trompette, et la fin converge naturellement avec le souffle. Ici, la voix agit comme un instrument mélodique et l’absence de paroles devient une condition préalable plutôt qu’une omission.
 
-Si vous écoutez attentivement les disques de cette époque, vous vous rendrez compte que le sentiment de distance entre vous et le groupe était également important. Le scat ne se perd pas dans l'accompagnement, mais il ne ressort pas trop non plus. Le sens de l'improvisation au sein de l'ensemble était déjà perfectionné.
+Si vous écoutez attentivement les disques de cette époque, vous verrez que le sentiment de distance par rapport au groupe était également important. Le scat ne se perd pas dans l'accompagnement, mais il ne ressort pas trop non plus. Le sens de l'improvisation au sein de l'ensemble était déjà perfectionné.
 
 <div class="mermaid">
 timeline
@@ -94,7 +94,7 @@ Le scat de Cab Calloway, en revanche, était plus une extension de scène qu'un 
 
 ---
 
-## Chapitre 4 Bebop et instrumentalisation vocale
+## Chapitre 4 Bebop et instrumentation vocale
 
 Les enregistrements Bebop de la fin des années 1940 avaient une tension similaire à celle d’une performance live, même en studio. Le tempo est rapide, les harmonies sont complexes et il existe toujours de multiples options d'improvisation. Scat nécessite ici un jugement instrumental complet.
 

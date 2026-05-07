@@ -13,11 +13,11 @@ title: Union Jack – Cactus Morning Gloire
 ---
 
 
-Union Jack est un projet de musique trance actif depuis les années 1990, connu pour ses éléments sonores et mélodiques uniques. Leurs chansons se caractérisent par une production détaillée et des paysages sonores spectaculaires, et sont appréciées des amateurs de musique transe.
+ユニオン・ジャックは、1990年代から活動しているトランスミュージックのプロジェクトであり、その独自のサウンドとメロディックな要素で知られています。彼らの楽曲は、緻密なプロダクションと壮大なサウンドスケープが特徴であり、トランスミュージックの愛好家から支持を受けています。
 
-"Cactus/Morning Glory" est l'une des chansons les plus célèbres d'Union Jack. La chanson présente un son de transe qui combine un rythme énergique et entraînant, une belle mélodie et des effets psychédéliques. L'attrait de la chanson réside dans la montée et la descente qui excite les auditeurs, ainsi que dans la mélodie mémorable.
+「Cactus / Morning Glory」は、ユニオン・ジャックの代表作の一つとされる楽曲です。曲は、エネルギッシュで疾走感のあるビート、美しいメロディ、サイケデリックなエフェクトなどが融合したトランスサウンドが特徴です。聴く人々を興奮させるビルドアップとドロップ、そして耳に残るメロディが楽曲の魅力となっています。
 
-« Cactus/Morning Glory » d'Union Jack était un morceau très acclamé à l'âge d'or de la musique trance et était fréquemment joué sur les pistes de danse des clubs et des festivals. Avec son son magnifique et sa mélodie apaisante, les auditeurs pourront se plonger dans le charme de la transe et s'abandonner au rythme de la musique.
+ユニオン・ジャックの「Cactus / Morning Glory」は、トランスミュージックの黄金時代において高い評価を受けた作品であり、クラブやフェスティバルのダンスフロアで頻繁にプレイされました。その壮大なサウンドと心地良いメロディによって、聴く人々はトランスの魅力に没入し、音楽のリズムに身を委ねることができるでしょう。
 
 #### Liste des chansons
 ```md

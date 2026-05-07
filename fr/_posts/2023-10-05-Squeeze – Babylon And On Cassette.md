@@ -9,13 +9,13 @@ permalink: /fr/squeeze-babylon-and-on-cassette/
 tags:
 - Rock
 - Post Punk
-title: Squeeze – Babylon et sur cassette
+title: Squeeze – Babylon And On Cassette
 ---
 
 
-Cet album "Babylon And On" de Squeeze a été produit par Eric "ET" Thorngren et Glenn Tilbrook.
+Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
 
-L'album a atteint la 14e place du UK Album Chart, le classement le plus élevé pour un album Squeeze en dehors de la compilation Greatest Hits.
+このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
 
 #### Liste des chansons
 ```md

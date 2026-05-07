@@ -9,12 +9,12 @@ permalink: /de/various-viennatone/
 tags:
 - Breaks
 - Minimal
-title: Verschiedenes – Viennatone
+title: Various – Viennatone
 ---
 
 
-„Various – Viennatone“ lautet
-Dies ist ein Werk, das 1999 von !k7 Records in Deutschland veröffentlicht wurde.
+「Various – Viennatone」は、
+1999年にドイツの!k7 recordsからリリースされた作品です。
 
 #### Trackliste
 ```md

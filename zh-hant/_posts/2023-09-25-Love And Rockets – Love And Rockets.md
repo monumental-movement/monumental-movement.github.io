@@ -9,15 +9,15 @@ permalink: /zh-hant/love-and-rockets-love-and-rockets/
 tags:
 - Rock
 - Goth
-title: 愛與火箭 – 愛與火箭
+title: Love And Rockets – Love And Rockets
 ---
 
 
 Love And Rockets - Love And Rockets 是英國另類搖滾樂團 Love And Rockets 的一張同名專輯。愛與火箭隊由前包浩斯成員丹尼爾·阿什、大衛·傑伊和凱文·哈斯金斯組成。
 
-它於1989年發行，被稱為樂隊的首張專輯。他們的音樂包含了後龐克和哥德搖滾的元素，同時也融入了更多的流行聲音和舞曲節拍，受到了廣大樂迷的支持。
+它於1989年發行，被稱為樂隊的首張專輯。 Their music includes elements of post-punk and gothic rock, but also incorporates more pop sounds and dance beats, and is supported by a wide range of music fans.
 
-這張專輯收錄了他們的招牌歌曲《So Alive》等歌曲，整張專輯中你可以感受到黑暗、憂鬱的氣氛和充滿力量的表演。
+このアルバムには、代表曲である「So Alive」などが収録されておち、アルバム全体を通じてダークでメランコリックな雰囲気と力強い演奏が感じられます。
 
 #### 曲目表
 ```md

@@ -10,17 +10,17 @@ tags:
 - Electronic
 - Trance
 - 00s
-title: DJ Tandu präsentiert Ayla – Singularity Brainchild II
+title: DJ Tandu Presents Ayla – Singularity Brainchild II
 ---
 
 
-DJ Tandu und Ayla sind die Namen der Trance-Projekte des deutschen DJs und Produzenten Ingo Kunzi.
+DJ TanduとAylaは、ドイツのDJ・プロデューサーIngo Kunziのトランスプロジェクト名義。
 
-Diese Platte wurde im Jahr 2000 vom deutschen Label Unsubmissive Records veröffentlicht.
+このレコードは2000年にドイツのレーベルUnsubmissive Records からリリースされたトラックトラック。
 
-Der zweite Song auf Seite A ist ein Remix von Luiz O'Brian & Miss Thunderpussy.
+A面2曲目は、Luiz O'Brian& Miss Thunderpussyによるremix。
 
-Der erste Titel auf Seite B ist ein Remix des deutschen DJs und Produzenten Pulsedriver, der Aqualoop Records und Feed My Beat Records betreibt.
+B面1曲目は、Aqualoop Records 、Feed My Beat Recordsを運営するドイツのDJ・プロデューサーPulsedriverによるremix。
 
 #### Trackliste
 ```md

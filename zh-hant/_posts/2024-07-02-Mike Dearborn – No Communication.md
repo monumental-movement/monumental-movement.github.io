@@ -16,7 +16,7 @@ title: 麥克·迪爾伯恩——沒有溝通
 
 Mike Dearborn 是一位來自芝加哥的 DJ，經營 Majesty Recordings。
 
-《No Communication》是一首 techno/techhouse 曲目，由 Norbert Wieschollek (Brixton) 創立的德國唱片公司 Holzplatten 於 2002 年發行。
+「No Communication」は、Norbert Wieschollek (Brixton) によって設立されたドイツのレーベルHolzplattenから2002年にリリースされたテクノ・テックハウストラック。
 
 #### 曲目表
 ```md

@@ -15,7 +15,7 @@ title: Danny Clark & ​​​​Jay Benham mit Carla Prather – Into You
 ---
 
 
-Ein Deep-House-/Garage-House-Track der britischen House-Musikproduzenten Danny Clark und ​​Jay Benham mit der Gesangsproduzentin Carla Prather, die mit vielen Künstlern wie MR zusammengearbeitet hat. ALI, QUENTIN HARRIS, VICK LAVENDER, LOFTSOUL und DJ SPEN.
+Ein Deep-House/Garage-House-Track der britischen House-Musikproduzenten Danny Clark und ​​Jay Benham mit der Gesangsproduzentin Carla Prather, die mit vielen Künstlern wie MR zusammengearbeitet hat. ALI, QUENTIN HARRIS, VICK LAVENDER, LOFTSOUL und DJ SPEN.
 
 „Into You“ wurde 2010 auf Solid Ground Recordings unter der Leitung von Danny Clark und Jay Benham veröffentlicht.
 

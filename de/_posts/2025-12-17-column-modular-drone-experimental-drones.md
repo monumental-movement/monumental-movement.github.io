@@ -46,15 +46,15 @@ color: #fff;
 
 Das Konzept einer Drohne existierte schon vor der elektronischen Musik. Zu seinen Prototypen gehören anhaltender Bass in traditioneller Musik, anhaltende Harmonie in religiöser Musik und stationäre Klänge in mechanischen und Umgebungsgeräuschen. In der Geschichte der westlichen Musik spielten die anhaltenden Klänge mittelalterlicher Orgeln und Dudelsäcke eine Rolle bei der räumlichen Unterstützung der Musik.
 
-Im 20. Jahrhundert schritten Industrialisierung und Elektrifizierung voran und anhaltender mechanischer Lärm drang in unsere tägliche Umgebung ein. Diese Umweltveränderung bot Musikern die Möglichkeit, ihre Klangwahrnehmung zu ändern. Von einer melodiezentrierten Sichtweise der Musik hin zu einem Fokus auf die Textur und zeitliche Dauer des Klangs selbst wurden Bordungeräusche als wichtiges Element experimenteller Musik neu definiert.
+Im 20. Jahrhundert schritten Industrialisierung und Elektrifizierung voran und anhaltender mechanischer Lärm durchdrang unsere tägliche Umgebung. Diese Umweltveränderung bot Musikern die Möglichkeit, ihre Klangwahrnehmung zu ändern. Von einer melodiezentrierten Sichtweise der Musik hin zu einem Fokus auf die Textur und zeitliche Dauer des Klangs selbst wurden Drohnen als wichtiges Element experimenteller Musik neu definiert.
 
 ---
 
 ## Kombination aus elektroakustischen und anhaltenden Klängen
 
-In den Anfängen der elektronischen Musik waren anhaltende Töne das Element, das die Eigenschaften elektronischer Klänge am deutlichsten anzeigte. Im Gegensatz zu physikalischen Instrumenten kann die von einem Oszillator erzeugte kontinuierliche Wellenform theoretisch unbegrenzt aufrechterhalten werden. Diese Eigenschaft ermöglichte es, sich von der traditionellen musikalischen Struktur zu lösen, die die Zeit in Takte unterteilt.
+In den Anfängen der elektronischen Musik waren anhaltende Töne das Element, das die Eigenschaften elektronischer Klänge am deutlichsten anzeigte. Die von einem Oszillator erzeugte kontinuierliche Wellenform kann im Gegensatz zu einem physikalischen Instrument theoretisch unbegrenzt aufrechterhalten werden. Diese Eigenschaft ermöglichte es, sich von der traditionellen musikalischen Struktur zu lösen, die die Zeit in Takte unterteilt.
 
-In der Tonbandmusik und der elektroakustischen Musik wurde versucht, Klänge über lange Zeiträume anzuhalten oder allmähliche Veränderungen vorzunehmen, allerdings gab es Einschränkungen bei der Echtzeitsteuerung. Hier kommt das Konzept der Spannungsregelung ins Spiel. Der Mechanismus zur Steuerung von Tonhöhe und Klangfarbe mithilfe von Spannung wurde zur Grundlage späterer modularer Synthesizer und bot die Möglichkeit, anhaltende Klänge dynamisch zu verändern.
+In der Tonbandmusik und der elektroakustischen Musik wurde versucht, Klänge über längere Zeiträume anzuhalten oder allmähliche Änderungen vorzunehmen, allerdings gab es Einschränkungen bei der Echtzeitsteuerung. Hier kommt das Konzept der Spannungsregelung ins Spiel. Der Mechanismus zur Steuerung von Tonhöhe und Klangfarbe mithilfe von Spannung wurde zur Grundlage späterer modularer Synthesizer und bot die Möglichkeit, anhaltende Klänge dynamisch zu verändern.
 
 ---
 
@@ -70,7 +70,7 @@ Dieser Aufbau ist auch bei der Drohnenproduktion wichtig. Ein stabiler Oszillato
 
 Der Buchla-Synthesizer hatte ein Designkonzept, das keine Tastatur voraussetzte und deutlich eine Richtung vorgab, in der Spannung selbst als Material für Kompositionen verwendet werden konnte. Komplexe Modulationen, zufällige Spannungen, zusammengesetzte Oszillatoren usw. erzeugen ein unvorhersehbares Klangverhalten.
 
-Diese Eigenschaft ist besonders bei modularen Drohnen wichtig. Schwankungen in Klangfarbe und Amplitude rücken stärker in den Vordergrund als die Stabilität der Tonhöhe, und der Bordunklang wird nicht als fester Klang, sondern als sich ständig veränderndes Feld gehört. Buchlas Ansatz ermöglichte es, ein Gleichgewicht zwischen Kontrolle und Zufall in die musikalische Struktur einzubauen.
+Diese Eigenschaft ist besonders bei modularen Drohnen wichtig. Schwankungen in Klangfarbe und Amplitude rücken stärker in den Vordergrund als die Stabilität der Tonhöhe, und der Bordunton wird nicht als fester Klang, sondern als sich ständig veränderndes Feld gehört. Buchlas Ansatz ermöglichte es, ein Gleichgewicht zwischen Kontrolle und Zufall in die musikalische Struktur einzubauen.
 
 > „Moogs stabile Persistenz und Buchlas variable Persistenz weisen auf zwei grundlegende Richtungen für modulare Drohnen hin.“
 
@@ -158,7 +158,7 @@ Der anhaltende Klang modularer Borduntöne entsteht nicht durch die Beibehaltung
 
 Insbesondere in einer modularen Umgebung befindet sich der Filter selbst häufig in einem schwingungsnahen Zustand und die Grenze zwischen Grund- und Harmonischen verschwimmt. Dadurch wird das Dröhnen eher als Übergang in der Spektraldichte denn als Ansammlung von Tonhöhen wahrgenommen.
 
-> „Bei modularen Drohnen ist die Tonhöhe kein fester Punkt, sondern fungiert als Schwerpunkt des Spektrums.“
+> „Bei modularen Drohnen ist die Neigung kein fester Punkt, sondern fungiert als Schwerpunkt des Spektrums.“
 
 ### Phaseninterferenz und Schwebungsphänomen
 
@@ -178,7 +178,7 @@ Darüber hinaus hat das Klangbild durch die Anwendung unterschiedlicher spektral
 
 ### Verschmelzung von Nachhall und anhaltendem Klang
 
-Lange Nachhallzeiten sind nicht nur ein Effekt bei Drohnen, sondern sind Teil der akustischen Struktur. Wenn der ursprüngliche Klang und der Nachhallton nicht getrennt werden können, werden Anfang und Ende des Klangs mehrdeutig und der anhaltende Klang nimmt eine Unendlichkeit an.
+Lange Nachhallzeiten sind nicht nur ein Effekt bei Drohnen, sondern sind Teil der akustischen Struktur. Wenn der Originalton und der Nachhallton nicht getrennt werden können, werden Anfang und Ende des Klangs mehrdeutig und der anhaltende Klang nimmt eine Unendlichkeit an.
 
 > „Nachhall schmückt den Klang nicht, sondern wirkt wie ein Gerät, das die Zeit selbst verlängert.“
 
@@ -194,9 +194,9 @@ In diesem Sinne ist ein modularer Synthesizer sowohl ein Musikinstrument als auc
 
 ### Balance zwischen Autonomie und Intervention
 
-Vollständig autonome Patches weisen im Laufe der Zeit unvorhersehbare Änderungen auf. Andererseits kann durch menschliches Eingreifen die Richtung des Klangs angepasst werden. Das Gleichgewicht zwischen diesen beiden ist ein wichtiger Entscheidungspunkt bei der Produktion modularer Drohnen.
+Vollständig autonome Patches weisen im Laufe der Zeit unvorhersehbare Änderungen auf. Andererseits kann durch menschliches Eingreifen die Richtung des Klangs angepasst werden. Das Gleichgewicht zwischen beiden ist ein wichtiger Entscheidungspunkt bei der Produktion modularer Drohnen.
 
-> „Intervention erfolgt als Dialog mit dem System, nicht als Kontrolle“
+> „Eingriff erfolgt als Dialog mit dem System, nicht als Kontrolle“
 
 ---
 

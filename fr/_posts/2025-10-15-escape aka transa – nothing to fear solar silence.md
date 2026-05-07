@@ -9,13 +9,13 @@ permalink: /fr/escape-aka-transa-nothing-to-fear-solar-silence/
 tags:
 - Trance
 - 00s
-title: Escape AKA Transa – Rien à craindre du silence solaire
+title: Escape AKA Transa – Nothing To Fear Solar Silence
 ---
 
 
-Transa, également connu sous le nom d'Escape, est un duo frère de Brendan Webster et David Clifford John Webster.
+EscapeことTransaは、Brendan Webster &とDavid Clifford John Websterの兄弟デュオ。
 
-"Nothing To Fear / Solar Silence" est sorti par Trance sur son propre label Exciter en 2003.
+「Nothing To Fear / Solar Silence」は、2003年に自身のレーベルExciterからリリースしたTrance。
 
 #### Liste des chansons
 ```md

@@ -13,9 +13,9 @@ title: DSK – Work My Body Over (Sweat)
 ---
 
 
-DSK ist ein House-Dance-Musikprojekt, das vom Hot Productions-Team Davis-Stone-Klein (Larry Davis, Joe Stone, Paul Klein) entwickelt wurde.
+DSKは、Davis-Stone-Klein ( Larry Davisラリー・デイヴィス、Joe Stone ジョー・ストーン、Paul Kleinポール・クライン) の Hot Productionsチームによって制作されたハウス ・ ダンスミュージックプロジェクト。
 
-„Work My Body Over (Sweat)“ ist ein Song, der in den 90er Jahren mit seinem energiegeladenen, tanzbaren Beat und dem eingängigen Gesang häufig in Tanzclubs und im Radio gespielt wurde.
+「Work My Body Over (Sweat)」は、エネルギッシュで踊りやすいビートとキャッチーなボーカルが特徴的で、90年代にダンスクラブやラジオで頻繁にプレイされた一曲。
 
 #### Trackliste
 ```md

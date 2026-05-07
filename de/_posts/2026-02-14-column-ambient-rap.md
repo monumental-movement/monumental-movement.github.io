@@ -166,7 +166,7 @@ pie
 
 Die Verschmelzung von Ambient und Rap schafft ein neues Erlebnis an der Schnittstelle der Musikgenres. Geschichte, Theorie, Produktionsmethoden und Hörererfahrung interagieren und bieten einen introspektiven Raum, der über die bloße Wertschätzung hinausgeht.
 
-Mit technologischen Fortschritten wie KI-generierter Musik und binauralen Aufnahmen haben Meditations-Playlists das Potenzial, personalisierter zu werden und ein zutiefst immersives Erlebnis zu bieten.
+Mit technologischen Fortschritten wie KI-generierter Musik und binauraler Aufnahme haben Meditations-Playlists das Potenzial, personalisierter zu werden und ein zutiefst immersives Erlebnis zu bieten.
 
 > Unsere innere Reise beginnt an der Schnittstelle von Stille und Takt.
 

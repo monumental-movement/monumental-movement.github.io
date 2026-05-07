@@ -17,7 +17,7 @@ Access 58 est une unité composée de Paulo Nascimento (Urban Ritual) du Portuga
 
 "Dark Side EP" est un morceau Techno sorti en 1999 sur le label Access58.
 
-AA1 est un remix du producteur et DJ techno/ambient américain Steve Stoll.
+AA1 est un remix du producteur et DJ techno/ambiant américain Steve Stoll.
 
 AA2 est un remix de Pacou, un producteur techno allemand qui a sorti sur des labels prestigieux tels que son propre label LL Records, Tresor, Djax-Up-Beats, Konsequent et Music Man Records.
 

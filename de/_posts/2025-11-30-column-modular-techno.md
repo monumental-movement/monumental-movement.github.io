@@ -62,7 +62,7 @@ graph TD
 
 ## Entwicklung modularer Synthesizer
 
-In den 1990er Jahren erschienen hybride Analog-/Digitalmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
+In den 1990er Jahren erschienen analog/digitale Hybridmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
 
 Insbesondere seit 1995 sorgt der von Doepfer vorgeschlagene Eurorack-Standard dafür, dass Module kompatibel und kompakt sind und es für Einzelpersonen einfacher ist, modulare Sets zusammenzustellen. Dies führt direkt zur Erweiterung der Modular Techno-Szene ab den 2000er Jahren.
 
@@ -98,7 +98,7 @@ Wenn man über das Genre Modular Techno spricht, ist es besonders wichtig, wer m
 
 ## Chirurg (Anthony Child)
 
-Der in Großbritannien geborene Surgeon gilt als einer der ersten Künstler, der modulare Synthesizer im techno-industriellen Trend einführte. Seit den 2010er-Jahren basieren seine Live-Sets auf Eurorack-Modulen und etablieren damit einen Stil, der eher durch „völlig improvisierte Klangerzeugung“ als durch Track-Wiedergabe gekennzeichnet ist. Seine Live-Kompositionen entwickeln sich durch eine Kombination aus Klangveränderungen durch Patching-Änderungen und Rhythmusgenerierung mithilfe eines Sequenzers, sodass das Publikum physische Veränderungen in Rhythmus und Lärm in Echtzeit erleben kann.
+Der in Großbritannien geborene Surgeon gilt als einer der ersten Künstler, der modulare Synthesizer im techno-industriellen Trend einführte. Seit den 2010er Jahren basieren seine Live-Sets auf Eurorack-Modulen und etablieren damit einen Stil, der sich eher durch „völlig improvisierte Klangerzeugung“ als durch Track-Wiedergabe auszeichnet. Seine Live-Kompositionen entwickeln sich durch eine Kombination aus Klangveränderungen durch Patching-Änderungen und Rhythmusgenerierung mithilfe eines Sequenzers, sodass das Publikum physische Veränderungen in Rhythmus und Lärm in Echtzeit erleben kann.
 
 ## Ø [Phase]
 
@@ -183,7 +183,7 @@ Die Entwicklung der Modular Techno-Szene wird nicht nur von musikalischen Faktor
 
 Berlin diente nicht nur als internationales Zentrum für Techno, sondern auch als Testgelände für die modulare Synthesizer-Kultur. Clubs wie Berghain, Tresor und Griessmühle führten ein neues Auftrittsformat in den Kontext der Clubkultur ein, indem sie modulare Künstler im Rahmen von „Elektroakustischem Live“ auftraten, das sich von DJ-Sets unterschied.
 
-Darüber hinaus spielt Superbooth (eine jährlich in Berlin stattfindende Synthesizer-Ausstellung) eine entscheidende Rolle bei der Entwicklung der modularen Kultur. Durch die Zusammenführung zahlreicher Hersteller, Künstler und Schöpfer und den direkten Austausch technischer Informationen und des Know-hows zur Klangerzeugung schritt die klangliche Verfeinerung von Modular Techno schnell voran.
+Darüber hinaus spielt die Superbooth (eine jährlich in Berlin stattfindende Synthesizer-Ausstellung) eine entscheidende Rolle bei der Entwicklung der modularen Kultur. Durch die Zusammenführung zahlreicher Hersteller, Künstler und Schöpfer und den direkten Austausch technischer Informationen und des Know-hows zur Klangerzeugung schritt die klangliche Verfeinerung von Modular Techno schnell voran.
 
 <div class="mermaid">
 graph LR
@@ -271,12 +271,12 @@ Der Wandel von der „Spurwiedergabe“ zur „Klangerzeugung“ hat auch die Au
 
 ---
 
-# Zukunftsaussichten
+# Zukunftsausblick
 
 Es wird erwartet, dass sich Modular Techno weiterentwickeln wird, und zwar in mehrere Richtungen.
 
 ## 1. Ausgereiftheit des digitalen Moduls
-Fortschritte in der DSP-Technologie haben zu einer Zunahme digitaler Module geführt, die mit physikalischer Modellierung, Partikelsynthese und komplexen FM-Algorithmen ausgestattet sind. Dadurch ist es möglich, akustische Ausdrucksformen in Echtzeit zu verarbeiten, die bisher nicht möglich waren.
+Fortschritte in der DSP-Technologie haben zu einer Zunahme digitaler Module geführt, die mit physikalischer Modellierung, Partikelsynthese und komplexen FM-Algorithmen ausgestattet sind. Dadurch ist es möglich, akustische Ausdrücke zu verarbeiten, die bisher in Echtzeit nicht möglich waren.
 
 ## 2. Verallgemeinerung von Hybrid-Live
 Die Konfiguration modular + PC (Ableton, Bitwig) + Drumcomputer wird noch häufiger vorkommen und die Grenzen zwischen traditionellen Club-Sets und Live-Auftritten werden verschwimmen.
@@ -310,7 +310,7 @@ Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „d
 
 ---
 
-# Detaillierte Ausstattungsliste (Modular Techno häufig verwendete Module)
+# Detaillierte Ausstattungsliste (häufig verwendete Module von Modular Techno)
 
 Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig von echten Modular-Techno-Künstlern verwendet werden, mit Schwerpunkt auf Eurorack.
 
@@ -356,7 +356,7 @@ Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig
 - Lärm machen – Mimeophon
 - Industrielle Musikelektronik – Bionic Lester (digitales Filter-/Verzerrungssystem)
 
-## Utility (Mixer/VCAs/Clock/Switch)
+## Utility (Mixer/VCAs/Clock/Schalter)
 - ALM Busy Circuits – Pamelas neues Workout (Uhr)
 - Intellijel – Mixup / Quad VCA
 - Veränderliche Instrumente – Links / Kinks
@@ -380,7 +380,7 @@ Der Live-Auftritt des Surgeon-Duos mit Daniel Bean zeichnet sich durch einen Ans
 
 ## Alte Methoden
 
-Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Rauschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
+Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Geräuschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
 
 ## Rødhåd
 

@@ -9,11 +9,11 @@ permalink: /zh-hant/dale-joyner-love-sensation/
 tags:
 - House
 - 80s
-title: 戴爾·喬伊納——愛的感覺
+title: Dale Joyner – Love Sensation
 ---
 
 
-這張唱片於 1989 年由 Unigram 廠牌發行，是當時舞池中流行的浩室音樂經典。
+1989年にレーベルUnigramからリリースされたこのレコードは、当時のダンスフロアで人気を博したハウス・ミュージックのクラシック。
 
 製作人是加里休斯 (Garry Hughes)，他是一位英國製作人，也是 Björk、Sly & Robbie、Garbage、Pink Floyd 和 The Art Of Noise 等樂團的現場鍵盤手。
 

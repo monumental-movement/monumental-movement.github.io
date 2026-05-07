@@ -10,11 +10,11 @@ tags:
 - Hiphop
 - Deep House
 - 7inch
-title: Janet Jackson – Doesn't Really Matter
+title: Janet Jackson – Ist eigentlich egal
 ---
 
 
-„Doesn’t Really Matter“ ist der Titelsong des Films „Der verrückte Professor“ aus dem Jahr 2000.
+„Doesn’t Really Matter“ ist der Titelsong des Films „The Nutty Professor“ aus dem Jahr 2000.
 
 Das Lied wurde von Janet Jackson und dem US-amerikanischen Musikproduzenten- und Songwriter-Duo Jam & Lewis (Jimmy Jam und Terry Lewis) geschrieben, komponiert und produziert.
 

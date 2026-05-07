@@ -25,7 +25,7 @@ Les frayeurs liées aux sauts appartiennent au passé et, à la place, les basse
 Il s’agissait également d’une application de la découverte psychoacoustique selon laquelle l’audition affecte le psychisme profond plus directement que la vision.
 
 Les films d'horreur de cette époque non seulement suscitaient la peur, mais « érodaient » également le monde intérieur du public à travers le son.
-Au centre de ce changement se trouvait une nouvelle génération de studios de production tels que A24 et Blumhouse.
+Au centre de ce changement se trouvaient une nouvelle génération de studios de production tels qu'A24 et Blumhouse.
 
 ---
 
@@ -167,7 +167,7 @@ La peur ne se limite plus aux oreilles des individus.
 ### Dernier chapitre : La peur est audible – la signification culturelle de l'audio d'horreur moderne
 
 Dans les films d’horreur depuis 2010, le son dépasse la simple présentation et devient un médium qui remet en question l’existence même du film.
-Le souffle de basse de Colin Stetson, la tension électronique de Disasterpeace, le rythme rituel de Bobby Krlic.
+Le souffle de basse de Colin Stetson, la tension électronique de Disasterpeace, le rythme rituel de Bobby Krlic...
 Toutes ces traductions sont des traductions acoustiques de la question « Qu'est-ce que la peur ? »
 
 Les sons de l’horreur résonnent avec l’anxiété sociale et la solitude individuelle.

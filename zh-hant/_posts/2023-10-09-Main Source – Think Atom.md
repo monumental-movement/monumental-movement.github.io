@@ -9,7 +9,7 @@ permalink: /zh-hant/main-source-think-atom/
 tags:
 - Hiphop
 - Rare
-title: 主要來源 – Think Atom
+title: Main Source – Think Atom
 ---
 
 

@@ -58,7 +58,7 @@ Ce n’est pas seulement une fusion, c’est un point de chaos observable.
 Dans "Crush", la pression sonore synthétisée et les rythmes jazz sont compressés à l'extrême.
 Le résultat est une forme improvisée d’énergie électronique.
 Dans la chanson titre "Falaise", la modulation algorithmique du filtre change en millisecondes,
-Le son circule presque comme un « phénomène physique liquide ».
+Le son circule presque comme un « phénomène physique de liquide ».
 
 Dans le studio de Shepherd, Ableton et Eurorack servent de modèles de réseaux neuronaux dans le cerveau.
 Chaque réglage du bouton est une expérience acoustique qui modifie la vitesse à laquelle les neurones se déclenchent.

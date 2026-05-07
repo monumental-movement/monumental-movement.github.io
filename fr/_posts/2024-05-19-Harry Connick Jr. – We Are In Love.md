@@ -10,15 +10,15 @@ tags:
 - Swing
 - Pops
 - 90s
-title: Harry Connick, Jr. – Nous sommes amoureux
+title: Harry Connick, Jr. – We Are In Love
 ---
 
-Harry Connick, Jr. est un chanteur et pianiste de la Nouvelle-Orléans.
-Il a composé la musique du film « Lovers' Premonition » de 1989 et est également actif en tant qu'acteur depuis les années 1990, apparaissant dans « Memphis Belle » et « Independence Day ».
+Harry Connick, Jr.は、ニューオーリンズ出身の歌手・ピアニスト。
+1989年の映画『恋人たちの予感』の音楽を手がけたり、1990年代からは『メンフィスベル』『インデペンデンスデイ』などに出演し俳優としても活動。
 
-En 2019, Harry Connick Jr. aurait vendu plus de 30 millions de disques dans le monde, ce qui le classerait dans le « Top 60 des artistes masculins les plus vendus aux États-Unis » de la Recording Industry Association of America.
+2019年時点で、ハリー・コニックJr.のレコードは世界中で3,000 万枚以上売れたと言われており、米国レコード協会の『米国で最も売れた男性アーティストTop60』にランクインしている。
 
-"We Are In Love" a remporté un Grammy Award en 1991.
+「We Are In Love」は、1991年度グラミー賞を受賞した作品。
 
 #### Liste des chansons
 ```md

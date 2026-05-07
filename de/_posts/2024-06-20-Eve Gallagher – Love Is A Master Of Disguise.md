@@ -10,13 +10,13 @@ tags:
 - Downtempo
 - Garage House
 - 90s
-title: Eve Gallagher – Liebe ist eine Meisterin der Verkleidung
+title: Eve Gallagher – Love Is A Master Of Disguise
 ---
 
 
-Eve Gallagher ist eine House-Sängerin aus Großbritannien.
+Eve Gallagher （イヴ ギャラガー）は、UK出身のハウスミュージックシンガー。
 
-„Love Is A Master Of Disguise“ ist die zweite Single, produziert von Mark Brydon. Frankie Knuckles war als Produzent für den ersten Titel auf der A- und B-Seite beteiligt, und der dritte Titel auf der B-Seite wurde von Steve Anderson von der Produktionsgruppe Brothers In Rhythm neu abgemischt.
+「Love Is A Master Of Disguise」は2枚目のシングルで、プロデューサーはMark Brydon。A面とB面１曲目はFrankie Knuckles（フランキー ナックルズ）がプロデューサーとして参加し、B面３曲目はプロデュースグループBrothers In RhythmのSteve Anderson（スティーブ アンダーソン）がremixしている。
 
 #### Trackliste
 ```md

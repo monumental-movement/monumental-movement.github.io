@@ -197,7 +197,7 @@ Fortement connecté à la santé mentale/méditation/slow tech moderne.
 
 **ASMR/Méditation/Soulagement du stress** : Également utilisé dans les secteurs de la santé mentale et du bien-être.
 
-La fusion avec l'art NFT et la musique générative est également en cours.
+La fusion avec l’art NFT et la musique générative est également en cours.
 
 
 <hr>

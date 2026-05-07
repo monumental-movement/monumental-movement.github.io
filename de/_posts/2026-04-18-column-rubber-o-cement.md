@@ -44,15 +44,32 @@ color: #fff;
 }
 </style>
 
-## サンフランシスコ地下シーンとの関係
+## Verbindung zur Untergrundszene von San Francisco
 
 Um Rubber O Cement zu verstehen, können wir den kulturellen Hintergrund der Stadt San Francisco nicht außer Acht lassen. Seit der Gegenkultur der 1960er Jahre bietet diese Stadt stets einen fruchtbaren Boden für die Akzeptanz von Ausdrucksformen, die vom Mainstream abweichen.
 
 Besonders in den 1980er bis 1990er Jahren bildete sich eine einzigartige Szene an der Schnittstelle von Noise, Industrial, Improvisationsmusik und Performancekunst. In dieser Zeit nahmen Veranstaltungen in Lagerräumen, Galerien und informellen Veranstaltungsorten zu, und Umgebungen, die sich von traditionellen Veranstaltungsorten für Live-Musik unterschieden, spielten eine wichtige Rolle.
 
-Rubber O Cement konzentriert sich auf Aktivitäten in diesen „nicht-institutionellen Räumen“ und entwickelt Veranstaltungen, die Musik, visuelle Elemente und körperlichen Ausdruck integrieren. Die Struktur ist so, dass das Publikum nicht nur ein Empfänger ist, sondern als Teil des Raums involviert ist.
+Rubber O Cement konzentriert sich auf Aktivitäten in diesen „nicht-institutionellen Räumen“ und entwickelt Veranstaltungen, die Musik, visuelle Elemente und körperlichen Ausdruck integrieren. Die Struktur ist so, dass das Publikum nicht nur Empfänger ist, sondern als Teil des Raums involviert ist.
 
 > Ihre Aktivitäten wurden in den „Lücken“ der Stadt angesiedelt.
+
+---
+
+
+## Mitglieder und Rollen
+
+### Kern in variabler Struktur
+
+Rubber O Cement ist ein fließendes Kollektiv und das Konzept der festen Mitglieder ist vage, aber Grux und Mick Goldwater gelten als Kern ihrer Aktivitäten.
+
+Grux ist bekannt für seine visuell und körperlich beeindruckenden Performances, die die Grenzen zwischen Musik, Objekten, Kostümen und Körpern verwischen. Während der eigentlichen Aufführung tragen die Darsteller seltsam geformte Masken und Strukturen und behandeln die Instrumente selbst als Teil ihrer verlängerten Körper. Dadurch ist der Akt des Aufführens nicht nur die Erzeugung von Ton, sondern auch ein visuelles Ereignis.
+
+Mittlerweile beschäftigt sich Mick Goldwater stark mit der Akustik und ist für die Gestaltung des Klangflusses im Raum mithilfe von Elektronik, Feedback und verarbeiteten Signalen verantwortlich. Sein Ansatz zeichnet sich dadurch aus, dass er den Zustand des Klangs und nicht die musikalische Struktur betont.
+
+Die Beziehung zwischen den beiden ist nicht die traditionelle Rollenverteilung zwischen Interpret und Begleiter, sondern fungiert als „zwei Kräfte, die den Raum aus unterschiedlichen Aspekten kontrollieren“.
+
+> Der Kern von Rubber O Cement ist die Schnittstelle zwischen Körperlichkeit und akustischem Design.
 
 ---
 
@@ -84,7 +101,7 @@ Ein weiterer wichtiger Aspekt von Rubber O Cement ist sein DIY-Geist. Anstatt si
 
 Diese Haltung spiegelt die Post-Punk-DIY-Kultur wider, ist aber nicht nur Anti-Kommerzialismus. Vielmehr scheint es sich um eine technologische Suche nach der Kontrolle des Klangs selbst zu handeln.
 
-Auch die Aufnahmemethode unterscheidet sich von der herkömmlichen Albumproduktion und konzentriert sich auf Live-Aufnahmen und Aufnahmen vor Ort. Es besteht eine starke Tendenz, die Bearbeitung auf ein Minimum zu beschränken und den Klang so zu belassen, wie er passiert ist.
+Auch die Aufnahmemethode unterscheidet sich von der herkömmlichen Albumproduktion und konzentriert sich auf Live-Aufnahmen und Aufnahmen vor Ort. Es besteht eine starke Tendenz, die Bearbeitung auf ein Minimum zu beschränken und die Geräusche der Ereignisse so zu belassen, wie sie sind.
 
 <div class="mermaid">
 flowchart LR
@@ -126,6 +143,37 @@ timeline
 
 > Ihre Aktivitäten stehen im Einklang mit Veränderungen in der Gesamtszene.
 
+
+---
+
+### Verschmelzung von Bild und Ton
+
+Wie die tatsächlichen Leistungsbilder belegen, legt Rubber O Cement großen Wert auf visuelle Konstrukte. Labyrinthartige Sets, handgezeichnete Grafiken und seltsam geformte Aufsätze sind keine bloße Dekoration, sondern Elemente, die auf derselben Ebene wie der Sound funktionieren.
+
+Die tragbaren Objekte von Grux sind nicht nur Klangquellen, sondern stören auch als visuelles Rauschen den Raum. Die elektronischen Klänge von Mick Goldwater hingegen fungieren als „unsichtbare Strukturen“, die den Raum füllen.
+
+<div class="mermaid">
+graph TD
+A[Grux] --> C[身体・オブジェクト]
+B[Mick Goldwater] --> D[電子音・空間音響]
+C --> E[視覚ノイズ]
+D --> F[音響構造]
+E --> G[総合的体験]
+F --> G
+</div>
+
+> Bild und Ton sind nicht unabhängig voneinander und werden als dasselbe Phänomen wahrgenommen.
+
+---
+
+### Erweiterbarkeit als Kollektiv
+
+Ein wichtiges Merkmal von Rubber O Cement ist seine Fähigkeit, durch die ständige Einbeziehung externer Teilnehmer zu expandieren, auch wenn der Schwerpunkt auf diesen Kernmitgliedern liegt. Zu jeder Veranstaltung werden unterschiedliche Spieler und Darsteller hinzugefügt, und jedes Mal wird eine andere Struktur generiert.
+
+Aufgrund dieser Struktur hat Rubber O Cement keinen festen Stil, sondern fungiert vielmehr als ein Projekt, das auf Veränderung selbst basiert. Grux und Mick Goldwater existieren als „Achse“, die diesen Wandel steuert.
+
+> Rubber O Cement wird durch Beziehungen definiert, nicht durch Mitglieder.
+
 ---
 
 ## Vergleich mit Zeitgenossen
@@ -144,7 +192,7 @@ Darüber hinaus unterhält es enge Beziehungen zu Galerien und Kunsträumen und 
 
 Heutzutage werden improvisierte Musik und Lärm in einer digitalen Umgebung neu erfunden, aber der Ansatz von Rubber O Cement bleibt relevant. Insbesondere Ausdrücke, die Leerzeichen und den Körper beinhalten, haben einen Wert, der online nur schwer zu ersetzen ist.
 
-Darüber hinaus sind die variable Zusammensetzung der Mitglieder und die nicht festgelegten Arbeitsformate in hohem Maße mit der zeitgenössischen Kooperationskultur vereinbar. Ihre Modelle dienen als Bezugspunkt für Künstler, die auf Projektbasis arbeiten.
+Darüber hinaus sind die variable Zusammensetzung der Mitglieder und die nicht festen Arbeitsformate gut mit der modernen Kollaborationskultur vereinbar. Ihre Modelle dienen als Bezugspunkt für Künstler, die auf Projektbasis arbeiten.
 
 > Rubber O Cement stellt eine Struktur dar, die auch in der aktuellen Darstellungsumgebung aktualisiert werden kann.
 

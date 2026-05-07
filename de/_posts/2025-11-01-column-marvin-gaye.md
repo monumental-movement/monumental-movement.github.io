@@ -89,7 +89,7 @@ Die Erfahrungen dieser Zeit bilden den Hintergrund, der zum Wendepunkt von „Wh
 ## Kapitel 3: Wendepunkte – Von „What’s Going On“ zu „Here, My Dear“ (1970-1976)
 
 ### „What’s Going On“ (1971): Musikalische Anklage und Transformation
-Am 21. Mai 1971 erschien das Album „What’s Going On“. Er konzentriert sich auf soziale Themen wie den Vietnamkrieg, Armut und Umweltzerstörung und hat sich als jemand etabliert, der nicht nur singt, sondern auch spricht. Dies war ein revolutionäres Ereignis innerhalb der „Hitfabrik“ Motown.
+Am 21. Mai 1971 erschien das Album „What’s Going On“. freigegebenマに据え、彼はただ歌うだけでなく“語る”者としての位置を確立しました. Dies war ein revolutionäres Ereignis innerhalb der „Hitfabrik“ Motown.
 
 Bei diesem Album war er selbst am Schreiben, Komponieren und Produzieren des Albums beteiligt und zeigte damit seine Unabhängigkeit als Künstler.
 
@@ -113,7 +113,7 @@ Inmitten all dessen suchte er nach einem Comeback, nach neuen Klängen und neuen
 ### „Midnight Love“ (1982)/„Sexuelle Heilung“
 Am 8. November 1982 veröffentlichte Marvin Gaye sein erstes Album nach der Übertragung, „Midnight Love“, und feierte damit ein großes Comeback.
 
-Ein wichtiger Punkt dieses Albums ist die durchgehende Verwendung des berühmten Roland TR-808.
+Ein wesentlicher Punkt dieses Albums ist die durchgehende Verwendung des berühmten Roland TR-808.
 
 #### Aussehen und Bedeutung von Roland TR-808
 Der Roland TR-808 (allgemein bekannt als „808“) ist eine analoge/programmierbare Rhythmusmaschine, die in den frühen 1980er Jahren eingeführt wurde und damals keinen kommerziellen Erfolg hatte.
@@ -143,8 +143,8 @@ Marvin Gaye war nicht nur ein Hitmacher, sondern auch jemand, der Künstlern den
 Darüber hinaus zeigte der Einsatz des Roland TR-808 bei „Midnight Love“ auch neue Möglichkeiten für die Fusion von elektronischem Equipment und Soulmusik auf.
 
 ### Persönliches seltsames Schicksal
-Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart das menschliche Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
-Wenn man darüber hinaus aus der „Was wäre, wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? Sie zeugen von einem „seltsamen Leben“, in dem Zufall und Notwendigkeit ineinander greifen.
+Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart ein menschliches Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
+Wenn man darüber hinaus aus der „Was wäre, wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? They are evidence of a ``strange life'' where chance and necessity intertwine.
 
 ### Neubewertung und Erweiterung des Ausdrucks in der Neuzeit
 Auch nach Gayes Tod wurde seine Musik remastered, wiederentdeckt und gesampelt und beeinflusst auch heute noch neue Generationen. Beispielsweise wurde auch über die Entdeckung unveröffentlichter Demo-Soundquellen berichtet.
@@ -173,7 +173,7 @@ Ich hoffe, dass dieses Manuskript eine Gelegenheit bietet, Marvin Gaye, seine Mu
 ---
 
 
-## Nachtrag: Chronologie/Diagramme
+## Nachtrag: Chronologie/Charts
 
 
 ### Chronologie: Hauptereignisse
@@ -181,7 +181,7 @@ Ich hoffe, dass dieses Manuskript eine Gelegenheit bietet, Marvin Gaye, seine Mu
 | Jahr | Veranstaltungen |
 |----|--------|
 | 2. April 1939 | Marvin Pentz Gay Jr. wird in Washington, D.C. geboren |
-| Um 1955-56 | Trat der US Air Force bei und wurde nach kurzer Zeit entlassen. |
+| Um 1955-56 | Trat der US-Luftwaffe bei und wurde nach kurzer Zeit entlassen. |
 | 1961 | Debüt als Solosänger. |
 | 1964 | Hit „How Sweet It Is (To Be Loved by You)“ veröffentlicht. |
 | 1968 | „I Heard It Through the Grapevine“ wird Motowns größter Hit. |

@@ -19,7 +19,7 @@ title: '[Chronique] Le genre de musique que vous écoutez dans votre jeunesse in
 
 ## Prologue : Pourquoi la « musique que j'écoutais quand j'étais jeune » demeure-t-elle ?
 
-Texte : mmr｜Thème : Vérifier les effets à long terme de la musique écoutée à l'adolescence et au début de l'âge adulte sur les valeurs, les perspectives de carrière et la participation sociale à l'aide de données de recherche empiriques provenant de divers pays
+Texte : mmr｜Thème : Examiner les effets à long terme de la musique écoutée à l'adolescence et au début de l'âge adulte sur les valeurs, les perspectives de carrière et la participation sociale à l'aide de données de recherche empiriques provenant de divers pays.
 
 Lorsque de nombreuses personnes repensent à une certaine période de leur vie, elles évoquent des souvenirs fortement associés à une musique spécifique. Ce n'est pas seulement de la nostalgie. La psychologie et les neurosciences ont montré à plusieurs reprises que les expériences vécues depuis la fin de l’adolescence jusqu’au début de la vingtaine ont tendance à devenir le fondement de notre image de soi et de nos jugements de valeur.
 
@@ -71,7 +71,7 @@ Ceux qui sont familiers avec la culture musicale expérimentale et contestataire
 
 ## Chapitre 3 : Effets sur la conscience politique et la participation sociale
 
-Les recherches analysant la relation avec la conscience politique montrent que les personnes qui écoutaient de la musique avec des messages sociaux forts lorsqu'elles étaient jeunes avaient tendance à avoir des taux de vote et de participation aux mouvements sociaux plus élevés à l'âge adulte. L’étude est décomposée par génération et comparée sur plusieurs décennies.
+Les recherches qui analysent la relation avec la conscience politique montrent que les personnes qui écoutaient de la musique avec des messages sociaux forts lorsqu'elles étaient jeunes avaient tendance à avoir des taux de vote et de participation aux mouvements sociaux plus élevés à l'âge adulte. L’étude est décomposée par génération et comparée sur plusieurs décennies.
 
 D’un autre côté, ceux qui connaissent une culture musicale qui met l’accent sur le divertissement et l’individualisme sont plus susceptibles d’exprimer leurs valeurs à travers un comportement de consommation et un mode de vie plutôt que par une participation politique institutionnelle.
 
@@ -127,7 +127,7 @@ La musique pop est la culture la plus largement partagée et fonctionne comme un
 
 ### Tranche d'âge ayant le plus grand impact
 
-L'influence de la pop est la plus grande entre 12 et 18 ans. À une époque où la vie scolaire et les relations avec les pairs sont centrales, les succès courants agissent comme un ciment social.
+L'influence de la pop est la plus grande entre 12 et 18 ans. À une époque où la vie scolaire et les relations avec les pairs sont centrales, les succès courants jouent le rôle de ciment social.
 
 > La pop joue le rôle de bâtisseur d'un terrain commun générationnel.
 
@@ -167,7 +167,7 @@ Depuis les années 2000, à mesure que le système est devenu plus fluide, la re
 
 ### Branche de J-POP/Subculture/Club Culture
 
-Depuis les années 2000 au Japon, les expériences musicales des jeunes se divisent largement en trois catégories. La J-POP constitue toujours un terrain d’entente générationnel et est partagée dans les contextes scolaires et médiatiques. D’un autre côté, la musique sous-culturelle liée à l’anime et à la culture Internet a joué un rôle dans l’intériorisation forte des goûts et préférences individuels.
+Depuis les années 2000 au Japon, les expériences musicales des jeunes se divisent largement en trois catégories. La J-POP constitue toujours un terrain d’entente générationnel et est partagée dans les contextes scolaires et médiatiques. D’un autre côté, la musique sous-culturelle liée à l’anime et à la culture Internet a joué un rôle dans l’intériorisation forte des goûts et des préférences individuels.
 
 Par ailleurs, dans les zones urbaines, la culture club et la musique électronique fonctionnent comme de nouvelles expériences sociales liées à l’économie nocturne. Ces divergences créent des différences dans les visions de carrière et les choix de styles de travail.
 
@@ -208,7 +208,7 @@ D --> E[成人後の行動傾向]
 
 ---
 
-## Dernier chapitre : Dans quelle mesure la musique façonne-t-elle la vie ?
+## Chapitre final : Dans quelle mesure la musique façonne-t-elle la vie ?
 
 Ce que montrent les données empiriques n’est pas une simple cause et effet selon lequel la musique détermine nos vies. La culture musicale continue d'agir comme une condition initiale des valeurs, de la participation sociale et des conceptions professionnelles.
 
@@ -234,7 +234,7 @@ Cette colonne est construite sur la base des recherches empiriques, des enquête
 
 ・Rubin, D.C., Rahhal, T.A. et Poon, L.W. (1998) On se souvient mieux des choses apprises au début de l'âge adulte. Mémoire et cognition.
 
-・Arnett, J. J. (2000) L'âge adulte émergent : une théorie du développement de la fin de l'adolescence jusqu'à la vingtaine. Psychologue américain.
+・Arnett, J. J. (2000) L'âge adulte émergent : une théorie du développement de la fin de l'adolescence jusqu'aux années vingt. Psychologue américain.
 
 ### Culture musicale et comportement social/participation politique
 
@@ -244,7 +244,7 @@ Cette colonne est construite sur la base des recherches empiriques, des enquête
 
 ・Frith, S. (1996) Musique et identité.
 
-### Choix d’études/profession et capital culturel
+### Choix d’études/professionnel et capital culturel
 
 ・Bourdieu, P. (1984) Distinction : Une critique sociale du jugement de goût.
 

@@ -24,7 +24,7 @@ Text: mmr｜Thema: Die Dynamik von Eigentum und kulturellem Kapital, die durch p
 
 Selbst in einer Zeit, in der Musik und Videos sofort per Streaming bereitgestellt werden können, sind physische Medien wie Schallplatten, Kassetten, CDs und Blu-rays nicht verschwunden. Vielmehr wird es bei einem bestimmten Personenkreis immer wieder mit großer Begeisterung neu bewertet.
 
-Besitz ist eine andere Erfahrung als bloßer Zugang. Die Haptik, das Gewicht, der Geruch der Hülle, der Typ in den Linernotes, die Kratzer auf der CD. Darin ist Zeit eingemeißelt. Die Daten werden aktualisiert, aber die Dinge verblassen. Das Paradoxon, dass Verwitterung Werte schafft, ist der Kern der Sammlerkultur.
+Besitz ist eine andere Erfahrung als bloßer Zugang. Die Haptik, das Gewicht, der Geruch der Hülle, der Typ in den Linernotes, die Kratzer auf der CD. Darin ist Zeit eingemeißelt. Die Daten werden aktualisiert, aber die Dinge verblassen. Das Paradoxon, dass Verwitterung Werte schafft, ist das Herzstück der Sammlerkultur.
 
 Seit dem 20. Jahrhundert haben sich die Medien mit der Entwicklung der Aufnahmetechnik verändert. Mit jeder Veränderung verschwanden die „alten Medien“ jedoch nicht, sondern blieben und bekamen eine andere Bedeutung. Schallplatten sind zu Antiquitäten geworden, Schallplatten sind zu Audio-Hobbys geworden, Kassetten sind zu einer DIY-Kultur geworden und CDs wurden neu bewertet.
 
@@ -52,13 +52,13 @@ color: #fff;
 
 ### Die Ära der Phonographen und Schallplatten
 
-Im Jahr 1877 erfand Thomas Edison den Phonographen und ermöglichte damit die Aufzeichnung von Tönen. Anfangs handelte es sich um eine Wachsröhre, später wurde daraus eine Scheibenform. Die kommerzielle Aufnahme begann in den 1890er Jahren und Musik wurde zum ersten Mal zu einem kommerziellen Produkt, das reproduziert werden konnte.
+Im Jahr 1877 erfand Thomas Edison den Phonographen und ermöglichte damit die Aufzeichnung von Tönen. Ursprünglich handelte es sich um eine Wachsröhre, später wurde daraus eine Scheibenform. Die kommerzielle Aufnahme begann in den 1890er Jahren und Musik wurde zum ersten Mal zu einem kommerziellen Produkt, das reproduziert werden konnte.
 
 Zu Beginn des 20. Jahrhunderts wurden SP-Discs mit 78 U/min zum Standard und Plattenfirmen trieben weltweit die Industrialisierung voran. Musik hat sich von etwas, das gespielt wird, zu etwas gewandelt, das gekauft wird.
 
 ### Das Erscheinungsbild der LP und das Albumkonzept
 
-1948 veröffentlichte Columbia Records die 33 1/3 RPM LP. Es wurde möglich, über längere Zeiträume aufzunehmen, und das Albumformat wurde etabliert. Die Beschränkung auf etwa 20 Minuten pro Seite wirkte sich auf die Songstruktur und die Erzählung aus.
+Im Jahr 1948 veröffentlichte Columbia Records die 33 1/3 RPM LP. Es wurde möglich, über längere Zeiträume aufzunehmen, und das Albumformat wurde etabliert. Die Beschränkung auf etwa 20 Minuten pro Seite wirkte sich auf die Songstruktur und die Erzählung aus.
 
 In den späten 1960er Jahren produzierten die Beatles „Sgt. „Pepper's Lonely Hearts Club Band“ war ein Paradebeispiel für die Präsentation des Albums als Gesamtwerk. Die Jackenkunst und das Innenfutter wurden Teil der Werkwelt und steigerten ihren Wert als Sammlerobjekt.
 
@@ -70,7 +70,7 @@ In den späten 1960er Jahren produzierten die Beatles „Sgt. „Pepper's Lonely
 
 1982 wurde die von Sony und Philips gemeinsam entwickelte Compact Disc auf den Markt gebracht. Es wurde in den 1990er Jahren aufgrund seiner Haltbarkeit, seines geringen Geräuschpegels und seiner einfachen Cue-Einstellung populär.
 
-> Technologische Innovationen ordnen die Rollen traditioneller Medien immer neu, anstatt sie zu beseitigen.
+> Technologische Innovationen ordnen die Rolle traditioneller Medien immer neu, anstatt sie zu beseitigen.
 
 ---
 
@@ -98,7 +98,7 @@ In ähnlicher Weise kombinierte Discogs, gegründet im Jahr 2000, eine Musikdate
 
 ## 3. Paradox des digitalen Zeitalters
 
-In den frühen 2000er Jahren schrumpften die physischen Medien aufgrund der Verbreitung von MP3s und der Ausweitung des Dateiaustauschs rapide. Seit den 2010er Jahren steigen die Verkäufe analoger Schallplatten jedoch wieder an.
+In den frühen 2000er-Jahren schrumpften die physischen Medien aufgrund der Verbreitung von MP3s und der Ausweitung des Dateiaustauschs rapide. Seit den 2010er Jahren steigen die Verkäufe analoger Schallplatten jedoch wieder an.
 
 In den Vereinigten Staaten wird es laut Statistiken der Recording Industry Association of America in den 2020er Jahren Jahre geben, in denen die Plattenverkäufe die von CDs übersteigen werden. Dies ist ein Phänomen, das nicht allein durch Nostalgie erklärt werden kann.
 

@@ -9,15 +9,15 @@ permalink: /de/poseidon-supertransonic/
 tags:
 - Trance
 - 00s
-title: Poseidon – Supertransonisch
+title: Poseidon – Supertransonic
 ---
 
 
-Ein Trance-Track, der im Jahr 2000 von DJ Poseidon (Emilio Bongarzone) auf dem britischen Label Hope Recordings veröffentlicht wurde.
+DJ Poseidon (Emilio Bongarzone)が、2000年に UKのレーベルHope Recordings からリリースしたTranceトラック。
 
-A ist ein Remix von Jody Wisternoff, einem DJ/Produzenten aus Bristol, der mit Nick Warren Teil des Duos Way Out West ist.
+Aは、ブリストル出身のDJ／プロデューサーであり、Nick Warren とのデュオWay Out West (ウェイアウトウエスト)として活動するJody Wisternoffによるリミックス。
 
-B ist ein Remix des deutschen DJ/Produzenten Timo Maas.
+Bは、ドイツのDJ／プロデューサーTimo Maas(ティモ・マース)によるリミックス。
 
 #### Trackliste
 ```md

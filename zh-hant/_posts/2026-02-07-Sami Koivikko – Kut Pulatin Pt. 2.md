@@ -15,7 +15,7 @@ title: 薩米‧科維克 (Sami Koivikko) – 庫特普拉廷 Pt. 2
 
 
 
-Sami Koivikko 是一位來自芬蘭的電子音樂製作人。他被稱為極簡 techno 和 click techno 的旗手，曾在德國流行廠牌 Shitkatapult、Spectral Sound 和 Festplatten 等多個廠牌上發行作品。
+Sami Koivikko 是一位来自芬兰的电子音乐制作人。他被稱為極簡 techno 和 click techno 的旗手，曾在德國流行廠牌 Shitkatapult、Spectral Sound 和 Festplatten 等多個廠牌上發行作品。
 
 「Kut Pulatin Pt. 2」是 Shitkatapult 廠牌於 2002 年發行的一首 Techno/Minimal 曲目，也是像徵 2000 年代極簡 Techno 運動的一首作品。
 

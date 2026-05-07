@@ -9,13 +9,13 @@ permalink: /fr/tdr-squelch-part-1/
 tags:
 - Trance
 - Tech House
-title: TDR – Squelch (Partie 1)
+title: TDR – Squelch (Part 1)
 ---
 
 
-Tom De Ridder "Squelch (Part 1)" de Tom De Ridder est un morceau de trance/tech house sorti en 2005 sur le label néerlandais tech/progressive house/trance Oxygen Recordings.
+Tom De Ridder トム・デ・リッダーによる「Squelch (Part 1)」は、オランダのテック・プログレッシブハウス・トランスレーベルOxygen Recordingsから2005年にリリースされたトランス・テックハウストラック。
 
-Le premier morceau de la face A est un remix du DJ/producteur néerlandais Sander Van Doorn, qui a remixé des groupes tels que Sia, The Killers, Swedish House Mafia et Depeche Mode.
+A面１曲目は、シーア、ザ・キラーズ、スウェディッシュハウスマフィア、デペッシュ・モード などのremixを手がけるオランダのDJ /プロデューサーSander Van Doorn（サンダー・ヴァン・ドーン ）によるremix。
 
 #### Liste des chansons
 ```md

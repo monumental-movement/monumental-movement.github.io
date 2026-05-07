@@ -9,15 +9,15 @@ permalink: /de/kissogram-33hz-my-friend-is-a-seahorse/
 tags:
 - House
 - Tech House
-title: Kissogram / 33HZ – Mein Freund ist ein Seepferdchen / Hitzewallungen
+title: Kissogram / 33HZ – My Friend Is A Seahorse / Hot Flashes
 ---
 
 
-„My Friend Is A Seahorse / Hot Flashes“ ist ein von Kissogram und 33HZ gemeinsam produzierter Song. Kissogram ist ein deutsches Duo für elektronische Musik und 33HZ ist eine amerikanische elektronische Popband.
+「My Friend Is A Seahorse / Hot Flashes」は、キソグラムと33HZが共同制作した楽曲です。キソグラムはドイツのエレクトロニックミュージックデュオ、33HZはアメリカのエレクトロニックポップバンドです。
 
-„My Friend Is A Seahorse“ ist ein Song, der Kithograms charakteristischen Sound aus elektronischer Musik und Pop-Elementen mit einer eingängigen Melodie und einem eingängigen Rhythmus sowie einem einzigartigen Gesang verbindet. Der gesamte Song ist voller Verspieltheit und positiver Energie.
+「My Friend Is A Seahorse」は、キソグラムのシグネチャーサウンドであるエレクトロニックミュージックとポップの要素を組み合わせた楽曲で、キャッチーなメロディとリズム、独特なボーカルなど楽曲全体に遊び心とポジティブなエネルギーが溢れています。
 
-„Hot Flashes“ verfügt über einen tanzbaren Beat, eine eingängige Melodie und elektronische Pop-Elemente, was es zu einem Song macht, der den Musikstil von 33HZ widerspiegelt.
+「Hot Flashes」は、ダンサブルなビートとキャッチーなメロディ、エレクトロニックポップの要素が前面に出ており、33HZの音楽スタイルを反映した一曲となっています。
 
 #### Trackliste
 ```md

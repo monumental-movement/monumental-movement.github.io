@@ -9,11 +9,11 @@ permalink: /fr/tresor-compilation-vol-7/
 tags:
 - Techno
 - German Techno
-title: Trésor Compilation Vol. 7
+title: Tresor Compilation Vol. 7
 ---
 
 
-"Tresor Compilation Vol. 7" est un album de compilation sorti en 1999.
+「Tresor Compilation Vol. 7」は、1999年にリリースされたコンピレーションアルバムです。
 
 #### Liste des chansons
 ```md

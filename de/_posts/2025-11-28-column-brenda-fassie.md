@@ -93,7 +93,7 @@ Anschließend begann er seine Karriere als Leadsänger von Brenda and the Big Du
 
 # 4. Nationaler Erfolg und Meisterwerke (1983–1990)
 
-In den 1980er Jahren veröffentlichte sie eine Reihe von Singles und Alben und wurde zu einer führenden Figur des Black Pop in Südafrika. Ihr Ausdruck war reich an Bühnenkostümen, Choreografien und Darbietungen, die das Publikum einbezogen, und sie war in Bezug auf die Medien- und Konzertmobilisierung sehr beliebt.
+In den 1980er Jahren veröffentlichte sie eine Reihe von Singles und Alben und wurde zu einer führenden Figur des Black Pop in Südafrika. Ihr Ausdruck war reich an Bühnenkostümen, Choreografien und Darbietungen, die das Publikum einbezogen, und sie erfreute sich großer Beliebtheit in Bezug auf Medien und Konzertmobilisierung.
 
 Einige der repräsentativen Lieder
 
@@ -123,9 +123,9 @@ Brendas Texte vermischten sich oft mit dem Township-Leben, den Prüfungen der sc
 
 # 7. Auferstehung und Goldenes Zeitalter (1996–1999)
 
-Seit 1996 konzentriert sie ihre Bemühungen auf die Musikproduktion und erzielte mit mehreren Alben kommerziellen Erfolg. Vor allem Werke wie „Memeza“ und „Nomakanjani“ waren große Erfolge und festigten ihren Status Ende der 1990er Jahre.
+Seit 1996 konzentriert sie ihre Bemühungen auf die Musikproduktion und erzielte mit mehreren Alben kommerziellen Erfolg. Vor allem Werke wie „Memeza“ und „Nomakanjani“ waren große Hits und festigten ihren Status Ende der 1990er Jahre.
 
-In Werken aus dieser Zeit kann man hören, wie Brendas stimmlicher Ausdruck reifer wird, auch wenn sie Kwaito- und Tanzbeats einbezieht. Ihr Charisma auf der Bühne, die geschickte Einbindung des Publikums und die produktionstechnische Raffinesse bei den Aufnahmen brachten ihnen erneut breite Unterstützung ein.
+In Werken aus dieser Zeit kann man hören, wie Brendas stimmlicher Ausdruck reifer wird, auch wenn sie Kwaito- und Tanzbeats einbezieht. Ihr Charisma auf der Bühne, die geschickte Einbindung des Publikums und ihre produktionstechnische Raffinesse bei den Aufnahmen brachten ihnen erneut breite Unterstützung ein.
 
 ---
 

@@ -38,7 +38,7 @@ color: #fff;
 
 ### Früher Hintergrund und musikalische Ausbildung
 
-Luke Slater kam durch den Einfluss seines Vaters mit der Musik in Berührung und wurde bereits im Alter von 12 Jahren Schlagzeuger. In den späten 1980er Jahren erlangte er als DJ in Londons Underground-Clubs Bekanntheit. Sie debütierten 1990 mit „Momentary Vision“ und sind seitdem aus der Entwicklung des Techno nicht mehr wegzudenken.
+Luke Slater kam durch den Einfluss seines Vaters mit der Musik in Berührung und wurde bereits im Alter von 12 Jahren Schlagzeuger. In den späten 1980er Jahren erlangte er als DJ in Londons Underground-Clubs Bekanntheit. Sie debütierten 1990 mit „Momentary Vision“ und sind seitdem aus der Techno-Entwicklung nicht mehr wegzudenken.
 
 In den 90er Jahren veröffentlichten sie mit Warp und NovaMute Werke von Ambient bis Minimal, seit den 2000er Jahren sind sie eng mit dem Berliner Prestigeclub Berghain und dem Label Ostgut Ton verbunden und haben sich schnell zu einem Vertreter der europäischen Technoszene entwickelt.
 
@@ -66,7 +66,7 @@ flowchart TD
 
 ---
 
-#### Planetary Assault Systems (PAS)
+#### Planetare Angriffssysteme (PAS)
 
 Dies ist eines der herausragenden Projekte von Luke Slater seit den frühen 1990er Jahren.
 Mit seinem harten und minimalistischen Techno-Sound gilt es als Symbol für „Peak-Time-Techno“, der in Clubs auf der ganzen Welt gespielt wird.
@@ -203,7 +203,7 @@ Unter seinem Solonamen ist er für eine breite Palette an Werken bekannt, die Te
 
 **Position**
 
-Slater gilt als flexibler, szeneübergreifender Künstler, der die Härte des Techno mit einer Pop-Sensibilität verbindet.
+Slater gilt als flexibler Künstler, der die Szene durchquert und die Härte des Techno mit einer Pop-Sensibilität in Einklang bringt.
 Es legte den Grundstein für spätere Pseudonyme wie Planetary Assault Systems und The 7th Plain.
 
 ---

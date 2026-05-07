@@ -18,7 +18,7 @@ Baambata Flash System ist ein italienischer Künstler, auch bekannt als Sergio F
 
 „Love Attack“ ist ein Eurobeat/Hi NRG-Track, der 1989 vom italienischen Italo Disco/Eurobeat-Label Asia Records veröffentlicht wurde.
 
-Die Produzenten sind Aston, Martin & Fadinger (F.C.F.), ein Team der berühmten Italo-Dance-/Italo-Disco-Produzenten Mauro Farina, Florian Fadinger und Giuliano Crivellente.
+Die Produzenten sind Aston, Martin & Fadinger (F.C.F.), ein Team der berühmten Italo-Tanz-/Italo-Disco-Produzenten Mauro Farina, Florian Fadinger und Giuliano Crivellente.
 
 #### Trackliste
 ```md

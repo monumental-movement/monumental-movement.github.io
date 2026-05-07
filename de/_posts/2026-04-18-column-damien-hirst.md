@@ -11,23 +11,22 @@ tags:
 - Art
 - Punk
 - Music
-title: '[Kolumne] Damien Hirst und die Geschwindigkeit des Punk: der Produktionsrhythmus,
-  der vom Anti-Establishment angetrieben wird'
+title: 【コラム】 ダミアン・ハーストとパンクの速度――反体制性が駆動する制作のリズム
 ---
 
 
 
-## Einführung: Lärm und Geschwindigkeit im Studio
+## 導入：スタジオに流れるノイズとスピード
 
-Text: mmr｜Thema: Interpretation des Einflusses der in der Produktionsumgebung fließenden Musik auf die Geschwindigkeit und Ideologie von Werken in der zeitgenössischen Kunst seit den 1980er Jahren, basierend auf der Beziehung zwischen Damien Hirst und Punk.
+文：mmr｜テーマ：1980年代以降の現代美術において、制作環境に流れる音楽が作品の速度や思想に与えた影響を、ダミアン・ハーストとパンクの関係から読み解く
 
-Von den späten 1980er bis in die 1990er Jahre erlebte die britische zeitgenössische Kunst einen großen Wandel. Im Mittelpunkt stand Damien Hirst. Über seine Werke wird oft wegen ihrer visuellen Intensität gesprochen, wie etwa in Formalin getränkte Tiere und die Anordnung medizinischer Instrumente, aber im Hintergrund seiner Schöpfung gab es einen klaren „Geräusch“.
+1980年代末から90年代にかけて、イギリス現代美術は大きく転換した。その中心にいたのが Damien Hirst である。彼の作品はホルマリン漬けの動物や医療器具の配置といった視覚的な強度で語られることが多いが、その制作の背景には、明確に「音」があった。
 
-Das Symbol dieses Sounds ist Punk, vertreten durch The Sex Pistols.
+その音の象徴が The Sex Pistols に代表されるパンクである。
 
-Punk war mehr als nur ein Musikgenre; Es war eine Haltung der Schnelligkeit, Zerstörung und Systemfeindlichkeit. In Hearsts Studio fungierte Musik nicht als Dekoration, sondern als Motor, der das Tempo und die Entscheidungsfindung seiner Produktionen beschleunigte.
+パンクとは単なる音楽ジャンルではなく、「速度」「破壊」「制度への敵対」という態度そのものだった。ハーストのスタジオにおいて音楽は装飾ではなく、制作のテンポや判断を加速させるエンジンのように機能していた。
 
-> Musik war nicht nur ein Hintergrund, sondern fungierte als Gerät, das die Geschwindigkeit der Produktion selbst bestimmte.
+> 音楽は単なる背景ではなく、制作の速度そのものを決定づける装置として機能していた。
 ---
 
 <style type="text/css">
@@ -44,95 +43,95 @@ color: #fff;
 </style>
 
 
-## Was ist Punk? Ästhetik des Anti-Establishments und der Unmittelbarkeit
+## パンクとは何か：反体制と即時性の美学
 
-### Londoner Explosion der 1970er Jahre
+### 1970年代ロンドンの爆発
 
-Als die Sex Pistols Ende der 1970er Jahre in Großbritannien auftraten, verschärften sich die wirtschaftliche Rezession und die Jugendarbeitslosigkeit. In einer solchen sozialen Situation war ihre Musik von durch und durch Einfachheit und Aggressivität geprägt.
+The Sex Pistols が登場した1970年代後半のイギリスは、経済不況と若者の失業問題が深刻化していた。そうした社会状況の中で、彼らの音楽は徹底したシンプルさと攻撃性を持っていた。
 
-Wie in ihrem Signature-Song „God Save the Queen“ zu sehen ist, basiert Punk auf einer eklatanten Ablehnung bestehender Wertesysteme. Impuls und Unmittelbarkeit haben Vorrang vor spieltechnischer Raffinesse.
+代表曲「God Save the Queen」に見られるように、パンクは既存の価値体系への露骨な否定を前提としている。演奏技術の洗練よりも、衝動と即時性が優先される。
 
-### Gedanken zu DIY und Zerstörung
+### DIYと破壊の思想
 
-Ein wichtiges Merkmal des Punk ist sein DIY-Geist. Machen Sie es selbst und präsentieren Sie es selbst. An dem Prozess sind keine Institutionen oder Behörden beteiligt.
+パンクの重要な特徴はDIY精神である。自分たちで作り、自分たちで発表する。そのプロセスは制度や権威を介さない。
 
-Diese Struktur steht in starkem Zusammenhang mit der Kritik am Akademismus und am Marktsystem in der Kunst. Vor Hearst bestimmten Galerien und Kritiker die Werte in der Kunstwelt, aber Punk hatte die Macht, genau diese Struktur außer Kraft zu setzen.
+この構造は美術におけるアカデミズムや市場制度に対する批判と強く共鳴する。ハーストが登場する以前の美術界では、ギャラリーや批評家が価値を決定していたが、パンクはその構造自体を無効化する力を持っていた。
 
-> Punk war nicht nur Musik, sondern auch ein Denkmodell, um das bestehende System kurzzuschließen.
-
----
-
-## Hearsts frühe Aktivitäten und sein musikalisches Umfeld
-
-### Goldsmiths College und autonome Ausstellungen
-
-Während seines Studiums am Goldsmiths College in London veranstaltete Damien Hirst die Ausstellung „Freeze“ (1988), die er selbst kuratierte. Dieser Act selbst hat schon Punk-Charakter.
-
-Seine Haltung, seinen eigenen Raum zu schaffen, ohne sich auf bestehende Galerien zu verlassen, überschneidet sich mit der unabhängigen Bewegung in der Musikszene.
-
-### Studioatmosphäre
-
-An den Produktionsstandorten von Hearst soll immer Musik gespielt haben. Vor allem Punk- und Rockmusik spielten eine wichtige Rolle bei der Aufrechterhaltung des Geschwindigkeitsgefühls.
-
-Bei seiner Arbeit, die sich aus repetitiven Aufgaben und Massenproduktion zusammensetzte, diente Musik nicht dazu, die Konzentration aufrechtzuerhalten, sondern vielmehr, um Beschleunigung und Entscheidungsfindung zu fördern.
-
-> Musik am Produktionsstandort diente nicht dazu, das Denken zu vertiefen, sondern um das Urteilsvermögen zu beschleunigen.
+> パンクは音楽であると同時に、既存制度をショートさせるための思考モデルでもあった。
 
 ---
 
-## Kunst als Geschwindigkeit: Veränderungen im Produktionsprozess
+## ハーストの初期活動と音楽環境
 
-### Strategie, sich nicht zu verlaufen
+### ゴールドスミス・カレッジと自律的展示
 
-Die Punk-Ästhetik liegt in der Unmittelbarkeit des „Tuns vor dem Denken“. Diese Haltung lässt sich auch in Hirsts Inszenierung erkennen.
+Damien Hirst はロンドンのゴールドスミス・カレッジで学びながら、自らキュレーションした展覧会「Freeze」（1988）を開催する。この行為自体がすでにパンク的である。
 
-Seine Formalin-Werke, eines seiner Meisterwerke, zeichnen sich durch einen sehr direkten Prozess von der Konzeption bis zur Umsetzung aus. Sobald das Konzept feststeht, setzen wir es sofort in Material um.
+既存のギャラリーに依存せず、自ら場を作り出すという態度は、音楽シーンにおけるインディペンデントな動きと重なる。
 
-### Assistenzsysteme und industrielle Produktion
+### スタジオの空気
 
-Schon früh etablierte Hearst ein Produktionssystem mit Assistenten. Dies erinnert an Andy Warhols Factory, ist jedoch effizienter im Betrieb.
+ハーストの制作現場では、常に音楽が流れていたとされる。特にパンクやロックは、作業のスピード感を維持するために重要な役割を果たしていた。
 
-Aus musikalischer Sicht handelt es sich hier eher um eine „Produktion“ als um eine Band. Es hat eine Struktur, die eine große Menge an Leistung erzeugt und gleichzeitig einen Rhythmus beibehält.
+反復作業や大量制作を伴う彼の作品において、音楽は集中力の維持ではなく、むしろ「加速」と「決断」を促すための要素だった。
 
-> Die Produktionsszene hat sich zu einem System gewandelt, das nicht vom inneren Selbst des Einzelnen, sondern von Rhythmus und Arbeitsteilung angetrieben wird.
-
----
-
-## Transformation des Anti-Establishments: Im System
-
-### YBA und der Markt
-
-Hirst dominierte in den 1990er Jahren den Kunstmarkt als zentrale Figur der Young British Artists.
-
-Wichtig ist hier der Prozess, durch den der Punk-Anti-Establishmentismus vom Markt absorbiert wird. Die Haltung, die einst das System leugnete, ist stattdessen zu einem Faktor geworden, der Marktwert schafft.
-
-### Funktioniert als Provokation
-
-Arbeiten, bei denen Tierkadaver und medizinische Geräte zum Einsatz kommen, werfen ethische Debatten auf. Dies ähnelt der provokativen Natur des Punk.
-
-Allerdings ist die Provokation nicht mehr außerhalb des Systems, sondern operiert innerhalb des Systems. Innerhalb der Institutionen von Galerien und Museen hat sich eine Struktur herausgebildet, in der Kritik kommerzialisiert wird.
-
-> Anti-Establishment ist nicht verschwunden, sondern hat sich in eine Form verwandelt, die innerhalb des Systems in Wert umgewandelt wird.
+> 制作現場における音楽は、思考を深めるためではなく、判断を速めるために存在していた。
 
 ---
 
-## Resonanz von Musik und Bildern: Funktioniert als Rhythmus
+## スピードとしての美術：制作プロセスの変化
 
-### Wiederholung und Struktur
+### 迷わないという戦略
 
-Die Wiederholung in Hirsts Spot Paintings ähnelt einem musikalischen Rhythmus. Eine Reihe homogener Muster ähnelt Minimal Music, die Geschwindigkeit der Ausführung ist jedoch eher punkig.
+パンクの美学は「考える前にやる」という即時性にある。この態度はハーストの制作にも見られる。
 
-### Kontrast zwischen Lärm und Stille
+彼の代表作の一つであるホルマリン作品は、構想から実現までのプロセスが非常に直接的である。コンセプトが決まれば、それを即座に物質化する。
 
-Die lärmende Energie des Punk und die anorganische Stille von Hirsts Werk. Obwohl dieser Gegensatz auf den ersten Blick widersprüchlich erscheinen mag, haben sie tatsächlich die gleiche Struktur.
+### アシスタントシステムと工業的制作
 
-Die Leere, die nach zu viel Energie entsteht. Seine Amplitude erzeugt die Stärke der Arbeit.
+ハーストは早い段階からアシスタントを用いた制作体制を確立した。これはアンディ・ウォーホルのファクトリーを想起させるが、その運用はより効率的である。
 
-> Die Heftigkeit des Klangs und die Stille des Sehens sind nur unterschiedliche Ausdrucksformen derselben Amplitude.
+音楽的な観点から見ると、これはバンドではなく「プロダクション」に近い。リズムを維持しながら大量にアウトプットを生み出す構造である。
+
+> 制作の現場は、個人の内面ではなく、リズムと分業によって駆動するシステムへと変化した。
 
 ---
 
-## Chronologie: Schnittpunkt von Musik und Kunst
+## 反体制性の転換：制度の内側へ
+
+### YBAと市場
+
+ハーストは Young British Artists の中心人物として、1990年代の美術市場を席巻する。
+
+ここで重要なのは、パンク的な反体制性が、そのまま市場に吸収されていくプロセスである。かつて制度を否定していた態度が、むしろ市場価値を生む要因となった。
+
+### 挑発としての作品
+
+動物の死体や医療器具を用いた作品は、倫理的な議論を引き起こす。これはパンクの持つ挑発性と同型である。
+
+ただし、その挑発はもはや制度の外部ではなく、内部で機能している。ギャラリーや美術館という制度の中で、批判が商品化される構造が生まれている。
+
+> 反体制性は消滅したのではなく、制度の内部で価値へと変換される形に変質した。
+
+---
+
+## 音楽と視覚の共振：リズムとしての作品
+
+### 繰り返しと構造
+
+ハーストのスポット・ペインティングに見られる反復は、音楽的なリズムと類似している。均質なパターンの連続は、ミニマル・ミュージックにも通じるが、その実行の速度はむしろパンク的である。
+
+### ノイズと静寂の対比
+
+パンクのノイズ的なエネルギーと、ハースト作品の無機質な静けさ。この対比は一見矛盾しているように見えるが、実際には同じ構造を持つ。
+
+過剰なエネルギーの後に訪れる空白。その振幅が作品の強度を生み出している。
+
+> 音の暴力性と視覚の静寂は、同じ振幅の異なる表現に過ぎない。
+
+---
+
+## 年表：音楽と美術の交差
 
 <div class="mermaid">
 timeline
@@ -147,7 +146,7 @@ timeline
 
 ---
 
-## Strukturdiagramm: Die Rolle der Musik in der Produktion
+## 構造図：制作における音楽の役割
 
 <div class="mermaid">
 flowchart LR
@@ -161,15 +160,15 @@ flowchart LR
 
 ---
 
-## Fazit: Eine Ära, in der Geschwindigkeit wertvoll wird
+## 結論：速度が価値になる時代
 
-Um die Produktion von Damien Hirst zu verstehen, muss man sich nicht nur die visuellen Elemente anhören, sondern auch die Musik, die im Studio gespielt wurde.
+Damien Hirst の制作を理解するためには、視覚的な要素だけでなく、スタジオに流れていた音楽に耳を傾ける必要がある。
 
-Punk, am Beispiel der Sex Pistols, war mehr als nur ein Einfluss, er lieferte eine zugrunde liegende Produktionslogik. Geschwindigkeit, Unmittelbarkeit, Anti-Establishment. All dies steht in direktem Zusammenhang mit der Schaffung neuer Werte in der zeitgenössischen Kunst.
+The Sex Pistols に象徴されるパンクは、単なる影響ではなく、制作の根本的なロジックを提供していた。速度、即時性、反体制性。それらはすべて、現代美術における新しい価値の生成に直結している。
 
-Und jetzt ist sein Wert untrennbar mit dem Markt verbunden. Was einst eine Rebellion war, ist heute Teil der effizientesten Produktionsstrategie.
+そして現在、その価値は市場と不可分のものとなっている。かつての反抗は、いまや最も効率的な生産戦略の一部となった。
 
-> Wenn Geschwindigkeit selbst in Wert umgewandelt wird, erscheint Kunst eher als Bewegung denn als Gedanke.
+> スピードそのものが価値へと転換されたとき、芸術は思考ではなく運動として現れる。
 
 
 ---

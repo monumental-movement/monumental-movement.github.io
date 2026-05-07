@@ -14,7 +14,7 @@ title: 阿卡莎計畫 – 永遠
 ---
 
 
-Barnim A. Schultze，又名 Akasha Project，是一位自 1980 年代中期以來一直活躍的德國電子音樂家。
+Akasha Project こと Barnim A. Schultze は、1980年代中頃から活動するドイツのエレクトロニックミュージシャン。
 
 《Always》是一首 Psy-Trance、Techno 曲目，由德國迷幻/前衛 trance 廠牌 Insolation 於 2001 年發行。
 

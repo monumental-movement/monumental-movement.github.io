@@ -88,7 +88,7 @@ Outlaw-Feeling: Der Spirit des Techno als Herzschlag des Berliner Undergrounds. 
 <br>
 
 
-### Verschiedene – Tresor Compilation Vol. 6
+### Various – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 Format: CD
@@ -163,14 +163,14 @@ Outlaw-Feeling: Eine Pilgerreise zur dunklen Seite der Klangstadt, die mehrere O
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Family
+### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 Format: Vinyl
 
 Genre: Acid / Techno / Trance
 
-Zusammenfassung: 1992 erschienen, eine großartige Zusammenstellung aus den Anfängen von Tresor. Ein historisches Stück, das die „Echos der Familie“ verkörpert.
+Zusammenfassung: 1992 erschienen, eine großartige Zusammenstellung aus Tresors frühen Jahren. Ein historisches Stück, das die „Echos der Familie“ verkörpert.
 
 
 Outlaw-Feeling: Erinnerungen an urbane Gemeinschaftsimprovisationen und dunkle Kämpfe, die die Entstehung der Szene prägen.

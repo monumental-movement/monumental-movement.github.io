@@ -11,14 +11,14 @@ tags:
 - Downtempo
 - Trip Hop
 - 00s
-title: Munk – Juno & Bezerk Partie 2
+title: Munk – Juno & Bezerk Part 2
 ---
 
 
 
-Munk est le nom d'un projet solo de Mathias Modica, patron du label allemand Gomma. Jusqu'en 2008, Munk formait un duo avec le DJ/producteur allemand Jonas Imbery.
+Munkは、ドイツの老舗レーベルGomma の主宰Mathias Modica(マティアス・モディカ)ソロプロジェクト名義。2008年まで、MunkはドイツのDJ／プロデューサーJonas Imberyとのデュオだった。
 
-"Juno & Bezerk Part 2" est un morceau Abstract/Downtempo/Trip Hop sorti par le label Gomma en 2000.
+「Juno & Bezerk Part 2」は、2000年にレーベルGommaからリリースされたAbstract／Downtempo／Trip Hopトラック。
 
 #### Liste des chansons
 ```md

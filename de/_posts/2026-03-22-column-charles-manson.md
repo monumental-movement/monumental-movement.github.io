@@ -90,7 +90,7 @@ Obwohl er keine formelle Ausbildung erhalten hat, lernt er, mit Worten umzugehen
 
 1967 wurde Manson aus dem Gefängnis entlassen und reiste nach Kalifornien. Es war wirklich das Zentrum der Gegenkultur, ein Ort, an dem sich junge Menschen versammelten, die von bestehenden Werten befreit waren.
 
-Er passt sich seiner Umgebung an und übernimmt gekonnt die Sprache und Werte der Hippies. Liebe, Freiheit, spirituelles Erwachen – mit diesen Worten lockte er junge Menschen an.
+Er passt sich seiner Umgebung an und übernimmt gekonnt die Sprache und Werte der Hippies. Liebe, Freiheit, spirituelles Erwachen – mit diesen Worten zog er junge Menschen an.
 
 ### Gründung einer „Familie“
 

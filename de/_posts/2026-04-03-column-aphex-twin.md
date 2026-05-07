@@ -53,11 +53,11 @@ color: #fff;
 
 Richard D. James, auch bekannt als Aphex Twin, wurde 1971 in Cornwall im Südwesten Englands geboren. Es wird gesagt, dass er schon in jungen Jahren ein starkes Interesse an elektronischen Geräten hatte und mit selbstgebauten und modifizierten Geräten Klänge erzeugte.
 
-„Informationsstörung“ ist wichtig, wenn man über seine Karriere spricht. In Interviews vermischt er bewusst Wahrheit und Fiktion. Beispielsweise können Aussagen wie der Raub einer Bank als Kind, der Besitz eines Militärpanzers oder das Komponieren von Musik im Traum nicht als wahr bestimmt werden.
+„Informationsstörung“ ist wichtig, wenn man über seine Karriere spricht. In Interviews vermischt er bewusst Wahrheit und Fiktion. Beispielsweise können Aussagen wie der Überfall auf eine Bank als Kind, der Besitz eines Militärpanzers oder das Komponieren von Musik im Traum nicht als wahr angesehen werden.
 
 Entscheidend ist jedoch nicht, ob es eine Lüge oder eine Wahrheit ist. Er demontiert das „eigentliche Bild eines Künstlers“. Mit anderen Worten handelt es sich um eine Strategie, die die Beziehung zwischen dem Werk und der Persönlichkeit verschleiert und die Interpretation des Hörers beeinflusst.
 
-Auch sein Gesicht erscheint in seinen Werken oft in verzerrter Form. Dabei handelt es sich nicht nur um einen Selbstausdruck, sondern auch um eine „Symbolisierung des Individuums“. Durch die Transformation des Gesichts, das die identifizierendste Information darstellt, wird die eigentliche Frage „Wer Sie sind“ entkräftet.
+Auch sein Gesicht erscheint in seinen Werken oft in verzerrter Form. Dabei handelt es sich nicht nur um einen Selbstausdruck, sondern auch um eine „Symbolisierung des Individuums“. Durch die Transformation der identifizierbarsten Information, des Gesichts, wird die eigentliche Frage „Wer du bist“ entkräftet.
 
 Diese Anonymität ist auch ein Mittel, um den Fokus auf die Musik selbst zu richten.
 
@@ -101,7 +101,7 @@ Darüber hinaus behandelt er Rhythmus nicht als „Zeiteinteilung“, sondern al
 
 ## Distanz zum Techno
 
-Aphex Twin wird oft im Zusammenhang mit Techno erwähnt, aber ihr Wesen ist ganz anders.
+Aphex Twin wird oft im Zusammenhang mit Techno erwähnt, ihr Wesen ist jedoch ganz anders.
 
 Im Gegensatz zur Wiederholbarkeit und Funktionalität von Detroit Techno ist seine Musik nicht funktional. Da es nicht für den Einsatz auf einer Tanzfläche gedacht ist, ist die Struktur frei und ihre Entwicklung unvorhersehbar.
 
@@ -133,7 +133,7 @@ Auch gruselige Bilder mit zusammengesetzten Gesichtern und unvorhersehbare Werbe
 
 Der Einfluss von Aphex Twin ist unermesslich.
 
-Die IDM-Szene, die sich rund um Warp Records bildete, wurde stark von seiner Präsenz geprägt.
+Die IDM-Szene, die sich rund um Warp Records bildete, wurde stark von seiner Anwesenheit geprägt.
 
 Auch Thom Yorke von Radiohead hat seinen Einfluss offen zum Ausdruck gebracht, und sein Einfluss spiegelt sich stark in seinen Werken nach Kid A wider.
 

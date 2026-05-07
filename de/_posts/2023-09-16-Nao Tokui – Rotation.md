@@ -15,7 +15,7 @@ title: Nao Tokui – Rotation
 
 Es wurde 2004 veröffentlicht und enthält vier minimale Titel.
 
-Nao Tokuis Lieder, darunter „Rotation“, sprechen Fans elektronischer Musik an und werden für sein musikalisches Talent geschätzt.
+Nao Tokuis Lieder, darunter „Rotation“, sprechen Fans elektronischer Musik an und sind für sein musikalisches Talent bekannt.
 
 #### Trackliste
 ```md

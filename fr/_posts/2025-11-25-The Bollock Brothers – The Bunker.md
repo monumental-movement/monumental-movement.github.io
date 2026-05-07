@@ -11,13 +11,13 @@ tags:
 - Synth-pop
 - Rock
 - 80s
-title: The Bollock Brothers – The Bunker (extrait du prochain film)
+title: The Bollock Brothers – The Bunker (From The Forthcoming Film)
 ---
 
 
-Les Bollock Brothers sont un groupe britannique de punk/new wave formé en 1979 par Jock McDonald, promoteur/DJ/manager londonien et ancien membre de 4" Be 2".
+The Bollock Brothers(ボロック・ブラザーズ)は、ロンドンのプロモーター/ DJ /マネージャーであり、 4" Be 2"のメンバーだったJock McDonald(ジョック・マクドナルド)によって1979年に結成されたイギリスのPunk ／New Waveバンド。
 
-"The Bunker", sorti en 1980, est bien connu comme la chanson signature des Bollock Brothers. Le producteur est Jimmy Lydon, frère de John Lydon des Sex Pistols.
+1980年にリリースした「The Bunker」は、The Bollock Brothersの代表曲としてよく知られている。プロデューサーは、セックス・ピストルズ のJohn Lydon(ジョン・ライドン) の兄弟のJimmy Lydon。
 
 #### Liste des chansons
 ```md

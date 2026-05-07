@@ -13,7 +13,7 @@ title: Trax-X – Phunky
 ---
 
 
-Danny Casseau, également connu sous le nom de Trax-X, est un producteur/DJ belge techno/acid. Il a sorti de nombreuses œuvres représentatives de la scène techno/acid belge des années 1990 et du début des années 2000. Danny Casseau s'appelle non seulement Trax-X, mais également sous divers autres noms, notamment Atom-X, Molecule 66 et DJ Argonic.
+Danny Casseau, également connu sous le nom de Trax-X, est un producteur/DJ techno/acid belge. Il a sorti de nombreuses œuvres représentatives de la scène techno/acid belge des années 1990 et du début des années 2000. Danny Casseau s'appelle non seulement Trax-X, mais également sous divers autres noms, notamment Atom-X, Molecule 66 et DJ Argonic.
 
 "Phunky", sorti par Reload Records en 1998, était un hit Acid Techno sur la scène club belge de l'époque. Il est connu comme le chef-d'œuvre de Trax-X.
 

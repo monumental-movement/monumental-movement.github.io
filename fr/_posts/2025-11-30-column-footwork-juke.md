@@ -142,7 +142,7 @@ Le lien avec Ghetto House, le prototype des premiers Footwork, est clair.
 ---
 
 - **DJ Spinn – « Du tout »**
-Utilisation créative d'échantillons et lien étroit entre la danse et la musique.
+Utilisation créative d'échantillons, lien étroit entre la danse et la musique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

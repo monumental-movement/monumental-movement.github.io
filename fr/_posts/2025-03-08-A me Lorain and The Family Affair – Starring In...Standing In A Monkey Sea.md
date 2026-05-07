@@ -13,13 +13,13 @@ tags:
 - Pop Rock
 - Ballad
 - 90s
-title: A'me Lorain & The Family Affair – Avec... Debout dans une mer de singes
+title: A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Sea
 ---
 
 
-Cet album, sorti par RCA en 1990, est le premier album de la chanteuse pop américaine A'me Lorain, devant le groupe funk The Family Affair. Le titre japonais est " Tokimeki no Wonderland ".
+1990年にRCAからリリースされたこのアルバムは、アメリカのポップシンガーであり、ファンクバンドThe Family Affair のフロント、A'me Lorain(エイミー・ロレイン)のデビューアルバム。邦題は「ときめきのワンダーランド」
 
-La chanson Whole Wide World, sortie en 1990, est devenue un énorme succès dans les charts dance américains et figurait sur la bande originale du film True Love.
+1990年にリリースした収録曲Whole Wide Worldは全米のダンスチャートで大ヒットとなり、映画True Loveのサウンドトラックにも使用された。
 
 
 #### Liste des chansons

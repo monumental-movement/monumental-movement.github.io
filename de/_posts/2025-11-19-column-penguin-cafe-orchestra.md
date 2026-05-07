@@ -84,7 +84,7 @@ Unter der Leitung von Simon Jeffes nehmen ehemalige klassische Musiker, Volksmus
 ### ● Der Kern ihrer Ideologie
 
 Jeffes beschrieb seine Musik als „spontane Strukturen“.
-Dabei handelt es sich nicht um die Regeln der westlichen Musik oder die Traditionen der Volksmusik, sondern um einen **organischen Prozess**, bei dem durch Zufall eine Ansammlung von Klängen entsteht.
+Es handelt sich nicht um die Regeln der westlichen Musik oder die Traditionen der Volksmusik, sondern um einen **organischen Prozess**, bei dem eine Ansammlung von Klängen durch Zufall entsteht.
 Diese „Spontaneität“ ist der Grund dafür, dass der Sound von PCO zwar manchmal magisch ist, aber dennoch ein warmes, alltägliches Gefühl hat.
 
 ---
@@ -133,7 +133,7 @@ Ein seltsames Musikstück, in dem plötzlich ein zweifarbiges Telefon über eine
 
 * Looping von Telefonaudio durch Bandmanipulation
 * Elektronischer Klang, der als „Fremdkörper“ über dem Ensemble existiert
-* Humorvoll und zugleich postmodern
+* Humorvoll und gleichzeitig postmodern
 
 In Bezug auf Minimal + Found Sound überschneidet sich dieses Werk mit der Abstammung von Brian Eno.
 
@@ -147,7 +147,7 @@ Die wichtigsten Alben werden im Folgenden erläutert.
 ### ● *Musik aus dem Pinguin-Café* (1976)
 
 Debütalbum, veröffentlicht auf dem Sublabel Obscure von Virgin Records.
-Unter den Obscure-Werken von Brian Eno ist dies das „anders“ und „hellste“.
+Unter den Obscure-Werken von Brian Eno ist dies das „andersartigste“ und „hellste“.
 Folklore und sich wiederholende Strukturen verschmelzen und der spätere Stil ist fast vollständig.
 
 ### ● *Penguin Cafe Orchestra* (1981)
@@ -189,7 +189,7 @@ Die „Ambient-Musik mit Aussage“, die leicht und angenehm zu hören war, aber
 * Filme (insbesondere Werke europäischer Regisseure)
 * Tonquelle für Ballett/Tanzkompanie
 
-Die Musik von PCO ist emotional, aber nicht beschreibend, daher wird sie als „Sound, der Bilder atmen lässt“ geschätzt.
+PCOs Musik ist emotional, aber nicht beschreibend, daher wird sie als „Sound, der Bilder atmen lässt“ geschätzt.
 
 ### ● Auswirkungen auf nachfolgende Generationen
 
@@ -205,7 +205,7 @@ PCOs Ansatz der „Abwesenheit von Genres“ und „einer Verschmelzung von Kamm
 ## Kapitel 6: Der Tod und die Folgen von Simon Jeffes
 
 1997 verstarb Simon Jeffes im Alter von 48 Jahren an einem Gehirntumor.
-Obwohl es ein großer Verlust für die Musikwelt war, werden die verbleibenden Aufnahmen, unveröffentlichten Noten und Aufführungspartituren immer noch neu bewertet.
+Obwohl es für die Musikwelt ein großer Verlust war, werden die verbleibenden Aufnahmen, unveröffentlichten Noten und Aufführungspartituren immer noch neu bewertet.
 
 Später startete sein Sohn **Arthur Jeffes** ein neues Projekt unter dem Namen „Penguin Cafe“.
 Obwohl sie den Geist von PCO übernehmen, touren sie als moderneres Ensemble durch die Welt.

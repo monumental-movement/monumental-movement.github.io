@@ -17,7 +17,7 @@ Cet album comprend "Clash", qui a également été utilisé dans le mix "Sarcast
 
 Matériel utilisé : Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog, Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, etc.
 
-Version originale de 1981 par Hideki Matsutake.
+松武秀樹による1981年のオリジナル盤。
 
 #### Liste des chansons
 ```md

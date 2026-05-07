@@ -17,7 +17,7 @@ title: '[Kolumne] Yann Tomita: Ein Klangforscher, der den Horizont der Klangcoll
 
 
 
-## Prolog: Eine Entität, die Musik als „Material“ neu definiert hat
+## Prolog: Eine Entität, die Musik als „Material“ neu definierte
 
 Text: mmr｜Thema: Der Werdegang eines Entdeckers, der das Klangkonzept durch die Kreuzung von Sampling und modularen Synthesizern aktualisierte
 
@@ -59,7 +59,7 @@ Jan Tomita wurde 1952 geboren und begann seine musikalische Karriere als Schlagz
 
 Während er in den 1970er bis 1980er Jahren Kontakt mit verschiedenen Musikszenen in Japan und im Ausland hatte, begann er, Rhythmus nicht als bloße Begleitung, sondern als Struktur der Musik selbst zu betrachten. Es wird angenommen, dass zu diesem Zeitpunkt bereits die Idee der Klangzerlegung und -rekonstruktion entstanden war.
 
-Da es im Bereich der Perkussion eher auf Klangfarbe und Textur als auf die Tonhöhe ankommt, gilt sein Interesse natürlich der Textur von Klängen. Dies ist eine wichtige Vorahnung, die zu seinem späteren Interesse an Field Recording und Sampling führen würde.
+Da im Bereich der Perkussion Klangfarbe und Textur und nicht die Tonhöhe im Vordergrund stehen, gilt sein Interesse natürlich der Textur von Klängen. Dies ist eine wichtige Vorahnung, die zu seinem späteren Interesse an Field Recording und Sampling führen würde.
 
 > Indem ich mit Schlaginstrumenten begann, entwickelte ich eine Perspektive, die Klang als Textur und nicht als Struktur betrachtet.
 
@@ -107,7 +107,7 @@ Doopees‘ Werke kombinieren hörspielartige Erzählungen, fragmentierte Klänge
 
 Diese Methode steht in direktem Zusammenhang mit der Sampling-Philosophie von Yang Tomita. Klang wird nicht einfach als musikalisches Element arrangiert, sondern als ein Element behandelt, das eine Geschichte oder Situation komponiert. Mit anderen Worten: Musik und Storytelling sind auf einer Ebene integriert.
 
-Darüber hinaus verbirgt die Pop-Oberfläche von Dopeees seinen Experimentalismus nicht, sondern dient vielmehr als Mittel, ihn hervorzuheben. Die Einzigartigkeit des Projekts liegt in der präzisen Platzierung von Klangfragmenten hinter bekannten Melodien und Stimmen.
+Auch die Pop-Oberfläche von Dopeees verbirgt seinen Experimentalismus nicht, sondern dient vielmehr als Mittel, ihn hervorzuheben. Die Einzigartigkeit des Projekts liegt in der präzisen Platzierung von Klangfragmenten hinter bekannten Melodien und Stimmen.
 
 >Doopees war ein Versuch, den Sound und die Geschichte zu rekonstruieren und dabei Anleihen bei Popformaten zu nehmen.
 
@@ -119,7 +119,7 @@ Darüber hinaus verbirgt die Pop-Oberfläche von Dopeees seinen Experimentalismu
 
 „Music for Astro Age“ ist eines der Werke, in denen Jan Tomitas akustische Philosophie weiter ausgebaut wird. Dieses Werk betont die Räumlichkeit und Weite des Klangs und präsentiert eine Struktur, die von einem irdischen Zeitgefühl befreit zu sein scheint.
 
-Wie der Titel schon sagt, erweckt dieses Album ein Gefühl kosmischer Größe. Anstatt geradlinig voranzuschreiten, sind die Klänge so angeordnet, dass sie im Raum schweben und die Wahrnehmung des Zuhörers in eine sich erweiternde Richtung lenken.
+Wie der Titel vermuten lässt, erweckt dieses Album ein Gefühl kosmischer Größe. Anstatt geradlinig voranzuschreiten, sind die Klänge so angeordnet, dass sie im Raum schweben und die Wahrnehmung des Zuhörers in eine sich erweiternde Richtung lenken.
 
 Sampling und Klangerzeugung sind wiederum eng miteinander verknüpft, wobei Klang sowohl als Aufzeichnung der Realität als auch als Element zur Konstruktion eines abstrakten Raums fungiert.
 
@@ -147,7 +147,7 @@ Jan Tomitas modulare Synthesizer Serge und Buchla sind mehr als nur Instrumente,
 
 Das Serge-System ist relativ kompakt und flexibel und ermöglicht eine komplexe Signalverarbeitung. Andererseits verfolgt Buchla eine Designphilosophie, die kein Keyboard voraussetzt und die darauf abzielt, Musik von der Darbietung zu befreien. Beide Systeme sind so konzipiert, dass sie vom traditionellen westlichen Musikrahmen abweichen.
 
-Yan Tomita nutzte diese Instrumente, um sich darauf zu konzentrieren, Klänge zu „erzeugen“, anstatt sie zu „spielen“. Charakteristika seiner Arbeit, wie Klangveränderungen durch Spannungssteuerung, zufälliges Patchen und sich zeitlich verändernde Klangstrukturen, sind eng mit diesen Geräten verbunden.
+Yan Tomita nutzte diese Instrumente, um sich darauf zu konzentrieren, Klänge zu „erzeugen“, anstatt sie zu „spielen“. Merkmale seiner Arbeit, wie Klangveränderungen durch Spannungssteuerung, zufälliges Patchen und sich zeitlich ändernde Klangstrukturen, sind eng mit diesen Geräten verbunden.
 
 Darüber hinaus dient dieser klangliche Ansatz als Grundlage für seine Aktivitäten mit Doopees und A.S.L. Es zeichnet sich dadurch aus, dass die verschiedenen Bereiche des Pop, des Experimentierens und der Forschung durch dieselbe Klangphilosophie vereint werden.
 
@@ -178,7 +178,7 @@ timeline
 
 ---
 
-## Modelldiagramm der musikalischen Struktur
+## Modelldiagramm der Musikstruktur
 
 ### Zyklus von Sampling und Klangerzeugung
 
@@ -218,9 +218,9 @@ Darüber hinaus wird die durch die Aktivitäten von A.S.L. präsentierte Perspek
 
 Rückblickend auf Yan Tomitas Aktivitäten ist er konsequent der Frage nachgegangen: „Was ist Klang?“ Durch die Reihe von Prozessen der Aufführung, Aufnahme, Erzeugung, Bearbeitung und Wiedergabe wird gezeigt, dass Klang eine sich ständig verändernde Einheit ist.
 
-Obwohl seine verschiedenen Aktivitäten, wie A.S.L., Doopees und seine Solowerke, unterschiedliche Formen haben, basieren sie alle auf derselben Philosophie. Klang ist ein Material, ein Phänomen, eine Erinnerung und eine Erfahrung.
+Obwohl seine verschiedenen Aktivitäten, wie A.S.L., Dopeees und seine Solowerke, unterschiedliche Formen haben, basieren sie alle auf derselben Philosophie. Klang ist ein Material, ein Phänomen, eine Erinnerung und eine Erfahrung.
 
-Die Verschmelzung von modularen Synthesizern und Sampling und die Perspektive ihrer Auswirkungen auf das Bewusstsein sind nach wie vor eine wichtige Grundlage für die aktuelle Musikproduktion und Klangkunst.
+Die Verschmelzung modularer Synthesizer und Sampling und die Perspektive ihrer Auswirkungen auf das Bewusstsein sind nach wie vor eine wichtige Grundlage in der aktuellen Musikproduktion und Klangkunst.
 
 > Kern seiner Tätigkeit ist der Versuch, die Wahrnehmung selbst durch Klang zu erneuern.
 

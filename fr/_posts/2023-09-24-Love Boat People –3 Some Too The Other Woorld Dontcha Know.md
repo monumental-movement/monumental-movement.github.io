@@ -13,7 +13,7 @@ title: Love Boat People – 3 certains aussi, l’autre monde ne le sait pas
 ---
 
 
-Sorti en 1998 du label américain "Sosumi Recordings".
+Sorti en 1998 sur le label américain "Sosumi Recordings".
 
 Ne manquez pas le morceau psychédélique « 3 Some » ou le « Too The Other World » teinté de disco du projet solo de Bryan Wright, Love Boat People.
 

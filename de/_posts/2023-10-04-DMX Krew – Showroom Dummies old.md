@@ -9,12 +9,12 @@ permalink: /de/dmx-krew-showroom-dummies-old/
 tags:
 - Electro
 - Techno
-title: DMX Krew – Showroom Dummies alt
+title: DMX Krew – Showroom Dummies old
 ---
 
 
-„Showroom Dummies“ heißt
-Dies ist die EP von DMX Krew, die 1998 vom deutschen Label „International Deejay Gigolo Records“ veröffentlicht wurde.
+「Showroom Dummies」は、
+1998年にドイツのレーベル「International Deejay Gigolo Records」からリリースされたDMX KrewのEPです。
 
 
 #### Trackliste

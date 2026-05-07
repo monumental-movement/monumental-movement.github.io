@@ -23,7 +23,7 @@ Texte : mmr | Thème : Où sont passées les oreilles de la génération numéri
 
 
 La musique de jeu fait référence à un groupe d'œuvres musicales créées pour les jeux vidéo.
-Il s'agit d'un genre vaste qui comprend tout, depuis les sources sonores sur puce soumises à des contraintes matérielles jusqu'aux enregistrements orchestraux complets, en passant par la musique électronique, la musique pop et la musique folk.
+Il s'agit d'un genre vaste qui comprend tout, depuis les sources sonores sur puce sous contraintes matérielles jusqu'aux enregistrements orchestraux complets, en passant par la musique électronique, la musique pop et la musique folk.
 
 Traditionnellement, il était positionné comme une musique de fond complétant l’expérience de jeu, mais il constitue désormais une cible de visionnage indépendante, un contenu distribué et un marché en direct.
 
@@ -81,7 +81,7 @@ Il ne s’agissait pas seulement d’une musique de fond, mais d’une musique q
 
 ### 2. L'ère du CD-ROM et l'expansion du son (années 1990)
 
-À la fin des années 1990, avec la diffusion des CD-ROM, la capacité des sources sonores a considérablement augmenté.
+À la fin des années 1990, avec la diffusion des CD-ROM, la capacité des sources sonores s’est considérablement élargie.
 Des formations de cordes, de chœurs et de groupes de rock sont introduites.
 
 **Final Fantasy VII**
@@ -148,7 +148,7 @@ La musique du jeu sera intégrée aux listes de lecture pour la « concentration
 La distribution commence en 2020
 **Genshin**
 a été enregistré avec un orchestre complet à Londres, Shanghai et ailleurs.
-La vidéo officielle du concert a été simultanément distribuée dans le monde entier et vue par des millions de téléspectateurs.
+La vidéo officielle du concert a été simultanément distribuée dans le monde entier et visionnée par des millions de téléspectateurs.
 
 Lors des tournois d'e-sport, des productions à grande échelle sont incluses dans les cérémonies d'ouverture.
 **Ligue des Légendes**

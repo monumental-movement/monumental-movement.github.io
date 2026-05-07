@@ -9,17 +9,17 @@ permalink: /de/pickup-drum-and-bass/
 tags:
 - Drum n Bass
 - Jungle
-title: Erlerne Drum-and-Bass-Werke
+title: ドラムンベース作品をピックアップ
 ---
 
 
-„Eine bemerkenswerte Gruppe von Drum-and-Bass-Werken, die mit scharfen Beats und schweren Basslinien den Boden zum Beben bringen.“
+「鋭利なビートと重厚なベースラインでフロアを揺さぶる、注目すべきドラムンベース作品群」
 
 <hr>
 
 ### Aquasky – Nylon Roadster / Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
-Ein 12-Zoll-Breakbeat-Track mit sanftem und emotionalem Piano aus den Jahren 1996–97.
+1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
 #### Trackliste
 ```md
@@ -37,10 +37,10 @@ Y. Cosmic Glue
 
 <hr>
 
-### Aquasky – Ruhe / Kauna
+### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Emotionaler Acid und Breakbeat, veröffentlicht von Moving Shadow in Großbritannien im Jahr 1996.
+1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
 
 #### Trackliste
 ```md
@@ -59,10 +59,10 @@ Y. Cosmic Glue
 <hr>
 
 
-### Dillinja – Flüssiger / harter Lärm
+### Dillinja – Fluid / Hard Noize
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
-Ein 12″ klassischer Underground-Drum-and-Bass-Track mit dem kraftvollen „Reese“-Bass.
+迫力の“Reese”ベースが響く、アングラ・ドラムンベース定番トラックの12″。
 
 #### Trackliste
 ```md
@@ -80,10 +80,10 @@ AA. Fluid
 
 <hr>
 
-### Motiv Eins – Cosmik / Loop Progression
+### Motiv One – Cosmik / Loop Progression
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Enthält leichte, jazzige, futuristische Klänge mit einem Hauptbreak.
+軽快でジャジー、アーメンブレイク主体の未来的なサウンドを収録。
 
 #### Trackliste
 ```md
@@ -101,11 +101,11 @@ AA. Loop Progression
 
 <hr>
 
-### Drumagick – Cambraia / Brasilien
+### Drumagick – Cambraia / Brasil
 
 <a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.webp"></a>
 
-12″ aus den 2000ern, mit einem Beat, der brasilianische Latin- und Jazz-Elemente mischt.
+ブラジルのラテン＆ジャズ要素をミックスしたビートが特徴的な2000年代の12″。
 
 #### Trackliste
 ```md
@@ -123,11 +123,11 @@ B. Brasil
 
 <hr>
 
-### Aaron Specter – Amen, Punk
+### Aaron Spectre – Amen, Punk
 
 <a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
-Ein einzigartiges Amen-Break-Album (2023), das die wilde Note von Punk/Hardcore bringt.
+パンク／ハードコアの激しいエッジを持ち込んだ、アメンブレイク主体のユニークな一枚（2023年）。
 
 #### Trackliste
 ```md
@@ -146,10 +146,10 @@ B2. You Don't Know
 
 <hr>
 
-### DJ Gilb-R – Druck
+### DJ Gilb‑R – Pressure
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
-1997 in Frankreich veröffentlicht. Enthält auch einen Remix von Laurent Garnier.
+1997年フランスリリース。Laurent Garnierリミックスも収録。
 
 #### Trackliste
 ```md

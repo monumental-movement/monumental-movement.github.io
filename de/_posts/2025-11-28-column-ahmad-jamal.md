@@ -73,7 +73,7 @@ In den 1960er Jahren begann Jamal seine internationalen Aktivitäten. Er tourte 
 Ahmad Jamals Spiel hat eine einzigartige Präsenz im modernen Jazz. Sein charakteristisches Merkmal ist, dass er den Schwerpunkt auf den Raum legt und sich nicht nur auf Technik oder schnelles Spiel verlässt. Durch die Nutzung der Leerstellen stechen die Resonanz jeder Note und die Veränderungen im Rhythmus hervor und hinterlassen beim Publikum einen tiefen Eindruck.
 
 ### 1. Nutzung des Rhythmusraums
-Jamal schafft Raum zwischen den Phrasen und baut Rhythmus und Melodie als Reaktion aufeinander auf. Diese Methode wurde später von Miles Davis als „einer der Pianisten, die mich am meisten beeinflusst haben“ bezeichnet und sie beeinflusste auch die Entwicklung des Modal Jazz.
+Jamal schafft Raum zwischen den Phrasen und baut Rhythmus und Melodie aufeinander auf. Diese Methode wurde später von Miles Davis als „einer der Pianisten, die mich am meisten beeinflusst haben“ bezeichnet und sie beeinflusste auch die Entwicklung des Modal Jazz.
 
 ### 2. Minimaler Ansatz
 Die Aufführung konzentriert sich auf einfache Phrasen ohne Verzierungen und stellt dem Zuhörer das Thema klar dar. Die Wiederholungen und rhythmischen Veränderungen verleihen der Aufführung ein Gefühl dynamischer Spannung.
@@ -121,7 +121,7 @@ Ahmad Jamals Karriere ist von vielen klassischen Alben geprägt. Nachfolgend fin
 ## Zeitleiste
 
 Nachfolgend finden Sie eine Zeitleiste, die sich auf die wichtigsten Ereignisse und Werke von Ahmad Jamal konzentriert.
-Um den Verlauf der Karriere zu veranschaulichen, sind auch Illustrationen in Mermaid-Notation enthalten.
+Um den Karriereverlauf zu veranschaulichen, sind auch Illustrationen in Mermaid-Notation enthalten.
 
 <div class="mermaid">
 timeline
@@ -153,69 +153,69 @@ Die Musik von Ahmad Jamal nimmt einen einzigartigen Platz in der Jazzgeschichte 
 Miles Davis bezeichnete Jamal im Laufe seines Lebens wiederholt als seinen „einflussreichsten Pianisten“.
 Insbesondere sind folgende Punkte wichtig:
 
-- **“Space（間）”の概念**  
-  Jamalの余白を使う演奏は、マイルスの1950年代後半〜モード時代に強い影響を与えた。
-- **ミニマルなテーマ提示**  
-  Jamalの構成感は、マイルスのクインテット期のアレンジにも反映。
-- **トリオのダイナミズム**  
-  ベースとドラムの対話的アプローチは、マイルスバンドのインタープレイ形成にも寄与。
+- **Das Konzept des „Raums“**
+Jamals Spiel mit Leerstellen hatte einen starken Einfluss auf Miles‘ Modeära ab den späten 1950er Jahren.
+- **Minimalistische Themenpräsentation**
+Jamals Sinn für Struktur spiegelt sich auch in Miles' Arrangements aus seiner Quintettzeit wider.
+- **Trio-Dynamik**
+Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles' Band-Zusammenspiel bei.
 
-Jamalの影響は、単に「好きだった」ではなく、**実際にマイルスの音楽の構造を変えた**と言えるほどの重大性を持ちます。
+Jamals Einfluss ist so bedeutend, dass man sagen kann, dass er ihn nicht nur „mochte“, sondern tatsächlich die Struktur von Miles‘ Musik veränderte.
 
-### 2. ピアノ・トリオという形式の再定義
-Jamal以前のピアノトリオは、ピアノが主導し、リズムセクションが伴奏する形式が主流でした。  
-しかしJamalは次のように構造を変えました：
+### 2. Das Klaviertrio-Format neu definieren
+Vor Jamal wurden Klaviertrios typischerweise vom Klavier geleitet und von einer Rhythmusgruppe begleitet.
+Aber Jamal hat die Struktur wie folgt geändert:
 
-- ベースとドラムを「対等な楽器」と位置づけた  
-- ピアノは主旋律と伴奏の役割を柔軟に行き来する  
-- ダイナミクスと空間に重点を置いた構成
+- Positionierung von Bass und Schlagzeug als „gleichberechtigte Instrumente“
+- Das Klavier wechselt flexibel zwischen der Hauptmelodie und der Begleitrolle.
+- Komposition mit Schwerpunkt auf Dynamik und Raum
 
-この革新により、後のビル・エヴァンスやハービー・ハンコック、キース・ジャレットらが展開する**現代ピアノ・トリオの礎**が築かれました。
+Diese Innovation legte den Grundstein für das moderne Klaviertrio, das später von Bill Evans, Herbie Hancock, Keith Jarrett und anderen entwickelt wurde.
 
-### 3. 国際的活動と文化的影響
-1960年代以降、ヨーロッパ、中東、アジアでの公演を積極的に行い、アメリカ国外でも大きな支持を獲得しました。  
-その影響は次の点に表れています：
+### 3. Internationale Aktivitäten und kultureller Einfluss
+Seit den 1960er Jahren treten sie aktiv in Europa, dem Nahen Osten und Asien auf und haben außerhalb der Vereinigten Staaten eine große Fangemeinde gewonnen.
+Die Auswirkungen spiegeln sich wider in:
 
-- 国際的なジャズフェスティバル出演  
-- 非アメリカ圏のピアニストに与えた高度な影響  
-- イスラム教に改宗して以降の文化的視野の広がり（1950年代に改宗）  
-- 世界的な聴衆に向けた音楽観の変化
+- Auftritte auf internationalen Jazzfestivals
+- Großer Einfluss auf nichtamerikanische Pianisten
+- Erweiterung des kulturellen Horizonts nach der Konvertierung zum Islam (Konvertierung in den 1950er Jahren)
+- Wechselnde musikalische Perspektiven für ein globales Publikum
 
-特に1950年代に改宗し「Ahmad Jamal」を名乗った点は、文化的主体性を持った芸術家としての姿勢を象徴しています。
+Insbesondere die Tatsache, dass er in den 1950er Jahren konvertierte und den Namen „Ahmad Jamal“ annahm, symbolisiert seine Haltung als Künstler mit kultureller Unabhängigkeit.
 
-### 4. “静けさの美学（The Art of Space）” の継承
-Jamalの代表的スタイルである「静けさの美学」は、以下の世代へ継承されました：
+### 4. „Die Kunst des Weltraums“ erben
+Jamals charakteristischer Stil, die Ästhetik der Ruhe, wurde an die folgenden Generationen weitergegeben:
 
-- Herbie Hancock  
-- McCoy Tyner  
-- Keith Jarrett  
-- Brad Mehldau  
-- Vijay Iyer など
+- Herbie Hancock
+- McCoy Tyner
+- Keith Jarrett
+- Brad Mehldau
+-Vijay Iyer et al.
 
-特に現代ジャズでは、**ミニマルな構造と余白を生かした演奏**が広く受け入れられ、その基盤を築いたのはJamalの功績です。
+Vor allem im zeitgenössischen Jazz haben sich **Aufführungen, die sich minimalistischer Strukturen und Leerräume bedienen** weithin durchgesetzt, und Jamal wird zugeschrieben, dass er dafür den Grundstein gelegt hat.
 
-### 5. 後期の評価と晩年の活動
-2000年代以降のJamalは、以下の特徴を持つ活動を展開しました：
+### 5. Späte Bewertung und Aktivitäten in späteren Jahren
+Seit den 2000er Jahren hat Jamal Aktivitäten mit folgenden Merkmalen entwickelt:
 
-- 高齢にも関わらず精力的なツアーを継続  
-- ヨーロッパのレーベルを中心にライブ盤を多数リリース  
-- 若い世代のジャズミュージシャンとの積極的な共演  
+- Touriert trotz seines fortgeschrittenen Alters weiterhin energisch
+- Veröffentlichte viele Live-Alben hauptsächlich auf europäischen Labels
+- Aktive Zusammenarbeit mit Jazzmusikern der jungen Generation
 
-晩年のJamalは「巨匠」から「生きる伝説」へと評価を拡大し、その穏やかで研ぎ澄まされた演奏は世界中のリスナーに支持され続けました。
+In seinen späteren Jahren wuchs Jamals Ruf von einem „Meister“ zu einer „lebenden Legende“, und seine ruhigen und ausgefeilten Darbietungen fanden weiterhin Unterstützung bei Zuhörern auf der ganzen Welt.
 
 ---
 
 ## Abschluss
 
-Ahmad Jamalは、単なる“技巧に優れたジャズピアニスト”ではなく、**ジャズの構造そのものを変えた革新者**でした。  
+Ahmad Jamal war nicht nur ein „erfahrener Jazzpianist“, sondern ein Innovator, der die Struktur des Jazz grundlegend veränderte.
 
-- 空間の扱い方  
-- トリオの再定義  
-- モーダルアプローチの前史的役割  
-- 後進への多大な影響  
-- グローバルな活動  
+- Wie man mit Platz umgeht
+- Das Trio neu definieren
+- Prähistorische Rolle des modalen Ansatzes
+- Großer Einfluss auf die nächste Generation
+- Globale Aktivitäten
 
-これらを通じ、Jamalは20世紀から21世紀にかけてのジャズを形づくった、最重要人物のひとりとして評価されています。
+Durch diese Bemühungen gilt Jamal als eine der wichtigsten Persönlichkeiten, die den Jazz vom 20. bis 21. Jahrhundert geprägt haben.
 
 ---
 

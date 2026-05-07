@@ -32,7 +32,7 @@ Es ist nicht einmal Lärm.
 
 Allerdings hat es in allen Bereichen seine Spuren hinterlassen.
 
-Seit den 1970er Jahren ist er im Zentrum der japanischen Underground-Musikszene aktiv und grenzt an Improvisation, Noise, Psychedelic, Drone und Volksgesang.
+Seit den 1970er Jahren ist er im Zentrum der japanischen Underground-Musik aktiv und grenzt an Improvisation, Noise, Psychedelic, Drone und Volksgesang.
 
 Er hat oft mit experimentellen Musikern und Rockmusikern aus Übersee zusammengearbeitet und international großes Lob erhalten.
 
@@ -90,7 +90,7 @@ Sie sollten in der Lage sein, Musik freier abzuspielen.
 
 Diese Idee führte später zu seinem Interesse an Improvisation.
 
-> Keiji Hainos frühe Rockerfahrungen wurden zum Ausgangspunkt für sein Verständnis von Musik als Form spirituellen Ausdrucks.
+> Keiji Hainos frühe Rockerfahrungen wurden zum Ausgangspunkt für seine Herangehensweise an Musik als eine Form spirituellen Ausdrucks.
 
 ---
 
@@ -112,7 +112,7 @@ Keiji Haino wird eine der zentralen Figuren sein.
 Banderfahrung der frühen 1970er Jahre
 
 Lost Araf war eine Band, der Keiji Haino in den frühen 1970er Jahren angehörte, bevor er Fushitsusha gründete.
-Diese Gruppe war eine der ersten japanischen Underground-Rockbands und ihre Musik war von psychedelischem Rock und Blues beeinflusst.
+Diese Gruppe war eine der frühen japanischen Underground-Rockbands und ihre Musik war von psychedelischem Rock und Blues beeinflusst.
 
 Zu dieser Zeit steckte die Rockbandkultur in Japan noch in den Kinderschuhen, und nach und nach bildete sich eine eigene Underground-Szene heraus, die sich von der kommerziellen Musik unterschied.
 Lost Araf war eine der Gruppen, die in diesem Trend aktiv waren, und war für Keiji Haino eine wichtige frühe musikalische Erfahrung.
@@ -129,9 +129,9 @@ Aktivitäten mit Lost Alaf waren einer der Ausgangspunkte für Keiji Hainos Musi
 
 ### Beziehung mit Toru Takemitsu
 
-Verbindung mit japanischer zeitgenössischer Musik
+Verbindung mit zeitgenössischer japanischer Musik
 
-Über die Musik von Keiji Haino wird oft im Kontext von Rock und Noise gesprochen, sie weist aber auch Verbindungen zur zeitgenössischen japanischen Musik auf.
+Über die Musik von Keiji Haino wird oft im Kontext von Rock und Noise gesprochen, sie hat aber auch Verbindungen zur zeitgenössischen japanischen Musik.
 
 Der Zusammenhang mit den Aktivitäten des Komponisten Toru Takemitsu ist dafür ein symbolisches Beispiel.
 
@@ -184,7 +184,7 @@ Es wird gesagt, dass der Live-Auftritt eher ein Erlebnis als eine Musik war.
 
 Das Publikum war von Klang umhüllt, die Aufführungen dauerten teilweise mehrere Stunden.
 
-Ungefähr zu dieser Zeit begann sich Hainos Musik zu etwas zu entwickeln, das sich nicht durch ein Genre erklären ließ.
+Ungefähr zu dieser Zeit begann Hainos Musik zu etwas zu werden, das sich nicht durch ein Genre erklären ließ.
 
 Rock-Energie
 Free-Jazz-Freiheit
@@ -230,7 +230,7 @@ Fushitsusha ist Keiji Hainos repräsentative Band, die um 1978 gegründet wurde 
 
 Die Mitglieder sind nicht fest, sondern fließend, und die Organisation ändert sich von Zeit zu Zeit.
 
-Live-Auftritte beinhalten oft lange Improvisationsdarbietungen und zeichnen sich durch ein einzigartiges akustisches Erlebnis aus, das das Dröhnen der Gitarre mit Stille vermischt.
+Live-Auftritte beinhalten oft lange Improvisationsdarbietungen und zeichnen sich durch ein einzigartiges akustisches Erlebnis aus, bei dem sich das Dröhnen der Gitarre mit Stille kreuzt.
 
 >Fushitsusha ist eher ein Ort, an dem Keiji Hainos Musikphilosophie verkörpert wird, als eine Band.
 
@@ -268,7 +268,7 @@ Der Klang einer Stimme, die die Seele direkt berührt.
 
 Die Stimme vermittelt mehr Emotionen als Melodie.
 
-Es dringt leise in das Innere des Zuhörers ein und ruft tiefe Empfindungen hervor.
+Es dringt leise in das Innere des Zuhörers ein und löst tiefe Empfindungen aus.
 
 ---
 
@@ -303,7 +303,7 @@ Seine Aktivitäten sind als DJ Keiji Haino.
 
 In diesem Stil treten sie auf, während sie auf CDJs Musik aus aller Welt spielen.
 
-Die ausgewählte Musik ist nicht auf ein Genre beschränkt.
+Die ausgewählte Musik ist auf kein Genre beschränkt.
 
 Volksmusik
 Felsen
@@ -388,7 +388,7 @@ Keiji Haino verwendet viele Instrumente, die folgenden sind jedoch besonders wic
 
 Insbesondere die Drehleier ist ein Instrument aus dem mittelalterlichen Europa, und ihre Fähigkeit, einen anhaltenden Klang zu erzeugen, verleiht Hainos Musikwelt Tiefe.
 
-> In Keiji Hainos Musik geht es nicht um die Art des Instruments, sondern um die Existenz von Klang.
+> Keiji Hainos Musik beschäftigt sich nicht mit der Art des Instruments, sondern mit der Existenz von Klang.
 
 ---
 
@@ -404,7 +404,7 @@ Und es gibt noch eine weitere Angewohnheit bei seinen Auslandstouren.
 Das bedeutet, dass Sie in den besuchten Städten CDs und Schallplatten kaufen müssen.
 
 Schauen Sie in einem örtlichen CD-Laden vorbei und suchen Sie nach unbekannter Musik.
-Wählen Sie unabhängig von Genre oder Nationalität etwas aus, das Ihnen ins Ohr fällt.
+Wählen Sie unabhängig von Genre oder Nationalität etwas aus, das Ihnen ins Auge fällt.
 
 Es ist nicht nur eine Sammlung.
 Dabei handelt es sich um die Suche nach Geräuschen, die Sie noch nie zuvor gehört haben, nach Geräuschen aus Kulturen, die Sie nicht kennen, und nach Musik, die nicht in bestehende Klassifizierungen passt.
@@ -420,7 +420,7 @@ Durch die Begegnung mit unbekannten Klängen verändert sich auch meine Musik.
 ---
 
 
-## Chronologie der Keiji Haino-Diskografie (Auszug)
+## Chronologie der Keiji Haino-Diskographie (Auszug)
 
 ### Fluss von Solo- und Hauptwerken
 
@@ -452,8 +452,8 @@ Die folgenden Informationen wurden aus mehreren zuverlässigen Quellen zusammeng
 | Jahr | Titel | Etikett | Notizen |
 |---|---|---|---|
 | 1989 | **Fushitsusha Double Live (Live I)** | PSF | Eine der frühesten Veröffentlichungen auf dem PSF-Label. 2-Disc-Live-LP |
-| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (mit Hiroshi Mikami und Motoharu Yoshizawa) | PSF | Ein Meisterwerk der Improvisation des Trios mit Hiroshi Mikami und Motoharu Yoshizawa |
-| 1991 | **Fushitsusha (Double Live / Live II)** | PSF | Eines der wichtigsten Dokumente des japanischen Psychedelic Rock der 1990er Jahre |
+| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (mit Hiroshi Mikami und Motoharu Yoshizawa) | PSF | Ein improvisiertes Meisterwerk des Trios mit Hiroshi Mikami und Motoharu Yoshizawa |
+| 1991 | **Fushitsusha (Double Live / Live II)** | PSF | Eines der wichtigsten Dokumente des japanischen Psychedelic Rock in den 1990er Jahren |
 | 1993 | **Allegorisches Missverständnis** | Avant (unter der Leitung von John Zorn) | Veröffentlicht auf John Zorns Avant-Label |
 | 1994 | **Pathétique** | PSF | Oren Ambarchi beschreibt es als „eines meiner Lieblingswerke von Fushitsusha“ |
 
@@ -679,11 +679,11 @@ Climax --> Silence
 
 </div>
 
-Bei einer Live-Aufführung beginnt die Aufführung mit Stille, dann bauen sich nach und nach Drohnen und Geräusche auf, und der Klang erreicht seinen Höhepunkt durch Hinzufügung von Gesang und Geschrei. Es hat oft eine Struktur, die wieder zur Stille zurückkehrt.
+Live-Auftritte beginnen mit Stille, dann bauen sich nach und nach Drohnen und Geräusche auf und der Klang erreicht seinen Höhepunkt mit Gesang und Geschrei. Es hat oft eine Struktur, die wieder zur Stille zurückkehrt.
 
 Dieser Zyklus erzeugt ein Gefühl, das einem religiösen Ritual oder einer meditativen Erfahrung ähnelt.
 
-> Keiji Hainos Live-Auftritt ist mehr ein Erlebnis von Zeit und Raum als von Musik.
+> Keiji Hainos Live-Auftritt ist eher ein Erlebnis von Zeit und Raum als von Musik.
 
 ---
 
@@ -700,7 +700,7 @@ Keiji Haino wird seit vielen Jahren von westlichen Musikmedien hoch gelobt.
 | Heugabel | Ikone der experimentellen Musik |
 | Der Quietus | Ein Musiker, der Lärm und Spiritualität vereint |
 
-Er ist auf zahlreichen Festivals in Europa und Nordamerika aufgetreten und gilt als starker Einflussfaktor in der freien Improvisations- und Noise-Szene.
+Er trat auf zahlreichen Festivals in Europa und Nordamerika auf und gilt als starker Einflussgeber der freien Improvisations- und Noise-Szene.
 
 > Keiji Haino nimmt nicht nur in Japan, sondern auch in der Geschichte der experimentellen Musik weltweit eine einzigartige Position ein.
 
@@ -813,7 +813,7 @@ Dieser Preis wird an Künstler verliehen, die seit vielen Jahren innovative Akti
 
 Im Laufe seiner mehr als 50-jährigen Tätigkeit hat er eine einzigartige Musikwelt geschaffen, die sich über bestehende Genres hinwegsetzt und sich über verschiedene Bereiche wie Improvisation, Noise, Drone, Rock, Blues und Free Jazz erstreckt.
 
-Seine Aktivitäten wurden durch die Zusammenarbeit mit Musikern und Künstlern aus der ganzen Welt erweitert und es ist zu einer wichtigen Präsenz in der zeitgenössischen experimentellen Musikszene geworden.
+Seine Aktivitäten haben sich durch die Zusammenarbeit mit Musikern und Künstlern aus der ganzen Welt ausgeweitet und es ist zu einer wichtigen Präsenz in der zeitgenössischen experimentellen Musikszene geworden.
 
 > Keiji Haino wird beim Musikbiennale-Festival von Venedig 2026 mit dem Lifetime Achievement Award ausgezeichnet.
 

@@ -18,7 +18,7 @@ title: '[Kolumne] Hohe Marken und Lärmmusik – die Schnittstelle zwischen Luxu
 
 Text: mmr｜Thema: Die Affinität zwischen aktuellen Modenschauen und Noise-Musik
 
-Bei Noise-Musik dreht sich alles um Underground-Live-Häuser, Schweiß- und Rückkopplungsgeräusche und extreme Darbietungen. High-End-Marken hingegen sind die Laufstege von Paris, Mailand und Tokio, glänzende Textilien und höchste Raffinesse.
+Bei Noise-Musik dreht sich alles um Underground-Live-Houses, Schweiß- und Feedback-Sounds und extreme Performances. High-End-Marken hingegen sind die Laufstege von Paris, Mailand und Tokio, glänzende Textilien und höchste Raffinesse.
 Es ist leicht zu glauben, dass sich die beiden nicht überschneiden können.
 Schaut man sich jedoch die Modenschauen der letzten Jahre an, stellt man fest, dass die beiden eine überraschend enge Beziehung aufgebaut haben.
 
@@ -100,13 +100,13 @@ Brüllen und Lärm verunsichern und erregen das Publikum und beweisen, dass die 
 
 ### Die Herangehensweise jeder Marke an Lärm
 
-Ausführliche Beispiele großer Marken und Lärm
+Ausführliche Beispiele großer Marken und Geräusche
 
 ✦ [COMME des GARÇONS](https://amzn.to/42fzNDE)
 
 Rei Kawakubo geht der Affinität zwischen „Dekonstruktion der Schönheit“ und Lärm nach.
 
-Einführung von Drohnen, metallischen Klängen und experimenteller Musik in die Show.
+Einführung von Drones, metallischen Klängen und experimenteller Musik in die Show.
 
 Verwandte Künstler: Merzbow, Keiji Haino, David Tudor, Alva Noto.
 
@@ -144,7 +144,7 @@ Verwandte Künstler: Alessandro Cortini, Fennesz.
 
 ✦ [Vivienne Westwood](https://amzn.to/46DRqyf)
 
-Branding Punk und Pionier der Einführung des Noise-Geistes.
+Marken-Punk und Vorreiter bei der Einführung des Noise-Geistes.
 
 Basierend auf dem Anti-Establishment-Sound der 1970er Jahre.
 
@@ -272,7 +272,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 ### Gucci – „Gemischte“ Tonproduktion mit großen Produzenten (klassisch x modern)
 
 | Anzeigen / Materialien | Künstler | Ergänzungen | Referenzen |
-| ------------- | -----------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------- |
+| ------------- | -----------------------------------------------------: | --------------------------------------------------------------------------------- | --------------- |
 | [Gucci](https://amzn.to/4gIXl9X) (Debütshow von Sabato De Sarno usw.) | **[Mark Ronson](https://amzn.to/46nSdEG) (Musikproduktion/Mix anzeigen)** | Mark Ronson produziert die Showmusik von Gucci. Ein Beispiel für die Mischung klassischer Musik mit zeitgenössischem Pop/Remix, um die Erzählung einer Show zu erstellen (ausführliches Interview im Artikel enthalten). ([Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)) | [Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com) |
 | Gucci-Kampagne/Sondervideo (regional begrenztes Tonmaterial) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (z. B. Bereitstellung von Musik für einige Projekte)** | [Cortini](https://amzn.to/3WaGPWF)(Nine Inch Nails Related) und elektronische Musik derselben Generation werden in Markenvideos verwendet (es gibt Beispiele für Musik, die für Projekte bereitgestellt wird, die auf China ausgerichtet sind). *Dies bedeutet nicht, dass alle Shows der Marke auf Lärm ausgerichtet sind, sondern vielmehr eine „lokale Auswahl an Produktionen“. ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
 
@@ -282,7 +282,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 <iframe width="800" height="450" src="https://www.youtube.com/embed/RThDNP1UewY" frameborder="0" allowfullscreen></iframe>
 
 **Zu beachtende Punkte**
-- „Narratives“ Sounddesign von Mark Ronson. Er schafft eine „Zeitachse“, indem er traditionelle Lieder neu mischt und moderne Stimmen verwendet. Referenz: Vogue-Interview (Mark Ronson x Gucci).
+- „Narrative“ Sounddesign von Mark Ronson. Er schafft eine „Zeitachse“, indem er traditionelle Lieder neu mischt und moderne Stimmen verwendet. Referenz: Vogue-Interview (Mark Ronson x Gucci).
 
 ---
 
@@ -316,7 +316,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 – [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); Zeigt die Playlist an – [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Sounddesign: **BFRND** (Exklusive Partitur anzeigen)/Beispiel für die Verwendung von Industriesound |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能  |
 | **Alexander McQueen**    | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)  | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）   | 
-| **Louis Vuitton** | Diverse Show- und Afterparty-Aufzeichnungen (Beispielarchive) – Daft Punk / Virgil Ablohs DJ-Beziehungen usw. (mehrere) | In der Vergangenheit lieferte **Daft Punk** die Songbearbeitung für LV und verwendete auch **Dev Hynes (Blood Orange)** für die Partitur (Virgil Abloh-Zeit) |
+| **Louis Vuitton** | Verschiedene Show- und Afterparty-Platten (Beispielarchive) – Daft Punk / Virgil Ablohs DJ-Beziehungen usw. (mehrere) | In der Vergangenheit lieferte **Daft Punk** die Songbearbeitung für LV und verwendete auch **Dev Hynes (Blood Orange)** für die Partitur (Virgil Abloh-Zeit) |
 | **Dior** | Dior (verschiedene Kampagnen/Showvideos) | Es gibt viele Fälle, in denen Sounddesigner wie Frédéric Sanchez beteiligt sind, und es besteht ein Zusammenhang mit Ambient-/Drohnenproduktionen |
 
 ---

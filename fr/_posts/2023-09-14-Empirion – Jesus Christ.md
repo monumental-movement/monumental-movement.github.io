@@ -10,15 +10,15 @@ tags:
 - Techno
 - Acid
 - 10inch
-title: Empirion – Jésus-Christ
+title: Empirion – Jesus Christ
 ---
 
 
-Empirion est une unité composée d'Oz Morsley, Bobby Glennie et Jamie Smart.
+EmpirionはOz Morsley、Bobby Glennie、Jamie Smartの３人からなるユニットです。
 
-Ils ont commencé leur carrière dans l'Essex en 1993 en tant que groupe de techno industrielle britannique.
+ブリティッシュインダストリアルテクノバンドとして1993年にエセックスでキャリアをスタートしました。
 
-Incontournable pour les fans de techno acid des années 90, il s'agit d'un coffret de deux disques de 10 pouces.
+90年代のテクノ・アシッド好きにはたまらない一品で、10インチの２枚組です。
 
 #### Liste des chansons
 ```md

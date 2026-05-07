@@ -275,7 +275,7 @@ flowchart LR
 
 * Frühe Sampler digitalisierten die Klänge ethnischer Instrumente
 * Melodien aus dem Nahen Osten, Südasien und Afrika haben nach und nach Eingang in die Tanzmusik gefunden.
-* Es gibt Diskussionen über „kulturelle Zitate“ und „Sampling-Ethik“.
+* Es finden Diskussionen über „kulturelle Zitate“ und „Sampling-Ethik“ statt.
 
 <div class="mermaid">
 flowchart TD

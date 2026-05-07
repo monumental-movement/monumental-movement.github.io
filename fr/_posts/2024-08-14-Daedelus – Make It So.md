@@ -16,12 +16,12 @@ title: Daedelus – Faites en sorte qu’il en soit ainsi
 ---
 
 
-Le producteur de musique américain Alfred Weisberg-Roberts, connu sous le nom de Daedelus, basé à Los Angeles, est un artiste qui construit un son unique grâce à des méthodes expérimentales mélangeant divers éléments musicaux. "Make It So" est un single extrait de l'album studio "Love to Make Music To" sorti par le prestigieux label britannique Ninja Tune en 2008.
+Le producteur de musique américain Alfred Weisberg-Roberts, connu sous le nom de Daedelus, basé à Los Angeles, est un artiste qui construit un son unique grâce à des méthodes expérimentales mélangeant divers éléments musicaux. "Make It So" est un single de l'album studio "Love to Make Music To" sorti par le prestigieux label britannique Ninja Tune en 2008.
 
 La première chanson de la face A est un remix de XXXchange, ancien membre de Spank Rock.
 
 La première chanson de la face B est celle du vétéran de la musique électronique DJ Moonstarr.
-remixer par
+remixé par
 
 La deuxième chanson de la face B est un remix de Samiyam, un producteur hip-hop américain basé à Los Angeles qui travaille également avec le duo de production FLYamSAM avec Flying Lotus.
 

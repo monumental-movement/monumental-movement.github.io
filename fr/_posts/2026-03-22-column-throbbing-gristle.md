@@ -19,7 +19,7 @@ title: '[Chronique] Throbbing Gristle et la naissance de l''industriel : le mome
 
 ## Introduction : Où la musique s'effondre-t-elle ?
 
-Texte : mmr｜Thème : Un disque d'innovation qui a déconstruit la définition de la musique par le bruit et la provocation et a transformé les sons de la société industrielle en art.
+Texte : mmr｜Thème : Un disque d'innovation qui a déconstruit la définition de la musique par le bruit et la provocation et a transformé les sons de la société industrielle en art
 
 Au milieu des années 1970, la musique rock avait déjà mûri et la musique pop devenait une industrie. D’un autre côté, la question fondamentale : « Qu’est-ce que la musique ? » est restée fixe, presque personne ne la remettant en question.
 
@@ -59,7 +59,7 @@ Leurs œuvres étaient souvent offensantes et socialement inacceptables. Cependa
 
 La « prostitution », organisée à l'Institute of Contemporary Arts de Londres en 1976, est un événement symbolique. L'exposition a provoqué un tel tollé qu'elle a été débattue au Parlement britannique, et ils ont été dénoncés comme des « destructeurs de civilisation ».
 
-Cependant, ce qui est important, c'est qu'ils remettaient déjà en cause les « limites de l'expression ». La musique n’est qu’un médium choisi après coup.
+Cependant, le point important est qu'ils remettaient déjà en cause les « limites de l'expression ». La musique n’est qu’un médium choisi après coup.
 
 COUM a utilisé leurs corps, et non leurs sons, pour entrer en conflit avec la société. C’est Throbbing Gristle qui a traduit cela en son.
 
@@ -95,7 +95,7 @@ Cette décision était extrêmement importante. Leur travail n'était pas accept
 
 Ils géraient eux-mêmes tous les enregistrements, la production, la distribution et les ventes. Cette autonomie complète est devenue le modèle de base de la scène indépendante ultérieure.
 
-Industrial Records était plus qu’un simple label, c’était un outil d’expansion des idées. Non seulement la musique, mais aussi les visuels, le texte, le logo et l’emballage ont tous été conçus sur la base d’un concept unifié.
+Industrial Records était plus qu’un simple label, c’était un outil d’expansion des idées. Non seulement la musique, mais aussi les visuels, le texte, le logo et l'emballage ont tous été conçus sur la base d'un concept unifié.
 
 De plus, l'influence s'est étendue à d'autres artistes à travers ce label. À partir de ce moment, le concept « industriel » s’est développé en un mouvement concret.
 
@@ -144,7 +144,7 @@ Cette approche influencera plus tard les expériences live dans la culture noise
 
 Throbbing Gristle a toujours fait l'objet de critiques et de censure en raison de ses expressions extrêmes.
 
-Leurs œuvres étaient souvent mal comprises et traitées comme « dangereuses » en raison de leur représentation de la violence et de thèmes tabous. Cependant, leur intention n’était pas d’affirmer ces choses, mais de rendre visible le côté obscur de la société.
+Leur travail était souvent mal compris et traité comme « dangereux » en raison de sa représentation de la violence et de thèmes tabous. Cependant, leur intention n’était pas d’affirmer ces choses, mais de rendre visible le côté obscur de la société.
 
 À cet égard, ils furent également des pionniers de la critique médiatique. Il a utilisé du son et des images pour montrer comment les informations sont manipulées et consommées.
 
@@ -208,7 +208,7 @@ Le résultat est le genre industriel et, plus encore, une idée qui s’applique
 
 Leurs œuvres ne sont toujours pas faciles à écouter. Cependant, ce sentiment de mal-être nous amène à nous interroger sur ce que nous recherchons dans la musique.
 
-La musique ne doit pas nécessairement être confortable. Il n'est pas nécessaire que ce soit beau.
+La musique n'a pas besoin d'être confortable. Il n'est pas nécessaire que ce soit beau.
 
 Mais quel rapport avec la réalité ? Seule cette question demeure.
 

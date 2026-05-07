@@ -94,7 +94,7 @@ E --> F[Chart Re Entry]
 Nach Beginn der Verbreitung wurde berichtet, dass die Anzahl der Wiedergaben auf Spotify um mehrere zehn Millionen zunahm und das Lied in mehreren Regionen, darunter den USA und Großbritannien, in die Charts einstieg.
 Es erschien auch im Global Ranking von Billboard.
 
-Dieses Phänomen unterscheidet sich von Hits im Stil von TV-Titelliedern dadurch, dass vorhandene Lieder entsprechend dem Erzählkontext neu definiert werden.
+Dieses Phänomen unterscheidet sich von Hits im Stil von TV-Titelliedern dadurch, dass bestehende Lieder entsprechend dem Erzählkontext neu definiert werden.
 
 > Das Lied wurde als Teil der Geschichte wiederentdeckt, nicht als „Titellied“ des Animes.
 
@@ -151,14 +151,14 @@ Diese Kette ist ein einzigartiges Diffusionsmodell im Streaming-Zeitalter.
 
 ## Kultureller Spillover
 
-### Anime x bestehendes Song-Neubewertungsmodell
+### Anime x vorhandenes Song-Neubewertungsmodell
 
 In den letzten Jahren kommt es immer häufiger vor, dass in Videoarbeiten vergangene Lieder wieder zum Vorschein kommen.
 In der Netflix-Serie „Stranger Things“ wurde „Running Up That Hill“ erneut ein Welthit.
 
 Allerdings ist Edgerunners insofern einzigartig, als es über eine dreistufige Struktur verfügt, in der die In-Game-Songs basierend auf dem Anime neu bewertet werden.
 
-Spiele → Anime → Streaming Re-Explosion
+Spiele → Anime → Streaming-Re-Explosion
 
 Dieser Trend wurde als erfolgreiches Beispiel einer Cross-IP-Strategie analysiert.
 
@@ -169,7 +169,7 @@ Aufgrund seiner Affinität zur Cyberpunk-Weltanschauung ist das Interesse am Gen
 
 Nach der Verbreitung des Animes wurde auch bestätigt, dass verwandte Playlists und ähnliche Künstler betroffen waren.
 
-> Es beeinflusste auch die Neubewertung des Musikgenres selbst.
+> Es beeinflusste auch die Neubewertung der Musikgenres selbst.
 
 ---
 
@@ -178,7 +178,7 @@ Nach der Verbreitung des Animes wurde auch bestätigt, dass verwandte Playlists 
 * Dezember 2020: Cyberpunk 2077 veröffentlicht
 * 13. September 2022: Der Vertrieb von Cyberpunk: Edgerunners beginnt
 * Mitte September 2022: Die Spotify-Viren-Charts steigen
-* Herbst 2022: Wiederauftauchen in den Charts in mehreren Ländern
+* Herbst 2022: Wiederaufstieg in den Charts in mehreren Ländern
 * 2023: Kontinuierliche Long-Tail-Regeneration
 
 > Das Lied, das zwei Jahre lang ruhte, wurde im Laufe der Geschichte neu gestartet.
@@ -188,7 +188,7 @@ Nach der Verbreitung des Animes wurde auch bestätigt, dass verwandte Playlists 
 ## Strukturelle Veränderungen im Streaming-Zeitalter
 
 Traditionell erreichten die Hits unmittelbar nach der Veröffentlichung ihren Höhepunkt.
-Allerdings kommt es derzeit aufgrund der Inhaltsverknüpfung zu zeitverzögerten Zugriffen.
+Allerdings kommt es derzeit aufgrund der Content-Verlinkung zu zeitverzögerten Zugriffen.
 
 Die Eigenschaften sind unten aufgeführt.
 

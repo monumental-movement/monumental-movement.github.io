@@ -17,7 +17,7 @@ title: '[Chronique] Les origines de l''échantillonnage - 20 sources sonores les
 ### Prologue : Retracer l'ADN du son
 
 
-Texte : mmr｜Thème : Sur la base de données telles que **WhoSampled**, nous mettrons en évidence les « 20 sources sonores les plus échantillonnées » et explorerons comment chacune d'elles a été gravée dans l'histoire de la musique.
+Texte : mmr｜Thème : Sur la base de données telles que **WhoSampled**, nous mettrons en évidence les « 20 sources sonores les plus échantillonnées » et explorerons comment chacune a été gravée dans l'histoire de la musique.
 
 
 L'échantillonnage est une technologie qui incarne le plus directement la « citation » et la « reconstruction » dans l'histoire de la musique. Depuis les débuts du hip-hop à la fin des années 70 jusqu'à l'électro d'aujourd'hui, un seul break de batterie, une seule ligne de basse ou un cri a été transformé en centaines, voire en milliers de chansons.
@@ -195,7 +195,7 @@ Utilisé par The Roots, Eric B. & Rakim, Arrested Development, et plus encore. L
 
 ### Chronologie : histoire évolutive de l'échantillonnage
 
-| Années | Événements |
+| 年代 | 出来事 |
 |------|--------------|
 | années 1960 | La technologie d'enregistrement soul/funk se développe. La culture naissante du drum break. |
 | 1973 | Kool Herc joue deux exemplaires de "Apache" lors d'une fête de quartier. Naissance du hip hop. |

@@ -160,7 +160,7 @@ Gehen Sie in eine neue Phase.
 # **Kapitel 5: Vierte Welle (2005–2025) – Post-Schwarz und Multikulturalisierung**
 
 Seit 2005, unter Beibehaltung der traditionellen Ästhetik,
-„Neues Licht“, „neue Emotionen“ und „neue Sicht auf die Natur“ werden eingeführt,
+„Neues Licht“, „neue Emotionen“ und „neue Sicht auf die Natur“ werden vorgestellt,
 Black Metal wird neu definiert.
 
 ## ■ Repräsentative Trends
@@ -178,7 +178,7 @@ Es hat sich zu „konzeptueller Musik entwickelt, die aus den Reaktionen von Kul
 ---
 
 
-## **Kapitel 6: Abschnitt mit einzelnen Banddetails (Gedanken, Musikalität und sozialer Einfluss großer Bands)**
+## **Kapitel 6: Abschnitt mit Details zu einzelnen Bands (Gedanken, Musikalität und sozialer Einfluss großer Bands)**
 
 Hier werden wir systematisch nach Epoche, Region und Trend in die Bands eintauchen, die zum Eckpfeiler der Black-Metal-Geschichte geworden sind.
 
@@ -448,7 +448,7 @@ Nachfolgend finden Sie eine **faktenbasierte Zeitleiste**. Vorfälle und Arbeite
 
 ### **2011–2020 (Globalisierung und Crossover)**
 
-* Auf dem Weg zu einer Ära, in der regionale Besonderheiten einbezogen werden, hauptsächlich in Japan, Osteuropa, Nordamerika und Südamerika
+* Auf dem Weg zu einer Ära, in der regionale Besonderheiten berücksichtigt werden, vor allem in Japan, Osteuropa, Nordamerika und Südamerika
 * Der Blackgaze-Typ (schwarzes Gebrüll + Shoegaze) verbreitet sich in Europa und Amerika
 * Wiederaufleben des rohen Black Metal (insbesondere in Verbindung mit der Bandcamp-Kultur)
 

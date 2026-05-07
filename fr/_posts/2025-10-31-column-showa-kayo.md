@@ -11,8 +11,8 @@ tags:
 - Nostalgia
 - Citypop
 - Retro
-title: '[Chronique] Le boom des « Showa retro songs » s''étend à l''étranger : Quand
-  la nostalgie traverse les frontières'
+title: '[Chronique] Le boom des « chansons rétro Showa » s''étend à l''étranger :
+  Quand la nostalgie traverse les frontières'
 ---
 
 
@@ -53,7 +53,7 @@ La gamme est extrêmement large, depuis les sentiments enka d'Hibari Misora, jus
 
 Cependant, ce qu'ils ont en commun, c'est « la croyance en la mélodie » et le « romantisme dans l'ombre du temps ».
 Les chansons Showa, qui se sont développées avec la croissance économique d'après-guerre, ont établi un « axe de coordination émotionnelle » dans la vie des gens.
-Par exemple, les mélodies de Takashi Miki ont un sentiment de nostalgie et les arrangements de Kyohei Tsutsumi évoquent un rêve de ville. **
+Par exemple, les mélodies de Takashi Miki ont un sentiment de nostalgie et les arrangements de Kyohei Tsutsumi ont un côté urbain. **
 
 Cette « réverbération des rêves » deviendra plus tard le moteur qui attire les jeunes d’outre-mer.
 
@@ -76,7 +76,7 @@ Musique appelée à l'origine « pop urbaine » au Japon,
 ## Chapitre 3 : Vaporwave et l'illusion de l'ère Showa
 
 Vaporwave est un mouvement artistique né de la culture américaine des babillards électroniques au début des années 2010.
-De vieilles publicités japonaises, des graphiques numériques des années 1980 et des images sonores déformées provenant de cassettes ont été reconstitués comme les « réverbérations » de la société de consommation.
+De vieilles publicités japonaises, des graphiques numériques des années 1980 et des images sonores déformées de cassettes ont été reconstitués comme les « réverbérations » de la société de consommation.
 
 Ce n’est pas un hasard si les mélodies et les sons des chansons Showa ont été naturellement fusionnés ici.
 **Réverbération douce, douceur urbaine et romantisme à outrance. **
@@ -117,7 +117,7 @@ En Europe, en Amérique et en Asie, des morceaux échantillonnant les chansons d
 Les producteurs coréens Night Tempo et American Macross 82-99 sont des pionniers.
 Ils jouent des chansons de Showa sous le nom de "Future Funk" et ont enregistré des millions de vues sur YouTube.
 
-En outre, les groupes et artistes occidentaux ont de plus en plus tendance à produire des chansons de style « City Pop ».
+En outre, il existe une tendance croissante des groupes et artistes occidentaux à produire des chansons de style « City Pop ».
 Les exemples incluent Vendredi Sur Mer en France, Eyedress en Amérique et Phum Viphurit en Thaïlande.
 
 De cette manière, les chansons Showa ont acquis « l'universalité en tant que matériau » et sont reproduites culturellement à plusieurs reprises.

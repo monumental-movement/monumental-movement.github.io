@@ -56,7 +56,7 @@ Leur esprit expérimental se connecte à la culture communautaire qui a suivi le
 > "Nous n'avons pas le blues. Nous devons juste créer notre propre son."
 > — Holger Czukay (CAN)
 
-Cette attitude de recherche du « son de son propre pays » est à l'origine du krautrock.
+Cette attitude de recherche du « son de son propre pays » est à l’origine du krautrock.
 
 ---
 
@@ -201,13 +201,13 @@ L'esprit sonore né de Forst s'est transmis à la musique ambiante, post-rock et
 
 ## Chapitre 8 : Popol Vuh – Spiritualité et son en images
 
-**Popol Vuh** se démarque parmi les krautrocks.
+**Popol Vuh** se démarque parmi le krautrock.
 Le leader **Florian Fricke** était profondément dévoué à la musique et à la philosophie religieuses et fut l'un des premiers à adopter le synthétiseur Moog.
 Cependant, ce qu'il visait n'était pas la froideur de l'électronique, mais le **mystère et le son intérieur**.
 
 ### Résonance avec Herzog
 Le réalisateur **Werner Herzog** est tombé amoureux de leurs sons spirituels et les a utilisés dans plusieurs de ses films, notamment « Aguirre », « Nosferatu » et « Fitzcarraldo ».
-La musique d'« Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
+La musique de « Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
 
 > « Le son du Popol Vu était les paroles de prière que l'âme entendait. »
 
@@ -224,7 +224,7 @@ Il a développé le krautrock en travaillant en solitaire en studio plutôt qu'e
 Ils ont construit de longs morceaux, chacun durant plus de 30 minutes, et les ont créés comme pour « sculpter » le temps avec le son.
 
 Ses chefs-d'œuvre « Timewind » (1975) et « Moondawn » (1976) sont des méditations électroniques aux rythmes et séquenceurs sans fin.
-Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains techno, il devient le point de départ du « philosophe des électrons ».
+Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains Techno, il devient le point de départ du « philosophe des électrons ».
 
 > "Le synthétiseur est mon univers. La solitude est le carburant de la créativité." - Klaus Schulze
 
@@ -236,7 +236,7 @@ Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains techno, il de
 
 À la fin des années 1970, la jeunesse allemande était à nouveau en pleine mutation.
 L'esprit expérimental de Krautrock se manifeste dans le punk et la new wave.
-À Berlin, David Bowie et Brian Eno ont créé la « Berlin Trilogy » et ont absorbé l'esthétique de Kraut.
+À Berlin, David Bowie et Brian Eno ont produit la « Berlin Trilogy » et ont absorbé l'esthétique de Kraut.
 
 - "Low" de Bowie (1977) est une fusion de Neu! et grappe.
 - Joy Division et The Fall ont réinjecté les rythmes motorik dans le rock.

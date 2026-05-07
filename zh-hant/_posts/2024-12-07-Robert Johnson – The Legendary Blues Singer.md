@@ -35,7 +35,7 @@ title: 羅伯特·約翰遜——傳奇藍調歌手
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
 
 
 #### Youtube

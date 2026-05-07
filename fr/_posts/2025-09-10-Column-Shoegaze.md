@@ -14,7 +14,7 @@ title: '[Chronique] Des origines de Shoegaze à nos jours — 10 chefs-d''œuvre
 
 
 
-## Shoegaze - historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
+## Shoegaze - contexte historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
 
 
 Texte : mmr｜Thème : Des origines de Shoegaze à nos jours
@@ -91,7 +91,7 @@ color: #fff;
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
-| Seulement peu profond | Ma sanglante Saint-Valentin | Une pop rugissante qui a défini le genre |
+| Seulement peu profond | Ma sanglante Saint-Valentin | Pop rugissante qui a défini le genre |
 | Quand le soleil frappe | Plongée lente | Un symbole d'une belle sensation de flottement |
 | Alison | Plongée lente | Une célèbre ballade éphémère et transparente |
 | Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sensation de rêve |
@@ -120,13 +120,13 @@ color: #fff;
 - **Synthétiseur logiciel et DAW** (Pro Tools, Logic)
 - **Guitare** : Fender Stratocaster, Telecaster également augmentées
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
 | Courez dans les fleurs | M83 | Fusion de rêves et de rugissement |
 | Amérique | Asobi Sexe | Une rencontre entre lyrisme japonais et shoegaze |
-| Jeudi | Asobi Sexe | Belle mélodie et rugissement explosif |
+| jeudi | Asobi Sexe | Belle mélodie et rugissement explosif |
 | Rien ne s'est jamais produit | Chasseur de cerfs | La magie du bruit et de la répétition |
 | Bois de bruyère | M83 | Ambiance profonde |
 | Les rêves brûlent (Live) | Balade | Performance emblématique de la période de renaissance |

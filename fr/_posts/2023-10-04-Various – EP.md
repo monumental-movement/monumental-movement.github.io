@@ -9,12 +9,12 @@ permalink: /fr/various-ep/
 tags:
 - Techno
 - Acid
-title: Divers – EP
+title: Various – EP
 ---
 
 
-« Divers – EP » est
-Il s'agit d'un EP sorti par le label japonais "D5 Records" en 1995.
+「Various – EP」は、
+1995年に日本のレーベル「D5 Records」からリリースされたEPです。
 
 
 #### Liste des chansons

@@ -14,7 +14,7 @@ title: Joe Smooth – Disco Acid 4
 ---
 
 
-" Disco Acid 4 " est un EP de Joe Smooth sorti en 2003 sur le label " Trax Records ".
+「Disco Acid 4」は、2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。
 
 #### Liste des chansons
 ```md

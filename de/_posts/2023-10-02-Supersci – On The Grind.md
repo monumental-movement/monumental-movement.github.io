@@ -14,7 +14,7 @@ title: Supersci – On The Grind
 
 
 „On The Grind“ ist
-Ein Single-Ausschnitt aus dem Album „Pinetrees On The Pavement“ von SUPERSCI, das 2006 vom schwedischen Label „Flyphonic Phonogram“ veröffentlicht wurde.
+Ein Single-Ausschnitt aus dem Album „Pinetrees On The Pavement“ von SUPERSCI, veröffentlicht 2006 auf dem schwedischen Label „Flyphonic Phonogram“.
 
 #### Trackliste
 ```md

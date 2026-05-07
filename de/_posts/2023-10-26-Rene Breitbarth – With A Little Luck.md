@@ -16,7 +16,7 @@ title: Rene Breitbarth – Mit etwas Glück
 
 Rene Breitbarths „With A Little Luck“ erschien 2005 auf dem irischen Label Ork Recordings.
 
-René Breitbarth ist ein deutscher DJ und Produzent und einer der Gründer des in Köln ansässigen Labels Treibstoff.
+René Breitbarth ist ein deutscher DJ und Produzent und einer der Gründer des Kölner Labels Treibstoff.
 
 
 #### Trackliste

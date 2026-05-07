@@ -9,11 +9,11 @@ permalink: /de/ian-lex-i-wanna-be-your-man/
 tags:
 - Euro Beat
 - House
-title: Ian Lex – Ich möchte dein Mann sein
+title: Ian Lex – I Wanna Be Your Man
 ---
 
 
-Dies ist eine Singleauskopplung aus dem 1996 erschienenen Projekt „Ian Lex“ von Rino Facchinetti.
+1996年にリリースされた本名Rino Facchinettiによるプロジェクト「Ian Lex」のシングルリリースです。
 
 #### Trackliste
 ```md

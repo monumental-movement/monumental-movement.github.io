@@ -22,7 +22,7 @@ title: '[Chronique] Le cœur de la techno minimale : l''esthétique épurée la
 
 Texte : mmr｜Thème : L'essence et la spiritualité de la techno qui émerge de l'épuration du son
 
-La techno est souvent qualifiée de « musique du futur ». Cependant, cette vision du futur ne se situe pas simplement dans l'évolution de la technologie, mais à l'intersection des villes, de la société et du monde intérieur des humains.
+La techno est souvent qualifiée de « musique du futur ». Cependant, cette vision du futur ne réside pas simplement dans l'évolution de la technologie, mais à l'intersection des villes, de la société et du monde intérieur des humains.
 
 Parmi eux, il y a une personne qui a dépouillé le son jusqu'à l'extrême limite et n'en a extrait que l'essence de la musique. C'est Robert Hood.
 
@@ -73,7 +73,7 @@ Cependant, il s’est finalement tourné vers une activité musicale plus pure. 
 
 ## Minimal Nation : réinventer la musique
 
-Minimal Nation de 1994 est une œuvre qui a changé l'histoire de la techno.
+Minimal Nation de 1994 est une œuvre qui a changé l’histoire de la techno.
 
 Kick, charley, synthé minimal. Dans le cadre de cette restriction extrême, il n’a extrait que le noyau du sillon.
 
@@ -85,7 +85,7 @@ Cet album peut être considéré comme le modèle de la techno minimale ultérie
 
 ## Chef-d'œuvre : La pratique et l'évolution du minimalisme
 
-L'innovation de Robert Hood peut être mieux comprise à travers certains de ses chefs-d'œuvre.
+L'innovation de Robert Hood peut être plus clairement comprise à travers certains de ses chefs-d'œuvre.
 
 La première chose que je dois mentionner est l'album « Minimal Nation ». Cette œuvre est à l'origine de la techno minimale et est la cristallisation de ses idées dans leur forme la plus pure. Chaque morceau est extrêmement simple, mais crée un groove puissant grâce à une conception rythmique soignée.
 
@@ -129,7 +129,7 @@ Cette expérience est bien plus qu'une simple musique de danse.
 
 La musique de Robert Hood a des connotations religieuses.
 
-La structure minimaliste encourage la concentration et l'introspection, conduisant l'auditeur à une expérience intérieure. Ceci est profondément lié à ses propres croyances.
+La structure minimaliste encourage la concentration et l'introspection, conduisant l'auditeur à une expérience intérieure. Ceci est profondément lié à ses propres convictions.
 
 > Réduire le son, c'est aussi créer un espace pour rentrer vers l'intérieur.
 
@@ -190,7 +190,7 @@ graph TD
 
 La musique de Robert Hood résume des idées et une histoire complexes dans son extrême simplicité.
 
-Sa méthode de « rasage » est devenue de plus en plus importante dans les temps modernes.
+Sa méthode de « rasage » est devenue de plus en plus importante dans les temps modernes.
 
 À l’ère de la surcharge d’informations, la capacité d’en discerner l’essence. C'est pourquoi sa musique continue de résonner aujourd'hui.
 

@@ -11,16 +11,17 @@ tags:
 - Post-Punk
 - Dance-Punk
 - 70s
-title: 【コラム】 James Chance and the Contortions：ノー・ウェイヴの先駆者たちとその音楽解析
+title: '[Kolumne] James Chance und die Contortions: No-Wave-Pioniere und ihre musikalische
+  Analyse'
 ---
 
 
 ## Einführung
 
 
-文：mmr｜テーマ：James Chance の生涯、Contortions の活動、そして各アルバムや曲における音楽構造、ビート分析、演奏スタイルについて
+Text: mmr｜Thema: Das Leben von James Chance, die Aktivitäten von Contortions sowie die musikalische Struktur, Beat-Analyse und der Aufführungsstil jedes Albums und Songs.
 
-1970年代後半、ニューヨークのダウンタウンはパンクの衝動と前衛的ジャズの即興精神が交錯する特異な音楽空間を形成していた。その中心で、**James Chance and the Contortions** は前衛音楽とダンス・パンクの融合を極限まで推し進めた。  
+In den späten 1970er Jahren bildete die Innenstadt von New York einen einzigartigen musikalischen Raum, in dem sich die Impulse des Punk und der Improvisationsgeist des Avantgarde-Jazz kreuzten. Im Kern trieben **James Chance and the Contortions** die Verschmelzung von Avantgarde und Dance-Punk auf die Spitze.
 
 ---
 
@@ -39,24 +40,24 @@ color: #fff;
 
 
 
-## 1. James Chance の生い立ちと音楽背景
+## 1. James Chances frühes Leben und sein musikalischer Hintergrund
 
-James Chance（本名 James Siegfried）は1953年、アメリカ・ウィスコンシン州で生まれ、ピアノを学ぶ。フリージャズ、特にオーネット・コールマンやアルバート・アイラーの影響を受け、既存の音楽形式に縛られない表現を志向した。  
-1975年にニューヨークへ移住し、Flaming Youth や Teenage Jesus and the Jerks などの初期バンド活動を経て、自らのビジョンを具現化するバンド **Contortions** を結成する。
+James Chance (richtiger Name James Siegfried) wurde 1953 in Wisconsin, USA, geboren und studierte Klavier. Beeinflusst vom Free Jazz, insbesondere von Ornette Coleman und Albert Ayler, strebte er nach Ausdrucksformen, die nicht an bestehende Musikformen gebunden waren.
+Er zog 1975 nach New York und nachdem er in frühen Bands wie Flaming Youth und Teenage Jesus and the Jerks gespielt hatte, gründete er **Contortions**, eine Band, die seine Vision verwirklichte.
 
 ---
 
-## 2. Contortions 結成とノー・ウェイヴの中心
+## 2. Die Entstehung von Contortions und das Herzstück von No Wave
 
-1977年、Contortions は James Chance を中心に結成される。メンバーは以下の通り：
+1977 wurden Contortions um James Chance gegründet. Die Mitglieder sind:
 
-- **Jody Harris**（ギター）  
-- **Pat Place**（スライド・ギター）  
-- **Don Christensen**（ドラム）  
-- **George Scott III**（ベース）  
-- **Adele Bertei**（キーボード／コーラス）
+- **Jody Harris** (Gitarre)
+- **Pat Place** (Slide-Gitarre)
+- **Don Christensen** (Schlagzeug)
+- **George Scott III** (Bass)
+- **Adele Bertei** (Keyboard/Chor)
 
-Contortions は、CBGB、アート・スペースなどニューヨークのライブハウスを中心に活動。1978年にはブライアン・イーノがプロデュースしたコンピレーション『No New York』に参加し、ノー・ウェイヴの象徴的存在となった。
+Contortions ist hauptsächlich in New Yorker Live-Häusern wie CBGB und Art Space aktiv. 1978 erschien er auf der von Brian Eno produzierten Compilation „No New York“ und wurde zum Symbol für No Wave.
 
 <div class="mermaid">
 
@@ -73,34 +74,34 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 ---
 
-## 3. デビューアルバム Buy（1979）分析
+## 3. Analyse des Debütalbums Buy (1979).
 
-**Buy** は Contortions 名義の公式デビューアルバム。全体的に前衛ジャズ、ファンク、ポスト・パンクが融合している。  
+**Buy** ist das offizielle Debütalbum unter dem Namen Contortions. Das Gesamtalbum ist eine Fusion aus Avantgarde-Jazz, Funk und Post-Punk.
 
-### 代表曲「Contort Yourself」
+### Repräsentatives Lied „Contort Yourself“
 
-- **構造分析**：  
-  - イントロはドラムの不規則な16分音符リズムから開始  
-  - ベースラインは反復的でファンク的、サックスが自由に旋回する
-- **ビート分析**：  
-  - 4/4 基調だが、スネアのオフビート配置やアクセントの変化により、常に揺れを感じさせる  
-  - ダンス感覚を保ちながら即興性を強調
+- **Strukturanalyse**:
+- Das Intro beginnt mit einem unregelmäßigen 16tel-Noten-Rhythmus des Schlagzeugs
+- Die Basslinie ist repetitiv und funky, und das Saxophon wirbelt frei.
+- **Beat-Analyse**:
+- 4/4-Grundton, aber die unkonventionelle Platzierung der Snare und Akzentwechsel vermitteln immer ein Gefühl von Oszillation.
+- Betont die Improvisation und behält gleichzeitig das Tanzgefühl bei
 
-### 曲「Melt Yourself Down」
+### Lied „Melt Yourself Down“
 
-- **特徴**：サックス主導のリフが全編を通じて反復  
-- **ビート**：ドラムとベースが正確にタイトなファンクパターンを繰り返す  
-- **サウンド的効果**：ギターやキーボードの不協和音が緊張感を演出
+- **Eigenschaften**: Saxofon-getriebene Riff-Wiederholungen durchgehend
+- **Beat**: Schlagzeug und Bass wiederholen ein präzises, straffes Funk-Pattern
+- **Soundeffekt**: Die Kakophonie von Gitarren und Keyboards erzeugt ein Gefühl der Spannung.
 
 ---
 
-## 4. James White & the Blacks 名義：Off White（1979）
+## 4. James White & the Blacks Name: Off White (1979)
 
-Contortions の別名義で発表された **Off White** は、ディスコ的要素とノー・ウェイヴの即興性を融合。  
+**Off White**, veröffentlicht unter dem Pseudonym Contortions, kombiniert Disco-Elemente mit dem improvisatorischen Charakter von No Wave.
 
-- 「Flexi Disc」ではファンクリズムにディスコの四つ打ちを加え、観客が踊れる構造を保持  
-- 歌詞は社会・人種・アイデンティティ問題を反映  
-- ベースラインはシンプルながら、ハーモニックに即興サックスとギターが絡む
+- „Flexi Disc“ fügt dem Funk-Rhythmus Disco-Four-on-the-Floor hinzu und behält so eine Struktur bei, die dem Publikum das Tanzen ermöglicht.
+- Die Texte spiegeln soziale, rassische und identitätsbezogene Themen wider
+- Die Basslinie ist einfach, aber harmonisch improvisiertes Saxophon und Gitarre sind beteiligt.
 
 <div class="mermaid">
 
@@ -116,29 +117,29 @@ D --> G["挑発的リズム + ダンス性"]
 
 ---
 
-## 5. ライヴ録音とパフォーマンス分析
+## 5. Live-Aufzeichnung und Leistungsanalyse
 
 ### Paris 1980 – Live aux Bains Douches
 
-- サックスの即興フレーズが中心  
-- ドラムは不規則なスネアアクセントを多用し、聴覚的緊張を演出  
-- ギターはリフではなくノイズ的役割で、音の塊として機能
+- Hauptsächlich Saxophon-Improvisationsphrasen
+- Trommeln verwenden oft unregelmäßige Snare-Akzente, um klangliche Spannung zu erzeugen
+- Die Gitarre spielt eine Geräuschrolle, kein Riff, und fungiert als Klangmasse.
 
-### Live in New York（1981）
+### Lebe in New York (1981)
 
-- ダンス・パンク的要素を強調  
-- サックスの連続音とベースラインの反復により、観客の身体的反応を誘発  
-- ドラムは変拍子的表現を含む
+- Betont Dance-/Punk-Elemente
+- Kontinuierliche Saxophonnoten und wiederholte Basslinien, um beim Publikum eine körperliche Reaktion hervorzurufen
+- Schlagzeug enthält Ausdrücke mit ungeraden Takten
 
 ---
 
-## 6. メンバー交代と影響
+## 6. Mitgliederwechsel und Auswirkungen
 
-- Pat Place → Bush Tetras  
-- Jody Harris → Raybeats  
-- George Scott III → John Cale ツアー  
+- Pat Place → Buschsalmler
+- Jody Harris → Raybeats
+- George Scott III → John Cale Tour
 
-この変遷は、バンド内の即興性と統率の両立を試みる過程で生じた。James Chance はリーダーとしての役割を維持しつつ、各メンバーの個性を最大限活かすアレンジを採用。
+Dieser Übergang erfolgte im Zuge des Versuchs, innerhalb der Band ein Gleichgewicht zwischen Improvisation und Kontrolle herzustellen. Unter Beibehaltung seiner Führungsrolle hat James Chance eine Vereinbarung getroffen, die die Individualität jedes einzelnen Mitglieds maximiert.
 
 <div class="mermaid">
 
@@ -153,21 +154,21 @@ B --> F["Don Christensen → 離脱"]
 
 ---
 
-## 7. 中断・再結成と後期作品
+## 7. Unterbrechung/Wiedervereinigung und Spätwerke
 
-- 1980年代初頭、活動休止  
-- 2001年、オリジナルメンバーによる再結成  
-- 2016年、シングル「Melt Yourself Down」を発表  
-- 最終公演は2019年
+- Anfang der 1980er Jahre suspendiert
+- Wiedersehen mit den ursprünglichen Mitgliedern im Jahr 2001
+- Veröffentlichung der Single „Melt Yourself Down“ im Jahr 2016
+- Endgültige Aufführung im Jahr 2019
 
 ---
 
-## 8. 音楽的遺産と影響
+## 8. Musikalisches Erbe und Einflüsse
 
-- ノー・ウェイヴの中心バンドとしての地位  
-- ダンス・パンク、ポスト・パンクへの影響  
-- ESG、Liquid Liquid など後続アーティストへの技術的／表現的影響  
-- アート・シーンでの再評価
+- Status als Kernband von No Wave
+- Einflüsse auf Dance Punk und Post-Punk
+- Technischer/expressiver Einfluss auf nachfolgende Künstler wie ESG und Liquid Liquid
+- Neubewertung in der Kunstszene
 
 <div class="mermaid">
 
@@ -181,7 +182,7 @@ A --> F["アート再評価"]
 
 ---
 
-## 9. 年表
+## 9. Chronologie
 
 <div class="mermaid">
 
@@ -210,9 +211,9 @@ timeline
 
 ---
 
-## 10. 総括
+## 10. Zusammenfassung
 
-James Chance and the Contortions は、前衛音楽とパフォーマンスの融合を極限まで追求したバンドである。アルバムやライブ演奏におけるリズム、即興性、身体表現は、後のダンス・パンクやポスト・パンクの礎となった。彼らの音楽は短命であったが、今なお革新性の象徴として評価され続けている。
+James Chance and the Contortions ist eine Band, die die Verschmelzung von Avantgarde-Musik und Performance auf die Spitze treibt. Der Rhythmus, die Improvisation und der körperliche Ausdruck ihrer Alben und Live-Auftritte wurden zur Grundlage des späteren Dance-Punk und Post-Punk. Obwohl ihre Musik nur von kurzer Dauer war, gilt sie weiterhin als Symbol für Innovation.
 
 
 ---

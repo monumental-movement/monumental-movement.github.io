@@ -9,12 +9,12 @@ permalink: /fr/yellow-magic-orchestra-x-multiplies-us/
 tags:
 - JPop
 - Techno
-title: Yellow Magic Orchestra – X∞Multiplie
+title: Yellow Magic Orchestra – X∞Multiplies
 ---
 
 
-Le meilleur album de YMO sorti aux États-Unis chez A&M Records en juillet 1980.
-Orchestre de Magie Jaune – Multiprise ».
+1980年7月にA&Mレコードよりアメリカで発売されたYMOのベストアルバム「
+イエローマジックオーケストラ – マルティプライズ」。
 
 日本盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
 

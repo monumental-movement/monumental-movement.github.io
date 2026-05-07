@@ -47,7 +47,7 @@ color: #fff;
 ## Introduction:
 
 À la fin du XXe siècle, la musique du continent africain a commencé à imprégner le monde sous de nouvelles formes. Alors que le Nigérian Fela Kuti défendait « l'Afrobeat politique », le Malien Habib Koité a lancé une révolution de manière plus discrète.
-──Avec une seule guitare, il a recréé le son de l'instrument à cordes traditionnel du Mali, le « kamarengoni », et a créé « la musique malienne sans frontières » avec le groupe « **Bamada** ».
+──Avec une seule guitare, il a recréé le son de l'instrument à cordes traditionnel du Mali « Kamalengoni » et a créé « Musique malienne sans frontières » avec le groupe **Bamada**.
 
 Sa musique ne parle pas de politique. Cependant, au sein de cette tranquillité se trouvent la **dignité ethnique et la continuité culturelle**. Koité était un « traducteur de l'esthétique africaine » à l'ère de la musique mondiale.
 
@@ -56,7 +56,7 @@ Sa musique ne parle pas de politique. Cependant, au sein de cette tranquillité 
 ## Chapitre 1 : L'univers musical du Mali
 
 La République du Mali est un pays enclavé situé en Afrique de l'Ouest. Dans la géographie où se croisent le désert du Sahara et le fleuve Niger, il existe un riche patrimoine culturel remontant à l'empire du Mali au XIIIe siècle.
-La musique de cette terre a été héritée par les griots = conteurs/musiciens traditionnels. Leur rôle n'est pas seulement celui d'interprètes, mais celui de **gardiens de la mémoire nationale**.
+La musique de cette terre a été héritée par les griots (conteurs/musiciens traditionnels). Leur rôle n'est pas seulement celui d'interprètes, mais celui de **gardiens de la mémoire nationale**.
 
 Bambara, Songhaï, Touareg, Peul, Dogon... Chaque ethnie possède son propre instrument de musique et son propre système mélodique, et les rythmes s'entremêlent en de multiples couches.
 Cette diversité est la « polyphonie fondamentale » de la musique malienne, et Koité a repositionné la « guitare » en son centre.
@@ -66,10 +66,10 @@ Cette diversité est la « polyphonie fondamentale » de la musique malienne, et
 ## Chapitre 2 : Origine et années de formation d'Habib Koite
 
 Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère faisait partie de la famille de Geri et elle a grandi entourée de musique et d'histoires dès son plus jeune âge.
-Jeune homme, il étudie à l'**Institut National des Arts (INA)** de Bamako, où il maîtrise la guitare classique et le solfège.
+Dans sa jeunesse, il étudie à l'**Institut National des Arts (INA)** de Bamako, où il maîtrise la guitare classique et le solfège.
 Après avoir obtenu son diplôme, il a commencé à innover dans son style de jeu de guitare.
 
-Koité a conçu une technique de jeu unique dans laquelle il tirait les cordes avec ses ongles au lieu de ses doigts, reproduisant le son délicat du kamarengoni.
+Koité a conçu une technique de jeu unique dans laquelle il tirait les cordes avec ses ongles au lieu de ses doigts, reproduisant ainsi le son délicat du kamarengoni.
 Le son produit par cette guitare rejette l'accordage européen et se rapproche des rythmes africains. C'était comme le bruit du **vent du désert et du courant du fleuve Niger**.
 
 ---

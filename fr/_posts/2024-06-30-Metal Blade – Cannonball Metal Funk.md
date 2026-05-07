@@ -9,15 +9,15 @@ permalink: /fr/metal-blade-cannonball-metal-funk/
 tags:
 - Techno
 - 00s
-title: Lame en métal – Boulet de canon Metal Funk
+title: Metal Blade – Cannonball Metal Funk
 ---
 
 
-Metal Blade est un projet du DJ/producteur techno japonais Fumiaki Kobayashi et du DJ/guitariste Masayuki Ozaki.
+Metal Bladeは、日本出身のテクノDJ・プロデューサーFumiaki KobayashiとDJ・ギタリストMasayuki Ozakiによるプロジェクト。
 
-Fumiaki Kobayashi dirige le label techno Gatearray Recordings et est principalement actif à la soirée techno Akihabara Heavy Industries. Depuis 2014, il est également actif sous le nom de KURAYAMI.
+Fumiaki Kobayashiは、テクノレーベルgatearray recordings を運営し、テクノパーティー秋葉原重工を中心に活動。2014年からはKURAYAMIという名義でも活動している。
 
-"Cannonball / Metal Funk" est un morceau techno sorti en 2003 par Giant Wheel, un label fondé par Clemens Neufeld, connu comme un pionnier de la house techno autrichienne et fondateur du premier club techno de Vienne "Space Jungle".
+「Cannonball / Metal Funk」は、オーストリアのハウス・テクノのパイオニアとして知られ、ウィーン初のテクノクラブ「Space Jungle」を設立したClemens Neufeldが設立したレーベルGiant Wheelから2003年にリリースされたテクノトラック。
 
 #### Liste des chansons
 ```md

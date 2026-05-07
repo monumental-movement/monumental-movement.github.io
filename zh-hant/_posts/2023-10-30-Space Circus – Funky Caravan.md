@@ -14,7 +14,7 @@ title: 太空馬戲團 – 時髦大篷車
 ---
 
 
-《Funky Caravan》是活躍於 20 世紀 70 年代末的日本前衛搖滾與融合樂團 Space Circus 的首張專輯。貝斯手 Hajime Okano 是音樂製作人，曾參與 Starlin、POLYSICS 和 L'Arc~en~Ciel 等眾多樂團的演出。
+「Funky Caravan（ファンキー・キャラバン）」は、1970年代後半に活躍した日本のプログレ＆フュージョンバンドSpace Circus(スペース・サーカス)のデビューアルバム。ベースの岡野 ハジメは音楽プロデューサーとして、スターリン、POLYSICS、L'Arc〜en〜Ciel(ラルク アン シエル)など多数のバンドに関わっている。
 
 #### 曲目表
 ```md

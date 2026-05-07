@@ -8,11 +8,11 @@ layout: post
 permalink: /fr/rakim-the-saga-begins/
 tags:
 - Hiphop
-title: Rakim – La saga commence
+title: Rakim – The Saga Begins
 ---
 
 
-"The Saga Begins" est un single (version bootleg) du premier album solo de Rakim "The 18th Letter" sorti en 1997. Le producteur est Pete Rock.
+「The Saga Begins」は、1997年にリリースされたRakimのソロデビューアルバム「The 18th Letter ザ・エイティーンス・レター」からのシングルカット（ブートレッグ盤）。プロデューサーはPete Rock（ピート ロック）。
 
 #### Liste des chansons
 ```md

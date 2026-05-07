@@ -9,7 +9,7 @@ permalink: /zh-hant/arti-try-the-worker/
 tags:
 - House
 - 90s
-title: Arti$try – The Worker
+title: Arti$try – 工人
 ---
 
 

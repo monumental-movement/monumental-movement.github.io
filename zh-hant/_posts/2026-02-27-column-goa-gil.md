@@ -22,7 +22,7 @@ title: '[專欄]果阿吉爾：無盡的舞池與儀式時間'
 
 Goa Gil 是一位美國 DJ，也是 Goa trance 早期活躍的核心人物之一。在經歷了 20 世紀 60 年代舊金山的反主流文化後，他於 1970 年代初搬到了印度果阿。此後，它引領了戶外派對文化數十年。
 
-* 真實姓名：吉爾伯特·利維
+* 本名：Gilbert Levey
 * 1951年出生於美國
 * 70年代初移居果阿
 * DJ 活動從 20 世紀 80 年代開始變得嚴肅起來。
@@ -78,7 +78,7 @@ color: #fff;
 3. 黎明峰
 一首迷幻且振奮人心的歌曲
 4. 白天的加深
-走向黑暗和實驗的軌道
+   ダークで実験的なトラックへ移行
 
 他稱之為“迷幻瑜伽”，並表示他的目標是透過舞蹈改變意識。
 
@@ -147,8 +147,8 @@ BPM 開始時為 130 左右，高峰時可達 150 左右。合成器琶音是分
 
 |年份|活動 |
 | -------- | ----------------- |
-| 1951 |出生於舊金山|
-| 20 世紀 70 年代初 |搬到果阿 |
+| 1951 | Born in San Francisco |
+| Early 1970s | Move to Goa |
 | 20 世紀 80 年代 |海灘派對DJ活動如火如荼|
 | 20 世紀 90 年代 |果阿跨國際化，世界巡迴演唱會|
 | 2000 年代 |大型節慶長集延續|
@@ -220,5 +220,14 @@ D --> E[Daytime Psychedelic Phase]
 他強調透過舞蹈來轉變意識，並認為時間的堅持很重要。
 
 > 果阿吉爾的聚會是時間擴展的試驗場。
+
+---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yx9c4IrmyT4?si=hBq2uYJyZ6vv9T2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

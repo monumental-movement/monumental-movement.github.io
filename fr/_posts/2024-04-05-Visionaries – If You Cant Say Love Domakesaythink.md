@@ -10,17 +10,17 @@ tags:
 - Hiphop
 - Rap
 - 00s
-title: Visionnaires – Si vous ne pouvez pas dire amour Domakesaythink
+title: Visionaries – If You Can't Say Love Domakesaythink
 ---
 
 
-Visionaries est un groupe de six musiciens hip-hop conscients basé à Los Angeles, formé en 1995.
+Visionaries（ヴィジョナリーズ/ビジョナリーズ）は、 1995年に結成されたロサンゼルスを拠点とする6人組コンシャス・ヒップホップ・グループ。
 
-Les membres sont LMNO (J. Kelly), 2Mex (A. Ocana), Key-Kool (Kikuo Nishi), DJ Rhettmatic (N. Nirza), Lord Zen (D. Hood) et Dannu (D. Reyes).
+メンバーは、LMNO (J. Kelly)、2Mex (A. Ocana)、Key-Kool (Kikuo Nishi)、 DJ Rhettmatic (N. Nirza) 、Lord Zen (D. Hood) 、Dannu（D. Reyes）。
 
-Les morceaux 1 et 3 de la face A sont produits par le DJ de renommée mondiale J.Rocc, connu sous le surnom de Funky President.
+A面１＆３曲目は、Funky Presidentの愛称で知られる世界的なDJ J.Roccがプロデュース。
 
-Les faces B 1 et 3 sont produites par Kikuo Nishi, membre des Visionaries, alias Key Kool.
+B面１＆３曲目は、VisionariesのメンバーKikuo NishiことKey Koolがプロデュース。
 
 #### Liste des chansons
 ```md

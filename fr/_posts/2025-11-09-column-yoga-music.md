@@ -47,7 +47,7 @@ color: #fff;
 ## table des matières
 1. [Chapitre 1 : Rythme ancien et spiritualité](#chapitre1)
 2. [Chapitre 2 : Yoga moderne et musicothérapie](#chapitre2)
-3. [Chapitre 3 : Yoga et musique modernes](#chapitre3)
+3. [Chapitre 3 : Yoga moderne et musique](#chapitre3)
 4. [Chapitre 4 : Perspective scientifique](#chapitre4)
 5. [Chapitre 5 : Aspects culturels et sociaux](#chapitre5)
 6. [Chapitre 6 : Guide pratique](#chapitre6)

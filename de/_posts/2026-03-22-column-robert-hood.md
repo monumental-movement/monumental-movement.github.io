@@ -85,7 +85,7 @@ Man kann sagen, dass dieses Album die Blaupause für den späteren Minimal Techn
 
 ## Meisterwerk: Die Praxis und Entwicklung des Minimalismus
 
-Die Innovation von Robert Hood lässt sich anhand einiger seiner Meisterwerke besser verstehen.
+Die Innovation von Robert Hood lässt sich anhand mehrerer seiner Meisterwerke besser verstehen.
 
 Das erste, was ich erwähnen sollte, ist das Album „Minimal Nation“. Dieses Werk ist der Ursprung des Minimal Techno und die Kristallisation seiner Ideen in ihrer reinsten Form. Jeder Track ist extrem einfach, erzeugt aber durch sorgfältige Rhythmusgestaltung einen kraftvollen Groove.
 

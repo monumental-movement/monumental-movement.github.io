@@ -21,7 +21,7 @@ title: '[Chronique] Choral / Vocal Expérimental'
 Texte : mmr｜Thème : Développement historique, artistes représentatifs, analyse technique, contexte de l'enregistrement sonore/vidéo, tendances du travail contemporain
 
 Le « Choral/Vocal Experimental » est un domaine né de l’intersection de la musique expérimentale, de la recherche acoustique et des idées électroacoustiques de la seconde moitié du XXe siècle sur la forme musicale la plus ancienne du chœur.
-Sa particularité est qu'il va au-delà de la simple recherche de la beauté des harmonies et couvre une grande variété de techniques, y compris l'exploration des phénomènes acoustiques utilisant la voix comme matériau, la spatialisation, la manipulation microtonale, la structure de phase et la fusion avec le traitement électronique.
+Sa particularité est qu'il va au-delà de la simple recherche de la beauté des harmonies et couvre une grande variété de techniques, notamment l'exploration de phénomènes acoustiques utilisant la voix comme matériau, la spatialisation, la manipulation microtonale, la structure de phase et la fusion avec le traitement électronique.
 Cette tendance a présenté un nouveau style d’écoute de la culture chorale traditionnelle et a eu un impact majeur sur l’art acoustique dans son ensemble.
 
 ---
@@ -39,7 +39,7 @@ color: #fff;
 }
 </style>
 
-# 1. Présentation
+# 1. Introduction
 
 L’instrument de musique le plus primitif de l’histoire de l’humanité est la voix, et l’expression collaborative de plusieurs personnes par la voix s’est développée en étroite collaboration avec les rituels religieux et les structures communautaires.
 Cependant, l'image moderne du « chœur = harmonie disciplinée et homogène » n'est en réalité qu'un ensemble de valeurs devenues dominantes au cours d'une période limitée du 19e au 20e siècle.
@@ -56,7 +56,7 @@ Nous examinons ici comment la musique chorale a acquis des éléments expérimen
 ##2-1. De la Renaissance au baroque : fondements de la polyphonie
 
 * Le développement de la polyphonie par Palestrina et Josquin à partir de la monophonie du chant grégorien constitue la base de la structure multicouche de la voix.
-* Déjà à la Renaissance, certaines œuvres utilisaient la **superposition de textures** et la **disposition spatiale** dans les canons, les messes et les motets, ce qui est devenu le prototype d'approches expérimentales ultérieures.
+* Déjà à la Renaissance, certaines œuvres utilisaient la **superposition de textures** et l'**arrangement spatial** dans les canons, les messes et les motets, ce qui est devenu le prototype d'approches expérimentales ultérieures.
 
 ##2-2. Première moitié du XXe siècle : l’émergence de perspectives avant-gardistes sur la voix
 
@@ -92,7 +92,7 @@ En particulier dans les œuvres traitant des voix, la position du larynx, de la 
 Eric Whitacre est un pont entre la musique chorale traditionnelle et un esprit d'expérimentation sonore.
 
 *《Lux Aurumque》(2000)
-*《Sommeil》(2000)
+*《Sommeil》 (2000)
 etc., se situent entre la polyphonie et la riche harmonie parallèle, et se caractérisent par la densité harmonique et la manipulation de la densité texturale.
 
 De plus, l’initiative « Virtual Choir » était innovante dans la mesure où elle élargissait la réalité du chant choral à la production collaborative numérique.
@@ -209,7 +209,7 @@ Whittaker est connue pour ses œuvres chorales qui conservent une beauté classi
 
 ### Chœur Virtuel
 
-« Virtual Choir », qui a eu lieu dans les années 2010, était une tentative d'intégrer des voix individuelles enregistrées du monde entier dans un gigantesque chœur.
+« Virtual Choir », qui a eu lieu dans les années 2010, est une tentative d'intégrer des voix individuelles enregistrées du monde entier et de créer un chœur gigantesque.
 Ceci est remarquable dans l’histoire de la musique comme une **expansion du concept de chant choral à l’ère d’Internet**.
 
 ---
@@ -297,7 +297,7 @@ C’est un exemple typique de la transformation de la voix en instrument.
 
 # 9. Tendances au 21ème siècle
 
-Modern Vocal Experimental a encore progressé dans les domaines suivants.
+Modern Vocal Experimental a réalisé de nouveaux progrès dans les domaines suivants.
 
 ##9-1. Intégration de la voix et du son électronique
 

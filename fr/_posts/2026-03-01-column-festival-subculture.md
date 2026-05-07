@@ -109,7 +109,7 @@ Les bracelets, T-shirts et signes de main courants fonctionnent comme un capital
 ### Contagion émotionnelle
 
 Les acclamations, les sauts et les refrains de la foule diffusent les émotions.
-Des recherches ont montré que le processus consistant à imiter les expressions faciales et les mouvements corporels des autres augmente le partage émotionnel.
+Des recherches ont montré que le processus d'imitation des expressions faciales et des mouvements corporels d'autrui augmente le partage émotionnel.
 
 Lors des festivals, ce processus se déroule simultanément avec des dizaines de milliers de personnes.
 
@@ -214,7 +214,7 @@ Mais les communautés en ligne entretiennent un sentiment d’appartenance.
 La psychologie des foules a non seulement des effets positifs, mais aussi des dangers.
 Des études sur les accidents d'avalanches massives ont montré qu'une fois que l'augmentation de la densité dépasse un seuil, elle devient incontrôlable.
 
-Les festivals à grande échelle de ces dernières années mettent l’accent sur la conception des lignes de flux, la gestion de la densité et la surveillance en temps réel.
+Les festivals à grande échelle de ces dernières années mettent l'accent sur la conception de lignes de flux, la gestion de la densité et la surveillance en temps réel.
 
 Le défi institutionnel est d’assurer la sécurité tout en maintenant l’élévation psychologique.
 

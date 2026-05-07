@@ -10,13 +10,13 @@ tags:
 - Techno
 - Detroit Techno
 - 90s
-title: Antriebsstrang – Symphonium
+title: Drivetrain – Symphonium
 ---
 
 
-„Symphonium“ ist ein Techno-Track, produziert von Drivetrain, einem in der Detroiter Techno-Szene aktiven Künstler.
+「Symphonium」は、デトロイトテクノシーンで活躍するアーティス、ドライブトレインによって制作されたテクノトラックです。
 
-„Symphonium“ hat dunkle und melodische Elemente, verfügt jedoch über einen energiegeladenen und tanzbaren Rhythmus, der die einzigartige Klangidentität des Antriebsstrangs deutlich zum Ausdruck bringt. Dieses Lied wird Techno-Fans und Liebhaber von Tanzmusik ansprechen.
+「Symphonium」は、ダークでメロディアスな要素を持ちながらも、エネルギッシュでダンサブルなリズムが特徴的で、ドライブトレインの独自のサウンドアイデンティティがしっかりと表現されています。この楽曲は、テクノファンやダンスミュージックの愛好家にとって魅力的な作品となっています。
 
 #### Trackliste
 ```md

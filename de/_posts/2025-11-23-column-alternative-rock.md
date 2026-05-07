@@ -25,7 +25,7 @@ Text: mmr｜Thema: 40 Jahre Geschichte, bis die Gegenkultur zum Mainstream wurde
 
 Obwohl der Begriff „Alternative Rock“ in den frühen 1990er Jahren populär wurde, lassen sich seine Ursprünge auf die Underground-Szenen der Vereinigten Staaten und Großbritanniens in den frühen 1980er Jahren zurückführen.
 
-In den 1980er Jahren konzentrierte sich der Mainstream-Rock auf lauten, arenagroßen Hardrock, kommerziell aufpolierten AOR und Pop-Rock im Zusammenhang mit MTV. Andererseits begann in regionalen Städten und Universitätsstädten eine neue Bewegung von Bands zu entstehen, die im DIY-Geist verwurzelt waren und nicht auf kommerziellen Erfolg basierten.
+In den 1980er Jahren konzentrierte sich der Mainstream-Rock auf lauten, arenagroßen Hardrock, kommerziell polierten AOR und Pop-Rock im Zusammenhang mit MTV. Andererseits begann in regionalen Städten und Universitätsstädten eine neue Bewegung von Bands zu entstehen, die im DIY-Geist verwurzelt waren und nicht auf kommerziellen Erfolg basierten.
 
 In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung namens „College Rock“, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
 
@@ -56,7 +56,7 @@ R.E.M.s „Murmur“ aus dem Jahr 1983 ist als Ausgangspunkt für Alternativen b
 
 Etwa zur gleichen Zeit entstanden Bands wie The Replacements, Hüsker Dü, The Feelies und Sonic Youth, die flexibel Lärm, Melodie und Experimente mischten. Insbesondere Sonic Youths Auseinandersetzung mit Gitarrenstimmung und Geräuschstruktur hatte großen Einfluss auf die spätere alternative Musik.
 
-In Großbritannien debütierten The Smiths 1984. Durch die Kombination der Zartheit des Gitarrenpops mit sozialen Themen bestimmten sie die Werte des späteren Indie-Rock.
+In Großbritannien debütierten The Smiths 1984. Durch die Kombination der Feinheit des Gitarrenpops mit sozialen Themen bestimmten sie die Werte des späteren Indie-Rock.
 
 Das gemeinsame Merkmal dieser Zeit ist, dass „die Ideologie der Musik vorausging“.
 
@@ -145,7 +145,7 @@ Mit Tame Impalas psychedelischer Route, Bon Ivers digitaler/Folk-Fusion, Deerhun
 
 Anstelle des „Anti-Kommerzialismus“ der Vergangenheit,
 **„Eine Produktionshaltung, die Unabhängigkeit und Experimentierfreude betont“**
-Dies blieb die Essenz von alterna.
+Dies blieb die Essenz von Alterna.
 
 ---
 

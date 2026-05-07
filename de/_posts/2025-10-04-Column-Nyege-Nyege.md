@@ -36,7 +36,7 @@ color: #fff;
 }
 </style>
 
-## Inhaltsverzeichnis
+## 目次
 
 1. [Grundlage und Hintergrund](#beginning)
 2. [Vorstellung von Album und Projekt](#album)
@@ -44,7 +44,7 @@ color: #fff;
 4. [Acolitronix](#acholitronix)
 5. [Electro Maloya](#electro-maloya)
 6. [Anekdoten und Legenden](#Geschichte)
-7. [Kulturelle Bedeutung von Nyege Nyege als Ganzes](#Kultur)
+7. [Kulturelle Bedeutung von Nyege Nyege als Ganzes](#kultur)
 8. [Aktuelle Aktivitäten und Perspektiven](#now)
 9. [Empfohlener YouTube-Link](#youtube)
 10. [Zusammenfassung](#Schlussfolgerung)
@@ -239,7 +239,7 @@ Electro Maloya ist ein experimenteller Stil, der die traditionelle Musik der Ins
 | BPM | 100-140 BPM, traditioneller langsamer Maloya-Rhythmus |
 | Rhythmus | Looping-Percussion-Polyrhythmus |
 | Melodie | Synthesizer-Rekonstruktion traditioneller Melodien und Refrains |
-| Gesang | Hauptsächlich Chorus, Sampling + Hall |
+| Gesang | Hauptsächlich Chor, Sampling + Hall |
 | Songstruktur | Traditionelle Gründung + Clubaufbau/-unterbrechung/-abbruch |
 | Ton | Erweitern Sie den Raum mit analogen Synth-Loop-Effekten |
 
@@ -349,5 +349,5 @@ Nachfolgend finden Sie einige empfohlene YouTube-Links zu Nyege Nyege:
 ### <a id="conclusion"></a>Zusammenfassung
 
 Nyege Nyege ist eine wichtige Musikgruppe, die „Outsider-Musik“ verbreitet, die traditionelle afrikanische Musik und moderne elektronische Musik in der Welt verbindet. Das Label Nyege Nyege Tapes steht an vorderster Front bei der Förderung der Fusion traditioneller afrikanischer Musik und elektronischer Musik, darunter Shingeli, Akolitronics, Electro Maloya usw.
-Wir haben eine einzigartige Position in der Weltmusikszene etabliert, indem wir gleichzeitig die lokale Kultur bewahren, Stadt- und Jugendkultur zum Ausdruck bringen und sie international verbreiten. Ihre Aktivitäten erinnern uns daran, wie wichtig nicht nur Musik, sondern auch kulturelle Vielfalt und soziale Integration sind. Wir werden ihre Musik und Aktivitäten weiterhin im Auge behalten.
+Wir haben eine einzigartige Position in der Weltmusikszene geschaffen, indem wir gleichzeitig die lokale Kultur bewahren, Stadt- und Jugendkultur zum Ausdruck bringen und sie international verbreiten. Ihre Aktivitäten erinnern uns daran, wie wichtig nicht nur Musik, sondern auch kulturelle Vielfalt und soziale Integration sind. Wir werden ihre Musik und Aktivitäten weiterhin im Auge behalten.
 

@@ -67,10 +67,10 @@ B4. Charm–Walk On The Wild Side
 <hr>
 
 
-### Petter – Untitled Acid EP
+### Petter – Acid EP ohne Titel
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-Rekonstruieren von Acid mit moderner Klangkreation. Schwebend zwischen Minimal und Progressive Rock.
+Säure rekonstruieren mit moderner Klangkreation. Schwebend zwischen Minimal und Progressive Rock.
 
 #### Trackliste
 ```md

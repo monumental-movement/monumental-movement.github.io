@@ -11,13 +11,13 @@ tags:
 - Deep House
 - Broken Beat
 - 00s
-title: Bangana – Bang Bang Bang auffrischen
+title: Bangana – Refresh Bang Bang Bang
 ---
 
 
-Bangana ist ein schwedisches Duo bestehend aus Alf Tumble und Magnus Rydén. Auch unter den Namen S.U.M.O. aktiv. und Tumble & Combo.
+Bangana(バンガナ)は、スウェーデン出身のAlf TumbleとMagnus Rydén によるデュオ。S.U.M.O. 、Tumble & Combo名義でも活動している。
 
-„Refresh / Bang Bang Bang“ ist ein Tribal-, Deep-House- und Broken-Beat-Track, der 2006 vom schwedischen Label HEYA HIFI veröffentlicht wurde.
+「Refresh / Bang Bang Bang」は、2006年にスウェーデンのレーベルHEYA HIFI からリリースされたTribal、Deep House、Broken Beatトラック。
 
 #### Trackliste
 ```md

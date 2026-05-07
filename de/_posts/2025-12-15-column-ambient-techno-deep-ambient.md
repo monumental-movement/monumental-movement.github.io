@@ -63,9 +63,9 @@ Diese Designphilosophie wurde zur Grundlage von Ambient Techno und hatte einen e
 
 ## 4. Metapher des Tiefseegefühls
 
-Das Wort „Tiefsee“ ist kein Musikgenre, sondern eine akustische Metapher. Der Kern von Deep-Sea-Ambient ist der Versuch, durch Klang eine Umgebung nachzubilden, in die das Licht nicht gelangt, der Sinn für Distanz verloren geht und der Sinn für Richtung mehrdeutig ist.
+Das Wort „Tiefsee“ ist kein Musikgenre, sondern eine akustische Metapher. Der Kern von Deep-Sea-Ambient ist der Versuch, durch Klang eine Umgebung nachzubilden, die das Licht nicht erreicht, das Gefühl für Distanz verloren geht und das Gefühl für die Richtung mehrdeutig ist.
 
-Diese Metapher ist kein Zufall. In tiefem Wasser werden hohe Frequenzen gedämpft und niedrige Frequenzen breiten sich über große Entfernungen aus. Der Ort der Schallquelle wird unklar und der Schall wird als Schicht statt als Punkt wahrgenommen. Deep Sea Ambient nutzt diesen physikalischen Zustand in seinem akustischen Design.
+Diese Metapher ist kein Zufall. In tiefem Wasser werden hohe Frequenzen gedämpft und niedrige Frequenzen breiten sich über große Entfernungen aus. Der Standort der Schallquelle wird unklar und der Schall wird als Schicht und nicht als Punkt wahrgenommen. Deep Sea Ambient nutzt diesen physikalischen Zustand in seinem akustischen Design.
 
 
 ---
@@ -92,7 +92,7 @@ Wichtig ist, dass der Nachhall als Indikator für den Zeitablauf fungiert. Währ
 
 ## 7. Technisches Kapitel: Psychologische Auswirkungen und Hörbedingungen
 
-Das Aufrechterhalten niedriger Frequenzen, langsamer Veränderungen und langer Nachhall führt zu einer psychologisch geringeren Wachsamkeit. Das bedeutet, dass Musik keine Emotionen weckt, sondern als Instrument zur Regulierung von Bewusstseinszuständen fungiert.
+Das Aufrechterhalten niedriger Frequenzen, langsamer Veränderungen und langer Nachhallzeiten führt zu einer psychologisch geringeren Wachsamkeit. Das bedeutet, dass Musik keine Emotionen weckt, sondern als Instrument zur Regulierung von Bewusstseinszuständen fungiert.
 
 Tiefsee-Ambient-Musik hat eine hohe Affinität zu Konzentration, Selbstbeobachtung und einem halbwachen Zustand und eignet sich daher hervorragend für Hintergrundmusik und Meditation bei der Arbeit.
 
@@ -147,7 +147,7 @@ Beim Einsatz von Hintergrundmusik am Arbeitsplatz kommt es nicht darauf an, Aufm
 Bei meditativen Anwendungen ist Musik nicht das Objekt, sondern der Hintergrund. Die Tiefseeumgebung erfüllt diese Bedingung strukturell.
 
 
-## 14. Chronologie
+## 14. 年表
 
 * 1970er Jahre: Entstehung des Konzepts der Ambient-Musik
 * Ende der 1980er Jahre: Etablierung von Techno

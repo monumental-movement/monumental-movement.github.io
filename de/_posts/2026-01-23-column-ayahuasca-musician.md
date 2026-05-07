@@ -55,7 +55,7 @@ Erst in den 1990er Jahren begannen Musiker, ihre Erfahrungen öffentlich zu teil
 
 ---
 
-## Kapitel 2: Luciano und der Wahrnehmungswandel Anfang der 2000er Jahre
+## Kapitel 2: Luciano und der Wahrnehmungswandel in den frühen 2000er Jahren
 
 Lucianos Hinweise auf Ayahuasca-Erlebnisse konzentrieren sich auf die Zeit zwischen 2003 und 2005. Diese Zeit fiel mit der Zeit zusammen, als er zwischen Europa und Südamerika hin und her reiste und seine eigene Ästhetik festigte.
 Konsequent in seinen Aussagen ist seine Haltung, seine Erfahrungen nicht an bestimmte Lieder oder Erfolgsfaktoren zu knüpfen. Worüber er spricht, ist der Wandel vom Gefühl, den Klang zu manipulieren, zum Gefühl, ständig dem Klang zuzuhören, und die Neudefinition des DJ-Auftritts selbst.
@@ -66,7 +66,7 @@ Konsequent in seinen Aussagen ist seine Haltung, seine Erfahrungen nicht an best
 
 ## Kapitel 3: Ai Yamazukas Reisen und rituelle Erlebnisse in den späten 1990er Jahren
 
-Ai Yamazuka erwähnte erstmals Ende der 1990er Jahre Reisen und rituelle Erlebnisse. In Interviews und Gesprächen hat er über seine Reiseerlebnisse und Erfahrungen rund um den Körper und die Gruppenheit gesprochen.
+Ai Yamazuka erwähnte erstmals Ende der 1990er Jahre Reisen und rituelle Erfahrungen. In Interviews und Gesprächen hat er über seine Reiseerlebnisse und Erfahrungen rund um den Körper und die Gruppenheit gesprochen.
 Der sich wiederholende Rhythmus und die feierliche Natur der späten „Boredoms“ und „OOIOO“ lassen sich nicht auf ein einziges Erlebnis reduzieren. Er beschreibt sie als eine Kombination aus Reisen, körperlichem Training und gemeinschaftlicher Leistung.
 
 > Ai Yamazukas Erzählung zeigt ihre Erfahrung nicht als Erklärung ihrer Arbeit, sondern als Veränderung ihrer Sicht auf den Körper.

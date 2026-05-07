@@ -9,13 +9,13 @@ permalink: /fr/rotterdam-wolves-rotterdam-anthem/
 tags:
 - Techno
 - Gabber
-title: Wolves de Rotterdam – Hymne de Rotterdam
+title: Rotterdam Wolves – Rotterdam Anthem
 ---
 
 
-Rotterdam Wolves est un projet de Hans Tieleman, propriétaire du label néerlandais house/techno-hardcore Mid-Town Records, Rene Bakker et Joost Walter.
+Rotterdam Wolvesは、オランダのハウス/テクノハードコアのレーベルMid-Town RecordsのオーナーHans TielemanとRene Bakker、Joost Walterによるプロジェクト。
 
-"Rotterdam Anthem" est un morceau techno hardcore/gabber sorti en 1993 par Skip Records, un label hardcore/gabber basé à Rotterdam, aux Pays-Bas.
+「Rotterdam Anthem」は、オランダ・ロッテルダムを拠点とするハードコア/ガバーレーベルSkip Recordsより1993年にリリースされたハードコア・ガバ・テクノトラック。
 
 #### Liste des chansons
 ```md

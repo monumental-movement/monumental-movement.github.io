@@ -13,7 +13,7 @@ title: Ratty – 日出（我在這裡）
 ---
 
 
-Ratty 是德國藝術家 Scooter 的 trance 項目，擅長快樂硬派、彈性、電子音樂、電子音樂、恍惚音樂和硬派音樂。
+Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
 
 B面《Sunrise (Here I Am) (Instrumental)》是Scooter 2000年單曲《She's The Sun》的原版，名為《Sunrise (Ratty's Inferno)》。
 

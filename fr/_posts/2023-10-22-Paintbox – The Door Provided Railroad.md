@@ -10,11 +10,11 @@ tags:
 - Hardcore
 - Punk
 - 7inch
-title: Paintbox – Le chemin de fer fourni par la porte
+title: Paintbox – The Door  Provided Railroad
 ---
 
 
-Le deuxième 7 pouces de Paintbox est sorti en 1999 sur le label HG Fact. Enregistré au studio Our House.
+1999年にHG Factレーベルよりリリースされた、Paintbox（ペイントボックス）の2nd 7インチ。録音はスタジオOur House。
 
 #### Liste des chansons
 ```md

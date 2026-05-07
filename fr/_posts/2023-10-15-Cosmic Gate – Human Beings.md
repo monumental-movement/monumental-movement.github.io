@@ -9,12 +9,12 @@ permalink: /fr/cosmic-gate-human-beings/
 tags:
 - Trance
 - Hard Trance
-title: Porte Cosmique – Êtres Humains
+title: Cosmic Gate – Human Beings
 ---
 
 
-« Porte Cosmique – Êtres Humains »
-La face B est un remix de G&M (Robert Gitelman & Jaron Martinez), un groupe de transe bien connu sur la scène dance européenne du début des années 2000.
+「Cosmic Gate – Human Beings」の
+B面は2000年代初頭のヨーロッパダンスシーンでよく知られたトランスアクトG&M（Robert Gitelman & Jaron Martinez）によるremix。
 
 
 #### Liste des chansons

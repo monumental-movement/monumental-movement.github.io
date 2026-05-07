@@ -10,15 +10,15 @@ tags:
 - House
 - Garage House
 - Soul
-title: Ann Nesby et Al Green – Mettez-le sur papier
+title: Ann Nesby & Al Green – Put It On Paper
 ---
 
 
-DJ Spen & Karizma mixent l'album "Put It On Paper" d'Ann Nesby.
+Ann Nesby （アン・ネスビー）のアルバム「Put It On Paper（プット・イット・オン・ペーパー）をDJ Spen & Karizmaがmix。
 
-Karizma est une DJ/productrice de Baltimore et ancienne membre des Basement Boys. Actif dans un large éventail de scènes telles que la deep house, la deep techno, le hip hop, le jazz et le Broken Beat.
+Karizma（カリズマ）は、ボルチモア出身のDJ/プロデューサーであり元The Basement Boysのメンバー。ディープハウス、ディープテクノ、ヒップホップ、ジャズ、ブロークンビートなどの幅広いシーンで活躍。
 
-DJ Spen est un DJ/producteur de Baltimore et ancien membre des Basement Boys. Formé DJ Spen & The MuthaFunkaz au début des années 2000.
+DJ Spenは、ボルチモア出身のDJ/プロデューサーであり元The Basement Boysのメンバー。2000年代初頭にDJ Spen & The MuthaFunkazを結成。
 
 #### Liste des chansons
 ```md

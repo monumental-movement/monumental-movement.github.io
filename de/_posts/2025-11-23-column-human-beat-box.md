@@ -122,7 +122,7 @@ Das rasante Wachstum war in den letzten Jahren bemerkenswert.
 - Hohe Klangqualität
 - Geschwindigkeit der Anpassung an Genres
 
-Japans Stärken sind insbesondere „Genauigkeit des Tons“, „Kompositionsfähigkeit“ und „Kompatibilität mit Bildern und Produktion“.
+Zu den Stärken Japans gehören insbesondere „Tongenauigkeit“, „Kompositionsfähigkeit“ und „Kompatibilität mit Bildern und Produktion“.
 
 ---
 
@@ -132,7 +132,7 @@ Japans Stärken sind insbesondere „Genauigkeit des Tons“, „Kompositionsfä
 In Japan hat es sich seit Mitte der 2000er Jahre auf den Straßen und bei Veranstaltungen verbreitet, und Techniken werden zwischen Künstlern durch Übungsstunden und die Teilnahme an Wettbewerben weitergegeben.
 
 ## ◆ 2. Starke technische Ausrichtung
-Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus und werden selbst von ausländischen Spielern hoch gelobt.
+Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus und werden sogar von ausländischen Spielern gelobt.
 
 ## ◆ 3. Fusion mit Video- und Bearbeitungskultur
 Hauptsächlich auf YouTube und SNS,
@@ -147,7 +147,7 @@ Im Folgenden werfen wir einen faktenbasierten Blick auf international aktive jap
 
 ---
 
-## ◆ A. SO-SO – Innovation und musikalische Konstruktion von Loop-Stationen
+## ◆ A. SO-SO – Innovation der Loop-Station und musikalische Konstruktion
 
 ### ● Internationale Anerkennung
 SO-SO ist ein repräsentativer japanischer Künstler, der sich in der Kategorie Loopstation einen weltweiten Ruf erworben hat.
@@ -246,7 +246,7 @@ Mit der Entwicklung von Loopstation, Beatboxen
 Hin zu einem Bereich, der angerufen werden kann
 
 ## ◆ 2. Kombination mit visueller Kultur
-Die Zahl der „videobasierten Showcases“ nimmt bei Turnieren auf der ganzen Welt zu.
+„Videobasierte Showcases“ nehmen bei Wettbewerben auf der ganzen Welt zu.
 Wir leben in einer Zeit, in der SNS den Stil beschleunigt.
 
 ## ◆ 3. Zukunft der japanischen Stärken
@@ -265,7 +265,7 @@ Wir können davon ausgehen, dass er weiterhin sowohl im Loopstation-Bereich als 
 # Fazit – Human Beatbox als Kultur
 
 Human Beatbox ist eine moderne Ausdruckskultur, die viele Aspekte wie Musik, Performance, Video und Komposition vereint.
-Jetzt, wo die Wettbewerbskultur ausgereift ist, sich die Technologie weiterentwickelt und japanische Künstler auftauchen, erfährt Beatboxing große Veränderungen und Beatboxing wird mehr als nur eine Technik, es wird zu einem internationalen Musikgenre.
+Heutzutage durchläuft Beatboxing große Veränderungen wie die Reifung der Wettbewerbskultur, die Weiterentwicklung der Technologie und den Aufstieg japanischer Künstler, und Beatboxing wird mehr als nur eine „Technik“, sondern etabliert sich als internationales Musikgenre.
 
 Ich hoffe, dass dieser Artikel Ihnen hilft, die Geschichte und Zukunft des Beatboxens zu verstehen.
 

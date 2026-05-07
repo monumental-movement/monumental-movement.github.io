@@ -15,7 +15,7 @@ title: Drumagick – Cambraia / Brésil
 ---
 
 
-Vétérans brésiliens de la musique électronique Drumagick est un duo de DJ/producteur basé à São Paulo formé par les frères JrDeep et Guilherme Lopes.
+Drumagick, vétéran brésilien de la musique électronique, est un duo de DJ/producteur basé à São Paulo formé par les frères JrDeep et Guilherme Lopes.
 
 Caractérisé par un style qui incorpore des éléments de la musique brésilienne, de la musique latine, de la soul, du funk et du jazz dans des breaks drum and bass, il a contribué au développement de la scène drum and bass brésilienne.
 

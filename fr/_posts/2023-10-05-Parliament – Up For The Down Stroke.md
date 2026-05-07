@@ -9,17 +9,17 @@ permalink: /fr/parliament-up-for-the-down-stroke/
 tags:
 - Funk
 - Soul
-title: Parlement – ​​​​prêt pour le coup bas
+title: Parliament – Up For The Down Stroke
 ---
 
 
-"Up for the Down Stroke" est le premier album studio de Parliament, et son son se caractérise par un rythme funk énergique et dansant. L'album est rempli de chansons groovy qui intègrent des éléments de funk.
+「Up for the Down Stroke」は、パーラメントの初のスタジオアルバムであり、そのサウンドはエネルギッシュで踊りやすいファンクビートが特徴です。アルバムには、ファンクの要素を取り入れたグルーヴィーな楽曲が詰まっています。
 
-La chanson titre "Up for the Down Stroke" est la chanson emblématique de Parliament, avec sa section de cuivres brillante, sa ligne de basse accrocheuse et son rythme de batterie rythmé. La chanson incarne les rythmes funky et l'énergie positive qui caractérisent le son du Parlement.
+タイトル曲の「Up for the Down Stroke」は、パーラメントの代表曲であり、その鮮やかなブラスセクション、キャッチーなベースライン、リズミカルなドラムビートが印象的です。この曲は、パーラメントのサウンドの特徴であるファンキーなリズムとポジティブなエネルギーを体現しています。
 
-D'autres chansons notables incluent « Testify » et « Presence of a Brain ». Ces chansons ont certains des sons et des performances les plus vivants parmi les chansons du Parlement.
+他の注目曲には、「Testify」や「Presence of a Brain」などがあります。これらの曲はパーラメントの楽曲の中でも特に鮮やかなサウンドとパフォーマンスを展開しています。
 
-« Up for the Down Stroke » a gagné un large soutien auprès des amateurs de musique funk pour sa créativité et son son infusé de funk.
+「Up for the Down Stroke」は、その創造性とファンクの要素を駆使したサウンドによって、ファンクミュージックの愛好家から広範な支持を得ました。
 
 #### Liste des chansons
 ```md

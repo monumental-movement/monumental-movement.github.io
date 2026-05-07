@@ -12,13 +12,13 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: Kelly-G Perfect Rhythm – Voyage vers le futur
+title: Kelly-G Perfect Rhythm – Trip Into The Future
 ---
 
 
-Le producteur est Aron Friedman, également connu sous le nom de Kelly-G, originaire du Royaume-Uni et basé aux États-Unis.
+プロデューサーはUK出身でUSを拠点に活動するKelly-GことAron Friedman。
 
-Un morceau de techno hardcore breakbeat sorti en 1991 sur Perception Records, un des premiers labels hardcore et techno britanniques dirigé par Unie Weimer et Aron Friedman.
+Unie WeimerとAron Friedmanが運営する初期のUKハードコア＆テクノレーベルPerception Recordsから1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
 
 #### Liste des chansons
 ```md

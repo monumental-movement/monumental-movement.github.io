@@ -65,7 +65,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - Klare Melodie-/Refrain-Struktur → Einfache Erstellung von Tanz-Choreografien
 
-- Dramatische Songentwicklung → passend zum Höhepunkt des Swings
+- Dramatische Songentwicklung → Passend zum Höhepunkt des Swings
 
 
 <hr>
@@ -96,7 +96,7 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 - Vertrieb von Choreografie-Videos (VHS, später DVD)
 
-- Serien wie „Parapara Paradise“ und „Parapara Kyonen“ sind ebenfalls erhältlich.
+- Es erscheinen auch Serien wie „Parapara Paradise“ und „Parapara Kyonen“.
 
 ● Medienproduktion
 

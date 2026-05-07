@@ -10,17 +10,17 @@ tags:
 - Hiphop
 - R&B
 - Remix
-title: Sisqo – Chanson de Thong (Remix)
+title: Sisqo – Thong Song (Remix)
 ---
 
 
-Sisqo [Mark Andrews Profile] est un chanteur R&B d'East Baltimore, Maryland.
+Sisqo（シスコ）[ マーク・アンドリュース プロフィール ]は、東ボルチモアのメリーランド州出身R&B シンガー。
 
-Elle a commencé très tôt à chanter à l’église et a développé une passion pour la musique. Après avoir obtenu son diplôme d'études secondaires, elle a fréquenté l'Université du Maryland, College Park, avec une spécialisation en musique et en psychologie.
+幼少期から教会で歌い始め、音楽への情熱を育み、高校卒業後、メリーランド大学カレッジパーク校に進学し、音楽と心理学を専攻。
 
-Pendant ses études universitaires, il a commencé à se produire dans des clubs et des événements locaux, gagnant progressivement en reconnaissance et, au début des années 2000, il a signé avec un label majeur et a sorti son premier album.
+大学在学中に、地元のクラブやイベントで演奏を始め、徐々に知名度を高め、2000年代初頭に、メジャーレーベルと契約し、デビューアルバムをリリース。
 
-Depuis, il a sorti plusieurs albums et s'est imposé sur la scène R&B, et continue de collaborer activement avec d'autres artistes et de créer des chansons en plus de sa carrière solo.
+その後、数枚のアルバムをリリースし、R&B シーンで確固たる地位を築き、いまもなおソロ活動に加え、他のアーティストとのコラボレーションや楽曲制作にも積極的に取り組んでいる。
 
 #### Liste des chansons
 ```md

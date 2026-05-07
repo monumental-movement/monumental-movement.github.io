@@ -45,7 +45,7 @@ color: #fff;
 DMC (Disco Mix Club) a été créé au Royaume-Uni en 1983 en tant que service de pool de disques pour les DJ de clubs, dans le but principal de fournir des sources sonores remixées aux DJ.
 Le contexte était la **culture des clubs** en croissance rapide en Europe et le **profession de DJ professionnels**.
 
-À l’époque, la technologie DJ était dominée par des mixages reliant de manière transparente les chansons, et le scratch et les tricks n’étaient encore développés que dans certaines régions du hip-hop.
+À l’époque, la technologie DJ était dominée par des mixages qui connectaient parfaitement les chansons, et le scratch et les tricks n’étaient encore développés que dans certaines régions du hip-hop.
 
 ## 1-2 En 1985, l'invention du « DJing compétitif »
 Le fondateur de DMC, Tony Prince, a eu l'idée de présenter la créativité des DJ sous la forme d'une « compétition » et a organisé le premier Championnat du monde de DJ DMC à Londres en 1985.
@@ -401,7 +401,7 @@ flowchart LR
 
 ## **⑧ Diagramme de structure du tournoi mondial DMC « Modifications des règles historiques »**
 
-### Historique des règles DMC (principales modifications)
+### Historique des règles DMC (principaux changements)
 
 <div class="mermaid">
 timeline
@@ -415,5 +415,14 @@ timeline
     2023 : ハイブリッド方式へ
 </div>
 
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nh1LkoO_--E?si=frOaj4N60C7HvDUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

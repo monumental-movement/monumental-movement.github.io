@@ -64,7 +64,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 
 ---
 
-## 第2章 節奏空洞－「Phylyps Trak」的影響
+## 第2章：節奏空洞－「Phylyps Trak」的影響
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JU4dXv5ohbc?si=t394Uurx52afS_tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

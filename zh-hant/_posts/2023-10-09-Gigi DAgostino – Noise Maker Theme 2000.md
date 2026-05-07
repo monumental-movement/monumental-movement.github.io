@@ -9,7 +9,7 @@ permalink: /zh-hant/gigi-dagostino-noise-maker-theme-2000/
 tags:
 - Trance
 - Progressive
-title: 吉吉·達戈斯蒂諾 – Noise Maker 主題 2000
+title: Gigi D'Agostino – Noise Maker Theme 2000
 ---
 
 

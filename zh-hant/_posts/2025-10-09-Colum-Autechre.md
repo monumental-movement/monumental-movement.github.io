@@ -41,7 +41,7 @@ color: #fff;
 }
 </style>
 
-## 第一章：起源與最初的衝動－從Rephlex前夕到<Warp>
+## 第1章：出自と初期衝動 — Rephlex前夜から〈Warp〉へ
 
 肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 均出生於 20 世紀 70 年代。作為一個男孩，他開始使用 Amiga 電腦上的追蹤軟體（例如 OctaMED）創作自己的歌曲。
 他們的音樂根源在於公共敵人、電子放克和 B-Boy 文化。 Autechre 這個名字最初被傳言是“Audio Architecture”的縮寫。
@@ -104,7 +104,7 @@ Autechre 的現場表演完全排除了視覺呈現。
 燈光熄滅，舞台一片漆黑。觀眾將沉浸在**純淨的聲音空間**中。
 這種完全無機的性質證明了他們的目標是「僅用聲音來統治身體」。
 
-2010年代，他們發布了**AE_LIVE系列**。節目即興創作的聲音被原樣錄製，並為每個城市呈現不同的結構。
+2010年代，他們發布了**AE_LIVE系列**。我們按原樣記錄了程式即興創作的聲音，並為每個城市呈現了不同的結構。
 此外，《NTS Sessions 1-4》（2018）是長達8個多小時的傑作。這是 Autechre 建立的「聲學演算法宇宙」的一項巨大成就。
 
 > “即興創作還在於借用程序化思維。”
@@ -175,7 +175,7 @@ flowchart TD
 | ---- | ---------------- | ------------ | ------------------------------------------------ |
 | 1993 |搖籃期 |扭曲紀錄| [亞馬遜](https://amzn.to/48RINTp) |
 | 1994 |琥珀 |扭曲記錄| [亞馬遜](https://amzn.to/48olvVe) |
-| 1995 |三重重複 |扭曲記錄| [亞馬遜](https://amzn.to/4h6lwiP) |
+| 1995 |三重重複|扭曲記錄| [亞馬遜](https://amzn.to/4h6lwiP) |
 | 1997 |奇亞奇溜滑梯|扭曲記錄| [亞馬遜](https://amzn.to/48Ud8Re) |
 | 2001 |康菲爾德 |扭曲記錄| [亞馬遜](https://amzn.to/471jWds) |
 | 2003 |草案 7.30 |扭曲記錄| [亞馬遜](https://amzn.to/46Vvte7) |
@@ -195,7 +195,7 @@ flowchart TD
 |取樣器| Akai MPC1000、Ensoniq EPS |節拍構造的核心|
 |軟體| Max/MSP、Kyma、Ableton 現場 |自製演算法生成|
 |鼓機| Roland R8，Elektron Machinedrum |實現複雜的節拍結構 |
-|生產理念 |自動生成+人工幹預 | 「混沌控制」實踐 |
+|生產理念 |自動生成+人工幹預| “混沌控制”實踐|
 
 
 ---
@@ -226,6 +226,6 @@ flowchart TD
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 【【專欄】什麼是氛圍音樂？ 「存在的聲音」而非聽到的聲音的哲學]（https://monumental-movement.jp/Column-Ambient）
+🔗 【【專欄】什麼是氛圍音樂？ 「存在的聲音」而非聽到的聲音的哲學](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[專欄]氛圍：從「聽音樂」到「感受音樂」II](https://monumental-movement.jp/Column-Ambient2)

@@ -12,14 +12,14 @@ tags:
 - City Pop
 - Vocal
 - 70s
-title: Zirkus – Neuer Horizont
+title: Circus  – New Horizon
 ---
 
 
 
-Circus ist eine vierköpfige Chorgruppe bestehend aus zwei Männern und zwei Frauen, die 1978 ihr Debüt gab. Er ist bekannt für Hits wie „Mr. Summertime“ (gecovert von Michelle Fughan), „American Feeling“ und „Woman in Love“.
+Circus (サーカス)は、1978年にデビューした男女2人ずつからなる4人組コーラス・グループ。『Mr.サマータイム -夏物語-』（ミシェル・フュガンのカヴァー曲）、『アメリカン・フィーリング』、『Woman in Love』などのヒット曲で知られている。
 
-„New Horizon“ ist ein City Pop/Disco/Soul/Vocal/populärer Song, der 1979 vom Label Alfa veröffentlicht wurde.
+「New Horizon」は、1979年にレーベルAlfaからリリースされたCity Pop／Disco／Soul／Vocal／歌謡曲。
 
 #### Trackliste
 ```md

@@ -10,13 +10,13 @@ tags:
 - Synth Pop
 - Pops
 - 80s
-title: Les explorateurs – Vénus De Milo
+title: The Explorers – Venus De Milo
 ---
 
 
-The Explorers est un groupe formé par d'anciens membres du groupe de rock progressif Roxy Music, Phil Manzanera et Andy MacKay, avec James Wraith au chant.
+The ExplorersはプログレッシブロックバンドRoxy Music(ロキシーミュージック)の元メンバー Phil ManzaneraとAndy MacKayがJames Wraithをvocal迎え結成したグループ。
 
-Les Explorers ont sorti leur album éponyme « Explorers » sur Virgin Records en 1985, mais se sont dissous en 1986.
+The Explorersは1985年にvirginレコードからセルフタイトルLP「Explorers」をリリースするが、1986年に解散。
 
 Ce disque est un extrait de l'album éponyme.
 

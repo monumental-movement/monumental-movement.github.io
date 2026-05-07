@@ -10,13 +10,13 @@ tags:
 - Euro Beat
 - Italo
 - Hi NRG
-title: Max Coo et Steve Coo – Danseurs de boogie
+title: Max Coo & Steve Coo – Boogie Dancer
 ---
 
 
-Cette œuvre, publiée par Asia Records en 1990, est l'œuvre de l'unité "Max Coo & Steve Coo" de COO COO, célèbre pour le hit "UPSIDE DOWN".
+1990年にAsia Recordsからリリースされた本作はUPSIDE DOWNのヒットで有名なCOO COOによるユニット「Max Coo & Steve Coo」のもの。
 
-L'Eurobeat promis par MAURO FARINA.
+MAURO FARINAによるお約束のユーロビートです。
 
 #### Liste des chansons
 ```md

@@ -9,15 +9,15 @@ permalink: /fr/zion-fantasma-dos-jueyes/
 tags:
 - Speedcore
 - Hardcore
-title: Sion – Fantasma Dos Juifs
+title: Zion – Fantasma Dos Jueyes
 ---
 
 
-Zion est un artiste actif sur la scène musicale reggaeton latino-américaine et l'un des membres du duo reggaeton portoricain Zion & Lennox.
+Zionは、ラテンアメリカのレゲトン音楽シーンで活躍するアーティストであり、プエルトリコのレゲトン・デュオであるZion & Lennoxのメンバーの一人。
 
-Zion & Lennox était un groupe qui a émergé pendant l'âge d'or du reggaeton, aux côtés de Daddy Yankee et Don Omar, et a sorti de nombreuses chansons à succès.
+Zion & Lennoxは、Daddy YankeeやDon Omarなどとともに、レゲトンの黄金時代に台頭したグループで、多くのヒット曲をリリースしました。
 
-La face B présente le chanteur de salsa portoricain Domingo Quiñones.
+B面は、プエルトリコのサルサシンガーDomingo Quiñones（ドミンゴ・キニョーネス）をフィーチャリング。
 
 #### Liste des chansons
 ```md

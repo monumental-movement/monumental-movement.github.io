@@ -110,11 +110,11 @@ Dans les temps modernes, la **production de bandes sonores** et la **génératio
 **Q1 : Quelle est la différence entre le hard rock et le heavy metal ? **
 A1 : Le hard rock est une extension du blues rock et conserve un fort sens du groove et des éléments rock'n'roll. Le heavy metal, en revanche, est plus agressif et a tendance à mettre l'accent sur les riffs et la vitesse.
 
-**Q2 : Dans quels éléments musicaux spécifiques la pensée orientale apparaît-elle ? **
+**Q2 : Dans quels éléments musicaux spécifiques apparaît la pensée orientale ? **
 A2 : Nous exprimons « l'exotisme » et le « mysticisme » en utilisant des gammes orientales telles que les gammes pentatoniques et les ragas (modes musicaux indiens).
 
 **Q3 : Le hard rock peut-il être recréé avec la génération de musique IA ? **
-A3 : Oui. En faisant apprendre à l’IA les caractéristiques musicales de Zeppelin et de Deep Purple, il est possible de recréer la mystique et la puissance du hard rock.
+A3 : Oui. En faisant apprendre à l'IA les caractéristiques musicales de Zeppelin et de Deep Purple, il est possible de recréer la mystique et la puissance du hard rock.
 
 **Q4 : Le hard rock est-il adapté à la production de bandes sonores ? **
 R4 : Oui. Idéal pour créer une atmosphère puissante et mystérieuse, notamment lors des scènes de bataille et des climax.

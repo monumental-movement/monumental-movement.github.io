@@ -16,7 +16,7 @@ title: '[Kolumne] Mobile Suit Gundam und das Universum der Musik – Mobile Suit
 ---
 
 
-## I. 1960年代の出発点：音楽の制度を超えて
+## I. Ausgangspunkt in den 1960er Jahren: Jenseits musikalischer Institutionen
 
 
 Text: mmr｜Thema: Wie Musik den „Realismus“ der Gundam-Weltanschauung unterstützte
@@ -68,7 +68,7 @@ Ich möchte, dass die Leser der Welt des Werks aufmerksam zuhören und sich dabe
 
 ### 1.1 Gundams erster Auftritt und historischer Hintergrund
 
-Im April 1979 begann die Ausstrahlung der Fernsehserie „Mobile Suit Gundam“. Im Gegensatz zu traditionellen „Helden-Roboter“-Anime vertritt er eine „echte Roboter“-Ansicht, stellt den Krieg als Sumpf dar und befasst sich eingehend mit menschlichem Drama und Mecha-Action anhand der Entwicklung des Jungen Amuro Ray und dem Schauplatz des Universal Century (U.C.)-Krieges mit dem Fürstentum Zeon.
+Im April 1979 begann die Ausstrahlung der Fernsehserie „Mobile Suit Gundam“. Im Gegensatz zu traditionellen „Helden-Roboter“-Animes vertritt er eine „echte Roboter“-Ansicht, stellt den Krieg als Sumpf dar und befasst sich eingehend mit menschlichen Dramen sowie Mecha-Action anhand des Heranwachsens des Jungen Amuro Ray und dem Schauplatz des Universal Century (U.C.)-Krieges mit dem Fürstentum Zeon.
 
 Rückblickend auf das damalige Musikumfeld war es auch eine Zeit, in der TV-Anime-Titellieder und Einfügungslieder begannen, sich von „Spielliedern für Kinder“ zu „Hitsongs für die allgemeine Verbreitung“ zu wandeln. Als sich die Basis der Musikhörer von leichtem Pop zu Synthesizer-Orchestern erweiterte, erlebte auch die Gundam-Musik einen Wandel.
 
@@ -80,7 +80,7 @@ Zum jetzigen Zeitpunkt gibt es drei Hauptinnovationen, die die Gundam-Musik geze
 
 - **Verallgemeinerung von Titelliedern**
 
-:Anime-Titellieder tauchen zunehmend in den Top-Charts von Oricon auf und sie haben begonnen, den Aspekt von „Popmusik“ statt von „Liedern für Kindersendungen“ anzunehmen.
+:Anime-Titelsongs tauchen zunehmend in den Top-Charts von Oricon auf und sie haben begonnen, den Aspekt von „Popmusik“ statt von „Liedern für Kinderprogramme“ anzunehmen.
 
 - **Vertiefung der musikalischen Begleitung**: Es war nicht nur ein Hintergrundgeräusch, sondern wurde als Klang zur Darstellung von Krieg und menschlichem Drama konstruiert.
 
@@ -106,7 +106,7 @@ Auf diese Weise kann man sagen, dass die frühe Gundam-Musik die Perspektive „
 
 ### 2.1 Ausbau der Marke „Gundam“ und Veränderungen in der Musikszene
 
-In den 1990er Jahren expandierte die Marke Gundam über die TV-Serie hinaus und umfasste OVAs, Filmversionen, Spiele und Plastikmodelle. Musikalisch haben sich Anime-Songs (Anisongs) als Genre etabliert und Titelsongs/Insert-Songs werden als „Gesicht“ von Künstlern beworben.
+In den 1990er Jahren expandierte die Marke Gundam über die TV-Serie hinaus und umfasste OVAs, Filmversionen, Spiele und Plastikmodelle. Musikalisch haben sich Anime-Songs (Anisongs) als Genre etabliert und Titelsongs/Insert-Songs werden mittlerweile als „Gesicht“ von Künstlern beworben.
 
 Gleichzeitig nahm die Zahl der Titelsongs mit Synthesizer-Sounds, Dance-Beats und Pop-ähnlichen Strukturen zu, und wir begannen eine Verschiebung der Musikalität von der traditionellen Struktur „ernsthafter Hintergrundmusik mit Kriegs- und Heldenhymnen“ hin zur Popkultur zu beobachten.
 
@@ -114,11 +114,11 @@ Gleichzeitig nahm die Zahl der Titelsongs mit Synthesizer-Sounds, Dance-Beats un
 
 Im TV-Anime „Mobile Suit Gundam W“ (New Mobile Suit Gundam W), der 1995 ausgestrahlt wurde, übernahm das Eröffnungsthema „Just Communication“ (gesungen von TWO-MIX) einen Synthesizer-Beat und eine Pop-Melodie, was es zu einem Werk macht, das sich von den traditionellen Gundam-Titelliedern abhebt.
 
-Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild von Gundam = Kriegsdrama + schwere Musik zu einer etwas leichteren Version eines Heldenliedes zu ändern, das in der Popmusik zu hören ist.
+Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild von „Gundam = Kriegsdrama + schwere Musik“ zu einem etwas leichteren „Heldenlied, das in der Popmusik zu hören ist“ zu öffnen.
 
 Darüber hinaus verfügen OVA- und Filmversionen jetzt über eine größere Auswahl an Musikprodukten, darunter Titelsongs, Insert-Songs, Charaktersongs und Remix-Discs. Musik hat sich von „exklusiv für Werke“ zu „exklusiv für Marken“ entwickelt.
 
-### 2.3 Dramatische Begleitung, Titellieder und Einfügungslieder: Geschmacksveränderungen im Laufe der Zeit
+### 2.3 Theaterbegleitung, Titellieder und Einfügungslieder: Geschmacksveränderungen im Laufe der Zeit
 
 In dieser Zeit erweiterte sich das Spektrum der Musikentwicklung erheblich. Neben Titelsongs wurden nacheinander Insert-Songs, Charaktersongs (unter Charakternamen gesungene Lieder), Remix-Alben, Best-Of-Alben, Live-Alben usw. veröffentlicht und die Kategorisierung von Musikprodukten schritt voran.
 
@@ -173,7 +173,7 @@ Da es sich bei der Mobile Suit Gundam-Reihe um ein Werk handelt, das die Frage n
 
 ### 5.1 Live-/Coverversion des Titelsongs/Insert-Songs
 
-Ein weiterer Aspekt der Gundam-Musik ist ihre enge Beziehung zur Fan-/Live-Kultur. Anlässlich des 30-jährigen Jubiläums von Gundam wurde beispielsweise das Album „Gundam Rock“ veröffentlicht, in dem ausländische Musiker Gundam-Titellieder coverten, was zeigt, dass Musik über das Werk selbst hinausgegangen ist und zu einer „globalen Kultur“ geworden ist.
+Ein weiterer Aspekt der Gundam-Musik ist ihre enge Beziehung zur Fan-/Live-Kultur. Anlässlich des 30-jährigen Jubiläums von Gundam wurde beispielsweise ein Album namens „Gundam Rock“ veröffentlicht, in dem ausländische Musiker Gundam-Titellieder coverten. Dies zeigt, dass Musik über die Produktion hinausgegangen ist und zu einer „globalen Kultur“ geworden ist.
 
 Darüber hinaus gehören Gundam-Titellieder immer zum Repertoire von Anime-Song-Live-Events, die von Künstlern aufgeführt werden, und die Zahl der Erlebnisse, bei denen das Publikum mitsingt, nimmt zu. Auf diese Weise ist Musik zu einem Inhalt geworden, der nicht nur etwas zum „Hören“, sondern auch etwas zum „Mitmachen“ ist.
 
@@ -190,7 +190,7 @@ Diese Remixe/Arrangements tragen dazu bei, das „Hören von Gundam“ zu förde
 
 Die Universalität der Musik in der Gundam-Reihe ist über alle Jahrhunderte hinweg zu hören, gerade weil sie in den Hauptthemen „Krieg, Menschlichkeit und Hoffnung“ verwurzelt ist. Sobald das Titellied erklingt, werden Sie in die Welt des Werks hineingezogen, da die Musik über den visuellen Sinn hinausgeht und direkt auf Ihre Emotionen einwirkt.
 
-Darüber hinaus lässt sich das Medium Musik problemlos über Generationen hinweg teilen. Die Komposition eines Kindes, das das Gundam-Titellied summt, das seine Eltern gehört haben, symbolisiert die Tatsache, dass die Gundam-Kultur ein Phänomen ist, das „familien- und generationenübergreifend“ ist.
+Darüber hinaus lässt sich das Medium Musik problemlos über Generationen hinweg teilen. Die Komposition eines Kindes, das das Gundam-Titellied summt, das seine Eltern hörten, symbolisiert die Tatsache, dass die Gundam-Kultur ein Phänomen ist, das „familien- und generationenübergreifend“ ist.
 
 ### 6.2 Technologische Innovation (Verbreitung/Streaming/Live) und Musikmonetarisierung
 
@@ -200,7 +200,7 @@ Darüber hinaus wird „Musik als Erlebnis“ wie Live-Shows, VR und Konzerte im
 
 ### 6.3 Die Zukunft von Gundam/Musik: Erwartete Entwicklungen nach 2025
 
-Ab 2023 wird die musikalische Qualität der Gundam-Werke durch Neuveröffentlichungen wie „The Witch of Mercury“ noch höhere Höhen erreichen. Beispielsweise sind Orchesteraufnahmen, Studioaufnahmen im Ausland und Vinyl-Neuveröffentlichungen in Arbeit.
+Ab 2023 wird die musikalische Qualität der Gundam-Werke durch Neuveröffentlichungen wie „The Witch of Mercury“ noch höhere Höhen erreichen. Beispielsweise sind Orchesteraufnahmen, Studioaufnahmen im Ausland und Vinyl-Neuauflagen in Arbeit.
 Nach 2025 wird erwartet, dass sich die Ära des „Musikhörens“ durch den Ausbau von Vertriebsplattformen, die Verknüpfung mit 4K/VR-Video, Live-Auftritten + Videoproduktion usw. vom „Musikhören“ zum „Musikerleben“ verschieben wird.
 
 ---
@@ -220,7 +220,7 @@ Nachfolgend finden Sie eine Chronologie mit Werken, Titelliedern/Einfügeliedern
 |-----|--------|------------------|------------------|--------|
 | 1979 | Mobile Suit Gundam (TV-Version) | Fliegen! Gundam | Yuji Matsuyama/Ko Ikeda | Erstes Titellied der TV-Serie |
 | 1985 | Mobiler Anzug Zeta Gundam | Mit Liebe zum Planeten des Wassers | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Eröffnungslied |
-| 1988 | Mobile Suit Gundam: Char's Counterattack (Film) | Jenseits der Zeit ~Jenseits des Mobius-Universums~ | Tetsuya Komuro/TM NETZWERK | Film-Titellied |
+| 1988 | Mobile Suit Gundam: Char's Counterattack (Film) | Jenseits der Zeit | Tetsuya Komuro／TM NETZWERK | Filmtitellied |
 | 1995 | Neuer mobiler Bericht Gundam Wing | Nur Kommunikation | Minami Takayama・Shiina Nagano/TWO-MIX | Eröffnung der TV-Fassung |
 | 2002 | Mobiler Anzug Gundam SEED | Wir waren so zusammen | Komponist: Hiroyuki Kono und andere/See-Saw | Die Entwicklung der Serienmusik beginnt |
 | 2022 | Mobile Suit Gundam: Hexe des Merkur | (Titellied/Drama-Begleitung) | Ko Omama/(Sänger) | Neueste Arbeit/überarbeitete Musikkomposition |
@@ -250,7 +250,7 @@ Nachfolgend finden Sie einen Abschnitt, in dem repräsentative Musiker/Sänger v
 
 - **・Tetsuya Komuro**
 
-Ein Komponist und Produzent, der die japanische Popmusikszene von den 1980er bis 1990er Jahren anführte. Er schuf den Titelsong „Beyond the Time~Beyond the Moebius Universe“ für „Mobile Suit Gundam: Char's Counterattack“, das 1988 veröffentlicht wurde, und markierte damit einen Wendepunkt in der Geschichte der Gundam-Musik.
+Ein Komponist und Produzent, der die japanische Popmusikszene von den 1980er bis 1990er Jahren anführte. Er schuf den Titelsong „Beyond the Time ~Beyond the Mobius Universe~“ für „Mobile Suit Gundam: Char's Counterattack“, das 1988 veröffentlicht wurde, und markierte damit einen Wendepunkt in der Geschichte der Gundam-Musik.
 
 - **Neil Sedaka**
 
@@ -262,7 +262,7 @@ Eine Pop-Einheit, die Ende der 1990er Jahre die Anime-Song-Szene repräsentierte
 
 - **Hiroko Moriguchi**
 
-Ein Sänger, der von den 1980er Jahren bis heute aktiv war. Er war für viele Titelsongs der Gundam-Serie verantwortlich, darunter den Eröffnungstitelsong für „Mobile Suit Zeta Gundam“, „With Love to the Star of Water“ und den Titelsong für „Mobile Suit Gundam F91“, „ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~“.
+Er war für viele Titelsongs der Gundam-Serie verantwortlich, darunter den Eröffnungssong für „Mobile Suit Zeta Gundam“, „With Love to the Star of Water“ und den Titelsong für „Mobile Suit Gundam F91“, „ETERNAL WIND“. ~Hohoemi wa Hikaru Kaze no Naka~".
 
 
 ---

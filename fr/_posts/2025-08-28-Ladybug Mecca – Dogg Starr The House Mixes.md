@@ -10,15 +10,15 @@ tags:
 - House
 - Deep House
 - 00s
-title: Ladybug Mecca – Dogg Starr (Les mélanges maison)
+title: Ladybug Mecca – Dogg Starr (The House Mixes)
 ---
 
 
-Mélange HOUSE de "Dogg Starr", une chanson signature de Ladybug Mecca (Mary Ann Vieira), connue comme la MC de l'unité jazz hip-hop Digable Planets. Il est sorti en 2007 sur le prestigieux label OM Records de San Francisco.
+ジャズヒップホップ・ユニット Digable Planets のMCとして知られているLadybug Mecca（Mary Ann Vieira）の代表曲「Dogg Starr」のHOUSE mix。2007年にサンフランシスコの名門レーベルOM Recordsからリリースされた。
 
-A1 est un remix du DJ/producteur canadien Fred Everything (Frédéric Blais), un poids lourd de la scène Deep House.
+A1は、Deep Houseシーンの重鎮、カナダ出身のDJ／プロデューサーFred Everything(Frédéric Blais)によるremix。
 
-B2 est un remix de Johnny Fiasco, un DJ/producteur représentant la deuxième génération de Chicago house qui a attiré l'attention au début des années 1990 avec des sorties sur Cajual Records et Relief Records.
+B2は、1990年代初頭にCajual RecordsやRelief Records からのリリースで注目されたシカゴハウス第2世代を代表する DJ／プロデューサーJohnny Fiascoによるremix。
 
 
 #### Liste des chansons

@@ -18,7 +18,7 @@ title: The Lilac Time – Tout pour l’amour et l’amour pour tous
 
 The Lilac Time est un groupe de rock alternatif britannique formé en 1986. Le nom du groupe est tiré d'une réplique de « River Man » de Nick Drake.
 
-"All For Love & Love For All" est un single extrait du troisième album "& Love for All" sorti en 1990. "& Love for All" est un album qui passe du son folk-pop des premier et deuxième albums à un son plus pop et psychédélique des années 60.
+"All For Love & Love For All" est un single extrait du troisième album "& Love for All" sorti en 1990. "& Love for All" est un album qui passe du son folk-pop du premier et du deuxième album à un son plus pop et psychédélique des années 60.
 
 "All For Love & Love For All" est une chanson indie rock sortie par le label Fontana en 1990.
 

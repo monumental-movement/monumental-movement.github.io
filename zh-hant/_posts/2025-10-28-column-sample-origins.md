@@ -13,13 +13,13 @@ title: '[專欄] 採樣的起源－20個採樣次數最多的聲音來源'
 ---
 
 
-### 序言：追蹤聲音的 DNA
+### 序章：音のDNAをたどる
 
 
 文字：mmr｜主題：基於**WhoSampled**等數據，我們將重點介紹“20個採樣次數最多的聲源”，並探討每個聲源是如何銘刻在音樂歷史中的。
 
 
-採樣是音樂史上最直接體現「引用」與「重構」的技術。從 70 年代末的早期嘻哈音樂到今天的電子音樂，單一的鼓點、貝斯線或尖叫聲已經轉變為數百或數千首歌曲。
+採樣是音樂史上最直接體現「引用」與「重構」的技術。从 70 年代末的早期嘻哈音乐到今天的电子音乐，单一的鼓点、贝斯线或尖叫已经转变为数百或数千首歌曲。
 
 ---
 
@@ -69,7 +69,7 @@ color: #fff;
 
 ---
 
-#### 5.詹姆斯布朗－「時髦鼓手」(1970)
+#### 5. James Brown – “Funky Drummer” (1970)
 Clyde Stubblefield 的鼓聲是取樣的聖杯。 Public Enemy、LL Cool J、Prince、Beastie Boys——每當這個圈套襲來，時代就會被更新。
 「節奏的核心」為從嘻哈之前到嘻哈之後的大量作品注入了生命力。
 
@@ -79,13 +79,13 @@ Clyde Stubblefield 的鼓聲是取樣的聖杯。 Public Enemy、LL Cool J、Pri
 
 #### 6.柯蒂斯‧梅菲爾德－《繼續向上》(1970)
 年輕一代透過 Kanye West 的《Touch the Sky》重新發現了歡欣鼓舞的象徵。他將希望與反抗的精神結合起來，將靈魂的精神轉移到了嘻哈音樂中。
-柯蒂斯的假聲是「不斷發展的黑人音樂」的永恆訊息。
+Curtisのファルセットは「進化するブラック・ミュージック」の永遠のメッセージだ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A9RMr9KuVZo?si=v-QRYGCnN1A1nWGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 7.鮑伯‧詹姆斯－《帶我去狂歡節》(1975)
+#### 7. Bob James – “Take Me to the Mardi Gras” (1975)
 鼓的牛鈴聲和鈴聲很有特色，深受Run-D.M.C.、Beastie Boys、Eric B. & Rakim等人的喜愛。
 Bob James是流暢爵士樂的象徵，這首歌所產生的「hardbreak」在1990年代的採樣文化中被神化。
 
@@ -109,7 +109,7 @@ Bob James是流暢爵士樂的象徵，這首歌所產生的「hardbreak」在19
 
 ---
 
-#### 10. The Honey Drippers – “彈劾總統”(1973)
+#### 10. The Honey Drippers – “Impeach the President” (1973)
 政治訊息和節奏共存的鼓聲。 Nas、The Notorious B.I.G. 甚至 J. Cole 都曾經引用過。
 這個標題之所以具有諷刺意味地跨越時間產生共鳴，是因為銘刻在節奏中的「抵抗美學」是普遍的。
 

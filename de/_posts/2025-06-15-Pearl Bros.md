@@ -11,15 +11,15 @@ tags:
 - Rock
 - Pop
 - 80s
-title: Pearl Bros. – Frau mit Eisenhelm
+title: パール兄弟 Pearl Bros. – 鉄カブトの女
 ---
 
 
-Pearl Brothers ist eine japanische Rockgruppe, die 1983 gegründet wurde und 1986 ihr Debüt gab. Die Bandmitglieder sollen „Brüder“ sein.
+パール兄弟は、1983年結成し、1986年デビューした日本のロックユニット。バンドメンバーが「兄弟」である設定にしている。
 
-Die Mitglieder sind Kenzo Saeki, Haruo Kubota, Bakabon Suzuki, Toshiya Matsunaga, Tsunehiko Yashiro und andere.
+メンバーは、佐伯 健三(サエキけんぞう)、窪田 晴男、バカボン鈴木、松永 俊弥、矢代恒彦　他。
 
-„Tetsu Kabuto no Onna“ ist die erste Single der Pearl Brothers, die 1986 von Polydor Records veröffentlicht wurde. Die Illustration der Jacke stammt von Kotobuki Shiriagari. Der Produzent ist Toru Okada.
+「鉄カブトの女」は、1986年にポリドールレコードからリリースされたパール兄弟の1stシングル。ジャケットのイラストは、しりあがり寿。プロデューサーは、岡田 徹。
 
 #### Trackliste
 ```md

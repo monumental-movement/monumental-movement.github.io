@@ -16,7 +16,7 @@ title: Stock、Hausen 和 Walkman – 通風鹿
 
 Stock, Hausen & Walkman（Stock, Hausen & Walkman）是一支代表90年代的英國採樣拼貼音樂團體。
 
-樂團的名字「Stock, Hausen & Walkman」（1991-2001）是對電子音樂先驅 Karlheinz Stockhausen、80 年代大量生產的流行藝術家 Stock Aitken Waterman 和索尼 Walkman 的模仿。
+ストック、ハウゼン & ウォークマン (1991-2001)というバンド名は、電子音楽のパイオニアであるカールハインツ・シュトックハウゼン、80年代の量産型ポップスを手がけたストック・エイトキン・ウォーターマン、そしてソニーのウォークマンを掛け合わせたものだ。
 
 當他們在 20 世紀 80 年代末首次組建時，他們是由 Matt Wand（樂隊的教父兼創始人）和吉他手 Rex Caswell 組成的實驗性即興二人組。
 

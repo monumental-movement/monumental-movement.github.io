@@ -79,7 +79,7 @@ Les lumières de la ville sont belles, mais froides à la fois. Courir dans cett
 
 Ce « va-et-vient entre solitude et convivialité » détermine le ton de l’œuvre dans son ensemble.
 
-> L'autoroute la nuit devient un lieu où l'on peut s'affronter en étant séparé des autres.
+> La nuit, l'autoroute devient un lieu où l'on peut s'affronter en étant séparé des autres.
 
 ---
 
@@ -291,7 +291,7 @@ Le bruit de la baie est « un état de vitesse ».
 
 ## Conclusion : Pourquoi les autoroutes sont-elles un mythe ?
 
-Ce que Wangan Midnight a montré n’était pas le lieu lui-même, mais la façon dont les gens s’y rassemblaient.
+Ce que Wangan Midnight a montré n'était pas le lieu lui-même, mais la façon dont les gens s'y rassemblaient.
 
 Les autoroutes restent inchangées. asphalte, garde-corps et éclairage. Ce ne sont que des structures.
 

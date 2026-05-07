@@ -13,7 +13,7 @@ title: Chrislo – Niedrig (Tresor092)
 ---
 
 
-Chrislo Haas ist ein deutscher Musiker, der in den 1980er Jahren durch die Produktion von Synthesizern (Korg MS-20) mit Bands wie Minus Delta t, D.A.F., CHBB/Liaisons Dangereuses und Crime & the City Solution großen Einfluss auf die deutsche Musikszene hatte und als einer der Begründer von Techno und moderner elektronischer Tanzmusik gilt.
+Chrislo Haas ist ein deutscher Musiker, der in den 1980er Jahren durch seine Produktion von Synthesizern (Korg MS-20) mit Bands wie Minus Delta t, D.A.F., CHBB/Liaisons Dangereuses und Crime & the City Solution großen Einfluss auf die deutsche Musikszene hatte und als einer der Begründer von Techno und moderner elektronischer Tanzmusik gilt.
 
 #### Trackliste
 ```md

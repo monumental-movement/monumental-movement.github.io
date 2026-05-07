@@ -114,7 +114,7 @@ Des DJ du monde entier échangeaient des sons en un seul clic.
 Le drop est coupé sur TikTok et le rythme devient viral comme un GIF.
 Le « Closer » des Chainsmokers en est un symbole.
 Un DJ est à la fois un producteur et une **marque**.
-Logos, parfums, NFT, écouteurs : tous sont devenus des « industries autour du son ».
+Logos, parfums, NFT, écouteurs : tous sont devenus des « industries liées au son ».
 
 ---
 
@@ -184,6 +184,15 @@ C'est juste un changement de forme.
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96D3BZ5q2Io?si=7gDsCT5qUIxfOZoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Annexe A : Chronologie — Mouvements majeurs de l'EDM (1990-2025)
 
 <div class="mermaid">
@@ -230,7 +239,7 @@ flowchart TD
 | DAW | Logique Pro | Environnement intégré pour la composition/mixage |
 | Synthé | Sérum Xfer | Symbolise le design tonal de l'EDM moderne |
 | Synthé | NI Massif | Pilier de la fin des années 2000 et du début des années 2010 |
-| Synthé | Sylenth1 | Fort dans les sons lead classiques |
+| Synthé | Sylenth1 | Fort dans les sons leads classiques |
 | Plug-in | Waves L2/FabFilter Pro-L | Norme de mastering qui a soutenu les guerres du volume |
 | Matériel DJ | Série CDJ pionnière | Équipement de jeu DJ standard mondial |
 | Moniteur | KRK Rokit/Yamaha HS5 | Un moniteur indispensable pour les producteurs de chambres |

@@ -23,9 +23,9 @@ Text: mmr | Thema: Neugestaltung der Struktur, Zeit und Schwerkraft des Avantgar
 
 Avantgarde-Metal ist kein Genre, sondern eine strukturelle Neubewertung des Metal-Musiksystems.
 
-Der als Avantgarde-Metal oder Experimental-Metal bekannte Trend definiert sich nicht durch die Extreme des Klangs oder die Raffinesse der Technik. Sein Wesen liegt in der Haltung, die Struktur, Zeit, Wiederholung und den Schwerpunkt, den Metall seit jeher einnimmt, zu hinterfragen und neu zu gestalten.
+Der als Avantgarde-Metal oder Experimental-Metal bekannte Trend definiert sich nicht durch die Extreme des Klangs oder die Raffinesse der Technik. Its essence lies in an attitude of questioning the structure, time, repetition, and center of gravity that metal has always assumed, and redesigning them.
 
-In diesem Artikel werde ich Avantgarde-Metal nicht als abweichenden Ausdruck, sondern als strukturelle Ideologie überdenken. Im Zentrum stehen Gorguts und Maudlin of the Well. Beide Künstler haben die innere Struktur der Metal-Musik aus unterschiedlichen Richtungen abgebaut und wieder aufgebaut.
+In diesem Artikel werde ich Avantgarde-Metal nicht als abweichenden Ausdruck, sondern als strukturelle Ideologie überdenken. Gorguts und Maudlin of the Wellである.両者は異なる方向から、メタルという音楽の内部構造を解体し、再構築した.
 
 ---
 
@@ -71,13 +71,13 @@ Der Grund, warum Avantgarde-Metal als schwierig empfunden wird, liegt nicht an s
 
 In den späten 1980er und frühen 1990er Jahren wurde der Death Metal in Bezug auf Geschwindigkeit, Schalldruck und Dichte rasch extremer. Allerdings erreichte die quantitative Expansion schließlich einen Sättigungspunkt und einige Künstler begannen, die Struktur selbst in Frage zu stellen.
 
-An diesem Wendepunkt wurde der Avantgarde-Metal geboren. Anstatt die Geschwindigkeit und das Gewicht weiter zu erhöhen, wurde die Entscheidung getroffen, die strukturellen Bedingungen, unter denen sie errichtet wurden, abzubauen.
+An diesem Wendepunkt wurde Avantgarde-Metal geboren. Anstatt die Geschwindigkeit und das Gewicht weiter zu erhöhen, wurde die Entscheidung getroffen, die strukturellen Bedingungen, unter denen sie errichtet wurden, abzubauen.
 
 ---
 
 ## Etablierung von strukturellem Avantgarde-Metall
 
-Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase ein. Riffs werden zu Fragmenten und nicht zu sich wiederholenden Einheiten, Taktarten werden zu Störungen statt zu Standards, und Songs entwickeln sich eher als irreversible Veränderungen als als Zyklen.
+Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase ein. Riffs werden zu Fragmenten und nicht zu sich wiederholenden Einheiten, Taktarten werden zu Störungen statt zu Standards, und Lieder entwickeln sich eher als irreversible Veränderungen als als Zyklen.
 
 ---
 
@@ -85,7 +85,7 @@ Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase ein. Riffs
 
 Gorguts haben den Death Metal selbst von innen heraus zerlegt und dabei sein Vokabular voll ausgeschöpft.
 
-In ihrer Musik sind Riffs vorhanden, aber ohne treibende Kraft, Taktarten sind notiert, aber instabil, und Entwicklungen werden eher als Brüche als als Kontinuität wahrgenommen. Dabei handelt es sich nicht um eine Einführung von Elementen außerhalb des Genres, sondern um einen avantgardistischen Effekt, der durch die Verzerrung der internen Grammatik entsteht.
+In ihrer Musik sind Riffs vorhanden, aber ohne treibende Kraft, Taktarten sind notiert, aber instabil, und Entwicklungen werden eher als Brüche als als Kontinuität wahrgenommen. Dies ist keine Einführung von Elementen außerhalb des Genres, sondern ein avantgardistischer Effekt, der durch die Verzerrung der internen Grammatik entsteht.
 
 ---
 
@@ -105,7 +105,7 @@ flowchart TD
 
 ## Rhythmusstruktur von Gorguts
 
-Gorguts löscht den Zähler nicht, sondern erzeugt einen Zustand, in dem dem Zähler nicht vertraut werden kann. Die Phrasen passen sich nicht dem Takt an, und anstatt die Doppelschläge zu betonen, übernehmen die Trommeln die Funktion, den Takt zu unterbrechen.
+Gorguts löscht den Zähler nicht, sondern erzeugt einen Zustand, in dem dem Zähler nicht vertraut werden kann. Die Phrasen passen sich nicht dem Takt an, und anstatt die Doppelschläge zu betonen, übernehmen die Trommeln die Aufgabe, den Takt zu unterbrechen.
 
 Dieser Rhythmus ist kein Polyrhythmus, sondern sollte als beat-dekonstruierter Rhythmus bezeichnet werden.
 
@@ -160,7 +160,7 @@ Ihr Rhythmus ist kein Takt, sondern eher ein Atemzug oder die Länge einer Gesch
 
 ## Albumanalyse: Maudlin of the Well „Bath“
 
-In „Bath“ sind der intensive Metal-Teil und der ruhige Kammermusik-Teil klar getrennt, existieren aber dennoch im selben Lied nebeneinander. Die Struktur ist nicht linear, sondern verläuft als Bewegung im psychologischen Raum.
+In „Bath“ sind der intensive Metal-Teil und der ruhige Kammermusik-Teil klar getrennt, koexistieren jedoch innerhalb desselben Liedes. Die Struktur ist nicht linear, sondern verläuft als Bewegung im psychologischen Raum.
 
 ---
 
@@ -183,7 +183,7 @@ In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind e
 
 ## Einfluss und Erbe des Avantgarde-Metals
 
-Avantgarde-Metal hat kein Genre geschaffen, sondern eine Denkweise hinterlassen. In der späteren extremen Musik wurde die Struktur zu einem Element, das genauso wichtig war wie der Ausdruck oder sogar noch wichtiger als dieser.
+Avantgarde-Metal hat kein Genre geschaffen, sondern eine Denkweise hinterlassen. In der späteren extremen Musik wurde die Struktur zu einem ebenso wichtigen Element wie der Ausdruck oder sogar noch wichtiger.
 
 ---
 

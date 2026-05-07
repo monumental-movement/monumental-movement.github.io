@@ -9,12 +9,12 @@ permalink: /de/isotonik-the-isotonik-e-p/
 tags:
 - Break Beat
 - Hardcore
-title: Isotonik – Die Isotonik E.P
+title: Isotonik – The Isotonik E.P
 ---
 
 
-„Isotonik – Die Isotonik E.P“
-Der Produzent/Komponist/Mix des ersten Tracks auf Seite A und B ist DJ Hype (Kevin Ford), ein britischer Jungle-Drum-and-Bass-Produzent/DJ.
+「Isotonik – The Isotonik E.P」の
+A面とB面一曲目のプロデューサー/作曲/mixは、UKのジャングル・ドラムンベースのプロデューサー/DJのDJ Hype（DJハイプ/Kevin Ford/ケビン・フォード) 。
 
 #### Trackliste
 ```md

@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp;
 
-重點：《Side B》是一首黑暗的歌曲，電子感特別強。寧靜的氛圍中瀰漫著一種“機械的張力”，將你帶入一個冷靜而深刻的世界觀。
+重點：《Side B》是一首電子感特別強烈的黑暗歌曲。寧靜的氛圍中瀰漫著一種“機械的張力”，帶你進入一個冷酷而深刻的世界觀。
 
 魅力：黑暗而緊張的電子樂
 
@@ -177,7 +177,7 @@ B. Schmetterball
 
 
 ### 德爾科斯塔 & 佩德羅·戈雅 – 《怪異麥克》
-<a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%73%20093%</webp.
+<a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%73%200%173%>
 
 亮點：葡萄牙資深製作人二人組的作品。包含原始版本和混音版本，讓您享受簡約且適合跳舞的電子曲目。
 

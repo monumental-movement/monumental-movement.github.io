@@ -10,17 +10,17 @@ tags:
 - New-Wave
 - Rock
 - 80s
-title: Ian McCulloch – September Song
+title: Ian McCulloch – Septemberlied
 ---
 
 
-Ian McCullochは、シンガーであり、ギタリスト（1959年5月5日生まれ）で、情緒的なイメージで知られており、主にEcho And The Bunnymenのボーカリストとして知られています。
+Ian McCulloch ist ein Sänger und Gitarrist (geb. 5. Mai 1959), der für sein emotionales Image bekannt ist und vor allem als Sänger von Echo And The Bunnymen bekannt ist.
 
-彼のキャリアには、1970年代にPete WylieとJulian Copeと共にThe Crucial Threeで活動した時期や、90年代にBunnymenの派生バンドであるElectrafixionでの活動も含まれています。
+Zu seiner Karriere gehörten auch Auftritte in „The Crucial Three“ mit Pete Wylie und Julian Cope in den 1970er Jahren und in dem Bunnymen-Ableger „Electrafixion“ in den 90er Jahren.
 
-マッカロークは自身の音楽的影響源として、ルー・リード、イギー・ポップ、ザ・ドアーズ、レナード・コーエン、そして特にデヴィッド・ボウイを挙げています。
+McCulloch nennt Lou Reed, Iggy Pop, The Doors, Leonard Cohen und insbesondere David Bowie als seine musikalischen Einflüsse.
 
-彼は、コーエンの1968年の曲「スーザン」を「完璧な歌詞と完璧なメロディーを持つ曲」、そしてボウイを「非常に大きな影響を与えた20世紀最高のソロアーティスト」と評しています。
+Er beschreibt Cohens Lied „Susan“ aus dem Jahr 1968 als „ein Lied mit perfektem Text und einer perfekten Melodie“ und Bowie als „den größten Solokünstler des 20. Jahrhunderts, der einen enormen Einfluss hatte“.
 
 #### Trackliste
 ```md

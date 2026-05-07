@@ -19,7 +19,7 @@ Il s'agit du premier single (première chanson) d'Hiromi Go sorti en 1972.
 
 Paroles – Tokiko Iwatani
 
-Musique et arrangements – Kyohei Tsutsumi
+ミュージック＆アレンジ – 筒美京平
 
 #### Liste des chansons
 ```md

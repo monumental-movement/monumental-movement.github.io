@@ -73,7 +73,7 @@ Dans la pop néofuturiste, les synthétiseurs et les sons traités numériquemen
 
 ### 3-2. Rythme et structure
 
-Les rythmes ne sont pas nécessairement orientés vers les pistes de danse et sont souvent fragmentés et asymétriques. En revanche, les refrains et les motifs sont clairement établis et conservent leur caractère mémorable en tant que musique pop.
+Les rythmes ne sont pas nécessairement orientés vers les pistes de danse et sont souvent fragmentés et asymétriques. En revanche, les refrains et les motifs sont clairement établis et conservent leur caractère mémorable en tant que chansons pop.
 
 ### 3-3. Traitement vocal
 
@@ -160,7 +160,7 @@ La distorsion extrême et le traitement numérique ne servent pas à cacher les 
 Les expressions néofuturistes brouillent les frontières entre major et indie. À l’ère du streaming, l’avant-garde ne se limite plus à une scène spécifique, puisque les œuvres expérimentales sont simultanément distribuées à l’échelle mondiale.
 
 
-La force des visuels augmente la visibilité de l’œuvre plus que la musique seule, ce qui permet de partager largement le contenu avant-gardiste. Cette structure elle-même est une caractéristique de la pop du 21e siècle.
+La force des visuels augmente la visibilité de l'œuvre plus que la musique seule, ce qui permet de partager largement le contenu avant-gardiste. Cette structure elle-même est une caractéristique de la pop du 21e siècle.
 
 ---
 

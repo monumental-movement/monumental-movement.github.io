@@ -10,13 +10,13 @@ tags:
 - Triphop
 - Acid Jazz
 - Break Beat
-title: Tipsy – Nackt auf dem Mond, Weltraumgolf
+title: Tipsy – Nude On The Moon Space Golf
 ---
 
 
-Tipsy ist ein Lounge-Collage-Duo mit Sitz in San Francisco, Tim Digulla und David Gardner.
+Tipsyは、サンフランシスコを拠点とするTim DigullaとDavid Gardnerによるラウンジコラージュデュオ。
 
-Ihre Musik zeichnet sich durch einen World-Underground-Lo-Fi-Sound aus, der mit Elementen aus Abstraktion, Acid Jazz, Trip Hop, experimenteller Musik und Noise gefüllt ist.
+彼らの音楽はアブストラクト、アシッドジャズ、トリップホップ、実験音楽、ノイズの要素が詰まったワールドアングラローファイサウンドが特徴です。
 
 
 #### Trackliste

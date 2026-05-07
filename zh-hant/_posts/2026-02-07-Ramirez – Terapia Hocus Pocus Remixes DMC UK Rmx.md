@@ -11,7 +11,7 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: Ramirez – Terapia (Hocus Pocus Remixes + DMC UK Rmx)
+title: Ramirez – Terapia（Hocus Pocus Remixes + DMC UK Rmx）
 ---
 
 
@@ -22,7 +22,7 @@ Ramirez是義大利DFC廠牌於90年代初創立的電子舞曲專案。 DFC 的
 
 A1&AA1は、Ferry RidderhofとPeter GarnefskiによるオランダのプロダクションデュオHocus Pocusのremix。
 
-AA2は、イギリスのDJ／レコードプロデューサーで、BedrockやSasha & John Digweedとしても活動するJohn Digweedによるremix。
+AA2 是英國 DJ/唱片製作人 John Digweed 的混音版，他同時也是 Bedrock 和 Sasha & John Digweed。
 
 #### 曲目表
 ```md
@@ -33,7 +33,7 @@ AA1. Terapia (Loco Poco Mix)
 AA2. Terapia (DMC UK Rmx)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28766701769?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m28766701769?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PqPK03rGr98?si=kfQL8tz_jS4ScBRr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

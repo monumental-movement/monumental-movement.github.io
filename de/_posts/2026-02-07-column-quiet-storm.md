@@ -50,7 +50,7 @@ color: #fff;
 
 In den 1970er Jahren befand sich das UKW-Radio in Bezug auf Klangqualität und Programmgestaltung an einem entscheidenden Wendepunkt. Im Vergleich zu den Tagen, als AM die Norm war, hatte FM weniger Rauschen und konnte den gesamten Bereich von Bässen bis zu Höhen wiedergeben. Diese technischen Bedingungen machten die Entscheidung, nachts langsamen, zarten R&B zu spielen, zu einer praktikablen Option.
 
-Die Atmosphäre im Studio war spätnachts völlig anders als tagsüber. Die Lichter waren gedimmt und der DJ saß allein in der Kabine, mit dem Gesicht zum Mikrofon, während er durch das Glas auf die Lichter der Stadt blickte. Ein paar Schallplatten werden im Vorfeld ausgewählt und neben den Plattenteller gelegt, der Ablauf ist jedoch nicht an ein strenges Drehbuch gebunden. Da die Antworten der Hörer nur per Telefon oder Brief eingehen können, wenden sich DJs letztlich an imaginäre Zuhörer.
+Die Atmosphäre im Studio war spätnachts völlig anders als tagsüber. Die Lichter waren gedimmt und der DJ saß allein in der Kabine, mit dem Gesicht zum Mikrofon, während er durch das Glas auf die Lichter der Stadt blickte. Ein paar Schallplatten werden im Vorfeld ausgewählt und neben den Plattenteller gelegt, der Ablauf ist jedoch nicht an ein strenges Drehbuch gebunden. Da die Antworten der Zuhörer nur per Telefon oder Brief eingehen können, wenden sich DJs letztlich an imaginäre Zuhörer.
 
 Für die in der Stadt tätige schwarze Gemeinschaft war Radio in dieser Zeit ein Teil des Lebens. Die Leute gehen nach ihrer Schicht nach Hause, die Leute gehen zur Nachtschicht und die Leute bleiben in ihren Zimmern und können nicht schlafen. Obwohl jede Situation anders ist, wird der sanfte R&B-Sound im Radio zu einem gemeinsamen Hintergrundgeräusch. Quiet Storm vereinte diese fragmentierten Leben in einem einzigen musikalischen Fluss.
 
@@ -84,7 +84,7 @@ Anita Bakers Aufnahmen konzentrierten sich auf die Distanz zwischen dem Auftritt
 
 ## Expansion und Wandel seit den 1980er Jahren
 
-In den 1980er Jahren wurde die Studioumgebung rasch digitalisiert. Die Mehrspuraufnahme wurde weiter unterteilt, wobei Synthesizer und Drum Machines im Mittelpunkt der Produktion standen. Auch Quiet Storm berücksichtigt diese Änderung und das Klangbild wird homogener und weicher.
+In den 1980er Jahren wurde die Studioumgebung rasch digitalisiert. Die Mehrspuraufnahme wurde weiter unterteilt, wobei Synthesizer und Drumcomputer im Mittelpunkt der Produktion standen. Auch Quiet Storm berücksichtigt diese Änderung und das Klangbild wird homogener und weicher.
 
 Auf Seiten der Radiosender sind Programmformate nun klar definiert und Songauswahllisten werden gemeinsam genutzt. Obwohl DJs immer noch über ein gewisses Maß an Diskretion verfügten, wurden die Standards für Tempo und Stimmung strenger und die Konsistenz wurde betont, da nächtlicher R&B im Vordergrund stand. Dies ermöglicht Ihnen ein ähnliches Erlebnis, egal in welcher Stadt Sie sich befinden.
 

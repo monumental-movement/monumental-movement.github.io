@@ -9,15 +9,15 @@ permalink: /de/various-tribes-of-da-underground-vol4/
 tags:
 - Break Beat
 - Downtempo
-title: Verschiedene – Tribes Of Da Underground Vol4
+title: Various – Tribes Of Da Underground Vol4
 ---
 
 
-Fred Everything ist ein französisch-kanadischer elektronischer Musiker/DJ, der in der Deep-House-Szene aktiv ist.
+Fred Everythingは、ディープハウス・シーンで活躍しているフランス系カナダ人のエレクトロニック・ミュージシャン/DJ。
 
-Pressure Drop ist ein britisches Duo für elektronische Musik, bestehend aus Justin Langlands und Dave Henley.
+Pressure Dropは、Justin LanglandsとDave Henley からなるUKエレクトロニックミュージックデュオ。
 
-Sofa Surfers ist eine österreichische Band, die eine Kombination aus Trip-Hop, Dub, Acid Jazz, Rock und elektronischer Musik spielt.
+Sofa Surfersは、トリップホップ、ダブ、アシッド ジャズ、ロックと電子音楽を組み合わせた音楽を演奏するオーストリアのバンド。
 
 #### Trackliste
 ```md

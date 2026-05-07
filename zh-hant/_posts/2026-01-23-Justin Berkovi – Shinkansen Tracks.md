@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Justin Berkovi – 新幹線軌道
+title: Justin Berkovi – Shinkansen Tracks
 ---
 
 

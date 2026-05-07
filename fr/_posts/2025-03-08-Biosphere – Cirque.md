@@ -11,13 +11,13 @@ tags:
 - Ambient
 - House
 - 00s
-title: Biosphère – Cirque
+title: Biosphere – Cirque
 ---
 
 
-Geir Jenssen, également connu sous le nom de Biosphere, est un musicien d'ambiance électronique norvégien. Vivant à Tromsø, dans le cercle polaire arctique, nous nous caractérisons par un style de maison ambiant et ambiant inspiré de la nature et des montagnes du cercle polaire arctique.
+BiosphereことGeir Jenssen(ゲイル・イェンセン)は、ノルウェー出身のエレクトロニック・アンビエントミュージシャン。北極圏内のトロムソに住んでいるため、北極圏の自然や山々にインスピレーションを得たアンビエントやアンビエントハウススタイルが特徴。
 
-"Cirque" est un album sorti par le label britannique Touch en 2000. Cet album est inspiré de l'aventurier américain Chris McCandless, qui a inspiré l'œuvre de l'alpiniste et auteur Jon Krakauer Into the Wild. La deuxième chanson, Le Grand Dôme, apparaît sur l'album mix 2006 de la DJ électronique française Miss Kittin, A Bugged Out Mix.
+「Cirque」は、2000年にUKのレーベルTouchからリリースされたアルバム。このアルバムは、登山家＆作家のジョン・クラカワー作品Into the Wildのモデルとなったアメリカの冒険家クリス・マッキャンドレスにインスパイアされた作品。2曲目のLe Grand Dômeは、フランスのエレクトロニックDJ Miss Kittinが2006年にリリースしたミックスアルバムA Bugged Out Mixに収録されている。
 
 
 #### Liste des chansons

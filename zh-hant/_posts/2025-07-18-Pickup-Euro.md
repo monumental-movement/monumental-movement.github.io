@@ -125,7 +125,7 @@ Bonus Track For Japan
 <小時>
 
 ### 各種 – Overnight Remixes II
-<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%</II.webp.
+<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%</2.webp.
 
 格式：乙烯基
 
@@ -262,7 +262,7 @@ B. So High (Single Mix)
 
 格式：乙烯基
 
-類型： 90 年代歐洲 House
+ジャンル：90s Euro House
 
 1994 年發行的英國流行歐元音樂，由 Ben Liebrand 重新混音
 
@@ -312,7 +312,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 <小時>
 
 
-### Dao Dezi – La Jument De Mishao
+### 道德子 – 迷失的故事
 <a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jua.Deweb%20Juo.Deweb%20Jua.Deweb%20Jua.Deweb%20Jua.Deweb%20Jua.Deweb%2070
 
 格式：乙烯基

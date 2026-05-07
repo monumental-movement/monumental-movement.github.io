@@ -9,17 +9,17 @@ permalink: /de/studiovoice-disk-guide/
 tags:
 - Disk Guide
 - Studio Voice
-title: StudioVoice Separate Lautstärke Alle Genre-Disc-Guide Studio Voice
+title: StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
 ---
 
 
-#### StudioVoice Separate Lautstärke Alle Genre-Disc-Guide Studio Voice
+#### StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
 
-ULTIMATE CUT UP MUSIC – Zusammenstellung von 2000–2005
+ULTIMATE CUT UP MUSIC ― 2000‐2005総集編
 
-Ein kompletter Disc-Guide für alle Genres mit über 500 Discs. Es werden Kolumnen von mehr als 20 Personen veröffentlicht.
+500枚以上掲載のオールジャンル・コンプリート・ディスクガイド。20人以上のコラムが掲載されています。
 
-Insgesamt 195 Seiten, ca. 700 Fotos
+全195ページ、およそ700枚掲載
 
 #### Inhalt
 ```md

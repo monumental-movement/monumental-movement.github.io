@@ -15,7 +15,7 @@ title: Stompy – Starlight G-Netic – La nouvelle odyssée
 
 Side A est un morceau de l'artiste britannique happy hardcore DJ Stompy. "Starlight" est l'un des chefs-d'œuvre de DJ Stompy.
 
-Side AA est un morceau de G-Netic et Vinylgroover & Trixxy (Scott Attril & Jim Sullivan). Les voix ont échantillonné Jam Master Jay de Run-DMC.
+Side AA is a track by G-Netic and Vinylgroover & Trixxy (Scott Attril & Jim Sullivan). Les voix ont échantillonné Jam Master Jay de Run-DMC.
 
 #### Liste des chansons
 ```md

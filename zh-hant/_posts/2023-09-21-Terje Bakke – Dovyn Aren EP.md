@@ -13,7 +13,7 @@ title: Terje Bakke – Dovyn Aren EP
 ---
 
 
-《Terje Bakke – Dovyn Aren EP》是挪威 techno 製作人 Terje Bakke 的一張 EP。
+「Terje Bakke – Dovyn Aren EP」は、ノルウェー出身のテクノプロデューサー、テリエ・バッケ（Terje Bakke）によるEPです。
 
 Dovyn Aren EP 是他的傑作之一，突出了他的標誌性風格和音樂視野，具有黑暗、適合跳舞的節奏和不斷發展的合成器聲音。
 

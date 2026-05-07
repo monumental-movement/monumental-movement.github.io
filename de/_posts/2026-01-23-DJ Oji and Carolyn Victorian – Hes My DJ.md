@@ -15,7 +15,7 @@ title: DJ Oji & Carolyn Victorian – Er ist mein DJ
 
 
 
-DJ Oji ist ein DJ/Produzent mit Sitz in Baltimore DJ, 2004, Hisa Ishioka (ヒサイシオカ), House, BPM King Street Sounds, House/Deep House.
+DJ Oji ist ein DJ/Produzent mit Sitz in Baltimore. „He's My DJ“, gemeinsam mit der in Baltimore ansässigen Sängerin Carolyn Victorian geschrieben, ist ein House/Deep House-Track, der 2004 auf Hisa Ishiokas House-Label BPM King Street Sounds veröffentlicht wurde.
 
 
 

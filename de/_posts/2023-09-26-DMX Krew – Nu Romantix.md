@@ -15,9 +15,9 @@ title: DMX Krew – Nu Romantix
 
 „DMX Krew“ ist ein Projekt des britischen Künstlers für elektronische Musik Edward Upton.
 
-Nu Romantix ist ein 1998 von DMX Krew veröffentlichtes Album mit einem einzigartigen Sound, der Elemente von Old-School-Elektro, Synth-Pop, Acid House und Techno kombiniert.
+「Nu Romantix」は、DMX Krewが1998年にリリースしたアルバムで、オールドスクールのエレクトロ、シンセポップ、アシッドハウス、テクノなどの要素を組み合わせた独自のサウンドとなっています。
 
-Das Album verwendet Vintage-Synthesizer und Drum-Machines und ist eine Hommage an die elektronische Musik der 1980er und frühen 1990er Jahre, integriert aber auch zeitgenössische Elemente und wird für seine nostalgische Herangehensweise an elektronische Musik sowie seinen zukunftsweisenden Sound gelobt.
+このアルバムでは、ビンテージのシンセサイザーやドラムマシンを使用し、1980年代と90年代初頭の電子音楽へのオマージュを捉えつつ、現代的な要素も取り入れ、電子音楽へのノスタルジックなアプローチと同時に未来志向のサウンドが評価されています。
 
 #### Trackliste
 ```md

@@ -19,7 +19,7 @@ title: '[Chronique] Happy Hardcore et culture japonaise : la rencontre du High-S
 
 Texte : mmr｜Thème : La relation entre le Happy Hardcore et la culture japonaise
 
-Happy Hardcore a émergé de la scène rave britannique au début des années 1990.
+Happy Hardcore est né de la scène rave britannique au début des années 1990.
 La musique, qui combine des mélodies pop et émotionnelles avec des rythmes explosifs et rapides d'environ 170 BPM, a pris d'assaut l'Europe, puis s'est connectée de manière inattendue à la culture japonaise, réalisant un développement unique.
 L'affinité entre ce son « joyeux » et la « culture japonaise » n'est pas seulement une importation de genres musicaux, mais un nouvel hybride culturel.
 
@@ -73,7 +73,7 @@ La « distribution de musique dérivée » et la « culture du CD doujin » ont 
 
 ### Mots-clés culturels
 
-- **Kawaii** : la « culture kawaii » japonaise se reflète dans la mélodie pop rapide.
+- **Kawaii** : la « culture mignonne » japonaise se reflète dans la mélodie pop rapide.
 
 - **Culture Otaku** : Directement connectée à la culture des clubs anime, doujinshi et Akihabara.
 

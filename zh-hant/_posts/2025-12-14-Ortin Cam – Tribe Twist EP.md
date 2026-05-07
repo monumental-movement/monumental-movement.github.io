@@ -16,7 +16,7 @@ title: Ortin Cam – Tribe Twist EP
 
 Ortin Cam 是來自比利時的電子音樂製作人。
 
-「Tribe Twist EP」は、ベルギーのレーベルInvasionから2004年にリリースされたTechno／Tribalトラック。
+「Tribe Twist EP」是一首 Techno/Tribal 曲目，由比利時唱片公司 Invasion 於 2004 年發行。
 
 #### 曲目表
 ```md

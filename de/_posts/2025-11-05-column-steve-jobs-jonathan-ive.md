@@ -11,7 +11,7 @@ tags:
 - iPod
 - Mac
 - Design
-title: '[Kolumne] Steve Jobs und Jonathan Ive – Resonanz zwischen Klang und Design'
+title: '[Kolumne] Steve Jobs und Jonathan Ive – Resonanz zwischen Sound und Design'
 ---
 
 
@@ -48,9 +48,9 @@ color: #fff;
 ## Chapter 1 Records und die California Air
 
 Steve Jobs war ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
-Viele Biografien bestätigen, dass er Bob Dylan und die Beatles schon in jungen Jahren bewunderte.
+Seine Bewunderung für Bob Dylan und die Beatles schon in jungen Jahren wird durch zahlreiche Biografien bestätigt.
 
-In Walter Isaacsons Biografie „Steve Jobs“ (2011) hat er einen **Röhrenverstärker und einen Plattenspieler** in seinem Wohnzimmer.
+In Walter Isaacsons Biografie „Steve Jobs“ (2011) gibt es in seinem Wohnzimmer einen **Röhrenverstärker und einen Plattenspieler**.
 Es heißt, er habe jeden Abend Alben von Bob Dylan und Joan Baez gehört.
 
 > „Dylans Worte haben Seele. Sie sind nicht die Geräusche einer Maschine.“
@@ -85,7 +85,7 @@ Im Jahr 2001 stellte Apple ein Produkt vor, das die Ära der digitalen Musik ein
 
 Der **iPod** repräsentiert die Verschmelzung der Ästhetik von Jobs und Ive.
 Jobs sagte: „1000 Songs in deiner Tasche.“
-Ich habe mich auf die „Fingertaktilität“ der Radbetätigung konzentriert.
+Ich habe mich auf die „Fingertaktilität“ der Radbedienung konzentriert.
 
 Die Einführung des iTunes Store (2003) markierte die erste Revolution im Musikkonsum seit der Plattenära.
 Jobs‘ Vorhersage, dass „die Musikindustrie durch Software gerettet wird“, wird wahr.
@@ -123,8 +123,8 @@ Ive sagt: „Das Gehäuse selbst prägt den Klang“ (Interview mit Fast Company
 
 ## Kapitel 6 Von Schallplatten in die Cloud – Vererbung klanglicher Erinnerungen
 
-Als Jobs über sein iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
-Im Kern geht es um das Konzept der Wolke als Erweiterung des Vorgangs, eine Schallplatte in die Hand zu nehmen und die Nadel fallen zu lassen.
+Als Jobs über das iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
+Im Kern geht es um das Konzept der Wolke als eine Erweiterung des Akts, eine Schallplatte in die Hand zu nehmen und die Nadel fallen zu lassen.
 
 Andererseits habe ich über LoveFrom,
 Wir streben nach „taktilem Klang“, dem Gegenteil von Cloud Computing.
@@ -144,13 +144,13 @@ Tatsächlich eint sie die Philosophie, „Menschen durch Musik zu befreien“.
 | 2004 | GarageBand | Apfel | Popularisierung der Musikproduktion |
 | 2007 | iPhone | Ive + Jobs | Integration von Musikwiedergabegeräten |
 | 2015 | Apple-Musik | Apfel | Der Wendepunkt zum Streaming |
-| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | Zurück zum analogen Ton |
+| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | Zurück zum analogen Sound |
 
 ---
 
 ## Kapitel 8 Die Designsprache von „Sound“
 
-Nachdem Jobs gestorben war, habe ich ihn wie folgt beschrieben.
+Nachdem Jobs gestorben war, habe ich ihn wie folgt beschrieben:
 
 > „Er betrachtete Produkte so, wie man Musik hört: Es gibt Rhythmus, es gibt Harmonie, es gibt Stille.“
 

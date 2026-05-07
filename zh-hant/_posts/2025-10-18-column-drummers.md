@@ -18,7 +18,7 @@ title: '[專欄]節奏革命者：連結日本與世界的鼓手的節奏前線'
 ## 世界與日本的心跳：連結地上與地下的節奏——沉默與衝動、傳統與實驗——
 
 
-文：mmr｜テーマ：世界と日本を貫く「リズム」の系譜──地上と地下をつなぐドラマーたちの200年史
+文：mmr｜主題：貫穿世界與日本的「節奏」譜系－連結地上與地下的鼓手200年歷史
   
 在處於歷史中心的鼓手的陰影下，有一些走在時代前面的地下實驗者。
 即使在巴迪·里奇和約翰·博納姆主宰主舞台的日子裡，另一個心跳也在倉庫或小型爵士酒吧的某個地方跳動。
@@ -202,7 +202,7 @@ AI 鼓、MIDI 觸發器和觸覺設備。
 “鼓機是爵士樂的未來。”
 在他的現場表演中，TR-909 聽起來就像一個有生命的東西。
 灰野敬二繼續說：
-「沈黙こそ音楽の一部である」。
+“沉默是音樂的一部分。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvElwZRbeZ0?si=GWCbBodMMCfhCSRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -221,9 +221,9 @@ AI 鼓、MIDI 觸發器和觸覺設備。
 YOSHIMIO 和 Yo2ro 的宇宙節拍。
 
 乍一看，它們似乎是不同的世界。
-然而，駐留在聽者心中的節奏是一樣的。
+だが、聴く者の胸に宿るリズムは同じだ。  
 它是「連結地上與地下的心跳」──
-這是一種將持續到未來的音樂記憶。
+そして未来へと続く音楽の記憶である。
 
 ---
 
@@ -238,7 +238,7 @@ YOSHIMIO 和 Yo2ro 的宇宙節拍。
 |薑餅麵包（奶油）| *火輪* | 1968 | [亞馬遜](https://amzn.to/42NEdSu) |
 |傑夫米爾斯 | *在東京 Liquid Room 現場直播* | 1996 | [亞馬遜](https://amzn.to/42KKKNK) |
 |東尼威廉斯 | *終生：緊急情況！ * | 1969 | [亞馬遜](https://amzn.to/49boXCJ) |
-|村上秀一《Ponta》| *節奏設計師* | 1994 | [亞馬遜](https://amzn.to/4qi2XfH) |
+|村上秀一《Ponta》 | *節奏設計師* | 1994 | [亞馬遜](https://amzn.to/4qi2XfH) |
 |日野元彥 | *單獨在一起* | 1979 | [亞馬遜](https://amzn.to/4hgMB2E) |
 |吉田達也（廢墟）| *格羅寧根水乳腺* | 1993 | [亞馬遜](https://amzn.to/4hgQUeD) |
 |灰野敬二 | *渡志岳？ * | 1981 | [亞馬遜](https://amzn.to/47irVDb) |

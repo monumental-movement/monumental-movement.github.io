@@ -9,13 +9,13 @@ permalink: /de/fluke-pulse/
 tags:
 - House
 - Progressive
-title: Fluke – Puls
+title: Fluke – Pulse
 ---
 
 
-Fluke wurde Ende der 1980er Jahre von den Londonern Mike Bryant, Jon Fugler und Mike Tournier gegründet.
+Fluke（フルーク）はロンドン出身のMike Bryant, Jon Fugler, Mike Tournier により1980 年代後半に結成。
 
-Side A ist ein Remix des britischen Progressive-House-DJ Trisco (Harvey Dawson).
+A面はイギリス出身のプログレッシブハウスDJ、Trisco（Harvey Dawson）によるリミックス。
 
 #### Trackliste
 ```md

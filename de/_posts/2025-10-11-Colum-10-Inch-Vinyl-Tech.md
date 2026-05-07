@@ -97,7 +97,7 @@ Passen Sie Schalldruck, Stereobreite und Phase an.
 2. **Lackschneiden**
 Schnitzen Sie Rillen in eine 10-Zoll-Lackplatte.
 Rillenbreite und Tonhöhenkontrolle sind wichtig.
-„Innerhalb von 12 Minuten bei 33⅓ U/min“ ist eines der Designkriterien.
+„Innerhalb von 12 Minuten bei 33⅓U/min“ ist eines der Designkriterien.
 
 3. **Elektroformung**
 Kopie mit Nickel in der Reihenfolge Master → Mutter → Stempel.
@@ -112,9 +112,9 @@ Dieser Vorgang ist besonders bei 10-Zoll-Modellen wichtig, da die Stabilität de
 ### Pressmaterial und Gewicht: 180 g Hinter dem Mythos
 
 Bei 10-Zoll-Scheiben beträgt die Dicke im Allgemeinen etwa 1,8 bis 2,0 mm und das Gewicht etwa 120 bis 150 g.
-Beeinflusst durch den Boom bei 12-Zoll-Hochleistungsschallplatten mit einem Gewicht von 180 g neigen wir dazu zu denken, dass „schwerer eine bessere Klangqualität bedeutet“, aber in Wirklichkeit sind die Dichte und die Ebenheit des Materials wichtiger.
+Beeinflusst durch den Boom bei 12-Zoll-Schallplatten mit einem Gewicht von 180 g neigen wir dazu zu denken, dass „schwerer eine bessere Klangqualität bedeutet“, aber in Wirklichkeit sind die Dichte und die Ebenheit des Materials wichtiger.
 
-Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger dazu neigt, sich zu verziehen und weniger Resonanzen zu verursachen.
+Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger wahrscheinlich ist, dass es sich verzieht und weniger Resonanzen verursacht.
 Mit anderen Worten: Auch wenn es dünn ist, ist der Klang satt. Aus diesem Grund gibt es auch bei einer leichten 10-Zoll-Scheibe nahezu keinen Nachteil hinsichtlich der Klangqualität.
 
 ---
@@ -127,7 +127,7 @@ Aus akustischer Sicht zeigen die Wiedergabefrequenzeigenschaften von 10-Zoll-Dis
 |------|-------------|------|
 | 40Hz bis 100Hz | +2dB | Stärkere Niederfrequenzspitze, straffer |
 | 1kHz bis 4kHz | ±0dB | Flach, klar |
-| 8kHz oder höher | −1 bis 2 dB | Die Hochfrequenzdämpfung ist ziemlich schnell (physikalische Einschränkungen) |
+| 8kHz oder höher | −1 bis 2 dB | Die Hochfrequenzdämpfung erfolgt ziemlich schnell (physikalische Einschränkungen) |
 
 Diese Eigenschaft führt zu einem Klangbild mit einem „nahen Gefühl“, das sich auf den Mitteltonbereich konzentriert.
 Der Grund dafür, dass 10-Zoll-Discs ein „Live-Sound“ zugeschrieben wird, liegt in der hohen Dichte des Mitteltonbereichs.
@@ -148,7 +148,7 @@ Aus diesem Grund entscheiden sich Club- und Noise-Künstler häufig für den 10-
 
 ---
 
-### Beherrschung der Philosophie: Technik, um in begrenzter Zeit „ein Werk zu schnitzen“.
+### Mastering Philosophy: Technik, um in begrenzter Zeit „ein Werk zu schnitzen“.
 
 10-Zoll-Schneiden ist nicht nur eine Technik, sondern auch eine „Bearbeitungsästhetik“.
 Da die Zeit begrenzt ist, ist es wichtig zu entscheiden, welche Geräusche beibehalten und welche entfernt werden sollen.

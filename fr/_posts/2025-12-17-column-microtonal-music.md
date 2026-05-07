@@ -135,7 +135,7 @@ Il s'agit d'une tentative de ramener la musique microtonale à la dimension de l
 
 ## 6. Le dispositif idéologique de la notation musicale
 
-Dans la musique microtonale, la notation n’est pas seulement un moyen de communication.
+Dans la musique microtonale, la notation n’est pas qu’un simple moyen de communication.
 
 * Altérations supplémentaires
 * Notation des rapports
@@ -191,7 +191,7 @@ Jacob Collier a présenté la théorie microtonale d'une manière qui vous fait 
 ### 9.1 Application pratique des séries harmoniques
 
 * Utilisation de tierces et septièmes authentiques
-* Hauteur fixe en raison du multiplexage vocal
+* Tonalité fixe en raison du multiplexage vocal
 * Amélioration du contour émotionnel de l'harmonie
 
 ### 9.2 Coexistence avec la structure pop
@@ -281,7 +281,7 @@ timeline
 
 ## 15. Conclusion
 
-La musique microtonale n’est pas un exercice d’augmentation de la hauteur. Il s’agit d’un changement vers une philosophie de production qui ne suppose pas un pas fixe. Harry Partch a ramené la musique au corps et à l'espace, et Jacob Collier a traduit cette théorie dans une sensibilité moderne. Ce mouvement continuera à œuvrer tranquillement dans les profondeurs de la production musicale.
+La musique microtonale n’est pas un exercice d’augmentation de la hauteur. Il s’agit d’un changement vers une philosophie de production qui ne suppose pas un pas fixe. Harry Partch a ramené la musique au corps et à l'espace, et Jacob Collier a traduit cette théorie dans une sensibilité moderne. Ce mouvement continuera à œuvrer discrètement dans les couches profondes de la production musicale.
 
 
 ---

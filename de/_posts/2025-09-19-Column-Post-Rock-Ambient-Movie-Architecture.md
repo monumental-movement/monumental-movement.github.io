@@ -44,7 +44,7 @@ Ambient/Post-Rock hat einen großen Einfluss auf die Filmmusik und hat sich als 
 
 | Filme | Musik | Jahr | Funktionen |
 |------|----------|----|------|
-| *Ankunft* | Jóhann Jóhannsson | 2016 | Das Gefühl der Zeitzirkulation mit drohnenartigen Klängen zum Ausdruck bringen |
+| *Ankunft* | Jóhann Jóhannsson | 2016 | Das Gefühl der Zirkulation der Zeit mit einem Drohnenklang zum Ausdruck bringen |
 | *Blade Runner 2049* | Hans Zimmer & Benjamin Wallfisch | 2017 | Ambient-Darstellung der Kälte und Weite einer futuristischen Stadt |
 | *Der Wiedergänger* | Ryuichi Sakamoto & Alva Noto | 2015 | Den Druck von Natur und Zeit mit elektronischen und umweltbezogenen Klängen zum Ausdruck bringen |
 | *Solaris* (Ausgabe 2002) | Eduard Artemjew | 2002 | Erweiterung des psychologischen Raums mit kosmischem Ambiente |
@@ -66,7 +66,7 @@ Ambient/Post-Rock zeigt eine starke Präsenz im Dialog mit urbanen Räumen und A
 | Fondation Louis Vuitton | Brian Eno (Ausstellungston) | 2014 | Raumklang, der zum Fluss des Ausstellungsraums passt |
 | High Line Park, NYC | Verschiedene Ambient-Kompositionen | 2009 | Lauferlebnis mit Dauergeräuschen im Stadtraum |
 | Tate Modern Turbinenhalle | Verschiedene Klanginstallationen | 2000er | Drohnensound und Erweiterung des Publikumserlebnisses in einem riesigen Raum |
-| Oculus, NYC | Klanginstallation von Steve Reich / Einfluss von La Monte Young | 2016 | Integration von architektonischem Hall und urbanem Akustikdesign |
+| Oculus, NYC | Klanginstallation von Steve Reich / Einfluss von La Monte Young | 2016 | Integration von architektonischem Hall und städtischem Akustikdesign |
 
 **Punkt**
 - Die Themen des Stadtraums sind „Verlängerung der Zeit“ und „Verschmelzung mit Umweltgeräuschen“
@@ -116,7 +116,7 @@ Film ↔ Architektur: Wechselwirkung zwischen bildender Kunst und Raumgestaltung
 #### Der Wiedergänger (2015)
 
 - **Komponist**: Ryuichi Sakamoto & Alva Noto
-- **Features**: Den Druck der Natur und der Zeit mit elektronischen Klängen und Umgebungsgeräuschen zum Ausdruck bringen
+- **Features**: Den Druck von Natur und Zeit mit elektronischen Klängen und Umgebungsgeräuschen zum Ausdruck bringen
 - **サウンドサンプル**: [Main Theme](https://www.youtube.com/watch?v=Czv8J1W4yYU)
 
 #### Solaris (2002)
@@ -161,9 +161,9 @@ Ambient/Post-Rock hat eine starke Präsenz im Dialog mit urbanen Räumen und Arc
 
 Post-Rock/Ambient ist nicht nur ein Musikgenre, sondern hat sich als Methode zur Gestaltung von Zeit und Raum entwickelt.
 
-Psychologische Erweiterung im Film: Zeitmanipulation mit Drohnen, Loops und Soundscapes
+Psychologische Erweiterung im Film: Manipulation der Zeit mit Drohnen, Loops und Klanglandschaften
 
-Anwendungen in Architektur und Stadtplanung: das Erlebnis des Aufenthalts in einem Raum, des Gehens und der Harmonie mit städtischen Umgebungsgeräuschen
+Anwendungen in der Architektur und Stadtplanung: das Erlebnis des Aufenthalts in einem Raum, des Gehens und der Harmonie mit städtischen Umgebungsgeräuschen
 
 Zukünftig wird die Fusion von VR/AR und KI-generierter Musik das immersive räumliche Musikerlebnis weiterentwickeln.
 

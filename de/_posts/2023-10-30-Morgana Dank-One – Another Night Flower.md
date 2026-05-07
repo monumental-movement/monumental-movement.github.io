@@ -8,11 +8,11 @@ layout: post
 permalink: /de/morgana-dank-one-another-night-flower/
 tags:
 - Trance
-title: Morgana Dank-One – Eine weitere Nachtblume
+title: Morgana Dank-One – Another Night Flower
 ---
 
 
-Dies ist eine EP, die 2005 vom Label „Major Record“ veröffentlicht wurde.
+2005年にレーベル「Major Record」からリリースされたEPです。
 
 #### Trackliste
 ```md

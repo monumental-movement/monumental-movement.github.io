@@ -9,11 +9,11 @@ permalink: /fr/charly-lownoise-and-mental-theo-together-in-wonderland/
 tags:
 - Techno
 - Happy Hardcore
-title: Charly Lownoise et Mental Theo – Ensemble au pays des merveilles
+title: Charly Lownoise & Mental Theo –Together In Wonderland
 ---
 
 
-Il s'agit d'un EP de Charlie Lonoise et Mental Theo sorti en 1995 par le label néerlandais Muste Maximum Records.
+1995年にオランダのレーベルMaste Maximum Recordsよりリリースされたチャーリー・ローノイズとメンタル・テオによるEPです。
 
 #### Liste des chansons
 ```md

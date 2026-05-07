@@ -103,7 +103,7 @@ Frühe Einführung des Konzepts „Musik unterstützt den Geschmack“.
 
 ---
 
-## Kapitel 5 Das digitale Zeitalter neu definieren: „Sound Brand Power“, vermittelt in 5 Sekunden (2010–2020er Jahre)
+## Kapitel 5 Das digitale Zeitalter neu definieren: „Sound-Markenkraft“, vermittelt in 5 Sekunden (2010–2020er Jahre)
 
 ### 5-1 Rekonstruktion des Soundlogos
 - McDonald's: Universeller pentatonischer Jingle (betreut von Pharrell und Hiroshi Kawabe)
@@ -122,7 +122,7 @@ Frühe Einführung des Konzepts „Musik unterstützt den Geschmack“.
 ## Kapitel 6 Psychologie des Sound Branding: Fusion von Geschmack und Gehör
 - Hohe Töne betonen die Süße
 - Niedriger Bereich betont die Bitterkeit
-- Erhöhte Fluktuationsrate um 15 % bei einer Laden-Hintergrundmusik von 120 bpm
+- Erhöhte Fluktuationsrate um 15 % bei einer Filial-Hintergrundmusik von 120 bpm
 
 ---
 

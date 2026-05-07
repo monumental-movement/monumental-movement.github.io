@@ -10,11 +10,11 @@ tags:
 - Electro
 - Glitch
 - 00s
-title: Centre-Sud – Rien ne peut mal tourner
+title: South Central – Nothing Can Go Wrong
 ---
 
 
-"Nothing Can Go Wrong" est un morceau électro glitch de South Central, un duo de DJ de Brighton, au Royaume-Uni, sorti en 2007 sur le label indépendant britannique A/G/P.
+「Nothing Can Go Wrong」は、2007年にUKのインディペンデントレーベルA/G/Pからリリースされた、イギリス・ブライトン出身のDJデュオSouth Central（サウスセントラル）によるグリッチ・エレクトロトラック。
 
 #### Liste des chansons
 ```md

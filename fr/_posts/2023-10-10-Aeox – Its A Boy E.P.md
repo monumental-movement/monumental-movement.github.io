@@ -13,7 +13,7 @@ title: Aeox – C'est un garçon EP
 ---
 
 
-AeoX est un groupe techno-punk berlinois composé d'Al.X.E (Alexander Koepke, & tafkatafta) et Hanno Hinkelbein. Il a sorti de nombreux albums chez Null Records et Mental Industries.
+AeoX est un groupe techno-punk berlinois formé par Al.X.E (Alexander Koepke, & tafkatafta) et Hanno Hinkelbein. Il a sorti de nombreux albums chez Null Records et Mental Industries.
 
 "C'est un garçon EP" est un morceau techno électro sorti par Null Records en 2000.
 

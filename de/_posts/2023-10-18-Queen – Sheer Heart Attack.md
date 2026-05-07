@@ -8,7 +8,7 @@ layout: post
 permalink: /de/queen-sheer-heart-attack/
 tags:
 - Rock
-title: Königin – purer Herzinfarkt
+title: Königin – Reiner Herzinfarkt
 ---
 
 

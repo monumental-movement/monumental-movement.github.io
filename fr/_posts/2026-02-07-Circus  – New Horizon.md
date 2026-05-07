@@ -17,7 +17,7 @@ title: Cirque – Nouvel Horizon
 
 
 
-Circus est un chœur de quatre membres composé de deux hommes et de deux femmes qui a fait ses débuts en 1978. Il est connu pour ses chansons à succès telles que « Mr. » Summertime » (repris par Michelle Fughan), « American Feeling » et « Woman in Love ».
+Circus est un groupe de quatre membres composé de deux hommes et de deux femmes qui a fait ses débuts en 1978. Il est connu pour ses chansons à succès telles que « Mr. » Summertime » (repris par Michelle Fughan), « American Feeling » et « Woman in Love ».
 
 "New Horizon" est une chanson City Pop/Disco/Soul/Vocal/populaire sortie par le label Alfa en 1979.
 

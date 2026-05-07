@@ -56,7 +56,7 @@ color: #fff;
 
 Das Aufkommen japanischer Ambient-Musik ging mit der Entwicklung elektronischer Musikstudios in den 1970er Jahren einher. Viele Universitäten und Forschungsinstitute erforschten elektronische Akustik, Tonbandmusik und Musique Concrète, und gleichzeitig nahmen „Klanginstallationen“ im Bereich der zeitgenössischen Kunst zu.
 
-Während seines Studiums der Raumkunst an einer Kunstuniversität begann Hiroshi Yoshimura schon früh mit der Schaffung von Werken, die Umwelt und Klang miteinander verknüpften, und befasste sich auch mit der akustischen Planung öffentlicher Räume.
+Während seines Studiums der Raumkunst an einer Kunstuniversität begann Hiroshi Yoshimura schon früh mit der Schaffung von Werken, die Umgebung und Klang miteinander verknüpften, und war auch an der akustischen Planung öffentlicher Räume beteiligt.
 
 Japanische Ambient-Musik zeichnet sich dadurch aus, dass sie an der Schnittstelle dieser Künste, Tontechnik und Stadtplanung entsteht.
 
@@ -115,7 +115,7 @@ Wir strebten nach „Klang, der die Natur des Raumes verändert, nicht nur zur W
 
 # **2-2. Midori Takada – Musik aus Zeit und Raum, gezeichnet von Schlaginstrumenten**
 
-Midori Takada (1951–) hat als japanische Perkussionistin und Komponistin weltweite Anerkennung erlangt.
+Midori Takada (1951–) hat als japanische Perkussionistin und Komponistin weltweite Anerkennung gefunden.
 
 ## ● Repräsentative Werke
 - **《Through the Looking Glass》 (1983)**
@@ -134,7 +134,7 @@ Sie behandelt Schlaginstrumente nicht als Symbole der „Zeit“, sondern als �
 
 # **2-3. Takashi Kokubo – Entdecker von Komfort und Wohnakustik**
 
-Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunkaudio seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
+Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunk-Audio seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
 
 ## ● Repräsentative Werke
 - **《Ion-Serie》(1980er-Jahre)**
@@ -170,7 +170,7 @@ Ein elektronisches und zugleich idyllisches Meisterwerk.
 ## ● 3-1. Synthesizer-Kultur
 In den 1980er Jahren dominierten japanische Hersteller elektronischer Musikinstrumente den Weltmarkt und hatten großen Einfluss auf die Ambient-Musik.
 
-Geräte, die häufig verwendet wurden (innerhalb des nachweisbaren Bereichs)
+Geräte, die häufig genutzt wurden (innerhalb des nachweisbaren Bereichs)
 - Yamaha DX7
 - Roland Juno-Serie
 - Roland RE-201 (Bandecho)
@@ -283,7 +283,7 @@ Die Welt hat das neu bewertet
 **Nicht nur die Schönheit der Musik selbst, sondern auch die darin enthaltene einzigartige japanische Philosophie**
 Es ist.
 
-Ambient-Musik erhält auf der ganzen Welt immer wieder neue Bedeutungen, und die Werke aus den 1980er-Jahren, aus denen sie hervorgegangen ist, dürften weiterhin ein wichtiges Fundament der Musikgeschichte bleiben.
+Ambient-Musik hat auf der ganzen Welt immer wieder neue Bedeutungen, und die Werke aus den 1980er Jahren, aus denen sie hervorgegangen ist, werden wahrscheinlich ein wichtiges Fundament der Musikgeschichte bleiben.
 
 ---
 

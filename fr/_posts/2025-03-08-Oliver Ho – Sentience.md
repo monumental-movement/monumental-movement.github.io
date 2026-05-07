@@ -14,9 +14,9 @@ title: Oliver Ho – Sentience
 ---
 
 
-Oliver Ho est un DJ et producteur techno basé à Londres.
+Oliver Hoは、ロンドンを拠点に活動するテクノDJ・プロデューサー。
 
-"Sentience" est le chef-d'œuvre d'Oliver Ho, sorti en 1999 sur Blueprint, label fondé par James Ruskin et Richard Polson. Le premier album d'Oliver Ho est également sorti sur le même label.
+「Sentience」は、James RuskinとRichard Polson によって設立されたレーベルBlueprintから1999年にリリースされたOliver Hoの代表作。Oliver Hoのデビューアルバムも同レーベルからリリースされた。
 
 
 #### Liste des chansons

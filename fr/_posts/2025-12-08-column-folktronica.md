@@ -53,7 +53,7 @@ Principales caractéristiques :
 - Montage numérique (découpage, traitement granulaire)
 - Texture d'enregistrement sur le terrain
 - Mélodie simple mais émotionnelle
-- Coexistence du « toucher » et des « objets artificiels »
+- Coexistence du « toucher » et de « l'objet artificiel »
 
 ### ■ Qu'est-ce qu'Indietronica ?
 Le flux d'introduction de la musique électronique dans le contexte du rock indépendant.

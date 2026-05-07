@@ -19,7 +19,7 @@ Les deux ont commencé leur carrière en tant que musiciens d'accompagnement pou
 
 Quincy Jones les a attirés sur l'attention lorsqu'il les a utilisés sur son album de 1975 Mellow Madness.
 
-Il a enregistré huit albums entre 1976 et 1988 et est surtout connu pour le hit disco "Stomp!" (1980) et le classique de Shuggy Otis "Strawberry Letter #23" (couverture de 1977).
+Il a enregistré huit albums entre 1976 et 1988 et est surtout connu pour le tube disco "Stomp!" (1980) et le classique de Shuggy Otis "Strawberry Letter #23" (couverture de 1977).
 
 #### Liste des chansons
 ```md

@@ -115,7 +115,7 @@ Dr. Dres „The Chronic“ (1992) nutzt gekonnt Sampling, während G-Funk viele 
 
 ### Clubkultur
 DJ-Sets entstanden in Clubs in New York und LA. In einer Zeit ohne Radio und Streaming waren Songs in den Clubs für Aufsehen gesorgt.
-Bevor es Demotapes und das Internet gab, spielten Rap-Battles eine zentrale Rolle in Clubs.
+Bevor es Demotapes und das Internet gab, spielten Rap-Battles nur in Clubs eine Rolle.
 
 Probenentnahme und Ausrüstungsänderungen
 Mit der Verbreitung von DAWs (Pro Tools, Ableton Live) ist es nun möglich, mithilfe von Synthesizern und Plug-Ins einzigartige Klangquellen zu erstellen, ohne auf Sampling angewiesen zu sein.
@@ -153,7 +153,7 @@ Erweiterung der Verwendung von Plugins und Beispielpaketen
 
 ### Kombinierter Einfluss von Region, Verein, Medien und Produktionsmethoden
 
-**Ostküste**: Breakbeat, Social Rap, Platten-Sampling-Kultur
+**East Coast**: Breakbeat, Social Rap, Platten-Sampling-Kultur
 
 **Westküste**: Gangsta-Rap, G-Funk, ausgelassene Partys in den Clubs
 
@@ -352,7 +352,7 @@ Bass : ▂▄▆█▇▆▄▂
 
 ---
 
-## 2000er (Digitalisierung/Vereinsfokus)
+## 2000er Jahre (Digitalisierung/Vereinsfokus)
 
 <table class="table-wave">
 <tr>
@@ -444,7 +444,7 @@ Die Karte der Macht visualisiert, in welche Region sich das Zentrum der Szene in
 
 ## Abschluss
  
-Hip-Hop hat sich so entwickelt, dass es die Kultur und den sozialen Hintergrund jeder Region widerspiegelt. Die Ostküste, die Westküste und der Süden haben jeweils ihre eigenen einzigartigen Stile, die nicht nur die Musik, sondern auch Mode, Sprache und soziale Bewegungen beeinflusst haben. Hip-Hop wird sich weiterentwickeln, da neue Techniken und Ausdrucksmethoden auftauchen.
+Hip-Hop hat sich so entwickelt, dass es die Kultur und den sozialen Hintergrund jeder Region widerspiegelt. Die Ostküste, die Westküste und der Süden haben jeweils ihre eigenen einzigartigen Stile, die nicht nur die Musik, sondern auch Mode, Sprache, soziale Bewegungen und mehr beeinflusst haben. Hip-Hop wird sich weiterentwickeln, da neue Techniken und Ausdrucksmethoden auftauchen.
 
 ---
 

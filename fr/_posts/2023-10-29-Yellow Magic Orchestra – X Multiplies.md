@@ -9,10 +9,10 @@ permalink: /fr/yellow-magic-orchestra-x-multiplies/
 tags:
 - JPop
 - Techno
-title: Yellow Magic Orchestra – X∞Multiplie
+title: Yellow Magic Orchestra – X∞Multiplies
 ---
 
-Le meilleur album de YMO sorti au Japon par Alpha Records en septembre 1980.
+1980年9月にアルファレコードより日本で発売されたYMOのベストアルバム。
 
 US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
 

@@ -66,7 +66,7 @@ Le contexte était un environnement de production qui tirait le meilleur parti d
 
 Né à New York à la fin des années 1970, le hip-hop a amené la culture du remix au centre de la culture urbaine grâce au sampling. La répétition des breakbeats et la citation fragmentaire des sources sonores existantes séparent la production musicale de la formation professionnelle et la transforment en une pratique basée sur le matériel et la sensation.
 
-Aux débuts du hip-hop, la gestion des droits était peu connue. Une fois que l’échelle de distribution s’est élargie et que des liens ont été établis avec les principales industries, les problèmes juridiques deviennent évidents.
+Aux débuts du hip-hop, la gestion des droits était peu connue. Une fois que l’échelle de distribution s’est élargie et que des liens ont été établis avec les principales industries, les problèmes juridiques deviennent apparents.
 
 > Échantillonner les points exposés où les références culturelles se heurtent à l'économie.
 
@@ -86,7 +86,7 @@ Dans le même temps, il existe des exceptions telles que les citations, l’util
 
 Une caractéristique distinctive de la loi américaine sur le droit d'auteur est la disposition relative à l'utilisation équitable. Il a la flexibilité d'autoriser une utilisation sans autorisation après avoir déterminé de manière exhaustive des facteurs tels que le but de l'utilisation, la nature du travail, la quantité d'utilisation et l'impact sur le marché.
 
-Dans les procès pour échantillonnage de musique, il y a eu une augmentation du nombre de cas dans lesquels même de courts fragments sont jugés comme contrefaisants, mais les utilisations modifiées à des fins de parodie et de critique ont été protégées dans une certaine mesure. Ce concept de déformabilité est devenu un critère important dans la culture du remix vidéo et des mèmes.
+Dans les procès pour échantillonnage de musique, il y a eu une augmentation du nombre de cas dans lesquels même de courts fragments sont jugés comme contrefaisants, mais les utilisations modifiées à des fins de parodie et de critique ont été protégées dans une certaine mesure. Ce concept de transformabilité est devenu un critère important dans la culture du remix vidéo et des mèmes.
 
 > Le droit américain a une structure dans laquelle la liberté d'expression et la protection des droits sont ajustées après coup.
 
@@ -96,7 +96,7 @@ Dans les procès pour échantillonnage de musique, il y a eu une augmentation du
 
 Dans l'UE, l'accent est mis sur les directives visant à harmoniser les systèmes entre les pays membres. Même si la protection du droit d'auteur est relativement forte, il existe des exceptions claires concernant la parodie et la citation.
 
-La directive sur le marché unique numérique a clarifié les responsabilités des plateformes et a eu un impact majeur sur la manière dont les remix et le contenu généré par les utilisateurs sont traités. Il a également été souligné que le mécanisme automatique de détection et de suppression peut conduire à une atrophie de l'expression.
+La directive sur le marché unique numérique a clarifié les responsabilités des plateformes et a eu un impact majeur sur la manière dont les remixes et le contenu généré par les utilisateurs sont traités. Il a également été souligné que le mécanisme automatique de détection et de suppression peut conduire à une atrophie de l'expression.
 
 > Le droit de l'UE recherche systématiquement un équilibre entre l'intégration du marché et la protection culturelle.
 

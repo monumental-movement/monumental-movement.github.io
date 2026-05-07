@@ -15,7 +15,7 @@ title: Southern All Stars - Stéréo Taiyo-Zoku
 
 "Stereo Taiyozoku" est le quatrième album original de Southern All Stars. Version originale de 1981.
 
-Musiciens participants
+参加ミュージシャン
 Keisuke Kuwata, Takashi Omori, Yuko Hara, Kazuyuki Sekiguchi, Hiroshi Matsuda, Hideyuki Nozawa, Junichi Kanezaki, Ryuichiro Senoo, EVE, Linda, Jake Concepcion, etc.
 
 #### Liste des chansons

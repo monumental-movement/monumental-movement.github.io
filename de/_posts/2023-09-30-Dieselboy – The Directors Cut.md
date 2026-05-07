@@ -13,7 +13,7 @@ title: Dieselboy – Der Director’s Cut
 ---
 
 
-Dies ist eine seltene Kassette mit einem Killer-Tech-Drum-and-Bass-Mix von Diesel Boy, einem DJ, der überaus talentiert und in der US-Drum-and-Bass-Szene beliebt ist.
+Dies ist eine seltene Kassette mit einem Killer-Tech-Moddy-Drum-and-Bass-Mix von Diesel Boy, einem DJ, der überaus talentiert und in der US-Drum-and-Bass-Szene beliebt ist.
 
 Auch diese Mischung ist großartig, da Timing, EQ, Pegel und Übergänge alles auf den Punkt gebracht sind, ein großartiges Beispiel für sein Können.
 

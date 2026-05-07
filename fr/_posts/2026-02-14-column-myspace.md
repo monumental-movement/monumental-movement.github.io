@@ -63,7 +63,7 @@ timeline
 
 La culture musicale de Myspace n'était pas seulement un lieu de distribution de musique, mais une plateforme où les artistes et les auditeurs pouvaient se connecter directement et former une communauté. Les artistes pouvaient publier leurs propres chansons sur leurs pages de profil et les diffuser aux auditeurs via Myspace Player, ce qui permettait de prévisualiser chaque chanson. De plus, puisque la conception de la page pouvait être librement personnalisée, il était également possible d’exprimer une vision du monde unique qui correspondait au genre de musique et à l’individualité.
 
-L'une des fonctionnalités de cette plateforme est "Top Friends". Il fonctionnait également comme une fonction de recommandation musicale, vous permettant d'afficher vos amis les plus proches et vos artistes préférés en haut de la liste. La chanson étant diffusée via un réseau d’amis, la promotion de bouche à oreille s’est révélée extrêmement efficace. En particulier, les genres populaires auprès des jeunes à l'époque, comme l'emo, l'indie rock, l'électro et le hip-hop, ont rapidement formé des communautés sur Myspace.
+L'une des fonctionnalités de cette plateforme est "Top Friends". Il fonctionnait également comme une fonction de recommandation musicale, vous permettant d'afficher vos amis les plus proches et vos artistes préférés en haut de la liste. La chanson étant diffusée via un réseau d’amis, le bouche-à-oreille s’est avéré extrêmement efficace. En particulier, les genres populaires auprès des jeunes à l'époque, comme l'emo, l'indie rock, l'électro et le hip-hop, ont rapidement formé des communautés sur Myspace.
 
 La section commentaires entre utilisateurs n’était pas seulement un lieu d’échange d’impressions, mais devenait également une opportunité d’échanges musicaux, de remixes et de collaborations. Des événements locaux en direct et des CD autoproduits ont également été annoncés, créant un nouveau mouvement dans lequel les cultures musicales en ligne et hors ligne sont liées. De plus, à l'époque, YouTube et SoundCloud n'avaient pas encore décollé, Myspace jouait donc un rôle central dans la diffusion et la découverte de la musique.
 
@@ -83,7 +83,7 @@ flowchart LR
     D --> E[メジャーデビュー / ヒット]
 </div>
 
-La culture du bouche-à-oreille et des commentaires générée par les utilisateurs est allée au-delà du simple échange d'impressions ; il fonctionnait également comme un forum de retour d'information pour améliorer les chansons des artistes. Ce système fournit des données en direct qui ne peuvent pas être obtenues via les promotions traditionnelles de l'industrie, et permet aux artistes de développer leur travail avec leurs fans. De plus, comme il était possible de publier des annonces d'événements en direct et des liens de vente de CD autoproduits sur la page de profil, il y avait un nombre croissant de cas où la popularité en ligne était directement liée au succès hors ligne.
+La culture du bouche-à-oreille et des commentaires générée par les utilisateurs allait au-delà du simple échange d'impressions ; il fonctionnait également comme un forum de retour d'information pour améliorer les chansons des artistes. Ce système fournit des données en direct qui ne peuvent pas être obtenues par le biais de promotions traditionnelles menées par l'industrie, et permet aux artistes de développer leur travail avec leurs fans. De plus, comme il était possible de publier des annonces d'événements en direct et des liens de vente de CD autoproduits sur la page de profil, il y avait un nombre croissant de cas où la popularité en ligne était directement liée au succès hors ligne.
 
 ---
 
@@ -91,7 +91,7 @@ La culture du bouche-à-oreille et des commentaires générée par les utilisate
 
 > Myspace n'était pas seulement une plateforme pour la musique, mais aussi une plateforme qui soutenait l'expression personnelle et la formation culturelle des utilisateurs.
 
-Myspace était plus qu'un simple endroit pour partager de la musique ; il a également servi de toile permettant aux individus d’exprimer leur culture et leurs passe-temps. La personnalisation des pages de profil était un élément important qui reflétait le sens esthétique et les goûts des utilisateurs. Il était possible de sélectionner des images d'arrière-plan, des couleurs, des polices et de décorer à l'aide de HTML et CSS, permettant aux artistes de présenter une vision visuelle du monde avec de la musique.
+Myspace était plus qu'un simple endroit pour partager de la musique ; il a également servi de toile permettant aux individus d’exprimer leur culture et leurs passe-temps. La personnalisation des pages de profil était un élément important qui reflétait le sens esthétique et les goûts des utilisateurs. Il était possible de sélectionner des images d'arrière-plan, des couleurs, des polices et même de décorer en utilisant HTML et CSS, permettant aux artistes de présenter une vision visuelle du monde avec de la musique.
 
 Des communautés ancrées dans des genres et des régions spécifiques se sont également activement formées. Des utilisateurs partageant les mêmes passe-temps et valeurs, comme l'emo, le punk, l'indie rock et le hip-hop, se sont connectés les uns aux autres via des demandes d'amis et des commentaires, et une scène en ligne a été créée. Il s’agit d’un réseau mondial qui transcende les contraintes géographiques, contrairement aux scènes musicales traditionnelles limitées à certaines régions. Des événements en direct et des CD autoproduits ont également été activement annoncés, et une culture s'est formée dans laquelle les communautés en ligne étaient directement connectées aux activités hors ligne.
 
@@ -111,7 +111,7 @@ Bien que Myspace ait tenté de se renommer au cours de cette période, elle n'a 
 
 ---
 
-## Réévaluation de la culture musicale Myspace dans les années 2000
+## Réévaluation de la culture musicale Myspace des années 2000
 
 > La musique indépendante moderne et la culture Internet ne seraient pas possibles sans les efforts de Myspace, et leur importance est en train d'être réévaluée.
 

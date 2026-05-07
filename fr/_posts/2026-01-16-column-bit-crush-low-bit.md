@@ -238,7 +238,7 @@ Il s’agit de choisir comment présenter précisément le son au monde.
 C'est pourquoi le fait de réduire intentionnellement la résolution implique une idéologie claire.
 
 Les bits faibles ne sont pas une relique du passé.
-C’est une esthétique qui ne verra le jour qu’une fois que la musique numérique aura mûri.
+C’est une esthétique qui ne se concrétisera qu’une fois que la musique numérique aura mûri.
 
 > Choisir la résolution du son équivaut à choisir la position d'expression.
 

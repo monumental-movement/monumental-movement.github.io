@@ -18,7 +18,7 @@ Un morceau hip-hop sorti par le rappeur Terrell en 2000 sur le label I.Q. Enregi
 
 Le producteur de A2, B1 et B2 est Devante Swing.
 
-A1のプロデューサーはPhat Noize。
+Le producteur d'A1 est Phat Noize.
 
 Le producteur d'A3 est Stevie J.
 

@@ -10,11 +10,11 @@ tags:
 - Rock
 - Progressive
 - 7inch
-title: Supertramp – Frühstück in Amerika
+title: Supertramp – Breakfast In America
 ---
 
 
-Supertramp ist eine britische Rockband, die 1970 in London gegründet wurde. „Breakfast In America“ war der Titelsong des gleichnamigen Albums von 1979 und wurde ein Welthit.
+Supertramp（スーパートランプ）は、1970 年にロンドンで結成されたイギリスのロックバンド。「Breakfast In America」は1979 年の同名アルバムのタイトル曲で、世界的なヒットとなりました。
 
 #### Trackliste
 ```md

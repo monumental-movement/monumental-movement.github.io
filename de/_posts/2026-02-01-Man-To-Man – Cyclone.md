@@ -9,14 +9,14 @@ permalink: /de/man-to-man-cyclone/
 tags:
 - Techno
 - 00s
-title: Mann-zu-Mann – Zyklon
+title: Man-To-Man – Cyclone
 ---
 
 
 
-Man-To-Man ist der Pseudonym von Pierre Jerksten, einem erfahrenen schwedischen DJ und Produzenten, der weltweit als Hertz bekannt ist.
+Man-To-Manは、Hertz名義で世界的によく知られるスウェーデンのベテランDJ／プロデューサーPierre Jerkstenの別名義。
 
-„Cyclone“ ist ein Techno-Track, der 2002 von Pierre Js Techno/Tech House-Label Q-Records veröffentlicht wurde.
+「Cyclone」は、Pierre J 自身が運営するTechno／Tech HouseレーベルQ-Records から2002年にリリースされたTechnoトラック。
 
 #### Trackliste
 ```md

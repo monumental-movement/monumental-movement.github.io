@@ -11,21 +11,20 @@ tags:
 - Experimental
 - Noise
 - Psychedelic
-title: '[Kolumne] Die tiefe Struktur der psychedelischen Gitarre, gezeichnet von Seiichi
-  Yamamoto und Delay'
+title: 【コラム】 山本精一とディレイが描くサイケデリック・ギターの深層構造
 ---
 
 
 
-## Wer ist Seiichi Yamamoto?
+## 山本精一とは何者か
 
-Text: mmr｜Thema: Verzögerung verzerrt die Zeit, Gitarre malt den Raum – Der Kern von Seiichi Yamamotos akustischer Philosophie und Psychedelika
+文：mmr｜テーマ：ディレイが時間を歪め、ギターが空間を描く——山本精一の音響思想とサイケデリックの核心に迫る
 
-Seiichi Yamamoto ist eine einzigartige Figur in der Geschichte der japanischen Experimentalmusik. Obwohl er Gitarrist ist, hat er auch als Klangkünstler gearbeitet, der sich mit dem Prozess der Entstehung, Aufrechterhaltung und des Verschwindens von Klang beschäftigt.
+日本の実験音楽史において、山本精一は特異な存在である。ギタリストでありながら、音の発生と持続、そして消失のプロセスそのものを扱う音響作家として活動してきた。
 
-Seine Ausdrucksformen sind vielfältig und umfassen Band-, Improvisations-, Filmmusik- und Solowerke, doch im Kern geht es um die Erforschung der „Zeitlichkeit des Klangs“. Insbesondere verzögerungsbasierte Klänge sind ein prägendes Element seiner Musik.
+その表現はバンド、即興、映画音楽、ソロ作品と多岐にわたるが、根底にあるのは「音の時間性」への探究である。特にディレイを軸としたサウンドは、彼の音楽を決定づける要素となっている。
 
-> Seiichi Yamamotos Musik basiert auf der „Rückseite des Klangs“.
+> 山本精一の音楽は「音の後ろ側」によって成立している。
 
 
 
@@ -45,123 +44,123 @@ color: #fff;
 </style>
 
 
-## Langeweile: Lärmgrenzen und Transformationen
+## Boredoms：ノイズの極限と転換
 
-Seiichi Yamamotos Aktivitäten mit Boredoms (1986–2001) waren eine wichtige Zeit, um japanische Underground-Musik mit der Welt zu verbinden.
+Boredomsにおける山本精一の活動（1986–2001）は、日本のアンダーグラウンド音楽を世界へ接続した重要な時代である。
 
 ### Repräsentatives Album
 
-* 『Seelenentladung』
+* 『Soul Discharge』
 * 『Pop Tatari』
 * 『Super æ』
-* „Vision Creation Newsun“
+* 『Vision Creation Newsun』
 
-Ursprünglich als destruktiver Noise Rock bekannt, wandelte er sich allmählich zu einer Struktur, die auf Wiederholung und Sustain basiert. „Vision Creation Newsun“ erreicht als tranceartige Dauermusik eine höhere Perfektion.
-
----
-
-### Legendäre Leben und Anekdoten
-
-#### Volumen und Körperlichkeit
-
-Aufgrund seiner extremen Lautstärke und Vibration wirkt Schall nicht nur als Hörempfindung, sondern auch als körperliche Empfindung.
-
-#### Trance durch Wiederholung
-
-Durch die lange Wiederholung wird das Zeitgefühl verwässert und das Publikum in einen Trancezustand versetzt.
-
-#### Die Grenze zwischen Kontrolle und Zusammenbruch
-
-Auch der Moment, in dem Feedback und Lärm an ihre Kontrollgrenzen stoßen, wird zum Kern der Performance.
-
-> Langeweile-Liveshows sind der Prozess, der einen kritischen Punkt in ihrem Sound erreicht.
+初期は破壊的なノイズロックとして知られるが、次第に反復と持続を基盤とした構造へ移行する。『Vision Creation Newsun』ではトランス的な持続音楽としての完成度が高まる。
 
 ---
 
-## Bewertung und Auswirkungen im Ausland
+### 伝説的ライブと逸話
 
-Die Aktivitäten von Boredoms und Seiichi Yamamoto wurden in der experimentellen Musik-/Alternative-Musikszene in Europa und Amerika hoch gelobt.
+#### 音量と身体性
 
-### Merkmalsauswertung
+極端な音量と振動により、音は聴覚だけでなく身体感覚として作用する。
 
-* Geräuschstrukturierung
-* Transsexualität aufgrund von Wiederholung
-* Verschmelzung von Improvisation und Konstruktion
+#### 反復によるトランス
 
-Vision Creation Newsun gilt auch als wichtiges Werk im psychedelischen und Drohnenkontext.
+長時間の反復によって時間感覚が希薄化し、観客はトランス状態へと導かれる。
 
-### Akustische Wirkung
+#### 制御と崩壊の境界
 
-Seiichi Yamamotos anhaltender Sound mittels Delay ist auch in den Bereichen Drone und Ambient zu einer Referenztechnik geworden.
+フィードバックやノイズが制御限界に達する瞬間すら、演奏の核として成立する。
 
-> Seiichi Yamamotos Sound wird nicht als Genre, sondern als klangliches Phänomen bewertet.
+> Boredomsのライブは、音が臨界点に達するプロセスそのものである。
 
 ---
 
-## Memories Wharf und Urban Psychedelia
+## 海外での評価と影響
 
-Im Omoide Hatoba wird genreübergreifende Musik gespielt.
+Boredomsおよび山本精一の活動は、欧米の実験音楽／オルタナティブシーンで高く評価された。
+
+### 特徴的評価
+
+* ノイズの構造化
+* 反復によるトランス性
+* 即興と構築の融合
+
+『Vision Creation Newsun』は、サイケデリックやドローン文脈でも重要作として認識されている。
+
+### 音響的影響
+
+山本精一のディレイによる持続音は、ドローンやアンビエントの領域においても参照される手法となった。
+
+> 山本精一の音は、ジャンルではなく音響現象として評価されている。
+
+---
+
+## 想い出波止場と都市的サイケデリア
+
+想い出波止場では、ジャンル横断的な音楽が展開される。
 
 ### Repräsentatives Album
 
-* „Unterwasser-JOE“
+* 『水中JOE』
 * 『Sukiyaki Western』
 
-> Musik entsteht innerhalb einer Situation.
+> 音楽は状況の中で生成される。
 
 ---
 
-## Kompass und Schallrand
+## 羅針盤と音の余白
 
-Beim Kompass unterdrücken wir die Anzahl der Geräusche und betonen den Nachhall.
+羅針盤では、音数を抑え、残響を重視。
 
 ### Repräsentatives Album
 
-* „Evangelium“
-* „Ewiges Lied“
+* 『福音』
+* 『永遠のうた』
 
-> Das Fehlen von Ton erzeugt ein Gefühl von zeitlicher Tiefe.
-
----
-
-## ROVO- und Transformatorstruktur
-
-ROVO konzentriert sich auf langfristige, sich wiederholende Strukturen.
-
-> Wiederholung ist eine Struktur, die das Bewusstsein verändert.
+> 音の少なさが、時間の深度を生む。
 
 ---
 
-## Solodiskographie
+## ROVOとトランス構造
 
-*NOA (1998)
-*NOA2 (2001)
-* Crown of Fuzzy Groove (2002)
-* Nu Frequency (2003)
-* Rätsel (2003)
-*Taufe (2004)
-*EVE (2005)
-* TOKYO LOOP Original-Soundtrack (2006)
-*SPIELPLATZ (2010)
-* PLAYGROUND Acoustic+ (2011)
-* Rhapsodia (2011)
-* Coveralbum 1. Sammlung (2013)
-*LICHTER (2013)
-* Falsett (2014)
-* Kinderreime (2015)
-* Café Brain (2020)
-*selfy (2020)
+ROVOでは、長時間の反復構造が中心。
+
+> 反復は意識を変容させる構造である。
 
 ---
 
-## Das Herzstück von „Crown of Fuzzy Groove“
+## ソロ・ディスコグラフィー
 
-„Crown of Fuzzy Groove“ aus dem Jahr 2002 ist ein Werk, das Seiichi Yamamotos akustische Philosophie kristallisiert.
+* NOA（1998）
+* NOA2（2001）
+* Crown of Fuzzy Groove（2002）
+* Nu Frequency（2003）
+* なぞなぞ（2003）
+* Baptism（2004）
+* EVE（2005）
+* TOKYO LOOP オリジナル・サウンドトラック（2006）
+* PLAYGROUND（2010）
+* PLAYGROUND Acoustic+（2011）
+* ラプソディア（2011）
+* カバー・アルバム第一集（2013）
+* LIGHTS（2013）
+* ファルセット（2014）
+* 童謡（わざうた）（2015）
+* cafe brain（2020）
+* selfy（2020）
 
-### Mehrschichtung der Zeit durch Verzögerung
+---
 
-* Nachhaltigkeit durch Feedback
-* Verschmelzung von Rauschen und Obertönen
+## 『Crown of Fuzzy Groove』の核心
+
+2002年作『Crown of Fuzzy Groove』は、山本精一の音響思想が結晶化した作品である。
+
+### ディレイによる時間の多層化
+
+* フィードバックによる持続
+* ノイズと倍音の融合
 
 <div class="mermaid">
 flowchart TD
@@ -171,122 +170,122 @@ C --> D[音の層]
 D --> E[持続的変化]
 </div>
 
-Klänge existieren nicht als Phrasen, sondern als Phänomene, die sich immer wieder überschneiden.
+音はフレーズではなく、重なり続ける現象として存在する。
 
-### Herkunft und Ankunft in „Mantral“
+### 「Mantral」における起源と到達
 
-Der letzte Song des Albums, „Mantral“, ist nicht nur ein komplettes Studiowerk, sondern lässt sich auch dreidimensionaler verstehen, indem man seinen Ursprüngen nachspürt.
+アルバムのラスト「Mantral」は、単独のスタジオ作品として完結しているだけでなく、その起源を辿ることでより立体的に理解できる。
 
-Das Lied geht ursprünglich auf ein Motiv zurück, das während der Zeit der Boredoms gespielt wurde, wurde jedoch nie von Boredoms veröffentlicht.
+この楽曲はもともと、Boredomsの活動期に演奏されていたモチーフに由来するが、Boredomsでのリリースには至っていない。
 
-Mit anderen Worten kann man sagen, dass „Mantral“ eine Rekonstruktion der repetitiven Phrasen und der Trance-Struktur ist, die in der Boredoms-Szene in seinem Solowerk entstanden sind.
+すなわち「Mantral」は、Boredomsの現場で生まれた反復的フレーズとトランス構造が、ソロ作品の中で再構築されたものといえる。
 
-Darüber hinaus ist diese Melodie auch auf OIOOOs Album „Mountain Book“ zu hören. Hier werden dieselben Melodiefragmente von Seiichi Yamamoto in einem anderen Arrangement und Kontext entwickelt.
+さらにこのメロディは、OOIOOのアルバム『Mountain Book』においても確認できる。ここでは山本精一が生み出した同種の旋律的断片が、別の編成と文脈の中で展開されている。
 
-Diese Tatsache ist wichtig.
+この事実は重要である。
 
-Dieselbe Melodie und Struktur
+同一のメロディや構造が、
 
-* Lärmartige kollektive Improvisation (Boredoms)
-* Von Frauen geleitetes Rhythmusexperiment (OOIOO)
-* Persönliche akustische Erkundung (Solo)
+* ノイズ的集団即興（Boredoms）
+* 女性主体のリズム実験（OOIOO）
+* 個人の音響探求（ソロ）
 
-Es erscheint während der Transformation in verschiedenen Umgebungen.
+という異なる環境で変形しながら現れる。
 
-Mit anderen Worten: „Mantral“ ist nicht nur ein Lied, sondern der Kern des Sounds, der in Seiichi Yamamoto fortbesteht.
+つまり「Mantral」は単なる楽曲ではなく、山本精一の中で持続し続ける音の核そのものと考えられる。
 
-### Die wahre Natur der Größe
+### 壮大さの正体
 
-„Mantral“ aus „Crown of Fuzzy Groove“ wird als etwas präsentiert, das seiner endgültigen Form nahe kommt.
+『Crown of Fuzzy Groove』に収録された「Mantral」は、その最終形に近い姿として提示される。
 
-Dabei wird die wiederholte Melodie durch Verzögerungen unzählige Male verstärkt und die Klangschichten werden nach und nach größer. Der Klang verliert seine individuelle Existenz und verwandelt sich in einen gigantischen Klangstrom.
+ここでは、反復される旋律がディレイによって無数に増幅され、音の層は次第に肥大化していく。音は個別の存在を失い、巨大な音響の流れへと変化する。
 
-Im Mittelpunkt steht eine einfache, wiederholte Melodie. Diese Melodie wird mit einer Verzögerung gemultiplext und der Klang wird allmählich dicker. Einzelne Klänge verlieren ihre Konturen und verwandeln sich in einen zusammenhängenden akustischen Körper.
+まず中心にあるのは、反復されるシンプルな旋律である。この旋律はディレイによって多重化され、音は次第に厚みを増していく。個々の音は輪郭を失い、連続した音響体へと変化する。
 
-* Die Melodie bleibt beim Auflösen erhalten
-* Der Rhythmus ist nicht explizit und bleibt bestehen
-* Der Weltraum wächst weiter
+* メロディは保持されながら溶解する
+* リズムは明示されず持続する
+* 空間は拡張し続ける
 
-Anstatt den Rhythmus zu bestimmen, fungiert das Schlagzeug als „Achse, die die Musik trägt“.
+そして、ドラムはリズムを刻むというより、「持続を支える軸」として機能している。
 
-* Ein Muster, das sich in regelmäßigen Abständen wiederholt
-* Minimalistisches Blasen ohne übermäßige Dekoration
-* Ein Kern, der nicht verschwindet, obwohl er in Klangschichten vergraben ist
+* 一定の周期で繰り返されるパターン
+* 過剰な装飾を排したミニマルな打撃
+* 音の層に埋もれながらも消えない芯
 
-Diese Trommel erzeugt eher eine sanfte Schwerkraft als eine chaotische Klangwucherung.
+このドラムによって、音の増殖が無秩序に拡散するのではなく、緩やかな重力のようなものが生まれる。
 
-Während Gitarrenverzögerungen die Zeit horizontal dehnen, fixiert das Schlagzeug die Zeit vertikal.
+ギターのディレイが時間を横方向に引き延ばすのに対し、ドラムは時間を垂直に固定する。
 
-Dadurch baut sich der Ton auf und breitet sich nicht einfach aus.
+その結果、音は単に広がるのではなく、「積み上がる」。
 
-Darüber hinaus vermeiden die winzigen Schwankungen der Trommeln eine vollständige mechanische Schleife und verleihen den Wiederholungen eine organische Variation. Dadurch kann der Zuhörer weiterhin geringfügige Änderungen wahrnehmen, während er im gleichen Muster bleibt.
+さらに、ドラムの微細な揺らぎは完全な機械的ループを回避し、反復に有機的な変化を与える。これにより、聴き手は同じパターンの中にいながら、わずかな変化を知覚し続ける。
 
-Der Klang wird verstärkt und geschichtet, die Zeit wird gedehnt.
+音は増幅され、層をなし、時間は引き延ばされる。
 
-Im Zentrum steht die Trommel, die als unzerbrechliche Achse dient.
+その中心に、崩れない軸としてドラムが存在する。
 
-Aufgrund dieser Struktur ist „Mantral“ nicht nur ein Dröhnen oder sich wiederholende Musik, sondern ein gigantischer Klangfluss.
+この構造によって「Mantral」は、単なるドローンでも反復音楽でもない、巨大な音響の流れとして成立している。
 
-Größe ist nicht die Größe des Klangs, sondern die Tiefe der Zeit, die durch Dauer und Struktur entsteht, und dieser Sinn für Größenordnung ist die Essenz der „Größe“ dieses Liedes.
+壮大さとは音の大きさではなく、持続と構造が生む時間の深さであり、このスケール感こそが、この楽曲の「壮大さ」の本質である。
 
-Dies liegt nicht an der Größe der Organisation, sondern an der zeitlichen Verteilung.
+それは編成の大きさではなく、時間の広がりによって生まれている。
 
-Der Klang zirkuliert endlos und der Zuhörer wird in sein Inneres entführt.
+音は終わることなく循環し、聴き手はその内部に取り込まれる。
 
-„Mantral“ ist kein einzelnes Lied, sondern eine Klangstruktur, die über verschiedene Zeiten und Orte hinweg bestehen bleibt.
-
----
-
-## Namba Bears und der Boden der Musik
-
-Die Namba-Bären sind unverzichtbar, wenn man über die Aktivitäten von Seiichi Yamamoto spricht.
-
-Dieser Ort ist mehr als nur ein Veranstaltungsort für Live-Musik. Es fungierte als wichtiger Geburtsort der japanischen Underground-Musik.
-
-### Management und Philosophie
-
-Durch seine Beteiligung am Management engagiert sich Seiichi Yamamoto nicht nur als Interpret, sondern auch als „Umweltschöpfer“ in der Musik.
-
-Hier ist der freie Ausdruck erlaubt, ohne an Genre oder Technik gebunden zu sein, und junge Musiker und experimentelle Bestrebungen werden auf natürliche Weise geboren.
-
-### Ausbildung und Einflussnahme auf die nächste Generation
-
-Die Namba-Bären zeichnen sich durch ihre Entwicklung durch den „Ort selbst“ und nicht durch ein klares Bildungssystem aus.
-
-* Offenheit, die es auch unbekannten Künstlern ermöglicht, aufzutreten
-* Eine Atmosphäre, die Improvisation und Experimente ermöglicht
-* Direkter Kontakt zu inländischen und internationalen Musikern
-
-In diesem Umfeld sammeln viele junge Menschen Erfahrungen und entwickeln ihre eigenen Ausdrucksformen.
-
-In diesem Prozess geht es nicht darum, den „vollständigen Klang“ zu erleben, sondern darum, den „Klang im Gange“ zu erleben.
-
-So wie Seiichi Yamamotos eigene Musik Wert auf Unvollendetheit und Kontinuität legt, so betont auch dieser Ort den Prozess.
-
-### Sound-Feedback
-
-Es wird angenommen, dass Seiichi Yamamotos Erfahrungen in einem solchen Umfeld seinen eigenen Sound beeinflusst haben.
-
-Durch den täglichen Kontakt mit einer Vielzahl von Darbietungen und unorganisierten Klängen wird der Klangsinn flexibler und offener. Dadurch ist sein Sound nie festgelegt und verändert sich ständig.
-
-Die Förderung der nächsten Generation beeinflusst nicht nur andere, sondern schafft auch einen Kreislauf, in dem die Tiefe des eigenen Klangs ständig aktualisiert wird.
-
-> Musik ist Ausdruck eines Individuums, gleichzeitig aber auch ein Phänomen, das vom Ort gefördert wird.
+「Mantral」は一つの曲ではなく、異なる時代と場を横断して持続する音の構造である。
 
 ---
 
-## Fazit: Psychedelisch im wahrsten Sinne des Wortes
+## 難波ベアーズと音楽の土壌
 
-Seiichi Yamamotos Musik besteht nicht nur aus seinem individuellen Talent.
+山本精一の活動を語るうえで欠かせないのが、難波ベアーズである。
 
-Die extreme Akustik der verschiedenen teilnehmenden Bands, der Ruf im Ausland und das Management des Namba Bears-Veranstaltungsorts – diese Dinge interagieren miteinander und aktualisieren die Tiefe des Klangs kontinuierlich.
+この場所は単なるライブハウスではなく、日本のアンダーグラウンド音楽の重要な生成地点として機能してきた。
 
-Die Aufgabe, die nächste Generation zu fördern, hat keinen einseitigen Einfluss. Der Kontakt mit neuen Klängen und unreifen Ausdrucksformen rüttelt den eigenen Klang auf und aktualisiert ihn.
+### 運営と思想
 
-Der Ton ist nicht behoben. Es ändert sich ständig, je nach Ort und Person.
+山本精一は運営に関わることで、演奏者としてだけでなく「環境を作る側」としても音楽に関与している。
 
-In diesem Zyklus liegt die Essenz des psychedelischen Sounds von Seiichi Yamamoto.
+ここではジャンルや技術に縛られない自由な表現が許容され、若い音楽家や実験的な試みが自然に生まれていく。
 
->Klang ist keine individuelle Sache, sondern vertieft sich im Raum.
+### 後進の育成と影響
+
+難波ベアーズの特徴は、明確な教育システムではなく、「場そのもの」による育成である。
+
+* 無名の演奏者でも出演できる開放性
+* 即興や実験を許容する空気
+* 国内外の音楽家との直接的な接触
+
+こうした環境の中で、多くの若手が経験を積み、自らの表現を形成していく。
+
+その過程で重要なのは、「完成された音」ではなく、「生成中の音」に触れることだ。
+
+山本精一自身の音楽が、未完成性や持続の中に価値を見出すものであるように、この場所もまたプロセスを重視する。
+
+### 音へのフィードバック
+
+このような環境での経験は、山本精一自身の音にも影響を与えていると考えられる。
+
+多様な演奏や未整理な音に日常的に触れることで、音に対する感覚はより柔軟で開かれたものになる。結果として、彼のサウンドは固定化されず、常に変化し続ける。
+
+後進の育成という行為が、単に他者へ影響を与えるだけでなく、自身の音の深度をも更新し続ける循環を生んでいる。
+
+> 音楽は個人の表現であると同時に、場によって育まれる現象でもある。
+
+---
+
+## 結論：本当の意味でのサイケデリック
+
+山本精一の音楽は、単独の才能だけで完結しているわけではない。
+
+多種多様な参加バンドでの極限的音響、海外での評価、そして難波ベアーズという場の運営——それらは相互に作用し合いながら、音の深度を更新し続けている。
+
+後進の育成という営みは、一方向の影響ではない。新しい音や未成熟な表現に触れることが、逆に自身の音を揺さぶり、更新する。
+
+音は固定されない。場と人によって変わり続ける。
+
+その循環の中にこそ、山本精一のサイケデリックな音響の本質がある。
+
+> 音は個人のものではなく、場の中で深くなっていく。
 
 ---

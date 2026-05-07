@@ -19,7 +19,7 @@ title: '[Kolumne] Anonymität und atypischer Pop – Der Anti-Musik-Horizont, de
 
 ## Prolog: Das Konzept der unbekannten Identität
 
-Text: mmr｜Thema: Die Entwicklung einer Avantgarde-Gruppe, die mit Anonymität und Multimedia als Waffen den eigentlichen Rahmen der Musik neu definierte
+Text: mmr｜Thema: Die Entwicklung einer Avantgarde-Gruppe, die den Rahmen der Musik neu definierte und dabei Anonymität und Multimedia als Waffen nutzte
 
 ### Strategie als namenloses Wesen
 
@@ -79,7 +79,7 @@ Ihre Arbeiten stellen ständig die „Form selbst“ in Frage. Die Albumeinheit,
 
 Die riesige Augapfelmaske, ein Symbol der Residents, ist nicht nur eine Neuheit, sondern ein Gerät, das die Umkehrung der Beziehung zwischen „Sehen und Gesehenwerden“ anzeigt. Das Publikum beobachtet die Aufführung, wird aber gleichzeitig auch von riesigen Augen angestarrt.
 
-Bei einer Live-Aufführung werden Bilder, Beleuchtung und Kostüme eng miteinander verknüpft, um ein Gesamtkunstwerk zu schaffen. Dies ähnelt späterer Multimediakunst und installativen Ideen.
+Bei einer Live-Aufführung werden Bilder, Beleuchtung und Kostüme eng miteinander verknüpft, um ein Gesamtkunstwerk zu schaffen. Diese Idee ähnelt späteren Multimedia-Kunst- und Installationsideen.
 
 <div class="mermaid">
 flowchart TD
@@ -107,7 +107,7 @@ In dieser Zeit wird Musik eher Teil einer Schnittstelle als ein eigenständiges 
 
 ## Chronologie: Hauptbewegungen der Residents
 
-### 活動の流れ
+### Ablauf der Aktivitäten
 
 <div class="mermaid">
 timeline
@@ -131,7 +131,7 @@ timeline
 
 Die Residents beeinflussten viele Künstler, auch wenn sie keine Mainstream-Erfolge waren. Sein Einfluss ist weitreichend, insbesondere in der experimentellen Musik, Industrial, Noise und sogar zeitgenössischer elektronischer Musik.
 
-Ihre Bedeutung liegt darin, dass sie keiner bestimmten Gattung zuzuordnen sind. Vielmehr wurde es für seine „Einstellung, das Konzept des Genres selbst in Frage zu stellen“ gelobt.
+Ihre Bedeutung liegt darin, dass sie keinem bestimmten Genre zuzuordnen sind. Vielmehr wurde es für seine „Einstellung, das eigentliche Konzept des Genres in Frage zu stellen“ gelobt.
 
 Die Strategie der Anonymität beeinflusste auch spätere Künstler, die weiterhin das Thema der Trennung von Persönlichkeit und Werk thematisieren.
 

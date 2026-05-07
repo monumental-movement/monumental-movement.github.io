@@ -54,7 +54,7 @@ Après les années 2000 : il fut un temps où elle était considérée comme un
 
 - **Brian Eno** : "Ambient 1 : Music for Airports" - Relier les origines du New Age et de l'Ambient.
 
-- **Kitaro** : Un paysage sonore magnifique qui utilise pleinement les synthétiseurs. Connu dans le monde entier pour la « Route de la soie » de la NHK.
+- **Kitaro** : Un paysage sonore magnifique qui utilise pleinement les synthétiseurs. Connu dans le monde entier pour la « Route de la Soie » de la NHK.
 
 - **George Winston** : Un monde sonore tranquille de piano solo. Fonctionne avec une ambiance saisonnière, comme « Décembre ».
 
@@ -80,7 +80,7 @@ Il s’est étendu à tous les aspects du style de vie tels que l’art, l’arc
 
 ### Réévaluation contemporaine
 
-La musique new age actuelle s'est éloignée du simple fait d'être une simple « musique de guérison » et est évaluée d'une nouvelle manière dans le contexte suivant.
+La musique new age actuelle s'est éloignée du simple rôle de « musique de guérison » et est évaluée d'une nouvelle manière dans le contexte suivant.
 
 - **Culture lo-fi et chill-out** : attention renouvelée pour la « musique à écouter » à l'ère du streaming.
 
@@ -94,10 +94,10 @@ La musique new age actuelle s'est éloignée du simple fait d'être une simple �
 
 ### Incarner une « oasis sonore »
 
-La musique New Age était souvent décrite comme une « musique de fond », pour parler franchement. Cependant, son son méditatif et non agressif est devenu l'incarnation de « l'oasis sonore » recherchée par les gens à mesure que l'urbanisation et les technologies de l'information progressent.
+La musique New Age était souvent décrite comme une « musique de fond », pour le dire crûment. Cependant, son son méditatif et non agressif est devenu l'incarnation de « l'oasis sonore » recherchée par les gens à mesure que l'urbanisation et les technologies de l'information progressent.
 Dans les temps modernes, il a été réabsorbé dans des genres tels que l’ambient et le chillout, mais ses idéaux – harmonie avec la nature, introspection et guérison – sont devenus encore plus urgents.
 
-Le New Age n'est pas une mode passagère du passé, mais une culture musicale qui continue de jouer, discrètement mais sûrement, un rôle dans la vie des gens.
+Le Nouvel Âge n’est pas une mode passagère du passé ; c'est une culture musicale qui continue de jouer discrètement mais sûrement un rôle dans la vie des gens.
 
 ---
 

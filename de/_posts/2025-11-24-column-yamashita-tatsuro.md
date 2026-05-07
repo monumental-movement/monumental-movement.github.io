@@ -67,7 +67,7 @@ Mit den für analoge Eigenschaften optimierten Arrangements und Aufnahmen wurde 
 
 ---
 
-# 2. Ende der 1970er Jahre: Frühe Solophase und die fertige Version von „Analog Layer“
+# 2. Ende der 1970er Jahre: Frühe Solophase und die vollendete Form von „Analog Layer“
 
 ## ■ „SPACY“ (1977), „GO AHEAD!“ (1978)
 In dieser Zeit nutzte Tatsuro die analoge 24-Spur-Aufnahme voll aus.
@@ -75,7 +75,7 @@ In dieser Zeit nutzte Tatsuro die analoge 24-Spur-Aufnahme voll aus.
 Merkmale:
 - **Kompression mit Temperaturgefühl** mit Klebeband
 - Overdubbing des Handspiels (Gitarre, Keyboard, Percussion)
-- **Dutzende Overdubbing-Gesang**
+- **Dutzende Overdubbing-Vocals**
 
 In späteren Jahren sagte Tatsuro: „Je mehr man analog schichtet, desto mehr Nuancen werden zusammenkommen“, und die Werke aus dieser Zeit sind die ideale Form davon.
 
@@ -97,7 +97,7 @@ Im Mittelpunkt stand dabei das **CBS Sony Shinanomachi Studio**.
 Der Sound aus dieser Zeit wird oft als „Idealform des City-Pop“ bezeichnet.
 
 ## ■ Aufnahmeästhetik von „FOR YOU“ (1982)
-Dieses Werk gilt als eines der Spitzenwerke von Tatsuro.
+Dieses Werk gilt als eines der Spitzenwerke Tatsuros.
 Akustische Eigenschaften:
 
 1. **Höchste Klarheit bei analogen Aufnahmen**
@@ -168,7 +168,7 @@ Erzielung einer einzigartigen Fusion aus **selbstproduziertem + digitalem + Live
 
 In den 2020er Jahren wurden viele Werke aus der analogen Ära neu gemastert.
 
-Schon beim Remastering hat Tatsuro deutlich gemacht, dass er es überhaupt nicht mag, den Sound zu verändern.
+Schon beim Remastering hat Tatsuro deutlich gemacht, dass es ihm überhaupt nicht gefällt, den Sound zu verändern.
 
 ### ▼ Überarbeitete Funktionen
 - Reproduziert originalgetreu das Originalband
@@ -217,7 +217,7 @@ timeline
 ### – Unterschiede in der Akustik basierend auf Tatsuros Werken
 
 | Artikel | Analoge Zeit (~1980er Jahre) | Digitale Periode (1990er-Jahre) |
-|------|-------------|--------------------------|
+|------|-------------|-------------------------|
 | Aufnahmemedien | Klebeband (2 Zoll) | PCM/ProTools |
 | Klangeindruck | Warm, dick, rund | Klar, scharf |
 | Chor | Je mehr Sie schichten, desto mehr fügt es sich zusammen | Es neigt dazu, steif zu werden, wenn es geschichtet wird |

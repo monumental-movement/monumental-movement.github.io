@@ -9,11 +9,11 @@ permalink: /fr/dangerzone-pres-patrick-marsh-killing-fire/
 tags:
 - Trance
 - 00s
-title: Zone de danger Prés. Patrick Marsh – Tuer le feu
+title: Dangerzone Pres. Patrick Marsh – Killing Fire
 ---
 
 
-Un morceau de transe sorti en 2002 par Reality Bites Records, un label allemand spécialisé dans la transe, la hard trance et la trance progressive.
+トランス、ハードトランス、プログレッシブトランスを専門とするドイツのレーベルReality Bites Recordsから2002年リリースされたトランストラック。
 
 
 #### Liste des chansons

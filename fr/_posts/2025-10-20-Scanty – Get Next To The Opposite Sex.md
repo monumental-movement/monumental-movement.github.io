@@ -10,13 +10,13 @@ tags:
 - House
 - Tech House
 - 00s
-title: Scanty – Passez à côté du sexe opposé
+title: Scanty – Get Next To The Opposite Sex
 ---
 
 
-Richard Marshall, également connu sous le nom de Scanty, est un DJ et producteur basé à Londres qui a produit de nombreux disques de clubs célèbres sous différents noms au fil des ans.
+ScantyことRichard Marshall(リチャード・マーシャル)は、長年にわたり様々な名義で数多くの有名なクラブレコードを手がけてきた、ロンドンを拠点とするDJ／プロデューサー。
 
-"Get Next To The Opposite Sex" est une chanson House/Tech House sortie en 2001 par le label Southern Fried Records de Garry Blackburn & Norman Cook.
+「Get Next To The Opposite Sex 」は、Garry Blackburn & Norman Cook主宰のレーベルSouthern Fried Recordsから2001年にリリースされたHouse／Tech House。
 
 #### Liste des chansons
 ```md

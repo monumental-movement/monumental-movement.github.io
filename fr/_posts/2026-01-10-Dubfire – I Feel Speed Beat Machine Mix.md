@@ -10,13 +10,13 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Dubfire – Je ressens la vitesse (Beat Machine Mix)
+title: Dubfire – I Feel Speed (Beat Machine Mix)
 ---
 
 
-Ali Shirazinia, également connu sous le nom de Dubfire, est un DJ/producteur House & Techno d'origine iranienne basé aux États-Unis. Il dirige le label numérique Electro/Techno SCI + TEC Digital Audio. Il est également actif au sein du duo Deep Dish avec Sharam Tayebi, et est bien connu pour ses remix de « Hideaway » de De'Lacy et « Thank You » de Dido. En 2006, il a été nominé pour un Grammy Award pour le meilleur enregistrement dance/électronique pour « Say Hello » de Deep Dis.
+DubfireことAli Shiraziniaは、イラン出身でUSを拠点に活動するHouse & Techno DJ／プロデューサー。Electro/TechnoのデジタルレーベルSCI + TEC Digital Audioを運営している。Sharam Tayebi とのデュオDeep Dishとしても活動し、De'Lacy「Hideaway」、Dido「Thank You」のリミックスなどでもよく知られており、2006年にはDeep Dis 「Say Hello」でグラミー賞のBest Dance/Electronic Recording でノミネートされた。
 
-Ce disque, sorti en 2008, est une version non officielle de « I Feel Speed ​​» de Dubfire mixé avec Beat Machine Techno/Electro. (Simple avec face A uniquement)
+2008年にリリースされたこのレコードは、Dubfire 「I Feel Speed」をBeat Machine Techno/Electro mix した非公式リリース。(A面のみのシングル)
 
 #### Liste des chansons
 ```md

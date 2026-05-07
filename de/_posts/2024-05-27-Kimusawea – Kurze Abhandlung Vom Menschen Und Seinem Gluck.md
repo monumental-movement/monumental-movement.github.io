@@ -15,11 +15,11 @@ title: Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück
 ---
 
 
-Kimusawea ist eine Hardcore/Post-Hardcore/Experimental-Band, gegründet von Alexandra Petrović und Hajo Greif aus Frankfurt, Deutschland. Obwohl sich die Band 1998 auflöste, war Alexandra Petrović von 2003 bis 2007 Mitglied der deutschen experimentellen Grindcore/Metal-Band Bolz'n und ab 2007 Mitglied von Idiot Switch.
+Kimusaweaは、ドイツ・フランクフルト出身のAlexandra PetrovićとHajo Greifによるハードコア/ポストハードコア/エクスペリメンタルバンド。 バンドは1998年に解散したが、Alexandra Petrovićはその後2003年〜2007年にドイツのエクスペリメンタルグラインドコア/メタルバンドBolz'nのメンバーとして、2007年からはIdiot Switchのメンバーとして活動した。
 
-Der dritte Titel auf Seite A enthält Samples aus David Lynchs „Wild at Heart“ und „Elephant Man“, Terry Gilliams „Brazil“ und Saul Bass‘ „Phase IV: Insect Panic“.
+A面３曲目は、デヴィッド リンチの「ワイルドアットハート」＆「エレファントマン」、テリー ギリアムの「Brazil」、ソール バスの「フェイズIV 戦慄!昆虫パニック」からのサンプリングが入っている。
 
-Diese LP wurde 1998 auf dem belgischen DIY-Punk/Hardcore-Label Nabate veröffentlicht.
+このLPは、ベルギーのDIYパンク/ハードコアレーベルNabateから1998年にリリースされた。
 
 #### Trackliste
 ```md

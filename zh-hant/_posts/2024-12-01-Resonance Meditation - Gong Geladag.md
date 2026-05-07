@@ -29,6 +29,6 @@ title: 共鳴冥想－貢格拉達
 
 共鳴冥想－貢格拉達
 
-レゾナンスメディテーション 共鳴瞑想- ゴング・グラダグ 
+共振冥想 共振冥想-Gong Gradag
 
 [在 Mercari 購買](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}

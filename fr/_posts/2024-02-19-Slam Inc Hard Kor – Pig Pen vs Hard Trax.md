@@ -14,7 +14,7 @@ title: Slam Inc Hard Kor – Enclos à cochons contre Hard Trax
 ---
 
 
-L'EP "Pig Pen vs Hard" de Slam Inc Hard Kor est un morceau de hard house sorti en 2000 sur Bangin Out Tunes, un sous-label d'Alphamagic, un label britannique hard house/NRG fondé par TraxCalvin Sheppard et William Kimber.
+L'EP "Pig Pen vs Hard" de Slam Inc Hard Kor est un morceau de hard house sorti en 2000 sur Bangin Out Tunes, un sous-label d'Alphamagic, un label hard house/NRG britannique fondé par TraxCalvin Sheppard et William Kimber.
 
 #### Liste des chansons
 ```md

@@ -18,7 +18,7 @@ title: 提姆赫頓 – 一直是個傻瓜
 
 《Been A Fool》是一首 2000 年發行的浩室未來爵士曲目。
 
-B 面的第一首歌是英國嘻哈樂團 The Nextmen 的混音版，他們曾為 Public Enemy、Pharcyde、Blackalicious 等樂團創作混音版。
+B面的第一首歌是英國嘻哈樂團 The Nextmen 的混音版，他們曾混音過《Public Enemy》、《Pharcyde》和《Blackalicious》等歌曲。
 
 #### 曲目表
 ```md

@@ -151,7 +151,7 @@ Au début, le noyau du groupe était constitué de paroles fragmentaires, abstra
 ### ■ Alias ​​​​(Brendon Whitney)
 
 | Année | Titre | Remarques | Lien |
-| ---- | ------------------------------------- | -------- | --------------------------------------------------------------- |
+| ---- | ------------------------------------- | -------- | ----------------------------------------------------- |
 | 2000 | *The Other Side of the Looking Glass* | デビュー作    | [Amazon](https://amzn.to/4o9dFDz) |
 | 2003 | *Muted*                               | 抑制された音世界 | [Amazon](https://amzn.to/4mPkFUO)                    |
 | 2008 | *Resurgam*                            | ポストロック寄り | [Amazon](https://amzn.to/3Wsfz65)                 |
@@ -287,7 +287,7 @@ Selon certaines informations, le site officiel et les activités ont diminué de
 
 Anticon était plus qu’un simple label hip-hop ; c'était une expérience culturelle qui proposait de nouvelles possibilités pour les mots et les sons, incorporant des éléments de musique expérimentale, de post-rock et d'électro. Des membres clés tels que Sole, Doseone, Jel, Alias, Odd Nosdam et Why ? ont continué à mettre à jour leurs expressions poétiques et leurs mondes sonores à travers des travaux solo, des groupes et des collaborations.
 
-Au cœur de ses activités se trouve la prise de conscience de « l'expansion du hip-hop underground » de la fin des années 1990 aux années 2000, et en conséquence, Anticon a acquis un caractère fort en tant que « collectif artistique », « laboratoire indépendant » et « communauté idéologique ». Les œuvres fantastiques de CLOUDDEAD, les albums à tendance pop de Why ? et musiciens à ce jour.
+Au cœur de ses activités se trouve la conscience de « l'expansion du hip-hop underground » de la fin des années 1990 aux années 2000, et en conséquence, Anticon a acquis un caractère fort en tant que « collectif artistique », « laboratoire indépendant » et « communauté idéologique ». Les œuvres fantastiques de CLOUDDEAD, les albums à tendance pop de Why ? et musiciens à ce jour.
 
 Même si le label a effectivement pris fin à la fin des années 2010 avec le décès d’Alias ​​​​et la dispersion des membres, son esprit continue de palpiter dans les activités de chaque artiste. L'esthétique révolutionnaire d'Anticon est devenue l'une des pierres angulaires de la musique indépendante moderne et de la culture DIY, et a été transmise à une nouvelle génération d'artistes expérimentaux sur Spotify et Bandcamp.
 

@@ -72,7 +72,7 @@ Le premier son du groupe mélange la rapidité du punk/hardcore tardif avec l'am
 ### **Le Shah dort dans la tombe de Lee Harvey**
 
 * La guitare utilise principalement des feedbacks directement enregistrés
-* Le saxophone joue de manière irrégulière et détruit la mélodie.
+* Le saxophone joue irrégulièrement et détruit la mélodie.
 * Les paroles sont fragmentaires et axées sur la performance.
 
 ### **Dame Sniff**
@@ -92,7 +92,7 @@ flowchart TD
 
 ---
 
-#**3. Période chaotique des années 80 : Psychic… Powerless… Another Man’s Sac (1984)**
+#**3. Période chaotique des années 80 : Psychique… Impuissant… Le sac d’un autre homme (1984)**
 
 À l'époque, le live était une combinaison de séquences live-action 16 mm, de lumières stroboscopiques et de guitares noise, créant un espace « cérémonial » qui testait la tolérance du public.
 
@@ -183,7 +183,7 @@ flowchart TD
 
 #**7. Weird Revolution (2001) : période d'introduction au son électronique**
 
-Avec cet album, les effets numériques du sampler ont été introduits pour de bon et l'image sonore du groupe a considérablement changé.
+Avec cet album, les effets numériques du sampler ont été sérieusement introduits et l'image sonore du groupe a considérablement changé.
 
 ## 7. Explication détaillée de toutes les chansons de l'album et de la méthode d'enregistrement
 

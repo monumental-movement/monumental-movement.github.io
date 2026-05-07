@@ -80,10 +80,10 @@ Sa caractéristique la plus importante est sa capacité à extraire le sentiment
 
 ### Caractéristiques sonores
 - L'échantillon vocal est extrêmement traité et contient plusieurs formants, ce qui lui donne une sensation « de genre indéterminé ».
-- Mettre le craquement du vinyle (bruit d'enregistrement) au premier plan
+- Mettre le Vinyl Crackle (bruit d'enregistrement) au premier plan
 - Le coup de pied est une attaque basse comme un tonnerre lointain en pleine nuit
 - La caisse claire a une qualité sonore sèche, non métallique, mais comme des "morceaux de bois cassés"
-- Dans l'ensemble, un "médium brumeux" domine, et la mélodie reste un motif court.
+- Dans l'ensemble, un « médium brumeux » domine, et la mélodie reste un motif court.
 - Utilisation fréquente de tampons de libération courts qui disparaissent rapidement
 
 ### Méthode d'échantillonnage
@@ -129,7 +129,7 @@ L'approche de James Blake a été considérée comme un tournant important, reli
 ### 3-2 Traitement vocal
 - Mouvement extrême du Pitch-shift ±12 ou plus
 - Ajustement indépendant du Formant-shift pour rendre le sexe et l'âge ambigus
-- En ajoutant une courte Reverse Reverb, cela crée une texture comme une "image fantôme qui s'approche et disparaît"
+- En ajoutant une courte Reverse Reverb, cela crée une texture comme une « image fantôme qui s'approche et disparaît »
 - Il existe de nombreux exemples d'utilisation d'harmoniseurs pour former des harmonies dissonantes.
 
 ### 3-3 Génération de base
@@ -212,3 +212,11 @@ Le post-dubstep/Experimental Bass continuera d'être un terrain fertile pour de 
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmBantr7ZY4?si=yPHT6Eev-qSqxil8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

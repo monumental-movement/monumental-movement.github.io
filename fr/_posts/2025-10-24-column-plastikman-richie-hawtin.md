@@ -9,17 +9,16 @@ permalink: /fr/column-plastikman-richie-hawtin/
 tags:
 - Techno
 - Detroit Techno
-title: '[Chronique] Plastikman | Richie Hawtin - Les profondeurs du minimalisme et
-  l''histoire spirituelle de la techno'
+title: 【コラム】 Plastikman | Richie Hawtin ― ミニマリズムの深淵とテクノの精神史
 ---
 
 
-## Prologue : Soi comme « espace » sonore
+## 序章：音の「空間」としての自己
 
 
-Texte : mmr｜Thème : Réflexions sur la façon dont Plastikman, qui a hérité de l'esprit de la deuxième génération de la techno de Détroit, a dépouillé le son jusqu'à l'extrême et l'a sublimé en un art qui permet d'entendre la « réverbération » du rythme lui-même.
+文：mmr｜テーマ：デトロイト・テクノ第二世代の精神を受け継いだPlastikmanの自ら音を極限まで削ぎ落とし、**リズムの“残響”そのものを聴かせる芸術**にまで昇華させたことについての考察
 
-Richie Hawtin redéfinit la « techno » depuis le début des années 1990, non seulement comme une musique de danse, mais aussi comme un « appareil de méditation sonore ». Ses œuvres sous le nom de Plastikman, en particulier « _Sheet One_ » (1993) et « _Consumed_ » (1998), sont des **expériences de visualisation de l'espace interne du corps humain avec un son électronique**, et le son, qui ressemble à un liquide froid, est également appelé « sculpture abstraite du son ».
+リッチー・ホウティンは、90年代初頭から「テクノ」を単なるダンス・ミュージックではなく、「**音の瞑想装置**」として再定義してきた。Plastikman名義の作品群――とりわけ『_Sheet One_』（1993）や『_Consumed_』（1998）は、**人間の内部空間を電子音で可視化する実験**であり、その冷たい液体のようなサウンドは「音の抽象彫刻」とも呼ばれる。
 
 
 
@@ -39,26 +38,26 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 : Échos de Détroit, Solitude de Windsor
-Richie Hawtin est né à Banbury, en Angleterre, en 1970 et a déménagé à Windsor, au Canada, lorsqu'il était enfant. Depuis cette ville de l'autre côté de la rivière Détroit, il a pu voir les débuts de la techno de Détroit dans les clubs underground Music Institute et The Shelter.
+## 第1章：デトロイトの残響、ウィンザーの孤独
+リッチー・ホウティンは1970年、イギリス・バンベリーに生まれ、幼少期にカナダ・ウィンザーへ移住した。デトロイト川を挟んで向かいにあるこの街から、彼はアンダーグラウンドなクラブ「Music Institute」や「The Shelter」でのデトロイト・テクノ初期の現場を遠望することになる。
 
-Hawtin a été influencé par **l'esprit qui réside dans les rythmes mécaniques** de Juan Atkins et Derrick May, et l'a reconstruit dans une perspective de beauté structurelle calme. Il y a toujours un paradoxe dans sa musique : **la chaleur à travers la distance**. Villes et banlieues, culture noir et blanc, émotion et géométrie. Plastikman était une « musique du milieu » qui s'est formée entre les deux.
+ホウティンが影響を受けたのは、Juan AtkinsやDerrick Mayらの**機械的なリズムに宿る魂**であり、それを冷静な構造美の視点で再構築した。彼の音楽には常に、「**距離を介した熱**」という逆説がある。都市と郊外、黒人文化と白人文化、情動と幾何。Plastikmanはその狭間で形成された“中間領域の音楽”だった。
 
 ---
 
-## Chapitre 2 : La naissance de Plastikman – Vestiges d'acide et introspection techno
-En 1993, "_Sheet One_" est sorti. Le son traditionnel de l'acid house TB-303 a été blanchi à l'extrême, créant un espace acoustique qui ressemble à des **battements cardiaques et signaux nerveux**. Au contraire, le silence qui dérive entre les sons peut être entendu comme le personnage principal.
+## 第2章：Plastikman誕生 ― Acidの残滓とテクノの内省
+1993年、『_Sheet One_』がリリースされる。アシッド・ハウスの伝統的TB-303サウンドを極限まで脱色し、まるで**心拍と神経の信号**のような音響空間を構築。音と音の「間」に漂う沈黙が、むしろ主役として聴こえる。
 
 そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
-> « Plastikman est un projet qui utilise le son pour visualiser mon intérieur. »
+> “Plastikmanは僕自身の内部を音で可視化するプロジェクトだ”  
 > — Richie Hawtin
 
-Les spectacles en direct à cette époque avaient des lumières stroboscopiques rouges clignotant momentanément dans la salle presque noire, symbolisant la matérialisation du son. Plutôt que de danser, le public avait l'impression de « s'enfoncer » dans le son.
+この頃のライブは、ほぼ真っ暗な会場に赤いストロボが一瞬だけ閃くような演出で、**音の物質化**を象徴していた。観客は踊るというよりも、音の中に「沈む」感覚を味わった。
 
-#### Plastikman – Musique
+#### Plastikman – Musik
 
-Un album sorti par Richie Hawtin sous le pseudonyme Plastikman sur le label NovaMute en 1994. Il s'agit du troisième album studio de Richie Hawtin et du deuxième sous son nom Plastikman.
+Richie Hawtin (リッチー・ホゥティン)の別名義Plastikman(プラスティックマン)として1994年にレーベルNovaMuteからリリースしたアルバム。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
 #### Liste des chansons
 ```md
@@ -81,96 +80,96 @@ Un album sorti par Richie Hawtin sous le pseudonyme Plastikman sur le label Nova
 
 ---
 
-## Chapitre 3 : « Consommé » – L’esthétique du « silence »
-_Consumed_ de 1998 est une valeur aberrante dans l'histoire de la techno. Le BPM est lent et le rythme n'est plus un tambour, mais un son basse fréquence comme une respiration.
-Cette œuvre, qui semble flotter dans un espace en apesanteur, hérite de la lignée de la musique ambiante de Brian Eno, mais ouvre également le domaine de la « sculpture intérieure utilisant des sons électroniques ».
+## 第3章：『Consumed』― 〈沈黙〉の美学
+1998年の『_Consumed_』は、テクノ史の中でも異端の存在である。BPMは遅く、リズムはもはやドラムではなく、**呼吸のような低周波**と化している。  
+まるで無重力空間で漂うようなこの作品は、Brian Enoのアンビエントの系譜を引き継ぎつつも、**電子音による内面の彫刻**という領域を切り開いた。
 
-Avec cette œuvre, Hawtin devient le premier artiste à assimiler « minimalisme » et « néant ». Le minimalisme de Plastikman n'était pas une omission, mais une stratégie du silence qui mettait en valeur les contours de l'existence.
-
----
-
-## Chapitre 4 : La technologie et le corps - Reconstruire le concept LIVE
-Hawtin a également été un pionnier dans la fusion de la technologie et de la performance.
-Dans les années 2000, il **redéfinit le jeu DJ** avec la série « DE9 », établissant le « **prototype de DJ numérique** » qui utilisait Ableton Live et Traktor pour reconstruire les pistes en temps réel.
-
-Sur sa scène, un environnement a été construit dans lequel MacBook, contrôleur MIDI, éclairage et vidéo étaient complètement synchronisés, présentant un nouveau concept de **``live = données respiratoires''**.
+この作品でホウティンは、**「ミニマル」と「虚無」を等価にした最初のアーティスト**となる。Plastikmanのミニマリズムは省略ではなく、**存在の輪郭を際立たせる沈黙の戦略**であった。
 
 ---
 
-## Chapitre 5 : Jouer à Plastikman avec « EX »
-``_EX_'', dévoilée à la Tate Modern de Londres en 2014, était une œuvre qui transférait l'esthétique de Plastikman dans un espace muséal.
-La scène est plongée dans l’obscurité et Houtin se tient comme emprisonné dans une cage lumineuse. Le public partage l'expérience de « observer la structure du son » plutôt que de « regarder un DJ ».
+## 第4章：テクノロジーと身体 ― LIVE概念の再構築
+ホウティンは同時に、テクノロジーとパフォーマンスの融合にも先駆的だった。  
+2000年代に入ると「DE9」シリーズで**DJプレイの再定義**を行い、Ableton LiveやTraktorを駆使して、トラックをリアルタイムに再構成する「**デジタルDJの原型**」を確立する。
 
-> "Plastikman reste la musique d'un voyage intérieur."
-
-Son minimalisme évolue, dissolvant complètement les frontières entre musique et art, clubs et installations.
+彼のステージには、MacBook、MIDIコントローラ、そして照明・映像が完全同期する環境が構築され、**“ライブ＝データの呼吸”**という新しい概念を提示した。
 
 ---
 
-## Chapitre 6 : Influence et héritage - Les gènes du minimalisme moderne
-Les gènes de Plastikman imprègnent Villalobos, Donato Dozzy, Cio D'Or et la scène modulaire moderne.
-« Plaisir de la structure », « introspection du son » et « temporisation de l'espace » : ces éléments constituent désormais la base de la techno.
+## 第5章：『EX』と再生するPlastikman
+2014年、ロンドンのTate Modernで発表された『_EX_』は、Plastikmanの美学を美術館空間へと転写した作品だった。  
+ステージは暗闇に包まれ、ホウティンは光るケージの中に幽閉されたかのように立つ。観客は“DJを見る”のではなく、“音の構造を観察する”という体験を共有する。
 
-En particulier, "Consumed in Key" (2022, collaboration : Chilly Gonzales) a innové en tant que dialogue entre piano et minimalisme. C'est à ce moment-là que Plastikman a une fois de plus franchi la « frontière entre l'humanité et l'inorganicité ».
+> 「Plastikmanは今でも変わらず、“内側へ向かう旅”の音楽だ。」
 
----
-
-## Chapitre 7 : Addendum philosophique – La signification du « plastique »
-Le « Plastique » de Plastikman n'est pas seulement du « plastique ». Cela signifie plasticité – la flexibilité de l’existence qui conserve son essence tout en changeant de forme.
-La véritable philosophie de Plastikman est sa transformation continue de la musique, du corps, de l'identité et du concept même de techno.
-
-> Le minimalisme n'est pas une question de rareté, mais d'**espace de changement**.
+彼のミニマリズムは進化し、音楽と美術、クラブとインスタレーションの境界を完全に溶解させた。
 
 ---
 
-## Chapitre 8 : Série DE9 - Révolution du DJ numérique
+## 第6章：影響と継承 ― 現代ミニマルの遺伝子
+Plastikmanの遺伝子は、Villalobos、Donato Dozzy、Cio D’Or、そして現代のモジュラーシーンにまで浸透している。  
+「構造の快楽」「音響の内省」「空間の時間化」――これらの要素は、いまやテクノの根幹を成している。
 
-### 1. Présentation de DE9
-En 2001, Plastikman a sorti DE9 : Closer to the Edit.
-Les mixages DJ traditionnels reposent sur l'ordre des pistes et les fondus, mais ici Hawtin utilise l'édition et la restructuration au niveau de la forme d'onde.
-En divisant chaque piste en minuscules échantillons et en réorganisant les impulsions minimales, nous avons créé une toute nouvelle chronologie de la musique dance.
-
-### 2. Innovation technologique
-- Traitement en temps réel avec **Ableton Live/Traktor**
-- Réflexion instantanée des opérations d'effet via le contrôle MIDI
-- Le concept « éditer = jouer » en unités d'échantillonnage
-En conséquence, la manipulation physique du DJ s'est transformée en l'acte de jouer du matériel acoustique plutôt que de jouer la musique elle-même.
-
-### 3. Signification musicale
-La série DE9 n'est pas seulement un CD mix, mais fonctionne également comme un enregistrement d'une performance live = une nouvelle chanson.
-- Closer to the Edit (2001) : Précision mécanique froide
-- "DE9 : Transitions" (2005) : Visualisation du traitement des effets
-- « DE9 : Plus proche de l'Edit 2.0 / Live » (2019) : Fusion du modulaire et du numérique
-
-> DE9 est une série révolutionnaire qui a fondamentalement changé la question « Qu'est-ce qu'un mix DJ ? dans l'histoire de la musique.
+特に『Consumed in Key』（2022、コラボ：Chilly Gonzales）は、**ピアノとミニマルの対話**という新境地を開いた。Plastikmanが再び「人間性と無機性の境界線」を撫でる瞬間だった。
 
 ---
 
-## Chapitre 9 : Moins l'historique des étiquettes - Terrain d'essai minimaliste
+## 第7章：哲学的補遺 ― “Plastic”の意味
+Plastikmanの“Plastic”は、単なる「プラスチック」ではない。それは可塑性（plasticity）――**形を変えながら本質を保つ存在の柔軟性**を意味する。  
+音楽、身体、アイデンティティ、そしてテクノという概念そのものを変形し続けるその姿勢こそが、Plastikmanの真の哲学である。
 
-### 1. Établi Moins
-En 1998, Plastikman fonde son propre label, **Minus**.
-L'objectif était "**un espace où vous pouvez expérimenter des sons réduits à l'extrême**".
-Minus se caractérise par le respect de l'individualité de l'artiste tout en maintenant un sentiment d'unité dans la direction philosophique de la musique.
-
-### 2. Œuvres et artistes représentatifs
-- Richie Hawtin (également connu sous le nom de Plastikman)
--Villalobos
--Magda
--Gaiser
-
-Minus était plus qu'une simple plateforme de distribution, elle fonctionnait comme un lieu pour incarner l'idée de techno minimale.
-
-### 3. Influence des étiquettes
-- **Une fusion de sets live et de releases** : sources sonores reconstructibles numériquement
-- **Esthétique de l'espace vide sonore** : Expérimenter « comment utiliser l'espace blanc »
-- **Influence internationale** : Influence directe sur les scènes des clubs de Berlin, d'Allemagne et de Tokyo
-
-> Minus est un « laboratoire acoustique » pour transmettre la philosophie musicale de Plastikman à la prochaine génération.
+> ミニマリズムとは、少なさではなく、**変化のための余白**である。
 
 ---
 
-## DE9 × Diagramme d'association moins
+## 第8章：DE9シリーズ ― デジタルDJの革命
+
+### 1. DE9の登場
+2001年、Plastikmanは『DE9: Closer to the Edit』をリリース。  
+従来のDJミックスは**トラックの順序やフェード**に依存していたが、Hawtinはここで**波形レベルでの編集と再構築**を実践。  
+各トラックを極小のサンプルに分割し、**ミニマルなパルスを再配置**することで、全く新しい時間軸のダンス音楽を作り出した。
+
+### 2. 技術的革新
+- **Ableton Live／Traktor**を駆使したリアルタイム処理  
+- MIDI制御によるエフェクト操作の即時反映  
+- サンプル単位での“編集＝演奏”の概念  
+これにより、DJの身体操作が**楽曲自体を再生するのではなく、音響の素材を演奏する行為**へと変化した。
+
+### 3. 音楽的意義
+DE9シリーズは単なるミックスCDではなく、**ライブパフォーマンスの録音＝新曲**として機能する。  
+- 『Closer to the Edit』（2001）: 冷たい機械的精密性  
+- 『DE9: Transitions』（2005）: エフェクト処理の可視化  
+- 『DE9: Closer to the Edit 2.0 / Live』（2019）: モジュラーとデジタルの融合
+
+> DE9は「DJミックスとは何か」という問いを音楽史上で根底から変えた革命的シリーズである。
+
+---
+
+## 第9章：Minusレーベル史 ― ミニマルの実験場
+
+### 1. Minus設立
+1998年、Plastikmanは自身のレーベル「**Minus**」を設立。  
+目指したのは「**極限まで削ぎ落としたサウンドを実験できる空間**」。  
+Minusはアーティストの個性を尊重しつつも、**音楽の哲学的方向性**に統一感を持たせた点が特徴である。
+
+### 2. 代表作とアーティスト
+- Richie Hawtin（Plastikman名義を含む）  
+- Villalobos  
+- Magda  
+- Gaiser  
+
+Minusは単なる配信プラットフォームではなく、**ミニマル・テクノの思想を体現する場**として機能した。
+
+### 3. レーベルの影響
+- **ライブセットとリリースの融合**: デジタルで再構築可能な音源  
+- **音の余白の美学**: “空白の使い方”を実験  
+- **国際的影響力**: ドイツ・ベルリンや東京のクラブシーンに直接波及
+
+> Minusは、Plastikmanの音楽哲学を次世代に継承するための「音響的実験室」である。
+
+---
+
+## DE9 × Minus 連関図
 
 <div class="mermaid">
 
@@ -186,14 +185,14 @@ flowchart TD
 ---
 
 
-## Analyse détaillée de la série DE9
+## DE9シリーズ詳細解析
 
-### 1. DE9 : Plus près de l'édition (2001)
-- **Concept** : Une œuvre innovante qui réédite la forme d'onde du morceau échantillon par échantillon pour lui donner un potentiel de performance live.
-- **Analyse de piste représentative** :
-- *Spastik* : Boucle ultra rapide de charleys continus. Dans le diagramme de forme d'onde, vous pouvez voir comment la densité d'impulsion change progressivement.
-- *Moins/Orange* : La réverbération basse fréquence agrandit l'espace. Bien que la forme d’onde soit périodique et régulière, le bruit infime crée une sensation physiologique.
-- **Exemple d'illustration** :
+### 1. DE9: Closer to the Edit (2001)
+- **コンセプト**: トラックの波形をサンプル単位で再編集し、ライブの「演奏可能性」を持たせた革新的作品。
+- **代表トラック解析**:
+  - *Spastik* : 連続するハイハットの超高速ループ。波形図ではパルスの密度が徐々に変化する様子が確認できる。
+  - *Minus/Orange* : 低域の残響が空間を拡張。波形は周期的で規則的だが、微細なノイズが生理的感覚を生む。
+- **図例**:
 
 <div class="mermaid">
 
@@ -203,15 +202,15 @@ graph TD
 
 </div>
 
-### 2. DE9 : Transitions (2005)
+### 2. DE9: Transitions (2005)
 
-- **Concept** : Accent sur le traitement des effets et la « transition » entre les pistes. Reproduit fidèlement la musique live dans un club.
+- **コンセプト**: エフェクト処理とトラック間の「移行」を重視。クラブでの生演奏を忠実に再現。
 
-- **Analyse de piste représentative** :
-- *Get Your Shit Together* : Une interaction complexe de pulsation de basse et de charleston. Visualisez les changements dans les schémas rythmiques avec des diagrammes de formes d'onde.
-- *Another Day* : Structure minimale qui profite des espaces vides dans le son.
+- **代表トラック解析**:
+    - *Get Your Shit Together* : 低音パルスとハイハットが複雑に交差。波形図でリズムパターンの変化を視覚化。
+    - *Another Day* : 音の余白を活かしたミニマル構造。
 
-- **Exemple d'illustration** :
+- **図例**:
 
 <div class="mermaid">
 
@@ -221,15 +220,15 @@ graph TD
 
 </div>
 
-### 3. DE9 : Plus proche de l'Edit 2.0 / Live (2019)
+### 3. DE9: Closer to the Edit 2.0 / Live (2019)
 
-- **Concept** : Une fusion de synthétiseur modulaire et d'édition numérique. Élargir le concept de « performance = édition » qui réorganise les sons en temps réel.
+- **コンセプト**: モジュラーシンセとデジタル編集の融合。リアルタイムで音を組み替える「演奏＝編集」概念を拡張。
 
-- **Analyse de piste représentative** :
+- **代表トラック解析**:
 - *Akufen Rework* : Générez un rythme en unités extrêmement petites en superposant des échantillons infimes.
 - *Minus Live Edit* : Une structure pour improviser l'édition de sources sonores existantes. Dans le diagramme de forme d'onde, les fragments qui se chevauchent sont disposés comme de l'art.
 
-- **Exemple d'illustration** :
+- **図例**:
 
 <div class="mermaid">
 

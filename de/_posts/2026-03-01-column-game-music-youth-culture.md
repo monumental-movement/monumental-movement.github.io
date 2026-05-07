@@ -92,7 +92,7 @@ Das Lied wurde später von Orchestern auf der ganzen Welt aufgeführt.
 
 Begonnen im Jahr 2002
 **Distant Worlds: Musik aus FINAL FANTASY**
-trat in Nordamerika, Europa und Japan auf und etablierte die Spielemusik in klassischen Sälen.
+ist wiederholt in Nordamerika, Europa und Japan aufgetreten und hat die Spielemusik in klassischen Sälen etabliert.
 
 Zu diesem Zeitpunkt wandelte sich Spielemusik von einem „häuslichen Erlebnis“ zu einer „Performance-Kunst im öffentlichen Raum“.
 
@@ -119,7 +119,7 @@ Durch eine solche Neuinterpretation kommen die Teilnehmer zur Teilnahme.
 
 In dieser Ära verwandelte sich Spielemusik in „gemeinsames Material“.
 
-> Spieler haben sich von Zuhörern zu Co-Autoren gewandelt.
+> Spieler haben sich von Zuhörern zu Mitautoren gewandelt.
 
 ---
 
@@ -154,7 +154,7 @@ Bei E-Sport-Turnieren sind Großproduktionen Teil der Eröffnungsfeierlichkeiten
 **League of Legends**
 entwickelt virtuelle Künstlerproduktionen und Live-Performances.
 
-Game-Musik ist nicht mehr nur „In-Game-Musik“, sondern ist zu einem Kernelement globaler Unterhaltung geworden.
+Spielemusik ist nicht mehr nur „In-Game-Musik“, sondern ist zu einem Kernelement globaler Unterhaltung geworden.
 
 > Für junge Leute war es der selbstverständlichste Mainstream.
 

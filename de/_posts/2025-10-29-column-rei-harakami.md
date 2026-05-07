@@ -104,11 +104,11 @@ Es ist wie im Herbst in Kyoto und es ist eine Traurigkeit, die einen zum Lachen 
 
 ## Kapitel 4: Harakami und Freunde – UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-Die Zusammenarbeit mit UA „Milk Tea“ und Ryuichi Sakamoto,
+Die Zusammenarbeit mit UA „Milk Tea“ und Ryuichi Sakamoto sind
 Der Musik von Rei Harakami wurde ein neues Element der „menschlichen Stimme“ hinzugefügt.
 
 Ryuichi Sakamoto soll ihn als „den stillsten Revolutionär“ bezeichnet haben.
-Er war einer der seltenen Menschen, der die Grenzen zwischen elektronischen und akustischen Klängen verschmolz und sowohl „Sanftheit“ als auch „strukturelle Schönheit“ erreichte.
+Er war eine seltene Person, die die Grenzen zwischen elektronischen und akustischen Klängen verschmolz und sowohl „Sanftheit“ als auch „strukturelle Schönheit“ erreichte.
 
 Harakamis Interaktion mit Kazumi Nikaido zeigt auch ihr Engagement für „Alltagsmusik“.
 Sein Sound war keine esoterische Experimentalmusik, sondern der Rhythmus des Lebens.

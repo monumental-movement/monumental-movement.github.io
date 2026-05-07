@@ -79,7 +79,7 @@ color: #fff;
 
 * **Producteurs représentatifs** : Madlib, Daz Dillinger, Battlecat
 * **Grands labels** : Stones Throw, Aftermath
-* **Contexte culturel** : le G‑Funk grand public s'affaiblit et des groupes underground de Los Angeles tels que Project Blowed et Freestyle Fellowship attirent l'attention. Le mouvement Bay Area Hyphy s'est également produit.
+* **Contexte culturel** : le G‑Funk grand public s'affaiblit et des groupes underground de Los Angeles comme Project Blowed et Freestyle Fellowship attirent l'attention. Le mouvement Bay Area Hyphy s'est également produit.
 * **Vidéo/Mode** : Les expressions visuelles de type skate, graffiti et club de jazz se multiplient, et les marques de rue telles que Supreme et BAPE deviennent populaires.
 
 **Album recommandé (extrait)**

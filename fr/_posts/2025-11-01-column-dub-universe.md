@@ -63,7 +63,7 @@ Dans le studio d'enregistrement, une piste instrumentale est enregistrée en tan
 Le DJ a enthousiasmé le public en chantant des toasts (narration du MC) au micro.
 C'est aussi le prototype de la **culture rap/hip-hop** ultérieure.
 
-Les ingénieurs du son de l'époque pensaient que cette version n'était pas qu'un sous-produit ;
+Les ingénieurs du son pensaient à l'époque que cette version n'était pas qu'un sous-produit ;
 Il a commencé à être utilisé comme **terrain d'essai acoustique**.
 Le plus radical d’entre eux était **King Tubby**.
 
@@ -150,7 +150,7 @@ C'est l'esthétique du manque et l'idée de reproduction.
 - Utiliser la technologie comme « expression d’improvisation ».
 - Redéfinir « original » dans le processus de reproduction.
 
-Ce type de réflexion de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
+Ce type de pensée de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
 L'acte de « éditer » et de « recomposer » le son lui-même est
 C'est la base des actes créatifs du 21e siècle.
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Diagramme : Structure de la pensée de type Dub
+## Diagramme : Structure de la pensée de Dove
 
 <div class="mermaid">
 

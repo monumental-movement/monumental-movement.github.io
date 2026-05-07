@@ -9,15 +9,15 @@ permalink: /de/talking-heads-little-creatures/
 tags:
 - New-Wave
 - Post Punk
-title: Talking Heads – Little Creatures
+title: Talking Heads – Kleine Kreaturen
 ---
 
 
-「Little Creatures」は、トーキング・ヘッズの音楽的な進化の一つを示す作品です。アルバムは、バンドのサウンドにポップな要素を取り入れ、メロディアスでキャッチーな曲が豊富に収録されています。これにより、彼らの音楽がより広い聴衆にアピールすることに成功しました。
+„Little Creatures“ stellt eine der musikalischen Weiterentwicklungen der Talking Heads dar. Das Album integriert Pop-Elemente in den Sound der Band und ist voller melodischer und eingängiger Songs. Dadurch konnte ihre Musik ein breiteres Publikum ansprechen.
 
-アルバムには、ヒット曲「And She Was」や「Road to Nowhere」を含む多くの楽曲が収録されています。これらの曲は、トーキング・ヘッズの特徴的なリズム、ユーモラスな歌詞、そしてキャッチーなメロディが融合しており、多くの人々に愛されました。
+Das Album enthält viele Songs, darunter die Hits „And She Was“ und „Road to Nowhere“. Diese Songs kombinierten die charakteristischen Rhythmen, humorvollen Texte und eingängigen Melodien von Talking Heads und wurden von vielen geliebt.
 
-「Little Creatures」は、トーキング・ヘッズのキャリアの中でも商業的にも成功したアルバムであり、批評家からも高い評価を受けました。
+„Little Creatures“ war das kommerziell erfolgreichste Album der Talking Heads-Karriere und wurde von der Kritik hoch gelobt.
 
 #### Trackliste
 ```md

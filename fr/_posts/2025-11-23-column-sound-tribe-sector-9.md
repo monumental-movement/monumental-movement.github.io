@@ -46,7 +46,7 @@ color: #fff;
 # 1. Historique avant formation (~1997) : le style « Ni groupe ni DJ » né autour d'Atlanta
 
 Les origines de STS9 remontent au milieu des années 1990, lorsque des musiciens actifs dans la région d'Atlanta se sont formés.
-**« Est-il possible de créer l'atmosphère qu'un DJ crée dans un club avec de la musique live ? »**
+**"Est-il possible de créer l'atmosphère qu'un DJ crée dans un club avec de la musique live ?"**
 On dit que tout a commencé par cette question.
 
 Les membres venaient d'horizons très divers, notamment le rock, le jazz, le funk, la musique électronique et même la musique du monde. En particulier, "l'ensemble groove-first" mis en avant par l'équipe batterie/percussions est devenu un noyau important qui a perduré depuis le début jusqu'à aujourd'hui.
@@ -57,7 +57,7 @@ Cette direction a été formée et le nom Sound Tribe Sector 9 a été lancé.
 
 ---
 
-# 2. 1998–2002 : Premiers travaux et adaptation à la culture des tournées
+# 2. 1998-2002 : Premiers travaux et adaptation à la culture des tournées
 ##2-1. Debut Era ― *Véhicule d'évasion interplanétaire* (1998)
 
 Leur premier album, Interplanetary Escape Vehicle, sorti en 1998, avait une sensation de performance live plus forte que le STS9 actuel, avec un mélange d'étendues de guitare de type post-rock, de rythmes de type Afrobeat et d'ensembles de type jazz.
@@ -127,7 +127,7 @@ La structure live de la même période était
 - Downtempo
 - Modèle de type IDM
 - de longues improvisations
-Le public est passé à une expérience de type plancher/festival avec pour principe de « danser ».
+Le public est passé à une expérience de type « piste/festival » avec comme prémisse la « danse ».
 
 Ce qui est important ici, c'est que STS9 a développé une technique permettant de reproduire la « texture de la musique électronique » avec une guitare et une basse.
 De nombreux éléments sont passés par la chaîne d'effets, créant une caractéristique dans laquelle la pensée éditoriale de la DAW se reflétait directement dans la performance live.
@@ -148,7 +148,7 @@ Depuis le début de STS9
 - Accompagnement pédagogique
 - Protection de l'environnement
 - Activités locales
-Il a participé activement à des activités caritatives telles que
+Il a participé activement à des activités caritatives telles que :
 
 Il existe également de nombreux spectacles qui reversent une partie des recettes des billets en direct, et de nombreuses chansons ayant pour thème des problèmes sociaux.
 En particulier, « Peaceblaster » (2008) se positionne comme une œuvre conceptuelle ayant pour toile de fond des thèmes politiques et environnementaux.
@@ -198,7 +198,7 @@ Cela garantit une **épaisseur acoustique** même lors de performances live, cr�
 ---
 
 # 7. La philosophie Live de STS9 : structure du décor, éclairage, communauté
-##7-1. Structurer la setlist
+##7-1. Structurer la set list
 STS9 change sa set list à chaque tournée,
 - Ouverture (présentation de la vision du monde)
 - Constitution du milieu de terrain

@@ -13,7 +13,7 @@ title: Jark Prongo – Base de fusée
 ---
 
 
-Un duo de producteurs travaillant sur la house et la techno néerlandaise. Jark Prongo est composé de Gaston Steenquist (Amsterdam) et Rene ter Horst (Haarlem).
+Jark Prongo est composé de Gaston Steenquist (Amsterdam) et Rene ter Horst (Haarlem).
 
 Également connus sous les noms de DJ Zki & Dobre et René Et Gaston, ils ont commencé à travailler ensemble en 1991.
 

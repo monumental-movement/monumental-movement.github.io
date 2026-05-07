@@ -11,7 +11,7 @@ tags:
 - Psychedelic Rock
 - Prog Rock
 - 00s
-title: La Volta de Mars – Amputechture
+title: La Mars Volta – Amputechture
 ---
 
 

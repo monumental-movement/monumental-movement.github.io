@@ -24,9 +24,9 @@ Text: mmr｜Thema: Aufdecken, wie Straßenrennkultur und Filmton kombiniert wurd
 
 Wenn wir einen Film ansehen, spüren wir nicht nur die Geschwindigkeit auf dem Bildschirm. Entscheidend ist vielmehr der Klang. Das Dröhnen des Motors, das Quietschen der Reifen und das Tempo der Musik. Wenn diese Dinge zusammenkommen, geht „Geschwindigkeit“ über die visuelle Wahrnehmung hinaus und wird zu einer körperlichen Empfindung.
 
-„Fast and Furious“ erschien 2001 und war ein Film, der dieses Gefühl auf globaler Ebene verbreitete. Dieser Film, der illegale Straßenrennen und Jugendkultur in Los Angeles bei Nacht zeigt, ist nicht nur als Auto-Actionfilm in Erinnerung geblieben, sondern als „Film, der mit Ton läuft“.
+„Fast and Furious“ erschien 2001 und war ein Werk, das dieses Gefühl auf globaler Ebene verbreitete. Dieser Film, der illegale Straßenrennen und Jugendkultur in Los Angeles bei Nacht zeigt, ist nicht nur als Auto-Actionfilm in Erinnerung geblieben, sondern als „Film, der mit Ton läuft“.
 
-Nach dieser Arbeit verstärkte sich in der Popkultur weiterhin die Wahrnehmung, dass „Geschwindigkeit = Klang“ sei.
+Nach dieser Arbeit verstärkte sich in der Popkultur weiterhin die Wahrnehmung, dass „Geschwindigkeit = Schall“ sei.
 
 >Geschwindigkeit ist kein visuelles Gefühl, sondern ein Gefühl, das dem Körper durch Geräusche eingeprägt wird.
 

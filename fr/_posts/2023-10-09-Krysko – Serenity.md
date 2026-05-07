@@ -13,7 +13,7 @@ title: Krysko – Sérénité
 ---
 
 
-Krysko est un DJ qui a effectué des résidences au Redlight et au Warehouse Project au Royaume-Uni, et est soutenu et respecté par de nombreux fans de musique dance.
+Krysko est un DJ qui a effectué des résidences au Redlight et au Warehouse Project au Royaume-Uni, et est soutenu et respecté par de nombreux fans de dance music.
 
 "Serenity" est un morceau de jungle masterisé par le légendaire ingénieur de mixage Mike Marsh à The Exchange à Londres et sorti sur le label britannique Which que ce soit en 1994.
 

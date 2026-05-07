@@ -88,7 +88,7 @@ wurde zur Grundlage von Modern Soul.
 
 ### 2-2. 2010er: Neue Trends und Bandsounds aus Australien
 
-Melbournes Musikgemeinschaft (Hiatus Kaiyote, The Bamboos usw.) bildete mit ihren jazzgeprägten Spielfähigkeiten, ihrem multikulturellen Hintergrund und ihren Einflüssen der elektronischen Musik den Kern des Modern Soul, der als „komplex, aber poppig“ beschrieben wurde.
+Melbournes Musikgemeinschaft (Hiatus Kaiyote, The Bamboos usw.) bildete mit ihren Jazz-Spielfähigkeiten, ihrem multikulturellen Hintergrund und ihren Einflüssen der elektronischen Musik den Kern des Modern Soul, der als „komplex, aber poppig“ beschrieben wurde.
 
 Besonders das Erscheinen von **Hiatus Kaiyote**.
 

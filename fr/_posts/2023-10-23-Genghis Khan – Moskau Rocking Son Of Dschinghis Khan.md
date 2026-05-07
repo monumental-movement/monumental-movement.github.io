@@ -10,13 +10,13 @@ tags:
 - Disco
 - 70s
 - 7inch
-title: Gengis Khan – Moskau, fils à bascule de Dschinghis Khan
+title: Genghis Khan – Moskau Rocking Son Of Dschinghis Khan
 ---
 
 
-Gengis Khan était un groupe ouest-allemand actif dans le monde entier de 1979 à 1985.
+Genghis Khan(ジンギスカン)は、1979年から1985年にかけて世界的に活躍した西ドイツのグループ。
 
-"Moskau" est un succès mondial issu de l'album "Genghis Khan" sorti en 1979.
+「Moskau (めざせモスクワ)」は、 1979年リリースのアルバム「ジンギスカン」からのシングルカットで世界的なヒットとなった。
 
 #### Liste des chansons
 ```md

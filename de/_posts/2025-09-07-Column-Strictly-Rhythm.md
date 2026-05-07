@@ -44,7 +44,7 @@ color: #fff;
 
 **Historischer Hintergrund**: House/Techno, der in Chicago und Detroit entstanden war, hielt Anfang der 1990er Jahre Einzug in New Yorker Clubs. Es war eine Zeit, in der die Clubkultur im Begriff war, kommerzialisiert zu werden, und es blieb ein Underground-Experimentiergeist bestehen.
 
-**Was ist passiert**: 1989 von Mark Finkelstein und Gladys Pizarro gegründet. Seit unserer Gründung konzentrieren wir uns auf DJ-orientierte 12-Zoll-Musik und produzieren Sound, der direkt auf die Tanzfläche trifft und in örtlichen Clubs beliebt ist.
+**Was ist passiert**: 1989 von Mark Finkelstein und Gladys Pizarro gegründet. Seit seiner Gründung konzentriert sich das Unternehmen auf DJ-orientierte 12-Zoll-Musik und produziert Sound, der direkt auf die Tanzfläche trifft und in örtlichen Clubs beliebt ist.
 
 **Repräsentatives Meisterwerk (früh)**
 - Roger Sanchez – *Luv Dancin'* (1990, unter dem Namen Underground Solution)
@@ -83,7 +83,7 @@ Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und A
 - **E-MU SP-12 / SP-1200** (raue und warme Probentextur)
 - **Akai MPC-Serie** (MPC60~MPC2000-Serie)
 - **Roland TR-909 / TR-808** (Kick/Hi-Hat)
-- Technik zur Erzeugung von „Dicke“ mit Außenbord-/Bandverarbeitung
+- Technik zur Erzeugung von „Dicke“ mit Außenbord-/Bandbearbeitung
 
 ---
 

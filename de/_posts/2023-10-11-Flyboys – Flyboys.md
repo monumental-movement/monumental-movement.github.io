@@ -13,9 +13,9 @@ title: Flyboys – Flyboys
 ---
 
 
-Flyboys war eine amerikanische Punkrockband, die von 1975 bis 1980 aktiv war.
+Flyboys（フライボーイズ）は、1975年から1980年まで活動したUSパンクロックバンド。
 
-Die 1975 gegründete Band bestand aus John Curry (alias Jon Boy), David Wilson (alias David Way) und Dennis Walsh (alias Dennis Rackett).
+1975年結成当時のメンバーはJohn Curry/ジョン・カリー (別名Jon Boy/ジョン・ボーイ)、David Wilson/デヴィッド・ウィルソン (別名David Way/デヴィッド・ウェイ)、Dennis Walsh/デニス・ウォルシュ (別名Dennis Rackett / デニス・ラケット)。
 
 #### Trackliste
 ```md

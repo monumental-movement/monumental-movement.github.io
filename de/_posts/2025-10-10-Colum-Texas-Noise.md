@@ -10,20 +10,20 @@ tags:
 - Noise
 - Experimental
 - 00s
-title: '[Kolumne] Noise Desert: Von der Texas-Szene der 2000er Jahre bis zur Gegenwart'
+title: 【コラム】 ノイズの砂漠地帯：2000年代テキサス・シーンから現在まで
 ---
 
 
-## Prolog: Zwischen Stille und Brüllen – Grammatik des Lärms im Süden
+## 序章：静寂と轟音の狭間で — 南部におけるノイズの文法
 
 
-Text: mmr｜Thema: Von Charalambides bis Black Leather Jesus, eine Nachverfolgung der Genealogie des südlichen experimentellen Sounds – Texas Noise in den 2000er Jahren und sein aktueller Zustand
+文：mmr｜テーマ：CharalambidesからBlack Leather Jesus、南部実験音響の系譜をたどる——2000年代のテキサス・ノイズとその現在
 
 
-Von Ende der 1990er bis Anfang der 2000er Jahre hat sich Noise-Musik in der weiten Landschaft des amerikanischen Südens etabliert.
-Während New York und Los Angeles „Kunststädte“ waren, die Noise-Musik in Kunstgalerien und Underground-Clubs entwickelten, entwickelte Texas seine Grammatik als Ort der geografischen Isolation und des persönlichen Experimentierens.
+アメリカ南部の広大な地平に、ノイズという音楽が根を下ろしたのは、1990年代後半から2000年代初頭にかけてである。  
+ニューヨークやロサンゼルスが「芸術都市」としてノイズ・ミュージックをアートギャラリーやアンダーグラウンド・クラブで発展させたのに対し、**テキサスはあくまで地理的孤立と個人的実験**の場としてその文法を築いていった。  
 
-Houston, Austin und San Antonio – oberflächlich betrachtet mögen diese Städte die „Heimatländer von Country und Blues“ sein, doch hinter den Kulissen wurden in aller Stille **Tape-Collage, Nicht-Musik und Drone** kultiviert.
+ヒューストン、オースティン、サンアントニオ——これらの街は表向き「カントリーとブルースの故郷」でありながら、その裏側では**テープ・コラージュ、ノン・ミュージック、ドローン**が静かに培われていた。 
 
 ---
 
@@ -41,81 +41,81 @@ color: #fff;
 
 
 
-### Kapitel 1: Einsame Klangexperimente – Charalambides und die Erweiterung des südlichen Bewusstseins
+### 第一章：孤高の音響実験 — Charalambidesと南部の意識の拡張
 
-In den frühen 2000er Jahren waren **Charalambides** (Christina und Tom Carter) eine tragende Säule der texanischen Noise-Szene.
-Ihr Sound war weniger Lärm als vielmehr ein experimentelles Ritual, das den „jüngeren Rand“ von Folk und Drone erkundete.
+2000年代初頭、**Charalambides**（クリスティーナ＆トム・カーター夫妻）は、テキサスのノイズ・シーンにおける精神的支柱であった。  
+彼らのサウンドはノイズというよりも、**フォークとドローンの臨界点**を探る実験的儀式だった。  
 
-- Unendlich gedehnter Gitarrenhall
-- Gesangsphrase, die wie ein Gebet wiederholt wird
-- Harmonische Struktur, die nur durch die trockene texanische Luft erreicht werden kann
+- 無限に引き伸ばされたギターの残響  
+- 祈祷のように繰り返されるヴォーカル・フレーズ  
+- テキサスの乾いた空気を通すことでしか成立しない倍音構造  
 
-> „Es ist, als würde man die Landschaft selbst aufnehmen, nicht die Musik.“
-> — Thurston Moore (Sonic Youth)
+> “音楽ではなく、風景そのものを録音しているようだ。”  
+> — Thurston Moore（Sonic Youth）
 
-Charalambides' Aktivitäten verbreiteten sich über die Labels **Kranky** und **Wholly Other** und hatten großen Einfluss auf spätere Noise-Künstler aus Texas.
+Charalambidesの活動は、**Kranky**や**Wholly Other**レーベルを通じて広がり、のちのテキサス出身ノイズ・アーティストに多大な影響を与える。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1phVgCjUwSo?si=C6sHhwxXloYKbD0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Kapitel 2: Lärm von Eisen und Fleisch – Schwarzleder-Jesus und die Genealogie der Körperlichkeit
+### 第二章：鉄と肉体のノイズ — Black Leather Jesusと身体性の系譜
 
-**Black Leather Jesus (BLJ)**, die seit den 1990er Jahren aktiv ist, ist eine in Houston ansässige Noise-Gruppe unter der Leitung von **Richard Ramirez**.
-BLJ war in den 2000er Jahren und darüber hinaus weiterhin als „Extrem des harten Lärms“ aktiv, zusammen mit Japans Hijikaido, MERZBOW und Amerikas The Haters.
+1990年代から活動を続ける**Black Leather Jesus（BLJ）**は、**リチャード・ラミレス**率いるヒューストン拠点のノイズ集団。  
+日本の非常階段やMERZBOW、アメリカのThe Hatersと並び称される**「ハーシュ・ノイズの極点」**として、BLJは2000年代以降も旺盛な活動を続けた。  
 
-BLJ zeichnet sich durch die Verschmelzung von Lärm, Fleisch und homosexueller Ästhetik aus.
-Auf ihren Bühnen gibt es Fesseln, Leder und religiöse Rituale, begleitet von physischen Lärmexplosionen.
-Es war mehr als ein Klangexperiment, es war ein körpervermittelter Widerstand und eine Feier.
+BLJの特徴は、**ノイズと肉体、同性愛的美学の融合**にある。  
+彼らのステージでは、拘束具や皮革、宗教的な儀式がノイズの物理的爆発とともに展開される。  
+それは音響実験というよりも、**身体を媒介にした抵抗と祝祭**であった。
 
-Ablegereinheiten wie **Werewolf Jerusalem** und **The Rita** entstanden ebenfalls rund um BLJ und verwandelten die texanische Lärmkultur in ein **Untergrundimperium**.
+BLJ周辺には、**Werewolf Jerusalem**や**The Rita**といった派生ユニットも誕生し、テキサスのノイズ文化を**アンダーグラウンドの帝国**へと変えていった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DTCi-MwNY4E?si=fZW4S31ZY5lUHYTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Kapitel 3: Von Drohnen zu Umgebungsgeräuschen – die Verbindung zwischen Austin und Kunstlärm
+### 第三章：ドローンから環境音へ — オースティンとアートノイズの接続
 
-Austin ist die Stadt in Texas, in der der Lärm eine neue Richtung eingeschlagen hat, insbesondere als Hochburg der College-Kultur und der DIY-Kunst.
-In den späten 2000er Jahren verlagerten Künstler wie **Iron Lung, Pure Ground und Digital Leather** ihren Fokus von der Härte auf den Minimalismus.
+オースティンは、テキサスの中でも特に**大学文化とDIYアートの温床**として、ノイズが新しい方向に展開した都市である。  
+2000年代後半、**Iron Lung、Pure Ground、Digital Leather**といったアーティストが、**ハーシュからミニマルへ**と重心を移した。  
 
-Auch die Aufnahmeumgebung hat sich geändert. Kassettenetiketten waren auf dem Vormarsch und auch der Austausch mit Ländern wie **Edition Mego und Hospital Productions** machte Fortschritte.
-Charakteristisch für diese Zeit war die Neudefinition von „Lärm als Kunst“.
-Insbesondere das „No Idea Festival“ fand in kleinen Galerien und Lagerhäusern in Austin statt.
-Anerkannte texanische Noise-Kultur als Teil eines internationalen Avantgarde-Musiknetzwerks.
+録音環境も変化した。カセット・レーベルが台頭し、**Edition MegoやHospital Productions**など国外との交流も進む。  
+この時期の特徴は、**ノイズ＝アート**としての再定義である。  
+特に、オースティンの小ギャラリーや倉庫で開催された「No Idea Festival」は、  
+テキサスのノイズ文化を**国際的前衛音楽ネットワーク**の一部として認識させた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzNrAN1J08g?si=bO4Af2YmFXlnKHYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Kapitel 4: Lärm nach Lärm – Entwicklungen nach den 2010er Jahren
+### 第四章：ノイズ以降のノイズ — 2010年代以降の展開
 
-In den 2010er Jahren wandelte sich Lärm vom „extremen akustischen Ausdruck“ zum „strukturellen Denken“.
-Künstler aus Texas gehen neue Wege, indem sie Ambient, Elektroakustik, Field Recording und mehr mischen.
+2010年代に入ると、ノイズは「極端な音響表現」から「構造的思考」へと変化する。  
+テキサス出身のアーティストたちは、**アンビエント、電子音響、フィールドレコーディング**などを交錯させる新しい地平を切り開いた。  
 
-Als typisches Beispiel:
+代表的な例として：
 
-- **Tom Carters Solowerk „Long Time Underground“ (2015)
-- **Rick Reed**s Tonbandwerke (Kern der elektronischen Soundszene von Austin)
-- **Poetics of Memory and Noise** mit Loop-Kassetten von **Amulets (Randall Taylor)**
+- **Tom Carter** のソロ作品『Long Time Underground』（2015）  
+- **Rick Reed** のテープ作品群（オースティン電子音響シーンの核心）  
+- **Amulets（Randall Taylor）** によるループカセットを用いた**記憶とノイズの詩学**
 
-Diese Bewegungen betrachten Lärm nicht mehr als „zerstörerische Musik“, sondern als **den Lärm der Zeit und Existenz**.
+これらの動きは、もはやノイズを“破壊音楽”としてではなく、**時間と存在のノイズ**として捉え直している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0i3He1ZuX0?si=jgmkTZXvvxXgZCTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Kapitel 5: Aktueller Standort und Zukunft des modernen Texas-Lärms
+### 第五章：現代テキサス・ノイズの現在地と未来
 
-Die texanische Lärmszene der 2020er Jahre liegt zwischen dem Netzwerk und dem Land.
-Während junge Künstler aus Houston und Dallas als digitales Kollektiv über Bandcamp, YouTube, Discord usw. aktiv sind.
-Ältere Künstler arbeiten weiterhin mit analogem Equipment.
+2020年代のテキサス・ノイズ・シーンは、**ネットワークと土地性の狭間**にある。  
+Bandcamp、YouTube、Discordなどを通じ、ヒューストンやダラスの若手アーティストが**デジタル・コレクティブ的**に活動する一方で、  
+古参のアーティストは依然としてアナログ機材と対峙し続けている。
 
-> „Lärm ist eine Frage der Einstellung, nicht der Technologie.“
-> — Richard Ramirez (Black Leather Jesus)
+> 「ノイズはテクノロジーではなく、態度の問題だ。」  
+> — Richard Ramirez（Black Leather Jesus）
 
-Der Lärm in Texas schwankt weiterhin zwischen wild und urban.
-Man könnte es **„Südstaatenliteratur durch Klang“** nennen.
+テキサスのノイズは、荒野と都市の中間で揺れ続けている。  
+それは、**“音による南部文学”**とも言えるだろう。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s17Q0n39QE8?si=D0Y9B4TAGYl01kiO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -145,8 +145,8 @@ flowchart TD
 
 ### Diskographie
 
-| Künstler | Titel | Jahr | Link |
-| ------------------- | ---------------------------------- | ---- | ---------------------------------- |
+| アーティスト              | タイトル                               | 年    | リンク                                              |
+| ------------------- | ---------------------------------- | ---- | ------------------------------------------------ |
 | Charalambides       | *Unknown Spin*                     | 2000 | [Amazon](https://amzn.to/3KH8BI2) |
 | Tom Carter          | *Long Time Underground*            | 2015 | [Amazon](https://amzn.to/46IETLi) |
 | Amulets             | *Between Distant and Remote*       | 2018 | [Amazon](https://amzn.to/4heNI31) |
@@ -154,15 +154,15 @@ flowchart TD
 
 ---
 
-### Fazit: Lärm in der Wüste – Klang als Feier der Einsamkeit
+### 結語：砂漠に響くノイズ — 孤独の祝祭としての音
 
-Texas-Lärm ist Horizontlärm, kein Stadtlärm.
-Es war kein Schrei oder Widerstand, sondern eine leichte Vibration, die seine Existenz bestätigte.
-Noise-Künstler arbeiten hier nicht nur mit Technologie, sondern auch
-Vielmehr aktualisiert er seine „Ethik des Klangs“ in Einsamkeit und Natur weiter.
+テキサスのノイズは、都市的ノイズではなく地平線のノイズである。
+それは叫びでも抵抗でもなく、存在を確かめるための微振動だ。
+この地のノイズ・アーティストたちは、テクノロジーを通じてではなく、
+むしろ孤独と自然の中で「音の倫理」を更新し続けている。
 
-> „Lärm ist Musik in Form von Stille.“
-> — Aus einer unsignierten Tonbandnotiz
+> “ノイズとは、沈黙の形をした音楽である。”
+> — 無署名のテープ・ノートより
 
 
 ---

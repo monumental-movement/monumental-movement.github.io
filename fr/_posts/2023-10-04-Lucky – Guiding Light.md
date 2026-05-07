@@ -9,12 +9,12 @@ permalink: /fr/lucky-guiding-light/
 tags:
 - House
 - Euro Beat
-title: Chanceux – Lumière directrice
+title: Lucky – Guiding Light
 ---
 
 
-« Lumière directrice » est
-Il s'agit d'un EP de Lucky sorti sur le label belge "WL Records".
+「Guiding Light」は、
+ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。
 
 #### Liste des chansons
 ```md

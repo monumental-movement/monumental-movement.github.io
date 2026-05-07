@@ -63,7 +63,7 @@ Footwork/Juke的音樂特點如下。
 - **節奏**：非常快，大約 160 BPM。
 - **節奏結構**：複雜的切分音，使用TR-808/909鼓機。
 - **取樣**：高速錄製碎片人聲、嘻哈和R&B樂句。
-- **曲構成**：ループ中心で短いフレーズを繰り返す。変拍子や不規則なブレイクを用いることが多い。  
+- **歌曲結構**：以循環為中心重複短語。它經常使用奇怪的拍號和不規則的停頓。
 - **聲學特徵**：強調低頻低音鼓，小鼓細膩分散。巧妙利用立體空間。
 
 ---
@@ -90,9 +90,9 @@ flowchart LR
 
 Footwork/Juke 場景中存在以下重要人物和標籤。
 
-|藝術家/製作人 |貢獻 |
+| アーティスト/プロデューサー | 貢献 |
 |--------------------------|------|
-| DJ 拉沙德 |在國際上傳播步法的核心人物。部署複雜的節奏和創新的取樣技術|
+| DJ Rashad | A central figure who spread footwork internationally. Deploying complex rhythms and innovative sample techniques |
 | DJ 史賓 |與DJ Rashad打造Footwork聲音，對年輕人影響力大 |
 | RP 噓 |早期步法創始人之一，Ghetto House 變身步法 |
 |特拉克斯曼 |為芝加哥 Juke 場景的發展做出了貢獻 |
@@ -141,15 +141,15 @@ timeline
 ---
 
 - **DJ Spinn – “完全”**
-樣本的創意運用以及舞蹈與音樂之間的緊密連結。
+創意樣本運用，舞蹈與音樂緊密結合。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 8. 步法的社會意義
+## 8. Footworkの社会的意義
 
-- 芝加哥南區非裔美國人社區的文化出口。
+- 芝加哥南區非裔美國人社區的文化輸出。
 - 青年表達方式與社區營造的角色。
 - 它已被世界各地的俱樂部和節日接受為一種新的舞蹈風格。
 

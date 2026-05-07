@@ -23,9 +23,9 @@ Text: mmr｜Thema: Erkundung der Entwicklung von Festivalmusik und -mode, der Sc
 
 In den späten 1960er Jahren wurden die amerikanische und britische Jugendkultur untrennbar mit Musik und Mode verbunden. Das Monterey Pop Festival 1967 und Woodstock 1969 wurden zu mehr als nur Musikveranstaltungen, sie wurden zu Symbolen für Freiheit, Antikrieg und Selbstdarstellung.
 
-Jeans, Fransenjacken, Batikhemden, Sandalen und geblümte Haaraccessoires waren in Woodstock üblich. Insbesondere die ethnischen Westen und Perlenverzierungen, die Janis Joplin auf der Bühne trug, wurden zu Ikonen, denen das Publikum nacheifern wollte, und die Teilnehmer brachten ihre eigenen Batik- und Blumenkränze mit, wodurch der gesamte Veranstaltungsort einer Modenschau ähnelte.
+Jeans, Fransenjacken, Batikhemden, Sandalen und geblümte Haaraccessoires waren in Woodstock üblich. Insbesondere die ethnischen Westen und Perlenverzierungen, die Janis Joplin auf der Bühne trug, wurden zu Ikonen, die das Publikum nachahmen konnte, und die Teilnehmer brachten ihre eigenen Batik- und Blumenkränze mit, was den gesamten Veranstaltungsort zu einer Art Modenschau machte.
 
-In Großbritannien entstand Mitte der 1960er Jahre die Mod-Kultur. Die Londoner King's Road und Carnaby Street waren voller Miniröcke, Stiefel, Anzugjacken und modischer Mäntel, und der Streetstyle junger Leute entsprach den Bildern der Künstler. Bei den Konzerten der Beatles und Rolling Stones waren Musik und Mode eng miteinander verflochten, wobei das Publikum als Ausdrucksform die Kleidung der Künstler nachahmte.
+In Großbritannien entstand Mitte der 1960er Jahre die Mod-Kultur. Die Londoner King's Road und Carnaby Street waren voller Miniröcke, Stiefel, Anzugjacken und modischer Mäntel, und der Streetstyle junger Leute passte zu den Bildern der Künstler. Bei den Konzerten der Beatles und Rolling Stones waren Musik und Mode eng miteinander verflochten, wobei das Publikum die Kleidung der Künstler als eine Form des Selbstausdrucks nachahmte.
 
 > Festivals sind zu einem Prüfstein nicht nur für Musik, sondern auch für Mode als Ort der freien Selbstdarstellung geworden.
 
@@ -49,7 +49,7 @@ color: #fff;
 
 In den 1970er Jahren hatte der Glanz und das Glitzern der Disco die Clubkultur durchdrungen, und im New Yorker Studio 54 sah man die Besucher routinemäßig in figurbetonten Kleidern, Schlaghosen und Plateauschuhen tanzen. Musik und Kleidung gingen Hand in Hand, wobei die Kostüme so ausgewählt wurden, dass sie die Disco-Tanzbewegungen betonten. Auch Männer wollten mit auffälligen Hemden, schmalen Hosen und glänzenden Jacken eine visuelle Wirkung erzielen.
 
-Mit der Punkrock-Bewegung, die 1976 in London ausbrach, spiegelte sich der Anti-Establishment-Geist inzwischen auch in der Mode wider. Bei Sex Pistols- und Clash-Shows wurden mit Nieten besetztes Leder, handgefertigte Abzeichen, zerrissene T-Shirts und Irokesenschnitte von Publikum und Künstler geteilt und machten die DIY-Individualität auf dem Festival sichtbar. Punkmode wurde zu einem Mittel, die rebellische Botschaft der Musik zu verkörpern, und beschleunigte die „Klärung genrespezifischer Kostüme“ in Clubs und Outdoor-Festivals.
+Mit der Punkrock-Bewegung, die 1976 in London ausbrach, spiegelte sich der Anti-Establishment-Geist inzwischen auch in der Mode wider. Bei Sex Pistols- und Clash-Shows wurden mit Nieten besetztes Leder, handgefertigte Abzeichen, zerrissene T-Shirts und Irokesenschnitte von Publikum und Künstler geteilt und machten die DIY-Individualität auf dem Festival sichtbar. Punk-Mode wurde zu einem Mittel, die rebellische Botschaft der Musik zu verkörpern, und beschleunigte die „Klärung genrespezifischer Kostüme“ in Clubs und Outdoor-Festivals.
 
 > Während sich die Musikgenres unterscheiden, ist auch die Festivalmode in eine Ära eingetreten, in der es große Farbunterschiede gibt.
 
@@ -67,7 +67,7 @@ timeline
 
 Die Rave-Kultur der 1990er Jahre entstand in städtischen Lagerhäusern und verlassenen Fabriken. Der Hush Club in Manchester und der Tresor in Berlin waren Testgelände für die Verschmelzung von Musik und Mode. Die Teilnehmer trugen fluoreszierende Oberteile, Röhrenoberteile, LED-Accessoires und Plastikschmuck, um ein Erlebnis zu schaffen, das Licht und Musik kombinierte.
 
-Beim Berlin Techno Festival verwandelten Laser und Lichter, die auf den Böden und Wänden des Clubs installiert waren, die Besucher in „lebende Beleuchtungsgeräte“, da ihre Kleidung das Licht reflektierte und sich veränderte. Bei den Live-Shows von Underworld und Fatboy Slim fungierten Kostüme als visuelle Erweiterungen der Musik und verwischten die Grenzen zwischen Teilnehmer und Darsteller.
+Beim Berlin Techno Festival verwandelten Laser und Lichter, die auf den Böden und Wänden des Clubs installiert waren, die Besucher in „lebende Beleuchtungskörper“, da ihre Kleidung das Licht reflektierte und sich veränderte. Bei den Live-Shows von Underworld und Fatboy Slim fungierten Kostüme als visuelle Erweiterungen der Musik und verwischten die Grenzen zwischen Teilnehmer und Darsteller.
 
 > Kostüme, die das Musikerlebnis erweitern, haben eine Kultur geschaffen, in der Festivalteilnehmer selbst zu Kunstwerken werden.
 
@@ -85,7 +85,7 @@ timeline
 
 Der EDM-Boom der 2000er Jahre führte zur globalen Expansion großer Festivals wie Coachella, Ultra Music Festival und Tomorrowland. Nike, Adidas, Coach und andere stellten Festivalkleidung und Accessoires vor, und die Teilnehmer brachten ihre Individualität zum Ausdruck, indem sie Markenkleidung mit selbstgemachten Artikeln kombinierten.
 
-Bunte Sportbekleidung, Festival-spezifische Stiefel und glänzende Accessoires verstärkten den visuellen Eindruck beim Tanzen und Bewegen. Auf der Bühne von David Guetta leuchteten die LED-Armbänder der Teilnehmer synchron zur Musik auf und schufen so eine visuelle Performance, die Kostüme und Musik verschmolz.
+Bunte Sportkleidung, Festival-spezifische Stiefel und glänzende Accessoires verstärkten den visuellen Eindruck beim Tanzen und Bewegen. Auf der Bühne von David Guetta leuchteten die LED-Armbänder der Teilnehmer synchron zur Musik auf und schufen so eine visuelle Performance, die Kostüme und Musik verschmolz.
 
 > Die Beziehung zwischen Musik und Mode ist komplexer geworden und wir sind in eine Ära eingetreten, in der der Ausdruck von Individualität und der Wert einer Marke gleichzeitig angestrebt werden.
 
@@ -208,7 +208,7 @@ graph TD
 ### Punk London Style (1976)
 
 * Oben: Zerrissenes T-Shirt
-*Unten: Röhrenhose
+*Unten: Enge Hose
 * Zubehör: Nietengürtel, DIY-Abzeichen
 * Schuhe: Kampfstiefel
 

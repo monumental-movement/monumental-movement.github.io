@@ -43,7 +43,7 @@ color: #fff;
 ## Ⅰ. Le plaisir des mains jouant avec le son
 
 Il ne faut pas oublier que le « sens tactile » est à l'origine de l'acte musical. Lorsque vous pincez les cordes, appuyez sur les touches ou tournez les boutons, vous recevez une réponse du bout des doigts. Cette immédiateté est la même dans les jouets avec lesquels les enfants entrent en contact durant leur enfance.
-Au 21e siècle, les sons électroniques ont été étendus aux jouets pour enfants et aux gadgets éducatifs, et l'acte de « sonner » lui-même est désormais considéré comme faisant partie du jeu. La frontière entre jouets et instruments de musique devient de plus en plus floue.
+Au 21e siècle, les sons électroniques ont été étendus aux jouets pour enfants et aux gadgets éducatifs, et l'acte de « sonner » lui-même a été conçu comme faisant partie du jeu. La frontière entre jouets et instruments de musique devient de plus en plus floue.
 
 ---
 
@@ -70,7 +70,7 @@ Sorti en 1978, l'Omnichord est rapidement devenu apprécié dans le monde entier
 - Des accords simples faciles à jouer avec un seul doigt
 - Des tons lo-fi et cosmiques
 
-L'Omnichord est devenu plus qu'un accessoire pour les artistes techno-pop et indépendants lors de performances live et d'enregistrements. Le son est l'incarnation d'une philosophie de conception qui accueille le hasard et l'improvisation.
+L'Omnichord est devenu plus qu'un accessoire pour les artistes techno-pop et indépendants lors de performances live et d'enregistrements. Le son est l’incarnation d’une philosophie de conception qui accueille le hasard et l’improvisation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAIar0O-yvg?si=gI40JwCWCleSOUQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -142,7 +142,7 @@ Une pièce expérimentale sonore qui utilise pleinement des équipements électr
 
 ## Ⅵ. L'âge d'or des jouets électroniques au Japon
 
-Dans les années 1970 et 1980, les synthés portables et les jouets musicaux électroniques sont devenus populaires dans les foyers japonais.
+Dans les années 1970 et 1980, les synthés portables et les instruments de musique électroniques sont devenus populaires dans les foyers japonais.
 
 - Série Yamaha Portasound
 - CASIO VL-TONE

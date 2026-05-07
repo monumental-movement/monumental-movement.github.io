@@ -20,7 +20,7 @@ title: '[專欄] Dreamwave / Chill Synthwave'
 文：mmr｜主題：關於Dreamwave/Chill Synthwave，一種在當今資訊超載的社會中不做過多主張的音樂流派
 
 
-Dreamwave and Chill Synthwave are musical styles derived from synthwave that have become clear since the 2010s.雖然它以20世紀80年代的綜合文化、視覺美學和都市懷舊為基礎，但其獨特之處在於它抑制了攻擊性和復古主義未來主義的誇張和共鳴。 These are more like aesthetic intentions and design ideas for the listening experience than genres.
+Dreamwave 和 Chill Synthwave 是源自合成波的音樂風格，自 2010 年代以來就變得清晰起來。雖然它以20世紀80年代的綜合文化、視覺美學和都市懷舊為基礎，但其獨特之處在於它抑制了攻擊性和復古未來主義的誇張，強調情感、共鳴和內省。這些更像是聽覺體驗的美學意圖和設計理念，而不是流派。
 
 Dreamwave 強烈傾向於建構具有幻想、記憶、夢境等心理主題的聲音影像，而 Chill Synthwave 可以理解為簡化節奏和結構、增強融入生活空間的可聽性的形式。兩者重疊，重新詮釋了當今數位環境中的「80 年代情感」。
 
@@ -47,13 +47,13 @@ color: #fff;
 
 20 世紀 80 年代是從類比到數位的過渡時期，電子音樂的詞彙隨著和弦合成器、FM 音源和 MIDI 標準的傳播而爆炸性地擴展。同時，家庭視訊、有線電視和電影音樂的角色不斷擴大，在音樂和影像之間建立了緊密的聯繫。
 
-2010年前後，隨著網路共享文化的成熟，過去的影片、音源、設計資產開始重新流通。在這種趨勢下，20世紀80年代的聲音形像不再只是懷舊，而是成為了用現代情感重建的對象。 Dreamwave / Chill Synthwave 是一種重新詮釋，特別注重「場景記憶」。
+2010年前後，隨著網路共享文化的成熟，過去的影片、音源、設計資產開始重新流通。在這種趨勢下，20世紀80年代的聲音形像不再只是懷舊，而是成為了用現代情感重建的對象。 Dreamwave / Chill Synthwave 是一種重新詮釋，特別關注「場景記憶」。
 
 > 這裡提到的 80 年代更多的是一種集體記憶，而不是實際的時代。
 
 ---
 
-## 音樂特徵：聲音和結構
+## 音樂特徵：聲音與結構
 
 Dreamwave/Chill Synthwave的音樂特徵是和聲的透明度、節奏的穩定、音色變化的緩慢。以中慢速節奏為主，節奏重複，鼓機常以內斂的方式放置。
 

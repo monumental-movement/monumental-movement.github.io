@@ -9,12 +9,12 @@ permalink: /fr/onnazae-dark-knight-ep/
 tags:
 - Downtempo
 - Triphop
-title: Onnazae – EP Chevalier Noir
+title: Onnazae – Dark Knight EP
 ---
 
 
-"Dark Knight EP" est
-Il s'agit d'un EP d'Onnazae, de son vrai nom Pete Prezzano, sorti par le label "Subtitled Records".
+「Dark Knight EP」は、
+レーベル「Subtitled Records」からリリースされた本名Pete Prezzano「Onnazae」によるEPです。
 
 
 #### Liste des chansons

@@ -14,7 +14,7 @@ title: Distance – Night Vision Traffic (Remixe)
 ---
 
 
-Ein Remix eines Dubstep-Tracks des Dubstep-Erfinders DJ Distance (Greg Sanders), veröffentlicht 2009 auf dem Label Planet Mu.
+Ein Remix eines Dubstep-Tracks des Dubstep-Urhebers DJ Distance (Greg Sanders), veröffentlicht 2009 auf dem Label Planet Mu.
 
 Side A ist ein Remix von Skream (Oliver Dene Jones), einem britischen Produzenten, der seit den Anfängen der Dubstep-Szene aktiv ist.
 

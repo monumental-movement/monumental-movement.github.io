@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - R&B
 - Wu-Tang
-title: 武當派 (Wu-Tang Clan) 主演羅恩艾斯利 (Ron Isley) – 重返遊戲
+title: 武當派 (Wu-Tang Clan) 主演 Ron Isley – 重返遊戲
 ---
 
 

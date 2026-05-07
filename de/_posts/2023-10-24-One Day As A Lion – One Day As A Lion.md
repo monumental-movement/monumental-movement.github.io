@@ -14,7 +14,7 @@ title: Ein Tag als Löwe – Ein Tag als Löwe
 ---
 
 
-One Day As A Lion ist eine Zusammenarbeit zwischen Rage Against the Machine-Sänger Zack de la Rocha und dem ehemaligen Schlagzeuger von The Mars Volta und aktuellen Schlagzeuger von Queens of the Stone Age, Jon. Eine Power-Duo-Supergruppe, die 2008 von Theodore (John Theodore) gegründet wurde.
+One Day As A Lion ist eine Zusammenarbeit zwischen Rage Against the Machine-Sänger Zack de la Rocha und dem ehemaligen Schlagzeuger von The Mars Volta und aktuellen Schlagzeuger von Queens of the Stone Age, Jon. Eine Power-Duo-Supergroup, die 2008 von Theodore (John Theodore) gegründet wurde.
 
 One Day As A Lion zeichnet sich durch einen Stil aus, der Alternative Rock und Rap mischt.
 

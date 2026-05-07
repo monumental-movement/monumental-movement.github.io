@@ -57,7 +57,7 @@ Avec la diffusion de la technologie de l’imprimerie, la poésie s’est fixée
 
 ---
 
-## L'art d'avant-garde du XXe siècle et la libération de la voix
+## L'art d'avant-garde du XXe siècle et la libération des voix
 
 ### Dada et la poésie audio
 
@@ -75,7 +75,7 @@ Le futurisme italien a introduit le bruit mécanique et urbain dans l'art. Leurs
 
 ### L'idée de couper et coller des voix
 
-Au milieu du XXe siècle, l’avènement de la bande magnétique a fondamentalement modifié la manière dont les voix étaient traitées. La lecture n’est pas un événement ponctuel, mais un matériel modifiable. Des techniques telles que les cut-ups, les boucles et les rotations inversées ont apporté une nouvelle chronologie à l'expression poétique.
+Au milieu du XXe siècle, l’avènement de la bande magnétique a fondamentalement modifié la façon dont les voix étaient traitées. La lecture n’est pas un événement ponctuel, mais un matériel modifiable. Des techniques telles que les cut-ups, les boucles et les rotations inversées ont apporté une nouvelle chronologie à l'expression poétique.
 
 ### Connexion avec Musique Béton
 
@@ -103,7 +103,7 @@ Les poètes beat enregistraient leurs lectures et les publiaient sur disques. En
 
 ### Déviation de la musique
 
-Depuis les années 1960, l’art sonore s’éloigne du cadre de la musique et devient une forme d’expression mettant l’accent sur l’espace et l’environnement. Dans les œuvres développées dans des galeries et des espaces publics, le son change en fonction du mouvement du spectateur et du passage du temps.
+Depuis les années 1960, l’art sonore s’éloigne du cadre musical et devient une forme d’expression mettant l’accent sur l’espace et l’environnement. Dans les œuvres développées dans des galeries et des espaces publics, le son change en fonction du mouvement du spectateur et du passage du temps.
 
 ### Réarrangement de la voix
 
@@ -153,7 +153,7 @@ E --> F[1980s 詩×音響コラボ]
 F --> G[2000s デジタル朗読]
 </div>
 
->Tout au long de l’histoire, les voix et les sons ont été séparés et reconnectés à plusieurs reprises.
+>Tout au long de l'histoire, les voix et les sons ont été séparés et reconnectés à plusieurs reprises.
 
 ---
 
@@ -203,7 +203,7 @@ Lors de collaborations avec l’art sonore, les vocalisations et les réactions 
 
 ### Une voix qui transcende le sens
 
-La lecture à haute voix dans différentes langues met au premier plan le rythme et l’intonation de la voix, tandis que la compréhension du sens devient partielle. Cela a une grande affinité avec la poésie audio et l’art sonore.
+La lecture à haute voix dans différentes langues met en avant le rythme et l’intonation de la voix, tandis que la compréhension du sens devient partielle. Cela a une grande affinité avec la poésie audio et l’art sonore.
 
 ### Espace multiculturel
 

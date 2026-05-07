@@ -10,13 +10,13 @@ tags:
 - Alternative Rock
 - Rock
 - 90s
-title: Beck – Mutationen
+title: Beck – Mutations
 ---
 
 
-„Mutations“ ist Becks sechstes Studioalbum, das 1998 von DGC Records veröffentlicht wurde. Es wurde von Nigel Godrich, bekannt als Produzent von Radiohead, produziert und gewann den Grammy Award für das beste Alternative-Musik-Album.
+「Mutations」は、1998年にDGCレコードからリリースされたBeckの6枚目のスタジオアルバム。Radioheadのプロデューサーとして知られるNigel Godrich(ナイジェル・ゴッドリッチ)がプロデュースし、グラミー賞の最優秀オルタナティブ・ミュージック・アルバムを受賞した。
 
-Der 12. Titel ist ein Bonustrack, der nur in der japanischen Version verfügbar ist. Der 14. Titel ist ein internationaler Bonustrack.
+12曲目は日本盤のみのボーナストラック。14曲目はインターナショナルボーナストラック。
 
 #### Trackliste
 ```md

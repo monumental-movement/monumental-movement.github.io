@@ -17,7 +17,7 @@ Lab4 est un groupe de hard dance britannique formé par Adam Newman et Les Elsto
 
 Side A est un remix du principal producteur japonais de hard dance et DJ Nish.
 
-"None Of Us Are Saints" est sorti en 2006 sur le sous-label d'avex, Superb Trax.
+"None Of Us Are Saints" est sorti en 2006 sur le sous-label d'avex Superb Trax.
 
 #### Liste des chansons
 ```md

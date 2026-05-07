@@ -35,7 +35,7 @@ Kraftwerk 由 Ralf Hütter 和 Florian Schneider 於 1970 年創立。
 11. Music Non Stop
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbPc_Iu8JLA?si=OfpNSIXukiVUrSWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

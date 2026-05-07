@@ -9,7 +9,7 @@ permalink: /zh-hant/earthbound-essence-of-life/
 tags:
 - Trance
 - Progressive
-title: Earthbound – Essence Of Life
+title: Earthbound－生命的本質
 ---
 
 

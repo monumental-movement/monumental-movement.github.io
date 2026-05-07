@@ -9,15 +9,15 @@ permalink: /fr/elvis-aloha-from-hawaii-via-satellite/
 tags:
 - Rock
 - 70s
-title: Elvis – Aloha d’Hawaï par satellite
+title: Elvis – Aloha From Hawaii Via Satellite
 ---
 
 
-Album live d'Elvis Presley à Hawaï en 1973 - Compilation originale japonaise.
+Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ライブアルバム - 日本独自編集盤です。
 
-Enregistré en direct à 00h30 le dimanche 14 janvier 1973 au Honolulu International Center.
+録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
 
-Cet album est une compilation spécifique au Japon qui est sortie à la hâte après la diffusion de l'émission spéciale télévisée.
+このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
 
 #### Liste des chansons
 ```md

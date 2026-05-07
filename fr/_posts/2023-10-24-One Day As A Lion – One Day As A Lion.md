@@ -10,13 +10,13 @@ tags:
 - Rock
 - Hiphop
 - Alternative Rock
-title: Un jour en tant que lion – Un jour en tant que lion
+title: One Day As A Lion – One Day As A Lion
 ---
 
 
-One Day As A Lion est une collaboration entre le chanteur de Rage Against the Machine, Zack de la Rocha, et l'ancien batteur de The Mars Volta et actuel batteur de Queens of the Stone Age, Jon. Un supergroupe de duo puissant formé en 2008 par Theodore (John Theodore).
+One Day As A Lion(ワン・デイ・アズ・ア・ライオン)は、Rage Against the Machine(レイジ・アゲインスト・ザ・マシーン)のボーカリストZack de la Rocha(ザック・デ・ラ・ロッシャ)とThe Mars Volta(マーズ・ボルタ)の元ドラマーで現在はQueens of the Stone Age(クイーンズ・オブ・ザ・ストーン・エイジ)のドラマーJon Theodore(ジョン・セオドア)によって2008年に結成されたパワーデュオスーパーグループ。
 
-One Day As A Lion se caractérise par un style mêlant rock alternatif et rap.
+One Day As A Lionはオルタナティブロックとラップをmixさせたスタイルが特徴。
 
 #### Liste des chansons
 ```md

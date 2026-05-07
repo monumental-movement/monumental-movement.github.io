@@ -8,18 +8,18 @@ layout: post
 permalink: /de/pickup-soundtrack/
 tags:
 - Soundtrack
-title: Nehmen Sie Soundtrack-Werke auf
+title: サウンドトラック作品をピックアップ
 ---
 
 
-„Eine bemerkenswerte Sammlung von Soundtrack-Werken, die die Emotionen der Geschichte durch Klang verweben und das visuelle Erlebnis in eine neue Dimension heben.“
+「物語の情感を音で紡ぎ、映像体験を新たな次元へと引き上げる注目すべきサウンドトラック作品群」
 
 <hr>
 
-### Jerry Goldsmith – Ein Stück Blau
+### Jerry　Goldsmith – A　Patch　Of　Blue
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
-Format: Vinyl
+形式：vinyl
 
 Werk: Soundtrack des Films „A Patch of Blue“ von 1965. Neuauflage 1978.
 

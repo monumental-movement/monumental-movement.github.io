@@ -10,13 +10,13 @@ tags:
 - Techno
 - Hardcore Techno
 - 90s
-title: Kubisch 22 – Nacht in Bewegung
+title: Cubic 22 – Night In Motion
 ---
 
 
-„Cubic 22“ ist ein Tanzmusikprojekt der belgischen Produzenten Peter Ramson und Danny Van Wauwe, die ihre Aktivitäten in den frühen 1990er Jahren begannen, während der Blütezeit der britischen House-Musikszene. Peter Ramson und Danny Van Wauwe haben ihre Arbeiten unter verschiedenen Pseudonymen veröffentlicht, darunter Set Up System.
+Cubic 22 は、UKで人気が出始めたハウスミュージックシーンの急成長期である1990年代初頭に活動を開始したベルギー人プロデューサーPeter Ramson と Danny Van Wauweによるダンス ミュージックプロジェクト。Peter Ramson と Danny Van Wauwe は、Set Up Systemなどさまざまな別名義で作品をリリースしている。
 
-„Night In Motion“, veröffentlicht im Jahr 1991, ist eines der Meisterwerke von Cubic 22, ein klassischer Hardcore-Techno-Track, der in der Club-, Dance- und Rave-Szene ein großer Hit wurde.
+1991年にリリースされた「Night In Motion」は、Cubic 22の代表作の一つで、クラブ・ダンス・レイヴシーンで大ヒットとなったクラシックハードコア・テクノトラック。
 
 #### Trackliste
 ```md

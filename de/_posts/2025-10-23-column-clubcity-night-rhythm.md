@@ -65,7 +65,7 @@ Musik ist sowohl Protest als auch Feier.
 ## Kapitel 3: Berlin, Tokio, London – Vergleich der Clubkultur nach Städten
 
 ### Berlin
-Nach dem Einsturz der Mauer wurde die zerstörte Stadt zum Versuchsfeld für die Freiheit. Clubs wie Tresor, Berghain und Watergate entstanden aus der chaotischen Vermischung östlicher und westlicher Kulturen.
+Nach dem Fall der Mauer wurde die zerstörte Stadt zum Versuchsfeld für die Freiheit. Clubs wie Tresor, Berghain und Watergate entstanden aus der chaotischen Vermischung östlicher und westlicher Kulturen.
 Clubs dienen nicht nur der Unterhaltung; Sie fungieren als „neue öffentliche Sphäre der Gesellschaft“.
 
 ### Tokio
@@ -118,7 +118,7 @@ Digitale Clubs könnten der Keim einer neuen Art von „öffentlichem Charakter�
 
 Die Stadtnacht war schon immer ein Spiegel, der die Schatten und Wünsche der Gesellschaft widerspiegelt.
 In ihrem Spiegel hat die Clubkultur dem grundlegenden menschlichen Wunsch nach Resonanz Gestalt verliehen.
-Selbst in einer Zeit sich weiterentwickelnder KI und digitaler Technologie wird der Rhythmus der Nacht nicht verschwinden.
+Auch im Zeitalter sich weiterentwickelnder KI und digitaler Technologie wird der Rhythmus der Nacht nicht verschwinden.
 Es ist der „Herzschlag“ des gigantischen Körpers der Stadt.
 
 ---

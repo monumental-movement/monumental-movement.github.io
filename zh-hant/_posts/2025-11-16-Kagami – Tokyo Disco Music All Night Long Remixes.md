@@ -10,7 +10,7 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Kagami – Tokyo Disco Music All Night Long (Remixes)
+title: Kagami – 東京迪斯可音樂整夜（混音）
 ---
 
 

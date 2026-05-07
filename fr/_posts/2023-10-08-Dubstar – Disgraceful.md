@@ -8,13 +8,13 @@ layout: post
 permalink: /fr/dubstar-disgraceful/
 tags:
 - Synth-Pop
-title: Dubstar – Honteux
+title: Dubstar – Disgraceful
 ---
 
 
-Il s'agit d'un album sorti par le groupe britannique Dubstar en 1995. C'était leur premier album, sorti en octobre 1995 par Food Records, une filiale d'EMI.
+1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
 
-L'album comprend deux reprises. L'une d'elles est "Not So Manic Now", une chanson initialement enregistrée par Brick Supply sur leur EP "Somebody's Intermezzo" de 1994. L'autre est "St. Swithin's Day", une chanson initialement enregistrée par Billy Bragg sur son album de 1984 "Brewing Up with Billy Bragg".
+アルバムには2つのカバー曲が収録されています。1つは「Not So Manic Now」で、元々は1994年のEP「Somebody's Intermezzo」でBrick Supplyによって録音された曲です。もう1つは「St. Swithin's Day」で、元々は1984年のアルバム「Brewing Up with Billy Bragg」でBilly Braggによって録音された曲です。
 
 
 #### Liste des chansons

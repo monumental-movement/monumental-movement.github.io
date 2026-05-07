@@ -18,7 +18,7 @@ title: 【專欄】日本搖滾史：主流與地下的交會
 
 文：mmr｜主題：日本主流與地下搖滾
 
-日本搖滾以[Group Sounds (GS)](https://amzn.to/4gP5wli)開始傳播，並在20世紀60年代蓬勃發展。但同時，一股脫離公共舞台、具有實驗精神和破壞性能量的「地下搖滾」潮流誕生了。 Naked Larry's、Keiji Haino、Boredoms、Acid Mother's Temple 等樂團幫助日本的噪音搖滾和迷幻音樂在國際上廣為人知。
+日本搖滾以[Group Sounds (GS)](https://amzn.to/4gP5wli)開始傳播，在20世紀60年代蓬勃發展。但同時，一股脫離公共舞台、具有實驗精神和破壞性能量的「地下搖滾」潮流誕生了。 Naked Larry's、Keiji Haino、Boredoms、Acid Mother's Temple 等樂團幫助日本的噪音搖滾和迷幻音樂在國際上廣為人知。
 
 ---
 
@@ -36,7 +36,7 @@ color: #fff;
 
 ### 20 世紀 60 年代：拉里裸體的震撼
 
-[Naked Rally's](https://amzn.to/4mxUd1T) — 充滿酸和噪音的迷幻搖滾是日本「地下音樂」的起源。就連盜版音源也變得神秘起來。
+[Naked Rally's](https://amzn.to/4mxUd1T) — 充滿酸和噪音的迷幻搖滾是日本「地下音樂」的起源。就连盗版音源也变得神秘起来。
 
 ---
 
@@ -70,7 +70,7 @@ color: #fff;
 
 ### 2000 年代：吉他狼的搖滾樂
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — “Jet Rock'n'Roll”的旗手。在海外巡迴演出後，他們成為車庫搖滾復興的象徵。
+[Guitar Wolf](https://amzn.to/42cIG0G) — 「Jet Rock and Roll」的旗手。在海外巡迴演出後，他們成為車庫搖滾復興的象徵。
 
 ---
 
@@ -109,7 +109,7 @@ flowchart TD
 |融化香蕉| 20 世紀 90 年代 | “細胞景觀”（1994/2003）|噪音核心/研磨手感，海外巡演大受歡迎 | [亞馬遜](https://amzn.to/4nX25vb) |
 |酸母寺 | 2000 年代 | “Univers Zen ou de Zéro à Zéro” (2002) |無人機與即興迷幻洪流| [亞馬遜](https://amzn.to/4nh87Xm) |
 |酸母寺 | 2000 年代 | “拉諾維亞”|川端元的太空迷幻果醬，史詩般的旅行感覺 | [亞馬遜](https://amzn.to/47XWVKz) |
-|山本精一 | 2000 年代 | “模糊凹槽之冠”(2002) |實驗與旋律共存的獨奏傑作| [亞馬遜](https://amzn.to/4pJ0ESq) |
+|山本精一 | 2000 年代 | 「模糊凹槽之冠」(2002) |實驗與旋律共存的獨奏傑作 | [亞馬遜](https://amzn.to/4pJ0ESq) |
 |吉他狼| 2000 年代 | 《噴射世代》(1999) |世界上最響亮的搖滾專輯 | [亞馬遜](https://amzn.to/4pIAlMg) |
 |拉德溫普斯 | 2010 年代 | “你的名字。原聲帶”(2016) |搖滾與配樂製作的融合，國際議論| [亞馬遜](https://amzn.to/46Gp9XV) |
 |尤阿索比 | 2020 年代 | “這本書”（2021）|數位時代的流行搖滾包括人工智慧方法 | [亞馬遜](https://amzn.to/4gHaMXT) |
@@ -138,7 +138,7 @@ A3：這是因為我們獨特的現場製作結合了迷幻和噪音以及壓倒
 
 A4：我們憑藉著壓倒性的現場表演、速度感以及與約翰·佐恩等實驗音樂家的聯繫而獲得了國際讚譽。
 
-**Q5：山本精一最著名的作品是什么？ **
+**Q5：山本精一最著名的作品是？ **
 
 A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO的現場表演](https://amzn.to/4gJvJRT)和個人作品[``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ES)都很重要。
 

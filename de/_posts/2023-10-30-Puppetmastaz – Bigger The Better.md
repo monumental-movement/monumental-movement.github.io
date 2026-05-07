@@ -15,7 +15,7 @@ title: Puppetmastaz – Je größer desto besser
 
 Puppetmastaz ist eine 1996 in Berlin gegründete deutsche Hip-Hop-Gruppe, bestehend aus Mitgliedern aus Deutschland, den Vereinigten Staaten und Kanada, darunter Max Turner, Chilly Gonzales, Paul PM, Mister Maloke, Mocky und Alex Tiller, der die Band 2003 verließ.
 
-Puppetmastaz führt Shows mit Handpuppen auf und zeichnet sich durch einen Musikstil aus, der Elemente aus Rap, Funk und Electronica enthält.
+Puppetmastaz führt Shows mit Handpuppen auf und zeichnet sich durch einen Musikstil aus, der Elemente von Rap, Funk und Electronica enthält.
 
 #### Trackliste
 ```md

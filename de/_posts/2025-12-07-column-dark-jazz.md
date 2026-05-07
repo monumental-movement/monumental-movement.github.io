@@ -62,7 +62,7 @@ Durch die Kombination dieser Eigenschaften entstand ein einzigartiges Klangbild,
 ## 2. Bedeutende Künstler und ihre Rollen
 ### ● Bohren & der Club of Gore (1992–)
 Gegründet in Nordrhein-Westfalen, Deutschland.
-Obwohl es mehrere Mitgliederwechsel gab, sind die folgenden Punkte gleich geblieben.
+Obwohl es mehrere Mitgliederwechsel gab, sind die folgenden Punkte konsistent geblieben.
 
 - Ursprünglich von einer Slow-Doom-/Hardcore-Band
 - In den 1990er Jahren wandte er sich dem Ansatz zu, „Jazz in extrem langsamem Tempo zu spielen“
@@ -218,7 +218,7 @@ flowchart TD
 
 ## 8. Aktueller Stand des Dark Jazz
 Durch lange Mixe auf YouTube und „Night View + Dark Jazz“-Videos von Zuschauern,
-Seit den 2020er Jahren kommt es vor allem bei jungen Hörern zu einer Neubewertung der Musik.
+Seit den 2020er Jahren kommt es zu einer Aufarbeitung bei jungen Hörern.
 
 - „Leise Musik“ erfreut sich neben dem Trend des Lo-Fi-Hip Hop zunehmender Beliebtheit
 - Wird als Hintergrundmusik für Videoproduktionen, VJ und unabhängige Filme verwendet

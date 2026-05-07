@@ -9,12 +9,12 @@ permalink: /de/cosmic-gate-human-beings/
 tags:
 - Trance
 - Hard Trance
-title: Cosmic Gate – Human Beings
+title: Kosmisches Tor – Menschen
 ---
 
 
-「Cosmic Gate – Human Beings」の
-B面は2000年代初頭のヨーロッパダンスシーンでよく知られたトランスアクトG&M（Robert Gitelman & Jaron Martinez）によるremix。
+„Kosmisches Tor – Mensch“
+Die B-Seite ist ein Remix von G&M (Robert Gitelman & Jaron Martinez), einem bekannten Trance-Act in der europäischen Tanzszene der frühen 2000er Jahre.
 
 
 #### Trackliste

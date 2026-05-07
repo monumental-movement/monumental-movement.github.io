@@ -21,7 +21,7 @@ title: Der Labrat – Äh
 
 
 
-Muy Caliente RecordsからリリースされたThe LabratによるHipHop／Ragga HipHopトラック。同じカテゴリーナンバーで、ラベルのテキストが黒文字ver.と赤文字ver.が存在し、このレコードは赤文字ver.。
+HipHop/Ragga HipHop-Track von The Labrat, veröffentlicht auf Muy Caliente Records. Bei derselben Kategorienummer gibt es eine Version mit schwarzem Text und eine Version mit rotem Text des Etikettentexts, und dieser Datensatz ist die Version mit rotem Text.
 
 #### Trackliste
 ```md

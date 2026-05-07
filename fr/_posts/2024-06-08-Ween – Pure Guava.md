@@ -12,11 +12,11 @@ tags:
 - Lo-Fi
 - Noise
 - Rare
-title: Ween – Goyave pure
+title: Ween – Pure Guava
 ---
 
 
-Sorti en 1992, "Pure Guava" est le troisième album studio de Ween et son premier label majeur. Contient le chef-d'œuvre de Ween "Push th' Little Daisies".
+1992年にリリースされた「Pure Guava」は、Weenの3枚目のスタジオアルバムであり、メジャーレーベルデビュー作。Weenの代表作「Push th' Little Daisies」が収録されている。
 
 #### Liste des chansons
 ```md

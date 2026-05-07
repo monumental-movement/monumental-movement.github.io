@@ -53,17 +53,17 @@ Les boucles de bande, la lecture à vitesse variable et les circuits de rétroac
 
 ### 1-3. Connexion avec les concepts ambiants
 
-Depuis les années 1970, la musique ambiante présente une forme d’écoute qui suppose la coexistence avec l’environnement. Ambient Drone se positionne dans ce contexte comme un dispositif acoustique qui n’attire pas trop l’attention, mais qui possède une structure interne très maîtrisée.
+Depuis les années 1970, la musique ambiante présente une forme d’écoute qui suppose la coexistence avec l’environnement. Ambient Drone se positionne dans ce contexte comme un dispositif acoustique qui n’attire pas trop l’attention, mais possède une structure interne très maîtrisée.
 
 ## Chapitre 2 Extension au drone texturé
 
 ### 2-1. La notion de texture
 
-Textural Drone se caractérise par une structure dans laquelle plusieurs couches tonales changent légèrement au fil du temps, plutôt qu'une seule hauteur soutenue. La texture est ici la somme totale de la distribution des harmoniques, des composants du bruit, de la localisation spatiale et des fluctuations dynamiques.
+Textural Drone se caractérise par une structure dans laquelle plusieurs couches tonales varient légèrement au fil du temps, plutôt qu'une seule hauteur soutenue. La texture est ici la somme totale de la distribution des harmoniques, des composants du bruit, de la localisation spatiale et des fluctuations dynamiques.
 
 ### 2-2. Techniques de superposition
 
-La superposition de plusieurs pistes transforme la musique d'une structure linéaire en une structure superficielle. Chaque couche a une période et une vitesse de modulation indépendantes, produisant des fluctuations asynchrones dans leur ensemble.
+La superposition de plusieurs pistes transforme la musique d'une structure linéaire en une structure planaire. Chaque couche a une période et une vitesse de modulation indépendantes, produisant des fluctuations asynchrones dans leur ensemble.
 
 <div class="mermaid">
 flowchart LR

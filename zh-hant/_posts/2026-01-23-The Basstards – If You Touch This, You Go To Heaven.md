@@ -28,7 +28,7 @@ B1. Dark Acid Trip
 B2. The Juice In My Head
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m66704176322?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66704176322?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGa1UQaozzI?si=2Mty4iYAjawJS0DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

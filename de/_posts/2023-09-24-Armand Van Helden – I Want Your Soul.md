@@ -9,13 +9,13 @@ permalink: /de/armand-van-helden-i-want-your-soul/
 tags:
 - House
 - Electro
-title: Armand Van Helden – Ich will deine Seele
+title: Armand Van Helden – I Want Your Soul
 ---
 
 
-„I Want Your Soul“ ist ein House-Song von Armand Van Helden. Armand Van Helden ist ein amerikanischer DJ und Produzent, der seit vielen Jahren in der House-Musikszene aktiv ist.
+「I Want Your Soul」は、アーマンド・ヴァン・ヘルデンによって制作されたハウスミュージックの楽曲です。アーマンド・ヴァン・ヘルデンは、アメリカのDJ、プロデューサーであり、ハウスミュージックシーンで長年にわたり活躍しています。
 
-„I Want Your Soul“ bietet Armand Van Heldens charakteristische Beatmaking- und Sampling-Techniken, eingängige Rhythmen, französische Beats und eindringliche Gesangssamples.
+「I Want Your Soul」は、アーマンド・ヴァン・ヘルデンの得意とするビートメイキングとサンプリングの技術、キャッチーなリズム、フレンティックなビート、そして耳に残るボーカルサンプルが特徴です。
 
 
 #### Trackliste

@@ -10,14 +10,14 @@ tags:
 - Latin
 - Deep House
 - 90s
-title: Herr Hermano – Vasco Da Gama
+title: Mr Hermano – Vasco Da Gama
 ---
 
 
 
-Mr. Hermano ist eine Einheit rund um Ben Mitchell und Chris Fitzgerald. Ihr Stil ist eine Mischung aus Londoner Tanzmusik und Latin.
+Mr Hermanoは、Ben Mitchell と Chris Fitzgerald を中心としたユニット。ロンドンのダンス・ミュージックとラテンを融合させたスタイルが特徴。
 
-„Vasco Da Gama“ und „Caxixi (Ka-SHE-she)“ sind Latin/Deep-House-Tracks aus dem Album „O Globo“, das 1999 auf dem britischen House-Label Disorient veröffentlicht wurde.
+「Vasco Da Gama」「Caxixi（Ka-SHE-she）」は、1999年にUKのHouseレーベルDisorientからリリースしたアルバム『O Globo』に収録されたLatin／Deep Houseトラック。
 
 #### Trackliste
 ```md

@@ -21,7 +21,7 @@ title: '[Kolumne] Afrobeat / Afro-Fusion – Strukturelle Veränderungen und glo
 Text: mmr｜Thema: Die Tatsache, dass sich Afrobeat rund um die Live-Kultur Nigerias entwickelte, wie Afro-Fusion in einer grenzüberschreitenden Produktions- und Vertriebsumgebung eingesetzt wurde und die Geschichte der Musikindustrie und der Diasporabewegungen.
 
 
-Afrobeat und Afro-Fusion sind Musikkulturen, die ihren Ursprung in Westafrika haben, insbesondere in Nigeria und Ghana. Obwohl die beiden oft verwechselt werden, haben sie unterschiedliche historische Hintergründe, musikalische Strukturen und soziale Rollen. Dieser Artikel gliedert die Geschichte von der Gründung des Afrobeat bis zur Entwicklung der Afro-Fusion ausschließlich auf der Grundlage nachprüfbarer Fakten und beschreibt umfassend Veränderungen in den musikalischen Merkmalen, Produktionstechniken, dem sozialen Kontext und der internationalen Rezeption.
+Afrobeat und Afro-Fusion sind Musikkulturen, die ihren Ursprung in Westafrika, insbesondere Nigeria und Ghana, haben. Obwohl die beiden oft verwechselt werden, haben sie unterschiedliche historische Hintergründe, musikalische Strukturen und soziale Rollen. Dieser Artikel gliedert die Geschichte von der Gründung des Afrobeat bis zur Entwicklung der Afro-Fusion ausschließlich auf der Grundlage nachprüfbarer Fakten und beschreibt umfassend Veränderungen in den musikalischen Merkmalen, Produktionstechniken, dem sozialen Kontext und der internationalen Rezeption.
 
 > „Dieser Artikel vermeidet eine Bewertung und subjektive Interpretation und besteht nur aus Informationen, die auf historischen Materialien, Zeugenaussagen und aufgezeichneten historischen Fakten basieren.“
 
@@ -49,7 +49,7 @@ color: #fff;
 
 Viele westafrikanische Volksmusiken zeichnen sich durch Polyrhythmen, Call-and-Response und repetitive Strukturen aus. In den Musikkulturen Yoruba, Ewe und Ashanti sind Strukturen üblich, in denen mehrere Schlaginstrumente gleichzeitig unterschiedliche Frequenzen spielen, und dies hatte direkten Einfluss auf den späteren Afrobeat.
 
-Bei der Melodie liegt der Schwerpunkt eher auf Rhythmus und der Zirkulation von Phrasen als auf Tonleitern, und beim Singen kommt es oft auf die Teilnahme in der Gruppe an. Diese Merkmale wurden ab Mitte des 20. Jahrhunderts aufgrund der Urbanisierung und der Verbreitung der Aufnahmetechnik in der urbanen Musik neu organisiert.
+Bei der Melodie liegt der Schwerpunkt eher auf Rhythmus und der Zirkulation von Phrasen als auf Tonleitern, und beim Singen kommt es häufig auf die Teilnahme in der Gruppe an. Diese Merkmale wurden ab Mitte des 20. Jahrhunderts aufgrund der Urbanisierung und der Verbreitung der Aufnahmetechnik in der urbanen Musik neu organisiert.
 
 ### Kolonialzeit und urbane Musik
 
@@ -65,11 +65,11 @@ Der Begriff Afrobeat wurde Ende der 1960er Jahre vom nigerianischen Musiker Fela
 
 Seine Bands Africa 70 und später Egypt 80 etablierten eine Form, die sich von der bestehenden Tanzmusik unterschied und sich durch lange Auftritte, sich wiederholende Grooves und Bläserabschnitte auszeichnete.
 
-### Musikalische Features
+### 音楽的特徴
 
 Eine typische Afrobeat-Komposition besteht aus einem Schlagzeug, mehreren Schlaginstrumenten, E-Bass, Gitarre, Bläsern, Keyboards und Gesang. Obwohl der Rhythmus auf dem 4/4-Takt basiert, spielt jedes Instrument ein unabhängiges, sich wiederholendes Muster, wodurch insgesamt ein komplexer Polyrhythmus entsteht.
 
-Songs dauern oft mehr als 10 Minuten und bestehen aus einem Intro, einer Groove-Entwicklung, einem improvisierten Solo und einem Gesangsteil. Die Texte wurden in Englisch, Pidgin-Englisch und Yoruba verfasst und kritisierten häufig die politische Situation, Ungerechtigkeit und Machtstruktur in der nigerianischen Gesellschaft.
+Songs dauern oft mehr als 10 Minuten und bestehen aus einem Intro, einer Groove-Entwicklung, einem improvisierten Solo und einem Gesangsteil. Die Texte wurden in Englisch, Pidgin-Englisch und Yoruba verfasst und kritisierten oft die politische Situation, Ungerechtigkeit und Machtstruktur in der nigerianischen Gesellschaft.
 
 > „Der politische Charakter der Texte führte zu Spannungen mit der damaligen nigerianischen Regierung, die zu mehreren Razzien und Verhaftungen führten.“
 
@@ -85,7 +85,7 @@ In den 1970er Jahren breitete sich die städtische Kultur Nigerias aufgrund der 
 
 ### Auswirkungen auf andere Regionen
 
-Afrobeat beeinflusste auch Nachbarländer wie Ghana, Benin und Togo. Insbesondere Künstler aus Benin schufen einzigartige Ausdrucksformen, die Highlife, lokale Rhythmen und Afrobeat kombinierten. Dies führte dazu, dass Afrobeat als regionaler Stil und nicht als Musik eines einzelnen Landes anerkannt wurde.
+Afrobeat beeinflusste auch Nachbarländer wie Ghana, Benin und Togo. Vor allem Künstler aus Benin schufen einzigartige Ausdrucksformen, die Highlife, lokale Rhythmen und Afrobeat kombinierten. Dies führte dazu, dass Afrobeat als regionaler Stil und nicht als Musik eines einzelnen Landes anerkannt wurde.
 
 ---
 

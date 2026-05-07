@@ -45,7 +45,7 @@ color: #fff;
 
 ## Hypothèses structurelles dans le métal
 
-Afin de comprendre le métal d’avant-garde, il faut d’abord clarifier sur quoi est basé le métal normal.
+Pour comprendre le métal d’avant-garde, il est d’abord nécessaire de clarifier quelle est la prémisse du métal ordinaire.
 
 Le métal traditionnel a été formé à partir d’un ensemble d’hypothèses structurelles telles que les suivantes.
 
@@ -63,7 +63,7 @@ Avant-Garde Metal ne nie pas en partie ces hypothèses, mais les invalide en tan
 
 L’avant-garde n’est pas une question d’excentricité ou de radicalité, mais plutôt la capacité de démanteler la grammaire existante de l’intérieur.
 
-La raison pour laquelle le Metal d’Avant-Garde est perçu comme difficile n’est pas due à son expression émotionnelle excessive, mais au fait que les structures sur lesquelles les auditeurs se sont inconsciemment appuyés ne fonctionnent plus. Le rythme est présent mais peu fiable, le riff est présenté mais ne colle pas, et même s'il évolue, les prédictions ne se réalisent pas.
+La raison pour laquelle le Metal d'Avant-Garde est perçu comme difficile n'est pas à cause de son expression émotionnelle excessive, mais parce que les structures sur lesquelles les auditeurs se sont inconsciemment appuyés ne fonctionnent plus. Le rythme est présent mais peu fiable, le riff est présenté mais ne colle pas, et même s'il évolue, les prédictions ne se réalisent pas.
 
 ---
 
@@ -85,7 +85,7 @@ Lorsque la structure devient problématique, le métal passe à une nouvelle ét
 
 Gorguts a démantelé le death metal de l'intérieur, en utilisant son vocabulaire au maximum.
 
-Dans leur musique, les riffs sont présents mais sans force motrice, les signatures rythmiques sont notées mais instables, et le développement est perçu comme des ruptures plutôt que comme une continuité. Il ne s’agit pas d’une introduction d’éléments extérieurs au genre, mais d’un effet d’avant-garde créé par une distorsion de la grammaire interne.
+Dans leur musique, les riffs sont présents mais sans force motrice, les signatures rythmiques sont notées mais instables, et le développement est perçu comme des ruptures plutôt que comme une continuité. Il ne s'agit pas d'une introduction d'éléments extérieurs au genre, mais d'un effet d'avant-garde créé par une distorsion de la grammaire interne.
 
 ---
 
@@ -203,7 +203,7 @@ Le métal d'avant-garde n'a pas créé un genre, il a laissé derrière lui une 
 
 Gorguts et Maudlin of the Well ne sont pas aux antipodes du metal d’avant-garde. Ce sont des coordonnées différentes qui existent sur le même axe structurel.
 
-Le métal d’avant-garde n’est pas un mouvement qui radicalise la musique, mais un acte qui continue de remettre en question les conditions mêmes dans lesquelles la musique existe. La question reste inachevée et est en cours de mise à jour.
+Le metal d’avant-garde n’est pas un mouvement qui radicalise la musique, mais un acte qui continue de remettre en question les conditions mêmes dans lesquelles la musique existe. La question reste inachevée et est en cours de mise à jour.
 
 ---
 

@@ -11,7 +11,7 @@ tags:
 - Jazz-Funk
 - City Pop
 - 90s
-title: 星塵歌舞團管弦樂團
+title: 星塵歌舞團樂隊
 ---
 
 

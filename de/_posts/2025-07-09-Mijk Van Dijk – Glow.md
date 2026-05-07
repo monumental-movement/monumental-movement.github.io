@@ -9,13 +9,13 @@ permalink: /de/mijk-van-dijk-glow/
 tags:
 - Trance
 - 90s
-title: Mijk Van Dijk – Leuchten
+title: Mijk Van Dijk – Glow
 ---
 
 
-Mijk Van Dijk ist ein deutscher Techno-Produzent und DJ, der seit den 1990er Jahren aktiv ist.
+Mijk Van Dijk(マイク・ヴァン・ダイク)は1990年代から活躍するドイツ出身テクノ プロデューサー・DJ。
 
-„Glow“ wurde 1997 vom deutschen Label Superstition veröffentlicht und enthält Songs, die von Masamune Shirows Charakteren aus „Ghost in the Shell“ inspiriert sind.
+1997年にドイツのレーベルSuperstition(スーパースティション)からリリースされた「Glow」は士郎正宗の『攻殻機動隊』の登場人物からインスピレーションを受けて制作した曲が収録されている。
 
 #### Trackliste
 ```md

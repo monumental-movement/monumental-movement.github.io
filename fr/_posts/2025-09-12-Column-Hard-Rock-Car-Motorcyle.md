@@ -53,7 +53,7 @@ Le rugissement du moteur de grande cylindrée était aussi sauvage que la distor
 ## ■ « Easy Rider » et l'ambiance de l'époque
 
 Le film « Easy Rider » de 1969 est un symbole de la culture jeune et du style de vie hard rock de l'époque.
-Le voyage des protagonistes à travers l'Amérique à moto à la recherche de liberté n'était pas seulement un voyage, mais une métaphore de la « rupture avec le système ». « Born To Be Wild » de Steppenwolf, qui joue sur la bande originale, résonne avec le rugissement des motos et est toujours considéré comme un hymne hard rock de liberté.
+Le voyage des protagonistes à travers l'Amérique à moto à la recherche de liberté n'était pas seulement un voyage, mais une métaphore de la « rupture avec le système ». « Born To Be Wild » de Steppenwolf, qui joue sur la bande originale, résonne avec le rugissement des motos et est toujours transmis comme un hymne hard rock de liberté.
 
 On peut dire que ce film a défini la relation intime entre le hard rock et la culture automobile en visualisant le moment où la musique, les motos et la liberté se sont réunies.
 
@@ -120,27 +120,27 @@ Lorsque le rugissement du moteur et le riff de la guitare résonnent, la musique
 | Titre de la chanson | Artiste | Commentaire |
 |------|---------------|------|
 | Né pour être sauvage | Loup des steppes | Un hymne de la culture moto. |
-| Étoile de l'autoroute | Violet profond | Une chanson signature célébrant les voitures et la vitesse. |
+| Étoile de l'autoroute | Violet profond | 車とスピードを讃えた代表曲。 |
 | Paranoïaque | Sabbat noir | Symbolise l’anxiété sociale avec sa sonorité lourde. |
-| Autoroute vers l’enfer | CA/CC | Une fusion de route et d’esprit rebelle. |
+| Autoroute vers l’enfer | CA/CC | ロードと反骨精神を融合。 |
 | Détroit Rock City | BAISER | Un hymne hard rock sur fond de société automobile. |
 | Amour radar | Boucle d'oreille dorée | Synonyme de chansons de conduite. |
 | Tout l’amour Lotta | Led Zeppelin | Le bruit rugueux résonne avec le rugissement des voitures. |
 | Tush | Haut ZZ | Une chanson liée à la culture automobile du Sud. |
-| Courir avec le diable | Van Halen | Incarner l’esprit hors-la-loi. |
+| Courir avec le Diable | Van Halen | Incarner l’esprit hors-la-loi. |
 | Kickstart My Heart (version live précédente) | Mötley Crüe (première version) | Un spectacle qui met l'accent sur les voitures et la sensation de vitesse. |
 
 ### Années 1980
 
 | Titre de la chanson | Artiste | Commentaire |
 |------|---------------|------|
-| Relance mon cœur | Mötley Crüe | Un chef-d'œuvre né de l'expérience d'un accident de moto. |
+| Kickstart My Heart | Mötley Crüe | Un chef-d'œuvre né de l'expérience d'un accident de moto. |
 | Train fou | Ozzy Osbourne | Un riff rapide adapté à la conduite. |
-| Vivre sur une prière | Bon Jovi | Chante sur des scènes de jeunesse et de road movie. |
-| As de pique | Motörhead | Chansons les plus étroitement associées à la culture moto. |
-| Panama | Van Halen | Une chanson représentative sur les voitures. |
+| Vivre sur une prière | Bon Jovi | 青春とロードムービー的情景を歌う。 |
+| As de pique | Motörhead | バイク文化と最も親和性の高い曲。 |
+| Panama | Van Halen | 車を題材にした代表曲。 |
 | Rock vous aimez un ouragan | Scorpions | Allier nature sauvage et culture automobile. |
-| Criez au diable | Mötley Crüe | Symbole du style de vie hors-la-loi. |
+| Criez au diable | Mötley Crüe | アウトロー的ライフスタイルの象徴。 |
 | Je veux rocker | Soeur tordue | Rappelant la liberté de la jeunesse et la vitesse des voitures. |
 | Sperme sur Ressentez le bruit | Émeute tranquille | Une chanson synonyme de course et de rébellion. |
 | Tu m'as secoué toute la nuit | CA/CC | Une énergie compatible avec la culture routière. |
@@ -182,7 +182,7 @@ D'un autre côté, en Europe et au Japon, des styles mettant l'accent sur le lyr
 Le hard rock est bien plus qu'un simple genre de musique et est souvent qualifié de « style de vie ». Les muscle cars américains et les Harley-Davidson en sont les symboles.
 Le rugissement du moteur de grosse cylindrée résonne dans la ville, semblable à la distorsion émise par un ampli de guitare. Comme si la musique et les machines résonnaient à la même fréquence, les pilotes et les pilotes affichent leur présence.
 
-Il a également des liens profonds avec la culture hors-la-loi. Les gangs de motards et la culture de rue des années 70 avaient souvent le hard rock comme bande originale. Le désir de liberté et d’écart par rapport à la norme est l’expression d’impulsions fortes et irrésistibles, à l’image d’un riff de guitare hard rock.
+Il a également des liens profonds avec la culture hors-la-loi. Les gangs de motards et la culture de rue des années 70 avaient souvent le hard rock comme bande originale. Le désir de liberté et de déviation de la norme est l’expression d’impulsions fortes et irrésistibles, à l’image d’un riff de guitare hard rock.
 
 Visuellement, les vestes en cuir, les jeans, les tatouages ​​et les motos et voitures robustes incarnent une « esthétique rebelle ».
 Des salles de concert aux autoroutes, le hard rock a toujours été indissociable d’un mode de vie impliquant une musique explosive, et cet esprit continue de se transmettre jusqu’à aujourd’hui.

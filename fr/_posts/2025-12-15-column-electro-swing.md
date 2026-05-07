@@ -88,7 +88,7 @@ Leurs chansons mélangent des éléments non seulement de swing mais aussi de ja
 
 ## 6. Structure musicale
 
-La structure d’Electro Swing se compose souvent des éléments suivants :
+La structure d'Electro Swing se compose souvent des éléments suivants :
 
 * Fragments mélodiques dérivés du swing
 * Rythme de danse clair
@@ -156,7 +156,7 @@ L’Electro Swing a dépassé sa période explosive et s’impose désormais com
 
 ## 14. Structure industrielle et labels/supports
 
-L'Electro Swing n'est pas un genre établi par les grands labels, mais s'est développé autour de labels indépendants, d'autoproduction et de distribution numérique. Par conséquent, la diffusion du genre a progressé à travers les clubs, les festivals, les médias vidéo et la communauté de la danse plutôt qu'à travers les charts.
+L'Electro Swing n'est pas un genre établi par les grands labels, mais s'est développé autour de labels indépendants, d'autoproductions et de distribution numérique. Par conséquent, la diffusion du genre a progressé à travers les clubs, les festivals, les médias vidéo et la communauté de la danse plutôt qu'à travers les charts.
 
 La structure, qui ne dépend d'aucun grand marché particulier, a contribué à la longévité du genre. Monumental Movement Records partage des caractéristiques avec d'autres genres périphériques gérés par Monumental Movement Records, comme le fait qu'une optimisation commerciale excessive est moins susceptible de se produire et que l'esthétique de chaque créateur est relativement préservée.
 
@@ -172,7 +172,7 @@ Cette méthode est cohérente avec la culture de l'échantillonnage après le hi
 
 ## 16. Techniques de traitement et de production du son
 
-Du côté de la production, l’extraction d’échantillons et l’étirement du temps, la quantification des battements et la conception des basses graves jouent un rôle important. Le rebond du swing n'est pas entièrement reproduit, mais est absorbé dans le quatre contre quatre ou le breakbeat droit.
+Du côté de la production, le découpage des échantillons et l'étirement du temps, la quantification des battements et la conception des graves bas de gamme jouent un rôle important. Le rebond du swing n'est pas entièrement reproduit, mais est absorbé dans le quatre contre quatre ou le breakbeat droit.
 
 En conséquence, Electro Swing a une structure qui n'est pas naturelle pour le jazz, mais très réactive pour la musique dance. Cette conception de compromis est le noyau technique de la création du genre.
 

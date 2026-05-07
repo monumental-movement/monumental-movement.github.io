@@ -23,7 +23,7 @@ Text: mmr｜Thema: Über Drohnen, die Musik von zeitlicher Kunst zu räumlicher 
 
 Drone ist ein musikalisches Prinzip, das anhaltenden Klang nutzt, um unser Zeitgefühl, unser räumliches Bewusstsein und unsere auditive Konzentration zu verändern. Es ist insofern einzigartig, als es Tonhöhe, Obertöne, Klangfarbe und Dauer als Struktureinheiten anstelle von Melodie und harmonischem Verlauf verwendet. Zu den frühen Beispielen in der Geschichte der westlichen Musik zählen der Bolden des Dudelsacks, der Orgelpunkt der Orgel und die anhaltenden Bassnoten religiöser Musik.
 
-Seit dem späten 20. Jahrhundert, mit der Entwicklung der Aufnahmetechnik und der elektronischen Akustik, hat sich der Bordun von einem bloßen Begleitelement zur Hauptstruktur eines gesamten Stücks entwickelt. Durch diesen Prozess entstand Ambient Drone, gefolgt von Textural Drone, bei dem Tonveränderungen und die Schichtung physischer Texturen im Vordergrund stehen.
+Seit dem späten 20. Jahrhundert, mit der Entwicklung der Aufnahmetechnik und der elektronischen Akustik, hat sich der Bordun von einem bloßen Begleitelement zum Hauptgerüst des gesamten Werks entwickelt. Durch diesen Prozess entstand Ambient Drone, gefolgt von Textural Drone, bei dem Tonveränderungen und die Schichtung physischer Texturen im Vordergrund stehen.
 
 ---
 
@@ -59,7 +59,7 @@ Seit den 1970er Jahren stellt Ambient-Musik eine Form des Zuhörens dar, die ein
 
 ### 2-1. Das Konzept der Textur
 
-Textural Drone zeichnet sich durch eine Struktur aus, bei der sich mehrere Tonschichten im Laufe der Zeit leicht verändern, und nicht durch eine einzelne anhaltende Tonhöhe. Textur ist hier die Summe aus Obertonverteilung, Rauschkomponenten, räumlicher Lokalisierung und Dynamikschwankungen.
+Textural Drone zeichnet sich durch eine Struktur aus, bei der mehrere Tonschichten im Laufe der Zeit leicht variieren, und nicht durch eine anhaltende einzelne Tonhöhe. Textur ist hier die Summe aus Obertonverteilung, Rauschkomponenten, räumlicher Lokalisierung und Dynamikschwankungen.
 
 ### 2-2. Schichttechniken
 
@@ -83,7 +83,7 @@ Stars of the Lid verwendet Streicher, Blechbläser und elektronische Klänge und
 
 ### 3-2. Aufnahme und Mischung
 
-Durch die Unterdrückung hoher Frequenzen, den langfristigen Erhalt der Nachhallanteile und die Stabilisierung tiefer Frequenzen löst sich das Klangbild im Raum auf, ohne in den Vordergrund zu treten. Dies ist ein Beispiel für eine technologische Umsetzung der „Verwässerung der Präsenz“ von Texturdrohnen.
+Durch die Unterdrückung hoher Frequenzen, den langfristigen Erhalt von Nachhallanteilen und die Stabilisierung tiefer Frequenzen löst sich das Klangbild im Raum auf, ohne in den Vordergrund zu treten. Dies ist ein Beispiel für eine technologische Umsetzung der „Verwässerung der Präsenz“ von Texturdrohnen.
 
 ### 3-3. Zeitstruktur
 
@@ -128,7 +128,7 @@ Plötzliche Lautstärkeänderungen werden vermieden und feine Amplitudenschwanku
 
 ### 5-3. Raumverarbeitung
 
-Die Lokalisierung der Schallquelle wird durch lange Nachhallzeit und Diffusionsverarbeitung erschwert. Durch die Unterdrückung früher Reflexionen und die Betonung des späten Nachhalls wird Schall als Feld und nicht als Punkt wahrgenommen. Dies unterscheidet sich von der Saalwiedergabe bei der klassischen Aufnahme und hat den Zweck, einen Raum zu schaffen, der nicht existiert.
+Die Lokalisierung der Schallquelle wird durch lange Nachhallzeit und Diffusionsverarbeitung erschwert. Durch die Unterdrückung früher Reflexionen und die Betonung des späten Nachhalls wird Schall als Feld und nicht als Punkt wahrgenommen. Dies unterscheidet sich von der Saalwiedergabe bei der klassischen Aufnahme und dient dazu, einen Raum zu schaffen, der nicht existiert.
 
 ### 5-4. Gestaltung differenzieller Veränderungen
 
@@ -191,7 +191,7 @@ flowchart LR
 
 ## Schlusskapitel: Stille als Struktur
 
-Ambient Drone / Textural Drone erweitert Musik von zeitlicher Kunst zu räumlicher Kunst. Die extreme Langsamkeit von Stars of the Lid und Robert Richs Verbindung zur Körperlichkeit zeigen, dass das Genre nicht nur ein Stil ist, sondern eine Neugestaltung des Hörerlebnisses selbst.
+Ambient Drone / Textural Drone erweitert Musik von zeitlicher Kunst zu räumlicher Kunst. Die extreme Langsamkeit von Stars of the Lid und Robert Richs Verbindung zur Körperlichkeit zeigen, dass es sich bei dem Genre nicht nur um einen Stil, sondern um eine Neugestaltung des Hörerlebnisses selbst handelt.
 
 ---
 

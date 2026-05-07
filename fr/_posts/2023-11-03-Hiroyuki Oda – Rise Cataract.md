@@ -18,7 +18,7 @@ est un créateur et animateur de musique de club.
 
 "Rise / Cataract" est un morceau de transe sorti en 2007 par A State Of Trance, un sous-label d'Armada Music dirigé par le DJ/producteur de trance néerlandais Armin van Buuren.
 
-En tant qu'illustrateur, il a illustré le roman léger « My Little Sister Can't Be This Cute » écrit par Tsukasa Fushimi, et en tant que musicien, il a publié de nombreuses œuvres de Sevensenses Recordings et Otographic Music.
+En tant qu'illustrateur, il a illustré des livres tels que le roman léger « My Little Sister Can't Be This Cute » écrit par Tsukasa Fushimi, et en tant que musicien, il a publié de nombreuses œuvres pour Sevensenses Recordings et Otographic Music.
 
 #### Liste des chansons
 ```md

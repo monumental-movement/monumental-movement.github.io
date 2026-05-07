@@ -91,7 +91,7 @@ Laswells größter Wendepunkt in den 1980er Jahren war der Kontakt mit Herbie Ha
 - Etablierung einer Fusion aus Turntablism und Elektro/Jazz
 - Unterstützung der weltweiten Verbreitung der Elektro-Hip-Hop-Kultur
 
-Dieses Werk sei „ein Symbol dafür, die Grenzen zwischen 80er-Jahre-Pop und Underground aufzubrechen“.
+Dieses Werk soll „ein Symbol dafür sein, die Grenzen zwischen 80er-Jahre-Pop und Underground aufzubrechen“.
 
 ---
 
@@ -176,7 +176,7 @@ flowchart TD
 
 ## 8-2. **Interkulturelle Assimilation**
 - Behandeln Sie Jazz, afrikanische Musik, Elektro und Rock als „äquivalente Materialien“
-- Haupt-/Untergrund parallelisieren
+- Parallelisierung von Haupt-/Untergrundsignalen
 
 ## 8-3. **Basis = Strukturgerüst**
 - Drohnenartige Beharrlichkeit

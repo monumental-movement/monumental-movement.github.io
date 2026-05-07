@@ -8,29 +8,29 @@ layout: post
 permalink: /fr/a-hundred-birds-black-water/
 tags:
 - House
-title: Cent oiseaux – Eaux noires
+title: A Hundred Birds – Black Water
 ---
 
 
-A Hundred Birds est un groupe orchestral japonais formé en 1996 autour de DJ YOKU et qui joue de la house music avec un groupe orchestral.
+A Hundred Birds （ア・ハンドレッド・バーズ）は、1996年DJ YOKUを中心として結成された、ハウスミュージックをオーケストラバンド編成で演奏する日本のオーケストラバンド。
 
-"Black Water" est sorti en 2006 sur le label "WAVE MUSIC" dirigé par François Kevorkian (Francois K.).
+ 「Black Water」は、François Kevorkian （フランソワ・K）が主宰するレーベル「WAVE MUSIC」より2006年にリリース。
 
-Membres participants
-・Omae Chizuru
-· Shigeki Tamura
-· Noriaki Yoshida
-· Kazunori Sato
-· Shinobu Kinugawa
-· Terry Forsythe
-· Katsuki Nakajima
-・Tadashi Sato
-·Katsuhiro Idomoto
-· Kazutake Takeuchi
-· Génération Ogimi
-· Kazuhiro Takagi
-· Kazumi Totaka
-· Makoto Dochi, etc.
+参加メンバー
+・大前チズル
+・田村成紀/Shigeki Tamura
+・吉田哲章/Noriaki Yoshida
+・佐藤一紀/Kazunori Sato
+・Shinobu Kinugawa
+・Terry Forsythe
+・Katsuki Nakajima
+・佐藤 禎Tadashi Sato
+・Katsuhiro Idomoto
+・武内 一武/Kazutake Takeuchi
+・大儀見元Ogimi Gen
+・Kazuhiro Takagi
+・戸高一生/Kazumi Totaka 
+・Makoto Dochiなど
 
 #### Liste des chansons
 ```md

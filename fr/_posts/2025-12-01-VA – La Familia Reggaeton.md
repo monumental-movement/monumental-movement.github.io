@@ -14,11 +14,11 @@ title: VA – La Familia Reggaeton
 ---
 
 
-"La Familia Reggaeton", sorti en 2005, est un disque Hip Hop/Reggae dans lequel le groupe de musique noise expérimentale/industrielle SPK (Graeme Revell & Neil Hill) a mixé une chanson du rappeur du Queens N.O.R.E.
+2005年にリリースされた「La Familia Reggaeton 」は、Queens出身のラッパーN.O.R.E.の曲をエクペリメンタル・インダストリアルノイズミュージックグループ SPK(Graeme Revell ＆ Neil Hill)がmixしたHip Hop／Reggaeレコード。
 
-A1 est un morceau mettant en vedette Big Mato, Chingo Bling, Fat Joe, Lumi Dee, Negra, Nina Sky et Pitbull.
+A1は、Big Mato, Chingo Bling, Fat Joe, Lumi Dee, Negra, Nina Sky, Pitbullをフィーチャーしたトラック。
 
-B2 est un morceau mettant en vedette Big Mato, L. Boogs et Manuelito.
+B2は、Big Mato, L. Boogs, Manuelitoをフィーチャーしたトラック。
 
 #### Liste des chansons
 ```md

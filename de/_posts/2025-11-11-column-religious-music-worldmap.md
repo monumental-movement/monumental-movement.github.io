@@ -71,7 +71,7 @@ color: #fff;
 
 | Effekte | Physiologische Wirkungen |
 |------|-------------|
-| Methode des Obertongesangs | Regulieren Sie Ihre Atmung und stabilisieren Sie Ihre Gehirnwellen |
+| Overtone chanting method | Regulieren Sie Ihre Atmung und stabilisieren Sie Ihre Gehirnwellen |
 | Muschelschale/Glocke | Konzentration verbessern |
 | Gruppenerklärung | Sicherheits- und Gemeinschaftsgefühl |
 

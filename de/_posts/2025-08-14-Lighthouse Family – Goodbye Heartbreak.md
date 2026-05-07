@@ -9,13 +9,13 @@ permalink: /de/lighthouse-family-goodbye-heartbreak/
 tags:
 - Downtempo
 - 90s
-title: Leuchtturmfamilie – Auf Wiedersehen Herzschmerz
+title: Lighthouse Family – Goodbye Heartbreak
 ---
 
 
-Lighthouse Family war ein britisches Pop-Soul-Duo, das von Mitte der 1990er bis Anfang der 2000er Jahre aktiv war. Ihr Debütalbum Ocean Drive aus dem Jahr 1995 war nicht nur in Großbritannien, sondern auch in Europa ein Hit.
+Lighthouse Family(ラウトハウスファミリー)は、1990年代半ば〜2000年初頭に活躍したブリティッシュポップソウルデュオ。1995年のデビューアルバム『Ocean Drive』はUKのみならずヨーロッパでもヒットした。
 
-Bei dieser Platte handelt es sich um einen von Linslee Campbell und DJ Barry B remixten Downtempo-Track der Single „Goodbye Heartbreak“ aus dem Album „Ocean Drive“. Ein Promo-Album, das 1996 vom Wildcard-Label veröffentlicht wurde.
+このレコードは、アルバム『Ocean Drive』からのシングルカット「Goodbye Heartbreak」をLinslee Campbell とDJ Barry B がリミックスしたDowntempo トラック。1996年にレーベルWildcardからリリースされたプロモ盤。
 
 
 #### Trackliste

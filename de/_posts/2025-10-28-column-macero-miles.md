@@ -83,13 +83,13 @@ flowchart LR
 
 ## Kapitel 3: „Bitches Brew“ – Der Operationstisch, der Ordnung aus dem Chaos schafft
 
-Mit Bitches Brew aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch mehr.
+Mit „Bitches Brew“ aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch weiter.
 Mehr als sechs Tonbandgeräte liefen gleichzeitig, sodass das Studio wie ein Labor wirkte.
 
-Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer Flut fragmentierter Improvisationen führt.
+Kein Interpret hat ein gemeinsames Thema, was zu einer Flut fragmentierter Improvisationen führt.
 Macero fügte diese Fragmente zu Einheiten von mehreren Metern zusammen und gestaltete durch Bearbeitung den rhythmischen Fluss und den akustischen „Ort“.
 
-> „Ich habe Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
+> „Ich habe die Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
 > — Teo Macero
 
 Seine Methode ähnelte der Musique Concrète, war aber auch mit der freien Improvisation des Jazz verbunden.
@@ -247,7 +247,7 @@ Besonders beim Vergleich von „In a Silent Way“ und „Bitches Brew“ erkenn
 | Bearbeitungsmethode | Nehmen Sie Umkehr/Schleife | Spleiß + Mehrschichtanordnung |
 | Akustische Empfindung | Flüssig und meditativ | Dicht und explosiv |
 | Stereoraum | Betonung der Geräumigkeit (Links- und Rechtstrennung) | Schwerpunkt auf Dichte (Zentrumskonzentration) |
-| Rhythmus aufbauen | Den Groove durch Schnitt betonen | Konfliktgestaltung mit Bearbeitung |
+| Rhythmus aufbauen | Mit der Bearbeitung den Groove betonen | Konfliktgestaltung mit Bearbeitung |
 | Zweck | „Zeitlosen“ Klang erzeugen | Aufbau einer „Ordnung des Chaos“ |
 
 Diese akustischen Designs waren auch das Ergebnis der Ausnutzung der damaligen Einschränkungen der analogen Technologie.
@@ -281,7 +281,7 @@ graph LR
 
 → Konzentrieren Sie sich auf die „Tiefenachse“ und nicht auf Stereo links und rechts.
 
-Man kann sagen, dass Maceros Tonbearbeitung bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
+Man kann sagen, dass Maceros bearbeiteter Sound bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
 
 ---
 
@@ -387,8 +387,8 @@ flowchart LR
 | ------ | --------- | -------------------------- |
 | Spleiß ① | Erzwungener Übergang vom Drum/Bass-Layer zum Trompetensolo | So schneiden, dass es wie eine „spontane“ Komposition aussieht |
 | Spleiß ② | Verbindung der Sitzungen B und C (Tempoinkongruenz) | Hörverwirrung → Trance-Effekt |
-| Spleiß ③ | Übereinanderlegen verschiedener Rhythmusebenen | Mehrschichtige Rillen |
-| Spleiß ④ | Rekursives Einfügen eines Themas | Strukturelle Zirkularisierung (In a Silent Way-Technik) |
+| Spleiß ③ | Überlagerung verschiedener Rhythmusebenen | Mehrschichtige Rillen |
+| Spleißen ④ | Rekursives Einfügen eines Themas | Strukturelle Zirkularisierung (In a Silent Way-Technik) |
 
 
 ---
@@ -409,7 +409,7 @@ graph TD
 </div>
 
 Diese „bearbeitete Partitur“ enthält die Zeit, das Tempo und den Quell-Take jedes Segments.
-Macero nannte es die „Landkarte des Klangs“.
+Macero nannte es die „Karte des Klangs“.
 Man kann sagen, dass sie der später von Brian Eno vertretenen „Studiokompositionsmethode“ vorausging.
 
 ---

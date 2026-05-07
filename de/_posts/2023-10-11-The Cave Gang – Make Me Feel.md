@@ -9,12 +9,12 @@ permalink: /de/the-cave-gang-make-me-feel/
 tags:
 - Italo
 - Hyper Techno
-title: The Cave Gang – Gib mir das Gefühl
+title: The Cave Gang – Make Me Feel
 ---
 
 
-„Make Me Feel“ ist
-Dies ist eine EP von The Cave Gang, einer Gruppe bestehend aus Elena Gobbi Frattini und Fausto Guio, die 1994 auf dem italienischen Label „Volume“ veröffentlicht wurde.
+「Make Me Feel」は、
+1994年にイタリアのレーベル「Volume」からリリースされたElena Gobbi FrattiniとFausto GuioによるユニットThe Cave GangのEPです。
 
 #### Trackliste
 ```md

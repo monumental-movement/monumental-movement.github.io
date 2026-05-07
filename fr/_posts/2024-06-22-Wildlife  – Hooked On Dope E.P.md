@@ -11,15 +11,15 @@ tags:
 - House
 - UK House
 - 90s
-title: Faune – Hooked On Dope E.P.
+title: Wildlife  – Hooked On Dope E.P.
 ---
 
 
-Seb Fontaine, également connu sous le nom de Wildlife, est un DJ et producteur britannique. Il a été DJ résident dans des lieux tels que The Fridge et Cream et a sorti de nombreux albums mix.
+WildlifeことSeb Fontaineは、UK出身のDJ・プロデューサー。The Fridgeや CreamなどでレジデントDJを務め、ミックスアルバムを多数リリースしている。
 
-"Hooked On Dope EP" est un morceau breakbeat house sorti en 1992 par Spot On Records, un label dirigé par Seb Fontaine et Julian Peake.
+「Hooked On Dope E.P.」は、Seb FontaineとJulian Peakeが運営するレーベルSpot On Recordsから1992年にリリースされたブレイクビーツ・ハウストラック。
 
-Le premier morceau de la face A, "Dope Jazz" et le deuxième morceau, "Smells Like Dope", ont été inclus dans la mixtape break classique de DJ Dan "San Francisco Project 2 - Tribute To James Brown / The Scratch - The Bass" sortie en 1993.
+A面１曲目「Dope Jazz」と２曲目「Smells Like Dope」は、1993年にリリースされたDJ Danのクラシックブレイクミックステープ「San Francisco Project 2 - Tribute To James Brown / The Scratch - The Bass」に収録されている。
 
 #### Liste des chansons
 ```md

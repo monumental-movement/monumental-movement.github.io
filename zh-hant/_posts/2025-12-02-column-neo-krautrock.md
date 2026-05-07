@@ -21,7 +21,7 @@ title: 【專欄】Neo-Krautrock：經典Krautrock的現代重新詮釋
 
 文：mmr｜主題：Krautrock 的歷史、Neo-Krautrock 的誕生、主要藝術家的音樂方法、專輯/歌曲分析、實例
 
-新德國菜搖滾是一種用現代方法重新詮釋德國菜搖滾的音樂流派，德國菜搖滾於 1960 年代末和 1970 年代起源於德國。 Krautrock 的**重複節奏（Motorik 節拍）**、**電聲學**和**實驗精神**等標誌已被 Tropic of Cancer 和 Panda Lux 等當代藝術家以新的形式複興，提供了多層次的空間聲音體驗。
+新德國菜搖滾是一種用現代方法重新詮釋德國菜搖滾的音樂流派，德國菜搖滾於 1960 年代末和 1970 年代起源於德國。 Krautrock 的**重複節奏（Motorik 節拍）**、**電聲學**和**實驗精神**等標誌已被 Tropic of Cancer 和 Panda Lux 等當代藝術家以新的形式復活，提供了多層次的空間聲音體驗。
 
 
 ---
@@ -42,7 +42,7 @@ color: #fff;
 
 ## 一、泡菜石的由來及特點
 
-1960年代末的西德，戰後世代的年輕人在探索自己獨特的音樂文化的同時，仍然受到美國和英國搖滾和爵士樂的影響。 Krautrock 是一種在反覆試驗中誕生的流派，具有以下特點：
+1960年代末的西德，戰後一代的年輕人在探索自己獨特的音樂文化的同時，仍然受到美國和英國搖滾和爵士樂的影響。 Krautrock 是一種在反覆試驗中誕生的流派，具有以下特點：
 
 - **追求重複的節奏**：Neu! 的「Motorikbeat」尤其具有標誌性。透過機械地重複 4/4 的鼓聲，創造出一種恍惚和冥想的感覺。
 - **電子聲音實驗**：像 Kraftwerk 和 Tangerine Dream 一樣，他們充分利用了類比合成器。
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-## 2. Neo-Krautrockの誕生
+## 2. 新德國搖滾的誕生
 
 自1990年代以來，德國泡菜搖滾被重新評估，繼承其美學的藝術家也不斷湧現。特別是自 2000 年代以來，出現了一場利用現代技術重建經典德國泡菜搖滾的節奏、電子聲音和重複結構的積極運動。
 
@@ -78,10 +78,10 @@ flowchart TD
 主要藝術家：
 
 - **北迴歸線**
-  - 經典 Motorik 節拍和環境聲音的融合。
+  - クラシックMotorikビートとアンビエントサウンドを融合。  
   - 專輯《Modern Rituals》將重複的節奏和微妙的電子噪音分層，形成了一個冥想的聲音空間。
 
-- **熊貓力士**
+- **Panda Lux**  
   - 一個將電子聲音與吉他循環結合的獨特世界。
   - 專輯《Electric Forest》將保留現場感覺的模擬感覺與數位處理相結合。
 
@@ -99,7 +99,7 @@ flowchart LR
 
 ### 3.1 節奏
 
-Neo-Krautrock 基於經典的 Krautrock Motorik 節拍，但使用了多種節奏技巧：
+Neo-Krautrockでは古典クラウトロックのMotorikビートを基礎としつつ、多様なリズム手法が用いられます：
 
 - **BPM 更改**：在現場表演期間巧妙地改變節奏，為每首歌曲營造動態的感覺。
 - **多重節奏**：透過鼓機+現場鼓的雙重結構創造複雜性。
@@ -161,7 +161,7 @@ timeline
 Neo-Krautrock 不僅僅是重新發行，它還影響著當代音樂：
 
 - **鎖定後**：引入重複結構和空間表達。
-- **Electronica**：一種結合類比和數位聲音來源的方法。
+- **エレクトロニカ**：アナログ＋デジタル音源を組み合わせる手法。
 - **獨立搖滾**：繼承獨立製作和現場表演的精神。
 - **現場表現多樣化**：與視訊、燈光結合的多媒體現場表演也呈現上升趨勢。
 
@@ -191,4 +191,10 @@ Neo-Krautrock 將 Krautrock 精神帶回 21 世紀，成為連結過去與未來
 
 ---
 
+### YouTube 播客
 
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dv_DTaRX9kE?si=CJx9r1V1kgR-qCUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

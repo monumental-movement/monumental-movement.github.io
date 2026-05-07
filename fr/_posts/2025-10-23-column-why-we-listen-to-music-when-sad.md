@@ -9,7 +9,7 @@ permalink: /fr/column-why-we-listen-to-music-when-sad/
 tags:
 - Neuroscience
 - Emotion
-title: '[Chronique] Pourquoi les gens écoutent-ils de la musique quand ils sont tristes
+title: '[Chronique] Pourquoi les gens écoutent de la musique quand ils sont tristes
   ? Le son comme empathie, mémoire et réglage neuronal'
 ---
 
@@ -157,7 +157,7 @@ Il a été scientifiquement prouvé que la musique a un impact sur la récupéra
 
 - Stabilité de la variabilité de la fréquence cardiaque (VRC)
 
-- Externalisation des émotions difficiles à verbaliser
+- Externalisation d'émotions difficiles à verbaliser
 
 La musique est un « bouton de réinitialisation de l’esprit » et en même temps,
 C’est aussi un « traducteur » d’émotions.

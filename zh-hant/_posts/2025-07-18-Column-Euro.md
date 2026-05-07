@@ -101,7 +101,7 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 ● [基地王牌 – 「標誌」 (1993)](https://amzn.to/4mXEhGp)
 
-瑞典流行樂團。連續 100 年在 Billboard Hot 100 排行榜上排名第一。
+瑞典流行樂團。连续 100 年在 Billboard Hot 100 排行榜上排名第一。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -196,10 +196,10 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 ### 歐洲音樂是“無國界的快樂”
 
-20 世紀 90 年代的歐洲音樂是一種將舞蹈、快樂和旋律變成一種國際語言的現象，而不是歌詞或政治。
+1990 年代的歐洲音樂是一種將舞蹈、快樂和旋律變成一種國際語言的現象，而不是歌詞或政治。
 這種輕盈成為一種武器，使他能夠超越流派界限和價值觀。
 
-現在，歐元的「天真的熱度」可能再次向我們提出了一個超越類型和世代的問題。
+現在，歐元的「天真熱度」可能再次向我們提出了一個超越類型和世代的問題。
 
 對你來說是懷舊還是新鮮感？
 

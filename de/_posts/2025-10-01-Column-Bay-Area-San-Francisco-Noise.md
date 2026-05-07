@@ -11,17 +11,18 @@ tags:
 - Experimental
 - 80s
 - 90s
-title: 【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史
+title: '[Spalte] Bay Area Noise/Experimentelle Musikszene – 50 Jahre Zerstörung und
+  Resonanz'
 ---
 
 
-## ベイエリアで何が起きたか？
+## Was ist in der Bay Area passiert?
 
-文：mmr｜テーマ：機械とコラージュ、即興の交差点──ベイエリアで育まれたノイズ／実験音楽の歴史とおすすめディスコグラフィ
+Text: mmr｜Thema: Die Schnittstelle von Maschinen, Collage und Improvisation – die Geschichte und empfohlene Diskographie der in der Bay Area gepflegten Noise-/Experimentalmusik
 
 
 
-サンフランシスコとオークランドを中心とするベイエリアは、サブカルチャーの実験場であり、ノイズ／実験音楽にとって特異な「実作の場」を提供してきました。1970〜80年代のDIY精神、機械と音響の暴力性を前景化したパフォーマンス・アート（例：Survival Research Laboratories）や、テープコラージュ／サンプリング文化をポピュラーレベルに押し上げたグループ（例：Negativland）など、舞台も手法も多様です。これらの活動はライブハウスやアートスペース、カセット/インディーレーベル、そして後のフェスティバル文化へと接続していきます。
+Die Bay Area mit ihren Zentren rund um San Francisco und Oakland ist ein subkulturelles Testgelände und bietet einen einzigartigen „Ort für die tatsächliche Produktion“ von Noise-/experimenteller Musik. Die Bühnen und Methoden sind vielfältig, etwa Performance-Kunst, die den DIY-Geist der 1970er und 1980er Jahre und die Gewalt von Maschinen und Geräuschen in den Vordergrund stellte (z. B. Survival Research Laboratories), und Gruppen, die die Tonbandcollagen-/Sampling-Kultur auf ein populäres Niveau brachten (z. B. Negativland). Diese Aktivitäten führten zu Live-Häusern, Kunsträumen, Kassetten-/Indie-Labels und später zur Festivalkultur.
 
 ---
 

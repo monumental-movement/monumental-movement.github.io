@@ -12,13 +12,13 @@ tags:
 - Italy
 - Movie
 - 90s
-title: Ennio Morricone – Nuovo Cinema Paradiso (Musica Originale Del Film)
+title: Ennio Morricone –  Nuovo Cinema Paradiso (Musica Originale Del Film)
 ---
 
 
-Soundtrack für den Film „New Cinema Paradise“ aus dem Jahr 1989, komponiert vom italienischen Komponisten Ennio Morricone. Die CD, die Ennio Morricone berühmt machte.
+イタリア出身の作曲家Ennio Morricone（エンニオモリコーネ）が担当した1989年の映画「ニューシネマパラダイス」のサウンドトラック。エンニオ・モリコーネの名を一躍有名にしたCD。
 
-Ennio Morricone gewann den Oscar für die beste Originalmusik bei der 88. Oscarverleihung für seine Filmmusik für den Film „The Hateful Eight“, geschrieben und inszeniert von Quentin Tarantino.
+エンニオ・モリコーネは、クエンティン・タランティーノ脚本・監督の映画「ヘイトフル・エイト」の音楽で、第88回アカデミー賞作曲賞を受賞した。
 
 #### Trackliste
 ```md

@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Sur l’évolution de la musique de restauration rapide e
 La musique du restaurant de hamburgers n'est pas seulement une chanson commerciale, mais un « portrait sonore de l'époque ».
 Quelles valeurs la société recherchait et à quel rythme elle vivait - tout cela est condensé dans un jingle et un logo sonore de 15 secondes.
 
-La pop familiale optimiste de McDonald's, les riffs de guitare rebelles de Burger King et les sons de ukulélé fabriqués à la main de Mos Burger.
+La pop familiale optimiste de McDonald's, les riffs de guitare rebelles de Burger King et la chaleur artisanale du ukulélé de Mos Burger.
 Plutôt que des publicités d’entreprise, ce sont les « souvenirs sonores de l’époque ».
 
 ---
@@ -44,7 +44,7 @@ color: #fff;
 
 ## Chapitre 1 Le rêve américain et la naissance de la musique fast food (années 1970-1980)
 
-### 1-1 Chanter « hamburger = bonheur » : la première publicité de McDonald's
+### 1-1 Chanter « hamburger = bonheur » : la première publicité de McDonald's
 "You Deserve a Break Today" a été produit en 1971 par l'agence de publicité américaine **DDB (Doyle Dane Bernbach)**.
 Composé par Sid Woloshin, paroles de Dan Kallis.
 Il avait une sensation édifiante semblable à une comédie musicale et symbolisait McDonald's comme une « guérison » dans une société de consommation.
@@ -58,7 +58,7 @@ C’était la première fois que les publicités de restauration rapide entraien
 "Menu Song" de 1979 consistait en une narration de style funk et rap et était un précurseur des publicités hip-hop ultérieures.
 
 ### 1-3　Stratégie musicale après l'atterrissage au Japon : introduction de la pop urbaine
-La série « Rendons-nous chez McDonald's » de 1983 a été composée par le compositeur **Kazuo Otani**.
+La série "Rendons-nous chez McDonald's" de 1983 a été composée par le compositeur **Kazuo Otani**.
 Caractérisé par des progressions d'accords de type AOR et des sonorités Fender Rhodes, il était exprimé comme « la vie américaine = le désir de la ville ».
 
 ---
@@ -99,17 +99,17 @@ Une fusion de l'entrée numérique et de la production vidéo.
 
 ### 4-2 Freshness Burger : Connexion avec la culture du café
 **Toru Hashimoto (SUBURBIA)** supervise le magasin BGM.
-Introduction précoce du concept de « musique soutenant le goût ».
+Introduction précoce du concept de « musique qui soutient le goût ».
 
 ---
 
 ## Chapitre 5 Redéfinir l'ère numérique : « Le pouvoir de la marque sonore » véhiculé en 5 secondes (années 2010-2020)
 
 ### 5-1 Reconstruction du logo sonore
-- McDonald's : Jingle pentatonique universel (supervisé par Pharrell, Hiroshi Kawabe)
+- McDonald's : Jingle pentatonique universel (supervisé par Pharrell et Hiroshi Kawabe)
 - Changer le tempo/l'arrangement des touches pour chaque pays
 
-### 5-2 Tendances dans la collaboration SNS x artistes
+### 5-2　Tendance de la collaboration SNS x artistes
 
 | Année | Marque | Artiste | Titre/caractéristiques de la chanson |
 |----|------------|----------------|-------------|

@@ -12,13 +12,13 @@ tags:
 - Blues
 - 70s
 - Rare
-title: Ike et Tina Turner – Le chasseur
+title: Ike & Tina Turner – The Hunter
 ---
 
 
-Ike et Tina Turner étaient un duo américain R&B/soul actif dans les années 1960 et 1970. Il a travaillé sur un large éventail de styles musicaux, notamment le rock, la soul, le blues, le funk et le funk rock.
+Ike & Tina Turner（アイク&ティナ・ターナー）は、1960年代から1970年代にかけて活躍したUSのR&B・ソウルデュオ。ロック、ソウル、ブルース、ファンク、ファンクロックなど幅広い音楽スタイルを手がけた。
 
-L'album « The Hunter » sorti en 1969 est l'un des albums les plus orientés blues mettant en vedette le guitariste de blues électrique Albert Collins. La chanson titre "The Hunter" est une reprise d'Albert King. Cette chanson a valu à Tina Turner sa première nomination solo dans la catégorie Meilleure performance vocale féminine R&B lors de la 12e édition des Grammy Awards.
+1969年にリリースしたアルバム「The Hunter」は、エレクトリックブルースギタリストのAlbert Collins（アルバートコリンズ）をフィーチャーした最もブルース志向の強いアルバムの1つ。タイトル曲「The Hunter」はAlbert King（アルバート・キング）のカバー。この曲でTina Turnerは第12回グラミー賞で最優秀R&B女性ボーカルパフォーマンス部門にソロとして初めてノミネートされた。
 
 #### Liste des chansons
 ```md

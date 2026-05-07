@@ -111,7 +111,7 @@ La culture du streaming en direct, qui s'est répandue en raison de la pandémie
 
 L'« Utopia Experience » de Travis Scott en 2024 combinait un lieu réel et une projection AR pour créer une « expérience en direct que le public peut vivre spatialement ».
 Au Japon, Perfume a également intégré la production AR pour montrer aux fans une « scène de réalité alternative » via leurs smartphones.
-La valeur d'un spectacle live s'est déplacée vers la capacité à concevoir les « souvenirs du lieu » et les « moments partagés ».
+La valeur d'une performance live s'est déplacée vers la mesure dans laquelle vous pouvez concevoir les « souvenirs du lieu » et les « moments partagés ».
 
 #### La communauté à l'ère du Fan Direct
 
@@ -128,7 +128,7 @@ La caractéristique de 2025 est la coexistence du calme (Minimal) et de la densi
 
 #### « Club tranquille » et « electronica introspective »
 
-La popularité des « grooves lents » comme l'Afro House et l'Amapiano symbolise une époque où la danse peut aussi être « introspection ».
+La popularité des « slow grooves » comme l'Afro House et l'Amapiano symbolise une époque où la danse peut aussi être « introspection ».
 Des sets de 100 à 110 BPM deviennent la norme dans les clubs de Berlin et de Séoul, créant un espace où l'on peut « réfléchir en dansant ».
 Au Japon, les festivals gastronomiques, alias foodman et yahyel, explorent la « musique de club tranquille ».
 

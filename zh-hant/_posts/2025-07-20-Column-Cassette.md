@@ -54,7 +54,7 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 - 普通（I 型）膠帶的標準化
 
-- 手提式錄音機的普及催生了「Walkman」文化
+- ポータブルデッキの普及で「ウォークマン」文化の胎動
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -170,7 +170,7 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 <小時>
 
-### カセットテープの利点と欠点
+### 盒式磁帶的優點和缺點
 
 
 <小時>
@@ -190,11 +190,11 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 #### 缺點
 
-- テープ摩耗による音質劣化・消耗品であること
+- 由於磁帶磨損，音質會下降，並且是消耗品。
 
 - 由於磁頭污垢或設備調整而導致音質波動
 
-- 無需倒帶或快轉磁帶
+- テープの巻き戻しや早送りの手間
 
 - 與 CD 和數位音源相比，頻帶和信噪比較差
 

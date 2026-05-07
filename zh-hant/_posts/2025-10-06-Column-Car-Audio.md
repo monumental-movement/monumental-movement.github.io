@@ -63,7 +63,7 @@ color: #fff;
 
 ### 日產/英菲尼迪
 
-- **代表モデル**：インフィニティQX80（Bose 16スピーカーシステム）  
+- **代表車型**：InfinitiQX80（Bose 16揚聲器系統）
 - **技術**：為了優化車內音響效果，與 BOSE 合作分析和調整了揚聲器放置和材料反射。
 
 ---
@@ -90,7 +90,7 @@ color: #fff;
 ### 梅賽德斯·奔馳
 
 - **代表型號**：S級（Burmester 3D環繞，最多23個揚聲器，1,500W）
-- **技術**：車内各位置で均一な音響特性を再現するため、DSPで最適化  
+- **技術**：透過 DSP 進行最佳化，在車內每個位置再現均勻的聲學特性
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMQnxK2CLgQ?si=--nEKP_C-P9mTh_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ color: #fff;
 ### 寶馬
 
 - **代表型號**：7 系列（Bang & Olufsen 16 個揚聲器，1,400W）
-- **技術**：ドライバー中心の音場設計、車両速度に応じた音量補正  
+- **技術**：以駕駛為中心的音場設計，依照車速修正音量
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUaHmJV97BM?si=S8_fw0fSIAqal-jG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -107,14 +107,14 @@ color: #fff;
 
 ### 奧迪
 
-- **代表モデル**：A8（Bang & Olufsen Advanced Sound System、19スピーカー、1,650W）  
+- **代表型號**：A8（Bang & Olufsen 高級音響系統，19 個揚聲器，1,650W）
 - **技術**：利用多通道DSP實現三維聲音再現
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## アメリカン・サウンドの迫力
+## 美國聲音的力量
 
 ### 福特/雪佛蘭
 
@@ -134,12 +134,12 @@ color: #fff;
 
 ### 克萊斯勒/吉普車
 
-- **代表型號**：Wrangler（Alpine 9揚聲器，480W）
-- **技術**：即使在室外噪音下也能保持音質的調整
+- **代表モデル**：ラングラー（Alpine 9スピーカー、480W）  
+- **技術**：屋外騒音下でも音質を保つ調整  
 
 ---
 
-## 義大利和法國汽車中獨特的音樂體驗
+## イタリア・フランス車の個性派音楽体験
 
 ### 法拉利/蘭博基尼
 
@@ -152,8 +152,8 @@ color: #fff;
 
 ### 瑪莎拉蒂/阿爾法羅密歐
 
-- **代表型號**：Ghibli（Bowers & Wilkins 15 個揚聲器，1,170W）
-- **技術**：採用 Nautilus 高音揚聲器實現高清聲音再現
+- **代表モデル**：ギブリ（Bowers & Wilkins 15スピーカー、1,170W）  
+- **技術**：Nautilusツイーターで高精細音再現  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -267,7 +267,7 @@ Tesla 的 DSP 控制連接電訊號和情緒。
 汽車音響開始扮演新的角色。
 它是一個“移動的聽音室”和“個人聲學宇宙”。
 世界各地的製造商不再追求馬力或安靜；
-**「跑步時能聽到什麼樣的聲音？」**這是新的經驗值。
+**「跑步時你能聽到什麼樣的聲音？」**這是一個新的經驗值。
 
 汽車音響從未停止發展。
 聲學設計經過AI修正，座椅變成共鳴板，根據駕駛者的心跳和心情改變聲場。

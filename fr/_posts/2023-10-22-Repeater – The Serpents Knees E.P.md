@@ -9,11 +9,11 @@ permalink: /fr/repeater-the-serpents-knees-e-p/
 tags:
 - Techno
 - Acid
-title: Répéteur – The Serpents Knees E.P
+title: Repeater – The Serpents Knees E.P
 ---
 
 
-Repeater est une unité acid techno composée d'Alan Woodburn et Harold Walker. "The Serpents Knees E.P" est sorti par le label britannique de trance acide Filterless.
+Repeater（リピーター）は、Alan WoodburnとHarold Walkerによるアシッドテクノユニット。「The Serpents Knees E.P」は、UKのアシッドトランスレーベル Filterlessよりリリース。
 
 #### Liste des chansons
 ```md

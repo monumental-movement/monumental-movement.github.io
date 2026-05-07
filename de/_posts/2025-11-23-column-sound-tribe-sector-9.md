@@ -168,7 +168,7 @@ Bei den Live-Arrangements gab es viele Versuche, vergangene Songs im EDM-Stil zu
 
 ## 5-3. Aktueller STS9
 
-In den 2020er Jahren behauptete STS9 eine feste Position als Festival-Headliner, veranstaltete gleichzeitig seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine gemeinschaftsähnlichen Aktivitäten.
+In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner behauptet, veranstaltete aber auch seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine Community-ähnlichen Aktivitäten.
 
 ---
 
@@ -197,7 +197,7 @@ Dies gewährleistet auch bei Live-Auftritten eine **akustische Dichte** und erze
 
 ---
 
-# 7. Die Live-Philosophie von STS9: Set-Struktur, Beleuchtung, Community
+# 7. Die Live-Philosophie von STS9: Set-Struktur, Beleuchtung, Gemeinschaft
 ## 7-1. Strukturierung der Setlist
 STS9 ändert ihre Setlist bei jeder Tour,
 - Opener (Weltanschauungspräsentation)
@@ -216,7 +216,7 @@ Während der Nachtvorstellung des Festivals fungiert die Beleuchtung selbst als 
 ## 7-3. Gemeinschaftskultur
 
 STS9-Fans sind stark gemeinschaftsorientiert, was typisch für die Jam-Band-Szene ist.
-Es gibt auch viele „reisende Fans“, die die Tour verfolgen.
+Es gibt auch viele „Reisefans“, die die Tour verfolgen.
 
 ---
 
@@ -280,7 +280,7 @@ Die Live-Shows von STS9 passen gut zu Festivals.
 - Bonnaroo
 - Elektrischer Wald
 - Suwannee Hulaween
-Ihre „Late Night Sets“ auf großen Festivals wie „Late Night“ sind legendär.
+Ihre „Late-Night-Sets“ auf großen Festivals wie „Late Night“ sind legendär.
 
 ## 11-3. Pionierbeispiele von Community-Künstlern
 
@@ -298,7 +298,7 @@ Er ist eine seltene Person, die dies seit über 20 Jahren fortsetzt.
 Die Musik ist nie nur mit aufgenommenen Werken vollständig,
 Es wird ständig mit dem „Hier und Jetzt“-Erlebnis einer Live-Aufführung aktualisiert.
 
-Ihre Schritte sind
+ihre Schritte sind
 ** „Wie nah kann eine Live-Band an elektronische Musik herankommen?“
 „Inwieweit kann elektronische Musik die Dynamik von Live-Musik einfangen?“**
 Es ist ein fortlaufendes Experiment zur Beantwortung dieser Frage und kann als eines der Symbole der Musikkultur des 21. Jahrhunderts selbst bezeichnet werden.

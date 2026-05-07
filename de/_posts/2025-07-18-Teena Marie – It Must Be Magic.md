@@ -11,14 +11,14 @@ tags:
 - Funk
 - Disco
 - 80s
-title: Teena Marie – Es muss Magie sein
+title: Teena Marie – It Must Be Magic
 ---
 
 
-Teena Marie, auch bekannt als Lady T, ist eine amerikanische Soul- und R&B-Sängerin. Sie hat einen einzigartigen und gefühlvollen Sopran-Gesangsstil.
+Lady T(レディT)の愛称で知られるTeena Marie(ティーナ・マリー)はアメリカのソウルとR&Bのシンガー。ユニークでソウルフルなソプラノヴォーカルスタイルが特徴。
 
-„It Must Be Magic“ erschien 1981 und war Teena Maries viertes Studioalbum und ihr letztes bei Motown. Es enthält den Hit „Square Biz“.
-Diese Platte wurde auf Motowns Sublabel Gordy veröffentlicht.
+1981年にリリースされた「It Must Be Magic」は、Teena Marieの4枚目のスタジオアルバムであり、モータウンでの最後のアルバムとなった。ヒット曲Square Bizが収録されている。
+このレコードはMotownのサブレーベルGordyからのリリース盤。
 
 #### Trackliste
 ```md

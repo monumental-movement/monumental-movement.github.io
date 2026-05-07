@@ -142,7 +142,7 @@ flowchart TD
 ### 3-3. Référence
 
 * L'accent est mis sur "l'interverrouillage avec le tambour"
-* Utilisation intensive du coulisseau, du martelage/tirage
+* Utilisation intensive du coulissement, du martelage/tirage
 * Principalement des sons de basse électrique Fender
 * Approche mélodique (par exemple Thundercat)
 
@@ -261,7 +261,7 @@ flowchart TD
 ### 6-3. Partage international via Internet
 
 * La culture du groupe se propage via YouTube, Bandcamp, etc.
-* La diffusion des DAW et de l'enregistrement à domicile a permis de partager la production au-delà des frontières.
+* La diffusion des DAW et de l'enregistrement à domicile a rendu possible le partage de la production au-delà des frontières.
 
 ---
 

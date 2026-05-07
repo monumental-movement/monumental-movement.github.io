@@ -64,7 +64,7 @@ graph TD
 
 Dans les années 1990, des modules hybrides analogiques/numériques de Roland, Korg, Doepfer et d'autres sont apparus, abaissant les barrières liées à l'utilisation de synthétiseurs modulaires et permettant à de nombreux artistes de créer des sons expérimentaux dans leurs home studios ou leurs petits clubs.
 
-Depuis 1995 notamment, le standard Eurorack proposé par Doepfer a rendu les modules compatibles et compacts, facilitant ainsi la construction d'ensembles modulaires par les particuliers. Cela conduit directement à l’expansion de la scène Modular Techno à partir des années 2000.
+Surtout depuis 1995, le standard Eurorack proposé par Doepfer a rendu les modules compatibles et compacts, facilitant ainsi la construction d'ensembles modulaires par les particuliers. Cela conduit directement à l’expansion de la scène Modular Techno à partir des années 2000.
 
 <div class="mermaid">
 timeline
@@ -108,7 +108,7 @@ Surgeon, d'origine britannique, est connu comme l'un des premiers artistes à in
 
 Richie Hawtin, profondément impliqué dans la techno de Détroit et la techno minimale, a également incorporé des synthés modulaires dans ses performances depuis les années 2010. Son set est un composite de mixeurs, d'effets, d'ordinateurs et de modules Eurorack, et en manipulant finement la dynamique sonore, il crée une structure plus fluide que la techno minimale traditionnelle.
 
-##SNTS
+## SNTS
 
 SNTS, connu comme un artiste très anonyme, est fortement présent dans les domaines de la dark techno et de la techno industrielle. Dans son live, il exploite pleinement la saturation analogique, les modules de distorsion, les sources de bruit, etc. pour créer un espace acoustique tridimensionnel et violent. Ce son a gagné de nombreux adeptes et a eu une forte influence sur la texture des lignes de basse et des kicks.
 
@@ -261,7 +261,7 @@ timeline
 
 # Critique/Réception des médias
 
-Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à s'intéresser à sa sophistication sonore.
+Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à prêter attention à sa sophistication sonore.
 
 - Dans les critiques, l'image sonore complexe et tridimensionnelle unique de Modular a reçu de nombreux éloges.
 - Dans le reportage en direct, la performance improvisée et physique a été mise en avant.
@@ -276,7 +276,7 @@ Le passage de la « reproduction de piste » à la « génération sonore » a �
 La Techno Modulaire devrait continuer à évoluer et plusieurs directions sont attendues.
 
 ## 1. Sophistication du module numérique
-Les progrès de la technologie DSP ont conduit à une augmentation du nombre de modules numériques équipés de modélisation physique, de synthèse de particules et d'algorithmes FM complexes. Cela permet de gérer en temps réel des expressions acoustiques qui étaient auparavant impossibles.
+Les progrès de la technologie DSP ont conduit à une augmentation du nombre de modules numériques équipés de modélisation physique, de synthèse de particules et d'algorithmes FM complexes. Cela permet de gérer en temps réel des expressions acoustiques auparavant impossibles.
 
 ##2. Généralisation du live hybride
 La configuration modulaire + PC (Ableton, Bitwig) + boîte à rythmes deviendra encore plus courante et les frontières entre les sets de club traditionnels et les performances live deviendront floues.
@@ -301,6 +301,15 @@ La Techno Modulaire est un genre extrêmement unique et innovant formé par l'in
 
 ---
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbEiN4noB24?si=r0UPXvEOLmhojRgK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # Liste détaillée des équipements (modules Modular Techno fréquemment utilisés)
 
 Ce qui suit est une compilation de catégories d'équipements souvent utilisées par de véritables artistes de Modular Techno, avec un accent sur Eurorack.
@@ -311,7 +320,7 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 - Instruments mutables – Tresses
 - Erica Synths – VCO graphique
 - Verbos Electronics – Oscillateur complexe
-- Tiptop Audio-Z3000
+- Tiptop Audio – Z3000
 
 ## VCF (filtre)
 - Doepfer – Filtre à guêpes A-124
@@ -335,12 +344,12 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 - Ingénierie du bruit – Digitale mimétique (CV aléatoire)
 
 ## Module batterie et percussions
-- Erica Synths – Série Bassline / Drum
+- Erica Synths – Série Bassline/Drum
 - Ingénierie du bruit – Basimilus Iteritas Alter (BIA)
 - Tiptop Audio – Série de batterie 808/909
 -Jomox-ModBase 09
 
-## Effets (Délai / Réverbération / Distorsion)
+## Effets (Delay / Reverb / Distorsion)
 - Strymon – Magnéto
 - Erica Synths – Trou noir DSP
 - Ingénierie du bruit – Desmodus Versio

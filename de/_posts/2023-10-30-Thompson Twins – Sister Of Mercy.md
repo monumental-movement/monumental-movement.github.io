@@ -9,11 +9,11 @@ permalink: /de/thompson-twins-sister-of-mercy/
 tags:
 - Pops
 - Synth-Pop
-title: Thompson Twins – Schwester der Barmherzigkeit
+title: Thompson Twins – Sister Of Mercy
 ---
 
 
-Thompson Twins ist eine britische Popband, die 1977 gegründet wurde. Ursprünglich als siebenköpfige Band gegründet, wurde sie 1982 zu einer dreiköpfigen Band, bestehend aus Tom Bailey, Joe Leeway und Alana Curry.
+Thompson Twins(トンプソン・ツインズ)は、1977年に結成されたイギリスのポップバンド。結成当初は7人編成だったが、1982年からはトム・ベイリー、ジョー・リーウェイ、アラナ・カリーの3人編成となった。
 
 #### Trackliste
 ```md

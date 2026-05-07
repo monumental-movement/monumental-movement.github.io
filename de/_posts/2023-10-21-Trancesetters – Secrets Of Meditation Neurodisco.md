@@ -9,11 +9,11 @@ permalink: /de/trancesetters-secrets-of-meditation-neurodisco/
 tags:
 - House
 - Progressive
-title: Trancesetters – Geheimnisse der Meditation Neurodisco
+title: Trancesetters – Secrets Of Meditation Neurodisco
 ---
 
 
-Trancesetters ist ein Projekt von Gaston Steenkist und Alex Dijksterhuis. Der Remix wurde von SHITAKE und Billy Nasty, dem Leiter des Labels Zoom Records, und David Wesson erstellt.
+Trancesetters（トランスセッター）は、 Gaston SteenkistとAlex Dijksterhuisによるプロジェクト。Remixは、SHITAKE、レーベルZoom Recordsの主宰Billy NastyとDavid Wessonによるもの。
 
 #### Trackliste
 ```md

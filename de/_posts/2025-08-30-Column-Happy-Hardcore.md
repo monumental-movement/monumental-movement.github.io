@@ -65,7 +65,7 @@ Infolgedessen hat sich in Japan die Game-Center-Kultur, die sich von den Clubs u
 
 #### Festivals und Doujin-Verkäufe
 
-Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan auf M3 (Verkauf von Sound-/Medienmix-Doujins) und Clubveranstaltungen im Akihabara-Stil.
+Im Gegensatz zum Rave im Vereinigten Königreich konzentriert sich die Szene in Japan auf M3 (Sound-/Medien-Mix-Doujin-Verkäufe) und Clubveranstaltungen im Akihabara-Stil.
 
 „Derivativer Musikvertrieb“ und „Doujin-CD-Kultur“ unterstützten auf einzigartige Weise den Vertrieb und die Entwicklung von Happy Hardcore.
 
@@ -79,7 +79,7 @@ Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan au
 
 - **Spielkultur**: DDR- und Musikspiele machten Happy Hardcore vertrauter.
 
-- **Reimportationsphänomen**: Ein Genre, das seinen Ursprung im Vereinigten Königreich hat, entwickelt sich in Japan unabhängig und beeinflusst erneut die Welt.
+- **Reimportationsphänomen**: Ein Genre, das seinen Ursprung in Großbritannien hat, entwickelt sich in Japan unabhängig und beeinflusst erneut die Welt.
 
 <hr>
 

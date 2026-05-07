@@ -74,7 +74,7 @@ Depuis les années 1980, il est devenu populaire en tant que format offrant une 
 
 Il est devenu possible d’enregistrer des partitions complètes, créant ainsi un âge d’or pour l’appréciation de la musique de film.
 
-Des labels spécialisés dans les bandes sonores (La-La Land Records, Intrada, Varese Sarabande…) apparaissent également.
+Des labels spécialisés dans les bandes sonores (La-La Land Records, Intrada, Varese Sarabande…) sont également apparus.
 
 ■DVD/Blu-ray : Vidéo + Musique
 
@@ -181,7 +181,7 @@ Master analogique pour enregistrement orchestral → numérisation
 
 Composition complète, enregistrement et mixage à l'aide d'une base DAW.
 
-Une partition conçue en pensant au développement des médias.
+Une partition conçue pour le développement des médias.
 
 ** ● Compositeur contemporain (axé sur la distribution) **
 
@@ -209,7 +209,7 @@ L’émergence de médias de nouvelle génération réintégrés à l’image, c
 
 La musique de film reste dans nos cœurs comme « temps », d’une manière différente des histoires et des images. Et ces souvenirs sont préservés à travers les « médias » que sont les disques vinyles, les CD, les MP3 et le streaming, et sont parfois lus et parfois oubliés.
 
-Le son qui circule sur l'écran nous revient via les haut-parleurs. Le médium est un récipient pour la mémoire et un autre dispositif pour reproduire l’histoire.
+Le son qui circule sur l'écran nous revient via les haut-parleurs. Le médium est un réceptacle de mémoire et un autre dispositif de reproduction de l'histoire.
 
 
 <hr>

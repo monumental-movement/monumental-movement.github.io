@@ -13,9 +13,9 @@ title: DJ Shufflemaster – EXP
 ---
 
 
-DJ Shufflemaster (Tatsuya Kanamori) ist ein japanischer Hard-Techno-Produzent/DJ, der seit Ende der 1990er Jahre aktiv ist. Er ist einer der international anerkannten Techno-Künstler, der mit Adam Beyer, Joel Mull, Ben Sims, Cari Lekebusch und anderen gespielt hat.
+DJ Shufflemaster (金森 達也 / Tatsuya Kanamori）は、1990年代後半から活動する日本のハードテクノプロデューサー／DJ。Adam Beyer、Joel Mull、Ben Sims、Cari Lekebuschなどと共にプレイし、世界的に評価されているテクノアーティストの一人。
 
-„EXP“ ist ein Album in voller Länge, das 2001 vom renommierten Berliner Techno-Label Tresor veröffentlicht wurde. Bekannt als das Meisterwerk von DJ Shufflemaster.
+「EXP」は、2001年にベルリンの名門テクノレーベルTresor(トレゾア)からリリースされたフルアルバム。DJ Shufflemasterの代表作として知られている。
 
 
 #### Trackliste

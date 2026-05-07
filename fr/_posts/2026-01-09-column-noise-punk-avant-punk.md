@@ -16,11 +16,11 @@ title: '[Chronique] Noise Punk / Avant-Punk ─ Quand la pulsion destructrice de
 
 
 
-## Prologue : Pourquoi le punk a dû rompre
+## Prologue : Pourquoi le punk a-t-il dû rompre ?
 
 Texte : mmr｜Thème : À propos du noise punk/avant punk, qui est un dispositif de mémoire permettant de rejeter constamment la zone de sécurité de la musique
 
-Le noise punk/avant punk est une tentative d’autodestruction extrême née au sein du mouvement punk né à la fin des années 1970. Plutôt que les images superficielles des premiers punks, comme la vitesse et la rébellion, le punk se caractérise par ses impulsions sous-jacentes de « déni », de « refus » et de « destruction » qui s’étendent à la structure musicale elle-même.
+Le noise punk/avant punk est une tentative d’autodestruction extrême née au sein du mouvement punk né à la fin des années 1970. Plutôt que les images superficielles des premiers punks, telles que la vitesse et la rébellion, le punk se caractérise par ses impulsions sous-jacentes de « déni », de « refus » et de « destruction » qui s’étendent à la structure musicale elle-même.
 
 Dans cette musique, l'habileté et le plaisir ne comptent pas. Au contraire, des phrases proches de l'injouable, des dissonances et des rythmes sur le point de s'effondrer sont activement choisis. Il y avait une méfiance évidente à l’égard de la valeur divertissante et commerciale du rock.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Punk après Punk : effondrement des conditions préalables
 
-Vers 1977, le punk se répand rapidement et en même temps se formalise rapidement. 3 accords, chansons courtes, attitude agressive. Ils sont rapidement devenus un style et ont commencé à être reproduits. Le noise punk/avan punk est né d’un fort sentiment de malaise face à cette situation.
+Vers 1977, le punk se répand rapidement et en même temps se formalise rapidement. 3 accords, chansons courtes, attitude agressive. Ils sont rapidement devenus un style et ont commencé à être reproduits. Le noise punk/avant punk est né d’un fort sentiment de malaise face à cette situation.
 
 Le problème pour eux était que le rock était une fois de plus réduit à une « musique facile à comprendre ». La rébellion devient un symbole et la dissidence devient à la mode. Afin de rejeter le processus lui-même, la musique s’est intentionnellement orientée dans une direction incompréhensible.
 
@@ -70,7 +70,7 @@ Cette structure n'est pas accidentelle, mais intentionnelle. Je ne comprends pas
 
 ## New York et l'ADN : la performance comme déconstruction
 
-DNA était un groupe actif à New York à la fin des années 1970 et était un membre central du mouvement dit no wave. Leur musique est structurée de telle manière qu'elle déconstruit tous les éléments fondamentaux du rock.
+DNA était un groupe actif à New York à la fin des années 1970 et était un membre clé du mouvement dit no wave. Leur musique est structurée de telle manière qu'elle déconstruit tous les éléments fondamentaux du rock.
 
 La guitare ne forme pas d'accords, mais émet des notes isolées ou des bruits irréguliers. La basse et la batterie ne partagent pas un rythme et la performance est toujours au bord de l'effondrement. Le chant rejette la mélodie et se libère sous forme de mots et de cris fragmentés.
 
@@ -139,7 +139,7 @@ timeline
 
 Cette tendance s'est produite de manière intensive sur une courte période et a laissé une profonde influence sur la musique alternative ultérieure.
 
-> Même si l'histoire du noise punk est courte, ses répliques se poursuivent longtemps.
+> L'histoire du noise punk est courte, mais ses répliques sont longues.
 
 ---
 

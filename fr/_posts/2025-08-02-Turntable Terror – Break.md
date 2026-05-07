@@ -15,9 +15,9 @@ title: Terreur des platines – Pause
 ---
 
 
-Michel de Hey, également connu sous le nom de Turntable Terror, est un DJ/producteur vétéran de Rotterdam, aux Pays-Bas. Michel de Hey a déclaré dans une interview qu'il avait utilisé le nom Turntable Terror afin de "rechercher un son plus dur".
+Michel de Hey, également connu sous le nom de Turntable Terror, est un DJ/producteur chevronné de Rotterdam, aux Pays-Bas. Michel de Hey a déclaré dans une interview qu'il avait utilisé le nom Turntable Terror afin de "rechercher un son plus dur".
 
-"Break" est l'un des morceaux Breakbeat, Techno et Swingbeat emblématiques de Turntable Terror, sorti en 1991 sur le label américain Invasion Recordings. Tableau promotionnel.
+"Break" est l'un des morceaux Breakbeat, Techno et Swingbeat emblématiques de Turntable Terror, sorti sur le label américain Invasion Recordings en 1991. Tableau promotionnel.
 
 #### Liste des chansons
 ```md

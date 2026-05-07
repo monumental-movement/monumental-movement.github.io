@@ -9,13 +9,13 @@ permalink: /fr/gant-garrard-100-chicago-style-ep/
 tags:
 - House
 - 00s
-title: Gant Garrard – EP 100% Chicago Style
+title: Gant Garrard – 100 % Chicago Style EP
 ---
 
 
-Gant Garrard (Gant-Man) est un DJ/producteur de Chicago connu pour mélanger les styles House, Ghetto/Booty House et Juke/Footwork.
+Gant Garrard (Gant-Man)は、House、Ghetto/Booty House、 Juke/Footworkスタイルのミキシングで知られるシカゴ出身のDJ／プロデューサー。
 
-Un morceau house sorti en 2001 sur le label français Disco House Riviera, dirigé par le DJ français Fab G.
+フランス出身のDJ Fab G.が運営するフランスのDisco HouseレーベルRivieraから2001年にリリースされたHouseトラック。
 
 #### Liste des chansons
 ```md

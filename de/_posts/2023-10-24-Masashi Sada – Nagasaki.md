@@ -10,17 +10,17 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: Masashi Sada – Nagasaki Yoyoku
+title: さだ まさし – 長崎小夜曲
 ---
 
 
-„Masashi Sada – Nagasaki Sayokyoku“ wurde 1982 veröffentlicht.
+「さだ まさし – 長崎小夜曲」は、1982年にリリースされました。
 
-Anordnung auf der A-Seite – ​​Toshiyuki Watanabe Anordnung auf der B-Seite – ​​Masashi Sada
+A面アレンジ – 渡辺俊幸 B面アレンジ – さだまさし
 
-Seite A/B Text & Musik – Masashi Sada
+A面・B面 歌詞＆ミュージック – さだまさし
 
-Die B-Seite ist der Titelsong für „Kita no Kuni Kara“ von Fuji TV.
+B面は、フジテレビ系「北の国から」の主題歌。
 
 #### Trackliste
 ```md

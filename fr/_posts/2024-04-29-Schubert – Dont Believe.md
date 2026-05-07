@@ -10,13 +10,13 @@ tags:
 - Techno
 - Minimal
 - German Techno
-title: Schubert – Ne croyez pas le battage médiatique Chord-Pop
+title: Schubert – Don't Believe The Chord-Pop Hype
 ---
 
 
-Un morceau de techno minimale du producteur techno allemand Schubert, alias Matthias Kretzschmar, basé à Leipzig.
+ライプツィヒに拠点を置くドイツのテクノプロデューサーSchubertことMatthias Kretzschmarによるミニマル・テクノトラック。
 
-Le coproducteur est Daniel Stefanik, un DJ et producteur allemand également basé à Leipzig.
+共同プロデューサーは、同じくライプツィヒに拠点を置くドイツの DJ＆プロデューサーのDaniel Stefanik。
 
 #### Liste des chansons
 ```md

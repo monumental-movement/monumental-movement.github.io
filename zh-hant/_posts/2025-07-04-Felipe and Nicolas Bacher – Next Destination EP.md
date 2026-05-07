@@ -16,7 +16,7 @@ title: Felipe & Nicolas Bacher – Next Destination EP
 Felipe (Philipp Straub) 和 Nicolas Bacher (DJ Dexter) 是住在維也納的奧地利 DJ 和製作人二人組。他也以 Enzian 和 Titanium 的名義工作，並且是 Titanium Records 和 Supreme Entertainment 唱片公司的創始人。
 
 《Next Destination EP》是 Potential Recordingz 於 2004 年發行的一首 Techno 曲目，Potential Recordingz 是 Ben Long 創立的英國領先的 Techno 唱片公司之一。
-マスタリングはØ (Phase フェーズ)。
+母帶處理是Ø（階段）。
 
 #### 曲目表
 ```md

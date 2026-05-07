@@ -9,7 +9,7 @@ permalink: /zh-hant/pickup-new-wave/
 tags:
 - New-Wave
 - 80s
-title: 拾起新浪潮作品
+title: ニューウェーブ(New Wave)作品をピックアップ
 ---
 
 
@@ -204,7 +204,7 @@ B6. Working In The Coal Mine
 
 
 
-### 黑色－不只是太陽
+### 黑色——不僅僅是太陽
 <a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%Sun20The%</a.
 
 發行：發佈於 2023 年 10 月 13 日。英國創作歌手 Colín Vearncombe 的獨唱作品 Black。

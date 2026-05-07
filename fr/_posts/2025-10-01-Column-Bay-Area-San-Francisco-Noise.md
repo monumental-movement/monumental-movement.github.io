@@ -68,7 +68,7 @@ SRL, reconnue pour ses performances mécaniques destructrices, a été fondée e
 
 #### Pays négatif
 
-Un groupe actif dans la région de San Francisco et connu pour ses travaux critiques médiatiques utilisant l'échantillonnage/collage. Des œuvres telles que Escape From Noise de la fin des années 1980 étaient des œuvres importantes qui montraient l’intersection du bruit et de la culture pop, attirant la controverse et l’attention grâce à la radio DIY et aux fausses techniques publicitaires.
+Un groupe actif dans la région de San Francisco et connu pour ses travaux critiques médiatiques utilisant l'échantillonnage/collage. Des œuvres telles que Escape From Noise de la fin des années 1980 étaient des œuvres importantes qui montraient l’intersection de la culture noise et pop, attirant la controverse et l’attention grâce à la radio DIY et aux fausses techniques publicitaires.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

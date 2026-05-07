@@ -34,7 +34,7 @@ In der Clubszene der 1980er Jahre gab es als Reaktion auf die Begeisterung für 
 
 <hr>
 
-### Musikalische Features
+### 音楽的特徴
 
 Acid Jazz bezieht sich eher auf ein „hybrides Gefühl“ als auf ein einzelnes Genre. Zu den charakteristischen Elementen gehören:
 
@@ -61,7 +61,7 @@ In den 1980er Jahren befand sich Großbritannien unter der Thatcher-Regierung in
 
 - **Postindustrielle Gesellschaft**: Der Niedergang des verarbeitenden Gewerbes und der Verfall der Städte verliehen der Jugendkultur „dekonstruktive“ Werte, und die Clubkultur wurde zu ihrem Zufluchtsort.
 
-- **Medieneinfluss**: BBC Radio und Pirate Radio führten Acid Jazz ein und führten zu seiner Ausbreitung vom Untergrund zum Mainstream.
+- **Medieneinfluss**: BBC Radio und Pirate Radio führten Acid Jazz ein und führten zu seiner Ausbreitung vom Underground zum Mainstream.
 
 
 <hr>
@@ -107,7 +107,7 @@ Die Verbreitung von Acid Jazz war auch eng mit der Geopolitik in Europa, den Ver
 
 #### US-Szene
 
-Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten existierten 70er-Jahre-Jazz-Funk und -Soul als Originale, so dass die Bezeichnung „Acid Jazz“ aus Großbritannien frisch wirkte und in den Clubszenen von New York und Chicago übernommen wurde.
+Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten gab es den ursprünglichen Funk- und Soul-Jazz der 70er Jahre, daher wirkte die Bezeichnung „Acid Jazz“ aus Großbritannien frisch und wurde von den Clubszenen von New York und Chicago übernommen.
 
 そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
 一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
@@ -121,7 +121,7 @@ Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten exis
 
 日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-Es hatte eine Affinität zur Konsumkultur der Zeit der Blasenwirtschaft und der Shibuya-kei-Szene und wurde zu einer Brücke zwischen Europa und Asien.
+Es hatte eine Affinität zur Konsumkultur der Blasenwirtschaft und der Shibuya-Szene und wurde zu einer Brücke zwischen Europa und Asien.
 
 Ab Ende der 1990er Jahre gewann es mit der Ausbreitung der Clubkultur in Ländern wie Südkorea und Taiwan allmählich an Akzeptanz.
 

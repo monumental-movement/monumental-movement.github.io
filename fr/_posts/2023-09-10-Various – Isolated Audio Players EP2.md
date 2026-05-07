@@ -11,7 +11,7 @@ tags:
 - Break Beat
 - IDM
 - Leftfield
-title: Divers – Lecteurs audio isolés EP2
+title: Various – Isolated Audio Players EP2
 ---
 
 
@@ -21,15 +21,15 @@ title: Divers – Lecteurs audio isolés EP2
 
 
 
-Insulated Audio Players EP2 est sorti en 2001 par l'excellent label japonais PICKIN' MUSHROOM RECORDINGS.
+Isolated Audio Players EP2は、2001年に日本の優れたレコードレーベルであるPICKIN' MUSHROOM RECORDINGSからリリースされました。
 
-Il y a un Flicker de Takayuki Shiraishi de Deep House. Ce morceau a également été joué par DJ HIKARU et présente un son et un rythme profonds.
+ディープハウスの白石隆之によるFlickerがあります。このトラックは、DJ HIKARUもプレイしており、深いサウンドとリズムが特徴です。
 
-De plus, "Tennis" de JIN HIYAMA, qui possède un breakbeat électrique avec une texture unique, séduit par son son rugueux et son rythme excitant.
+また、エレクトリックなブレイクビーツに独自の質感を持たせたJIN HIYAMAによる "Tennis"は、ザラついたサウンドと刺激的なビートが魅力です。
 
-Et enfin, "Storm" de DOL-LOP, figure centrale de SOUND-CHANNEL, un label important qui a contribué à la scène underground japonaise, est inclus. Ce morceau présente un breakbeat unique et cool, lui donnant une sensation japonaise unique.
+そして最後に、日本のアンダーグラウンドシーンに貢献した重要なレーベル、SOUND-CHANNELの中心人物であるDOL-LOPによる "Storm" が収録されています。このトラックは、独自のクールなブレイクビートが特徴で、日本人らしい独創性が感じられます。
 
-Cet EP a été salué comme l'une des œuvres importantes de la scène musicale japonaise. Vous pourrez profiter de l’essence de la musique underground de l’époque.
+このEPは、日本の音楽シーンにおいて重要な作品の一つとして、賞賛されています。当時のアンダーグラウンドな音楽のエッセンスを堪能できることでしょう。
 
 #### Liste des chansons
 ```md

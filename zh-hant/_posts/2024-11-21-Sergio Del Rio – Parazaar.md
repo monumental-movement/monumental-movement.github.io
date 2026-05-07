@@ -15,7 +15,7 @@ title: 塞爾吉奧·德爾·裡奧——帕拉扎爾
 
 Sergio Del Rio 是一位來自義大利的 DJ 兼製作人。他也以 DJ Power、Ethnosonique、Gambafreaks 等名義進行工作。
 
-《Parazaar》是西班牙廠牌 Vale Music 的 house 專業部門於 2003 年發行的一首 house 曲目。
+「Parazaar」は、スペインのレーベルVale Musicのハウス専門部門から2003年リリースされたハウストラック。
 
 A面的第一首曲目是義大利製作人Fedo的混音版。
 

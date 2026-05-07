@@ -71,7 +71,7 @@ color: #fff;
 成員不固定，大學時代的朋友來來去去，有時錄音多達10人。它作為一個藝術團體的性質正在變得更加強大。
 
 他們 1989 年的傑作 [“The Mekons Rock ‘n’ Roll”](https://amzn.to/4nIWLMc) 就是對此的總結。
-獨特的空間構圖，具有吉他的雙軌、過度的混響和抑制的低音頻率。這些都是旨在故意扭曲「搖滾的形式美」的噱頭。
+獨特的空間構圖，具有吉他的雙軌、過度的混響以及抑制低音的低頻。這些都是旨在故意扭曲「搖滾的形式美」的噱頭。
 透過這張專輯，他們提出了「搖滾不是系統本身嗎？」的悖論。
 
 > “我們知道搖滾樂很危險。它可以摧毀國家。”
@@ -98,14 +98,14 @@ color: #fff;
 > **「搖滾無國界，但移民需要土地。」**
 
 1990年代，梅肯一家搬到了芝加哥。
-Jon Langfordはアメリカ人ミュージシャンとの連携を深め、Waco BrothersやPine Valley Cosmonautsといった別プロジェクトを展開。  
+喬恩·蘭福德加深了與美國音樂家的合作，開發了韋科兄弟和松谷宇航員等其他項目。
 莎莉·蒂姆斯將與當地詩人合作，湯姆·格林哈爾將參與視頻製作。
-在此期間，梅肯斯作為一個超越國籍和流派的「漂流藝術社區」而存在。
+在此期間，梅肯斯作為一個超越國籍和流派的「漂流藝術共同體」而存在。
 
 有人說“Mekons 的音樂聽起來不屬於任何地方。”
 像移民一樣，他們在音樂背景之間移動，在那裡建立臨時家園。
 專輯[Journey to the End of the Night (2000)](https://amzn.to/4q3A5HR)就是一個象徵，其包含銅管樂器和小提琴的聲學作品強調了它的「外國性」。
-儘管他在這項工作中使用了 Pro Tools，但他故意使用模擬控制台進行混音，從而留下了「人為不平衡」。
+雖然他在這項工作中使用了 Pro Tools，但他故意使用模擬控制台進行混音，留下了「人為不平衡」。
 
 ---
 
@@ -148,7 +148,7 @@ Jon Langfordはアメリカ人ミュージシャンとの連携を深め、Waco 
 這些已經到了壯年的人有一種「安靜的憤怒」的感覺。
 原聲吉他、電子無人機和遠處的風聲。這聽起來像是「人性的證明」。
 
-> “我們還在這裡，不是因為我們應該在這裡，而是因為我們可以。”
+> “We are still here, not because we should be, but because we can be.”  
 > — *喬恩·蘭福德，2019年*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p5y0KqiGjOM?si=ynwQfZRqbD2I6-wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -177,7 +177,7 @@ Jon Langfordはアメリカ人ミュージシャンとの連携を深め、Waco 
 | 1979 | *慈悲的品質並不強健* |早期龐克唱片 | [亞馬遜](https://amzn.to/475k7ED) |
 | 1985 | *恐懼與威士忌* |後龐克+鄉村融合 | [亞馬遜](https://amzn.to/3J1VsbQ) |
 | 1989 | *梅肯斯搖滾* |社會批判的高度| [亞馬遜](https://amzn.to/4pY2TSl) |
-| 1994 | *從孟菲斯撤退* |重生與轉變的時代| [亞馬遜](https://amzn.to/4mWrggs) |
+| 1994 | *從孟菲斯撤退* |重生與轉變的時代 | [亞馬遜](https://amzn.to/4mWrggs) |
 | 2000 | 2000 *到夜盡頭的旅程* |異國他鄉之旅| [亞馬遜](https://amzn.to/4q3A5HR) |
 | 2019 | 2019 *荒蕪* |一群人站在曠野的詩| [亞馬遜](https://amzn.to/4nHdkYD) |
 

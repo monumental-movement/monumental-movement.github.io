@@ -190,7 +190,7 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 | 1980er Jahre | Italo Disco, Hi-NRG | Den Harrow, Fancy | Ursprung von Eurobeat |
 | 1990er Jahre | Avex Eurobeat goldenes Zeitalter | Dave Rodgers, Max Coveri | Erster D-Soundtrack |
 | 2000er | Verbreitung im Internet, Parapara-Kultur | Niko, Domino | Kombination mit Spiel- und Anime-Kultur |
-| 2010er | Memeisierung, Wiederbelebung | Internet-Memes (Deja Vu) | Erneute Aufmerksamkeit weltweit |
+| 2010er | Meme, Wiederbelebung | Internet-Memes (Deja Vu) | Weltweite Neuausrichtung |
 | 2020er | EDM / Synthwave-Fusion | Aktuelle DJs, Produzenten | Auf dem Weg zu einem neuen Klang |
 
 ---
@@ -214,7 +214,7 @@ Drift: ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (Rutschgeräusch) </
 | Bereich | Repräsentative Elemente | Verbindung mit Eurobeat |
 | ------- | ------------------------------------ | -------------------- |
 | Toge-Läufer-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
-| Clubkultur | Parapara, Velfarre | Direkt verbunden mit Avex Eurobeat |
+| Clubkultur | Parapara, Velfarre | Direkt mit Avex Eurobeat | verbunden
 | Internetkultur | Deja Vu Memes | Wiederexplosion auf YouTube/TikTok |
 | Spielkultur | Initial D Arcade Stage, Gran Turismo | Eurobeat wird zur Standard-Hintergrundmusik |
 | Drift-Wettbewerb | D1 Grand Prix, Formel Drift | Die Fahrerkultur wird international und koexistiert mit EDM in BGM |

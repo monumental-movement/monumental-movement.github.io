@@ -69,7 +69,7 @@ Electro Swing的出生需要具備以下技術和文化條件。
 
 ---
 
-## 4. Parov Stelar の位置づけ
+## 4. Parov Stellar 的定位
 
 
 來自奧地利的 Parov Stelar 是將 Electro Swing 推向國際認可的代表性藝術家。在他的作品中，他不斷循環搖擺時代的聲樂樂句和號角，並將它們與 4/4 節拍和碎拍結合。

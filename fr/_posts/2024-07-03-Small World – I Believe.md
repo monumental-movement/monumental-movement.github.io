@@ -10,13 +10,13 @@ tags:
 - Triphop
 - Downtempo
 - 00s
-title: Petit monde – Je crois
+title: Small World – I Believe
 ---
 
 
-Paul Hunter, également connu sous le nom de Small World, est un producteur de Glasgow, en Écosse, et le frère de Michael Hunter, qui a créé la musique de Grand Theft Auto IV et de San Andreas. Paul Hunter se produit également sous les noms de Brother Of Soul, Dual Tone, Poets Of Thought, Second Crusade et The Stic.
+Small WorldことPaul Hunter（ポール・ハンター）はスコットランド・グラスゴー出身のプロデューサーであり、グランドセフトオートシリーズのGrand Theft Auto IV やSan Andreas（サンアンドレス）の音楽を手がけたMichael Hunter（マイケル・ハンター）の兄弟。Paul Hunterは、Brother Of Soul, Dual Tone, Poets Of Thought, Second Crusade, The Stic名義でも活動している。
 
-"I Believe" est un morceau trip-hop downtempo sorti en 2005 par le label Red Hook Recordings de Paul Hunter, qui couvre le hip-hop, le downtempo, le funk, le jazz et le reggae.
+「I Believe」は、Paul Hunter自身が運営するヒップホップ、ダウンテンポ、ファンク、ジャズ、レゲエを網羅したレーベルRed Hook Recordingsから2005年にリリースされたトリップホップ・ダウンテンポトラック。
 
 #### Liste des chansons
 ```md

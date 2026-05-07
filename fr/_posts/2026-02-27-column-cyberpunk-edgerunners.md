@@ -89,7 +89,7 @@ D --> E[Streaming Surge]
 E --> F[Chart Re Entry]
 </div>
 
-### Extension des re-hits
+### Expansion des re-hits
 
 Après le début de la distribution, il a été rapporté que le nombre d'écoutes avait augmenté de dizaines de millions sur Spotify et qu'il était entré dans les charts dans plusieurs régions, notamment aux États-Unis et au Royaume-Uni.
 Il est également apparu dans le classement mondial de Billboard.
@@ -167,7 +167,7 @@ Cette tendance a été analysée comme un exemple réussi de stratégie cross-IP
 L'acoustique de la chanson est basée sur les sons de synthétiseur des années 1980.
 En raison de son affinité avec la vision du monde cyberpunk, l’intérêt pour le genre lui-même a augmenté.
 
-Après la distribution de l’anime, il a également été confirmé que les listes de lecture associées et les artistes similaires étaient concernés.
+Après la sortie de l’anime, il a également été confirmé que les listes de lecture associées et les artistes similaires étaient concernés.
 
 > Cela a également influencé la réévaluation des genres musicaux eux-mêmes.
 
@@ -176,7 +176,7 @@ Après la distribution de l’anime, il a également été confirmé que les lis
 ## Chronologie
 
 * Décembre 2020 : sortie de Cyberpunk 2077
-* 13 septembre 2022 : début de la distribution de Cyberpunk : Edgerunners
+* 13 septembre 2022 : début de la distribution de Cyberpunk : Edgerunners
 * Mi-septembre 2022 : le classement Spotify Viral s'envole
 * Automne 2022 : réémergence dans les charts dans plusieurs pays
 * 2023 : Régénération continue à longue traîne

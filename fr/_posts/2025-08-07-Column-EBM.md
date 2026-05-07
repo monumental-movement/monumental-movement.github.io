@@ -14,7 +14,7 @@ title: '[Chronique] EBM : une physicalité électronique pilotée par des rythm
 ---
 
 
-## Qu'est-ce que la musique corporelle électronique ?
+## Qu'est-ce que la musique électronique corporelle ?
 
 
 
@@ -47,7 +47,7 @@ Pour faire simple, le son d’EBM est « inorganique et physique ». Il comporte
 
 - Signature rythmique principalement 4/4, BPM autour de 120-140
 
-- Rythme mécanique comme celui des machines industrielles
+- Rythme mécanique comme les machines industrielles
 
 - Utilisation intensive de boîtes à rythmes (Roland TR-808, TR-909, etc.)
 
@@ -211,7 +211,7 @@ Actuellement, l’influence d’EBM s’étend à de nombreux domaines, de la cu
 
 Et surtout——
 La « chaleur » qui réside dans ce rythme inorganique fait bouger le corps.
-C'est là l'attrait essentiel d'EBM.
+C’est là l’attrait essentiel d’EBM.
 
 ---
 

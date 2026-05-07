@@ -36,7 +36,7 @@ Sur la base de leurs origines culturelles, industrielles et technologiques respe
 
 **Caractéristiques sonores**
 - Le BPM est très rapide à 140-160
-- Les sons sont nombreux, et les synthés sont flashy et pétillants.
+- Il y a beaucoup de sons, et les synthés sont flashy et pétillants.
 - Privilégier la mélodie au rythme
 - Développement dramatique et émotionnel
 
@@ -70,7 +70,7 @@ color: #fff;
 
 | Artiste | Album/Single | Caractéristiques/Chansons à succès |
 |---|---|---|
-| Dave Rodgers | *Compilation Eurobeat Vol.1* (1991) | Un chef-d'œuvre de l'Eurobeat à grande vitesse. Chanson représentative « Déja Vu », etc. |
+| Dave Rodgers | *Eurobeat Compilation Vol.1* (1991) | Un chef-d'œuvre de l'Eurobeat à grande vitesse. Chanson représentative « Déja Vu », etc. |
 | Dominos | *SAX* (1992) | Comprend des lignes de synthé accrocheuses et flashy |
 | Alexie | *Fan-Club* (1997) | Eurodance mélodique avec accent sur le chant. Chanson à succès « Uh La La La » |
 | Couronne | *Le rythme de la nuit* (1995) | Un chef-d'œuvre de la danse européenne. « Le Rythme de la Nuit » devient un succès mondial |

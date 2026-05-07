@@ -33,7 +33,7 @@ J.Acquaviva's Flare For Disco Mix -
 
 Der von Johnny Acquaviva remixte Song enthält Disco-Elemente, behält aber die Essenz des Techno bei.
 
-Aufgrund seiner Diskografie, Musikrezensionen und Verkaufsinformationen genießt das Album bei Techno-Fans und Sammlern hohes Ansehen, und insbesondere der Plastikman-Remix ist für seine Innovation bekannt.
+Aufgrund seiner Diskographie, Musikrezensionen und Verkaufsinformationen genießt das Album bei Techno-Fans und Sammlern hohes Ansehen, und insbesondere der Plastikman-Remix ist für seine Innovation bekannt.
 
 #### Trackliste
 ```md

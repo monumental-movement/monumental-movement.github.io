@@ -9,13 +9,13 @@ permalink: /de/athlete-westside/
 tags:
 - Rock
 - Indie Rock
-title: Athlet – Westside
+title: Athlete – Westside
 ---
 
 
-Athlete ist eine britische Indie-Rockband, die in London gegründet wurde. Die Mitglieder sind Joel Potts, Carrie Willetts, Stephen Roberts und Tim Wanstall. „Westside“ ist ihr Signature-Song.
+アスリートは、ロンドンで結成されたUKインディーロックバンド。メンバーは、ジョエル・ポット、キャリー・ウィレッツ、スティーブン・ロバーツ、ティム・ワンストールの4人。「Westside」は彼らの代表曲。
 
-Der zweite Song auf der B-Seite ist ein Remix von Elbow, einer Alternative-Rock-Band aus Bury, Greater Manchester, England, die seit 1990 aktiv ist.
+B面2曲目は1990年から活動するイングランド、グレーター・マンチェスターのベリー出身のオルタナティブ・ロックバンドElbowによるremix。
 
 #### Trackliste
 ```md

@@ -18,7 +18,7 @@ Gang Starr ist ein amerikanisches Hip-Hop-Duo (Guru & DJ Premier), das von Ende 
 
 In diesem Lied geht es darum, eine positive Botschaft und positive Energie zu vermitteln.
 
-Die Kombination aus Gurus einzigartigem Rap-Stil und Premiers unverwechselbaren Beats hat ihm Anerkennung als eines der Meisterwerke von Gang Starr und als Hip-Hop-Klassiker eingebracht.
+Die Kombination aus Gurus einzigartigem Rap-Stil und Premiers charakteristischen Beats hat ihm Anerkennung als eines der Meisterwerke von Gang Starr und als Hip-Hop-Klassiker eingebracht.
 
 #### Trackliste
 ```md

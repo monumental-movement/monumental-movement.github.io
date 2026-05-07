@@ -10,13 +10,13 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: Frank Stallone – Noch lange nicht vorbei
+title: Frank Stallone - Far From Over
 ---
 
 
-Frank Stallone ist ein US-amerikanischer Rocksänger und jüngerer Bruder des Schauspielers Sylvester Stallone.
+Frank Stallone(フランク・スタローン )は、USロックシンガーであり、俳優Sylvester Stallone(シルベスター・スタローン)の弟。
 
-Frank Stallones Hitsingle „Far From Over“ war Teil des Soundtracks des Tanzmusikfilms „Staying Alive“ von 1983 unter der Regie von Sylvester Stallone und einer Fortsetzung des Films „Saturday Night Fever“ von 1977.
+Frank Stalloneヒットシングル「Far From Over(ファー・フロム・オーバー)」は、1977年『 Saturday Night Fever(サタデー ナイト フィーバー)』の続編として作られた、1983 年のダンスミュージカル映画『Staying Alive(ステイイング・アライブ)』（監督：シルベスター・スタローン）のサウンドトラックに収録されました。
 
 #### Trackliste
 ```md

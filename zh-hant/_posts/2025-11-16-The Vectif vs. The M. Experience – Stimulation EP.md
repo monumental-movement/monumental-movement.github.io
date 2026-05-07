@@ -10,7 +10,7 @@ tags:
 - Tribal
 - Techno
 - 90s
-title: The Vectif vs. The M. Experience – Stimulation EP
+title: Vectif 與 M. Experience – 刺激 EP
 ---
 
 

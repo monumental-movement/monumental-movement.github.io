@@ -90,7 +90,7 @@ In den 2000er Jahren wurden CD-R- und MP3-Filesharing zum Mainstream und Kassett
 Die Eigenschaften von Kassetten wie Unmittelbarkeit, Begeisterung vor Ort und informelle Vertriebsnetze wurden jedoch von der digitalen Mixtape-Kultur und den Live-Aufnahmearchiven auf YouTube übernommen. Darüber hinaus gibt es inmitten des weltweiten Trends zur Rückkehr zum Analogen auch eine Bewegung zur Neubewertung von Kassetten.
 
 - **Kulturelle Bedeutung neu denken**
-Die Kassette war mehr als nur ein Aufnahmemedium, sie symbolisierte den gemeinschaftsorientierten Charakter des Reggae, die Verbreitung von Informationen an der Basis und die Unabhängigkeit der Gesetzlosen. Durch Kassetten etablierte sich Reggae als „ihre Musik“ für die Massen.
+Die Kassette war mehr als nur ein Aufnahmemedium, sie symbolisierte den gemeinschaftsorientierten Charakter des Reggae, die Informationsverbreitung an der Basis und die Unabhängigkeit der Gesetzlosen. Durch Kassetten etablierte sich Reggae als „ihre Musik“ für die Massen.
 
 ---
 
@@ -110,11 +110,11 @@ Eine Liste berühmter Aufnahmen, die die Reggae-Kassettenkultur symbolisieren. D
 
 ## Repräsentative Reggae-Künstler nach Epoche
 
-Die Klänge repräsentativer Künstler, die eng mit der Kassettenkultur verbunden sind, sind nach Jahrzehnten geordnet.
+Die Klänge repräsentativer Künstler, die eng mit der Kassettenkultur verbunden sind, sind nach Epochen geordnet.
 
 | Ära | Repräsentative Künstler/Sounds | Eigenschaften |
 |------|-------------|------|
-| 1970er Jahre | Bob Marley, Burning Spear, Augustus Pablo | Hauptsächlich Schallplatten, verbreitete sich jedoch in den Anfängen der Kassetten. Wurzeln der Reggae-Spiritualität. |
+| 1970er Jahre | Bob Marley, Burning Spear, Augustus Pablo | Hauptsächlich Schallplatten, verbreitete sich jedoch in den Anfängen der Kassetten. Roots-Reggae-Spiritualität. |
 | 1980er Jahre | Yellowman, Barrington Levy, Stone Love, Killamanjaro | Das goldene Zeitalter der Kassetten. Eine Schlüsselfigur bei der Sound Clash-Aufnahme. |
 | 1990er Jahre | Buju Banton, Beenie Man, Kopfgeldkiller, Silverhawk | Das goldene Zeitalter des Dancehalls. Kassettenaufnahmen verbreiteten sich nach Japan und Großbritannien. |
 | 2000er | Sizzla, Capleton, Bass Odyssey | Die Nacht vor der digitalen Verbreitung. Die letzte Begeisterung der Kassette. |
@@ -136,7 +136,7 @@ In den 1990er Jahren, als die Zahl japanischer Reggae-Fans rapide anstieg, waren
 Als japanische Soundsysteme (Mighty Crown, Fire Ball usw.) wuchsen, begannen sie, ihre eigenen Mixe auf Kassette zu veröffentlichen. Dies führte zur Verschmelzung der einzigartigen Reggae-Kultur Japans und direkt aus Jamaika importierter Stile.
 
 - **Nach den 2000er Jahren: CD-R und Digitalisierungswelle**
-In den 2000er Jahren wurden CD-R und MP3 zum Mainstream und Kassetten verschwanden nach und nach. Dennoch bewahren einige Sammler und DJs ihre Kassetten immer noch auf und digitalisieren sie, um der Szene etwas zurückzugeben. Diese sind weiterhin von Wert als lebendiges Archiv der Reggae-Rezeption in Japan.
+In den 2000er Jahren wurden CD-R und MP3 zum Mainstream und Kassetten verschwanden nach und nach. Allerdings bewahren einige Sammler und DJs ihre Kassetten immer noch auf und digitalisieren sie, um der Szene etwas zurückzugeben. Diese sind weiterhin von Wert als lebendiges Archiv der Reggae-Rezeption in Japan.
 
 - **Kulturelle Bedeutung**
 Der Vertrieb von Kassetten in der japanischen Reggae-Szene war nicht nur eine „importierte Klangquelle“, sondern ein Kreislauf zum direkten Import von Straßenmusik. Durch Kassetten wurden die jamaikanische Szene und japanische Clubs miteinander verbunden und so die Reifung der lokalen Szene unterstützt.
@@ -149,8 +149,8 @@ Die Verbreitung von Reggae und Kassettenkultur wird parallel als Bewegungen inne
 
 | Alter | Bewegungen in Jamaika | Bewegungen in Japan |
 |------|-----|-------------|
-| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae ist in begrenztem Umfang bekannt und es gibt noch fast keine allgemeine Anerkennung. |
-| 1970er Jahre | Die Soundsystem-Kultur erweitert sich. Kompaktkassetten beginnen einzuströmen. | Bob Marley wird durch einige Musikzeitschriften und importierte Plattenläden vorgestellt. |
+| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae wurde in begrenztem Umfang eingeführt und es gibt noch immer fast keine allgemeine Anerkennung. |
+| 1970er Jahre | Die Soundsystem-Kultur breitet sich aus. Kompaktkassetten beginnen einzuströmen. | Bob Marley wird durch einige Musikzeitschriften und importierte Plattenläden vorgestellt. |
 | 1980-82 | Die Kassettenaufnahme nahm im Bereich der Tonsysteme rasch zu. Auf der Straße verteilt. | Einige Plattenläden in Tokio und Osaka beginnen, aus Jamaika mitgebrachte Kassetten inoffiziell zu vertreiben. |
 | 1985 | Das Riddim „Sleng Teng“ wird eingeführt und das digitale Zeitalter beginnt. Beschleunigt die Kassettenaufnahme. | Der Import lokaler Aufnahmekassetten durch Überseereisende und DJs nimmt zu und sie werden in der Clubszene eingesetzt. |
 | 1990-92 | Das goldene Zeitalter des Dancehalls. Stone Love, Killamanjaro und andere sind beliebt. Kassetten sind zu einem unverzichtbaren Medium geworden. | Mighty Crown wurde 1991 gegründet. Recherchierte lokale Kassetten und begann mit der Arbeit an einem in Japan einzigartigen Soundsystem. |

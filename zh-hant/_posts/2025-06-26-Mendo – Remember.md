@@ -14,7 +14,7 @@ title: 門多——記住
 ---
 
 
-Mendo こと David Ortegaは、スイス出身のDJ・プロデューサーであり、レーベルClarisse Recordsの創設者。
+David Ortega，又名 Mendo，是一位瑞士 DJ、製作人，也是 Clarisse Records 廠牌的創始人。
 
 《Remember》是 Luciano 的 Cadenza 廠牌於 2009 年發行的 House & Minimal 曲目。
 

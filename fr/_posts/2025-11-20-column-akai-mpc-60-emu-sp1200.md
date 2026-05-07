@@ -42,7 +42,7 @@ color: #fff;
 
 ### 2.1 Bases de l'échantillonnage
 
-Le processus de division des signaux analogiques en valeurs numériques (échantillonnage) a deux paramètres principaux : **fréquence d'échantillonnage (Hz)** et **profondeur de bits de quantification (bit)**. La fréquence d'échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.
+Il existe deux paramètres principaux dans le processus (échantillonnage) de division des signaux analogiques en valeurs numériques en les divisant en intervalles de temps fixes : **fréquence d'échantillonnage (Hz)** et **profondeur de bits de quantification (bit)**. La fréquence d'échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.
 
 * **12 bits** : Théoriquement, la plage dynamique est d'environ 72 dB (conditions idéales). En réalité, la plage dynamique effective varie en fonction de l'équipement utilisé, en raison des effets du bruit du circuit et des chemins analogiques.
 
@@ -75,7 +75,7 @@ Entre le milieu et la fin des années 1980, les prix des mémoires à semi-condu
 * **Principales caractéristiques** : séquenceur 8 pistes, filtre (analogique), sorties individuelles
 
 **Philosophie et fonctionnalités de conception**
-Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et de la documentation technique d'E-mu de l'époque, nous pouvons confirmer que le chemin A/D et la conception du filtre du SP-1200 contribuent à sa coloration acoustique.
+Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et des documents techniques d'E-mu de l'époque, il peut être confirmé que le chemin A/D et la conception du filtre du SP-1200 contribuent à la coloration acoustique.
 
 **Utilisation pratique**
 
@@ -101,7 +101,7 @@ Avec l'aide de Roger Linn dans la conception, le MPC60 se voulait un « sampler 
 
 ---
 
-### 4.3Akai S900/S950
+### 4.3 Akai S900 / S950
 
 * S900 (1986) : premier échantillonneur de type rack. La précision de l'échantillon atteint une bande passante de 12 bits et comporte des fonctions d'édition et de synchronisation externe.
 * S950 (1988) : Une version avancée du S900, offrant une fonction d'étirement temporel plus flexible (fonction de conversion grossière). Les records de ventes et les articles de l’époque confirment qu’il était largement utilisé dans la production de musique de club.
@@ -136,7 +136,7 @@ Ici, un flux de production typique supposant le SP-1200 et le MPC60 est réperto
 
 ### 5.2 Flux de travail de production de type MPC60 (accent sur les performances)
 
-1. Enregistrez les échantillons pendant une période relativement longue (le MPC60 peut enregistrer pendant une période plus longue que le SP-1200).
+1. Enregistrez des échantillons pendant une période relativement longue (le MPC60 peut enregistrer pendant une période plus longue que le SP-1200)
 2. Chargez dans le pad et improvisez les opérations d'entrée et de filtrage
 3. Créez des phrases à l'aide du séquenceur intégré et ajoutez du swing en modifiant la vélocité et la position de chaque note.
 4. Construire en conjonction avec d'autres équipements en utilisant la synchronisation MIDI
@@ -154,7 +154,7 @@ Dans la section d'analyse technique, la réponse en fréquence générale des é
 
 ### 6.2 Bruit de quantification
 
-* Le bruit de quantification peut être estimé sous forme de rapport signal sur bruit (SNR). Le SNR 12 bits idéal est d'environ 72 dB, mais dans les équipements réels, il est généralement inférieur.
+* Le bruit de quantification peut être estimé sous forme de rapport signal/bruit (SNR). Le SNR 12 bits idéal est d'environ 72 dB, mais dans les équipements réels, il est généralement inférieur.
 
 ---
 
@@ -176,7 +176,7 @@ Les échantillons basse résolution sont efficaces pour créer des textures et o
 
 ## Chapitre 8 : Artistes clés et exemples d'utilisation
 
-> Vous trouverez ci-dessous des extraits d'exemples d'utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et de la documentation officielle.
+> Vous trouverez ci-dessous des extraits d'exemples d'utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et des documents officiels.
 
 <div class="mermaid">
 
@@ -433,7 +433,7 @@ flowchart TD
 ---
 
 
-### Ajout 1 : Comparaison de la quantification 12 bits et 16 bits
+### Ajout 1 : Comparaison de la quantification 12 bits et 16 bits
 
 <div class="mermaid">
     
@@ -445,7 +445,7 @@ graph LR
 
 ---
 
-### Ajout 2 : Concept de courbe de filtre SP-1200
+### Ajout 2 : Concept de courbe de filtre SP-1200
 
 <div class="mermaid">
     

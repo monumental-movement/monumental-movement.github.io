@@ -57,7 +57,7 @@ Die Grundanordnung von Kick und Snare ist relativ einfach, Hi-Hats und perkussiv
 
 ### 2.3 Sounddesign
 
-Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass ist mit einer mehrschichtigen Struktur vom Subbass bis zum Mittelbass konzipiert, und Verzerrung, Bit-Crusher, Waveshaping usw. werden stufenweise angewendet. In den hohen Frequenzen werden Geräusche, Klickgeräusche und kurze körnige Fragmente als räumliche Akzente gesetzt.
+Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass ist mit einer vielschichtigen Struktur vom Subbass bis zum Mittelbass konzipiert, und Verzerrung, Bit-Crusher, Waveshaping usw. werden stufenweise angewendet. In den hohen Frequenzen werden Geräusche, Klickgeräusche und kurze körnige Fragmente als räumliche Akzente gesetzt.
 
 ---
 
@@ -98,7 +98,7 @@ flowchart LR
 
 ---
 
-Wichtig ist, dass man nicht jeden Beat ausfüllt. Durch das Einfügen von Stille oder extrem kurzen Tönen wird die Wirkung des nächsten Tieftonbereichs betont.
+Das Wichtigste ist, nicht jeden Beat auszufüllen. Durch das Einfügen von Stille oder extrem kurzen Tönen wird die Wirkung des nächsten Tieftonbereichs betont.
 
 ---
 
@@ -181,7 +181,7 @@ flowchart LR
 
 Der niedrige Bereich ist der Kern von Glitch Hop und der Bereich, der direkt eine physische Reaktion hervorruft. Hier wird der Subbass oft als intermittierender Impuls und nicht als anhaltender Klang behandelt. Die Kompression wird stark ausgeübt, die Freigabezeit wird jedoch relativ kurz eingestellt, um eine übermäßige Expansion zu vermeiden.
 
-In diesem Band überlappen sich das Körpergeräusch und die Bassobertöne des Kicks häufig, was zu Trübungen führt. Bei Glitch Hop liegt der Schwerpunkt auf der Differenzierung in der Klanggestaltungsphase und nicht auf der Reduzierung durch EQ. Dadurch kommt es in vielen Fällen vor, dass das Band selbst relativ hohl wird.
+In diesem Band überlappen sich das Körpergeräusch und die Bassobertöne des Kicks oft, was zu Trübungen führt. Bei Glitch Hop liegt der Schwerpunkt auf der Differenzierung in der Klanggestaltungsphase und nicht auf der Reduzierung durch EQ. Dadurch kommt es in vielen Fällen vor, dass das Band selbst relativ hohl wird.
 
 Der Mitteltonbereich ist der Bereich, der für die Lesbarkeit rhythmischer Informationen verantwortlich ist und in dem sich Klickgeräusche, kurze Geräusche und verarbeitete Percussion konzentrieren. Hierbei werden Transienten betont und eine extrem kurze Notenlänge eingestellt, um die Klarheit des Klangbildes zu gewährleisten.
 

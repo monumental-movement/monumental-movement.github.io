@@ -11,7 +11,7 @@ tags:
 - House
 - Hiphop
 - 90s
-title: Faith Evans Feat. Puff Daddy – All Night Long
+title: 菲斯·埃文斯的壯舉。吹牛老爹——整夜
 ---
 
 

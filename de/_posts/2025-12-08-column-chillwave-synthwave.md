@@ -44,7 +44,7 @@ color: #fff;
 # 1. Was ist Chillwave?
 ## 1-1. Geburt (um 2009)
 Chillwave wurde im Allgemeinen um das Jahr 2009 gegründet.
-Der Name wurde populär, als das Musikmedium „Hipster Runoff“ im selben Jahr das Wort „Chillwave“ verwendete, und es verbreitete sich als Witz im Internet.
+Der Name wurde populär, als das Musikmedium „Hipster Runoff“ im selben Jahr das Wort „Chillwave“ verwendete und es als Witz im Internet verbreitete.
 
 Die Eigenschaften sind wie folgt.
 
@@ -76,7 +76,7 @@ Merkmale:
 
 - **Musik, die Filme, Science-Fiction und Synth-Pop der 1980er Jahre direkt reproduziert**
 - **Konzentriert sich auf analoge Synthesizer (Juno-106, DX7, Prophet usw.)**
-- **treibender 4/4-Beat (Synthwave)**
+- **4/4 treibender Beat (Synthwave)**
 - **Langsamer Ambient (Dreamwave/Retrowave)**
 - **Neon, Gitter, Pink x Blau 80er-Jahre-Visuals**
 
@@ -148,7 +148,7 @@ Auch die Ausrüstung, die bei Chillwave und Synthwave zum Einsatz kommt, ist seh
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet-Reihe
-- Korg Polysix
+-Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
 -Roland TR-707, TR-808

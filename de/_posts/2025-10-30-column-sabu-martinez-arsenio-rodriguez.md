@@ -18,7 +18,7 @@ title: '[Kolumne] Das afrokubanische Skelett – Die Genealogie des Herzschlags,
 ## Einführung: Eine weitere Geschichte amerikanischer Musik, erzählt von Taiko-Trommeln
 
 
-Text: mmr｜Thema: Basierend auf Sabu Martinez und Arsenio Rodríguez
+Text: mmr｜Thema: Im Mittelpunkt stehen Sabu Martinez und Arsenio Rodríguez
 Die Wendepunkte der lateinamerikanischen Musikgeschichte im Längsschnitt verfolgen
 
 In den 1950er Jahren erschütterte ein Rhythmus, der an der Hintertür eines Jazzclubs ausgetauscht wurde, das Gefüge der amerikanischen Musik.
@@ -69,7 +69,7 @@ Im Austausch für diesen Sinn erlangte er die übernatürliche Fähigkeit, die �
 
 - 1. Erweiterter Sohn mit **Kombination aus Trompete und Locken**.
 - 2. **Montuno (repetitiver Teil)** wird als Grundlage des Rhythmus in den Vordergrund gerückt.
-- 3. Wandeln Sie **Call and Response** in Jazz-Interplay um.
+- 3. Konvertieren Sie **Call and Response** in Jazz-Interplay.
 - 4. Klärung des „Tumbao“-Konzepts durch **Stärkung der Grundlinie**.
 
 Dies führte dazu, dass seine Band als „afro-kubanisches Ensemble“ Pionierarbeit leistete.
@@ -94,7 +94,7 @@ Sein Stil verband die Intensität seiner schwarzen Wurzeln mit der Intelligenz d
 * *Sabus Jazz Espagnole* (1960)
 * *Afro-Tempel* (1973)
 
-### Merkmale:
+### 特徴：
 
 * **Eine Fusion aus Triolen und Polyrhythmen. **
 * **Bata-Trommelphrase** in Conga übersetzt.
@@ -178,7 +178,7 @@ Es ist auch der Prototyp der „rhythmischen Symmetrie“ im Hip-Hop-Loop-Aufbau
 
 ---
 
-## **Kapitel 8: Fazit – Auf die „Wurzeln“ des Afro-Kubaner hören**
+## **Kapitel 8: Fazit – Auf die „Wurzeln“ des Afro-Kubanern hören**
 
 Sabu Martinez und Arsenio Rodriguez――
 Die beiden starteten auf verschiedenen Inseln und landeten im selben Herzschlag.
@@ -217,7 +217,7 @@ timeline
 ## **Referenzdiskographie**
 
 | Künstler | Album | Etikett / Jahr | Notizen |
-| ----------------- | ------------------------------------------------------------- | ---------------- | ---------------- |
+| ----------------- | ---------------------------------------------------------------------------- | ---------------- | ---------------- |
 | Sabu Martinez     | [*Palo Congo*](https://amzn.to/49pTYTA)                    | Blue Note, 1957  | アフロ・キューバン・ジャズ金字塔 |
 | Sabu Martinez     | [*Afro Temple*](https://amzn.to/4nwZIhX)                   | Philips, 1973    | スピリチュアル・アフロの頂点   |
 | Arsenio Rodríguez | [*Bruca Maniguá*](https://amzn.to/4314IUD)                 | RCA Victor, 1947 | 初期ソン革命期代表作       |

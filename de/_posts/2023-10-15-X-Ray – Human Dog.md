@@ -9,18 +9,18 @@ permalink: /de/x-ray-human-dog/
 tags:
 - Heavy Metal
 - Hard Rock
-title: Röntgen – Mensch Hund
+title: X-Ray – Human Dog
 ---
 
 
-X-Ray war eine japanische Heavy-Metal-Band, die von 1981 bis 1986 aktiv war. Human Dog, veröffentlicht im Dezember 1985, war X-Rays letzte EP.
+X-Ray（エックスレイ）は、1981年から1986年まで活動した日本のヘヴィメタルバンド。1985年12月にリリースされた「Human Dog」は、X-Ray最後のEP。
 
-Mitglied:
-Akira Fujimoto (Gesang)
-Susumu Yuasa (Gitarre)
-Takafumi Usui (Bass)
-Kazuhisa Takahashi (Schlagzeug)
-Takahiro Fujiyama (Tastatur)
+メンバー：
+藤本朗（ボーカル）
+湯浅晋（ギター）
+臼井孝文（ベース）
+高橋和久（ドラム）
+藤山高浩（キーボード）
 
 #### Trackliste
 ```md

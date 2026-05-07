@@ -13,9 +13,9 @@ title: Menno de Jong – Tundra
 ---
 
 
-Menno de Jong ist ein niederländischer Trance-DJ und Produzent, der im Genre Trance-Musik tätig ist.
+Menno de Jongは、オランダのトランスDJおよびプロデューサーであり、トランスミュージックのジャンルで活動しています。
 
-Die Musik von Menno de Jong ist Fans von Trance-Musik bekannt und zeichnet sich durch ihren energiegeladenen Sound und wunderschöne Melodien aus.
+Menno de Jongの音楽は、トランスミュージックのファンにとってはおなじみであり、エネルギッシュなサウンドと美しいメロディが特徴です。
 
 #### Trackliste
 ```md

@@ -8,12 +8,12 @@ layout: post
 permalink: /fr/deep-side-what-i-need/
 tags:
 - Hiphop
-title: Deep Side – Ce dont j’ai besoin
+title: Deep Side – What I Need
 ---
 
 
-« Deep Side – Ce dont j’ai besoin »
-La première chanson de la face B présente Juvenile, un artiste/rappeur MC/hip-hop de la Nouvelle-Orléans.
+「Deep Side – What I Need」の
+B面１曲目は、ニューオーリンズ出身のMC/ヒップホップアーティスト/ラッパーJuvenile（ジュヴィナイル）をフィーチャリング。
 
 
 #### Liste des chansons

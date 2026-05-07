@@ -14,7 +14,7 @@ title: Tim Schuldt – Animatronic EP
 ---
 
 
-Tim Schuldt ist ein goanischer und psychedelischer Trance-Künstler aus Deutschland. Er ist außerdem Studio- und Mastering-Ingenieur und Inhaber der 4CN Studios.
+Tim Schuldtは、ドイツ出身のGoaおよびサイケデリック・トランスアーティスト。また、スタジオおよびマスタリングエンジニアであり、4CN Studiosのオーナーでもあります。
 
 #### Trackliste
 ```md

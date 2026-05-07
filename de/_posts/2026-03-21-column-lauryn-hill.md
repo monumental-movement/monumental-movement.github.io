@@ -19,7 +19,7 @@ title: '[Kolumne] Lauryn Hill – Eine Musikaufzeichnung, in der sich Seele und 
 
 ## Prolog: Wenn Stimmen die Zeiten ändern
 
-Text: mmr｜Thema: Eine Ausdrucksbahn, die die innere Welt des Individuums und der sozialen Perspektive verschmolz, um „Wahrheit“ in die Musik zu verwandeln
+Text: mmr｜Thema: Eine Ausdrucksbahn, die die innere Welt der individuellen und sozialen Perspektive verschmolz und „Wahrheit“ in die Musik verwandelte
 
 Die Musikszene der 1990er Jahre war eine Zeit, in der Hip-Hop und R&B schnell zum Mainstream wurden und sich als riesige Industrien etablierten. Musikvideos, Radio und Plattenfirmenstrategien haben die Musik einflussreicher gemacht als je zuvor und gleichzeitig den Druck der Homogenisierung und Kommerzialisierung erhöht.
 
@@ -29,7 +29,7 @@ Ihre Musik bewegt sich frei zwischen Rap und Gesang und integriert Themen wie Li
 
 Wenn Hip-Hop Musik ist, die über die Außenwelt spricht, dann kann man sagen, dass sie einen tiefen Bereich der „inneren“ Welt hineingebracht hat.
 
-> Als die Musik wieder als „persönliche Stimme“ zu erklingen begann, war sie mittendrin.
+> Als die Musik als „persönliche Stimme“ wieder zu erklingen begann, war sie mittendrin.
 
 ---
 
@@ -53,7 +53,7 @@ color: #fff;
 
 Lauryn Hills Karriere begann als Mitglied der Fugees. Die Gruppe wurde mit Wyclef Jean und Pras Michel gegründet und hatte eine diasporische Identität, was durch das Wort Refugee symbolisiert wird.
 
-Ihr 1994 veröffentlichtes Debütalbum Blunted on Reality entsprach den Hip-Hop-Trends der Zeit und war kein großer kommerzieller Erfolg. Aber selbst unter ihnen strahlte Hills Wechsel zwischen Gesang und Rappen bereits eine einzigartige Präsenz aus.
+Ihr 1994 veröffentlichtes Debütalbum „Blunted on Reality“ entsprach den damaligen Hip-Hop-Trends und war kein großer kommerzieller Erfolg. Doch selbst unter ihnen strahlte Hills Wechsel zwischen Gesang und Rappen bereits eine einzigartige Präsenz aus.
 
 ### „The Score“ markiert einen Wandel
 
@@ -75,7 +75,7 @@ In dieser Zeit wurden auch Ausdrücke festgestellt, die offenbar von Roberta Fla
 
 Der Erfolg der Fugees war ein Wendepunkt, aber auch eine Einschränkung. Es entsteht eine Kluft zwischen der Richtung der Gruppe und dem individuellen Ausdruck.
 
-Hill begann allmählich, Werke anzustreben, die sich mit dem eigenen Inneren auseinandersetzen. Dahinter standen Veränderungen in ihren romantischen Beziehungen, ihrer spirituellen Erkundung und sogar ihren Erfahrungen als Mutter.
+Hill interessierte sich allmählich für die Schaffung von Werken, die sich mit dem eigenen Inneren auseinandersetzen. Dahinter standen Veränderungen in ihren romantischen Beziehungen, ihrer spirituellen Erkundung und sogar ihren Erfahrungen als Mutter.
 
 Für sie ist Musik nicht mehr eine an die Außenwelt gerichtete Darbietung, sondern ein Mittel des Dialogs mit sich selbst.
 
@@ -86,7 +86,7 @@ Hill gab zu dieser Zeit nicht nur sein Solodebüt, sondern beschäftigte sich au
 Das Ergebnis war das Album von 1998
 Die Fehlbildung von Lauryn Hill.
 
-> Als ich die Erfolgsgruppe verließ, kam meine „wahre Stimme“ zum ersten Mal zum Vorschein.
+> Als ich die Erfolgsgruppe verließ, erschien erstmals meine „wahre Stimme“.
 
 ---
 
@@ -176,7 +176,7 @@ Dieses Werk erhielt gemischte Kritiken, aber seine Offenheit war von unschätzba
 
 ---
 
-## Einfluss und Erbe: Wellen, die sich leise ausbreiten
+## Einfluss und Erbe: Wellen breiten sich leise aus
 
 ### Erweiterung des weiblichen Ausdrucks
 
@@ -201,7 +201,7 @@ Ihre Texte betonten die Bedeutung des introspektiven Ausdrucks im Hip-Hop.
 | 1994 | Debüt als Flüchtlinge |
 | 1996 | „The Score“ angekündigt |
 | 1998 | Ankündigung eines Soloalbums |
-| 1999 | 5 Grammy Awards |
+| 1999 | 5 Grammys |
 | 2002 | MTV Unplugged |
 | 2010er | Konzentrieren Sie sich auf Live-Aktivitäten |
 

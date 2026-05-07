@@ -10,26 +10,26 @@ tags:
 - Hardcore
 - Heavy Metal
 - Noise
-title: Zeni Geva – Désir d’agonie
+title: Zeni Geva – Desire For Agony
 ---
 
 
-L'album "Pain Oriented" de Zenigeva a été enregistré et mixé au Basement à Chicago, aux États-Unis, en septembre 1993.
+ゼニゲバのアルバム「苦痛志向」は、アメリカ シカゴのThe Basementで1993年9月に録音&ミックス。
 
-Zeni Geva est un groupe japonais formé à Tokyo en 1987.
+Zeni Gevaは、1987年に東京で結成された日本のバンドです。
 
-Leur style musical intègre des éléments de rock progressif, de hardcore, de heavy metal, de noise rock, etc.
+プログレロック、ハードコア、ヘヴィメタル、ノイズロックなどの要素を取り入れた音楽性が特徴。
 
-Les membres principaux sont KK.Null, également connu pour ses activités solo, et Mitsuru Tabata, connu pour son travail avec Acid Mothers Temple, mais les autres membres ont changé au fil des ans.
+中心メンバーは、ソロ活動でも知られるKK.Nullと、Acid Mothers Templeでの活動で知られる田畑満ですが、他のメンバーは長年に渡って入れ替わりがありました。
 
-Après une longue interruption, ils se réunissent en 2007 et reprennent leurs activités en 2009.
+長い休止期間の後、2007年に再結成し、2009年から再び活動を再開。
 
-Tatsuya Yoshida, qui était l'un des membres originaux, s'est joint à la batterie. Depuis que Mitsuru Tabata a quitté le groupe en 2012, ils sont actuellement actifs en duo.
+初期メンバーの一人でもあった吉田達也がドラムで加入しました。田畑満は2012年に脱退したため、現在はデュオとして活動しています。
 
-membres actuels
+現在のメンバー
 
-KK.Null – chant, guitare
-Tatsuya Yoshida – batterie, chant
+KK.Null - ボーカル、ギター
+吉田達也 - ドラム、ボーカル
 
 #### Liste des chansons
 ```md

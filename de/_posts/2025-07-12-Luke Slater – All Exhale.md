@@ -15,7 +15,7 @@ title: Luke Slater – All Exhale
 ---
 
 
-„All Exhale“ ist eine Single des britischen Techno-DJs und Produzenten Luke Slater, die im Jahr 2000 auf dem Label NovaMute (Mute-Gruppe) veröffentlicht wurde. Die Originalversion war auf dem 1999 erschienenen Klassiker-Album „Wireless“ enthalten. Der kraftvolle, treibende Techno-Track war ein Riesenhit und eine häufig in Clubs gespielte Hymne.
+„All Exhale“ ist eine Single des britischen Techno-DJs und Produzenten Luke Slater, die im Jahr 2000 auf dem Label NovaMute (Mute-Gruppe) veröffentlicht wurde. Die Originalversion war auf dem 1999 erschienenen Klassiker-Album „Wireless“ enthalten. Der kraftvolle, treibende Techno-Track war ein großer Hit und eine häufig in Clubs gespielte Hymne.
 
 Der vierte Song ist ein Remix von Futureshock, einem britischen Elektronik-Duo, das von 1998 bis 2003 aktiv war.
 

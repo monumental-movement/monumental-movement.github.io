@@ -9,7 +9,7 @@ permalink: /de/column-david-cunningham-this-heat/
 tags:
 - Experimental
 - Post Punk
-title: '[Kolumne] David Cunningham – Der Begründer der Post-Punk/experimentellen Musik
+title: '[Kolumne] David Cunningham – Der Begründer der Post-Punk-/Experimentalmusik
   und der Genealogie der Flying Lizards'
 ---
 
@@ -74,7 +74,7 @@ Hier analysieren wir die Texte jedes Liedes aus gesellschaftskritischer Sicht un
 
 This Heat (1976–82) war eine experimentelle Rockband aus London, bestehend aus Charles Hayward, Charles Burrell und Gareth Williams. Cunningham war maßgeblich an der Aufnahme und Bearbeitung beteiligt und leistete technische Unterstützung bei der Einführung von Bandschleifen, Feedback und akustischen Collagen.
 
-Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio, das aus einem Kühllager umgebaut wurde) wurde für Cunningham zu einem Ort, an dem er seine technischen Fähigkeiten unter Beweis stellen konnte. Durch das Schneiden und Zusammenfügen von Bändern, das Rückwärtsabspielen und das Zerlegen der Aufnahme in 24 Spuren entstanden Klänge, die später direkt mit der Post-Rock- und Noise-Szene verbunden werden sollten.
+Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio, das aus einem Kühllager umgebaut wurde) wurde für Cunningham zu einem Ort, an dem er seine technischen Fähigkeiten unter Beweis stellen konnte. Durch das Schneiden und Zusammenfügen von Bändern, das Rückwärtsabspielen und das Zerlegen der Aufnahme in 24 Spuren entstanden Klänge, die später direkt mit den Post-Rock- und Noise-Szenen verbunden werden sollten.
 
 ---
 
@@ -83,7 +83,7 @@ Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio
 #### „Diese Hitze“ (1979)
 
 - **„Not Waving“**: Der Titel erinnert an ein Gedicht von Stevie Smith. Symbol für individuelle Einsamkeit und nationale Entfremdung.
-- **„24 Track Loop“**: Kein Liedtext, drückt aber die „mechanische Wiederholung des Kapitalismus“ mit Ton aus. Die Endlosschleife ist eine Metapher für das „Zeitalter der Stagnation“.
+- **„24 Track Loop“**: Kein Liedtext, sondern drückt die „mechanische Wiederholung des Kapitalismus“ mit Ton aus. Die Endlosschleife ist eine Metapher für das „Zeitalter der Stagnation“.
 - **„Horizontales Halten“**: Aus der TV-Terminologie zitiert. Eine Satire auf „Informationsmanipulation“ und „Massenmedienkontrolle“ während des Kalten Krieges.
 
 ---
@@ -94,10 +94,10 @@ Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio
 
 ---
 
-#### „Täuschung“ (1981)
+#### „Deceit“ (1981)
 
 Das beste Werk der Band. Das ganze Thema ist **Angst und Lügen (Täuschung) über den Atomkrieg während des Kalten Krieges**.
-- **„Schlaf“**: Der wiegenliedartige Text, der „Schlaf in Frieden“ flüstert, ist eigentlich ironisch, denn „die Welt bricht zusammen, während du schläfst.“
+- **„Sleep“**: Der wiegenliedartige Text, der „Schlaf in Frieden“ flüstert, ist eigentlich ironisch, denn „die Welt bricht zusammen, während du schläfst.“
 - **"Kenotaph"**: Titel, der sich auf den Kenotaph bezieht. Eine Anklage gegen die Torheit der Menschheit, die sich an Kriege erinnert und diese wiederholt.
 - **„Eine neue Art von Wasser“**: Neues Wasser = radioaktive Kontamination. Eine Metapher für Atomtests und Atomkrieg.
 - **„Independence“**: Es schreit nach Unabhängigkeit und Freiheit, aber die Texte sind voller Widersprüche. Kritisiert die Fiktion des Nationalismus.
@@ -127,7 +127,7 @@ Der Text war klarer als in der Studioversion und der soziale Kommentar wurde üb
 
 #### Analoger EQ und Outboard
 - Verwendet EQ im Neve- und Trident-Stil.
-- Der lebhafte Auftritt der Band wird gezielt „verzerrt“ und „räumlich arrangiert“, um seinen experimentellen Charakter zu betonen.
+- Der lebendige Auftritt der Band ist absichtlich „verzerrt“ und „räumlich arrangiert“, um seinen experimentellen Charakter zu betonen.
 - Es wurde verwendet, um ein „akustisches Unbehagen“ zu erzeugen, und nicht für eine Standardkorrektur.
 
 ---

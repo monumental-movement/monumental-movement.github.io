@@ -13,7 +13,7 @@ title: Autechre – Envane
 ---
 
 
-「Autechre」は、ショーン・ブース（Sean Booth）とロブ・ブラウン（Rob Brown）からなるイギリスのテクノユニットです。
+Autechre 是一支英國 techno 樂隊，由 Sean Booth 和 Rob Brown 組成。
 
 Envane 是 Autechre 於 1997 年發行的一張 CD，具有獨特的電子音樂方法、複雜的節奏、抽象的音景和實驗性的聲音設計。
 

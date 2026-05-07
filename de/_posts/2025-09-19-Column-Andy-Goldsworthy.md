@@ -95,7 +95,7 @@ color: #fff;
 
 ---
 
-### Strukturierte Playlist nach dem „Fluss der Zeit“
+### Playlist nach dem „Fluss der Zeit“ geordnet
 
 #### Morgen
 
@@ -123,7 +123,7 @@ color: #fff;
 
 ### Saisonaler Fluss
 
-- Frühling: Ryuichi Sakamoto - *Async*
+– Frühling: Ryuichi Sakamoto – *Async*
 - Sommer: Chris Watson ― *Wetterbericht*
 - Herbst: Johann Johannsson - *Orphée*
 - Winter: Alva Noto & Ryuichi Sakamoto - *Vrion*

@@ -10,11 +10,11 @@ tags:
 - Soul
 - Funk
 - Hi NRG
-title: Evelyn Thomas – L'été sur la plage
+title: Evelyn Thomas – Summer On The Beach
 ---
 
 
-"Evelyn Thomas" est un single de son vrai nom Ellen Lucille Thomas, sorti par le label britannique "Nightmare Gold Records" en 1987.
+1987年にUKのレーベル「Nightmare Gold Records」からリリースされた本名Ellen Lucille Thomasによるシングル「Evelyn Thomas」です。
 
 #### Liste des chansons
 ```md

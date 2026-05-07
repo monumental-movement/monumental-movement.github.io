@@ -15,7 +15,7 @@ title: StudioVoice 單獨音量所有流派光碟指南 Studio Voice
 
 #### StudioVoice 單獨音量所有流派光碟指南 Studio Voice
 
-ULTIMATE CUT UP MUSIC - 2000-2005 合輯
+ULTIMATE CUT UP MUSIC - 2000-2005 合集
 
 包含 500 多張光碟的全類型完整光碟指南。發表專欄20餘人。
 

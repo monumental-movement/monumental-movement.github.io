@@ -10,17 +10,16 @@ permalink: /fr/column-lo-fi-folk-bedroom-folk/
 tags:
 - Lo-Fi
 - Folk
-title: '[Chronique] La généalogie du Lo-Fi Folk / Bedroom Folk et l''approfondissement
-  de la culture du home record'
+title: 【コラム】 Lo-Fi Folk / Bedroom Folk の系譜と宅録文化の深化
 ---
 
 
 
-## La généalogie du Lo-Fi Folk / Bedroom Folk et l'approfondissement de la culture du home record
+## Lo-Fi Folk / Bedroom Folk の系譜と宅録文化の深化  
 
-Texte : mmr｜Thème : À propos du développement sonore et culturel du Lo-Fi Folk, y compris l'environnement et l'équipement de production de l'artiste
+文：mmr｜テーマ：アーティストの制作環境や機材を含め、Lo-Fi Folk の音響的・文化的発展について
 
-La musique folk aux accents lo-fi est au centre de « l’histoire de la musique produite individuellement » qui perdure depuis la culture de l’enregistrement à domicile des années 1970. L'évolution du matériel d'enregistrement, la diffusion de la production individuelle et l'approche consistant à enregistrer discrètement les sentiments intérieurs du chanteur se sont tous combinés pour former une tendance connue sous le nom de Bedroom Folk depuis les années 2000.
+ローファイの質感を伴うフォーク・ミュージックは、1970年代の宅録文化から連綿と続く「個人制作の音楽史」の中心に位置している。録音機材の進化、個人制作の普及、そして歌い手の内面を静かに記録するアプローチが重なり、2000年代以降は Bedroom Folk として一つの潮流を形成した。
 
 
 ---
@@ -39,124 +38,124 @@ color: #fff;
 </style>
 
 
-## 1. Origine : La germination du folk Takuroku (années 1970-1990)
+## 1. 起源：宅録フォークの萌芽（1970s–1990s）
 
-### 1-1. Années 1970 : essor de la culture de l'enregistrement à domicile
-Les magnétophones grand public sont devenus populaires à la fin des années 1970 et, avec l’avènement des platines cassettes bon marché, la culture de l’enregistrement à domicile s’est répandue. Dans le monde de la musique folk, le prototype du « folk enregistré à la maison » est apparu, dans lequel les artistes eux-mêmes s'enregistrent en train de jouer et de chanter dans leur propre chambre.
+### 1-1. 1970s：ホームレコーディング文化の台頭
+1970年代後半から民生用テープレコーダーが普及し、安価なカセットデッキが登場したことで、家庭で録音を行う文化が広がった。フォークの世界でも、アーティスト自身が自宅の部屋で弾き語りを録音する「宅録フォーク」の原型が現れた。
 
-#### Principales pratiques
-- Branchez le microphone dynamique directement sur la platine cassette
-- Enregistrements mixés avec des sons de la vie quotidienne
-- Enregistrement en une seule prise avec presque aucun mixage
-- Création sonore qui conserve les échos naturels de la pièce
+#### 主な実践  
+- ダイナミックマイクをカセットデッキに直挿し  
+- 生活音が混じる録音  
+- ミックスダウンをほぼ行わないワンテイク収録  
+- 部屋の自然反響をそのまま残す音作り  
 
-Même si la qualité sonore n'était en aucun cas excellente, elle a été louée pour sa capacité à préserver la distance entre la voix chantée et la guitare et l'atmosphère de la pièce.
+音質は決して高くなかったが、歌声とギターの距離、部屋の空気感がそのまま保存される特性が評価された。
 
-### 1-2. Années 1980-1990 : connexion entre le folk indie et le Takuroku
-À la fin des années 1980, des MTR à cassettes 4 pistes bon marché (tels que TASCAM Portastudio) sont apparus et la qualité de l'enregistrement à domicile s'est considérablement améliorée.
+### 1-2. 1980s–1990s：インディフォークと宅録の接続
+1980年代後半から、安価な4トラックカセットMTR（TASCAM Portastudio など）が登場し、宅録の質が飛躍的に高まった。
 
-L'enregistrement s'est imposé comme un moyen d'expression personnelle,
-- Multi-enregistrement
-- Construisez un arrangement dans votre propre chambre
-- Les harmoniques saturées uniques de la cassette
-était associé à des expressions folkloriques.
+録音が個人の表現手段として確立し、  
+- 多重録音  
+- 自室でのアレンジ構築  
+- カセット独自の飽和した倍音  
+がフォーク表現と結びついた。
 
-Dans les années 1990, parallèlement à la culture des cassettes des labels indépendants, le nombre d’œuvres créées par les auteurs-compositeurs-interprètes dans leur chambre a augmenté.
-
----
-
-## 2. Début des années 2000 : Création de Bedroom Folk
-
-### 2-1. Environnement d'enregistrement à domicile Iron & Wine (Sam Beam)
-Les premiers travaux d'Iron & Wine « The Creek Drank the Cradle » (2002) sont connus comme une œuvre représentative de Bedroom Folk.
-De nombreux enregistrements sont réalisés au domicile de l'artiste et comprennent :
-
-### ● Environnement d'enregistrement
-- La maison de Sam Beam en Floride
-- Utilise 2 pièces : chambre et salon
-- Utiliser activement le son réfléchi de la pièce
-- Le microphone utilise une combinaison de simple condensateur et de dynamique
-- Lorsque le MTR sur cassette et l'enregistrement numérique étaient mixés
-
-### ● Caractéristiques sonores
-- Voix chuchotée
-- Laissant des bruits de guitare acoustique et des éraflures de doigts
-- Enregistrez l'air ambiant et la réverbération des minutes tels quels
-- « Sentiment de proximité » propre à l'enregistrement à domicile à faible volume
-
-Ces éléments ont défini l’image sonore du Lo-Fi Folk à partir des années 2000.
-
-### 2-2. Méthode de production des premières œuvres de Sufjan Stevens
-Les premières œuvres de Sufjan Stevens, en particulier Seven Swans (2004), ainsi que ses enregistrements vocaux antérieurs et ultérieurs montrent une utilisation active des enregistrements personnels.
-
-### ● Principales techniques
-- Jouez seul de nombreux instruments
-- Améliorez le placement du microphone dans votre environnement domestique (minimisez les réflexions murales)
-- La majeure partie de la réverbération est construite avec une réverbération naturelle
-- Complétez votre propre mix à la maison
-- Enregistrement d'orgues et de banjos à courte distance, préservant la texture Lo-Fi unique
-
-En particulier, dans les premières œuvres, la **rugosité semblable à une bande** et les **enregistrements vocaux très proches** sont devenus des symboles du Bedroom Folk.
+1990年代には、インディレーベルのカセットリリース文化と共に、シンガーソングライターが Bedroom で作る作品が増加する。
 
 ---
 
-## 3. Caractéristiques sonores du Lo-Fi Folk
+## 2. 2000年代初頭：Bedroom Folk の確立
 
-### 3-1. Méthode d'enregistrement
-Lo-Fi Folk se caractérise par un style qui accepte activement les limites de l'équipement d'enregistrement lui-même en tant que « son ».
+### 2-1. Iron & Wine（Sam Beam）の宅録環境
+Iron & Wine の初期作『The Creek Drank the Cradle』（2002）は、Bedroom Folk を代表する作品として知られる。  
+録音の多くが **アーティストの自宅** で行われ、次のような特徴がある：
 
-### ● Exemples d'équipements utilisés
-- Cassette 4 pistes MTR
-- Enregistreur minidisque
-- Premier MTR numérique
-- Microphone bon marché similaire à un enregistreur vocal
-- Traitement d'absorption acoustique fait maison (couvertures, étagères, rideaux)
+### ● 録音環境  
+- フロリダ州の Sam Beam の自宅  
+- 寝室と居間の2部屋を使用  
+- 部屋の反射音を積極的に活用  
+- マイクはシンプルなコンデンサとダイナミックを併用  
+- カセットMTRとデジタル録音を混在させた時期
 
-### ● Son caractéristique
-- Rondeur des hautes fréquences due à la saturation des cassettes
-- Existence de bruit ambiant dû à un environnement calme
-- Son vocal super proche
-- Bruits mineurs (bruit de cordes, grondement du sol, bruissement des vêtements)
-- Disposition d'enregistrement avec une forte sensation de prise unique
+### ● 音の特徴  
+- ささやくようなボーカル  
+- アコースティックギターのノイズや指の擦れを残す  
+- 部屋の空気と微小なリバーブをそのまま収録  
+- 音量の小さい宅録ならではの「近接感」
 
-### 3-2. Thème lyrique
-Les paroles de Bedroom Folk sont souvent introspectives, parlant à voix basse de leur vie personnelle, de leurs émotions et de leurs souvenirs.
+これらの要素が、2000年代以降の Lo-Fi Folk の音像を規定した。
 
-- Vie quotidienne personnelle
-- Souvenirs de famille et de maison
-- Relations étroites
-- Contenu religieux et spirituel silencieux
-- Un regard loin de l'agitation de la ville
+### 2-2. Sufjan Stevens 初期作の制作手法
+Sufjan Stevens の初期作品、とくに『Seven Swans』（2004）や前後期の弾き語り音源には、**自宅録音の積極的な利用**が見られる。
 
-Iron & Wine, une tendance partagée par les premiers travaux de Sufjan Stevens.
+### ● 主な技法
+- 多数の楽器を一人で演奏  
+- 自宅環境でのマイク配置を工夫（壁の反射を最小化）  
+- リバーブの大半を自然残響で構築  
+- ミックスを宅内で自己完結  
+- オルガンやバンジョーを近距離収録し、Lo-Fi特有の質感を保持
 
----
-
-## 4. Années 2010 : Intersection avec la Bedroom Pop
-Dans les années 2010, avec la numérisation des équipements d’enregistrement à domicile, de plus en plus d’artistes ont commencé à produire dans leur chambre. Les frontières entre folk, musique électronique et musique ambiante sont devenues floues et la portée du Lo-Fi Folk s'est élargie.
-
-### ● Principales tendances
-- Les DAW (Pro Tools, GarageBand, Logic, etc.) deviennent populaires
-- Vulgarisation des microphones USB
-- Augmentation de la communauté d'enregistrement à domicile en ligne
-- Réévaluation de la culture sur cassette
-
-Même si la qualité sonore était plus claire qu'auparavant, les mixages qui avaient toujours une « sensation d'espace » étaient toujours préférés.
+特に、初期作では **テープ的なざらつき** と **非常に近いボーカル録音** が Bedroom Folk の象徴となっている。
 
 ---
 
-## 5. Années 2020 : Post-lo-fi et retour acoustique
-Dans les années 2020, le Lo-Fi Folk s’oriente vers une approche plus statique. Avec des compositions minimalistes, un accent mis sur l'enregistrement en direct et une réduction du bruit manifeste, Bedroom Folk se dirige vers une scène où « réalisme sonore de la vie » et « intimité haute résolution » coexistent.
+## 3. Lo-Fi Folk の音響的特徴
 
-- Prix réduits pour les microphones à condensateur de haute qualité
-- Plug-ins standards DAW améliorés
-- Simplifiez le réglage de la pièce à la maison
+### 3-1. レコーディング手法
+Lo-Fi Folk は録音機材そのものの制約を積極的に「音」として受け入れるスタイルが特徴である。
 
-Ces facteurs rendent le folk moderne encore plus mature.
+### ● 用いられた機材例
+- 4トラックカセットMTR  
+- ミニディスク録音機  
+- 初期デジタルMTR  
+- ボイスレコーダーに近い安価マイク  
+- 自作の吸音処理（毛布・本棚・カーテン）
+
+### ● 特徴的な音
+- カセット飽和による高域の丸さ  
+- 静音環境による部屋鳴りの存在  
+- ボーカルの超近接音  
+- 微細なノイズ（弦ノイズ、床鳴り、衣擦れ）  
+- ワンテイク感の強い録音配置
+
+### 3-2. 歌詞テーマ
+Bedroom Folk の歌詞は往々にして内省的で、個人の生活・感情・記憶を小さな声で語る。
+
+- 個人的な日常  
+- 家族・家の記憶  
+- 近しい人間関係  
+- 静かな宗教的・精神的内容  
+- 都市の喧噪から距離を置いた場所への視線
+
+Iron & Wine、Sufjan Stevens の初期作で共有される傾向である。
 
 ---
 
-## 6. Histoire du développement par âge (chronologie)
+## 4. 2010年代：Bedroom Pop との交錯
+2010年代、宅録機材のデジタル化によって、より多くのアーティストが Bedroom で制作を開始した。フォークと電子音楽、アンビエントなどの境界が曖昧になり、Lo-Fi Folk の裾野も広がった。
+
+### ● 主な動向
+- DAW（Pro Tools、GarageBand、Logic など）が一般化  
+- USBマイクの普及  
+- オンラインでの宅録コミュニティの増加  
+- カセット文化の再評価  
+
+音質はかつてよりクリアになったが、「部屋っぽさ」を残すミックスは変わらず好まれた。
+
+---
+
+## 5. 2020年代：ポスト・ローファイとアコースティック回帰
+2020年代に入り、Lo-Fi Folk はより静的なアプローチへと向かう。ミニマルな編成、生録音の重視、露骨なノイズの削減など、Bedroom Folk は「生活音のリアリズム」と「高解像度の親密さ」が共存する段階へ移行している。
+
+- 高品質コンデンサマイクの低価格化  
+- DAWの標準プラグインの向上  
+- 自宅でのルームチューニングの簡易化  
+
+これらの要因が、現代の宅録フォークをさらに成熟させている。
+
+---
+
+## 6. 年代別発展史（年表）
 
 <div class="mermaid">
 flowchart TD
@@ -169,7 +168,7 @@ flowchart TD
 
 ---
 
-## 7. Structure de production Lo-Fi Folk (schéma)
+## 7. Lo-Fi Folk の制作構造（図）
 
 <div class="mermaid">
 flowchart TD
@@ -184,40 +183,40 @@ flowchart TD
 
 ---
 
-## 8. Œuvres représentatives
+## 8. 代表作品
 
-### 8-1. Iron & Wine — Le ruisseau a bu le berceau (2002)
-- enregistrement à domicile
-- L'enregistrement est à volume extrêmement faible
-- Enregistrement à courte distance tout en supprimant le bruit ambiant
-- Haut de gamme souple de type cassette
-- Mix qui retient activement le bruit des doigts de guitare
+### 8-1. Iron & Wine — The Creek Drank the Cradle（2002）
+- 自宅録音  
+- 録音は極めて低音量  
+- 部屋鳴りを抑えつつ、距離感の近い録音  
+- カセット的な柔らかい高域  
+- ギターの指ノイズを積極的に残したミックス  
 
-### 8-2. Sufjan Stevens — Sept cygnes (2004)
-- Enregistrement personnel de plusieurs instruments à la maison
-- Enregistrement rapproché de banjo, guitare, orgue
-- Vocalisation vocale semblable à un murmure
-- Utilise les réverbérations naturelles de la pièce
+### 8-2. Sufjan Stevens — Seven Swans（2004）
+- 多楽器を自宅で個人収録  
+- バンジョー、ギター、オルガンを近距離録音  
+- ボーカルの囁きに近い発声  
+- 部屋の自然残響を使用  
 
 ---
 
-## 9. Influence Lo-Fi Folk et signification contemporaine
-Le folk lo-fi est un genre qui redéfinit l'expression née des contraintes techniques comme valeur de la musique.
+## 9. Lo-Fi Folk の影響と現代的意義
+ローファイフォークは、技術的制約から生まれた表現を、むしろ音楽の価値として再定義したジャンルである。
 
-- Production sans dépendre des grands studios
-- Enregistrez directement les émotions personnelles et la vie quotidienne sous forme sonore
-- Le cadre de vie de la pièce est intégré à la composition de la musique.
-- Poursuivre « l'intimité » en minimisant la distance entre la voix chantée et les instruments
+- 大規模スタジオに依存しない制作  
+- 個人の感情や日常を直接的に音として記録  
+- 部屋という生活環境が音楽の構成要素へ組み込まれる  
+- 歌声と楽器の距離を最小限にする「親密さ」の追求  
 
-Ceux-ci ont eu une grande influence sur la culture moderne de la Bedroom Pop et du chant.
+これらは現代の Bedroom Pop や弾き語り文化にも大きな影響を与えている。
 
 ---
 
 ## 10. Conclusion
-Lo-Fi Folk / Bedroom Folk a été le pionnier d'une nouvelle expression de la musique folk, prenant en compte les limites de l'équipement d'enregistrement et de l'espace de vie personnel.
-Les premières œuvres d'Iron & Wine et de Sufjan Stevens sont des exemples emblématiques du charme de l'enregistrement à domicile, et elles continuent d'influencer de nombreux artistes aujourd'hui.
+Lo-Fi Folk / Bedroom Folk は、録音機材の制約と個人の生活空間を前提としながら、フォーク音楽の新しい表現を切り開いてきた。  
+Iron & Wine や Sufjan Stevens の初期作は、宅録の純粋な魅力を示す象徴的な例であり、現在も多くのアーティストに影響を与えている。
 
-Les petites voix enregistrées dans la pièce ont enregistré la « sensation de la vie quotidienne » sous la forme d'un son qui n'était pas disponible en production en studio et ont ouvert un nouveau chapitre dans l'histoire de la musique folk.
+部屋で録られた小さな声は、スタジオ制作にはない「生活の手触り」をそのまま音として記録し、フォークの歴史に新たな章を刻んだ。
 
 
 ---

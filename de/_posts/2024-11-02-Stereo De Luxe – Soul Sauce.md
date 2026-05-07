@@ -10,17 +10,17 @@ tags:
 - Breakbeat
 - Downtempo
 - Big Beat
-title: Stereo De Luxe – Soulsauce
+title: Stereo De Luxe – Soul Sauce
 ---
 
 
-Stereo de Luxe ist ein DJ/Produzenten-Duo aus Berlin.
+Stereo de Luxeは、ベルリン出身のDJ・プロデューサーデュオ。
 
-Ursprünglich 1994 von Karsten „Kassi“ Wolf, einem Solo-DJ unter dem Künstlernamen Stereo de Luxe, gegründet, war die Band in der Berliner Lounge-, Easy-Listening- und Club-Pop-Szene aktiv.
+元々は1994年にStereo de Luxeという芸名でソロDJとして活動していたKarsten "Kassi" Wolfによって設立され、ベルリンのラウンジ、イージーリスニング、クラブポップシーンで活躍した。
 
-1998 gründete er ein Duo mit Thomas Mävers. Der Musikstil verlagerte sich auf Breakbeat, House und Electro-Funk. Ihre erste EP als Duo, „Aerocyclette 1999“, wurde auf dem Label Bungalow Records veröffentlicht.
+1998年にThomas Mäversとデュオを結成。音楽スタイルがブレイクビート、ハウス、エレクトロファンクにシフトした。デュオとしてのファーストEP「Aerocyclette 1999 」はレーベルBungalow Recordsからリリースされた。
 
-„Soul Sauce“ ist ein Breakbeat-Downtempo-Big-Beat-Track, der im Jahr 2000 von Bungalow Records veröffentlicht wurde.
+「Soul Sauce」は同じくBungalow Recordsから2000年にリリースされたブレイクビーツ・ダウンテンポ・ビッグビートトラック。
 
 #### Trackliste
 ```md

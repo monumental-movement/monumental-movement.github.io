@@ -157,7 +157,7 @@ graph LR
 
 ### Harmonie und Ton
 
-Zu komplexe Harmonien und starke Melodien rauben dem Gehirn die Aufmerksamkeit. Einfache Akkordfolgen und anhaltende Klänge (Drones) hingegen behindern das Denken nicht.
+Zu komplexe Harmonien und starke Melodien stehlen die Aufmerksamkeit des Gehirns. Einfache Akkordfolgen und ausgehaltene Klänge (Drones) hingegen behindern das Denken nicht.
 
 Deshalb eignet sich Ambient- und Minimal-Musik zum Arbeiten.
 

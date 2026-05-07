@@ -46,7 +46,7 @@ color: #fff;
 </style>
 
 
-## 2. Le sol de Rotterdam – conditions urbaines pour la naissance de Gaba
+## 2. Le sol de Rotterdam - conditions urbaines pour la naissance de Gaba
 
 Rotterdam est une ville qui a perdu une grande partie de son centre pendant la Seconde Guerre mondiale et qui a été reconstruite après la guerre. Le paysage urbain mettait l’accent sur l’aspect pratique, la fonctionnalité occupant le devant de la scène plutôt que la décoration historique. Cet environnement urbain a également une forte influence sur l’esthétique musicale.
 
@@ -130,7 +130,7 @@ Depuis les années 2000, une interprétation japonaise unique du hardcore s'est 
 
 Depuis les années 2010, le hardcore des années 90 fait l’objet d’une réévaluation. Des éléments autrefois boudés parce qu’excessifs sont désormais perçus comme un élément de sincérité.
 
-La vitesse et la distorsion de type Gabba prennent un nouveau sens dans le contexte de la techno contemporaine et de la musique expérimentale. L’ancienne rébellion sert désormais de référence.
+Dans le contexte de la techno contemporaine et de la musique expérimentale, la vitesse et la distorsion de type gabber prennent un nouveau sens. L’ancienne rébellion sert désormais de référence.
 
 > Gabba Hardcore est une culture inachevée qui continue d'être réinterprétée au fil du temps.
 

@@ -10,17 +10,16 @@ permalink: /fr/column-reggae-hiphop/
 tags:
 - Reggae
 - Hiphop
-title: '[Chronique] Reggae × Hip-Hop : des sound-systems aux villes mondiales : une
-  histoire d''échanges mondiaux de rythmes qui se croisent'
+title: 【コラム】 Reggae × Hip-Hop：サウンドシステムから世界都市へ——交差するリズムのグローバル交流史
 ---
 
 
 
-## Du sound system aux standards mondiaux, la généalogie de la bass culture qui traverse les frontières
+## サウンドシステムから世界標準へ、越境する低音文化の系譜
 
-Texte : mmr｜Thème : Le va-et-vient du rythme reliant la Jamaïque et le Bronx, et l'histoire culturelle de l'expansion dans les villes mondiales
+文：mmr｜テーマ：ジャマイカとブロンクスを結ぶリズムの往還と、世界都市へ拡張した文化史
 
-Le reggae et le hip-hop sont des cultures bass nées de la périphérie et répandues dans le monde à travers les villes. Lorsque les systèmes audio jamaïcains ont croisé le Bronx de New York, la musique est devenue plus qu'un simple divertissement et a commencé à raconter l'histoire de l'immigration et de la ville elle-même. Cet article retrace l’histoire de cet échange en termes d’événements et d’œuvres.
+レゲエとヒップホップは、周縁から生まれ、都市を媒介に世界へ広がった低音文化である。ジャマイカのサウンドシステムとニューヨークのブロンクスが交差したとき、音楽は単なる娯楽を超え、移民と都市の歴史そのものを語り始めた。本稿は、その交流史を出来事と作品に即して辿る。
 
 
 ---
@@ -39,27 +38,27 @@ color: #fff;
 </style>
 
 
-### Qu'est-ce que le Reggae × Hip-Hop ?
+### Reggae × Hip-Hopとは何か
 
-Le reggae est une musique populaire établie en Jamaïque à la fin des années 1960. Elle a évolué du ska au rocksteady et se caractérise par des contre-temps et des basses lourdes. Le hip-hop est un mouvement culturel né dans le Bronx, à New York, au début des années 1970, et composé de quatre éléments : le DJing, le MCing, le breakdance et le graffiti.
+レゲエは1960年代後半のジャマイカで確立したポピュラー音楽であり、スカとロックステディを経て、オフビートと重低音を特徴とする。ヒップホップは1970年代前半のニューヨーク・ブロンクスで形成された文化運動で、DJ、MC、ブレイクダンス、グラフィティを四要素とする。
 
-Les points de contact entre les deux sont la culture du sound system, le toasting (narration sur le rythme) et la conception sonore axée sur les basses.
+両者の接点は、サウンドシステム文化、トースティング（ビート上の語り）、そしてベース主導の音響設計にある。
 
-* La culture des équipements de sonorisation appelés systèmes de sonorisation
-* MC / grillage rythmique
-* Philosophie de mix centrée sur les basses
-*Migration culturelle par diaspora
-* Expression de soi depuis la périphérie urbaine
+* サウンドシステムという拡声装置文化
+* MC／トースティングのリズム話法
+* 低音中心のミックス思想
+* ディアスポラによる文化移動
+* 都市周縁からの自己表現
 
-> Le reggae et le hip-hop sont des « cultures sœurs » avec la même structure développée dans des villes différentes.
+> レゲエとヒップホップは、同じ構造を異なる都市で展開した“兄弟文化”である。
 
 ---
 
 ## Histoire
 
-### Kingston : La mise en place du sound system
+### キングストン：サウンドシステムの成立
 
-Dans les années 1950, les systèmes audio dotés de grands haut-parleurs mobiles étaient populaires à Kingston. **Coxsone Dodd** et **Duke Reid** ont importé le R&B américain et ont créé leur propre culture de la danse.
+1950年代のキングストンでは、移動式の巨大スピーカーを備えたサウンドシステムが人気を博した。**Coxsone Dodd**や**Duke Reid**は、アメリカのR&Bを輸入し、独自のダンス文化を築いた。
 
 De la fin des années 1960 aux années 1970, sont apparus des DJ qui parlaient sur de la musique instrumentale. Une figure représentative est **U-Roy**, qui a fait de son style de narration improvisée sur des riddim existants un succès.
 
@@ -83,7 +82,7 @@ Le hip-hop était une réinvention de la culture du sound system jamaïcain dans
 
 En 1985, **Under Mi Sleng Teng** est sorti. Cette chanson, qui utilisait des préréglages sur le Casio MT-40, a inauguré l'ère du dancehall numérique.
 
-À peu près à la même époque, la culture de l’échantillonnage s’est développée en Amérique et le hip-hop est entré dans le domaine de l’expérimentation sonore. Dans les années 1990, **Shabba Ranks** devient un succès international et la fusion du dancehall et du rap progresse.
+À peu près à la même époque, la culture de l’échantillonnage s’est développée aux États-Unis et le hip-hop est entré dans le domaine de l’expérimentation sonore. Dans les années 1990, **Shabba Ranks** devient un succès international et la fusion du dancehall et du rap progresse.
 
 Les apparitions de **Busta Rhymes**, qui a un flow jamaïcain, et de **The Notorious B.I.G.**, qui a une intonation caribéenne, en sont symboliques.
 
@@ -110,7 +109,7 @@ De plus, des artistes tels que **Rihanna** et **Drake** ont introduit des élém
 | 1973 | DJ Kool Herc développe des breakbeats dans le Bronx |
 | 1985 | Sous l'annonce de Mi Sleng Teng |
 | années 1990 | Progrès dans la fusion du dancehall et du hip-hop |
-| Années 2000 | Le dancehall devient une pop mondiale |
+| Années 2000 | Le dancehall devient pop mondiale |
 
 ---
 
@@ -150,7 +149,7 @@ F --> G[Global Pop Expansion]
 * Dem Bow - Rangs Shabba
 * Soyez occupé – Sean Paul
 
-> A l'écoute de ces chansons, la généalogie de la bass culture s'éclaire.
+> À l'écoute de ces chansons, la généalogie de la bass culture s'éclaire.
 
 ---
 

@@ -31,7 +31,7 @@ Die Hauptelemente sind wie folgt.
 * Räumliches Audio (3D-Audio/Standortinformationen)
 * Visuelle/physische Verknüpfung (VR/Bewegung)
 * Algorithmengenerierung (KI/prozedurale Zusammensetzung)
-* Netzwerksynchronisation (Online-Co-Creation)
+* Netzwerksynchronisierung (Online-Co-Creation)
 
 > Musik entwickelt sich von einem Werk, das gespielt wird, zu einer Umgebung, in der man mitmachen kann.
 
@@ -53,7 +53,7 @@ color: #fff;
 
 ## Geschichte
 
-Die Anfänge interaktiver Musik reichen bis in die vordigitale Zeit zurück. Bandmanipulation und Live-Improvisation „veränderten bereits die Musik“. Allerdings etablierte es sich erst mit der Entwicklung der Computer- und Spielekultur als klare Struktur.
+Die Anfänge interaktiver Musik reichen bis in die vordigitale Zeit zurück. Bandmanipulation und Live-Improvisation „veränderten bereits die Musik“. Erst mit der Entwicklung der Computer- und Spielkultur entwickelte sich daraus eine klare Struktur.
 
 ### 1970er-1980er: Elektronische Instrumente und MIDI
 
@@ -141,7 +141,7 @@ Ein wichtiges Werk, das Interaktivität symbolisiert.
 * Reise – Gemeinsames Online-Erlebnis
 * PROTO – Beispiele für KI-Co-Creation
 
-> Wichtig ist nicht allein der Song, sondern das Erlebnisdesign selbst.
+> Wichtig ist nicht nur der Song, sondern das Erlebnisdesign selbst.
 
 ---
 
@@ -210,8 +210,8 @@ Nicht erforderlich. Es funktioniert auch gut auf Smartphones und webbasierten Sy
 
 ### Wie sind Ihre Zukunftsaussichten?
 
-Es wird vorhergesagt, dass individuell optimierte Musikumgebungen, Biofeedback-Verknüpfungen und räumliche Akustik anspruchsvoller werden.
+Es wird vorhergesagt, dass individuell optimierte Musikumgebungen, Biofeedback-Verknüpfung und räumliche Akustik anspruchsvoller werden.
 
-> Die Zukunft der interaktiven Musik liegt in der Philosophie des Erlebnisdesigns, nicht in der Technologie.
+> Die Zukunft interaktiver Musik liegt in der Philosophie des Erlebnisdesigns, nicht in der Technologie.
 
 ---

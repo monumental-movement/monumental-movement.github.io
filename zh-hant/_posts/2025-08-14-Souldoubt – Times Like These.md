@@ -10,7 +10,7 @@ tags:
 - Deep House
 - House
 - 00s
-title: Souldoubt－這樣的時代
+title: Souldoubt – 像這樣的時代
 ---
 
 

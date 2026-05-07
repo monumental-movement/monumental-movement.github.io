@@ -62,7 +62,7 @@ C --> D[インド北部音楽文化]
 
 ## Une présence hérétique dans la musique classique indienne
 
-Le sitar, le sarod et le bansuri, qui sont les principaux instruments de la musique hindoustani, mettent tous l'accent sur des sons soutenus et doux. D'un autre côté, le santur étant un instrument à percussion, la durée du son est courte, ce qui rend difficile l'expression directe du méandre (sons doux).
+Le sitar, le sarod et le bansuri, qui sont les principaux instruments de la musique hindoustani, mettent tous l'accent sur des sons soutenus et doux. D'autre part, le santur étant un instrument à percussion, la durée du son est courte, ce qui rend difficile l'expression directe du méandre (sons doux).
 
 Pour cette raison, le santour a longtemps été considéré comme « incomplet en tant qu'instrument classique ». Cependant, cette restriction est devenue la base d'interprétations uniques ultérieures.
 
@@ -96,7 +96,7 @@ Depuis la fin du XXe siècle, les progrès de la technologie d'enregistrement on
 
 Cela a conduit à son application non seulement aux performances solos, mais également aux ensembles et à la musique de film.
 
-> La technologie a élargi la présence de Santour, pas son volume.
+> La technologie a accru la présence de Santour, pas son volume.
 
 ---
 
@@ -106,7 +106,7 @@ Depuis les années 1970, Santoor est associé au jazz, à la musique ambiante et
 
 Même dans les performances en dehors du cadre classique indien, la pensée raga continue d'influencer le choix des sons.
 
-> Même dans des endroits très éloignés de la tradition, la façon de penser de Santoor ne s'est pas perdue.
+> Même dans des lieux très éloignés de la tradition, la façon de penser de Santoor ne s'est pas perdue.
 
 ---
 
@@ -122,7 +122,7 @@ Les performances commencent souvent par une note douce. Au moment où le maillet
 
 ## Relation symbiotique entre les chansons folkloriques du Cachemire et le santoor
 
-Au Cachemire, le santoor était profondément associé à la culture folklorique avant même la musique classique. Il était souvent joué sur l'air d'une chanson lors des cérémonies de mariage, des fêtes saisonnières, des rassemblements religieux et d'autres occasions.
+Au Cachemire, le santoor était profondément associé à la culture folklorique avant même la musique classique. Il était souvent joué sur l'air d'une chanson lors des cérémonies de mariage, des fêtes saisonnières et des rassemblements religieux.
 
 Lorsque l’on joue du santour en accompagnement de chansons folkloriques, l’intonation de la mélodie et le style de parole ont la priorité sur les gammes musicales strictes. Le maillet n'est pas basculé avec une force constante, mais change subtilement sa vitesse et son angle pour s'adapter à la respiration du chanteur.
 
@@ -154,7 +154,7 @@ L'accordage change pour chaque raga, et l'arrangement est tel que les notes toni
 
 Dans l'interprétation moderne, le santour montre une grande affinité avec la musique ambiante et minimale. Des phrases courtes et répétées élargissent la notion du temps et conduisent l'auditeur dans un état non linéaire.
 
-Lors de l'interprétation, le même motif de notes est répété avec de légers changements d'intensité. Ce qui ressemble initialement à un simple son de frappe devient progressivement perçu comme une onde continue et les frontières entre les sons commencent à s'estomper.
+Lors de l'exécution, le même motif de notes est répété avec de légers changements d'intensité. Ce qui ressemble initialement à un simple son de frappe devient progressivement perçu comme une onde continue et les frontières entre les sons commencent à s'estomper.
 
 > Santoor ne nous fait pas entendre la structure, mais nous montre plutôt le processus par lequel la structure est perçue.
 
@@ -183,7 +183,7 @@ timeline
 
 ## Chapitre final : La mémoire culturelle comme vibration
 
-Le santur n'est pas seulement un instrument folklorique. C’est une réponse à la question de savoir comment le son mémorise le temps. Lorsque d'innombrables cordes frappent en même temps, les notes individuelles disparaissent et seule la résonance globale demeure.
+Le santur n'est pas qu'un instrument folklorique. C’est une réponse à la question de savoir comment le son mémorise le temps. Lorsque d'innombrables cordes frappent en même temps, les notes individuelles disparaissent et seule la résonance globale demeure.
 
 Cette caractéristique est la raison pour laquelle le Santour continue d'être mis à jour même à l'époque moderne.
 

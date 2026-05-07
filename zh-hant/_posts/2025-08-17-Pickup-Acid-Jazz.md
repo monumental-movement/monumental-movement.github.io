@@ -53,7 +53,7 @@ title: 挑選酸性爵士樂片段
 
 
 ### 原文手寫筆 – 使用我
-<a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%/Raw%20Stylus%20%E2%80%93%20Use%">20Me.webp</>
+<a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
 簡介： 活躍於 20 世紀 90 年代的英國迷幻爵士樂隊 Raw Stylus 的一首單曲，翻唱了 Bill Withers 1972 年的靈魂/R&B 歌曲“Use Me”。由 Acid Jazz 廠牌發行。
 

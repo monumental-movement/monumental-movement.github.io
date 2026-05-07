@@ -21,7 +21,7 @@ title: '[Chronique] Afrobeat / Afro-Fusion - Changements structurels et expansio
 Texte : mmr｜Thème : Le fait que l'Afrobeat s'est développé autour de la culture live du Nigeria, comment l'Afro-Fusion a été utilisée dans un environnement de production et de distribution transfrontalier, et l'histoire de l'industrie musicale et des mouvements de la diaspora.
 
 
-L'afrobeat et l'afro-fusion sont des cultures musicales originaires d'Afrique de l'Ouest, notamment du Nigeria et du Ghana. Bien que les deux soient souvent confondus, ils ont des contextes historiques, des structures musicales et des rôles sociaux différents. Cet article organise l'histoire depuis la création de l'Afrobeat jusqu'au développement de l'Afro-Fusion sur la base uniquement de faits vérifiables, et décrit de manière exhaustive les changements dans les caractéristiques musicales, les techniques de production, le contexte social et la réception internationale.
+L'afrobeat et l'afro-fusion sont des cultures musicales originaires d'Afrique de l'Ouest, notamment du Nigeria et du Ghana. Bien que les deux soient souvent confondus, ils ont des contextes historiques, des structures musicales et des rôles sociaux différents. Cet article organise l'histoire depuis la création de l'Afrobeat jusqu'au développement de l'Afro-Fusion, sur la base uniquement de faits vérifiables, et décrit de manière exhaustive les changements dans les caractéristiques musicales, les techniques de production, le contexte social et la réception internationale.
 
 > "Cet article évite l'évaluation et l'interprétation subjective et se compose uniquement d'informations basées sur des documents historiques, des témoignages et des faits historiques enregistrés."
 
@@ -49,7 +49,7 @@ color: #fff;
 
 De nombreuses musiques folkloriques ouest-africaines sont caractérisées par des polyrythmies, des appels et des réponses et des structures répétitives. Dans les cultures musicales Yoruba, Ewe et Ashanti, les structures dans lesquelles plusieurs instruments de percussion jouent simultanément différentes fréquences sont courantes, ce qui a eu une influence directe sur l'Afrobeat ultérieur.
 
-La mélodie met l'accent sur le rythme et la circulation des phrases plutôt que sur l'échelle, et le chant est souvent basé sur la participation de groupe. Ces caractéristiques ont été réorganisées dans la musique urbaine à partir du milieu du XXe siècle, en raison de l'urbanisation et de la diffusion de la technologie d'enregistrement.
+La mélodie met l'accent sur le rythme et la circulation des phrases plutôt que sur l'échelle, et le chant est souvent basé sur la participation de groupe. Ces caractéristiques ont été réorganisées dans la musique urbaine à partir du milieu du XXe siècle, en raison de l'urbanisation et de la diffusion des technologies d'enregistrement.
 
 ### Période coloniale et musique urbaine
 
@@ -109,7 +109,7 @@ Le terme Afro-Fusion est utilisé depuis les années 2000 pour désigner la tend
 
 ### Musique populaire nigériane
 
-Au Nigeria, depuis les années 2000, la généralisation des environnements de production numérique a banalisé la production musicale dans des studios privés. Une tendance musicale pop connue collectivement sous le nom d’Afrobeats a été créée et l’Afro-Fusion s’est positionnée comme une expression qui traverse les genres.
+Au Nigeria, depuis les années 2000, la généralisation des environnements de production numérique a banalisé la production musicale dans des studios privés. Une tendance musicale pop collectivement connue sous le nom d’Afrobeats s’est formée et l’Afro-Fusion s’est positionnée comme une expression qui traverse les genres.
 
 > "L'Afro-Fusion n'a pas de type rythmique ou de composition spécifique, mais est utilisé comme concept pour désigner une combinaison de méthodes de production et d'origines culturelles."
 

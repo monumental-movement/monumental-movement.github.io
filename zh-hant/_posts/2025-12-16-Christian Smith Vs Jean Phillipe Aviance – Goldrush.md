@@ -14,7 +14,7 @@ title: 克里斯蒂安史密斯 VS.讓菲利普阿維昂斯 – Goldrush
 ---
 
 
-Christian Smith 是一位來自瑞典的 Tech-House/Funky Techno 製作人和 DJ。 Jean-Phillippe Aviance 是來自美國華盛頓特區的 DJ 和製作人。
+Christian Smith 是一位來自瑞典的 Tech-House/Funky Techno 製作人和 DJ。 Jean-Phillippe Aviance 是來自美國華盛頓特區的 DJ 兼製作人。
 
 《Goldrush》是一首 Techno/Tech House 曲目，於 1998 年在 Christian Smith 自己的唱片公司 Tronic 上發行。
 

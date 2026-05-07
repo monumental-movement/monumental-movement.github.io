@@ -22,7 +22,7 @@ Text: mmr｜Thema: Der Prozess, durch den eine Stimme, die auf einer Insel aus E
 
 Aus der geografisch und kulturell isolierten Umgebung Islands gibt es jemanden, der die Struktur der Weltpopmusik erschüttert hat. Das ist Björk. Ihre Musik lässt sich nicht nach Genre kategorisieren. Electronica, Pop, Klassik und Volksmusik sind nur Materialien; Was am Ende herauskommt, ist das Grundphänomen „Stimme“.
 
-Ihre Stimme zeichnet nicht nur die Melodie nach. Zittern, Tränen, Flüstern, Springen. Es entfernt sich von der Bedeutung von Worten und schwingt als Bewegung des Körpers selbst mit. Es existiert als Klang, der mit der Bewegung der Natur synchronisiert ist, wie das Knarren eines Gletschers oder der Herzschlag eines Vulkans.
+Ihre Stimme zeichnet nicht nur die Melodie nach. Zittern, Tränen, Flüstern, Springen. Es entfernt sich von der Bedeutung von Worten und schwingt als Bewegung des Körpers selbst mit. Es existiert als ein mit der Bewegung der Natur synchronisierter Klang, wie das Knarren eines Gletschers oder der Herzschlag eines Vulkans.
 
 Dieses Gefühl hat sich durch ihre gesamte Karriere gezogen. Erkennen, dass Musik keine Struktur, sondern ein fließendes Phänomen ist. Aus dieser Perspektive betrachtet ist Björks Werk nicht nur eine Diskographie, sondern wirkt wie ein kontinuierlicher lebender Organismus.
 
@@ -50,7 +50,7 @@ Björk wurde 1965 in Reykjavik geboren und erhielt schon in jungen Jahren eine m
 
 Obwohl dieses Werk hauptsächlich aus Coversongs besteht und ihre Kreativität nicht vollständig zum Ausdruck bringt, wurde die Einzigartigkeit ihrer Stimme bereits deutlich aufgezeichnet. Dieses in Island produzierte Album war ihr erstes „selbst aufgenommenes Album“ und war als Ausgangspunkt für ihre spätere Karriere von großer Bedeutung.
 
-In den 1980er Jahren trat sie in den Kontext von Punk und New Wave ein. Die Zusammenarbeit mit The Sugarcubes war ein Wendepunkt. Ihr Lied „Birthday“ erhielt internationale Anerkennung und eröffnete eine Reise von der Peripherie Islands in den Rest der Welt.
+In den 1980er Jahren trat sie in den Kontext von Punk und New Wave ein. Die Zusammenarbeit mit The Sugarcubes war ein Wendepunkt. Ihr Lied „Birthday“ erhielt internationale Anerkennung und eröffnete einen Kreis von der Peripherie Islands in den Rest der Welt.
 
 Allerdings war auch das Bandformat eine Einschränkung. Ihr Wunsch nach Ausdruck erforderte eine freiere Struktur. Daher kann man sagen, dass der Übergang zu einer Solokarriere unausweichlich war.
 
@@ -82,11 +82,11 @@ Während der Produktion wurde sie gestalkt und ihr Lebensumfeld durcheinandergew
 
 ---
 
-## „Homogenic“ (1997): Der innere Vulkan
+## Homogen (1997): Der innere Vulkan
 
 „Homogenic“ wird oft als ihr Meisterwerk bezeichnet. Hier gelang es ihr, ihre „innere Landschaft“ als Klang zu verkörpern.
 
-Streicher und Beats arbeiten eng zusammen und erzeugen auf „Jóga“ einen tektonischen Klangklang. Dies ist nicht nur eine Metapher; Die Musik spiegelt tatsächlich das topografische Bild Islands wider.
+Streicher und Beats arbeiten eng zusammen und erzeugen auf „Jóga“ einen tektonischen Klangklang. Dies ist nicht nur eine Metapher; Die Musik spiegelt tatsächlich das geografische Bild Islands wider.
 
 In der Produktion werden elektronische Klangprogrammierung und analoge Performance präzise kombiniert. Diese Fusion hatte großen Einfluss auf die spätere Electronica.
 
@@ -122,7 +122,7 @@ Biophilia war sowohl ein Bildungsprojekt als auch ein Album. Die App verbindet L
 
 Jedes Lied entspricht einem Naturphänomen mit Themen wie Blitz, Kristallen und DNA. Hier definierte sie Musik neu als „Schnittstelle des Wissens“.
 
-> Musik hat sich von einem Hörobjekt zu einem Mittel zum Verstehen entwickelt.
+> Musik hat sich von einem Hörobjekt zu einem Hilfsmittel zum Verstehen entwickelt.
 
 ---
 

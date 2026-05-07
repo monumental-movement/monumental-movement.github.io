@@ -11,13 +11,13 @@ tags:
 - House
 - UK House
 - 00s
-title: Steve Mac contre Mosquito Feat. Steve Smith – Lovin' You More (Ce gros morceau)
+title: Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track)
 ---
 
 
-Un morceau house du producteur house britannique Steve Mac et Steve Smith, actif dans le trio house britannique Mosquito, Dirty Vegas et Squeeze, également célèbres sur la scène psytrance.
+UKのハウスプロデューサーSteve Mac(スティーブ マック)とサイトランスシーンでも有名なUK出身のハウストリオMosquito（モスキート）、Dirty Vegas（ダーティベガス）やSqueeze（スクイーズ ）で活動するSteve Smith（スティーブスミス）によるハウストラック。
 
-La première chanson de la face B est un remix des francs-maçons.
+B面１曲目はFreemasons（フリーメイソンズ）によるremix。
 
 #### Liste des chansons
 ```md

@@ -16,7 +16,7 @@ title: Récupérez les œuvres de la bande originale
 
 <hr>
 
-### Jerry Goldsmith – Un patch de bleu
+### Jerry Goldsmith – Une tache de bleu
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
 Format : vinyle
@@ -60,7 +60,7 @@ B9. Goodbye Selina
 ### VA – Réservoir　Fille
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
-Format : CD
+Format : CD
 
 Oeuvre : Bande originale du film de science-fiction « Tank Girl » de 1995. Compilé par Courtney Love, musique originale de Graeme Revell de SPK.
 
@@ -93,7 +93,7 @@ Oeuvre : Bande originale du film de science-fiction « Tank Girl » de 1995. Com
 
 Format : Cassette
 
-Produit : Sortie en 1996, une cassette contenant la chanson thème du film « Mission : Impossible ».
+Oeuvre : Cassette sortie en 1996, contenant la chanson thème du film « Mission : Impossible ».
 
 #### Liste des chansons
 ```md
@@ -114,7 +114,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ### Ennio Morricone – Nouveau Cinéma Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
-Format : CD
+Format : CD
 
 Travail : Bande originale du film classique de 1989 « New Cinema Paradise ».
 

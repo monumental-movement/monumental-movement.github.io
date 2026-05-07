@@ -12,13 +12,13 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: Kelly-G Perfect Rhythm – Trip Into The Future
+title: Kelly-G Perfect Rhythm – Reise in die Zukunft
 ---
 
 
-プロデューサーはUK出身でUSを拠点に活動するKelly-GことAron Friedman。
+Der Produzent ist Aron Friedman, auch bekannt als Kelly-G, der aus Großbritannien stammt und in den USA lebt.
 
-Unie WeimerとAron Friedmanが運営する初期のUKハードコア＆テクノレーベルPerception Recordsから1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
+Ein Breakbeat-Hardcore-Techno-Track, der 1991 auf Perception Records veröffentlicht wurde, einem frühen britischen Hardcore- und Techno-Label unter der Leitung von Unie Weimer und Aron Friedman.
 
 #### Trackliste
 ```md

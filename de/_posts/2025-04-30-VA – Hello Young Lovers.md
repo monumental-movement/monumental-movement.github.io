@@ -11,13 +11,13 @@ tags:
 - Jpop
 - Shibuya-kei
 - 90s
-title: VA – Hallo junge Liebhaber
+title: VA – Hello Young Lovers
 ---
 
 
-Ein Compilation-Album, das 1993 von Kenji Takimis Indie-Label Crue-L Records veröffentlicht wurde.
+1993年にリリースされた瀧見憲司主宰のインディーレーベルCrue-L Recordsのコンピレーションアルバム。
 
-Beteiligte Künstler: Kahimi Kali, Love Tambourines, Favorite Marine, Museum of Plate, Freedom Suite.
+参加アーティスト: カヒミ・カリィ、ラヴ・タンバリンズ、フェイバリットマリーン、ミュージアムオブプレート、フリーダムスイート。
 
 
 #### Trackliste

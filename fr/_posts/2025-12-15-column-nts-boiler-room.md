@@ -56,7 +56,7 @@ Une des caractéristiques de NTS est qu'il n'accorde aucun avantage à un genre 
 
 Boiler Room a commencé comme un projet visant à diffuser de petits événements DJ en salle à Londres. La caméra pénètre dans le même espace que le DJ et se caractérise par un format qui inclut la présence du public.
 
-Ce format diffère de l'enregistrement vidéo traditionnel, où une caméra est placée derrière la cabine du DJ, dans le sens où le public, l'espace et les artistes sont tous dans le même cadre. En conséquence, la performance des DJ a été visualisée comme une expression qui inclut « un comportement physique et social » plutôt que comme un acte « uniquement sonore ».
+Ce format diffère de l'enregistrement vidéo traditionnel dans lequel une caméra est installée derrière la cabine du DJ et présente une structure dans laquelle le public, l'espace et les interprètes sont tous dans le même cadre. En conséquence, la performance des DJ a été visualisée comme une expression qui inclut « un comportement physique et social » plutôt que comme un acte « uniquement sonore ».
 
 ---
 
@@ -70,7 +70,7 @@ En particulier dans NTS, les longs sets de plus de deux heures sont courants, et
 
 ---
 
-## Chapitre 4 : Compatibilité de la musique expérimentale et du streaming en direct
+## Chapitre 4 : Compatibilité de la musique expérimentale et du live streaming
 
 La musique expérimentale est traditionnellement jouée dans de petites salles, des musées et des établissements universitaires. Cependant, avec la diffusion du streaming en direct, l’environnement de présentation s’est élargi.
 
@@ -158,7 +158,7 @@ Cela peut être considéré comme un « mouvement enregistrable ».
 
 ## Chapitre supplémentaire 2 Disparition du studio et du site
 
-Traditionnellement, il y avait une distinction entre la production musicale en studio et la performance sur place. Cependant, dans un environnement de diffusion en direct, cette distinction devient floue. Les maisons, les espaces temporaires, les équipements publics, les studios sans public, etc. deviennent à la fois des espaces de production et de représentation.
+Traditionnellement, il y avait une distinction entre la production musicale en studio et l’interprétation sur place. Cependant, dans un environnement de diffusion en direct, cette distinction devient floue. Les maisons, les espaces temporaires, les équipements publics, les studios sans public, etc. deviennent à la fois des espaces de production et de représentation.
 
 Sur NTS, il a été confirmé qu'il existe de nombreux cas dans lesquels du matériel en cours de production ou des sources sonores inachevées sont joués tels quels dans le programme. Boiler Room sort également occasionnellement des sets live proches des répétitions.
 
@@ -168,7 +168,7 @@ Sur NTS, il a été confirmé qu'il existe de nombreux cas dans lesquels du mat�
 
 ## Chapitre supplémentaire 3 Exemple de densité selon les genres
 
-En ce qui concerne les activités des artistes de diffusion en direct, le cross-genre est la norme plutôt que l’exception. Des fragments de musique dance, noise, jazz, folk et pop sont enchaînés au sein d’un même ensemble.
+En ce qui concerne les activités des artistes de diffusion en direct, le cross-genre est la norme plutôt que l’exception. Des fragments de musique dance, noise, jazz, folk et pop sont enchaînés dans un même ensemble.
 
 Il s’agit davantage du résultat d’une évolution des conditions d’écoute dans l’environnement de la distribution que d’une avant-garde intentionnelle. L'écoute prolongée dans un environnement privé permet des changements rapides de genre.
 
@@ -186,7 +186,7 @@ Sur NTS notamment, les DJ créent des archives musicales en poursuivant leurs pr
 
 ## Chapitre supplémentaire 5 Intervention vidéo et refus
 
-Alors que Boiler Room intègre activement la vidéo, NTS a conservé une conception centrée sur l'audio. Cette différence affecte directement la direction de la performance.
+Alors que Boiler Room intègre activement la vidéo, NTS a conservé une conception centrée sur l'audio. Cette différence a un impact direct sur le sens de la performance.
 
 Lorsque les images existent, les mouvements physiques et les configurations spatiales ont un sens. Lorsque les images sont limitées, la disposition des sons et la structure temporelle passent au premier plan.
 

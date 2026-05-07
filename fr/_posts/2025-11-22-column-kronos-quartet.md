@@ -11,20 +11,19 @@ tags:
 - 70s
 - 80s
 - 90s
-title: '[Chronique] Kronos Quartet : La trajectoire d''un quatuor à cordes qui continue
-  d''innover et de relever des défis'
+title: 【コラム】 Kronos Quartet：革新と挑戦を続ける弦楽四重奏の軌跡
 ---
 
 
-## 1. Présentation
+## 1. 導入
 
 
-Texte : mmr｜Thème : Styles d'interprétation qui ne sont pas liés au cadre traditionnel de la musique classique et à leur trajectoire
+文：mmr｜テーマ：従来のクラシック音楽の枠にとらわれない演奏スタイルとその軌跡について
 
 
-Le Kronos Quartet est un quatuor à cordes formé à San Francisco en 1973. Les membres fondateurs étaient des musiciens de formation classique, dont David Harris (violon), John Schneider (alto) et Hank Douglas (violoncelle).
+Kronos Quartetは、1973年にサンフランシスコで結成された弦楽四重奏団である。創設メンバーはデヴィッド・ハリス（ヴァイオリン）、ジョン・シュナイダー（ヴィオラ）、ハンク・ダグラス（チェロ）など、クラシック音楽教育を受けた演奏家たちによって構成された。
 
-Depuis sa création, le Kronos Quartet a exploré un large éventail de genres, notamment la musique contemporaine, les musiques du monde, les musiques de film et même la pop. Leur musique va au-delà des quatuors à cordes traditionnels et est connue pour ses techniques d'interprétation innovantes et ses sélections de répertoire innovantes.
+結成以来、Kronos Quartetは現代音楽、ワールドミュージック、映画音楽、そしてポップスに至るまで幅広いジャンルに挑戦してきた。彼らの音楽は伝統的な弦楽四重奏の枠を超え、革新的な演奏技法と斬新なレパートリー選択で知られている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4I-GGTCV0K0?si=9rxVeyJ-BeoCQL0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -44,78 +43,78 @@ color: #fff;
 </style>
 
 
-## 2. De la formation aux premières activités (années 1973-années 1980)
+## 2. 結成から初期活動（1973–1980年代）
 
-Depuis sa création à San Francisco, le Quatuor Kronos explore un style d'interprétation sortant du cadre traditionnel de la musique classique. Le fondateur David Harris a étudié la musique classique à l'Université de Californie à Berkeley, puis est devenu actif sur la scène musicale de San Francisco, formant un quatuor avec des amis partageant les mêmes idées.
+Kronos Quartetは、サンフランシスコで結成された当初から、従来のクラシック音楽の枠にとらわれない演奏スタイルを模索していた。創設者のデヴィッド・ハリスは、カリフォルニア大学バークレー校でクラシック音楽を学んだ後、サンフランシスコの音楽シーンで活動を始め、同じ志を持つ仲間と四重奏団を結成した。
 
-Outre les œuvres baroques et classiques, le premier répertoire comprenait de nouvelles œuvres de compositeurs contemporains. Leur premier album, « Kronos Quartet », sorti en 1976, a été très apprécié par la critique pour sa combinaison de la nature ésotérique de la musique contemporaine et du haut niveau technique d'interprétation. Durant cette période, ils se produisent partout aux États-Unis, principalement à San Francisco, et se forgent une réputation de quatuor innovant.
+初期のレパートリーは、バロックや古典派の作品に加え、現代作曲家による新作の演奏にも挑戦した。1976年にリリースされたデビューアルバム『Kronos Quartet』は、現代音楽の難解さと演奏技術の高さを両立させ、批評家から高い評価を受けた。この時期、彼らはサンフランシスコを中心にアメリカ各地で演奏活動を行い、革新的な四重奏団としての評判を築いていった。
 
-### Albums majeurs (premiers)
+### 主要アルバム（初期）
 
-* **Quatuor Kronos (1976)** : Premier album. Contient principalement des œuvres de compositeurs contemporains.
-* **White Man Sleeps (1988)** : Une première tentative d'incorporer des éléments de la musique folk du monde.
-
----
-
-## 3. Le défi de la musique moderne (années 1980-1990)
-
-Dans les années 1980, le Quatuor Kronos est devenu une présence importante dans le monde de la musique contemporaine américaine. Le Quatuor Kronos a commencé à collaborer avec des maîtres de la musique contemporaine tels que Philip Glass, Steve Reich et Terry Riley, et en interprétant et en enregistrant leurs œuvres, le Quatuor Kronos a acquis une renommée mondiale.
-
-Cette période a été caractérisée par des **innovations dans les techniques de performance**. En plus des techniques de jeu traditionnelles des instruments à cordes, le travail en studio s'est développé, utilisant l'électronique, introduisant des rythmes et des gammes de musique non occidentale et utilisant pleinement l'échantillonnage et l'enregistrement multipiste.
-
-### Albums majeurs (période musique contemporaine)
-
-* **Terry Riley : Kronos Quartet Plays Terry Riley (1989)** : Comprend les chefs-d'œuvre de la musique moderne « Sun Rings » et « Cadenza ». Exprimant le charme de la musique minimale avec un quatuor à cordes.
-* **Black Angels (1990)** : Organisé principalement autour des œuvres de George Crumb. L'expression avant-gardiste se démarque.
+* **Kronos Quartet (1976)**：デビューアルバム。現代作曲家の作品を中心に収録。
+* **White Man Sleeps (1988)**：世界の民族音楽の要素を取り入れた初期の試み。
 
 ---
 
-## 4. Cross-genre/Crossover (années 1990-2000)
+## 3. 現代音楽への挑戦（1980年代–1990年代）
 
-Des années 1990 aux années 2000, le Quatuor Kronos a commencé à dépasser les frontières de la musique classique, fusionnant avec des genres tels que la musique du monde, la pop, la musique de film et le jazz.
+1980年代に入ると、Kronos Quartetはアメリカ現代音楽界において重要な存在となる。Philip Glass、Steve Reich、Terry Rileyなど、現代音楽の巨匠との協働が始まり、彼らの作品の演奏や録音を通じて、Kronos Quartetは世界的な評価を獲得した。
 
-L'innovation dans la musique de film est particulièrement remarquable avec le film « Requiem for a Dream » sorti en 2000. Composé par Clint Mansell, interprété par le Quatuor Kronos. « Lux Aeterna » du quatuor à cordes et d'autres pièces ont été extrêmement efficaces dans leur motif répétitif, créant de la tension et amplifiant l'émotion, tout cela est lié à la représentation psychologique du film.
+この時期の特徴は、**演奏技法の革新**にある。弦楽器の伝統的奏法に加え、エレクトロニクスの使用、非西洋音楽のリズムや音階の導入、サンプリングやマルチトラック録音を駆使したスタジオ作業が増えた。
 
-### Fonctionnalités de la bande originale du film
+### 主要アルバム（現代音楽期）
 
-* **Arrangement** : 2 violons, 1 alto, 1 violoncelle
-* **Technique de performance** :
-
-* Motifs courts répétés (répétition rythmique)
-* Sentiment de tension dû à des changements brusques de dynamique
-* Utilisation continue du crescendo et du diminuendo par les instruments à cordes
-* **Innovation technique** :
-
-* Application de techniques musicales minimales à la musique de film
-* Utilisation fréquente d'articulations détaillées (staccato, spiccato, portamento)
-* Permet d'obtenir une image sonore plus épaisse en superposant l'enregistrement multipiste.
+* **Terry Riley: Kronos Quartet Plays Terry Riley (1989)**：現代音楽の名作「Sun Rings」や「Cadenza」を収録。ミニマル音楽の魅力を弦楽四重奏で表現。
+* **Black Angels (1990)**：George Crumbの作品を中心に編成。前衛的表現が際立つ。
 
 ---
 
-### Analyse des performances pour chaque chanson
+## 4. ジャンル横断・クロスオーバー（1990年代–2000年代）
+
+1990年代から2000年代にかけて、Kronos Quartetはクラシックの枠を超えた活動を本格化させ、ワールドミュージック、ポップス、映画音楽、ジャズなどのジャンルと融合した。
+
+特に映画音楽における革新は、2000年公開の映画『Requiem for a Dream』で顕著である。作曲はClint Mansell、演奏はKronos Quartetが担当。弦楽四重奏による「Lux Aeterna」をはじめとする曲群は、**映画の心理描写と連動する反復動機、緊張感の構築、感情の増幅**において圧倒的な効果を発揮した。
+
+### 映画サウンドトラックの特徴
+
+* **編成**：ヴァイオリン2、ヴィオラ1、チェロ1
+* **演奏技法**：
+
+  * 繰り返される短いモチーフ（リズム反復）
+  * ダイナミクスの急激な変化による緊張感
+  * 弦楽器によるクレッシェンドとディミヌエンドを連続使用
+* **技術的革新**：
+
+  * ミニマル音楽の手法を映画音楽に応用
+  * 細かなアーティキュレーション（スタッカート、スピッカート、ポルタメント）を多用
+  * 録音におけるマルチトラックでの重ね録りにより、厚みのある音像を実現
+
+---
+
+### 各曲ごとの演奏分析
 
 #### 1. Lux Aeterna
 
-* **Caractéristiques** : Chanson thème du film. La pièce dure un peu moins de 8 minutes et la tension est amplifiée par la répétition incessante de la même phrase.
-* **Points de performances** :
+* **特徴**：映画のテーマ曲。8分弱の作品で、同じフレーズを繰り返すことによって緊張感が増幅。
+* **演奏ポイント**：
 
-* Répétition rythmique minimale par quatuor à cordes
-* Créer un sentiment de pression psychologique grâce au contraste de force et de faiblesse
-* Le violoncelle à cordes graves constitue la base avec des notes soutenues, et les cordes aiguës augmentent la tension.
+  * 弦楽四重奏によるミニマル的リズム反復
+  * 強弱のコントラストで心理的圧迫感を演出
+  * 低弦のチェロが持続音で土台を形成し、高弦が緊張感を引き上げる
 
-#### 2. Ouverture d'été
+#### 2. Summer Overture
 
-* **Caractéristiques** : Une chanson avec une atmosphère statique et fantastique au début.
-* **Points de performances** :
+* **特徴**：序盤の静的で幻想的な雰囲気を持つ曲。
+* **演奏ポイント**：
 
-* Utilisation intensive d'harmoniques de cordes
-* Correspond à la vidéo avec des articulations minutieuses d'instruments à cordes
-* Tension psychologique due à de petits changements de volume
+  * 弦のハーモニクスを多用
+  * 弦楽器の微細なアーティキュレーションで映像と呼応
+  * 音量の小さな変化による心理的緊張
 
-#### 3. Scène de fête
+#### 3. Party Scene
 
-* **Caractéristiques** : Utilisé dans des scènes rapides et chargées d'émotion
-* **Points de performances** :
+* **特徴**：テンポが速く、感情が昂ぶる場面で使用
+* **演奏ポイント**：
 
 * Cordes aiguës courtes et staccato continues
 * La précision de l'ensemble du quatuor à cordes exprime le chaos de la vidéo.
@@ -172,7 +171,7 @@ Leur dernier album approfondit encore leur collaboration avec la musique traditi
 
 ---
 
-## 6. Chronologie des albums et œuvres majeures
+## 6. Chronologie des albums et œuvres majeurs
 
 
 <div class="mermaid">

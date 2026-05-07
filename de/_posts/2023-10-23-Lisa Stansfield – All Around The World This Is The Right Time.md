@@ -10,13 +10,13 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: Lisa Stansfield – Auf der ganzen Welt ist dies der richtige Zeitpunkt
+title: Lisa Stansfield – All Around The World This Is The Right Time
 ---
 
 
-Lisa Stansfields „All Around The World“ ist ein britischer R&B-Klassiker, der zu einem weltweiten Hit wurde.
+Lisa Stansfield(リサ・スタンスフィールド)の「All Around The World」は、世界的にヒットしたUK R&Bクラシック。
 
-Die B-Seite wurde vom britischen DJ und Produktionskünstler Coldcut produziert, der auch Gründer von Ninja Tune ist.
+B面のプロディーサーはNinja Tuneの創設者でもある、UKのDJ 兼プロダクション・アクトColdcut。
 
 #### Trackliste
 ```md

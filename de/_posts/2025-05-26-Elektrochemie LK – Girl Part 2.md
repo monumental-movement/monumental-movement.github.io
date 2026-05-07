@@ -11,19 +11,19 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Elektrochemie LK – Mädchen! Teil 2
+title: Elektrochemie LK – Girl! Part 2
 ---
 
 
-Elektrochemie LK ist das Pseudonym von DJ Thomas Schumacher, einem deutschen Technomusiker, der seit den 1990er Jahren aktiv ist.
+Elektrochemie LKは、90年代から活躍するドイツ出身のテクノミュージシャン・DJ Thomas Schumacher(トーマス・シューマッハ)の別名義。
 
-„Girl! / Part 2“ ist ein Techno-Elektro-Track, der 2001 vom deutschen Label Leaded veröffentlicht wurde.
+「Girl! / Part 2」は2001年にドイツのレーベルLeadedからリリースされたテクノ・エレクトロトラック。
 
-Der erste Song auf Seite A ist ein Remix von Christopher Just, bekannt für seinen großen Hit I'm a Disco Dancer (And a Sweet Romancer).
+A面1曲目は、大ヒットしたI'm a Disco Dancer (And a Sweet Romancer) で知られるChristopher Just(クリストファー・ジャスト)によるremix。
 
-Der zweite Track auf Seite A ist ein Remix des deutschen Techno-DJs und Produzenten Stephan Bodzin.
+A面2曲目は、ドイツのテクノDJ・プロデューサーStephan Bodzin(ステファン・ボズディン)によremix。
 
-Der erste Song auf Seite B ist ein Remix von ALEXANDER KOWALSKI, einem seit den 90er Jahren aktiven Techno-Produzenten und Performer.
+B面1曲目は、90年代から活躍するテクノプロデューサー・パフォーマーALEXANDER KOWALSKI(アレキサンダー・コワルスキー)によるremix。
 
 #### Trackliste
 ```md

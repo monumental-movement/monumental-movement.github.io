@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Explorer l'évolution de la musique et de la mode des f
 
 À la fin des années 1960, la culture des jeunes américains et britanniques est devenue indissociable de la musique et de la mode. Le Monterey Pop Festival en 1967 et Woodstock en 1969 sont devenus plus que de simples événements musicaux, ils sont devenus des symboles de liberté, d’anti-guerre et d’expression de soi.
 
-Les jeans, les vestes à franges, les chemises tie-dye, les sandales et les accessoires pour cheveux à fleurs étaient courants à Woodstock. En particulier, les gilets ethniques et les décorations en perles que Janis Joplin portait sur scène sont devenus des icônes que le public voulait imiter, et les participants ont apporté leur propre tie-dye et leurs couronnes de fleurs, faisant ressembler l'ensemble de la salle à un défilé de mode.
+Les jeans, les vestes à franges, les chemises tie-dye, les sandales et les accessoires pour cheveux à fleurs étaient courants à Woodstock. En particulier, les gilets ethniques et les décorations en perles que Janis Joplin portait sur scène sont devenus des icônes que le public peut imiter, et les participants ont apporté leur propre tie-dye et leurs couronnes de fleurs, faisant de l'ensemble de la salle une sorte de défilé de mode.
 
 Au Royaume-Uni, la culture Mod a émergé au milieu des années 1960. King's Road et Carnaby Street à Londres étaient remplis de minijupes, de bottes, de vestes de costume et de manteaux mod, et le style urbain des jeunes correspondait aux visuels des artistes. Lors des concerts des Beatles et des Rolling Stones, la musique et la mode sont devenues étroitement liées, les spectateurs imitant les vêtements des artistes comme forme d'expression personnelle.
 
@@ -117,7 +117,7 @@ timeline
 
 ---
 
-## Chronologie : Grands festivals et tendances de la mode
+## Chronologie : Grands festivals et tendances de la mode
 
 <div class="mermaid">
 timeline
@@ -171,7 +171,7 @@ graph TD
 
 ### Années 1960-1970
 
-* Matière : coton, denim, perles, franges
+* Matériel : coton, denim, perles, franges
 * Couleur : tie-dye, pastel, couleur naturelle (vert, marron, orange).
 
 ### Années 1980-1990

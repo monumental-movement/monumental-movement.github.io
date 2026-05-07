@@ -56,7 +56,7 @@ Le rapport cyclique peut être sélectionné parmi 12,5 % / 25 % / 50 % / 75 %, 
 Il est souvent utilisé pour les lignes de basse, mais il était également utilisé pour simuler la batterie.
 
 - **Bruit ×1 canal**
-Responsable de la plupart des sons de production du jeu, tels que les caisses claires, les charleys et les sons d'explosion.
+Responsable de la plupart des sons de production du jeu, tels que les sons des caisses claires, des charleys et des explosions.
 
 - **DPCM (lecture d'échantillons) x 1 canal**
 Bien que la qualité sonore soit faible, proche de 1 bit, il est possible de jouer des échantillons de batterie et des éléments vocaux.
@@ -89,7 +89,7 @@ Les ondes carrées ont une structure harmonique plus claire que les autres forme
 
 - **12,5 %** : Fin et pointu
 - **25 %** : Lumineux
-- **50 %** : Standard
+- **50 %** : Standard
 - **75 %** : Épais et doux
 
 La majeure partie de « l’esprit de la chanson » de Chiptune réside ici.
@@ -250,8 +250,8 @@ Il n’est pas seulement considéré comme un genre musical, mais aussi comme un
 ## Chapitre 10 : L'avenir de Chiptune et l'avenir de l'esthétique 8 bits
 
 La musique 8 bits n’est plus un symbole du rétro ;
-**Une entité qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
-C’est devenu.
+**Une existence qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
+C'est devenu.
 
 - Utilisation en Hyperpop et EDM
 - Textures lo-fi hiphop 8 bits

@@ -93,7 +93,7 @@ Es wurde auch zum Prototyp für spätere Hip-Hop-Beats.
 
 Buddy Rich ist ein Symbol für Geschwindigkeit, Tony Williams ist ein Symbol für Freiheit und Steve Gadd ist ein Symbol für Präzision.
 Das von ihnen geschaffene „Idealbild eines Schlagzeugers“ bildete den Grundrahmen der Musik des 20. Jahrhunderts.
-Doch gleichzeitig wirbelten im Untergrund **Trommeln, die von der Disziplin abweichen**.
+Allerdings wirbelten gleichzeitig im Untergrund **Trommeln, die von der Disziplin abweichen**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9esWG6A6g-k?si=t_bBIlRHycXe1C4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -146,7 +146,7 @@ Das riesige Trommelensemble „77BOADRUM“ von Boredoms war ein Ritual, das die
 Für sie ist das Schlagzeug nicht nur ein Schlaginstrument, sondern die „Wellen des Lebens“.
 
 Darüber hinaus ist **Yo2ro** in Boredoms und anderen experimentellen Musikprojekten aktiv.
-Indem er die vertikalen und horizontalen Aspekte des Polyrhythmus frei manipuliert, spiegelt er den kosmischen Beat von YOSHIMIO wider.
+Indem er die vertikalen und horizontalen Aspekte des Polyrhythmus frei manipuliert, spiegelt er YOSHIMIOs kosmischen Rhythmus wider.
 Yo2ros Schlinge hat die Kraft, den Raum jedes Mal zu verändern, wenn sie angeschlagen wird.
 Er erregt Aufmerksamkeit als Symbol für Japans Avantgarde-Schlagzeuger.
 

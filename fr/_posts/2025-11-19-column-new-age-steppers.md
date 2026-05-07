@@ -52,7 +52,7 @@ Les membres changeaient à chaque album et le style, mélange de musiciens post-
 
 * **Adrian Sherwood** : Producteur/Réalisateur de On-U Sound
 * **Ari Up** (The Slits) : chant
-* **Mark Stewart** (The Pop Group) : chant
+* **Mark Stewart** (The Pop Group) : chant
 * **George 'Bingy Bunny' Valentine** (Roots Radics) : Guitare
 * **Style Scott** (Roots Radics) : Batterie
 * **Bruce Smith** (The Pop Group) : Batterie
@@ -136,7 +136,7 @@ La participation de Mark Stewart a renforcé l'agitation.
 C'est la chanson la plus « reggae-like » comme NAS, et la sensation de groove stable augmente.
 Ce travail a également des thèmes socio-politiques forts.
 
-## ■ « L'amour pour toujours » (2012)
+## ■ « L'amour pour toujours » (2012)
 
 Après la mort d'Ari Up, Sherwood a publié une œuvre commémorative comprenant des enregistrements inédits.
 Un document très important qui contient l'énergie finale d'Ari.
@@ -249,7 +249,7 @@ Le prototype de la « création multi-genres » dans laquelle les musiciens du 2
 1979 Adrian Sherwood commence les préparatifs pour lancer On-U Sound
 1980 Début de l'enregistrement de New Age Steppers (Ari Up, Mark Stewart, Roots Radics participent)
 1981 Sortie de « New Age Steppers »
-1981 Sortie de « Action Battlefield »
+1981 Sortie de « Action Battlefield »
 1983 Sortie de « Foundation Steppers »
 1984-2000 Les activités du NAS ont pratiquement cessé
 2010　Ari Up est décédé

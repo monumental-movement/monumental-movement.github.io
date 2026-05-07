@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Le point : "Side B" est un morceau sombre avec un côté électro particulièrement fort. Une « tension mécanique » flotte dans l'atmosphère tranquille, vous entraînant dans une vision du monde à la fois froide et profonde.
+Le point : « Side B » est un morceau sombre avec un côté électro particulièrement fort. Une « tension mécanique » flotte dans l'atmosphère tranquille, vous entraînant dans une vision du monde à la fois froide et profonde.
 
 Charme : Electro sombre et tendue
 

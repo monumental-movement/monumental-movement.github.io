@@ -43,7 +43,7 @@ color: #fff;
 
 ## Chapitre 1 : Débuts et premières activités (1976-1983)
 
-- **1976** : A remporté le 12ème Prix Tezuka pour « Urashima » et a fait ses débuts en tant qu'artiste manga.
+- **1976** : A remporté le 12ème prix Tezuka pour « Urashima » et a fait ses débuts en tant qu'artiste manga.
 Il attire l'attention en tant que plus jeune sélectionné.
 - **1981** : Déménage aux États-Unis et participe à la production commerciale chez Richard Williams Animation Inc.
 Apprenez l'importance du mouvement et du rythme grâce à des techniques d'animation.
@@ -58,7 +58,7 @@ Au cours de cette période, les bases de l'**expression temporelle/rythmique** d
 
 - **1986** : Publication du premier livre "SPINOZA" (Sakushasha).
 Caractérisé par des thèmes philosophiques et des visuels abstraits.
-**La musicalité visuelle** est révélée en ajustant la densité des lignes, la composition de l'écran et le rythme temporel.
+En ajustant la densité des lignes, la composition de l'écran et le rythme temporel, la **musicalité visuelle** est révélée.
   
 - **1988** : Publication de ``Katajikenai'' (Hakusensha) et ``G (GATE 1)'' (Schola).
 Les lignes tendues du décor de science-fiction et l'expression du corps humain sont comme des polyrythmies musicales.
@@ -154,14 +154,14 @@ timeline
 ## Dernier chapitre : Musique jouée par la vision
 
 Le manga de Keiichi Koike est une expérience musicale de lignes et d'espaces.
-A chaque tour de page, la conscience du lecteur ondule et le silence retentit.
+A chaque tour de page, la conscience du lecteur ondule et le silence résonne.
 Il ne s'agit pas de texte ou d'effets sonores, mais de musique purement visuelle.
 
 > "Les lignes sont sonores. Le blanc et le noir jouent alternativement le silence et le bruit." - Keiichi Koike
 
 ---
 
-## Références/Matériaux
+## 参考文献・資料
 
 - [小池桂一『SPINOZA』（作品社、1986）](https://amzn.to/4o3cRAl)
 

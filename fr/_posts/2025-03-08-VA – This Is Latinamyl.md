@@ -12,7 +12,7 @@ tags:
 - Experimental
 - Big Beat
 - 90s
-title: VA - C'est du Latinamyl
+title: VA – C'est du Latinamyl
 ---
 
 

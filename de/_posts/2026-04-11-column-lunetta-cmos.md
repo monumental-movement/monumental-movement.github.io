@@ -34,7 +34,7 @@ Zu den typischen ICs gehören die folgenden.
 * 4017: Dekadenzähler
 *4070: XOR-Gatter
 
-Diese können einzeln Klänge erzeugen, aber wenn sie kombiniert werden, können komplexe Rhythmen und Muster erzeugt werden.
+Diese können einzeln Klänge erzeugen, in Kombination können jedoch komplexe Rhythmen und Muster erzeugt werden.
 
 ---
 
@@ -55,7 +55,7 @@ color: #fff;
 
 ### Definition von Lunetta Synth
 
-Lunetta Synth ist ein Name, der vom Namen des italienischen Heimwerkers Stanley Lunetta abgeleitet ist und sich speziell auf ein System mit den folgenden Eigenschaften bezieht.
+Lunetta Synth ist ein Name, der vom Namen des italienischen Heimwerkerherstellers Stanley Lunetta abgeleitet ist und sich speziell auf ein System mit den folgenden Eigenschaften bezieht.
 
 * Besteht nur aus CMOS-Logik-ICs
 *Grundsätzlich keine analogen Filter oder VCA verwenden
@@ -252,7 +252,7 @@ C --> D[2010s 文化化]
 
 ## Position in der Neuzeit
 
-### Zusammenhang mit Lärm/experimenteller Musik
+### Beziehung zu Lärm/experimenteller Musik
 
 Lunetta hat eine hohe Affinität zu den folgenden Genres.
 
@@ -278,7 +278,7 @@ Der Rundgang selbst wird zum visuellen Objekt und wird gleichzeitig als Installa
 * Synchronisation von Ton und Licht
 * Ästhetik des physischen Layouts
 
-> Lunetta sitzt an der Schnittstelle von Musik, Technik und Kunst.
+> Lunetta liegt an der Schnittstelle von Musik, Technik und Kunst.
 
 ---
 

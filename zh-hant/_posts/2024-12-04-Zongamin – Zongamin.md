@@ -11,7 +11,7 @@ tags:
 - Techno
 - Disco
 - 00s
-title: 宗加明 – 宗加明
+title: Zongamin – Zongamin
 ---
 
 

@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - Garage House
-title: Bah Samba – Album Sampler
+title: Bah Samba – Album-Sampler
 ---
 
 
-Bah Samba (バーサンバ)は、1996年にJulian Bendall、Kevin Alexander、Geoff Holroydによって結成されたユニット。
+Bah Samba wurde 1996 von Julian Bendall, Kevin Alexander und Geoff Holroyd gegründet.
 
-A面2曲目は、Dimitri from Parisなど様々なDJにプレイされたクラブヒット曲「Reach Inside」をPhil Asher & Luke McCartyが創設したプロダクションチームRestless Soul(レストレスソウル)がremix。
+Der zweite Track auf Seite A ist ein Remix des Club-Hits „Reach Inside“, der von verschiedenen DJs wie Dimitri aus Paris gespielt wurde, von Restless Soul, einem von Phil Asher & Luke McCarty gegründeten Produktionsteam.
 
 #### Trackliste
 ```md

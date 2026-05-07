@@ -9,13 +9,13 @@ permalink: /de/octave-one-blackwater/
 tags:
 - Techno
 - Remix
-title: Octave One – Blackwater (Alter Ego Remixe)
+title: Octave One – Blackwater (Alter Ego Remixes)
 ---
 
 
-Dies ist ein Remix von Octave Ones Meisterwerk Blackwater.
+Octave One代表作のBlackwaterのリミックスです。
 
-Der Alter Ego-Remix der deutschen Techno-Szene-Veteranen Jörn Elling Wuttke und Roman Flugel ist hervorragend.
+ジャーマンテクノシーンの大ベテラン、 Jorn Elling WuttkeとRoman FlugelによるAlter Egoリミックスは秀逸。
 
 #### Trackliste
 ```md

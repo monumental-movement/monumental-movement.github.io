@@ -46,7 +46,7 @@ color: #fff;
 ## Chapitre 1 : Naissance du divertissement Yamashiro Gumi - L'art en "groupe"
 
 Le point de départ du Geino Yamashiro Gumi a été la formation d'un « collectif » de personnes réunies à travers les universités, les entreprises et les professions.
-Médecins, enseignants, ingénieurs, étudiants, femmes au foyer – des personnes aux métiers et aux philosophies différentes partageaient un désir intuitif de « vivre dans le son ».
+Médecins, enseignants, ingénieurs, étudiants, femmes au foyer – des personnes de professions et de philosophies différentes partageaient un désir intuitif de « vivre dans le son ».
 
 Dès le début, Yamashiro a défini l’art non pas comme un acte d’expression individuelle, mais comme l’expression d’un groupe.
 Par conséquent, leurs répétitions n’étaient pas seulement des performances, mais le processus de « génération sonore d’un champ ».
@@ -122,7 +122,7 @@ Cette idée fait écho à des recherches ultérieures sur le « paysage sonore �
 ## Chapitre 5 : La sensibilité en tant que scientifique - Physiologie de l'audition et son social
 
 Sa formation scientifique à la Faculté d'Agriculture de l'Université du Tohoku a donné à Yamashiro une perspective analytique unique.
-Fort de ses connaissances en chimie, en biologie et en environnement, il a eu l'idée de considérer le son non seulement comme un phénomène physique, mais également comme faisant partie des activités de la vie.
+Fort d'une compréhension de la chimie, de la biologie et de l'environnement, il a eu l'idée de considérer le son non seulement comme un phénomène physique, mais également comme faisant partie des activités de la vie.
 
 Sa démarche est un aller-retour entre observation scientifique et pratique artistique.
 Plutôt qu'un laboratoire, le groupe humain lui-même est traité comme un « système acoustique ».

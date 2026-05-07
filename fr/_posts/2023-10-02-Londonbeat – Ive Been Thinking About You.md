@@ -9,15 +9,15 @@ permalink: /fr/londonbeat-ive-been-thinking-about-you/
 tags:
 - House
 - EDM
-title: Londonbeat – J'ai pensé à toi
+title: Londonbeat – I've Been Thinking About You
 ---
 
 
 
-Londonbeat est un groupe dance-pop britannique qui a produit de nombreux succès pop et dance au début des années 1990.
-Les membres sont Jimmy Helms, Jimmy Chambers et Charles Pierrer.
+Londonbeat（ロンドンビート）は、1990 年代初頭にポップやダンスのヒット曲を数多く生み出したイギリスのダンスポップバンドです。
+メンバーは Jimmy Helms（ジミー・ヘルムズ）、Jimmy Chambers（ジミー・チェンバース）、Charles Pierrer（チャールズ・ピエール）。
 
-"I've Been Thinking About You" est leur chanson signature et a atteint le numéro 1 des charts Billboard Hot 100 et Hot Dance Music/Club Play en 1991.
+「I've Been Thinking About You」は彼らの代表曲で、1991 年Billboard Hot 100 と Hot Dance Music/Club Play チャートで第1位を獲得。
 
 #### Liste des chansons
 ```md

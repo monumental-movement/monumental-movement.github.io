@@ -13,7 +13,7 @@ title: Divers – Nous sommes des personnes raisonnables
 ---
 
 
-Music Week a donné à l'album une critique positive, en déclarant: "Il plaira certainement aux fans existants et constitue une bonne introduction pour ceux qui s'intéressent aux sons underground."
+Music Week a donné à l'album une critique positive, en disant: "Il plaira certainement aux fans existants et constitue une bonne introduction pour ceux qui s'intéressent aux sons underground."
 
 « Brainwashed » se classe également troisième parmi les albums de compilation de 1998. De plus, en 2013, le magazine Fact a classé « Freeman Hardy & Willis Acid » au 10e rang de sa liste des 50 meilleurs morceaux d'Aphex Twin.
 

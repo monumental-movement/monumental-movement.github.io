@@ -20,7 +20,7 @@ title: '[Kolumne] „10 Sekunden Klang“, der mein Leben verändert hat – Kla
 Text: mmr｜Thema: Fragmente von „10 Sekunden“, die mir immer wieder in Erinnerung bleiben
 
 Wenn Sie auf Ihr Leben zurückblicken, gibt es Momente, in denen nur wenige Sekunden Klang Ihre Gedanken, Handlungen und den Rest Ihres Lebens verändert haben.
-Es könnte das Intro eines Liedes sein, ein Geräusch aus dem Radio, ein Riff, das man zufällig in einem Club gehört hat, oder eine Melodie, die jemand nachts an einer Straßenecke summt.
+Es könnte das Intro eines Liedes sein, ein Geräusch aus dem Radio, ein Riff, das Sie zufällig in einem Club gehört haben, oder eine Melodie, die jemand nachts an einer Straßenecke summt.
 
 In dieser Kolumne werde ich meine eigene Erfahrung mit „10 Sekunden Klang“ als Ausgangspunkt nutzen, um zu untersuchen, wie Klang mit Erinnerungen verbunden ist, Kultur prägt und unsere „Lebensweise“ beeinflusst.
 
@@ -89,7 +89,7 @@ flowchart TD
 
 Nicht nur Einzelpersonen, sondern auch die Gesellschaft formt Erinnerungen auf der Grundlage von „10 Sekunden Klang“.
 Zum Beispiel die Olympia-Fanfare, das Intro eines Star-Wars-Films oder der Ton einer Smartphone-Benachrichtigung.
-Diese subtilen Klänge rufen gemeinsame emotionale Reaktionen über Generationen und Grenzen hinweg hervor.
+Diese subtilen Klänge rufen eine gemeinsame emotionale Reaktion über Generationen und Grenzen hinweg hervor.
 
 Es ist kein Zufall, dass sich TikTok und YouTube Shorts seit den 2000er Jahren auf 10–15 Sekunden lange Soundloops konzentrieren.
 Der Algorithmus wählt den „Klang aus, der am schnellsten Emotionen auslöst“, was zu einem kulturell bedingten Reflex geworden ist.

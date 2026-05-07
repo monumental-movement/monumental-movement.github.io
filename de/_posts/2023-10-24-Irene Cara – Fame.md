@@ -10,13 +10,13 @@ tags:
 - Disco
 - 80s
 - 7inch
-title: Irene Cara – Ruhm
+title: Irene Cara – Fame
 ---
 
 
-Irene Cara ist eine amerikanische Sängerin und Schauspielerin. Sie spielte die Rolle der Coco Hernandez im Musikfilm „Fame“ von 1980 und der Titelsong des Films „Fame“ wurde ein Welthit.
+Irene Cara(アイリーン・キャラ)は、アメリカのシンガー兼女優。1980年のミュージカル映画『フェイム』のココ・ヘルナンデス役を演じ、映画のタイトル曲「Fame」が世界的ヒットとなりました。
 
-Irene Cara ist auch dafür bekannt, „Flashdance... What a Feeling“ aus dem Film „Flashdance“ zu singen.
+Irene Caraは映画『フラッシュダンス』の「Flashdance... What a Feeling(フラッシュダンス…ホワット・ア・フィーリング)」を歌ったことでも有名。
 
 #### Trackliste
 ```md

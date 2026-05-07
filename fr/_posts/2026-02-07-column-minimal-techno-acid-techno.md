@@ -80,17 +80,17 @@ Dans un grand club berlinois, la basse fait vibrer tout le bâtiment. La techno 
 
 ### Coïncidence entre Chicago et TB-303
 
-Les origines de l'acid techno se situent à Chicago au milieu des années 1980. Le Roland TB-303 a été initialement conçu pour la pratique de la guitare, mais a été considéré comme un échec sur le marché. Cependant, cet équipement, qui a trouvé sa place sur le marché de l'occasion, a créé un son de basse jamais vu auparavant grâce à sa fonction de résonance et de slide unique.
+Les origines de l'acid techno se situent à Chicago au milieu des années 1980. Le Roland TB-303 a été initialement conçu pour la pratique de la guitare, mais a été considéré comme un échec sur le marché. Cependant, cet équipement, qui a trouvé sa place sur le marché de l'occasion, a créé un son de basse sans précédent grâce à sa fonction de résonance et de slide unique.
 
 ### Combiner avec la culture rave britannique
 
 Au début des années 1990, l’acide a fait son chemin en Grande-Bretagne et a été associé aux raves illégales et aux fêtes en plein air. L'acid techno, qui résonnait dans les entrepôts et les champs, était directement liée au plaisir de s'écarter du système, évoluant dans un sens excessif et agressif.
 
-> L'acid techno, c'est le son de la rébellion amplifié aux marges de la ville.
+> L'acid techno était le son de la rébellion amplifié aux marges de la ville.
 
 ---
 
-## Structure acoustique de techno acid
+## Structure acoustique de techno acide
 
 ### Improvisation de l'opération de résonance
 
@@ -98,7 +98,7 @@ Le cœur de l'acid techno réside dans la manipulation en temps réel du filtre 
 
 ### Effets directs sur le corps
 
-La résonance et la distorsion élevées stimulent directement le corps de l'auditeur. L’acid techno est une musique qui déclenche une réaction physique avant le sens auditif et donne la priorité aux sens plutôt qu’au rationnel.
+La résonance et la distorsion élevées stimulent directement le corps de l'auditeur. L'acid techno est une musique qui déclenche une réaction physique avant le sens auditif et donne la priorité aux sens plutôt qu'au rationnel.
 
 > Le son acide se déchaîne d'abord avant d'être maîtrisé.
 
@@ -164,7 +164,7 @@ C --> G[過剰レゾナンス]
 
 ## Conclusion Équilibrer réduction et excès
 
-La techno minimale et la techno acide utilisaient le même langage, la techno, mais atteignaient des expressions complètement opposées. Le minimalisme a gagné en profondeur en dépouillant les choses, et l'acide a créé l'excitation en les déformant. L’existence de ces deux extrêmes permet à la techno de transcender la simple musique de danse et de continuer à exister en tant que partie intégrante de la culture urbaine elle-même.
+La techno minimale et la techno acide utilisaient le même langage, la techno, mais atteignaient des expressions complètement opposées. Le minimalisme a gagné en profondeur en dépouillant les choses, et l'acide a créé l'enthousiasme en les déformant. L’existence de ces deux extrêmes permet à la techno de transcender la simple musique de danse et de continuer à exister en tant que partie intégrante de la culture urbaine elle-même.
 
 > La force de la techno réside dans le fait qu'elle contient à la fois du calme et de la frénésie.
 

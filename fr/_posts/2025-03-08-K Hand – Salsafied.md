@@ -14,7 +14,7 @@ title: K Hand – Salsafié
 ---
 
 
-K : Hand, également connu sous le nom de Kelli Hand, est un musicien techno house et DJ de Détroit. Dans les années 1990, elle était connue comme l'une des principales femmes noires de la scène techno et électronique à prédominance masculine, et était surnommée la « Première dame de la techno de Détroit ». Il a continué à créer de la musique jusqu'à son décès en 2021.
+K : Hand, également connu sous le nom de Kelli Hand, est un musicien techno house et DJ de Détroit. Dans les années 1990, elle était connue comme l'une des principales femmes noires de la scène techno et électronique à prédominance masculine, et était surnommée la « Première dame de la techno de Détroit ». Il a continué à créer de la musique jusqu'à sa mort en 2021.
 
 En 2016, il a reçu le Spirit of Detroit Award aux côtés d'autres musiciens électroniques tels que Jeff Mills, Juan Atkins, Derrick May et Kevin Sanderson.
 

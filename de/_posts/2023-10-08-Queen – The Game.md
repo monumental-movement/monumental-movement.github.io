@@ -9,15 +9,15 @@ permalink: /de/queen-the-game/
 tags:
 - Rock
 - Pops
-title: Königin – Das Spiel
+title: Queen – The Game
 ---
 
 
-„The Game“ ist das achte Studioalbum von Queen und zeigt die Entwicklung und Vielfalt des Musikstils der Band. Neben traditionellen Rocksounds enthält dieses Album auch Songs, die Elemente wie Disco und Funk beinhalten.
+「The Game」は、クイーンの8枚目のスタジオアルバムであり、バンドの音楽スタイルの進化と多様性を示しています。このアルバムは、従来のロックサウンドに加えて、ディスコやファンクなどの要素を取り入れた楽曲も含まれています。
 
-Das Album enthält viele Hits, darunter Queens Signature-Songs „Another One Bites the Dust“ und „Crazy Little Thing Called Love“. Diese Songs enthielten Pop-Melodien und eingängige Refrains und fanden bei einem breiten Publikum großen Anklang.
+アルバムには、クイーンの代表曲として知られる「Another One Bites the Dust」や「Crazy Little Thing Called Love」など、数々のヒット曲が収録されています。これらの曲は、ポップなメロディとキャッチーなリフレインが特徴であり、広い層のリスナーに愛されました。
 
-Das Album verkörpert die Vielfalt und Kreativität der Musik von Queen und nimmt einen wichtigen Platz in der Karriere der Band ein. „The Game“ gilt bei Queen-Fans und Rockmusikliebhabern als eines ihrer Meisterwerke.
+このアルバムは、クイーンの音楽の多様性と創造性を体現しており、バンドのキャリアにおいて重要な位置を占めています。「The Game」は、クイーンのファンやロックミュージックの愛好家にとって、彼らの代表作の一つとして高く評価されています。
 
 #### Trackliste
 ```md

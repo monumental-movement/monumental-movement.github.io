@@ -14,13 +14,13 @@ title: Marc Johnson & Richard Toomz
 
 
 
-Die DJ-Karriere von Dave Owens begann in den frühen 2000er Jahren und er hat in einigen der bekanntesten Clubs der Clubszene aufgelegt, darunter Insomniacz, Housework, Insekt, Byte, Ultim-8, Incisions, Hard Up North, Out of Order, Toast, Housewives Choice und Forbidden.
+Dave Owens（デーブオーウェンズ）のDJキャリアは、2000年代初頭に軌道に乗り、Insomniacz、Housework、Insekt、Byte、Ultim-8、Incisions、Hard Up North、Out of Order、Toast、Housewives Choice、Forbiddenなどのクラブシーンを代表する場所でDJを務めています。
 
-Er war außerdem Resident-DJ im PureFilth in Manchester.
+マンチェスターのPureFilthではレジデントDJも務めていました。
 
-Daves Produktionsarbeit ist für seinen harten Sound in der Tanzmusik bekannt und er hat Werke auf den Hard House- und NRG-Labels veröffentlicht, die die Szene repräsentieren.
+デーブのプロデュース作品は、ダンスミュージックの中でもハード寄りなサウンドで知られ、シーンを代表するハードハウスやNRGレーベルから作品をリリースしています。
 
-Er arbeitet auch eng mit Nick Denton zusammen und hilft bei der Entwicklung von Toolbox Music sowie bei den führenden Unterlabels Toolbox Recordings, Hammerheads und Turtle Dog Digital.
+また、ニック・デントンと緊密に協力し、Toolbox Musicの発展に貢献しているほか、サブレーベルであるToolbox Recordings、Hammerheads、Turtle Dog Digitalも率いています。
 
 #### Trackliste
 ```md

@@ -95,7 +95,7 @@ color: #fff;
 | Süße Soul-Revue | Pizzicato Five | Eine wunderschöne Zahl, die Shibuya Kei repräsentiert |
 | Baby-Liebe-Kind | Pizzicato Five | Berühmte Lieder, die im Ausland beliebt sind |
 | Kameragespräch | Flippers Gitarre | Fusion aus Pop und Indie |
-| Jung, lebendig, verliebt | Flippers Gitarre | Jugendlicher und westlicher Musik orientiert |
+| Jung, lebendig, verliebt | Flippers Gitarre | Jugendlich und westlich musikorientiert |
 | Perfekter Strahl | Kornelius | Experimentalität und Pop-Feeling |
 | Wenn Sie hier sind | Kornelius | Futuristisches Klangbild |
 | Starke Gefühle, starke Liebe | Kenji Ozawa | Die perfekte Form des Shibuya-kei-Pop |

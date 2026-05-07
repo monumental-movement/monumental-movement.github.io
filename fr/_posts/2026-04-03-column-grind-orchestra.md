@@ -53,7 +53,7 @@ Dans les années 1990, la scène alternative du Kansai a attiré l’attention d
 
 En 1994, au moment de son départ, il fonde un nouveau groupe appelé Grind Orchestra.
 
-Dès sa création, sa composition était extrêmement unique. Avec un total de quatre percussionnistes, thérémine et électronique, le groupe s'écarte du concept traditionnel d'un groupe.
+Dès sa création, sa composition était extrêmement unique. En plus d'un total de quatre percussionnistes, le groupe était composé d'un thérémine et d'appareils électroniques, s'écartant du concept traditionnel d'un groupe.
 
 Cet arrangement a créé un rythme déferlant et une voix japonaise dans laquelle le sens et le son sont entrelacés en plusieurs couches. Ce n'était pas seulement du noise ou du hardcore, c'était un monde pop étrange qui n'existait nulle part ailleurs.
 
@@ -66,7 +66,7 @@ Cet arrangement a créé un rythme déferlant et une voix japonaise dans laquell
 Bien que Grind Orchestra ait été fluide, les huit membres suivants étaient les principaux membres principaux.
 
 ·Il y a
-・Gaku Terauchi
+· Gaku Terauchi
 · Koichi Nakaya
 · Mitsuhiro Yoshida
 ・Nana Lala Fafafa

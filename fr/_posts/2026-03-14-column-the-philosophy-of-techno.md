@@ -81,7 +81,7 @@ Les instruments de musique électroniques sont nés dans les années 1920.
 - thérémine
 -Ondes Martenot
 
-Ces instruments utilisaient l'électricité pour produire du son.
+Ces instruments utilisaient l’électricité pour produire du son.
 
 La musique est devenue quelque chose de créé non seulement par le corps mais aussi par la technologie.
 
@@ -149,7 +149,7 @@ Dans les années 1980, la techno est née dans la ville américaine de Détroit.
 
 Cette ville avait un passé particulier.
 
-Détroit était autrefois le centre de l’industrie automobile.
+Détroit était autrefois le centre de l'industrie automobile.
 
 -Gué
 - Moteurs généraux
@@ -172,7 +172,7 @@ C'est la techno de Détroit.
 Cette musique reflétait la réalité de la ville.
 
 - Ça bat comme une machine d'usine.
-- Des sons de synthétiseur futuristes ressemblant à une ville.
+- Des sons de synthétiseur futuristes semblables à ceux d'une ville.
 - Ambiance inorganique mais émotionnelle.
 
 La techno était le son de la ville.
@@ -193,7 +193,7 @@ Ils ont commencé à faire de la musique au lycée.
 Les influences étaient diverses.
 
 - musique électronique européenne
-- Funky
+- trouille
 - discothèque
 - Culture SF
 

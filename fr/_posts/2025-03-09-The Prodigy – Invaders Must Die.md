@@ -10,13 +10,13 @@ tags:
 - Breaks
 - Big Beat
 - 00s
-title: The Prodigy – Les envahisseurs doivent mourir
+title: The Prodigy – Invaders Must Die
 ---
 
 
-Cet album est le cinquième album studio du groupe britannique de musique de danse électronique The Prodigy. L'album, sorti en 2009, a été le premier à inclure tous les membres du groupe dans le processus de production et a été un succès commercial.
+このアルバムは、UKのエレクトロニックダンスミュージックグループ、The Prodigy(プロディジー)の5枚目のスタジオ・アルバム。2009年にリリースされたこのアルバムは、すべてのバンドメンバーが制作プロセスに参加した初めてのアルバムで、商業的にも成功を収めた。
 
-Contient des tubes tels que « Invaders Must Die », « Omen », « Warrior's Dance » et « Take Me to the Hospital ».
+「Invaders Must Die」、「Omen」、「Warrior's Dance」、「Take Me to the Hospital」等のヒット曲が収録されている。
 
 
 #### Liste des chansons

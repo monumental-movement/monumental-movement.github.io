@@ -10,14 +10,14 @@ tags:
 - House
 - Deep House
 - 00s
-title: Jody Watley – Wann immer
+title: Jody Watley – Whenever
 ---
 
 
 
-Jody Watley ist eine amerikanische Sängerin aus Chicago. Von 1977 bis 1984 war er Mitglied der Soul-/Disco-Gruppe Shalamar. Zu seinen Solo-Hits gehören „Looking for a New Love“, „Don't You Want Me“ und „Some Kind of Lover“.
+Jody Watley (ジョディ・ワトリー) は、アメリカ・シカゴ出身のシンガー。1977年から1984年まではソウル／ディスコグループShalamar（シャラマー）の一員として活躍した。ソロではヒット曲 『Looking for a New Love』『Don't You Want Me』『Some Kind of Lover』がよく知られている。
 
-„Whenever“ ist ein House/Deep-House-Track, der 2003 von Bill Coleman (alias Peace Bisquit) und Angelo Skordos‘ Label Peace Bisquit veröffentlicht wurde.
+「Whenever」は、Bill Coleman (aka Peace Bisquit) と Angelo Skordos主宰のレーベルPeace Bisquitから2003年にリリースされたHouse／Deep Houseトラック。
 
 #### Trackliste
 ```md

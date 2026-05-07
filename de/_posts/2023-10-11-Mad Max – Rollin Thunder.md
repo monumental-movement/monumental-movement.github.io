@@ -13,9 +13,9 @@ title: Mad Max – Rollin Thunder
 ---
 
 
-Mad Max ist eine Hardrock-Band, die 1981 von Michael Voss, Jürgen Brefors, Roland Bergman und Axel Kruse aus Münster, Deutschland, gegründet wurde.
+Mad Max（マッドマックス）は、ドイツのミュンスター出身のマイケル・ヴォス、ユルゲン・ブレフォース、ローランド・バーグマン、アクセル・クルーゼによって1981年に結成されたハードロックバンド。 
 
-Das 1984 erschienene Album „Rollin‘ Thunder“ ist das zweite Album von Mad Max.
+1984年にリリースされたアルバム「Rollin' Thunder」は、Mad Max２枚目のアルバム。
 
 #### Trackliste
 ```md

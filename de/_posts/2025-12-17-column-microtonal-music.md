@@ -20,7 +20,7 @@ title: '[Spalte] Mikrotonale Musik'
 
 Text: mmr｜Thema: Über den Übergang zu einer Produktionsphilosophie, die nicht von einer festen Tonhöhe ausgeht
 
-Mikrotonale Musik hat nicht nur die Prämisse moderner Musik gleichschwebender Stimmung in Frage gestellt, sondern auch die Denkeinheit in der Musikproduktion selbst verändert. In diesem Aufsatz trennen wir die Geschichte des musikalischen Temperaments, der Theorie, der akustischen Struktur und der Produktionspraxis nicht voneinander, sondern rekonstruieren sie als miteinander verbundene Bewegungen.
+Mikrotonale Musik hat nicht nur die Prämisse der modernen Musik gleichschwebender Stimmung in Frage gestellt, sondern auch die Denkeinheit in der Musikproduktion selbst verändert. In diesem Aufsatz trennen wir die Geschichte des musikalischen Temperaments, der Theorie, der akustischen Struktur und der Produktionspraxis nicht voneinander, sondern rekonstruieren sie als miteinander verbundene Bewegungen.
 
 ---
 
@@ -102,7 +102,7 @@ Diese Wahl verwandelt die Musik von einer „transponierbaren Struktur“ in ein
 
 ## 5. Harry Partch – Wiedereingliederung von Temperament, Instrument und Körper
 
-Die Bedeutung von Harry Partch liegt in der Tatsache, dass er mikrotonale Musik als „Ökosystem“ und nicht als „Kompositionstechnik“ konstruierte.
+Harry Partchs Bedeutung liegt in der Tatsache, dass er mikrotonale Musik als „Ökosystem“ und nicht als „Kompositionstechnik“ konstruierte.
 
 ### 5.1 Struktur der reinen 43-Ton-Intonation
 
@@ -120,7 +120,7 @@ Neue Temperamente erfordern neue Instrumente.
 
 Partchs Instrumente hatten folgende Rollen:
 
-* Visualisierung der Spielfeldstruktur
+* Visualisierung der Intervallstruktur
 *Direkte Gravur auf dem Körper des Darstellers
 * Untrennbarkeit von Theorie und Praxis
 
@@ -156,7 +156,7 @@ Geändert in **Produktionsauswahl**.
 * Sofortige Änderung der Tuning-Tabellen
 * Frei vom Tastaturlayout
 
-Infolgedessen wurde das Temperament zu einem **variablen Parameter** und nicht zu einer festen Prämisse.
+Dadurch wurde das Temperament zu einem **variablen Parameter** und nicht zu einer festen Prämisse.
 
 ---
 
@@ -201,7 +201,7 @@ Es geht nicht darum, mikrotonale Elemente zum Thema der Songstruktur zu machen.
 
 * Die Form ist traditionell
 * Das Temperament ändert sich innerlich
-* Zuhörer akzeptieren das Unbehagen, ohne es zu theoretisieren.
+* Zuhörer akzeptieren das Unbehagen, ohne es zu theoretisieren
 
 ---
 

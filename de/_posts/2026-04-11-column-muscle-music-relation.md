@@ -52,7 +52,7 @@ color: #fff;
 
 ### Verminderte subjektive Trainingsintensität
 
-Das Spannungsgefühl, das Sie beim Training verspüren, hängt nicht nur von der tatsächlichen Belastung ab, sondern auch davon, wie Ihr Gehirn diese wahrnimmt. Dieser Index wird als „subjektive Belastungsintensität“ (RPE) bezeichnet.
+Das Spannungsgefühl, das Sie beim Training verspüren, hängt nicht nur von der tatsächlichen Belastung ab, sondern auch davon, wie Ihr Gehirn diese wahrnimmt. Diese Metrik wird als „subjektive Intensität der Anstrengung“ (RPE) bezeichnet.
 
 Studien haben gezeigt, dass körperliche Betätigung beim Hören von Musik diesen RPE deutlich senkt. Mit anderen Worten: Die gleiche Belastung wird sich „leichter anfühlen“.
 
@@ -110,7 +110,7 @@ Dies ermöglicht einen natürlichen Wechsel der Bewegungsphasen.
 
 Elektronische Musik wie Techno und House zeichnet sich durch einen gleichmäßigen Beat und starken Bass aus. Diese fördern die Rhythmussynchronisation und eignen sich für dauerhaftes Training.
 
-Insbesondere Lieder mit einer starken Wiederholungsstruktur passen gut zu den sich wiederholenden Bewegungen beim Training und erleichtern so die Aufrechterhaltung eines Konzentrationszustands.
+Insbesondere Lieder mit einer starken Wiederholungsstruktur passen gut zu sich wiederholenden Bewegungen und erleichtern so die Aufrechterhaltung eines Konzentrationszustands.
 
 ### Hip-Hop und Explosivität
 
@@ -166,7 +166,7 @@ Die Wahl der Musik für das Training kann unterteilt werden in die Frage, ob Sie
 - Moodymann – Lyk U Use 2
 - DJ Sprinkles – Midtown 120 Blues
 
-> Der Zweck des Aufwärmens besteht darin, Ihren Körper an den Rhythmus zu gewöhnen. Dabei ist die Stabilität des Grooves wichtiger als eine Überstimulation.
+> Der Zweck des Aufwärmens besteht darin, Ihren Körper an den Rhythmus zu gewöhnen, wobei die Stabilität des Grooves wichtiger ist als eine Überstimulation.
 
 ---
 
@@ -186,7 +186,7 @@ Die Wahl der Musik für das Training kann unterteilt werden in die Frage, ob Sie
 - Alte Methoden – Ritter und Bischöfe
 - Blawan – Warum sie ihre Körper unter meiner Garage verstecken
 
-> In den hochintensiven Teilen kommt es auf die Intensität und Wiederholung des Klangs an, und die minimale Wiederholung von Underground treibt die Konzentration auf das Maximum.
+> Die Intensität und Wiederholung des Klangs wird in den hochintensiven Teilen wichtig, und die minimale Wiederholung von Underground bringt die Konzentration auf die Spitze.
 
 ---
 

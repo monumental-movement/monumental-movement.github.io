@@ -64,7 +64,7 @@ Le trait commun de cette période est que « l’idéologie a précédé la musi
 - Émergent des villes régionales et des villes universitaires
 - Capter des émotions et des voix qui ne sont pas couvertes par les majors
 
-Ces trois sociétés sont devenues la base d’Alterna ultérieure.
+Ces trois sont devenus la base d’Alterna plus tard.
 
 ---
 
@@ -122,7 +122,7 @@ Ce mouvement se connecte à des groupes lyriques et expérimentaux comme Radiohe
 La montée de Tortue, Mogwai, Godspeed You ! Black Emperor et d’autres ont repoussé les limites du rock.
 
 L’alternative n’est plus un style unique ;
-**"Un ​​terme général désignant la créativité qui n'est pas récupérée par le commercialisme"**
+**"Un ​​terme général désignant la créativité qui n'est pas capturé par le commercialisme"**
 Il est désormais compris comme.
 
 ---
@@ -131,17 +131,17 @@ Il est désormais compris comme.
 
 Au début des années 2000, des groupes tels que The Strokes, The White Stripes, Interpol et Yeah Yeah Yeahs ont connu un succès mondial avec leur guitare rock de style revival. C’est ce qu’on appelle souvent le « renouveau post-punk ».
 
-Dans le même temps, des groupes tels que Arcade Fire, Modest Mouse, The National et Franz Ferdinand ont émergé à divers endroits, et la musique alternative recoupait la définition plus large du « rock indépendant ».
+Dans le même temps, des groupes tels que Arcade Fire, Modest Mouse, The National et Franz Ferdinand ont émergé à divers endroits, et la musique alternative chevauchait la définition plus large du « rock indépendant ».
 
 À la fin des années 2000, la culture des festivals américains (Coachella, Lollapalooza) s'est développée et davantage d'actes indépendants ont occupé la scène principale. Voir des groupes autrefois underground occuper le devant de la scène lors des festivals est devenu monnaie courante.
 
 ---
 
-## **Chapitre 6 : Alternatives à l'ère du streaming (2010-2020)**
+## **Chapitre 6 : Alternatives à l'ère du streaming (2010-2020)**
 
-Depuis les années 2010, les frontières des genres rock se sont estompées en raison de la diffusion du streaming, et l’alternative a fini par avoir des significations plus diverses.
+Depuis les années 2010, les frontières des genres rock se sont estompées en raison de la diffusion du streaming, et l’alternatif a fini par avoir des significations plus diverses.
 
-Avec le parcours psychédélique de Tame Impala, la fusion numérique/folk de Bon Iver, l'expérimentation de Deerhunter et la montée en puissance d'artistes féminines (St. Vincent, Mitski, Phoebe Bridgers), l'alternatisme a complètement évolué vers « l'altera en tant qu'attitude esthétique ».
+Avec le parcours psychédélique de Tame Impala, la fusion numérique/folk de Bon Iver, l'expérimentation de Deerhunter et la montée des artistes féminines (St. Vincent, Mitski, Phoebe Bridgers), l'alternatisme a complètement évolué vers « l'altera en tant qu'attitude esthétique ».
 
 Plutôt que « l’anti-commercialisme » du passé,
 **"Une attitude de production qui met l'accent sur l'indépendance et l'expérimentation"**

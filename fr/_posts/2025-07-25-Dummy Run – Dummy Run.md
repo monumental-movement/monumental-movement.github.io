@@ -11,13 +11,13 @@ tags:
 - Drum n Bass
 - Experimental
 - 90s
-title: Course factice – Course factice
+title: Dummy Run – Dummy Run
 ---
 
 
-Dummy Run est un duo électro expérimental composé d'Andrew Sharpley et Nick Birmingham.
+Dummy Run (ダミーラン)は、Andrew Sharpley, Nick BirminghamによるエクスペリメンタルエレクトロDuo 。
 
-L'album éponyme sorti par le label britannique Hot Air en 1996 est un album où vous pourrez profiter du style unique de drum'n'bass + champ gauche de Dummy Run.
+1996年にUKのレーベルHot Airからリリースしたセフルタイトルアルバムは、ドラムンベース+レフトフィールドなDummy Run独自のスタイルが堪能できる一枚。
 
 #### Liste des chansons
 ```md

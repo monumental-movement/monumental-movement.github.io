@@ -16,7 +16,7 @@ title: La machine douce – La machine douce
 ---
 
 
-The Soft Machine est un groupe de jazz-rock progressif britannique de Cantorbéry formé au milieu des années 1966 par Mike Rutledge, Robert Wyatt, Kevin Ayers, David Allen et Larry Nowlin. Le groupe doit son nom au roman de William S. Burroughs « The Soft Machine ».
+The Soft Machine est un groupe de jazz-rock progressif britannique de Cantorbéry formé au milieu de 1966 par Mike Rutledge, Robert Wyatt, Kevin Ayers, David Allen et Larry Nowlin. Le groupe doit son nom au roman de William S. Burroughs « The Soft Machine ».
 
 Soft Machine est devenu l'un des premiers groupes psychédéliques britanniques, se tournant ensuite vers le rock progressif et le jazz rock, et devenant un groupe instrumental en 1971.
 

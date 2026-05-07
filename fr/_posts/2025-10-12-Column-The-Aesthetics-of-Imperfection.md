@@ -77,7 +77,7 @@ Le « brat » de Charli XCX a sublimé ce sentiment dans la musique pop.
 ### 2-1. Réalité occasionnelle
 Lorsque vous écoutez « Brat », la première chose que vous ressentez est le confort d’être « inachevé ».
 Le chant est rugueux, le mix est statique et les paroles sont crachées impulsivement.
-Cependant, il y a une sensation « brute » que l’on ne retrouve pas dans d’autres musiques pop.
+Cependant, il y a une qualité « brute » que l’on ne retrouve pas dans d’autres musiques pop.
 C'est une « touche humaine » qui est à l'opposé de l'ère de la perfection.
 
 ### 2-2. L'antithèse d'un monde parfait

@@ -136,7 +136,7 @@ Il a progressivement été accepté dans des pays comme la Corée du Sud et Taiw
 
 - **France/Allemagne** : En France, il a été intégré à la "Nouvelle Scène Jazz" et à la culture des clubs à Paris, et en Allemagne, il a été intégré à l'esprit expérimental des jazz/clubs centrés à Berlin-Ouest au moment de la réunification (1990).
 
-- **Italie/Espagne** : Lié au tourisme, Acid Jazz s'impose dans la culture des stations et sur la scène des clubs. Particulièrement à Ibiza, il était mélangé à la house et aux Baléares.
+- **Italie/Espagne** : Lié au tourisme, Acid Jazz s'impose dans la culture des stations et sur la scène des clubs. Surtout à Ibiza, il était mélangé à la house et aux Baléares.
 
 
 
@@ -179,7 +179,7 @@ L’acid jazz était bien plus qu’un simple genre musical ; c'était un symbol
 
 <hr>
 
-### Une cristallisation du son qui transforme la diversité et la sophistication urbaines en grooves
+### Une cristallisation du son qui transforme la diversité et la sophistication urbaine en grooves
 
 L'acid jazz est une « musique intellectuelle et dansante » née de la culture urbaine et de la scène club des années 1980 et 1990, et qui a redéfini la tradition du jazz dans la culture club. Cet esprit est toujours vivant dans le Nu-Jazz et les rythmes chill modernes, et ce n’était pas seulement une mode passagère, mais un carrefour important dans l’histoire de la musique.
 
@@ -189,4 +189,15 @@ En Europe, il s'est développé dans le tourisme et la culture urbaine après la
 
 La fin de la guerre froide et la mondialisation ont favorisé sa prolifération et ont servi de symbole géopolitique de liberté et d’échange.
 
-L’acid jazz est la cristallisation de sons qui traduisent la diversité et la sophistication urbaines en grooves.
+L'acid jazz est la cristallisation de sons qui traduisent la diversité et la sophistication urbaines en grooves.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2JWXLhBFUeQ?si=uOcH8hkjRy-mxCSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

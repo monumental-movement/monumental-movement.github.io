@@ -9,15 +9,15 @@ permalink: /fr/johan-kivi-clouds/
 tags:
 - Trance
 - 00s
-title: Johan Kivi – Nuages
+title: Johan Kivi – Clouds
 ---
 
 
-Johan Kivi est un producteur de Trance suédois. Il a également été actif dans le projet de transe progressive Amaya avec le producteur britannique Trance/Progressive Paul Meredith.
+Johan Kiviは、スウェーデン出身のTrance プロデューサー。UK出身のUK Trance/ProgressiveプロデューサーPaul Meredithと共にプログレッシブトランスプロジェクトAmayaとしても活動していた。
 
-"Clouds" est un morceau de transe sorti en 2004 par le label britannique de transe/hard trance Inspired Records.
+「Clouds」は、UKのtrance/hard trance レーベルInspired Records から2004年にリリースされたTranceトラック。
 
-B est un remix de Kaveh Azizi de Suède.
+Bは、スウェーデン出身のKaveh Aziziによるremix。
 
 #### Liste des chansons
 ```md

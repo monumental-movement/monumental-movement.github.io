@@ -10,15 +10,15 @@ tags:
 - Italo
 - Disco
 - Rare
-title: Ken Laszlo – Ce soir
+title: Ken Laszlo – Tonight
 ---
 
 
-"Ken Laszlo - Tonight" est une chanson sortie en 1985 par l'artiste disco italien Ken Laszlo.
+「Ken Laszlo - Tonight」は、イタリアのイタロディスコアーティスト、ケン・ラズロ（Ken Laszlo）の1985年リリースの楽曲です。
 
-Ken Laszlo était un artiste actif dans le mouvement Italo Disco, et "Tonight" est considéré comme l'un de ses chefs-d'œuvre.
+ケン・ラズロは、イタロディスコムーブメントの中で活躍したアーティストであり、「Tonight」は彼の代表作の一つとされています。
 
-"Tonight" est une chanson disco pop avec un rythme dansant, une mélodie entraînante et une voix énergique, et son son sophistiqué et son refrain accrocheur l'ont rendue populaire sur la scène disco de l'époque.
+「Tonight」は、ダンサブルなビート、キャッチーなメロディ、エネルギッシュなボーカルが特徴のディスコ・ポップ曲で、洗練されたサウンドとキャッチーなリフレインは、当時のディスコシーンで人気を集めました。
 
 #### Liste des chansons
 ```md

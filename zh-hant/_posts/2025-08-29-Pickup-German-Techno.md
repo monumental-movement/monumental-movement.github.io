@@ -23,7 +23,7 @@ title: 挑選德國Techno作品
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-亮點：德國著名廠牌 Tresor 的合輯，收錄了 Sven Väth、Maurizio、Ben Sims、James Ruskin 和 Pacou 等科技界大腕的精選曲目。這是一首可以讓你充分體驗象徵德國柏林的硬派、簡約、創新的techno魅力的作品。
+亮點：德國著名廠牌 Tresor 的合輯，收錄了 Sven Väth、Maurizio、Ben Sims、James Ruskin 和 Pacou 等科技界大腕的精選曲目。这是一首可以让你充分体验象征德国柏林的硬派、简约、创新的techno魅力的作品。
 
 
 #### 曲目表
@@ -112,7 +112,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-魅力ポイント：Thomas Schumacher（トーマス・シューマッハ）のソロプロジェクト「Elektrochemie LK」による2001年リリース作品。堅牢なビートとクラシカルなドイツ・テクノの美学が融合された魅力的な一枚。自由奔放かつエッジの効いたトラック展開が光ります。
+亮點：托馬斯·舒馬赫 (Thomas Schumacher) 2001 年推出的個人項目“Elektrochemie LK”。這是一首極具吸引力的作品，將紮實的節奏與經典的德國科技美學融為一體。自由奔放、前衛的賽道發展讓人眼睛一亮。
 
 
 #### 曲目表
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-亮點：約翰內斯·海爾的作品，特點是黑暗和戲劇性的方向。這是一種具有深沉節拍和迷幻風格的未來科技體驗。這個故事令人印象深刻，它在沉默和爆炸之間來回移動。
+亮點：約翰內斯·海爾的作品，特點是黑暗和戲劇性的方向。這首作品以深沉的節拍和迷幻的方式帶來未來主義的科技體驗。這個故事令人印象深刻，它在沉默和爆炸之間來回移動。
 
 
 #### 曲目表

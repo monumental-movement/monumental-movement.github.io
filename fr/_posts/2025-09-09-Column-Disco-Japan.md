@@ -75,9 +75,9 @@ color: #fff;
 | Piste | Artiste | Commentaires |
 |--------------|--------------|--------------|
 | J'adore t'aimer bébé | Donna Été | Un chef-d'œuvre qui a posé les bases d'un chant sensuel et de rythmes 4/4. |
-| Je ressens de l'amour | Donna Summer & Giorgio Moroder | Revolutionary synth-disco track. |
+| Je ressens de l'amour | Donna Summer et Giorgio Moroder | Piste synth-disco révolutionnaire. |
 | Rester en vie | Bee Gees | Hymne disco mondial. |
-| Le Freak | Chics | A symbol of groove and sophistication. |
+| Le Freak | Chics | Un symbole de groove et de sophistication. |
 | OVNI | Dame rose | Une chanson qui symbolise le disco populaire japonais. |
 | Ancien journal | Akiko Wada | Un chef-d'œuvre qui intègre une voix chantée émouvante au disco. |
 | Disco Inferno | Les Tramps | Un classique intemporel qui enflamme les pistes de danse. |
@@ -97,9 +97,9 @@ Le Japon est entré dans une période de bulle économique et de grandes discoth
 - Chaka Khan — *Je ressens pour toi* (1984)
 
 - **Chef-d'œuvre représentatif (Japon)**
-- Yoko Oginome — *Héros de la danse* (1985)
+- Yoko Oginome — *Héros dansant* (1985)
 -Akina Nakamori — *DÉSIR -Passion-* (1986)
-- Motoharu Sano — *Jeunes sangs* (1985)
+- Motoharu Sano — *Jeunes Sangs* (1985)
 
 - **Relation avec la culture japonaise**
 Formation des fondements de la « fan dance culture » qui s'est poursuivie avec Bodycon et Juliana Tokyo. Les remix disco de musique occidentale et japonaise sont devenus populaires à la radio et à la télévision.
@@ -260,14 +260,14 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi et d'autres ont été redécouve
 | La Baie | Métronomie | Nu-Disco Indépendant |
 | DANSE. | Justice | Électro x Disco |
 | Je me sens mieux | Puce chaude | Orienté électropop |
-| Feux rouges | Liens | Intersection de l'EDM et du Nu-Disco |
+| Feux rouges | Tiesto | Intersection de l'EDM et du Nu-Disco |
 
 
 ---
 
 ## Années 2020 — Post-pandémie et réinterprétation house/disco
 - **Arrière-plan**
-Depuis la pandémie de coronavirus, la valeur de la culture en streaming et des vraies fêtes a été redéfinie, et la chaleur de la house et de la discothèque a attiré une attention renouvelée. Au Japon, avec le « boom des exportations de city pop », la musique aux rythmes disco s'est répandue dans le monde entier.
+Depuis la pandémie de coronavirus, la valeur de la culture en streaming et des vraies fêtes a été redéfinie, et la chaleur de la house et de la discothèque a suscité un regain d'attention. Au Japon, avec le « boom des exportations de city pop », la musique aux rythmes disco s'est répandue dans le monde entier.
 
 - **Chefs-d'œuvre représentatifs (à l'étranger)**
 - Dua Lipa — *Nostalgie du futur* (2020)
@@ -302,7 +302,7 @@ La city pop/disco se répand sur TikTok et YouTube. Les événements disco analo
 | Lévitation | Dua Lipa | Populaire sur TikTok |
 | Dis-le | Chat Doja | Très populaire au Japon |
 | Discothèque | Kylie Minogue | Disco moderne comme le titre l'indique |
-| Pluie sur moi | Lady Gaga et Ariana Grande | Retour dance-pop |
+| Pluie sur moi | Lady Gaga et Ariana Grande | Renouveau dance-pop |
 | Funk vers le futur | Tempo de nuit | Interprétation Future Funk du Japon |
 | Laissez la porte ouverte | Soie Sonic | Fusion Soul x Disco |
 | Briser mon âme | Beyoncé | Fusion house et discothèque |

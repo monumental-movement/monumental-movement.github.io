@@ -47,7 +47,7 @@ color: #fff;
 
 ## Prologue : Intersection de la lumière et de l'ombre
 
-La vie de Marvin Gaye, connu sous le nom de « Prince de la Soul » et « Prince de la Motown », a été remplie de complications familiales, de conflits avec lui-même, d'efforts créatifs constants et d'une fin tragique derrière son succès spectaculaire. Sa musique était plus qu'un simple « hit pop » ; c'était un amalgame de messages sociaux, de confessions personnelles et de grooves.
+La vie de Marvin Gaye, connu sous le nom de « Prince de la soul » et « Prince de la Motown », a été remplie de complications familiales, de conflits avec lui-même, d'efforts créatifs constants et d'une fin tragique derrière son succès spectaculaire. Sa musique était plus qu'un simple « hit pop » ; c'était un amalgame de messages sociaux, de confessions personnelles et de grooves.
 
 Dans cet article, nous le reconsidérerons non seulement comme un génie musical, mais aussi comme un être humain qui a vécu une « vie étrange ». Nous dévoilerons son évolution selon deux axes : les changements dans la musique et ses propres oscillations intérieures.
 
@@ -89,12 +89,12 @@ Les expériences de cette période constituent le contexte qui mène au tournant
 ## Chapitre 3 : Points tournants – De « What’s Going On » à « Here, My Dear » (1970-1976)
 
 ### « What’s Going On » (1971) : Accusation musicale et transformation
-Le 21 mai 1971, sort l’album « What’s Going On ». En se concentrant sur des problèmes sociaux tels que la guerre du Vietnam, la pauvreté et la destruction de l'environnement, il s'est imposé comme quelqu'un qui non seulement chante mais parle aussi. Il s’agissait d’un événement révolutionnaire au sein de « l’usine à succès » qu’était la Motown.
+Le 21 mai 1971 sort l’album « What’s Going On ». En se concentrant sur des problèmes sociaux tels que la guerre du Vietnam, la pauvreté et la destruction de l'environnement, il s'est imposé comme quelqu'un qui non seulement chante mais parle aussi. Il s’agissait d’un événement révolutionnaire au sein de « l’usine à succès » qu’était la Motown.
 
 Avec cet album, il a participé lui-même à l'écriture, à la composition et à la production de l'album, montrant ainsi son indépendance en tant qu'artiste.
 
 ### « Let's Get It On » (1973) et l'exploration de la sexualité
-Dans « Let's Get It On » de 1973, elle approfondit le thème de l'amour/désir, démontrant son « sex-appeal » en tant que chanteuse soul. Il y a un net glissement de l'ancienne « accusation sociale » vers la « passion intérieure ».
+Dans « Let's Get It On » de 1973, elle approfondit le thème de l'amour et du désir, démontrant son « sex-appeal » en tant que chanteuse soul. Il y a un net glissement de l'ancienne « accusation sociale » vers la « passion intérieure ».
 Durant cette période, Gaye a connu la joie de la création, ainsi que l'échec amoureux et la pression financière dans sa vie personnelle, et ces fluctuations jettent une ombre sur son œuvre.
 
 ### « Here, My Dear » (1976) – Etablissement comme album confessionnel
@@ -107,7 +107,7 @@ Après la sortie de cet album, Gaye était épuisé physiquement et mentalement 
 ## Chapitre 4 : Une période de chaos et de renaissance (1977-1983)
 
 ### Évasion fiscale, fuite d'Europe, préparation au redémarrage
-À la fin des années 1970 et au début des années 1980, les hommes homosexuels étaient confrontés à de nombreux défis aux États-Unis, notamment des problèmes fiscaux, la consommation de drogues et la stagnation de la créativité. Déménager en Belgique et passer plus de temps en Europe est devenu une « évasion », tant musicalement que physiquement.
+À la fin des années 1970 et au début des années 1980, les hommes homosexuels étaient confrontés à de nombreux défis aux États-Unis, notamment des problèmes fiscaux, la consommation de drogues et la stagnation de la créativité. Déménager en Belgique et passer plus de temps en Europe s'apparentait à une « évasion », tant musicalement que physiquement.
 Au milieu de tout cela, il cherchait un retour, à la recherche de nouveaux sons et de nouveaux environnements.
 
 ### "Amour de minuit" (1982)/"Guérison sexuelle"
@@ -143,7 +143,7 @@ Marvin Gaye n'était pas seulement un créateur de succès, mais aussi quelqu'un
 De plus, l'utilisation du Roland TR-808 sur « Midnight Love » a également montré de nouvelles possibilités pour la fusion de l'équipement électronique et de la musique soul.
 
 ### Destin personnel étrange
-La vie de Gay est remplie du sort « curieux » de la violence domestique durant son enfance, des ruptures amoureuses, des problèmes financiers et de drogue, et du meurtre par balle par son père. Cette tendance dépasse le cadre d'une simple « étoile tragique » et révèle l'image humaine d'un homme dont « le talent et la souffrance » s'entremêlent.
+La vie de Gay est remplie du sort « curieux » de la violence domestique durant son enfance, des ruptures amoureuses, des problèmes financiers et de drogue, et du fait d'être abattu par son père. Cette tendance dépasse le cadre d'une simple « étoile tragique » et révèle l'image humaine d'un homme dont « le talent et la souffrance » s'entremêlent.
 De plus, lorsqu'on y réfléchit sous l'angle du « et si », de nombreuses hypothèses viennent à l'esprit : et s'il avait rompu sa relation avec son père, et s'il n'avait pas été complètement piégé dans le système Motown, et s'il avait continué à vivre. Ils témoignent d'une « vie étrange » où le hasard et la nécessité s'entremêlent.
 
 ### Réévaluation et expansion de l'expression à l'époque moderne

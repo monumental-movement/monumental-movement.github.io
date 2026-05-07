@@ -13,9 +13,9 @@ title: Led Zeppelin – Led Zeppelin II
 ---
 
 
-"Led Zeppelin II" est une nouvelle évolution du son du groupe et contient des chansons dures et énergiques. L'album présente des performances qui mettent en valeur les talents de chaque membre, notamment les riffs de guitare de Jimmy Page, le chant de Robert Plant, la batterie de John Bonham et la basse de John Paul Jones.
+「Led Zeppelin II」は、バンドのサウンドをさらに進化させた作品であり、ハードでエネルギッシュな楽曲が収録されています。アルバムは、ジミー・ペイジ（Jimmy Page）のギターリフ、ロバート・プラント（Robert Plant）のヴォーカル、ジョン・ボーナム（John Bonham）のドラム、ジョン・ポール・ジョーンズ（John Paul Jones）のベースなど、メンバーそれぞれの才能が光る演奏で構成されています。
 
-L'album contient de nombreuses chansons à succès, notamment « Whole Lotta Love », « Heartbreaker » et « Ramble On ». Ces chansons incarnent le son caractéristique de Led Zeppelin, avec des riffs de guitare puissants et la performance vocale imposante de Plant.
+アルバムには多くのヒット曲が含まれており、「Whole Lotta Love」や「Heartbreaker」、「Ramble On」などが特に知られています。これらの曲は、レッド・ツェッペリンのシグネチャーサウンドを象徴するものであり、パワフルなギターリフとプラントの圧倒的なヴォーカルパフォーマンスが特徴です。
 
 #### Liste des chansons
 ```md

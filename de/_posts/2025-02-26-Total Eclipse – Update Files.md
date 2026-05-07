@@ -10,13 +10,13 @@ tags:
 - Psy-Trance
 - Trance
 - 00s
-title: Total Eclipse – Update Files
+title: Total Eclipse – Dateien aktualisieren
 ---
 
 
-Total Eclipseは、1992年に3人のフランス人プロデューサーによって始まったプロジェクト。1995年＆1996年にリリースしたゴアトランスアルバムで有名になった。
+Total Eclipse ist ein 1992 von drei französischen Produzenten gestartetes Projekt. Berühmt wurde er durch seine Goa-Trance-Alben, die 1995 und 1996 veröffentlicht wurden.
 
-「Update Files 」は、2003年に日本のゴア＆サイトランスレーベルArcadia Musicからリリースされたサイケデリックトランスアルバム。
+„Update Files“ ist ein psychedelisches Trance-Album, das 2003 vom japanischen Gore- und Psytrance-Label Arcadia Music veröffentlicht wurde.
 
 #### Trackliste
 ```md

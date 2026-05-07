@@ -10,11 +10,11 @@ tags:
 - Glitch
 - Noise
 - Experimental
-title: '[Chronique] Glitch : Quand le bruit se transforme en beauté'
+title: 【コラム】 Glitch：ノイズが美に変わるとき
 ---
 
 
-## Le plaisir de l'erreur
+## エラーという快楽
 
 
 Texte : mmr｜Thème : Le moment où l'erreur se transforme en beauté. La culture Glitch, née de l’effilochage numérique, reflète « l’esthétique brisée » du 21e siècle. Un long métrage sur la théorie culturelle sur la musique, les images et les fragments de la société.
@@ -26,7 +26,7 @@ C'était le début de **Glitch**.
 
 Dans le passé, « l’erreur » était quelque chose qui devait être éliminé. Mais désormais, les erreurs sont devenues des « expressions ».
 Dans les petits défauts qui surviennent au sein d’un système parfait, nous trouvons quelque chose de nostalgique de notre humanité.
-Glitch est le langage esthétique du 21ème siècle, un poème né au moment où la technologie révèle ses limites.
+Glitch est le langage esthétique du XXIe siècle, un poème né au moment où la technologie révèle ses limites.
 
 ---
 
@@ -68,7 +68,7 @@ C'est pourquoi la beauté instable créée par la corruption JPEG et le bruit du
 
 Glitch a également imprégné la mode et la publicité.
 La méthode consistant à incorporer des pixels désordonnés dans le design a pris d'assaut la culture de la rue à la fin des années 2010 sous le nom de « design brisé ».
-On peut enfin se réjouir du fait que ce n'est pas parfait, et que même le numérique a du "bruit".
+Nous pouvons enfin apprécier le fait que ce n'est pas parfait et que même les produits numériques contiennent du « bruit ».
 
 ---
 

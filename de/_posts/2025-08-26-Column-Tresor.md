@@ -79,13 +79,13 @@ Tresor ist ein Symbol der „Kultur der Wiederverwendung städtischer Ruinen“.
 
 In Berlin, wo die Vorschriften lax waren, wurde ein Raum geschaffen, in dem die Menschen morgens, mittags und abends weitertanzen konnten. Sein Stil wird immer noch weltweit beneidet.
 
-**Techno=urbane Identität**
+**Techno = urbane Identität**
 
 Der Einfluss von Tresor ist der Grund dafür, dass die Stadt Berlin die Clubkultur offiziell als Stadtmarke anerkennt.
 
 <hr>
 
-### Umzug und aktueller Stand
+### Umzug und aktuelle Situation
 
 2005 wurde der ursprüngliche Standort geschlossen, 2007 jedoch in ein ehemaliges Kraftwerk in Ost-Berlin verlegt.
 
@@ -125,7 +125,7 @@ Heute treten dort DJs aus aller Welt auf und er dient weiterhin als Wallfahrtsor
 
 - Ästhetik der „Ortlichkeit“, die Ruinen wiederverwendet
 
-- Die Grundlage dafür, dass Berlin „Techno-Hauptstadt der Welt“ genannt wird
+- Die Grundlage dafür, dass Berlin als „Techno-Hauptstadt der Welt“ bezeichnet wird
 
 <hr>
 
@@ -155,8 +155,8 @@ Heute treten dort DJs aus aller Welt auf und er dient weiterhin als Wallfahrtsor
 
 ### Die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zu einer „universellen Kultur“ erheben
 
-Tresor ist mehr als nur ein Club oder ein Label, es ist ein „kultureller Knotenpunkt“, der die Geschichte Berlins, den Stadtraum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
-Die aus diesem Gewölbe freigesetzten Klänge hallen immer noch in der Clubkultur auf der ganzen Welt nach und erheben die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zur „universellen Kultur“.
+Tresor ist mehr als nur ein Club oder ein Label, es ist ein „kultureller Knotenpunkt“, der die Geschichte Berlins, den urbanen Raum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
+Die aus diesem Gewölbe freigesetzten Klänge hallen immer noch in der Clubkultur auf der ganzen Welt wider und erheben die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zur „universellen Kultur“.
 
 ---
 

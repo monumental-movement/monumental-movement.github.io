@@ -10,13 +10,13 @@ tags:
 - Euro House
 - Euro
 - 90s
-title: Black Rose – Geboren, um geliebt zu werden
+title: Black Rose – Born To Be Loved
 ---
 
 
-Black Rose ist ein italienisches Projekt des Produzenten Davide Marsilio und der Sänger Samantha Boni, Giorgio Spagna und Samanta.
+Black Rose は、プロデューサーDavide Marsilio, ヴォーカルSamantha Boni, Giorgio Spagna, Samantaによるイタリアのプロジェクト。
 
-„Born To Be Loved“ ist ein Euro-House-Track, der 1997 auf dem House/Techno-Label Plastika veröffentlicht wurde.
+「Born To Be Loved 」は、1997年にHouse/TechnoレーベルPlastikaからリリースしたEuro Houseトラック。
 
 #### Trackliste
 ```md

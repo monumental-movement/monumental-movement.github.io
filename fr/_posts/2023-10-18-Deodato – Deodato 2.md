@@ -14,7 +14,7 @@ title: Déodato – Déodato 2
 
 Eumir Deodato, également connu sous le nom de Deodato, est un musicien, compositeur, arrangeur et producteur brésilien.
 
-Le deuxième album de Deodato, « Rhapsody in Blue », sorti en 1973, comprenait des chansons telles que « Rhapsody In Blue » de George Gershwin, « Pavane for a Dead Princess » de Maurice Ravel et « Satin Night » de The Moody Blues avec les arrangements de style de Deodato.
+Le deuxième album de Deodato, « Rhapsody in Blue », sorti en 1973, comprenait des chansons telles que « Rhapsody In Blue » de George Gershwin, « Pavane for a Dead Princess » de Maurice Ravel et « Satin Night » de The Moody Blues avec les arrangements de style Deodato.
 
 #### Liste des chansons
 ```md

@@ -9,11 +9,11 @@ permalink: /de/samboa-samboa/
 tags:
 - Bossa Nova
 - Latin
-title: Samboa – Samboa
+title: Sambôa – Sambôa
 ---
 
 
-Dieses Album ist eine Neuauflage des zweiten Albums „Samboa“, das 1983 vom brasilianischen Jazzduo Sambôa veröffentlicht wurde.
+このアルバムは、ブラジリアンジャズデュオSambôaが1983年に残したセカンドアルバム「Sambôa(サンボア)」のReissue。
 
 #### Trackliste
 ```md

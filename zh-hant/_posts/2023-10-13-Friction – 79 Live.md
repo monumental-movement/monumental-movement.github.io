@@ -9,7 +9,7 @@ permalink: /zh-hant/friction-79-live/
 tags:
 - Rock
 - Punk
-title: Friction – '79 Live
+title: 摩擦 – '79 現場
 ---
 
 

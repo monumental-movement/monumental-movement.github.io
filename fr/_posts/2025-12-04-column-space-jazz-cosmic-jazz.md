@@ -118,7 +118,7 @@ Une fusion d'éléments ethniques, rituels et de cosmologie. Nous redéfinissons
 
 ### ● Connexion avec scène électronique/ambiante
 
-Ces dernières années, la fusion avec l'électro et la musique ambiante a progressé et le Cosmic Jazz s'est étendu à des domaines d'expression plus abstraits.
+Ces dernières années, la fusion avec l’électro et la musique ambiante a progressé et le Cosmic Jazz s’est étendu à des domaines d’expression plus abstraits.
 
 ---
 

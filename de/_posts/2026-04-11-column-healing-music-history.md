@@ -24,7 +24,7 @@ In unserem täglichen Leben werden wir unbewusst von Geräuschen beeinflusst. Da
 
 Der Zusammenhang zwischen Musik und „Heilung“ ist nicht nur ein subjektives Gefühl. Jahrelange Forschung hat gezeigt, dass es eng mit physiologischen Indikatoren wie Gehirnströmen, Herzfrequenz und autonomen Nerven zusammenhängt. Insbesondere bestimmte Rhythmen und Frequenzen tragen dazu bei, Stress abzubauen und die Konzentration zu verbessern.
 
-現代にempfehlungいてヒーリング音楽は, スパやヨガ, 瞑想アプリだけでなく, 医療現場や心理療法の領域にも広がっている.その背景には、音が持つ「非言語的な直接性」がある. Es erreicht den Körper ohne Worte. Das ist die wesentliche Kraft der Musik.
+Heutzutage hat sich heilende Musik nicht nur in Spas, Yoga und Meditations-Apps verbreitet, sondern auch in medizinischen Einrichtungen und in der Psychotherapie. Dahinter steckt die „nonverbale Unmittelbarkeit“ des Klangs. Es erreicht den Körper ohne Worte. Das ist die wesentliche Kraft der Musik.
 
 > Klang ist die Umgebung und existiert als Teil des Körpers.
 
@@ -49,19 +49,19 @@ color: #fff;
 
 Die Beziehung zwischen Musik und Heilung ist in der Neuzeit nichts Neues. Klang wurde bereits in alten Zivilisationen als Teil von Therapien und Ritualen eingesetzt.
 
-古代ギリシャでは、哲学者であり数学者でもあるピタゴラスが「音の調和（ハーモニー）」を宇宙の秩序と結びつけた. Er glaubte, dass das Tonhöhenverhältnis Geist und Körper beeinflusste und dass bestimmte Melodien die Seele reinigten.
+Im antiken Griechenland verband der Philosoph und Mathematiker Pythagoras „Harmonie“ mit der Ordnung des Universums. Er glaubte, dass das Tonhöhenverhältnis Geist und Körper beeinflusste und dass bestimmte Melodien die Seele reinigten.
 
 Im mittelalterlichen Europa wurde monophone religiöse Musik wie der gregorianische Gesang zur Stabilisierung des Geistes eingesetzt. Diese haben einen konstanten Rhythmus und keine komplizierten Harmonien und wirken daher beruhigend auf das Bewusstsein des Zuhörers.
 
-On the other hand, in the East, musical cultures linked to nature and cosmology are developing, such as Japanese gagaku, Indian ragas, and Chinese guqin. Diese dienten nicht nur der Unterhaltung, sondern auch als Mittel zur spirituellen Schulung und Meditation.
+Andererseits entwickeln sich im Osten Musikkulturen, die mit der Natur und der Kosmologie verbunden sind, wie zum Beispiel japanische Gagaku, indische Ragas und chinesische Guqin. Diese dienten nicht nur der Unterhaltung, sondern auch als Mittel zur spirituellen Schulung und Meditation.
 
-20 世紀に入ると、音楽療法という分野が確立され、戦争による心的外傷の治療などに応用されるようになる. In diesem Trend erweiterte sich die Rolle der Musik von „Kunst“ zu „Funktion“.
+Im 20. Jahrhundert etablierte sich das Gebiet der Musiktherapie und begann, sie auf Behandlungen wie die Behandlung von durch Krieg verursachten psychischen Traumata anzuwenden. In diesem Trend erweiterte sich die Rolle der Musik von „Kunst“ zu „Funktion“.
 
 > Musik existiert seit der Antike als Technologie, die auf die innere Welt des Menschen einwirkt.
 
 ---
 
-## 脳と音：ヒーリングの科学的メカニズム
+## Gehirn und Klang: Wissenschaftliche Mechanismen der Heilung
 
 Der Grund, warum Musik Heilung bringt, kann aus neurowissenschaftlicher Sicht erklärt werden.
 
@@ -80,7 +80,7 @@ Es gibt auch eine Theorie, dass bestimmte Frequenzen (z. B. 432 Hz und 528 Hz) f
 
 Darüber hinaus beeinflusst Musik die Ausschüttung von Neurotransmittern wie Dopamin und Serotonin. Dadurch entsteht ein Gefühl von Freude und Geborgenheit.
 
-> Musik wirkt sich direkt auf die Gehirnwellen und das Nervensystem aus und verändert den Zustand des Körpers.
+> Musik beeinflusst direkt die Gehirnwellen und das Nervensystem und verändert den Zustand des Körpers.
 
 ---
 
@@ -88,7 +88,7 @@ Darüber hinaus beeinflusst Musik die Ausschüttung von Neurotransmittern wie Do
 
 In den 1970er Jahren entstand ein Genre, das das Wesen der Musik grundlegend veränderte. Das ist Ambient-Musik.
 
-Brian Eno hat dieses Feld begründet. 1978 Musik für Flughäfenはなく「空間に存在する音楽」という概念を提示した.
+Brian Eno hat dieses Feld begründet. In seinem 1978 erschienenen Album „Music for Airports“ schlug er das Konzept einer „Musik, die im Weltraum existiert“ vor, statt einer „Musik zum Zuhören“.
 
 Die Merkmale von Ambient-Musik sind:
 
@@ -141,7 +141,7 @@ E --> E1[反復・変化の少なさ]
 
 Diese Elemente bestehen aus einem exquisiten Gleichgewicht, das das Bewusstsein nicht überreizt und es nicht langweilig macht.
 
-Besonders wichtig ist „Vorhersehbarkeit“. Das menschliche Gehirn findet Trost in vorhersehbaren Mustern. Deshalb legt Heilmusik Wert auf Konsistenz statt auf Komplexität.
+Besonders wichtig ist „Vorhersehbarkeit“. Das menschliche Gehirn findet Trost in vorhersehbaren Mustern. Daher legt heilende Musik Wert auf Konsistenz statt auf Komplexität.
 
 > Heilmusik ist ein Klang, der eher stabilisieren als stimulieren soll.
 
@@ -155,7 +155,7 @@ Wenn Sie die Erklärung der Frequenz visuell untermauern möchten, ist ein Diagr
 
 Schall ist die Schwingung der Luft und die Anzahl der Schwingungen wird als „Frequenz (Hz)“ ausgedrückt. Je niedriger die Frequenz, desto langsamer die Welle, und je höher die Frequenz, desto feiner und schneller die Welle.
 
-Wenn man diese Wellen als Standard betrachtet, haben die in der Heilmusik verwendeten niedrigen Frequenzen lange Wellenzyklen und wirken sanft auf den Körper. Andererseits wirken hohe Frequenzen tendenziell anregend und fördern die Wachheit.
+Wenn man diese Wellen als Standard betrachtet, haben die in der Heilmusik verwendeten niedrigen Frequenzen lange Wellenzyklen und wirken sanft auf den Körper. Andererseits wirken hohe Frequenzen tendenziell anregend und fördern die Wachsamkeit.
 
 ---
 

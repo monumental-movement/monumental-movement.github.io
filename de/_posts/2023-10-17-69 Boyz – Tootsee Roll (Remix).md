@@ -12,8 +12,8 @@ title: 69 Boyz – Tootsee Roll (Remix)
 ---
 
 
-69 Boyz ist ein US-amerikanisches Bass- und Hip-Hop-Duo aus Miami.
-„Tootsee Roll“ ist eine Single aus 69 Boyz‘ Debütalbum „199Quad“. Der Produzent ist 95 South, eine US-amerikanische Hip-Hop-Gruppe aus Florida.
+69 Boyz は、USマイアミベース＆ヒップホップデュオ。
+「Tootsee Roll」は、69 Boyzのデビュー アルバム「199Quad」からのシングルカット。プロデューサーは、フロリダ出身のUSヒップホップグループ95 South。
 
 #### Trackliste
 ```md

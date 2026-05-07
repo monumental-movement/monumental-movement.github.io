@@ -102,7 +102,7 @@ Live-Auftritte waren in dieser Zeit immer unvorhersehbar und das Bühnengeschehe
 
 ---
 
-„Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, jedoch großen Wert auf Klangordnung, Wiederholung und Minimalismus legt.
+„Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, aber Klangordnung, Wiederholung und Minimalismus stark betont.
 Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Anmutung anzunehmen.
 
 ### 3-2. Der Höhepunkt von „Vision Creation Newsun“
@@ -119,7 +119,7 @@ Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sic
 ---
 
 ### 3.3 Hintergrund der Psychedelisierung
-- Ais Perspektive wechselt von impulsiver Zerstörung zu „kosmischer Expansion“
+– Ais Perspektive wechselt von impulsiver Zerstörung zu „kosmischer Expansion“
 - Yuka Yoshimura (Yoshimi) spielt eine zentrale Rolle und sorgt für wichtige Entwicklungen in den Bereichen Schlagzeug/Gesang/Elektronik.
 - Erhöhtes Interesse an Minimalismus und sich wiederholenden Strukturen
 
@@ -154,7 +154,7 @@ In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen *
 ### 4.3 Bedeutung der Bohrtrommel
 - Riesige Polyrhythmik-Struktur mit Multiplayer-Schlagzeug
 - Kreisförmiger Veranstaltungsort, der das Publikum anzieht
-- Betonung der visuellen/körperlichen Erfahrung unter der Leitung von Ai
+- Betonung der visuellen/physischen Erfahrung unter der Leitung von Ai
 
 ### Strukturdiagramm der Bohrtrommel
 
@@ -279,7 +279,7 @@ timeline
 Boredoms ist mehr als nur eine Band, man kann sagen, es ist ein „Ort selbst“, der im Laufe der Zeit seine Form verändert.
 Ais philosophische Perspektive, Yoshimis körperlicher Rhythmus und die Einzigartigkeit jedes einzelnen Mitglieds sind eng miteinander verbunden und die Gruppe ist wie ein riesiger lebender Organismus gewachsen.
 
-Wenn Sie einen Blick darauf werfen, einschließlich der persönlichen Geschichte von OIOOO und Eye, breiten sich die Aktivitäten von Boredoms weiterhin wie ein „zentrloser Wirbel“ aus, und ihr Einfluss wird weiterhin auf der ganzen Welt erwähnt.
+Wenn Sie einen Blick darauf werfen, einschließlich der persönlichen Geschichte von OIOOO und Eye, breiten sich die Aktivitäten von Boredoms weiterhin wie ein „zentrloser Wirbel“ aus, und auf ihren Einfluss wird weiterhin auf der ganzen Welt verwiesen.
 
 ---
 

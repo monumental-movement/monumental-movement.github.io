@@ -11,11 +11,11 @@ tags:
 - House
 - Hiphop
 - 90s
-title: Faith Evans Feat. Puff Daddy – Die ganze Nacht lang
+title: Faith Evans Feat. Puff Daddy – All Night Long
 ---
 
 
-Faith Evans, eine US-R&B-Sängerin und Ehefrau von Notorious B.I.G., arbeitete mit Puff Daddy zusammen und veröffentlichte 1999 R&B/House auf dem Label Bad Boy Entertainment.
+USのR&B シンガーであり、Notorious B.I.G. (ノートリアスBIG)の妻だったFaith EvansがPuff Daddyとコラボし、1999年にレーベルBad Boy EntertainmentからリリースされたR&B／House。
 
 #### Trackliste
 ```md

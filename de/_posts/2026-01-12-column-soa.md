@@ -68,7 +68,7 @@ Auch die Gitarren-, Bass- und Schlagzeugmitglieder waren eng mit der New Yorker 
 
 ## Soundfunktionen: Geschwindigkeit und Reduzierung
 
-Die Musik von S.O.A. ist nicht auf Spieltechnik oder Komplexität ausgerichtet. Die meisten Songs dauern etwa eine Minute und es gibt fast keine Einleitungen oder Durchführungselemente. Das Schlagzeug dient eher dazu, den Beat voranzutreiben, als ihn voranzutreiben, und die Gitarre bewegt sich eher an der Grenze zwischen Lärm und Rhythmus als ein Riff.
+Die Musik von S.O.A ist nicht auf Spieltechnik oder Komplexität ausgerichtet. Die meisten Songs dauern etwa eine Minute und es gibt fast keine Einleitungen oder Durchführungselemente. Das Schlagzeug dient eher dazu, den Beat voranzutreiben, als ihn voranzutreiben, und die Gitarre bewegt sich eher an der Grenze zwischen Lärm und Rhythmus als einem Riff.
 
 Diese Musikalität unterscheidet sich von der „Heaviness“ und dem „Groove“ des späteren New Yorker Hardcore und ist den frühen Impulsen des D.C. Hardcore eher ähnlich. Der Sound von S.O.A. hat jedoch eine trockene Spannung, die typisch für das urbane New York ist, und das unmittelbare Ausströmen von Emotionen steht mehr im Vordergrund als die Politik.
 
@@ -78,7 +78,7 @@ Diese Musikalität unterscheidet sich von der „Heaviness“ und dem „Groove�
 
 ## Text und Ausdruckshaltung
 
-Die Texte von S.O.A. sind kurz und direkt und verwenden kaum Metaphern oder Erzählungen. Was hier dargestellt wird, ist ein fragmentiertes Gefühl von Unterdrückung, Wut und Selbstverteidigung. Es schreibt nicht explizit eine bestimmte politische Ideologie oder soziale Bewegung vor, sondern konzentriert sich vielmehr auf reflexive Reaktionen auf die Umstände, in denen sich Einzelpersonen befinden.
+Die Texte von S.O.A. sind kurz und direkt und verwenden kaum Metaphern oder Erzählungen. Was hier dargestellt wird, ist ein fragmentiertes Gefühl von Unterdrückung, Wut und Selbstverteidigung. Es schreibt nicht ausdrücklich eine bestimmte politische Ideologie oder soziale Bewegung vor, sondern konzentriert sich vielmehr auf reflexive Reaktionen auf die Umstände, in denen sich Einzelpersonen befinden.
 
 Diese Haltung unterscheidet sich von späterem Straight Edge und politischem Hardcore. S.O.A existierte in einem Stadium, bevor es seine Ideologie entwickelt hatte, und strahlte unausgesprochene Angst und Gewalt als Klang aus.
 

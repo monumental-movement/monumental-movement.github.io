@@ -12,7 +12,7 @@ title: Charly Lownoise Mental Theo – Jours Merveilleux
 ---
 
 
-Cette chanson est connue comme un classique du happy hardcore néerlandais sorti en 1994. Charly Lownoise et Mental Theo sont un duo de DJ et producteurs néerlandais qui a connu un grand succès dans les scènes Eurodance et happy hardcore des années 1990.
+Cette chanson est connue comme un classique du happy hardcore néerlandais sorti en 1994. Charly Lownoise et Mental Theo sont un duo de DJ et producteurs néerlandais qui a obtenu un grand succès dans les scènes Eurodance et happy hardcore des années 1990.
 
 "Wonderfull Days" est joué dans de nombreux clubs et événements rave, et est apprécié par beaucoup pour sa mélodie entraînante et son énergie positive.
 

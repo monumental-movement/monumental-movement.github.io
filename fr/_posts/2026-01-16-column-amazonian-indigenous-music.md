@@ -24,7 +24,7 @@ Texte : mmr｜Thème : La culture musicale n'est pas un héritage figé, mais a 
 
 Le bassin du fleuve Amazone est l’une des régions les plus diversifiées culturellement au monde. Des centaines de groupes autochtones ont vécu ensemble, chacun avec ses propres langues, mythes et structures sociales. Dans ce contexte, la musique s’est développée non pas comme une forme indépendante de divertissement ou d’art, mais comme un acte indissociable de la vie elle-même.
 
-Des chants sont chantés pour prier pour le succès dans la chasse et l'agriculture, et des danses marquent les cycles saisonniers et les étapes de la croissance. La musique n'est pas quelque chose que l'on écoute, mais quelque chose que l'on fait, et c'est aussi un acte qui confirme son appartenance à une communauté. Le silence est quasiment inexistant dans la forêt amazonienne. Les oiseaux, les insectes, le vent et l’eau émettent tous des sons, et la musique humaine s’inscrit également dans ce continuum.
+Des chants sont chantés pour prier pour le succès dans la chasse et l'agriculture, et des danses marquent les cycles saisonniers et les étapes de la croissance. La musique n'est pas quelque chose qu'on écoute, mais quelque chose qu'on fait, et c'est aussi un acte qui confirme son appartenance à une communauté. Le silence est quasiment inexistant dans la forêt amazonienne. Les oiseaux, les insectes, le vent et l’eau émettent tous des sons, et la musique humaine s’inscrit également dans ce continuum.
 
 > La musique indigène amazonienne existe comme un acte qui efface les frontières entre la nature et les humains.
 
@@ -173,3 +173,10 @@ Tant que les forêts existeront et que les gens y vivront, la musique continuera
 
 ---
 
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dv8e-Wc5GG8?si=TbNAmAsgEJ4zMplE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

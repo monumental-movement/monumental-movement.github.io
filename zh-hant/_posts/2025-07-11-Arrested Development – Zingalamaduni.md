@@ -9,7 +9,7 @@ permalink: /zh-hant/arrested-development-zingalamaduni/
 tags:
 - Hiphop
 - 90s
-title: Arrested Development – Zingalamaduni
+title: 發展受阻——Zingalamaduni
 ---
 
 

@@ -9,14 +9,14 @@ permalink: /zh-hant/yellow-magic-orchestra-x-multiplies-us/
 tags:
 - JPop
 - Techno
-title: Yellow Magic Orchestra – X∞Multiplies
+title: 黃色魔法管弦樂團 – X∞Multiplies
 ---
 
 
-1980年7月にA&Mレコードよりアメリカで発売されたYMOのベストアルバム「
+YMO 的最佳專輯於 1980 年 7 月由 A&M Records 在美國發行。
 黃色魔幻管弦樂團 – 多重」。
 
-日本盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
+日文版本是[這裡](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
 
 
 #### 曲目表

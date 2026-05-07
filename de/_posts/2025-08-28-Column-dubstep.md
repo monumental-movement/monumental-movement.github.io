@@ -26,13 +26,13 @@ Text: mmr｜Thema: Die Geburt und der kulturelle Einfluss von Dubstep
 
 Dubstep wurde Ende der 1990er und Anfang der 2000er Jahre in der Underground-Szene im Süden Londons geboren. Es zeichnet sich durch eine Ästhetik aus, die man als „Bass-Überlegenheit“ bezeichnen kann, während es sich an den Trends von UK Garage, 2-Step, Jungle und Drum'n'Bass orientiert.
 
-London war damals ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
+London war zu dieser Zeit ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
 
 Dubstep, das auf diesem Boden geboren wurde, hat eine einzigartige Entwicklung durchgemacht, die auf schwerem Subbass, dunkler und enger Räumlichkeit und unterteilten Rhythmen basiert.
 
 <hr>
 
-### Klangeigenschaften
+### サウンドの特徴
 
 Dubstep wird durch den physischen Druck von Bassklängen unterstützt, so sehr, dass es sich um „Musik, die man mit dem Körper hört“ handelt.
 
@@ -66,7 +66,7 @@ Ab etwa 2008 verbreitete sich Dubstep über den britischen Untergrund hinaus und
 
 ---
 
-- **Pause in Amerika**: Ein aggressiveres und auffälligeres „Brostep“ ist erschienen, angeführt von Skrillex.
+- **Break in America**: Ein aggressiveres und auffälligeres „Brostep“ ist erschienen, angeführt von Skrillex.
 
 
 - **Remix-Kultur**: Dubstep-Elemente wurden in Pop, Rock und Hip-Hop eingebracht und erreichten so ein breites Publikum.
@@ -77,14 +77,14 @@ Ab etwa 2008 verbreitete sich Dubstep über den britischen Untergrund hinaus und
 
 ### Dubstep in Japan
 
-In den späten 2000er Jahren wurde es in Japan allmählich populär und Goth-Trad erregte weltweite Aufmerksamkeit. Sein Sound hat eine einzigartige Entwicklung durchgemacht, indem er den Kontext von Noise-/Experimentalmusik einbezieht und gleichzeitig eine Verbindung zur Londoner Szene herstellt.
+Ende der 2000er Jahre wurde es in Japan allmählich populär und Goth-Trad erregte weltweite Aufmerksamkeit. Sein Sound hat eine einzigartige Entwicklung durchgemacht, indem er den Kontext von Noise-/experimenteller Musik einbezieht und gleichzeitig eine Verbindung zur Londoner Szene herstellt.
 Durch Veranstaltungen in Clubs in Shibuya und Veröffentlichungen inländischer Labels entstand eine einzigartige japanische Dubstep-Kultur.
 
 <hr>
 
 ### Kultureller Einfluss von Dubstep
 
-- **Eindringen in die EDM-Szene**: Mit der Festivalkultur verbunden und zu einer Präsenz werden, die auf der Hauptbühne mitschwingt.
+- **Eindringung in die EDM-Szene**: Verbunden mit der Festivalkultur und Entwicklung einer Präsenz, die auf der Hauptbühne mitschwingt.
 
 - **Neubewertung der Bassmusik**: Hat die Entwicklung nachfolgender Genres wie Trap und Future Bass maßgeblich beeinflusst.
 

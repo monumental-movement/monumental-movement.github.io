@@ -84,7 +84,7 @@ Points recommandés : Un chef-d'œuvre qui condense le son futuriste et cool de 
 
 Caractéristiques : Structure de piste minimale avec des lignes de synthétiseur et un rythme simples. Il se caractérise par son travail de synthé spatial et flottant et son rythme cool et mécanique.
 
-Point recommandé : Une chanson qui vous fait revivre les origines de la techno de Détroit. Si vous l'installez tôt dans un DJ set, vous pouvez créer une « sensation cosmique à la Détroit » sur le sol. Facile à écouter même pour les débutants, parfait pour comprendre la vision du monde du Modèle 500.
+Point recommandé : Une chanson qui vous fait revivre les origines de la techno de Détroit. En l'ajoutant au début d'un DJ set, vous pouvez créer une « sensation cosmique à la Détroit » sur le sol. Facile à écouter même pour les débutants, parfait pour comprendre la vision du monde du Modèle 500.
 
 #### Liste des chansons
 ```md

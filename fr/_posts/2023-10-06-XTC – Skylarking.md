@@ -13,11 +13,11 @@ title: XTC – Skylarking
 ---
 
 
-"Skylarking" est l'album le plus acclamé de XTC et est largement reconnu comme leur chef-d'œuvre. L'album est un style musical qui combine habilement des éléments de pop, de rock, de folk et de rock progressif, et se caractérise par des mélodies sophistiquées et des paroles profondes.
+「Skylarking」は、XTCのアルバムの中でも最も評価され、彼らの代表作として広く認知されています。アルバムはポップ、ロック、フォーク、プログレッシブ・ロックの要素を巧みに組み合わせた音楽スタイルであり、洗練されたメロディと深い歌詞が特徴です。
 
-L'album comprend les chansons à succès « Dear God », « Grass » et « The Meeting Place ». Ces chansons ont fait une forte impression sur le public, mettant en valeur le son unique et les paroles vivantes de XTC.
+アルバムにはヒット曲となった「Dear God」や「Grass」そして「The Meeting Place」などが収録されています。これらの曲は、XTCの独自のサウンドとリリックの鮮やかさが際立ち、聴衆に強い印象を与えました。
 
-L'album dans son ensemble a un sentiment d'unité et est une œuvre avec un concept. Divers thèmes tels que la religion, la nature et les relations humaines sont explorés et vous pouvez en ressentir le sens et la pensée profonde.
+アルバム全体としても統一感があり、コンセプトを持った作品となっています。宗教、自然、人間の関係など、さまざまなテーマが探求されており、その深い意味と思索を感じることができます。
 
 #### Liste des chansons
 ```md

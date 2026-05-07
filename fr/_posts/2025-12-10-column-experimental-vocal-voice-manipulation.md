@@ -21,7 +21,7 @@ title: '[Chronique] Vocal Expérimental / Manipulation Vocale — Histoire et te
 
 Texte : mmr｜Thème : Des voix expérimentales qui traitent, génèrent et réorganisent la voix en tant que matériau/histoire, techniques, représentants et tendances contemporaines de la manipulation vocale
 
-Au 21e siècle, la voix chantée est passée du simple fait de transmettre une mélodie à un matériau acoustique modifiable. Avec la disponibilité d’outils tels que la technologie d’enregistrement/édition, les effets, l’échantillonnage, le traitement en temps réel et la technologie de génération, la voix a acquis un rôle diversifié en tant qu’instrument, texture, description spatiale et même ressource de données. Des artistes comme Bjork et Imogen Heap, qui utilisent leur propre voix comme matériau principal pour leurs expériences, et les expressions créées par des avancées technologiques telles que la synthèse granulaire et la resynthèse basée sur l'IA ont considérablement élargi les possibilités de la voix.
+Au 21e siècle, la voix chantée est passée du simple fait de transmettre des mélodies à un matériau acoustique modifiable. Avec la disponibilité d’outils tels que la technologie d’enregistrement/édition, les effets, l’échantillonnage, le traitement en temps réel et la technologie de génération, la voix a acquis un rôle diversifié en tant qu’instrument, texture, description spatiale et même ressource de données. Des artistes comme Bjork et Imogen Heap, qui utilisent leur propre voix comme matériau principal pour leurs expériences, et les expressions créées par des avancées technologiques telles que la synthèse granulaire et la resynthèse basée sur l'IA, ont considérablement élargi les possibilités de la voix.
 
 ---
 
@@ -75,7 +75,7 @@ Björk a clairement montré une approche de production qui traite la voix comme 
 
 ### 3-2. Imogen Heap — Contrôle et physicalité en temps réel
 
-Imogen Heap a démontré que la voix peut être jouée de manière instrumentale via une expression en direct à l'aide d'un contrôle d'effets, de gestes et de contrôleurs en temps réel. En utilisant un harmoniseur et un traitement du signal qu'il a lui-même fabriqué pour manipuler la texture et les harmoniques de la voix lors d'une performance, il a visualisé l'immédiateté et la transformabilité de la voix.
+Imogen Heap a démontré que la voix peut être jouée de manière instrumentale via une expression en direct à l'aide d'un contrôle d'effets, de gestes et de contrôleurs en temps réel. À l'aide d'un harmoniseur et d'un traitement du signal qu'il a lui-même créé, il a visualisé l'immédiateté et la transformabilité de la voix en manipulant la texture et les harmoniques de la voix pendant la performance.
 
 ---
 
@@ -106,7 +106,7 @@ L'ajout de caractéristiques d'écho, le panoramique et la manipulation de la pe
 
 ###4-6. Traitement du bruit et non linéaire
 
-La distorsion, la mise en forme de la forme d'onde et le traitement du feedback amplifient la dureté et l'agressivité de la voix, lui donnant une sensation de substance que l'on ne retrouve pas dans les voix chantées traditionnelles.
+La distorsion, la forme d'onde et le traitement du feedback amplifient la dureté et l'agressivité de la voix, lui donnant une sensation de substance que l'on ne trouve pas dans les voix chantées traditionnelles.
 
 ---
 
@@ -120,7 +120,7 @@ La voix reflète les caractéristiques physiques d'un individu, mais elle est fa
 
 ### 5-2. Éthique de la performance et technologie de génération
 
-Reproduire des voix et imiter la voix des autres grâce à l’IA soulève des questions éthiques. Les questions de consentement et d’attribution, telles que la question de savoir qui utilise la voix et comment elle est utilisée, doivent être discutées parallèlement au développement de la technologie expressive.
+Reproduire des voix et imiter la voix des autres grâce à l’IA soulève des questions éthiques. Les questions de consentement et d’attribution, telles que celle de savoir qui utilise la voix et comment elle est utilisée, doivent être discutées parallèlement au développement de la technologie expressive.
 
 ---
 

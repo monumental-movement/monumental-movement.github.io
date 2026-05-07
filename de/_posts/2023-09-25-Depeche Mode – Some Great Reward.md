@@ -9,15 +9,15 @@ permalink: /de/depeche-mode-some-great-reward/
 tags:
 - New-Wave
 - Post Punk
-title: Depeche Mode – Eine tolle Belohnung
+title: Depeche Mode – Some Great Reward
 ---
 
 
-„Some Great Reward“ ist ein Album von Depeche Mode aus dem Jahr 1984 und ihr viertes Studioalbum. Dieses Album ist eines der wegweisenden Werke in der Karriere der Band und zeigt die Entwicklung und Reifung ihres Sounds.
+「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。
 
-Das Album enthält die berühmtesten Songs von Depeche Mode, darunter „People Are People“ und „Master and Servant“, die als Singles veröffentlicht wurden.
+アルバムには、シングルとしてリリースされた「People Are People」や「Master and Servant」などデペッシュ・モードの代表的な楽曲が収録されています。
 
-Some Great Reward war ein wichtiger Meilenstein in der Karriere von Depeche Mode und markierte die Entwicklung ihres Musikstils und ihrer Themen. Der Sound enthält Elemente von Post-Punk, New Wave und elektronischer Musik sowie Texte, die sich mit sozialen Themen zum Zeitpunkt der Veröffentlichung befassen.
+「Some Great Reward」はデペッシュ・モードの音楽スタイルやテーマの進化を示すアルバムであり、彼らのキャリアの中でも重要な節目となりました。ポストパンク、ニューウェイブ、エレクトロニックミュージックの要素を取り入れたサウンドと、リリース当時の社会的な問題をテーマにした歌詞が特徴です。
 
 #### Trackliste
 ```md

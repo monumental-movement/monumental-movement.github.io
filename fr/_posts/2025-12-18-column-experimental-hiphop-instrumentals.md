@@ -20,7 +20,7 @@ title: '[Chronique] Instrumentaux Hip Hop Expérimentaux'
 
 Texte : mmr｜Thème : L'histoire de l'établissement de la musique instrumentale hip-hop expérimentale, le processus de production, les techniques d'échantillonnage, la structure sonore et les pratiques de production de Knxwledge et Madlib.
 
-Le hip-hop est essentiellement une culture dans laquelle l'expression verbale du MC et la structure répétitive du rythme se complètent. Cependant, depuis les années 1990, alors que les œuvres instrumentales sans rap commençaient à circuler de manière indépendante, les rythmes sont apparus au premier plan comme thème plutôt que comme accompagnement. En particulier dans les instruments expérimentaux, il n’est pas nécessaire d’avoir une structure de battement homogène ou une conception de développement pour le rap, et le temps, la texture et la fragmentation deviennent les principales cibles de conception.
+Le hip-hop est essentiellement une culture dans laquelle l'expression verbale du MC et la structure répétitive du rythme se complètent. Cependant, depuis les années 1990, alors que les œuvres instrumentales sans rap commençaient à circuler de manière indépendante, les rythmes sont apparus au premier plan comme thème plutôt que comme accompagnement. En particulier dans les instruments expérimentaux, il n’est pas nécessaire d’avoir une structure de rythme ou une conception de développement homogène pour le rap, et le temps, la texture et la fragmentation deviennent les principales cibles de conception.
 
 > "L'absence d'emballage n'est pas une omission, mais une expansion de la liberté de conception."
 
@@ -74,7 +74,7 @@ Dans la production hip-hop traditionnelle, les boucles de deux à huit mesures c
 
 ---
 
-La production de Madlib se caractérise par une méthode d'improvisation centrée autour de samplers matériels. Lors de la production à l'aide de la série SP, la manipulation physique prime sur l'édition visuelle, laissant intacts les décalages et les fluctuations des échantillons dans la musique.
+La production de Madlib se caractérise par une méthode d'improvisation centrée autour de sampleurs matériels. Lors de la production à l'aide de la série SP, la manipulation physique prime sur l'édition visuelle, laissant intacts les décalages et les fluctuations des échantillons dans la musique.
 
 * Les échantillons sont sélectionnés dans le but de préserver le son original.
 * Pas de quantification stricte
@@ -142,7 +142,7 @@ La structure, dans laquelle de nombreuses pièces courtes sont disposées succes
 
 ---
 
-## Chronologie : instrumentaux expérimentaux de hip-hop
+## Chronologie : Instrumentaux expérimentaux de hip-hop
 
 * Années 1990 : Distribution indépendante d'œuvres instrumentales
 * Années 2000 : Augmentation du nombre de collections de rythmes basées sur des échantillonneurs
@@ -153,7 +153,7 @@ La structure, dans laquelle de nombreuses pièces courtes sont disposées succes
 
 ## Intersection avec d'autres genres
 
-L'instrument expérimental s'identifie au hip-hop par la présence d'un rythme, tout en se connectant à l'ambiance, au bruit et à l'improvisation jazz.
+L'instrumental expérimental s'identifie au hip-hop par la présence d'un rythme, tout en se connectant à l'improvisation ambiante, noise et jazz.
 
 ---
 

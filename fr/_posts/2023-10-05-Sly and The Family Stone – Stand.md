@@ -9,23 +9,23 @@ permalink: /fr/sly-and-the-family-stone-stand/
 tags:
 - Funk
 - Soul
-title: Sly & The Family Stone – Support
+title: Sly & The Family Stone – Stand
 ---
 
 
-"Rester!" est le quatrième album studio de Sly & the Family Stone et l'une de leurs œuvres les plus réussies.
+「Stand!」は、スライ＆ザ・ファミリー・ストーンの4枚目のスタジオアルバムであり、彼らの最も成功した作品の一つです。
 
-L'album a attiré l'attention pour son style musical, qui fusionne divers genres tels que le funk, la soul, le rock et la pop.
+アルバムは、ファンク、ソウル、ロック、ポップなど、様々なジャンルを融合させた音楽スタイルで注目を集めました。
 
-L'album contient de nombreuses chansons à succès, notamment "Everyday People", "Stand!" et "Je veux t'emmener plus haut".
+アルバムには多くのヒット曲が含まれており、「Everyday People」や「Stand!」、「I Want to Take You Higher」などが特に有名です。
 
-Ces chansons parlent d'intégration sociale et de désir de paix, et contiennent des messages positifs et des mélodies entraînantes.
+これらの曲は、社会的な統合と平和への願いをテーマにしており、ポジティブなメッセージとキャッチーなメロディが特徴です。
 
-"Rester!" reflète l'innovation musicale de Sly & the Family Stone et l'importance sociale de son époque.
+ 「Stand!」は、スライ＆ザ・ファミリー・ストーンの音楽的な革新性とその時代における社会的な意義を反映した作品です。
 
-L'album est devenu emblématique de l'évolution de la musique funk et de son influence sur la culture pop.
+ アルバムは、ファンクミュージックの進化とポップカルチャーへの影響を象徴するものとなりました。
 
-L'approche expérimentale et le message positif de Sly & the Family Stone ont influencé d'innombrables musiciens et publics, les positionnant comme des artistes intemporels.
+ スライ＆ザ・ファミリー・ストーンの実験的なアプローチと積極的なメッセージは、多くのミュージシャンや聴衆に影響を与え、彼らを永遠のアーティストとして位置付けています。
 
 #### Liste des chansons
 ```md

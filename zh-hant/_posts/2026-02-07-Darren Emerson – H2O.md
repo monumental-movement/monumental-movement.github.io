@@ -19,7 +19,7 @@ title: 達倫艾默生 – H2O
 
 達倫艾默生 (Darren Emerson) 是一位英國 DJ/製作人/音樂家。 1991年至2000年，他是英國電子音樂團體Underworld的成員。離開樂團後，他在世界各地進行現場表演，並經營英國 House/Tech-House 廠牌 Underwater Records。
 
-「H2O」是來自專輯 Underwater Episode 1 (2002) 的單曲，由 Darren Emerson 和 Tim Deluxe 混音。一首 Progressive House/House 曲目在 Darren Emerson 自己的廠牌 Underwater Records 上發行。
+「H2O」是來自專輯 Underwater Episode 1 (2002) 的單曲，由 Darren Emerson 和 Tim Deluxe 混音。由 Darren Emerson 自己的廠牌 Underwater Records 發行的 Progressive House/House 曲目。
 
 #### 曲目表
 ```md

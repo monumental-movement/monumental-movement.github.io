@@ -9,7 +9,7 @@ permalink: /zh-hant/ken-ishii-innerelements/
 tags:
 - Techno
 - Ambient
-title: Ken Ishii – Innerelements
+title: 石井健 – 《Innerelements》
 ---
 
 

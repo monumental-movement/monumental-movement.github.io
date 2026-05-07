@@ -12,7 +12,7 @@ tags:
 - Breaks
 - Electro
 - 00s
-title: 代德羅斯——讓它如此
+title: Daedelus – Make It So
 ---
 
 
@@ -20,8 +20,8 @@ title: 代德羅斯——讓它如此
 
 Side A 上的第一首歌是 Spank Rock 前成員 XXXchange 的混音版。
 
-B面第一首歌是電子樂老牌DJ Moonstarr。
-混音者
+B面１曲目は、エレクトロニックミュージック界のベテランDJ Moonstarr
+によるremix。
 
 B 面的第二首歌是 Samiyam 的混音版，Samiyam 是一位居住在洛杉磯的美國嘻哈製作人，同時也是 Flying Lotus 的製作二人組 FLYamSAM。
 

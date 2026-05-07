@@ -29,7 +29,7 @@ Text: mmr｜Thema: Die Ästhetik des deutschen Techno, verwoben von Wiederholung
 
 <hr>
 
-### Historischer Hintergrund: Der Fall der Berliner Mauer und die Explosion des Techno
+### Historischer Hintergrund: der Fall der Berliner Mauer und die Explosion des Techno
 
 Der Fall der Berliner Mauer im Jahr 1989 war ein Wendepunkt in der Entwicklung des Techno in Deutschland. Mit der Verschmelzung östlicher und westlicher Kulturen nahmen Partys, die verlassene Gebäude und Lagerhäuser nutzten, rasch zu, und Berlin wurde zu einem Techno-Mekka, das den „Klang der Freiheit“ symbolisierte.
 
@@ -145,7 +145,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 #### 2010er (ins Zentrum der globalen Szene)
 
-**Hintergrund**: Hinter den Kulissen des EDM-Booms gewinnt Techno als Symbol des Undergrounds immer mehr an Präsenz.
+**Hintergrund**: Hinter dem EDM-Boom ist Techno zum Symbol des Undergrounds geworden.
 
 **Soundfunktionen**:
 
@@ -171,11 +171,11 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Melodischer Techno ist auf Festivals und beim Streaming beliebt (Typ Tale Of Us)
 
-- Beliebt sind auch Neuinterpretationen von Hard Trance und 90er-Jahre-Sounds.
+- Beliebt sind auch Neuinterpretationen von Hard-Trance- und 90er-Jahre-Sounds.
 
-**Trend**: Während er die Kälte geerbt hat, die für den „deutschen Techno“ der Vergangenheit typisch ist, hat er sich durch die Hinzufügung von emotionalem Ausdruck und visueller Produktion weiterentwickelt.
+**Trend**: Während er die für den „deutschen Techno“ der Vergangenheit typische Kälte geerbt hat, hat er sich durch die Hinzufügung von emotionalem Ausdruck und visueller Produktion weiterentwickelt.
 
-Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industriell und kalt → Minimalisierung → Verhärtung → Melodisierung → Reindustrialisierung“**.
+Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industrie und Kälte → Minimalisierung → Härte → Melodisierung → Reindustrialisierung“**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

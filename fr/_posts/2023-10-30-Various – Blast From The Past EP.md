@@ -10,11 +10,11 @@ tags:
 - House
 - Deep House
 - Jazz
-title: Divers – Blast From The Past EP
+title: Various – Blast From The Past EP
 ---
 
 
-La face B est un remix Bootleg de « Rockitt » de Herbie Hancock par le DJ et producteur canadien tech house/deep house Jay Tripwire.
+B面は、カナダのテックハウス/ディープハウスのDJ兼プロデューサーJay Tripwire(ジェイ・トリップワイヤー)が、Herbie Hancock(ハービー・ハンコック)「Rockitt」をBootleg remix。
 
 #### Liste des chansons
 ```md

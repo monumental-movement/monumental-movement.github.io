@@ -39,7 +39,7 @@ color: #fff;
 
 ### Architecture de Bossa Nova et Brasilia —— Modernisme dans les villes et la musique
 
-En 1956, la ville futuriste de Brasilia a été construite dans le cadre d'un plan de relocalisation de la capitale brésilienne. La structure en béton tout en courbes et audacieuse de l'architecte Oscar Niemeyer a montré au monde une nouvelle image du Brésil. Par coïncidence, à cette époque, João Gilberto a changé l'histoire de la musique avec « Chega de Saudade » et Antonio Carlos Jobim a connu un succès international avec « La Fille d'Ipanema ».
+En 1956, la ville futuriste de Brasilia a été construite dans le cadre d'un plan de relocalisation de la capitale brésilienne. La structure en béton courbée et audacieuse de l'architecte Oscar Niemeyer a montré au monde une nouvelle image du Brésil. Par coïncidence, à cette époque, João Gilberto a changé l'histoire de la musique avec « Chega de Saudade » et Antonio Carlos Jobim a connu un succès international avec « La Fille d'Ipanema ».
 
 Ce que l’architecture et la musique ont en commun, c’est le minimalisme et la sophistication. Tout comme Niemeyer a dépouillé les décorations des bâtiments et a représenté l'avenir avec des courbes et des lignes droites, la Bossa Nova a également exprimé la « tranquillité urbaine » avec des arpèges de guitare et des voix chuchotées. Tous deux étaient des symboles du modernisme culturel qui promouvait un « nouveau Brésil » et tous deux jouaient un rôle diplomatique dans les échanges culturels internationaux pendant la guerre froide.
 
@@ -61,11 +61,11 @@ Dans les années 1960, les plages d'Ipanema et de Copacabana à Rio étaient l'�
 
 Heloisa Pinheiro, le mannequin de « La Fille d'Ipanema », marchait le long de la plage et était un parfait exemple de la fusion de la mode et de la musique. Les costumes de scène de Sergio Mendes et les tenues urbaines simples vues lors des spectacles de bossa nova aux États-Unis ont contribué à créer une image de « Brésil cool » sur le marché international.
 
-Ce qui est encore plus intéressant, c'est que la diffusion de la bossa nova était en phase avec les tendances de la mode mondiale des années 1960, comme la mode mod et minimale. Avec leurs mélodies sophistiquées et leurs costumes simples, tous deux partageaient une « esthétique épurée ».
+Ce qui est encore plus intéressant, c'est que la diffusion de la bossa nova était en phase avec les tendances de la mode mondiale des années 1960, comme la mode mod et minimale. Avec leurs mélodies sophistiquées et leurs costumes simples, ils partageaient tous deux une « esthétique épurée ».
 
 ---
 
-### Conclusion —— La Bossa Nova est un carrefour de cultures
+### Conclusion —— La Bossa Nova est un carrefour culturel
 
 En regardant les choses de cette façon, nous pouvons voir que la bossa nova n'était pas seulement un genre musical, mais un phénomène culturel global qui symbolisait le Brésil moderne, se croisant avec l'architecture, la technologie et la mode.
 

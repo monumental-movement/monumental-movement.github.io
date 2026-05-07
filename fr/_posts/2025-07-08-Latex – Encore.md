@@ -18,7 +18,7 @@ Michael Borrmann, également connu sous le nom de Latex, est un producteur allem
 
 "Encore" est un morceau Electro, Tech House sorti en 2001 par le label techno et électro berlinois de Frank Müller, Müller Records.
 
-Le mastering a été réalisé par l'ingénieur Christoph Grote-Beverborg de Dubplates & Mastering, alias CGB.
+Le mastering a été réalisé par l'ingénieur Christoph Grote-Beverborg, également connu sous le nom de CGB, de Dubplates & Mastering.
 
 #### Liste des chansons
 ```md

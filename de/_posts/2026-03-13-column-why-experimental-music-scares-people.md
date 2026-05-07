@@ -35,7 +35,7 @@ Es gibt keine Melodie.
 Der Rhythmus ist gestört.
 Der Ton klingt wie Lärm.
 
-Dabei handelte es sich nicht nur um Neuheiten, sondern um wichtige Ideen, die innerhalb der künstlerischen Bewegungen des 20. Jahrhunderts entstanden.
+Dabei handelte es sich nicht nur um Neuheiten, sondern um wichtige Ideen, die innerhalb der künstlerischen Strömungen des 20. Jahrhunderts entstanden.
 
 Künstler begannen, Fragen zu stellen.
 
@@ -98,7 +98,7 @@ Diese Idee hatte jedoch großen Einfluss auf die spätere Musikgeschichte.
 Lärm ist nicht der Feind der Musik.
 Es war ein neues Material.
 
-### Versuch, die Struktur der Musik zu durchbrechen
+### Ein Versuch, die Struktur der Musik zu durchbrechen
 
 Mitte des 20. Jahrhunderts versuchten Komponisten noch radikalere Methoden.
 
@@ -310,7 +310,7 @@ Es ist ganz natürlich, Angst vor experimenteller Musik zu haben.
 
 Das Unbekannte macht den Menschen Angst.
 
-Doch gleichzeitig ist das Unbekannte auch die Quelle der Schöpfung.
+Gleichzeitig ist das Unbekannte aber auch die Quelle der Schöpfung.
 
 Kunst ist schon immer zwischen Angst und Neugier entstanden.
 

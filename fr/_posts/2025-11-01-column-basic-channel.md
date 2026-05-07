@@ -84,7 +84,7 @@ C'était juste un **changement climatique sonore**.
 
 ---
 
-## Chapitre 3 : Réinventer le Dub - De la Jamaïque à Berlin
+## Chapitre 3 : Réinventer le dub - De la Jamaïque à Berlin
 
 Ce que Basic Channel citait, c'était l'idée du **dub jamaïcain** des années 70.
 Les sculptures réverbérantes de King Tubby et Lee « Scratch » Perry ont été recréées selon un processus numérique.
@@ -128,7 +128,7 @@ C'était une « spiritualité anonyme » et une **prière post-humaine** qui all
 
 ---
 
-## Chapitre 6 : La philosophie du sound system et le Berghain et au-delà
+## Chapitre 6 : Philosophie du sound system et Berghain et au-delà
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/691Bw3f2NNg?si=AmVEYFoIGmCr0syV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -193,7 +193,7 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 | **1999** | A lancé Rhythm & Sound, a commencé à collaborer avec des chanteurs jamaïcains |
 | **2003** | Sortie de « Rythme et son avec les artistes » |
 | **2010** | Moritz von Oswald Trio a commencé (avec Max Loderbauer et Tony Allen) |
-| **Années 2020** | Vague de remise en question, renaissance de la Dub Techno, se propageant principalement sur Bandcamp |
+| **Années 2020** | Vague de remise en question, revival de la Dub Techno, se propageant principalement sur Bandcamp |
 
 ---
 
@@ -209,7 +209,7 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 ---
 
 Le son de Basic Channel est intemporel et reste toujours au « présent ».
-La raison en est qu'ils n'ont pas seulement créé de la techno, ils ont reconstruit l'acte même d'écouter.
+La raison en est qu’ils n’ont pas seulement créé de la techno, ils ont reconstruit l’acte même d’écouter.
 
 L'écho ne s'arrête jamais.
 C'est un parfum persistant du temps et un tunnel qui mène l'auditeur vers l'extérieur de l'espace.

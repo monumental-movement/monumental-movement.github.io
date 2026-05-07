@@ -13,7 +13,7 @@ title: Echtes Leben – Schick mir einen Engel '89
 ---
 
 
-„Send Me An Angel '89“ ist ein Lied der australischen Synthpop-Band Real Life. Das Original „Send Me An Angel“ war ihr Signature-Song aus dem Jahr 1983, es ist aber auch als Remix-Version aus dem Jahr 1989 bekannt.
+„Send Me An Angel '89“ ist ein Lied der australischen Synthpop-Band Real Life. Das Original „Send Me An Angel“ war ihr Signature-Song aus dem Jahr 1983, es ist aber auch als 1989 veröffentlichte Remix-Version bekannt.
 
 „Send Me An Angel '89“ hat im Vergleich zum Originalsong einen aktualisierten Rhythmus und ein aktualisiertes Arrangement, was ihm einen Dance-Pop-Sound verleiht. Der Song verfügt über eine Synthesizer-Melodie und einen elektrischen Beat, wobei melodische Vocals von einer großartigen Klanglandschaft begleitet werden.
 

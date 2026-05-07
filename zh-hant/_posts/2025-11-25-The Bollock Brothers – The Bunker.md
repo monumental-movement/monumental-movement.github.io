@@ -11,7 +11,7 @@ tags:
 - Synth-pop
 - Rock
 - 80s
-title: 博洛克兄弟 – 地堡（摘自即將上映的電影）
+title: The Bollock Brothers – The Bunker (From The Forthcoming Film)
 ---
 
 

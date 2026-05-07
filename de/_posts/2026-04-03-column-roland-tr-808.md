@@ -23,7 +23,7 @@ title: '[Kolumne] TR-808: Es waren nicht Maschinen, die die Musik veränderten, 
 Text: mmr｜Thema: Ist Rhythmus eine menschliche oder eine maschinelle Sache? Die Geschichte des TR-808, der die Grenzen sprengte
 
 
-1980 brachte Roland eine Rhythmusmaschine auf den Markt, die die Musikgeschichte neu schreiben sollte. TR-808 Rhythmuskomponist. Die Maschine, die heute einfach als 808 bekannt ist, war bei ihrem Erscheinen kein erfolgreiches Produkt.
+1980 brachte Roland eine Rhythmusmaschine auf den Markt, die die Musikgeschichte neu schreiben sollte. TR-808 Rhythmuskomponist. Die Maschine, die heute einfach als 808 bekannt ist, war bei ihrem ersten Erscheinen kein erfolgreiches Produkt.
 
 Auf dem damaligen Markt lag der Schwerpunkt stark auf der Reproduktion realistischerer Schlagzeugklänge. Während Sample-basierte Drum-Machines wie Lindrum nach „Authentizität“ streben, hat sich der TR-808 bewusst für einen künstlichen Klang mittels analoger Schaltung entschieden. Infolgedessen wurde der resultierende Sound als „unrealistisch“ beurteilt und vom Markt distanziert.
 
@@ -57,11 +57,11 @@ Der Klang des TR-808 wird durch analoge Schaltkreise und nicht durch Samples erz
 
 Dies war eine Design-„Einschränkung“ und auch eine „Instabilität“.
 
-Insbesondere der Bassdrum-Sound wird durch eine Oszillatorschaltung vom Brücken-T-Typ erzeugt. Diese Schaltung erzeugt eine abklingende Sinuswelle, wodurch der charakteristische „Bong“-Bassklang entsteht. Durch Anpassen der Länge dieses Abklingens entsteht ein Subbass-ähnlicher Klang.
+Insbesondere der Bassdrum-Sound wird durch eine Oszillatorschaltung vom Brücken-T-Typ erzeugt. Diese Schaltung erzeugt eine abklingende Sinuswelle und erzeugt so den unverwechselbaren Bassboom. Durch Anpassen der Länge dieses Abklingens entsteht ein Subbass-ähnlicher Klang.
 
 Dadurch wurde der TR-808 mehr als nur ein Drumcomputer, er fungierte als „Bassinstrument“.
 
-Noch wichtiger sind individuelle Unterschiede. Selbst mit dem gleichen TR-808 ist der Klang etwas anders. Dies ist auf Variationen der bei der Herstellung verwendeten Teile zurückzuführen und eine Eigenschaft, die mit modernen digitalen Geräten nur schwer zu reproduzieren ist.
+Noch wichtiger sind individuelle Unterschiede. Selbst mit dem gleichen TR-808 ist der Klang etwas anders. Dies ist auf Abweichungen bei den bei der Herstellung verwendeten Teilen zurückzuführen und eine Eigenschaft, die mit modernen digitalen Geräten nur schwer zu reproduzieren ist.
 
 Die Tatsache, dass der Klang nicht perfekt reproduziert wird, bedeutet, dass jede Aufführung etwas anders sein wird. Dadurch entsteht eine Schwankung ähnlich der einer menschlichen Leistung.
 
@@ -81,7 +81,7 @@ Selbst in Umgebungen, in denen Sie sich kein Live-Schlagzeug leisten können, k�
 
 „Planet Rock“, veröffentlicht im Jahr 1982, ist ein repräsentativer Song, der der Welt das Potenzial des TR-808 zeigte. Der Beat, der mechanisch war, aber dennoch einen Groove hatte, präsentierte ein neues Rhythmusgefühl, das sich deutlich vom vorherigen Funk und Disco unterschied.
 
-Darüber hinaus fungiert der Kick des 808 weiterhin als „Hauptbass“ in allen Bereichen, von Miami-Bass über Elektro bis hin zu Trap.
+Darüber hinaus fungiert der Kick des 808 weiterhin als „Hauptbass“ in allen Bereichen, vom Miami-Bass über Elektro bis hin zum späteren Trap.
 
 Wichtig ist, dass der 808 nicht nur eine Alternative war. Es war ein „Werkzeug“ zum Schaffen neuer Musik.
 
@@ -103,7 +103,7 @@ Es fungierte als „Stimme der Straße“ im Hip-Hop, als „Sound der Zukunft�
 
 TR-808 hat keine feste Bedeutung. Seine Bedeutung ändert sich je nach Benutzer und Umgebung.
 
-> Derselbe Klang begann je nach Kultur unterschiedliche Geschichten zu erzählen
+> Derselbe Ton begann je nach Kultur unterschiedliche Geschichten zu erzählen
 
 ---
 
@@ -150,7 +150,7 @@ flowchart LR
 
 Dieser als „früher 808-Klassiker“ bekannte Song ist eine Fusion aus Hip-Hop und Elektro. Der tiefe Bass der Kick, der trockene Klang der Snare und der sequenzierte Rhythmus sind alle einzigartig für die 808.
 
-Als Anekdote sagte Afrika Bambaataa zum Zeitpunkt der Produktion: „Ich war auf der Suche nach einem Klang, den Menschenhand nicht erzeugen konnte.“ Die Präzision der Aufnahme und die Fluktuation des Analogen wurden hervorragend gemixt, was der Musik ein futuristisches, urbanes Flair verlieh.
+Als Anekdote sagte Afrika Bambaataa zum Zeitpunkt der Produktion: „Ich war auf der Suche nach einem Klang, den Menschenhand nicht erzeugen konnte.“ Die Präzision der Aufnahme und die Fluktuation des Analogen wurden hervorragend gemixt, was der Musik ein futuristisches urbanes Flair verlieh.
 
 ---
 
@@ -190,7 +190,7 @@ Während der Produktion sagte Produzent Narada Michael Walden: „Ohne den 808 h
 
 In den frühen 90er Jahren wandte Autechre 808-Percussion auf elektronische Ambient-Musik an. Nutzen Sie den Bass-Kick und den nachklingenden Snare-Sound als Textur und nicht nur als Rhythmus.
 
-Als Anekdote: Sie haben die „unvollkommene Fluktuation“ des 808 aktiv einbezogen und den Klang absichtlich gestört, um ein Gefühl räumlicher Weite zu erzeugen. Dies führte direkt zum charakteristischen Sound der späteren IDM (Intelligent Dance Music).
+Als Anekdote: Sie haben die „unvollkommene Fluktuation“ des 808 aktiv integriert und den Klang absichtlich gestört, um ein Gefühl räumlicher Weite zu erzeugen. Dies führte direkt zum charakteristischen Sound der späteren IDM (Intelligent Dance Music).
 
 ---
 
@@ -224,7 +224,7 @@ Als Produktionsepisode haben wir den 808-Kick mit einem Sequenzer verfeinert und
 
 ---
 
-Wenn man sich diese Meisterwerke ansieht, erkennt man, dass die 808 mehr als nur eine „Drum Machine“ ist; Es hat eine zentrale Rolle im musikalischen Ausdruck gespielt, Genres und Epochen überschreitend. Hip Hop, Techno, R&B, Pop und Trap. Der Einfluss des 808 ist tief im Herzen jedes Rhythmus verankert.
+Wenn man sich diese Meisterwerke ansieht, erkennt man, dass die 808 mehr als nur eine „Drum Machine“ ist; Es hat eine zentrale Rolle im musikalischen Ausdruck gespielt und Genres und Epochen überschritten. Hip Hop, Techno, R&B, Pop und Trap. Der Einfluss des 808 ist tief im Herzen jedes Rhythmus verankert.
 
 > Die Geschichte der Musik wird weiterhin im Takt von 808 geschrieben
 
@@ -233,13 +233,13 @@ Wenn man sich diese Meisterwerke ansieht, erkennt man, dass die 808 mehr als nur
 
 ## Warum wird 808 immer noch verwendet?
 
-Heutzutage wird der Klang des TR-808 auch in Software reproduziert. Das Wort „808“ fungiert jedoch immer noch als eine Art musikalisches Konzept und nicht nur als Gerät.
+Heutzutage wird der Klang des TR-808 auch in Software reproduziert. Allerdings fungiert das Wort „808“ immer noch als eine Art musikalisches Konzept und nicht nur als Gerät.
 
-Vor allem im Hip-Hop wird die 808-Kick als Basslinie selbst behandelt. Er kreiert Melodien, indem er die Tonhöhe verändert und so die Grenzen zwischen Rhythmus und Harmonie verwischt.
+Besonders im Hip-Hop wird die 808-Kick als Bassline selbst behandelt. Er kreiert Melodien, indem er die Tonhöhe verändert und so die Grenzen zwischen Rhythmus und Harmonie verwischt.
 
 Dies ist eine Idee, die es in der konventionellen Musiktheorie nicht gab.
 
-Und in der modernen Produktion werden 808-Sounds verarbeitet, verzerrt, gedehnt und geschichtet. Dennoch geht die „808-ness“ nicht verloren.
+Und in der modernen Produktion werden 808-Sounds verarbeitet, verzerrt, gedehnt und geschichtet. Trotzdem geht die „808-ness“ nicht verloren.
 
 Dies liegt daran, dass es sich nicht nur um einen Ton handelt, sondern um einen Standard dafür, „wie der Bass sein sollte“.
 

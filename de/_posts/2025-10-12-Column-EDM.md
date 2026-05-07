@@ -114,14 +114,14 @@ In den späten 2010er Jahren wurde EDM zu einem Meme.
 Der Drop wird auf TikTok geschnitten und der Rhythmus geht viral wie ein GIF.
 Der „Closer“ der Chainsmokers ist ein Symbol dafür.
 Ein DJ ist sowohl Produzent als auch **Marke**.
-Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Sound-bezogenen Branchen“ geworden.
+Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Industrien rund um den Klang“ geworden.
 
 ---
 
 ### Ⅵ. Verzweigung und Mutation: Post-EDM-Horizont
 
-Irgendwann klingen die Feierlichkeiten ab.
-Menschen, die das grelle Licht der Hauptbühne satt hatten, kehrten in die dunklen Clubs zurück.
+Irgendwann schwächeln die Feierlichkeiten.
+Die Leute, die das grelle Licht der Hauptbühne satt hatten, kehrten in die dunklen Clubs zurück.
 
 „Introspektives EDM“, demonstriert von Porter Robinson und Madeon——
 Es war kein Festival, es war ein Klang, der sich mit individuellen Emotionen auseinandersetzte.
@@ -170,17 +170,26 @@ EDM ist gleichzeitig eine Hommage an die Technologie.
 ### Ⅸ. Letztes Kapitel: Auf dem Weg zu einem Post-EDM-Musikerlebnis
 
 Der Begriff „EDM“ mag heute wie ein Relikt der Vergangenheit erscheinen.
-Doch sein Erbe durchdringt bereits alle Genres.
+Aber sein Erbe durchdringt bereits alle Genres.
 Pop, Hip Hop, Gamemusik...
 Erbt die Ästhetik der Tropfenstruktur und des Schalldrucks.
 
-Von nun an werden die Feierlichkeiten nicht mehr auf physische Bühnen beschränkt sein.
+Von nun an werden Feierlichkeiten nicht mehr auf physische Bühnen beschränkt sein.
 Metaverse, AR, virtueller DJ.
 Die Menge wird zum Avatar und das Licht fließt als Code.
 
 EDM ist noch nicht vorbei.
 Es verändert nur seine Form.
 **Die digitale Feier ist noch nicht vorbei. **
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96D3BZ5q2Io?si=7gDsCT5qUIxfOZoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

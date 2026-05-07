@@ -56,11 +56,11 @@ La station nationale de radiodiffusion a également joué un rôle majeur et la 
 
 ---
 
-## Chapitre 2 : La diffusion par satellite et le marché panarabe
+## Chapitre 2 : La radiodiffusion par satellite et le marché panarabe
 
 ### Un tournant dans les années 1990
 
-Dans les années 1990, la généralisation de la diffusion par satellite a donné naissance à des chaînes musicales transfrontalières. Une chaîne musicale basée au Liban diffuse des clips vidéo 24 heures sur 24, produisant des images visuelles de pop stars.
+Dans les années 1990, avec le développement de la diffusion par satellite, des chaînes musicales transfrontalières sont nées. Une chaîne musicale basée au Liban diffuse des clips vidéo 24 heures sur 24, produisant des images visuelles de pop stars.
 
 Au cours de cette période, des chanteurs tels que Nancy Ajram et Amr Diab ont gagné en popularité et la pop arabe a été redéfinie comme un produit du marché panarabe plutôt que comme une culture nationale unique.
 

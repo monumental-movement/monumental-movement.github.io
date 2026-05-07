@@ -15,11 +15,11 @@ title: Neutron Tom – Funky Shit
 ---
 
 
-Neutron Tom ist der Pseudonym des britischen Hard-Dance-Produzenten, Remixer und DJ Thomas Ingamells. Er ist besser bekannt als Ingo.
+Neutron Tom は、UKのハードダンスプロデューサー、リミキサー&DJ 、Thomas Ingamellsの別名義。Ingo(インゴ)名義でよく知られている。
 
-„Funky Shit“ ist ein Hard-House-Track, der 2002 auf Ingos eigenem britischen Hard-House-Label Vacuum Recordings veröffentlicht wurde.
+「Funky Shit」は、Ingo自身が運営するUKハードハウスレーベルVacuum Recordingsから2002年にリリースされたHard Houseトラック。
 
-Die B-Seite ist ein Remix von Jon Langford und Steve Hills Projekt Mr. Bishi.
+B面は、Jon LangfordとSteve HillによるプロジェクトMr. Bishiによるremix。
 
 #### Trackliste
 ```md

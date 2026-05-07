@@ -11,16 +11,16 @@ tags:
 - Breaks
 - Tech House
 - 10s
-title: Monkey Maffia – Club de musique Monkey Maffia
+title: Monkey Maffia – Monkey Maffia Music Club
 ---
 
 
 
-Sören Bodner, également connu sous le nom de Monkey Maffia, était une figure centrale du producteur et label allemand Freude Am Tanzen (FAT) et le propriétaire du magasin de disques Fatplastics. (Décès 2024)
+Monkey MaffiaことSören Bodner（ソーレン・ボドナー）は、ドイツのプロデューサー＆レーベル Freude Am Tanzen (FAT) の中心人物であり、レコードショップ「Fatplastics」のオーナーだった。（没2024年）
 
-Ils sont également connus sous le nom de Wighnomy Brothers, un duo légendaire avec Robag Wruhme, producteur représentatif de la scène techno/house minimale des années 2000.
+2000年代のミニマル・テクノ／ハウス・シーンを代表するプロデューサー Robag Wruhmeとの伝説的デュオ、Wighnomy Brothers（ワイノミー・ブラザーズ）としてもよく知られている。
 
-"Monkey Maffia Music Club" est un morceau House/Breaks/Tech House sorti sur le label Freude Am Tanzen en 2011. La distribution est assurée par Kompakt.
+「Monkey Maffia Music Club」は、2011年にレーベルFreude Am TanzenからリリースしたHouse／Breaks／Tech Houseトラック。配給はKompakt。
 
 #### Liste des chansons
 ```md

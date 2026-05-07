@@ -10,11 +10,11 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: Joris Voorn – 當白天我們變成夜晚
+title: Joris Voorn – When It Was Day We Made It Night
 ---
 
 
-Joris Voorn 是來自荷蘭阿姆斯特丹的 DJ、製作人和混音師。自1997年以來，他致力於house和techno。
+Joris Voorn 是来自荷兰阿姆斯特丹的 DJ、制作人和混音师。自1997年以來，他致力於house和techno。
 
 Green and Rejected 品牌的創辦人之一。
 

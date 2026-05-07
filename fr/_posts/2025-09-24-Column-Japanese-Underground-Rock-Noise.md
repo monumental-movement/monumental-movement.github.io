@@ -18,7 +18,7 @@ title: '[Chronique] La trajectoire du rock et du noise underground japonais des 
 
 ## L'intersection du rock underground japonais et du noise des années 90 aux années 2000
 
-Texte : mmr｜Thème : Attention mondiale portée à la scène musicale underground japonaise des années 1990 aux années 2000
+Texte : mmr｜Thème : Attention mondiale sur la scène musicale underground japonaise des années 1990 aux années 2000
 
 Les années 1990 et 2000 ont été l'apogée de la **musique noise** et ont également servi de carrefour avec le rock alternatif et le punk d'avant-garde.
 En particulier, des artistes tels que Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms et Violent Onsen Geisha ont détruit les genres musicaux existants et ouvert de nouveaux domaines d'expression.
@@ -44,7 +44,7 @@ color: #fff;
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) dirigé par Keiji Haino, [**Merzbow**](https://amzn.to/46qEmxw) de Masami Akita, [BOREDOMS](https://amzn.to/4nKFfGO) d'Ai Yamazuka et Seiichi Yamamoto, [Incapacitors](https : groupes comme //amzn.to/3IsJjwx) et [Violence Onsen Geisha](https://amzn.to/4gJWXbk) ont brisé les frontières du rock conventionnel et du punk, créant un monde sonore combinant bruit et esprit expérimental.
 
-Cette période voit également l'essor des labels indépendants, des apparitions dans des festivals internationaux et des interactions accélérées avec l'underground américain et européen. En outre, des activités de pointe ont été développées qui ont influencé la production de films et de bandes sonores, ainsi que plus tard la **génération musicale IA**.
+Cette période voit également l’essor des labels indépendants, des apparitions dans des festivals internationaux et des interactions accélérées avec l’underground américain et européen. En outre, des activités de pointe ont été développées qui ont influencé la production de films et de bandes sonores, ainsi que plus tard la **génération musicale IA**.
 
 ---
 
@@ -77,7 +77,7 @@ Cette période voit également l'essor des labels indépendants, des apparitions
 
 - **Caractéristiques** : Synonyme de « musique bruitiste ». Du rugissement chaotique des équipements analogiques, il est passé aux ordinateurs portables à la fin des années 1990.
 - **Modifications** : Acclamé internationalement avec des œuvres sur cassettes dans les années 80 et des sorties sur CD dans les années 90. Dans les années 2000, il intègre la « protection de l’environnement » et les « droits des animaux » dans sa musique.
-- **Anecdote** : L'album « Pulse Demon » est appelé « l'album le plus inécoutable » à l'étranger, et est considéré comme un morceau de noise monumental.
+- **Anecdote** : L'album « Pulse Demon » est appelé « l'album le plus inécoutable » à l'étranger, et est considéré comme un morceau de bruit monumental.
 
 | Albums | Caractéristiques | Liens |
 |--------------|------|--------------|
@@ -89,7 +89,7 @@ Cette période voit également l'essor des labels indépendants, des apparitions
 
 ### Escaliers de secours
 
-- **Caractéristiques** : Le premier « groupe de bruit » au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
+- **Caractéristiques** : Le premier "groupe de bruit" au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
 - **Changements** : Ils ont commencé leurs activités dans les années 80 et ont enregistré principalement des albums live dans les années 90. Depuis les années 2000, il développe des activités expérimentales comme le co-vedette avec des idoles.
 - **Anecdote** : Le fait de « dépecer un poulet » lors d'un spectacle live a suscité un énorme débat dans les médias étrangers et a été traité comme un scandale social.
 

@@ -27,7 +27,7 @@ A. Inspiration (Remo-Con vs. Toshio Ueki Remix)
 B. Inspiration (Kaleidoscopic Backdrop)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m39769466339?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39769466339?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TH38YgEmyGs?si=zv08u6YRRWIHpoSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

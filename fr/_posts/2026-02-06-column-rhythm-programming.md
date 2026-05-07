@@ -53,14 +53,14 @@ La structure la plus basique consiste à placer le coup de pied sur les 1er et 3
 
 La conception d’accents n’exige pas que toutes les notes soient jouées avec la même intensité. En rendant simplement le premier temps du coup de pied le plus fort et le troisième un peu plus faible, vous pouvez créer une impression d'avant et d'arrière dans l'écoulement du temps.
 
-### Cas : Correction d'un rythme fort et rythme fort décalé
+### Cas : rythme fort corrigé et rythme fort décalé
 
 * Battement fort fixe : les 1er et 3ème battements sont toujours à l'intensité maximale
 * Fort décalage de battement : 1er battement maximum, 3e battement supprimé
 
 Dans ce dernier cas, la seconde moitié semble plus légère et la boucle donne l'impression d'avancer.
 
-> Les 16 divisions égales ne constituent pas un dessin final, mais une ébauche de dessin.
+> Les 16 divisions égales ne constituent pas une conception finale, mais une ébauche de conception.
 
 ---
 
@@ -118,13 +118,13 @@ Même si l’arrangement est le même, si le timbre change, la perception du ryt
 
 ### Cas : Mélange de sons courts et longs
 
-En combinant un coup de pied court et une longue subbasse, le rythme et le son persistant sont séparés et de la profondeur est créée.
+En combinant un coup de pied court et une longue sous-basse, le rythme et le son persistant sont séparés et de la profondeur est créée.
 
 ### Cas : Répartition des rôles par bande de fréquence
 
 La gamme basse fixe le rythme et la gamme haute montre le flux. Lorsque cette division du travail s’effondre, le rythme semble instable.
 
-> Le ton n'est pas un ornement, mais la structure du temps lui-même.
+> Le ton n'est pas un ornement, mais la structure même du temps.
 
 ---
 
@@ -249,7 +249,7 @@ Même avec les mêmes 16 pas, si votre point de départ est différent, la textu
 * Années 1960 : Introduction du temps mécanique
 * Années 1970 : Mise en place d'une structure répétitive
 * Années 1980 : Vulgarisation de la conception en 16 étapes
-* Années 1990 : désalignement et sensation humaine
+* Années 1990 : désalignement et sentiment humain
 * Années 2000 : abstraction logicielle
 * Années 2010 et au-delà : le design comme esthétique
 
@@ -299,7 +299,7 @@ Considérez le temps comme un bloc et construisez un rythme par placement et omi
 
 ### Concepteur abstrait
 
-Traitez le temps entièrement comme un objet de design et déterminez la structure par une manipulation visuelle. Basé sur la pensée du piano roll.
+Traitez le temps entièrement comme un objet de design et déterminez la structure grâce à une manipulation visuelle. Basé sur la pensée du piano roll.
 
 Un type n’est pas meilleur que l’autre. L’important est d’être conscient de votre propre style de pensée et de changer en fonction de vos objectifs.
 

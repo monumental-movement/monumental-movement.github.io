@@ -11,14 +11,14 @@ tags:
 - Techno
 - Acid
 - 90s
-title: Hardfloor – TB Resuscitation
+title: 硬地板－結核病復甦
 ---
 
 
-Hardfloorは、1991年に結成した
-ドイツのアシッドテクノ／テックハウス デュオ。
+硬地板成立於1991年。
+德國 Acid techno/tech house 二人組。
 
-1993年にUKのインディペンデントレーベルMoonshine Musicからリリースされた、Hardfloor(ハードフロア)のファーストアルバム。テクノ・アシッドテクノの名盤されるHardfloorの代表作。
+Hardfloor 的首張專輯於 1993 年在英國獨立廠牌 Moonshine Music 上發行。 Hardfloor的傑作，被認為是techno/acid techno的傑作。
 
 #### 曲目表
 ```md
@@ -33,7 +33,7 @@ Hardfloorは、1991年に結成した
 9. Happy 20th (Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

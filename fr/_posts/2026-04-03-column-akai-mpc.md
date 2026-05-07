@@ -12,22 +12,21 @@ tags:
 - Akai
 - HipHop
 - Sampling
-title: '[Chronique] La naissance d''Akai MPC et de la beat culture : comment l''échantillonnage
-  a changé la notion du temps dans la musique'
+title: 【コラム】 Akai MPCの誕生とビートカルチャー：サンプリングが変えた音楽の時間感覚
 ---
 
 
 
-## Introduction : Les beats sont devenus quelque chose à « battre »
+## はじめに：ビートは「打つ」ものになった
 
-Texte : mmr｜Thème : « Temps » et « physique » redéfinis par l'échantillonnage et le fonctionnement des pads
+文：mmr｜テーマ：サンプリングとパッド操作が再定義した「時間」と「身体性」
 
 
-À la fin des années 1980, les rythmes auparavant confinés au studio ont commencé à descendre jusqu’au bout de nos doigts. Ce n'est pas un clavier ou une partition musicale, c'est l'acte physique de créer de la musique en la frappant. Au centre de cela se trouvait la série MPC d'Akai.
+1980年代後半、それまでスタジオの中に閉じ込められていたリズムは、指先へと降りてきた。鍵盤でもなく、譜面でもなく、叩くことで音楽を構築するという身体的な行為。その中心にあったのがAkaiのMPCシリーズである。
 
-Cette machine n’est pas seulement une boîte à rythmes, ni simplement un échantillonneur. C'était un appareil qui découpait les sons, les réorganisait et reconstruisait le temps lui-même.
+このマシンは単なるドラムマシンでも、単なるサンプラーでもない。音を切り刻み、再配置し、時間そのものを再構築する装置だった。
 
-> L'avènement du MPC a ramené la production musicale à la « performance ».
+> MPCの登場は、音楽制作を「演奏」へと引き戻した。
 
 ---
 
@@ -45,28 +44,28 @@ color: #fff;
 </style>
 
 
-## La veille de la naissance du MPC : la séparation entre samplers et boîtes à rythmes
+## MPC誕生前夜：サンプラーとドラムマシンの分断
 
-Dans les années 1980, les samplers existaient déjà. Mais ils étaient coûteux et compliqués à exploiter. D’un autre côté, les boîtes à rythmes vous permettent de saisir des rythmes, mais le matériau sonore est fixe.
+1980年代、サンプラーはすでに存在していた。だがそれらは高価で、操作も複雑だった。一方でドラムマシンはリズムを打ち込めるが、音素材は固定されていた。
 
-Il y a quelqu’un qui a intégré ces deux fonctions et en a fait un formulaire utilisable de manière intuitive. Roger Linn. Il avait déjà changé l'histoire des boîtes à rythmes avec le LM-1 et le LinnDrum.
+この二つの機能を統合し、なおかつ直感的に扱える形へと落とし込んだ人物がいる。Roger Linnだ。彼は以前にLM-1やLinnDrumを開発し、ドラムマシンの歴史をすでに変えていた。
 
-Cependant, ce qu’il visait était un dispositif générateur de rythme plus libre.
+しかし彼が目指したのは、より自由なリズム生成装置だった。
 
-> La fusion du sampler et de la boîte à rythmes a donné naissance à l'idée du MPC.
+> サンプラーとドラムマシンの融合が、MPCという思想を生んだ。
 
 ---
 
-## MPC60 : Le début d'une révolution
+## MPC60：革命の始まり
 
-En 1988, l'Akai MPC60 est né. Cet équipement présentait les caractéristiques suivantes :
+1988年、Akai MPC60が誕生する。この機材は、以下の特徴を持っていた。
 
-* Saisie des touches à l'aide du pad
-* Fonction d'échantillonnage
-* Intégration du séquenceur
-* Fonction de réglage du swing (rainure)
+* パッドによる打鍵入力
+* サンプリング機能
+* シーケンサー統合
+* スイング（グルーヴ）調整機能
 
-Le « swing » est particulièrement important. Plutôt qu’un rythme parfaitement uniforme, une légère déviation crée un groove semblable à celui d’un humain. Avec cette fonction, le MPC est devenu non seulement un outil de conduite, mais un dispositif qui crée une « colle ».
+特に重要なのは「スイング」だ。完全に均等なリズムではなく、わずかにズラすことで人間的なグルーヴを生み出す。この機能により、MPCは単なる打ち込み機材ではなく「ノリ」を生み出す装置になった。
 
 <div class="mermaid">
 graph LR
@@ -76,14 +75,14 @@ C --> D[スイング調整]
 D --> E[グルーヴ生成]
 </div>
 
-> Le MPC60 a ramené la « fluctuation humaine » au rythme.
+> MPC60は、ビートに「人間の揺らぎ」を取り戻した。
 
 ---
 
 
-## Fusion avec le hip-hop : expansion de la culture de l'échantillonnage
+## ヒップホップとの融合：サンプリング文化の拡張
 
-MPC est devenu extrêmement populaire, notamment sur la scène hip-hop. En effet, cela correspondait parfaitement à la culture consistant à supprimer les sons des disques existants et à les reconstruire dans un nouveau contexte.
+MPCは特にヒップホップシーンで爆発的に普及した。既存のレコードから音を切り出し、新たな文脈で再構築する文化と完全に一致したからだ。
 
 Par exemple, découper un break de batterie funk ou soul et le réarranger crée un rythme complètement nouveau. Cet acte n'est pas une simple copie, mais une « reconstruction ».
 
@@ -106,13 +105,13 @@ D --> E[新しいビート]
 
 En 1997, l'Akai MPC2000 a été introduit et le MPC est devenu encore plus populaire. Les prix ont baissé et davantage d’artistes y ont accès.
 
-Au cours de cette période, MPC est devenu plus qu’un simple équipement ; c'est devenu un style.
+Au cours de cette période, MPC est devenu plus qu’un simple équipement ; c'est devenu un style.
 
 * Tambour au doigt
 * Performances en temps réel
 * Composition basée sur des échantillons
 
-Toutes ces cultures sont nées de l’interface appelée MPC.
+Toutes ces cultures sont nées de l'interface appelée MPC.
 
 > MPC a évolué d'un équipement à une culture.
 

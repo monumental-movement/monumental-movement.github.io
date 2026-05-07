@@ -9,11 +9,11 @@ permalink: /fr/archae-and-grovskopa-emergent-properties/
 tags:
 - Techno
 - Industrial
-title: Archae et Grovskopa – Propriétés émergentes
+title: Archae and Grovskopa – Emergent Properties
 ---
 
 
-Archae & Grovskopa est le duo techno suédois composé de Benny Liberg (Archae) et Mika Hallbäck (Grovskopa).
+Archae & Grovskopaは、Benny Liberg（Archae）とMika Hallbäck（Grovskopa）のスウェーデン・テクノデュオ。
 
 #### Liste des chansons
 ```md

@@ -16,7 +16,7 @@ title: Santana – Karawanserei
 
 Santana ist eine amerikanische Latin-Rock-Gruppe, die Ende der 1960er Jahre unter der Leitung des Gitarristen Carlos Santana gegründet wurde.
 
-„Caravanserai“ wurde als neues, eher jazzorientiertes Album in Santanas Karriere gefeiert, da sich die Band vom Rock entfernte und sich einem experimentelleren und komplexeren Sound zuwandte.
+„Caravanserai“ wurde als neues, eher jazzorientiertes Album in Santanas Karriere gefeiert, da sich die Band vom Rock abwandte und sich einem experimentelleren und komplexeren Sound zuwandte.
 
 #### Trackliste
 ```md

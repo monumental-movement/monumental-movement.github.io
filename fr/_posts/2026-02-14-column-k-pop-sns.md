@@ -136,40 +136,40 @@ La conception de contenu multicouche, notamment des clips musicaux, des vidéos 
 
 ### 2. Conception globale des locaux
 
-En prenant en charge les sous-titres multilingues dès le début, nous prévoyons un afflux de téléspectateurs étrangers dès les premiers stades.
+デビュー時から多言語字幕対応を行うことで、初期段階から海外流入を想定する。
 
-### 3. Organiser votre fandom
+### 3. ファンダムの組織化
 
-Grâce aux fan clubs officiels, aux applications, aux systèmes de vote, etc., nous visualiserons l'ampleur de l'enthousiasme et formerons une zone économique durable.
+公式ファンクラブ、アプリ、投票システムなどにより、熱量を可視化し、持続可能な経済圏を形成する。
 
-> La stratégie K-POP est un modèle économique qui conçoit et quantifie l'énergie.
-
----
-
-## Raisons pour lesquelles il séduit les jeunes
-
-Pour la génération native du numérique, pousser les activités est un acte qui peut être accompli sur les réseaux sociaux. L'expression de soi, l'empathie et l'appartenance à la communauté se rejoignent.
-
-K-POP a un design qui correspond à son comportement. Pas seulement les performances en direct, mais les messages quotidiens forment une « histoire » et les fans participent à cette histoire.
-
-> L'essence de la popularité de la K-Pop réside dans la fusion de la musique et des expériences SNS.
+> K-POP戦略は、熱量を設計し数値化するビジネスモデルである。
 
 ---
 
-## Conclusion - Pourquoi la K-POP a-t-elle autant de succès ?
+## 若年層に刺さる理由
 
-Le succès de la K-Pop n’est pas une coïncidence ni un simple succès.
+デジタルネイティブ世代にとって、推し活はSNS上で完結する行為である。自己表現、共感、コミュニティ帰属が一体化している。
 
-* Amélioration du système de formation
-* Diffusion simultanée via YouTube
-* Visualisation du fandom via SNS
-* Modèle de participation basé sur des données
+K-POPはその行動様式と一致する設計を持つ。ライブだけでなく、日常的発信が“物語”を形成し、ファンはその物語に参加する。
 
-Ceux-ci travaillent ensemble pour permettre une expansion durable.
+> K-POP人気の本質は、音楽とSNS体験の融合にある。
 
-La stratégie K-POP est un modèle qui intègre le secteur de la musique et l’économie des plateformes. Il existe une philosophie de conception claire et un fonctionnement continu.
+---
 
-> La K-POP est populaire car elle crée à la fois des émotions et des algorithmes.
+## 結論 ― K-POPはなぜ成功したのか
+
+K-POPの成功は偶然でも単一ヒットでもない。
+
+* 育成システムの高度化
+* YouTubeによる同時拡散
+* SNSによるファンダム可視化
+* データ化された参加モデル
+
+これらが連動し、持続的拡張を可能にした。
+
+K-POP戦略とは、音楽ビジネスとプラットフォーム経済を統合したモデルである。そこには明確な設計思想と継続的運用がある。
+
+> K-POPが人気なのは、感情とアルゴリズムを同時に設計したからである。
 
 ---
 

@@ -17,7 +17,7 @@ title: '[Chronique] Joe Hisaishi et Studio Ghibli - 40 ans d''histoires musicale
 ## Prologue : Quand la musique fait bouger l'histoire
 
 
-Texte : mmr | Thème : Une longue chronique qui revient sur l'histoire de la collaboration entre Joe Hisaishi et le Studio Ghibli, à partir de faits. Retraçant 40 ans d'histoire musicale, de l'origine du nom à la bande originale
+Texte : mmr | Thème : Une longue chronique qui revient sur l'histoire de la collaboration entre Joe Hisaishi et le Studio Ghibli, à partir de faits. Un voyage musical de 40 ans, de l'origine du nom à la bande originale.
 
 
 Dans l’histoire du cinéma japonais, l’existence du compositeur Joe Hisaishi (nom anglais : Joe Hisaishi) est unique.
@@ -125,7 +125,7 @@ Avec cette œuvre, Hisaishi a d'abord construit une « musique d'époque imagina
 
 ---
 
-## Chapitre 8 : Princess Mononoke (1997) - Une exploration orchestrale de la spiritualité
+## Chapitre 8 : Princess Mononoke (1997) – Une exploration orchestrale de la spiritualité
 
 En 1997, lors de la création de la musique de Princess Mononoke, Hisaishi a utilisé un orchestre complet et un chœur pour créer un son d'une profondeur religieuse.
 Le thème de cette œuvre est la coexistence de la nature et des humains, et la musique d'Hisaishi se développe également d'une manière qui soutient cette idée.
@@ -159,7 +159,7 @@ Tout au long de ces œuvres, la musique d'Hisaishi devient un élément qui rég
 
 ## Chapitre 11 : « Comment vis-tu ? » (2023) - Abstraction sonore et nouveaux défis
 
-Comment vivez-vous ?, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
+Comment vivez-vous, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
 Joe Hisaishi était à nouveau en charge de la musique.
 
 Cette œuvre utilise une structure sonore abstraite, mettant l'accent sur la résonance et la texture plutôt que sur la mélodie.
@@ -180,8 +180,8 @@ Cette œuvre est le dernier exemple du rapprochement continu d'Hisaishi entre la
 | 1992 | Porco Rosso | Hayao Miyazaki | "Jours sans retour" | Valse nostalgique |
 | 1997 | Princesse Mononoké | Hayao Miyazaki | "Princesse Mononoké" | Fusion de chœur et d'orchestre |
 | 2001 | Le voyage de Chihiro | Hayao Miyazaki | « Toujours et encore » | Gagnant d'un Oscar |
-| 2004 | Howl's Moving Castle | Hayao Miyazaki | "Le manège de la vie" | Waltz Structure |
-| 2008 | Ponyo on the Cliff | Hayao Miyazaki | "Ponyo on the Cliff" | Nursery Rhyme Melody |
+| 2004 | Le château ambulant de Howl | Hayao Miyazaki | "Le manège de la vie" | Structure de valse |
+| 2008 | Ponyo sur la falaise | Hayao Miyazaki | "Ponyo sur la falaise" | Mélodie de comptine |
 | 2013 | Le vent se lève | Hayao Miyazaki | « Voyage » | Le monde tranquille de la musique |
 | 2023 | Comment vis-tu ? Hayao Miyazaki | - | Abstraction du son |
 
@@ -189,7 +189,7 @@ Cette œuvre est le dernier exemple du rapprochement continu d'Hisaishi entre la
 
 ## Bande-son représentative
 
-| Film | English title | Soundtrack | Lien | Remarques |
+| Film | Titre anglais | Bande sonore | Lien | Remarques |
 |------------|------------|----------------|----------------|------|
 | 風の谷のナウシカ | *Nausicaä of the Valley of the Wind* | *Original Soundtrack – Toward the Faraway Land* | [Amazon](https://amzn.to/48Yc6Uv) | 久石・宮崎初コラボ |
 | となりのトトロ | *My Neighbor Totoro* | *Original Soundtrack* | [Amazon](https://amzn.to/43MF1r0) | 名曲「風のとおり道」収録 |

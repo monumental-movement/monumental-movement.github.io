@@ -12,7 +12,7 @@ title: Les sons de la vie – III
 ---
 
 
-"Hidden Rooms" est l'un des meilleurs morceaux amen de Source Direct. Ce morceau a été magistralement produit par un certain nombre de grands producteurs et sera un succès dancefloor parfait dès le premier drop.
+"Hidden Rooms" est l'un des meilleurs morceaux amen de Source Direct. Ce morceau a été magistralement produit par un certain nombre de grands producteurs et sera un succès parfait sur le dancefloor dès le premier drop.
 
 Le son métallique aigu qui annule l’embarquement rapide est l’un des échantillons les plus remarquables et vous donnera la chair de poule.
 

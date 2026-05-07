@@ -114,7 +114,7 @@ In den 2000er Jahren veränderte sich die Struktur der Underground-Musik erhebli
 
 Der Grund ist das Internet.
 
-Das Aufkommen von MySpace, Blogs, Foren usw. hat die Art und Weise, wie wir Musik entdecken, verändert.
+Das Aufkommen von MySpace, Blogs, Foren usw. hat die Art und Weise, wie Musik entdeckt wird, verändert.
 
 Es war einmal
 
@@ -133,7 +133,7 @@ Wichtig ist auch das Aufkommen von SoundCloud.
 
 Diese Plattform hat ein System geschaffen, das es ermöglicht, Musik zu veröffentlichen, ohne über ein Label zu gehen.
 
-Dadurch wird Underground-Musik von geografischen Standorten befreit.
+Dadurch wird Underground-Musik von der geografischen Verortung befreit.
 
 Die Szenen in Berlin, London und Tokio werden über das Internet miteinander verbunden.
 
@@ -153,7 +153,7 @@ G --> H[Global Underground Scene]
 
 </div>
 
-> Das Internet hat Underground-Musik von einer lokalen Kultur in ein globales Netzwerk verwandelt.
+> Das Internet hat Underground-Musik von einer lokalen Kultur zu einem globalen Netzwerk gemacht.
 
 ---
 
@@ -183,7 +183,7 @@ Auf Bandcamp
 
 Eine Struktur war geboren.
 
-Dies kann als eine digitale Version der Plattenkultur betrachtet werden.
+Dies kann als eine digitale Version der Schallplattenkultur betrachtet werden.
 
 > Auch im Streaming-Zeitalter schafft Underground-Musik weiterhin eine eigene Wirtschaftszone.
 
@@ -254,7 +254,7 @@ Die Essenz der Underground-Musik bleibt jedoch dieselbe.
 
 Es ist eine Kultur, die außerhalb des Mainstreams entsteht und von der Gemeinschaft getragen wird.
 
-Wenn man sich die Geschichte anschaut, schien Underground-Musik immer kurz davor zu stehen, zu verschwinden, um dann wieder aufzutauchen.
+Wenn man sich die Geschichte anschaut, schien die Underground-Musik immer kurz davor zu stehen, zu verschwinden, um dann wieder aufzutauchen.
 
 Der Grund ist einfach.
 

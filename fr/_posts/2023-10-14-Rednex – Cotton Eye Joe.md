@@ -10,7 +10,7 @@ permalink: /fr/rednex-cotton-eye-joe/
 tags:
 - Euro House
 - Synth-Pop
-title: Rednex – Joe aux yeux de coton
+title: Rednex – Cotton Eye Joe
 ---
 
 
@@ -20,11 +20,11 @@ title: Rednex – Joe aux yeux de coton
 
 
 
-Rednex est un groupe suédois d'Eurodance dont le style musical est une combinaison de musique country américaine et d'Eurodance.
+Rednexは、USカントリーミュージックとユーロダンスを組み合わせた音楽スタイルが特徴のスウェーデンユーロダンス・グループ。
 
-« Cotton Eye Joe » est une chanson house européenne basée sur la chanson folk américaine « Cotton Eyed Joe » qui incorpore du banjo et du violon, et est devenue un succès mondial.
+「Cotton Eye Joe」は、アメリカの民謡「コットン・アイド・ジョー」をベースにバンジョーやフィドルを取り入れたユーロハウスで、世界的なヒットとなった。
 
-Armand Van Helden et Jeremy Healy participeront au remix.
+remixには、Armand Van Helden（アーマンド・ヴァン・ヘルデン）Jeremy Healy（ジェレミー・ヒーリー）が参加。
 
 #### Liste des chansons
 ```md

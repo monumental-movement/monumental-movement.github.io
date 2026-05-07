@@ -53,11 +53,11 @@ color: #fff;
 
 ### La fin de la forte croissance économique et la transformation de la société
 
-Dans les années 1970, le Japon approchait de la fin de sa période de croissance économique rapide qui se poursuivait depuis la guerre. Les villes se développaient rapidement, le niveau de vie s'améliorait et de nombreuses personnes commençaient à ressentir un sentiment de « richesse ». Cependant, d’un autre côté, la société dans son ensemble s’homogénéise et les valeurs et libertés individuelles sont progressivement supprimées.
+Dans les années 1970, le Japon approchait de la fin de sa période de croissance économique rapide qui se poursuivait depuis la guerre. Les villes se développaient rapidement, le niveau de vie s’améliorait et de nombreuses personnes commençaient à se sentir riches. Cependant, d’un autre côté, la société dans son ensemble s’homogénéise et les valeurs et libertés individuelles sont progressivement supprimées.
 
 Le mouvement étudiant, qui a atteint son apogée à la fin des années 1960, s’est rapidement calmé dans les années 1970. L’enthousiasme politique, qui s’était temporairement accru en raison des problèmes de sécurité et des conflits universitaires, s’est arrêté en raison de revers, laissant de nombreux jeunes sans nulle part où aller.
 
-En outre, l’Exposition universelle d’Osaka de 1970 a été un événement symbolique qui a fait du Japon une puissance économique au sein de la communauté internationale, mais elle a également marqué l’arrivée d’une ère dans laquelle on parlait de « futur » et de « progrès » sous la direction de l’État.
+En outre, l’Exposition universelle d’Osaka de 1970 a été un événement symbolique qui a fait du Japon une puissance économique au sein de la communauté internationale, mais elle a également marqué l’arrivée d’une ère dans laquelle « l’avenir » et le « progrès » étaient évoqués sous la direction de l’État.
 
 Dans une telle société, les jeunes qui ne se sentent pas à leur place entrent dans la clandestinité. La musique et l’espace live étaient les sources de cette énergie.
 
@@ -99,11 +99,11 @@ Bien que ce type d’expression soit considéré comme immature par la musique d
 
 ### Existence invisible
 
-L'ostracisme est rarement apparu dans les médias de masse comme la télévision ou la radio. Cela n’était pas simplement dû au manque d’opportunités, mais plutôt au fait que leurs expressions ne rentraient pas dans le cadre médiatique.
+L'ostracisme est rarement apparu dans les médias de masse tels que la télévision ou la radio. Cela n’était pas simplement dû au manque d’opportunités, mais plutôt au fait que leurs expressions ne rentraient pas dans le cadre médiatique.
 
 L’industrie musicale de l’époque se composait principalement de chansons folkloriques et populaires, mettant l’accent sur la qualité et la convivialité du message. La musique de l’ostracisme ne rentre dans aucune de ces catégories.
 
-En conséquence, il y avait très peu d’opportunités pour que leur travail soit enregistré et leur vie se transmettait principalement à travers des expériences live. Ce « manque de documents » contribuera grandement à la mythification des années suivantes.
+En conséquence, il y avait très peu d’opportunités pour que leur travail soit enregistré et leur vie se transmettait principalement à travers des expériences live. Ce « manque de documents » contribuerait grandement à la mythification de l'histoire dans les années suivantes.
 
 > Justement parce qu'ils sont invisibles, leur existence est amplifiée par l'imagination.
 
@@ -186,7 +186,7 @@ Dans les années 1970, l’ostracisme était fortement présent en dehors de la 
 
 Le sentiment d’aliénation né d’une forte croissance économique, de l’opposition à l’homogénéisation et de la recherche de l’expression individuelle. Tout cela se résume à l’existence de l’ostracisme.
 
-Ils n'étaient pas au centre de l'histoire. Cependant, le son qui venait de quelque part décentré parlait d’une autre réalité de l’époque.
+Ils n'étaient pas au centre de l'histoire. Cependant, le son qui résonnait dans un endroit éloigné du centre parlait d'une autre réalité de l'époque.
 
 > Le son de l'ostracisme est le témoignage de ceux qui ne s'intégraient pas dans la société, et c'est cette non-conformité qui leur donnait de la valeur.
 

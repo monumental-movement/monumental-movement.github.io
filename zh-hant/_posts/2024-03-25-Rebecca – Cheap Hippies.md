@@ -10,7 +10,7 @@ tags:
 - JPop
 - Pops
 - 80s
-title: 麗貝卡——廉價嬉皮士
+title: Rebecca – Cheap Hippies
 ---
 
 

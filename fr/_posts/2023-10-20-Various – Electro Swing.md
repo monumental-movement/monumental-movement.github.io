@@ -13,7 +13,7 @@ title: Divers – Electro Swing
 ---
 
 
-« Divers – Electro Swing » est sorti chez Wagram Music en 2009.
+« Various – Electro Swing » est sorti chez Wagram Music en 2009.
 
 #### Liste des chansons
 ```md

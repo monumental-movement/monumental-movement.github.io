@@ -10,13 +10,13 @@ tags:
 - Rock
 - Indie Rock
 - 90s
-title: Neds Atommülleimer – Töte deinen Fernseher
+title: Ned's Atomic Dustbin – Kill Your Television
 ---
 
 
-Ned's Atomic Dustbin ist eine britische Rockband, die im November 1987 in Stourbridge, West Midlands, gegründet wurde.
+Ned's Atomic Dustbin(ネッズアトミックダストビン)は、1987年11月にウェストミッドランズのストゥールブリッジで結成されたイギリスのロックバンド。
 
-„Kill Your Television“ war Neds offizielle erste Single (EP) von Atomic Dustbinno und ein kommerziell erfolgreicher Hit. Es ist auch im Debüt-Studioalbum „God Fodder“ enthalten.
+「Kill Your Television」は、Ned's Atomic Dustbinno公式ファーストシングル(EP)で、商業的に成功したヒット曲。デビュースタジオアルバム「God Fodder」にも収録されている。
 
 
 #### Trackliste

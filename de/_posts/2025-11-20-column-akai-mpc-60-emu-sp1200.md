@@ -38,7 +38,7 @@ color: #fff;
 </style>
 
 
-## Kapitel 2: Grundlegende technische Kenntnisse – Abtasttheorie und 12-Bit-Eigenschaften
+## Kapitel 2: Grundlegende technische Kenntnisse – Sampling-Theorie und 12-Bit-Eigenschaften
 
 ### 2.1 Grundlagen der Probenahme
 
@@ -176,7 +176,7 @@ Samples mit niedriger Auflösung eignen sich effektiv zum Erstellen von Texturen
 
 ## Kapitel 8: Wichtige Künstler und Anwendungsbeispiele
 
-> Nachfolgend finden Sie Auszüge von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, technischen Artikeln und offizieller Dokumentation basieren.
+> Nachfolgend finden Sie Auszüge von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, Fachartikeln und offiziellen Dokumenten basieren.
 
 <div class="mermaid">
 
@@ -373,7 +373,7 @@ flowchart TD
 
 ---
 
-## Abschnitt zur Spur-/Wellenform-/Frequenzanalyse
+## Abschnitt „Spur-/Wellenform-/Frequenzanalyse“.
 
 ### Ebenenanalyse von Public Enemy (Bomb Squad) SP-1200
 

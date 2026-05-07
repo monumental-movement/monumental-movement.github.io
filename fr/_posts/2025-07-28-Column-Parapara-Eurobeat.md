@@ -53,7 +53,7 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 - Danse de groupe avec des mouvements de main finement alignés vers le haut, le bas, la gauche et la droite
 
-- **Le mouvement met l'accent sur "l'unité" plutôt que sur l'individualité** : plus proche de "l'équipe" que de la danse sociale
+- **Le mouvement met l'accent sur « l'unité » plutôt que sur l'individualité** : plus proche de « l'équipe » que de la danse sociale
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -96,7 +96,7 @@ C'est ainsi que le « marché Eurobeat » unique au Japon s'est formé et s'est 
 
 - Distribution de vidéos chorégraphiques (VHS, puis DVD)
 
-- Des séries telles que « Parapara Paradise » et « Parapara Kyonen » sont également disponibles.
+- Des séries telles que « Parapara Paradise » et « Parapara Kyonen » apparaissent également
 
 ● Production médiatique
 
@@ -121,7 +121,7 @@ C'est ainsi que le « marché Eurobeat » unique au Japon s'est formé et s'est 
 
 - Un deuxième boom parapara se produit localement alors que des vidéos et des chansons de chorégraphies passées sont partagées en ligne.
 
-- Il existe aussi des phénomènes où les supporters étrangers se redécouvrent et reçoivent des éloges comme s'ils étaient réimportés.
+- Il existe aussi des phénomènes où les fans étrangers se redécouvrent et reçoivent des éloges comme s'ils étaient réimportés.
 
 
 <hr>

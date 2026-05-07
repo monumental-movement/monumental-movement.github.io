@@ -22,7 +22,7 @@ Texte : mmr｜Thème : La vision philosophique d'Aphex Twin sur la musique qui
 
 La musique a généralement un « conducteur de compréhension ». La mélodie, le rythme, le développement guident l'auditeur. Cependant, dans la musique d'Aphex Twin, cette ligne de chef d'orchestre est intentionnellement coupée.
 
-Les rythmes se désintègrent, les mélodies sont fragmentées et le placement des notes est imprévisible. Même ainsi, l’auditeur peut toujours en ressentir la « beauté ». D'où vient ce phénomène ?
+Les rythmes se désintègrent, les mélodies sont fragmentées et le placement des notes est imprévisible. Même ainsi, l'auditeur peut toujours en ressentir la « beauté ». D'où vient ce phénomène ?
 
 Ses œuvres affectent directement la « perception » plutôt que la compréhension. Le son lui-même est structuré de manière à atteindre le corps et les émotions avant que le cerveau puisse lui donner un sens. Il s’agit d’une expérience musicale plus primitive et intuitive, différente de la beauté harmonique de la musique classique ou des accroches de la musique pop.
 
@@ -77,7 +77,7 @@ Le Selected Ambient Works Volume II qui suit progresse vers une abstraction enco
 
 et Drukqs en 2001. Dans cet album, une programmation de batterie ultra-rapide et complexe coexiste avec une musique de piano tranquille. C’est ici que son esthétique – la coexistence du chaos et de l’ordre – se manifeste le plus clairement.
 
-Le Syro de 2014 intègre des éléments du passé tout en les élevant à un son plus sophistiqué.
+Syro de 2014 intègre des éléments du passé et les élève à un son plus sophistiqué.
 
 > Son œuvre n'est pas une évolution, mais une série de mouvements vers différentes dimensions.
 
@@ -117,9 +117,9 @@ Appartient au genre et s’en écarte en même temps. Cette dualité place sa mu
 
 Il existe de nombreuses histoires sur Aphex Twin.
 
-Par exemple, il y a une histoire où un disque dur rempli de chansons inédites a été laissé dans un avion, et il a ensuite été divulgué. On dit aussi qu'il utilise son propre logiciel pour générer des rythmes extrêmement complexes.
+Par exemple, il y a l'histoire de quelqu'un qui a laissé un disque dur rempli de chansons inédites dans un avion, qui a ensuite été divulguée. On dit aussi qu'il utilise son propre logiciel pour générer des rythmes extrêmement complexes.
 
-Ses anecdotes sur les performances live sont encore plus célèbres. Dans certains cas, ils ont simplement joué la source sonore, ou ont intentionnellement semé la confusion, d'une manière qui trahissait la « performance » attendue par le public.
+Ses anecdotes sur les performances live sont encore plus célèbres. Dans certains cas, ils ont uniquement joué la source sonore, ou ont intentionnellement semé la confusion, d'une manière qui trahissait la « performance » attendue par le public.
 
 Ces actions peuvent paraître provocatrices, mais elles sont aussi pour lui une tentative de redéfinir « l'expérience musicale elle-même ».
 

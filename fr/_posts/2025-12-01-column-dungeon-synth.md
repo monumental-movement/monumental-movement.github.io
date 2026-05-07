@@ -157,7 +157,7 @@ De nombreux artistes ont recherché la sensation des consoles de jeux et des cla
 Pianos GM, Choir Aahs, Strings, Pads, etc. Le bas prix et la nostalgie sont traités comme des valeurs.
 
 ### ■ Synthé logiciel
-Dans les temps modernes, les éléments suivants sont souvent utilisés :
+Dans les temps modernes, les éléments suivants sont couramment utilisés :
 
 - **VST gratuit DSK**
 - DSK ChoirZ, DSK Strings, etc.
@@ -284,7 +284,7 @@ Des thèmes tels que Forêt / Hiver / Héroïque / Cosmic Synth ont augmenté.
 
 # ■ 8. Processus de production de Dungeon Synth (guide pratique)
 
-Vous trouverez ci-dessous un plan pour créer réellement une chanson.
+Vous trouverez ci-dessous un plan pour créer une chanson.
 
 ## ● Étape 1 : Préparer le clavier
 - Un clavier MIDI de 25 à 49 touches suffit
@@ -315,7 +315,7 @@ Vous trouverez ci-dessous un plan pour créer réellement une chanson.
 
 # ■ 9. Importance culturelle de Dungeon Synth
 
-Dungeon Synth est un type de musique rare qui combine la vision intense du monde du black metal avec la tranquillité de l'ambiant, et est une culture qui aspire à « construire un monde intérieur ».
+Dungeon Synth est un type de musique rare qui combine la vision intense du monde du black metal avec la tranquillité de la musique ambiante, et c'est une culture qui aspire à « construire un monde intérieur ».
 
 - Les créateurs individuels racontent leurs propres histoires sans s'appuyer sur des scènes à grande échelle
 - Fortement lié à l'esthétique de la littérature fantastique, des TRPG et de la musique de jeu

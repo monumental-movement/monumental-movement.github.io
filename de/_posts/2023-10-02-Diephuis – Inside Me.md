@@ -10,11 +10,11 @@ tags:
 - House
 - African
 - Deep House
-title: Diephuis – Inside Me
+title: Diephuis – In mir
 ---
 
 
-Diephuis（Barend-Jan Beljaars）は、90年代から活躍するオランダのロッテルダム出身のDJ/プロデューサー。ディスコ、テクノ、ソウル、アフロ、ファンク、ジャズの影響を受けた、ディープ＆ソウルフルなハウスミュージックを得意としています。
+Diephuis (Barend-Jan Beljaars) ist ein DJ/Produzent aus Rotterdam, Niederlande, der seit den 90er Jahren aktiv ist. Wir sind spezialisiert auf tiefe und gefühlvolle House-Musik mit Einflüssen von Disco, Techno, Soul, Afro, Funk und Jazz.
 
 #### Trackliste
 ```md

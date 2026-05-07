@@ -11,11 +11,11 @@ tags:
 - Detroit Techno
 - Tribal
 - 90s
-title: M – Mehr Drama
+title: M – More Drama
 ---
 
 
-„'M' – More Drama“ ist ein Techno-Track von Jeff Mills, der unter dem Namen „M“ auf Axis, einem 1992 von Jeff Mills gegründeten Techno-Label, veröffentlicht wurde.
+ 「"M" – More Drama」は、1992年にJeff Mills（ジェフ・ミルズ）が設立したテクノレーベルAxisから「M」名義でリリースしたJeff Millsのテクノトラック。
 
 #### Trackliste
 ```md

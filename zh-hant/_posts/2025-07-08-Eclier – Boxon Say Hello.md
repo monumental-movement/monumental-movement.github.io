@@ -30,7 +30,7 @@ B1. Boxon Say Hello (Eclier Remix)
 B2. The Geneticist (Tom Deluxx Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m10519633857?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10519633857?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0s36c1i0MPA?si=rvYDEsEapn07J8AN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

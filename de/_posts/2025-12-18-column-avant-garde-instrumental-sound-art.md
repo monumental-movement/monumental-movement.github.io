@@ -58,7 +58,7 @@ In der Klangkunst ist die räumliche Anordnung wichtiger als die zeitliche Entwi
 
 ### 2-1 Neudefinition von Musikinstrumenten
 
-In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder verändert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
+In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder modifiziert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
 
 ### 2-2 Änderungen im Leistungsverhalten
 
@@ -72,7 +72,7 @@ Bei der Leistung geht es nicht darum, körperliche Fähigkeiten zu demonstrieren
 
 Alvin Lucier ist ein Komponist, der das physikalische Verhalten von Schallwellen in den Mittelpunkt seiner Werke stellt. In seinen Werken ist die absichtliche Manipulation des Komponisten auf ein Minimum beschränkt und die akustischen Phänomene entfalten sich autonom.
 
-In seinem Meisterwerk „I Am Sitting in a Room“ wird der rezitierte Ton wiederholt im selben Raum abgespielt und neu aufgenommen, wobei die für den Raum spezifischen Resonanzfrequenzen betont werden, bis die Sprache verschwindet. Dieser Prozess zeigt deutlich, wie sich Schall von einer Information zu einem physikalischen Phänomen entwickelt.
+In seinem berühmtesten Werk „I Am Sitting in a Room“ werden durch die wiederholte Wiedergabe und erneute Aufnahme des gesprochenen Wortes im selben Raum die für den Raum spezifischen Resonanzfrequenzen betont, und die Sprache verschwindet schließlich. Dieser Prozess zeigt deutlich, wie sich Schall von einer Information zu einem physikalischen Phänomen entwickelt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,7 +97,7 @@ flowchart LR
 
 ### 4-1 Architekturakustik
 
-Luciers Arbeit basiert stark auf räumlichen Dimensionen, Materialien und reflektierenden Eigenschaften. Selbst wenn das Stück gleich ist, können die akustischen Ergebnisse stark variieren, wenn der Installationsort unterschiedlich ist.
+Luciers Arbeit basiert stark auf räumlichen Dimensionen, Materialien und reflektierenden Eigenschaften. Selbst wenn das Stück gleich ist, werden die akustischen Ergebnisse stark variieren, wenn es an einem anderen Ort installiert wird.
 
 ### 4-2 Zuschauerposition
 
@@ -125,7 +125,7 @@ Faktoren wie Verzerrung, Komprimierung und fehlende Daten werden als Komponenten
 
 ### 6-1 Parallele Platzierung mit Video
 
-In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Klang. Ton und Video sind oft nicht synchronisiert.
+In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Ton. Ton und Video sind oft nicht synchronisiert.
 
 <div class="mermaid">
 flowchart LR

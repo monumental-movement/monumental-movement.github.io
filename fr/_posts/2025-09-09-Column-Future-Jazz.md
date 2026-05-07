@@ -36,7 +36,7 @@ L'Acid Jazz est devenu populaire principalement au Royaume-Uni, réinventant le 
 
 - **Caractéristiques de l'équipement**
 -Akai MPC60/S1000
--Roland TR-808 / TR-909
+-Roland TR-808/TR-909
 - Principalement platine et sampler
 
 <style type="text/css">
@@ -121,7 +121,7 @@ La scène Broken Beat de l'ouest de Londres fait évoluer Future Jazz. Une fusio
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Changement | Fusion d'électro et de jazz. |
 | 2 | 4héros | Les Fleurs | Orchestral et grandiose. |
-| 3 | Nicolas Conté | Bossa Per Due | Une fusion de bossa nova et de jazz du futur. |
+| 3 | Nicolas Conté | Bossa Per Due | Une fusion de Bossa Nova et de Future Jazz. |
 | 4 | Viktor Duplaix | Messages | Un son néo-soul. |
 | 5 | Jazzanova | AMOUR. et toi et moi | Une chanson qui représente le rythme brisé. |
 | 6 | Kyoto Jazz Massif | Esprit du Soleil | Œuvres importantes du Japon. |
@@ -226,7 +226,7 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 ---
 
 # Un genre toujours à l'avant-garde de son temps
-Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par Broken Beat et Nu-Jazz, et s'étend maintenant vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
+Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par Broken Beat et Nu-Jazz, et s'étend aujourd'hui vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
 
 Comme il sied au nom de « jazz futuriste », c'est un genre toujours à l'avant-garde de son temps.
 

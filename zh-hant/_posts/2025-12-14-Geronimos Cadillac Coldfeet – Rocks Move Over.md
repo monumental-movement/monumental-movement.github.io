@@ -27,4 +27,4 @@ A. Geronimo's Cadillac – Rocks
 B. Coldfeet – Move Over
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m16774787518?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16774787518?afid=6142608987){: .button1}

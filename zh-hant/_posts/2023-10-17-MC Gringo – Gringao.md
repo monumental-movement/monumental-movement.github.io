@@ -20,10 +20,10 @@ MC Gringo 是一位出生於德國的音樂家和音樂製作人。
 曲目 A1~A3,B1,B3: DJ Amazing Clay
 曲目 B4：DJ 桑德林奧
 曲目 A1-A4：MC Gringo
-曲目 A4、B2：拉斐爾 DJ
+トラックA4, B2：Rafael DJ
 
 MC
-曲目 A2：MC Binho
+トラックA2：MC Binho
 曲目 A4：MC Dandão
 
 #### 曲目表

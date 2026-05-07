@@ -10,15 +10,15 @@ tags:
 - Breakbeat
 - Breaks
 - 00s
-title: Neztic – Coup de pied
+title: Neztic – Kickin' Down
 ---
 
 
-Manuel Neztic, également connu sous le nom de Neztic, est un DJ actif sur la scène musicale électronique mexicaine depuis 1998.
+NezticことManuel Nezticは、1998年からメキシコのエレクトロニックミュージックシーンで活動するDJ。
 
-« Kickin' Down », sorti en 2006 par le label breakbeat britannique Mob Records, est également connu comme la chanson thème officielle de la campagne publicitaire de la ligue de football professionnelle australienne, la A-League.
+イギリスのブレークビーツ・ブレイクレーベルMob Recordsから2006年にリリースされた「Kickin' Down」は、オーストラリアのプロフットボール リーグ、A リーグ の広告キャンペーンの公式テーマ曲としても知られている。
 
-La face B est un remix du DJ et producteur finlandais Rico Tubbs.
+B面は、フィンランドのDJ・プロデューサーRico Tubbs によるremix。
 
 #### Liste des chansons
 ```md

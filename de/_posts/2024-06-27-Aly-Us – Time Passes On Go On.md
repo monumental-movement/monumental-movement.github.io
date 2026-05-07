@@ -14,9 +14,9 @@ title: Aly-Us – Time Passes On Go On
 ---
 
 
-Aly-Us ist eine House-Musikgruppe aus New Jersey, die Anfang der 1990er Jahre aktiv war. Das Trio besteht aus Eddie L. Lewis (auch bekannt als Supa), DJ Kyle „Small“ Smith und William Brian Jennings.
+Aly-Us（アライアス） は、1990 年代初頭に活躍したニュージャージー出身のハウスミュージックグループ。メンバーは、Supaこと Eddie L. Lewis、DJ Kyle “Small” Smith、William Brian Jennings の 3 人組。
 
-„Time Passes On / Go On“, das ein Jahr nach dem Hit „Follow Me“ von Aly-Us aus dem Jahr 1992 veröffentlicht wurde, ist ein House-/Garage-House-Track, der den Geschmack von „Follow Me“ fortsetzt.
+1992年にリリースされたAly-Usの大ヒット曲「Follow Me」の翌年にリリースされた「Time Passes On / Go On」は、「Follow Me」のテイストを引き継いだハウス・ガラージハウストラックになっている。
 
 #### Trackliste
 ```md

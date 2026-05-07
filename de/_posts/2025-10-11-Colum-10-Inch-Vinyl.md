@@ -23,7 +23,7 @@ Text: mmr｜Thema: Weder 7 Zoll noch 12 Zoll. Die Klangästhetik und Erinnerunge
 
 
 10-Zoll-Schallplatte.
-In diesem Wort liegt eine gewisse Mehrdeutigkeit. Es hat eine einzigartige, aber halbfertige Präsenz, die sich von der unmittelbaren Wirkung einer 7-Zoll-Single oder dem befriedigenden Gefühl einer 12-Zoll-LP unterscheidet. Wenn wir einen Blick auf die Geschichte der Schallplatten werfen, können wir sehen, dass dieses „Zwischenformat“ einen Wendepunkt in der Zeit markierte.
+In diesem Wort liegt eine gewisse Mehrdeutigkeit. Es hat eine einzigartige, aber halbfertige Präsenz, die sich von der unmittelbaren Wirkung einer 7-Zoll-Single oder dem befriedigenden Gefühl einer 12-Zoll-LP unterscheidet. Wenn wir einen Blick auf die Geschichte der Schallplatten werfen, können wir erkennen, dass dieses „Zwischenformat“ einen Wendepunkt in der Zeit markierte.
 
 10 Zoll ist nicht nur eine Frage der Größe. Es war auch eine andere Philosophie, die „Zeitdauer“ und „Klangdichte“ neu definierte. Die Beschränkung auf etwa 10 Minuten pro Seite zwang Künstler und Ingenieure, sich für „Kondensation“ zu entscheiden, und das Ergebnis war ein überraschend klar definierter Klang und ein Hörerlebnis, das Konzentration erforderte.
 
@@ -111,13 +111,13 @@ Es ist ein Musikerlebnis, das sich des Endes bewusst ist, im Gegensatz zu einer 
 
 ---
 
-### Letztes Kapitel: Zeit in Ihrer Handfläche, die 10-Zoll-„Klangdichte“
+### Letztes Kapitel: Die Zeit in Ihrer Handfläche, 10 Zoll spricht von der „Klangdichte“
 
 10 Zoll sind unvollständig, aber vollständig.
 Es handelt sich nicht um eine lange Geschichte oder eine Kurzgeschichte, sondern um ein „Kurzgeschichten“-Format.
 Musik in Ihrer Handfläche. Seine Dichte ist jedoch nicht schlechter als 12 Zoll.
 
-Ein Format ist nicht nur ein Container, sondern eine Idee.
+Ein Format ist nicht nur ein Container, es ist eine Idee.
 Die Neubewertung des 10-Zoll-Geräts ist ein Akt des Überdenkens der Art und Weise, wie Musik gehört wird.
 
 Es gibt immer eine „Mitte“ zwischen Technologien.

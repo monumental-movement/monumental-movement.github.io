@@ -9,11 +9,11 @@ permalink: /fr/joey-beltram-arena/
 tags:
 - Techno
 - US Techno
-title: Joey Beltram – Arène
+title: Joey Beltram – Arena
 ---
 
 
-"Arena" est sorti en 1999 sur le propre label de Joey Beltram, STX Records. Il a également été inclus dans un mix du DJ techno Dave Clarke, actif dans les années 90.
+「Arena」は、1999年にJoey Beltram（ジョイ・ベルトラム）自身のレーベルSTX Recordsよりリリースされた。90年代に活躍したテクノDJ Dave Clarke(デイヴ・クラーク)のmixにも収録されている。
 
 #### Liste des chansons
 ```md

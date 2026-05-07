@@ -13,7 +13,7 @@ title: Vitalic – 號角曲
 ---
 
 
-Pascal Arbez-Nicolas，也被稱為 Vitalic，是一位法國 DJ 和製作人。他以《La Rock 01》（2001）和首張專輯《OK Cowboy》（2005）等作品而聞名。
+VitalicことPascal Arbez-Nicolasは、フランスのDJ／プロデューサー。『La Rock 01』(2001)やデビューアルバム『OK Cowboy』(2005)などで知られている。
 
 《Fanfares》是電子音樂廠牌 Different 於 2004 年發行的電子音樂曲目。
 

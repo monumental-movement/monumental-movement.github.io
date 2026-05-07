@@ -9,13 +9,13 @@ permalink: /fr/wink-higher-state-of-consciousness/
 tags:
 - House
 - Acid
-title: Wink – État de conscience supérieur
+title: Wink – Higher State Of Consciousness
 ---
 
 
-Josh Wink, également connu sous le nom de Wink, est un DJ/producteur/remixeur de musique de danse électronique originaire de Philadelphie, aux États-Unis. Wink était un DJ pionnier de la scène rave américaine au début des années 1990, et "Higher State Of Consciousness" est l'une de ses chansons emblématiques.
+Winkこと、Josh Wink（ジョシュ・ウィンク）、USフィラデルフィア出身のエレクトロニックダンスミュージックのDJ/プロデューサー/リミキサー。Winkは、1990 年代初頭のアメリカのレイヴシーンの先駆的DJで、「Higher State Of Consciousness」は彼の代表曲のひとつ。
 
-Le remix de la face A est Dirty South et TV Rock. Le remix de la face B est Marco V.
+A面のremixはDirty SouthとTV Rock。B面のremixはMarco V。
 
 #### Liste des chansons
 ```md
