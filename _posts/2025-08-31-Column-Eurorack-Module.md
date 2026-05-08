@@ -153,3 +153,11 @@ Surgeonのライブセットアップは、最小限の機材で最大の表現�
 ユーロラックモジュラーシンセサイザーは、その柔軟性と拡張性により、アーティストに新たな創造の自由を提供しています。今後もその進化と共に、音楽シーンにおける役割はますます重要になっていくことでしょう。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c9Pa-ulcuUk?si=-5dRVWiCEPxc60Oz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

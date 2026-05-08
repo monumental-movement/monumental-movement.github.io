@@ -183,3 +183,14 @@ D&Bはロンドンやブリストルといった多民族都市で生まれ、�
 Drum & Bassは、単なるクラブ・ミュージックではない。それは都市に生きる人間たちの不安、希望、スピード、緊張、そして抵抗のビートである。
 
 この音楽は、分断された社会の中で人々をつなげ、動かし、考えさせる。ひとたびそのリズムに魅せられたなら、あなたの中にもD&Bが流れ始めるだろう。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/noLmuh3Jqic?si=HcbwXEvhUgEr2fHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

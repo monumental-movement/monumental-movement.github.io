@@ -212,3 +212,14 @@ color: #fff;
 ハードロックは単なる音楽体験ではなく、ライフスタイル全体を包み込む文化だ。  
 マッスルカーやハーレーダビッドソンが象徴する爆音とスピード、そしてアウトロー的な精神は、今もなお多くの人々を魅了し続けている。  
 ギターアンプの轟音とエンジンの咆哮が交差する場所に、ハードロックの魂は生き続けるのだ。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWlGFAc8jc4?si=Jk_38jpOk608rMhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

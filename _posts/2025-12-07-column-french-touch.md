@@ -287,3 +287,11 @@ Nu Disco の台頭、ポップ音楽への逆流、アナログメディア文�
 > **そして Nu Disco は、その精神を 21 世紀的に更新し続ける後継者である。**
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwfJJ89yzHg?si=xG-1l1xp00YdeBNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -343,3 +343,12 @@ Raja RamとSimon Posfordが人類に残した、意識の曼荼羅なのだ。
 
 > 「音は生まれ、消え、また還る。 それが、Shpongleするということ。」
 
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HPwvkufD9TM?si=_varYnlN27xJ2OY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

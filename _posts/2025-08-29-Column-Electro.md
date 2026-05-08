@@ -143,3 +143,14 @@ B. Planet Rock (Instrumental)
 
 エレクトロは、単なる一過性のジャンルではなく、電子音楽の発展における基盤となる存在である。ヒップホップ、テクノ、ハウス、エレクトロクラッシュ、さらには現代のエレクトロニック・ダンスミュージックに至るまで、そのDNAは脈々と息づいている。
 マシンと人間が共振するサウンド――それこそがエレクトロの核心であり、未来の音楽を予言し続ける所以なのだ。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CerbZmbFQgs?si=XBpdPn7-Fiu7KKIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
