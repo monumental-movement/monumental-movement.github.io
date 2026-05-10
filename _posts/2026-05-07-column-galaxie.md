@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Galaxie ― ケベックを駆け抜けた爆音ロックンロールの航路"
 author: mmr
 categories: [ Column ]
-tags: [ Quebec, Rock, Alternative Rock, Garage Rock ]
+tags: [ Québec, Rock, Alternative Rock, Garage Rock ]
 image: ../assets/images/column-galaxie.webp
 date: 2026-05-07 00:00:00 +0900
 ---

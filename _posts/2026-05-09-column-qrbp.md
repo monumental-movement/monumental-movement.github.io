@@ -8,6 +8,11 @@ image: ../assets/images/column-qrbp.webp
 date: 2026-05-09 00:00:05 +0900
 ---
 
+
+## ケベックの泥臭さを鳴らすバンド
+
+文：mmr｜テーマ：ケベック地方の土着文化と現代社会への違和感を、ブルーグラスとパンク精神で鳴らした Québec Redneck Bluegrass Project の軌跡
+
 <style type="text/css">
 
 table, td, th {
@@ -22,9 +27,6 @@ color: #fff;
 </style>
 
 
-## ケベックの泥臭さを鳴らすバンド
-
-文：mmr｜テーマ：ケベック地方の土着文化と現代社会への違和感を、ブルーグラスとパンク精神で鳴らした Québec Redneck Bluegrass Project の軌跡
 
 Québec Redneck Bluegrass Project、通称QRBPは、カナダ・ケベック州で結成されたブルーグラス／フォーク系バンドである。
 

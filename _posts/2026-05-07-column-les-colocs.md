@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Les Colocs ─ ケベックの路上から生まれた、共同体としての音楽"
 author: mmr
 categories: [ Column ]
-tags: [ Quebec, Folk Rock, Alternative Rock ]
+tags: [ Québec, Folk Rock, Alternative Rock ]
 image: ../assets/images/column-les-colocs.webp
 date: 2026-05-07 00:00:04 +0900
 ---
