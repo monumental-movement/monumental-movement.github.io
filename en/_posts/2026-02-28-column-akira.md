@@ -56,7 +56,7 @@ The original manga ""AKIRA'' began serialization in 1982, and the story unfolds 
 
 The story is set in Neo Tokyo in 2019. Military experiments, anti-government demonstrations, motorcycle gangs, and the development of supernatural powers. It depicts the collapse and rebirth of a city, strongly reflecting the atmosphere at the end of the Cold War.
 
-The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental and religious sound than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
+The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental, religious sound rather than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
 
 ### Positional relationship with Cyberpunk
 
@@ -100,7 +100,7 @@ It was a sound that belonged neither to the past nor to the future.
 
 <div class="mermaid">
 flowchart TD
-A[ethnic percussion instruments] --> D[acoustic layered structure]
+A[ethnic percussion instruments] --> D[Acoustic layered structure]
 B[Chorus/Statement] --> D
 C[synthesizer] --> D
 D --> E[A sense of the future that transcends time axis]
@@ -149,7 +149,7 @@ Furthermore, in recent years, the resurgence of games and anime has strengthened
 
 Amid this resurgence, AKIRA is once again referred to as the "completed form" rather than the "original."
 
-> AKIRA was not at the forefront of its time, but rather a work that repeatedly confronted the times.
+> AKIRA was not at the forefront of its time, but rather a work that repeatedly challenged its times.
 
 ---
 

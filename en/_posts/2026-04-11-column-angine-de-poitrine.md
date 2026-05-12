@@ -101,7 +101,7 @@ This ""time lag between formation and establishment'' shows that their music was
 
 Although Angine de Poitrine's music is based on math rock, it is distinctive in that it actively incorporates microtonal elements. It uses pitches that deviate from the standard 12-temperament temperament and non-standard tuning, creating a unique instability.
 
-In terms of rhythm, complex time signatures and polyrhythms are often used, and the structure has both regularity and disruption. As a result, the listener's expectations are constantly being betrayed.
+In terms of rhythm, complex time signatures and polyrhythms are often used, and the music has a structure that is both regular and disrupted at the same time. As a result, the listener's expectations are constantly being betrayed.
 
 <div class="mermaid">
 flowchart LR
@@ -113,7 +113,7 @@ D --> E[tense sound]
 
 Khn de Poitrine also uses a custom-built double neck guitar, which allows for expanded expression both in range and structure.
 
-> Deviations in pitch and rhythm create unique tension
+> Deviations in pitch and rhythm create unique tension.
 
 ---
 
@@ -143,7 +143,7 @@ This anonymity functions as a device that increases the purity of music.
 
 ### "Vol. 1" and international recognition
 
-In 2024, they will release their debut album "Vol. 1". Through this work, his previously fragmented activities were presented as a single form.
+In 2024, they will release their debut album "Vol. 1". This work presented his previously fragmented activities as a single form.
 
 Furthermore, in 2026, a live recording on radio station KEXP will be widely shared online, attracting international attention. This exposure led to tours in Europe and North America, and the scale of their activities quickly expanded.
 
@@ -218,5 +218,14 @@ Their activities, which revolve around anonymity and experimentation, indicate a
 
 > The very feeling of tension can be the core of music
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ATAuer2IBV4?si=7SWSBAG6Yue387cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

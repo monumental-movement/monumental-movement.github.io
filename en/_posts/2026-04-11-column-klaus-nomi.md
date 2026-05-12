@@ -112,7 +112,7 @@ These works are a mix of pop songs and classical arias, and are characterized by
 * "Cold Song"
 * "Simple Man"
 
-In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop direction.
+In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop production.
 
 > A unique musical language was created through the coexistence of classical quotations and pop structures.
 
@@ -146,7 +146,7 @@ He prioritized artistic expression over commercial success, an attitude that res
 
 ---
 
-## Detailed analysis of representative works: Voices and Crystals of Deformity
+## Detailed analysis of representative works: Voices and Crystals of Deformities
 
 ### "Total Eclipse"
 

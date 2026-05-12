@@ -15,7 +15,7 @@ title: '[Column] Reggae × Hip-Hop: From sound systems to world cities—a histo
 
 
 
-## From sound systems to global standards, the genealogy of bass culture that crosses borders
+## From sound systems to world standards, the genealogy of bass culture that crosses borders
 
 Text: mmr｜Theme: The back and forth of rhythm connecting Jamaica and the Bronx, and the cultural history of expansion into global cities
 
@@ -78,11 +78,11 @@ Hip-hop was a reimagining of Jamaican sound system culture in an urban context.
 
 ---
 
-### Digitalization and fusion: 1980s-90s
+### Digitization and fusion: 1980s-90s
 
 In 1985, **Under Mi Sleng Teng** was released. This song, which used presets on the Casio MT-40, ushered in the digital dancehall era.
 
-Around the same time, sampling culture expanded in the United States, and hip-hop entered the realm of sonic experimentation. In the 1990s, **Shabba Ranks** became an international hit and the fusion of dancehall and rap progressed.
+Around the same time, sampling culture expanded in America, and hip-hop entered the realm of sonic experimentation. In the 1990s, **Shabba Ranks** became an international hit and the fusion of dancehall and rap progressed.
 
 The appearances of **Busta Rhymes**, who has a Jamaican flow, and **The Notorious B.I.G.**, which has a Caribbean intonation, are symbolic of this.
 

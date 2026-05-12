@@ -17,7 +17,7 @@ title: '[Column] Shochu grown by sound: The harmony of fermentation that resonat
 ## Prologue: On the island of the sound of waves and shochu
 
 
-Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Explore its scientific basis and cultural background
+Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Exploring its scientific basis and cultural background
 
 
 Amami Oshima, the farthest point of the Nansei Islands.
@@ -266,7 +266,7 @@ C --> C2[Mashira Sake Brewery<br>🌾 Traditional fermentation/silence]
 D[Okinoerabu Island] --> D1[Okinoerabu Sake Brewery<br>🌊 Ocean current aging]
 
 E[Yoron Island] --> E1[Arimura Sake Brewery<br>🌺 Traditional storage only]
-E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024]
+E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI acoustic test from 2024]
 
 </div>
 

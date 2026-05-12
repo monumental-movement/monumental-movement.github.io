@@ -24,7 +24,7 @@ Ian Pooley was born in Mainz, Germany in 1973. His parents were from England, an
 
 From an early age, black music such as jazz, soul, and funk was played at home rather than rock. Early on, he developed an ear for paying attention not only to rhythmic dynamics, but also to chord progressions and performance intervals. In particular, the electric bass lines and the spatial expansion created by the chords became important foundations for later productions.
 
-As he entered his teens, he became strongly attracted to dance music that was expanding at the time, such as hip-hop, electro, and acid house. What fascinated him here was not the star quality or the lyrics, but the ""structure'' of the track itself. For Pooley, the subtle changes that occur through repetition and the plasticity of music that is rearranged by DJs presents a new way of looking at music.
+As he entered his teens, he became strongly attracted to dance music that was expanding at the time, such as hip-hop, electro, and acid house. What fascinated him here was not the star quality or the lyrics, but the ""structure'' of the track itself. For Pooley, the minute changes that occur through repetition, and the plasticity of music that is rearranged by DJs, presents a new way of looking at music.
 
 > The multilayered musical roots consistently lend intellectual depth to Ian Pooley's work.
 

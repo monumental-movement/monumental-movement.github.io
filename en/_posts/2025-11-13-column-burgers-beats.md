@@ -105,10 +105,10 @@ Early introduction of the concept of "music supporting taste."
 ## Chapter 5 Redefining the digital age: "Sound brand power" conveyed in 5 seconds (2010-2020s)
 
 ### 5-1 Reconstruction of sound logo
-- McDonald's: Universal pentatonic jingle (supervised by Pharrell, Hiroshi Kawabe)
+- McDonald's: Universal pentatonic jingle (supervised by Pharrell and Hiroshi Kawabe)
 - Change tempo/key arrangement for each country
 
-### 5-2　Trend of SNS x artist collaboration
+### 5-2 Trends in SNS x artist collaboration
 
 | Year | Brand | Artist | Song title/characteristics |
 |----|------------|----------------|-------------|
@@ -162,5 +162,13 @@ timeline
 
 Fast food music has evolved as a "culture that can be enjoyed with the ears."
 The sound of fried potatoes, the sound of wrapping paper, the jingle - all of these are the soundtrack of modern society.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWu0Uib50aY?si=cl9CTxlvOdSIBBMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

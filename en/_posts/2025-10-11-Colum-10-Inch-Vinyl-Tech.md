@@ -19,7 +19,7 @@ title: '[Column] 10-inch record technology supplement: The truth about groove wi
 ## 10-inch design concept: precision in the medium of format
 
 
-Text: mmr｜Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
+Text: mmr | Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
 
 
 The physical structure of a record embodies the philosophy of the musical format in its purest form.
@@ -180,7 +180,7 @@ flowchart TD
     A1955["1955: 12-inch LP became standard"]
     A1970["1970s: 45RPM re-evaluation for DJ use"]
     A2000["2000s: 10-inch re-release as limited edition/art edition"]
-    A2020["2020s: Movement of reexamination by audiophiles"]
+    A2020["2020s: Movement of re-examination by audiophiles"]
 
     A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|follow| G
+    S -->|Follow| G
     G --> L
     G --> V
     G --> D

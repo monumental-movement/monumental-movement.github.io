@@ -195,7 +195,7 @@ was raised as a theme.
 
 In this context, environmental music went beyond mere background music and became an element that shaped the impression of the space.
 
-## ● 4-2. Connection with "comfort functions" of home appliances
+## ● 4-2. Connection with "comfort features" of home appliances
 
 Takashi Kokubo's music that comes with air purifiers is a symbol of this.
 Home appliances x environmental acoustics
@@ -253,7 +253,7 @@ This is because it is extremely modern.
 <div class="mermaid">
 graph LR
     MUJI[MUJI<br>Environmental music project] --> YH[Hiroshi Yoshimura]
-    YH --> JP[Establishment of 80's environmental music]
+    YH --> JP[Establishment of 80s environmental music]
     MT[Midori Takada] --> JP
     TK[Takashi Kokubo] --> JP
     INO[Inoyama Land] --> JP
@@ -270,11 +270,11 @@ Japanese environmental music is not just "healing" or "background sound."
 **Sound art created by urban culture, design, and philosophy of life**
 It is.
 
-- Intermediate field between art and music
+- Intermediate area between art and music
 - Response to urbanization
 - Lifestyle culture and home appliance technology
 - Synthesizer innovation
-- Cooperation with spatial design
+- Collaboration with spatial design
 
 All of these were present in Japan in the 1980s.
 

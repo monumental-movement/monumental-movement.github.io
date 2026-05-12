@@ -39,17 +39,17 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Prehistory: From experimental electronic music to personal studio
+## 第1章　前史：実験電子音楽から個人スタジオへ
 
 ### Foundation of postwar electronic music
 
-After World War II, research into composition using purely electronic sounds was carried out in Germany, centered on the Cologne Electronic Music Studio. Meanwhile, in France, musique concrète, which uses environmental and concrete sounds as its materials, developed. These trends gave later electronic musicians the concept of ""constructing sound itself.''
+第二次世界大戦後、ドイツではケルン電子音楽スタジオを中心に、純電子音による作曲研究が進められた。一方フランスでは、環境音や具体音を素材とするミュジーク・コンクレートが発展した。これらの潮流は、後の電子音楽家に「音そのものを構築する」という概念を与えた。
 
 In the 1960s, modular synthesizers appeared. It became possible to change pitch, timbre, and rhythm through voltage control, allowing composers to manipulate sound in real time. This technological progress supported the establishment of the Berlin School, which is characterized by long structures and repetitive progressions.
 
 ### Point of contact between rock and avant-garde
 
-At the same time, a movement to fuse rock and avant-garde art was gaining momentum in West Germany. In response to British and American rock, groups that actively incorporated improvisation, repetition, and electronic sounds emerged. The context of what would later be called ""krautrock'' and the Berlin School electronic music developed in a geographically and humanly overlapping manner.
+At the same time, a movement to fuse rock and avant-garde art was gaining momentum in West Germany. In response to British and American rock, groups that actively incorporated improvisation, repetition, and electronic sounds emerged.後に"クラウトロック"と呼ばれる文脈と、ベルリン派電子音楽は地理的・人的に重なり合いながら発展した。
 
 ---
 
@@ -81,7 +81,7 @@ The most distinctive element of the Berlin School is the repeated sound pattern 
 
 ### Long format
 
-While conventional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
+While traditional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
 
 ### Tone design
 
@@ -167,7 +167,7 @@ In order to accurately understand the Berlin School, it is necessary to organize
 
 ### Before Kraftwerk
 
-Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock and academic electronic music.
+Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock, and also a release from academic electronic music.
 
 ### After Kraftwerk
 

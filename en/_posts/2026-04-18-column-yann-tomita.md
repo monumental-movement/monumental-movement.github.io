@@ -68,7 +68,7 @@ Also, since the field of percussion emphasizes timbre and texture rather than pi
 
 ### Transformation brought about by digital devices
 
-In the 1980s, the appearance of samplers brought about major changes in music production. Yan Tomita was one of the first to notice this new technology, and saw it not as a mere tool, but as a device that could change the concept of music.
+In the 1980s, the appearance of samplers brought about major changes in music production. Jan Tomita was one of the first to notice this new technology, and saw it not just as a tool, but as a device that could change the concept of music.
 
 Sampling is the act of recording existing sound and reusing it in a different context. This technology shifts the focus of music from ""performance" to ""editing." Yan Tomita actively accepted this change and deepened his technique of sound collage.
 
@@ -106,7 +106,7 @@ Doopees' works combine radio drama-like narratives, fragmented sounds, and sampl
 
 This method is directly connected to Yang Tomita's sampling philosophy. Sound is not simply arranged as a musical element, but is treated as an element that composes a story or situation. In other words, music and storytelling are integrated on the same level.
 
-Moreover, the pop surface of Dopeees does not hide his experimentalism, but rather serves as a device to highlight it. The project's uniqueness lies in the precise placement of sound fragments behind familiar melodies and voices.
+Also, the pop surface of Dopeees does not hide his experimentalism, but rather serves as a device to highlight it. The project's uniqueness lies in the precise placement of sound fragments behind familiar melodies and voices.
 
 >Doopees was an attempt to reconstruct the sound and story while borrowing from pop formats.
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Model diagram of musical structure
+## Model diagram of music structure
 
 ### Cycle of sampling and sound generation
 
@@ -217,7 +217,7 @@ Furthermore, the perspective of ""expanding consciousness through music"' presen
 
 Looking back on Yan Tomita's activities, he has consistently pursued the question ""What is sound?'' Through the series of processes of performance, recording, generation, editing, and playback, sound is shown to be an ever-changing entity.
 
-Although his different activities, such as A.S.L., Doopees, and his solo works, have different forms, they are all rooted in the same philosophy. Sound is a material, a phenomenon, a memory, and an experience.
+Although his different activities, such as A.S.L., Dopeees, and his solo works, have different forms, they are all rooted in the same philosophy. Sound is a material, a phenomenon, a memory, and an experience.
 
 The fusion of modular synths and sampling, and the perspective of their effects on consciousness, continue to be an important foundation in current music production and sound art.
 

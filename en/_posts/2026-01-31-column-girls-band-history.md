@@ -152,7 +152,7 @@ In America, there has long been a sense of social discomfort towards women ownin
 
 During the alternative rock era of the 1990s, girl bands became genre-crossing entities, moving freely between rock, punk, and indie. As a result, all-female bands began to be recognized as one of many types of bands, rather than as something special.
 
-> The North American scene was a testing ground where the two extremes of commerce and DIY coexisted.
+> The North American scene was a testing ground where the two extremes of commercial and DIY coexisted.
 
 ---
 

@@ -91,7 +91,7 @@ The precision technology of Toyo Kasei and other domestic press plants shows its
 
 In recent years, an increasing number of artists have chosen 10-inch discs, such as Haruomi Hosono"s [10-inch reissue] (https://amzn.to/4nMnl7a), Tabito Nanao [""Little Melody"] (https://amzn.to/46SV7QE), and Shintaro Sakamoto [""God of Disco"] (https://amzn.to/4oaCpen). It"s not just nostalgia, but an act of redesigning "listening time."
 
-"It's short, but intense."
+"It's short, but deep."
 The Japanese aesthetic of "ma" naturally blends into the 10-inch format.
 
 ---
@@ -110,7 +110,7 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 
 ---
 
-### Final Chapter: Time in the palm of your hand, 10-inch speaks about the "density of sound"
+### Final chapter: Time in the palm of your hand, the 10-inch ""density of sound''
 
 10 inches is incomplete yet complete.
 It's not a long story or a short story, but a "short story" format.

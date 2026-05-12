@@ -21,7 +21,7 @@ title: '[Column] Prime Minister Sanae Takaichi and Metal: Iron Will and Politics
 Text: mmr｜Theme: A politician who loves heavy metal—Sanae Takaichi. How has her musical sensibility given a steely resonance to her words, policies, and ideas?
 
 
-Sanae Takaichi is often described as a ""conservative," ""strong-minded," and ""a fighting woman." However, at its root lies the impact of the heavy metal music he heard when he was young. Metal is a music of passion and construction, an art that confines passion within order. Her school band played songs by Black Sabbath and Deep Purple, and she also likes to listen to bands like Judas Priest, and these sensibilities form the ""acoustic skeleton" of her political language and cultural outlook.
+Sanae Takaichi is often described as a ""conservative," ""strong-minded," and ""a fighting woman." However, at its root lies the impact of the heavy metal music he heard in his youth. Metal is a music of passion and construction, an art that confines passion within order. Her school band played songs by Black Sabbath and Deep Purple, and she also likes to listen to bands like Judas Priest, and these sensibilities form the ""acoustic skeleton" of her political language and cultural outlook.
 
 ---
 
@@ -55,7 +55,7 @@ Just as metal is "an art that turns chaos into order," Takaichi's speech resonat
 
 ---
 
-## Chapter 2: Building the Voice——The Politics of Metallic Voice
+## Chapter 2: Building a Voice——The Politics of Metallic Voice
 
 For politicians, their ""voice"' is an instrument that embodies their ideas. Takaichi"s vocalization is particularly low and stable among female politicians. Acoustically, it is based on the mid-low range (approximately 170-180Hz), with little pitch fluctuation, reminiscent of the "steel control" in metal vocals.
 
@@ -114,7 +114,7 @@ flowchart TD
 
 </div>
 
-Within this structure, Mr. Takaichi plays with ""intellect that controls passion.''
+Within this structure, Takaichi plays with ""intellect that controls passion.''
 
 ---
 

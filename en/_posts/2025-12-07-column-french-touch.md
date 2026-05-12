@@ -22,7 +22,7 @@ Text: mmr｜Theme: How the reappraisal of 2000s French house connected to Nu Dis
 About analog synths, record culture, and filter house techniques
 
 In the late 2020s, **French Touch** (French house) is being reevaluated in both club and internet culture. In terms of DJ performances, songs like Stardust"s ""Music Sounds Better With You" and Cassius' ""1999" are moving the younger crowd again, and Daft Punk"s early works are finding new audiences through vinyl reissues.
-Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, the roughness of sampling, and the texture of vinyl lips*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
+Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, roughness of sampling, and vinyl lip texture*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
 
 This phenomenon is not just nostalgia.
 Rather, it is precisely because the digital environment has become completely pervasive that
@@ -189,7 +189,7 @@ French Touch's filter sweep relied on analog harmonic changes.
 
 ### ◆ ② Record culture: Music production based on sampling
 Much of French Touch begins with vinyl samples.
-Here lies the ""joy of discovering'' music**.
+Here is the ""joy of discovering'' music**.
 It was the atmosphere of the time when club culture and record culture were directly connected.
 Digging records itself was the gateway to creation.
 
@@ -292,5 +292,13 @@ In fact, it is thought that this re-evaluation will accelerate further in the fu
 
 > **French Touch is music that redefines "analog magic" in the digital age. **
 > **And Nu Disco is its successor, keeping that spirit updated for the 21st century. **
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwfJJ89yzHg?si=xG-1l1xp00YdeBNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -55,6 +55,23 @@ Rubber O Cement focuses on activities in these "non-institutional spaces" and de
 
 ---
 
+
+## Members and roles
+
+### Core in a variable structure
+
+Rubber O Cement is a fluid collective, and the concept of fixed members is vague, but Grux and Mick Goldwater are known as the core of their activities.
+
+Grux is known for his visually and physically impactful performances, collapsing the boundaries between music, objects, costumes, and bodies. During the actual performance, the performers wear oddly shaped masks and structures, and treat the instruments themselves as part of their extended bodies. As a result, the act of performing is not just the production of sound, but also a visual event.
+
+Meanwhile, Mick Goldwater is heavily involved in the acoustics, responsible for designing the flow of sound throughout the space using electronics, feedback, and processed signals. His approach is distinctive in that it emphasizes the state of the sound rather than the musical structure.
+
+The relationship between the two is not the traditional division of roles between performer and accompanist, but functions as ""two forces that control the space from different aspects.''
+
+> The core of Rubber O Cement is the intersection of physicality and acoustic design.
+
+---
+
 ## Musical approach and structure
 
 Rubber O Cement"s sound may seem chaotic at first glance, but it"s actually based on a few clear principles.
@@ -124,6 +141,37 @@ timeline
 </div>
 
 > Their activities are in sync with changes in the overall scene.
+
+
+---
+
+### Fusion of sight and sound
+
+As evidenced by the actual performance images, Rubber O Cement places great importance on visual constructs. Labyrinth-like sets, hand-drawn graphics, and oddly shaped attachments are not mere decorations, but elements that function on the same layer as the sound.
+
+Grux"s wearable objects are not only sources of sound, but also interfere with space as visual noise. Mick Goldwater"s electronic sounds, on the other hand, function as ""invisible structures'' that fill the space.
+
+<div class="mermaid">
+graph TD
+A[Grux] --> C[body/object]
+B[Mick Goldwater] --> D[Electronic sound/spatial sound]
+C --> E[visual noise]
+D --> F[acoustic structure]
+E --> G[comprehensive experience]
+F --> G
+</div>
+
+> Vision and sound are not independent and are perceived as the same phenomenon.
+
+---
+
+### Expandability as a collective
+
+An important feature of Rubber O Cement is its ability to expand by always incorporating external participants, even though it is centered around these core members. Different players and performers are added to each event, and a different structure is generated each time.
+
+Due to this structure, Rubber O Cement does not have a fixed style, but rather functions as a project premised on change itself. Grux and Mick Goldwater exist as the "axis" that controls that change.
+
+> Rubber O Cement is defined by relationships, not members.
 
 ---
 

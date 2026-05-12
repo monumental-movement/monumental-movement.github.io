@@ -187,7 +187,7 @@ In 1994, Mariah Carey's "All I Want For Christmas Is You" became a worldwide hit
 * Increase in online live and virtual events due to the coronavirus pandemic
 * Commercial strategy focuses on distribution and SNS, accelerating re-evaluation of old songs
 
-### Chronology/Illustrations (1990s-2020s)
+### Chronology/Illustration (1990s-2020s)
 
 
 <div class="mermaid">

@@ -113,7 +113,7 @@ A 20-minute long song that figuratively depicts the urban chaos in Lagos.
 
 #### Late 1970s: Political peak
 - **"Expensive Shit" (1975)**
-A masterpiece that takes advantage of the false marijuana conviction case by the police. Includes representative song "Water No Get Enemy".
+A masterpiece that takes advantage of the false marijuana conviction case by the police. Contains the representative song "Water No Get Enemy".
 - **Zombie (1977)**
 A provocative work that criticizes the military by calling them "zombies." As a result, it became the trigger for the attack on Kalakuta Republic.
 - **Sorrow Tears and Blood (1977)**

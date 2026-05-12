@@ -54,7 +54,7 @@ Through his work with COUM Transmissions, Genesis developed a strong interest in
 
 Throbbing Gristle was formed in 1976 and shocked the music world in the late 1970s with their noise, industrial music, and guerilla-style live performances. However, in 1981, the group disbanded. Shortly after, Genesis began a new musical and artistic project with Peter Christopherson and Alex Fergusson. That's Psychic TV.
 
-Psychic TV was designed not just as a music band, but as a ""multimedia collective'' that integrates music, video, performance, and occultism, and from the beginning had a structure that emphasized experimentation and provocation.
+Psychic TV was not just a music band, but was designed as a ""multimedia collective'' that integrated music, video, performance, and occultism, and from the beginning had a structure that emphasized experimentation and provocation.
 
 ---
 
@@ -68,7 +68,7 @@ Early music was characterized by innovation that transcended traditional genre b
 
 #### 3.2 Live performances and video art activities
 
-Psychic TV was also innovative in its live performance. Many of the live performances used video equipment and multi-screens to provide the audience with a challenging and ritualistic experience. An attempt was made to reconstruct the live performance itself as a kind of ritual space, not only through music but also through images and physical expression.
+Psychic TV was also innovative in its live performance. Many of the live performances used video equipment and multi-screens to provide the audience with a challenging and ceremonial experience. An attempt was made to reconstruct the live performance itself as a kind of ritual space, not only through music but also through images and physical expression.
 
 #### 3.3 Birth of Thee Temple ov Psychick Youth (T.O.P.Y.)
 

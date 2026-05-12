@@ -65,7 +65,7 @@ Initially known as destructive noise rock, it gradually shifted to a structure b
 
 Due to its extreme volume and vibration, sound acts not only as an auditory sensation but also as a physical sensation.
 
-#### Trance by repetition
+#### Trance through repetition
 
 Due to the long repetition, the sense of time becomes diluted and the audience is led into a trance state.
 
@@ -176,11 +176,11 @@ Sounds exist not as phrases, but as phenomena that continue to overlap.
 
 The last song on the album, ""Mantral,'' is not only a complete studio work, but it can also be understood more three-dimensionally by tracing its origins.
 
-The song originally derives from a motif played during the Boredoms' period, but it has never been released by Boredoms.
+This song originally derives from a motif played during the Boredoms' period, but it has never been released by Boredoms.
 
 In other words, ""Mantral'' can be said to be a reconstruction of the repetitive phrases and trance structure that were born in the Boredoms scene in his solo work.
 
-Furthermore, this melody can also be found on OOIOO's album ""Mountain Book''. Here, the same melodic fragments produced by Seiichi Yamamoto are developed in a different arrangement and context.
+Furthermore, this melody can also be heard on OOIOO's album ""Mountain Book''. Here, the same melodic fragments produced by Seiichi Yamamoto are developed in a different arrangement and context.
 
 This fact is important.
 
@@ -270,7 +270,7 @@ By being exposed to a variety of performances and unorganized sounds on a daily 
 
 The act of nurturing the next generation not only influences others, but also creates a cycle in which the depth of one's own sound continues to be updated.
 
-> Music is an individual's expression, but at the same time it is a phenomenon that is nurtured by the place.
+> Music is an individual's expression, but at the same time, it is also a phenomenon that is nurtured by the place.
 
 ---
 

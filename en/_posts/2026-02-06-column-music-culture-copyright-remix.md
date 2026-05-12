@@ -95,7 +95,7 @@ In music sampling lawsuits, there has been an increase in the number of cases in
 
 In the EU, the focus is on directives aimed at harmonizing systems among member countries. While copyright protection is relatively strong, there are clear exceptions regarding parody and quotation.
 
-The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are handled. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
+The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are treated. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
 
 > EU law systematically seeks a balance between market integration and cultural protection.
 

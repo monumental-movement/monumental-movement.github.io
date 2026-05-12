@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Establishment of NTS Radio and broadcasting culture
+## Chapter 1: Establishment of NTS Radio and broadcasting culture
 
 NTS Radio is an internet radio based in London that broadcasts DJ programs and live performances 24 hours a day. Broadcast content is wide-ranging, including club music, experimental music, folk music, and improvisational performances.
 
@@ -192,7 +192,7 @@ When images exist, physical movements and spatial configurations have meaning. W
 
 ## Supplementary Chapter 6 Managing improvisation
 
-Improvisation is not chaotic. Live streaming artists design improvisations based on conditions such as delivery time, number of listeners, and technical constraints.
+Improvisation is not chaotic. Live streaming artists design improvisations based on conditions such as streaming time, number of listeners, and technical constraints.
 
 Unknownness appears as controlled uncertainty rather than pure chance.
 

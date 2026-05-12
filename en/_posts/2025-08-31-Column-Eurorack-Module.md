@@ -19,7 +19,7 @@ title: '[Column] Changes in the Eurorack modular synthesizer and its influence o
 
 Text: mmr｜Theme: Changes in the Eurorack modular synthesizer and its influence on the music scene
 
-The Eurorack modular synthesizer was invented by German engineer Dieter Doepfer in the early 1990s. Starting from his A-100 system, by standardizing module sizes and power supply standards, a system was born that allowed modules from different manufacturers to be freely combined.
+The Eurorack modular synthesizer was invented by German engineer Dieter Doepfer in the early 1990s. Using his A-100 system as a starting point, by standardizing module sizes and power supply standards, a system was born that allowed modules from different manufacturers to be freely combined.
 
 Smaller and more affordable than the traditional Moog and Bucla, Eurorack has gained the support of many musicians and enthusiasts, and has now developed into a large ecosystem with over 300 manufacturers participating around the world.
 
@@ -159,5 +159,13 @@ Surgeon's live setup is characterized by the pursuit of maximum expression with 
 ### From a small box to infinite sound
 
 Eurorack modular synthesizers offer artists new creative freedom with their flexibility and expandability. As it continues to evolve, its role in the music scene will become even more important.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c9Pa-ulcuUk?si=-5dRVWiCEPxc60Oz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

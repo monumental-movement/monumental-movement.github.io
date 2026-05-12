@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-# II. 世界篇：ギターが革命を鳴らした瞬間
+# II. World Edition: The moment when the guitar started a revolution
 
 ## 1. Rock flashpoint (1950s-60s)
 

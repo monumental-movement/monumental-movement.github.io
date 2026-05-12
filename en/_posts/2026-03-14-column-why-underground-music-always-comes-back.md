@@ -202,7 +202,7 @@ In other words, underground culture is born as a **reaction** of mainstream cult
 
 This cycle is repeated over and over again.
 
-> The resurgence of the underground is not an accident, but a natural reaction to mainstream culture.
+> The resurgence of the underground is not a coincidence, but a natural reaction to mainstream culture.
 
 ---
 

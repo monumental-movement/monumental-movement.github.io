@@ -87,7 +87,7 @@ More than six tape recorders were running at the same time, making the studio fe
 Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
-> "I chopped up the sounds and reconstructed them. It was the same act as composing."
+> "I chopped up sounds and reconstructed them. It was the same act as composing."
 > — Teo Macero
 
 His method was similar to musique concrète, but also connected to the free improvisation of jazz.
@@ -209,7 +209,7 @@ flowchart TD
 </div>
 
 The most important step in this process is the stage called ""**Blueprint = Edited Score**''.
-Macero designed the structure of the song by handwriting the time code and content on each fragment.
+Macero designed the song's structure by handwriting the time code and content on each fragment.
 It was an act of composing like an architect designing a space.
 
 ---
@@ -470,7 +470,7 @@ Macero's editing was not just "post-processing" but a redefinition of the art of
 He did not draw a clear line between performance and editing. Rather, that gap was the source of creativity.
 
 In modern music production, the acts we unconsciously perform, such as ""cut and loop," ""automation," and ""remix,'' are all extensions of Macero's philosophy.
-His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thinking.
+His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thought.
 
 > "Editing is putting scissors in time. And the cut time becomes new music."
 > — Teo Macero

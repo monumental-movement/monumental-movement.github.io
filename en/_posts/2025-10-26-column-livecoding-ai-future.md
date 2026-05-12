@@ -99,7 +99,7 @@ The relationship between the two is not one of "dominance and subordination," bu
 
 ---
 
-## Chapter 5: Example of collaboration between AI and Live Coding
+## Chapter 5: Examples of collaboration between AI and Live Coding
 
 - **AI-DJ Experiment (2023, Berlin CTM Festival)**
 A human Live Coder plays on TidalCycles, and AI analyzes the BPM, harmony, and spatial arrangement.

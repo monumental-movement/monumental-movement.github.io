@@ -100,7 +100,7 @@ The very structure of the instrument forms a sonic world that avoids clear resol
 ## Christianization and transformation of dark mythology
 
 
-Even after the Nordic world became Christian, old myths and animism did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and they slip into folk songs.
+Even after the Nordic world became Christian, old myths and animist beliefs did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and they slip into folk songs.
 
 Christian concepts such as the devil, hell, and sin were combined with existing dark entities to form new narratives. As a result, Nordic folk takes on a double darkness.
 

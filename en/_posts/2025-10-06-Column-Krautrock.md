@@ -74,7 +74,7 @@ He ended up becoming a member of the band.
 
 Their music is a "fluid rhythm" that rejects structure.
 Especially on the album "Tago Mago" (1971), the songs were rearranged through editing.
-This gave birth to the concept that the recording tape itself is an instrument.
+This gave rise to the concept that "recording tape itself is an instrument."
 Shukai's editing techniques were similar to later hip-hop sampling.
 
 > "Rhythm rules time. But improvisation frees you from time."
@@ -136,7 +136,7 @@ The punk, industrial, and sampling cultures that followed were all based on Faus
 
 ---
 
-## Chapter 5: Kraftwerk - The Origins of Techno and Inorganic Beauty
+## Chapter 5: Kraftwerk - The origins of techno and inorganic beauty
 
 Düsseldorf.
 The straight roads and cold texture of the industrial city became music.

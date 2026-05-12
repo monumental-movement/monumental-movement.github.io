@@ -14,7 +14,7 @@ title: '[Column] The Golden Age of UK Techno'
 
 ## The golden age of UK techno: a record of the sounds and struggles of the 1990s
 
-Text: mmr｜Theme: UK techno culture
+Text: mmr｜Theme: UK Techno Culture
 
 
 <hr>
@@ -71,7 +71,7 @@ Founded by Regis. Together with Surgeon and others, he defined the ""Birmingham 
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-A sub-label of Mute Records. With artists such as Luke Slater, Speedy J, and Laurent Garnier, they have spread not only to the UK but also to the techno scene throughout Europe.
+Mute Recordsのサブレーベル。Luke Slater、Speedy J、Laurent Garnierなどを抱え、UKのみならずヨーロッパ全体のテクノシーンにも波及。
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 
@@ -188,4 +188,4 @@ Techno created poetry from the reverberations of industry, presenting an aesthet
 
 🔗 [[Column] Luke Slater: The pioneer of British techno and his musical world](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)

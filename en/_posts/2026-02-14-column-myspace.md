@@ -90,7 +90,7 @@ The user-generated word-of-mouth and comment culture went beyond simply exchangi
 
 > Myspace was not only a platform for music, but also a platform that supported users' self-expression and culture formation.
 
-Myspace was more than just a place to share music; it also served as a canvas for individuals to express their culture and hobbies. The customizability of profile pages was an important element that reflected users' aesthetic sense and tastes. It was possible to select background images, colors, fonts, and even decorate using HTML and CSS, allowing artists to present a visual worldview along with music.
+Myspace was more than just a place to share music; it also served as a canvas for individuals to express their culture and hobbies. The customizability of profile pages was an important element that reflected users' aesthetic sense and tastes. It was possible to select background images, colors, fonts, and decorate using HTML and CSS, allowing artists to present a visual worldview along with music.
 
 Communities rooted in specific genres and regions have also been actively formed. Users who shared the same hobbies and values, such as emo, punk, indie rock, and hip-hop, connected with each other through friend requests and comments, and an online scene was built. This was a global network that transcended geographical constraints, unlike traditional music scenes that were limited to certain regions. Live events and self-produced CDs were also actively announced, and a culture was formed in which online communities were directly connected to offline activities.
 

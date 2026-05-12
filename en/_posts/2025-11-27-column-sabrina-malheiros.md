@@ -16,7 +16,7 @@ title: '[Column] Sabrina Malheiros: The brilliance of modern Brazilian soul - Th
 
 
 
-## **Introduction**
+## **イントロダクション**
 
 Text: mmr｜Theme: How Brazilian music has evolved and been reconnected since the 21st century, centering on the musical history of Sabrina Mallheiros, her relationship with Azimuth, the evolution of her work, and the symbolism of "Clareia."
 
@@ -46,7 +46,7 @@ color: #fff;
 ## **1. Early life and influence of Azimuth**
 
 Sabrina Mallheiros is from Rio de Janeiro.
-His father is **Alex Malheiros**, the bassist for Azimuth (later also known as Azymuth). Azimuth's music, which she has been exposed to since childhood, freely moves between funk, jazz, samba, and fusion.
+父はAzimuth（後にAzymuth表記でも知られる）のベーシスト **Alex Malheiros**。 Azimuth's music, which she has been exposed to since childhood, freely moves between funk, jazz, samba, and fusion.
 
 Azimuth has been popular worldwide since the 1970s, and has been sampled by a wide range of artists from club jazz, future jazz, house, and hip-hop. The ""floating feeling", ""soft groove", and ""cosmic chord feeling"' of live performance are strongly inherited by Sabrina"s works.
 
@@ -88,7 +88,7 @@ This song, which can be said to be a symbol of the album, combines Sabrina's sof
 
 ### - Bridge with the UK created by Henry Wu, 2000 Black, IG Culture -**
 
-The enthusiasm that Sabrina's music received from the UK scene can be said to be a symbol of the "new reappraisal of Brazilians" in the late 2010s.
+The enthusiastic attention that Sabrina's music received from the UK scene can be said to be a symbol of the "new Brazilian reappraisal" of the late 2010s.
 In particular, the remix of "Clareia" by the following three groups that formed the jazz/broken beat movement in London is important.
 
 ---

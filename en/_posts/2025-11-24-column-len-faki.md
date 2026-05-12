@@ -66,7 +66,7 @@ We take Len Faki's signature tracks and analyze them in detail, including their 
 
 #### basic information
 - BPM: 125
-- Key: G major
+- Key: G Major
 - Released: Berghain 03 mix CD included, 2009
 
 #### Song structure and rhythm
@@ -88,7 +88,7 @@ It is often used from the middle to the peak of a set, and is the main track to 
 
 #### basic information
 - BPM: 129
-- Key: G major
+- Key: G Major
 - Length: Approximately 8 minutes 15 seconds
 
 #### Song structure and rhythm
@@ -153,7 +153,7 @@ This is an important track that creates emotional peaks and calm moments in the 
 
 #### basic information
 - BPM: Estimated around 128
-- Key: Estimated A Minor
+- Key: Estimated A minor
 - Structure: Produces a futuristic feel with mechanical rhythms and synths
 
 #### Song structure and rhythm

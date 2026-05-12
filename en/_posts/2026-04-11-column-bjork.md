@@ -81,7 +81,7 @@ During production, she was stalked and her living environment was shaken up. Thi
 
 ---
 
-## "Homogenic" (1997): The inner volcano
+## Homogenic (1997): The inner volcano
 
 ""Homogenic" is often cited as her masterpiece. Here, she succeeded in embodying her ""inner landscape" as sound.
 

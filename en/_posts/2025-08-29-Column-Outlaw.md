@@ -183,7 +183,7 @@ Leftfield/Queer Clubs are rebuilding safe night spaces and establishing internal
 
 ### 2020s: Irregular spaces after the pandemic: Micro-rave and local communities
 
-During the lockdown period, guerrilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
+During the lockdown period, guerilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
 
 The hybridization of social movements and music events (fundraising parties, mutual aid community kitchens, etc.) is progressing, and the focus is on care and consensus-building rather than the "illegal/legal" dichotomy.
 

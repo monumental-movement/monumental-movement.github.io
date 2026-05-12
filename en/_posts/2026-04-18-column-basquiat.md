@@ -22,7 +22,7 @@ Text: mmr | Theme: Jean-Michel Basquiat's production was shaped by a ""sampling 
 
 New York in the early 1980s. It is said that Jean-Michel Basquiat always had music playing in his Lower East Side studio. For him, sound was not just a background, but a device that determined the speed and structure of thought itself.
 
-Of particular importance was the music of bebop innovator Charlie Parker. Fast, fragmented phrases, sudden modulations, tensions between repetition and deviation. These clearly echo the fragments of language, layering of symbols, and improvisational overwriting in Basquiat's paintings.
+Of particular importance was the music of bebop innovator Charlie Parker. Fast, fragmented phrases, sudden modulations, tensions between repetition and deviation. These clearly echo the fragments of language, layering of symbols, and improvised overwriting in Basquiat's paintings.
 
 At the same time, he was deeply connected to the hip-hop culture that originated in the Bronx. Grandmaster Flash's turntable technology presented a new way of manipulating time, chopping up sounds, rearranging them, and updating their meaning. Basquiat transforms this into a visual method.
 

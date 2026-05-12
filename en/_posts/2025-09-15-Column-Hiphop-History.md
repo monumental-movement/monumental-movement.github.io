@@ -89,7 +89,7 @@ Extract phrases from soul, funk, and jazz records using a sampler (Akai MPC60/SP
 
 ## 1990s: East-West conflict, the rise of the South, clubs and record culture
 
-### East Coast vs West Coast
+### East Coast vs. West Coast
 Regional tensions influence music, as exemplified by the conflict between The Notorious B.I.G. and 2Pac.
 New York clubs (Tunnel, Limelight) became places for rap battles and the premiere of new releases, fostering a rap battle culture.
 
@@ -140,13 +140,13 @@ Software synth (Serum, Omnisphere)
 
 DAW (Ableton Live, FL Studio)
 
-プラグインやサンプルパックの利用拡大
+Expanding the use of plugins and sample packs
 
 ### Representative masterpiece
 
 [Kendrick Lamar "good kid, m.A.A.d city" (2012)](https://amzn.to/4pCB4yv)
 
-[Migos『Culture』(2017)](https://amzn.to/3KAHUED)
+[Migos"Culture"(2017)](https://amzn.to/3KAHUED)
 
 ---
 
@@ -168,7 +168,7 @@ Hip-hop is a culture that has evolved through a close intertwining of regions, c
 
 ## Specific example of sampling copyright litigation
 
-- **Grand Upright Music v. Biz Markie (1991)**  
+- **Grand Upright Music v. Biz Markie (1991)**
 Gilbert O"Sullivan"s "Alone Again" unauthorized sampling lawsuit. Since then, it has been clarified that samples without permission are illegal.
 
 - **Bridgeport Music v. Dimension Films (2005)**
@@ -191,9 +191,9 @@ Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has
 
 | Years | Masterpieces | Sampling trends |
 |------|------|----------------|------|----------------|
-| 1980s | *Paid in Full*, *It Takes a Nation of Millions* | James Brown, Funk, Soul サンプリング濫用期 | 
+| 1980s | *Paid in Full*, *It Takes a Nation of Millions* | James Brown, Funk, Soul Sampling Abuse Period |
 | 1990s | *The Chronic*, *All Eyez on Me* | Parliament-Funkadelic, G-Funk |
-| 2000s | *Stankonia*, *Tha Carter III* | サンプリング減少・シンセ主流 | 
+| 2000s | *Stakonia*, *Tha Carter III* | Reduced sampling/synth mainstream |
 | 2010s | *DS2*, *My Beautiful Dark Twisted Fantasy* | Sampling reduction/homemade beat + Auto-Tune |
 | 2020s | *Mr. Morale & The Big Steppers*, *The Off-Season* | Sample regression + AI generated beat experiment |
 
@@ -332,8 +332,8 @@ Bass: ▂▄▅▄▂
 </tr>
 <tr>
 <td>
--Akai MPC60
-- Akai MPC3000
+- Akai MPC60
+-Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
 </td>
@@ -443,7 +443,7 @@ The map of power visualizes which region the center of the scene has shifted to 
 
 ## Conclusion
  
-Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles, which have influenced not only music, but also fashion, language, and social movements. Hip-hop will continue to evolve as new techniques and expression methods emerge.
+Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles that have influenced not only music, but also fashion, language, social movements, and more. Hip-hop will continue to evolve as new techniques and expression methods emerge.
 
 ---
 

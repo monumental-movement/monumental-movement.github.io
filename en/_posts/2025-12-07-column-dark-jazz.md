@@ -77,7 +77,7 @@ Representative works:
 - *Geisterfaust* (2005)
 - *Piano Nights* (2014)
 
-In particular, *Black Earth* is treated as a masterpiece of the genre, with its saxophone, piano, organ, and wood bass creating a sound image that seems to draw reverberations in the darkness.
+In particular, *Black Earth* is treated as a masterpiece of the genre, with its saxophone, piano, organ, and wood bass creating a sound image that seems to reverberate in the darkness.
 
 ---
 
@@ -242,7 +242,7 @@ There is still a high possibility that it will grow as the "sound of the city" i
 ---
 
 # At the end
-Dark jazz is not the background music of a bar or the sound effects of a night town.
+Dark jazz is not the background music of a bar or the sound effects of a night town;
 **This is a modern art that depicts the loneliness and shadows of cities using only sound. **
 
 Each artist, mainly Bohren & der Club of Gore, has drawn different ways of drawing shadows.

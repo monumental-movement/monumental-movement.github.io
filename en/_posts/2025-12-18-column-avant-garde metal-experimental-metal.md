@@ -176,7 +176,7 @@ In this work, the separation of structures goes even further. The songs are stru
 | Method | Demolition | Layering |
 | Time | Rupture | Parallel |
 | Rhythm | Destruction of pulse sensation | Breathing control |
-| Dissonance | Structural armament | Spatial production |
+| Dissonance | Structural Armament | Spatial Direction |
 
 ---
 

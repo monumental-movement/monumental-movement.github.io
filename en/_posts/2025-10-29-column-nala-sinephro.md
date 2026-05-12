@@ -19,8 +19,8 @@ title: '[Column] Nala Sinephro - Sound Breathing and Cosmic Silence: The Current
 
 Text: mmr｜Theme: Jazz is not about technique or genre expansion, but about the fundamental question of what sound can bring to humans.
 
-When we first come into contact with Nala Sinephro's music, we are forced to let go of the concept of a "song."
-His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation, as if it were breathing.
+When we first hear Nala Sinephro's music, we are forced to let go of the concept of a "song."
+His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation as if it were breathing.
 
 Harp, tenor saxophone, modular synthesizer, and space itself.
 Nala's music depicts the moment when the sound itself becomes a "spiritual environment."
@@ -54,7 +54,7 @@ He has formed a unique sonic language that freely moves between harp and modular
 > "Sound is like particles in the air to me."
 > ― Nala Sinephro
 
-As she says, the sound is made up of layers of "particles" and refracts time like light.
+As she says, the sound is layered as "grains" and refracts time like light.
 
 ---
 
@@ -83,7 +83,7 @@ Nala Sinephro's music is in the spirit of Harold Budd, Alice Coltrane, and Laraa
 It is ""contemplative modernism'' that has been redefined in the post-club era of the 21st century.
 
 Her harp and synths diffuse "jazz-like improvisation" into the space by adding layers of sound.
-The rhythm disappears, the melody drifts, and all that remains is the **feel of time and space**.
+The rhythm disappears, the melody drifts, and all that remains is the feel of time and space.
 
 
 <div class="mermaid">
@@ -113,7 +113,7 @@ Here, patching itself is an improvisational performance that transforms the list
 > - Ableton Live (for loop processing)
 
 This configuration is truly a "breathing device for humans and machines."
-Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic transparency.
+Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic clarity.
 It is also an act of sublimating music into a **technology prayer**.
 
 ---

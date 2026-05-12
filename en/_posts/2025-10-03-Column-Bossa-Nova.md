@@ -161,7 +161,7 @@ color: #fff;
 |----|----------|------|--------------|
 | 1966 | Herb Alpert Presents Sérgio Mendes & Brasil '66 | Produced for the American market and includes the hit song "Mas Que Nada." A masterpiece that spread Brazilian music around the world. | [Amazon](https://amzn.to/4mR12fg) |
 | 1968 | Look Around | Further promoting the fusion of pop and bossa nova. The catchy and sophisticated arrangement is popular. | [Amazon](https://amzn.to/4mNhxca) |
-| 1969 | Fool on the Hill | A Beatles song arranged in a bossa nova style. An album that shines with experimentalism that transcends genres. | [Amazon](https://amzn.to/4mIItdb) |
+| 1969 | Fool on the Hill | Beatles songs arranged in a bossa nova style. An album that shines with experimentalism that transcends genres. | [Amazon](https://amzn.to/4mIItdb) |
 | 1971 | Stillness | This is an album with a calm atmosphere, and the beauty of the arrangement and chorus stands out. | [Amazon](https://amzn.to/433P2Qj) |
 | 1983 | Confetti | A late career work that combines the sounds of the 80s and Brazilian music. Characterized by light rhythm and modern arrangement. | [Amazon](https://amzn.to/4o58hRH) |
 
@@ -210,7 +210,7 @@ Bossa Nova has influenced various genres such as jazz, pop, and classical music,
 
 ## summary
 
-Bossa Nova is a rare genre that began in an apartment in Rio de Janeiro in the late 1950s and has rewritten the world"s musical map. João Gilberto"s whispering guitar and voice, Antonio Carlos Jobim"s sophisticated compositions, Stan Getz"s jazz interpretation, and Sergio Mendes' pop internationalization. Although their individual personalities and activities are independent, they are organically linked and continue to be listened to throughout the ages.
+Bossa Nova is a rare genre that began in an apartment in Rio de Janeiro in the late 1950s and has rewritten the world"s musical map. João Gilberto"s whispering guitar and voice, Antonio Carlos Jobim"s sophisticated compositions, Stan Getz"s jazz interpretation, and Sergio Mendes' pop internationalism. Although their individual personalities and activities are independent, they are organically linked and continue to be listened to throughout the ages.
 
 Even today, the word "Bossa Nova" goes beyond just a musical genre and functions as a symbol of "Brazilian culture" and a "relaxed atmosphere." Through digital platforms such as Spotify and YouTube, it has been received freshly by the younger generation, and it frequently appears in AI recommendations and playlists.
 

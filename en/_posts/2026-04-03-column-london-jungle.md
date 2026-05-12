@@ -190,7 +190,7 @@ However, the trucks and people born there certainly shaped the era.
 
 Fast beats, fragmented rhythms, and deep bass. They are all expressions of urban pressure.
 
-And that pressure still exists today in various forms of music.
+And that pressure continues to exist today in various forms of music.
 
 > Jungle is not music, but a record of the pressures exerted by the city.
 

@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## The history of the voice begins with the recitation of poetry
+## The history of voice begins with poetry reading
 
 ### Poetry before letters
 
@@ -144,7 +144,7 @@ With online distribution and network-based works, readings are not tied to a spe
 
 <div class="mermaid">
 graph LR
-A[ancient oral poetry] --> B[modern printing of poetry]
+A[ancient oral poetry] --> B[Printing of modern poetry]
 B --> C[1910s Dada audio poetry]
 C --> D[1950s beat reading]
 D --> E[1960s Sound art established]
@@ -152,7 +152,7 @@ E --> F[1980s Poetry x Sound Collaboration]
 F --> G[2000s digital reading]
 </div>
 
->Throughout history, voices and sounds have been repeatedly separated and reconnected.
+>Throughout history, voices and sounds have repeatedly been separated and reconnected.
 
 ---
 
@@ -192,7 +192,7 @@ Poetry reading is an expression that makes one strongly aware of the existence o
 
 ### The importance of improvisation
 
-When collaborating with sound art, improvisational vocalizations and reactions are often more important than fixed texts. Poetry becomes a process generated on the spot rather than a completed work.
+When collaborating with sound art, improvisational vocalizations and reactions are often more important than fixed texts. Poetry becomes a process generated on the spot rather than a finished work.
 
 > Improvisation, including the body, creates a tension between poetry and sound.
 

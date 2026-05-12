@@ -41,7 +41,7 @@ color: #fff;
 ## 1. Origin: The germination of Takuroku folk (1970s–1990s)
 
 ### 1-1. 1970s: Rise of home recording culture
-Consumer tape recorders became popular in the late 1970s, and with the advent of inexpensive cassette decks, the culture of recording at home spread. In the world of folk music, the prototype of ""home-recorded folk'' has emerged, in which artists themselves record themselves playing and singing in their own rooms.
+Consumer tape recorders became popular in the late 1970s, and with the advent of inexpensive cassette decks, the culture of recording at home spread. Even in the world of folk music, the prototype of ""home-recorded folk'' has emerged, in which artists record themselves playing and singing in their own rooms.
 
 #### Main practices
 - Plug the dynamic microphone directly into the cassette deck

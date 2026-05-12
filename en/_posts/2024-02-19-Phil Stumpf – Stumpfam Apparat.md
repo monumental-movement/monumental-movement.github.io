@@ -13,7 +13,7 @@ title: Phil Stumpf – Stumpfam Apparat
 ---
 
 
-A minimal track by Phil Stumpf, who is also a member of the German post-rock band ""OH." and also active as the unit ""DUPLEX 100" with Sam Rouanet.
+A minimal track by Phil Stumpf, who is also a member of the German post-rock group ""OH." and is also active as the unit ""DUPLEX 100" with Sam Rouanet.
 
 Released in 2005 on the German house label Tom Bone Vibrating Music.
 

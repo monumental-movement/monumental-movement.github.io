@@ -19,7 +19,7 @@ title: '[Column] Musical culture of indigenous Amazonians: a universe of sounds 
 
 ## Prologue: A world of sounds that fills the forest
 
-Text: mmr｜Theme: Music culture that is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
+Text: mmr｜Theme: Music culture is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
 
 The Amazon River Basin is one of the most culturally diverse regions in the world. Hundreds of indigenous groups have lived together, each with their own distinct languages, myths, and social structures. In this context, music has developed not as an independent form of entertainment or art, but as an act that is inseparable from life itself.
 
@@ -70,7 +70,7 @@ These musics do not "describe" nature. This is an act to reaffirm that humans ex
 
 ---
 
-## Symbolism of instrument systems and materials
+## Symbolism of instrumentation and materials
 
 
 The instruments used are made from materials obtained from the surrounding environment. The main materials are wood, bamboo, bone, seeds, shells, and clay, each with specific symbolism.
@@ -88,7 +88,7 @@ For some instruments, it may not even be possible to see them; only the sound is
 
 Rites of passage and healing use long, repetitive songs and rhythms. These changes the participants' state of consciousness and shift them from the everyday world to ritual time.
 
-Shamans communicate with spirits through song and seek out the causes of illness and illness. Lyrics are often symbolic and have no direct meaning. What is important is not the content of the words, but the vibration and repetition of the sound itself.
+Shamans communicate with spirits through song and seek out the causes of illness and disorder. Lyrics are often symbolic and have no direct meaning. What is important is not the content of the words, but the vibration and repetition of the sound itself.
 
 Music is a therapy, a medium, and a technique for crossing boundaries.
 
@@ -172,3 +172,10 @@ As long as forests exist and people live there, the music will continue to play.
 
 ---
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dv8e-Wc5GG8?si=TbNAmAsgEJ4zMplE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

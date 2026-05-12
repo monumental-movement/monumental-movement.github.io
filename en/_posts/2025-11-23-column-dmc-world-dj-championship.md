@@ -60,7 +60,7 @@ At the 1986 tournament, he performed a routine that emphasized scratching and be
 
 From this moment on, the world began to share the value that ""turntablism, including scratching, decides the game.''
 
-## 2-2　1988-1990: Towards the era of sampling, beat juggling, and composition
+## 2-2　1988-1990: Toward the era of sampling, beat juggling, and composition
 After Cheese, DJs didn't just play songs;
 - Manually reconfigure beats
 - chop the pieces
@@ -189,7 +189,7 @@ Turntablism has been around since the 2000s.
 - DJ School
 - Workshop
 - University Music and Media Department
-It has come to be recognized as a genre of music rather than just a club technique.
+It was also incorporated into the club, and came to be evaluated as a genre of music rather than just a club technique.
 
 ---
 
@@ -414,5 +414,14 @@ timeline
     2023 : ハイブリッド方式へ
 </div>
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nh1LkoO_--E?si=frOaj4N60C7HvDUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

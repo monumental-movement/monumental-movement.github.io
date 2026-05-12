@@ -108,7 +108,7 @@ It has been confirmed that music that incorporates these elements induces a rela
 
 Characteristics of sounds that cats like:
 
-*Including high frequency
+*Includes high frequency
 * Soft continuous sound
 * Rhythm is simple or slow
 
@@ -193,7 +193,7 @@ Based on scientific knowledge, there are simple things you can do in your daily 
 * Music close to environmental sounds is effective
 * Does not prioritize human preferences
 
-What is even more important is "individual differences." Not all dogs and cats will react the same way, and it will vary depending on their personality and experience.
+What is even more important is "individual differences." Not all dogs and cats react the same way, and it varies depending on their personality and experience.
 
 ---
 
@@ -239,7 +239,7 @@ A gentle tempo and a structure that mimics nature tends to elicit a relaxing res
 
 - Johann Sebastian Bach – Air on the G String
 
-Its highly periodic structure and constant dynamics make it easy to synchronize with your dog's heartbeat. It is also important that there are few sudden peaks.
+The highly periodic structure and constant dynamics make it easy to synchronize with the dog's heartbeat. It is also important that there are few sudden peaks.
 
 - Brian Eno – Music for Airports
 
@@ -263,7 +263,7 @@ The texture is close to natural sounds and the bass-centered design creates a co
 
 - Metallica – Master of Puppets
 
-It has a fast tempo and a lot of high-frequency distortion, which is likely to be overstimulating for dogs.
+It has a fast tempo and a lot of distortion in the high range, and is likely to be overstimulating for dogs.
 
 - Aphex Twin – Ventolin
 
@@ -307,7 +307,7 @@ Due to the extreme frequency design (especially high frequencies), it includes a
 
 - Fennesz – Endless Summer
 
-It has an intermediate structure between noise and melody, and is characterized by a high-frequency texture.
+It has a structure between noise and melody, and is characterized by a high-frequency texture.
 
 ### Unsuitable example
 

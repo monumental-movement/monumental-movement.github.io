@@ -20,11 +20,11 @@ title: '[Column] Sludge Metal ─ Acoustic aesthetics created by weight and stag
 Text: mmr｜Theme: About the sonic aesthetics of sludge metal
 
 
-Sludge metal is not music aimed at advancing or uplifting. The tempo is slow, the riffs are relentlessly repetitive, and the sonic images refuse to be clearly separated. There is a sense of music filling the space, enveloping the listener, and slowing down their movements.
+Sludge metal is not music aimed at advancing or uplifting. The tempo is slow, the riffs are relentlessly repetitive, and the sonic images refuse to be clearly separated. There is a feeling of music filling the space, enveloping the listener, and slowing down their movements.
 
 What is important in this genre is not the melody or technique, but the quality of the sound. The thickness of the distortion, the pressure of the bass, and the interval of the rhythm. These factors act in a complex manner, and music exists not as a linear progression, but as a precipitating substance.
 
-As the genre name suggests, the sonic aesthetics of sludge metal lies in ""stagnation''. He intentionally distances himself from clear sound, sophisticated structure, and a comfortable listening experience, presenting turbidity and stagnation as values. That attitude has occupied a unique position in metal music culture.
+As the genre name suggests, the sonic aesthetics of sludge metal lies in ""stagnation''. He deliberately distances himself from clear sound, sophisticated structure, and a comfortable listening experience, presenting turbidity and stagnation as values. That attitude has occupied a unique position in metal music culture.
 
 > The sound of sludge metal exists not to move forward, but to sink into a place.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 Sludge metal is not a musical style that emerged in isolation. Behind this, there are two trends: doom metal, which has continued since the 1970s, and hardcore punk, which spread in the 1980s.
 
-Characterized by slow tempos and heavy riffs, doom metal has turned gloomy, stagnant emotions into music. Hardcore punk, on the other hand, directly expressed social dissatisfaction and anger through short, harsh songs and aggressive attitudes.
+Characterized by slow tempos and heavy riffs, doom metal has turned gloomy, stagnant emotions into music. Hardcore punk, on the other hand, directly expressed social discontent and anger through short, harsh songs and aggressive attitudes.
 
 Sludge metal is not the result of a compromise between these two elements. While retaining the impulsiveness of hardcore, the speed was drastically reduced and the heaviness of doom was amplified, creating a completely different sonic experience. Anger doesn't explode, it just keeps building up inside.
 

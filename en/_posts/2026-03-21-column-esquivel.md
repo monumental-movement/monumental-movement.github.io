@@ -49,7 +49,7 @@ color: #fff;
 
 Esquivel was born in 1918 in Tampico, Mexico. He received piano education from an early age and thoroughly acquired the basics of classical music. However, his interest was not simply in performance techniques, but in the structural aspect of ""how the sounds are arranged and how they resonate.''
 
-During the 1940s and 1950s, he worked as a music director in Mexico's radio and television industry. My experience during this period was decisive. Broadcast music must leave a strong impression within a limited amount of time, and to that end, sound density, placement, and timing are extremely important.
+During the 1940s and 1950s, he worked as a music director in the Mexican radio and television industry. My experience during this period was decisive. Broadcast music must leave a strong impression within a limited amount of time, and to that end, sound density, placement, and timing are extremely important.
 
 It was here that he honed his ability to treat sound not as a line but as a collection of points. Short phrases, fragmented sounds, sudden shifts—these would become the core of his later style.
 
@@ -61,7 +61,7 @@ Already at this stage, his music was not just centered around melodies, but was 
 
 ---
 
-## American expansion and stereo revolution
+## Expansion into America and the stereo revolution
 
 In the late 1950s, Esquivel moved his activities to the United States. At the time, home audio equipment was rapidly becoming popular in America as the consumer society expanded.
 
@@ -76,7 +76,7 @@ However, the resulting sound offered a completely different experience from trad
 <div class="mermaid">
 graph LR
 A[mono music] --> B[stereo technology]
-B --> C[Left and right separation of sound]
+B --> C[Separation of left and right sound]
 C --> D[Birth of spatial expression]
 D --> E[new listening experience]
 </div>
@@ -227,7 +227,7 @@ Esquivel's music is a product of an era that dreamed of the future. However, it 
 
 Listening to his music is not looking back on the past. It is also about rediscovering another possible future.
 
-Many of the methods that are commonplace in modern music production—spatial design, sound treatment, studio-based production—already existed in him.
+Many of the techniques that are commonplace in modern music production—spatial design, sound treatment, studio-centered production—already existed in him.
 
 The future does not appear suddenly. It exists as a species in the past and will eventually be discovered again.
 

@@ -38,7 +38,7 @@ color: #fff;
 ## Chapter 1: Early career and early career
 
 ### 1.1 Childhood and origin of nickname
-- **Real name/Birth**
+- **Real name/birth**
 Mr.Vegas' real name is **Clifford Smith**. Born September 29, 1974 in Kingston, Jamaica.
 - **Nickname "Mr. Vegas"**
 As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas girl." The nickname "Mr.Vegas" was adopted as his stage name.
