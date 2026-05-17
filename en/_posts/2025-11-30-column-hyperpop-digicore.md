@@ -200,7 +200,7 @@ flowchart LR
 
 ---
 
-# 7. Equipment/Plugins (especially common for Digicore)
+# 7. Equipment/Plug-ins (especially common for Digicore)
 
 ## Software
 

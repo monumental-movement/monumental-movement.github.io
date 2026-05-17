@@ -16,7 +16,7 @@ title: The Pop Group = The Pop Group – Y = Y (last warning)
 
 The Pop Group is a post-punk band from Bristol, England, formed in 1977.
 
-"Y" is the pop group's debut album, released in 1979 and produced by Dub musician Dennis Bovell.
+"Y" is the pop group's debut album, released in 1979, and produced by Dub musician Dennis Bovell.
 
 #### Tracklist
 ```md

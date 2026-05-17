@@ -69,7 +69,7 @@ An organic, humid sound that differs from the cold minimalism of New York. This 
 
 ### Formation of DNA
 
-In the late 1970s, a movement called ""No Wave'' was born in downtown New York out of strong opposition to existing rock. At the center of this was the band DNA, in which Lindsay was a member.
+In the late 1970s, a movement called ""No Wave'' was born in downtown New York out of strong opposition to conventional rock. At the center of this was the band DNA, in which Lindsay was a member.
 
 DNA is known for its extremely stripped-down compositions and almost violent sonics. His guitar almost ignored chords and scales, cutting through the space with a series of noises and fragmented sounds.
 

@@ -174,7 +174,7 @@ Appeared in [DJ culture documentary "Scratch" (2001)](https://amzn.to/4pzrtso).
 Presenting "Japanese tranquility" globally through world tours. He is respected by the Western hip-hop scene.
 
 #### Production technology
-A style that regards the turntable as an "instrument" and attempts to combine it with Japanese musical instruments and environmental sounds. Specializes not only in scratching but also in spatial production.
+A style that regards the turntable as an "instrument" and attempts to fuse it with Japanese musical instruments and environmental sounds. Specializes not only in scratching but also in spatial production.
 
 #### Video works
 

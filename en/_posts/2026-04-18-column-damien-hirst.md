@@ -24,7 +24,7 @@ From the late 1980s to the 1990s, British contemporary art underwent a major tra
 
 The symbol of this sound is punk, represented by The Sex Pistols.
 
-Punk was more than just a music genre; it was an attitude of speed, destruction, and hostility to the system. In Hirst's studio, music functioned not as decoration but as an engine that accelerated the tempo and decision-making of his productions.
+Punk was more than just a music genre; it was an attitude of speed, destruction, and hostility to the system. In Hearst's studio, music functioned not as decoration, but as an engine that accelerated the tempo and decision-making of his productions.
 
 > Music was not just a background, but functioned as a device that determined the speed of production itself.
 ---
@@ -65,7 +65,7 @@ This structure strongly resonates with criticism of academicism and the market s
 
 ### Goldsmiths College and autonomous exhibitions
 
-While studying at Goldsmiths College in London, Damien Hirst held the exhibition ""Freeze'' (1988), which he curated himself. This act itself is already punk-like.
+Damien Hirst held the exhibition ""Freeze'' (1988), which he curated himself, while studying at Goldsmiths College in London. This act itself is already punk-like.
 
 His attitude of creating his own space without relying on existing galleries overlaps with the independent movement in the music scene.
 
@@ -103,7 +103,7 @@ From a musical perspective, this is more of a "production" than a band. It has a
 
 Hirst dominated the art market in the 1990s as a central figure of Young British Artists.
 
-What is important here is the process by which punk's anti-establishment spirit is absorbed into the market. The attitude that once denied the system has instead become a factor that creates market value.
+What is important here is the process by which punk anti-establishmentism is absorbed into the market. The attitude that once denied the system has instead become a factor that creates market value.
 
 ### Works as provocations
 

@@ -51,7 +51,7 @@ color: #fff;
 
 ### Decreased subjective exercise intensity
 
-The ""tightness'' you feel when exercising depends not only on the actual load but also on how your brain perceives it. This metric is called "subjective intensity of exertion" (RPE).
+The ""tightness" you feel when exercising depends not only on the actual load but also on how your brain perceives it. This index is called ""subjective intensity of exertion" (RPE).
 
 Studies have shown that exercising while listening to music significantly lowers this RPE. In other words, the same load will "feel easier".
 
@@ -125,7 +125,7 @@ Rock music promotes psychological awakening due to its high sound pressure and e
 
 ## Music and concentration (flow)
 
-Entering a state of high concentration during exercise is important for improving performance. This state is called "flow."
+Entering a state of high concentration during exercise is important for improving performance. This state is called "flow".
 
 Music acts as a gateway to a flow state. A constant rhythm and moderate stimulation focus the mind on the current action and eliminate distracting thoughts.
 

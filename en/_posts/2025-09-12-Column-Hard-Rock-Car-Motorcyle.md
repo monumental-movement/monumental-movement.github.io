@@ -219,3 +219,14 @@ The culture of Harley-Davidson and American muscle cars has permeated the Japane
 Hard rock is more than just a musical experience; it's a culture that encompasses an entire lifestyle.
 The loud sound, speed, and outlaw spirit that muscle cars and Harley-Davidson symbolizes continue to fascinate many people today.
 The spirit of hard rock lives on where the roar of a guitar amp and the roar of an engine intersect.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWlGFAc8jc4?si=Jk_38jpOk608rMhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

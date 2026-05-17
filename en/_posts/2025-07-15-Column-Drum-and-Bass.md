@@ -187,4 +187,15 @@ Currently, D&B reigns as the foundation of bass music around the world. Scenes a
 
 Drum & Bass is more than just club music. It is the beat of anxiety, hope, speed, tension, and resistance of people living in the city.
 
-This music connects, moves, and makes people think in a divided society. Once you're captivated by the rhythm, D&B will begin to flow within you too.
+This music connects, moves, and makes people think in a divided society. Once you fall in love with the rhythm, D&B will begin to flow within you.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/noLmuh3Jqic?si=HcbwXEvhUgEr2fHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

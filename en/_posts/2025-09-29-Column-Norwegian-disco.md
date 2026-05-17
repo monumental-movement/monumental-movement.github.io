@@ -172,3 +172,12 @@ A documentary film depicting the history and development of the Norwegian dance 
 
 Prins Thomas, Lindstrøm, and Mungolian Jet Set continue to send out ""temperature disco'' from Norway to the world. Given their musical background and production work, their tracks go beyond mere dance music and provide a listening experience tinged with a Scandinavian sense of time/landscape.
 
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-GVxJf7NAi8?si=WRd45yvZacaq0jYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

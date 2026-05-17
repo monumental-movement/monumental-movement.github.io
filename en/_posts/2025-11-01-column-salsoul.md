@@ -83,7 +83,7 @@ As a result, a unique equation was created: **Disco+Orchestra+Salsa=Salsoul**.
 The representative song "**Salsoul Hustle**" is a perfect symbol of this.
 Congas, timbales, strings, horns, and muted guitar all intertwine exquisitely, creating a feel of Latin cheerfulness and Philly sophistication at the same time.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HTJ87N8DkLA?si=CkAZysbSjsJ11h0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmLiiKYhKYg?si=7P_heKoUd6TOeLiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

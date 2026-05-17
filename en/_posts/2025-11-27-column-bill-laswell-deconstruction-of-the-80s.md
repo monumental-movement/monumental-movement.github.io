@@ -55,7 +55,7 @@ The reason why Laswell deserves to be called ""Deconstruction of the 1980s'' lie
 
 - His activities were a "crossroads" bridging pop and underground
 - The produced works are parallelized across the boundaries of world music, jazz, and noise.
-- Breaking the 80's sound formula and turning the studio into a testing ground
+- Breaking the '80s sound formula and turning the studio into a testing ground.
 - The released works have blurred the genre definition
 
 In this article, we introduce Bill Laswell and the musicians around him.

@@ -45,7 +45,7 @@ Zeni Geva was formed in 1987. The central character is KK Null. He had already e
 ### Initial members
 - **KK Null** (Vo/Gt)
 - **Fumiyoshi "NP" Suzuki** (Gt)
-- **Ikuo Taketani** (Dr)
+- **Ikuo Taketani**（Dr）
 - **Elle** (Vo)
 
 The band's name is said to be derived from the word "Zeni" and the German word "Gewalt" (violence), and is embedded with the social concept of **Money Violence**.
@@ -85,17 +85,17 @@ It is said to be the album with the most well-balanced integration of acoustics,
 In 1996, there was a change in drummers, with Blake Fleming joining the band for a short time. Later, **Masataka Fujikake** joined the band, and Zeni Geva's rhythms became more complex, faster, and more layered.
 
 ### Strengthening structural musicality
-During this period, Zeni Geva's songs became longer and more structured, including songs longer than 16 minutes.
+During this period, Zeni Geva's songs became longer and more structured, including songs over 16 minutes.
 - Multiple parts diverge and reconverge
 - Contrapuntal riff with two guitars
 - Increased use of electronic devices such as Nulltron
 
 ### "10,000 Light Years (2001)"
 - Increased electronic textures
-- Multi-layered combination of noise/metallic guitar/unusual time signature/electronic sounds
+- Noise/metallic guitar/unusual time signature/electronic sounds intertwine in multiple layers
 - Zeni Geva as a sound sculpture, different from the 1980s-90s period
 
-The band reached musical maturity during this period, but at the same time Null's solo activities and other projects increased, and the time between releases as a band became longer.
+The band reached musical maturity during this period, but at the same time, Null's solo activities and other projects increased, and the time between releases as a band became longer.
 
 ---
 

@@ -238,7 +238,7 @@ Although both are from the same era, their directions are very different.
 
 ## Musical distance with OK Jazz
 
-Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
+Since Veran himself is from OK Jazz, they have the same sense of harmony and depth of melodic processing, but
 Veve is more modern and danceable compared to OK Jazz.
 
 ## Commonalities with Afrisa International

@@ -47,7 +47,7 @@ color: #fff;
 
 Black Flag's origins lie in guitarist Greg Ginn. When the band started in 1976 in the Hermosa Beach, California area, their name was Panic. It was a time when punk rock was beginning to spread from England and New York, and the influence of the Ramones and Sex Pistols was clear, but the scene in Southern California was still in its infancy.
 
-Panic briefly changed its name to Black Flag. The name refers to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo was a simple and instantly recognizable visual symbol that would go on to become one of the most famous icons in punk history.
+Panic briefly changed its name to Black Flag. The name refers to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo is a simple and instantly recognizable visual symbol that would become one of the most famous icons in punk history.
 
 The initial members changed drastically, with vocals, bass, and drums frequently being replaced. This instability was a weakness, but also a factor that prevented the band"s musical direction from becoming fixed. From the beginning, Greg Ginn"s guitar playing was characterized by excessive distortion and repetitive riffs, and we can already see the beginnings of his later development.
 
@@ -61,7 +61,7 @@ The initial members changed drastically, with vocals, bass, and drums frequently
 
 ---
 
-The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, with an aggressiveness that was outstanding on the West Coast at the time.
+The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, and had an aggressiveness that was outstanding on the West Coast at the time.
 
 The title track, "Nervous Breakdown," is about mental breakdown, but it's full of urgent energy rather than introspection. The lyrics are concise, presenting emotions as raw rather than descriptive. This approach became the basis for later hardcore punk.
 
@@ -155,7 +155,7 @@ flowchart TD
 
 ## Impact and legacy
 
-Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to compromise musically became a reference point for countless bands.
+Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to make musical compromises became a reference point for countless bands.
 
 The 7-inch songs ""Nervous Breakdown" and ""Jealous Again" are still talked about as the basic form of hardcore. On the other hand, the heavier, slower songs of the band's latter half dissolved genre boundaries and influenced audiences beyond punk.
 

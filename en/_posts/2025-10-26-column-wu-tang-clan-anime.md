@@ -70,12 +70,12 @@ Mokugyo, the koto, the shakuhachi, the sound of temple bells -- these were symbo
 However, in the 2000s, his interest expanded to ""Japanese anime.''
 RZA showed strong respect for **Nujabes**, who was the music supervisor for "Samurai Champloo".
 Ghostface Killah expanded his alias from "Tony Starks" to "Iron Man".
-He later became involved in the production of the soundtrack for ""Afro Samurai''.
+He later became involved in producing the soundtrack for Afro Samurai.
 At this point, Asian culture moves from mere quotation to the realm of co-production = collaboration.
 
 ---
 
-## Chapter 3: "Afro Samurai" and the chain of reimports
+## Chapter 3: "Afro Samurai" and the chain of reimportation
 
 In 2007, the Japanese anime ""Afro Samurai'' was broadcast nationwide.
 The voice actor is Samuel L. Jackson.
@@ -132,7 +132,7 @@ Street MCs sharpen their rap skills like a sword,
 Anime characters transcend themselves through "training."
 These two stories transcend cultural barriers and converge into one spiritual archetype: the poetics of the warrior.
 
-Nowadays, hip-hop and anime share the same global myth.
+Today, hip-hop and anime share the same global myth.
 It's no coincidence that the Wu-Tang Clan got its start.
 Their "microphone path" is
 It was truly a modern-day translation of "Samurai Spirit."

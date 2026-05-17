@@ -65,7 +65,7 @@ In the late 1980s, **Galaxie 500** are considered to be the forerunners of slowc
 In 1991, during the alternative explosion symbolized by Nirvana"s ""Nevermind," the attitude of ""don"t dare to turn up the volume" emerged as a paradoxical alternative.
 
 ## ■ Midwestern American indie aesthetics
-Focusing on small labels in regional cities such as Minnesota, Ohio, and California, the **rustic recording environment = Lo-Fi aesthetics** became associated with slowcore.
+Focusing on small labels in regional cities such as Minnesota, Ohio, and California, **a rustic recording environment = Lo-Fi aesthetics** became associated with slowcore.
 
 ---
 

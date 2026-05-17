@@ -150,7 +150,7 @@ Gong was a symbol of countercultural practice that did not separate society and 
 
 ---
 
-## Chapter 7 Transformation and inheritance——Moellan-Gong and rebirth {#chapter7}
+## Chapter 7 Transformation and Inheritance——Moellan Gong and Rebirth {#chapter7}
 
 After 1976, David Allen left.
 Pierre Moerlan took over, and the jazz fusion-oriented **Pierre Moerlan's Gong** was born.
@@ -254,5 +254,13 @@ timeline
 Rather than a "music group," it was **another way of being in the world**.
 And even now, at some frequency within us,
 Their "radio gnome" continues to broadcast quietly.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ug5CJ0LHiuI?si=waB4Qr7XzGQW7tzq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

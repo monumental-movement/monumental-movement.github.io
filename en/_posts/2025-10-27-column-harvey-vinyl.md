@@ -14,7 +14,7 @@ title: '[Column] DJ Harvey and record collection: DJ as a body that lives "sound
 ---
 
 
-## Prologue: The mythical image of DJ Harvey
+## Prologue: The Mythos of DJ Harvey
 
 
 Text: mmr｜Theme: Not just a DJ, but a consideration of the last "shaman" of the analog era
@@ -73,7 +73,7 @@ His DJ bag is like a travel journal. Each record contains memories of some night
 ## Chapter 3: London - Ibiza - LA, a moving record box
 
 Harvey's records have always been on the move.
-From underground clubs in London to **Pikes Hotel** in Ibiza to warehouse events in LA.
+From London"s underground clubs to Ibiza"s **Pikes Hotel** to LA's warehouse events.
 As cities change, so do the sounds. He reconfigures the set to suit the mood.
 
 During his time in Ibiza, Harvey redefined the word 'Balearic'.
@@ -224,7 +224,7 @@ flowchart TD
     A["Record Digging Start<br>(Travel destination/local market)"]
     B["Used record store search<br>(emphasis on dialogue with store owners)"]
     C["Preview & Intuitive Judgment of Jacket"]
-    D["Selected based on the 'air' of the sound (feeling rather than genre)"]
+    D["Selected based on the 'air' of the sound (sensation rather than genre)"]
     E["Trade with local DJs<br>(exchange each other's records)"]
     F["Reorganized after returning to Japan (classified by climate and time zone)"]
     G["Introducing the club set into practice<br>(verifying the adaption of the board to the field)"]

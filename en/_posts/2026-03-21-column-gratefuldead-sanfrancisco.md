@@ -120,13 +120,13 @@ Improvisation is achieved not only by individual skills but also by a high level
 
 ### Technical challenges
 
-Introduced in the 1970s, the ""Wall of Sound'' is a huge sound system that combines hundreds of speakers. The aim was to minimize distortion and deliver uniform sound even in large venues.
+Introduced in the 1970s, the "Wall of Sound" is a huge sound system that combines hundreds of speakers. The aim was to minimize distortion and deliver uniform sound even in large venues.
 
 ### Changes in live experience
 
 This system allowed the audience to receive the same acoustic experience no matter where they were. Sound is not just information, but an element that makes up the space itself.
 
->Sounds were not just a part of the music, but the music itself.
+> Sound was not just a part of the music, but the music itself.
 
 ---
 
@@ -136,13 +136,13 @@ This system allowed the audience to receive the same acoustic experience no matt
 
 Grateful Dead fans are called "Deadheads" and have formed their own culture. They followed tours, shared information and built their own networks.
 
-### Tape Culture
+### Tape culture
 
 Bands allow live recordings, and a culture develops where fans exchange recordings with each other. This frees music from centralized distribution.
 
 ### A community on the move
 
-Tours are more than just performances; they form mobile communities. A market will be born around the venue, and a unique economic zone will be formed.
+Tours are more than just performances; they form a mobile community. A market will be born around the venue, and a unique economic zone will be formed.
 
 > Deadheads were the bearers of culture, but also the creators.
 
@@ -190,7 +190,7 @@ Live-centered activities continued, and touring itself became established as a c
 
 ---
 
-## End and inheritance
+## End and succession
 
 ### Jerry Garcia Death
 
@@ -225,7 +225,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[san francisco] --> B[counter culture]
+    A[san francisco] --> B[counterculture]
     B --> C[Grateful Dead]
     C --> D[improvisation]
     C --> E[dead heads]

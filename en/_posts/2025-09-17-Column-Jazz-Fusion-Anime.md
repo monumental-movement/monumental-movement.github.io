@@ -43,7 +43,7 @@ color: #fff;
 Director Shinichiro Watanabe's ""Cowboy Bebop,'' which aired in 1998, is a monumental work that showed the world the affinity between anime and jazz.
 The music was composed by The Seatbelts, a band led by Yoko Kanno. Using everything from big band jazz to scat and fusion-like guitar solos, he depicted the story world of the anime as ""music itself.''
 
-The opening song ""Tank!" had a big band sound reminiscent of a spy movie, but it also had an ""adult coolness" that was unusual for an anime opening song at the time, captivating fans all over the world.
+The opening song ""Tank!" had a big band sound reminiscent of a spy movie, but it also had an ""adult coolness" that was unusual for an anime OP at the time, captivating fans all over the world.
 Since this success, jazz has often been referred to as a symbol of coolness and urbanity in anime.
 
 ---
@@ -79,7 +79,7 @@ flowchart TD
     A198["1980s: City pop elements + jazz fusion permeate the soundtrack"]
     A199["1990s: "Cowboy Bebop" Yoko Kanno & The Seatbelts"]
     A200["2000s: "Nodame Cantabile" Classical + Jazz Arrangement"]
-    A201["2010s: Narrating jazz through the depiction of the "Apollo on the Slope" session"]
+    A201["2010s: Narrating jazz through the depiction of the 'Apollo on the Slope' session"]
     A202["2020s: "LAZARUS" (MAPPA x Shinichiro Watanabe x Kamasi Washington and others)"]
 
     A1970 --> A198 --> A199 --> A200 --> A201 --> A202

@@ -18,7 +18,7 @@ title: '[Column] Boredoms: The trajectory of the builder of chaos and the expand
 
 ## Prologue: Who were the Boredoms?
 
-Text: mmr｜Theme: Following the evolution of Boredoms, and how their work form, live performances, and derivative units have developed.
+Text: mmr｜Theme: Following the evolution of Boredoms, and how its work form, live performances, and derivative units have developed.
 
 In the history of Japanese music, **Boredoms** occupy a unique position as an entity that cannot be fully explained in any context.
 Formed in Osaka in the late 1980s, they went on to influence musicians around the world, morphing into noise, hardcore, avant-garde, psychedelia, and later rhythm ensembles.
@@ -110,7 +110,7 @@ The sound became layered, a trance feeling slipped into the repetitive rhythm, a
 
 ---
 
-The following year"s 1999"s Vision Creation Newsun was one of the defining works of Boredoms' career.
+The following year, 1999's Vision Creation Newsun was one of the defining works of Boredoms' career.
 Natural sounds, ethnic percussion, sustained sounds and cyclical structures, guitar drones, multi-layered rhythms...
 
 The Boredoms weren't even a "rock band" here, but instead deepened into cosmic minimalism and ritual trance.
@@ -211,7 +211,7 @@ In this chapter, I will systematically organize the personal activities of **Yam
 ### 7.1 Initial interest
 - Collage, Manga, Concrete Art
 - Destructive performance
-- Interested in "place" rather than sound
+- More interested in "place" than sound
 
 ### 7.2 Formation of sampling sense
 Since the early 1990s, Ai has been using turntables and cassettes as materials, specializing in ""tactile editing'' that connects fragments of physical sound.
@@ -219,7 +219,7 @@ Since the early 1990s, Ai has been using turntables and cassettes as materials, 
 ## 7.3 Inclination to Rhythm (2000s)
 During the bore drum period, Ai's interest shifted greatly to the physical aspects of rhythm, and his role as a conductor became central.
 
-### Eye expression evolution
+### Evolution of Eye expression
 
 <div class="mermaid">
 flowchart TD
@@ -282,3 +282,10 @@ If you take a look at it, including the personal history of OOIOO and Eye, the a
 
 ---
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmCzcTwOQrE?si=DxJJbvyyGeqMRTXy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

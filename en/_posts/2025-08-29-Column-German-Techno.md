@@ -28,7 +28,7 @@ Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and sile
 
 <hr>
 
-### Historical background: the fall of the Berlin Wall and the explosion of techno
+### Historical background: The fall of the Berlin Wall and the explosion of techno
 
 The fall of the Berlin Wall in 1989 was a turning point in the development of techno in Germany. With the fusion of Eastern and Western cultures, parties utilizing abandoned buildings and warehouses rapidly increased, and Berlin became a techno mecca symbolizing the "sound of freedom."
 
@@ -90,7 +90,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 #### Early 1990s (expansion period)
 
-**Background**: After the fall of the Berlin Wall, rave culture exploded in vacant warehouses and factory sites. Club "Tresor" opened (1991).
+**Background**: After the fall of the Berlin Wall, rave culture exploded in empty warehouses and factory sites. Club "Tresor" opened (1991).
 
 **Sound Features**:
 
@@ -174,7 +174,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 **Trend**: While inheriting the coldness typical of past "German techno," it has evolved with the addition of emotional expression and visual production.
 
-If you compare the songs by decade, you can see a cycle of ""Industrial and cold → Minimalization → Hardening → Melodicization → Re-industrialization''**.
+If you compare the songs by decade, you can see a cycle of ""industrial and cold → minimalization → hardness → melodicization → re-industrialization''**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -205,7 +205,7 @@ Listening to his works while tracing their history is nothing but understanding 
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 

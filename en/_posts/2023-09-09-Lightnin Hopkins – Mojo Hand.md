@@ -13,11 +13,11 @@ title: Lightnin' Hopkins – Mojo Hand
 ---
 
 
-"Mojo Hand" is a classic blues song by famous American blues musician Lightnin' Hopkins. This song was first recorded in 1960 and has since become one of his signature songs.
+"Mojo Hand" is a classic blues song by famous American blues musician Lightnin' Hopkins.この曲は1960年に初めて録音され、その後彼の代表曲の一つとなりました。
 
 Distinctive guitar playing and passionate vocals characterize "Mojo Hand."
 
-The song captures the essence of traditional blues, conveying themes of love, travel, and the search for a mojo hand, a magical talisman believed to bring good luck in blues legend. Lightnin' Hopkins' passionate singing and guitar playing make "Mojo Hand" a timeless blues classic.
+この曲は、愛、旅、そしてモジョ・ハンド（ブルースの伝説では運を呼び寄せると信じられている魔法の護符）を求めるテーマを伝えており、伝統的なブルースの本質を捉えています。ライトニン・ホプキンスの情熱的な歌唱とギタープレイによって、「Mojo Hand」は時代を超えたブルースの名曲となっています。
 
 #### Tracklist
 ```md

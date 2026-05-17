@@ -20,7 +20,7 @@ title: '[Column] Throbbing Gristle and the birth of industrial—the moment when
 
 Text: mmr｜Theme: A record of innovation that deconstructed the definition of music through noise and provocation and transformed the sounds of industrial society into art
 
-In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question of ""What is music?'' remained fixed, with almost no one questioning it.
+In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question, ""What is music?'' remained fixed, with almost no one questioning it.
 
 Throbbing Gristle completely destroyed that premise.
 
@@ -58,7 +58,7 @@ Their works were often offensive and socially unacceptable. However, this was no
 
 ""Prostitution,'' held at the Institute of Contemporary Arts in London in 1976, is a symbolic event. The exhibition caused such an uproar that it was debated in the British Parliament, and they were denounced as "destroyers of civilization."
 
-However, the important point is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
+However, what is important is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
 
 COUM used their bodies, not their sounds, to clash with society. Throbbing Gristle was the one who translated that into sound.
 

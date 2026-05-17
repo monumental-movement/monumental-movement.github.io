@@ -131,7 +131,7 @@ Additionally, the almost excessive volume and duration have a direct effect on p
 ---
 
 
-## Hardening sound image with Lemmy
+## Lemmy and hardening sound image
 
 ### Introduction to weight and velocity
 

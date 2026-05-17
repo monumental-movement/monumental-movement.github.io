@@ -27,7 +27,7 @@ At the time, Dutch DJs didn't play imported American techno as it was, but inste
 
 This change was driven more by the field than by studio production. Parties in clubs and warehouses became testing grounds, and the audience's reaction directly determined the direction of the music. Immediate effectiveness began to be valued over refinement, and destructive power over architectural beauty.
 
->While techno tends towards futuristic sophistication, another vision of the future was chosen: ""runaway speed.''
+> While techno tends towards futuristic sophistication, another vision of the future was chosen: ""runaway speed.''
 
 ---
 
@@ -125,11 +125,11 @@ Since the 2000s, a unique Japanese interpretation of hardcore has been formed, a
 
 ---
 
-## 9. Re-evaluation and the present – ​​the legacy of hardcore
+## 9. Reappraisal and the Present: The Legacy of Hardcore
 
 Since the 2010s, 90s hardcore has been subject to re-evaluation. Elements that were once shunned because they were excessive have come to be seen as more of an element of sincerity.
 
-In the context of contemporary techno and experimental music, gabber-like speed and distortion are taking on new meaning. The former rebellion now serves as a reference point.
+Gabba-like speed and distortion are taking on new meaning in the context of contemporary techno and experimental music. The former rebellion now serves as a reference point.
 
 > Gabba Hardcore is an unfinished culture that continues to be reinterpreted over time.
 

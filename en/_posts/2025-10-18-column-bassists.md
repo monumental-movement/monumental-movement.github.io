@@ -74,18 +74,18 @@ Rhythm that speaks between sounds - this is what has elevated jazz to an art for
 ---
 
 Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
-Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
+この「低音の自由」を自国の感性で咀嚼し、  
 Before long, they were creating their own unique groove at night in Tokyo.
 
 ---
 
-### 2. Rock revolution: singing bass and screaming bass
+### 2. ロック革命：歌うベースと叫ぶベース
 
-In the 1960s, bass appeared at the center of rock.
+1960年代、ロックの中心にベースが現れる。  
 Paul McCartney started a revolution as a melodious bassist,
 John Entwistle (The Who) sought architectural beauty amidst the roar.
 
-Jack Bruce (Cream) and John Paul Jones (Led Zeppelin)
+ジャック・ブルース（Cream）やジョン・ポール・ジョーンズ（Led Zeppelin）は、  
 Although he has blues roots, he constructed the ensemble architecturally.
 After that, rock music no longer lacked the "singing spirit" of the bass.
 
@@ -126,7 +126,7 @@ What he established was the aesthetic of ""grooving in Japanese.''
 ---
 
 Hironori Ito of Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-They have created a sound that connects the world between popular songs and AOR.
+They have created a world-class sound between popular songs and AOR.
 The bass guitar no longer played a role behind the scenes, but became an element that supported the "dignity" of music.
 
 ---

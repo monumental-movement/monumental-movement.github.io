@@ -31,7 +31,7 @@ It's not even noise.
 
 However, it has left its mark on all areas.
 
-Since the 1970s, he has been active at the center of Japan's underground music scene, crossing over into improvisation, noise, psychedelic, drone, and folk singing.
+Since the 1970s, he has been active at the center of Japan's underground music, crossing over into improvisation, noise, psychedelic, drone, and folk singing.
 
 He has often collaborated with experimental musicians and rock musicians from overseas, and has received high praise internationally.
 

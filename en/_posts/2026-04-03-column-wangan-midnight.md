@@ -280,7 +280,7 @@ The difference is clear:
 | Role | Create space | Incite emotion |
 | Tempo | Medium to high speed | Fixed high speed |
 | Main character | Engine sound + environmental sound | Music |
-| Experience | Introspection | Uplifting |
+| Experience | Introspection | Upliftment |
 
 Eurobeat is "music that makes you feel speed."
 The sound of the bay is "a state of being in speed."

@@ -44,7 +44,7 @@ color: #fff;
 
 ### 1970s - Between improvisation and avant-garde
 
-Having established himself in London's free improvisation scene, Toop began his career as a critic while performing as a guitarist.
+Having established himself in London's free improvisation scene, Toop was also a member of the Flying Lizards, and while performing as a guitarist, he also began his career as a critic.
 For him, music was not a form or style, but the act of listening itself.
 During this period, he had already developed an attitude of transcending genre boundaries.
 
@@ -103,7 +103,7 @@ His own ambient works also presented a world of soft and diffused sounds.
 
 ### Since the 2010s - Sound Art and the Archeology of Memory
 
-In works such as ""Sinister Resonance," he explores musings on ""things that cannot be heard" and ""reverberation.''
+In works such as ""Sinister Resonance", he explores musings on ""things that cannot be heard" and ""reverberation.''
 He has expanded his activities to the field of fine art and sound art, expanding music criticism into spatial and philosophical practice.
 Through themes such as memory, silence, and blank space, he reconsiders the sense of the ear from its roots.
 
@@ -120,6 +120,14 @@ Through themes such as memory, silence, and blank space, he reconsiders the sens
 
 David Toop's trajectory is a half-century-long exploration of how to listen to music.
 Jazz, hip-hop, ambient, sound art - he doesn't fit into any of them, but rather continues to expand the ""possibilities of sound itself'' by transcending these boundaries.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H3Pr5EfsRNI?si=XwkKX3cuAcIPUWQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

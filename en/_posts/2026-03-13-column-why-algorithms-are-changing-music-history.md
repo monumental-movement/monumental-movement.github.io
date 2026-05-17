@@ -17,13 +17,13 @@ title: '[Column] Music history rewritten by algorithms'
 
 ## Music history has been rewritten by "technology"
 
-Text: mmr｜Theme: Unraveling how algorithms have changed the structure of music hits and the history of genres
+Text: mmr | Theme: Unraveling how algorithms have changed the structure of music hits and the history of genres
 
 
 Looking back at the history of music, the mechanics of hits have always changed due to technology.
 
 Radio was the first huge medium to bring music into homes in the early 20th century.
-After that, the recording industry distributed music around the world as a commodity.
+After that, the recording industry distributed music around the world as a product.
 With the advent of MTV in the 1980s, music transformed into a pop culture that was linked to images.
 
 However, in the 21st century, the distribution structure of music has changed even more.
@@ -146,7 +146,7 @@ It's being redesigned.
 The algorithm also changed the structure of the hits.
 
 Traditional hits are
-The decision was based on radio frequency, CD sales, and chart ranking.
+It was decided based on radio frequency, CD sales, and chart ranking.
 
 But in streaming
 The number of views is the main focus.

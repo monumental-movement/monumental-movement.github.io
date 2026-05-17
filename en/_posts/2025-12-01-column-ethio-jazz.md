@@ -144,7 +144,7 @@ Military band recordings were reissued, and this triggered a worldwide re-evalua
 In 2005, as the music for the film **Broken Flowers** directed by Jim Jarmusch.
 Many of Mulatu's songs were used, and it attracted a lot of attention.
 
-After this event, collaborations with European and North American artists increased.
+After this event, collaborations with artists from Europe and North America increased,
 Ethio-Jazz once again becomes recognized as an international music genre.
 
 ---
@@ -237,7 +237,7 @@ It was later rediscovered in Washington, D.C., and toured the world.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Expansion of jazz mode interpretation
+* Expanding the interpretation of jazz modes
 * Frequently used as sample material in hip-hop
 * Influence on Afrobeat/Afrofusion
 

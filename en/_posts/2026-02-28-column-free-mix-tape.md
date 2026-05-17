@@ -76,7 +76,7 @@ A unique mixtape culture also developed in Atlanta and the South, forming the ba
 
 ### 2000s: Digitization and P2P expansion
 
-In the early 2000s, the distribution of CD-Rs and the spread of the Internet accelerated mixtape culture. Through file sharing services and blogs, it has become possible to spread beyond physical limitations.
+In the early 2000s, the distribution of CD-Rs and the spread of the Internet accelerated mixtape culture. Through file sharing services and blogs, it has become possible to spread beyond physical constraints.
 
 50 Cent rose to prominence during this era. He released a number of free mixtapes and established his popularity on the streets, leading to a major contract.
 
@@ -195,7 +195,7 @@ First, the distribution model of the music industry. We have established a struc
 
 Second, the status of DJs as editors has improved. He has come to be recognized as a curator, not just a reproducer.
 
-Third, community-driven value formation. A different evaluation axis than charts and sales has been created.
+Third, community-driven value formation. A different evaluation axis than charts and sales has been born.
 
 Today, hand-editing and thematic mixes are gaining renewed attention as a counterculture to algorithm-driven recommendation systems.
 

@@ -123,7 +123,7 @@ Now that AI is in charge of creation and communities are expanding where people 
 There is no need to worship "ruin" as a myth.
 
 In fact, ""survival'' itself may be a new art form.
-Creation that moves toward recovery rather than destruction.
+Creation that moves towards recovery rather than destruction.
 Beyond that lies the image of a truly free artist.
 
 ---

@@ -153,7 +153,7 @@ This structure forces the audience to experience rather than interpret.
 
 Caroliner's works do not have a clear finished form.
 
-Although each of the sound sources released mainly on cassettes and limited releases are fragments, they form a continuum as a whole.
+Although the sound sources released mainly on cassettes and limited releases are fragments, they form a continuum as a whole.
 
 Typical titles include the following.
 
@@ -234,5 +234,13 @@ An unfixed structure and continuous activity make this group unique.
 
 >Caroliner has a structure that is constantly collapsing even though it has a center.
 
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mIiXSPA_TYY?si=4CWm9xSMuosHnxNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

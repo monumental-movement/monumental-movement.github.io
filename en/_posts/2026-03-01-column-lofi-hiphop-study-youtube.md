@@ -53,7 +53,7 @@ J Dilla established a unique off-the-grid drum arrangement, the so-called "Dilla
 
 From the late 2000s to the early 2010s, the digitalization of production environments progressed, and online sharing of DAWs and sampled materials became commonplace. The genre slowly took shape, with unknown beatmakers releasing songs on platforms like Bandcamp and SoundCloud.
 
-Around 2013, the format of ""24-hour live streaming'' on YouTube became widespread. The symbol of this is a channel that continues to play music along with visuals of an anime-style girl sitting at a desk. Lofi Girl, as it became widely known, established the format of 24-hour streaming and became a cultural device with millions of concurrent viewers.
+Around 2013, the format of ""24-hour live streaming'' on YouTube became widespread. The symbol of this is a channel that continues to play music along with visuals of an anime-style girl sitting at a desk. Lofi Girl, as it would become widely known, established the format of 24-hour streaming and became a cultural device with millions of concurrent viewers.
 
 Even on Spotify, playlists such as "Chill" and "Focus" are spread by algorithms, and Lo-Fi hip-hop is being redefined as a "functional music category" rather than a "genre."
 
@@ -92,7 +92,7 @@ Representative of the 2010s SoundCloud generation. It gained popularity due to i
 
 ### Idealism
 
-Their melodious, piano-based Lo-Fi beats have expanded their support in the streaming era.
+Their melodic, piano-based Lo-Fi beats have expanded their support in the streaming era.
 
 > The major artists shared an attitude of emphasizing production aesthetics over commercialism.
 

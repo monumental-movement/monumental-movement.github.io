@@ -74,10 +74,10 @@ In the early 1990s, on the fringes of Scandinavian black metal, artists began cr
 Of particular importance are:
 - **Mortiis (Norway)**
 Former member of Emperor. Established a medieval fantasy "Dark Dungeon Music" style.
-- **Early keyboard pieces by Burzum (Norway)**
+- **Burzum (Norway) early keyboard pieces**
 The final song of ""Hvis Lyset Tar Oss" and the ambient tracks from ""Filosofem" left a strong symbolism for later Dungeon Synth.
 
-Although these are sound sources that predated "Dungeon Synth as a genre name," they are clearly treated as the source by later generations.
+これらは“ジャンル名としての Dungeon Synth”以前の音源だが、のちの世代から明確に源流として扱われている。
 
 ### ● 2-2. First wave (1995–2000)
 From 1995 to 2000, a young European project that preceded Mortiis "Era I", Cernunnos Woods, Depressive Silence, and Old Tower released works distributed mainly on tape.

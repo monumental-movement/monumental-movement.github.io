@@ -144,7 +144,7 @@ This allowed artists to release their songs directly without going through a rec
 <div class="mermaid">
 flowchart TD
 A[Artist production] --> B[MySpace public]
-B --> C[Posted on blog]
+B --> C[Blog publication]
 C --> D[DJ play]
 D --> E[club popularity]
 E --> F[label contract]

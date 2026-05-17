@@ -93,7 +93,7 @@ In the early 2000s, electro came back into the limelight.
 
 **Electro House Connection**: French/German artists like Justice and Digitalism have taken the club scene by storm by fusing electro-inspired synth riffs with house 4/4.
 
-The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 by the French label Ed Banger Records and was a worldwide success, including a Grammy Award nomination for Best Electronic/Dance Album.
+The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 by the French label Ed Banger Records and was a worldwide success, including a Grammy nomination for Best Electronic/Dance Album.
 
 #### Tracklist
 ```md
@@ -150,3 +150,14 @@ In the Japanese scene, Ken Ishii and Goth-Trad have incorporated electro element
 
 Electro is not just a temporary genre, but a cornerstone of the development of electronic music. Its DNA continues to live on in hip-hop, techno, house, electroclash, and even modern electronic dance music.
 The sound of machines and humans resonating is the core of electro, and the reason why it continues to predict the future of music.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CerbZmbFQgs?si=XBpdPn7-Fiu7KKIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

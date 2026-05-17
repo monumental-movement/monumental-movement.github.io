@@ -48,7 +48,7 @@ The basic unit of electronic rhythm design is 16 steps, which are divided into 1
 
 ### 4/4・16 steps basic layout example
 
-The most basic arrangement is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
+The most basic structure is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
 
 Accent design does not require all notes to be played at the same intensity. By simply making the first beat of the kick the strongest and the third beat a little weaker, you can create a sense of front and back in the flow of time.
 
@@ -65,7 +65,7 @@ In the latter, the second half feels lighter and the loop gives the impression o
 
 ## Chapter 2: Grid and Human Feel Design
 
-Arrangements that follow the grid perfectly fix time, but do not move it. This is where intentional deviations are introduced.
+An arrangement that perfectly follows the grid fixes time, but does not move it. This is where intentional deviations are introduced.
 
 ### Case: Backbeat Snare Delay
 
@@ -99,7 +99,7 @@ By shifting the accents at regular intervals, multiple periods are perceived eve
 
 A loop is established through repetition, but complete repetition suspends the sense of time.
 
-### Case: Change within one measure
+### Case: Change within one bar
 
 The end of the loop is signaled by removing the hi-hat or adding a ghost note in the final 16 minutes.
 
@@ -165,7 +165,7 @@ By rearranging existing loops, you can redesign the structure while preserving t
 
 ### Case: Complete step reconstruction
 
-By arranging it from scratch, the time structure purely reflects the design philosophy.
+By arranging it from scratch, the time structure purely reflects the design concept.
 
 > The idea of ​​rhythm design changes depending on whether it is material-driven or structure-driven.
 
@@ -175,7 +175,7 @@ By arranging it from scratch, the time structure purely reflects the design phil
 
 Even short loops change in length perceptually.
 
-### Case: Termination obfuscation
+### Case: Terminal obfuscation
 
 By weakening the last note of the loop, you can no longer feel the break.
 
@@ -316,3 +316,11 @@ Even as technology evolves, this essence remains the same. Rhythm is not the sou
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0o341EZcyqw?si=d8nFcbVGbe9-wkhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

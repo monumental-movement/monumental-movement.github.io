@@ -294,7 +294,7 @@ This is the premise of music production after the Internet.
 
 NAS, which pioneered these trends in the early 1980s, can be said to be the prototype of modern music.
 
-Their sound was intense, rough, swinging, bouncy, and sometimes destructive, but at its core it was about freedom.
+The sound they left behind was intense, rough, swinging, bouncy, and sometimes destructive, but at its core, it was about being free.
 That freedom continues to be felt in On-U Sound's work and underground scenes around the world.
 
 ---
