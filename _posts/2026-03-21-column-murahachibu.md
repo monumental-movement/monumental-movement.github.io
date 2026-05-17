@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【コラム】 村八分と1970年代日本：逸脱する音、拒絶する社会"
+title: "【コラム】 村八分（Murahachibu）と1970年代日本：逸脱する音、拒絶する社会"
 author: mmr
 categories: [ Column ]
 tags: [ Underground, 70s, Rock, Culture ]
@@ -9,7 +9,7 @@ date: 2026-03-21 00:00:05 +0900
 ---
 
 
-## 村八分とは何だったのか
+## 村八分（Murahachibu）とは何だったのか
 
 文：mmr｜テーマ：高度経済成長の裏側で生まれた逸脱の音楽と、その社会的背景を徹底的に読み解く
 
