@@ -37,7 +37,7 @@ color: #fff;
 
 <div class="mermaid">
 graph TD
-A["Punk 이후의 영국"] --> B["DIY精神"]
+A["Punk"] --> B["DIY精神"]
 A --> C["政治的不安"]
 A --> D["実験音楽への接近"]
 B --> E["This Heat結成"]
