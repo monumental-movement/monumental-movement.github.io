@@ -70,10 +70,10 @@ During this period, Japan's recording technology reached the highest level in th
 
 The heart of city pop lies in harmonic sophistication and rhythmic flexibility.
 The chord progression uses Major 7 and 9th frequently, creating a floating feeling. The melancholy moment of the unexpected shift in Diminish invites the listener to the "night city."
-Although the rhythm is AOR-like, it absorbs the disco and soul trends of the time, and is characterized by a light groove of around 110 BPM.
+Although the rhythm is AOR-like, it absorbs the disco and soul trends that were popular at the time, and is characterized by a light groove of around 110 BPM.
 
 In terms of recording, the ""aesthetics of space'' created by the analog equipment and skilled engineers of the time shines.
-The studio's reverb processing and EQ precision achieved both "transparency" and "humidity."
+The studio's reverb processing and precision EQ achieved both transparency and humidity.
 In particular, Tatsuro Yamashita's ""SPACY'' (1978) is handed down as a monumental work that elevated the artistry of studio recording to its ultimate limit.
 The perfection of this sound is one of the reasons why it was "discovered" overseas more than 40 years later.
 
@@ -113,7 +113,7 @@ DJs everywhere brought City Pop to clubs: France, South Korea, London, LA.
 Night Tempo, Yung Bae, Macross 82-99 are some of the most iconic.
 They sampled and reimagined city pop, creating a new genre called "Future Funk."
 
-This music is not just nostalgic, but a fusion of the brightness of the 80s and a modern tempo.
+This music is not just nostalgic, but a fusion of the brightness of the 80's and a modern tempo.
 For DJs, city pop is a ""comfortable danceable tempo'' of 110 to 115 BPM.
 It has perfect sound quality as sampling material.
 
@@ -131,7 +131,7 @@ As a result, Japanese culture from the 1980s was repurposed as an "anonymous fut
 Similarly, Lo-fi Hip Hop is connected to YouTube's BGM culture and spread as "Japanese 80s vibes."
 A snippet of city pop played as background music for studying has been played hundreds of millions of times.
 In other words, the context of the music has been completely deconstructed, and Japanese pop music has become a material for global emotions.
-Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural translation.
+Here lies the essence of ""digital nostalgia,'' which goes beyond cultural translation.
 
 ---
 
@@ -147,7 +147,7 @@ In other words, this genre has transformed from being a "local Japanese culture"
 
 ---
 
-## 10. Conclusion: The era when nostalgia becomes an export product
+## 10. Conclusion: An era in which nostalgia becomes an export product
 
 The music that the Japanese once created as a ""city dream'' is now resonating with people on the other side of the world 40 years later.
 This is not just nostalgia, but a reversal in which ""the past becomes the future.''

@@ -45,7 +45,7 @@ Zeni Geva was formed in 1987. The central character is KK Null. He had already e
 ### Initial members
 - **KK Null** (Vo/Gt)
 - **Fumiyoshi "NP" Suzuki** (Gt)
-- **Ikuo Taketani**（Dr）
+- **Ikuo Taketani** (Dr)
 - **Elle** (Vo)
 
 The band's name is said to be derived from the word "Zeni" and the German word "Gewalt" (violence), and is embedded with the social concept of **Money Violence**.

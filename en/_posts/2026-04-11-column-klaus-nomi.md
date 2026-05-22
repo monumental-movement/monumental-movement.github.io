@@ -112,7 +112,7 @@ These works are a mix of pop songs and classical arias, and are characterized by
 * "Cold Song"
 * "Simple Man"
 
-In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop production.
+In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop direction.
 
 > A unique musical language was created through the coexistence of classical quotations and pop structures.
 
@@ -251,7 +251,7 @@ E --> F[Overall performance]
 
 ## Late life and death
 
-Klaus Nomi died in 1983. The cause of death was AIDS, making him one of the earliest notable artists to die from the disease.
+Klaus Nomi died in 1983. The cause of death was AIDS, making him one of the first notable artists to die from the disease.
 
 At the time, understanding of the disease was extremely limited, and his death was a huge shock to the artistic community.
 

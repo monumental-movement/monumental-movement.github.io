@@ -156,7 +156,7 @@ Sarah Dufour, who has transitioned to a solo career, has become more rock and ro
 
 What is noteworthy here is that she completely avoided leaning toward "American country."
 
-It's true that the sound is influenced by Americana and Roots Rock. However, the world of lyrics, pronunciation, and depictions of life are strongly influenced by Quebec culture.
+It's true that the sound is heavily influenced by Americana and Roots Rock. However, the world of lyrics, pronunciation, and depictions of life are strongly influenced by Quebec culture.
 
 This sense of balance is her greatest characteristic.
 

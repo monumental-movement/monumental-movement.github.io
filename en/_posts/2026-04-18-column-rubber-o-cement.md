@@ -22,7 +22,7 @@ Text: mmr｜Theme: The intersection of collective improvisation and DIY spirit i
 
 In San Francisco's underground music scene, ""Rubber O Cement'' is known as a band that cannot be categorized into a clear genre. Without a fixed organization or style, he has worked with approaches that turn improvisation, noise, performance, video, and even the space itself into works.
 
-Their characteristic is that they are more of a "variable project" than a band. The participating members are fluid, with different artists and performers being involved each time, although the event centers around a specific central figure. This structure is closely related to the art collective culture in San Francisco since the 1970s.
+Their characteristic is that they are more of a "variable project" than a band. The participating members are fluid, with different artists and performers participating each time, even though the event centers around a specific central figure. This structure is closely related to the art collective culture in San Francisco since the 1970s.
 
 Musically, his work eschews clear melodies and rhythms and moves toward reconstructing the auditory experience itself by combining feedback, fragmented samples, field recordings, and electronic noise.
 
@@ -100,7 +100,7 @@ Another important aspect of Rubber O Cement is its DIY spirit. Rather than relyi
 
 This attitude resonates with post-punk DIY culture, but it's not just anti-commercialism. Rather, it appears as a technological quest to control sound itself.
 
-The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sounds of the events as they are.
+The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sound as it happened.
 
 <div class="mermaid">
 flowchart LR

@@ -154,7 +154,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 ---
 
-## Chapter 7: Present (as of 2025) and future prospects
+## Chapter 7: Present (as of 2025) and future outlook
 
 ### 7.1 Current status: "Ghetto Reggae" and its reaction
 - Album "Ghetto Reggae" released.

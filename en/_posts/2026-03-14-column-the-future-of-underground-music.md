@@ -17,7 +17,7 @@ title: '[Column] The future of underground music'
 
 ## Birth of the concept of underground music
 
-Text: mmr｜Theme: Where is underground music heading amid changes in the internet, AI, and communities? Decipher the future from history and current facts.
+Text: mmr｜Theme: Where is underground music headed amid changes in the internet, AI, and communities? Decipher the future from history and current facts.
 
 The term underground music is not just a genre name.
 It is a cultural concept that refers to music outside of circulation, power, media, and community.
@@ -245,7 +245,7 @@ Second, there is a reassessment of local culture.
 
 While music has become more homogenized due to the Internet, interest in regional culture is increasing.
 
-Third, new technology.
+Thirdly, new technology.
 
 AI, VR, real-time streaming, etc. have the potential to change the way we experience music.
 

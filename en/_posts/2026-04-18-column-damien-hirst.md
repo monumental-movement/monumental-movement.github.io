@@ -65,7 +65,7 @@ This structure strongly resonates with criticism of academicism and the market s
 
 ### Goldsmiths College and autonomous exhibitions
 
-Damien Hirst held the exhibition ""Freeze'' (1988), which he curated himself, while studying at Goldsmiths College in London. This act itself is already punk-like.
+While studying at Goldsmiths College in London, Damien Hirst held the exhibition ""Freeze'' (1988), which he curated himself. This act itself is already punk-like.
 
 His attitude of creating his own space without relying on existing galleries overlaps with the independent movement in the music scene.
 

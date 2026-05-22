@@ -37,7 +37,7 @@ However, deep within the chaos there is a strong sense of unity.
 
 Voivod was a band that was trying to create an "alternative future" rather than "destruction."
 
-In the 1980s, when thrash metal was all about violence and anti-establishment themes, Voivod brought themes of space, technology, nuclear war, cyborgization, and the collapse of human civilization to the fore.
+In the 1980s, when thrash metal was all about violence and anti-establishment themes, Voivod brought to the fore themes of space, technology, nuclear war, cyborgization, and the collapse of human civilization.
 
 And it's not just a lyrical production.
 The sound itself echoes like a collapsed futuristic city.
@@ -123,7 +123,7 @@ However, at that point there was already a feeling that it was ""not your averag
 
 Piggy's guitar playing was unique.
 
-At a time when traditional thrash metal focused on fast, chromatic riffs, he used a lot of dissonance and strange chords.
+At a time when traditional thrash metal was focused on fast, chromatic riffs, he used a lot of dissonance and strange chords.
 
 This guitar style would later influence many musicians.
 
@@ -163,7 +163,7 @@ There are elements of Discharge and GBH in the tempo and aggression.
 
 However, they mixed in a strange sense of odd time signatures.
 
-At this point, the seeds of the later progressive movement were present.
+At this point, the seeds of what would later become progressive were present.
 
 ### Away artwork
 
@@ -530,7 +530,7 @@ Piggy was not a virtuosic guitarist.
 
 There was also distance from the fast-shooting competition.
 
-Rather, he was a space architect.
+Rather, he was a space designer.
 
 In that sense, he is often compared to Robert Fripp.
 
@@ -639,7 +639,7 @@ Since the 2000s, Voivod has continued its activities despite facing difficulties
 
 ### Joined by Jason Newsted
 
-There was also a time when Jason Newsted, formerly of Metallica, joined the group.
+There was also a time when Jason Newsted, formerly of Metallica, joined the band.
 
 He was known as an avid fan of Voivod.
 
@@ -797,7 +797,7 @@ That"s because they weren"t just a trend, they were turning ""anxiety about the 
 
 Voivod was a mutation of thrash metal.
 
-But they didn't end up being mere mutations.
+However, they did not stop at mere mutations.
 
 This abnormality was inherited in later generations and permeated many areas such as progressive metal, avant metal, post metal, and technical metal.
 

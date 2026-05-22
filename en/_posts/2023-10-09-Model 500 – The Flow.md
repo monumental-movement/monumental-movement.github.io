@@ -16,7 +16,7 @@ title: Model 500 – The Flow
 
 Model 500 is another name of Juan Atkins.
 
-「THE FLOW」は、多彩なリミックスが施された楽曲です。Juan Atkinsは「G-Funk Mix」で純粋なR&Bの雰囲気を醸し出しています。
+"THE FLOW" is a song that has undergone various remixes. Juan Atkins gives off a pure R&B vibe with his "G-Funk Mix."
 
 The Alex Reece Mix, on the other hand, has a smooth jazz step remix, but the vocals aren't completely unified and feel a bit out of sync with the rhythm.
 

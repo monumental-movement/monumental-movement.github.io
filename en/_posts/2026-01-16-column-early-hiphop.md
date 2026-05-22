@@ -21,7 +21,7 @@ Text: mmr｜Theme: DJs, dance, voices, and street expressions that spontaneously
 
 The cultural phenomenon that was occurring in New York's South Bronx in the early 1970s did not yet have a name, ""hip-hop.'' There was no unified ideology or awareness of it as a movement.
 
-Young people were simply gathering, making music, dancing, raising their voices, and leaving their mark on the city. This series of actions would later be organized as a single culture.
+Young people just gathered together, made music, danced, raised their voices, and left their mark on the city. This series of actions would later be organized as a single culture.
 
 What is important in understanding this period is that the core cultural practices already existed even before Afrika Bambaataa, who would later become an icon.
 
@@ -89,7 +89,7 @@ At this stage, DJs were less creators than time controllers.
 
 Funk and soul records often had short interludes that consisted of only instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
 
-By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype of the structure that would later be called a breakbeat.
+By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure that would later be called a breakbeat.
 
 What is important is that this method was not a theoretical invention, but was created as a result of observing audience reactions. The musical structure was reorganized by bodily responses.
 
@@ -169,7 +169,7 @@ Hip-hop was not an individual invention, but a collection of acts that responded
 
 The culture that would later be called hip-hop was initially unorganized, but it was flexible and strong to that extent.
 
-Before ideas and definitions were given, sounds were heard, bodies moved, and cities were used. Culture was done first and then talked about.
+Before ideas and definitions were given, sounds were making sounds, bodies were moving, and cities were being used. Culture was done first and then talked about.
 
 Understanding this early stage leads to a reconception of hip-hop as a cultural device that responds to circumstances rather than a fixed genre.
 

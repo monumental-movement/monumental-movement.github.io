@@ -51,7 +51,7 @@ color: #fff;
 
 ### The intersection of music and art
 
-The birth of The Durutti Column is inseparable from Manchester's legendary label Factory Records. This label produced artists such as Joy Division and New Order, and released works of art that included not only music but also design and concept into the world.
+The Durutti Column"s origins are inseparable from Manchester"s legendary label Factory Records. This label produced artists such as Joy Division and New Order, and released works of art that included not only music but also design and concept into the world.
 
 The Durutti Column's debut film, The Return of the Durutti Column, is a symbol of this. The jacket was made of a sandpaper-like material, a provocative design that would damage other records. This was both an artistic irony and a critique of the music industry itself.
 
@@ -232,7 +232,7 @@ It's clear why this song, created over 40 years ago, still sounds fresh.
 
 This is because it does not depend on the era. Elements such as drum machine tones or synth trends are almost absent, and the focus is on the structure of the sound itself.
 
-As a result, the song always resonates in the present tense, without being tied to any particular era.
+As a result, the song always resonates in the present tense, without being anchored to a specific era.
 
 > "Sketch for Summer" is not music from the past, but music separated from time.
 

@@ -88,7 +88,7 @@ It is the beginning of a break from the genre, and cannot be categorized as so-c
 # 4. Expansion of Koichi Makigami"s activities (late 1980s – 1990s)
 —To techno, folk music, theremin, and performing arts
 
-In parallel with group activities, leader Koichi Makigami expands the scope of his activities with a focus on **expansion of voice**.
+In parallel with the group's activities, leader Koichi Makigami is expanding the scope of his activities with a focus on **expansion of voice**.
 
 - Further exploration of overtone singing
 - Collaboration with contemporary dance
@@ -147,7 +147,7 @@ These are not just vocals, but an exploration of the voice as an acoustic materi
 In the early stages, the new wave-like stoic beats stand out, but from the middle onwards, complex ensembles with multiple beats existing at the same time increase.
 
 ### ■ 3. "Structural humor" rather than "absurdity"
-Hikashu's lyrics and performances may seem bizarre, but many of them are extremely precisely structured.
+Hikashu's lyrics and production may seem bizarre, but many of them are extremely precisely structured.
 Nonsense is not a "thought-stopping gag" but a device for shaking the boundary between language and sound.
 
 ### ■ 4. Theremin and electronic acoustics

@@ -119,7 +119,7 @@ All of them make up the huge sound archive that is Tokyo.
 Where will the next Tokyo sound come from?
 AI-generated music, virtual clubs, and live music on the streets.
 Although the form may change, the structure of ""a city that speaks with sound'' remains the same.
-The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara will continue to reverberate into the future as one "Tokyo beat."
+The nights of Shinjuku, the clubs of Shibuya, and the cyberspace of Akihabara will continue to reverberate into the future as one "Tokyo beat."
 
 ---
 

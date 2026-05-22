@@ -29,7 +29,7 @@ This transplant is not always successful. Rather, they are often distorted, miss
 
 In this article, we will view lyric translation from the perspective of ""cultural import,'' and will organize its historical development, theoretical framework, specific examples, and characteristics of its reception in Japan, based only on facts.
 
-> Lyrics translation allows musical borders to be crossed, but it does not erase cultural borders.
+> Lyric translation allows musical borders to be crossed, but it does not erase cultural borders.
 
 ---
 
@@ -80,7 +80,7 @@ The resulting translated lyrics are a compromise between the original song and t
 ## Chapter 3 Translations that can be sung and "translations that cannot be sung"
 
 Lyric translations are divided into translations for reading and translations for singing.
-In the latter case, ease of pronunciation, vowel sequence, and accent position are important.
+In the latter case, ease of pronunciation, vowel continuity, and accent position are important.
 
 Japanese has a simple syllable structure and many vowels, making it difficult to reproduce the consonant sequence and stress structure of English.
 Therefore, when singing English lyrics in Japanese, the meaning of the words is often simplified or the grammar is rearranged.

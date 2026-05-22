@@ -49,7 +49,7 @@ The characteristics are as follows.
 
 - **Lo-fi recording**
 - **Soft texture centered on synth + sampler**
-- **Vocal melts into reverb**
+- **Vocals melting into reverb**
 - **Influenced by 80's city pop and dream pop**
 - **Visuals such as pale colors and blurry photos**
 
@@ -147,7 +147,7 @@ The equipment used in Chillwave and Synthwave is also very different.
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet series
-- Korg Polysix
+-Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
 -Roland TR-707, TR-808
@@ -218,7 +218,7 @@ Synthwave was heavily influenced by the electronic music and visuals seen in the
 
 ## 9-2. Context of digital revival
 
-Chillwave made extensive use of visual expressions reminiscent of the personal media culture of the 1990s (VHS, camcorders, seaside home footage), and was compatible with the lo-fi photography culture of the Internet (such as early Instagram).
+Chillwave made extensive use of visual expressions reminiscent of the personal media culture of the 1990s (VHS, camcorders, seaside home footage), and was compatible with the internet's lo-fi photo culture (such as early Instagram).
 
 Synthwave's **grid background + neon typography** created by graphic designers has become standardized worldwide, and has also become popular in mix videos on YouTube.
 

@@ -216,7 +216,7 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and outlook
+## Chapter 12: Summary and Outlook
 
 The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace their roots, you always come back to these devices.
 
@@ -282,12 +282,12 @@ flowchart TD
 
 ---
 
-### MPC60 内部構造
+### MPC60 internal structure
 
 <div class="mermaid">
     
 flowchart TD
-    A["入力段: 12bit ADC 40kHz"] --> B["サンプルメモリ"]
+    A["Input stage: 12bit ADC 40kHz"] --> B["Sample memory"]
     B --> C["Pad scan circuit"]
     C --> D["Sequencer CPU"]
     D --> E["DAC/mixer section"]

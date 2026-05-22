@@ -193,7 +193,7 @@ Based on scientific knowledge, there are simple things you can do in your daily 
 * Music close to environmental sounds is effective
 * Does not prioritize human preferences
 
-What is even more important is "individual differences." Not all dogs and cats react the same way, and it varies depending on their personality and experience.
+What is even more important is "individual differences." Not all dogs and cats will react the same way, and it will vary depending on their personality and experience.
 
 ---
 
@@ -263,7 +263,7 @@ The texture is close to natural sounds and the bass-centered design creates a co
 
 - Metallica – Master of Puppets
 
-It has a fast tempo and a lot of distortion in the high range, and is likely to be overstimulating for dogs.
+It has a fast tempo and a lot of high-frequency distortion, which is likely to be overstimulating for dogs.
 
 - Aphex Twin – Ventolin
 
@@ -307,7 +307,7 @@ Due to the extreme frequency design (especially high frequencies), it includes a
 
 - Fennesz – Endless Summer
 
-It has a structure between noise and melody, and is characterized by a high-frequency texture.
+It has an intermediate structure between noise and melody, and is characterized by a high-frequency texture.
 
 ### Unsuitable example
 

@@ -206,7 +206,7 @@ At its core is a simple, repeated melody. This melody is multiplexed with a dela
 * Rhythm is not explicit and persists
 * Space continues to expand
 
-Rather than marking the rhythm, the drums function as the "axis that sustains the music."
+The drums function not so much as setting the rhythm, but as the "axis that sustains the music."
 
 * A pattern that repeats at regular intervals
 * Minimalistic blowing without excessive decoration

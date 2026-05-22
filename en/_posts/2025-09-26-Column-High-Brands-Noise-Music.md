@@ -301,7 +301,7 @@ COMME des GARÇONS — A tradition of incorporating experimental sounds/noise in
 
 #### Prada — Show sound source by Plastikman (Richie Hawtin) (example)
 
-**音源（ストリーミング）**: [Plastikman](https://amzn.to/48AkKrV) — "Inxtro"（Prada 2021 Runway Soundtracks） — [edm.com](https://edm.com/lifestyle/richie-hawtin-prada-runway-soundtracks-2021)   
+**Sound source (streaming)**: [Plastikman](https://amzn.to/48AkKrV) — "Inxtro" (Prada 2021 Runway Soundtracks) — [edm.com](https://edm.com/lifestyle/richie-hawtin-prada-runway-soundtracks-2021)
 **Points to note**
 - Transferring the physicality of minimal techno to the runway. An example of sound design alongside Frédéric Sanchez.
 

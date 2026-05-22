@@ -99,7 +99,7 @@ In many regions, the didgeridoo has been considered a male instrument, but this 
 
 There were also age restrictions, and performances with specific song series were not allowed unless certain rites of coming of age were passed. As a result, music naturally became a device for intergenerational education.
 
-> The performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
+>Performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
 
 ---
 

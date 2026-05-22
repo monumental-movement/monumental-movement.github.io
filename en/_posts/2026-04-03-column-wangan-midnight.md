@@ -132,7 +132,7 @@ Wangan Midnight depicts a series of such choices.
 
 Wangan Midnight is not just fiction, but is closely tied to real street culture.
 
-From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Bayside Route of the Metropolitan Expressway was one of its central locations.
+From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Metropolitan Expressway Bayside Route was one of its central locations.
 
 Although this culture was not widely covered by the media, it definitely existed and attracted many young people.
 

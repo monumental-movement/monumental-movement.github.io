@@ -16,7 +16,7 @@ title: '[Column] Poetry of the heartbeat: The world of Iranian genius percussion
 ## 1. Introduction
 
 
-Text: mmr｜Theme: Carefully follow his path from his early life to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
+Text: mmr｜Theme: Carefully follow his path from his upbringing to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
 
 Mohammad Reza Mortazavi is a rare percussionist who fundamentally reinterprets traditional Persian percussion instruments in modern musical expression. His performances are not just a display of rhythmic technique, but are accompanied by a deep spirituality that sometimes induces a trance, inviting the audience on a physical and conscious journey. In this sense, his activities are important in creating new musical horizons that go beyond the binary oppositions of ""traditional music and experimental music," ""East and West," and ""past and future.''
 
@@ -51,11 +51,11 @@ During this period, his relationship with musical instruments in his life went b
 ### 3. Traditional musical instruments called tambak and duff - their meaning and background
 
 His main instrument, the tombak, is a traditional percussion instrument that forms the core of Persian music. It has a goblet-shaped body and is made by tapping the leather surface with the hands or fingers, giving it an extremely rich tone and expressive power.
-Through a variety of playing techniques, the tamback has a history of establishing its status not only as an accompaniment instrument but also as a solo instrument.
+Through a variety of playing techniques, the tambak has a history of establishing itself not only as an accompaniment instrument but also as a solo instrument.
 
 The **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi not only performs with tambacks, but also with duffs, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
-The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of musical instruments and derive unknown expressions from there.
+The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of instruments and derive unknown expressions from there.
 
 ---
 
@@ -77,7 +77,7 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 Specifically, the approaches include:
 
 * **Using different points of attack**: Attacking areas that traditional players do not use, such as the center of the leather, the rim, and the body (wooden part).
-* **Various parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that would otherwise be considered taboo.
+* **Diverse parts of the hand**: The player's entire hand is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that are considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
 * **Resonance operation**: Controls the resonance of the body and designs the aftertaste when hitting. In this way, the "reverberation" of the sound that remains after a single hit is used as an element of expression.
@@ -105,7 +105,7 @@ Mortazavi's discography is a map of the evolution of his explorations. Below, we
 
 #### 7.1 "Green Hands"
 
-Released in 2010, this album marks a symbolic departure for Mortazavi. Although it is a solo performance using only traditional instruments (tamback/duff), his technological innovation and sound design are already clearly imprinted. Each track features delicate, multi-layered rhythms that make full use of fingers, palms, and nails, giving the listener the illusion that a single instrument has multiple voices.
+Released in 2010, this album is a symbolic departure for Mortazavi. Although it is a solo performance using only traditional instruments (tamback/duff), his technological innovation and sound design are already clearly imprinted. Each track features delicate, multi-layered rhythms that make full use of fingers, palms, and nails, giving the listener the illusion that a single instrument has multiple voices.
 
 What is noteworthy is that his style of hitting is not only fast, but also extremely dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
 
@@ -170,13 +170,13 @@ A live experience like this is not just something you hear with your ears, but a
 
 ### 10. History of criticism, awards, and recognition
 
-Mortazavi has received international acclaim for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
+Mortazavi has received international recognition for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
 
 Pitchfork in particular drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic precision and spiritual depth of his more than 30 new techniques.
 
 Also, their physicality and spirituality are often emphasized in live reviews. Drummerszone and others have described in detail the striking points, hand parts, and resonance operations he uses, noting that his hands appear as if they were playing a "sound system."
 
-These evaluations show that he is not just a skilled performer, but also a highly regarded musical thinker and philosopher of rhythm.
+These evaluations demonstrate that he is not just a skilled performer, but also a highly regarded musical thinker and philosopher of rhythm.
 
 ---
 

@@ -84,11 +84,11 @@ From sea to land.
 
 From the 1970s onward, pirate radio began broadcasting from the rooftops of city buildings.
 
-ロンドンは多民族都市だった。
+London was a multi-ethnic city.
 
 Local stations playing reggae and dub have sprung up in Caribbean immigrant communities.
 
-やがてその文化は、次世代のクラブミュージックの土壌になる。
+Eventually, that culture would become the soil for the next generation of club music.
 
 > From maritime broadcasting to city rooftops. Pirate radio survived as an underground culture.
 

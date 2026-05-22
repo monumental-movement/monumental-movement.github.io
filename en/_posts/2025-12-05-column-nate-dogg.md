@@ -173,7 +173,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-213, the trio of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
+213, consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---

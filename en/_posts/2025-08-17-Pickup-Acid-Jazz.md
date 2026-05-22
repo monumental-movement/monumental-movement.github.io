@@ -82,7 +82,7 @@ B2. Boom
 Summary: House x acid jazz track by Toledo (Toledo Diamond). Former Black Grape member Danny Saber is involved as a producer.
 
 
-Recommended points: This is an attractive cross-genre fun track that combines the essence of acid jazz with the sophistication of house music.
+Recommended points: This is an attractive cross-genre track that combines the essence of acid jazz with the sophistication of house music.
 
 #### Tracklist
 ```md

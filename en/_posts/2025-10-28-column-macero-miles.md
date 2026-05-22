@@ -84,7 +84,7 @@ flowchart LR
 With 1970"s Bitches Brew, Macero"s editing techniques exploded further.
 More than six tape recorders were running at the same time, making the studio feel like a laboratory.
 
-Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
+Each performer does not share a common theme, resulting in a **flood of fragmented improvisation**.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
 > "I chopped up sounds and reconstructed them. It was the same act as composing."
@@ -124,7 +124,7 @@ It was the forerunner of the paradigm of ""editing = composing.''
 
 - Creating new contexts by controlling coincidence (rearranging the order of phrases)
 
-This philosophy would later be carried over into hip-hop sampling and Brian Eno's studio art.
+This philosophy was later carried over into hip-hop sampling and Brian Eno's studio art.
 In other words, Macero has carved out a new profession: ""post-recording composer.''
 
 ---
@@ -283,7 +283,7 @@ It can be said that Macero's edited sound was already putting into practice the 
 
 ---
 
-## Supplementary figure: Masero-style "composition by editing" model
+## Supplementary figure: Macero-style "composition by editing" model
 
 <div class="mermaid">
 

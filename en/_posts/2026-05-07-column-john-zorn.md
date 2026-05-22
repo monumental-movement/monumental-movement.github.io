@@ -28,7 +28,7 @@ Born in New York, USA in 1953, Zorn was exposed to classical and contemporary mu
 
 From an early stage, Zorn took the position that ""music is an event, not a category.'' As a result, his works are characterized by sudden shifts in tone, sudden changes in genre, and contrasts between silence and explosion.
 
-> John Zorn is a rare musician whose creation is in itself the breaking of genres.
+> John Zorn is a rare musician whose creation is in itself the act of breaking genres.
 
 ---
 

@@ -97,7 +97,7 @@ This idea continues in today's field recording culture and artists who incorpora
 The act of listening is not just a sensation.
 It is also an ethical attitude of being open to others.
 
-音楽療法の現場では、「音を聴くこと」がしばしば「他者を受け入れる」訓練と重ねられる。
+In the field of music therapy, ""listening to sounds" is often combined with ""accepting others" training.
 Sociologist James Calhoun also points out that ""silence in public spaces is disappearing.''
 Constantly playing background music, constant flow of information.
 Have we become afraid of "time without sound"?

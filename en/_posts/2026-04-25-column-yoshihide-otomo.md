@@ -16,9 +16,9 @@ title: '[Column] Can sound become an exhibition? The intersection of Yoshihide O
 
 
 
-## 音が展示に変わる瞬間
+## The moment when sound turns into an exhibition
 
-文：mmr｜テーマ：音楽を空間へと変換し続ける実践を、逸話と代表作から読み解く
+Text: mmr｜Theme: Interpreting the practice of continuously transforming music into space through anecdotes and representative works
 
 ### From improvisational musician to spatial artist
 

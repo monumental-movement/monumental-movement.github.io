@@ -85,7 +85,7 @@ Even so, the sample culture centered around the Amen Blake continued to be inher
 
 ## Temporary decline and mainstreaming
 
-In the mid-2000s, drum"n"bass became incorporated into pop music and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the level of attention to it decreased relatively.
+In the mid-2000s, drum"n"bass became incorporated into pop music and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the attention level relatively declined.
 
 However, the genre itself did not disappear during this period, and the underground scene continued to see releases and events. In fact, in some ways, the lack of outside attention has led to a deepening of introversion.
 

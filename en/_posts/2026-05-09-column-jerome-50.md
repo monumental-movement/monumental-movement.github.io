@@ -42,7 +42,7 @@ His real name is Jérôme Charette-Pépin. Born in L"Ancienne-Lorette, a suburb 
 
 In other words, he's not just a folk singer.
 
-His academic perspective of treating words as a research subject coexisted with his physical sensibilities as a street musician.
+His academic perspective of treating words as a research object coexisted with his physical sense as a street musician.
 
 Moreover, he did not confine himself to an academic position.
 
@@ -418,7 +418,7 @@ He's not just a left-wing artist either.
 
 he,
 
-- Linguistic researcher
+- Linguistics researcher
 - street performer
 - I love punk
 - Quebec Culture Enthusiast

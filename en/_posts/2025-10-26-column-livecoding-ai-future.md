@@ -79,7 +79,7 @@ This fusion points to a future where AI becomes a co-star in Live Coding.
 
 Human Live Coders **enjoy errors and chance**.
 Unexpected sounds and misunderstandings drive the music.
-In contrast, AI improvisation is **"reconstruction" based on past data**,
+On the other hand, AI improvisation is **"reconstruction" based on past data**,
 Essentially it remains within the bounds of probability.
 
 However, this difference is also the source of creativity.
@@ -99,7 +99,7 @@ The relationship between the two is not one of "dominance and subordination," bu
 
 ---
 
-## Chapter 5: Examples of collaboration between AI and Live Coding
+## Chapter 5: Example of collaboration between AI and Live Coding
 
 - **AI-DJ Experiment (2023, Berlin CTM Festival)**
 A human Live Coder plays on TidalCycles, and AI analyzes the BPM, harmony, and spatial arrangement.

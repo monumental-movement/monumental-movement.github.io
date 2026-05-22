@@ -68,7 +68,7 @@ Also, since the field of percussion emphasizes timbre and texture rather than pi
 
 ### Transformation brought about by digital devices
 
-In the 1980s, the appearance of samplers brought about major changes in music production. Jan Tomita was one of the first to notice this new technology, and saw it not just as a tool, but as a device that could change the concept of music.
+In the 1980s, the appearance of samplers brought about major changes in music production. Yan Tomita was one of the first to notice this new technology, and saw it not as a mere tool, but as a device that could change the concept of music.
 
 Sampling is the act of recording existing sound and reusing it in a different context. This technology shifts the focus of music from ""performance" to ""editing." Yan Tomita actively accepted this change and deepened his technique of sound collage.
 
@@ -173,7 +173,7 @@ timeline
     2000s : Forever Yann Music Meme 2 発表
 </div>
 
-> It is distinctive in that research, pop, and experimentation are developed in parallel.
+> It is distinctive in that research, pop culture, and experimentation are developed in parallel.
 
 ---
 

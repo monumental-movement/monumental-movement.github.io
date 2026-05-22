@@ -221,7 +221,7 @@ Many hit songs are created not by a single artist alone, but by the efforts of a
 * 2010s and beyond: Digitalization and global expansion
 * Now: Diversification and growing cultural influence
 
-> Baile Funk's history has always been updated by the intersection of external influences and internal realities.
+> Baile Funk's history has always been updated by the intersection of external influences and internal reality.
 
 ---
 

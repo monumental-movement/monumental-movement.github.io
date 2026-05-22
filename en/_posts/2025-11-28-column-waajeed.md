@@ -180,7 +180,7 @@ After the Dirt Tech Reck period, Waajeed began to consider music not as "persona
 
 ## **③ Reconnecting with Black Spirituality**
 
-Especially after the Shango EP, Afro-diaspora spirituality has become an important element.
+Especially since the Shango EP, Afro-diaspora spirituality has become an important element.
 
 *Call & Response
 * Ritual percussion

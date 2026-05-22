@@ -110,7 +110,7 @@ His minimalism evolved, completely dissolving the boundaries between music and a
 Plastikman"s genes permeate Villalobos, Donato Dozzy, Cio D"Or, and the modern modular scene.
 ""Pleasure of structure," ""introspection of sound," and ""temporization of space'' -- these elements now form the basis of techno.
 
-In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground as a dialogue between piano and minimalism. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
+In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground in **a dialogue between piano and minimalism**. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
 
 ---
 
@@ -294,7 +294,7 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | A dark minimalist test piece.             |
+| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
 | 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |

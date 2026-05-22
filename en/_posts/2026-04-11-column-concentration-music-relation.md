@@ -162,7 +162,7 @@ This is why ambient and minimal music is suitable for working.
 
 ### Repetition and prediction
 
-The human brain is excellent at pattern recognition. Music with a consistent loop structure increases predictability and creates a sense of security. In this state, it is easy to enter a "flow state".
+The human brain is excellent at pattern recognition. Music with a consistent loop structure increases predictability and creates a sense of security. In this state, it is easy to enter a "flow state."
 
 > Good work music is music that makes you feel invisible.
 

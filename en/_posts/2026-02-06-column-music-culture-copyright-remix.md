@@ -85,7 +85,7 @@ At the same time, there are exceptions such as quotation, personal use, and educ
 
 A distinctive feature of US copyright law is the fair use provision. It has the flexibility to allow use without permission after comprehensively determining factors such as the purpose of use, nature of the work, amount of use, and impact on the market.
 
-In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of deformability has become an important criterion in video remix and meme culture.
+In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of transformability has become an important criterion in video remix and meme culture.
 
 > US law has a structure in which freedom of expression and protection of rights are adjusted after the fact.
 
@@ -95,7 +95,7 @@ In music sampling lawsuits, there has been an increase in the number of cases in
 
 In the EU, the focus is on directives aimed at harmonizing systems among member countries. While copyright protection is relatively strong, there are clear exceptions regarding parody and quotation.
 
-The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are treated. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
+The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are handled. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
 
 > EU law systematically seeks a balance between market integration and cultural protection.
 

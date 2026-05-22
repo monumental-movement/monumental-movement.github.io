@@ -10,7 +10,7 @@ tags:
 - Music
 - Opera
 - History
-title: '[Column] Francis Bacon and music: an auditory experience to depict extreme
+title: '[Column] Francis Bacon and music: an auditory experience for depicting extreme
   emotions'
 ---
 

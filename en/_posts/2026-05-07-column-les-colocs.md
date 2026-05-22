@@ -194,7 +194,7 @@ exaggeration,
 Makes extensive use of direct communication with the audience.
 
 On the other hand,
-The lyrics contain deep social observations.
+There are deep social observations in the lyrics.
 
 In other words, he
 He was simultaneously a ""clown" and a ""social observer."
@@ -270,7 +270,7 @@ At their live,
 Punk DIY spirit and
 A celebratory folk culture coexisted.
 
-### The presence of Patrick Esposito Di Napoli
+### Presence of Patrick Esposito Di Napoli
 
 Harmonica player Patrick Esposito Di Napoli
 He was an important figure in the early days of the band.
@@ -313,7 +313,7 @@ Representative songs include:
 
 - "La rue principale"
 - "Mauvais caractère"
-- "Julie"
+-"Julie"
 
 ### The shock of "La rue principale"
 
@@ -354,7 +354,7 @@ What is interesting is that
 While Les Colocs gained mass popularity,
 At the same time, it was extremely different.
 
-It's not even radio-ready pop.
+It's not even radio friendly pop.
 It's not typical rock either.
 It's not even world music.
 
@@ -406,7 +406,7 @@ It sounds like a conversation with the dead.
 ### Deepening social themes
 
 After this period,
-Les Colocs' lyrics become more socially profound.
+Les Colocs' lyrics take on a deeper social depth.
 
 poverty.
 Loneliness.
@@ -568,7 +568,7 @@ Their music is still being listened to today.
 
 live culture.
 choral culture.
-Local culture.
+Regional culture.
 
 Because it is connected to all of them.
 
