@@ -18,7 +18,7 @@ Anders Remmer, also known as Dub Tractor, is a leading figure in the electronic 
 
 "Scary H H Loop / 104 Dub" is a trip-pop experimental ambient track released in 1997.
 
-The first song on the B-side is produced and remixed by Cornish genius Luke Vibert. Wagon Christ is another name of Luke Vibert.
+B面１曲目は、コーンウォール一派の才人Luke Vibert（ルーク・ヴァイバート）がプロデュース＆remix。Wagon Christ（ワゴン・クライスト）はLuke Vibertの別名義。
 
 #### Tracklist
 ```md

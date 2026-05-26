@@ -71,7 +71,7 @@ Founded by Regis. Together with Surgeon and others, he defined the ""Birmingham 
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-Mute Recordsのサブレーベル。Luke Slater、Speedy J、Laurent Garnierなどを抱え、UKのみならずヨーロッパ全体のテクノシーンにも波及。
+A sub-label of Mute Records. With artists such as Luke Slater, Speedy J, and Laurent Garnier, they have spread not only to the UK but also to the techno scene throughout Europe.
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 
@@ -119,7 +119,7 @@ UK techno from that era was played not to dance to, but to assert its existence.
 <thead>
 <tr>
 <th>Artist/Title</th>
-<th>era</th>
+<th>age</th>
 <th>Format</th>
 <th>Features</th>
 </tr>

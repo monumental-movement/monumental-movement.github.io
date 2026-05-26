@@ -322,7 +322,7 @@ D --> E["Collective Resonance"]
 
 As their activities expanded, QRBP began appearing at major Quebec festivals.
 
-What is important here is that even when they became gigantic, they did not lose their ""earthiness''.
+What is important here is that even when they became gigantic, they did not lose their ""earthiness.''
 
 Many bands move toward sophistication as they expand in size.
 
@@ -346,7 +346,7 @@ C --> D["Broader Recognition"]
 D --> E["Community Identity Maintained"]
 </div>
 
-> Even as the scale expanded, QRBP did not lose its "local body temperature".
+> Even as the scale expanded, QRBP did not lose its "local body temperature."
 
 ---
 

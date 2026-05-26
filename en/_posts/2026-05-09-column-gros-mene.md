@@ -241,7 +241,7 @@ Fred Fortin's solo works, his time with Galaxie, and his experiences were brough
 "Agnus Dei" won "Album de l"année – alternatif" at ADISQ in 2013.
 It was also highly rated on GAMIQ.
 
-In other words, what was once ""dangerous and crude underground rock'' was now officially recognized as an important work in Quebec music.
+In other words, what was once "dangerous and crude underground rock" was now officially recognized as an important work in Quebec music.
 
 ### Deepening musicality
 
@@ -446,8 +446,8 @@ Surrounded by English-speaking North America, French music always takes on cultu
 
 Gros Mené answered this question not in theory but in practice.
 
-They didn't prove that it was possible to play rock music in French.
-Rather, they created ""rock that could only exist because it was Quebecois French''.
+They didn't prove that it was possible to play rock in French.
+Rather, they created "rock that could only exist because it was Quebecois French."
 
 The accent, the phrasing, the local feel.
 It was important to bring them to the fore rather than hide them.

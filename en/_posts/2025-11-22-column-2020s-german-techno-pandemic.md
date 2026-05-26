@@ -24,10 +24,10 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 ## Pandemic: A true history of everything from lockdown to reopening to redefining music
 
 
-Text: mmr｜Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained?
+Text: mmr | Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained
 
 
-German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.
+2020年代のジャーマン・テクノは、**COVID-19パンデミック（2020–2022）** を中心に劇的な地殻変動を経験した。  
 Clubs were completely shut down by the government, and the entire scene was fundamentally shaken, including tourism, economy, culture, music production, and social values.
 
 Germany is one of the countries in the world where the "institutionalization of club culture" is the most advanced, and clubs are treated politically as cultural facilities and are even on the agenda of urban policy.
@@ -82,7 +82,7 @@ In March 2020, the German government announced the following as an infection con
 **Announced complete closure of clubs, bars and leisure facilities**.
 
 This was a legal action and all clubs were immediately closed.
-Over 300 clubs in Berlin alone went silent,
+More than 300 clubs in Berlin alone went silent,
 For the first time in its history, the world-famous techno city experienced a "complete standstill."
 
 ### Impact:
@@ -257,7 +257,7 @@ Before and after the pandemic, sound production changed as follows:
 ### 2022–2024:
 - 150–170 BPM
 - Emphasizes the feeling of digital clipping
-- Distortion extended to ultra-high frequencies
+- Distortion extended to ultra-high range
 - 90s trance chord work
 
 In other words,
@@ -285,7 +285,7 @@ As of 2024, 150-170 BPM will be the mainstream.
 It is unclear whether this will continue, but it may continue due to the following factors:
 
 - Visual presentation on SNS goes well with high-speed music
-- Young aesthetics prefer "high information density"
+- Younger aesthetics prefer "high information density"
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.

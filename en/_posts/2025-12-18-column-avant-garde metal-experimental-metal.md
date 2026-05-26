@@ -44,7 +44,7 @@ color: #fff;
 
 ## Structural assumptions in metal
 
-To understand avant-garde metal, it is first necessary to clarify what is the premise behind regular metal.
+In order to understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
 
 Traditional metal has been formed as a collection of structural assumptions such as the following.
 

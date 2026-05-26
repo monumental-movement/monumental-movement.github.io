@@ -205,7 +205,7 @@ Experimental beats are often designed with this synchronization in mind.
 ## Cultural Impact
 
 Experimental soundtracks have also influenced European and American filmmakers and musicians.
-Akira and Ghost in the Shell have become reference points for cyberpunk expression.
+Akira and Ghost in the Shell are reference points for cyberpunk expression.
 
 Hip-hop and lo-fi culture have also been re-exported through anime.
 Samurai Champloo contributed to the international visibility of Japanese beat culture.

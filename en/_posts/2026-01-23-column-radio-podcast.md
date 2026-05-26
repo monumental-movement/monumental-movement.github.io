@@ -119,7 +119,7 @@ Although its influence has declined, its pervasiveness in everyday life has rema
 
 ---
 
-## The premise of broadcasting that has been dismantled by the internet
+## The premise of broadcasting that has been dismantled by the Internet
 
 Digitalization will dismantle the fundamental structure of radio.
 Time, frequency, license.

@@ -77,7 +77,7 @@ Representative works:
 - *Geisterfaust* (2005)
 - *Piano Nights* (2014)
 
-In particular, *Black Earth* is treated as a masterpiece of the genre, with its saxophone, piano, organ, and wood bass creating a sound image that seems to reverberate in the darkness.
+In particular, *Black Earth* is treated as a masterpiece of the genre, with its saxophone, piano, organ, and wood bass creating a sound image that seems to draw reverberations in the darkness.
 
 ---
 
@@ -230,7 +230,7 @@ It continues to expand as "music that creates an atmosphere."
 
 ## 9. Where is dark jazz headed?
 With the spread of AI-generated video, VJ software, and indie games,
-We are now in an era where visuals and sounds are talked about in the same breath.
+We have entered an era where visuals and sounds are talked about in the same breath.
 
 Due to the nature of dark jazz, which is ""slow and has many blank spaces,''
 It is thought that it will continue to have new value by mixing with images.

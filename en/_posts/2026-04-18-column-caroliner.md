@@ -135,7 +135,7 @@ As a result, the performer is treated as a "function" rather than an "individual
 
 <div class="mermaid">
 flowchart LR
-A[mask] --> B[Anonymization]
+A[mask] --> B[anonymization]
 B --> C[symbolization of the body]
 C --> D[ritual]
 D --> E[disconnection with audience]
@@ -218,7 +218,7 @@ Furthermore, the structure, which centers around Grux but does not give a clear 
 
 It is also important that they have been active for a long period of time, and are not just a temporary avant-garde.
 
-> Invisible structure makes the Carolliner a legend.
+> The invisible structure makes the Carolliner a legend.
 
 ---
 

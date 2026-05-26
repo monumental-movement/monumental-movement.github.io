@@ -58,7 +58,7 @@ Their works were often offensive and socially unacceptable. However, this was no
 
 ""Prostitution,'' held at the Institute of Contemporary Arts in London in 1976, is a symbolic event. The exhibition caused such an uproar that it was debated in the British Parliament, and they were denounced as "destroyers of civilization."
 
-However, what is important is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
+However, the important point is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
 
 COUM used their bodies, not their sounds, to clash with society. Throbbing Gristle was the one who translated that into sound.
 
@@ -147,7 +147,7 @@ Their work was often misunderstood and treated as ""dangerous'' for its depictio
 
 In this respect, they were also pioneers of media criticism. It used sound and visuals to show how information is manipulated and consumed.
 
->They were a mirror of society, and at the same time a lens that amplified distortions.
+> They were a mirror of society, and at the same time a lens that amplified distortions.
 
 ---
 
@@ -203,7 +203,7 @@ timeline
 
 Throbbing Gristle didn't expand on music. I completely destroyed music once.
 
-What emerged as a result was the genre of industrial, and even more so, an idea that applies to modern electronic music as a whole.
+What emerged as a result was the genre known as industrial, and even more so, an idea that is common to modern electronic music as a whole.
 
 Their works are still not easy to listen to. However, this sense of discomfort makes us question what we are looking for in music.
 

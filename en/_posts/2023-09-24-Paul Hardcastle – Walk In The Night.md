@@ -14,7 +14,7 @@ title: Paul Hardcastle – Walk In The Night
 
 ""Walk In The Night'' is one of the masterpieces of British music producer, composer, and multi-instrumentalist Paul Hardcastle.
 
-"Walk In The Night" is a song that combines electronic sounds and jazz elements, and has a distinctive rhythm and melody.
+「Walk In The Night」は、エレクトロニックなサウンドとジャズの要素が融合した楽曲であり、特徴的なリズムやメロディが魅力です。
 
 Synthesizers and recorded beats stand out, creating a danceable and groovy atmosphere.
 

@@ -88,7 +88,7 @@ Here, the virtual band did not hide behind anonymity, but rather acquired a stro
 
 ---
 
-## Voice synthesis and vocal disembodiment
+## Speech synthesis and vocal disembodiment
 
 ### The phenomenon that voices have personalities
 

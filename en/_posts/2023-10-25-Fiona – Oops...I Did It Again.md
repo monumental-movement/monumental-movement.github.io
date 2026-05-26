@@ -13,9 +13,9 @@ title: Fiona – Oops...I Did It Again
 ---
 
 
-「Fiona（フィオナ） – Oops...I Did It Again」は、ブリトニースピアーズの同有名曲のカバーです。
+"Fiona – Oops...I Did It Again" is a cover of the same famous song by Britney Spears.
 
-ジャマイカのレーベル Joe Frasierからのリリース。
+Released by Jamaican label Joe Frasier.
 
 #### Tracklist
 ```md

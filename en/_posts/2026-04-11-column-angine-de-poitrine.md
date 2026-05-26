@@ -101,7 +101,7 @@ This ""time lag between formation and establishment'' shows that their music was
 
 Although Angine de Poitrine's music is based on math rock, it is distinctive in that it actively incorporates microtonal elements. It uses pitches that deviate from the standard 12-temperament temperament and non-standard tuning, creating a unique instability.
 
-In terms of rhythm, complex time signatures and polyrhythms are often used, and the music has a structure that is both regular and disrupted at the same time. As a result, the listener's expectations are constantly being betrayed.
+In terms of rhythm, complex time signatures and polyrhythms are often used, and the structure has both regularity and disruption. As a result, the listener's expectations are constantly being betrayed.
 
 <div class="mermaid">
 flowchart LR
@@ -156,7 +156,7 @@ D --> E[international attention]
 E --> F[tour]
 </div>
 
-This flow indicates a contemporary structure in which evaluations in the underground scene are globally connected.
+This flow points to a contemporary structure in which evaluations in the underground scene are globally connected.
 
 > We have entered an era where local activities are instantly connected to the world.
 

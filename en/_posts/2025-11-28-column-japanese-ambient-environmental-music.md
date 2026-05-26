@@ -195,7 +195,7 @@ was raised as a theme.
 
 In this context, environmental music went beyond mere background music and became an element that shaped the impression of the space.
 
-## ● 4-2. Connection with "comfort features" of home appliances
+## ● 4-2. Connection with "comfort functions" of home appliances
 
 Takashi Kokubo's music that comes with air purifiers is a symbol of this.
 Home appliances x environmental acoustics

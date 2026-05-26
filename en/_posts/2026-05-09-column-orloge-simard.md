@@ -147,7 +147,7 @@ At the stage of ""Coke calciné'', the characteristics of Orloge Simard were alr
 
 Furthermore, they had been using the expression "folk sale" since then. This functioned as a term that emphasized Quebec's uniquely vulgar folk sensibilities.
 
-At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of audiences at some festivals revolting due to radical lyrics.
+At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of cases in which audiences at some festivals were repulsed by radical lyrics.
 
 However, at the same time, the number of fans who enthusiastically supported them increased.
 
@@ -390,7 +390,7 @@ Quebec rock culture has a tradition of expressing politics and social criticism 
 | 2017 | Beuvez tousjours, ne mourez jamais | A masterpiece that determined the popularity of live performances |
 | 2019 | Saguenay Libre | Documentary |
 | 2020 | À chacun son Waterloo | A transformational work with a stronger rock flavor |
-| 2022 | Culture du culte | 10th anniversary work that brings anti-censorship ideology to the fore |
+| 2022 | Culture du culte | 10th anniversary work that brings anti-censorship ideas to the forefront |
 
 <div class="mermaid">
 timeline
@@ -434,7 +434,7 @@ As a result, their music is not ""music that can reach everyone," but ""music th
 
 Their activities also overlap with Quebec culture itself.
 
-An exaggerated affirmation of the local culture of French-speaking Canada. This attitude serves as a place for many viewers to confirm their identity.
+An exaggerated affirmation of the local culture of French-speaking Canada. This attitude has become a place of identity confirmation for many viewers.
 
 Moreover, Orloge Simard never loses its sense of danger.
 

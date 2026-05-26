@@ -75,7 +75,7 @@ C --> D[swing adjustment]
 D --> E[groove generation]
 </div>
 
-> MPC60 has brought back the "human fluctuation" to the beat.
+> The MPC60 has brought back the "human fluctuation" to the beat.
 
 ---
 

@@ -51,7 +51,7 @@ The sound image is shoegaze,
 drone,
 space rock,
 post lock,
-It has even influenced contemporary ambient music.
+It has even influenced modern ambient music.
 
 > Spacemen 3 was a rare rock band that created a huge space through "scarcity."
 

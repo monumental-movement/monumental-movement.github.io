@@ -119,13 +119,13 @@ In the past, the optimal selection of songs was made from a limited number of re
 
 In the 2020s, AI technology is starting to have an impact on DJ culture. Automatic beat matching and key analysis have already become standard features, making it possible for even beginners to mix with a certain level of quality.
 
-Furthermore, AI-based song recommendations and playlist generation are changing the song selection process itself. Algorithms suggest the best songs based on vast amounts of data, but these are only statistical optimal solutions.
+Furthermore, AI-based song recommendations and playlist generation are changing the song selection process itself. Algorithms suggest optimal songs based on vast amounts of data, but these are only statistical optimal solutions.
 
 In the space of a club, non-numerical elements such as audience reaction and atmosphere are important, and it is difficult to completely reproduce these with an algorithm.
 
 Therefore, AI is not positioned as a replacement for DJs, but as a supporting tool. The final decision is still left to humans.
 
-> As technology advances, the value of human intuition increases relatively.
+> As technology evolves, the value of human intuition increases relatively.
 
 ---
 

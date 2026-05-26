@@ -90,7 +90,7 @@ The song was later performed by orchestra around the world.
 
 Started in 2002
 **Distant Worlds: music from FINAL FANTASY**
-has performed repeatedly in North America, Europe, and Japan, and established game music in classical halls.
+performed in North America, Europe, and Japan, and established game music in classical halls.
 
 At this stage, game music transitioned from a ""domestic experience" to a ""performance art in public spaces."
 
@@ -216,7 +216,7 @@ Changes in music exposure among young people:
 * Increased gameplay time
 * Establishment of streaming usage
 
-The game music is
+game music is
 "operation"
 "Successful experience"
 "Story immersion"
@@ -245,6 +245,6 @@ It is predicted that real-time music experiences in VR spaces and Metaverse even
 
 ---
 
-> The moment when game music becomes mainstream among young people is not a single incident, but the result of a 40-year accumulation of technology and culture.
+> The moment when game music becomes mainstream among young people is not a single event, but the result of 40 years of technology and cultural accumulation.
 
 ---

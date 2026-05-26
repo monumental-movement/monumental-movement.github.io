@@ -49,7 +49,7 @@ color: #fff;
 
 In the mid-20th century, Egypt had the largest film industry in the Arab world, and music was an integral part of film. The songs of Umm Kulthum and Abdel Haleem Hafez were widely distributed through movies and radio, creating a star image common to the Arab-speaking world.
 
-The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop gained the character of ""regional standard music'' from an early stage.
+The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop acquired the character of ""regional standard music'' from an early stage.
 
 > The concentration of mass media quickly connected Arab pop to a broader market.
 
@@ -85,7 +85,7 @@ At this stage, global expansion remained a side effect rather than an intended s
 
 In the 2010s, video sharing services and streaming distribution rapidly became popular. As a result, language and regional constraints have been significantly relaxed, and views and algorithms have redefined the value of music.
 
-特定地域向けに制作された楽曲が、偶発的に世界中で再生される状況が生まれ、アラブポップも例外ではなかった。
+A situation has arisen in which songs produced for a specific region are accidentally played all over the world, and Arab pop is no exception.
 
 > Digital distribution has automatically connected local music to international markets.
 
@@ -109,7 +109,7 @@ At the same time, rather than completely eliminating regional elements, a method
 
 In the Gulf countries, there has been a move to position cultural industries as part of economic diversification. Investments were made in music festivals and large labels, expanding production scale and distribution networks.
 
-この資本投入により、国際水準の制作環境が整備され、世界市場を意識した音源制作が現実のものとなった。
+With this capital investment, an international standard production environment was established, and sound source production with a global market in mind became a reality.
 
 > Cultural investment as an economic policy has increased the international competitiveness of music.
 

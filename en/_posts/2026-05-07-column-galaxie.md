@@ -151,7 +151,7 @@ D --> E[Renamed to Galaxie]
 E --> F[Establish your own route]
 </div>
 
-> The name change was not just a legal process, but an event that made the band's outline stand out more strongly.
+> The name change was not just a legal process, but an event that made the band's outline stand out even more strongly.
 
 ---
 
@@ -196,7 +196,7 @@ The humidity that is typical of Quebec remains.
 - snow
 - Local city
 - winter
-- long distance driving
+- Long distance driving
 
 A sense of local life is imbued within the North American sense of scale.
 
@@ -318,7 +318,7 @@ The audience reacts physically before analyzing it.
 
 It was rock"n"roll's most primitive feature.
 
-Especially in Quebec, it was valuable to have such a direct, explosive rock sound in French.
+Particularly in Quebec, the presence of such a direct, explosive rock sound in French was valuable.
 
 <div class="mermaid">
 graph TD
@@ -354,7 +354,7 @@ As a result, Galaxie's sound has a sense of connection to the entire scene.
 
 Rather than being an isolated band, they existed as part of the Quebec musical community.
 
-### Characteristics of sound creation
+### Features of sound creation
 
 Langevin's guitars are very distinctive.
 
@@ -423,7 +423,7 @@ was passed down to many young people.
 
 They're not huge mainstream stars.
 
-However, the influence within the scene is extremely large.
+However, its influence within the scene is extremely large.
 
 <div class="mermaid">
 flowchart LR

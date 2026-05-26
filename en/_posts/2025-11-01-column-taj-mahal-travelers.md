@@ -157,7 +157,7 @@ Until his later years, based on his belief that "sound is a natural phenomenon,"
 ## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourist Group
 
 Today, their activities include "sound art," "field recording," and "ambient music."
-It is being reevaluated as the source of diverse music trends.
+It is being reevaluated as the source of diverse musical trends.
 An attitude of listening to sound as a ""phenomenon" rather than ""material" or ""information.''
 This is the most important message that Kosugi left us.
 
@@ -174,7 +174,7 @@ This is the most important message that Kosugi left us.
 | 1965–68 | Fluxus-like performances (Sogetsu Art Center, etc.) |
 | 1969 | "Taj Mahal Travel Group" formed |
 | 1971–72 | Musical pilgrimage from India to Europe |
-| 1972 | 《Taj Mahal Travelers – July 15, 1972》 Announcement |
+| 1972 | 《Taj Mahal Travelers – July 15, 1972》Announcement |
 | 1975 | Solo work "Catch-Wave" released |
 | 1977–90s | Merce Cunningham Dance Company Music Director |
 | 2018 | Passed away. Passed away at the age of 80.                                |
@@ -195,7 +195,7 @@ This is the most important message that Kosugi left us.
 
 ---
 
-## Conclusion - Freedom of sound and prayer
+## Conclusion - freedom of sound and prayer
 
 The Taj Mahal tour group"s trip was not just a ""band"s overseas performance.''
 It was a spiritual journey that transcended the institution of music and resonated with the world.

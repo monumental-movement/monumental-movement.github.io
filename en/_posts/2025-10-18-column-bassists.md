@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## I. Listening to music with your body, not your ears
+## I. 耳ではなく身体で聴く音楽
 
 Bass is a sound that your body reacts to before you hear it.
 He stands between rhythm and harmony, and determines the center of gravity of music.
@@ -74,18 +74,18 @@ Rhythm that speaks between sounds - this is what has elevated jazz to an art for
 ---
 
 Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
-この「低音の自由」を自国の感性で咀嚼し、  
+Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
 Before long, they were creating their own unique groove at night in Tokyo.
 
 ---
 
-### 2. ロック革命：歌うベースと叫ぶベース
+### 2. Rock revolution: singing bass and screaming bass
 
-1960年代、ロックの中心にベースが現れる。  
+In the 1960s, bass appeared at the center of rock.
 Paul McCartney started a revolution as a melodious bassist,
 John Entwistle (The Who) sought architectural beauty amidst the roar.
 
-ジャック・ブルース（Cream）やジョン・ポール・ジョーンズ（Led Zeppelin）は、  
+Jack Bruce (Cream) and John Paul Jones (Led Zeppelin)
 Although he has blues roots, he constructed the ensemble architecturally.
 After that, rock music no longer lacked the "singing spirit" of the bass.
 
@@ -126,7 +126,7 @@ What he established was the aesthetic of ""grooving in Japanese.''
 ---
 
 Hironori Ito of Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-They have created a world-class sound between popular songs and AOR.
+They have created a sound that connects the world between popular songs and AOR.
 The bass guitar no longer played a role behind the scenes, but became an element that supported the "dignity" of music.
 
 ---

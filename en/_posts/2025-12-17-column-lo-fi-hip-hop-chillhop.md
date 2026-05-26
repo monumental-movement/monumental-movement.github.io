@@ -76,7 +76,7 @@ These reflect an attitude that prioritizes atmosphere and sustainability over pe
 
 ## 5. Instrumentalization and functional musicality
 
-Much of Lo‑Fi Hip Hop is an instrumental format that does not involve rap. This tendency has resulted in the elimination of linguistic information and increased functionality as background music.
+Much of Lo‑Fi Hip Hop is an instrumental format that does not involve rap. This trend has resulted in the elimination of linguistic information and increased functionality as background music.
 
 By linking it to concentrated activities such as studying, reading, and working, Lo‑Fi Hip Hop became both a listening object and an ambient music.
 
@@ -154,7 +154,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 2020s
 
-* Consumption for environmental music becomes commonplace
+* Consumption for environmental music has become commonplace
 
 ---
 

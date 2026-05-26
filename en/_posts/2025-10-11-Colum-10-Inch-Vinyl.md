@@ -91,7 +91,7 @@ The precision technology of Toyo Kasei and other domestic press plants shows its
 
 In recent years, an increasing number of artists have chosen 10-inch discs, such as Haruomi Hosono"s [10-inch reissue] (https://amzn.to/4nMnl7a), Tabito Nanao [""Little Melody"] (https://amzn.to/46SV7QE), and Shintaro Sakamoto [""God of Disco"] (https://amzn.to/4oaCpen). It"s not just nostalgia, but an act of redesigning "listening time."
 
-"It's short, but deep."
+"It's short, but intense."
 The Japanese aesthetic of "ma" naturally blends into the 10-inch format.
 
 ---

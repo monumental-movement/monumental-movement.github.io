@@ -109,7 +109,7 @@ This philosophy continues directly into today"s Max/MSP patching, Reaktor Blocks
 
 ---
 
-## 3. BuchlaとSergeの比較：構造と思想
+## 3. Comparison of Buchla and Serge: structure and ideology
 
 | Element | Buchla | Serge |
 |------|---------|---------|

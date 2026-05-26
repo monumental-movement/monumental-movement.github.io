@@ -19,7 +19,7 @@ title: '[Column] Rara: Festival music and social memory resounding on the street
 
 ## Prologue: A procession of sounds filling the road
 
-Text: mmr｜Theme: The history and present of street culture where religion, politics, and community intersect, deciphered through Haitian festival music Rara
+Text: mmr｜Theme: The history and present of street culture where religion, politics, and community intersect, deciphered through Haitian festival music rara
 
 The season has arrived on the dry land of Haiti, where sharp metal sounds and low, undulating drums overlap. Rara does not have a specific venue. Music moves along the roads, penetrates the villages, and transforms people's living spaces into stages. The group continues walking until dawn, accompanied by costumes, dances, and religious symbols. This music is not entertainment, but prayer, political statement, and history storyteller.
 
@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Historical origin of Lala
+## Chapter 1 Historical origins of Lala
 
 The origin of lala is closely tied to the deep layers of Haitian society that was formed between the 18th and 19th centuries. In Saint-Domingue during the French colonial period, people brought from various parts of Africa maintained their own religious rituals and musical culture. Although these traditions were suppressed under plantation control, they were inherited in fragments through nightly gatherings and festivals.
 
@@ -70,7 +70,7 @@ Religious aspects differ from region to region, and even within the same rara, t
 
 ## Chapter 3 Instrumentation and Acoustic Structure
 
-Lara's defining feature is the metal wind instrument vaksen. A polyrhythm is formed by blowing a long tube made of bamboo or metal, with multiple players playing single notes. Added to this are drums, maracas, and metal percussion instruments.
+Lara's defining feature is the metal wind instrument vaksen. Long pipes made of bamboo or metal are blown, and multiple players play single notes to form a polyrhythm. Added to this are drums, maracas, and metal percussion instruments.
 
 The vaxin is not so much a melodic instrument as a device for building layers of sound. Each player plays a different pitch and rhythm, creating an overall undulating sound. Music is not written into musical scores, but is inherited through physical memory.
 
@@ -79,7 +79,7 @@ flowchart LR
 A[Vaxin] --> B[rhythm layer]
 C[drum] --> B
 D[shaker] --> B
-B --> E[group acoustics]
+B --> E[collective sound]
 </div>
 
 > Rara's sound is created not as an individual performance, but as a collective breath.

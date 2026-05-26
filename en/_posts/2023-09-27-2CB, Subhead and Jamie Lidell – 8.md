@@ -12,7 +12,7 @@ title: 2CB, Subhead & Jamie Lidell – 8
 ---
 
 
-1998年にリリースされたJason LeachとPhil Wellsによるユニット2CB別名SubheadのテクノEP。
+Techno EP by Jason Leach and Phil Wells' unit 2CB aka Subhead, released in 1998.
 
 #### Tracklist
 ```md

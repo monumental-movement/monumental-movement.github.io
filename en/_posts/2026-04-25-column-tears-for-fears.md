@@ -30,11 +30,11 @@ Orzabal was born into a Spanish family and experienced family tension and loneli
 
 They first started out as Graduate, but their experiences during this period made them keenly aware of the limitations of ""music that relies on external styles.'' Orzabal later recalled that the music at the time "had nothing to do with our true feelings."
 
-Arthur Janov"s original therapy, from which the band"s name is derived, is based on the philosophy of ""aiming for mental recovery by releasing suppressed emotions,'' and this was not just an inspiration, but was incorporated as a methodology for songwriting and composition.
+Arthur Janov"s original therapy, from which the band"s name is derived, is the idea of ​​""aiming for mental recovery by releasing suppressed emotions,'' and this was not just an inspiration, but a methodology for writing and composing songs.
 
 ### Episode: Early demo evaluation
 
-Early demo tapes were often deemed "too dark" by record companies at the time. However, this "darkness" is what makes them unique and ultimately makes them stand out in the market.
+Early demo tapes were often deemed "too dark" by record companies at the time. However, this "darkness" is what makes them unique, and ultimately makes them stand out in the market.
 
 > Their decision to channel their inner pain into music definitely separated them from other new wave bands.
 

@@ -23,7 +23,7 @@ During their activities, cellist Dan Weaver and drummers Richard Harrison and An
 
 In 1990, he also appeared on ""Company Week'' at the request of Derek Bailey.
 
-Even after Caswell moved to Denmark and Weaver took a break from recording due to dance and theater work, Wand continued to work and produced perhaps their most successful albums, Organ Transplants vol. 1 & 2. Sharpley also contributed musically.
+After Caswell moved to Denmark and Weaver took a break from recording due to dance and theater work, Wand continued to work, producing perhaps their most successful albums, Organ Transplants vol. 1 & 2. Sharpley also contributed musically.
 
 Wand founded and operated Hot Air Records to promote S,H&W records, and released a wide range of their own work as well as that of other artists on the label.
 

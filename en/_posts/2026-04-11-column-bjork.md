@@ -19,7 +19,7 @@ title: '[Column] Björk: When the natural phenomenon of voice transcends pop'
 
 Text: mmr｜Theme: The process by which a voice born from an island of ice and fire melts and redefines the boundaries of pop music
 
-From the geographically and culturally isolated environment of Iceland, there is someone who has shaken the very structure of world pop music. That's Björk. Her music cannot be categorized by genre. Electronica, pop, classical, and folk music are just materials; what emerges in the end is the fundamental phenomenon of "voice."
+From the geographically and culturally isolated environment of Iceland, there is someone who has shaken the very structure of world pop music. That"s Björk. Her music can"t be categorized by genre. Electronica, pop, classical, and folk music are just materials; what emerges in the end is the fundamental phenomenon of "voice."
 
 Her voice doesn't just trace the melody. Trembling, tearing, whispering, jumping. It moves away from the meaning of words and resonates as the movement of the body itself. It exists as a sound synchronized with the movement of nature, like the creaking of a glacier or the heartbeat of a volcano.
 

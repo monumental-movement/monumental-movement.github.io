@@ -98,7 +98,7 @@ During this period, Gaye experienced the joy of creation, as well as the failure
 
 ### "Here, My Dear" (1976) – Establishment as a confessional album
 In 1976, he released the album Here, My Dear, which reflected the terms of his divorce from his wife, Anna Gordy. Although this was not a commercial success, it was positioned as a "confession album" that was later reevaluated.
-After releasing this album, Gaye was exhausted both physically and mentally and reached a turning point in his life.
+After the release of this album, Gaye was exhausted both physically and mentally and reached a turning point in his life.
 
 
 ---
@@ -143,7 +143,7 @@ Furthermore, the use of the Roland TR-808 on ""Midnight Love'' also showed new p
 
 ### Personal strange fate
 Gay's life is filled with the ""curious" fate of childhood domestic violence, love breakdowns, financial and drug problems, and being shot and killed by his father. This trend goes beyond the framework of a mere ""tragic star" and reveals a human image of a man whose ""talent and suffering'' intertwine.
-Furthermore, when you think about it from a ""what if" perspective, there are many hypotheses that come to mind: what if he had broken off his relationship with his father, what if he had not been completely trapped in the Motown system, what if he had continued to live. They are evidence of a ""strange life" where chance and necessity intertwine.
+Furthermore, when you think about it from a ""what if" perspective, there are many hypotheses that come to mind: what if he had broken off his relationship with his father, what if he had not become completely trapped in the Motown system, what if he had continued to live. They are evidence of a ""strange life" where chance and necessity intertwine.
 
 ### Re-evaluation and expansion of expression in modern times
 Even after Gaye's death, his music has been remastered, rediscovered, sampled, and continues to influence new generations today. For example, the discovery of unreleased demo sound sources has also been reported.

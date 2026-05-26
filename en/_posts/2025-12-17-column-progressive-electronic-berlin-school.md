@@ -39,17 +39,17 @@ color: #fff;
 </style>
 
 
-## 第1章　前史：実験電子音楽から個人スタジオへ
+## Chapter 1 Prehistory: From experimental electronic music to personal studio
 
 ### Foundation of postwar electronic music
 
-第二次世界大戦後、ドイツではケルン電子音楽スタジオを中心に、純電子音による作曲研究が進められた。一方フランスでは、環境音や具体音を素材とするミュジーク・コンクレートが発展した。これらの潮流は、後の電子音楽家に「音そのものを構築する」という概念を与えた。
+After World War II, research into composition using purely electronic sounds was carried out in Germany, centered on the Cologne Electronic Music Studio. Meanwhile, in France, musique concrète, which uses environmental and concrete sounds as its materials, developed. These trends gave later electronic musicians the concept of ""constructing sound itself.''
 
 In the 1960s, modular synthesizers appeared. It became possible to change pitch, timbre, and rhythm through voltage control, allowing composers to manipulate sound in real time. This technological progress supported the establishment of the Berlin School, which is characterized by long structures and repetitive progressions.
 
 ### Point of contact between rock and avant-garde
 
-At the same time, a movement to fuse rock and avant-garde art was gaining momentum in West Germany. In response to British and American rock, groups that actively incorporated improvisation, repetition, and electronic sounds emerged.後に"クラウトロック"と呼ばれる文脈と、ベルリン派電子音楽は地理的・人的に重なり合いながら発展した。
+At the same time, a movement to fuse rock and avant-garde art was gaining momentum in West Germany. In response to British and American rock, groups that actively incorporated improvisation, repetition, and electronic sounds emerged. The context of what would later be called ""krautrock'' and the Berlin School electronic music developed in a geographically and humanly overlapping manner.
 
 ---
 
@@ -59,7 +59,7 @@ At the same time, a movement to fuse rock and avant-garde art was gaining moment
 
 Tangerine Dream was formed in 1967, and their early work combined rock formations with avant-garde improvisation. In the early 1970s, he began composing using synthesizers and sequencers.
 
-What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-form structure that musicalizes the flow of time itself, which differs from traditional song formats.
+What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-length structure that musicalizes the flow of time itself, which differs from traditional song formats.
 
 ### Klaus Schulze
 
@@ -77,7 +77,7 @@ Ash Ra Tempel began as a project that fused electronic sounds, guitar, and impro
 
 ### Repeat structure with sequencer
 
-The most distinctive element of the Berlin School is the repeated sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
+The most distinctive element of the Berlin School is the repetitive sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
 
 ### Long format
 
@@ -113,7 +113,7 @@ In the 21st century, modular synthesizers are being reevaluated. The Berlin Scho
 
 ## Chapter 7 Detailed analysis of technical foundations
 
-This chapter organizes the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
+In this chapter, we will organize the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
 
 ### Analog modular synthesizer
 

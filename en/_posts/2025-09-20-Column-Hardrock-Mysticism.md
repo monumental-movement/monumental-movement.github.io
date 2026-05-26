@@ -121,7 +121,7 @@ A4: Yes. Ideal for creating a powerful and mysterious atmosphere, especially dur
 
 ## summary
 
-Hard rock is more than just "loud rock"; it is a unique cultural phenomenon that is a fusion of Western machismo and Eastern mysticism. Its essence is still applied today in the world of **soundtrack production** for movies and games, and the ever-evolving world of **AI music generation**. This allows us to connect the musical heritage of the past with the technology of the future, opening up new musical possibilities.
+ハードロックは、単なる「大音量のロック」ではなく、**西洋的マッチョさと東洋的神秘性の融合**というユニークな文化現象です。その本質は今もなお、映画やゲームの**サウンドトラック制作**や、進化を続ける**AI音楽生成**の世界に応用されています。これにより、私たちは過去の音楽遺産を未来のテクノロジーと結びつけ、新しい音楽的可能性を拓いているのです。
 
 
 ---

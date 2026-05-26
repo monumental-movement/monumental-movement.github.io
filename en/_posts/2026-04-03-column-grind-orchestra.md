@@ -187,7 +187,7 @@ In particular, his approach, which centered on rhythm and voice, had a major inf
 
 ## Conclusion — pop that deviates from structure
 
-Grind Orchestra is a rare project that is based on the impulse of hardcore and the texture of noise, but also finds an unusual pop quality in it.
+Grind Orchestra is a rare project that is based on the impulses of hardcore and the texture of noise, while also finding an unusual pop quality.
 
 Physical beats with multiple percussion, vocals that transcend meaning, and melodic elements introduced in the later stages. By mixing these together, music like no other was formed.
 

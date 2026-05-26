@@ -60,9 +60,9 @@ With the spread of printing technology, poetry became fixed on paper, and the ac
 
 ### Dada and audio poetry
 
-The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's audio poetry is known for his attempts to break down words into syllables and treat the voice like an instrument. Here, poetry no longer became a means of conveying meaning, but a sound phenomenon itself.
+The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's audio poetry is known as an attempt to break down words into syllables and treat the voice like an instrument. Poetry here no longer became a means of conveying meaning, but a sound phenomenon itself.
 
-### Futurism and noise
+### 未来派とノイズ
 
 Italian Futurism brought mechanical and urban noise into art. Their reading performances emphasize shouts, onomatopoeia, and rhythm, blurring the boundaries between poetry, music, and noise.
 
@@ -140,7 +140,7 @@ With online distribution and network-based works, readings are not tied to a spe
 
 ---
 
-## Chronology Poetry Reading and Sound Art
+## 年表　ポエトリーリーディングとサウンドアート
 
 <div class="mermaid">
 graph LR
@@ -152,7 +152,7 @@ E --> F[1980s Poetry x Sound Collaboration]
 F --> G[2000s digital reading]
 </div>
 
->Throughout history, voices and sounds have repeatedly been separated and reconnected.
+>Throughout history, voices and sounds have been repeatedly separated and reconnected.
 
 ---
 
@@ -192,7 +192,7 @@ Poetry reading is an expression that makes one strongly aware of the existence o
 
 ### The importance of improvisation
 
-When collaborating with sound art, improvisational vocalizations and reactions are often more important than fixed texts. Poetry becomes a process generated on the spot rather than a finished work.
+When collaborating with sound art, improvisational vocalizations and reactions are often more important than fixed texts. Poetry becomes a process generated on the spot rather than a completed work.
 
 > Improvisation, including the body, creates a tension between poetry and sound.
 

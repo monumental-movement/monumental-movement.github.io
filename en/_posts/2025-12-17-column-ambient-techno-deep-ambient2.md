@@ -102,7 +102,7 @@ Even if it is an artificial sound, if the sense of distance, reflection, and shi
 
 ## 10. Listener independence
 
-In this kind of music, the listener is not a passive entity. It's always up to the listener to decide how much attention to give and when to let the music become the background.
+In this kind of music, the listener is not a passive entity. It's always up to the listener to decide how much attention to give and when to let the music become a background.
 
 Ambient Techno / Deep Ambient is extremely democratic music in that it doesn't force listening intensity.
 

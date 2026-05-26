@@ -79,7 +79,7 @@ The symbol of Chillstep is "smooth sub-bass."
 
 * Sine wave center
 * Adjust warmth with slight distortion (soft clipping)
-* Produce breathing-like fluctuations with light LFO (1/4, 1/8, etc.)
+* Produce breathing-like fluctuation with light LFO (1/4, 1/8, etc.)
 * Add emotion through volume changes without using excessive filter modulation
 
 ### 2-3 Melody and synth design
@@ -218,7 +218,7 @@ Emphasis is placed on ""sustainability" and ""lingering resonance" rather than m
 
 * Sine wave center
 * Mix in triangle waves to add warmth if desired
-*LFO is gentle
+* LFO is gentle
 * Side chain is thin
 * Release is short and tight
 

@@ -91,7 +91,7 @@ It can be said that this was the era when Toop's style, which combines criticism
 
 ""Ocean of Sound," known for its metaphor of ""sea of ​​sound," contained insights that anticipated the spread of streaming.
 The text, which is a fusion of essays, criticism, and literature, goes beyond the framework of a music book and functions as ""aural literature.''
-His own ambient works also presented a world of soft and diffused sounds.
+His ambient works also presented a world of soft and diffused sounds.
 
 | Year | Featured sound sources/artists | Commentary |
 |------|----------------|------|
@@ -103,7 +103,7 @@ His own ambient works also presented a world of soft and diffused sounds.
 
 ### Since the 2010s - Sound Art and the Archeology of Memory
 
-In works such as ""Sinister Resonance", he explores musings on ""things that cannot be heard" and ""reverberation.''
+In works such as ""Sinister Resonance," he explores musings on ""things that cannot be heard" and ""reverberation.''
 He has expanded his activities to the field of fine art and sound art, expanding music criticism into spatial and philosophical practice.
 Through themes such as memory, silence, and blank space, he reconsiders the sense of the ear from its roots.
 

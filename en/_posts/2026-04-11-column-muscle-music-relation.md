@@ -109,7 +109,7 @@ This allows for natural movement phase switching.
 
 Electronic music such as techno and house is characterized by a steady beat and strong bass. These promote rhythm synchronization and are suitable for sustained exercise.
 
-In particular, songs with a strong repetitive structure go well with repetitive movements, making it easier to maintain a state of concentration.
+In particular, songs with a strong repetitive structure go well with the repetitive movements of exercise, making it easier to maintain a state of concentration.
 
 ### Hip-hop and explosiveness
 
@@ -125,7 +125,7 @@ Rock music promotes psychological awakening due to its high sound pressure and e
 
 ## Music and concentration (flow)
 
-Entering a state of high concentration during exercise is important for improving performance. This state is called "flow".
+Entering a state of high concentration during exercise is important for improving performance. This state is called "flow."
 
 Music acts as a gateway to a flow state. A constant rhythm and moderate stimulation focus the mind on the current action and eliminate distracting thoughts.
 

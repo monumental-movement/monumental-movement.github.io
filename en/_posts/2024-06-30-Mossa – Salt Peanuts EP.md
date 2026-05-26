@@ -13,7 +13,7 @@ title: Mossa – Salt Peanuts EP
 ---
 
 
-MossaことJeremy Petrusは、カナダのモントリオールを拠点とするミュージシャン・DJ・エレクトロニックミュージックプロデューサー。 He runs the label Complot Records, which releases music in a wide range of styles from techno to chill-out.
+Jeremy Petrus, also known as Mossa, is a musician, DJ, and electronic music producer based in Montreal, Canada. He runs the label Complot Records, which releases music in a wide range of styles from techno to chill-out.
 
 "Salt Peanuts EP" is a tech house minimal track released on French label Frankie Rec in 2007.
 

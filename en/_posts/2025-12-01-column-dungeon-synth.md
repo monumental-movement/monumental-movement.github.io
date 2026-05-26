@@ -74,10 +74,10 @@ In the early 1990s, on the fringes of Scandinavian black metal, artists began cr
 Of particular importance are:
 - **Mortiis (Norway)**
 Former member of Emperor. Established a medieval fantasy "Dark Dungeon Music" style.
-- **Burzum (Norway) early keyboard pieces**
+- **Early keyboard pieces by Burzum (Norway)**
 The final song of ""Hvis Lyset Tar Oss" and the ambient tracks from ""Filosofem" left a strong symbolism for later Dungeon Synth.
 
-これらは“ジャンル名としての Dungeon Synth”以前の音源だが、のちの世代から明確に源流として扱われている。
+Although these are sound sources that predated "Dungeon Synth as a genre name," they are clearly treated as the source by later generations.
 
 ### ● 2-2. First wave (1995–2000)
 From 1995 to 2000, a young European project that preceded Mortiis "Era I", Cernunnos Woods, Depressive Silence, and Old Tower released works distributed mainly on tape.
@@ -156,7 +156,7 @@ Many artists sought the feel of game consoles and PCM keyboards from the 90s.
 GM pianos, Choir Aahs, Strings, Pads, etc. Cheapness and nostalgia are treated as values.
 
 ### ■ Soft synth
-In modern times, the following are often used:
+In modern times, the following are commonly used:
 
 - **DSK free VST**
 - DSK ChoirZ, DSK Strings, etc.
@@ -202,7 +202,7 @@ Adding a roughness of about 8 to 12 bits will enhance the 90's feel.
 Many artists actually record their songs onto cassettes.
 
 ### ■ EQ processing
-- **Remove low (below 100Hz)** → Towards monaural/old equipment feel
+- **Remove low (below 100Hz)** → Towards monaural/old equipment texture
 - **Remove high frequencies (above 6-8kHz)** → Remove digital odor
 
 ### ■ Reverb
@@ -276,7 +276,7 @@ Visual influence is extremely large and plays a role in complementing the worldv
 - **Fief (USA)**
 
 ## ● Modern day (2024–)
-- Significant multinationalization and fragmentation.
+- Significant multinationalization and segmentation.
 Themes such as Forest / Winter / Heroic / Cosmic Synth have increased.
 
 ---

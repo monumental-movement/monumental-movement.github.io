@@ -21,7 +21,7 @@ title: '[Column] The Golden Age of Hong Kong Movie Soundtracks: The Heartbeat an
 
 Text: mmr｜Theme: Soundtrack innovation and urban culture resonance in 1990s Hong Kong films
 
-Hong Kong cinema in the 1990s was an era in which the contours of the city were engraved not only through images but also through sound. The reflections of neon lights, the damp night air, the speed and impatience, all of which flow into the audience's bodies along with the music. In particular, the soundtrack was not just a background, but functioned as another narrator running alongside the story.
+Hong Kong cinema in the 1990s was an era in which the contours of the city were engraved not only through images but also through sound. The reflections of neon lights, the humid night air, the speed and impatience all flow into the audience's bodies along with the music. In particular, the soundtrack was not just a background, but functioned as another narrator running alongside the story.
 
 At this time, Hong Kong's handover in 1997 was just around the corner, and there was a unique sense of tension and floating in the society as a whole. Film music directly reflected this atmosphere, sometimes expressing the heartbeat of the city with pop and lightness, and other times with urgent rhythms.
 
@@ -70,7 +70,7 @@ Providing many dramatic songs with powerful vocals
 
 ### Drama of the theme song
 
-The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic movies and noir films, the melody of the theme song remains strongly in the memory of the audience.
+The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic movies and noir movies, the melody of the theme song remains strongly in the memory of the audience.
 
 In Angel's Tears, music also functions as a device to visualize the psychological distance between the characters.
 
@@ -163,7 +163,7 @@ Wong Kar-wai restructured existing songs and gave them new meaning.
 
 Music acts as a memory trigger, making the film stay with the audience for a long time.
 
-> Music existed not to explain the story, but to make it stick in memory.
+>Music existed not to explain the story, but to make it stick in memory.
 
 ---
 
@@ -203,7 +203,7 @@ graph TD
 
 Hong Kong movie soundtracks in the 1990s went beyond mere film music and functioned as memories of the city itself. It is imprinted with the atmosphere of a political transition, the waves of globalization, and the loneliness of the individual.
 
-Today, when we listen back to that music, we are not just remembering a movie, but reliving the texture of an era.
+When we listen back to that music today, we are not just remembering a movie, but reliving the texture of an era.
 
 The soundtracks of Hong Kong movies continue to beat as the heartbeat of the city even after the images have disappeared.
 

@@ -161,7 +161,7 @@ In sound art, listening is not a passive act. Spectators move, choose, and parti
 
 ## Chapter 10: Chronology (Extended)
 
-* 1930s: Research on electroacoustic equipment
+* 1930s: Research on electroacoustic devices
 * 1950s: Establishment of electronic music studios
 * 1960s: Experimental music and minimalism
 * 1970s: Sound installation took hold

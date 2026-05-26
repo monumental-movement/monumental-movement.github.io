@@ -165,7 +165,7 @@ El-P's beat is notable in the following ways compared to traditional boom-bap.
 
 What underpins the entirety of ""Funcrusher Plus" is an aesthetic that emphasizes ""tension" over ""pleasure.''
 
-### ● DJ Mr. Len's Scratch
+### ● DJ Mr. Len's scratch
 
 Sharp scratches are placed throughout the mix, reinforcing the hard feel of the beat.
 
@@ -268,7 +268,7 @@ Eliminating rap, El-P's beat aesthetic comes to the fore.
 
 ### ● Prototype of later El-P solo works
 
-The acoustics are clearly future-oriented, and are directly connected to the sound image of later Def Jux works.
+The sound is clearly future-oriented, and has a direct connection to the sound image of later Def Jux works.
 
 ---
 
@@ -392,10 +392,10 @@ He presented a perspective that is still relevant even after more than 20 years.
 
 # The final chapter—a short-lived but decisive existence
 
-What Company Flow leaves behind is
+The legacy of Company Flow is
 It goes beyond the value of mere musical works.
 
-* Indie possibilities
+* Possibility of indie
 * Artist autonomy
 * Significance of politics
 * Underground as aesthetics

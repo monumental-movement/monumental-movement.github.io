@@ -45,7 +45,7 @@ color: #fff;
 
 ## Origin and formation of Calypso
 
-Calypso's origins date back to the 18th and 19th centuries on the island of Trinidad. The carnival culture introduced during the French colonial period and the call-and-response singing and improvisational poetry culture originating from West Africa, centered on storytelling, intermingled to create a unique form of song. Originally sung in French-Creole, it was a form of social criticism that was difficult for the colonial powers to understand.
+Calypso's origins date back to the 18th and 19th centuries on the island of Trinidad. The carnival culture introduced during the French colonial period and the call-and-response singing and improvisational poetry culture originating from West Africa, centered on storytelling, intermingled to create a unique form of song. It was originally sung in French-Creole, and was a form of social criticism that was difficult for the colonial powers to understand.
 
 In the late 19th century, under British rule, calypso expanded to urban areas while incorporating English. Before newspapers became popular, calypsonians were de facto reporters, reporting on scandals, politics, crime, and romance in verse. Lyric cleverness, irony, and double meaning were important evaluation criteria, and emphasis was placed on the sharpness of the words rather than the melody.
 
@@ -57,7 +57,7 @@ At this stage, calypso changed from mere folk music to urban popular music. Perf
 
 ## The inseparability of carnival and music
 
-Trinidad's Carnival is a cultural device whose music refuses to be understood in isolation. After the emancipation of slaves, carnival functioned as a place where physical expression and noise that had been suppressed were made public. Costumes, marches, percussion instruments, and songs come together to transform the urban space itself into a stage.
+Trinidad's Carnival is a cultural device whose music refuses to be understood in isolation. After the emancipation of slaves, carnival functioned as a place where physical expression and noise that had been suppressed were made public. Costumes, processions, percussion instruments, and songs come together to transform the urban space itself into a stage.
 
 Calypso is intensively produced and performed from the preparation period to the actual carnival, and the songs are completed by being danced. The audience was not passive consumers, but participants in the music by singing and chanting. This interaction made the evaluation of music more than just a recording.
 

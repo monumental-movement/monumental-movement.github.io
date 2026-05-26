@@ -85,7 +85,7 @@ During this period, American experimental folk was scattered as ""the personal e
 
 ---
 
-# 3. 1980s-90s: Influence of Industrial/Neofolk and role of Current 93
+# 3. 1980s-90s: Influence of Industrial / Neofolk and role of Current 93
 
 In the 1980s and 1990s, "neofolk" with acoustic elements emerged from the British post-industrial scene.
 One of the central players is **Current 93 (led by David Tibet)**.
