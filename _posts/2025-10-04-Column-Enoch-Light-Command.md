@@ -217,3 +217,15 @@ Command Records 自体は1970年頃に事実上の終焉を迎えるが、作品
 Enoch Lightは単に“いい音”を追求しただけでなく、レコードという物体をデザインし、ステレオ時代における「聴取体験」を再定義した人物だ。Command Records の諸作は、今日でもオーディオの歴史、デザイン史、そしてポップ・カルチャーの文脈で再評価されている。初めて聴くときの「驚き」を演出すること──それがライトの真骨頂であり、彼の作品は現在でもその魔力を保っている。
 
 また、Enoch LightとTony Mottolaの関係は、単なる「プロデューサーとギタリスト」を超えていました。Lightの録音美学とMottolaの柔軟で多彩なギタープレイが結びついたことで、Command Recordsはスペースエイジ・ポップの象徴となり、現在も世界中のオーディオファンを魅了し続けています。
+
+---
+
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aXu78HXUUAQ?si=eeIlgHvm6BwJ8S0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

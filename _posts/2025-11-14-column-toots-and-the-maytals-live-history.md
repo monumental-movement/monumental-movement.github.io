@@ -207,3 +207,11 @@ D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 Toots and the Maytalsのライブは、音楽ジャンルの発展、コミュニティ形成、国際文化交流を具現化する場であった。観客との双方向性、即興性、そしてライブを通じた歴史的連続性こそが、彼らの音楽を時代を超えて語り継がれる理由である。ライブは単なる音の演奏ではなく、レゲエそのものを体現する文化儀式である。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NL2P2FPn3h0?si=FmIthSA9Y8S0bJlB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

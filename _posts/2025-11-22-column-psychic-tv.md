@@ -162,3 +162,11 @@ graph LR
 Psychic TV は音楽、儀式、思想を横断する総合的運動であった。彼らの活動は単なる音楽を超え、マジック、映像、身体、精神性、コミュニティの探求を提示。Genesis P‑Orridge のヴィジョンは、ジャンルの枠を破壊し、未来の表現形態を先取りするものであり、その影響は現代の実験音楽・カウンターカルチャーに深く刻まれている。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SRW61takj04?si=vIdxWnoEGZFQlYL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

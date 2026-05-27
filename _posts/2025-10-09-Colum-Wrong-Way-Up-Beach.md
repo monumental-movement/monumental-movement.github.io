@@ -182,3 +182,13 @@ flowchart TD
 『Wrong Way Up』を聴き終えたあと、あなたがもし『The Beach』を観るなら、  
 最後の波音の奥に、**Spinning Away**の残響が聴こえるかもしれない。  
 それが、現代における“ユートピアの音”なのだ。
+
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6EPdNXMx_pU?si=0uX5qfyM7L1T_7cr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

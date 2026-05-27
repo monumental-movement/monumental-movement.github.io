@@ -234,3 +234,14 @@ Tracy Chapman の歌は、いつも「静かな怒り」と「寄り添う眼差
 | 2002 | *Let It Rain*          | 静謐なトーンの傑作          | [Amazon](https://amzn.to/4nAUK4u) |
 | 2005 | *Where You Live*       | 個人的で親密な作品          | [Amazon](https://amzn.to/4pZL4C6) |
 | 2008 | *Our Bright Future*    | 希望と諦念を織り交ぜた集大成     | [Amazon](https://amzn.to/42TBdEj) |
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4rg6yJFdrw?si=BistwN-YLvq6un8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

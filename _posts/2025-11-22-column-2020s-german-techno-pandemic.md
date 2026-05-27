@@ -305,3 +305,12 @@ timeline
 この変化は今後の電子音楽史において“2020年代＝断絶の時代”として記録されるだろう。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5-Kjfib8DA?si=uK6WVU1NleLcYyY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

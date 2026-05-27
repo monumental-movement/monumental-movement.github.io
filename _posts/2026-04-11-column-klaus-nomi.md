@@ -264,5 +264,13 @@ Klaus Nomiのスタイルは、その後の多くのアーティストに影響�
 
 > 彼の遺産は音楽だけでなく表現そのものの在り方に及んでいる
 
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Yq-mXZhG1M?si=2gQEB5BlwEUMsmrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

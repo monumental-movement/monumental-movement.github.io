@@ -343,3 +343,13 @@ Nyege Nyegeは、レコードレーベル「Nyege Nyege Tapes」とサブレー�
 Nyege Nyegeは、アフリカの伝統音楽と現代の電子音楽を融合させた「アウトサイダー音楽」を世界に発信する重要な音楽集団です。そして、レーベルであるNyege Nyege Tapesは、シンゲリ・アコリトロニクス・エレクトロ・マロヤなど、アフリカ伝統音楽と電子音楽の融合を推進する最前線におり、
 地域文化の保存、都市・若者文化の表現、国際的発信を同時に担い、世界の音楽シーンで独自の地位を確立しています。その活動は、音楽だけでなく、文化的多様性や社会的包摂の重要性を再認識させてくれます。今後も彼らの音楽と活動から目が離せません。
 
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ocsHZOb-ooI?si=9ohQXSZOU7Y1LASq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

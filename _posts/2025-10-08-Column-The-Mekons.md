@@ -161,6 +161,16 @@ Mekonsの音楽は完璧ではない。だがその不完全さが、世界の�
 
 ---
 
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDd_YYywgLw?si=tr4R1DZRCQKGJ0Rh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## The Mekons 主要ディスコグラフィー
 
 | 発売年 | タイトル | 備考 | リンク |
@@ -195,3 +205,5 @@ flowchart TD
     A1977 --> A1978a --> A1978b --> A1979 --> A1985 --> A1989 --> A1993 --> A2000 --> A2013 --> A2019 --> A2025
 
 </div>
+
+---
