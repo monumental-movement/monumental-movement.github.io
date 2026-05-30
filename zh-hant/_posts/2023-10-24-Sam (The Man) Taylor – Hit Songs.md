@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Nostalgic
 - 70s
-title: 山姆泰勒 – 熱門歌曲
+title: Sam (The Man) Taylor – Hit Songs
 ---
 
 
@@ -47,7 +47,7 @@ B6. 花と蝶 – 森進一
 B7. 港町ブルース – 森進一
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
 
 
 

@@ -30,7 +30,7 @@ title: 【專欄】部落之家－從「原始」節奏到現代融合
 **時代背景**
 在 20 世紀 80 年代末和 90 年代初，芝加哥/紐約的俱樂部文化開始與其以迪斯科為基礎的 house 根源分化和多樣化。它的起源之一是 DJ 們從世界各地挖掘民族和拉丁唱片，並通過唱片編輯和採樣在 house 音樂中添加“現場打擊樂感覺”（這是俱樂部長期混合文化發展的時代）。
 
-**興趣點/站點**
+**興趣點/地點**
 - 在 20 世紀 90 年代初紐約和芝加哥的俱樂部中，DJ 本身就是流派表達的核心。
 - 早期，使用唱片和轉盤進行現場編輯是主流。
 
@@ -43,9 +43,9 @@ title: 【專欄】部落之家－從「原始」節奏到現代融合
 ## 成熟與繁榮（1994-2000）
 
 **時代背景**
-90 年代中期，突破流派界限的厂牌和合辑出现了。特別是來自美國的<strong>TRIBAL America</strong>為現場的形成做出了巨大的貢獻（標籤資訊：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>）。
+90 年代中期，突破流派界限的廠牌和合輯出現了。特別是來自美國的<strong>TRIBAL America</strong>為現場的形成做出了巨大的貢獻（標籤資訊：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>）。
 
-**代表作・人物**
+**代表作品/人物**
 - Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>：一張以俱樂部為導向的部落表達的重要專輯。
 - Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>：雖然偏向前衛搖滾，但被認為是一部與 90 年代俱樂部感覺有關的作品。
 
@@ -76,14 +76,14 @@ title: 【專欄】部落之家－從「原始」節奏到現代融合
 **現場標準配備（目前）**
 - 軟體：Ableton Live、Logic Pro、Native Instruments（Maschine/Kontakt）等。
 - 硬體：MPC系列、Elektron設備、Pioneer CDJ + DVS環境。
-- 例：利用高品質民族打擊樂器庫。
+- サンプル：高品質な民族打楽器ライブラリの活用。
 
 ---
 
 ## 傑作精選
 - 丹尼‧泰納利亞 — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">旅遊 (1998)</a>
 - 深盤 — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">垃圾科學 (1998)</a>
-- TRIBAL America 関連コンピ／リリース群（一例）：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
+- TRIBAL America 相關合輯/發行版（範例）：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
 
 ---
 
@@ -119,7 +119,7 @@ color: #fff;
 |年份|藝人 |曲目名稱 |特色|
 |------|--------------|----------|------|
 | 1997 |朱尼爾·瓦斯奎茲 |如果麥當娜打電話來 |象徵同性戀俱樂部場景的大膽樣本|
-| 1998 |丹尼‧特納利亞 |元素|部落打擊樂與最低限度的發展|
+| 1998 | Danny Tenaglia | Elements | 部族的なパーカッションとミニマルな展開 |
 | 1998 |深盤|擱淺|悠揚深沉的聲音|
 | 2001 |彼得·勞霍夫 |我得到了音樂|一首以人聲為主的地板曲目 |
 | 2002 |楚斯與塞瓦略斯 |拜拉|令人印象深刻的西班牙打擊樂傑作|
@@ -132,7 +132,7 @@ color: #fff;
 ---
 
 ## 節奏之旅
-Tribal House 不僅是俱樂部音樂，更是一場在全球傳播、隨著每個時代而變化的「節奏之旅」。作為一種在繼承非洲根源的同時透過科技融合不斷發展的流派，它將繼續受到關注。
+Tribal Houseは単なるクラブミュージックではなく、時代ごとに変容を遂げながらグローバルに広がった「リズムの旅」である。今後もアフリカンルーツを受け継ぎつつ、テクノロジーとの融合で進化していくジャンルとして注目され続けるだろう。
 
 ---
 

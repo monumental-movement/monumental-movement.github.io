@@ -16,7 +16,7 @@ title: 軟機 – 軟機
 ---
 
 
-The Soft Machine 是一支來自坎特伯雷的英國前衛爵士搖滾樂隊，由 Mike Rutledge、Robert Wyatt、Kevin Ayers、David Allen 和 Larry Nowlin 於 1966 年中期組成。樂團以威廉·S·巴勒斯的小說“The Soft Machine”命名。
+The Soft Machine 是一支來自坎特伯雷的英國前衛爵士搖滾樂隊，由 Mike Rutledge、Robert Wyatt、Kevin Ayers、David Allen 和 Larry Nowlin 於 1966 年中期組成。该乐队以威廉·S·巴勒斯的小说“The Soft Machine”命名。
 
 Soft Machine 成為英國最早的迷幻樂團之一，後來進入前衛搖滾和爵士搖滾，並於 1971 年成為一支器樂樂團。
 

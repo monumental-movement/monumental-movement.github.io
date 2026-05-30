@@ -45,7 +45,7 @@ EAI是「Electroacoustic Improvination」的縮寫，約2000年開始在國際�
 - 電子設備的即興操作（模組、筆記型電腦、效果器、採樣器）
 - 模糊現場樂器與電子聲音之間的界限
 - 積極使用持續的聲音和微妙的聲音（嗡嗡聲、嘶嘶聲、信號音）
-- 伝統的なリズム・旋律構造からの離脱  
+- 擺脫傳統的節奏和旋律結構
 - 「表演運動本身」也值得讚賞。
 - 雖然它是現場編碼之前的一代，但它專注於電氣操作。
 
@@ -53,7 +53,7 @@ EAI是「Electroacoustic Improvination」的縮寫，約2000年開始在國際�
 
 ---
 
-## 2. 歴史的背景：EAIを準備した4つの源流
+## 2.歷史背景：EAI準備的四個來源
 
 ### 2-1.起源①：1970年代的電聲音樂
 Pierre Henry、Iannis Xenakis 和 Karlheinz Stockhausen 首創的電聲製作技術引起了 EAI 後來對材料處理（粒度、訊號處理和電子噪音）的興趣。
@@ -65,7 +65,7 @@ Eddie Prévost 和 Keith Rowe 所展示的「非樂器聲音的解放」後來�
 
 ### 2-3.起源③：1980-1990年代的噪音/另類電子聲音
 日本噪音（Merzbow、Incapacitants等）透過對聲學材料的極致追求，暴露了「聲音的物質性」。
-另一方面，Otomo Yoshihide 和 Sachiko M 在他們的即興創作中引入了簡約而複雜的電子聲音（正弦波），奠定了 EAI 的基礎：「減少聲音數量」和「強調空間」。
+另一方面，Otomo Yoshihide 和 Sachiko M 即興創作了極簡而複雜的電子聲音（正弦波），並奠定了 EAI 的基礎：「減少聲音數量」和「強調空間」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -103,12 +103,12 @@ Eddie Prévost 和 Keith Rowe 所展示的「非樂器聲音的解放」後來�
 
 特徵：
 
-- 自製/修改的合成電路、訊號產生器等。
-- 播放“可控電子訊號”而不是噪音
+- 自製/修改的合成器電路、訊號產生器等。
+- ノイズではなく「制御可能な電子信号」を演奏  
 - 像對待爵士樂句一樣對待電子聲音
 - 追求物理動作與電子反應的匹配
 
-Toral 在 EAI 中的獨特之處在於其徹底的“手奏電子聲音”，並且是模組化操作即興創作可能性的代表範例。
+Toral 在 EAI 中的獨特之處在於其徹底的“手奏電子聲音”，並且是模組化操作即興創作可能性的代表性範例。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoJ3vPqkz-w?si=lldtAtTk2AVOX-Ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -117,7 +117,7 @@ Toral 在 EAI 中的獨特之處在於其徹底的“手奏電子聲音”，並
 # 3-3.大友義英 / Sachiko M（日本）
 EAI 的亞洲根源形成於與 20 世紀 90 年代末的「音響派」運動重疊的地區。
 
-- Sachiko M はサンプラーの内部テストトーン（サイン波）を用いた極度のミニマリズムを確立  
+- Sachiko M 利用採樣器的內部測試音（正弦波）建立極端極簡主義
 - Otomo Yoshihide 使用轉盤、吉他和取樣器開發聲學即興創作
 - 長絲 (Otomo x Sachiko M) 是 EAI 背景下的重要單位
 
@@ -212,14 +212,14 @@ flowchart TD
 
 # 八、EAI現狀及未來發展
 
-儘管EAI不像2000年代初期那樣集中作為一個獨特的場景，但隨著設備的發展，它不斷創造新的形式。
-具體而言，以下領域的聯繫正在取得進展：
+EAIは明確なシーンとしては2000年代前半ほどの集中を見せていないものの、機材の進化とともに新たな形態を生み続けている。  
+特に以下の領域との接続が進んでいる：
 
 - 即時編碼
 - 模組化合成自動生成系統
 - 聲音藝術/裝置
-- 與現場錄音技術融合
-- 即興使用高保真度立體聲響複製技術
+- フィールドレコーディング技術との融合  
+- 空間音響（Ambisonics）の即興利用
 
 由於EAI仍然是一種“實踐”而不是一種“流派”，只要還有使用電信號的音樂家，它的形式就會不斷變化。
 

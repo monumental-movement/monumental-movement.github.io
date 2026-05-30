@@ -10,7 +10,7 @@ tags:
 - Alternative Rock
 - Indie Rock
 - 90s
-title: Radiohead – Airbag / How Am I Driving?
+title: Radiohead – 安全氣囊 / 我如何駕駛？
 ---
 
 
@@ -28,7 +28,7 @@ title: Radiohead – Airbag / How Am I Driving?
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
 #### Youtube

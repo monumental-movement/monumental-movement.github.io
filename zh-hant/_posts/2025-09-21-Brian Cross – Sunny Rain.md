@@ -10,15 +10,15 @@ tags:
 - House
 - Electro
 - 00s
-title: Brian Cross – Sunny Rain
+title: 布萊恩克羅斯——晴雨
 ---
 
 
-Brian Cross (Brian Fortuny Cruz)は、スペインのDJ／プロデューサー。
+布萊恩·克羅斯 (Brian Fortuny Cruz) 是一位西班牙 DJ/製作人。
 
-This record is House/Electro, released in 2008 by Italian dance/house label Net's Work International. （促銷版）
+這張唱片是 House/Electro，由義大利舞曲/浩室唱片公司 Net's Work International 於 2008 年發行。 （促銷版）
 
-A1は、マイアミのレーベルJuicy Musicの主宰Robbie Riveraによるremix。
+A1 是邁阿密廠牌 Juicy Music 負責人 Robbie Rivera 的混音版。
 
 B1 是瑞典 DJ/製作人 StoneBridge (Sten Hallström) 的混音作品，他因對 Robin S 的“Show Me Love”(1993) 和 Ne-Yo 的“Closer”(2008) 的格萊美提名混音作品而聞名。
 

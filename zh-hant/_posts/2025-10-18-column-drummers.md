@@ -49,11 +49,11 @@ color: #fff;
 打擊樂器是音樂的開始，是世界的心跳。
 非洲村莊的鼓是語言的替代品，拉丁美洲的康加舞是祈禱的延續。
 在工業革命後的城市中，它與機器的節奏變得同步。
-架子鼓誕生於20世紀初。
+ドラムセットが誕生したのは20世紀初頭。  
 小鼓、大鼓和踩鈸的組合被設計成人類四肢的延伸，
-爵士樂將其變成了“即興結構”。
+ジャズがそれを「即興の構造体」に変えた。
 
-吉恩·克魯帕、巴迪·里奇、阿特·布萊基──
+ジーン・クルーパ、バディ・リッチ、アート・ブレイキー──  
 他們擊中的不是節奏，而是存在本身。
 節奏既不是主導也不是伴奏，而是樂團群體的「心跳」。
 演奏這首曲子的鼓手也是一位哲學家。
@@ -66,7 +66,7 @@ color: #fff;
 
 ### 1-1.爵士樂的黃金時代：從阿特·布萊基到艾爾文·瓊斯
 
-正如 Art Blakey 的《Moanin》所象徵的那樣，
+アート・ブレイキーの**「モーニン」**が象徴するように、  
 在爵士樂的黃金時代，鼓是「對話」的中心。
 領隊布萊基透過打鼓來培養年輕人。
 艾爾文瓊斯成為柯特蘭的「宇宙驅動力」。
@@ -102,7 +102,7 @@ Bonham 的《When the Levee Breaks》中的小鼓混響是
 
 東尼艾倫（Tony Allen）更出名的是費拉·庫蒂（Fela Kuti）的助手，他是「非洲節奏」的發明者。
 這種節奏是「反體制」的象徵，體現了軍事統治下尼日利亞人民的能量。
-鼓就是政治。那聲音是抗議的聲音。
+鼓就是政治。那声音是抗议的声音。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -123,7 +123,7 @@ Bonham 的《When the Levee Breaks》中的小鼓混響是
 
 Greg Fox（前 Liturgy）是黑金屬和即興創作的融合。
 Deantoni Parks（The Mars Volta）用一隻手演奏採樣器，另一隻手演奏小鼓。
-用你的身體來解決 21 世紀「人類與機器共存」的挑戰。
+「人間とマシンの同居」という21世紀的課題を身体で解く。  
 他們的表演介於宗教儀式和科技之間。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,9 +132,9 @@ Deantoni Parks（The Mars Volta）用一隻手演奏採樣器，另一隻手演�
 
 ## 第2章：日本的心跳－連結地上與地下的節奏
 
-### 2-1.繼 Ponta 之後－從工匠到思想家
+### 2-1. ポンタ以後 — 職人から思想家へ
 
-村上秀一《Ponta》創造的是「日文中的敲擊感」。
+村上“ポンタ”秀一が築いたのは「日本語で叩く」感覚。  
 然而，自 20 世紀 90 年代以來，新一代的出現打破了這種語法。
 他們透過**「移動間隙」**重新定義了音樂的重力。
 
@@ -221,9 +221,9 @@ AI 鼓、MIDI 觸發器和觸覺設備。
 YOSHIMIO 和 Yo2ro 的宇宙節拍。
 
 乍一看，它們似乎是不同的世界。
-だが、聴く者の胸に宿るリズムは同じだ。  
+然而，駐留在聽者心中的節奏是一樣的。
 它是「連結地上與地下的心跳」──
-そして未来へと続く音楽の記憶である。
+這是一種將持續到未來的音樂記憶。
 
 ---
 
@@ -236,7 +236,7 @@ YOSHIMIO 和 Yo2ro 的宇宙節拍。
 |東尼艾倫 | *家庭烹飪* | 2002 | [亞馬遜](https://amzn.to/3WKLBKO) |
 |約翰‧博納姆 (齊柏林飛船) | *齊柏林飛船 IV* | 1971 | [亞馬遜](https://amzn.to/4o06I87) |
 |薑餅麵包（奶油）| *火輪* | 1968 | [亞馬遜](https://amzn.to/42NEdSu) |
-|傑夫米爾斯 | *在東京 Liquid Room 現場直播* | 1996 | [亞馬遜](https://amzn.to/42KKKNK) |
+| Jeff Mills | *Live at the Liquid Room, Tokyo* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
 |東尼威廉斯 | *終生：緊急情況！ * | 1969 | [亞馬遜](https://amzn.to/49boXCJ) |
 |村上秀一《Ponta》 | *節奏設計師* | 1994 | [亞馬遜](https://amzn.to/4qi2XfH) |
 |日野元彥 | *單獨在一起* | 1979 | [亞馬遜](https://amzn.to/4hgMB2E) |

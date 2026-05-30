@@ -12,7 +12,7 @@ title: Mauro Picotto & Riccardo Ferri –Alchemist EP
 ---
 
 
-《新時間，新地點》在電子舞曲俱樂部和英國硬舞俱樂部中都大受歡迎。
+「New Time, New Place」はテクノとイギリスのハードダンスクラブの両方で大ヒットしました。
 
 其他歌曲都是相當紮實的技術，而「Pandoro」是一首非常有趣的歌曲。當曲目隨著強節奏發展時，它會產生美妙、柔和的聲音。
 

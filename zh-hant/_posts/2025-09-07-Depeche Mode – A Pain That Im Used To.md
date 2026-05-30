@@ -14,7 +14,7 @@ title: Depeche 模式－我已經習慣的痛苦
 ---
 
 
-選自 Depeche Mode 第 11 張專輯《Playing the Angel》的單曲。製片人是本·希利爾。
+选自 Depeche Mode 第 11 张专辑《Playing the Angel》的单曲。製片人是本·希利爾。
 
 該混音版由 Bitstream（Dave Conner 和 Steve Conner）製作，這是一對來自英國的兄弟二人組，自 90 年代末以來一直在 Warp Records 和 Elektrix Records 等唱片公司發行 IDM/techno/ Electro 聲音。
 

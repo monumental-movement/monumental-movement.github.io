@@ -9,7 +9,7 @@ permalink: /zh-hant/tukan-light-a-rainbow/
 tags:
 - Trance
 - German Trance
-title: 圖坎 – 點亮彩虹
+title: Tukan – Light A Rainbow
 ---
 
 
@@ -28,7 +28,7 @@ B1. Light A Rainbow (Tukan's Original Mix)
 B2. Light A Rainbow (DJ Worris Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77518561932?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m77518561932?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I2zNe3nM1ZM?si=sSeJEJjffA6RxEyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

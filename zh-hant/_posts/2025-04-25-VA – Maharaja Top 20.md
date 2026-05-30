@@ -16,7 +16,7 @@ title: VA – Maharaja 前 20 卷。三、
 ---
 
 
-大君TOP20 vol.Ⅲ
+マハラジャ TOP20 vol.Ⅲ
 
 非賣品
 

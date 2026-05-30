@@ -9,13 +9,13 @@ permalink: /zh-hant/ignition-technician-episode-1/
 tags:
 - Techno
 - 00s
-title: Ignition Technician – Episode 1
+title: 點火技術員 – 第 1 集
 ---
 
 
-Ignition Technician（イグニッション テクニシャン）は、Cracker Jack, DJ Special Needs, Slut Peddlersからなるグループです。
+Ignition Technician 是一個由 Cracker Jack、DJ Special Needs 和 Slut Peddlers 組成的團體。
 
-このEPは、2001年にUKのレーベルTortured Recordsからリリースされました。
+這張 EP 於 2001 年由英國唱片公司 Tortured Records 發行。
 
 #### 曲目表
 ```md

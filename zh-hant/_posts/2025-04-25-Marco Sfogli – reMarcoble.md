@@ -10,11 +10,11 @@ tags:
 - Rock
 - UK
 - Progressive Rock
-title: 馬可·斯福利 – reMarcoble
+title: Marco Sfogli – reMarcoble
 ---
 
 
-Marco Sfogli 是一位義大利吉他手。他曾與美國前衛金屬樂團 Dream Theater、PFM、Icefish 等樂團的 James LaBrie 合作演出。
+Marco Sfogli 是一位意大利吉他手。他曾與美國前衛金屬樂團 Dream Theater、PFM、Icefish 等樂團的 James LaBrie 合作演出。
 
 這張專輯由JTC Records於2012年發行，是Marco Sfogli的第二張個人專輯。
 

@@ -21,10 +21,10 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 <小時>
 
-### 歐洲音樂的真實身分是什麼？
+### Euroと呼ばれる音楽の正体とは？
 
-1990年代的「歐洲音樂」並不是特定的流派，而是主要在歐洲大陸發展的流行舞曲流行音樂的總稱。
-其中最具代表性的是“Eurobeat”和“Eurodance”，但其他流派如 Eurotrance、高能量和合成流行樂也同時運作。
+90年代の「ユーロ・ミュージック（Euro Music）」とは、特定のジャンルというより、ヨーロッパ大陸を中心に発展した大衆的ダンス・ポップ音楽の総称である。
+中でももっとも象徴的なのは「ユーロビート」や「ユーロダンス（Eurodance）」だが、それに留まらず、ユーロトランス、ハイエナジー、シンセポップなども同時期に併走していた。
 
 換句話說，20世紀90年代的歐元是“現代歐洲的流行形象”，融合了派對文化、舞曲、朗朗上口的旋律和技術。
 
@@ -99,9 +99,9 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 ---
 
-● [基地王牌 – 「標誌」 (1993)](https://amzn.to/4mXEhGp)
+● [Ace of Base – “The Sign” (1993)](https://amzn.to/4mXEhGp)
 
-瑞典流行樂團。连续 100 年在 Billboard Hot 100 排行榜上排名第一。
+瑞典流行樂團。連續 100 年在 Billboard Hot 100 排行榜上排名第一。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -127,7 +127,7 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 **● CD Maxi 單一培養**
 
-一首歌中包含多種混音和 B 面，使其適合俱樂部和家庭。
+一首歌包含多種混音和 B 面，使其適合俱樂部和家庭。
 
 **●MTV歐洲**
 
@@ -135,7 +135,7 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 **● Super Eurobeat（日本）**
 
-日本Avex獨立開發的系列。也與頭文字 D 文化有關。
+エイベックスが日本で独自展開したシリーズ。頭文字D文化ともリンク。
 
 **●歐洲生產、日本分銷的重新進口光碟**
 

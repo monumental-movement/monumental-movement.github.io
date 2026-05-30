@@ -10,7 +10,7 @@ tags:
 - Soul
 - Disco
 - 7inch
-title: 強尼泰勒 – 迪斯可女士
+title: Johnnie Taylor – Disco Lady
 ---
 
 

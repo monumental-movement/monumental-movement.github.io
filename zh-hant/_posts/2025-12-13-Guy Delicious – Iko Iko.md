@@ -16,7 +16,7 @@ title: 美味蓋伊 – Iko Iko
 
 Guy Delicious (Guy Lenzner) 翻唱了著名歌曲「Iko Iko」。一首 House/Latin 曲目，由專門從事 House 和 Garage 音樂的澳洲唱片公司 Tinted Records 於 2004 年發行。
 
-A 是 DJ/製作人二人組 Mutiny 的混音版。
+Aは、DJ・プロデューサーデュオMutinyによるremix。
 
 #### 曲目表
 ```md

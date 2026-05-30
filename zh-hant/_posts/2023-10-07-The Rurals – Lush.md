@@ -15,7 +15,7 @@ title: 鄉村－鬱鬱蔥蔥
 
 「鬱鬱蔥蔥」是
 2000年在英國廠牌「Peng」上發布，本名Andy Compton。
-這是 The Rurals 計畫的一張 EP。
+によるプロジェクトThe RuralsのEPです。
 
 
 #### 曲目表

@@ -92,11 +92,11 @@ Footwork/Juke 場景中存在以下重要人物和標籤。
 
 | アーティスト/プロデューサー | 貢献 |
 |--------------------------|------|
-| DJ Rashad | A central figure who spread footwork internationally. Deploying complex rhythms and innovative sample techniques |
+| DJ 拉沙德 | 運用複雜的節奏與創新的樣本技術| futtowaークを國際的に広めた中心人物。
 | DJ 史賓 |與DJ Rashad打造Footwork聲音，對年輕人影響力大 |
 | RP 噓 |早期步法創始人之一，Ghetto House 變身步法 |
 |特拉克斯曼 |為芝加哥 Juke 場景的發展做出了貢獻 |
-|穆星球|英國廠牌 Footwork 在國際上發布 |
+| Mu星球 |英國廠牌 Footwork 在國際上發布 |
 
 ---
 
@@ -114,7 +114,7 @@ timeline
 
 ---
 
-## 6. 國際擴張
+## 6. 国際的な拡がり
 
 自 2010 年代以來，步法一直吸引著美國以外的人們的注意。它尤其影響了歐洲、日本、巴西和澳洲的電子舞曲音樂界。
 
@@ -147,9 +147,9 @@ timeline
 
 ---
 
-## 8. Footworkの社会的意義
+## 8. 步法的社會意義
 
-- 芝加哥南區非裔美國人社區的文化輸出。
+- 芝加哥南區非裔美國人社區的文化出口。
 - 青年表達方式與社區營造的角色。
 - 它已被世界各地的俱樂部和節日接受為一種新的舞蹈風格。
 

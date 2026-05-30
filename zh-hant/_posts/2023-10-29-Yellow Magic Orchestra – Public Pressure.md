@@ -13,7 +13,7 @@ title: 黃色魔法樂團 – 公眾壓力
 ---
 
 
-1983 年，Yellow Magic Orchestra 的《PublicPressure》在 Alfa 廠牌上發行。
+1983年にYellow Magic Orchestra（イエローマジックオーケストラ）のPublic Pressure（公的抑圧）はレーベルAlfaからリリースされました。
 
 #### 曲目表
 ```md

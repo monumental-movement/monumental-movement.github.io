@@ -14,9 +14,9 @@ title: 西蒙娜費迪 – Belzebu Tales
 ---
 
 
-Simone Fediは、イタリアのミュージシャン・プロデューサー。
+西蒙娜·費迪 (Simone Fedi) 是一位義大利音樂家和製作人。
 
-イタリアのエレクトロ・ディスコ・ファンクプロジェクトOut Of Cityのメンバーとしても活動している。
+他也是義大利電子迪斯科放克計畫 Out Of City 的成員。
 
 《Belzebù Tales》是由著名唱片公司 Eskimo 於 2007 年發行的迪斯可曲目。
 

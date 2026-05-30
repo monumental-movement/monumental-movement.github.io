@@ -22,7 +22,7 @@ title: '[專欄] Ben Frost 與聲學建築：噪音與結構之間'
 
 
 當許多聽眾第一次聽到本·弗羅斯特的音樂時，他們首先註意到的不是音量，而是密度。
-這不僅僅是一聲巨響。聲音使空間本身膨脹、壓縮，其存在彷彿奪去了它的呼吸。
+それは単なる大音響ではない。音が空間そのものを押し広げ、圧縮し、呼吸を奪うように存在する。  
 
 對來自澳洲、現居冰島的弗羅斯特來說，**聲音是一種物理現象，也是一種暴力形式**。
 它被建構為一種超越旋律和節奏的建築和觸覺體驗。
@@ -55,7 +55,7 @@ color: #fff;
 
 2009年的《**By the Throat**》是一部真正具有像徵意義的作品。
 在這裡，聲音像野獸一樣咆哮、呼吸和攻擊。
-狼嚎、呼吸聲和低頻咆哮的現場錄音。
+フィールドレコーディングされた狼の遠吠え、呼吸音、低周波の唸り。  
 這些不是環境聲音，而是被組織為「攻擊聲音」。
 
 ---
@@ -72,17 +72,17 @@ color: #fff;
 聽聲音的是腹腔、皮膚和骨骼，而不是耳朵。
 聲音圍繞著聽者，就像充滿空間的氣壓。
 
-それはもはや音楽というよりも、**儀式**だ。  
-音の連続が、意識を拡張し、現実を変質させるような瞬間が訪れる。
+它更像是一種**儀式**而不是音樂。
+有一天，一系列聲音擴展了意識並改變了現實。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snHUxlz99kA?si=PMj7lMipQhNWicjB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## スタジオという戦場
+## 工作室的戰場
 
-Ben Frostの制作環境は、単なるレコーディングスタジオではなく「戦場」に近い。  
-膨大なモジュラーシンセ、改造マイク、過剰なコンプレッサー。  
+Ben Frost 的製作環境更像是一個戰場，而不僅僅是一個錄音室。
+大量的模組化合成器、改進的麥克風和頂級壓縮器。
 そこでは音を「録る」のではなく、**殴りつけるように掴み取る**。
 
 他並不否認偶然性，但同時又說，“每一個頻率都有它存在的理由。”
@@ -96,9 +96,9 @@ Ben Frostの制作環境は、単なるレコーディングスタジオでは�
 
 ---
 
-## シネマティック・ターン：影のためのスコア
+## 電影轉折：陰影配樂
 
-2010年代以降、Frostの活動は映画・ドラマ音楽へと拡張した。  
+自 2010 年代以來，Frost 的活動範圍已擴展到電影和戲劇音樂。
 諸如“**堅韌**”、“**黑暗**”和“**狼養大**”之類的分數是
 它不是一種煽動恐懼的聲音，而是一種塑造故事本身空間的聲音。
 
@@ -143,10 +143,10 @@ AURORA可以說是一部真正捕捉到聲音變成光的瞬間的作品。
 將舞台變成一個充滿光和噪音的儀式空間。
 
 極端な音圧、低周波のうねり、白色光。  
-他們麻木了觀眾的感官，將其變成了**神聖的體驗**。
+それらは観客の感覚を麻痺させ、**聖的体験**へと転化する。  
 
-這個結構類似萊巴赫、天鵝，甚至是宗教儀式。
-「超越過度的平靜」——
+その構造は、LaibachやSwans、さらには宗教儀式のようでもある。  
+「過剰を超えた先にある静けさ」——  
 弗羅斯特從中找到了一種**解脫**。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NSfwDnnJdo?si=DWEXMeMqNZDNqzLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -176,9 +176,9 @@ AURORA可以說是一部真正捕捉到聲音變成光的瞬間的作品。
 噪音不是破壞，而是環境的聲音。
 
 他說：
-> 「聴くという行為は、生き延びるための感覚だ。」
+> “傾聽的行為是一種生存感。”
 
-音はもはや娯楽でも芸術でもない。  
+聲音不再是娛樂或藝術。
 它是一種讓人類與世界重新連結的「生理工具」。
 
 ---
@@ -190,8 +190,8 @@ AURORA可以說是一部真正捕捉到聲音變成光的瞬間的作品。
 | 2003 | **鋼傷** |使用微妙的環境聲音和吉他來嘗試微妙的聲學效果 | [亞馬遜](https://amzn.to/4h639dD) |
 | 2007 | **機器理論** |最小結構與雜訊的加速主義融合 | [亞馬遜](https://amzn.to/471ouk1) |
 | 2009 | **喉嚨** |動物聲音與暴力紋理的臨界點| [亞馬遜](https://amzn.to/3WyR7QC) |
-| 2014 | **A U R O R A** |光與振動的爆炸，首先轉移到扭曲| [亞馬遜](https://amzn.to/4n5Dl2R) |
-| 2017 | 2017 **中心無法容納** | Steve Albini 記錄的模擬密度 | [亞馬遜](https://amzn.to/4n3dOaH) |
+| 2014 | **A U R O R A** | 光と振動の爆発、Warp移籍第一弾 | [Amazon](https://amzn.to/4n5Dl2R) |
+| 2017 | **The Centre Cannot Hold** | Steve Albini録音によるアナログ的密度 | [Amazon](https://amzn.to/4n3dOaH) |
 | 2017–2020 | **黑暗：週期 I–III (OST)** | Netflix 戲劇音樂，打造低音與靜音 | Netflix [亞馬遜](https://amzn.to/4o76X0w) |
 
 ---
@@ -239,13 +239,13 @@ flowchart TD
 
 ---
 
-### Ben Frost 公式リンク
+### 本弗羅斯特官方鏈接
 
 [Official Website](https://ethermachines.com)
 
 [官方Instagram](https://www.instagram.com/ethermachines)
 
-[Bandcamp](https://benfrost.bandcamp.com/album/steelwound-20th-anniversary-edition)
+[樂隊營](https://benfrost.bandcamp.com/album/steelwound-20th-anniversary-edition)
 
 [Soundcloud](https://soundcloud.com/benfrost)
 
@@ -255,11 +255,11 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 [【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
+🔗 [[專欄]灣區噪音/實驗音樂場景－50年的破壞與共鳴](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
 
-🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)
+🔗 [[專欄]噪音音樂 — 從起源到現在：歷史背景、著名唱片、裝備變遷](https://monumental-movement.jp/Column-Noise-Music)
 
-🔗 [【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
+🔗 【【專欄】90年代至2000年代日本地下岩石與噪音的軌跡】(https://monumental-movement.jp/Column- Japanese-Underground-Rock-Noise)
 
 🔗 [[專欄]實驗音樂的歷史與傑作：從起源到現在](https://monumental-movement.jp/Column-Experimental-Music)
 

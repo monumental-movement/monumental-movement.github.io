@@ -10,7 +10,7 @@ tags:
 - Industrial
 - Psy-Trance
 - 00s
-title: 提姆舒爾特 – 追溯/秘密
+title: Tim Schuldt – Traced Back / Secrets
 ---
 
 

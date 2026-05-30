@@ -21,7 +21,7 @@ title: 拾取配樂作品
 
 格式：乙烯基
 
-作品：1965 年電影《一片藍色》的原聲帶。 1978 年重新發行。
+作品：1965年公開映画『いつか見た青い空』（A Patch of Blue）のサウンドトラック。1978年再発盤。
 
 #### 曲目表
 ```md
@@ -111,7 +111,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 埃尼奧·莫里康內 – Nuovo Cinema Paradiso
+### Ennio Morricone – Nuovo　Cinema　Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
 格式：CD

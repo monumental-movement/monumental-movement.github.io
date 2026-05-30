@@ -10,7 +10,7 @@ tags:
 - Comic
 - Parody
 - 7inch
-title: Shofukutei Tsuruko - Uguisudani Music Hall
+title: 松福亭鶴子 - 鶯谷音樂廳
 ---
 
 

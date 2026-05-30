@@ -49,7 +49,7 @@ Eurobeat 的根源是 20 世紀 80 年代誕生於義大利的「Italo Disco」�
 ### 什麼是帕拉帕拉？ ──一致重複的樂趣
 ● 帕拉帕拉的由來
 
-- 1980年代末、東京・六本木や渋谷のディスコ（マハラジャ、ジュリアナ東京など）で発生
+- 發生於 20 世紀 80 年代末，東京六本木和澀谷的迪斯科舞廳（Maharaja、Juliana Tokyo 等）
 
 - 一種集體舞蹈，手部動作上下左右精細一致。
 
@@ -76,7 +76,7 @@ Eurobeat 的根源是 20 世紀 80 年代誕生於義大利的「Italo Disco」�
 
 - 義大利製作的合輯系列，專供日本市場
 
-- 連接ParaPara Floor和CD店的“聯動產品”
+- パラパラフロアとCDショップを結ぶ“連動商品”
 
 - 編舞說明將印在夾克和小冊子上。
 
@@ -100,9 +100,9 @@ Time、A-Beat C 和 Delta 等義大利唱片公司已與 avex 簽訂獨家合同
 
 ● 媒體製作
 
-- 「Gal Charisma」在電視節目和雜誌上引入編舞
+- テレビ番組や雑誌で“ギャルカリスマ”が振り付けを紹介
 
-- 事實上，Eurobeat 已成為青少年流行趨勢的主流。
+- 実質的に、ユーロビートがティーンのトレンドとしてメインストリームに
 
 - “記住=一種參與儀式”，創造一種同儕壓力和團結感的文化。
 
@@ -119,7 +119,7 @@ Time、A-Beat C 和 Delta 等義大利唱片公司已與 avex 簽訂獨家合同
 
 ● YouTube世代的“覺醒”
 
-- 隨著過去的編舞影片和歌曲在網路上分享，第二次parapara熱潮在當地出現。
+- 過去の振り付け動画や曲がネットで共有されることで第2次パラパラブームが局地的に発生
 
 - 也有海外粉絲像重新進口一樣被重新發現並獲得好評的現象。
 
@@ -145,7 +145,7 @@ Eurobeat 和 Parapara 不僅僅是音樂和舞蹈的結合。
 
 ### 相關專欄
 
-[[專欄]頭文字D與Eurobeat之間的文化關係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+ [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
 [[專欄]頭文字D與音樂交叉的速度記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 

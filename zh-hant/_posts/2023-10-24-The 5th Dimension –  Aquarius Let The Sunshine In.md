@@ -16,7 +16,7 @@ title: 第五次元——水瓶座讓陽光照進來
 
 5th Dimensio是活躍於1960年代末至1970年代初的美國聲樂團體，風格為陽光流行、流行靈魂、迷幻靈魂等。
 
-1969年，他以《Aquarius/Let The Sunshine In》獲得葛萊美年度最佳唱片獎。
+1969年に「Aquarius / Let The Sunshine In 」でグラミー賞最優秀レコード賞を受賞。
 
 #### 曲目表
 ```md

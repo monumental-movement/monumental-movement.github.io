@@ -36,7 +36,7 @@ title: Sum 41 – 這看起來被感染了嗎？
 12. Hooch
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qO-mSLxih-c?si=8CFdT8kN6vvHHVyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ title: 拾取盒式磁帶作品
 
 <小時>
 
-### 無藝術家 – 環境（磁帶二）
+### No Artist – Environments (Cassette Two) 
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>.
 
 1970 年代現場錄音/療癒 捕捉自然環境的療癒音景。
@@ -39,7 +39,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 ### 噪音的藝術——毫無意義的廢話
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%2010%20Of%20Noise%20%E2%80%93%205%20N.
 
-1987年 Leftfieldシンセポップ アートポップ×実験寄り、ユニークなシンセ作。
+1987 年 Leftfield Synth 普普藝術流行 x 實驗性、獨特的合成器作品。
 
 #### 曲目表
 ```md
@@ -156,7 +156,7 @@ Come on, Bassem
 
 
 ### 湯瑪斯紐曼 – 女人的香氣
-<a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%(webp.
+<a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A7%>
 
 1992 年電影原聲帶 經典電影的原創配樂磁帶。
 
@@ -312,7 +312,7 @@ D9. Higher Ground – Shake 'Em Up
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 運行-D.M.C. – 搖滾之王
+### Run‑D.M.C. – King Of Rock
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20King%20Of%E2%80%93%20King%20Of%20King%20Of%。
 
 1985 年？  嘻哈/搖滾融合，搖滾和饒舌的開創性流行作品

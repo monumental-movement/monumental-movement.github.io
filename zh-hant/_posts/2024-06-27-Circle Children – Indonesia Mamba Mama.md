@@ -14,9 +14,9 @@ title: 兒童圈——印尼曼巴媽媽
 ---
 
 
-Circle Children 是美國 DJ 兼製作人 Armand Van Helden 的別名之一。
+Circle Childrenは、USのDJ・プロデューサーArmand Van Helden（アーマンド・ヴァン・ヘルデン）の別名義の一つ。
 
-《Indonesia / Mamba Mama》是一首 house/tribal house 曲目，由 house 廠牌 Strictly Rhythm 於 1993 年發行。執行製作人是 Strictly Rhythm 聯合創始人 Gladys Pizarro。
+「 Indonesia / Mamba Mama」は、ハウスレーベルStrictly Rhythmから1993年にリリースされたハウス・トライバルハウストラック。エグゼクティブプロデューサーは、Strictly Rhythmの共同創設者Gladys Pizarro。
 
 #### 曲目表
 ```md

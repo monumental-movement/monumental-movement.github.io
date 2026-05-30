@@ -9,13 +9,13 @@ permalink: /zh-hant/zombie-nation-souls-at-zero/
 tags:
 - Techno
 - 00s
-title: Zombie Nation – Souls At Zero
+title: 殭屍國度－靈魂歸零
 ---
 
 
 Zombie Nation 因 1999 年發行的《Kernkraft 400》而聲名大噪。
 
-最初是由德國 DJ 和製作人 Splank 組成的 techno 二人組！ (Florian Senfter) 和 DJ Mooner (Emanuel Günther)，現在是 Splank！ （弗洛里安·森夫特）獨自活躍。
+最初是由德国 DJ 和制作人 Splank 组成的 techno 二人组！ (Florian Senfter) 和 DJ Mooner (Emanuel Günther)，现在是 Splank！ （弗洛里安·森夫特）獨自活躍。
 
 《Souls At Zero》是一首科技電子歌曲，由 Florian Senfter 和 Wolfram "Wolfen" Gottardt 創立的 Dekathlon Records 唱片公司於 2003 年發行。
 

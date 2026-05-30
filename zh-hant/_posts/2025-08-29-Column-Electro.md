@@ -24,7 +24,7 @@ title: 【專欄】Electro：機器雕刻的未來城市的節奏
 
 ### 介紹
 
-Electro 是 20 世紀 80 年代初出現的電子音樂潮流。他們以放克和嘻哈節奏為基礎，以節奏機尤其是 Roland TR-808 的節拍為核心，實現了獨特的演變。深沉的低音大鼓、幹軍鼓和合成器的未來主義聲音對後來的 techno、house、electricclash 甚至現代低音音樂產生了深遠的影響。
+Electro 是 20 世紀 80 年代初出現的電子音樂潮流。他們以放克和嘻哈節奏為基礎，以節奏機尤其是 Roland TR-808 的節拍為核心，實現了獨特的演變。深沉的低音大鼓、乾小鼓和合成器的未來主義聲音對後來的 techno、house、electricclash 甚至現代低音音樂產生了深遠的影響。
 
 <小時>
 
@@ -84,7 +84,7 @@ B. Planet Rock (Instrumental)
 
 ### 2000 年代的復興與電擊
 
-2000 年代初，電子音樂重新成為人們關注的焦點。
+2000年代初頭、エレクトロは再び脚光を浴びる。
 
 **Electroclash**：由 Kittin 小姐和駭客、Fischerspooner、成人驅動。和其他人。他們頹廢、以藝術為導向的聲音與時尚產業緊密相連。
 
@@ -139,9 +139,9 @@ Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張
 
 [Cybotron – 清晰 (1983)](https://amzn.to/3WRX6QB)
 
-[Drexciya – 海王星的巢穴 (1999)](https://amzn.to/42Q2l70)
+[Drexciya – Neptune’s Lair (1999)](https://amzn.to/42Q2l70)
 
-[Miss Kittin & The Hacker – 第一張專輯 (2001)](https://amzn.to/4or6aI1)
+[Miss Kittin & The Hacker – First Album (2001)](https://amzn.to/4or6aI1)
 
 [正義 – 十字架 (2007)(https://monumental-movement.jp/Justice-+)
 
@@ -149,5 +149,16 @@ Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張
 
 ### 動搖機器與人類界線的電動凹槽
 
-Electro不僅是一種暫時的流派，而是電子音樂發展的基石。它的 DNA 繼續存在於嘻哈音樂、電子音樂、浩室音樂、電擊音樂甚至現代電子舞曲中。
+Electro不僅是一種暫時的流派，而是電子音樂發展的基石。它的 DNA 继续存在于嘻哈音乐、电子音乐、浩室音乐、电击音乐甚至现代电子舞曲中。
 機器和人類共鳴的聲音是電子音樂的核心，也是它繼續預測音樂未來的原因。
+
+---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CerbZmbFQgs?si=XBpdPn7-Fiu7KKIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

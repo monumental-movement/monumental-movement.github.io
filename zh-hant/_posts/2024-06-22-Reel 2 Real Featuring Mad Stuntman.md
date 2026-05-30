@@ -9,7 +9,7 @@ permalink: /zh-hant/reel-2-real-featuring-mad-stuntman/
 tags:
 - House
 - 90s
-title: Reel 2 Real 以 Mad Stuntman 為特色 – Go On Move / 我是 Mad Stuntman
+title: Reel 2 Real Featuring Mad Stuntman – Go On Move / I'm The Mad Stuntman
 ---
 
 

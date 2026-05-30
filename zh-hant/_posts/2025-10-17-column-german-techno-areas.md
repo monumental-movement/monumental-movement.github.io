@@ -10,7 +10,7 @@ tags:
 - Techno
 - German Techno
 - Rave
-title: 【專欄】四個德國，四種技術－牆壁混響與極簡哲學
+title: 【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学
 ---
 
 
@@ -54,8 +54,8 @@ Tresor、E-Werk，以及後來的全球偶像 Berghain。
 
 ### 1-2.極簡主義的誕生與“建築美學”
 
-基本通道、鍊式反應、光柵諾頓。
-塑造聲音、建構聲音並主導空間。柏林極簡主義著眼於「無」的豐富性，與建築和設計理念產生共鳴。
+Basic Channel、Chain Reaction、Raster-Noton。  
+音を削り、構築し、空間を支配する。「何もない」ことの豊かさを見つめるベルリン・ミニマルは、建築やデザインの思想とも響き合った。  
 聲學不再是牆壁，而是**空氣結構**。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC21EzpdnFQ?si=NoFYMbnwAXwUHE68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -66,7 +66,7 @@ Tresor、E-Werk，以及後來的全球偶像 Berghain。
 
 1990年代末，來自世界各地的藝術家搬到了這座城市。
 里奇霍廷、艾倫阿連、班克洛克。
-柏林已經成為一個聲音共和國而不是一個國家。在這座城市，科技是一種職業、一種生活、一種宗教。
+ベルリンは、国家ではなく**サウンドの共和国**になった。テクノが職業であり、人生であり、信仰である都市。  
 只要聲音繼續存在，這座城市就永遠不會沉睡。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIcgIo1f3HY?si=IkC0BWGdXy6abSph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -160,7 +160,7 @@ EDM之前的歐洲就是從這裡開始的。
 
 ### 4-3. 「非中心技術」的意義
 
-神化柏林很簡單。
+ベルリンを神格化することは簡単だ。  
 但德國技術的真正多樣性在於**外圍的抵抗**。
 時間的緩慢和鄉村的模擬感覺。
 這反映了未來科技之聲。
@@ -232,12 +232,12 @@ flowchart TD
 ### 按城市分類的唱片
 
 
-| 地域           | アーティスト         | 名盤                     | 年    | リンク                                              |
+|地區 |藝術家 |傑作|年份|連結 |
 | ------------ | ---------------- | ---------------------- | ---- | ------------------------------------------------ |
 |柏林 |基本頻道| *象限配音* | 1994 | [亞馬遜](https://amzn.to/42HRXhy) |
 |杜塞爾多夫-科隆 |發電廠| *橫貫歐洲快車* | 1977 | [亞馬遜](https://amzn.to/46VatWj) |
 |法蘭克福 |斯文瓦斯 | *天堂裡的意外* | 1993 | [亞馬遜](https://amzn.to/3J2ouby) |
-|漢堡-萊比錫|潘薩杜王子| *黑噪音* | 2010 | [亞馬遜](https://amzn.to/4nSXkmu) |
+| ハンブルク〜ライプツィヒ | Pantha du Prince | *Black Noise*          | 2010 | [Amazon](https://amzn.to/4nSXkmu) |
 
 
 ---
@@ -355,7 +355,7 @@ flowchart TD
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[專欄]從techno的起源到現在——透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
 

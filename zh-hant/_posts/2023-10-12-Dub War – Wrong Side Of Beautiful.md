@@ -9,7 +9,7 @@ permalink: /zh-hant/dub-war-wrong-side-of-beautiful/
 tags:
 - Dub
 - Reggae
-title: Dub War – 美麗的錯誤一面
+title: Dub War – Wrong Side Of Beautiful
 ---
 
 

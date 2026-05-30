@@ -12,7 +12,7 @@ title: DJ Shiva vs. Adam Jay – Finality EP
 ---
 
 
-DJ Shivaは、現在Noncompliant（ノンコンプライアンス）として知られているUSテクノDJ /プロデューサー。
+DJ Shiva 是一位美國 techno DJ/製作人，目前被稱為「不合規」。
 
 Adam Jay 是一位美國 techno 和 tech house DJ/製作人。
 

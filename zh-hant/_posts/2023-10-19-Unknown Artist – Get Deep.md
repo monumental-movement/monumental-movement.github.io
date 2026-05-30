@@ -13,7 +13,7 @@ title: 未知藝術家 – 深入了解
 ---
 
 
-羅蘭克拉克 (Roland Clark) 的《I Get Deep》、卡爾克雷格 (Carl Craig) 的《Just Another Day》和卡爾克雷格 (Carl Craig) 的別名 Paperclip People 的《翻拍版》的混搭，其中採樣了曼努埃爾戈特欽 (Manuel Göttsching) 的《E2-E4》。蒂米·雷吉斯福德編輯。
+Roland Clark（ローランド・クラーク）の『 I Get Deep（アイ・ゲット・ディープ）』、Carl Craig（カール・クレイグ）の『Just Another Day（ジャスト・アナザー・デイ）』、Manuel Göttsching『E2-E4』をサンプリングしたCarl Craigの別名義Paperclip Peopleの『remake』のマッシュアップ。 EditはTimmy Regisford（ティミー・レジスフォード）。
 
 #### 曲目表
 ```md

@@ -12,11 +12,11 @@ tags:
 - Hip Hop
 - Jazz
 - 90s
-title: G.愛與特製醬 – G.愛與特製醬
+title: G. Love & Special Sauce – G. Love & Special Sauce
 ---
 
 
-G. Love & Special Sauce 是一支來自費城的搖滾樂團。其特點是有機而獨特的風格，融合了藍調、嘻哈、搖滾和靈魂樂的元素。
+G. Love & Special Sauceは、フィラデルフィア出身のロックバンド。ブルース、ヒップホップ、ロック、ソウルの要素を混ぜ合わせたオーガニックでユニークなスタイルが特徴。
 
 他們的首張專輯《G. 1994年，Okeh Records發行的《Love & Special Sauce》一炮​​而紅，專輯中的第七首歌《Cold Beverage》也大受歡迎。
 

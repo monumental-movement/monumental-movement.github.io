@@ -25,7 +25,7 @@ A. Abs0lut1on
 B. F0r N1ne
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m72045675449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72045675449?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Fc89h0OOEo?si=iJkOXDcnAJonj606" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

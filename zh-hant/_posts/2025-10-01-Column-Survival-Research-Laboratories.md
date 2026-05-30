@@ -9,7 +9,7 @@ permalink: /zh-hant/column-survival-research-laboratories/
 tags:
 - Art
 - Experimental
-title: 【專欄】生存研究實驗室（SRL）：機械藝術的先驅
+title: '【コラム】 Survival Research Laboratories（SRL）: 機械芸術の先駆者'
 ---
 
 
@@ -74,9 +74,9 @@ SRL 表演包括與機器、機器人和特效設備的儀式化互動，只有�
 
 ---
 
-#### 艾瑞克·沃納
+#### 埃里克·維爾納
 
-職位：機器人工程師
+役割：ロボット工学エンジニア
 
 績效： 負責機械控制系統和電氣設計。開發大型機械手臂及移動機械。
 
@@ -93,7 +93,7 @@ SRL 表演包括與機器、機器人和特效設備的儀式化互動，只有�
 
 ---
 
-#### 其他主要合作者
+#### Other Key Collaborators
 
 艾米·克里切特：製片人/管理層支持。
 
@@ -126,7 +126,7 @@ SRL 也發行包含表演聲學體驗的 DVD 和專輯。以下是一些代表�
 
 |標題 |描述 |連結 |
 | ------------------------ | | ------------ | ----------- |
-|生存研究實驗室| DVD Premium BOX 鐵盒規格| [亞馬遜](https://amzn.to/3KyG0o2) |
+| Survival Research Laboratories | DVDプレミアムBOX鉄ケース仕様 | [Amazon](https://amzn.to/3KyG0o2) |
 |生存研究實驗室|包含 1992 年至 1998 年的現場錄音。 [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
 
 
@@ -139,11 +139,11 @@ SRL 是機器人技術、表演藝術和社會政治諷刺的開創性融合。�
 
 ---
 
-### SRLの活動履歴と移転
+### SRL 活動歷史與轉讓
 
 #### 成立和早期活動（1978-1980 年代）
 
-生存研究實驗室 (SRL) 於 1978 年由 Mark Pauline 在舊金山創立。 SRL is known for its artistic reinterpretation of industrial, military, and science and technology, and its performances using machines and robots.早期的演出包括《机器性爱》（1979）和《无耻富足的幻象》（1989），给观众留下了深刻的印象。
+生存研究實驗室 (SRL) 於 1978 年由 Mark Pauline 在舊金山創立。 SRL 以其對工業、軍事和科學技術的藝術重新詮釋以及使用機器和機器人的表演而聞名。早期的演出包括《機器性愛》（1979）和《無恥富足的幻象》（1989），給觀眾留下了深刻的印象。
 
 #### 搬遷及新基地（2007年至今）
 

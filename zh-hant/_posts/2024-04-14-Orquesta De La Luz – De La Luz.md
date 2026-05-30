@@ -9,13 +9,13 @@ permalink: /zh-hant/orquesta-de-la-luz-de-la-luz/
 tags:
 - Salsa
 - Latin
-title: 德拉光明樂團 – 德拉光明
+title: Orquesta De La Luz – De La Luz
 ---
 
 
-1990年にリリースされたサルサバンド、オルケスタ・デ・ラ・ルスのデビューアルバム『デ・ラ・ルス』。
+《De La Luz》是薩爾薩樂團 Orquesta de la Luz 於 1990 年發行的首張專輯。
 
-1曲目のSalsa caliente del Japón（日本からの熱いサルサ）は、全米のビルボード誌ラテン・チャートで11週間にわたって1位を獲得した。
+第一首歌《Salsa caliente del Japón》（來自日本的熱門薩爾薩舞曲）在 Billboard 拉丁排行榜上連續 11 週排名第一。
 
 #### 曲目表
 ```md

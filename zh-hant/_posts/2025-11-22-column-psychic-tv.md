@@ -66,13 +66,13 @@ Psychic TV 的初始陣容包括 Genesis P-Orridge（主唱、作詞）、Peter 
 
 早期音樂的特點是超越傳統流派界限的創新，結合了龐克侵略性、迷幻自由和實驗噪音。
 
-#### 3.2 現場表演及影像藝術活動
+#### 3.2 ライブと映像芸術活動
 
-Psychic TV was also innovative in its live performance. Many of the live performances used video equipment and multi-screens to provide the audience with a challenging and ritualistic experience.我們試圖將現場表演本身重建為一種儀式空間，不僅通過身體音樂，還通過一種儀式空間還通過一種儀式空間表演。
+Psychic TV はライブパフォーマンスにおいても革新的であった。多くのライブでは映像機材やマルチスクリーンを用い、観客に挑戦的で儀式的な体験を提供した。音楽だけでなく、映像や身体表現を通じて、ライブ自体を一種の儀式空間として再構築する試みがなされた。
 
-#### 3.3 Thee Temple ov Psychick Youth（T.O.P.Y.）の誕生
+#### 3.3 通靈少年的聖殿誕生（T.O.P.Y.）
 
-在 1981, **Thee Temple ov Psychick Youth (T.O.P.Y.)** was founded in parallel with Psychic TV. T.O.P.Y.是一個支持樂隊思想和儀式活動的組織，旨在探索基於混沌魔法的靈性和社區。 T.O.P.Y 不僅僅是粉絲俱樂部。 served to unite its members and supporters through ritual, philosophy, and transformational practices.
+1981 年，**Thee Temple ov Psychick Youth (T.O.P.Y.)** 與 Psychic TV 同期成立。 T.O.P.Y.是一個支持樂團思想和儀式活動的組織，旨在探索基於混沌魔法的靈性和社區。 T.O.P.Y 不僅僅是粉絲俱樂部。透過儀式、哲學和變革實踐來團結其成員和支持者。
 
 ---
 
@@ -112,7 +112,7 @@ Psychic TV was also innovative in its live performance. Many of the live perform
 
 #### 6.1 PTV3和新陣容
 
-2003年，Psychic TV重組為PTV3，迎來了Edley ODowd等新成員，並恢復了集視頻、聲音和表演於一體的活動。
+2003年、PTV3 として再結成された Psychic TV は、Edley ODowd など新たなメンバーを迎え、映像・音響・パフォーマンスを統合した活動を再開した。
 
 #### 6.2 專輯和概念作品
 
@@ -169,5 +169,13 @@ graph LR
 ### 10. 結論
 
 通靈電視是一場跨越音樂、儀式和意識形態的綜合運動。他們的工作不僅僅是音樂，還探索魔法、圖像、身體、靈性和社區。 Genesis P-Orridge 的願景打破了流派界限，預見了未來的表達形式，他的影響力仍然深深銘刻在當代實驗音樂和反主流文化中。
+
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SRW61takj04?si=vIdxWnoEGZFQlYL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

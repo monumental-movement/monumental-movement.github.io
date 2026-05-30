@@ -13,7 +13,7 @@ title: DJ Dan – 那條拉鍊曲目
 ---
 
 
-《That Zipper Track》是美國house DJ/製作人DJ Dan的代表作，於1999年發行。
+「That Zipper Track 」は、1999年にリリースされた、アメリカのHouse DJ／プロデューサー DJ Danの代表作。
 
 Aは、UK techno DJ ／プロデューサー Carl Cox(カールコックス)によるリミックス。
 

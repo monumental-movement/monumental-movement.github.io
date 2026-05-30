@@ -13,9 +13,9 @@ title: 恍惚藝術－柬埔寨
 ---
 
 
-The Art Of Trance 是英國 trance 音樂藝術家 Simon Berry 的別名。也称为恶作剧和恶性循环。西蒙貝瑞 (Simon Berry) 也是 trance 樂團 Clanger、Conscious 和 Union Jack 的成員。
+The Art Of Trance(アート・オブ・トランス)は、UKのトランスミュージックアーティストSimon Berry（サイモン・ベリー）の別名義。他にもPoltergeist（ポルターガイスト）、Vicious Circles（ヴィシャス・サークル）としても知られている。Simon Berryは、トランス・グループのClanger（クレンジャー）、Conscious（コンシャス）、Union Jack（ユニオン・ジャック）のメンバーでもある。
 
-《Cambodia》于 1994 年由英国 trance techno 厂牌 Platipus 发行。 Side A 是 Simon Berry 和 Paul Brogden 的项目 Clanger 的混音版。 B 面是 Tunnel Vision 的混音版。
+《Cambodia》於 1994 年由英國 trance techno 廠牌 Platipus 發行。 Side A 是 Simon Berry 和 Paul Brogden 的專案 Clanger 的混音版。 B 面是 Tunnel Vision 的混音版。
 
 #### 曲目表
 ```md

@@ -14,7 +14,7 @@ title: 杜鵑——伊斯加略人
 
 
 「加略人」是
-這是 The Cuckoos 於 1992 年由英國唱片公司「Imaginary Records」發行的一張 EP。
+1992年にUKのレーベル「Imaginary Records」からリリースされたThe CuckoosによるEPです。
 
 
 #### 曲目表

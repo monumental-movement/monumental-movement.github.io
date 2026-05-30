@@ -11,7 +11,7 @@ tags:
 - Electro
 - Disco
 - 00s
-title: Thugfucker – Disco V / Knight Rider
+title: 暴徒 – 迪斯可 V / 霹靂遊俠
 ---
 
 

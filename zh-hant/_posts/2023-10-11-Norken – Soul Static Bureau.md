@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - Rare
-title: Norken – 靈魂靜電局
+title: Norken – Soul Static Bureau
 ---
 
 

@@ -10,13 +10,13 @@ tags:
 - House
 - Jazz-Funk
 - 00s
-title: 法式踢腿 – 接近現代（混音）
+title: 'French Kicks – Close To Modern (Remixes) '
 ---
 
 
 French Kicks 是一支來自紐約的美國獨立搖滾樂團。他們的風格是車庫搖滾、後龐克和現代流行音樂的混合體。
 
-這張唱片是 French Kicks 首張錄音室專輯《One Time Bells》中的《Close To Modern》的混音版。
+ここレコードは、French Kicksのファーストスタジオアルバム『One Time Bells』に収録された「Close To Modern」のリミックス盤。
 
 #### 曲目表
 ```md

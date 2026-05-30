@@ -10,7 +10,7 @@ tags:
 - Rock
 - Alternative Rock
 - 90s
-title: 歡樂製造者 – 安德魯的商店
+title: The Merrymakers – Andrew's Store
 ---
 
 

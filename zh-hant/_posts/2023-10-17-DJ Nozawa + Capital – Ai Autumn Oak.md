@@ -8,13 +8,13 @@ layout: post
 permalink: /zh-hant/dj-nozawa-capital-ai-autumn-oak/
 tags:
 - Hiphop
-title: DJ 野澤 + Capital – 秋橡樹愛
+title: DJ Nozawa + Capital – Ai Autumn Oak
 ---
 
 
 DJ NOZAWA 被認為是日本最好的轉盤手之一。 1998年加入Shing02領導的創作團體Terracotta Troops，並於1999年參與《Yokuyokuren》的發行。 1997年和1998年連續兩年代表DMC Japan。
 
-《Ai / Autumn Oak》是 DJ Nozawa 與 Capital（喬納森·帕特森）合作的作品，於 2003 年發行。
+「Ai / Autumn Oak」は、2003年にリリースされたDJ NozawaとCapital（Jonathan Patterson）の共作。
 
 #### 曲目表
 ```md

@@ -13,7 +13,7 @@ title: 中繼器 – The Serpents Knees E.P
 ---
 
 
-Repeater 是由艾倫·伍德伯恩 (Alan Woodburn) 和哈羅德·沃克 (Harold Walker) 組成的迷幻科技樂團。英國迷幻音樂廠牌 Filterless 發行了《The Serpents Knees E.P》。
+Repeater（リピーター）は、Alan WoodburnとHarold Walkerによるアシッドテクノユニット。「The Serpents Knees E.P」は、UKのアシッドトランスレーベル Filterlessよりリリース。
 
 #### 曲目表
 ```md

@@ -22,7 +22,7 @@ Andrew Field-Pickering 是來自華盛頓特區的製作人/DJ，他的藝名還
 
 Ari Goldman 是華盛頓特區的 DJ/製作人，也是 World Building 廠牌的負責人。
 
-《Big Coast》是 Future Times 廠牌於 2010 年發行的 Leftfield/House/Dub/New Beat/Disco 曲目。 （促銷版）
+《Big Coast》是一首 Leftfield/House/Dub/New Beat/Disco 曲目，於 2010 年在 Future Times 廠牌上發行。 （促銷版）
 
 #### 曲目表
 ```md

@@ -10,11 +10,11 @@ tags:
 - Eurobeat
 - Hi NRG
 - 90s
-title: VA – 那是 Eurobeat Vol。 22
+title: VA – 那是 Eurobeat Vol。 22 號
 ---
 
 
-Italo-Disco/Hi-NRG/Eurobeat 合輯系列的第 22 部分，於 1990 年由 Alfa 廠牌發行。大西重成的插圖。
+1990年にレーベルAlfaリリースされた、Italo-Disco/Hi-NRG/Eurobeatコンピレーションシリーズ第22弾。イラストは大西重成。
 
 #### 曲目表
 ```md

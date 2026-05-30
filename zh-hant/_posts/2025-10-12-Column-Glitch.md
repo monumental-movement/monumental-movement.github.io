@@ -26,15 +26,15 @@ title: '[專欄]Glitch：當噪音變成美麗'
 
 過去，「錯誤」是應該消除的東西。但現在，錯誤已經變成了「表達」。
 在完美系統中出現的小缺陷中，我們發現了一些關於人性的懷舊之情。
-Glitchとは、テクノロジーが自らの限界を露呈する瞬間に生まれる詩であり、21世紀の美的言語である。
+Glitch是21世紀的美學語言，是一首在科技暴露其限制的時刻誕生的詩。
 
 ---
 
 
-### Sound of Glitch：ノイズが音楽になった日
+### 故障之聲：噪音變成音樂的日子
 
 1990年代初頭、ドイツの**Oval**は意図的にCDの表面を傷つけ、プレイヤーが読み取れなくなる瞬間を録音した。  
-由於丟失資料而產生的不規則的咔噠聲和間歇性節奏。
+由於丟失資料而產生的不規則的咔嗒聲和間歇性節奏。
 雖然這是一種“錯誤的聲音”，但它卻出奇地有機，而且不知何故溫暖。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3UouDs3UE?si=0kEkfUArZ1LG8lSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -57,10 +57,10 @@ Glitch 是一種將數位裝置產生的「巧合波動」轉換為詩意節奏�
 
 Glitch 在電影界也悄悄流行起來。
 一種名為 **datamosh** 的技術會故意破壞視訊的壓縮數據，創建奇怪的幀序列，這些幀似乎混合在一起。
-丟失的像素像流體一樣改變形狀，模糊了現實與非現實之間的界線。
+失われたピクセルが流体のように形を変え、現実と非現実の境界を曖昧にする。
 
-正如媒體藝術家 **Rosa Menkman** 在《The Glitch Moment(um)》中寫道：
-> “Glitch 是一種暴露媒體不可見結構的美學。”
+メディアアーティスト**Rosa Menkman**は、『The Glitch Moment(um)』でこう書く。  
+> “Glitchは、メディアの見えない構造を暴き出す美学である。”
 
 對她來說，錯誤不僅僅是崩潰，而是系統自我暴露的瞬間「自我暴露」。
 我們習慣看到完美的圖像。
@@ -68,7 +68,7 @@ Glitch 在電影界也悄悄流行起來。
 
 Glitch 也滲透到了時尚界和廣告界。
 將無序像素融入設計的方法在 2010 年代末掀起街頭文化風暴，被稱為「破碎設計」。
-我們終於能夠接受這樣一個事實：它並不完美，甚至數位產品也含有「噪音」。
+我們終於能夠享受它並不完美的事實，甚至數字也有「噪音」。
 
 ---
 
@@ -158,7 +158,7 @@ Glitch是一張不畏懼打破的勇氣紀錄。
 
 ### 附錄：故障文化檔案
 
-#### 年表－Glitch 的音樂、錄影帶和思想史（1990-2025）
+#### 年表－Glitch 的音樂、影片和思想史（1990-2025）
 
 <div class="mermaid">
 
@@ -202,9 +202,9 @@ color: #fff;
 | ---- | -------------- | ---------------------------------------------------------------- | ---------------- |
 | 1995 |橢圓形| [94diskont](https://amzn.to/47k6D9b) | 「CD久遠」紀念碑|
 | 1996 |池田良二 | [+/-](https://amzn.to/46NnTU7) |極簡聲學的巔峰之作 |
-| 2000 | 2000各種藝術家| [Clicks & Cuts Vol.1](https://amzn.to/4q4epvc) | Glitch運動的起源 |
+| 2000 | Various Artists              | [Clicks & Cuts Vol.1](https://amzn.to/4q4epvc) | Glitchムーブメントの起点 |
 | 2004 |阿爾瓦諾托 + 坂本龍一 | [Vrion](https://amzn.to/4ofoSlO) |鋼琴與數位的共鳴|
-| 2013 |阿卡 | [&&&&&](https://amzn.to/42ACorW) |蟲子與身體的融合 |
-| 2022 |西鳳 | [營地](https://amzn.to/4n5hF74) |日本故障流行音樂的演變 |
+| 2013 |阿卡 | [&&&&&](https://amzn.to/42ACorW) |蟲子與身體的融合|
+| 2022 | Seiho                        | [CAMP](https://amzn.to/4n5hF74)                | 日本的グリッチ・ポップの進化  |
 
 

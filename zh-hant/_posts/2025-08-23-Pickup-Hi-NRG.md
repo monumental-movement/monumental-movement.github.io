@@ -68,7 +68,7 @@ B2. Look Me In The Eyes (Instrumental)
 ### 快樂與痛苦－更高
 <a href="https://jp.mercari.com/item/m33072683805?afid=6142608987"><img src="../assets/images/Pleasure%20and%20Pain%20%E2%80%93%20Hig.webp.
 
-FRED VENTURA 的一個項目（1990-1992 年），FRED VENTURA 是一位自 20 世紀 80 年代以來一直活躍的 Italo 著名製作人。
+80年代から活躍するイタロの有名プロデューサーFRED VENTURA（フレッド・ベンチュラ）のプロジェクト（1990-1992）。
 
 #### 曲目表
 ```md
@@ -91,7 +91,7 @@ B2. Higher (Instrumental)
 
 
 ### Max Coo 和 Steve Coo – “布吉舞者”
-<a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93oo%20&%20Steve%20Coo%20%E2%80%930%200%207%205)>
+<a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93oo%20&%20Steve%20Coo%20%E2%80%93%20.73%
 
 肯·拉斯洛 (Ken Laszlo) 的演唱增添了趣味。一個讓你感受到伊塔洛正統又時髦魅力的好數字。
 
@@ -140,7 +140,7 @@ B3. Africa (Dub Mix)
 <br>
 
 
-### 化名——“你有權保持沉默”
+### 筆名——“你有權保持沉默”
 <a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The7%20%E2%80%93%20You%20Have%20The7%20%2020.
 
 這是 Hi-NRG 傳道者 Ian Levine 參與的重要作品。感覺像是記錄當時俱樂部現場氣氛的一張唱片。

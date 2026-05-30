@@ -9,7 +9,7 @@ permalink: /zh-hant/don-dixon-romeo-at-juilliard/
 tags:
 - Rock
 - Indie Rock
-title: 唐‧迪克森－茱莉亞音樂學院的羅密歐
+title: Don Dixon – Romeo At Juilliard
 ---
 
 

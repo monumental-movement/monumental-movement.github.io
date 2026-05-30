@@ -10,7 +10,7 @@ tags:
 - Techno
 - JPop
 - 00s
-title: 石野卓急 – 卡拉 OK 傑克
+title: Takkyu Ishino – Karaokejack
 ---
 
 

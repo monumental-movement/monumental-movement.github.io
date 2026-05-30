@@ -22,7 +22,7 @@ title: 拿起電子作品
 ### Afrika Bambaataa 和 Soulsonic Force – Planet Rock
 <a href="https://jp.mercari.com/item/m43312143517?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20&%20The%20Soulsonic%20Force%20Bambaataa%20&%20The%20websonic%20Force%20Bambaataa%20&%20The%20websonic%20Force%</web7%209%</
 
-Point：一部歷史傑作，可以說是電音的基石。這首歌曲將嘻哈音樂和舞曲與合成器連複段和人聲樣本結合。這部作品至今仍被稱為與霹靂舞文化一起繁榮的「未來嘻哈音樂」。
+ポイント：エレクトロの礎とも言える歴史的名曲。シンセサイザーリフとボーカルサンプルにより、ヒップホップとダンスミュージックの橋渡しを果たした一曲。「ブレイクダンス・カルチャーと共に隆盛した“未来的ヒップホップ”」として今なお語り継がれている作です。
 
 景點：電子音樂、未來嘻哈音樂的起源
 
@@ -44,7 +44,7 @@ B. Planet Rock (Instrumental)
 <br>
 
 
-### Afrika Bambaataa 和 WestBam – 阿格哈塔
+### Afrika Bambaataa & WestBam – Agharta
 <a href="https://jp.mercari.com/item/m28101658653?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20And%20Agbam%20%E2%80%53%)
 
 
@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp;
 
-重點：《Side B》是一首電子感特別強烈的黑暗歌曲。寧靜的氛圍中瀰漫著一種“機械的張力”，帶你進入一個冷酷而深刻的世界觀。
+重點：《Side B》是一首黑暗的歌曲，電子感特別強。寧靜的氛圍中瀰漫著一種“機械的張力”，帶你進入一個冷酷而深刻的世界觀。
 
 魅力：黑暗而緊張的電子樂
 
@@ -138,7 +138,7 @@ B2. Dance The Machine (Disco Club Mix)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
 
 
 #### Youtube

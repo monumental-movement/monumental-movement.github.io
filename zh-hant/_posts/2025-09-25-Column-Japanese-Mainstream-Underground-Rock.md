@@ -16,9 +16,9 @@ title: 【專欄】日本搖滾史：主流與地下的交會
 
 ## 日本岩石史的雙重結構：前段與地下水脈
 
-文：mmr｜主題：日本主流與地下搖滾
+文：mmr｜テーマ：日本ロックのメインストリームとアンダーグラウンドについて
 
-日本搖滾以[Group Sounds (GS)](https://amzn.to/4gP5wli)開始傳播，在20世紀60年代蓬勃發展。但同時，一股脫離公共舞台、具有實驗精神和破壞性能量的「地下搖滾」潮流誕生了。 Naked Larry's、Keiji Haino、Boredoms、Acid Mother's Temple 等樂團幫助日本的噪音搖滾和迷幻音樂在國際上廣為人知。
+日本搖滾以[Group Sounds (GS)](https://amzn.to/4gP5wli)開始傳播，並在20世紀60年代蓬勃發展。但同時，一股脫離公共舞台、具有實驗精神和破壞性能量的「地下搖滾」潮流誕生了。 Naked Larry's、Keiji Haino、Boredoms、Acid Mother's Temple 等樂團幫助日本的噪音搖滾和迷幻音樂在國際上廣為人知。
 
 ---
 
@@ -36,7 +36,7 @@ color: #fff;
 
 ### 20 世紀 60 年代：拉里裸體的震撼
 
-[Naked Rally's](https://amzn.to/4mxUd1T) — 充滿酸和噪音的迷幻搖滾是日本「地下音樂」的起源。就连盗版音源也变得神秘起来。
+[Naked Rally's](https://amzn.to/4mxUd1T) — 充滿酸和噪音的迷幻搖滾是日本「地下音樂」的起源。就連盜版音源也變得神秘起來。
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ---
 
-### 20 世紀 80 年代：樂團熱潮
+### 1980年代：バンドブーム
 
 在[BOØWY](https://amzn.to/48lIrED) / [RC Succession](https://amzn.to/48DtL3B)等主流音樂的同時，來自地下的實驗精神也增加了存在感。
 
@@ -82,7 +82,7 @@ Shonen Knife、Keiji Haino、Boredoms 等在海外正在接受重新評估。
 
 ---
 
-### 各代和主要藝術家的演變
+### 年代別進化と主要アーティスト
 
 <div class="mermaid">
 flowchart TD
@@ -102,12 +102,12 @@ flowchart TD
 |------------|-----|------|-----|------|
 |裸體拉里的| 20 世紀 60 年代至 70 年代 | 《現場1972》|迷幻又喧鬧的傳奇開機板作品| [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
 | 灰野敬二 | 20 世紀 70 年代 | “渡志岳？” (1973) |一張在沉默與爆發之間來回穿梭的孤獨個人專輯 | [亞馬遜](https://amzn.to/4pJ0OJw) |
-|少年刀 | 20 世紀 80 年代 | 《燃燒的農場》(1983) |流行朋克的開端，在海外獨立音樂界也受到好評 | [亞馬遜](https://amzn.to/3Vycp0t) |
+|少年刀| 20 世紀 80 年代 | 《燃燒的農場》(1983) |流行朋克的開端，在海外獨立音樂界也受到好評 | [亞馬遜](https://amzn.to/3Vycp0t) |
 |博威 | 20 世紀 80 年代 | “只是一個英雄”（1986）|日本樂隊熱潮巔峰，街頭氣勢| [亞馬遜](https://amzn.to/3IBpnrk) |
 |
 |無聊| 20 世紀 90 年代 | “視覺創造新太陽”（1999）|極端的迷幻噪音，帶來恍惚的體驗 | [亞馬遜](https://amzn.to/4nGVs0l) |
 |融化香蕉| 20 世紀 90 年代 | “細胞景觀”（1994/2003）|噪音核心/研磨手感，海外巡演大受歡迎 | [亞馬遜](https://amzn.to/4nX25vb) |
-|酸母寺 | 2000 年代 | “Univers Zen ou de Zéro à Zéro” (2002) |無人機與即興迷幻洪流| [亞馬遜](https://amzn.to/4nh87Xm) |
+| Acid Mothers Temple | 2000s | 『Univers Zen ou de Zéro à Zéro』 (2002) | ドローンと即興のサイケデリック大洪水 | [Amazon](https://amzn.to/4nh87Xm) |
 |酸母寺 | 2000 年代 | “拉諾維亞”|川端元的太空迷幻果醬，史詩般的旅行感覺 | [亞馬遜](https://amzn.to/47XWVKz) |
 |山本精一 | 2000 年代 | 「模糊凹槽之冠」(2002) |實驗與旋律共存的獨奏傑作 | [亞馬遜](https://amzn.to/4pJ0ESq) |
 |吉他狼| 2000 年代 | 《噴射世代》(1999) |世界上最響亮的搖滾專輯 | [亞馬遜](https://amzn.to/4pIAlMg) |
@@ -134,19 +134,19 @@ A2：官方發行的作品很少，現場錄音和引導專輯被認為是傳奇
 
 A3：這是因為我們獨特的現場製作結合了迷幻和噪音以及壓倒性的聲壓，在另類文化領域引起了共鳴。
 
-**Q4：為什麼Melt-Banana在海外很受歡迎？ **
+**Q4：为什么Melt-Banana在海外很受欢迎？ **
 
 A4：我們憑藉著壓倒性的現場表演、速度感以及與約翰·佐恩等實驗音樂家的聯繫而獲得了國際讚譽。
 
 **Q5：山本精一最著名的作品是？ **
 
-A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO的現場表演](https://amzn.to/4gJvJRT)和個人作品[``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ES)都很重要。
+A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO 現場表演](https://amzn.to/4gJvJRT) 和個人作品 [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ES) 都很重要。
 
 ---
 
 ### 概括
 
-日本的搖滾歷史與「主流」前沿和幕後「地下」並行發展。從 Naked Larry's 到 Guitar Wolf 的血統一直延續到當前的人工智慧時代，繼續擴大搖滾樂的可能性。日本搖滾樂將繼續為世界樂壇提供「實驗與動力」。
+日本的搖滾史是與前面的「主流」和後面的「地下」並行發展的。從 Naked Larry's 到 Guitar Wolf 的血統一直延續到當前的人工智慧時代，繼續擴大搖滾樂的可能性。日本搖滾樂將繼續為世界樂壇提供「實驗與動力」。
 
 ---
 

@@ -43,16 +43,16 @@ color: #fff;
 
 ## 費城聲音的誕生：Gamble & Huff 和 Sigma Sound
 
-20 世紀 60 年代末，由 **Kenneth Gamble** 和 **Leon Huff** 創立的 **費城國際唱片公司 (PIR)** 支持費城音樂界。
+1960年代末、フィラデルフィアの音楽シーンを支えたのは、**Kenneth Gamble**と**Leon Huff**による**Philadelphia International Records (PIR)**。  
 他們以 **Sigma Sound Studios** 為基地開始活動，旨在取代摩城成為黑人音樂的新中心。
 
-錄製由獨家會話組 - **MFSB** 支援。
-MFSB 的成員包括：
+録音を支えたのが、専属セッション集団――**MFSB**である。  
+MFSBのメンバーには以下のような錚々たる顔ぶれがいた：
 
 - 厄爾楊（鼓）
 - 諾曼哈里斯（吉他）
 - 羅尼貝克（貝斯手）
-- Bobby Eli（ギター）
+- 鮑比·伊利（吉他）
 - Vincent Montana Jr.（電顫琴/編曲）
 
 這些演奏者創造的流暢的音樂節奏成為了一個世界性的品牌，被稱為“TSOP（費城之聲）”。
@@ -64,7 +64,7 @@ MFSB 的成員包括：
 1973年，專輯《**Love Is The Message**》以MFSB名義發行。
 同名歌曲成為代表首爾歷史的讚歌，並被迪斯科早期的DJ們視為“標準橋曲”而喜愛。
 
-Earl Youngが叩き出す“四つ打ち”のリズム――これこそ後にディスコ、そしてハウスの基本ビートとなるものだった。  
+厄爾楊（Earl Young）的“地板上的四人”節奏後來成為迪斯科和浩室音樂的基本節拍。
 此外，小文森特·蒙塔納（Vincent Montana Jr.）的共鳴和弦樂編曲賦予黑人音樂的節奏古典優雅。
 
 MFSB 不僅僅是一支樂隊，它體現了一個新概念：「工作室管弦樂隊」。
@@ -76,7 +76,7 @@ MFSB 不僅僅是一支樂隊，它體現了一個新概念：「工作室管弦
 ## 薩爾索爾管弦樂團的誕生：費城之聲的獨立宣言
 
 1975 年，**Vincent Montana Jr.** 離開 MFSB，成立**Salsoul Orchestra** 來追求他的理想。
-在**Salsoul Records**（創辦人：Cayre 兄弟）的支持下，他們的目標是打造帶有濃鬱拉丁元素的迪斯可音樂。
+バックには**Salsoul Records**（創設者：Cayre兄弟）があり、ラテン要素を強く打ち出したディスコ・サウンドを志向していた。
 
 Montana 利用他在 PIR 培養的編曲技巧將拉丁打擊樂和弦樂融為一體。
 結果，創建了一個獨特的方程式：**Disco+Orchestra+Salsa=Salsoul**。
@@ -84,13 +84,13 @@ Montana 利用他在 PIR 培養的編曲技巧將拉丁打擊樂和弦樂融為�
 代表歌曲《**Salsooul Hustle**》就是這一點的完美象徵。
 康加鼓、廷巴鼓、弦樂、法國號和靜音吉他完美地交織在一起，同時營造出拉丁歡快和費城精緻的感覺。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HTJ87N8DkLA?si=CkAZysbSjsJ11h0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmLiiKYhKYg?si=7P_heKoUd6TOeLiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Vincent Montana Jr. - 工匠美學與迪斯科烏托邦
+## Vincent Montana Jr. ― 職人の美学とディスコの理想郷
 
-モンタナのアレンジ哲学は明快だった。  
+蒙大拿的安排理念很明確。
 > “管弦樂隊是你統治俱樂部的武器。讓共鳴器、豎琴和弦樂在節奏中翩翩起舞。”
 
 他的理想是「優雅舞動的音樂」。
@@ -107,7 +107,7 @@ Montana 利用他在 PIR 培養的編曲技巧將拉丁打擊樂和弦樂融為�
 | **愛情破裂（哦，我喜歡它）** | 1980 |採樣的寶庫。打擊樂和喇叭斷裂在後來的嘻哈音樂中被過度使用。 |被公眾之敵、Eric B. 和 Rakim 等引用 |
 | **薩爾索爾喧囂** | 1975 |早期迪斯可的起源。 4/4 節拍和拉丁律動的融合。 |象徵費城之聲的飛躍。 |
 | **好又壞** | 1976 |弦樂主導的舞曲。 |具有精緻的佈置。 |
-| **逃亡（壯舉。洛萊塔·霍洛威）** | 1977 |以女聲和弦樂為特色的戲劇性發展。 |晚年在家居界重新评估。 |
+| **逃亡（壯舉。洛萊塔·霍洛威）** | 1977 |以女聲和弦樂為特色的戲劇性發展。 |晚年在家居界重新評估。 |
 
 ---
 
@@ -163,7 +163,7 @@ MFSB 和薩爾索爾管弦樂團是黑人音樂史上的「橋樑」。
 這就是**弦樂演奏節奏**的矛盾之美。
 蒙大拿之手創造的建築之美繼續在舞池深處閃耀。
 
-> 「費城之聲永遠不會消失——它只會繼續跳舞。”
+> “The Sound of Philadelphia never dies—it just keeps dancing.”
 > ——小文森‧蒙塔納
 
 

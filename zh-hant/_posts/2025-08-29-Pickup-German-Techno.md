@@ -23,7 +23,7 @@ title: 挑選德國Techno作品
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-亮點：德國著名廠牌 Tresor 的合輯，收錄了 Sven Väth、Maurizio、Ben Sims、James Ruskin 和 Pacou 等科技界大腕的精選曲目。这是一首可以让你充分体验象征德国柏林的硬派、简约、创新的techno魅力的作品。
+亮點：德國著名廠牌 Tresor 的合輯，收錄了 Sven Väth、Maurizio、Ben Sims、James Ruskin 和 Pacou 等科技界大腕的精選曲目。這是一首可以讓你充分體驗象徵德國柏林的硬派、簡約、創新的techno魅力的作品。
 
 
 #### 曲目表
@@ -58,7 +58,7 @@ title: 挑選德國Techno作品
 
 
 
-亮點：德國DJ/製作人Splank的專案Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面「Souls At Zero（原始專輯版本）」與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的沉重和戲劇性。
+魅力ポイント：ドイツの DJ／プロデューサー Splank!（Florian Senfter）によるプロジェクト Zombie Nation の代表作。特に A 面の「Souls At Zero（Original Album Version）」に、Sven Väth によるリミックス B 面が対をなす内容。Sven Väth の手によるリミックスは、ジャーマン・テクノの重厚さとドラマ性を重ねた迫力ある仕上がり。
 
 
 #### 曲目表

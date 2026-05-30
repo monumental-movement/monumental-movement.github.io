@@ -26,7 +26,7 @@ title: 拾取環境作品
 
 發佈時間：2012 年（美國品牌 Kimochi）
 
-形式：限量200張專輯（黑膠唱片）
+フォーマット：限定200枚アルバム（Vinyl）
 
 特徴：ディープなグルーヴと空間的なサウンドスケープを融合した作品 
 
@@ -94,7 +94,7 @@ D3. String Of Pearls
 ### Sanjiva – 流動喜悅的秘密房間
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%Flowa$
 
-類型： 環境電子技術
+ジャンル：Ambient Electronic Techno
 
 發行時間：1996 年（九十六聲音）
 
@@ -118,7 +118,7 @@ B. Over Flowing Delight
 
 <小時>
 
-### Dub Tractor – Scary H H Loop / 104 Dub
+### 配音拖拉機 – 可怕的 H H 循環 / 104 配音
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20Trac
 
 類型： 環境 / 實驗 / Trip Hop
@@ -127,7 +127,7 @@ B. Over Flowing Delight
 
 格式：12英寸
 
-特色： 來自丹麥的實驗氛圍 Trip-hop 音樂。包括 Luke Vibert (Wagon Christ) 混音版
+特徴：デンマーク産の実験的アンビエント・トリップホップ作品。Luke Vibert（Wagon Christ）リミックスも収録 
 
 #### 曲目表
 ```md
@@ -145,7 +145,7 @@ B2. A C Tractor
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -182,7 +182,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 <小時>
 
-### 大衛多諾霍 – Nature Morte！
+### David Donohoe – Nature Morte!
 <a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webonohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
 類型：環境/最小

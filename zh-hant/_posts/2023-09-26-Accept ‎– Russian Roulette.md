@@ -9,7 +9,7 @@ permalink: /zh-hant/accept-russian-roulette/
 tags:
 - Heavy Metal
 - Rock
-title: Accept – Russian Roulette
+title: 接受 – 俄羅斯輪盤賭
 ---
 
 

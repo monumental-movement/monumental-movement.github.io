@@ -9,7 +9,7 @@ permalink: /zh-hant/column-90s-uktechno/
 tags:
 - UK Techno
 - 90s
-title: '[專欄]英國Techno的黃金時代'
+title: 【コラム】 UKテクノの黄金時代
 ---
 
 
@@ -21,7 +21,7 @@ title: '[專欄]英國Techno的黃金時代'
 <小時>
 
 ### Techno，另一場英國革命
-1990 年代，電子音樂在聲音和精神上不斷深化和變異，就像一個出生在底特律、在英國長大的孩子一樣。英國不僅接受了這種音樂，還將其從地下擴展到俱樂部、狂歡和聲音實驗場所。在這篇文章中，我們將從文化、音樂、人物和唱片公司的角度來全面介紹 90 年代英國 techno 的全貌。
+20 世紀 90 年代，電子音樂在聲音和精神上不斷深化和變異，就像一個出生在底特律、在英國長大的孩子一樣。英國不僅接受了這種音樂，還將其從地下擴展到俱樂部、狂歡和聲音實驗場所。在這篇文章中，我們將從文化、音樂、人物和唱片公司的角度來全面介紹 90 年代英國 techno 的全貌。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -43,7 +43,7 @@ title: '[專欄]英國Techno的黃金時代'
 
 [**● 外科醫生（安東尼·柴爾德）**](https://amzn.to/3J8lKJC)
 
-伯明翰科技的旗手。堅硬、工業、堅固。他因發行《Tresor》和《Downwards》而聲名鵲起，至今仍是英國 techno 的核心人物。
+伯明翰科技的旗手。堅硬、工業、堅固。他因发行《Tresor》和《Downwards》而声名鹊起，至今仍是英国 techno 的核心人物。
 
 [**● 盧克·斯萊特**](https://amzn.to/4mZWTpi)
 
@@ -74,7 +74,7 @@ title: '[專欄]英國Techno的黃金時代'
 
 Mute Records 的子廠牌。與 Luke Slater、Speedy J 和 Laurent Garnier 等藝術家一起，他們不僅傳播到了英國，還傳播到了整個歐洲的 techno 場景。
 
-[**● 和平青蛙**](https://amzn.to/42BtHxw)
+[**● Peacefrog**](https://amzn.to/42BtHxw)
 
 該廠牌引進了更深層的、基於底特律的英國技術。名單中包括盧克·斯萊特 (Luke Slater)、史黛西·普倫 (Stacey Pullen) 和保羅·麥克 (Paul Mac)。
 
@@ -84,15 +84,15 @@ Mute Records 的子廠牌。與 Luke Slater、Speedy J 和 Laurent Garnier 等�
 
 ### 僵化、實驗性、叛逆
 
-90 年代英國 techno 具有以下聲音特徵：
+90年代UKテクノは、次のような音的特徴を持つ：
 
-- 來自工業/EBM的影響（尤其是向下類型）
+- インダストリアル／EBMからの影響（特にDownwards系）
 
 - 実験的な構造とサウンドデザイン（Warp系）
 
 - 堅硬且最小的凹槽（Surgeon、Slater 型）
 
-- 社會和政治訊息的內化（銳舞文化的影響）
+- 社会的・政治的メッセージの内在化（レイヴ文化の影響）
 
 值得注意的是，在英國，人們不僅對techno的「功能性」有更強的認識，而且對「表現力」和「深思熟慮」也有更強烈的認識。
 
@@ -189,4 +189,4 @@ Techno從工業的迴響中創造出詩歌，呈現出一種破壞與重建的�
 
 🔗 [[專欄] Luke Slater：英國techno及其音樂世界的先驅](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[專欄]從techno的起源到現在——透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)

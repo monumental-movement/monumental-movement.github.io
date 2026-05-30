@@ -18,9 +18,9 @@ title: 【專欄】什麼是深屋？ ─ 探索聲音的深度，將靈魂樂�
 ## 到底什麼是深屋？
 
 
-文字：mmr｜主題：Deep House，一種在融入歷史與脈絡的同時不斷悄悄演變的曲風。
+文：mmr｜テーマ：歴史と文脈を編み込みながら、静かに進化を続けるジャンル ― Deep House。
 
-Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區萌芽的一種 house 風格。它的特點是靈魂樂/爵士樂的和聲、流暢的低音和內斂的律動，是一種「深沉、悠長、溫暖身體」的舞曲音樂，而不是急速的高峰。 BPM一般為118-124（慢速至中速），7/9和弦，電鋼琴（Rhodes），管風琴（Korg M1系列），悠閒的人聲具有像徵意義。它具有對地板和聆聽都有效的“夜間溫度”。
+Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區出現的一種 house 風格。它的特點是靈魂樂/爵士樂的和聲、流暢的低音和內斂的律動，是一種「深沉、悠長、溫暖身體」的舞曲音樂，而不是急速的高峰。 BPM一般為118-124（慢速至中速），7/9和弦，電鋼琴（Rhodes），管風琴（Korg M1系列），悠閒的人聲具有像徵意義。它具有對地板和聆聽都有效的“夜間溫度”。
 
 
 <小時>
@@ -29,34 +29,34 @@ Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區萌芽的一種
 
 **1985–90：早期早期（芝加哥/新澤西）**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以「Can You Feel It」和「Mystery of Love」呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，融合了Jersey Garage甜美的靈魂感覺([Blaze](https://amzn.to/4ooZuuc)和[Kerriz Chandnler](https
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以「Can You Feel It」和「Mystery of Love」呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，融合了Jersey Garage甜美的靈魂感覺([Blaze](https://amzn.to/4ooZuuc)和[Kerriyler](https://amzn)。
 
 **1990年代：深化與多元化**
 
-シカゴの[Ron Trent & Chez Damier（Prescription）](https://amzn.to/4nOApsp)、NYの[Masters At Work（MAW）](https://amzn.to/3KTsg7y)、デトロイトの[Moodymann](https://amzn.to/4h9ZZWB)が“黒い”質感を拡張。UKや独でも拠点が増え、ディープ×テックの橋渡しが起きる。
+芝加哥的 [Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp)、紐約的 [Masters At Work (MAW)](https://amzn.to/3KTsg7y) 和底特律的 [Moodymann](https://amzn.to/4h9ZZZWB) 擴展了「黑色」紋理。英國和德國的基地數量將增加，在深度和科技之間架起一座橋樑。
 
-**2000年代：リスニング志向と洗練**
+**2000年代：聆聽導向與成熟度**
 
-Naked Music、Jimpster（Freerange）等將帶您進入深情的精緻休息室。在德国，[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq) 和 [Dixon (Innervisions)](https://amzn.to/4heIsN1) 因其极简主义到现代的建筑美学而广受欢迎。
+Naked Music、Jimpster（Freerange）等將帶您進入深情的精緻休息室。在德國，[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq) 和 [Dixon (Innervisions)](https://amzn.to/4heIsN1) 因其極簡主義到現代的建築美學而廣受歡迎。
 
-**2010年代以降：分岐とグローバル化**
+**2010 年代及以後：分歧與全球化**
 
-AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。南アではBlack Coffeeがアフロ・ディープを世界水準に。DIYの波でLo-fi Houseも勃興。
+Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡使非洲深咖啡達到了世界一流的標準。隨著DIY浪潮的興起，低保真房屋也隨之興起。
 
 
 <小時>
 
 ### 音樂特點
 
-**和声**：メジャー7th／9th、サスコード、多めのテンション。短調でも“哀愁≠悲壮”のニュアンス。
+**和聲**：大調七度/九度，懸弦，張力很大。即使是小調，也有「悲傷≠悲劇」的細微差別。
 
-**节拍**：踢腿的余味圆润深沉。 The hi-hat is a shuffle to a light swing. 909/707/727 and 808 textures are standard.
+**節拍**：踢腿的餘韻圓潤深沉。踩鈸是從拖曳到輕搖的節奏。 909/707/727 和 808 紋理是標準的。
 
-**ベース**：サブ帯域を丁寧にコントロールしたうねるロングノートが中心。
+**低音**：主要是起伏的長音符，帶有仔細控制的子帶。
 
-**鍵盤／質感**：Rhodes/M1オルガン/柔らかなストリングス、空間系（ディレイ/リバーブ）は長めでも密度は薄く。
+**鍵盤/質感**：羅德/M1風琴/軟弦，空間類型（延遲/混響）長而不密。
 
-**ボーカル**：語りかける低～中域、福音（Gospel）～ソウルの系譜。必要十分な言葉数で“間”を活かす。
+**人聲**：低中音，福音到靈魂血統。透過使用必要且足夠數量的單字來使用「停頓」。
 
 
 <小時>
@@ -65,7 +65,7 @@ AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。�
 
 **原始來源**：Larry Heard（手指先生）/Kerri Chandler/Blaze
 
-**中核**：Ron Trent & Chez Damier（Prescription）／Moodymann（KDJ）／MAW（Nuyorican Soul含む）
+**核心**：Ron Trent & Chez Damier（處方）/ Moodymann (KDJ) / MAW（包括 Nuyorican Soul）
 
 **2000 年代的精緻**：Jimpster (Freerange) / Miguel Migs & Blue Six (Naked Music)
 
@@ -79,24 +79,24 @@ AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。�
 
 “前三件”
 
-- Mr. Fingers – Amnesia
+- 手指先生－失憶症
 
 - 羅恩特倫特 – 改變狀態
 
-- Kerri Chandler – Atmosphere
+- 凱裡錢德勒——氣氛
 
 
 <小時>
 
-### 次流派和外圍譜系
+### サブジャンルと周辺系譜
 
 **芝加哥深淵**：重底鼓+靈魂混響。例：手指先生、羅恩特倫特。
 
-**澤西/車庫類型**：鋼琴/風琴和福音般的聲音。例如：Kerri Chandler，《Blaze》。
+**泽西/车库类型**：钢琴/风琴和福音般的声音。例如：Kerri Chandler，《Blaze》。
 
 **Detroit Deep**：具有爵士靈魂樂感覺的低保真質感。例：Moodymann、Theo Parrish（在邊界上）。
 
-**深科技**：緊密的低頻和最少的重複。示例：超人前传/地下质量。
+**深科技**：緊密的低頻和最少的重複。例：超人前傳/地下品質。
 
 **旋律/有機**：寬音墊和風景和弦、現場樂器和自然聲音。例如：Anjunadeep，《我整天都在做夢》。
 
@@ -115,7 +115,7 @@ AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。�
 
 - 動態波浪：「稍微提高一點熱量，然後在 30 到 45 分鐘內立即恢復」。
 
-- BPM 設定不太快：創建 118-121 的“步幅長度”，然後在下半場增加到 122-124。
+- BPM 設定不要太快：將「步幅」設定為 118-121，然後在下半場增加到 122-124。
 
 
 <小時>
@@ -148,11 +148,11 @@ AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。�
 
 <小時>
 
-### プレイリスト雛形（流れの例）
+### 播放清單範本（流程範例）
 
-**熱身**：Blaze 風格風琴律動
+**Warm-up**：Blaze系のオルガン・グルーヴ
 
-**早期高峰**：Ron Trent/Chez Damier 的驅動力
+**Early peak**：Ron Trent／Chez Damierの推進力
 
 **高原**：Jimpster 的精煉 ~ Freerange
 

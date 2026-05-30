@@ -11,7 +11,7 @@ tags:
 - Funk
 - Soul
 - 90s
-title: 西西爾帕克——《大家跳舞》
+title: Cecil Parker – Dance Everybody
 ---
 
 
@@ -31,7 +31,7 @@ B1. Dance Everybody (Original Vocal)
 B2. Dance Everybody (Backburner Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKvKt6pFzp0?si=UBe9tm-kfeqVyTOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

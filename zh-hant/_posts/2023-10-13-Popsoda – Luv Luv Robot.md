@@ -13,7 +13,7 @@ title: Popsoda – Luv Luv 機器人
 ---
 
 
-Popsodaは、Amil Khan & Charles SieglingのユニットTechnasia（テクネジア）の別名義。
+Popsoda 是 Amil Khan 和 Charles Siegling 旗下 Technasia 的別稱。
 
 B 面的第一首歌是 Denki Groove 的石野卓奎 (Takkyu Ishino) 的混音版。 B 面的第二首曲目是由德國 techno DJ/製作人 Mijk Van Dijk 重新混音的。
 

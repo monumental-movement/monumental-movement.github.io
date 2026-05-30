@@ -39,7 +39,7 @@ color: #fff;
 </style>
 
 
-## 第一章 10秒響起的那一刻－個人經驗的起源
+## 第一章 那10秒響起的那一刻──個人經驗的起源
 
 
 10秒“健康與效率”。
@@ -47,7 +47,7 @@ color: #fff;
 
 那時我聽音樂只是作為帶有歌詞的情感表達。
 但這種有節奏的重複教會了我「結構勝於意義」的樂趣。
-正是在那一刻，我意識到聲音可以是「空間」而不是「訊息」。
+音が「メッセージ」ではなく「空間」になりうることを、あの瞬間に知ったのだ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYNEKwgkKE4?si=o3SjQ8uD3GeOIaPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ DJ 每隔 10 秒就會無意識地重新整理空間。
 每一刻都會重新調整地板的呼吸和能量。
 
 借用心理學家 Mihaly Csikszentmihalyi 提出的“心流理論”，
-這種 10 秒的聲音沉浸就是現代冥想的精髓。
+この10秒単位の音的没入こそが、現代の“瞑想”でもある。
 當人們跳舞時，他們將自己融入聲波中。
 
 ---
@@ -119,7 +119,7 @@ DJ 每隔 10 秒就會無意識地重新整理空間。
 
 ---
 
-## 第六章：私たちはなぜ、あの音を忘れないのか
+## 第6章：為什麼我們永遠不會忘記那個聲音？
 
 10 秒的聲音與當時的身體感覺連結在一起並被記住。
 雨的味道，房間裡的光線，你心跳的節奏。

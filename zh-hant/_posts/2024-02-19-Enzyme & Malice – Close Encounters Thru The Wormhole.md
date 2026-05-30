@@ -14,7 +14,7 @@ title: 酵素與惡意－蟲洞親密接觸
 ---
 
 
-由 Hardcore Break DJ/製作人 Enzyme 和 Malice 創作的 Hardcore Break 曲目。
+ハードコアブレイクのDJ /プロデューサーEnzymeとMaliceによるハードコア・ブレイクトラック。
 
 Enzyme 和 Malice 也以 Portal 的名義運作。
 

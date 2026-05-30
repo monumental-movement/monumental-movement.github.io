@@ -83,7 +83,7 @@ Tech House 經常與「techno 的一個子流派」或「house 的一個子流�
 * 艾迪理查茲
 * 內森·科爾斯
 * Wiggle（派對和標籤）
-* 贓物記錄
+* Swag Records
 
 在紮根於 house 的同時，他們積極嘗試類似 techno 的聲音處理，最大限度地減少律動，並收緊低音。
 Tech House 這個名字如此受歡迎的原因之一是他們的 DJ 混音以及在 The End 和 Fabric 俱樂部的長期表演。
@@ -119,7 +119,7 @@ The End 由 Mr. C 經營，以跨越 house 和 techno 的音樂性推廣俱樂�
 
 ## 5. 2000 年代初：與 Minimal 聯繫
 
-2000年代，來自德國柏林的Minimal Techno引起了全世界的關注。
+2000年代に入り、ドイツ・ベルリンの Minimal Techno が世界的に注目される。
 如此一來，與Tech House的交集會快速推進，後續的生態系統將會變得更加強大。
 
 * 柏林科技的最小化
@@ -135,7 +135,7 @@ The End 由 Mr. C 經營，以跨越 house 和 techno 的音樂性推廣俱樂�
 * Ricardo Villalobos（最小但也與 Tech House 相交）
 * 瘋子骰子
 * 盧西亞諾
-* 約翰·特賈達
+* 約翰·特哈達
 
 ---
 
@@ -169,7 +169,7 @@ flowchart TD
 
 2010 年代，Tech House 成為世界各地俱樂部和音樂節中最常演奏的 4/4 之一。伊維薩島的需求成長尤其大。
 
-著名藝術家的例子：
+特色藝術家的例子：
 
 * 傑米瓊斯（熱門創作）
 * 李福斯
@@ -204,20 +204,20 @@ Tech House 在每個國家都有不同的解釋和培養。以下是代表性地
 
 * 原來的原產地
 * house 與 techno 的自然結合
-* Fabric 和 The End 是場景的中心
+* FabricやThe Endがシーンの中心
 
 ### ■ 2. 德國（柏林）
 
 * Minimal Techno 的興起與聯繫
-* Perlon、Kompakt、Poker Flatなどが影響
+* 受 Perlon、Kompakt、Poker Flat 等影響
 * 更簡約、乾澀的聲像
 
-### ■ 3. アメリカ
+### ■ 3. 美國
 
-* 西海岸（Dirtybirdに代表）ではファンキーでユーモラスなTech House
+* 西海岸時髦又幽默的Tech House（以Dirtybird為代表）
 * 東海岸與紐約/芝加哥之家有著密切的聯繫
 
-### ■ 4. 南美洲
+### ■ 4. 南米
 
 * 特點是低音強勁、節奏清脆
 * 由於節慶活動，對科技屋的需求增加
@@ -233,7 +233,7 @@ Tech House 在每個國家都有不同的解釋和培養。以下是代表性地
 * 最後的錄音
 * 撲克平
 * 莫比爾
-* 基岩（較進步，但與科技屋相交）
+* Bedrock（Progressive寄りだがTech Houseと交差）
 * 熱門創作
 * 髒鳥
 
@@ -274,7 +274,7 @@ Tech House 與 DJ 文化密不可分。它通常是在 DJ 組合而不是流派�
 
 * 回歸簡單的面向地面的配置
 * 流行科技之家的商業成功
-* 重新評估Minimal Tech House
+* ミニマルTech Houseの再評価
 * 南美洲和東歐的人口成長
 * 作為 DJ 工具持續流行
 

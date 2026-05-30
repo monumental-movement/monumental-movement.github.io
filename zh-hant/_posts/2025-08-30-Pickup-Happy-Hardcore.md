@@ -34,7 +34,7 @@ B2. Wonderfull Days (Radio Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -17,7 +17,7 @@ title: 亞當克萊頓 (Adam Clayton) 與拉里馬倫 (Larry Mullen) – 《碟�
 
 U2 成員亞當克萊頓 (Adam Clayton) 和拉里馬倫 (Larry Mullen) 創作的電影《碟中諜》主題曲的盒式磁帶，於 1996 年發行。
 
-B 面是美國 house DJ Junior Vasquez 的混音版。
+B面はUSのハウスDJ Junior Vasquez（ジュニア・ヴァスケス）によるremix。
 
 #### 曲目表
 ```md

@@ -52,7 +52,7 @@ color: #fff;
 
 ---
 
-## 技術史前史：採樣器與局限性
+## 技術的前史：サンプラーと制限
 
 數位採樣器自 20 世紀 80 年代末開始流行，是作為錄製和播放短音頻片段的設備而引入的。早期的設備在記憶體容量、取樣率和複調方面有嚴格的限制。這些限制不僅降低了效率，而且不可避免地導致音質惡化和失真。
 
@@ -62,13 +62,13 @@ color: #fff;
 
 ## 從循環文化到片段文化
 
-従来のヒップホップ制作では、2〜8小節のループが楽曲の基礎単位であった。実験的インストでは、この単位が極端に短縮され、1拍未満、時には数十ミリ秒単位の断片が反復・遮断される。結果として、リスナーは拍子を数えるよりも、音響の変化密度を追う聴取態度を要求される。
+在傳統的嘻哈製作中，兩到八個小節的循環是歌曲的基本單位。在實驗儀器中，這個單元極度縮短，重複和中斷的片段少於一個節拍，有時甚至幾十毫秒。因此，聽眾需要追蹤聲學變化的密度，而不是計算節拍。
 
-> "反復は安定ではなく、違和の連続として機能する"
+> “重複並不穩定，而是會帶來一系列不適”
 
 ---
 
-## Madlib製作實踐
+## Madlibの制作慣行
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMkGcEGW4U4?si=QLXLfNXsUYZPG0OW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -77,10 +77,10 @@ color: #fff;
 Madlib 的製作特點是以硬體採樣器為中心的即興創作方法。使用 SP 系列進行製作時，實體操作優先於視覺編輯，使音樂中的樣本變化和波動保持完整。
 
 * 樣本的選取是在保留原始聲音的前提下進行的。
-* 厳密な量子化を行わない
-* 完成形を想定せず大量のビートを生成する
+* 沒有嚴格的量化
+* 產生大量節拍而不假定最終形式
 
-> “這不僅僅是一個項目，而是日常生產的積累。”
+> "プロジェクト単位ではなく日常的制作の積み重ね"
 
 <div class="mermaid">
 flowchart LR
@@ -92,7 +92,7 @@ flowchart LR
 ---
 
 
-## 知識生產實踐
+## Knxwledgeの制作慣行
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yK91vjg2Hsg?si=r18TMv3pzhtatHbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -118,7 +118,7 @@ flowchart LR
 
 ## 抽樣技術分解
 
-实验仪器中的采样是为了转化的目的，而不是为了引用或参考。通常觀察到以下過程：
+實驗儀器中的取樣是為了轉化的目的，而不是為了引用或參考。通常觀察到以下過程：
 
 * 提取單一聲音、環境聲音和噪音
 * 由於音高變化而剝離音調訊息

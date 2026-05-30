@@ -14,7 +14,7 @@ title: 武當派 (Wu-Tang Clan) 主演 Ron Isley – 重返遊戲
 ---
 
 
-《Back In The Game》是一首由 Wu-Tang Clan 和 Ron Isley 共同主演的歌曲，收錄在 Wu-Tang Clan 的專輯「The W」（2000）中。 Wu-Tang Clan是美國嘻哈團體，Ron Isley是R&B團體The Isley Brothers的成員，也是靈魂樂傳奇歌手。
+《Back In The Game》是一首由 Wu-Tang Clan 和 Ron Isley 共同主演的歌曲，收錄在 Wu-Tang Clan 的專輯「The W」（2000）中。 Wu-Tang Clan是美国嘻哈团体，Ron Isley是R&B团体The Isley Brothers的成员，也是灵魂乐传奇歌手。
 
 這首歌具有絕妙的節奏、經典的樣本和強大的說唱表演。
 
