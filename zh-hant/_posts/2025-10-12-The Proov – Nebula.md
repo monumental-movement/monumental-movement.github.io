@@ -9,11 +9,11 @@ permalink: /zh-hant/the-proov-nebula/
 tags:
 - Hiphop
 - 00s
-title: The Proov – Nebula
+title: 證明——星雲
 ---
 
 
-The Proov は、1996年に結成したオランダ出身のMC Gumshoe（Sven Willemsen）とMC CeeMajor（Cor Giesing）によるヒップホップデュオ。Proovはジャジーでダスティなファンクのスタイルから、エレクトロ的な響きまでをヒップホップとして表現する独自のスタイルが特徴。
+The Proov 是來自荷蘭的嘻哈二人組，由 MC Gumshoe (Sven Willemsen) 和 MC CeeMajor (Cor Giesing) 於 1996 年組成。 Proov 擁有獨特的風格，可以表達從爵士樂、塵土飛揚的放克音樂到嘻哈電子音樂的一切。
 
 「Nebula」は2003年にオランダのプロデューサーPerquisite主宰のレーベルUnexpected RecordsからリリースされたHip Hop。
 

@@ -61,7 +61,7 @@ CAN 的創辦人 **Holger Czukay** 和 **Irmin Schmidt** 是他的學生。
 
 ## 第 2 章：CAN——節奏哲學與即興創作科學
 
-「內部空間工作室」是科隆郊區的一座古老城堡。
+ケルン郊外の古い城館“インナー・スペース・スタジオ”。  
 CAN的神話由此誕生。
 **Jaki Liebezeit** 節拍器般的鼓，
 **邁克爾·卡羅利**吉他，
@@ -78,10 +78,10 @@ CAN的神話由此誕生。
 Shukai的剪輯技巧類似於後來的嘻哈採樣。
 
 > “節奏主宰時間。但即興創作可以讓你擺脫時間的束縛。”
-> — 賈基·利貝澤特
+> — ヤキ・リーベツァイト
 
 CAN的聲音是一趟「聆聽之旅」。一條無盡的凹槽，遊走在靜止與運動、機會與秩序之間。
-它後來影響了 Radiohead、The Fall 甚至 Aphex Twin。
+それは後のRadioheadやThe Fall、さらにはAphex Twinにも影響を与えることになる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FaydRUQ42Q?si=Tg1R-p686UpkQ2lP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -89,7 +89,7 @@ CAN的聲音是一趟「聆聽之旅」。一條無盡的凹槽，遊走在靜�
 
 ## 第3章：新的！ - 極簡主義與奔向未來
 
-新！ Kraftwerk 的早期成員 **Klaus Dinger** 和 **Michael Lotter** 離開樂團後成立。
+新！ Kraftwerk 的早期成员 **Klaus Dinger** 和 **Michael Lotter** 离开乐队后成立。
 聲音是“純粹的運動”，去除了所有不必要的裝飾。
 
 丁格的滾筒繼續以恆定的速度滴答作響，就像永無止境的傳送帶一樣。
@@ -101,18 +101,18 @@ Rotor的吉他和貝斯像流線一樣滑動，
 反向旋轉磁帶、改變速度、剪下和貼上聲音，
 它動搖了「生命」與「機器」之間的界線。
 
-> 「モーターリックとは、機械ではなく“人間の持続”の音だ。」  
+> “Motorik 是‘人類堅持不懈’的聲音，而不是機器的聲音。”
 > — 克勞斯·丁格
 
 這種簡單的節奏結構類似大衛鮑伊的柏林三部曲。
-他也對布萊恩·伊諾的環境作品產生了巨大的影響。
-在 NEU! 的聲音中，聽者意識到時間不是一條直線，而是一個圓圈。
+ブライアン・イーノのアンビエント作品にも多大な影響を残す。  
+聴く者は、NEU!の音の中で、時間が直線ではなく円環であることに気づく。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4toGr7aXeVA?si=JmyFgu9v8zaxFFAS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第 4 章：浮士德 - 拼貼與破壞的藝術
+## 第4章：Faust ― コラージュと破壊の芸術
 
 這間一室公寓是由Wünme鄉村的一座農舍改建而成。
 一群人躲在那裡，混合磁帶、噪音、廣播片段、樣本，一切——這就是**浮士德**。
@@ -124,9 +124,9 @@ Rotor的吉他和貝斯像流線一樣滑動，
 他 1971 年的首張專輯《Faust》的封面採用透明乙烯基印刷，就像一顆跳動的心臟。
 音樂也變得支離破碎。
 歌曲沒有旋律，更像是聽廣播節目。
-然而，這是對流行音樂框架的挑戰。
+しかしそれは、ポップミュージックの“枠組みそのもの”への挑戦だった。  
 
-他們深受普普藝術和達達主義的影響。
+彼らはポップ・アートやダダイズムに強く影響を受けていた。  
 隨後出現的龐克文化、工業文化和採樣文化都是基於浮士德的基因。
 
 > “毀滅是創造的開始。”
@@ -151,7 +151,7 @@ Kraftwerk 由 **Ralf Hütter** 和 **Florian Schneider** 設計
 然而，存在著一種尋找「德國人的新課題」的態度。
 否認過去（戰爭）並在未來尋找救贖（技術）。
 
-> 「私たちは人間の手で作られた機械。そして音楽はその反映だ。」  
+> “我們是人手製造的機器，音樂就是這一點的反映。”
 > — 佛洛里安‧施奈德
 
 Kraftwerk 的簡約線性聲音融合了底特律科技、合成器流行、
@@ -165,10 +165,10 @@ Kraftwerk 的簡約線性聲音融合了底特律科技、合成器流行、
 
 ## 第 6 章：集群 - 靜音與電子之間的界限
 
-### 静けさの中の革命
+### 沉默中的革命
 **Dieter Möbius** 和 **Hans-Joachim Roedelius** 的**集群**單元。
 與 CAN 和 Faust 不同，它們幾乎不是“噪音”或“搖滾”。
-在無機電子的聲音和寂靜之間感受到了城市的迴響和呼吸。
+在無機電子的聲音和寂靜之間，感受到了這座城市的迴響和呼吸。
 
 他的首張專輯《Cluster 71》（1971 年）是一系列實驗性的磁帶聲音，但也帶有某種冥想的意味。
 後續作品《Zuckerzeit》（1974）由 Neu! 的 Klaus Dinger 製作，引入了簡約而舒適的節奏。
@@ -180,7 +180,7 @@ Kraftwerk 的簡約線性聲音融合了底特律科技、合成器流行、
 
 ---
 
-## 第7章：Harmonia ― ClusterとNeu!の出会い
+## 第7章 Harmonia - Cluster 遇見 Neu！
 
 1973年，Neu!的吉他手**Michael Rother**加入了Cluster的兩名成員，**Harmonia**誕生了。
 故事發生在德國北部的鄉村福斯特。他們在火車很少來的地方設立了工作室。
@@ -220,7 +220,7 @@ Forst 誕生的聲音精神已經傳承到 Ambient、後搖滾，甚至當代環
 
 前 Tangerine Dream 鼓手和電子音樂探索者 **Klaus Schulz**。
 他透過單獨的工作室工作而不是在團體環境中擴展了德國泡菜搖滾。
-他們製作了很長的曲目，每首曲目持續超過 30 分鐘，並創造出彷彿用聲音「雕刻」時間的感覺。
+1曲30分を超える長大なトラックを構築し、時間を音で“彫刻”するように制作した。
 
 他的代表作《Timewind》（1975）和《Moondawn》（1976）是帶有無盡節奏和音序器的電子冥想。
 對於後來的 Jean-Michel Jarre、Vangelis，甚至 Techno 作家來說，他成為「電子哲學家」的起點。
@@ -238,8 +238,8 @@ Krautrock 的實驗精神體現在龐克和新浪潮中。
 在柏林，大衛鮑伊和布萊恩伊諾創作了“柏林三部曲”，並吸收了克勞特的美學。
 
 - 鮑伊的《Low》（1977）融合了 Neu！和集群。
-- Joy Division 和 The Fall 將摩托車節奏重新註入搖滾樂。
-- 90 年代，Stereolab 和 Tortoise 將德國泡菜搖滾與流行音樂融合在一起。
+- Joy DivisionやThe Fallは、モーターリックのリズムをロックに再注入。
+- 90年代にはStereolabやTortoiseが、クラウトロックをポップと融合させた。
 
 Krautrock 不僅僅是一個流派名稱。
 這就是「找到自己的聲音」的精神。
@@ -273,9 +273,9 @@ flowchart TD
 ---
 
 
-## 城市地圖（地理基礎）
+## 都市マップ（地理的拠点）
 
-- **科隆**：CAN、Popol Vuh
+- **ケルン**：CAN, Popol Vuh
 
 - **杜塞爾多夫**：發電廠，新！
 
@@ -295,7 +295,7 @@ flowchart TD
 |術語|意義|
 |--------------------------------- |------------------------------------------------ |
 | **摩托里克** | Neu 建立的恆定 4/4 節拍！一種線性的、恍惚的節奏。           |
-| **宇宙音樂** | Tangerine Dream、Klaus Schulze 等人創作的太空電子音樂。 |
+| **宇宙音乐** | Tangerine Dream、Klaus Schulze 等人创作的太空电子音乐。 |
 | **大陸搖滾** |歐洲視角的音樂表達，與英美搖滾不同。                |
 | **克勞特** |原本是英國俚語。它原本是一個貶義詞，後來被重新定義為一個驕傲的詞。         |
 | **摩托里克凹槽** | “Ein-zwei-drei-vier...”的節奏。極簡主義和欣快感的象徵。    |
@@ -322,11 +322,11 @@ flowchart TD
 
 ## 最終章：尋找聲音的自由
 
-Krautrock 是一個在國家重建時期用聲音來詢問「自由是什麼？」的運動。
+Krautrock 是一場在國家重建時期用聲音來詢問「什麼是自由？」的運動。
 他們拒絕遵循現有文化並願意創造自己的未來。
 
 這是一個關於「普世創造精神」而不是「德國血統」的故事。
-磁帶、節奏、電子波——它們仍然在地下錄音室播放。
+テープ、リズム、電子の波――それらは今も地下スタジオで鳴り続けている。
 
 > “Krautrock 還沒有結束。它仍然在你耳邊迴響。”
 

@@ -14,7 +14,7 @@ title: Raumfahrer – Traumreise
 ---
 
 
-Raumfahrer 是德國 Hard Trance DJ/製作人 Dirk Nothroff (DJ The Crow) 和 David Rzenno 的一個項目。他也以 Überdruck 的名義工作。
+Raumfahrerは、ドイツのHard Trance DJ／プロデューサーDirk Nothroff (DJ The Crow) とDavid Rzennoによるプロジェクト。Überdruck名義でも活動している。
 
 《Traumreise》於 2001 年發行，是一首 Fenslau Acid/Hard Trance 曲目，重新製作了 LDC 的經典歌曲，以向 T. Fenslau 致敬。
 

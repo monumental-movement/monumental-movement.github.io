@@ -13,14 +13,14 @@ title: 【專欄】鼓與貝斯的影響：速度與貝斯編織的都市詩學
 ---
 
 
-## 都市が産んだハイブリッド・ビート
+## 城市創造的混合節拍
 
 文：mmr｜主題：對鼓貝斯/叢林/英國聲音的思考
 
 
 鼓貝斯（D&B）是1990年代初誕生於倫敦地下俱樂部的音樂類型，同時也是多元文化城市生活的節奏。他們結合了快速的碎拍、咆哮的低音線和雷鬼/配音/嘻哈/電子音樂，徹底改變了英國音樂史。
 
-その進化は驚異的で、ジャングル、リキッドファンク、テックステップから、ニューロファンク、ジャンプアップ、ドラムステップまで、多くの枝分かれを見せている。
+它的演變是令人難以置信的，有許多分支，從叢林、液體放克、科技步到神經放克、跳躍和鼓步。
 
 
 <小時>
@@ -103,32 +103,32 @@ D&B 的根源在於叢林類型。這是一種混亂的節拍音樂，混合了�
 
 **● 叢林**
 
-邓白氏的起源。以拉格人聲、雷鬼低音和粗暴的休息為特色。
+鄧白氏的起源。以拉格人聲、雷鬼低音和粗暴的休息為特色。
 
 **● 泰步**
 
-ダークでインダストリアル、無機質なサウンド。Ed Rush & Optical、Dom & Rolandなどが代表。
+黑暗、工業、無機的聲音。代表包括 Ed Rush & Optical 和 Dom & Roland。
 
-**● ニューロファンク（Neurofunk）**
+**● 神經芬克**
 
-技術步驟的演進。 Mainly nervous and distorted bass lines. Noisia, Phace, Mefjus, etc.
+技術步驟的演進。主要是緊張和扭曲的低音線。 Noisia、Phace、Mefjus 等
 
-**● リキッドファンク（Liquid Funk）**
+**● 液體放克**
 
-A mellow style that incorporates elements of jazz, soul, and R&B.口徑、高對比、Netsky。
+融合了爵士樂、靈魂樂和 R&B 元素的柔和風格。口徑、高對比、Netsky。
 
 **● 跳躍**
 
-With a catchy bass and simple structure, it connects directly to the dance floor. DJ Hazard、Sub Zero 等
+它具有朗朗上口的低音和簡單的結構，可直接連接到舞池。 DJ Hazard、Sub Zero 等
 
-**● 鼓步**
+**● ドラムステップ（Drumstep）**
 
 受半場和迴響貝斯影響的一個子流派。切除、下行鏈路等
 
 
 <小時>
 
-### 支持鄧白氏的基地
+### D&Bを支えた拠点
 
 **Metalheadz (Goldie)**：結合了深度和智慧。
 
@@ -145,13 +145,13 @@ With a catchy bass and simple structure, it connects directly to the dance floor
 
 <小時>
 
-### 來自英國多元文化城市的音樂
+### UK多文化都市の音楽
 
 D&B 誕生於倫敦和布里斯託等多民族城市，在移民、街頭和銳舞文化的交匯處成長。
 
-**ブラック・ブリティッシュの影響**： サウンドシステム文化、レゲエ／ダブの手法。
+**英國黑人影響力**：音響系統文化、雷鬼/配音技術。
 
-**白人労働者階級のDIY精神**： 海賊ラジオ、インディペンデントレーベル。
+**白人工人階級的DIY精神**：海盜電台、獨立廠牌。
 
 **與 techno/IDM 的交集**：Squarepusher、Autechre 等開發了 D&B 節奏。
 
@@ -189,3 +189,14 @@ D&B 誕生於倫敦和布里斯託等多民族城市，在移民、街頭和銳�
 Drum & Bass 不僅僅是俱樂部音樂。這是生活在城市裡的人們的焦慮、希望、速度、緊張和抵抗的節拍。
 
 這種音樂在一個分裂的社會中連結、感動並引發人們思考。一旦你愛上了節奏，D&B 就會開始在你內心流動。
+
+---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/noLmuh3Jqic?si=HcbwXEvhUgEr2fHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

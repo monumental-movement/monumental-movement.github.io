@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - R&B
 - Remix
-title: Sisqo – 通俗歌曲（混音）
+title: Sisqo – Thong Song (Remix)
 ---
 
 

@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/gigolo-i-wanna-tell-you/
 tags:
 - House
-title: 舞男 – 我想告訴你
+title: Gigolo – I Wanna Tell You
 ---
 
 

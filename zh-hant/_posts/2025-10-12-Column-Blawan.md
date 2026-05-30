@@ -20,7 +20,7 @@ title: 【專欄】Blawan：鋼鐵的快感與深夜的肉體－英國Techno夢�
 文：mmr｜主題：關於 Blawan 冷酷但又不失人性的節拍，這種節拍在英國地下仍然紮根
 
 曾幾何時，英格蘭北部的工業區充滿了蒸氣和金屬的氣味。
-傑米·羅伯茨（Jamie Roberts）——或者說布拉萬（Blawan）——可能是在不知不覺中吸入了它的影響而長大的。
+傑米·羅伯茨（Jamie Roberts）或布拉萬（Blawan）可能是在無意識地吸入其影響的情況下長大的。
 電子音樂的血統源自謝菲爾德（Cabaret Voltaire、Warp Records、The Black Dog）
 它同時呼應勞動的節奏和城市的呼吸。
 
@@ -48,15 +48,15 @@ color: #fff;
 </style>
 
 
-## 第一章：從Bohla開始的鋼鐵故事
+## 第1章　Bohlaから始まる鉄の物語
 
 《Bohla EP》由 R&S Records 於 2011 年發行。
 硬朗卻又異常柔和的節奏為球團帶來了「新的重量」。
-それは、ポスト・ダブステップの混沌から抜け出そうとするUKのクラブ・サウンドが  
+這是英國俱樂部的聲音，試圖擺脫後迴響貝斯的混亂。
 新たに見つけた「手触り」だった。
 
 此時，Blawan 喜愛上了 Roland 節奏機和類比濾波器。
-DAWの中ではなく、**指先とつまみで音を掴む**。  
+**用指尖和旋鈕抓住聲音**，而不是在 DAW 中。
 正是「演奏」電子音的肉體感覺，讓他的聲音變得滾燙如鐵。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xS0_gQumqc?si=7J7SZEqG8bgMGb1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -66,8 +66,8 @@ DAWの中ではなく、**指先とつまみで音を掴む**。
 ## 第二章「為什麼他們把身體藏在我的車庫下面」——恐懼與快樂的界限
 
 2012年，世界俱樂部場面震動。
-“Why They Hide Their Bodies Under My Garage.”  
-這首歌讓 Blawan 的名字變得明確。
+“為什麼他們把屍體藏在我的車庫下面。”
+この一曲が、Blawanの名を決定的なものにした。
 
 標題令人不安。
 扭曲的聲音樣本聽起來就像地下室裡的幽靈呻吟。
@@ -75,7 +75,7 @@ DAWの中ではなく、**指先とつまみで音を掴む**。
 不過，其中卻有一種奇怪的**「快感」**。
 它壓縮了聽者的身體，同時又釋放了它——這是一個**恐懼和欣快**的時刻。
 
-多くのDJがこのトラックをピークタイムに投下し、  
+很多 DJ 在高峰時段都會放棄這首歌，
 據報道，俱樂部樓層陷入了“強烈的興奮”時刻。
 這首歌不僅火爆，
 它是科技音樂中復興「沒有情感的感覺」的象徵。
@@ -86,8 +86,8 @@ DAWの中ではなく、**指先とつまみで音を掴む**。
 
 ## 第3章 凱倫的身體－與Pariah的共鳴
 
-Blawan 的另一張臉是 **Karenn**。
-與他的盟友 Pariah（亞瑟·凱澤飾）的二人組更像是一個工作室，而不是一個工作室。
+Blawanのもう一つの顔、それが**Karenn**である。  
+盟友Pariah（Arthur Cayzer）とのデュオは、スタジオというよりも「作業場」だった。  
 他創立了 Sheworks 品牌，並以即興設備演出的形式在歐洲巡迴演出。
 
 一堆電纜。
@@ -135,9 +135,9 @@ Karenn的現場表演更像是「鍛造」而不是「表演」。
 ## 第 6 章：布拉萬周圍的人與城市
 
 Blawan 的聲音不屬於任何藝術家。
-Regis和Surgeon打造的英國工業基因，
+RegisやSurgeonが築いたUKインダストリアルの遺伝子、  
 保拉·坦普爾和大天鵝的猛烈節奏，
-そしてSkee Maskの繊細な粒子。  
+還有 Skee Mask 的細膩顆粒。
 所有這一切都在他內心重建。
 
 比起柏林的貧瘠，我更喜歡倫敦的潮濕。
@@ -193,7 +193,7 @@ flowchart TD
 | 2011 | **Bohla EP** |羅德與施瓦茨 (R&S) 記錄 | [亞馬遜](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
 | 2012 | **為什麼他們把屍體藏在我的車庫底下。 ** |鉸鏈手指| [亞馬遜](https://www.amazon.co.jp/dp/B00A8F2R8S) |
 | 2013 | **長夜工作** |工作坊 | [亞馬遜](https://www.amazon.co.jp/dp/B00FGZSW5A) |
-| 2018 | **濕總會乾** |特內斯克| [亞馬遜](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
+| 2018 | **Wet Will Always Dry**                         | Ternesc      | [Amazon](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
 | 2020 | **Imulsion（完全混合到我這裡來）** |特內斯克| [亞馬遜](https://www.amazon.co.jp/dp/B087B9MBK4) |
 | 2025 | 2025 **SickElixir** | XL | [亞馬遜](https://amzn.to/3W2BEbr) |
 
@@ -202,13 +202,13 @@ flowchart TD
 
 ## 附錄：聲音片段－布拉萬及其周圍所說的“聲音”和“身體”
 
-> 「當我製作 techno 時，我並不是製作歌曲。
+> 「當我製作 techno 時，我並不是在製作歌曲。
 > 我只是在追逐節奏讓空氣顫抖的那一刻。 」
 > —— **布拉萬**
 
 ---
 
-> “當我第一次聽到那首歌“為什麼他們隱藏自己的身體……”
+> 「あの“Why They Hide Their Bodies…”を初めて聴いたとき、  
 >  俱樂部一時間感覺「凍結」了。
 >  恐懼和快樂同時出現。
 >  這樣的卡車每十年才出現一次。 」
@@ -249,7 +249,7 @@ flowchart TD
 > 「隨著俱樂部文化融入數位化，
 >  布拉萬又恢復了「重力」。
 >  聲音落到地上。
->  我認為這是現在最人性化的事情。 」
+>  我认为这是现在最人性化的事情。 」
 > —— **摘自常駐顧問作者評論**
 
 ---
@@ -271,7 +271,7 @@ flowchart TD
 
 ### 最終章：鋼鐵般的祈禱：舞蹈就是生存
 
-Blawan的聲音時而冰冷，有時粗暴。
+Blawan的聲音時而冰冷，有時刺耳。
 然而，在內心深處，肯定存在著「人類的祈禱」。
 跳舞的行為是一種在城市喧囂中「生存」的儀式。
 「為什麼他們把屍體藏在我的車庫下面。」仍然吸引著人們，因為
@@ -351,7 +351,7 @@ flowchart TD
 ### Blawan 工作室功能說明
 
 |分類|設備|應用 |特性|
-| ---------- | ------------------------------------ | ---------- | -------------------- |
+| ---------- | ------------------------------------------------ | ---------- | -------------------- |
 |音序器| **智慧大都會** |旋律/節奏生成 |強調硬16步手感|
 |振盪器| **Verbos 複合 VCO / 辮子** |主振盪源|類比失真與數位粒子的結合 |
 |鼓合成器 | **穆格 DFAM** |金屬打擊樂| Blawan「工業噪音」的核心 |
@@ -390,7 +390,7 @@ Blawan 不是“打字”，而是“表演”。
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[專欄]從techno的起源到現在——透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 【德國Techno的譜系與現在－聲音美學從柏林傳播到世界】(https://monumental-movement.jp/Column-German-Techno)
 

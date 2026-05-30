@@ -13,7 +13,7 @@ title: Access 58 – 黑暗面 EP
 ---
 
 
-Access 58是由來自葡萄牙的Paulo Nascimento（Urban Ritual）和來自法國的Philippe Quenum組成的團體。他還以 The Funk Element 的名義發行了專輯。
+Access 58是由来自葡萄牙的Paulo Nascimento（Urban Ritual）和来自法国的Philippe Quenum组成的团体。他還以 The Funk Element 的名義發行了專輯。
 
 《Dark Side EP》是一首 Techno 曲目，由 Access58 廠牌於 1999 年發行。
 
@@ -30,7 +30,7 @@ AA1. Orient Express (Steve Stoll Proper Dub Remix)
 AA2. Quiet Mind (Pacou Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70119749536?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70119749536?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xWrxlyOGCPY?si=kIcKrS0_wgTzUX9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

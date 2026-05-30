@@ -10,7 +10,7 @@ tags:
 - Synth Pop
 - Pops
 - 80s
-title: 探險家－米洛的維納斯
+title: The Explorers – Venus De Milo
 ---
 
 

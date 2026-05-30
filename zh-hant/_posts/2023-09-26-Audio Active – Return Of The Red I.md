@@ -13,7 +13,7 @@ title: 音頻活動 – 紅色歸來 I
 ---
 
 
-《Audio Active – Return Of The Red I》是日本音樂團體Audio Active的一張專輯。這張專輯於1999年發行。
+《Audio Active – Return Of The Red I》是日本音樂團體Audio Active的一張專輯。这张专辑于1999年发行。
 
 《Return Of The Red I》是Audio Active的作品，音樂融合了配音、雷鬼、電子音樂的元素。他們的音樂採取實驗性和激進的方式，追求獨特的聲音。
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/orange-9mm-orange-9mm/
 tags:
 - Hardcore
 - Post Hardcore
-title: 橙色 9mm – 橙色 9mm
+title: Orange 9mm – Orange 9mm
 ---
 
 

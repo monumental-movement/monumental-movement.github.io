@@ -11,7 +11,7 @@ tags:
 - Heavy Metal
 - Hard Rock
 - 80s
-title: Various – Metal For Muthas
+title: 各種 – Muthas 的金屬
 ---
 
 

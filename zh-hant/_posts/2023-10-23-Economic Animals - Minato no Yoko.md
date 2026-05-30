@@ -10,11 +10,11 @@ tags:
 - Rock
 - Parody
 - 7inch
-title: Economic Animals - Minato no Yoko
+title: 經濟動物 - 港洋子
 ---
 
 
-Economic Animals是佐佐木勉領導的蒙面樂團。 《港洋子歸來》於 1975 年發行，是《港洋子橫濱橫須賀》的續集和模仿曲以及回答曲。
+Economic Animals是由佐佐木勉领导的蒙面乐队。 《港洋子歸來》於 1975 年發行，是《港洋子橫濱橫須賀》的續集和模仿曲以及回答曲。
 
 作詞/作曲/歌曲：經濟動物
 

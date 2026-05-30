@@ -10,11 +10,11 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Justin Berkovi – Shinkansen Tracks
+title: Justin Berkovi – 新幹線軌道
 ---
 
 
-Justin Berkovi 是駐倫敦的 techno DJ/製作人，也是 Predicamentst 和 Nightrax 唱片公司的創辦人。
+Justin Berkoviは、ロンドンを拠点とするTechno DJ／プロデューサーであり、レーベルPredicamentstとNightraxの設立者でもある。
 
 《Shinkansen Tracks》是由 AdamX 領導的 Techno/Industrial Techno/EBM/Acid/Experimental 廠牌 Sonic Groove 於 1999 年發行的 Techno/Minimal 曲目。
 

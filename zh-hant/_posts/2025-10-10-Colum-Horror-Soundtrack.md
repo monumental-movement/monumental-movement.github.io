@@ -14,7 +14,7 @@ title: '[專欄] 2010年以來的西方恐怖電影及其配樂'
 ---
 
 
-## 序章：沈黙の恐怖と低周波の時代
+## 前言：無聲恐怖與低頻的時代
 
 
 文：mmr｜主題：從A24到布魯姆豪斯再到AI恐怖－從文化歷史和聲學美學上揭開2010年代以來主導恐怖電影的「聲音恐怖」。
@@ -61,13 +61,13 @@ A24的恐怖音響系統用「低語」而不是「尖叫」來震撼觀眾。
 
 ---
 
-### 第二章：ブラムハウス・ホラーの音響設計
+### 第 2 章：布魯姆豪斯恐怖音效設計
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-対照的に、ブラムハウス・プロダクションは**低予算ながら緻密な音設計**で恐怖を増幅させた。  
+相比之下，Blumhouse Productions 透過低預算但詳細的聲音設計放大了恐懼。
 [Joseph Bishara](https://amzn.to/4okJ3ix) 負責 ['Insidious' (2010)](https://amzn.to/4nRnAOm) 和 ['The Conjuring' (2013)](https://amzn.to/48qVkx0) 的作曲。
 「音牆」將琴弦扭曲到極限並疊加白噪音，就像一場驅魔噩夢。
 
@@ -86,8 +86,8 @@ A24的恐怖音響系統用「低語」而不是「尖叫」來震撼觀眾。
 
 ---
 
-2010 年代中期，80 年代的恐怖聲音捲土重來。
-在 [“It Follows” (2014)](https://amzn.to/4mSiAaF) 中，Disasterpeace 以冷酷的合成器為基礎的琶音將被追逐的恐懼形象化。
+2010年代半ば、80年代的ホラーサウンドが復活した。  
+在 ['It Follows' (2014)] (https://amzn.to/4mSiAaF) 中，Disasterpeace 形象化了被基於冷合成器的琶音追逐的恐懼。
 這首歌在俱樂部文化中流行起來，並成為重新評估復古合成器的機會。
 
 [``The Guest'' (2014)](https://amzn.to/3WxUjvS) 是對約翰·卡本特電子懸疑的現代重新詮釋。
@@ -97,7 +97,7 @@ A24的恐怖音響系統用「低語」而不是「尖叫」來震撼觀眾。
 
 ---
 
-### 第四章：ヨーロッパ・アートホラーの音と沈黙
+### 第四章：歐洲藝術恐怖的聲音與沉默
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/85VPBoJb978?si=qZvyShWjlMUnz11Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -122,7 +122,7 @@ Mica Levi 的 [``Under the Skin'' (2013)](https://amzn.to/3J4PJC6) 將異物的�
 
 此外，恐怖配樂以模擬唱片的形式再循環，
 **死亡華爾滋**和**Waxwork Records**將恐怖音樂重新評估為“聆聽文化遺產”。
-クラブDJがホラーサントラをセットに組み込む現象も広がり、  
+俱樂部 DJ 將恐怖配樂融入他們的音樂中的現像已變得普遍。
 那是一個電影音樂和俱樂部文化以一種奇怪的方式交織在一起的時代。
 
 ---
@@ -140,7 +140,7 @@ Mica Levi 的 [``Under the Skin'' (2013)](https://amzn.to/3J4PJC6) 將異物的�
 
 隨著 Netflix 作品鞏固全球市場，
 每個地區的「健全的民間傳說」正在全球恐怖中獲得新的地位。
-音は言語を超える。恐怖は翻訳を必要としない。
+聲音超越語言。恐懼不需要翻譯。
 
 ---
 
@@ -170,7 +170,7 @@ Colin Stetson 的低音氣息、Disasterpeace 的電子張力、Bobby Krlic 的�
 所有這些都是「什麼是恐懼？」這個問題的聲學翻譯。
 
 恐怖的聲音與社交焦慮和個人孤獨產生共鳴。
-它也是旨在重新獲得流行音樂失去的“深層情感”的音樂。
+それはポップミュージックが失った“深層の感情”を取り戻すための音楽でもある。  
 下一代恐怖作曲家已經有能力將恐怖變成藝術。
 
 ---
@@ -203,14 +203,14 @@ flowchart TD
 |年份|標題 |作曲家 |標籤|連結 |
 | ---- | ------------------- | -------------------------------------- | -------------- |---------------------------------------------------------------- |
 | 2014 | *它跟隨* |災難和平|米蘭紀錄| [亞馬遜](https://amzn.to/4nIdRcN) |
-| 2018 | *世襲* |科林·斯泰森 |米蘭紀錄| [亞馬遜](https://amzn.to/4mY7XDe) |
-| 2019 | 2019 *仲夏節* |鮑比·克里克（哈克森斗篷）|米蘭紀錄| [亞馬遜](https://amzn.to/4h66SrF) |
-| 2017 | 2017 *滾出去* |邁克爾·阿貝爾 |背景音樂 | [亞馬遜](https://amzn.to/48YphVo) |
-| 2020 | *隱形人* |本傑明·沃爾菲施 |背景音樂 | [亞馬遜](https://amzn.to/48qSwjs) |
+| 2018 | *Hereditary*        | Colin Stetson                 | Milan Records  | [Amazon](https://amzn.to/4mY7XDe) |
+| 2019 | *Midsommar*         | Bobby Krlic (The Haxan Cloak) | Milan Records  | [Amazon](https://amzn.to/4h66SrF) |
+| 2017 | *Get Out*           | Michael Abels                 | Back Lot Music | [Amazon](https://amzn.to/48YphVo) |
+| 2020 | *The Invisible Man* | Benjamin Wallfisch            | Back Lot Music | [Amazon](https://amzn.to/48qSwjs) |
 
 ---
 
-> “恐怖電影不再尖叫——它們嗡嗡作響、產生共鳴、呼吸。”
+> “Horror films no longer scream — they hum, resonate, and breathe.”
 >——摘自A24製作人的話
 
 
@@ -219,4 +219,4 @@ flowchart TD
 
 ### 相關專欄
 
-🔗【專欄】電影音樂的媒體史：聲音是如何從螢幕傳到揚聲器的？ ](https://monumental-movement.jp/Column-Soundtrack)
+🔗 [【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？](https://monumental-movement.jp/Column-Soundtrack)

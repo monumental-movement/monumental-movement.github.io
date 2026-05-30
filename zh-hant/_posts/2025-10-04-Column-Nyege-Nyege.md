@@ -37,12 +37,12 @@ color: #fff;
 
 ## 目錄
 
-1. [基礎與背景](#beginning)
+1. [創設と背景](#beginning)
 2. [專輯及專案介紹](#album)
 3. [辛格利](#singeli)
 4. [Acolitronix](#acholitronix)
 5. [Electro Maloya](#electric-maloya)
-6. [逸話と伝説](#story)
+6. [軼事和傳說](#story)
 7. [Nyege Nyege作為一個整體的文化意義](#culture)
 8. [當前活動與前景](#now)
 9. [推薦的 YouTube 連結](#youtube)
@@ -57,9 +57,9 @@ Nyege Nyege 由美國人 Arlen Dirsigian 和比利時人 Derek Debre 於 2013 �
 
 ---
 
-## <a id="album"></a>專輯及專案介紹
+## <a id="album"></a>專輯及專題介紹
 
-下面，我們將按年份介紹Nyege Nyege Tapes發行的代表性專輯和專案。
+以下に、Nyege Nyege Tapesからリリースされた代表的なアルバムとプロジェクトを年代別に紹介します。
 
 
 |年份|藝人/專輯 |特色|友情連結 |
@@ -72,7 +72,7 @@ Nyege Nyege 由美國人 Arlen Dirsigian 和比利時人 Derek Debre 於 2013 �
 
 ---
 
-## 音楽スタイルと影響
+## 音樂風格和影響
 
 Nyege Nyege Tapes 的音樂被譽為“局外音樂”，將非洲各地的傳統音樂與現代電子音樂相結合。特別值得注意的是以下音樂風格：
 
@@ -89,10 +89,10 @@ Shingeli 是一種快節奏舞曲，起源於坦尚尼亞達累斯薩拉姆。
 |特點|詳情 |
 |------|------|
 |業務流程管理|超過180-220，對於俱樂部來說超快|
-|節奏| 4/4 拍連續鼓聲，簡單貝斯 |
-|旋律|主要是最小循環，偶爾有合成器和樣本 |
+| リズム | 4/4拍子の連続的ドラムビート、ベースはシンプル |
+| メロディ | ミニマル・ループ中心、時折シンセやサンプル |
 |人聲|由女MC主導的高速饒舌與聖歌|
-|歌曲結構|強調即興創作，由 DJ/MC 自行決定改變 |
+|歌曲結構 |強調即興創作，由 DJ/MC 自行決定改變 |
 
 ---
 
@@ -117,7 +117,7 @@ flowchart TD
 
 - 性別平等的象徵
 
-- 国際的発信によるアフリカ音楽の最前線化
+- 透過國際傳播將非洲音樂推向前沿
 
 
 ---
@@ -151,9 +151,9 @@ Shingeli 是一種都市舞曲，以超快的節奏和女主持人的即興表�
 
 ---
 
-### <a id="acholitronix"></a>アコリトロニクス（Acholitronix）
+### <a id="acholitronix"></a>Acholitronix
 
-アコリトロニクスは、ウガンダ北部アコリ民族の伝統音楽ララカラカを電子音楽で再構築したスタイルです。
+Akolitronics 是一種利用電子音樂再現烏幹達北部 Akori 人傳統音樂 Rarakaraka 的風格。
 
 
 ---
@@ -166,7 +166,7 @@ Shingeli 是一種都市舞曲，以超快的節奏和女主持人的即興表�
 |節奏|基於打擊樂的多重節奏，循環 |
 |旋律|用合成器再現弦樂器和合唱|
 |聲樂|傳統唱腔取樣+饒舌融合|
-|歌曲結構|保持俱樂部的即興創作、介紹/構建/休息|
+|歌曲結構 |保持俱樂部的即興創作、介紹/構建/休息|
 |聲音|使用模擬合成器效果擴展紋理 |
 
 
@@ -192,7 +192,7 @@ flowchart TD
 
 - 現代化與保護傳統音樂
 
-- 架起城市與當地文化的橋樑
+- 都市と地方文化の橋渡し
 
 - 在國際舞台上推廣非洲音樂
 
@@ -201,7 +201,7 @@ flowchart TD
 
 #### 表演和舞蹈
 
-- 與即興舞蹈的融合：在Rarakaraka的傳統中，舞蹈與音樂融為一體，這種即興的本質在Acolitronics中得到了繼承。
+- 即興的ダンスとの一体化：ララカラカの伝統では踊りが音楽と一体であり、アコリトロニクスでもその即興性が受け継がれています。
 
 - 節日表現形式：Nyege 在 Nyege 音樂節上，觀眾隨著 Akori 電子音樂自由跳舞是很常見的。
 
@@ -225,7 +225,7 @@ Acolitronics是一種融合傳統音樂和電子音樂的城市音樂，同時�
 
 ---
 
-### <a id="electro-maloya"></a>エレクトロ・マロヤ（Electro Maloya）
+### <a id="electric-maloya"></a>馬洛亞電力
 
 Electro Maloya 是一種實驗風格，利用電子音樂重現留尼汪島 Maloya 的傳統音樂。
 
@@ -235,11 +235,11 @@ Electro Maloya 是一種實驗風格，利用電子音樂重現留尼汪島 Malo
 
 |特點|詳情 |
 | ---- | ------------------------ |
-|業務流程管理| 100-140BPM，傳統Maloya慢節奏 |
-|節奏|循環打擊樂多節奏 |
+|業務流程管理| 100-140BPM，傳統Maloya慢節奏|
+|節奏|循環打擊樂多節奏|
 |旋律|傳統旋律與合唱的合成器重構 |
-|聲樂|主要是合唱、取樣+混響|
-|歌曲結構|傳統基礎+俱樂部建造/破壞/掉落 |
+|聲樂|主要是合唱、取樣+混響 |
+|歌曲結構 |傳統基礎+俱樂部建造/破壞/掉落 |
 |聲音|透過模擬合成器循環效果擴展空間 |
 
 ---
@@ -261,13 +261,13 @@ flowchart TD
 
 #### 文化意義
 
-- 歷史文化傳統的重新詮釋
+- 歴史的・文化的伝承の再解釈
 
-- 透過國際傳播將區域有限的音樂全球化
+- 国際発信による地域限定音楽のグローバル化
 
-- 傳統音樂的新實驗表達
+- 伝統音楽の新しい実験的表現
 
-這些風格在 Nyege Nyege Tapes 如何以現代視角重新詮釋非洲音樂遺產並與世界分享方面發揮著重要作用。
+これらのスタイルは、Nyege Nyege Tapesがアフリカの音楽遺産を現代的な視点で再解釈し、世界に発信する重要な役割を果たしています。
 
 ---
 
@@ -291,9 +291,9 @@ flowchart LR
 
 ---
 
-#### Electro Maloya（摘要）
-Electro Maloya 是一種以電子音樂重構傳統 Maloya 音樂的實驗流派。
-歴史の継承、文化的再解釈、都市クラブ文化との融合、国際発信を同時に担う音楽スタイルとして、世界的に注目されています。
+#### エレクトロ・マロヤ（まとめ）
+エレクトロ・マロヤは、マロヤ伝統音楽を電子音楽で再構築した実験的ジャンルです。
+作為一種同時傳承歷史、重新詮釋文化、融合城市俱樂部文化、溝通國際的音樂風格，正受到世界矚目。
 
 ---
 
@@ -325,7 +325,7 @@ Nyege Nyege 透過他的唱片公司 Nyege Nyege Tapes 和子廠牌 Hakuna Kulal
 
 ### <a id="youtube"></a>推薦的 YouTube 鏈接
 
-以下是一些與 Nyege Nyege 相關的推薦 YouTube 連結：
+以下に、Nyege Nyege関連のおすすめYouTubeリンクを紹介します：
 
 #### 2024 年尼格尼格音樂節亮點
 
@@ -339,14 +339,24 @@ Nyege Nyege 透過他的唱片公司 Nyege Nyege Tapes 和子廠牌 Hakuna Kulal
 
 ---
 
-#### 班巴帕納和馬卡維利 |鍋爐房 x Nyege Nyege Festival
+#### Bamba Pana & Makaveli | Boiler Room x Nyege Nyege Festival
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### <a id="conclusion"></a>總結
+### <a id="conclusion"></a>まとめ
 
-Nyege Nyege是一個向世界傳播融合非洲傳統音樂和現代電子音樂的「局外音樂」的重要音樂團體。 Nyege Nyege Tapes 廠牌處於推動非洲傳統音樂與電子音樂融合的前沿，包括 Shingeli、Akolitronics、Electro Maloya 等。
+Nyege Nyegeは、アフリカの伝統音楽と現代の電子音楽を融合させた「アウトサイダー音楽」を世界に発信する重要な音楽集団です。そして、レーベルであるNyege Nyege Tapesは、シンゲリ・アコリトロニクス・エレクトロ・マロヤなど、アフリカ伝統音楽と電子音楽の融合を推進する最前線におり、
 透過同時保護當地文化、表達城市和青年文化並在國際上傳播，我們在世界音樂界確立了獨特的地位。他們的活動不僅提醒我們音樂的重要性，也提醒我們文化多樣性和社會包容性的重要性。我們將持續關注他們的音樂和活動。
 
+---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ocsHZOb-ooI?si=9ohQXSZOU7Y1LASq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -40,7 +40,7 @@ FreeTEMPO 是 Takeshi Hanzawa 的一個專案。 2000 年以 FreeTEMPO 名義開
 12. Sounds
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdzo4ariC1Q?si=0spyPgnN5Iie-62l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

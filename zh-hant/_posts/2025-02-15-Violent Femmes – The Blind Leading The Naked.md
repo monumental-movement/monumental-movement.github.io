@@ -35,7 +35,7 @@ Violent Femmes 是一支來自威斯康辛州密爾瓦基的美國民謠龐克�
 13. Two People
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WeTRKMPLxXk?si=XQKkXIEmI4BLQNQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

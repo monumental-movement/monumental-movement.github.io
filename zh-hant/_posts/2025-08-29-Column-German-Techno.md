@@ -40,7 +40,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 ### 德國科技的特點
 
-- **極簡主義和可重複性**
+- **ミニマリズムと反復性**
 
 與底特律 techno 的深情元素相比，德國 techno 更強調機械和線性節奏。
 
@@ -54,7 +54,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 <小時>
 
-### 代表藝人/廠牌
+### 代表的アーティスト・レーベル
 
 - **Sven Väth（法蘭克福）**：德國科技的象徵。透過 Cocoon 品牌將場景國際化。
 
@@ -68,7 +68,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 <小時>
 
-### 年代別サウンドの特徴
+### 各代聲音的特徵
 
 #### 1980年代末期（早期）
 
@@ -98,7 +98,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 - 快速的 BPM，工業般的無機聲音
 
-- 早期 trance 和硬科技的混合
+- 初期トランスやハードテクノが混在
 
 **代表藝術家**：Sven Väth、Hardfloor、Westbam、Maurizio（Basic Channel）。
 
@@ -114,7 +114,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 - 發展最小技術（簡化結構，強調重複）
 
-- 硬科技和酸科技的興起
+- ハードテクノ、アシッドテクノの台頭
 
 - 底特律的「深情」元素逐漸消失，取而代之的是冰冷、機械的聲音。
 
@@ -124,7 +124,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 ---
 
-#### 2000年代（國際化與多元化）
+#### 2000年代（国際化と多様化）
 
 **背景**：柏林已成為全球俱樂部城市。 「Berghain」俱樂部開幕（2004 年）。
 
@@ -150,7 +150,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 - Berghain 聲音：重鼓、黑暗、無機氛圍
 
-- 工業和EBM元素的重新詮釋
+- インダストリアルやEBM要素の再解釈
 
 - 旋律科技樂與深度科技樂獲得全球支持
 
@@ -174,7 +174,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 **趨勢**：在繼承了過去「德國techno」典型的冷酷的同時，它隨著情感表達和視覺製作的加入而演變。
 
-如果以十年來比較歌曲，你可以看到一個「工業化和寒冷→最小化→硬化→旋律化→再工業化」**的循環。
+如果以十年來比較歌曲，你可以看到一個「工業化和冷漠→極簡化→堅硬→旋律化→再工業化」**的循環。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 今天的德國 Techno 已經廣泛發展，從硬朗的工業趨勢到旋律和抒情的表達方式，但仍然保持著「柏林，Techno 之都」的標誌性地位。
 
 總而言之，德國 Techno 既是過去的文化產物，也是未來聲音設計的試驗場。
-聆聽他的作品，追溯其歷史，無非是理解音樂的活力，城市與人類、機器與情感交織在一起。
+その歴史を辿りながら作品を聴くことは、都市と人間、機械と感情が交錯する音楽のダイナミズムを理解することに他なりません。
 
 
 ---
@@ -205,7 +205,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[專欄]從techno的起源到現在——透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
 

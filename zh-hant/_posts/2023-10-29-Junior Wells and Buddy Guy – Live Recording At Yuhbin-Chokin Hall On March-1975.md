@@ -18,7 +18,7 @@ title: Junior Wells 和 Buddy Guy – 1975 年 3 月在 Yuhbin-Chokin Hall 進�
 
 Buddy 和 Junior 都展示了他們作為領導者的技能，並在整張專輯中表現得非常活躍。
 
-這套 2 張唱片是藍調樂迷必看的作品。
+ブルース好きなら絶対に見逃せないLP2枚組です。
 
 
 #### 曲目表

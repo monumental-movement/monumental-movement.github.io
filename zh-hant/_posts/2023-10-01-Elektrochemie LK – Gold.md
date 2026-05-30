@@ -13,7 +13,7 @@ title: Elektrochemie LK – 金獎！
 ---
 
 
-「金子！」Elektrochemie LK 的專輯由德國唱片公司 Confused Recordings 於 2001 年發行。
+Elektrochemie LKによる「Gold!」は、2001年にドイツのレーベルConfused Recordingsからりりースされました。
 
 Elektrochemie LK 是托馬斯·舒馬赫的個人計畫之一。
 

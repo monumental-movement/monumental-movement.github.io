@@ -13,9 +13,9 @@ title: Depeche 模式 – 一些很棒的獎勵
 ---
 
 
-《Some Great Reward》是 Depeche Mode 1984 年的專輯，也是他們的第四張錄音室專輯。這張專輯是樂團職業生涯中具有開創性的作品之一，展現了他們聲音的演變和成熟。
+「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。
 
-這張專輯收錄了 Depeche Mode 最著名的歌曲，包括作為單曲發行的《People Are People》和《Master and Servant》。
+アルバムには、シングルとしてリリースされた「People Are People」や「Master and Servant」などデペッシュ・モードの代表的な楽曲が収録されています。
 
 《Some Great Reward》是 Depeche Mode 職業生涯中的重要里程碑，標誌著他們音樂風格和主題的演變。它的聲音融合了後龐克、新浪潮和電子音樂的元素，以及在發行時解決社會問題的歌詞。
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/boys-town-gang-disc-charge/
 tags:
 - Disco
 - Hi NRG
-title: Boys Town Gang – Disc Charge
+title: 男孩城幫 – Disc Charge
 ---
 
 

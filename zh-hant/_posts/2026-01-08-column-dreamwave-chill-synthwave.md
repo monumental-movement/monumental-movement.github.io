@@ -53,7 +53,7 @@ color: #fff;
 
 ---
 
-## 音樂特徵：聲音與結構
+## 音樂特徵：聲音和結構
 
 Dreamwave/Chill Synthwave的音樂特徵是和聲的透明度、節奏的穩定、音色變化的緩慢。以中慢速節奏為主，節奏重複，鼓機常以內斂的方式放置。
 
@@ -61,13 +61,13 @@ Dreamwave/Chill Synthwave的音樂特徵是和聲的透明度、節奏的穩定�
 
 在音色方面，Juno 打擊墊、DX 電鋼琴、合唱處理過的低音以及使用延遲和混響的空間效果發揮著重要作用。
 
-> 這些歌曲更多的是作為維持某種情感空間的手段，而不是作為一個展開的故事。
+> 楽曲は展開する物語というより、一定の感情空間を維持する装置として機能する。
 
 ---
 
 ## 與視覺美感的關係
 
-Dreamwave / Chill Synthwave 與影像結合比音樂本身更容易被理解。黃昏的城市、霓虹燈、海岸線、夜間駕駛和類似 VHS 的紋理經常被提及。
+Dreamwave / Chill Synthwaveは、音楽単体よりも映像と結び付くことで理解が深まる。夕暮れの都市、ネオン、海岸線、夜間ドライブ、VHS的質感などが頻繁に参照される。
 
 這些視覺元素與歌曲的節奏和音調設計同步，提醒聽眾他們以前在某個地方見過的場景。圖像的作用是呈現情境而不是說故事。
 
@@ -96,7 +96,7 @@ FM-84 的作品參考了 80 年代的 AOR 和電影音樂情感，但使用現�
 
 ---
 
-## 藝術家案例研究：Timecop1983
+## アーティスト事例：Timecop1983
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDMWVOq2J6E?si=u9tK-wBO1Czas8H_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -144,3 +144,11 @@ Dreamwave / Chill Synthwave 並不是試圖重現過去的音樂風格，而是�
 
 ---
 
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AmFfo8va8eo?si=RrzmcoSZlTQmwtjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

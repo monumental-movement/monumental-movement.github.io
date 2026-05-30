@@ -21,7 +21,7 @@ title: 【專欄】Autechre：超越結構－科技之後的聲學建築
 Autechre 不僅僅是一個電子音樂二人組。
 他們的聲音既數學又原始。看起來冷酷的，給人留下了幾分人性的粗糙感。肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 這兩個在曼徹斯特北部相識的年輕人，以嘻哈音樂和工程好奇心為起點，踏上了重新定義聲音結構的道路。
 
-20 世紀 90 年代初，Autechre 是 Warp Records 的人工智慧系列中的佼佼者。他們正在尋找一種「將機械聲音轉化為情感」的方法。肖恩·布斯後來在接受採訪時說道：
+20 世纪 90 年代初，Autechre 在 Warp Records 的人工智能系列中脱颖而出。他们正在寻找一种“将机械声音转化为情感”的方法。肖恩·布斯後來在接受採訪時說道：
 
 > “Techno 對我們來說不是要消除情感，而是透過結構來表達情感。”
 
@@ -41,7 +41,7 @@ color: #fff;
 }
 </style>
 
-## 第1章：出自と初期衝動 — Rephlex前夜から〈Warp〉へ
+## 第一章：起源與最初的衝動－從Rephlex前夕到<Warp>
 
 肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 均出生於 20 世紀 70 年代。作為一個男孩，他開始使用 Amiga 電腦上的追蹤軟體（例如 OctaMED）創作自己的歌曲。
 他們的音樂根源在於公共敵人、電子放克和 B-Boy 文化。 Autechre 這個名字最初被傳言是“Audio Architecture”的縮寫。
@@ -60,7 +60,7 @@ color: #fff;
 1995 年，Autechre 迎來了一個轉捩點。
 《Tri Repetae》是第一張突破IDM框架的「結構實驗」專輯。節奏崩潰，聲層變得像鋼板一樣堅硬。他們將鼓機（Roland R8、Nord Lead）作為原材料，將錯誤和噪音融入他們的音樂語法中。
 
-The Designers Republic 的無機封面設計也與 Autechre 的聲音世界完美契合。
+The Designers Republicによる無機質なジャケットデザインも、Autechreの音世界と完全に一致していた。  
 這也是「視覺和聲音的極簡主義融合」。
 
 《Tri Repetae》的發行象徵著電子音樂的一次「感官再教育」。
@@ -74,7 +74,7 @@ The Designers Republic 的無機封面設計也與 Autechre 的聲音世界完�
 
 1997-1998年，Autechre發展到更複雜的結構。
 Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的結構就像一個聲音雕塑。
-特別值得注意的是使用 **Nord Modular 和 MPC1000** 進行的現場編程。即時改變數據的方法成為後來演算法現場音樂的原型。
+特筆すべきは、**Nord ModularやMPC1000**によるライブ・プログラミングである。リアルタイムにデータを変化させる手法は、のちのアルゴリズミック・ライブの原型となった。
 
 他們的音樂已經變成一種可以體驗的東西，而不是可以聽到的東西。
 《LP5》中的「Fold 4, Wrap 5」在抽像中充滿了微妙的抒情性。這是隱藏在冰冷背後的**情感的重新發現**。
@@ -105,9 +105,9 @@ Autechre 的現場表演完全排除了視覺呈現。
 這種完全無機的性質證明了他們的目標是「僅用聲音來統治身體」。
 
 2010年代，他們發布了**AE_LIVE系列**。我們按原樣記錄了程式即興創作的聲音，並為每個城市呈現了不同的結構。
-此外，《NTS Sessions 1-4》（2018）是長達8個多小時的傑作。這是 Autechre 建立的「聲學演算法宇宙」的一項巨大成就。
+さらに『NTS Sessions 1–4』（2018）は、8時間を超える大作。Autechreが“音響アルゴリズムの宇宙”を構築した金字塔だ。
 
-> “即興創作還在於借用程序化思維。”
+> “即興は、プログラムの思考を借りることでもある。”
 
 ---
 
@@ -125,7 +125,7 @@ Autechre 的現場表演完全排除了視覺呈現。
 
 ## 第7章：Autechre基因－那些受到影響和影響的基因
 
-Autechre 與 Aphex Twin 和 Squarepusher 一樣，其影響力已深深銘刻在 21 世紀以來的電子音樂設計理念中。
+Autechreの影響は、Aphex TwinやSquarepusherと並び、21世紀以降の電子音楽の設計思想に深く刻まれた。  
 受他們影響的藝術家包括**Alva Noto、Ryoji Ikeda 和 Oneohtrix Point Never**。
 兩人都探討了「結構與情感」與「演算法與詩」之間的界線。
 
@@ -202,7 +202,7 @@ flowchart TD
 
 ## Autechre不斷提問
 
-“什麼是音樂？結構能超越情感嗎？”
+“音楽とは何か？　構造は感情を超え得るのか？”
 尋找答案的旅程還遠遠沒有結束。
 
 
@@ -222,7 +222,7 @@ flowchart TD
 
 🔗 [[專欄]從IDM的起源到現在－智力探索與舞池之間](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[專欄]從techno的起源到現在——透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 

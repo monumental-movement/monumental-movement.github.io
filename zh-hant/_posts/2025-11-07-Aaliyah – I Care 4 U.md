@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - R&B
 - 90s
-title: 阿麗雅 – 我關心 4 U
+title: Aaliyah – I Care 4 U
 ---
 
 

@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Pops
 - 90s
-title: 迪伊爸爸 – Island Rock
+title: Papa Dee – Island Rock
 ---
 
 

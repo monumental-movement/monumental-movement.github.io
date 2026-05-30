@@ -13,7 +13,7 @@ title: Funkadelic – 站在開始的邊緣
 ---
 
 
-《Standing on the Verge of Getting It On》是美國放克樂團 Funkadelic 的專輯。這張專輯發行於1974年。 Funkadelic是喬治·克林頓領導的樂隊，他們的音樂以其迷幻的放克聲音和實驗方法而聞名。
+《Standing on the Verge of Getting It On》是美国放克乐队 Funkadelic 的一张专辑。這張專輯發行於1974年。 Funkadelic是乔治·克林顿领导的一个乐队，他们的音乐以其迷幻的放克声音和实验方法而闻名。
 
 這是 Funkadelic 的第六張錄音室專輯，具有樂團標誌性的放克聲音和深情的歌聲。這張專輯展現了 Funkadelic 獨特的聲音，包括生動的吉他連複段、美妙的低音線和厚重的鼓節奏。
 

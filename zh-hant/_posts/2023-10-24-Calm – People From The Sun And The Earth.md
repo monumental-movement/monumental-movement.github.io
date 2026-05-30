@@ -16,7 +16,7 @@ title: 冷靜－來自太陽和地球的人們
 
 Calm（深川清隆飾）被認為是放鬆巴利阿里音樂的先驅之一。 Calm 的其他活動名稱包括 FARR、Organ Language、K.F 以及與 THA BLUE HERB 的 ILL-BOSSTINO 合作的 JAPANESE SYNCHRO SYSTEM 組合。
 
-A1&B2 是 3 Generations Walking 的 MKL 與 Soy Sos 的混音。
+A1&B2は、3 Generations WalkingのMKL vs. Soy Sosによるremix。
 B2 是居住在柏林的德國 DJ 兼製作人 Dixon 的混音作品。
 #### 曲目表
 ```md

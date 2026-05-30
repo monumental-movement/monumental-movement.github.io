@@ -9,7 +9,7 @@ permalink: /zh-hant/2-the-core-the-final-destination/
 tags:
 - Euro House
 - Euro Beat
-title: 2 核心——最終目的地
+title: 2 The Core – The Final Destination
 ---
 
 

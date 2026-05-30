@@ -16,7 +16,7 @@ title: 扳手 – 幸福
 
 Wrench 於 1992 年 7 月由 Shige、Azusa Sakamoto、Tomohiro Matsuda 和 Fujimaru Nagoshi 組成，現已成為日本響亮搖滾樂壇的重要組成部分。
 
-這張專輯是2000年發行的雙LP唱片。
+このアルバムは、2000年にリリースされた2枚組LPです。
 
 #### 曲目表
 ```md

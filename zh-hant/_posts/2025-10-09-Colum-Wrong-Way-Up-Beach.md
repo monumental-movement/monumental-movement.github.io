@@ -15,7 +15,7 @@ title: 【專欄】錯誤的上路與「海灘」—烏托邦與文明彼岸的�
 ---
 
 
-## 序言：南下者－現代「天堂」幻想
+## 序章：南へ向かう者たち — 現代の“楽園”幻想
 
 文字：mmr |主題：透過布萊恩伊諾和約翰卡爾的《Wrong Way Up》和李奧納多狄卡皮歐主演的《海灘》探索烏托邦與逃離的聲音
 
@@ -44,7 +44,7 @@ color: #fff;
 ## 第一章：合作的奇蹟－伊諾和凱爾，兩個大腦的交集
 
 1970年代，Eno離開Roxy Music，成為實驗音樂領域的領導人物。
-另一方面，約翰凱爾則脫離了地下絲絨樂團的影響，在古典與前衛之間徘徊。
+一方のJohn CaleはVelvet Undergroundの影響力を離れ、クラシックとアヴァンギャルドの間を漂っていた。  
 在整個 1980 年代，兩人都感覺彼此疏遠，但最終於 1990 年在倫敦的一家工作室見面。
 
 《Wrong Way Up》是一張將 Eno 的環境聲音思維與 Cale 的建築戲劇完美結合的專輯。
@@ -74,7 +74,7 @@ color: #fff;
 > 用我的鉛筆把瞬間變成線條…”
 
 旋律就像「記憶素描」。
-這張專輯是 Eno 20 世紀 90 年代以來「環境流行音樂」的先驅，並被 Coldplay 和 Moby 的聲音所繼承。
+Enoが90年代以降展開する「環境的ポップ」の先駆として、このアルバムは後のColdplayやMobyのサウンドへと受け継がれていく。  
 「錯誤的揚升」可能是指我們走在我們認為正確的道路上。
 
 ---
@@ -87,10 +87,10 @@ color: #fff;
 
 丹尼·博伊爾2000年的電影《海灘》總結了20世紀末年輕人的「逃避現實神話」。
 狄卡皮歐飾演的理查德在曼谷一家廉價飯店獲得了一張傳說中的「隱密島嶼」地圖，並與朋友們一起前往「天堂」。
-然而，等待他們的不是幸福，而是群體的瘋狂和個體的崩潰。
+だが、その先に待っているのは幸福ではなく、共同体の狂気と個人の崩壊だった。
 
-導演博伊爾將熱帶景觀描述為「令人眼花繚亂的現實」。
-《海灘》中的音樂也令人印象深刻。 [**All Saints "Pure Shores"**](https://amzn.to/432zg8k) 通透的合唱，[**Moby "Porcelain"**](https://amzn.to/46KLDZ2) 寧靜的電子音。
+ボイル監督は、トロピカルな風景を“眩しすぎる現実”として描いた。  
+《海灘》中的音樂也令人印象深刻。 [**All Saints "Pure Shores"**](https://amzn.to/432zg8k) 通透的合唱，[**Moby "Porcelain"**](https://amzn.to/46KLDZ2) 寧靜的電子聲音。
 這些都是「電子烏托邦」的迴聲，是「錯誤之路」的延伸。
 
 ---
@@ -101,7 +101,7 @@ color: #fff;
 
 > 「天堂不是一個地方，而是一種心態。」 （摘自《海灘》）
 
-電影的最後，理查德失去了朋友，回到了現實。
+映画の終盤、リチャードは仲間を失い、現実に戻る。  
 那一刻響起的「微弱的電子音」呼應著美麗與失落的界限，就像Eno & Cale的「Wrong Ascent」一樣。
 
 ---
@@ -123,11 +123,11 @@ Eno & Cale 的音樂和 The Beach 的視覺效果有著相似的感覺。
 > 「環境音樂的理念是讓你感覺自己是一個可能不存在的風景的一部分。」— 布萊恩·伊諾
 
 《海灘》的風景也是一個不存在的天堂——螢幕上的模擬。
-在這裡，聲音和圖像完美重疊，創造出現代的「烏托邦幻象」。
+音と映像はここで完全に重なり、現代的な“ユートピアの幻影”を描き出す。
 
 ---
 
-## 第五章：後烏托邦時代的藝術－超越「逃避」的是什麼
+## 第5章：ポストユートピア時代の芸術——“逃避”の先にあるもの
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/joWQLgunhGI?si=4pvWEHOdtWuTr2Cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -187,6 +187,16 @@ flowchart TD
 ---
 
 ### 後記
-如果您想在聽完“Wrong Way Up”後觀看“The Beach”，
+『Wrong Way Up』を聴き終えたあと、あなたがもし『The Beach』を観るなら、  
 您可能會聽到海浪最後的聲音後面**旋轉**的迴響。
 那就是現代的「烏托邦之聲」。
+
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6EPdNXMx_pU?si=0uX5qfyM7L1T_7cr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

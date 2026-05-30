@@ -11,7 +11,7 @@ tags:
 - Euro House
 - Hi NRG
 - 90s
-title: E-Rotic – 幫助我迪克博士
+title: E-Rotic – Help Me Dr. Dick
 ---
 
 

@@ -17,7 +17,7 @@ Smurf & Perry 是德國 DJ Big Smurf (Frank Koopmann) 和 Fred Perry 的組合�
 
 《Lovin' You》由歌手 Concha Buika 演唱，由 Flamingo Discos 於 2001 年發行。
 
-「Smurf & Perry – Lovin' You」採樣了 Donald Byrd 於 1978 年發行的「Loving You」。
+「Smurf & Perry – Lovin' You」は、1978年リリースのDonald Byrd（ドナルド・バード）「 Loving You」をサンプリング。
 
 #### 曲目表
 ```md

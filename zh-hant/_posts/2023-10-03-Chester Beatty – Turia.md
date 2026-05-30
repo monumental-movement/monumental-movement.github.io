@@ -8,12 +8,12 @@ layout: post
 permalink: /zh-hant/chester-beatty-turia/
 tags:
 - Techno
-title: Chester Beatty – Turia
+title: 切斯特比蒂——圖裡亞
 ---
 
 
 「圖裡亞」是
-2001年にUKのレーベル「Disq」からリリースされたRobert Armani（ロバートアルマ二）のプロジェクトChester BeattyのEPです。
+這是 Robert Armani 的 Chester Beatty 計畫的一張 EP，於 2001 年在英國唱片公司 Disq 上發行。
 
 #### 曲目表
 ```md

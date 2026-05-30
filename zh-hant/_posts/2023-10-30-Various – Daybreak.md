@@ -9,7 +9,7 @@ permalink: /zh-hant/various-daybreak/
 tags:
 - Hiphop
 - Downtempo
-title: 各種 – 黎明
+title: Various – Daybreak
 ---
 
 

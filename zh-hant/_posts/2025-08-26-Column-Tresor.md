@@ -40,13 +40,13 @@ Tresor（德語中的意思是「安全」）是一家於 1991 年在德國柏�
 
 <小時>
 
-### 音樂意義：底特律和柏林之間的橋樑
+### 音楽的意義：デトロイトとベルリンの架け橋
 
 Tresor 尤其是底特律 techno 向歐洲擴張的跳板。
 
-[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
+[Juan Atkins](https://amzn.to/4pKH2gP)、[Derrick May](https://amzn.to/4mz3EhL)、[Kevin Saunderson](https://amzn.to/4nhZU5g) 是底特律的創始人，被稱為「貝爾維爾三人組」。
 
-[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
+[Jeff Mills](https://amzn.to/4mz3K97)、[Blake Baxter](https://amzn.to/4gLRznV)、[地下抵抗組織](https://amzn.to/4gIEprP) 等人活躍在柏林並在 Tresor 演出。
 結果，誕生於美國的未來主義和政治科技與歐洲俱樂部文化聯繫在一起，為「全球科技網絡」奠定了基礎。
 
 <小時>
@@ -55,7 +55,7 @@ Tresor 尤其是底特律 techno 向歐洲擴張的跳板。
 
 Tresor Records 成立於 1991 年，是一個附屬俱樂部，是一個重要的科技唱片公司。
 
-[Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
+[Jeff Mills – 波形傳輸系列](https://amzn.to/4mJeXE1)
 
 [羅伯特胡德 – 內部帝國](https://amzn.to/42hCSmK)
 
@@ -90,7 +90,7 @@ Tresor是「都市廢墟再利用文化」的象徵。它成為了整個柏林�
 
 巨大的無機工業空間更符合科技世界觀。
 
-現在も世界中のDJが出演し、「巡礼地」としての役割を果たし続けている。
+如今，來自世界各地的 DJ 在這裡表演，並且它仍然是一個朝聖地。
 
 <小時>
 
@@ -118,11 +118,11 @@ Tresor是「都市廢墟再利用文化」的象徵。它成為了整個柏林�
 
 - 連結底特律和柏林的國際網絡
 
-- 「科技=城市未來形象」的文化價值
+- 「テクノ＝都市の未来像」という文化的価値観
 
 - 標籤中的歷史傑作
 
-- 廃墟を再利用する「場所性」の美学
+- 廢墟再利用的「地方」美學
 
 - 柏林被稱為「世界科技之都」的基礎
 
@@ -130,7 +130,7 @@ Tresor是「都市廢墟再利用文化」的象徵。它成為了整個柏林�
 
 ### 體驗Tresor必聽唱片（10張推薦）
 
-- [Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
+- [Jeff Mills – 波形傳輸第 1 卷（1992 年，Tresor）](https://amzn.to/4nKBG3w)
 
 - [羅伯特胡德 – 內部帝國 (1994, Tresor)](https://amzn.to/4pF5ArL)
 
@@ -144,7 +144,7 @@ Tresor是「都市廢墟再利用文化」的象徵。它成為了整個柏林�
 
 - [外科醫師 – Tresor.117：力量 + 形式 (1999)](https://monumental-movement.jp/Surgeon-Force+Form-Tresor-117)
 
-- [喬伊貝爾特拉姆 – Close Grind (2001)](https://www.discogs.com/master/61198-JB³-Close-Grind)
+- [Joey Beltram – Close Grind (2001)](https://www.discogs.com/master/61198-JB³-Close-Grind)
 
 - [Pacou – 符號語言（1998，Tresor）](https://amzn.to/3W9EeMD)
 
@@ -155,7 +155,7 @@ Tresor是「都市廢墟再利用文化」的象徵。它成為了整個柏林�
 ### 將 techno 音樂從“一時時尚”提升為“普世文化”
 
 Tresor 不僅僅是一個俱樂部或唱片公司，它還是一個“文化十字路口”，連接著柏林的歷史、冷戰後的城市空間和底特律黑人音樂的未來。
-從這個金庫釋放的聲音仍然在世界各地的俱樂部文化中迴響，將電子音樂從「短暫的時尚」提升為「普遍文化」。
+從這個金庫釋放的聲音仍然在世界各地的俱樂部文化中迴響，將電子音樂從「暫時的時尚」提升為「普遍文化」。
 
 ---
 
@@ -170,7 +170,7 @@ Tresor 不僅僅是一個俱樂部或唱片公司，它還是一個“文化十�
 
 ### 相關專欄
 
-🔗 [[專欄]從techno的起源到現在——透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
 

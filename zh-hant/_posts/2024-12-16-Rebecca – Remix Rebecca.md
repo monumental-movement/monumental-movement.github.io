@@ -10,7 +10,7 @@ tags:
 - JPop
 - Pops
 - 80s
-title: Rebecca – Remix Rebecca
+title: 麗貝卡 – 混音麗貝卡
 ---
 
 

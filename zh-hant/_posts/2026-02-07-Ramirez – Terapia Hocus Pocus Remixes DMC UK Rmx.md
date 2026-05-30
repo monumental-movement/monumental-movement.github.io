@@ -20,7 +20,7 @@ Ramirez是義大利DFC廠牌於90年代初創立的電子舞曲專案。 DFC 的
 
 「Terapia」是 DFC 廠牌於 1993 年發行的 Trance/Hardcore/Techno 曲目。
 
-A1&AA1は、Ferry RidderhofとPeter GarnefskiによるオランダのプロダクションデュオHocus Pocusのremix。
+A1 & AA1 是由 Ferry Ridderhof 和 Peter Garnefski 創作的荷蘭製作組合 Hocus Pocus 的混音版。
 
 AA2 是英國 DJ/唱片製作人 John Digweed 的混音版，他同時也是 Bedrock 和 Sasha & John Digweed。
 

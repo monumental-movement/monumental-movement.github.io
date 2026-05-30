@@ -12,7 +12,7 @@ title: Alfred Azzetto – 顏色（第一部分）
 ---
 
 
-Alfred Azzetto 是一位 house 音樂製作人和 DJ。他也以《DB Boulevard》的製作人而聞名，其 2002 年發行的《Point of View》風靡全球。
+Alfred Azzettoは、ハウスミュージックプロデューサー・DJ。2002年リリースの「Point of View」が世界的ヒットとなったDB Boulevardのプロデューサーとしても有名。
 
 「Alfred Azzetto – Colors (Part One)」取樣了 Wilbert Longmire 於 1978 年發行的「Black Is the Color」。它於 2007 年由瑞士車庫廠牌 Purple Music 發行。
 

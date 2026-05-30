@@ -13,7 +13,7 @@ title: 初級高級 - 嘿嘿我的喲喲
 ---
 
 
-這張專輯是丹麥音樂組合Junior Senior的歌曲。這首歌收錄在他們2002年發行的首張專輯《D-D-Don't Stop the Beat》中。
+這張專輯是丹麥音樂組合 Junior Senior 的歌曲。這首歌收錄在他們2002年發行的首張專輯《D-D-Don't Stop the Beat》中。
 
 《Hey Hey My My Yo Yo》是一首快節奏、朗朗上口的流行歌曲，有著歡快的旋律、適合跳舞的節奏和俏皮的歌詞。 Junior Senior 的音樂以其流行音樂而聞名，融合了流行舞曲和迪斯科元素。
 

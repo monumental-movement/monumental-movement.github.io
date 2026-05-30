@@ -22,7 +22,7 @@ title: 盜賊元素－呼吸
 
 Rogue Element 是屢獲殊榮的製作人/DJ Ben Medcalf 的專案。自 2013 年以來，隨著 James Tomlinson 的加入，The Rogue Element 一直作為一個團體活躍起來。
 
-《Breathe》是 Breaks 的一首歌曲，由倫敦唱片公司 Exceptional 於 2007 年發行。
+「Breathe」は、ロンドンのレーベルExceptionalから2007年にリリースされたBreaksトラック。
 
 B 是 Simon Shackleton 的混音作品，Simon Shackleton 也被稱為 DJ Elite Force，他是多流派電子音樂製作人，被稱為 Tech-Funk 的先驅。
 

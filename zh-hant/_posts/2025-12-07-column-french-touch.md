@@ -11,12 +11,12 @@ tags:
 - Nu Disco
 - House
 - French
-title: 【コラム】 French Touch / Nu Disco：2000年代以降のフレンチハウス再評価とアナログ美学の逆襲
+title: 【專欄】French Touch / Nu Disco：2000年代以來法式house的重新審視與模擬美學的逆襲
 ---
 
 
 
-## 1. 序章：なぜ今「French Touch」が再評価されるのか
+## 1. 簡介：為什麼現在要重新評估「法式風格」？
 
 文：mmr｜主題：2000年代法式house的重估如何與Nu Disco連結－
 關於模擬合成器、唱片文化與濾鏡室技術
@@ -50,7 +50,7 @@ color: #fff;
 ## 2、法式風情的建立：1990年代末期巴黎的情況
 ### ● 背景：浩室與迪斯可的邂逅
 1990 年代中期，巴黎俱樂部場景吸收了美國 house 音樂，同時形成了獨特的結構，使迪斯科/靈魂樂樣本脫穎而出。
-雖然受到芝加哥 House 的強烈影響，House 開始作為一種新型的「流行音樂」發揮作用，因為它混合了歐洲特有的「複雜的旋律感覺」。
+雖然芝加哥浩室音樂的影響力很大，但浩室音樂開始透過融入歐洲特有的「複雜的旋律感」而成為一種新型的「流行音樂」。
 
 ### ● 標籤/底座的存在
 - **Roulé（托馬斯·班高特）**
@@ -61,8 +61,8 @@ color: #fff;
 
 ---
 
-## 3. Daft Punk：サウンドの美学とアナログ哲学
-Daft Punk の初期作品（特に「Homework」「Discovery」）は、French Touch における“アナログとデジタルの境界"を象徴している。
+## 3. Daft Punk：聲音美學與類比哲學
+Daft Punk 的早期作品（特別是《Homework》和《Discovery》）象徵著 French Touch 中的「模擬與數字之間的界限」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FGBhQbmPwH8?si=f_ankujC_6cg3Lks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,8 +84,8 @@ Daft Punk 積極地將黑膠噪音和紋理作為他們音樂的一部分，讓�
 
 ### ●③ 膠帶/壓縮紋理
 當時，舷外壓縮機（尤其是 Alesis 3630）經常用於工作室環境。
-このコンプレッサーは音質が“粗い”が、  
-逆に **French Touch のパンチのあるキック＋潰れたループ** を作る決定的な要素となった。
+此壓縮機的音質“粗糙”，但是
+相反，它成為創造**French Touch的強力踢腿+破碎弧線**的決定性因素。
 
 ---
 
@@ -116,24 +116,24 @@ A. Music Sounds Better With You
 ---
 
 ## 5. Cassius：巴黎的自由與藝術
-**Philippe Zdar 和 Boom Bass 的 Cassius 《1999》** 進一步擴大了 French Touch 的受歡迎程度。
+フィリップ・ズダルとブーム・バスによる **Cassius「1999」** は French Touch の大衆性をさらに拡大した。
 
-- 大量使用放克/靈魂採樣
-- 與巴黎街頭文化藝術場景緊密相連
-- 高混合密度，重心始終讓它跳舞
+- ファンク／ソウルサンプリングを多用  
+- パリのストリート文化やアートシーンと深く接続  
+- ミックスの密度が高く、常に“踊らせる”重心
 
-Cassius 不像 Daft Punk 那樣專注於合成器，而是更「基於採樣」。
-他們專門提出了直接連接到地板的房屋凹槽。
+Daft Punk のようにシンセ中心ではなく、Cassius はより“サンプリング主体”で、  
+**フロア直結のハウスグルーヴを具体的に提示**した存在だった。
 
 ---
 
-## 6. 2000年代：French house的傳承與Nu Disco的萌芽
+## 6. 2000年代：フレンチハウスの遺産と Nu Disco の発芽
 ### ◆ 模擬回歸與迪斯可重新評估
 2000年代，法式風情暫時衰退。
 但同時，**模擬合成器、70-80 年代迪斯科、AOR、Italo 迪斯科**正在重新評估，
 由此，一種名為**Nu Disco**的新趨勢誕生了。
 
-Nu Disco の特徴：
+Nu迪斯可的特色：
 - 慢速 (105–120 BPM)
 - 厚重而悠揚的合成器
 - 欣賞 20 世紀 80 年代電子放克音樂
@@ -180,15 +180,15 @@ Nu Disco の特徴：
 
 ## 8. 類比合成器與「唱片文化」詳解
 
-### ◆ ① アナログシンセが好まれた理由
+### ◆ ① 類比合成器受到青睞的原因
 - 濾波模組是物理電路→聲音波動是自然的
 - 飽和度豐富
 - 高頻成分呈圓形，與迪斯可聲音完美融合
 
-French Touch 的濾波器掃描依賴模擬諧波變化。
+French Touch のフィルタースウィープは、アナログ特有の倍音変化に依存していた。
 
-### ◆ ② 唱片文化：以取樣為基礎的音樂製作
-法式風格的大部分都是從黑膠唱片樣本開始的。
+### ◆ ② レコード文化：サンプリング前提の音楽制作
+French Touch の多くは Vinyl サンプルから始まる。  
 這就是「發現音樂的樂趣」**。
 這是俱樂部文化和唱片文化直接相連的時代氛圍。
 挖掘記錄本身就是創作的大門。
@@ -200,16 +200,16 @@ French Touch 的濾波器掃描依賴模擬諧波變化。
 
 這種「模糊性」對於法式風格來說非常重要。
 
-### ◆ ③ テープ／アナログアウトボード
-- テープの軽い歪み  
+### ◆ ③ 磁帶/類比舷外機
+- 磁帶輕微變形
 - 由於壓縮機壓壞了環路
 - MPC/SP-1200粗取樣率
 
-これらが Nu Disco の質感にも脈々と受け継がれている。
+這些品質已經傳承到 Nu Disco 的質感中。
 
 ---
 
-## 9. 法式風格 → Nu Disco 家譜
+## 9. French Touch → Nu Disco 系統図
 
 <div class="mermaid">
 flowchart TD
@@ -228,7 +228,7 @@ flowchart TD
 
 ---
 
-## 10. 年表：從 French Touch 到 Nu Disco 的主要趨勢
+## 10. 年表：French Touch〜Nu Disco の主要動向
 
 <div class="mermaid">
 flowchart TD
@@ -246,15 +246,15 @@ flowchart TD
 
 ---
 
-## 11. 分析2000年代的“重新評估觸發點”
-### ● 1) 分銷文化飽和
-數位發行越成為主流，人們對「音樂作為一種物質」的渴望就越強烈。
-隨著唱片的復興，法式風格的「觸感」呈現出附加價值。
+## 11. 2000年代の“再評価のきっかけ”を分析する
+### ● 1) 配信文化の飽和
+デジタル配信が主流化するほど、“物質としての音楽”への渇望が高まった。  
+レコードの復権と共に、French Touch の“手触り”が価値を帯びた。
 
 ### ● 2）對當代流行音樂的影響
 The Weeknd 和 Dua Lipa 等主要藝術家
 透過融入**迪斯可~80年代復興**，
-法國浩室音樂重新受到關注。
+フレンチハウス的サウンドの再注目が起こる。
 
 ### ● 3) 若年層の“再ディギング”
 在 YouTube、SoundCloud 和 TikTok 上
@@ -265,7 +265,7 @@ The Weeknd 和 Dua Lipa 等主要藝術家
 ## 12. French Touch 技術是如何傳承到 Nu Disco 的
 
 ### ◆ 過濾室的傳承
-Nu Disco 不像 French House 那樣進行“極端過濾”，但是
+Nu Disco はフレンチハウスほど“極端なフィルタリング”をしないが、  
 搭建方法是一樣的。
 
 - 用低通濾波器關閉
@@ -287,10 +287,18 @@ Nu Disco 不只是採樣。
 它仍然深深紮根於當今的舞曲音樂中。
 
 Nu Disco 的興起、流行音樂的回歸以及模擬媒體文化的回歸。
-這些都是法式風格的遺產。
-事實上，人們認為這種重新評估未來將會進一步加速。
+これらはすべて French Touch がもたらした遺産であり、  
+その再評価はむしろ今後さらに加速すると考えられる。
 
 > ** French Touch 是在數位時代重新定義「模擬魔法」的音樂。 **
 > **Nu Disco 是其繼承者，在 21 世紀保持這種精神的更新。 **
+
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwfJJ89yzHg?si=xG-1l1xp00YdeBNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -11,7 +11,7 @@ tags:
 - Hardcore
 - Hardcore Hiphop
 - 00s
-title: VA – 瘋狂麥斯
+title: VA – Mad Maxx
 ---
 
 

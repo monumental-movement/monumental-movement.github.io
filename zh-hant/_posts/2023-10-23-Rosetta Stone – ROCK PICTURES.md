@@ -9,7 +9,7 @@ permalink: /zh-hant/rosetta-stone-rock-pictures/
 tags:
 - Rock
 - Hard Rock
-title: 羅塞塔石碑 – 岩石圖片
+title: Rosetta Stone – ROCK PICTURES
 ---
 
 

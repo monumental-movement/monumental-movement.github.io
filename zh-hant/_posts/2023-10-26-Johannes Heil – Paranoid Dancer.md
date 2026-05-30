@@ -9,7 +9,7 @@ permalink: /zh-hant/johannes-heil-paranoid-dancer/
 tags:
 - Techno
 - Minimal Electro
-title: Johannes Heil – 偏執舞者
+title: Johannes Heil – Paranoid Dancer
 ---
 
 
@@ -22,7 +22,7 @@ a. Paranoid Dancer (Re-Mastered Original)
 b. Paranoid Dancer (DJ Hell Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m54249919762?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54249919762?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XYfTsWn34dc?si=-S-5fhxtivHGLnpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

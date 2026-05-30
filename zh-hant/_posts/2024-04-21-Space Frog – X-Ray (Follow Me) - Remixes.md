@@ -20,7 +20,7 @@ Cet Merlin（也稱為 Space Frog）的 trance 曲目，是來自德國柏林的
 
 Side A 是由因「Ecuador」而聞名的 Sash! 的混音版。
 
-B 面是 DJ Errik (Erich Schmeier) 和 Jürgen Driessen 的專案 Two Punky People 的混音版。
+B面はDJ Errik（Erich Schmeier）とJürgen DriessenのプロジェクトTwo Phunky Peopleによるremix。
 
 #### 曲目表
 ```md

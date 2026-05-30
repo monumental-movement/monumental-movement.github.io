@@ -18,7 +18,7 @@ Imre Bugyik & Viktor Kámán，也稱為 Budai & Vic，於 2000 年開始製作�
 
 《Luv U》由 Deep House 於 2006 年在 I Love Deep Records 發行。
 
-A 是德國 DJ/製作人 Terry Lee Brown Jr.（Norman Feller）的混音版。
+A 是德國 DJ/製作人 Terry Lee Brown Jr.（諾曼費勒）的混音版。
 
 B2 是匈牙利 DJ/製作人 Andro (Gábor Baki) 的混音版。
 

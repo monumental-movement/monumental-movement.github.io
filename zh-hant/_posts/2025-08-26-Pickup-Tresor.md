@@ -26,7 +26,7 @@ title: 拾取 Tresor 作品
 概述：Tresor 於 2004 年發行了 Joey Beltram 的作品。在 MMR 上有 CD 格式。
 
 
-亮點：收錄了資深techno製作人Joey Beltram的多首代表歌曲。透過與 Tresor 的合作，您可以享受他更深層的聲音世界。
+魅力ポイント：ベテラン・テクノプロデューサーJoey Beltramの代表曲が多数収録。Tresorとのコラボレーションを通して彼の深化したサウンド世界が楽しめます。
 
 #### 曲目表
 ```md
@@ -151,7 +151,7 @@ B2. Game Form (Mike Dearborn Remix)
 簡介：Tresor於1992年發行的早期合輯作品，是A面到D面多位藝人歌曲的濃縮內容。
 
 
-亮點：如標題所示，《Klang Der Familie》（家庭之聲）是一部真實再現柏林科技文化形成時期的歷史傑作。特別推薦給模擬愛好者。
+亮点：正如标题所示，《Klang Der Familie》（家庭之声）是一部真实再现柏林科技文化形成时期的历史杰作。特別推薦給模擬愛好者。
 
 #### 曲目表
 ```md
@@ -178,9 +178,9 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 <br>
 
 ### DJ 洗牌大師 – EXP
-<a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.web"></a>
+<a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.webp"></a>
 
-簡介： 日本硬科技DJ/製作人DJ Shufflemaster（金森龍也）於2001年發行的全長專輯。被譽為Tresor發行的傑作。
+簡介： 日本硬科技DJ/製作人DJ Shufflemaster（金森龍也）於2001年發行的全長專輯。被誉为Tresor发行的杰作。
 
 
 魅力：深沉、硬朗的Techno聲音和細緻的作曲很有吸引力。他在國際上獲得了很高的讚譽，是一位有價值的日本藝術家，透過與 Tresor 的關係而傳播到世界各地。

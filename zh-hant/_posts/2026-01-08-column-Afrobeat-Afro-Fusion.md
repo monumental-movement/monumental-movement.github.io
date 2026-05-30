@@ -135,7 +135,7 @@ F["ヒップホップ・R&B"] --> D
 
 ### 僑民和全球化
 
-非洲僑民的存在在非洲融合的形成中發揮了重要作用。在倫敦、紐約、多倫多等城市，非洲移民接觸了當地的音樂文化，創造了新的融合形式。
+アフリカ系ディアスポラの存在は、Afro-Fusionの形成に重要な役割を果たした。ロンドン、ニューヨーク、トロントなどの都市では、アフリカ系移民が現地音楽文化と接触し、新たな融合形態を生み出した。
 
 ---
 
@@ -168,3 +168,11 @@ Afrobeat 和 Afro-Fusion 是在不同的歷史背景和生產環境下形成的�
 
 ---
 
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FkyF3NbhnwE?si=sLGBbMj4FqcGAtBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

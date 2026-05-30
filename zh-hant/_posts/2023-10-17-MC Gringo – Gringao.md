@@ -13,14 +13,14 @@ title: MC 外國佬 – 外國佬
 ---
 
 
-MC Gringo 是一位出生於德國的音樂家和音樂製作人。
+MC Gringoは、ドイツ生まれのミュージシャン兼音楽プロデューサー。
 《Gringão》於 2007 年由德國廠牌 Man Recordings 發行。
 
 製片人
 曲目 A1~A3,B1,B3: DJ Amazing Clay
 曲目 B4：DJ 桑德林奧
 曲目 A1-A4：MC Gringo
-トラックA4, B2：Rafael DJ
+曲目 A4、B2：拉斐爾 DJ
 
 MC
 トラックA2：MC Binho

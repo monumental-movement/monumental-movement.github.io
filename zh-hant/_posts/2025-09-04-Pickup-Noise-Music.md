@@ -19,8 +19,8 @@ title: 拾取噪音音樂作品
 ### Merzbow – Merzbird
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-- **背景**：日本ノイズの最重要人物Merzbow。 2004年在Important Records發行，這是鳥名歌曲排列時期的專輯之一。
-- **聴きどころ**：高密度の帯域が入れ替わる“音の洪水”。ノイズの「彫刻性」を体感できる決定打。
+- **背景**：日本ノイズの最重要人物Merzbow。2004年、Important Recordsからの作品で、鳥類タイトルの曲群が並ぶ時期の一枚。  
+- **亮點**：高密度頻段改變的「聲音洪流」。決定性的一擊，讓您體驗噪音的「雕塑本質」。
 
 #### 曲目表
 ```md
@@ -46,7 +46,7 @@ title: 拾取噪音音樂作品
 ### Zeni Geva – 對痛苦的渴望
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
-- **背景**：1987 年在東京成立。以 KK.Null 和 Tatsuya Yoshida 为代表，他们跨越前卫摇滚/HC/金属/噪音摇滚。 1993年在芝加哥錄製。
+- **背景**：1987 年在東京成立。以 KK.Null 和 Tatsuya Yoshida 為代表，他們跨越前衛搖滾/HC/金屬/噪音搖滾。 1993年在芝加哥錄製。
 - **亮點**：侵略性的聲像範圍從大膽的連複段到即興爆炸。噪音與搖滾交會的代表。
 
 #### 曲目表
@@ -108,7 +108,7 @@ B4. The Body = ザ ボディー
 
 
 - **背景**：Masaya Nakahara 的发型设计。 7 吋型號於 1999 年發布，至今仍引領實驗和噪音環境。
-- **聴きどころ**：短尺の中に切断・編集感覚と過剰ノイズの瞬間最大風速が封入。入門にもコレクションにも◎。
+- **亮點**：短版包含剪輯的感覺和噪音過大的瞬間最大風速。非常適合初學者和收藏。
 
 #### 曲目表
 ```md
@@ -118,14 +118,14 @@ B. Best Of Hair-Style In My Life
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
 
 <br>
 
 
 
 
-### SebastiAn – Smoking Kills
+### 塞巴斯蒂安——抽菸致命
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
 - **背景**：Ed Banger 周圍的法國電子旗手。一首為未來電子音樂注入「尖叫噪音」的單曲。
@@ -141,7 +141,7 @@ B2  Shoot
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -151,7 +151,7 @@ B2  Shoot
 
 
 
-### 醉意 – 月球上的裸體 / 太空高爾夫
+### Tipsy – Nude On The Moon / Space Golf
 <a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20%20GolfGolf.Space>
 
 - **背景**：舊金山休息室拼貼二人組。抽象/旅行跳躍/實驗/噪音元素的混合。
@@ -212,8 +212,8 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 - **如果你想從皇家咆哮進入** *Merzbird*/Naked Rally's。
 - 如果您想體驗俱樂部環境中的噪音質感，請嘗試「吸煙殺人」。
-- **對於拼貼方法**髮型/Tipsy/WXBD。
-- 如果您是**白手起家的人**，請在嘗試之前查看 Eurorack 專欄以了解有關設備的資訊。
+- **コラージュ的アプローチ**なら Hair Stylistics／Tipsy／WXBD。  
+- **自作派**は Eurorackコラムで機材の当たりをつけてから試聴へ。  
 
 ---
 

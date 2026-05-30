@@ -12,7 +12,7 @@ tags:
 - Ballad
 - Bossa Nova
 - Jpop
-title: Sotte Bosse – 時刻
+title: Sotte Bosse – moment
 ---
 
 

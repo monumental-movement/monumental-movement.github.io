@@ -17,7 +17,7 @@ title: 神童——土地肥沃
 Prodigy(プロディジー)は、1990年にプロデューサーLiam Howlettによって結成されたイギリスのエレクトロニック・パンクロックバンド。
 
 このアルバムは、1997年にレーベルXL RecordingsからリリースされたProdigyの3枚目のスタジオアルバム。このアルバムは世界的な大ヒットとなり、Prodigyの代表作となった。
-1999年，它作為英國最暢銷的舞蹈專輯被列入金氏世界紀錄。
+1999年には、UKで最も売れたダンスアルバムとしてギネス世界記録に登録された。
 
 
 #### 曲目表
@@ -34,7 +34,7 @@ Prodigy(プロディジー)は、1990年にプロデューサーLiam Howlettに�
 10. Fuel My Fire
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -64,7 +64,7 @@ title: 【專欄】龐克與硬核的定義：憤怒與表達的轉捩點
 
 - 尖叫和喊叫的聲音
 
-**代表樂團**：Black Flag、Minor Threat、Bad Brains、Dead Kennedys（全部美國）
+**代表的なバンド**：Black Flag、Minor Threat、Bad Brains、Dead Kennedys（すべてUS）
 
 ▍思想與價值觀
 

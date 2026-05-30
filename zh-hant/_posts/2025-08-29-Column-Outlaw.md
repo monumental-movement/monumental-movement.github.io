@@ -22,7 +22,7 @@ title: 【專欄】各代音樂文化與「亡命之徒」的互動史
 
 文：mmr｜主題：連結次文化研究與領域溫度的長讀專欄
 
-「音樂來自社會邊緣。」這句話雖然老了，卻沒有抓到重點。來自邊緣的緊迫感、反規範性和集體熱情常常被視為“亡命之徒”，並以聲音、空間的使用、時尚和身體技術的形式具體化。在本文中，我們按年齡追溯了 20 世紀 50 年代以來的主要流派/場景，並透過社會學和文化研究的視角（赫伯迪奇、科恩、博德里厄、貝克爾等）審視「音樂與亡命之徒」的交集。
+「音樂來自社會邊緣。」這句話雖然老了，但卻沒有抓到重點。來自邊緣的緊迫感、反規範性和集體熱情常常被視為“亡命之徒”，並以聲音、空間的使用、時尚和身體技術的形式具體化。在本文中，我們按年齡追溯了 20 世紀 50 年代以來的主要流派/場景，並透過社會學和文化研究的視角（赫伯迪奇、科恩、博德里厄、貝克爾等）審視「音樂與亡命之徒」的交集。
 
 <小時>
 
@@ -115,7 +115,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ---
 
-メタルは“悪魔化”のイメージを纏いPMRCなどの自主規制論争を喚起。サブジャンルによっては暴力事件や差別的言説をめぐる社会的対立も生む。
+金屬被賦予了「妖魔化」的形象，並引起了對PMRC等自律監管的爭議。根據不同的次類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -128,7 +128,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ### 1990 年代：Rave/Acid House、Grunge、Gangsta Rap - 合法與非法之間的界線談判
 
-Rave/acid house 因倉庫和戶外非法派對以及毒品問題與當局發生爭執。手機和網路公告板的出現加速了「移動黨」的發展。
+Rave/acid house 因倉庫和戶外非法派對以及毒品問題與當局發生爭執。手机和互联网公告牌的出现加速了“移动党”的发展。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=hCI-xBjaToWttwBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -165,17 +165,17 @@ EMO/Screamo 和 Nu Metal 的自我揭露和憤怒表達與家庭和學校規範�
 
 <小時>
 
-### 2010 年代：Trap、Soundcloud Rap、Leftfield Club：脆弱的經濟與自我品牌
+### 2010s：トラップ、サウンドクラウドラップ、レフトフィールド・クラブ――脆弱な経済と自己ブランディング
 
-トラップは経済的周縁の現実（薬物経済・監視社会）と結びつく表象を、808の重低音と反復で美学化。
+Trap 透過深沉的低音和 808 的重複，將與經濟外圍現實（毒品經濟、監視社會）相關的表現美學化。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He7kMCAdi1c?si=xm_InrhaTIwanafp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-サウンドクラウドラップは薬物依存や精神的脆弱さをも美学化し、自己破壊衝動とポップ感覚が同居。
+SoundCloud 饒舌將毒癮和精神脆弱美化，並將自我毀滅的衝動與流行情感結合在一起。
 
-レフトフィールド／クィア・クラブは安全な夜の居場所を再構築し、差別への対抗としての“ルール”を内部に設ける（ハラスメントゼロ、撮影禁止など）。
+Leftfield/酷兒俱樂部正在重建安全的夜間空間並建立內部「規則」來反歧視（禁止騷擾、禁止拍照等）。
 
 **機制**：SNS讓聲譽資本可見。獲得知名度會引發對「非法符號」的濫用，而社區規範則自發性地得到強化。
 
@@ -197,7 +197,7 @@ EMO/Screamo 和 Nu Metal 的自我揭露和憤怒表達與家庭和學校規範�
 
 **英國/歐洲**：集體性質與階級、移民和足球文化交織在一起。銳舞文化往往與城市規劃和私人土地制度衝突。
 
-**日本**：從搖滾/龐克的早期接受，到硬核的「地下盒子」和俱樂部的黎明，與行政法規的衝突（深夜商業/娛樂相關）是司空見慣的。声音的输入和本地化以及场馆的自我管理都得到了发展。
+**日本**：從搖滾/龐克的早期接受，到硬核的「地下盒子」和俱樂部的黎明，與行政法規的衝突（深夜商業/娛樂相關）是司空見慣的。聲音的輸入和本地化以及場館的自我管理都得到了發展。
 
 
 <小時>
@@ -214,9 +214,9 @@ EMO/Screamo 和 Nu Metal 的自我揭露和憤怒表達與家庭和學校規範�
 
 **敘事的激進化**：歌詞的寫實主義/誇張被媒體誤解為犯罪警告。
 
-**媒體裝置**：報導創造了「流行魔鬼」（柯恩的道德恐慌）。
+**媒體裝置**：報導創造了「大眾魔鬼」（柯恩的道德恐慌）。
 
-**與制度的反思**：打擊→地下化→加強團結→商業復甦→再次偏離的循環。
+**制度との反射**：取り締まり→地下化→結束強化→商業回収→再び逸脱、の循環。
 
 
 <小時>
@@ -234,7 +234,7 @@ EMO/Screamo 和 Nu Metal 的自我揭露和憤怒表達與家庭和學校規範�
 
 ### 參考
 
-- [**迪克·赫伯迪奇**“次文化：風格的意義”](https://amzn.to/4o0Se7W)
+- [**ディック・ヘブディッジ**「サブカルチャー：スタイルの意味」](https://amzn.to/4o0Se7W)
 
 - [**史丹利‧科恩**《民間魔鬼與道德恐慌》](https://amzn.to/43hNrGM)
 

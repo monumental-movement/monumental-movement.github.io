@@ -10,7 +10,7 @@ tags:
 - Minimal
 - Ambient
 - Field Recording
-title: 【專欄】安迪高茲沃西與音樂－圍繞著時間與大自然的藝術共鳴
+title: 【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
 ---
 
 
@@ -43,7 +43,7 @@ color: #fff;
 |--------------------|----------------|----------------|
 | **時間** |作品以冰、樹葉、樹枝等融化或枯萎等變化為前提 |使用相移和循環的音樂時間感（例如 Steve Reich）|
 | **位置** |作品與其創作的自然環境密不可分|透過現場錄音捕捉「當地聲音」的音樂 |
-| **轉瞬即逝** |因風雨日曬而倒塌的作品|消失的混響和持續聲音的淡出|
+| **轉瞬即逝** |因風雨日曬而倒塌的作品|消失的混響和持續聲音的淡出 |
 | **循環** |強調季節和自然現象的循環|透過無人機和重複結構來感知時間的循環 |
 | **沉默** |空間與間隔的重要性|約翰凱吉與環境作品中「沉默」的存在 |
 
@@ -61,30 +61,30 @@ color: #fff;
 
 ### 作者：高茲沃西
 
-- [「與大自然的合作」(1990)](https://amzn.to/48qQfVp)
+- [『A Collaboration with Nature』 (1990)](https://amzn.to/48qQfVp)
 - [「手到地球」（1990）]（https://amzn.to/46r497l）
 - [「石頭」（1994）]（https://amzn.to/4n83E9l）
 - [「時間」（2000）]（https://amzn.to/3VYNbs4）
-- [「木頭」（1996）]（https://amzn.to/4pwJ04e）
+- [『Wood』 (1996)](https://amzn.to/4pwJ04e)
 - [「牆」(2000)](https://amzn.to/4mmHTBm)
-- [「拱門」(1999)](https://amzn.to/4nmEsvO)
+- [『Arch』 (1999)](https://amzn.to/4nmEsvO)
 - [「安迪‧戈茲沃西：計畫」(2004)](https://amzn.to/3IjjtLo)
 
 ---
 
-### 與 Goldsworthy 作品相符的音樂播放清單（按流派）
+### Goldsworthy作品に合う音楽プレイリスト（ジャンル別）
 
 #### 周圍的
 
 - Brian Eno ― *Ambient 1: Music for Airports*
-- Harold Budd ― *The Pearl*
-- Stars of the Lid ― *And Their Refinement of the Decline*
+- 哈羅德·巴德 - *珍珠*
+- 蓋子之星 - *以及他們對衰落的改進*
 
 #### 現場錄音
 
 - 克里斯·沃森 ― *天氣預報*
 - Jana Winderen ― *能量場*
-- 希爾德加德韋斯特坎普 - *進入迷宮*
+- Hildegard Westerkamp ― *Into the Labyrinth*
 
 #### 最小的
 
@@ -112,7 +112,7 @@ color: #fff;
 
 - 哈羅德·巴德和布萊恩·伊諾 - *珍珠*
 - Hildegard Westerkamp - *Kits Beach Soundwalk*
-- 蓋子之星 - *垂死母親的安魂曲*
+- Stars of the Lid ― *Requiem for Dying Mothers*
 
 #### 夜
 
@@ -120,7 +120,7 @@ color: #fff;
 - 艾利安拉迪格 - *死亡三部曲*
 - 生物圈 - *基質*
 
-### 季節の流れ
+### 季節的流動
 
 - 春天：坂本龍一 - *非同步*
 - 夏天：克里斯·沃森 ― *天氣預報*

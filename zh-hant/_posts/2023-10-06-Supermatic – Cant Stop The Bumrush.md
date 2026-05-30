@@ -9,12 +9,12 @@ permalink: /zh-hant/supermatic-cant-stop-the-bumrush/
 tags:
 - Techno
 - Break Beat
-title: Supermatic – 無法阻止 Bumrush
+title: Supermatic – Can't Stop The Bumrush
 ---
 
 
-“無法阻止Bumrush”是
-這是 Otto van den Toorn 的 Supermatic 計畫的一張 EP，於 1992 年由 Sonic Records 廠牌發行。
+「Can't Stop The Bumrush」は、
+1992年にレーベル「Sonic Records」からリリースされたOtto van den ToornによるプロジェクトSupermaticのEPです。
 
 #### 曲目表
 ```md

@@ -42,7 +42,7 @@ color: #fff;
 
 
 ## 1. 實驗嘻哈/抽象嘻哈的定義
-這裡的定義是基於一般批評和音樂研究論文中使用的定義。
+ここでは一般的な批評・音楽研究論文で扱われる定義に基づく。
 
 ### ●實驗嘻哈
 - 一種故意偏離嘻哈語法（節奏結構、取樣、說唱格式）並將其與**電子音樂、噪音、自由爵士樂和環境音樂**等周圍流派融合的趨勢。
@@ -69,7 +69,7 @@ color: #fff;
 - 1997年的《Funcrusher Plus》是抽象嘻哈的代表作。
 - 平衡產業結構和實驗生產的重要性。
 
-### ●反流行聯盟 (1997–)
+### ● Anti-Pop Consortium（1997–）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYeC-s8sZLc?si=HnjDLiLC91E61Clq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -94,7 +94,7 @@ color: #fff;
 
 ## 3. 2000年代：洛杉磯beat場景的興起與「實驗」的重新定義
 
-### ●低端理論（2006-2018）
+### ● Low End Theory（2006–2018）
 - 一項著名的活動始於洛杉磯林肯高地的「The Airliner」俱樂部。
 - 在 Daddy Kev、Gaslamp Killer 等人的帶領下，它成為了洛杉磯垮掉音樂界的始祖。
 - 飛蓮花的代表作《按摩情境》（2007）象徵著場景的拓展。
@@ -106,7 +106,7 @@ color: #fff;
 ---
 
 - 實驗嘻哈界最重要的人物之一。
-- 自 2006 年起屬於 Warp Records。
+- 2006年からWarp Records所属。  
 - 《Los Angeles》（2008）和《Cosmogramma》（2010）橫跨爵士樂/電子音樂/嘻哈音樂。
 - 它的特點是“脈動的非線性節奏”和複雜的取樣結構。
 
@@ -142,9 +142,9 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 - 2006年《甜甜圈》中發現的「人性化搖擺」和「醉節奏」對後世產生了決定性的影響。
 - 這種不完全遵循網格、故意留下偏差和乾擾的風格已經滲透到了洛杉磯的beat現場和飛蓮花的作品中。
 
-### ●《Drunk Beat》的架構
-- 大鼓和小鼓的順序有幾毫秒的偏差。
-- 低音線也落後節奏半步，隨著體溫產生波動。
+### ● “Drunk Beat”の構造
+- キックとスネアがシーケンスから数ミリ秒ずれる。  
+- ベースラインもリズムから半歩遅れることで、体温を持った揺らぎを生む。  
 - Samiyam、Knxwledge、Mndsgn 等人繼承了這個思想。
 
 ### ● 與電子音樂的交叉
@@ -160,7 +160,7 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 - 重點是“切割文化”，其中涉及將模擬樣本切割成小塊並重建它們。
 - 代表性的例子包括 Madlib 和 J Dilla。
 
-### ● 2000 年代末期：DAW 加速推出
+### ● 2000年代後半：DAW導入の加速  
 - 隨著 Ableton Live 和 Reason 的流行，**更複雜的層配置**成為可能。
 - Flying Lotus 使用數位和類比的組合來創建多層次的音景。
 
@@ -203,16 +203,16 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 
 ---
 
-- “Art Rap”の代表格。  
+- 「藝術說唱」代表人物。
 - 主題是城市生活，融合了幽默和社會觀察。
 
 
 ---
 
-## 8. 2020年代：実験性の一般化
+## 8. 2020年代：實驗的推廣
 2020年代，串流文化將「實驗」從特定場景中解放出來，世界各地的年輕藝術家開始自由地重建結構。
 
-### ● 特徴  
+### ● 特點
 - 業務擴展到全球（日本、韓國、東歐、中美洲和南美洲）。
 - 節拍更加簡約和環境化。
 - 噪音成分和現場錄音的引入變得普遍。
@@ -271,7 +271,7 @@ flowchart TD
 
 實驗/抽象嘻哈不僅僅是嘻哈的衍生流派，而是一個解構節奏結構、敘事、樣本文化和電子音樂方法的智力項目，並延續至今。
 
-Flying Lotus 的多層次電子音樂、Shabazz Palaces 開創的抽象說唱詩、J Dilla 的非線性搖擺、Clipping 的噪音實驗。
-他們繼續充當“嘻哈音樂未來的實驗室”。
+Flying Lotus が示した多層的電子音楽、Shabazz Palaces が切り拓いた抽象詩のラップ、J Dilla による非直線スイング、Clipping. のノイズ実験…。
+それらは“ヒップホップの未来のための実験室”として現在も機能し続けている。
 
 ---

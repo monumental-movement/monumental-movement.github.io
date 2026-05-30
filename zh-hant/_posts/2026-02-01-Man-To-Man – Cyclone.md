@@ -16,7 +16,7 @@ title: 人對人——旋風
 
 Man-To-Man 是 Pierre Jerksten 的別名，他是一位享譽全球的瑞典 DJ 和製作人 Hertz。
 
-「Cyclone」是 Pierre J 的 Techno/Tech House 廠牌 Q-Records 於 2002 年發行的一首 Techno 曲目。
+《Cyclone》是 Pierre J 的 Techno/Tech House 廠牌 Q-Records 於 2002 年發行的一首 Techno 曲目。
 
 #### 曲目表
 ```md

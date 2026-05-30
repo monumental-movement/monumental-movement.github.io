@@ -17,7 +17,7 @@ MK (Marc Kinchen) 是一位來自底特律的音樂製作人/DJ/混音師。 《
 
 Side A 的第一首曲目是由來自荷蘭的舞曲製作人/DJ 團隊 Klubbheads 重新混音的。
 
-B 面的第一首歌是居住在德國的伊朗 DJ/製作人 Sharam Jey 的混音版。
+B面1曲目は、ドイツ在住のイラン人DJ/プロデューサーSharam Jeyによるremix。
 
 #### 曲目表
 ```md

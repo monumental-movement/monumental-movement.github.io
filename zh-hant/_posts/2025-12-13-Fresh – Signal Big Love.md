@@ -9,7 +9,7 @@ permalink: /zh-hant/fresh-signal-big-love/
 tags:
 - Drum n Bass
 - 00s
-title: 新鮮－訊號/大愛
+title: Fresh – Signal / Big Love
 ---
 
 

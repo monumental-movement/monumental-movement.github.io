@@ -11,7 +11,7 @@ tags:
 - Ballad
 - Pops
 - 80s
-title: 艾拉·費茲傑拉——我掌握了節奏
+title: Ella Fitzgerald – I Got The Rhythm
 ---
 
 

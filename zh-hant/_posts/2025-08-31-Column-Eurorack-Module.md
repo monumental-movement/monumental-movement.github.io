@@ -15,11 +15,11 @@ title: 【專欄】Eurorack模組化合成器的變化及其對樂壇的影響
 ---
 
 
-## “具有無限聲音的樂高積木”
+## 「無限に広がる音のレゴブロック」
 
 文：mmr｜主題：Eurorack 模組化合成器的變化及其對樂壇的影響
 
-Eurorack 模組化合成器是由德國工程師 Dieter Doepfer 在 20 世紀 90 年代初發明的。以他的A-100系統為起點，透過標準化模組尺寸和供電標準，一個允許不同製造商的模組自由組合的系統誕生了。
+Eurorack 模組化合成器是由德國工程師 Dieter Doepfer 在 20 世紀 90 年代初發明的。從他的A-100系統開始，透過標準化模組尺寸和供電標準，一個可以讓不同廠商的模組自由組合的系統誕生了。
 
 Eurorack 比傳統的 Moog 和 Bucla 更小、更實惠，獲得了許多音樂家和愛好者的支持，現已發展成為一個擁有全球 300 多家製造商參與的大型生態系統。
 
@@ -39,7 +39,7 @@ Eurorack 比傳統的 Moog 和 Bucla 更小、更實惠，獲得了許多音樂�
 
 ---
 
-#### 英特爾利耶爾
+#### Intellijel（インテリジェル）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -159,5 +159,13 @@ Coldplay 和 Nine Inch Nails 等樂團也接受了 Eurorack，為他們的歌曲
 ### 從小盒子到無限聲音
 
 Eurorack 模組化合成器以其靈活性和可擴展性為藝術家提供了新的創作自由。隨著它的不斷發展，它在音樂界的作用將變得更加重要。
+
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c9Pa-ulcuUk?si=-5dRVWiCEPxc60Oz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

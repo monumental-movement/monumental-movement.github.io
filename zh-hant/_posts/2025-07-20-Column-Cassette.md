@@ -54,7 +54,7 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 - 普通（I 型）膠帶的標準化
 
-- ポータブルデッキの普及で「ウォークマン」文化の胎動
+- 手提式錄音機的普及催生了「Walkman」文化
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -62,20 +62,20 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 #### 1980年代：高位（Type II）與金屬（Type IV）的出現
 
-- 改良磁帶材料旨在提高音質
+- 音質改善を目指したテープ素材の改良
 
 - 改善高音特性並擴大動態範圍
 
-- 高階音響設備的採用增加
+- 高級オーディオ機器での採用増加
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <小時>
 
-#### 20 世紀 90 年代：由於 CD 的普及而衰落
+#### 1990年代：CDの普及により衰退
 
-然而，它繼續被一些發燒友、DIY錄音文化、嘻哈和獨立場景所深入使用。
+しかし一部のオーディオマニアやDIY録音文化、ヒップホップやインディーズシーンでは根強く使用され続けた。
 
 
 <小時>
@@ -163,7 +163,7 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 **普通型**：訊號雜訊比約50-55dB
 
-**鍍鉻型**：約 60dB
+**クロムタイプ**：約60dB程度
 
 **金屬類型**：性能接近約 70dB
 

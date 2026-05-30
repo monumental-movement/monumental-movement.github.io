@@ -13,7 +13,7 @@ title: Stompy – 星光 G-Netic – 新奧德賽
 ---
 
 
-Side A 是英國快樂硬蕊藝術家 DJ Stompy 的歌曲。 《星光》是DJ Stompy的代表作之一。
+Side A 是英国快乐硬核艺术家 DJ Stompy 的一首歌曲。 《星光》是DJ Stompy的代表作之一。
 
 Side AA 是 G-Netic 和 Vinylgroover & Trixxy (Scott Attril & Jim Sullivan) 創作的曲目。人聲採樣了 Run-DMC 的 Jam Master Jay。
 

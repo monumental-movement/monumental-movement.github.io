@@ -21,7 +21,7 @@ title: 【專欄】南非Amapiano－來自南非的新舞曲文化
 
 近年來，起源於南非的舞曲**Amapiano**不僅在日本，而且在非洲、歐洲、北美和亞洲的俱樂部場景中受到關注。
 
-Amapiano is a grassroots music that was born out of the youth culture of townships (low-income urban areas) and nurtured within local communities.自 2020 年代以來，流媒體和 SNS 的傳播將曾經的「地下音樂」轉變為一場全球運動。
+阿皮亞諾是一種草根音樂，誕生於鄉鎮（低收入城市地區）的青年文化，並在當地社區中培養。自 2020 年代以來，串流媒體和 SNS 的傳播將曾經的「地下音樂」轉變為全球運動。
 
 ---
 
@@ -58,10 +58,10 @@ Amapiano 的聲音由以下元素組成：
 * **原木鼓**：混合低音和木質打擊樂的獨特聲音。
 * **鋼琴/鍵盤**：流派名稱“Amapiano”在祖魯語中的意思是“鋼琴”
 * **不引人注目的鼓和振動器**：利用停頓和空白的節奏結構
-* **節奏**：慢節奏，約 110–120 BPM
+* **テンポ**：110–120 BPM 程度のスローグルーヴ
 * **聲樂**：唱歌、饒舌、合唱等多種風格。
 
-這些元素結合在一起發展出了表達鄉鎮俱樂部和街道青年文化的音樂。
+これらの要素が重なり合い、タウンシップのクラブやストリートでの若者文化を表現する音楽として発展しました。
 
 ---
 
@@ -161,7 +161,7 @@ graph LR
 ### COVID-19 和線上傳播
 
 * 由於封鎖，俱樂部於 2020 年關閉
-* 藝術家在線上分發混音（例如 Balcony Mix）以提高全國範圍內的知名度。
+* アーティストはオンラインでミックス配信（例：Balcony Mix）を行い、全国規模で認知拡大
 * 美國職業 DJz 等年輕 DJ 也加入了這一趨勢。
 
 ### 代表專輯
@@ -177,7 +177,7 @@ graph LR
 
 ### 聲音多樣化
 
-* 爵士樂、靈魂樂和 R&B 的跨界繼續
+* ジャズやソウル、R&Bとのクロスオーバーが進む
 * 隨著女歌手和新一代藝術家的出現，包容性得到改善
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f_xp7FUmFKw?si=0D4cB57t3DwI35Gi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -314,7 +314,7 @@ timeline
 ## 結
 
 阿皮亞諾 (Amapiano) 是南非的標誌性音樂流派，已從鄉鎮地下文化擴展到世界各地的俱樂部音樂節。
-其核心是“原木鼓×鋼琴×打擊樂×青年文化表達”，始終保持著堅定不移的原點，但在多元化和國際化中不斷發展。
+其核心是「木鼓×鋼琴×打擊樂×青年文化表達」的原點不可動搖，但在多元化和國際化中不斷演變。
 
 ---
 

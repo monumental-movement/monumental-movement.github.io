@@ -14,7 +14,7 @@ title: 塵土飛揚的孩子－超越那座山
 
 Dusty Kid 是義大利電子音樂製作人兼 DJ Paolo Alberto Lodde 的別名。
 
-《Beyond That Hill》是 Dusty Kid 於 2009 年發行的專輯。脈動的低音線、大氣的質感和複雜的旋律結合了 techno、house 和前衛的品味，創造了 Dusty Kid 獨特的世界觀。
+「Beyond That Hill」は、Dusty Kidが2009年にリリースしたアルバムです。パルシングするベースライン、大気的なテクスチャ、複雑なメロディなど、テクノ、ハウス、プログレッシブなどのあらゆるテイストが融合し、ダスティ・キッド独特の世界観を作り出しています。
 
 #### 曲目表
 ```md

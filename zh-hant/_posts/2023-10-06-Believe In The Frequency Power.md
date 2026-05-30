@@ -9,7 +9,7 @@ permalink: /zh-hant/believe-in-the-frequency-power/
 tags:
 - Techno
 - Acid
-title: 相信頻率的力量
+title: Believe In The Frequency Power
 ---
 
 

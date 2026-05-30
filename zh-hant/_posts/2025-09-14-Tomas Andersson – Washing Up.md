@@ -17,9 +17,9 @@ Tomas Andersson 是一位來自瑞典的電子/科技/合成波製作人。他�
 
 《Washing Up》是一首由英國大型節奏、音樂和浩室音樂廠牌 Skint 於 2008 年發行的電子歌曲。
 
-A1は、北アイルランドのベルファスト出身のDJ／プロデューサーTim Deluxeによるremix。
+A1 是來自北愛爾蘭貝爾法斯特的 DJ/製作人 Tim Deluxe 的混音版。
 
-B1は、モントリオールを拠点とするカナダのプロデューサー/DJ Tigaによるremix。
+B1 是由蒙特婁的加拿大製作人/DJ Tiga 製作的混音版。
 
 B2 是 David Parr 和 James Day 的混音版。
 

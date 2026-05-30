@@ -10,12 +10,12 @@ tags:
 - Techno
 - Minimal
 - Electro
-title: Adultnapper－貝蒂妙廚搬到柏林
+title: Adultnapper – Betty Crocker Moves To Berlin
 ---
 
 
 “貝蒂妙廚搬到柏林”
-2007年にUKのレーベル「Superfreq Records」からリリースされたFrancis HarrisによるプロジェクトAdultnapperのEPです。
+這是由 Francis Harris 策劃的 Adultnapper 的一張 EP，由英國唱片公司 Superfreq Records 於 2007 年發行。
 
 
 #### 曲目表

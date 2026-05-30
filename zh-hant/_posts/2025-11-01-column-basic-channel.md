@@ -58,13 +58,13 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 - **莫里茲·馮·奧斯瓦爾德**：前打擊樂手。 1980年代，他活躍於流行樂團Palais Schaumburg。他很早就開始探索非洲音樂和配音。
 - **Mark Ernestus**：唱片行「Hard Wax」的創辦人。他在底特律 techno 的傳播和接受過程中發揮了極其重要的作用。
 
-這種**跨越商業和創意之間界限的視角**也導致了該品牌後來的哲學。
+この**商業と創作の境界を横断する視点**が、後のレーベル哲学にもつながる。  
 1993年，他們以「Basic Channel」的名義發布了幾款12吋的影片。夾克上幾乎沒有寫任何訊息，只有一個無機浮雕標誌。
 這也是首次嘗試「匿名」。
 
 ---
 
-## 第2章：節奏空洞－「Phylyps Trak」的影響
+## 第2章 節奏空洞－「Phylyps Trak」的影響
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JU4dXv5ohbc?si=t394Uurx52afS_tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -78,9 +78,9 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 - 創作音樂的是“衰變”，而不是旋律。
 
 音樂評論家西蒙雷諾茲後來說：
-> “他們的音樂將 techno 從‘建築’轉變為‘天氣現象’。”
+> “彼らの音楽は、テクノを『建築物』から『気象現象』に変えた。”  
 
-這只是**聲音氣候變化**。
+それはまさに**音の気候変動**だった。
 
 ---
 
@@ -104,7 +104,7 @@ King Tubby 和 Lee “Scratch” Perry 的混響雕塑已透過數位流程重�
 鍊式反應特點：
 - 夾克上沒有藝術家姓名，只有目錄號。
 - 一種統一感，就好像所有聲源共享“同一空間”
-- 不是大規模生產，而是**基於聲音鏈的意識形態網絡**
+- 量産ではなく、**音の連鎖による思想的ネットワーク**
 
 結果，Basic Channel 更像是一個**聲音哲學的平台**，而不是一個「標籤」。
 
@@ -122,19 +122,19 @@ King Tubby 和 Lee “Scratch” Perry 的混響雕塑已透過數位流程重�
 諸如“King In My Empire”和“See Mi Yah”之類的歌曲的結構聽起來更像是在揚聲器“內部”播放，而不是在俱樂部中播放。
 我在數位配音的寒冷中恢復了人類的顫抖。
 
-他們繼續拒絕採訪並保持隱形狀態。
+彼らは相変わらず取材を受けず、姿を見せない。  
 但聲音會說話。
-這是一種「匿名的靈性」和超越技術極簡主義的**後人類祈禱**。
+それは「匿名の霊性」であり、テクノのミニマリズムを越えた**ポスト・ヒューマンな祈り**だった。
 
 ---
 
-## 第 6 章：音響系統哲學與 Berghain 及其他
+## 第6章：サウンドシステム思想とBerghain以降
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/691Bw3f2NNg?si=AmVEYFoIGmCr0syV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Basic Channel 的理念深植於當代柏林俱樂部文化，包括 Berghain/Panorama Bar。
+Basic Channelの思想は、Berghain/Panorama Barを含む現代ベルリンのクラブ文化に深く根付いている。  
 其基礎是「聲學社群」的概念，即聆聽者透過巨大的音響系統共享一個空間的信念。
 
 他們參與設計的 **Dubplates & Mastering** 的母帶處理理念也強調「深度」而不是聲壓。
@@ -142,16 +142,16 @@ Basic Channel 的理念深植於當代柏林俱樂部文化，包括 Berghain/Pa
 
 ---
 
-## 第7章：影響與擴散－Dub Techno的現狀
+## 第七章：影響與擴散－Dub Techno的現狀
 
 如今，Basic Channel的影響力隨處可見。
 
 |藝術家 |特色|傳承|
 |:--|:--|:--|
 | **深和弦/迴聲空間** |底特律的太空技術|有機擴張延遲|
-| **通量** |來自希臘的最小配音|建築感覺直接源自連鎖反應|
-| **天然氣（沃夫岡·沃伊特）** |氛圍+古典的融合|用混響比喻“森林” |
-| **亞格亞** |冰島淨度|節奏透氣|
+| **Fluxion** | ギリシャ出身のミニマル・ダブ | Chain Reaction直系の構築感 |
+| **天然氣（沃夫岡·沃伊特）** |氛圍+古典的融合|用混響比喻“森林”|
+| **亞格亞** |冰島淨度|節奏透氣 |
 | **cv313** |面向模擬的聲壓結構|基礎頻道的精神傳承 |
 
 這種趨勢在即使在數位環境下仍然追求「深度」的藝術家中很常見。
@@ -193,7 +193,7 @@ graph TD
 | **1999** |創辦 Rhythm & Sound，開始與牙買加歌手合作 |
 | **2003** | “藝術家的節奏與聲音”發佈|
 | **2010** |莫里茲·馮·奧斯瓦爾德三重奏組開始（與馬克斯·洛德鮑爾和托尼·艾倫） |
-| **2020年代** |重評風潮，Dub Techno復興，以Bandcamp為主蔓延|
+| **2020年代** |重新評價風潮，Dub Techno復興，以Bandcamp為主蔓延|
 
 ---
 
@@ -209,7 +209,7 @@ graph TD
 ---
 
 Basic Channel 的聲音是永恆的，並且仍然保持「現在式」。
-原因是他們不僅創造了電子音樂，也重建了聆聽的行為。
+その理由は、彼らが単にテクノを作ったのではなく、**「聴くという行為」そのものを再構築した**からだ。
 
 迴聲永遠不會結束。
 這是一種揮之不去的時間氣息，也是一條引領聽者通往太空以外的隧道。

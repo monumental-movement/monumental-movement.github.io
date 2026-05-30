@@ -15,7 +15,7 @@ title: 中子湯姆 – 時髦的狗屎
 ---
 
 
-Neutron Tom 是英國硬舞製作人、混音師兼 DJ Thomas Ingamells 的別名。他更广为人知的名字是英戈。
+Neutron Tom 是英國硬舞製作人、混音師兼 DJ Thomas Ingamells 的別名。他更廣為人知的名字是英戈。
 
 《Funky Shit》是 Ingo 自己的英國硬室廠牌 Vacuum Recordings 於 2002 年發行的硬室曲目。
 

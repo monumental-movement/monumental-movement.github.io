@@ -19,7 +19,7 @@ Side A 的第二首歌是澳洲電子流行樂團 Van She 的混音版。
 
 B 面的第一首歌是 Matt Waites 的混音版，又名 Nightmoves。
 
-B 面第二首曲目是英國獨立搖滾/合成流行二人組 To My Boy 的混音版。
+B面２曲目英国のインディーロック・シンセポップデュオTo My Boy によるremix。
 
 #### 曲目表
 ```md
@@ -32,7 +32,7 @@ B1. Gravity's Rainbow (Nightmoves Remix)
 B2. Gravity's Rainbow (To My Boy Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qDrctb2BzLg?si=5lsSD78Blix0WIcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /zh-hant/band-aid-do-they-know-its-christmas/
 tags:
 - Rock
 - Pops
-title: 創可貼－他們知道今天是聖誕節嗎
+title: Band Aid – Do They Know It's Christmas
 ---
 
 
@@ -19,7 +19,7 @@ Band Aid 是一個慈善計畫組織，由 Bob Geldof 和 Midge Ure 於 1984 年
 
 ・菲爾柯林斯（創世紀）
 
-・ブームタウン・ラッツ
+・新興都市老鼠
 
 ・斯潘道芭蕾舞團
 
@@ -31,7 +31,7 @@ Band Aid 是一個慈善計畫組織，由 Bob Geldof 和 Midge Ure 於 1984 年
 
 ・天堂17
 
-・マリリン
+・瑪麗蓮
 
 ・巴納納拉瑪
 
@@ -57,7 +57,7 @@ Band Aid 是一個慈善計畫組織，由 Bob Geldof 和 Midge Ure 於 1984 年
 
 保羅麥卡尼
 
-・ビッグ・カントリー
+・大國
 
 ・特雷弗·霍恩
 

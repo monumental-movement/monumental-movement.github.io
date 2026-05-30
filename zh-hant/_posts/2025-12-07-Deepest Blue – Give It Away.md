@@ -11,11 +11,11 @@ tags:
 - Trance
 - Vocal
 - 00s
-title: 最深的藍色 – 贈送它
+title: Deepest Blue – Give It Away
 ---
 
 
-Deepest Blue 是 Ministry Of Sound 的電子/浩室項目，由 Joel Edwards 和 Matt Schwartz 創作。
+Deepest Blueは、Joel EdwardsとMatt SchwartzによるMinistry Of Soundのエレクトロ/ハウスプロジェクト。
 
 《Give It Away》是 Deepest Blue 的招牌歌曲，作為他們 2004 年首張專輯《Late September》中的第二首單曲發行。
 

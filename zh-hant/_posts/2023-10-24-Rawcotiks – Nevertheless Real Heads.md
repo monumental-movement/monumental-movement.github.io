@@ -15,7 +15,7 @@ title: Rawcotiks – 然而真正的頭腦
 
 《Rawcotiks – Yet Real Heads》於 1997 年由 Opposition Records 發行。
 
-Rawcotiks 是多明尼加嘻哈音樂家 Jeff Valentino 和 Bladmillo Castillo 的樂隊，總部位於紐約華盛頓高地。
+Rawcotiksは、NYワシントン ハイツを拠点に活動していたドミニカ共和国のヒップホップ ミュージシャン、 Jeff Valentino（ジェフ ヴァレンティノ）と Bladmillo Castillo （ブラドミロ カスティージョ）のユニット。
 
 #### 曲目表
 ```md
@@ -32,7 +32,7 @@ B2. Real Heads (Street Version)
 B3. Real Heads (Instrumental Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m53262349767?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53262349767?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OOI-CkIg1ag?si=YwydBM4ogPLLLy6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

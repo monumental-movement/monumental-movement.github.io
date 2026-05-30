@@ -18,7 +18,7 @@ Quadrophonia 是荷蘭 DJ Lucien Foort 和比利時 DJ Olivier Abbeloos 的一�
 
 《The Wave Of The Future》是一首 1991 年發行的碎拍硬蕊科技歌曲。
 
-A 面的第二首曲目是 Mark Ryder (DJ Ryder) 的混音版。
+A面2曲目はMark Ryder(DJ Ryder)によるremix。
 
 奧利維爾·阿貝盧斯 (Olivier Abbeloos) 1969 年 1 月 18 日出生於比利時阿爾斯特。
 

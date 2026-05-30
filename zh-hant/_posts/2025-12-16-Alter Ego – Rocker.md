@@ -10,7 +10,7 @@ tags:
 - Electro
 - House
 - 00s
-title: 另一個自我 – 搖滾歌手
+title: Alter Ego – Rocker
 ---
 
 

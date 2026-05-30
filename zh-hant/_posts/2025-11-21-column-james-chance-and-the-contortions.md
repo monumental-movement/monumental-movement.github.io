@@ -20,7 +20,7 @@ title: '[專欄] James Chance 和 Contortions：No Wave 先驅者及其音樂分
 
 文字：mmr｜主題：James Chance 的一生，Contortions 的活動，以及每張專輯和歌曲的音樂結構、節拍分析和表演風格。
 
-1970年代末，紐約市中心形成了一個獨特的音樂空間，龐克的衝動和前衛爵士樂的即興精神在這裡交會。從本質上來說，**James Chance and the Contortions** 將前衛音樂和舞曲龐克的融合推向了極致。
+1970年代後半、ニューヨークのダウンタウンはパンクの衝動と前衛的ジャズの即興精神が交錯する特異な音楽空間を形成していた。その中心で、**James Chance and the Contortions** は前衛音楽とダンス・パンクの融合を極限まで推し進めた。  
 
 ---
 
@@ -46,9 +46,9 @@ color: #fff;
 
 ---
 
-## 2.扭曲的形成與無波的核心
+## 2. Contortions 結成とノー・ウェイヴの中心
 
-1977 年，Contortions 圍繞著 James Chance 成立。成員有：
+1977 年，Contortions 圍繞著 James Chance 成立。成員是：
 
 - **喬迪·哈里斯**（吉他）
 - **Pat Place**（滑音吉他）
@@ -94,7 +94,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 ---
 
-## 4. 詹姆斯懷特與黑人 名稱：Off White (1979)
+## 4. 詹姆斯懷特與黑人 姓名：Off White (1979)
 
 **Off White**，以 Contortions 名義發布，將迪斯科元素與無波浪的即興本質結合在一起。
 
@@ -120,13 +120,13 @@ D --> G["挑発的リズム + ダンス性"]
 
 ### 1980 年巴黎 – 現場 aux Bains Douches
 
-- 主要是薩克斯風即興樂句
-- 鼓使用大量不規則的軍鼓重音來營造聽覺張力。
+- サックスの即興フレーズが中心  
+- ドラムは不規則なスネアアクセントを多用し、聴覚的緊張を演出  
 - 吉他扮演的是噪音角色，而不是連複段，並且扮演聲音品質的角色。
 
 ### 住在紐約 (1981)
 
-- ダンス・パンク的要素を強調  
+- 強調舞蹈/龐克元素
 - 薩克斯風連續的聲音和低音線的重複引起了觀眾的身體反應。
 - 鼓包括奇數拍表達
 
@@ -155,10 +155,10 @@ B --> F["Don Christensen → 離脱"]
 
 ## 7. 中斷/重聚與遲到的作品
 
-- 1980年代初頭、活動休止  
+- 1980年代初暫停
 - 2001年與原成員重聚
 - 2016年，發行單曲《Melt Yourself Down》
-- 2019年期末演出
+- 最終公演は2019年
 
 ---
 
@@ -214,5 +214,14 @@ timeline
 
 James Chance and the Contortions 是一支將前衛音樂與表演融合到極致的樂團。他們的專輯和現場表演的節奏、即興創作和肢體表達成為後來舞龐克和後龐克的基礎。儘管他們的音樂是短暫的，但它仍然被視為創新的象徵。
 
+
+---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xWnvGANCdS4?si=XUnzHHScph1-r4vW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
