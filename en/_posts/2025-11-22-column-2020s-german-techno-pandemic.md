@@ -27,7 +27,7 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 Text: mmr | Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained
 
 
-2020年代のジャーマン・テクノは、**COVID-19パンデミック（2020–2022）** を中心に劇的な地殻変動を経験した。  
+German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.
 Clubs were completely shut down by the government, and the entire scene was fundamentally shaken, including tourism, economy, culture, music production, and social values.
 
 Germany is one of the countries in the world where the "institutionalization of club culture" is the most advanced, and clubs are treated politically as cultural facilities and are even on the agenda of urban policy.
@@ -310,5 +310,14 @@ The pandemic has brought destruction, but it has also caused a "redefinition of 
 German techno in the late 2020s has become a more diverse, international, and faster-paced culture than before.
 
 This change will likely be recorded as the "2020s = era of discontinuity" in the future history of electronic music.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5-Kjfib8DA?si=uK6WVU1NleLcYyY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

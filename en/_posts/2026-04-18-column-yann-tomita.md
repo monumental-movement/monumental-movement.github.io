@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Model diagram of music structure
+## Model diagram of musical structure
 
 ### Cycle of sampling and sound generation
 

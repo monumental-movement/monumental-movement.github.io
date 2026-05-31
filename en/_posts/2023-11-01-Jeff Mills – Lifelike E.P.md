@@ -23,7 +23,7 @@ This EP is a very strong opener with its disturbing musical themes, and "Time Af
 
 "Black Avenger" draws listeners in with its percussive frenzy and hard keys.
 
-A must-have for any Jeff Mills fan, this is a special record that covers many of the wide-ranging themes of Jeff Mills' work, while still expressing the unique and powerful results of each individual song.
+A must-have for any Jeff Mills fan, this is a special record that covers many of the wide-ranging themes of Jeff Mills' work, while still expressing the unique and powerful results of each song.
 
 #### Tracklist
 ```md

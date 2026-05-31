@@ -114,7 +114,7 @@ The production costs for this album were said to be significantly higher than th
 
 Curt Smith gradually loses his voice during the production process, and eventually becomes emotionally distant. His departure was not sudden, but the result of a long process.
 
-> Expanding artistic ambitions led to the collapse of the band's internal structure.
+> 芸術的野心の拡大が、バンドの内部構造を崩壊へと導いた。
 
 ---
 
@@ -190,7 +190,7 @@ flowchart LR
 
 Tears for Fears is an example of an answer to the question, ""To what extent can you express your emotions?'' in pop music. Their music is not just a collection of hit songs, but has functioned as an attempt to connect the inner world of the individual with the social structure.
 
-The series of successes, conflicts, breakups, and reunions gives their music a narrative quality that can be taken as a work in itself.
+The series of successes, conflicts, breakups, and reunions gives their music a narrative quality that can be perceived as a work in itself.
 
 > The essence of this duo is that music that began as an inner cry has over time transformed into a universal human experience.
 

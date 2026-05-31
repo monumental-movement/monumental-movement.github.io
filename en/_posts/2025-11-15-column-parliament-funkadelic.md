@@ -128,7 +128,7 @@ What makes P-Funk unique is not just the strength of its groove, but its "struct
 The drumming of Jerome "Bigfoot" Braley and others has the following characteristics.
 
 * Minimal bass drum
-* Snare is deep and back
+* The snare is deep and close to the back.
 *Hi-hat has a bit of shuffle
 
 As a result, the beat feels like it's moving forward while floating.

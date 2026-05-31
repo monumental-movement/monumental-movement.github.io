@@ -88,7 +88,7 @@ Representative song:
 - "Atlas"
 - "Something"
 - "Arigato"
-- "Tokyo"
+-"Tokyo"
 -"Peoples"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
@@ -197,9 +197,9 @@ This ensures **acoustic thickness** even during live performances, creating a th
 ---
 
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
-## 7-1. Structuring the setlist
+## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
-- Opener (world view presentation)
+- Opener (worldview presentation)
 - Midfield build-up
 - floor peak
 - Deep downtempo part
@@ -288,7 +288,7 @@ It is also important because it shows how artists should be in the 21st century 
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performances"
+# 12. Conclusion: 21st century "bands that evolve through live performance"
 
 Sound Tribe Sector 9 is
 **An attempt to transfer the structure of electronic music to live performance while maintaining the band format**
@@ -301,5 +301,13 @@ their steps are
 ** "How close can a live band get to electronic music?"
 "To what extent can electronic music capture the dynamism of live music?"**
 It is an ongoing experiment in answering this question, and can be said to be one of the symbols of 21st century musical culture itself.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NWVkzhV4Z0o?si=M5OXYkP5I0C_7KXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

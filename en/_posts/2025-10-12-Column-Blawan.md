@@ -21,7 +21,7 @@ Text: mmr｜Theme: About Blawan's cold yet somehow human beat that continues to 
 
 Once upon a time, the industrial areas of northern England were filled with the smell of steam and metal.
 Jamie Roberts, or Blawan, may have grown up unconsciously inhaling its reverberations.
-The bloodline of electronic music flowing from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
+The bloodline of electronic music that flowed from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 It has echoed the rhythm of labor and the breathing of the city at the same time.
 
 Blawan's beat has the sound of hammering iron and the pressure of humid air.
@@ -108,7 +108,7 @@ As the title suggests, **Wet, Dry. **
 What we see there is an incomplete cycle of human emotions.
 
 "Careless" "North" "Stell"――
-Every song hides a slight warmth beneath its coldness.
+Each song hides a slight warmth beneath its coldness.
 Amidst the expressionless, metallic sound, there are occasional pauses that look like breathing.
 Human emotions permeate through that small gap.
 
@@ -151,7 +151,7 @@ It is also a form of resistance for the club to continue to be a ""place'' once 
 
 ## Chapter 7 SickElixir — The rhythm of the collapse and rebirth of the steel city
 
-Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare work that dismantles the structure of techno but still makes you feel the presence of "humanity'.
+Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare piece of work that dismantles the structure of techno, yet still makes you feel the presence of "humanity'.
 Amid swirling noise and distortion, the rhythm maintains its balance on the verge of collapse, and the voice loses its meaning and transforms into an instrument.
 The light shining in with "Rabbit Hole" and the torrent of deep bass with "NOS".
 With each moment, Blawan's sound straddles the line between coldness and passion.

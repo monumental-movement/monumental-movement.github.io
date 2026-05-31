@@ -46,16 +46,16 @@ Tresor, E-Werk, and later the global icon Berghain.
 Berlin's techno was both an admiration for Detroit and an urban renewal project. The rigid rhythms of Jeff Mills and Underground Resistance became a voice for freedom in a city still under the shadow of socialism.
 
 > "In this town, sound is politics."
-> — Dimitri Hegemann（Tresor創設者）
+> — Dimitri Hegemann (Founder of Tresor)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/axasaC0nINg?si=eCU6mC5s-6Q2JojJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-2. ミニマルの誕生と「構築の美学」
+### 1-2. The birth of minimalism and the "aesthetics of construction"
 
 Basic Channel, Chain Reaction, Raster-Noton.
-音を削り、構築し、空間を支配する。「何もない」ことの豊かさを見つめるベルリン・ミニマルは、建築やデザインの思想とも響き合った。  
+Shape the sound, build it, and dominate the space. Berlin minimalism, which looks at the richness of "nothing," resonates with the ideas of architecture and design.
 Acoustics will not be the walls, but the **air structure**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC21EzpdnFQ?si=NoFYMbnwAXwUHE68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

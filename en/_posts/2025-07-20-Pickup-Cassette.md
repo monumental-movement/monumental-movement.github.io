@@ -376,7 +376,7 @@ Guest– George Clinton
 <tr>
 <th>Artist</th>
 <th>Title</th>
-<th>age</th>
+<th>era</th>
 <th>Genre</th>
 <th>Comments</th>
 </tr>

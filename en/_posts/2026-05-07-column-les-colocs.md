@@ -383,7 +383,7 @@ Les Colocs is
 I didn't hide this problem.
 
 Rather,
-Death and illness were viewed as communal problems.
+Death and illness were viewed as communal issues.
 
 ### "Dehors Novembre"
 
@@ -724,7 +724,7 @@ It was sounded as a celebration, not a sermon.
 That is the reason why it is still listened to today.
 
 The music of Les Colocs includes
-There is a sense of ""we will survive together''.
+There is a sense of ""we will survive together.''
 
 That's why,
 They didn"t end up just being a 90"s band.

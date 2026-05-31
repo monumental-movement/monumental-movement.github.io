@@ -99,7 +99,7 @@ In the mid-2000s, when **DVS (Digital Vinyl System)** became popular, there was 
 In 2006, the use of DVS in various formats was allowed, and the tournament, which had previously been limited to analog, accepted the style of ""manipulating digital sound sources with a turntable.''
 
 This results in
-- Freely use your own edited sound sources
+- Freely use original sound sources
 - Greatly expands the range of routine configurations
 - Increased tone play and melodic expression
 Such an evolution is taking place.
@@ -189,7 +189,7 @@ Turntablism has been around since the 2000s.
 - DJ School
 - Workshop
 - University Music and Media Department
-It has come to be recognized as a genre of music rather than just a club technique.
+It was also incorporated into the club, and came to be evaluated as a genre of music rather than just a club technique.
 
 ---
 

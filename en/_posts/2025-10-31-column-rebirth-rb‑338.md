@@ -41,7 +41,7 @@ color: #fff;
 
 
 ## Prehistory: Context of the analog equipment/hardware synth era
-Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among these, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalyst that changed the tone, performance style, and culture.
+Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among them, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalysts that changed the tone, performance style, and culture.
 
 ### Birth of TB‑303 and "acid"
 The TB‑303 was a bass line synthesizer released around 1981. Although it was originally designed as a ""equipment to imitate bass playing,'' it failed to fulfill its purpose in the early years and was a failure in the market, and it began to be distributed second-hand at a low price.
@@ -102,7 +102,7 @@ In this way, ReBirth was not only a technological innovation, but also a tool th
 ReBirth's impact goes beyond just being a software synthesizer. Rather, what is important is that it restructured the "possibilities of access and expression" in the cultural fields of electronic music, clubs, techno, and DIY production.
 
 ### Acid techno again: popularizing the TB‑303 sound
-The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more maniacal. Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
+The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more "maniacal." Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
 
 This challenged the preconceived notion that "hardware ownership = production style" and served as an opportunity to expand the creator base.
 
@@ -111,7 +111,7 @@ ReBirth has become an "entrance" for creators/producers who don't have the equip
 Furthermore, activities such as user modification (mods), pattern exchange, and community sharing have flourished, and a culture of not only ""using tools" but also ""modifying and sharing tools/tones" has developed. This DIY spirit has enriched the creative ecosystem of electronic music.
 
 ### Diversification of music genres/sound design
-ReBirth has made it easier to access the standard sound of ""acid bass + techno drums," which has lowered the ""equipment barrier" not only in acid house techno, but in electronic music as a whole. As a result, TB-303/TR-808-like tones spread into genres such as trance, drum & bass, and breakbeat, contributing to the diversification of sound design.
+ReBirth has made it easier to access the standard sound of ""acid bass + techno drums", which has lowered the ""equipment barrier" not only in acid house techno but in electronic music as a whole. As a result, TB-303/TR-808-like tones spread into genres such as trance, drum & bass, and breakbeat, contributing to the diversification of sound design.
 In this way, ReBirth brought about changes in the production scene through the three keys of "tone, operability, and price."
 
 ---
@@ -121,7 +121,7 @@ The introduction of ReBirth was not just the success of a single software synthe
 
 ### "Modularization" and coordination of production tools
 ReBirth was not only complete as a standalone software, but also had "linkage functions" such as MIDI compatibility, sequencer linkage, and synchronization with other software using the later ReWire protocol. For example, ReWire is a technology that allows audio/MIDI to be exchanged between multiple applications, and has been showing this type of extensibility since the days of ReBirth.
-In this way, the direction of ""using a combination of software/modules" rather than ""complete with a single software" naturally emerged during the ReBirth era.
+In this way, the direction of ""using a combination of software/modules" rather than ""complete with one software" naturally emerged during the ReBirth era.
 
 ### Accelerating the spread of plug-ins/VST/software synths
 From the late 1990s to the 2000s, plug-in formats such as VST (Virtual Studio Technology) and AU (AudioUnits) spread. ReBirth can be said to have "practicalized" the software synth genre and laid the foundation for the transition from a production environment centered on hardware equipment to one centered on software. The phrase "the first soft-synth emulation" is also used in the review.
@@ -129,7 +129,7 @@ From the late 1990s to the 2000s, plug-in formats such as VST (Virtual Studio Te
 These industrial changes were also a turning point where music production software was positioned as ""equal to, or even better than, equipment.'' As a result, the software instrument/effects market has expanded and many companies have entered the market.
 
 ### Restructuring of production process/workflow
-More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality: ""Start up the software, create a pattern, synchronize MIDI and audio, and output.''
+More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality: ""Start up the software, create a pattern, synchronize MIDI and audio, and then output.''
 This change was especially significant in the context of the "home/personal studio." By creating an environment in which space, equipment, and effort can be saved to some extent, the range of creators has expanded.
 
 ---
@@ -162,7 +162,7 @@ Therefore, it is meaningful to view the "end" of ReBirth not as simply the end o
 Although ReBirth is now a tool of the past, its influence and legacy remains strong in today's music production and technology environment. Here, we will "reexamine" this question from several perspectives.
 
 ### Redefining ease and access
-What ReBirth demonstrated was the concept that ""you can express yourself without any equipment" and ""you can create sound with your own computer." This truly means "democratization of production access," and it also applies to the current cloud/mobile/plug-in environment. For example, apps that make it easy to use synths on smartphones and subscription-based software musical instruments are an extension of this context.
+What ReBirth demonstrated was the concept that ""you can express yourself without any equipment" and ""you can create sound with your own computer." This truly means ""democratization of production access,'' and it also applies to the current cloud/mobile/plugin environments. For example, apps that make it easy to use synths on smartphones and subscription-based software musical instruments are an extension of this context.
 By looking back at ReBirth, we can once again remember the idea that "anyone can start/a path of expression for those who don't have".
 
 ### From "ownership" to "access", from hardware to software

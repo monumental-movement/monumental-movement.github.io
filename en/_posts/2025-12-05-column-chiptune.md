@@ -242,14 +242,14 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 - Completely reproduce the original sound with Plogue chipsynth
 - Sidechain/EQ correction
 - Separate sound sources like a multi-mic
-- Adjust the sound image with 32bit float recording
+- Adjust sound image with 32bit float recording
 
 ---
 
 ## Chapter 10: The future of Chiptune and the future of 8-bit aesthetics
 
 8-bit music is no longer a symbol of retro;
-**An existence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
+**An entity that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
 It has become.
 
 - Use in Hyperpop and EDM

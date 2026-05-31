@@ -89,7 +89,7 @@ flowchart LR
 
 ---
 
-2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also fostered in this environment, producing numerous club hits and studio releases.
+2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also nurtured in this environment, producing numerous club hits and studio releases.
 
 ---
 

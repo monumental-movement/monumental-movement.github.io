@@ -74,7 +74,7 @@ A ship is anchored on the high seas of the North Sea and radio is transmitted fr
 
 This is how the earliest form of pirate radio was born.
 
-Their style of playing rock and pop music all day long was extremely popular among young people.
+Their style of playing rock and pop music all day long was hugely popular among young people.
 
 However, in 1967 the government enacted a law prohibiting pirate broadcasting, and many stations were shut down.
 

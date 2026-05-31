@@ -55,7 +55,7 @@ color: #fff;
 ## 1990s: Golden Age and Deepening of Realism
 
 * **Representative producers**: DJ Premier, Pete Rock, RZA, Large Professor
-* **Major labels**: Def Jam, Bad Boy Records, Loud Records
+* **Major Labels**: Def Jam, Bad Boy Records, Loud Records
 * **Cultural background**: Beats that make full use of sampling and lyrics that depict social criticism and street realism. Based in Brooklyn, Queens, and Harlem.
 * **East-West conflict**: East-West conflict intensifies, including the tragic deaths of 2Pac and The Notorious B.I.G.
 * **Video/Fashion**: MV set in a high-end boutique in Harlem and a street corner in New York. Timberland, Carhartt, AverX, and baggy jeans are the mainstream.

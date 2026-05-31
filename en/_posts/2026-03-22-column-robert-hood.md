@@ -84,7 +84,7 @@ This album can be said to be the blueprint for later minimal techno, and continu
 
 ## Masterpiece: The practice and evolution of minimalism
 
-Robert Hood's innovation can be more clearly understood through several of his masterpieces.
+Robert Hood's innovation can be more clearly understood through some of his masterpieces.
 
 The first thing I should mention is the album ""Minimal Nation.'' This work is the origin of minimal techno and is the crystallization of his ideas in their purest form. Each track is extremely simple, yet creates a powerful groove through careful rhythm design.
 
@@ -197,3 +197,11 @@ In an era of information overload, the ability to discern the essence. That's wh
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4ac1ZvKVwk?si=-shZzj1sEqKn79ET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -21,7 +21,7 @@ Text: mmr｜Theme: Deciphering the vitality of regional rock through the more th
 
 Les Dales Hawerchuk is a band that occupies a unique position when discussing Quebec rock since the 2000s.
 
-They weren't a band aimed at a huge market. Nor did it emerge as sophisticated urban rock. Rather, their appeal lay in the fact that they echoed the flavor of local cities.
+They weren't a band aiming for a huge market. Nor did it emerge as sophisticated urban rock. Rather, their appeal lay in the fact that they echoed the flavor of local cities.
 
 They started their activities in Roberval, Quebec. Located in the Saguenay-Lac-Saint-Jean region, this area is known for its strong local culture. Pride as a French-speaking country, harsh winters, hockey culture, bar culture, and bonding among friends. That atmosphere flowed directly into Les Dales Hawerchuk's music.
 
@@ -420,7 +420,7 @@ Still feels like a bar.
 
 However, as he gets older, he becomes more persuasive.
 
-It wasn't just the urge of youth, but also the weight of a band that has been touring live houses for many years.
+It's not just the impulse of youth, but the weight of a band that has been touring live houses for many years.
 
 <div class="mermaid">
 quadrantChart

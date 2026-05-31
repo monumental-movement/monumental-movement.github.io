@@ -84,7 +84,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 - The bass line is repetitive and funky, and the saxophone swirls freely.
 - **Beat Analysis**:
 - 4/4 keynote, but the off-beat placement of the snare and changes in accent always give a sense of oscillation.
-- Emphasizes improvisation while maintaining a sense of dance
+- Emphasizes improvisation while maintaining a dance feel
 
 ### Song "Melt Yourself Down"
 
@@ -214,5 +214,14 @@ timeline
 
 James Chance and the Contortions is a band that takes the fusion of avant-garde music and performance to the extreme. The rhythm, improvisation, and physical expression of their albums and live performances became the foundation of later dance-punk and post-punk. Although their music was short-lived, it continues to be regarded as a symbol of innovation.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xWnvGANCdS4?si=XUnzHHScph1-r4vW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

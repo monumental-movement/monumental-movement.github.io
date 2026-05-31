@@ -205,7 +205,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Conversion of space**: Warehouse/ruins/street → club/venue (problems with illegal construction, noise, and occupation).
 
-**Economic periphery**: Friction between informal distribution (booting, mixing, hand selling) and the copyright regime.
+**Economic periphery**: Friction between informal distribution (booting, mixing, hand-selling) and the copyright regime.
 
 **Physical Techniques**: Movements that appear violent/obscene to the outside, such as moshing, breaking, and wind-ups.
 
@@ -213,7 +213,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Radicalization of the narrative**: The realism/exaggeration of the lyrics is misinterpreted by the media as a crime warning.
 
-**Media apparatus**: Reporting creates a "popular devil" (Cohen's moral panic).
+**Media Apparatus**: Reporting creates a "popular devil" (Cohen's Moral Panic).
 
 **Reflection with the system**: The cycle of crackdown → underground → strengthening of solidarity → commercial recovery → deviation again.
 

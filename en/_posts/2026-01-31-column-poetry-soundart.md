@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## The history of voice begins with poetry reading
+## 詩の朗読から始まる声の歴史
 
 ### Poetry before letters
 
@@ -50,7 +50,7 @@ Poetry was originally something that was ""spoken'' before it was written. In an
 
 ### Separation of modern poetry and recitation
 
-With the spread of printing technology, poetry became fixed on paper, and the act of reading shifted to a visual center. From the 19th century to the early 20th century, the recitation of poetry became secondary, and works increasingly tended to be evaluated as texts. However, readings by the poets themselves continued, and the importance of the voice was never completely lost.
+印刷技術の普及によって詩は紙の上に固定され、読む行為は視覚中心へと移行する。19世紀から20世紀初頭にかけて、詩の朗読は副次的なものとなり、作品はテキストとして評価される傾向が強まった。それでも詩人自身による朗読会は続き、声の重要性は完全には失われなかった。
 
 > Even in the era when poetry was established on paper, the voice continued to be another place for poetry.
 
@@ -60,9 +60,9 @@ With the spread of printing technology, poetry became fixed on paper, and the ac
 
 ### Dada and audio poetry
 
-The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's audio poetry is known as an attempt to break down words into syllables and treat the voice like an instrument. Poetry here no longer became a means of conveying meaning, but a sound phenomenon itself.
+The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's audio poetry is known for his attempts to break down words into syllables and treat the voice like an instrument. Here, poetry no longer became a means of conveying meaning, but a sound phenomenon itself.
 
-### 未来派とノイズ
+### Futurism and noise
 
 Italian Futurism brought mechanical and urban noise into art. Their reading performances emphasize shouts, onomatopoeia, and rhythm, blurring the boundaries between poetry, music, and noise.
 
@@ -140,7 +140,7 @@ With online distribution and network-based works, readings are not tied to a spe
 
 ---
 
-## 年表　ポエトリーリーディングとサウンドアート
+## Chronology Poetry Reading and Sound Art
 
 <div class="mermaid">
 graph LR

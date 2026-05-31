@@ -119,7 +119,7 @@ UK techno from that era was played not to dance to, but to assert its existence.
 <thead>
 <tr>
 <th>Artist/Title</th>
-<th>age</th>
+<th>era</th>
 <th>Format</th>
 <th>Features</th>
 </tr>

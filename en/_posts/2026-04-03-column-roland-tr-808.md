@@ -149,7 +149,7 @@ flowchart LR
 
 Known as "an early 808 classic," this song is a fusion of hip-hop and electro. The deep bass of the kick, the dry sound of the snare, and the sequenced rhythm are all unique to the 808.
 
-As an anecdote, at the time of production, Afrika Bambaataa said, ""I was looking for a sound that could not be struck by human hands.'' The precision of the recording and the fluctuation of analog were exquisitely mixed, giving the music a futuristic urban feel.
+As an anecdote, at the time of production, Afrika Bambaataa said, ""I was looking for a sound that could not be struck by human hands.'' The precision of the recording and the fluctuation of analog were exquisitely mixed, giving the music a futuristic, urban feel.
 
 ---
 

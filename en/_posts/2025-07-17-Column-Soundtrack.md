@@ -69,11 +69,11 @@ A new way to carry movie music with your car audio or portable device.
 
 ■CD (compact disc)
 
-Since the 1980s, it has become popular as a format with high sound quality, long duration, and a high degree of freedom in song order.
+Since the 1980s, it has become popular as a format with high sound quality, long duration, and high flexibility in song order.
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
-Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) have also appeared.
+Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) also appear.
 
 ■DVD/Blu-ray: Video + Music
 

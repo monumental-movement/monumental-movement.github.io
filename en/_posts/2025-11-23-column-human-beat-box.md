@@ -87,7 +87,7 @@ Since the late 2010s, it has largely evolved in the following three directions.
 2. **Sound Design** (ASMR, mechanical, acoustic approaches)
 3. **Establishment of loop station** (multi-layer construction/electronic music development)
 
-Centered on GBB, ""beatbox as a musical work'' began to be emphasized.
+Centered around GBB, ""beatbox as a musical work'' began to be emphasized.
 
 ---
 
@@ -121,7 +121,7 @@ Rapid growth has been remarkable in recent years.
 - High quality of sound
 - Speed ​​of adaptation to genres
 
-In particular, Japan's strengths are ""accuracy of sound," ""compositional ability," and ""compatibility with images and production.''
+In particular, Japan's strengths include "accuracy of sound," "composition ability," and "compatibility with images and production."
 
 ---
 
@@ -263,8 +263,8 @@ We can expect him to continue to be active in both Loopstation and solo.
 
 # Conclusion - Human Beatbox as a culture
 
-Human Beatbox is a modern expression culture that combines many aspects such as music, performance, video, and composition.
-Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
+Human Beatbox is a modern expressive culture that combines many aspects such as music, performance, video, and composition.
+Nowadays, beatboxing is undergoing major changes such as the maturing of competition culture, the evolution of technology, and the rise of Japanese artists, and beatboxing is becoming more than just a ""technique'' but is becoming established as an international music genre.
 
 I hope this article will help you understand the history and future of beatboxing.
 

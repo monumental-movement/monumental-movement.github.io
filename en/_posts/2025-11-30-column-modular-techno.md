@@ -60,7 +60,7 @@ graph TD
 
 ## Evolution of modular synths
 
-In the 1990s, hybrid analog/digital modules from Roland, Korg, Doepfer, and others appeared, lowering the barrier to using modular synths and allowing many artists to create experimental sounds in their home studios or small clubs.
+In the 1990s, analog/digital hybrid modules from Roland, Korg, Doepfer, and others appeared, lowering the barrier to using modular synths and allowing many artists to create experimental sounds in their home studios or small clubs.
 
 Especially since 1995, the Eurorack standard proposed by Doepfer has made modules compatible and compact, making it easier for individuals to build modular sets. This directly leads to the expansion of the Modular Techno scene from the 2000s onwards.
 
@@ -269,7 +269,7 @@ The shift from ""track reproduction" to ""sound generation" has also influenced 
 
 ---
 
-# Future outlook
+# Future prospects
 
 Modular Techno is expected to continue to evolve, and several directions are expected.
 

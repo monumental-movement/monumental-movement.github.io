@@ -21,7 +21,7 @@ Text: mmr｜Theme: The genealogy of electronic funk and the structure, equipment
 
 Electro-Funk/Modern Funk is not a name that refers to a specific era or a single movement. This name is a comprehensive framework that refers to the entire process by which the structural principles of funk established in the 1970s have been reorganized while embracing electronic musical instruments and digital production environments.
 
-The essence of funk lies in repeated rhythms, bass lines, and a physical sense of time, rather than chord progressions or melodies. Electro-Funk/Modern Funk has changed its production methods and sound design without losing its essence. As a result, multiple achievements have been made, including studio-based electronic funk and performance-based extended funk.
+The essence of funk is less about chord progressions and melodies than about repeated rhythms, bass lines, and a physical sense of time. Electro-Funk/Modern Funk has changed its production methods and sound design without losing its essence. As a result, multiple achievements have been made, including studio-based electronic funk and performance-based extended funk.
 
 Chromeo and Jamiroquai derivatives are symbols of this parallel structure, and this article will focus on both to describe the formation process and internal structure of the genre as a whole.
 

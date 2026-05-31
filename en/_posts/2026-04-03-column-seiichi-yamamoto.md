@@ -65,7 +65,7 @@ Initially known as destructive noise rock, it gradually shifted to a structure b
 
 Due to its extreme volume and vibration, sound acts not only as an auditory sensation but also as a physical sensation.
 
-#### Trance through repetition
+#### Trance by repetition
 
 Due to the long repetition, the sense of time becomes diluted and the audience is led into a trance state.
 
@@ -91,7 +91,7 @@ Vision Creation Newsun is also recognized as an important work in the psychedeli
 
 ### Acoustic impact
 
-Seiichi Yamamoto's sustained sound using delay has become a reference technique in the areas of drone and ambient as well.
+Seiichi Yamamoto's sustained sound using delay has become a reference technique in the areas of drone and ambient.
 
 > Seiichi Yamamoto's sound is evaluated not as a genre but as a sonic phenomenon.
 
@@ -206,7 +206,7 @@ At its core is a simple, repeated melody. This melody is multiplexed with a dela
 * Rhythm is not explicit and persists
 * Space continues to expand
 
-The drums function not so much as setting the rhythm, but as the "axis that sustains the music."
+Rather than marking the rhythm, the drums function as the "axis that sustains the music."
 
 * A pattern that repeats at regular intervals
 * Minimalistic blowing without excessive decoration
@@ -287,5 +287,13 @@ Sound is not fixed. It keeps changing depending on the place and the person.
 It is in this cycle that lies the essence of Seiichi Yamamoto's psychedelic sound.
 
 >Sound is not an individual thing, but deepens within the space.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oGlyYfEvHms?si=tk2xmDuqo_DAJCay" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

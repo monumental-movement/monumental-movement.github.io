@@ -22,7 +22,7 @@ Text: mmr｜Theme: The intersection of collective improvisation and DIY spirit i
 
 In San Francisco's underground music scene, ""Rubber O Cement'' is known as a band that cannot be categorized into a clear genre. Without a fixed organization or style, he has worked with approaches that turn improvisation, noise, performance, video, and even the space itself into works.
 
-Their characteristic is that they are more of a "variable project" than a band. The participating members are fluid, with different artists and performers participating each time, even though the event centers around a specific central figure. This structure is closely related to the art collective culture in San Francisco since the 1970s.
+Their characteristic is that they are more of a "variable project" than a band. The participating members are fluid, with different artists and performers being involved each time, although the event centers around a specific central figure. This structure is closely related to the art collective culture in San Francisco since the 1970s.
 
 Musically, his work eschews clear melodies and rhythms and moves toward reconstructing the auditory experience itself by combining feedback, fragmented samples, field recordings, and electronic noise.
 
@@ -157,7 +157,7 @@ A[Grux] --> C[body/object]
 B[Mick Goldwater] --> D[Electronic sound/spatial sound]
 C --> E[visual noise]
 D --> F[acoustic structure]
-E --> G[comprehensive experience]
+E --> G[holistic experience]
 F --> G
 </div>
 

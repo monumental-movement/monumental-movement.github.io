@@ -69,7 +69,7 @@ color: #fff;
 | Night of Fire | Niko | A classic that connects the flip-flop generation and the anime generation |
 | Space Boy | Dave Rodgers | Popular for its fast pace and strong melody |
 | Dancing | Vicky Vale | Used impressively in the early race scene |
-| Beat of the Rising Sun | Dave Rodgers | Exhilaration and dramatic developments |
+| Beat of the Rising Sun | Dave Rodgers | Exhilaration and dramatic development |
 | No One Sleep in Tokyo | Edo Boys | Tokyo sound image and sense of speed |
 | Speedy Speed ​​Boy | Marko Polo | Title and rhythm that embody the sense of speed |
 | Remember Me | Leslie Parrish | A melodic, emotional and popular song |
@@ -119,7 +119,7 @@ Kick : █▄█▄█▄█▄█▄█▄
 Snare : ▄▄▄▄██▄▄▄▄
 HiHat: -x-x-x-x-x-
 Bass: ▂▄▆█▇▆▄▂
-Synth: ░░██░░██░░██░░ </div>
+Synth : ░░██░░██░░██░░ </div>
 
 
 ### Initial D's iconic track "Deja Vu" style

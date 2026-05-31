@@ -79,7 +79,7 @@ In such an environment, it is difficult to notice with a normal, monotonous warn
 
 This ensures that it doesn't get lost in the music and is immediately recognized by the driver.
 
-> A culture of long driving hours and loud music has led to the evolution of sirens with more aggressive and varied sounds.
+> A culture of long driving hours and loud music has led to the evolution of sirens into more aggressive and varied sounds.
 
 ---
 
@@ -236,7 +236,7 @@ G --> H
 
 In environments where music is played at high volume, the siren needs to have a higher pitch and more modulation. On the other hand, in a quiet environment, excessive volume can have the opposite effect.
 
-In other words, sirens are designed to fit into the ""interstice of everyday sounds''.
+In other words, sirens are designed to fit into the ""interstice of everyday sounds.''
 
 > Siren is designed not to compete with musical culture, but to fill a gap in it.
 

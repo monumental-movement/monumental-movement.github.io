@@ -114,7 +114,7 @@ The visuals presented along with the music do not serve to explain the worldview
 
 Carpenter Brut represents a different direction in electropop experimentation.
 
-### Acoustic characteristics
+### Acoustic features
 
 * Synthwave tone design
 * Extremely emphasized rhythm and distortion

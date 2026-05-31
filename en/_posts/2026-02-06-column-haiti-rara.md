@@ -79,7 +79,7 @@ flowchart LR
 A[Vaxin] --> B[rhythm layer]
 C[drum] --> B
 D[shaker] --> B
-B --> E[collective sound]
+B --> E[group acoustics]
 </div>
 
 > Rara's sound is created not as an individual performance, but as a collective breath.

@@ -106,7 +106,7 @@ D --> E[spatial arrangement of sound]
 E --> F[futuristic sound]
 </div>
 
-This work was more than just an album, it could be called a "prototype of future music."
+This work was not just an album, but a prototype for future music.
 
 > ""Other Worlds, Other Sounds"' wasn"t music, it was a blueprint for the future.
 

@@ -19,7 +19,7 @@ title: '[Column] Japanese Ambient / Environmental Music'
 Text: mmr｜Theme: The core of Japanese environmental music from the 1980s and its historical reappraisal
 
 
-In the late 2010s, "Japanese Ambient" and "Japanese Environmental Music" began to attract a lot of attention among music listeners around the world. There are multiple reasons. These are reissues by Western labels, YouTube"s automatic recommendations, Spotify"s algorithm, and a reappraisal of electronic music/new age.
+In the late 2010s, "Japanese Ambient" and "Japanese Environmental Music" began to attract a lot of attention among music listeners around the world. There are multiple reasons. Reissues by Western labels, YouTube"s automatic recommendations, Spotify"s algorithm, and a reappraisal of electronic music/new age.
 However, there are important points that cannot be explained by these factors alone.
 
 This is the fact that Japan's ""environmental music'' in the 1980s was born from a different cultural soil than ambient music around the world.
@@ -267,7 +267,7 @@ graph LR
 # **Chapter 8: Summary - Why Japanese environmental music captivates the world**
 
 Japanese environmental music is not just "healing" or "background sound."
-**Sound art created by urban culture, design, and philosophy of life**
+**Sound art born from urban culture, design, and philosophy of life**
 It is.
 
 - Intermediate area between art and music

@@ -155,7 +155,7 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during the Command Records era**
+- **Grand Award → Regular guitarist during the Command Records period**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 
@@ -180,7 +180,7 @@ Mottola was one of the pillars that supported Command's "lounge/easy listening r
 - **Command Records regular guitarist**
 
 He almost always participates in the recordings of the Grand Award~Command established by Light.
-He was responsible for the guitar localization experiments in the "Persuasive Percussion" series.
+He was responsible for conducting guitar localization experiments in the "Persuasive Percussion" series and other works.
 
 - **Solo album release**
 
@@ -222,3 +222,15 @@ Command Records itself effectively came to an end around 1970, but their works a
 Enoch Light was a man who not only pursued "good sound" but also designed an object called a record, redefining the "listening experience" in the stereo era. Command Records" works are still being reevaluated today in the context of audio history, design history, and pop culture. Creating the ""surprise'' you feel when you listen to music for the first time is Wright"s true essence, and his works still retain that magical power.
 
 Also, the relationship between Enoch Light and Tony Mottola went beyond just "producer and guitarist". Combining Light"s recording aesthetic with Mottola"s flexible and versatile guitar playing, Command Records became a space-age pop icon that continues to captivate audiophiles around the world.
+
+---
+
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aXu78HXUUAQ?si=eeIlgHvm6BwJ8S0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

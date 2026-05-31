@@ -112,7 +112,7 @@ These works are a mix of pop songs and classical arias, and are characterized by
 * "Cold Song"
 * "Simple Man"
 
-In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop direction.
+In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop production.
 
 > A unique musical language was created through the coexistence of classical quotations and pop structures.
 
@@ -146,7 +146,7 @@ He prioritized artistic expression over commercial success, an attitude that res
 
 ---
 
-## Detailed analysis of representative works: Voices and Crystals of Deformities
+## Detailed analysis of representative works: Voices and Crystals of Deformity
 
 ### "Total Eclipse"
 
@@ -251,7 +251,7 @@ E --> F[Overall performance]
 
 ## Late life and death
 
-Klaus Nomi died in 1983. The cause of death was AIDS, making him one of the first notable artists to die from the disease.
+Klaus Nomi died in 1983. The cause of death was AIDS, making him one of the earliest notable artists to die from the disease.
 
 At the time, understanding of the disease was extremely limited, and his death was a huge shock to the artistic community.
 
@@ -271,5 +271,13 @@ In the 21st century, his works are being reevaluated and increasingly referenced
 
 > His legacy extends beyond music to the form of expression itself.
 
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Yq-mXZhG1M?si=2gQEB5BlwEUMsmrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

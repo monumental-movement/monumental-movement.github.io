@@ -124,7 +124,7 @@ At the time, this method was controversial, with some critics calling it unfinis
 
 ### Contrast between static and dynamic
 
-On 1975's NEU! 75, the first half and second half of the album take a clearly different direction. The first half is ambient and melodic songs led by Rother, and the second half is aggressive and noisy songs led by Dinger.
+1975's NEU! 75 presents distinctly different directions in the first and second half of the album. The first half is ambient and melodic songs led by Rother, and the second half is aggressive and noisy songs led by Dinger.
 
 This structure can be said to directly reflect the differences in musical orientation within the band. In fact, there is evidence that the relationship between the two was already strained at this time, and that the recordings were made separately.
 

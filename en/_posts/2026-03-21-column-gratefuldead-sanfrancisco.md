@@ -86,7 +86,7 @@ This symbolism would later become deeply connected to their music and the spirit
 
 ### Improvisation and Chaos
 
-On Acid Tests, the Grateful Dead dismantle traditional song structures. There is no set list, and the performance changes depending on the situation.
+On Acid Tests, the Grateful Dead dismantle traditional song structure. There is no set list, and the performance changes depending on the situation.
 
 The audience was also not a passive presence, but was involved in the music as part of the entire space.
 
@@ -154,7 +154,7 @@ Tours are more than just performances; they form a mobile community. A market wi
 
 Artists such as Jefferson Airplane and Janis Joplin were active around the same time, and the region as a whole was forming its own music scene.
 
-### Genre Deconstruction
+### Genre deconstruction
 
 Blues, folk, rock, and jazz merge, and existing classifications become meaningless. This freedom is the hallmark of the San Francisco sound.
 
@@ -190,7 +190,7 @@ Live-centered activities continued, and touring itself became established as a c
 
 ---
 
-## End and inheritance
+## End and succession
 
 ### Jerry Garcia Death
 
@@ -225,7 +225,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[san francisco] --> B[counterculture]
+    A[san francisco] --> B[counter culture]
     B --> C[Grateful Dead]
     C --> D[improvisation]
     C --> E[dead heads]

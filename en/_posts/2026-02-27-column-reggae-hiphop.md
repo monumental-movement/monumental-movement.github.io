@@ -15,7 +15,7 @@ title: '[Column] Reggae × Hip-Hop: From sound systems to world cities—a histo
 
 
 
-## From sound systems to global standards, the genealogy of bass culture that crosses borders
+## From sound systems to world standards, the genealogy of bass culture that crosses borders
 
 Text: mmr｜Theme: The back and forth of rhythm connecting Jamaica and the Bronx, and the cultural history of expansion into global cities
 
@@ -40,7 +40,7 @@ color: #fff;
 
 ### What is Reggae × Hip-Hop?
 
-Reggae is a popular music that was established in Jamaica in the late 1960s, and is characterized by off-beats and heavy bass, having passed through ska and rocksteady. Hip-hop is a cultural movement that was formed in the Bronx, New York in the early 1970s, and has four elements: DJing, MCing, breakdancing, and graffiti.
+Reggae is a popular music that was established in Jamaica in the late 1960s, and has evolved from ska and rocksteady, and is characterized by off-beats and heavy bass. Hip-hop is a cultural movement that was formed in the Bronx, New York in the early 1970s, and has four elements: DJing, MCing, breakdancing, and graffiti.
 
 The points of contact between the two are sound system culture, toasting (narration over the beat), and bass-driven sound design.
 

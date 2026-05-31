@@ -67,7 +67,7 @@ These members do not exist as a fixed organization, but rather have a fluid stru
 
 <div class="mermaid">
 flowchart TD
-A[Grux] --> B[central structure]
+A[Grux] --> B[中心構造]
 B --> C[carolina liner]
 C --> D[Participating members]
 D --> E[Brandan Kearney]
@@ -135,7 +135,7 @@ As a result, the performer is treated as a "function" rather than an "individual
 
 <div class="mermaid">
 flowchart LR
-A[mask] --> B[anonymization]
+A[mask] --> B[Anonymization]
 B --> C[symbolization of the body]
 C --> D[ritual]
 D --> E[disconnection with audience]
@@ -218,7 +218,7 @@ Furthermore, the structure, which centers around Grux but does not give a clear 
 
 It is also important that they have been active for a long period of time, and are not just a temporary avant-garde.
 
-> The invisible structure makes the Carolliner a legend.
+> Invisible structure makes the Carolliner a legend.
 
 ---
 
@@ -228,7 +228,7 @@ It is also important that they have been active for a long period of time, and a
 
 The Carolliner is a rare musical body with a clear center (Grux) and a fluid periphery.
 
-By colliding different elements of Experimental, Noise, Industrial, and Bluegrass, he continues to shake up the very framework of music.
+By colliding different elements of experimental, noise, industrial, and bluegrass, he continues to shake up the very framework of music.
 
 An unfixed structure and continuous activity make this group unique.
 

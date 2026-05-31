@@ -60,7 +60,7 @@ Wanda Lavon Jackson was born on October 20, 1937 in Maude, Oklahoma, USA. Music 
 
 The family later moved to California, but returned to Oklahoma. During her nomadic life, she was strongly influenced by radio culture. In America in the 1950s, radio was the greatest source of entertainment and a device for creating new stars.
 
-Wanda was praised for her singing ability as a child and began appearing on local radio programs. She particularly stood out on country and western programs, and her singing voice attracted attention from an early age.
+Wanda was praised for her singing ability as a child and began appearing on local radio programs. She particularly stood out on country and western programs, and her singing voice attracted attention from an early stage.
 
 Already a regional star in high school, he entered the music industry at a young age.
 
@@ -281,7 +281,7 @@ D --> E["Legendary"]
 
 In 2011, Wanda Jackson will be inducted into the Rock and Roll Hall of Fame.
 
-This was not just a meritorious award.
+This was not just an achievement award.
 
 It had the meaning of formally inscribing into history the role that female artists played in the early days of rock"n"roll.
 

@@ -177,10 +177,10 @@ Additionally, she rarely uses streaming, instead offering her works through CDs 
 ---
 
 ### ● Human relationships/friendship/public presence
-Chapman is known for not making many public appearances, but because of this, the interaction and trusting relationships she has with her colleagues and co-stars have supported her production background.
+Chapman is known for not making many public appearances, but because of this, her interactions and relationships of trust with those involved and co-stars have supported her production background.
 For example, there are reports that he is close friends with novelist Alice Walker, and that they had a relationship for a while, but he has not made the details of his private life public.
 
-Additionally, their performance of "Fast Car" at the 2024 Grammys symbolized their intergenerational musical connection with Luke Combs.
+Additionally, his performance of "Fast Car" at the 2024 Grammys symbolized his intergenerational musical connection with Luke Combs.
 The negotiation process for this stage was said to have been cautious, with the Grammys taking an approach that emphasized trust and avoided putting too much pressure on her.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -241,3 +241,14 @@ I hope that through this column you will be able to reconsider the contours of T
 | 2002 | *Let It Rain* | A masterpiece of tranquil tones | [Amazon](https://amzn.to/4nAUK4u) |
 | 2005 | *Where You Live* | Personal and intimate work | [Amazon](https://amzn.to/4pZL4C6) |
 | 2008 | *Our Bright Future* | A culmination of hope and resignation | [Amazon](https://amzn.to/42TBdEj) |
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4rg6yJFdrw?si=BistwN-YLvq6un8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

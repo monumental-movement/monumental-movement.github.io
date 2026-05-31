@@ -147,7 +147,7 @@ There were very few rock bands in the late 1970s that integrated recording and e
 
 1979's self-titled album This Heat occupies a unique place in post-punk history.
 
-This album doesn't have the stability that a normal rock album has.
+This album doesn't have the stability of a normal rock album.
 
 The album unfolds as a kind of disturbing collage, a series of short snippets, noises, tape edits, repetitions, ambient sounds, and disconnected rhythms.
 
@@ -218,7 +218,7 @@ They actively used tape playback, noise manipulation, and improvisation in their
 
 As a result, the performance changed greatly each time.
 
-It didn't have the reproducibility of a normal rock live performance, and what was more appealing was the state of being on the verge of losing control.
+It didn't have the reproducibility of a normal rock live performance, but rather the appeal was that it was on the verge of losing control.
 
 For the audience, it felt more like being thrown into a giant sound system than listening to a song.
 

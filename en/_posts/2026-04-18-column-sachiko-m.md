@@ -219,13 +219,13 @@ flowchart TD
     B --> C[lack of change]
     C --> D[loss of auditory focus]
     D --> E[The emergence of environmental sounds]
-    E --> F[Enhanced spatial awareness]
+    E --> F[空間認識の強化]
     F --> G[Changes in self-perception]
 </div>
 
-In this work, although the sound itself is extremely simple, the process of perception changes step by step. What is especially important is the moment when we can no longer follow the sound, at which point our hearing expands to encompass the entire environment.
+この作品では、音そのものは極めて単純であるにもかかわらず、知覚のプロセスは段階的に変化していく。特に重要なのは、「音を追えなくなる瞬間」であり、その時点で聴覚は環境全体へと拡張される。
 
-> Simple sounds evoke complex perceptions
+> 単純な音が複雑な知覚を引き起こす
 
 ---
 
@@ -233,7 +233,7 @@ In this work, although the sound itself is extremely simple, the process of perc
 
 <div class="mermaid">
 flowchart TB
-    A[Sound source Sine wave generator] --> B[spread throughout the space]
+    A[音源 サイン波発生装置] --> B[spread throughout the space]
     B --> C1[Audience A]
     B --> C2[Audience B]
     B --> C3[Audience C]
@@ -419,7 +419,7 @@ Sound, like visual works, becomes a device for manipulating the consciousness of
 
 ### Non-temporal structure
 
-It"s hard to feel a clear beginning or end to Sachiko M"s music. Time is not experienced as linear, but as a stagnant or expanded state.
+It"s hard to feel a clear beginning or end to Sachiko M"s music. Time is not linear, but is experienced as a stagnant or expanded state.
 
 ### Changes in listening experience
 

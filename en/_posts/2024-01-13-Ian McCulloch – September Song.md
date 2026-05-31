@@ -19,7 +19,7 @@ His career also includes time in The Crucial Three with Pete Wylie and Julian Co
 
 McCulloch cites Lou Reed, Iggy Pop, The Doors, Leonard Cohen, and especially David Bowie as his musical influences.
 
-He describes Cohen's 1968 song "Susan" as "a song with perfect lyrics and a perfect melody", and Bowie as "the greatest solo artist of the 20th century who had a huge influence".
+He describes Cohen's 1968 song "Susan" as "a song with perfect lyrics and a perfect melody" and Bowie as "the greatest solo artist of the 20th century who had a huge influence".
 
 #### Tracklist
 ```md

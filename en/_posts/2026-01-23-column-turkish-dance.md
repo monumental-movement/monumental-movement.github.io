@@ -72,9 +72,9 @@ This premise of ""music for moving the body'' has remained consistent even after
 In the Ottoman Empire, court music and urban popular culture were not completely separated.
 At festivals and banquets, there existed a form of performance that integrated dance and music.
 
-### 9拍子の系譜
+### Genealogy of 9 time signatures
 
-とくに9/8拍子は、オスマン期から現代に至るまで、トルコのダンス音楽における象徴的リズムとして機能する。
+In particular, the 9/8 time signature has functioned as a symbolic rhythm in Turkish dance music from the Ottoman period to the present day.
 
 This time signature was reused in later club music as a symbol of ""Turkishness.''
 
@@ -83,12 +83,12 @@ This time signature was reused in later club music as a symbol of ""Turkishness.
 ---
 
 
-## 20世紀前半｜録音技術と大衆化
+## First half of the 20th century | Recording technology and popularization
 
 ### The advent of records and radio
 
 After the 1920s, with the spread of recording technology and radio broadcasting, regional music began to flow into cities.
-舞踊音楽もまた、家庭で聴かれる音楽へと変化した。
+Dance music also changed to music that was listened to at home.
 
 ### The germ of oriental pop
 
@@ -99,11 +99,11 @@ Dance music organized for cities incorporated popular elements and became the ba
 ---
 
 
-## 1960–70年代｜アナトリアン・ロックと電化
+## 1960–70s | Anatolian rock and electrification
 
-### 民俗とロックの融合
+### Fusion of folk and rock
 
-1960年代後半、アナトリア民俗音楽とロックを融合する動きが現れる。
+In the late 1960s, a movement emerged to fuse Anatolian folk music with rock.
 Electric guitars and drums were used as devices to extend traditional dance rhythms.
 
 ### Maintaining dance quality
@@ -118,11 +118,11 @@ The fusion music of this period was distinctive in that, although it was experim
 
 ### Role of the German immigrant community
 
-1980年代、西ドイツを中心とするトルコ系移民社会で、伝統音楽とポップスが再編集される。
+In the 1980s, traditional music and pop music were re-edited in Turkish immigrant communities, mainly in West Germany.
 
-結婚式やコミュニティイベントでは、ダンス向けに強調されたリズムが好まれた。
+At weddings and community events, emphasized rhythms for dancing were preferred.
 
-### カセット文化
+### Cassette culture
 
 Cassette tapes contributed to the spread of dance music as a low-cost and highly distributable medium.
 
@@ -131,52 +131,52 @@ Cassette tapes contributed to the spread of dance music as a low-cost and highly
 
 ---
 
-## 1990年代｜イスタンブールとクラブカルチャー
+## 1990s｜Istanbul and club culture
 
 ### Urbanization and nightlife
 
-1990年代、イスタンブールではクラブ文化が拡大する。
-ハウスやテクノと並行して、ローカルなリズムを持つ楽曲がプレイされ始めた。
+In the 1990s, club culture expanded in Istanbul.
+Songs with local rhythms began to be played alongside house and techno.
 
-### 伝統リズムの引用
+### Traditional Rhythm Quotes
 
-DJやプロデューサーは、9拍子や民俗旋律をサンプリングし、ダンスフロア向けに再構築した。
+DJs and producers sampled nine-time signatures and folk melodies and reimagined them for the dance floor.
 
-> クラブは新たな民俗空間となった。
+> Clubs have become a new folk space.
 
 ---
 
 ## Since the 2000s | Visualization of globalization and circulation
 
-### ワールドミュージックからクラブへ
+### From world music to clubs
 
 Turkish dance music becomes accepted in both world music and club contexts.
 
 ### Recursive effects
 
-電子音楽化されたトルコ的リズムが、逆に国内の若手ミュージシャンへ影響を与える循環が生まれた。
+A cycle was born in which the electronic version of Turkish rhythm influenced young domestic musicians.
 
-> 輪は閉じず、拡張され続けている。
+> The circle does not close and continues to expand.
 
 
 ---
 
-## 年表｜トルコ・ダンスミュージックの主な流れ
+## Chronology｜Main trends of Turkish dance music
 
 | Years | Events |
 | --------- | ----------------- |
-| 古代–       | アナトリア各地で地域舞踊音楽が成立 |
-| 16–19世紀   | オスマン都市文化に舞踊音楽が定着  |
-| 1920年代    | 録音・放送による大衆化       |
+| Ancient times – | Regional dance music was established in various parts of Anatolia |
+| 16th–19th century | Dance music established in Ottoman urban culture |
+| 1920s | Popularization through recording and broadcasting |
 | 1960s–70s | The emergence of Anatolian rock |
-| 1980年代    | ディアスポラでの再編集       |
+| 1980s | Re-editing in the diaspora |
 | 1990s | Connection with club culture |
 | 2000s – | Acceleration of global circulation |
 
 
 ---
 
-## 図｜トルコ・ダンスミュージックの循環構造
+## Diagram｜Cyclic structure of Turkish dance music
 
 <div class="mermaid">
 graph LR
