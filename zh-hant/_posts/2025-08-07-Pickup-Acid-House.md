@@ -21,7 +21,7 @@ title: 拿起酸屋工作
 ### 手寫筆麻煩——酸軌
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%</0webTrackTrack.
 
-俱乐部经典，经典酸线让 TR-303 咆哮。皮特·海勒的隱藏傑作。
+俱樂部經典，經典酸線讓 TR-303 咆哮。皮特·海勒的隱藏傑作。
 
 
 #### 曲目表
@@ -81,7 +81,7 @@ B2. Everyday Balloon
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -198,7 +198,7 @@ Y. Kauna
 #### 佩爾貢 – #2
 <a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>
 
-20 世紀 90 年代初的德國迷幻科技音樂。堅硬而機械的聲音很有吸引力。
+90 年代初的德國迷幻科技音樂。堅硬而機械的聲音很有吸引力。
 
 #### 曲目表
 ```md

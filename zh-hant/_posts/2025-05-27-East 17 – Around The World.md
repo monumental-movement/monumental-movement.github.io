@@ -11,11 +11,11 @@ tags:
 - Euro House
 - House
 - 90s
-title: East 17 – Around The World
+title: East 17 – 環遊世界
 ---
 
 
-East 17 (イースト17)は、ヒットシングル「Stay Another Day」で知られるUKのポップ・ボーイズバンド。
+East 17 是一支英國流行男孩樂隊，以其熱門單曲“Stay Another Day”而聞名。
 
 《Around The World》是倫敦唱片公司於 1994 年發行的 Eurohouse house 曲目。
 

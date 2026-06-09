@@ -13,9 +13,9 @@ title: 森榮 – Vetettem Violat
 ---
 
 
-Ei Moriは、Herman Gillis、Jo Casters、Roland Beelenからなるユニットです。
+Ei Mori 是由 Herman Gillis、Jo Casters 和 Roland Beelen 組成的組合。
 
-赫尔曼·吉利斯 (Herman Gillis) 18 岁时组建了他的第一支乐队 Primitifs。他为乐队制作了多种乐器。這包括空氣刮盤、鼓機（包括自製的鼓墊）、原始電腦系統、MIDI 等等。
+赫爾曼·吉利斯 (Herman Gillis) 18 歲時組建了他的第一個樂隊 Primitifs。他為樂隊製作了多種樂器。這包括空氣刮盤、鼓機（包括自製的鼓墊）、原始電腦系統、MIDI 等等。
 
 Jo Casters 是一位重要的比利時音樂家和製作人，20 多年來在比利時音樂界發揮著重要作用。他最初是 Poésie Noire 的創始人，後來成為比利時三人組 Morton、Sherman 和 Belluci 的成員。
 

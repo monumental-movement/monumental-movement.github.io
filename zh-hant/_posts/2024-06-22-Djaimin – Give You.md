@@ -14,7 +14,7 @@ title: Djaimin – 給你
 ---
 
 
-Djaimin 是瑞士頂級 DJ 和製作人。身為瑞士 house 界的傳奇人物，他是 20 世紀 80 年代蒙特勒 Platinum Club 的常駐者，也是第一批在瑞士 Couleur 3 廣播電台現場表演 house 音樂的 DJ 之一。他还与 Mr. Mike 一起作为 Black & White Brothers 乐队活跃。
+Djaimin 是瑞士頂級 DJ 和製作人。身為瑞士 house 界的傳奇人物，他是 20 世紀 80 年代蒙特勒 Platinum Club 的常駐者，也是第一批在瑞士 Couleur 3 廣播電台現場表演 house 音樂的 DJ 之一。他也與 Mr. Mike 一起作為 Black & White Brothers 樂隊活躍。
 
 《Give You》是瑞士第一張室內錄音，在全球風靡一時。
 

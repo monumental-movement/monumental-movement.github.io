@@ -24,7 +24,7 @@ A. Kernkraft 400 (DJ Gius Remix)
 B. Kernkraft 400 (Miss Kittin & The Hacker Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31325274795?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m31325274795?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4E4rq9wq3CE?si=3PtAFZk1NueST3Ql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

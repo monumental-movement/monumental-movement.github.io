@@ -14,7 +14,7 @@ title: Junior Vasquez – 安靜
 
 
 「安靜」是
-2000年にリリースされた本名Donald MatternによるJunior Vasquezの有名なトラックです。
+這是Junior Vasquez（本名Donald Mattern）於2000年發行的著名曲目。
 
 #### 曲目表
 ```md

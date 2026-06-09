@@ -10,11 +10,11 @@ tags:
 - Folk
 - Nostalgic
 - 7inch
-title: The Original Caste – Mr. Monday / Sweet Chicago
+title: 原種姓——星期一先生/甜蜜芝加哥
 ---
 
 
-原种姓是加拿大的一个民间团体。他們於 1966 年在阿爾伯塔省卡加利成立，被稱為北方鄉村歌手。
+原種姓是加拿大的一個民間團體。他們於 1966 年在阿爾伯塔省卡加利成立，被稱為北方鄉村歌手。
 
 #### 曲目表
 ```md

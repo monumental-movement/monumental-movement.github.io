@@ -18,7 +18,7 @@ title: Monkey Maffia – Monkey Maffia 音樂俱樂部
 
 Sören Bodner，也被稱為 Monkey Maffia，是德國製作人和唱片公司 Freude Am Tanzen (FAT) 的核心人物，也是唱片行 Fat Plastics 的所有者。 （2024 年死亡）
 
-他們也被稱為 Wighnomy Brothers，這是一個傳奇二人組，與 2000 年代極簡主義 techno/house 場景的代表製作人 Robag Wruhme 合作。
+他們也被稱為 Wighnomy Brothers，與 Robag Wruhme 組成的傳奇二人組，Robag Wruhme 是 2000 年代極簡 techno/house 場景的代表。
 
 《Monkey Maffia Music Club》是 Freude Am Tanzen 廠牌於 2011 年發行的 House/Breaks/Tech House 曲目。由 Kompakt 發行。
 

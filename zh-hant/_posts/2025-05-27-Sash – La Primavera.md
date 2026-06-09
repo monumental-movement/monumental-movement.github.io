@@ -16,7 +16,7 @@ title: 窗扇！ – La Primavera
 
 窗扇！ (Sash!) 是一支德國 DJ 和製作團隊，由 Ralf Kappmeier、Karl Xander、Thomas "Alisson" Lüdke 和 Sascha Lappessen 組成。
 
-《La Primavera》由 Patrizia Salvatore 主演，於 1998 年在 Sash! 發行。作為第二張專輯“Life Goes On”的主打單曲發行的 Trance 曲目。
+「La Primavera」はPatrizia Salvatoreをフィーチャーし、1998年にリリースされたSash！のセカンドアルバム「Life Goes On」のリードシングルとしてリリースされたトランストラック。
 
 Side A 是德國電子音樂二人組 DJ JamX 和 De Leon 的混音版。
 

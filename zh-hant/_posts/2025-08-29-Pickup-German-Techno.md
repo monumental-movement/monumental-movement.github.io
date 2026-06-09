@@ -58,7 +58,7 @@ title: 挑選德國Techno作品
 
 
 
-魅力ポイント：ドイツの DJ／プロデューサー Splank!（Florian Senfter）によるプロジェクト Zombie Nation の代表作。特に A 面の「Souls At Zero（Original Album Version）」に、Sven Väth によるリミックス B 面が対をなす内容。Sven Väth の手によるリミックスは、ジャーマン・テクノの重厚さとドラマ性を重ねた迫力ある仕上がり。
+亮點：德國DJ/製作人Splank的專案Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面「Souls At Zero（原始專輯版本）」與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的深度和戲劇性。
 
 
 #### 曲目表
@@ -150,7 +150,7 @@ F2. Ein Nenner
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20LK%20%E2%80%93%20When%20I%。
 
 
-亮點：《When I Rock》是托馬斯舒馬克的代表作之一。除了原始混音之外，它還包括 DJ Rush 和 Santos 的混音，使其成為您可以享受節奏衝突和不同詮釋的豐富性的作品。
+亮点：《When I Rock》是托马斯·舒马赫的代表作之一。除了原始混音之外，它還包括 DJ Rush 和 Santos 的混音，使其成為您可以享受節奏衝突和不同詮釋的豐富性的作品。
 
 
 #### 曲目表
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-亮點：約翰內斯·海爾的作品，特點是黑暗和戲劇性的方向。這首作品以深沉的節拍和迷幻的方式帶來未來主義的科技體驗。這個故事令人印象深刻，它在沉默和爆炸之間來回移動。
+亮點：約翰內斯·海爾的作品，特點是黑暗和戲劇性的方向。這是一種具有深沉節拍和迷幻風格的未來科技體驗。這個故事令人印象深刻，它在沉默和爆炸之間來回移動。
 
 
 #### 曲目表

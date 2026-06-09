@@ -18,7 +18,7 @@ title: 【專欄】什麼是深屋？ ─ 探索聲音的深度，將靈魂樂�
 ## 到底什麼是深屋？
 
 
-文：mmr｜テーマ：歴史と文脈を編み込みながら、静かに進化を続けるジャンル ― Deep House。
+文字：mmr｜主題：Deep House，一種在融入歷史與脈絡的同時不斷悄悄演變的曲風。
 
 Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區出現的一種 house 風格。它的特點是靈魂樂/爵士樂的和聲、流暢的低音和內斂的律動，是一種「深沉、悠長、溫暖身體」的舞曲音樂，而不是急速的高峰。 BPM一般為118-124（慢速至中速），7/9和弦，電鋼琴（Rhodes），管風琴（Korg M1系列），悠閒的人聲具有像徵意義。它具有對地板和聆聽都有效的“夜間溫度”。
 
@@ -29,13 +29,13 @@ Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區出現的一種
 
 **1985–90：早期早期（芝加哥/新澤西）**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以「Can You Feel It」和「Mystery of Love」呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，融合了Jersey Garage甜美的靈魂感覺([Blaze](https://amzn.to/4ooZuuc)和[Kerriyler](https://amzn)。
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以「Can You Feel It」和「Mystery of Love」呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，融合了Jersey Garage甜美的靈魂感覺([Blaze](https://amzn.to/4ooZuuc)和[Kerriz Chandnler](https
 
 **1990年代：深化與多元化**
 
 芝加哥的 [Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp)、紐約的 [Masters At Work (MAW)](https://amzn.to/3KTsg7y) 和底特律的 [Moodymann](https://amzn.to/4h9ZZZWB) 擴展了「黑色」紋理。英國和德國的基地數量將增加，在深度和科技之間架起一座橋樑。
 
-**2000年代：聆聽導向與成熟度**
+**2000年代：傾聽導向與成熟**
 
 Naked Music、Jimpster（Freerange）等將帶您進入深情的精緻休息室。在德國，[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq) 和 [Dixon (Innervisions)](https://amzn.to/4heIsN1) 因其極簡主義到現代的建築美學而廣受歡迎。
 
@@ -88,11 +88,11 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 <小時>
 
-### サブジャンルと周辺系譜
+### 次流派和外圍譜系
 
 **芝加哥深淵**：重底鼓+靈魂混響。例：手指先生、羅恩特倫特。
 
-**泽西/车库类型**：钢琴/风琴和福音般的声音。例如：Kerri Chandler，《Blaze》。
+**澤西/車庫類型**：鋼琴/風琴和福音般的聲音。例：Kerri Chandler，《Blaze》。
 
 **Detroit Deep**：具有爵士靈魂樂感覺的低保真質感。例：Moodymann、Theo Parrish（在邊界上）。
 
@@ -115,7 +115,7 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 - 動態波浪：「稍微提高一點熱量，然後在 30 到 45 分鐘內立即恢復」。
 
-- BPM 設定不要太快：將「步幅」設定為 118-121，然後在下半場增加到 122-124。
+- BPM 設定不太快：創建 118-121 的“步幅長度”，然後在下半場增加到 122-124。
 
 
 <小時>
@@ -124,7 +124,7 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 **代碼**：“軟邊距”，包含 maj7、min9、sus2/4、6。即使只是根音+九度的兩個音也是「深」的。
 
-**音色選擇**：Rhodes、M1 Organ、Juno pad、類比重低音。踩鈸稍微開放且薄。
+**音色選擇**：Rhodes、M1 Organ、Juno pad、類比重低音。踩镲稍微开放且薄。
 
 **Groove**：以輕微的擺動（+5 至 +15%）和微小的速度變化來「呼吸」。
 
@@ -132,7 +132,7 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 **採樣**：循環一段簡短的爵士樂/靈魂樂樂句，讓它以長衰減融入空間中。
 
-**混音**：大鼓 40–60Hz 是適度的，80–120Hz 會產生身體隆隆聲。人聲不應輸出太多 2-5kHz。
+**混音**：大鼓 40–60Hz 是適度的，80–120Hz 會產生身體隆隆聲。人聲不應輸出太多 2–5kHz。
 
 
 <小時>
@@ -150,15 +150,15 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 ### 播放清單範本（流程範例）
 
-**Warm-up**：Blaze系のオルガン・グルーヴ
+**熱身**：Blaze 風格風琴律動
 
-**Early peak**：Ron Trent／Chez Damierの推進力
+**早期高峰**：Ron Trent/Chez Damier 的驅動力
 
 **高原**：Jimpster 的精煉 ~ Freerange
 
 **顏色變化**：Henrik Schwarz 的現場感覺
 
-**晚**：用 Black Coffee 的 Afro Deep 來維持溫度，最後用 Larry Heard 的餘音來降溫。
+**Late**：Black Coffeeのアフロ・ディープで温度を保ち、ラストにLarry Heardの余韻でクールダウン
 
 
 <小時>

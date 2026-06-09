@@ -29,7 +29,7 @@ title: 挑選 Psy-Trance 作品
 ### Shpongle / GMS & 1300 Mics – *The Crystal Skulls EP*
 <a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.webp"></a>
 
-- **解説**：Shpongleの幻想的な要素とGMSによるフルオン的エネルギーが融合。TIP.Worldから2001年に発表された、Psy-Tranceを代表する一枚。
+- **評論**：Shpongle 的奇幻元素與 GMS 的全面能量的融合。 TIP.World於2001年發表的Psy-Trance的代表作。
 
 #### 曲目表
 ```md
@@ -227,7 +227,7 @@ F. Sandman – Target Eye
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -239,7 +239,7 @@ F. Sandman – Target Eye
 
 ---
 
-### Odds – *Odds E.P*
+### 賠率 – *賠率 E.P*
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 

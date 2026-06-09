@@ -37,7 +37,7 @@ color: #fff;
 
 ## 概述：斯堪的納維亞空氣和“溫度”迪斯科
 
-挪威制作人创作的迪斯科不仅仅是复古回放。寒冷气候所产生的忧郁与温暖的合成器/打击乐的融合——这种对比就是“北欧迪斯科”的味道。 Prins Thomas 和 Lindstrøm 相互影响，通过共同创作和混音扩大了“太空迪斯科”的词汇量。另一方面，Mungolian Jet Set 在其 DJ 混音和非凡的音樂策劃中也融入了挪威以外的元素（包括引入亞洲和中東的音樂樣本）。
+挪威製作人創作的迪斯可不僅僅是復古回放。寒冷氣候所產生的憂鬱與溫暖的合成器/打擊樂的融合－這種對比就是「北歐迪斯可」的味道。 Prins Thomas 和 Lindstrøm 相互影響，透過共同創作和混音擴大了「太空迪斯可」的詞彙量。另一方面，Mungolian Jet Set 在其 DJ 混音和非凡的音樂策劃中也融入了挪威以外的元素（包括引入亞洲和中東的音樂樣本）。
 
 ---
 
@@ -64,17 +64,17 @@ flowchart TD
 
 他的真名是托馬斯·莫恩·赫爾曼森。他們繼承了底特律-義大利和 70 年代迪斯可的精神，專注於長迷幻音樂。他以個人專輯“Prins Thomas”和“II”而聞名。此外，與 Lindstrøm 等人發布的合作和混音作品也為場景的形成做出了貢獻。
 
-**プロデュース／関与した主な活動**：
+**產生/參與的主要活動**：
 
 * 與 Lindstrøm 共同製作（分割/混音）
-* モジュラー／アナログ機材を駆使した長尺トラック
-* 策劃小型節日和俱樂部的現場表演
+* 充分利用模組化/模擬設備的長軌道
+* 小規模フェスやクラブでのライブセットでのキュレーション
 
 ---
 
 ### 林斯特羅姆
 
-他的本名是漢斯-彼得·林德斯特羅姆。他的聲音被稱為「宇宙迪斯可」的旗手，結合了合成器層、沉重的鼓聲和環境的精髓。他的代表作《你去哪裡我也去》、《這是一段忠誠的事》等，因其優雅且適合跳舞的長篇作品而受到高度讚譽。
+他的本名是漢斯-彼得·林德斯特羅姆。 His sound is called the standard-bearer of "cosmic disco," and combines synth layers, heavy drum work, and the essence of ambient. His masterpieces, such as ``Where You Go I Gooo'' and ``ItIts Fidelal fairalcee accereal ’, accim ``It's Fidelal """", 假" "Ft " ``It's danceable long-length compositions.
 
 **產生/參與的主要活動**：
 
@@ -83,7 +83,7 @@ flowchart TD
 
 ---
 
-### 蒙古噴射機
+### Mungolian Jet Set（ムングリアン・ジェット・セット）
 
 主要以 DJ 單位/製作人活躍。他以其豐富的唱片知識和融入部落節奏感的混音而聞名。他們的 Jet Set Trax 式混音系列為挪威俱樂部場景帶來了新的編輯視角。
 
@@ -120,7 +120,7 @@ flowchart TD
 
 **客座合作者**
 
-Randy Barracuda（フィンランドのSkweeeシーンで活躍）や、ノルウェー国内外のシンガー／ミュージシャンが参加することもある。
+Randy Barracuda（活躍於芬蘭 Skweee 場景）和來自挪威和國外的歌手/音樂家有時也會參加。
 
 Mungolian Jet Set 的專輯和混音也邀請了客座歌手和樂器演奏家。
 

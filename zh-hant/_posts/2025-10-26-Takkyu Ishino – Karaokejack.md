@@ -10,11 +10,11 @@ tags:
 - Techno
 - JPop
 - 00s
-title: Takkyu Ishino – Karaokejack
+title: 石野卓急 – 卡拉 OK 傑克
 ---
 
 
-石野卓急於2001年發行個人專輯。首張限量紙封套CD。
+石野卓急於2001年發行個人專輯。第一張限量紙封套CD。
 第九首歌曲《Creatures Of The Night》是與Beroshima共同創作的。
 
 

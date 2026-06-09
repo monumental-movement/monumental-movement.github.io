@@ -9,15 +9,15 @@ permalink: /zh-hant/stretch-and-vern-present-maddog-im-alive/
 tags:
 - House
 - 90s
-title: Stretch & Vern Present Maddog – I'm Alive
+title: Stretch 和 Vern 呈現 Maddog – I'm Alive
 ---
 
 
 Stretch & Vern 是來自倫敦的 house 音樂 DJ/製作人二人組 Stuart Silvester（又名 Stretch Silvester）和 Julian Peake（又名 Jules Vern）的組合。他還以 EL B's、Essenvee、Maddog、Phender、The Moonmen 和 Wide Mouth 等其他名字進行表演。
 
-1996年にリリースされた「 I'm Alive」はクラブヒットとなり、90年代後半を代表するアンセム。
+1996 年發行的《I'm Alive》成為俱樂部熱門歌曲，並成為代表 90 年代末的聖歌。
 
-B面１曲目は、Fatboy Slim（ファットボーイ・スリム）ことNorman Cook（ノーマン・クック）がプロデュース＆remixしている。
+B 面的第一首歌曲由 Norman Cook（又名 Fatboy Slim）製作和混音。
 
 #### 曲目表
 ```md

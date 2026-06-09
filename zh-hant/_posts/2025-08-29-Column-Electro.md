@@ -82,9 +82,9 @@ B. Planet Rock (Instrumental)
 
 <小時>
 
-### 2000 年代的復興與電擊
+### 2000年代のリバイバルとエレクトロクラッシュ
 
-2000年代初頭、エレクトロは再び脚光を浴びる。
+2000 年代初，電子音樂重新成為人們關注的焦點。
 
 **Electroclash**：由 Kittin 小姐和駭客、Fischerspooner、成人驅動。和其他人。他們頹廢、以藝術為導向的聲音與時尚產業緊密相連。
 
@@ -139,9 +139,9 @@ Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張
 
 [Cybotron – 清晰 (1983)](https://amzn.to/3WRX6QB)
 
-[Drexciya – Neptune’s Lair (1999)](https://amzn.to/42Q2l70)
+[Drexciya – 海王星的巢穴 (1999)](https://amzn.to/42Q2l70)
 
-[Miss Kittin & The Hacker – First Album (2001)](https://amzn.to/4or6aI1)
+[Miss Kittin & The Hacker – 第一張專輯 (2001)](https://amzn.to/4or6aI1)
 
 [正義 – 十字架 (2007)(https://monumental-movement.jp/Justice-+)
 
@@ -149,7 +149,7 @@ Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張
 
 ### 動搖機器與人類界線的電動凹槽
 
-Electro不僅是一種暫時的流派，而是電子音樂發展的基石。它的 DNA 继续存在于嘻哈音乐、电子音乐、浩室音乐、电击音乐甚至现代电子舞曲中。
+Electro不僅是一種暫時的流派，而是電子音樂發展的基石。它的 DNA 繼續存在於嘻哈音樂、電子音樂、浩室音樂、電擊音樂甚至現代電子舞曲。
 機器和人類共鳴的聲音是電子音樂的核心，也是它繼續預測音樂未來的原因。
 
 ---

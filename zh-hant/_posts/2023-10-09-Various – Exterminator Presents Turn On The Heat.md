@@ -9,12 +9,12 @@ permalink: /zh-hant/various-exterminator-presents-turn-on-the-heat/
 tags:
 - Reggae
 - Dancehall
-title: Various – Exterminator Presents Turn On The Heat
+title: 各種 – Exterminator 呈現“打開暖氣”
 ---
 
 
 「滅蟲者呈現打開暖氣」是
-1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム
+一張非常經典的 Fatis Burrell one-riddim 合輯，由英國廠牌「Sir Coxsone」於 1989 年發行。
 是。
 
 

@@ -16,7 +16,7 @@ title: 拾取盒式磁帶作品
 
 <小時>
 
-### No Artist – Environments (Cassette Two) 
+### 無藝術家 – 環境（磁帶二）
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>.
 
 1970 年代現場錄音/療癒 捕捉自然環境的療癒音景。
@@ -37,7 +37,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 <小時>
 
 ### 噪音的藝術——毫無意義的廢話
-<a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%2010%20Of%20Noise%20%E2%80%93%205%20N.
+<a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20InSense%20Of%20Noise%20%E2%80%93%2030%20N.
 
 1987 年 Leftfield Synth 普普藝術流行 x 實驗性、獨特的合成器作品。
 
@@ -119,7 +119,7 @@ B5. Makin' Love
 ### Amany & The Badawist – 來吧，巴塞姆
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%9320and%20The%20Badawist%20%E2%80%9320and%20The%20Badawist%20%E2%80%9320ComeCome>
 
-2024 部落/世界音樂 來自中東和非洲的部落之聲。
+2024年 トライバル／世界音楽  中東・アフリカ系のトライバル音響。
 
 #### 曲目表
 ```md
@@ -156,7 +156,7 @@ Come on, Bassem
 
 
 ### 湯瑪斯紐曼 – 女人的香氣
-<a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A7%>
+<a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%(webp.
 
 1992 年電影原聲帶 經典電影的原創配樂磁帶。
 
@@ -193,7 +193,7 @@ B7. End Title
 ### 亞當克萊頓 (Adam Clayton) 與拉里馬倫 (Larry Mullen) – 《碟中諜》主題曲
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-1996年電影《不可能的任務》官方錄音帶主題曲。
+1996年電影《不可能的任務》主題曲官方錄音帶。
 
 #### 曲目表
 ```md
@@ -312,10 +312,10 @@ D9. Higher Ground – Shake 'Em Up
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Run‑D.M.C. – King Of Rock
+### 運行-D.M.C. – 搖滾之王
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20King%20Of%E2%80%93%20King%20Of%20King%20Of%。
 
-1985 年？  嘻哈/搖滾融合，搖滾和饒舌的開創性流行作品
+1985 年？  嘻哈/搖滾融合，搖滾和饒舌的開創性和流行作品
 
 #### 曲目表
 ```md

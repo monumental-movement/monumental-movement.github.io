@@ -14,7 +14,7 @@ title: 安德魯麥克勞克蘭 – 愛情故事
 ---
 
 
-Andrew McLauchlanは、スコットランド出身のプロデューサー 。1998年にDan MarchとレーベルFigment(フィグメント)を設立。
+安德魯·麥克勞克蘭 (Andrew McLauchlan) 是一位來自蘇格蘭的製片人。 1998年，他與 Dan March 創立了 Figment 品牌。
 
 《Love Story》被稱為安德魯·麥克勞克蘭 (Andrew McLauchlan) 的傑作，最初於 1999 年在 Figment 合輯《Chorusline EP》中發行，並於 2000 年獲得英國著名唱片公司 Bush 的授權和混音後重新發行。
 

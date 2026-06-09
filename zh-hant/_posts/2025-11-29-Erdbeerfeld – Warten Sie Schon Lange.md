@@ -12,7 +12,7 @@ tags:
 - Synth-pop
 - Tech House
 - 00s
-title: Erdbeerfeld – Warten Sie Schon Lange?
+title: Erdbeerfeld – Warten Sie Schon Lange？
 ---
 
 
@@ -20,7 +20,7 @@ Erdbeerfeld 是由聲音藝術家 Susanne Feld 和採樣藝術家 Sascha Wild �
 
 「沃滕·謝·舍恩·蘭格？」是德國唱片公司 Hal 9000 於 2005 年發行的一首電子/合成流行/Tech House 曲目。由 Kompakt 發行。
 
-A2 是活躍於 90 年代法蘭克福俱樂部舞台的德國電子音樂家 Hal 9000 (Falk Meinunger) 和 DJ/製作人 Sylvie Marks 的混音版。
+A2 是活躍於 90 年代法蘭克福俱樂部場景的德國電子音樂家 Hal 9000 (Falk Meinunger) 和 DJ/製作人 Sylvie Marks 的混音版。
 
 #### 曲目表
 ```md

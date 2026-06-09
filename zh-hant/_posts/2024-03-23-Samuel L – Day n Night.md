@@ -10,13 +10,13 @@ tags:
 - Techno
 - Anthem
 - 00s
-title: Samuel L – Day n' Night
+title: 塞繆爾·L——日夜
 ---
 
 
 Samuel L 是一位瑞典部落 techno DJ 和製作人。 「Day n' Night」是一首由他經營的 SSL 於 2001 年發行的電子曲目。
 
-収録曲「Merengue」は、2002年にSlamやOliver Hoによりリミックスされクラブヒットになりました。
+歌曲《Merengue》於2002年由Slam和Oliver Ho重新混音，成為俱樂部熱門歌曲。
 
 這首歌代表了自 1999 年底特律 techno 歌曲《Knights Of The Jaguar》發行以來 techno 場景的變化，體現了底特律 techno 的典型聲音，以強勁的低音線、硬節奏和迷幻元素為特徵。
 
@@ -39,7 +39,7 @@ B1. Outer Track. Whithin
 B2. Inner Track. Black On Black
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Zt2iGA89tc?si=tJeg7f_3hzYqydFP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

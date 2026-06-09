@@ -26,9 +26,9 @@ title: 拾取環境作品
 
 發佈時間：2012 年（美國品牌 Kimochi）
 
-フォーマット：限定200枚アルバム（Vinyl）
+形式：限量200張專輯（黑膠唱片）
 
-特徴：ディープなグルーヴと空間的なサウンドスケープを融合した作品 
+特色：深溝與空間音景結合的作品
 
 #### 曲目表
 ```md
@@ -92,9 +92,9 @@ D3. String Of Pearls
 <小時>
 
 ### Sanjiva – 流動喜悅的秘密房間
-<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%Flowa$
+<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%E2%80%93%20Secret%20Rooms%Flowaver%2009%(
 
-ジャンル：Ambient Electronic Techno
+類型： 環境電子技術
 
 發行時間：1996 年（九十六聲音）
 
@@ -127,7 +127,7 @@ B. Over Flowing Delight
 
 格式：12英寸
 
-特徴：デンマーク産の実験的アンビエント・トリップホップ作品。Luke Vibert（Wagon Christ）リミックスも収録 
+特色： 來自丹麥的實驗氛圍 Trip-hop 音樂。包括 Luke Vibert (Wagon Christ) 混音版
 
 #### 曲目表
 ```md
@@ -145,7 +145,7 @@ B2. A C Tractor
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -156,7 +156,7 @@ B2. A C Tractor
 ### 冷靜－來自太陽和地球的人們
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20FromSun%20The">ThewebromSun20Thearth%
 
-類型： 氛圍音樂 / 巴利阿里群島音樂
+類型： 環境音樂 / 巴利阿里群島音樂
 
 發佈時間：2023 年 10 月
 
@@ -182,8 +182,8 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 <小時>
 
-### David Donohoe – Nature Morte!
-<a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webonohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
+### 大衛多諾霍 – Nature Morte！
+<a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webonohoe%20%E2%80%93%20Nature%20Morte.webp">
 
 類型：環境/最小
 

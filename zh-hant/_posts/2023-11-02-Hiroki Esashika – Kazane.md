@@ -13,9 +13,9 @@ title: 江鹿弘樹 – Kazane
 ---
 
 
-Hiroki Esashika(ヒロキ・エサシカ)は、90年代から活動する日本のテクノミュージシャン・DJ。
+Hiroki Esashika 是一位日本 techno 音樂家和 DJ，自 90 年代以來一直活躍。
 
-2000年から2007年までは、札幌のクラブPLASTIC THEATERでDJ TANAKAと共にTECHNO PARTY "ORANGE"を主催していた。
+2000年至2007年，他與DJ TANAKA在札幌俱樂部PLASTIC THEATER主持了TECHNO PARTY「ORANGE」。
 
 《Kazane》於 2005 年在 Intec Records（由 Carl Cox 和 DJ C1 於 1998 年創立的科技唱片公司）發行，是 Hiroki Esashika 的傑作，並成為俱樂部熱門歌曲。
 

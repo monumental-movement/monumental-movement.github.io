@@ -10,15 +10,15 @@ tags:
 - House
 - Future Jazz
 - 00s
-title: Tim Hutton – Been A Fool
+title: 提姆赫頓 – 一直是個傻瓜
 ---
 
 
-Tim Hutton(ティム・ハットン)は、UKのプロデューサー、ソングライター、マルチインストゥルメンタリスト。Thomas Melchiorとの実験的なテクノデュオVulva、Yoniなどでも活動している。
+蒂姆·赫頓 (Tim Hutton) 是一位英國製作人、詞曲作者和多樂器演奏家。他還與 Thomas Melchior 一起活躍於實驗性技術二人組 Vulva 和 Yoni。
 
 《Been A Fool》是一首 2000 年發行的浩室未來爵士曲目。
 
-B 面的第一首歌是英國嘻哈樂團 The Nextmen 的混音版，他們曾為 Public Enemy、Pharcyde、Blackalicious 等樂團創作混音版。
+B面的第一首歌是英國嘻哈樂團 The Nextmen 的混音版，他們曾混音過《Public Enemy》、《Pharcyde》和《Blackalicious》等歌曲。
 
 #### 曲目表
 ```md

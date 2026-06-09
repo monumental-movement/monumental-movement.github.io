@@ -33,7 +33,7 @@ O'Yaba 是一個由 8 人組成的南非雷鬼樂隊，由 Tshidiso Alexis Faku 
 11. One Foundation
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m11032207979?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m11032207979?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jGSubnLrcIc?si=lPY_UAKOr8ZgkQ3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

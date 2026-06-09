@@ -9,11 +9,11 @@ permalink: /zh-hant/accept-russian-roulette/
 tags:
 - Heavy Metal
 - Rock
-title: 接受 – 俄羅斯輪盤賭
+title: Accept – Russian Roulette
 ---
 
 
-《Accept – Russian Roulette》是德國重金屬樂團Accept的一張專輯。這張專輯是樂團的第七張錄音室專輯，發行於1986年。
+「Accept – Russian Roulette」は、ドイツのヘヴィメタルバンドであるAccept（アクセプト）のアルバムです。このアルバムは、1986年にリリースされた7枚目のスタジオアルバムです。
 
 這張專輯以其沉重的吉他連複段、有力的歌聲和充滿活力的鼓聲而聞名。
 

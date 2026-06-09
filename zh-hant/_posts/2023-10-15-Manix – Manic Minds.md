@@ -23,7 +23,7 @@ Synth：模組化擴充 - 立方體
 聲樂/刮擦：叢林兄弟 - 吉米的獎勵節拍。
 演唱：謝麗爾林恩 - 安可。
 
-軌道艾伊
+Track Aii
 
 鋼琴：奇異公司 - 玩刀。
 嘟嘟聲：恐懼的眼淚 - 瘋狂的世界。
@@ -45,7 +45,7 @@ AAi. Feel Real Good
 AAii. Can't Tech No More
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

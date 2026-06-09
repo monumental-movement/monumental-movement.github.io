@@ -170,7 +170,7 @@ title: 挑選Outlaw的作品
 
 類型： Acid / Techno / Trance
 
-簡介： 發行於 1992 年，是 Tresor 早期的精彩合輯。这是一件体现“家庭回声”的历史作品。
+簡介： 1992 年發行，是 Tresor 早年的精彩合輯。這是體現「家庭迴響」的歷史作品。
 
 
 亡命之徒的感覺：關於城市社區即興創作和圍繞場景誕生的黑暗鬥爭的記憶。
@@ -201,7 +201,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 
 
 ### Benga & Walsh vs Darqwan – 癮君子/大保護
-<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%2000%)>
+<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%200%>
 
 格式：黑膠唱片/CD
 
@@ -229,7 +229,7 @@ B. Darqwan–Megatection
 <br>
 
 
-### Zed Bias – Ambush Riddim / Cosmic Minefield
+### Zed Bias – 伏擊 Riddim / 宇宙雷區
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%2050Bias%20%E2%80%93%20Ambush%2030Bias%2000)>
 
 格式：乙烯基

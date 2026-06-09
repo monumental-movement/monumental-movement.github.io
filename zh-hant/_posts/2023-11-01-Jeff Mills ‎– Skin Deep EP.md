@@ -14,7 +14,7 @@ title: Jeff Mills – Skin Deep EP
 ---
 
 
-「Call Of The Wild」採樣了麥可傑克森 1979 年專輯「Off The Wall」中「Get on the Floor」的打擊樂休息部分。
+「Call Of The Wild」のサンプリングは、マイケル・ジャクソンの 1979年のアルバム「Off The Wall」に収録されている「Get on the floor」のパーカッションブレイク。
 
 一首強大而時髦的曲目，是一首經典的技術曲目。
 

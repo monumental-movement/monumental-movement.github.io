@@ -10,11 +10,11 @@ tags:
 - Future Jazz
 - Downtempo
 - 00s
-title: Ralph Myerz & The Jack Herren Band – 一張特別 EP
+title: Ralph Myerz & The Jack Herren Band – A Special EP
 ---
 
 
-Ralph Myerz 和 Jack Herren Band 是一支挪威電子/嘻哈樂隊/製作人，自 1997 年以來一直活躍。
+Ralph Myerz and the Jack Herren Bandは、1997年から活動するノルウェーのエレクトロニカ/ヒップホップグループ/プロデューサー。
 
 《A Special EP》是洛杉磯唱片公司Emperor Norton 於2002 年發行的一首Future Jazz/Downtempo 曲目。
 

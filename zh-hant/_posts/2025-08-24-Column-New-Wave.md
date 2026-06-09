@@ -56,7 +56,7 @@ Joy Division 和 The Cure 追求黑暗、實驗性的聲音，而 Duran Duran �
 
 ---
 
-- **社会批評とアイロニー**
+- **社會批判與諷刺**
 
 歌詞反映了城市生活的異化、冷戰焦慮以及對科技社會的諷刺。德沃諷刺的表演就是這一點的象徵。
 
@@ -116,7 +116,7 @@ Joy Division 和 The Cure 追求黑暗、實驗性的聲音，而 Duran Duran �
 
 但這種精神卻被傳承給了下一代：
 
-- **另類搖滾**（R.E.M.、The Smiths、後來的 Nirvana）
+- **オルタナティブ・ロック**（R.E.M.、The Smiths、後のNirvana）
 
 - **合成流行音樂/電子流行音樂**（Depeche Mode、現代 CHVRCHES、Grimes 之後）
 

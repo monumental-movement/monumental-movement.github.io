@@ -11,13 +11,13 @@ tags:
 - Deep House
 - House
 - 00s
-title: DJ Chus 和 David Penn 的壯舉。卡特琳娜-拜拉
+title: DJ Chus And David Penn Feat. Caterina – Baila
 ---
 
 
-由以“Hey Hey”而聞名的美國 house DJ 和製作人 Dennis Ferrer 對 DJ Chus 和 David Penn 的著名歌曲“Baila”進行混音。
+DJ Chus&David Pennの名曲「Baila」を「Hey Hey」で有名なUSハウスDJ＆プロデューサーDennis Ferrer(デニス・フェラー)がremix。
 
-一首部落浩室/深屋曲目，由著名的英國舞曲音樂廠牌 Defected 於 2003 年發行。
+UKの名門ダンスミュージックレーベルDefectedから2003年にリリースされたトライバルハウス・ディープハウストラック。
 
 
 #### 曲目表
@@ -30,7 +30,7 @@ That Side
 AA1.Baila (Peter "Tha Zouk" & Bruno Marciano Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdks0tZnUs4?si=C5CQdGWESB1NuhDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

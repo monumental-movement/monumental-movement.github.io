@@ -54,7 +54,7 @@ Happy Hardcore 誕生於 20 世紀 90 年代初期的英國銳舞界。
 
 海外粉絲認可“歡樂硬核+動漫”的公式為“日本”，並支持將其重新導入。
 
-#### ダンスゲーム文化（BEMANI・DDR）
+#### 舞蹈遊戲文化（BEMANI/DDR）
 
 Konami 的 [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) 和 [beatmania IIDX 系列](https://amzn.to/46ic1ta) 中收錄了許多歡樂的硬蕊歌曲。
 
@@ -72,7 +72,7 @@ Konami 的 [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) 和 [beatmani
 
 ### 文化關鍵字
 
-- **卡哇伊**：反映日本「卡哇伊文化」的快速流行旋律。
+- **卡哇伊**：快速、流行的旋律反映了日本的「卡哇伊文化」。
 
 - **禦宅族文化**：與動漫、同人誌和秋葉原俱樂部文化直接相關。
 

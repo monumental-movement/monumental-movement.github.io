@@ -42,8 +42,8 @@ color: #fff;
 
 
 Leftfield是一個具有雙重意義的字。
-1. UKのデュオ、Neil Barnes & Paul Daleyによるプロジェクト。  
-2. 這種表達方式指的是超越流派界限的實驗性和智力舞曲音樂。
+1. 英國二人組 Neil Barnes 和 Paul Daley 的專案。
+2. 這種表達方式指的是超越流派界限的實驗性和智力舞曲。
 
 ---
 
@@ -64,7 +64,7 @@ Leftfield是一個具有雙重意義的字。
 |------------------------|------------------------|----------------|----------------|
 | 1995 |左場 – *左派* |電子音樂的里程碑| [亞馬遜](https://amzn.to/4gEiHVR) |
 | 1999 |地下世界 – *美麗的魚* |延續 Leftfield 的實驗精神 | [亞馬遜](https://amzn.to/4ndPTG9) |
-| 2001 | Four Tet – *Pause* | 新しいLeftfieldの地平を提示 / Opened a new horizon of Leftfield sound | [Amazon](https://amzn.to/48tSRSk)  |
+| 2001 |四歲春節 – *暫停* |開啟Leftfield聲音新視野| [亞馬遜](https://amzn.to/48tSRSk) |
 
 ---
 
@@ -101,7 +101,7 @@ Q2。 Leftfield 和 Trip Hop 有什麼不同？
 
 A. Trip-hop 以 downtempo 為基礎，而 Leftfield 以 house/techno 為基礎，結合了 world 和 dub。
 
-Q3。您对初学者有什么建议？
+Q3。您對初學者有什麼建議？
 
 答：「左派」是最好的起點。
 

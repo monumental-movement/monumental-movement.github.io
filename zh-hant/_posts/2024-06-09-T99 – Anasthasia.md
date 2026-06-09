@@ -20,7 +20,7 @@ T99 最初是 Patrick De Meyer 的個人項目，但在 Patrick 聽到 Olivier A
 
 《Anastasia》是 XL Recordings 於 1991 年發行的一首 techno Breakbeat 硬蕊曲目，XL Recordings 是一家發行銳舞和舞曲音樂的英國獨立唱片公司。
 
-Side AA 是 Nick Halkes 和 Richard Russell 的混音版。
+AA面は、 Nick HalkesとRichard Russellによるremix。
 
 #### 曲目表
 ```md

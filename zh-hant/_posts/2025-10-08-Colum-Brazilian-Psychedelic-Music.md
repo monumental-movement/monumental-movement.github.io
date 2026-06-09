@@ -63,7 +63,7 @@ Os Mutantes 特別創新。 **塞爾吉奧·迪亞茲**的法茲吉他、**麗�
 當時錄音室**Phonogram Studios (Rio)**無法獲得西方製造的多軌設備，因此他們採用了將兩軌錄音機分層的手工方法。
 這種限制是造成獨特的「流血」聲像的原因。特別是 Os Mutuntes 的工程師 **Arnaldo Baptista** 建構了自己的模糊電路，並巧妙地波動音高，重現了南美特有的幻覺漂浮感。
 
-另一個重要的創新是民族樂器和電子聲音的融合。將 cavaquinho 和 Bell imbau 等本土聲音與 Moog 合成器和反向磁帶結合，巴西音樂擴展到「迷幻熱帶」。
+另一個重要的創新是民族樂器和電子聲音的融合。將 cavaquinho 和 Bell imbau 等本土聲音與 Moog 合成器和反向磁帶相結合，巴西音樂被擴展到「迷幻的熱帶地區」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6ZQcOZ4FJg?si=l5wWpYMS3fpaeGiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -71,9 +71,9 @@ Os Mutantes 特別創新。 **塞爾吉奧·迪亞茲**的法茲吉他、**麗�
 
 ## 第三章：地下熱潮－壓抑與創造的交叉點
 
-20 世紀 70 年代，許多 Tropicália 的核心人物都被放逐。然而，音樂之火轉入地下，並在當地蓬勃發展。聖保羅的學生樂隊和巴伊亞當地的廣播電台繼續透過盒式磁帶網路分享聲音。
+20 世紀 70 年代，許多 Tropicália 的核心人物都被放逐。然而，音樂之火轉入地下，並在當地蓬勃發展。聖保羅的學生樂隊和巴亞當瑞地廣播電台繼續透過卡式錄音帶網路分享聲音。
 
-另一方面，總部位於米納斯吉拉斯州的 **Clube da Esquina** 出現。 Milton Nascimento 和 Lo Borges 於 1972 年推出的專輯《Clube da Esquina》是一張融合了迷幻、民謠和 MPB 之間界限的傑作，是「安靜之旅」的縮影。
+另一方面，總部位於米納斯吉拉斯州的 **Clube da Esquina** 出現。 Milton Nascimento 和 Lo Borges 於 1972 年推出的專輯《Clube da Esquina》是融合了迷幻、民謠和 MPB 之間界限的傑作，是「安靜之旅」的縮影。
 
 ---
 
@@ -89,12 +89,12 @@ Os Mutantes 特別創新。 **塞爾吉奧·迪亞茲**的法茲吉他、**麗�
 
 ---
 
-## 第5章：ライブ評 — 熱帯のトランス体験
+## 第五章：現場回顧－熱帶恍惚體驗
 
 2018 年，布加林樂團 (The Boogarins) 在聖保羅 Cine Joia 的演出讓熱帶風情的幽靈復活了。
 舞台後面是熱帶植物的移動影像、給你一種潮濕感的燈光和無盡的吉他嗡嗡聲。觀眾沒有跳舞，而是**「漂浮」**，沉浸在聲音中。
 
-《路西法南迪斯》的加演，營造出如同變種人第二次降臨般的混亂聲音，觀眾的歡呼聲震動空氣。
+《路西法南迪斯》的加演，營造出宛如變種人第二次降臨的混亂聲音，觀眾的歡呼聲震動空氣。
 音響工作人員使用模擬磁帶迴聲將整個大廳變成了幻覺混響的海洋。
 
 ---
@@ -123,7 +123,7 @@ flowchart TD
 |藝術家 |標題 |年份|連結 |
 |----------------|---------|----------------|----------------|
 |突變體 |熱帶：ou Panis et Circencis | 1968 | [亞馬遜](https://amzn.to/46LWn9K) |
-| Caetano Veloso | Caetano Veloso | 1969 | [Amazon](https://amzn.to/3IAc2Qc) |
+|卡埃塔諾·維羅索 |卡埃塔諾·維羅索 | 1969 | [亞馬遜](https://amzn.to/3IAc2Qc) |
 |吉爾伯托吉爾 |特快 2222 | 1972 | [亞馬遜](https://amzn.to/3WuzFg5) |
 |米爾頓·納西門托 & 洛·博爾赫斯 |埃斯基納俱樂部 | 1972 | [亞馬遜]https://amzn.to/4n2waIJ) |
 |布加林 |手冊| 2015 | 2015 [亞馬遜](https://amzn.to/3KIiftN) |
@@ -131,7 +131,7 @@ flowchart TD
 
 ---
 
-## 最終章：未來的願景－迷幻繼續
+## 最後一章：未來的願景－迷幻繼續
 
 半個世紀後，Tropicalia 的精神仍在不斷演變。透過數位錄音、人工智慧生成的音樂和視覺藝術的融合，巴西藝術家正在創造「新的幻覺」。
 這不是逃避現實，而是重建現實。

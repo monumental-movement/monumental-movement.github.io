@@ -9,11 +9,11 @@ permalink: /zh-hant/dismissed-test-tube-baby/
 tags:
 - Breaks
 - 00s
-title: 被解僱－試管嬰兒
+title: Dismissed – Test-Tube Baby
 ---
 
 
-*單面
+※單面
 
 Torsten Knuth，也被稱為 Dismissed，是一位德國 DJ/製作人，以 DJ Schlumpf 和 Raul Rincon 等不同名字工作。
 

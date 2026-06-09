@@ -16,9 +16,9 @@ title: Junior Wells 和 Buddy Guy – 1975 年 3 月在 Yuhbin-Chokin Hall 進�
 
 這是由 Junior Wells 和 Buddy Guy 在郵政儲蓄大廳現場錄製的。
 
-Buddy 和 Junior 都展示了他們作為領導者的技能，並在整張專輯中表現得非常活躍。
+Buddy 和 Junior 都展現了他們作為領導者的技能，並在整張專輯中表現得非常活躍。
 
-ブルース好きなら絶対に見逃せないLP2枚組です。
+這套 2 張唱片是藍調樂迷必看的作品。
 
 
 #### 曲目表

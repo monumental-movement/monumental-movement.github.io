@@ -13,7 +13,7 @@ title: 黃色魔法管弦樂團 – X∞Multiplies
 ---
 
 
-1980年7月にA&Mレコードよりアメリカで発売されたYMOのベストアルバム「
+YMO 的最佳專輯於 1980 年 7 月由 A&M Records 在美國發行。
 黃色魔幻管弦樂團 – 多重」。
 
 日文版本是[這裡](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
@@ -37,7 +37,7 @@ B3. Citizens Of Science
 
 B4. Solid State Survivor
 ```
-[メルカリで購入](https://jp.mercari.com/item/m67524717160?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m67524717160?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DskuDtfOG1c?si=1w4mbCL_5K0Twf0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

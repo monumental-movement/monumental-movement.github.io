@@ -9,7 +9,7 @@ permalink: /zh-hant/mad-max-rollin-thunder/
 tags:
 - Heavy Metal
 - Hard Rock
-title: 瘋狂的麥斯 – 滾雷
+title: 《瘋狂麥斯》——羅林雷霆
 ---
 
 

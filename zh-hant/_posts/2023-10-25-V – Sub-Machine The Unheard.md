@@ -10,7 +10,7 @@ tags:
 - IDM
 - Indie Rock
 - 7inch
-title: V – Sub-Machine The Unheard
+title: V – 聞所未聞的子機器
 ---
 
 

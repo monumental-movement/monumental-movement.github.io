@@ -9,11 +9,11 @@ permalink: /zh-hant/ray-okpara-blues-me-blues/
 tags:
 - House
 - Minimal
-title: Ray Okpara – Blues Me Blues
+title: 雷·奧克帕拉 – Blues Me Blues
 ---
 
 
-Ray Okparaはナイジェリアにルーツを持つハウス・テクノ DJ兼プロデューサーです。「Blues Me Blues」は、彼の代表作の一つで、彼の独自のスタイルと音楽的な表現力が際立っています。
+Ray Okpara 是一位擁有尼日利亞血統的 house techno DJ 和製作人。 《Blues Me Blues》是他的代表作之一，凸顯了他獨特的風格和音樂表現力。
 
 《Blues Me Blues》融合了雷·奧克帕拉標誌性的聲音，如將緊湊的節奏與浩室音樂精髓相結合的黑暗而迷人的氛圍、律動的節拍、共鳴的低音線、獨特的採樣和效果，以及藍調的元素，情感的表達和旋律貫穿整首歌。
 

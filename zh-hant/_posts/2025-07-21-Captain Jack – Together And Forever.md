@@ -15,7 +15,7 @@ title: 傑克船長－永遠在一起！
 ---
 
 
-Captain Jack(キャプテン・ジャック)は、90年代のユーロダンスシーンを代表するドイツ・ケルンのダンスプロジェクト。初期メンバーは、プロデューサーUdo NiebergallとRichard Witte。90年代の全ての有名なフェスティバルのヘッドライナーを務め盛り上げたパーティーメーカー。
+Captain Jack 是來自德國科隆的一個舞蹈項目，代表了 90 年代的歐洲舞蹈場景。最初的成員是製片人 Udo Niebergall 和 Richard Witte。一位派對製造者，曾在 90 年代的每個著名節日中擔任主角。
 
 「永遠在一起！」是一首 Eurodance、Euro House 曲目，於 1997 年在 EMI 德國舞蹈子廠牌 - Cologne Dance Label (CDL) 上發行。
 

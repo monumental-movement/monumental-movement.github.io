@@ -14,7 +14,7 @@ title: Kraftwerk – 混合
 ---
 
 
-Kraftwerk(クラフトワーク)は、1970年にラルフ・ヒュッターとフロリアン・シュナイダーによって
+Kraftwerk 由 Ralf Hütter 和 Florian Schneider 於 1970 年創立。
 德國電子科技樂隊。他是krautrock的代表人物，也被稱為techno-hop的先驅。
 
 這張專輯由EMI於1991年發行，是Kraftwerk的第10張錄音室專輯。這是對 Kraftwerk 專輯《Autobahn》（1974 年）和《Electric Café》（1986 年）中精選歌曲的完全重新編排和重新錄製的版本，其中《The Robots》和《Radioactivity》等歌曲採用了新的旋律和歌詞。

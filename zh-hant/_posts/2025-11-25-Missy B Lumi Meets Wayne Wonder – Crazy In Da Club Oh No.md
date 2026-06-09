@@ -24,4 +24,4 @@ A. Missy B. – Crazy In Da Club (Main Mix)
 B. Lumi Meets Wayne Wonder – Oh No (Main Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35948441813?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m35948441813?afid=6142608987){: .button1}

@@ -13,7 +13,7 @@ title: Finesse A2r – Whylin Fools 和 P.R. Pride
 ---
 
 
-AV8 Records 發行的嘻哈曲目，該唱片公司是一家以發行 Armand Van Helden 的重要作品而聞名的浩室/嘻哈唱片公司。
+AV8 Records 發行的嘻哈曲目，AV8 Records 是一家以發行 Armand Van Helden 的重要作品而聞名的浩室/嘻哈唱片公司。
 
 #### 曲目表
 ```md

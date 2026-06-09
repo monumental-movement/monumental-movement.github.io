@@ -20,7 +20,7 @@ Steve Rachmad，也稱為 Sterac Electronics，是一位來自阿姆斯特丹的
 
 Sterac Electronics 推出的風格主要集中在電子、放克和 80 年代迪斯科風格，所有這些風格都廣受好評。
 
-《Keep On Running》是一首由比利時廠牌 Music Man Records 於 2003 年發行的 Techno/Electro/Indie Dance 歌曲。
+「Keep On Running」は、2003年にベルギーのレーベルMusic Man RecordsからリリースされたTechno／Electro／Indie Dance。
 
 
 #### 曲目表

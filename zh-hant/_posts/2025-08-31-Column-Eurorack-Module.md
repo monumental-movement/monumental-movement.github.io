@@ -15,7 +15,7 @@ title: 【專欄】Eurorack模組化合成器的變化及其對樂壇的影響
 ---
 
 
-## 「無限に広がる音のレゴブロック」
+## “具有無限聲音的樂高積木”
 
 文：mmr｜主題：Eurorack 模組化合成器的變化及其對樂壇的影響
 
@@ -39,7 +39,7 @@ Eurorack 比傳統的 Moog 和 Bucla 更小、更實惠，獲得了許多音樂�
 
 ---
 
-#### Intellijel（インテリジェル）
+#### 英特爾利耶爾
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

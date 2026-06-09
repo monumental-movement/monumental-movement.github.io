@@ -19,7 +19,7 @@ title: 拾取噪音音樂作品
 ### Merzbow – Merzbird
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-- **背景**：日本ノイズの最重要人物Merzbow。2004年、Important Recordsからの作品で、鳥類タイトルの曲群が並ぶ時期の一枚。  
+- **背景**：Merzbow 是日本噪音中最重要的人物。這張專輯於 2004 年在重要唱片公司發行，是鳥類主題歌曲排列時期的專輯之一。
 - **亮點**：高密度頻段改變的「聲音洪流」。決定性的一擊，讓您體驗噪音的「雕塑本質」。
 
 #### 曲目表
@@ -107,7 +107,7 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webMy%</a>
 
 
-- **背景**：Masaya Nakahara 的发型设计。 7 吋型號於 1999 年發布，至今仍引領實驗和噪音環境。
+- **背景**：Masaya Nakahara 的髮型設計。 7 吋型號於 1999 年發布，至今仍引領實驗和噪音環境。
 - **亮點**：短版包含剪輯的感覺和噪音過大的瞬間最大風速。非常適合初學者和收藏。
 
 #### 曲目表
@@ -141,7 +141,7 @@ B2  Shoot
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -151,7 +151,7 @@ B2  Shoot
 
 
 
-### Tipsy – Nude On The Moon / Space Golf
+### 醉意 – 月球上的裸體 / 太空高爾夫
 <a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20%20GolfGolf.Space>
 
 - **背景**：舊金山休息室拼貼二人組。抽象/旅行跳躍/實驗/噪音元素的混合。
@@ -212,8 +212,8 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 - **如果你想從皇家咆哮進入** *Merzbird*/Naked Rally's。
 - 如果您想體驗俱樂部環境中的噪音質感，請嘗試「吸煙殺人」。
-- **コラージュ的アプローチ**なら Hair Stylistics／Tipsy／WXBD。  
-- **自作派**は Eurorackコラムで機材の当たりをつけてから試聴へ。  
+- **對於拼貼方法**髮型/Tipsy/WXBD。
+- 如果您是**白手起家的人**，請在嘗試之前查看 Eurorack 專欄以了解有關設備的資訊。
 
 ---
 

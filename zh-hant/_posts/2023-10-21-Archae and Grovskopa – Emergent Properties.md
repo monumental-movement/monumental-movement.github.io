@@ -9,7 +9,7 @@ permalink: /zh-hant/archae-and-grovskopa-emergent-properties/
 tags:
 - Techno
 - Industrial
-title: Archae 和 Grovskopa – Emergent Properties
+title: Archae and Grovskopa – Emergent Properties
 ---
 
 

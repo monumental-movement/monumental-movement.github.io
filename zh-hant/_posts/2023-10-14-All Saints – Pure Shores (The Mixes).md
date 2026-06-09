@@ -15,7 +15,7 @@ title: 所有聖人 - 純淨海岸（混合）
 
 A 面的第一首曲目是英國 DJ/製作人/聲音設計師 Tom Middleton（也稱為 Cosmos）的混音版。
 
-A面２曲目はOutlaw Posse、Brothers Like Outlawの元メンバーK-GeeことKarl Clive Gordonによるremix。
+A 面的第二首歌曲是由 Karl Clive Gordon（又名 K-Gee）混音而成，他是 Outlaw Posse 和 Brothers Like Outlaw 的前成員。
 
 B 面是英國唱片製作人和混音工程師 Mark Stent 的混音作品，他曾與許多國際藝術家合作過，包括 Marshmello、U2、Beyoncé、Björk、Depeche Mode、Echo & the Bunnymen、Grimes 和 Ed Sheeran。
 

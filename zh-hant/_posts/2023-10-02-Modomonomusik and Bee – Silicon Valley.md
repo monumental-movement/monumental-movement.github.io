@@ -9,7 +9,7 @@ permalink: /zh-hant/modomonomusik-and-bee-silicon-valley/
 tags:
 - Techno
 - Minimal
-title: Modomonomusik and Bee – Silicon Valley
+title: Modomonomusik 和 Bee – 矽谷
 ---
 
 

@@ -13,7 +13,7 @@ title: 頻道 X – 如此之高
 ---
 
 
-Channel X （チャンネルX）は、ベルギーのプロダクショントリオraga Khan (Maurice), Jade 4U (Nikkie) and Oliver Adams (Oliver) ＝「M.N.O」の別名義。
+通道 X（通道
 
 #### 曲目表
 ```md

@@ -22,7 +22,7 @@ title: 【專欄】Vaportrap/Cloud Rap的歷史與發展
 
 Cloud Rap 興起於 2010 年左右，以灣區和美國地下互聯網為中心，在與後蒸汽波亞文化美學、Chopped & Screwed、Lo-Fi Hip-Hop 和現代情緒說唱相結合的同時發展。特別是，**Lil B**、**Clams Casino** 和 **Main Attrakionz** 的活動象徵著早期，形成了後來形成 **Lil Peep**、**XXXTENTACION**、**Bones** 和 **Yung Lean** 的血統基礎。
 
-Cloud Rap 遠比傳統 Hip Hop 更環境化，特點是更環境化的聲音、強烈混響的人聲處理、帶有空間 FX 的夢幻質感，後來演變為 Vaportrap，吸收了電子音樂和類似 Vaporwave 的 meme 文化。
+Cloud Rap 遠比傳統 Hip Hop 更環境化，特點是更環境化的聲音、強烈混響的人聲處理、帶有空間 FX 的夢幻質感，後來演變為 Vaportrap，吸收了電子音樂和 Vaporwave meme 文化。
 
 
 ---
@@ -43,9 +43,9 @@ color: #fff;
 
 ## 一、Cloud Rap之前的準備步驟（2000-2008）
 
-### ● ネット発ヒップホップとミックステープ文化
+### ● 源自網路的嘻哈與混音帶文化
 
-2000 年代末，MySpace 和 DatPiff 擴展了網路發行的混音帶文化，允許不受地理限制的協作。這成為了 Cloud Rap「從地理中解放出來」的土壤。
+2000 年代末，MySpace 和 DatPiff 擴展了網路發行的混音帶文化，允許不受地域限制的協作。這成為了 Cloud Rap「從地理中解放出來」的土壤。
 
 ### ● 切斷和擰緊的影響
 
@@ -55,7 +55,7 @@ color: #fff;
 
 ## 二. Cloud Rap的組成（2009-2012）
 
-### ●Lil B及Based World文化區
+### ●Lil B與Based World文化區
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYfceJhgvRM?si=Ok7zKwZ_Q9mI5Vp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -21,7 +21,7 @@ title: 配音俱樂部 – 爆發
 
 
 「爆發」是
-這是 The Dub Club 的一張 EP，也是 Nathanael Heres 的一個項目，於 1994 年在荷蘭廠牌 Urban Sound OfAmsterdam 上發行。
+這是 The Dub Club 的一張 EP，也是 Nathanael Heres 的一個項目，於 1994 年在荷蘭廠牌 Urban Sound Of Amsterdam 發行。
 
 
 #### 曲目表

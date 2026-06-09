@@ -9,7 +9,7 @@ permalink: /zh-hant/clivilles-and-cole-pride-in-the-name-of-love/
 tags:
 - House
 - 90s
-title: Clivilles and Cole – Pride (In The Name Of Love)
+title: 克利維爾斯和科爾－驕傲（以愛之名）
 ---
 
 

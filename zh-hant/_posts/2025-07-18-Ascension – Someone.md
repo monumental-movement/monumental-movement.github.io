@@ -15,9 +15,9 @@ title: 揚升——某人
 
 Ascension 是英國舞曲音樂製作人 Rick Simmonds 和 Stephen Jones 的一個項目。
 
-《Someone》是一首 trance 歌曲，由英國 Trance & House 廠牌 Code Blue 於 2000 年發行。
+「Someone」は、UKのTrance & HouseレーベルCode Blueから2000年にリリースされたトランストラック。
 
-Aは、Thrillseekers ことUK Trance DJ&プロデューサーSteve Helstripによるリミックス。
+A 是英國 Trance DJ 和製作人 Steve Helstrip（又名 Thrillseekers）的混音版。
 
 B 是英國電子舞曲 (EDM) 二人組 Binary Finaly 的混音版。
 

@@ -21,7 +21,7 @@ title: 【專欄】改變我人生的「10秒聲音」－記憶中的聲音火�
 當你回顧自己的一生時，有時候，短短幾秒鐘的聲音就改變了你的想法、行動和你的餘生。
 它可以是一首歌的前奏、收音機中的一些噪音、你在俱樂部偶然聽到的即興重複段，或是某人晚上在街角哼唱的旋律。
 
-在本專欄中，我將以我自己的「10秒聲音」經驗為起點，探討聲音如何與記憶連結起來，塑造文化，影響我們的「生活方式」。
+在本專欄中，我將以我自己的「10秒聲音」經驗為起點，探討聲音如何與記憶連結起來，塑造文化，影響我們的生活方式。
 
 ---
 
@@ -39,7 +39,7 @@ color: #fff;
 </style>
 
 
-## 第一章 那10秒響起的那一刻──個人經驗的起源
+## 第一章 10秒響起的那一刻－個人經驗的起源
 
 
 10秒“健康與效率”。
@@ -47,7 +47,7 @@ color: #fff;
 
 那時我聽音樂只是作為帶有歌詞的情感表達。
 但這種有節奏的重複教會了我「結構勝於意義」的樂趣。
-音が「メッセージ」ではなく「空間」になりうることを、あの瞬間に知ったのだ。
+正是在那一刻，我意識到聲音可以是「空間」而不是「訊息」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYNEKwgkKE4?si=o3SjQ8uD3GeOIaPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ DJ 每隔 10 秒就會無意識地重新整理空間。
 每一刻都會重新調整地板的呼吸和能量。
 
 借用心理學家 Mihaly Csikszentmihalyi 提出的“心流理論”，
-この10秒単位の音的没入こそが、現代の“瞑想”でもある。
+這種 10 秒的聲音沉浸就是現代冥想的精髓。
 當人們跳舞時，他們將自己融入聲波中。
 
 ---

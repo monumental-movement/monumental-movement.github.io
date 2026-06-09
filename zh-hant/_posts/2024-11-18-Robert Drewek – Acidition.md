@@ -14,13 +14,13 @@ title: 羅伯特‧德雷維克 – Acidition
 ---
 
 
-Robert Drewek は、ドイツのフランクフルトに拠点を置くエレクトロニックミュージックディストリビューターDBH Musicのゼネラルマネージャー。Robin ScholzとのデュオRDRSとしても活動している。
+Robert Drewek 是 DBH Music 的總經理，該公司是一家位於德國法蘭克福的電子音樂發行商。他也與 Robin Scholz 一起作為 RDRS 組合活躍。
 
-「Acidition」は2005年にドイツのレーベルi220からリリースされたアシッドハウス・ミニマル・テックハウストラック。
+《Acidition》是德國廠牌 i220 於 2005 年發行的 Acid house 極簡科技 House 曲目。
 
-A面1曲目はKeno Recordsの創設者でありDJ・プロデューサーのDavid Kenoによるremix。
+Side A 上的第一首曲目是 Keno Records 創辦人、DJ 兼製作人 David Keno 的混音版。
 
-B面2曲目はChris Delay(別名Shooshine)によるremix 。
+B 面的第二首歌是 Chris Delay（又名 Shoeshine）的混音版。
 
 #### 曲目表
 ```md

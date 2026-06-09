@@ -15,7 +15,7 @@ title: 【專欄】Eurobeat與日本：緣何如此緊密？
 ---
 
 
-## 奇跡の邂逅「ユーロビート × パラパラ」
+## 奇妙的邂逅“Eurobeat x Parapara”
 
 文：mmr｜主題：舞蹈與音樂的同步性
 
@@ -76,11 +76,11 @@ Eurobeat 的根源是 20 世紀 80 年代誕生於義大利的「Italo Disco」�
 
 - 義大利製作的合輯系列，專供日本市場
 
-- パラパラフロアとCDショップを結ぶ“連動商品”
+- 連接ParaPara Floor和CD店的“聯動產品”
 
 - 編舞說明將印在夾克和小冊子上。
 
-● 與專門的 Eurobeat 廠牌簽約
+● 與Eurobeat獨家廠牌簽約
 
 Time、A-Beat C 和 Delta 等義大利唱片公司已與 avex 簽訂獨家合同，專門為日本市場製作音樂。
 
@@ -100,9 +100,9 @@ Time、A-Beat C 和 Delta 等義大利唱片公司已與 avex 簽訂獨家合同
 
 ● 媒體製作
 
-- テレビ番組や雑誌で“ギャルカリスマ”が振り付けを紹介
+- 「Gal Charisma」在電視節目和雜誌上引入編舞
 
-- 実質的に、ユーロビートがティーンのトレンドとしてメインストリームに
+- 事實上，Eurobeat 已成為青少年流行趨勢的主流。
 
 - “記住=一種參與儀式”，創造一種同儕壓力和團結感的文化。
 
@@ -113,13 +113,13 @@ Time、A-Beat C 和 Delta 等義大利唱片公司已與 avex 簽訂獨家合同
 ###  ParaPara 和網路文化的復興
 ● 2000 年代中期後：繁榮結束與地下化
 
-- 辣妹文化的變化、向手機和網路的過渡
+- ギャル文化の変化、携帯・ネットへの移行
 
 - 一些俱樂部繼續舉辦“復興活動”
 
 ● YouTube世代的“覺醒”
 
-- 過去の振り付け動画や曲がネットで共有されることで第2次パラパラブームが局地的に発生
+- 隨著過去的編舞影片和歌曲在網路上分享，第二次parapara熱潮在當地出現。
 
 - 也有海外粉絲像重新進口一樣被重新發現並獲得好評的現象。
 
@@ -145,7 +145,7 @@ Eurobeat 和 Parapara 不僅僅是音樂和舞蹈的結合。
 
 ### 相關專欄
 
- [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+[[專欄]頭文字D與Eurobeat之間的文化關係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
 [[專欄]頭文字D與音樂交叉的速度記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 

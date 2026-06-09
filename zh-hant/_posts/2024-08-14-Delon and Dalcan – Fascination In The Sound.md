@@ -9,7 +9,7 @@ permalink: /zh-hant/delon-and-dalcan-fascination-in-the-sound/
 tags:
 - Electro House
 - 00s
-title: Delon & Dalcan – Fascination / In The Sound
+title: Delon & Dalcan – 魅力 / In The Sound
 ---
 
 
@@ -25,4 +25,4 @@ A. Fascination
 B. In The Sound
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70720744795?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70720744795?afid=6142608987){: .button1}

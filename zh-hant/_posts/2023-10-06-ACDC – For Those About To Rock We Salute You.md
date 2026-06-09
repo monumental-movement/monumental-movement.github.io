@@ -9,11 +9,11 @@ permalink: /zh-hant/acdc-for-those-about-to-rock-we-salute-you/
 tags:
 - Rock
 - Hard Rock
-title: ACDC – For Those About To Rock We Salute You
+title: ACDC – 對於那些想要搖滾的人，我們向你致敬
 ---
 
 
-「For Those About to Rock We Salute You」は、AC/DCのアルバムとしては8枚目に当たる作品です。アルバムは、バンドのトレードマークとも言えるヘヴィなギターリフ、爆発的なドラムビート、そしてブライアン・ジョンソン（Brian Johnson）の力強いヴォーカルが特徴です。
+《For those About to Rock We Salute You》是 AC/DC 的第八張專輯。這張專輯以樂隊標誌性的重吉他連複段、爆炸性的鼓點和布萊恩·約翰遜強有力的歌聲為特色。
 
 這張專輯建立在他們上一張專輯《Back in Black》的成功基礎上，並延續了它的活力和榮耀。
 

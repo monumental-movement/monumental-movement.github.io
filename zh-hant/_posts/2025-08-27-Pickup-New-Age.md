@@ -18,7 +18,7 @@ title: 挑選新世紀作品
 <小時>
 
 ### 斯科基·羅斯——道之舞
-<a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20DDance%20Of%20Roth%20%E2%80%93%20D
+<a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%webp
 
 特色：斯科基·羅斯是一位專門從事治療、冥想、放鬆音樂和原聲爵士樂的作曲家，被認為是新時代精神音樂的先驅之一。
 
@@ -74,10 +74,10 @@ B3. Dance of Bamboo
 <a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></arip>
 
 
-特色：喜多郎在1970年代初作為日本前衛搖滾樂隊“遠東家庭樂隊”的成員演奏鍵盤，後來發展了獨奏生涯。
+特色：喜多郎在1970年代初作為日本前衛搖滾樂團「遠東家庭樂團」的成員演奏鍵盤，後來發展了獨唱生涯。
 
 
-魅力：シンセサイザーを駆使した幻想的な音世界が広がり、心地よいリラクゼーションを提供します。 
+魅力：使用合成器展開的夢幻般的聲音世界，提供舒適的放鬆。
 
 #### 曲目表
 ```md
@@ -95,7 +95,7 @@ B5. Astral Trip
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -169,7 +169,7 @@ B3. Transcendastral Voyage
 <br>
 
 
-### 東尼歐康納－隱密森林
+### 東尼歐康納－隱藏森林
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Fora.webp">
 
 特色：澳洲環境/放鬆音樂創作者 Tony O'Connor 於 1996 年創作的雙唱片。
@@ -199,7 +199,7 @@ B3. Transcendastral Voyage
 ### 森林深處 – 森林深處
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp">
 
-特色： 法國雙人組合 Deep Forest 於 1992 年發行的專輯。它的特點是混合了民族音樂、電子音樂、舞曲節拍和休閒節拍的世界音樂風格。
+特色： 法國雙人組合 Deep Forest 於 1992 年發行的專輯。它的特點是混合民族音樂、電子音樂、舞曲節拍和休閒節拍的世界音樂風格。
 
 魅力：融合多種民族音樂的聲音，帶你踏上不同文化的旅程。
 

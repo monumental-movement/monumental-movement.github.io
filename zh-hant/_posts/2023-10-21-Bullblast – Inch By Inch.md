@@ -9,7 +9,7 @@ permalink: /zh-hant/bullblast-inch-by-inch/
 tags:
 - House
 - Tech House
-title: Bullblast – Inch By Inch
+title: Bullblast – 一寸一寸
 ---
 
 

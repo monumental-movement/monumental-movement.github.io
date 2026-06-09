@@ -11,7 +11,7 @@ tags:
 - Minimal
 - Acid
 - 90s
-title: A. Crash and Brixton – Comrades From Cologne
+title: A. 克拉什和布里克斯頓－來自科隆的同志
 ---
 
 

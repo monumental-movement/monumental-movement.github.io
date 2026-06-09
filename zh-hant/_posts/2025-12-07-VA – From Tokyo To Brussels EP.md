@@ -9,7 +9,7 @@ permalink: /zh-hant/va-from-tokyo-to-brussels-ep/
 tags:
 - Techno
 - 00s
-title: VA – From Tokyo To Brussels EP
+title: VA – 從東京到布魯塞爾 EP
 ---
 
 

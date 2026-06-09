@@ -19,12 +19,12 @@ title: 挑選迴響貝斯作品
 <小時>
 
 ### Benga & Walsh VS Darqwan – 癮君子/大保護
-<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%2000%)>
+<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80and%20Walsh%20Vs%20Darqwan%20%E2%800%20%200%>
 
-特徴：異なるアプローチを持つ3名が各々の面を担当する、両極ともに魅力ある構成の1枚です。
+特點：由三個人以不同的方式負責各個方面，使這幅作品兩面都具有吸引力。
 
 
-魅力：Bengaによるベースの深さ、Walshのグルーヴ、Darqwanの独創性が、それぞれのトラックに光る。
+理由：Benga 的低音深度、Walsh 的律動和 Darqwan 的原創性在每首歌曲中都熠熠生輝。
 
 #### 曲目表
 ```md
@@ -86,7 +86,7 @@ B. Traffic (Goth-Trad Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
 
 #### Youtube

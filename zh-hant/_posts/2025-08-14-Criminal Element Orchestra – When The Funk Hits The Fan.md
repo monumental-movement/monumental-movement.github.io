@@ -15,7 +15,7 @@ title: 犯罪元素管弦樂團 – 當放克風潮襲來時
 
 Crime Element Orchestra 是 Arthur Baker 在 20 世紀 80 年代至 90 年代的電子/音樂/車庫專案的名稱。
 
-《When The Funk Hits The Fan》於1989年發行，收錄在同年發行的專輯《Locked Up》中。
+《When The Funk Hits The Fan》於1989年發行，並收錄在同年發行的專輯《Locked Up》中。
 
 《When the Funk Hits the Fan》被認為是新靈魂樂和電子放克的先驅，也是阿瑟·貝克的標誌性歌曲之一。
 

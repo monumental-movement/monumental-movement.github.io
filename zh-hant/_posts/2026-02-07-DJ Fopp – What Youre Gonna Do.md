@@ -10,14 +10,14 @@ tags:
 - Italo
 - House
 - 90s
-title: DJ Fopp – What You're Gonna Do
+title: DJ Fopp – 你要做什麼
 ---
 
 
 
 DJ Fopp (Fortunato Gallucci) 是一位來自義大利的製作人/DJ。他的混音作品包括《Delegation》、《Inaya Day》、《Robin S》、《Alfred Azzetto》、《Jamie Lewis》和《Michael Watford》。
 
-「What You're Gonna Do」は、1990年にイタリアのレーベルMedia RecordsのサブレーベルInsideからリリースされたItalo Houseトラック。
+《What You're Gonna Do》是 Italo House 的一首歌曲，於 1990 年在義大利廠牌 Media Records 的子廠牌 Inside 發行。
 
 #### 曲目表
 ```md

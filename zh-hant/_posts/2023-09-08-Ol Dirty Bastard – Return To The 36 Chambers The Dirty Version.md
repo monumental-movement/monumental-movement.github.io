@@ -9,7 +9,7 @@ layout: post
 permalink: /zh-hant/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/
 tags:
 - Hiphop
-title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
+title: 老骯髒混蛋 – 重返三十六室骯髒版
 ---
 
 
@@ -19,7 +19,7 @@ title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
 
 
 
-このアルバム「Return To The 36 Chambers The Dirty Version」はOl' Dirty Bastardがソロキャリアの中でも最も成功した作品の一つです。
+這張專輯《Return To The 36 Chambers The Dirty Version》是 Ol' Dirty Bastard 個人生涯中最成功的專輯之一。
 
 它還包括與武當派成員和其他客座藝術家的合作，這張專輯自始至終展示了他的個人音樂風格，贏得了評論界的好評和商業上的成功。
 

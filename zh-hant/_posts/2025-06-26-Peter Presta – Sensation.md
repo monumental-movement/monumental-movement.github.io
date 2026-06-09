@@ -15,7 +15,7 @@ title: 彼得普雷斯塔 – 轟動
 ---
 
 
-Peter Presta 是一位来自布鲁克林的 DJ、制作人和混音师。他曾與多位藝術家合作並混音，包括 Masters At Work、Danny Tenaglia、Moby、Joey Beltram、Robbie Rivera、Cevin Fisher、Ray Roc、StoneBridge、Peter Rauhofer 和 DJ Chus。
+Peter Presta 是一位來自布魯克林的 DJ、製作人和混音師。他曾與多位藝術家合作並混音，包括 Masters At Work、Danny Tenaglia、Moby、Joey Beltram、Robbie Rivera、Cevin Fisher、Ray Roc、StoneBridge、Peter Rauhofer 和 DJ Chus。
 
 「Sensation」是 Apple Jaxx Recordings 於 2005 年發行的前衛浩室/部落浩室/科技浩室曲目。
 

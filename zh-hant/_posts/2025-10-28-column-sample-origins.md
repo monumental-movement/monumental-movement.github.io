@@ -45,8 +45,8 @@ color: #fff;
 
 ---
 
-#### 2. Lyn Collins – “Think (About It)” (1972)
-由詹姆斯·布朗制作。女人有力的呼喊和「嗚！耶！」 Break象徵嘻哈的黃金時代。引用內容包括 Rob Base 和 DJ E-Z Rock 的“It Takes Two”，以及 Snoop Dogg 和 Beyoncé。
+#### 2.琳恩‧柯林斯－《思考（關於它）》（1972）
+詹姆斯·布朗製作。女人有力的呼喊和「嗚！耶！」 Break象徵嘻哈的黃金時代。引用內容包括 Rob Base 和 DJ E-Z Rock 的“It Takes Two”，以及 Snoop Dogg 和 Beyoncé。
 它結合了女權主義的力量和放克的活力，在俱樂部引起了「聲音的連鎖反應」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKix_06L5AY?si=k-WaUDAVRRi6Mk3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -79,7 +79,7 @@ Clyde Stubblefield 的鼓聲是取樣的聖杯。 Public Enemy、LL Cool J、Pri
 
 #### 6.柯蒂斯‧梅菲爾德－《繼續向上》(1970)
 年輕一代透過 Kanye West 的《Touch the Sky》重新發現了歡欣鼓舞的象徵。他將希望與反抗的精神結合起來，將靈魂的精神轉移到了嘻哈音樂中。
-Curtisのファルセットは「進化するブラック・ミュージック」の永遠のメッセージだ。
+柯蒂斯的假聲是「不斷發展的黑人音樂」的永恆訊息。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A9RMr9KuVZo?si=v-QRYGCnN1A1nWGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -94,7 +94,7 @@ Bob James是流暢爵士樂的象徵，這首歌所產生的「hardbreak」在19
 ---
 
 #### 8. 不可思議的邦戈樂團 – “阿帕契” (1973)
-庫爾·赫克 (Kool Herc) 在布朗克斯的一次街區派對上使用了兩份傳奇的突破。這就是為什麼它被稱為嘻哈的起源。
+庫爾·赫克 (Kool Herc) 在布朗克斯的一次街區派對上使用了兩份傳奇的突破。這就是為什麼它被稱為嘻哈音樂的起源。
 它仍然作為舞者和轉盤演奏者的“神聖經典”而存在。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WY-Z6wm6TMQ?si=M_5a01O_-SpSNVzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -192,7 +192,7 @@ Wu-Tang Clan 的“C.R.E.A.M.”中使用的原始旋律。甜美的弦樂和憂
 
 ---
 
-### 時間軸：採樣的演進史
+### 時間軸：採樣的演變歷史
 
 |年 |活動 |
 |------|---------|
@@ -206,7 +206,7 @@ Wu-Tang Clan 的“C.R.E.A.M.”中使用的原始旋律。甜美的弦樂和憂
 
 ---
 
-### 図：サンプリングの連鎖
+### 圖：採樣鏈
 
 <div class="mermaid">
 

@@ -43,7 +43,7 @@ color: #fff;
 ## 第一章：電子音樂成為「流行」的那一刻
 
 1970 年代，Moog、ARP 以及 Roland 和 Yamaha 等日本製造商的合成器使音樂製作民主化。
-それまで巨大なスタジオ機材だった電子音は、次第に家庭やライブハウスへと降りてきた。  
+在此之前，電子聲音一直是巨型錄音室設備的專利，逐漸進入家庭和現場音樂場所。
 Kraftwerk 的《機器人》是無機的，彷彿在質疑人類與機器之間的界限，但卻與一種奇怪的幽默感產生共鳴。
 他們提出的「人=機器」的願景成為支撐所有後來流行音樂的概念。
 
@@ -122,12 +122,12 @@ Cornelius、Denki Groove 和 tofubeats 也讓科技流行音樂多元化，將�
 
 ---
 
-## 第5章　世界の共鳴：日本の電子音が渡った先で
+## 第五章 世界的共鳴：日本電子音樂的交叉點
 
 YMO 的影響遠渡重洋，影響許多藝術家。
 Daft Punk在訪談中盛讚坂本龍一的聲音設計，他們的旋律感明顯受到日本極簡主義的影響。
 Radiohead 的《Kid A》是 YMO「用電子聲音描繪情感」概念的反思發展。
-「Everything in Its Right Place」は、まるで『BGM』や『Technodelic』の亡霊が蘇ったかのように冷たく美しい。
+《一切各就其位》冷峻而優美，彷彿《BGM》和《Technodelic》的鬼魂又活了過來。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -145,13 +145,13 @@ Radiohead 的《Kid A》是 YMO「用電子聲音描繪情感」概念的反思�
 ## 第六章：科技與情緒：當機器描繪人類時
 
 音序器、取樣器、自動調諧。
-這些不是「準確性」的工具，而是用來突出「人類模糊性」的畫筆。
+これらは「正確にするため」の道具ではなく、「人間の曖昧さ」を際立たせるための筆だった。  
 機械的東西可以是情感的－－這就是合成流行音樂的矛盾魅力。
 
 進入21世紀，「不完美的美學」正被重新評估。
 Grimes 的聲音顫抖，Charli XCX 的 AI 聲音處理，以及 Yaeji 的母語融合。
 所有這些都證明“不完美的聲音”傳達了人性。
-隨著人工智慧作曲的發展，合成流行音樂的「人類人造性」可能是音樂中最後的浪漫主義。
+隨著人工智慧作曲的進步，合成流行音樂的「人類人造性」可能是音樂中最後的浪漫主義。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -193,7 +193,7 @@ Synthpop 既是“未來的聲音”，也是“懷念過去的聲音”。
 為什麼我們會對 20 世紀 80 年代冰冷的電子音樂如此感動？那是因為它們蘊含著「人們相信未來的那個時代的溫度」。
 即使現在，隨著數位技術的進步和人工智慧開始創作音樂，人類仍在繼續在機器的聲音中尋找「自我」。
 
-坂本龍一直到最後不斷追問的「技術與情感的關係」現在再次成為一線主題。
+坂本龍一至始至終不斷追問的“技術與情感的關係”，如今再次成為一線主題。
 YMO 的電子微笑、Perfume 的多節奏以及 Charli XCX 的像素化眼淚就在這個血統的某個地方。
 
 未來總是在電子夢想中響起。
@@ -236,7 +236,7 @@ flowchart TD
 | 20 世紀 80 年代 | **Depeche 模式** | *違規者* (1990) |黑暗而感性的電子祈禱。超越合成流行音樂的抒情詩。        | [亞馬遜](https://amzn.to/46M1RRM) |
 | 20 世紀 80 年代 | **新訂單** | *權力、腐敗與謊言* (1983) |後朋克悲傷昇華為合成器。現代俱樂部文化的起源。  | [亞馬遜](https://amzn.to/4hdmoSW) |
 | 20 世紀 80 年代 | **寵物店男孩** | *實際上* (1987) |融合都市冷酷與幽默的「知性流行」巔峰之作。      | [亞馬遜](https://amzn.to/3ISMMon) |
-| 20 世紀 90 年代 | **比約克** | *同質* (1997) |融合人類與機器情感的「電子有機」傑作。       | [亞馬遜](https://amzn.to/4nR1xHw) |
+| 20 世紀 90 年代 | **比約克** | *同質* (1997) |融合人類與機器情感的「電子有機」傑作。       | [Amazon](https://amzn.to/4nR1xHw) |
 | 20 世紀 90 年代 | **愚蠢朋克** | *發現* (2001) |受YMO影響的“數字浪漫”。人類與機器人之間的共鳴。 | [亞馬遜](https://amzn.to/490IBBn) |
 | 2000 年代 | **科尼利厄斯** | *點* (2002) |作為聲音藝術的流行音樂。重新定義環境聲音和節奏。          | [亞馬遜](https://amzn.to/3KKeAMe) |
 | 2000 年代 | **香水** | *遊戲* (2008) |來自日本的高科技流行音樂的不朽之作。中田康隆的完美主義美學。     | [亞馬遜](https://amzn.to/4n5WHoC) |

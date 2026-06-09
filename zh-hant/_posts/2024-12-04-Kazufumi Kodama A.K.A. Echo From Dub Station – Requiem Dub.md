@@ -14,7 +14,7 @@ title: 兒玉和文 A.K.A.來自 Dub Station 的“Echo”——Requiem Dub
 ---
 
 
-Kazufumi Kodama 是小號演奏家，活躍於 MUTE BEAT 和 KODAMA AND THE DUB STATION BAND 等配音樂隊。他也製作了Fishmans的第一張專輯和CHIEKO BEAUTY等許多藝人。
+Kazufumi Kodama 是小號手，活躍於 MUTE BEAT 和 KODAMA AND THE DUB STATION BAND 等配音樂團。他也製作了Fishmans的第一張專輯和CHIEKO BEAUTY等許多藝人。
 
 《Requiem Dub》是兒玉一文的第二張個人專輯，錄製於紐約著名雷鬼工作室 Wackies。 Speedstar International 於 1999 年發布。兒玉一文親自負責了這張專輯的所有表演和製作。
 

@@ -14,9 +14,9 @@ title: 現實——約蘭達
 ---
 
 
-Realityは、アフリカ・バンバータの従兄弟Kool Rock Steady（クール・ロック・ステディ）ことEdward Rudolph（エドワード・ルドルフ）がボーカルを務めるヒップハウストリオ。
+Reality 是個嘻哈浩室三人組，主唱是 Afrika Bambaataa 的表弟 Kool Rock Steady，也被稱為愛德華魯道夫 (Edward Rudolph)。
 
-1993年にハウスレーベルStrictly Rhythmからリリースされた「Yolanda」は世界的大ヒットとなったハウストラック。
+自家廠牌 Strictly Rhythm 於 1993 年發行的「Yolanda」是一首在全球大受歡迎的單曲。
 
 Side A 是 Hard House DJ Bad Boy Bill 的混音作品。 B 面是 Erick Morillo 的混音版，也稱為 Reel 2 Real。
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/janet-jackson-doesnt-really-matter/
 tags:
 - House
 - Pops
-title: Janet Jackson – Doesn't Really Matter
+title: 珍妮傑克森——其實並不重要
 ---
 
 

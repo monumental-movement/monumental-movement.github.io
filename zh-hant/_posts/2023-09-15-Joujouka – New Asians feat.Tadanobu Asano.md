@@ -10,7 +10,7 @@ tags:
 - House
 - Big Beat
 - Psychedelic
-title: Joujouka – 新亞洲人的壯舉。浅野忠信
+title: Joujouka – 新亞洲人的壯舉。淺野忠信
 ---
 
 

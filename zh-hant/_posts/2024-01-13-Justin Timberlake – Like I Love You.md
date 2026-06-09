@@ -9,17 +9,17 @@ permalink: /zh-hant/justin-timberlake-like-i-love-you/
 tags:
 - Pops
 - 00s
-title: Justin Timberlake – Like I Love You
+title: 賈斯汀·汀布萊克 – 就像我愛你
 ---
 
 
 賈斯汀·蘭德爾·汀布萊克是一位美國流行歌手、R&B 歌手和演員。他曾多次獲得葛萊美獎。
 
-かつては、ボーイズグループ「インシンク」のフロントマンとして人気を博しました。
+曾以男子團體Insync的主唱走紅。
 
-2002年，他發行了首張個人專輯《Justified》，全球銷售超過1,000萬張。
+2002年，發行首張個人專輯《Justified》，全球銷售量突破1,000萬張。
 
-2006年、セカンドソロアルバム「Futuresex/Lovesounds」をリリース。
+2006年，發行第二張個人專輯《Futuresex/Lovesounds》。
 
 2013年，他以專輯《The 20/20 Experience》重新開始音樂生涯，並第二次入選《時代》雜誌「世界100位最具影響力人物」之一。
 

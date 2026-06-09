@@ -15,7 +15,7 @@ title: Dreamlogicc – Podval EP
 
 《Dreamlogicc – Podval EP》由美國廠牌 Kimochi 於 2012 年發行。
 
-*限量版 200 張，A3 和 A4 是未署名的插曲，以鎖定的節奏結束。
+※200枚の限定版で、A3 と A4 はクレジットされていない間奏で、ロックされたグルーヴで終わります。
 
 #### 曲目表
 ```md
@@ -32,7 +32,7 @@ B1. Blanx (Accidental Freedom By Area)
 B2. Equalizer
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

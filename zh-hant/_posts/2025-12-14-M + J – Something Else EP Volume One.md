@@ -18,7 +18,7 @@ title: M + J – Something Else EP 第一卷
 
 Joe Davis 是英國廠牌 Far Out Recordings 的創辦人、DJ 和巴西音樂愛好者。
 
-「Something Else EP Volume One」は、1992年にリリースされたHouse／Future Jazzトラック。
+《Something Else EP Volume One》是一首 House/Future Jazz 曲目，於 1992 年發行。
 
 #### 曲目表
 ```md

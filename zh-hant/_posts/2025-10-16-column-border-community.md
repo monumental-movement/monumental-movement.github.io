@@ -50,7 +50,7 @@ color: #fff;
 2001年，霍爾頓以在銀色星球發行的歌曲《A Break in the Clouds》而受到關注。
 他們的聲音打破了當時進步浩室的模式。憂鬱又富有建築感。飄逸的旋律將俱樂部之夜變成了一種詩意的體驗。
 
-從這首歌開始，他開闢了一個既不是 trance 也不是 house 的聲音空間。
+從這首歌開始，他創造出一種既不是 trance 也不是 house 的聲音。
 這種流動後來以邊境社區的形式具體化。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -92,7 +92,7 @@ Nathan Fake 的第一張專輯《The Sky Was Pink》標誌著俱樂部音樂歷�
 
 ## 五、主要藝術家：一群共鳴的聲音
 
-- **內森假**－在懷舊與混亂之間。他的代表作《溺愛之海》是模擬電子樂的不朽之作。
+- **內森假**－在懷舊與混亂之間。他的代表作《溺爱之海》是模拟电子乐的不朽之作。
 - **Petar Dundov** — 建築之美與恍惚感覺的融合。數學精確性與情感並存。
 - **Luke Abbott** — 模組化合成器的田園詩般的未來。 「Holkham Drones」描繪了自然與電子之間的共生關係。
 - **MFA、Avus、Ricardo Tobar** — 從本地傳播到全球的「邊界美學」的領導者。
