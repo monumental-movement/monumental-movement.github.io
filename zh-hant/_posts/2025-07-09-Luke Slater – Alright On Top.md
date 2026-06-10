@@ -11,14 +11,14 @@ tags:
 - Techno
 - Synth-pop
 - 00s
-title: 盧克·斯萊特——好吧在上面
+title: Luke Slater – Alright On Top
 ---
 
 
-Mute 廠牌於 2002 年發行的專輯，完全由 Ricky Barrows 演唱。其中收錄有熱門歌曲《Nothing At All》。
+レーベルMuteから2002年にリリースされた 、Ricky Barrows(リッキーバローズ)のヴォーカルを全面にフィーチャーしたアルバム。ヒット曲が「Nothing At All」が収録されている。
 第 11 首和第 12 首是日文版的附贈曲目。
 
-夾克的設計者是英國平面設計師 Julian House，又名 House，曾為 Stereolab、Oasis、The Prodigy、Broadcast、Razorlight 等公司製作設計。
+ジャケットデザインは、Stereolab, Oasis, The Prodigy, Broadcast, Razorlightなどのデザインを手掛けるUKのグラフィックデザイナーHouse ことJulian Houseによるもの。
 
 #### 曲目表
 ```md

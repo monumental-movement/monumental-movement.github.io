@@ -9,7 +9,7 @@ permalink: /zh-hant/kit-clayton-latke/
 tags:
 - Techno
 - Dub
-title: 基特克萊頓 – Latke
+title: Kit Clayton – Latke
 ---
 
 

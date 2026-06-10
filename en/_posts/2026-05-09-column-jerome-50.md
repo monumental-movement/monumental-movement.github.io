@@ -418,7 +418,7 @@ He's not just a left-wing artist either.
 
 he,
 
-- Linguistics researcher
+- Linguistic researcher
 - street performer
 - I love punk
 - Quebec Culture Enthusiast
@@ -428,7 +428,7 @@ I have all of these things at the same time.
 
 Moreover, not one of them is recovered.
 
-That is why his music is neither ""satire for intellectuals" nor ""simple popular music."
+That's why his music is neither ""satire for intellectuals" nor ""simple popular music."
 
 We always move forward with contradictions.
 

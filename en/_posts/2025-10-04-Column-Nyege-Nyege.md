@@ -350,3 +350,13 @@ Below are some recommended YouTube links related to Nyege Nyege:
 Nyege Nyege is an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world. The label Nyege Nyege Tapes is at the forefront of promoting the fusion of traditional African music and electronic music, including Shingeli, Akolitronics, Electro Maloya, etc.
 We have established a unique position in the world music scene by simultaneously preserving local culture, expressing urban and youth culture, and disseminating it internationally. Their activities remind us of the importance of not only music, but also cultural diversity and social inclusion. We will continue to keep an eye on their music and activities.
 
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ocsHZOb-ooI?si=9ohQXSZOU7Y1LASq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

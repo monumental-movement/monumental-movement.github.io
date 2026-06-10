@@ -115,7 +115,7 @@ It emphasized the "Zen" aspect of hip-hop and resonated with RZA's spiritual wor
 In particular, Nujabes' music combines sampling and the aesthetics of ma.
 He was spiritually connected to the Wu-Tang Clan, the "Samurai of Sound."
 
-In the 2020s, clear references appear in Japanese anime works as well.
+In the 2020s, clear references appear in Japanese anime works.
 The influence of lo-fi hip-hop can be seen in the BGM of "Jujutsu Kaisen".
 Multiple hip-hop artists will participate in the ending of "Chainsaw Man."
 Here, anime once again reconnects with the language of the "street."
@@ -164,8 +164,8 @@ timeline
 flowchart TD
     A["Wu-Tang Clan（1993〜）"]
     B["Kung Fu Movie (Shaolin Temple/Li Xiaolong)"]
-    C["Oriental Thought (Zen/Laozhuang Thought)"]
-    D["Japanese Anime (Dragon Ball/NARUTO/Afro/Samurai)"]
+    C["東洋思想（禅・老荘思想）"]
+    D["日本アニメ（ドラゴンボール・NARUTO・アフロ・サムライ）"]
     E["Hip-hop philosophy (training, struggle, transcendence)"]
     F["Modern Global Culture (Anime Hip-Hop, Lo-fi, Streetwear)"]
 

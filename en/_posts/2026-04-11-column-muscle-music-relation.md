@@ -51,7 +51,7 @@ color: #fff;
 
 ### Decreased subjective exercise intensity
 
-The ""tightness" you feel when exercising depends not only on the actual load but also on how your brain perceives it. This index is called ""subjective intensity of exertion" (RPE).
+The ""tightness'' you feel when exercising depends not only on the actual load but also on how your brain perceives it. This metric is called "subjective intensity of exertion" (RPE).
 
 Studies have shown that exercising while listening to music significantly lowers this RPE. In other words, the same load will "feel easier".
 
@@ -109,7 +109,7 @@ This allows for natural movement phase switching.
 
 Electronic music such as techno and house is characterized by a steady beat and strong bass. These promote rhythm synchronization and are suitable for sustained exercise.
 
-In particular, songs with a strong repetitive structure go well with the repetitive movements of exercise, making it easier to maintain a state of concentration.
+In particular, songs with a strong repetitive structure go well with repetitive movements, making it easier to maintain a state of concentration.
 
 ### Hip-hop and explosiveness
 
@@ -117,7 +117,7 @@ Hip-hop is characterized by its emphasis on beats and heavy rhythms, making it s
 
 ### Rock and psychological awakening
 
-Rock music promotes psychological awakening due to its high sound pressure and energy. The climax in particular during the chorus supports the performance even when the song is close to its limit.
+Rock music promotes psychological awakening due to its high sound pressure and energy. In particular, the climax during the chorus supports the performance even when the song is close to its limit.
 
 > Differences in music genres are not just a matter of preference, but also affect the way we use our bodies.
 

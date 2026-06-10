@@ -89,7 +89,7 @@ You should be able to play music more freely.
 
 This idea later led to his interest in improvisation.
 
-> Keiji Haino's early rock experiences became the starting point for his understanding of music as a form of spiritual expression.
+> Keiji Haino's early rock experiences became the starting point for his approach to music as a form of spiritual expression.
 
 ---
 
@@ -128,7 +128,7 @@ Activities with Lost Alaf were one of the starting points for Keiji Haino's musi
 
 ### Relationship with Toru Takemitsu
 
-Connection with contemporary Japanese music
+Connection with Japanese contemporary music
 
 Keiji Haino's music is often talked about in the context of rock and noise, but it also has connections with contemporary Japanese music.
 
@@ -302,7 +302,7 @@ His activities are as DJ Keiji Haino.
 
 In this style, they perform while playing music from around the world on CDJs.
 
-The music selected is not limited to genre.
+The music selected is not limited to any genre.
 
 folk music
 rock
@@ -439,7 +439,7 @@ The information below is compiled from multiple reliable sources (Discogs, Wikip
 | Year | Title | Label | Notes |
 |---|---|---|---|
 | 1981 | **Is it just me? ** | Pinakotheca | Solo debut work. High quality reissue by Black Editions in 2017 |
-| 1990 | **Nijiumu** | PSF | Masterpiece of solo vocal and acoustic works |
+| 1990 | **Nijiumu** | PSF | Representative solo vocal/acoustic works |
 | 1992 | **Itsukushimi / Affection** | PSF | Live recording released in 1992 |
 | 1993 | **A Challenge to Fate** | PSF | Released in 1994. Important solo works |
 | 1995 | **I Said, This Is the Son of Nihilism** | Table of the Elements | Important American Release |
@@ -740,7 +740,7 @@ Drone --> Haino
 Psychedelic --> Haino
 
 Haino --> Fushitsusha[Fushitsusha]
-Haino --> SoloWorks[Solo activities]
+Haino --> SoloWorks[Solo activity]
 Haino --> DJStyle[DJ Keiji Haino]
 
 </div>

@@ -10,7 +10,7 @@ tags:
 - Rock
 - Hiphop
 - Alternative Rock
-title: One Day As A Lion – One Day As A Lion
+title: 作為獅子的一天 – 作為獅子的一天
 ---
 
 

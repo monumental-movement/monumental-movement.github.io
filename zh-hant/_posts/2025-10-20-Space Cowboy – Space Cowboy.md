@@ -9,15 +9,15 @@ permalink: /zh-hant/space-cowboy-space-cowboy/
 tags:
 - House
 - 00s
-title: 太空牛仔 - 太空牛仔
+title: Space Cowboy - Space Cowboy
 ---
 
 
-英國 DJ/製作人 Space Cowboy (Nicolas Jean-Pierre Dresti) 於 2005 年在 Tiger Trax 廠牌上發行了一首 House 曲目，他因與 Lady Gaga 的合作而聞名。
+Lady Gagaとのコラボでよく知られているUKのDJ／プロデューサーSpace Cowboy(Nicolas Jean-Pierre Dresti)が、2005年にレーベルTiger TraxからリリースしたHouseトラック。
 
 
-B1 是美國製作人/混音師 Jason Nevins 的混音作品。
-B2hq，由駐倫敦的法國 DJ Miss Frenchie 製作的混音版。
+B1は、アメリカのプロデューサー／リミキサーJason Nevinsによるremix。
+B2hq、ロンドンを拠店に活動するフランス人DJ Miss Frenchieによるremix。
 
 #### 曲目表
 ```md
@@ -28,4 +28,4 @@ B1. Space Cowboy (Jason Nevins Club Mix)
 B2. Space Cowboy (Miss Frenchie Breaks Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m96573920140?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96573920140?afid=6142608987){: .button1}

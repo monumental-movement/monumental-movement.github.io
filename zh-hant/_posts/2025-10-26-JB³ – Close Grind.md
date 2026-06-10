@@ -9,7 +9,7 @@ permalink: /zh-hant/jb³-close-grind/
 tags:
 - Techno
 - 90s
-title: JB³ – Close Grind
+title: JB³ – 緊密研磨
 ---
 
 

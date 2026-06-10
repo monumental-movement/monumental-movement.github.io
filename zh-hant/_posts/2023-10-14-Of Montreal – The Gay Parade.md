@@ -9,7 +9,7 @@ permalink: /zh-hant/of-montreal-the-gay-parade/
 tags:
 - Rock
 - Psychedelic
-title: 蒙特婁——同性戀遊行
+title: Of Montreal – The Gay Parade
 ---
 
 

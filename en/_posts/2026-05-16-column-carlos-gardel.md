@@ -23,7 +23,7 @@ From the end of the 19th century to the beginning of the 20th century, Argentina
 
 Longshoremen, sailors, taverns, brothels, cafes, dance halls. The mixed emotions of people on the periphery of the city gave birth to new music. That was tango.
 
-Initially, tango was a music that was looked down upon by the upper classes. Crude, dangerous, downtown. However, its melancholy and sensuality strongly stimulated the emotions of people who were burdened by the loneliness of urbanization.
+Initially, tango was a music that was looked down upon by the upper class. Crude, dangerous, downtown. However, its melancholy and sensuality strongly stimulated the emotions of people who were burdened by the loneliness of urbanization.
 
 Out of this chaotic urban space, a man later known as the "King of Tango" emerges.
 
@@ -128,7 +128,7 @@ Gardel was not just a singer, but a ""translator of urban emotions.''
 
 ## King of Tango: Absolutely popular in the 1920s
 
-By the 1920s, Carlos Gardel had become one of Argentina's biggest stars.
+In the 1920s, Carlos Gardel became one of Argentina's biggest stars.
 
 Records, radio, stage, touring. With the expansion of new media, his popularity spread throughout South America.
 

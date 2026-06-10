@@ -124,8 +124,8 @@ Bonus Track For Japan
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Various – Overnight Remixes II
-<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%</II.webp.
+### 各種 – Overnight Remixes II
+<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%</2.webp.
 
 格式：乙烯基
 
@@ -158,11 +158,11 @@ B5. LNR – Work It To The Bone
 
 
 ### MDC‑X‑Static – 你和我
-<a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.webp"></a>
+<a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%</Me.web.
 
 格式：乙烯基
 
-模式標本： 90 年代歐洲 / 歐洲 House
+類型： 90 年代歐元 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
@@ -187,7 +187,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 
 格式：乙烯基
 
-模式標本： 90 年代歐洲 / 歐洲 House
+類型： 90 年代歐元 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
@@ -211,7 +211,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 
 格式：乙烯基
 
-模式標本： 90 年代歐洲 / 歐洲 House
+類型： 90 年代歐元 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
@@ -262,7 +262,7 @@ B. So High (Single Mix)
 
 格式：乙烯基
 
-ジャンル：90s Euro House
+類型： 90 年代歐洲 House
 
 1994 年發行的英國流行歐元音樂，由 Ben Liebrand 重新混音
 

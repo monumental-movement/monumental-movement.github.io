@@ -9,7 +9,7 @@ permalink: /zh-hant/deodato-prelude/
 tags:
 - Jazz
 - Funk
-title: Deodato – Prelude
+title: 德奧達托 – 前奏曲
 ---
 
 

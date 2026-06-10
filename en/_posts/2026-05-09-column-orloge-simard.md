@@ -287,7 +287,7 @@ What is important here is the existence of the character "Roxan Puppetville."
 
 This character also appeared at live performances and played a role in expanding the band's worldview.
 
-In other words, Orloge Simard was not just a band, but a group with its own universe from this point on.
+In other words, Orloge Simard was not just a band at this time, but a group with its own universe.
 
 In terms of music, a horn section was also introduced, expanding the range of arrangements.
 
@@ -349,7 +349,7 @@ quadrantChart
 
 ## Place in Quebec rock history
 
-Quebec's rock culture has a uniqueness that is different from both English-speaking Canada and France itself.
+Quebec's rock culture has a unique identity that is different from both English-speaking Canada and France itself.
 
 Behind this is its identity as a French-speaking region, its sense of defense, and its strong ties with the local community.
 
@@ -434,7 +434,7 @@ As a result, their music is not ""music that can reach everyone," but ""music th
 
 Their activities also overlap with Quebec culture itself.
 
-An exaggerated affirmation of the local culture of French-speaking Canada. This attitude has become a place of identity confirmation for many viewers.
+An exaggerated affirmation of the local culture of French-speaking Canada. This attitude serves as a place for many viewers to confirm their identity.
 
 Moreover, Orloge Simard never loses its sense of danger.
 

@@ -22,7 +22,7 @@ Text: mmr | Theme: Martinique, an island where French culture and African rhythm
 
 Martinique is a French overseas department located in the Lesser Antilles in the Caribbean. It is still treated as part of the French Republic, and its administrative, educational system, and currency are the same as mainland France. However, culturally, it is a complex mix of influences not only from Europe, but also from Africa, the West Indies, and South America.
 
-From the 17th century onward, as France colonized the country, slaves brought from Africa were forced to work on sugarcane plantations. They brought not only language and religion, but also a sense of rhythm, singing, dance, and percussion culture.
+From the 17th century onward, as France colonized the country, slaves brought from Africa were forced to work on sugarcane plantations. They brought with them not only language and religion, but also a sense of rhythm, singing, dance, and percussion culture.
 
 After that, dances, military music, and church music originating from Europe were mixed with polyrhythms originating from Africa, forming a unique Creole culture. This ""mixing'' is the most distinctive feature of Martinique music.
 
@@ -77,13 +77,13 @@ D --> G[zouk]
 
 When talking about Martinique's traditional music, the first thing that becomes important is the beret.
 
-Bere is a traditional performing art that combines singing, drumming, and dancing, and retains strong cultural elements originating from Africa. Percussion instruments play a particularly important role, with giant drums forming the core of the rhythm.
+Bere is a traditional performing art that integrates singing, drumming, and dancing, and retains strong cultural elements originating from Africa. Percussion instruments play a particularly important role, with giant drums forming the core of the rhythm.
 
 The bere was often performed as a community activity after plantation work. It was not just entertainment, but also a shared sense of community memory and resistance.
 
 During slavery, rulers tried to suppress African culture, but music and dance never completely disappeared. Rather, it was passed down like an underground water vein.
 
-In bere, a call-and-response format is often used. This is a common form of African music, and is structured as a dialogue between the singer and the community.
+In bere, a call-and-response format is often used. This is a common form of African music, and is a structure in which the singer and the community interact.
 
 Dancing is also important. The dancers engage in improvisational tactics, and the music and bodies are closely linked.
 
@@ -115,7 +115,7 @@ E --> F
 
 ### Fusion of French dances and Caribbean rhythms
 
-In the late 19th and early 20th centuries, a type of music called ""beguine'' developed in Martinique.
+From the late 19th century to the early 20th century, a type of music called ""beguine'' developed in Martinique.
 
 Beguine is dance music that incorporates Caribbean rhythms while being influenced by European dances. It featured a light and sophisticated sound, using clarinet, trombone, piano, and percussion instruments.
 
@@ -154,7 +154,7 @@ timeline
 
 Carnival culture is extremely important in Martinique.
 
-During the annual carnival, the entire city transforms into a gigantic music space. A mix of costumes, parades, percussion corps, dance, and political satire, the music reflects society itself.
+During the annual carnival, the entire city transforms into a gigantic musical space. A mix of costumes, parades, percussion corps, dance, and political satire, the music reflects society itself.
 
 Carnival was established as a combination of European-originated celebratory culture and the physical culture of African communities.
 
@@ -186,7 +186,7 @@ D --> E[modern club culture]
 
 ## Zouk Revolution
 
-### Impact of the 1980s
+### Shock of the 1980s
 
 In the 1980s, a genre emerged that propelled French Caribbean music to the global stage. That is "zouk".
 
@@ -200,7 +200,7 @@ The central group that spread this new sound to the world was Kassav.
 
 Formed in 1979, Kassav catapulted zouk into an international genre.
 
-They actively introduced studio technology and created a huge dance sound. Complex percussion, synthesizers, chorus work, and bass lines were fused to create a unique sense of exhilaration.
+They actively introduced studio technology and created a huge dance sound. The fusion of complex percussion, synthesizers, chorus work, and bass lines created a unique sense of exhilaration.
 
 Particularly important was the emphasis on the Creole language.
 
@@ -295,7 +295,7 @@ The revival of Bere, the reappraisal of the Creole language, and the growing int
 
 <div class="mermaid">
 flowchart TD
-A[colonial rule] --> B[cultural suppression]
+A[colonial rule] --> B[cultural oppression]
 B --> C[cultural revival movement]
 C --> D[Bere re-evaluation]
 C --> E[Restoration of the Creole language]
@@ -376,7 +376,7 @@ D --> E[new generation pop]
 C --> E
 </div>
 
-> The music of the island changes every time it crosses the ocean, creating a new Creole culture.
+> The music of the island changes each time it crosses the ocean, creating a new Creole culture.
 
 ---
 

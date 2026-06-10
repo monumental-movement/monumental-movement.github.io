@@ -14,7 +14,7 @@ title: 咕咕——快樂的日子
 ---
 
 
-Coo Coo 是義大利迪斯可流行樂隊，代表 20 世紀 80 年代 Eurobeat 高能量場景，由 Mauro Farina、Giuliano Crivellente 和 Florian Fadinger (F.C.F.) 製作。
+Coo Coo（クー・クー）は、Mauro Farina（マウロファリーナ）、Giuliano Crivellente（ジュリアーノクリヴェレンテ）、Florian Fadinger（フロリアンファディンガー）＝F.C.Fがプロデュースした1980年代ユーロビート・ハイエナジーシーンを代表するイタロディスコ・ポップグループ。
 
 《Happy Days》是Coo Coo的標誌性歌曲，由Flea Records於1989年發行。
 

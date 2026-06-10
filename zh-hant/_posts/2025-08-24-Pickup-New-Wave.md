@@ -143,7 +143,7 @@ B6. (It's Not Me) Talking
 
 
 ### 家具——我不能破解
-<a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20rackCan't%20C.webp.
+<a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20rackCan't%">20C.webp.
 
 發行：發佈於 2023 年 9 月 9 日。由一支帶有英國流行/新浪潮/後朋克元素的樂隊製作的 1985 年 EP。
 
@@ -204,7 +204,7 @@ B6. Working In The Coal Mine
 
 
 
-### 黑色——不僅僅是太陽
+### 黑色－不只是太陽
 <a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%Sun20The%</a.
 
 發行：發佈於 2023 年 10 月 13 日。英國創作歌手 Colín Vearncombe 的獨唱作品 Black。
@@ -234,9 +234,9 @@ B3. Stephen
 ### 狂喜－在你愛的恩典中
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The70Gapture%20%E2%80%93%20In%20The70Gapture%20%E2%80%93%20In%20The70G
 
-發行：發佈於 2024 年 12 月 18 日。來自紐約的後龐克/舞曲龐克/新浪潮樂團的第三張專輯（2011 年發行）。
+發行：發佈於 2024 年 12 月 18 日。来自纽约的后朋克/舞曲朋克/新浪潮乐队的第三张专辑（2011 年发行）。
 先生
-推薦重點：他們的風格是後龐克、電子、迪斯可等的大膽組合。推薦作為近年來也帶有復興感的舞蹈新浪潮。
+推薦重點：他們的風格是後龐克、電子、迪斯可等的大膽組合。推薦作為近年來帶有復興感覺的舞蹈新浪潮。
 
 #### 曲目表
 ```md

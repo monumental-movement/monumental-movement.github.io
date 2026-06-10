@@ -163,7 +163,7 @@ In Animal Collective"s early works, percussion and handclaps provide a steady se
 
 Voice is one of the most important elements in Neo-Psychedelic Folk. The division of roles between lead vocalist and accompaniment is weakened, and multiple voices are placed in the same line. Vocal quality, overlap, and reverberation are prioritized over the clarity of lyrics.
 
-This is the result of transferring the group singing nature of folk music to the studio space.
+This is the result of transferring the group singing nature of folk to the studio space.
 
 > "Songs are not a device to tell a story, but a material that fills a space."
 
@@ -221,3 +221,10 @@ This trend is not understood as a completed style, but as a body in motion that 
 
 ---
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zRJsr8EwbSw?si=y0W0-jl_FXzOI_kB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -9,7 +9,7 @@ permalink: /zh-hant/black-more-than-the-sun/
 tags:
 - Rock
 - New-Wave
-title: 黑色——不僅僅是太陽
+title: 黑色－不只是太陽
 ---
 
 

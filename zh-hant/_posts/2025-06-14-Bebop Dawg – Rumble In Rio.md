@@ -19,7 +19,7 @@ Lasse Mosegard / Illinton，也被稱為 Bebop Dawg，是一位居住在巴塞�
 
 他也是 Franke And Illinton 的成員，該樂隊與來自丹麥的前衛迷幻 goa-trance 世界的領導者 Frank Madsen 組成，被稱為 Frank E；此外，他也是 Raoul Express 的成員，該樂隊與丹麥 EDM 製作人 Mads Arp 組成的樂隊。
 
-このレコードは、フランス・パリのアンダーグラウンドDeep-HouseレーベルMissive(1999年〜2010年)から、2002年にリリースされたフューチャージャズ・ラテントラック。
+這張唱片是法國巴黎地下 Deep-House 廠牌 Missive (1999-2010) 於 2002 年發行的未來爵士樂/拉丁曲目。
 
 #### 曲目表
 ```md

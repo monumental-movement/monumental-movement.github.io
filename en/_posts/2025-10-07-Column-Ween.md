@@ -47,7 +47,7 @@ A quiet residential area in Pennsylvania in the mid-1980s.
 Two boys grab a cassette tape and a 4-track recorder and begin a strange ritual.
 **Aaron Freeman (Gene Ween)** and **Mickey Melchiondo (Dean Ween)**.
 
-The "**Boognish**" that they created is more than just a logo or character.
+The existence of "**Boognish**" that they created is more than just a logo or character.
 A fictional god of laughter and madness, he was a symbol of Ween's music itself.
 The noises, strange voices, and unusual key changes that were scattered throughout the home recordings were all blessed by Boognish.
 
@@ -84,7 +84,7 @@ The early Ween sound was the magic of home recording on **4-track cassette MTR**
 Leaves noise and distortion intact. It wasn't "filth", it was "truth".
 Their home recordings are a kind of lo-fi alchemy.
 The Pod is a bizarre mix of morbid laughter and psychedelic structure.
-It made listeners feel uneasy while at the same time giving them an addictive feeling of pleasure.
+It made listeners feel anxious, but at the same time it gave them an addictive feeling of pleasure.
 
 ### Contact with the underground scene
 
@@ -237,7 +237,7 @@ flowchart TD
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
 
 ---
 

@@ -14,7 +14,7 @@ title: CJ Bolland / 賽洛西賓 – 《腦筋急轉彎》/Cyrus
 
 
 
-「Inside Out / Cyrus」は、UCMG UKのサブレーベルRewind The Classicsから2000年にリリースされたスプリット盤。
+《Inside Out / Cyrus》是 UCMG UK 的子廠牌 Rewind The Classics 於 2000 年發行的分裂專輯。
 
 A 是 C.J. Bolland 1992 年專輯《The 4th Sign》中的一首曲目，由比利時科技先鋒 Kris Vanderheyden 製作。
 

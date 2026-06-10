@@ -11,7 +11,7 @@ tags:
 - Experimental
 - Rock
 - 10s
-title: 戰鬥 – 光澤掉落
+title: Battles – Gloss Drop
 ---
 
 

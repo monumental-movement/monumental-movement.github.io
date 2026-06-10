@@ -96,7 +96,7 @@ The kick is modest, and the side chain pumping is also moderately suppressed. In
 
 ### Sound Design
 
-Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Tones such as flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
+Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Sounds like flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
 
 Furthermore, in spatial processing, emphasis is placed on spaciousness and transparency. Reverb and delay are not just effects, but function as part of the music, creating a space that envelops the listener.
 
@@ -114,7 +114,7 @@ In this respect, it can be said that tropical house has shifted from ""music for
 
 ### Crossover progression
 
-Tropical house has a very high affinity with pop music. In fact, many pop artists have adopted this style and achieved chart success.
+Tropical house has a very high affinity with pop music. In fact, many pop artists have adopted this style and found success on the charts.
 
 This is the result of the genre's ""easy listening" and ""emotional openness" being accepted by a wide range of listeners. What is important is that while it is rooted in club culture, it has adapted to everyday environments such as at home and on the move.
 

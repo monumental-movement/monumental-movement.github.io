@@ -135,7 +135,7 @@ Radio no longer needs to be a "broadcast".
 ## Reinventing the podcast
 
 Podcasts were radio without a station.
-Created by individuals, spoken by individuals, and reaching individuals.
+Produced by individuals, spoken by individuals, and reaching individuals.
 
 Unlike music distribution, podcasts focus on storytelling.
 Music becomes an object to be analyzed, remembered, and contextualized.

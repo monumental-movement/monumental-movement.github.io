@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Markantonio – My Jewels EP
+title: Markantonio – 我的珠寶 EP
 ---
 
 

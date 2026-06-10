@@ -93,7 +93,7 @@ D --> E[immersion state]
 
 This "accident-like experience" was exactly what Warhol was aiming for.
 
-The prototype of the ""immersion'' in later club culture and rave culture can be seen here.
+The prototype of ""immersion'' in later club culture and rave culture can be seen here.
 
 > EPI was a device that destroyed appreciation and transformed it into experience.
 
@@ -103,7 +103,7 @@ The prototype of the ""immersion'' in later club culture and rave culture can be
 
 ### Anecdote behind the work
 
-Andy Warhol's masterpieces are often described as cool and inorganic, but there is a powerful story behind them.
+Andy Warhol's masterpieces are often described as cool and inorganic, but there is a strong story behind them.
 
 **Campbell's Soup Cans**
 The motif is the soup that Warhol himself ate on a daily basis. He found comfort in ""eating the same thing over and over again.''
@@ -145,7 +145,7 @@ For example, it was common for visitors to directly appear in movies. There was 
 
 One person said, ""I didn't find out about the movie I was in until later.''
 
-Edie Sedgwick has also become a Factory icon, whose glamorous and disastrous life is the stuff of legend.
+Edie Sedgwick has also become a Factory icon, whose glamorous and destructive life is the stuff of legend.
 
 Regarding music, Lou Reed is said to often perform with his back to the audience. This was an attitude that rejected the relationship with the audience and questioned the very concept of performance.
 

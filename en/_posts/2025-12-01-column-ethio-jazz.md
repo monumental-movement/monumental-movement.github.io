@@ -44,7 +44,7 @@ color: #fff;
 
 # # 1. The foundation of Ethiopian music: the pentatonic scale (kinet) and unique modal culture
 
-Ethiopia has had a multi-layered musical culture since ancient times, including Ethiopian Orthodox chants (Zara), the Azmari culture of local bards, and the urban music of the capital Addis Ababa.
+A multi-layered musical culture has existed in Ethiopia since ancient times, including Ethiopian Orthodox Christian chants (Zara), local Azmari minstrel culture, and the urban music of the capital Addis Ababa.
 
 Particularly famous is Ethiopia's unique modal system called ""qenet.''
 There are four typical Kinets:
@@ -237,7 +237,7 @@ It was later rediscovered in Washington, D.C., and toured the world.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Expanding the interpretation of jazz modes
+* Expansion of jazz mode interpretation
 * Frequently used as sample material in hip-hop
 * Influence on Afrobeat/Afrofusion
 
@@ -295,5 +295,13 @@ At the heart of this was Mulatu Astatuke's innovative vision.
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1Lhk5Jmyho?si=mPvPmNWQMomCgDmi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 

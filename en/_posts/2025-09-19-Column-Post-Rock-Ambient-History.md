@@ -92,7 +92,7 @@ color: #fff;
 
 **Main equipment**
 - Line 6 DL4
-- Akai MPC2000
+-Akai MPC2000
 -Korg MS-20
 
 ---

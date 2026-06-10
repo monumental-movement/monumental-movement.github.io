@@ -106,7 +106,7 @@ At this moment, a culture of software acceptance of external plugins began.
 * Actively introducing soft synths
 
 emagic and Steinberg compete as two major DAWs from Germany.
-Digidesign is moving toward becoming the "absolute king of audio editing."
+Digidesign is on its way to becoming the "absolute king of audio editing."
 
 ---
 
@@ -225,7 +225,7 @@ During this period, DAWs became mainstream with **CPU-dependent native processin
 ### ■ Steinberg, MOTU, and Adobe also continue to update
 
 *Steinberg has updated its VST3 engine.
-* MOTU moves into modern workflow with DP9/10
+*MOTU moves into modern workflow with DP9/10
 * Adobe's Audition penetration is due to increasing demand for podcasts
 
 By this time, the word "DAW" had become completely common,
@@ -315,7 +315,7 @@ MOTU has mastered **video synchronization**,
 Adobe has created its own market with **integration with broadcast and video editing**.
 
 Although the six companies compete with each other,
-As a result, together they have shaped the ""culture of music production itself.''
+As a result, they have together shaped the very culture of music production.
 
 After 2025, AI editing, cloud collaboration, expansion of mobile production, etc.
 The future of DAWs will take on a new dimension.

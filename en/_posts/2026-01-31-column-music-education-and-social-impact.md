@@ -64,7 +64,7 @@ Music was a symbol of modernization and at the same time functioned as part of n
 In the latter half of the 20th century, music education shifted its focus from skill training to expressive activities.
 Educational methods that emphasize children's independence, such as the Orff, Kodály, and Suzuki methods, have become popular internationally.
 
-> Changes in music curriculum reflect changes in the roles that society expects from children.
+> Changes in the music curriculum reflect changes in the roles that society expects from children.
 
 ---
 

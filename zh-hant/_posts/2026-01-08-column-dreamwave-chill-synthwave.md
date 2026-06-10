@@ -49,7 +49,7 @@ color: #fff;
 
 2010年前後，隨著網路共享文化的成熟，過去的影片、音源、設計資產開始重新流通。在這種趨勢下，20世紀80年代的聲音形像不再只是懷舊，而是成為了用現代情感重建的對象。 Dreamwave / Chill Synthwave 是一種重新詮釋，特別關注「場景記憶」。
 
-> 這裡提到的 80 年代更多的是一種集體記憶，而不是實際的時代。
+> 這裡所說的「80年代」更多的是一種集體記憶，而不是實際的時代。
 
 ---
 
@@ -61,13 +61,13 @@ Dreamwave/Chill Synthwave的音樂特徵是和聲的透明度、節奏的穩定�
 
 在音色方面，Juno 打擊墊、DX 電鋼琴、合唱處理過的低音以及使用延遲和混響的空間效果發揮著重要作用。
 
-> 楽曲は展開する物語というより、一定の感情空間を維持する装置として機能する。
+> 這些歌曲更多的是作為維持某種情感空間的手段，而不是作為一個展開的故事。
 
 ---
 
 ## 與視覺美感的關係
 
-Dreamwave / Chill Synthwaveは、音楽単体よりも映像と結び付くことで理解が深まる。夕暮れの都市、ネオン、海岸線、夜間ドライブ、VHS的質感などが頻繁に参照される。
+Dreamwave / Chill Synthwave 與影像結合比音樂本身更容易被理解。黃昏的城市、霓虹燈、海岸線、夜間駕駛和類似 VHS 的紋理經常被提及。
 
 這些視覺元素與歌曲的節奏和音調設計同步，提醒聽眾他們以前在某個地方見過的場景。圖像的作用是呈現情境而不是說故事。
 
@@ -78,7 +78,7 @@ B --> C[音色選択]
 C --> D[情緒的リスニング]
 </div>
 
-> 圖像不是一種輔助手段，而是作為音樂理解的一部分。
+> 圖像不是輔助手段，而是作為音樂理解的一部分。
 
 ---
 
@@ -96,7 +96,7 @@ FM-84 的作品參考了 80 年代的 AOR 和電影音樂情感，但使用現�
 
 ---
 
-## アーティスト事例：Timecop1983
+## 藝術家案例研究：Timecop1983
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDMWVOq2J6E?si=u9tK-wBO1Czas8H_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -104,7 +104,7 @@ FM-84 的作品參考了 80 年代的 AOR 和電影音樂情感，但使用現�
 
 Timecop1983是一位具有強烈Chill Synthwave方面的藝術家，其特點是結構簡單、聲像柔和。節奏保持在最低限度，旋律和和弦進行佔據中心舞台。
 
-雖然《Timecop1983》的音樂是類似BGM的，但它的設計是為瞭如果你仔細聆聽，你將能夠辨別音調和和聲選擇的微小變化。
+雖然Timecop1983的音樂類似於BGM，但它的設計是為瞭如果你仔細聆聽，你將能夠辨別音調和和聲選擇的微小變化。
 
 > Chill Synthwave 的精髓在於它融入聽眾的日常生活。
 

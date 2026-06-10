@@ -156,7 +156,7 @@ D --> E[international attention]
 E --> F[tour]
 </div>
 
-This flow points to a contemporary structure in which evaluations in the underground scene are globally connected.
+This flow indicates a contemporary structure in which evaluations in the underground scene are globally connected.
 
 > We have entered an era where local activities are instantly connected to the world.
 
@@ -164,16 +164,16 @@ This flow points to a contemporary structure in which evaluations in the undergr
 
 ## Visit to Japan and Festival
 
-### Appearance at FUJI ROCK FESTIVAL
+### FUJI ROCK FESTIVALへの出演
 
 In 2026, Angine de Poitrine will come to Japan for the first time and will appear at FUJI ROCK FESTIVAL. This is a major turning point for them, a connection from the underground to a wider audience.
 
-How experimental music like theirs is received in open venues such as festivals is an indicator of the diversity of contemporary music culture.
+フェスティバルという開かれた場において、彼らのような実験的な音楽がどのように受容されるかは、現代の音楽文化の多様性を測る指標ともなる。
 
 <div class="mermaid">
 flowchart TD
-A[underground scene] --> B[evaluation]
-B --> C[International expansion]
+A[地下シーン] --> B[evaluation]
+B --> C[国際展開]
 C --> D[Coming to Japan]
 D --> E[Festival appearance]
 </div>

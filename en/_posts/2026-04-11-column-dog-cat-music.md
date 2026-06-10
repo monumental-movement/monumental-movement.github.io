@@ -108,7 +108,7 @@ It has been confirmed that music that incorporates these elements induces a rela
 
 Characteristics of sounds that cats like:
 
-*Includes high frequency
+*Including high frequency
 * Soft continuous sound
 * Rhythm is simple or slow
 
@@ -141,7 +141,7 @@ This difference creates the following differences in recognition of the same sou
 
 * Human: Pleasant high pitched sound
 * Dog: Too much stimulation
-* Cat: Insufficient information
+* Cat: Insufficient amount of information
 
 Furthermore, the "density" and "sustainability" of the sound are also important. Continuous sounds tend to give a sense of security, while intermittent sounds tend to induce alarm.
 
@@ -239,7 +239,7 @@ A gentle tempo and a structure that mimics nature tends to elicit a relaxing res
 
 - Johann Sebastian Bach – Air on the G String
 
-The highly periodic structure and constant dynamics make it easy to synchronize with the dog's heartbeat. It is also important that there are few sudden peaks.
+Its highly periodic structure and constant dynamics make it easy to synchronize with your dog's heartbeat. It is also important that there are few sudden peaks.
 
 - Brian Eno – Music for Airports
 
@@ -263,7 +263,7 @@ The texture is close to natural sounds and the bass-centered design creates a co
 
 - Metallica – Master of Puppets
 
-It has a fast tempo and a lot of high-frequency distortion, which is likely to be overstimulating for dogs.
+It has a fast tempo and a lot of distortion in the high range, and is likely to be overstimulating for dogs.
 
 - Aphex Twin – Ventolin
 

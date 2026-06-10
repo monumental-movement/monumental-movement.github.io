@@ -12,7 +12,7 @@ title: Sam Harris – Holding On
 ---
 
 
-"Sam Harris – Holding On" is a 1999 release by Junior Vasquez, remixing the title song by Samuel Kent Harris.
+"Sam Harris – Holding On" is a 1999 release by Junior Vasquez that remixes the title song by Samuel Kent Harris.
 
 Remix – Junior Vasquez
 

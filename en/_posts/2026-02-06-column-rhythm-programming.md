@@ -24,7 +24,7 @@ Rhythm programming is not a matter of lining up the dots accurately. It is an ac
 
 With the advent of drum machines and sequencers, rhythm became separated from the body and became an object to be treated visually and numerically. This shift created a need to redefine the vague concept of groove at the expense of precision.
 
-> リズムプログラミングは、時間の感じ方そのものを設計する行為である。
+> Rhythm programming is the act of designing the very way we perceive time.
 
 ---
 
@@ -42,13 +42,13 @@ color: #fff;
 </style>
 
 
-## 第1章：機械的時間と4/4・16ステップ設計
+## Chapter 1: Mechanical time and 4/4/16 step design
 
-電子的リズム設計の基本単位は、4/4拍子を16分割した16ステップにある。この均等分割は、演奏の補助ではなく、設計の座標系として機能する。
+The basic unit of electronic rhythm design is 16 steps, which are divided into 16 4/4 time signatures. This equal division functions not as an aid to performance, but as a coordinate system for design.
 
 ### 4/4・16 steps basic layout example
 
-The most basic arrangement is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
+The most basic structure is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
 
 Accent design does not require all notes to be played at the same intensity. By simply making the first beat of the kick the strongest and the third beat a little weaker, you can create a sense of front and back in the flow of time.
 
@@ -65,7 +65,7 @@ In the latter, the second half feels lighter and the loop gives the impression o
 
 ## Chapter 2: Grid and Human Feel Design
 
-Arrangements that follow the grid perfectly fix time, but do not move it. This is where intentional deviations are introduced.
+An arrangement that perfectly follows the grid fixes time, but does not move it. This is where intentional deviations are introduced.
 
 ### Case: Backbeat Snare Delay
 

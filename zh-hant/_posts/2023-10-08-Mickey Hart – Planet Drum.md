@@ -15,7 +15,7 @@ title: 米奇·哈特 – 星球鼓
 
 《Planet Drums》是米基哈特 (Mickey Hart) 的世界音樂專輯，米基哈特是一位音樂家和音樂學家，也是搖滾樂團 Grateful Dead 的成員。
 
-其理念是与来自世界各地的打击乐手一起演奏鼓乐，并将他们不同的音乐风格和传统融入新的全球声音中。參與這張專輯的音樂家來自美國本土（Mickey Hart）、波多黎各（Giovanni Hidalgo 和 Frank Colon）、印度（Zakir Hussain 和 T.H. "Vic" Vinayakram）、尼日利亞（Sikiru Adepoju 和 Babatunde Olatunji）和巴西（Aatu Moreira 和他的妻子、主唱 Flora Purim）。
+其理念是與來自世界各地的打擊樂手一起演奏鼓樂，並將他們不同的音樂風格和傳統融入新的全球聲音中。參與這張專輯的音樂家來自美國本土（Mickey Hart）、波多黎各（Giovanni Hidalgo 和 Frank Colon）、印度（Zakir Hussain 和 T.H. "Vic" Vinayakram）、尼日利亞（Sikiru Adepoju 和 Babatunde Olatunji）和巴西（Aatu Moreira 和他的妻子、主唱 Flora Purim）。
 
 它獲得了1991年葛萊美獎最佳世界音樂專輯獎。
 

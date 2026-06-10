@@ -16,7 +16,7 @@ title: Torre Bros – Melted Faces EP
 
 Numoment Recordings 廠牌於 2014 年發行的 house/deep house 曲目。
 
-A面的第二首歌是Christian Soukup的混音版，他也被稱為Borrowed Identity，在電子音樂界被稱為變色龍。
+A面2曲目は、エレクトロニックミュージック界のカメレオンという異名をもつBorrowed IdentityことChristian Soukupによるremix。
 
 B 面是法國迪斯可/放克/浩室 DJ/製作人 Fred Berthet（也稱為 DJ Steef）的混音版。
 

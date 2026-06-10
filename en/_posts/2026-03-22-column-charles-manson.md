@@ -110,7 +110,7 @@ This setback pushed his ideas in a more extreme direction.
 
 ### Interpretation of "Helter Skelter"
 
-Manson created his own interpretations of the songs on The White Album. In particular, he reinterpreted the phrase "Helter Skelter" as a symbol of racial war and made it central to his own apocalyptic ideology.
+Manson created his own interpretations of the songs on The White Album. In particular, he reinterpreted the phrase "Helter Skelter" as a symbol of racial war and made it central to his apocalyptic ideology.
 
 This interpretation was entirely his own and had no relation to reality. However, within a closed community, it functioned as the only truth.
 

@@ -15,7 +15,7 @@ title: 弗蘭基·納克斯 (Frankie Knuckles) 與謝爾頓·貝克頓 (Shelton 
 
 弗蘭基·納克斯 (Frankie Knuckles) 是一位迪斯科和浩室音樂先驅，謝爾頓·貝克頓 (Shelton Becton) 是一位創作歌手/歌手。
 
-「It's Hard Sometime」は、彼らの共同制作による一曲で、ソウルフルなメロディ、繊細なリズム、心に響く歌詞とエレガントなハウスサウンドが特徴です。
+《It's Hard Sometime》是他們合作的一首歌曲，深情的旋律、細膩的節奏、感人的歌詞和優雅的浩室音色。
 
 #### 曲目表
 ```md

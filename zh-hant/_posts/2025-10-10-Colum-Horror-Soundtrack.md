@@ -86,7 +86,7 @@ A24的恐怖音響系統用「低語」而不是「尖叫」來震撼觀眾。
 
 ---
 
-2010年代半ば、80年代的ホラーサウンドが復活した。  
+2010 年代中期，80 年代的恐怖聲音捲土重來。
 在 ['It Follows' (2014)] (https://amzn.to/4mSiAaF) 中，Disasterpeace 形象化了被基於冷合成器的琶音追逐的恐懼。
 這首歌在俱樂部文化中流行起來，並成為重新評估復古合成器的機會。
 
@@ -144,7 +144,7 @@ Mica Levi 的 [``Under the Skin'' (2013)](https://amzn.to/3J4PJC6) 將異物的�
 
 ---
 
-### 第七章：AIとホラー音響の未来
+### 第 7 章：人工智慧與恐怖音訊的未來
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QEECiy3dgc?si=iKpYc6gYjDFiFlt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -170,7 +170,7 @@ Colin Stetson 的低音氣息、Disasterpeace 的電子張力、Bobby Krlic 的�
 所有這些都是「什麼是恐懼？」這個問題的聲學翻譯。
 
 恐怖的聲音與社交焦慮和個人孤獨產生共鳴。
-それはポップミュージックが失った“深層の感情”を取り戻すための音楽でもある。  
+它也是旨在重新獲得流行音樂失去的“深層情感”的音樂。
 下一代恐怖作曲家已經有能力將恐怖變成藝術。
 
 ---
@@ -203,14 +203,14 @@ flowchart TD
 |年份|標題 |作曲家 |標籤|連結 |
 | ---- | ------------------- | -------------------------------------- | -------------- |---------------------------------------------------------------- |
 | 2014 | *它跟隨* |災難和平|米蘭紀錄| [亞馬遜](https://amzn.to/4nIdRcN) |
-| 2018 | *Hereditary*        | Colin Stetson                 | Milan Records  | [Amazon](https://amzn.to/4mY7XDe) |
-| 2019 | *Midsommar*         | Bobby Krlic (The Haxan Cloak) | Milan Records  | [Amazon](https://amzn.to/4h66SrF) |
-| 2017 | *Get Out*           | Michael Abels                 | Back Lot Music | [Amazon](https://amzn.to/48YphVo) |
-| 2020 | *The Invisible Man* | Benjamin Wallfisch            | Back Lot Music | [Amazon](https://amzn.to/48qSwjs) |
+| 2018 | *世襲* |科林·斯泰森 |米蘭紀錄| [亞馬遜](https://amzn.to/4mY7XDe) |
+| 2019 | 2019 *仲夏節* |鮑比·克里克（哈克森斗篷）|米蘭紀錄| [亞馬遜](https://amzn.to/4h66SrF) |
+| 2017 | 2017 *滾出去* |邁克爾·阿貝爾 |背景音樂 | [亞馬遜](https://amzn.to/48YphVo) |
+| 2020 | *隱形人* |本傑明·沃爾菲施 |背景音樂 | [亞馬遜](https://amzn.to/48qSwjs) |
 
 ---
 
-> “Horror films no longer scream — they hum, resonate, and breathe.”
+> “恐怖電影不再尖叫——它們嗡嗡作響、產生共鳴、呼吸。”
 >——摘自A24製作人的話
 
 
@@ -219,4 +219,4 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 [【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？](https://monumental-movement.jp/Column-Soundtrack)
+🔗【專欄】電影音樂的媒體史：聲音是如何從螢幕傳到揚聲器的？ ](https://monumental-movement.jp/Column-Soundtrack)

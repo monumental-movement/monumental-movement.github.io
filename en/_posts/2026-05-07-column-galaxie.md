@@ -44,7 +44,7 @@ color: #fff;
 
 In the early 2000s, the music scene in Quebec, Canada, was at a unique turning point.
 
-While English-speaking indie rock was gaining momentum around the world, in Quebec the French language of rock expression was being passed down to a new generation. That's when the band that would later become known as "Galaxie" emerged.
+While English-speaking indie rock was gaining momentum around the world, in Quebec the French language of rock expression was being passed down to a new generation. That's where the band that later became known as "Galaxie" appeared.
 
 Their sound is difficult to describe in one word.
 
@@ -354,7 +354,7 @@ As a result, Galaxie's sound has a sense of connection to the entire scene.
 
 Rather than being an isolated band, they existed as part of the Quebec musical community.
 
-### Features of sound creation
+### Characteristics of sound creation
 
 Langevin's guitars are very distinctive.
 
@@ -378,7 +378,7 @@ A --> D[producer]
 A --> E[scene formation]
 </div>
 
-> Without Olivier Langevin, the phenomenon of Galaxie would not have existed.
+> Without Olivier Langevin, the phenomenon of Galaxie would not have been possible.
 
 ---
 

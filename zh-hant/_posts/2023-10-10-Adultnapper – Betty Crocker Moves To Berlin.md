@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - Electro
-title: Adultnapper – Betty Crocker Moves To Berlin
+title: Adultnapper－貝蒂妙廚搬到柏林
 ---
 
 

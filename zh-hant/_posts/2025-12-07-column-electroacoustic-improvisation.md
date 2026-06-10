@@ -65,7 +65,7 @@ Eddie Prévost 和 Keith Rowe 所展示的「非樂器聲音的解放」後來�
 
 ### 2-3.起源③：1980-1990年代的噪音/另類電子聲音
 日本噪音（Merzbow、Incapacitants等）透過對聲學材料的極致追求，暴露了「聲音的物質性」。
-另一方面，Otomo Yoshihide 和 Sachiko M 即興創作了極簡而複雜的電子聲音（正弦波），並奠定了 EAI 的基礎：「減少聲音數量」和「強調空間」。
+另一方面，Otomo Yoshihide 和 Sachiko M 在他們的即興創作中引入了簡約而複雜的電子聲音（正弦波），奠定了 EAI 的基礎：「減少聲音數量」和「強調空間」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -104,11 +104,11 @@ Eddie Prévost 和 Keith Rowe 所展示的「非樂器聲音的解放」後來�
 特徵：
 
 - 自製/修改的合成器電路、訊號產生器等。
-- ノイズではなく「制御可能な電子信号」を演奏  
+- 播放“可控電子訊號”而不是噪音
 - 像對待爵士樂句一樣對待電子聲音
 - 追求物理動作與電子反應的匹配
 
-Toral 在 EAI 中的獨特之處在於其徹底的“手奏電子聲音”，並且是模組化操作即興創作可能性的代表性範例。
+Toral 在 EAI 中的獨特之處在於其徹底的“手奏電子聲音”，並且是模組化操作即興創作可能性的代表範例。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoJ3vPqkz-w?si=lldtAtTk2AVOX-Ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -161,14 +161,14 @@ Sachiko M範例是一個典型範例，其中僅使用內部測試音。
 
 ---
 
-# 5. 區域擴張
+# 5.區域擴張
 
 ### 5-1.歐洲：維也納/柏林/倫敦
 - Fennesz（維也納附近）
 - AMM（倫敦）
 - Erstwhile Records（EAI旗下重要廠牌）
 
-### 5-2.日本：以東京為中心的聲學學校
+### 5-2. 日本：東京を中心とした音響派  
 - Off Site（Sendagi，1990 年代末至 2000 年代初）是國際 EAI 交流的基地。
 
 ### 5-3.葡萄牙：里斯本的電子即興表演
@@ -212,14 +212,14 @@ flowchart TD
 
 # 八、EAI現狀及未來發展
 
-EAIは明確なシーンとしては2000年代前半ほどの集中を見せていないものの、機材の進化とともに新たな形態を生み続けている。  
-特に以下の領域との接続が進んでいる：
+儘管EAI不像2000年代初期那樣集中作為一個獨特的場景，但隨著設備的發展，它不斷創造新的形式。
+具體而言，以下領域的聯繫正在取得進展：
 
 - 即時編碼
 - 模組化合成自動生成系統
 - 聲音藝術/裝置
-- フィールドレコーディング技術との融合  
-- 空間音響（Ambisonics）の即興利用
+- 與現場錄音技術融合
+- 即興使用 Ambisonics
 
 由於EAI仍然是一種“實踐”而不是一種“流派”，只要還有使用電信號的音樂家，它的形式就會不斷變化。
 

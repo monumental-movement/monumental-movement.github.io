@@ -9,7 +9,7 @@ permalink: /zh-hant/dave-and-dr-dope-get-wild/
 tags:
 - Techno
 - Hyper Techno
-title: Dave and Dr. DOPE – Get Wild
+title: 戴夫和 DOPE 博士 – 狂野起來
 ---
 
 

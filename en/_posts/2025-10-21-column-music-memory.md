@@ -60,7 +60,7 @@ Spotify playlists are also just a new format.
 
 ## Chapter 2: Recording and Playback — Birth of "Recorded Time"
 
-At the beginning of the 20th century, when **Edison's phonograph** appeared, humanity was able to reproduce the ""sounds of the past'' for the first time.
+At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the ""sounds of the past'' for the first time.
 It was a revolution in the history of music, and at the same time it was the birth of ""technology to preserve time.''
 
 Records, tapes, CDs, MP3s, and streaming.
@@ -176,7 +176,7 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A[sound stimulation] --> B[auditory cortex]
+    A[音刺激] --> B[auditory cortex]
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]

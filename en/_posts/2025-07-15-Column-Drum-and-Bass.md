@@ -46,7 +46,7 @@ D&B's roots lie in the jungle genre. This was a chaotic beat music that was a mi
 
 **Establishment period of Drum & Bass**
 
-From this time on, the name "jungle" gradually changed to "D&B". This means the sound is more refined and the sub-bass and production techniques have improved. Its functionality as club music increases and the scene matures.
+From this time on, the name "jungle" gradually changed to "D&B". This means a more refined sound, improved sub-bass and production techniques. Its functionality as club music increases and the scene matures.
 
 #### Representative artists:
 
@@ -110,7 +110,7 @@ Dark, industrial, inorganic sound. Representatives include Ed Rush & Optical and
 
 **● Neurofunk**
 
-Evolution of Tech Step. Mainly nervous and distorted bass lines. Noisia, Phace, Mefjus, etc.
+Evolution of Tech Step. Mainly a nervous and distorted bass line. Noisia, Phace, Mefjus, etc.
 
 **● Liquid Funk**
 
@@ -174,7 +174,7 @@ Currently, D&B reigns as the foundation of bass music around the world. Scenes a
 
 **● Featured contemporary artists**
 
-**Noisia (disbanded)**: God-level production skills.
+**Noisia (disbanded)**: God-level production technology.
 
 **Alix Perez**: A sonic alchemist who can do everything from dub to half step.
 

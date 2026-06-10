@@ -390,7 +390,7 @@ Modern fado is not just about preservation.
 
 ## Fado and literature
 
-### Portugal, the country of poetry
+### Portugal, the land of poetry
 
 Poetry occupies a very important place in Portuguese culture.
 
@@ -416,7 +416,7 @@ A bar at night, quiet seating, dim lighting.
 
 Demonstrate maximum strength in such an environment.
 
-In Lisbon's old town, not only tourists but also locals head to the fado houses at night.
+At night in Lisbon's old town, not only tourists but also locals head to the fado houses.
 
 There, people not only listen to music, but also share ""city time'' itself.
 
@@ -453,7 +453,7 @@ Among these, Fado functions as an important tourist content.
 
 Commercialization has also progressed, with fado shows attached to restaurants, short performances for tourists, and collaboration with cruise tours.
 
-There is also criticism that ""the original Fado spirit is lost.''
+There is also criticism that ""the original Fado spirit is lost''.
 
 However, on the other hand, the reality is that tourism has helped maintain performance spaces, allowing many young singers to continue their careers.
 

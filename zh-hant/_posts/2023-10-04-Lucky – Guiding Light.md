@@ -23,5 +23,5 @@ A. Guiding Light
 B. Guiding Light (Instrumental Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34273921585?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m34273921585?afid=6142608987){: .button1}
 

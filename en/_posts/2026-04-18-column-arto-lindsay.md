@@ -159,7 +159,7 @@ This approach also influenced later ambient and experimental music.
 
 ## Chapter 6: Discography and history
 
-### Flow of main works
+### Main work flow
 
 <div class="mermaid">
 timeline

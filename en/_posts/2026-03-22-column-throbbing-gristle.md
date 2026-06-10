@@ -147,7 +147,7 @@ Their work was often misunderstood and treated as ""dangerous'' for its depictio
 
 In this respect, they were also pioneers of media criticism. It used sound and visuals to show how information is manipulated and consumed.
 
-> They were a mirror of society, and at the same time a lens that amplified distortions.
+>They were a mirror of society, and at the same time a lens that amplified distortions.
 
 ---
 

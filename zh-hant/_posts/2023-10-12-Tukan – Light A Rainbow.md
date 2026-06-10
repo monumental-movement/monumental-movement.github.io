@@ -9,7 +9,7 @@ permalink: /zh-hant/tukan-light-a-rainbow/
 tags:
 - Trance
 - German Trance
-title: Tukan – Light A Rainbow
+title: 圖坎 – 點亮彩虹
 ---
 
 

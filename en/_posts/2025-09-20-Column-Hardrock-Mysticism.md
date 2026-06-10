@@ -14,7 +14,7 @@ title: '[Column] The intersection of hard rock, oriental philosophy, and mystici
 
 ## "West" and "East" hidden in hard rock
 
-Text: mmr｜Theme: Exploring the relationship between hard rock, Eastern philosophy, and mysticism through the examples of Led Zeppelin and Deep Purple
+Text: mmr | Theme: Exploring the relationship between hard rock, Eastern philosophy, and mysticism through the examples of Led Zeppelin and Deep Purple
 
 Hard rock is a major genre of rock that exploded from the late 1960s to the 1970s. Its musicality is characterized by its bold incorporation of Eastern philosophy and mystical elements, in addition to Western machoism and strength.
 
@@ -66,7 +66,7 @@ flowchart LR
 
 </div>
 
-As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern philosophy and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
+As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern thought and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
 
 ---
 
@@ -121,7 +121,7 @@ A4: Yes. Ideal for creating a powerful and mysterious atmosphere, especially dur
 
 ## summary
 
-ハードロックは、単なる「大音量のロック」ではなく、**西洋的マッチョさと東洋的神秘性の融合**というユニークな文化現象です。その本質は今もなお、映画やゲームの**サウンドトラック制作**や、進化を続ける**AI音楽生成**の世界に応用されています。これにより、私たちは過去の音楽遺産を未来のテクノロジーと結びつけ、新しい音楽的可能性を拓いているのです。
+Hard rock is more than just "loud rock"; it is a unique cultural phenomenon that is a fusion of Western machismo and Eastern mysticism. Its essence is still applied today in the world of **soundtrack production** for movies and games, and the ever-evolving world of **AI music generation**. This allows us to connect the musical heritage of the past with the technology of the future, opening up new musical possibilities.
 
 
 ---

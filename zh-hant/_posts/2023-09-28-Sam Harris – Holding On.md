@@ -13,7 +13,7 @@ title: 山姆哈里斯——堅持
 ---
 
 
-「Sam Harris – Holding On」は、本名Samuel Kent Harrisのタイトル曲をJunior Vasquezがリミックスした1999年のリリース作品です。
+《Sam Harris – Holding On》是 Junior Vasquez 於 1999 年發行的歌曲，由 Samuel Kent Harris 的主打歌重新混音而成。
 
 混音 – Junior Vasquez
 

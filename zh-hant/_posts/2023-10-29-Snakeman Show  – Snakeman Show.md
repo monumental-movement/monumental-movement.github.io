@@ -9,16 +9,16 @@ permalink: /zh-hant/snakeman-show-snakeman-show/
 tags:
 - JPop
 - Techno
-title: 蛇人秀 – 蛇人秀
+title: Snakeman Show  – Snakeman Show
 ---
 
 
-作為《蛇人秀》中A5曲目的花絮“快點用嘴吸吧！”
-保羅·麥卡尼被捕後，假設警方進行了審訊。
+スネークマン・ショー「急いで口で吸え!」に収録されているA5のトラックに関するトリビアとして、
+ポール・マッカートニー逮捕後の架空の警察尋問があります。
 
-這部電影是基於虛構的警察對保羅麥卡尼在日本被捕後的審訊，他在日本多次被要求籤名。
+ポール・マッカートニーが日本で逮捕された後の架空の警察尋問を題材にしており、彼は何度もサインを求められます。
 
-1980年1月，保羅麥卡尼訪問日本並在那裡演出。然而，當他抵達成田機場時，卻因攜帶過量大麻而被捕。麥卡尼被拘留幾天后，被判處罰款並被迫離開該國。
+1980年1月、ポール・マッカートニーは来日公演のために日本を訪れました。しかし、成田空港に到着した際に、所持していた大麻の量が多すぎるとして逮捕されました。マッカートニーは数日間拘留された後、罰金刑を言い渡されて国外退去を余儀なくされました。
 
 #### 曲目表
 ```md
@@ -60,7 +60,7 @@ B9. ユー・アンドーミー・オルガスムス・オーケストラ–ご�
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

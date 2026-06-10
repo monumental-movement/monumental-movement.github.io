@@ -14,7 +14,7 @@ title: 米歇爾波納雷夫 – 禮包系列
 ---
 
 
-Michel Polnareff – 禮品包系列由 Epic 於 1973 年發行。
+「Michel Polnareff – Gift Pack Series」は、	1973年にEpicからリリースされました。
 
 #### 曲目表
 ```md

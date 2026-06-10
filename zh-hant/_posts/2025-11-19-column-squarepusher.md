@@ -11,7 +11,7 @@ tags:
 - Drum n Bass
 - Jazz
 - Experimental
-title: 【コラム】 Squarepusher：ブレイクビーツとジャズ、電子音楽の融合者
+title: '[專欄] Squarepusher：碎拍、爵士樂與電子音樂的融合'
 ---
 
 
@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## 2. Tom Jenkinsonの生い立ちと音楽的背景
+## 2. 湯姆詹金森的早年生活與音樂背景
 
 ### 2.1 童年與音樂環境
 
@@ -50,8 +50,8 @@ color: #fff;
 ### 2.2 融合爵士樂的影響
 
 - Jaco Pastorius：複調低音、即興創作
-- ウェザー・リポート: 複雑なリズム  
-- ELP: 電子音とライブ融合  
+- 天氣預報：複雜的節奏
+- ELP：電子聲音與現場融合
 
 ### 2.3 邂逅電子音樂
 
@@ -152,7 +152,7 @@ graph LR
 ---
 
 
-3. **Conumber**
+3. **號碼**
 
    * 融合低音+IDM電音
 
@@ -171,7 +171,7 @@ graph TD
 
 ---
 
-### 5.2 辛苦爸爸 (1997)
+### 5.2 普通爸爸 (1997)
 
 **使用的設備**：Akai S3000、TR-808/909、Novation Bass Station、Moog Voyager
 
@@ -189,7 +189,7 @@ graph LR
 
 ---
 
-2. **Vic Acid**
+2. **維酸**
 
    * 多節奏+爵士即興創作
 
@@ -285,7 +285,7 @@ graph TD
 ## 7. 評估/影響
 
 * IDM，鼓和貝斯先驅
-* Warp Records黄金期支柱
+* Warp Records 黃金時代支柱
 * 技術精準+即興融合+創新評價
 
 ---

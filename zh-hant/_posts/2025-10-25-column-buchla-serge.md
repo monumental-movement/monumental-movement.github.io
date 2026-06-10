@@ -47,19 +47,19 @@ color: #fff;
 
 ## 1.Don Buchler：電子聲音的詩學
 
-### 1-1. From San Francisco Tape Music Center
+### 1-1.從舊金山磁帶音樂中心
 
 20 世紀 60 年代初，在舊金山的錄音帶音樂中心，**Morton Subotnick** 和 **Pauline Oliveros** 等藝術家正在探索實驗音樂與科技之間的新關係。
 他們尋找的是“一種不是鋼琴或吉他延伸的樂器。”
 
-Subotnickの依頼に応えて登場したのが、**Buchla Series 100（1963–1966）**である。  
+**Buchla Series 100 (1963–1966)** 應 Subotnick 的請求而出現。
 傳統的音樂可操作性被有意避免，例如使用旋鈕和跳線的聲學電路配置，以及觸控板鍵盤（實際上是一個沒有音階的電壓輸入設備）。
 
 > “沒有黑白鍵。” — 唐·布奇拉
 
 ### 1-2. Buchla 的理念：高性能電子產品
 
-布赫拉將樂器設計為“一個控制與生成共存的生態系統。”
+布赫拉將樂器設計為「一個控制與生成共存的生態系統」。
 聲音並不是直接來自表演者的身體，而是由電壓變化的抽象行為所產生的。
 因此，表演變成了即興的“表演”，聲音也變得流暢。
 
@@ -80,11 +80,11 @@ flowchart LR
 </div>
 
 這個結構象徵著布赫拉「催化聲音而不是操縱聲音」的世界觀。
-低通門（一種控制音量和音色的元素）後來成為 Eurorack 文化中的標準哲學設備。
+Low Pass Gate（音量と音色を一体制御する素子）は、後にEurorack文化でも定番の哲学装置となった。
 
 ---
 
-## 2. Serge Tochenin：民主化模組
+## 2. サージ・トチェーニン：民主化されたモジュール
 
 ### 2-1. 「人民合成器」的誕生
 
@@ -115,10 +115,10 @@ Serge 的基本理念是**「一個模組，多種功能」**。
 |元素|布赫拉 |謝爾蓋|
 |------|---------|---------|
 |起點|藝術家的實驗儀器|教育與DIY文化|
-|經營理念 |表演性（聲音作為動作）|功能性（結構健全）|
+|經營理念 |表演（聲音作為動作）|功能性（結構健全）|
 |功能設計|專用模組配置|組合通用模組 |
 |控制|抽象電壓操作|具體訊號處理 |
-|聲學趨勢 |有機、動態、流暢 |線性、清晰、反應快 |
+|聲學趨勢 |有機、動態、流暢 |線性、清晰、反應快|
 |文化影響 |藝術聲音、裝置|噪音、電子音樂、DIY 電子音樂 |
 
 ---
@@ -129,17 +129,17 @@ Serge 的基本理念是**「一個模組，多種功能」**。
 |----|--------|------|
 | 1963 | Buchla 系列 100 開發開始 | Subotnick 委託製作的第一個模組 |
 | 1966 | Buchla Music Easel 原型亮相 |便攜式合成器的創始人|
-| 1974 | Serge 模組化公告 | “人民的合成器”口號 |
+| 1974 | Serge 模組化公告 | “人民的合成器”口號|
 | 1980 | Serge 雙斜率產生器簡介 |已完成補丁概念|
 | 20 世紀 90 年代 |塞爾日重新評估期 |模擬的復興與復發|
-| 2004 | Eurorack 繁榮開始 |繼承Doepfer、Make Noise等 |
+| 2004 | Eurorack 繁榮開始 |繼承Doepfer、Make Noise等|
 | 2020 年代 | Buchla 美國/Serge 轉載|原創思想的重新語境化|
 
 ---
 
-## 5. モジュラー文化への影響
+## 5. 對模組化文化的影響
 
-ブックラとサージの哲学は、**音響そのものを“社会的行為”として再定義**した。  
+布赫勒和薩爾奇的哲學將聲音本身重新定義為「社會行為」。
 換句話說，他將注意力從「儀器」轉移到「環境」和「介面」。
 
 Eurorack的模組化「無限組合」不僅是零件的自由，而是意義的重新配置。
@@ -170,7 +170,7 @@ Buchla/Serge 精神在 Max/MSP、VCV Rack 甚至人工智慧生成的音樂工�
 
 模組化合成器不僅僅是創造聲音的「工具」；
 它是一種產生聲音和人之間發生的「事件」的媒介。
-BuchlaとSergeの設計思想は、まさにそのメディア哲学の萌芽であり続けている。
+Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,9 +179,9 @@ BuchlaとSergeの設計思想は、まさにそのメディア哲学の萌芽で
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBVCa3RaR0c?si=VWdNaHjNBMK-r8Mj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-## 結語 — “Control Voltage” の詩学
+## 結論—「控制電壓」的詩學
 
-ドン・ブックラは生前、こう語ったという。  
+據說唐·布克勒在去世前曾說過這句話。
 > “電壓不是一個數字——而是一個手勢。”
 
 中士也說。

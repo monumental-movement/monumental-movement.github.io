@@ -117,7 +117,7 @@ His students are developing Maneri's methodology and applying it to larger ensem
 
 ### 4-1 Polyphonic/polytonal thinking
 
-Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than an avant-garde experiment.
+Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than as an avant-garde experiment.
 
 ### 4-2 Microtonal Harmony
 

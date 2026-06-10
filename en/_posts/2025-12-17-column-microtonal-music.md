@@ -37,7 +37,7 @@ color: #fff;
 </style>
 
 
-## 1. Temperament is not a rule but an idea.
+## 1. Temperament is an ideology, not a rule.
 
 12 Equal Temperament is more of an established **industrial standard for production and distribution** than music theory.
 This is a response to demands for greater freedom in modulation, mass production of keyboard instruments, and standardization of education, and is not an optimal acoustic solution.
@@ -173,7 +173,7 @@ This is not noise, but can be used as an audible structural element.
 
 ### 8.2 Rearrangement of overtone array
 
-In just intonation, the overtones are aligned, so
+In just intonation, the harmonics are aligned, so
 
 * Increased clarity of chords
 * Reduced frequency band interference
@@ -243,7 +243,7 @@ This is established not through intellectual understanding but through repeated 
 Microtonal music does not form a single genre.
 
 * Experimental music
-* electronic music
+* Electronic music
 * Inside Jazz/Pop
 * Video/Installation
 
@@ -257,7 +257,7 @@ It exists not as a "genre" but as a production philosophy.
 graph TD
 A[Temperament concept] --> B[equal temperament]
 A --> C[Just intonation]
-A --> D[non-equal temperament]
+A --> D[non-equal scale]
 C --> E[harmonic structure]
 D --> F[cultural pitch]
 </div>

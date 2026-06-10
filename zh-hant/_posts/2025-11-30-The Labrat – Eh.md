@@ -21,7 +21,7 @@ title: 拉布拉犬——呃
 
 
 
-The Labrat 的 HipHop/Ragga HipHop 曲目在 Muy Caliente Records 發行。同一類別號，標籤文字有黑文版本和紅文版本，本筆記錄為紅文版本。
+The Labrat 的 HipHop/Ragga HipHop 曲目在 Muy Caliente Records 上發行。同一類別號，標籤文字有黑文版本和紅文版本，本筆記錄為紅文版本。
 
 #### 曲目表
 ```md
@@ -32,4 +32,4 @@ B1. Dame Chocha
 B2. Da Heazy
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19481515616?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m19481515616?afid=6142608987){: .button1}

@@ -9,7 +9,7 @@ permalink: /zh-hant/orquesta-de-la-luz-de-la-luz/
 tags:
 - Salsa
 - Latin
-title: Orquesta De La Luz – De La Luz
+title: 德拉光明樂團 – 德拉光明
 ---
 
 

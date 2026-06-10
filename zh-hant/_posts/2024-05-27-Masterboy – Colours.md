@@ -15,7 +15,7 @@ title: Masterboy – 顏色
 ---
 
 
-Masterboy 由 Tommy Schleh 和 Enrico Zabler 領導，是歐洲最著名的歐洲舞團，在 90 年代發行了一系列全球熱門歌曲。他們在 1990 年至 2004 年期間活躍，曾經中斷，並於 2013 年恢復活動。
+Masterboy 由 Tommy Schleh 和 Enrico Zabler 領導，是歐洲最著名的歐洲舞團，在 90 年代發行了一系列全球熱門歌曲。他們從 1990 年到 2004 年一直活躍，期間曾經中斷，並於 2013 年恢復活動。
 
 《Colors》是 Masterboy 於 1996 年發行的第五張專輯，是一張歐洲 house CD，其中收錄了《Show Me Colours》等熱門歌曲。
 第 13 首歌是由美國 DJ 兼製作人 David Morales 重新混音的。

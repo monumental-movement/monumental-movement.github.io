@@ -210,3 +210,11 @@ Why is this sound heard everywhere?
 > Amapiano showed that the future of music will come from networks, not from the center
 
 ---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dMmclkM7mUQ?si=LkJ1o4ymYhQV9bTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## I. 耳ではなく身体で聴く音楽
+## I. Listening to music with your body, not your ears
 
 Bass is a sound that your body reacts to before you hear it.
 He stands between rhythm and harmony, and determines the center of gravity of music.
@@ -74,7 +74,7 @@ Rhythm that speaks between sounds - this is what has elevated jazz to an art for
 ---
 
 Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
-Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
+Enjoying this "freedom of bass sounds" with the sensibilities of your own country,
 Before long, they were creating their own unique groove at night in Tokyo.
 
 ---
@@ -146,7 +146,7 @@ It blurred the line between club culture and live music.
 ---
 
 The delicate bass sounds of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ""breathing stillness.''
+There is not a scream, but a ""breathing stillness''.
 
 ---
 

@@ -85,7 +85,7 @@ During production, she was stalked and her living environment was shaken up. Thi
 
 ""Homogenic" is often cited as her masterpiece. Here, she succeeded in embodying her ""inner landscape" as sound.
 
-Strings and beats work closely together, creating a tectonic sonic sound on "Jóga." This is not just a metaphor; the music actually reflects Iceland's topographical image.
+Strings and beats work closely together, creating a tectonic sonic sound on "Jóga." This is not just a metaphor; the music actually reflects the geographical image of Iceland.
 
 In production, electronic sound programming and analog performance are precisely combined. This fusion had a great influence on later electronica.
 
@@ -161,7 +161,7 @@ timeline
 
 <div class="mermaid">
 flowchart TD
-A[voice] --> B[emotions]
+A[voice] --> B[emotion]
 A --> C[body]
 C --> D[rhythm]
 D --> E[electronic sound]

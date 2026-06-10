@@ -11,7 +11,7 @@ tags:
 - House
 - Progressive
 - Remix
-title: UNKLE – In A State
+title: UNKLE－處於一種狀態
 ---
 
 
@@ -21,7 +21,7 @@ title: UNKLE – In A State
 
 
 
-《In a State》是英國電子音樂團體UNKLE的一首歌曲。這首歌收錄在他們的專輯《Psyence Fiction》中，是受到特別關注的歌曲之一。
+「In a State」は、イギリスのエレクトロニック・ミュージック・グループであるUNKLE（アンクル）による楽曲です。この曲は、彼らのアルバム「Psyence Fiction」に収録されており、その中でも特に注目されたトラックの一つです。
 
 Sasha 的這首混音版尤其以其電子音樂元素和獨特的節奏而聞名。
 

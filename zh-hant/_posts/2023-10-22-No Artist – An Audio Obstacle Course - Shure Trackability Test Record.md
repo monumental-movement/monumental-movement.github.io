@@ -10,7 +10,7 @@ permalink: /zh-hant/no-artist-an-audio-obstacle-course-shure-trackability-test-r
 tags:
 - Technical
 - Non-Music
-title: 無藝術家 - 音訊障礙課程 - Shure 可追蹤性測試記錄
+title: No Artist – An Audio Obstacle Course - Shure Trackability Test Record
 ---
 
 

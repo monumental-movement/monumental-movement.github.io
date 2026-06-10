@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/king-kobra-i-want-your-sex/
 tags:
 - Euro Beat
-title: King Kobra – I Want Your Sex
+title: King Kobra – 我想要你的性愛
 ---
 
 
@@ -16,7 +16,7 @@ title: King Kobra – I Want Your Sex
 
 David Brian Srb 出生於內布拉斯加州奧馬哈，是一位多樂器演奏家、創作歌手、錄音工程師和音樂製作人。
 
-1980年代から1998年までイタリアに拠点を置き、様々な別名でユーロビートの楽曲を多数歌いました。
+1980 年代至 1998 年間，他居住在義大利，以各種化名演唱了許多 Eurobeat 歌曲。
 他目前在伊利諾伊州諾斯菲爾德的基督教遺產學院擔任技術總監和禮堂經理。
 
 #### 曲目表

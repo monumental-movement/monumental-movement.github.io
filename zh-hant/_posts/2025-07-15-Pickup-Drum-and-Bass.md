@@ -19,7 +19,7 @@ title: 拾取鼓和貝斯作品
 
 ### Aquasky – 尼龍跑車 / 宇宙膠
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Gluswebmic">p.
-一首 12 吋的碎拍曲目，以流暢而感性的鋼琴演奏為特色，創作於 1996-97 年左右。
+一首 12 吋碎拍曲目，以流暢而感性的鋼琴演奏為特色，創作於 1996-97 年左右。
 
 #### 曲目表
 ```md
@@ -83,7 +83,7 @@ AA. Fluid
 ### Motiv One – Cosmik / 循環進展
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Lresscom
 
-包含輕快、爵士、未來主義的聲音和主旋律。
+包含以阿門休息為中心的輕快、爵士、未來主義的聲音。
 
 #### 曲目表
 ```md

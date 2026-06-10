@@ -10,7 +10,7 @@ tags:
 - Minimal
 - Ambient
 - Field Recording
-title: 【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
+title: 【專欄】安迪高茲沃西與音樂－圍繞著時間與大自然的藝術共鳴
 ---
 
 
@@ -61,22 +61,22 @@ color: #fff;
 
 ### 作者：高茲沃西
 
-- [『A Collaboration with Nature』 (1990)](https://amzn.to/48qQfVp)
+- [「與大自然的合作」(1990)](https://amzn.to/48qQfVp)
 - [「手到地球」（1990）]（https://amzn.to/46r497l）
 - [「石頭」（1994）]（https://amzn.to/4n83E9l）
 - [「時間」（2000）]（https://amzn.to/3VYNbs4）
-- [『Wood』 (1996)](https://amzn.to/4pwJ04e)
+- [「木頭」（1996）]（https://amzn.to/4pwJ04e）
 - [「牆」(2000)](https://amzn.to/4mmHTBm)
-- [『Arch』 (1999)](https://amzn.to/4nmEsvO)
+- [「拱門」(1999)](https://amzn.to/4nmEsvO)
 - [「安迪‧戈茲沃西：計畫」(2004)](https://amzn.to/3IjjtLo)
 
 ---
 
-### Goldsworthy作品に合う音楽プレイリスト（ジャンル別）
+### 與 Goldsworthy 作品相符的音樂播放清單（按流派）
 
 #### 周圍的
 
-- Brian Eno ― *Ambient 1: Music for Airports*
+- Brian Eno - *Ambient 1：機場音樂*
 - 哈羅德·巴德 - *珍珠*
 - 蓋子之星 - *以及他們對衰落的改進*
 
@@ -84,12 +84,12 @@ color: #fff;
 
 - 克里斯·沃森 ― *天氣預報*
 - Jana Winderen ― *能量場*
-- Hildegard Westerkamp ― *Into the Labyrinth*
+- 希爾德加德韋斯特坎普 - *進入迷宮*
 
 #### 最小的
 
 - Steve Reich ― *18 位音樂家的音樂*
-- 特里·萊利 (Terry Riley) - *C*
+- 特里·萊利 - *C*
 - 菲利普·格拉斯 - *玻璃工廠*
 
 ---
@@ -104,7 +104,7 @@ color: #fff;
 
 #### 昼
 
-- 特里·萊利 (Terry Riley) - *C*
+- 特里·萊利 - *C*
 - Jana Winderen ― *能量場*
 - 菲利普·格拉斯 - *玻璃工廠*
 
@@ -112,7 +112,7 @@ color: #fff;
 
 - 哈羅德·巴德和布萊恩·伊諾 - *珍珠*
 - Hildegard Westerkamp - *Kits Beach Soundwalk*
-- Stars of the Lid ― *Requiem for Dying Mothers*
+- 蓋子之星 - *垂死母親的安魂曲*
 
 #### 夜
 
@@ -124,14 +124,14 @@ color: #fff;
 
 - 春天：坂本龍一 - *非同步*
 - 夏天：克里斯·沃森 ― *天氣預報*
-- 秋：Johann Johannsson ― *Orphée*
+- 秋季：約翰約翰遜 - *奧菲*
 - 冬季：Alva Noto 和 Ryuichi Sakamoto - *Vrion*
 
 ---
 
 ### 結論
 
-安迪·高茲沃西 (Andy Goldsworthy) 的作品具有「一次性」的品質，會隨著時間和自然而變化和消失。他的美學與環境、現場錄音和簡約音樂的「氛圍」、「重複」和「沉默」產生強烈共鳴。透過兩者的結合體驗，一場跨越視覺和聽覺的「與自然的對話」就誕生了。
+安迪·高茲沃西 (Andy Goldsworthy) 的作品具有「一次性」的品質，會隨著時間和自然而變化和消失。他的美學與環境、現場錄音和簡約音樂的「氛圍」、「重複」和「沉默」產生強烈共鳴。透過將兩者結合起來體驗，一場跨越視覺和聽覺感官的「與自然的對話」就誕生了。
 
 ---
 

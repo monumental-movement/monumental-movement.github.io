@@ -101,7 +101,7 @@ color: #fff;
 - 奧本海默分析（英國）
 - 綠松石日（英國）
 - 十一塘（美國、紐約）
-- Martin Dupont（France だが Minimal Wave 文脈でも再評価）  
+- Martin Dupont（法國，但也在最小波的背景下重新評估）
 
 象徵電子音樂DIY潮流的人很多。
 特別是**奧本海默分析**的《The Devil's Dancers》後來被Minimal Wave Records重新發行，成為了一首招牌歌曲。
@@ -145,13 +145,13 @@ color: #fff;
 
 ---
 
-## 5. アートワーク：ミニマルデザインの源流
+## 5. 藝術品：極簡設計的起源
 
-Minimal Wave / Coldwave のレコード・カセットには共通の美学が存在する。
+Minimal Wave/Coldwave 唱片和錄音帶具有共同的美感。
 
 ### ● 5-1。幾何設計
 - 網格、線性、點畫、符號佈局
-- 黒・白・金属色など無機質なカラーパレット
+- 無機調色板，包括黑色、白色和金屬色
 
 ### ● 5-2。如何使用照片
 - 藝術家的照片毫無表情，反差強烈。
@@ -170,12 +170,12 @@ Minimal Wave / Coldwave のレコード・カセットには共通の美学が�
 Minimal Wave/Coldwave 在 20 世紀 90 年代基本上被遺忘，但在 2000 年代得到了極大的重新評估。
 
 ### ● 6-1。最小波記錄（紐約）
-成立於 2005 年。主持人**Veronica Vasicka**，在担任 DJ 的同时还兼任
+成立於 2005 年。主持人**Veronica Vasicka**，在擔任 DJ 的同時還兼任
 作為一個編譯並重新發行其發現的最小合成器作品的廠牌，它引起了全世界的關注。
 
 代表編譯：
 - *最小波浪磁帶第 1 卷（2010 年，Stones Throw）*
-- *The Minimal Wave Tapes Vol.2（2012，Stones Throw）*
+- *The Minimal Wave Tapes Vol.2 (2012, Stones Throw)*  
 
 ### ● 6-2。網路與重新發現
 - 隨著 Discogs 的傳播，卡式錄音帶時代的稀有音源正在被分享。
@@ -198,14 +198,14 @@ Minimal Wave/Coldwave 在 20 世紀 90 年代基本上被遺忘，但在 2000 �
 
 ## 7. 代表藝術家及作品講解
 
-### ● Oppenheimer Analysis（UK）
-- Andy Oppenheimer と Martin Lloyd によるデュオ
+### ● 奧本海默分析（英國）
+- 安迪·奧本海默和馬丁·勞埃德二人組
 - 卡式錄音帶 *新墨西哥州* 於 1982 年發行
-- “The Devil’s Dancers” は代表曲として最も知られ、2008年に Minimal Wave Records から再発
+- 《The Devil’s Dancers》以一首標誌性歌曲而聞名，並於 2008 年在 Minimal Wave Records 上重新發行。
 
 ### ● 雙人（法文）
-- 1980年代前半のフランス・ミニマルシンセの中心
-- 男女デュオ（Cécile・Gerard）
+- 20 世紀 80 年代初法國極簡合成器的中心
+- 男女二人組（Cécile・Gerard）
 - 《遊戲與表演》是他的代表作。
 
 ### ● 21 三體（法國）
@@ -257,10 +257,10 @@ timeline
 
 ---
 
-## 10. 結論：為何Minimal Wave/Coldwave至今仍引起共鳴
+## 10. 結論：Minimal Wave / Coldwave が現代にも響く理由
 - **極簡主義的原韻味+類比電音**
 - **DIY精神的力量**
-- **ポストパンク譲りの孤独感・冷淡さ**
+- **繼承自後龐克的孤獨與冷漠**
 - **卡帶文化的低保真美學**
 
 這些對於現代 Bedroom Producer 文化和 Synthwave/Vaporwave 來說也是常見的。

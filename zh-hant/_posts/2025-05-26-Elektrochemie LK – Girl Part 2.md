@@ -15,7 +15,7 @@ title: Elektrochemie LK – 女孩！第2部分
 ---
 
 
-Elektrochemie LKは、90年代から活躍するドイツ出身のテクノミュージシャン・DJ Thomas Schumacher(トーマス・シューマッハ)の別名義。
+Elektrochemie LK 是 DJ Thomas Schumacher 的別名，他是一位自 20 世紀 90 年代以來一直活躍的德國 techno 音樂家。
 
 「Girl! / Part 2」是德國唱片公司 Leaded 於 2001 年發行的電子音樂歌曲。
 
@@ -34,7 +34,7 @@ B1. Let's Roll (Alexander Kowalski Remix)
 B2. Let's Roll (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o3VBR5k2ZVI?si=h8wMI5O9FVlRQUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

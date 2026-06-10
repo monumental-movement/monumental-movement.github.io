@@ -20,7 +20,7 @@ WestBam (Maximilian Lenz) 是一位德國 DJ/製作人，也是 Low Spirit 廠�
 
 A 是美國 Breaks/Breakbeat 製作人 DJ Icey 的混音版。
 
-AA1 是 Ghettotech 先驅 DJ Assault 的混音作品。 AA2 是來自底特律的 DJ Godfather 的混音版。
+AA1は、GhettotechのパイオニアDJ Assaultによるremix。AA2は、デトロイト出身のDJ Godfatherによるremix。
 
 #### 曲目表
 ```md

@@ -11,7 +11,7 @@ tags:
 - Rock
 - Improvisation
 - Experimental
-title: '[專欄]節奏革命者：連結日本與世界的鼓手的節奏前線'
+title: '[專欄]節奏革命者：連結日本與世界的鼓手們的節奏前線'
 ---
 
 
@@ -21,7 +21,7 @@ title: '[專欄]節奏革命者：連結日本與世界的鼓手的節奏前線'
 文：mmr｜主題：貫穿世界與日本的「節奏」譜系－連結地上與地下的鼓手200年歷史
   
 在處於歷史中心的鼓手的陰影下，有一些走在時代前面的地下實驗者。
-即使在巴迪·里奇和約翰·博納姆主宰主舞台的日子裡，另一個心跳也在倉庫或小型爵士酒吧的某個地方跳動。
+即使在巴迪·里奇和約翰·博納姆主宰主舞台的日子裡，倉庫或小型爵士酒吧的某個地方也有另一種心跳。
 它們常常過於過度、過於自由且難以理解。
 然而，新的節奏卻從那個「空白」中誕生了。
 
@@ -49,11 +49,11 @@ color: #fff;
 打擊樂器是音樂的開始，是世界的心跳。
 非洲村莊的鼓是語言的替代品，拉丁美洲的康加舞是祈禱的延續。
 在工業革命後的城市中，它與機器的節奏變得同步。
-ドラムセットが誕生したのは20世紀初頭。  
+架子鼓誕生於20世紀初。
 小鼓、大鼓和踩鈸的組合被設計成人類四肢的延伸，
-ジャズがそれを「即興の構造体」に変えた。
+爵士樂將其變成了“即興結構”。
 
-ジーン・クルーパ、バディ・リッチ、アート・ブレイキー──  
+吉恩·克魯帕、巴迪·里奇、阿特·布萊基──
 他們擊中的不是節奏，而是存在本身。
 節奏既不是主導也不是伴奏，而是樂團群體的「心跳」。
 演奏這首曲子的鼓手也是一位哲學家。
@@ -66,7 +66,7 @@ color: #fff;
 
 ### 1-1.爵士樂的黃金時代：從阿特·布萊基到艾爾文·瓊斯
 
-アート・ブレイキーの**「モーニン」**が象徴するように、  
+正如 Art Blakey 的《Moanin》所象徵的那樣，
 在爵士樂的黃金時代，鼓是「對話」的中心。
 領隊布萊基透過打鼓來培養年輕人。
 艾爾文瓊斯成為柯特蘭的「宇宙驅動力」。
@@ -102,7 +102,7 @@ Bonham 的《When the Levee Breaks》中的小鼓混響是
 
 東尼艾倫（Tony Allen）更出名的是費拉·庫蒂（Fela Kuti）的助手，他是「非洲節奏」的發明者。
 這種節奏是「反體制」的象徵，體現了軍事統治下尼日利亞人民的能量。
-鼓就是政治。那声音是抗议的声音。
+鼓就是政治。那聲音是抗議的聲音。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -122,8 +122,8 @@ Bonham 的《When the Levee Breaks》中的小鼓混響是
 ### 1-6。北美地下：Greg Fox、Deantoni Parks
 
 Greg Fox（前 Liturgy）是黑金屬和即興創作的融合。
-Deantoni Parks（The Mars Volta）用一隻手演奏採樣器，另一隻手演奏小鼓。
-「人間とマシンの同居」という21世紀的課題を身体で解く。  
+Deantoni Parks（The Mars Volta）は片手でサンプラー、もう片手でスネアを叩き、  
+用你的身體來解決 21 世紀「人類與機器共存」的挑戰。
 他們的表演介於宗教儀式和科技之間。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,9 +132,9 @@ Deantoni Parks（The Mars Volta）用一隻手演奏採樣器，另一隻手演�
 
 ## 第2章：日本的心跳－連結地上與地下的節奏
 
-### 2-1. ポンタ以後 — 職人から思想家へ
+### 2-1.繼 Ponta 之後－從工匠到思想家
 
-村上“ポンタ”秀一が築いたのは「日本語で叩く」感覚。  
+村上秀一《Ponta》創造的是「日文中的敲擊感」。
 然而，自 20 世紀 90 年代以來，新一代的出現打破了這種語法。
 他們透過**「移動間隙」**重新定義了音樂的重力。
 
@@ -145,9 +145,9 @@ Boredoms 的巨型鼓樂團「77BOADRUM」震撼了整座城市。
 對她來說，鼓不僅是一種打擊樂器，更是「生命的波浪」。
 
 此外，**Yo2ro** 也積極參與 Boredoms 和其他實驗音樂計畫。
-透過自由地操縱多節奏的垂直和水平面，他呼應了YOSHIMIO的宇宙節拍。
+ポリリズムの縦横を自在に操ることで、YOSHIMIOの宇宙的ビートと呼応する。  
 Yo2ro 的網羅每次被擊中時都具有改變空間的力量。
-他作為日本前衛鼓手的象徵而受到關注。
+日本のアヴァンギャルド・ドラマーの象徴的存在として注目されている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qi2cIPsakcc?si=TobHq-o75YSzNPeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -236,9 +236,9 @@ YOSHIMIO 和 Yo2ro 的宇宙節拍。
 |東尼艾倫 | *家庭烹飪* | 2002 | [亞馬遜](https://amzn.to/3WKLBKO) |
 |約翰‧博納姆 (齊柏林飛船) | *齊柏林飛船 IV* | 1971 | [亞馬遜](https://amzn.to/4o06I87) |
 |薑餅麵包（奶油）| *火輪* | 1968 | [亞馬遜](https://amzn.to/42NEdSu) |
-| Jeff Mills | *Live at the Liquid Room, Tokyo* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
+|傑夫米爾斯 | *在東京 Liquid Room 現場直播* | 1996 | [亞馬遜](https://amzn.to/42KKKNK) |
 |東尼威廉斯 | *終生：緊急情況！ * | 1969 | [亞馬遜](https://amzn.to/49boXCJ) |
-|村上秀一《Ponta》 | *節奏設計師* | 1994 | [亞馬遜](https://amzn.to/4qi2XfH) |
+|村上秀一《Ponta》| *節奏設計師* | 1994 | [亞馬遜](https://amzn.to/4qi2XfH) |
 |日野元彥 | *單獨在一起* | 1979 | [亞馬遜](https://amzn.to/4hgMB2E) |
 |吉田達也（廢墟）| *格羅寧根水乳腺* | 1993 | [亞馬遜](https://amzn.to/4hgQUeD) |
 |灰野敬二 | *渡志岳？ * | 1981 | [亞馬遜](https://amzn.to/47irVDb) |

@@ -21,7 +21,7 @@ title: 擊敗現實——著迷
 
 
 
-Beat Reality 是 Errol Lafleur、Mark Nieuwenhuijzen 和 Rene van Oosterwijk (DJ Rene) 的荷蘭 Hard House 計畫。
+Beat Realityは、Errol Lafleur, Mark Nieuwenhuijzen, Rene van Oosterwijk(DJ Rene)によるオランダのHard Houseプロジェクト。
 
 A 是荷蘭 tech-trance DJ/製作人 E-Craig (Dimitrie Siliakus) 的混音版。
 
@@ -34,7 +34,7 @@ A. Get Hooked (E Craig Remix)
 AA. Get Hooked (Phlash! Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m75684944804?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75684944804?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P-_fx2V-QB4?si=jRdCmXENxwSLZx2T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /zh-hant/pleasure-and-pain-higher/
 tags:
 - Euro Beat
 - Hi NRG
-title: Pleasure & Pain – Higher
+title: 快樂與痛苦－更高
 ---
 
 

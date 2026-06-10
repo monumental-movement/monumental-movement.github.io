@@ -13,7 +13,7 @@ title: Onnazae – Dark Knight EP
 
 
 "Dark Knight EP" is
-This is an EP by Onnazae, whose real name is Pete Prezzano, released by the label "Subtitled Records".
+This is an EP by Pete Prezzano, real name Pete Prezzano, released on the label "Subtitled Records".
 
 
 #### Tracklist

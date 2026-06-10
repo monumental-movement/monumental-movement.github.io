@@ -16,7 +16,7 @@ title: 未知藝術家 – Jim Tonic
 由偽唱片公司發行的 House 混音，發行非官方和盜版唱片，涉及法國 DJ/製作人/混音師 Bob Sinclar。
 
 A 是 Bob Sinclar 於 1998 年發行的「Gym Tonic」。
-B 是英國製作組合 Spacedust 於 1998 年發行的《Gym and Tonic》的另一個版本。
+B 是英國製作組合 Spacedust 於 1998 年發行的「Gym and Tonic」的另一個版本。
 
 #### 曲目表
 ```md

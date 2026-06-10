@@ -14,9 +14,9 @@ title: 艾琳卡拉——名聲
 ---
 
 
-艾琳·卡拉是一位美國歌手兼演員。她在1980年的音乐电影《Fame》中饰演Coco Hernandez，该片的主打歌《Fame》风靡全球。
+艾琳·卡拉是一位美國歌手兼演員。她在1980年的音樂電影《Fame》中飾演Coc​​o Hernandez，該片的主打歌《Fame》風靡全球。
 
-Irene Caraは映画『フラッシュダンス』の「Flashdance... What a Feeling(フラッシュダンス…ホワット・ア・フィーリング)」を歌ったことでも有名。
+艾琳·卡拉也因演唱電影《Flashdance》中的“Flashdance...What a Feeling”而聞名。
 
 #### 曲目表
 ```md

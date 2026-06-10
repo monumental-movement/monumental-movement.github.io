@@ -14,7 +14,7 @@ title: 帕特·麥格林——她寧願和我在一起
 ---
 
 
-Pat McGlynn 來自蘇格蘭，1976 年底在 Bay City Rollers 擔任吉他手，之後組成了自己的樂團 Pat McGlynn's Scotties。
+スコットランド出身のパット・マッグリンは、1976年後半にBay City Rollers（ベイ シティ ローラーズ）のギタリストとして活動したのち、自身のバンドPat McGlynn's Scotties（パット・マクグリンズ・スコッティズ）を結成。
 
 《She'dratherBeWithMe》由倫敦唱片公司於1977年發行。製作人是尼克·雷蒙德。
 

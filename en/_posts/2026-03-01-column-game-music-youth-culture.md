@@ -178,7 +178,7 @@ timeline
 
 <div class="mermaid">
 flowchart TD
-    A[hard constraints] --> B[melody enhancement]
+    A[hard constraints] --> B[melody reinforcement]
     B --> C[CD high quality sound]
     C --> D[Internet derivative work]
     D --> E[Streaming spread]
@@ -216,7 +216,7 @@ Changes in music exposure among young people:
 * Increased gameplay time
 * Establishment of streaming usage
 
-game music is
+The game music is
 "operation"
 "Successful experience"
 "Story immersion"

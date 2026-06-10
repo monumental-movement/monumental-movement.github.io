@@ -16,7 +16,7 @@ title: 德爾科斯塔 & 佩德羅·戈雅 – 《怪異麥克》
 
 葡萄牙電子音樂界的兩位重量級人物佩德羅·戈雅 (Pedro Goya) 和德爾·科斯塔 (Del Costa) 偉大的二人組在 Yoyaku、Ubiyu、Different Heads 和 Classic Music Company 等著名唱片公司發行了大量作品，這是一首電子科技浩室曲目。
 
-「Freaky Mike」は、DJ Linusによって設立されたドイツのハウスレーベルExun から2003年にリリースされた。
+《Freaky Mike》於 2003 年在 DJ Linus 創立的德國品牌 Exun 發行。
 
 B 面是 DJ All Star (Alexander Maier) 和 Don Disco 的混音版。
 

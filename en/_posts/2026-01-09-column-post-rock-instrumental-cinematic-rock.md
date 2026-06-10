@@ -59,7 +59,7 @@ What is important is that post-rock was not a ""negation of rock.'' While the gu
 
 ## Changes in the listening experience brought about by instrumentalization
 
-One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the picture, the music was freed from concrete meanings and stories, and turned into a more abstract experience.
+One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the foreground, the music was freed from concrete meanings and narratives, turning it into a more abstract experience.
 
 With instrumental music, the listener doesn't have to follow the words. Instead, attention is directed to the overlapping sounds, changes in strength and weakness, and the passage of time itself. This is a listening experience that requires active immersion rather than passive consumption.
 
@@ -99,9 +99,9 @@ The reason their music has been used in so many video productions is because of 
 
 ## Godspeed You! Black Emperor: A group that carves society and time
 
-Godspeed You! Black Emperor is a music collective that started in Montreal in the late 1990s. It has a strong character as a fluid collective rather than a fixed member composition, and is characterized by a large formation that uses multiple guitars, basses, drums, string instruments, and field recordings.
+Godspeed You! Black Emperor is a music collective that started in Montreal in the late 1990s. It has a strong character as a fluid collective rather than a fixed member composition, and is characterized by a large composition that uses multiple guitars, basses, drums, string instruments, and field recordings.
 
-Their work deviates greatly from the framework of a typical rock album. The piece is long and structured like multiple movements, alternating between silence and noise, melody and chaos. The songs often do not have a clear chorus or resolution, requiring patience and concentration from the listener.
+Their work deviates greatly from the framework of a typical rock album. The piece is long and structured like multiple movements, alternating between silence and noise, melody and chaos. There are often no clear hooks or resolutions, requiring patience and concentration from the listener.
 
 What Godspeed You! Black Emperor presented was an attempt to record social and historical time in sound rather than personal feelings. The sounds, announcements, and fragmented narratives of the city evoke a collective sense of anxiety and tension rather than manifesting a specific message.
 
@@ -160,7 +160,7 @@ This trend is not an abrupt break, but can be understood as a continuum in which
 
 Currently, post-rock instrumental and cinematic rock have become established as expressive methods rather than specific genre names. Its structure continues to be referenced in different contexts such as videos, games, and installations.
 
-Two directions set forth by Explosions in the Sky and Godspeed You! Black Emperor still serve as creative reference points. Music, which has no words, continues to connect with the listener's own experiences, transcending eras and cultures.
+Two directions set forth by Explosions in the Sky and Godspeed You! Black Emperor still serve as creative reference points. Music without words continues to connect with the listener's own experiences, transcending eras and cultures.
 
 > Post-rock instrumental music will continue to create new stories through silence and time.
 

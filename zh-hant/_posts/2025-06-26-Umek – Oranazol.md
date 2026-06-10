@@ -9,7 +9,7 @@ permalink: /zh-hant/umek-oranazol/
 tags:
 - Techno
 - 00s
-title: Umek – 奧拉那唑
+title: Umek – Oranazol
 ---
 
 

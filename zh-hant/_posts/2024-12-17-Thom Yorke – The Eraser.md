@@ -16,7 +16,7 @@ title: 湯姆約克——橡皮擦
 ---
 
 
-「The Eraser」は、2006年にXL RecordingsからリリースされたUKのミュージシャンThom Yorke(トムヨーク)のデビューソロアルバム。プロデューサーは、Thom YorkeのバンドRadioheadの長年のプロデューサーであるNigel Godrich。
+《The Eraser》是英國音樂家 Thom Yorke 的首張個人專輯，由 XL Recordings 於 2006 年發行。製作人是奈傑爾·戈德里奇 (Nigel Godrich)，他是 Thom Yorke 樂隊 Radiohead 的長期製作人。
 
 該專輯被《NME》和《滾石》雜誌評為2006年最佳專輯之一，並獲得2006年水星音樂獎和2007年葛萊美獎最佳另類音樂專輯提名。
 

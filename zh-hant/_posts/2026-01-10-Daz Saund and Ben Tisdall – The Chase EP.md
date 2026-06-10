@@ -9,13 +9,13 @@ permalink: /zh-hant/daz-saund-and-ben-tisdall-the-chase-ep/
 tags:
 - Techno
 - 00s
-title: Daz Saund & Ben Tisdall – The Chase EP
+title: Daz Saund 與 Ben Tisdall – The Chase EP
 ---
 
 
-クラブ GarageやTrade でレジデントを務めたDaz SaundとプロデューサーBen Tisdall(Rizzo)によるプロジェクト。二人はHousewerk, Sound Associates名義でも活動している。
+由 Garage and Trade 俱樂部常駐者 Daz Saund 和製片人 Ben Tisdall（Rizzo）共同完成的專案。兩人也以 Housewerk, Sound Associates 的名義工作。
 
-「The Chase EP 」は、日本のレーベルSublime RecordsのサブレーベルReel Musiqから2000年にリリースされたTechnoトラック。
+《The Chase EP》是一首 Techno 曲目，於 2000 年在日本廠牌 Sublime Records 的子廠牌 Reel Musiq 上發行。
 
 #### 曲目表
 ```md

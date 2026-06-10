@@ -20,7 +20,7 @@ MAW 這個名字是由 Todd Terry 創造的，他在 20 世紀 80 年代末用�
 
 這張唱片是英國廠牌 Mr Bongo 於 2000 年發行的 House/Latin 混音版。
 
-A1&B2は、Romatts (DJ Romain&Matt Keyz)によるremix。
+A1 和 B2 是 Romatts（DJ Romain 和 Matt Keyz）的混音。
 
 B1 是 The Funky Lowlives 的混音版，這是一個 house/Afro house/downtempo DJ 項目，由來自英國倫敦的 Gary Danks 和 Jonathan K. Whitehouse 製作。
 
@@ -32,7 +32,7 @@ B1. Brazilian Beat (The Funky Lowlives Mix)
 B2. Brazilian Beat (Romatts 'Eternal Sun' Drum Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40404157071?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m40404157071?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juoeV2DSuus?si=lugV4IcgsV4-q_6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

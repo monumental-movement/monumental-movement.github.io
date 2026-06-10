@@ -10,7 +10,7 @@ permalink: /zh-hant/marco-bailey-and-redhead-2-3/
 tags:
 - Techno
 - 00s
-title: 馬可貝利 & 紅髮女郎 – 2 3
+title: 馬可貝利和紅髮女郎 – 2 3
 ---
 
 

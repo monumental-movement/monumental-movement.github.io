@@ -9,11 +9,11 @@ permalink: /zh-hant/2-the-core-the-final-destination/
 tags:
 - Euro House
 - Euro Beat
-title: 2 The Core – The Final Destination
+title: 2 核心——最終目的地
 ---
 
 
-2 The Core 是一個 Eurohouse 樂隊，由荷蘭舞曲音樂唱片製作人 Michiel van der Kuy 和 Nick Name 組成。
+2 The Core 是由荷蘭舞曲音樂唱片製作人 Michiel van der Kuy 和 Nick Name 組成的 Eurohouse 樂團。
 
 #### 曲目表
 ```md

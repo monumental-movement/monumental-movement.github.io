@@ -26,7 +26,7 @@ Of particular importance was the music of bebop innovator Charlie Parker. Fast, 
 
 At the same time, he was deeply connected to the hip-hop culture that originated in the Bronx. Grandmaster Flash's turntable technology presented a new way of manipulating time, chopping up sounds, rearranging them, and updating their meaning. Basquiat transforms this into a visual method.
 
-Painting is not a static act. It is a performance that progresses in time that is continuously updated in sync with the music.
+Painting is not a static act. It is a performance that progresses in a time frame that is continuously updated in sync with the music.
 
 >Sound functioned not as a background but as the rhythm of thought itself
 

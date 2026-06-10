@@ -105,7 +105,7 @@ Isolated.
 
 This feeling is directly reflected in their sound.
 
-While the American West Coast thrash of the same period was urban and street-like, Voivod's music has an "industrialized cold region" feel.
+While the American West Coast thrash of the same period was urban and street-oriented, Voivod's music had an "industrialized cold region" feel.
 
 This was a fairly rare trait in metal history.
 
@@ -554,7 +554,7 @@ He was building guitars with a unique feel.
 
 As a result, Voivod has a unique floating feeling that is difficult to explain.
 
-### Piggy's death
+### Piggy's Death
 
 In 2005, Piggy died of colon cancer.
 
@@ -580,7 +580,7 @@ This is similar to the punk DIY spirit.
 
 The Voivod were building their own world.
 
-### SF comic worldview
+### SF comic world view
 
 The world Away depicts is a mixture of Mobius, underground comics, and science fiction animation.
 
@@ -592,11 +592,11 @@ With Voivod, artwork and sound are perfectly connected.
 
 This is very important.
 
-They weren't just creating album jackets, they were creating world settings.
+彼らは単なるアルバムジャケット制作ではなく、世界設定を作っていた。
 
 ### Expanding Metal Aesthetics
 
-Much of 1980s metal featured muscular, exaggerated visuals.
+1980年代メタルの多くは、筋肉的で誇張されたビジュアルを用いていた。
 
 But Voivod is different.
 
@@ -621,13 +621,13 @@ mindmap
       Isolation
 </div>
 
-### Consistency of worldview
+### 世界観の一貫性
 
 Voivod changes with each work.
 
 However, at its core, the sense of an ""unstable future world'' remains consistent.
 
-This has pushed them beyond just a genre band to a ""general artistic band.''
+これが彼らを単なるジャンルバンドではなく、“総合芸術的バンド”へ押し上げた。
 
 > The artwork for Away was a huge device called Voivod that visualizes the universe.
 
@@ -669,7 +669,7 @@ SF worldview.
 
 Acoustic spatiality.
 
-What was once heresy later became standard.
+かつて異端だったものが、後にスタンダード化したのである。
 
 ### After "Target Earth"
 
@@ -778,7 +778,7 @@ That"s because they weren"t just a trend, they were turning ""anxiety about the 
 
 ---
 
-## Main albums
+## Major albums
 
 | Works | Publication year | Features |
 | ------------------ | ---- | -------------- |

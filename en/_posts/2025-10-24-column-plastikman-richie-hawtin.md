@@ -46,14 +46,14 @@ Hawtin was influenced by the **spirit that resides in the mechanical rhythms** o
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the limit, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeats and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
 > "Plastikman is a project that uses sound to visualize my own insides."
 > — Richie Hawtin
 
-The live shows around this time had red strobe lights flashing momentarily in the almost pitch-black venue, symbolizing the materialization of sound. Rather than dancing, the audience felt as if they were ""sinking'' into the sound.
+Live performances around this time had red strobe lights flashing momentarily in an almost pitch-black venue, symbolizing the materialization of sound. Rather than dancing, the audience felt as if they were ""sinking'' into the sound.
 
 #### Plastikman – Musik
 
@@ -90,14 +90,14 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 
 ## Chapter 4: Technology and the Body - Rebuilding the LIVE Concept
 Hawtin also pioneered the fusion of technology and performance.
-In the 2000s, he **redefined DJ play** with the "DE9" series, establishing the ""**prototype of digital DJ**'' that used Ableton Live and Traktor to reconstruct tracks in real time.
+In the 2000s, he **redefined DJ play** with the DE9 series and established the ""prototype of digital DJ**'', which uses Ableton Live and Traktor to reconstruct tracks in real time.
 
 On his stage, an environment was constructed in which MacBook, MIDI controller, lighting and video were completely synchronized, presenting a new concept of **""live = breathing data''**.
 
 ---
 
 ## Chapter 5: Playing Plastikman with "EX"
-""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to a museum space.
+""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to the museum space.
 The stage is shrouded in darkness, and Houtin stands as if imprisoned in a glowing cage. The audience shares the experience of ""observing the structure of sound" rather than ""watching a DJ."
 
 > "Plastikman remains the music of an inward journey."
@@ -110,7 +110,7 @@ His minimalism evolved, completely dissolving the boundaries between music and a
 Plastikman"s genes permeate Villalobos, Donato Dozzy, Cio D"Or, and the modern modular scene.
 ""Pleasure of structure," ""introspection of sound," and ""temporization of space'' -- these elements now form the basis of techno.
 
-In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground in **a dialogue between piano and minimalism**. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
+In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground as a dialogue between piano and minimalism. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
 
 ---
 
@@ -294,7 +294,7 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
+| 1999 | Magda | **Track 1** | A dark minimalist test piece.             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
 | 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |

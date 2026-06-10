@@ -13,7 +13,7 @@ title: Quartz – 呼喚 EP
 ---
 
 
-Quartz（阿德里亞諾·菲利普奇）是一位義大利 DJ 和製作人。 The Calling 是一首科技歌曲，由蒙特婁科技迷幻唱片公司 Ascend Recordings 於 2002 年發行。
+Quartz（阿德里亞諾·菲利普奇）是一位義大利 DJ 和製作人。 The Callingは2002年にモントオールに拠點を置くテックトランsureーベルチトチトめぁぁえげぁ。
 
 #### 曲目表
 ```md

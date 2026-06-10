@@ -9,7 +9,7 @@ permalink: /zh-hant/lou-reed-new-york/
 tags:
 - Punk
 - Art Rock
-title: Lou Reed – New York
+title: 盧·里德 – 紐約
 ---
 
 

@@ -162,9 +162,17 @@ Afrobeat in the 1970s, when analog recording was the mainstream, was produced in
 
 ## Conclusion
 
-Afrobeat and Afro-Fusion are musics that were formed in different historical backgrounds and production environments, even though they share the same cultural sphere. The former is a collective expression rooted in a specific historical situation, and the latter is an individual and fluid expression after globalization. Through the facts presented in this paper, we can confirm continuity and discontinuity between the two.
+Afrobeat and Afro-Fusion are musics that were formed in different historical backgrounds and production environments, even though they share the same cultural area. The former is a collective expression rooted in a specific historical situation, and the latter is an individual and fluid expression after globalization. Through the facts presented in this paper, we can confirm continuity and discontinuity between the two.
 
 > "The two are not opposed concepts, but are understood as different stages placed on a historical timeline."
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FkyF3NbhnwE?si=sLGBbMj4FqcGAtBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

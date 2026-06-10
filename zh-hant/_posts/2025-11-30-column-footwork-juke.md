@@ -41,10 +41,10 @@ color: #fff;
 
 ## 一、歷史背景
 
-Footwork/Juke 於 20 世紀 80 年代末和 90 年代初誕生於芝加哥的貧民窟社區。最初，它作為浩室音樂和貧民窟音樂的分支而存在。
+Footwork/Juke 於 20 世紀 80 年代末和 90 年代初誕生於芝加哥的貧民窟社區。最初，它是作為浩室音樂和貧民窟音樂的分支而存在的。
 
 - **1980年代末期**：隨著Chicago House的蓬勃發展，一種被稱為“Ghetto House”的更具侵略性的House音樂在地區俱樂部和派對中發展起來。
-- **20 世紀 90 年代初**：一種由短節奏、重複樣本和快速移動舞步組成的文化（稱為 Juke）誕生了。
+- **20 世紀 90 年代初期**：一種由短節奏、重複樣本和快速舞步組成的文化（稱為 Juke）誕生了。
 - **20 世紀 90 年代末**：Footwork 這個名字出現了。舞蹈和音樂緊密相連的文化開始傳播。
 
 <div class="mermaid">
@@ -90,13 +90,13 @@ flowchart LR
 
 Footwork/Juke 場景中存在以下重要人物和標籤。
 
-| アーティスト/プロデューサー | 貢献 |
+|藝術家/製作人 |貢獻 |
 |--------------------------|------|
-| DJ 拉沙德 | 運用複雜的節奏與創新的樣本技術| futtowaークを國際的に広めた中心人物。
+| DJ 拉沙德 |在國際上傳播步法的核心人物。部署複雜的節奏和創新的取樣技術|
 | DJ 史賓 |與DJ Rashad打造Footwork聲音，對年輕人影響力大 |
 | RP 噓 |早期步法創始人之一，Ghetto House 變身步法 |
 |特拉克斯曼 |為芝加哥 Juke 場景的發展做出了貢獻 |
-| Mu星球 |英國廠牌 Footwork 在國際上發布 |
+|穆星球 |英國廠牌 Footwork 在國際上發布 |
 
 ---
 
@@ -114,7 +114,7 @@ timeline
 
 ---
 
-## 6. 国際的な拡がり
+## 6. 國際擴張
 
 自 2010 年代以來，步法一直吸引著美國以外的人們的注意。它尤其影響了歐洲、日本、巴西和澳洲的電子舞曲音樂界。
 
@@ -140,7 +140,7 @@ timeline
 
 ---
 
-- **DJ Spinn – “完全”**
+- **DJ Spinn – “At All”**  
 創意樣本運用，舞蹈與音樂緊密結合。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -149,7 +149,7 @@ timeline
 
 ## 8. 步法的社會意義
 
-- 芝加哥南區非裔美國人社區的文化出口。
+- 芝加哥南區非裔美國人社區的文化輸出。
 - 青年表達方式與社區營造的角色。
 - 它已被世界各地的俱樂部和節日接受為一種新的舞蹈風格。
 

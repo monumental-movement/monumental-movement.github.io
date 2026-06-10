@@ -218,7 +218,7 @@ graph LR
 A[Video layer 1] --> D[superposition]
 B[Video layer 2] --> D
 C[acoustic layer] --> D
-D --> E[division of perception]
+D --> E[splitting of perception]
 </div>
 
 In this work, the audience cannot be fixed on one point of view. The experience changes depending on where you look and where you listen.

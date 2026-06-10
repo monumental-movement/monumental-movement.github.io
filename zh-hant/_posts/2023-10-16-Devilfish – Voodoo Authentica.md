@@ -12,7 +12,7 @@ title: 魔鬼魚 – Voodoo Authentica
 ---
 
 
-Devilfish 是由 Frederik Soderstrom 和 Sina Morshed Solouk 組成的技術團隊。
+Devilfishは、Frederik SoderstromとSina Morshed Soloukによるテクノユニット。
 
 #### 曲目表
 ```md

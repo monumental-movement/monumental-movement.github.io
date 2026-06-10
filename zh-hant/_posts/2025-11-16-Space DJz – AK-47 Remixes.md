@@ -14,7 +14,7 @@ title: Space DJz – AK-47 混音
 ---
 
 
-《AK-47》混音版的 2 張唱片合集，由倫敦英國 techno DJ/製作人二人組 Space DJz 於 1998 年發行，製作人包括 Chris McCormack、Oliver Ho、The Advent、Inigo Kennedy、Umek、Gaetek 等。
+由倫敦英國 techno DJ/製作人二人組 Space DJz 於 1998 年發行的 2 張唱片《AK-47》混音合集，製作人包括 Chris McCormack、Oliver Ho、The Advent、Inigo Kennedy、Umek、Gaetek 等。
 
 #### 曲目表
 ```md

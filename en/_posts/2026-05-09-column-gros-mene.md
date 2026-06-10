@@ -241,7 +241,7 @@ Fred Fortin's solo works, his time with Galaxie, and his experiences were brough
 "Agnus Dei" won "Album de l"année – alternatif" at ADISQ in 2013.
 It was also highly rated on GAMIQ.
 
-In other words, what was once "dangerous and crude underground rock" was now officially recognized as an important work in Quebec music.
+In other words, what was once ""dangerous and crude underground rock'' was now officially recognized as an important work in Quebec music.
 
 ### Deepening musicality
 
@@ -305,7 +305,7 @@ They maintained that classic feel.
 Production on Pax et Bonum began around 2014.
 In other words, it was actually a work that took a very long time to create.
 
-Recording took place in a studio and chalet in Saint-Félicien.
+Recording took place in a studio/chalet in Saint-Félicien.
 Land characteristics are also important here.
 
 ### Sound changes
@@ -321,7 +321,7 @@ But this is not just a bad idea.
 At Gros Mené, vulgarity and vulgarity are important aesthetics.
 
 Art is not just about elegance.
-Even drunken conversations and local banter have musical value.
+There is musical value in even drunken conversations and local banter.
 That's what they seem to think.
 
 ### Members and collaborators
@@ -446,8 +446,8 @@ Surrounded by English-speaking North America, French music always takes on cultu
 
 Gros Mené answered this question not in theory but in practice.
 
-They didn't prove that it was possible to play rock in French.
-Rather, they created "rock that could only exist because it was Quebecois French."
+They didn't prove that it was possible to play rock music in French.
+Rather, they created ""rock that could only exist because it was Quebecois French''.
 
 The accent, the phrasing, the local feel.
 It was important to bring them to the fore rather than hide them.

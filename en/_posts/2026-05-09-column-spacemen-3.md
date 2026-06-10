@@ -374,7 +374,7 @@ At the time of production,
 The relationship between Jason Pierce and Peter Kember was deteriorating.
 
 musical direction,
-Human relationships too
+Human relationships too,
 He was already approaching his limit.
 
 ### Difference in direction between the two

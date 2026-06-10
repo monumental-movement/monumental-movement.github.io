@@ -9,11 +9,11 @@ permalink: /zh-hant/act-four-carat-trax-1-carat-trax-1/
 tags:
 - Trance
 - 90s
-title: Act Four - Carat Trax 1 – Carat Trax 1
+title: 第四幕 - Carat Trax 1 – Carat Trax 1
 ---
 
 
-「Carat Trax 1」は、
+「Carat Trax 1」是
 這是由 Andres Romero 和 Stefan Wuyts 組成的 Act Four 單元的一張 EP，於 1994 年在比利時唱片公司 Circus 上發行。
 
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/band-aid-do-they-know-its-christmas/
 tags:
 - Rock
 - Pops
-title: Band Aid – Do They Know It's Christmas
+title: 創可貼－他們知道今天是聖誕節嗎
 ---
 
 

@@ -17,7 +17,7 @@ title: 化學兄弟-憤怒的循環
 
 這首「Get Up on It Like This」的聲音樣本取自 Africa Islam 1983 年播放的廣播節目。在該節目中，還出現了主唱“We’re 'bout ready to rock stable”，也用於“Block Rockin Beats”中。
 
-「Get Up on It Like This」は、その後のアルバム「Dig Your Own Hole」で再構築された形で収録されました。
+《Get Up on It Like This》以重組形式收錄在隨後的專輯《Dig Your Own Hole》中。
 
 #### 曲目表
 ```md

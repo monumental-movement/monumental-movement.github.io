@@ -64,7 +64,7 @@ The musical foundation of Northern Soul lies in soul music produced in America. 
 
 A British club DJ unearths works by unknown artists recorded in Detroit, Chicago, Los Angeles, Philadelphia, and even southern regions such as Alabama and Texas. Although these songs never charted in the United States, they had the power to set dance floors ablaze in northern England.
 
-DJs went directly to the United States to make purchases, scouring inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of records in which no one else had them became valuable, and a "one-of-a-kind culture" unique to Northern Soul was formed.
+DJs went directly to the United States to make purchases, finding inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of records in which no one else had them became valuable, and a "one-of-a-kind culture" unique to Northern Soul was formed.
 
 > Northern Soul was a cross-border culture that was established through the rediscovery and reappraisal of black American music.
 

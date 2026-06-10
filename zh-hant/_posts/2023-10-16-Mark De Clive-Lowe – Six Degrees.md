@@ -9,13 +9,13 @@ permalink: /zh-hant/mark-de-clive-lowe-six-degrees/
 tags:
 - House
 - Latin
-title: 馬克·德·克萊夫-洛——六度
+title: 馬克‧德‧克萊夫-洛 – 六度
 ---
 
 
 Mark De Clive-Lowe 是一位紐西蘭爵士樂鍵盤手、音樂製作人、作曲家、藝術家和俱樂部 DJ。
 
-《六度》是 Marc de Clive Lowe 的第三張專輯，由 Universal Jazz 於 2000 年發行。
+《六度》是 Marc de Clive Lowe 的第三張專輯，於 2000 年由 Universal Jazz 發行。
 
 #### 曲目表
 ```md
@@ -36,7 +36,7 @@ D2. Motherland
 D3. El Dîa Perfecto (Reprise)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1GbddYtNVg?si=4eftkyqnuAw4svLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

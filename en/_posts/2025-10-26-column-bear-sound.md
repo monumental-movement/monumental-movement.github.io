@@ -15,11 +15,11 @@ title: '[Column] Expansion of bear damage and impact of sound'
 ## 1. Introduction: Current status of bear damage and the importance of sound
 
 
-Text: mmr | Theme: An analysis of the damage caused by bears, which has been increasing in recent years, from the perspective of the impact of noise and behavior control. Examining the role of sound design in the coexistence of humans and bears
+Text: mmr | Theme: An analysis of the damage caused by bears, which has been increasing in recent years, from the perspective of the impact of noise and behavior control. Examining the role that sound design plays in the coexistence of humans and bears
 
 In recent years, damage caused by bears has been rapidly increasing in Japan. There are approximately 1,000 cases of crop damage per year, and human damage has approximately doubled in the past 10 years (Ministry of the Environment's ""Wild Animal Damage Statistics 2024''). The physical measures taken so far are not sufficient, and sustainable damage control methods are required.
 
-What is attracting attention is the ""control of bear behavior through sound.'' Bears have a well-developed sense of hearing and are sensitive to human voices, warning sounds, and artificial sounds at specific frequencies. In recent years, an increasing number of demonstration experiments have been conducted by farmers, local governments, and research institutions, expanding the possibilities of sound management based on scientific evidence.
+What is attracting attention is ""controlling bear behavior through sound.'' Bears have a well-developed sense of hearing and are sensitive to human voices, warning sounds, and artificial sounds at specific frequencies. In recent years, an increasing number of demonstration experiments have been conducted by farmers, local governments, and research institutions, expanding the possibilities of sound management based on scientific evidence.
 
 ---
 
@@ -121,7 +121,7 @@ G[high frequency electronic sound] --> H[experimental avoidance]
 
 ---
 
-### 4.2 Experiment example
+### 4.2 Experimental example
 
 - **Hokkaido Orchard (2015–2018)**: Invasion rate reduced by 40% due to use of firecrackers
 

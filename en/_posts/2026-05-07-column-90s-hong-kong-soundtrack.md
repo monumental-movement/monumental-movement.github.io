@@ -21,11 +21,11 @@ title: '[Column] The Golden Age of Hong Kong Movie Soundtracks: The Heartbeat an
 
 Text: mmr｜Theme: Soundtrack innovation and urban culture resonance in 1990s Hong Kong films
 
-Hong Kong cinema in the 1990s was an era in which the contours of the city were engraved not only through images but also through sound. The reflections of neon lights, the humid night air, the speed and impatience all flow into the audience's bodies along with the music. In particular, the soundtrack was not just a background, but functioned as another narrator running alongside the story.
+Hong Kong cinema in the 1990s was an era in which the contours of the city were engraved not only through images but also through sound. The reflections of neon lights, the damp night air, the speed and impatience, all of which flow into the audience's bodies along with the music. In particular, the soundtrack was not just a background, but functioned as another narrator running alongside the story.
 
 At this time, Hong Kong's handover in 1997 was just around the corner, and there was a unique sense of tension and floating in the society as a whole. Film music directly reflected this atmosphere, sometimes expressing the heartbeat of the city with pop and lightness, and other times with urgent rhythms.
 
-In Koisuru Planet, for example, repeated pop songs emphasize the characters' loneliness and the dislocation of time, and the music itself is integrated into the structure of the story. Here, ""music selection'' began to have the same meaning as composition.
+For example, in Koisuru Planet, repeated pop songs emphasize the loneliness of the characters and the dislocation of time, and the music itself is integrated into the structure of the story. Here, ""music selection'' began to have the same meaning as composition.
 
 > The music of Hong Kong movies in the 1990s was a device for reproducing the city's time itself.
 
@@ -153,7 +153,7 @@ After Men's Elegy, the combination of slow motion and lyrical music became estab
 
 ---
 
-## Wong Kar-wai and the poetics of sound
+## Wong Kar-wai and the Poetics of Sound
 
 ### Recontextualization of existing songs
 

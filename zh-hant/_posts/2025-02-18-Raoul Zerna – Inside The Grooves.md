@@ -10,11 +10,11 @@ tags:
 - House
 - Tech House
 - 00s
-title: 澤納（Raoul Zerna）－《凹槽內》
+title: 澤納（Raoul Zerna）－《Inside The Grooves》
 ---
 
 
-Raoul Zerna 是一位 DJ 兼制作人，其 housebeat 风格受到 techno、tech house 和拉丁语的影响。他祖籍厄瓜多尔，现居洛杉矶。作為一名 DJ，他曾與 Carl Cox、DJ Sneak、Bad Boy Bill、DJ Dan 和 DJ Keoki 等藝術家合作，並在世界各地的音樂節和現場表演中演出。
+Raoul Zerna 是一位 DJ 兼製作人，其 housebeat 風格受到 techno、tech house 和拉丁語的影響。他祖籍厄瓜多爾，現居洛杉磯。作為一名 DJ，他曾與 Carl Cox、DJ Sneak、Bad Boy Bill、DJ Dan 和 DJ Keoki 等藝術家合作，並在世界各地的音樂節和現場表演中演出。
 
 《Inside The Grooves》是一首 house/tech house 曲目，由舊金山廠牌 Mizumo Music 於 2006 年發行。
 

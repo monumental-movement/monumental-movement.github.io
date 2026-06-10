@@ -51,7 +51,7 @@ Pop Will Eat Itself 是一支成立於 1986 年的英國另類搖滾樂團。
 2-9. Wake Up! Time To Die... (Instrumental Demo)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0-FaCRhqzVU?si=t-eUHNuOf04pZpMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

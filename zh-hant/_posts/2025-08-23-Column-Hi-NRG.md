@@ -23,7 +23,7 @@ title: 【專欄】高能與LGBTQ：象徵解放與認同的舞曲
 
 ### Hi-NRG 和同性戀俱樂部文化的誕生
 
-從 20 世紀 70 年代末到 80 年代，Hi-NRG（高能量）作為源自迪斯科的電子快節奏舞曲而出現。
+從 20 世紀 70 年代末到 80 年代，Hi-NRG（高能量）作為一種源自迪斯科的電子快節奏舞曲而出現。
 該聲音的特點是快節奏（120-140 BPM）、基於合成器的連複段和戲劇性的女聲，並且比傳統迪斯科有一種更宣洩和更有活力的感覺。
 
 Hi-NRG 在同性戀俱樂部中擁有特別強大的追隨者。在 1970 年代石牆騷亂之後，LGBTQ 群體在俱樂部場景中尋求表達和身份的一席之地，Hi-NRG 充當了他們的「解放音樂」。
@@ -32,7 +32,7 @@ Hi-NRG 在同性戀俱樂部中擁有特別強大的追隨者。在 1970 年代�
 
 <小時>
 
-### Hi-NRG 在 LGBTQ 中的作用
+### Hi-NRG 在 LGBTQ 中的角色
 🌈自由的象徵
 
 在同性戀仍然受到歧視和偏見的時代，Hi-NRG 提供了「一個人們可以跳舞、彼此相愛而不受任何人束縛的空間」。俱樂部舞池是人們逃離社會壓迫的安全空間，Hi-NRG 作為背景音樂是必不可少的。
@@ -52,7 +52,7 @@ Hi-NRG的歌詞常以愛、慾望、自我解放為主題，不僅能與直愛�
 
 🌈 與毒品文化的融合
 
-Bobby Orlando 的神聖歌曲（例如“You Think You're a Man”）象徵著 Hi-NRG 與變裝皇后文化之間的直接聯繫。她的表演激進且具有挑釁性，打破了音樂和性別表達的界限。
+Bobby Orlando 的神聖歌曲（例如“You Think You’re a Man”）象徵著 Hi-NRG 與變裝皇后文化之間的直接聯繫。她的表演激進且具有挑釁性，打破了音樂和性別表達的界限。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd2Gzkkwe9Q?si=1vDrkwCLzK8yabnV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -108,7 +108,7 @@ Hi-NRG 最終演變成芝加哥 house 和 Eurobeat，並對當今的 EDM 和 Hyp
 Hi-NRG 不僅僅是「舞曲」；它是一種體現 LGBTQ 群體的歷史、鬥爭和解放的流派。
 強勁的節拍和閃爍的合成器是 20 世紀 80 年代同性戀俱樂部對生命的慶祝，也是逃避社會壓迫的一種手段。
 
-即使在今天，在討論音樂與性之間的關係時，Hi-NRG 仍然被重新評估為一個重要的存在。
+即使在今天，在討論音樂與性之間的關係時，Hi-NRG 仍然被重新評估為必不可少的存在。
 
 ---
 

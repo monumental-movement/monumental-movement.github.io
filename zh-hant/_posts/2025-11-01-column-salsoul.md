@@ -43,11 +43,11 @@ color: #fff;
 
 ## 費城聲音的誕生：Gamble & Huff 和 Sigma Sound
 
-1960年代末、フィラデルフィアの音楽シーンを支えたのは、**Kenneth Gamble**と**Leon Huff**による**Philadelphia International Records (PIR)**。  
+20 世紀 60 年代末，由 **Kenneth Gamble** 和 **Leon Huff** 創立的 **費城國際唱片公司 (PIR)** 支持費城音樂界。
 他們以 **Sigma Sound Studios** 為基地開始活動，旨在取代摩城成為黑人音樂的新中心。
 
-録音を支えたのが、専属セッション集団――**MFSB**である。  
-MFSBのメンバーには以下のような錚々たる顔ぶれがいた：
+錄製由獨家會話組 - **MFSB** 支援。
+MFSB 的成員包括：
 
 - 厄爾楊（鼓）
 - 諾曼哈里斯（吉他）
@@ -76,7 +76,7 @@ MFSB 不僅僅是一支樂隊，它體現了一個新概念：「工作室管弦
 ## 薩爾索爾管弦樂團的誕生：費城之聲的獨立宣言
 
 1975 年，**Vincent Montana Jr.** 離開 MFSB，成立**Salsoul Orchestra** 來追求他的理想。
-バックには**Salsoul Records**（創設者：Cayre兄弟）があり、ラテン要素を強く打ち出したディスコ・サウンドを志向していた。
+在**Salsoul Records**（創辦人：Cayre 兄弟）的支持下，他們的目標是打造帶有濃鬱拉丁元素的迪斯可音樂。
 
 Montana 利用他在 PIR 培養的編曲技巧將拉丁打擊樂和弦樂融為一體。
 結果，創建了一個獨特的方程式：**Disco+Orchestra+Salsa=Salsoul**。
@@ -88,7 +88,7 @@ Montana 利用他在 PIR 培養的編曲技巧將拉丁打擊樂和弦樂融為�
 
 ---
 
-## Vincent Montana Jr. ― 職人の美学とディスコの理想郷
+## Vincent Montana Jr. - 工匠美學與迪斯科烏托邦
 
 蒙大拿的安排理念很明確。
 > “管弦樂隊是你統治俱樂部的武器。讓共鳴器、豎琴和弦樂在節奏中翩翩起舞。”
@@ -163,7 +163,7 @@ MFSB 和薩爾索爾管弦樂團是黑人音樂史上的「橋樑」。
 這就是**弦樂演奏節奏**的矛盾之美。
 蒙大拿之手創造的建築之美繼續在舞池深處閃耀。
 
-> “The Sound of Philadelphia never dies—it just keeps dancing.”
+> 「費城之聲永遠不會消失——它只會繼續跳舞。”
 > ——小文森‧蒙塔納
 
 

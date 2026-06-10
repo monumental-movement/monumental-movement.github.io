@@ -11,7 +11,7 @@ tags:
 - Euro
 - House
 - 90s
-title: MDC-X-Static – You And Me
+title: MDC-X-Static – 你和我
 ---
 
 

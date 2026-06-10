@@ -14,7 +14,7 @@ title: Dave Aju – 非正統醫師 EP
 
 
 Marc Barrite，也稱為 Dave Aju，是一位居住在舊金山的美國 DJ/製作人。
-《The Unorthodoctor EP》是法國廠牌 Circus Company 於 2003 年發行的 Dave Aju 的首張作品。
+「The Unorthodoctor EP」はフランスのレーベルCircus Companyより2003年にリリースされたDave Ajuのデビュー作。
 
 Dave Aju 還與 Alland Byallo、Kenneth Scott 和 Marc Smith 一起扮演 Kamm。
 

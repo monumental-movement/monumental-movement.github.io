@@ -18,9 +18,9 @@ Clan Greco是由Neffa e Sud Sound System製作人和聯合製作人Ricky Rinaldi
 
 == 參展藝術家
 
-ベース：Christian Lisi
+貝斯手：克里斯蒂安·利斯
 
-ドラム：Roberto Ponzio, Roberto Rossi
+鼓：羅伯托龐齊奧、羅伯托羅西
 
 鍵盤：大師加羅法洛、米歇爾特羅貝蒂
 

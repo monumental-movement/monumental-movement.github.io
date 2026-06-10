@@ -215,3 +215,11 @@ D -->|symbolic/historical| E[Cultural inheritance/memorial live]
 Toots and the Maytals' live shows were the embodiment of musical genre development, community building, and international cultural exchange. Interactivity with the audience, improvisation, and historical continuity through live performances are the reasons why their music has been passed down through the ages. Live performances are not just musical performances, but cultural rituals that embody reggae itself.
 
 ---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NL2P2FPn3h0?si=FmIthSA9Y8S0bJlB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

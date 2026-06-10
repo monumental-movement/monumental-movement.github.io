@@ -37,7 +37,7 @@ color: #fff;
 
 ### Father Yod/James Edward Baker — Trajectory and Legend
 
-#### Early life and career
+#### Early life and transition
 
 Born July 4, 1922 in Cincinnati, Ohio. He later talks about his experience serving as a Marine (although some point out that his Silver Star medal cannot be found in official records).
 
@@ -57,7 +57,7 @@ Marriage, Wives, and Children: His legal wife was Robin Popper (later Ahom), but
 Journalism and non-fiction articles have explored this dual nature, with anecdotes about him being a "soldier/former marine/war hero" and stories about him being a "cult leader/ex-marine/bank robber" with accusations of involvement in bank robberies and murders.
 
 
-While the commune was in operation, there are records that there were disputes that are typical of cult operations, such as ""abandonment of personal property," ""cutting off of relatives," and ""permission to marry young members.''
+While the commune was in operation, there are records of disputes that are typical of cult operations, such as ""abandonment of personal property", ""cutting off of relatives", and ""permission to marry young members''.
 
 
 On August 25, 1975, he died in an accident while attempting his first hang glider flight in Hawaii (he is said to have crashed and died approximately 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
@@ -75,7 +75,7 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
-Initially released under the name "Father Yod & The Spirit of "76". After that, spellings such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" were used with some fluctuation.
+Initially released under the name "Father Yod & The Spirit of "76". After that, the notation such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" was used with some fluctuation.
 
 
 There was also a period when they were active in bands under different names such as "Savage Sons of Ya Ho Wa," "Fire, Water, Air," and "Yodship."
@@ -197,7 +197,7 @@ flowchart LR
 
 ---
 
-### Current situation/reassessment and legacy
+### Current situation/re-evaluation and legacy
 
 
 #### Re-evaluation/Reissue
@@ -216,7 +216,7 @@ In 2009, a compilation of unreleased songs such as [Magnificence in the Memory](
 ---
 
 
-#### Reunion/Activities
+#### Reunion/activities
 
 In 2007, the original members (Sunflower, Octavius, Djin) reportedly performed live for the first time in 33 years.
 
@@ -237,7 +237,7 @@ It is argued that his orientation toward improvisation, spatiality, and transcen
 
 In fields such as commune culture, cult movements, and outsider music research, the existence of Yahowha13/Source Family has become a typical example and subject of research.
 
-On the other hand, it also includes controversial topics such as ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
+On the other hand, it also includes a controversial approach that includes ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
 
 ---
 
@@ -309,7 +309,7 @@ Fact: Many tracks are centered around chants, fragmented lines, and religious de
 
 Main motif:
 
-Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - Divine name/sacred role.
+Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - divine name/sacred role.
 
 
 References to the archetypal "travel/purification/elements (fire/water/air/earth)" — a symbol that also appears in the album/song titles.
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
+### Highlights & recommended listening order (beginner → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 
@@ -466,7 +466,7 @@ The sound "Ya Ho Wha" itself is a sacred mantra of the Source Family, an express
 
 **90s psych reissue boom**: P.S.F. Records and Captain Trip Records actively introduced Yahooha 13.
 
-It has been featured as a ""phantom cult psychedelic" in magazines such as ""Eureka" and ""Eurorock Press,'' and Japanese listeners avidly collect it.
+It has been featured as a ""phantom cult psychedelic'' in magazines such as Eureka and Eurorock Press, and Japanese listeners avidly collect it.
 
 **Evaluation trends**: In Japan, it is loved as ""heretical" and ""esoteric psychedelic," and has become a collector's item at imported disc shops (Disc Union, Melon, Manhattan Records, etc.).
 

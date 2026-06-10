@@ -9,7 +9,7 @@ permalink: /zh-hant/black-4-white-so-i-love-you-baby/
 tags:
 - Italo
 - Euro House
-title: Black 4 White – So I Love You Baby
+title: 黑 4 白 – 所以我愛你寶貝
 ---
 
 

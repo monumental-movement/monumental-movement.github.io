@@ -53,13 +53,13 @@ color: #fff;
 
 ---
 
-## 二. Crustal changes in the world: History of 20th century music driven by bass sounds
+## 二.世界的地殼變化：貝斯驅動的 20 世紀音樂史
 
 ### 1.從爵士樂的反叛開始。
 
 聆聽 Charles Mingus 演奏
 這聽起來不僅僅是低音線，它聽起來像是對社會的聲明。
-怒りと知性、即興と構築。その低音には詩が宿る。  
+憤怒與智慧、即興創作與建構。低音裡有詩意。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -82,7 +82,7 @@ color: #fff;
 ### 2.搖滾革命：歌唱貝斯與尖叫貝斯
 
 1960年代，貝斯出現在搖滾樂的中心。
-ポール・マッカートニーは旋律を奏でるベーシストとして革命を起こし、  
+保羅麥卡尼以一位悠揚的貝斯手開啟了一場革命，
 約翰·恩特威斯爾（The Who）在喧囂中尋求建築之美。
 
 傑克·布魯斯（奶油）和約翰·保羅·瓊斯（齊柏林飛艇）
@@ -103,7 +103,7 @@ Sid Vicious（性手槍樂團）拒絕詭計，用他的存在發出叛逆的聲
 當拉里·格雷厄姆的巴掌演奏風格誕生的那一刻，
 貝斯本身就成了節奏。
 Bootsy Collins 的宇宙放克，
-ジャコ・パストリアスが描いたフレットレスの詩。  
+雅科·帕斯托里斯的一首無憂無慮的詩。
 
 低音不再是“伴奏”，而是演變成了“敘述者”。
 米克·卡恩和東尼·萊文將聲音本身視為一座雕塑，
@@ -119,7 +119,7 @@ Bootsy Collins 的宇宙放克，
 
 在YMO之前，細野晴臣已經改變了日本流行音樂的「重心」。
 遵循單字節奏而非英語節奏的低音調。
-彼が打ち立てたのは“日本語でグルーヴする”という美学だった。  
+他所建立的是「日文中的律動」美學。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -163,11 +163,11 @@ STUTS 和 yahyel 將打字和現場音樂結合在一起。
 目前的樂團如 King Gnu 和 millennium parade，
 低音控制著歌曲的「敘事」。
 濱岡本是傳統與現代的結合體。
-プレイヤビリティの先に“音楽的礼節”を提示している。
+它提供了超越可玩性的“音樂文明”。
 
 ---
 
-## 四．黑夜传说：由贝斯连接的反主流文化
+## 四．黑夜傳說：由貝斯連結的反主流文化
 
 Joy Division 的 Peter Hook、PIL 的 Jah Wobble、
 和《會說話的頭像》中的蒂娜·韋茅斯。
@@ -183,21 +183,21 @@ Joy Division 的 Peter Hook、PIL 的 Jah Wobble、
 ---
 
 貝斯不再是一種樂器，
-它已成為「文化的共同語言」。
+“文化の共通言語”になっている。
 
 ---
 
 ## 五、設備與美學：樂器敘述的另一段歷史
 
 Fender Precision、爵士貝斯、Rickenbacker。
-それぞれの形は、音楽思想そのものの違いを示す。  
+每種形狀都顯示音樂思想本身的差異。
 
 合成貝斯的發展也使貝斯聲音大眾化。
 穆格、羅蘭、Novation——機器有感情，
 基線從“程序”變為“個性”。
 
 在哈科之後，無憂無慮變成了沉默的詩人。
-它被傳為讓空間本身產生共鳴的「聲音雕塑」。
+它被認為是讓空間本身產生共鳴的“聲音雕塑”。
 
 ---
 
@@ -210,9 +210,9 @@ Fender Precision、爵士貝斯、Rickenbacker。
 慢慢地動搖社會的潛意識。
 
 在那條穿越世界和日本、地上和地下的線路上，
-私たちは今日も立っている。  
+今天我們仍然站著。
 
-耳ではなく、心臓で聴け。  
+用你的心去聽，而不是用耳朵。
 低音星球的鳴響尚未停止。
 
 ---
@@ -221,11 +221,11 @@ Fender Precision、爵士貝斯、Rickenbacker。
 
 |藝術家 |工作|年份|筆記|連結 |
 |:--|:--|:--:|:--|:--|
-| Charles Mingus | *Mingus Ah Um* | 1959 | ジャズの反骨と叙情 | [Amazon](https://amzn.to/4qmvgd2) |
+|查爾斯·明格斯 | *明格斯啊嗯* | 1959 |爵士樂中的叛逆與抒情| [亞馬遜](https://amzn.to/4qmvgd2) |
 |雅科·帕斯托里斯 | *雅科·帕斯托里斯* | 1976 |無憂詩| [亞馬遜](https://amzn.to/3L1qTUl) |
 |細野晴臣 | *愛樂樂團* | 1982 |日文節奏翻譯| 日文節奏[亞馬遜](https://amzn.to/4qi4uT0) |
 |米克卡恩 | *理性的夢想產生怪物* | 1987 |貝斯講述的夢想| [亞馬遜](https://amzn.to/499CNWg) |
-| 中尾憲太郎（NUMBER GIRL） | *SAPPUKEI* | 2000 | 歪んだ都市の低音 | [Amazon](https://amzn.to/47115k4) |
+|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 | 2000扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
 |雷貓 | *醉* | 2017 | 2017貝斯歌唱的現代 | [亞馬遜](https://amzn.to/47bvA5w) |
 
 ---

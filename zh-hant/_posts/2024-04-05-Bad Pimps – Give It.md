@@ -14,7 +14,7 @@ title: 壞皮條客 – 給它
 ---
 
 
-Bad Pimps（バッドピンプス）は、レーベル Kanzleramtの創設者の１人Patrick Lindseyとベルギーのテクノシーンを代表するアーティストの１人Stanny Franssen（aka. G-Force）のプロジェクト。
+Bad Pimps 是 Kanzleramt 廠牌創始人之一 Patrick Lindsey 和比利時 techno 界頂尖藝術家之一 Stanny Franssen（又名 G-Force）之間的一個計畫。
 
 Monika Kruse 的廠牌 Terminal M 於 2002 年發行了一首 techno/tech house 曲目。
 

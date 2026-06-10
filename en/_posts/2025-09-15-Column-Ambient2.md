@@ -50,7 +50,7 @@ The feeling of emptiness after the Vietnam War, the oil crisis, and the infiltra
 ### Masterpiece
 - [Brian Eno "Discreet Music" (1975)](https://amzn.to/3VBpgPl)
 - [Brian Eno "Ambient 1: Music for Airports" (1978)](https://amzn.to/3IFlmSB)
-- [Cluster & Eno "Cluster & Eno" (1977)](https://amzn.to/3KkyRYu)
+- [Cluster & Eno 『Cluster & Eno』（1977）](https://amzn.to/3KkyRYu)  
 
 ### Equipment/Technology
 - Modular synths such as EMS VCS3 and ARP 2600

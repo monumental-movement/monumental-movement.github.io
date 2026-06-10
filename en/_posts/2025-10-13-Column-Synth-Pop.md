@@ -186,13 +186,13 @@ As AI composition advances, the "human artificiality" of synthpop may be the las
 
 ---
 
-## Chapter 8 Conclusion: "Nostalgia of the future" told by electronic sounds
+## Chapter 8 Conclusion: Electronic sounds speak of "future nostalgia"
 
 Synthpop is both the "sound of the future" and the "sound of nostalgia for the past."
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
-Even now, as digital technology has evolved and AI has begun to compose music, humans continue to search for ""self'' within the sounds of machines.
+Even now, as digital technology advances and AI begins to compose music, humans continue to search for ""self'' in the sounds of machines.
 
-The ""relationship between technology and emotion'', which Ryuichi Sakamoto continued to ask until the end, is now once again a front-line theme.
+The ""relationship between technology and emotion'' that Ryuichi Sakamoto continued to ask until the end is now once again a front-line theme.
 And somewhere in that lineage lies YMO"s electronic smile, Perfume"s polyrhythms, and Charli XCX's pixelated tears.
 
 The future is always ringing in electronic dreams.

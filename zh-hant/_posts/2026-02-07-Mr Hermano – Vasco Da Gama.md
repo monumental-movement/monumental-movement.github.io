@@ -17,7 +17,7 @@ title: 埃爾馬諾先生 – 瓦斯科達伽馬
 
 赫爾馬諾先生是一個以本·米切爾和克里斯·菲茨杰拉德為中心的團隊。他們的風格融合了倫敦舞曲和拉丁音樂。
 
-「Vasco Da Gama」和「Caxixi (Ka-SHE-she)」是英國 house 廠牌 Disorient 於 1999 年發行的專輯「O Globo」中的拉丁/深屋曲目。
+「Vasco Da Gama」「Caxixi（Ka-SHE-she）」は、1999年にUKのHouseレーベルDisorientからリリースしたアルバム『O Globo』に収録されたLatin／Deep Houseトラック。
 
 #### 曲目表
 ```md

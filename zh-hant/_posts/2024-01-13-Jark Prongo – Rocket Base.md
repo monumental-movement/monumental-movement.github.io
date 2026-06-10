@@ -21,7 +21,7 @@ title: 賈克·普隆戈——火箭基地
 
 他們離開後，Jark Prongo 創立了 Pssst Music，一如既往地以各種化名發行作品，1998 年 Jark Prongo 真正的成功故事開始了。
 
-Sashaが "Movin' Thru Your System" をプレイし、高く評価されてGlobal Underground CDに収録されました。
+Sasha 演奏的《Movin' Thru Your System》廣受好評，並收錄在 Global Underground CD 中。
 
 #### 曲目表
 ```md

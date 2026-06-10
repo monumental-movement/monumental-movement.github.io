@@ -16,7 +16,7 @@ v-rating: 3G
 
 這是 Joey Beltram 於 2006 年在「STX Records」廠牌上發行的 EP。
 
-這首歌是 Joy Beltrame 的典型風格，有沉重的低音線、漂亮的老派打擊樂和所有的律動。
+這首歌是 Joy Beltrame 的典型風格，有沉重的低音線、漂亮的老派打擊樂和所有合適的節奏。
 
 #### 曲目表
 ```md

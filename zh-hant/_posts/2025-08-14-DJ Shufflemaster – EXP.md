@@ -9,13 +9,13 @@ permalink: /zh-hant/dj-shufflemaster-exp/
 tags:
 - Techno
 - 00s
-title: DJ 洗牌大師 – EXP
+title: DJ Shufflemaster – EXP
 ---
 
 
 DJ Shufflemaster (金森 達也 / Tatsuya Kanamori）は、1990年代後半から活動する日本のハードテクノプロデューサー／DJ。Adam Beyer、Joel Mull、Ben Sims、Cari Lekebuschなどと共にプレイし、世界的に評価されているテクノアーティストの一人。
 
-《EXP》是柏林著名科技廠牌Tresor於2001年發行的一張全長專輯。被譽為DJ Shufflemaster的代表作。
+「EXP」は、2001年にベルリンの名門テクノレーベルTresor(トレゾア)からリリースされたフルアルバム。DJ Shufflemasterの代表作として知られている。
 
 
 #### 曲目表

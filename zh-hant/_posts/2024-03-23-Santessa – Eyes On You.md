@@ -20,7 +20,7 @@ Santessa 的《Eyes On You》於 2000 年由 Disco Volante 廠牌發行。
 
 Side A 是英國靈魂/新靈魂/流行二人組 Hil St Soul 的混音版，由歌手 Hilary Mwelwa 和製作人 Victor Redwood-Sawyer 組成。
 
-B面１曲目は、Marc Mac (aka Marc Clair) と Dego (aka Dennis McFarlane)によるUKエレクトロニックディオ4 Hero（４ヒーロー）によるremix。
+B面的第一首曲目是英國電子音訊4 Hero的Marc Mac（又名Marc Clair）和Dego（又名Dennis McFarlane）的混音版。
 
 #### 曲目表
 ```md

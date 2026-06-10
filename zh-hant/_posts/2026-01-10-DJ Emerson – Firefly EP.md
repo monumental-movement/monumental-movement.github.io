@@ -18,7 +18,7 @@ Simon Emerson Kidder，也稱為 DJ Emerson，是一位來自柏林的 techno DJ
 
 《Firefly EP》是一首 Techno/Tech House 曲目，於 2006 年在 Kiddaz.fm 的子廠牌 FreakWaves 上發行。
 
-A2は、アメリカのテクノDJ／プロデューサーTim Xavierによりリミックス。
+A2 由美國 techno DJ/製作人 Tim Xavier 重新混音。
 
 B1 是美國 DJ/製作人 Butane（Andrew Rasse）的混音作品，他經營著 alphahouse、Little Helpers 和 Extrasketch 等唱片公司。
 

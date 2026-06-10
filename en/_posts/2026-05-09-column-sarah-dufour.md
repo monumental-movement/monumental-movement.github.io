@@ -66,7 +66,7 @@ E --> G[Americana]
 E --> H[rock]
 </div>
 
-> Sarah Dufour's importance lies in her reconstruction of North American roots music in the "language of Quebec life."
+> Sarah Dufour's importance lies in her reconstruction of North American roots music in the ""language of Quebec life.''
 
 
 ---
@@ -156,7 +156,7 @@ Sarah Dufour, who has transitioned to a solo career, has become more rock and ro
 
 What is noteworthy here is that she completely avoided leaning toward "American country."
 
-It's true that the sound is heavily influenced by Americana and Roots Rock. However, the world of lyrics, pronunciation, and depictions of life are strongly influenced by Quebec culture.
+It's true that the sound is influenced by Americana and Roots Rock. However, the world of lyrics, pronunciation, and depictions of life are strongly influenced by Quebec culture.
 
 This sense of balance is her greatest characteristic.
 
@@ -309,8 +309,8 @@ E --> F[new francophone country]
 
 | Year | Events |
 |---|---|
-| Early 2010s | Active at Les Poules à Colin |
-| Late 2010s | Full-scale solo career |
+| Early 2010s | Active in Les Poules à Colin |
+| Late 2010s | Full-scale solo activities |
 | 2019 | Increasing attention with solo works |
 | 2020s | Expanding presence in the Quebec francophone scene |
 | Mid-2020s | Expanding festival appearances and live activities |

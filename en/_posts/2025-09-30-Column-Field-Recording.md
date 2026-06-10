@@ -42,7 +42,7 @@ color: #fff;
 <div class="mermaid">
 flowchart TD
   A["1920s-1950s"] --> B["The Age of Folk Collecting (Lomax et al.)"]
-  B --> C["1960s-1970s: Evolution of portable devices"]
+  B --> C["1960s-1970s: Evolution of portable equipment"]
   C --> D["1980s-1990s: Increase in ambient/field adoption (Eno etc.)"]
   D --> E["2000s-Present: Digitization and the spread of 32-bit float machines"]
 </div>
@@ -91,7 +91,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - When recording labor songs on a farm in the southern United States, he carried a reel-type recorder that was larger than the camera.
 
-- Even the sounds of everyday life (the sound of dishes and people's laughter) were recorded, and these were made into the ""reality of that culture.''
+- Even the sounds of everyday life (the sound of dishes and people's laughter) were recorded, and they were made into the ""reality of that culture.''
 
 #### Annea Lockwood
 
@@ -129,7 +129,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - "El Tren Fantasma" takes you on a journey through an abandoned railway, with detailed recordings of train running sounds and scenery sounds.
 
-- In bird recordings, there is an anecdote of a wild peregrine falcon waiting motionless for several days near its nest.
+- In bird recordings, there is an anecdote of a peregrine falcon waiting motionless for several days near its nest.
 
 #### Bernie Krause
 

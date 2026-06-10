@@ -15,9 +15,9 @@ title: Christiane F. Christiana – Wunderbar Health Dub
 ---
 
 
-Christiane Vera Felscherinow 以 Christiane F./Christiana 的名字创作了电子/合成流行/左场曲目，Christiane Vera Felscherinow 因自传《Christiane F.》而闻名。以及電影《Wir Kinder vom Bahnhof Zoo》。它於 2003 年由德國唱片公司 Playhouse 發行。
+Christiane Vera Felscherinow 以 Christiane F./Christiana 的名字創作了電子/合成流行/左場曲目，Christiane Vera Felscherinow 因自傳《Christiane F.》而聞名。以及電影《Wir Kinder vom Bahnhof Zoo》。它於 2003 年由德國唱片公司 Playhouse 發行。
 
-Christiane F の音楽活動には、Einstürzende Neubauten(アインシュテュルツェンデ・ノイバウテン)のAlexander Hacke(アレクサンダー・ハッケ)やF.M. Einheitが深く関わっていた。
+Einstürzende Neubauten 的 Alexander Hacke 和 F.M. Einheit 深入參與了 Christiane F 的音樂活動。
 
 
 #### 曲目表

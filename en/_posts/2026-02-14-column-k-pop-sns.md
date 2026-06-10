@@ -77,7 +77,7 @@ Particularly on TikTok, dance challenges function as a spreading device, and whe
 
 BTS made extensive use of SNS in the late 2010s and formed an international fandom even before they were exposed to English-speaking media. Appearances on American music award shows and talk shows are based on existing fandom.
 
-By actively communicating on Twitter, they were shaping trends overseas even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
+By actively communicating on Twitter, they were shaping overseas trends even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
 
 > SNS is not just an advertising medium for K-POP, but the center of fandom formation.
 
@@ -85,7 +85,7 @@ By actively communicating on Twitter, they were shaping trends overseas even bef
 
 ## Chronology of K-POP expansion seen through data
 
-### Main events
+### Major events
 
 * 1996: H.O.T. debut
 * 2009: Girls' Generation enters Japan

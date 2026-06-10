@@ -13,7 +13,7 @@ title: 旁遮普語 MC – Mundian To Bach Ke
 ---
 
 
-《Mundian To Bach Ke》是一首孟加拉音樂歌曲，由英國音樂家 Panjabi MC 製作，由旁遮普藝術家 Labh Janjua 提供演唱和歌詞。這首歌是由英國伯明罕 Panjabi MC 為其 1998 年專輯 Legalized 創作的。
+《Mundian To Bach Ke》是一首孟加拉音樂歌曲，由英國音樂家 Panjabi MC 製作，由旁遮普藝術家 Labh Janjua 演唱和作詞。這首歌是由英國伯明罕 Panjabi MC 為其 1998 年專輯 Legalized 創作的。
 
 2002年11月作為單曲發行後，《Mundian To Bach Ke》在義大利和瓦隆地區的單曲排行榜上名列前茅，並且在其他許多國家也取得了很高的排名。 2003年發行的與美國饒舌歌手Jay-Z合作的混音版本也在北美和澳洲取得了很高的排名。這首歌成為有史以來最暢銷的單曲之一，全球銷量超過 1000 萬張。
 

@@ -38,5 +38,5 @@ B4. Nothing But The Best
 B5. My Love Belongs To You
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
 

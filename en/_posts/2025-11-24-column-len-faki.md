@@ -153,7 +153,7 @@ This is an important track that creates emotional peaks and calm moments in the 
 
 #### basic information
 - BPM: Estimated around 128
-- Key: Estimated A minor
+- Key: Estimated A Minor
 - Structure: Produces a futuristic feel with mechanical rhythms and synths
 
 #### Song structure and rhythm

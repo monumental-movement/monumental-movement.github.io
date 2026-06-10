@@ -132,7 +132,7 @@ Wangan Midnight depicts a series of such choices.
 
 Wangan Midnight is not just fiction, but is closely tied to real street culture.
 
-From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Metropolitan Expressway Bayside Route was one of its central locations.
+From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Bayside Route of the Metropolitan Expressway was one of its central locations.
 
 Although this culture was not widely covered by the media, it definitely existed and attracted many young people.
 
@@ -288,7 +288,7 @@ The sound of the bay is "a state of being in speed."
 ---
 
 
-## Conclusion: Why are highways a myth?
+## Conclusion: Why are expressways a myth?
 
 What Wangan Midnight showed was not the place itself, but the way the people gathered there.
 
@@ -305,5 +305,14 @@ Wangan Midnight is a work that captures that moment.
 And even now, somewhere on a highway at night, similar stories are being told.
 
 > Myths are not stories from the distant past, but continue to be created at this very moment.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E4G83Ae1Qt4?si=Zsi4zdQYi9Z2eoHL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

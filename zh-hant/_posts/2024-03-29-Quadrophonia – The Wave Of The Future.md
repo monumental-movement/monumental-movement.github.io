@@ -18,7 +18,7 @@ Quadrophonia 是荷蘭 DJ Lucien Foort 和比利時 DJ Olivier Abbeloos 的一�
 
 《The Wave Of The Future》是一首 1991 年發行的碎拍硬蕊科技歌曲。
 
-A面2曲目はMark Ryder(DJ Ryder)によるremix。
+A 面的第二首曲目是 Mark Ryder (DJ Ryder) 的混音版。
 
 奧利維爾·阿貝盧斯 (Olivier Abbeloos) 1969 年 1 月 18 日出生於比利時阿爾斯特。
 
@@ -26,7 +26,7 @@ A面2曲目はMark Ryder(DJ Ryder)によるremix。
 
 他的第一個項目是 L&O 的“Even Now”，但他的名字沒有出現在製作人員名單中，隨後他與帕特里克·德·梅耶 (Patrick de Mayer) 共同創作了他的第一個合作項目《The Beat Machine》。
 
-他的名字因與 Lucien Foott 的二人組 Quadroonia 而廣為人知。
+他的名字因他與 Lucien Foott 的二人組 Quadroonia 而廣為人知。
 
 同時，T99最初是Patrick De Meyer的個人項目，在發行了三張專輯後，Patrick De Meyer聽說Olivier Abbeloos正在創作一首名為“Anastasia”的歌曲，並建議他們以T99的名義發行它。
 

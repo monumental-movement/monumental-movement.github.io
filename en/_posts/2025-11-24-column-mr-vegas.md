@@ -154,7 +154,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 ---
 
-## Chapter 7: Present (as of 2025) and future outlook
+## Chapter 7: Present (as of 2025) and future prospects
 
 ### 7.1 Current status: "Ghetto Reggae" and its reaction
 - Album "Ghetto Reggae" released.
@@ -206,7 +206,7 @@ graph TB
   F --> G[Sweet Jamaica]
   G --> H[Reggae Euphoria]
   H --> I[Ghetto Reggae（2025）]
-  I --> J[Preservation of cultural heritage/Communication to society]
+  I --> J[Preservation of cultural heritage/social communication]
   J --> K[vision for the future]
 </div>
 

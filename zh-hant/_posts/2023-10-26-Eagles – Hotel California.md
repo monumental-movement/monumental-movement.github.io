@@ -10,7 +10,7 @@ tags:
 - Rock
 - Nostalgic
 - 7inch
-title: Eagles – Hotel California
+title: 老鷹 – 加州旅館
 ---
 
 

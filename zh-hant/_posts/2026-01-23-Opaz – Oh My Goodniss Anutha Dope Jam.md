@@ -11,7 +11,7 @@ tags:
 - Swing
 - Hiphop
 - 90s
-title: Opaz – Oh My Goodniss Anutha Dope Jam
+title: Opaz – 噢我的天哪 Anutha Dope Jam
 ---
 
 

@@ -13,7 +13,7 @@ title: Lab4 – 我們都不是聖人
 ---
 
 
-Lab4は、Adam Newman(アダム・ニューマン)& Les Elston(レス・エルストン)によるUKのハードダンスアクト。
+Lab4 是由 Adam Newman 和 Les Elston 組成的英國硬舞團體。
 
 Side A 是日本領先的硬舞製作人和 DJ Nish 的混音作品。
 

@@ -18,7 +18,7 @@ title: '[Column] Why Breakcore Is Suddenly Back - The reason why chaotic beats a
 
 ## What is Breakcore?
 
-Text: mmr｜Theme: Deciphering from history and culture why breakcore, a music genre of high-speed breakbeats and digital chaos, is once again spreading explosively thanks to the modern Internet generation.
+Text: mmr｜Theme: Understanding why breakcore, a music genre of high-speed breakbeats and digital chaos, is once again spreading explosively thanks to the modern Internet generation, from history and culture.
 
 
 In the history of electronic music, ""genres that disrupt common sense'' appear in each era.
@@ -362,7 +362,7 @@ There are five main ones:
 
 4. Ease of DIY production
 
-5. Mixed genre culture
+5. Genre mixed culture
 
 In other words, Breakcore is
 

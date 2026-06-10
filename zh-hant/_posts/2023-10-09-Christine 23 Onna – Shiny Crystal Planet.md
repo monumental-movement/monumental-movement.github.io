@@ -9,7 +9,7 @@ permalink: /zh-hant/christine-23-onna-shiny-crystal-planet/
 tags:
 - Psychedelic
 - Noise
-title: Christine 23 Onna – Shiny Crystal Planet
+title: Christine 23 恩納 – 閃亮水晶星球
 ---
 
 

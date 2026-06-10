@@ -10,11 +10,11 @@ tags:
 - Heavy Metal
 - Rock
 - 90s
-title: Riot – Inishmore
+title: 騷亂——伊尼什莫爾
 ---
 
 
-「Inishmore」は、1997年に日本で先行発売されたアメリカのハードロック/ヘヴィメタルバンドRiot(ライオット)の10枚目のスタジオアルバム。このアルバムは、ケルト神話とアイルランド神話のサガをコンセプトとしている。12曲目は日本盤のみのボーナストラック。リリース当時のメンバーはMike DiMeo、Mark Reale、Mike Flyntz、Pete Perez、Bobby Jarzombek。
+《Inishmore》是美國硬搖滾/重金屬樂團Riot於1997年在日本發行的第十張錄音室專輯。這張專輯取材自凱爾特和愛爾蘭神話的傳奇故事。第 12 首曲目是僅在日文版本中提供的附贈曲目。發行時的成員包括 Mike DiMeo、Mark Reale、Mike Flyntz、Pete Perez 和 Bobby Jarzombek。
 
 #### 曲目表
 ```md

@@ -55,7 +55,7 @@ color: #fff;
 
 ![Image](https://m.media-amazon.com/images/I/61MKY9HyTgL._UF1000%2C1000_QL80_.jpg)
 
-Mobile Suit Gundam began airing as a TV anime in 1979. It vividly depicted themes such as war, Newtypes, and space battles, and became the beginning of a profound series of works that went beyond the boundaries of giant robot (mobile suit) anime. However, in this series, along with the visual and narrative elements of mecha and human drama, another important pillar is ""music''. Theme songs, insert songs, and musical accompaniment (BGM) are not just accessories; they support the story, expand the worldview, and play a role in stirring the emotions of viewers.
+"Mobile Suit Gundam" began airing as a TV anime in 1979. It vividly depicted themes such as war, Newtypes, and space battles, and became the beginning of a profound series of works that went beyond the boundaries of giant robot (mobile suit) anime. However, in this series, along with the visual and narrative elements of mecha and human drama, another important pillar is ""music''. Theme songs, insert songs, and musical accompaniment (BGM) are not just accessories; they support the story, expand the worldview, and play a role in stirring the emotions of viewers.
 
 In this article, we will look at the Mobile Suit Gundam series from the perspective of music. While tracing the changes in the series and music from 1979 to 2025, we will decipher how music has shaped Gundam and how it has changed over time. The structure of music, changes in lyrics, melodies, recording/distribution formats, and thematic functions played by music - let's take a journey to "listen" to the world of Gundam, using these as clues.
 
@@ -73,7 +73,7 @@ Looking back at the music environment at the time, it was also a time when TV an
 
 ### 1.2 Characteristics of theme songs, insert songs, and musical accompaniment
 
-The opening song for the original Mobile Suit Gundam, ""Fly! Gundam (sung by Kou Ikeda)" (lyrics by Tsutomu Isoya/composed by Yuji Matsuyama), was a simple yet catchy song that conveyed the image of a Gundam flying through outer space, embodying the scale of the work"s world and the boy"s sense of adventure through sound. In addition, Hiroyuki Osaka, Chuaaki Watanabe, and others provided the background music that supported the depiction of battle, space, and psychology, and used sound to convey themes such as the tense atmosphere of the ""battlefield" and the awakening of ""new types.''
+The opening song for the original Mobile Suit Gundam, ""Fly! Gundam (sung by Kou Ikeda)" (lyrics by Tsutomu Isogaya/music by Yuji Matsuyama), simply and catchily conveys the image of Gundam flying through outer space, embodying the scale of the work"s world and the boy"s sense of adventure through sound. In addition, Hiroyuki Osaka, Chuaaki Watanabe, and others provided the background music that supported the depiction of battle, space, and psychology, and used sound to convey themes such as the tense atmosphere of the ""battlefield" and the awakening of ""new types.''
 
 At this stage, there are three main innovations that Gundam music has shown.
 
@@ -200,7 +200,7 @@ In addition, "music as an experience" such as live shows, VR, and concerts is be
 ### 6.3 The future of Gundam/music: Expected developments after 2025
 
 From 2023 onwards, the musical quality of Gundam works will continue to reach even higher heights through new releases such as ""The Witch of Mercury.'' For example, orchestral recordings, overseas studio recordings, and vinyl reissues are in progress.
-After 2025, it is expected that the era of "listening to music" will shift from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc.
+After 2025, it is expected that we will move from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc.
 
 ---
 
@@ -249,7 +249,7 @@ Below is a section introducing representative musicians/singers who have made si
 
 - **・Tetsuya Komuro**
 
-A composer and producer who led the Japanese pop music scene from the 1980s to the 1990s. He created the theme song "Beyond the Time ~Beyond the Mobius Universe~" for "Mobile Suit Gundam: Char's Counterattack" released in 1988, creating a turning point in the history of Gundam music.
+A composer and producer who led the Japanese pop music scene from the 1980s to the 1990s. He created the theme song ""Beyond the Time~Beyond the Moebius Universe" for ""Mobile Suit Gundam: Char's Counterattack" released in 1988, creating a turning point in the history of Gundam music.
 
 - **Neil Sedaka**
 

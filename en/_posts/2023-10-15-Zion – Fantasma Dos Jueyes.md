@@ -12,7 +12,7 @@ title: Zion – Fantasma Dos Jews
 ---
 
 
-Zionは、ラテンアメリカのレゲトン音楽シーンで活躍するアーティストであり、プエルトリコのレゲトン・デュオであるZion & Lennoxのメンバーの一人。
+Zion is an artist active in the Latin American reggaeton music scene and one of the members of the Puerto Rican reggaeton duo Zion & Lennox.
 
 Zion & Lennox was a group that emerged during the golden age of reggaeton, along with Daddy Yankee and Don Omar, and released many hit songs.
 

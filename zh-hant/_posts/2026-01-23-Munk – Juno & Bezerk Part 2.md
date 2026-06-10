@@ -11,14 +11,14 @@ tags:
 - Downtempo
 - Trip Hop
 - 00s
-title: Munk – Juno & Bezerk Part 2
+title: 蒙克 – 朱諾與貝澤克第二部
 ---
 
 
 
 Munk 是德國歷史悠久的品牌 Gomma 的負責人 Mathias Modica 的一個個人專案的名稱。 2008 年之前，Munk 與德國 DJ/製作人 Jonas Imbery 組成二人組。
 
-「Juno & Bezerk Part 2」は、2000年にレーベルGommaからリリースされたAbstract／Downtempo／Trip Hopトラック。
+「Juno & Bezerk Part 2」是 Gomma 廠牌於 2000 年發行的抽象/慢節奏/Trip Hop 曲目。
 
 #### 曲目表
 ```md

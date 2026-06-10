@@ -10,7 +10,7 @@ tags:
 - Trance
 - Dutch Trance
 - 00s
-title: Rank 1 – Airwave
+title: 排名 1 – 電波
 ---
 
 

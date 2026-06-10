@@ -18,7 +18,7 @@ title: Kagami – 東京迪斯可音樂整夜（混音）
 
 A1 是德國 techno DJ/製作人 Beroshima 的混音版。
 
-B1 是 DJ Brixton 的混音版，他演奏的音樂風格多種多樣，從 Acid Techno 到 Tech House 和 House。
+B1は、アシッドテクノ〜テックハウス、ハウスまで幅広いスタイルでプレイするDJ Brixtonによるremix。
 
 #### 曲目表
 ```md

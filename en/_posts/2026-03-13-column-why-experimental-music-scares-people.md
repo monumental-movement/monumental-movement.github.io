@@ -141,7 +141,7 @@ Music is no exception.
 
 Research shows that when we listen to music, we unconsciously anticipate the next note.
 
-- melody flow
+- Melody flow
 - chord progression
 - rhythm
 

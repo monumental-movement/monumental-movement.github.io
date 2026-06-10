@@ -11,17 +11,17 @@ tags:
 - Drum n Bass
 - Detroit Techno
 - 90s
-title: 型號 500 – 流動
+title: Model 500 – The Flow
 ---
 
 
-Model 500 是胡安·阿特金斯 (Juan Atkins) 的另一個名字。
+Model 500は、Juan Atkins(ホアン・アトキンス)の別名義。
 
-《THE FLOW》是一首經過各種混音的歌曲。胡安·阿特金斯 (Juan Atkins) 的“G-Funk Mix”散發出純粹的 R&B 氛圍。
+「THE FLOW」は、多彩なリミックスが施された楽曲です。Juan Atkinsは「G-Funk Mix」で純粋なR&Bの雰囲気を醸し出しています。
 
-另一方面，Alex Reece Mix 具有流暢的爵士步混音，但人聲並不完全統一，感覺與節奏有點不同步。
+一方、Alex Reece Mixはスムーズなジャズステップのリミックスを行っていますが、ボーカルが完全に統一されておらず、ややリズムに合っていないように感じられます。
 
-地下世界 MK. 2 Mix 是一首簡單、適合俱樂部的曲目，帶有黑暗和略帶攻擊性的感覺。然而，Frank De Wulf 提供了融合了部落房屋元素的混音，「原始混音」仍然保留了它的光彩。
+Underworld MK. 2 Mixはシンプルでクラブ向けのトラックを追求し、暗くやや攻撃的な雰囲気を醸し出しています。しかし、Frank De Wulfはトライバルハウスの要素を取り入れたリミックスを提供しており、それでも「Original Mix」はその輝きを保っています。
 
 #### 曲目表
 ```md
@@ -32,7 +32,7 @@ T1. The Flow M26 (Underworld MK. 2 Mix)
 T2. The Flow M38 (Alex Reece Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

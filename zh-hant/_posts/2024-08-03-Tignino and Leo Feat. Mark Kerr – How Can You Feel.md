@@ -17,7 +17,7 @@ title: 蒂尼諾和利奧的壯舉。馬克·科爾——你感覺如何
 
 這是一首由義大利 DJ/製作人 Daniele Tignino 和西西里音樂家 Ottavio Leo 創作的電子音樂曲目，由蘇格蘭搖滾樂團 Simple Minds 主唱 Jim Kerr 的兄弟 Mark Kerr 演唱。
 
-A面１曲目は、ドイツのDJ＆プロデューサーデュオD-Nox & Beckersによるremix。
+Side A 上的第一首曲目是由德國 DJ 和製作人二人組 D-Nox & Beckers 重新混音的。
 
 B 面的第二首曲目是 Daniele Tignino、Emiliano Patrik Legato 和 Ottavio Leo 的混音作品，名為 Psycho Radio，是一個義大利電子音樂計畫。
 

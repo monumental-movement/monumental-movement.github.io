@@ -10,11 +10,11 @@ tags:
 - Deep House
 - House
 - Techno
-title: 共鳴冥想－貢格拉達
+title: 共鳴冥想 - 貢格拉達
 ---
 
 
-細野晴臣が監修したLost & Foundシリーズの第一弾アルバム。2000年4月17日バリ島で24bit 192KHz sonic system による現地録音音源。
+由細野晴臣監督的 Lost & Found 系列的第一張專輯。 2000年4月17日在峇裡島使用24位元192KHz聲音系統本地錄製的聲音來源。
 
 #### 曲目表
 ```md
@@ -27,7 +27,7 @@ title: 共鳴冥想－貢格拉達
 
 細野晴臣監督的《Lost & Found》
 
-共鳴冥想－貢格拉達
+共鳴冥想 - 貢格拉達
 
 共振冥想 共振冥想-Gong Gradag
 
