@@ -195,7 +195,7 @@ Bedroom Popでは、録音品質の粗さそのものが個性として機能し
 
 ## Billie Eilish以降の転換点
 
-Bedroom Popを世界的現象として一般層へ浸透させた存在として、最も象徴的なのが entity["musical_artist","Billie Eilish","American singer-songwriter"] だった。
+Bedroom Popを世界的現象として一般層へ浸透させた存在として、最も象徴的なのが Billie Eilish だった。
 
 兄のFinneasと共に自宅制作を行った初期作品は、「巨大スタジオで作られたポップ」とは異なる空気感を持っていた。
 
