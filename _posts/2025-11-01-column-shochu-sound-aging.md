@@ -313,3 +313,13 @@ E --> E2[南之風酒造<br>🎧 AI音響テスト導入 2024年～]
 | 奄美大島酒造   | 黒糖焼酎 「じょうご」   | 1800ml／25度 | [Amazon](https://amzn.to/49vtOik)  |
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RiP27YZY-j0?si=9UvxEfaJI2Yyptzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+

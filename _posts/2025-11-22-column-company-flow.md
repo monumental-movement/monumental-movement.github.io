@@ -9,11 +9,6 @@ date: 2025-11-22 00:00:04 +0900
 ---
 
 
-
-
-
-
-
 ## はじめに——“インディの限界”を打ち破った存在
 
 文：mmr｜テーマ：Company Flow の結成から解散、作品分析、サウンド構造、メンバーの歩み、歴史的意義について
@@ -402,5 +397,14 @@ Company Flow が残したものは、
 Company Flow は短い期間しか活動していない。
 しかし、彼らが切り開いた地平は、
 ヒップホップの歴史の中でも決定的で、本質的な価値を持ち続けている。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8thlyfVW-s?si=qZtLW7LfwASeERMe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

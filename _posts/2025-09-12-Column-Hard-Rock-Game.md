@@ -371,3 +371,14 @@ color: #fff;
 
 # 結論
 ハードロックは単なる音楽ジャンルに留まらず、**アーケードから音ゲー、そしてeスポーツに至るまで**、ビデオゲーム文化の成長と密接に関わってきました。時代ごとの「音の衝撃」を共有することで、ゲームもハードロックも世代を超えて進化し続けています。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KiCwgcALjAI?si=6HO5FTouyHMGRkDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

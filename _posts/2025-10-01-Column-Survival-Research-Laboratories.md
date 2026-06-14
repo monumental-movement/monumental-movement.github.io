@@ -163,3 +163,15 @@ SRLは、引き続き機械やロボットを用いたパフォーマンスを�
 ### 結論
 
 Survival Research Laboratoriesは、機械と人間、技術と芸術、秩序と混沌の関係を問い直す革新的な集団です。彼らの作品は、視覚的・聴覚的な衝撃を通じて、現代社会における技術の役割と影響を鋭く批評しています。SRLの活動は、今後も多くのアーティストや技術者にインスピレーションを与え続けるでしょう。
+
+---
+
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hViO8jB9ynI?si=yhL1vbeeXZtCeaoX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

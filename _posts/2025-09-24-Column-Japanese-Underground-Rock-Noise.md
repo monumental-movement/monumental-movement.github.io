@@ -175,6 +175,17 @@ A4: 実験的サウンドは映像作品に独自の緊張感を与え、AIの�
 
 ---
 
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n0BCodlguac?si=W4ITV258bsRryNsR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ### 関連コラム
 
 🔗 [【コラム】 日本のロック史：メインストリームとアンダーグラウンドの交差点](https://monumental-movement.jp/Column-Japanese-Mainstream-Underground-Rock)

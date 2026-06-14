@@ -213,3 +213,15 @@ flowchart TD
 ### 関連コラム
 
 🔗 [【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？](https://monumental-movement.jp/Column-Soundtrack)
+
+---
+
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oh2VO0DgVOk?si=z-EudwEKJXH6TlZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

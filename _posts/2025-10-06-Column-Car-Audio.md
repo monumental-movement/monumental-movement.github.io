@@ -270,3 +270,14 @@ EV化が進む今、エンジン音という象徴的な要素が消えゆく一
 
 車が語るのは道のりではなく、音の旅である。
 そしてその旅は、まだ始まったばかりだ。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCHXf7CuLZg?si=CQoR_eBqiQFNdj-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

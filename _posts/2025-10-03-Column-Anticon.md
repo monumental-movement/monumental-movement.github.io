@@ -284,3 +284,14 @@ Anticonは、単なるヒップホップ・レーベルにとどまらず、実�
 2010年代後半、Aliasの逝去やメンバーの散在によってレーベルは実質的な終焉を迎えたが、その精神は各アーティストの活動の中で脈打ち続けている。Anticonが築いた「ジャンルを越境し続ける美学」は、現代のインディ音楽やDIYカルチャーの基盤のひとつとなり、SpotifyやBandcampで活動する新世代の実験的アーティストにも確実に受け継がれている。
 
 つまりAnticonとは、**「不可能を実験し続けた集団」**であり、その挑戦的な姿勢は今も音楽シーンに生き続けているのだ。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nTKP_A1KGpk?si=GzNMKCqgMfp_jfnu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

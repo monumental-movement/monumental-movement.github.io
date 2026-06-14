@@ -186,3 +186,12 @@ Pan Sonic は、電子音楽において「音を削ぎ落とす」ことで世�
 彼らが残した作品や思想は、今後も電子音楽のバックボーンとして響き続けるだろう。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rW-Yff48TOE?si=ouholKqaB2AbouDW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
