@@ -297,18 +297,6 @@ flowchart TD
 
 ダンスフロアは、祝祭空間であると同時に追悼空間でもあった。
 
-<div class="mermaid">
-sequenceDiagram
-    participant Community
-    participant Club
-    participant Music
-    participant Dancefloor
-
-    Community->>Club: 集まる
-    Club->>Music: 音楽を共有
-    Music->>Dancefloor: 感情を解放
-    Dancefloor->>Community: 連帯感を形成
-</div>
 
 ### ACT UPとカルチャー
 
@@ -383,20 +371,6 @@ LGBTQ+コミュニティは、ダンスミュージックを単なる娯楽と�
 
 むしろ、未来の社会を先に試してきた場所だったのである。
 
-<div class="mermaid">
-mindmap
-  root((Dance Music))
-    LGBTQ+ Community
-    Safe Space
-    Disco
-    House
-    Techno
-    Ballroom
-    Resistance
-    Identity
-    Collective Experience
-    Future Society
-</div>
 
 > ダンスミュージックの歴史とは、「自由に存在する権利」を音で作り続けた人々の歴史でもある。
 
