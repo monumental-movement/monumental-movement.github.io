@@ -18,7 +18,7 @@ title: '[Column] Music and urban space: A history of mutual generation woven by 
 
 ## Introduction Why do cities produce music?
 
-Text: mmr｜Theme: Since the 20th century, music has interacted with urban space, tracing the history of how music has reshaped the shape and feel of cities while crossing streets, clubs, homes, and media, using examples from specific cities and genres.
+Text: mmr｜Theme: Since the 20th century, music has interacted with urban space, tracing the history of how music has reshaped the shape and feel of cities while crossing streets, clubs, homes, and media, through examples from specific cities and genres.
 
 Cities bring people together, divide them, and rearrange them. Population density, immigration, industry, transportation, regulation. When these elements overlap, music becomes not just entertainment, but the very rhythm of urban life. The sounds of a factory, the repetition of traffic, and the buzz of a crowd are structured through the musician's sensibility and become a genre. Cities are not musical "stages". It is a musical generator, and at the same time, it is an entity that is reinterpreted through music.
 
@@ -124,7 +124,7 @@ While cities produce music, they also regulate it. Overcrowding, noise ordinance
 
 Radio, television, and the Internet, which seemed to separate music from the city, actually created a new image of the city. Certain city names continue to function as sound brands.
 
-> The media expanded the city and made it seem like music was freed from geography.
+> The media expanded the city and made music seem free from geography.
 
 ---
 
@@ -187,7 +187,7 @@ Here, music defines the space first, followed by urban functions. Clubs were mor
 
 Detroit techno is an extension of the urban rhythms shaped by the automobile industry. Regular mechanical movements, wide roads, and the hollowing out that followed the population exodus fostered an inorganic and persistent sense of beat.
 
-Techno here became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
+Here, techno became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
 
 > Detroit's music preserves in sound the form of what the city has lost.
 
@@ -212,7 +212,7 @@ Urban structures directly determine the volume, repeatability, and environment i
 
 <div class="mermaid">
 flowchart LR
-A[on the road] --> B[hole]
+A[on the street] --> B[hole]
 B --> C[club]
 C --> D[online space]
 </div>
@@ -249,7 +249,7 @@ The scale of the city is smaller than Tokyo, and the music scene circulates in v
 
 Musical culture in local cities has matured on its own timeline, while being influenced by the central government. Due to Fukuoka's geographical proximity to Asia and its character as a port city, it has been quick to accept foreign culture, and clubs and live music venues tend to cluster in the city center.
 
-Due to the climate and size of the city, Sapporo has a strong indoor orientation, and events that cross genres are held for a long time. The urban margins have functioned as a space for experimental expression.
+Due to the climate and size of the city, Sapporo has a strong indoor orientation, and events that cross genres are held for a long time. The urban margins have functioned as spaces for experimental expression.
 
 > Regional cities have matured music at a different rate than the central region.
 
@@ -266,7 +266,7 @@ As land prices rise due to redevelopment, small-scale music spaces move to the p
 ---
 
 
-## Final chapter: How does music depict the future of cities?
+## Final Chapter: How does music depict the future of cities?
 
 Music records, critiques, and sometimes anticipates the city. As long as urban space continues to change, new music will continue to be born. Listening to music is the act of listening to the city's present and future at the same time.
 

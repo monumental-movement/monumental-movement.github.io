@@ -176,7 +176,7 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A[音刺激] --> B[auditory cortex]
+    A[sound stimulation] --> B[auditory cortex]
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]

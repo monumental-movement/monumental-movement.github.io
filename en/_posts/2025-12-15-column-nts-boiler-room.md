@@ -148,7 +148,7 @@ The facts summarized in this paper will serve as a foundation for considering fu
 The practice of the live streaming artists appearing on NTS and Boiler Room is more about ""music as a body of movement'' than the name of a genre.
 
 DJ sets and experimental performances in live streams are presented as a state of continuous change over time, rather than as a finished piece of work.
-This can be regarded as "recordable movement."
+This can be viewed as "recordable movement."
 
 > "The moment music rejects fixed formats, its movement becomes most evident."
 

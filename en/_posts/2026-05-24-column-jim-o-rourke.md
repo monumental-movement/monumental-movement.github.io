@@ -13,7 +13,7 @@ title: '[Column] Jim O''Rourke - A musician who melted boundaries'
 ---
 
 
-## A musician who continued to reject boundaries
+## A musician who continued to defy boundaries
 
 Text: mmr｜Theme: Noise, folk, electronic acoustics, pop. Follow the path of Jim O'Rourke, who traversed all of them while charting his own musical map.
 
@@ -267,7 +267,7 @@ He is involved in a wide range of works.
 
 Moreover, none of them sound the same.
 
-Producers with strong individuality usually give their works their own unique color. But Jim O'Rourke was the opposite.
+Producers with strong individuality usually dye their works in their own unique colors. But Jim O'Rourke was the opposite.
 
 He brings out the artist's unique texture.
 
@@ -445,7 +445,7 @@ Above all, he was a person who continued to doubt the walls of ""music genres''.
 | Works | Publication year | Features |
 |---|---|---|
 | Disengage | 1992 | Early experimental acoustics |
-| Bad Timing | 1997 | Long guitar work |
+| Bad Timing | 1997 | Long guitar piece |
 | Eureka | 1999 | Chamber Music Pop |
 | Insignificance | 2001 | A masterpiece with a strong rock flavor |
 | The Visitor | 2009 | A traveling piece composed of one song |

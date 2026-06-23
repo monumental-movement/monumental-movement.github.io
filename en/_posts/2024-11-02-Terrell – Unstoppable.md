@@ -13,7 +13,7 @@ title: Terrell – Unstoppable
 ---
 
 
-A hip-hop track released by rapper Terrell in 2000 on the label I.Q. Records.
+ラッパーTerrellが2000年にレーベルI.Q. Recordsからリリースしたヒップホップトラック。
 
 The producer of A2, B1, and B2 is Devante Swing.
 

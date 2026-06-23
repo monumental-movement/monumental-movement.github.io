@@ -101,7 +101,7 @@ This ""time lag between formation and establishment'' shows that their music was
 
 Although Angine de Poitrine's music is based on math rock, it is distinctive in that it actively incorporates microtonal elements. It uses pitches that deviate from the standard 12-temperament temperament and non-standard tuning, creating a unique instability.
 
-In terms of rhythm, complex time signatures and polyrhythms are often used, and the structure has both regularity and disruption. As a result, the listener's expectations are constantly being betrayed.
+In terms of rhythm, complex meters and polyrhythms are often used, and the structure has both regularity and disruption. As a result, the listener's expectations are constantly being betrayed.
 
 <div class="mermaid">
 flowchart LR
@@ -164,16 +164,16 @@ This flow indicates a contemporary structure in which evaluations in the undergr
 
 ## Visit to Japan and Festival
 
-### FUJI ROCK FESTIVALへの出演
+### Appearance at FUJI ROCK FESTIVAL
 
 In 2026, Angine de Poitrine will come to Japan for the first time and will appear at FUJI ROCK FESTIVAL. This is a major turning point for them, a connection from the underground to a wider audience.
 
-フェスティバルという開かれた場において、彼らのような実験的な音楽がどのように受容されるかは、現代の音楽文化の多様性を測る指標ともなる。
+How experimental music like theirs is received in open venues such as festivals is an indicator of the diversity of contemporary music culture.
 
 <div class="mermaid">
 flowchart TD
-A[地下シーン] --> B[evaluation]
-B --> C[国際展開]
+A[underground scene] --> B[evaluation]
+B --> C[International expansion]
 C --> D[Coming to Japan]
 D --> E[Festival appearance]
 </div>

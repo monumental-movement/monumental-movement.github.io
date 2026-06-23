@@ -27,7 +27,7 @@ It was a symbolic event that Miki Matsubara"s ""Midnight Door~Stay With Me" and 
 However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotional sharing"**.
 
 In this article, we will explore how Showa songs resonate overseas and how they are being received and reconstructed.
-We will explore it from multiple angles, including (1) historical background, (2) media environment, (3) overseas reception structure, and (4) the perspective of musical translation.
+We will explore it from multiple angles, including 1) historical background, 2) media environment, 3) overseas reception structure, and 4) musical translation perspectives.
 
 ---
 

@@ -27,7 +27,7 @@ title: '[Column] Dungeon Synth ─ An underground ambient aesthetic that diverge
 Text: mmr｜Theme: About the history, production techniques, and cultural position of Dungeon Synth, an underground ambient genre derived from black metal
 
 Dungeon Synth is a music genre that expresses the spirituality of black metal and fantasy/medieval worldview through minimalist synth sounds.
-Its origins can be found in the European extreme music scene of the early 1990s, but from the late 2010s, with the expansion of Bandcamp culture, the second and third generation rapidly expanded, and it has now developed into a huge DIY network.
+Its origins can be traced back to the European extreme music scene of the early 1990s, but the second and third generations have rapidly expanded since the late 2010s with the expansion of Bandcamp culture, and it has now developed into a gigantic DIY network.
 
 ---
 
@@ -156,7 +156,7 @@ Many artists sought the feel of game consoles and PCM keyboards from the 90s.
 GM pianos, Choir Aahs, Strings, Pads, etc. Cheapness and nostalgia are treated as values.
 
 ### ■ Soft synth
-In modern times, the following are commonly used:
+In modern times, the following are often used:
 
 - **DSK free VST**
 - DSK ChoirZ, DSK Strings, etc.
@@ -192,7 +192,7 @@ Even if there were, the only sounds were small toms, percussion, and light timpa
 An important technique to create the "underground" feel of Dungeon Synth.
 
 ### ■ Bit Reduction (Bit Crusher)
-Adding a roughness of about 8 to 12 bits enhances the 90's feel.
+Adding a roughness of about 8 to 12 bits will enhance the 90's feel.
 
 ### ■ Tape simulation
 - Saturation (light distortion)
@@ -276,7 +276,7 @@ Visual influence is extremely large and plays a role in complementing the worldv
 - **Fief (USA)**
 
 ## ● Modern day (2024–)
-- Significant multinationalization and segmentation.
+- Significant multinationalization and fragmentation.
 Themes such as Forest / Winter / Heroic / Cosmic Synth have increased.
 
 ---

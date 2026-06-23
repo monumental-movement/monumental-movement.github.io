@@ -39,11 +39,11 @@ Québec Redneck Bluegrass Project, commonly known as QRBP, is a bluegrass/folk b
 
 However, simply describing them as a "bluegrass band" misses the reality.
 
-Their music blends bluegrass from the American South, Quebec folk, punk, garage rock, country, folk, bar music, and work song sensibilities. Overarching all of this was an ""aesthetics that moves in the opposite direction to sophistication.''
+Their music blends bluegrass from the American South, Quebec folk, punk, garage rock, country, folk, bar music, and work song sensibilities. Overarching the whole thing was an ""aesthetics that moves in the opposite direction to sophistication.''
 
 It's not urban smart.
 
-The mud of rural villages, the cold of winter, cheap alcohol, long roads, fatigue of workers, and the feeling of freedom on the weekends. The temperature of this reality is directly converted into music.
+The mud of rural villages, the cold of winter, cheap alcohol, long distance roads, the fatigue of workers, the freedom of the weekend. The temperature of this reality is directly converted into music.
 
 QRBP is characterized by its passion, not its skill.
 
@@ -346,7 +346,7 @@ C --> D["Broader Recognition"]
 D --> E["Community Identity Maintained"]
 </div>
 
-> Even as the scale expanded, QRBP did not lose its "local body temperature".
+> Even as the scale expanded, QRBP did not lose its "local body temperature."
 
 ---
 
@@ -424,7 +424,7 @@ Québec Redneck Bluegrass Project is more than just a folk band.
 
 They have played music that does not shame local culture.
 
-In an era where urbanization and digitalization are progressing, and all cultures are becoming homogenized, QRBP has demonstrated the strength of being ""rooted in the local area.''
+In an era where urbanization and digitalization are progressing and all cultures are becoming homogenized, QRBP has demonstrated the strength of being ""rooted in the local area.''
 
 The music isn't too sophisticated.
 

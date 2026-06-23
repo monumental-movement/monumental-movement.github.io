@@ -42,7 +42,7 @@ color: #fff;
 
 ## 1. Historical Prehistory: The Junction of Industrial Music and Techno
 
-The industrial music that emerged from the late 1970s intentionally destroyed the modern musical premise of musical tones, melodies, and harmony, and treated non-musical materials such as metal sounds, noise, mechanical sounds, and tape loops as structural units. This idea of ​​""turning the material itself into music'' became the foundation of the later sound design of Industrial Techno.
+The industrial music that emerged from the late 1970s intentionally destroyed the modern musical premise of musical tone, melody, and harmony, and treated non-musical materials such as metal sounds, noise, mechanical sounds, and tape loops as structural units. This idea of ​​""turning the material itself into music'' became the foundation of the later sound design of Industrial Techno.
 
 On the other hand, techno, which was established in the 1980s, is characterized by repetition, synchronization, and gridded time, and has developed in the direction of eliminating human fluctuations. Industrial Techno was born by directly combining the time structure of techno with the material orientation of industrial music.
 
@@ -64,7 +64,7 @@ A characteristic of this era is that distortion and noise are not placed randoml
 
 ---
 
-## 4. Mathematical rhythm analysis
+## 4. 数式的リズム解析
 
 Industrial Techno's rhythm may appear to be a simple 4/4 repetition on the surface, but underneath there is a precise time design. If the time axis is t and the time of kick appearance is K_i, the fundamental period T_K is expressed as follows.
 
@@ -145,7 +145,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 | Years | Events |
 | ------ | -------------------------- |
 | 1970s | Industrial music establishes material-oriented structure |
-| 1980s | Techno establishes a repetitive temporal structure |
+| 1980s | Techno establishes a repetitive time structure |
 | 1990s | Fusion of hard techno and industrial |
 | 2010s | Redefining modern industrial techno |
 | 2020s | Integrating precision acoustic design and physicality |

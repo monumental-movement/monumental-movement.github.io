@@ -83,7 +83,7 @@ The keyboard uses an electric piano or synthesizer, and rather than presenting a
 
 The Mahavishnu Orchestra began operations in the early 1970s and was characterized by extremely fast tempos, complex time signature structures, and strictly composed unison. While Weather Report emphasized fluid generation, Mahavishnu Orchestra contrasts with its emphasis on constructability and reproducibility.
 
-The improvisation here takes place within a composed framework rather than complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
+The improvisation here develops within a composed framework rather than in complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
 
 ### Rhythmic structure and form
 

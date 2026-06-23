@@ -242,7 +242,7 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 - Completely reproduce the original sound with Plogue chipsynth
 - Sidechain/EQ correction
 - Separate sound sources like a multi-mic
-- Adjust sound image with 32bit float recording
+- Adjust the sound image with 32bit float recording
 
 ---
 

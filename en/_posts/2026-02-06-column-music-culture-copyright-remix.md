@@ -19,7 +19,7 @@ title: '[Column] Remix culture and the issue of rights: between copying and crea
 
 Text: mmr | Theme: Remix culture has rapidly expanded from the 20th to the 21st century, crossing over music, video, art, and internet expression. On the other hand, although the copyright system was developed to protect the rights of creators, it has always caused friction with cultural practices that are predicated on reuse, quotation, and modification. This paper takes the historical development of remix culture as a starting point, organizes the institutional characteristics of Japanese law, US law, and EU law, and examines the relationship between rights and creation from multiple angles, expanding the scope beyond music to include videos, memes, and derivative works.
 
-Even before the word remix became popular, human culture has always been premised on reuse and modification. Works such as parodies of folk songs, variations on oral literature, and melodic adaptations of religious music were not fixed, finished products, but transformed during the process of transmission.
+Even before the word remix became popular, human culture has always been premised on reuse and modification.民謡の替え歌、口承文学の異本、宗教音楽の旋律転用など、作品は固定された完成物ではなく、伝達の過程で変形するものだった。
 
 Even after the modern era, when the concept of musical notation and composers was established, variations, arrangements, and quotations have been regarded as legitimate creative acts. The themes and variations in classical music and the interpretation of standards in jazz show that the reconstruction of existing materials is at the heart of expression.
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ## Visualization of recording technology and reuse
 
-With the spread of recording technology in the early 20th century, the object of reuse changed from "songs" to "sound sources." Through radio broadcasting, record duplication, and magnetic tape editing, materials began to circulate in a form separate from the act of performance.
+With the spread of recording technology in the early 20th century, the object of reuse changed from "songs" to "sound sources."ラジオ放送、レコード複製、磁気テープ編集によって、演奏行為とは切り離された形で素材が流通するようになる。
 
 Tape editing in particular formed the technical premise that was directly linked to later sampling and remixing. Editing through physical cutting and joining made the creator aware that the sound source was a material that could be disassembled.
 
@@ -85,7 +85,7 @@ At the same time, there are exceptions such as quotation, personal use, and educ
 
 A distinctive feature of US copyright law is the fair use provision. It has the flexibility to allow use without permission after comprehensively determining factors such as the purpose of use, nature of the work, amount of use, and impact on the market.
 
-In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of transformability has become an important criterion in video remix and meme culture.
+In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of deformability has become an important criterion in video remix and meme culture.
 
 > US law has a structure in which freedom of expression and protection of rights are adjusted after the fact.
 
@@ -103,49 +103,49 @@ The Digital Single Market Directive clarified platform responsibilities and had 
 
 ## Translation and citation under Japanese law
 
-Japanese copyright law places a strong emphasis on the right to adapt, and use that involves modification generally requires permission. Quotations must meet strict requirements and do not necessarily go well with remixes.
+Japanese copyright law places a strong emphasis on the right to adapt, and use that involves modification generally requires permission.引用は厳格な要件を満たす必要があり、リミックスとの相性は必ずしも良くない。
 
-On the other hand, in recent years, efforts have been made to respond to the digital age, such as by introducing flexible rights restriction regulations and making it a non-prosecution offense. Derivative creation culture has developed uniquely between systems and practices.
+一方で、近年は柔軟な権利制限規定の導入や、非親告罪化など、デジタル時代への対応が進められてきた。二次創作文化は、制度と慣行のあいだで独自の発展を遂げている。
 
 >Japanese law, while emphasizing clarity, has relied on complementation by custom.
 
 ---
 
-## Video remix and mashup
+## 映像リミックスとマッシュアップ
 
 In the video field, re-editing movies, reconstructing trailers, and fan-made videos have expanded remix culture. Because visual references are more obvious than music, rights issues are easier to visualize.
 
 Still, critical reediting and educational use have gained some legitimacy.
 
-> Video remix emphasizes criticality through the power of visual quotation.
+> 映像リミックスは、視覚的引用の力を通じて批評性を強調する。
 
 ---
 
-## Internet Memes and Instant Reuse
+## インターネット・ミームと即時的再利用
 
-Memes are cultural forms that add short text or modifications to existing images or videos and spread instantly. The unknown author, rapid distribution speed, and chain of transformation do not presuppose conventional rights management.
+ミームは、既存画像や映像に短いテキストや改変を加え、瞬時に拡散する文化形態である。作者不明、流通速度の速さ、変形の連鎖は、従来の権利管理を前提としない。
 
 In many cases, shared social context is central to value, and economic exploitation is secondary.
 
-> Memes are repeatedly produced and consumed at a speed that exceeds the time sense of the copyright system.
+> ミームは、著作権制度の時間感覚を超える速度で生成と消費を繰り返す。
 
 ---
 
 ## Derivative creations and fan culture
 
-Derivative works such as doujinshi, fan art, and cover videos are practices that simultaneously respect and critique the original work. In Japan in particular, culture has been supported by the tacit approval and guidelines of rights holders.
+同人誌、ファンアート、カバー動画などの二次創作は、原作への敬意と批評を同時に含む実践である。 In Japan in particular, culture has been supported by the tacit approval and guidelines of rights holders.
 
-This can be said to be a choice that prioritizes cultural sustainability over strict legal application.
+これは、厳密な法適用よりも文化的持続性を優先した選択といえる。
 
-> Derivative creations are a cultural ecosystem that has been established through agreements outside the system.
+> 二次創作は、制度外の合意によって成立してきた文化的エコシステムである。
 
 ---
 
-## Re-editing problem in the AI ​​era
+## AI時代の再編集問題
 
-Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage raise issues that cannot be resolved using conventional copyright concepts.
+AIによる生成や変換は、リミックスの概念をさらに拡張した。 Data use, output similarity, and style imitation during the learning stage raise issues that cannot be resolved using conventional copyright concepts.
 
-> AI will redefine who is responsible for remixing.
+> AIは、リミックスの主体と責任の所在を再定義する。
 
 ---
 
@@ -164,17 +164,17 @@ sequenceDiagram
     D->>E: デジタルとミーム
 </div>
 
-> Remix culture has changed form in response to changes in technology and institutions.
+> リミックス文化は、技術と制度の変化に応じて形を変えてきた。
 
 ---
 
-## Diagram: Remix and circulation of rights
+## 図：リミックスと権利の循環
 
 <div class="mermaid">
 flowchart LR
     A[Original work]
     B[reuse]
-    C[cultural assessment]
+    C[文化的評価]
     D[legal system]
     A --> B --> C --> D --> A
 </div>
@@ -187,7 +187,7 @@ flowchart LR
 
 The issue of remix culture and rights is a history of adjustment rather than mere conflict. Through music, images, memes, and derivative works, culture has always used the past as material to create the future. The legal system cannot completely control the flow, but it can direct it.
 
-> How we treat remixes is a test of how society views creativity.
+> リミックスをどう扱うかは、社会が創造性をどう位置づけるかの試金石である。
 
 ---
 

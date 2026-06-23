@@ -314,7 +314,7 @@ After the event, some people criticized her for ""desecrating a religious space,
 
 This incident caused great debate around the world.
 
-Supporters of club culture came to her defense.
+Club culture supporters came to her defense.
 
 On the other hand, there was also criticism from conservatives.
 
@@ -374,7 +374,7 @@ In fact, since the late 2010s, an increasing number of DJs from the Middle East 
 
 ### Reassessing the regional scene
 
-Furthermore, electronic music media, which had been centered around Europe and America, began to actively cover the Middle Eastern scene.
+In addition, electronic music media, which had been centered around Europe and the United States, began to actively cover the Middle Eastern scene.
 
 Lebanon.
 egypt.

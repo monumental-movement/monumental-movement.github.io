@@ -124,7 +124,7 @@ This process corresponds to the following structure in music:
 
 * Noise and signal obfuscation
 * Time accumulation by layers
-* A mix of intention and coincidence
+* A mixture of intention and coincidence
 
 The squeegee technique is particularly important. By dragging the paint, the screen undergoes unpredictable changes. This "uncontrollable operation" encompasses both Cage-like contingency and Feldman-like persistence.
 
@@ -210,7 +210,7 @@ timeline
 
 ## Masterpiece: Embodiment of randomness, silence, and layers
 
-### John Cage《4 minutes 33 seconds》 (1952)
+### John Cage《4 minutes 33 seconds》(1952)
 
 This work is treated as an extreme turning point in music history.
 

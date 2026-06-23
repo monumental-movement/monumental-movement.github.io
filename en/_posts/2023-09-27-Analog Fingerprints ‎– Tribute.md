@@ -12,7 +12,7 @@ title: Analog Fingerprints – Tribute
 ---
 
 
-"Tribute" by Analog Fingerprints is a bumpy electro house track with a rave vibe on the A-side. B1 and B2 are very minimalistic tracks.
+"Tribute" by Analog Fingerprints is a bumpy electro house track with a rave vibe on the A-side. B1 and B2 are very minimal tracks.
 
 Analog Fingerprints' real name is Marco Passarani.
 

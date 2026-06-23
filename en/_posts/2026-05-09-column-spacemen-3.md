@@ -51,7 +51,7 @@ The sound image is shoegaze,
 drone,
 space rock,
 post lock,
-It has even influenced modern ambient music.
+It has even influenced contemporary ambient music.
 
 > Spacemen 3 was a rare rock band that created a huge space through "scarcity."
 
@@ -101,7 +101,7 @@ It inspired them to explore deep music.
 
 The two were particularly attracted to the following music.
 
--The Velvet Underground
+- The Velvet Underground
 -The Stooges
 -MC5
 -13th Floor Elevators
@@ -132,7 +132,7 @@ Eventually, the following structure will be established.
 - Will Carruthers
 - Jonny Mattock
 
-The band name is
+バンド名は、
 It was chosen because it evokes "space" and "drug sensations."
 
 From the beginning they
@@ -374,7 +374,7 @@ At the time of production,
 The relationship between Jason Pierce and Peter Kember was deteriorating.
 
 musical direction,
-Human relationships too,
+Human relationships too
 He was already approaching his limit.
 
 ### Difference in direction between the two

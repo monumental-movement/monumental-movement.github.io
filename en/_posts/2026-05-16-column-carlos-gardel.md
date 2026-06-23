@@ -128,7 +128,7 @@ Gardel was not just a singer, but a ""translator of urban emotions.''
 
 ## King of Tango: Absolutely popular in the 1920s
 
-In the 1920s, Carlos Gardel became one of Argentina's biggest stars.
+By the 1920s, Carlos Gardel had become one of Argentina's biggest stars.
 
 Records, radio, stage, touring. With the expansion of new media, his popularity spread throughout South America.
 

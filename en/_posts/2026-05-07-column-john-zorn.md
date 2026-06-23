@@ -111,7 +111,7 @@ This technique comes from film editing techniques that Zorn was influenced by, s
 
 ### Visual music where darkness and beauty coexist
 
-Zorn has also composed music for numerous films, the most well-known of which is the TETSUO series by Japanese film director Tsukamoto Shinya.
+Zorn has also composed music for numerous films, most famously for the TETSUO series by Japanese film director Tsukamoto Shinya.
 
 These soundtracks are characterized by metallic noises and ominous rhythms, and serve to amplify the violence of the images. On the other hand, another aspect of Zone is a group of tranquil and religious works.
 
@@ -131,7 +131,7 @@ For example, he is known for rarely giving interviews. He strictly avoids media 
 
 Additionally, recording, photography, eating and drinking are prohibited at the live space "The Stone." This is an intentional restriction to prevent the musical experience from becoming a consumer product, and positions music as a temporary experience.
 
-Furthermore, during their recordings during the Naked City era, they required the members to "switch genres within seconds," forcing the performers to be extremely focused. These extreme demands demonstrate that Zorn's music is not accidental but highly engineered.
+Furthermore, during their recordings during the Naked City era, they required the members to "switch genres within seconds," forcing the performers to concentrate extremely hard. These extreme demands demonstrate that Zorn's music is not accidental but highly engineered.
 
 Another famous episode is that Zorn has been cautious about reproducing and distributing his works for many years, and has thoroughly controlled distribution. This decision was made to protect the context of the music and the listening experience.
 

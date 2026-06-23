@@ -186,7 +186,7 @@ With these, the static image of the chorus is completely dismantled, and the par
 
 Ligeti was a composer who symbolized 20th century acoustic thinking and brought about the most radical innovations in choral music.
 
-### Features of representative works
+### Characteristics of representative works
 
 *《Lux Aeterna》: Micropolyphony without accompaniment
 * 《Requiem》: Dense texture and tension in "Kyrie"
@@ -208,7 +208,7 @@ Whittaker is known for her choral works that maintain a classical beauty while l
 
 ### Virtual Choir
 
-"Virtual Choir", which took place in the 2010s, was an attempt to integrate individual voices recorded from all over the world into a gigantic chorus.
+"Virtual Choir", which took place in the 2010s, is an attempt to integrate individual voices recorded from all over the world and create a gigantic chorus.
 This is noteworthy in terms of music history as an **expansion of the concept of choral singing in the internet age**.
 
 ---

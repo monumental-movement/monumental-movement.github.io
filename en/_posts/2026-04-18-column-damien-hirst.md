@@ -103,7 +103,7 @@ From a musical perspective, this is more of a "production" than a band. It has a
 
 Hirst dominated the art market in the 1990s as a central figure of Young British Artists.
 
-What is important here is the process by which punk anti-establishmentism is absorbed into the market. The attitude that once denied the system has instead become a factor that creates market value.
+What is important here is the process by which punk's anti-establishment spirit is absorbed into the market. The attitude that once denied the system has instead become a factor that creates market value.
 
 ### Works as provocations
 

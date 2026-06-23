@@ -17,11 +17,11 @@ title: '[Column] Why visual kei and idol culture cross borders: The internationa
 ## Prologue: When Japan's "peripheral music" moves the world
 
 
-Text: mmr｜Theme: Why does Japanese subculture music reach the world? Deciphering the history of the formation and cultural translation of overseas fandoms, with a focus on visual kei and idol culture
+Text: mmr｜Theme: Why does Japanese subculture music reach the world? - Understanding the history of the formation of overseas fandoms and cultural translation, with a focus on visual kei and idol culture
 
 
 "X JAPAN" "BABYMETAL" "Perfume" "Dir en grey"
-When these names are mentioned, many overseas listeners speak of them with fond memories.
+これらの名前を挙げたとき、多くの海外リスナーは熱狂的な記憶とともに彼らを語る。  
 Japanese subculture music, once considered "Galapagos culture," has transcended national borders as a unique system of expression in the 21st century.
 
 At its root is the phenomenon that music functions as a translation device for cultural codes.
@@ -47,47 +47,47 @@ color: #fff;
 ## Chapter 1: "Style" and "Narrative" of Visual Kei
 
 Visual Kei was established in the late 1980s with X (currently X JAPAN) and BUCK-TICK.
-This genre, which added aestheticism, theatricality, and gender ambiguity to a Western rock structure, functioned more than music as a device for presenting a ""worldview.''
+西洋的ロック構造に耽美主義・演劇性・ジェンダーの曖昧さを加えたこのジャンルは、音楽以上に「世界観」を提示する装置として機能した。  
 
 For overseas listeners, the appeal of Visual Kei lies in its expressiveness that transcends musical genres.
 Makeup and costumes are not just appearances; they blur the boundaries between the individual and society, and are seen as symbols of self-reconstruction.
 Especially in Europe, it is understood as an extension of gothic, androgynous, and post-punk culture.
 In America, it was recontextualized through anime culture and otaku sensibilities.
 
-> "They are not pretending to be rock stars — they *perform* identity."
-> (From a post on overseas fan forum "J-Music Underground")
+> “They are not pretending to be rock stars — they *perform* identity.”  
+> （海外ファンフォーラム「J-Music Underground」投稿より）
 
 This ""performed identity'' resonated with young people around the world as a means of expressing the postmodern subject.
 
 ---
 
-## Chapter 2: Idol culture's "community fantasy" and cross-border translation
+## 第2章：アイドル文化の「共同幻想」と越境翻訳
 
 Idols are often seen as something unique to Japan, but their support from overseas is stronger than expected.
-One reason for this is that we have clearly designed a ""community fan experience.''
+その理由の一つは、**「共同体としてのファン体験」**を明確に設計している点にある。  
 
 AKB48"s "Idols you can meet", Nogizaka46"s cleanliness, BABYMETAL's impersonation of metal grammar--
-These are not just entertainment, but a clever blueprint for ""cultural translation.''
-The reason behind BABYMETAL's success at overseas festivals is
-There was a structural strategy to embed the concept of ""Japanese idols'' within the global style of metal.
+これらは単なるエンタメではなく、「文化的翻訳」の巧妙な設計図である。  
+BABYMETALが海外フェスで成功した背景には、  
+「日本的アイドル」というコンセプトを、メタルというグローバル様式の中に埋め込む構造的戦略があった。  
 
-The export of idol culture is also a fusion of religious ritual and technological community.
-Handshake events, broadcasts, and SNS live events digitize ceremonial "contact" and turn fans into "followers."
+アイドル文化の輸出は、**宗教的儀礼とテクノロジー的共同体**の融合でもある。  
+握手会、配信、SNSライブは、儀礼的な“接触”をデジタル化し、ファンを「信徒」に変える。  
 This structure was translated overseas as ""participatory culture,'' and as a result, cultural boundaries were dissolved.
 
 ---
 
-## Chapter 3: Resonant structure of media and fandom
+## 第3章：メディアとファンダムの共振構造
 
 Since the 2000s, the emergence of YouTube and Nico Nico Douga has globalized Japanese subculture music.
-MV, live footage, fan subtitles, reaction videos.
+MV、ライブ映像、ファン字幕、リアクション動画。  
 In particular, ""reaction culture" has encouraged the visualization of overseas fandoms and created a new act in which ""watching itself is participation"**.
 
 It is also important that fan activities through doujinshi and cosplay expanded the musical experience.
 Crossover with anime and game culture
-He has established a culture in which Japanese music is not only "listened to" but also "performed and reproduced."
+日本音楽を“聴く”だけでなく“演じる・再生産する”文化として定着させた。  
 
-If we look at this structure from a media theory perspective,
+この構造をメディア理論的に見るならば、  
 **It can be said that "audience activation" = "co-creation of cultural translation"**.
 Fans write their own subtitles, spread memes, and reconstruct the symbolism of idols and artists.
 Because of this ""re-editability,'' Japanese subculture music has come to play a role in global pop.
@@ -100,7 +100,7 @@ What visual kei and idol fans from overseas have in common is their empathy for 
 The androgynous aesthetic of Visual Kei and the grammar of "cuteness = reversal of power" in idol culture,
 It also connects with the LGBTQ+ community and queer theory.
 
-For example, X JAPAN"s YOSHIKI and L"Arc~en~Ciel's HYDE wear feminine expressions even though they are male.
+たとえば、X JAPANのYOSHIKIやL'Arc〜en〜CielのHYDEは、男性でありながら女性的な表象を纏い、  
 This was sublimated as "direction."
 This ambiguity is the reason why he has been accepted around the world as an expressive figure in the post-gender era.
 
@@ -121,20 +121,20 @@ If K-POP's strength lies in its precision as a "completed product,"
 Japanese subculture music is about "imperfection" and "closeness,"
 In other words, the value is the amount of room for fan intervention.
 The reason why overseas fans are attracted to Japanese underground idols and indie visual kei is that
-This is because I sympathize with its "open and unfinished nature."
+その“開かれた未完成性”に共感するからである。  
 
 In addition, the melody-oriented and emotional lyrics of J-POP,
 It is perceived as "exotic nostalgia" and is loved in a context different from the global orientation of Korean pop.
 
 ---
 
-## Final chapter: The future of subculture music--from translation to co-creation
+## 終章：サブカル音楽の未来――翻訳から共創へ
 
 Today, visual kei and idols are no longer exclusive to "Japanese culture."
 Brazilian visual kei bands, French underground idol events, American doujin festivals...
-Around the world, we are evolving from "imitation" to "co-creation."
+世界各地で「模倣」から「共創」へと進化している。  
 
-The essence of subculture music lies in **building empathy through multi-layered translation**.
+サブカル音楽の本質は、**多層的翻訳による共感の構築**にある。  
 Expressions originating from Japan are reconfigured as mirrors of other cultures,
 A new sensibility is added to it. That cycle is
 This is a new form of "music that transcends borders."

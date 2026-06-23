@@ -9,7 +9,7 @@ tags:
 - Techno
 - Ambient
 - Ecology
-title: '[Column] Recondite and forest bathing - When techno returns to the forest'
+title: 【コラム】 Reconditeと森林浴 ― テクノが森に帰るとき
 ---
 
 
@@ -19,13 +19,13 @@ title: '[Column] Recondite and forest bathing - When techno returns to the fores
 Text: mmr | Theme: German minimal techno artist Recondite. The music allows you to hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
 
 Recondite――real name Lorenz Brunner.
-When many people hear his music for the first time, they feel a sense of ""loneliness" and ""tranquility."
+彼の音楽を初めて耳にしたとき、多くの人が「寂しさ」と「静謐」を感じる。  
 However, deep down, there is a tension between nature and technology.
-For Brunner, who grew up in the Bavarian forests of southern Germany, sound is not a product of the city;
+ドイツ南部バイエルンの森に育ったBrunnerにとって、音は都市の産物ではなく、  
 **It was an organic thing born out of fog and humidity, wind and shadow**.
 
 In recent years, the term ""forest bathing'' (Shinrin-yoku) has been attracting worldwide attention, even in Japan.
-It is not just healing, but the act of reconnecting human senses to the natural environment.
+それは単なるヒーリングではなく、**人間の感覚を自然環境に再接続する行為**である。  
 This concept and Recondite's sonic world are strangely intimate.
 His minimal tracks are like walking through a digital forest.
 
@@ -50,12 +50,12 @@ color: #fff;
 Since their debut in 2011, Recondite has carved out a unique position in the progressive techno scene.
 While distancing himself from Berlin's club culture, he combined solitude and nature motifs.
 
-Representative works:
+代表作：
 
 - [**"On Acid" (2012)**](https://amzn.to/4oCl2TY) — Reconstructing the acid sound of Roland TB-303 in humid air.
 - [**"Hinterland" (2013)**](https://amzn.to/3X1cVo8) — An album with the motif of the scenery of my hometown. A melody that traces the ridgeline of a mountain.
 - [**"Iffy" (2014)**](https://amzn.to/4oJaMcR) — An introspective beat and a tone that feels like a fleeting moment of light in a forest.
-- [**"Dwell" (2020)**](https://amzn.to/42VHuiH) — A work born during a time of isolation. The theme is a return to nature.
+- [**"Dwell" (2020)**](https://amzn.to/42VHuiH) — A work born during a time of isolation.自然への回帰がテーマ。
 
 ---
 
@@ -63,13 +63,13 @@ Representative works:
 
 Analyzing Recondite's music, it is characterized by "breathing in the low range" and "humidity in the midrange."
 Kick is always subdued, instead letting the reverberations of the synths express the layers of air between the trees.
-This structure corresponds to the mechanism by which forest bathing stimulates the parasympathetic nervous system in humans.
+この構造は、**森林浴が人間の副交感神経を刺激するメカニズム**と呼応している。
 
 > Forest bathing uses multiple stimuli such as natural sounds, light, smells, and humidity.
 > It is said to reduce stress hormones in humans (Forestry Agency survey, 2004).
 
 At Recondite's live performances, it feels as if a ""**electronic leaf rub**'' envelopes the venue.
-Although it is **artificial nature** reproduced with digital equipment,
+それはデジタル機材によって再現された**人工の自然**でありながら、  
 For some reason, the listener feels the illusion of being closer to the forest.
 
 ---
@@ -77,11 +77,11 @@ For some reason, the listener feels the illusion of being closer to the forest.
 ## Chapter 3: The intersection of techno and ecology
 
 Techno music is often described as urban, mechanical, and inorganic.
-But Recondite's approach is the opposite. He treats synths as "an extension of the landscape."
+しかしReconditeのアプローチは逆だ。 He treats synths as "an extension of the landscape."
 
 Environmental philosopher Timothy Morton proposed the concept of "**dark ecology**."
 It is impossible for humans to completely separate from nature, and we should rather accept an **uncomfortable mixed state**.
-Recondite's music embodies this philosophy.
+Reconditeの音楽は、この思想を体現している。  
 An artificial drum machine mimics the heartbeat of the forest, and a sequencer recreates the rhythm of the wind.
 It is a sound ecology that depicts the ambiguous coexistence of nature and man-made.
 
@@ -113,7 +113,7 @@ It is a **reproduction of a digital forest** that leads human senses to natural 
 
 ## Chapter 6: Recondite and Japan - the intersection of forest culture
 
-What is interesting is that when Recondite visited Japan,
+興味深いのは、Reconditeが日本に訪れた際、  
 ""I was deeply influenced by the tranquility of Japan's forests,'' he said (from a 2018 interview).
 Unlike Western forests, Japan's ""forest signs'' have a **mythical introspection**.
 This influence is evident in the minimalism of his later works.
@@ -123,7 +123,7 @@ This influence is evident in the minimalism of his later works.
 
 This ""silence as existence'' is the very essence of forest bathing.
 **Silence makes sound stand out**.
-His music is an electronic translation of that philosophy.
+彼の音楽は、その哲学を電子的に翻訳している。
 
 ---
 
@@ -174,7 +174,7 @@ It's like **aural forest bathing**.
 
 The philosopher Maurice Merleau-Ponty
 ""The body is part of the world, and sensations are phenomena of interaction with the world.''
-Recondite's music electronically implements this phenomenological perspective.
+Reconditeの音楽は、この現象学的視点を電子的に実装している。
 In other words, it presents a new physicality called **Music = Forest of Sensory**.
 
 ---
@@ -182,9 +182,9 @@ In other words, it presents a new physicality called **Music = Forest of Sensory
 ## Chapter 10: Conclusion - Techno returns to the forest
 
 Recondite's music is not mechanical nature, but
-**It maintains a balance that feels like a machine breathing in nature**.
+**It maintains a balance like a machine breathing in nature**.
 
-If forest bathing is an act of ""returning humans to nature,''
+森林浴が「人間を自然へ戻す」行為であるなら、
 Recondite's music is an act of "returning techno to nature."
 Artificial and organic, city and forest, beat and silence - all of them melt together in him.
 It resonates as a new ""**poetics of digital nature**.''

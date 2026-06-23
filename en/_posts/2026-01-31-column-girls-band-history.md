@@ -47,7 +47,7 @@ color: #fff;
 
 In the 1950s, rock and roll was born in the United States, and the band form became the center of youth culture. On the other hand, female musicians at the time were often in the forefront as singers, and the performance was generally performed by men. One group that emerged as an exception was an all-female group that played musical instruments.
 
-The Shirelles and the Ronettes, which appeared in 1964, were technically vocal groups, but as a female-dominated collective they had a strong influence on their successors. Eventually, in the late 1960s, women began to be seen picking up guitars and drums on the West Coast of the United States and the United Kingdom.
+The Shirelles and the Ronettes, which appeared in 1964, were technically vocal groups, but as a female-dominated collective they had a strong influence on their successors. Eventually, in the late 1960s, the sight of women picking up guitars and drums gradually became visible on the West Coast of the United States and in England.
 
 <div class="mermaid">
 flowchart LR
@@ -160,7 +160,7 @@ During the alternative rock era of the 1990s, girl bands became genre-crossing e
 
 The European girl band scene has a different cultural background than America's. In Britain, class society and youth culture were closely linked, and for women to form a band was an expression of their social position.
 
-The post-punk era of the late 1970s and 1980s saw an increase in bands based in art schools and school networks, combining musical experimentation with political awareness. Within this context, female bands became a presence that played a role in the musical avant-garde and social critique.
+The post-punk era of the late 1970s and 1980s saw an increase in bands based in art schools and school networks, combining musical experimentation with political consciousness. Within this context, female bands became a presence that played a role in the musical avant-garde and social critique.
 
 In continental Europe, a scene is forming around Berlin and Paris where the boundaries between art and music are blurred. Female bands developed their own unique expressions while intersecting with club culture and performance art.
 

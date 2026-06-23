@@ -203,7 +203,7 @@ timeline
 
 Throbbing Gristle didn't expand on music. I completely destroyed music once.
 
-What emerged as a result was the genre known as industrial, and even more so, an idea that is common to modern electronic music as a whole.
+What emerged as a result was the genre of industrial, and even more so, an idea that applies to modern electronic music as a whole.
 
 Their works are still not easy to listen to. However, this sense of discomfort makes us question what we are looking for in music.
 

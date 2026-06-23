@@ -27,7 +27,7 @@ In the late 1970s, his music was formed in the desolate landscape of the industr
 
 Pere Ubu, which he led, was more than just a band, it functioned as a ideological device. There, music existed not as a story but as a landscape.
 
->By deviating from the conventional wisdom of rock, they were the ones who expanded the possibilities of rock.
+> By deviating from the common sense of rock, they were an existence that expanded the possibilities of rock.
 
 ---
 
@@ -52,7 +52,7 @@ color: #fff;
 
 David Thomas was born in America in 1953. He grew up in Cleveland, a typical Rust Belt city centered on the steel industry, which was in economic decline in the 1970s. This environment had a decisive influence on his music.
 
-City noise, mechanical sounds, and inorganic landscapes. These later appear as "sound textures" in his works. It is due to this urban experience that his voice functions as part of the environmental sounds, rather than just singing.
+City noise, mechanical sounds, and inorganic landscapes. These later appear as "sound textures" in his works. It is due to this urban experience that his voice functions not just as a song, but as part of the environmental sounds.
 
 In addition to music, he also had a strong interest in literature and movies. Avant-garde literature and experimental film in particular have influenced his structural view of music.
 
@@ -78,7 +78,7 @@ What is important is that this band was not just an ""initial form'', but a piec
 
 ### Fusion of noise and structure
 
-In 1975, David Thomas formed Pere Ubu. The band's name comes from King Ubu, which hints at their aesthetic at the time.
+In 1975, David Thomas formed Pere Ubu. The band's name is derived from King Ubu, hinting at their aesthetic at the time.
 
 Their 1978 album, The Modern Dance, is considered a monumental work in post-punk. This album combines synthesizer noise, non-linear structures, and David Thomas's unconventional vocals to create a sonic space completely different from traditional rock.
 

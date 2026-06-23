@@ -44,7 +44,7 @@ color: #fff;
 
 In the early 2000s, the music scene in Quebec, Canada, was at a unique turning point.
 
-While English-speaking indie rock was gaining momentum around the world, in Quebec the French language of rock expression was being passed down to a new generation. That's where the band that later became known as "Galaxie" appeared.
+While English-speaking indie rock was gaining momentum around the world, in Quebec the French language of rock expression was being passed down to a new generation. That's when the band that would later become known as "Galaxie" emerged.
 
 Their sound is difficult to describe in one word.
 
@@ -151,7 +151,7 @@ D --> E[Renamed to Galaxie]
 E --> F[Establish your own route]
 </div>
 
-> The name change was not just a legal process, but an event that made the band's outline stand out even more strongly.
+> The name change was not just a legal process, but an event that made the band's outline stand out more strongly.
 
 ---
 

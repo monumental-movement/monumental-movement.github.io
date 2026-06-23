@@ -56,7 +56,7 @@ During this period, the foundations of **temporal/rhythmic expression** in line 
 
 - **1986**: First book "SPINOZA" published (Sakushasha).
 Characterized by philosophical themes and abstract visuals.
-**Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
+By adjusting the density of lines, screen composition, and temporal rhythm, **visual musicality** is revealed.
   
 - **1988**: Published ""Katajikenai" (Hakusensha) and ""G (GATE 1)" (Schola).
 The tense lines in the sci-fi setting and the expression of the human body are like musical polyrhythms.
@@ -128,7 +128,7 @@ graph LR
 ---
 
 
-## Chapter 7: Chronology - Keiichi Koike's trajectory
+## 第7章：年表 ― 小池桂一の軌跡
 
 <div class="mermaid">
 

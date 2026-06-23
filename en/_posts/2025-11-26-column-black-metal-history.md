@@ -112,7 +112,7 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "ice wasteland" through repetition and speed
+* Expression of "Ice Wasteland" through repetition and speed
 * Corpse Paint
 * Natural view of winter, forest, and solitude
 
@@ -127,7 +127,7 @@ The focus was on young Norwegian underground musicians.
 
 ### ■ Serious incident
 
-* 1991: Dead of Mayhem dies.
+* 1991: Dead of Mayhem passed away.
 * 1992: Church arson incident
 * 1993: Euronymous murder case
 * 1993–1994: Major album releases all at once

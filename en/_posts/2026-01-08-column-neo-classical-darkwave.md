@@ -73,7 +73,7 @@ In this genre, in addition to major and minor keys, church modes such as Doric a
 
 ### Rhythm and tempo
 
-The tempo is mainly medium to low, and even if the rhythm is clear, the driving force is suppressed. The repetitive rhythm emphasizes the ritualistic nature and serves to obscure the sense of time.
+The tempo is mostly medium to low, and even if the rhythm is clear, the driving force is suppressed. The repetitive rhythm emphasizes the ritualistic nature and serves to obscure the sense of time.
 
 ### Organization
 
@@ -159,7 +159,7 @@ C --> D[Establishment and re-evaluation of genre names]
 
 ## Summary
 
-Neo-Classical Darkwave is a musical field that was established by connecting sacred music, classical harmony, and symbolist aesthetics with recording technology and dark culture from the late 20th century onwards, rather than simply reproducing the musical idioms of the past. There is no single inventor or center in the process of its formation, but rather a gradual convergence of multiple regions, backgrounds, and individual practices.
+Neo-Classical Darkwave is a musical field that was created by connecting sacred music, classical harmony, and symbolist aesthetics with recording technology and dark culture from the late 20th century onwards, rather than simply reproducing the musical idioms of the past. There is no single inventor or center in the process of its formation, but rather a gradual convergence of multiple regions, backgrounds, and individual practices.
 
 This music does not aim for consumptive immediacy, but has a structure that assumes repeated listening and spatial immersion. As a result, genres function as cultural archives that remain referenced over time, while maintaining a distance from large-scale commercial spheres.
 

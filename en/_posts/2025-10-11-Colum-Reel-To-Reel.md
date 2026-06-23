@@ -70,7 +70,7 @@ However, it is this "finiteness" that turns sound into a special event.
 
 ---
 
-## Chapter 3 Genealogy of analog revival and next wave
+## Chapter 3 Genealogy and next wave of analog revival
 Over the past 20 years, we have witnessed the ""analog comeback'' many times.
 Records revive the visual ritual** through the "object" of the jacket.
 Cassettes brought back the DIY spirit and **lo-fi freedom**.

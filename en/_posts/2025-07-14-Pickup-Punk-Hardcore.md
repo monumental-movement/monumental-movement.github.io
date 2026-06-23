@@ -8,7 +8,7 @@ layout: post
 tags:
 - Punk
 - Hardcore
-title: Pick up punk/hardcore works
+title: パンク／ハードコア作品をピックアップ
 ---
 
 
@@ -50,7 +50,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-A work by an Italian punk band. A rare piece in which Billy Bragg from the UK participated in part.
+イタリア出身パンクバンドの作品。 A rare piece in which Billy Bragg from the UK participated in part.
 
 #### Tracklist
 ```md
@@ -172,7 +172,7 @@ B11. Spice-Song
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Friction <br />- <em>Friction</em></a></td>
-<td>1980</td>
+      <td>1980</td>
 <td>CD</td>
 <td>Japanese punk</td>
 </tr>

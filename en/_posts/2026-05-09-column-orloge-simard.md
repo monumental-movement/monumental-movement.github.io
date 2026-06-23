@@ -287,7 +287,7 @@ What is important here is the existence of the character "Roxan Puppetville."
 
 This character also appeared at live performances and played a role in expanding the band's worldview.
 
-In other words, Orloge Simard was not just a band at this time, but a group with its own universe.
+In other words, Orloge Simard was not just a band, but a group with its own universe from this point on.
 
 In terms of music, a horn section was also introduced, expanding the range of arrangements.
 
@@ -390,7 +390,7 @@ Quebec rock culture has a tradition of expressing politics and social criticism 
 | 2017 | Beuvez tousjours, ne mourez jamais | A masterpiece that determined the popularity of live performances |
 | 2019 | Saguenay Libre | Documentary |
 | 2020 | À chacun son Waterloo | A transformational work with a stronger rock flavor |
-| 2022 | Culture du culte | 10th anniversary work that brings anti-censorship ideas to the forefront |
+| 2022 | Culture du culte | 10th anniversary work that brings anti-censorship ideology to the fore |
 
 <div class="mermaid">
 timeline
@@ -434,7 +434,7 @@ As a result, their music is not ""music that can reach everyone," but ""music th
 
 Their activities also overlap with Quebec culture itself.
 
-An exaggerated affirmation of the local culture of French-speaking Canada. This attitude serves as a place for many viewers to confirm their identity.
+An exaggerated affirmation of the local culture of French-speaking Canada. This attitude has become a place of identity confirmation for many viewers.
 
 Moreover, Orloge Simard never loses its sense of danger.
 

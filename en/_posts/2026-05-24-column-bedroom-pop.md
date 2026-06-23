@@ -38,7 +38,7 @@ Bedroom Pop didn't just appear out of nowhere.
 
 Its roots lie in 1970s DIY punk, 1980s cassette culture, and 1990s lo-fi indie.
 
-For example, in the American indie scene, home recording using 4-track MTR was widely practiced. The concept of lo-fi itself does not negate the roughness of recording quality, but rather is born out of a sense of affirming its ""rawness.''
+For example, in the American indie scene, home recording using 4-track MTR was widely practiced. The concept of lo-fi itself does not negate the roughness of recording quality, but rather is born out of a sense of affirming its ""rawness''.
 
 In the late 1980s, underground networks through cassette tapes also expanded. Artists exchanged works by mail, and a small community was formed.
 
@@ -105,7 +105,7 @@ Such images created a far more intimate feeling than a huge studio space.
 
 The conventional star system was based on a "sense of distance."
 
-However, Bedroom Pop, on the contrary, placed value on ""proximity.''
+However, Bedroom Pop, on the contrary, placed value on ""proximity''.
 
 <div class="mermaid">
 flowchart TD
@@ -201,7 +201,7 @@ In other words, Bedroom Pop was a culture that prioritized atmosphere over perfe
 
 ## Turning point after Billie Eilish
 
-The most emblematic figure for making Bedroom Pop a global phenomenon and permeating the general public was entity["musical_artist","Billie Eilish","American singer-songwriter"].
+Billie Eilish was the most iconic figure in popularizing Bedroom Pop as a worldwide phenomenon.
 
 His early works, which he produced at home with his brother Finneas, had a different atmosphere from ""pop made in a huge studio.''
 
@@ -389,7 +389,7 @@ LED light.
 
 record shelf.
 
-Small synth.
+A small synth.
 
 Ornamental plants.
 

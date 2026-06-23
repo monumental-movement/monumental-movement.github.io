@@ -186,7 +186,7 @@ flowchart TD
 
 ---
 
-## Conclusion: A new democratization of creation
+## Conclusion: A new democratization of creativity
 
 Live Coding is through "improvisational expression through chords".
 He opened up music to an act that anyone could create.

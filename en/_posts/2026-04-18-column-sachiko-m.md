@@ -219,13 +219,13 @@ flowchart TD
     B --> C[lack of change]
     C --> D[loss of auditory focus]
     D --> E[The emergence of environmental sounds]
-    E --> F[空間認識の強化]
+    E --> F[Enhanced spatial awareness]
     F --> G[Changes in self-perception]
 </div>
 
-この作品では、音そのものは極めて単純であるにもかかわらず、知覚のプロセスは段階的に変化していく。特に重要なのは、「音を追えなくなる瞬間」であり、その時点で聴覚は環境全体へと拡張される。
+In this work, although the sound itself is extremely simple, the process of perception changes step by step. What is especially important is the moment when we can no longer follow the sound, at which point our hearing expands to encompass the entire environment.
 
-> 単純な音が複雑な知覚を引き起こす
+> Simple sounds evoke complex perceptions
 
 ---
 
@@ -233,7 +233,7 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TB
-    A[音源 サイン波発生装置] --> B[spread throughout the space]
+    A[Sound source Sine wave generator] --> B[spread throughout the space]
     B --> C1[Audience A]
     B --> C2[Audience B]
     B --> C3[Audience C]

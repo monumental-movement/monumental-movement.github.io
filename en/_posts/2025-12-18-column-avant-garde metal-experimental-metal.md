@@ -116,7 +116,7 @@ In Obscura, Gorguts' structural ideas are realized in an extreme form. The songs
 
 * There is no hierarchical relationship between riffs
 * Time signature change does not indicate a structural change
-* Dissonance becomes the norm and the concepts of tension and release disappear.
+* Dissonance becomes the norm, and the concepts of tension and release disappear.
 
 As a result, the entire album comes across as one giant structural experiment.
 
@@ -176,7 +176,7 @@ In this work, the separation of structures goes even further. The songs are stru
 | Method | Demolition | Layering |
 | Time | Rupture | Parallel |
 | Rhythm | Destruction of pulse sensation | Breathing control |
-| Dissonance | Structural Armament | Spatial Direction |
+| Dissonance | Structural armament | Spatial production |
 
 ---
 

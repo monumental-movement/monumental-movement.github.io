@@ -66,7 +66,7 @@ E --> G[Americana]
 E --> H[rock]
 </div>
 
-> Sarah Dufour's importance lies in her reconstruction of North American roots music in the ""language of Quebec life.''
+> Sarah Dufour's importance lies in her reconstruction of North American roots music in the "language of Quebec life."
 
 
 ---
@@ -309,7 +309,7 @@ E --> F[new francophone country]
 
 | Year | Events |
 |---|---|
-| Early 2010s | Active in Les Poules à Colin |
+| Early 2010s | Active at Les Poules à Colin |
 | Late 2010s | Full-scale solo activities |
 | 2019 | Increasing attention with solo works |
 | 2020s | Expanding presence in the Quebec francophone scene |

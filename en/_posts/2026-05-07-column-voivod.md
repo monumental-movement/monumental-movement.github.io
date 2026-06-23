@@ -105,7 +105,7 @@ Isolated.
 
 This feeling is directly reflected in their sound.
 
-While the American West Coast thrash of the same period was urban and street-oriented, Voivod's music had an "industrialized cold region" feel.
+While the American West Coast thrash of the same period was urban and street-like, Voivod's music has an "industrialized cold region" feel.
 
 This was a fairly rare trait in metal history.
 
@@ -554,7 +554,7 @@ He was building guitars with a unique feel.
 
 As a result, Voivod has a unique floating feeling that is difficult to explain.
 
-### Piggy's Death
+### Piggy's death
 
 In 2005, Piggy died of colon cancer.
 
@@ -592,11 +592,11 @@ With Voivod, artwork and sound are perfectly connected.
 
 This is very important.
 
-彼らは単なるアルバムジャケット制作ではなく、世界設定を作っていた。
+They weren't just creating album jackets, they were creating world settings.
 
 ### Expanding Metal Aesthetics
 
-1980年代メタルの多くは、筋肉的で誇張されたビジュアルを用いていた。
+Much of 1980s metal featured muscular, exaggerated visuals.
 
 But Voivod is different.
 
@@ -621,13 +621,13 @@ mindmap
       Isolation
 </div>
 
-### 世界観の一貫性
+### Consistency of worldview
 
 Voivod changes with each work.
 
 However, at its core, the sense of an ""unstable future world'' remains consistent.
 
-これが彼らを単なるジャンルバンドではなく、“総合芸術的バンド”へ押し上げた。
+This has pushed them beyond just a genre band to a ""general artistic band.''
 
 > The artwork for Away was a huge device called Voivod that visualizes the universe.
 
@@ -639,7 +639,7 @@ Since the 2000s, Voivod has continued its activities despite facing difficulties
 
 ### Joined by Jason Newsted
 
-There was also a time when Jason Newsted, formerly of Metallica, joined the band.
+There was also a time when Jason Newsted, formerly of Metallica, joined the group.
 
 He was known as an avid fan of Voivod.
 
@@ -669,7 +669,7 @@ SF worldview.
 
 Acoustic spatiality.
 
-かつて異端だったものが、後にスタンダード化したのである。
+What was once heresy later became standard.
 
 ### After "Target Earth"
 

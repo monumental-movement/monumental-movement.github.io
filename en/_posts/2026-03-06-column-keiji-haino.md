@@ -128,7 +128,7 @@ Activities with Lost Alaf were one of the starting points for Keiji Haino's musi
 
 ### Relationship with Toru Takemitsu
 
-Connection with Japanese contemporary music
+Connection with contemporary Japanese music
 
 Keiji Haino's music is often talked about in the context of rock and noise, but it also has connections with contemporary Japanese music.
 
@@ -423,7 +423,7 @@ By encountering unknown sounds, my music also changes.
 
 ### Flow of solo and major works
 
-Keiji Haino has released a vast amount of recorded works from the late 1970s to the present.
+Keiji Haino has released a huge amount of recorded works from the late 1970s to the present.
 The format is diverse, including studio works, live recordings, limited editions, and collaborations, and the total number is said to be in the hundreds.
 
 The following is a flow of important works that are widely known among them.
@@ -740,7 +740,7 @@ Drone --> Haino
 Psychedelic --> Haino
 
 Haino --> Fushitsusha[Fushitsusha]
-Haino --> SoloWorks[Solo activity]
+Haino --> SoloWorks[Solo activities]
 Haino --> DJStyle[DJ Keiji Haino]
 
 </div>

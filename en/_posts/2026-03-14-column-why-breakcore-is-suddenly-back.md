@@ -245,7 +245,7 @@ In this way, Breakcore is not a rave culture.
 
 "Internet culture"
 
-was revived inside.
+was revived within.
 
 > Breakcore's resurgence began not in clubs, but on the internet.
 
@@ -362,7 +362,7 @@ There are five main ones:
 
 4. Ease of DIY production
 
-5. Genre mixed culture
+5. Mixed genre culture
 
 In other words, Breakcore is
 

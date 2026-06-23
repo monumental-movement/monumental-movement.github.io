@@ -52,9 +52,9 @@ These musical experiences not only conveyed information, but also created a feel
 
 <div class="mermaid">
 flowchart LR
-A[ritual] --> B[music]
-B --> C[physical sharing]
-C --> D[sense of community]
+A["ritual"] --> B["music"]
+B --> C["physical sharing"]
+C --> D["Sense of community"]
 </div>
 
 > From the beginning, music was not entertainment, but a device that supported the way of life itself.
@@ -110,7 +110,7 @@ This change transformed the relationship between music and the self into a perso
 
 In the second half of the 20th century, musical genres became central indicators of generational identity. Jazz symbolized urbanization and modernity, and rock embodied rebellion and freedom. Punk expressed a rejection of the established order in short, sharp sounds, and hip-hop became a way to speak to marginalized experiences.
 
-For young people, the music they chose was an act of showing which values ​​they resonated with. Like clothing and language, musical tastes are at the core of self-expression.
+For young people, the music they chose was an act of showing which values ​​they resonated with. Like the way we dress and the way we speak, our musical tastes are at the core of our self-expression.
 
 <div class="mermaid">
 timeline
@@ -188,13 +188,14 @@ Music affects the self most directly through the body. Collective movements on t
 ## Chronology Main changes in music and identity
 
 <div class="mermaid">
-timeline
-紀元前 : 儀礼音楽と共同体
-中世 : 宗教音楽による内面形成
-19世紀 : 国民国家と国歌
-20世紀初頭 : レコードによる個人化
-20世紀後半 : 若者文化とジャンル
-21世紀 : ストリーミングと自己編集
+flowchart LR
+
+A["BC<br>Ritual Music and Community"]
+--> B["Medieval<br>Inner formation through religious music"]
+--> C["19th Century<br>Nation-states and national anthems"]
+--> D["Early 20th century<br>Personalization through records"]
+--> E["Late 20th Century<br>Youth Culture and Genre"]
+--> F["21st Century<br>Streaming and Self-editing"]
 </div>
 
 ---
@@ -207,3 +208,12 @@ Music has always been given to us by society and reinterpreted within individual
 
 ---
 
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-nrPrOjDNY8?si=gN8h286vchr_Bkhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

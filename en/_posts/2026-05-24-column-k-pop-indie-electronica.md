@@ -334,7 +334,7 @@ But now Lo-fi exists as an aesthetic.
 noise.
 Tape feel.
 Cloudy sound image.
-imperfection.
+Imperfection.
 
 These became symbols of "realism."
 
@@ -364,7 +364,7 @@ the result,
 "A little vague"
 "It's a little close"
 
-Music was highly sought after.
+Music was in high demand.
 
 <div class="mermaid">
 flowchart LR

@@ -19,7 +19,7 @@ title: '[Column] Japanese Ambient / Environmental Music'
 Text: mmr｜Theme: The core of Japanese environmental music from the 1980s and its historical reappraisal
 
 
-In the late 2010s, "Japanese Ambient" and "Japanese Environmental Music" began to attract a lot of attention among music listeners around the world. There are multiple reasons. Reissues by Western labels, YouTube"s automatic recommendations, Spotify"s algorithm, and a reappraisal of electronic music/new age.
+In the late 2010s, "Japanese Ambient" and "Japanese Environmental Music" began to attract a lot of attention among music listeners around the world. There are multiple reasons. These are reissues by Western labels, YouTube"s automatic recommendations, Spotify"s algorithm, and a reappraisal of electronic music/new age.
 However, there are important points that cannot be explained by these factors alone.
 
 This is the fact that Japan's ""environmental music'' in the 1980s was born from a different cultural soil than ambient music around the world.
@@ -64,7 +64,7 @@ Japanese ambient music is characterized by being formed at the intersection of t
 ## ● 1-2. "Environmental Music Series" by MUJI
 
 In the early 1980s, MUJI aimed at ""music for consumers" and planned a series of ""environmental music" for store spaces.
-Hiroshi Yoshimura, Ryuichi Sakamoto, and others participated in this series, which triggered a major change in the role of sound in commercial spaces.
+Haruomi Hosono and others participated in this series, which triggered a major change in the role of sound in commercial spaces.
 
 The feature was that it not only functioned as store background music, but was also designed to be of high quality.
 
@@ -267,7 +267,7 @@ graph LR
 # **Chapter 8: Summary - Why Japanese environmental music captivates the world**
 
 Japanese environmental music is not just "healing" or "background sound."
-**Sound art born from urban culture, design, and philosophy of life**
+**Sound art created by urban culture, design, and philosophy of life**
 It is.
 
 - Intermediate area between art and music

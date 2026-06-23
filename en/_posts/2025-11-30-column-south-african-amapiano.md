@@ -16,7 +16,7 @@ title: '[Column] South African Amapiano — A new dance music culture from South
 
 ## Introduction — Why Amapiano now?
 
-Text: mmr｜Theme: Amapiano's origins, musical characteristics, history of development, major artists, and process of internationalization
+Text: mmr｜Theme: Origins of Amapiano, musical characteristics, history of development, main artists, and process of internationalization
 
 In recent years, the dance music genre **Amapiano**, which originated in South Africa, has been attracting attention not only in Japan but also in club scenes across Africa, Europe, North America, and Asia.
 
@@ -82,14 +82,14 @@ graph LR
 
 ### Geography and time
 
-The birthplace of Amapiano is Gauteng, South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
+The birthplace of Amapiano is **Gauteng** in South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
 
 According to multiple sources, experiments with Amapiano began around 2012, and the unified name "Amapiano" as a genre was established later.
 
 ### Pioneers and the formation of places
 
 * **MFR Souls (Tumelo Nedondwe & Tumelo Mabe)** contributed to the formation of early Amapiano
-* Audio sources are shared among friends and spread via WhatsApp, clubs, parties, and taxi ranks
+* Audio sources are shared among friends and spread via WhatsApp, clubs, parties and taxi ranks
 * This DIY/grassroots spread became the foundation for the establishment of the genre.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dx62kohEnsg?si=9J2-_DUYJlzvfs5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -135,7 +135,7 @@ As a result, Amapiano has grown from just underground music to a genre recognize
 * Promoting genre breakout and commercialization nationwide
 * Sequel **The Return of the Scorpion Kings (November 2019)** was also a success
 
-During this period, Amapiano became more than just a township music, it became a nationally and commercially recognized genre.
+This period made Amapiano not just a township music, but a nationally and commercially recognized genre.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -203,7 +203,7 @@ graph LR
 
 * From 2021 onwards, playing at clubs/festivals in the UK, Europe, North America and Asia
 * Increase in international collaborations and fusion with Afrobeats
-* Streaming data has been played billions of times worldwide (2023)
+* Streaming data will be played billions of times worldwide (2023)
 
 ### Large scale live/festival
 

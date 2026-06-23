@@ -22,7 +22,7 @@ Detroit techno is ""electronic music with a human touch'' that was born from the
 
 ### Origins and Definition — When and Who Called it "Techno"?
 
-In Detroit in the early 1980s, electronic dance music that made full use of synths and rhythm machines grew.
+In the early 1980s in Detroit, electronic dance music that made full use of synths and rhythm machines grew.
 
 Led by Juan Atkins, Derrick May, and Kevin Saunderson (not the so-called "Berlin trio" but the "Detroit trio"), they presented a sonic aesthetic that was different from the existing "electro" and "house," and it became established as "techno."
 
@@ -101,7 +101,7 @@ Diverse generations followed, including Richie Hawtin (a second generation whose
 
 ### Role of important labels and releases
 
-Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
+Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, *Transmat was founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
 
 <hr>
 

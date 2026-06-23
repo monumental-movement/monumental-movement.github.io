@@ -295,6 +295,17 @@ In an era where the form of music continues to change, he still believes in the 
 
 ---
 
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FlIbsHsiWxE?si=w56zybq5UGhB1WOl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 #### References/Links
 
 - [Haruomi Hosono Official Site](https://hosonoharuomi.jp/)

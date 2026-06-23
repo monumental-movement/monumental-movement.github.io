@@ -64,7 +64,7 @@ color: #fff;
 ### Nissan/Infiniti
 
 - **Representative model**: Infiniti QX80 (Bose 16 speaker system)
-- **Technology**: To optimize in-car acoustics, speaker placement and material reflections were analyzed and tuned in collaboration with BOSE.
+- **Technology**: Analyze speaker placement and material reflections and conduct tuning in collaboration with BOSE to optimize in-car acoustics
 
 ---
 
@@ -276,3 +276,14 @@ The act of listening while running sharpens human sensibilities once again.
 
 What cars tell us is not the road, but the journey of sound.
 And that journey has only just begun.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCHXf7CuLZg?si=CQoR_eBqiQFNdj-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

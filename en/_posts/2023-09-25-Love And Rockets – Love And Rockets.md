@@ -12,11 +12,11 @@ title: Love And Rockets – Love And Rockets
 ---
 
 
-Love And Rockets - Love And Rockets is a self-titled album by British alternative rock band Love And Rockets. Love and Rockets was formed by former Bauhaus members Daniel Asch, David Jay, and Kevin Haskins.
+「Love And Rockets - Love And Rockets」は、イギリスのオルタナティブロックバンドであるラヴ・アンド・ロケッツによるセルフタイトルのアルバムです。ラヴ・アンド・ロケッツは、元バウハウスのメンバーであるダニエル・アシュ、デヴィッド・ジェイ、およびケヴィン・ハスキンスによって結成されました。
 
-It was released in 1989 and is known as the band's debut album. Their music includes elements of post-punk and gothic rock, but also incorporates more pop sounds and dance beats, and is supported by a wide range of music fans.
+1989年にリリースされ、バンドのデビューアルバムとして知られています。彼らの音楽はポストパンクやゴシックロックの要素を含みつつも、よりポップなサウンドやダンスビートを取り入れており、幅広い音楽ファンに支持されています。
 
-This album includes songs such as their signature song "So Alive", and you can feel the dark, melancholic atmosphere and powerful performances throughout the album.
+このアルバムには、代表曲である「So Alive」などが収録されておち、アルバム全体を通じてダークでメランコリックな雰囲気と力強い演奏が感じられます。
 
 #### Tracklist
 ```md
@@ -41,7 +41,7 @@ B4. Rock And Roll Babylon
 B5. No Words No More
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bjn9RySbYE?si=6TC41-py4F68QGuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

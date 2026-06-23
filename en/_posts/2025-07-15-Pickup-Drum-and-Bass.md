@@ -82,7 +82,7 @@ AA. Fluid
 ### Motiv One – Cosmik / Loop Progression
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Contains a light, jazzy, futuristic sound centered on amen breaks.
+Contains light, jazzy, futuristic sounds with a main break.
 
 #### Tracklist
 ```md

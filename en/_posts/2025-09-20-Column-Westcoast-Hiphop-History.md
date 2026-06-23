@@ -67,16 +67,16 @@ color: #fff;
 
 | Album | Artist | Amazon link | Recommended points |
 |----------|-------------|-------------|----------------|
-| *The Chronic* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | G-Funkを確立した金字塔 |
+| *The Chronic* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | The monument that established G-Funk |
 | *Doggystyle* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | A masterpiece that spread the West Coast to the world with its smooth flow |
-| *All Eyez on Me* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | ダブルアルバムの大作。 2Pac's masterpiece |
+| *All Eyez on Me* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | A masterpiece of a double album. 2Pac's masterpiece |
 
 
 ---
 
 ## 2000s: The rebirth of independent and underground
 
-* **代表的プロデューサー**：Madlib、Daz Dillinger、Battlecat
+* **Representative producers**: Madlib, Daz Dillinger, Battlecat
 * **Major labels**: Stones Throw, Aftermath
 * **Cultural Background**: Mainstream G‑Funk is weakening, and LA underground bands like Project Blowed and Freestyle Fellowship are gaining attention. The Bay Area Hyphy movement also occurred.
 * **Video/Fashion**: Skate, graffiti, and jazz club-like visual expressions are increasing, and street brands such as Supreme and BAPE are becoming popular.

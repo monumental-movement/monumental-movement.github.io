@@ -162,7 +162,7 @@ graph TD
     B[Technology UI] --> B2[Deterioration/noise]
     C[90s japanese statue] --> C2[abstraction]
     D[classical sculpture] --> D2[meta quote]
-    A2 --> Z[Vaporwave world view]
+    A2 --> Z[Vaporwave worldview]
     B2 --> Z
     C2 --> Z
     D2 --> Z
@@ -175,7 +175,7 @@ graph TD
 
 What is vaporwave and its core definition**
 
-### **5-1　Beyond "genre"**
+### **5-1 Towards an existence that transcends "genre"**
 
 Vaporwave was initially treated as a ""minor genre that originated on the Internet'', but
 After spreading for more than 10 years, it has become a cultural device that transcends genres, as shown below.
@@ -229,5 +229,13 @@ Further amplified in the AI ​​era,
 **We will continue to draw a new self-image for those of us who live in an "archived world."**
 
 > **Final definition: Vaporwave is a comprehensive art form in the Internet age that commemorates the future vision of the past. **
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3KVvELoo-w?si=tXulOrRz3m_QMt7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

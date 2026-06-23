@@ -218,7 +218,7 @@ They actively used tape playback, noise manipulation, and improvisation in their
 
 As a result, the performance changed greatly each time.
 
-It didn't have the reproducibility of a normal rock live performance, but rather the appeal was that it was on the verge of losing control.
+It didn't have the reproducibility of a normal rock live performance, and what was more appealing was the state of being on the verge of losing control.
 
 For the audience, it felt more like being thrown into a giant sound system than listening to a song.
 

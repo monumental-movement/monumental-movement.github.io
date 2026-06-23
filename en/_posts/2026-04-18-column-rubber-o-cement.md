@@ -100,7 +100,7 @@ Another important aspect of Rubber O Cement is its DIY spirit. Rather than relyi
 
 This attitude resonates with post-punk DIY culture, but it's not just anti-commercialism. Rather, it appears as a technological quest to control sound itself.
 
-The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sound as it happened.
+The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sounds of the events as they are.
 
 <div class="mermaid">
 flowchart LR
@@ -157,7 +157,7 @@ A[Grux] --> C[body/object]
 B[Mick Goldwater] --> D[Electronic sound/spatial sound]
 C --> E[visual noise]
 D --> F[acoustic structure]
-E --> G[holistic experience]
+E --> G[comprehensive experience]
 F --> G
 </div>
 
@@ -191,7 +191,7 @@ Furthermore, it has strong relationships with galleries and art spaces, and has 
 
 Today, improvised music and noise are being reinvented in a digital environment, but Rubber O Cement's approach remains relevant. In particular, expressions that include space and the body have a value that is difficult to replace online.
 
-Furthermore, the variable composition of members and non-fixed work formats are highly compatible with modern collaboration culture. Their models serve as a reference point for artists who work on a project basis.
+Furthermore, the variable composition of members and non-fixed work formats are highly compatible with contemporary collaborative culture. Their models serve as a reference point for artists who work on a project basis.
 
 > Rubber O Cement presents a structure that can be updated even in the current representation environment.
 

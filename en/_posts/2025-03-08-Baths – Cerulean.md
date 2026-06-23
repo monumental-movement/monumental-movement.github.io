@@ -37,5 +37,5 @@ Will Wiesenfeld, also known as Baths, is known as a genius beat maker and is an 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

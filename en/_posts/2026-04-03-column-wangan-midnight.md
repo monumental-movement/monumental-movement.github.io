@@ -66,7 +66,7 @@ It is precisely because of this reality that the story takes on the quality of a
 
 In this work, "night" is not just a time period. It is a stage set and a state of mind itself.
 
-The city at night has anonymity. Everyone becomes nobody and is freed from their social roles during the day. Titles, occupations, pasts, everything is temporarily invalidated.
+The city at night has anonymity. Everyone becomes nobody and is freed from their day-to-day social roles. Titles, occupations, pasts, everything is temporarily invalidated.
 
 Among them, the only one left is "me".
 
@@ -132,7 +132,7 @@ Wangan Midnight depicts a series of such choices.
 
 Wangan Midnight is not just fiction, but is closely tied to real street culture.
 
-From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Bayside Route of the Metropolitan Expressway was one of its central locations.
+From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Metropolitan Expressway Bayside Route was one of its central locations.
 
 Although this culture was not widely covered by the media, it definitely existed and attracted many young people.
 
@@ -288,7 +288,7 @@ The sound of the bay is "a state of being in speed."
 ---
 
 
-## Conclusion: Why are expressways a myth?
+## Conclusion: Why are highways a myth?
 
 What Wangan Midnight showed was not the place itself, but the way the people gathered there.
 

@@ -65,7 +65,7 @@ In the latter, the second half feels lighter and the loop gives the impression o
 
 ## Chapter 2: Grid and Human Feel Design
 
-An arrangement that perfectly follows the grid fixes time, but does not move it. This is where intentional deviations are introduced.
+Arrangements that follow the grid perfectly fix time, but do not move it. This is where intentional deviations are introduced.
 
 ### Case: Backbeat Snare Delay
 
@@ -288,7 +288,7 @@ B[step base] --> D[Design derived time]
 
 Differences in rhythm programming arise from the designer's thinking type rather than technical differences.
 
-### Performance pattern designer
+### Performance designer
 
 He is the type who constructs rhythms based on his physical sensations, and the deviations and dynamics arise spontaneously. It goes well with MPC thinking.
 

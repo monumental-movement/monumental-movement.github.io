@@ -199,7 +199,7 @@ It's not a fancy technique.
 
 Rather, repetition and a sense of space were important.
 
-In particular, CAN's masterpieces ""Tago Mago," ""Ege Bamyasi," and ""Future Days'' stand out for their unique sense of circulation.
+In particular, CAN's masterpieces ""Tago Mago," ""Ege Bamyasi," and ""Future Days'' highlight their unique sense of circulation.
 
 His play feels more like ""drifting through space" than ""moving forward."
 
@@ -263,7 +263,7 @@ Rather than ""listening to a song'', the listener feels as if they are entering 
 graph TD
 A[Future Days] --> B[repetition]
 A --> C[environmental sounds]
-A --> D[floating feeling]
+A --> D[Floating feeling]
 A --> E[long time structure]
 B --> F[Ambient impact]
 C --> F
@@ -397,7 +397,7 @@ This also applies to his later drone, acoustic, and electro-acoustic works.
 Since the late 1980s, music production has rapidly become digital.
 
 sampler.
-MIDI.
+M.I.D.I.
 DAW.
 
 However, Shukai was not completely digital-oriented.
@@ -450,7 +450,7 @@ In other words, he was ""a person who reached a digital sensibility before digit
 
 ## Late life and reevaluation
 
-### CAN re-evaluation process
+### CAN reevaluation process
 
 Since the 1990s, CAN has been rapidly reevaluated.
 

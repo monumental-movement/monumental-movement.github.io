@@ -17,7 +17,7 @@ title: '[Column] What was Faust? A German avant-garde that deconstructed rock wi
 
 ## A band that appeared to "destroy" rock
 
-Text: mmr｜Theme: Tracing the history, musicality, recording techniques, and influence of Faust on Krautrock, which was born in Germany in the 1970s.
+Text: mmr｜Theme: Tracing the history, musicality, recording techniques, and influence of Faust on Krautrock, which was born in Germany in the 1970s
 
 In the early 1970s, there was growing discomfort in West Germany with the direct imitation of British and American rock. The younger generation after World War II was trying to create their own culture from scratch.
 
@@ -70,7 +70,7 @@ The following people participated as members:
 
 -Werner "Zappi" Diermaier
 - Jean-Hervé Peron
-- Rudolf Sosna
+-Rudolf Sosna
 - Hans Joachim Irmler
 - Günther Wüsthoff
 
@@ -197,7 +197,7 @@ This sense of repetition also resonates with later techno and minimal music.
 
 Faust's contemporaries Neu! were also known for their repetitive beats.
 
-However, there are clear differences between the two.
+However, there is a clear difference between the two.
 
 Whereas Neu! was minimal and straightforward, Faust always mixed in noise and digressions.
 

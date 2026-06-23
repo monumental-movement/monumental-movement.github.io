@@ -83,7 +83,7 @@ After Larry Graham's slap, funk quickly became more rhythm-driven, but Funkadeli
 * **Black church gospel call and response**
 * **Lyrics with strong political criticism**
 
-In particular, 1971"s "Maggot Brain" is remembered for Eddie Hazell"s over 10 minute guitar solo.
+In particular, 1971"s "Maggot Brain" is famous for Eddie Hazell"s over 10 minute guitar solo.
 It has been described as the "musical embodiment of black sadness and anger."
 
 ---
@@ -128,7 +128,7 @@ What makes P-Funk unique is not just the strength of its groove, but its "struct
 The drumming of Jerome "Bigfoot" Braley and others has the following characteristics.
 
 * Minimal bass drum
-* The snare is deep and close to the back.
+* Snare is deep and back
 *Hi-hat has a bit of shuffle
 
 As a result, the beat feels like it's moving forward while floating.

@@ -20,7 +20,7 @@ title: '[Column] Nala Sinephro - Sound Breathing and Cosmic Silence: The Current
 Text: mmr｜Theme: Jazz is not about technique or genre expansion, but about the fundamental question of what sound can bring to humans.
 
 When we first come into contact with Nala Sinephro's music, we are forced to let go of the concept of a "song."
-His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation, as if it were breathing.
+His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation as if it were breathing.
 
 Harp, tenor saxophone, modular synthesizer, and space itself.
 Nala's music depicts the moment when the sound itself becomes a "spiritual environment."
@@ -54,7 +54,7 @@ He has formed a unique sonic language that freely moves between harp and modular
 > "Sound is like particles in the air to me."
 > ― Nala Sinephro
 
-As she says, the sound is made up of layers of "particles" and refracts time like light.
+As she says, the sound is layered as "grains" and refracts time like light.
 
 ---
 

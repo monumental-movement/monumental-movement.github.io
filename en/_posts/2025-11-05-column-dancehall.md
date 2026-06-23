@@ -89,7 +89,7 @@ This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soun
 ### ▪ Slackness and slang explosion
 
 In 1985, **Wayne Smith's ""Under Mi Sleng Teng''** changed everything.
-This song, which uses Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
+This song, which used Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
 
 | Year | Representative song | Artist | Notes |
 |----|--------|---------------|------|
@@ -201,7 +201,7 @@ That energy is what gave birth to hip-hop, gave birth to reggaeton,
 And it has been passed down to today's EDM and Afrobeats.
 
 If you trace the origin of the bass that roars at festival venues around the world,
-Always end up in Kingston at night.
+You will definitely end up at night in Kingston.
 Music is a ""body memory'' that is shared across borders.
 
 > **"Sound system is not just sound — it"s survival."**

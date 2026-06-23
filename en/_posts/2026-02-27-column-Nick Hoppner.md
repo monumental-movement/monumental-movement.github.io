@@ -18,7 +18,7 @@ title: '[Column] Nick Höppner: Acoustic thought across Berlin institutional his
 
 ## Introduction: DJ who connects the system and the field
 
-Text: mmr｜Theme: Tracing the history of the Berlin House centering on Nick Höppner
+Text: mmr｜Theme: Tracing the history of the Berlin House centering around Nick Höppner
 
 Berlin's club culture is often mythologized. However, in reality, it has come about through a close intertwining of multiple layers, including systems, management, labels, sound design, and international distribution. One of the people who continued to stand at the crossroads was **Nick Höppner**.
 

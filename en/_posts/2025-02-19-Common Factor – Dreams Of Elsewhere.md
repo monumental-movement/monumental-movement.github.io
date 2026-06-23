@@ -18,7 +18,7 @@ Nick Calingaert, also known as Common Factor, is a DJ from Chicago. In the mid-9
 
 "Dreams Of Elsewhere" is an album released in 1999 by Carl Craig's classic techno label Planet E.
 
-A masterpiece album that includes many of Common Factor's signature songs, such as "Get Down," "will," and "Horizons."
+A masterpiece that includes many of Common Factor's signature songs such as "Get Down," "will," and "Horizons."
 
 #### Tracklist
 ```md

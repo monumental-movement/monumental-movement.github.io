@@ -92,7 +92,7 @@ At the same time, it became a pioneer of ""fusion with hip-hop'' for the Japanes
 
 ---
 
-## Chapter 4: A new horizon for hip-hop opened up by an anime-like worldview
+## Chapter 4: A new horizon for hip-hop opened up by an anime worldview
 
 After Wu-Tang Clan, hip-hop acquired the ""language to talk about anime.''
 Tyler, The Creator references "Akira" and "Neon Genesis Evangelion",
@@ -164,8 +164,8 @@ timeline
 flowchart TD
     A["Wu-Tang Clan（1993〜）"]
     B["Kung Fu Movie (Shaolin Temple/Li Xiaolong)"]
-    C["東洋思想（禅・老荘思想）"]
-    D["日本アニメ（ドラゴンボール・NARUTO・アフロ・サムライ）"]
+    C["Oriental Thought (Zen/Laozhuang Thought)"]
+    D["Japanese Anime (Dragon Ball/NARUTO/Afro/Samurai)"]
     E["Hip-hop philosophy (training, struggle, transcendence)"]
     F["Modern Global Culture (Anime Hip-Hop, Lo-fi, Streetwear)"]
 

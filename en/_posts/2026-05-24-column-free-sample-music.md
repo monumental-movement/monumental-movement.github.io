@@ -311,7 +311,7 @@ Notebook PC production.
 
 These are no longer special.
 
-YouTube and SoundCloud were particularly important.
+YouTube and SoundCloud were especially important.
 
 In the traditional music industry,
 
@@ -599,7 +599,7 @@ environmental sounds.
 
 AI is now able to generate these.
 
-In other words, it's not just about "using pre-recorded material."
+In other words, it's not just about "using pre-recorded material";
 The era of ""generating the necessary materials'' has begun.
 
 ### The next stage of democratization

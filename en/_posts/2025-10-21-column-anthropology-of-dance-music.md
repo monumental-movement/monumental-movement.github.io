@@ -113,7 +113,7 @@ It was a modern version of an ancient ritual.
 
 Immediately after the fall of the Wall, Berlin was a lawless zone and a testing ground for freedom.
 Clubs like Tresor and Berghain
-A new physical community was created in a city awaiting political and economic restructuring.
+It created a new physical community in a city awaiting political and economic restructuring.
 There, ""dancing'' itself is
 It was a political act of memory and rebirth.
 
@@ -151,7 +151,7 @@ flowchart TB
 
 ## Chapter 4: Trance and Ecstasy - Dance as Transformation of Consciousness
 
-### 1. Ancient layers in trance
+### 1. Ancient layer in trance state
 
 Dance is not just entertainment; it is also a technique for changing consciousness.
 In shamanistic rituals,

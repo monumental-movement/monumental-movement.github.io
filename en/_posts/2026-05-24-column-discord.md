@@ -43,7 +43,7 @@ Young artists found allies solely on Discord servers, sent beats to each other, 
 This is not just a technological innovation.
 It was a structural change in the music community itself.
 
-> Discord has changed from being a "conversation tool" to a huge cultural device that generates underground music for the 2020s.
+> Discord has changed from being a "conversation tool" to a huge cultural device that generates underground music in the 2020s.
 
 <style type="text/css">
 
@@ -207,7 +207,7 @@ Rather, it functioned as a shared atmosphere within the Discord community.
 
 In other words, genre was not ""strict musical theory," but ""what a community calls itself."
 
-> In the Discord era, genres were formed more by community sympathy than by music theory.
+> Genres in the Discord era were shaped more by community empathy than by music theory.
 
 ---
 
@@ -238,7 +238,7 @@ Producers, vocalists, art staff, and video staff collaborate fluidly.
 
 This structure differs from traditional "fixed bands."
 
-Rather, it's closer to hip-hop crews and anonymous bulletin board culture in the Internet era.
+Rather, it's closer to hip-hop crews and anonymous bulletin board culture in the internet age.
 Members changed frequently and project names were in flux.
 
 ### Connection with TikTok
@@ -483,7 +483,7 @@ Late night call.
 notification.
 Immediate reaction.
 
-With the intrusion of online communities into our lives, the issue of burnout has become a frequent topic of conversation.
+With the intrusion of online communities into our lives, the issue of burnout has become a frequent topic of discussion.
 
 ### Collision with commercialization
 
