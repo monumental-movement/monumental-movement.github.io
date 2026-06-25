@@ -149,7 +149,7 @@ In the technical analysis section, the general frequency response of 12-bit equi
 ### 6.1 Frequency characteristics
 
 *SP-1200 uses 26.04kHz sampling, so the theoretical Nyquist frequency is 13.02kHz. The sound becomes "rounded" by lowering the high frequencies due to the actual low-pass characteristics and analog circuitry.
-* MPC60 uses 40kHz samples, so higher frequencies remain, but the resolution of the high frequencies is limited due to 12-bit quantization.
+* MPC60 uses 40kHz samples, so higher frequencies remain, but high-frequency resolution is limited due to 12-bit quantization.
 
 ### 6.2 Quantization noise
 
@@ -175,7 +175,7 @@ Low-resolution samples are effective for creating textures and were widely used 
 
 ## Chapter 8: Key artists and usage examples
 
-> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
+> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documentation.
 
 <div class="mermaid">
 
@@ -216,7 +216,7 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and outlook
+## Chapter 12: Summary and Outlook
 
 The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace their roots, you always come back to these devices.
 
@@ -437,7 +437,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 stages"] --> C["coarse step"]
+    A["12bit 4096 steps"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

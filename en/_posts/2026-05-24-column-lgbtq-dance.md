@@ -303,18 +303,6 @@ Amidst the repeated beats, people remembered their deceased friends and at the s
 
 The dance floor was both a celebratory space and a memorial space.
 
-<div class="mermaid">
-sequenceDiagram
-    participant Community
-    participant Club
-    participant Music
-    participant Dancefloor
-
-    Community->>Club: 集まる
-    Club->>Music: 音楽を共有
-    Music->>Dancefloor: 感情を解放
-    Dancefloor->>Community: 連帯感を形成
-</div>
 
 ### ACT UP and culture
 
@@ -389,20 +377,6 @@ The dance floor is not a place created outside of society.
 
 Rather, it was a place where future society was first tested.
 
-<div class="mermaid">
-mindmap
-  root((Dance Music))
-    LGBTQ+ Community
-    Safe Space
-    Disco
-    House
-    Techno
-    Ballroom
-    Resistance
-    Identity
-    Collective Experience
-    Future Society
-</div>
 
 > The history of dance music is also the history of those who continued to create the ""right to exist freely'' through sound.
 

@@ -115,7 +115,7 @@ E --> F[Exotica is popular in the US]
 
 ### What it means to not be "authentic"
 
-Exotica is often criticized as ""fake folk music''.
+Exotica is often criticized as ""fake folk music.''
 
 In fact, Martin Denny's music was not Hawaiian music itself, but a mixture of images from multiple regions such as Southeast Asia, Africa, Latin, and Polynesia.
 
@@ -229,7 +229,7 @@ It can be said that Martin Denny was making "music that functions as a space" ev
 
 <div class="mermaid">
 flowchart TD
-A[vibraphone] --> D[floating feeling]
+A[vibraphone] --> D[Floating feeling]
 B[percussion] --> E[environmental soundization]
 C[Reverberation processing] --> F[Space production]
 D --> G[immersive feeling]
@@ -326,7 +326,7 @@ In other words, both of them were making sounds of a ""dream product space'' rat
 
 Lounge music and mood music culture began to spread in Japan from the 1960s onwards.
 
-Exotic sounds were often used especially in hotels, bars, and the tourism industry during the period of high economic growth.
+Exotic sounds were often used in hotels, bars, and the tourism industry, especially during the period of high economic growth.
 
 From the 1990s onwards, Martin Denny's work also gained attention again amidst the reappraisal boom of Shibuya kei and lounges.
 

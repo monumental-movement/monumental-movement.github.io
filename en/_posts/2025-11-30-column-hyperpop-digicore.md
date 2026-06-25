@@ -165,7 +165,7 @@ flowchart LR
 
 ---
 
-## 5-3. Minimal Trap / DnB Impact
+## 5-3. Minimal Trap / DnB impact
 
 * 808 base is modest
 * Kick is short

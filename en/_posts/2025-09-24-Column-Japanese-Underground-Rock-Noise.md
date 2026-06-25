@@ -20,7 +20,7 @@ title: '[Column] The trajectory of Japanese underground rock and noise from the 
 Text: mmr｜Theme: Global attention on the Japanese underground music scene from the 1990s to the 2000s
 
 The 1990s and 2000s were the heyday of **noise music** and also served as a crossroads with alternative rock and avant-garde punk.
-In particular, artists such as Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms, and Violent Onsen Geisha destroyed existing musical genres and opened up new areas of expression.
+In particular, artists such as Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms, and Violent Onsen Geisha destroyed existing musical genres and opened up new areas of expression.
 
 ---
 
@@ -53,7 +53,7 @@ This period also saw the rise of indie labels, appearances at international fest
 - **Merzbau**: While moving from analog equipment to laptop noise, it reflects animal rights and vegetarianism.
 - **Firefighter**: An existence that blurs the line between "noise band" and "performance art."
 - **Boredoms**: Fusing psychedelic and noise, influencing the American alternative scene.
-- **Melt-Banana**: "Nano Core" combines the speed of hardcore and the texture of noise.
+- **Melt-Banana**: "Nano Core" combines hardcore speed and noise texture.
 
 ---
 
@@ -182,6 +182,17 @@ A4: Experimental sound gives a unique sense of tension to the video work, and pr
 Japanese underground rock and noise from the 1990s to the 2000s was not just a musical genre, but a cultural testing ground. Keiji Haino"s ceremonial performance, Merzbow"s technological evolution, Hijikadan"s destructive performance, Melt-Banana"s driving sensation, and Boredoms' psychedelic noise fusion are unique expressions that will remain in the history of world music.
 
 ---
+
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n0BCodlguac?si=W4ITV258bsRryNsR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Related columns
 

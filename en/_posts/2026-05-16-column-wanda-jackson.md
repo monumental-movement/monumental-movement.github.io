@@ -281,7 +281,7 @@ D --> E["Legendary"]
 
 In 2011, Wanda Jackson will be inducted into the Rock and Roll Hall of Fame.
 
-This was not just an achievement award.
+This was not just a meritorious award.
 
 It had the meaning of formally inscribing into history the role that female artists played in the early days of rock"n"roll.
 

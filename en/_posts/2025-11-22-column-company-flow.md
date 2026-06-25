@@ -17,11 +17,6 @@ title: '[Column] Company Flow: The horizon of alternative hip-hop opened up by t
 
 
 
-
-
-
-
-
 ## Introduction——The existence that broke the "limitations of indie"
 
 Text: mmr｜Theme: From the formation to dissolution of Company Flow, analysis of the work, sound structure, history of the members, historical significance
@@ -261,7 +256,7 @@ Eliminating rap, El-P's beat aesthetic comes to the fore.
 
 ### ● Expansion of experimentation
 
-* Eliminates DJ shout
+* Eliminate DJ shouts
 * BPM, structure, and number of layers are more complex than before
 * Increased electronic elements
 * Mixing Lo-Fi and Hi-Fi textures
@@ -410,5 +405,14 @@ They were ahead of the changing times and left behind insights that are relevant
 Company Flow has only been active for a short period of time.
 However, the horizons they opened,
 It continues to be a defining and essential value in the history of hip-hop.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8thlyfVW-s?si=qZtLW7LfwASeERMe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

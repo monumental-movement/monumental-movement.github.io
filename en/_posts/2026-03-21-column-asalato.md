@@ -22,7 +22,7 @@ Text: mmr｜Theme: The process by which Asarat, which is rooted in West African 
 
 ### A universe of rhythm in a small instrument
 
-The Asarat is a hand-held percussion instrument that originated in West Africa, and has an extremely simple structure, consisting of two spheres tied together with a string, which produce sound by being shaken.ガーナを中心に伝承されてきたこの楽器は、"カシャカ（Kashaka）"という名称でも知られている。
+The Asarat is a hand-held percussion instrument that originated in West Africa, and has an extremely simple structure, consisting of two spheres tied together with a string, which produce sound by being shaken. This musical instrument, which has been passed down mainly in Ghana, is also known as the "Kashaka."
 
 Although it looks simple, the actual performance requires a high degree of physical control. The combination of movements such as shaking, stopping, hitting, and releasing creates a complex rhythm rather than a simple repetition of sounds. Furthermore, the rhythm is not a mechanical beat, but has an organic fluctuation that depends on the performer's physical sensations.
 

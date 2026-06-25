@@ -59,7 +59,7 @@ Established in 1991 as an attached club, Tresor Records functions as an importan
 
 [Robert Hood – Internal Empire](https://amzn.to/42hCSmK)
 
-[Drexciya – Neptune"s Lair](https://amzn.to/4nAnhqI)
+[Drexciya – Neptune’s Lair](https://amzn.to/4nAnhqI)
 
 He has released many works that symbolize the fusion of Detroit and Berlin.
 In particular, their minimal and hard sound formed the ""skeleton of European techno'' in the 1990s.
@@ -155,7 +155,7 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 ### Elevating the music of techno from a "temporary fad" to a "universal culture"
 
 More than just a club or a label, Tresor is a ""cultural crossroads"' that connects Berlin"s history, post-Cold War urban space, and the future of black music in Detroit.
-The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""temporary fad" to ""universal culture."
+The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""transient fad" to ""universal culture."
 
 ---
 

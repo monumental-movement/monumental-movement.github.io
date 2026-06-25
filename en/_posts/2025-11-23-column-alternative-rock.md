@@ -87,8 +87,8 @@ Nirvana's ""Nevermind'' reached number one in the United States, catapulting the
 
 characteristic of grunge
 
-- 不安定さを孕んだ歌詞
-- 轟音とメロディの混在
+- Lyrics full of instability
+- Mixture of roar and melody
 - Punk Ethics
 
 However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts on MTV.
@@ -121,7 +121,7 @@ This movement connects to lyrical and experimental bands like Radiohead and The 
 The rise of Tortoise, Mogwai, Godspeed You! Black Emperor and others pushed the boundaries of rock.
 
 Alternative is no longer a single style;
-**"A general term for creativity that is not captured by commercialism"**
+**"A general term for creativity that is not recovered by commercialism"**
 It has come to be understood as.
 
 ---

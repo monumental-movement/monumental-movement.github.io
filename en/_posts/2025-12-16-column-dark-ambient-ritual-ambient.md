@@ -17,7 +17,7 @@ title: '[Column] Dark Ambient / Ritual Ambient'
 
 ## 1. Redefining the concept of genre
 
-Text: mmr｜Theme: Formation of immersive experience through acoustics, space, and ritual structure
+Text: mmr｜Theme: Formation of immersive experience through sound, space, and ritual structure
 
 Dark Ambient is not a semantic extension of ambient music, but a sonic expression created by intentionally reducing musical elements.
 

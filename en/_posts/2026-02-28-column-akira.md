@@ -88,7 +88,7 @@ In producing AKIRA's music, they applied actual vocal techniques and percussion 
 
 The opening song ""Kaneda'' is symbolic. Drums, choruses, and communicative vocalizations. The beats are not simple four-beat beats, but are layered with complex rhythms.
 
-### Fusion of electronic and folk sounds
+### 電子音と民族音の融合
 
 AKIRA's soundtrack combines ethnic elements and synthesizers. However, electronic sounds are not the main character. It only functions as a space expansion device.
 
@@ -116,7 +116,7 @@ D --> E[A sense of the future that transcends time axis]
 
 The motorcycle chase at the beginning of the movie is more than just an action scene. The emphasis on rhythm, synchronization with the sound of the engine, and the beat of the drums create physical excitement.
 
-Sound does not follow vision, but instead represents the heartbeat of the body. The audience subconsciously synchronizes with the rhythm.
+Sound does not follow vision, but instead represents the heartbeat of the body. The audience unconsciously synchronizes with the rhythm.
 
 ### Tetsuo's transformation and sound
 

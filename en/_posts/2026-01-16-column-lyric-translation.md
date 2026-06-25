@@ -67,7 +67,7 @@ In the field of lyrics translation, the choice between literal translation and l
 Literal translations are good at preserving meaning, but often lose rhythm and emotion.
 Parallel translations preserve the sense of hearing and emotion, but tend to deviate from the meaning of the original text.
 
-In particular, popular music has strong restrictions on melody and number of words, and the logic of prose translation does not apply.
+Particularly in popular music, there are strong restrictions on melody and number of words, and the logic of prose translation does not apply.
 The addition or subtraction of a single syllable disrupts the entire melody, forcing translators to constantly reduce and reconstruct meaning.
 
 In this process, the translator's own cultural understanding and value judgments inevitably intervene.
@@ -97,7 +97,7 @@ As a result, Japanese lyrics tend to prioritize sound over meaning.
 After the war, with the spread of radio and records, a large amount of Western popular music flowed into Japan.
 During this period, many songs were introduced in their original language or with simple translations.
 
-On the other hand, in many cases it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
+On the other hand, there are many cases where it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
 These are not strictly translations, but cultural re-creations.
 
 The custom of ""Japanese lyrics that are separate from the original songs'' that was formed during this period had a long-lasting influence.

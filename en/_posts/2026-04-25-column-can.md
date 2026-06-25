@@ -55,7 +55,7 @@ color: #fff;
 
 ### Music completed on recorded tape
 
-CAN's production method was thorough. They recorded hours of improvisation, from which they extracted and edited fragments to complete the piece. In this process, post-recording editing is just as important, if not more so, than composing.
+CAN's production method was thorough. They recorded hours of improvisation, then extracted and edited fragments to complete the piece. In this process, post-recording editing is just as important, if not more so, than composing.
 
 Holger Czukay used shortwave radio and other external sound sources and collaged them onto tape. This is said to be the forerunner of later sampling and loop culture.
 

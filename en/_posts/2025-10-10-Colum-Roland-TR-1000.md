@@ -77,7 +77,7 @@ Responsiveness as if the rhythm was "breathing". This is why Roland is so partic
 
 ---
 
-### Chapter 4 Acoustic Structure: Evolution of Low Range and Rhythm Texture
+### Chapter 4 Acoustic structure: Evolution of low frequencies and rhythmic texture
 #### ── To overcome the "ghost of the 808 kick"
 
 At the heart of the TR-1000 is a low-end design philosophy.
@@ -112,7 +112,7 @@ In the 1980s, the TR-808 gave birth to hip-hop, the 909 gave birth to techno, an
 The TR series has always stood at a turning point in music history.
 
 The TR-1000 is also carving out a new symbol in modern club culture, where AI and live performance coexist.
-Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotion."
+Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotions."
 In a cultural context, the TR-1000 does not mean an "extension of nostalgia" but an "expansion of rhythmic consciousness."
 
 ---

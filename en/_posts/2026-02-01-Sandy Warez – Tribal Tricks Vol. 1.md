@@ -15,7 +15,7 @@ title: Sandy Warez – Tribal Tricks Vol. 1
 
 Sandy Warez is a veteran DJ in the hardcore techno world with over 20 years of experience. He presides over ""Footworxx'', one of the most influential labels in the modern hardcore scene, and has produced many young artists.
 
-""Tribal Tricks Vol. 1'' is an early hard techno work released by Sandy Warez on the Belgian label Subsounds in 2002, before he shifted to his current Frenchcore/hardcore style.
+""Tribal Tricks Vol. 1'' is an early hard techno piece released by Sandy Warez on the Belgian label Subsounds in 2002, before he shifted to his current Frenchcore/hardcore style.
 
 #### Tracklist
 ```md

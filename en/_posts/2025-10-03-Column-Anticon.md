@@ -150,7 +150,7 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 ### ■ Alias ​​(Brendon Whitney)
 
 | Year | Title | Notes | Link |
-| ---- | ------------------------------------- | -------- | ----------------------------------------------------- |
+| ---- | ------------------------------------- | -------- | --------------------------------------------------------------- |
 | 2000 | *The Other Side of the Looking Glass* | Debut work | [Amazon](https://amzn.to/4o9dFDz) |
 | 2003 | *Muted* | Suppressed sound world | [Amazon](https://amzn.to/4mPkFUO) |
 | 2008 | *Resurgam* | Post-rock | [Amazon](https://amzn.to/3Wsfz65) |
@@ -291,3 +291,14 @@ At the core of its activities is an awareness of the ""expansion of underground 
 Although the label effectively came to an end in the late 2010s with the passing of Alias ​​and the scattering of members, its spirit continues to pulsate in the activities of each artist. Anticon's genre-bending aesthetic has become one of the cornerstones of modern indie music and DIY culture, and has been passed down to a new generation of experimental artists on Spotify and Bandcamp.
 
 In other words, Anticon is a ""group that continued to experiment with the impossible''**, and their challenging attitude continues to live on in the music scene.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nTKP_A1KGpk?si=GzNMKCqgMfp_jfnu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

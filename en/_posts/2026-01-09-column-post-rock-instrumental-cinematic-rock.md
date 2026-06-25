@@ -21,9 +21,9 @@ title: '[Column] Post-Rock Instrumental / Cinematic Rock ─ From silence to cin
 Text: mmr｜Theme: About the establishment and development of post-rock instrumental music
 
 
-Post-rock instrumental and cinematic rock are musics that have given listeners an extremely strong sense of narrative, even though they do not have clear meaning devices such as lyrics. It starts with silence, then the slight fluctuations of sound accumulate, and eventually become a large swell that envelops the emotions. This process resonates deeply with the film's long camera movements and the building of tension through editing.
+Post-rock instrumental and cinematic rock are musics that have given listeners an extremely strong sense of narrative, even though they do not have clear meaning devices such as lyrics.静寂から始まり、わずかな音の揺らぎが積み重なり、やがて大きなうねりとなって感情を包み込む。そのプロセスは、映画における長回しのカメラワークや、編集による緊張の構築と深く共鳴している。
 
-When this music emerged in the late 1990s, rock seemed to have exhausted its many forms. Alternative rock was becoming mainstream, and grunge impulses were becoming a thing of the past. Under such circumstances, post-rock instrumental music presented a completely different sense of time and structure while using rock formations.
+When this music emerged in the late 1990s, rock seemed to have exhausted its many forms. Alternative rock was becoming mainstream, and grunge impulses were becoming a thing of the past.そうした状況下で、ロックという編成を使いながら、まったく異なる時間感覚と構造を提示したのがポストロック・インストゥルメンタルである。
 
 Explosions in the Sky and Godspeed You! Black Emperor are iconic in this context. The former approaches personal experiences through melodies and heightened emotions, while the latter imprints social and collective time in the form of sound. While active at the same time, both artists demonstrated the breadth and depth of the post-rock framework.
 
@@ -69,15 +69,15 @@ The length of the song is also an important factor. It's not uncommon for post-r
 
 ---
 
-## Natural connection to cinematic rock
+## シネマティック・ロックへの自然な接続
 
-The term cinematic rock does not have a strict genre definition. However, it has been used intuitively to refer to music with a sense of visual scale and emotional curves.
+シネマティック・ロックという言葉は、厳密なジャンル定義を持つものではない。しかし、映像的スケール感や感情曲線を備えた音楽を指す際に、直感的に用いられてきた。
 
 It was inevitable that post-rock instrumental music would be associated with this designation. The quiet introduction is similar to the landscape description at the beginning of the movie, and the gradual addition of elements increases the tension of the story. And the climax that comes brings about a visual catharsis.
 
-In fact, many post-rock songs have found their way into movies and television series, but this is not a result of the subordination of music to visuals. Music itself originally contained a visual structure.
+In fact, many post-rock songs have found their way into movies and television series, but this is not a result of the subordination of music to visuals.もともと音楽自体が、映像的構造を内包していたのである。
 
-> Cinematicity was not an acquired reputation, but a quality that emerged from the structure itself.
+> シネマティック性は後天的な評価ではなく、構造そのものから立ち上がった性質だった。
 
 ---
 
@@ -99,7 +99,7 @@ The reason their music has been used in so many video productions is because of 
 
 ## Godspeed You! Black Emperor: A group that carves society and time
 
-Godspeed You! Black Emperor is a music collective that started in Montreal in the late 1990s. It has a strong character as a fluid collective rather than a fixed member composition, and is characterized by a large composition that uses multiple guitars, basses, drums, string instruments, and field recordings.
+Godspeed You! Black Emperor is a music collective that started in Montreal in the late 1990s. It has a strong character as a fluid collective rather than a fixed member composition, and is characterized by a large formation that uses multiple guitars, basses, drums, string instruments, and field recordings.
 
 Their work deviates greatly from the framework of a typical rock album. The piece is long and structured like multiple movements, alternating between silence and noise, melody and chaos. There are often no clear hooks or resolutions, requiring patience and concentration from the listener.
 

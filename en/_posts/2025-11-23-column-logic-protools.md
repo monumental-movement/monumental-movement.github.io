@@ -106,7 +106,7 @@ At this moment, a culture of software acceptance of external plugins began.
 * Actively introducing soft synths
 
 emagic and Steinberg compete as two major DAWs from Germany.
-Digidesign is on its way to becoming the "absolute king of audio editing."
+Digidesign is moving toward becoming the "absolute king of audio editing."
 
 ---
 
@@ -225,7 +225,7 @@ During this period, DAWs became mainstream with **CPU-dependent native processin
 ### ■ Steinberg, MOTU, and Adobe also continue to update
 
 *Steinberg has updated its VST3 engine.
-*MOTU moves into modern workflow with DP9/10
+* MOTU moves into modern workflow with DP9/10
 * Adobe's Audition penetration is due to increasing demand for podcasts
 
 By this time, the word "DAW" had become completely common,
@@ -261,7 +261,7 @@ Over the past few years, the history of DAWs has undergone another major change.
 
 ### ■ Adobe: Increase in demand for distribution and broadcasting
 
-* Integration advantages with Premiere
+* Integration advantage with Premiere
 * Strong in the YouTube/Podcast era
 
 ---

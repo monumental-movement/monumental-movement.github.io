@@ -52,20 +52,20 @@ After disco disbanded, a soulful garage sound rooted in black culture dominated 
 
 ---
 
-### 1980年代後半：NYハウスの確立
+### Late 1980s: Establishment of NY House
 - **Background**
-Influenced by Chicago house, New York has developed a more soulful and sophisticated style.クラブ・カルチャーが拡大。
+Influenced by Chicago house, New York has developed a more soulful and sophisticated style. Club culture expands.
 - **Representative works**
-  - Todd Terry – *Bango* (1988)  
-  - Blaze – *If You Should Need A Friend* (1988)  
+- Todd Terry – *Bango* (1988)
+- Blaze – *If You Should Need A Friend* (1988)
 - **Equipment**
 -Roland TR-909
-  - Akai S900, S950 サンプラー  
+- Akai S900, S950 sampler
 - Yamaha DX7
 
 ---
 
-### 1990年代：黄金期と多様化
+### 1990s: golden age and diversification
 - **Background**
 House is taking the world club scene by storm. NY house is subdivided into styles such as "deep" and "garage."
 - **Representative artists/works**

@@ -108,7 +108,7 @@ It has been confirmed that music that incorporates these elements induces a rela
 
 Characteristics of sounds that cats like:
 
-*Including high frequency
+*Includes high frequency
 * Soft continuous sound
 * Rhythm is simple or slow
 
@@ -141,7 +141,7 @@ This difference creates the following differences in recognition of the same sou
 
 * Human: Pleasant high pitched sound
 * Dog: Too much stimulation
-* Cat: Insufficient amount of information
+* Cat: Insufficient information
 
 Furthermore, the "density" and "sustainability" of the sound are also important. Continuous sounds tend to give a sense of security, while intermittent sounds tend to induce alarm.
 
@@ -307,7 +307,7 @@ Due to the extreme frequency design (especially high frequencies), it includes a
 
 - Fennesz – Endless Summer
 
-It has an intermediate structure between noise and melody, and is characterized by a high-frequency texture.
+It has a structure between noise and melody, and is characterized by a high-frequency texture.
 
 ### Unsuitable example
 

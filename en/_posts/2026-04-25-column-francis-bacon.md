@@ -10,7 +10,7 @@ tags:
 - Music
 - Opera
 - History
-title: '[Column] Francis Bacon and music: an auditory experience for depicting extreme
+title: '[Column] Francis Bacon and music: an auditory experience to depict extreme
   emotions'
 ---
 
@@ -84,7 +84,7 @@ He often welcomed "accidents". For example, there were times when I used the mar
 
 In one famous anecdote, he was working on a painting after drinking and accidentally left a large stain on the canvas. However, he did not erase it, but rather found a new form from it.
 
-This ""acceptance of accidents"' resonates with the improvisational nature of music. Wagner"s long pieces and Callas' wavering voice contain moments when they deviate from complete control.
+This ""acceptance of accidents"' resonates with the improvisational nature of music. Wagner"s long pieces and Callas's wavering voice contain moments when they deviate from complete control.
 
 <div class="mermaid">
 graph TD

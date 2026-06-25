@@ -114,7 +114,7 @@ In this respect, it can be said that tropical house has shifted from ""music for
 
 ### Crossover progression
 
-Tropical house has a very high affinity with pop music. In fact, many pop artists have adopted this style and found success on the charts.
+Tropical house has a very high affinity with pop music. In fact, many pop artists have adopted this style and achieved chart success.
 
 This is the result of the genre's ""easy listening" and ""emotional openness" being accepted by a wide range of listeners. What is important is that while it is rooted in club culture, it has adapted to everyday environments such as at home and on the move.
 

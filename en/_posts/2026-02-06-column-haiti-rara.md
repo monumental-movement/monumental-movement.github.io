@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Historical origins of Lala
+## Chapter 1 Historical origin of Lala
 
 The origin of lala is closely tied to the deep layers of Haitian society that was formed between the 18th and 19th centuries. In Saint-Domingue during the French colonial period, people brought from various parts of Africa maintained their own religious rituals and musical culture. Although these traditions were suppressed under plantation control, they were inherited in fragments through nightly gatherings and festivals.
 

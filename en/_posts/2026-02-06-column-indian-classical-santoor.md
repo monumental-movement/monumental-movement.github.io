@@ -85,7 +85,7 @@ Even in the performance of the santoor, the time period, emotional character, an
 
 Once in the tala, the santoor begins to take on a percussive driving force, blurring the line between melody and rhythm. This duality creates a charm that is not found in other melodic instruments.
 
-> The santour is an instrument that exists in the middle area between melody and rhythm.
+> The santour is an instrument that exists between melody and rhythm.
 
 ---
 

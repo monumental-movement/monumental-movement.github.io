@@ -78,7 +78,7 @@ Their works constantly question "form itself." The album unit, song length, and 
 
 The giant eyeball mask that is a symbol of The Residents is not just a novelty, but a device that indicates the reversal of the relationship between "seeing and being seen." The audience watches the performance, but at the same time, they are also stared back at by giant eyes.
 
-In a live performance, images, lighting, and costumes are closely linked to create a comprehensive piece of art. This idea is similar to later multimedia art and installation ideas.
+In a live performance, images, lighting, and costumes are closely linked to create a comprehensive piece of art. This is similar to later multimedia art and installation-like ideas.
 
 <div class="mermaid">
 flowchart TD

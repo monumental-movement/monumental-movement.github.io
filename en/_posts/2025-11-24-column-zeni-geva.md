@@ -92,7 +92,7 @@ During this period, Zeni Geva's songs became longer and more structured, includi
 
 ### "10,000 Light Years (2001)"
 - Increased electronic textures
-- Multi-layered combination of noise/metallic guitar/unusual time signature/electronic sounds
+- Noise/metallic guitar/unusual time signature/electronic sounds intertwine in multiple layers
 - Zeni Geva as a sound sculpture, different from the 1980s-90s period
 
 The band reached musical maturity during this period, but at the same time, Null's solo activities and other projects increased, and the time between releases as a band became longer.
@@ -112,7 +112,7 @@ For Zeni Geva, the addition of Yoshida once again had a strong impact.
 
 ---
 
-## 5. Second period Zeni Geva (2010–): Re-evaluation and global renewed attention
+## 5. Second period Zeni Geva (2010–): Re-evaluation and global re-attention
 ### "Alive and Rising (2010)"
 - Live sound source from the 2009 lineup
 - Tatsuya Yoshida"s perverted drums and Null & Tabata"s guitar duel are spectacular

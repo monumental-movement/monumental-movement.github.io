@@ -147,7 +147,7 @@ These are not just vocals, but an exploration of the voice as an acoustic materi
 In the early stages, the new wave-like stoic beats stand out, but from the middle onwards, complex ensembles with multiple beats existing at the same time increase.
 
 ### ■ 3. "Structural humor" rather than "absurdity"
-Hikashu's lyrics and performances may seem bizarre, but many of them are extremely precisely structured.
+Hikashu's lyrics and production may seem bizarre, but many of them are extremely precisely structured.
 Nonsense is not a "thought-stopping gag" but a device for shaking the boundary between language and sound.
 
 ### ■ 4. Theremin and electronic acoustics

@@ -110,7 +110,7 @@ The sound became layered, a trance feeling slipped into the repetitive rhythm, a
 
 ---
 
-The following year, 1999's Vision Creation Newsun was one of the defining works of Boredoms' career.
+The following year"s 1999"s Vision Creation Newsun was one of the defining works of Boredoms' career.
 Natural sounds, ethnic percussion, sustained sounds and cyclical structures, guitar drones, multi-layered rhythms...
 
 The Boredoms weren't even a "rock band" here, but instead deepened into cosmic minimalism and ritual trance.

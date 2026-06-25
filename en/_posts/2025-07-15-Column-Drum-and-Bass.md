@@ -110,7 +110,7 @@ Dark, industrial, inorganic sound. Representatives include Ed Rush & Optical and
 
 **● Neurofunk**
 
-Evolution of Tech Step. Mainly a nervous and distorted bass line. Noisia, Phace, Mefjus, etc.
+Evolution of Tech Step. Mainly nervous and distorted bass lines. Noisia, Phace, Mefjus, etc.
 
 **● Liquid Funk**
 

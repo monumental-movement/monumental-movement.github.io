@@ -218,9 +218,9 @@ Synthwave was heavily influenced by the electronic music and visuals seen in the
 
 ## 9-2. Context of digital revival
 
-Chillwave made extensive use of visual expressions reminiscent of the personal media culture of the 1990s (VHS, camcorders, seaside home footage), and was compatible with the internet's lo-fi photo culture (such as early Instagram).
+Chillwave made extensive use of visual expressions reminiscent of the personal media culture of the 1990s (VHS, camcorders, seaside home footage), and was compatible with the lo-fi photography culture of the Internet (such as early Instagram).
 
-Synthwave's **grid background + neon typography** created by graphic designers has become standardized worldwide, and it has also become popular in mix videos on YouTube.
+Synthwave's **grid background + neon typography** created by graphic designers has become standardized worldwide, and has also become popular in mix videos on YouTube.
 
 ---
 

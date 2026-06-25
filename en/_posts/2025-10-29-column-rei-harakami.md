@@ -103,7 +103,7 @@ It"s like autumn in Kyoto, and it"s a sadness that makes you laugh while staring
 
 ## Chapter 4: Harakami and friends - UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-The collaboration with UA "Milk Tea" and Ryuichi Sakamoto,
+The collaboration with UA "Milk Tea" and Ryuichi Sakamoto are
 A new element of "human voice" has been added to Rei Harakami's music.
 
 Ryuichi Sakamoto is said to have described him as "the quietest revolutionary."
@@ -207,5 +207,14 @@ Rei Harakami's fourth original album released in 2005.
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvTPF7R5Eq0?si=_jOG4-_CSvhhiGWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qGJ-LHXX--c?si=Nk2SOS6932_I2DQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -67,7 +67,7 @@ That's why the unstable beauty created by JPEG corruption and signal noise feels
 
 Glitch has also permeated fashion and advertising.
 The method of incorporating the disordered pixels into the design took the street culture by storm in the late 2010s as "broken design."
-We are finally able to enjoy the fact that it is not perfect, and that even digital products contain "noise."
+We are finally able to enjoy the fact that it is not perfect, and that even digital has "noise".
 
 ---
 
@@ -119,7 +119,7 @@ This aesthetic is deeply embedded in anime and video works as well.
 Bug effects seen in "Cyber ​​Coil", "Ghost in the Shell SAC_2045", and "EVA:3.0+1.0"——
 It has become a device that symbolizes the ""fluctuation of cognition'' in an information-overloaded society.
 
-And now, at a night club in Tokyo,
+And now, in a night club in Tokyo,
 Fragments of sound made up of broken samples echo like the heartbeat of the city itself.
 Glitch has gone beyond the boundaries of art and has become our "everyday sound."
 
@@ -153,6 +153,15 @@ Glitch is a record of courage that is unafraid to break.
 It is a modern poem that attempts to exist beautifully despite the noise.
 
 ---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FniwgK-74jo?si=_brp__HGK7NkhRsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 
 ### Appendix: Glitch Culture Archive
@@ -197,7 +206,7 @@ color: #fff;
 
 #### Glitch must-listen discography
 
-| Year | Artist | Title of work (Amazon link) | Notes |
+| Year | Artist | Work title (Amazon link) | Notes |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Oval | [94diskont](https://amzn.to/47k6D9b) | Monument of "CD Kuon" |
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | The pinnacle of minimal acoustics |

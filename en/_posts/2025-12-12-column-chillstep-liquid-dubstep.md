@@ -19,7 +19,7 @@ title: '[Column] Chillstep / Liquid Dubstep'
 
 Text: mmr｜Theme: About the "emotional dubstep" born between silence and bass
 
-Chillstep and Liquid Dubstep are spin-off genres that began to take shape on the internet around 2010, emphasizing the melodic and ambient aspects of dubstep. Unlike traditional dubstep's aggressive wobble bass, harsh filter modulation, and post-brostep metal leads, Chillstep brings to the fore ""quietness, transparency, and a soft contour of the low range.''
+Chillstep and Liquid Dubstep are spin-off genres that began to take shape on the internet around 2010, emphasizing the melodic and ambient aspects of dubstep. Unlike traditional dubstep's aggressive wobble bass, harsh filter modulation, and post-brostep metal leads, Chillstep brings to the fore ""quietness, transparency, and a soft-defined low range.''
 
 The background flow is as follows.
 
@@ -79,7 +79,7 @@ The symbol of Chillstep is "smooth sub-bass."
 
 * Sine wave center
 * Adjust warmth with slight distortion (soft clipping)
-* Produce breathing-like fluctuations with light LFO (1/4, 1/8, etc.)
+* Produce breathing-like fluctuation with light LFO (1/4, 1/8, etc.)
 * Add emotion through volume changes without using excessive filter modulation
 
 ### 2-3 Melody and synth design
@@ -103,7 +103,7 @@ The symbol of Chillstep is "smooth sub-bass."
 Liquid Dubstep inherits the feel of Liquid Drum"n"Bass, with a more "transparent, water-like" texture.
 
 * Clear high-end and sparkling impression
-* High vocal chop ratio
+*High vocal chop ratio
 *Base is smoother and less jittery
 * Often uses one-shot FX like bubbles
 
@@ -139,7 +139,7 @@ Blackmill's style became the template for Chillstep and created a large followin
 
 MitiS has a background in classical piano and brings a unique emotion to Chillstep/Melodic Dubstep.
 
-* Piano main melody
+*Piano main melody
 * Transparent and unbreakable mix
 * Trance-like rising feeling
 * Carefully processed vocal chop
@@ -218,7 +218,7 @@ Emphasis is placed on ""sustainability" and ""lingering resonance" rather than m
 
 * Sine wave center
 * Mix in triangle waves to add warmth if desired
-*LFO is gentle
+* LFO is gentle
 * Side chain is thin
 * Release is short and tight
 

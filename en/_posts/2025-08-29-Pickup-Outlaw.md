@@ -169,7 +169,7 @@ Format: Vinyl
 
 Genre: Acid / Techno / Trance
 
-Summary: Released in 1992, a great compilation from Tresor's early days. A historic piece that embodies the "echoes of family."
+Summary: Released in 1992, a great compilation from Tresor's early years. A historic piece that embodies the "echoes of family."
 
 
 Outlaw feeling: Memories of urban community improvisation and dark struggles that encompass the scene's birth.

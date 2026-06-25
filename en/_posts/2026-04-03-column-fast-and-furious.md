@@ -67,7 +67,7 @@ For example, the pitch of engine sounds is often emphasized more than the actual
 
 The tempo of the music also plays an important role. It's not just songs with a fast BPM (tempo) that are used; rather, by layering detailed rhythms on songs with a medium tempo, a sustained sense of tension is created.
 
-In this way, the movie creates a world that feels faster than it actually is.
+In this way, the movie has created a world that feels faster than it actually is.
 
 > Movie speed is a designed illusion, not a reproduction of reality.
 

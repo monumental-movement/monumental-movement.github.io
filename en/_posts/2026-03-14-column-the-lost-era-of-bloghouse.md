@@ -103,7 +103,7 @@ The main ways to discover music were:
 
 Of particular importance was the MP3 blog.
 
-The music blog was a site where the administrator introduced his favorite music.
+The music blog was a site where the administrator introduced the music he liked.
 The article was accompanied by an MP3 file that readers could download directly.
 
 These sites existed in the thousands and were linked together to form a network.

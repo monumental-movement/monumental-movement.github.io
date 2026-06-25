@@ -106,14 +106,14 @@ Cassette tapes are mainly classified into four types:
 <td>General music recording, voice recording</td>
 </tr>
 <tr>
-      <td>Type II（クロム）</td>
+<td>Type II (Chrome)</td>
 <td>Chromium oxide (CrO2)</td>
-<td>Excellent treble characteristics and good noise reduction</td>
+<td>Excellent high-frequency characteristics and good noise reduction</td>
 <td>High quality recording for music playback</td>
 </tr>
 <tr>
-      <td>Type III（フェリクロム）</td>
-      <td>フェリクロム混合</td>
+<td>Type III (ferrichrome)</td>
+<td>Ferrichrome mixture</td>
 <td>Intermediate properties between normal and chrome</td>
 <td>Currently discontinued</td>
 </tr>

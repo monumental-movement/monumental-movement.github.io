@@ -46,7 +46,7 @@ When Pan Sonic was formed in Finland in the early 90s, the electronic music scen
 Mika Vainio was originally active in the industrial/noise genre, and in the early 1990s he turned to electrical sound experiments. Ilpo Vaisanen similarly moved between the realms of DIY electronics and performance art.
 
 ### Debut under the name Panasonic
-Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main component was physical electronic vibrations, which were completely different from existing forms of club music.
+Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main component was ""physical electronic vibrations'' that were completely different from existing forms of club music.
 In the music scene of the time, there were few who presented electroacoustic minimalism in such a pure form.
 
 ### Name issue with Matsushita Electric
@@ -192,5 +192,14 @@ The sound is cold, hard, and at the same time pulses like a living thing.
 The minimalism they presented was not just a matter of simplification, but an act of confronting the **vibration of electronic circuits, which is the root of sound**.
 
 The works and thoughts they left behind will continue to resonate as the backbone of electronic music.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rW-Yff48TOE?si=ouholKqaB2AbouDW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

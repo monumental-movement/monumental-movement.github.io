@@ -69,7 +69,7 @@ At the same time as mainstream music such as [BOØWY](https://amzn.to/48lIrED) /
 
 ### 2000s: Guitar Wolf's rock and roll
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — Standard bearer of "Jet Rock and Roll." After touring overseas, they became a symbol of the garage rock revival.
+[Guitar Wolf](https://amzn.to/42cIG0G) — Standard bearer of "Jet Rock"n"Roll". After touring overseas, they became a symbol of the garage rock revival.
 
 ---
 

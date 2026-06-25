@@ -202,7 +202,7 @@ Under his solo name, he is known for a wide range of works spanning techno, elec
 
 **Position**
 
-Slater is acclaimed as a flexible creator who traverses the scene, balancing the hardness of techno with a pop sensibility.
+Slater is acclaimed as a flexible creator who crosses scenes, combining the hardness of techno with a pop sensibility.
 It laid the foundation for later aliases such as Planetary Assault Systems and The 7th Plain.
 
 ---
@@ -237,6 +237,15 @@ Luke Slater is a pioneer of UK techno, developing a diverse range of musical sty
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myr9W7HR0wg?si=1lBJTYJrEdJHgoXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REiZrg6DNPs?si=lqyx74MNdq8LhMB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

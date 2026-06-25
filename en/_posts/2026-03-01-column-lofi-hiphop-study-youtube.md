@@ -16,7 +16,7 @@ title: '[Column] Why Lo-Fi hip-hop has become a standard for studying and workin
 
 
 
-## What is Lo-Fi hip hop?
+## What is Lo-Fi hip-hop?
 
 Text: mmr｜Theme: Examining the historical background of Lo-Fi hip-hop becoming globally supported as "background music for studying and working" and the structure of its popularity.
 
@@ -49,7 +49,7 @@ color: #fff;
 
 Lo-Fi hip-hop has its roots in underground hip-hop in the 1990s. It was characterized by a sampling-based production method and a cool, introspective tone. J Dilla and Nujabes are cited as iconic figures.
 
-J Dilla established a unique off-the-grid drum arrangement, the so-called "Dilla feel." Nujabes popularized instrumental hip-hop internationally with a softer reimagining of jazz and soul. His songs were used in the TV anime ""Samurai Champloo'' and reached overseas listeners.
+J Dilla established a unique off-the-grid drum arrangement, the so-called "Dilla feel." Nujabes gently reinvented jazz and soul, popularizing instrumental hip-hop internationally. His songs were used in the TV anime ""Samurai Champloo'' and reached overseas listeners.
 
 From the late 2000s to the early 2010s, the digitalization of production environments progressed, and online sharing of DAWs and sampled materials became commonplace. The genre slowly took shape, with unknown beatmakers releasing songs on platforms like Bandcamp and SoundCloud.
 
@@ -92,7 +92,7 @@ Representative of the 2010s SoundCloud generation. It gained popularity due to i
 
 ### Idealism
 
-Their melodious, piano-based Lo-Fi beats have expanded their support in the streaming era.
+Their melodic, piano-based Lo-Fi beats have expanded their support in the streaming era.
 
 > The major artists shared an attitude of emphasizing production aesthetics over commercialism.
 
@@ -105,7 +105,7 @@ Their melodious, piano-based Lo-Fi beats have expanded their support in the stre
 *Toppabeats "Monday Loop"
 * Idealism "Snowfall"
 
-These songs share the characteristic of avoiding complex developments and presenting texture and atmosphere within short loops. The volume changes are small and there are no lyrics, so it's hard to distract.
+These songs share the characteristic of avoiding complex developments and presenting texture and atmosphere within short loops. The volume changes are small and there are no lyrics, so it doesn't distract you.
 
 <div class="mermaid">
 flowchart LR

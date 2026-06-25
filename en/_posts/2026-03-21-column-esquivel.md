@@ -49,7 +49,7 @@ color: #fff;
 
 Esquivel was born in 1918 in Tampico, Mexico. He received piano education from an early age and thoroughly acquired the basics of classical music. However, his interest was not simply in performance techniques, but in the structural aspect of ""how the sounds are arranged and how they resonate.''
 
-During the 1940s and 1950s, he worked as a music director in the Mexican radio and television industry. My experience during this period was decisive. Broadcast music must leave a strong impression within a limited amount of time, and to achieve this, sound density, placement, and timing are extremely important.
+During the 1940s and 1950s, he worked as a music director in the Mexican radio and television industry. My experience during this period was decisive. Broadcast music must leave a strong impression within a limited amount of time, and to that end, sound density, placement, and timing are extremely important.
 
 It was here that he honed his ability to treat sound not as a line but as a collection of points. Short phrases, fragmented sounds, sudden shifts—these would become the core of his later style.
 
@@ -106,7 +106,7 @@ D --> E[spatial arrangement of sound]
 E --> F[futuristic sound]
 </div>
 
-This work was not just an album, but a prototype for future music.
+This work was more than just an album, it could be called a "prototype of future music."
 
 > ""Other Worlds, Other Sounds"' wasn"t music, it was a blueprint for the future.
 

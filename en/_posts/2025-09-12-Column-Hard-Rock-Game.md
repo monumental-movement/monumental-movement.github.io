@@ -39,7 +39,7 @@ color: #fff;
 
 ## 1960s-1970s: Birth of hard rock and the eve of arcades
 
-- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appeared in London and Los Angeles. Presenting a new musical experience with explosive sounds and profound riffs.
+- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appear in London and Los Angeles. Presenting a new musical experience with explosive sounds and profound riffs.
 - **Point of contact with games**: This era was still in the early days of arcades (the eve of ""Pong" and ""Space Invaders"). Although the direct link is weak, the psychedelic artwork and experiments with electronic sounds create seeds that resonate with the game's electronic music aesthetic.
 
 **Representative masterpiece**
@@ -233,7 +233,7 @@ color: #fff;
 
 ## List of hard rock songs included in the music game
 
-Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played an important role in bringing the hard rock classics of the past to a new generation. In addition, many unique interpretations of hard rock have appeared in Japanese arcade music games. Below are typical recording examples.
+Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played an important role in bringing the hard rock classics of the past to a new generation. In addition, many unique interpretations of hard rock have appeared in Japanese arcade music games. The following is a typical recording example.
 
 ---
 
@@ -376,3 +376,14 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 
 # Conclusion
 Hard rock is more than just a music genre; it has been closely connected to the growth of video game culture, from arcades to music games to e-sports. By sharing the "sound impact" of each era, both games and hard rock continue to evolve across generations.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KiCwgcALjAI?si=6HO5FTouyHMGRkDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

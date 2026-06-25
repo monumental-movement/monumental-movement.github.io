@@ -238,7 +238,7 @@ In recent years, Yoshihide Otomo's activities have expanded beyond Japan to Asia
 The point is that his music is perceived as a ""methodology" rather than a ""genre."
 
 * Improvisation = structure of communication
-* Acoustics = means of spatial design
+* Acoustics = means of space design
 * Ensemble = social model
 
 Because these elements can be shared across countries and cultures, they are being transformed and developed in different forms in each region.

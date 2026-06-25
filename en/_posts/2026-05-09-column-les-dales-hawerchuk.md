@@ -268,7 +268,7 @@ This sense of balance has supported the sustainability of Les Dales Hawerchuk.
 
 ### Growth as a touring band
 
-During this period, they have become more active in festivals and live performances.
+During this period, they have become more active in festivals and live activities.
 
 Their appearances at rock festivals in Canada have increased, and their popularity as a live band has expanded.
 
@@ -420,7 +420,7 @@ Still feels like a bar.
 
 However, as he gets older, he becomes more persuasive.
 
-It's not just the impulse of youth, but the weight of a band that has been touring live houses for many years.
+It wasn't just the urge of youth, but also the weight of a band that has been touring live houses for many years.
 
 <div class="mermaid">
 quadrantChart

@@ -79,7 +79,7 @@ In such an environment, it is difficult to notice with a normal, monotonous warn
 
 This ensures that it doesn't get lost in the music and is immediately recognized by the driver.
 
-> A culture of long driving hours and loud music has led to the evolution of sirens into more aggressive and varied sounds.
+> A culture of long driving hours and loud music has led to the evolution of sirens with more aggressive and varied sounds.
 
 ---
 
@@ -104,7 +104,7 @@ Furthermore, sounds such as "An ambulance is passing by" have the role of helpin
 
 In Europe, many buildings are made of stone due to the influence of urban structures that have continued since the Middle Ages, and the sound reverberation characteristics are unique. For this reason, sirens are designed to use reflected sound to reach a wide range.
 
-The reason why each country has a different sound pattern is to make it easier to identify people when they cross borders. For example, Germany uses a relatively simple pattern, while France uses a different rhythm.
+Additionally, each country has a different sound pattern so that they can be identified when crossing borders. For example, Germany uses a relatively simple pattern, while France uses a different rhythm.
 
 Sounds are not just warnings, but also function as symbols to identify countries and regions.
 

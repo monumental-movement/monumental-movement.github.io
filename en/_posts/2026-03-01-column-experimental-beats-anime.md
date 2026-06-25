@@ -80,7 +80,7 @@ Polyphonic chorus referencing Bulgarian voices, inorganic synth pads, and low-fr
 This is an example of expressing the tension between physicality and mechanicality through sound.
 
 In Cowboy Bebop, which aired in 1998, Yoko Kanno freely traversed jazz, big band, funk, and electronica.
-The opening song ""Tank!'' is a high-speed big band song, but its rhythmic disconnection and editorial structure resonate with post-club culture sensibilities.
+The opening song, ""Tank!,'' is a high-speed big band song, but its rhythmic disconnection and editorial structure resonate with post-club culture sensibilities.
 
 > The 1990s was a time when electronic sound and genre-crossing entered TV anime in earnest.
 

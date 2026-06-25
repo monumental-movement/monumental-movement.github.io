@@ -428,7 +428,7 @@ I have all of these things at the same time.
 
 Moreover, not one of them is recovered.
 
-That's why his music is neither ""satire for intellectuals" nor ""simple popular music."
+That is why his music is neither ""satire for intellectuals" nor ""simple popular music."
 
 We always move forward with contradictions.
 

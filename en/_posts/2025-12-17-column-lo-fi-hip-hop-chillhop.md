@@ -130,7 +130,7 @@ Lo‑Fi Hip Hop has connections with genres such as jazz, soul, ambient, and dow
 
 ## 12. Regionality and globalization
 
-This culture is not limited to a specific region, but is formed simultaneously over the Internet. Therefore, it is characterized by the fact that it does not have a clear geographical center.
+This culture is not limited to a specific region, but is formed simultaneously over the internet. Therefore, it is characterized by the fact that it does not have a clear geographical center.
 
 ---
 
@@ -154,7 +154,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 2020s
 
-* Consumption for environmental music becomes commonplace
+* Consumption for environmental music has become commonplace
 
 ---
 

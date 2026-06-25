@@ -27,7 +27,7 @@ While many post-punk bands focused on aggressive rhythms and politics, this proj
 
 Although the guitar playing of the central figure, Vini Reilly, was influenced by classical music, jazz, flamenco, etc., he sublimated it into a unique grammar without directly quoting them. His sound is more like a trembling air than a melody.
 
-By this point, The Durutti Column was already outside the realm of post-punk.
+At this point, The Durutti Column was already outside the framework of post-punk.
 
 > Their music could be said to deal with ""space itself'' rather than genre.
 
@@ -101,7 +101,7 @@ A[1980 early] --> B[ambient guitar]
 B --> C[1983 mid-term]
 C --> D[Rhythm introduction]
 D --> E[1986 onwards]
-E --> F[Fusion with electronic sounds]
+E --> F[Fusion with electronic sound]
 </div>
 
 For example, in ""LC," a clearer structure emerges, and in ""Another Setting," classical elements are emphasized.
@@ -122,7 +122,7 @@ Their music is extremely abstract, even compared to their contemporaries The Smi
 
 The rhythmic emphasis is weak, and there are almost no songs. Therefore, it does not rely on common pop structures. Although this was commercially disadvantageous, it resulted in an extremely long career.
 
-Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even contemporary lo-fi and electronica.
+Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even modern lo-fi and electronica.
 
 > Rather than belonging to a genre, they continued to create a space outside of the genre.
 
@@ -184,7 +184,7 @@ The sound leaves a lot of blank space and doesn't tell everything. Therefore, li
 
 Similarly, the season of summer has a specific image but has different meanings depending on the person.
 
-> This song doesn't "depict summer" but rather "reminds me of summer."
+> This song does not "depict summer" but "reminds me of summer."
 
 ---
 

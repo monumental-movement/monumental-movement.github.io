@@ -13,9 +13,9 @@ title: King Just – Warriors Drum
 ---
 
 
-Drum n Bass/Hip Hop released by Shaolin Soldiers' Adrian Angevin (King Just) on XL Recordings in 1995. The producer is RNS.
+Shaolin Soldiers のAdrian Angevin(King Just )が1995年にXL RecordingsからリリースしたDrum n Bass／Hip Hop。プロデューサーはRNS。
 
-A2 is a remix by DJ Jam. B is a remix by Foul Play & Rob Playford.
+A2はDJ Jamによるremix。 B is a remix by Foul Play & Rob Playford.
 
 #### Tracklist
 ```md

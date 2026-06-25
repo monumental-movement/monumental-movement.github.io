@@ -16,21 +16,21 @@ title: '[Column] Music education and social impact: Understanding the system, hi
 
 
 
-## Music education as a social device
+## 音楽教育という社会装置
 
 Text: mmr｜Theme: How has music education changed society? -Cultural impact interpreted from the system, field, and history
 
 
-Music education is not just technical training. Like reading, writing, and arithmetic, it has been designed as a system for specifying what nations, religions, and communities should share.
-In schools, churches, the military, and local communities, music has always been linked to group formation, discipline, and the transmission of values.
+音楽教育は単なる技術訓練ではない。 Like reading, writing, and arithmetic, it has been designed as a system for specifying what nations, religions, and communities should share.
+学校、教会、軍隊、地域共同体といった場において、音楽は常に集団形成と規律、価値観の伝達に結びついていた。
 
-In the West, systematic music education was established in medieval monasteries. The unified transmission of Gregorian chant was the earliest example of the inseparability of musical notation and the educational system.
-Here, music was both a religious practice and an educational content that cultivated a class of knowledge.
+西洋において体系的な音楽教育が確立したのは中世の修道院である。グレゴリオ聖歌の統一的伝承は、楽譜と教育制度が不可分であることを示した最初期の例だった。
+ここでは音楽は信仰実践であり、同時に知識階層を育成する教育内容だった。
 
 With the establishment of the modern nation, music education was incorporated into the public education system. Singing of the national anthem, singing education, and training of military bands were introduced as part of national unification through music.
 Before music education was ""sensitivity education,'' it functioned as a device to stabilize the social structure.
 
-> Music education has always been designed within social institutions, supporting both culture and governance.
+> 音楽教育は常に社会制度の内部で設計され、文化と統治の両面を支えてきた。
 
 
 ---
@@ -49,7 +49,7 @@ color: #fff;
 </style>
 
 
-## Formation of the public education system and music curriculum
+## 公教育制度と音楽カリキュラムの形成
 
 
 After the 19th century, when compulsory education systems were established in each country, music became an official subject.
@@ -64,7 +64,7 @@ Music was a symbol of modernization and at the same time functioned as part of n
 In the latter half of the 20th century, music education shifted its focus from skill training to expressive activities.
 Educational methods that emphasize children's independence, such as the Orff, Kodály, and Suzuki methods, have become popular internationally.
 
-> Changes in the music curriculum reflect changes in the roles that society expects from children.
+> Changes in music curriculum reflect changes in the roles that society expects from children.
 
 ---
 
@@ -99,8 +99,8 @@ On the other hand, music education for the working class centered on group forms
 From the latter half of the 20th century onwards, the disparity in opportunities for music education was corrected to a certain extent through public subsidies and the expansion of school education.
 However, economic factors continue to influence musical instrument education and professional education.
 
-The rise of hip-hop and electronic music has relativized traditional music education models.
-A production environment that does not require expensive instruments or long-term training has created new learning paths.
+ヒップホップや電子音楽の台頭は、従来の音楽教育モデルを相対化した。
+高価な楽器や長期訓練を必要としない制作環境が、新たな学習経路を生み出した。
 
 > The form of music education is also a mirror of social class structure.
 
@@ -109,7 +109,7 @@ A production environment that does not require expensive instruments or long-ter
 ## Social Change and Music Education Program
 
 
-After the end of the 20th century, music education began to be reevaluated as part of social policy.
+20世紀末以降、音楽教育は社会政策の一環として再評価されるようになる。
 Music programs were introduced in the context of improving public safety, correcting educational disparities, and supporting youth.
 
 A typical example is the large-scale youth orchestra education in South America.

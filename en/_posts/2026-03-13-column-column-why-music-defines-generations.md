@@ -123,7 +123,7 @@ Then, in the 21st century, the Internet completely changed the distribution of m
 
 ## Music and social movements
 
-多くの世代音楽は、社会運動と深く結びついている。
+Many generations of music are deeply connected to social movements.
 
 Folk songs of the 1960s were associated with the civil rights movement,
 Punk in the 1970s was born out of political dissatisfaction.
@@ -131,7 +131,7 @@ Punk in the 1970s was born out of political dissatisfaction.
 Music was a powerful means of spreading political messages.
 
 The reason is simple.
-歌は覚えやすく、集団で共有されやすい。
+Songs are easy to remember and easy to share with a group.
 
 For example, at demonstrations and rallies, singing creates a sense of solidarity among participants.
 This structure has been repeated many times throughout history.
@@ -174,7 +174,7 @@ D --> E[generation identity]
 
 In this way, music becomes not just a part of culture, but a part of an individual's life.
 
-The reason why different music exists for each generation is
+The reason why different generations have different music is
 This is because each generation experiences a different historical moment in their youth.
 
 > Adolescent musical experiences are long remembered as the core of generational identity.

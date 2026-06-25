@@ -132,7 +132,7 @@ I wanted to dig them out.
 <div class="mermaid">
 flowchart TD
 A[language] --> B[meaning]
-C[voice] --> D[emotion]
+C[voice] --> D[emotions]
 C --> E[body]
 C --> F[memory]
 </div>
@@ -141,7 +141,7 @@ She treated the voice not as a means of transmitting information, but as a sensa
 
 This idea had a huge influence on later vocal experimental music.
 
-> Monk's music was a rare example of using voice to transcend words.
+> Monk's music was a rare example of using the voice to transcend words.
 
 ---
 
@@ -216,7 +216,7 @@ silence.
 
 All of them are placed with equal importance.
 
-The same holds true for stage productions.
+The same applies to stage productions.
 
 Rather than listening to music, the audience experiences the sensation of entering an environment.
 
@@ -338,7 +338,7 @@ In this day and age where music has become highly technological, her work sounds
 
 There are still physical fluctuations that cannot be replaced by machines.
 
-> Meredith Monk's art is not a prediction of the future of music, but a record of her continued rediscovery of the fundamental power of the human voice.
+> Meredith Monk's art is not a prophecy of the future of music, but a record of a continued rediscovery of the fundamental power of the human voice.
 
 
 ---

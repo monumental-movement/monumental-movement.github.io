@@ -258,7 +258,7 @@ flowchart TD
 | Fantasma | Cornelius | 1997 | Pop/electronica centered around Omnichord chords | [Amazon](https://amzn.to/4h7f2QM) |
 | Vespertine | Björk | 2001 | Delicate chord feel and minute electronic sounds by Omnichord | [Amazon](https://amzn.to/4ojW240) |
 | Space Oddity | David Bowie | 1969 | Stylophone used, space-like minimal tone | [Amazon](https://amzn.to/48r48mx) |
-| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Ambient/techno with toy-like electronic sounds such as Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Ambient/techno with toy electronic sounds such as Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
 | Rounds | Four Tet | 2003 | Pocket Operator style mini-synth electronic sound | [Amazon](https://amzn.to/4q451HY) |
 | Cosmogramma | Flying Lotus | 2010 | Complex texture combining small synth/electronic toy sounds | [Amazon](https://amzn.to/4q2iujP) |
 | Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bending Books | [Amazon](https://amzn.to/4haxkAD) |

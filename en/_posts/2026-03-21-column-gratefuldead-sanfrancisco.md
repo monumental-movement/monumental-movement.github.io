@@ -78,7 +78,7 @@ In the same year, the band changed to its current name. The name comes from Amer
 
 This symbolism would later become deeply connected to their music and the spirituality of their community.
 
-> The band name was not just a label, but also a statement of thought.
+> The band name was not just a label, but also a statement of ideology.
 
 ---
 
@@ -120,7 +120,7 @@ Improvisation is achieved not only by individual skills but also by a high level
 
 ### Technical challenges
 
-Introduced in the 1970s, the ""Wall of Sound'' is a huge sound system that combines hundreds of speakers. The aim was to minimize distortion and deliver uniform sound even in large venues.
+Introduced in the 1970s, the "Wall of Sound" is a huge sound system that combines hundreds of speakers. The aim was to minimize distortion and deliver uniform sound even in large venues.
 
 ### Changes in live experience
 
@@ -154,7 +154,7 @@ Tours are more than just performances; they form a mobile community. A market wi
 
 Artists such as Jefferson Airplane and Janis Joplin were active around the same time, and the region as a whole was forming its own music scene.
 
-### Genre deconstruction
+### Genre Deconstruction
 
 Blues, folk, rock, and jazz merge, and existing classifications become meaningless. This freedom is the hallmark of the San Francisco sound.
 

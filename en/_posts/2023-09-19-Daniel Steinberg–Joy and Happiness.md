@@ -13,7 +13,7 @@ title: Daniel Steinberg – Joy & Happiness EP
 ---
 
 
-"Joy & Happiness"は、楽曲のタイトル通り、喜びと幸福感をテーマにした曲でグルーヴィで踊りやすいビート、キャッチーなメロディ、そしてポジティブな雰囲気が特徴です。 Daniel Steinberg's unique sound sense and creativity are reflected throughout the song.
+As the song title suggests, "Joy & Happiness" is a song with the theme of joy and happiness, and is characterized by a groovy and danceable beat, a catchy melody, and a positive atmosphere. Daniel Steinberg's unique sound sense and creativity are reflected throughout the song.
 
 ""Joy & Happiness EP"' is a work that will appeal to fans of Daniel Steinberg"s music and lovers of house music.
 

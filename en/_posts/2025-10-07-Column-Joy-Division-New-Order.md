@@ -189,3 +189,14 @@ Even now, the city of Manchester continues to shine a pale light amidst the grey
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/th8A8m7_b1g?si=_fDn2ns93V6o2oNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQCbwU1gEa8?si=34hlwNFThtlHI6s7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

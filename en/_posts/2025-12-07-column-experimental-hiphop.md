@@ -192,7 +192,7 @@ This gave rise to a trend that focused on texture.
 
 - Poetry/philosophical usage.
 - Beats cross jazz/abstract/lo-fi.
-- High density and abstraction of words.
+- The density and abstraction of the words are high.
 
 ---
 

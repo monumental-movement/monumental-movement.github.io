@@ -23,7 +23,7 @@ Text: mmr｜Theme: Unraveling how algorithms have changed the structure of music
 Looking back at the history of music, the mechanics of hits have always changed due to technology.
 
 Radio was the first huge medium to bring music into homes in the early 20th century.
-After that, the recording industry distributed music around the world as a commodity.
+After that, the recording industry distributed music around the world as a product.
 With the advent of MTV in the 1980s, music transformed into a pop culture that was linked to images.
 
 However, in the 21st century, the distribution structure of music has changed even more.
@@ -120,7 +120,7 @@ Recommend different songs for each user.
 
 A typical example is Spotify's Discover Weekly.
 This feature, introduced in 2015,
-Generate a new playlist every week for each user.
+ユーザーごとに毎週新しいプレイリストを生成する。
 
 As a result, many artists
 without appearing on radio or television

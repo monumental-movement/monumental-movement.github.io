@@ -34,7 +34,7 @@ color: #fff;
 
 From the late 2010s to the 2020s, the landscape of electronic music has changed significantly. In the past, "club music" and "experimental music" were talked about in separate contexts, but since the streaming era, the line has rapidly become blurred.
 
-One person who symbolizes these changes in the times is the London-born musician :contentReference[oaicite:0]{index=0}.
+One person who symbolizes these changes in the times is a musician from London.
 
 Her music defies simple genre classification. IDM, ambient, grime, jazz, drum and bass, contemporary music, noise, field recording. They flow as one emotion without being divided into small pieces.
 
@@ -93,7 +93,7 @@ The city of London is always noisy. But within that noise, there is also lonelin
 
 Loraine James's early work has a thoroughly DIY feel.
 
-Sound produced in a limited environment, not with expensive studio equipment. Rather, its roughness functioned as an attractive feature.
+Sound produced in a limited environment, not with expensive studio equipment. Rather, its roughness served as an attractive feature.
 
 In the late 2010s, she began releasing her work mainly on Bandcamp and SoundCloud. This was a different trend from the traditional music industry. We live in an era where music reaches listeners directly, without going through major labels or specialized media.
 
@@ -129,9 +129,9 @@ From around this time, she avoided being talked about in the category of ""femal
 
 ## Encounter with Hyperdub
 
-A major turning point in Loraine James' career was her relationship with an important London label: contentReference[oaicite:1]{index=1}.
+A major turning point in Loraine James' career was her relationship with an important label in London.
 
-Hyperdub has been a driving force behind UK electronic music since the 2000s, with bands such as :contentReference[oaicite:2]{index=2} and :contentReference[oaicite:3]{index=3}.
+Hyperdub has released many cutting-edge artists such as Burial, Cooly G, and Laurel Halo, and has become one of the leading labels for UK electronic music since the 2000s.
 
 What makes this label special is that it doesn't just seek club functionality. Social, urban, experimental, emotional. There was a culture that valued these things.
 
@@ -139,7 +139,6 @@ Loraine James was naturally connected to that context.
 
 The album ""For You and I'' released in 2019 instantly boosted her popularity.
 
-:contentReference[oaicite:4]{index=4}
 
 Although this work was in a traditional IDM context, it was more personal and emotional. An extremely delicate melody coexisted within the finely fractured beat.
 
@@ -167,8 +166,6 @@ With this album, Loraine James began to be recognized as not just a newcomer, bu
 ## Maturity shown by ""Reflection''
 
 The album ""Reflection"' released in 2021 was a work that defined Loraine James"s musical maturity.
-
-:contentReference[oaicite:5]{index=5}
 
 This work maintains the roughness of the early years, but its compositional power has greatly improved.
 
@@ -203,15 +200,13 @@ In an era when club spaces were suspended, electronic music began to be redefine
 
 Loraine James was a symbol of that change.
 
-> ""Reflection'' was an important work that transformed electronic music into an inner experience.
+> ""Reflection'' was an important work that transformed electronic music into an internal experience.
 
 ---
 
 ## Whatever The Weather name and approach to ambient music
 
 Loraine James also performs under the alias Whatever The Weather.
-
-:contentReference[oaicite:6]{index=6}
 
 In this project, spatiality is more important than beats.
 

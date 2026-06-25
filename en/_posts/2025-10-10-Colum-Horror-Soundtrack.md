@@ -23,7 +23,7 @@ Jump scares are a thing of the past, and instead low frequencies, environmental 
 This was also an application of the psychoacoustic discovery that hearing affects the deeper psyche more directly than vision.
 
 Horror movies of this era not only gave fear, but also ""eroded"' the audience"s inner world through sound.
-At the center of this change were a new generation of production studios such as A24 and Blumhouse.
+At the center of this change was a new generation of production studios such as A24 and Blumhouse.
 
 ---
 
@@ -86,7 +86,7 @@ The design of the **negative acoustic space** shines, as the moment when no soun
 ---
 
 In the mid-2010s, the '80s horror sound made a comeback.
-In ["It Follows" (2014)](https://amzn.to/4mSiAaF), Disasterpeace visualizes the fear of being chased with cold synth-based arpeggios.
+In ['It Follows' (2014)] (https://amzn.to/4mSiAaF), Disasterpeace visualizes the fear of being chased with cold synth-based arpeggios.
 The track became popular in club culture, and served as an opportunity for retro synths to be reevaluated.
 
 [""The Guest"' (2014)](https://amzn.to/3WxUjvS) is a modern reinterpretation of John Carpenter"s electronic suspense.
@@ -134,7 +134,7 @@ It was a time when film music and club culture were intertwined in a strange way
 
 The unique horror sound is attracting attention in Asia as well.
 In [The Wailing (2016/Korea)](https://amzn.to/46NKuA5), folk ritual music blurs the line between fear and prayer.
-Japanese horror sound ──[Kenji Kawai ("Ring")](https://amzn.to/4h9avxd) and Hiroshi Takahashi"s methods—
+Japanese horror sound ── [Kenji Kawai ("Ring")](https://amzn.to/4h9avxd) and Hiroshi Takahashi"s method—
 It was passed down to the world as a **fear etiquette using silence and environmental sounds**.
 
 As Netflix titles consolidate the global market,
@@ -219,3 +219,15 @@ flowchart TD
 ### Related columns
 
 🔗 [Column] Media history of film music: How did sound get from the screen to the speakers? ](https://monumental-movement.jp/Column-Soundtrack)
+
+---
+
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oh2VO0DgVOk?si=z-EudwEKJXH6TlZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

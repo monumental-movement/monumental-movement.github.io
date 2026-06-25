@@ -21,7 +21,7 @@ title: '[Column] Cultural history of scat singing: The moment when the voice bec
 
 Text: mmr｜Theme: The cultural history of the birth, spread, and renewal of scat singing, where the voice becomes rhythm and melody beyond words.
 
-Scat singing is a vocal expression that temporarily distances itself from meaningful language and improvises using syllables and onomatopoeia. This method of treating the voice itself as an instrument through melody, rhythm, timbre, and phrasing has been much more than just a singing technique in the history of jazz. It was an act that updated the very questions ""What is a singer?" and ""What role does the voice play?"
+Scat singing is a vocal expression that temporarily distances itself from meaningful language and sings improvisationally using syllables and onomatopoeia. This method of treating the voice itself as an instrument through melody, rhythm, timbre, and phrasing has been much more than just a singing technique in the history of jazz. It was an act that updated the very questions ""What is a singer?" and ""What role does the voice play?"
 
 In early 20th century America, jazz was a music that was supported by the body and memory rather than sheet music. Improvisation was not an ornament, but a practice at the heart of music. Scat is a natural outcome of this improvisational nature that extends to the voice. By temporarily abandoning words that convey meaning, singers were able to stand on the same level as performers.
 
@@ -159,7 +159,7 @@ Scat ideas have become widespread, from the light vocal improvisations of bossa 
 
 ## Supplementary chapter: Scat for Japanese speakers
 
-The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered on vowels, has few consecutive consonants, and has clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
+The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered around vowels, with few consecutive consonants and clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
 
 In addition, Japanese vocalizations have a strong connection between meaning and sound, and it is easy to feel psychological resistance to uttering meaningless syllables. Scat requires the courage not to say the syllable, and this feeling may be easier for non-native speakers to acquire.
 

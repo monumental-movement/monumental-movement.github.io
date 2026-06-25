@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## 詩の朗読から始まる声の歴史
+## The history of voice begins with poetry reading
 
 ### Poetry before letters
 
@@ -50,7 +50,7 @@ Poetry was originally something that was ""spoken'' before it was written. In an
 
 ### Separation of modern poetry and recitation
 
-印刷技術の普及によって詩は紙の上に固定され、読む行為は視覚中心へと移行する。19世紀から20世紀初頭にかけて、詩の朗読は副次的なものとなり、作品はテキストとして評価される傾向が強まった。それでも詩人自身による朗読会は続き、声の重要性は完全には失われなかった。
+With the spread of printing technology, poetry became fixed on paper, and the act of reading shifted to a visual center. From the 19th century to the early 20th century, the recitation of poetry became secondary, and works increasingly tended to be evaluated as texts. However, readings by the poets themselves continued, and the importance of the voice was never completely lost.
 
 > Even in the era when poetry was established on paper, the voice continued to be another place for poetry.
 
@@ -144,7 +144,7 @@ With online distribution and network-based works, readings are not tied to a spe
 
 <div class="mermaid">
 graph LR
-A[ancient oral poetry] --> B[Printing of modern poetry]
+A[ancient oral poetry] --> B[modern printing of poetry]
 B --> C[1910s Dada audio poetry]
 C --> D[1950s beat reading]
 D --> E[1960s Sound art established]

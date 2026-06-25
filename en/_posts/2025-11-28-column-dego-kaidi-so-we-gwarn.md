@@ -76,7 +76,7 @@ Kaidi Tatham is a multi-instrumentalist, producer, and composer who is well vers
 
 ## Broken Beat scene and 2000Black
 
-Broken Beat is a product of the club culture that developed around West London. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught, and others pioneered the scene, and by freely combining elements of jazz, soul, funk, Latin, hip-hop, and house, they established a unique position as club music for adults.
+Broken Beat is a product of the club culture that developed around West London. Pioneers such as IG Culture, Bugz in the Attic, Neon Phusion, and Afronaught formed the scene, and by freely combining elements of jazz, soul, funk, Latin, hip-hop, and house, they established a unique position as club music for adults.
 
 <div class="mermaid">
 flowchart LR
@@ -117,7 +117,7 @@ This label functioned as a platform for pursuing "sound sculpture" as a creative
 
 ## Encounter between Dego & Kaidi and Sound Signature
 
-Dego & Kaidi's first release on Sound Signature was the 2015 12-inch EP "ADAM ROCK DISSED!!". This led to further collaboration between the two, and the full album ""A So We Gwarn'' was released in 2017. The collaboration between the two is the culmination of a long history spanning over 15 years, and has become a groundbreaking project that connects UK Broken Beat and Detroit house culture.
+Dego & Kaidi's first release on Sound Signature was the 2015 12-inch EP "ADAM ROCK DISSED!!". This led to further collaboration between the two, and the full album ""A So We Gwarn'' was released in 2017. The collaboration between the two is the culmination of a long history spanning over 15 years, resulting in a groundbreaking project that connects UK Broken Beat and Detroit house culture.
 
 This ""encounter" was not just a musical collaboration, but also an important attempt to ""reconstruct global black music." The album also features members of the 2000Black family, including Mr. Mensah, Nadine Charles, Sarina Leah, Yelfris Valdes, Ray Carless, and Wayne Francis, bringing together a diverse sound.
 

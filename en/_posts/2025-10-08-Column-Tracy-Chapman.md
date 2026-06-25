@@ -16,7 +16,7 @@ title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 
 ## "Speaking for the voiceless"
 
-Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
+Text: mmr｜Theme: Tracy Chapman is a rare artist who continues to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
 
 
 ""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
@@ -127,7 +127,7 @@ She cites gospel, soul, and folk singers as her musical influences, and has a st
 Live and recorded versions of "Talkin" "bout a Revolution" often use light reverb in the background, making the vocals and guitar blend into the space.
 In order to make use of the white space in the lyrics, excessive sounds are avoided and the mixing is conscious of the "pause". This idea is possible because her songs have a character that is similar to ""talking to people''.
 
-In addition, in terms of recording technology, equalization is often chosen to leave the contours of the mid-low range clear, without layering the vocals or guitar too thickly. This gives the listener the illusion that the voice is reaching them directly.
+In addition, in terms of recording technology, equalization is often chosen to leave the contours of the mid-low range clear, without layering the vocals and guitar too thickly. This gives the listener the illusion that the voice is reaching them directly.
 
 ---
 
@@ -177,7 +177,7 @@ Additionally, she rarely uses streaming, instead offering her works through CDs 
 ---
 
 ### ● Human relationships/friendship/public presence
-Chapman is known for not making many public appearances, but because of this, her interactions and relationships of trust with those involved and co-stars have supported her production background.
+Chapman is known for not making many public appearances, but because of this, the interaction and trusting relationships she has with her colleagues and co-stars have supported her production background.
 For example, there are reports that he is close friends with novelist Alice Walker, and that they had a relationship for a while, but he has not made the details of his private life public.
 
 Additionally, his performance of "Fast Car" at the 2024 Grammys symbolized his intergenerational musical connection with Luke Combs.
