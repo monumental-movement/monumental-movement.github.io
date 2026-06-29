@@ -180,3 +180,12 @@ Aphex Twinの音楽は、単なる実験ではない。それは、混沌と秩�
 > 混沌を制御すること、それ自体が現代における創造の核心である。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LE6AluXmN4A?si=K7YGxOFPmP5DRibN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

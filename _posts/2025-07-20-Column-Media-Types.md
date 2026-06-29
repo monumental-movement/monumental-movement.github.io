@@ -246,3 +246,14 @@ image: ../assets/images/column-media-types.webp
 Dolby Atmosは、ライブ演奏やフェス体験の再現、新たな表現手段として期待大
 
 そして、Dolby Atmosなどの空間オーディオ技術は「音楽体験の次なる革命」として急速に普及中。未来のリスニングは、単なる「聴く」から「その場にいるかのように感じる」へと進化を続けるだろう。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7ZQqCml5QY?si=SHW5sxrlbMMCk1T5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

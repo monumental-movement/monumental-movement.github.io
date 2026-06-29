@@ -117,6 +117,16 @@ Matmos は1990年代にサンフランシスコで結成され、サンプリン
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8r_PUMzo3Y?si=lE0hIf4gtDfqcBQW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ### 付録：現地コミュニティとイベント
 
 * [Bay Improviser](https://www.bayimproviser.com): ベイエリアの即興／実験コミュニティのキュレーションとカレンダー（運営の連絡先や月次イベント情報を掲載）。

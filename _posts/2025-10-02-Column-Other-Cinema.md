@@ -162,3 +162,13 @@ Craig Baldwinは、アンダーグラウンド映画の先駆者として、foun
 
 そして、「Other Cinema」は、サンフランシスコのミッション地区における映画文化の重要な拠点であり、アンダーグラウンド映画や実験映画の愛好者にとって、貴重な体験の場を提供しています。そのDVDコレクションは、映画の歴史や文化を深く理解するための重要な資料となっています。映画愛好者や研究者にとって、訪れる価値のある場所と言えるでしょう。
 
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3ljDnYtBYI?si=MhD3-IExGxV0Nb6J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+

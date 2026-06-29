@@ -121,9 +121,21 @@ A4: はい。特に戦闘シーンやクライマックスにおいて、力強�
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gWHNurv1cBk?si=YW6KEM1HE6ZoDGIB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ### 関連コラム
 
 
 🔗 [【コラム】 ハードロックとゲーム文化の交差史](https://monumental-movement.jp/Column-Hard-Rock-Game)
 
 🔗 [【コラム】 ハードロックと自動車文化：エンジン音が奏でるもう一つのロックンロール](https://monumental-movement.jp/Column-Hard-Rock-Car-Motorcyle)
+
+---
