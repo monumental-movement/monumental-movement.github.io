@@ -106,7 +106,7 @@ Doopees' works combine radio drama-like narratives, fragmented sounds, and sampl
 
 This method is directly connected to Yang Tomita's sampling philosophy. Sound is not simply arranged as a musical element, but is treated as an element that composes a story or situation. In other words, music and storytelling are integrated on the same level.
 
-Also, the pop surface of Dopeees does not hide his experimentalism, but rather serves as a device to highlight it. The project's uniqueness lies in the precise placement of sound fragments behind familiar melodies and voices.
+Moreover, the pop surface of Dopeees does not hide his experimentalism, but rather serves as a device to highlight it. The project's uniqueness lies in the precise placement of sound fragments behind familiar melodies and voices.
 
 >Doopees was an attempt to reconstruct the sound and story while borrowing from pop formats.
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Model diagram of musical structure
+## Model diagram of music structure
 
 ### Cycle of sampling and sound generation
 
@@ -223,5 +223,14 @@ The fusion of modular synths and sampling, and the perspective of their effects 
 
 > The core of his activities is an attempt to renew perception itself through sound.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-28U9W8SNCA?si=DA4tRiSyxUunEIoG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

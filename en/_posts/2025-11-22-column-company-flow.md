@@ -256,7 +256,7 @@ Eliminating rap, El-P's beat aesthetic comes to the fore.
 
 ### ● Expansion of experimentation
 
-* Eliminate DJ shouts
+* Eliminates DJ shout
 * BPM, structure, and number of layers are more complex than before
 * Increased electronic elements
 * Mixing Lo-Fi and Hi-Fi textures

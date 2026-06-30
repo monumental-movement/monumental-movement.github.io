@@ -44,7 +44,7 @@ Command Records clearly aimed at the market as an ""audio demonstration record,"
 
 - **Gatefold and Graphic Aesthetics**
 
-Command's LP covers were visually strong, sometimes featuring a cover by abstract artist Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
+Command's LP covers were visually strong, sometimes featuring a cover by abstract painter Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
 
 
 - **Promotional slogan: "You"ll be surprised the moment you hear it for the first time"**
@@ -109,7 +109,7 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 
 ### Musicians involved/artists produced
 
-In addition to conducting himself, Enoch Light used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
+In addition to conducting himself, Enoch Light also used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
 
 ---
 

@@ -192,7 +192,7 @@ This attitude gained support from many clubbers and DJs.
 
 ### Impact of 2018
 
-One of the events that made Sama" Abdulhadi"s name popular on a global scale was his appearance on Boiler Room in 2018.
+One of the events that made Sama" Abdulhadi"s name popular on a global scale was her appearance on Boiler Room in 2018.
 
 Boiler Room has been a pivotal distribution platform in club culture since the 2000s.
 
@@ -270,7 +270,7 @@ mindmap
       アンダーグラウンド文化
 </div>
 
-What is especially important is that he is devoted to ""making people dance.''
+What is particularly important is that he is devoted to ""making people dance.''
 
 In recent years, techno has tended to focus more on social media and visual production. However, her play is extremely physical and emphasizes physicality.
 
@@ -286,7 +286,7 @@ On the other hand, she is often treated as a political figure by the media.
 
 However, he was wary of being perceived as a simple political activist.
 
-What she repeatedly says is that ""music is the main focus.''
+What she repeatedly says is that ""music is the main thing.''
 
 Of course, being from Palestine, it is difficult to completely separate yourself from the political context.
 
@@ -345,7 +345,7 @@ graph TD
 A[Nabi MusaEvent] --> B[Backlash from conservatives]
 A --> C[Club culture support]
 B --> D[religious space debate]
-C --> E[freedom of expression discussion]
+C --> E[freedom of expression debate]
 D --> F[international coverage]
 E --> F
 </div>

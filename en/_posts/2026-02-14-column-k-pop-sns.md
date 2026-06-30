@@ -17,7 +17,7 @@ title: '[Column] Relationship between K-POP and SNS strategy | Why did it gain g
 
 ## Why is K-POP so popular? - Success factors seen from the structure
 
-Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy
+Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy based on facts
 
 ### K-POP as a "system" that transcends music genres
 

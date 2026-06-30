@@ -66,7 +66,7 @@ It is precisely because of this reality that the story takes on the quality of a
 
 In this work, "night" is not just a time period. It is a stage set and a state of mind itself.
 
-The city at night has anonymity. Everyone becomes nobody and is freed from their day-to-day social roles. Titles, occupations, pasts, everything is temporarily invalidated.
+The city at night has anonymity. Everyone becomes nobody and is freed from their social roles during the day. Titles, occupations, pasts, everything is temporarily invalidated.
 
 Among them, the only one left is "me".
 

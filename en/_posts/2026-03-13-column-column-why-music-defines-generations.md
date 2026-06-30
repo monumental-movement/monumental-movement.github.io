@@ -31,7 +31,7 @@ A medium is needed to fix the emotions of the event in memory.
 Music has played the strongest role in this.
 
 Music is an art that is connected to time, and at the same time it is accompanied by emotion.
-Many people have experienced the phenomenon of instantly reliving the scenery and emotions of a certain era the moment they hear a particular song.
+Many people have experienced the phenomenon of instantly reliving the scenery and emotions of a certain era when they hear a particular song.
 
 This memory system has turned music into a symbol of a generation.
 

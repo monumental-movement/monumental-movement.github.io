@@ -53,7 +53,7 @@ This period also saw the rise of indie labels, appearances at international fest
 - **Merzbau**: While moving from analog equipment to laptop noise, it reflects animal rights and vegetarianism.
 - **Firefighter**: An existence that blurs the line between "noise band" and "performance art."
 - **Boredoms**: Fusing psychedelic and noise, influencing the American alternative scene.
-- **Melt-Banana**: "Nano Core" combines hardcore speed and noise texture.
+- **Melt-Banana**: "Nano Core" combines the speed of hardcore and the texture of noise.
 
 ---
 

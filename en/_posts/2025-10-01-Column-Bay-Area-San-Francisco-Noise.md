@@ -97,7 +97,7 @@ The Bay Area is home to indie festivals like Noise Pop and improvisational/exper
 
 * [**Matmos**](https://amzn.to/43iSp60) — A duo that has received international acclaim for their sampling/conceptual works. It will also be connected to contemporary music and art museums.
 
-* **ローカル即興／ノイズ・ネットワーク** — Bay Improviser のようなコミュニティが現場を維持・更新している。
+* **Local Improvisation/Noise Network** — Communities like Bay Improviser maintain and update the field.
 
 ---
 
@@ -124,6 +124,16 @@ Noise/experimental music in the Bay Area is constantly being updated as an act o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8r_PUMzo3Y?si=lE0hIf4gtDfqcBQW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Appendix: Local communities and events
 

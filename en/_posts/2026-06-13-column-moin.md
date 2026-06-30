@@ -68,7 +68,7 @@ The minimal techno structure of the Raime era exists only as "reverberation" in 
 
 As a result, listeners focus on the "unpredictability" rather than the groove.
 
-> Raime"s space is broken down into Moin"s fragments, and music transforms from a construct to a phenomenon.
+> Raime"s space breaks down into Moin"s fragments, and music transforms from a construct to a phenomenon.
 
 ---
 
@@ -88,7 +88,7 @@ Magaletti's signature lies in the middle ground, neither completely improvised n
 
 This ambiguous control state governs the overall sound image of Moin.
 
-> Drums do not play a rhythm, but function as a device that visualizes the fluctuations of time itself.
+> Drums do not beat the rhythm, but function as a device that visualizes the fluctuations of time itself.
 
 ---
 

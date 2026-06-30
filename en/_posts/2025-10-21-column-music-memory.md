@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Memory and Rhythm — Music as a "structure of time"
+## 第1章：記憶とリズム — 「時間の構造」としての音楽
 
 The most fundamental structure of music is **rhythm**.
 Rhythm is the order of time, and through repetition it brings the past back into the present.
@@ -180,7 +180,7 @@ flowchart TD
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]
-    D --> F[emotional reaction]
+    D --> F[emotional response]
     E --> G[Re-experiencing the past through music]
     F --> G
     G --> H[Generation of nostalgia]

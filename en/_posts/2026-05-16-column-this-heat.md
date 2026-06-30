@@ -147,7 +147,7 @@ There were very few rock bands in the late 1970s that integrated recording and e
 
 1979's self-titled album This Heat occupies a unique place in post-punk history.
 
-This album doesn't have the stability of a normal rock album.
+This album doesn't have the stability that a normal rock album has.
 
 The album unfolds as a kind of disturbing collage, a series of short snippets, noises, tape edits, repetitions, ambient sounds, and disconnected rhythms.
 

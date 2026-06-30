@@ -194,7 +194,7 @@ Rather, that choice becomes a means of restoring human freedom.
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy dome is not a helmet that closes off the future.
-**It may be an icon for us to once again have the freedom to choose.**
+**Perhaps it is an icon for us to once again have the freedom to choose.**
 ---
 
 ## Related materials/references

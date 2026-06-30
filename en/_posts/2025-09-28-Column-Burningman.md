@@ -264,7 +264,7 @@ A theme that explores the conflicting axes of hope and fear. There were structur
 
 A theme that reconsiders the relationship between nature and civilization. A composition based on the motif of the "Green Man" (an anthropomorphic figure of plants and naturally occurring plants).
 
-However, in that year, his burning art ""Crude Awakening,'' which imitated a giant oil rig, caused controversy and was criticized.
+However, in that year, his burning art ""Crude Awakening'', which imitated a giant oil rig, caused controversy and was criticized.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -272,7 +272,7 @@ However, in that year, his burning art ""Crude Awakening,'' which imitated a gia
 
 #### 2008: American Dream
 
-American Dream/Question for consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
+American Dream/Questions about consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
 
 ---
 

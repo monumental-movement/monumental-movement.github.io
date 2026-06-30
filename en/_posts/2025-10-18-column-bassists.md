@@ -22,7 +22,7 @@ Text: mmr｜Theme: "Bass philosophy" that permeates the world and Japanese bassi
 
 We are often captivated by melodies.
 However, the moment when we "feel" music is always in the bass tones resonating deep within our bodies.
-When the subwoofer in a club shakes the air, or when a heart-pounding hit at a live house,
+When the subwoofer in a club shakes the air, or when a hit hits your chest at a live house,
 At the center of this is an invisible gravity called the "base."
 
 ---
@@ -126,7 +126,7 @@ What he established was the aesthetic of ""grooving in Japanese.''
 ---
 
 Hironori Ito of Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-They have created a world-class sound between popular songs and AOR.
+They have created a sound that connects the world between popular songs and AOR.
 The bass guitar no longer played a role behind the scenes, but became an element that supported the "dignity" of music.
 
 ---
@@ -146,7 +146,7 @@ It blurred the line between club culture and live music.
 ---
 
 The delicate bass sounds of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ""breathing stillness.''
+There is not a scream, but a ""breathing stillness''.
 
 ---
 

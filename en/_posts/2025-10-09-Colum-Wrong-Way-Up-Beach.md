@@ -163,7 +163,7 @@ And in our hearts, we continue to quietly draw a **unseen beach**.
 
 | Artist/Work | Year | Notes | Link |
 |------------------|----|--------------|
-| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic clarity. | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic transparency. | [Amazon](https://amzn.to/48mDETk) |
 | The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithless and more participate. Music of the sea and solitude. | [Amazon](https://amzn.to/47mrub1)
 
 ---

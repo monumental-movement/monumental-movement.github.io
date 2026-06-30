@@ -17,7 +17,7 @@ title: '[Column] YHWH Nailgun: The critical point of contemporary alternative re
 
 ## Introduction: "Sounds that are difficult to name" outside the genre
 
-Text: mmr｜Theme: YHWH Nailgun's musical characteristics and background, scene context, and expression structure
+Text: mmr | Theme: YHWH Nailgun's musical characteristics and background, scene context, and expression structure
 
 YHWH Nailgun is often talked about as having a musicality that doesn't fit into conventional rock or noise classification systems.
 While maintaining the basic composition of guitar, drums, and vocals, the sound intentionally disrupts the stability of rhythm and tonality, presenting a fragmented structure.

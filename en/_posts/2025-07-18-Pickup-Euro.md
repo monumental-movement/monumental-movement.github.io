@@ -416,7 +416,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>Masterboy</td>
 <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
 <td>CD</td>
-<td>1994 German Eurodance Masterpiece</td>
+<td>1994 German Eurodance masterpiece</td>
 </tr>
 <tr>
 <td>VA</td>

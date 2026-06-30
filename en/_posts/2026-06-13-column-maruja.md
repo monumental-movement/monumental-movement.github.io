@@ -77,7 +77,7 @@ D --> E[temporary collapse]
 E --> F[rebuilt groove]
 </div>
 
-> Marujaのサウンドは完成形ではなく、常に“生成途中の状態”として提示される
+> Maruja's sound is always presented as a "state of creation" rather than a finished product.
 
 ---
 

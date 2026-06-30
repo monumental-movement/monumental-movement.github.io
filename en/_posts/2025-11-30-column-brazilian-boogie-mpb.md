@@ -200,3 +200,11 @@ The sophisticated groove, urban theme, and warmth of analog recording offer new 
 ---
 
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVNtRYzJyyU?si=ZJzsdBhoNAWwu1_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

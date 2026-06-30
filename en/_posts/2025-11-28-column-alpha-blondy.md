@@ -23,7 +23,7 @@ title: '[Column] Alpha Blondy and apartheid: the message of freedom and resistan
 
 ## Introduction
 
-Text: mmr｜Theme: Alpha Blondy's life, musical characteristics, relationship with apartheid, analysis of each album, local reactions, and the impact his music had on society.
+Text: mmr｜Theme: Alpha Blondy's life, musical characteristics, relationship with apartheid, analysis of each album, local reactions, and the impact of his music on society.
 
 
 Ivorian reggae artist **Alpha Blondy** has been active internationally since the late 1970s, and has made it his life's work to convey social and political messages in his music.

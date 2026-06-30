@@ -51,7 +51,7 @@ color: #fff;
 
 ### The end of high economic growth and the transformation of society
 
-In the 1970s, Japan was nearing the end of its period of rapid economic growth that had continued since the war. Cities were developing rapidly, living standards were improving, and many people were beginning to feel a sense of "affluence." However, on the other hand, society as a whole is becoming more homogenized, and individual values ​​and freedoms are gradually being suppressed.
+In the 1970s, Japan was nearing the end of its period of rapid economic growth that had continued since the war. Cities were developing rapidly, living standards were improving, and many people were beginning to feel affluence. However, on the other hand, society as a whole is becoming more homogenized, and individual values ​​and freedoms are gradually being suppressed.
 
 The student movement, which reached its peak in the late 1960s, rapidly subsided in the 1970s. The political enthusiasm that had temporarily increased due to security struggles and university disputes stalled due to setbacks, leaving many young people with nowhere to go.
 
@@ -85,7 +85,7 @@ While Happy End, who were active at the same time, presented a sophisticated for
 
 Chabo's staging left a strong impression on the audience. Rather than "singing" the lyrics, he expressed them using his entire body. Their appearance completely deviated from the conventional framework of popular songs and folk music.
 
-The band's performance as a whole was also extremely unstable, creating a unique sense of tension. Tempo fluctuations, pitch instability, sudden stops—all were part of the live performance.
+The band's performance as a whole was also extremely unstable, creating a unique sense of tension. Tempo fluctuations, pitch instability, sudden stops—all were part of the live show.
 
 Although this type of expression was considered immature by the mainstream music of the time, it also had a strong sense of reality. It was not complete music, but a sound that only existed ""in this moment.''
 
@@ -101,7 +101,7 @@ Ostracism rarely appeared in mass media such as television or radio. This was no
 
 The music industry at the time consisted mainly of folk and popular songs, with an emphasis on message quality and friendliness. The music of ostracism did not fit into either of these categories.
 
-As a result, there were very few opportunities for their work to be recorded, and their lives were passed down primarily through live experiences. This ""lack of records'' would greatly contribute to the mythologizing in later years.
+As a result, there were very few opportunities for their work to be recorded, and their lives were passed down primarily through live experiences. This "lack of records" would greatly contribute to the mythization of the story in later years.
 
 > Precisely because they are invisible, their existence is amplified by imagination.
 
@@ -184,9 +184,17 @@ In the 1970s, ostracism had a strong presence from outside society. Although the
 
 The sense of alienation that arose on the backside of high economic growth, the opposition to homogenization, and the search for individual expression. All of these are condensed into the existence of ostracism.
 
-They were not at the center of history. However, the sound that was coming from somewhere off center spoke of another reality of the times.
+They were not at the center of history. However, the sound that was echoing in a place far from the center spoke of another reality of the times.
 
 > The sound of ostracism is a record of those who did not fit into society, and that non-conformity was what gave them value.
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/55Bud0-0GMU?si=1ruLeANPZ_9OCeX3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

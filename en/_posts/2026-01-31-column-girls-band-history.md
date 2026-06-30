@@ -45,9 +45,9 @@ color: #fff;
 
 ## 1950–60s: The eve of rock and the emergence of women's ensembles
 
-In the 1950s, rock and roll was born in the United States, and the band form became the center of youth culture. On the other hand, female musicians at the time were often in the forefront as singers, and the performance was generally performed by men. One group that emerged as an exception was an all-female group that played musical instruments.
+In the 1950s, rock and roll was born in the United States, and the band form became the center of youth culture. On the other hand, female musicians at the time often came to the fore as singers, and the performance was generally performed by men. One group that emerged as an exception was an all-female group that played musical instruments.
 
-The Shirelles and the Ronettes, which appeared in 1964, were technically vocal groups, but as a female-dominated collective they had a strong influence on their successors. Eventually, in the late 1960s, the sight of women picking up guitars and drums gradually became visible on the West Coast of the United States and in England.
+The Shirelles and the Ronettes, which appeared in 1964, were technically vocal groups, but as a female-dominated collective they had a strong influence on their successors. Eventually, in the late 1960s, women began to be seen picking up guitars and drums on the West Coast of the United States and the United Kingdom.
 
 <div class="mermaid">
 flowchart LR

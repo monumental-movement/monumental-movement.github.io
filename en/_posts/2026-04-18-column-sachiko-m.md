@@ -106,7 +106,7 @@ Her style is associated with a trend called "reductionism." This is an approach 
 
 ### Redefining improvisation
 
-Normally, improvisation means ""instantaneous creation," but in Sachiko M's case, it appears as ""the act of continuing to choose not to change anything."
+Normally improvisation means ""instantaneous creation," but in Sachiko M's case, it appears as ""the act of continuing to choose not to change anything."
 
 > Improvisation is not about change, but also about choosing continuity.
 
@@ -257,7 +257,7 @@ Even when the same sound is playing, the experience varies greatly depending on 
 flowchart LR
     A[sine wave] --> D[Interference in space]
     B[Other musical instruments subtle sounds] --> D
-    D --> E[roar]
+    D --> E[うなり]
     D --> F[phase difference]
     D --> G[accidental rhythm]
     E --> H[unpredictable perception]
@@ -419,7 +419,7 @@ Sound, like visual works, becomes a device for manipulating the consciousness of
 
 ### Non-temporal structure
 
-It"s hard to feel a clear beginning or end to Sachiko M"s music. Time is not linear, but is experienced as a stagnant or expanded state.
+It"s hard to feel a clear beginning or end to Sachiko M"s music. Time is not experienced as linear, but as a stagnant or expanded state.
 
 ### Changes in listening experience
 

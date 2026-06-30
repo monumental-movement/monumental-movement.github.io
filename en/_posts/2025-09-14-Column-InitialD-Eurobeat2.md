@@ -188,7 +188,7 @@ Car sound: ▒▒▒▒▒▒→ GT-R acceleration sound </div>
 | 1980s | Italo Disco, Hi-NRG | Den Harrow, Fancy | Origin of Eurobeat |
 | 1990s | Avex Eurobeat golden age | Dave Rodgers, Max Coveri | Initial D soundtrack |
 | 2000s | Internet spread, parapara culture | Niko, Domino | Combining with game and anime culture |
-| 2010s | Memeization, revival | Internet memes (Deja Vu) | Renewed attention worldwide |
+| 2010s | Meme, revival | Internet memes (Deja Vu) | Worldwide refocus |
 | 2020s | EDM / Synthwave fusion | Current DJs, Producers | Toward a new sound |
 
 ---
@@ -223,9 +223,9 @@ Drift : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (slip sound) </div>
 Even now, nearly 20 years after "Initial D" ended, Eurobeat continues unabated.
 It is music that travels through mountain passes, music that travels through the internet, and music that accelerates memory and the body.
 
-After all, Eurobeat is not just a genre name.
+結局、ユーロビートは単なるジャンル名ではなく——  
 **"A device for storing speed itself as music"**
-I think it is functioning as a.
+として機能しているのではないだろうか。  
 
 Every time you press the play button, that curve is waiting for you.
 

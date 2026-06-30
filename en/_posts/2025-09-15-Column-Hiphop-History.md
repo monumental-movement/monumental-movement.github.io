@@ -332,7 +332,7 @@ Bass: ▂▄▅▄▂
 </tr>
 <tr>
 <td>
-- Akai MPC60
+-Akai MPC60
 -Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909

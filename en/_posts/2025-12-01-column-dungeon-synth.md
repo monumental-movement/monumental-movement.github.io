@@ -202,7 +202,7 @@ Adding a roughness of about 8 to 12 bits will enhance the 90's feel.
 Many artists actually record their songs onto cassettes.
 
 ### ■ EQ processing
-- **Remove low (below 100Hz)** → Towards monaural/old equipment feel
+- **Remove low (below 100Hz)** → Towards monaural/old equipment texture
 - **Remove high frequencies (above 6-8kHz)** → Remove digital odor
 
 ### ■ Reverb

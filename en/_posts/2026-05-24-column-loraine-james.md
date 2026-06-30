@@ -159,7 +159,7 @@ E --> F[For You and I]
 
 With this album, Loraine James began to be recognized as not just a newcomer, but as someone who would update contemporary electronic music.
 
-> Her encounter with Hyperdub catapulted Loraine James from local talent to global figure.
+> Her encounter with Hyperdub catapulted Loraine James from a local talent to a global figure.
 
 ---
 
@@ -200,7 +200,7 @@ In an era when club spaces were suspended, electronic music began to be redefine
 
 Loraine James was a symbol of that change.
 
-> ""Reflection'' was an important work that transformed electronic music into an internal experience.
+> ""Reflection'' was an important work that transformed electronic music into an inner experience.
 
 ---
 

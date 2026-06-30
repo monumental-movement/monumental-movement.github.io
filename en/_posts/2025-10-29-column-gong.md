@@ -17,7 +17,7 @@ title: '[Column] Gong legend: era, myth, sound and community'
 ## 1. Introduction: Musician as Scientist
 
 
-Text: mmr｜Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
+Text: mmr | Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
 
 > "We were a flying teapot sailing through the revolution."
 > ― Daevid Allen
@@ -167,7 +167,7 @@ Even after Allen passed away in 2015, Gong continues to live on as a "regenerati
 ## Chapter 8 The world of Gong mythology—Characters, iconography, and worldview {#chapter8}
 
 Gong is a comprehensive art that integrates music, mythology, and art.
-Centering around the Radio Gnome trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
+Centering around the Radio Gnomes trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
 
 Below is a diagram showing its symbolic structure:
 

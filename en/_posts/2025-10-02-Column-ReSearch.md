@@ -135,3 +135,14 @@ Experimental groups such as Survival Research Laboratories and Other Cinema gath
 
 V. Vale's RE/Search is more than just a magazine; it is a historical archive of subculture, and a cultural heritage that cross-cuts music, film, and art. He continues to explore a wide range of fields, from industrial to modern primitives, from cult films to cyberpunk, and his influence continues to ripple all over the world.
 For researchers and underground culture enthusiasts, RE/Search is a must-read.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V4ore94XlEI?si=qEhbBEubxYR1bUeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

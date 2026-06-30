@@ -21,7 +21,7 @@ title: '[Column] Why does AKIRA still sound like the sound of the future? — Av
 
 Text: mmr｜Theme: Why AKIRA still sounds like the "sound of the future"—Prophecies about the city and the body drawn by avant-garde folk sounds
 
-In 1988, an animated film was released from Japan, which was in the midst of the bubble economy. The original work is by Katsuhiro Otomo. The music is by Shoji Yamashiro, who leads the entertainment Yamashiro group. The name of the work is AKIRA.
+In 1988, an animated film was released from Japan, which was in the midst of the bubble economy.原作は大友克洋。 The music is by Shoji Yamashiro, who leads the entertainment Yamashiro group. The name of the work is AKIRA.
 
 Even though it's been nearly 40 years since its release, the sound of this movie never gets old. In fact, in recent years, with the resurgence of cyberpunk, the context of ""Why AKIRA Still Sounds Future'' has become stronger.
 
@@ -56,11 +56,11 @@ The original manga ""AKIRA'' began serialization in 1982, and the story unfolds 
 
 The story is set in Neo Tokyo in 2019. Military experiments, anti-government demonstrations, motorcycle gangs, and the development of supernatural powers. It depicts the collapse and rebirth of a city, strongly reflecting the atmosphere at the end of the Cold War.
 
-The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental, religious sound rather than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
+The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental and religious sound than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
 
 ### Positional relationship with Cyberpunk
 
-AKIRA is often ranked as a masterpiece of cyberpunk. Blade Runner came out in 1982, six years before the movie was released. This one depicts urban decadence using Vangelis's synth sounds.
+Akira is often ranked as a masterpiece of cyberpunk. Blade Runner came out in 1982, six years before the movie was released. This one depicts urban decadence using Vangelis's synth sounds.
 
 On the other hand, AKIRA did not express the future only with electronic sounds. Rather, it brought to the fore ethnic, ritual, and physical sounds, sounding technology and magic at the same time.
 
@@ -88,7 +88,7 @@ In producing AKIRA's music, they applied actual vocal techniques and percussion 
 
 The opening song ""Kaneda'' is symbolic. Drums, choruses, and communicative vocalizations. The beats are not simple four-beat beats, but are layered with complex rhythms.
 
-### 電子音と民族音の融合
+### Fusion of electronic and folk sounds
 
 AKIRA's soundtrack combines ethnic elements and synthesizers. However, electronic sounds are not the main character. It only functions as a space expansion device.
 
@@ -116,7 +116,7 @@ D --> E[A sense of the future that transcends time axis]
 
 The motorcycle chase at the beginning of the movie is more than just an action scene. The emphasis on rhythm, synchronization with the sound of the engine, and the beat of the drums create physical excitement.
 
-Sound does not follow vision, but instead represents the heartbeat of the body. The audience unconsciously synchronizes with the rhythm.
+Sound does not follow vision, but instead represents the heartbeat of the body. The audience subconsciously synchronizes with the rhythm.
 
 ### Tetsuo's transformation and sound
 

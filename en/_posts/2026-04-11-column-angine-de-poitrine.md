@@ -101,7 +101,7 @@ This ""time lag between formation and establishment'' shows that their music was
 
 Although Angine de Poitrine's music is based on math rock, it is distinctive in that it actively incorporates microtonal elements. It uses pitches that deviate from the standard 12-temperament temperament and non-standard tuning, creating a unique instability.
 
-In terms of rhythm, complex meters and polyrhythms are often used, and the structure has both regularity and disruption. As a result, the listener's expectations are constantly being betrayed.
+In terms of rhythm, complex time signatures and polyrhythms are often used, and the structure has both regularity and disruption. As a result, the listener's expectations are constantly being betrayed.
 
 <div class="mermaid">
 flowchart LR
@@ -156,7 +156,7 @@ D --> E[international attention]
 E --> F[tour]
 </div>
 
-This flow indicates a contemporary structure in which evaluations in the underground scene are globally connected.
+This flow points to a contemporary structure in which evaluations in the underground scene are globally connected.
 
 > We have entered an era where local activities are instantly connected to the world.
 
@@ -210,7 +210,7 @@ Their presence shows that the possibilities of music are still expanding.
 
 ### Reinterpretation of the angina metaphor
 
-Angine pectoris, as implied by the name Angine de Poitrine, has been reinterpreted as a metaphor for the feeling of pressure and tension, rather than just a physical symptom.
+Angine pectoris, as implied by the name Angine de Poitrine, is not just a physical symptom, but has been reinterpreted as a metaphor for the feeling of pressure and tension.
 
 Their music appeals to the listener not through stability and pleasure, but through instability and tension. The experience is by no means easy, but at the same time it leaves a strong impression.
 

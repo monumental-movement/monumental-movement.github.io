@@ -16,9 +16,9 @@ title: Gigolo Supreme – After The Storm
 
 "Gigolo Supreme – After The Storm" is a classic house music 12-inch single released by Nervous Records in 1996 and produced by Frankie Feliciano.
 
-Characterized by a fusion of jazz and house, it has a smooth and groovy sound. The ""Vinyl Saturday Mix,'' which features saxophone, keyboards, and powerful drums, is especially popular and is loved by jazz house and acid jazz fans.
+Characterized by a fusion of jazz and house, it has a smooth and groovy sound.サックスやキーボード、力強いドラムが織りなす"Vinyl Saturday Mix"は特に人気で、ジャズハウスやアシッドジャズのファンに愛されています。
 
-More than 20 years later, this song is still a favorite among DJs and house music lovers, and is considered perfect for rocking a party or chilling out.
+この曲は、20年以上経った今もDJやハウスミュージック愛好者に重宝され、パーティーの盛り上げやチルアウトに最適とされています。
 
 #### Tracklist
 ```md

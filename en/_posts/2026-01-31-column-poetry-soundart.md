@@ -144,7 +144,7 @@ With online distribution and network-based works, readings are not tied to a spe
 
 <div class="mermaid">
 graph LR
-A[ancient oral poetry] --> B[modern printing of poetry]
+A[ancient oral poetry] --> B[Printing of modern poetry]
 B --> C[1910s Dada audio poetry]
 C --> D[1950s beat reading]
 D --> E[1960s Sound art established]
@@ -198,7 +198,7 @@ When collaborating with sound art, improvisational vocalizations and reactions a
 
 ---
 
-## Expanded Chapter 3 Language Barriers and Multilingual Reading
+## Expanded Chapter 3 Language barriers and multilingual reading
 
 ### A voice that transcends meaning
 

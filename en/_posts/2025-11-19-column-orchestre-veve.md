@@ -116,7 +116,7 @@ Compared to ZAïko"s single-line music and OK Jazz"s deep harmony-based music, V
 
 ## Rhythm section innovation
 
-Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
+Veve's rhythm section has a distinctive bounce. The hi-hat does not strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
 
 ---
 
@@ -132,7 +132,7 @@ Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carv
 - **Bass: Repeat descending line → rising line every 4 bars**
 - **Mixing: vocals in the center, guitars separated to left and right**
 
-### Characteristics of rhythm
+### Rhythm characteristics
 
 <div class="mermaid">
 
@@ -152,7 +152,7 @@ graph TD
 
 ### Technical analysis
 
-* **Saxophone presents melody at the beginning → Guitar imitates**
+* **The saxophone presents the melody at the beginning → the guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
 * **Linear, high-pitched guitar solo**
 
@@ -201,7 +201,7 @@ flowchart LR
 # Chapter 7 Recording technology, studio environment, production system
 
 Veve's recording environment was one of the most advanced in Africa at the time.
-It had its own studio and multiple recording engineers were always present, and had the following technical characteristics.
+It had its own studio, had multiple recording engineers on staff, and had the following technical characteristics:
 
 - **Quickly take advantage of the transition period from 2-4 track recording to 4-8 track recording**
 - **Stereo method of swinging the guitar left and right**

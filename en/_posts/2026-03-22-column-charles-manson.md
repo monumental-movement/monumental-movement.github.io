@@ -110,7 +110,7 @@ This setback pushed his ideas in a more extreme direction.
 
 ### Interpretation of "Helter Skelter"
 
-Manson created his own interpretations of the songs on The White Album. In particular, he reinterpreted the phrase "Helter Skelter" as a symbol of racial war and made it central to his own apocalyptic ideology.
+Manson created his own interpretations of the songs on The White Album. In particular, he reinterpreted the phrase "Helter Skelter" as a symbol of racial war and made it central to his apocalyptic ideology.
 
 This interpretation was entirely his own and had no relation to reality. However, within a closed community, it functioned as the only truth.
 
@@ -167,7 +167,7 @@ graph TD
 
 ## Media and Mythologization
 
-The Manson incident is being consumed not just as a crime, but as a ""story''. Newspapers, television, and books depicted him as a symbol of evil, and his image expanded.
+The Manson incident is being consumed not just as a crime, but as a ""story.'' Newspapers, television, and books depicted him as a symbol of evil, and his image expanded.
 
 At the same time, his existence came to be talked about as a kind of myth, and influenced culture such as music and movies.
 

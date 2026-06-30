@@ -115,7 +115,7 @@ E --> F[Exotica is popular in the US]
 
 ### What it means to not be "authentic"
 
-Exotica is often criticized as ""fake folk music.''
+Exotica is often criticized as ""fake folk music''.
 
 In fact, Martin Denny's music was not Hawaiian music itself, but a mixture of images from multiple regions such as Southeast Asia, Africa, Latin, and Polynesia.
 
@@ -213,7 +213,7 @@ Instead of pushing the rhythm forward, let it blend into the space.
 
 This feeling has become an extremely important concept in modern electronic music.
 
-### Silence Music
+### Silence music
 
 When I listen to Martin Denny's work again, I realize that it is very "quiet music".
 
@@ -229,7 +229,7 @@ It can be said that Martin Denny was making "music that functions as a space" ev
 
 <div class="mermaid">
 flowchart TD
-A[vibraphone] --> D[Floating feeling]
+A[vibraphone] --> D[floating feeling]
 B[percussion] --> E[environmental soundization]
 C[Reverberation processing] --> F[Space production]
 D --> G[immersive feeling]

@@ -101,7 +101,7 @@ It"s a feeling of nostalgia for a time you haven"t experienced yet.
 
 For example, a generation that did not know about the 1990s
 
-* VHS picture quality
+*VHS picture quality
 * Windows 95 interface
 * Old commercial music
 * mall music

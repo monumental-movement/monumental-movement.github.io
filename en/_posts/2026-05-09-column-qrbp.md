@@ -114,7 +114,7 @@ Formed in the Saguenay region of Quebec. It is a rural area that is far from urb
 
 This regionality was extremely important in understanding their music.
 
-Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. QRBP's music is deeply engraved with this atmosphere.
+Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. This atmosphere is deeply engraved in QRBP's music.
 
 In the early days, they weren't as well-known as they are today.
 

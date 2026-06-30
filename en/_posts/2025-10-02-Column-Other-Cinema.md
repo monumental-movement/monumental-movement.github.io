@@ -71,7 +71,7 @@ Craig Baldwin is an experimental filmmaker who heads San Francisco's ""Other Cin
 
 ### Craig Baldwin's masterpiece filmography
 
-Below, we have listed Baldwin's major works by year.
+Below, Baldwin's major works are listed by year.
 
 #### 1990s
 
@@ -167,5 +167,15 @@ As a pioneer of underground film, Craig Baldwin has sharply criticized political
 
 His work continues to expand the range of cinematic expression and offer audiences new perspectives. Baldwin's work is a must-see for film lovers and researchers, and his work should continue to be watched.
 
-Other Cinema is an important hub of film culture in San Francisco"s Mission District, providing a rare experience for lovers of underground and experimental film. Its DVD collection is an important resource for deeply understanding film history and culture. It"s definitely a place worth visiting for movie buffs and researchers.
+Other Cinema is an important hub of film culture in San Francisco's Mission District, providing a rare experience for lovers of underground and experimental film. Its DVD collection is an important resource for deeply understanding film history and culture. It is definitely a place worth visiting for film lovers and researchers.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3ljDnYtBYI?si=MhD3-IExGxV0Nb6J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 

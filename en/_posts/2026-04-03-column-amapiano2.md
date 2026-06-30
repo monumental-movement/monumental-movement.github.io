@@ -9,7 +9,7 @@ layout: post
 tags:
 - Amapiano
 - South Africa
-- Clture
+- Culture
 title: '[Column] Why is AMAPIANO popular all over the world?'
 ---
 
@@ -23,11 +23,11 @@ A low sinking bass, a slow groove, and a rhythm that gives you the feeling of a 
 
 This genre wasn't "discovered" explosively. Rather, it gradually spread as if seeping out from underground, and at a certain point it turned into "a sound that is already everywhere."
 
-Why has Amapiano become so popular? There is no single answer. Urban history, sound design, physicality, and the diffuse structure of the digital age. All of them are intertwined.
+Why has Amapiano become so popular? There is no single answer. Urban history, sound design, physicality, and the diffuse structure of the digital age.そのすべてが絡み合っている。
 
 Here, we will break down the structure one by one.
 
-> Amapiano did not suddenly appear, but was a sound that spread around the world through the overlap of multiple cultural layers.
+> アマピアノは突然現れたのではなく、複数の文化層が重なり合って世界に広がった音だった
 
 ---
 
@@ -71,7 +71,7 @@ It was a culture where ""sharing'' itself was valued more than commercial optimi
 
 ## The magic of log drums
 
-### The sound itself defines the genre
+### 音そのものがジャンルを定義する
 
 The most distinctive element of the Amapiano is its unique low tone called the log drum. This sound is more than just a bass. It is a ""moving center of gravity'' that is responsible for both melody and rhythm.
 
@@ -91,7 +91,7 @@ In other words, the lack of sound is not a "lack" but a "design."
 
 The sound of a log drum requires no language. In any region, the ""feeling of bass'' is intuitively understood.
 
-This non-verbal nature was one of the important factors that pushed Amapiano to the world.
+この非言語性が、アマピアノを世界へと押し出した重要な要因のひとつとなった。
 
 > The log drum was a device that transformed amapiano from a mere genre to an experience.
 
@@ -127,9 +127,9 @@ By being shared through the body, Amapiano changes from something you listen to 
 
 The structure of the Amapiano lends itself well to short clips. Distinctive drops, repeats, and instantly recognizable sounds.
 
-This creates a situation in which you can ""know what song it is'' even if the video is only a few seconds long.
+これにより、数秒の動画でも「何の曲か分かる」状態が生まれる。
 
-### Viral chain
+### バイラルの連鎖
 
 When one dance video becomes a hit, a chain reaction of videos imitating it increases. This repetition accelerates the recognition of music.
 

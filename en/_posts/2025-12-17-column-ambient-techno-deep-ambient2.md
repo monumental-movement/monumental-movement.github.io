@@ -72,7 +72,7 @@ For this reason, in many works, complete silence is avoided, and very faint soun
 
 Ambient Techno / Deep Ambient's character changes greatly depending on the playback media. Large speakers, headphones and small devices. Each creates a different depth.
 
-In headphones, the physical pressure of the low frequencies is reduced, but the density of the internal space is increased. On the other hand, in speaker playback, the space itself becomes a resonator.
+In headphones, the physical pressure in the low frequencies is reduced, but the density of the internal space increases. On the other hand, in speaker playback, the space itself becomes a resonator.
 
 ---
 

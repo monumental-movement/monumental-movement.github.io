@@ -97,7 +97,7 @@ However, this idea had a great influence on later music history.
 Noise is not the enemy of music.
 It was a new material.
 
-### Attempt to break the structure of music
+### An attempt to break the structure of music
 
 In the mid-20th century, composers tried even more radical methods.
 

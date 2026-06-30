@@ -147,7 +147,7 @@ What is more important in Lindsay's music than melody or rhythm is the ""texture
 
 The sound is not just an effect, but exists as an extension of a physical gesture.
 
-### Relationship between studio and live performance
+### Relationship between studio and live performances
 
 He is conscious of the spatial spread of sound in both studio recordings and live performances. How the sounds are arranged and how they disappear. The process itself becomes part of the work.
 

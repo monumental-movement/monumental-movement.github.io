@@ -245,7 +245,7 @@ In this way, Breakcore is not a rave culture.
 
 "Internet culture"
 
-was revived within.
+was revived inside.
 
 > Breakcore's resurgence began not in clubs, but on the internet.
 
@@ -375,7 +375,7 @@ It was.
 ---
 
 
-## Future of Breakcore
+## Breakcoreの未来
 
 What will happen to Breakcore in the future?
 
@@ -397,7 +397,7 @@ It is music born from.
 
 Breakcore will continue to evolve in a place that is different from mainstream music.
 
-And the place is not a club
+そしてその場所は、クラブではなく
 
 It might be the internet.
 

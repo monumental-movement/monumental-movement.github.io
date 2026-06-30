@@ -73,7 +73,7 @@ His DJ bag is like a travel journal. Each record contains memories of some night
 ## Chapter 3: London - Ibiza - LA, a moving record box
 
 Harvey's records have always been on the move.
-From underground clubs in London to **Pikes Hotel** in Ibiza to warehouse events in LA.
+From London"s underground clubs to Ibiza"s **Pikes Hotel** to LA's warehouse events.
 As cities change, so do the sounds. He reconfigures the set to suit the mood.
 
 During his time in Ibiza, Harvey redefined the word 'Balearic'.

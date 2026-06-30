@@ -137,15 +137,15 @@ Additionally, the almost excessive volume and duration have a direct effect on p
 
 Hawkwind's sound changed significantly in the early 1970s, when Lemmy, who would go on to form Motörhead, was a member.
 
-Their signature song, ""Silver Machine,'' has a simple, powerful riff and a propulsive rhythm, and instantly boosted the band's popularity.この時期、彼らはよりロック的なエネルギーを獲得する。
+Their signature song, ""Silver Machine,'' has a simple, powerful riff and a propulsive rhythm, and instantly boosted the band's popularity. During this period, they acquire a more rock-like energy.
 
 However, what is interesting is that even after making it hard, the repetitive structure is maintained. The addition of speed and weight makes the trance even more physical.
 
 <div class="mermaid">
 graph TD
 A[repetition] --> B[heavy bass]
-B --> C[高速化]
-C --> D[身体的トランス]
+B --> C[faster speed]
+C --> D[physical trance]
 </div>
 
 This change became a bridge to later hard rock, metal, and even industrial.
@@ -159,7 +159,7 @@ This change became a bridge to later hard rock, metal, and even industrial.
 
 ### Techno before techno
 
-Hawkwindの音楽は、直接的にはロックに分類されるが、その構造は明らかに電子音楽の原型を含んでいる。
+Although Hawkwind's music is directly classified as rock, its structure clearly includes archetypes of electronic music.
 
 Constant tempo, repetition, and layered structure. These are the foundations of later Detroit techno and Berlin techno. In particular, the accumulation of sustained beats and subtle changes is the same idea as the core of club music.
 
@@ -198,7 +198,7 @@ timeline
 
 Although the members have changed drastically over the long period of their activities, the core ideology remains consistent. It is "extension through sound."
 
-> Hawkwindは時代ごとに形を変えながらも、常に同じ航路を進み続けている。
+> Although Hawkwind changes its shape from time to time, it always continues on the same route.
 
 ---
 
@@ -213,7 +213,7 @@ What is important is that they all converge on one point: ""transformation of co
 
 This idea is directly connected to modern club culture and sound art. In other words, Hawkwind is not a past entity, but an ongoing foundation.
 
-> Hawkwindの音は、聴くものではなく「入るもの」として設計されていた。
+> Hawkwind's sound was designed to be "entered" rather than heard.
 
 
 ---

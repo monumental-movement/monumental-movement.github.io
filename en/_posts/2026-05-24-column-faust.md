@@ -17,13 +17,13 @@ title: '[Column] What was Faust? A German avant-garde that deconstructed rock wi
 
 ## A band that appeared to "destroy" rock
 
-Text: mmr｜Theme: Tracing the history, musicality, recording techniques, and influence of Faust on Krautrock, which was born in Germany in the 1970s
+Text: mmr｜Theme: Tracing the history, musicality, recording techniques, and influence of Faust on Krautrock, which was born in Germany in the 1970s.
 
-In the early 1970s, there was growing discomfort in West Germany with the direct imitation of British and American rock. The younger generation after World War II was trying to create their own culture from scratch.
+1970年代初頭、西ドイツではイギリスやアメリカのロックをそのまま模倣することへの違和感が広がっていた。 The younger generation after World War II was trying to create their own culture from scratch.
 
 Faust was born in this atmosphere.
 
-Faust was clearly different from your average rock band. Although their music consisted of guitar, drums, and bass, there was almost no concept of a ""completed song'' in their music. The recording tape is cut, radio noise is layered, metal sounds and environmental sounds are mixed in, and suddenly there is silence, and then an intense rhythm begins.
+Faustは一般的なロックバンドとは明らかに異なっていた。 Although their music consisted of guitar, drums, and bass, there was almost no concept of a ""completed song'' in their music. The recording tape is cut, radio noise is layered, metal sounds and environmental sounds are mixed in, and suddenly there is silence, and then an intense rhythm begins.
 
 Rather than saying that they were playing rock music, it would be more accurate to say that they were using the form of rock as an experiment.
 
@@ -50,7 +50,7 @@ In West Germany at the end of the 1960s, new artistic movements were gaining mom
 
 Groups such as Can, Amon Düül II, Neu!, Tangerine Dream, and Cluster emerged in this vein.
 
-Faust, while alongside these bands, takes a particularly collage-like and destructive direction.
+Faustはこれらのバンドと並びながらも、特にコラージュ的で破壊的な方向へ進んでいく。
 
 <div class="mermaid">
 graph TD
@@ -62,7 +62,7 @@ D --> E[Faust formed]
 
 ### Heretical group created by the producer
 
-The central figure in the birth of Faust was music journalist and producer Uwe Nettelbeck.
+Faust誕生の中心人物は、音楽ジャーナリスト兼プロデューサーだったウヴェ・ネッテルベックである。
 
 He formed Faust with a group of musicians with the goal of creating ""innovative German rock.''
 
@@ -100,100 +100,100 @@ This album largely ignores traditional song structure.
 
 It was a collage of short phrases, noise, conversations, electronic sounds, and fragmented rhythms, and even the boundaries between songs were vague.
 
-### Unusual design of transparent jacket
+### 透明ジャケットという異例のデザイン
 
-The album was released in a transparent vinyl jacket.
+アルバムは透明なビニールジャケットで発売された。
 
-Inside is an image of a hand that looks like an X-ray photograph, visually differentiating it from conventional locks.
+中にはレントゲン写真風の手のイメージが封入されており、視覚面でも従来ロックとの差別化が行われていた。
 
-This design symbolized Faust's musical attitude.
+このデザインはFaustの音楽姿勢を象徴していた。
 
-In other words, it is an attitude that rejects ""rock as a product.''
+つまり、「商品としてのロック」を拒否する態度である。
 
-### Collapse of song structure
+### 楽曲構造の崩壊
 
 From the beginning of the album, Faust eschews the usual rock compositions.
 
-Immediately after the guitar riff begins, a noise interrupts, a tape is suddenly played in reverse, and conversational audio is played.
+ギターリフが始まった直後にノイズが割り込み、突然テープ逆回転が挿入され、会話音声が流れる。
 
-This was not an accident; it was a deliberate edit.
+これは偶然ではなく、意図的な編集だった。
 
 Faust used tape editing as a compositional act.
 
 <div class="mermaid">
 flowchart TD
-A[improvised performance recording] --> B[tape editing]
+A[即興演奏録音] --> B[tape editing]
 B --> C[fragmentation]
 C --> D[Rebuild]
-D --> E[Faust songs]
+D --> E[Faust楽曲]
 </div>
 
 ### Connection with tape music
 
-Faust's methodology was also connected to 20th century contemporary music.
+Faustの方法論は、20世紀現代音楽とも接続していた。
 
 In particular, similarities with Pierre Schaeffer"s musique concrète and Karlheinz Stockhausen"s electronic music experiments are pointed out.
 
-However, Faust was not a purely modern musician.
+ただしFaustは純粋な現代音楽家ではなかった。
 
-They mixed rock, blues, psychedelic, and improvisational music.
+彼らはロック、ブルース、サイケデリック、即興音楽を混在させていた。
 
-This coexistence of "nobility" and "chaos" was Faust's greatest characteristic.
+この「高尚さ」と「混沌」の同居こそがFaust最大の特徴だった。
 
-### Critic and listener reactions
+### 批評家とリスナーの反応
 
 Reactions at the time were widely divided.
 
-While some critics praised it as an innovative work, there were also many who criticized it as ""incomprehensible" and ""noisy".
+革新的作品として絶賛する批評家もいた一方で、「意味不明」「騒音」と批判する声も多かった。
 
-Although it did not lead to commercial success, it had a huge influence on the experimental music scene that followed.
+商業的成功には結びつかなかったが、後の実験音楽シーンには極めて大きな影響を与える。
 
-Underground musicians, especially in Britain and the United States, regarded Faust as an important pioneer.
+特にイギリスやアメリカのアンダーグラウンド・ミュージシャンたちは、Faustを重要な先駆者として受け止めた。
 
-> ""Faust'' was more than a collection of songs, it was an experimental record that deconstructed the rock medium.
+> 『Faust』は楽曲集というより、ロックという媒体を解体する実験記録だった。
 
 ---
 
 ## The pop sensation that began to emerge with "So Far"
 
-With 1972's So Far, Faust began displaying a relatively more compact structure than his previous work.
+1972年の『So Far』では、Faustは前作よりも比較的コンパクトな楽曲構成を見せ始める。
 
-However, it was not an approach to a typical pop song.
+しかし、それは一般的ポップソングへの接近ではなかった。
 
-Rather, they have progressed to the stage of ""understanding pop structure and then destroying it''.
+むしろ「ポップ構造を理解した上で破壊する」という段階へ進んだのである。
 
-### The weirdness of "It's A Rainy Day, Sunshine Girl"
+### 「It's A Rainy Day, Sunshine Girl」の奇妙さ
 
 The song "It's A Rainy Day, Sunshine Girl" on the album is known as a relatively catchy Faust song.
 
 Although it has simple repetitive phrases and a minimalist beat, it has an unstable and crumbling atmosphere.
 
-This feeling would also be connected to later post-punk and industrial.
+この感覚は後のポストパンクやインダストリアルにも繋がっていく。
 
 ### Connection between video and music
 
 During the ""So Far'' period, short videos corresponding to each song were also produced.
 
-The footage of the members performing strangely provided a visual indication of Faust's artistic direction.
+メンバーが奇妙なパフォーマンスを行う映像は、Faustの芸術的方向性を視覚的に示していた。
 
 For them, music was not a separate medium, but a comprehensive form of artistic expression.
 
 <div class="mermaid">
 graph TD
-A[music] --> D[Faust expression]
+A[music] --> D[Faust表現]
 B[picture] --> D
 C[performance] --> D
 </div>
 
 ### A new sense of rhythm
 
-Faust's performance may seem chaotic at first glance, but it actually had a very unique sense of groove.
+Faustの演奏は一見混沌としているが、実際には非常に独特なグルーヴ感を持っていた。
 
 Drummer Zappi Diermaier in particular created a hypnotic atmosphere by mechanically repeating simple beats.
 
-This sense of repetition also resonates with later techno and minimal music.
+この反復感覚は後のテクノやミニマル・ミュージックとも共鳴する。
 
-### Comparison with Neu!
+### Neu!との比較
 
 Faust's contemporaries Neu! were also known for their repetitive beats.
 
@@ -201,9 +201,9 @@ However, there is a clear difference between the two.
 
 Whereas Neu! was minimal and straightforward, Faust always mixed in noise and digressions.
 
-In other words, while Neu! created a ""futuristic drive feeling," Faust created an ""experimental space on the verge of collapse."
+つまりNeu!が「未来的ドライブ感」を作ったのに対し、Faustは「崩壊寸前の実験空間」を作っていたのである。
 
-> With ""So Far,'' Faust began to show a unique pop sensibility that wasn't just about noise.
+> 『So Far』でFaustは、ノイズだけではない独特のポップ感覚を見せ始めた。
 
 ---
 
@@ -213,23 +213,23 @@ In 1973, Faust releases The Faust Tapes.
 
 This work attracted a lot of attention not only for its content but also for the way it was sold.
 
-### Strategy of low price sales
+### 低価格販売という戦略
 
-Virgin Records in the UK sold the album at the same low price as a single.
+イギリスのVirgin Recordsは、このアルバムをシングル並みの低価格で販売した。
 
-As a result, many listeners purchased the album out of curiosity, and the album's sales exceeded expectations.
+その結果、多くのリスナーが興味本位で購入し、アルバムは予想以上のセールスを記録する。
 
 However, many buyers were surprised by the contents.
 
-This is because the album has almost no unified song structure, and fragmentary recorded material appears one after another.
+アルバムには統一された楽曲構成がほとんど存在せず、断片的な録音素材が次々と現れるからである。
 
-### Completed form as a collage work
+### コラージュ作品としての完成形
 
 ""The Faust Tapes"' can be said to be the culmination of Faust"s collage aesthetic.
 
-Rock, electronic sounds, ethnic music-style phrases, noise, and environmental sounds keep switching at high speed.
+ロック、電子音、民族音楽風フレーズ、ノイズ、環境音が高速で切り替わり続ける。
 
-In modern times, it feels similar to sampling culture, but at the time, everything was done by tape editing.
+現代で言えばサンプリング文化に近い感覚だが、当時はすべてテープ編集によって行われていた。
 
 <div class="mermaid">
 timeline
@@ -240,61 +240,61 @@ timeline
     1973 : Faust IV
 </div>
 
-### Production of "coincidence"
+### 「偶然性」の演出
 
-Faust favored editing that sounded haphazard.
+Faustは偶然的に聞こえる編集を好んだ。
 
 However, in reality, very detailed editing work was carried out.
 
 This can also be considered an influence of Dadaism and Surrealism.
 
-Creating a new order while destroying the order.
+秩序を壊しながら、新しい秩序を作るのである。
 
 ### DIY spirit before punk
 
-Faust's attitude had a strong influence on later punk music.
+Faustの姿勢は、後のパンクにも強い影響を与えた。
 
-It is a sense of prioritizing ideas and impulses over technical perfection.
+技術的完成度よりも、アイデアと衝動を優先する感覚である。
 
 Faust was particularly appreciated by the British post-punk generation.
 
 Throbbing Gristle, Cabaret Voltaire, and This Heat all retain a strong Faustian spirit of experimentation.
 
-> ""The Faust Tapes'' was a work that deconstructed the very concept of a rock album.
+> 『The Faust Tapes』は、ロックアルバムという概念自体を分解した作品だった。
 
 ---
 
-## "Faust IV" and its most famous songs
+## 『Faust IV』と最も知られる代表曲
 
 Faust IV, also released in 1973, is the most widely known of Faust's works.
 
 ### A long song called "Krautrock"
 
-The album's opening track, "Krautrock," is a repetitive track that lasts approximately 12 minutes.
+アルバム冒頭の「Krautrock」は約12分に及ぶ反復トラックである。
 
 A simple bass line and drums go on and on, with noise and guitar floating on top.
 
 This song later became a symbol of the genre name ""krautrock.''
 
-### The strange pop nature of "The Sad Skinhead"
+### 「The Sad Skinhead」の異様なポップ性
 
-On the other hand, "The Sad Skinhead" has a relatively straight rock feel.
+一方で「The Sad Skinhead」は、比較的ストレートなロック感覚を持つ。
 
-However, its repetition and unsettling nature were alien to normal rock.
+しかし、その反復と不穏さは通常ロックとは異質だった。
 
-It"s not that Faust can"t make ""normal songs," it"s that he ""didn"t want to end it normally."
+Faustは「普通の曲」を作れないのではなく、「普通に終わらせる気がなかった」のである。
 
-### Relationship with Virgin Records
+### Virgin Recordsとの関係
 
-Virgin Records treated Faust as an important experimental artist.
+Virgin RecordsはFaustを重要な実験的アーティストとして扱った。
 
-At the time, Virgin was still an emerging label, and it felt like it was competing with the established industry.
+At the time, Virgin was still a new label and felt like it was competing with the established industry.
 
-Faust"s experimental nature also greatly contributed to Virgin"s image formation.
+Faustの実験性はVirginのイメージ形成にも大きく貢献した。
 
 ### Conflict with commerciality
 
-However, Faust remained distant from the commercial market.
+しかし、Faustは依然として商業市場とは距離があった。
 
 Although the label wanted more straightforward work, Faust consistently prioritized experimentation.
 
@@ -311,80 +311,80 @@ C --> D[tense relationship]
 
 ---
 
-## Disband, reevaluate, and restart
+## 解散、再評価、そして再始動
 
 In the mid-1970s, Faust went into hiatus.
 
 However, its influence actually expanded over time.
 
-### Reassessment since the 1980s
+### 1980年代以降の再評価
 
 As post-punk, industrial, and noise music spread, Faust began to be reevaluated as a "pioneer."
 
 It received enthusiastic support, especially in the British underground music scene.
 
-Many alternative bands have been influenced by Faust, including Sonic Youth.
+Sonic Youthをはじめ、多くのオルタナティブ・バンドがFaustから影響を受けている。
 
-### Impact on noise culture
+### ノイズ文化への影響
 
 Faust's importance lies not only in its use of noise.
 
-They treated noise not just as a destructive sound, but as a musical structure itself.
+彼らはノイズを単なる破壊音ではなく、音楽構造そのものとして扱った。
 
 This had a decisive influence on later noise music.
 
 ### Connection with electronic music
 
-Faust's repetitive structure and sense of editing are deeply connected to later electronic music.
+Faustの反復構造や編集感覚は、後の電子音楽とも深く結び付く。
 
 Particularly in techno and experimental electronica, Faustian approaches are repeatedly referenced.
 
-Their music was important not only in rock history, but also in the history of recording culture.
+彼らの音楽はロック史だけでなく、「録音文化史」の中でも重要だった。
 
 ### Reunion and continued activities
 
-Faust has been restarted intermittently since the 1990s.
+1990年代以降、Faustは断続的に再始動する。
 
-Although the membership changed, the spirit of experimentation was maintained.
+メンバー構成は変化したものの、実験精神は維持された。
 
-The live performances were highly improvisational, with different developments each time.
+ライブでは即興性が強く、毎回異なる展開を見せた。
 
 <div class="mermaid">
 graph TD
 A[Faust] --> B[post punk]
 A --> C[noise]
 A --> D[industrial]
-A --> E[techno]
+A --> E[テクノ]
 A --> F[alternative]
 </div>
 
-Far from becoming obsolete, Faust was a band that was better understood over time.
+> Faustは時代遅れになるどころか、時代が進むほど理解されるバンドだった。
 
 ---
 
 ## Faust's greatest legacy
 
-Faust's greatest achievement lies in the extreme expansion of his ""degree of freedom in music production.''
+Faust最大の功績は、「音楽制作の自由度」を極端に拡張したことにある。
 
 ### Turned recording into composition
 
 In traditional rock music, recording was used to preserve performances.
 
-However, for Faust, recording was the very place where he produced his works.
+しかしFaustにとって録音は、作品を生成する場所そのものだった。
 
-Tape editing, cutting, pasting, and introducing chance.
+テープ編集、切断、貼り合わせ、偶然性の導入。
 
 These techniques are also applicable to current DAW production.
 
 ### Affirmed "failure"
 
-Faust did not eliminate playing mistakes and noise.
+Faustは演奏ミスやノイズを排除しなかった。
 
 Rather, he accepted them as part of his work.
 
 This way of thinking would later lead to lo-fi culture.
 
-### Crossed music genres
+### 音楽ジャンルを横断した
 
 Faust began as a rock band, but crossed over into contemporary music, noise, electronic music, improvisational music, and artistic expression.
 
@@ -396,13 +396,13 @@ However, their unclassifiable nature was their essence.
 
 ### Why is it still listened to today?
 
-We live in an era where sampling, editing, and collage are commonplace.
+現代はサンプリング、編集、コラージュが当たり前の時代である。
 
 But Faust was already ahead of the curve in the early 1970s.
 
-That"s why it doesn"t sound old even when you listen to it now.
+だからこそ、現在聴いても古びて聞こえない。
 
-In fact, it can be said that much contemporary music exists in a post-Faust world.
+むしろ、多くの現代音楽がFaust以後の世界に存在していると言える。
 
 >Faust did not update rock, but rewritten the very concept of "music production".
 
@@ -412,7 +412,7 @@ In fact, it can be said that much contemporary music exists in a post-Faust worl
 
 | Year | Events |
 |---|---|
-| 1971 | Debut album "Faust" released |
+| 1971 | デビューアルバム『Faust』発表 |
 | 1972 | "So Far" announced |
 | 1973 | "The Faust Tapes" announced |
 | 1973 | "Faust IV" announced |
@@ -423,16 +423,16 @@ In fact, it can be said that much contemporary music exists in a post-Faust worl
 
 ---
 
-## Main characters
+## 主要人物
 
 | Name | Role |
 |---|---|
 | Jean-Hervé Péron | Bass, vocals |
 | Werner "Zappi" Diermaier | Drums |
 | Hans Joachim Irmler | Keyboard |
-| Rudolf Sosna | Guitar |
-| Günther Wüsthoff | Electroacoustics |
-| Uwe Nettelbeck | Producer |
+| Rudolf Sosna | ギター |
+| Günther Wüsthoff | 電子音響 |
+| Uwe Nettelbeck | プロデューサー |
 
 ---
 

@@ -31,7 +31,7 @@ But no title is perfect.
 
 Because what Meredith Monk has been working on has been an attempt to expand the framework of music itself.
 
-For many years, she has treated the ""voice'' not as a mere singing technique, but as the most primitive instrument possessed by humans.
+For many years, she has treated the ""voice'' as not just a singing technique, but as the most primitive instrument possessed by humans.
 
 laughter.
 Moaning.
@@ -141,7 +141,7 @@ She treated the voice not as a means of transmitting information, but as a sensa
 
 This idea had a huge influence on later vocal experimental music.
 
-> Monk's music was a rare example of using the voice to transcend words.
+> Monk's music was a rare example of using voice to transcend words.
 
 ---
 
@@ -216,7 +216,7 @@ silence.
 
 All of them are placed with equal importance.
 
-The same applies to stage productions.
+The same holds true for stage productions.
 
 Rather than listening to music, the audience experiences the sensation of entering an environment.
 

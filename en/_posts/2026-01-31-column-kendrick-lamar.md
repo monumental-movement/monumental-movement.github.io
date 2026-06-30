@@ -52,7 +52,7 @@ color: #fff;
 
 Kendrick Lamar Duckworth was born in 1987 in Compton, California. This city has been a symbol of West Coast gangsta rap since N.W.A. It was a space where violence, poverty, police power, and racial issues were embedded in everyday life. Kendrick's narrative never departs from this concrete sense of place.
 
-Compton is more than just a backdrop; it has the power to define the story. Concrete details such as travel routes, intersections, residential areas, and fast food restaurants appear repeatedly and resist abstraction. Like a city-state or a battlefield in an epic poem, the city itself functions as a character.
+Compton is more than just a backdrop; it has the power to define the story. Concrete details such as travel routes, intersections, residential areas, and fast food restaurants appear repeatedly and resist abstraction. The city itself functions as a character, like a city-state or a battlefield in an epic poem.
 
 ### Narrator's position
 

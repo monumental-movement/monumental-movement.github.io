@@ -59,7 +59,7 @@ In the late 1990s and early 2000s, Detroit was creating a new standard for neo-s
 * Directly influenced by the creativity of J Dilla
 
 What Waajeed absorbed here was more than just beat making.
-**The attitude is to carry out the inheritance of black music as ""reinvention'' in the modern era**.
+**The attitude is to ""carry out the inheritance of black music as a 'reinvention' for the modern era.''**
 
 ---
 
@@ -152,7 +152,7 @@ It is in a position that can be called **"the aesthetic destination of Dirt Tech
 
 # **6. Production attitude: Practitioner redefining Detroit**
 
-To summarize Waajeed's production approach, the following three points are central.
+To sum up Waajeed's production approach, the following three points are central.
 
 ---
 

@@ -59,7 +59,7 @@ This is one of the biggest reasons why people seek out sad music.
 ## Chapter 2: Music as a device of empathy
 
 According to psychologist Catherine Mercier,
-""Music is an imitation device for empathy.''
+""Music is a mimicking device for empathy.''
 When listeners listen to sad music, they "identify" with the emotions of the composer and singer, and
 Feeling the presence of others in loneliness.
 
@@ -234,7 +234,7 @@ graph TD
     B -->|elicit an emotional response| D[Cingulate cortex: Empathy/self-consciousness]
     C -->|Pleasure evaluation| E[Nucleus accumbens: dopamine reward system]
     D -->|Synchronization with other people's emotions| F[Insular cortex: generation of bodily empathy]
-    E -->|Amplify your sense of satisfaction| B
+    E -->|Increase satisfaction| B
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#b2df8a,stroke:#66a61e

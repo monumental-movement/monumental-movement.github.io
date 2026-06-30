@@ -64,7 +64,7 @@ A characteristic of this era is that distortion and noise are not placed randoml
 
 ---
 
-## 4. 数式的リズム解析
+## 4. Mathematical rhythm analysis
 
 Industrial Techno's rhythm may appear to be a simple 4/4 repetition on the surface, but underneath there is a precise time design. If the time axis is t and the time of kick appearance is K_i, the fundamental period T_K is expressed as follows.
 

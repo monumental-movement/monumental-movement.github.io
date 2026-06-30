@@ -33,7 +33,7 @@ Reverse rotation of the tape.
 Editing mistake.
 A sound recorded by chance.
 
-He did not throw them away as "unnecessary noise".
+He did not discard them as "unnecessary noise".
 
 Rather, he saw the possibility of new music there.
 
@@ -263,7 +263,7 @@ Rather than ""listening to a song'', the listener feels as if they are entering 
 graph TD
 A[Future Days] --> B[repetition]
 A --> C[environmental sounds]
-A --> D[Floating feeling]
+A --> D[floating feeling]
 A --> E[long time structure]
 B --> F[Ambient impact]
 C --> F
@@ -386,7 +386,7 @@ He moved away from melody-centeredness and constructed the auditory experience i
 
 This also applies to his later drone, acoustic, and electro-acoustic works.
 
-> Shukai moved in the direction of making sounds "exist" rather than "playing" them.
+> Shukai moved in the direction of making sounds "exist" rather than "performing" them.
 
 ---
 
@@ -397,7 +397,7 @@ This also applies to his later drone, acoustic, and electro-acoustic works.
 Since the late 1980s, music production has rapidly become digital.
 
 sampler.
-M.I.D.I.
+MIDI.
 DAW.
 
 However, Shukai was not completely digital-oriented.
@@ -450,7 +450,7 @@ In other words, he was ""a person who reached a digital sensibility before digit
 
 ## Late life and reevaluation
 
-### CAN reevaluation process
+### CAN re-evaluation process
 
 Since the 1990s, CAN has been rapidly reevaluated.
 
