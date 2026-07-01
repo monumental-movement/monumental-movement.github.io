@@ -17,7 +17,7 @@ title: '[Column] Free sample culture and the democratization of contemporary mus
 
 ## Introduction
 
-Text: mmr | Theme: Music production, which once required expensive equipment and specialized knowledge, has transformed into a creation that anyone can participate in thanks to free sample culture. Tracing the history of that revolution
+Text: mmr｜Theme: Music production, which once required expensive equipment and specialized knowledge, has changed into a creation that anyone can participate in thanks to free sample culture. Tracing the history of that revolution
 
 <style type="text/css">
 
@@ -184,7 +184,7 @@ Intuitive.
 
 Furthermore, it has spread widely among young people.
 
-Many Hip Hop beatmakers and the SoundCloud generation got their start with FL Studio.
+Many of the Hip Hop beatmakers and SoundCloud generation got their start with FL Studio.
 
 <div class="mermaid">
 flowchart TD
@@ -580,7 +580,7 @@ D --> E[Re-edit]
 E --> F[Rediffusion]
 </div>
 
-> In the age of social media, music is increasingly consumed as ""fragments that can be spread easily" rather than ""finished works."
+> In the SNS era, music is increasingly consumed as ""fragments that can be spread easily" rather than ""finished works."
 
 ---
 

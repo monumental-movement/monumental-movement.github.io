@@ -56,7 +56,7 @@ Richard D. James, also known as Aphex Twin, was born in 1971 in Cornwall, southw
 
 However, the important thing is not whether it is a lie or true. He is dismantling the ""actual image of an artist"' itself. In other words, it is a strategy that obscures the relationship between the work and the personality and sways the listener"s interpretation.
 
-Also, his face often appears in distorted forms in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the most identifying information, the face, the very question of "who you are" is invalidated.
+Also, his face often appears in distorted forms in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the face, which is the most identifying information, the very question of "who you are" is invalidated.
 
 This anonymity is also a device for focusing on the music itself.
 
@@ -116,7 +116,7 @@ Belongs to the genre and deviates from it at the same time. This duality places 
 
 There are many stories about Aphex Twin.
 
-For example, there is a story where a hard drive full of unreleased songs was left behind on an airplane, and it was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
+For example, there's a story about someone who left a hard disk full of unreleased songs on an airplane, which was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
 
 Even more famous are his anecdotes about live performances. In some cases, they only played the sound source, or intentionally caused confusion, in a way that betrayed the ""performance'' that the audience expected.
 
@@ -134,7 +134,7 @@ Aphex Twin's influence is immeasurable.
 
 The IDM scene that was formed around Warp Records was greatly shaped by his presence.
 
-Also, Radiohead's Thom Yorke has openly stated his influence, and his influence is strongly reflected in his works after Kid A.
+Additionally, Radiohead's Thom Yorke has openly stated his influence, and his influence is strongly reflected in his works since Kid A.
 
 Furthermore, contemporary artists such as Flying Lotus and Arca have inherited his ideas while also evolving in their own ways.
 
@@ -184,5 +184,14 @@ This structure also applies to modern creation in general. In an age of informat
 His music continues to explore that in-between area.
 
 > Controlling chaos is itself the core of modern creativity.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LE6AluXmN4A?si=K7YGxOFPmP5DRibN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

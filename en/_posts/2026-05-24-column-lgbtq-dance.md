@@ -165,7 +165,7 @@ Mechanical beats, long grooves, repetitive structures. It was music meant to uni
 
 At the time, the LGBTQ+ community was facing a dire situation with the HIV/AIDS crisis.
 
-In the 1980s, clubs remained an important place to be, even as prejudice and fear drove many people out of society.
+In the 1980s, clubs remained an important place to be, even as prejudice and fear pushed many people out of society.
 
 Dancing was not an escape from reality, but an act of sharing the feeling of ""still being alive.''
 

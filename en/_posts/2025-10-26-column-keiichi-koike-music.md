@@ -128,7 +128,7 @@ graph LR
 ---
 
 
-## 第7章：年表 ― 小池桂一の軌跡
+## Chapter 7: Chronology - Keiichi Koike's trajectory
 
 <div class="mermaid">
 

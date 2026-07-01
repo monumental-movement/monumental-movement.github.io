@@ -18,7 +18,7 @@ title: '[Column] Buchla and Serge: Another genealogy of electronic acoustics'
 ## "Introduction — What is modular?"
 
 
-Text: mmr | Theme: The spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
+Text: mmr | Theme: Spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
 
 Early 1970s, America's West Coast.
 There were people who left their university's electronic music studio and tried to take **a device for designing sound** back into their personal creative spaces.
@@ -90,7 +90,7 @@ The Low Pass Gate (an element that controls both volume and timbre) later became
 In the late 1970s, young musician Serge Tochenin was impressed by Don Buchla's design philosophy, and while studying electronic music at UCLA, he envisioned a ""Buchla-like device that more people could have access to.''
 That is **Serge Modular Music System (1974–)**.
 
-ブックラが芸術家のための特注機を作ったのに対し、SergeはDIY文化と大学コミュニティに根ざし、**「回路図を公開し、誰でも作れる」**という精神を掲げた。  
+While Buchler created custom machines for artists, Serge is rooted in DIY culture and the university community, with an ethos of ""open up the schematics so anyone can build them''.
 This open source attitude was a conceptual revolution that preceded the later spread of Eurorack.
 
 ### 2-2. Serge's philosophy: Patch Programmability
@@ -124,7 +124,7 @@ This philosophy continues directly into today"s Max/MSP patching, Reaktor Blocks
 
 ## 4. Technology chronology
 
-| 年 | 出来事 | 備考 |
+| Year | Events | Notes |
 |----|--------|------|
 | 1963 | Buchla Series 100 development begins | First modular commissioned by Subotnick |
 | 1966 | Buchla Music Easel prototype debut | The founder of portable synths |
@@ -183,11 +183,11 @@ Buchla and Serge's design philosophy continues to be the germ of that media phil
 Don Buchler is said to have said this before his death.
 > "Voltage is not a number — it"s a gesture."
 
-サージもまた言う。  
-> “Every patch is a composition.”  
+Sarge also says.
+> "Every patch is a composition."
 
 For them, voltage is not just a signal;
-**「人間の意志と機械のあいだを結ぶ詩的な言語」**だった。  
+**It was ""a poetic language that connects the human will and machines.''**
 
 Even now in 2025, we continue to listen to the poetry of that voltage.
 

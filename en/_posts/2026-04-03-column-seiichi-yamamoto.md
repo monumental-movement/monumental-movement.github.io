@@ -65,7 +65,7 @@ Initially known as destructive noise rock, it gradually shifted to a structure b
 
 Due to its extreme volume and vibration, sound acts not only as an auditory sensation but also as a physical sensation.
 
-#### Trance through repetition
+#### Trance by repetition
 
 Due to the long repetition, the sense of time becomes diluted and the audience is led into a trance state.
 
@@ -270,7 +270,7 @@ By being exposed to a variety of performances and unorganized sounds on a daily 
 
 The act of nurturing the next generation not only influences others, but also creates a cycle in which the depth of one's own sound continues to be updated.
 
-> Music is an individual's expression, but at the same time, it is also a phenomenon that is nurtured by the place.
+> Music is an individual's expression, but at the same time it is a phenomenon that is nurtured by the place.
 
 ---
 
@@ -278,7 +278,7 @@ The act of nurturing the next generation not only influences others, but also cr
 
 Seiichi Yamamoto's music does not consist solely of his individual talent.
 
-The extreme acoustics of the diverse participating bands, the overseas reputation, and the management of the Namba Bears venue -- these things interact with each other and continue to update the depth of the sound.
+The extreme acoustics of a wide variety of participating bands, the overseas reputation, and the management of the Namba Bears venue - these things interact with each other to continue updating the depth of the sound.
 
 The work of nurturing the next generation is not a unidirectional influence. Being exposed to new sounds and immature expressions actually shakes up and updates one's own sound.
 

@@ -12,11 +12,11 @@ title: The Gang – Barricada Rumble Beat
 ---
 
 
-The Gangは、フィロットラーノ出身のイタリアンパンクバンド。
+The Gang is an Italian punk band from Filottrano.
 
-A面１曲目と６曲目は、UKのシンガーソングライターBilly Bragg（ビリー・ブラッグ）がギター＆ヴォーカルとして参加。
+The first and sixth songs on Side A feature UK singer-songwriter Billy Bragg on guitar and vocals.
 
-A面３曲目とB面６曲目は、アメリカのハーモニカ奏者Andy J. Forest（アンディ・J・フォレスト）が参加。
+The third song on side A and the sixth song on side B are performed by American harmonica player Andy J. Forest.
 
 #### Tracklist
 ```md

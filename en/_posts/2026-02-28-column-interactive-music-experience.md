@@ -72,7 +72,7 @@ As a prime example, the music of Nintendo's works is a precursor to interactive 
 ### 2000s: The fusion of online and music
 
 With the spread of broadband, music begins to be linked to network connections.
-MMORPGやオンラインゲームでは、共有空間で音楽が同期される体験が生まれた。
+MMORPGs and online games have created experiences where music is synchronized in a shared space.
 
 ### 2010s: VR/AR/Streaming
 
@@ -91,7 +91,7 @@ It is integrated into games, apps, and production tools to generate individually
 
 <div class="mermaid">
 flowchart TD
-A[1970s 電子楽器] --> B[1983 MIDI]
+A[1970s electronic musical instruments] --> B[1983 MIDI]
 B --> C[1990s game dynamic music]
 C --> D[2000s online sync]
 D --> E[2010s VR/AR]

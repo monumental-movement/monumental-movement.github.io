@@ -74,7 +74,7 @@ Bjork has clearly shown a production approach that treats the voice as the main 
 
 ### 3-2. Imogen Heap — Real-time control and physicality
 
-Imogen Heap demonstrated that the voice can be played instrumentally through live expression using real-time effect control, gestures, and controllers. Using a harmonizer and self-made signal processing, he visualized the immediacy and transformability of the voice by manipulating the texture and harmonics of the voice during the performance.
+Imogen Heap demonstrated that the voice can be played instrumentally through live expression using real-time effect control, gestures, and controllers. By using a harmonizer and self-made signal processing to manipulate the texture and harmonics of the voice during a performance, he visualized the immediacy and transformability of the voice.
 
 ---
 

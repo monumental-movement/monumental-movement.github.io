@@ -207,7 +207,7 @@ Radio was directly connected to the city's nightlife.
 
 ---
 
-## Birth of grime
+## Birth of Grime
 
 In the early 2000s, a new genre was born in East London.
 

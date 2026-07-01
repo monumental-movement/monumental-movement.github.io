@@ -117,8 +117,8 @@ The reason why the title ironically resonates across time is because the ""aesth
 ---
 
 #### 11. The Charmels – "As Long As I"ve Got You" (1967)
-The original melody used in Wu-Tang Clan's "C.R.E.A.M." Sweet strings and melancholic vocals supported the poetry of the street.
-A famous material that symbolizes RZA's "shade sampling philosophy".
+Wu-Tang Clanの「C.R.E.A.M.」に使用されたメロディの原曲。甘美なストリングスとメランコリックなボーカルが、ストリートの詩情を支えた。  
+RZAの「陰影のサンプリング哲学」を象徴する名素材。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gp9uZjPaB4w?si=Le4XVqm-CtR_mIkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

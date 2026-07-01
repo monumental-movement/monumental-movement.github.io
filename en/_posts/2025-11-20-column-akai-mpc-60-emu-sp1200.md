@@ -125,7 +125,7 @@ Although Mirage is not 12bit, it is highly influential as a low resolution sampl
 
 Here, a typical production flow assuming SP-1200 and MPC60 is listed in detail based on facts. The description focuses on procedures that match actual producer testimonies and equipment manuals.
 
-### 5.1 Sampling procedure (SP-1200 type)
+### 5.1 サンプリング手順（SP-1200型）
 
 1. Play the desired break from the record
 2. Sample briefly (1-2 seconds) the center of the break (keeping in mind the total sample limit)
@@ -175,7 +175,7 @@ Low-resolution samples are effective for creating textures and were widely used 
 
 ## Chapter 8: Key artists and usage examples
 
-> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documentation.
+> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
 
 <div class="mermaid">
 
@@ -216,7 +216,7 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and Outlook
+## 第12章：まとめと展望
 
 The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace their roots, you always come back to these devices.
 

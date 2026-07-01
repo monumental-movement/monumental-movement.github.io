@@ -151,7 +151,7 @@ She didn't erase her "femininity."
 
 Rather, they acquired the strength of rock while retaining their femininity.
 
-This style had a great influence on later female rock singers.
+このスタイルは後の女性ロックシンガーたちに大きな影響を与えた。
 
 <div class="mermaid">
 mindmap

@@ -14,7 +14,7 @@ title: The Beatles – Revolver
 
 A notable song on "Revolver" is "Eleanor Rigby." This heartwarming song features a string octet and showcases Paul McCartney's storytelling talent.
 
-アルバムには他にも「タックスマン」という曲があります。これはジョージ・ハリスンが書いた曲で、当時のイギリスの高い税金制度に対する批判が込められています。「イエロー・サブマリン」も人気のあるトラックです。
+There is another song on the album called "Taxman". This song was written by George Harrison and contains criticism of the high tax system in Britain at the time. "Yellow Submarine" is another popular track.
 
 #### Tracklist
 ```md

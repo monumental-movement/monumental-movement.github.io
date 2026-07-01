@@ -51,7 +51,7 @@ On the other hand, electronic dance music, which has developed since the 1970s, 
 ## 2. Preconditions for the establishment of a genre
 
 
-In order for Electro Swing to come into being, the following technical and cultural conditions were necessary.
+In order for Electro Swing to come into existence, the following technical and cultural conditions were necessary.
 
 * Popularization of digital sampling technology
 *Early Internet culture where copyright management was relatively loose
@@ -87,7 +87,7 @@ Their songs mix elements of not only swing but also gypsy jazz, pop, and electro
 
 ## 6. Musical structure
 
-The structure of Electro Swing often consists of the following elements:
+Electro Swing's structure often consists of the following elements:
 
 * Melody fragments derived from swing
 * Clear dance beat

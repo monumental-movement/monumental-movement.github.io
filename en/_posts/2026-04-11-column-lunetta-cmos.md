@@ -31,7 +31,7 @@ Typical ICs include the following.
 * 40106: Schmitt trigger inverter
 *4040: Binary counter
 * 4017: Decade counter
-*4070: XOR gate
+*4070:XOR gate
 
 These can produce sounds on their own, but when combined, complex rhythms and patterns can be created.
 
@@ -146,7 +146,7 @@ However, the decisive difference is that the focus is on logic signals rather th
 
 ## Acoustic characteristics
 
-### Dominance of square waves
+### Square wave domination
 
 The basic waveform of CMOS Synth is a square wave. This results in the following characteristics:
 
@@ -195,7 +195,7 @@ As a result, signals having multiple periods are output simultaneously.
 Lunetta's feature is not fixed wiring, but connection changes using jumpers and patch cables.
 
 * Freely connect inputs and outputs
-* Generating a feedback loop
+* Generating feedback loops
 * Unpredictable behavior
 
 <div class="mermaid">
@@ -218,7 +218,7 @@ The voltage itself acts as a parameter.
 
 ---
 
-## Timeline: Deployment of CMOS Synth and Lunetta
+## Chronology: Deployment of CMOS Synth and Lunetta
 
 ### 1970s-1990s
 

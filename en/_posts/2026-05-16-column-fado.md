@@ -33,23 +33,23 @@ color: #fff;
 </style>
 
 
-### “運命”を意味する音楽
+### Music that means "fate"
 
 The word fado is said to be derived from the Latin word "fatum". The meaning is "fate".
 
-As its etymology suggests, fado is not just a popular song.人生の不確実さ、別離、海へ出た者の帰還を待つ感情、貧困、恋愛、都市生活の孤独など、人間が避けることのできない感情を歌う音楽として発展してきた。
+As its etymology suggests, fado is not just a popular song. It has developed as a music that sings of emotions that humans cannot avoid, such as the uncertainty of life, separation, the feeling of waiting for the return of those who went to sea, poverty, love, and the loneliness of city life.
 
 Of particular importance is the uniquely Portuguese feeling of ""saudade.''
 
 Saudade is often translated into Japanese as ""nostalgia," ""mistache," or ""feelings for what has been lost.'' However, in reality, it is not a word that completely encompasses them.
 
-過去を懐かしむだけではなく、戻らない時間への感情、会えない相手への愛情、存在しない未来への願望までを含む、複雑な情緒概念として理解されている。
+It is understood as a complex emotional concept that includes not only nostalgia for the past, but also feelings for time that cannot be returned, love for a person that cannot be seen, and desires for a future that does not exist.
 
-ファドは、このサウダーデを声によって表現する音楽だった。
+Fado was music that expressed this saudade through the voice.
 
 It is thought to have been sung in Lisbon in the 19th century by dockworkers, sailors, prostitutes, bar musicians, and the city's lower class. In other words, Fado did not exist as "high culture" from the beginning.
 
-むしろ都市の周縁で育った民衆音楽だった。
+Rather, it was folk music that grew up on the fringes of cities.
 
 Bars, alleys, the sea, betrayal, jealousy, fate, and resignation appear repeatedly in the lyrics.
 
@@ -61,14 +61,14 @@ A[Latin fatum] --> B[destiny]
 B --> C[Saudade]
 C --> D[nostalgia]
 C --> E[separation]
-C --> F[都市の孤独]
+C --> F[urban solitude]
 C --> G[Thoughts on the sea]
 G --> H[The establishment of fado]
 </div>
 
-ファドの核心は、悲しみそのものではない。
+The core of fado is not sadness itself.
 
-悲しみを抱えながら、それでも歌うことにある。
+The idea is to sing despite the sadness.
 
 > Fado, which grew up in the port city of Lisbon, supported people's emotions as ""songs for accepting life.''
 
@@ -91,7 +91,7 @@ However, that prosperity was always accompanied by separation.
 
 It was not uncommon for sailors to go to sea and not return.
 
-The families, lovers, and wives left behind lived their lives waiting for their return.
+The families, lovers, and wives left behind lived their lives while waiting for their return.
 
 The sea, which frequently appears in fado, is not a romantic symbol, but a reality where life and death are adjacent.
 
@@ -121,7 +121,7 @@ As a result, a culture was created in which fado singers were required to have l
 
 This is why Fado is called "music of the voice."
 
-伴奏は重要だが、中心にあるのは歌声であり、感情そのものだった。
+Although the accompaniment was important, it was the singing voice and the emotion itself that was central.
 
 <div class="mermaid">
 flowchart LR
@@ -129,7 +129,7 @@ A[Age of Discovery] --> B[port city lisbon]
 B --> C[cultural mix]
 C --> D[downtown culture]
 D --> E[bar]
-E --> F[ファド]
+E --> F[Fado]
 F --> G[Saudade]
 </div>
 
@@ -149,11 +149,11 @@ This instrument, with its teardrop-shaped body and 12-string structure, has a di
 
 It is characterized by the sharpness and lingering sound of the metal strings, giving the melody a unique melancholy.
 
-通常、ファドの演奏編成は以下のようになる。
+Normally, a fado performance is organized as follows.
 
 * Fadista (singer)
 * portuguese guitar
-* ヴィオラ（クラシックギター系伴奏）
+* Viola (classical guitar accompaniment)
 
 In some cases, a bass guitar may also be added.
 
@@ -169,13 +169,13 @@ Fado is music that shares emotions throughout the space.
 
 ### Improvisation and lyrics
 
-ファドは形式的には定型を持ちながらも、感情表現において強い即興性を持つ。
+Although Fado has a formal structure, it has a strong sense of improvisation in its emotional expression.
 
 The tempo, intonation, and pauses vary greatly depending on the singer.
 
 Also, the lyrics have a high degree of perfection as poetry.
 
-ポルトガル文学との関係も深く、20世紀以降は著名詩人の作品が歌詞として使われることも増えていった。
+It has a deep relationship with Portuguese literature, and from the 20th century onwards, the works of famous poets were increasingly used as lyrics.
 
 Fado was both folk music and a culture of urban poetry.
 
@@ -188,9 +188,9 @@ B --> E[saudade expression]
 E --> F[sharing with audience]
 </div>
 
-ファドの演奏空間では、派手さよりも感情の密度が優先される。
+In a Fado performance space, emotional density takes precedence over flashiness.
 
-> ファドは“聴く音楽”というより、“感情に沈み込むための空間”として機能してきた。
+> Fado has functioned more as a "space to sink into one's emotions" than as "music to listen to."
 
 ---
 
@@ -202,13 +202,13 @@ Maria Severa is an indispensable figure when talking about the history of Fado.
 
 She is said to have existed in the first half of the 19th century, and is often referred to as the "first Fadista."
 
-It is said that she was both a prostitute and a singer, and became a symbol of Lisbon's downtown culture.
+She is said to have been both a prostitute and a singer, and became a symbol of Lisbon's downtown culture.
 
 Records regarding Severa are limited, and there are many myths about him in later years.
 
 However, what is important is that she played a decisive role in forming the image of ""Fado = urban lower culture.''
 
-恋愛、悲劇、短い生涯。
+Love, tragedy, and a short life.
 
 Its narrative nature became strongly connected to the "fatefulness" of fado.
 
@@ -222,7 +222,7 @@ This is no mere coincidence.
 
 This is because the emotional expressions of those who wait, those who lose, and those who continue to hold on to love have been strongly visualized by female singers.
 
-もちろん男性歌手も多いが、世界的イメージとしてのファドは、長く女性歌手の声によって代表されてきた。
+Of course, there are many male singers, but Fado's global image has long been represented by the voices of female singers.
 
 <div class="mermaid">
 sequenceDiagram
@@ -245,7 +245,7 @@ Severa exists on the border between historical fact and legend.
 
 ### The arrival of the "Queen of Fado"
 
-At the turn of the 20th century, Amalia Rodríguez was the person who helped push fado into international music.
+At the turn of the 20th century, Amalia Rodríguez was the person who helped push Fado into international music.
 
 Born in 1920, she is said to have grown up in a poor environment from an early age.
 
@@ -257,7 +257,7 @@ Fado, which had previously been seen as a part of downtown culture, was redefine
 
 While preserving traditional fado, she enhanced her poetic expression and stage artistry.
 
-They also actively performed overseas and received high praise in Europe, South America, and Japan.
+They also actively performed overseas and received high acclaim in Europe, South America, and Japan.
 
 Through her, Fado changes from a ""Portuguese domestic folk song" to a ""global cultural expression."
 
@@ -343,21 +343,21 @@ The revolution did not erase fado.
 
 ## Modern fado reproduction
 
-### マリーザ以降の世代
+### Generations after Mariza
 
 From the late 1990s to the 2000s, Fado once again attracted worldwide attention.
 
-その中心人物のひとりがマリーザだった。
+One of the central characters was Marisa.
 
 Born in Mozambique, she inherited traditional fado while incorporating modern stage expression.
 
-黒い衣装、力強い歌唱、大規模ホール公演。
+Black costumes, powerful singing, and a large hall performance.
 
 Fado is being redefined as an ongoing art form, rather than "traditional music for tourists."
 
 In addition, singers with diverse styles such as Ana Moura and Carminho appeared.
 
-ジャズ、ポップ、ブラジル音楽との接近も進み、ファドは閉じたジャンルではなくなっていく。
+As it became closer to jazz, pop, and Brazilian music, fado ceased to be a closed genre.
 
 ### UNESCO Intangible Cultural Heritage
 
@@ -390,7 +390,7 @@ Modern fado is not just about preservation.
 
 ## Fado and literature
 
-### Portugal, the land of poetry
+### Portugal, the country of poetry
 
 Poetry occupies a very important place in Portuguese culture.
 
@@ -416,7 +416,7 @@ A bar at night, quiet seating, dim lighting.
 
 Demonstrate maximum strength in such an environment.
 
-In Lisbon's old town, not only tourists but also locals head to the fado houses at night.
+At night in Lisbon's old town, not only tourists but also locals head to the fado houses.
 
 There, people not only listen to music, but also share ""city time'' itself.
 

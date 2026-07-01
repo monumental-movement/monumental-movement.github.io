@@ -20,7 +20,7 @@ title: '[Column] Throbbing Gristle and the birth of industrial—the moment when
 
 Text: mmr｜Theme: A record of innovation that deconstructed the definition of music through noise and provocation and transformed the sounds of industrial society into art
 
-In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question, ""What is music?'' remained fixed, with almost no one questioning it.
+In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question of ""What is music?'' remained fixed, with almost no one questioning it.
 
 Throbbing Gristle completely destroyed that premise.
 
@@ -143,7 +143,7 @@ This approach would later influence live experiences in noise, industrial, and e
 
 Throbbing Gristle has always been subject to criticism and censorship due to its extreme expressions.
 
-Their work was often misunderstood and treated as ""dangerous'' for its depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
+Their works were often misunderstood and treated as ""dangerous'' for their depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
 
 In this respect, they were also pioneers of media criticism. It used sound and visuals to show how information is manipulated and consumed.
 

@@ -75,7 +75,7 @@ With improvements in the performance of personal PCs, the spread of audio interf
 
 ### 2010s and beyond: Diversification, improvisation, and cloud computing
 
-DAWs have evolved from tools for simply "recording, arranging, and mixing" to multifunctional features such as live performance (Ableton Live), real-time collaboration, video linkage, and modular integration. Usage options are further expanding, including mobile apps/DAWs for iPad, cloud project synchronization, and the introduction of subscription models.
+DAWs have evolved from tools for simply "recording, arranging, and mixing" to multi-functionality such as live performance (Ableton Live), real-time collaboration, video linkage, and modular integration. Usage options are expanding further, including mobile apps/DAWs for iPad, cloud project synchronization, and the introduction of subscription models.
 
 <hr>
 

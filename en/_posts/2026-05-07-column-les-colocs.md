@@ -313,7 +313,7 @@ Representative songs include:
 
 - "La rue principale"
 - "Mauvais caractère"
--"Julie"
+- "Julie"
 
 ### The shock of "La rue principale"
 
@@ -469,9 +469,9 @@ However, his powers of observation are very sharp.
 "Who is abandoned?"
 was always watching.
 
-### ユーモアと悲劇性
+### Humor and tragedy
 
-Les Colocs の特徴は、
+Les Colocs features:
 It was important not to limit it to just a tragedy.
 
 There is always laughter and sarcasm mixed into the songs.
@@ -483,28 +483,28 @@ It is also connected to the black humor unique to Quebec culture.
 
 ---
 
-## 『Dehors Novembre』と内面化する世界
+## "Dehors Novembre" and the world of internalization
 
-### 1998年の作品
+### Works from 1998
 
 1998,
-『Dehors Novembre』を発表。
+""Dehors Novembre'' released.
 
 This work is
 darker,
 More introspective.
 
-### Mental exhaustion
+### 精神的疲弊
 
 During this period,
-Dédé Fortin 自身の精神状態悪化も指摘されている。
+It has also been pointed out that Dédé Fortin's own mental state has deteriorated.
 
 The work includes
 feeling of fatigue,
 loneliness,
-自己崩壊への恐れが滲む。
+Fear of self-destruction pervades.
 
-しかし音楽は依然として美しい。
+But the music is still beautiful.
 
 ### Relationship with Quebec society
 
@@ -515,10 +515,10 @@ Stagnation of the independence movement.
 Economic anxiety.
 Urbanization.
 
-Les Colocs の作品は、
+The works of Les Colocs are
 It was in sync with this sense of the times.
 
-### 「Tassez-vous de d'là」
+### "Tassez-vous de d'là"
 
 One of the representative songs of this period, "Tassez-vous de d'là",
 It is known as a song where chaos and energy coexist.
@@ -548,7 +548,7 @@ It shocked the entire Quebec cultural community.
 
 ### Dédé as a national figure
 
-Dédé は単なるロックスターではなかった。
+Dédé was more than just a rock star.
 
 he,
 He was seen as representing "ordinary people in Quebec."
@@ -562,7 +562,7 @@ After death,
 Les Colocs was mythologised.
 
 But the important thing is
-単なる悲劇性だけではない。
+It's not just tragic.
 
 Their music is still being listened to today.
 
@@ -574,98 +574,98 @@ Because it is connected to all of them.
 
 <div class="mermaid">
 graph TD
-A["folk community"] --> D["Les Colocs の遺産"]
+A["folk community"] --> D["The Legacy of Les Colocs"]
 B["Social Criticism"] --> D
 C["Multiculturalism"] --> D
-E["ケベック語文化"] --> D
+E["Quebec Culture"] --> D
 F["Live community"] --> D
 </div>
 
-> Dédé Fortin の死後も、Les Colocs の音楽は共同体的記憶として残り続けた。
+> Even after Dédé Fortin's death, the music of Les Colocs remained a collective memory.
 
 ---
 
 ## Musical characteristics of Les Colocs
 
-### ジャンル横断性
+### Cross-genre
 
-Les Colocs は分類が難しい。
+Les Colocs is difficult to classify.
 
 - folk rock
-- オルタナティブロック
+- alternative rock
 - world music
-- ブルース
-- レゲエ
-- シャンソン
-- パーカッション音楽
+- blues
+- Reggae
+- chanson
+- percussion music
 
-これらが同時に存在する。
+These exist simultaneously.
 
-### コーラス文化
+### Chorus Culture
 
-彼らの音楽では、
-集団コーラスが非常に重要である。
+in their music,
+A collective chorus is very important.
 
-これは単なる装飾ではない。
+This is not just a decoration.
 
-「一人で歌わない」
-という思想に近い。
+"I don't sing alone"
+This idea is close to that.
 
-### リズム重視
+### Emphasis on rhythm
 
-Les Colocs の重要要素はリズムである。
+A key element of Les Colocs is rhythm.
 
-北米ロックの典型的4ビートだけではなく、
-循環型グルーヴを多用する。
+Not only the typical 4 beat of North American rock,
+Uses a lot of circular grooves.
 
 This led to a sense of elation during the live performance.
 
-### ストーリーテリング
+### Storytelling
 
-歌詞は具体的人物描写が多い。
+The lyrics often describe specific characters.
 
-抽象的思想より、
-街角の人物像を描く。
+From abstract thought,
+Draw portraits of people on street corners.
 
-This ties in with folk tradition.
+This is also connected to folk tradition.
 
-> Les Colocs は多文化都市モントリオールの音楽的混交を、そのままサウンド化した。
+> Les Colocs has translated the musical mixture of the multicultural city of Montreal into sound.
 
 ---
 
-## ケベック文化への影響
+## Influence on Quebec culture
 
 ### Impact on subsequent generations
 
 Les Colocs is
 He had a great influence on later Quebec musicians.
 
-特に以下の点で重要だった。
+The following points were particularly important.
 
-- ローカル言語表現
-- 多文化融合
-- 社会問題への接続
-- ライブ共同体性
+- Local language expression
+- Multicultural fusion
+- Connection to social issues
+- Live community
 
 ### Redefining "Quebec-ness"
 
-彼ら以前、
-「ケベック音楽」は比較的フォーク寄りか、
+Before them,
+Is "Quebec music" relatively folk-oriented?
 Or, there was also an image that had a strong French chanson feel.
 
-Les Colocs はそこに、
+Les Colocs is there.
 It brought with it an urban hybridity.
 
-### 現在も続く人気
+### Continued popularity
 
 Even now, Les Colocs' songs are
 It is widely popular in Quebec.
 
-世代を超えて歌われる曲も多い。
+Many songs are sung across generations.
 
 There is a strong choral culture, especially at live concerts and local events.
 
-> Les Colocs はケベック音楽を「地域文化」から「都市混交文化」へ拡張した。
+> Les Colocs expanded Quebec music from a ""regional culture" to an ""urban mixed culture."
 
 ---
 
@@ -689,42 +689,42 @@ timeline
 
 | Year | Works | Features |
 |---|---|---|
-| 1993 | Les Colocs | 初期代表作 |
-| 1995 | Atrocetomique | アフリカ音楽色の拡張 |
-| 1998 | Dehors Novembre | 内省的・重厚な作品 |
+| 1993 | Les Colocs | Early masterpieces |
+| 1995 | Atrocetomique | Expansion of African musical colors |
+| 1998 | Dehors Novembre | Introspective and profound work |
 
-> Les Colocs の作品群は、時代と共に祝祭性から内省性へ移行していった。
+> Over time, Les Colocs' works shifted from a celebratory style to a reflective style.
 
 ---
 
 ## Why Les Colocs remains special
 
-Les Colocs の特別さは、
+What makes Les Colocs so special is that
 Not "perfect music"
-「生きている音楽」である点にある。
+The point is that it is ""living music.''
 
-雑然としている。
-荒々しい。
-時に不安定。
+It's cluttered.
+Rough.
+Unstable at times.
 
 But there,
-共同体のリアルがある。
+There is a community reality.
 
 They are
-北米商業ロックの成功モデルとは異なる道を歩いた。
+They followed a path different from the success model of North American commercial rock.
 
-地方性を隠さず、
+Without hiding the locality,
 using dialect,
 Accepting immigrant culture
 He sang about social issues.
 
 And that,
-説教ではなく祝祭として鳴らした。
+It was sounded as a celebration, not a sermon.
 
-それが今も聴き継がれる理由である。
+That is the reason why it is still listened to today.
 
 The music of Les Colocs includes
-「一緒に生き延びる」という感覚がある。
+There is a sense of ""we will survive together.''
 
 That's why,
 They didn"t end up just being a 90"s band.

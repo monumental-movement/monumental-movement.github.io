@@ -69,7 +69,7 @@ A new way to carry movie music with your car audio or portable device.
 
 ■CD (compact disc)
 
-Since the 1980s, it has become popular as a format with high sound quality, long duration, and high flexibility in song order.
+Since the 1980s, it has become popular as a format with high sound quality, long duration, and a high degree of freedom in song order.
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
@@ -253,3 +253,14 @@ The sound that flows on the screen returns to us through the speakers. The mediu
 </tbody>
 </table>
 </div>
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ldTm5XSGu-I?si=02SAJN37g40YguRZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

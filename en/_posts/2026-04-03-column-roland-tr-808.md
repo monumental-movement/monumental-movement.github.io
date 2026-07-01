@@ -270,7 +270,7 @@ The TR-808 was a failure when it was first released. However, the sound was too 
 
 As a result, it is incorporated into specific cultures, reinterpreted, and eventually spread all over the world.
 
-The important thing is that the 808 was not a "finished product." It's incomplete, unpredictable, and unreal. That quality made room for new music.
+Importantly, the 808 was not a "finished product." It's incomplete, unpredictable, and unreal. That quality made room for new music.
 
 If the 808 had aimed to recreate the perfect drum, this history might not have existed.
 

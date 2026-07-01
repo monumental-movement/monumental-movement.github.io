@@ -315,7 +315,7 @@ MOTU has mastered **video synchronization**,
 Adobe has created its own market with **integration with broadcast and video editing**.
 
 Although the six companies compete with each other,
-As a result, they have together shaped the very culture of music production.
+As a result, together they have shaped the ""culture of music production itself.''
 
 After 2025, AI editing, cloud collaboration, expansion of mobile production, etc.
 The future of DAWs will take on a new dimension.

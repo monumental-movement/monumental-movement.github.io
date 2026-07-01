@@ -73,7 +73,7 @@ This transformation is the basis for all of his subsequent works.
 
 Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he started recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
 
-This recording was later published in the form of Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
+This recording was later released as a work, titled Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
 
 At this stage, it has not yet created a huge sensation. However, the direction of "modular + natural sounds/environmental sounds + spatiality" was already clear, and the underlying feeling of her music was emerging.
 

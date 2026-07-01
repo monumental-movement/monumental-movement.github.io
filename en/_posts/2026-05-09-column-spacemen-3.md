@@ -101,7 +101,7 @@ It inspired them to explore deep music.
 
 The two were particularly attracted to the following music.
 
-- The Velvet Underground
+-The Velvet Underground
 -The Stooges
 -MC5
 -13th Floor Elevators
@@ -132,7 +132,7 @@ Eventually, the following structure will be established.
 - Will Carruthers
 - Jonny Mattock
 
-バンド名は、
+The band name is
 It was chosen because it evokes "space" and "drug sensations."
 
 From the beginning they
@@ -225,7 +225,7 @@ The performance is long.
 
 There is little communication with the audience.
 
-However, the sense of stillness was strange.
+だが、その静止感が逆に異様だった。
 
 <div class="mermaid">
 flowchart LR
@@ -357,7 +357,7 @@ It changes the entire song.
 graph TD
 A["Simple code"] --> B["Focus on tone"]
 B --> C["feedback"]
-C --> D["Space control"]
+C --> D["空間支配"]
 </div>
 
 > Spacemen 3 was a band that prioritized "sustainable sound" over performance technique.
@@ -468,7 +468,7 @@ This was also a de facto declaration of dissolution.
 1991,
 Spacemen 3 is disbanded.
 
-but,
+However,
 Its influence will expand from here.
 
 > The end of Spacemen 3 was the moment when the "community fantasy" reached its limit.
@@ -559,7 +559,7 @@ This led to later ambient rock.
 ### Impact on drone culture
 
 Even in modern drone music,
-Spacemen 3 is an important reference point.
+Spacemen 3は重要な参照点である。
 
 <div class="mermaid">
 flowchart TD
@@ -602,7 +602,7 @@ Repetition.
 Play for a long time.
 
 The audience is
-Rather than "listening" to a song,
+曲を“聴く”というより、
 "Immerse" in the space.
 
 ### Connection with modern festival culture
@@ -712,7 +712,7 @@ The period of activity is short.
 
 but,
 The impact they left in such a short period of time was
-Even now, it continues to live in the midst of countless roars.
+Even now, it continues to live amid countless roars.
 
 > Spacemen 3 was a band that created the largest immersive space with the "minimum of rock."
 

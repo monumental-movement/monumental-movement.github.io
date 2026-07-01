@@ -82,7 +82,7 @@ Hip-hop was a reimagining of Jamaican sound system culture in an urban context.
 
 In 1985, **Under Mi Sleng Teng** was released. This song, which used presets on the Casio MT-40, ushered in the digital dancehall era.
 
-Around the same time, sampling culture expanded in America, and hip-hop entered the realm of sonic experimentation. In the 1990s, **Shabba Ranks** became an international hit and the fusion of dancehall and rap progressed.
+Around the same time, sampling culture expanded in the United States, and hip-hop entered the realm of sonic experimentation. In the 1990s, **Shabba Ranks** became an international hit and the fusion of dancehall and rap progressed.
 
 The appearances of **Busta Rhymes**, who has a Jamaican flow, and **The Notorious B.I.G.**, which has a Caribbean intonation, are symbolic of this.
 

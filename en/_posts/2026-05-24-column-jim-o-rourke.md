@@ -267,7 +267,7 @@ He is involved in a wide range of works.
 
 Moreover, none of them sound the same.
 
-Producers with strong individuality usually dye their works in their own unique colors. But Jim O'Rourke was the opposite.
+Producers with strong individuality usually give their works their own unique color. But Jim O'Rourke was the opposite.
 
 He brings out the artist's unique texture.
 
@@ -397,7 +397,7 @@ Both electronic and acoustic sounds were equal.
 
 That feeling is extremely compatible with the current music environment.
 
-Nowadays, thanks to Spotify and YouTube, genre boundaries are blurring more than ever before. In playlist culture, different types of music naturally line up.
+Nowadays, thanks to Spotify and YouTube, the boundaries between genres are blurring more than ever before. In playlist culture, different types of music naturally line up.
 
 But Jim O'Rourke has been practicing that sensibility since the 1990s.
 
@@ -445,7 +445,7 @@ Above all, he was a person who continued to doubt the walls of ""music genres''.
 | Works | Publication year | Features |
 |---|---|---|
 | Disengage | 1992 | Early experimental acoustics |
-| Bad Timing | 1997 | Long guitar piece |
+| Bad Timing | 1997 | Long guitar work |
 | Eureka | 1999 | Chamber Music Pop |
 | Insignificance | 2001 | A masterpiece with a strong rock flavor |
 | The Visitor | 2009 | A traveling piece composed of one song |

@@ -129,7 +129,7 @@ color: #fff;
 - **Equipment:** Tascam Portastudio, Roland TR-808, Yamaha DX7, shortwave radio.
 
 ### Masterpiece
-- [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)
+- [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)  
 - [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)
 - [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)
 

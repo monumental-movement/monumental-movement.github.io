@@ -54,7 +54,7 @@ Pooley's songs are regarded as a "reliable middle ground", particularly in UK cl
 
 <div class="mermaid">
 graph LR
-A[Early 1990s European club culture] --> B[uk house]
+A[Early 1990s European club culture] --> B[UKハウス]
 B --> C[Ian Pooley early works]
 C --> D[Establishment within DJ sets]
 </div>
@@ -103,7 +103,7 @@ In the UK house scene, Pooley was somewhere between the mainstream and the under
 
 The album Meridian, released in 1997, was an important milestone in Ian Pooley's career. In this work, the aesthetics that had been presented in singles and 12-inch releases were organized and integrated in the album format.
 
-The songs on ""Meridian'' emphasize sustainability over immediate impact. When listened to on its own, it sounds unassuming, but as you listen to it over time, the sophistication of its structure gradually emerges.
+『Meridian』に収録された楽曲群は、即効性よりも持続性を重視している。単体で聴くと控えめだが、時間をかけて聴くことで、構造の精緻さが徐々に浮かび上がってくる。
 
 The album was both a listening piece and a deep understanding of DJ culture. Although it was an album, each song was created with the premise of club use, which is unique even at the time.
 
@@ -117,7 +117,7 @@ The biggest reason why Ian Pooley's music has continued to be popular for so lon
 
 Pooley's songs rarely have excessive breakdowns or dramatic shifts. Instead, it maintains a certain level of tension while leaving enough space for it to connect naturally with other songs. It was this blank space that made it more maneuverable for DJs.
 
-DJs don't "play" songs, they "arrange" them. Pooley understood the premise deeply and made it a priority to make his tracks work as part of the set. As a result, his works continue to be used in a variety of contexts, without being tied to a specific peak time or genre.
+DJは楽曲を"再生"するのではなく、"配置"する。 Pooley understood the premise deeply and made it a priority to make his tracks work as part of the set.その結果、彼の作品は特定のピークタイムやジャンルに縛られず、多様な文脈で使用され続けている。
 
 ### Comparison with tracks for contemporary DJs
 

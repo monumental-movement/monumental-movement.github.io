@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: The origins of 8-bit - Famicom and Game Boy sound source chips
+## Chapter 1: Origin of 8-bit - Famicom and Game Boy sound source chip
 
 ### 1-1. "Ricoh 2A03" that determined the sound of Famicom/NES
 

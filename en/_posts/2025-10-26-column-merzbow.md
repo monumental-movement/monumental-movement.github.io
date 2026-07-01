@@ -45,7 +45,7 @@ At the end of the 1970s, Tokyo's underground was filled with a diverse spirit of
 During this time, Akita studied the history of art at an art university and explored the relationship between the body and sound.
 
 Early Merzbow was developed as an ""action art'' that involved the audience and the space through live noise, similar to action painting.
-Also, the cassette culture (cassette underground) supported his expression. The DIY spirit of **home recording + mailing network** was a precursor to what would later become an Internet-like phenomenon.
+また、カセット文化（cassette underground）は彼の表現を支えた。 The DIY spirit of **home recording + mailing network** was a precursor to what would later become an Internet-like phenomenon.
 
 ---
 
@@ -54,7 +54,7 @@ Merzbow's aesthetic lies in ""regeneration, not destruction''.
 His noise shatters all genres, structures, harmony, and emotions, but then a new order emerges.
 The infinite folding of sound particles pushes the listener's hearing to new sensory horizons.
 
-> "Noise is the sound of freedom. No one can control it."
+> 「ノイズは“自由の音”だ。誰にもコントロールされない。」  
 > ─ Masami Akita (Interview, 1994)
 
 Merzbow's creative process is often compared to the structure of an ecosystem.
@@ -76,7 +76,7 @@ Merzbow's "sound" is a record of the mutual interference process between humans 
 ## Social context: animal welfare and anti-capitalism
 Since the 2000s, Akita has openly advocated animal rights movements and veganism, and has begun to incorporate these ideas into his music.
 In his representative works ""Animal Liberation" and ""Ecoid" series, he redefined noise as a critique of anthropocentrism.
-In other words, noise is not just a sound, but takes on the meaning of an ecological resistance movement.
+つまり、ノイズは単なる音響ではなく、**エコロジカルな抵抗運動**としての意味を帯びていく。
 
 Merzbow's music is also the antithesis of the capitalist commodity form.
 Despite being the opposite of "music that sells," the paradox of receiving high acclaim at festivals and museums around the world was born.
@@ -172,7 +172,7 @@ flowchart LR
 
 flowchart TD
 
-    A["Analog era (physical destruction)"]
+    A["アナログ時代（物理的破壊）"]
     B["Digital era (signal collapse)"]
     C["AI era (noise of consciousness)"]
     A --> B --> C

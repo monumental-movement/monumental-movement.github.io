@@ -190,7 +190,7 @@ Now, we will visualize "BPM and heart rate synchronization" and "binaural beat i
 
 ---
 
-## Synchronized image of BPM and heart rate
+## Synchronization image of BPM and heart rate
 
 Music with a constant tempo tends to gradually synchronize with your heartbeat. In particular, 60 to 80 BPM is close to the resting heart rate and is easy to induce a relaxed state.
 

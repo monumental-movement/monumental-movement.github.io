@@ -40,7 +40,7 @@ Shibuya-kei sound is a Japanese music movement that spread around record shops a
 - Early drum machines such as Roland TR-808
 - Home recording culture using cassette MTR
 
-### 10 recommended songs (1980s)
+### Recommended 10 songs (1980s)
 
 <style type="text/css">
 

@@ -58,7 +58,7 @@ The beat is based on garage-derived **2-step**, but it also includes certain flu
 - Bass drum ranges from **110 to 130 BPM** instead of around 140
 - Snare has a weak attack tone without emphasizing the backbeat
 - Hats are often made from processed field recordings rather than metal.
-- In addition to drum machines, you can use short samples such as the sound of small objects hitting, the sound of paper scraping, etc.
+- Use short samples not only of drum machines, but also of small objects hitting sounds, paper scraping sounds, etc.
 
 ### 1-3 Acoustic space: reverberation, particleization, field recording
 Post-dubstep can be described as a ""genre that creates space.'' In particular, the following elements are distinctive.
@@ -89,7 +89,7 @@ His most important characteristic is his ability to extract the feeling of lonel
 Burial's sampling is particularly distinctive, incorporating various noises as musical elements.
 
 - Process train announcement sound and use it as a pad
-- Convert nighttime rain recordings into particles to create rhythm material
+- 夜間の雨の録音を粒子化してリズム素材へ  
 - Composite game audio segments to form human nuances
 - Cut the vocal fragment extremely short and give it a ghostly presence with reverse reverb processing
 
@@ -103,7 +103,7 @@ James Blake is unique in taking post-dubstep out of the context of club culture 
 
 ### Acoustic features
 - Extreme minimalism centered around piano and vocals
-- The bass is minimal and smoothly arranged around 50-70Hz.
+- ベースは必要最低限で、約50〜70Hz を中心に滑らかに配置  
 - The chord progression has a classical harmonic feel.
 - Suppress formant manipulation and blur the boundary between natural sounds and electronic sounds
 - Depending on the depth of compression, "breathing" functions as the rhythm of the song

@@ -79,7 +79,7 @@ As a result, she has come to be recognized as someone who crosses the boundaries
 
 ---
 
-## Sound Design: The intersection of function and emotion
+## サウンドデザイン：機能と感情の交差点
 
 ANNA"s greatest feature is their extremely high awareness of sound design. Her tracks don"t just consist of beats and bass, they have multiple layers of sound precisely arranged.
 

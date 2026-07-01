@@ -20,7 +20,7 @@ Text: mmr｜Theme: From Happy End to YMO to Ambient—Tracing the "soundscapes" 
 
 **Haruomi Hosono** is a musician who has continued to transform Japanese pop music for half a century.
 From the late 1960s to the present, his music has carved out a unique horizon by ""shifting the era" rather than ""defining the era."
-Diverse cultures, humor, nostalgia, technology—all of which blend into Hosono's sound.
+Diverse cultures, humor, nostalgia, technology—all of these are blended into Hosono's sound.
 
 ---
 

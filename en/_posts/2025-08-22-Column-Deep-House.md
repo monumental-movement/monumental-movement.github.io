@@ -20,7 +20,7 @@ title: '[Column] What is deep house? ─ Exploring the depth of the sound that b
 
 Text: mmr｜Theme: Deep House, a genre that continues to quietly evolve while incorporating history and context.
 
-Deep house is a strain of house that emerged in the Chicago-New Jersey area in the late 1980s. Characterized by soul/jazz harmonies, smooth bass, and a restrained groove, it is a type of dance music that is ""deep, long, and warms the body'' rather than a rush peak. BPM is generally 118–124 (slow to medium speed), 7th/9th chords, electric piano (Rhodes), organ (Korg M1 series), and laid-back vocals are symbolic. It has a "night temperature" that is valid for both the floor and listening.
+Deep house is a strain of house that sprouted in the Chicago-New Jersey area in the late 1980s. Characterized by soul/jazz harmonies, smooth bass, and a restrained groove, it is a type of dance music that is ""deep, long, and warms the body'' rather than a rush peak. BPM is generally 118–124 (slow to medium speed), 7th/9th chords, electric piano (Rhodes), organ (Korg M1 series), and laid-back vocals are symbolic. It has a "night temperature" that is valid for both the floor and listening.
 
 
 <hr>
@@ -29,7 +29,7 @@ Deep house is a strain of house that emerged in the Chicago-New Jersey area in t
 
 **1985–90: Early Early (Chicago/NJ)**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) presents the prototype with "Can You Feel It" and "Mystery of Love." Following the flow of [Frankie Knuckles](https://amzn.to/4nUwWJ4) and [Marshall Jefferson](https://amzn.to/3KOf4AV), a fusion of Jersey Garage's sweet soul feel ([Blaze](https://amzn.to/4ooZuuc) and [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) presents the prototype with "Can You Feel It" and "Mystery of Love." Following the flow of [Frankie Knuckles](https://amzn.to/4nUwWJ4) and [Marshall Jefferson](https://amzn.to/3KOf4AV), the sweet soul feeling of Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) and [Kerri Chandler](https://amzn.to/4qbd4CR)) is fused.
 
 **1990s: Deepening and diversification**
 
@@ -37,7 +37,7 @@ Chicago"s [Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp), New
 
 **2000s: Listening orientation and sophistication**
 
-Naked Music, Jimpster (Freerange) and more will take you to the lounge-soulful sophistication. In Germany, [Henrik Schwarz](https://amzn.to/4h8i9I4), [Âme](https://amzn.to/47pAIEq), and [Dixon (Innervisions)](https://amzn.to/4heIsN1) are popular for their minimalist to modern architectural aesthetics.
+Naked Music, Jimpster (Freerange) and more will take you from lounge to soulful sophistication. In Germany, [Henrik Schwarz](https://amzn.to/4h8i9I4), [Âme](https://amzn.to/47pAIEq), and [Dixon (Innervisions)](https://amzn.to/4heIsN1) are popular for their minimalist to modern architectural aesthetics.
 
 **2010s and beyond: bifurcation and globalization**
 

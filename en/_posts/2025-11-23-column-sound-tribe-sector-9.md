@@ -88,7 +88,7 @@ Representative song:
 - "Atlas"
 - "Something"
 - "Arigato"
-- "Tokyo"
+-"Tokyo"
 -"Peoples"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
@@ -197,7 +197,7 @@ This ensures **acoustic thickness** even during live performances, creating a th
 ---
 
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
-## 7-1. Structuring the setlist
+## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
 - Opener (world view presentation)
 - Midfield build-up

@@ -27,7 +27,7 @@ While many post-punk bands focused on aggressive rhythms and politics, this proj
 
 Although the guitar playing of the central figure, Vini Reilly, was influenced by classical music, jazz, flamenco, etc., he sublimated it into a unique grammar without directly quoting them. His sound is more like a trembling air than a melody.
 
-At this point, The Durutti Column was already outside the framework of post-punk.
+By this point, The Durutti Column was already outside the realm of post-punk.
 
 > Their music could be said to deal with ""space itself'' rather than genre.
 
@@ -122,7 +122,7 @@ Their music is extremely abstract, even compared to their contemporaries The Smi
 
 The rhythmic emphasis is weak, and there are almost no songs. Therefore, it does not rely on common pop structures. Although this was commercially disadvantageous, it resulted in an extremely long career.
 
-Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even modern lo-fi and electronica.
+Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even contemporary lo-fi and electronica.
 
 > Rather than belonging to a genre, they continued to create a space outside of the genre.
 
@@ -232,7 +232,7 @@ It's clear why this song, created over 40 years ago, still sounds fresh.
 
 This is because it does not depend on the era. Elements such as drum machine tones or synth trends are almost absent, and the focus is on the structure of the sound itself.
 
-As a result, the song always resonates in the present tense, without being anchored to a specific era.
+As a result, the song always resonates in the present tense, without being tied to any particular era.
 
 > "Sketch for Summer" is not music from the past, but music separated from time.
 

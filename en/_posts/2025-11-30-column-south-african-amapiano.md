@@ -82,7 +82,7 @@ graph LR
 
 ### Geography and time
 
-The birthplace of Amapiano is **Gauteng** in South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
+The birthplace of Amapiano is Gauteng, South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
 
 According to multiple sources, experiments with Amapiano began around 2012, and the unified name "Amapiano" as a genre was established later.
 
@@ -96,7 +96,7 @@ According to multiple sources, experiments with Amapiano began around 2012, and 
 
 ---
 
-### Figure 2: Birthplace and initial spread
+### 図2：発祥地と初期拡散
 
 <div class="mermaid">
 graph TD

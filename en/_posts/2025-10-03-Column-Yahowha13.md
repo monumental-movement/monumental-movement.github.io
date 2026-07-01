@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Highlights & recommended listening order (beginner → intermediate → researchers)
+### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 

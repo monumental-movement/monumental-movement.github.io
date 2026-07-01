@@ -18,7 +18,7 @@ title: '[Column] Ryoji Ikeda｜Acoustic art of "space = visualization" drawn by 
 
 ## Sound as data, space as sound
 
-Text: mmr｜Theme: Extreme minimalism that converts data into sound and light and allows us to perceive the space itself
+Text: mmr｜Theme: Extreme minimalism that converts data into sound and light to create a perception of space itself
 
 When discussing Ryoji Ikeda's work, the first thing to understand is that the framework of ""music'' itself is not his main subject. His creations are close to comprehensive perceptual devices that integrate acoustics, mathematics, physics, programming, and visual expression.
 
@@ -218,7 +218,7 @@ graph LR
 A[Video layer 1] --> D[superposition]
 B[Video layer 2] --> D
 C[acoustic layer] --> D
-D --> E[division of perception]
+D --> E[splitting of perception]
 </div>
 
 In this work, the audience cannot be fixed on one point of view. The experience changes depending on where you look and where you listen.

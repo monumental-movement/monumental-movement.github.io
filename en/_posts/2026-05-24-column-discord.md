@@ -43,7 +43,7 @@ Young artists found allies solely on Discord servers, sent beats to each other, 
 This is not just a technological innovation.
 It was a structural change in the music community itself.
 
-> Discord has changed from being a "conversation tool" to a huge cultural device that generates underground music in the 2020s.
+> Discord has changed from being a "conversation tool" to a huge cultural device that generates underground music for the 2020s.
 
 <style type="text/css">
 
@@ -398,7 +398,7 @@ This cycle has led to extremely rapid trend formation.
 
 Spotify's algorithmic recommendations were also important.
 
-More and more small-scale artists are being discovered via playlists.
+More and more small-scale artists are being discovered through playlists.
 As a result, the possibility that artists from the Discord community will be connected to major distribution has increased.
 
 ### Optimization to the algorithm

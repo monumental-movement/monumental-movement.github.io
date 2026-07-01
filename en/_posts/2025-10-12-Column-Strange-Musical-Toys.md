@@ -163,7 +163,7 @@ Electronic sounds can be easily experienced on desks at home or school, and chil
 
 ## VII. Scandinavian irregular aesthetics
 
-In Scandinavia, small, highly designed synths have appeared.
+In Scandinavia, small, highly designed synthesizers have appeared.
 
 - Teenage Engineering OP-1
 - Pocket Operator series

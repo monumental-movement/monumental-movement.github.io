@@ -143,6 +143,18 @@ Examples like Neon Genesis Evangelion, which directly incorporate progressive ro
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1jCBjhXltCk?si=5f_R9jkLE-t7Q8V5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ### Related columns
 
 [[Column] Affinity between anime and jazz/fusion: A story of city nights and music](https://monumental-movement.jp/Column-Jazz-Fusion-Anime)
+
+---

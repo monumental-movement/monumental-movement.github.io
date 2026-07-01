@@ -46,7 +46,7 @@ color: #fff;
 
 The 1980s was a period of transition from analog to digital, and the vocabulary of electronic music expanded explosively with the spread of polyphonic synthesizers, FM sound sources, and the MIDI standard. At the same time, the expanding role of home video, cable television, and film music created a strong connection between music and images.
 
-Around 2010, as the Internet sharing culture matured, past video, sound sources, and design assets began to be recirculated. In this trend, the sound image of the 1980s was not just nostalgic, but became an object to be reconstructed with modern sensibilities. Dreamwave / Chill Synthwave is formed as a reinterpretation that focuses on "scene memory" in particular.
+Around 2010, as the Internet sharing culture matured, past video, sound sources, and design assets began to be recirculated. In this trend, the sound image of the 1980s was not just nostalgic, but became an object to be reconstructed with modern sensibilities. Dreamwave / Chill Synthwave is formed as a reinterpretation that focuses on "scenic memory" in particular.
 
 > The 1980s referred to here is more of a collective memory than an actual era.
 
@@ -77,7 +77,7 @@ B --> C[Tone selection]
 C --> D[emotional listening]
 </div>
 
-> Visuals are not an aid, but are incorporated as part of music understanding.
+> Images are not an aid, but are incorporated as part of music understanding.
 
 ---
 

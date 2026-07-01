@@ -51,7 +51,7 @@ From the 1980s to the early 1990s, DJ technology and club culture rapidly develo
 
 During this period, turntable technology was further refined and advanced techniques such as scratching, transformers, and juggling were established. These were developed in the context of hip-hop, but also influenced club music.
 
-At the same time, the club space itself evolved. Elements such as large sound systems, lighting and long sets are integrated, and the DJ becomes responsible for building the narrative throughout the night.
+At the same time, the club space itself evolved.大型サウンドシステム、照明、長時間のセットといった要素が統合され、DJは一晩を通じて物語を構築する役割を担うようになる。
 
 At this stage, analog music was still the mainstream, and there were physical constraints such as the weight of records and the cost of transporting them. However, they were also factors that encouraged careful selection of songs and made the DJ's style stand out.
 
@@ -125,7 +125,7 @@ In the space of a club, non-numerical elements such as audience reaction and atm
 
 Therefore, AI is not positioned as a replacement for DJs, but as a supporting tool. The final decision is still left to humans.
 
-> As technology evolves, the value of human intuition increases relatively.
+> As technology advances, the value of human intuition increases relatively.
 
 ---
 

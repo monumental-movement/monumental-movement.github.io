@@ -100,7 +100,7 @@ Another important aspect of Rubber O Cement is its DIY spirit. Rather than relyi
 
 This attitude resonates with post-punk DIY culture, but it's not just anti-commercialism. Rather, it appears as a technological quest to control sound itself.
 
-The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sounds of the events as they are.
+The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sound as it happened.
 
 <div class="mermaid">
 flowchart LR
@@ -207,5 +207,14 @@ Such practices continue to present values ​​that differ from commercial succ
 
 > Rubber O Cement is a concrete example of the possibilities that extend beyond music.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WQtjDV3HPvA?si=OT8V1IfJ-AFLvCF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

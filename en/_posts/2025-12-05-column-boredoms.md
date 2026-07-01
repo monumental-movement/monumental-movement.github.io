@@ -143,7 +143,7 @@ Elements of beach recording, long drones, meditative structures, ambient sounds 
 
 ---
 
-Here, the band's name is often written as V∞redoms, and the concept of Boredoms itself changes to a ""collective creative body'' rather than a musical unit.
+Here, the band name is often written as V∞redoms, and the concept of Boredoms itself changes to a ""collective creative body'' rather than a musical unit.
 In the 2000s, Boredoms entered into new developments, including the name **V∞redoms**, and the most iconic one was the large-scale drum ensemble that started with the ""7x7x7'' live held on July 7th**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

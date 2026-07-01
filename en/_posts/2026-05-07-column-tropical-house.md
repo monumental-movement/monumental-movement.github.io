@@ -27,7 +27,7 @@ Tropical house is a subgenre of house that was established in the early 2010s, a
 
 At the core of this genre is an ""aural climate.'' The acoustic design uses marimba, steel pan, soft pluck sounds, and deep spatial processing of reverb to give the listener a sense of "warmth" and even "humidity."
 
-Also, while the vocals are often emotional, they are not overly dramatic, and are placed so that they blend into the flow of the sound. This is the result of a strong awareness of the playback environment not only in clubs, but also on radio and streaming.
+Also, while the vocals are often emotional, they are not overly dramatic, and are placed so that they blend into the flow of the sound. This is the result of a strong awareness of the playback environment not only in clubs but also on radio and streaming.
 
 > Sustained comfort rather than excessive stimulation is the starting point for this genre.
 
@@ -96,7 +96,7 @@ The kick is modest, and the side chain pumping is also moderately suppressed. In
 
 ### Sound Design
 
-Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Sounds like flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
+Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Tones such as flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
 
 Furthermore, in spatial processing, emphasis is placed on spaciousness and transparency. Reverb and delay are not just effects, but function as part of the music, creating a space that envelops the listener.
 

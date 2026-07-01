@@ -27,7 +27,7 @@ In postwar art, painting was not just a visual medium, but transformed into a pl
 
 Typical examples at this intersection are German painter Gerhard Richter, musician John Cage, and Morton Feldman.
 
-They don't have a lot of direct collaboration left behind. However, their shared awareness of issues - ""abandoning control," ""introducing chance," and ""the meaning of silence'' - deeply resonates across visual and sound art.
+They don't have a lot of direct collaboration left behind. However, their shared awareness of issues - ""giving up control," ""introducing chance," and ""the meaning of silence'' - resonates deeply across visual and sound art.
 
 What is especially important is that music has shifted from being a ""structure" to a ""state." In other words, composing is no longer an act of building order, but has become an act of arranging phenomena and designing ways to open up perception.
 
@@ -268,7 +268,7 @@ What is especially important is that it is an act of ""causing" rather than ""dr
 
 Musically speaking, this process is more like ""setting up a generative environment'' than improvisation or composition.
 
-Richter's works are not completed drawings, but exist as traces of time.
+Richter's works exist not as completed drawings, but as traces of time.
 
 >A painting is not an image, but a surface on which time has accumulated.
 

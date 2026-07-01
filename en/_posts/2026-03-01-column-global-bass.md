@@ -111,7 +111,7 @@ Connecting dancehall and EDM.
 
 These are typical examples of regional rhythms being translated into club structures.
 
-> If you examine each song individually, you can see innovation in the rhythm structure.
+> When examining each song, innovations in rhythmic structure can be seen.
 
 ---
 

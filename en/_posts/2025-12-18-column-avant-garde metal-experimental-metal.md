@@ -44,7 +44,7 @@ color: #fff;
 
 ## Structural assumptions in metal
 
-To understand avant-garde metal, it is first necessary to clarify what is the premise behind regular metal.
+In order to understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
 
 Traditional metal has been formed as a collection of structural assumptions such as the following.
 
@@ -116,7 +116,7 @@ In Obscura, Gorguts' structural ideas are realized in an extreme form. The songs
 
 * There is no hierarchical relationship between riffs
 * Time signature change does not indicate a structural change
-* Dissonance becomes the norm, and the concepts of tension and release disappear.
+* Dissonance becomes the norm and the concepts of tension and release disappear.
 
 As a result, the entire album comes across as one giant structural experiment.
 

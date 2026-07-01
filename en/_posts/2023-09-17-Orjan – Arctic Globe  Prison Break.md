@@ -16,7 +16,7 @@ title: Orjan – Arctic Globe / Prison Break
 
 "Arctic Globe" is characterized by a beautiful melody and a magnificent sound.The combination of melody and synth sounds reminiscent of a cold, shining world of ice takes the listener on a fantastical journey.
 
-This song features an emotional build-up and an energetic drop, allowing you to fully enjoy the charm of trance music.
+この曲は、感情的なビルドアップとエネルギッシュなドロップが特徴であり、トランスミュージックの魅力を存分に味わえるでしょう。
 
 On the other hand, "Prison Break" is a song with a dark and dramatic atmosphere. The layering of the heavy bassline and synth sounds heightens the tension, creating a world of trance full of speed.
 

@@ -196,7 +196,7 @@ Even after Buzz's official development stalled, the following "legacy" has been 
 
 * License-free imitation/derivative projects (e.g. BuzzTrak/Buzz clone), Tracker module environment running on Linux, etc.
 * Maturation of software modular/plugin culture. The style of ""users adding extensions and sharing them online'' has become commonplace.
-* Buzz's spirit of "modular + improvisation" is being referenced in the renaissance of hardware modularity (e.g. Eurorack). In the previous "Dreaming Of Wires" article, Holden said that "the wiring thinking he learned from Buzz" became the starting point for his transition to hard modular.
+* Buzz's spirit of "modular + improvisation" is being referenced in the hardware modular revival (e.g. Eurorack). In the previous "Dreaming Of Wires" article, Holden said that "the wiring thinking he learned from Buzz" became the starting point for his transition to hard modular.
 
 ### 6.4 Contributing to music production/education/DIY culture
 
@@ -247,7 +247,7 @@ To put it another way, the existence of Buzz has broken down the stereotype that
 Below is a chronology of Buzz's history/major events.
 
 | Year | Events |
-| ------------ | ------------------------------------------------------------------- |
+| ------------ | ------------------------------------------------------------------------- |
 | Around 1997 | Jeskola Buzz published. Introduced as a modular tracker for Windows.                                |
 | 1998 | Initial version activates user community. Many plugins/machines have appeared.                                    |
 | 1999 | Widespread use among demo scenes and indie electronic music.                                                 |

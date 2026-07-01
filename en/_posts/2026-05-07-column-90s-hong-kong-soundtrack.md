@@ -25,7 +25,7 @@ Hong Kong cinema in the 1990s was an era in which the contours of the city were 
 
 At this time, Hong Kong's handover in 1997 was just around the corner, and there was a unique sense of tension and floating in the society as a whole. Film music directly reflected this atmosphere, sometimes expressing the heartbeat of the city with pop and lightness, and other times with urgent rhythms.
 
-In Koisuru Planet, for example, repeated pop songs emphasize the characters' loneliness and the dislocation of time, and the music itself is integrated into the structure of the story. Here, ""music selection'' began to have the same meaning as composition.
+For example, in Koisuru Planet, repeated pop songs emphasize the loneliness of the characters and the dislocation of time, and the music itself is integrated into the structure of the story. Here, ""music selection'' began to have the same meaning as composition.
 
 > The music of Hong Kong movies in the 1990s was a device for reproducing the city's time itself.
 
@@ -70,7 +70,7 @@ Providing many dramatic songs with powerful vocals
 
 ### Drama of the theme song
 
-The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic movies and noir films, the melody of the theme song remains strongly in the memory of the audience.
+The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic movies and noir movies, the melody of the theme song remains strongly in the memory of the audience.
 
 In Angel's Tears, music also functions as a device to visualize the psychological distance between the characters.
 
@@ -163,7 +163,7 @@ Wong Kar-wai restructured existing songs and gave them new meaning.
 
 Music acts as a memory trigger, making the film stay with the audience for a long time.
 
->Music existed not to explain the story, but to make it stick in memory.
+> Music existed not to explain the story, but to make it stick in memory.
 
 ---
 

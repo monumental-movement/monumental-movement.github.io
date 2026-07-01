@@ -162,7 +162,7 @@ electronica,
 noise,
 ambient,
 art pop,
-Experimental music was intermingled at very close distances.
+Experimental music was mixed in very close proximity.
 
 Even more important is the existence of the SoundCloud generation.
 
@@ -200,7 +200,7 @@ This is also in sync with changes in global pop music as a whole.
 
 ## "Quiet revolution" brought about by NewJeans
 
-When talking about K-Pop x Indie Electronica, the appearance of New Jeans is inevitable.
+K-Pop × Indie Electronicaを語る上で、NewJeansの登場は避けられない。
 
 They have greatly changed the structure of traditional K-Pop.
 

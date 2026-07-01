@@ -66,7 +66,7 @@ flowchart LR
 
 </div>
 
-As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern thought and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
+As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern philosophy and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
 
 ---
 
@@ -106,7 +106,7 @@ In modern times, **soundtrack production** and **AI music generation** using AI 
 ## FAQ
 
 **Q1: ​​What is the difference between hard rock and heavy metal? **
-A1: Hard rock is an extension of blues rock, and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
+A1: Hard rock is an extension of blues rock and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
 
 **Q2: In what specific musical elements does Eastern thought appear? **
 A2: We express "exoticism" and "mysticism" by utilizing oriental scales such as pentatonic scales and ragas (Indian music modes).
@@ -126,9 +126,21 @@ Hard rock is more than just "loud rock"; it is a unique cultural phenomenon that
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gWHNurv1cBk?si=YW6KEM1HE6ZoDGIB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ### Related columns
 
 
 🔗 [[Column] History of the intersection of hard rock and game culture](https://monumental-movement.jp/Column-Hard-Rock-Game)
 
 🔗 [[Column] Hard rock and car culture: Another rock and roll played by the sound of an engine](https://monumental-movement.jp/Column-Hard-Rock-Car-Motorcyle)
+
+---

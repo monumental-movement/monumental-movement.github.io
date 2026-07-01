@@ -12,7 +12,7 @@ title: Knoc-Turn'al – Knoc
 ---
 
 
-Long Beach native Knoc-Turn"al appeared on Dr. Dre"s Chronic 2001 album, co-wrote the Dr. Dre and Snoop Dogg soundtrack, The Wash, and among them was the smash hit Bad Intentions.
+Long Beach native Knoc-Turn"al appeared on Dr. Dre"s Chronic 2001 album, co-wrote the Dr. Dre and Snoop Dogg soundtrack, The Wash, and had a smash hit, Bad Intentions.
 
 Released in 2001 on Elektra, "knoc" was Knoc-Turn"al"s first single, featuring Missy Elliott and Dr. Dre. (promo edition)
 

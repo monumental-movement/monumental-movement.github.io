@@ -87,7 +87,7 @@ More than six tape recorders were running at the same time, making the studio fe
 Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
-> "I chopped up sounds and reconstructed them. It was the same act as composing."
+> "I chopped up the sounds and reconstructed them. It was the same act as composing."
 > — Teo Macero
 
 His method was similar to musique concrète, but also connected to the free improvisation of jazz.
@@ -124,7 +124,7 @@ It was the forerunner of the paradigm of ""editing = composing.''
 
 - Creating new contexts by controlling coincidence (rearranging the order of phrases)
 
-This philosophy was later carried over into hip-hop sampling and Brian Eno's studio art.
+This philosophy would later be carried over into hip-hop sampling and Brian Eno's studio art.
 In other words, Macero has carved out a new profession: ""post-recording composer.''
 
 ---
@@ -209,7 +209,7 @@ flowchart TD
 </div>
 
 The most important step in this process is the stage called ""**Blueprint = Edited Score**''.
-Macero designed the structure of the song by handwriting the time code and content on each fragment.
+Macero designed the song's structure by handwriting the time code and content on each fragment.
 It was an act of composing like an architect designing a space.
 
 ---

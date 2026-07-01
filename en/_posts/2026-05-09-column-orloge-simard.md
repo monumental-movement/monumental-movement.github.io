@@ -147,7 +147,7 @@ At the stage of ""Coke calciné'', the characteristics of Orloge Simard were alr
 
 Furthermore, they had been using the expression "folk sale" since then. This functioned as a term that emphasized Quebec's uniquely vulgar folk sensibilities.
 
-At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of cases in which audiences at some festivals were repulsed by radical lyrics.
+At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of audiences at some festivals revolting due to radical lyrics.
 
 However, at the same time, the number of fans who enthusiastically supported them increased.
 
@@ -287,7 +287,7 @@ What is important here is the existence of the character "Roxan Puppetville."
 
 This character also appeared at live performances and played a role in expanding the band's worldview.
 
-In other words, Orloge Simard was not just a band, but a group with its own universe from this point on.
+In other words, Orloge Simard was not just a band at this time, but a group with its own universe.
 
 In terms of music, a horn section was also introduced, expanding the range of arrangements.
 
@@ -355,7 +355,7 @@ Behind this is its identity as a French-speaking region, its sense of defense, a
 
 Orloge Simard is an extension of that tradition.
 
-What is especially important is not to hide locality.
+特に重要なのは、“ローカル性を隠さない”ことである。
 
 Many contemporary indie bands tend to dilute their regional flavor in favor of an international market. But Orloge Simard was the opposite.
 
@@ -434,7 +434,7 @@ As a result, their music is not ""music that can reach everyone," but ""music th
 
 Their activities also overlap with Quebec culture itself.
 
-An exaggerated affirmation of the local culture of French-speaking Canada. This attitude has become a place of identity confirmation for many viewers.
+An exaggerated affirmation of the local culture of French-speaking Canada. This attitude serves as a place for many viewers to confirm their identity.
 
 Moreover, Orloge Simard never loses its sense of danger.
 

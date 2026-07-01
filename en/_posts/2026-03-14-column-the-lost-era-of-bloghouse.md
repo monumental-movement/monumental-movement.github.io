@@ -25,8 +25,8 @@ Text: mmr | Theme: The history of the birth and disappearance of "Bloghouse" in 
 
 In the mid-2000s, the distribution structure of club music was undergoing major changes. In addition to traditional dissemination channels centered on record shops and the DJ community, the Internet, especially music blogs, began to become a new base for dissemination.
 
-The music style that emerged during this era was the culture that later became known as ""Bloghouse.''
-Bloghouse is not a strict musical genre, but rather a movement closely tied to Internet culture.
+The music style that emerged during this period was the culture that later became known as ""Bloghouse.''
+Bloghouse is not a strict musical genre, but rather a movement closely tied to internet culture.
 
 Features include the following elements:
 

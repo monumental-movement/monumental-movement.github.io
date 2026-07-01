@@ -75,7 +75,7 @@ Additionally, he suggested adding Nico to the band. This was more about visual a
 
 ### Expansion of Factory as a club space
 
-Exploding Plastic Inevitable (EPI), which began in 1966, was a project that brought what was being done inside the Factory to the outside world.
+1966年に始まった「Exploding Plastic Inevitable（EPI）」は、Factoryの内部で行われていたことを外部に持ち出したプロジェクトだった。
 
 The event featured a performance by The Velvet Underground and a video of Warhol.
 
@@ -88,7 +88,7 @@ flowchart TD
 A[music] --> B[picture]
 B --> C[light]
 C --> D[audience]
-D --> E[immersion state]
+D --> E[没入状態]
 </div>
 
 This "accident-like experience" was exactly what Warhol was aiming for.
@@ -145,7 +145,7 @@ For example, it was common for visitors to directly appear in movies. There was 
 
 One person said, ""I didn't find out about the movie I was in until later.''
 
-Edie Sedgwick has also become a Factory icon, whose glamorous and disastrous life is the stuff of legend.
+Edie Sedgwick has also become a Factory icon, whose glamorous and destructive life is the stuff of legend.
 
 Regarding music, Lou Reed is said to often perform with his back to the audience. This was an attitude that rejected the relationship with the audience and questioned the very concept of performance.
 

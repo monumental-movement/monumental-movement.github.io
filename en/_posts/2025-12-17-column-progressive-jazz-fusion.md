@@ -22,7 +22,7 @@ Text: mmr｜Theme: Positioning modular drones as an intersection of the history 
 
 Progressive jazz/fusion is a developmental trend in jazz that was formed from the late 1960s to the 1970s, and was established as a result of the simultaneous integration of multiple musical idioms such as modal jazz, post-bop, rock, funk, contemporary music, and folk music. ""Progressive'' here does not simply mean technical sophistication, but refers to the attitude itself that continues to reorganize musical structure, rhythm design, timbre arrangement, and the relationship between improvisation and composition.
 
-Although the term fusion is often understood as a compromise between jazz and rock, the reality is more complex. External conditions such as the standardization of electric instruments, the evolution of PA and studio technology, changes in recording media, and the acceleration of international musical exchange directly influenced performance styles and structural design. In this article, we will examine the underlying logic of progressive jazz/fusion by analyzing the structure, instruments, and performance philosophy of Weather Report and Mahavishnu Orchestra, which form the core of this trend.
+Although the term fusion is often understood as a compromise between jazz and rock, the reality is more complex. External conditions such as the standardization of electric instruments, the evolution of PA and studio technology, changes in recording media, and the acceleration of international musical exchange directly influenced performance styles and structural design. In this article, we will analyze the internal logic of progressive jazz/fusion, focusing on the Weather Report and Mahavishnu Orchestra, which form the core of this trend, while dissecting the structure, instruments, and performance philosophy.
 
 ---
 
@@ -150,7 +150,7 @@ Progressive jazz/fusion left a legacy of thinking that linked structural design 
 
 ## Conclusion
 
-Progressive Jazz/Fusion was more of a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
+Progressive Jazz/Fusion was more a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
 
 ---
 

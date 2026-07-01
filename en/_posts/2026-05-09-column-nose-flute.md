@@ -138,7 +138,7 @@ The nasal flute is not a disappearing culture, but continues to exist, albeit in
 
 ---
 
-## Diagram: Mechanism of nasal whistle pronunciation
+## Illustration: Mechanism of nasal whistle pronunciation
 
 <div class="mermaid">
 flowchart TD

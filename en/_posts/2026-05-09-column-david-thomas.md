@@ -52,7 +52,7 @@ color: #fff;
 
 David Thomas was born in America in 1953. He grew up in Cleveland, a typical Rust Belt city centered on the steel industry, which was in economic decline in the 1970s. This environment had a decisive influence on his music.
 
-City noise, mechanical sounds, and inorganic landscapes. These later appear as "sound textures" in his works. It is due to this urban experience that his voice functions not just as a song, but as part of the environmental sounds.
+City noise, mechanical sounds, and inorganic landscapes. These later appear as "sound textures" in his works. It is due to this urban experience that his voice functions as part of the environmental sounds, rather than just singing.
 
 In addition to music, he also had a strong interest in literature and movies. Avant-garde literature and experimental film in particular have influenced his structural view of music.
 
@@ -99,7 +99,7 @@ C --> D[The establishment of post-punk]
 
 ### The boundary between singing and storytelling
 
-David Thomas's greatest feature is his vocal style. His voice is very different from traditional singing, but rather falls somewhere between "talking" and "screaming".
+David Thomas's greatest feature is his vocal style. His voice is very different from traditional singing, but rather falls somewhere between "talking" and "screaming."
 
 This style functions as a means of presenting a situation or landscape rather than a direct expression of emotion. He creates music by "talking" rather than "singing."
 

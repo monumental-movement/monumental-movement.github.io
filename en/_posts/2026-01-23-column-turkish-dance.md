@@ -103,7 +103,7 @@ Dance music organized for cities incorporated popular elements and became the ba
 
 ### Fusion of folk and rock
 
-In the late 1960s, a movement emerged to fuse Anatolian folk music with rock.
+In the late 1960s, a movement emerged to fuse Anatolian folk music and rock.
 Electric guitars and drums were used as devices to extend traditional dance rhythms.
 
 ### Maintaining dance quality

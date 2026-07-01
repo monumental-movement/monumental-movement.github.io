@@ -235,13 +235,13 @@ Because the band wasn't just a nostalgic reunion.
 The sound was still heavy, dirty, and harsh.
 However, at the same time, the depth of their playing ability and arrangements had clearly increased.
 
-During this period, each member matured through separate projects.
+During this period, each member matured through their own projects.
 Fred Fortin's solo works, his time with Galaxie, and his experiences were brought back to Gros Mené.
 
 "Agnus Dei" won "Album de l"année – alternatif" at ADISQ in 2013.
 It was also highly rated on GAMIQ.
 
-In other words, what was once "dangerous and crude underground rock" was now officially recognized as an important work in Quebec music.
+In other words, what was once ""dangerous and crude underground rock'' was now officially recognized as an important work in Quebec music.
 
 ### Deepening musicality
 
@@ -321,7 +321,7 @@ But this is not just a bad idea.
 At Gros Mené, vulgarity and vulgarity are important aesthetics.
 
 Art is not just about elegance.
-There is musical value in even drunken conversations and local banter.
+Even drunken conversations and local banter have musical value.
 That's what they seem to think.
 
 ### Members and collaborators
@@ -398,7 +398,7 @@ This feeling makes the band more than just stoner rock.
 
 Olivier Langevin's presence at Gros Mené was also decisive.
 
-He would later go on to lead Galaxie, but his collaboration with Fred Fortin began in the late 1990s.
+He would later go on to lead Galaxie, but his collaboration with Fred Fortin has continued since the late 1990s.
 
 Langevin's guitar is more than just accompaniment.
 

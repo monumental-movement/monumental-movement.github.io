@@ -554,7 +554,7 @@ He was building guitars with a unique feel.
 
 As a result, Voivod has a unique floating feeling that is difficult to explain.
 
-### Piggy's death
+### Piggy's Death
 
 In 2005, Piggy died of colon cancer.
 
@@ -778,7 +778,7 @@ That"s because they weren"t just a trend, they were turning ""anxiety about the 
 
 ---
 
-## Major albums
+## Main albums
 
 | Works | Publication year | Features |
 | ------------------ | ---- | -------------- |
