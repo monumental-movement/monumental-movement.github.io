@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 音楽史上最も影響力のあった100枚：現代音楽への影響度だけで再構築する新しい音楽史（第10回・91〜100：電子音楽の社会的定着とポストクラブ時代）"
 author: mmr
 categories: [ Column ]
-tags: [ Disco, House, Techno ]
+tags: [ Dub, Techno, Ambient ]
 image: ../assets/images/column-influential-album-10.webp
 date: 2026-07-05 00:00:00 +0900
 ---
