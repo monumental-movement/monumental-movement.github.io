@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【コラム】 音楽史上最も影響力のあった100枚：現代音楽への影響度だけで再構築する新しい音楽史（第1回・1〜10：音楽そのものの発明史）"
+title: "【コラム】 音楽史上最も影響力のあった100枚：現代音楽への影響度だけで再構築する新しい音楽史（第1回・1〜10：現代音楽を生んだ10枚の革命）"
 author: mmr
 categories: [ Column ]
 tags: [ Psychedelic Rock, Sampling, Techno, Rock ]
@@ -61,7 +61,9 @@ E --> F
 
 ---
 
-## 1. Sgt. Pepper's Lonely Hearts Club Band — The Studio as a New Instrument
+# 第1回（1位）
+
+## 1位 Sgt. Pepper's Lonely Hearts Club Band — The Studio as a New Instrument
 
 1967年のロンドン。ビートルズはすでにツアー活動を停止し、ステージから撤退していた。その空白は単なる休止ではなく、録音という行為そのものを再設計するための時間だった。
 
@@ -109,7 +111,7 @@ timeline
 
 ---
 
-## 2. Pet Sounds — 内面化されたポップの構造革命
+## 2位 Pet Sounds — 内面化されたポップの構造革命
 
 1966年、アメリカ西海岸。ブライアン・ウィルソンはツアーを離脱し、スタジオに閉じこもる形で制作を進めていた。その結果として生まれたのが Pet Sounds である。
 
