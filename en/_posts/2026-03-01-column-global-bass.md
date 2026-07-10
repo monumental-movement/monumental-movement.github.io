@@ -111,7 +111,7 @@ Connecting dancehall and EDM.
 
 These are typical examples of regional rhythms being translated into club structures.
 
-> When examining each song, innovations in rhythmic structure can be seen.
+> If you examine each song individually, you can see innovation in the rhythm structure.
 
 ---
 
@@ -135,7 +135,7 @@ As a result, Global Bass plays the role of relativizing the structure of "center
 Although there are commercial successes, it is originally rooted in underground DJ culture.
 
 **Q. How is it different from world music? **
-The difference is that it is reconstructed in the context of a club dance floor, rather than appreciation music.
+The difference is that it is reconstructed in the context of a club dance floor rather than appreciation music.
 
 **Q. Are you currently expanding? **
 New regional rhythms are continuously connected via TikTok and streaming.

@@ -43,7 +43,7 @@ Their music blends bluegrass from the American South, Quebec folk, punk, garage 
 
 It's not urban smart.
 
-The mud of rural villages, the cold of winter, cheap alcohol, long distance roads, the fatigue of workers, the freedom of the weekend. The temperature of this reality is directly converted into music.
+The mud of rural villages, the cold of winter, cheap alcohol, long roads, fatigue of workers, and the feeling of freedom on the weekends. The temperature of this reality is directly converted into music.
 
 QRBP is characterized by its passion, not its skill.
 
@@ -114,7 +114,7 @@ Formed in the Saguenay region of Quebec. It is a rural area that is far from urb
 
 This regionality was extremely important in understanding their music.
 
-Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. This atmosphere is deeply engraved in QRBP's music.
+Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. QRBP's music is deeply engraved with this atmosphere.
 
 In the early days, they weren't as well-known as they are today.
 
@@ -346,7 +346,7 @@ C --> D["Broader Recognition"]
 D --> E["Community Identity Maintained"]
 </div>
 
-> Even as the scale expanded, QRBP did not lose its "local body temperature."
+> Even as the scale expanded, QRBP did not lose its "local body temperature".
 
 ---
 

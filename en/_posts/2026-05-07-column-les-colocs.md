@@ -10,7 +10,7 @@ tags:
 - Québec
 - Folk Rock
 - Alternative Rock
-title: '[Column] Les Colocs - Music as a community born from the streets of Quebec'
+title: '[Column] Les Colocs ─ Music as a community born from the streets of Quebec'
 ---
 
 
@@ -383,7 +383,7 @@ Les Colocs is
 I didn't hide this problem.
 
 Rather,
-Death and illness were viewed as communal problems.
+Death and illness were viewed as communal issues.
 
 ### "Dehors Novembre"
 
@@ -494,7 +494,7 @@ This work is
 darker,
 More introspective.
 
-### 精神的疲弊
+### Mental exhaustion
 
 During this period,
 It has also been pointed out that Dédé Fortin's own mental state has deteriorated.
@@ -627,7 +627,7 @@ The lyrics often describe specific characters.
 From abstract thought,
 Draw portraits of people on street corners.
 
-This is also connected to folk tradition.
+This ties in with folk tradition.
 
 > Les Colocs has translated the musical mixture of the multicultural city of Montreal into sound.
 

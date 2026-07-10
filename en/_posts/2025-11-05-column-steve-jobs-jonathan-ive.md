@@ -149,7 +149,7 @@ In fact, they are united by the philosophy of ""setting people free through musi
 
 ## Chapter 8 The design language of "sound"
 
-After Jobs passed away, Ive described him as follows.
+After Jobs passed away, Ive described him as follows:
 
 > "He looked at products the way you listen to music: there"s rhythm, there"s harmony, there's silence."
 

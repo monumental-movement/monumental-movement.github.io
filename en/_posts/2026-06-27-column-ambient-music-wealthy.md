@@ -32,7 +32,7 @@ In this environment, unexpected genres are increasing their presence around the 
 
 That is ambient music.
 
-This music, once often talked about as a branch of experimental or contemporary music, is now the music of choice in every aspect of daily life, including work, study, sleep, reading, and meditation.
+This music, which was once often talked about as a branch of experimental music or contemporary music, is now chosen for every aspect of daily life, including work, study, sleep, reading, and meditation.
 
 In particular, the spread of music streaming services has greatly supported this trend.
 
@@ -40,7 +40,7 @@ Categories such as "Focus," "Sleep," "Relax," and "Meditation" are standard in m
 
 What is interesting is its support base.
 
-There is a tendency for people in jobs that require a high level of concentration to choose quieter music, such as engineers, designers, creators, researchers, and investors working at IT companies.
+Occupations that require a high degree of concentration, such as engineers, designers, creators, researchers, and investors working at IT companies, tend to choose quieter music.
 
 Furthermore, at high-end hotels, luxury spas, and luxury brand stores, there are many scenes where ambient music that blends into the space is played rather than loud pop music.
 
@@ -248,7 +248,7 @@ His masterpiece ""Music for Nine Post Cards'' depicts the quiet passage of time 
 
 There are no performances that strongly stir emotions.
 
-Instead, there are sounds that remind us of the smallest changes in nature, such as light coming in through a window, trees swaying in the wind, and reflections on the water.
+Instead, there are sounds that evoke the smallest changes in nature, such as light coming in through a window, trees swaying in the wind, and reflections on the water surface.
 
 Yoshimura did not try to explain the music.
 
@@ -688,7 +688,7 @@ Take the CD out of the case and listen to the entire album.
 
 Music was an object to be approached as a piece of work.
 
-However, with the spread of streaming services, that relationship has changed dramatically.
+However, with the spread of streaming services, that relationship has changed significantly.
 
 Music can now be played anytime, anywhere, and it has become important not just what to listen to, but when and in what situations.
 
@@ -921,7 +921,7 @@ J
 
 Ambient music is not just experimental music enjoyed by a few enthusiasts.
 
-It has evolved into architecture, design, technology, wellness, and a culture that quietly supports modern people's lives.
+It has evolved into architecture, design, technology, wellness, and a culture that quietly supports modern life.
 
 If the 20th century was an era of increasing sounds, then the 21st century could be called an era of choosing sounds.
 

@@ -190,7 +190,7 @@ Live-centered activities continued, and touring itself became established as a c
 
 ---
 
-## End and inheritance
+## End and succession
 
 ### Jerry Garcia Death
 
@@ -225,7 +225,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[san francisco] --> B[counter culture]
+    A[san francisco] --> B[counterculture]
     B --> C[Grateful Dead]
     C --> D[improvisation]
     C --> E[dead heads]

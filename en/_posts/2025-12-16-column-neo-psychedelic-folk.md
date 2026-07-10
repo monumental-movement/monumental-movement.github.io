@@ -49,7 +49,7 @@ In the late 1960s, folk connected with rock, acquiring altered consciousness, my
 
 Due to the limitations of recording technology, the psychedelic folk of this period relied on spatial expression and repetition through the performance itself. As a result, the acoustics are simple, but the group and ritual are emphasized.
 
-### 1-2. Re-evaluation since the 1990s
+### 1-2. Reassessment since the 1990s
 
 From the late 1990s to the early 2000s, acid folk and psychedelic folk were reevaluated as reissues and archives were dug up. This allows younger generations of musicians to begin absorbing these as historical reference points.
 

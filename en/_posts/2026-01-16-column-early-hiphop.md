@@ -89,7 +89,7 @@ At this stage, DJs were more time-manipulators than creators.
 
 Funk and soul records often had short interludes that consisted of only instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
 
-By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure that would later be called a breakbeat.
+By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype of the structure that would later be called a breakbeat.
 
 What is important is that this method was not a theoretical invention, but was created as a result of observing audience reactions. The musical structure was reorganized by bodily responses.
 
@@ -169,7 +169,7 @@ Hip-hop was not an individual invention, but a collection of acts that responded
 
 The culture that would later be called hip-hop was initially unorganized, but it was flexible and strong to that extent.
 
-Before ideas and definitions were given, sounds were making sounds, bodies were moving, and cities were being used. Culture was done first and then talked about.
+Before ideas and definitions were given, sounds were heard, bodies moved, and cities were used. Culture was done first and then talked about.
 
 Understanding this early stage leads to a reconception of hip-hop as a cultural device that responds to circumstances rather than a fixed genre.
 

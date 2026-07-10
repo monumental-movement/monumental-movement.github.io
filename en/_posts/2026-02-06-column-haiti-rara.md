@@ -58,7 +58,7 @@ The Rara procession was not simply a celebration, but had the clear purpose of o
 
 ## Chapter 2 Lala as a religious ritual
 
-Lara is deeply connected to Voodoo beliefs. Many of the processions are dedicated to a specific loa (spirit), and each piece of music and rhythm is given a symbolic meaning. Participants not only play music, but also purify the passageways for spirits and receive blessings.
+Lara is deeply connected to Voodoo beliefs. Many of the processions are dedicated to a specific loa (spirit), and each piece of music and rhythm is given a symbolic meaning. Participants not only play music, but also purify the path for spirits and receive blessings.
 
 Ceremonial preparations are often made before the start of a march. After offerings, prayers, and calls from leaders, the group takes to the streets. Music is a means of communicating with spirits, and its volume and repetition function as elements that promote a trance state.
 
@@ -192,7 +192,7 @@ However, the recorded Lala is only part of the original experience. Music, separ
 
 There is a large amount of processional festival music in the Caribbean and African diaspora. While Lala has similarities with these, it remains unique in its particular seasonality and religious role.
 
-Comparative studies emphasize marching, repetitive, and participatory structures, but Lala's case is characterized by a particularly high degree of political message connotation.
+Comparative studies emphasize marching, repetition, and participatory structures, but Lala's case is characterized by a particularly high degree of political message connotation.
 
 > Lala is a cultural form that can be compared but cannot be easily substituted.
 

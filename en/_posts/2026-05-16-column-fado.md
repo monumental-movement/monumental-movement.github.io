@@ -91,7 +91,7 @@ However, that prosperity was always accompanied by separation.
 
 It was not uncommon for sailors to go to sea and not return.
 
-The families, lovers, and wives left behind lived their lives while waiting for their return.
+The families, lovers, and wives left behind lived their lives waiting for their return.
 
 The sea, which frequently appears in fado, is not a romantic symbol, but a reality where life and death are adjacent.
 
@@ -245,7 +245,7 @@ Severa exists on the border between historical fact and legend.
 
 ### The arrival of the "Queen of Fado"
 
-At the turn of the 20th century, Amalia Rodríguez was the person who helped push Fado into international music.
+At the turn of the 20th century, Amalia Rodríguez was the person who helped push fado into international music.
 
 Born in 1920, she is said to have grown up in a poor environment from an early age.
 
@@ -416,7 +416,7 @@ A bar at night, quiet seating, dim lighting.
 
 Demonstrate maximum strength in such an environment.
 
-At night in Lisbon's old town, not only tourists but also locals head to the fado houses.
+In Lisbon's old town, not only tourists but also locals head to the fado houses at night.
 
 There, people not only listen to music, but also share ""city time'' itself.
 
@@ -453,7 +453,7 @@ Among these, Fado functions as an important tourist content.
 
 Commercialization has also progressed, with fado shows attached to restaurants, short performances for tourists, and collaboration with cruise tours.
 
-There is also criticism that ""the original Fado spirit is lost''.
+There is also criticism that ""the original Fado spirit is lost.''
 
 However, on the other hand, the reality is that tourism has helped maintain performance spaces, allowing many young singers to continue their careers.
 
@@ -512,7 +512,7 @@ A[Fado] --> B[tango comparison]
 A --> C[movie]
 A --> D[world music]
 A --> E[jazz fusion]
-A --> F[modern music]
+A --> F[contemporary music]
 </div>
 
 Although Fado is a local music, it has gained emotional resonance in many parts of the world.

@@ -8,7 +8,7 @@ layout: post
 tags:
 - Rock
 - Folk
-title: Frente  – Shape
+title: Frente – Shape
 ---
 
 

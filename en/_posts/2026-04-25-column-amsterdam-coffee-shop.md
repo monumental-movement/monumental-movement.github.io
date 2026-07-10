@@ -74,7 +74,7 @@ Also, in this era, the existence of a ""store owner who selects music'' has beco
 
 Coffee shops in Amsterdam are not uniform. There are over 200 stores, each with a different atmosphere and music. ([Coffeeshop Relax][1])
 
-Some stores play mostly reggae, while others focus on jazz, soul, or hip-hop. Additionally, stores geared toward tourists may play more easily understandable dance music.
+Some stores play mainly reggae music, while others focus on jazz, soul, or hip-hop. Additionally, stores geared toward tourists may play more easily understandable dance music.
 
 Actual reviews have pointed out that the quality of the experience is greatly influenced by the difference in the sound environment, ranging from ""a store for young people with loud trap music" to ""a calm store where you can have quiet conversations." ([Reddit][4])
 

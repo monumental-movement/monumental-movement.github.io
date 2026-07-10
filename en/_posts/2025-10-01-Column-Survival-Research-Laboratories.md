@@ -42,7 +42,7 @@ SRL performances consist of ritualized interactions with machines, robots, and s
 
 - **Machine Sex (1979)**: SRL's first performance, which involved using The Demanufacturing Machine to smash objects and throw them at the audience.
 
-- **Illusions of Shameless Abundance（1989年）**：サンフランシスコのSOMA地区で行われ、燃えるピアノや腐った食物、火を吹くロボットが登場し、爆発物に似た偽の彫刻がビーチ閉鎖と爆弾処理班の出動を招きました。
+- **Illusions of Shameless Abundance (1989)**: Set in San Francisco's SOMA district, a flaming piano, rotting food, fire-breathing robots and fake sculptures resembling explosives lead to beach closures and the dispatch of bomb squads.
 
 - **The Unexpected Destruction of Elaborately Engineered Artifacts (1997)**: Takes place in Austin, Texas and features robots, flamethrowers, and V-1 jet engines.
 
@@ -51,11 +51,11 @@ SRL performances consist of ritualized interactions with machines, robots, and s
 ### Key figures of SRL
 
 
-#### Mark Pauline（マーク・ポーリーン）
+#### Mark Pauline
 
-役割：創設者（1978年〜現在）／芸術監督
+Role: Founder (1978-present)/Artistic Director
 
-背景：カリフォルニア美術大学（SFAI）出身。若い頃に爆薬事故で右手を失い義手を装着、その経験から「危険と機械」をテーマにした表現を深めた。
+Background: Graduated from California Institute of the Arts (SFAI). When he was young, he lost his right hand in an explosives accident and was fitted with a prosthetic arm. From this experience, he deepened his expression on the theme of "danger and machinery."
 
 Features: Repurposes industrial machinery and military technology to create socially satirical robot performances.
 
@@ -65,7 +65,7 @@ Currently: Leads SRL from its base in Petaluma, California.
 
 #### Matt Heckert
 
-役割：サウンドデザイン、機械音楽担当（1980〜1990年代中心）
+Role: Sound design, mechanical music (mainly from 1980s to 1990s)
 
 Achievements: Converting robots into musical instruments, making it possible to compose and perform music by machines. Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
 
@@ -81,7 +81,7 @@ Achievements: Responsible for mechanical control system and electrical design. D
 
 ---
 
-#### Joe Grand（ジョー・グランド）
+#### Joe Grand
 
 Role: Engineer/Electronic Design
 
@@ -98,33 +98,33 @@ Amy Critchett: Producer/management support.
 
 Karen Marcelo: Serves as a bridge between hacker culture and organizes "dorkbot SF."
 
-Alan Rath：初期メンバー。後に独自の電子彫刻で評価を得る。
+Alan Rath: Early member. He later gained acclaim for his unique electronic sculptures.
 
 Gilles Larrain: Collaboration on video and photo records.
 
 ---
 
-### 人物相関図
+### Person correlation diagram
 
 <div class="mermaid">
 flowchart TD
-    A[Mark Pauline<br>Founder/Artistic Director] --> B[Matt Heckert<br>サウンド/機械音楽]
+    A[Mark Pauline<br>Founder/Artistic Director] --> B[Matt Heckert<br>Sound/Mechanical Music]
     A --> C[Eric Werner<br>Robotics Engineer]
     A --> D[Joe Grand<br>Electronic Design/Control]
-    A --> E[Amy Critchett<br>プロデュース]
+    A --> E[Amy Critchett<br>Produced]
     A --> F[Karen Marcelo<br>Hacker Culture Collaboration]
     A --> G[Alan Rath<br>Electronic Sculptor]
 </div>
 
 ---
 
-### SRLの代表的なDVD・アルバム
+### SRL's representative DVD/album
 
 
 SRL also releases DVDs and albums containing acoustic experiences of performances. Below are some representative albums:
 
 | Title | Description | Link |
-| ------------------------------ | ------------ | ----------- |
+| --------------------------- | ------------ | ----------- |
 | Survival Research Laboratories | DVD Premium BOX Iron Case Specifications | [Amazon](https://amzn.to/3KyG0o2) |
 | Survival Research Laboratories | Contains live recordings from 1992 to 1998.                   | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
 
@@ -167,7 +167,7 @@ SRL continues to perform using machines and robots, and in recent years has part
 
 ### Conclusion
 
-Survival Research Laboratoriesは、機械と人間、技術と芸術、秩序と混沌の関係を問い直す革新的な集団です。 Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks. SRLの活動は、今後も多くのアーティストや技術者にインスピレーションを与え続けるでしょう。
+Survival Research Laboratories is an innovative group that questions the relationship between machines and humans, technology and art, and order and chaos. Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks. SRL's activities will continue to provide inspiration to many artists and engineers.
 
 ---
 

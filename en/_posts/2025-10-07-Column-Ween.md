@@ -47,7 +47,7 @@ A quiet residential area in Pennsylvania in the mid-1980s.
 Two boys grab a cassette tape and a 4-track recorder and begin a strange ritual.
 **Aaron Freeman (Gene Ween)** and **Mickey Melchiondo (Dean Ween)**.
 
-The existence of "**Boognish**" that they created is more than just a logo or character.
+The "**Boognish**" that they created is more than just a logo or character.
 A fictional god of laughter and madness, he was a symbol of Ween's music itself.
 The noises, strange voices, and unusual key changes that were scattered throughout the home recordings were all blessed by Boognish.
 
@@ -237,7 +237,7 @@ flowchart TD
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
 
 ---
 

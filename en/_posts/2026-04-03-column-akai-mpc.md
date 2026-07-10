@@ -75,12 +75,12 @@ C --> D[swing adjustment]
 D --> E[groove generation]
 </div>
 
-> The MPC60 has brought back the "human fluctuation" to the beat.
+> MPC60 has brought back the "human fluctuation" to the beat.
 
 ---
 
 
-## Fusion with hip-hop: Expansion of sampling culture
+## Fusion with hip-hop: expansion of sampling culture
 
 MPC became explosively popular, especially in the hip-hop scene. This was because it perfectly matched the culture of cutting out sounds from existing records and reconstructing them in a new context.
 

@@ -65,7 +65,7 @@ Particular emphasis was placed on the production of the kick drum. By distorting
 
 While the song structure is extremely simplified, the sound pressure and repetition create a strong sense of immersion. The on-floor experience was paramount, with home listening secondary.
 
->Hardcore production was based more on actual experience than on music theory.
+> Hardcore production was based more on actual experience than on music theory.
 
 ---
 
@@ -115,7 +115,7 @@ During this period, hardcore began to distance itself from the mainstream and re
 
 ## 8. History of reception of GABA in Japan: import and reinterpretation
 
-Gabba/hardcore was introduced in earnest to Japan in the mid-1990s. Its existence became known to some techno enthusiasts through imported records and magazine articles.
+Gabba/Hardcore was introduced in earnest to Japan in the mid-1990s. Its existence became known to some techno enthusiasts through imported records and magazine articles.
 
 Initially, it received limited support in the Japanese club scene due to its extreme nature, but the unique energy of hardcore gradually gave rise to unique interpretations. In the Japanese scene, there was a tendency to emphasize not only musicality but also artwork and performance.
 
@@ -129,7 +129,7 @@ Since the 2000s, a unique Japanese interpretation of hardcore has been formed, a
 
 Since the 2010s, 90s hardcore has been subject to re-evaluation. Elements that were once shunned because they were excessive have come to be seen as more of an element of sincerity.
 
-Gabba-like speed and distortion are taking on new meaning in the context of contemporary techno and experimental music. The former rebellion now serves as a reference point.
+In the context of contemporary techno and experimental music, gabber-like speed and distortion are taking on new meaning. The former rebellion now serves as a reference point.
 
 > Gabba Hardcore is an unfinished culture that continues to be reinterpreted over time.
 

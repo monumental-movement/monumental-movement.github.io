@@ -116,7 +116,7 @@ This personality was especially noticeable during live performances.
 - Loud volume
 - Mixed smell of sweat and alcohol
 
-その空気感は、のちのケベック・フェス文化とも深く結びついていく。
+This atmosphere became deeply connected to later Quebec festival culture.
 
 ### Rename and restart
 
@@ -124,13 +124,13 @@ However, the name "Galaxie 500" could not be used for a long time.
 
 Conflict with the American band Galaxie 500 occurred, resulting in the band changing its name to "Galaxie".
 
-だが、この変更は結果的に転機となった。
+However, this change ended up being a turning point.
 
-名前を削ぎ落としたことで、バンドの印象はより直線的になったのである。
+By stripping down the name, the impression of the band became more linear.
 
 "Galaxie".
 
-それは宇宙的でもあり、ロードムービー的でもあり、どこか巨大なエンジン音も想起させる。
+It's cosmic, road movie-like, and somehow reminds me of the sound of a huge engine.
 
 In fact, their music has always had a sense of movement.
 
@@ -151,7 +151,7 @@ D --> E[Renamed to Galaxie]
 E --> F[Establish your own route]
 </div>
 
-> The name change was not just a legal process, but an event that made the band's outline stand out even more strongly.
+> The name change was not just a legal process, but an event that made the band's outline stand out more strongly.
 
 ---
 
@@ -196,7 +196,7 @@ The humidity that is typical of Quebec remains.
 - snow
 - Local city
 - winter
-- Long distance driving
+- long distance driving
 
 A sense of local life is imbued within the North American sense of scale.
 
@@ -318,7 +318,7 @@ The audience reacts physically before analyzing it.
 
 It was rock"n"roll's most primitive feature.
 
-Especially in Quebec, it was valuable to have such a direct, explosive rock sound in French.
+Particularly in Quebec, the presence of such a direct, explosive rock sound in French was valuable.
 
 <div class="mermaid">
 graph TD
@@ -364,7 +364,7 @@ Langevin's guitars are very distinctive.
 
 It's different from simple heavy rock.
 
-The groove design is very precise while retaining the roughness of garage rock.
+While retaining the roughness of garage rock, the groove design is extremely precise.
 
 He also placed great importance on the "ringing of the air."
 

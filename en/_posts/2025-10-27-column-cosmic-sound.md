@@ -26,7 +26,7 @@ He has become more than just a DJ, he has become known as an ""architect who rec
 
 The disco scene at the time was dominated by 4/4 rhythm, which was represented by American soul and house music.
 However, Baldelli interweaves ethnic music, electronic sounds, progressive rock, African drums, and even krautrock.
-**We presented the concept of "cosmic tempo"**, which allows you to freely change the BPM.
+**We presented the concept of "cosmic tempo"**, which allows the BPM to be changed freely.
 
 > "I don't believe in genres. I only believe in the flow of sound."
 > ― Daniele Baldelli
@@ -77,7 +77,7 @@ he speaks.
 > ""It's easy to mix music genres.
 > However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
-His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
+His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
 Throughout the night it feels like a spaceship is going down and out of orbit.
 
@@ -86,7 +86,7 @@ Throughout the night it feels like a spaceship is going down and out of orbit.
 ## 4. Sound material science - Relocation of sound sources in Cosmic
 
 Baldelli was a pioneer of DJs who treated songs as "material."
-There was a strong sense of ""composing'' the recorded sounds again on the turntable.
+I had a strong sense of ""composing'' the recorded sounds again on the turntable.
 
 | Sources used | Specific examples |
 |:--|:--|

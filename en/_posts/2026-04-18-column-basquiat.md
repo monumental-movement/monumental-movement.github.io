@@ -26,7 +26,7 @@ Of particular importance was the music of bebop innovator Charlie Parker. Fast, 
 
 At the same time, he was deeply connected to the hip-hop culture that originated in the Bronx. Grandmaster Flash's turntable technology presented a new way of manipulating time, chopping up sounds, rearranging them, and updating their meaning. Basquiat transforms this into a visual method.
 
-Painting is not a static act. It is a performance that progresses in time that is continuously updated in sync with the music.
+Painting is not a static act. It is a performance that progresses in a time frame that is continuously updated in sync with the music.
 
 >Sound functioned not as a background but as the rhythm of thought itself
 
@@ -49,7 +49,7 @@ color: #fff;
 
 ## Layers of jazz structure and painting
 
-Charlie Parker's performance involves a process of theme presentation, decomposition, and reconstruction. This is a so-called "head → solo → head" format, but what is important are the deviations and regressions that occur in between.
+Charlie Parker's performance involves a process of presenting a theme, disassembling it, and reconstructing it. This is a so-called "head → solo → head" format, but what is important are the deviations and regressions that occur in between.
 
 A similar structure can be seen in Basquiat's work. For example, words and icons are written once, then erased, overwritten, and reappear. This repetition is not just a modification, but an ""improvisation of meaning.''
 

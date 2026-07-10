@@ -50,7 +50,7 @@ Amapiano is influenced by the following genres:
 
 In particular, community outreach through township clubs, street parties, taxi ranks, etc. played an important role in the birth of Amapiano.
 
-### Acoustic features
+### Acoustic characteristics
 
 Amapiano's sound consists of the following elements:
 
@@ -96,7 +96,7 @@ According to multiple sources, experiments with Amapiano began around 2012, and 
 
 ---
 
-### 図2：発祥地と初期拡散
+### Figure 2: Birthplace and initial spread
 
 <div class="mermaid">
 graph TD

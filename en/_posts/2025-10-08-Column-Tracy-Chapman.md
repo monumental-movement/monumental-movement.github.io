@@ -20,7 +20,7 @@ Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing abou
 
 
 ""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
-Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey deeply stirs the soul of the listener.
+Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
 

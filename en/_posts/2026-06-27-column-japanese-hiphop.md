@@ -114,7 +114,7 @@ Rhymester established themselves in the 2000s as a rare band that could both be 
 flowchart TD
 A[2000s] --> B[Major expansion]
 A --> C[MC battle culture]
-A --> D[知的ラップ]
+A --> D[intellectual rap]
 B --> E[Zeebra]
 C --> F[impromptu competition]
 D --> G[Rhymester]

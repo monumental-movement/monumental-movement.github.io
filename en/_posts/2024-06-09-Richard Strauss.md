@@ -16,7 +16,7 @@ title: Richard Strauss
 ・Conductor: Otto Ackermann
 ・Horn [solo]: Dennis Brain Dennis Brain
 ・Orchestra: Philharmonia Orchestra
-・ソプラノボーカル ：Elisabeth Schwarzkopf エリーザベト・シュヴァルツコップ
+・Soprano vocal: Elisabeth Schwarzkopf
 
 #### Tracklist
 ```md

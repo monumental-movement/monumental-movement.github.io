@@ -72,7 +72,7 @@ Unlike rave in the UK, the scene in Japan is centered around M3 (sound/media mix
 
 ### Cultural keywords
 
-- **Kawaii**: Japanese "kawaii culture" is reflected in the fast, pop melody.
+- **Kawaii**: Japanese ""cute culture'' is reflected in the fast, pop melody.
 
 - **Otaku culture**: Directly connected to anime, doujinshi, and Akihabara club culture.
 

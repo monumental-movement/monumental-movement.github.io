@@ -17,7 +17,7 @@ title: '[Column] Free sample culture and the democratization of contemporary mus
 
 ## Introduction
 
-Text: mmr｜Theme: Music production, which once required expensive equipment and specialized knowledge, has changed into a creation that anyone can participate in thanks to free sample culture. Tracing the history of that revolution
+Text: mmr | Theme: Music production, which once required expensive equipment and specialized knowledge, has transformed into a creation that anyone can participate in thanks to free sample culture. Tracing the history of that revolution
 
 <style type="text/css">
 
@@ -41,7 +41,7 @@ I needed a synthesizer.
 
 The act of making records in the 1970s and 1980s was a much more closed world than it is today.
 
-However, in the 21st century, the situation has changed significantly.
+However, the situation has changed significantly since the beginning of the 21st century.
 
 One laptop.
 Free DAW.
@@ -311,7 +311,7 @@ Notebook PC production.
 
 These are no longer special.
 
-YouTube and SoundCloud were especially important.
+YouTube and SoundCloud were particularly important.
 
 In the traditional music industry,
 
@@ -580,7 +580,7 @@ D --> E[Re-edit]
 E --> F[Rediffusion]
 </div>
 
-> In the SNS era, music is increasingly consumed as ""fragments that can be spread easily" rather than ""finished works."
+> In the age of social media, music is increasingly consumed as ""fragments that can be spread easily" rather than ""finished works."
 
 ---
 
@@ -599,7 +599,7 @@ environmental sounds.
 
 AI is now able to generate these.
 
-In other words, it's not just about "using pre-recorded material";
+In other words, it's not just about "using pre-recorded material."
 The era of ""generating the necessary materials'' has begun.
 
 ### The next stage of democratization

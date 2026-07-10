@@ -128,7 +128,7 @@ color: #fff;
 | Thursday | Asobi Seksu | Beautiful melody and explosive roar |
 | Nothing Ever Happened | Deerhunter | The Magic of Noise and Repetition |
 | Heatherwood | M83 | Profound Ambience |
-| Dreams Burn Down (Live) | Ride | Iconic performance from the revival period |
+| Dreams Burn Down (Live) | Ride | Symbolic performance from the revival period |
 | Goodbye | Ulrich Schnauss | Representative of electro shoegaze |
 | When I'm Small | Phantogram | Intersection of electro and dream |
 | Another Space Song | Failure | Fusion of US-style alternative and roar |

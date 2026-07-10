@@ -50,7 +50,7 @@ color: #fff;
 ### Cassette MTR opens the door to personal production
 
 In the 1980s, the **cassette MTR (multi-track recorder)** released by companies such as TASCAM and Fostex laid the origin of home recording culture.
-The fact that even lo-fi sound quality can be overdubbed at home has given amateur musicians the possibility of ""self-sufficiency.''
+The fact that even lo-fi sound quality can be overdubbed at home has given amateur musicians the possibility of ""self-sufficiency''.
 The seeds of this development had already begun when Ryuichi Sakamoto was making demos in his home studio and home-recording artists were distributing their sound sources along with zines.
 
 ### Computer and MIDI revolution
@@ -180,7 +180,7 @@ And those hands are no longer connected through the mouse or MIDI keyboard.
 Directly connected to the entire world.
 
 >"From my room to your world."
->- That may be the most honest picture of music in the 21st century.
+>- That may be the most honest picture of 21st century music.
 
 ---
 

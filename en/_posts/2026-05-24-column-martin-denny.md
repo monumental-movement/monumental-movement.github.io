@@ -115,7 +115,7 @@ E --> F[Exotica is popular in the US]
 
 ### What it means to not be "authentic"
 
-Exotica is often criticized as ""fake folk music''.
+Exotica is often criticized as ""fake folk music.''
 
 In fact, Martin Denny's music was not Hawaiian music itself, but a mixture of images from multiple regions such as Southeast Asia, Africa, Latin, and Polynesia.
 
@@ -157,7 +157,7 @@ Percussion placed on the left and right.
 Reverberation that gives a sense of depth.
 The sound of a bird suddenly flying in.
 
-His work was not just a piece of music, but a "sound production that changed the whole room."
+His work was not just a piece of music, but a "sound production that changed the entire room."
 
 It was natural for audio critics to treat his work as a stereo demo record in later years.
 

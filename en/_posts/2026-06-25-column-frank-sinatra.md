@@ -139,7 +139,7 @@ However, at the time, his singing style was innovative.
 
 ## The birth of a star in the big band era
 
-### To the Harry James Orchestra
+### To the Harry James Band
 
 1939.
 
@@ -171,7 +171,7 @@ Sinatra was already pioneering a phenomenon that would later be seen in the Beat
 flowchart LR
 A[Harry James] --> B[Tommy Dorsey]
 B --> C[National popularity]
-C --> D[Solo activity]
+C --> D[Solo activities]
 D --> E[Movie appearance]
 E --> F[national star]
 </div>
@@ -204,7 +204,7 @@ Started his career as a solo singer.
 
 It was the era of World War II.
 
-As many young people headed off to war, Sinatra's romantic voice supported the hearts of people.
+As many young people headed off to war, Sinatra"s romantic singing voice supported people"s hearts.
 
 "I'll Never Smile Again"
 
@@ -234,7 +234,7 @@ He continued to hone his acting skills.
 
 Sinatra was active in civil rights issues in the 1940s.
 
-Unusually for the time, he made his stance clear against racial discrimination.
+Unusually for the time, he took a clear stance against racial discrimination.
 
 He also participated in campaigns for racial equality.
 

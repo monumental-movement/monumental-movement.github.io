@@ -51,7 +51,7 @@ In the 1960s and 1970s, electronic music and pop became closer together. With th
 
 ### 1-3. Transformation after digital
 
-Since the 2000s, production environments using DAWs and laptops have become commonplace, and the degree of freedom in audio manipulation has increased dramatically. At the same time, an environment has been created in which visuals and music can be consumed simultaneously through SNS and video platforms. Under these conditions, neo-futurism/avant-garde pop is possible.
+Since the 2000s, production environments using DAWs and laptops have become commonplace, and the degree of freedom in audio manipulation has increased dramatically. At the same time, an environment has been created where visuals and music can be consumed simultaneously through SNS and video platforms. Under these conditions, neo-futurism/avant-garde pop is possible.
 
 ---
 

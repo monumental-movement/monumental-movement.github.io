@@ -137,7 +137,7 @@ The technique itself has its origins in mid-20th century experimental music, but
 
 ### Composition and improvisation
 
-His works include both strictly notated patterns and improvisational elements. While a certain rhythmic pattern is repeated, minute changes caused by the performer's physical manipulation drive the music.
+His works include both strictly notated patterns and improvisational elements. As a certain rhythmic pattern is repeated, minute changes caused by the performer's physical manipulation drive the music.
 
 ### Connection with other fields
 

@@ -116,7 +116,7 @@ Modular drones share many elements with ambient, minimal music, and experimental
 * 1950s: Exploration of sustained sound in electronic acoustics
 * 1960s: Establishment of modular systems by Moog and Buchla
 * 1970s: Increase in long-duration drone works in experimental music
-* 1990s: Modular regression and reassessment of drones
+* 1990s: Modular regression and reappraisal of drones
 * 2010s: Expansion of experimental drone production due to the spread of Eurorack
 
 ---

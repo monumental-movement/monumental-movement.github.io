@@ -163,7 +163,7 @@ There are elements of Discharge and GBH in the tempo and aggression.
 
 However, they mixed in a strange sense of odd time signatures.
 
-At this point, the seeds of what would later become progressive were present.
+At this point, the seeds of the later progressive movement were present.
 
 ### Away artwork
 
@@ -530,7 +530,7 @@ Piggy was not a virtuosic guitarist.
 
 There was also distance from the fast-shooting competition.
 
-Rather, he was a space designer.
+Rather, he was a space architect.
 
 In that sense, he is often compared to Robert Fripp.
 
@@ -554,7 +554,7 @@ He was building guitars with a unique feel.
 
 As a result, Voivod has a unique floating feeling that is difficult to explain.
 
-### Piggy's Death
+### Piggy's death
 
 In 2005, Piggy died of colon cancer.
 
@@ -639,7 +639,7 @@ Since the 2000s, Voivod has continued its activities despite facing difficulties
 
 ### Joined by Jason Newsted
 
-There was also a time when Jason Newsted, formerly of Metallica, joined the group.
+There was also a time when Jason Newsted, formerly of Metallica, joined the band.
 
 He was known as an avid fan of Voivod.
 

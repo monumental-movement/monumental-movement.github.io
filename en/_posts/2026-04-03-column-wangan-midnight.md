@@ -25,7 +25,7 @@ The coastline is particularly unique. The straight lines are long, the visibilit
 
 People find stories there. This is because even though it is a controlled space, there is always the possibility of deviation. Speeding, driving at the limit, machine limits, and human limits. The place where everything is tested at the same time is more than just a road.
 
-It is this "boundary" that Wangan Midnight depicts. Everyday and extraordinary, reality and fantasy, reason and impulse. When people stand on that border, they seek meaning. And when a meaning is repeated, it becomes a myth.
+It is this "boundary" that Wangan Midnight depicts. Everyday and extraordinary, reality and fantasy, reason and impulse. When people stand on that boundary, they seek meaning. And when a meaning is repeated, it becomes a myth.
 
 > Expressways turn into myths not because of their speed but because of their meaning.
 
@@ -296,7 +296,7 @@ Highways remain unchanged. asphalt, guardrails, and lighting. They are just stru
 
 However, it is humans who give meaning to it.
 
-The time of night, the state of solitude, the act of speed. When they overlap, the space changes into something else.
+The time of night, the state of solitude, the act of speed. When they overlap, the space transforms into something else.
 
 It is not a myth in the religious sense. However, when it is repeated, passed down, and shared, it certainly takes on a "mythical" quality.
 

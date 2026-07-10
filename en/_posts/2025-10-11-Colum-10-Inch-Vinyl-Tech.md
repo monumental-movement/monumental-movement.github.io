@@ -47,7 +47,7 @@ color: #fff;
 
 ### Rotation speed and linear velocity: physical laws that determine the "momentum" of sound
 
-One of the factors that determines the sound quality of a record is the number of revolutions (RPM) and linear velocity.
+One of the factors that determines the sound quality of a record is the rotational speed (RPM) and linear velocity.
 
 - **7 inch single: 45RPM**
 There is a lot of force in the sound at the outer periphery, and excellent reproduction of high frequencies. However, distortion increases at the inner circumference.
@@ -161,7 +161,7 @@ It is no longer a format of the past, but a 10-inch **device of new time design*
 ### Conclusion: Musical philosophy in the physics of a disk
 
 When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the "freedom created by constraints."
-Design limitations, time constraints, and size limitations.
+Design limitations, time constraints, and size constraints.
 All of this makes the music "condensed" and restores its "feel."
 
 The format is philosophy, engineering, and poetry.
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|follow| G
+    S -->|Follow| G
     G --> L
     G --> V
     G --> D

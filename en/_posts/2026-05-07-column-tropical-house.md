@@ -96,7 +96,7 @@ The kick is modest, and the side chain pumping is also moderately suppressed. In
 
 ### Sound Design
 
-Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Tones such as flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
+Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Sounds like flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
 
 Furthermore, in spatial processing, emphasis is placed on spaciousness and transparency. Reverb and delay are not just effects, but function as part of the music, creating a space that envelops the listener.
 

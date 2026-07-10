@@ -104,7 +104,7 @@ Furthermore, sounds such as "An ambulance is passing by" have the role of helpin
 
 In Europe, many buildings are made of stone due to the influence of urban structures that have continued since the Middle Ages, and the sound reverberation characteristics are unique. For this reason, sirens are designed to use reflected sound to reach a wide range.
 
-Additionally, each country has a different sound pattern so that they can be identified when crossing borders. For example, Germany uses a relatively simple pattern, while France uses a different rhythm.
+The reason why each country has a different sound pattern is to make it easier to identify people when they cross borders. For example, Germany uses a relatively simple pattern, while France uses a different rhythm.
 
 Sounds are not just warnings, but also function as symbols to identify countries and regions.
 
@@ -236,7 +236,7 @@ G --> H
 
 In environments where music is played at high volume, the siren needs to have a higher pitch and more modulation. On the other hand, in a quiet environment, excessive volume can have the opposite effect.
 
-In other words, sirens are designed to fit into the ""interstice of everyday sounds''.
+In other words, sirens are designed to fit into the ""interstice of everyday sounds.''
 
 > Siren is designed not to compete with musical culture, but to fill a gap in it.
 
@@ -289,5 +289,14 @@ Sirens are a microcosm of society and part of the sound infrastructure.
 
 > The difference between sirens is not a difference in sound, but a difference in the way society hears them.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/beRHnRidsJ0?si=I24Tjcpaw-bbl3Oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

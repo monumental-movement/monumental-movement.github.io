@@ -307,7 +307,7 @@ Due to the extreme frequency design (especially high frequencies), it includes a
 
 - Fennesz – Endless Summer
 
-It has a structure between noise and melody, and is characterized by a high-frequency texture.
+It has an intermediate structure between noise and melody, and is characterized by a high-frequency texture.
 
 ### Unsuitable example
 

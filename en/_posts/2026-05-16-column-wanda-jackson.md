@@ -145,13 +145,13 @@ In these songs, her characteristic "growling delivery" was on full display.
 
 Fashion was even more important.
 
-Fringe dresses, high heels, and flashy makeup. Wanda brought an unusual level of flamboyance for a country singer, and was even involved in the costume design herself.
+Fringed dresses, high heels, and flashy makeup. Wanda brought an unusual level of flamboyance for a country singer, and was even involved in the costume design herself.
 
 She didn't erase her "femininity."
 
 Rather, they acquired the strength of rock while retaining their femininity.
 
-このスタイルは後の女性ロックシンガーたちに大きな影響を与えた。
+This style had a great influence on later female rock singers.
 
 <div class="mermaid">
 mindmap
@@ -186,7 +186,7 @@ She provoked the audience on stage, sang wildly, and exposed her emotions. They 
 
 However, the trade-off was that the industry sometimes viewed them as ""difficult to deal with.'' He also experienced restrictions on his television appearances and backlash from conservatives.
 
-Still, she continued touring.
+Still, she continued to tour.
 
 It gained support not only in the United States, but also in Europe and overseas.
 

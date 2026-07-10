@@ -63,7 +63,7 @@ color: #fff;
 
 <div class="mermaid">
 graph TD
-A[modern music] --> D[Jim O'Rourke]
+A[contemporary music] --> D[Jim O'Rourke]
 B[noise] --> D
 C[fork] --> D
 E[improvised music] --> D
@@ -243,7 +243,7 @@ While retaining the violence of a noise band, the space became more expansive an
 flowchart TD
 A[noise] --> D[Murray Street]
 B[improvisational nature] --> D
-C[space design] --> D
+C[空間設計] --> D
 E[melody] --> D
 </div>
 
@@ -267,7 +267,7 @@ He is involved in a wide range of works.
 
 Moreover, none of them sound the same.
 
-Producers with strong individuality usually give their works their own unique color. But Jim O'Rourke was the opposite.
+Producers with strong individuality usually dye their works in their own unique colors. But Jim O'Rourke was the opposite.
 
 He brings out the artist's unique texture.
 
@@ -385,7 +385,7 @@ But at the same time, it's all of those things.
 
 His greatest achievement was that he did not end up ""crossing genres'' with mere omnivorousness.
 
-Many musicians listen to multiple genres.
+多くの音楽家が複数ジャンルを聴く。
 
 But Jim O'Rourke treated them in the same light.
 
@@ -397,7 +397,7 @@ Both electronic and acoustic sounds were equal.
 
 That feeling is extremely compatible with the current music environment.
 
-Nowadays, thanks to Spotify and YouTube, the boundaries between genres are blurring more than ever before. In playlist culture, different types of music naturally line up.
+Nowadays, thanks to Spotify and YouTube, genre boundaries are blurring more than ever before. In playlist culture, different types of music naturally line up.
 
 But Jim O'Rourke has been practicing that sensibility since the 1990s.
 

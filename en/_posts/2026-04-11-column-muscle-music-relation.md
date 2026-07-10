@@ -109,7 +109,7 @@ This allows for natural movement phase switching.
 
 Electronic music such as techno and house is characterized by a steady beat and strong bass. These promote rhythm synchronization and are suitable for sustained exercise.
 
-In particular, songs with a strong repetitive structure go well with repetitive movements, making it easier to maintain a state of concentration.
+In particular, songs with a strong repetitive structure go well with the repetitive movements of exercise, making it easier to maintain a state of concentration.
 
 ### Hip-hop and explosiveness
 

@@ -94,7 +94,7 @@ A representative figure who brought jungle to the world stage. Goldie was origin
 
 "Inner City Life" is a song that depicts the loneliness and hope of city life at the same time, and is an important work that shows the lyricism of jungle.
 
-A famous anecdote is that when Goldie created this song, he was conscious of a different direction from the traditional ""raga-based jungle.'' As a result, it became a bridge to later drum and bass.
+A well-known anecdote is that when Goldie created this song, he was conscious of a different direction from the traditional "raga-based jungle." As a result, it became a bridge to later drum and bass.
 
 ### Shy FX — "Original Nuttah" (1994)
 

@@ -190,7 +190,7 @@ In Hyper-Glitch's case, mixes are not about ""setting up," but about ""building 
 point:
 
 * Simultaneous firing of stems
-* Superimposition of dense layers
+* Superposition of dense layers
 * Excessive low range
 * Extreme use of sound pressure limiters
 
@@ -198,7 +198,7 @@ point:
 
 ### 4-3　Connection with visual culture
 
-The sonic "overload" is also reflected visually.
+音の「過負荷」はビジュアル面でも反映される。
 MV/artwork has the following characteristics.
 
 * Cyber-like, fluorescent, saturated colors
@@ -267,7 +267,7 @@ Another major feature is that anime-style expressions, Vocaloid culture, Interne
 
 ### 7-3 SoundCloud personality
 
-osquinn and glaive brought emo chord progressions, guitar touches, and light vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
+osquinn and glaive brought emo chord progressions, guitar touches, and airy vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
 
 ---
 

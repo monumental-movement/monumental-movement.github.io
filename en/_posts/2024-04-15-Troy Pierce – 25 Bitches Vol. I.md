@@ -12,9 +12,9 @@ title: Troy Pierce – 25 Bitches Vol. I
 ---
 
 
-Troy Pierce（トロイピアース）は、ベルリンを拠点に活動するアメリカのエレクトロニック・ミュージックDJ・プロデューサー。 
+Troy Pierce is an American electronic music DJ and producer based in Berlin.
 
-Troy Pierceは、Gibby Millerとのミニマルテクノ・ハウスプロジェクトLouderbachとしても活躍し、ドイツのレーベルItems & ThingsをMagda、Marc Houleと共に運営している。
+Troy Pierce is also active as Louderbach, a minimal techno house project with Gibby Miller, and runs the German label Items & Things with Magda and Marc Houle.
 
 "25 Bitches Vol. I" is a techno minimal track released in 2006 by M_nus, which was founded by Richie Hawtin.
 

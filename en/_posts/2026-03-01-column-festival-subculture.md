@@ -55,7 +55,7 @@ color: #fff;
 ### Festival and collective eruption
 
 Sociologist Émile Durkheim called the strong collective elation in religious rituals a "collective boil."
-It is a phenomenon in which an individual is subsumed into a group and enters a state that goes beyond normal self-consciousness.
+It is a phenomenon in which an individual is included in a group and enters a state that exceeds normal self-consciousness.
 
 From ancient times to the Middle Ages, festivals were central devices for community integration. Music, dance, and repetitive rhythms promote group synchronization.
 Festival culture inherits this structure in a secularized form.
@@ -224,7 +224,7 @@ The institutional challenge is to ensure safety while maintaining psychological 
 ## Cultural influence
 
 ・Impact on the fashion industry
-・Expansion of tourism industry
+・Expansion of the tourism industry
 ・City brand strategy
 ・Changes in music consumption patterns
 ・Generational identity formation

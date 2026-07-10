@@ -21,7 +21,7 @@ Text: mmr｜Theme: About Spacemen 3, a band born in the British underground scen
 
 The post-punk turmoil was still evident in the UK indie scene of the 1980s.
 
-The new wave is sophisticated,
+New wave is sophisticated,
 Gothic deepens the shadows,
 Indie rock was looking for new expressions while expanding its DIY spirit.
 
@@ -51,7 +51,7 @@ The sound image is shoegaze,
 drone,
 space rock,
 post lock,
-It has even influenced contemporary ambient music.
+It has even influenced modern ambient music.
 
 > Spacemen 3 was a rare rock band that created a huge space through "scarcity."
 
@@ -101,7 +101,7 @@ It inspired them to explore deep music.
 
 The two were particularly attracted to the following music.
 
--The Velvet Underground
+- The Velvet Underground
 -The Stooges
 -MC5
 -13th Floor Elevators
@@ -128,7 +128,7 @@ Although the initial members were in flux,
 Eventually, the following structure will be established.
 
 - Jason Pierce
-- Peter Kember
+-Peter Kember
 - Will Carruthers
 - Jonny Mattock
 
@@ -187,7 +187,7 @@ Drone.
 They are colliding without being organized.
 
 but,
-On the contrary, its roughness was intense.
+On the contrary, its rough edges were intense.
 
 ### Musical features
 
@@ -225,7 +225,7 @@ The performance is long.
 
 There is little communication with the audience.
 
-だが、その静止感が逆に異様だった。
+However, the sense of stillness was strange.
 
 <div class="mermaid">
 flowchart LR
@@ -258,7 +258,7 @@ It was designed as an "acoustic experience."
 ### Extremely organized arrangement
 
 In the album,
-The number of sounds has decreased further.
+The number of sounds has further decreased.
 
 but,
 Space expanded in the opposite direction.
@@ -357,7 +357,7 @@ It changes the entire song.
 graph TD
 A["Simple code"] --> B["Focus on tone"]
 B --> C["feedback"]
-C --> D["空間支配"]
+C --> D["Space control"]
 </div>
 
 > Spacemen 3 was a band that prioritized "sustainable sound" over performance technique.
@@ -407,7 +407,7 @@ Loud volume.
 Trance feeling.
 And elation.
 
-### Increased Gospel-ness
+### Increased Gospelness
 
 Jason Pierce
 Around this time, he began to lean toward gospel-style elation.
@@ -468,7 +468,7 @@ This was also a de facto declaration of dissolution.
 1991,
 Spacemen 3 is disbanded.
 
-However,
+but,
 Its influence will expand from here.
 
 > The end of Spacemen 3 was the moment when the "community fantasy" reached its limit.
@@ -559,7 +559,7 @@ This led to later ambient rock.
 ### Impact on drone culture
 
 Even in modern drone music,
-Spacemen 3は重要な参照点である。
+Spacemen 3 is an important reference point.
 
 <div class="mermaid">
 flowchart TD
@@ -602,7 +602,7 @@ Repetition.
 Play for a long time.
 
 The audience is
-曲を“聴く”というより、
+Rather than "listening" to a song,
 "Immerse" in the space.
 
 ### Connection with modern festival culture
@@ -707,7 +707,7 @@ He turned a minimal performance into a gigantic universe.
 That's why,
 Spacemen 3 is still special.
 
-If you look at the huge history of music,
+If you look at it in the vast history of music,
 The period of activity is short.
 
 but,

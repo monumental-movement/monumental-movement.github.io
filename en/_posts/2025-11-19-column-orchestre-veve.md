@@ -101,7 +101,7 @@ These songs show the core of Veve's dance music, while also clearly showing the 
 
 ## Role of lead guitar
 
-Veve's lead guitar was characterized by a sharper "notch" melody than other bands at the time. Especially noticeable in recordings from the 1970s.
+Veve's lead guitar was characterized by a sharper "notch" melody than other bands at the time. Especially noticeable in recordings from the 1970s,
 
 - Chromatic leading rise
 - fast tremolo
@@ -116,7 +116,7 @@ Compared to ZAïko"s single-line music and OK Jazz"s deep harmony-based music, V
 
 ## Rhythm section innovation
 
-Veve's rhythm section has a distinctive bounce. The hi-hat does not strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
+Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
 
 ---
 
@@ -132,7 +132,7 @@ Veve's rhythm section has a distinctive bounce. The hi-hat does not strongly car
 - **Bass: Repeat descending line → rising line every 4 bars**
 - **Mixing: vocals in the center, guitars separated to left and right**
 
-### Rhythm characteristics
+### Characteristics of rhythm
 
 <div class="mermaid">
 
@@ -176,7 +176,7 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 

@@ -22,7 +22,7 @@ Text: mmr | Theme: Martinique, an island where French culture and African rhythm
 
 Martinique is a French overseas department located in the Lesser Antilles in the Caribbean. It is still treated as part of the French Republic, and its administrative, educational system, and currency are the same as mainland France. However, culturally, it is a complex mix of influences not only from Europe, but also from Africa, the West Indies, and South America.
 
-From the 17th century onward, as France colonized the country, slaves brought from Africa were forced to work on sugarcane plantations. They brought with them not only language and religion, but also a sense of rhythm, singing, dance, and percussion culture.
+From the 17th century onward, as France colonized the country, slaves brought from Africa were forced to work on sugarcane plantations. They brought not only language and religion, but also a sense of rhythm, singing, dance, and percussion culture.
 
 After that, dances, military music, and church music originating from Europe were mixed with polyrhythms originating from Africa, forming a unique Creole culture. This ""mixing'' is the most distinctive feature of Martinique music.
 
@@ -115,7 +115,7 @@ E --> F
 
 ### Fusion of French dances and Caribbean rhythms
 
-In the late 19th and early 20th centuries, a type of music called ""beguine'' developed in Martinique.
+From the late 19th century to the early 20th century, a type of music called ""beguine'' developed in Martinique.
 
 Beguine is dance music that incorporates Caribbean rhythms while being influenced by European dances. It featured a light and sophisticated sound, using clarinet, trombone, piano, and percussion instruments.
 
@@ -154,7 +154,7 @@ timeline
 
 Carnival culture is extremely important in Martinique.
 
-During the annual carnival, the entire city transforms into a gigantic music space. A mix of costumes, parades, percussion corps, dance, and political satire, the music reflects society itself.
+During the annual carnival, the entire city transforms into a gigantic musical space. A mix of costumes, parades, percussion corps, dance, and political satire, the music reflects society itself.
 
 Carnival was established as a combination of European-originated celebratory culture and the physical culture of African communities.
 
@@ -299,7 +299,7 @@ A[colonial rule] --> B[cultural oppression]
 B --> C[cultural revival movement]
 C --> D[Bere re-evaluation]
 C --> E[Restoration of the Creole language]
-D --> F[modern music]
+D --> F[contemporary music]
 E --> F
 </div>
 
@@ -313,19 +313,19 @@ E --> F
 
 A characteristic of Martinique music is its strong physicality.
 
-西洋クラシック音楽では「静かに聴く」ことが重視される場面が多いが、マルティニークの伝統音楽では踊りが不可欠だった。
+In Western classical music, ""listening quietly"' is often emphasized, but in Martinique"s traditional music, dancing was essential.
 
 Rhythm exists to move the body.
 
 In both bere and zouk, the line between audience and performer is ambiguous. All participants create a musical space.
 
-この身体性はカリブ海文化全体に共通する特徴でもある。
+This physicality is also a common feature throughout Caribbean culture.
 
 ### Rhythmic repetition and trance sensation
 
 Repetition plays an important role in zouk and traditional percussion music.
 
-同じリズムを繰り返しながら少しずつ変化を加えることで、集団的高揚感が生まれる。
+By repeating the same rhythm with small changes, a sense of collective elation is created.
 
 This is a common feature of African music, and can be connected to later house, techno, and club music.
 
@@ -361,7 +361,7 @@ At the same time, they came into contact with African music and North African mu
 
 Since the Internet, Martinique music has become even more widespread.
 
-ストリーミングによって地域的制約が弱まり、ズークやカリブ系ダンスミュージックは世界中で聴かれるようになる。
+Streaming has weakened regional constraints, allowing zouk and Caribbean dance music to be heard around the world.
 
 In addition, the younger generation of artists is actively integrating hip-hop, reggaeton, Afrobeats, and electronic music.
 
@@ -376,7 +376,7 @@ D --> E[new generation pop]
 C --> E
 </div>
 
-> The music of the island changes each time it crosses the ocean, creating a new Creole culture.
+> The music of the island changes every time it crosses the ocean, creating a new Creole culture.
 
 ---
 
@@ -409,7 +409,7 @@ graph TD
 A[traditional culture]
 B[electronic music]
 C[hip hop]
-D[アフロビーツ]
+D[afrobeats]
 E[zouk]
 A --> F[modern martinique music]
 B --> F
@@ -418,7 +418,7 @@ D --> F
 E --> F
 </div>
 
-> マルティニーク音楽は、過去を保存するのではなく、過去を未来へ変換し続けている。
+> Rather than preserving the past, Martinique music continues to transform the past into the future.
 
 ---
 
@@ -426,7 +426,7 @@ E --> F
 
 ### History of Martinique music
 
-| 年代       | 出来事                |
+| Years | Events |
 | -------- | ------------------ |
 | 17th century | French colonization progresses |
 | 18th century | African musical culture formed under slavery |
@@ -435,10 +435,10 @@ E --> F
 | 1930s | Caribbean music becomes popular in Paris |
 | 1960s | Cultural revival movement becomes active |
 | 1979 | Formation of Kassav |
-| 1980年代   | ズークが世界的成功          |
+| 1980s | Zouk becomes a global success |
 | Since the 2000s | Progressive fusion with electronic music and hip-hop |
 
-> マルティニーク音楽の歴史は、植民地史と文化創造が同時進行してきた歴史でもあった。
+> The history of Martinique music is a history in which colonial history and cultural creation have progressed simultaneously.
 
 ---
 
@@ -450,15 +450,15 @@ The appeal of Martinique music is that it cannot be pinned down to a single genr
 
 It is both traditional music and urban music, dance music and a historical record.
 
-カリブ海という海域は、常に人と文化が移動する場所だった。
+The Caribbean Sea has always been a place of movement for people and cultures.
 
-マルティニーク音楽は、その移動性をそのまま音にした文化と言える。
+Martinique music can be said to be a culture that embodies that mobility into sound.
 
 Behind the rhythm is a history of colonial rule, behind the celebration is communal resistance, and behind the dance is cultural identity.
 
-それでも音楽は重苦しいだけではない。
+Still, the music isn't just heavy.
 
-むしろ圧倒的に踊れて、開放的で、身体的で、喜びに満ちている。
+Rather, it is overwhelmingly danceable, liberating, physical, and full of joy.
 
 Perhaps the depth of Martinique music lies in the simultaneous existence of suffering and celebration.
 
@@ -466,18 +466,18 @@ Perhaps the depth of Martinique music lies in the simultaneous existence of suff
 
 If you listen to current club music and global pop, there are many similarities with Martinique music.
 
-低音を重視する感覚、リズム主体の構造、共同体的ダンス空間、ジャンル横断的姿勢など、多くの要素が現代音楽にも引き継がれている。
+Many elements have continued into contemporary music, such as the emphasis on bass, rhythm-based structures, communal dance spaces, and genre-crossing attitudes.
 
 The spirit of Zouk, as well as Bere and Begin, lives on in various forms.
 
-マルティニーク音楽は小さな島のローカル文化ではない。
+Martinique music is not a local culture of a small island.
 
-むしろ世界音楽史の中で、もっと重要視されるべき巨大な交差点なのである。
+Rather, it is a huge crossroads in the history of world music that should be given more importance.
 
 <div class="mermaid">
 flowchart LR
-A[植民地史]
-B[アフリカ文化]
+A[colonial history]
+B[african culture]
 C[european culture]
 D[caribbean]
 E[urban immigrant culture]

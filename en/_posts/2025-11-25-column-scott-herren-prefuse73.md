@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Ambient
 - Glitch
-title: '【コラム】 Scott Herren / Prefuse 73: ビートと断片の詩人'
+title: '[Column] Scott Herren / Prefuse 73: Poet of Beats and Fragments'
 ---
 
 
@@ -19,7 +19,7 @@ title: '【コラム】 Scott Herren / Prefuse 73: ビートと断片の詩人'
 
 Text: mmr｜Theme: Tracing life, career, musical style, and projects with chronology and charts
 
-Guillermo Scott Herren、通称 **Prefuse 73** は、21世紀初頭以降のインストゥルメンタル・ヒップホップ、IDM、エレクトロニカの世界で非常に重要なプロデューサーである。彼の音楽は、サンプルの断片化、ボーカルの切り貼り、グリッチ処理などを駆使した緻密なビート構築によって知られており、多くのクリエイターに影響を与えてきた。
+Guillermo Scott Herren, also known as **Prefuse 73**, is a very important producer in the world of instrumental hip-hop, IDM, and electronica since the beginning of the 21st century. His music is known for its meticulous beat construction, which utilizes sample fragmentation, vocal cutting and pasting, and glitch processing, and has influenced many creators.
 
 ---
 
@@ -61,7 +61,7 @@ After that, they released singles and EPs, developing a unique style that combin
 Around 2000, the project started under the alias **Savath & Savalas**.
 *Folk Songs for Trains, Trees, and Honey*, released in 2000, presents an ambient-oriented sound that incorporates acoustic instruments and environmental sounds.
 
-2004年には *Apropa"t* を発表。 Reflecting Spanish/Catalan vocals, post-rock and Latin influences, they pursued a musical expression different from Prefuse 73.
+In 2004, he released *Apropa"t*. Reflecting Spanish/Catalan vocals, post-rock and Latin influences, they pursued a musical expression different from Prefuse 73.
 
 This project is positioned as another form of his self-expression, and shows his multifaceted musical activities, including the relationship with Prefuse 73's experimental nature.
 
@@ -83,9 +83,9 @@ This body of work further evolved sample fragmentation and precise beat construc
 
 *Surrounded by Silence* in 2005 expanded the world of sound with a variety of guests including Ghostface Killah, El-P, Kazu (Blonde Redhead), and The Books.
 
-同年、The Books とのコラボレーション EP *Prefuse 73 Reads the Books* を発表し、彼のコラボ精神と実験性が顕著となる。  
+In the same year, he released a collaborative EP with The Books, *Prefuse 73 Reads the Books*, demonstrating his collaborative spirit and experimental nature.
 
-2006年、長さはアルバム級だが EP 扱いの *Security Screenings* をリリース。  
+In 2006, he released *Security Screenings*, which is album-length but treated as an EP.
 
 In 2007, they released *Preparations*, and the bonus disc *Interregnums* presented ambient-oriented music.
 
@@ -93,7 +93,7 @@ In 2007, they released *Preparations*, and the bonus disc *Interregnums* present
 
 # Establishment of label and new development
 
-Herren は **Eastern Developments Music** を設立し、共同でレーベル運営を開始。さらに **Yellow Year Records** を立ち上げ、コラボレーションシリーズ *Speak Soon* を展開。  
+Herren founded **Eastern Developments Music** and began running the label together. Furthermore, he launched **Yellow Year Records** and developed the collaboration series *Speak Soon*.
 
 The new label allows for collaborations with diverse creators, such as *Sons of the Morning Volume 1* with Teebs, and encourages an expansion of experimentation.
 
@@ -115,18 +115,18 @@ In 2024, he will release *New Strategies for Modern Crime Vol.1* and *Vol.2*, on
 |---|---|
 | Prefuse 73 | Fragmented vocals, glitches, hip-hop/IDM fusion |
 | Delarosa & Asora | Early career, experimental techno, electronic music |
-| Savath & Savalas | アンビエント／民族音楽的、アコースティック中心 |
+| Savath & Savalas | Ambient/folk music, mainly acoustic |
 | Piano Overlord | Piano-based, keyboard-based project |
 | Ahmad Szabo | Diversity as a multi-author under different names |
-| その他コラボレーション | Sons of the Morning、Fudge、Risil、Diamond Watch Wrists 等 |
+| Other collaborations | Sons of the Morning, Fudge, Risil, Diamond Watch Wrists, etc. |
 
 ---
 
 # Music styles and influences
 
-- ヒップホップ（1990年代）、マイアミベース、IDM、ジャズを融合。  
+- Fusion of hip-hop (1990s), Miami bass, IDM, and jazz.
 - Features a technology that cuts and pastes samples and vocals into extremely small units to reconstruct them.
-- 単なる実験音楽ではなく、断片の中に都市的感情や人間性を表現。  
+- More than just experimental music, it expresses urban emotions and humanity in fragments.
 - Expand your musical range through collaboration and connect with new generation creators.
 
 ---
@@ -176,7 +176,7 @@ graph LR
 
 ---
 
-# 音楽スタイル影響図
+# Music style influence chart
 
 <div class="mermaid">
 graph TD

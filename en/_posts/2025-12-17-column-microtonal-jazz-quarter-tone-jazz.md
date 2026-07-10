@@ -141,7 +141,7 @@ In Collier's approach, individual voices may have different tonal assumptions. A
 
 ---
 
-## Chapter 5: Microtone use in improvisation
+## Chapter 5: Microtone operation in improvisation
 
 ### 5-1 Phrase construction
 
@@ -149,7 +149,7 @@ In microtonal jazz improvisation, the direction of pitch transition is more impo
 
 ### 5-2 Relationship with rhythm
 
-As the intervals are subdivided, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
+By subdividing the pitch, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
 
 ### 5-3 Deepening acoustic analysis
 

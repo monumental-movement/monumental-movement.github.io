@@ -24,7 +24,7 @@ The name Grind Orchestra sums up the nature of the music. "Grind" means friction
 
 Formed in 1995 by former Boredoms member Toyohito Yoshikawa, this project began its activities by crossing the boundaries of hardcore, noise, and improvisational music.
 
-Although they have a typical band structure, they are not actually a group that performs fixed songs, but more like an experiment that generates the collision and development of sounds in real time.
+Although they have a typical band structure, in reality they are more like an experiment that generates the collision and development of sounds in real time, rather than a group that performs fixed songs.
 
 > Grind Orchestra is a sonic collective that combines the impulse of hardcore with the freedom of improvisation.
 
@@ -52,7 +52,7 @@ In the 1990s, the Kansai alternative scene attracted worldwide attention. Toyohi
 
 In 1994, around the time of his departure, he started a new group called Grind Orchestra.
 
-From its inception, its composition was extremely unique. In addition to a total of four percussionists, the band consisted of a theremin and electronics, deviating from the traditional concept of a band.
+From its inception, its composition was extremely unique. With a total of four percussionists, theremin and electronics, the band deviated from the traditional concept of a band.
 
 What this arrangement created was a surging beat and Japanese vocals in which meaning and sound are intertwined in multiple layers. It wasn"t just noise or hardcore, it was a strange pop world that didn"t exist anywhere else.
 

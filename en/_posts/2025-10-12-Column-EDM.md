@@ -120,7 +120,7 @@ Logos, perfumes, NFTs, headphones—all have become "industries surrounding soun
 ### Ⅵ. Branching and mutation: Post-EDM horizon
 
 Eventually, the celebrations start to wear out.
-People who were tired of the glare of the main stage began to return to the dark clubs.
+People tired of the glare of the main stage began to return to dark clubs.
 
 "Introspective EDM" demonstrated by Porter Robinson and Madeon——
 It wasn't a festival, it was a sound dealing with individual emotions.

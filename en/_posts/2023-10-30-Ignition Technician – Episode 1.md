@@ -12,7 +12,7 @@ title: Ignition Technician – Episode 1
 ---
 
 
-Ignition Technician（イグニッション テクニシャン）は、Cracker Jack, DJ Special Needs, Slut Peddlersからなるグループです。
+Ignition Technician is a group consisting of Cracker Jack, DJ Special Needs, and Slut Peddlers.
 
 This EP was released in 2001 on the UK label Tortured Records.
 
