@@ -196,3 +196,12 @@ Avant-Garde Jazzは、難解な音楽として距離を置かれることも多�
 > Ornette Coleman、Cecil Taylor、Sun Ra らが示したのは、自由とは無秩序ではなく、深い相互理解と集中から生まれるという事実である。前衛ジャズは、ジャズが持つ根源的な即興性を、最も純粋な形で可視化した運動だった。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QtAvjGZRf9o?si=Tnpd3CPPiOktnpC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

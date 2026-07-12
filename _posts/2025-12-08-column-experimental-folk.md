@@ -241,3 +241,12 @@ Comus の異様なアシッドフォーク、Current 93 の宗教的朗読、Esp
 その結果として生まれてきた「境界の音楽」が Experimental Folk / Psych Folk なのである。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMIWBb9udV8?si=7XmLDCDUbYf8BdIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

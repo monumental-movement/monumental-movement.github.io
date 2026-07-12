@@ -161,3 +161,13 @@ color: #fff;
 同じような4つ打ちでも、イタリアの熱、ドイツの硬質さ、スウェーデンの清涼感は明らかに違う。  
 
 グローバルとローカルの交差点に生まれた音楽。 それが、90年代ユーロの本質なのかもしれない。
+
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1i4AItb_Iw?si=rOvuP_QTU1g6Qp1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
