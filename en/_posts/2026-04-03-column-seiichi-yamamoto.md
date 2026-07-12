@@ -91,7 +91,7 @@ Vision Creation Newsun is also recognized as an important work in the psychedeli
 
 ### Acoustic impact
 
-Seiichi Yamamoto's sustained sound using delay has become a reference technique in the areas of drone and ambient as well.
+Seiichi Yamamoto's sustained sound using delay has become a reference technique in the areas of drone and ambient.
 
 > Seiichi Yamamoto's sound is evaluated not as a genre but as a sonic phenomenon.
 
@@ -270,7 +270,7 @@ By being exposed to a variety of performances and unorganized sounds on a daily 
 
 The act of nurturing the next generation not only influences others, but also creates a cycle in which the depth of one's own sound continues to be updated.
 
-> Music is an individual's expression, but at the same time it is a phenomenon that is nurtured by the place.
+> Music is an individual's expression, but at the same time, it is also a phenomenon that is nurtured by the place.
 
 ---
 

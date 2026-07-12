@@ -20,7 +20,7 @@ Text: mmr｜Theme: How women have updated music history in the form of bands
 
 
 
-In the history of rock and pop, girl bands have long been considered an anomaly. However, in reality, all-female bands have always been in conflict with the systems, technology, and social norms of the times, while building up their own unique expressions. Girls bands are not simply categorized by gender, but are a collection of practices surrounding production, performance, and self-determination.
+In the history of rock and pop, girl bands have long been considered an anomaly. However, in reality, all-female bands have always been in conflict with the systems, technology, and social norms of the times, while building up their own unique expressions. Girls' bands are not simply categorized by gender, but are a collection of practices surrounding production, performance, and self-determination.
 
 Even before the development of the music industry, women have performed in ensembles at home and in local communities. In the 20th century, with the establishment of the record industry and live house culture, the very presence of women in public as a band began to take on social meaning. This paper reconstructs these trends as world history.
 
@@ -45,7 +45,7 @@ color: #fff;
 
 ## 1950–60s: The eve of rock and the emergence of women's ensembles
 
-In the 1950s, rock and roll was born in the United States, and the band form became the center of youth culture. On the other hand, female musicians at the time often came to the fore as singers, and the performance was generally performed by men. One group that emerged as an exception was an all-female group that played musical instruments.
+In the 1950s, rock and roll was born in the United States, and the band form became the center of youth culture. On the other hand, female musicians at the time were often in the forefront as singers, and the performance was generally performed by men. One group that emerged as an exception was an all-female group that played musical instruments.
 
 The Shirelles and the Ronettes, which appeared in 1964, were technically vocal groups, but as a female-dominated collective they had a strong influence on their successors. Eventually, in the late 1960s, women began to be seen picking up guitars and drums on the West Coast of the United States and the United Kingdom.
 

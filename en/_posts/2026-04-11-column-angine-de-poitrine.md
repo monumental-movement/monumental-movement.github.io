@@ -156,7 +156,7 @@ D --> E[international attention]
 E --> F[tour]
 </div>
 
-This flow points to a contemporary structure in which evaluations in the underground scene are globally connected.
+This flow indicates a contemporary structure in which evaluations in the underground scene are globally connected.
 
 > We have entered an era where local activities are instantly connected to the world.
 

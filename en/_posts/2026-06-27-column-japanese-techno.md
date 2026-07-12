@@ -301,7 +301,7 @@ This kind of environment will revitalize Japan's electronic music scene as a who
 
 ### Towards an era of connecting with the world in real time
 
-In the 2000s, Japan's techno scene entered a new phase.
+In the 2000s, the Japanese techno scene entered a new phase.
 
 Until the 1990s, the latest information from overseas was often transmitted at different times through imported records and music magazines. However, with the spread of the Internet, it has become possible to instantly access music information from all over the world, and Japanese artists are rapidly becoming closer to the overseas scene.
 
@@ -421,7 +421,7 @@ In the late 2000s, the boundaries between techno, ambient, click, glitch, IDM, a
 
 In addition to 4/4 music for clubs, the number of works designed for listening has also increased.
 
-Japanese creators are not bound by genre and are now working in a wide range of fields, including video works, contemporary art, game music, and advertising music.
+Japanese creators are not bound by genre and are now active in a wide range of fields, including video works, contemporary art, game music, and advertising music.
 
 Electronic music is no longer limited to club culture, but has spread to music that can be heard in various situations in daily life.
 
@@ -474,7 +474,7 @@ Information sharing about club events has also moved online, making it easier to
 
 In the mid-2010s, we began to see a change in live performance, which used to be computer-centric.
 
-デジタル制作が一般化した一方で、アナログシンセサイザーやドラムマシン、モジュラーシンセサイザーを使ったライブが再び注目されるようになった。
+While digital production has become commonplace, live performances using analog synthesizers, drum machines, and modular synthesizers are once again gaining attention.
 
 Live performances, in which sounds are assembled while operating equipment in real time, create a unique development for each performer, and have become highly appealing as ""performances that can only be heard on the spot.''
 

@@ -156,7 +156,7 @@ Sarah Dufour, who has transitioned to a solo career, has become more rock and ro
 
 What is noteworthy here is that she completely avoided leaning toward "American country."
 
-It's true that the sound is heavily influenced by Americana and Roots Rock. However, the world of lyrics, pronunciation, and descriptions of life are strongly influenced by Quebec culture.
+It's true that the sound is influenced by Americana and Roots Rock. However, the world of lyrics, pronunciation, and depictions of life are strongly influenced by Quebec culture.
 
 This sense of balance is her greatest characteristic.
 
@@ -189,7 +189,7 @@ D --> F[sense of work]
 D --> G[reality of local cities]
 </div>
 
-> Sarah Dufour is one of the few contemporary artists who connects to North American roots music without losing touch with regional culture.
+> Sarah Dufour is one of the few contemporary artists who connects to North American roots music without losing regional culture.
 
 ---
 
@@ -309,7 +309,7 @@ E --> F[new francophone country]
 
 | Year | Events |
 |---|---|
-| Early 2010s | Active in Les Poules à Colin |
+| Early 2010s | Active at Les Poules à Colin |
 | Late 2010s | Full-scale solo activities |
 | 2019 | Increasing attention with solo works |
 | 2020s | Expanding presence in the Quebec francophone scene |

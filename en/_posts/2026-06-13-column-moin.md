@@ -68,7 +68,7 @@ The minimal techno structure of the Raime era exists only as "reverberation" in 
 
 As a result, listeners focus on the "unpredictability" rather than the groove.
 
-> Raime"s space breaks down into Moin"s fragments, and music transforms from a construct to a phenomenon.
+> Raime"s space is broken down into Moin"s fragments, and music transforms from a construct to a phenomenon.
 
 ---
 
@@ -88,7 +88,7 @@ Magaletti's signature lies in the middle ground, neither completely improvised n
 
 This ambiguous control state governs the overall sound image of Moin.
 
-> Drums do not beat the rhythm, but function as a device that visualizes the fluctuations of time itself.
+> Drums do not play a rhythm, but function as a device that visualizes the fluctuations of time itself.
 
 ---
 
@@ -134,7 +134,7 @@ Early works still have a post-punk outline, but as time progresses, those outlin
 
 In particular, with "You Never End," it is important that the album as a whole functions as a continuum rather than the structure of individual songs.
 
-Although each track is independent, they simultaneously erode each other.
+Although each track is independent, they are in a relationship that erodes each other at the same time.
 
 > The chronology is not just a record, but a trajectory that shows how Moin "lost its form"
 

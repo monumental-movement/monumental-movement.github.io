@@ -38,7 +38,7 @@ Bedroom Pop didn't just appear out of nowhere.
 
 Its roots lie in 1970s DIY punk, 1980s cassette culture, and 1990s lo-fi indie.
 
-For example, in the American indie scene, home recording using 4-track MTR was widely practiced. The concept of lo-fi itself does not negate the roughness of recording quality, but rather is born out of a sense of affirming its ""rawness.''
+For example, in the American indie scene, home recording using 4-track MTR was widely practiced. The concept of lo-fi itself does not negate the roughness of recording quality, but rather is born out of a sense of affirming its ""rawness''.
 
 In the late 1980s, underground networks through cassette tapes also expanded. Artists exchanged works by mail, and a small community was formed.
 
@@ -65,7 +65,7 @@ timeline
 
 In the past, home recording was often seen as a ""budget-strapped alternative.'' However, in the late 2010s, these values ​​began to reverse.
 
-Noise, environmental sounds, breathing, small recording errors.
+Noise, environmental sounds, breathing, small recording mistakes.
 
 These elements came to be seen as ""realism" rather than ""unfinished."
 
@@ -133,13 +133,13 @@ Chord progression that is easy to loop.
 
 Lo-fi texture.
 
-これらはTikTokやInstagram Reelsで拡散されやすかった。
+These were easy to spread on TikTok and Instagram Reels.
 
 Particularly around 2020, fragments of Bedroom Pop songs will become memes and be mass-consumed as background music for youth culture.
 
 Instead of ""listening to a song in its entirety", a new form of consumption was born, in which ""you listen to a song as part of your emotions".
 
-> Bedroom Popは配信時代に最適化された最初期の若者音楽文化だった。
+> Bedroom Pop was the earliest form of youth music culture optimized for the digital era.
 
 ---
 
@@ -471,7 +471,7 @@ Many point out that these elements have become templates.
 
 Furthermore, there is also the aspect that Bedroom Pop style production itself has become marketing.
 
-There has also been an increase in the number of cases in which rooms are created to feel like one's own room, even though large-scale budgets have actually been invested.
+There has also been an increase in the number of cases where rooms are created to feel like one's own room, even though large budgets have actually been invested.
 
 In other words, DIY reality has become a commercial format.
 

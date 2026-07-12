@@ -202,7 +202,7 @@ graph TD
 *Top: tie dye shirt
 *Bottom: Bell bottom jeans
 *Accessories: flower crown, beaded necklace
-* Shoes: Sandals
+* Shoes: sandals
 
 ### Punk London Style (1976)
 

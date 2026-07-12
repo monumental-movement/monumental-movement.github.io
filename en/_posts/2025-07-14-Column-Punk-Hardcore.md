@@ -12,7 +12,7 @@ title: '[Column] Definition of punk and hardcore: the turning point of anger and
 ---
 
 
-## Definition of punk and hardcore: the crossroads of anger and expression
+## Definition of punk and hardcore ─ The crossroads of anger and expression
 
 Text: mmr｜Theme: Punk/Hardcore
 

@@ -17,7 +17,7 @@ Carl Craig is a member of the second generation of Detroit techno, discovered by
 
 He creates a sound that incorporates various elements such as innovative ambient, techno, breakbeat, and future jazz.
 
-"Landcruising", released in 2005 by WEA"s subsidiary Blanco Y Negro, is Carl Craig"s first album and is considered a masterpiece. In 2005, it was remastered, remixed, and new songs added, and was released under the title ""The Album Formerly Known As...'' by the RushHour label, and was reevaluated.
+"Landcruising", released in 2005 by WEA"s subsidiary Blanco Y Negro, is Carl Craig"s first album and is considered a masterpiece. In 2005, the album was remastered, remixed, and new songs added, and was released under the title ""The Album Formerly Known As...'' by the RushHour label, and was reevaluated.
 
 #### Tracklist
 ```md

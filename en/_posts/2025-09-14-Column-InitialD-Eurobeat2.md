@@ -69,7 +69,7 @@ color: #fff;
 | Night of Fire | Niko | A classic that connects the flip-flop generation and the anime generation |
 | Space Boy | Dave Rodgers | Popular for its fast pace and strong melody |
 | Dancing | Vicky Vale | Used impressively in the early race scene |
-| Beat of the Rising Sun | Dave Rodgers | Exhilaration and dramatic development |
+| Beat of the Rising Sun | Dave Rodgers | Exhilaration and dramatic developments |
 | No One Sleep in Tokyo | Edo Boys | Tokyo sound image and sense of speed |
 | Speedy Speed ​​Boy | Marko Polo | Title and rhythm that embody the sense of speed |
 | Remember Me | Leslie Parrish | A melodic, emotional and popular song |
@@ -223,9 +223,9 @@ Drift : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (slip sound) </div>
 Even now, nearly 20 years after "Initial D" ended, Eurobeat continues unabated.
 It is music that travels through mountain passes, music that travels through the internet, and music that accelerates memory and the body.
 
-結局、ユーロビートは単なるジャンル名ではなく——  
+After all, Eurobeat is not just a genre name.
 **"A device for storing speed itself as music"**
-として機能しているのではないだろうか。  
+I think it is functioning as a.
 
 Every time you press the play button, that curve is waiting for you.
 

@@ -126,7 +126,7 @@ Pop music is the most widely shared culture and functions as a synonym and a com
 
 ### Age range of greatest impact
 
-Pop's influence is at its greatest between the ages of 12 and 18. At a time when school life and relationships with peer groups are central, common hits act as social glue.
+Pop's influence is greatest between the ages of 12 and 18. At a time when school life and relationships with peer groups are central, common hits act as social glue.
 
 > Pop plays the role of forming a generational common ground.
 

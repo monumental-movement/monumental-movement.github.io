@@ -24,7 +24,7 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 ## Pandemic: A true history of everything from lockdown to reopening to redefining music
 
 
-Text: mmr｜Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained?
+Text: mmr | Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained
 
 
 German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.
@@ -159,7 +159,7 @@ This strange phenomenon has progressed in 2020–2021.
 ## ● Clubs will be legally upgraded to "cultural facilities" (2021)
 In 2021, the German Bundestag took a historic decision.
 
-**Legal protection of clubs as "cultural institutions" (Kultureinrichtung)**
+**Legally protect clubs as "cultural institutions"**
 
 This is in fact a major turning point.
 Until then, clubs were treated as a nightlife industry.
@@ -237,7 +237,7 @@ From 2023 onwards, archive projects will be supported as part of cultural policy
 ---
 
 # Chapter 8: Changes in production technology and sound creation
-## ● 1) Home production becomes the norm
+## ● 1) Home production becoming the norm
 During the lockdown period, artists have had more time to create.
 the result:
 
@@ -256,7 +256,7 @@ Before and after the pandemic, sound production changed as follows:
 
 ### 2022–2024:
 - 150–170 BPM
-- Emphasizes the digital clip feel
+- Emphasizes the feeling of digital clipping
 - Distortion extended to ultra-high range
 - 90s trance chord work
 
@@ -285,11 +285,11 @@ As of 2024, 150-170 BPM will be the mainstream.
 It is unclear whether this will continue, but it may continue due to the following factors:
 
 - Visual presentation on SNS goes well with high-speed music
-- Younger aesthetics prefer "high information density"
+- Young aesthetics prefer "high information density"
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
-Germany has already institutionalized clubs as "cultural facilities," so
+Since Germany has already institutionalized clubs as "cultural facilities,"
 It is predicted that protection policies will become more advanced from 2025 onwards.
 
 ## ● 3) Rise of regional cities

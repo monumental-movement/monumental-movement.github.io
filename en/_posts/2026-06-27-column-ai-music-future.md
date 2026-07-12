@@ -150,14 +150,14 @@ In other words, the existence of a singer changes from a ""fixed body" to a ""re
 
 This change shakes the "proof of existence" in music.
 
-> When the voice becomes replicable, the question remains: who is the singer?
+> When the voice becomes replicable, the question remains: Who is the singer?
 
 ---
 
 
 ## Reorganization of the music industry: oversupply and algorithmic selection
 
-Thanks to AI generation, music has moved from an era of "scarcity" to an era of "excess".
+Thanks to AI generation, music has moved from an era of "scarcity" to an era of "excess."
 Every day, countless songs are created and released.
 
 In this situation, the problem becomes discovery rather than production.
@@ -170,7 +170,7 @@ As a result, the value of music shifts from "production" to "recommendation."
 
 <div class="mermaid">
 flowchart TD
-A["AI生成音楽の大量生産"] --> B["Distribution platform"]
+A["Mass production of AI-generated music"] --> B["Distribution platform"]
 B --> C["Recommendation algorithm"]
 C --> D["Optimizing the listener experience"]
 D --> E["Music visibility gap"]
@@ -220,7 +220,7 @@ A --> C["Structure-centered model"]
 A --> D["Experience-centered model"]
 B --> E["Human only"]
 C --> F["Including AI"]
-D --> G["受容者依存"]
+D --> G["recipient dependent"]
 </div>
 
 The answer to the question ""Will AI end music?'' will depend on which definition you use.

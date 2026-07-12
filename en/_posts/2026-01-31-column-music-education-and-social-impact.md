@@ -64,7 +64,7 @@ Music was a symbol of modernization and at the same time functioned as part of n
 In the latter half of the 20th century, music education shifted its focus from skill training to expressive activities.
 Educational methods that emphasize children's independence, such as the Orff, Kodály, and Suzuki methods, have become popular internationally.
 
-> Changes in the music curriculum reflect changes in the roles that society expects from children.
+> Changes in music curriculum reflect changes in the roles that society expects from children.
 
 ---
 
@@ -74,7 +74,7 @@ Educational methods that emphasize children's independence, such as the Orff, Ko
 Apart from school education, music education rooted in local communities has long existed.
 Folk songs, festival music, and religious music have been preserved through intergenerational transmission and supported community memory.
 
-ヨーロッパのブラスバンド文化は、産業革命期の労働者階級における音楽教育の代表例である。
+European brass band culture is a typical example of musical education in the working class during the Industrial Revolution.
 Factories and local organizations provided instruments, and through ensemble performances, discipline and solidarity were fostered.
 
 In Latin America and Africa, music education is often conducted outside of school, and a culture that emphasizes physical expression and improvisation has been maintained.

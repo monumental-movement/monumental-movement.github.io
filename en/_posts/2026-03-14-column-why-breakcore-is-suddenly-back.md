@@ -375,7 +375,7 @@ It was.
 ---
 
 
-## Breakcoreの未来
+## Future of Breakcore
 
 What will happen to Breakcore in the future?
 
@@ -397,7 +397,7 @@ It is music born from.
 
 Breakcore will continue to evolve in a place that is different from mainstream music.
 
-そしてその場所は、クラブではなく
+And the place is not a club
 
 It might be the internet.
 

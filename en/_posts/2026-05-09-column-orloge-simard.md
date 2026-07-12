@@ -287,7 +287,7 @@ What is important here is the existence of the character "Roxan Puppetville."
 
 This character also appeared at live performances and played a role in expanding the band's worldview.
 
-In other words, Orloge Simard was not just a band at this time, but a group with its own universe.
+In other words, Orloge Simard was not just a band, but a group with its own universe from this point on.
 
 In terms of music, a horn section was also introduced, expanding the range of arrangements.
 
@@ -355,7 +355,7 @@ Behind this is its identity as a French-speaking region, its sense of defense, a
 
 Orloge Simard is an extension of that tradition.
 
-特に重要なのは、“ローカル性を隠さない”ことである。
+What is especially important is not to hide locality.
 
 Many contemporary indie bands tend to dilute their regional flavor in favor of an international market. But Orloge Simard was the opposite.
 

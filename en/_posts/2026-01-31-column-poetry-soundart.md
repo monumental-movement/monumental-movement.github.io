@@ -198,7 +198,7 @@ When collaborating with sound art, improvisational vocalizations and reactions a
 
 ---
 
-## Expanded Chapter 3 Language barriers and multilingual reading
+## Expanded Chapter 3 Language Barriers and Multilingual Reading
 
 ### A voice that transcends meaning
 

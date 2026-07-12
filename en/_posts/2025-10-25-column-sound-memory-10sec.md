@@ -87,7 +87,7 @@ flowchart TD
 
 Not only individuals but also society forms memories based on ""10 seconds of sound''.
 For example, the Olympic fanfare, the intro to a Star Wars movie, or the sound of a smartphone notification.
-These subtle sounds evoke a common emotional response across generations and borders.
+These subtle sounds evoke common emotional responses across generations and borders.
 
 It's no coincidence that TikTok and YouTube Shorts have centered around 10-15 second sound loops since the 2000s.
 The algorithm selects the ""sound that stimulates emotions the fastest,'' which has become a cultural conditioned reflex.
@@ -120,7 +120,7 @@ Rather, they are being tested on their sensitivity to finding just 10 seconds of
 
 ## Chapter 6: Why do we never forget that sound?
 
-A 10-second sound is tied to the physical sensation of that moment and is memorized.
+The 10 seconds of sound is tied to the physical sensations of that moment and is memorized.
 The smell of rain, the light in the room, the rhythm of your heartbeat.
 Therefore, even if time passes, just listening to the sound brings back the ""entire experience'' of the past.
 

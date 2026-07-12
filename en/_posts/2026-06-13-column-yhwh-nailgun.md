@@ -149,7 +149,7 @@ For this reason, it is important to understand each album, and it is difficult t
 
 Regarding the recording method, spatiality and distortion processing are important factors, and the texture of the mixture is prioritized over clean separation.
 
-> A work exists not as a collection of songs, but as a fragmentary record of a state.
+> The work is not a collection of songs, but exists as a fragmentary record of a state.
 
 ---
 

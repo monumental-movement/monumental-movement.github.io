@@ -20,9 +20,9 @@ title: '[Column] Santoor: Sonic innovation and modern reinterpretation in Indian
 
 Text: mmr｜Theme: The history of the Indian classical musical instrument santoor and the overall picture of modern interpretations that continue to update the tradition
 
-サントゥールは、インド古典音楽の中でも比較的新しく主流化した楽器でありながら、極めて古層の音楽観と結びついている。木製の共鳴箱の上に張られた無数の金属弦を、細いマレットで打ち鳴らすという構造は、旋律とリズムを分離せず、音の粒子そのものを時間の流れとして扱う。
+Although the santoor is a relatively new mainstream instrument in Indian classical music, it is associated with an extremely ancient musical perspective. The structure, in which countless metal strings strung over a wooden resonance box are struck with thin mallets, does not separate melody and rhythm, but treats the particles of sound themselves as a flow of time.
 
-インド古典音楽において重要なのは「旋律がどこへ向かうか」よりも、「音がどのように立ち上がり、どのように消えていくか」である。サントゥールはその思想を最も直接的に可視化する楽器だと言える。
+In Indian classical music, what is important is not ""where the melody goes" but ""how the notes rise and fall". The santour can be said to be the instrument that most directly visualizes this idea.
 
 > Santour is not an instrument that arranges sounds, but rather presents time as vibration.
 
@@ -50,7 +50,7 @@ In the Indian subcontinent, Kashmir Santoor, which developed in the northern Kas
 
 <div class="mermaid">
 flowchart LR
-A[ペルシア系打弦楽器] --> B[Central Asia]
+A[Persian percussion instrument] --> B[Central Asia]
 B --> C[kashmir region]
 C --> D[northern india music culture]
 </div>
@@ -85,7 +85,7 @@ Even in the performance of the santoor, the time period, emotional character, an
 
 Once in the tala, the santoor begins to take on a percussive driving force, blurring the line between melody and rhythm. This duality creates a charm that is not found in other melodic instruments.
 
-> The santour is an instrument that exists in the middle area between melody and rhythm.
+> The santour is an instrument that exists between melody and rhythm.
 
 ---
 
@@ -113,7 +113,7 @@ Even in performances outside of the Indian classical framework, raga thinking co
 
 Modern santour players go back and forth between pure classical performance and experimental expression. With an emphasis on complete improvisation, sonic texture, and the treatment of silence, the santour is being redefined as a musical object.
 
-演奏はしばしば弱音から始まる。 The moment the mallet touches the string, before there is a distinct sound of impact, you can feel the presence of a metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
+Performances often begin with a soft note. The moment the mallet touches the string, before there is a clear sound of impact, you can feel the metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
 
 > The santour is changing from an instrument to be played to one that shapes the listening space.
 
@@ -121,7 +121,7 @@ Modern santour players go back and forth between pure classical performance and 
 
 ## Symbiotic relationship between Kashmiri folk songs and santoor
 
-In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, religious gatherings, and other occasions.
+In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, and religious gatherings.
 
 When playing the santour as an accompaniment to folk songs, the intonation of the melody and the speaking style are given priority over strict musical scales. The mallet is not swung down with a constant force, but rather changes its speed and angle subtly to match the singer's breathing.
 
@@ -133,7 +133,7 @@ When playing the santour as an accompaniment to folk songs, the intonation of th
 
 Iranian santurs have fewer strings than Indian ones, and have a more organized range. The melodies are more clearly delineated, and improvisations are developed through changes in ornamentation.
 
-While Indian santoor emphasizes the continuous flow of sound, Iranian santoor has a strong note-by-note structure.演奏時、マレットは弦に対して垂直に近い角度で打ち下ろされ、アタック音がはっきりと前景化する。
+While Indian santoor emphasizes the continuous flow of sound, Iranian santoor has a strong note-by-note structure. When playing, the mallet is struck at a nearly perpendicular angle to the strings, bringing the attack sound clearly into the foreground.
 
 > Although they have the same name, their musical philosophy differs greatly depending on the region.
 

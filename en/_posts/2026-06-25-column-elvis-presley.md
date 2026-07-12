@@ -261,14 +261,14 @@ He's not a flashy movie star.
 
 He was a pure rock"n"roll singer.
 
-The program becomes a great success.
+The program becomes a huge success.
 
 Many critics consider this special to be one of the biggest comebacks of his career.
 
 <div class="mermaid">
 flowchart LR
 A[Movie-centric era]
---> B[Popularity stagnation]
+--> B[Stagnant popularity]
 --> C[1968 special number]
 --> D[reputation recovery]
 --> E[Live activity revival]

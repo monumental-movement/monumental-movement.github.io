@@ -55,7 +55,7 @@ At this point, funk already had the qualities of loop-based music, and its later
 ## Chapter 2: Changes before electronicization
 
 
-In the late 1970s, advances in studio technology began to change the way funk was produced. With the spread of multi-track recording, performances have come to be broken down and treated as editable material. As a result, greater emphasis was placed on rhythmic precision and timbre unity.
+In the late 1970s, advances in studio technology began to change the way funk was produced. With the spread of multi-track recording, performances began to be broken down and treated as material that could be edited. As a result, greater emphasis was placed on rhythmic precision and timbre unity.
 
 Around the same time, electric pianos and early synthesizers were introduced, and the keyboard changed from being just a harmonic instrument to being a timbre player. At this stage, the ideas for later synth basses and electronic leads were being prepared.
 

@@ -154,7 +154,7 @@ flowchart TD
 
 A nasal flute is a device that expresses feelings that cannot be put into words through sound. The sound is small and does not reach far. However, it is just that much more intimate and direct.
 
-The presence of the nasal flute stands in contrast to contemporary music, which often strives for loudness and complex structures. It is music that is created by ""reducing the sound" rather than ""increasing the sound."
+The presence of the nasal flute stands in contrast to contemporary music, which often seeks loud volumes and complex structures. It is music that is created by ""reducing the sound" rather than ""increasing the sound."
 
 A man breathes in the silence of the mountains. That action becomes music. Through its extreme simplicity, the nasal flute questions the essence of music.
 

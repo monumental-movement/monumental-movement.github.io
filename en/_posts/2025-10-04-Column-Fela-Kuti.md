@@ -50,7 +50,7 @@ Fela's music is characterized by long (10 to 30 minute) repetitive grooves, stro
 
 ### Political and cultural activities
 
-Fela declared his mansion the ""Kalakuta Republic"' and operated it as a community, studio, and theatrical space. There have been repeated harsh criticisms of the military government, and there are many incidents of attacks, detentions, and torture by the police and military (one famous incident is the anecdote of the "Expensive Shit"). While these combative stances have made him Nigeria"s "voice of the voiceless," they have also come at a physical cost.
+Fela declared his mansion the ""Kalakuta Republic"' and operated it as a community, studio, and theatrical space. There have been repeated harsh criticisms of the military government, and there are many incidents of attacks, detentions, and torture by the police and military (one famous incident is the "Expensive Shit" anecdote). While these combative stances have made him Nigeria"s "voice of the voiceless," they have also come at a physical cost.
 
 ---
 
@@ -108,7 +108,7 @@ This is his early work after studying abroad in London, and focuses on jazz and 
 #### Early 1970s: Afrobeat establishment period
 - **Gentleman (1973)**
 A masterpiece that criticizes colonialism. A social message is added to the funk groove.
-- **"Confusion" (1975)**
+- **Confusion (1975)**
 A 20-minute long song that figuratively depicts the urban chaos in Lagos.
 
 #### Late 1970s: Political peak

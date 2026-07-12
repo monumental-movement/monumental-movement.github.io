@@ -145,7 +145,7 @@ In the late 1980s, DEVO went into decline as MTV culture changed.
 In the 1990s, it was reevaluated as a pioneer of the Internet era.
 Their self-satirical brand strategy foreshadowed post-Web 2.0 self-commodification.
 
-They reunited in the 2000s and wrote "Something for Everybody" (2010), a satire on "democracy in the age of algorithms."
+They reunited in the 2000s with "Something for Everybody" (2010), a satire on "democracy in the age of algorithms."
 In the 2020s, he continues to update his theory of degeneration to include NFTs and AI culture.
 
 ---

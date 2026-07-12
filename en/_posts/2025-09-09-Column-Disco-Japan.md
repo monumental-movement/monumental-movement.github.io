@@ -176,7 +176,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 
 ## 2000s — The rise of Nu-Disco and club restructuring
 - **Background**
-"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
+"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan, and the club scene is once again in the spotlight.
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Discovery* (2001)

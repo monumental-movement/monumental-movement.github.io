@@ -67,7 +67,7 @@ The TR-1000 is, so to speak, a ""rhythm mirror image device.''
 ### Chapter 3 Physical Design and Interface
 #### ── Regaining the feeling of "playing" a machine
 
-The TR-1000's panel design follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
+The panel design of the TR-1000 follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
 Machined aluminum knob, step button with rounded edges.
 This tactile design is an expression of the belief that ""the hands remember the music before they can express the sound.''
 
@@ -77,12 +77,12 @@ Responsiveness as if the rhythm was "breathing". This is why Roland is so partic
 
 ---
 
-### Chapter 4 Acoustic structure: Evolution of low frequencies and rhythmic texture
+### Chapter 4 Acoustic Structure: Evolution of Low Range and Rhythm Texture
 #### ── To overcome the "ghost of the 808 kick"
 
 At the heart of the TR-1000 is a low-end design philosophy.
 A unique sub-oscillation and harmonic control circuit has been added to the **sine wave generation circuit**, which continues the tradition since the 808.
-As a result, we achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
+As a result, we have achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
 
 The snare is constructed using a discrete circuit + noise shaping method, and the hi-hat is constructed using an analog noise source that includes a minute micro-delay.
 It has achieved a ""coexistence of acoustic realism and abstraction'' that goes beyond the reproduction of the 808/909.

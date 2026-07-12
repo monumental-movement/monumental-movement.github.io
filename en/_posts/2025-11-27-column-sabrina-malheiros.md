@@ -127,7 +127,7 @@ worthy of being called.
 
 IG Culture is a London broken beat legend whose musical and cultural influence is immeasurable.
 
-The IG Culture version of "Clareia" has a lower center of gravity rhythm and a strong soulful and street feel.
+The IG Culture version of "Clareia" has a rhythm with a lower center of gravity and a strong soulful and street-like feel.
 The beat is not rough, but rather smooth, creating a deep sound image that envelops Sabrina's singing voice.
 
 It can be said to be the most "underground" finish with a strong black texture.

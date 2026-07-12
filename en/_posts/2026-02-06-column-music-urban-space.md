@@ -48,7 +48,7 @@ In the early 20th century, New Orleans was a port city where diverse cultures in
 
 ### New York and Tin Pan Alley
 
-In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry defined the format of popular music, reflecting the city's speed and commerciality.
+In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry established a format for popular music that reflected the city's speed and commerciality.
 
 > Modern cities had the power to push music from improvisation to industry.
 
@@ -212,7 +212,7 @@ Urban structures directly determine the volume, repeatability, and environment i
 
 <div class="mermaid">
 flowchart LR
-A[on the road] --> B[hole]
+A[on the street] --> B[hole]
 B --> C[club]
 C --> D[online space]
 </div>
@@ -266,7 +266,7 @@ As land prices rise due to redevelopment, small-scale music spaces move to the p
 ---
 
 
-## Final chapter: How does music depict the future of cities?
+## Final Chapter: How does music depict the future of cities?
 
 Music records, critiques, and sometimes anticipates the city. As long as urban space continues to change, new music will continue to be born. Listening to music is the act of listening to the city's present and future at the same time.
 

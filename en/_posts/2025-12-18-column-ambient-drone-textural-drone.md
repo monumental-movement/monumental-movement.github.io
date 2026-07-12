@@ -78,7 +78,7 @@ flowchart LR
 
 ### 3-1. Work characteristics
 
-Stars of the Lid uses strings, brass, and electronic sounds, and is characterized by an extremely slow development. In their works, clear melodic progressions and rhythms are eliminated, and the main structure is the stay of harmony and the breathing of tones.
+Stars of the Lid uses strings, brass, and electronic sounds, and is characterized by an extremely slow development. In their works, clear melodic progressions and rhythms are eliminated, and the main structure is the retention of harmony and the breathing of tones.
 
 ### 3-2. Recording and mixing
 
@@ -123,7 +123,7 @@ flowchart TB
 
 ### 5-2. Dynamics control
 
-Sudden volume changes are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
+Sudden changes in volume are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
 
 ### 5-3. Spatial processing
 

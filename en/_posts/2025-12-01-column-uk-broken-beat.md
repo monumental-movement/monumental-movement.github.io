@@ -189,7 +189,7 @@ graph TD
 ## 7. Artist individual profile and analysis
 
 ### Dego
-- **活動開始**: 1990年代初頭  
+- **Start of activities**: Early 1990s
 - **Characteristics**: Development of Broken Beat based on jazz electronica
 - **Analysis of representative works**: In "Live in Tokyo", the drums and bass are slightly out of sync, creating a live feel with an improvisational feel. The highlight of this song is the combination of the floating and swinging feel of the synth.
 

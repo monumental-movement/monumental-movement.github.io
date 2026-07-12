@@ -112,7 +112,7 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "Ice Wasteland" through repetition and speed
+* Expression of "ice wasteland" through repetition and speed
 * Corpse Paint
 * Natural view of winter, forest, and solitude
 
@@ -193,7 +193,7 @@ Representative works: *Black Metal* (1982), *Welcome to Hell* (1981)**
 *Musically, it has a rough sound that falls between thrash, punk, and NWOBHM.
 * Chronos and other members did not seriously advocate religious mysticism;
 **Uses Satanism/anti-religion as a shock factor**.
-* その結果、後世の北欧ブラック勢が Venom を“音楽ではなく姿勢”の源流と位置づける。
+* As a result, later generations of Scandinavian black artists regarded Venom as the origin of "attitude, not music."
 
 ---
 
@@ -202,7 +202,7 @@ Representative works: *Black Metal* (1982), *Welcome to Hell* (1981)**
 **Central character: Quorthon
 Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Black Mark* (1987)**
 
-* **北欧ブラックメタルの「音楽的フォーマット」を最初に明確化**したのが Bathory。
+* **Bathory was the first to clarify the "musical format" of Scandinavian black metal**.
 * Features
 
 * Guitar like a wall of noise

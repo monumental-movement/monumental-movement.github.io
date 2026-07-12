@@ -75,7 +75,7 @@ Additionally, he suggested adding Nico to the band. This was more about visual a
 
 ### Expansion of Factory as a club space
 
-1966年に始まった「Exploding Plastic Inevitable（EPI）」は、Factoryの内部で行われていたことを外部に持ち出したプロジェクトだった。
+Exploding Plastic Inevitable (EPI), which began in 1966, was a project that brought what was being done inside the Factory to the outside world.
 
 The event featured a performance by The Velvet Underground and a video of Warhol.
 
@@ -88,7 +88,7 @@ flowchart TD
 A[music] --> B[picture]
 B --> C[light]
 C --> D[audience]
-D --> E[没入状態]
+D --> E[immersion state]
 </div>
 
 This "accident-like experience" was exactly what Warhol was aiming for.

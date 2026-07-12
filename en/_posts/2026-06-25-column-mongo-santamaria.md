@@ -226,7 +226,7 @@ One of the people at the center of this was Tito Puente.
 
 Mongo will join the orchestra.
 
-### Tito Puente Orchestra
+### Tito Puente Band
 
 Tito Puente's Orchestra was one of the most important groups in Latin music at the time.
 

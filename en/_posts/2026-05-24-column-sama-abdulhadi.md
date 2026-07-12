@@ -86,7 +86,7 @@ repeating rhythm.
 minimalistic structure.
 Communication that does not require language.
 
-It was a feeling that could be shared across borders, religions, and ethnic groups.
+It was a feeling that could be shared across borders, religions, and ethnicities.
 
 ### Encounter with club culture
 
@@ -210,7 +210,7 @@ Hard and stoic.
 Energetic and uncompromising.
 There is also a strong sense of unity with the audience.
 
-He was highly acclaimed as a full-fledged techno DJ, not just a ""unusual regional DJ.''
+He was highly praised as a full-fledged techno DJ, not just a ""unusual regional DJ.''
 
 <div class="mermaid">
 timeline
@@ -270,7 +270,7 @@ mindmap
       アンダーグラウンド文化
 </div>
 
-What is particularly important is that he is devoted to ""making people dance.''
+What is especially important is that he is devoted to ""making people dance.''
 
 In recent years, techno has tended to focus more on social media and visual production. However, her play is extremely physical and emphasizes physicality.
 
@@ -286,7 +286,7 @@ On the other hand, she is often treated as a political figure by the media.
 
 However, he was wary of being perceived as a simple political activist.
 
-What she repeatedly says is that ""music is the main thing.''
+What she repeatedly says is that ""music is the main focus.''
 
 Of course, being from Palestine, it is difficult to completely separate yourself from the political context.
 
@@ -345,7 +345,7 @@ graph TD
 A[Nabi MusaEvent] --> B[Backlash from conservatives]
 A --> C[Club culture support]
 B --> D[religious space debate]
-C --> E[freedom of expression debate]
+C --> E[freedom of expression discussion]
 D --> F[international coverage]
 E --> F
 </div>

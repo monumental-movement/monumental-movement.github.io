@@ -77,7 +77,7 @@ At first glance, conservative ideology and metal seem to be contradictory. Howev
 
 Like Judas Priest, music that confines explosive passion within an orderly rhythm. This is exactly like Mr. Takaichi's political stance. Although the logical structure is cold, there is an intense "combustion" behind it.
 
-**"In cold construction lies true heat."** This phrase applies to both metal and politics. Through the person of Sanae Takaichi, we can reconsider "politics that lives like sound."
+**"In cold construction lies true heat."** This phrase applies to both metal and politics. Through the character Sanae Takaichi, we can reconsider "politics that lives like sound."
 
 ---
 
@@ -114,7 +114,7 @@ flowchart TD
 
 </div>
 
-Within this structure, Takaichi plays with ""intellect that controls passion.''
+Within this structure, Mr. Takaichi plays with ""intellect that controls passion.''
 
 ---
 
@@ -122,7 +122,7 @@ Within this structure, Takaichi plays with ""intellect that controls passion.''
 
 Just as metal has evolved by accepting noise, mature politics also becomes stronger when it embraces "unusual sounds." The existence of Sanae Takaichi symbolizes the "acceptance of noise" in Japanese politics. The noise doesn't sound like chaos, but creative distortion.
 
-""New sounds can only be born from silence.'' This phrase applies to both metal and politics. Through the person of Sanae Takaichi, we can reconsider "politics that lives like sound."
+""New sounds can only be born from silence.'' This phrase applies to both metal and politics. Through the character Sanae Takaichi, we can reconsider "politics that lives like sound."
 
 ---
 

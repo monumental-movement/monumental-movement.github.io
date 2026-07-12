@@ -31,7 +31,7 @@ Typical ICs include the following.
 * 40106: Schmitt trigger inverter
 *4040: Binary counter
 * 4017: Decade counter
-*4070:XOR gate
+*4070: XOR gate
 
 These can produce sounds on their own, but when combined, complex rhythms and patterns can be created.
 
@@ -195,7 +195,7 @@ As a result, signals having multiple periods are output simultaneously.
 Lunetta's feature is not fixed wiring, but connection changes using jumpers and patch cables.
 
 * Freely connect inputs and outputs
-* Generating feedback loops
+* Generating a feedback loop
 * Unpredictable behavior
 
 <div class="mermaid">
@@ -218,7 +218,7 @@ The voltage itself acts as a parameter.
 
 ---
 
-## Chronology: Deployment of CMOS Synth and Lunetta
+## Timeline: Deployment of CMOS Synth and Lunetta
 
 ### 1970s-1990s
 

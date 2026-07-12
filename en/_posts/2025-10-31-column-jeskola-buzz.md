@@ -91,7 +91,7 @@ This led to the following trends:
 
 * Individual developers publish sound sources/effects, and you can enjoy new sounds/processing just by downloading and incorporating them.
 * Users began to take on the challenge of ""how far they could create circuits" and ""how much experimental sound could they get."
-* There has been an increase in the number of cases in which people who create experimental works that cross musical genres choose Buzz as a "tool."
+* People who create experimental works that cross musical genres are increasingly choosing Buzz as a "tool."
 
 ### 3.4 Lightweight, immediate, and superior as an experimental environment
 
@@ -107,7 +107,7 @@ Another important aspect of Buzz was that it was actively supported, shared, and
 ### 4.1 Free plug-in sharing and sound source market culture
 
 Buzz users were creating sound source machines/effect machines and distributing them for free on forums and websites. For example, many machines were posted on BuzzMachines.com and demoscene forums.
-This made it commonplace to download someone else's machine and insert it into your own songs. In other words, a cycle was born in which "users create equipment (software equipment) and then share it with friends and the internet."
+This made it commonplace to download someone else's machine and insert it into your own songs. In other words, a cycle was born in which "users create equipment (soft equipment) and then share it with friends and the internet."
 
 ### 4.2 Deep relationship with demoscene
 
@@ -196,7 +196,7 @@ Even after Buzz's official development stalled, the following "legacy" has been 
 
 * License-free imitation/derivative projects (e.g. BuzzTrak/Buzz clone), Tracker module environment running on Linux, etc.
 * Maturation of software modular/plugin culture. The style of ""users adding extensions and sharing them online'' has become commonplace.
-* Buzz's spirit of "modular + improvisation" is being referenced in the hardware modular revival (e.g. Eurorack). In the previous "Dreaming Of Wires" article, Holden said that "the wiring thinking he learned from Buzz" became the starting point for his transition to hard modular.
+* Buzz's spirit of "modular + improvisation" is being referenced in the renaissance of hardware modularity (e.g. Eurorack). In the previous "Dreaming Of Wires" article, Holden said that "the wiring thinking he learned from Buzz" became the starting point for his transition to hard modular.
 
 ### 6.4 Contributing to music production/education/DIY culture
 

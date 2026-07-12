@@ -89,7 +89,7 @@ Globalization and the rise of streaming have accelerated the fusion with Afro ho
 ## Equipment chronology (simplified)
 - **1980s~early 90s**: Technics SL-1200 (turntable), Roland TR-909/TR-808 (drum machine), early Akai/E-mu samplers. References: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mid 90s-2000s**: Heavy use of Akai MPC series and hardware samplers (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>).
-- **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), soft samples such as Kontakt and Maschine, and MPC.
+- **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), software samples such as Kontakt and Maschine, and MPC.
 
 ---
 

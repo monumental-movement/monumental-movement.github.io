@@ -23,7 +23,7 @@ This is the power of sound memory, similar to smell.
 Neuroscience has also shown that music directly stimulates the hippocampus (memory) and amygdala (emotions).
 But more than that, music is an ""art of time" and a ""reenactment of the past."
 
-Listening to music is not just entertainment, but a physical act of replaying the past.
+Listening to music is not just entertainment, but a ""physical act of replaying the past.''
 It existed even before recording technology was invented; it was a way for humans to "share memories" through voice and rhythm.
 
 ---
@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## 第1章：記憶とリズム — 「時間の構造」としての音楽
+## Chapter 1: Memory and Rhythm — Music as a "structure of time"
 
 The most fundamental structure of music is **rhythm**.
 Rhythm is the order of time, and through repetition it brings the past back into the present.
@@ -95,7 +95,7 @@ Spotify"s ""Discover Weekly" and Apple Music"s ""Personal Mix" are attempts at a
 But there is also danger lurking there.
 We may be listening to "memory as data" rather than "our own memory."
 
-> Human nostalgia is externalized by algorithms.
+> Human nostalgia is being externalized by algorithms.
 
 At this time, music becomes not an individual's internal memory, but a network memory (collective digital memory).
 
@@ -180,7 +180,7 @@ flowchart TD
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]
-    D --> F[emotional response]
+    D --> F[emotional reaction]
     E --> G[Re-experiencing the past through music]
     F --> G
     G --> H[Generation of nostalgia]

@@ -21,7 +21,7 @@ title: '[Column] Why does AKIRA still sound like the sound of the future? — Av
 
 Text: mmr｜Theme: Why AKIRA still sounds like the "sound of the future"—Prophecies about the city and the body drawn by avant-garde folk sounds
 
-In 1988, an animated film was released from Japan, which was in the midst of the bubble economy.原作は大友克洋。 The music is by Shoji Yamashiro, who leads the entertainment Yamashiro group. The name of the work is AKIRA.
+In 1988, an animated film was released from Japan, which was in the midst of the bubble economy. The original work is by Katsuhiro Otomo. The music is by Shoji Yamashiro, who leads the entertainment Yamashiro group. The name of the work is AKIRA.
 
 Even though it's been nearly 40 years since its release, the sound of this movie never gets old. In fact, in recent years, with the resurgence of cyberpunk, the context of ""Why AKIRA Still Sounds Future'' has become stronger.
 
@@ -60,7 +60,7 @@ The music was conceived in parallel with the film's production. Director Otomo s
 
 ### Positional relationship with Cyberpunk
 
-Akira is often ranked as a masterpiece of cyberpunk. Blade Runner came out in 1982, six years before the movie was released. This one depicts urban decadence using Vangelis's synth sounds.
+AKIRA is often ranked as a masterpiece of cyberpunk. Blade Runner came out in 1982, six years before the movie was released. This one depicts urban decadence using Vangelis's synth sounds.
 
 On the other hand, AKIRA did not express the future only with electronic sounds. Rather, it brought to the fore ethnic, ritual, and physical sounds, sounding technology and magic at the same time.
 
@@ -116,7 +116,7 @@ D --> E[A sense of the future that transcends time axis]
 
 The motorcycle chase at the beginning of the movie is more than just an action scene. The emphasis on rhythm, synchronization with the sound of the engine, and the beat of the drums create physical excitement.
 
-Sound does not follow vision, but instead represents the heartbeat of the body. The audience subconsciously synchronizes with the rhythm.
+Sound does not follow vision, but instead represents the heartbeat of the body. The audience unconsciously synchronizes with the rhythm.
 
 ### Tetsuo's transformation and sound
 

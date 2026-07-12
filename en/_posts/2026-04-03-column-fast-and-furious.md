@@ -65,7 +65,7 @@ Fast and Furious was innovative not just in recreating real-life sounds. By edit
 
 For example, the pitch of engine sounds is often emphasized more than the actual rotation speed. At the moment of gear change, a slight "pause" is inserted to amplify the impact of acceleration. These are all deliberate edits.
 
-The tempo of the music also plays an important role. It's not just songs with a fast BPM (tempo) that are used; rather, by layering detailed rhythms on songs with a medium tempo, a sustained sense of tension is created.
+The tempo of the music also plays an important role. It's not just songs with a fast BPM (tempo) that are used; rather, by overlaying detailed rhythms on songs with a medium tempo, a sustained sense of tension is created.
 
 In this way, the movie creates a world that feels faster than it actually is.
 

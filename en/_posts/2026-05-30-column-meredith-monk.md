@@ -31,7 +31,7 @@ But no title is perfect.
 
 Because what Meredith Monk has been working on has been an attempt to expand the framework of music itself.
 
-For many years, she has treated the ""voice'' as not just a singing technique, but as the most primitive instrument possessed by humans.
+For many years, she has treated the ""voice'' not as a mere singing technique, but as the most primitive instrument possessed by humans.
 
 laughter.
 Moaning.
@@ -141,7 +141,7 @@ She treated the voice not as a means of transmitting information, but as a sensa
 
 This idea had a huge influence on later vocal experimental music.
 
-> Monk's music was a rare example of using voice to transcend words.
+> Monk's music was a rare example of using the voice to transcend words.
 
 ---
 
@@ -276,7 +276,7 @@ In the recent documentary Monk in Pieces, David Byrne, Björk and others talk ab
 
 <div class="mermaid">
 graph TD
-A[Meredith Monk] --> B[modern music]
+A[Meredith Monk] --> B[contemporary music]
 A --> C[experimental electronic music]
 A --> D[performing arts]
 A --> E[Video work]

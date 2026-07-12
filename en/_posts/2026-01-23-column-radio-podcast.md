@@ -18,7 +18,7 @@ title: '[Column] Decline and revival of radio culture as interpreted from the pe
 
 ## A device called radio that existed before music
 
-Text: mmr｜Theme: The media of voice that transforms through music - Cultural history from radio to podcasts
+Text: mmr｜Theme: The media of voice that transforms through music - About the cultural history from radio to podcasts
 
 
 Radio is often talked about as a music medium, but its essence when it was first invented was the simultaneous sharing of audio.
@@ -67,7 +67,7 @@ The experience of listening to the same song at the same time has elevated music
 Radio has created an existence that presents not only music itself, but also ""how to listen to music.''
 The DJ was the music selector, commentator, and storyteller.
 
-Song order, time, and comments.
+Song order, time zone, and comments.
 These give context to the music and define the genre.
 
 The phenomenon of music introduced by a particular DJ being recognized as a genre has been repeated all over the world.
@@ -119,7 +119,7 @@ Although its influence has declined, its pervasiveness in everyday life has rema
 
 ---
 
-## The premise of broadcasting that has been dismantled by the Internet
+## The premise of broadcasting that has been dismantled by the internet
 
 Digitalization will dismantle the fundamental structure of radio.
 Time, frequency, license.
@@ -135,7 +135,7 @@ Radio no longer needs to be a "broadcast".
 ## Reinventing the podcast
 
 Podcasts were radio without a station.
-Created by individuals, spoken by individuals, and reaching individuals.
+Produced by individuals, spoken by individuals, and reaching individuals.
 
 Unlike music distribution, podcasts focus on storytelling.
 Music becomes an object to be analyzed, remembered, and contextualized.

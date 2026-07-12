@@ -97,7 +97,7 @@ However, this idea had a great influence on later music history.
 Noise is not the enemy of music.
 It was a new material.
 
-### An attempt to break the structure of music
+### Attempt to break the structure of music
 
 In the mid-20th century, composers tried even more radical methods.
 
@@ -316,5 +316,14 @@ Art has always been born between fear and curiosity.
 And experimental music continues to stand on the border.
 
 > The reason experimental music is scary is because it represents the future of sound that no one knows about yet.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmuZ3rnPoYY?si=MpogH4rHe5tLFJK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

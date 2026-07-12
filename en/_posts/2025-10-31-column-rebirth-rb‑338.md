@@ -19,7 +19,7 @@ title: '[Column] Make your equipment softer—The impact of ReBirthRB‑338'
 
 Text: mmr｜Theme: Re-thinking ReBirth not only as ""innovation as a tool" but also as an opportunity for ""changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
 
-In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is the ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
+In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
 What this software offered was the possibility of ""making those legendary equipment (Roland TB‑303, Roland TR‑808, Roland TR‑909) usable on your personal computer.''
 ReBirth bypassed the hurdles of obtaining hardware, the cost of maintaining it, and the difficulty of transporting and operating it, and introduced a new wave of ""democratization through software," which is why it was an event that could be called a ""shock".
 
@@ -102,7 +102,7 @@ In this way, ReBirth was not only a technological innovation, but also a tool th
 ReBirth's impact goes beyond just being a software synthesizer. Rather, what is important is that it restructured the "possibilities of access and expression" in the cultural fields of electronic music, clubs, techno, and DIY production.
 
 ### Acid techno again: popularizing the TB‑303 sound
-The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more "maniacal." Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
+The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more maniacal. Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
 
 This challenged the preconceived notion that "hardware ownership = production style" and served as an opportunity to expand the creator base.
 
@@ -152,18 +152,18 @@ On the other hand, several years after the mobile version was released, it was a
 ### "The End" and its reading
 Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
+- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 
 ---
 
-## レガシーと問い直し：今日的な意味・復刻・ハード／ソフト再解釈  
+## Legacy and re-questioning: Today's meaning, reprint, hard/soft reinterpretation
 Although ReBirth is now a tool of the past, its influence and legacy remains strong in today's music production and technology environment. Here, we will "reexamine" this question from several perspectives.
 
 ### Redefining ease and access
 What ReBirth demonstrated was the concept that ""you can express yourself without any equipment" and ""you can create sound with your own computer." This truly means "democratization of production access," and it also applies to the current cloud/mobile/plug-in environment. For example, apps that make it easy to use synths on smartphones and subscription-based software musical instruments are an extension of this context.
-ReBirthを振り返ることで、いま一度「誰でも始められる／持たざる者にも表現の道を」という思想を思い起こすことができます。
+By looking back at ReBirth, we can once again remember the idea that "anyone can start/a path of expression for those who don't have".
 
 ### From "ownership" to "access", from hardware to software
 Before ReBirth, it can be said that the model of production equipment = ownership was strong. Having the equipment was also a status, and it was also the first condition for the production environment. ReBirth has rewritten this into the form of "software purchase" and created a background where "ownership" itself becomes relativized.
@@ -186,27 +186,27 @@ Below is a summary of the major chronology of ReBirth and the technological/cult
 | Year | Events |
 |----|--------|
 | Around 1982 | Roland TR‑808 drum machine released. Influences house/hip hop. |
-| 1983頃 | Roland TB‑303 ベースライン・シンセ発売。 It later became the key to acid house. |
+| Around 1983 | Roland TB‑303 bassline synth released. It later became the key to acid house. |
 | 1994 | Established Propellerhead Software (Sweden) |
-| 1996‑10 | ReBirth RB‑338 アルファ版（MacOS向け）公開 |
+| 1996‑10 | ReBirth RB‑338 alpha version (for MacOS) released |
 | 1997 | ReBirth official release |
 | 1998‑11 | ReBirthv2.0.1 released (TR‑909 added) |
-| 2005‑09‑01 | デスクトップ版ReBirth サポート終了、無料ダウンロードへ移行 |
-| 2010‑04 | iOS版ReBirthリリース（iPhone/iPad）|
+| 2005‑09‑01 | Support for desktop version of ReBirth ends, transition to free download |
+| 2010‑04 | iOS version of ReBirth released (iPhone/iPad) |
 | 2017‑06‑15 | ReBirth removed from AppStore (intellectual property rights issue) |
 
 ---
 
 ## In conclusion: "Possibilities" shown by ReBirth and future trends in music/technology
 Looking back, ReBirth was more than just a "software synthesizer"; it was an event that changed the very nature of music production.
-それは「機材所有・物理的制約・高コスト」といった構図を問い直し、「ソフトウェアでアクセス可能な音作り＋手軽な操作性＋クリエイターの拠点（PC）」という新しい地平を提示しました。  
+It reconsidered the concept of ""equipment ownership, physical constraints, and high costs," and presented a new horizon of ""sound creation that can be accessed through software + easy operability + a base for creators (PC)."
 Today, we accept the cloud/subscription plugin/mobile audio environment as ""just the way it is''. However, we must not forget the fact that behind this "normal" thing, there were "pioneers" like ReBirth.
 
-同時に、ReBirthから学び直すべきことがあります。 The problem is that while the ease and accessibility of analog equipment has increased, the unique value of analog equipment, such as its quirks, physical sensations, and operability, has become less important. ReBirthは、まさにそのギャップを体現していたツールでもあります。
+At the same time, there are things to relearn from ReBirth. The problem is that while the ease and accessibility of analog equipment has increased, the unique value of analog equipment, such as its quirks, physical sensations, and operability, has become less important. ReBirth is a tool that embodies this gap.
 And from now on, the question of "how easy/how creative" will continue to be asked. The "door" presented by ReBirth has not yet closed. Rather, it can be said that it was the spark that opened up the next generation and the next production environment.
 
-最後に、もしこのコラムをご覧になったあなたが、旧機材のサウンドに憧れつつ、手元のPC／ソフトで音を作ってみたいと感じたなら、それ自体がReBirthの精神を受け継いでいる証拠かもしれません。  
-今こそ、レトロとモダンの境界が揺らいだ時代を思い返し、「ソフトウェア化された機材」の可能性に改めて向き合ってみるのも良いでしょう。
+Finally, if you read this column and admire the sound of old equipment, but also feel like creating sounds using your PC/software, that in itself may be proof that you have inherited the spirit of ReBirth.
+Now might be a good time to look back on the era when the boundaries between retro and modern were wavering and take a fresh look at the possibilities of "software-based equipment."
 
 ---
 

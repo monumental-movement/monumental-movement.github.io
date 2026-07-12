@@ -46,7 +46,7 @@ B6. 花と蝶 – 森進一
 B7. 港町ブルース – 森進一
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
 
 
 

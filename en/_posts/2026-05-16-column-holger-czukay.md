@@ -33,7 +33,7 @@ Reverse rotation of the tape.
 Editing mistake.
 A sound recorded by chance.
 
-He did not discard them as "unnecessary noise".
+He did not throw them away as "unnecessary noise".
 
 Rather, he saw the possibility of new music there.
 
@@ -199,7 +199,7 @@ It's not a fancy technique.
 
 Rather, repetition and a sense of space were important.
 
-In particular, CAN's masterpieces ""Tago Mago," ""Ege Bamyasi," and ""Future Days'' highlight their unique sense of circulation.
+In particular, CAN's masterpieces ""Tago Mago," ""Ege Bamyasi," and ""Future Days'' stand out for their unique sense of circulation.
 
 His play feels more like ""drifting through space" than ""moving forward."
 
@@ -386,7 +386,7 @@ He moved away from melody-centeredness and constructed the auditory experience i
 
 This also applies to his later drone, acoustic, and electro-acoustic works.
 
-> Shukai moved in the direction of making sounds "exist" rather than "performing" them.
+> Shukai moved in the direction of making sounds "exist" rather than "playing" them.
 
 ---
 

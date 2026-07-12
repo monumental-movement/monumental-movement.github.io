@@ -113,8 +113,8 @@ Anecdotally, one night at Warehouse, Knuckles' slight change in the tempo of his
 
 Chicago House is closely connected to the evolution of technology.
 - Sound creation with **rhythm machine and synthesizer**
-- **サンプラーやデジタル録音技術**による自宅制作の可能性  
-- **独立レーベルとDIY精神**による文化の民主化  
+- Possibility of home production with **samplers and digital recording technology**
+- Democratization of culture through **independent labels and the DIY spirit**
 
 Larry Heard's home-produced Can You Feel It is an anecdote that symbolizes the democratization of music and the expansion of club culture.
 

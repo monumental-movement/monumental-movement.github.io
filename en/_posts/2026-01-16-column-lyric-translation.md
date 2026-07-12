@@ -29,7 +29,7 @@ This transplant is not always successful. Rather, they are often distorted, miss
 
 In this article, we will view lyric translation from the perspective of ""cultural import,'' and will organize its historical development, theoretical framework, specific examples, and characteristics of its reception in Japan, based only on facts.
 
-> Lyric translation allows musical borders to be crossed, but it does not erase cultural borders.
+> Lyrics translation allows musical borders to be crossed, but it does not erase cultural borders.
 
 ---
 
@@ -67,7 +67,7 @@ In the field of lyrics translation, the choice between literal translation and l
 Literal translations are good at preserving meaning, but often lose rhythm and emotion.
 Parallel translations preserve the sense of hearing and emotion, but tend to deviate from the meaning of the original text.
 
-Particularly in popular music, there are strong restrictions on melody and number of words, and the logic of prose translation does not apply.
+In particular, popular music has strong restrictions on melody and number of words, and the logic of prose translation does not apply.
 The addition or subtraction of a single syllable disrupts the entire melody, forcing translators to constantly reduce and reconstruct meaning.
 
 In this process, the translator's own cultural understanding and value judgments inevitably intervene.
@@ -146,9 +146,9 @@ This has made hip-hop a special case of cultural import without any translation.
 
 ---
 
-## Chapter 8: Japanese rap and cultural import in the opposite direction
+## Chapter 8 Japanese rap and the opposite culture transfer
 
-The establishment of Japanese rap progressed not through the translation of English lyrics, but through the transplantation of form and attitude.
+The establishment of Japanese rap progressed not through translation of English lyrics, but through the transplantation of form and attitude.
 Here, the focus is on imitation and reconstruction rather than translation.
 
 In the process of adapting English prosody to Japanese, the unique Japanese sense of rhythm was emphasized and a new system of expression was born.
