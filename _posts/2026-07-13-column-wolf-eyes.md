@@ -1,72 +1,17 @@
 ---
 layout: post
-title: "【コラム】 Terveet Kädet──フィンランド・ハードコアの原点と世界への衝撃"
+title: "【コラム】 Wolf Eyes──デトロイトから世界へ広がったノイズ・ミュージックの再定義"
 author: mmr
 categories: [ Column ]
-tags: [ Finnish Hardcore, Hardcore Punk, Punk ]
+tags: [ Noise, Experimental, Industrial ]
 image: ../assets/images/column-wolf-eyes.webp
 date: 2026-07-13 00:00:02 +0900
 ---
 
-## 世界最北級の衝動──Terveet Kädetが現れた意味
-
-文：mmr｜テーマ：1980年代初頭、世界最速級のハードコアを鳴らしたフィンランドのTerveet Kädet。その誕生から世界への波及までを、歴史と文化の両面から読み解く
-
-
-1970年代後半、パンク・ロックはイギリスやアメリカだけの現象ではなくなっていた。レコード、音楽雑誌、カセットテープ、そしてライブツアーを通じて、その衝動はヨーロッパ各地へと広がり、それぞれの土地で独自の進化を始めていた。
-
-その中でも特異な発展を遂げた地域の一つがフィンランドである。
-
-人口規模は決して大きくなく、国際的な音楽産業の中心地でもない。しかし、この国からは後に世界中のハードコア・パンクへ影響を及ぼす数多くのバンドが誕生する。その最初期に現れ、後世に計り知れない影響を残した存在こそがTerveet Kädetだった。
-
-英語圏では「TK」の略称でも知られるこのバンドは、1980年に北フィンランドの都市トルニオで結成された。
-
-当時のヨーロッパでは、ロンドンやロサンゼルスのような巨大都市がパンク・シーンの中心だった。一方でトルニオはスウェーデン国境に近い地方都市であり、国際的な音楽市場とは距離があった。
-
-しかし、その地理的な隔たりこそが、Terveet Kädet独自の表現を育てる土壌となった。
-
-彼らは流行を追う必要もなく、大都市のシーンに迎合する必要もなかった。自分たちの怒りや閉塞感を、そのまま音へ変えていったのである。
-
-この姿勢は後にDIY精神の象徴として世界中のパンク・シーンから高く評価されることになる。
-
-
-<style type="text/css">
-
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
-}
-th {
-background-color: #111;
-color: #fff;
-}
-</style>
-
-
----
-
-layout: post
-title: "Wolf Eyes──デトロイトから世界へ広がったノイズ・ミュージックの再定義"
-description: "アメリカ・デトロイトで誕生したWolf Eyesの歴史、作品、メンバー変遷、音楽性、文化的影響を事実に基づいて詳しく解説。"
-date: 2026-07-14
-lang: ja
-categories:
-  - column
-tags:
-  - Wolf Eyes
-  - Noise
-  - Experimental Music
-  - Industrial
-  - Detroit
-  - Free Improvisation
-  - Underground Music
----
-
-**テーマ：**
-デトロイトの地下文化から誕生したWolf Eyesは、ノイズを単なる過激な音響ではなく、現代音楽の表現手法へ押し広げた重要な存在である。その歩みを歴史・作品・文化的背景から読み解く。
-
 ## デトロイトという都市が育てた異端の音楽
+
+文：mmr｜テーマ：デトロイトの地下文化から誕生したWolf Eyesは、ノイズを単なる過激な音響ではなく、現代音楽の表現手法へ押し広げた重要な存在である。その歩みを歴史・作品・文化的背景から読み解く
+
 
 ### 工業都市とアンダーグラウンド文化
 
@@ -88,6 +33,25 @@ tags:
 1960年代にはMC5やThe Stoogesが爆発的なライブを展開し、1980年代にはJuan Atkinsらによってデトロイト・テクノが確立される。
 
 Wolf Eyesが登場する1990年代半ばには、こうした「既存のルールを壊す文化」が都市に深く根付いていた。
+
+
+<style type="text/css">
+
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
+}
+th {
+background-color: #111;
+color: #fff;
+}
+</style>
+
+
+---
+
+
 
 ### ノイズという音楽の変化
 
