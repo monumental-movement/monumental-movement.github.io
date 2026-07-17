@@ -279,3 +279,12 @@ My Bloody Valentineの作品では、歌詞が完全に聴き取れない箇所�
 両者は同一の手法を共有しながら、異なる方向へと到達した。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KI7dk_T_2Ss?si=SnmFCsXt3sdtq1yH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
